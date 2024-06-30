@@ -4,11 +4,11 @@ title: Loi du 17 juin 2005 sur le Tribunal fédéral (LTF)
 short: LTF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/218"
 language: fr
-version: 2024-02-01
+version: 2024-07-01
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2006-218-20240201-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20240201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2006-218-20240701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20240201/fr"
 
 (LTF)[^t-1]
 
-du 17 juin 2005 (État le 1<sup>er</sup> février 2024)
+du 17 juin 2005 (État le 1<sup>er</sup> juillet 2024)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -1030,11 +1030,11 @@ Le recours est irrecevable contre les décisions de la cour des plaintes du Trib
 
 <sup>1</sup> Le recours est recevable contre les décisions prises par les autorités cantonales de dernière instance ou par la Cour des plaintes et la Cour d’appel du Tribunal pénal fédéral.[^80-1]
 
-<sup>2</sup> Les cantons instituent des tribunaux supérieurs comme autorités cantonales de dernière instance. Ces tribunaux statuent sur recours. Sont exceptés les cas dans lesquels le code de procédure pénale du 5 octobre 2007 (CPP)[^80-2] prévoit un tribunal des mesures de contrainte ou un autre tribunal comme instance cantonale unique.[^80-3]
+<sup>2</sup> Les cantons instituent des tribunaux supérieurs comme autorités cantonales de dernière instance. Ces tribunaux statuent sur recours. Sont exceptés les cas dans lesquels le code de procédure pénale (CPP)[^80-2] prévoit un tribunal supérieur ou un tribunal des mesures de contrainte comme instance unique.[^80-3]
 
 [^80-1]: Nouvelle teneur selon le ch. II 1 de la L du 17 mars 2017 (Création d’une cour d’appel au Tribunal pénal fédéral), en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 5769](https://fedlex.data.admin.ch/eli/oc/2017/624); [FF 2013 6375](https://fedlex.data.admin.ch/eli/fga/2013/1333), [2016 5983](https://fedlex.data.admin.ch/eli/fga/2016/1190)).
 [^80-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^80-3]: Phrase introduite par l’annexe ch. II 5 de la LF du 19 mars 2010 sur l’organisation des autorités pénales, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [FF 2008 7371](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^80-3]: Nouvelle teneur selon le ch. II de la LF du 16 juin 2023 portant révision du droit pénal en matière sexuelle, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2889](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 #### Art. 81
 

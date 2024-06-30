@@ -4,11 +4,11 @@ title: "Lescha federala dals 17 da zercladur 2005 davart il Tribunal federal (Le
 short: LTF
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/218"
 language: rm
-version: 2024-02-01
+version: 2024-07-01
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20240201/rm/xml/fedlex-data-admin-ch-eli-cc-2006-218-20240201-rm-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20240201/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20240701/rm/xml/fedlex-data-admin-ch-eli-cc-2006-218-20240701-rm-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20240701/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,9 +17,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20240201/rm"
 
 Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Confederaziun, numnadamain en la correspundenza cun persunas da lingua rumantscha. La translaziun d’in decret federal serva a l’infurmaziun, n’ha dentant nagina validitad legala.[^t-1]
 
-(Lescha davart il tribunal federal, LTF)
+(Lescha davart il Tribunal federal, LTF)
 
-dals 17 da zercladur 2005 (versiun dal 1. da favrer 2024)
+dals 17 da zercladur 2005 (versiun dal 1. da fanadur 2024)
 
 [^t-1]: <sup>\*</sup> Las designaziuns da persunas, da funcziuns e da professiuns en questa lescha valan tant per persunas femininas sco er masculinas.
 
@@ -1033,11 +1033,11 @@ Il recurs è inadmissibel cunter decisiuns da la Chombra da recurs dal Tribunal 
 
 <sup>1</sup> Il recurs è admissibel cunter decisiuns da las ultimas instanzas chantunalas sco er cunter decisiuns da la Chombra da recurs e da la Chombra d’appellaziun dal Tribunal penal federal.[^80-1]
 
-<sup>2</sup> Sco ultimas instanzas chantunalas nomineschan ils chantuns dretgiras superiuras. Quellas decidan sco instanzas da recurs. Exceptads èn ils cas, en ils quals ina dretgira da mesiras repressivas u in’autra dretgira decida sco suletta instanza chantunala tenor il Cudesch da procedura penala dals 5 d’october 2007[^80-2] (CPP).[^80-3]
+<sup>2</sup> Sco ultimas instanzas chantunalas nomineschan ils chantuns dretgiras superiuras. Quellas decidan sco instanzas da recurs. Exceptads èn ils cas, en ils quals ina dretgira superiura u ina dretgira da mesiras repressivas decida sco suletta instanza chantunala tenor il Cudesch da procedura penala (CPP)[^80-2].[^80-3]
 
 [^80-1]: Versiun tenor la cifra II 1 da la LF dals 17 da mars 2017 (installaziun d’ina chombra d’appellaziun al TPF), en vigur dapi il 1. da schan. 2019 ([AS 2017 5769](https://fedlex.data.admin.ch/eli/oc/2017/624); [BBl 2013 7109](https://fedlex.data.admin.ch/eli/fga/2013/1333), [2016 6199](https://fedlex.data.admin.ch/eli/fga/2016/1190)).
 [^80-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^80-3]: Integrà la terza frasa tras la cifra II 5 da l’agiunta da la LF dals 19 da mars 2010 davart l’organisaziun da las autoritads penalas, en vigur dapi il 1. da schan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^80-3]: Versiun tenor la cifra II da la LF dals 16 da zer. 2023 davart la revisiun dal dretg penal sexual, en vigur dapi il 1. da fan. 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 #### Art. 81
 

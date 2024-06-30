@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 17. Juni 2005 über das Bundesgericht (Bundesgerichtsge
 short: BGG
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/218"
 language: de
-version: 2024-02-01
+version: 2024-07-01
 adopted: 2005-06-17
 in_force: 2007-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2006-218-20240201-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20240201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/218/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2006-218-20240701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/218/20240201/de"
 
 (Bundesgerichtsgesetz, BGG)
 
-vom 17. Juni 2005 (Stand am 1. Februar 2024)
+vom 17. Juni 2005 (Stand am 1. Juli 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -1029,11 +1029,11 @@ Die Beschwerde ist unzulässig gegen Entscheide der Beschwerdekammer des Bundess
 
 <sup>1</sup> Die Beschwerde ist zulässig gegen Entscheide letzter kantonaler Instanzen und gegen Entscheide der Beschwerdekammer und der Berufungskammer des Bundesstrafgerichts.[^80-1]
 
-<sup>2</sup> Die Kantone setzen als letzte kantonale Instanzen obere Gerichte ein. Diese entscheiden als Rechtsmittelinstanzen. Ausgenommen sind die Fälle, in denen nach der Strafprozessordnung vom 5. Oktober 2007[^80-2] (StPO) ein Zwangsmassnahmegericht oder ein anderes Gericht als einzige kantonale Instanz entscheidet.[^80-3]
+<sup>2</sup> Die Kantone setzen als letzte kantonale Instanzen obere Gerichte ein. Diese entscheiden als Rechtsmittelinstanzen. Ausgenommen sind die Fälle, in denen nach der Strafprozessordnung (StPO)[^80-2] ein oberes Gericht oder ein Zwangsmassnahmengericht als einzige kantonale Instanz entscheidet.[^80-3]
 
 [^80-1]: Fassung gemäss Ziff. II 1 des BG vom 17. März 2017 (Schaffung einer Berufungskammer am Bundesstrafgericht), in Kraft seit 1. Jan. 2019 ([AS 2017 5769](https://fedlex.data.admin.ch/eli/oc/2017/624); [BBl 2013 7109](https://fedlex.data.admin.ch/eli/fga/2013/1333), [2016 6199](https://fedlex.data.admin.ch/eli/fga/2016/1190)).
 [^80-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
-[^80-3]: Dritter Satz eingefügt durch Anhang Ziff. II 5 des Strafbehördenorganisationsgesetzes vom 19. März 2010, in Kraft seit 1. Jan. 2011 ([AS 2010 3267](https://fedlex.data.admin.ch/eli/oc/2010/444); [BBl 2008 8125](https://fedlex.data.admin.ch/eli/fga/2008/1395)).
+[^80-3]: Fassung gemäss Ziff. II des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 #### Art. 81
 
