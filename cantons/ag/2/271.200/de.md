@@ -4,13 +4,12 @@ number: "271.200"
 title: Gesetz über die Verwaltungsrechtspflege
 short: "Verwaltungsrechtspflegegesetz, VRPG"
 language: de
-version: 2017-05-01
-valid_until: 2024-06-30
-version_adopted: 2016-09-20
+version: 2024-07-01
+version_adopted: 2023-09-19
 adopted: 2007-12-04
 in_force: 2009-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/271.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3290/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3449/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3290/pdf_file"
 
 (Verwaltungsrechtspflegegesetz, VRPG)
 
-Vom 04.12.2007 (Stand 01.05.2017)
+Vom 04.12.2007 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -85,9 +84,11 @@ beschliesst:
 
 **Verzinsung**
 
-<sup>1</sup> Auf fälligen öffentlich-rechtlichen Forderungen ist ein Verzugszins von 5 % pro Jahr zu bezahlen.
+<sup>1</sup> Auf fälligen öffentlich-rechtlichen Forderungen ist ein Verzugszins zu bezahlen. Der Regierungsrat legt den Verzugszins jährlich neu durch Verordnung fest.
 
 <sup>2</sup> In Härtefällen kann auf den Verzugszins ganz oder teilweise verzichtet werden.
+
+<sup>3</sup> Verzugszinsen sind nicht zu erheben, wenn sie die Kosten des Bezugs nicht decken würden oder wenn die Bezugsbemühungen von vornherein aussichtslos erscheinen.
 
 ## 3. Verfahrensvorschriften
 
@@ -133,7 +134,7 @@ beschliesst:
 
 <sup>3</sup> Amts- und Rechtshilfe sind ausnahmsweise nicht zu leisten, wenn die Erfüllung der eigenen Aufgaben dadurch erheblich gefährdet ist, wenn eine andere Behörde die Amtshilfe erheblich einfacher leisten könnte oder wenn rechtliche Gründe dagegen sprechen.
 
-<sup>4</sup> Die ersuchte Behörde leistet Amts- und Rechtshilfe gebührenfrei. Auf den Ersatz der Auslagen kann sie bei Geringfügigkeit verzichten.
+<sup>4</sup> Die ersuchte Behörde leistet unentgeltlich Amts- und Rechtshilfe.
 
 #### § 11
 
@@ -353,7 +354,7 @@ beschliesst:
 
 **b) Kostenvorschuss**
 
-<sup>1</sup> Die instruierende Behörde kann in Beschwerdeverfahren unter Ansetzung einer angemessenen Frist einen Anteil der mutmasslichen Verfahrenskosten als Kostenvorschuss erheben.
+<sup>1</sup> Die instruierende Behörde kann in Beschwerdeverfahren unter Ansetzung einer angemessenen Frist einen die mutmasslichen Verfahrenskosten bis zur Hälfte deckenden, maximal Fr. 10'000.– betragenden Kostenvorschuss erheben.
 
 <sup>2</sup> Bezahlt die Partei den Kostenvorschuss nicht innert Frist, setzt ihr die instruierende Behörde eine letzte Frist von 10 Tagen mit der Androhung, dass auf das Begehren nicht eingetreten wird.
 
@@ -878,7 +879,7 @@ beschliesst:
 
 **Kosten**
 
-<sup>1</sup> Die Kosten (Gebühren und Auslagen) einer Vollstreckung sind von der pflichtigen Person zu bezahlen.
+<sup>1</sup> …
 
 <sup>2</sup> Bei der Ersatzvornahme kann die Vollstreckungsbehörde von der pflichtigen Person einen Kostenvorschuss in der Höhe der mutmasslichen Vollstreckungskosten erheben.
 
