@@ -4,13 +4,13 @@ number: "651.313"
 title: "Verordnung über Vergütungs-, Ausgleichs- und Verzugszinsen"
 short: Zinsverordnung
 language: de
-version: 2024-01-01
-valid_until: 2024-06-30
-version_adopted: 2023-11-01
+version: 2024-07-01
+valid_until: 2024-12-31
+version_adopted: 2024-03-13
 adopted: 2013-11-06
 in_force: 2014-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/651.313"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3369/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3509/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,21 +19,23 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3369/pdf_file"
 
 (Zinsverordnung)
 
-Vom 06.11.2013 (Stand 01.01.2024)
+Vom 06.11.2013 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf die §§ 223a Abs. 4 und 224a Abs. 4 des Steuergesetzes (StG) vom 15. Dezember 1998[^ingress-1],
+gestützt auf § 6 Abs. 1 des Gesetzes über die Verwaltungsrechtspflege (Verwaltungsrechtspflegegesetz, VRPG) vom 4. Dezember 2007[^ingress-1], die §§ 223a Abs. 4 und 224a Abs. 4 des Steuergesetzes (StG) vom 15. Dezember 1998[^ingress-2] und § 19 Abs. 4 des Allgemeinen Gebührengesetzes (GebührG) vom 19. September 2023[^ingress-3],
 
 beschliesst:
 
-[^ingress-1]: SAR [651.100](https://gesetzessammlungen.ag.ch/data/651.100/de)
+[^ingress-1]: SAR [271.200](https://gesetzessammlungen.ag.ch/data/271.200/de)
+[^ingress-2]: SAR [651.100](https://gesetzessammlungen.ag.ch/data/651.100/de)
+[^ingress-3]: SAR [662.100](https://gesetzessammlungen.ag.ch/data/662.100/de)
 
 #### § 1
 
 <sup>1</sup> Die Zinssätze werden im Anhang dieser Verordnung festgelegt.
 
-<sup>2</sup> Die Verzinsung der Steuerforderungen, Bussen und Guthaben der Steuerpflichtigen erfolgt nach Massgabe der in den einzelnen Kalenderjahren geltenden Zinssätze.
+<sup>2</sup> Die Verzinsung der Steuer- oder Gebührenforderungen, steuerrechtlichen Bussen und Guthaben der Steuer- oder Gebührenpflichtigen erfolgt nach Massgabe der in den einzelnen Kalenderjahren geltenden Zinssätze.
 
 #### § 2
 
