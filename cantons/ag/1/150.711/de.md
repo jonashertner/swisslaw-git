@@ -4,13 +4,13 @@ number: "150.711"
 title: "Verordnung zum Gesetz über die Information der Öffentlichkeit, den Datenschutz und das Archivwesen"
 short: VIDAG
 language: de
-version: 2018-08-01
-valid_until: 2024-06-30
-version_adopted: 2018-05-23
+version: 2024-07-01
+valid_until: 2025-12-31
+version_adopted: 2024-03-13
 adopted: 2007-09-26
 in_force: 2008-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/150.711"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2631/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3483/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2631/pdf_file"
 
 (VIDAG)
 
-Vom 26.09.2007 (Stand 01.08.2018)
+Vom 26.09.2007 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -319,13 +319,13 @@ beschliesst:
 
 #### § 22
 
-**Gebühren; aufwändiges Verfahren**
+**Gebühren**
 
-<sup>1</sup> Die Höhe der gemäss § 40 Abs. 2 IDAG von den öffentlichen Organen zu beziehenden Gebühren bemisst sich nach den Ansätzen der Verordnung über die Kanzleigebühren vom 14. Oktober 1991[^22-1].
+<sup>1</sup> Die Höhe der gemäss § 40 Abs. 2 IDAG von den öffentlichen Organen zu beziehenden Gebühren bemisst sich nach § 5 der Gebührenverordnung (GebührV) vom 13. März 2024[^22-1].
 
-<sup>2</sup> Ein Verfahren ist aufwendig gemäss § 40 Abs. 2 lit. a IDAG, wenn das öffentliche Organ durch das Verfahren insgesamt eine halbe Stunde und mehr beschäftigt wird.
+<sup>2</sup> …
 
-[^22-1]: SAR [661.113](https://gesetzessammlungen.ag.ch/data/661.113/de)
+[^22-1]: SAR [662.111](https://gesetzessammlungen.ag.ch/data/662.111/de)
 
 ## 4. Archivwesen
 
@@ -401,13 +401,13 @@ beschliesst:
 
 #### § 30
 
-**Nachforschungen und Gebühren**
+**Nachforschungen**
 
-<sup>1</sup> Das Staatsarchiv ist nicht verpflichtet, für Dritte Nachforschungen vorzunehmen.
+<sup>1</sup> Das Staatsarchiv kann für Dritte Nachforschungen vornehmen.
 
-<sup>2</sup> Nimmt das Staatsarchiv für Dritte gleichwohl Nachforschungen vor, wird bei einem Aufwand von mehr als 15 Minuten Dauer pro angebrochene weitere Viertelstunde eine Verwaltungsgebühr von Fr. 20.–, insgesamt aber höchstens Fr. 200.–, erhoben.
+<sup>2</sup> …
 
-<sup>3</sup> Die Gebühr für die Benutzung des Mikrofilmlesegeräts beträgt Fr. 20.– pro Tag.
+<sup>3</sup> …
 
 #### § 31
 
