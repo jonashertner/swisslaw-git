@@ -4,11 +4,11 @@ title: Verordnung vom 27. April 2022 über Informationssysteme des BLV für die 
 short: ISLK-V
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/272"
 language: de
-version: 2023-09-01
+version: 2024-07-01
 adopted: 2022-04-27
 in_force: 2022-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/272/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2022-272-20230901-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/272/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/272/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2022-272-20240701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/272/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/272/20230901/de"
 
 (ISLK-V)
 
-vom 27. April 2022 (Stand am 1. September 2023)
+vom 27. April 2022 (Stand am 1. Juli 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -384,13 +384,16 @@ Das BLV betreibt zur Auswertung und Analyse der Daten aus seinem Zuständigkeits
 - e. dem Informationssystem für die Beprobung von Rindvieh im Schlachthof;
 - f. der Anwenderplattform Verbraucherschutz;
 - g. dem in das Informationsmanagementsystem für amtliche Kontrollen der Europäischen Union nach den Artikeln 131–136 der Verordnung (EU) 2017/625[^23-2] integrierten System «Trade Control and Expert System» (TRACES);
-- h. dem Informationssystem für den elektronischen Datenabgleich zwischen dem System für die Zollanmeldung des BAZG und TRACES zur automatisierten Überprüfung von Einfuhrsendungen hinsichtlich gültiger Bewilligungen und Veterinärdokumente nach Artikel 79*a* der Verordnung vom 18. November 2015[^23-3] über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten.
+- h. dem Informationssystem für den elektronischen Datenabgleich zwischen dem System für die Zollanmeldung des BAZG und TRACES zur automatisierten Überprüfung von Einfuhrsendungen hinsichtlich gültiger Bewilligungen und Veterinärdokumente nach Artikel 79*a* der Verordnung vom 18. November 2015[^23-3] über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten;
+- i.[^23-4] dem E-Cert nach den Artikeln 102*j*–102*l* der Verordnung vom 18. November 2015[^23-5] über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten.
 
 <sup>2</sup> Die Zugriffsrechte für die Daten im ALVPH richten sich nach den rechtlichen Vorgaben, die für die einzelnen Informationssysteme gelten. Die Zugriffsrechte für die Daten, die über die Schnittstelle im ARES aus den Informationssystemen der Kantone ins ALVPH übermittelt werden (Art. 3 Abs. 3), richten sich nach den Artikeln 9 und 10.
 
 [^23-1]: [SR 455.61](https://fedlex.data.admin.ch/eli/cc/2010/563)
 [^23-2]: Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates vom 15. März 2017 über amtliche Kontrollen und andere amtliche Tätigkeiten zur Gewährleistung der Anwendung des Lebens- und Futtermittelrechts und der Vorschriften über Tiergesundheit und Tierschutz, Pflanzengesundheit und Pflanzenschutzmittel, zur Änderung der Verordnungen (EG) Nr. 999/2001, (EG) Nr. 396/2005, (EG) Nr. 1069/2009, (EG) Nr. 1107/2009, (EU) Nr. 1151/2012, (EU) Nr. 652/2014, (EU) 2016/429 und (EU) 2016/2031 des Europäischen Parlaments und des Rates, der Verordnungen (EG) Nr. 1/2005 und (EG) Nr. 1099/2009 des Rates sowie der Richtlinien 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG und 2008/120/EG des Rates und zur Aufhebung der Verordnungen (EG) Nr. 854/2004 und (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates, der Richtlinien 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EEG, 96/23/EG, 96/93/EG und 97/78/EG des Rates und des Beschlusses 92/438/EWG des Rates (Verordnung über amtliche Kontrollen), ABl. L 95 vom 7.4.2017, S. 1; zuletzt geändert durch Delegierte Verordnung (EU) 2019/2127, ABl. L 321 vom 12.12.2019, S. 111.
 [^23-3]: [SR 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
+[^23-4]: Eingefügt durch Ziff. II 1 der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^23-5]: [SR 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
 
 ## 7. Abschnitt: Datenschutz, Daten- und Informatiksicherheit, Aufbewahrung und Archivierung der Daten sowie Vorschriften technischer Art
 

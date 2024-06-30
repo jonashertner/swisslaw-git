@@ -4,11 +4,11 @@ title: Ordonnance du 27 avril 2022 concernant les systèmes d’information de l
 short: O-SICAL
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/272"
 language: fr
-version: 2023-09-01
+version: 2024-07-01
 adopted: 2022-04-27
 in_force: 2022-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/272/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2022-272-20230901-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/272/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/272/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2022-272-20240701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/272/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/272/20230901/fr"
 
 (O-SICAL)
 
-du 27 avril 2022 (État le 1<sup>er</sup> septembre 2023)
+du 27 avril 2022 (État le 1<sup>er</sup> juillet 2024)
 
 Le Conseil fédéral suisse,
 
@@ -384,13 +384,16 @@ Pour évaluer et analyser les données de son domaine de compétence, l’OSAV e
 - e. le système d’information pour le prélèvement d’échantillons de bovins à l’abattoir;
 - f. la plateforme d’applications pour la protection des consommateurs;
 - g. le système intégré dans le système de gestion de l’information sur les contrôles officiels de l’Union européenne visé aux art. 131 à 136 du règlement (UE) 2017/625[^23-2], appelé «Trade Control and Expert System» (TRACES);
-- h. le système d’information visé à l’art. 79*a* de l’ordonnance du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers[^23-3], qui, grâce à une vérification électronique par recoupement des données entre TRACES et le système de l’OFDF pour les déclarations en douane, permet de vérifier automatiquement la validité des autorisations et des documents vétérinaires présentés pour les lots importés.
+- h. le système d’information visé à l’art. 79*a* de l’ordonnance du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers[^23-3], qui, grâce à une vérification électronique par recoupement des données entre TRACES et le système de l’OFDF pour les déclarations en douane, permet de vérifier automatiquement la validité des autorisations et des documents vétérinaires présentés pour les lots importés;
+- i.[^23-4] le système eCert visé aux art. 102*j* à 102*l* de l’ordonnance du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers[^23-5].
 
 <sup>2</sup> Les droits d’accès aux données dans ALVPH sont soumis aux règles qui valent pour chacun des systèmes d’information individuellement. Les droits d’accès aux données transmises à ALVPH via l’interface ARES à partir des systèmes d’information des cantons (art. 3, al. 3) sont régis par les art. 9 et 10.
 
 [^23-1]: [RS 455.61](https://fedlex.data.admin.ch/eli/cc/2010/563)
 [^23-2]: Règlement (UE) 2017/625 du Parlement européen et du Conseil du 15 mars 2017 concernant les contrôles officiels et les autres activités officielles servant à assurer le respect de la législation alimentaire et de la législation relative aux aliments pour animaux ainsi que des règles relatives à la santé et au bien-être des animaux, à la santé des végétaux et aux produits phytopharmaceutiques, modifiant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 999/2001, (CE) n<sup>o</sup> 396/2005, (CE) n<sup>o</sup> 1069/2009, (CE) n<sup>o</sup> 1107/2009, (UE) n<sup>o</sup> 1151/2012, (UE) n<sup>o</sup> 652/2014, (UE) 2016/429 et (UE) 2016/2031, les règlements du Conseil (CE) n<sup>o</sup> 1/2005 et (CE) n<sup>o</sup> 1099/2009 ainsi que les directives du Conseil 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE et 2008/120/CE, et abrogeant les règlements du Parlement européen et du Conseil (CE) n<sup>o</sup> 854/2004 et (CE) n<sup>o</sup> 882/2004, les directives du Conseil 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE et 97/78/CE ainsi que la décision 92/438/CEE du Conseil (règlement sur les contrôles officiels), JO L 95 du 7.4.2017, p. 1; modifié en dernier lieu par le règlement délégué (UE) 2019/2127, JO L 321 du 12.12.2019, p. 111.
 [^23-3]: [RS 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
+[^23-4]: Introduite par le ch. II 1 de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^23-5]: [RS 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
 
 ## Section 7 Protection des données, sécurité des données et sécurité informatique, conservation et archivage des données, et dispositions de caractère technique
 
@@ -509,7 +512,7 @@ Annexe 1
 - 2\.2.4 Médicaments vétérinaires
 - **2.3** **Contrôles**
 - 2\.3.1 Contrôles dont les données doivent être saisies ou téléchargées dans le système d’information pour les données de contrôle visé aux art. 6 à 9 OSIAgr[^annex1-lvlu1-lvl2-1]
-- [tab] 2.3.2 Autres contrôles
+- 2\.3.2 Autres contrôles
 - **2.4** **Décisions, mesures et procédures**
 
 <table>
@@ -632,7 +635,7 @@ II
 
 Les ordonnances mentionnées ci-après sont modifiées comme suit:
 
-...[^annex4-lvlu1-2]
+…[^annex4-lvlu1-2]
 
 [^annex4-lvlu1-1]: [[RO 2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325); [2015 4269](https://fedlex.data.admin.ch/eli/oc/2015/717); [2018 4353](https://fedlex.data.admin.ch/eli/oc/2018/702)art. 20 ch. 3,[4543](https://fedlex.data.admin.ch/eli/oc/2018/708); [2021 132](https://fedlex.data.admin.ch/eli/oc/2021/132)annexe ch. 34, [751](https://fedlex.data.admin.ch/eli/oc/2021/751)annexe 3 ch. II 11]
 [^annex4-lvlu1-2]: Les mod. peuvent être consultées au [RO 2022 272](https://fedlex.data.admin.ch/eli/oc/2022/272).

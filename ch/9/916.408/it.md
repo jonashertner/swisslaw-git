@@ -4,11 +4,11 @@ title: Ordinanza del 27 aprile 2022 concernente i sistemi d’informazione dell�
 short: O-SIFA
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/272"
 language: it
-version: 2023-09-01
+version: 2024-07-01
 adopted: 2022-04-27
 in_force: 2022-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/272/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2022-272-20230901-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/272/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/272/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2022-272-20240701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/272/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/272/20230901/it"
 
 (O-SIFA)
 
-del 27 aprile 2022 (Stato 1° settembre 2023)
+del 27 aprile 2022 (Stato 1° luglio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -384,13 +384,16 @@ L’USAV gestisce il sistema di valutazione e di analisi della sicurezza aliment
 - e. del sistema d’informazione per la campionatura dei bovini nei macelli;
 - f. della piattaforma utenti per la protezione dei consumatori;
 - g. del sistema «Trade Control and Expert System» (TRACES)» integrato nel sistema per il trattamento delle informazioni per i controlli ufficiali dell’Unione europea di cui agli articoli 131–136 del regolamento (UE) 2017/625[^23-2];
-- h. del sistema d’informazione per il confronto elettronico dei dati tra il sistema per la dichiarazione doganale dell’UDSC e TRACES che consente la verifica automatizzata delle partite importate in merito alle autorizzazioni valide e ai documenti veterinari di cui all’articolo 79*a* dell’ordinanza del 18 novembre 2015[^23-3] concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi.
+- h. del sistema d’informazione per il confronto elettronico dei dati tra il sistema per la dichiarazione doganale dell’UDSC e TRACES che consente la verifica automatizzata delle partite importate in merito alle autorizzazioni valide e ai documenti veterinari di cui all’articolo 79*a* dell’ordinanza del 18 novembre 2015[^23-3] concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi;
+- i.[^23-4] del sistema d’informazione E-Cert di cui agli articoli 102*j*–102*l* dell’ordinanza del 18 novembre 2015[^23-5] concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi.
 
 <sup>2</sup> I diritti di accesso ai dati in ALVPH sono retti dalle disposizioni legali che si applicano singolarmente ai sistemi d’informazione. I diritti di accesso ai dati che vengono trasmessi dai sistemi d’informazione dei Cantoni ad ALPHV tramite l’interfaccia in ARES (art. 3 cpv. 3) sono retti dagli articoli 9 e 10.
 
 [^23-1]: [RS 455.61](https://fedlex.data.admin.ch/eli/cc/2010/563)
 [^23-2]: Regolamento (UE) 2017/625 del Parlamento europeo e del Consiglio, del 15 marzo 2017, relativo ai controlli ufficiali e alle altre attività ufficiali effettuati per garantire l’applicazione della legislazione sugli alimenti e sui mangimi, delle norme sulla salute e sul benessere degli animali, sulla sanità delle piante nonché sui prodotti fitosanitari, recante modifica dei regolamenti (CE) n. 999/ 2001, (CE) n. 396/2005, (CE) n. 1069/2009, (CE) n. 1107/2009, (UE) n. 1151/2012, (UE) n. 652/2014, (UE) 2016/429 e (UE) 2016/2031 del Parlamento europeo e del Consiglio, dei regolamenti (CE) n. 1/ 2005 e (CE) n. 1099/2009 del Consiglio e delle direttive 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/ CE e 2008/120/CE del Consiglio, e che abroga i regolamenti (CE) n. 854/2004 e (CE) n. 882/2004 del Parlamento europeo e del Consiglio, le direttive 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE e 97/78/CE del Consiglio e la decisione 92/438/CEE del Consiglio (regolamento sui controlli ufficiali) GU L 95 del 7.4.2017, pag. 1; modificato da ultimo dal regolamento delegato (UE) 2019/2127, GU L 321 del 12.12.2019, pag. 111.
 [^23-3]: [RS 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
+[^23-4]: Introdotta dal n. II 1 dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^23-5]: [RS 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
 
 ## Sezione 7: Protezione dei dati, sicurezza dei dati e informatica, conservazione e archiviazione dei dati, disposizioni di tipo tecnico
 
@@ -525,15 +528,19 @@ Allegato 1
 - **2.6** **Documenti**
 - 2\.6.1 Modelli di documento
 - 2\.6.2 Documenti specifici per ogni unità elaborati in sede di esecuzione
-- **3** **Dati di sistema**
+
+[^annex1-lvlu1-lvl2-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+
+### 3 Dati di sistema
+
 - 3\.1 Elenchi di riferimento
 - 3\.2 Modelli di rapporto
 - 3\.3 File log del sistema
-- **4** **Dati utenti**
+
+### 4 Dati utenti
+
 - 4\.1 Identificazione dell’utente
 - 4\.2 Ruolo dell’utente
-
-[^annex1-lvlu1-lvl2-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
 
 Allegato 2
 
