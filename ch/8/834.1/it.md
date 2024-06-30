@@ -4,11 +4,11 @@ title: "Legge federale del 25 settembre 1952 sulle indennità di perdita di guad
 short: LIPG
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050"
 language: it
-version: 2024-01-01
+version: 2024-07-01
 adopted: 1952-09-25
 in_force: 1953-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20240101-it-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20240701/it/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20240701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20240101/it"
 
 (Legge sulle indennità di perdita di guadagno, LIPG)[^t-1]
 
-del 25 settembre 1952 (Stato 1° gennaio 2024)
+del 25 settembre 1952 (Stato 1° luglio 2024)
 
 [^t-1]: Nuovo testo giusta il n. II 4 della LF del 20 dic. 2019 concernente il miglioramento della conciliabilità tra attività lucrativa e assistenza ai familiari, in vigore dal 1° lug. 2021 ([RU 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3381](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
@@ -360,9 +360,10 @@ In caso di degenza ospedaliera del neonato, la durata del versamento è prolunga
 
 <sup>2</sup> In caso di degenza ospedaliera del neonato, il diritto all’indennità di maternità si estingue alla fine del prolungamento previsto dall’articolo 16*c* capoverso 3.
 
-<sup>3</sup> Il diritto all’indennità di maternità si estingue prima se la madre riprende un’attività lucrativa o muore
+<sup>3</sup> Il diritto all’indennità di maternità si estingue prima se la madre riprende un’attività lucrativa o muore; non si estingue tuttavia prima se la madre partecipa quale parlamentare a sedute di una camera o commissione di un Parlamento, a livello federale, cantonale o comunale, per le quali non è prevista una supplenza.[^16d-2]
 
 [^16d-1]: Nuovo testo giusta il n. I della LF del 18 dic. 2020, in vigore dal 1° lug. 2021 ([RU 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 137](https://fedlex.data.admin.ch/eli/fga/2019/9)).
+[^16d-2]: Nuovo testo giusta il n. I della LF del 29 set. 2023 (Indennità di maternità per le parlamentari), in vigore dal 1° lug. 2024 (RU **202****4** 151; FF **20****23** 934, 1357).
 
 #### Art. 16e
 

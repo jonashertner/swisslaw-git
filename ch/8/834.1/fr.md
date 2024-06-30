@@ -4,11 +4,11 @@ title: "Loi fédérale du 25 septembre 1952 sur les allocations pour perte de ga
 short: LAPG
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050"
 language: fr
-version: 2024-01-01
+version: 2024-07-01
 adopted: 1952-09-25
 in_force: 1953-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20240101-fr-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20240701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20240101/fr"
 
 (LAPG)[^t-1]
 
-du 25 septembre 1952 (État le 1<sup>er</sup> janvier 2024)
+du 25 septembre 1952 (État le 1<sup>er</sup> juillet 2024)
 
 [^t-1]: Nouvelle teneur selon le ch. II 4 de la LF du 20 déc. 2019 sur l’amélioration de la conciliation entre activité professionnelle et prise en charge de proches, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [FF 2019 3941](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
@@ -361,9 +361,10 @@ En cas d’hospitalisation du nouveau-né, la durée du versement est prolongée
 
 <sup>2</sup> En cas d’hospitalisation du nouveau-né, il s’éteint à la fin de la prolongation prévue à l’art. 16*c*, al. 3.
 
-<sup>3</sup> Il prend fin avant de manière anticipée si la mère reprend une activité lucrative ou si elle décède.
+<sup>3</sup> Il s’éteint de manière anticipée si la mère reprend une activité lucrative ou si elle décède; il ne s’éteint toutefois pas de manière anticipée si la mère participe, en tant que députée, à des séances d’un parlement ou d’une commission parlementaire au niveau fédéral, cantonal ou communal pour lesquelles une suppléance n’est pas prévue.[^16d-2]
 
 [^16d-1]: Nouvelle teneur selon le ch. I de la LF du 18 déc. 2020, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [FF 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
+[^16d-2]: Nouvelle teneur selon le ch. I de la LF du 29 sept. 2023 (Allocation de maternité pour les députées), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 151](https://fedlex.data.admin.ch/eli/oc/2024/151); [FF 2023 934](https://fedlex.data.admin.ch/eli/fga/2023/934), [1357](https://fedlex.data.admin.ch/eli/fga/2023/1357)).
 
 #### Art. 16e
 

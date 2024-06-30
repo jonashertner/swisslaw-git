@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 25. September 1952 über den Erwerbsersatz (Erwerbsersa
 short: EOG
 eli: "https://fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050"
 language: de
-version: 2024-01-01
+version: 2024-07-01
 adopted: 1952-09-25
 in_force: 1953-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20240101-de-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1952/1021_1046_1050/20240701/de/xml/fedlex-data-admin-ch-eli-cc-1952-1021_1046_1050-20240701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1952/1021_1046_1050/20240101/de"
 
 (Erwerbsersatzgesetz, EOG)[^t-1]
 
-vom 25. September 1952 (Stand am 1. Januar 2024)
+vom 25. September 1952 (Stand am 1. Juli 2024)
 
 [^t-1]: Fassung gemäss Ziff. II 4 des BG vom 20. Dez. 2019 über die Verbesserung der Vereinbarkeit von Erwerbstätigkeit und Angehörigenbetreuung, in Kraft seit 1. Juli 2021 ([AS 2020 4525](https://fedlex.data.admin.ch/eli/oc/2020/799); [BBl 2019 4103](https://fedlex.data.admin.ch/eli/fga/2019/1504)).
 
@@ -362,9 +362,10 @@ Bei einem Spitalaufenthalt des Neugeborenen verlängert sich die Dauer der Ausri
 
 <sup>2</sup> Bei Hospitalisierung des Neugeborenen endet der Anspruch mit dem Ende der Verlängerung nach Artikel 16*c* Absatz 3.
 
-<sup>3</sup> Er endet vorzeitig, wenn die Mutter ihre Erwerbstätigkeit wiederaufnimmt oder wenn sie stirbt.
+<sup>3</sup> Er endet vorzeitig, wenn die Mutter ihre Erwerbstätigkeit wiederaufnimmt oder wenn sie stirbt; er endet jedoch nicht vorzeitig, wenn die Mutter als Ratsmitglied an Rats- und Kommissionssitzungen von Parlamenten auf Bundes-, Kantons- oder Gemeindeebene teilnimmt, an denen eine Vertretung nicht vorgesehen ist.[^16d-2]
 
 [^16d-1]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020, in Kraft seit 1. Juli 2021 ([AS 2021 288](https://fedlex.data.admin.ch/eli/oc/2021/288); [BBl 2019 141](https://fedlex.data.admin.ch/eli/fga/2019/9)).
+[^16d-2]: Fassung gemäss Ziff. I des BG vom 29. Sept. 2023 (Mutterschaftsentschädigung von Parlamentarierinnen), in Kraft seit 1. Juli 2024 (AS **202****4** 151; [BBl 2023 934](https://fedlex.data.admin.ch/eli/fga/2023/934), [1357](https://fedlex.data.admin.ch/eli/fga/2023/1357)).
 
 #### Art. 16e
 
