@@ -4,13 +4,12 @@ number: "121.213"
 title: Verordnung über das Kantons- und das Gemeindebürgerrecht
 short: KBüV
 language: de
-version: 2022-07-01
-valid_until: 2024-06-30
-version_adopted: 2022-02-16
+version: 2024-07-01
+version_adopted: 2024-03-13
 adopted: 2015-12-16
 in_force: 2016-04-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/121.213"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3206/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3558/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3206/pdf_file"
 
 (KBüV)
 
-Vom 16.12.2015 (Stand 01.07.2022)
+Vom 16.12.2015 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -175,11 +174,11 @@ beschliesst:
 
 <sup>1</sup> Die gesuchstellenden Personen müssen dem DVI nach der Aktenübermittlung einen aktuellen Betreibungsregisterauszug einreichen.
 
-### 1.4. Gebühren
+### 1.4. Gemeindegebühren
 
 #### § 14
 
-**Gebühren**
+**Allgemeines**
 
 <sup>1</sup> Wer ein Gesuch einreicht, wird gebührenpflichtig. Für minderjährige Personen haften die Personen, die sie gesetzlich vertreten, solidarisch mit.
 
@@ -196,10 +195,11 @@ beschliesst:
 - a) Zusicherung des Gemeindebürgerrechts — Fr. 1'500.–
 - b) Erteilung des Gemeindebürgerrechts für Schweizerinnen und Schweizer — Fr. 300.–
 - c) Entlassung aus dem Gemeindebürgerrecht — Fr. 100.–
-- d) Aufnahme in das Kantonsbürgerrecht — Fr. 750.–
-- e) Entlassung aus dem Schweizer Bürgerrecht — Fr. 200.–
-- f) Feststellung des Bürgerrechts — Fr. 300.–
-- g) Nichtigerklärung von ordentlichen Einbürgerungen von Ausländerinnen und Ausländern — Fr. 300.–
+- d) …
+- e) …
+- f) …
+- g) …
+- h) Teilnahme am Test der staatsbürgerlichen Kenntnisse — Fr. 50.–
 
 <sup>2</sup> Für minderjährige Kinder, die in das Gesuch der Eltern einbezogen sind, werden bis zum vollendeten 10. Lebensjahr keine Gebühren erhoben. Danach beträgt die Gebühr die Hälfte der Tarife gemäss Absatz 1. Massgebend ist der Zeitpunkt der Gesuchseinreichung.
 
@@ -223,9 +223,7 @@ beschliesst:
 
 #### § 17a
 
-**Gebühr für den Test der staatsbürgerlichen Kenntnisse**
-
-<sup>1</sup> Die Gebühr für die Teilnahme am Test der staatsbürgerlichen Kenntnisse beträgt Fr. 50.–.
+**…**
 
 ## 2. Elektronisches Dokumentenmanagement- und Informationssystem
 
