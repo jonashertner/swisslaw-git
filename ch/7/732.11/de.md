@@ -4,11 +4,11 @@ title: Kernenergieverordnung vom 10. Dezember 2004 (KEV)
 short: KEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/68"
 language: de
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2004-12-10
 in_force: 2005-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2005-68-20240101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2005-68-20240701-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20240101/de"
 
 (KEV)
 
-vom 10. Dezember 2004 (Stand am 1. Januar 2024)
+vom 10. Dezember 2004 (Stand am 1. Juli 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -210,9 +210,14 @@ Ein geologisches Tiefenlager ist so auszulegen, dass:
 - c. Vorkehrungen zur Erleichterung von Überwachung und Reparaturen des Lagers oder zur Rückholung der Abfälle die passiven Sicherheitsbarrieren nach dem Verschluss des Lagers nicht beeinträchtigen;
 - d. das Lager innert einiger Jahre verschlossen werden kann.
 
-<sup>3</sup> Das ENSI wird beauftragt, spezifische Auslegungsgrundsätze für geologische Tiefenlager in Richtlinien zu regeln.[^11-1]
+<sup>3</sup>
 
-[^11-1]: Fassung gemäss Anhang Ziff. 12 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+Das ENSI wird beauftragt, in Richtlinien zu regeln:
+
+- a. spezifische Auslegungsgrundsätze für geologische Tiefenlager;
+- b. die Anforderungen an den Nachweis der Langzeitsicherheit von geologischen Tiefenlagern.[^11-1]
+
+[^11-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 280](https://fedlex.data.admin.ch/eli/oc/2024/280)).
 
 #### Art. 12
 
@@ -761,7 +766,7 @@ Er hat dem ENSI die folgenden Ereignisse und Befunde zu melden:
 
 Der Inhaber einer Betriebsbewilligung hat dem ENSI insbesondere folgende Tätigkeiten vor deren Ausführung zu melden:
 
-- a. bauliche und anlagentechnische Änderungen oder Neueinrichtungen, für die eine Freigabe des ENSI beantragt wird;
+- a.[^39-2] …
 - b. Durchführung von sicherungsrelevanten Übungen mit militärischen, kantonalen oder kommunalen Stellen;
 - c. ausserordentliche sicherungsrelevante Tätigkeiten.
 
@@ -780,6 +785,7 @@ Er hat dem ENSI die folgenden Ereignisse und Befunde unverzüglich zu melden:
 <sup>3</sup> Zu jedem Ereignis oder Befund hat er dem ENSI innert 30 Tagen einen Bericht einzureichen. Der Bericht ist zu klassifizieren.
 
 [^39-1]: Fassung gemäss Anhang Ziff. 12 der V vom 12. Nov. 2008 über das Eidgenössische Nuklearsicherheitsinspektorat, in Kraft seit 1. Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^39-2]: Aufgehoben durch Ziff. I der V vom 31. Mai 2024, mit Wirkung seit 1. Juli 2024 ([AS 2024 280](https://fedlex.data.admin.ch/eli/oc/2024/280)).
 
 #### Art. 40
 
@@ -971,15 +977,23 @@ Radioaktive Abfälle sind im Hinblick auf die Entsorgung in folgende Kategorien 
 
 #### Art. 51a
 
-**Ausnahmen von der Entsorgungspflicht**[^51a-1]
+**Stoffliche Zusammensetzung der radioaktiven Abfälle**[^51a-1]
+
+Radioaktive Abfälle dürfen chemisch-toxische und chemisch-reaktive Stoffe enthalten, sofern dies mit der sicheren Entsorgung vereinbar ist.
+
+[^51a-1]: Eingefügt durch Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 280](https://fedlex.data.admin.ch/eli/oc/2024/280)).
+
+#### Art. 51a<sup>bis</sup>
+
+**Ausnahmen von der Entsorgungspflicht**[^51abis-1]
 
 Nicht unter die Entsorgungspflicht nach Artikel 31 KEG fallen:
 
-- a. radioaktive Abfälle geringer Aktivität, die nach den Artikeln 111–116 StSV[^51a-2] an die Umwelt abgegeben werden;
+- a. radioaktive Abfälle geringer Aktivität, die nach den Artikeln 111–116 StSV[^51abis-2] an die Umwelt abgegeben werden;
 - b. radioaktive Abfälle, die einer Abklinglagerung nach Artikel 117 StSV zugeführt werden.
 
-[^51a-1]: Eingefügt durch Ziff. I der V vom 7. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
-[^51a-2]: [SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^51abis-1]: Ursprünglich: Art. 51*a*. Eingefügt durch Ziff. I der V vom 7. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
+[^51abis-2]: [SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
 
 #### Art. 52
 
@@ -1071,7 +1085,7 @@ Das Bundesamt ist zuständig für die Erteilung:
 
 [^55-1]: [SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
 [^55-2]: Eingefügt durch Ziff. I der V vom 7. Dez. 2018, in Kraft seit 1. Febr. 2019 ([AS 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
-[^55-3]: Eingefügt durch Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 (AS **20****23** 765).
+[^55-3]: Eingefügt durch Ziff. I der V vom 29. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 765](https://fedlex.data.admin.ch/eli/oc/2023/765)).
 
 #### Art. 56
 
@@ -1443,7 +1457,7 @@ Anhang 2[^t-2]
 
 Die Anordnung der für die Sicherung relevanten Zonen bzw. Areale und Sicherungsschranken hat abgestuft gemäss folgendem Schema zu erfolgen:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20240101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20240701/de/xml/image/image1.png)
 
 Die verschiedenen Sicherungsschranken haben folgende Funktionen:
 
@@ -1548,33 +1562,21 @@ Für Gesuche zur Erteilung von Bewilligungen und Freigaben für Kernanlagen müs
 
 Ziffer 2 enthält die wichtigsten Unterlagen.
 
-### Legende für Tabelle in Ziffer 1:
+Legende für Tabelle in Ziffer 1:
 
-G Gesamtanlage
-
-R Reaktortechnik
-
-B Bautechnik
-
-S Systemtechnik
-
-M Maschinentechnik
-
-E Elektro- und Leittechnik
-
-U Strahlenschutz, Abfälle und Notfallschutz
-
-D Sicherung
-
-P Betriebsorganisation und Personal
-
-SA Systeme der Sicherheitsklassen 1, 2, 3 und 1E
-
-SB Systeme der Sicherheitsklasse 4 und sicherheitsbezogene 0E-Systeme
-
-MA mechanische Ausrüstungen mit Einfluss auf die 1. Baufreigabe, z. B. Reaktordruckbehälter, Sicherheitsbehälter aus Stahl, Primärkreisleitungen, Dampferzeuger, Druckhalter, Hauptkühlmittelpumpen
-
-MB übrige mechanische Ausrüstungen der Sicherheitsklassen 1–4
+- G Gesamtanlage
+- R Reaktortechnik
+- B Bautechnik
+- S Systemtechnik
+- M Maschinentechnik
+- E Elektro- und Leittechnik
+- U Strahlenschutz, Abfälle und Notfallschutz
+- D Sicherung
+- P Betriebsorganisation und Personal
+- SA Systeme der Sicherheitsklassen 1, 2, 3 und 1E
+- SB Systeme der Sicherheitsklasse 4 und sicherheitsbezogene 0E-Systeme
+- MA mechanische Ausrüstungen mit Einfluss auf die 1. Baufreigabe, z. B. Reaktordruckbehälter, Sicherheitsbehälter aus Stahl, Primärkreisleitungen, Dampferzeuger, Druckhalter, Hauptkühlmittelpumpen
+- MB übrige mechanische Ausrüstungen der Sicherheitsklassen 1–4
 
 ### 1. Unterlagen nach Art des Gesuchs und nach Fachgebieten
 

@@ -4,11 +4,11 @@ title: Nuclear Energy Ordinance of 10 December 2004 (NEO)
 short: NEO
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/68"
 language: en
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2004-12-10
 in_force: 2005-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2005-68-20240101-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20240101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20240701/en/xml/fedlex-data-admin-ch-eli-cc-2005-68-20240701-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20240701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (NEO)
 
-of 10 December 2004 (Status as of 1 January 2024)
+of 10 December 2004 (Status as of 1 July 2024)
 
 The Federal Council,
 
@@ -122,7 +122,7 @@ The supervisory authorities are:
 
 **Requirements concerning nuclear safety**
 
-The following measures must be taken in order to guarantee nuclear safety.
+The following measures must be taken in order to guarantee nuclear safety:
 
 - a. Established or proven high-quality processes, materials, technologies and organisational structures and processes must be used in connection with design, construction, commissioning and operation of nuclear installations. This applies especially to the areas of planning, manufacture, testing, operation, surveillance, maintenance, quality assurance, evaluation of operational experience feedback, ergonomic design as well as basic and advanced training and professional development.
 - b. Any deviations from normal operation should be countered as far as possible by ensuring that the behaviour of the installation is self-regulating and fault-tolerant. Wherever possible, the behaviour of the installation must be inherently safe. The term «inherently safe» is understood to mean that a given system functions safely on its own, i.e. without the support of auxiliary systems.
@@ -212,9 +212,14 @@ A deep geological repository must be designed to ensure that:
 - c. steps to ease surveillance and repairs of the repository, or for the recovery of the waste, in no way impair the effectiveness of the passive safety barriers after closure of the repository;
 - d. it can be closed within a period of a few years.
 
-<sup>3</sup> ENSI shall specify detailed design principles for deep geological repositories in guidelines.[^11-1]
+<sup>3</sup>
 
-[^11-1]: Amended by Annex No 12 of the O of 12 Nov. 2008 on the Swiss Federal Nuclear Safety Inspectorate, in force since 1 Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+ENSI shall issue guidelines that specify:
+
+- a. detailed design principles for deep geological repositories;
+- b. the requirements for proof of the long-term safety deep geological repositories.[^11-1]
+
+[^11-1]: Amended by No I of the O of 31 May 2024, in force since 1 July 2024 ([AS 2024 280](https://fedlex.data.admin.ch/eli/oc/2024/280)).
 
 #### Art. 12
 
@@ -763,7 +768,7 @@ They must report the following events and findings to ENSI:
 
 The holder of an operating licence must in particular report the following activities to ENSI before they are carried out:
 
-- a. structural and technical modifications or new installations that require a permit from ENSI;
+- a.[^39-2] …
 - b. security-related exercises with the involvement of military, cantonal or municipal authorities;
 - c. extraordinary security-related activities.
 
@@ -782,6 +787,7 @@ The holder of an operating licence must report the following malicious acts and 
 <sup>3</sup> The holder of an operating licence must submit a report on every malicious act or finding to ENSI within 30 days. The report must be classified.
 
 [^39-1]: Amended by Annex No 12 of the O of 12 Nov. 2008 on the Swiss Federal Nuclear Safety Inspectorate, in force since 1 Jan. 2009 ([AS 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^39-2]: Repealed by No I of the O of 31 May 2024, with effect from 1 July 2024 ([AS 2024 280](https://fedlex.data.admin.ch/eli/oc/2024/280)).
 
 #### Art. 40
 
@@ -973,15 +979,23 @@ For the purpose of management and disposal, radioactive waste is classified in t
 
 #### Art. 51a
 
-**Exceptions to the obligation to manage and dispose of nuclear waste**[^51a-1]
+**Material composition of radioactive waste**[^51a-1]
+
+Radioactive waste may contain chemically toxic and chemically reactive substances, provided this is compatible with safe disposal.
+
+[^51a-1]: Inserted by No I of the O of 31 May 2024, in force since 1 July 2024 ([AS 2024 280](https://fedlex.data.admin.ch/eli/oc/2024/280)).
+
+#### Art. 51a<sup>bis</sup>
+
+**Exceptions to the obligation to manage and dispose of nuclear waste**[^51abis-1]
 
 The following are not subject to the obligation to manage and dispose of nuclear waste in accordance with Article 31 NEA:
 
-- a. low-level radioactive waste that may be discharged into the environment in accordance with Articles 111–116 RPO[^51a-2];
+- a. low-level radioactive waste that may be discharged into the environment in accordance with Articles 111–116 RPO[^51abis-2];
 - b. radioactive waste that may be placed in decay storage in accordance with Article 117 RPO.
 
-[^51a-1]: Inserted by No I of the O of 7 Dec. 2018, in force since 1 Feb. 2019 ([AS 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
-[^51a-2]: [SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^51abis-1]: Originally Art. 51*a*. Inserted by No I of the O of 7 Dec. 2018, in force since 1 Feb. 2019 ([AS 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
+[^51abis-2]: [SR 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
 
 #### Art. 52
 
@@ -1066,7 +1080,8 @@ The Federal Office is the competent authority for:
 
 - a. issuing licences for handling radioactive waste;
 - b. approving the agreement concerning the return of radioactive waste in accordance with Article 34 paragraph 3 letter d and paragraph 4 of the Nuclear Energy Act.
-- [tab] <sup>2</sup> The special competence under Article 11 paragraph 2 letter f RPO[^55-1] is reserved.[^55-2]
+
+<sup>2</sup> The special competence under Article 11 paragraph 2 letter f RPO[^55-1] is reserved.[^55-2]
 
 <sup>3</sup> The Department is responsible for concluding the agreement under international law in accordance with Article 34 paragraph 3 letter a NEA in the case of the export of low and intermediate-level waste for conditioning purposes.[^55-3]
 
@@ -1444,7 +1459,7 @@ Annex 2[^t-2]
 
 The arrangement of security zones, areas and barriers must be based on the following model:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20240101/en/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20240701/en/xml/image/image1.png)
 
 The various security barriers perform the following functions:
 
@@ -1773,8 +1788,6 @@ Annex 7
 
 The following ordinances are amended as indicated:
 
-### …
+…[^annex7-lvlu1-1]
 
-[^annex7-lvlu1-lvlu1-1]
-
-[^annex7-lvlu1-lvlu1-1]: The amendments may be consulted under [AS 2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68).
+[^annex7-lvlu1-1]: The amendments may be consulted under [AS 2005 601](https://fedlex.data.admin.ch/eli/oc/2005/68).

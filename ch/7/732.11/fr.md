@@ -4,11 +4,11 @@ title: "Ordonnance du 10 décembre 2004 sur l'énergie nucléaire (OENu)"
 short: OENu
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/68"
 language: fr
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2004-12-10
 in_force: 2005-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-68-20240101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2005-68-20240701-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20240101/fr"
 
 (OENu)
 
-du 10 décembre 2004 (État le 1<sup>er</sup> janvier 2024)
+du 10 décembre 2004 (État le 1<sup>er</sup> juillet 2024)
 
 Le Conseil fédéral suisse,
 
@@ -210,9 +210,14 @@ Un dépôt en couches géologiques profondes doit être conçu de manière:
 - c. que les dispositions prises pour faciliter la surveillance et la réparation du dépôt ou pour récupérer les déchets ne portent pas atteinte aux barrières de sécurité passive après la fermeture du dépôt;
 - d. que le dépôt puisse être fermé en l’espace de quelques années.
 
-<sup>3</sup> L’IFSN est chargée de régler dans des directives les principes de la conception du dimensionnement qui sont spécifiques aux dépôts en couches géologiques profondes.[^11-1]
+<sup>3</sup>
 
-[^11-1]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+L’IFSN est chargée de régler dans des directives:
+
+- a. les principes de la conception du dimensionnement qui sont spécifiques aux dépôts en couches géologiques profondes;
+- b. les exigences applicables au justificatif de la sécurité à long terme des dépôts en couches géologiques profondes.[^11-1]
+
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 280](https://fedlex.data.admin.ch/eli/oc/2024/280)).
 
 #### Art. 12
 
@@ -761,7 +766,7 @@ Il doit annoncer à l’IFSN les événements et les constats suivants:
 
 Le détenteur d’une autorisation d’exploiter doit notifier à l’IFSN avant de les exécuter en particulier les activités suivantes:
 
-- a. toute modification des bâtiments ou de l’installation ou toute nouvelle construction pour lesquelles un permis d’exécution est demandé à l’IFSN;
+- a.[^39-2] …
 - b. tout exercice impliquant des organes militaires, cantonaux ou communaux;
 - c. toute activité extraordinaire concernant la sûreté.
 
@@ -780,6 +785,7 @@ Il doit annoncer sans délai à l’IFSN les événements et les constats suivan
 <sup>3</sup> Il doit fournir un rapport à l’IFSN dans les 30 jours sur tout événement ou constat. Ce rapport doit être classifié.
 
 [^39-1]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 12 nov. 2008 sur l’IFSN, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^39-2]: Abrogée par le ch. I de l’O du 31 mai 2024, avec effet au 1<sup>er</sup> juil. 2024 ([RO 2024 280](https://fedlex.data.admin.ch/eli/oc/2024/280)).
 
 #### Art. 40
 
@@ -971,15 +977,23 @@ En vue de leur évacuation, les déchets radioactifs doivent être classés dans
 
 #### Art. 51a
 
-**Exception à l’obligation d’évacuation**[^51a-1]
+**Composition chimique des déchets radioactifs**[^51a-1]
+
+Les déchets radioactifs peuvent contenir des substances chimiques toxiques ou chimiques réactives dans la mesure où cela est compatible avec la sécurité de l’évacuation.
+
+[^51a-1]: Introduit par le ch. I de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 280](https://fedlex.data.admin.ch/eli/oc/2024/280)).
+
+#### Art. 51a<sup>bis</sup>
+
+**Exception à l’obligation d’évacuation**[^51abis-1]
 
 L’obligation d’évacuation prévue à l’art. 31 LENu ne s’applique pas:
 
-- a. aux déchets radioactifs de faible activité qui sont rejetés dans l’environnement conformément aux art. 111 à 116 ORaP[^51a-2];
+- a. aux déchets radioactifs de faible activité qui sont rejetés dans l’environnement conformément aux art. 111 à 116 ORaP[^51abis-2];
 - b. aux déchets radioactifs destinés au stockage pour décroissance conformément à l’art. 117 ORaP.
 
-[^51a-1]: Introduit par le ch. I de l’O du 7 déc. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
-[^51a-2]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^51abis-1]: Anciennement art. 51*a*. Introduit par le ch. I de l’O du 7 déc. 2018, en vigueur depuis le 1<sup>er</sup> fév. 2019 ([RO 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
+[^51abis-2]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
 
 #### Art. 52
 
@@ -1443,7 +1457,7 @@ Annexe 2[^t-2]
 
 Il convient d’aménager des zones et des aires de sûreté ainsi que des barrières de sûreté, échelonnées selon le schéma ci-dessous:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20240101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20240701/fr/xml/image/image1.png)
 
 Les différentes barrières de sûreté ont les fonctions suivantes:
 
@@ -1662,7 +1676,7 @@ Les *équipements électriques* sont répartis en deux classes de sécurité sel
 
 ### 3.2 Classes sismiques (EK)
 
-Les équipements mécaniques et électriques sont répartis en 2 classes sismiques selon leur fonction en termes de sécurité.
+Les équipements mécaniques et électriques sont répartis en 2 classes sismiques selon leur fonction en termes de sécurité:
 
 - a. Classe sismique I: équipements mécaniques des classes de sécurité 1 à 3 et équipements électriques classés 1E. Leurs fonctions de sécurité et partant, l’intégrité des systèmes doivent subsister pendant et après un séisme de sécurité (SSE);
 - b. Classe sismique II: équipements mécaniques de la classe de sécurité 4. Leur intégrité doit subsister pendant un séisme d’exploitation (OBE);

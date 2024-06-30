@@ -4,11 +4,11 @@ title: "Ordinanza del 10 dicembre 2004 sull'energia nucleare (OENu)"
 short: OENu
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/68"
 language: it
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2004-12-10
 in_force: 2005-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2005-68-20240101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2005-68-20240701-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/68/20240101/it"
 
 (OENu)
 
-del 10 dicembre 2004 (Stato 1° gennaio 2024)
+del 10 dicembre 2004 (Stato 1° luglio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -210,9 +210,14 @@ Un deposito in strati geologici profondi dev’essere predisposto in modo che:
 - c. le misure adottate per agevolare il controllo e le riparazioni del deposito o per recuperare le scorie non compromettano le barriere di sicurezza passive dopo la chiusura del deposito;
 - d. il deposito possa essere chiuso entro alcuni anni.
 
-<sup>3</sup> L’IFSN è incaricato di disciplinare mediante direttive i principi specifici per la progettazione dei siti per i depositi in strati geologici profondi.[^11-1]
+<sup>3</sup>
 
-[^11-1]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+L’IFSN è incaricato di disciplinare mediante direttive:
+
+- a. principi specifici per la progettazione dei depositi in strati geologici profondi;
+- b. i requisiti della prova della sicurezza a lungo termine di tali depositi.[^11-1]
+
+[^11-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 280](https://fedlex.data.admin.ch/eli/oc/2024/280)).
 
 #### Art. 12
 
@@ -240,7 +245,7 @@ In aggiunta, un deposito intermedio per scorie radioattive dev’essere progetta
 L’Ufficio federale è competente per il rilascio:
 
 - a. di licenze per la manipolazione di materiali nucleari;
-- a.<sup>bis</sup> [^13-1] di licenze per l’esportazione e l’intermediazione di tecnologia concernente materiali nucleari;
+- a<sup>bis</sup>.[^13-1] di licenze per l’esportazione e l’intermediazione di tecnologia concernente materiali nucleari;
 - b.[^13-2] dell’approvazione di convenzioni sul ritiro di scorie radioattive.
 
 [^13-1]: Introdotta dall’all. 8 n. 1 dell’O del 3 giu. 2016 sul controllo dei beni a duplice impiego, in vigore dal 1° lug. 2016 ([RU 2016 2195](https://fedlex.data.admin.ch/eli/oc/2016/352)).
@@ -563,7 +568,7 @@ L’esercizio dell’impianto nucleare dev’essere organizzato in modo che la r
 
 <sup>4</sup> Designa un organo responsabile dell’esercizio tecnico dell’impianto nucleare, dotato delle necessarie competenze e risorse e che si assuma la responsabilità delle decisioni in materia di sicurezza interna ed esterna.
 
-L’IFSN è incaricato di disciplinare mediante direttive i requisiti dettagliati in materia di organizzazione.[^30-1]
+<sup>5</sup> L’IFSN è incaricato di disciplinare mediante direttive i requisiti dettagliati in materia di organizzazione.[^30-1]
 
 [^30-1]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
 
@@ -761,7 +766,7 @@ Egli notifica all’IFSN i seguenti eventi e riscontri:
 
 Il titolare di una licenza d’esercizio notifica all’IFSN prima della loro esecuzione in particolare le seguenti attività:
 
-- a. modifiche o nuove installazioni edilizie e tecniche d’impianto per le quali è richiesto il nullaosta dell’IFSN;
+- a.[^39-2] …
 - b. esercitazioni importanti per la sicurezza esterna in collaborazione con organi militari, cantonali o comunali;
 - c. attività straordinarie attinenti alla sicurezza esterna.
 
@@ -780,6 +785,7 @@ Egli notifica senza indugio all’IFSN i seguenti eventi e riscontri:
 <sup>3</sup> Per ogni evento o riscontro presenta senza indugio all’IFSN un rapporto entro 30 giorni. Il rapporto deve essere classificato.
 
 [^39-1]: Nuovo testo giusta l’all. n. 12 dell’O del 12 nov. 2008 sull’Ispettorato federale della sicurezza nucleare, in vigore dal 1° gen. 2009 ([RU 2008 5747](https://fedlex.data.admin.ch/eli/oc/2008/794)).
+[^39-2]: Abrogata dal n. I dell’O del 31 mag. 2024, con effetto dal 1° lug. 2024 ([RU 2024 280](https://fedlex.data.admin.ch/eli/oc/2024/280)).
 
 #### Art. 40
 
@@ -971,15 +977,23 @@ Le scorie radioattive devono venir suddivise in vista del loro smaltimento nelle
 
 #### Art. 51a
 
-**Eccezioni all’obbligo di smaltimento**[^51a-1]
+**Composizione delle scorie radioattive**[^51a-1]
+
+Le scorie radioattive possono contenere sostanze chimico-tossiche e chimico-reattive, purché la loro presenza permetta uno smaltimento sicuro.
+
+[^51a-1]: Introdotto dal n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 280](https://fedlex.data.admin.ch/eli/oc/2024/280)).
+
+#### Art. 51a<sup>bis</sup>
+
+**Eccezioni all’obbligo di smaltimento**[^51abis-1]
 
 Non rientrano nell’obbligo di smaltimento di cui all’articolo 31 LENu:
 
-- a. le scorie radioattive a bassa attività che sono immesse nell’ambiente conformemente agli articoli 111–116 ORaP[^51a-2];
+- a. le scorie radioattive a bassa attività che sono immesse nell’ambiente conformemente agli articoli 111–116 ORaP[^51abis-2];
 - b. le scorie radioattive che sono destinate allo stoccaggio per il decadimento radioattivo conformemente all’articolo 117 ORaP.
 
-[^51a-1]: Introdotto dal n. I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
-[^51a-2]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
+[^51abis-1]: Originario art. 51*a*. Introdotto dal n. I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
+[^51abis-2]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
 
 #### Art. 52
 
@@ -1071,7 +1085,7 @@ L’Ufficio federale è competente per il rilascio:
 
 [^55-1]: [RS 814.501](https://fedlex.data.admin.ch/eli/cc/2017/502)
 [^55-2]: Introdotto dal n. I dell’O del 7 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 183](https://fedlex.data.admin.ch/eli/oc/2019/27)).
-[^55-3]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 (RU **20****23** 765).
+[^55-3]: Introdotto dal n. I dell’O del 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 765](https://fedlex.data.admin.ch/eli/oc/2023/765)).
 
 #### Art. 56
 
@@ -1377,7 +1391,7 @@ Le seguenti ordinanze sono abrogate:
 
 [^80-1]: [[RU 1979 972](https://fedlex.data.admin.ch/eli/oc/1979/972_972_972)]
 [^80-2]: [[RU 1989 2476](https://fedlex.data.admin.ch/eli/oc/1989/2476_2476_2476)]
-[^80-3]: [[RU 1984 209](https://fedlex.data.admin.ch/eli/oc/1984/209_209_209), [1987 546](https://fedlex.data.admin.ch/eli/oc/1987/546_546_546)[1484](https://fedlex.data.admin.ch/eli/oc/1987/1484_1484_1484), [1991 1450](https://fedlex.data.admin.ch/eli/oc/1991/1450_1450_1450), [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)all. n. 10, [1994 140](https://fedlex.data.admin.ch/eli/oc/1994/140_140_140), [1995 4959](https://fedlex.data.admin.ch/eli/oc/1995/4959_4959_4959), [1996 208](https://fedlex.data.admin.ch/eli/oc/1996/208_208_208)art. 2 lett. g [2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)n. I 65, [1997 2128](https://fedlex.data.admin.ch/eli/oc/1997/2128_2128_2128), [2002 349](https://fedlex.data.admin.ch/eli/oc/2002/78)n. I art. 29]
+[^80-3]: [[RU 1984 209](https://fedlex.data.admin.ch/eli/oc/1984/209_209_209); [1987 546](https://fedlex.data.admin.ch/eli/oc/1987/546_546_546), [1484](https://fedlex.data.admin.ch/eli/oc/1987/1484_1484_1484); [1991 1450](https://fedlex.data.admin.ch/eli/oc/1991/1450_1450_1450); [1993 901](https://fedlex.data.admin.ch/eli/oc/1993/901_901_901)all. n. 10; [1994 140](https://fedlex.data.admin.ch/eli/oc/1994/140_140_140); [1995 4959](https://fedlex.data.admin.ch/eli/oc/1995/4959_4959_4959); [1996 208](https://fedlex.data.admin.ch/eli/oc/1996/208_208_208)art. 2 lett. g, [2243](https://fedlex.data.admin.ch/eli/oc/1996/2243_2243_2243)n. I 65; [1997 2128](https://fedlex.data.admin.ch/eli/oc/1997/2128_2128_2128); [2002 349](https://fedlex.data.admin.ch/eli/oc/2002/78)n. I art. 29]
 [^80-4]: [[RU 1983 283](https://fedlex.data.admin.ch/eli/oc/1983/283_283_283)]
 
 #### Art. 81
@@ -1443,7 +1457,7 @@ Allegato 2[^t-2]
 
 La disposizione delle zone o aree e delle barriere rilevanti per la sicurezza esterna deve avvenire in maniera scaglionata secondo il seguente schema:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20240101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/68/20240701/it/xml/image/image1.png)
 
 Le diverse barriere di sicurezza esterna assolvono le seguenti funzioni:
 
@@ -1549,33 +1563,21 @@ Le domande relative al rilascio di licenze e nullaosta per impianti nucleari dev
 
 I documenti principali sono indicati al numero 2.
 
-### Legenda per la tavola al numero 1:
+Legenda per la tavola al numero 1:
 
-G impianto nella sua globalità
-
-R tecnica dei reattori
-
-B tecnica delle costruzioni
-
-S tecnica dei sistemi
-
-M ingegneria meccanica
-
-E elettrotecnica e strumentazione di controllo
-
-U radioprotezione, scorie e protezione in caso d’emergenza
-
-D sicurezza esterna
-
-P organizzazione d’esercizio e personale
-
-SA sistemi delle classi di sicurezza 1, 2, 3 e 1E
-
-SB sistemi della classe di sicurezza 4 e sistemi 0E relativi alla sicurezza
-
-MA equipaggiamenti meccanici che hanno determinanti per il primo nullaosta di costruzione, ad es. recipiente in pressione del reattore, contenitore di sicurezza in acciaio, condutture del circuito primario, generatori di vapore, pressurizzatore, pompe di ricircolo del circuito primario
-
-MB altri equipaggiamenti meccanici delle classi di sicurezza 1–4.
+- G impianto nella sua globalità
+- R tecnica dei reattori
+- B tecnica delle costruzioni
+- S tecnica dei sistemi
+- M ingegneria meccanica
+- E elettrotecnica e strumentazione di controllo
+- U radioprotezione, scorie e protezione in caso d’emergenza
+- D sicurezza esterna
+- P organizzazione d’esercizio e personale
+- SA sistemi delle classi di sicurezza 1, 2, 3 e 1E
+- SB sistemi della classe di sicurezza 4 e sistemi 0E relativi alla sicurezza
+- MA equipaggiamenti meccanici che hanno determinanti per il primo nullaosta di costruzione, ad es. recipiente in pressione del reattore, contenitore di sicurezza in acciaio, condutture del circuito primario, generatori di vapore, pressurizzatore, pompe di ricircolo del circuito primario
+- MB altri equipaggiamenti meccanici delle classi di sicurezza 1–4.
 
 ### 1. Documenti secondo tipo di domanda e settori specialistici
 
