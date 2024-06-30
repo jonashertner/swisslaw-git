@@ -4,11 +4,11 @@ title: "Ordonnance du 17 février 2010 sur l'organisation du Département fédé
 short: Org DFF
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/98"
 language: fr
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2010-02-17
 in_force: 2010-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/98/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2010-98-20240101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/98/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/98/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2010-98-20240701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/98/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/98/20240101/fr"
 
 (Org DFF)
 
-du 17 février 2010 (État le 1<sup>er</sup> janvier 2024)
+du 17 février 2010 (État le 1<sup>er</sup> juillet 2024)
 
 Le Conseil fédéral suisse,
 
@@ -531,14 +531,15 @@ Dans ce cadre, l’OFCL exerce en particulier les fonctions suivantes:
 L’OFCL assume les tâches particulières suivantes:
 
 - a. il dirige la Conférence de coordination des services de la construction et des immeubles des maîtres d’ouvrage publics et assure son secrétariat;
-- b. il dirige la Commission des achats de la Confédération (CA) et assure son secrétariat;
-- c.[^20-1] il dirige le Centre de compétence des marchés publics;
-- d. il est l’autorité d’exécution de la Confédération conformément à l’ordonnance du 27 novembre 2000 sur les produits de construction[^20-2] et dirige le secrétariat de la commission des produits de construction.
+- b.[^20-1] il dirige la Conférence des achats de la Confédération et assure son secrétariat;
+- c.[^20-2] il dirige le Centre de compétence des marchés publics;
+- d. il est l’autorité d’exécution de la Confédération conformément à l’ordonnance du 27 novembre 2000 sur les produits de construction[^20-3] et dirige le secrétariat de la commission des produits de construction.
 
 <sup>2</sup> Il peut également proposer ses prestations à des tiers aux conditions de la législation sur les finances de la Confédération.
 
-[^20-1]: Nouvelle teneur selon le ch. I de l’O du 17 août 2011, en vigueur depuis le 1<sup>er</sup> sept. 2011 ([RO 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)).
-[^20-2]: [[RO 2001 100](https://fedlex.data.admin.ch/eli/oc/2001/18), [2006 4291](https://fedlex.data.admin.ch/eli/oc/2006/657)IV, **2010** 2631 annexe 4. [RO 2014 2887](https://fedlex.data.admin.ch/eli/oc/2014/496)art. 46]. Voir actuellement l’O du 9 déc. 2014 ([RS 933.01](https://fedlex.data.admin.ch/eli/cc/2014/496)).
+[^20-1]: Nouvelle teneur selon l’art. 44 al. 2 ch. 2 de l’O du 1<sup>er</sup> mai 2024 sur l’organisation des marchés publics de l’administration fédérale, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 224](https://fedlex.data.admin.ch/eli/oc/2024/224)).
+[^20-2]: Nouvelle teneur selon le ch. I de l’O du 17 août 2011, en vigueur depuis le 1<sup>er</sup> sept. 2011 ([RO 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)).
+[^20-3]: [[RO 2001 100](https://fedlex.data.admin.ch/eli/oc/2001/18), [2006 4291](https://fedlex.data.admin.ch/eli/oc/2006/657)IV, **2010** 2631 annexe 4. [RO 2014 2887](https://fedlex.data.admin.ch/eli/oc/2014/496)art. 46]. Voir actuellement l’O du 9 déc. 2014 ([RS 933.01](https://fedlex.data.admin.ch/eli/cc/2014/496)).
 
 ### Section 9 …
 

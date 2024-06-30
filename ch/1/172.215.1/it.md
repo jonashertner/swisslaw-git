@@ -4,11 +4,11 @@ title: "Ordinanza del 17 febbraio 2010 sull'organizzazione del Dipartimento fede
 short: Org-DFF
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/98"
 language: it
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2010-02-17
 in_force: 2010-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/98/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2010-98-20240101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/98/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/98/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2010-98-20240701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/98/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/98/20240101/it"
 
 (Org-DFF)
 
-del 17 febbraio 2010 (Stato 1° gennaio 2024)
+del 17 febbraio 2010 (Stato 1° luglio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -529,14 +529,15 @@ Allo scopo di perseguire i suoi obiettivi, l’UFCL svolge in particolare le seg
 L’UFCL adempie i seguenti compiti particolari:
 
 - a. dirige la Conferenza di coordinamento degli organi della costruzione e degli immobili dei committenti pubblici (KBOB) e ne gestisce la segreteria;
-- b. dirige la Commissione degli acquisti della Confederazione (CA) e ne gestisce la segreteria;
-- c.[^20-1] dirige il Centro di competenza per gli acquisti pubblici della Confederazione (CCAP);
-- d. è l’autorità esecutiva della Confederazione secondo l’ordinanza del 27 novembre 2000[^20-2] sui prodotti da costruzione e gestisce la segreteria della Commissione dei prodotti da costruzione.
+- b.[^20-1] dirige la Conferenza degli acquisti della Confederazione (CA) e ne gestisce la segreteria;
+- c.[^20-2] dirige il Centro di competenza per gli appalti pubblici della Confederazione (CCAP);
+- d. è l’autorità esecutiva della Confederazione secondo l’ordinanza del 27 novembre 2000[^20-3] sui prodotti da costruzione e gestisce la segreteria della Commissione dei prodotti da costruzione.
 
 <sup>2</sup> Secondo le direttive della legislazione sulle finanze della Confederazione, esso può offrire prestazioni anche a terzi.
 
-[^20-1]: Nuovo testo giusta il n. I dell’O del 17 ago. 2011, in vigore dal 1° set. 2011 ([RU 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)).
-[^20-2]: [[RU 2001 100](https://fedlex.data.admin.ch/eli/oc/2001/18), [2006 4291](https://fedlex.data.admin.ch/eli/oc/2006/657)IV, **2010** 2631 all. n. 4. [RU 2014 2887](https://fedlex.data.admin.ch/eli/oc/2014/496)art. 46]. Vedi ora l’O del 9 dic. 2014 ([RS 933.01](https://fedlex.data.admin.ch/eli/cc/2014/496)).
+[^20-1]: Nuovo testo giusta l’art. 44 cpv. 2 n. 2 dell’O del 1° mag. 2024 concernente l’organizzazione degli appalti pubblici dell’Amministrazione federale, in vigore dal 1° lug. 2024 ([RU 2024 224](https://fedlex.data.admin.ch/eli/oc/2024/224)).
+[^20-2]: Nuovo testo giusta l’art. 44 cpv. 2 n. 2 dell’O del 1° mag. 2024 concernente l’organizzazione degli appalti pubblici dell’Amministrazione federale, in vigore dal 1° lug. 2024 ([RU 2024 224](https://fedlex.data.admin.ch/eli/oc/2024/224)).
+[^20-3]: [[RU 2001 100](https://fedlex.data.admin.ch/eli/oc/2001/18), [2006 4291](https://fedlex.data.admin.ch/eli/oc/2006/657)IV, **2010** 2631 all. n. 4. [RU 2014 2887](https://fedlex.data.admin.ch/eli/oc/2014/496)art. 46]. Vedi ora l’O del 9 dic. 2014 ([RS 933.01](https://fedlex.data.admin.ch/eli/cc/2014/496)).
 
 ### Sezione 9: ...
 

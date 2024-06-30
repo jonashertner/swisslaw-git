@@ -4,11 +4,11 @@ title: Organisationsverordnung vom 17. Februar 2010 für das Eidgenössische Fin
 short: OV-EFD
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/98"
 language: de
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2010-02-17
 in_force: 2010-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/98/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2010-98-20240101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/98/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/98/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2010-98-20240701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/98/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/98/20240101/de"
 
 (OV-EFD)
 
-vom 17. Februar 2010 (Stand am 1. Januar 2024)
+vom 17. Februar 2010 (Stand am 1. Juli 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -528,14 +528,15 @@ Zur Verfolgung seiner Ziele nimmt das BBL insbesondere die folgenden Funktionen 
 Das BBL hat die folgenden besonderen Aufgaben:
 
 - a. Es leitet die Koordinationskonferenz der Bau- und Liegenschaftsorgane der öffentlichen Bauherren (KBOB) und führt deren Sekretariat.
-- b. Es leitet die Beschaffungskommission des Bundes (BKB) und führt deren Sekretariat.
-- c.[^20-1] Es leitet das Kompetenzzentrum Beschaffungswesen Bund (KBB).
-- d. Es ist die Vollzugsbehörde des Bundes gemäss der Bauprodukteverordnung vom 27. November 2000[^20-2] und führt das Sekretariat der Kommission für Bauprodukte.
+- b.[^20-1] Es leitet die Beschaffungskonferenz des Bundes (BKB) und führt deren Sekretariat.
+- c.[^20-2] Es leitet das Kompetenzzentrum Beschaffungswesen Bund (KBB).
+- d. Es ist die Vollzugsbehörde des Bundes gemäss der Bauprodukteverordnung vom 27. November 2000[^20-3] und führt das Sekretariat der Kommission für Bauprodukte.
 
 <sup>2</sup> Es kann seine Leistungen gemäss den Vorgaben der Finanzhaushaltgesetzgebung auch Dritten erbringen.
 
-[^20-1]: Fassung gemäss Ziff. I der V vom 17. Aug. 2011, in Kraft seit 1. Sept. 2011 ([AS 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)).
-[^20-2]: [[AS 2001 100](https://fedlex.data.admin.ch/eli/oc/2001/18), [2006 4291](https://fedlex.data.admin.ch/eli/oc/2006/657)Ziff. IV, [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)Anhang Ziff. 4. [AS 2014 2887](https://fedlex.data.admin.ch/eli/oc/2014/496)Art. 46]. Siehe heute: die V vom 27. Aug. 2014 ([SR 933.01](https://fedlex.data.admin.ch/eli/cc/2014/496)).
+[^20-1]: Fassung gemäss Art. 44 Abs. 2 Ziff. 2 der V vom 1. Mai 2024 über die Organisation des öffentlichen Beschaffungswesens der Bundesverwaltung, in Kraft seit 1. Juli 2024 ([AS 2024 224](https://fedlex.data.admin.ch/eli/oc/2024/224)).
+[^20-2]: Fassung gemäss Ziff. I der V vom 17. Aug. 2011, in Kraft seit 1. Sept. 2011 ([AS 2011 3787](https://fedlex.data.admin.ch/eli/oc/2011/535)).
+[^20-3]: [[AS 2001 100](https://fedlex.data.admin.ch/eli/oc/2001/18); [2006 4291](https://fedlex.data.admin.ch/eli/oc/2006/657)Ziff. IV; [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)Anhang Ziff. 4. [AS 2014 2887](https://fedlex.data.admin.ch/eli/oc/2014/496)Art. 46]. Siehe heute: die V vom 27. Aug. 2014 ([SR 933.01](https://fedlex.data.admin.ch/eli/cc/2014/496)).
 
 ### 9. Abschnitt: …
 
