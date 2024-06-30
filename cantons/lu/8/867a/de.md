@@ -4,13 +4,13 @@ number: 867a
 title: Verordnung zum Betreuungs- und Pflegegesetz
 short: BPV
 language: de
-version: 2024-01-01
-valid_until: 2024-06-30
-version_adopted: 2023-12-12
+version: 2024-07-01
+valid_until: 2024-12-31
+version_adopted: 2024-06-04
 adopted: 2010-11-30
 in_force: 2011-01-01
 url: "https://srl.lu.ch/app/de/texts_of_law/867a"
-pdf: "https://srl.lu.ch/api/de/versions/4186/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4214/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4186/pdf_file"
 
 (BPV)
 
-vom 30.11.2010 (Stand 01.01.2024)
+vom 30.11.2010 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -217,42 +217,42 @@ beschliesst:
 
 <sup>2</sup> Die Leistungserbringer beteiligen sich an der Ausbildung von Betreuungs- und Pflegepersonal.
 
+<sup>3</sup> Die Förderung der Ausbildung zum Pflegefachmann und zur Pflegefachfrau an höheren Fachschulen (HF) und an Fachhochschulen (FH) richtet sich nach dem Einführungsgesetz zum Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege vom 18. März 2024[^5a-1].
+
+[^5a-1]: SRL Nr. [810](https://srl.lu.ch/data/810/de)
+
 #### § 5b
 
-**Verbände**
+**Expertengruppe**
 
-<sup>1</sup> Der Spitex Kantonalverband Luzern (SKL) und Curaviva Luzern werden ermächtigt, zur Förderung der Ausbildung von Betreuungs- und Pflegepersonal bei Spitex-Organisationen, Tages- und Nachtstrukturen und Pflegeheimen einen Ausbildungsbeitrag zu erheben und an diejenigen Leistungserbringer zu verteilen, die solches Personal ausbilden.
+<sup>1</sup> Die Dienststelle Soziales und Gesellschaft setzt eine Expertengruppe ein, welche die Umsetzung der Ausbildungsverpflichtung in der Langzeitpflege begleitet und die Evaluation unterstützt. Dieser gehören je eine Vertretung des Spitex Kantonalverband Luzern (SKL), der Association Spitex privée Suisse, von Curaviva Luzern und von Senesuisse an.
 
 #### § 5c
 
-**Aufsicht**
-
-<sup>1</sup> Der Regierungsrat ernennt für die Aufsicht und die Kontrolle über die Beitragserhebung und -verteilung der Verbände sowie für die Evaluation der Förderung der Ausbildung eine Kommission. Dieser gehören je eine Vertretung des SKL, der Association Spitex privée Suisse, von Curaviva Luzern, von Senesuisse, des Verbandes Luzerner Gemeinden und des Gesundheits- und Sozialdepartementes an. Die Gemeindevertretung führt den Vorsitz. Im Übrigen konstituiert sich die Kommission selbst.
-
-<sup>1<sup>bis</sup></sup> Die Kommission kann für die Kontrolle der Beitragserhebung und -verteilung Dritte beiziehen. Die beitragserhebenden und -verteilenden Verbände haben diesen Einsicht in die Unterlagen zu gewähren und Auskunft zu erteilen.
-
-<sup>2</sup> Die Verbände erstellen jährlich einen Bericht zuhanden der Kommission. Dieser gibt insbesondere Aufschluss über die eingezogenen und die ausbezahlten Ausbildungsbeiträge.
-
-<sup>2<sup>bis</sup></sup> …
-
-<sup>3</sup> Die Verbände, die Gemeinden und der Kanton tragen die Kosten ihrer Vertretung selbst.
+**…**
 
 #### § 5d
 
 **Geltungsbereich**
 
-<sup>1</sup> Zur Leistung eines Ausbildungsbeitrages an den sachlich zuständigen Verband verpflichtet sind Spitex-Organisationen, Tages- und Nachtstrukturen und Pflegeheime, die im Kanton Luzern Leistungen gemäss Artikel 25a des Bundesgesetzes über die Krankenversicherung vom 18. März 1994 (KVG)[^5d-1] erbringen.
+<sup>1</sup> Die Dienststelle Soziales und Gesellschaft erhebt bei Spitex-Organisationen, Tages- und Nachtstrukturen und Pflegeheimen zur Förderung der Ausbildung von Betreuungs- und Pflegepersonal im Sinn von Absatz 2 einen Ausbildungsbeitrag und verteilt diesen an diejenigen Leistungserbringer, die solches Personal ausbilden. Zur Ausbildung beziehungsweise zur Leistung eines Ausbildungsbeitrages verpflichtet sind folgende Leistungserbringer:
 
 - a. …
 - b. …
+- c. Pflegeheime mit Standort im Kanton Luzern auf der kantonalen Pflegeheimliste gemäss Artikel 39 Absatz 1e und 3 des Bundesgesetzes über die Krankenversicherung vom 18. März 1994 (KVG)[^5d-1],
+- d. Spitex-Organisationen, die im Kanton Luzern zur Leistungserbringung zulasten der obligatorischen Krankenpflegeversicherung zugelassen sind.
 
-<sup>1<sup>bis</sup></sup> Leistungserbringer, die sich mittels Verbandsbeitrag, welcher der finanziellen Unterstützung der Ausbildung von Betreuungs- und Pflegepersonal in den Betrieben dient, an der Ausbildung beteiligen oder einer Ausbildungsverpflichtung nach den Bestimmungen des Spitalgesetzes vom 11. September 2006[^5d-2] unterstehen, sind von der Beitragsverpflichtung befreit.
+<sup>1<sup>bis</sup></sup> Leistungserbringer sind von der Beitragspflicht befreit, wenn sie
 
-<sup>1<sup>ter</sup></sup> Die Ausbildungsverpflichtung für neue Leistungserbringer entsteht bei Betriebseröffnung in der ersten Jahreshälfte ab dem auf die Neueröffnung folgenden Kalenderjahr, bei Betriebseröffnung in der zweiten Jahreshälfte ab dem übernächsten Kalenderjahr.
+- a. sich mittels Verbandsbeitrag, welcher der finanziellen Unterstützung der Ausbildung von Betreuungs- und Pflegepersonal in den Betrieben dient, an der Ausbildung beteiligen,
+- b. einer Ausbildungsverpflichtung nach den Bestimmungen des Spitalgesetzes vom 11. September 2006[^5d-2] unterstehen,
+- c. einer Ausbildungsverpflichtung in einem anderen Kanton unterstehen, in der je nach Berechnungsmodell die im Kanton Luzern erbrachten Pflegeleistungen oder das im Kanton Luzern beschäftigte ausgebildete Pflege- und Betreuungspersonal bereits berücksichtigt werden.
 
-<sup>1<sup>quater</sup></sup> Die Dienststelle Soziales und Gesellschaft meldet dem zur Beitragserhebung ermächtigten Verband jeweils zu Jahresbeginn die Pflegeheime sowie die Tages- und Nachtstrukturen, denen sie im Vorjahr erstmals eine Bewilligung nach § 1a erteilt hat. Die Gemeinden melden dem zur Beitragserhebung ermächtigten Verband die Spitex-Organisationen, denen sie im Vorjahr erstmals eine Bewilligung nach § 39 des Gesundheitsgesetzes vom 13. September 2005 (GesG)[^5d-3] erteilt haben, und die Spitex-Organisationen, für deren Pflegeleistungen sie im Vorjahr Restfinanzierungsbeiträge nach Artikel 25a Absatz 5 KVG[^5d-4] geleistet haben.
+<sup>1<sup>ter</sup></sup> Die Ausbildungsverpflichtung für neue Leistungserbringer entsteht ab dem der Betriebseröffnung folgenden Kalenderjahr.
 
-<sup>2</sup> Als Betreuungs- und Pflegepersonal gelten die Angehörigen folgender Berufe:
+<sup>1<sup>quater</sup></sup> Die Gemeinden melden der Dienststelle Soziales und Gesellschaft auf Anfrage die Spitex-Organisationen, denen sie im Vorjahr erstmals eine Bewilligung nach § 39 des Gesundheitsgesetzes vom 13. September 2005 (GesG)[^5d-3] erteilt haben, und die Spitex-Organisationen, für deren Pflegeleistungen sie im Vorjahr Restfinanzierungsbeiträge nach Artikel 25a Absatz 5 KVG[^5d-4] geleistet haben.
+
+<sup>2</sup> Als Betreuungs- und Pflegepersonal gemäss dieser Verordnung gelten die Angehörigen folgender Berufe:
 
 - a. Ausbildungsniveau Sekundarstufe II EBA (Assistenzstufe)
   - 1\. Assistent oder Assistentin Gesundheit und Soziales EBA
@@ -261,8 +261,8 @@ beschliesst:
   - 2\. …
   - 3\. Fachmann oder Fachfrau Betreuung (FaBe) EFZ
 - c. Ausbildungsniveau Tertiärstufe
-  - 1\. dipl. Pflegefachmann oder dipl. Pflegefachfrau HF
-  - 2\. dipl. Pflegefachmann oder dipl. Pflegefachfrau FH
+  - 1\. …
+  - 2\. …
   - 3\. Fachmann oder Fachfrau Langzeitpflege und -betreuung FA
 
 [^5d-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
@@ -274,13 +274,13 @@ beschliesst:
 
 **Bemessung der zu erbringenden Ausbildungsleistung**
 
-<sup>1</sup> Der sachlich zuständige Verband bestimmt für jeden Leistungserbringer jährlich die zu erbringende Ausbildungsleistung für das laufende Jahr. Diese entspricht dem Total der Soll-Werte für die Betreuungs- und Pflegeberufe der drei Ausbildungsniveaus, abzüglich der für das entsprechende Jahr in einen Berufsbildungsfonds nach Artikel 60 des Bundesgesetzes über die Berufsbildung vom 13. Dezember 2002 (BBG)[^5e-1] einbezahlten Grundgebühr und Fachkräftebeiträge.
+<sup>1</sup> Die Dienststelle Soziales und Gesellschaft bestimmt jährlich für jeden Leistungserbringer die für das laufende Jahr zu erbringende Ausbildungsleistung. Diese entspricht dem Total der Soll-Werte der Ausbildungen in Pflege, abzüglich der für das entsprechende Jahr in einen Berufsbildungsfonds nach Artikel 60 des Bundesgesetzes über die Berufsbildung (BBG) vom 13. Dezember 2002[^5e-1] einbezahlten Grundgebühr und Fachkräftebeiträge.
 
-<sup>2</sup> Der Soll-Wert eines Ausbildungsniveaus ist das Produkt der vom Leistungserbringer im vergangenen Jahr im Kanton Luzern erbrachten Pflegestunden im Sinn der KLV, des Bedarfsfaktors dieses Ausbildungsniveaus für die ambulante Krankenpflege oder die Krankenpflege im Pflegeheim sowie der für dieses Ausbildungsniveau anrechenbaren Kosten gemäss Anhang 2.
+<sup>2</sup> Der Soll-Wert eines Ausbildungsniveaus ist das Produkt der vom Leistungserbringer im vergangenen Jahr im Kanton Luzern erbrachten Pflegestunden im Sinn der KLV, des Bedarfsfaktors der Ausbildungsniveaus für die ambulante Krankenpflege oder die Krankenpflege im Pflegeheim sowie der für die jeweiligen Ausbildungsniveaus anrechenbaren Kosten gemäss Anhang 2.
 
 <sup>3</sup> Der Bedarfsfaktor eines Ausbildungsniveaus entspricht dem Verhältnis zwischen dem kantonalen Bedarf an entsprechenden Abschlüssen in der ambulanten Krankenpflege oder der Krankenpflege im Pflegeheim gemäss Anhang 3 und den im Vorjahr im Kanton Luzern in der ambulanten Krankenpflege oder der Krankenpflege im Pflegeheim gesamthaft geleisteten Pflegestunden im Sinn der KLV.
 
-<sup>4</sup> Die Leistungserbringer sind verpflichtet, dem sachlich zuständigen Verband die für die Bemessung der zu erbringenden Ausbildungsleistung erforderlichen Daten zur Verfügung zu stellen.
+<sup>4</sup> Die Leistungserbringer sind verpflichtet, der Dienststelle Soziales und Gesellschaft die für die Bemessung der zu erbringenden Ausbildungsleistung erforderlichen Daten zur Verfügung zu stellen.
 
 [^5e-1]: SR [412.10](https://db.clex.ch/link/Bund/412.10/de)
 
@@ -290,7 +290,9 @@ beschliesst:
 
 <sup>1</sup> Die Leistungserbringer bestimmen selbst, in welchen Berufen gemäss § 5d Absatz 2 sie Personal ausbilden, um die Ausbildungsleistung zu erbringen.
 
-<sup>2</sup> Sie können die Ausbildungsleistung im eigenen Betrieb erbringen oder Ausbildungsverbünde mit Leistungserbringern im Sinn von § 5d Absatz 1 bilden. Mit Bewilligung des zuständigen Verbandes nach § 5b kann die Ausbildungsleistung auch in einem Ausbildungsverbund mit einem Spital mit Standort im Kanton Luzern erbracht werden.
+<sup>2</sup> Sie können die Ausbildungsleistung im eigenen Betrieb erbringen oder Ausbildungsverbünde mit Leistungserbringern im Sinn von § 5d Absatz 1 bilden. Mit Bewilligung der Dienststelle Soziales und Gesellschaft kann bei spezialisierten Angeboten die Ausbildungsleistung auch in einem Ausbildungsverbund mit einem Spital mit Standort im Kanton Luzern erbracht werden.
+
+<sup>2<sup>bis</sup></sup> Ausbildungsverbünde bestimmen die Aufteilung der insgesamt zu erfüllenden Ausbildungsleistung auf die beteiligten Betriebe selber.
 
 <sup>3</sup> …
 
@@ -300,40 +302,40 @@ beschliesst:
 
 **Ermittlung der erbrachten Ausbildungsleistung**
 
-<sup>1</sup> Die von einem Leistungserbringer erbrachte Ausbildungsleistung entspricht der Summe der Ist-Werte der drei Ausbildungsniveaus.
+<sup>1</sup> Die von einem Leistungserbringer erbrachte Ausbildungsleistung entspricht der Summe der Ist-Werte der von der Ausbildungsverpflichtung erfassten Ausbildungsniveaus.
 
 <sup>2</sup> Der Ist-Wert eines Ausbildungsniveaus ist das Produkt der Zahl der in einem Ausbildungsniveau Auszubildenden und der für dieses Ausbildungsniveau anrechenbaren Kosten gemäss Anhang 2.
 
-<sup>3</sup> Für die Ermittlung der Zahl der Auszubildenden anrechenbar sind grundsätzlich alle Personen, welche einen Ausbildungsgang besuchen, der zu einem Abschluss in einem Beruf nach § 5d Absatz 2 führt. Massgebend ist die Zahl der Auszubildenden per 31. Dezember des Vorjahres. Sofern sich der Leistungserbringer massgeblich an der Ausbildung beteiligt, können ebenfalls angerechnet werden:
+<sup>3</sup> Für die Ermittlung der Zahl der Auszubildenden anrechenbar sind grundsätzlich alle Personen, welche einen Ausbildungsgang besuchen, der zu einem Abschluss in einem Beruf nach § 5d Absatz 2 oder als Pflegefachmann und Pflegefachfrau HF oder FH führt. Sofern sich der Leistungserbringer massgeblich an der Ausbildung beteiligt, können ebenfalls angerechnet werden:
 
 - a. Personen, die sich auf die Berufsprüfung Fachmann oder Fachfrau Langzeitpflege und -betreuung FA vorbereiten, für das Ausbildungsniveau Tertiärstufe mit maximal eineinhalb Jahren,
 - b. Personen in der ergänzenden Bildung zum Fachmann oder zur Fachfrau Gesundheit beziehungsweise Betreuung EFZ (Validations- und Qualifikationsverfahren) mit maximal zwei Jahren.
 
-<sup>4</sup> Bei Ausbildungsverbünden können die Leistungserbringer den Auszubildenden oder die Auszubildende anteilmässig im Umfang der im jeweiligen Betrieb absolvierten Ausbildungsdauer anrechnen. Praktikantinnen und Praktikanten, die sich in Ausbildung zum dipl. Pflegefachmann HF oder zur dipl. Pflegefachfrau HF befinden, sind nur für den Hauptausbildungsbetrieb anrechenbar. Solche, die sich in Ausbildung zum Fachmann oder zur Fachfrau Gesundheit EFZ oder Betreuung EFZ befinden und deren Praktikum sechs Monate oder weniger dauert, dürfen von dem Leistungserbringer angerechnet werden, mit welchem der Lehrvertrag besteht.
+<sup>4</sup> …
 
 #### § 5h
 
 **Ausbildungsbeitrag**
 
-<sup>1</sup> Leistungserbringer, bei denen die Gegenüberstellung der zu erbringenden mit der erbrachten Ausbildungsleistung einen negativen Saldo ergibt, haben dem sachlich zuständigen Verband einen Ausbildungsbeitrag in der Höhe des Negativsaldos zu entrichten.
+<sup>1</sup> Leistungserbringer, bei denen die Gegenüberstellung der zu erbringenden mit der erbrachten Ausbildungsleistung einen negativen Saldo ergibt, haben der Dienststelle Soziales und Gesellschaft einen Ausbildungsbeitrag in der Höhe des Negativsaldos zu entrichten.
 
-<sup>2</sup> Bei einem positiven Saldo erhalten die Leistungserbringer vom sachlich zuständigen Verband einen Ausbildungsbeitrag in der Höhe des Positivsaldos. Reichen die gesamthaft eingezogenen Ausbildungsbeiträge zur vollständigen Deckung aller Positivsaldi nicht aus, werden die verfügbaren Mittel anteilmässig im Verhältnis des Grades der Übererfüllung an die Leistungserbringer verteilt.
+<sup>2</sup> Bei einem positiven Saldo erhalten die Leistungserbringer von der Dienststelle Soziales und Gesellschaft einen Ausbildungsbeitrag in der Höhe des Positivsaldos. Reichen die gesamthaft eingezogenen Ausbildungsbeiträge zur vollständigen Deckung aller Positivsaldi nicht aus, werden die verfügbaren Mittel anteilmässig im Verhältnis des Grades der Übererfüllung an die Leistungserbringer verteilt.
 
-<sup>3</sup> Ein nach Auszahlung aller Ausbildungsbeiträge verbleibender Restbetrag wird von den Verbänden gemeinsam an diejenigen Leistungserbringer verteilt, welche ihre Ausbildungsleistung im Ausbildungsniveau Tertiärstufe übererfüllt haben. Der Restbetrag wird anteilmässig im Verhältnis des Grades der Übererfüllung verteilt. Der maximal pro Auszubildenden und Auszubildende auszahlbare Beitrag entspricht den für die Krankenpflege im Pflegeheim anrechenbaren Kosten. Vorbehalten bleiben Rückstellungen der Verbände zur Finanzierung einer Evaluation der Förderung der Ausbildung.
+<sup>3</sup> Nicht verteilte Beiträge sind auf das folgende Jahr zu übertragen.
+
+<sup>4</sup> Die Dienststelle Soziales und Gesellschaft kann einem Leistungserbringer die geschuldete Ausgleichszahlung nach Absatz 1 in begründeten Fällen ganz oder teilweise erlassen.
 
 #### § 5i
 
-**Kosten**
-
-<sup>1</sup> Die Kosten des sachlich zuständigen Verbandes für die Administration der Beitragserhebung und -auszahlung sind von den Leistungserbringern im Verhältnis der von ihnen zu erbringenden Ausbildungsleistung zu tragen.
+**…**
 
 #### § 5j
 
 **Rechtsmittel**
 
-<sup>1</sup> Entscheide der Verbände über den Ausbildungsbeitrag können mit Verwaltungsbeschwerde bei der Kommission angefochten werden.
+<sup>1</sup> Entscheide der Dienststelle Soziales und Gesellschaft über den Ausbildungsbeitrag können mit Verwaltungsgerichtsbeschwerde beim Kantonsgericht angefochten werden.
 
-<sup>2</sup> Gegen Entscheide der Kommission ist die Verwaltungsgerichtsbeschwerde an das Kantonsgericht zulässig.
+<sup>2</sup> …
 
 ## 2b Sicherstellung der Aufenthaltstaxen
 
@@ -383,13 +385,23 @@ beschliesst:
 
 **Übergangsbestimmung der Änderung vom 20. Dezember 2022**
 
-<sup>1</sup> Die Führung der Kostenrechnung durch die Leistungserbringer der ambulanten Krankenpflege gemäss § 3a Absatz 2a und die Erfassung des Pflegebedarfs durch die Leistungserbringer der Krankenpflege im Pflegheim und in Tages- und Nachtstrukturen gemäss § 4a Absatz 1 haben spätestens ab 1. Januar 2024 zu erfolgen. Solange die Umstellung nicht vollzogen ist, gelten diesbezüglich die Vorgaben gemäss dem bisherigen Recht.
+<sup>1</sup> Die Führung der Kostenrechnung durch die Leistungserbringer der ambulanten Krankenpflege gemäss § 3a Absatz 2a und die Erfassung des Pflegebedarfs durch die Leistungserbringer der Krankenpflege im Pflegeheim und in Tages- und Nachtstrukturen gemäss § 4a Absatz 1 haben spätestens ab 1. Januar 2024 zu erfolgen. Solange die Umstellung nicht vollzogen ist, gelten diesbezüglich die Vorgaben gemäss dem bisherigen Recht.
 
 #### § 9
 
 **Übergangsbestimmung der Änderung vom 12. Dezember 2023**
 
 <sup>1</sup> Für die Tertiärstufe ist im Erhebungsjahr 2025 ein Erfüllungsgrad von 75 Prozent des Soll-Wertes massgebend.
+
+#### § 10
+
+**Übergangsbestimmung der Änderung vom 4. Juni 2024**
+
+<sup>1</sup> Die Beitragserhebung und -verteilung für das Erhebungsjahr 2024 sowie die Berichterstattung zuhanden der Kommission zur Förderung der Ausbildung in der Langzeitpflege erfolgen nach bisherigem Recht durch den Spitex Kantonalverband Luzern (SKL) und Curaviva Luzern. Für die Anfechtung ihrer Entscheide gilt das bisherige Recht.
+
+<sup>2</sup> Die Kommission zur Förderung der Ausbildung in der Langzeitpflege erfüllt ihre Aufgaben nach bisherigem Recht bis zum Abschluss des Erhebungsjahres 2024. Die Auflösung der Kommission erfolgt mit der Genehmigung ihres Abschlussberichtes durch das Gesundheits- und Sozialdepartement.
+
+<sup>3</sup> In Abweichung von § 5e Absatz 4 sind die für die Bemessung der zu erbringenden Ausbildungsleistung erforderlichen Daten für das Erhebungsjahr 2025 der Dienststelle Soziales und Gesellschaft vom SKL und Curaviva Luzern zur Verfügung zu stellen.
 
 ## A1
 
