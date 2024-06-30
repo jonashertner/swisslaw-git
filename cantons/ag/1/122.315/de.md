@@ -4,13 +4,12 @@ number: "122.315"
 title: Vollziehungsverordnung zum Ausländer- und Integrationsrecht
 short: VAIR
 language: de
-version: 2024-04-08
-valid_until: 2024-06-30
+version: 2024-07-01
 version_adopted: 2024-02-28
 adopted: 2007-11-14
 in_force: 2008-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/122.315"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3404/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3560/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3404/pdf_file"
 
 (VAIR)
 
-Vom 14.11.2007 (Stand 08.04.2024)
+Vom 14.11.2007 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -139,55 +138,23 @@ beschliesst:
 
 **Allgemeines**
 
-<sup>1</sup> Das MIKA erhebt die Gebühren gemäss der Verordnung über die Gebühren zum Ausländer- und Integrationsgesetz (Gebührenverordnung AIG, GebV-AIG) vom 24. Oktober 2007[^11-1].
+<sup>1</sup> …
 
-<sup>2</sup> Das MIKA kann in begründeten Fällen, insbesondere bei Bedürftigkeit der Ausländerin oder des Ausländers, bei Rückzug des Gesuchs, oder bei Gesuchen von öffentlichen oder gemeinnützigen Institutionen, die Gebühren teilweise oder ganz erlassen.
+<sup>2</sup> …
 
-<sup>3</sup> Das MIKA erhöht die Gebühren um die Auslagen
-
-- a) für ausserordentliche und aufwändige Abklärungen im In- und Ausland bis Fr. 600.–. Vorbehalten bleiben erhobene Kostenvorschüsse und Rechnungen einer schweizerischen Auslandvertretung,
-- b) für eine Einvernahme pro Person bis Fr. 600.–.
-
-[^11-1]: SR [142.209](https://db.clex.ch/link/Bund/142.209/de)
+<sup>3</sup> …
 
 #### § 12
 
-**Kantonale Gebühren**
-
-<sup>1</sup> Für Verfügungen und Dienstleistungen gemäss Art. 8 GebV-AIG gilt die Höchstgebühr des Bundes.
-
-<sup>2</sup> Die Gebühr für ablehnende Verfügungen richtet sich nach dem Aufwand, wobei die Höchstgebühr derjenigen von Absatz 1 entspricht. Vorbehalten bleibt für
-
-- a) die Verweigerung einer Niederlassungs-, Aufenthalts-, Kurzaufenthalts- oder Grenzgängerbewilligung eine Höchstgebühr von Fr. 400.–,
-- b) die Verweigerung einer Bewilligung gemäss lit. a, sofern gleichzeitig eine Wegweisung angeordnet wird, eine Höchstgebühr von Fr. 600.–.
-
-<sup>3</sup> Erhoben werden ausserdem für
-
-- a) den Widerruf der Bewilligung, die ordentliche Wegweisung und die administrative Sanktion gemäss Art. 122 AIG eine Höchstgebühr von Fr. 600.–,
-- b) die Verwarnung eine Höchstgebühr von Fr. 400.–,
-- c) die Verlängerung der Ausreisefrist die für die Aufenthaltsbewilligung vorgesehene Gebühr,
-- d) Bestätigungen und Verpflichtungserklärungen Fr. 40.–.
-
-<sup>4</sup> Für Dienstleistungen wie Schulungen, Beratungen und Besprechungen werden pauschal Fr. 120.– pro Stunde und pro beanspruchte Person erhoben. Abgegolten sind damit auch die Kosten für Vorbereitung und Anfahrtsweg.
+**…**
 
 #### § 13
 
-**Arbeitsmarktliche Gebühren**
-
-<sup>1</sup> Für die arbeitsmarktliche Begutachtung werden, zusätzlich zu den übrigen ausländerrechtlichen Gebühren, pro bewilligungspflichtige Person erhoben für
-
-- a) eine Jahresaufenthaltsbewilligung Fr. 500.–,
-- b) eine Kurzaufenthaltsbewilligung Fr. 250.–,
-- c) eine Bewilligung, bei der von den Zulassungsvoraussetzungen gemäss AIG abgewichen werden kann, Fr. 250.–,
-- d) eine unbefristete Grenzgängerbewilligung Fr. 500.–,
-- e) eine befristete Grenzgängerbewilligung Fr. 250.–,
-- f) eine Bewilligung des Wechsels der Stelle oder des Wechsels von der unselbständigen zur selbständigen Erwerbstätigkeit bis Fr. 250.–.
+**…**
 
 #### § 13a
 
-**Ausnahme von der Erhebung von arbeitsmarktlichen Gebühren**
-
-<sup>1</sup> Für die Bewilligung des Stellenantritts, des Stellen- oder Berufswechsels und für die arbeitsmarktliche Begutachtung von Gesuchen von schutzbedürftigen Personen werden keine Gebühren und Auslagen erhoben.
+**…**
 
 #### § 14
 
