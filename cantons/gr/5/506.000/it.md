@@ -4,13 +4,12 @@ number: "506.000"
 title: "Legge sulla promozione della cura degli ammalati e dell'assistenza alle persone anziane e bisognose di cure"
 short: "Legge sulla cura degli ammalati, LCA"
 language: it
-version: 2021-01-01
-corrected: 2023-09-01
-version_adopted: 2020-08-26
+version: 2024-07-01
+version_adopted: 2024-02-14
 adopted: 2017-08-30
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/506.000"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3138/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3442/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3138/pdf_file"
 
 (Legge sulla cura degli ammalati, LCA)
 
-del 30.08.2017 (stato 01.01.2021)
+del 30.08.2017 (stato 01.07.2024)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -168,7 +167,8 @@ decide:
 <sup>2</sup> L'elenco degli ospedali comprende:
 
 - a) gli ospedali e le case per partorienti cantonali ed extracantonali necessari per garantire l'assistenza stazionaria alla popolazione del Cantone e alle persone che soggiornano nel Cantone;
-- b) i mandati di prestazioni conferiti ai singoli istituti sulla base di gruppi di prestazioni mediche, nonché eventuali oneri e condizioni correlati.
+- b) i mandati di prestazioni conferiti ai singoli istituti sulla base di gruppi di prestazioni mediche, nonché eventuali oneri e condizioni correlati;
+- c) le prestazioni di formazione che gli ospedali nel Cantone devono fornire nel settore della formazione pratica di infermieri diplomati.
 
 <sup>3</sup> Nel conferimento di mandati di prestazioni per l'assistenza di base si deve tenere conto del tempo che la popolazione da assistere necessita per raggiungere l'ospedale.
 
@@ -387,11 +387,15 @@ decide:
 
 <sup>1</sup> Le regioni di assistenza sanitaria rispettivamente le sottoregioni della regione di assistenza sanitaria Churer Rheintal provvedono a un'offerta sufficiente per la cura e l'assistenza semistazionarie e stazionarie a pazienti lungodegenti e persone anziane.
 
-<sup>2</sup> Essi mettono a punto una pianificazione del fabbisogno che corrisponda alle necessità regionali.
+<sup>2</sup> Esse mettono a punto una pianificazione del fabbisogno che corrisponda alle necessità regionali.
 
 <sup>3</sup> L'ammissione di persone domiciliate fuori Cantone presuppone una garanzia di assunzione delle spese del Cantone di domicilio e/o del comune di domicilio.
 
 <sup>4</sup> Le regioni di assistenza sanitaria disciplinano la procedura per l'ammissione di una persona bisognosa di cure domiciliata all'interno della regione di assistenza sanitaria in caso di mancata disponibilità all'ammissione da parte delle case per anziani e di cura nonché l'assunzione di eventuali spese non coperte dai contributi previsti dalla legge.
+
+<sup>5</sup> Nei mandati di prestazioni esse possono definire in particolare le prestazioni di formazione da fornire secondo le direttive del Cantone.
+
+<sup>6</sup> Se la regione di assistenza sanitaria non definisce le prestazioni di formazione da fornire, di tale definizione si occupa il Governo.
 
 #### Art. 30
 
@@ -505,7 +509,11 @@ decide:
 
 <sup>1</sup> Le regioni di assistenza sanitaria rispettivamente le sottoregioni della regione di assistenza sanitaria Churer Rheintal provvedono a una sufficiente offerta di servizi di cura e assistenza a domicilio.
 
-<sup>2</sup> Essi mettono a punto una pianificazione del fabbisogno che corrisponda alle necessità regionali.
+<sup>2</sup> Esse mettono a punto una pianificazione del fabbisogno che corrisponda alle necessità regionali.
+
+<sup>3</sup> Nei mandati di prestazioni esse definiscono in particolare le prestazioni di formazione da fornire secondo le direttive del Cantone.
+
+<sup>4</sup> Il Governo può conferire un corrispondente mandato di prestazioni a servizi di cura e assistenza a domicilio.
 
 #### Art. 39
 
@@ -608,6 +616,35 @@ decide:
 <sup>2</sup> Il Governo stabilisce le prestazioni di formazione nonché il numero di posti di formazione e perfezionamento professionale che i fornitori di prestazioni aventi diritto a sussidi conformemente al capoverso 1 devono mettere a disposizione.
 
 <sup>3</sup> Il Governo può fissare il sistema di rimunerazione e il relativo ammontare.
+
+#### Art. 45a
+
+**Sussidi a fornitori di prestazioni per la formazione pratica nelle professioni infermieristiche**
+
+<sup>1</sup> Il Cantone concede agli ospedali e alle case per anziani e di cura nel Cantone nonché ai servizi di cura e assistenza a domicilio e agli infermieri diplomati riconosciuti un sussidio pari almeno al 50 per cento dei costi di formazione non coperti delle prestazioni computabili nella formazione pratica di:
+
+- a) studenti che seguono la formazione di infermiere diplomato SUP;
+- b) studenti che seguono la formazione di infermiere diplomato SSS;
+- c) studenti che seguono la formazione di operatore sociosanitario AFC.
+
+<sup>2</sup> Il Gran Consiglio fissa annualmente nel preventivo il credito globale per i sussidi ai fornitori di prestazioni per la formazione pratica nelle professioni infermieristiche conformemente al capoverso 1.
+
+<sup>3</sup> L'Ufficio determina le prestazioni computabili per ogni ospedale e per ogni casa per anziani e di cura nonché per ogni servizio di cura e assistenza a domicilio e per ogni infermiere diplomato riconosciuto. Nel fare questo tiene conto del risultato del calcolo delle capacità di formazione degli ospedali e delle case per anziani e di cura, dei servizi di cura e assistenza a domicilio e degli infermieri diplomati nonché del piano di formazione da loro allestito.
+
+<sup>4</sup> I sussidi per i costi di formazione non coperti vengono corrisposti ai fornitori di prestazioni per le prestazioni di formazione da loro effettivamente fornite.
+
+<sup>5</sup> Per ogni categoria di fornitori di prestazioni conformemente al capoverso 1 l'Ufficio fissa i costi di formazione non coperti medi per le singole formazioni. Nel fare questo tiene conto delle raccomandazioni intercantonali.
+
+<sup>6</sup> Sono considerati costi di formazione non coperti i costi per i quali gli ospedali e le case per anziani e di cura nonché i servizi di cura e assistenza a domicilio e gli infermieri diplomati riconosciuti non ricevono alcuna retribuzione, segnatamente a seguito dei prezzi e delle tariffe dell'assicurazione obbligatoria delle cure medico-sanitarie.
+
+#### Art. 45b
+
+**Sussidi per cicli di formazione nonché per corsi di formazione e perfezionamento professionale nel settore delle cure**
+
+<sup>1</sup> Il Cantone può concedere agli offerenti di cicli di formazione nonché di corsi di formazione e perfezionamento professionale per collaboratori sanitari e personale di cura ausiliario un sussidio ai costi se le offerte:
+
+- a) non possono essere gestite in modo tale da coprire i costi; e
+- b) sono idonee a fornire un contributo alla copertura del fabbisogno di personale di cura.
 
 ## 8. Strutture con appartamenti protetti
 

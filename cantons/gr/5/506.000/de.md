@@ -4,13 +4,12 @@ number: "506.000"
 title: Gesetz über die Förderung der Krankenpflege und der Betreuung von betagten und pflegebedürftigen Personen
 short: "Krankenpflegegesetz, KPG"
 language: de
-version: 2021-01-01
-corrected: 2023-09-01
-version_adopted: 2020-08-26
+version: 2024-07-01
+version_adopted: 2024-02-14
 adopted: 2017-08-30
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/506.000"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3138/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3442/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3138/pdf_file"
 
 (Krankenpflegegesetz, KPG)
 
-Vom 30.08.2017 (Stand 01.01.2021)
+Vom 30.08.2017 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -168,7 +167,8 @@ beschliesst:
 <sup>2</sup> Die Spitalliste enthält:
 
 - a) die inner- und ausserkantonalen Spitäler und Geburtshäuser, die notwendig sind, um die stationäre Versorgung der Bevölkerung des Kantons und der sich im Kanton aufhaltenden Personen sicherzustellen;
-- b) die den einzelnen Einrichtungen auf der Grundlage von medizinischen Leistungsgruppen erteilten Leistungsaufträge und allfällige dazu gehörende Auflagen und Bedingungen.
+- b) die den einzelnen Einrichtungen auf der Grundlage von medizinischen Leistungsgruppen erteilten Leistungsaufträge und allfällige dazu gehörende Auflagen und Bedingungen;
+- c) die von den innerkantonalen Spitälern zu erbringenden Ausbildungsleistungen im Bereich der praktischen Ausbildung von Pflegefachpersonen.
 
 <sup>3</sup> Bei der Erteilung von Leistungsaufträgen für die Grundversorgung ist die zeitliche Erreichbarkeit des Spitals für die zu versorgende Bevölkerung mitzuberücksichtigen.
 
@@ -393,6 +393,10 @@ beschliesst:
 
 <sup>4</sup> Die Gesundheitsversorgungsregionen regeln das Verfahren für die Aufnahme einer pflegebedürftigen Person mit Wohnsitz in der Gesundheitsversorgungsregion bei fehlender Aufnahmebereitschaft der Alters- und Pflegeheime und die Kostentragung allfälliger durch die gesetzlichen Beiträge nicht gedeckter Aufwendungen.
 
+<sup>5</sup> Sie können in den Leistungsaufträgen insbesondere die zu erbringenden Ausbildungsleistungen nach den Vorgaben des Kantons festlegen.
+
+<sup>6</sup> Legt die Gesundheitsversorgungsregion die zu erbringenden Ausbildungsleistungen nicht fest, erfolgt die Festlegung durch die Regierung.
+
 #### Art. 30
 
 **2. Kanton**
@@ -507,6 +511,10 @@ beschliesst:
 
 <sup>2</sup> Sie erstellen eine regional abgestimmte Bedarfsplanung.
 
+<sup>3</sup> Sie legen in den Leistungsaufträgen insbesondere die zu erbringenden Ausbildungsleistungen nach den Vorgaben des Kantons fest.
+
+<sup>4</sup> Die Regierung kann Diensten der häuslichen Pflege und Betreuung einen entsprechenden Leistungsauftrag erteilen.
+
 #### Art. 39
 
 **Anteil der öffentlichen Hand**
@@ -608,6 +616,35 @@ beschliesst:
 <sup>2</sup> Die Regierung legt die von den beitragsberechtigten Leistungserbringern gemäss Absatz 1 zu erbringenden Ausbildungsleistungen sowie die Anzahl der von ihnen zur Verfügung zu stellenden Aus- und Weiterbildungsplätze fest.
 
 <sup>3</sup> Die Regierung kann das System und die Höhe der Abgeltung festlegen.
+
+#### Art. 45a
+
+**Beiträge an Leistungserbringer für die praktische Ausbildung in den Pflegeberufen**
+
+<sup>1</sup> Der Kanton gewährt den innerkantonalen Spitälern und Alters- und Pflegeheimen sowie den Diensten der häuslichen Pflege und Betreuung und den anerkannten Pflegefachpersonen einen Beitrag von mindestens 50 Prozent an die ungedeckten Ausbildungskosten der anrechenbaren Leistungen in der praktischen Ausbildung von:
+
+- a) Absolventinnen und Absolventen der Ausbildung zur diplomierten Pflegefachfrau oder zum diplomierten Pflegefachmann FH;
+- b) Absolventinnen und Absolventen der Ausbildung zur diplomierten Pflegefachfrau oder zum diplomierten Pflegefachmann HF;
+- c) Absolventinnen und Absolventen der Ausbildung zur Fachfrau oder zum Fachmann Gesundheit EFZ.
+
+<sup>2</sup> Der Grosse Rat legt jährlich im Budget den Gesamtkredit für die Beiträge an die Leistungserbringer für die praktische Ausbildung in den Pflegeberufen gemäss Absatz 1 fest.
+
+<sup>3</sup> Das Amt bestimmt für jedes Spital und jedes Alters- und Pflegeheim sowie für jeden Dienst der häuslichen Pflege und Betreuung und für jede anerkannte Pflegefachperson die anrechenbaren Leistungen. Es berücksichtigt dabei das Ergebnis der Berechnung der Ausbildungskapazitäten der Spitäler und Alters- und Pflegeheime, der Dienste der häuslichen Pflege und Betreuung und der Pflegefachpersonen sowie das von ihnen erstellte Ausbildungskonzept.
+
+<sup>4</sup> Beiträge an die ungedeckten Ausbildungskosten werden den Leistungserbringern für die von ihnen tatsächlich erbrachten Ausbildungsleistungen entrichtet.
+
+<sup>5</sup> Das Amt legt für jede Kategorie der Leistungserbringer gemäss Absatz 1 die durchschnittlichen ungedeckten Ausbildungskosten für die einzelnen Ausbildungen fest. Es berücksichtigt dabei interkantonale Empfehlungen.
+
+<sup>6</sup> Als ungedeckte Ausbildungskosten gelten die Kosten, für die die Spitäler und die Alters- und Pflegeheime sowie die Dienste der häuslichen Pflege und Betreuung und die anerkannten Pflegefachpersonen keine Vergütung erhalten, namentlich aufgrund der Preise und Tarife der obligatorischen Krankenpflegeversicherung.
+
+#### Art. 45b
+
+**Beiträge an Lehrgänge sowie Aus- und Weiterbildungskurse im Pflegebereich**
+
+<sup>1</sup> Der Kanton kann den Anbietern von Lehrgängen sowie Aus- und Weiterbildungskursen für Pflegehelfende und für pflegerisches Hilfspersonal einen Beitrag an die Kosten gewähren, wenn diese:
+
+- a) nicht kostendeckend durchgeführt werden können; und
+- b) geeignet sind, einen Beitrag an die Deckung des Personalbedarfs in der Pflege zu leisten.
 
 ## 8. Einrichtungen des betreuten Wohnens
 

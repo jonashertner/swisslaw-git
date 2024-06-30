@@ -4,13 +4,12 @@ number: "506.000"
 title: "Lescha per promover la tgira da persunas malsaunas e l'assistenza da persunas attempadas e da persunas che basegnan tgira"
 short: "lescha per promover la tgira da persunas malsaunas, LTM"
 language: rm
-version: 2021-01-01
-corrected: 2023-09-01
-version_adopted: 2020-08-26
+version: 2024-07-01
+version_adopted: 2024-02-14
 adopted: 2017-08-30
 in_force: 2018-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/506.000"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3138/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3442/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3138/pdf_file"
 
 (lescha per promover la tgira da persunas malsaunas, LTM)
 
-dals 30-08-2017 (versiun dals 01-01-2021)
+dals 30-08-2017 (versiun dals 01-07-2024)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -168,7 +167,8 @@ concluda:
 <sup>2</sup> La glista dals ospitals cuntegna:
 
 - a) ils ospitals chantunals ed extrachantunals sco er las chasas da parturir chantunalas ed extrachantunalas ch'èn necessaris per garantir il provediment staziunar da la populaziun dal chantun e da las persunas che sa trategnan en il chantun;
-- b) las incaricas da prestaziun ch'èn vegnidas dadas a las singulas instituziuns sin basa da gruppas da prestaziun medicinalas sco er pretensiuns e cundiziuns che tutgan eventualmain tiers.
+- b) las incaricas da prestaziun ch'èn vegnidas dadas a las singulas instituziuns sin basa da gruppas da prestaziun medicinalas sco er pretensiuns e cundiziuns che tutgan eventualmain tiers;
+- c) las prestaziuns da scolaziun ch'ils ospitals infrachantunals ston porscher en il sectur da la scolaziun pratica da tgirunzas e tgirunzs.
 
 <sup>3</sup> Tar la concessiun d'incaricas da prestaziun per il provediment da basa sto vegnir resguardà er il temp, durant il qual l'ospital è cuntanschibel per la populaziun che sto vegnir provedida.
 
@@ -393,6 +393,10 @@ concluda:
 
 <sup>4</sup> Las regiuns da provediment da la sanadad reglan la procedura per recepir ina persuna che basegna tgira e che ha ses domicil en la regiun da provediment da la sanadad, en cas che las chasas da persunas attempadas e da tgira n'èn betg prontas da recepir questa persuna, sco er la surpigliada d'eventuals custs che n'èn betg cuvrids tras las contribuziuns legalas.
 
+<sup>5</sup> En las incaricas da prestaziun pon ellas fixar en spezial las prestaziuns da scolaziun che ston vegnir furnidas tenor las prescripziuns dal chantun.
+
+<sup>6</sup> Sche la regiun da provediment da la sanadad na fixescha betg las prestaziuns da scolaziun che ston vegnir furnidas, fixescha la Regenza talas.
+
 #### Art. 30
 
 **2. chantun**
@@ -507,6 +511,10 @@ concluda:
 
 <sup>2</sup> Ellas fan ina planisaziun dal basegn accordada a la regiun.
 
+<sup>3</sup> En las incaricas da prestaziun fixeschan ellas en spezial las prestaziuns da scolaziun che ston vegnir furnidas tenor las prescripziuns dal chantun.
+
+<sup>4</sup> Als servetschs da la tgira ed assistenza a chasa po la Regenza surdar ina incarica da prestaziun respectiva.
+
 #### Art. 39
 
 **Part dal maun public**
@@ -608,6 +616,35 @@ concluda:
 <sup>2</sup> La regenza fixescha las prestaziuns da scolaziun che ston vegnir furnidas dals furniturs da prestaziuns che han il dretg da survegnir contribuziuns tenor l'alinea 1 sco er il dumber da las plazzas da scolaziun e da furmaziun supplementara che ston vegnir messas a disposiziun dad els.
 
 <sup>3</sup> La regenza po fixar il sistem e l'autezza da la cumpensaziun.
+
+#### Art. 45a
+
+**Contribuziuns als furniturs da prestaziuns per la scolaziun pratica en las professiuns da tgira**
+
+<sup>1</sup> Als ospitals ed a las chasas da persunas attempadas e da tgira, als servetschs da la tgira ed assistenza a chasa sco er a las tgirunzas renconuschidas ed als tgirunzs renconuschids entaifer il chantun conceda il chantun ina contribuziun d'almain 50 pertschient als custs da scolaziun betg cuvrids da las prestaziuns imputablas per la scolaziun pratica:
+
+- a) d'absolventas ed absolvents da la scolaziun da tgirunza diplomada u tgirunz diplomà SSS;
+- b) d'absolventas ed absolvents da la scolaziun da tgirunza diplomada u tgirunz diplomà SAS;
+- c) d'absolventas ed absolvents da la scolaziun da spezialista u spezialist da sanadad AFQ.
+
+<sup>2</sup> Il Cussegl grond fixescha mintga onn en il preventiv il credit total per las contribuziuns als furniturs da prestaziuns per la scolaziun pratica en las professiuns da tgira tenor l'alinea 1.
+
+<sup>3</sup> L'uffizi definescha las prestaziuns imputablas per mintga ospital, per mintga chasa da persunas attempadas e da tgira, per mintga servetsch da la tgira ed assistenza a chasa sco er per mintga tgirunza renconuschida e mintga tgirunz renconuschì. En quest connex resguarda l'uffizi il resultat da la calculaziun da las capacitads da scolaziun dals ospitals e da las chasas da persunas attempadas e da tgira, dals servetschs da la tgira ed assistenza a chasa sco er da las tgirunzas e dals tgirunzs e plinavant il concept da scolaziun che quellas e quels han elavurà.
+
+<sup>4</sup> Contribuziuns als custs da scolaziun betg cuvrids vegnan pajadas als furniturs da prestaziuns per las prestaziuns da scolaziun ch'els han effectivamain realisà.
+
+<sup>5</sup> Per mintga categoria da furniturs da prestaziuns tenor l'alinea 1 definescha l'uffizi la media dals custs da scolaziun betg cuvrids per las singulas scolaziuns. En quest connex resguarda el las recumandaziuns interchantunalas.
+
+<sup>6</sup> Sco custs da scolaziun betg cuvrids valan ils custs, per ils quals ils ospitals e las chasas da persunas attempadas e da tgira, ils servetschs da la tgira ed assistenza a chasa sco er las tgirunzas renconuschidas ed ils tgirunzs renconuschids na survegnan naginas indemnisaziuns, oravant tut pervia dals pretschs e da las tariffas da l'assicuranza obligatorica per la tgira da malsauns.
+
+#### Art. 45b
+
+**Contribuziuns a scolaziuns sco er a curs da scolaziun e da furmaziun supplementara**
+
+<sup>1</sup> Als purschiders da scolaziuns sco er da curs da scolaziun e da furmaziun supplementara per gidantras e gidanters da tgira e per il persunal auxiliar da la tgira po il chantun conceder ina contribuziun als custs, sche questas scolaziuns e quests curs:
+
+- a) na pon betg vegnir manads tras en ina moda che cuvra ils custs; e
+- b) èn adattads per gidar a cuvrir il basegn da persunal da la tgira.
 
 ## 8. Instituziuns da l'abitar assistì
 
