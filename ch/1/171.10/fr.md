@@ -4,11 +4,11 @@ title: "Loi du 13 décembre 2002 sur l'Assemblée fédérale (Loi sur le Parleme
 short: LParl
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: fr
-version: 2024-06-01
+version: 2024-07-01
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20240601/fr/xml/fedlex-data-admin-ch-eli-cc-2003-510-20240601-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2003-510-20240701-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240601/fr"
 
 (Loi sur le Parlement, LParl)
 
-du 13 décembre 2002 (État le 1<sup>er</sup> juin 2024)
+du 13 décembre 2002 (État le 1<sup>er</sup> juillet 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -179,13 +179,7 @@ Les députés sont tenus de participer aux séances du conseil et des commission
 
 #### Art. 10a
 
-**Participation aux votes du Conseil national en cas d’absence due au COVID-19**[^10a-1]
-
-<sup>1</sup> Tout membre du Conseil national peut voter à distance s’il a dû se mettre en isolement ou en quarantaine conformément aux instructions d’une autorité en raison du COVID-19.
-
-<sup>2</sup> Tout membre du Conseil national souhaitant voter à distance en vertu de l’al. 1 en informe le secrétariat du conseil la veille de la séance.
-
-<sup>3</sup> Les suffrages communiqués par les membres du Conseil national conformément à l’al. 1 sont saisis dans le système électronique en même temps que le vote du conseil. Le vote n’est pas répété si un député n’a pas pu, pour des raisons techniques, communiquer son suffrage.
+[^10a-1]
 
 [^10a-1]: Introduit par le ch. I de la LF du 10 déc. 2020 (COVID-19: participation aux votes du Conseil national; interruption ou report de la session) ([RO 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [FF 2020 8963](https://fedlex.data.admin.ch/eli/fga/2020/2503), [8975](https://fedlex.data.admin.ch/eli/fga/2020/2505)). Nouvelle teneur selon le ch. III 1 de la LF du 17 déc. 2021, en vigueur du 18 déc. 2021 au 31 déc. 2022 ([RO 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)) et prolongé jusqu’au 30 juin 2024 par l’annexe ch. 1 de la LF du 16 déc. 2022 ([RO 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [FF 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
 

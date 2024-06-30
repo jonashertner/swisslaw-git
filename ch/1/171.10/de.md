@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 13. Dezember 2002 über die Bundesversammlung (Parlamen
 short: ParlG
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: de
-version: 2024-06-01
+version: 2024-07-01
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20240601/de/xml/fedlex-data-admin-ch-eli-cc-2003-510-20240601-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2003-510-20240701-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240601/de"
 
 (Parlamentsgesetz, ParlG)
 
-vom 13. Dezember 2002 (Stand am 1. Juni 2024)
+vom 13. Dezember 2002 (Stand am 1. Juli 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -182,13 +182,7 @@ Die Ratsmitglieder sind verpflichtet, an den Sitzungen der Räte und Kommissione
 
 #### Art. 10a
 
-**Teilnahme an Abstimmungen im Nationalrat in Abwesenheit wegen Covid-19**[^10a-1]
-
-<sup>1</sup> Mitglieder des Nationalrates können ihre Stimme in Abwesenheit abgeben, falls sie sich aufgrund behördlicher Weisungen wegen Covid-19 in Isolation oder Quarantäne begeben müssen.
-
-<sup>2</sup> Ein Mitglied des Nationalrates, das aufgrund von Absatz 1 seine Stimme in Abwesenheit abgeben möchte, informiert am Vortag der Sitzung das Ratssekretariat.
-
-<sup>3</sup> Die von den Mitgliedern des Nationalrates gemäss Absatz 1 abgegebenen Stimmen werden im elektronischen Abstimmungssystem gleichzeitig mit der im Rat laufenden Abstimmung erfasst. Die Abstimmung wird nicht wiederholt, wenn ein Ratsmitglied seine Stimme aus technischen Gründen nicht abgeben konnte.
+[^10a-1]
 
 [^10a-1]: Eingefügt durch Ziff. I des BG vom 10. Dez. 2020 (Covid-19: Teilnahme an Abstimmungen im Nationalrat; Unterbruch oder Verschiebung der Session) ([AS 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [BBl 2020 9271](https://fedlex.data.admin.ch/eli/fga/2020/2503), [9283](https://fedlex.data.admin.ch/eli/fga/2020/2505)). Fassung gemäss Ziff. III 1 des BG vom 17. Dez. 2021, in Kraft vom 18. Dez. 2021 bis zum 31. Dez. 2022 ([AS 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [BBl 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)), verlängert bis zum 30. Juni 2024 durch Anhang Ziff. 1 des BG vom 16. Dez. 2022 ([AS 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [BBl 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
 
@@ -2289,7 +2283,7 @@ Die Ratsreglemente können vorsehen, dass:
 
 [^148-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^148-2]: Eingefügt durch Ziff. I 1 des BG vom 17. Dez. 2010 über die Mitwirkung der Bundesversammlung bei der Steuerung der verselbstständigten Einheiten, in Kraft seit 1. Jan. 2012 ([AS 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807); [BBl 2010 3377](https://fedlex.data.admin.ch/eli/fga/2010/600), [3413](https://fedlex.data.admin.ch/eli/fga/2010/602)).
-[^148-3]: Eingefügt durch Ziff. I des BG vom 22. Dez. 2023 (Planungsbericht), in Kraft seit 1. Juni 2024 (AS **20****24** 200; [BBl 2023 1081](https://fedlex.data.admin.ch/eli/fga/2023/1081), [1482](https://fedlex.data.admin.ch/eli/fga/2023/1482)).
+[^148-3]: Eingefügt durch Ziff. I des BG vom 22. Dez. 2023 (Planungsbericht), in Kraft seit 1. Juni 2024 ([AS 2024 200](https://fedlex.data.admin.ch/eli/oc/2024/200); [BBl 2023 1081](https://fedlex.data.admin.ch/eli/fga/2023/1081), [1482](https://fedlex.data.admin.ch/eli/fga/2023/1482)).
 
 #### Art. 149
 

@@ -4,11 +4,11 @@ title: "Legge federale del 13 dicembre 2002 sull'Assemblea federale (Legge sul P
 short: LParl
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: it
-version: 2024-06-01
+version: 2024-07-01
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20240601/it/xml/fedlex-data-admin-ch-eli-cc-2003-510-20240601-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2003-510-20240701-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240601/it"
 
 (Legge sul Parlamento, LParl)
 
-del 13 dicembre 2002 (Stato 1° giugno 2024)
+del 13 dicembre 2002 (Stato 1° luglio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -182,13 +182,7 @@ I parlamentari sono tenuti a partecipare alle sedute delle Camere e delle Commis
 
 #### Art. 10a
 
-**Voto a distanza nel Consiglio nazionale in caso di assenza dovuta alla COVID-19**[^10a-1]
-
-<sup>1</sup> I membri del Consiglio nazionale che hanno dovuto mettersi in isolamento o in quarantena a causa della COVID-19 a seguito di istruzioni emanate da un’autorità possono votare a distanza.
-
-<sup>2</sup> I membri del Consiglio nazionale che desiderano votare a distanza secondo il capoverso 1 ne informano la segreteria del Consiglio nazionale il giorno prima della seduta.
-
-<sup>3</sup> I voti trasmessi dai membri del Consiglio nazionale secondo il capoverso 1 sono registrati nel sistema elettronico di voto simultaneamente alla votazione in corso nel Consiglio nazionale. Se un membro del Consiglio nazionale non ha potuto trasmettere il proprio voto per motivi tecnici, la votazione non viene ripetuta.
+[^10a-1]
 
 [^10a-1]: Introdotto dal n. I della LF del 10 dic. 2020 (COVID-19: partecipazione a votazioni nel Consiglio nazionale; interruzione o differimento della sessione) ([RU 2020 5375](https://fedlex.data.admin.ch/eli/oc/2020/930); [FF 2020 8113](https://fedlex.data.admin.ch/eli/fga/2020/2503)[8125](https://fedlex.data.admin.ch/eli/fga/2020/2505)). Nuovo testo giusta il n. III 1 della LF del 17 dic. 2021, in vigore dal 18 dic. 2021 al 31 dic. 2022 ([RU 2021 878](https://fedlex.data.admin.ch/eli/oc/2021/878); [FF 2021 2515](https://fedlex.data.admin.ch/eli/fga/2021/2515)) e prorogato fino al 30 giu. 2024 dall’all. n. 1 della LF del 16 dic. 2022 ([RU 2022 817](https://fedlex.data.admin.ch/eli/oc/2022/817); [FF 2022 1549](https://fedlex.data.admin.ch/eli/fga/2022/1549)).
 
@@ -2300,7 +2294,7 @@ I regolamenti delle Camere possono prevedere che:
 
 [^148-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^148-2]: Introdotto dal n. I 1 della LF del 17 dic. 2010 sulla partecipazione dell’Assemblea federale alla determinazione dell’orientamento strategico delle unità rese autonome, in vigore dal 1° gen. 2012 ([RU 2011 5859](https://fedlex.data.admin.ch/eli/oc/2011/807); [FF 2010 2933](https://fedlex.data.admin.ch/eli/fga/2010/600)[2969](https://fedlex.data.admin.ch/eli/fga/2010/602)).
-[^148-3]: Introdotto dal n. I della LF del 22 dic. 2023 (Rapporto d’indirizzo), in vigore dal 1° giu. 2024 (RU **20****24** 200; FF **20****23** 1081, 1482).
+[^148-3]: Introdotto dal n. I della LF del 22 dic. 2023 (Rapporto d’indirizzo), in vigore dal 1° giu. 2024 ([RU 2024 200](https://fedlex.data.admin.ch/eli/oc/2024/200); [FF 2023 1081](https://fedlex.data.admin.ch/eli/fga/2023/1081), [1482](https://fedlex.data.admin.ch/eli/fga/2023/1482)).
 
 #### Art. 149
 
