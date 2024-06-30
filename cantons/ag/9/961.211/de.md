@@ -4,13 +4,13 @@ number: "961.211"
 title: Verordnung zum Einführungsgesetz zum Arbeitsrecht
 short: V EG ArR
 language: de
-version: 2015-01-01
-valid_until: 2024-06-30
-version_adopted: 2014-11-05
+version: 2024-07-01
+valid_until: 2025-08-31
+version_adopted: 2024-03-13
 adopted: 2012-05-23
 in_force: 2012-09-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/961.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2049/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3523/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,16 +19,15 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2049/pdf_file"
 
 (V EG ArR)
 
-Vom 23.05.2012 (Stand 01.01.2015)
+Vom 23.05.2012 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf die §§ 2 Abs. 2, 3, 5, 13 und 25 des Einführungsgesetzes zum Arbeitsrecht (EG ArR) vom 8. November 2011[^ingress-1] sowie die §§ 1 Abs. 1 lit. a und 2 Abs. 1 des Dekrets über die durch den Staat zu beziehenden Gebühren vom 23. November 1977[^ingress-2],
+gestützt auf die §§ 2 Abs. 2, 3, 5, 13 und 25 des Einführungsgesetzes zum Arbeitsrecht (EG ArR) vom 8. November 2011[^ingress-1],
 
 beschliesst:
 
 [^ingress-1]: SAR [961.200](https://gesetzessammlungen.ag.ch/data/961.200/de)
-[^ingress-2]: SAR [661.110](https://gesetzessammlungen.ag.ch/data/661.110/de)
 
 ## 1. Arbeits- und Heimarbeitsgesetzgebung
 
@@ -87,55 +86,27 @@ beschliesst:
 
 <sup>1</sup> Bewilligungs- und Genehmigungsgesuche sowie Anzeigen wegen Nichtbefolgung der Arbeitsgesetzgebung und gestützt darauf erlassene Verfügungen sind dem AWA einzureichen, wenn gemäss den eidgenössischen Vorschriften nichts anderes gilt.
 
-### 1.3. Gebühren
+### 1.3.
 
 #### § 7
 
-**Arbeitszeitbewilligungen**
-
-<sup>1</sup> Für die Bearbeitung von Gesuchen um Erteilung von Arbeitszeitbewilligungen werden folgende Gebühren erhoben:
-
-- a) bis 50 Arbeitsstunden — Fr. 70.–
-- b) von 51 bis 100 Arbeitsstunden — Fr. 100.–
-- c) von 101 bis 500 Arbeitsstunden — Fr. 150.–
-- d) …
-- e) …
-- f) …
-- g) für je weitere 500 Arbeitsstunden erhöht sich die Gebühr um Fr. 50.–, höchstens aber bis Fr. 500.–.
-
-<sup>1<sup>bis</sup></sup> Bei Projekten mit mehreren einbezogenen Betrieben kann die Auftraggeberin beziehungsweise der Auftraggeber eine kombinierte Arbeitszeitbewilligung für alle diese Betriebe beantragen. Die Gebühr gemäss Absatz 1 wird entsprechend dem Mehraufwand auf maximal Fr. 1'000.– erhöht.
-
-<sup>2</sup> Für die Bearbeitung von Gesuchen, die nicht früher als eine Woche vor Inanspruchnahme der Bewilligung eingereicht werden, wird zusätzlich zur Gebühr gemäss Absatz 1 eine Pauschale von Fr. 100.– erhoben.
-
-<sup>3</sup> Auf die zusätzliche Pauschale gemäss Absatz 2 kann verzichtet werden, wenn besondere Umstände dies rechtfertigen.
+**…**
 
 #### § 8
 
-**Plangenehmigungen**
-
-<sup>1</sup> Im Rahmen des Plangenehmigungsverfahrens werden je nach Arbeitsaufwand Gebühren von Fr. 150.– bis 10'000.– erhoben.
+**…**
 
 #### § 9
 
-**Betriebsbewilligungen**
-
-<sup>1</sup> Für Betriebsbewilligungen wird eine Gebühr erhoben, die 50–75 % der Plangenehmigungsgebühr entspricht, im Minimum Fr. 75.–.
+**…**
 
 #### § 10
 
-**Beschäftigung Jugendlicher**
-
-<sup>1</sup> Bewilligungen zur Beschäftigung Jugendlicher gemäss der Bundesverordnung 5 zum Arbeitsgesetz (Jugendarbeitsschutzverordnung, ArGV 5) vom 28. September 2007[^10-1] sind unentgeltlich.
-
-[^10-1]: SR [822.115](https://db.clex.ch/link/Bund/822.115/de)
+**…**
 
 #### § 11
 
-**Besondere Fälle**
-
-<sup>1</sup> Wird ein Gesuch vor Erteilung der Bewilligung oder Plangenehmigung zurückgezogen oder wird es abgelehnt, kann die Gebühr, falls es die Umstände rechtfertigen, herabgesetzt oder erlassen werden.
-
-<sup>2</sup> Werden nach Erteilung der Bewilligung oder Plangenehmigung Änderungen beantragt, wird für deren Bearbeitung je nach Aufwand eine Gebühr erhoben, im Minimum Fr. 50.–.
+**…**
 
 ## 2. Einigungsamt
 
