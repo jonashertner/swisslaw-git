@@ -4,13 +4,12 @@ number: "959.312"
 title: Geldspielverordnung
 short: GSV
 language: de
-version: 2021-01-01
-valid_until: 2024-06-30
-version_adopted: 2020-11-11
+version: 2024-07-01
+version_adopted: 2024-03-13
 adopted: 2020-11-11
 in_force: 2021-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/959.312"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2936/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3522/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2936/pdf_file"
 
 (GSV)
 
-Vom 11.11.2020 (Stand 01.01.2021)
+Vom 11.11.2020 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -108,15 +107,7 @@ beschliesst:
 
 #### § 7
 
-**Bewilligungsgebühr**
-
-<sup>1</sup> Die Bewilligungsgebühr beträgt je nach Aufwand Fr. 200.– bis Fr. 1'200.–.
-
-<sup>2</sup> Bleibt der Wert der verkauften Lose oder der geleisteten Einsätze unter der bewilligten Summe aller Einsätze, entsteht daraus kein Anspruch auf eine Gebührenreduktion.
-
-<sup>3</sup> Wird eine bewilligte Lotterie aus stichhaltigen Gründen nicht durchgeführt, kann die Bewilligungsbehörde die Durchführung der Lotterie innert der folgenden drei Monate ohne zusätzliche Gebühr gestatten.
-
-<sup>4</sup> Wird die Bewilligung storniert, ist eine Gebühr von Fr. 100.– zu entrichten.
+**…**
 
 #### § 8
 
@@ -211,12 +202,7 @@ beschliesst:
 
 #### § 16
 
-**Bewilligungsgebühr**
-
-<sup>1</sup> Die Bewilligungsgebühr beträgt je nach Aufwand
-
-- a) bei Zuständigkeit des DFR Fr. 300.– bis Fr. 800.–.
-- b) bei Zuständigkeit des Regierungsrats Fr. 800.-- bis Fr. 1'600.–.
+**…**
 
 #### § 17
 
@@ -261,9 +247,7 @@ beschliesst:
 
 #### § 21
 
-**Bewilligungsgebühr**
-
-<sup>1</sup> Die Bewilligungsgebühr beträgt je nach Aufwand Fr. 800.– bis Fr. 1'200.– pro Bewilligung.
+**…**
 
 ### 2.3. Kleine Pokerturniere
 
@@ -275,7 +259,7 @@ beschliesst:
 
 <sup>2</sup> Eine erteilte Bewilligung ist nicht übertragbar.
 
-<sup>3</sup> Bewilligungen für kleine Pokerturniere sind gebührenpflichtig. Die Gebühr beträgt je nach Aufwand mindestens Fr. 100.– und maximal Fr. 300.–.
+<sup>3</sup> …
 
 #### § 23
 
@@ -361,14 +345,7 @@ beschliesst:
 
 #### § 32
 
-**Gebühren**
-
-<sup>1</sup> Es gelten folgende Gebührenansätze:
-
-- a) für die Behandlung von Gesuchen um Erteilung oder Änderung einer Bewilligung für Spiellokale je nach Aufwand Fr. 100.– bis Fr. 500.–,
-- b) für die Kontrolle von Spiellokalen pro Stunde (Aufwand, die Reisezeit eingeschlossen) Fr. 120.–.
-
-<sup>2</sup> Bei ungewöhnlich geringem oder grossem Aufwand kann die Gebühr angemessen herabgesetzt oder erhöht werden.
+**…**
 
 #### § 33
 
