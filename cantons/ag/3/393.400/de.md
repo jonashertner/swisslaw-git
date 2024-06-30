@@ -4,13 +4,12 @@ number: "393.400"
 title: Hundegesetz
 short: HuG
 language: de
-version: 2012-05-01
-valid_until: 2024-06-30
-version_adopted: 2011-03-15
+version: 2024-07-01
+version_adopted: 2023-09-19
 adopted: 2011-03-15
 in_force: 2012-05-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/393.400"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/1268/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3650/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/1268/pdf_file"
 
 (HuG)
 
-Vom 15.03.2011 (Stand 01.05.2012)
+Vom 15.03.2011 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -117,7 +116,7 @@ beschliesst:
 - a) des Hundeausweises gemäss Art. 18 der eidgenössischen Tierseuchenverordnung (TSV) vom 27. Juni 1995[^7-1],
 - b) der Sachkundenachweise gemäss Art. 68 TSchV.
 
-<sup>3</sup> Der Regierungsrat bezeichnet gemäss den Vorgaben des Bundesrechts die Registrierungsstelle. Die Gemeinden haben kostenlosen Zugang zu den Daten über die Hundehaltungen in ihrer Gemeinde.
+<sup>3</sup> Der Regierungsrat bezeichnet gemäss den Vorgaben des Bundesrechts die Registrierungsstelle. Die Gemeinden haben unentgeltlichen Zugang zu den Daten über die Hundehaltungen in ihrer Gemeinde.
 
 [^7-1]: SR [916.401](https://db.clex.ch/link/Bund/916.401/de)
 
