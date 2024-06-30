@@ -4,13 +4,12 @@ number: "210.300"
 title: Einführungsgesetz zum Schweizerischen Zivilgesetzbuch
 short: EG ZGB
 language: de
-version: 2024-06-01
-valid_until: 2024-06-30
-version_adopted: 2023-12-12
+version: 2024-07-01
+version_adopted: 2023-09-19
 adopted: 2017-06-27
 in_force: 2018-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/210.300"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3413/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3614/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3413/pdf_file"
 
 (EG ZGB)
 
-Vom 27.06.2017 (Stand 01.06.2024)
+Vom 27.06.2017 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -171,6 +170,8 @@ beschliesst:
 
 <sup>3</sup> Entscheide des zuständigen Departements über die Adoption und über die Bewilligung der Aufnahme eines Pflegekindes zum Zweck der späteren Adoption können beim Obergericht (Zivilgericht) mit Beschwerde angefochten werden. Es sind die Bestimmungen über das verwaltungsgerichtliche Beschwerdeverfahren gemäss VRPG anwendbar.
 
+<sup>4</sup> Die Suche nach leiblichen Angehörigen gemäss den Art. 268b und 268c ZGB erfolgt unter Vorbehalt des Auslagenersatzes unentgeltlich.
+
 #### § 15
 
 **Gegenpartei der Vaterschaftsklage**
@@ -199,7 +200,7 @@ beschliesst:
 <sup>1</sup> Das zuständige Departement ist verantwortlich für
 
 - a) die Bewilligung und die Aufsicht im Bereich der Heimpflege gemäss Art. 13 Abs. 1 lit. a der Verordnung über die Aufnahme von Pflegekindern (Pflegekinderverordnung, PAVO) vom 19. Oktober 1977[^18-1] (Art. 2 Abs. 2 lit. a PAVO),
-- b) die Entgegennahme von Meldungen und die Aufsicht im Bereich der Dienstleistungsangebote in der Familienpflege gemäss Art. 20a PAVO (Art. 2 Abs. 1 lit. b PAVO).
+- b) die Entgegennahme von Meldungen und die Aufsicht im Bereich der Dienstleistungsangebote in der Familienpflege gemäss Art. 20a PAVO (Art. 2 Abs. 1 lit. b PAVO); Meldeverfahren und Aufsicht sind unentgeltlich.
 
 <sup>2</sup> Der Gemeinderat am Ort der Unterbringung des Kindes ist namentlich zuständig für (Art. 316 Abs. 1 ZGB und Art. 2 Abs. 2 PAVO)
 
@@ -247,7 +248,7 @@ beschliesst:
 
 **c) Hinterlegung von Vorsorgeaufträgen und Patientenverfügungen**
 
-<sup>1</sup> Vorsorgeaufträge und Patientenverfügungen können bei der Kindes- und Erwachsenenschutzbehörde am Wohnsitz der betroffenen Person gegen Gebühr hinterlegt werden.
+<sup>1</sup> Vorsorgeaufträge und Patientenverfügungen können bei der Kindes- und Erwachsenenschutzbehörde am Wohnsitz der betroffenen Person hinterlegt werden.
 
 <sup>2</sup> Die Kindes- und Erwachsenenschutzbehörde führt über hinterlegte Vorsorgeaufträge und Patientenverfügungen ein Verzeichnis und bewahrt sie an einem sicheren Ort auf.
 
@@ -450,7 +451,7 @@ beschliesst:
 
 <sup>1</sup> In Erwachsenenschutzverfahren werden die Gerichtskosten in erster Instanz der betroffenen Person auferlegt, es sei denn, besondere Umstände rechtfertigen eine andere Verteilung oder den Verzicht auf die Erhebung von Gerichtskosten.
 
-<sup>2</sup> Besondere Umstände, die den Verzicht auf die Erhebung von Gerichtskosten rechtfertigen, liegen namentlich vor, wenn von der Anordnung einer Massnahme abgesehen wird.
+<sup>2</sup> Besondere Umstände, die den Verzicht auf die Erhebung von Gerichtskosten rechtfertigen, liegen namentlich vor, wenn von der Anordnung einer Massnahme abgesehen wird, oder bei einfachen Entscheiden und Vorkehren.
 
 <sup>3</sup> Keine Gerichtskosten werden erhoben in
 
@@ -756,7 +757,7 @@ beschliesst:
 
 **Zuständigkeit der Bezirksgerichtspräsidentin oder des Bezirksgerichtspräsidenten**
 
-<sup>1</sup> Die Bezirksgerichtspräsidentin oder der Bezirksgerichtspräsident des Wohnorts der betroffenen Person bewahrt die letztwilligen Verfügungen, die Erbverträge (Art. 504, 505, 507 und 512 ZGB) sowie die Eheverträge und Vermögensverträge bei eingetragener Partnerschaft (Art. 182 ZGB, Art. 25 PartG) im Original gegen Gebühr auf.
+<sup>1</sup> Die Bezirksgerichtspräsidentin oder der Bezirksgerichtspräsident des Wohnorts der betroffenen Person bewahrt die letztwilligen Verfügungen, die Erbverträge (Art. 504, 505, 507 und 512 ZGB) sowie die Eheverträge und Vermögensverträge bei eingetragener Partnerschaft (Art. 182 ZGB, Art. 25 PartG) im Original auf.
 
 <sup>2</sup> Die nach dem Zivilgesetzbuch zulässigen mündlichen Verfügungen können bei jedem Bezirksgerichtspräsidium im Kanton niedergelegt oder zu Protokoll gegeben werden (Art. 506 und 507 ZGB).
 
