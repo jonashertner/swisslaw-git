@@ -4,11 +4,11 @@ title: Loi fédérale du 30 septembre 2016 sur les professions de la santé (LPS
 short: LPSan
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/16"
 language: fr
-version: 2023-09-01
+version: 2024-07-01
 adopted: 2016-09-30
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/16/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2020-16-20230901-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/16/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/16/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2020-16-20240701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/16/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/16/20230901/fr"
 
 (LPSan)[^t-1]
 
-du 30 septembre 2016 (État le 1<sup>er</sup> septembre 2023)
+du 30 septembre 2016 (État le 1<sup>er</sup> juillet 2024)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -430,11 +430,41 @@ Les personnes suivantes doivent être enregistrées:
 
 ## Chapitre 7 Aides financières
 
-#### Art. 29 et 30
+[^chap7-1]
 
-[^2930-1]
+[^chap7-1]: En vigueur du 1<sup>er</sup> juil. 2024 au 30 juin 2028 ([RO 2024 216](https://fedlex.data.admin.ch/eli/oc/2024/216)).
 
-[^2930-1]: Entrent en vigueur ultérieurement ([RO 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16)).
+#### Art. 29
+
+**Promotion de l’efficience dans le domaine des soins médicaux de base**
+
+<sup>1</sup>
+
+La Confédération peut, dans le cadre des crédits alloués, octroyer des aides financières aux hautes écoles et aux autres institutions du domaine des hautes écoles visées à l’art. 2 LEHE[^29-1] ainsi qu’à d’autres organes publics et privés pour la réalisation de projets:
+
+- a. qui contribuent, dans le cadre de la formation et de l’exercice de la profession, à promouvoir l’efficience dans le domaine des soins médicaux de base, en particulier l’interprofessionnalité;
+- b. qui possèdent un caractère exemplaire suprarégional, et
+- c. qui sont assortis d’une évaluation.
+
+<sup>2</sup> Les hautes écoles et autres institutions du domaine des hautes écoles ainsi que les autres organes publics et privés qui reçoivent les aides financières visées à l’al. 1, mettent les résultats de l’évaluation à la disposition de la Confédération.
+
+<sup>3</sup> Les demandes d’aides financières sont déposées auprès de l’OFSP. Celui-ci accorde l’aide financière sur la base de contrats de prestations ou au moyen d’une décision.
+
+<sup>4</sup> L’aide financière couvre au maximum la moitié des coûts imputables du projet, évaluation incluse.
+
+<sup>5</sup> L’aide financière est octroyée durant trois ans au maximum.
+
+<sup>6</sup> Le Conseil fédéral règle la détermination des aides financières ainsi que la procédure d’octroi de subventions.
+
+[^29-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+
+#### Art. 30
+
+**Financement**
+
+<sup>1</sup> L’Assemblée fédérale décide, sous la forme d’un crédit d’engagement pluriannuel, du montant maximal des aides financières de la Confédération conformément à l’art. 29.
+
+<sup>2</sup> S’il est prévisible que les aides demandées excéderont les moyens à disposition, le DFI dresse une liste des priorités, en veillant à assurer une répartition régionale équilibrée des moyens.
 
 ## Chapitre 8 Dispositions finales
 
@@ -470,11 +500,11 @@ La modification d’autres actes est réglée en annexe.
 
 <sup>5</sup> Les hautes écoles qui étaient reconnues comme ayant droit à une subvention en vertu de la loi du 8 octobre 1999 sur l’aide aux universités[^34-1] ou de la loi du 6 octobre 1995 sur les hautes écoles spécialisées[^34-2] peuvent faire accréditer leurs filières d’études jusqu’au 31 décembre 2022, même si elles ne satisfont pas aux conditions prévues à l’art. 7, let. a.
 
-<sup>6</sup> ...[^34-3]
+<sup>6</sup> Les art. 29 et 30 demeurent applicables aux demandes acceptées pendant leur durée de validité.[^34-3]
 
 [^34-1]: [[RO 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146), [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)annexe ch. II 3, [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225), [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)ch. II 5, [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76)[3437](https://fedlex.data.admin.ch/eli/oc/2008/447)ch. II 18, [2011 5871](https://fedlex.data.admin.ch/eli/oc/2011/812), [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 10, [2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)annexe ch. I 1]
 [^34-2]: [[RO 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588), [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171), [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 37, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 11, [2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)annexe ch. I 2]
-[^34-3]: Entre en vigueur ultérieurement ([RO 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16)).
+[^34-3]: En vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 216](https://fedlex.data.admin.ch/eli/oc/2024/216)).
 
 #### Art. 35
 

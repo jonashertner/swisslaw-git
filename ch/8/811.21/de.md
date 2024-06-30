@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 30. September 2016 über die Gesundheitsberufe (Gesundh
 short: GesBG
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/16"
 language: de
-version: 2023-09-01
+version: 2024-07-01
 adopted: 2016-09-30
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/16/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2020-16-20230901-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/16/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/16/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2020-16-20240701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/16/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/16/20230901/de"
 
 (Gesundheitsberufegesetz, GesBG)
 
-vom 30. September 2016 (Stand am 1. September 2023)
+vom 30. September 2016 (Stand am 1. Juli 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -428,11 +428,41 @@ Registriert werden müssen:
 
 ## 7. Kapitel: Finanzhilfen
 
-#### Art. 29 und 30
+[^chap7-1]
 
-[^2930-1]
+[^chap7-1]: In Kraft vom 1. Juli 2024 bis zum 30. Juni 2028 ([AS 2024 216](https://fedlex.data.admin.ch/eli/oc/2024/216)).
 
-[^2930-1]: Noch nicht in Kraft ([AS 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16)).
+#### Art. 29
+
+**Förderung der Effizienz der medizinischen Grundversorgung**
+
+<sup>1</sup>
+
+Der Bund kann im Rahmen der bewilligten Kredite Hochschulen und anderen Institutionen im Hochschulbereich nach Artikel 2 HFKG[^29-1] sowie anderen öffentlichen und privaten Trägerschaften Finanzhilfen gewähren für Projekte, die:
+
+- a. im Rahmen der Ausbildung sowie der Berufsausübung der Förderung der Effizienz in der medizinischen Grundversorgung dienen, insbesondere der Interprofessionalität;
+- b. überregionalen Modellcharakter aufweisen; und
+- c. von einer Evaluation begleitet werden.
+
+<sup>2</sup> Hochschulen und anderen Institutionen im Hochschulbereich sowie andere öffentliche und private Trägerschaften, die Finanzhilfen nach Absatz 1 erhalten, stellen dem Bund die Evaluationsergebnisse zur Verfügung.
+
+<sup>3</sup> Gesuche um Finanzhilfen sind beim BAG einzureichen. Dieses gewährt die Finanzhilfe aufgrund von Leistungsverträgen oder mittels Verfügung.
+
+<sup>4</sup> Die Finanzhilfe deckt höchstens die Hälfte der anrechenbaren Kosten des Projektes einschliesslich der Evaluation.
+
+<sup>5</sup> Die Finanzhilfe wird höchstens für drei Jahre ausgerichtet.
+
+<sup>6</sup> Der Bundesrat regelt die Bemessung der Finanzhilfen sowie das weitere Verfahren der Beitragsgewährung.
+
+[^29-1]: [SR 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+
+#### Art. 30
+
+**Finanzierung**
+
+<sup>1</sup> Die Bundesversammlung beschliesst mit einem mehrjährigen Verpflichtungskredit den Höchstbetrag, bis zu dem der Bund Finanzhilfen nach Artikel 29 gewähren darf.
+
+<sup>2</sup> Ist absehbar, dass die Gesuche die zur Verfügung stehenden Mittel übersteigen werden, so erarbeitet das Eidgenössische Departement des Innern eine Prioritätenliste; dabei achtet es auf eine ausgewogene regionale Verteilung der Mittel.
 
 ## 8. Kapitel: Schlussbestimmungen
 
@@ -468,11 +498,11 @@ Die Änderung anderer Erlasse ist im Anhang geregelt.
 
 <sup>5</sup> Hochschulen, die nach dem Universitätsförderungsgesetz vom 8. Oktober 1999[^34-1] oder nach dem Fachhochschulgesetz vom 6. Oktober 1995[^34-2] als beitragsberechtigt anerkannt waren, können ihre Studiengänge bis zum 31. Dezember 2022 akkreditieren lassen, auch wenn sie die Voraussetzungen nach Artikel 7 Buchstabe a nicht erfüllen.
 
-<sup>6</sup> …[^34-3]
+<sup>6</sup> Die Artikel 29 und 30 bleiben auf die während ihrer Geltungsdauer bewilligten Gesuche anwendbar.[^34-3]
 
 [^34-1]: [[AS 2000 948](https://fedlex.data.admin.ch/eli/oc/2000/146); [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)Anhang Ziff. II 3; [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225); [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)Ziff. II 5; [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76), [3437](https://fedlex.data.admin.ch/eli/oc/2008/447)Ziff. II 18; [2011 5871](https://fedlex.data.admin.ch/eli/oc/2011/812); [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 10; [2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)Anhang Ziff. I 1]
 [^34-2]: [[AS 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588); [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171); [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 37; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 11; [2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)Anhang Ziff. I 2]
-[^34-3]: Noch nicht in Kraft ([AS 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16)).
+[^34-3]: In Kraft seit 1. Juli 2024 ([AS 2024 216](https://fedlex.data.admin.ch/eli/oc/2024/216)).
 
 #### Art. 35
 

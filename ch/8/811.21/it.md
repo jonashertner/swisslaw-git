@@ -4,11 +4,11 @@ title: Legge federale del 30 settembre 2016 sulle professioni sanitarie (LPSan)
 short: LPSan
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/16"
 language: it
-version: 2023-09-01
+version: 2024-07-01
 adopted: 2016-09-30
 in_force: 2020-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/16/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2020-16-20230901-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/16/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/16/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2020-16-20240701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/16/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/16/20230901/it"
 
 (LPSan)
 
-del 30 settembre 2016 (Stato 1° settembre 2023)
+del 30 settembre 2016 (Stato 1° luglio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -428,11 +428,41 @@ Devono essere registrati:
 
 ## Capitolo 7: Aiuti finanziari
 
-#### Art. 29 e 30
+[^chap7-1]
 
-[^2930-1]
+[^chap7-1]: In vigore dal 1° lug. 2024 al 30 giu. 2028 ([RU 2024 216](https://fedlex.data.admin.ch/eli/oc/2024/216)).
 
-[^2930-1]: Entrano in vigore in un secondo tempo ([RU 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [FF 2015 7125](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
+#### Art. 29
+
+**Promovimento dell’efficienza nell’ambito delle cure mediche di base**
+
+<sup>1</sup>
+
+Entro i limiti dei crediti stanziati, la Confederazione può concedere aiuti finanziari alle scuole universitarie e agli altri istituti accademici ai sensi dell’articolo 2 LPSU[^29-1], nonché ad altre istituzioni pubbliche e private, per la realizzazione di progetti che:
+
+- a. nell’ambito della formazione e dell’esercizio della professione, contribuiscono a promuovere l’efficienza nell’ambito delle cure mediche di base e in particolare l’interprofessionalità;
+- b. rivestono un carattere esemplare a livello sovraregionale;
+- c. sono sottoposti a valutazione.
+
+<sup>2</sup> Le scuole universitarie e gli altri istituti accademici nonché le altre istituzioni pubbliche e private che ricevono aiuti finanziari secondo il capoverso 1 mettono i risultati della valutazione a disposizione della Confederazione.
+
+<sup>3</sup> Le domande di aiuti finanziari sono presentate all’UFSP. Esso concede gli aiuti finanziari sulla base di contratti di prestazione o mediante decisione.
+
+<sup>4</sup> L’aiuto finanziario copre al massimo la metà dei costi computabili del progetto, inclusi quelli della valutazione.
+
+<sup>5</sup> L’aiuto finanziario è versato per tre anni al massimo.
+
+<sup>6</sup> Il Consiglio federale disciplina il calcolo degli aiuti finanziari e la procedura di concessione dei contributi.
+
+[^29-1]: [RS 414.20](https://fedlex.data.admin.ch/eli/cc/2014/691)
+
+#### Art. 30
+
+**Finanziamento**
+
+<sup>1</sup> Mediante lo stanziamento di un credito d’impegno pluriennale, l’Assemblea federale determina l’importo massimo a concorrenza del quale la Confederazione può concedere aiuti finanziari conformemente all’articolo 29.
+
+<sup>2</sup> Se si prevede che gli aiuti finanziari richiesti eccederanno i mezzi a disposizione, il Dipartimento federale dell’interno stila una lista delle priorità, cercando di garantire una ripartizione equilibrata dei mezzi tra le regioni.
 
 ## Capitolo 8: Disposizioni finali
 
@@ -468,11 +498,11 @@ La modifica di altri atti normativi è disciplinata nell’allegato.
 
 <sup>5</sup> Le scuole universitarie che secondo la legge dell’8 ottobre 1999[^34-1] sull’aiuto alle università oppure la legge del 6 ottobre 1995[^34-2] sulle scuole universitarie professionali erano riconosciute come aventi diritto a un sussidio possono far accreditare i propri cicli di studio entro il 31 dicembre 2022, anche qualora non soddisfino le condizioni di cui all’articolo 7 lettera a.
 
-<sup>6</sup> ...[^34-3]
+<sup>6</sup> Gli articoli 29 e 30 sono applicabili alle domande presentate durante la loro validità.[^34-3]
 
 [^34-1]: [[RU 2000 948](http://www.admin.ch/ch/d/as/2000/948.pdf)](https://fedlex.data.admin.ch/eli/oc/2000/146), [2003 187](https://fedlex.data.admin.ch/eli/oc/2003/24)all. cifra II 3, [2004 2013](https://fedlex.data.admin.ch/eli/oc/2004/225), [2007 5779](https://fedlex.data.admin.ch/eli/oc/2007/787)cifra II 5, [2008 307](https://fedlex.data.admin.ch/eli/oc/2008/76)[3437](https://fedlex.data.admin.ch/eli/oc/2008/447)cifra II 18, [2011 5871](https://fedlex.data.admin.ch/eli/oc/2011/812), [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)cifra I 10, [2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)all. cifra I 1
 [^34-2]: [RU 1996 2588](https://fedlex.data.admin.ch/eli/oc/1996/2588_2588_2588), [2002 953](https://fedlex.data.admin.ch/eli/oc/2002/171), [2005 4635](https://fedlex.data.admin.ch/eli/oc/2005/607), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 37, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)cifra I 11, [2014 4103](https://fedlex.data.admin.ch/eli/oc/2014/691)all. cifra I 2
-[^34-3]: Entra in vigore in un secondo tempo ([RU 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [FF 2015 7125](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
+[^34-3]: In vigore dal 1° lug. 2024 ([RU 2024 216](https://fedlex.data.admin.ch/eli/oc/2024/216)).
 
 #### Art. 35
 
@@ -492,9 +522,10 @@ Il coordinamento con la modifica del 20 marzo 2015[^35-1] della legge sulle prof
 
 <sup>3</sup> Gli articoli 29 e 30 sono applicabili per quattro anni a contare dall’entrata in vigore della presente legge.
 
-Data dell’entrata in vigore: 1° febbraio 2020[^36-1] Art. 29, 30 e 34 cpv 6: entrano in vigore in un secondo tempo.
+Data dell’entrata in vigore: 1° febbraio 2020[^36-1] Art. 29, 30 e 34 cpv 6: 1° luglio 2024[^36-2]
 
 [^36-1]: DCF del 13 dic. 2019.
+[^36-2]: O dell’8 mag. 2024 concernente l’entrata in vigore integrale della LF sulle professioni sanitarie ([RU 2024 216](https://fedlex.data.admin.ch/eli/oc/2024/216)).
 
 Allegato
 
