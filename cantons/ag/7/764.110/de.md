@@ -4,13 +4,12 @@ number: "764.110"
 title: Wassernutzungsabgabendekret
 short: WnD
 language: de
-version: 2015-01-01
-valid_until: 2024-06-30
-version_adopted: 2014-11-25
+version: 2024-07-01
+version_adopted: 2023-09-19
 adopted: 2008-03-18
 in_force: 2008-09-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/764.110"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2054/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3803/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2054/pdf_file"
 
 (WnD)
 
-Vom 18.03.2008 (Stand 01.01.2015)
+Vom 18.03.2008 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -43,21 +42,15 @@ beschliesst:
 
 #### § 2
 
-**Verwaltungsgebühr**
-
-<sup>1</sup> Für die Prüfung jedes Gesuchs um Erteilung, Änderung, Erneuerung oder Übertragung eines Nutzungsrechts ist eine einmalige Verwaltungsgebühr von Fr. 200.– bis Fr. 100'000.– zu entrichten. Sie wird entsprechend dem Aufwand festgesetzt.
+**…**
 
 #### § 3
 
-**Auslagen**
-
-<sup>1</sup> Die Gesuchstellenden und Nutzungsberechtigten haben dem Kanton alle entstehenden Auslagen (Untersuchungs-, Begutachtungs-, Neuberechnungs-, Publikations- und Druckkosten) zu vergüten.
+**…**
 
 #### § 3a
 
-**Bezug hydrometrischer Daten**
-
-<sup>1</sup> Der Bezug publizierter Daten ist gebührenfrei. Eine weitergehende Aufbereitung der Daten und der Bezug besonderer Datenprodukte und Datenformate wird nach Aufwand verrechnet. Die Gebühr beträgt Fr. 20.– bis Fr. 2'000.–.
+**…**
 
 #### § 4
 
@@ -289,7 +282,7 @@ beschliesst:
 
 <sup>2</sup> Innerhalb von drei Jahren nach Inkrafttreten dieses Dekrets sind bei bestehenden Nutzungen von unterirdischen Gewässern Einrichtungen zur Messung des bezogenen Wassers bei den Entnahmevorrichtungen zu installieren. Bis zum Vorliegen der Messergebnisse eines vollen Kalenderjahrs wird für die Bestimmung der jährlichen Nutzungsgebühr ein dauernder Betrieb mit einem Viertel der Höchstleistung der Entnahmevorrichtung angenommen. Fehlen bei bestehenden Nutzungen nach 4 Jahren seit Inkrafttreten dieses Dekrets die Messergebnisse eines vollen Kalenderjahrs, wird für die Bestimmung der jährlichen Nutzungsgebühr ein Dauerbetrieb mit der Höchstleistung der Entnahmevorrichtung angenommen. Die gleiche Regelung gilt, wenn nach Ablauf eines vollen Kalenderjahrs seit der Betriebsaufnahme von neuen Nutzungen keine Messergebnisse vorliegen.
 
-<sup>3</sup> Bei Änderungen dieses Dekrets, welche die Gebühren für die Wassernutzung betreffen, findet das neue Recht Anwendung, soweit die Nutzung unter neuem Recht erfolgt. Für die Festsetzung von Verwaltungsgebühren, die den Aufwand der Verwaltung abgelten, gilt das Recht zum Zeitpunkt der Einreichung des Gesuchs.
+<sup>3</sup> Bei Änderungen dieses Dekrets, welche die Gebühren für die Wassernutzung betreffen, findet das neue Recht Anwendung, soweit die Nutzung unter neuem Recht erfolgt.
 
 #### § 20
 
