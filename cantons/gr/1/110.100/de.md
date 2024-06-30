@@ -3,20 +3,20 @@ canton: GR
 number: "110.100"
 title: Verfassung des Kantons Graubünden
 language: de
-version: 2023-10-01
-valid_until: 2024-06-30
+version: 2024-07-01
+valid_until: 2024-12-31
 version_adopted: 2022-11-27
 adopted: 2003-09-14
 in_force: 2004-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/110.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3308/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3369/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verfassung des Kantons Graubünden
 
-Vom 14.09.2003 (Stand 01.10.2023)
+Vom 14.09.2003 (Stand 01.07.2024)
 
 Wir, das Volk des Kantons Graubünden,
 
@@ -552,9 +552,9 @@ geben uns folgende Verfassung[^ingress-1]:
 
 **Finanzen, Mitwirkung im Grossen Rat und Rechtsetzung**
 
-<sup>1</sup> Das Kantons- und das Verwaltungsgericht unterbreiten dem Grossen Rat den Entwurf für ihr Budget sowie die Rechnung und den Jahresbericht zur Genehmigung.
+<sup>1</sup> Das Obergericht unterbreitet dem Grossen Rat den Entwurf für das Budget sowie die Rechnung und den Geschäftsbericht zur Genehmigung.
 
-<sup>2</sup> Die Präsidentinnen und Präsidenten nehmen an den Sitzungen des Grossen Rates zum Budget, zur Rechnung und zu den Jahresberichten der Gerichte teil. Sie haben beratende Stimme und können Anträge stellen.
+<sup>2</sup> Die Präsidentin oder der Präsident des Obergerichts nimmt an den Sitzungen des Grossen Rates zum Budget, zur Rechnung und zum Geschäftsbericht sowie zu den vom Obergericht angeregten Rechtsetzungsvorhaben teil. Sie oder er hat beratende Stimme und kann Anträge stellen.
 
 <sup>3</sup> Soweit nicht die Form des Gesetzes vorgeschrieben ist, können die Gerichte auf dem Gebiet der Justizverwaltung Verordnungen erlassen, wenn sie durch Gesetz ausdrücklich dazu ermächtigt werden.
 

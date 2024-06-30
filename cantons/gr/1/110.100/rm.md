@@ -3,20 +3,20 @@ canton: GR
 number: "110.100"
 title: Constituziun dal chantun Grischun
 language: rm
-version: 2023-10-01
-valid_until: 2024-06-30
+version: 2024-07-01
+valid_until: 2024-12-31
 version_adopted: 2022-11-27
 adopted: 2003-09-14
 in_force: 2004-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/110.100"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3308/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3369/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Constituziun dal chantun Grischun
 
-dals 14-09-2003 (versiun dals 01-10-2023)
+dals 14-09-2003 (versiun dals 01-07-2024)
 
 Nus, il pievel dal chantun Grischun,
 
@@ -550,9 +550,9 @@ ans dain la sequenta constituziun:[^ingress-1]
 
 **Finanzas, cooperaziun en il cussegl grond e legislaziun**
 
-<sup>1</sup> La dretgira chantunala e la dretgira administrativa suttamettan al cussegl grond il sboz per lur preventiv sco er il quint ed il rapport annual per l'approvaziun.
+<sup>1</sup> La Dretgira superiura suttametta al Cussegl grond il sboz per il preventiv sco er il quint ed il rapport da gestiun per l'approvaziun.
 
-<sup>2</sup> Las presidentas ed ils presidents prendan part da las sesidas dal cussegl grond davart il preventiv, davart il quint e davart ils rapports annuals da las dretgiras. Ellas ed els han vusch consultativa e pon far propostas.
+<sup>2</sup> La presidenta u il president da la Dretgira superiura prenda part da las sesidas dal Cussegl grond davart il preventiv, davart il quint e davart il rapport da gestiun sco er davart ils projects legislativs proponids da la Dretgira superiura. Ella u el ha vusch consultativa e po far propostas.
 
 <sup>3</sup> Uschenavant che la furma da la lescha n'è betg prescritta, pon las dretgiras relaschar ordinaziuns en il sectur da l'administraziun giudiziala, sch'ellas vegnan autorisadas explicitamain tras la lescha da far quai.
 

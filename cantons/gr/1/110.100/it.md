@@ -3,20 +3,20 @@ canton: GR
 number: "110.100"
 title: Costituzione del Cantone dei Grigioni
 language: it
-version: 2023-10-01
-valid_until: 2024-06-30
+version: 2024-07-01
+valid_until: 2024-12-31
 version_adopted: 2022-11-27
 adopted: 2003-09-14
 in_force: 2004-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/110.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3308/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3369/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
 # Costituzione del Cantone dei Grigioni
 
-del 14.09.2003 (stato 01.10.2023)
+del 14.09.2003 (stato 01.07.2024)
 
 Noi, Popolo del Cantone dei Grigioni,
 
@@ -550,9 +550,9 @@ ci diamo la seguente Costituzione:[^ingress-1]
 
 **Finanze, cooperazione in Gran Consiglio e legislazione**
 
-<sup>1</sup> Il Tribunale cantonale e il Tribunale amministrativo sottopongono al Gran Consiglio per approvazione il progetto di preventivo, nonché il conto annuale e il rapporto annuale.
+<sup>1</sup> Il Tribunale d'appello sottopone al Gran Consiglio per approvazione il progetto di preventivo, nonché il conto annuale e il rapporto di gestione.
 
-<sup>2</sup> Le e i presidenti prendono parte alle sedute del Gran Consiglio sul preventivo, sul conto annuale e sui rapporti annuali dei tribunali. Essi hanno voto consultivo e possono presentare proposte.
+<sup>2</sup> La o il presidente del Tribunale d'appello prende parte alle sedute del Gran Consiglio sul preventivo, sul conto annuale e sul rapporto di gestione nonché su progetti normativi proposti dal Tribunale d'appello. La o il presidente ha voto consultivo e può presentare proposte.
 
 <sup>3</sup> Qualora non sia prescritta la forma di legge, i tribunali possono emanare ordinanze nell'ambito dell'amministrazione della giustizia, se sono espressamente autorizzati dalla legge a farlo.
 
