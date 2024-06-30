@@ -1,22 +1,22 @@
 ---
 canton: VS
 number: "922.110"
-title: Beschluss über die Ausübung der Jagd im Wallis 2023-2024
+title: Beschluss über die Ausübung der Jagd im Wallis 2024-2025
 language: de
-version: 2023-07-01
-valid_until: 2024-06-30
-version_adopted: 2023-06-14
+version: 2024-07-01
+valid_until: 2025-06-30
+version_adopted: 2024-07-17
 adopted: 2026-06-17
 in_force: 2026-07-01
 url: "https://lex.vs.ch/app/de/texts_of_law/922.110"
-pdf: "https://lex.vs.ch/api/de/versions/3222/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3465/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Beschluss über die Ausübung der Jagd im Wallis 2023-2024
+# Beschluss über die Ausübung der Jagd im Wallis 2024-2025
 
-vom 14.06.2023 (Stand 01.07.2023)
+vom 19.06.2024 (Stand 01.07.2024)
 
 Der Staatsrat des Kantons Wallis
 
@@ -100,7 +100,7 @@ beschliesst:[^ingress-1]
 
 <sup>4</sup> Ab dem 50. Patent bezahlt der Jäger den halben Tarif.
 
-<sup>5</sup> Die DJFW erstattet dem Inhaber des Patentes R den Betrag von 25 Franken zurück, sofern er nachweisen kann, dass er mindestens eine Nachsuche gemäss Artikel 37 Absatz 6 dieses Beschlusses während der Geltungsdauer dieses Patentes durchgeführt hat.
+<sup>5</sup> Die Dienststelle für Jagd, Fischerei und Wildtiere (nachfolgend: DJFW) erstattet dem Inhaber des Patentes R den Betrag von 25 Franken zurück, sofern er nachweisen kann, dass er mindestens eine Nachsuche gemäss Artikel 37 Absatz 6 dieses Beschlusses während der Geltungsdauer dieses Patentes durchgeführt hat.
 
 <sup>6</sup> Die Spezialgebühr für die Gesundheitsförderung und die Verhütung von Krankheiten gemäss Beschluss zur Festlegung des Spezialgebührentarifs für die Gesundheitsförderung und die Verhütung von Krankheiten ist inbegriffen. Diese Gebühr wird einmalig bei der Ausstellung des ersten Patentes erhoben.
 
@@ -114,7 +114,7 @@ beschliesst:[^ingress-1]
 
 **Ausgabe der Patente**
 
-<sup>1</sup> Die Patente werden von der Dienststelle für Jagd, Fischerei und Wildtiere (nachfolgend: DJFW) ausgestellt. Wer ein Patent lösen will, muss der DJFW das offizielle Bestellformular ordnungsgemäss ausgefüllt und mit allen erforderlichen Unterlagen bis spätestens am 21. August zukommen lassen. Die Frist vom 21. August gilt auch für Patente, die online bestellt werden.
+<sup>1</sup> Die Patente werden von der DJFW ausgestellt. Wer ein Patent lösen will, muss der DJFW das offizielle Bestellformular ordnungsgemäss ausgefüllt und mit allen erforderlichen Unterlagen bis spätestens am 21. August zukommen lassen. Die Frist vom 21. August gilt auch für Patente, die online bestellt werden.
 
 <sup>2</sup> Hat ein Jäger bis zum 1. August kein Bestellformular erhalten, kann er sich bei der DJFW melden.
 
@@ -144,9 +144,11 @@ beschliesst:[^ingress-1]
 
 **Jagderöffnung und Jagddauer**
 
-<sup>1</sup> Die Jagderöffnung 2023-2024 ist auf den 18. September 2023 festgelegt.
+<sup>1</sup> Die Jagderöffnung 2024-2025 ist auf den 16. September 2024 festgelegt.
 
-<sup>2</sup> Die Daten der Jagdzeiten 2023-2024 und 2024-2025 sind in Anhang 1 aufgeführt.
+<sup>2</sup> Die Daten der Jagdzeiten 2024-2025 sind im Anhang 1 aufgeführt.
+
+<sup>3</sup> Die Jagderöffnung 2025-2026 ist auf den 15. September 2025 festgelegt.
 
 #### Art. 9
 
@@ -165,7 +167,7 @@ beschliesst:[^ingress-1]
 
 <sup>3</sup> Im Streitfall sind die auf der Jagdkarte festgelegten Grenzen und Elemente massgebend.
 
-[^9-1]: [https://sitonline.vs.ch/nature\_paysage\_foret/carte\_chasse/de](https://sitonline.vs.ch/nature_paysage_foret/carte_chasse/de)
+[^9-1]: [https://sitonline.vs.ch/nature\_paysage\_foret/carte\_chasse/](https://sitonline.vs.ch/nature_paysage_foret/carte_chasse/)
 
 #### Art. 10
 
@@ -198,11 +200,11 @@ beschliesst:[^ingress-1]
 
 <sup>2</sup> Kann das Wild nicht am gleichen Tag auf dem Kontrollposten vorgezeigt werden, muss der zuständige Wildhüter telefonisch benachrichtigt werden und die Kontrolle des Tiers zu einem späteren Zeitpunkt ist mit ihm zu vereinbaren.
 
-<sup>3</sup> Gamswild kann von einer Drittperson vorgezeigt werden. Das Kontrollbüchlein des Erlegers muss zusammen mit dem erlegten Wild vorgezeigt werden. Im Streitfall werden das Wild und das Kontrollbüchlein einbehalten, bis sich der Erleger am Kontrollposten einfindet.
+<sup>3</sup> Gamswild kann von einer Drittperson vorgezeigt werden. Der Erleger muss den zuständigen Wildhüter vorgängig telefonisch benachrichtigen und mit ihm die Kontrollmodalitäten vereinbaren. Im Streitfall wird das Wild einbehalten, bis sich der Erleger am Kontrollposten einfindet.
 
 <sup>4</sup> Geschützte oder nicht erlaubte Tiere sind vom Erleger selber unverzüglich dem am Abschussort zuständigen Wildhüter zu melden und vorzuzeigen.
 
-<sup>5</sup> Der Jäger muss vor dem Abtransport des Wildes alle Felder, die sich auf das erlegte Tier beziehen, im Kontrollbüchlein gut lesbar ausfüllen.
+<sup>5</sup> Der Jäger muss vor dem Abtransport des Wildes alle Felder, die sich auf das erlegte Tier beziehen, im Kontrollbüchlein ausfüllen.
 
 <sup>6</sup> Kann ein erlaubtes Stück Rotwild aus topographischen Gründen nicht als Ganzes transportiert werden, so darf der Jäger dieses im Gelände zerteilen. Der zuständige Wildhüter ist vorgängig zu informieren und die Kontrolle des Tieres ist mit ihm zu vereinbaren.
 
@@ -223,6 +225,8 @@ beschliesst:[^ingress-1]
 <sup>2</sup> Wird das Kontrollbüchlein A, B, A+B der DJFW trotz erfolgter Mahnung und ohne Angabe von Gründen nicht innert der gesetzten Frist zurückgeschickt, wird ein Betrag von 150 Franken in Form einer Übertretungs-Strafanzeige erhoben. Im Wiederholungsfall können diese Beträge erhöht werden.
 
 <sup>3</sup> Wird das Kontrollbüchlein C, E, S der DJFW trotz erfolgter Mahnung und ohne Angabe von Gründen nicht innert der gesetzten Frist zurückgeschickt, wird ein Betrag von 50 Franken in Form einer Übertretungs-Strafanzeige erhoben. Im Wiederholungsfall können diese Beträge erhöht werden.
+
+<sup>4</sup> Diese Bestimmungen gelten nicht für das elektronische Kontrollbüchlein. Im Falle eines technischen Problems ist der Jäger verpflichtet, den zuständigen Wildhüter unverzüglich zu informieren und mit ihm die Kontrollmodalitäten zu vereinbaren.
 
 #### Art. 13
 
@@ -284,17 +288,17 @@ beschliesst:[^ingress-1]
 
 <sup>1</sup> Das Grundkontingent wird wie folgt festgelegt:
 
-- a) 2 adulte Gämsen, nämlich 1 Bock von 3.5 Jahren oder älter und 1 Geiss von 3.5 Jahren oder älter;
+- a) 2 adulte Gämsen, nämlich 1 Bock von 3,5 Jahren oder älter und 1 Geiss von 3,5 Jahren oder älter;
 - b) 1 Jährling (männlich oder weiblich).
 
-<sup>2</sup> Ein viertes Abschusskontingent (nachfolgend Bonuskontingent) erhält der Jäger beim Abschuss einer Gämse gemäss den Präzisierungen in Absatz 3 des vorliegenden Artikels.
+<sup>2</sup> Ein viertes Abschusskontingent (nachfolgend: Bonuskontingent) erhält der Jäger beim Abschuss einer Gämse gemäss den Präzisierungen in Absatz 3 des vorliegenden Artikels.
 
 <sup>3</sup> Das Bonuskontingent wird vom Wildhüter beim Vorzeigen der folgenden Gämsen erteilt:
 
 - a) männlicher Jährling mit einem Gewicht von 14kg oder weniger;
 - b) weiblicher Jährling mit einem Gewicht von 13kg oder weniger;
 - c) Geiss von 11,5 Jahren oder älter;
-- d) adulte Gämse von 3.5 Jahren oder älter mit einem Gewicht von 16kg oder weniger.
+- d) adulte Gämse von 3,5 Jahren oder älter mit einem Gewicht von 16kg oder weniger.
 
 <sup>4</sup> Das Bonuskontingent erlaubt den Abschuss folgender Tiere:
 
@@ -325,7 +329,7 @@ beschliesst:[^ingress-1]
 <sup>2</sup> In den Gämswildräumen 1.1, 1.2 und 1.3 gelten folgende besondere Vorschriften:
 
 - a) in diesen Wildräumen darf der Jäger einen geringen Jährling (männlich mit Gewicht von 14kg oder weniger / weiblich mit Gewicht von 13kg oder weniger) und 1 nicht melke Geiss von 11,5 Jahren oder älter erlegen;
-- b) die in diesen Wildräumen erlegten Gämsen geben keinen Anspruch auf ein Bonuskontingent. Ausserdem kann ein Bonuskontingent, das aufgrund von Abschüssen ausserhalb dieser Wildräume erteilt wird, in diesen Wildräumen nicht verwendet werden.
+- b) die in diesen Wildräumen erlegten Gämsen geben keinen Anspruch auf ein Bonuskontingent. Ein Bonuskontingent, das aufgrund von Abschüssen ausserhalb dieser Wildräume erteilt wird, kann in diesen Wildräumen nicht verwendet werden.
 
 <sup>3</sup> In den Gämswildräumen 2.2 und 6.3 gelten folgende besondere Vorschriften:
 
@@ -339,7 +343,7 @@ beschliesst:[^ingress-1]
 
 - a) in diesen Wildräumen sind sämtliche Jährlinge und männliche und weibliche Gämsen im Alter von 2,5 Jahren geschützt (Grundkontingent und Bonuskontingent)
 
-<sup>6</sup> Bei einem Fehlabschuss (geschützte oder nicht erlaubte Gämse) gelten die Bestimmungen gemäss Artikel 44 ReKJSG. Zusätzlich darf der betroffene Jäger keine weiteren Gämsen im gesamten Jagdgebiet des Kantons erlegen. Der Wildhüter streicht dem Jäger bei der Kontrolle die verbleibenden Kontingente.
+<sup>6</sup> Bei einem Fehlabschuss (geschützte oder nicht erlaubte Gämse) gelten die Bestimmungen gemäss Artikel 44 ReKJSG. Der betroffene Jäger darf keine weiteren Gämsen im gesamten Jagdgebiet des Kantons erlegen. Der Wildhüter streicht dem Jäger bei der Kontrolle die verbleibenden Kontingente.
 
 #### Art. 19
 
@@ -411,7 +415,7 @@ beschliesst:[^ingress-1]
 
 **e) Feldhasen-, Schneehasen- und Wildkaninchenjagd**
 
-<sup>1</sup> Die Jagd ist gestattet vom 3. Oktober 2023 bis 30. November 2023.
+<sup>1</sup> Die Jagd ist gestattet vom 1. Oktober 2024 bis 30. November 2024.
 
 <sup>2</sup> Zum Einsatz von Hunden gelten die Bestimmungen gemäss Artikel 32 des vorliegenden Beschlusses.
 
@@ -421,16 +425,16 @@ beschliesst:[^ingress-1]
 
 <sup>1</sup> Die Jagd mit Vorstehhund auf den Birkhahn und das Schneehuhn findet statt:
 
-- a) ab dem 16. Oktober 2023 ohne Schontage bis am 31. Oktober 2023;
-- b) ab dem 4. November 2023 bis am 30. November 2023 an den gemäss Patent B erlaubten Tagen.
+- a) ab dem 16. Oktober 2024 ohne Schontage bis am 31. Oktober 2024;
+- b) ab dem 2. November 2024 bis am 30. November 2024 an den gemäss Patent B erlaubten Tagen.
 
 <sup>2</sup> Die Jagd mit Vorstehhund auf die Waldschnepfe findet statt:
 
-- a) ab dem 20. Oktober 2023 ohne Schontage bis am 31. Oktober 2023;
-- b) ab dem 4. November 2023 bis am 30. November 2023 an den gemäss Patent B erlaubten Tagen;
+- a) ab dem 21. Oktober 2024 ohne Schontage bis am 31. Oktober 2024;
+- b) ab dem 2. November 2024 bis am 30. November 2024 an den gemäss Patent B erlaubten Tagen;
 - c) Kontingent: 15 Stücke, davon bis Ende Oktober 3 Stücke (höchstens 1 pro Tag), ab dem 1. November das restliche Kontingent (höchstens 2 pro Tag).
 
-<sup>3</sup> Vom 16. Oktober 2023 bis 28. Oktober 2023 gelten die Einschränkungen für die Benutzung von Motorfahrzeugen gemäss Artikel 35 des vorliegenden Beschlusses ausschliesslich während den Jagdtagen an denen die Rehbockjagd ebenfalls gestattet ist.
+<sup>3</sup> Vom 16. Oktober 2024 bis 31. Oktober 2024 gelten die Einschränkungen für die Benutzung von Motorfahrzeugen gemäss Artikel 35 des vorliegenden Beschlusses ausschliesslich während den Jagdtagen an denen die Rehbockjagd ebenfalls gestattet ist.
 
 <sup>4</sup> Zum Einsatz von Hunden gelten die Bestimmungen gemäss Artikel 32 des vorliegenden Beschlusses.
 
@@ -440,8 +444,8 @@ beschliesst:[^ingress-1]
 
 <sup>1</sup> Die Wasserwildjagd findet statt:
 
-- a) vom 2. November 2023 bis am 30. November 2023 an den gemäss Patent B erlaubten Jagdtagen;
-- b) ab dem 1. Dezember 2023 ohne Schontage bis am 31. Januar 2024.
+- a) vom 2. November 2024 bis am 30. November 2024 an den gemäss Patent B erlaubten Jagdtagen;
+- b) ab dem 2. Dezember 2024 ohne Schontage bis am 31. Januar 2025.
 
 <sup>2</sup> Dieses Patent erlaubt den Abschuss mit der Flinte von Haubentaucher, Blässhuhn, Kormoran und allen jagdbaren Wildenten gemäss JSG sowie der Rabenvögel und des jagdbaren Kleinraubwilds gemäss Artikel 27 des vorliegenden Beschlusses.
 
@@ -455,7 +459,7 @@ beschliesst:[^ingress-1]
 
 **Patent E - Kleinraubwildjagd**
 
-<sup>1</sup> Das Patent E berechtigt zum Abschuss von Dachs (bis 15. Januar), Baum- und Steinmarder (bis 15. Februar) und Fuchs (bis 29. Februar) gemäss folgenden Vorschriften:
+<sup>1</sup> Das Patent E berechtigt zum Abschuss von Dachs (bis 15. Januar), Baum- und Steinmarder (bis 15. Februar) und Fuchs (bis 28. Februar) gemäss folgenden Vorschriften:
 
 - a) für die Jagd mit dem Bauhund mit der Flinte:
   - 1\. der Jäger muss sich mindestens 24 Stunden vor Beginn beim zuständigen Wildhüter melden; es sind die Namen der begleitenden Jäger, sowie Ort und Zeit der Jagd anzugeben,
@@ -465,11 +469,12 @@ beschliesst:[^ingress-1]
   - 2\. der Jäger muss dem zuständigen Wildhüter den Luderplatz 24 Stunden vorher melden,
   - 3\. der Jäger darf sich nicht vor 16.00 Uhr zum Ansitzplatz begeben. Er muss die kürzeste Strecke zwischen Wohnort und Ansitzplatz benutzen. Die Jagd endet spätestens eine Stunde vor Sonnenaufgang,
   - 4\. der Wechsel des Ansitzplatzes in derselben Nacht ist verboten. Mit dem Verlassen des Ansitzplatzes beendet der Jäger die Jagd,
-  - 5\. das Schießen von einem festen Ansitzposten sowie aus einem am Ansitzplatz abgestellten Motorfahrzeug ist gestattet,
-  - 6\. unter Vorbehalt einer Bewilligung durch den zuständigen Wildhüter, ist die Verwendung von tierischen Nebenprodukten[^27-1] als Köder verboten;
+  - 5\. das Schiessen aus einem am Ansitzplatz abgestellten Motorfahrzeug ist gestattet,
+  - 6\. die technischen Bestimmungen des ReKJSG betreffend festen Ansitzposten und für das Schiessen aus dem Innern eines Gebäudes sind nicht anwendbar,
+  - 7\. unter Vorbehalt einer Bewilligung durch den zuständigen Wildhüter, ist die Verwendung von tierischen Nebenprodukten[^27-1] als Köder verboten;
 - c) der Jäger ist verpflichtet die erlegten Tiere in einer Kadaversammelstelle zu entsorgen. Tierkörper, die nicht im Verdacht stehen, Träger einer auf Mensch oder Tier übertragbaren Krankheit zu sein, können gemäss der guten Jagdpraxis im Gelände entsorgt werden.
 
-[^27-1]: Verordnung über die Entsorgung tierischer Nebenprodukte (RS 916.400)
+[^27-1]: Verordnung über die Entsorgung tierischer Nebenprodukte (RS/VS 916.400)
 
 #### Art. 28
 
@@ -547,14 +552,14 @@ beschliesst:[^ingress-1]
 - d) Ulrichen – Niederwald: rechte Talseite: zwischen der Kantonsstrasse und der Rhone; linke Talseite: zwischen der Rhone und dem markierten Feldweg;
 - e) Bieligermatte und Zeiterbode wie folgt: von der Ritzibrigge die Forststrasse durch den Camping bis zu P. 1326 (Abzweigung), dieser Strasse abwärts folgend in die Haarnadelkurve (Markierung), weiter in gerader Linie zur Strasse beim Scheibenstand (Markierung), der Strasse folgend bis Zeit P. 1284, weiter zur Selkingerbrücke;
 - f) im Guldersand, zwischen dem Rotten und dem MGB-Geleise von der MGB-Brücke "Nussbaum" bis zur MGB-Brücke Grengiols, inklusiv Parkplatzareal der VBB;
-- g) auf dem gesamten Fabrikareal der Société Suisse des Explosifs in Gamsen sowie einem Umkreis von 200m um das Areal;
+- g) auf dem gesamten Fabrikareal der Société Suisse des Explosifs SA in Gamsen sowie einem Umkreis von 200m um das Areal;
 - h) Visp: Von Visp Landbrücke die Kantonsstrasse bis Neubrück und von hier auf der anderen Talseite der Flurstrasse entlang zurück bis zur Landbrücke;
 - i) Saas-Fee: in der Region Plattjen (Gämsweg - Waldweg - Forststrasse) ist das Schiessen zwischen 9.00 Uhr und 16.00 Uhr verboten;
 - j) Raftgarten – Stalden: von der Brücke bei Raftgarten (P. 977) bis zum Zusammenschluss der Saaser- und Mattervispa ist das Überschiessen der Saaservispa verboten;
 - k) Kalpetran – Stalden: vom Embdbach bis zum Zusammenschluss der Saaser- und Mattervispa ist das Überschiessen der Mattervispa und der MGB-Geleise verboten;
 - l) Randa – Täsch: Von der Einmündung des Birchbachs in die Vispa, dieser nach taleinwärts bis zum Fenster des Umleitungsstollens, von hier dem Wanderweg entlang zum Schalibach, diesem abwärts in die Mattervispa, der Vispa nach hinunter zur Schalibrücke, über die Strasse zur Kantonsstrasse, beim Haus Bärgfriede. Der Kantonsstrasse talauswärts folgend bis zum Birchbach, diesen hinab zur Vispa und dieser abwärts folgend zum Ausgangspunkt;
 - m) Zermatt/Zär Bänä: Von der Mattervispa dem Leimragraben nach aufwärts zur Riedstrasse. Der Riedstrasse abwärts folgend bis zur Abzweigung AHV-Weg oberhalb Hotel Cervin. Diesem Weg folgend bis zum GGB Geleise. Diesem aufwärts folgend zur Findelbrücke und von hier dem Findelbach nach abwärts in die Vispa, dieser abwärts folgend zum Ausgangspunkt;
-- n) Gampel-Bratsch – Steg-Hohtenn: Das Überschiessen des Lonzabaches ist von der Zentrale Steg der Lonza entlang aufsteigend bis Goppenstein verboten;
+- n) Gampel-Bratsch – Steg-Hohtenn: Das Überschiessen des Lonzabaches ist von der Zentrale Steg der Lonza entlang aufsteigend bis zur Hohen Brücke (P. 873) verboten;
 - o) Les Haudères (Sanières): von der Kreuzung der Strasse von Molignon mit dem von Coulayes abwärts fliessenden Bach; von hier dieser Strasse entlang nach Molignon – les Haudères – les Sanières bis Coulayes; von dort dem Bach abwärts entlang bis zum Ausgangspunkt;
 - p) Riddes – Bieudron: das Schiessen von der Ebene Richtung Hang, den Reben und den Obstgärten ist verboten zwischen dem Bach von Econe und der ARA von Bieudron;
 - q) Ardève – Chamoson – Leytron: das Schiessen von der Ebene Richtung Hang und den Reben ist im ganzen Perimeter von l’Ardève verboten;
@@ -612,7 +617,7 @@ beschliesst:[^ingress-1]
 <sup>1</sup> Die Benutzung von Motorfahrzeugen durch den Inhaber eines gültigen Patents zur Ausübung der Jagd, sei es als Führer oder Mitfahrer, mit oder ohne Waffe, ist während der fünf ersten Wochen wie folgt geregelt:
 
 - a) freie Benutzung auf den auf der Jagdkarte rot eingezeichneten Strassen;
-- b) freie Benutzung auf dem übrigen Strassennetz, inbegriffen die orange eingezeichneten Strassen für die Durchquerung eines Banngebietes, zwischen 20.00 Uhr und 6.30 Uhr und zwischen 11.00 Uhr und 17.00 Uhr während der Hochjagd sowie zwischen 19.00 Uhr und 7.30 Uhr und zwischen 11.00 Uhr und 16.00 Uhr während der Rehbockjagd;
+- b) freie Benutzung auf dem übrigen Strassennetz, inbegriffen die orange eingezeichneten Strassen für die Durchquerung eines Banngebietes, zwischen 20.00 Uhr und 6.30 Uhr und zwischen 11.00 Uhr und 18.00 Uhr während der Hochjagd sowie zwischen 19.00 Uhr und 7.30 Uhr und zwischen 11.00 Uhr und 16.00 Uhr während der Rehbockjagd;
 - c) eingeschränkte Benutzung auf allen im Anhang 5 erwähnten Strassen unter Vorbehalt von besonderen Gemeindevorschriften;
 - d) verboten auf allen im Anhang 5 des vorliegenden Beschlusses aufgeführten Strassen.
 
@@ -622,7 +627,7 @@ beschliesst:[^ingress-1]
 
 <sup>4</sup> Sofern keine besonderen Bestimmungen gemäss Anhang 4 dieses Beschlusses vorliegen, gelten für das Fahren innerhalb der gemischten Banngebiete und den Teilgebieten die Zeitfenster.
 
-<sup>5</sup> Für die Durchquerung von eidgenössischen Banngebieten (EBG), Wasser- und Zugvogelreservaten von internationaler und nationaler Bedeutung (WZVV) und KBG dürfen nur die auf der Jagdkarte rot, orange oder violett eingezeichneten Strassen benutzt werden; jegliches Anhalten auf diesen Strassen ist verboten.
+<sup>5</sup> Für die Durchquerung von eidgenössischen Banngebieten (nachfolgend : EBG), Wasser- und Zugvogelreservaten von internationaler und nationaler Bedeutung (nachfolgend : WZVV) und KBG dürfen nur die auf der Jagdkarte rot oder orange eingezeichneten Strassen benutzt werden; jegliches Anhalten auf diesen Strassen ist verboten.
 
 <sup>6</sup> Nach Abschluss der Rehbockjagd ist die Benutzung der Strassen unter Vorbehalt von homologieren Verkehrssignalen frei.
 
@@ -644,7 +649,7 @@ beschliesst:[^ingress-1]
 
 #### Art. 38
 
-**Patent R, Nachsuche - Allgemeines**
+**Patent R - Nachsuche, Allgemeines**
 
 <sup>1</sup> Der Schweisshundeführer kann für die Nachsuche eine nach Artikel 29 ReKJSG zugelassene Waffe benutzen, welche er entsprechend dem nachzusuchenden Wild auswählt.
 
@@ -662,7 +667,7 @@ beschliesst:[^ingress-1]
 
 **Banngebiete**
 
-<sup>1</sup> Die KBG, die Eidgenössischen Banngebiete (nachfolgend: EBG) und die Wasser- und Zugvogelreservate von internationaler und nationaler Bedeutung (nachfolgend: WZVV) sowie die Gebiete mit teilweise geschütztem Wild sind auf der Jagdkarte eingetragen.
+<sup>1</sup> Die KBG, EBG und die WZVV sowie die Gebiete mit teilweise geschütztem Wild sind auf der Jagdkarte eingetragen.
 
 <sup>2</sup> In den EBG und WZVV ist jegliche Jagd verboten.
 
@@ -716,4 +721,4 @@ beschliesst:[^ingress-1]
 
 <sup>2</sup> Einer allfälligen Beschwerde gegen diesen Beschluss wird zur Gewährleistung der Jagdausübung und der damit verbundenen erforderlichen Regulation der Wildbestände zur Verhinderung von Schaden am Schutzwald, an landwirtschaftlichen Kulturen, zur Erhaltung der Lebensräume und der Artenvielfalt die aufschiebende Wirkung entzogen.
 
-CSW RO/AGS 2023-074
+CSW RO/AGS 2024-071
