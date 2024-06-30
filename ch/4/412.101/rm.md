@@ -4,11 +4,11 @@ title: Ordinaziun dals 19 da november 2003 davart la furmaziun professiunala (OF
 short: OFPr
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/748"
 language: rm
-version: 2022-04-01
+version: 2024-07-01
 adopted: 2003-11-19
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20220401/rm/xml/fedlex-data-admin-ch-eli-cc-2003-748-20220401-rm-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20220401/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20240701/rm/xml/fedlex-data-admin-ch-eli-cc-2003-748-20240701-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20240701/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (OFPr)
 
-dals 19 da november 2003 (versiun dal 1. d’avrigl 2022)
+dals 19 da november 2003 (versiun dal 1. da fanadur 2024)
 
 Il Cussegl federal svizzer,
 
@@ -1179,13 +1179,13 @@ La limita superiura da las taxas da curs imputablas importa per persuna subvenzi
 
 <sup>4</sup> Taxas da curs ch’èn vegnidas reducidas tras contribuziuns en il rom da la Cunvegna interchantunala dals 22 da mars 2012[^66f-1] davart las contribuziuns per las scolaziuns da las scolas spezialisadas superiuras (CSSS) n’èn betg imputablas.
 
-[^66f-1]: La cunvegna po vegnir consultada sin la pagina d’internet da la Conferenza svizra dals directurs chantunals da l’educaziun publica (CDEP) sut www.edk.ch &gt; Arbeiten &gt; Finanzierungs-Vereinbarungen &gt; Höhere Fachschulen
+[^66f-1]: La cunvegna po vegnir consultada sin la pagina d’internet da la Conferenza svizra dals directurs chantunals da l’educaziun publica (CDEP) sut [www.edk.ch](https://www.edk.ch) &gt; Arbeiten &gt; Finanzierungs-Vereinbarungen &gt; Höhere Fachschulen
 
 #### Art. 66g
 
 **Glista dals curs preparatorics**
 
-<sup>1</sup> Il SEFRI maina ina glista dals curs preparatorics. La glista è ina part integrala da l’ordinaziun e vegn publitgada tras in renviament (art. 5 al. 1 lit. c da la L dals 18 da zer. 2004[^66g-1] davart las publicaziuns uffizialas). Ella è accessibla en furma electronica[^66g-2]. Il SEFRI actualisescha mintga onn la glista.
+<sup>1</sup> Il SEFRI maina ina glista dals curs preparatorics. La glista è ina part integrala da l’ordinaziun e vegn publitgada tras in renviament (art. 5 al. 1 lit. c da la Lescha dals 18 da zercladur 2004[^66g-1] davart las publicaziuns uffizialas). Ella è accessibla en furma electronica[^66g-2]. Il SEFRI actualisescha mintga onn la glista.
 
 <sup>2</sup>
 
@@ -1208,7 +1208,7 @@ Il SEFRI inscriva in curs sin la glista, sche quest curs ademplescha las suandan
 <sup>6</sup> In curs inscrit sin la glista sto vegnir confermà mintga onn dal purschider dal curs, per cumparair l’onn suandant sin la glista.
 
 [^66g-1]: [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
-[^66g-2]: La glista po vegnir consultada sut www.sbfi.admin.ch/hbb-finanzierung
+[^66g-2]: La glista po vegnir consultada sut [www.sbfi.admin.ch](https://www.sbfi.admin.ch) &gt; Bildung &gt; Höhere Berufsbildung &gt; Bundesbeiträge vorbereitende Kurse BP und HFP &gt; Liste der vorbereitenden Kurse
 
 #### Art. 66h
 
@@ -1442,6 +1442,19 @@ Las taxas che vegnan incassadas dal SEFRI per disposiziuns prendidas en emprima 
 <sup>2</sup> La retratga definitiva d’in attestat vegn communitgada als chantuns; in’eventuala inscripziun en il register uffizial vegn annullada.[^73-1]
 
 [^73-1]: La rectificaziun dals 8 da favr. 2021 concerna mo il text franzos ([AS 2021 74](https://fedlex.data.admin.ch/eli/oc/2021/74)).
+
+#### Art. 73a
+
+**Renconuschientscha da diploms chantunals ed interchantunals emess tenor il dretg vegl en il sectur da la furmaziun da professiuns da sanadad**[^73a-1]
+
+### (art. 73*a* LFPr)
+
+<sup>1</sup> La realisaziun da las proceduras da renconuschientscha da diploms chantunals ed interchantunals emess tenor il dretg vegl en il sectur da la furmaziun da professiuns da sanadad vegn delegada a la Crusch Cotschna Svizra. Ils detagls da la delegaziun da las incumbensas vegnan reglads en in contract da dretg public tranter il SEFRI e la Crusch Cotschna Svizra.
+
+<sup>2</sup> Las taxas tenor l’Ordinaziun dals 16 da zercladur 2006[^73a-2] davart las taxas dal SEFRI èn applitgablas per las proceduras da renconuschientscha dals diploms.
+
+[^73a-1]: Integrà tras la cifra I da l’O dals 8 da matg 2024, en vigur dapi il 1. da fan. 2024 ([AS 2024 217](https://fedlex.data.admin.ch/eli/oc/2024/217)).
+[^73a-2]: [[SR 412.109.3](https://www.fedlex.admin.ch/eli/cc/2006/404/rm)](https://fedlex.data.admin.ch/eli/cc/2006/404)
 
 ### 2. part Aboliziun e midada dal dretg vertent
 

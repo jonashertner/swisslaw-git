@@ -4,11 +4,11 @@ title: Ordinanza del 19 novembre 2003 sulla formazione professionale (OFPr)
 short: OFPr
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/748"
 language: it
-version: 2022-04-01
+version: 2024-07-01
 adopted: 2003-11-19
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20220401/it/xml/fedlex-data-admin-ch-eli-cc-2003-748-20220401-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20220401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2003-748-20240701-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20220401/it"
 
 (OFPr)
 
-del 19 novembre 2003 (Stato 1° aprile 2022)
+del 19 novembre 2003 (Stato 1° luglio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -1176,7 +1176,7 @@ Il tetto massimo dei costi computabili dei corsi per ogni persona avente diritto
 
 <sup>4</sup> Non sono computabili i costi dei corsi che ricevono contributi nell’ambito dell’Accordo intercantonale del 22 marzo 2012[^66f-1] sui contributi per i cicli di formazione delle scuole specializzate superiori (ASSS).
 
-[^66f-1]: Consultabile sul sito della Conferenza dei direttori cantonali della pubblica educazione (CDPE) www.edk.ch &gt; Attività &gt; Accordi sui finanziamenti &gt; Scuole specializzate superiori
+[^66f-1]: Consultabile sul sito della Conferenza dei direttori cantonali della pubblica educazione (CDPE) [www.edk.ch](http://www.edk.ch) &gt; Attività &gt; Accordi sui finanziamenti &gt; Scuole specializzate superiori
 
 #### Art. 66g
 
@@ -1205,13 +1205,13 @@ La SEFRI inserisce un corso nella lista se sono soddisfatte le seguenti condizio
 <sup>6</sup> L’operatore deve confermare il corso inserito nella lista ogni anno affinché compaia nella lista l’anno seguente.
 
 [^66g-1]: [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
-[^66g-2]: www.sbfi.admin.ch/fps-finanziamento
+[^66g-2]: [www.sbfi.admin.ch](https://www.sbfi.admin.ch/sbfi/de/home.html) /fps-finanziamento
 
 #### Art. 66h
 
 **Controlli a campione**
 
-<sup>1</sup> La SEFRI verifica i dati dell’operatore del corso di cui agli articoli 66*g* capoversi 2 e 4 e 66*i* capoverso 1 tramite controlli a campione.
+La SEFRI verifica i dati dell’operatore del corso di cui agli articoli 66*g* capoversi 2 e 4 e 66*i* capoverso 1 tramite controlli a campione.
 
 #### Art. 66i
 
@@ -1437,6 +1437,19 @@ Gli emolumenti per le decisioni di prima istanza e le prestazioni riguardanti il
 <sup>2</sup> La revoca definitiva di un certificato è comunicata ai Cantoni; un’eventuale iscrizione nel registro pubblico è cancellata.[^73-1]
 
 [^73-1]: La correzione dell’8 feb. 2021 concerne soltanto il testo francese ([RU 2021 74](https://fedlex.data.admin.ch/eli/oc/2021/74)).
+
+#### Art. 73a
+
+**Riconoscimento di diplomi cantonali e intercantonali retti dal diritto anteriore nell’ambito delle professioni sanitarie**[^73a-1]
+
+### (art. 73*a* LFPr)
+
+<sup>1</sup> L’attuazione delle procedure per il riconoscimento di diplomi cantonali e intercantonali retti dal diritto anteriore nell’ambito della formazione professionale inerente alle professioni sanitarie è delegata alla Croce Rossa Svizzera. I dettagli della delega sono disciplinati da un contratto di diritto pubblico tra la SEFRI e la Croce Rossa Svizzera.
+
+<sup>2</sup> Per le procedure di riconoscimento dei diplomi si applicano gli emolumenti disciplinati dall’ordinanza del 16 giugno 2006[^73a-2] sugli emolumenti SEFRI.
+
+[^73a-1]: Introdotto dal n. I dell’O dall’8 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 217](https://fedlex.data.admin.ch/eli/oc/2024/217)).
+[^73a-2]: [[RS 412.109.3](https://www.fedlex.admin.ch/eli/cc/2006/404/de)](https://fedlex.data.admin.ch/eli/cc/2006/404)
 
 ### Sezione 2: Abrogazione e modifica del diritto vigente
 

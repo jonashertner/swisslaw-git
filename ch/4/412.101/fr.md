@@ -4,11 +4,11 @@ title: Ordonnance du 19 novembre 2003 sur la formation professionnelle (OFPr)
 short: OFPr
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/748"
 language: fr
-version: 2022-04-01
+version: 2024-07-01
 adopted: 2003-11-19
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20220401/fr/xml/fedlex-data-admin-ch-eli-cc-2003-748-20220401-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20220401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2003-748-20240701-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20220401/fr"
 
 (OFPr)
 
-du 19 novembre 2003 (État le 1<sup>er</sup> avril 2022)
+du 19 novembre 2003 (État le 1<sup>er</sup> juillet 2024)
 
 Le Conseil fédéral suisse,
 
@@ -576,7 +576,7 @@ Le SEFRI publie sous forme électronique une liste[^38-2]:
 <sup>2</sup> Sur demande du titulaire, le SEFRI fournit à ce dernier un document décrivant en anglais le contenu de la formation ou de la qualification spécifique qu’il a acquise. …[^38-4]
 
 [^38-1]: Nouvelle teneur selon le ch. I de l’O du 15 sept. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
-[^38-2]: www.bvz.admin.ch &gt; FR
+[^38-2]: [www.bvz.admin.ch](http://www.bvz.admin.ch) &gt; FR
 [^38-3]: Nouvelle teneur selon le ch. I de l’O du 15 sept. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
 [^38-4]: Phrase abrogée par l’annexe ch. 2 de l’O du 16 juin 2006 sur les émoluments de l’OFTT, avec effet au 1<sup>er</sup> août 2006 ([RO 2006 2639](https://fedlex.data.admin.ch/eli/oc/2006/404)).
 
@@ -1176,7 +1176,7 @@ La limite supérieure des frais de cours pris en considération, par personne ay
 
 <sup>4</sup> Les frais de cours réduits du fait d’une contribution au titre de l’accord intercantonal du 22 mars 2012 sur les contributions dans le domaine des écoles supérieures (AES)[^66f-1] ne sont pas pris en considération.
 
-[^66f-1]: www.cdip.ch &gt; Domaines d’activités &gt; Accords de financement &gt; Ecoles supérieures
+[^66f-1]: [www.cdip.ch](http://www.cdip.ch) &gt; Domaines d’activités &gt; Accords de financement &gt; Ecoles supérieures
 
 #### Art. 66g
 
@@ -1205,7 +1205,7 @@ Le SEFRI intègre un cours dans la liste si ce dernier remplit les conditions su
 <sup>6</sup> Un cours inscrit dans la liste doit être confirmé tous les ans par le prestataire pour figurer dans la liste l’année suivante.
 
 [^66g-1]: [RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
-[^66g-2]: www.sbfi.admin.ch/fps-financement
+[^66g-2]: [www.sbfi.admin.ch/fps-financement](http://www.sbfi.admin.ch/fps-financement)
 
 #### Art. 66h
 
@@ -1439,6 +1439,19 @@ Les émoluments perçus pour les décisions rendues en première instance et pou
 <sup>2</sup> La décision exécutoire de retrait d’un certificat est annoncée aux cantons; le cas échéant, l’inscription correspondante est radiée du registre officiel.[^73-1]
 
 [^73-1]: Erratum du 8 fév. 2021 ([RO 2021 74](https://fedlex.data.admin.ch/eli/oc/2021/74)).
+
+#### Art. 73a
+
+**Reconnaissance des diplômes cantonaux et intercantonaux des professions de la santé délivrés selon l’ancien droit dans le domaine de la formation professionnelle**[^73a-1]
+
+### (art. 73*a* LFPr)
+
+<sup>1</sup> La mise en œuvre des procédures de reconnaissance des diplômes cantonaux et intercantonaux des professions de la santé délivrés selon l’ancien droit dans le domaine de la formation professionnelle est déléguée à la Croix-Rouge suisse. Les modalités de ce transfert de tâches sont réglées dans un contrat de droit public entre le SEFRI et la Croix-Rouge suisse.
+
+<sup>2</sup> Les émoluments fixés dans l’ordonnance du 16 juin 2006 sur les émoluments du SEFRI[^73a-2] sont applicables à la procédure de reconnaissance des diplômes.
+
+[^73a-1]: Introduit par le ch. I de l’O du 8 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 217](https://fedlex.data.admin.ch/eli/oc/2024/217)).
+[^73a-2]: [RS[412.109.3](https://www.fedlex.admin.ch/eli/cc/2006/404/de)](https://fedlex.data.admin.ch/eli/cc/2006/404)
 
 ### Section 2 Abrogation et modification du droit en vigueur
 

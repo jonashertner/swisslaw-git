@@ -4,11 +4,11 @@ title: "Ordinance of 19 November 2003 on Vocational and Professional Education a
 short: VPETO
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/748"
 language: en
-version: 2022-04-01
+version: 2024-07-01
 adopted: 2003-11-19
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20220401/en/xml/fedlex-data-admin-ch-eli-cc-2003-748-20220401-en-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20220401/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20240701/en/xml/fedlex-data-admin-ch-eli-cc-2003-748-20240701-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20240701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Vocational and Professional Education and Training Ordinance, VPETO)
 
-of 19 November 2003 (Status as of 1 April 2022)
+of 19 November 2003 (Status as of 1 July 2024)
 
 The Swiss Federal Council,
 
@@ -1062,7 +1062,7 @@ For projects mentioned in Article 54 VPETA, SERI shall provide the following inf
 
 [^chap8-sec6-1]: Inserted by No I of the O of 15 Sept 2017, in force since 1 Jan. 2018 ([AS 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
 
-### (Art. 56*a* und 56*b* VPETA)
+### (Art. 56*a* and 56*b* VPETA)
 
 #### Art. 66a
 
@@ -1205,7 +1205,7 @@ SERI shall include a preparatory course in the list if the following prerequisit
 <sup>6</sup> A preparatory course appearing in the list must be confirmed annually by the course provider in order to appear on the list in the following year.
 
 [^66g-1]: [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
-[^66g-2]: This list may be found at: www.sbfi.admin.ch/hbb-finanzierung
+[^66g-2]: This list may be found at: [www.sbfi.admin.ch](http://www.sbfi.admin.ch) &gt;Bildung &gt; Höhere Berufsbildung &gt; Bundesbeiträge vorbereitende Kurse BP und HFP &gt; Liste der vorbereitenden Kurse
 
 #### Art. 66h
 
@@ -1439,6 +1439,19 @@ SERI fees charged for rendering first instance decisions and services shall be g
 <sup>2</sup> The cantons shall be notified of the legal revocation of qualifications; any entries in the public register shall be deleted.[^73-1]
 
 [^73-1]: The correction of 8 Feb. 2021 relates to the French text only ([AS 2021 74](https://fedlex.data.admin.ch/eli/oc/2021/74)).
+
+#### Art. 73a
+
+**Recognition of cantonal and intercantonal qualifications under the previous law in the field of professional education in the healthcare professions**[^73a-1]
+
+### (Art. 73*a* VPETA)
+
+<sup>1</sup> The conduct of procedures to recognise cantonal and intercantonal qualifications under the previous law in the field of professional education in the healthcare professions shall be delegated to the Swiss Red Cross. The details of the transfer of duties shall be regulated in a public law agreement between SERI and the Swiss Red Cross.
+
+<sup>2</sup> The fees in accordance with the SERI Fees Ordinance of 16 June 2006[^73a-2] apply to the procedures for the recognition of qualifications.
+
+[^73a-1]: Inserted by No I of the O of 8 May 2024, in force since 1 July 2024 ([AS 2024 217](https://fedlex.data.admin.ch/eli/oc/2024/217)).
+[^73a-2]: [[SR 412.109.3](https://www.fedlex.admin.ch/eli/cc/2006/404/de)](https://fedlex.data.admin.ch/eli/cc/2006/404)
 
 ### Section 2 Repeal and Amendment of Current Legislation
 

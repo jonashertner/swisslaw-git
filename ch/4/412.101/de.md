@@ -4,11 +4,11 @@ title: "Verordnung vom 19. November 2003 über die Berufsbildung (Berufsbildungs
 short: BBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/748"
 language: de
-version: 2022-04-01
+version: 2024-07-01
 adopted: 2003-11-19
 in_force: 2004-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20220401/de/xml/fedlex-data-admin-ch-eli-cc-2003-748-20220401-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20220401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/748/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2003-748-20240701-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/748/20220401/de"
 
 (Berufsbildungsverordnung, BBV)
 
-vom 19. November 2003 (Stand am 1. April 2022)
+vom 19. November 2003 (Stand am 1. Juli 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -577,7 +577,7 @@ Das SBFI veröffentlicht in elektronischer Form ein Verzeichnis[^38-2]:
 <sup>2</sup> Auf Antrag der Inhaberin oder des Inhabers des Titels stellt das SBFI ein Dokument mit einer Beschreibung des Inhalts der Bildung oder der fachlichen Qualifikation in Englisch aus. …[^38-4]
 
 [^38-1]: Fassung gemäss Ziff. I der V vom 15. Sept. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
-[^38-2]: Das Verzeichnis ist abrufbar unter: www.bvz.admin.ch
+[^38-2]: Das Verzeichnis ist abrufbar unter: [www.bvz.admin.ch](https://www.bvz.admin.ch)
 [^38-3]: Fassung gemäss Ziff. I der V vom 15. Sept. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 5147](https://fedlex.data.admin.ch/eli/oc/2017/565)).
 [^38-4]: Satz aufgehoben durch Anhang Ziff. 2 der Gebührenverordnung SBFI vom 16. Juni 2006, mit Wirkung seit 1. Aug. 2006 ([AS 2006 2639](https://fedlex.data.admin.ch/eli/oc/2006/404)).
 
@@ -1177,7 +1177,7 @@ Die Obergrenze der anrechenbaren Kursgebühren beträgt pro beitragsberechtigte 
 
 <sup>4</sup> Kursgebühren, die über Beiträge im Rahmen der Interkantonalen Vereinbarung vom 22. März 2012[^66f-1] über Beiträge an die Bildungsgänge der höheren Fachschulen (HFSV) verbilligt wurden, sind nicht anrechenbar.
 
-[^66f-1]: Zu finden auf der Website der Konferenz der kantonalen Erziehungsdirektoren (EDK) unter www.edk.ch &gt; Arbeiten &gt; Finanzierungs-Vereinbarungen &gt; Höhere Fachschulen
+[^66f-1]: Zu finden auf der Website der Konferenz der kantonalen Erziehungsdirektoren (EDK) unter [www.edk.ch](https://www.edk.ch) &gt; Arbeiten &gt; Finanzierungs-Vereinbarungen &gt; Höhere Fachschulen
 
 #### Art. 66g
 
@@ -1206,7 +1206,7 @@ Das SBFI nimmt einen Kurs in die Liste auf, wenn der Kurs die folgenden Vorausse
 <sup>6</sup> Ein auf der Liste verzeichneter Kurs muss jährlich vom Kursanbieter bestätigt werden, um im Folgejahr auf der Liste zu erscheinen.
 
 [^66g-1]: [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
-[^66g-2]: Die Liste ist abrufbar unter: www.sbfi.admin.ch/hbb-finanzierung &gt;
+[^66g-2]: Die Liste ist abrufbar unter: [www.sbfi.admin.ch](https://www.sbfi.admin.ch) &gt; Bildung &gt; Höhere Berufsbildung &gt; Bundesbeiträge vorbereitende Kurse BP und HFP &gt; Liste der vorbereitenden Kurse
 
 #### Art. 66h
 
@@ -1440,6 +1440,19 @@ Die Gebühren für erstinstanzliche Verfügungen und für Dienstleistungen im Au
 <sup>2</sup> Der rechtskräftige Entzug eines Ausweises wird den Kantonen mitgeteilt; ein allfälliger Eintrag im öffentlichen Register wird gelöscht.[^73-1]
 
 [^73-1]: Die Berichtigung vom 8. Febr. 2021 betrifft nur den französischen Text ([AS 2021 74](https://fedlex.data.admin.ch/eli/oc/2021/74)).
+
+#### Art. 73a
+
+**Anerkennung von altrechtlichen kantonalen und interkantonalen Abschlüssen im Bereich der Berufsbildung in Gesundheitsberufen**[^73a-1]
+
+### (Art. 73*a* BBG)
+
+<sup>1</sup> Die Durchführung der Verfahren zur Anerkennung von altrechtlichen kantonalen und altrechtlichen interkantonalen Abschlüssen im Bereich der Berufsbildung in Gesundheitsberufen wird dem Schweizerischen Roten Kreuz übertragen. Die Einzelheiten der Aufgabenübertragung werden in einem öffentlich-rechtlichen Vertrag zwischen dem SBFI und dem Schweizerischen Roten Kreuz geregelt.
+
+<sup>2</sup> Die Gebühren nach der Gebührenverordnung SBFI vom 16. Juni 2006[^73a-2] sind für die Verfahren zur Anerkennung der Abschlüsse anwendbar.
+
+[^73a-1]: Eingefügt durch Ziff. I der V vom 8. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 217](https://fedlex.data.admin.ch/eli/oc/2024/217)).
+[^73a-2]: [[SR 412.109.3](https://www.fedlex.admin.ch/eli/cc/2006/404/de)](https://fedlex.data.admin.ch/eli/cc/2006/404)
 
 ### 2. Abschnitt: Aufhebung und Änderung bisherigen Rechts
 
