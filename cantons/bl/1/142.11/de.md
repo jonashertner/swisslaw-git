@@ -4,13 +4,13 @@ number: "142.11"
 title: Dienstordnung der Finanz- und Kirchendirektion
 short: Do FKD
 language: de
-version: 2024-02-01
-valid_until: 2024-06-30
-version_adopted: 2024-01-23
+version: 2024-07-01
+valid_until: 2024-12-31
+version_adopted: 2024-06-11
 adopted: 2022-05-10
 in_force: 2022-06-01
 url: "https://bl.clex.ch/app/de/texts_of_law/142.11"
-pdf: "https://bl.clex.ch/api/de/versions/3878/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3934/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3878/pdf_file"
 
 (Do FKD)
 
-Vom 10.05.2022 (Stand 01.02.2024)
+Vom 10.05.2022 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -57,7 +57,8 @@ beschliesst:
 - k. Beteiligungen;
 - l. Registerwesen;
 - m. Digitale Transformation;
-- n. Datenmanagement.
+- n. Datenmanagement;
+- o. Rechte für Menschen mit Behinderungen.
 
 #### § 3
 
@@ -65,7 +66,7 @@ beschliesst:
 
 <sup>1</sup> Die Gliederung der Direktion in Dienststellen richtet sich nach § 9 der Verordnung zum Regierungs- und Verwaltungsorganisationsgesetz Basel-Landschaft (Regierungs- und Verwaltungsorganisationsverordnung Basel-Landschaft, RVOV BL) vom 19. Dezember 2017[^3-1].
 
-<sup>2</sup> Die Finanz- und Kirchendirektion führt die Fachstelle «Gleichstellung für Frauen und Männer Kanton Basel-Landschaft».
+<sup>2</sup> Die Finanz- und Kirchendirektion führt unter dem Dach von Gleichstellung BL die Fachstelle für Gleichstellung von Frau und Mann und die Anlaufstelle für die Rechte von Menschen mit Behinderungen.
 
 [^3-1]: [SGS 140.11](https://bl.clex.ch/data/140.11/de/art9)
 
@@ -106,7 +107,11 @@ beschliesst:
 
 **Anstellungsbehörden**
 
-<sup>1</sup> Anstellungsbehörden der Dienststellenleitungen sowie der Leitung der Fachstelle für Gleichstellung von Frauen und Männern ist gemäss § 2 Abs. 1 der Verordnung zum Personalgesetz (Personalverordnung) vom 19. Dezember 2000[^7-1] der Regierungsrat. Die Direktionsvorsteherin oder der Direktionsvorsteher übt die Aufgaben der Anstellungsbehörde aus, sofern kein formeller Beschluss erforderlich ist.
+<sup>1</sup> Der Regierungsrat ist Anstellungsbehörde:
+
+- a. der Dienststellenleitungen gemäss § 2 Abs. 1 der Verordnung zum Personalgesetz (Personalverordnung) vom 19. Dezember 2000[^7-1];
+- b. der Leitung der Fachstelle für Gleichstellung von Frau und Mann;
+- c. der Leitung der Anlaufstelle für die Rechte von Menschen mit Behinderungen.
 
 <sup>2</sup> Für juristische Volontärinnen und Volontäre gilt § 2 Abs. 2 der Personalverordnung.
 
@@ -132,10 +137,10 @@ beschliesst:
 
 <sup>1</sup> Das Generalsekretariat ist wie folgt gegliedert:
 
-- a. Stabsaufgaben;
-- b. HR-Beratung;
+- a. Stab
+- b. Personal;
 - c. Stabsstelle Gemeinden;
-- d. Digital Transformation Management.
+- d. Digitale Transformation.
 
 #### § 9
 
@@ -152,15 +157,17 @@ beschliesst:
 - g. Kompetenzzentrum für Kommunikation und Medienpolitik;
 - h. Digitale Transformation und Organisationsentwicklung in der Direktion.
 
-### 2.2 Fachstelle Gleichstellung für Frauen und Männer (GfFM)
+### 2.2 Gleichstellung BL
+
+### 2.2.1 Fachstelle für Gleichstellung von Frau und Mann (GfFM)
 
 #### § 10
 
 **Organisation**
 
-<sup>1</sup> Die Fachstelle Gleichstellung für Frauen und Männer ist dem Generalsekretariat administrativ unterstellt.
+<sup>1</sup> Die Fachstelle für Gleichstellung von Frau und Mann ist dem Generalsekretariat administrativ unterstellt.
 
-<sup>2</sup> Die Fachstelle tritt unter dem Namen «Gleichstellung für Frauen und Männer Kanton Basel-Landschaft», abgekürzt «Gleichstellung BL» oder «GfFM», auf.
+<sup>2</sup> Die Fachstelle tritt unter dem Namen «Gleichstellung für Frauen und Männer Kanton Basel-Landschaft» oder unter der Abkürzung «GfFM», auf.
 
 #### § 11
 
@@ -172,6 +179,36 @@ beschliesst:
 - b. Beratung und Unterstützung der Direktionen, der Gerichte und Dritter beim Vollzug;
 - c. Entwicklung von Programmen und Massnahmen zur Förderung der Gleichstellung durch Dritte;
 - d. Koordination und Monitoring.
+
+### 2.2.2 Anlaufstelle für die Rechte von Menschen mit Behinderungen (BehiF)
+
+#### § 11a
+
+**Organisation**
+
+<sup>1</sup> Die Anlaufstelle für die Rechte von Menschen mit Behinderungen ist dem Generalsekretariat administrativ unterstellt.
+
+<sup>2</sup> Die Anlaufstelle tritt unter dem Namen "Fachstelle Behindertenrechte" oder unter der Abkürzung «BehiF» auf.
+
+#### § 11b
+
+**Aufgaben**
+
+<sup>1</sup> Die Anlaufstelle hat insbesondere folgende Aufgaben:
+
+- a. Erarbeitung der Schwerpunkte des Kantons zur Verwirklichung der Rechte von Menschen mit Behinderungen zuhanden des Regierungsrats;
+- b. Überwachung und Koordination der Umsetzung der behindertenrechtlichen Bestimmungen von Bund und Kanton und Beratung der kantonalen Verwaltung;
+- c. Förderung des Bewusstseins für die Rechte von Menschen mit Behinderungen in Staat, Wirtschaft und Gesellschaft.
+
+### 2.2.3 Gemeinsame Bestimmungen
+
+#### § 11c
+
+**Koordination und Synergien**
+
+<sup>1</sup> Die Leitung der Fachstelle für Gleichstellung von Frau und Mann und die Leitung der Anlaufstelle für die Rechte von Menschen mit Behinderungen koordinieren die Tätigkeiten ihrer Stellen, wo möglich und sinnvoll, und nutzen Synergien unter dem Dach von Gleichstellung BL.
+
+<sup>2</sup> Sie führen Gleichstellung BL in Co-Leitung.
 
 ### 2.3 Finanzverwaltung (FIV)
 
