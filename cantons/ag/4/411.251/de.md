@@ -4,13 +4,13 @@ number: "411.251"
 title: Verordnung über die Beteiligung der Gemeinden am Personalaufwand der Volksschulen und Kindergärten
 short: "Gemeindebeteiligungsverordnung, GbV"
 language: de
-version: 2022-04-08
-valid_until: 2024-06-30
-version_adopted: 2022-04-06
+version: 2024-07-01
+valid_until: 2026-07-31
+version_adopted: 2024-05-01
 adopted: 2005-11-16
 in_force: 2006-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/411.251"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3174/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3548/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3174/pdf_file"
 
 (Gemeindebeteiligungsverordnung, GbV)
 
-Vom 16.11.2005 (Stand 08.04.2022)
+Vom 16.11.2005 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -59,12 +59,10 @@ beschliesst:
 
 <sup>1</sup> …
 
-<sup>2</sup> Der Kanton übernimmt den Anteil an den Kosten für den Personalaufwand gemäss § 5a der Verordnung über das Schulgeld vom 16. Dezember 1985[^3-1]
+<sup>2</sup> Der Kanton übernimmt den vollen Personalaufwand
 
 - a) für Schülerinnen und Schüler, die in Deutschland wohnen und die aargauische Volksschule besuchen;
 - b) für Schülerinnen und Schüler aus anderen Kantonen oder Ländern, die im Austausch mit anderen Schülerinnen und Schülern die aargauische Volksschule besuchen, nach aargauischem Recht aber nicht mehr schulpflichtig sind.
-
-[^3-1]: SAR [403.151](https://gesetzessammlungen.ag.ch/data/403.151/de)
 
 #### § 4
 
