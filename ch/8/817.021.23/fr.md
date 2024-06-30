@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 16 décembre 2016 sur les limites maximales applica
 short: OPOVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/151"
 language: fr
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/151/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-151-20240101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/151/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2017-151-20240701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20240101/fr"
 
 (OPOVA)
 
-du 16 décembre 2016 (État le 1<sup>er</sup> janvier 2024)
+du 16 décembre 2016 (État le 1<sup>er</sup> juillet 2024)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -75,7 +75,7 @@ Dans la présente ordonnance, on entend par:
 
 [^2-1]: [RS 813.1](https://fedlex.data.admin.ch/eli/cc/2004/724)
 [^2-2]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
-[^2-3]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^2-3]: [[RO 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)ch. I 7.2; [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)annexe 11 ch. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)art. 91]. Voir actuellement l’O du 5 juin 2015 ([RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 [^2-4]: [RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
 
 ## Section 2 Détermination et fixation des limites maximales de résidus
@@ -272,6 +272,14 @@ Les denrées alimentaires non conformes à la modification du 31 mai 2023 peuven
 
 [^13e-1]: Introduit par le ch. I de l’O de l’OSAV du 24 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 789](https://fedlex.data.admin.ch/eli/oc/2023/789)).
 
+#### Art. 13f
+
+**Disposition transitoire de la modification du 29 mai 2024**[^13f-1]
+
+Les denrées alimentaires contenant des substances actives pour lesquelles une limite maximale plus faible est fixée par la modification du 29 mai 2024 peuvent encore être importées et fabriquées dans le respect des limites maximales définies selon l’ancien droit jusqu’au 1<sup>er</sup> janvier 2025 et remises au consommateur jusqu’à épuisement des stocks.
+
+[^13f-1]: Introduit par le ch. I de l’O de l’OSAV du 29 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 247](https://fedlex.data.admin.ch/eli/oc/2024/247)).
+
 #### Art. 14
 
 **Entrée en vigueur**
@@ -317,8 +325,8 @@ Annexe 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 27 mai 2020 ([RO 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)). Mise à jour par le ch. I al. 1 de l’O de l’OSAV du 30 juin 2021 ([RO 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)), le ch. II al. 1 de l’O de l’OSAV du 26 sept. 2022 ([RO 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)), le ch. II des O de l’OSAV du 31 mai 2023 ([RO 2023 289](https://fedlex.data.admin.ch/eli/oc/2023/289)) et du 24 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 789](https://fedlex.data.admin.ch/eli/oc/2023/789)).
-[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/789](https://fedlex.data.admin.ch/eli/oc/2023/789) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-2]: Nouvelle teneur selon le ch. II al. 1 de l’O du DFI du 27 mai 2020 ([RO 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)). Mise à jour par le ch. I al. 1 de l’O de l’OSAV du 30 juin 2021 ([RO 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)), le ch. II al. 1 de l’O de l’OSAV du 26 sept. 2022 ([RO 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)), le ch. II des O de l’OSAV du 31 mai 2023 ([RO 2023 289](https://fedlex.data.admin.ch/eli/oc/2023/289)), du 24 nov. 2023 ([RO 2023 789](https://fedlex.data.admin.ch/eli/oc/2023/789)) et le ch. II al. 1 de l’O de l’OSAV du 29 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 247](https://fedlex.data.admin.ch/eli/oc/2024/247)).
+[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/247](https://fedlex.data.admin.ch/eli/oc/2024/247) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 3[^t-3]
 
@@ -326,7 +334,7 @@ Annexe 3[^t-3]
 
 ## Pesticides pour lesquels aucune limite maximale de résidus ne s’applique
 
-[^t-3]: Mise à jour selon le ch. II al. 2 de l’O du DFI du 27 mai 2020 ([RO 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)) et le ch. I al. 2 de l’O de l’OSAV du 30 juin 2021 ([RO 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)) et le ch. II al. 2 de l’O de l’OSAV du 26 sept. 2022, en vigueur depuis le 15 oct. 2022 ([RO 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)).
+[^t-3]: Mise à jour selon le ch. II al. 2 de l’O du DFI du 27 mai 2020 ([RO 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)), le ch. I al. 2 de l’O de l’OSAV du 30 juin 2021 ([RO 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)), le ch. II al. 2 des O de l’OSAV du 26 sept. 2022 ([RO 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)) et du 29 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 247](https://fedlex.data.admin.ch/eli/oc/2024/247)).
 
 ### 1 Remarque explicative
 
@@ -414,6 +422,7 @@ Aucune limite maximale de résidus ne s’applique aux substances actives dans c
 <tr><td>*Paecilomyces lilacinus*</td><td></td></tr>
 <tr><td>Parois cellulaires de *Saccharomyces cerevisiae* (souche LAS 117)</td><td></td></tr>
 <tr><td>Petit-lait</td><td></td></tr>
+<tr><td>*Phéromones de lépidoptères à chaîne droite*</td><td></td></tr>
 <tr><td>*Phlebia gigantea*</td><td></td></tr>
 <tr><td>Phosphate de fer(III)</td><td></td></tr>
 <tr><td>*Photorhabdus luminescens*</td><td></td></tr>

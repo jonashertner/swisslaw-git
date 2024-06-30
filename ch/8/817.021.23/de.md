@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 16. Dezember 2016 über die Höchstgehalte für Pe
 short: VPRH
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/151"
 language: de
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/151/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2017-151-20240101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/151/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2017-151-20240701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/151/20240101/de"
 
 (VPRH)
 
-vom 16. Dezember 2016 (Stand am 1. Januar 2024)
+vom 16. Dezember 2016 (Stand am 1. Juli 2024)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -75,7 +75,7 @@ In dieser Verordnung bedeuten:
 
 [^2-1]: [SR 813.1](https://fedlex.data.admin.ch/eli/cc/2004/724)
 [^2-2]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
-[^2-3]: [SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^2-3]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132), [1135](https://fedlex.data.admin.ch/eli/oc/2009/183); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Anhang 11 Ziff. 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. Siehe heute: Chemikalienverordnung vom 5. Juni 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 [^2-4]: [SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
 
 ## 2. Abschnitt: Ermittlung und Festlegung der Rückstandshöchstgehalte
@@ -138,8 +138,12 @@ Sind für verarbeitete oder vermischte Erzeugnisse keine Rückstandshöchstgehal
 
 **Rückstandshöchstgehalte fürin der Schweiz nicht verwendete Pflanzenschutzmittel oder Biozidprodukte**
 
-- [tab] <sup>1</sup> Das BLV kann auf Begehren Einfuhrtoleranzen für Rückstände von in der Schweiz nicht vorgesehenen Anwendungen von Pflanzenschutzmitteln oder Biozidprodukten festlegen.[^7-1]
-- [tab] <sup>2</sup> Das Begehren muss enthalten:
+<sup>1</sup> Das BLV kann auf Begehren Einfuhrtoleranzen für Rückstände von in der Schweiz nicht vorgesehenen Anwendungen von Pflanzenschutzmitteln oder Biozidprodukten festlegen.[^7-1]
+
+<sup>2</sup>
+
+Das Begehren muss enthalten:
+
 - a.
 
   eine Übersicht über das eingereichte Begehren mit:
@@ -267,6 +271,14 @@ Lebensmittel, die der Änderung vom 31. Mai 2023 nicht entsprechen, dürfen noch
 
 [^13e-1]: Eingefügt durch Ziff. I der V des BLV vom 24. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 789](https://fedlex.data.admin.ch/eli/oc/2023/789)).
 
+#### Art. 13f
+
+**Übergangsbestimmung zur Änderung vom 29. Mai 2024**[^13f-1]
+
+Lebensmittel, die Wirkstoffe enthalten, für die mit der Änderung vom 29. Mai 2024 ein tieferer Höchstgehalt festgelegt wird, dürfen noch bis zum 1. Januar 2025 mit dem Höchstgehalt nach bisherigem Recht eingeführt und hergestellt und noch bis zum Abbau der Bestände an Konsumentinnen und Konsumenten abgegeben werden.
+
+[^13f-1]: Eingefügt durch Ziff. I der V des BLV vom 29. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 247](https://fedlex.data.admin.ch/eli/oc/2024/247)).
+
 #### Art. 14
 
 **Inkrafttreten**
@@ -312,8 +324,8 @@ Anhang 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)). Bereinigt gemäss Ziff. I Abs. 1 der V des BLV vom 30. Juni 2021 ([AS 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)), Ziff. II Abs. 1 der V des BLV vom 26. Sept. 2022 ([AS 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)), Ziff. II der V des BLV vom 31. Mai 2023 ([AS 2023 289](https://fedlex.data.admin.ch/eli/oc/2023/289)) und vom 24. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 789](https://fedlex.data.admin.ch/eli/oc/2023/789)).
-[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2023/789](https://fedlex.data.admin.ch/eli/oc/2023/789) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-2]: Fassung gemäss Ziff. II Abs. 1 der V des EDI vom 27. Mai 2020 ([AS 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)). Bereinigt gemäss Ziff. I Abs. 1 der V des BLV vom 30. Juni 2021 ([AS 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)), Ziff. II Abs. 1 der V des BLV vom 26. Sept. 2022 ([AS 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)), Ziff. II der V des BLV vom 31. Mai 2023 ([AS 2023 289](https://fedlex.data.admin.ch/eli/oc/2023/289)), vom 24. Nov. 2023 ([AS 2023 789](https://fedlex.data.admin.ch/eli/oc/2023/789)) und Ziff. II Abs. 1 der V des BLV vom 29. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 247](https://fedlex.data.admin.ch/eli/oc/2024/247)).
+[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/247](https://fedlex.data.admin.ch/eli/oc/2024/247) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 3[^t-3]
 
@@ -321,7 +333,7 @@ Anhang 3[^t-3]
 
 ## Pestizide, für die keine Rückstandshöchstgehalte gelten
 
-[^t-3]: Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 27. Mai 2020 ([AS 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)), Ziff. I Abs. 1 der V des BLV vom 30. Juni 2021 ([AS 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)) und Ziff. II Abs. 2 der V des BLV vom 26. Sept. 2022, in Kraft seit 15. Oktober 2022 ([AS 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)).
+[^t-3]: Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 27. Mai 2020 ([AS 2020 2239](https://fedlex.data.admin.ch/eli/oc/2020/443)), Ziff. I Abs. 1 der V des BLV vom 30. Juni 2021 ([AS 2021 423](https://fedlex.data.admin.ch/eli/oc/2021/423)), Ziff. II Abs. 2 der V des BLV vom 26. Sept. 2022 ([AS 2022 563](https://fedlex.data.admin.ch/eli/oc/2022/563)) und vom 29. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 247](https://fedlex.data.admin.ch/eli/oc/2024/247)).
 
 ### 1 Erläuterungen
 
@@ -375,6 +387,7 @@ Für die Wirkstoffe in dieser Tabelle gelten keine Rückstandshöchstgehalte fü
 <tr><td>Fettsäuren: Oleinsäure, einschliesslich Ethyloleat</td><td></td></tr>
 <tr><td>Fettsäuren: Pelargonsäure</td><td></td></tr>
 <tr><td>Folsäure</td><td></td></tr>
+<tr><td>Geradkettige Lepidopterenpheromone</td><td></td></tr>
 <tr><td>Geraniol</td><td></td></tr>
 <tr><td>Gibberellin</td><td></td></tr>
 <tr><td>*Glicladium catenulatum*</td><td></td></tr>
