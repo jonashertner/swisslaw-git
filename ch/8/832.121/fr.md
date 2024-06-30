@@ -4,11 +4,11 @@ title: "Ordonnance du 18 novembre 2015 sur la surveillance de l'assurance-maladi
 short: OSAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/840"
 language: fr
-version: 2024-03-01
+version: 2024-07-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/840/20240301/fr/xml/fedlex-data-admin-ch-eli-cc-2015-840-20240301-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20240301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/840/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2015-840-20240701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20240301/fr"
 
 (Ordonnance sur la surveillance de l’assurance-maladie, OSAMal)
 
-du 18 novembre 2015 (État le 1<sup>er</sup> mars 2024)
+du 18 novembre 2015 (État le 1<sup>er</sup> juillet 2024)
 
 Le Conseil fédéral suisse,
 
@@ -674,7 +674,7 @@ Les placements suivants ne sont pas considérés comme risqués:
 
 <sup>4</sup> L’assureur doit publier le rapport de gestion au plus tard le 30 juin de l’année suivant la fin de l’exercice.
 
-[^50-1]: Les recommandations peuvent être consultées gratuitement ou obtenues contre paiement auprès des Éditions SKV, Hans-Huber-Strasse 4, 8002 Zurich; www.verlagskv.ch.
+[^50-1]: Les recommandations peuvent être consultées gratuitement ou obtenues contre paiement auprès des Éditions SKV, Hans-Huber-Strasse 4, 8002 Zurich; [www.verlagskv.ch](http://www.verlagskv.ch).
 [^50-2]: Nouvelle teneur selon le ch. I de l’O du 14 avr. 2021, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2021 254](https://fedlex.data.admin.ch/eli/oc/2021/254)):
 [^50-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^50-4]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
@@ -689,7 +689,7 @@ Les placements suivants ne sont pas considérés comme risqués:
 
 <sup>3</sup> L’assureur doit remettre les comptes annuels relevant du droit de la surveillance à l’autorité de surveillance au plus tard le 31 mars de l’année suivant la fin de l’exercice.
 
-[^51-1]: Les recommandations peuvent être obtenues contre paiement auprès des Editions SKV, Hans-Huber-Strasse 4, 8002 Zurich (www.verlagskv.ch).
+[^51-1]: Les recommandations peuvent être obtenues contre paiement auprès des Editions SKV, Hans-Huber-Strasse 4, 8002 Zurich ([www.verlagskv.ch](http://www.verlagskv.ch)).
 
 #### Art. 52
 
@@ -711,9 +711,11 @@ Les placements suivants ne sont pas considérés comme risqués:
 
 <sup>1</sup> L’organe de révision externe contrôle les comptes annuels relevant du droit de la surveillance, les comptes annuels statutaires et la fortune liée selon les principes de la révision ordinaire.
 
-<sup>2</sup> L’autorité de surveillance charge l’organe de révision externe de contrôler chaque année que le système de contrôle interne est efficace et adapté à la taille et à la complexité de l’entreprise.
+<sup>2</sup> L’autorité de surveillance peut charger l’organe de révision externe de contrôler que le système de contrôle interne ou certaines parties de ce système sont efficaces et adaptés à la taille et à la complexité de l’entreprise.[^53-1]
 
 <sup>3</sup> L’organe de révision externe peut procéder sur place à des révisions intermédiaires, notamment en cas de doute sur la tenue des comptes et sur la gestion.
+
+[^53-1]: Nouvelle teneur selon le ch. I de l’O du 24 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 195](https://fedlex.data.admin.ch/eli/oc/2024/195)).
 
 #### Art. 54
 
@@ -729,7 +731,7 @@ L’organe de révision externe établit chaque année les rapports suivants:
 
 <sup>2</sup> Il remet ses rapports à l’autorité de surveillance et à l’organe de révision interne.
 
-[^54-1]: Les recommandations peuvent être obtenues contre paiement auprès des Editions SKV, Hans-Huber-Strasse 4, 8002 Zurich (www.verlagskv.ch).
+[^54-1]: Les recommandations peuvent être obtenues contre paiement auprès des Editions SKV, Hans-Huber-Strasse 4, 8002 Zurich ([www.verlagskv.ch](http://www.verlagskv.ch)).
 [^54-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 ## Chapitre 5 Réassurance
@@ -1011,7 +1013,7 @@ Annexe 1[^t-1]
 [^annex1-lvlu1-1]
 
 [^t-1]: Introduite par le ch. II de l’O du 14 avr.2021, en vigueur depuis le 1<sup>er</sup> juin 2021 ([RO 2021 254](https://fedlex.data.admin.ch/eli/oc/2021/254)).
-[^annex1-lvlu1-1]: Conformément à l’art. 5, al. 1, de la loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), la formule du calcul de l’écart-type n’est pas publiée dans le RO. Elle peut être consultée à l’adresse suivante: www.ofsp.admin.ch &gt; Assurances &gt; Assurance-maladie.
+[^annex1-lvlu1-1]: Conformément à l’art. 5, al. 1, de la loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), la formule du calcul de l’écart-type n’est pas publiée dans le RO. Elle peut être consultée à l’adresse suivante: [www.ofsp.admin.ch](http://www.ofsp.admin.ch) &gt; Assurances &gt; Assurance-maladie.
 
 Annexe 2[^t-2]
 

@@ -4,11 +4,11 @@ title: "Verordnung vom 18. November 2015 betreffend die Aufsicht über die sozia
 short: KVAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/840"
 language: de
-version: 2024-03-01
+version: 2024-07-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/840/20240301/de/xml/fedlex-data-admin-ch-eli-cc-2015-840-20240301-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20240301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/840/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2015-840-20240701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20240301/de"
 
 (Krankenversicherungsaufsichtsverordnung, KVAV)
 
-vom 18. November 2015 (Stand am 1. März 2024)
+vom 18. November 2015 (Stand am 1. Juli 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -674,7 +674,7 @@ Folgende Anlagen gelten nicht als riskant:
 
 <sup>4</sup> Der Versicherer veröffentlicht den Geschäftsbericht spätestens am 30. Juni des auf das Geschäftsjahr folgenden Jahres.
 
-[^50-1]: Die Empfehlungen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei: Verlag SKV, Hans-Huber-Strasse 4, 8002 Zürich; www.verlagskv.ch.
+[^50-1]: Die Empfehlungen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei: Verlag SKV, Hans-Huber-Strasse 4, 8002 Zürich ([www.verlagskv.ch](https://www.verlagskv.ch)).
 [^50-2]: Fassung gemäss Ziff. I der V vom 14. April 2021, in Kraft seit 1. Juni 2021 ([AS 2021 254](https://fedlex.data.admin.ch/eli/oc/2021/254)).
 [^50-3]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^50-4]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
@@ -689,7 +689,7 @@ Folgende Anlagen gelten nicht als riskant:
 
 <sup>3</sup> Der Versicherer stellt den aufsichtsrechtlichen Jahresabschluss der Aufsichtsbehörde bis zum 31. März des auf das Geschäftsjahr folgenden Jahres zu.
 
-[^51-1]: Die Empfehlungen können gegen Bezahlung bezogen werden bei: Verlag SKV, Hans‑Huber-Strasse 4, 8002 Zürich (www.verlagskv.ch).
+[^51-1]: Die Empfehlungen können gegen Bezahlung bezogen werden bei: Verlag SKV, Hans‑Huber-Strasse 4, 8002 Zürich ([www.verlagskv.ch](https://www.verlagskv.ch)).
 
 #### Art. 52
 
@@ -711,9 +711,11 @@ Folgende Anlagen gelten nicht als riskant:
 
 <sup>1</sup> Die externe Revisionsstelle prüft den aufsichtsrechtlichen und den statutarischen Jahresabschluss sowie das gebundene Vermögen nach den Grundsätzen der ordentlichen Revision.
 
-<sup>2</sup> Die Aufsichtsbehörde beauftragt die externe Revisionsstelle, jährlich zu kontrollieren, ob das interne Kontrollsystem wirksam und der Grösse und der Komplexität des Unternehmens angepasst ist.
+<sup>2</sup> Die Aufsichtsbehörde kann die externe Revisionsstelle damit beauftragen, zu kontrollieren, ob das interne Kontrollsystem oder Teile davon wirksam und der Grösse und der Komplexität des Unternehmens angepasst sind.[^53-1]
 
 <sup>3</sup> Die externe Revisionsstelle kann vor Ort Zwischenrevisionen durchführen, namentlich wenn Zweifel an der ordnungsgemässen Rechnungsführung und Verwaltung bestehen.
+
+[^53-1]: Fassung gemäss Ziff. I der V vom 24. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 195](https://fedlex.data.admin.ch/eli/oc/2024/195)).
 
 #### Art. 54
 
@@ -729,7 +731,7 @@ Die externe Revisionsstelle erstellt jährlich:
 
 <sup>2</sup> Sie stellt ihre Berichte der Aufsichtsbehörde und der internen Revisionsstelle zu.
 
-[^54-1]: Die Empfehlungen können gegen Bezahlung bezogen werden bei: Verlag SKV, Hans‑Huber-Strasse 4, 8002 Zürich (www.verlagskv.ch).
+[^54-1]: Die Empfehlungen können gegen Bezahlung bezogen werden bei: Verlag SKV, Hans‑Huber-Strasse 4, 8002 Zürich ([www.verlagskv.ch](https://www.verlagskv.ch)).
 [^54-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 ## 5. Kapitel: Rückversicherung
@@ -1011,7 +1013,7 @@ Anhang 1[^t-1]
 [^annex1-lvlu1-1]
 
 [^t-1]: Eingefügt durch Ziff. II der V vom 14. April 2021, in Kraft seit 1. Juni 2021 ([AS 2021 254](https://fedlex.data.admin.ch/eli/oc/2021/254)).
-[^annex1-lvlu1-1]: Die Berechnungsformel für die Standardabweichung wird nach Art. 5 Abs. 1 Bst. c des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) in der AS nicht veröffentlicht. Sie kann unter www.bag.admin.ch &gt; Versicherungen &gt; Krankenversicherung eingesehen werden.
+[^annex1-lvlu1-1]: Die Berechnungsformel für die Standardabweichung wird nach Art. 5 Abs. 1 Bst. c des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) in der AS nicht veröffentlicht. Sie kann unter [www.bag.admin.ch](https://www.bag.admin.ch) &gt; Versicherungen &gt; Krankenversicherung eingesehen werden.
 
 Anhang 2[^t-2]
 

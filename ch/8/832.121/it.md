@@ -4,11 +4,11 @@ title: "Ordinanza del 18 novembre 2015 concernente la vigilanza sull'assicurazio
 short: OVAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/840"
 language: it
-version: 2024-03-01
+version: 2024-07-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/840/20240301/it/xml/fedlex-data-admin-ch-eli-cc-2015-840-20240301-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20240301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/840/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2015-840-20240701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20240301/it"
 
 (Ordinanza sulla vigilanza sull’assicurazione malattie, OVAMal)
 
-del 18 novembre 2015 (Stato 1° marzo 2024)
+del 18 novembre 2015 (Stato 1° luglio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -326,11 +326,14 @@ Gli investimenti collettivi di capitale, che superano il 5 per cento del patrimo
 L’autorità di vigilanza verifica almeno una volta l’anno se:
 
 - a. l’importo legale è calcolato correttamente;
-- b. gli elementi attribuiti al patrimonio vincolato:
-- 1\. sono disponibili,
-- 2\. sono attribuiti e custoditi conformemente alle disposizioni,
-- 3\. corrispondono almeno all’importo legale,
-- 4\. soddisfano le disposizioni relative agli investimenti del diritto in materia di vigilanza.
+- b.
+
+  gli elementi attribuiti al patrimonio vincolato:
+
+  - 1\. sono disponibili,
+  - 2\. sono attribuiti e custoditi conformemente alle disposizioni,
+  - 3\. corrispondono almeno all’importo legale,
+  - 4\. soddisfano le disposizioni relative agli investimenti del diritto in materia di vigilanza.
 
 <sup>2</sup> Essa può effettuare la verifica per campionatura.
 
@@ -645,7 +648,7 @@ Sono considerati non rischiosi:
 
 <sup>1</sup> Il prestito di valori mobiliari e le operazioni pensionistiche non sono ammessi.
 
-<sup>2</sup> È ammesso il prestito di valori mobiliari nell’ambito di un investimento collettivo di capitale di cui all’articolo 19 capoverso 1 lettera e, se il diritto di quest'ultimo alla restituzione dei valori patrimoniali in prestito è effettivamente garantito.
+<sup>2</sup> È ammesso il prestito di valori mobiliari nell’ambito di un investimento collettivo di capitale di cui all’articolo 19 capoverso 1 lettera e, se il diritto di quest’ultimo alla restituzione dei valori patrimoniali in prestito è effettivamente garantito.
 
 <sup>3</sup> Il DFI può emanare prescrizioni di dettaglio.
 
@@ -686,7 +689,7 @@ Sono considerati non rischiosi:
 
 <sup>3</sup> L’assicuratore trasmette il conto annuale secondo il diritto in materia di vigilanza all’autorità di vigilanza entro il 31 marzo dell’anno successivo all’esercizio cui si riferisce.
 
-[^51-1]: Le raccomandazioni possono essere richieste, a pagamento, a: Verlag SKV, Hans-Huber-Strasse 4, 8002 Zurigo (www.verlagskv.ch).
+[^51-1]: Le raccomandazioni possono essere richieste, a pagamento, a: Verlag SKV, Hans-Huber-Strasse 4, 8002 Zurigo ([www.verlagskv.ch](https://verlagskv.ch/)).
 
 #### Art. 52
 
@@ -708,9 +711,11 @@ Sono considerati non rischiosi:
 
 <sup>1</sup> L’ufficio di revisione esterno verifica il conto annuale secondo il diritto in materia di vigilanza e statutario, nonché il patrimonio vincolato secondo i principi della revisione ordinaria.
 
-<sup>2</sup> L’autorità di vigilanza incarica l’ufficio di revisione esterno di controllare ogni anno se il sistema di controllo interno è efficace e adeguato alle dimensioni e alla complessità dell’impresa.
+<sup>2</sup> L’autorità di vigilanza può incaricare l’ufficio di revisione esterno di controllare se il sistema di controllo interno o parti di questo sistema sono efficaci e adeguati alle dimensioni e alla complessità dell’impresa.[^53-1]
 
 <sup>3</sup> L’ufficio di revisione esterno può effettuare revisioni intermedie sul posto, segnatamente in caso di dubbi riguardo alla regolarità della tenuta dei conti e dell’amministrazione.
+
+[^53-1]: Nuovo testo giusta il n. I dell’O del 24 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2021 195](https://fedlex.data.admin.ch/eli/oc/2021/195)).
 
 #### Art. 54
 
@@ -726,7 +731,7 @@ L’ufficio di revisione esterno allestisce ogni anno:
 
 <sup>2</sup> Esso trasmette i suoi rapporti all’autorità di vigilanza e all’ufficio di revisione interno.
 
-[^54-1]: Le raccomandazioni possono essere richieste, a pagamento, a: Verlag SKV, Hans-Huber-Strasse 4, 8002 Zurigo (www.verlagskv.ch).
+[^54-1]: Le raccomandazioni possono essere richieste, a pagamento, a: Verlag SKV, Hans-Huber-Strasse 4, 8002 Zurigo ([www.verlagskv.ch](https://verlagskv.ch/)).
 [^54-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 ## Capitolo 5: Riassicurazione
@@ -792,7 +797,6 @@ L’autorizzazione a esercitare la riassicurazione ha effetto a partire dall’i
 È considerato abuso ai sensi dell’articolo 34 capoverso 1 lettera e LVAMal il pregiudizio arrecato:
 
 - a. ripetutamente a un assicurato;
-
 - b. a un assicurato attraverso una notevole disparità di trattamento non giustificabile dal punto di vista giuridico o attuariale;
 - c. sistematicamente a un gruppo di assicurati.
 
@@ -1004,18 +1008,20 @@ Allegato 1[^t-1]
 
 (art. 30*a* cpv. 2)
 
-**Formula di calcolo della deviazione standard**[^t-2]
+## Formula di calcolo della deviazione standard
+
+[^annex1-lvlu1-1]
 
 [^t-1]: Introdotto dal n. II dell’O del 14 apr. 2021, in vigore dal 1° giu. 2021 ([RU 2021 254](https://fedlex.data.admin.ch/eli/oc/2021/254)).
-[^t-2]: La formula di calcolo della deviazione standard non è pubblicata nella RU conformemente all’art. 5 cpv. 1 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Può essere consultata all’indirizzo www.ufsp.admin.ch &gt; Assicurazioni &gt; Assicurazione malattie
+[^annex1-lvlu1-1]: La formula di calcolo della deviazione standard non è pubblicata nella RU conformemente all’art. 5 cpv. 1 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). Può essere consultata all’indirizzo [www.ufsp.admin.ch](http://www.ufsp.admin.ch) &gt; Assicurazioni &gt; Assicurazione malattie
 
-Allegato 2[^t-3]
+Allegato 2[^t-2]
 
 (art. 72)
 
 ## Modifica di altri atti normativi
 
-[^t-3]: Originario allegato.
+[^t-2]: Originario allegato.
 
 Le seguenti ordinanze sono modificate come segue:
 
