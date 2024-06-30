@@ -4,13 +4,13 @@ number: "817.11"
 title: Spitalgesetz
 short: SpiG
 language: de
-version: 2019-09-01
-valid_until: 2024-06-30
-version_adopted: 2018-12-19
+version: 2024-07-01
+valid_until: 2026-08-31
+version_adopted: 2024-05-15
 adopted: 2004-05-12
 in_force: 2006-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/817.11"
-pdf: "https://bgs.so.ch/api/de/versions/4837/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5466/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/4837/pdf_file"
 
 (SpiG)
 
-Vom 12.05.2004 (Stand 01.09.2019)
+Vom 12.05.2004 (Stand 01.07.2024)
 
 Der Kantonsrat von Solothurn
 
@@ -131,9 +131,14 @@ beschliesst:
 
 **Aus- und Weiterbildung**
 
-<sup>1</sup> Die auf der Spitalliste aufgeführten Spitäler mit innerkantonalem Standort sind verpflichtet, sich angemessen an der Aus- und Weiterbildung der nicht-universitären Gesundheitsberufe zu beteiligen.
+<sup>1</sup> Die auf der Spitalliste aufgeführten Spitäler mit innerkantonalem Standort sind verpflichtet, sich angemessen an der Aus- und Weiterbildung der nicht-universitären Gesundheitsberufe zu beteiligen. Der Regierungsrat kann beschliessen, dass der Vollzug der Aus- und Weiterbildungsverpflichtung für die Jahre 2024 und 2025 ganz oder teilweise ausgesetzt wird oder in bestimmten Bereichen von den rechtlichen Vorgaben betreffend die Aus- und Weiterbildungsverpflichtung abgewichen werden darf.
 
-<sup>2</sup> Der Umfang der Aus- und Weiterbildungsverpflichtung wird unter Berücksichtigung der Grösse und des Angebots des Betriebes, der Kosten der Aus- und Weiterbildungen sowie im Verhältnis zum Bedarf festgelegt.
+<sup>2</sup> Der Umfang der Aus- und Weiterbildungsverpflichtung wird insbesondere unter Berücksichtigung der Grösse und des Angebots des Betriebs sowie im Verhältnis zum Bedarf festgelegt.
+
+<sup>2<sup>bis</sup></sup> Wer Leistungen im Bereich der Aus- und Weiterbildung von nicht-universitären Gesundheitsberufen erbringt, muss ein Ausbildungskonzept erstellen. Das Konzept:
+
+- a) führt insbesondere den Rahmen, in dem die Aus- und Weiterbildung stattfindet, die Ziele und die Schwerpunkte der Aus- und Weiterbildung sowie die Anzahl der zur Verfügung stehenden Aus- und Weiterbildungsplätze auf;
+- b) weist allfällige Abweichungen vom gemäss Absatz 2 festgelegten Umfang der Aus- und Weiterbildungsverpflichtung aus.
 
 <sup>3</sup> Gesundheitlich beeinträchtigten Personen sind bei Möglichkeit zweckmässige Aus- und Weiterbildungsplätze anzubieten. Die Spitäler streben diesbezüglich eine enge Zusammenarbeit mit den zuständigen IV-Stellen an.
 
@@ -143,11 +148,25 @@ beschliesst:
 
 **Vollzug und Vollstreckung der Aus- und Weiterbildung**
 
-<sup>1</sup> Der Regierungsrat kann den Vollzug und die damit verbundene Verfügungskompetenz zur Festlegung und Überprüfung der Aus- und Weiterbildungsverpflichtung an Fachorganisationen oder Branchenverbände delegieren. Er schliesst mit diesen eine Leistungsvereinbarung ab, welche die Pflichten und die Berichterstattung regelt.
+<sup>1</sup> Der Regierungsrat kann den Vollzug und die damit verbundene Verfügungskompetenz zur Festlegung und Überprüfung der Aus- und Weiterbildungsverpflichtung sowie zur Festlegung von Ausgleichszahlungen an Fachorganisationen oder Branchenverbände delegieren. Er schliesst mit diesen eine Leistungsvereinbarung ab, welche die Pflichten und die Berichterstattung regelt.
 
 <sup>2</sup> Gegen die Verfügungen von Fachorganisationen oder Branchenverbänden gemäss Absatz 1 kann innert 10 Tagen beim Departement Beschwerde geführt werden.
 
-<sup>3</sup> Bei Nichterfüllen der Aus- und Weiterbildungsverpflichtung ordnet das Departement die Ersatzvornahme an. Es kauft die entsprechenden Leistungen ein. Der säumige Betrieb hat die entstandenen Kosten (eingekaufte Leistungen zuzüglich Verwaltungsaufwand) zu tragen.
+<sup>3</sup> Erfüllt ein Spital die festgelegte Aus- und Weiterbildungsleistung nicht, hat es eine Ausgleichszahlung an den vom Departement oder von der gemäss Absatz 1 mit dem Vollzug der Aus- und Weiterbildungsverpflichtung betrauten Stelle geführten, zweckgebundenen Ausgleichsfonds für den Bonus-Malus-Ausgleich zu bezahlen.
+
+<sup>4</sup> Die Höhe der Ausgleichszahlung beträgt höchstens 300 Prozent der durchschnittlichen Kosten der nicht geleisteten Aus- oder Weiterbildung. Der Regierungsrat kann in einer Verordnung vorsehen, dass die Pflicht zur Leistung einer Ausgleichszahlung entfällt, wenn die Differenz zwischen festgelegter und erbrachter Aus- und Weiterbildungsleistung einen Toleranzwert von höchstens 10 Prozent nicht überschreitet.
+
+<sup>5</sup> Übertrifft ein Spital die festgelegte Aus- und Weiterbildungsleistung, erhält es einen Beitrag aus dem Ausgleichsfonds.
+
+<sup>6</sup> Überschüsse im Ausgleichsfonds können für die Finanzierung von Massnahmen und Projekten zugunsten der nicht-universitären Gesundheitsberufe im Kanton Solothurn eingesetzt werden.
+
+#### § 3septies
+
+**Pflegefachpersonen der Tertiärstufe**
+
+<sup>1</sup> Die Förderung der Ausbildung in Bezug auf den Bildungsgang Pflege an einer höheren Fachschule (HF) und den Bachelorstudiengang in Pflege an einer Fachhochschule (FH) richtet sich nach dem Einführungsgesetz zum Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege (EG Ausbildungsfördergesetz Pflege) vom 15. Mai 2024[^3septies-1].
+
+[^3septies-1]: BGS [811.17](https://bgs.so.ch/data/811.17/de).
 
 #### § 4
 
@@ -406,6 +425,14 @@ beschliesst:
 **Übergangsbestimmung zur Gesetzesänderung vom 29. August 2012**
 
 <sup>1</sup> Auf alle zum Zeitpunkt des Inkrafttretens von §§ 19<sup>bis</sup>-19<sup>quater</sup> bei der Staatskanzlei hängigen Verfahren medizinischer Staatshaftung ist das neue Recht anwendbar, mit Ausnahme des Vorverfahrens gemäss § 19<sup>ter</sup> Absatz 1. Ist die Verwirkung nach dem bisherigen Recht bereits eingetreten, so ist sie weiterhin beachtlich.
+
+#### § 22ter
+
+**Befristete Bestimmungen**
+
+<sup>1</sup> Die §§ 3<sup>quinquies</sup> Absatz 1 Satz 2 und 3<sup>septies</sup> gelten bis zum Ausserkrafttreten des EG Ausbildungsfördergesetz Pflege[^22ter-1].
+
+[^22ter-1]: BGS [811.17](https://bgs.so.ch/data/811.17/de).
 
 #### § 23
 
