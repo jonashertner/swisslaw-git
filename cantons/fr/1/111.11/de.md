@@ -3,13 +3,13 @@ canton: FR
 number: "111.11"
 title: Verordnung über die zivilrechtliche Bevölkerung
 language: de
-version: 2017-10-01
-valid_until: 2024-06-30
-version_adopted: 2017-10-09
+version: 2024-07-01
+valid_until: 2025-01-31
+version_adopted: 2024-06-24
 adopted: 2011-08-16
 in_force: 2011-08-16
 url: "https://bdlf.fr.ch/app/de/texts_of_law/111.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/4963/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8031/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/4963/pdf_file"
 
 Zivilrechtliche Bevölkerung – V
 
-vom 16.08.2011 (Fassung in Kraft getreten am 01.10.2017)
+vom 16.08.2011 (Fassung in Kraft getreten am 01.07.2024)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -28,17 +28,17 @@ in Erwägung:
 
 Die zivilrechtliche Bevölkerung wird so genannt, weil sie in mehreren kantonalen Erlasstexten erwähnt wird und meist als Kriterium für die Aufteilung von Aufwand und Ertrag herangezogen wird. Jedes Jahr wird ihre Zahl in einer Verordnung über den Bestand der zivilrechtlichen Bevölkerung der Gemeinden im Kanton Freiburg am 31. Dezember festgelegt. Diese Verordnung regelt hingegen die Definitionen und Modalitäten.
 
-Die statistische Grösse, die angesichts der Verwendung der Bevölkerungsbestände als am geeignetsten erachtet wird, ist die ständige Wohnbevölkerung im Sinne von Artikel 2 Bst. d der Verordnung des Bundes vom 19. Dezember 2008 über die eidgenössische Volkszählung (SR 431.112.1). Im Grossen und Ganzen handelt es sich dabei um alle Personen, die ihren Hauptwohnsitz voraussichtlich oder effektiv während mindestens einem Jahr in der Schweiz haben. Grundsätzlich handelt es sich also um diese Bevölkerung, die als Grundlage für die Bestimmung der zivilrechtlichen Bevölkerung der Freiburger Gemeinden herangezogen wird.
+Die statistische Grösse, die angesichts der Verwendung der Bevölkerungsbestände als am geeignetsten erachtet wird, ist die ständige Wohnbevölkerung im Sinne von Artikel 2 Bst. d der Bundesverordnung vom 19. Dezember 2008 über die eidgenössische Volkszählung (SR 431.112.1). Im Grossen und Ganzen handelt es sich dabei um alle Personen, die ihren Hauptwohnsitz voraussichtlich oder effektiv während mindestens einem Jahr in der Schweiz haben. Grundsätzlich handelt es sich also um diese Bevölkerung, die als Grundlage für die Bestimmung der zivilrechtlichen Bevölkerung der Freiburger Gemeinden herangezogen wird.
 
 Es gibt jedoch zwei Ausnahmen von dieser Regel:
 
 a) Erstens behält sich der Staatsrat die Möglichkeit vor, Korrekturen anzubringen, falls die vom Bund veröffentlichten Zahlen nachweislich fehlerhaft sind.
 
-b) Zweitens werden Asylsuchende und vorläufig aufgenommene Personen, die in einer Asylunterkunft wohnen, sowie Flüchtlinge, die in einem Beherbergungs-, Ausbildungs- und Integrationszentrum untergebracht sind, nicht zur zivilrechtlichen Bevölkerung gezählt, auch wenn sie in bestimmten Fällen zur ständigen Wohnbevölkerung gezählt werden. Diese Ausnahme lässt sich damit begründen, dass die Anwesenheit dieser Personen in den erwähnten Kollektivunterkünften unabhängig von der Art ihrer Aufenthaltsbewilligung oder der effektiven Dauer ihres Aufenthalts in der Schweiz grundsätzlich vorübergehend ist.
+b) Zweitens werden Asylsuchende, vorläufig Aufgenommene und Schutzbedürftige, die in einer Asylunterkunft wohnen, sowie Flüchtlinge, die in einem Beherbergungs-, Ausbildungs- und Integrationszentrum untergebracht sind, nicht zur zivilrechtlichen Bevölkerung gezählt, auch wenn sie in bestimmten Fällen zur ständigen Wohnbevölkerung gezählt werden. Diese Ausnahme lässt sich damit begründen, dass die Anwesenheit dieser Personen in den erwähnten Kollektivunterkünften unabhängig von der Art ihrer Aufenthaltsbewilligung oder der effektiven Gesamtaufenthaltsdauer in der Schweiz grundsätzlich vorübergehend ist.
 
-Diese Berechnungsart wird erstmals bei der Festlegung des Bestands der zivilrechtlichen Bevölkerung am 31. Dezember 2017 angewandt.
+Diese Berechnungsart wurde erstmals bei der Festlegung des Bestands der zivilrechtlichen Bevölkerung am 31. Dezember 2017 angewandt. Sie wird ab dem 31. Dezember 2023 auch für Schutzbedürftige angewandt, die in einer der oben erwähnten Kollektivunterkünfte wohnen.
 
-Auf Antrag der Volkswirtschaftsdirektion,
+Auf Antrag der Volkswirtschafts- und Berufsbildungsdirektion,
 
 beschliesst:
 
@@ -50,7 +50,7 @@ beschliesst:
 
 <sup>2</sup> Der Bestand der zivilrechtlichen Bevölkerung kann angepasst werden, falls das Amt für Statistik des Kantons Freiburg Kenntnis von erwiesenen Fehlern oder Ungenauigkeiten im Bestand der ständigen Wohnbevölkerung hat, die das Bundesamt für Statistik nicht mehr berücksichtigen kann.
 
-<sup>3</sup> Asylsuchende und vorläufig aufgenommene Personen, die in einer Asylunterkunft wohnen, sowie Flüchtlinge, die in einem Beherbergungs-, Ausbildungs- und Integrationszentrum untergebracht sind, zählen unabhängig von der Art der Aufenthaltsbewilligung und der Gesamtaufenthaltsdauer in der Schweiz nicht zur zivilrechtlichen Bevölkerung.
+<sup>3</sup> Asylsuchende, vorläufig Aufgenommene und Schutzbedürftige, die in einer Asylunterkunft wohnen, sowie Flüchtlinge, die in einem Beherbergungs-, Ausbildungs- und Integrationszentrum untergebracht sind, zählen unabhängig von der Art der Aufenthaltsbewilligung und der Gesamtaufenthaltsdauer in der Schweiz nicht zur zivilrechtlichen Bevölkerung.
 
 #### Art. 2
 

@@ -3,13 +3,13 @@ canton: FR
 number: "111.11"
 title: Ordonnance relative à la population dite légale
 language: fr
-version: 2017-10-01
-valid_until: 2024-06-30
-version_adopted: 2017-10-09
+version: 2024-07-01
+valid_until: 2025-01-31
+version_adopted: 2024-06-24
 adopted: 2011-08-16
 in_force: 2011-08-16
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/111.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/4963/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8031/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/fr/versions/4963/pdf_file"
 
 Population dite légale
 
-du 16.08.2011 (version entrée en vigueur le 01.10.2017)
+du 16.08.2011 (version entrée en vigueur le 01.07.2024)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -34,11 +34,11 @@ Il y a cependant deux exceptions à ce principe:
 
 a) Premièrement, en cas d'erreur avérée dans les chiffres officiels publiés par la Confédération, le Conseil d'Etat se réserve la possibilité d'y apporter des corrections.
 
-b) Deuxièmement, les requérants et requérantes d'asile et les personnes admises à titre provisoire logés dans un centre d'hébergement de requérants d'asile ainsi que les réfugié-e-s habitant dans un centre d'hébergement, de formation et d'intégration ne sont pas pris en compte dans la population légale alors qu'ils le sont dans certains cas dans la population résidante permanente. Cette exception est motivée par le fait que la présence de ces personnes dans les centres en question revêt un caractère a priori provisoire, cela quel que soit le permis de séjour dont elles bénéficient et quelle que soit la durée effective de leur séjour en Suisse.
+b) Deuxièmement, les requérants et requérantes d'asile, les personnes admises à titre provisoire et les personnes à protéger logées dans un centre d'hébergement pour les personnes du domaine de l'asile ainsi que les réfugié-e-s habitant dans un centre d'hébergement, de formation et d'intégration ne sont pas pris en compte dans la population légale alors qu'ils le sont dans certains cas dans la population résidante permanente. Cette exception est motivée par le fait que la présence de ces personnes dans les centres en question revêt un caractère a priori provisoire, cela quel que soit le permis de séjour dont elles bénéficient et quelle que soit la durée effective de leur séjour en Suisse.
 
-Ce mode de calcul sera appliqué pour la première fois lors de l'établissement des effectifs au 31 décembre 2017.
+Ce mode de calcul a été appliqué pour la première fois lors de l'établissement des effectifs au 31 décembre 2017. Il le sera dès le 31 décembre 2023 s'agissant des personnes à protéger logées dans l'un des centres cités ci-dessus.
 
-Sur la proposition de la Direction de l'économie et de l'emploi,
+Sur la proposition de la Direction de l'économie, de l'emploi et de la formation professionnelle,
 
 Arrête:
 
@@ -50,7 +50,7 @@ Arrête:
 
 <sup>2</sup> Les effectifs de la population dite légale peuvent être ajustés en cas d'erreurs ou d'imprécisions avérées de la population résidante permanente portées à la connaissance du Service de la statistique du canton de Fribourg et ne pouvant plus être prises en compte par l'Office fédéral de la statistique.
 
-<sup>3</sup> Les requérants et requérantes d'asile et les personnes admises à titre provisoire logés dans un centre d'hébergement de requérants d'asile ainsi que les réfugié-e-s logés dans un centre d'hébergement, de formation et d'intégration ne sont pas comptés dans la population dite légale, cela quels que soient le type de permis dont ils bénéficient et la durée totale de leur séjour en Suisse.
+<sup>3</sup> Les requérants et requérantes d'asile, les personnes admises à titre provisoire et les personnes à protéger logées dans un centre d'hébergement de requérants d'asile ainsi que les réfugié-e-s logés dans un centre d'hébergement, de formation et d'intégration ne sont pas comptés dans la population dite légale, cela quels que soient le type de permis dont ils bénéficient et la durée totale de leur séjour en Suisse.
 
 #### Art. 2
 
