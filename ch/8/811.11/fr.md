@@ -4,11 +4,11 @@ title: "Loi fédérale du 23 juin 2006 sur les professions médicales universita
 short: LPMéd
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/537"
 language: fr
-version: 2023-09-01
+version: 2024-07-01
 adopted: 2006-06-23
 in_force: 2007-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/537/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2007-537-20230901-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/537/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/537/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2007-537-20240701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/537/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/537/20230901/fr"
 
 (Loi sur les professions médicales, LPMéd)[^t-1]
 
-du 23 juin 2006 (État le 1<sup>er</sup> septembre 2023)
+du 23 juin 2006 (État le 1<sup>er</sup> juillet 2024)
 
 [^t-1]: <sup>∗</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -912,6 +912,42 @@ Les autorités cantonales compétentes notifient sans retard au DFI:
 
 [^54-1]: Nouvelle teneur selon le ch. I de la LF du 20 mars 2015, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5583](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 
+## Chapitre 7*a* Aides financières
+
+[^chap7a-1]
+
+[^chap7a-1]: Introduit par l’annexe ch. 4 de la LF du 30 sept. 2016 sur les professions de la santé, en vigueur du 1<sup>er</sup> juil. 2024 au 30 juin 2028 ([RO 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [2024 216](https://fedlex.data.admin.ch/eli/oc/2024/216); [FF 2015 7925](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
+
+#### Art. 54a
+
+**Promotion de l’efficience dans le domaine des soins médicaux de base**
+
+<sup>1</sup>
+
+La Confédération peut, dans le cadre des crédits alloués, octroyer des aides financières à des hautes écoles universitaires, à des organisations responsables de la formation postgrade ainsi qu’à d’autres organes publics et privés pour la réalisation de projets:
+
+- a. qui contribuent, dans le cadre de la formation universitaire et de la formation postgrade ainsi que de l’exercice de la profession, à promouvoir l’efficience dans le domaine des soins médicaux de base, en particulier l’interprofessionnalité;
+- b. qui possèdent un caractère exemplaire suprarégional, et
+- c. qui sont assortis d’une évaluation.
+
+<sup>2</sup> Les hautes écoles universitaires, les organisations responsables de la formation postgrade ainsi que les autres organes publics et privés qui reçoivent les aides financières visées à l’al. 1, mettent les résultats de l’évaluation à la disposition de la Confédération.
+
+<sup>3</sup> Les demandes d’aides financières sont déposées auprès de l’OFSP. Celui-ci accorde l’aide financière sur la base de contrats de prestations ou au moyen d’une décision.
+
+<sup>4</sup> L’aide financière couvre au maximum la moitié des coûts imputables du projet, évaluation incluse.
+
+<sup>5</sup> L’aide financière est octroyée durant trois ans au maximum.
+
+<sup>6</sup> Le Conseil fédéral règle la détermination des aides financières ainsi que la procédure d’octroi de subventions.
+
+#### Art. 54b
+
+**Financement**
+
+<sup>1</sup> L’Assemblée fédérale décide, sous la forme d’un crédit d’engagement pluriannuel, du montant maximal des aides financières de la Confédération conformément à l’art. 54a.
+
+<sup>2</sup> S’il est prévisible que les aides demandées excéderont les moyens à disposition, le Département fédéral de l’intérieur dresse une liste des priorités, en veillant à assurer une répartition régionale équilibrée des moyens.
+
 ## Chapitre 8 Voies de droit et dispositions pénales
 
 ### Section 1 Voies de droit
@@ -1068,10 +1104,10 @@ La loi fédérale du 19 décembre 1877 concernant l’exercice des professions d
 
 <sup>2</sup> Les personnes qui, avant l’entrée en vigueur de la présente modification, n’avaient pas besoin d’une autorisation en vertu du droit cantonal pour exercer leur profession sous leur propre responsabilité professionnelle dans un service public cantonal ou communal doivent être titulaires d’une autorisation au sens de la présente loi au plus tard cinq ans après l’entrée en vigueur de la présente modification.
 
-<sup>3</sup> ...[^67b-2]
+<sup>3</sup> Les art. 54a et 54b sont applicables pendant quatre ans à compter de l’entrée en vigueur de la présente modification. Ils demeurent applicables aux demandes acceptées pendant leur durée de validité.[^67b-2]
 
 [^67b-1]: Introduit par l’annexe ch. 4 de la LF du 30 sept. 2016 sur les professions de la santé, en vigueur depuis le 1<sup>er</sup> fév. 2020 ([RO 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [FF 2015 7925](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
-[^67b-2]: Entre en vigueur ultérieurement.
+[^67b-2]: En vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 216](https://fedlex.data.admin.ch/eli/oc/2024/216)).
 
 ### Section 4 Référendum et entrée en vigueur
 

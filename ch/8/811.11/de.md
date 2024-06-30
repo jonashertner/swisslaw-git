@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 23. Juni 2006 über die universitären Medizinalberufe 
 short: MedBG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/537"
 language: de
-version: 2023-09-01
+version: 2024-07-01
 adopted: 2006-06-23
 in_force: 2007-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/537/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2007-537-20230901-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/537/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/537/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2007-537-20240701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/537/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/537/20230901/de"
 
 (Medizinalberufegesetz, MedBG)
 
-vom 23. Juni 2006 (Stand am 1. September 2023)
+vom 23. Juni 2006 (Stand am 1. Juli 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -907,6 +907,42 @@ Die zuständigen kantonalen Behörden melden dem EDI ohne Verzug:
 
 [^54-1]: Fassung gemäss Ziff. I des BG vom 20. März 2015, in Kraft seit 1. Jan. 2018 ([AS 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [BBl 2013 6205](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 
+## 7*a*. Kapitel: Finanzhilfen
+
+[^chap7a-1]
+
+[^chap7a-1]: Eingefügt durch Anhang Ziff. 4 des Gesundheitsberufegesetzes vom 30. Sept. 2016, in Kraft vom 1. Juli 2024 bis zum 30. Juni 2028 ([AS 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [2024 216](https://fedlex.data.admin.ch/eli/oc/2024/216); [BBl 2015 8715](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
+
+#### Art. 54a
+
+**Förderung der Effizienz in der medizinischen Grundversorgung**
+
+<sup>1</sup>
+
+Der Bund kann im Rahmen der bewilligten Kredite universitären Hochschulen, für die Weiterbildung verantwortlichen Organisationen sowie anderen öffentlichen und privaten Trägerschaften Finanzhilfen gewähren für Projekte, die:
+
+- a. im Rahmen der Aus- und Weiterbildung sowie der Berufsausübung der Förderung der Effizienz in der medizinischen Grundversorgung dienen, insbesondere der Interprofessionalität;
+- b. überregionalen Modellcharakter aufweisen; und
+- c. von einer Evaluation begleitet werden.
+
+<sup>2</sup> Universitäre Hochschulen, für die Weiterbildung verantwortliche Organisationen sowie andere öffentliche und private Trägerschaften, die Finanzhilfen nach Absatz 1 erhalten, stellen dem Bund die Evaluationsergebnisse zur Verfügung.
+
+<sup>3</sup> Gesuche um Finanzhilfen sind beim BAG einzureichen. Dieses gewährt die Finanzhilfe aufgrund von Leistungsverträgen oder mittels Verfügung.
+
+<sup>4</sup> Die Finanzhilfe deckt höchstens die Hälfte der anrechenbaren Kosten des Projektes einschliesslich der Evaluation.
+
+<sup>5</sup> Die Finanzhilfe wird höchstens für drei Jahre ausgerichtet.
+
+<sup>6</sup> Der Bundesrat regelt die Bemessung der Finanzhilfen sowie das weitere Verfahren der Beitragsgewährung.
+
+#### Art. 54b
+
+**Finanzierung**
+
+<sup>1</sup> Die Bundesversammlung beschliesst mit einem mehrjährigen Verpflichtungskredit den Höchstbetrag, bis zu dem der Bund Finanzhilfen nach Artikel 54*a* gewähren darf.
+
+<sup>2</sup> Ist absehbar, dass die Gesuche die zur Verfügung stehenden Mittel übersteigen werden, so erarbeitet das Departement eine Prioritätenliste; dabei achtet es auf eine ausgewogene regionale Verteilung der Mittel.
+
 ## 8. Kapitel: Rechtsschutz und Strafbestimmungen
 
 ### 1. Abschnitt: Rechtsschutz
@@ -1063,10 +1099,10 @@ Das Bundesgesetz vom 19. Dezember 1877[^61-1] betreffend die Freizügigkeit des 
 
 <sup>2</sup> Personen, die vor Inkrafttreten dieser Änderung ihren Beruf im öffentlichen Dienst von Kantonen und Gemeinden in eigener fachlicher Verantwortung ausübten und zu dieser Berufsausübung nach kantonalem Recht keine Bewilligung brauchten, müssen spätestens fünf Jahre nach dessen Inkrafttreten über eine Bewilligung nach diesem Gesetz verfügen.
 
-<sup>3</sup> …[^67b-2]
+<sup>3</sup> Die Artikel 54*a* und 54*b* gelten während vier Jahren nach Inkrafttreten dieser Änderung. Sie bleiben auf die während ihrer Geltungsdauer bewilligten Gesuche anwendbar.[^67b-2]
 
 [^67b-1]: Eingefügt durch Anhang Ziff. 4 des Gesundheitsberufegesetzes vom 30. Sept. 2016, in Kraft seit 1. Febr. 2020 ([AS 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [BBl 2015 8715](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
-[^67b-2]: Noch nicht in Kraft.
+[^67b-2]: In Kraft seit 1. Juli 2024 ([AS 2024 216](https://fedlex.data.admin.ch/eli/oc/2024/216)).
 
 ### 4. Abschnitt: Referendum und Inkrafttreten
 

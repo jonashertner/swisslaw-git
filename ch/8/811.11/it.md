@@ -4,11 +4,11 @@ title: "Legge federale del 23 giugno 2006 sulle professioni mediche universitari
 short: LPMed
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/537"
 language: it
-version: 2023-09-01
+version: 2024-07-01
 adopted: 2006-06-23
 in_force: 2007-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/537/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2007-537-20230901-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/537/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/537/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2007-537-20240701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/537/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/537/20230901/it"
 
 (Legge sulle professioni mediche, LPMed)
 
-del 23 giugno 2006 (Stato 1° settembre 2023)
+del 23 giugno 2006 (Stato 1° luglio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -907,6 +907,42 @@ Le autorità cantonali competenti notificano senza indugio al DFI:
 
 [^54-1]: Nuovo testo giusta il n. I della L del 20 mar. 2015, in vigore dal 1° gen. 2018 ([RU 2015 5081](https://fedlex.data.admin.ch/eli/oc/2015/833), [2017 2703](https://fedlex.data.admin.ch/eli/oc/2017/275); [FF 2013 5363](https://fedlex.data.admin.ch/eli/fga/2013/1112)).
 
+## Capitolo 7*a*: Aiuti finanziari
+
+[^chap7a-1]
+
+[^chap7a-1]: Introdotto dall’all. n. 4 della LF del 30 set. 2016 sulle professioni sanitarie, in vigore dal 1° lug. 2024 fino al 30 giu. 2028 ([RU 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16), [2024 216](https://fedlex.data.admin.ch/eli/oc/2024/216); [FF 2015 7125](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
+
+#### Art. 54a
+
+**Promovimento dell’efficienza nell’ambito delle cure mediche di base**
+
+<sup>1</sup>
+
+Entro i limiti dei crediti stanziati, la Confederazione può concedere aiuti finanziari alle scuole universitarie, a organizzazioni responsabili del perfezionamento nonché ad altre istituzioni pubbliche e private, per la realizzazione di progetti che:
+
+- a. nell’ambito della formazione, del perfezionamento e dell’esercizio della professione, contribuiscono a promuovere l’efficienza nell’ambito delle cure mediche di base e in particolare l’interprofessionalità;
+- b. rivestono un carattere esemplare a livello sovraregionale;
+- c. sono sottoposti a valutazione.
+
+<sup>2</sup> Le scuole universitarie, le organizzazioni responsabili del perfezionamento nonché le altre istituzioni pubbliche e private che ricevono aiuti finanziari secondo il capoverso 1 mettono i risultati della valutazione a disposizione della Confederazione.
+
+<sup>3</sup> Le domande di aiuti finanziari sono presentate all’UFSP. Esso concede gli aiuti finanziari sulla base di contratti di prestazione o mediante decisione.
+
+<sup>4</sup> L’aiuto finanziario copre al massimo la metà dei costi computabili del progetto, inclusi quelli della valutazione.
+
+<sup>5</sup> L’aiuto finanziario è versato per tre anni al massimo.
+
+<sup>6</sup> Il Consiglio federale disciplina il calcolo degli aiuti finanziari e la procedura di concessione dei contributi.
+
+#### Art. 54b
+
+**Finanziamento**
+
+<sup>1</sup> Mediante lo stanziamento di un credito d’impegno pluriennale, l’Assemblea federale determina l’importo massimo a concorrenza del quale la Confederazione può concedere aiuti finanziari conformemente all’articolo 54*a*.
+
+<sup>2</sup> Se si prevede che gli aiuti finanziari richiesti eccederanno i mezzi a disposizione, il Dipartimento stila una lista delle priorità, cercando di garantire una ripartizione equilibrata dei mezzi tra le regioni.
+
 ## Capitolo 8: Rimedi giuridici e disposizioni penali
 
 ### Sezione 1: Rimedi giuridici
@@ -1065,10 +1101,10 @@ La legge federale del 19 dicembre 1877[^61-1] sulla libera circolazione del pers
 
 <sup>2</sup> Chi, prima dell’entrata in vigore della presente modifica, esercitava la sua attività sotto la propria responsabilità professionale alle dipendenze di Cantoni o Comuni e, secondo il diritto cantonale, non necessitava di un’autorizzazione per l’esercizio di tale professione, deve disporre di un’autorizzazione secondo la presente legge entro cinque anni dall’entrata in vigore della presente modifica.
 
-<sup>3</sup> ...[^67b-2]
+<sup>3</sup> Gli articoli 54*a* e 54*b* sono applicabili per quattro anni a contare dall’entrata in vigore della presente modifica. Sono applicabili alle domande accettate durante la loro validità.[^67b-2]
 
 [^67b-1]: Introdotto dall’all. n. 4 della LF del 30 set. 2016 sulle professioni sanitarie, in vigore dal 1° feb. 2020 ([RU 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [FF 2015 7125](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
-[^67b-2]: Entra in vigore in un secondo tempo ([RU 2020 57](https://fedlex.data.admin.ch/eli/oc/2020/16); [FF 2015 7125](https://fedlex.data.admin.ch/eli/fga/2015/2104)).
+[^67b-2]: In vigore dal 1° lug. 2024 ([RU 2024 216](https://fedlex.data.admin.ch/eli/oc/2024/216)).
 
 ### Sezione 4: Referendum ed entrata in vigore
 
