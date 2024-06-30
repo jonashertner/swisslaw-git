@@ -4,11 +4,11 @@ title: "Ordinanza del 3 luglio 2002 sul calcolo dei costi e la registrazione del
 short: OCPre
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/418"
 language: it
-version: 2009-01-01
+version: 2024-07-01
 adopted: 2002-07-03
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/418/20090101/it/xml/fedlex-data-admin-ch-eli-cc-2002-418-20090101-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/418/20090101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/418/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2002-418-20240701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/418/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/418/20090101/it"
 
 (OCPre)[^t-1]
 
-del 3 luglio 2002 (Stato 1° gennaio 2009)
+del 3 luglio 2002 (Stato 1° luglio 2024)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
 
@@ -56,7 +56,8 @@ Il calcolo dei costi e la registrazione delle prestazioni devono essere effettua
 - d.[^2-4] determinare le prestazioni e i costi dell’assicurazione obbligatoria delle cure medico-sanitarie, in relazione con la cura ambulatoriale in ospedale e in una casa per partorienti;
 - e. determinare le prestazioni e i costi delle cure come pure le altre prestazioni dispensate nelle case di cura e nell’ambito della cura per pazienti lungodegenti in ospedale che sono prese a carico dall’assicurazione obbligatoria delle cure medico-sanitarie e i loro costi;
 - f. determinare le prestazioni e i costi delle cure per ogni livello dei bisogni di cure nelle case di cura e nell’ambito della cura per pazienti lungodegenti in ospedale;
-- g.[^2-5] escludere le prestazioni economicamente di interesse generale ai sensi dell’articolo 49 capoverso 3 della legge e i loro costi.
+- g.[^2-5] escludere le prestazioni economicamente di interesse generale ai sensi dell’articolo 49 capoverso 3 della legge e i loro costi;
+- h.[^2-6] escludere i costi coperti dai contributi di cui all’articolo 3 dell’ordinanza dell’8 maggio 2024[^2-7] sulla promozione della formazione in cure infermieristiche.
 
 <sup>2</sup>
 
@@ -75,6 +76,8 @@ La distinzione e la determinazione dei costi e delle prestazioni summenzionati d
 [^2-3]: Abrogato dal n. I dell’O del 22 ott. 2008, con effetto dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
 [^2-4]: Nuovo testo giusta il n. I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
 [^2-5]: Nuovo testo giusta il n. I dell’O del 22 ott. 2008, in vigore dal 1° gen. 2009 ([RU 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
+[^2-6]: Introdotta dall’art. 17 dell’O dell’8 mag. 2024 sulla promozione della formazione in cure infermieristiche, in vigore dal 1° lug. 2024 al 30giugno 2032 ([RU 2024 219](https://fedlex.data.admin.ch/eli/oc/2024/219)).
+[^2-7]: [RS 811.225](https://fedlex.data.admin.ch/eli/cc/2024/219)
 
 ## Sezione 2: Definizioni
 

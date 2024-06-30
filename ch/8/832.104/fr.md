@@ -4,11 +4,11 @@ title: "Ordonnance du 3 juillet 2002 sur le calcul des coûts et le classement d
 short: OCP
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/418"
 language: fr
-version: 2009-01-01
+version: 2024-07-01
 adopted: 2002-07-03
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/418/20090101/fr/xml/fedlex-data-admin-ch-eli-cc-2002-418-20090101-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/418/20090101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/418/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2002-418-20240701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/418/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/418/20090101/fr"
 
 (OCP)[^t-1]
 
-du 3 juillet 2002 (État le 1<sup>er</sup> janvier 2009)
+du 3 juillet 2002 (État le 1<sup>er</sup> juillet 2024)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
 
@@ -56,7 +56,8 @@ Le calcul des coûts et le classement des prestations doivent être effectués d
 - d.[^2-4] de déterminer les prestations et les coûts de l’assurance obligatoire des soins en relation avec les traitements ambulatoires à l’hôpital et dans les maisons de naissance;
 - e. de déterminer les prestations et les coûts des soins ainsi que les autres prestations fournies dans les établissements médico-sociaux et lors de traitement de longue durée à l’hôpital qui sont prises en charge par l’assurance obligatoire des soins et leurs coûts;
 - f. de déterminer les prestations et les coûts des soins pour chaque niveau de soins requis dans les établissements médico-sociaux et lors de traitement de longue durée à l’hôpital;
-- g.[^2-5] d’exclure les prestations d’intérêt général selon l’art. 49, al. 3, de la loi et leurs coûts.
+- g.[^2-5] d’exclure les prestations d’intérêt général selon l’art. 49, al. 3, de la loi et leurs coûts;
+- h.[^2-6] d’exclure les coûts qui sont couverts par les contributions visées à l’art. 3 de l’ordonnance du 8 mai 2024 relative à l’encouragement de la formation dans le domaine des soins infirmiers[^2-7].
 
 <sup>2</sup>
 
@@ -75,6 +76,8 @@ La distinction et la détermination des coûts et des prestations susmentionnés
 [^2-3]: Abrogée par le ch. I de l’O du 22 oct. 2008, avec effet au 1<sup>er</sup> janv. 2009 ([RO 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
 [^2-4]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
 [^2-5]: Nouvelle teneur selon le ch. I de l’O du 22 oct. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2009 ([RO 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
+[^2-6]: Introduite par l’art. 17 de l’O du 8 mai 2024 relative à l’encouragement de la formation dans le domaine des soins infirmiers, en vigueur du 1<sup>er</sup> juil. 2024 au 30 juin 2032 ([RO 2024 219](https://fedlex.data.admin.ch/eli/oc/2024/219)).
+[^2-7]: [RS 811.225](https://fedlex.data.admin.ch/eli/cc/2024/219)
 
 ## Section 2 Définitions
 

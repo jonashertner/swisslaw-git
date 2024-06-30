@@ -4,11 +4,11 @@ title: "Verordnung vom 3. Juli 2002 über die Kostenermittlung und die Leistungs
 short: VKL
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/418"
 language: de
-version: 2009-01-01
+version: 2024-07-01
 adopted: 2002-07-03
 in_force: 2003-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/418/20090101/de/xml/fedlex-data-admin-ch-eli-cc-2002-418-20090101-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/418/20090101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/418/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2002-418-20240701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/418/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/418/20090101/de"
 
 (VKL)[^t-1]
 
-vom 3. Juli 2002 (Stand am 1. Januar 2009)
+vom 3. Juli 2002 (Stand am 1. Juli 2024)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
 
@@ -52,11 +52,12 @@ Die Ermittlung der Kosten und die Erfassung der Leistungen muss so erfolgen, das
 
 - a.[^2-1] die Unterscheidung der Leistungen und der Kosten zwischen der stationären, der ambulanten und der Langzeitbehandlung;
 - b.[^2-2] die Bestimmung der Leistungen und der Kosten der obligatorischen Krankenpflegeversicherung in der stationären Behandlung im Spital und im Geburtshaus;
-- c. ...[^2-3]
+- c. …[^2-3]
 - d.[^2-4] die Bestimmung der Leistungen und der Kosten der obligatorischen Krankenpflegeversicherung in der ambulanten Behandlung im Spital und im Geburtshaus;
 - e. die Bestimmung der Leistungen und der Kosten der Krankenpflege sowie der übrigen von der obligatorischen Krankenpflegeversicherung übernommenen Leistungen und deren Kosten in Pflegeheimen und bei Langzeitbehandlung im Spital;
 - f. die Bestimmungder Leistungen und der Kosten der Krankenpflege für jede Pflegebedarfsstufe in Pflegeheimen und bei Langzeitbehandlung im Spital;
-- g.[^2-5] die Ausscheidung der gemeinwirtschaftlichen Leistungen nach Artikel 49 Absatz 3 des Gesetzes und von deren Kosten.
+- g.[^2-5] die Ausscheidung der gemeinwirtschaftlichen Leistungen nach Artikel 49 Absatz 3 des Gesetzes und von deren Kosten;
+- h.[^2-6] die Ausscheidung der Kosten, die durch die Beiträge nach Artikel 3 der Ausbildungsförderverordnung Pflege vom 8. Mai 2024[^2-7] gedeckt sind.
 
 <sup>2</sup>
 
@@ -75,6 +76,8 @@ Die Unterscheidung und Bestimmung der genannten Kosten und Leistungen soll erlau
 [^2-3]: Aufgehoben durch Ziff. I der V vom 22. Okt. 2008, mit Wirkung seit 1. Jan. 2009 ([AS 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
 [^2-4]: Fassung gemäss Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
 [^2-5]: Fassung gemäss Ziff. I der V vom 22. Okt. 2008, in Kraft seit 1. Jan. 2009 ([AS 2008 5105](https://fedlex.data.admin.ch/eli/oc/2008/709)).
+[^2-6]: Eingefügt durch Art. 17 der Ausbildungsförderverordnung Pflege vom 8. Mai 2024, in Kraft vom 1. Juli 2024 bis zum 30. Juni 2032 ([AS 2024 219](https://fedlex.data.admin.ch/eli/oc/2024/219)).
+[^2-7]: [SR 811.225](https://fedlex.data.admin.ch/eli/cc/2024/219)
 
 ## 2. Abschnitt: Definitionen
 
