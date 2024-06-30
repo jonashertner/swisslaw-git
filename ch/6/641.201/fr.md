@@ -4,11 +4,11 @@ title: Ordonnance du 27 novembre 2009 régissant la taxe sur la valeur ajoutée 
 short: OTVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/828"
 language: fr
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2009-11-27
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-828-20240101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2009-828-20240701-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20240101/fr"
 
 (OTVA)[^t-1]
 
-du 27 novembre 2009 (État le 1<sup>er</sup> janvier 2024)
+du 27 novembre 2009 (État le 1<sup>er</sup> juillet 2024)
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -603,14 +603,13 @@ Sont réputés faire partie des professions du secteur de la santé au sens de l
 - l. les logopédistes-orthophonistes;
 - m. les diététiciens;
 - n. les pédicures-podologues;
-- o.[^35-3] les personnes qui sont habilitées à réaliser des analyses pour le SARS-CoV-2 conformément à l’ordonnance 3 COVID-19 du 19 juin 20201[^35-4], pour la réalisation de ces analyses;
-- p.[^35-5] …
+- o.[^35-3] …
+- p.[^35-4] …
 
 [^35-1]: Nouvelle teneur selon le ch. I de l’O du 18 juin 2010, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2010 2833](https://fedlex.data.admin.ch/eli/oc/2010/371)).
 [^35-2]: Introduite par le ch. I de l’O du 30 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
 [^35-3]: Introduite par le ch. II de l’O du 18 déc. 2020 (Tests rapides SARS-CoV-2) ([RO 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Nouvelle teneur selon le ch. I de l’O du 17 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 déc. 2022, prolongée jusqu’au 30 juin 2024 ([RO 2021 891](https://fedlex.data.admin.ch/eli/oc/2021/891); [2022 838](https://fedlex.data.admin.ch/eli/oc/2022/838)ch. III).
-[^35-4]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^35-5]: Introduite par le ch. II de l’O du 27 janv. 2021 ([RO 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Nouvelle teneur selon le ch. II de l’O du 3 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 déc. 2022, prolongée jusqu’au 31 déc. 2023 ([RO 2021 825](https://fedlex.data.admin.ch/eli/oc/2021/825); [2022 835](https://fedlex.data.admin.ch/eli/oc/2022/835)ch. II).
+[^35-4]: Introduite par le ch. II de l’O du 27 janv. 2021 ([RO 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Nouvelle teneur selon le ch. II de l’O du 3 déc. 2021, en vigueur du 1<sup>er</sup> janv. au 31 déc. 2022, prolongée jusqu’au 31 déc. 2023 ([RO 2021 825](https://fedlex.data.admin.ch/eli/oc/2021/825); [2022 835](https://fedlex.data.admin.ch/eli/oc/2022/835)ch. II).
 
 #### Art. 36
 
@@ -1454,7 +1453,11 @@ L’assujetti a le droit d’appliquer deux taux de la dette fiscale nette, si:
 
 - a. il exerce deux activités ou plus, pour lesquelles l’AFC prévoit des taux de la dette fiscale nette différents, et
 - b.[^86-1] au moins deux de ces activités représentent chacune une part de plus de 10 % du chiffre d’affaires global réalisé provenant de prestations imposables.
-- [tab] <sup>2</sup> La limite de 10 % se calcule:
+
+<sup>2</sup>
+
+La limite de 10 % se calcule:
+
 - a. pour les nouveaux assujettis et pour les assujettis qui débutent une nouvelle activité: sur les chiffres d’affaires escomptés;
 - b. pour les autres assujettis: sur les chiffres d’affaires des deux périodes fiscales précédentes.
 
@@ -2646,7 +2649,7 @@ L’organe consultatif adresse ses avis et ses recommandations au DFF. Il peut i
 <sup>2</sup> Avec l’accord de l’AFC, l’organe consultatif peut informer le public des affaires qu’il traite.
 
 [^162-1]: Nouvelle teneur selon le ch. I de l’O du 18 oct. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^162-2]: www.estv.admin.ch &gt; Taxe sur la valeur ajoutée &gt; Informations spécialisées &gt; Organe consultatif en matière de TVA.
+[^162-2]: [www.estv.admin.ch](http://www.estv.admin.ch) &gt; Taxe sur la valeur ajoutée &gt; Informations spécialisées &gt; Organe consultatif en matière de TVA.
 
 ## Titre 9 Dispositions finales
 

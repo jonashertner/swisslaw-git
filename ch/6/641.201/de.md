@@ -4,11 +4,11 @@ title: Mehrwertsteuerverordnung vom 27. November 2009 (MWSTV)
 short: MWSTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/828"
 language: de
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2009-11-27
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2009-828-20240101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2009-828-20240701-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20240101/de"
 
 (MWSTV)
 
-vom 27. November 2009 (Stand am 1. Januar 2024)
+vom 27. November 2009 (Stand am 1. Juli 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -586,13 +586,12 @@ Als Angehörige von Heil- und Pflegeberufen im Sinn von Artikel 21 Absatz 2 Ziff
 - l. Logopäden und Logopädinnen;
 - m. Ernährungsberater und Ernährungsberaterinnen;
 - n. Podologen und Podologinnen;
-- o.[^35-2] Personen, die nach der Covid-19-Verordnung 3 vom 19. Juni 2020[^35-3] zur Durchführung von Analysen auf Sars-CoV-2 berechtigt sind, für die Durchführung dieser Analysen;
-- p.[^35-4] …
+- o.[^35-2] …
+- p.[^35-3] …
 
 [^35-1]: Eingefügt durch Ziff. I der V vom 30. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
 [^35-2]: Eingefügt durch Ziff. II der V vom 18. Dez. 2020 (Sars-CoV-2-Schnelltests) ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Fassung gemäss Ziff. I der V vom 17. Dez. 2021, in Kraft vom 1. Jan. 2022 bis zum 31. Dez. 2022, verlängert bis zum 30. Juni 2024 ([AS 2021 891](https://fedlex.data.admin.ch/eli/oc/2021/891); [2022 838](https://fedlex.data.admin.ch/eli/oc/2022/838)).
-[^35-3]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^35-4]: Eingefügt durch Ziff. II der V vom 27. Jan. 2021 ([AS 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Fassung gemäss Ziff. II der V vom 3. Dez. 2021, in Kraft vom 1. Jan. 2022 bis zum 31. Dez. 2022, verlängert bis zum 31. Dez. 2023 ([AS 2021 825](https://fedlex.data.admin.ch/eli/oc/2021/825); [2022 835](https://fedlex.data.admin.ch/eli/oc/2022/835)Ziff. II).
+[^35-3]: Eingefügt durch Ziff. II der V vom 27. Jan. 2021 ([AS 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Fassung gemäss Ziff. II der V vom 3. Dez. 2021, in Kraft vom 1. Jan. 2022 bis zum 31. Dez. 2022, verlängert bis zum 31. Dez. 2023 ([AS 2021 825](https://fedlex.data.admin.ch/eli/oc/2021/825); [2022 835](https://fedlex.data.admin.ch/eli/oc/2022/835)Ziff. II).
 
 #### Art. 36
 
@@ -2641,7 +2640,7 @@ Das Konsultativgremium richtet seine Stellungnahmen und Empfehlungen an das EFD.
 
 Die Verordnung vom 29. März 2000[^163-1] zum Bundesgesetz über die Mehrwertsteuer wird aufgehoben.
 
-[^163-1]: [[AS 2000 1347](https://fedlex.data.admin.ch/eli/oc/2000/213), [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)Ziff. II 4, [2004 5387](https://fedlex.data.admin.ch/eli/oc/2004/820), [2006 2353](https://fedlex.data.admin.ch/eli/oc/2006/360)[4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 45, [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 24 [6657](https://fedlex.data.admin.ch/eli/oc/2007/861)Anhang Ziff. 9]
+[^163-1]: [[AS 2000 1347](https://fedlex.data.admin.ch/eli/oc/2000/213); [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)Ziff. II 4; [2004 5387](https://fedlex.data.admin.ch/eli/oc/2004/820); [2006 2353](https://fedlex.data.admin.ch/eli/oc/2006/360), [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)Ziff. II 45; [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 24, [6657](https://fedlex.data.admin.ch/eli/oc/2007/861)Anhang Ziff. 9]
 
 ### 2. Kapitel: Übergangsbestimmungen
 

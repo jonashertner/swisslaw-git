@@ -4,11 +4,11 @@ title: "Ordinanza del 27 novembre 2009 concernente l'imposta sul valore aggiunto
 short: OIVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/828"
 language: it
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2009-11-27
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2009-828-20240101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2009-828-20240701-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20240101/it"
 
 (Ordinanza sull’IVA, OIVA)
 
-del 27 novembre 2009 (Stato 1° gennaio 2024)
+del 27 novembre 2009 (Stato 1° luglio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -595,14 +595,13 @@ Sono considerate professioni mediche e sanitarie ai sensi dell’articolo 21 cap
 - l. logopedisti;
 - m. dietisti;
 - n. podologi;
-- o.[^35-3] persone autorizzate a eseguire analisi per il SARS-CoV-2 secondo l’ordinanza 3 COVID-19 del 19 giugno 2020[^35-4] per l’esecuzione di tali analisi;
-- p.[^35-5] ...
+- o.[^35-3] ....
+- p.[^35-4] ...
 
 [^35-1]: Nuovo testo giusta il n. I dell’O del 18 giu. 2010, in vigore dal 1° gen. 2010 ([RU 2010 2833](https://fedlex.data.admin.ch/eli/oc/2010/371)).
 [^35-2]: Introdotta dal n. I dell’O del 30 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
 [^35-3]: Introdotta dal n. II dell’O del 18 dic. 2020 (Test rapidi SARS-CoV-2) ([RU 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 1° gen. 2022 al 31 dic. 2022, prorogata sino al 30 giu. 2024 ([RU 2021 891](https://fedlex.data.admin.ch/eli/oc/2021/891); [2022 838](https://fedlex.data.admin.ch/eli/oc/2022/838)n. III).
-[^35-4]: [RS 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^35-5]: Introdotta dal n. II dell’O del 27 gen. 2021 ([RU 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Nuovo testo giusta il n. II dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 al 31 dic. 2022, prorogato sino al 31 dic. 2023 ([RU 2021 825](https://fedlex.data.admin.ch/eli/oc/2021/825); [2022 835](https://fedlex.data.admin.ch/eli/oc/2022/835)n. II).
+[^35-4]: Introdotta dal n. II dell’O del 27 gen. 2021 ([RU 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Nuovo testo giusta il n. II dell’O del 3 dic. 2021, in vigore dal 1° gen. 2022 al 31 dic. 2022, prorogato sino al 31 dic. 2023 ([RU 2021 825](https://fedlex.data.admin.ch/eli/oc/2021/825); [2022 835](https://fedlex.data.admin.ch/eli/oc/2022/835)n. II).
 
 #### Art. 36
 
@@ -1841,12 +1840,14 @@ Ai supporti di dati senza valore di mercato sono equiparati segnatamente i segue
 
 <sup>1</sup> Se al momento dell’importazione è chiesta l’imposizione secondo l’articolo 19 capoverso 2 LIVA, la dichiarazione doganale deve essere corredata di un calcolo dei costi.
 
-<sup>2</sup> 3 Gli elementi di costo che non possono essere attribuiti integralmente alle singole prestazioni, quali i costi generali, gli utili o i costi di trasporto, sono ripartiti sulle singole prestazioni proporzionalmente al valore delle stesse.
+<sup>2</sup>
 
 Dal calcolo dei costi devono risultare:
 
 - a. il prezzo di costo delle singole prestazioni;
 - b. la controprestazione complessiva.
+
+<sup>3</sup> Gli elementi di costo che non possono essere attribuiti integralmente alle singole prestazioni, quali i costi generali, gli utili o i costi di trasporto, sono ripartiti sulle singole prestazioni proporzionalmente al valore delle stesse.
 
 <sup>4</sup> Per verificare la correttezza del calcolo, l’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^112-1] può esigere documenti supplementari.
 
@@ -2648,7 +2649,7 @@ L’organo consultivo presenta i propri pareri e le proprie raccomandazioni all�
 <sup>2</sup> L’organo consultivo può informare il pubblico, con il consenso dell’AFC, riguardo agli affari da esso trattati.
 
 [^162-1]: Nuovo testo giusta il n. I dell’O del 18 ott. 2017, in vigore dal 1° gen. 2018 ([RU 2017 6307](https://fedlex.data.admin.ch/eli/oc/2017/696)).
-[^162-2]: www.estv.admin.ch &gt; Imposta sul valore aggiunto &gt; Informazioni specifiche &gt; Organo consultivo.
+[^162-2]: [www.estv.admin.ch](http://www.estv.admin.ch) &gt; Imposta sul valore aggiunto &gt; Informazioni specifiche &gt; Organo consultivo.
 
 ## Titolo nono: Disposizioni finali
 

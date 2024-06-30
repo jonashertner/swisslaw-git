@@ -4,11 +4,11 @@ title: "Ordinance of 27 November 2009 on Value Added Tax (Value Added Tax Ordina
 short: VAT Ordinance
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/828"
 language: en
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2009-11-27
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2009-828-20240101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20240101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/828/20240701/en/xml/fedlex-data-admin-ch-eli-cc-2009-828-20240701-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/828/20240701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Value Added Tax Ordinance, VAT Ordinance)
 
-of 27 November 2009 (Status as of 1 January 2024)
+of 27 November 2009 (Status as of 1 July 2024)
 
 The Swiss Federal Council,
 
@@ -588,13 +588,12 @@ Members of human medical and nursing professions within the meaning of Article 2
 - l. speech therapists;
 - m. dietary advisers;
 - n. podologists;
-- o.[^35-2] persons authorised to conduct analyses for Sars-CoV-2 pursuant to the COVID-19 Ordinance 3 of 19 June 2020[^35-3], for the conduct of these analyses;
-- p.[^35-4] …
+- o.[^35-2] …
+- p.[^35-3] …
 
 [^35-1]: Inserted by No I of the O of 30 Oct. 2013, in force since 1 Jan. 2014 ([AS 2013 3839](https://fedlex.data.admin.ch/eli/oc/2013/704)).
 [^35-2]: Inserted by No II of the O of 18 Dec. 2020 (Sars-CoV-2 Rapid Tests) ([AS 2020 5801](https://fedlex.data.admin.ch/eli/oc/2020/977)). Amended by No I of the O of 17 Dec. 2021, in force since 1 Jan. 2022 until 31 Dec. 2022, extended to 30 June 2024 ([AS 2021 891](https://fedlex.data.admin.ch/eli/oc/2021/891); [2022 838](https://fedlex.data.admin.ch/eli/oc/2022/838)).
-[^35-3]: [SR 818.101.24](https://fedlex.data.admin.ch/eli/cc/2020/438)
-[^35-4]: Inserted by No II of the O of 27 Jan. 2021 ([AS 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Amended by No II of the O of 3 Dec. 2021, in force from 1 Jan. 2022 until 31 Dec. 2022, extended to 31 Dec. 2023 ([AS 2021 825](https://fedlex.data.admin.ch/eli/oc/2021/825); [2022 835](https://fedlex.data.admin.ch/eli/oc/2022/835)No II).
+[^35-3]: Inserted by No II of the O of 27 Jan. 2021 ([AS 2021 53](https://fedlex.data.admin.ch/eli/oc/2021/53)). Amended by No II of the O of 3 Dec. 2021, in force from 1 Jan. 2022 until 31 Dec. 2022, extended to 31 Dec. 2023 ([AS 2021 825](https://fedlex.data.admin.ch/eli/oc/2021/825); [2022 835](https://fedlex.data.admin.ch/eli/oc/2022/835)No II).
 
 #### Art. 36
 
@@ -1985,7 +1984,7 @@ Articles 118–120 apply by analogy for authorisation under Article 63 paragraph
 
 Businesses that exclusively provide supplies on Swiss territory that are exempt from tax without credit may opt not to register with the FTA as a taxable person. The foregoing also applies to businesses without a place of business, domicile or permanent establishment on Swiss territory if they also make supplies for which they are exempt from tax under Article 10 paragraph 2 letter b VAT Act.
 
-### Section1*a*Paperless Receipts, Electronic Procedures
+### Section 1*a* Paperless Receipts, Electronic Procedures
 
 [^tit5-chap1-sec1a-1]
 
@@ -2642,7 +2641,7 @@ The Consultative Commission submits its comments and recommendations to the FDF.
 
 The Ordinance of 29 March 2000[^163-1] to the Federal Act on Value Added Tax is repealed.
 
-[^163-1]: [[AS 2000 1347](https://fedlex.data.admin.ch/eli/oc/2000/213); [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)No II 4; [2004 5387](https://fedlex.data.admin.ch/eli/oc/2004/820); [2006 2353](https://fedlex.data.admin.ch/eli/oc/2006/360), [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)No II 45; [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Annex 4 No 24, [6657](https://fedlex.data.admin.ch/eli/oc/2007/861)Annex No 9]
+[^163-1]: [[AS 2000 1347](https://fedlex.data.admin.ch/eli/oc/2000/213); [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)No II 4; [2004 5387](https://fedlex.data.admin.ch/eli/oc/2004/820); [2006 2353](https://fedlex.data.admin.ch/eli/oc/2006/360); [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)No II 45; [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Annex 4 No 24: 6657 Annex No 9]
 
 ### Chapter 2 Transitional Provisions
 
