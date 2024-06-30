@@ -4,11 +4,11 @@ title: Ordinanza del 27 giugno 1995 sulle epizoozie (OFE)
 short: OFE
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716"
 language: it
-version: 2024-06-01
+version: 2024-07-01
 adopted: 1995-06-27
 in_force: 1995-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20240601/it/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20240601-it-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20240601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20240701/it/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20240701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20240601/it"
 
 (OFE)
 
-del 27 giugno 1995 (Stato 1° giugno 2024)
+del 27 giugno 1995 (Stato 1° luglio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -86,7 +86,7 @@ Sono considerate epizoozie da eradicare le seguenti malattie:
 - e. la tubercolosi;
 - f. la leucosi enzootica bovina;
 - g. la rinotracheite infettiva dei bovini/vulvovaginite pustolosa infettiva (IBR-IPV);
-- [tab] g<sup>bis</sup>.[^3-1] la diarrea virale bovina;
+- g<sup>bis</sup>.[^3-1] la diarrea virale bovina;
 - h. l’encefalopatia spongiforme bovina e la scrapie;
 - i.[^3-2] le infezioni genitali bovine: infezioni da *Campylobacter fetus* e *Tritri**cho**monas foetus*;
 - i<sup>bis</sup>.[^3-3] la besnoitiosi;
@@ -95,7 +95,7 @@ Sono considerate epizoozie da eradicare le seguenti malattie:
 - m.[^3-4] ...
 - n.[^3-5] le epizoozie degli equini: il morbo coitale maligno e l’anemia infettiva;
 - o. la brucellosi suina;
-- [tab] o<sup>bis</sup>.[^3-6] la sindrome riproduttiva e respiratoria dei suini;
+- o<sup>bis</sup>.[^3-6] la sindrome riproduttiva e respiratoria dei suini;
 - p. la necrosi ematopoietica infettiva;
 - q. la setticemia emorragica virale;
 - r.[^3-7] l’anemia infettiva dei salmonidi.
@@ -155,14 +155,14 @@ Sono considerate epizoozie da combattere le seguenti malattie:
 Sono considerate epizoozie da sorvegliare le seguenti malattie:
 
 - a.[^5-1] la micoplasmosi dei polli e dei tacchini (*Mycoplasma gallisepticum, M. meleagridis*);
-- [tab] a<sup>bis</sup>.[^5-2]le infezioni da *Salmonella Pullorum*, *S. Gallinarum* o *S. arizonae* del pollame;
+- a<sup>bis</sup>.[^5-2] le infezioni da *Salmonella Pullorum*, *S. Gallinarum* o *S. arizonae* del pollame;
 - b. la campilobatteriosi;
 - c. l’echinococcosi;
 - d. la listeriosi;
 - e. la toxoplasmosi;
 - f.[^5-3] l’infezione da virus Ebola delle scimmie;
 - g.[^5-4] la tubercolosi dei mammiferi, ad eccezione di animali della specie bovina, bufali e bisonti;
-- [tab] g<sup>bis</sup>.[^5-5] l’infezione da *Batrachochytrium salamandrivorans* degli urodeli;
+- g<sup>bis</sup>.[^5-5] l’infezione da *Batrachochytrium salamandrivorans* degli urodeli;
 - h. il Maedi-Visna;
 - i. la pseudotubercolosi degli ovicaprini;
 - k. l’adenomatosi polmonare;
@@ -176,7 +176,7 @@ Sono considerate epizoozie da sorvegliare le seguenti malattie:
 - s. la tularemia;
 - t. la malattia emorragica del coniglio;
 - u.[^5-10] le acariosi delle api (*Varroa destructor*, *Acarapis woodi* e *Tropilaelaps* spp.);
-- [tab] u<sup>bis</sup>.[^5-11] ...
+- u<sup>bis</sup>.[^5-11] ...
 - v.[^5-12] neosporosi;
 - w.[^5-13] l’herpesvirosi della carpa Koi;
 - x.[^5-14] la coxiellosi;
@@ -418,8 +418,8 @@ L’identificazione può essere effettuata solo dalle persone seguenti:
 <sup>6</sup> Il microchip può essere fornito esclusivamente a veterinari. Le persone di cui al capoverso 2 lettere b e c possono procurarselo esclusivamente da veterinari.
 
 [^11a-1]: Introdotto dal n. I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
-[^11a-2]: I testi delle norme menzionate possono essere consultati gratuitamente od ottenuti a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^11a-3]: I testi delle norme menzionate possono essere consultati gratuitamente od ottenuti a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^11a-2]: I testi delle norme menzionate possono essere consultati gratuitamente od ottenuti a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
+[^11a-3]: I testi delle norme menzionate possono essere consultati gratuitamente od ottenuti a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
 [^11a-4]: [RS 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
 
 #### Art. 11b
@@ -546,8 +546,8 @@ Egli annuncia al gestore della banca dati sul traffico di animali:[^14-3]
 
 <sup>4</sup> Questi microchip possono essere forniti e trasmessi solo alle persone autorizzate di cui al capoverso 2.
 
-[^15a-1]: I testi delle norme menzionate possono essere consultati gratuitamente od ottenuti a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^15a-2]: I testi delle norme menzionate possono essere consultati gratuitamente od ottenuti a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^15a-1]: I testi delle norme menzionate possono essere consultati gratuitamente od ottenuti a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
+[^15a-2]: I testi delle norme menzionate possono essere consultati gratuitamente od ottenuti a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
 [^15a-3]: [RS 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
 [^15a-4]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
@@ -787,7 +787,7 @@ Al momento dell’identificazione si rilevano i seguenti dati relativi al cane:
 - d. razza o tipo di razza;
 - e. colore del manto;
 - f. nome, cognome e indirizzo della persona presso la quale è nato il cane;
-- f. nome, cognome e indirizzo del detentore del cane al momento dell’identificazione;
+- g. nome, cognome e indirizzo del detentore del cane al momento dell’identificazione;
 - h. nome e cognome del veterinario che esegue l’identificazione;
 - i. data dell’identificazione.
 - j. numero del microchip.
@@ -807,8 +807,8 @@ Al momento dell’identificazione si rilevano i seguenti dati relativi al cane:
 <sup>4</sup> Al momento della cessione dei microchip, il veterinario deve notificare al gestore della banca dati il nome del destinatario e i numeri dei microchip.
 
 [^17a-1]: Introdotto dal n. I dell’O del 20 giu. 2014 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)). Nuovo testo giusta il n. I dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 721](https://fedlex.data.admin.ch/eli/oc/2018/90)).
-[^17a-2]: I testi delle norme menzionate possono essere consultati gratuitamente od ottenuti a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^17a-3]: I testi delle norme menzionate possono essere consultati gratuitamente od ottenuti a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^17a-2]: I testi delle norme menzionate possono essere consultati gratuitamente od ottenuti a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
+[^17a-3]: I testi delle norme menzionate possono essere consultati gratuitamente od ottenuti a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
 [^17a-4]: [RS 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
 [^17a-5]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
@@ -1226,7 +1226,7 @@ Durante il controllo devono essere verificati e documentati i seguenti aspetti:
 <sup>4</sup> Per il resto si applicano le disposizioni dell’ordinanza del 5 novembre 1986[^25-2] sul trasporto pubblico, dell’ordinanza del 13 novembre 1962[^25-3] sulle norme della circolazione stradale, dell’ordinanza del 19 giugno 1995[^25-4] concernente le esigenze tecniche per i veicoli stradali e dell’ordinanza del 27 maggio 1981[^25-5] sulla protezione degli animali.
 
 [^25-1]: Per. introdotto dal n. I dell’O del 15 mar. 1999, in vigore dal 1° lug. 1999 ([RU 1999 1523](https://fedlex.data.admin.ch/eli/oc/1999/229)).
-[^25-2]: [[RU 1986 1991](https://fedlex.data.admin.ch/eli/oc/1986/1991_1991_1991), [1994 1848](https://fedlex.data.admin.ch/eli/oc/1994/1848_1848_1848), [1996 3035](https://fedlex.data.admin.ch/eli/oc/1996/3035_3035_3035), [1999 719](https://fedlex.data.admin.ch/eli/oc/1999/105), [2004 2697](https://fedlex.data.admin.ch/eli/oc/2004/324). [RU 2009 6025](https://fedlex.data.admin.ch/eli/oc/2009/738)art. 6]. Vedi ora l’O del 4 nov. 2009 sul trasporto di merci ([RS 742.411](https://fedlex.data.admin.ch/eli/cc/2016/329)).
+[^25-2]: [[RU 1986 1991](https://fedlex.data.admin.ch/eli/oc/1986/1991_1991_1991), [1994 1848](https://fedlex.data.admin.ch/eli/oc/1994/1848_1848_1848), [1996 3035](https://fedlex.data.admin.ch/eli/oc/1996/3035_3035_3035), [1999 719](https://fedlex.data.admin.ch/eli/oc/1999/105), [2004 2697](https://fedlex.data.admin.ch/eli/oc/2004/324). [RU 2009 6025](https://fedlex.data.admin.ch/eli/oc/2009/738)art. 6]. Vedi ora l’O del 25 mag. 2016 sul trasporto di merci ([RS 742.411](https://fedlex.data.admin.ch/eli/cc/2016/329)).
 [^25-3]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
 [^25-4]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 [^25-5]: [[RU 1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572); [1986 1408](https://fedlex.data.admin.ch/eli/oc/1986/1408_1408_1408); [1991 2349](https://fedlex.data.admin.ch/eli/oc/1991/2349_2349_2349); [1997 1121](https://fedlex.data.admin.ch/eli/oc/1997/1121_1121_1121); [1998 2303](https://fedlex.data.admin.ch/eli/oc/1998/2303_2303_2303); [2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)all. n. 1, [2063](https://fedlex.data.admin.ch/eli/oc/2001/304); [2006 1427](https://fedlex.data.admin.ch/eli/oc/2006/242), [5217](https://fedlex.data.admin.ch/eli/oc/2006/791)all. n. 2; [2007 1847](https://fedlex.data.admin.ch/eli/oc/2007/269)all. 3 n. 1. [RU 2008 2985](https://fedlex.data.admin.ch/eli/oc/2008/416)all. 6 n. I]. Vedi ora l’O del 23 apr. 2008 ([RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)).
@@ -1276,7 +1276,7 @@ Durante il controllo devono essere verificati e documentati i seguenti aspetti:
 
 **Controllo del traffico di animali**[^29-1]
 
-- [tab] <sup>1</sup> I certificati di accompagnamento degli animali presentati devono essere controllati all’entrata del mercato di bestiame da una persona designata dall’organizzatore.
+<sup>1</sup> I certificati di accompagnamento degli animali presentati devono essere controllati all’entrata del mercato di bestiame da una persona designata dall’organizzatore.
 
 <sup>2</sup> L’USAV emana prescrizioni tecniche sul controllo del traffico di animali.
 
@@ -1494,7 +1494,7 @@ Il veterinario cantonale dispone che le stalle dei commercianti di bestiame e le
 
 **Eliminazione dei sottoprodotti di origine animale[^40-1]**
 
-<sup>1</sup> I sottoprodotti di origine animale devono essere eliminati conformemente alle prescrizioni dell’OESPA[^40-2], nella misura in cui la presente ordinanza non prescriva trattamenti particolari.[^40-3]
+<sup>1</sup> I sottoprodotti di origine animale devono essere eliminati conformemente alle prescrizioni dell’OSOAn[^40-2], nella misura in cui la presente ordinanza non prescriva trattamenti particolari.[^40-3]
 
 <sup>2</sup> Non possono essere trasportati assieme ad animali.
 
@@ -1650,7 +1650,7 @@ Nella misura in cui le disposizioni dell’articolo 54 capoverso 2 lettere c e d
 
 **Esecuzione dell’inseminazione artificiale**[^53-1]
 
-<sup>1</sup> Possono effettuare inseminazioni artificiali i veterinari e le persone in possesso di una delle autorizzazioni di cui all’articolo 51*a* capoverso 1.
+Possono effettuare inseminazioni artificiali i veterinari e le persone in possesso di una delle autorizzazioni di cui all’articolo 51*a* capoverso 1.
 
 [^53-1]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
@@ -2141,7 +2141,7 @@ L’USAV stabilisce, previa consultazione dei veterinari cantonali:
 
 <sup>4</sup> Ordina, previa consultazione dei veterinari cantonali, ulteriori analisi qualora nell’ambito del programma di sorveglianza siano stati rilevati effettivi infetti.
 
-[^76a-1]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^76a-1]: Introdotto dal n. I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 76b
 
@@ -2512,15 +2512,15 @@ In situazioni d’emergenza, il DFI può ordinare:
 Il veterinario cantonale può autorizzare la consegna di latte proveniente da effettivi sotto sequestro, ordinando i necessari provvedimenti di sicurezza e sotto vigilanza sanitaria, se il latte viene trasportato direttamente:[^101-1]
 
 - a.[^101-2] in un centro di raccolta del latte in cui prima della trasformazione o della consegna viene pastorizzato secondo le disposizioni emanate dal DFI in virtù dell’articolo 10 capoverso 4 ODerr[^101-3];
-- b. in un impianto in cui viene eliminato come sottoprodotto di origine animale della categoria 2 ai sensi dell’articolo 6 OESA[^101-4].[^101-5]
+- b. in un impianto in cui viene eliminato come sottoprodotto di origine animale della categoria 2 ai sensi dell’articolo 6 OSOAn[^101-4].[^101-5]
 
 <sup>2</sup>
 
 Il veterinario cantonale provvede affinché:
 
 - a. i locali e le installazioni infetti dei centri di raccolta, nei quali sono state effettuate consegne di latte tra il momento della presunta propagazione dell’epizoozia nell’effettivo e il momento in cui sono stati ordinati i provvedimenti di sequestro, siano immediatamente puliti e disinfettati;
-- b. i latticini prodotti con latte presumibilmente infetto vengano eliminati come sottoprodotti di origine animale della categoria 2 ai sensi dell’articolo 6 OESA[^101-6] [^101-7] o siano utilizzati in modo tale da impedire una propagazione dell’epizoozia;
-- c. la carne prodotta da animali ad unghia fessa di un effettivo infetto, macellata tra il momento della presunta propagazione dell’epizoozia nell’effettivo e il momento in cui sono stati ordinati i provvedimenti di sequestro, sia nel limite del possibile individuata ed eliminata come sottoprodotto di origine animale della categoria 2 ai sensi dell’articolo 6 OESA.
+- b. i latticini prodotti con latte presumibilmente infetto vengano eliminati come sottoprodotti di origine animale della categoria 2 ai sensi dell’articolo 6 OSOAn[^101-6] [^101-7] o siano utilizzati in modo tale da impedire una propagazione dell’epizoozia;
+- c. la carne prodotta da animali ad unghia fessa di un effettivo infetto, macellata tra il momento della presunta propagazione dell’epizoozia nell’effettivo e il momento in cui sono stati ordinati i provvedimenti di sequestro, sia nel limite del possibile individuata ed eliminata come sottoprodotto di origine animale della categoria 2 ai sensi dell’articolo 6 OSOAn.
 
 <sup>2bis</sup> Informa il chimico cantonale in merito alle disposizioni di cui ai capoversi 1 lettera a e 2 lettere b e c.[^101-8]
 
@@ -2683,7 +2683,7 @@ Il veterinario cantonale istituisce una zona di sorveglianza nel raggio di 3 km 
 
 <sup>1</sup> In deroga all’articolo 85 capoverso 2 lettera b, il veterinario cantonale può ordinare la macellazione immediata degli animali della specie bovina clinicamente sani.
 
-<sup>2</sup> La testa e i visceri degli animali macellati devono essere eliminati come sottoprodotti di origine animale della categoria 2 ai sensi dell’articolo 6 OESA[^109-1].
+<sup>2</sup> La testa e i visceri degli animali macellati devono essere eliminati come sottoprodotti di origine animale della categoria 2 ai sensi dell’articolo 6 OSOAn[^109-1].
 
 [^109-1]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
 
@@ -2924,7 +2924,7 @@ Sono considerati ricettivi alla peste suina i seguenti animali:
 
 <sup>3</sup> La macellazione di suini nel macello in questione è nuovamente ammessa al più presto il giorno successivo a quello in cui sono state effettuate la pulizia e la disinfezione.
 
-<sup>4</sup> Il veterinario cantonale provvede affinché la carne di suini provenienti da effettivi infetti, macellati tra il momento della presunta propagazione dell’epizoozia nell’effettivo e il momento in cui sono stati ordinati i provvedimenti di sequestro, sia nella misura del possibile individuata ed eliminata come sottoprodotto di origine animale della categoria 2 ai sensi dell’articolo 6 OESA[^117-1].
+<sup>4</sup> Il veterinario cantonale provvede affinché la carne di suini provenienti da effettivi infetti, macellati tra il momento della presunta propagazione dell’epizoozia nell’effettivo e il momento in cui sono stati ordinati i provvedimenti di sequestro, sia nella misura del possibile individuata ed eliminata come sottoprodotto di origine animale della categoria 2 ai sensi dell’articolo 6 OSOAn[^117-1].
 
 <sup>5</sup> La carne dei suini può essere portata fuori dalle zone di sorveglianza e di protezione solo con l’autorizzazione del veterinario cantonale; l’USAV emana prescrizioni tecniche sull’identificazione e il trattamento di questa carne.
 
@@ -3099,7 +3099,7 @@ Nel caso in cui abbia autorizzato le deroghe di cui al capoverso 2, il veterinar
 
 Il veterinario cantonale provvede affinché:
 
-- a. i prodotti provenienti da effettivi infetti, come la carne di pollame, le uova da consumo, le uova da cova e i pulcini, ottenuti nel periodo tra la presunta propagazione dell’epizoozia e il momento in cui sono stati ordinati i provvedimenti di sequestro, siano individuati ed eliminati come sottoprodotto di origine animale della categoria 2 ai sensi dell’articolo 6 OESA[^122d-1] e le aziende di destinazione siano pulite e disinfettate;
+- a. i prodotti provenienti da effettivi infetti, come la carne di pollame, le uova da consumo, le uova da cova e i pulcini, ottenuti nel periodo tra la presunta propagazione dell’epizoozia e il momento in cui sono stati ordinati i provvedimenti di sequestro, siano individuati ed eliminati come sottoprodotto di origine animale della categoria 2 ai sensi dell’articolo 6 OSOAn[^122d-1] e le aziende di destinazione siano pulite e disinfettate;
 - b. i materiali di trasporto e d’imballaggio contaminati siano disinfettati o eliminati;
 - c. ogni caso di sospetto o di epizoozia sia notificato al veterinario cantonale;
 - d. le persone esposte al contagio siano protette da tale rischio.
@@ -3191,7 +3191,7 @@ La malattia di Newcastle è diagnosticata se:
 
 <sup>1</sup> Se la malattia di Newcastle si manifesta in pollame tenuto in cattività, il veterinario cantonale vieta il movimento di uova, contenitori di trasporto e imballaggi per uova nonché lo spandimento di letame proveniente da effettivi sospetti di contagio, sospetti di epizoozia o infetti.
 
-<sup>2</sup> Il veterinario cantonale provvede affinché i prodotti, provenienti da effettivi infetti, come la carne di pollame, le uova da consumo, le uova da cova e i pulcini prodotti nel periodo compreso tra la presunta propagazione dell’epizoozia e il momento in cui sono stati ordinati i provvedimenti di sequestro, siano individuati ed eliminati come sottoprodotti della categoria 2 secondo l’articolo 6 OESA[^123a-2]. Occorre eliminare anche i contenitori di trasporto e gli imballaggi per uova provenienti dall’effettivo infetto, se questi non possono essere convenientemente puliti e disinfettati.
+<sup>2</sup> Il veterinario cantonale provvede affinché i prodotti, provenienti da effettivi infetti, come la carne di pollame, le uova da consumo, le uova da cova e i pulcini prodotti nel periodo compreso tra la presunta propagazione dell’epizoozia e il momento in cui sono stati ordinati i provvedimenti di sequestro, siano individuati ed eliminati come sottoprodotti della categoria 2 secondo l’articolo 6 OSOAn[^123a-2]. Occorre eliminare anche i contenitori di trasporto e gli imballaggi per uova provenienti dall’effettivo infetto, se questi non possono essere convenientemente puliti e disinfettati.
 
 <sup>3</sup> In deroga all’articolo 94 capoverso 2, trascorsi dieci giorni il veterinario cantonale d’intesa con l’USAV può revocare il sequestro semplice di 2° grado di effettivi sospetti di contagio se l’esame clinico di tutti gli animali ricettivi come pure l’esame sierologico del sangue e la messa in evidenza del genoma virale effettuati su un campione di animali sospetti di contagio hanno avuto esito negativo.
 
@@ -3555,7 +3555,7 @@ Nella zona di sequestro sono applicabili le seguenti disposizioni:
 - c. chi trova volpi o tassi morti, deve annunciarlo al più vicino posto di polizia oppure alla polizia della caccia;
 - d. i gatti abbandonati o randagi, che presentano sintomi sospetti di rabbia, devono essere uccisi dalla polizia, dalla polizia della caccia oppure dai titolari di un permesso di caccia;
 - e. i cani randagi che non possono essere catturati devono essere uccisi dalla polizia, dalla polizia della caccia o dai titolari di un permesso di caccia. Per la cattura dev’essere richiesta possibilmente la partecipazione del detentore del cane;
-- f. gli animali uccisi, la selvaggina morta e le teste recise devono essere eliminati come sottoprodotti di origine animale della categoria 2 ai sensi dell’articolo 6 OESA[^147-1], qualora non risulti necessario un esame delle teste o delle carcasse;
+- f. gli animali uccisi, la selvaggina morta e le teste recise devono essere eliminati come sottoprodotti di origine animale della categoria 2 ai sensi dell’articolo 6 OSOAn[^147-1], qualora non risulti necessario un esame delle teste o delle carcasse;
 - g. all’interno e ai margini dei boschi i cani devono essere tenuti al guinzaglio. Nelle altre zone possono essere lasciati in libertà sotto stretta sorveglianza. Non sono soggetti a queste limitazioni i cani vaccinati delle guardie di confine, della polizia, dell’esercito e da valanga quando sono in servizio nonché i cani da caccia durante l’attività venatoria;
 - h. gli animali che hanno morso una persona devono essere posti sotto sorveglianza durante dieci giorni ed in seguito visitati dal veterinario ufficiale. Fino a tale termine possono essere uccisi unicamente con l’autorizzazione del veterinario ufficiale;
 - i. nei giardini zoologici, parchi naturali e strutture simili, dove gli animali possono entrare in contatto con i visitatori, vanno adottate misure volte alla tutela di questi ultimi.
@@ -3653,8 +3653,8 @@ In caso di diagnosi di brucellosi bovina il veterinario cantonale ordina il sequ
 
 - a. gli animali infetti siano uccisi ed eliminati immediatamente;
 - b. gli animali sospetti che manifestano sintomi di aborto come pure quelli che partoriscono normalmente siano isolati o macellati prima della fuoriuscita delle acque;
-- c. tutti i feti abortiti e le placente siano eliminati come sottoprodotti di origine animale della categoria 2 ai sensi dell’articolo 6 OESA[^155-1];
-- d. il latte degli animali sospetti o infetti sia eliminato come sottoprodotto di origine animale della categoria 2 ai sensi dell’articolo 6 OESA oppure bollito ed impiegato come alimento per animali nell’effettivo interessato;
+- c. tutti i feti abortiti e le placente siano eliminati come sottoprodotti di origine animale della categoria 2 ai sensi dell’articolo 6 OSOAn[^155-1];
+- d. il latte degli animali sospetti o infetti sia eliminato come sottoprodotto di origine animale della categoria 2 ai sensi dell’articolo 6 OSOAn oppure bollito ed impiegato come alimento per animali nell’effettivo interessato;
 - e. le stalle siano pulite e disinfettate.
 
 <sup>2</sup>
@@ -3746,7 +3746,7 @@ In caso di diagnosi di tubercolosi il veterinario cantonale ordina il sequestro 
 
 - a.[^163-1] gli animali infetti o sospetti siano isolati immediatamente;
 - a<sup>bis</sup>.[^163-2] entro dieci giorni siano macellati gli animali sospetti e uccisi gli animali infetti;
-- b. il latte degli animali infetti o sospetti sia eliminato come sottoprodotto di origine animale della categoria 2 ai sensi dell’articolo 6 OESA[^163-3] oppure bollito ed impiegato come alimento per animali nell’effettivo interessato;
+- b. il latte degli animali infetti o sospetti sia eliminato come sottoprodotto di origine animale della categoria 2 ai sensi dell’articolo 6 OSOAn[^163-3] oppure bollito ed impiegato come alimento per animali nell’effettivo interessato;
 - c. le stalle siano pulite e disinfettate.
 
 <sup>2</sup> Il sequestro è revocato quando la duplice analisi di tutti i bovini di età superiore alle sei settimane dà esclusivamente risultati negativi. La prima analisi può essere effettuata al più presto 180 giorni dopo l’eliminazione dell’ultimo animale sospetto o infetto e la seconda analisi al più presto 180 giorni dopo la prima.[^163-4]
@@ -4212,7 +4212,7 @@ Per i bovini provenienti da Stati con un rischio di BSE controllato o indetermin
 - a. nei bovini di tutte le fasce d’età: le tonsille, gli ultimi quattro metri dell’intestino tenue, il cieco e il mesentere;
 - b. nei bovini di età superiore ai 30 mesi: la colonna vertebrale inclusi i gangli spinali, ad eccezione delle vertebre caudali, dell’apofisi spinale e delle apofisi traverse delle vertebre cervicali, toraciche e lombari, della *Crista sacralis* mediana e delle ali del sacro.[^179d-3]
 
-<sup>2</sup> Il materiale a rischio specificato deve essere eliminato subito dopo la macellazione come sottoprodotto di origine animale della categoria 1 secondo l’articolo 22 OESA[^179d-4].[^179d-5]
+<sup>2</sup> Il materiale a rischio specificato deve essere eliminato subito dopo la macellazione come sottoprodotto di origine animale della categoria 1 secondo l’articolo 22 OSOAn[^179d-4].[^179d-5]
 
 <sup>3</sup> Dopo lo stordimento la base del cervello non può essere distrutta.
 
@@ -4285,7 +4285,7 @@ In caso di diagnosi di scrapie nell’effettivo in cui è stato tenuto l’anima
 
 <sup>3</sup> Se gli animali di cui al capoverso 1 lettera f vengono sottoposti a una genotipizzazione, quelli che presentano almeno un allele ARR e nessun allele VRQ non vengono uccisi o macellati. Il sequestro semplice di 1° grado è revocato non appena nell’effettivo sono presenti solo animali con almeno un allele ARR e nessun allele VRQ.
 
-<sup>4</sup> Se vengono macellati animali di età inferiore ai due mesi (cpv. 1 lett. f), la testa e gli organi della cavità addominale vengono eliminati conformemente all’articolo 22 capoverso 1 OESA[^180b-2].[^180b-3]
+<sup>4</sup> Se vengono macellati animali di età inferiore ai due mesi (cpv. 1 lett. f), la testa e gli organi della cavità addominale vengono eliminati conformemente all’articolo 22 capoverso 1 OSOAn[^180b-2].[^180b-3]
 
 <sup>5</sup> Per alcune razze rare il veterinario cantonale può, in via eccezionale e dopo aver consultato l’USAV, rinunciare all’uccisione dell’effettivo (cpv. 1 lett. f). In questo caso per tutta la durata del sequestro l’effettivo deve essere visitato due volte all’anno dal veterinario ufficiale. Il sequestro è revocato se dopo due anni non è più comparso alcun caso di scrapie. Se durante il sequestro alcuni animali vengono ceduti per essere uccisi, le loro teste comprese le tonsille devono essere analizzate in un laboratorio di riferimento.
 
@@ -4305,7 +4305,7 @@ Negli ovini e nei caprini di età superiore ai dodici mesi o a cui è spuntato u
 - b. gli occhi;
 - c. il midollo spinale con la dura madre (*dura mater*).[^180c-1]
 
-<sup>2</sup> Il materiale a rischio specificato deve essere eliminato subito dopo la macellazione come sottoprodotto di origine animale della categoria 1 (art. 22 OESA[^180c-2]).[^180c-3] Il midollo spinale può essere eliminato anche solo dopo il taglio, se proviene da carcasse indivise la cui colonna vertebrale non aperta, comprendente il midollo spinale, viene eliminata come materiale a rischio specificato.
+<sup>2</sup> Il materiale a rischio specificato deve essere eliminato subito dopo la macellazione come sottoprodotto di origine animale della categoria 1 (art. 22 OSOAn[^180c-2]).[^180c-3] Il midollo spinale può essere eliminato anche solo dopo il taglio, se proviene da carcasse indivise la cui colonna vertebrale non aperta, comprendente il midollo spinale, viene eliminata come materiale a rischio specificato.
 
 <sup>3</sup> Dopo lo stordimento la base del cervello non può essere distrutta.
 
@@ -4528,7 +4528,8 @@ Revoca il sequestro dopo che:
 
 - a. tutti gli animali dellʼeffettivo sono stati eliminati; oppure
 - b. gli animali infetti o sospetti sono stati eliminati e lʼanalisi sierologica di tutti gli animali rimanenti dellʼeffettivo ha dato esito negativo.
-- [tab] <sup>4</sup> Lʼanalisi di cui al capoverso 3 lettera b può essere effettuata al più presto 21 giorni dopo lʼeliminazione dellʼultimo animale infetto o sospetto.
+
+<sup>4</sup> Lʼanalisi di cui al capoverso 3 lettera b può essere effettuata al più presto 21 giorni dopo lʼeliminazione dellʼultimo animale infetto o sospetto.
 
 ### Sezione 11: Brucellosi ovicaprina
 
@@ -4582,7 +4583,7 @@ In caso di diagnosi di brucellosi ovicaprina, il veterinario cantonale ordina il
 - a. l’eliminazione immediata di tutto l’effettivo; se meno del 10 per cento degli animali sono infetti, l’eliminazione può limitarsi agli animali infetti;
 - b. l’uccisione immediata e l’eliminazione degli animali che hanno abortito o nei quali è stato evidenziato l’agente infettivo;
 - c. l’eliminazione di tutte le secondine e dei feti abortiti;
-- d. l’eliminazione del latte proveniente da animali infetti o sospetti come sottoprodotto di origine animale della categoria 2 ai sensi dell’articolo 6 OESA[^194-1] o la bollitura dello stesso e la sua utilizzazione come alimento per animali;
+- d. l’eliminazione del latte proveniente da animali infetti o sospetti come sottoprodotto di origine animale della categoria 2 ai sensi dell’articolo 6 OSOAn[^194-1] o la bollitura dello stesso e la sua utilizzazione come alimento per animali;
 - e. la pulizia e la disinfezione delle stalle.
 
 <sup>2</sup>
@@ -4590,7 +4591,7 @@ In caso di diagnosi di brucellosi ovicaprina, il veterinario cantonale ordina il
 Egli revoca il sequestro dopo che:
 
 - a. tutti gli animali dell’effettivo sono stati eliminati e le stalle sono state pulite e disinfettate; o
-- [tab] b.[^194-2] due analisi sierologiche o allergologiche di tutti gli ovini e i caprini di età superiore ai sei mesi hanno dato esito negativo; la prima analisi deve essere effettuata al più presto 90 giorni dopo l’eliminazione dell’ultimo animale sospetto o infetto e la seconda al più presto 180 giorni dopo la prima analisi.
+- b.[^194-2] due analisi sierologiche o allergologiche di tutti gli ovini e i caprini di età superiore ai sei mesi hanno dato esito negativo; la prima analisi deve essere effettuata al più presto 90 giorni dopo l’eliminazione dell’ultimo animale sospetto o infetto e la seconda al più presto 180 giorni dopo la prima analisi.
 
 [^194-1]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
 [^194-2]: Nuovo testo giusta il n. I dell’O del 31 ago. 2022, in vigore dal 1° nov. 2022 ([RU 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
@@ -4963,7 +4964,7 @@ Le perdite di animali secondo l’articolo 32 capoverso 1 lettere a, b e d LFE n
 
 [^228-1]
 
-[^228-1]: Abrogato dal n. I dell’O del 14 gen. 2009, con effetto dal 1° mar. 2009 ([RU 2009 581](https://fedlex.data.admin.ch/eli/oc/2009/101))
+[^228-1]: Abrogato dal n. I dell’O del 14 gen. 2009, con effetto dal 1° mar. 2009 ([RU 2009 581](https://fedlex.data.admin.ch/eli/oc/2009/101)).
 
 ### Sezione 5*a*: Programma nazionale di lotta contro la zoppina
 
@@ -4985,7 +4986,7 @@ Le perdite di animali secondo l’articolo 32 capoverso 1 lettere a, b e d LFE n
 
 <sup>5</sup> L’USAV emana prescrizioni tecniche sullo svolgimento del programma di lotta.
 
-[^229-1]: Nuovo testo giusta il n. I dell’O del 14 gen. 2009, in vigore dal 1° mar. 2009 ([RU 2009 581](https://fedlex.data.admin.ch/eli/oc/2009/101))
+[^229-1]: Nuovo testo giusta il n. I dell’O del 14 gen. 2009, in vigore dal 1° mar. 2009 ([RU 2009 581](https://fedlex.data.admin.ch/eli/oc/2009/101)).
 
 #### Art. 229a
 
@@ -5006,10 +5007,11 @@ Per il programma di lotta sono computabili i costi per:
 Ai fornitori delle prestazioni di cui al capoverso 1 lettera a vengono versate le seguenti indennità:
 
 - a. un importo forfettario da 125 a 200 franchi per il prelievo dei campioni e l’invio dei campioni ai laboratori, a seconda della grandezza e dell’ubicazione dell’azienda detentrice di animali;
-- b. al massimo 45 franchi per l’analisi in laboratorio di un campione aggregato di un massimo di 10 animali;
+- b.[^229a-2] al massimo 60 franchi per l’analisi in laboratorio di un campione aggregato di un massimo di 10 animali;
 - c. un’adeguata indennità per la riscossione.
 
 [^229a-1]: Introdotto dal n. I dell’O del 31 mar. 2021, in vigore dal 1° giu. 2024 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^229a-2]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 266](https://fedlex.data.admin.ch/eli/oc/2024/266)).
 
 #### Art. 229b
 
@@ -5029,7 +5031,7 @@ Ai fornitori delle prestazioni di cui al capoverso 1 lettera a vengono versate l
 
 **Versamento delle indennità e di un’eventuale eccedenza**[^229c-1]
 
-<sup>1</sup> Il terzo incaricato versa l’indennità a un laboratorio non appena quest’ultimo ha inserito il risultato dell’analisi di base o della prima analisi di verifica nel sistema d’informazione per i dati di laboratorio (ALIS) di cui nell’O-SISVet[^229c-2].
+<sup>1</sup> Il terzo incaricato versa l’indennità a un laboratorio non appena quest’ultimo ha inserito il risultato dell’analisi di base o della prima analisi di verifica nel sistema d’informazione per i risultati di controlli e analisi (ARES) di cui nell’ordinanza del 27 aprile 2022[^229c-2] concernente i sistemi d’informazione dell’USAV per la filiera agroalimentare.[^229c-3]
 
 <sup>2</sup> Esso fattura la parte dei costi per l’analisi dei campioni non coperta dalla tassa dei detentori di ovini al Cantone che ha commissionato l’incarico.
 
@@ -5037,6 +5039,7 @@ Ai fornitori delle prestazioni di cui al capoverso 1 lettera a vengono versate l
 
 [^229c-1]: Introdotto dal n. I dell’O del 31 mar. 2021, in vigore dal 1° giu. 2024 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 [^229c-2]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^229c-3]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 266](https://fedlex.data.admin.ch/eli/oc/2024/266)).
 
 #### Art. 229d
 
@@ -5048,9 +5051,10 @@ Ai fornitori delle prestazioni di cui al capoverso 1 lettera a vengono versate l
 
 <sup>3</sup> I veterinari inseriscono i dati relativi ai campioni prelevati in ASAN.
 
-<sup>4</sup> I laboratori incaricati dell’analisi dei campioni inseriscono i risultati in ALIS al più tardi entro una settimana dal ricevimento del campione.
+<sup>4</sup> I laboratori incaricati dell’analisi dei campioni inseriscono i risultati in ARES al più tardi entro una settimana dal ricevimento del campione.[^229d-2]
 
 [^229d-1]: Introdotto dal n. I dell’O del 31 mar. 2021, in vigore dal 1° giu. 2024 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^229d-2]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 266](https://fedlex.data.admin.ch/eli/oc/2024/266)).
 
 #### Art. 229e
 
@@ -5210,9 +5214,9 @@ Le disposizioni della presente sezione sono applicabili nella lotta contro la pa
 
 In qualsiasi caso di sospetto, il veterinario cantonale ordina inoltre che:
 
-- [tab] a.[^238-1] l’animale sospetto sia isolato e sottoposto al divieto di trasferimento;
-- [tab] b.[^238-2] i discendenti di esemplari femmina di cui alla lettera a che sono nati entro gli ultimi 12 mesi prima del caso di sospetto vengano sottoposti a divieto di trasferimento;
-- c. il latte dell’animale sospetto sia eliminato come sottoprodotto di origine animale della categoria 2 secondo l’articolo 6 OESA[^238-3].
+- a.[^238-1] l’animale sospetto sia isolato e sottoposto al divieto di trasferimento;
+- b.[^238-2] i discendenti di esemplari femmina di cui alla lettera a che sono nati entro gli ultimi 12 mesi prima del caso di sospetto vengano sottoposti a divieto di trasferimento;
+- c. il latte dell’animale sospetto sia eliminato come sottoprodotto di origine animale della categoria 2 secondo l’articolo 6 OSOAn[^238-3].
 
 <sup>4</sup>
 
@@ -5233,10 +5237,10 @@ Il sospetto di paratubercolosi è considerato confutato:
 
 In qualsiasi caso di epizoozia, il veterinario cantonale ordina inoltre che:[^238a-1]
 
-- [tab] a.[^238a-2] gli animali infetti siano isolati, uccisi ed eliminati;
+- a.[^238a-2] gli animali infetti siano isolati, uccisi ed eliminati;
 - a<sup>bis</sup>.[^238a-3] i discendenti di esemplari femmina di cui alla lettera a che sono nati entro gli ultimi 12 mesi prima del caso di epizoozia vengano isolati e macellati al più tardi entro l’età di 12 mesi;
 - b. gli animali dell’effettivo che appartengono a specie ricettive siano sottoposti ad analisi clinica;
-- c. il latte degli animali sospetti o infetti sia eliminato come sottoprodotto di origine animale della categoria 2 secondo l’articolo 6 OESA[^238a-4];
+- c. il latte degli animali sospetti o infetti sia eliminato come sottoprodotto di origine animale della categoria 2 secondo l’articolo 6 OSOAn[^238a-4];
 - d. le stalle siano pulite e disinfettate.
 
 <sup>1bis</sup> Per gli animali di cui al capoverso 1 lettera a<sup>bis</sup> il veterinario cantonale ordina un divieto di trasferimento fino alla loro macellazione.[^238a-5]
@@ -5864,8 +5868,8 @@ Vi è il sospetto che un effettivo sia infetto se:
 In caso di accertamento di sierotipi di *Salmonella* di cui all’articolo 255 capoverso 3 il veterinario cantonale ordina il sequestro semplice di 1° grado dell’effettivo avicolo infetto. Ordina inoltre che:[^260-1]
 
 - a. l’effettivo infetto sia macellato o ucciso;
-- b. le uova non vengano più utilizzate per la cova e che vengano eliminate come sottoprodotto di origine animale della categoria 2 ai sensi dell’articolo 6 OESA[^260-2] oppure che siano sottoposte a un trattamento per l’eliminazione delle salmonelle prima di essere messe in commercio a scopi alimentari;
-- c. le uova già covate siano eliminate come sottoprodotto di origine animale della categoria 2 ai sensi dell’articolo 6 OESA;
+- b. le uova non vengano più utilizzate per la cova e che vengano eliminate come sottoprodotto di origine animale della categoria 2 ai sensi dell’articolo 6 OSOAn[^260-2] oppure che siano sottoposte a un trattamento per l’eliminazione delle salmonelle prima di essere messe in commercio a scopi alimentari;
+- c. le uova già covate siano eliminate come sottoprodotto di origine animale della categoria 2 ai sensi dell’articolo 6 OSOAn;
 - d. la carne fresca di animali provenienti da un effettivo infetto sia sottoposta a un trattamento per l’eliminazione delle salmonelle prima di essere messa in commercio.
 
 <sup>2</sup> Il veterinario cantonale revoca il sequestro se tutti gli animali dell’effettivo infetto sono stati uccisi o macellati e la pulizia e la disinfezione dei luoghi sono state controllate mediante un’analisi batteriologica.
@@ -6020,7 +6024,7 @@ Se vi è sospetto di peste americana delle api, l’ispettore degli apiari invia
 In caso di diagnosi di peste americana delle api, il veterinario cantonale ordina negli apiari infetti:
 
 - a. l’analisi immediata di tutte le colonie da parte dell’ispettore degli apiari;
-- [tab] b.[^271-1] la distruzione integrale, entro dieci giorni, delle colonie e dei loro favi oppure la distruzione delle colonie malate e sospette, secondo le direttive dell’ispettore degli apiari;
+- b.[^271-1] la distruzione integrale, entro dieci giorni, delle colonie e dei loro favi oppure la distruzione delle colonie malate e sospette, secondo le direttive dell’ispettore degli apiari;
 - c.[^271-2] il divieto di utilizzare il miele per la nutrizione delle api o di venderlo a tal fine;
 - d.[^271-3] il trattamento dei favi vecchi, della cera e del miele secondo le indicazioni dell’ispettore degli apiari;
 - e. la pulizia e la disinfezione delle arnie e degli utensili
@@ -6032,7 +6036,7 @@ In caso di diagnosi di peste americana delle api, il veterinario cantonale ordin
 Nella zona di sequestro sono applicabili i seguenti provvedimenti:[^271-5]
 
 - a.[^271-6] sono vietati qualsiasi offerta, trasferimento e introduzione di api e favi. Gli utensili apicoli possono essere trasferiti in un altro apiario soltanto dopo essere stati puliti e disinfettati;
-- [tab] b.[^271-7] il veterinario cantonale può autorizzare i trasporti di api all’interno della zona di sequestro e l’introduzione di api nella zona di sequestro, ordinando i necessari provvedimenti di sicurezza;
+- b.[^271-7] il veterinario cantonale può autorizzare i trasporti di api all’interno della zona di sequestro e l’introduzione di api nella zona di sequestro, ordinando i necessari provvedimenti di sicurezza;
 - c. l’ispettore degli apiari effettua entro 30 giorni un controllo di tutte le colonie della zona di sequestro riguardo alla presenza di peste americana delle api.
 
 <sup>3</sup>
@@ -6092,7 +6096,7 @@ In caso di diagnosi di peste europea delle api, il veterinario cantonale ordina 
 Nella zona di sequestro sono applicabili i seguenti provvedimenti:
 
 - a.[^273-3] sono vietati qualsiasi offerta, trasferimento e introduzione di api e favi. Gli utensili apicoli possono essere trasferiti in un altro apiario soltanto dopo essere stati puliti e disinfettati;
-- [tab] b.[^273-4] il veterinario cantonale può autorizzare i trasporti di api all’interno della zona di sequestro e l’introduzione di api, ordinando i necessari provvedimenti di sicurezza.
+- b.[^273-4] il veterinario cantonale può autorizzare i trasporti di api all’interno della zona di sequestro e l’introduzione di api, ordinando i necessari provvedimenti di sicurezza.
 
 <sup>4</sup> L’ispettore degli apiari ordina il trattamento dei favi vecchi, della cera e del miele.
 
@@ -6389,7 +6393,7 @@ Sono considerate specie ittiche ricettive:
 
 In caso di sospetto di IHN, VHS o ISA, il veterinario cantonale ordina il sequestro semplice di 1° grado dell’azienda di acquacoltura sospetta di epizoozia. Può consentire la macellazione dei pesci e la loro consegna come derrate alimentari. Ordina inoltre: [^281-1]
 
-- a. l’eliminazione dei pesci morti e degli scarti dei pesci macellati in quanto sottoprodotti di origine animale della categoria 2 ai sensi dell’articolo 6 OESA[^281-2];
+- a. l’eliminazione dei pesci morti e degli scarti dei pesci macellati in quanto sottoprodotti di origine animale della categoria 2 ai sensi dell’articolo 6 OSOAn[^281-2];
 - b.[^281-3] l’esame riguardo a IHN, VHS o ISA delle aziende di acquacoltura vicine che condividono il medesimo bacino imbrifero.
 
 <sup>2</sup> Revoca il sequestro se è stato provato che l’effettivo dei pesci è indenne da virus.
@@ -6540,7 +6544,7 @@ La peste dei gamberi o unʼinfezione da virus della malattia dei puntini bianchi
 Nella zona di sequestro sono applicabili le seguenti regole:
 
 - a. è vietato introdurre gamberi vivi nella zona di sequestro o trasportarli fuori dalla stessa;
-- b. i gamberi morti e uccisi, che non sono utilizzati come derrate alimentari, devono essere eliminati come sottoprodotto di origine animale della categoria 2 ai sensi dell’articolo 6 OESA[^289-2].
+- b. i gamberi morti e uccisi, che non sono utilizzati come derrate alimentari, devono essere eliminati come sottoprodotto di origine animale della categoria 2 ai sensi dell’articolo 6 OSOAn[^289-2].
 
 <sup>3</sup> Per il resto, il Cantone ordina i provvedimenti di polizia della pesca per evitare una propagazione dell’agente infettivo, come lo spopolamento delle acque in questione.
 
@@ -6747,9 +6751,12 @@ In caso di comparsa di un’epizoozia altamente contagiosa in Svizzera o all’e
 
 <sup>3</sup> LʼUSAV determina le imprese interessate, il contenuto e la durata delle informazioni. Esso armonizza i provvedimenti con gli obblighi di cui all’allegato 11 dellʼAccordo del 21 giugno 1999[^295a-3] tra la Confederazione Svizzera e la Comunità europea sul commercio di prodotti agricoli. Esso mette a disposizione il materiale informativo.
 
+<sup>4</sup> Per prevenire l’introduzione di epizoozie, l’USAV può, indipendentemente dalla comparsa di un focolaio, esporre negli aeroporti nazionali informazioni sull’importazione di animali e prodotti animali nel traffico turistico in punti ben visibili dai passeggeri. Chiede ai gestori degli aeroporti di mettergli a disposizione lo spazio necessario a tal fine.[^295a-4]
+
 [^295a-1]: Introdotto dal n. I dell’O del 31 mar. 2021, in vigore dal 1° mag. 2021 ([RU 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 [^295a-2]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
 [^295a-3]: [RS 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
+[^295a-4]: Introdotto dal n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 266](https://fedlex.data.admin.ch/eli/oc/2024/266)).
 
 #### Art. 296
 
@@ -6837,7 +6844,7 @@ Il veterinario cantonale dirige la lotta contro le epizoozie. Per identificare p
 - b. forma gli organi di polizia epizootica e dirige corsi d’istruzione per commercianti di bestiame;
 - c. sorveglia il movimento di animali, prodotti animali, seme e embrioni;
 - d.[^301-2] sorveglia gli effettivi dal punto di vista della polizia epizootica e garantisce l’esecuzione dei controlli nelle aziende con detenzione di animali da reddito secondo l’articolo 292*a*; a tale scopo può dichiarare obbligatori provvedimenti diagnostici, profilattici e terapeutici per determinati effettivi o per regioni;
-- [tab] d<sup>bis</sup>.[^301-3] ordina le misure necessarie all’identificazione precoce e alla sorveglianza delle epizoozie designate in questa ordinanza e di altre malattie animali trasmissibili ai sensi dell’articolo 1 capoverso 1 LFE;
+- d<sup>bis</sup>.[^301-3] ordina le misure necessarie all’identificazione precoce e alla sorveglianza delle epizoozie designate in questa ordinanza e di altre malattie animali trasmissibili ai sensi dell’articolo 1 capoverso 1 LFE;
 - e. sorveglia l’inseminazione artificiale e il trasferimento di embrioni dal punto di vista della polizia epizootica;
 - f. raccoglie dati e informazioni sugli effettivi utili per la lotta contro le epizoozie;
 - g. ordina le restrizioni di polizia epizootica nel commercio delle derrate alimentari;
@@ -6993,7 +7000,7 @@ Un laboratorio è riconosciuto se:
 
 Ai laboratori nazionali di riferimento si applicano per analogia le condizioni di cui all’articolo 312 capoversi 2–4. In casi giustificati, possono essere autorizzate deroghe ai requisiti di cui all’articolo 312 capoverso 2 lettere b e d.
 
-[^312a-1]: Introdoto dal n. I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
+[^312a-1]: Introdotto dal n. I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
 
 #### Art. 312b
 
@@ -7026,7 +7033,7 @@ L’USAV può revocare il riconoscimento se:
 - d. il controllo esterno della qualità dà adito ripetutamente a contestazioni.
 
 [^312b-1]: Introdotto dal n. I dell’O del 28 ott. 2015, in vigore dal 1° dic. 2015 ([RU 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
-[^312b-2]: Il testo della norma menzionata può essere consultato gratuitamente od ottenuto a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^312b-2]: Il testo della norma menzionata può essere consultato gratuitamente od ottenuto a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch
 [^312b-3]: [RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
 
 #### Art. 312c
@@ -7068,17 +7075,12 @@ Le tasse riscosse per le prestazioni di servizi dell’USAV, come esami, analisi
 
 **Abrogazione e modificazione del diritto vigente**
 
-### L’ordinanza d’esecuzione del 15 dicembre 1967 sulle epizoozie è abrogata.
+<sup>1.</sup> L’ordinanza d’esecuzione del 15 dicembre 1967[^314-1] sulle epizoozie è abrogata.
 
-[^314-subdivu1-1]
+<sup>2.</sup> ...[^314-2]
 
-[^314-subdivu1-1]: [[RU 1967 2100](https://fedlex.data.admin.ch/eli/oc/1967/2042_2086_2100); [1971 371](https://fedlex.data.admin.ch/eli/oc/1971/371_371_371); [1974 840](https://fedlex.data.admin.ch/eli/oc/1974/840_840_840), [1130](https://fedlex.data.admin.ch/eli/oc/1974/__1130); [1976 1136](https://fedlex.data.admin.ch/eli/oc/1976/1136_1136_1136); [1977 1194](https://fedlex.data.admin.ch/eli/oc/1977/1194_1194_1194)art. 84 cpv. 1; [1978 325](https://fedlex.data.admin.ch/eli/oc/1978/325_325_325); [1980 1064](https://fedlex.data.admin.ch/eli/oc/1980/1064_1064_1064); [1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572)art. 72 n. 4; [1982 1300](https://fedlex.data.admin.ch/eli/oc/1982/1300_1300_1300); [1984 1039](https://fedlex.data.admin.ch/eli/oc/1984/1039_1039_1039); [1985 1346](https://fedlex.data.admin.ch/eli/oc/1985/1346_1346_1346); [1988 206](https://fedlex.data.admin.ch/eli/oc/1988/206_206_206), [800](https://fedlex.data.admin.ch/eli/oc/1988/800_800_800)art. 89 n. 4; [1990 375](https://fedlex.data.admin.ch/eli/oc/1990/375_375_375); [1991 370](https://fedlex.data.admin.ch/eli/oc/1991/370_370_370)all. n. 22,[1333](https://fedlex.data.admin.ch/eli/oc/1991/1333_1333_1333); [1993 920](https://fedlex.data.admin.ch/eli/oc/1993/920_920_920)art. 29 n. 4, [3373](https://fedlex.data.admin.ch/eli/oc/1993/3373_3373_3373)].
-
-### ...
-
-[^314-subdivu2-1]
-
-[^314-subdivu2-1]: Le mod. possono essere consultate alla [RU 1995 3716](https://fedlex.data.admin.ch/eli/oc/1995/3716_3716_3716).
+[^314-1]: [[RU 1967 2100](https://fedlex.data.admin.ch/eli/oc/1967/2042_2086_2100); [1971 371](https://fedlex.data.admin.ch/eli/oc/1971/371_371_371); [1974 840](https://fedlex.data.admin.ch/eli/oc/1974/840_840_840), [1130](https://fedlex.data.admin.ch/eli/oc/1974/__1130); [1976 1136](https://fedlex.data.admin.ch/eli/oc/1976/1136_1136_1136); [1977 1194](https://fedlex.data.admin.ch/eli/oc/1977/1194_1194_1194)art. 84 cpv. 1; [1978 325](https://fedlex.data.admin.ch/eli/oc/1978/325_325_325); [1980 1064](https://fedlex.data.admin.ch/eli/oc/1980/1064_1064_1064); [1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572)art. 72 n. 4; [1982 1300](https://fedlex.data.admin.ch/eli/oc/1982/1300_1300_1300); [1984 1039](https://fedlex.data.admin.ch/eli/oc/1984/1039_1039_1039); [1985 1346](https://fedlex.data.admin.ch/eli/oc/1985/1346_1346_1346); [1988 206](https://fedlex.data.admin.ch/eli/oc/1988/206_206_206), [800](https://fedlex.data.admin.ch/eli/oc/1988/800_800_800)art. 89 n. 4; [1990 375](https://fedlex.data.admin.ch/eli/oc/1990/375_375_375); [1991 370](https://fedlex.data.admin.ch/eli/oc/1991/370_370_370)all. n. 22,[1333](https://fedlex.data.admin.ch/eli/oc/1991/1333_1333_1333); [1993 920](https://fedlex.data.admin.ch/eli/oc/1993/920_920_920)art. 29 n. 4, [3373](https://fedlex.data.admin.ch/eli/oc/1993/3373_3373_3373)].
+[^314-2]: Le mod. possono essere consultate alla [RU 1995 3716](https://fedlex.data.admin.ch/eli/oc/1995/3716_3716_3716).
 
 #### Art. 315
 
@@ -7155,5 +7157,3 @@ I camelidi del vecchio e del nuovo mondo nati prima del 1° novembre 2022 non de
 <sup>1</sup> La presente ordinanza entra in vigore il 1° settembre 1995, ad eccezione dell’articolo 8.
 
 <sup>2</sup> L’entrata in vigore dell’articolo 8 è determinata più tardi.
-
-**Indice**

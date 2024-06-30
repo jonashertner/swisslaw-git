@@ -4,11 +4,11 @@ title: Tierseuchenverordnung vom 27. Juni 1995 (TSV)
 short: TSV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716"
 language: de
-version: 2024-06-01
+version: 2024-07-01
 adopted: 1995-06-27
 in_force: 1995-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20240601/de/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20240601-de-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20240601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20240701/de/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20240701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20240601/de"
 
 (TSV)
 
-vom 27. Juni 1995 (Stand am 1. Juni 2024)
+vom 27. Juni 1995 (Stand am 1. Juli 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -85,7 +85,7 @@ Als auszurottende Seuchen gelten folgende Tierkrankheiten:
 - e. Tuberkulose;
 - f. Enzootische Leukose der Rinder;
 - g. Infektiöse bovine Rhinotracheitis/Infektiöse pustulöse Vulvovaginitis;
-- [tab] g<sup>bis</sup>.[^3-1] Bovine Virus-Diarrhoe;
+- g<sup>bis</sup>.[^3-1] Bovine Virus-Diarrhoe;
 - h. Bovine spongiforme Enzephalopathie und Traberkrankheit;
 - i.[^3-2] Deckinfektionen der Rinder: Infektionen mit *Campylobacter fetus* und *Tri**trichomonas foetus**;*
 - i<sup>bis</sup>.[^3-3] Besnoitiose;
@@ -94,7 +94,7 @@ Als auszurottende Seuchen gelten folgende Tierkrankheiten:
 - m.[^3-4] …
 - n.[^3-5] Pferdeseuchen: Beschälseuche und Infektiöse Anämie;
 - o. Brucellose der Schweine;
-- [tab] o<sup>bis</sup>.[^3-6] Porcines reproduktives und respiratorisches Syndrom;
+- o<sup>bis</sup>.[^3-6] Porcines reproduktives und respiratorisches Syndrom;
 - p. Infektiöse Hämatopoetische Nekrose;
 - q. Virale hämorrhagische Septikämie;
 - r.[^3-7] Infektiöse Anämie der *Salmonidae*.
@@ -120,7 +120,7 @@ Als zu bekämpfende Seuchen gelten folgende Tierkrankheiten:
 - e. Dasselkrankheit;
 - f. Brucellose der Widder;
 - g.[^4-3] Paratuberkulose;
-- [tab] g<sup>bis</sup>.[^4-4] Blauzungenkrankheit (Bluetongue) und epizootische hämorrhagische Krankheit (EHD);
+- g<sup>bis</sup>.[^4-4] Blauzungenkrankheit (Bluetongue) und epizootische hämorrhagische Krankheit (EHD);
 - h. Ansteckende Pferdemetritis;
 - h<sup>bis</sup>.[^4-5] venezolanische Pferdeenzephalomyelitis;
 - i.[^4-6] Enzootische Pneumonie der Schweine;
@@ -161,7 +161,7 @@ Als zu überwachende Seuchen gelten folgende Tierkrankheiten:
 - e. Toxoplasmose;
 - f.[^5-3] Ebola-Virus-Infektion bei Affen;
 - g.[^5-4] Tuberkulose bei Säugetieren mit Ausnahme von Tieren der Rindergattung, Büffeln und Bisons;
-- [tab] g<sup>bis</sup>.[^5-5] Infektion bei Schwanzlurchen mit *Batrachochytrium salamandrivorans*;
+- g<sup>bis</sup>.[^5-5] Infektion bei Schwanzlurchen mit *Batrachochytrium salamandrivorans*;
 - h. Maedi-Visna;
 - i. Pseudotuberkulose der Schafe und Ziegen;
 - k. Lungenadenomatose;
@@ -203,22 +203,20 @@ Als zu überwachende Seuchen gelten folgende Tierkrankheiten:
 
 **Begriffe und Abkürzungen**
 
-l<sup>bis</sup>.[^6-1] *Zoonose:* auf den Menschen übertragbare Tierkrankheit;
-
 Die folgenden Ausdrücke bedeuten:
 
-- a.[^6-2] *EDI*: Eidgenössisches Departement des Innern;
-- b.[^6-3] BLV*:* Bundesamt für Lebensmittelsicherheit und Veterinärwesen;
-- c. *IVI:* Institut für Virologie und Immunologie[^6-4];
-- d.[^6-5] *Zentrum für Bienenforschung:* Zentrum für Bienenforschung der Forschungsanstalt Agroscope Liebefeld-Posieux ALP;
-- e.[^6-6] *VTNP:* Verordnung vom 25. Mai 2011[^6-7] über tierische Nebenprodukte;
+- a.[^6-1] *EDI*: Eidgenössisches Departement des Innern;
+- b.[^6-2] BLV*:* Bundesamt für Lebensmittelsicherheit und Veterinärwesen;
+- c. *IVI:* Institut für Virologie und Immunologie[^6-3];
+- d.[^6-4] *Zentrum für Bienenforschung:* Zentrum für Bienenforschung der Forschungsanstalt Agroscope Liebefeld-Posieux ALP;
+- e.[^6-5] *VTNP:* Verordnung vom 25. Mai 2011[^6-6] über tierische Nebenprodukte;
 - f. *Zuständige kantonale Stelle:* eine vom Kanton bezeichnete Behörde oder Amtsstelle;
 - g. *Tierarzt:* Inhaber eines eidgenössischen oder eines als gleichwertig anerkannten Tierarztdiploms;
 - h. *Amtlicher Tierarzt:* nach Artikel 302 vom Kanton ernannter Tierarzt;
-- i.[^6-8] …
+- i.[^6-7] …
 - k. *Seuchenpolizeiliche Organe:* Behörden oder Personen, die für den Bund oder einen Kanton auf dem Gebiet der Tierseuchenpolizei amtliche Verrichtungen ausüben;
 - l. *Tierseuchen:* die in den Artikeln 2–5 bezeichneten Tierkrankheiten;
-
+- l<sup>bis</sup>.[^6-8] *Zoonose:* auf den Menschen übertragbare Tierkrankheit;
 - l<sup>ter</sup>.[^6-9] *Biosicherheit:* Schutz gegen die Risiken der Einschleppung, Verschleppung und Ausbreitung einer Tierseuche;
 - m.[^6-10] *Ausmerzen:* Tiere aus einem Bestand entfernen, wobei sie entweder getötet und als tierische Nebenprodukte entsorgt oder geschlachtet und verwertet werden;
 - n. *Ausrotten:* eine Seuche so auslöschen, dass weder kranke Tiere noch Tiere, die Träger des Seuchenerregers sind, zurückbleiben;
@@ -256,14 +254,14 @@ Die folgenden Ausdrücke bedeuten:
 - z<sup>bis</sup>.[^6-27] *Abort:* Ausstossen eines unreifen, nicht lebensfähigen Fötus vor Ablauf der normalen Trächtigkeitsdauer;
 - z<sup>ter</sup>.[^6-28] *Totgeburt:* Nachkomme, der nach einer normalen Trächtigkeitsdauer tot geboren wird oder innerhalb von 24 Stunden nach der Geburt stirbt.
 
-[^6-1]: Eingefügt durch Ziff. I der V vom 15. Nov. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)).
-[^6-2]: Fassung gemäss Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
-[^6-3]: Fassung gemäss Ziff. 1 der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3997](https://fedlex.data.admin.ch/eli/oc/2013/729)).
-[^6-4]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Mai 2013 angepasst.
-[^6-5]: Fassung gemäss Ziff. I der V vom 14. Jan. 2009, in Kraft seit 1. März 2009 ([AS 2009 581](https://fedlex.data.admin.ch/eli/oc/2009/101)).
-[^6-6]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
-[^6-7]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
-[^6-8]: Aufgehoben durch Anhang 2 Ziff. 5 der V vom 24. Jan. 2007 über die Aus-, Weiter- und Fortbildung der Personen im öffentlichen Veterinärdienst, mit Wirkung seit 1. April 2007 ([AS 2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)).
+[^6-1]: Fassung gemäss Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+[^6-2]: Fassung gemäss Ziff. 1 der V vom 23. Okt. 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 3997](https://fedlex.data.admin.ch/eli/oc/2013/729)).
+[^6-3]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Mai 2013 angepasst.
+[^6-4]: Fassung gemäss Ziff. I der V vom 14. Jan. 2009, in Kraft seit 1. März 2009 ([AS 2009 581](https://fedlex.data.admin.ch/eli/oc/2009/101)).
+[^6-5]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^6-6]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^6-7]: Aufgehoben durch Anhang 2 Ziff. 5 der V vom 24. Jan. 2007 über die Aus-, Weiter- und Fortbildung der Personen im öffentlichen Veterinärdienst, mit Wirkung seit 1. April 2007 ([AS 2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)).
+[^6-8]: Eingefügt durch Ziff. I der V vom 15. Nov. 2006, in Kraft seit 1. Jan. 2007 ([AS 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)).
 [^6-9]: Eingefügt durch Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 [^6-10]: Fassung gemäss Ziff. I der V vom 23. Juni 2004, in Kraft seit 1. Juli 2004 ([AS 2004 3065](https://fedlex.data.admin.ch/eli/oc/2004/398)).
 [^6-11]: Fassung gemäss Ziff. I der V vom 23. Nov. 2005, in Kraft seit 1. Jan. 2006 ([AS 2005 5647](https://fedlex.data.admin.ch/eli/oc/2005/774)).
@@ -413,7 +411,7 @@ Die Kennzeichnung darf nur von folgenden Personen vorgenommen werden:
 
 [^11a-1]: Eingefügt durch Ziff. I der V vom 31. Aug. 2022, in Kraft seit 1. Nov. 2022 ([AS 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 [^11a-2]: Die aufgeführten Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^11a-3]: Die aufgeführten Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^11a-3]: Die aufgeführten Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/).
 [^11a-4]: [SR 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
 
 #### Art. 11b
@@ -541,8 +539,8 @@ Er meldet der Betreiberin der Tierverkehrsdatenbank:[^14-3]
 
 <sup>4</sup> Diese Mikrochips dürfen nur an die unter Absatz 2 berechtigten Personen geliefert und weitergegeben werden.
 
-[^15a-1]: Die aufgeführten Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^15a-2]: Die aufgeführten Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^15a-1]: Die aufgeführten Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/).
+[^15a-2]: Die aufgeführten Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/).
 [^15a-3]: [SR 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
 [^15a-4]: Fassung gemäss Ziff. I der V vom 31. Aug. 2022, in Kraft seit 1. Nov. 2022 ([AS 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
@@ -621,7 +619,7 @@ Der Equidenpass muss zudem folgende Anhänge enthalten:
 
 [^15d-1]: Richtlinien der Universal Equine Life Number: www.ueln.net
 [^15d-2]: Aufgehoben durch Ziff. I der V vom 20. Juni 2014, mit Wirkung seit 1. Jan. 2015 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
-[^15d-3]: Eingefügt durch Ziff. I der V vom 20. Juni 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
+[^15d-3]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
 [^15d-4]: Eingefügt durch Ziff. I der V vom 20. Juni 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
 [^15d-5]: [SR 812.212.27](https://fedlex.data.admin.ch/eli/cc/2004/592)
 [^15d-6]: [[AS 2005 5493](https://fedlex.data.admin.ch/eli/oc/2005/747), [2006 4807](https://fedlex.data.admin.ch/eli/oc/2006/738)[4809](https://fedlex.data.admin.ch/eli/oc/2006/739), [2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)Anhang 2 Ziff. 2 [2711](https://fedlex.data.admin.ch/eli/oc/2007/358)Ziff. II 1, [2008 5169](https://fedlex.data.admin.ch/eli/oc/2008/723), [2011 2699](https://fedlex.data.admin.ch/eli/oc/2011/372)Anhang 8 Ziff. II 2 [5453](https://fedlex.data.admin.ch/eli/oc/2011/775)Anhang 2 Ziff. II 2, [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)Ziff. I 8, [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)Anhang 3 Ziff. II 6, [2015 3629](https://fedlex.data.admin.ch/eli/oc/2015/608)[5201](https://fedlex.data.admin.ch/eli/oc/2015/843)Anhang Ziff. II 3. [AS 2017 411](https://fedlex.data.admin.ch/eli/oc/2017/66)Art. 62 Abs. 1]. Siehe heute: die V vom 16. Dez. 2016 ([SR 817.190](https://fedlex.data.admin.ch/eli/cc/2017/66)).
@@ -800,8 +798,8 @@ Bei der Kennzeichnung werden folgende Daten über den Hund erhoben:
 <sup>4</sup> Der Tierarzt muss bei der Weitergabe von Mikrochips der Betreiberin der Hundedatenbank den Empfänger und die Mikrochipnummern melden.
 
 [^17a-1]: Eingefügt durch Ziff. I der V vom 20. Juni 2014 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)). Fassung gemäss Ziff. I der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 721](https://fedlex.data.admin.ch/eli/oc/2018/90)).
-[^17a-2]: Die aufgeführten Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^17a-3]: Die aufgeführten Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^17a-2]: Die aufgeführten Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/).
+[^17a-3]: Die aufgeführten Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/).
 [^17a-4]: [SR 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
 [^17a-5]: Fassung gemäss Ziff. I der V vom 31. Aug. 2022, in Kraft seit 1. Nov. 2022 ([AS 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
@@ -1217,7 +1215,7 @@ Bei der Prüfung müssen folgende Punkte kontrolliert und dokumentiert werden:
 <sup>4</sup> Im Übrigen gelten die besonderen Bestimmungen der Transportverordnung vom 5. November 1986[^25-2], der Verkehrsregelnverordnung vom 13. November 1962[^25-3], der Verordnung vom 19. Juni 1995[^25-4] über die technischen Anforderungen an Strassenfahrzeuge und der Tierschutzverordnung vom 27. Mai 1981[^25-5].
 
 [^25-1]: Satz eingefügt durch Ziff. I der V vom 15. März 1999, in Kraft seit 1. Juli 1999 ([AS 1999 1523](https://fedlex.data.admin.ch/eli/oc/1999/229)).
-[^25-2]: [[AS 1986 1991](https://fedlex.data.admin.ch/eli/oc/1986/1991_1991_1991); [1994 1848](https://fedlex.data.admin.ch/eli/oc/1994/1848_1848_1848); [1996 3035](https://fedlex.data.admin.ch/eli/oc/1996/3035_3035_3035); [1999 719](https://fedlex.data.admin.ch/eli/oc/1999/105); [2004 2697](https://fedlex.data.admin.ch/eli/oc/2004/324). [AS 2009 6025](https://fedlex.data.admin.ch/eli/oc/2009/738)Art. 6]. Siehe heute: die Gütertransportverordnung vom 4. Nov. 2009 ([SR 742.411](https://fedlex.data.admin.ch/eli/cc/2016/329)).
+[^25-2]: [[AS 1986 1991](https://fedlex.data.admin.ch/eli/oc/1986/1991_1991_1991); [1994 1848](https://fedlex.data.admin.ch/eli/oc/1994/1848_1848_1848); [1996 3035](https://fedlex.data.admin.ch/eli/oc/1996/3035_3035_3035); [1999 719](https://fedlex.data.admin.ch/eli/oc/1999/105); [2004 2697](https://fedlex.data.admin.ch/eli/oc/2004/324). [AS 2009 6025](https://fedlex.data.admin.ch/eli/oc/2009/738)Art. 6]. Siehe heute: die Gütertransportverordnung vom 25. Mai 2016 ([SR 742.411](https://fedlex.data.admin.ch/eli/cc/2016/329)).
 [^25-3]: [SR 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
 [^25-4]: [SR 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 [^25-5]: [[AS 1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572); [1986 1408](https://fedlex.data.admin.ch/eli/oc/1986/1408_1408_1408); [1991 2349](https://fedlex.data.admin.ch/eli/oc/1991/2349_2349_2349); [1997 1121](https://fedlex.data.admin.ch/eli/oc/1997/1121_1121_1121); [1998 2303](https://fedlex.data.admin.ch/eli/oc/1998/2303_2303_2303); [2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)Anhang Ziff. 1, [2063](https://fedlex.data.admin.ch/eli/oc/2001/304); [2006 1427](https://fedlex.data.admin.ch/eli/oc/2006/242), [5217](https://fedlex.data.admin.ch/eli/oc/2006/791)Anhang Ziff. 2; [2007 1847](https://fedlex.data.admin.ch/eli/oc/2007/269)Anhang 3 Ziff. 1. [AS 2008 2985](https://fedlex.data.admin.ch/eli/oc/2008/416)Anhang 6 Ziff. I]. Siehe heute: die V vom 23. April 2008 ([SR 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)).
@@ -3981,7 +3979,7 @@ Die Verbringungssperre für ein Tier wird aufgehoben, sobald:
 
 <sup>4</sup> Vom Zeitpunkt des Abkalbens eines Tieres nach Absatz 2 bis zum Vorliegen eines negativen Befundes der virologischen Untersuchung des Kalbes oder der Totgeburt dürfen keine Tiere die betroffene Tierhaltung verlassen. Die Abgabe von Tieren direkt zur Schlachtung ist gestattet.[^174c-3]
 
-[^174c-1]: Eingefügt durch Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+[^174c-1]: Fassung gemäss Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 [^174c-2]: Fassung gemäss Ziff. I der V vom 31. Aug. 2022, in Kraft seit 1. Nov. 2022 ([AS 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 [^174c-3]: Fassung gemäss Ziff. I der V vom 31. Aug. 2022, in Kraft seit 1. Nov. 2022 ([AS 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
@@ -4007,7 +4005,7 @@ Der Kantonstierarzt ordnet im Verdachtsfall über alle Bestände der betroffenen
 
 <sup>4</sup> Der Verdacht gilt als widerlegt, wenn die virologische Untersuchung bei allen untersuchten Tieren einen negativen Befund ergeben hat.
 
-[^174d-1]: Eingefügt durch Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+[^174d-1]: Fassung gemäss Ziff. 1 der V vom 30. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
 [^174d-2]: Fassung gemäss Ziff. I der V vom 31. Aug. 2022, in Kraft seit 1. Nov. 2022 ([AS 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 [^174d-3]: Fassung gemäss Ziff. I der V vom 31. Aug. 2022, in Kraft seit 1. Nov. 2022 ([AS 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 [^174d-4]: Fassung gemäss Ziff. I der V vom 31. Aug. 2022, in Kraft seit 1. Nov. 2022 ([AS 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
@@ -4403,11 +4401,12 @@ Ausserdem ordnet er an, dass:
 
 <sup>3</sup> Er kann anordnen, dass alle Tiere des verseuchten Bestandes ausgemerzt werden.
 
-<sup>4</sup> Er hebt die Sperre auf, nachdem:
+<sup>4</sup>
 
-a. alle Tiere ausgemerzt und die Stallungen gereinigt und desinfiziert worden sind; oder
+Er hebt die Sperre auf, nachdem:
 
-b. eine weitere serologische Untersuchung einer repräsentativen Auswahl der verbleibenden Tiere keinen positiven Befund ergeben hat.
+- a. alle Tiere ausgemerzt und die Stallungen gereinigt und desinfiziert worden sind; oder
+- b. eine weitere serologische Untersuchung einer repräsentativen Auswahl der verbleibenden Tiere keinen positiven Befund ergeben hat.
 
 <sup>5</sup> Die Untersuchung nach Absatz 4 Buchstabe b darf frühestens 21 Tage nach Ausmerzung des letzten verseuchten Tieres erfolgen.
 
@@ -4998,10 +4997,11 @@ Die anrechenbaren Kosten für das Bekämpfungsprogramm bestehen aus den Kosten f
 Die Erbringer der Leistungen nach Absatz 1 erhalten folgende Entschädigungen:
 
 - a. eine Pauschale von 125 bis 200 Franken für die Probenahme und den Versand der Proben an die Laboratorien, abhängig von der Grösse und der Lage der Tierhaltung;
-- b. höchstens 45 Franken für die Untersuchung einer Sammelprobe von bis zu 10 Tieren im Labor;
+- b.[^229a-2] höchstens 60 Franken für die Untersuchung einer Sammelprobe von bis zu 10 Tieren im Labor;
 - c. eine angemessene Entschädigung für das Inkasso.
 
 [^229a-1]: Eingefügt durch Ziff. I der V vom 31. März 2021, in Kraft seit 1. Juni 2024 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^229a-2]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 266](https://fedlex.data.admin.ch/eli/oc/2024/266)).
 
 #### Art. 229b
 
@@ -5021,7 +5021,7 @@ Die Erbringer der Leistungen nach Absatz 1 erhalten folgende Entschädigungen:
 
 **Ausrichtung der Entschädigungen und Überweisung eines allfälligen Überschusses**[^229c-1]
 
-<sup>1</sup> Der beauftragte Dritte zahlt einem Laboratorium die Entschädigung aus, sobald es das Resultat der Grunduntersuchung oder der ersten Nachuntersuchung in das Laborinformationssystem (ALIS) nach der ISVet-V[^229c-2] eingegeben hat.
+<sup>1</sup> Der beauftragte Dritte zahlt einem Laboratorium die Entschädigung aus, sobald es das Resultat der Grunduntersuchung oder der ersten Nachuntersuchung in das Informationssystem für Resultate von Kontrollen und Untersuchungen (ARES) nach der Verordnung vom 27. April 2022[^229c-2] über Informationssysteme des BLV für die Lebensmittelkette eingegeben hat.[^229c-3]
 
 <sup>2</sup> Er stellt den Teil der Kosten für die Untersuchung der Probe, der nicht durch die Abgabe der Schafhalter gedeckt wird, dem Kanton in Rechnung, der den Auftrag dazu erteilt hat.
 
@@ -5029,6 +5029,7 @@ Die Erbringer der Leistungen nach Absatz 1 erhalten folgende Entschädigungen:
 
 [^229c-1]: Eingefügt durch Ziff. I der V vom 31. März 2021, in Kraft seit 1. Juni 2024 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 [^229c-2]: [SR 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^229c-3]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 266](https://fedlex.data.admin.ch/eli/oc/2024/266)).
 
 #### Art. 229d
 
@@ -5040,9 +5041,10 @@ Die Erbringer der Leistungen nach Absatz 1 erhalten folgende Entschädigungen:
 
 <sup>3</sup> Die Tierärzte geben die Daten zu den Probenahmen in ASAN ein.
 
-<sup>4</sup> Die Laboratorien, die mit der Untersuchung der Proben beauftragt werden, geben die Resultate spätestens innert einer Woche seit Erhalt der Probe in ALIS ein.
+<sup>4</sup> Die Laboratorien, die mit der Untersuchung der Proben beauftragt werden, geben die Resultate spätestens innert einer Woche seit Erhalt der Probe in das ARES ein.[^229d-2]
 
 [^229d-1]: Eingefügt durch Ziff. I der V vom 31. März 2021, in Kraft seit 1. Juni 2024 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^229d-2]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 266](https://fedlex.data.admin.ch/eli/oc/2024/266)).
 
 #### Art. 229e
 
@@ -6739,9 +6741,12 @@ Beim Ausbruch einer hochansteckenden Seuche in der Schweiz oder im Ausland kann 
 
 <sup>3</sup> Das BLV bestimmt die betroffenen Unternehmen, den Inhalt und die Dauer der Information. Es harmonisiert die Massnahmen mit den Pflichten aus Anhang 11 des Abkommens vom 21. Juni 1999[^295a-3] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Handel mit landwirtschaftlichen Erzeugnissen. Es stellt das Informationsmaterial zur Verfügung.
 
+<sup>4</sup> Das BLV kann zur Verhinderung der Einschleppung von Tierseuchen unabhängig von einem Seuchenausbruch an den Landesflughäfen Informationen über die Einfuhr von Tieren und Tierprodukten im Reiseverkehr an für Passagiere gut sichtbaren Stellen platzieren. Es ersucht die Flughafenbetreiber, ihm den dafür erforderlichen Platz zur Verfügung zu stellen.[^295a-4]
+
 [^295a-1]: Eingefügt durch Ziff. I der V vom 31. März 2021, in Kraft seit 1. Mai 2021 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 [^295a-2]: [SR 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
 [^295a-3]: [SR 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
+[^295a-4]: Eingefügt durch Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 266](https://fedlex.data.admin.ch/eli/oc/2024/266)).
 
 #### Art. 296
 
@@ -6829,7 +6834,7 @@ Der Kantonstierarzt leitet die Bekämpfung der Tierseuchen. Zur Früherkennung, 
 - b. Er bildet die seuchenpolizeilichen Organe aus und leitet die Einführungskurse für Viehhändler.
 - c. Er beaufsichtigt den Verkehr mit Tieren, tierischen Stoffen, Samen und Embryonen.
 - d.[^301-2] Er überwacht die Tierbestände in seuchenpolizeilicher Hinsicht und sorgt für die Durchführung der Kontrollen in den Betrieben mit Nutztierhaltung nach Artikel 292*a*; er kann hierzu diagnostische, prophylaktische und therapeutische Massnahmen für einzelne Bestände oder gebietsweise obligatorisch erklären.
-- [tab] d<sup>bis</sup>.[^301-3] Er ordnet die notwendigen Massnahmen zur Früherkennung und Überwachung der in dieser Verordnung bezeichneten Tierseuchen und anderen übertragbaren Tierkrankheiten im Sinne von Artikel 1 Absatz 1 TSG an.
+- d<sup>bis</sup>.[^301-3] Er ordnet die notwendigen Massnahmen zur Früherkennung und Überwachung der in dieser Verordnung bezeichneten Tierseuchen und anderen übertragbaren Tierkrankheiten im Sinne von Artikel 1 Absatz 1 TSG an.
 - e. Er überwacht die künstliche Besamung und den Embryotransfer in seuchenpolizeilicher Hinsicht.
 - f. Er beschafft die zur Seuchenbekämpfung benötigten Daten und Informationen über Tierbestände.
 - g. Er ordnet die tierseuchenpolizeilichen Einschränkungen im Verkehr mit Lebensmitteln an.
@@ -7018,7 +7023,7 @@ Das BLV kann die Anerkennung widerrufen, wenn:
 - d. die externe Qualitätskontrolle wiederholt zu Beanstandungen führt.
 
 [^312b-1]: Eingefügt durch Ziff. I der V vom 28. Okt. 2015, in Kraft seit 1. Dez. 2015 ([AS 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
-[^312b-2]: Die aufgeführte Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^312b-2]: Die aufgeführte Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/).
 [^312b-3]: [SR 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
 
 #### Art. 312c
@@ -7060,17 +7065,12 @@ Die Gebühren für Dienstleistungen des BLV, wie Prüfungen, Untersuchungen, Bew
 
 **Aufhebung und Änderung bisherigen Rechts**
 
-### Die Tierseuchenverordnung vom 15. Dezember 1967 wird aufgehoben.
+<sup>1.</sup> Die Tierseuchenverordnung vom 15. Dezember 1967[^314-1] wird aufgehoben.
 
-[^314-subdivu1-1]
+<sup>2.</sup> …[^314-2]
 
-[^314-subdivu1-1]: [[AS 1967 2042](https://fedlex.data.admin.ch/eli/oc/1967/2042_2086_2100); [1971 371](https://fedlex.data.admin.ch/eli/oc/1971/371_371_371); [1974 840](https://fedlex.data.admin.ch/eli/oc/1974/840_840_840); [1976 1136](https://fedlex.data.admin.ch/eli/oc/1976/1136_1136_1136); [1977 1194](https://fedlex.data.admin.ch/eli/oc/1977/1194_1194_1194)Art. 84 Abs. 1; [1978 325](https://fedlex.data.admin.ch/eli/oc/1978/325_325_325); [1980 1064](https://fedlex.data.admin.ch/eli/oc/1980/1064_1064_1064); [1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572)Art. 72 Ziff. 4; [1982 1300](https://fedlex.data.admin.ch/eli/oc/1982/1300_1300_1300); **1084** 1039; [1985 1346](https://fedlex.data.admin.ch/eli/oc/1985/1346_1346_1346); [1988 206](https://fedlex.data.admin.ch/eli/oc/1988/206_206_206), [800](https://fedlex.data.admin.ch/eli/oc/1988/800_800_800)Art. 89 Ziff. 4; [1990 375](https://fedlex.data.admin.ch/eli/oc/1990/375_375_375); [1991 370](https://fedlex.data.admin.ch/eli/oc/1991/370_370_370)Anhang Ziff. 22, [1333](https://fedlex.data.admin.ch/eli/oc/1991/1333_1333_1333); [1993 920](https://fedlex.data.admin.ch/eli/oc/1993/920_920_920)Art. 29 Ziff. 4, 3373]
-
-### …
-
-[^314-subdivu2-1]
-
-[^314-subdivu2-1]: Die Änderungen können unter [AS 1995 3716](https://fedlex.data.admin.ch/eli/oc/1995/3716_3716_3716)konsultiert werden.
+[^314-1]: [[AS 1967 2042](https://fedlex.data.admin.ch/eli/oc/1967/2042_2086_2100); [1971 371](https://fedlex.data.admin.ch/eli/oc/1971/371_371_371); [1974 840](https://fedlex.data.admin.ch/eli/oc/1974/840_840_840); [1976 1136](https://fedlex.data.admin.ch/eli/oc/1976/1136_1136_1136); [1977 1194](https://fedlex.data.admin.ch/eli/oc/1977/1194_1194_1194)Art. 84 Abs. 1; [1978 325](https://fedlex.data.admin.ch/eli/oc/1978/325_325_325); [1980 1064](https://fedlex.data.admin.ch/eli/oc/1980/1064_1064_1064); [1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572)Art. 72 Ziff. 4; [1982 1300](https://fedlex.data.admin.ch/eli/oc/1982/1300_1300_1300); **1084** 1039; [1985 1346](https://fedlex.data.admin.ch/eli/oc/1985/1346_1346_1346); [1988 206](https://fedlex.data.admin.ch/eli/oc/1988/206_206_206), [800](https://fedlex.data.admin.ch/eli/oc/1988/800_800_800)Art. 89 Ziff. 4; [1990 375](https://fedlex.data.admin.ch/eli/oc/1990/375_375_375); [1991 370](https://fedlex.data.admin.ch/eli/oc/1991/370_370_370)Anhang Ziff. 22, [1333](https://fedlex.data.admin.ch/eli/oc/1991/1333_1333_1333); [1993 920](https://fedlex.data.admin.ch/eli/oc/1993/920_920_920)Art. 29 Ziff. 4, 3373]
+[^314-2]: Die Änderungen können unter [AS 1995 3716](https://fedlex.data.admin.ch/eli/oc/1995/3716_3716_3716)konsultiert werden.
 
 #### Art. 315
 

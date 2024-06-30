@@ -4,11 +4,11 @@ title: Ordonnance du 27 juin 1995 sur les épizooties (OFE)
 short: OFE
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716"
 language: fr
-version: 2024-06-01
+version: 2024-07-01
 adopted: 1995-06-27
 in_force: 1995-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20240601/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20240601-fr-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20240601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20240701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20240601/fr"
 
 (OFE)
 
-du 27 juin 1995 (État le 1<sup>er</sup> juin 2024)
+du 27 juin 1995 (État le 1<sup>er</sup> juillet 2024)
 
 Le Conseil fédéral suisse,
 
@@ -201,24 +201,21 @@ Par épizooties à surveiller, on entend les maladies animales suivantes:
 
 **Définitions et abréviations**
 
-l<sup>bis</sup>.[^6-1]*zoonose:* maladie animale transmissible à l’homme;
-
-l<sup>ter</sup>.[^6-2] *biosécurité:* protection contre les risques d’introduction, de dissémination et de propagation d’une épizootie;
-
 Les termes ci-dessous sont définis comme il suit:
 
-- a.[^6-3] *DFI:* Département fédéral de l’intérieur;
-- b.[^6-4] *OSAV:* Office fédéral de la sécurité alimentaire et des affaires vétérinaires;
-- c. *IVI:* Institut de virologie et d’immunologie[^6-5];
-- d.[^6-6] *centre de recherches apicoles:* centre de recherches apicoles de la Station fédérale de recherches Agroscope Liebefeld-Posieux ALP;
-- e.[^6-7] *OSPA*: ordonnance du 25 mai 2011 concernant les sous-produits animaux[^6-8];
+- a.[^6-1] *DFI:* Département fédéral de l’intérieur;
+- b.[^6-2] *OSAV:* Office fédéral de la sécurité alimentaire et des affaires vétérinaires;
+- c. *IVI:* Institut de virologie et d’immunologie[^6-3];
+- d.[^6-4] *centre de recherches apicoles:* centre de recherches apicoles de la Station fédérale de recherches Agroscope Liebefeld-Posieux ALP;
+- e.[^6-5] *OSPA*: ordonnance du 25 mai 2011 concernant les sous-produits animaux[^6-6];
 - f. *autorité cantonale compétente:* une autorité ou un office désigné par le canton;
 - g. *vétérinaire:* titulaire d’un diplôme fédéral de vétérinaire ou d’un diplôme reconnu comme équivalent;
 - h. *vétérinaire officiel:* vétérinaire nommé par le canton conformément à l’art. 302;
-- i.[^6-9] …
+- i.[^6-7] …
 - k. *organes de la police des épizooties:* autorités ou personnes qui exercent des fonctions officielles pour la Confédération ou pour un canton en matière de police des épizooties;
 - l. *épizooties:* les maladies animales énumérées aux art. 2 à 5;
-
+- l<sup>bis</sup>.[^6-8] z*oonose:* maladie animale transmissible à l’homme;
+- l<sup>ter</sup>.[^6-9] *biosécurité:* protection contre les risques d’introduction, de dissémination et de propagation d’une épizootie;
 - m.[^6-10] *éliminer:* enlever des animaux d’un troupeau, les animaux étant soit tués et éliminés comme sous-produits animaux, soit abattus en vue de les valoriser;
 - n. *éradiquer:* faire disparaître une épizootie de sorte qu’il ne subsiste ni animaux malades ni animaux porteurs de l’agent de l’épizootie;
 - o.[^6-11]
@@ -255,15 +252,15 @@ Les termes ci-dessous sont définis comme il suit:
 - z<sup>bis</sup>.[^6-27] *avortement:* expulsion d’un fœtus incomplètement développé et non viable avant le terme normal de la gestation;
 - z<sup>ter</sup>.[^6-28] *animal mort-né:* animal né à terme, mais mort à la naissance ou dans les 24 heures suivant sa naissance.
 
-[^6-1]: Introduite par le ch. I de l’O du 15 nov. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)).
-[^6-2]: Introduite par le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
-[^6-3]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
-[^6-4]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3997](https://fedlex.data.admin.ch/eli/oc/2013/729)).
-[^6-5]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> mai 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
-[^6-6]: Nouvelle teneur selon le ch. I de l’O du 14 janv. 2009, en vigueur depuis le 1<sup>er</sup> mars 2009 ([RO 2009 581](https://fedlex.data.admin.ch/eli/oc/2009/101)).
-[^6-7]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
-[^6-8]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
-[^6-9]: Abrogée par l’annexe 2 ch. 5 de l’O du 24 janv. 2007 (Formation dans le Service vétérinaire public), avec effet au 1<sup>er</sup> avr. 2007 ([RO 2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)).
+[^6-1]: Nouvelle teneur selon le ch. I de l’O du 30 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6859](https://fedlex.data.admin.ch/eli/oc/2012/830)).
+[^6-2]: Nouvelle teneur selon le ch. I de l’O du 23 oct. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 3997](https://fedlex.data.admin.ch/eli/oc/2013/729)).
+[^6-3]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> mai 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
+[^6-4]: Nouvelle teneur selon le ch. I de l’O du 14 janv. 2009, en vigueur depuis le 1<sup>er</sup> mars 2009 ([RO 2009 581](https://fedlex.data.admin.ch/eli/oc/2009/101)).
+[^6-5]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^6-6]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^6-7]: Abrogée par l’annexe 2 ch. 5 de l’O du 24 janv. 2007 (Formation dans le Service vétérinaire public), avec effet au 1<sup>er</sup> avr. 2007 ([RO 2007 561](https://fedlex.data.admin.ch/eli/oc/2007/113)).
+[^6-8]: Introduite par le ch. I de l’O du 15 nov. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5217](https://fedlex.data.admin.ch/eli/oc/2006/791)).
+[^6-9]: Introduite par le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 [^6-10]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2004, en vigueur depuis le 1<sup>er</sup> juil. 2004 ([RO 2004 3065](https://fedlex.data.admin.ch/eli/oc/2004/398)).
 [^6-11]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2005, en vigueur depuis le 1<sup>er</sup> janv. 2006 ([RO 2005 5647](https://fedlex.data.admin.ch/eli/oc/2005/774)).
 [^6-12]: [RS 910.91](https://fedlex.data.admin.ch/eli/cc/1999/13)
@@ -416,8 +413,8 @@ L’identification ne peut être effectuée que par les personnes suivantes:
 <sup>6</sup> La puce électronique peut être fournie exclusivement à des vétérinaires. Les personnes visées à l’al. 2, let. b et c, ne peuvent se la procurer qu’auprès d’un vétérinaire.
 
 [^11a-1]: Introduit par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
-[^11a-2]: Les normes mentionnées peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, www.snv.ch.
-[^11a-3]: Les normes mentionnées peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, www.snv.ch.
+[^11a-2]: Les normes mentionnées peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, [www.snv.ch](http://www.snv.ch).
+[^11a-3]: Les normes mentionnées peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, [www.snv.ch](http://www.snv.ch).
 [^11a-4]: [RS 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
 
 #### Art. 11b
@@ -544,8 +541,8 @@ Il communique à l’exploitant de la banque de données sur le trafic des anima
 
 <sup>4</sup> Ces puces électroniques ne peuvent être remises ou cédées qu’aux personnes autorisées au sens de l’al. 2.
 
-[^15a-1]: Les normes mentionnées peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, www.snv.ch.
-[^15a-2]: Les normes mentionnées peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, www.snv.ch.
+[^15a-1]: Les normes mentionnées peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, [www.snv.ch](http://www.snv.ch).
+[^15a-2]: Les normes mentionnées peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, [www.snv.ch](http://www.snv.ch).
 [^15a-3]: [RS 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
 [^15a-4]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
@@ -622,7 +619,7 @@ Le passeport équin doit de plus comprendre les annexes suivantes:
 - c.[^15d-8] l’attestation d’autres vaccinations que celles contre la grippe équine;
 - d. l’attestation des contrôles sanitaires de l’équidé au moyen d’examens de laboratoire.
 
-[^15d-1]: Directives de l’Universal Equine Life Number: www.ueln.net
+[^15d-1]: Directives de l’Universal Equine Life Number: [www.ueln.net](http://www.ueln.net)
 [^15d-2]: Abrogée par le ch. I de l’O du 20 juin 2014, avec effet au 1<sup>er</sup> janv. 2015 ([RO 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
 [^15d-3]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 [^15d-4]: Introduit par le ch. I de l’O du 20 juin 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
@@ -803,8 +800,8 @@ Lors de l’identification du chien, le vétérinaire relève les données suiva
 <sup>4</sup> Le vétérinaire qui transmet des puces communique le nom du destinataire et le numéro des puces à l’exploitant de la banque de données sur les chiens.
 
 [^17a-1]: Introduit par le ch. I de l’O du 20 juin 2014 ([RO 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)). Nouvelle teneur selon le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 721](https://fedlex.data.admin.ch/eli/oc/2018/90)).
-[^17a-2]: Les normes mentionnées peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, www.snv.ch.
-[^17a-3]: Les normes mentionnées peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, www.snv.ch.
+[^17a-2]: Les normes mentionnées peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, [www.snv.ch](http://www.snv.ch).
+[^17a-3]: Les normes mentionnées peuvent être consultées gratuitement ou obtenues contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour, [www.snv.ch](http://www.snv.ch).
 [^17a-4]: [RS 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
 [^17a-5]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
@@ -916,9 +913,9 @@ Les autorités suivantes peuvent consulter en ligne les données de toute la Sui
 - a. l’Administration fédérale des douanes;
 - b. les autorités de police.
 
-<sup>1</sup> Pour identifier un chien, les vétérinaires peuvent consulter en ligne les données de toute la Suisse relatives aux détenteurs de chien, aux importateurs de chien et aux personnes qui prennent un chien sous leur garde durant plus de trois mois.
+<sup>2</sup> Pour identifier un chien, les vétérinaires peuvent consulter en ligne les données de toute la Suisse relatives aux détenteurs de chien, aux importateurs de chien et aux personnes qui prennent un chien sous leur garde durant plus de trois mois.
 
-<sup>2</sup> Les autorités désignées par le droit cantonal peuvent consulter en ligne les données contenues dans la banque de données sur les chiens pour accomplir leurs tâches légales, dans la mesure où le droit cantonal le prévoit.
+<sup>3</sup> Les autorités désignées par le droit cantonal peuvent consulter en ligne les données contenues dans la banque de données sur les chiens pour accomplir leurs tâches légales, dans la mesure où le droit cantonal le prévoit.
 
 [^17i-1]: Introduit par le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 721](https://fedlex.data.admin.ch/eli/oc/2018/90)).
 
@@ -928,7 +925,7 @@ Les autorités suivantes peuvent consulter en ligne les données de toute la Sui
 
 <sup>1</sup> L’OSAV définit l’étendue des droits d’accès des autorités fédérales et les groupes de personnes autorisées à accéder aux données.
 
-<sup>1</sup> Les cantons définissent, ensemble dans la mesure du possible, l’étendue des droits d’accès des autres personnes, institutions et autorités et, le cas échéant, les groupes de personnes autorisées à accéder aux données.
+<sup>2</sup> Les cantons définissent, ensemble dans la mesure du possible, l’étendue des droits d’accès des autres personnes, institutions et autorités et, le cas échéant, les groupes de personnes autorisées à accéder aux données.
 
 [^17j-1]: Introduit par le ch. I de l’O du 10 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 721](https://fedlex.data.admin.ch/eli/oc/2018/90)).
 
@@ -1220,7 +1217,7 @@ Lors de l’examen, les points suivants sont contrôlés et documentés:
 <sup>4</sup> Pour le reste, sont applicables les dispositions particulières de l’ordonnance du 5 novembre 1986 sur le transport public[^25-2], de l’ordonnance du 13 novembre 1962 sur les règles de la circulation routière[^25-3], de l’ordonnance du 19 juin 1995 sur les exigences techniques requises pour les véhicules routiers[^25-4], de l’ordonnance du 27 mai 1981 sur la protection des animaux[^25-5].
 
 [^25-1]: Phrase introduite par le ch. I de l’O du 15 mars 1999, en vigueur depuis le 1<sup>er</sup> juil. 1999 ([RO 1999 1523](https://fedlex.data.admin.ch/eli/oc/1999/229)).
-[^25-2]: [[RO 1986 1991](https://fedlex.data.admin.ch/eli/oc/1986/1991_1991_1991), [1994 1848](https://fedlex.data.admin.ch/eli/oc/1994/1848_1848_1848), [1996 3035](https://fedlex.data.admin.ch/eli/oc/1996/3035_3035_3035), [1999 719](https://fedlex.data.admin.ch/eli/oc/1999/105), [2004 2697](https://fedlex.data.admin.ch/eli/oc/2004/324). [RO 2009 6025](https://fedlex.data.admin.ch/eli/oc/2009/738)art. 6]. Voir actuellement l’O du 4 nov. 2009 sur le transport de marchandises ([RS 742.411](https://fedlex.data.admin.ch/eli/cc/2016/329)).
+[^25-2]: [[RO 1986 1991](https://fedlex.data.admin.ch/eli/oc/1986/1991_1991_1991), [1994 1848](https://fedlex.data.admin.ch/eli/oc/1994/1848_1848_1848), [1996 3035](https://fedlex.data.admin.ch/eli/oc/1996/3035_3035_3035), [1999 719](https://fedlex.data.admin.ch/eli/oc/1999/105), [2004 2697](https://fedlex.data.admin.ch/eli/oc/2004/324). [RO 2009 6025](https://fedlex.data.admin.ch/eli/oc/2009/738)art. 6]. Voir actuellement l’O du 25 mai 2016 sur le transport de marchandises ([RS 742.411](https://fedlex.data.admin.ch/eli/cc/2016/329)).
 [^25-3]: [RS 741.11](https://fedlex.data.admin.ch/eli/cc/1962/1364_1409_1420)
 [^25-4]: [RS 741.41](https://fedlex.data.admin.ch/eli/cc/1995/4425_4425_4425)
 [^25-5]: [[RO 1981 572](https://fedlex.data.admin.ch/eli/oc/1981/572_572_572), [1986 1408](https://fedlex.data.admin.ch/eli/oc/1986/1408_1408_1408), [1991 2349](https://fedlex.data.admin.ch/eli/oc/1991/2349_2349_2349), [1996 208](https://fedlex.data.admin.ch/eli/oc/1996/208_208_208)art. 2 let. c, [1997 1121](https://fedlex.data.admin.ch/eli/oc/1997/1121_1121_1121), [1998 2303](https://fedlex.data.admin.ch/eli/oc/1998/2303_2303_2303), [2001 1337](https://fedlex.data.admin.ch/eli/oc/2001/184)annexe ch. 1 [2063](https://fedlex.data.admin.ch/eli/oc/2001/304), [2006 1427](https://fedlex.data.admin.ch/eli/oc/2006/242)[5217](https://fedlex.data.admin.ch/eli/oc/2006/791)annexe ch. 2, [2007 1847](https://fedlex.data.admin.ch/eli/oc/2007/269)annexe 3 ch. 1. [RO 2008 2985](https://fedlex.data.admin.ch/eli/oc/2008/416)annexe 6 ch. I]. Voir actuellement l’O du 23 avr. 2008 ([RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)).
@@ -1487,7 +1484,7 @@ Le vétérinaire cantonal organise une surveillance vétérinaire officielle des
 
 **Élimination des sous-produits animaux[^40-1]**
 
-<sup>1</sup> Les sous-produits animaux doivent être éliminés conformément aux dispositions de l’OESPA[^40-2], à moins que la présente ordonnance ne prescrive un traitement spécial.[^40-3]
+<sup>1</sup> Les sous-produits animaux doivent être éliminés conformément aux dispositions de l’OSPA[^40-2], à moins que la présente ordonnance ne prescrive un traitement spécial.[^40-3]
 
 <sup>2</sup> Ils ne doivent pas être transportés avec des animaux.
 
@@ -1816,7 +1813,7 @@ Les dispositions de cette section sont applicables sous réserve de la réglemen
 
 <sup>1</sup> Quiconque détient, assume la garde ou soigne des animaux a l’obligation d’annoncer sans délai à un vétérinaire l’apparition d’une épizootie et tout symptôme suspect pouvant en faire craindre l’éclosion.
 
-<sup>1bis</sup> ...[^61-1]
+<sup>1bis</sup> …[^61-1]
 
 <sup>2</sup> L’obligation d’annoncer incombe également aux assistants officiels, aux collaborateurs des services de santé animale et à ceux qui assurent le contrôle de la production primaire, aux techniciens-inséminateurs, au personnel des établissements d’élimination, au personnel des abattoirs, ainsi qu’aux fonctionnaires de la police et des douanes.[^61-2]
 
@@ -2133,7 +2130,7 @@ Après consultation des vétérinaires cantonaux, l’OSAV définit:
 
 <sup>4</sup> Il ordonne, après concertation avec les vétérinaires cantonaux, les analyses supplémentaires à effectuer au cas où le programme de surveillance révélerait l’existence de troupeaux contaminés.
 
-[^76a-1]: Nouvelle teneur selon le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
+[^76a-1]: Introduit par le ch. I de l’O du 31 août 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022 ([RO 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
 
 #### Art. 76b
 
@@ -2507,15 +2504,15 @@ En situation de crise, le DFI peut ordonner:
 S’il prend les mesures de sécurité qui s’imposent, le vétérinaire cantonal peut autoriser la livraison du lait issu de troupeaux mis sous séquestre, pour autant qu’un organe de la police des épizooties surveille la livraison et que le lait soit acheminé par voie directe:[^101-1]
 
 - a.[^101-2] vers un centre de collecte où, avant d’être transformé ou cédé, il est pasteurisé conformément aux dispositions édictées par le DFI sur la base de l’art. 10, al. 4, ODAlOUs[^101-3];
-- b. vers une installation où il est éliminé comme un sous-produit de catégorie 2 au sens de l’art. 6 OESPA[^101-4].[^101-5]
+- b. vers une installation où il est éliminé comme un sous-produit de catégorie 2 au sens de l’art. 6 OSPA[^101-4].[^101-5]
 
 <sup>2</sup>
 
 Le vétérinaire cantonal veille:
 
 - a. au nettoyage et à la désinfection immédiats des locaux et des installations des centres collecteurs où des livraisons de lait ont été effectuées entre le moment présumé de la contamination du troupeau et le moment où les mesures d’interdiction ont été ordonnées;
-- b. à l’élimination comme sous-produits animaux de catégorie 2 au sens de l’art. 6 OESPA[^101-6] [^101-7] des produits laitiers fabriqués avec du lait contaminé ou à une valorisation de ces produits qui permette d’empêcher une propagation de l’épizootie;
-- c. à ce que la viande d’animaux à onglons provenant de troupeaux contaminés, abattus entre le moment présumé de la contamination et le moment où les mesures d’interdiction ont été ordonnées, soit dans la mesure du possible retrouvée et éliminée comme sous-produits animaux de catégorie 2 au sens de l’art. 6 OESPA.
+- b. à l’élimination comme sous-produits animaux de catégorie 2 au sens de l’art. 6 OSPA[^101-6] [^101-7] des produits laitiers fabriqués avec du lait contaminé ou à une valorisation de ces produits qui permette d’empêcher une propagation de l’épizootie;
+- c. à ce que la viande d’animaux à onglons provenant de troupeaux contaminés, abattus entre le moment présumé de la contamination et le moment où les mesures d’interdiction ont été ordonnées, soit dans la mesure du possible retrouvée et éliminée comme sous-produits animaux de catégorie 2 au sens de l’art. 6 OSPA.
 
 <sup>2bis</sup> Il informe le chimiste cantonal des mesures ordonnées visées aux al. 1, let. a, et 2, let. b et c.[^101-8]
 
@@ -2678,7 +2675,7 @@ Le vétérinaire cantonal délimite une zone de surveillance d’un rayon de 3 k
 
 <sup>1</sup> En dérogation à l’art. 85, al. 2, let. b, le vétérinaire cantonal peut ordonner l’abattage immédiat de tous les animaux de l’espèce bovine cliniquement sains.
 
-<sup>2</sup> La tête et les viscères des animaux abattus doivent être éliminés comme sous-produits animaux de catégorie 2 au sens de l’art. 6 OESPA[^109-1].
+<sup>2</sup> La tête et les viscères des animaux abattus doivent être éliminés comme sous-produits animaux de catégorie 2 au sens de l’art. 6 OSPA[^109-1].
 
 [^109-1]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
 
@@ -2919,7 +2916,7 @@ Sont réceptifs à la peste porcine les animaux des espèces animales suivantes:
 
 <sup>3</sup> L’abattage de porcs dans cet abattoir est de nouveau admis au plus tôt le jour suivant le nettoyage et la désinfection.
 
-<sup>4</sup> Le vétérinaire cantonal veille à ce que la viande de porcs provenant d’effectifs contaminés, abattus entre le moment présumé de la contamination et le moment où les mesures d’interdiction ont été ordonnées, soit dans la mesure du possible retrouvée et éliminée comme sous-produits animaux de catégorie 2 au sens de l’art. 6 OESPA[^117-1].
+<sup>4</sup> Le vétérinaire cantonal veille à ce que la viande de porcs provenant d’effectifs contaminés, abattus entre le moment présumé de la contamination et le moment où les mesures d’interdiction ont été ordonnées, soit dans la mesure du possible retrouvée et éliminée comme sous-produits animaux de catégorie 2 au sens de l’art. 6 OSPA[^117-1].
 
 <sup>5</sup> La viande de porc ne peut être sortie de la zone de surveillance et de la zone de protection qu’avec l’autorisation du vétérinaire cantonal; l’OSAV édicte des dispositions d’exécution de caractère technique sur la désignation et le traitement de cette viande.
 
@@ -3097,7 +3094,7 @@ Si le vétérinaire cantonal a accordé des dérogations au sens de l’al. 2, i
 
 Le vétérinaire cantonal veille à ce que:
 
-- a. les produits tels que la viande de volaille, les œufs de consommation, les œufs à couver et les poussins qui en sont éclos provenant de troupeaux contaminés, obtenus entre le moment présumé de la contamination et le moment où les mesures d’interdiction ont été ordonnées, soient dans la mesure du possible retrouvés et éliminés comme sous-produits animaux de catégorie 2 au sens de l’art. 6 OESPA[^122d-1] et à ce que les exploitations de destination soient nettoyées et désinfectées;
+- a. les produits tels que la viande de volaille, les œufs de consommation, les œufs à couver et les poussins qui en sont éclos provenant de troupeaux contaminés, obtenus entre le moment présumé de la contamination et le moment où les mesures d’interdiction ont été ordonnées, soient dans la mesure du possible retrouvés et éliminés comme sous-produits animaux de catégorie 2 au sens de l’art. 6 OSPA[^122d-1] et à ce que les exploitations de destination soient nettoyées et désinfectées;
 - b. les récipients contaminés servant au transport et à l’emballage soient désinfectés ou éliminés;
 - c. tout cas de suspicion et tout cas d’épizootie soient annoncés au médecin cantonal;
 - d. les personnes exposées à la contagion soient protégées.
@@ -3193,7 +3190,7 @@ Le diagnostic de maladie de Newcastle est établi si:
 
 <sup>1</sup> Lorsque la maladie de Newcastle apparaît chez des oiseaux détenus en captivité, le vétérinaire cantonal interdit le transport d’œufs, de récipients de transport et d’emballages d’œufs, de même que l’épandage de fumier provenant des troupeaux exposés à la contagion, suspects ou contaminés.
 
-<sup>2</sup> Le vétérinaire cantonal veille à ce que les produits tels que la viande de volaille, les œufs de consommation ainsi que les œufs à couver et les poussins qui en sont éclos provenant de troupeaux contaminés, obtenus entre le moment présumé de la contamination et le moment où les mesures d’interdiction ont été ordonnées, soient retrouvés et éliminés comme sous-produits animaux de catégorie 2 au sens de l’art. 6 OESPA[^123a-2]. Le matériel de transport et d’emballages des œufs provenant de troupeaux contaminés doit être éliminé également s’il ne peut être dûment nettoyé et désinfecté.
+<sup>2</sup> Le vétérinaire cantonal veille à ce que les produits tels que la viande de volaille, les œufs de consommation ainsi que les œufs à couver et les poussins qui en sont éclos provenant de troupeaux contaminés, obtenus entre le moment présumé de la contamination et le moment où les mesures d’interdiction ont été ordonnées, soient retrouvés et éliminés comme sous-produits animaux de catégorie 2 au sens de l’art. 6 OSPA[^123a-2]. Le matériel de transport et d’emballages des œufs provenant de troupeaux contaminés doit être éliminé également s’il ne peut être dûment nettoyé et désinfecté.
 
 <sup>3</sup> En dérogation à l’art. 94, al. 2, le vétérinaire cantonal peut, après avoir consulté l’OSAV, lever le séquestre de 2<sup>e</sup> degré sur les troupeaux exposés à la contagion après dix jours au plus tôt, si l’examen clinique de tous les animaux du troupeau sensibles à l’épizootie, l’examen sérologique du sang et la détection du génome du virus sur un échantillon d’animaux exposés à la contagion ont donné un résultat négatif.
 
@@ -3559,7 +3556,7 @@ Les dispositions ci-après s’appliquent à la zone d’interdiction:
 - c. quiconque trouve un renard ou un blaireau mort a l’obligation de l’annoncer au poste de police le plus proche ou à la police de la chasse;
 - d. la police, la police de la chasse ou les personnes autorisées à chasser abattent les chats harets et les chats errants suspects de rage;
 - e. la police, la police de la chasse ou les personnes autorisées à chasser abattent les chiens errants qui ne peuvent être capturés. Dans la mesure du possible, on fera appel au détenteur pour capturer l’animal;
-- f. les animaux tués, le gibier mort et les têtes coupées doivent être éliminés comme sous-produits animaux de catégorie 2 au sens de l’art. 6 OESPA[^147-1], à moins que les cadavres ou les têtes doivent être envoyés pour examen au centre de la rage;
+- f. les animaux tués, le gibier mort et les têtes coupées doivent être éliminés comme sous-produits animaux de catégorie 2 au sens de l’art. 6 OSPA[^147-1], à moins que les cadavres ou les têtes doivent être envoyés pour examen au centre de la rage;
 - g. dans les bois et à leur lisière, les chiens doivent être tenus en laisse. Partout ailleurs, ils peuvent être lâchés s’ils restent sous surveillance étroite. Cette restriction ne s’applique pas aux chiens des gardes-frontière, de la police, de l’armée ou d’avalanche vaccinés contre la rage lorsqu’ils sont en service et aux chiens de chasse durant la chasse;
 - h. les animaux qui ont mordu une personne, doivent être observés pendant dix jours; passé ce délai, ils doivent subir un examen vétérinaire officiel. Jusqu’à ce moment, ils ne peuvent être tués qu’avec l’autorisation du vétérinaire officiel;
 - i. des mesures pour la protection du public doivent être prises dans les jardins zoologiques, les parcs d’animaux sauvages et autres institutions semblables dans lesquelles les visiteurs peuvent toucher les animaux.
@@ -3657,8 +3654,8 @@ En cas de constat de brucellose bovine, le vétérinaire cantonal ordonne le sé
 
 - a. la mise à mort immédiate et l’élimination sans mise en valeur de la viande de tous les animaux contaminés;
 - b. l’isolement ou l’abattage des animaux suspects qui présentent des symptômes d’avortement ainsi que de ceux qui vont mettre bas normalement avant l’évacuation des eaux fœtales;
-- c. l’élimination des arrière-faix et de tous les avortons comme sous-produits animaux de catégorie 2 au sens de l’art. 6 OESPA[^155-1];
-- d. l’élimination du lait d’animaux contaminés ou suspects comme sous-produits animaux de catégorie 2 au sens de l’art. 6 OESPA, ou sa cuisson et son utilisation dans le troupeau même pour l’alimentation des animaux;
+- c. l’élimination des arrière-faix et de tous les avortons comme sous-produits animaux de catégorie 2 au sens de l’art. 6 OSPA[^155-1];
+- d. l’élimination du lait d’animaux contaminés ou suspects comme sous-produits animaux de catégorie 2 au sens de l’art. 6 OSPA, ou sa cuisson et son utilisation dans le troupeau même pour l’alimentation des animaux;
 - e. le nettoyage et la désinfection des étables.
 
 <sup>2</sup>
@@ -3751,7 +3748,7 @@ En cas de constat de tuberculose, le vétérinaire cantonal ordonne le séquestr
 
 - a.[^163-1] l’isolement immédiat des animaux contaminés ou suspects;
 - a<sup>bis</sup>.[^163-2] l’abattage des animaux suspects et la mise à mort des animaux contaminés dans un délai de dix jours;
-- b. l’élimination du lait d’animaux contaminés ou suspects comme sous-produits animaux de catégorie 2 au sens de l’art. 6 OESPA[^163-3], ou sa cuisson et son utilisation dans le troupeau même pour l’alimentation des animaux;
+- b. l’élimination du lait d’animaux contaminés ou suspects comme sous-produits animaux de catégorie 2 au sens de l’art. 6 OSPA[^163-3], ou sa cuisson et son utilisation dans le troupeau même pour l’alimentation des animaux;
 - c. le nettoyage et la désinfection des étables.
 
 <sup>2</sup> Le séquestre est levé lorsque deux examens de tous les bovins âgés de plus de six semaines ont donné des résultats exclusivement négatifs. Le premier examen peut être effectué au plus tôt 180 jours après l’élimination du dernier animal suspect ou contaminé, et le deuxième au plus tôt 180 jours après le premier.[^163-4]
@@ -3865,12 +3862,12 @@ Dans le troupeau où se trouve un animal exposé à la contagion, le vétérinai
 
 **Mesures lors du constat de LBE**
 
-<sup>1</sup> b.[^169-1] la pasteurisation des sous-produits de la transformation du lait des troupeaux mis sous séquestre avant qu’ils ne servent d’aliment pour les veaux;
+<sup>1</sup>
 
 Lorsque la LBE est constatée, le vétérinaire cantonal ordonne le séquestre simple de premier degré sur le troupeau contaminé. Il ordonne en outre:
 
 - a. l’abattage des animaux suspects et contaminés;
-
+- b.[^169-1] la pasteurisation des sous-produits de la transformation du lait des troupeaux mis sous séquestre avant qu’ils ne servent d’aliment pour les veaux;
 - c. le nettoyage et la désinfection des étables.
 
 <sup>2</sup>
@@ -4218,7 +4215,7 @@ Lorsque les bovins proviennent d’États présentant un risque d’ESB contrôl
 - a. les amygdales, les derniers quatre mètres de l’intestin grêle, le cæcum et le mésentère des bovins de toutes les catégories d’âge;
 - b. la colonne vertébrale, y compris les ganglions rachidiens, à l’exclusion des vertèbres caudales, des apophyses épineuses et transverses des vertèbres cervicales, thoraciques et lombaires, de la crête sacrale médiane et des ailes du sacrum, des bovins âgés de plus de 30 mois.[^179d-3]
 
-<sup>2</sup> Le matériel à risque spécifié doit être éliminé directement après l’abattage comme sous-produit animal de catégorie 1 conformément à l’art. 22 OESPA[^179d-4].[^179d-5]
+<sup>2</sup> Le matériel à risque spécifié doit être éliminé directement après l’abattage comme sous-produit animal de catégorie 1 conformément à l’art. 22 OSPA[^179d-4].[^179d-5]
 
 <sup>3</sup> La base du cerveau ne doit pas être détruite après l’étourdissement.
 
@@ -4291,7 +4288,7 @@ Si la tremblante est constatée dans le troupeau où l’animal contaminé a ét
 
 <sup>3</sup> Les animaux visés à l’al. 1, let. f, ne doivent pas être tués ou abattus s’ils ont fait l’objet d’une analyse de génotypage et présentent au moins un allèle ARR et aucun allèle VRQ. Le séquestre simple de premier degré est levé dès que le troupeau ne compte plus que des animaux présentant au moins un allèle ARR et aucun allèle VRQ.
 
-<sup>4</sup> Lors de l’abattage d’animaux âgés de moins de deux mois (al. 1, let. f), il faut éliminer la tête et les organes de la cavité abdominale de ces animaux conformément à l’art. 22, al. 1, OESPA[^180b-2].[^180b-3]
+<sup>4</sup> Lors de l’abattage d’animaux âgés de moins de deux mois (al. 1, let. f), il faut éliminer la tête et les organes de la cavité abdominale de ces animaux conformément à l’art. 22, al. 1, OSPA[^180b-2].[^180b-3]
 
 <sup>5</sup> Pour les races rares, le vétérinaire cantonal peut, à titre exceptionnel et en accord avec l’OSAV, ne pas ordonner la mise à mort du troupeau (al. 1, let. f). Dans ce cas, le troupeau doit être surveillé pendant la durée du séquestre par le vétérinaire officiel, qui examinera les animaux deux fois par année. Le séquestre est levé si aucun autre cas de tremblante n’est apparu après deux ans. Si des animaux sont mis à mort pendant le séquestre pour être mis à mort, leurs têtes, y compris les amygdales, doivent être examinées par le laboratoire de référence.
 
@@ -4311,7 +4308,7 @@ Par matériel à risque spécifié, on entend, en ce qui concerne les ovins et l
 - b. les yeux;
 - c. la moelle épinière avec la dure-mère *(Dura mater)*.[^180c-1]
 
-<sup>2</sup> Le matériel à risque spécifié doit être éliminé directement après l’abattage comme sous-produit animal de catégorie 1 (art. 22 OESPA[^180c-2]).[^180c-3] La moelle épinière peut aussi être éliminée après la découpe si elle appartient à des carcasses non fendues dont la colonne vertébrale non ouverte, comprenant la moelle épinière, est éliminée comme matériel à risque spécifié.
+<sup>2</sup> Le matériel à risque spécifié doit être éliminé directement après l’abattage comme sous-produit animal de catégorie 1 (art. 22 OSPA[^180c-2]).[^180c-3] La moelle épinière peut aussi être éliminée après la découpe si elle appartient à des carcasses non fendues dont la colonne vertébrale non ouverte, comprenant la moelle épinière, est éliminée comme matériel à risque spécifié.
 
 <sup>3</sup> La base du cerveau ne doit pas être détruite après l’étourdissement.
 
@@ -4588,7 +4585,7 @@ En cas de constat de brucellose des ovins et des caprins, le vétérinaire canto
 - a. l’élimination immédiate de tout le troupeau; si la contamination touche moins de 10 % des animaux, l’élimination peut se limiter aux animaux contaminés;
 - b. la mise à mort sans délai des animaux qui ont avorté ou chez lesquels l’agent infectieux a été mis en évidence et leur élimination en tant que sous-produits animaux[^194-1];
 - c. l’élimination de tous les arrière-faix et avortons;
-- d. l’élimination du lait provenant des animaux contaminés en tant que sous-produits animaux de catégorie 2 au sens de l’art. 6 OESPA[^194-2], ou sa cuisson et son utilisation dans le troupeau même pour l’alimentation des animaux;
+- d. l’élimination du lait provenant des animaux contaminés en tant que sous-produits animaux de catégorie 2 au sens de l’art. 6 OSPA[^194-2], ou sa cuisson et son utilisation dans le troupeau même pour l’alimentation des animaux;
 - e. le nettoyage et la désinfection des locaux de stabulation.
 
 <sup>2</sup>
@@ -4761,7 +4758,7 @@ En cas de constat de brucellose porcine, le vétérinaire cantonal ordonne le s�
 
 - a. que les animaux contaminés et suspects soient immédiatement mis à mort et éliminés;
 - b. l’isolement des truies suspectes présentant des symptômes d’avortement ainsi que des truies qui vont mettre bas avant l’évacuation des eaux fœtales;
-- c. l’examen bactériologique et l’élimination de tous les arrière-faix et des avortons comme sous-produits animaux de catégorie 2 au sens de l’art. 6 OESPA[^211-1];
+- c. l’examen bactériologique et l’élimination de tous les arrière-faix et des avortons comme sous-produits animaux de catégorie 2 au sens de l’art. 6 OSPA[^211-1];
 - d. le nettoyage et la désinfection de la porcherie.
 
 <sup>2</sup>
@@ -5012,10 +5009,11 @@ Sont imputables au programme de lutte:
 Les fournisseurs des prestations visées à l’al. 1 reçoivent les indemnités suivantes:
 
 - a. un forfait de 125 à 200 francs pour le prélèvement des échantillons et l’envoi de ceux-ci aux laboratoires, en fonction de la taille et de l’emplacement de l’unité d’élevage;
-- b. au maximum 45 francs pour l’analyse, en laboratoire, d’un échantillon composite de 10 animaux au maximum;
+- b.[^229a-2] au maximum 60 francs pour l’analyse, en laboratoire, d’un échantillon composite de 10 animaux au maximum;
 - c. une indemnité appropriée pour l’encaissement.
 
 [^229a-1]: Introduit par le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^229a-2]: Nouvelle teneur selon le ch. I de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 266](https://fedlex.data.admin.ch/eli/oc/2024/266)).
 
 #### Art. 229b
 
@@ -5035,7 +5033,7 @@ Les fournisseurs des prestations visées à l’al. 1 reçoivent les indemnités
 
 **Paiement des indemnités et reversement d’un éventuel excédent**[^229c-1]
 
-<sup>1</sup> Le tiers mandaté paie l’indemnité à un laboratoire dès que celui-ci a saisi le résultat de l’examen de base ou du premier examen de suivi dans le système d’information pour les données des laboratoires (ALIS) visé par l’OSIVét[^229c-2].
+<sup>1</sup> Le tiers mandaté paie l’indemnité à un laboratoire dès que celui-ci a saisi le résultat de l’examen de base ou du premier examen de suivi dans le système d’information pour les résultats de contrôles et d’analyses (ARES) visé par l’ordonnance du 27 avril 2022 concernant les systèmes d’information de l’OSAV liés à la chaîne agroalimentaire[^229c-2].[^229c-3]
 
 <sup>2</sup> Il facture la partie des coûts d’analyse de l’échantillon non couverte par la taxe des détenteurs de moutons au canton qui a demandé l’analyse.
 
@@ -5043,6 +5041,7 @@ Les fournisseurs des prestations visées à l’al. 1 reçoivent les indemnités
 
 [^229c-1]: Introduit par le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 [^229c-2]: [RS 916.408](https://fedlex.data.admin.ch/eli/cc/2022/272)
+[^229c-3]: Nouvelle teneur selon le ch. I de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 266](https://fedlex.data.admin.ch/eli/oc/2024/266)).
 
 #### Art. 229d
 
@@ -5054,9 +5053,10 @@ Les fournisseurs des prestations visées à l’al. 1 reçoivent les indemnités
 
 <sup>3</sup> Les vétérinaires saisissent dans ASAN les données relatives aux échantillons prélevés.
 
-<sup>4</sup> Les laboratoires chargés de l’analyse des échantillons saisissent les résultats dans ALIS, au plus tard dans la semaine qui suit la réception de l’échantillon.
+<sup>4</sup> Les laboratoires chargés de l’analyse des échantillons saisissent les résultats dans ARES, au plus tard dans la semaine qui suit la réception de l’échantillon.[^229d-2]
 
 [^229d-1]: Introduit par le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
+[^229d-2]: Nouvelle teneur selon le ch. I de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 266](https://fedlex.data.admin.ch/eli/oc/2024/266)).
 
 #### Art. 229e
 
@@ -5218,7 +5218,7 @@ En cas de suspicion, le vétérinaire cantonal ordonne en outre les mesures suiv
 
 - a.[^238-1] l’isolement de l’animal suspect et l’interdiction de le déplacer;
 - b.[^238-2] l’interdiction de déplacer les descendants des animaux femelles visés à la let. a, nés dans les 12 derniers mois précédant l’apparition du cas de suspicion;
-- c. l’élimination du lait de l’animal suspect comme un sous-produit de catégorie 2 au sens de l’art. 6 OESPA[^238-3].
+- c. l’élimination du lait de l’animal suspect comme un sous-produit de catégorie 2 au sens de l’art. 6 OSPA[^238-3].
 
 <sup>4</sup>
 
@@ -5242,7 +5242,7 @@ Lors de chaque cas d’épizootie, le vétérinaire cantonal ordonne en outre le
 - a.[^238a-2] l’isolement, la mise à mort et l’élimination des animaux contaminés;
 - a<sup>bis</sup>.[^238a-3] l’isolement et, au plus tard à l’âge de 12 mois, l’abattage des descendants des animaux femelles visés à la let. a, nés dans les 12 mois précédant l’apparition du cas d’épizootie;
 - b. l’examen clinique des animaux des espèces réceptives à l’épizootie du troupeau;
-- c. l’élimination du lait des animaux suspects ou contaminés comme un sous-produit de catégorie 2 au sens de l’art. 6 OESPA[^238a-4];
+- c. l’élimination du lait des animaux suspects ou contaminés comme un sous-produit de catégorie 2 au sens de l’art. 6 OSPA[^238a-4];
 - d. le nettoyage et la désinfection des locaux de stabulation.
 
 <sup>1bis</sup> Il interdit de déplacer les animaux visés à l’al. 1, let. a<sup>bis</sup>, jusqu’à leur abattage.[^238a-5]
@@ -5868,8 +5868,8 @@ Une infection est suspectée dans un troupeau:
 Lors du constat des sérotypes de *Salmonella* visés à l’art. 255, al. 3, le vétérinaire cantonal ordonne le séquestre simple de premier degré sur le troupeau contaminé. Il ordonne en outre:[^260-1]
 
 - a. l’abattage ou la mise à mort du troupeau contaminé;
-- b. l’interdiction d’utiliser les œufs pour l’accouvage et leur élimination comme sous-produits animaux de catégorie 2 au sens de l’art. 6 OESPA[^260-2] ou leur traitement pour tuer les salmonelles avant de mettre les œufs dans le commerce à des fins de consommation humaine;
-- c. l’élimination des œufs déjà couvés comme sous-produits animaux de catégorie 2 au sens de l’art. 6 OESPA;
+- b. l’interdiction d’utiliser les œufs pour l’accouvage et leur élimination comme sous-produits animaux de catégorie 2 au sens de l’art. 6 OSPA[^260-2] ou leur traitement pour tuer les salmonelles avant de mettre les œufs dans le commerce à des fins de consommation humaine;
+- c. l’élimination des œufs déjà couvés comme sous-produits animaux de catégorie 2 au sens de l’art. 6 OSPA;
 - d. le traitement de la viande fraîche avant sa mise dans le commerce lorsqu’elle provient du troupeau contaminé, le traitement devant permettre de tuer les salmonelles.
 
 <sup>2</sup> Il lève le séquestre lorsque tous les animaux du troupeau contaminé ont été tués ou abattus et lorsque le nettoyage et la désinfection des lieux ont été vérifiés par un examen bactériologique.
@@ -6172,8 +6172,8 @@ Il y a suspicion d’infestation par le petit coléoptère de la ruche lorsque d
 
 En cas de constat d’une infestation par le petit coléoptère de la ruche, le vétérinaire cantonal ordonne les mesures suivantes:
 
-- a. l’interdiction de déplacer les colonies d’abeilles ou les nids de bourdons, le matériel apicole usagé, le miel en rayon et les sous-produits de l’apiculture de l’exploitation infestée et la destruction immédiate des colonies d'abeilles ou des nids de bourdons conformément aux instructions de l’inspecteur des ruchers;
-- b. la destruction immédiate du matériel apicole usagé, du miel en rayon et des sous-produits de l'apiculture ainsi que des autres objets qui peuvent être entrés en contact avec le petit coléoptère de la ruche ou le nettoyage et la désinfestation sans délai de ceux-ci conformément aux instructions de l’inspecteur des ruchers;
+- a. l’interdiction de déplacer les colonies d’abeilles ou les nids de bourdons, le matériel apicole usagé, le miel en rayon et les sous-produits de l’apiculture de l’exploitation infestée et la destruction immédiate des colonies d’abeilles ou des nids de bourdons conformément aux instructions de l’inspecteur des ruchers;
+- b. la destruction immédiate du matériel apicole usagé, du miel en rayon et des sous-produits de l’apiculture ainsi que des autres objets qui peuvent être entrés en contact avec le petit coléoptère de la ruche ou le nettoyage et la désinfestation sans délai de ceux-ci conformément aux instructions de l’inspecteur des ruchers;
 - c. le nettoyage et la désinfestation de la ruche, de même que de tous les locaux et ustensiles de l’exploitation infestée, conformément aux instructions de l’inspecteur des ruchers;
 - d. le traitement du sol aux environs du rucher ou du nid de bourdons infestés, conformément aux instructions de l’inspecteur des ruchers;
 - e.[^274d-1] l’installation, dans l’exploitation infestée, d’une colonie d’abeilles sentinelle soumise aux contrôles réguliers de l’inspecteur des ruchers.
@@ -6232,7 +6232,7 @@ Il n’est pas alloué d’indemnités pour les pertes d’animaux mentionnées 
 
 <sup>1</sup>
 
-L’OSAV exploite le système informatique « Apinella » de détection précoce de l’infestation des colonies d’abeilles par le petit coléoptère de la ruche *(Aethina tumida)*. Ce système informatique contient les données suivantes:
+L’OSAV exploite le système informatique «Apinella» de détection précoce de l’infestation des colonies d’abeilles par le petit coléoptère de la ruche *(Aethina tumida)*. Ce système informatique contient les données suivantes:
 
 - a.
 
@@ -6395,7 +6395,7 @@ Sont considérées comme espèces de poissons sensibles:
 
 En cas de suspicion de NHI, de SHV ou d’AIS, le vétérinaire cantonal ordonne le séquestre simple de premier degré sur l’exploitation aquacole suspecte; il peut autoriser l’abattage des poissons et leur cession comme denrées alimentaires. Il ordonne en outre:[^281-1]
 
-- a. l’élimination en tant que sous-produits animaux de catégorie 2 au sens de l’art. 6 OESPA[^281-2] des poissons morts et des déchets provenant de la préparation de poissons;
+- a. l’élimination en tant que sous-produits animaux de catégorie 2 au sens de l’art. 6 OSPA[^281-2] des poissons morts et des déchets provenant de la préparation de poissons;
 - b.[^281-3] le contrôle des exploitations aquacoles voisines du même bassin hydrographique quant aux symptômes de NHI, de SHV ou d’AIS.
 
 <sup>2</sup> Il lève le séquestre lorsque la preuve a été apportée que l’effectif de poissons est indemne du virus.
@@ -6546,7 +6546,7 @@ Le diagnostic de la peste des écrevisses ou l’infection par le virus des poin
 Les mesures suivantes sont applicables dans la zone d’interdiction:
 
 - a. il est interdit de transporter des écrevisses vivantes hors de la zone d’interdiction ou d’y en introduire;
-- b. les écrevisses mortes ou tuées qui ne sont pas destinées à la consommation sont à éliminer comme sous-produits animaux de catégorie 2 au sens de l’art. 6 OESPA[^289-2].
+- b. les écrevisses mortes ou tuées qui ne sont pas destinées à la consommation sont à éliminer comme sous-produits animaux de catégorie 2 au sens de l’art. 6 OSPA[^289-2].
 
 <sup>3</sup> Pour le reste, le canton ordonne les mesures de police de la pêche pour éviter la dissémination de l’agent infectieux, tel le dépeuplement de toutes les écrevisses des eaux contaminées.
 
@@ -6688,9 +6688,9 @@ L’OSAV rédige et publie un rapport annuel sur les zoonoses en collaboration a
 
 <sup>1</sup> Les contrôles sont régis par l’ordonnance du 27 mai 2020 sur le plan de contrôle national pluriannuel de la chaîne agroalimentaire et des objets usuels[^292a-2].[^292a-3]
 
-<sup>1bis</sup> ...[^292a-4]
+<sup>1bis</sup> …[^292a-4]
 
-<sup>2</sup> ...[^292a-5]
+<sup>2</sup> …[^292a-5]
 
 <sup>3</sup> L’OSAV édicte des dispositions techniques réglant les contrôles dans les exploitations détenant des animaux de rente.[^292a-6]
 
@@ -6752,9 +6752,12 @@ En cas d’apparition d’une épizootie hautement contagieuse en Suisse ou à l
 
 <sup>3</sup> L’OSAV définit les entreprises concernées, la teneur de l’information et la durée de sa diffusion. Il conforme ses mesures aux obligations découlant de l’annexe 11 de l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne relatif aux échanges de produits agricoles[^295a-3]. Il met le matériel d’information à disposition.
 
+<sup>4</sup> Indépendamment de l’apparition d’une épizootie, l’OSAV peut placer dans les aéroports nationaux, à des endroits bien visibles des passagers, des informations sur l’importation d’animaux et de produits animaux dans le cadre du trafic voyageurs, afin d’empêcher l’introduction d’épizooties dans le pays. Il demande aux exploitants d’aéroports de mettre à sa disposition les emplacements nécessaires à cette fin.[^295a-4]
+
 [^295a-1]: Introduit par le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> mai 2021 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 [^295a-2]: [RS 745.1](https://fedlex.data.admin.ch/eli/cc/2009/680)
 [^295a-3]: [RS 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
+[^295a-4]: Introduit par le ch. I de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 266](https://fedlex.data.admin.ch/eli/oc/2024/266)).
 
 #### Art. 296
 
@@ -7031,7 +7034,7 @@ L’OSAV peut révoquer l’agrément dans les cas suivants:
 - d. le contrôle de qualité externe donne lieu à des contestations répétées.
 
 [^312b-1]: Introduit par le ch. I de l’O du 28 oct. 2015, en vigueur depuis le 1<sup>er</sup> déc. 2015 ([RO 2015 4255](https://fedlex.data.admin.ch/eli/oc/2015/716)).
-[^312b-2]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^312b-2]: La norme peut être consultée gratuitement ou obtenue contre paiement auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
 [^312b-3]: [RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
 
 #### Art. 312c
