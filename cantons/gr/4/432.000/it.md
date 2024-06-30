@@ -4,35 +4,35 @@ number: "432.000"
 title: Legge sugli istituti di formazione in ambito sanitario e sociale
 short: LISS
 language: it
-version: 2014-08-01
-corrected: 2014-11-09
-version_adopted: 2012-10-24
+version: 2024-07-01
+version_adopted: 2024-02-14
 adopted: 2002-09-22
 in_force: 2003-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/432.000"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/1986/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3537/pdf_file"
 ---
 
-> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone. Il Cantone pubblica questa versione solo in PDF: il testo ne è estratto, la struttura dedotta dall’impaginazione.
+> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
-# Legge sugli istituti di formazione in ambito sanitario e sociale (LISS)
+# Legge sugli istituti di formazione in ambito sanitario e sociale
 
-accettata dal Popolo il 22 settembre 2002[^t-1]
+(LISS)
 
-I. Disposizioni generali
+del 22.09.2002 (stato 01.07.2024)
 
-[^t-1]: Messaggio del 5 febbraio 2002, 57; PGC 2002/2003, 116
+accettata dal Popolo il 22 settembre 2002[^ingress-1]
+
+[^ingress-1]: Messaggio del 5 febbraio 2002, 57; PGC 2002/2003, 116
+
+## 1. Disposizioni generali
 
 #### Art. 1
 
 **Ambito normativo**
 
-<sup>1</sup>[^1-1]La presente legge disciplina la direzione del centro cantonale di formazione in ambito sanitario e sociale e la stipulazione di concordati in questo settore dell'istruzione.
+<sup>1</sup> La presente legge disciplina la direzione del centro cantonale di formazione in ambito sanitario e sociale e la stipulazione di concordati in questo settore dell'istruzione.
 
 <sup>2</sup> Per materie non disciplinate in questa legge si applicano per analogia le disposizioni della legislazione cantonale sulla formazione professionale.
-
-[^1-1]: Testo giusta art. 54 della legge sulla formazione professionale e sulle offerte di formazione continua, CSC 430.000, entrato in vigore il 1° gennaio 2008
 
 #### Art. 2
 
@@ -42,43 +42,35 @@ I. Disposizioni generali
 
 <sup>2</sup> Gli istituti di formazione possono offrire perfezionamenti.
 
-[^2-1]: Abrogazione giusta art. 54 della legge sulla formazione professionale e sulle offerte di formazione continua, CSC 430.000, entrata in vigore il 1° gennaio 2008
-
 #### Art. 3
 
-[^2-1]
+**…**
 
 #### Art. 4
 
 **2. Scuole universitarie professionali**
 
-<sup>1</sup> ...[^4-1]
+<sup>1</sup> …
 
-<sup>2</sup> ...[^4-2]
-
-[^4-1]: Abrogazione giusta art. 54 della legge sulla formazione professionale e sulle offerte di formazione continua, CSC 430.000, entrata in vigore il 1° gennaio 2008
-[^4-2]: Abrogazione giusta art. 33 della legge sulle scuole universitarie e sulla ricerca, CSC 427.200; entrata in vigore il 1° agosto 2014 1.8.2014 1
+<sup>2</sup> …
 
 #### Art. 5
 
 **Concordati**
 
-<sup>1</sup> ...[^5-1]
+<sup>1</sup> …
 
-<sup>2</sup> ...[^5-2]
+<sup>2</sup> …
 
 <sup>3</sup> Rientra nelle competenze del Gran Consiglio decidere in merito a concordati e accordi riguardanti la corresponsabilità del Cantone in istituti per la formazione e il perfezionamento nei settori sanitario e sociale, compreso il loro finanziamento.
 
-[^5-1]: Abrogazione giusta art. 54 della legge sulla formazione professionale e sulle offerte di formazione continua, CSC 430.000, entrata in vigore il 1° gennaio 2008
-[^5-2]: Abrogazione giusta art. 54 della legge sulla formazione professionale e sulle offerte di formazione continua, CSC 430.000, entrata in vigore il 1° gennaio 2 1.8.2014
-
-### II. Centro di formazione in campo sanitario e sociale (CSS)
+## 2. Centro di formazione in campo sanitario e sociale (CFSS)
 
 #### Art. 6
 
 **Forma giuridica, sede**
 
-Il „Centro di formazione in campo sanitario e sociale“ è un istituto autonomo di diritto pubblico cantonale con sede a Coira.
+<sup>1</sup> Il "Centro di formazione in campo sanitario e sociale" è un istituto autonomo di diritto pubblico cantonale con sede a Coira.
 
 #### Art. 7
 
@@ -105,9 +97,7 @@ Il „Centro di formazione in campo sanitario e sociale“ è un istituto autono
 <sup>1</sup> Gli organi del Centro di formazione sono:
 
 - a) il consiglio scolastico;
-
 - b) la direzione;
-
 - c) l'ufficio di revisione.
 
 <sup>2</sup> Il Governo nomina l'ufficio di revisione e il consiglio scolastico, del quale designa anche la presidenza.
@@ -121,55 +111,44 @@ Il „Centro di formazione in campo sanitario e sociale“ è un istituto autono
 <sup>2</sup> In particolare ha i seguenti compiti:
 
 - a) deliberazione sull'orientamento strategico;
-
 - b) determinazione di principi inerenti la gestione e il personale nonché definizione della struttura organizzativa;
-
 - c) determinazione delle tasse scolastiche e di studio;
-
 - d) approvazione degli obiettivi annuali;
-
 - e) approvazione della pianificazione finanziaria;
-
 - f) approvazione del bilancio;
-
 - g) approvazione del rapporto annuale e del conto annuale;
-
 - h) controlling e garanzia della qualità;
-
 - i) nomina della direzione e vigilanza sulla gestione aziendale.
 
 #### Art. 11
 
 **Direzione**
 
-La direzione è responsabile della gestione operativa e della direzione pedagogica del Centro di formazione.
+<sup>1</sup> La direzione è responsabile della gestione operativa e della direzione pedagogica del Centro di formazione.
 
 #### Art. 12
 
 **Ufficio di revisione**
 
-L'ufficio di revisione esamina la contabilità e fa rapporto al Governo e al consiglio scolastico.
+<sup>1</sup> L'ufficio di revisione esamina la contabilità e fa rapporto al Governo e al consiglio scolastico.
 
 #### Art. 13
 
 **Personale**
 
-Le condizioni d'impiego si conformano all'ordinanza sul rapporto di lavoro dei collaboratori del Cantone dei Grigioni[^13-1].
+<sup>1</sup> Le condizioni d'impiego si conformano all'ordinanza sul rapporto di lavoro dei collaboratori del Cantone dei Grigioni[^13-1].
 
-[^13-1]: Ora legge sul personale, CSC 170.400, e legislazione derivata 1.8.2014 3
+[^13-1]: Ora legge sul personale, CSC [170.400](https://www.gr-lex.gr.ch/data/170.400/it), e legislazione derivata
 
 #### Art. 14
 
 **Finanziamento**
 
-I mezzi finanziari necessari per l'adempimento dei compiti sono costituiti soprattutto da:
+<sup>1</sup> I mezzi finanziari necessari per l'adempimento dei compiti sono costituiti soprattutto da:
 
 - a) rette scolastiche, tasse di iscrizione ai corsi e retribuzioni per prestazioni;
-
 - b) sovvenzioni del Cantone e della Confederazione;
-
 - c) sussidi e donazioni di terzi;
-
 - d) contrazione di prestiti e crediti.
 
 #### Art. 15
@@ -180,6 +159,18 @@ I mezzi finanziari necessari per l'adempimento dei compiti sono costituiti sopra
 
 <sup>2</sup> Il Governo emana delle direttive sulle spese e sui ricavi computabili, sulla valutazione della sostanza, sull'impiego di eventuali eccedenze attive, sulla procedura d'allestimento del preventivo, nonché sulla concessione di acconti.
 
+#### Art. 15a
+
+**Altri sussidi**
+
+<sup>1</sup> Il Cantone può concedere al Centro di formazione in campo sanitario e sociale altri sussidi a favore della promozione della formazione di personale attivo nel settore della medicina umana i quali devono essere utilizzati in particolare per le prestazioni seguenti:
+
+- a) per diversificare l'offerta di formazione;
+- b) per misure di selezione e di accesso;
+- c) per ottimizzare il contesto di apprendimento;
+- d) per misure volte a contenere il più possibile l'interruzione della formazione;
+- e) per progetti di marketing di cicli di formazione.
+
 #### Art. 16
 
 **Vigilanza**
@@ -188,33 +179,58 @@ I mezzi finanziari necessari per l'adempimento dei compiti sono costituiti sopra
 
 <sup>2</sup> Il Gran Consiglio deve essere messo a conoscenza del rapporto annuale e del conto annuale.
 
-[^16-1]: Abrogazione giusta art. 17, n. 4 della legge sulla responsabilità dello Stato, CSC 170.050; entrata in vigore il 1° maggio 2007
-
 #### Art. 17
 
-[^16-1]
+**…**
 
-### III. Altri istituti di formazione nel Cantone
-
-[^hIIIAltriistituti-1]: Abrogazione giusta art. 54 della legge sulla formazione professionale e sulle offerte di formazione continua, CSC 430.000, entrata in vigore il 1° gennaio 4 1.8.2014
+## 3. Altri istituti di formazione nel Cantone
 
 #### Art. 18
 
-[^hIIIAltriistituti-1]
+**…**
 
-### IV. Disposizioni finali
+## 3a. Contributi di sostegno a favore di studenti nel settore delle cure
+
+#### Art. 18a
+
+**Presupposti e procedura**
+
+<sup>1</sup> Il Cantone concede a studenti del ciclo di formazione in cure infermieristiche SSS o del ciclo di studi in cure infermieristiche SUP contributi a garanzia del loro sostentamento (contributi di sostegno), se tali studenti:
+
+- a) hanno computo i 23 anni; oppure
+- b) devono adempiere ad obblighi di mantenimento in qualità di genitori.
+
+#### Art. 18b
+
+**Obbligo di collaborare al procedimento**
+
+<sup>1</sup> Il richiedente è tenuto a comunicare in modo completo e veritiero all'organo esecutivo tutti i fatti rilevanti per la concessione dei contributi di sostegno e a inoltrare la documentazione necessaria.
+
+<sup>2</sup> Chi riceve o deve rimborsare contributi di sostegno comunica senza indugio all'organo esecutivo ogni modifica di fatti rilevanti ai fini della concessione o della richiesta di restituzione di contributi.
+
+#### Art. 18c
+
+**Esclusione e richiesta di restituzione**
+
+<sup>1</sup> Chi viola in modo grave o ripetuto l'obbligo di collaborare previsto dall'articolo 18b può essere escluso dall'ulteriore diritto a contributi.
+
+<sup>2</sup> La richiesta di restituzione di contributi di sostegno viene disposta se i contributi sono stati ottenuti fornendo indicazioni non veritiere oppure tacendo fatti rilevanti.
+
+<sup>3</sup> In casi di rigore è possibile rinunciare del tutto o in parte alla richiesta di restituzione.
+
+## 4. Disposizioni finali
 
 #### Art. 19
 
 **Esecuzione**
 
-Il Governo disciplina l'esecuzione della presente legge ed emana le relative disposizioni esecutive.
+<sup>1</sup> Il Governo disciplina l'esecuzione della presente legge ed emana le relative disposizioni esecutive.
 
 #### Art. 20
 
 **Formazioni già in corso**
 
-Le formazioni e i perfezionamenti che sono iniziati prima dell'entrata in vigore della presente legge si conformano al diritto previgente.
+<sup>1</sup> Le formazioni e i perfezionamenti che sono iniziati prima dell'entrata in vigore della presente legge si conformano al diritto previgente.
 
 #### Art. 21
 
@@ -254,97 +270,15 @@ Le formazioni e i perfezionamenti che sono iniziati prima dell'entrata in vigore
 
 #### Art. 25
 
-**Cambiamento del diritto previgente**
+**Cambiamento del diritto previgente[^25-1]**
 
-Le leggi qui sotto elencate vengono modificate come segue:
-
-**5**
-
-1.8.2014
-
-**1.**
-
-### Legge sull'igiene pubblica del Cantone dei Grigioni (CSC 500.000)
-
-#### Art. 6
-
-**cpv. 3 lett. a**
-
-la vigilanza sugli ospedali, le cliniche e gli stabilimenti termali, le offerte di servizi stazionari per la cura e l'assistenza di pazienti lungodegenti e persone anziane, le istituzioni della cura e dell'assistenza a domicilio, gli istituti di medicina, i laboratori, nonché sull'esercizio di attività di persone che svolgono professioni nel settore sanitario;
-
-#### Art. 27
-
-**cpv. 1**
-
-**Laboratori pubblici**
-
-In caso di bisogno, il Cantone può costruire e gestire laboratori.
-
-#### Art. 28
-
-**cpv. 1**
-
-La costruzione e l'esercizio di laboratori privati nonché di istituti di medicina richiedono un'autorizzazione del Dipartimento.
-
-**2.**
-
-### Legge sulla promozione della cura degli ammalati (CSC 506.000)
-
-#### Art. 3
-
-**cpv. 1 lett. a**
-
-la costruzione, le infrastrutture e l'esercizio di ospedali riconosciuti nonché di offerte di servizi stazionari per la cura e l'assistenza di pazienti lungodegenti e di persone anziane;
-
-#### Art. 7
-
-**cpv. 1 lett. c e d, nonché cpv. 2 lett. b e c**
-
-Abrogato
-
-### Titolo intermedio che precede l'art. 22
-
-V. Posti di formazione per scuole in campo sanitario e sociale
-
-#### Art. 22
-
-**Posti di formazione**
-
-<sup>1</sup> Le istituzioni in campo sanitario e sociale aventi diritto a sussidi sono tenute a mettere a disposizione degli istituti di formazione situati fuori del Cantone un numero di posti di formazione per professioni sociosanitarie adeguato all'effettivo degli occupati all'interno del Cantone e nell'interesse del Cantone.
-
-<sup>2</sup> Il Governo può fissare il numero di posti di formazione per ciascuna azienda di formazione. Esso stabilisce i requisiti per i posti di formazione.
-
-**6**
-
-1.8.2014
-
-#### Art. 23
-
-**Riduzione, negazione e restituzione di sussidi**
-
-Agli istituti in campo sanitario aventi diritto a sussidi che non soddisfano i requisiti fissati dal Governo in termini di posti di formazione o non mettono a disposizione il numero di posti fissati dal Governo, possono venir ridotti o negati i sussidi d'esercizio e i sussidi agli investimenti del Cantone. Può essere chiesta la restituzione di sussidi già versati.
-
-#### Art. 24
-
-**Remunerazione della prestazione lavorativa**
-
-<sup>1</sup> Le prestazioni lavorative delle persone in formazione di norma sono remunerate.
-
-<sup>2</sup> Il Governo può fissare il sistema e l'ammontare della remunerazione.
-
-#### Art. 25 e
-
-**25bis**
-
-Abrogati
-
-[^25e-1]: Posto in vigore il 1° settembre 2005 con DG del 23 agosto 2005.
+[^25-1]: Le modifiche del diritto previgente non vengono indicate.
 
 #### Art. 26
 
-**Abrogazione del diritto previgente**[^25e-1]
+**Abrogazione del diritto previgente**
 
-La legge per l'incremento dell'istruzione femminile nel Cantone dei Grigioni (Legge per l'istruzione femminile)[^26-1] viene abrogata.
+<sup>1</sup> La legge per l'incremento dell'istruzione femminile nel Cantone dei Grigioni (Legge per l'istruzione femminile)[^26-1] viene abrogata.
 
 [^26-1]: AGS 1967, 384; AGS 1977, 169 e AGS 1995, 3371
 
@@ -352,6 +286,16 @@ La legge per l'incremento dell'istruzione femminile nel Cantone dei Grigioni (Le
 
 **Entrata in vigore**
 
-La presente legge è posta in vigore[^27_2-1] dal Governo dopo l'accettazione da parte del Popolo.
+<sup>1</sup> La presente legge è posta in vigore[^27-1] dal Governo dopo l'accettazione da parte del Popolo.
 
-[^27_2-1]: Con DG del 24 settembre 2002 la legge viene posta in vigore per il 1° gennaio 2003, ad eccezione dell'art. 21 cpv. 1 e dell'art. 26. L'art. 21 cpv. 1 viene posto in vigore per il 22 settembre 2002. L'art. 26 verrà dichiarato in vigore dal Governo in un secondo tempo. 1.8.2014 7
+[^27-1]: Con DG del 24 settembre 2002 la legge viene posta in vigore per il 1° gennaio 2003, ad eccezione dell'art. 21 cpv. 1 e dell'art. 26. L'art. 21 cpv. 1 viene posto in vigore per il 22 settembre 2002. L'art. 26 verrà dichiarato in vigore dal Governo in un secondo tempo.
+
+#### Art. 28
+
+**Disposizioni a tempo determinato**
+
+<sup>1</sup> L'articolo 18a fino all'articolo 18c sono limitati alla validità della legge federale sulla promozione della formazione in cure infermieristiche[^28-1].
+
+[^28-1]: RS [811.22](https://db.clex.ch/link/Bund/811.22/it)
+
+-
