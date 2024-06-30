@@ -1,27 +1,27 @@
 ---
 canton: TG
 number: "810.1"
-title: Gesetz über das Gesundheitswesen
-short: "Gesundheitsgesetz, GG"
+title: Gesundheitsgesetz
+short: GG
 language: de
-version: 2015-09-01
-valid_until: 2024-06-30
-version_adopted: 2014-12-03
+version: 2024-07-01
+valid_until: 2025-12-31
+version_adopted: 2024-01-10
 adopted: 2014-12-03
 in_force: 2015-09-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/810.1"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2236/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2792/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über das Gesundheitswesen
+# Gesundheitsgesetz
 
 GG
 
-(Gesundheitsgesetz, GG)
+(GG)
 
-vom 03.12.2014 (Stand 01.09.2015)
+vom 03.12.2014 (Stand 01.07.2024)
 
 ## 1. Allgemeines
 
@@ -51,22 +51,26 @@ vom 03.12.2014 (Stand 01.09.2015)
 
 <sup>2</sup> Er ist insbesondere zuständig für:
 
-- 1\. die Sicherstellung der stationären Gesundheitsversorgung einschliesslich des Rettungswesens, soweit nicht die Gemeinden oder Dritte zuständig sind;
-- 2\. die übergeordnete Spitalplanung und Pflegeheimplanung gemäss dem Bundesgesetz über die Krankenversicherung (KVG)[^3-1] und den kantonalrechtlichen Vollzugsbestimmungen dazu;
-- 3\. die Aufsicht über die Institutionen des Gesundheitswesens und die in diesen Berufen tätigen Personen;
-- 4\. Massnahmen in ausserordentlichen Lagen sowie die Verhütung und Bekämpfung übertragbarer Krankheiten;
-- 5\. die übergeordnete Planung, Koordination und Aufsicht der Gesundheitsvorsorge.
+- 1\. die Sicherstellung der stationären Gesundheitsversorgung einschliesslich des Rettungswesens, soweit nicht die Gemeinden oder Dritte zuständig sind
+- 2\. die übergeordnete Spitalplanung und Pflegeheimplanung gemäss dem Bundesgesetz über die Krankenversicherung (KVG)[^3-1] und den kantonalrechtlichen Vollzugsbestimmungen dazu
+- 3\. die Aufsicht über die Einrichtungen und Organisationen des Gesundheitswesens und die in diesen Berufen tätigen Personen
+- 4\. Massnahmen in ausserordentlichen Lagen sowie die Verhütung und Bekämpfung übertragbarer Krankheiten
+- 5\. die übergeordnete Planung, Koordination und Aufsicht der Gesundheitsvorsorge
 
-<sup>3</sup> Der Kanton beauftragt die Betriebsgesellschaft des Verbundes der kantonalen Krankenanstalten mit dem Betrieb von stationären Einrichtungen gemäss Abs. 2 Ziff. 1. Darüber hinaus kann er weitere Einrichtungen für Kranke und Verunfallte betreiben oder betreiben lassen. Er fördert in Zusammenarbeit mit der IV-Stelle die Wiedereingliederung von Kranken und Menschen mit Behinderung.
+<sup>3</sup> …
 
 <sup>4</sup> Er fördert die Aus- und Weiterbildung in Berufen des Gesundheitswesens. Der Regierungsrat ist zuständig für den Abschluss von Vereinbarungen über Beiträge oder Beteiligungen an privaten oder ausserkantonalen Einrichtungen.
 
-<sup>5</sup> Der Regierungsrat kann in Ausübung seiner Vollzugskompetenz gemäss § 43 Abs. 2 der Kantonsverfassung (KV)[^3-2] den Beitritt zu interkantonalen Vereinbarungen beschliessen, welche das Angebot und die Finanzierung von ausserkantonalen Spitalbehandlungen gemäss dem KVG[^3-3] sowie die Finanzierung der Weiterbildungskosten von Ärzten und Ärztinnen gemäss dem Bundesgesetz über die universitären Medizinalberufe (MedBG)[^3-4]regeln.
+<sup>5</sup> Der Regierungsrat kann den Beitritt zu interkantonalen Vereinbarungen beschliessen, die das Angebot und die Finanzierung der Aus- und Weiterbildungskosten von Ärzten und Ärztinnen gemäss dem Bundesgesetz über die universitären Medizinalberufe (Medizinalberufegesetz, MedBG)[^3-2] sowie die Finanzierung der Aus- und Weiterbildungskosten von Gesundheitsberufen regeln.
 
 [^3-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
-[^3-2]: RB [101](https://www.rechtsbuch.tg.ch/data/101/de)
-[^3-3]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
-[^3-4]: SR [811.11](https://db.clex.ch/link/Bund/811.11/de)
+[^3-2]: SR [811.11](https://db.clex.ch/link/Bund/811.11/de)
+
+#### § 3a
+
+**Spital Thurgau AG**
+
+<sup>1</sup> Der Kanton beauftragt die Spital Thurgau AG mit dem Betrieb von stationären Einrichtungen gemäss § 3 Abs. 2 Ziff. 1. Er kann weitere Einrichtungen für Kranke und Verunfallte betreiben oder betreiben lassen. Er fördert in Zusammenarbeit mit der IV-Stelle die Wiedereingliederung von Kranken und Menschen mit Behinderung.
 
 #### § 4
 
@@ -82,7 +86,7 @@ vom 03.12.2014 (Stand 01.09.2015)
 
 <sup>2</sup> Es bezeichnet einen Kantonsarzt oder eine Kantonsärztin, einen Kantonszahnarzt oder eine Kantonszahnärztin, einen Kantonsapotheker oder eine Kantonsapothekerin, einen Kantonschemiker oder eine Kantonschemikerin sowie die Amtsärzte und Amtsärztinnen.
 
-<sup>3</sup> Das Departement für Inneres und Volkswirtschaft (DIV) ist im gleichen Sinn für den Vollzug im Bereich der Veterinärmedizin zuständig. Es bezeichnet einen Kantonstierarzt oder eine Kantonstierärztin. Es ist für die gesundheitspolizeiliche Aufsicht über die Tierärzte und Tierärztinnen zuständig.
+<sup>3</sup> Das Departement für Inneres und Volkswirtschaft (DIV) ist im gleichen Sinn für den Vollzug im Bereich der Veterinärmedizin zuständig.
 
 #### § 6
 
@@ -102,12 +106,12 @@ vom 03.12.2014 (Stand 01.09.2015)
 
 <sup>1</sup> Die Gemeinden erfüllen die Aufgaben, die ihnen durch die Gesetzgebung zugewiesen sind. Sie sind insbesondere zuständig für:
 
-- 1\. die Überwachung der Orts- und Wohnhygiene sowie die Anordnung und den Vollzug gesundheitspolizeilicher Massnahmen auf ihrem Gebiet;
-- 2\. die Mütter- und Väterberatung, Kleinkinderberatung, Familien- und Erziehungsberatung, Jugendberatung, Paar- und Erwachsenenberatung, Suchtberatung sowie das Angebot weiterer vom Gesetz oder durch Leistungsvereinbarungen mit dem Kanton vorgesehener Beratungsstellen;
-- 3\. die zielgruppenorientierte Umsetzung von Gesundheitsförderungs- und Präventionsmassnahmen;
-- 4\. die ambulante Kranken- und Gesundheitspflege sowie die Hilfe und Betreuung zu Hause im Sinne von § 22 des Gesetzes über die Krankenversicherung (TG KVG)[^7-1];
-- 5\. die stationäre Pflegeversorgung im Pflegeheim im Sinne von § 15 TG KVG ohne die stationäre Akut- und Übergangspflege;
-- 6\. das Bestattungswesen.
+- 1\. die Überwachung der Orts- und Wohnhygiene sowie die Anordnung und den Vollzug gesundheitspolizeilicher Massnahmen auf ihrem Gebiet
+- 2\. die Mütter- und Väterberatung, Kleinkinderberatung, Familien- und Erziehungsberatung, Jugendberatung, Paar- und Erwachsenenberatung, Suchtberatung sowie das Angebot weiterer vom Gesetz oder durch Leistungsvereinbarungen mit dem Kanton vorgesehener Beratungsstellen
+- 3\. die zielgruppenorientierte Umsetzung von Gesundheitsförderungs- und Präventionsmassnahmen
+- 4\. die ambulante Kranken- und Gesundheitspflege sowie die Hilfe und Betreuung zu Hause im Sinne von § 22 des Gesetzes über die Krankenversicherung (TG KVG)[^7-1]
+- 5\. die stationäre Pflegeversorgung im Pflegeheim im Sinne von § 15 TG KVG ohne die stationäre Akut- und Übergangspflege
+- 6\. das Bestattungswesen
 
 <sup>2</sup> Sie können diese Aufgaben zusammen mit anderen Gemeinden lösen oder privaten oder öffentlich-rechtlichen Körperschaften übertragen.
 
@@ -117,56 +121,95 @@ vom 03.12.2014 (Stand 01.09.2015)
 
 ## 3. Berufe des Gesundheitswesens
 
-### 3.1. Allgemeine Bestimmungen
+### 3.1. Begriffe
 
 #### § 8
 
-**Berufsausübung**
+**Berufe des Gesundheitswesens**
 
-<sup>1</sup> Selbständig übt einen Beruf des Gesundheitswesens aus, wer in eigener fachlicher Verantwortung:
+<sup>1</sup> In eigener fachlicher Verantwortung übt einen Beruf des Gesundheitswesens aus, wer
 
-- 1\. Krankheiten, Verletzungen, sonstige gesundheitliche Beeinträchtigungen oder Störungen der physischen oder psychischen Gesundheit an Mensch und Tier vorbeugt, feststellt oder behandelt;
-- 2\. Mittel zur Vorbeugung, Erkennung und Behandlung von Gesundheitsstörungen an Mensch und Tier (Heilmittel) in Verkehr bringt oder anwendet;
-- 3\. medizinische Analysen durchführt und Diagnosen oder Gutachten erstellt;
-- 4\. Schwangere vor oder während der Geburt behandelt oder betreut sowie die Nachbetreuung von Mutter und Kind nach der Geburt besorgt;
+- 1\. Krankheiten, Verletzungen, sonstige gesundheitliche Beeinträchtigungen oder Störungen der physischen oder psychischen Gesundheit vorbeugt, feststellt oder behandelt,
+- 2\. Heilmittel in Verkehr bringt oder anwendet,
+- 3\. medizinische Analysen durchführt und Diagnosen oder Gutachten erstellt,
+- 4\. Schwangere vor oder während der Geburt behandelt oder betreut sowie die Nachbetreuung von Mutter und Kind nach der Geburt besorgt,
 - 5\. an Kranken, Verletzten, sonstig gesundheitlich Beeinträchtigten oder an Schwangeren anderweitige auf Heilung oder Linderung ausgerichtete Tätigkeiten vornimmt oder
 - 6\. in anderer Weise einen Beruf des Gesundheitswesens ausübt, der aufgrund der Bundesgesetzgebung einer Bewilligung im Gesundheitswesen bedarf oder zur Abrechnung gegenüber der Krankenversicherung berechtigt.
 
-<sup>2</sup> Unselbständig übt den Beruf aus, wer unter der fachlichen Aufsicht und Verantwortung einer Person gemäss Abs. 1 tätig ist.
+<sup>2</sup> Unter fachlicher Aufsicht übt einen Beruf des Gesundheitswesens aus, wer unter der Verantwortung einer Person gemäss Abs. 1 tätig ist.
+
+<sup>3</sup> Als universitäre Medizinalberufe gelten die Berufe gemäss MedBG und dem Bundesgesetz über die Psychologieberufe (PsyG)[^8-1].
+
+<sup>4</sup> Als Gesundheitsberufe gelten die Berufe gemäss dem Bundesgesetz über die Gesundheitsberufe (GesBG)[^8-2].
+
+<sup>5</sup> Die kantonalen Gesundheitsberufe sind:
+
+- 1\. Dentalhygieniker und Dentalhygienikerin
+- 2\. Drogist und Drogistin
+- 3\. Klinischer Logopäde und klinische Logopädin
+- 4\. Komplementärtherapeut und Komplementärtherapeutin
+- 5\. Leiter und Leiterin eines medizinischen Labors
+- 6\. Medizinischer Masseur und medizinische Masseurin
+- 7\. Naturheilpraktiker und Naturheilpraktikerin
+- 8\. Podologe und Podologin
+- 9\. Rettungssanitäter und Rettungssanitäterin
+- 10\. Zahnprothetiker und Zahnprothetikerin
+- 11\. Zahntechniker und Zahntechnikerin
+
+[^8-1]: SR [935.81](https://db.clex.ch/link/Bund/935.81/de)
+[^8-2]: SR [811.21](https://db.clex.ch/link/Bund/811.21/de)
+
+### 3.2 Bewilligungen
 
 #### § 9
 
-**Bewilligungspflicht**
+**Berufsausübungsbewilligung**
 
-<sup>1</sup> Ärzte und Ärztinnen, Zahnärzte und Zahnärztinnen, Chiropraktoren und Chiropraktorinnen sowie Apotheker und Apothekerinnen bedürfen für die selbständige und unselbständige Berufsausübung in stationären und ambulanten Einrichtungen des Gesundheitswesens einer Bewilligung des zuständigen Departementes.
+<sup>1</sup> Einer Bewilligung bedürfen:
 
-<sup>2</sup> Angehörige anderer Berufe des Gesundheitswesens im Bereich der Humanmedizin bedürfen für die selbständige Berufsausübung einer Bewilligung des zuständigen Departementes.
+- 1\. Personen, die in eigener fachlicher Verantwortung tätig sind
+- 2\. Angehörige der universitären Medizinalberufe, die unter fachlicher Aufsicht tätig sind
 
-<sup>3</sup> Tierärzte und Tierärztinnen bedürfen für die selbständige Berufsausübung einer Bewilligung des zuständigen Departementes.
+<sup>2</sup> Wer sich in der Ausbildung zu einem Gesundheitsberuf befindet, darf zur Erfüllung der Ausbildungsverpflichtung als Praktikant oder Praktikantin beschäftigt werden. Praktikanten und Praktikantinnen dürfen nur unter ständiger Aufsicht der fachlich verantwortlichen Person bewilligungspflichtige Tätigkeiten vornehmen.
 
-<sup>4</sup> Der Regierungsrat bezeichnet die bewilligungspflichtigen Berufe gemäss Abs. 2 und regelt unter Vorbehalt des übergeordneten Rechts die fachlichen Anforderungen und den Tätigkeitsbereich.
+<sup>3</sup> Die Berufsausübung von unter fachlicher Aufsicht stehenden Personen eines Gesundheitsberufs ist nicht bewilligungspflichtig. Die unter fachlicher Aufsicht tätigen Personen müssen über das Diplom verfügen, das für die Tätigkeit in eigener fachlicher Verantwortung erforderlich ist. Die fachlich verantwortliche Person stellt die Aufsicht sicher.
+
+<sup>4</sup> Der Regierungsrat regelt die Bewilligungsvoraussetzungen und die Tätigkeitsbereiche der kantonalen Gesundheitsberufe.
 
 #### § 10
 
 **Bewilligungserteilung**
 
-<sup>1</sup> Die Bewilligung zur selbständigen oder unselbständigen Berufsausübung wird erteilt, wenn die gesuchstellende Person:
+<sup>1</sup> Die Bewilligungserteilung zur Berufsausübung in eigener fachlicher Verantwortung von universitären Medizinalberufen richtet sich nach dem MedBG und dem PsyG. Die Bewilligung wird in der Regel unbefristet erteilt.
 
-- 1\. über die von der Gesetzgebung verlangten Fachkenntnisse verfügt;
-- 2\. Gewähr für eine einwandfreie Berufsausübung bietet und
-- 3\. vertrauenswürdig ist.
+<sup>2</sup> Die Bewilligungserteilung zur Berufsausübung in eigener fachlicher Verantwortung von Gesundheitsberufen richtet sich nach dem GesBG und der Gesundheitsberufeverordnung (GesBV)[^10-1]. Die Bewilligung wird in der Regel unbefristet erteilt.
 
-<sup>2</sup> Wer selbständig einen Beruf des Gesundheitswesens ausüben will, muss über geeignete Ausrüstungen, Einrichtungen und Räumlichkeiten verfügen sowie den Abschluss einer angemessenen Berufshaftpflichtversicherung nachweisen. Das zuständige Departement kann in begründeten Fällen Bewilligungen für nicht ortsgebundene Tätigkeiten erteilen.
+<sup>3</sup> …
 
-<sup>3</sup> Bewilligungen können mit Auflagen verbunden und befristet werden.
+<sup>4</sup> Die Bewilligungserteilung zur Berufsausübung unter fachlicher Aufsicht von universitären Medizinalberufen richtet sich sinngemäss nach dem MedBG oder PsyG. Die Bewilligung wird in der Regel befristet erteilt.
 
-<sup>4</sup> Der Regierungsrat regelt die Einzelheiten der Bewilligungserteilung.
+<sup>5</sup> Eine Bewilligung setzt in jedem Fall geeignete Ausrüstung, Einrichtung und Räumlichkeiten voraus.
+
+<sup>6</sup> Der Regierungsrat regelt die Einzelheiten der Bewilligungserteilung.
+
+[^10-1]: RB [811.121](https://www.rechtsbuch.tg.ch/data/811.121/de)
+
+#### § 10a
+
+**Meldepflicht**
+
+<sup>1</sup> Die in eigener Verantwortung tätige Person meldet der zuständigen Stelle schriftlich insbesondere:
+
+- 1\. Aufnahme, Verlegung und Aufgabe der Tätigkeit
+- 2\. Ausübung der Tätigkeit an mehr als einem Standort
+- 3\. Namenswechsel
+- 4\. für die Tätigkeit wesentliche personelle Mutationen
 
 #### § 11
 
 **Privatapotheke**
 
-<sup>1</sup> Ärzte und Ärztinnen, Zahnärzte und Zahnärztinnen, Chiropraktoren und Chiropraktorinnen sowie Tierärzte und Tierärztinnen, die über eine Bewilligung zur selbständigen Berufsausübung verfügen, können mit Bewilligung des zuständigen Departementes eine Privatapotheke führen. Die Bewilligung berechtigt zur Abgabe von Heilmitteln ausschliesslich an die eigenen Patienten und Patientinnen.
+<sup>1</sup> Ärzte und Ärztinnen, Zahnärzte und Zahnärztinnen, Chiropraktoren und Chiropraktorinnen und Naturheilpraktiker und Naturheilpraktikerinnen, die über eine Bewilligung in eigener fachlicher Verantwortung verfügen, sowie Spitäler, Alters- und Pflegeheime und ambulante ärztliche Einrichtungen können mit Bewilligung des zuständigen Departements eine Privatapotheke führen. Die Bewilligung berechtigt zur Abgabe von Heilmitteln ausschliesslich an die eigenen Patienten und Patientinnen.
 
 <sup>2</sup> Der Regierungsrat regelt die Voraussetzungen für die Führung einer Privatapotheke sowie den Detailhandel mit Medikamenten.
 
@@ -176,9 +219,9 @@ vom 03.12.2014 (Stand 01.09.2015)
 
 <sup>1</sup> Die Bewilligung wird entzogen, wenn die Voraussetzungen für deren Erteilung nicht mehr vorliegen, insbesondere wenn der Inhaber oder die Inhaberin:
 
-- 1\. schwerwiegend oder wiederholt Berufspflichten verletzt;
-- 2\. Auflagen und Bedingungen nicht einhält;
-- 3\. andere Handlungen oder Unterlassungen begeht, die mit seiner oder ihrer Vertrauensstellung nicht vereinbar sind.
+- 1\. schwerwiegend oder wiederholt Berufspflichten verletzt
+- 2\. Auflagen und Bedingungen nicht einhält
+- 3\. andere Handlungen oder Unterlassungen begeht, die mit seiner oder ihrer Vertrauensstellung nicht vereinbar sind
 
 #### § 13
 
@@ -186,35 +229,22 @@ vom 03.12.2014 (Stand 01.09.2015)
 
 <sup>1</sup> Die Bewilligung erlischt mit:
 
-- 1\. dem Tod des Bewilligungsinhabers oder der Bewilligungsinhaberin;
-- 2\. dem in einem Strafverfahren rechtskräftig ausgesprochenen Berufsverbot;
-- 3\. der schriftlichen Verzichtserklärung des Bewilligungsinhabers oder der Bewilligungsinhaberin gegenüber der zuständigen Behörde;
-- 4\. der Vollendung des 70. Altersjahres. Die Bewilligung kann auf Gesuch hin jeweils um drei Jahre verlängert werden.
+- 1\. …
+- 2\. einem rechtskräftig ausgesprochenen Berufsverbot
+- 3\. der schriftlichen Verzichtserklärung des Bewilligungsinhabers oder der Bewilligungsinhaberin gegenüber der zuständigen Behörde
+- 4\. der Vollendung des 70. Altersjahrs
 
-#### § 14
+#### § 13a
 
-**Bewilligungspflicht bei Stellvertretung**
+**Bewilligung nach Vollendung des 70. Altersjahrs**
 
-<sup>1</sup> Ist eine Person mit selbständiger Berufsausübungsbewilligung an der Berufsausübung verhindert, vorübergehend abwesend oder ist sie verstorben, kann sie beziehungsweise können ihre Erben einen Stellvertreter oder eine Stellvertreterin einsetzen, sofern die Stellvertretung nicht anderweitig geregelt ist.
+<sup>1</sup> Nach Vollendung des 70. Altersjahrs kann die Bewilligung auf Gesuch hin um bis zu drei Jahre verlängert werden. Mehrere Verlängerungen sind zulässig.
 
-<sup>2</sup> Dauert die Vertretung mehr als vier Wochen, ist dies vorgängig der zuständigen Behörde anzuzeigen. Bei einer Dauer von mehr als drei Monaten ist jeweils eine befristete Bewilligung des zuständigen Departementes einzuholen. Tierärzte und Tierärztinnen sind von dieser Verpflichtung befreit.
+<sup>2</sup> Die Bewilligung wird verlängert, wenn die gesuchstellende Person zusätzlich zu den allgemeinen Bewilligungsvoraussetzungen ein vertrauensärztliches Attest eines Facharztes oder einer Fachärztin für Arbeitsmedizin vorlegt, das bestätigt, dass die gesuchstellende Person sowohl physisch als auch psychisch zur einwandfreien Berufsausübung fähig ist.
 
-<sup>3</sup> Der Stellvertreter oder die Stellvertreterin hat die Voraussetzungen gemäss § 10 zu erfüllen und handelt fachlich eigenverantwortlich.
+#### § 14–15
 
-#### § 15
-
-**Meldepflichtige Tätigkeit**
-
-<sup>1</sup> Inhaber und Inhaberinnen einer ausländischen Berufsausübungsbewilligung zeigen dem zuständigen Departement an, wenn sie in Anwendung des bilateralen Abkommens vom 21. Juni 1999 über die Personenfreizügigkeit[^15-1] eine bewilligungspflichtige Tätigkeit während höchstens 90 Arbeitstagen pro Kalenderjahr im Kanton Thurgau ausüben wollen.
-
-<sup>2</sup> Sie legen der Anzeige
-
-- 1\. eine Bescheinigung über die Rechtmässigkeit der Berufsausübung im Herkunftsstaat sowie
-- 2\. eine Bescheinigung der zuständigen eidgenössischen oder kantonalen Behörden über die Gleichwertigkeit der erforderlichen Diplome und Weiterbildungstitel bei.
-
-<sup>3</sup> Von der Meldepflicht befreit sind Personen, die über eine Berufsausübungsbewilligung eines Nachbarkantons verfügen und von ihrer dortigen Niederlassung aus Hausbesuche im Kanton durchführen.
-
-[^15-1]: SR [0.142.112.681](https://db.clex.ch/link/Bund/0.142.112.681/de)
+**…**
 
 #### § 16
 
@@ -230,7 +260,9 @@ vom 03.12.2014 (Stand 01.09.2015)
 
 <sup>1</sup> Über die Erteilung, den Entzug und das Erlöschen einer Bewilligung sowie über das Verbot einer Heiltätigkeit können die zuständigen Organe die Öffentlichkeit in geeigneter Art und Weise informieren, soweit dies zum Schutz der Gesundheit der Bevölkerung notwendig ist.
 
-### 3.2. Berufsausübung
+### 3.2.
+
+### 3.3 Berufspflichten
 
 #### § 18
 
@@ -244,15 +276,17 @@ vom 03.12.2014 (Stand 01.09.2015)
 
 <sup>1</sup> Die kantonalen Standesorganisationen der Ärzte und Ärztinnen, Zahnärzte und Zahnärztinnen sowie der Apotheker und Apothekerinnen haben für eine zweckmässige Organisation des Notfalldienstes zu sorgen. Sie regeln die sich aus dem Notfalldienst ergebenden Rechte und Pflichten.
 
-<sup>2</sup> Ärzte und Ärztinnen, Zahnärzte und Zahnärztinnen sowie Apotheker und Apothekerinnen mit Bewilligung zur selbständigen oder unselbständigen Berufsausübung sind unabhängig von ihrer persönlichen Mitgliedschaft zur Beteiligung am Notfalldienst ihrer kantonalen Standesorganisation verpflichtet. Wer Notfalldienst leistet, hat den Aufenthaltsort während dieser Zeit so zu wählen, dass der Notfalldienst gewährleistet ist.
+<sup>2</sup> Ärzte und Ärztinnen, Zahnärzte und Zahnärztinnen sowie Apotheker und Apothekerinnen mit Bewilligung zur Berufsausübung in eigener fachlicher Verantwortung oder unter fachlicher Aufsicht sind unabhängig von ihrer persönlichen Mitgliedschaft zur Beteiligung am Notfalldienst ihrer Standesorganisation verpflichtet. Wer Notfalldienst leistet, hat den Aufenthaltsort während dieser Zeit so zu wählen, dass der Notfalldienst gewährleistet ist.
 
-<sup>3</sup> Ist eine zum Notfalldienst verpflichtete Medizinalperson aus wichtigen Gründen verhindert, diesen zu leisten, kann sie die kantonale Standesorganisation auf Gesuch hin von der Pflicht zur Notfalldienstleistung befreien. In diesen Fällen hat sie eine Ersatzabgabe von 1.5 % des AHV-pflichtigen Einkommens aus ärztlicher Tätigkeit am Patienten zu leisten, maximal jedoch Fr. 5'000 pro Jahr. Die Standesorganisationen regeln die Einzelheiten.
+<sup>3</sup> Ist eine zum Notfalldienst verpflichtete Medizinalperson aus wichtigen Gründen verhindert, diesen zu leisten, kann sie die Standesorganisation auf Gesuch hin von der Pflicht zur Notfalldienstleistung entbinden. In diesen Fällen hat sie eine Ersatzabgabe von 1.5 % des AHV-pflichtigen Einkommens aus ärztlicher Tätigkeit am Patienten zu leisten, maximal jedoch Fr. 5'000 pro Jahr. Die Standesorganisationen regeln die Einzelheiten.
 
 <sup>4</sup> Die Ersatzabgaben werden zur Organisation und Sicherstellung des Notfalldienstes verwendet und fliessen zu diesem Zweck in den Notfalldienstfonds der jeweiligen Standesorganisation.
 
-<sup>5</sup> Entscheide der Standesorganisationen über die Entbindung oder den Ausschluss von der Notfalldienstpflicht sowie über die Leistung von Ersatzabgaben können beim zuständigen Departement angefochten werden.
+<sup>5</sup> Entscheide der Standesorganisationen über die Entbindung von der Notfalldienstpflicht sowie über die Leistung von Ersatzabgaben können beim zuständigen Departement angefochten werden.
 
-<sup>6</sup> Der Regierungsrat kann mit den Standesorganisationen Leistungsvereinbarungen über den Notfalldienst abschliessen.
+<sup>6</sup> Das Departement kann bei Härtefällen auf Gesuch hin von der Notfalldienstpflicht mit gleichzeitiger Befreiung von der Ersatzabgabe entbinden. Es entscheidet abschliessend.
+
+<sup>7</sup> Der Regierungsrat kann mit den Standesorganisationen Leistungsvereinbarungen über den Notfalldienst abschliessen.
 
 #### § 20
 
@@ -262,7 +296,7 @@ vom 03.12.2014 (Stand 01.09.2015)
 
 <sup>2</sup> Der Patient oder die Patientin kann die Dokumentation einsehen und eine Kopie verlangen.
 
-<sup>3</sup> Die Dokumentation ist während mindestens zehn Jahren nach Abschluss der letzten Behandlung aufzubewahren.
+<sup>3</sup> Die Dokumentation ist während mindestens 20 Jahren nach Abschluss der letzten Behandlung aufzubewahren.
 
 <sup>4</sup> Der Bewilligungsinhaber oder die Bewilligungsinhaberin sorgen dafür, dass auch nach ihrem Tod oder bei Betriebsaufgabe die Dokumentationen für die Patienten und Patientinnen unter Wahrung des Berufsgeheimnisses zugänglich bleiben.
 
@@ -272,11 +306,17 @@ vom 03.12.2014 (Stand 01.09.2015)
 
 #### § 21
 
-**Werbung**
+**Titel und Berufsbezeichnungen**
 
-<sup>1</sup> Die Bekanntmachung der Berufstätigkeit und des Angebots müssen sachlich sein. Verboten ist aufdringliche oder irreführende Werbung sowie die Verwendung falscher oder irreführender Titel und Berufsbezeichnungen.
+<sup>1</sup> Die Verwendung falscher oder irreführender Titel und Berufsbezeichnungen ist verboten.
 
-### 3.3. Berufsgeheimnis und Auskünfte an Dritte
+<sup>2</sup> Akademische Titel sind so zu verwenden, wie sie verliehen wurden. Titel, die über die akademische Qualifikation täuschen können, dürfen nur unter Nennung des Namens oder des Orts der verleihenden Hochschule oder des Herkunftsstaats verwendet werden.
+
+<sup>3</sup> Die Verwendung von Fachtiteln und die Bezeichnung als Spezialist oder Spezialistin, als Fach- oder Spezialpraxis sowie als Fach- oder Spezialklinik für eine bestimmte Fachrichtung setzen einen eidgenössischen oder eidgenössisch anerkannten ausländischen Weiterbildungstitel oder einen Weiterbildungstitel eines gesamtschweizerischen Berufsverbands voraus.
+
+<sup>4</sup> Hinweise auf besondere Fachkenntnisse setzen den Nachweis theoretischer Kenntnisse und praktischer Fähigkeiten in diesem Bereich voraus.
+
+### 3.3.
 
 #### § 22
 
@@ -284,9 +324,15 @@ vom 03.12.2014 (Stand 01.09.2015)
 
 <sup>1</sup> Personen, die in Berufen des Gesundheitswesens im Bereich der Humanmedizin tätig sind, sowie ihre Hilfspersonen, haben über Tatsachen, die ihnen infolge ihres Berufs anvertraut worden sind oder von denen sie in Ausübung ihres Berufs Kenntnis erhalten haben, Verschwiegenheit zu wahren.
 
-<sup>2</sup> Vom Berufsgeheimnis kann der Patient oder die Patientin, zur Wahrung schutzwürdiger Interessen auch der Vorsteher oder die Vorsteherin des zuständigen Departementes befreien. Innerhalb von Institutionen wird die Zustimmung des Patienten oder der Patientin vermutet.
+<sup>2</sup> Vom Berufsgeheimnis kann der Patient oder die Patientin befreien, zur Wahrung schutzwürdiger Interessen auch der Chef oder die Chefin des zuständigen Departements. Innerhalb von Einrichtungen und Organisationen des Gesundheitswesens wird die Zustimmung des Patienten oder der Patientin vermutet.
 
 <sup>3</sup> Personen, die der Geheimhaltungspflicht unterstehen, sind zur Durchsetzung von Forderungen aus dem Behandlungsverhältnis gegenüber der beauftragten Inkassostelle oder den zuständigen Behörden vom Berufsgeheimnis befreit.
+
+#### § 22a
+
+**Berufspflichten von kantonalen Gesundheitsberufen**
+
+<sup>1</sup> Die Berufspflichten von Personen, die einen vom Regierungsrat bezeichneten kantonalen Gesundheitsberuf in eigener fachlicher Verantwortung ausüben, richten sich sinngemäss nach dem GesBG.
 
 #### § 23
 
@@ -296,60 +342,74 @@ vom 03.12.2014 (Stand 01.09.2015)
 
 <sup>2</sup> Sie sind ohne Entbindung vom Berufsgeheimnis gemäss § 22 Abs. 2 berechtigt,
 
-- 1\. den Strafverfolgungsbehörden Verdachtsfälle zu melden, die auf ein Verbrechen oder Vergehen schliessen lassen;
+- 1\. den Strafverfolgungsbehörden Verdachtsfälle zu melden, die auf ein Verbrechen oder Vergehen schliessen lassen,
 - 2\. den Kindes- und Erwachsenenschutzbehörden gemäss Art. 443 des Schweizerischen Zivilgesetzbuches (ZGB)[^23-1] Meldung zu erstatten.
 
 [^23-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
 
-## 4. Einrichtungen des Gesundheitswesens
+## 4. Einrichtungen und Organisationen des Gesundheitswesens
 
 #### § 24
 
 **Betriebsbewilligung**
 
-<sup>1</sup> Eine Betriebsbewilligung des zuständigen Departementes benötigen insbesondere folgende Einrichtungen und Organisationen des Gesundheitswesens:
+<sup>1</sup> Einrichtungen und Organisationen des Gesundheitswesens benötigen eine Betriebsbewilligung, insbesondere:
 
-- 1\. Einrichtungen der Akutsomatik, Psychiatrie und Rehabilitation (Spitäler) sowie Geburtshäuser;
-- 2\. Alters- und Pflegeheime, die mehr als vier Betten betreiben;
-- 3\. Tages- und Nachtkliniken;
-- 4\. Einrichtungen der Akut- und Übergangspflege;
-- 5\. Organisationen der spitalexternen Kranken- und Gesundheitspflege (Spitex);
-- 6\. öffentliche Apotheken;
-- 7\. Drogerien;
-- 8\. medizinische Laboratorien;
-- 9\. Krankentransport- und Rettungsunternehmen.
+- 1\. Einrichtungen der Akutsomatik, Psychiatrie und Rehabilitation (Spitäler) sowie Geburtshäuser
+- 2\. Alters- und Pflegeheime, die mehr als vier Betten betreiben
+- 3\. Tages- und Nachtkliniken
+- 4\. Einrichtungen der Akut- und Übergangspflege
+- 5\. Organisationen der spitalexternen Kranken- und Gesundheitspflege (Spitex)
+- 6\. öffentliche Apotheken
+- 7\. Drogerien
+- 8\. medizinische Laboratorien
+- 9\. Krankentransport- und Rettungsunternehmen
+- 10\. ambulante medizinische Einrichtungen
 
-<sup>2</sup> Für die Bewilligung von Krankentransport- und Rettungsunternehmen muss ein Versorgungsbedarf ausgewiesen sein.
+<sup>2</sup> Für die Bewilligung gemäss Abs. 1 Ziff. 9 muss ein Versorgungsbedarf ausgewiesen sein. Die kantonale Sanitätsnotrufzentrale kann den Rettungsunternehmen Weisungen für die Disposition der Rettungsmittel erteilen.
 
-<sup>3</sup> Der Regierungsrat regelt die Einzelheiten der Bewilligungserteilung. Für den Entzug der Bewilligung gilt § 12 sinngemäss.
+<sup>3</sup> Die Erteilung einer Betriebsbewilligung gemäss Abs. 1 Ziff. 6 und Ziff. 7 richtet sich nach der Heilmittelverordnung (HMV)[^24-1].
+
+<sup>4</sup> Keiner Bewilligung bedürfen Einrichtungen gemäss Abs. 1 Ziff. 10, sofern in ihnen nicht mehr als eine Person in eigener fachlicher Verantwortung tätig ist.
+
+<sup>5</sup> Die Bewilligung wird in der Regel für zehn Jahre erteilt.
+
+<sup>6</sup> Der Regierungsrat regelt die Einzelheiten der Bewilligungserteilung. § 10a und § 12 gelten sinngemäss.
+
+[^24-1]: RB [812.2](https://www.rechtsbuch.tg.ch/data/812.2/de)
 
 #### § 25
 
-**Ambulante ärztliche Einrichtungen**
+**…**
 
-<sup>1</sup> Unter die Bewilligungspflicht fallen:
+#### § 25a
 
-- 1\. Einrichtungen gemäss Art. 36a des Bundesgesetzes über die Krankenversicherung (KVG)[^25-1], die der ambulanten Krankenpflege durch Ärzte und Ärztinnen dienen;
-- 2\. Einrichtungen, in denen Ärzte und Ärztinnen ihre Patienten und Patientinnen im Rahmen besonderer Vereinbarungen mit einer oder mehreren Krankenversicherungen behandeln;
-- 3\. Einrichtungen, die medizinische Dienstleistungen ausschliesslich für andere Leistungserbringer im diagnostischen oder Behandlungsbereich anbieten, namentlich in den Bereichen diagnostische Radiologie oder Pathologie.
+**Voraussetzungen für eine Betriebsbewilligung**
 
-<sup>2</sup> Die Bewilligung kann natürlichen und juristischen Personen erteilt werden.
+<sup>1</sup> Die Bewilligung gemäss § 24 wird erteilt, wenn die Einrichtung oder Organisation
 
-<sup>3</sup> Der Regierungsrat regelt die Einzelheiten der Bewilligungserteilung. Für den Entzug der Bewilligung gilt § 12 sinngemäss.
+- 1\. über die für das Leistungsangebot geeignete Ausrüstungen, Einrichtungen und Räumlichkeiten verfügt,
+- 2\. über das für eine qualifizierte Leistungserbringung notwendige Personal verfügt,
+- 3\. gegenüber der Bewilligungsbehörde eine gesamtverantwortliche Leitung sowie ein Mitglied der gesamtverantwortlichen Leitung bezeichnet, das für die Einhaltung der gesundheitspolizeilichen Vorschriften zuständig ist und über die dafür notwendige fachliche Qualifikation verfügt sowie
+- 4\. über eine Betriebshaftpflichtversicherung verfügt.
 
-[^25-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de)
+<sup>2</sup> Einrichtungen gemäss § 24 Abs. 1 Ziff. 1 bis Ziff. 4 müssen in der Lage sein, medizinische Komplikationen selbständig oder in einer vereinbarten Kooperation mit einem nachgelagerten Leistungserbringer zu bewältigen.
+
+<sup>3</sup> Organisationen gemäss § 24 Abs. 1 Ziff. 9 müssen über die Anerkennung des Interverbands für Rettungswesen (IVR) verfügen. Das Departement legt die Höchstzahl der für die Versorgung notwendigen Rettungsdienste und Stützpunkte fest. Es orientiert sich an den Anerkennungsrichtlinien des IVR.
+
+<sup>4</sup> Das zuständige Departement kann in begründeten Fällen Bewilligungen für nicht ortsgebundene Tätigkeiten erteilen.
 
 #### § 26
 
 **Beistandspflicht**
 
-<sup>1</sup> Die Institutionen des Gesundheitswesens leisten in dringenden Fällen Beistand und gewährleisten eine notfallmässige Behandlung.
+<sup>1</sup> Einrichtungen und Organisationen des Gesundheitswesens leisten in dringenden Fällen Beistand und gewährleisten eine notfallmässige Behandlung.
 
 #### § 27
 
 **Spitalverbund**
 
-<sup>1</sup> Der Verbund der kantonalen Krankenanstalten wird von der Spital Thurgau AG betrieben. Diese hat die Rechtsform einer Aktiengesellschaft des Obligationenrechts[^27-1] und ist eine Tochtergesellschaft der thurmed AG.
+<sup>1</sup> Der Spitalverbund wird von der Spital Thurgau AG betrieben. Diese hat die Rechtsform einer Aktiengesellschaft des Obligationenrechts (OR)[^27-1] und ist eine Tochtergesellschaft der thurmed AG.
 
 <sup>2</sup> Der Kanton hält die kapital- und stimmenmässige Mehrheit an der thurmed AG und der Spital Thurgau AG. Die Übertragung von Aktien der thurmed AG und der Spital Thurgau AG an Dritte bedarf der Zustimmung des Grossen Rates.
 
@@ -365,7 +425,7 @@ vom 03.12.2014 (Stand 01.09.2015)
 
 **Kantonale Einrichtungen**
 
-<sup>1</sup> Der Regierungsrat regelt Organisation und Betrieb von Institutionen des Gesundheitswesens, soweit der Kanton sie selbst betreibt.
+<sup>1</sup> Der Regierungsrat regelt Organisation und Betrieb von Einrichtungen und Organisationen des Gesundheitswesens, soweit der Kanton sie selbst betreibt.
 
 ## 5. Rechte und Pflichten der Patienten und Patientinnen
 
@@ -373,7 +433,7 @@ vom 03.12.2014 (Stand 01.09.2015)
 
 **Geltungsbereich**
 
-<sup>1</sup> Die nachfolgenden Bestimmungen über die Rechte und Pflichten der Patienten und Patientinnen finden in sämtlichen öffentlichen und privaten Institutionen des Gesundheitswesens Anwendung. Sie gelten sinngemäss auch für Personen, die in Behandlung und Pflege bei freiberuflich tätigen Bewilligungsinhabern und Bewilligungsinhaberinnen stehen.
+<sup>1</sup> Die nachfolgenden Bestimmungen über die Rechte und Pflichten der Patienten und Patientinnen finden in sämtlichen öffentlichen und privaten Einrichtungen und Organisationen des Gesundheitswesens Anwendung. Sie gelten sinngemäss auch für Personen, die in Behandlung und Pflege bei freiberuflich tätigen Bewilligungsinhabern und Bewilligungsinhaberinnen stehen.
 
 <sup>2</sup> Der Regierungsrat regelt die Einzelheiten.
 
@@ -424,9 +484,7 @@ vom 03.12.2014 (Stand 01.09.2015)
 
 **Patientenverfügung, Vertretung und Zwangsbehandlung**
 
-<sup>1</sup> Die Errichtung, der Widerruf und die Beachtung von Patientenverfügungen, die Vertretung bei medizinischen Massnahmen sowie die medizinische Behandlung gegen den Willen des Patienten oder der Patientin richten sich nach den Bestimmungen des ZGB[^35-1].
-
-[^35-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
+<sup>1</sup> Die Errichtung, der Widerruf und die Beachtung von Patientenverfügungen, die Vertretung bei medizinischen Massnahmen sowie die medizinische Behandlung gegen den Willen des Patienten oder der Patientin richten sich nach den Bestimmungen des ZGB.
 
 #### § 36
 
@@ -458,7 +516,7 @@ vom 03.12.2014 (Stand 01.09.2015)
 
 [^38-1]: SR [810.21](https://db.clex.ch/link/Bund/810.21/de)
 
-## 6. Gesundheitsvorsorge
+## 6. Gesundheitsvorsorge und weitere Tätigkeiten
 
 #### § 39
 
@@ -468,21 +526,29 @@ vom 03.12.2014 (Stand 01.09.2015)
 
 <sup>2</sup> Der Kanton sorgt für die übergeordnete Planung, Koordination und Aufsicht sowie in ausgewählten Bereichen für die statistische Datenerfassung.
 
-<sup>3</sup> Die in der Gesundheitsvorsorge tätigen Institutionen, die Organe der Sozialversicherungen sowie die Leistungserbringer stellen dem Kanton die für die Statistiken notwendigen Daten zur Verfügung. Vorbehalten bleiben bundesrechtliche Vorschriften.
+<sup>3</sup> Die in der Gesundheitsvorsorge tätigen Einrichtungen und Organisationen des Gesundheitswesens, die Organe der Sozialversicherungen sowie die Leistungserbringer und Leistungserbringerinnen stellen dem Kanton die für die Statistiken notwendigen Daten zur Verfügung. Vorbehalten bleiben bundesrechtliche Vorschriften.
 
 <sup>4</sup> Die Gemeinden unterstützen den Kanton und sorgen für die Durchführung von Massnahmen und Projekten auf ihrem Gemeindegebiet.
 
-<sup>5</sup> Der Kanton kann im Rahmen des Voranschlages Beiträge ausrichten an Institutionen, die sich auf dem Gebiet der Gesundheitsvorsorge betätigen. Sie können an die Bedingung geknüpft werden, dass auch die Gemeinden entsprechende Beiträge leisten.
+<sup>5</sup> Der Kanton kann Beiträge ausrichten an Einrichtungen und Organisationen des Gesundheitswesens, die sich auf dem Gebiet der Gesundheitsvorsorge betätigen. Sie können an die Bedingung geknüpft werden, dass die Gemeinden entsprechende Beiträge leisten.
 
-<sup>6</sup> Der Kanton kann weitere Tätigkeiten von Gemeinden oder Privaten im Gesundheitswesen durch Beiträge unterstützen.
+<sup>6</sup> Der Kanton kann weitere Tätigkeiten von Gemeinden oder Privaten im Gesundheitswesen ausserhalb der Gesundheitsvorsorge durch Beiträge unterstützen. Sie können an die Bedingung geknüpft werden, dass die Gemeinden entsprechende Beiträge leisten.
 
 #### § 40
 
-**Krebsregister**
+**Krebsregister und Früherkennungsprogramme**
 
 <sup>1</sup> Zur Erhöhung der Kenntnisse über Krebserkrankungen in der Bevölkerung führt der Kanton vorbehältlich bundesrechtlicher Bewilligungen selber oder mittels Leistungsvereinbarung ein Krebsregister. Er strebt kantonsübergreifende Trägerschaften an.
 
-<sup>2</sup> Die Institution des Krebsregisters darf auch besonders schützenswerte Personendaten des kantonalen Personen- und Objektregisters (PEROB) sowie die AHV-Versichertennummer nutzen, wenn die datenschutzrechtlichen Bestimmungen eingehalten sind.
+<sup>2</sup> Die Institution des Krebsregisters und die Früherkennungsprogramme dürfen auch besonders schützenswerte Personendaten des kantonalen Personen- und Objektregisters (PEROB) sowie die AHV-Versichertennummer nutzen, wenn die datenschutzrechtlichen Bestimmungen eingehalten werden.
+
+#### § 40a
+
+**Bekanntgabe von Daten an Früherkennungsprogramme**
+
+<sup>1</sup> Die Institution des Krebsregisters ist berechtigt, den Früherkennungsprogrammen des Kantons die Ergebnisse und die für die Qualitätssicherung nötigen Daten zu liefern, die sie im Zusammenhang mit der Gesundheitsvorsorge führt, soweit dies für die Ausübung des hoheitlichen Auftrags notwendig ist.
+
+<sup>2</sup> Eine Weitergabe von Personendaten an Dritte ist untersagt.
 
 ## 7. Massnahmen in ausserordentlichen Lagen und gegen übertragbare Krankheiten
 
@@ -492,14 +558,14 @@ vom 03.12.2014 (Stand 01.09.2015)
 
 <sup>1</sup> Der Kanton stellt die medizinische Versorgung und sanitätsdienstliche Rettung in ausserordentlichen Lagen sicher.
 
-<sup>2</sup> In allen Institutionen und Betrieben des Gesundheitswesens sind Notfallorganisationen vorzubereiten und zu unterhalten. Der Regierungsrat legt Umfang, Ausbildung und Mittel fest und kann die Partnerorganisationen gemäss dem Gesetz über die Bewältigung von ausserordentlichen Lagen zur Bereitstellung verpflichten.
+<sup>2</sup> In allen Einrichtungen und Organisationen des Gesundheitswesens sind Notfallorganisationen vorzubereiten und zu unterhalten. Der Regierungsrat legt Umfang, Ausbildung und Mittel fest und kann die Partnerorganisationen gemäss dem Gesetz über die Bewältigung von ausserordentlichen Lagen zur Bereitstellung verpflichten.
 
-<sup>3</sup> Er kann
+<sup>3</sup> Er kann:
 
-- 1\. die Institutionen des Gesundheitswesens zur Aufnahme, Behandlung und Pflege von Patienten und Patientinnen verpflichten;
-- 2\. die freie Arzt- und Spitalwahl einschränken oder aufheben;
-- 3\. die Bereitstellung von Rettungsfahrzeugen, Sanitätsmaterial und Medikamenten anordnen;
-- 4\. die Inbetriebnahme der geschützten Spitäler und Hilfsstellen anordnen.
+- 1\. die Einrichtungen und Organisationen des Gesundheitswesens zur Aufnahme, Behandlung und Pflege von Patienten und Patientinnen verpflichten
+- 2\. die freie Arzt- und Spitalwahl einschränken oder aufheben
+- 3\. die Bereitstellung von Rettungsfahrzeugen, Sanitätsmaterial und Medikamenten anordnen
+- 4\. die Inbetriebnahme der geschützten Spitäler und Hilfsstellen anordnen
 
 #### § 42
 
@@ -529,7 +595,7 @@ vom 03.12.2014 (Stand 01.09.2015)
 
 <sup>2</sup> Der Vollzug obliegt dem Kantonsapotheker oder der Kantonsapothekerin, soweit nichts anderes bestimmt ist.
 
-<sup>3</sup> Dem Kantonstierarzt oder der Kantonstierärztin obliegt der Vollzug des Verkehrs mit Tierheilmitteln.
+<sup>3</sup> Der Vollzug des Verkehrs mit Tierheilmitteln richtet sich nach dem Gesetz über das Veterinärwesen.
 
 ## 10. Bestattungswesen
 
@@ -571,22 +637,50 @@ vom 03.12.2014 (Stand 01.09.2015)
 
 #### § 49
 
-**Kompetenzen**
+**Aufsicht**
 
-<sup>1</sup> Die zuständigen Organe können jederzeit Inspektionen und Kontrollen über die Einhaltung der Bewilligungs- und Berufspflichten durchführen oder durchführen lassen und alle zur Beseitigung eines rechtswidrigen Zustandes erforderlichen Massnahmen anordnen.
+<sup>1</sup> Die Aufsichtsbehörden können jederzeit Inspektionen und Kontrollen über die Einhaltung der Bewilligungs- und Berufspflichten durchführen oder durchführen lassen und alle zur Beseitigung eines rechtswidrigen Zustands erforderlichen Massnahmen anordnen.
 
-<sup>2</sup> Dazu ist ihnen der Zugang zu Räumlichkeiten, Einrichtungen und Aufzeichnungen zu gewähren und Auskunft zu erteilen. Sie sind befugt, die Herausgabe von Aufzeichnungen und Unterlagen zu verlangen, Proben zu erheben sowie Gegenstände entschädigungslos einzuziehen. Die Verhältnismässigkeit und der Datenschutz sind zu wahren.
+<sup>2</sup> Dazu ist ihnen der Zugang zu Räumlichkeiten, Einrichtungen und Aufzeichnungen zu gewähren und Auskunft zu erteilen. Sie sind befugt, die Herausgabe von Aufzeichnungen und Unterlagen zu verlangen, Proben zu erheben sowie Gegenstände entschädigungslos einzuziehen.
+
+#### § 49a
+
+**Disziplinarmassnahmen**
+
+<sup>1</sup> Bei Verletzung der Berufspflichten, der Vorschriften dieses Gesetzes oder übergeordneter Gesetze oder von Ausführungsbestimmungen dazu kann die Aufsichtsbehörde für Angehörige von kantonalen Gesundheitsberufen sowie von universitären Medizinalberufen und Gesundheitsberufen gemäss GesBG, die unter fachlicher Aufsicht tätig sind, folgende Disziplinarmassnahmen anordnen:
+
+- 1\. eine Verwarnung
+- 2\. einen Verweis
+- 3\. eine Busse bis zu Fr. 20'000
+- 4\. ein Verbot der Berufsausübung für längstens sechs Jahre (befristetes Verbot)
+- 5\. ein definitives Verbot der Berufsausübung für das ganze Tätigkeitsspektrum oder einen Teil des Tätigkeitsspektrums
+
+<sup>2</sup> Für die Verletzung der Berufspflichten können nur Disziplinarmassnahmen gemäss Abs. 1 Ziff. 1 bis Ziff. 3 verhängt werden.
+
+<sup>3</sup> Eine Busse kann zusätzlich zu einem Verbot der Berufsausübung angeordnet werden.
+
+<sup>4</sup> Die Aufsichtsbehörde kann die Bewilligung zur Berufsausübung während des Disziplinarverfahrens einschränken, mit Auflagen versehen oder entziehen.
+
+<sup>5</sup> Die Verfahrens- und Verjährungsvorschriften des MedBG, des PsyG und des GesBG gelten sinngemäss.
 
 #### § 50
 
 **Busse**
 
-<sup>1</sup> Wer vorsätzlich oder fahrlässig gegen Bestimmungen dieses Gesetzes verstösst, wird mit Busse bis Fr. 50'000 bestraft. Vorbehalten bleiben andere Strafbestimmungen.
+<sup>1</sup> Mit Busse bis Fr. 50'000 wird bestraft, wer
+
+- 1\. einen Beruf des Gesundheitswesens ausübt, ohne über die dafür erforderliche Bewilligung zu verfügen (§ 9) oder ohne die Bewilligungsvoraussetzungen einzuhalten (§ 10),
+- 2\. eine gemäss § 10a vorgeschriebene Meldung unterlässt,
+- 3\. nicht im Sinne von § 18 in dringenden Fällen Beistand leistet,
+- 4\. sich nicht am Notfalldienst gemäss § 19 Abs. 2 beteiligt,
+- 5\. eine Anzeige im Sinne von § 23 unterlässt,
+- 6\. Patienten und Patientinnen nicht im Sinne von § 32 aufklärt,
+- 7\. medizinische und pflegerische Massnahmen ohne Zustimmung des Patienten oder der Patientin durchführt (§ 33 Abs. 1),
+- 8\. eine Obduktion vornimmt, ohne dass eine Einwilligung im Sinne von § 37 Abs. 1 oder Abs. 2 vorliegt,
+- 9\. dem Kanton im Sinne von § 39 Abs. 3 die für die Statistiken notwendigen Daten nicht zur Verfügung stellt.
 
 <sup>2</sup> Wer gewerbsmässig oder gewinnsüchtig handelt, wird mit Busse bis Fr. 100'000 bestraft.
 
-*Dieses Gesetz tritt auf einen durch den Regierungsrat zu bestimmenden Zeitpunkt in Kraft[^footer-1].*
+<sup>3</sup> Einrichtungen und Organisationen des Gesundheitswesens werden mit Busse bis Fr. 100'000 bestraft, wenn sie nicht über die im Sinne von § 24 Abs. 1 erforderliche Betriebsbewilligung verfügen oder im Sinne von § 26 in dringenden Fällen keinen Beistand leisten oder keine notfallmässige Behandlung gewährleisten.
 
 50/2014
-
-[^footer-1]: Vom Regierungsrat in Kraft gesetzt auf den 1. September 2015.
