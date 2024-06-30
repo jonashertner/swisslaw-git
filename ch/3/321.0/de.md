@@ -4,11 +4,11 @@ title: Militärstrafgesetz vom 13. Juni 1927 (MStG)
 short: MStG
 eli: "https://fedlex.data.admin.ch/eli/cc/43/359_375_369"
 language: de
-version: 2023-09-25
+version: 2024-07-01
 adopted: 1927-06-13
 in_force: 1928-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20230925/de/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20230925-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20230925/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/43/359_375_369/20240701/de/xml/fedlex-data-admin-ch-eli-cc-43-359_375_369-20240701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/43/359_375_369/20230925/de"
 
 (MStG)
 
-vom 13. Juni 1927 (Stand am 25. September 2023)
+vom 13. Juni 1927 (Stand am 1. Juli 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -829,9 +829,9 @@ Das Gericht verweist den Ausländer, der wegen einer der folgenden strafbaren Ha
 - c.[^49a-2] qualifizierte Veruntreuung (Art. 130 Ziff. 2), qualifizierter Diebstahl (Art. 131 Ziff. 4), Raub (Art. 132), Sachbeschädigung mit grossem Schaden (Art. 134 Abs. 3), gewerbsmässiger Betrug (Art. 135 Abs. 4), qualifizierte Erpressung (Art. 137*a* Ziff. 2–4), gewerbsmässige Hehlerei (Art. 137*b* Ziff. 2), qualifizierte Plünderung (Art. 139 Abs. 2);
 - d. Diebstahl (Art. 131) in Verbindung mit Hausfriedensbruch (Art. 152);
 - e. Freiheitsberaubung und Entführung (Art. 151*a*), qualifizierte Freiheitsberaubung und Entführung (Art. 151*b*), Geiselnahme (Art. 151*c*);
-- f. sexuelle Nötigung (Art. 153), Vergewaltigung (Art. 154), Schändung (Art. 155), sexuelle Handlungen mit Kindern (Art. 156 Ziff. 1);
-- g.[^49a-3] Brandstiftung (Art. 160 Abs. 1 und 2), vorsätzliche Verursachung einer Explosion (Art. 161 Ziff. 1 Abs. 1 und 3), Gefährdung durch Sprengstoffe und giftige Gase in verbrecherischer Absicht (Art. 162 Abs. 1 und 3), vorsätzliche Gefährdung ohne verbrecherische Absicht (Art. 163 Abs. 1), Herstellen, Verbergen, Weiterschaffen von Sprengstoffen und giftigen Gasen (Art. 164), vorsätzliches Verursachen einer Überschwemmung oder eines Einsturzes (Art. 165 Ziff. 1 Abs. 1 und 3), vorsätzliche Beschädigung von elektrischen Anlagen, Wasserbauten und Schutzvorrichtungen (Art. 166 Ziff. 1 Abs. 1), Verbreiten menschlicher Krankheiten (Art. 167), vorsätzliche Trinkwasserverunreinigung (Art. 169 Abs. 1), Störung des öffentlichen Verkehrs (Art. 169*a* Ziff. 1), strafbare Vorbereitungshandlungen (Art. 171*b*);
-- h. Völkermord (Art. 108), Verbrechen gegen die Menschlichkeit (Art. 109), schwere Verletzungen der Genfer Konventionen vom 12. August 1949[^49a-4] (Art. 111), andere Kriegsverbrechen (Art. 112–112*d*).
+- f.[^49a-3] sexuelle Nötigung (Art. 153 Abs. 2 und 3), Vergewaltigung (Art. 154), Missbrauch einer urteilsunfähigen oder zum Widerstand unfähigen Person (Art. 155), sexuelle Handlungen mit Kindern (Art. 156 Ziff. 1 und 1<sup>bis</sup>), Ausnützung der militärischen Stellung (Art. 157), Täuschung über den sexuellen Charakter einer Handlung (Art. 158);
+- g.[^49a-4] Brandstiftung (Art. 160 Abs. 1 und 2), vorsätzliche Verursachung einer Explosion (Art. 161 Ziff. 1 Abs. 1 und 3), Gefährdung durch Sprengstoffe und giftige Gase in verbrecherischer Absicht (Art. 162 Abs. 1 und 3), vorsätzliche Gefährdung ohne verbrecherische Absicht (Art. 163 Abs. 1), Herstellen, Verbergen, Weiterschaffen von Sprengstoffen und giftigen Gasen (Art. 164), vorsätzliches Verursachen einer Überschwemmung oder eines Einsturzes (Art. 165 Ziff. 1 Abs. 1 und 3), vorsätzliche Beschädigung von elektrischen Anlagen, Wasserbauten und Schutzvorrichtungen (Art. 166 Ziff. 1 Abs. 1), Verbreiten menschlicher Krankheiten (Art. 167), vorsätzliche Trinkwasserverunreinigung (Art. 169 Abs. 1), Störung des öffentlichen Verkehrs (Art. 169*a* Ziff. 1), strafbare Vorbereitungshandlungen (Art. 171*b*);
+- h. Völkermord (Art. 108), Verbrechen gegen die Menschlichkeit (Art. 109), schwere Verletzungen der Genfer Konventionen vom 12. August 1949[^49a-5] (Art. 111), andere Kriegsverbrechen (Art. 112–112*d*).
 
 <sup>2</sup> Das Gericht kann ausnahmsweise von einer Landesverweisung absehen, wenn diese für den Ausländer einen schweren persönlichen Härtefall bewirken würde und die öffentlichen Interessen an der Landesverweisung gegenüber den privaten Interessen des Ausländers am Verbleib in der Schweiz nicht überwiegen. Dabei ist der besonderen Situation von Ausländern Rechnung zu tragen, die in der Schweiz geboren oder aufgewachsen sind.
 
@@ -839,8 +839,9 @@ Das Gericht verweist den Ausländer, der wegen einer der folgenden strafbaren Ha
 
 [^49a-1]: Eingefügt durch Ziff. I 2 des BG vom 20. März 2015 (Umsetzung von Art. 121 Abs. 3–6 BV über die Ausschaffung krimineller Ausländerinnen und Ausländer), in Kraft seit 1. Okt. 2016 ([AS 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [BBl 2013 5975](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
 [^49a-2]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^49a-3]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
-[^49a-4]: [SR 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180), [0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205), [0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226), [0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
+[^49a-3]: Fassung gemäss Ziff. I 4 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^49a-4]: Fassung gemäss Ziff. I 2 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^49a-5]: [SR 0.518.12](https://fedlex.data.admin.ch/eli/cc/1951/181_184_180), [0.518.23](https://fedlex.data.admin.ch/eli/cc/1951/207_209_205), [0.518.42](https://fedlex.data.admin.ch/eli/cc/1951/228_230_226), [0.518.51](https://fedlex.data.admin.ch/eli/cc/1951/300_302_297)
 
 ### b. Nicht obligatorische Landes-verweisung
 
@@ -894,39 +895,42 @@ Der Vollzug richtet sich nach den Artikeln 66*c* und 66*d* des Strafgesetzbuchs[
 
 Wird jemand wegen einer der nachfolgenden Straftaten zu einer Strafe verurteilt oder wird deswegen gegen ihn eine Massnahme nach den Artikeln 59–61, 63 oder 64 des Strafgesetzbuchs[^50-4] angeordnet, so verbietet ihm das Gericht lebenslänglich jede berufliche und jede organisierte ausserberufliche Tätigkeit, die einen regelmässigen Kontakt zu Minderjährigen umfasst:
 
-- a. sexuelle Nötigung (Art. 153), Vergewaltigung (Art. 154), Schändung (Art. 155), Ausnützung der militärischen Stellung (Art. 157), Exhibitionismus (Art. 159), sexuelle Belästigungen (Art. 159*a*), sofern er die Straftat an oder vor einem minderjährigen Opfer begangen hat;
-- b. sexuelle Handlungen mit Kindern (Art. 156).[^50-5]
+- a.[^50-5] sexueller Übergriff und sexuelle Nötigung (Art. 153), Vergewaltigung (Art. 154), Missbrauch einer urteilsunfähigen oder zum Widerstand unfähigen Person (Art. 155), Ausnützung der militärischen Stellung (Art. 157), Täuschung über den sexuellen Charakter einer Handlung (Art. 158), Exhibitionismus (Art. 159), sexuelle Belästigungen (Art. 159*a*), sofern er die Straftat an oder vor einem minderjährigen Opfer begangen hat;
+- b. sexuelle Handlungen mit Kindern (Art. 156).[^50-6]
 
 <sup>4</sup>
 
-Wird jemand wegen einer der nachfolgenden Straftaten zu einer Strafe verurteilt oder wird deswegen gegen ihn eine Massnahme nach den Artikeln 59–61, 63 oder 64 des Strafgesetzbuchs angeordnet, so verbietet ihm das Gericht lebenslänglich jede berufliche und jede organisierte ausserberufliche Tätigkeit, die einen regelmässigen Kontakt zu volljährigen besonders schutzbedürftigen Personen umfasst, sowie jede berufliche und jede organisierte ausserberufliche Tätigkeit im Gesundheitsbereich mit direktem Patientenkontakt: sexuelle Nötigung (Art. 153), Vergewaltigung (Art. 154), Schändung (Art. 155), Ausnützung der militärischen Stellung (Art. 157), Exhibitionismus (Art. 159), sexuelle Belästigungen (Art. 159*a*), sofern er die Straftat begangen hat an oder vor:
+Wird jemand wegen einer der nachfolgenden Straftaten zu einer Strafe verurteilt oder wird deswegen gegen ihn eine Massnahme nach den Artikeln 59–61, 63 oder 64 des Strafgesetzbuchs angeordnet, so verbietet ihm das Gericht lebenslänglich jede berufliche und jede organisierte ausserberufliche Tätigkeit, die einen regelmässigen Kontakt zu volljährigen besonders schutzbedürftigen Personen umfasst, sowie jede berufliche und jede organisierte ausserberufliche Tätigkeit im Gesundheitsbereich mit direktem Patientenkontakt: sexueller Übergriff und sexuelle Nötigung (Art. 153), Vergewaltigung (Art. 154), Missbrauch einer urteilsunfähigen oder zum Widerstand unfähigen Person (Art. 155), Ausnützung der militärischen Stellung (Art. 157), Täuschung über den sexuellen Charakter einer Handlung (Art. 158), Exhibitionismus (Art. 159), sexuelle Belästigungen (Art. 159*a*), sofern er die Straftat begangen hat an oder vor:[^50-7]
 
 - a. einem volljährigen, besonders schutzbedürftigen Opfer; oder
-- b. einem volljährigen nicht besonders schutzbedürftigen Opfer, das zum Widerstand unfähig oder urteilsunfähig war oder sich aufgrund einer körperlichen oder psychischen Abhängigkeit nicht zu Wehr setzen konnte.[^50-6]
+- b. einem volljährigen nicht besonders schutzbedürftigen Opfer, das zum Widerstand unfähig oder urteilsunfähig war oder sich aufgrund einer körperlichen oder psychischen Abhängigkeit nicht zu Wehr setzen konnte.[^50-8]
 
 <sup>4bis</sup>
 
 Das Gericht kann in besonders leichten Fällen ausnahmsweise von der Anordnung eines Tätigkeitsverbotes nach Absatz 3 oder 4 absehen, wenn ein solches Verbot nicht notwendig erscheint, um den Täter von der Begehung weiterer Straftaten abzuhalten, wie sie Anlass für das Verbot sind. Von der Anordnung eines Tätigkeitsverbotes darf jedoch nicht abgesehen werden, wenn der Täter:
 
-- a. verurteilt worden ist wegen sexueller Nötigung (Art. 153), Vergewaltigung (Art. 154) oder Schändung (Art. 155); oder
-- b. gemäss den international anerkannten Klassifikationskriterien pädophil ist.[^50-7]
+- a.[^50-9] verurteilt worden ist wegen sexueller Nötigung (Art. 153 Abs. 2 und 3), Vergewaltigung (Art. 154 Abs. 2 und 3) oder Missbrauch einer urteilsunfähigen oder zum Widerstand unfähigen Person (Art. 155); oder
+- b. gemäss den international anerkannten Klassifikationskriterien pädophil ist.[^50-10]
 
-<sup>5</sup> Wird der Täter im selben Verfahren wegen mehrerer Straftaten zu einer Strafe verurteilt oder wird gegen ihn deswegen eine Massnahme angeordnet, so legt das Gericht fest, welcher Anteil der Strafe oder welche Massnahme auf eine Straftat entfällt, die ein Tätigkeitsverbot nach sich zieht. Dieser Strafanteil, die Massnahme sowie die Straftat sind massgebend dafür, ob ein Tätigkeitsverbot nach Absatz 1, 2, 2<sup>bis</sup>, 3 oder 4 verhängt wird. Die Strafanteile für mehrere einschlägige Straftaten werden addiert. Es können mehrere Tätigkeitsverbote verhängt werden.[^50-8]
+<sup>5</sup> Wird der Täter im selben Verfahren wegen mehrerer Straftaten zu einer Strafe verurteilt oder wird gegen ihn deswegen eine Massnahme angeordnet, so legt das Gericht fest, welcher Anteil der Strafe oder welche Massnahme auf eine Straftat entfällt, die ein Tätigkeitsverbot nach sich zieht. Dieser Strafanteil, die Massnahme sowie die Straftat sind massgebend dafür, ob ein Tätigkeitsverbot nach Absatz 1, 2, 2<sup>bis</sup>, 3 oder 4 verhängt wird. Die Strafanteile für mehrere einschlägige Straftaten werden addiert. Es können mehrere Tätigkeitsverbote verhängt werden.[^50-11]
 
-<sup>6</sup> Das Gericht kann für die Dauer der Verbote Bewährungshilfe anordnen.[^50-9]
+<sup>6</sup> Das Gericht kann für die Dauer der Verbote Bewährungshilfe anordnen.[^50-12]
 
-<sup>7</sup> …[^50-10]
+<sup>7</sup> …[^50-13]
 
 [^50-1]: Fassung gemäss Ziff. I 2 des BG vom 13. Dez. 2013 über das Tätigkeitsverbot und das Kontakt- und Rayonverbot, in Kraft seit 1. Jan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
 [^50-2]: Fassung gemäss Ziff. I 2 des BG vom 19. Juni 2015 (Änderungen des Sanktionenrechts), in Kraft seit 1. Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 [^50-3]: Eingefügt durch Ziff. I 2 des BG vom 16. März 2018 (Umsetzung von Art. 123***c*** BV), in Kraft seit 1. Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
 [^50-4]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^50-5]: Fassung gemäss Ziff. I 2 des BG vom 16. März 2018 (Umsetzung von Art. 123***c*** BV), in Kraft seit 1. Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^50-5]: Fassung gemäss Ziff. I 4 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^50-6]: Fassung gemäss Ziff. I 2 des BG vom 16. März 2018 (Umsetzung von Art. 123***c*** BV), in Kraft seit 1. Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
-[^50-7]: Eingefügt durch Ziff. I 2 des BG vom 16. März 2018 (Umsetzung von Art. 123***c*** BV), in Kraft seit 1. Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^50-7]: Fassung gemäss Ziff. I 4 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^50-8]: Fassung gemäss Ziff. I 2 des BG vom 16. März 2018 (Umsetzung von Art. 123***c*** BV), in Kraft seit 1. Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
-[^50-9]: Fassung gemäss Ziff. I 2 des BG vom 16. März 2018 (Umsetzung von Art. 123***c*** BV), in Kraft seit 1. Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
-[^50-10]: Aufgehoben durch Ziff. I 2 des BG vom 16. März 2018 (Umsetzung von Art. 123***c*** BV), mit Wirkung seit 1. Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^50-9]: Fassung gemäss Ziff. I 4 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^50-10]: Eingefügt durch Ziff. I 2 des BG vom 16. März 2018 (Umsetzung von Art. 123***c*** BV), in Kraft seit 1. Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^50-11]: Fassung gemäss Ziff. I 2 des BG vom 16. März 2018 (Umsetzung von Art. 123***c*** BV), in Kraft seit 1. Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^50-12]: Fassung gemäss Ziff. I 2 des BG vom 16. März 2018 (Umsetzung von Art. 123***c*** BV), in Kraft seit 1. Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^50-13]: Aufgehoben durch Ziff. I 2 des BG vom 16. März 2018 (Umsetzung von Art. 123***c*** BV), mit Wirkung seit 1. Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
 
 ### Inhalt und Umfang
 
@@ -1165,14 +1169,15 @@ Die Strafverfolgung verjährt, wenn die für die Tat angedrohte Höchststrafe::
 - c. eine Freiheitsstrafe von drei Jahren ist: in 10 Jahren;
 - d. eine andere Strafe ist: in 7 Jahren.[^55-1]
 
-<sup>2</sup> Bei sexuellen Handlungen mit Kindern (Art. 156) sowie bei Straftaten nach den Artikeln 115, 117, 121 und 153–155, die sich gegen ein Kind unter 16 Jahren richten, dauert die Verfolgungsverjährung in jedem Fall mindestens bis zum vollendeten 25. Lebensjahr des Opfers.
+<sup>2</sup> Bei sexuellen Handlungen mit Kindern (Art. 156) sowie bei Straftaten nach den Artikeln 115, 117, 121, 153−155, 157 und 158, die sich gegen ein Kind unter 16 Jahren richten, dauert die Verfolgungsverjährung in jedem Fall mindestens bis zum vollendeten 25. Lebensjahr des Opfers.[^55-2]
 
 <sup>3</sup> Ist vor Ablauf der Verjährungsfrist ein erstinstanzliches Urteil ergangen, so tritt die Verjährung nicht mehr ein.
 
-<sup>4</sup> Die Verjährung der Strafverfolgung von sexuellen Handlungen mit Kindern (Art. 156) sowie von Straftaten nach den Artikeln 115–117, 121 und 153–155, die sich gegen ein Kind unter 16 Jahren richten, bemisst sich nach den Absätzen 1–3, wenn die Straftat vor dem Inkrafttreten der Änderung vom 5. Oktober 2001[^55-2] begangen worden ist und die Verfolgungsverjährung zu diesem Zeitpunkt noch nicht eingetreten ist.
+<sup>4</sup> Die Verjährung der Strafverfolgung von sexuellen Handlungen mit Kindern (Art. 156) sowie von Straftaten nach den Artikeln 115–117, 121 und 153–155, die sich gegen ein Kind unter 16 Jahren richten, bemisst sich nach den Absätzen 1–3, wenn die Straftat vor dem Inkrafttreten der Änderung vom 5. Oktober 2001[^55-3] begangen worden ist und die Verfolgungsverjährung zu diesem Zeitpunkt noch nicht eingetreten ist.
 
 [^55-1]: Fassung gemäss Ziff. I 2 des BG vom 21. Juni 2013 (Verlängerung der Verfolgungs-verjährung), in Kraft seit 1. Jan. 2014 ([AS 2013 4417](https://fedlex.data.admin.ch/eli/oc/2013/783); [BBl 2012 9253](https://fedlex.data.admin.ch/eli/fga/2012/1719)).
-[^55-2]: [AS 2002 2993](https://fedlex.data.admin.ch/eli/oc/2002/430)[3146](https://fedlex.data.admin.ch/eli/oc/2002/465)
+[^55-2]: Fassung gemäss Ziff. I 4 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^55-3]: [AS 2002 2993](https://fedlex.data.admin.ch/eli/oc/2002/430)[3146](https://fedlex.data.admin.ch/eli/oc/2002/465)
 
 ### Beginn
 
@@ -1227,13 +1232,13 @@ Keine Verjährung tritt ein für:
 - b. Verbrechen gegen die Menschlichkeit (Art. 109 Abs. 1 und 2);
 - c. Kriegsverbrechen (Art. 111 Abs. 1–3, 112 Abs. 1 und 2, 112*a* Abs. 1 und 2, 112*b*, 112*c* Abs. 1 und 2 und 112*d*);
 - d. Verbrechen, die als Mittel zu Erpressung oder Nötigung Leib und Leben vieler Menschen in Gefahr brachten oder zu bringen drohten, namentlich unter Verwendung von Massenvernichtungsmitteln, durch Auslösen von Katastrophen oder durch Geiselnahme;
-- e.[^59-1] sexuelle Nötigung (Art. 153), Vergewaltigung (Art. 154), Schändung (Art. 155), sexuelle Handlungen mit Kindern (Art. 156 Ziff. 1) und Ausnützung der militärischen Stellung (Art. 157), wenn sie an Kindern unter 12 Jahren begangen wurden.[^59-2]
+- e.[^59-1] sexuellen Übergriff und sexuelle Nötigung (Art. 153), Vergewaltigung (Art. 154), Missbrauch einer urteilsunfähigen oder zum Widerstand unfähigen Person (Art. 155), sexuelle Handlungen mit Kindern (Art. 156 Ziff. 1 und 1<sup>bis</sup>), Ausnützung der militärischen Stellung (Art. 157) und Täuschung über den sexuellen Charakter einer Handlung (Art. 158), wenn sie an Kindern unter 12 Jahren begangen wurden.[^59-2]
 
 <sup>2</sup> Wäre die Strafverfolgung bei Anwendung der Artikel 55 und 56 verjährt, so kann das Gericht die Strafe mildern.
 
 <sup>3</sup> Die Absätze 1 Buchstaben a, c und d sowie 2 gelten, wenn die Strafverfolgung oder die Strafe am 1. Januar 1983 nach dem bis zu jenem Zeitpunkt geltenden Recht noch nicht verjährt war. Absatz 1 Buchstabe b gilt, wenn die Strafverfolgung oder die Strafe beim Inkrafttreten der Änderung vom 18. Juni 2010 dieses Gesetzes nach bisherigem Recht noch nicht verjährt war. Absatz 1 Buchstabe e gilt, wenn die Strafverfolgung oder die Strafe am 30. November 2008 nach dem bis zu jenem Zeitpunkt geltenden Recht noch nicht verjährt war.[^59-3] [^59-4]
 
-[^59-1]: Eingefügt durch Ziff. I 3 des BG vom 15. Juni 2012 (Unverjährbarkeit sexueller und pornografischer Straftaten an Kindern vor der Pubertät), in Kraft seit 1. Jan. 2013 ([AS 2012 5951](https://fedlex.data.admin.ch/eli/oc/2012/696); [BBl 2011 5977](https://fedlex.data.admin.ch/eli/fga/2011/883)).
+[^59-1]: Eingefügt durch Ziff. I 3 des BG vom 15. Juni 2012 (Unverjährbarkeit sexueller und pornografischer Straftaten an Kindern vor der Pubertät ([AS 2012 5951](https://fedlex.data.admin.ch/eli/oc/2012/696); [BBl 2011 5977](https://fedlex.data.admin.ch/eli/fga/2011/883)). Fassung gemäss Ziff. I 4 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^59-2]: Fassung gemäss Ziff. I 2 des BG vom 18. Juni 2010 über die Änderung von Bundesge-setzen zur Umsetzung des Römer Statuts des Internationalen Strafgerichtshofs, in Kraft seit 1. Jan. 2011 ([AS 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [BBl 2008 3863](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 [^59-3]: Dritter Satz eingefügt durch Ziff. I 3 des BG vom 15. Juni 2012 (Unverjährbarkeit sexueller und pornografischer Straftaten an Kindern vor der Pubertät), in Kraft seit 1. Jan. 2013 ([AS 2012 5951](https://fedlex.data.admin.ch/eli/oc/2012/696); [BBl 2011 5977](https://fedlex.data.admin.ch/eli/fga/2011/883)).
 [^59-4]: Fassung gemäss Ziff. I 2 des BG vom 18. Juni 2010 über die Änderung von Bundesge-setzen zur Umsetzung des Römer Statuts des Internationalen Strafgerichtshofs, in Kraft seit 1. Jan. 2011 ([AS 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [BBl 2008 3863](https://fedlex.data.admin.ch/eli/fga/2008/807)).
@@ -2105,7 +2110,7 @@ Mit Freiheitsstrafe nicht unter fünf Jahren, wird bestraft, wer im Rahmen eines
   - 2\. im Auftrag eines Staates oder einer politischen Organisation oder entgegen einer Rechtspflicht die Auskunft über das Schicksal oder den Verbleib dieser Person verweigert;
 
 - f. einem unter seinem Gewahrsam oder seiner Kontrolle stehenden Menschen grosse Leiden oder eine schwere Schädigung des Körpers oder der physischen oder psychischen Gesundheit zufügt;
-- g. eine Person weiblichen Geschlechts vergewaltigt oder, nachdem sie gegen ihren Willen geschwängert wurde, gefangen hält in der Absicht, die ethnische Zusammensetzung einer Bevölkerung zu beeinflussen, eine Person zur Duldung einer sexuellen Handlung von vergleichbarer Schwere oder zur Prostitution nötigt oder sie zwangsweise sterilisiert;
+- g.[^109-1] an einer Person eine Vergewaltigung nach Artikel 154 Absatz 2 oder 3 oder eine sexuelle Nötigung nach Artikel 153 Absatz 2 oder 3 von vergleichbarer Schwere begeht, sie zu einer sexuellen Handlung von vergleichbarer Schwere missbraucht, sie zur Prostitution nötigt oder sie zwangsweise sterilisiert oder, nachdem sie gegen ihren Willen geschwängert wurde, gefangen hält in der Absicht, die ethnische Zusammensetzung einer Bevölkerung zu beeinflussen;
 - h. Menschen aus dem Gebiet, in dem sie sich rechtmässig aufhalten, vertreibt oder zwangsweise an einen andern Ort überführt;
 - i. einer Gruppe von Menschen aus politischen, rassischen, ethnischen, religiösen, sozialen oder anderen völkerrechtswidrigen Gründen, im Zusammenhang mit einer Tat nach dem sechsten Abschnitt oder dem sechsten Abschnitt<sup>bis</sup> oder zwecks systematischer Unterdrückung oder Beherrschung einer rassischen Gruppe, in schwerwiegender Weise Grundrechte vorenthält oder entzieht;
 - j. eine andere unmenschliche Handlung von vergleichbarer Schwere wie die in diesem Absatz genannten Verbrechen verübt und dadurch einem Menschen grosse Leiden oder eine schwere Schädigung des Körpers oder der physischen oder psychischen Gesundheit zufügt.
@@ -2113,6 +2118,8 @@ Mit Freiheitsstrafe nicht unter fünf Jahren, wird bestraft, wer im Rahmen eines
 <sup>2</sup> In besonders schweren Fällen, namentlich wenn die Tat viele Menschen betrifft oder der Täter grausam handelt, kann auf lebenslängliche Freiheitsstrafe erkannt werden.
 
 <sup>3</sup> In weniger schweren Fällen nach Absatz 1 Buchstaben c–j kann auf Freiheitsstrafe nicht unter einem Jahr erkannt werden.
+
+[^109-1]: Fassung gemäss Ziff. I 4 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 ### Sechster Abschnitt<sup>bis</sup>: Kriegsverbrechen
 
@@ -2193,7 +2200,7 @@ Mit Freiheitsstrafe nicht unter drei Jahren wird bestraft, wer im Zusammenhang m
 Mit Freiheitsstrafe nicht unter drei Jahren wird bestraft, wer im Zusammenhang mit einem bewaffneten Konflikt:
 
 - a. eine vom humanitären Völkerrecht geschützte Person körperlich schwer schädigt oder in ihrer physischen oder psychischen Gesundheit schwer verletzt oder gefährdet, indem er sie einem medizinischen Verfahren unterzieht, das nicht durch ihren Gesundheitszustand geboten ist und das nicht mit allgemein anerkannten medizinischen Grundsätzen im Einklang steht;
-- b. eine vom humanitären Völkerrecht geschützte Person weiblichen Geschlechts vergewaltigt oder, nachdem sie gegen ihren Willen geschwängert wurde, gefangen hält in der Absicht, die ethnische Zusammensetzung einer Bevölkerung zu beeinflussen, eine vom humanitären Völkerrecht geschützte Person zur Duldung einer sexuellen Handlung von vergleichbarer Schwere oder zur Prostitution nötigt oder sie zwangsweise sterilisiert;
+- b.[^112a-2] an einer vom humanitären Völkerrecht geschützten Person eine Vergewaltigung nach Artikel 154 Absatz 2 oder 3 oder eine sexuelle Nötigung nach Artikel 153 Absatz 2 oder 3 von vergleichbarer Schwere begeht, sie zu einer sexuellen Handlung von vergleichbarer Schwere missbraucht, sie zur Prostitution nötigt oder sie zwangsweise sterilisiert oder, nachdem sie gegen ihren Willen geschwängert wurde, gefangen hält in der Absicht, die ethnische Zusammensetzung einer Bevölkerung zu beeinflussen;
 - c. eine vom humanitären Völkerrecht geschützte Person in schwerwiegender Weise entwürdigend oder erniedrigend behandelt.
 
 <sup>2</sup> In besonders schweren Fällen, namentlich wenn die Tat viele Menschen betrifft oder der Täter grausam handelt, kann auf lebenslängliche Freiheitsstrafe erkannt werden.
@@ -2201,6 +2208,7 @@ Mit Freiheitsstrafe nicht unter drei Jahren wird bestraft, wer im Zusammenhang m
 <sup>3</sup> In weniger schweren Fällen kann auf Freiheitsstrafe nicht unter einem Jahr erkannt werden.
 
 [^112a-1]: Eingefügt durch Ziff. I 2 des BG vom 18. Juni 2010 über die Änderung von Bundesge-setzen zur Umsetzung des Römer Statuts des Internationalen Strafgerichtshofs, in Kraft seit 1. Jan. 2011 ([AS 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [BBl 2008 3863](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^112a-2]: Fassung gemäss Ziff. I 4 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 ### c. Rekrutierung und Verwendung von Kindersoldaten
 
@@ -3033,29 +3041,43 @@ Mit Freiheitsstrafe nicht unter einem Jahr wird bestraft, wer in der Absicht, ei
 
 [^book1-part2-chap12-1]: Fassung gemäss Ziff. II des BG vom 21. Juni 1991, in Kraft seit 1. Okt. 1992 ([AS 1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)1678; [BBl 1985 II 1009](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
 
-### Sexuelle Nötigung
+### Sexueller Übergriff und sexuelle Nötigung
 
 #### Art. 153
 
-<sup>1</sup> Wer eine Person zur Duldung einer beischlafsähnlichen oder einer anderen sexuellen Handlung nötigt, namentlich indem er sie bedroht, Gewalt anwendet, sie unter psychischen Druck setzt oder zum Widerstand unfähig macht, wird mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe bestraft.
+[^153-1]
 
-<sup>2</sup> Handelt der Täter grausam, verwendet er namentlich eine gefährliche Waffe oder einen anderen gefährlichen Gegenstand, so ist die Strafe Freiheitsstrafe nicht unter drei Jahren.
+<sup>1</sup> Wer gegen den Willen einer Person eine sexuelle Handlung an dieser vornimmt oder von dieser vornehmen lässt oder zu diesem Zweck einen Schockzustand einer Person ausnützt, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+
+<sup>2</sup> Wer eine Person zur Vornahme oder Duldung einer sexuellen Handlung nötigt, namentlich indem er sie bedroht, Gewalt anwendet, sie unter psychischen Druck setzt oder zum Widerstand unfähig macht, wird mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe bestraft.
+
+<sup>3</sup> Handelt der Täter nach Absatz 2 grausam, verwendet er eine gefährliche Waffe oder einen anderen gefährlichen Gegenstand, so ist die Strafe Freiheitsstrafe nicht unter einem Jahr.
+
+[^153-1]: Fassung gemäss Ziff. I 4 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 ### Vergewaltigung
 
 #### Art. 154
 
-<sup>1</sup> Wer eine Person weiblichen Geschlechts zur Duldung des Beischlafs nötigt, namentlich indem er sie bedroht, Gewalt anwendet, sie unter psychischen Druck setzt oder zum Widerstand unfähig macht, wird mit Freiheitsstrafe von einem Jahr[^154-1] bis zu zehn Jahren bestraft.
+[^154-1]
 
-<sup>2</sup> Handelt der Täter grausam, verwendet er namentlich eine gefährliche Waffe oder einen anderen gefährlichen Gegenstand, so ist die Strafe Freiheitsstrafe nicht unter drei Jahren.
+<sup>1</sup> Wer gegen den Willen einer Person den Beischlaf oder eine beischlafsähnliche Handlung, die mit einem Eindringen in den Körper verbunden ist, an dieser vornimmt oder von dieser vornehmen lässt oder zu diesem Zweck einen Schockzustand einer Person ausnutzt, wird mit Freiheitsstrafe bis zu fünf Jahren bestraft.
 
-[^154-1]: Ausdruck gemäss Ziff. II 1 Abs. 4 des BG vom 21. März 2003, in Kraft seit 1. Jan. 2007 ([AS 2006 3389](https://fedlex.data.admin.ch/eli/oc/2006/538); BBl **1999** 1979). Diese Änd. wurde im ganzen zweiten Teil des ersten Buches berücksichtigt.
+<sup>2</sup> Wer eine Person zur Vornahme oder Duldung des Beischlafs oder einer beischlafsähnlichen Handlung, die mit einem Eindringen in den Körper verbunden ist, nötigt, namentlich indem er sie bedroht, Gewalt anwendet, sie unter psychischen Druck setzt oder zum Widerstand unfähig macht, wird mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren bestraft.
 
-### Schändung
+<sup>3</sup> Handelt der Täter nach Absatz 2 grausam, verwendet er eine gefährliche Waffe oder einen anderen gefährlichen Gegenstand, so ist die Strafe Freiheitsstrafe nicht unter drei Jahren.
+
+[^154-1]: Fassung gemäss Ziff. I 4 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+
+### Missbrauch einer urteilsunfähigen oder zum Widerstand unfähigen Person
 
 #### Art. 155
 
-Wer eine urteilsunfähige oder eine zum Widerstand unfähige Person in Kenntnis ihres Zustandes zum Beischlaf, zu einer beischlafsähnlichen oder einer anderen sexuellen Handlung missbraucht, wird mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe bestraft.
+[^155-1]
+
+Wer eine urteilsunfähige oder eine zum Widerstand unfähige Person zum Beischlaf, zu einer beischlafsähnlichen oder einer anderen sexuellen Handlung missbraucht, wird mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe bestraft.
+
+[^155-1]: Fassung gemäss Ziff. I 4 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 #### Art. 155a
 
@@ -3075,41 +3097,58 @@ es in eine solche Handlung einbezieht,
 
 wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
 
+1<sup>bis</sup>. Hat das Kind das 12. Altersjahr noch nicht vollendet und nimmt der Täter mit ihm eine sexuelle Handlung vor oder verleitet es zu einer solchen mit einer Drittperson oder einem Tier, so ist die Strafe Freiheitsstrafe von einem Jahr bis zu fünf Jahren.[^156-1]
+
 <sup>2.</sup> Die Handlung ist nicht strafbar, wenn der Altersunterschied zwischen den Beteiligten nicht mehr als drei Jahre beträgt.
 
-<sup>3.</sup> Hat der Täter zur Zeit der Tat das 20. Altersjahr noch nicht zurückgelegt und liegen besondere Umstände vor oder hat die verletzte Person mit ihm die Ehe geschlossen oder ist sie mit ihm eine eingetragene Partnerschaft eingegangen, so kann die zuständige Behörde von der Überweisung an das Gericht oder der Bestrafung absehen.[^156-1]
+<sup>3.</sup> Hat der Täter zur Zeit der Tat oder der ersten Tathandlung das 20. Altersjahr noch nicht zurückgelegt und liegen besondere Umstände vor, so kann die zuständige Behörde von der Strafverfolgung, der Überweisung an das Gericht oder der Bestrafung absehen.[^156-2]
 
 <sup>4.</sup> Handelte der Täter in der irrigen Vorstellung, das Kind sei mindestens 16 Jahre alt, hätte er jedoch bei pflichtgemässer Vorsicht den Irrtum vermeiden können, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 
-<sup>5.</sup> …[^156-2]
+<sup>5.</sup> …[^156-3]
 
-<sup>6.</sup> …[^156-3]
+<sup>6.</sup> …[^156-4]
 
-[^156-1]: Fassung gemäss Anhang Ziff. 22 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-[^156-2]: Aufgehoben durch Ziff. II des BG vom 21. März 1997, mit Wirkung seit 1. Sept. 1997 ([AS 1997 1626](https://fedlex.data.admin.ch/eli/oc/1997/1626_1626_1626); [BBl 1996 IV 1318](https://fedlex.data.admin.ch/eli/fga/1996/4_1318_1315_1135)1322).
-[^156-3]: Eingefügt durch Ziff. II des BG vom 21. März 1997 ([AS 1997 1626](https://fedlex.data.admin.ch/eli/oc/1997/1626_1626_1626); [BBl 1996 IV 1318](https://fedlex.data.admin.ch/eli/fga/1996/4_1318_1315_1135)1322). Aufgehoben durch Ziff. II des BG vom 5. Okt. 2001 (Verjährung der Strafverfolgung im allgemeinen und bei Sexualdelikten an Kindern), mit Wirkung seit 1. Okt. 2002 ([AS 2002 2993](https://fedlex.data.admin.ch/eli/oc/2002/430); [BBl 2000 2943](https://fedlex.data.admin.ch/eli/fga/2000/612)).
+[^156-1]: Eingefügt durch Ziff. I 4 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^156-2]: Fassung gemäss Ziff. I 4 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^156-3]: Aufgehoben durch Ziff. II des BG vom 21. März 1997, mit Wirkung seit 1. Sept. 1997 ([AS 1997 1626](https://fedlex.data.admin.ch/eli/oc/1997/1626_1626_1626); [BBl 1996 IV 1318](https://fedlex.data.admin.ch/eli/fga/1996/4_1318_1315_1135)1322).
+[^156-4]: Eingefügt durch Ziff. II des BG vom 21. März 1997 ([AS 1997 1626](https://fedlex.data.admin.ch/eli/oc/1997/1626_1626_1626); [BBl 1996 IV 1318](https://fedlex.data.admin.ch/eli/fga/1996/4_1318_1315_1135)1322). Aufgehoben durch Ziff. II des BG vom 5. Okt. 2001 (Verjährung der Strafverfolgung im allgemeinen und bei Sexualdelikten an Kindern), mit Wirkung seit 1. Okt. 2002 ([AS 2002 2993](https://fedlex.data.admin.ch/eli/oc/2002/430); [BBl 2000 2943](https://fedlex.data.admin.ch/eli/fga/2000/612)).
 
 ### Ausnützung der militärischen Stellung
 
 #### Art. 157
 
-Wer unter Ausnützung seiner militärischen Stellung die Duldung oder Vornahme einer sexuellen Handlung erlangt, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe nicht unter 30 Tagessätzen bestraft.
+[^157-1]
+
+Wer unter Ausnützung seiner militärischen Stellung die Vornahme oder Duldung einer sexuellen Handlung erlangt, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
+
+[^157-1]: Fassung gemäss Ziff. I 4 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+
+### Täuschung über den sexuellen Charakter einer Handlung
 
 #### Art. 158
 
-Aufgehoben
+[^158-1]
+
+Wer bei der Ausübung einer beruflichen oder organisierten ausserberuflichen Tätigkeit im Gesundheitsbereich an einer Person eine sexuelle Handlung vornimmt oder von ihr vornehmen lässt und sie dabei über den Charakter der Handlung täuscht oder ihren Irrtum über den Charakter der Handlung ausnützt, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
+
+[^158-1]: Fassung gemäss Ziff. I 4 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 ### Exhibitionismus
 
 #### Art. 159
 
-<sup>1</sup> Wer eine exhibitionistische Handlung vornimmt, wird mit Geldstrafe bestraft.[^159-1]
+[^159-1]
 
-<sup>2</sup> Unterzieht sich der Täter einer ärztlichen Behandlung, so kann das Strafverfahren eingestellt werden. Es wird wieder aufgenommen, wenn sich der Täter der Behandlung entzieht.
+<sup>1</sup> Wer eine exhibitionistische Handlung vornimmt, wird mit Busse bestraft.
 
-<sup>3</sup> In leichten Fällen erfolgt disziplinarische Bestrafung.
+<sup>2</sup> In schweren Fällen ist die Strafe Geldstrafe.
 
-[^159-1]: Fassung gemäss Ziff. II 2 des BG vom 19. Juni 2015 (Änderungen des Sanktionenrechts), in Kraft seit 1. Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+<sup>3</sup> Unterzieht sich die beschuldigte Person gemäss Anordnung der zuständigen Behörde einer ärztlichen Behandlung, so wird das Verfahren eingestellt.
+
+<sup>4</sup> In leichten Fällen erfolgt disziplinarische Bestrafung.
+
+[^159-1]: Fassung gemäss Ziff. I 4 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 ### Sexuelle Belästigungen
 
@@ -3117,17 +3156,29 @@ Aufgehoben
 
 <sup>1</sup> Wer vor jemandem, der dies nicht erwartet, eine sexuelle Handlung vornimmt und dadurch Ärgernis erregt,
 
-wer jemanden tätlich oder in grober Weise durch Worte sexuell belästigt,
+wer jemanden tätlich oder in grober Weise durch Wort, Schrift oder Bild sexuell belästigt,
 
-wird mit Busse bestraft.
+wird mit Busse bestraft.[^159a-1]
+
+<sup>1bis</sup> Die zuständige Behörde kann die beschuldigte Person zum Besuch eines Lernprogramms verpflichten. Absolviert diese das angeordnete Lernprogramm, wird das Verfahren eingestellt.[^159a-2]
+
+<sup>1ter</sup> Die zuständige Behörde entscheidet über die Kosten des Verfahrens und über allfällig geltend gemachte Forderungen der Zivilpartei.[^159a-3]
 
 <sup>2</sup> In leichten Fällen erfolgt disziplinarische Bestrafung.
+
+[^159a-1]: Fassung gemäss Ziff. I 4 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^159a-2]: Eingefügt durch Ziff. I 4 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^159a-3]: Eingefügt durch Ziff. I 4 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 ### Gemeinsame Begehung
 
 #### Art. 159b
 
-Wird eine strafbare Handlung dieses Abschnittes gemeinsam von mehreren Personen ausgeführt, so kann das Gericht die Strafe erhöhen, darf jedoch das höchste Mass der angedrohten Strafe nicht um mehr als die Hälfte überschreiten. Dabei ist es an das gesetzliche Höchstmass der Strafart gebunden.
+[^159b-1]
+
+Wird eine strafbare Handlung nach diesem Abschnitt gemeinsam von mehreren Personen ausgeführt, so erhöht das Gericht die Strafe. Es darf jedoch das Höchstmass der angedrohten Strafe nicht um mehr als die Hälfte überschreiten. Dabei ist es an das gesetzliche Höchstmass der Strafart gebunden.
+
+[^159b-1]: Fassung gemäss Ziff. I 4 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 ### Dreizehnter Abschnitt: Gemeingefährliche Verbrechen oder Vergehen
 
