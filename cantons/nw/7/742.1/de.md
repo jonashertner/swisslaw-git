@@ -4,13 +4,13 @@ number: "742.1"
 title: Einführungsgesetz zum Bundesgesetz über die Krankenversicherung
 short: "Krankenversicherungsgesetz, kKVG"
 language: de
-version: 2023-07-01
-valid_until: 2024-06-30
-version_adopted: 2023-03-29
+version: 2024-07-01
+valid_until: 2025-12-30
+version_adopted: 2024-04-24
 adopted: 2006-10-25
 in_force: 2007-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/742.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1157/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1284/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1157/pdf_file"
 
 (Krankenversicherungsgesetz, kKVG)
 
-vom 25.10.2006 (Stand 01.07.2023)
+vom 25.10.2006 (Stand 01.07.2024)
 
 Der Landrat von Nidwalden,
 
@@ -87,6 +87,7 @@ beschliesst:
 - 5a. den Entscheid über den Zulassungsstopp aufgrund einer Kostensteigerung (Art. 55a Abs. 6 KVG);
 - 6\. die Bezeichnung der Revisionsstelle (Art. 64a Abs. 3 KVG);
 - 7\. die Festlegung der Meldetermine für den Datenaustausch mit den Versicherern in der Prämienverbilligung gemäss Art. 106b Abs. 3 KVV[^5-1].
+- 8\. den Entscheid über den Zulassungsstopp gemäss Art. 55a Abs. 6 und Art. 55b KVG.
 
 [^5-1]: SR 832.102
 
