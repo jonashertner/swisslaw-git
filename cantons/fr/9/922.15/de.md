@@ -1,25 +1,26 @@
 ---
 canton: FR
 number: "922.15"
-title: Verordnung über Regulierungsabschüsse in Wasser- und Zugvogelreservaten von nationaler und internationaler Bedeutung
+title: Verordnung über Regulierungsabschüsse in den Schutzgebieten
 short: RegAbschV
 language: de
-version: 2022-10-01
-valid_until: 2024-06-30
-version_adopted: 2022-09-05
+version: 2024-07-01
+version_adopted: 2024-03-05
 adopted: 2024-03-05
 in_force: 2024-07-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/922.15"
-pdf: "https://bdlf.fr.ch/api/de/versions/7561/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7990/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über Regulierungsabschüsse in Wasser- und Zugvogelreservaten von nationaler und internationaler Bedeutung
+# Verordnung über Regulierungsabschüsse in den Schutzgebieten
 
-Regulierungsabschüsse in Wasser- und Zugvogelreservaten - V
+Regulierungsabschüsse in den Schutzgebieten – V
 
-vom 05.09.2022 (Fassung in Kraft getreten am 01.10.2022)
+(RegAbschV)
+
+vom 05.03.2024 (Fassung in Kraft getreten am 01.07.2024)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -27,11 +28,13 @@ gestützt auf das Bundesgesetz vom 20. Juni 1986 über die Jagd und den Schutz w
 
 gestützt auf die Verordnung des Bundes vom 21. Januar 1991 über die Wasser- und Zugvogelreservate von internationaler und nationaler Bedeutung (WZVV);
 
-gestützt auf das Gesetz vom 14. November 1996 über die Jagd sowie den Schutz wildlebender Säugetiere und Vögel und ihrer Lebensräume (JaG);
+gestützt auf die Verordnung des Bundes vom 30. September 1991 über die eidgenössischen Jagdbanngebiete (VEJ);
+
+gestützt auf das Gesetz vom 14. November 1996 über die Jagd sowie den Schutz wildlebender Säugetiere und Vögel und ihrer Lebensräume (JaG) und die dazugehörige Verordnung vom 6. Juni 2016 (JaV);
 
 in Erwägung:
 
-Gemäss dem Urteil des Bundesgerichts vom 25. November 2020 (1C\_243/2019) darf in Schutzgebieten nur der Abschuss von Tieren, nicht aber die Jagd erlaubt werden.
+Gemäss Bundesgerichtsentscheid vom 25. November 2020 (1C\_243/2019) darf in Schutzgebieten nur der Abschuss von Tieren, nicht aber die Jagd erlaubt werden.
 
 Auf Antrag der Direktion der Institutionen und der Land- und Forstwirtschaft,
 
@@ -41,79 +44,59 @@ beschliesst:
 
 **Zweck und Geltungsbereich**
 
-<sup>1</sup> Diese Verordnung bezweckt die Organisation von Regulierungsabschüssen für jagdbare Arten durch Jagdberechtigte in Wasser- und Zugvogelreservaten von nationaler und internationaler Bedeutung, sofern dies zum Schutz der Lebensräume, für die Erhaltung der Artenvielfalt, zur Hege oder zur Verhütung übermässiger Wildschäden notwendig ist.
+<sup>1</sup> Diese Verordnung bezweckt die Organisation von Regulierungsabschüssen für jagdbare Arten durch Jagdberechtigte in den eidgenössischen Jagdbanngebieten und den Wasser- und Zugvogelreservaten von internationaler und nationaler Bedeutung.
 
-<sup>2</sup> Im Übrigen gelten die eidgenössischen und kantonalen Jagdgesetzgebungen.
+<sup>2</sup> Regulierungsabschüsse dürfen nur dann durchgeführt werden, wenn sie zum Schutz der Lebensräume, für die Erhaltung der Artenvielfalt, zur Hege oder zur Verhütung übermässiger Wildschäden notwendig sind.
+
+<sup>3</sup> Im Übrigen gelten die eidgenössische und die kantonale Jagdgesetzgebung.
 
 #### Art. 2
 
 **Allgemeine Bestimmungen**
 
-<sup>1</sup> Regulierungsabschüsse in den Wasser- und Zugvogelreservaten von nationaler und internationaler Bedeutung, die im Anhang 1 der Verordnung vom 21. Juni 2016 über den Schutz wildlebender Säugetiere und Vögel und ihrer Lebensräume definiert werden, können vom Amt für Wald und Natur (das Amt) bewilligt werden; die vorgängige Zustimmung des Bundesamts für Umwelt (BAFU) bleibt vorbehalten.
+<sup>1</sup> Regulierungsabschüsse in den eidgenössischen Jagdbanngebieten und den Wasser- und Zugvogelreservaten von internationaler und nationaler Bedeutung, die im Anhang 1 der Verordnung vom 21. Juni 2016 über den Schutz wildlebender Säugetiere und Vögel und ihrer Lebensräume definiert werden, können vom Amt für Wald und Natur (das Amt) bewilligt werden; die vorgängige Zustimmung des Bundesamts für Umwelt (BAFU) bleibt vorbehalten.
 
-<sup>2</sup> Regulierungsabschüsse können vom 1. September bis zum 31. Dezember bewilligt werden und dürfen nur im Rahmen der vom BAFU festgelegten Quoten stattfinden. Es sind Schonintervalle vorzusehen.
+<sup>2</sup> Regulierungsabschüsse dürfen nur von Inhaberinnen und Inhabern eines für die betreffende Tierart in der laufenden Jagdsaison gültigen Jagdpatents, die sich nach den Bestimmungen dieser Verordnung eingeschrieben haben, durchgeführt werden.
 
-<sup>3</sup> Das Amt kann die Regulierungsabschüsse jederzeit beenden.
+<sup>3</sup> Nur das Schiessen im Ansitz ist erlaubt; es darf nur von den vom Amt bewilligten Hochsitzen aus durchgeführt werden.
 
-<sup>4</sup> Regulierungsabschüsse dürfen nur von Inhaberinnen und Inhabern eines für die betreffende Tierart in der laufenden Jagdsaison gültigen Jagdpatents, die sich nach den Bestimmungen dieser Verordnung eingeschrieben haben oder gegebenenfalls durch das Los bestimmt worden sind, durchgeführt werden.
+<sup>4</sup> Der Einsatz von Hunden ist verboten, mit Ausnahme der Schweisshunde für die Nachsuche von angeschossenem Wild.
 
-<sup>5</sup> Berechtigte Personen dürfen das Reservat bis zu einer Stunde vor der Jagdzeit betreten und müssen es spätestens 30 Minuten nach der Jagdzeit verlassen haben.
+<sup>5</sup> Der Abschuss von Bachen, die gestreifte Frischlinge führen, und von führenden Hirschkühen ist verboten.
 
-<sup>6</sup> Ausnahmsweise darf bei ausreichender Sicht während der folgenden Stunden geschossen werden:
+<sup>6</sup> Jegliche Form der Kirrung ist verboten.
 
-- a) ab einer Stunde vor Sonnenaufgang gemäss den offiziellen Sonnenaufgangszeiten von Bern;
-- b) bis eine Stunde nach Sonnenuntergang gemäss den offiziellen Sonnenuntergangszeiten von Bern.
-
-<sup>7</sup> Nur das Schiessen im Ansitz ist erlaubt; es darf nur von den vom Amt bewilligten Hochsitzen aus durchgeführt werden.
-
-<sup>8</sup> Der Einsatz von Hunden ist verboten, mit Ausnahme der Schweisshunde für die Nachsuche von angeschossenem Wild.
-
-<sup>9</sup> Der Abschuss von Bachen, die gestreifte Frischlinge führen, ist verboten.
-
-<sup>10</sup> Personen, die gegen die Jagdgesetzgebung verstossen haben, dürfen im folgenden Jahr nicht an Regulierungsabschüssen teilnehmen.
+<sup>7</sup> Die die Transportmittel betreffenden Einschränkungen gemäss der Jagdverordnung gelten auch für Regulierungsabschüsse.
 
 #### Art. 3
 
-**Gebiete**
+**Zeiträume und Abschusspläne**
 
-<sup>1</sup> Folgende Reservate, die in der Verordnung über den Schutz wildlebender Säugetiere und Vögel und ihrer Lebensräume definiert werden, sind für die Abschüsse zur Regulierung von Wildschweinen offen:
+<sup>1</sup> Das Amt ist dafür zuständig, die Zeiträume, die Abschusspläne pro Art und die Schutzgebiete, in denen Regulierungsabschüsse durchgeführt werden dürfen, festzulegen; es holt die Zustimmung des BAFU ein.
 
-- a) Fanel—Chablais-de-Cudrefin—Pointe-de-Marin;
-- b) Chevroux—Portalban;
-- c) Chablais (Murtensee).
+<sup>2</sup> Regulierungsabschüsse können, an Jagdtagen, vom 1. September bis am 31. Dezember bewilligt werden. Es sind Schonintervalle vorzusehen.
+
+<sup>3</sup> Die Entnahmen werden von den in der Jagdplanung festgelegten Abschussquoten abgezogen.
+
+<sup>4</sup> Das Amt kann die Regulierungsabschüsse jederzeit beenden.
 
 #### Art. 4
 
-**Reservat Fanel—Chablais-de-Cudrefin—Pointe-de-Marin**
+**Schusszeiten**
 
-<sup>1</sup> In diesem Reservat sind vom 1. bis zum 15. Oktober und vom 1. November bis zum 31. Dezember Regulierungsabschüsse an allen Tagen erlaubt, die für die Jagd offen sind.
+<sup>1</sup> Berechtigte Personen dürfen das Schutzgebiet bis zu einer Stunde vor der Jagdzeit betreten und müssen es spätestens 30 Minuten nach der Jagdzeit verlassen haben.
 
-<sup>2</sup> Es können nur Personen an den Abschüssen teilnehmen, die einen Hochsitz reserviert haben. Die Reservierung von Hochsitzen ist am Vortag der Jagdtage von 12.00 bis 20.00 Uhr möglich. Pro Hochsitz und Tag ist nur eine Anmeldung möglich.
+<sup>2</sup> Bei ausreichender Sicht darf während der folgenden Zeiten geschossen werden, gemäss den offiziellen Sonnenaufgangs- und Sonnenuntergangszeiten von Bern:
 
-<sup>3</sup> Die Anzahl der Wildschweine, die entnommen werden dürfen, ist auf 15 Tiere begrenzt.
-
-<sup>4</sup> Personen, die den Hochsitz benutzen, sind verpflichtet, bei ihrer Ankunft beim Hochsitz und vor dessen Verlassen den QR-Code im Inneren zu scannen.
+- a) ab einer Stunde vor Sonnenaufgang;
+- b) bis eine Stunde nach Sonnenuntergang.
 
 #### Art. 5
 
-**Reservat Chevroux—Portalban**
+**Benutzung der Hochsitze**
 
-<sup>1</sup> In diesem Reservat sind vom 15. bis zum 31. Oktober und vom 15. November bis zum 31. Dezember Regulierungsabschüsse an allen Tagen erlaubt, die für die Jagd offen sind.
+<sup>1</sup> Es können nur Personen an den Abschüssen teilnehmen, die einen Hochsitz reserviert haben. Die Reservierung von Hochsitzen ist am Vortag der Jagdtage von 12.00 bis 20.00 Uhr möglich. Pro Hochsitz und Tag ist nur eine Anmeldung möglich.
 
-<sup>2</sup> Die Hochsitze werden in einer vom Amt organisierten Auslosung zugeteilt. Nur die ausgelosten Personen dürfen an den Abschüssen teilnehmen.
+<sup>2</sup> Die Personen, die den Hochsitz benutzen, sind verpflichtet, den QR-Code im Inneren des Hochsitzes bei jeder Ankunft und bei jedem Verlassen des Postens zu scannen.
 
-<sup>3</sup> Die Anzahl der Wildschweine, die entnommen werden dürfen, ist auf 20 Tiere begrenzt.
-
-#### Art. 6
-
-**Reservat Chablais (Murtensee)**
-
-<sup>1</sup> In diesem Reservat sind vom 1. bis zum 15. Oktober und vom 1. November bis zum 31. Dezember Regulierungsabschüsse an allen Tagen erlaubt, die für die Jagd offen sind.
-
-<sup>2</sup> Es können nur Personen an den Abschüssen teilnehmen, die einen Hochsitz reserviert haben. Die Reservierung von Hochsitzen ist am Vortag der Jagdtage von 12.00 bis 20.00 Uhr möglich. Pro Hochsitz und Tag ist nur eine Anmeldung möglich.
-
-<sup>3</sup> Die Anzahl der Wildschweine, die entnommen werden dürfen, ist auf 15 Tiere begrenzt.
-
-<sup>4</sup> Personen, die den Hochsitz benutzen, sind verpflichtet, bei ihrer Ankunft beim Hochsitz und vor dessen Verlassen den QR-Code im Inneren zu scannen.
-
-2022\_097
+2024\_021
