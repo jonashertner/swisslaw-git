@@ -4,20 +4,22 @@ title: "Ordinanza del 18 novembre 2015 concernente l'importazione, il transito e
 short: OITE-UE
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/846"
 language: it
-version: 2022-01-01
+version: 2024-07-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/846/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2015-846-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/846/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/846/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2015-846-20240701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/846/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Ordinanza concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Stati membri dell’UE, Islanda e Norvegia
+# Ordinanza concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Stati membri dell’UE, Islanda e Norvegia nonché Irlanda del Nord
 
-(OITE-UE)
+(OITE-UE)[^t-1]
 
-del 18 novembre 2015 (Stato 1° gennaio 2022)
+del 18 novembre 2015 (Stato 1° luglio 2024)
+
+[^t-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 269](https://fedlex.data.admin.ch/eli/oc/2024/269)).
 
 Il Consiglio federale svizzero,
 
@@ -41,17 +43,18 @@ ordina:
 
 La presente ordinanza si applica:
 
-- a. all’importazione e al transito di animali e prodotti animali dagli Stati membri dell’Unione europea (UE) e dalla Norvegia nonché all’esportazione di animali e prodotti animali verso tali Stati;
-- b. all’importazione e al transito di animali d’acquacoltura nonché di prodotti animali, esclusi sperma, ovuli ed embrioni animali dall’Islanda e all’esportazione di questi animali e prodotti animali verso l’Islanda.[^1-1]
+- a.[^1-1] all’importazione e al transito di animali e prodotti animali dagli Stati membri dell’Unione europea (UE), dalla Norvegia e dall’Irlanda del Nord nonché all’esportazione di animali e prodotti animali verso tali Stati e territori;
+- b. all’importazione e al transito di animali d’acquacoltura nonché di prodotti animali, esclusi sperma, ovuli ed embrioni animali dall’Islanda e all’esportazione di questi animali e prodotti animali verso l’Islanda.[^1-2]
 
-<sup>2</sup> L’importazione e il transito di animali, esclusi quelli d’acquacoltura, nonché di sperma, ovuli ed embrioni animali dall’Islanda e l’esportazione di questi animali e prodotti animali verso l’Islanda sono disciplinati nell’ordinanza del 18 novembre 2015[^1-2] concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi (OITE-PT).[^1-3]
+<sup>2</sup> L’importazione e il transito di animali, esclusi quelli d’acquacoltura, nonché di sperma, ovuli ed embrioni animali dall’Islanda e l’esportazione di questi animali e prodotti animali verso l’Islanda sono disciplinati nell’ordinanza del 18 novembre 2015[^1-3] concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi (OITE-PT).[^1-4]
 
-<sup>3</sup> Si applica all’importazione, al transito e all’esportazione di animali da compagnia per quanto non sia applicabile l’ordinanza del 28 novembre 2014[^1-4] concernente l’importazione, il transito e l’esportazione di animali da compagnia.
+<sup>3</sup> Si applica all’importazione, al transito e all’esportazione di animali da compagnia per quanto non sia applicabile l’ordinanza del 28 novembre 2014[^1-5] concernente l’importazione, il transito e l’esportazione di animali da compagnia.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1671](https://fedlex.data.admin.ch/eli/oc/2017/173)).
-[^1-2]: [RS 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
-[^1-3]: Nuovo testo giusta il n. I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1671](https://fedlex.data.admin.ch/eli/oc/2017/173)).
-[^1-4]: [RS 916.443.14](https://fedlex.data.admin.ch/eli/cc/2014/755)
+[^1-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 269](https://fedlex.data.admin.ch/eli/oc/2024/269)).
+[^1-2]: Nuovo testo giusta il n. I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1671](https://fedlex.data.admin.ch/eli/oc/2017/173)).
+[^1-3]: [RS 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
+[^1-4]: Nuovo testo giusta il n. I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1671](https://fedlex.data.admin.ch/eli/oc/2017/173)).
+[^1-5]: [RS 916.443.14](https://fedlex.data.admin.ch/eli/cc/2014/755)
 
 #### Art. 2
 
@@ -76,7 +79,7 @@ Sono fatti salvi in particolare i seguenti atti normativi:
 
 [^3-1]: [RS 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
 [^3-2]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^3-3]: [RS 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)
+[^3-3]: [[RU 2017 359](https://fedlex.data.admin.ch/eli/oc/2017/65); [2018 1251](https://fedlex.data.admin.ch/eli/oc/2018/202). [RU 2020 2465](https://fedlex.data.admin.ch/eli/oc/2020/460)art. 116]. Vedi ora l’O del 27 mag. 2020 ([RS 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)).
 [^3-4]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 423](https://fedlex.data.admin.ch/eli/oc/2020/71)).
 [^3-5]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
 [^3-6]: [RS 453.0](https://fedlex.data.admin.ch/eli/cc/2013/601)
@@ -87,45 +90,47 @@ Sono fatti salvi in particolare i seguenti atti normativi:
 
 Nella presente ordinanza si intende per:
 
-- a. *territorio d’importazione:* il territorio svizzero, incluse le enclavi doganali svizzere (Samnaun e Sampuoir) e le enclavi doganali estere (Principato del Liechtenstein, Büsingen e Campione);
-- b. *Paesi terzi:* tutti i Paesi, eccetto gli Stati membri dell’UE, l’Islanda e la Norvegia;
+- a.[^4-1] *territorio d’importazione:* il territorio svizzero, incluse le enclavi doganali svizzere (Samnaun e Sampuoir) e le enclavi doganali estere (Principato del Liechtenstein e Büsingen);
+- b.[^4-2] *Paesi terzi:* tutti i Paesi, eccetto gli Stati membri dell’UE, l’Islanda e la Norvegia, ed escluso il territorio dell’Irlanda del Nord;
 - c.
 
   *prodotti animali:*
 
   - 1\. derrate alimentari di origine animale o contenenti una parte di derrate alimentari di origine animale,
   - 2\. sottoprodotti di origine animale,
-  - 3\.[^4-1] sperma, ovuli ed embrioni animali destinati alla riproduzione;
+  - 3\.[^4-3] sperma, ovuli ed embrioni animali destinati alla riproduzione;
 
-- d.[^4-2]
+- d.[^4-4]
 
   *sottoprodotti di origine animale:*
 
   - 1\. corpi di animali e carcasse nonché le loro parti, di cui non sia consentito il consumo o che siano stati esclusi dalla catena alimentare,
-  - 2\. prodotti di origine animale e resti alimentari ai sensi dell’articolo 3 lettera p dell’ordinanza del 25 maggio 2011[^4-3] concernente i sottoprodotti di origine animale (OSOAn), di cui non sia consentito il consumo o che siano stati esclusi dalla catena alimentare,
+  - 2\. prodotti di origine animale e resti alimentari ai sensi dell’articolo 3 lettera p dell’ordinanza del 25 maggio 2011[^4-5] concernente i sottoprodotti di origine animale (OSOAn), di cui non sia consentito il consumo o che siano stati esclusi dalla catena alimentare,
   - 3\. sperma, ovuli ed embrioni animali a destinazione diversa della riproduzione;
 
 - e. *certificato sanitario:* documento che attesta la provenienza di una partita e l’ottemperanza ai requisiti di polizia sanitaria, di protezione degli animali e di igiene delle derrate alimentari;
-- f.[^4-4] *«Trade Control and Expert System» (TRACES):* un sistema integrato nel sistema di trattamento delle informazioni per i controlli ufficiali dell’UE secondo gli articoli 131–136 del regolamento (UE) 2017/625[^4-5];
-- f<sup>bis</sup>.[^4-6] *sistema «e-dec»:* sistema elettronico di elaborazione dei dati fornito dall’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^4-7] per la dichiarazione doganale in virtù dell’articolo 28 capoverso 2 della legge del 18 marzo 2005[^4-8] sulle dogane (LD);
-- g.[^4-9] *partita:* un numero di animali o una quantità di prodotti animali della stessa specie o classe o con la stessa descrizione, per i quali vale lo stesso certificato sanitario o lo stesso altro documento di accompagnamento, trasportati con lo stesso mezzo di trasporto, provenienti dallo stesso luogo di provenienza, destinati alla stessa azienda di destinazione;
-- h. *importazione:* trasferimento permanente o temporaneo di animali e prodotti animali nel territorio di importazione, eccetto il trasporto destinato al transito di cui all’articolo 6 lettera i della legge del 18 marzo 2005[^4-10] sulle dogane (LD);
+- f.[^4-6] «*Trade Control and Expert System*» *(TRACES):* un sistema integrato nel trattamento delle informazioni per i controlli ufficiali dell’UE secondo gli articoli 131–136 del regolamento (UE) 2017/625[^4-7];
+- f<sup>bis</sup>.[^4-8] *sistema «e-dec»:* sistema elettronico di elaborazione dei dati fornito dall’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^4-9] per la dichiarazione doganale in virtù dell’articolo 28 capoverso 2 della legge del 18 marzo 2005[^4-10] sulle dogane (LD);
+- g.[^4-11] *partita:* un numero di animali o una quantità di prodotti animali della stessa specie o classe o con la stessa descrizione, per i quali vale lo stesso certificato sanitario o lo stesso altro documento di accompagnamento, trasportati con lo stesso mezzo di trasporto, provenienti dallo stesso luogo di provenienza, destinati alla stessa azienda di destinazione;
+- h. *importazione:* trasferimento permanente o temporaneo di animali e prodotti animali nel territorio di importazione, eccetto il trasporto destinato al transito di cui all’articolo 6 lettera i della legge del 18 marzo 2005[^4-12] sulle dogane (LD);
 - i. *importatore:* persona fisica o giuridica responsabile dell’importazione e designata come tale nel certificato sanitario o nel documento commerciale;
 - j. *persona soggetta all’obbligo di dichiarazione*: la persona di cui allʼarticolo 26 LD;
 - k. *impresa che presta servizi di sdoganamento:* impresa che, su incarico degli esercenti di aeroporti, garantisce il collegamento tra le compagnie aeree e le imprese di spedizione (handling agent);
-- l. *azienda di dest**inazione:* azienda nella cui sede devono essere portati gli animali o i prodotti animali e designata come tale nel certificato sanitario o nel documento commerciale;
+- l. *azienda di destinazione:* azienda nella cui sede devono essere portati gli animali o i prodotti animali e designata come tale nel certificato sanitario o nel documento commerciale;
 - m. *esportatore:* persona fisica o giuridica responsabile dell’esportazione e designata come tale nel certificato sanitario o nel documento commerciale.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 423](https://fedlex.data.admin.ch/eli/oc/2020/71)).
-[^4-2]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 423](https://fedlex.data.admin.ch/eli/oc/2020/71)).
-[^4-3]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^4-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 269](https://fedlex.data.admin.ch/eli/oc/2024/269)).
+[^4-2]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 269](https://fedlex.data.admin.ch/eli/oc/2024/269)).
+[^4-3]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 423](https://fedlex.data.admin.ch/eli/oc/2020/71)).
 [^4-4]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 423](https://fedlex.data.admin.ch/eli/oc/2020/71)).
-[^4-5]: Regolamento (UE) 2017/625 del Parlamento europeo e del Consiglio, del 15 marzo 2017, relativo ai controlli ufficiali e alle altre attività ufficiali effettuati per garantire l’applicazione della legislazione sugli alimenti e sui mangimi, delle norme sulla salute e sul benessere degli animali, sulla sanità delle piante nonché sui prodotti fitosanitari, recante modifica dei regolamenti (CE) n. 999/2001, (CE) n. 396/2005, (CE) n. 1069/2009, (CE) n. 1107/2009, (UE) n. 1151/2012, (UE) n. 652/2014, (UE) 2016/429 e (UE) 2016/2031 del Parlamento europeo e del Consiglio, dei regolamenti (CE) n. 1/2005 e (CE) n. 1099/2009 del Consiglio e delle direttive 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE e 2008/120/CE del Consiglio, e che abroga i regolamenti (CE) n. 854/2004 e (CE) n. 882/2004 del Parlamento europeo e del Consiglio, le direttive 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE e 97/78/CE del Consiglio e la decisione 92/438/CEE del Consiglio (regolamento sui controlli ufficiali), GU L 95 del 7.4.2017, p. 1; modificato da ultimo dal regolamento delegato (UE) 2019/478, GU L 82 del 25.3.2019, p. 4.
-[^4-6]: Introdotta dal n. I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1671](https://fedlex.data.admin.ch/eli/oc/2017/173)).
-[^4-7]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
-[^4-8]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^4-9]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 423](https://fedlex.data.admin.ch/eli/oc/2020/71)).
+[^4-5]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^4-6]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 269](https://fedlex.data.admin.ch/eli/oc/2024/269)).
+[^4-7]: Regolamento (UE) 2017/625 del Parlamento europeo e del Consiglio, del 15 marzo 2017, relativo ai controlli ufficiali e alle altre attività ufficiali effettuati per garantire l’applicazione della legislazione sugli alimenti e sui mangimi, delle norme sulla salute e sul benessere degli animali, sulla sanità delle piante nonché sui prodotti fitosanitari, recante modifica dei regolamenti (CE) n. 999/2001, (CE) n. 396/2005, (CE) n. 1069/2009, (CE) n. 1107/2009, (UE) n. 1151/2012, (UE) n. 652/2014, (UE) 2016/429 e (UE) 2016/2031 del Parlamento europeo e del Consiglio, dei regolamenti (CE) n. 1/2005 e (CE) n. 1099/2009 del Consiglio e delle direttive 98/58/CE, 1999/74/CE, 2007/43/CE, 2008/119/CE e 2008/120/CE del Consiglio, e che abroga i regolamenti (CE) n. 854/2004 e (CE) n. 882/2004 del Parlamento europeo e del Consiglio, le direttive 89/608/CEE, 89/662/CEE, 90/425/CEE, 91/496/CEE, 96/23/CE, 96/93/CE e 97/78/CE del Consiglio e la decisione 92/438/CEE del Consiglio (regolamento sui controlli ufficiali), GU L 95 del 7.4.2017, pag. 1; modificato da ultimo dal regolamento (UE) 2021/1756, GU L 357 dell’8.10.2021, pag. 27.
+[^4-8]: Introdotta dal n. I dell’O del 3 mar. 2017, in vigore dal 1° apr. 2017 ([RU 2017 1671](https://fedlex.data.admin.ch/eli/oc/2017/173)).
+[^4-9]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^4-10]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^4-11]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 423](https://fedlex.data.admin.ch/eli/oc/2020/71)).
+[^4-12]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
 ## Sezione 2: Importazione
 
@@ -181,18 +186,19 @@ Per l’importazione di animali e prodotti animali si applicano le condizioni ar
 
 <sup>1</sup> Gli animali e i prodotti animali possono essere importati soltanto se i certificati sanitari, prescritti dalle condizioni armonizzate dell’UE relative al traffico intracomunitario, sono allegati alla partita in formato cartaceo o elettronico.[^6-1]
 
-<sup>2</sup>
+<sup>2</sup> Il DFI stabilisce per quali animali e prodotti animali devono essere presentate garanzie sanitarie supplementari. Può esigere tali garanzie sanitarie se la Svizzera ha ottenuto lo status di «indenne da malattia» per un’epizoozia secondo il regolamento (UE) 2016/429[^6-2] e il regolamento delegato (UE) 2020/689[^6-3]. Le garanzie sanitarie devono essere elencate nei certificati sanitari previsti dalle condizioni d’importazione armonizzate dell’UE relative al traffico intracomunitario.[^6-4]
 
-Il DFI stabilisce le garanzie sanitarie supplementari da presentare in aggiunta al certificato sanitario prescritto dalle condizioni armonizzate dell’UE relative al traffico intracomunitario per gli animali e i prodotti animali indicati qui appresso e stabilisce a quali condizioni siano riconosciute queste garanzie sanitarie:
+<sup>3</sup> Se non è prescritto un certificato sanitario, la partita deve essere provvista di un documento commerciale in formato cartaceo o elettronico.[^6-5]
 
-- a. gli animali della specie bovina;
-- b. gli animali della specie suina;
-- c. i gallinacei (*Galliformes*), i palmipedi (*Anseriformes*) e gli struzioniformi (*Struthioniformes*) nonché le uova da cova di questi uccelli.
-
-<sup>3</sup> Se non è prescritto un certificato sanitario, la partita deve essere provvista di un documento commerciale in formato cartaceo o elettronico.[^6-2]
+<sup>4</sup> Per i prodotti di cui all’allegato 1*a* OSOAn[^6-6] non sono richiesti né un certificato sanitario né un documento commerciale.[^6-7]
 
 [^6-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 423](https://fedlex.data.admin.ch/eli/oc/2020/71)).
-[^6-2]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 423](https://fedlex.data.admin.ch/eli/oc/2020/71)).
+[^6-2]: Regolamento (UE) 2016/429 del Parlamento europeo e del Consiglio, del 9 marzo 2016, relativo alle malattie animali trasmissibili e che modifica e abroga taluni atti in materia di sanità animale («normativa in materia di sanità animale»), GU L 84 del 31.3.2016, pag. 1; modificato da ultimo dal regolamento delegato (UE) 2018/1629, GU L 272 del 31.10.2018, pag. 11.
+[^6-3]: Regolamento delegato (UE) 2020/689 della Commissione, del 17 dicembre 2019, che integra il regolamento (UE) 2016/429 del Parlamento europeo e del Consiglio per quanto riguarda le norme relative alla sorveglianza, ai programmi di eradicazione e allo status di indenne da malattia per determinate malattie elencate ed emergenti, GU L 174 del 3.6.2020, pag. 211; modificato da ultimo dal regolamento delegato (UE) 2023/1798, GU L 233 del 21.9.2023, pag. 24.
+[^6-4]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 269](https://fedlex.data.admin.ch/eli/oc/2024/269)).
+[^6-5]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 423](https://fedlex.data.admin.ch/eli/oc/2020/71)).
+[^6-6]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^6-7]: Introdotto dal n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 269](https://fedlex.data.admin.ch/eli/oc/2024/269)).
 
 #### Art. 7
 
@@ -220,25 +226,19 @@ L’USAV può negare o revocare l’autorizzazione di cui al capoverso 1 lettera
 - a. esiste un elevato rischio di introdurre un’epizoozia tramite sottoprodotti di origine animale; oppure
 - b. la capacità complessiva degli impianti di eliminazione interessati è necessaria per l’eliminazione dei relativi sottoprodotti di origine animale nazionali.
 
-[^7-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 423](https://fedlex.data.admin.ch/eli/oc/2020/71)).
+[^7-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 269](https://fedlex.data.admin.ch/eli/oc/2024/269)).
 [^7-2]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
-[^7-3]: Regolamento (UE) n. 142/2011 della Commissione, del 25 febbraio 2011, recante disposizioni di applicazione del regolamento (CE) n. 1069/2009 del Parlamento europeo e del Consiglio recante norme sanitarie relative ai sottoprodotti di origine animale e ai prodotti derivati non destinati al consumo umano, e della direttiva 97/78/CE del Consiglio per quanto riguarda taluni campioni e articoli non sottoposti a controlli veterinari alla frontiera, GU L 54 del 26.2.2011, p. 1; da ultimo modificato dal regolamento di esecuzione (UE) 2019/1177, GU L 185 dell’11.7.2019, p. 26.
+[^7-3]: Regolamento (UE) n. 142/2011 della Commissione, del 25 febbraio 2011, recante disposizioni di applicazione del regolamento (CE) n. 1069/2009 del Parlamento europeo e del Consiglio recante norme sanitarie relative ai sottoprodotti di origine animale e ai prodotti derivati non destinati al consumo umano, e della direttiva 97/78/CE del Consiglio per quanto riguarda taluni campioni e articoli non sottoposti a controlli veterinari alla frontiera, GU L 54 del 26.2.2011, pag. 1; modificato da ultimo dal regolamento (UE) 2023/2613, GU L, 2023/2613, 24.11.2023.
 
 #### Art. 8
 
-**Registrazione in TRACES**
+**Registrazione in TRACES**[^8-1]
 
-<sup>1</sup> Chi vuole importare, in qualità di azienda di destinazione, importatore o impresa di spedizione, animali e prodotti animali per cui devono essere emessi certificati sanitari mediante TRACES in base alle condizioni armonizzate dell’UE relative al traffico intracomunitario, deve farsi precedentemente registrare in TRACES.
+<sup>1</sup> Per l’importazione di animali e prodotti animali per cui devono essere emessi certificati sanitari mediante TRACES in base alle condizioni armonizzate dell’UE relative al traffico intracomunitario, l’azienda di destinazione, l’importatore e, se del caso, l’impresa di trasporto devono essere registrati in TRACES con le proprietà corrispondenti al loro ruolo riferito all’importazione.
 
-<sup>2</sup> A chi vuole farsi registrare quale azienda di destinazione viene attribuita in TRACES sia la proprietà di «azienda di destinazione» sia quella di «importatore». A chi vuole farsi registrare quale importatore o impresa di spedizione viene attribuita la proprietà di «importatore» rispettivamente di «impresa di spedizione».
+<sup>2</sup> La registrazione va richiesta previamente all’autorità cantonale competente. I cambiamenti di indirizzo vanno comunicati a quest’ultima entro una settimana.
 
-<sup>3</sup> La registrazione va richiesta all’autorità cantonale competente. I cambiamenti di indirizzo vanno comunicati senza indugio all’autorità rispettiva.
-
-<sup>4</sup> Per accedere a TRACES occorre dimostrare di aver seguito un corso di formazione della competente autorità cantonale.
-
-<sup>5</sup> Per l’importazione di una partita per cui è obbligatorio emettere certificati sanitari mediante TRACES in base alle condizioni armonizzate dell’UE relative al traffico intracomunitario, l’importatore, l’azienda di destinazione o l’impresa di spedizione deve farsi registrare in TRACES con la relativa proprietà.
-
-<sup>6</sup> Le persone registrate hanno accesso ai dati relativi alle partite inviate da loro o su loro incarico e possono trattare i dati relativi alla partita prima di firmare il certificato sanitario.
+[^8-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 269](https://fedlex.data.admin.ch/eli/oc/2024/269)).
 
 #### Art. 9
 
@@ -260,10 +260,11 @@ L’importatore è tenuto a notificare preventivamente al veterinario cantonale,
 
 <sup>3</sup> L’autorità competente deve firmare i certificati sanitari in formato cartaceo o elettronico. Là dove previsto, i certificati possono essere firmati anche da un’impresa autorizzata a emetterli.[^10-2]
 
-<sup>4</sup> Il DFI stabilisce i requisiti formali dei certificati sanitari.
+<sup>4</sup> Il DFI stabilisce i requisiti formali dei certificati sanitari. Disciplina i certificati sostitutivi.[^10-3]
 
 [^10-1]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 423](https://fedlex.data.admin.ch/eli/oc/2020/71)).
 [^10-2]: Nuovo testo giusta il n. I dell’O del 15 gen. 2020, in vigore dal 1° mar. 2020 ([RU 2020 423](https://fedlex.data.admin.ch/eli/oc/2020/71)).
+[^10-3]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 269](https://fedlex.data.admin.ch/eli/oc/2024/269)).
 
 #### Art. 11
 
@@ -349,11 +350,25 @@ L’azienda di destinazione deve notificare entro 24 ore al veterinario cantonal
 - b. animali ad unghia fessa, gallinacei, palmipedi e struzioniformi;
 - c. api mellifere europee e bombi.
 
+#### Art. 19a
+
+**Obbligo di registrazione dell’azienda di destinazione in caso di cessione di bombi importati**[^19a-1]
+
+Le aziende di destinazione che hanno importato bombi devono tenere un registro della cessione dei bombi importati. Devono essere registrate per scritto almeno le seguenti indicazioni:
+
+- a. la data di cessione della colonia di bombi;
+- b. il nome e l’indirizzo del destinatario;
+- c. il numero di colonie di bombi cedute.
+
+[^19a-1]: Introdotto dal n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 269](https://fedlex.data.admin.ch/eli/oc/2024/269)).
+
 #### Art. 20
 
-**Obbligo di conservazione dell’azienda di destinazione**
+**Obbligo di conservazione dell’azienda di destinazione**[^20-1]
 
-Dal giorno in cui arriva la partita, l’azienda di destinazione è tenuta a conservare i certificati sanitari per tre anni.
+Le aziende di destinazione devono conservare per tre anni a decorrere dal giorno in cui arriva la partita i certificati sanitari per gli animali e i prodotti animali di cui all’articolo 19. Anche le registrazioni di cui all’articolo 19*a* sulla cessione delle colonie di bombi importate devono essere conservate per tre anni e presentate su richiesta agli organi di polizia delle epizoozie.
+
+[^20-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 269](https://fedlex.data.admin.ch/eli/oc/2024/269)).
 
 #### Art. 21
 
@@ -379,11 +394,11 @@ Dal giorno in cui arriva la partita, l’azienda di destinazione è tenuta a con
 
 #### Art. 23
 
-**Obblighi degli esercenti di aeroporti**
+**Obblighi degli esercenti di aeroporti**[^23-1]
 
-<sup>1</sup> Gli esercenti di aeroporti devono notificare all’USAV le imprese che prestano servizi di sdoganamento da essi incaricate. Eventuali modifiche devono essere comunicate immediatamente all’USAV.
+Gli esercenti di aeroporti devono richiamare l’attenzione delle imprese che prestano servizi di sdoganamento sui loro obblighi secondo l’articolo 22.
 
-<sup>2</sup> Essi devono richiamare l’attenzione delle imprese che prestano servizi di sdoganamento sugli obblighi ai sensi dell’articolo 22.
+[^23-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 269](https://fedlex.data.admin.ch/eli/oc/2024/269)).
 
 ## Sezione 3: Transito
 
@@ -448,8 +463,8 @@ Le uova da cova possono solamente essere esportate se le uova stesse e gli imbal
 
 I seguenti sottoprodotti di origine animale possono essere esportati soltanto con un’autorizzazione dell’USAV:
 
-- a. i sottoprodotti delle categorie 1 e 2 ai sensi degli articoli 5 e 6 OESA[^27-1], eccettuati i campioni destinati alla ricerca e i campioni diagnostici nonché i campioni commerciali e gli articoli da esposizioni ai sensi degli articoli 11 e 12 del regolamento (UE) n. 142/2011[^27-2];
-- b. i sottoprodotti di origine animale della categoria 3 ai sensi dell’articolo 7 OESA, eccettuati i prodotti di cui all’articolo 39 capoverso 3 OESA.
+- a. i sottoprodotti delle categorie 1 e 2 ai sensi degli articoli 5 e 6 OSOAn[^27-1], eccettuati i campioni destinati alla ricerca e i campioni diagnostici nonché i campioni commerciali e gli articoli da esposizioni ai sensi degli articoli 11 e 12 del regolamento (UE) n. 142/2011[^27-2];
+- b. i sottoprodotti di origine animale della categoria 3 ai sensi dell’articolo 7 OSOAN, eccettuati i prodotti di cui all’articolo 39 capoverso 3 OSOAN.
 
 <sup>2</sup>
 
@@ -457,7 +472,7 @@ L’USAV rilascia l’autorizzazione se:
 
 - a. allʼesportazione non si oppongono motivi di polizia sanitaria;
 - b. l’azienda esportatrice garantisce il rispetto delle condizioni dʼimportazione del Paese di destinazione;
-- c. l’azienda esportatrice prova che, in caso di restrizioni alle importazioni da parte del Paese di destinazione, può eliminare i sottoprodotti di origine animale in Svizzera conformemente all’articolo 39 capoverso 2 OESA; e
+- c. l’azienda esportatrice prova che, in caso di restrizioni alle importazioni da parte del Paese di destinazione, può eliminare i sottoprodotti di origine animale in Svizzera conformemente all’articolo 39 capoverso 2 OSOAN; e
 - d. il Paese di destinazione ha approvato l’importazione dei sottoprodotti di origine animale delle categorie 1 e 2.
 
 <sup>3</sup> Prima di rilasciare l’autorizzazione, l’USAV sottopone la domanda di esportazione al veterinario cantonale competente per lo stabilimento di eliminazione che si occuperebbe dell’eliminazione secondo il capoverso 2 lettera c.
@@ -482,7 +497,7 @@ I seguenti sottoprodotti di origine animale possono essere esportati soltanto se
 
 **Disposizioni per l’eliminazione di determinati sottoprodotti di origine animale**
 
-Per i sottoprodotti di origine animale ai sensi degli articoli 27 e 28 destinati a essere eliminati all’estero si applicano, per quanto attiene alla loro raccolta, alla loro identificazione e ai documenti di accompagnamento, ad integrazione degli articoli 19 e 20 OESA[^29-1], le disposizioni di cui all’allegato VIII capi I–III del regolamento (UE) n. 142/2011[^29-2].
+Per i sottoprodotti di origine animale ai sensi degli articoli 27 e 28 destinati a essere eliminati all’estero si applicano, per quanto attiene alla loro raccolta, alla loro identificazione e ai documenti di accompagnamento, ad integrazione degli articoli 19 e 20 OSOAN[^29-1], le disposizioni di cui all’allegato VIII capi I–III del regolamento (UE) n. 142/2011[^29-2].
 
 [^29-1]: [RS 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
 [^29-2]: Cfr. nota a piè di pagina relativa all’art. 7 cpv. 1 lett. b.
@@ -495,19 +510,13 @@ Per i sottoprodotti di origine animale ai sensi degli articoli 27 e 28 destinati
 
 #### Art. 31
 
-**Registrazione in TRACES**
+**Registrazione in TRACES**[^31-1]
 
-<sup>1</sup>
+<sup>1</sup> Per l’esportazione di animali e prodotti animali per cui devono essere emessi certificati sanitari mediante TRACES in base alle condizioni armonizzate dell’UE relative al traffico intracomunitario, l’azienda di provenienza, l’esportatore e, se del caso, l’impresa di trasporto devono essere registrati in TRACES con le proprietà corrispondenti al loro ruolo riferito all’esportazione.
 
-Per l’esportazione di animali e prodotti animali per cui è obbligatorio emettere certificati sanitari mediante TRACES in base alle condizioni armonizzate dell’UE relative al traffico intracomunitario, le seguenti persone fisiche o giuridiche devono farsi preventivamente registrare in TRACES:
+<sup>2</sup> La registrazione va richiesta previamente all’autorità cantonale competente. I cambiamenti di indirizzo vanno comunicati a quest’ultima entro una settimana.
 
-- a. le aziende di provenienza degli animali e dei prodotti animali destinati all’esportazione;
-- b. gli esportatori; e
-- c. le imprese di spedizione.
-
-<sup>2</sup> A chi vuole farsi registrare quale azienda di provenienza viene attribuita in TRACES sia la proprietà di «azienda di provenienza» sia quella di «importatore». A chi vuole farsi registrare quale esportatore o impresa di spedizione viene attribuita la proprietà di «esportatore» rispettivamente di «impresa di spedizione».
-
-<sup>3</sup> Per la registrazione e l’accesso a TRACES si applica l’articolo 8 capoversi 3–6.
+[^31-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 269](https://fedlex.data.admin.ch/eli/oc/2024/269)).
 
 #### Art. 32
 
@@ -603,23 +612,39 @@ Devono essere registrate in TRACES le seguenti autorità e persone:
 
 #### Art. 39
 
-**Accesso**
+**Accesso**[^39-1]
 
-Le autorità e le persone registrate hanno accesso a TRACES nella misura in cui sia necessario per l’adempimento dei loro compiti.
+Hanno accesso a TRACES le persone che soddisfanno le condizioni seguenti:
+
+- a. l’autorità o l’azienda per la quale lavorano è registrata in TRACES;
+- b. hanno frequentato un corso di formazione proposto dall’autorità cantonale competente oppure l’autorità o l’azienda confermano che tali persone possiedono le conoscenze necessarie per utilizzare TRACES.
+
+[^39-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 269](https://fedlex.data.admin.ch/eli/oc/2024/269)).
+
+#### Art. 39a
+
+**Trattamento dei dati**[^39a-1]
+
+<sup>1</sup> Le aziende possono inserire dati sulle loro partite e modificarli fino al controllo della partita.
+
+<sup>2</sup> Le autorità possono trattare i dati delle partite nella misura in cui rientrano nel loro ambito di competenza.
+
+[^39a-1]: Introdotto dal n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 269](https://fedlex.data.admin.ch/eli/oc/2024/269)).
 
 #### Art. 40
 
-**Formazione**
+**Organizzazione dei corsi di formazione**[^40-1]
 
-<sup>1</sup> Per accedere a TRACES occorre dimostrare di aver seguito un corso base TRACES.
+<sup>1</sup> L’USAV organizza i corsi di formazione per l’UDSC e i responsabili TRACES dei servizi cantonali. Per la frequentazione di questi corsi non è riscosso alcun emolumento.
 
-<sup>2</sup> Le autorità e le persone registrate devono frequentare periodicamente i corsi di aggiornamento.
+<sup>2</sup>
 
-<sup>3</sup> L’USAV organizza il corso base e i corsi di aggiornamento per l’UDSC e i responsabili TRACES degli uffici cantonali. La frequentazione di questi corsi è gratuita.
+I responsabili TRACES dei servizi cantonali organizzano i corsi di formazione per:
 
-<sup>4</sup> I responsabili TRACES degli uffici cantonali organizzano il corso base e i corsi di aggiornamento per i veterinari ufficiali e gli ispettori cantonali delle derrate alimentari che nell’ambito della loro attività utilizzano TRACES.
+- a. le aziende di provenienza e di destinazione, gli importatori, gli esportatori e le imprese di trasporto;
+- b. i veterinari ufficiali e gli ispettori cantonali delle derrate alimentari che nell’ambito della loro attività utilizzano TRACES.
 
-<sup>5</sup> Inoltre, svolgono corsi per le persone di cui agli articoli 8 capoverso 1 e 31 capoverso 1.
+[^40-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 269](https://fedlex.data.admin.ch/eli/oc/2024/269)).
 
 #### Art. 41
 
@@ -646,7 +671,7 @@ Il collegamento di TRACES con il sistema «e-dec» è disciplinato dall’artico
 
 <sup>2</sup> Può emanare direttive tecniche relative a TRACES.
 
-## Sezione 7*a*:**** Sistema informatico OITE
+## Sezione 7*a*: Sistema informatico OITE
 
 [^sec7a-1]
 

@@ -4,20 +4,22 @@ title: "Verordnung vom 18. November 2015 über die Ein-, Durch- und Ausfuhr von 
 short: EDAV-EU
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/846"
 language: de
-version: 2022-01-01
+version: 2024-07-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/846/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2015-846-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/846/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/846/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2015-846-20240701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/846/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit den EU-Mitgliedstaaten, Island und Norwegen
+# Verordnung über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit den EU-Mitgliedstaaten, Island und Norwegen sowie Nordirland
 
-(EDAV-EU)
+(EDAV-EU)[^t-1]
 
-vom 18. November 2015 (Stand am 1. Januar 2022)
+vom 18. November 2015 (Stand am 1. Juli 2024)
+
+[^t-1]: Fassung gamäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 269](https://fedlex.data.admin.ch/eli/oc/2024/269)).
 
 Der Schweizerische Bundesrat,
 
@@ -41,17 +43,18 @@ verordnet:
 
 Diese Verordnung gilt für:
 
-- a. die Einfuhr und die Durchfuhr von Tieren und Tierprodukten aus Mitgliedstaaten der Europäischen Union (EU) und Norwegen und für die Ausfuhr von Tieren und Tierprodukten nach diesen Staaten;
-- b. die Einfuhr und die Durchfuhr von Tieren der Aquakultur sowie von Tierprodukten, ausgenommen tierische Samen, Eizellen und Embryonen, aus Island und die Ausfuhr dieser Tiere und Tierprodukte nach Island.[^1-1]
+- a.[^1-1] die Einfuhr und die Durchfuhr von Tieren und Tierprodukten aus Mitgliedstaaten der Europäischen Union (EU) und Norwegen sowie Nordirland und für die Ausfuhr von Tieren und Tierprodukten nach diesen Staaten und Gebieten;
+- b. die Einfuhr und die Durchfuhr von Tieren der Aquakultur sowie von Tierprodukten, ausgenommen tierische Samen, Eizellen und Embryonen, aus Island und die Ausfuhr dieser Tiere und Tierprodukte nach Island.[^1-2]
 
-<sup>2</sup> Die Einfuhr und die Durchfuhr von Tieren, ausgenommen Tiere der Aquakultur, sowie von tierischen Samen, Eizellen und Embryonen aus Island und die Ausfuhr dieser Tiere und Tierprodukte nach Island sind in der Verordnung vom 18. November 2015[^1-2] über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten (EDAV-DS) geregelt.[^1-3]
+<sup>2</sup> Die Einfuhr und die Durchfuhr von Tieren, ausgenommen Tiere der Aquakultur, sowie von tierischen Samen, Eizellen und Embryonen aus Island und die Ausfuhr dieser Tiere und Tierprodukte nach Island sind in der Verordnung vom 18. November 2015[^1-3] über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten (EDAV-DS) geregelt.[^1-4]
 
-<sup>3</sup> Für die Ein-, Durch- und Ausfuhr von Heimtieren gilt sie, soweit nicht die Verordnung vom 28. November 2014[^1-4] über die Ein-, Durch- und Ausfuhr von Heimtieren anwendbar ist.
+<sup>3</sup> Für die Ein-, Durch- und Ausfuhr von Heimtieren gilt sie, soweit nicht die Verordnung vom 28. November 2014[^1-5] über die Ein-, Durch- und Ausfuhr von Heimtieren anwendbar ist.
 
-[^1-1]: Fassung gemäss Ziff. I der V vom 3. März 2017, in Kraft seit 1. April 2017 ([AS 2017 1671](https://fedlex.data.admin.ch/eli/oc/2017/173)).
-[^1-2]: [SR 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
-[^1-3]: Fassung gemäss Ziff. I der V vom 3. März 2017, in Kraft seit 1. April 2017 ([AS 2017 1671](https://fedlex.data.admin.ch/eli/oc/2017/173)).
-[^1-4]: [SR 916.443.14](https://fedlex.data.admin.ch/eli/cc/2014/755)
+[^1-1]: Fassung gamäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 269](https://fedlex.data.admin.ch/eli/oc/2024/269)).
+[^1-2]: Fassung gemäss Ziff. I der V vom 3. März 2017, in Kraft seit 1. April 2017 ([AS 2017 1671](https://fedlex.data.admin.ch/eli/oc/2017/173)).
+[^1-3]: [SR 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
+[^1-4]: Fassung gemäss Ziff. I der V vom 3. März 2017, in Kraft seit 1. April 2017 ([AS 2017 1671](https://fedlex.data.admin.ch/eli/oc/2017/173)).
+[^1-5]: [SR 916.443.14](https://fedlex.data.admin.ch/eli/cc/2014/755)
 
 #### Art. 2
 
@@ -76,7 +79,7 @@ Vorbehalten bleiben insbesondere die folgenden Erlasse:
 
 [^3-1]: [SR 916.401](https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716)
 [^3-2]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^3-3]: [SR 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)
+[^3-3]: [[AS 2017 359](https://fedlex.data.admin.ch/eli/oc/2017/65); [2018 1251](https://fedlex.data.admin.ch/eli/oc/2018/202). [AS 2020 2465](https://fedlex.data.admin.ch/eli/oc/2020/460)Art. 116]. Siehe heute: die V vom 27. Mai 2020 ([SR 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)).
 [^3-4]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 423](https://fedlex.data.admin.ch/eli/oc/2020/71)).
 [^3-5]: [SR 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
 [^3-6]: [SR 453.0](https://fedlex.data.admin.ch/eli/cc/2013/601)
@@ -87,45 +90,47 @@ Vorbehalten bleiben insbesondere die folgenden Erlasse:
 
 In dieser Verordnung bedeuten:
 
-- a. *Einfuhrgebiet:* das schweizerische Staatsgebiet einschliesslich der Zollausschlussgebiete (Samnaun und Sampuoir) sowie die Zollanschlussgebiete (Fürstentum Liechtenstein, Büsingen und Campione);
-- b. *Drittstaaten:* alle Staaten ausser den EU-Mitgliedstaaten, Island und Norwegen;
+- a.[^4-1] *Einfuhrgebiet**:* das schweizerische Staatsgebiet einschliesslich der Zollausschlussgebiete (Samnaun und Sampuoir) sowie die Zollanschlussgebiete (Fürstentum Liechtenstein und Büsingen);
+- b.[^4-2] *Drittstaaten**:* alle Staaten ausser den EU-Mitgliedstaaten, Island und Norwegen sowie ohne das Gebiet von Nordirland;
 - c.
 
   *Tierprodukte:*
 
   - 1\. Lebensmittel tierischer Herkunft oder mit einem Anteil von Lebensmitteln tierischer Herkunft,
   - 2\. tierische Nebenprodukte,
-  - 3\.[^4-1] tierische Samen, Eizellen und Embryonen zu Zuchtzwecken;
+  - 3\.[^4-3] tierische Samen, Eizellen und Embryonen zu Zuchtzwecken;
 
-- d.[^4-2]
+- d.[^4-4]
 
   *tierische Nebenprodukte:*
 
   - 1\. Tierkörper und Schlachttierkörper sowie Teile von beiden, die nicht verzehrt werden dürfen oder aus der Lebensmittelkette ausgeschlossen worden sind,
-  - 2\. Erzeugnisse tierischen Ursprungs und Speisereste nach Artikel 3 Buchstabe p der Verordnung vom 25. Mai 2011[^4-3] über tierische Nebenprodukte (VTNP), die nicht verzehrt werden dürfen oder aus der Lebensmittelkette ausgeschlossen worden sind,
+  - 2\. Erzeugnisse tierischen Ursprungs und Speisereste nach Artikel 3 Buchstabe p der Verordnung vom 25. Mai 2011[^4-5] über tierische Nebenprodukte (VTNP), die nicht verzehrt werden dürfen oder aus der Lebensmittelkette ausgeschlossen worden sind,
   - 3\. tierische Samen, Eizellen und Embryonen zu anderen als Zuchtzwecken;
 
 - e. *Gesundheitsbescheinigung:* Dokument, das die Herkunft einer Sendung und die Einhaltung der tierseuchenpolizeilichen, tierschutzrechtlichen und lebensmittelhygienischen Anforderungen belegt;
-- f.[^4-4] *«Trade Control and Expert System» (**TRACES):* ein in das Informationsmanagementsystem für amtliche Kontrollen der EU integriertes System nach den Artikeln 131–136 der Verordnung (EU) 2017/625[^4-5];
-- f<sup>bis</sup>.[^4-6] *System «e-dec»:* elektronisches Datenverarbeitungssystem, das vom Bundesamt für Zoll und Grenzsicherheit (BAZG)[^4-7] gestützt auf Artikel 28 Absatz 2 des Zollgesetzes vom 18. März 2005[^4-8] für die Zollanmeldung zur Verfügung gestellt wird;
-- g.[^4-9] *Sendung:* eine Anzahl Tiere oder eine Menge Tierprodukte der gleichen Art oder Klasse oder mit gleicher Beschreibung, für die die gleiche Gesundheitsbescheinigung oder das gleiche andere Begleitdokument gilt, die mit dem gleichen Transportmittel befördert werden, vom gleichen Herkunftsort stammen und für den gleichen Bestimmungsbetrieb bestimmt sind;
-- h. *Einfuhr:* dauerhaftes oder vorübergehendes Verbringen von Tieren und Tierprodukten in das Einfuhrgebiet, ausgenommen der Transport zum Zweck der Durchfuhr nach Artikel 6 Buchstabe i des Zollgesetzes vom 18. März 2005[^4-10] (ZG);
+- f.[^4-6] *«Trade Control and Expert System» (TRACES)**:* ein in das Informationsmanagementsystem für amtliche Kontrollen der EU integriertes System nach den Artikeln 131–136 der Verordnung (EU) 2017/625[^4-7];
+- f<sup>bis</sup>.[^4-8] *System «e-dec»:* elektronisches Datenverarbeitungssystem, das vom Bundesamt für Zoll und Grenzsicherheit (BAZG)[^4-9] gestützt auf Artikel 28 Absatz 2 des Zollgesetzes vom 18. März 2005[^4-10] für die Zollanmeldung zur Verfügung gestellt wird;
+- g.[^4-11] *Sendung:* eine Anzahl Tiere oder eine Menge Tierprodukte der gleichen Art oder Klasse oder mit gleicher Beschreibung, für die die gleiche Gesundheitsbescheinigung oder das gleiche andere Begleitdokument gilt, die mit dem gleichen Transportmittel befördert werden, vom gleichen Herkunftsort stammen und für den gleichen Bestimmungsbetrieb bestimmt sind;
+- h. *Einfuhr:* dauerhaftes oder vorübergehendes Verbringen von Tieren und Tierprodukten in das Einfuhrgebiet, ausgenommen der Transport zum Zweck der Durchfuhr nach Artikel 6 Buchstabe i des Zollgesetzes vom 18. März 2005[^4-12] (ZG);
 - i. *Importeur:* natürliche oder juristische Person, die für eine Einfuhr verantwortlich ist und die in der Gesundheitsbescheinigung oder im Handelspapier als solcher bezeichnet ist;
 - j. *anmeldepflichtige Person:* Person nach Artikel 26 ZG;
 - k. *Abfertigungsunternehmen:* vom Flughafenhalter beauftragter Dienstleistungsbetrieb, der den Verkehr zwischen den Fluggesellschaften und den Speditionsunternehmen sicherstellt (Handling Agent);
 - l. *Bestimmungsbetrieb:* Betrieb am Standort, an den die Tiere oder Tierprodukte verbracht werden sollen, und der in der Gesundheitsbescheinigung oder im Handelspapier als solcher bezeichnet ist;
 - m. *Exporteur:* natürliche oder juristische Person, die für eine Ausfuhr verantwortlich ist und die in der Gesundheitsbescheinigung oder im Handelspapier als solcher bezeichnet ist.
 
-[^4-1]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 423](https://fedlex.data.admin.ch/eli/oc/2020/71)).
-[^4-2]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 423](https://fedlex.data.admin.ch/eli/oc/2020/71)).
-[^4-3]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^4-1]: Fassung gamäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 269](https://fedlex.data.admin.ch/eli/oc/2024/269)).
+[^4-2]: Fassung gamäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 269](https://fedlex.data.admin.ch/eli/oc/2024/269)).
+[^4-3]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 423](https://fedlex.data.admin.ch/eli/oc/2020/71)).
 [^4-4]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 423](https://fedlex.data.admin.ch/eli/oc/2020/71)).
-[^4-5]: Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates vom 15. März 2017 über amtliche Kontrollen und andere amtliche Tätigkeiten zur Gewährleistung der Anwendung des Lebens- und Futtermittelrechts und der Vorschriften über Tiergesundheit und Tierschutz, Pflanzengesundheit und Pflanzenschutzmittel, zur Änderung der Verordnungen (EG) Nr. 999/2001, (EG) Nr. 396/2005, (EG) Nr. 1069/2009, (EG) Nr. 1107/2009, (EU) Nr. 1151/2012, (EU) Nr. 652/2014, (EU) 2016/429 und (EU) 2016/2031 des Europäischen Parlaments und des Rates, der Verordnungen (EG) Nr. 1/2005 und (EG) Nr. 1099/2009 des Rates sowie der Richtlinien 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG und 2008/120/EG des Rates und zur Aufhebung der Verordnungen (EG) Nr. 854/2004 und (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates, der Richtlinien 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EEG, 96/23/EG, 96/93/EG und 97/78/EG des Rates und des Beschlusses 92/438/EWG des Rates (Verordnung über amtliche Kontrollen), ABl. L 95 vom 7.4.2017, S. 1; zuletzt geändert durch delegierte Verordnung (EU) 2019/478, ABl. L 82 vom 25.3.2019, S. 4.
-[^4-6]: Eingefügt durch Ziff. I der V vom 3. März 2017, in Kraft seit 1. April 2017 ([AS 2017 1671](https://fedlex.data.admin.ch/eli/oc/2017/173)).
-[^4-7]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
-[^4-8]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^4-9]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 423](https://fedlex.data.admin.ch/eli/oc/2020/71)).
+[^4-5]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^4-6]: Fassung gamäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 269](https://fedlex.data.admin.ch/eli/oc/2024/269)).
+[^4-7]: Verordnung (EU) 2017/625 des Europäischen Parlaments und des Rates vom 15. März 2017 über amtliche Kontrollen und andere amtliche Tätigkeiten zur Gewährleistung der Anwendung des Lebens- und Futtermittelrechts und der Vorschriften über Tiergesundheit und Tierschutz, Pflanzengesundheit und Pflanzenschutzmittel, zur Änderung der Verordnungen (EG) Nr. 999/2001, (EG) Nr. 396/2005, (EG) Nr. 1069/2009, (EG) Nr. 1107/2009, (EU) Nr. 1151/2012, (EU) Nr. 652/2014, (EU) 2016/429 und (EU) 2016/2031 des Europäischen Parlaments und des Rates, der Verordnungen (EG) Nr. 1/2005 und (EG) Nr. 1099/2009 des Rates sowie der Richtlinien 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG und 2008/120/EG des Rates und zur Aufhebung der Verordnungen (EG) Nr. 854/2004 und (EG) Nr. 882/2004 des Europäischen Parlaments und des Rates, der Richtlinien 89/608/EWG, 89/662/EWG, 90/425/EWG, 91/496/EEG, 96/23/EG, 96/93/EG und 97/78/EG des Rates und des Beschlusses 92/438/EWG des Rates (Verordnung über amtliche Kontrollen), ABl. L 95 vom 7.4.2017, S. 1; zuletzt geändert durch Verordnung (EU) 2021/1756, ABl. L 357 vom 8.10.2021, S. 27.
+[^4-8]: Eingefügt durch Ziff. I der V vom 3. März 2017, in Kraft seit 1. April 2017 ([AS 2017 1671](https://fedlex.data.admin.ch/eli/oc/2017/173)).
+[^4-9]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
 [^4-10]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
+[^4-11]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 423](https://fedlex.data.admin.ch/eli/oc/2020/71)).
+[^4-12]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 
 ## 2. Abschnitt: Einfuhr
 
@@ -181,18 +186,19 @@ Zulässig ist:
 
 <sup>1</sup> Tiere und Tierprodukte dürfen nur eingeführt werden, wenn die Gesundheitsbescheinigungen, die nach den harmonisierten Bedingungen der EU zum innergemeinschaftlichen Verkehr vorgeschrieben sind, mit der Sendung in Papierform oder in elektronischer Form mitgeführt werden.[^6-1]
 
-<sup>2</sup>
+<sup>2</sup> Das EDI legt fest, für welche Tiere und Tierprodukte zusätzliche Gesundheitsgarantien zu erbringen sind. Es kann solche Gesundheitsgarantien einfordern, wenn die Schweiz für eine Tierseuche den Status «seuchenfrei» nach der Verordnung (EU) 2016/429[^6-2] und der Delegierten Verordnung (EU) 2020/689[^6-3] erreicht hat. Die Gesundheitsgarantien sind in den Gesundheitsbescheinigungen nach den harmonisierten Bedingungen der EU zum innergemeinschaftlichen Verkehr aufzuführen.[^6-4]
 
-Das EDI legt fest, welche Gesundheitsgarantien für die folgenden Tiere und Tierprodukte zusätzlich zu den in den harmonisierten Bedingungen der EU zum innergemeinschaftlichen Verkehr vorgesehenen Gesundheitsbescheinigungen zu erbringen sind und unter welchen Voraussetzungen diese Gesundheitsgarantien anerkannt werden:
+<sup>3</sup> Ist keine Gesundheitsbescheinigung vorgeschrieben, so muss mit der Sendung ein Handelspapier in Papierform oder elektronischer Form mitgeführt werden.[^6-5]
 
-- a. Tiere der Rindergattung;
-- b. Tiere der Schweinegattung;
-- c. Hühnervögel (*Galliformes*), Gänsevögel (*Anseriformes*) und Laufvögel (*Struthioniformes*) sowie Bruteier solcher Vögel.
-
-<sup>3</sup> Ist keine Gesundheitsbescheinigung vorgeschrieben, so muss mit der Sendung ein Handelspapier in Papierform oder elektronischer Form mitgeführt werden.[^6-2]
+<sup>4</sup> Für Produkte nach Anhang 1*a* VTNP[^6-6] ist weder eine Gesundheitsbescheinigung noch ein Handelspapier erforderlich.[^6-7]
 
 [^6-1]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 423](https://fedlex.data.admin.ch/eli/oc/2020/71)).
-[^6-2]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 423](https://fedlex.data.admin.ch/eli/oc/2020/71)).
+[^6-2]: Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates vom 9. März 2016 zu Tierseuchen und zur Änderung und Aufhebung einiger Rechtsakte im Bereich der Tiergesundheit («Tiergesundheitsrecht»), ABl. L 84 vom 31.3.2016, S. 1; zuletzt geändert durch Delegierte Verordnung (EU) 2018/1629, ABl. L 272 vom 31.10.2018, S. 11.
+[^6-3]: Delegierte Verordnung (EU) 2020/689 der Kommission vom 17. Dezember 2019 zur Ergänzung der Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates hinsichtlich Vorschriften betreffend Überwachung, Tilgungsprogramme und den Status «seuchenfrei» für bestimmte gelistete und neu auftretende Seuchen, ABl. L 174 vom 3.6.2020, S. 211; zuletzt geändert durch Delegierte Verordnung (EU) 2023/1798, ABl. L 233 vom 21.9.2023, S. 24.
+[^6-4]: Fassung gamäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 269](https://fedlex.data.admin.ch/eli/oc/2024/269)).
+[^6-5]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 423](https://fedlex.data.admin.ch/eli/oc/2020/71)).
+[^6-6]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
+[^6-7]: Eingefügt durch Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 269](https://fedlex.data.admin.ch/eli/oc/2024/269)).
 
 #### Art. 7
 
@@ -220,25 +226,19 @@ Das BLV kann die Bewilligung nach Absatz 1 Buchstabe b verweigern oder entziehen
 - a. eine erhöhte Gefahr besteht, dass mit den tierischen Nebenprodukten Seuchen eingeschleppt werden; oder
 - b. die gesamte Kapazität der betreffenden Entsorgungsbetriebe für die Entsorgung von entsprechenden inländischen tierischen Nebenprodukten benötigt wird.
 
-[^7-1]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 423](https://fedlex.data.admin.ch/eli/oc/2020/71)).
+[^7-1]: Fassung gamäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 269](https://fedlex.data.admin.ch/eli/oc/2024/269)).
 [^7-2]: [SR 916.441.22](https://fedlex.data.admin.ch/eli/cc/2011/372)
-[^7-3]: Verordnung (EU) Nr. 142/2011 der Kommission vom 25. Februar 2011 zur Durchführung der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte sowie zur Durchführung der Richtlinie 97/78/EG des Rates hinsichtlich bestimmter gemäss der genannten Richtlinie von Veterinärkontrollen an der Grenze befreiter Proben und Waren, ABl. L 54 vom 26.2.2011, S. 1; zuletzt geändert durch Durchführungsverordnung (EU) 2019/1177, ABl. L 185 vom 11.7.2019, S. 26.
+[^7-3]: Verordnung (EU) Nr. 142/2011 der Kommission vom 25. Februar 2011 zur Durchführung der Verordnung (EG) Nr. 1069/2009 des Europäischen Parlaments und des Rates mit Hygienevorschriften für nicht für den menschlichen Verzehr bestimmte tierische Nebenprodukte sowie zur Durchführung der Richtlinie 97/78/EG des Rates hinsichtlich bestimmter gemäss der genannten Richtlinie von Veterinärkontrollen an der Grenze befreiter Proben und Waren, ABl. L 54 vom 26.2.2011, S. 1; zuletzt geändert durch Verordnung (EU) 2023/2613, ABl. L, 2023/2613, 24.11.2023.
 
 #### Art. 8
 
-**Registrierung in TRACES**
+**Registrierung in TRACES**[^8-1]
 
-<sup>1</sup> Wer bei der Einfuhr von Tieren und Tierprodukten, für die die Gesundheitsbescheinigungen nach den harmonisierten Bedingungen der EU zum innergemeinschaftlichen Verkehr via TRACES auszustellen sind, als Bestimmungsbetrieb, Importeur oder Speditionsunternehmen auftreten will, muss sich vorgängig in TRACES registrieren lassen.
+<sup>1</sup> Für die Einfuhr von Tieren und Tierprodukten, für die die Gesundheitsbescheinigungen nach den harmonisierten Bedingungen der EU zum innergemeinschaftlichen Verkehr via TRACES auszustellen sind, müssen der Bestimmungsbetrieb, der Importeur und gegebenenfalls das Transportunternehmen mit denjenigen Eigenschaften in TRACES registriert sein, die ihrer Rolle im Zusammenhang mit der Einfuhr entsprechen.
 
-<sup>2</sup> Wer sich als Bestimmungsbetrieb registrieren lassen will, erhält in TRACES sowohl die Eigenschaft «Bestimmungsbetrieb» als auch die Eigenschaft «Importeur» zugewiesen. Wer sich als Importeur oder Speditionsunternehmen registrieren lassen will, erhält die Eigenschaft «Importeur» beziehungsweise «Speditionsunternehmen» zugewiesen.
+<sup>2</sup> Die Registrierung ist vorgängig bei der zuständigen kantonalen Behörde zu beantragen. Adressänderungen sind dieser Behörde innerhalb einer Woche mitzuteilen.
 
-<sup>3</sup> Die Registrierung ist bei der zuständigen kantonalen Behörde zu beantragen. Adressänderungen sind unverzüglich der entsprechenden Behörde mitzuteilen.
-
-<sup>4</sup> Für den Zugang zu TRACES ist der Nachweis einer Schulung durch die zuständige kantonale Behörde zu erbringen.
-
-<sup>5</sup> Bei der Einfuhr einer Sendung, für die die Gesundheitsbescheinigungen nach den harmonisierten Bedingungen der EU zum innergemeinschaftlichen Verkehr via TRACES auszustellen sind, müssen der Importeur, der Bestimmungsbetrieb und das Speditionsunternehmen mit der entsprechenden Eigenschaft in TRACES registriert sein.
-
-<sup>6</sup> Die registrierten Personen haben Zugang zu den Daten der von ihnen oder in ihrem Auftrag versandten Sendungen und können die von ihnen eingegebenen Daten zur Sendung vor der Unterzeichnung der Gesundheitsbescheinigung bearbeiten.
+[^8-1]: Fassung gamäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 269](https://fedlex.data.admin.ch/eli/oc/2024/269)).
 
 #### Art. 9
 
@@ -260,10 +260,11 @@ Sendungen folgender Tiere und Tierprodukte müssen vom Importeur spätestens zeh
 
 <sup>3</sup> Gesundheitsbescheinigungen müssen von der zuständigen Behörde auf Papier oder elektronisch unterzeichnet sein. Sie können auch von einem ausstellungsberechtigten Unternehmen unterzeichnet sein, sofern dies vorgesehen ist.[^10-2]
 
-<sup>4</sup> Das EDI legt die formalen Anforderungen an die Gesundheitsbescheinigungen fest.
+<sup>4</sup> Das EDI legt die formalen Anforderungen an die Gesundheitsbescheinigungen fest. Es regelt die Ersatzbescheinigungen.[^10-3]
 
 [^10-1]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 423](https://fedlex.data.admin.ch/eli/oc/2020/71)).
 [^10-2]: Fassung gemäss Ziff. I der V vom 15. Jan. 2020, in Kraft seit 1. März 2020 ([AS 2020 423](https://fedlex.data.admin.ch/eli/oc/2020/71)).
+[^10-3]: Fassung gamäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 269](https://fedlex.data.admin.ch/eli/oc/2024/269)).
 
 #### Art. 11
 
@@ -349,11 +350,25 @@ Der Bestimmungsbetrieb muss das Eintreffen der folgenden Tiere und Tierprodukte 
 - b. Klauentiere sowie Hühnervögel, Gänsevögel und Laufvögel;
 - c. Europäische Honigbienen und Hummeln.
 
+#### Art. 19a
+
+**Aufzeichnungspflicht des Bestimmungsbetriebs bei der Weitergabe importierter Hummeln**[^19a-1]
+
+Bestimmungsbetriebe, die Hummeln importiert haben, müssen über die Weitergabe der importierten Hummeln Buch führen. Es sind mindestens folgende Angaben schriftlich festzuhalten:
+
+- a. das Datum der Abgabe eines Hummelvolkes;
+- b. der Name und die Adresse des Empfängers;
+- c. die Anzahl der abgegebenen Hummelvölker.
+
+[^19a-1]: Eingefügt durch Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 269](https://fedlex.data.admin.ch/eli/oc/2024/269)).
+
 #### Art. 20
 
-**Aufbewahrungspflicht des Bestimmungsbetriebs**
+**Aufbewahrungspflicht des Bestimmungsbetriebs**[^20-1]
 
-Der Bestimmungsbetrieb muss die Gesundheitsbescheinigungen nach Eintreffen der Sendung drei Jahre lang aufbewahren.
+Bestimmungsbetriebe müssen die Gesundheitsbescheinigungen für Tiere und Tierprodukte nach Artikel 19 nach Eintreffen der Sendung drei Jahre lang aufbewahren. Die Aufzeichnungen nach Artikel 19*a* über die Weitergabe der importierten Hummeln sind ebenfalls drei Jahre lang aufzubewahren und den seuchenpolizeilichen Organen auf Verlangen vorzuweisen.
+
+[^20-1]: Fassung gamäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 269](https://fedlex.data.admin.ch/eli/oc/2024/269)).
 
 #### Art. 21
 
@@ -379,11 +394,11 @@ Der Bestimmungsbetrieb muss die Gesundheitsbescheinigungen nach Eintreffen der S
 
 #### Art. 23
 
-**Pflichten des Flughafenhalters**
+**Pflichten des Flughafenhalters**[^23-1]
 
-<sup>1</sup> Die Flughafenhalter müssen dem BLV die von ihnen beauftragten Abfertigungsunternehmen melden. Änderungen sind dem BLV unverzüglich mitzuteilen.
+Die Flughafenhalter müssen die Abfertigungsunternehmen auf deren Pflichten nach Artikel 22 hinweisen.
 
-<sup>2</sup> Sie müssen die Abfertigungsunternehmen auf die Pflichten nach Artikel 22 hinweisen.
+[^23-1]: Fassung gamäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 269](https://fedlex.data.admin.ch/eli/oc/2024/269)).
 
 ## 3. Abschnitt: Durchfuhr
 
@@ -495,19 +510,13 @@ Es ist verboten, Rindfleisch der Zolltarifnummern 0201.2091, 0202.2091, 0201.309
 
 #### Art. 31
 
-**Registrierung in TRACES**
+**Registrierung in TRACES**[^31-1]
 
-<sup>1</sup>
+<sup>1</sup> Für die Ausfuhr von Tieren und Tierprodukten, für die die Gesundheitsbescheinigungen nach den harmonisierten Bedingungen der EU zum innergemeinschaftlichen Verkehr via TRACES auszustellen sind, müssen der Herkunftsbetrieb, der Exporteur und gegebenenfalls das Transportunternehmen mit denjenigen Eigenschaften in TRACES registriert sein, die ihrer Rolle im Zusammenhang mit der Ausfuhr entsprechen.
 
-Bei der Ausfuhr von Tieren und Tierprodukten, für die die Gesundheitsbescheinigungen nach den harmonisierten Bedingungen der EU zum innergemeinschaftlichen Verkehr via TRACES auszustellen sind, müssen sich die folgenden natürlichen oder juristischen Personen vorgängig in TRACES registrieren lassen:
+<sup>2</sup> Die Registrierung ist vorgängig bei der zuständigen kantonalen Behörde zu beantragen. Adressänderungen sind dieser Behörde innerhalb einer Woche mitzuteilen.
 
-- a. Herkunftsbetriebe der Tiere und Tierprodukte;
-- b. Exporteure; und
-- c. Speditionsunternehmen.
-
-<sup>2</sup> Wer sich als Herkunftsbetrieb registrieren lassen will, erhält in TRACES sowohl die Eigenschaft «Herkunftsbetrieb» als auch die Eigenschaft «Exporteur» zugewiesen. Wer sich als Exporteur oder Speditionsunternehmen registrieren lassen will, erhält die Eigenschaft «Exporteur» beziehungsweise «Speditionsunternehmen» zugewiesen.
-
-<sup>3</sup> Für die Registrierung und den Zugang zu TRACES gilt Artikel 8 Absätze 3–6.
+[^31-1]: Fassung gamäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 269](https://fedlex.data.admin.ch/eli/oc/2024/269)).
 
 #### Art. 32
 
@@ -603,23 +612,39 @@ Die folgenden Behörden und Personen müssen in TRACES registriert sein:
 
 #### Art. 39
 
-**Zugang**
+**Zugang**[^39-1]
 
-Die registrierten Behörden und Personen haben Zugang zu TRACES, soweit es für die Erfüllung ihrer Aufgaben erforderlich ist.
+Zugang zu TRACES erhalten Personen, welche die folgenden Voraussetzungen erfüllen:
+
+- a. Die Behörde oder der Betrieb, für die oder den die Personen tätig sind, ist in TRACES registriert.
+- b. Sie haben die von der zuständigen kantonalen Behörde angebotene Schulung besucht oder die Behörde oder der Betrieb bestätigt, dass bei diesen Personen das für die Nutzung von TRACES erforderliche Wissen vorliegt.
+
+[^39-1]: Fassung gamäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 269](https://fedlex.data.admin.ch/eli/oc/2024/269)).
+
+#### Art. 39a
+
+**Datenbearbeitung**[^39a-1]
+
+<sup>1</sup> Die Betriebe dürfen die Daten zu ihren Sendungen erfassen und diese Daten bis zur Kontrolle der Sendung bearbeiten.
+
+<sup>2</sup> Die Behörden dürfen die Daten der Sendungen bearbeiten, die in ihren Zuständigkeitsbereich fallen.
+
+[^39a-1]: Eingefügt durch Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 269](https://fedlex.data.admin.ch/eli/oc/2024/269)).
 
 #### Art. 40
 
-**Schulungen**
+**Durchführung der Schulungen**[^40-1]
 
-<sup>1</sup> Für den Zugang zu TRACES ist der Nachweis einer TRACES-Grundschulung zu erbringen.
+<sup>1</sup> Das BLV führt die Schulungen für das BAZG und die TRACES-Verantwortlichen der kantonalen Amtsstellen durch. Für den Besuch dieser Schulungen wird keine Gebühr erhoben.
 
-<sup>2</sup> Die registrierten Personen müssen regelmässig an Wiederholungsschulungen teilnehmen.
+<sup>2</sup>
 
-<sup>3</sup> Das BLV führt die Grundschulung und die Wiederholungsschulungen für das BAZG und für die TRACES-Verantwortlichen der kantonalen Amtsstellen durch. Für den Besuch dieser Schulungen wird keine Gebühr erhoben.
+Die TRACES-Verantwortlichen der kantonalen Amtsstellen führen die Schulungen durch für:
 
-<sup>4</sup> Die TRACES-Verantwortlichen der kantonalen Amtsstellen führen für die amtlichen Tierärztinnen und Tierärzte und kantonalen Lebensmittelinspektorinnen und Lebensmittelinspektoren, die im Rahmen ihrer Tätigkeit TRACES verwenden, die Grundschulung und die Wiederholungsschulungen durch.
+- a. die Herkunfts- und die Bestimmungsbetriebe, die Importeure, die Exporteure und die Transportunternehmen;
+- b. die amtlichen Tierärztinnen und Tierärzte und die kantonalen Lebensmittelinspektorinnen und Lebensmittelinspektoren, die im Rahmen ihrer Tätigkeit TRACES verwenden.
 
-<sup>5</sup> Sie führen zudem die Schulungen der Personen nach den Artikeln 8 Absatz 1 und 31 Absatz 1 durch.
+[^40-1]: Fassung gamäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 269](https://fedlex.data.admin.ch/eli/oc/2024/269)).
 
 #### Art. 41
 
@@ -646,7 +671,7 @@ Die Verknüpfung von TRACES mit dem System «e-dec» richtet sich nach Artikel 1
 
 <sup>2</sup> Es kann Weisungen technischer Art zu TRACES erlassen.
 
-## 7*a*. Abschnitt:**** Informationssystem EDAV
+## 7*a*. Abschnitt: Informationssystem EDAV
 
 [^sec7a-1]
 
