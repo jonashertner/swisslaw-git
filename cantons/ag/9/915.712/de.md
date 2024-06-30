@@ -4,13 +4,13 @@ number: "915.712"
 title: Verordnung über den Weinbau
 short: Weinbauverordnung
 language: de
-version: 2019-11-01
-valid_until: 2024-06-30
-version_adopted: 2019-09-11
+version: 2024-07-01
+valid_until: 2024-12-31
+version_adopted: 2024-03-13
 adopted: 2008-06-25
 in_force: 2008-09-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/915.712"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2766/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3517/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,17 +19,16 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2766/pdf_file"
 
 (Weinbauverordnung)
 
-Vom 25.06.2008 (Stand 01.11.2019)
+Vom 25.06.2008 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf § 91 Abs. 2<sup>bis</sup> lit. a der Kantonsverfassung, die §§ 4 Abs. 3 und 38 Abs. 1 des Landwirtschaftsgesetzes des Kantons Aargau (LwG AG) vom 13. Dezember 2011[^ingress-1], die §§ 13 Abs. 2 und 27 des Gesetzes über die Organisation des Regierungsrates und der kantonalen Verwaltung (Organisationsgesetz) vom 26. März 1985[^ingress-2] sowie die §§ 1 Abs. 1 lit. a und 2 Abs. 1 des Dekrets über die durch den Staat zu beziehenden Gebühren vom 23. November 1977[^ingress-3],
+gestützt auf § 91 Abs. 2<sup>bis</sup> lit. a der Kantonsverfassung, die §§ 4 Abs. 3 und 38 Abs. 1 des Landwirtschaftsgesetzes des Kantons Aargau (LwG AG) vom 13. Dezember 2011[^ingress-1] sowie die §§ 13 Abs. 2 und 27 des Gesetzes über die Organisation des Regierungsrates und der kantonalen Verwaltung (Organisationsgesetz) vom 26. März 1985[^ingress-2],
 
 beschliesst:
 
 [^ingress-1]: SAR [910.200](https://gesetzessammlungen.ag.ch/data/910.200/de)
 [^ingress-2]: SAR [153.100](https://gesetzessammlungen.ag.ch/data/153.100/de)
-[^ingress-3]: SAR [661.110](https://gesetzessammlungen.ag.ch/data/661.110/de)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -120,7 +119,7 @@ beschliesst:
 
 <sup>2<sup>bis</sup></sup> In begründeten Fällen können ausnahmsweise Rebflächen zur gewerblichen Weinerzeugung zugelassen werden, die von den Richtwerten gemäss Absatz 2 abweichen.
 
-<sup>3</sup> Das LZL erhebt für die Behandlung von Gesuchen betreffend Neuanpflanzungen für die Weinerzeugung eine Gebühr in Höhe von Fr. 150.–. Bei besonders aufwändigen Verfahren kann die Gebühr bis Fr. 1'000.– erhöht werden.
+<sup>3</sup> …
 
 <sup>4</sup> Neuanpflanzungen, die nicht der Weinerzeugung dienen, müssen dem LZL gemeldet werden.
 
@@ -328,13 +327,7 @@ beschliesst:
 
 #### § 19
 
-**Gebühren und Auslagen**
-
-<sup>1</sup> Für die sensorische Prüfung von AOC-Weinen erhebt die AOC-Kommission pro Musterflasche eine Gebühr in Höhe von Fr. 70.– bis Fr. 100.–.
-
-<sup>2</sup> Für die zweite sensorische Prüfung und die Analyse von AOC-Weinen erhebt die AOC-Kommission pro Musterflasche eine Gebühr in Höhe von Fr. 30.– bis Fr. 50.–. Zusätzlich haben die Produzentinnen und Produzenten die Auslagen des LZL für deren Durchführung durch ein spezialisiertes externes Unternehmen zu tragen. Die Höhe dieser Auslagen wird den Produzentinnen und Produzenten mit der Eröffnung des Resultats der sensorischen Prüfung gemäss § 18 Abs. 1<sup>bis</sup> mitgeteilt.
-
-<sup>3</sup> Für die Behandlung von Gesuchen betreffend die Bewilligung von Zusatzbezeichnungen gemäss § 14 Abs. 7 wird keine Gebühr erhoben.
+**…**
 
 ## 5<sup>bis</sup>. Weinspezifische Begriffe
 
@@ -371,9 +364,7 @@ beschliesst:
 
 #### § 20a
 
-**Übergangsbestimmung**
-
-<sup>1</sup> Beschriftungen der bisherigen AOC-Bestimmungen dürfen bis und mit der Ernte 2012 verwendet werden.
+**…**
 
 #### § 21
 
