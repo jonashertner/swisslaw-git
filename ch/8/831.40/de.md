@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 25. Juni 1982 über die berufliche Alters-, Hinterlasse
 short: BVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/797_797_797"
 language: de
-version: 2024-01-01
+version: 2024-07-01
 adopted: 1982-06-25
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20240101-de-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20240701/de/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20240701-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20240101/de"
 
 (BVG)
 
-vom 25. Juni 1982 (Stand am 1. Januar 2024)
+vom 25. Juni 1982 (Stand am 1. Juli 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -1072,11 +1072,11 @@ Gewährt eine Vorsorgeeinrichtung mehr als die Mindestleistungen, so gelten für
 - 3*b*.[^49-6] die provisorische Weiterversicherung und Aufrechterhaltung des Leistungsanspruchs bei Herabsetzung oder Aufhebung der Rente der Invalidenversicherung (Art. 26*a*);
 - 4\. die Rückerstattung zu Unrecht bezogener Leistungen (Art. 35*a*);
 - 5\.[^49-7] die Anpassung an die Preisentwicklung (Art. 36 Abs. 2–4);
-- [tab] 5*a*.[^49-8] die Zustimmung bei Kapitalabfindung (Art. 37*a*);
+- 5*a*.[^49-8] die Zustimmung bei Kapitalabfindung (Art. 37*a*);
 - 5*b*.[^49-9] die Massnahmen bei Vernachlässigung der Unterhaltspflicht (Art. 40);
 - 6\. die Verjährung von Ansprüchen und die Aufbewahrung von Vorsorgeunterlagen (Art. 41);
 - 6*a*.[^49-10] das Ausscheiden aus der obligatorischen Versicherung nach Vollendung des 58. Altersjahres (Art. 47*a*);
-- [tab] 6*b*.[^49-11] die systematische Verwendung der AHV-Nummer (Art. 48 Abs. 4);
+- 6*b*.[^49-11] die systematische Verwendung der AHV-Nummer (Art. 48 Abs. 4);
 - 7\.[^49-12] die paritätische Verwaltung und die Aufgaben des obersten Organs der Vorsorgeeinrichtung (Art. 51 und 51*a*);
 - 8\. die Verantwortlichkeit (Art. 52);
 - 9\.[^49-13] die Zulassung und die Aufgaben der Kontrollorgane (Art. 52*a*–52*e*);
@@ -1096,8 +1096,8 @@ Gewährt eine Vorsorgeeinrichtung mehr als die Mindestleistungen, so gelten für
 - 23\. die Strafbestimmungen (Art. 75–79);
 - 24\. den Einkauf (Art. 79*b*);
 - 25\. den versicherbaren Lohn und das versicherbare Einkommen (Art. 79*c*);
-- [tab] 25*a*.[^49-22] die Datenbearbeitung für die Zuweisung oder Verifizierung der AHV-Nummer (Art. 85*a* Bst. f);
-- [tab] 25*b*.[^49-23] die Datenbekanntgabe für die Zuweisung oder Verifizierung der AHV-Nummer (Art. 86*a* Abs. 2 Bst. b<sup>bis</sup>);
+- 25*a*.[^49-22] die Datenbearbeitung für die Zuweisung oder Verifizierung der AHV-Nummer (Art. 85*a* Bst. f);
+- 25*b*.[^49-23] die Datenbekanntgabe für die Zuweisung oder Verifizierung der AHV-Nummer (Art. 86*a* Abs. 2 Bst. b<sup>bis</sup>);
 - 26\. die Information der Versicherten (Art. 86*b*).
 
 [^49-1]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), Abs. 2 Ziff. 7–9, 12–14, 16 (mit Ausnahme von Art. 66 Abs. 4), 17, 19-23 und 26 in Kraft seit 1. April 2004, Abs. 1 und 2 Ziff. 3–6, 10, 11, 15, 16 (Art. 66 Abs. 4) und 18 in Kraft seit 1. Jan. 2005, Abs. 2 Ziff. 1, 24 und 25 in Kraft seit 1. Jan. 2006 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
@@ -1607,13 +1607,14 @@ Der Sicherheitsfonds:
 - d.[^56-4] entschädigt die Auffangeinrichtung für die Kosten, die ihr auf Grund ihrer Tätigkeit nach den Artikeln 11 Absatz 3<sup>bis</sup> und 60 Absatz 2 dieses Gesetzes sowie 4 Absatz 2 FZG entstehen und die nicht auf den Verursacher überwälzt werden können;
 - e. schliesst den Vorsorgeeinrichtungen im Falle einer Teil- oder Gesamtliquidation, die innerhalb von fünf Jahren seit Inkrafttreten des FZG erfolgt, eine durch die Anwendung dieses Gesetzes entstandene Deckungslücke;
 - f.[^56-5] fungiert als Zentralstelle 2. Säule für die Koordination, die Übermittlung und die Aufbewahrung der Angaben nach den Artikeln 24*a*–24*f* des FZG;
-- g.[^56-6] ist für die Anwendung von Artikel 89*a* Verbindungsstelle zu den Mitgliedstaaten der Europäischen Gemeinschaft[^56-7] oder der Europäischen Freihandelsassoziation. Der Bundesrat erlässt die Ausführungsbestimmungen;
-- h.[^56-8] entschädigt die Ausgleichskasse der AHV für die Kosten, die ihr auf Grund ihrer Tätigkeit nach Artikel 11 entstehen und nicht auf den Verursacher überwälzt werden können;
-- i.[^56-9] erhebt bei den Vorsorgeeinrichtungen die jährliche Aufsichtsabgabe nach Artikel 64*c* Absatz 1 Buchstabe a für die System- und Oberaufsicht über die Aufsichtsbehörden und überweist sie nach Abzug für seinen Aufwand an die Oberaufsichtskommission.
+- f<sup>bis</sup>.[^56-6] fungiert als Zentralstelle 2. Säule für die Koordination und die Übermittlung von Informationen zu Personendaten von Rentnerinnen und Rentnern nach Artikel 58*a*;
+- g.[^56-7] ist für die Anwendung von Artikel 89*a* Verbindungsstelle zu den Mitgliedstaaten der Europäischen Gemeinschaft[^56-8] oder der Europäischen Freihandelsassoziation. Der Bundesrat erlässt die Ausführungsbestimmungen;
+- h.[^56-9] entschädigt die Ausgleichskasse der AHV für die Kosten, die ihr auf Grund ihrer Tätigkeit nach Artikel 11 entstehen und nicht auf den Verursacher überwälzt werden können;
+- i.[^56-10] erhebt bei den Vorsorgeeinrichtungen die jährliche Aufsichtsabgabe nach Artikel 64*c* Absatz 1 Buchstabe a für die System- und Oberaufsicht über die Aufsichtsbehörden und überweist sie nach Abzug für seinen Aufwand an die Oberaufsichtskommission.
 
-<sup>2</sup> Die Sicherstellung nach Absatz 1 Buchstabe c umfasst höchstens die Leistungen, die sich aufgrund eines massgebenden Lohnes nach dem AHVG[^56-10] in der anderthalbfachen Höhe des oberen Grenzbetrages nach Artikel 8 Absatz 1 dieses Gesetzes ergeben.
+<sup>2</sup> Die Sicherstellung nach Absatz 1 Buchstabe c umfasst höchstens die Leistungen, die sich aufgrund eines massgebenden Lohnes nach dem AHVG[^56-11] in der anderthalbfachen Höhe des oberen Grenzbetrages nach Artikel 8 Absatz 1 dieses Gesetzes ergeben.
 
-<sup>3</sup> Sind einer Vorsorgeeinrichtung mehrere wirtschaftlich oder finanziell nicht eng miteinander verbundene Arbeitgeber oder mehrere Verbände angeschlossen, so ist das zahlungsunfähige Vorsorgewerk jedes einzelnen Arbeitgebers oder Verbandes den zahlungsunfähigen Vorsorgeeinrichtungen grundsätzlich gleichgestellt. Die Zahlungsunfähigkeit der Vorsorgewerke ist getrennt zu beurteilen. Der Bundesrat regelt die Einzelheiten.[^56-11]
+<sup>3</sup> Sind einer Vorsorgeeinrichtung mehrere wirtschaftlich oder finanziell nicht eng miteinander verbundene Arbeitgeber oder mehrere Verbände angeschlossen, so ist das zahlungsunfähige Vorsorgewerk jedes einzelnen Arbeitgebers oder Verbandes den zahlungsunfähigen Vorsorgeeinrichtungen grundsätzlich gleichgestellt. Die Zahlungsunfähigkeit der Vorsorgewerke ist getrennt zu beurteilen. Der Bundesrat regelt die Einzelheiten.[^56-12]
 
 <sup>4</sup> Der Bundesrat regelt die Leistungsvoraussetzungen.
 
@@ -1626,12 +1627,13 @@ Der Sicherheitsfonds:
 [^56-3]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
 [^56-4]: Fassung gemäss Ziff. I des BG vom 20. Dez. 2006 (Wechsel der Vorsorgeeinrichtung), in Kraft seit 1. Mai 2007 ([AS 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [BBl 2005 5941](https://fedlex.data.admin.ch/eli/fga/2005/954)[5953](https://fedlex.data.admin.ch/eli/fga/2005/956)).
 [^56-5]: Eingefügt durch Ziff. II 1 des BG vom 18. Dez. 1998, in Kraft seit 1. Mai 1999 ([AS 1999 1384](https://fedlex.data.admin.ch/eli/oc/1999/199); BBl **1998** 5569).
-[^56-6]: Eingefügt durch Ziff. I 7 des BG vom 8. Okt. 1999 zum Abk. zwischen der Schweizerischen Eidgenossenschaft einerseits und der EG sowie ihren Mitgliedstaaten andererseits über die Freizügigkeit ([AS 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [BBl 1999 6128](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)). Fassung gemäss Ziff. I 6 des BG vom 14. Dez. 2001 betreffend die Bestimmungen über die Personenfreizügigkeit im Abk. zur Änd. des Übereink. zur Errichtung der EFTA, in Kraft seit 1. Juni 2002 ([AS 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [BBl 2001 4963](https://fedlex.data.admin.ch/eli/fga/2001/845)).
-[^56-7]: Heute: Europäische Union.
-[^56-8]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. Jan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^56-9]: Eingefügt durch Anhang Ziff. 5 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^56-10]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^56-11]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2010 (Finanzierung von Vorsorgeeinrichtungen öffentlich-rechtlicher Körperschaften), in Kraft seit 1. Jan. 2012 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+[^56-6]: Eingefügt durch Anhang Ziff. 5 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Juli 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^56-7]: Eingefügt durch Ziff. I 7 des BG vom 8. Okt. 1999 zum Abk. zwischen der Schweizerischen Eidgenossenschaft einerseits und der EG sowie ihren Mitgliedstaaten andererseits über die Freizügigkeit ([AS 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [BBl 1999 6128](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)). Fassung gemäss Ziff. I 6 des BG vom 14. Dez. 2001 betreffend die Bestimmungen über die Personenfreizügigkeit im Abk. zur Änd. des Übereink. zur Errichtung der EFTA, in Kraft seit 1. Juni 2002 ([AS 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [BBl 2001 4963](https://fedlex.data.admin.ch/eli/fga/2001/845)).
+[^56-8]: Heute: Europäische Union.
+[^56-9]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. Jan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^56-10]: Eingefügt durch Anhang Ziff. 5 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Jan. 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^56-11]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^56-12]: Fassung gemäss Ziff. I des BG vom 17. Dez. 2010 (Finanzierung von Vorsorgeeinrichtungen öffentlich-rechtlicher Körperschaften), in Kraft seit 1. Jan. 2012 ([AS 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [BBl 2008 8411](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
 
 #### Art. 56a
 
@@ -1674,6 +1676,30 @@ Selbstständigerwerbende werden für die Berechnung der Zuschüsse nur berücksi
 - a. sich innerhalb eines Jahres nach Inkrafttreten des Gesetzes oder Aufnahme der selbstständigen Erwerbstätigkeit freiwillig versichern, oder
 - b. während mindestens sechs Monaten der obligatorischen Versicherung unterstellt waren und sich unmittelbar danach freiwillig versichern.
 
+#### Art. 58a
+
+**Informationsaustausch zwischen Vorsorgeeinrichtungen und der Zentralen Ausgleichsstelle der AHV**[^58a-1]
+
+<sup>1</sup> Zur Abklärung von Leistungsansprüchen der Rentnerinnen und Rentner und zur Berechnung von Rückstellungen können Vorsorgeeinrichtungen über die Zentralstelle 2. Säule Anfragen an die Zentrale Ausgleichsstelle der AHV richten. Die Zentralstelle 2. Säule übermittelt die Anfragen an die Zentrale Ausgleichsstelle der AHV.
+
+<sup>2</sup>
+
+Die Zentrale Ausgleichsstelle der AHV liefert der Zentralstelle 2. Säule die folgenden Daten, sofern diese in den zentralen Registern oder in einer eigenen Datenbank verfügbar sind:
+
+- a. den Namen der AHV-Ausgleichskasse, welche die Rente auszahlt;
+- b. das Todesdatum der Rentnerin oder des Rentners;
+- c. den Zivilstand der Rentnerin oder des Rentners;
+- d. das Geburtsdatum und die AHV-Nummer der Ehegattin oder des Ehegatten oder der eingetragenen Partnerin oder des eingetragenen Partners des Rentners oder der Rentnerin;
+- e. den Zivilstand der überlebenden Ehegattin oder des überlebenden Ehegatten oder der überlebenden eingetragenen Partnerin oder des überlebenden eingetragenen Partners;
+- f. die Anschrift der Rentnerin oder des Rentners;
+- g. die Anschrift von allfälligen Hinterlassenen;
+- h. das Datum der letzten Lebensbescheinigung;
+- i. die ausbezahlte Kinder- und Waisenrente.
+
+<sup>3</sup> Die Zentralstelle 2. Säule leitet die Rückmeldung der Zentralen Ausgleichsstelle der AHV an die antragstellenden Vorsorgeeinrichtungen weiter.
+
+[^58a-1]: Eingefügt durch Anhang Ziff. 5 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Juli 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+
 #### Art. 59
 
 **Finanzierung**[^59-1]
@@ -1682,13 +1708,21 @@ Selbstständigerwerbende werden für die Berechnung der Zuschüsse nur berücksi
 
 <sup>2</sup> Der Bundesrat regelt die Einzelheiten.
 
-<sup>3</sup> Er regelt die Finanzierung der Aufgaben, welche vom Sicherheitsfonds nach Artikel 56 Absatz 1 Buchstabe f übernommen werden.[^59-2]
+<sup>3</sup> Er regelt die Finanzierung der Aufgaben, welche vom Sicherheitsfonds nach Artikel 56 Absatz 1 Buchstaben f und f<sup>bis</sup> übernommen werden.[^59-2]
 
 <sup>4</sup> Zur Überbrückung von Liquiditätsengpässen kann der Bund dem Sicherheitsfonds zur Finanzierung von Insolvenzleistungen gemäss Artikel 56 Absatz 1 Buchstaben b, c und d Darlehen zu marktkonformen Bedingungen gewähren. Die Gewährung dieser Darlehen kann an Bedingungen geknüpft werden.[^59-3]
 
 [^59-1]: Fassung gemäss Ziff. I des BG vom 21. Juni 1996, in Kraft seit 1. Juli 1998 ([AS 1996 3067](https://fedlex.data.admin.ch/eli/oc/1996/3067_3067_3067), [1998 1573](https://fedlex.data.admin.ch/eli/oc/1998/1573_1573_1573); [BBl 1996 I 564](https://fedlex.data.admin.ch/eli/fga/1996/1_564_516_493)580).
-[^59-2]: Eingefügt durch Ziff. II 1 des BG vom 18. Dez. 1998, in Kraft seit 1. Mai 1999 ([AS 1999 1384](https://fedlex.data.admin.ch/eli/oc/1999/199); BBl **1998** 5569).
+[^59-2]: Eingefügt durch Ziff. II 1 des BG vom 18. Dez. 1998 ([AS 1999 1384](https://fedlex.data.admin.ch/eli/oc/1999/199); BBl **1998** 5569). Fassung gemäss Anhang Ziff. 5 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Juli 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^59-3]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. Jan. 2005 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+
+#### Art. 59a
+
+**Zahlungen an die Zentrale Ausgleichsstelle der AHV**[^59a-1]
+
+Der Sicherheitsfonds zahlt der Zentralen Ausgleichsstelle der AHV einen Beitrag zur Deckung der Kosten, die ihr bei der Durchführung der Aufgaben gemäss Artikel 58*a* entstehen. Der Bundesrat regelt die Einzelheiten.
+
+[^59a-1]: Eingefügt durch Anhang Ziff. 5 des BG vom 17. Juni 2022 (Modernisierung der Aufsicht), in Kraft seit 1. Juli 2024 ([AS 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [BBl 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 ### 3. Kapitel: Auffangeinrichtung
 
@@ -2398,7 +2432,7 @@ Der Bundesrat regelt den Einkauf von Personen, die:
 [^79b-1]: Eingefügt durch Ziff. I des BG vom 3. Okt. 2003 (1. BVG-Revision), in Kraft seit 1. Jan. 2006 ([AS 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [BBl 2000 2637](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^79b-2]: Fassung gemäss Anhang Ziff. 4 des BG vom 17. Dez. 2021 (AHV 21), in Kraft seit 1. Jan. 2024 ([AS 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [BBl 2019 6305](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^79b-3]: [SR 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386). Heute: Art. 22*d* FZG.
-[^79b-4]: Eingefügt durch Art. 37 Ziff. 3 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
+[^79b-4]: Fassung gemäss Art. 37 Ziff. 3 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5269](https://fedlex.data.admin.ch/eli/oc/2005/734); [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)).
 
 #### Art. 79c
 
@@ -2570,7 +2604,7 @@ Sofern kein überwiegendes Privatinteresse entgegensteht, dürfen Daten im Einze
 - d. Betreibungsämter, nach den Artikeln 91, 163 und 222 des Bundesgesetzes vom 11. April 1889[^86a-3] über Schuldbetreibung und Konkurs;
 - e. Steuerbehörden, wenn sie sich auf die Ausrichtung von Leistungen der beruflichen Vorsorge beziehen und für die Anwendung der Steuergesetze erforderlich sind;
 - f.[^86a-4] die Kindes- und Erwachsenenschutzbehörden nach Artikel 448 Absatz 4 ZGB[^86a-5];
-- [tab] g.[^86a-6] …
+- g.[^86a-6] …
 
 <sup>2</sup>
 
@@ -2583,7 +2617,7 @@ Sofern kein überwiegendes Privatinteresse entgegensteht, dürfen Daten bekannt 
 - d. Organe der Bundesstatistik, nach dem Bundesstatistikgesetz vom 9. Oktober 1992[^86a-9];
 - e. Strafuntersuchungsbehörden, wenn es die Anzeige oder die Abwendung eines Verbrechens erfordert;
 - f.[^86a-10] die IV-Stelle zur Früherfassung nach Artikel 3*b* IVG[^86a-11] oder im Rahmen der interinstitutionellen Zusammenarbeit nach Artikel 68<sup>bis</sup> IVG und an die privaten Versicherungseinrichtungen nach Artikel 68<sup>bis</sup> Absatz 1 Buchstabe b IVG;
-- [tab] g.[^86a-12] den Nachrichtendienst des Bundes (NDB) oder die Sicherheitsorgane der Kantone zuhanden des NDB, wenn eine konkrete Bedrohung der inneren oder äusseren Sicherheit nach Artikel 19 Absatz 2 des Nachrichtendienstgesetzes vom 25. September 2015[^86a-13] gegeben ist.
+- g.[^86a-12] den Nachrichtendienst des Bundes (NDB) oder die Sicherheitsorgane der Kantone zuhanden des NDB, wenn eine konkrete Bedrohung der inneren oder äusseren Sicherheit nach Artikel 19 Absatz 2 des Nachrichtendienstgesetzes vom 25. September 2015[^86a-13] gegeben ist.
 
 <sup>3</sup> Daten dürfen auch der zuständigen Steuerbehörde im Rahmen des Meldeverfahrens nach Artikel 19 des Bundesgesetzes vom 13. Oktober 1965[^86a-14] über die Verrechnungssteuer bekannt gegeben werden.
 

@@ -4,11 +4,11 @@ title: "Loi fédérale du 25 juin 1982 sur la prévoyance professionnelle vieill
 short: LPP
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/797_797_797"
 language: fr
-version: 2024-01-01
+version: 2024-07-01
 adopted: 1982-06-25
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20240101-fr-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20240701-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20240101/fr"
 
 (LPP)
 
-du 25 juin 1982 (État le 1<sup>er</sup> janvier 2024)
+du 25 juin 1982 (État le 1<sup>er</sup> juillet 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -1608,13 +1608,14 @@ Le fonds de garantie assume les tâches suivantes:
 - d.[^56-4] il dédommage l’institution supplétive des frais dus aux activités exercées conformément aux art. 11, al. 3<sup>bis</sup> et 60, al. 2, de la présente loi et 4, al. 2, LFLP qui ne peuvent être répercutés sur l’auteur du dommage;
 - e. il couvre, en cas de liquidation totale ou partielle survenant pendant les cinq années qui suivent l’entrée en vigueur de la LFLP, le défaut de capital de couverture qui résulte de l’application de cette loi;
 - f.[^56-5] il fait office de Centrale du 2<sup>e</sup> pilier pour la coordination, la transmission et le stockage d’informations relatives aux avoirs de prévoyance, conformément aux art. 24*a* à 24*f* LFLP;
-- g.[^56-6] il est, pour l’application de l’art. 89*a*, l’organisme de liaison dans les relations avec les États membres de la Communauté européenne[^56-7] et de l’Association européenne de libre-échange; le Conseil fédéral édicte les dispositions d’exécution;
-- h.[^56-8] il dédommage la caisse de compensation de l’AVS des frais dus aux activités exercées en vertu de l’art. 11 et qui ne peuvent être répercutés sur l’em-ployeur responsable;
-- i.[^56-9] il prélève auprès des institutions de prévoyance la taxe annuelle visée à l’art. 64*c*, al. 1, let. a, qui est perçue pour la surveillance du système et la haute surveillance exercée sur les autorités de surveillance, et la transfère, après déduction de ses frais, à la Commission de haute surveillance.
+- f<sup>bis</sup>.[^56-6] il fait office de Centrale du 2<sup>e</sup> pilier pour la coordination et la transmission d’informations relatives aux données personnelles des rentiers conformément à l’art. 58*a*;
+- g.[^56-7] il est, pour l’application de l’art. 89*a*, l’organisme de liaison dans les relations avec les États membres de la Communauté européenne[^56-8] et de l’Association européenne de libre-échange; le Conseil fédéral édicte les dispositions d’exécution;
+- h.[^56-9] il dédommage la caisse de compensation de l’AVS des frais dus aux activités exercées en vertu de l’art. 11 et qui ne peuvent être répercutés sur l’em-ployeur responsable;
+- i.[^56-10] il prélève auprès des institutions de prévoyance la taxe annuelle visée à l’art. 64*c*, al. 1, let. a, qui est perçue pour la surveillance du système et la haute surveillance exercée sur les autorités de surveillance, et la transfère, après déduction de ses frais, à la Commission de haute surveillance.
 
-<sup>2</sup> La garantie visée à l’al. 1, let. c, couvre au plus les prestations calculées sur la base d’un salaire déterminant au sens de la LAVS[^56-10] égal à une fois et demie le montant-limite supérieur prévu à l’art. 8, al. 1, de la présente loi.
+<sup>2</sup> La garantie visée à l’al. 1, let. c, couvre au plus les prestations calculées sur la base d’un salaire déterminant au sens de la LAVS[^56-11] égal à une fois et demie le montant-limite supérieur prévu à l’art. 8, al. 1, de la présente loi.
 
-<sup>3</sup> Lorsque plusieurs employeurs sans lien économique ou financier étroit entre eux ou plusieurs associations sont affiliés à une même institution de prévoyance, la caisse de pensions insolvable de chaque employeur ou association est traitée en règle générale de la même manière que les institutions de prévoyance insolvables. Il convient d’évaluer séparément l’insolvabilité des caisses de pensions affiliées. Le Conseil fédéral fixe les modalités d’application.[^56-11]
+<sup>3</sup> Lorsque plusieurs employeurs sans lien économique ou financier étroit entre eux ou plusieurs associations sont affiliés à une même institution de prévoyance, la caisse de pensions insolvable de chaque employeur ou association est traitée en règle générale de la même manière que les institutions de prévoyance insolvables. Il convient d’évaluer séparément l’insolvabilité des caisses de pensions affiliées. Le Conseil fédéral fixe les modalités d’application.[^56-12]
 
 <sup>4</sup> Le Conseil fédéral définit les conditions préalables auxquelles est subordonné le versement des prestations.
 
@@ -1627,12 +1628,13 @@ Le fonds de garantie assume les tâches suivantes:
 [^56-3]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
 [^56-4]: Nouvelle teneur selon le ch. I de la LF du 20 déc. 2006 (Changement d’institution de prévoyance), en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [FF 2005 5571](https://fedlex.data.admin.ch/eli/fga/2005/954)[5583](https://fedlex.data.admin.ch/eli/fga/2005/956)).
 [^56-5]: Introduite par le ch. II 1 de la LF du 18 déc. 1998, en vigueur depuis le 1<sup>er</sup> mai 1999 ([RO 1999 1384](https://fedlex.data.admin.ch/eli/oc/1999/199); FF **1998** 4873).
-[^56-6]: Introduite par le ch. I 7 de la LF du 8 oct. 1999 (Ac. sur la libre circulation des personnes; [RO 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [FF 1999 5440](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)). Nouvelle teneur selon le ch. I 6 de la LF du 14 déc. 2001 (Ac. amendant la Conv. instituant l’AELE), en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [FF 2001 4729](https://fedlex.data.admin.ch/eli/fga/2001/845)).
-[^56-7]: Actuellement Union européenne.
-[^56-8]: Introduite par le ch. I de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^56-9]: Introduite par l’annexe ch. 5 de la LF du 17 juin 2022 (Modernisation de la surveillance), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^56-10]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^56-11]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2010 (Financement des institutions de prévoyance de corporations de droit public), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [FF 2008 7619](https://fedlex.data.admin.ch/eli/fga/2008/1439))
+[^56-6]: Introduite par l’annexe ch. 5 de la LF du 17 juin 2022 (Modernisation de la surveillance), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^56-7]: Introduite par le ch. I 7 de la LF du 8 oct. 1999 (Ac. sur la libre circulation des personnes; [RO 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [FF 1999 5440](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)). Nouvelle teneur selon le ch. I 6 de la LF du 14 déc. 2001 (Ac. amendant la Conv. instituant l’AELE), en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [FF 2001 4729](https://fedlex.data.admin.ch/eli/fga/2001/845)).
+[^56-8]: Actuellement Union européenne.
+[^56-9]: Introduite par le ch. I de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^56-10]: Introduite par l’annexe ch. 5 de la LF du 17 juin 2022 (Modernisation de la surveillance), en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^56-11]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^56-12]: Nouvelle teneur selon le ch. I de la LF du 17 déc. 2010 (Financement des institutions de prévoyance de corporations de droit public), en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [FF 2008 7619](https://fedlex.data.admin.ch/eli/fga/2008/1439))
 
 #### Art. 56a
 
@@ -1675,6 +1677,30 @@ Les indépendants ne seront pris en considération, pour le calcul des subsides,
 - a. dans l’année qui suit l’entrée en vigueur de la présente loi ou le début de leur activité indépendante, ou
 - b. sitôt après avoir été soumis à l’assurance obligatoire pendant au moins six mois.
 
+#### Art. 58a
+
+**Échange d’informations entre les institutions de prévoyance et la Centrale de compensation de l’AVS**[^58a-1]
+
+<sup>1</sup> Pour établir le droit aux prestations des rentiers et pour calculer les réserves, les institutions de prévoyance peuvent adresser leurs demandes d’information à la Centrale de compensation de l’AVS par l’intermédiaire de la Centrale du 2<sup>e</sup> pilier. Celle-ci transmet ces demandes à la Centrale de compensation de l’AVS.
+
+<sup>2</sup>
+
+La Centrale de compensation de l’AVS fournit à la Centrale du 2<sup>e</sup> pilier les données suivantes, dans la mesure où elles sont disponibles dans les registres centraux ou dans une base de données distincte:
+
+- a. le nom de la caisse de compensation AVS qui verse la rente;
+- b. la date de décès du rentier;
+- c. l’état civil du rentier;
+- d. la date de naissance et le numéro AVS du conjoint ou du partenaire enregistré du rentier;
+- e. l’état civil du conjoint survivant ou du partenaire enregistré survivant;
+- f. l’adresse du rentier;
+- g. l’adresse d’éventuels survivants;
+- h. la date du dernier certificat de vie;
+- i. les rentes pour enfant et les rentes d’orphelin versées.
+
+<sup>3</sup> La Centrale du deuxième pilier transmet la réponse de la Centrale de compensation de l’AVS aux institutions de prévoyance requérantes.
+
+[^58a-1]: Introduit par l’annexe ch. 5 de la LF du 17 juin 2022 (Modernisation de la surveillance), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+
 #### Art. 59
 
 **Financement**[^59-1]
@@ -1683,13 +1709,21 @@ Les indépendants ne seront pris en considération, pour le calcul des subsides,
 
 <sup>2</sup> Le Conseil fédéral fixe les modalités d’application.
 
-<sup>3</sup> Il règle le financement des tâches assumées par le fonds de garantie conformément à l’art. 56, al. 1, let. f.[^59-2]
+<sup>3</sup> Il règle le financement des tâches assumées par le fonds de garantie conformément à l’art. 56, al. 1, let. f et f<sup>bis</sup>.[^59-2]
 
 <sup>4</sup> Pour combler des manques de liquidités en relation avec le financement des prestations d’insolvabilité au sens de l’art. 56, al. 1, let. b, c et d, la Confédération peut octroyer au fonds de garantie des prêts aux conditions du marché. L’octroi de ces prêts peut être soumis à des conditions.[^59-3]
 
 [^59-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 1996, en vigueur depuis le 1<sup>er</sup> juil. 1998 ([RO 1996 3067](https://fedlex.data.admin.ch/eli/oc/1996/3067_3067_3067), [1998 1573](https://fedlex.data.admin.ch/eli/oc/1998/1573_1573_1573); [FF 1996 I 516](https://fedlex.data.admin.ch/eli/fga/1996/1_564_516_493)533).
-[^59-2]: Introduit par le ch. II 1 de la LF du 18 déc. 1998, en vigueur depuis le 1<sup>er</sup> mai 1999 ([RO 1999 1384](https://fedlex.data.admin.ch/eli/oc/1999/199); FF **1998** 4873).
+[^59-2]: Introduit par le ch. II 1 de la LF du 18 déc. 1998 ([RO 1999 1384](https://fedlex.data.admin.ch/eli/oc/1999/199); FF **1998** 4873). Nouvelle teneur selon l’annexe ch. 5 de la LF du 17 juin 2022 (Modernisation de la surveillance), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^59-3]: Introduit par le ch. I de la LF du 3 oct. 2003 (1<sup>re</sup> révision LPP), en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2495](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+
+#### Art. 59a
+
+**Versements à la Centrale de compensation de l’AVS**[^59a-1]
+
+Le fonds de garantie verse à la Centrale de compensation de l’AVS une contribution couvrant les coûts qui résultent pour elle des tâches prévues à l’art. 58*a*. Le Conseil fédéral règle les modalités.
+
+[^59a-1]: Introduit par l’annexe ch. 5 de la LF du 17 juin 2022 (Modernisation de la surveillance), en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 ### Chapitre 3 Institution supplétive
 
@@ -1860,7 +1894,7 @@ L’autorité de surveillance peut au besoin:
 
 <sup>3</sup> La responsabilité de la Confédération n’est engagée pour les actes de la Commission de haute surveillance et de son secrétariat que si des devoirs de fonction essentiels ont été violés et que les dommages ne résultent pas d’une violation des obligations d’un assujetti visé à l’art. 64*a*.
 
-- [tab] <sup>4</sup> Au surplus, la loi du 14 mars 1958 sur la responsabilité[^64-2] est applicable.
+<sup>4</sup> Au surplus, la loi du 14 mars 1958 sur la responsabilité[^64-2] est applicable.
 
 [^64-1]: Nouvelle teneur selon le ch. I de la LF du 19 mars 2010 (Réforme structurelle), en vigueur depuis le 1<sup>er</sup> janv. 2012, sauf l’al. 1, en vigueur depuis le 1<sup>er</sup> août 2011 ([RO 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5381](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^64-2]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
@@ -2573,7 +2607,7 @@ Dans la mesure où aucun intérêt privé prépondérant ne s’y oppose, des do
 - d. aux offices des poursuites, conformément aux art. 91, 163 et 222 de la loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite[^86a-3];
 - e. aux autorités fiscales, lorsqu’elles se rapportent au versement des prestations de la prévoyance professionnelle et qu’elles sont nécessaires à l’application des lois fiscales.
 - f.[^86a-4] aux autorités de protection de l’enfant et de l’adulte visées à l’art. 448, al. 4, CC[^86a-5];
-- [tab] g.[^86a-6] …
+- g.[^86a-6] …
 
 <sup>2</sup>
 
@@ -2581,7 +2615,7 @@ Dans la mesure où aucun intérêt privé prépondérant ne s’y oppose, des do
 
 - a. à d’autres organes chargés d’appliquer la présente loi ou d’en contrôler ou surveiller l’exécution, lorsqu’elles sont nécessaires à l’accomplissement des tâches que leur assigne cette loi;
 - b. aux organes d’une autre assurance sociale, lorsque l’obligation de les communiquer résulte d’une loi fédérale;
-- [tab] b<sup>bis</sup>.[^86a-7] aux organes d’une autre assurance sociale, en vue d’attribuer ou de vérifier le numéro AVS;
+- b<sup>bis</sup>.[^86a-7] aux organes d’une autre assurance sociale, en vue d’attribuer ou de vérifier le numéro AVS;
 - c. aux autorités compétentes en matière d’impôt à la source, conformément aux art. 88 et 100 de la loi fédérale du 14 décembre 1990 sur l’impôt fédéral direct[^86a-8] et aux dispositions cantonales correspondantes;
 - d. aux organes de la statistique fédérale, conformément à la loi du 9 octobre 1992 sur la statistique fédérale[^86a-9];
 - e. aux autorités d’instruction pénale lorsqu’il s’agit de dénoncer ou de prévenir un crime;

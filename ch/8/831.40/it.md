@@ -4,11 +4,11 @@ title: "Legge federale del 25 giugno 1982 sulla previdenza professionale per la 
 short: LPP
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/797_797_797"
 language: it
-version: 2024-01-01
+version: 2024-07-01
 adopted: 1982-06-25
 in_force: 1985-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20240101-it-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/797_797_797/20240701/it/xml/fedlex-data-admin-ch-eli-cc-1983-797_797_797-20240701-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/797_797_797/20240101/it"
 
 (LPP)
 
-del 25 giugno 1982 (Stato 1° gennaio 2024)
+del 25 giugno 1982 (Stato 1° luglio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -157,7 +157,7 @@ Fatto salvo l’articolo 8 capoverso 3, l’obbligo assicurativo finisce quando:
 <sup>3</sup> Per i rischi morte e invalidità il salariato resta assicurato presso il suo istituto di previdenza durante un mese dopo lo scioglimento del rapporto di previdenza.[^10-5] Se esisteva in precedenza un rapporto di previdenza, è competente il nuovo istituto di previdenza.[^10-6]
 
 [^10-1]: Nuovo testo giusta l’art. 117*a* della LF del 25 giu. 1982 sull’assicurazione contro la disoccupazione, in vigore dal 1° lug. 1997 ([RU 1982 2184](https://fedlex.data.admin.ch/eli/oc/1982/2184_2184_2184); [FF 1980 III 469](https://fedlex.data.admin.ch/eli/fga/1980/3_489_485_469)).
-[^10-2]: Nuova espr. giusta l’all. n. 4 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^10-2]: Nuova espressione giusta l’all. n. 4 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 [^10-3]: Nuovo testo giusta il n. I della LF del 19 mar. 2010 (Riforma strutturale), in vigore dal 1° gen. 2012 ([RU 2011 3393](https://fedlex.data.admin.ch/eli/oc/2011/458); [FF 2007 5199](https://fedlex.data.admin.ch/eli/fga/2007/788)).
 [^10-4]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^10-5]: Nuovo testo giusta l’all. n. 3 della L del 17 dic. 1993 sul libero passaggio, in vigore dal 1° gen. 1995 ([RU 1994 2386](https://fedlex.data.admin.ch/eli/oc/1994/2386_2386_2386); [FF 1992 III 477](https://fedlex.data.admin.ch/eli/fga/1992/3_533_529_477)).
@@ -743,7 +743,7 @@ Fanno parte della generazione d’entrata le persone che, al momento in cui entr
 
 <sup>3</sup> La parità dei contributi di cui all’articolo 66 capoverso 1 della presente legge e all’articolo 331 capoverso 3 CO[^33a-2] non è applicabile ai contributi destinati al mantenimento della previdenza al livello del precedente guadagno assicurato. Il regolamento può prevedere contributi del datore di lavoro destinati al mantenimento della previdenza al livello del precedente guadagno assicurato soltanto con il consenso del datore di lavoro.
 
-[^33a-1]: Nuova espr. giusta l’all. n. 4 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
+[^33a-1]: Nuova espressione giusta l’all. n. 4 della LF del 17 dic. 2021 (AVS 21), in vigore dal 1° gen. 2024 ([RU 2023 92](https://fedlex.data.admin.ch/eli/oc/2023/92); [FF 2019 5179](https://fedlex.data.admin.ch/eli/fga/2019/2267)).
 [^33a-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 #### Art. 33b
@@ -1046,7 +1046,7 @@ Un istituto di previdenza è radiato dal registro se:
 
 [^48-1]: Nuovo testo giusta l’all. n. 9 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^48-2]: Nuovo testo giusta il n. I della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), in vigore dal 1° gen. 2014 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457), [2013 2253](https://fedlex.data.admin.ch/eli/oc/2013/470); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
-[^48-3]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^48-3]: Introdotto dal n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
 [^48-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^48-5]: Introdotto dall’all. n. 9 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 
@@ -1091,8 +1091,8 @@ Se un istituto di previdenza concede prestazioni superiori a quelle minime, alla
 - 23\. le disposizioni penali (art. 75–79);
 - 24\. il riscatto (art. 79*b*);
 - 25\. il salario assicurabile e il reddito assicurabile (art. 79*c*);
-- [tab] 25*a*.[^49-24] il trattamento dei dati per assegnare o verificare il numero d’assicurato dell’AVS (art. 85*a* lett. f);
-- [tab] 25*b*.[^49-25] la comunicazione dei dati per assegnare o verificare il numero d’assicurato dell’AVS (art. 86*a* cpv. 2 lett. b<sup>bis</sup>);
+- 25*a*.[^49-24] il trattamento dei dati per assegnare o verificare il numero d’assicurato dell’AVS (art. 85*a* lett. f);
+- 25*b*.[^49-25] la comunicazione dei dati per assegnare o verificare il numero d’assicurato dell’AVS (art. 86*a* cpv. 2 lett. b<sup>bis</sup>);
 - 26\. l’informazione degli assicurati (art. 86*b*).
 
 [^49-1]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° apr. 2004 per il cpv. 2 n. 7 a 9, 12 a 14, 16 (ad accezione dell’art. 66, cpv. 4), 17, 19 a 23 e 26, dal 1° gen. 2005 per i cpv. 1 e 2 n. 3 a 6, 10, 11, 15, 16 (art. 66 cpv. 4), 18, dal 1° gen. 2006 per il cpv. 2 n. 1, 24 e 25 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
@@ -1611,13 +1611,14 @@ Il fondo di garanzia:
 - d.[^56-4] indennizza l’istituto collettore per le spese della sua attività giusta gli articoli 11 capoverso 3<sup>bis</sup> e 60 capoverso 2 della presente legge, nonché 4 capoverso 2 LFLP e che non possono essere addossate a chi le ha causate;
 - e. copre, in caso di liquidazione totale o parziale durante i cinque anni che seguono l’entrata in vigore della LFLP, l’ammanco di capitale di copertura risultante dall’applicazione di tale legge;
 - f.[^56-5] funge da Ufficio centrale del 2° pilastro per il coordinamento, la trasmissione e la conservazione dei dati conformemente agli articoli 24*a*–24*f* LFLP;
-- g.[^56-6] assume, per l’applicazione dell’articolo 89*a*, il compito di organismo di collegamento con gli Stati membri della Comunità europea[^56-7] o dell’Associazione europea di libero scambio. Il Consiglio federale emana le disposizioni d’esecuzione;
-- h.[^56-8] indennizza la cassa di compensazione dell’AVS per le spese che le derivano dal suo operato secondo l’articolo 11 e che non possono essere riversate su chi le ha causate;
-- i.[^56-9] riscuote presso gli istituti di previdenza la tassa di vigilanza annuale per la vigilanza sistemica e l’alta vigilanza sulle autorità di vigilanza secondo l’articolo 64*c* capoverso 1 lettera a e la trasferisce, previa deduzione di un importo a copertura delle proprie spese, alla Commissione di alta vigilanza.
+- f<sup>bis</sup>.[^56-6] funge da Ufficio centrale del 2° pilastro per il coordinamento e la trasmissione di informazioni riguardanti i dati personali dei beneficiari di rendite conformemente all’articolo 58*a*;
+- g.[^56-7] assume, per l’applicazione dell’articolo 89*a*, il compito di organismo di collegamento con gli Stati membri della Comunità europea[^56-8] o dell’Associazione europea di libero scambio. Il Consiglio federale emana le disposizioni d’esecuzione;
+- h.[^56-9] indennizza la cassa di compensazione dell’AVS per le spese che le derivano dal suo operato secondo l’articolo 11 e che non possono essere riversate su chi le ha causate;
+- i.[^56-10] riscuote presso gli istituti di previdenza la tassa di vigilanza annuale per la vigilanza sistemica e l’alta vigilanza sulle autorità di vigilanza secondo l’articolo 64*c* capoverso 1 lettera a e la trasferisce, previa deduzione di un importo a copertura delle proprie spese, alla Commissione di alta vigilanza.
 
-<sup>2</sup> Le garanzie di cui al capoverso 1 lettera c comprendono al massimo le prestazioni calcolate sulla base di un salario determinante secondo la LAVS[^56-10], pari a una volta e mezza l’importo limite superiore giusta l’articolo 8 capoverso 1 della presente legge.[^56-11]
+<sup>2</sup> Le garanzie di cui al capoverso 1 lettera c comprendono al massimo le prestazioni calcolate sulla base di un salario determinante secondo la LAVS[^56-11], pari a una volta e mezza l’importo limite superiore giusta l’articolo 8 capoverso 1 della presente legge.[^56-12]
 
-<sup>3</sup> Se più datori di lavoro che non hanno fra loro strette relazioni economiche o finanziarie o più associazioni sono affiliati al medesimo istituto di previdenza, la cassa pensioni insolvibile di ciascun datore di lavoro o di ciascuna associazione è in linea di massima parificata agli istituti di previdenza insolvibili. L’insolvibilità delle casse pensioni affiliate è valutata singolarmente. Il Consiglio federale disciplina i dettagli.[^56-12]
+<sup>3</sup> Se più datori di lavoro che non hanno fra loro strette relazioni economiche o finanziarie o più associazioni sono affiliati al medesimo istituto di previdenza, la cassa pensioni insolvibile di ciascun datore di lavoro o di ciascuna associazione è in linea di massima parificata agli istituti di previdenza insolvibili. L’insolvibilità delle casse pensioni affiliate è valutata singolarmente. Il Consiglio federale disciplina i dettagli.[^56-13]
 
 <sup>4</sup> Il Consiglio federale disciplina i presupposti per le prestazioni.
 
@@ -1630,13 +1631,14 @@ Il fondo di garanzia:
 [^56-3]: [RS 831.42](https://fedlex.data.admin.ch/eli/cc/1994/2386_2386_2386)
 [^56-4]: Nuovo testo giusta il n. I della LF del 20 dic. 2006 (Cambiamento dell’istituto di previdenza), in vigore dal 1° mag. 2007 ([RU 2007 1803](https://fedlex.data.admin.ch/eli/oc/2007/263); [FF 2005 5283](https://fedlex.data.admin.ch/eli/fga/2005/954)[5295](https://fedlex.data.admin.ch/eli/fga/2005/956)).
 [^56-5]: Introdotta dal n. II 1 della LF del 18 dic. 1998, in vigore dal 1° mag. 1999 ([RU 1999 1384](https://fedlex.data.admin.ch/eli/oc/1999/199); FF **1998** 4409).
-[^56-6]: Introdotta dal n. I 7 della LF dell’8 ott. 1999 concernente l’Acc. tra la Confederazione Svizzera da una parte e la CE ed i suoi Stati membri dall’altra, sulla libera circolazione delle persone ([RU 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [FF 1999 5092](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)). Nuovo testo giusta il n. I 6 della LF del 14 dic. 2001 relativa alle disposizioni concernenti la libera circolazione delle persone dell’Acc. di emendamento della Conv. istitutiva dell’AELS, in vigore dal 1° giu. 2002 ([RU 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [FF 2001 4435](https://fedlex.data.admin.ch/eli/fga/2001/845)).
-[^56-7]: Ora: Unione europea
-[^56-8]: Introdotta dal n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^56-9]: Introdotta dall’all. n. 5 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
-[^56-10]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^56-11]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
-[^56-12]: Nuovo testo giusta il n. I della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), in vigore dal 1° gen. 2012 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
+[^56-6]: Introdotta dall’all. n. 5 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° lug. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^56-7]: Introdotta dal n. I 7 della LF dell’8 ott. 1999 concernente l’Acc. tra la Confederazione Svizzera da una parte e la CE ed i suoi Stati membri dall’altra, sulla libera circolazione delle persone ([RU 2002 701](https://fedlex.data.admin.ch/eli/oc/2002/140); [FF 1999 5092](https://fedlex.data.admin.ch/eli/fga/1999/1_6128_5440_5092)). Nuovo testo giusta il n. I 6 della LF del 14 dic. 2001 relativa alle disposizioni concernenti la libera circolazione delle persone dell’Acc. di emendamento della Conv. istitutiva dell’AELS, in vigore dal 1° giu. 2002 ([RU 2002 685](https://fedlex.data.admin.ch/eli/oc/2002/139); [FF 2001 4435](https://fedlex.data.admin.ch/eli/fga/2001/845)).
+[^56-8]: Ora: Unione europea
+[^56-9]: Introdotta dal n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^56-10]: Introdotta dall’all. n. 5 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° gen. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+[^56-11]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^56-12]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+[^56-13]: Nuovo testo giusta il n. I della LF del 17 dic. 2010 (Finanziamento degli istituti di previdenza degli enti di diritto pubblico), in vigore dal 1° gen. 2012 ([RU 2011 3385](https://fedlex.data.admin.ch/eli/oc/2011/457); [FF 2008 7339](https://fedlex.data.admin.ch/eli/fga/2008/1439)).
 
 #### Art. 56a
 
@@ -1679,6 +1681,30 @@ Per il calcolo delle sovvenzioni, è tenuto conto degli indipendenti soltanto se
 - a. nell’anno successivo all’entrata in vigore della legge o all’assunzione dell’attività lucrativa indipendente;
 - b. immediatamente dopo essere stati sottoposti per almeno sei mesi all’assicurazione obbligatoria.
 
+#### Art. 58a
+
+**Scambio di informazioni tra gli istituti di previdenza e l’Ufficio centrale di compensazione dell’AVS**[^58a-1]
+
+<sup>1</sup> Per determinare il diritto a prestazioni dei beneficiari di rendite e per calcolare le riserve, gli istituti di previdenza possono presentare richieste all’Ufficio centrale di compensazione dell’AVS tramite l’Ufficio centrale del 2° pilastro. L’Ufficio centrale del 2° pilastro inoltra le richieste all’Ufficio centrale di compensazione dell’AVS.
+
+<sup>2</sup>
+
+L’Ufficio centrale di compensazione dell’AVS fornisce all’Ufficio centrale del 2° pilastro i dati seguenti, per quanto siano contenuti nei registri centrali o in una propria banca dati:
+
+- a. il nome della cassa di compensazione dell’AVS che versa la rendita;
+- b. la data del decesso del beneficiario della rendita;
+- c. lo stato civile del beneficiario della rendita;
+- d. la data di nascita e il numero AVS del coniuge o del partner registrato del beneficiario della rendita;
+- e. lo stato civile del coniuge superstite o del partner registrato superstite;
+- f. l’indirizzo del beneficiario della rendita;
+- g. l’indirizzo di eventuali superstiti;
+- h. la data dell’ultimo certificato di vita;
+- i. le rendite per figli e per orfani versate.
+
+<sup>3</sup> L’Ufficio centrale del 2° pilastro inoltra la risposta dell’Ufficio centrale di compensazione dell’AVS agli istituti di previdenza richiedenti.
+
+[^58a-1]: Introdotto dall’all. n. 5 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° lug. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
+
 #### Art. 59
 
 **Finanziamento**[^59-1]
@@ -1687,13 +1713,21 @@ Per il calcolo delle sovvenzioni, è tenuto conto degli indipendenti soltanto se
 
 <sup>2</sup> IL Consiglio federale disciplina i dettagli.
 
-<sup>3</sup> Il Consiglio federale disciplina il finanziamento dei compiti assunti dal fondo di garanzia conformemente all’articolo 56 capoverso 1 lettera f.[^59-2]
+<sup>3</sup> Il Consiglio federale disciplina il finanziamento dei compiti assunti dal fondo di garanzia conformemente all’articolo 56 capoverso 1 lettere f e f<sup>bis</sup>.[^59-2]
 
 <sup>4</sup> In caso di mancanza di liquidità per finanziare le prestazioni d’insolvibilità ai sensi dell’articolo 56 capoverso 1 lettere b, c e d, la Confederazione può concedere al fondo di garanzia prestiti alle condizioni di mercato. La concessione di tali prestiti può essere vincolata a condizioni.[^59-3]
 
 [^59-1]: Nuovo testo giusta il n. I della LF del 21 giu. 1996, in vigore dal 1° lug. 1998 ([RU 1996 3067](https://fedlex.data.admin.ch/eli/oc/1996/3067_3067_3067)[1998 1573](https://fedlex.data.admin.ch/eli/oc/1998/1573_1573_1573); [FF 1996 I 493](https://fedlex.data.admin.ch/eli/fga/1996/1_564_516_493)509).
-[^59-2]: Introdotto dal n. II 1 della LF del 18 dic. 1998, in vigore dal 1° mag. 1999 ([RU 1999 1384](https://fedlex.data.admin.ch/eli/oc/1999/199); FF **1998** 4409).
+[^59-2]: Introdotto dal n. II 1 della LF del 18 dic. 1998 ([RU 1999 1384](https://fedlex.data.admin.ch/eli/oc/1999/199); FF **1998** 4409). Nuovo testo giusta l’all. n. 5 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° lug. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 [^59-3]: Introdotto dal n. I della LF del 3 ott. 2003 (1<sup>a</sup> revisione della LPP), in vigore dal 1° gen. 2005 ([RU 2004 1677](https://fedlex.data.admin.ch/eli/oc/2004/207); [FF 2000 2341](https://fedlex.data.admin.ch/eli/fga/2000/555)).
+
+#### Art. 59a
+
+**Versamenti all’Ufficio centrale di compensazione dell’AVS**[^59a-1]
+
+Il fondo di garanzia versa all’Ufficio centrale di compensazione dell’AVS un contributo a copertura delle spese derivanti dallo svolgimento dei compiti secondo l’articolo 58*a*. Il Consiglio federale disciplina i dettagli.
+
+[^59a-1]: Introdotto dall’all. n. 5 della LF del 17 giu. 2022 (Modernizzazione della vigilanza), in vigore dal 1° lug. 2024 ([RU 2023 688](https://fedlex.data.admin.ch/eli/oc/2023/688); [FF 2020 1](https://fedlex.data.admin.ch/eli/fga/2020/1)).
 
 ### Capitolo 3: Istituto collettore
 
@@ -2591,7 +2625,7 @@ Purché nessun interesse privato preponderante vi si opponga, i dati possono ess
 
 - a. ad altri organi incaricati di applicare la presente legge, nonché di controllarne o sorvegliarne l’esecuzione, qualora ne necessitino per adempiere gli obblighi conferiti loro dalla presente legge;
 - b. agli organi di altre assicurazioni sociali, qualora l’obbligo di comunicazione sia sancito da una legge federale;
-- [tab] b<sup>bis</sup>.[^86a-7] agli organi di un’altra assicurazione sociale per assegnare o verificare il numero d’assicurato dell’AVS;
+- b<sup>bis</sup>.[^86a-7] agli organi di un’altra assicurazione sociale per assegnare o verificare il numero d’assicurato dell’AVS;
 - c. alle autorità competenti per l’imposta alla fonte, conformemente agli articoli 88 e 100 della legge federale del 14 dicembre 1990[^86a-8] sull’imposta federale diretta, nonché alle rispettive disposizioni cantonali;
 - d. agli organi della statistica federale, conformemente alla legge federale del 9 ottobre 1992[^86a-9] sulla statistica federale;
 - e. alle autorità istruttorie penali, qualora ne necessitino per denunciare o impedire un crimine;
