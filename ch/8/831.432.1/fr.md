@@ -4,11 +4,11 @@ title: Ordonnance du 22 juin 1998 sur le «fonds de garantie LPP» (OFG)
 short: OFG
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/1662_1662_1662"
 language: fr
-version: 2024-01-01
+version: 2024-07-01
 adopted: 1998-06-22
 in_force: 1998-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1662_1662_1662/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1998-1662_1662_1662-20240101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/1662_1662_1662/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1662_1662_1662/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-1998-1662_1662_1662-20240701-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/1662_1662_1662/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/1662_1662_1662/20240101/fr"
 
 (OFG)
 
-du 22 juin 1998 (État le 1<sup>er</sup> janvier 2024)
+du 22 juin 1998 (État le 1<sup>er</sup> juillet 2024)
 
 Le Conseil fédéral suisse,
 
@@ -142,12 +142,21 @@ Le fonds de garantie est financé par les cotisations annuelles des institutions
 
 **Financement de la Centrale du 2<sup>e</sup> pilier**[^12a-1]
 
-<sup>1</sup> Le fonds de garantie finance la Centrale du 2<sup>e</sup> pilier (art. 56, al. 1, let. f, LPP) au moyen des avoirs déposés sur des comptes ou des polices de libre passage au sens de l’art. 10 de l’ordonnance du 3 octobre 1994 sur le libre passage[^12a-2] et qui ont été transférés au fonds de garantie conformément à l’art. 41, al. 3 et 4, LPP.
+<sup>1</sup> Le fonds de garantie finance la Centrale du 2<sup>e</sup> pilier (art. 56, al.1, let. f et f<sup>bis</sup>, LPP) au moyen des avoirs déposés sur des comptes ou des polices de libre passage au sens de l’art. 10 de l’ordonnance du 3 octobre 1994 sur le libre passage[^12a-2] et qui ont été transférés au fonds de garantie conformément à l’art. 41, al. 3 et 4, LPP.[^12a-3]
 
 <sup>2</sup> Si ces avoirs ne suffisent pas, le financement s’effectue selon l’art. 12.
 
 [^12a-1]: Introduit par l’annexe ch. 2 de l’O du 18 août 2004, en vigueur depuis le 1<sup>er</sup> janv. 2005 ([RO 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 [^12a-2]: [RS 831.425](https://fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399)
+[^12a-3]: Nouvelle teneur selon l’annexe ch. 4 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
+#### Art. 12b
+
+**Versements à la Centrale de compensation de l’AVS**[^12b-1]
+
+Le fonds de garantie indemnise chaque année la Centrale de compensation de l’AVS pour les frais qui résultent pour elle des recherches de données personnelles de rentiers, de la transmission de ces informations et de l’utilisation du système informatique par la Centrale du 2<sup>e</sup> pilier.
+
+[^12b-1]: Introduit par l’annexe ch. 4 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 13
 
@@ -169,12 +178,12 @@ Sont financés par les cotisations des institutions de prévoyance enregistrées
 - b. les indemnités versées à l’institution supplétive pour le contrôle de la réaffiliation à une institution de prévoyance (art. 56, al. 1, let. d, LPP);
 - c. les indemnités versées aux caisses de compensation AVS (art. 56, al. 1, let. h, LPP).
 
-<sup>1bis</sup> Les autres prestations (art. 56, al. 1, let. b, c, d, e, f, g et i, LPP) sont financées par les cotisations de l’ensemble des institutions de prévoyance soumises à la LFLP.[^14-2]
+<sup>1bis</sup> Les autres prestations (art. 56, al. 1, let. b, c, d, e, f, f<sup>bis</sup>, g et i, LPP) sont financées par les cotisations de l’ensemble des institutions de prévoyance soumises à la LFLP.[^14-2]
 
 <sup>2</sup> Les bases de calcul des cotisations sont fixées pour l’année civile pour laquelle celles-ci sont effectivement dues.
 
 [^14-1]: Nouvelle teneur selon l’annexe ch. 1 de l’O des 10 et 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
-[^14-2]: Introduit par l’annexe ch. 1 de l’O des 10 et 22 juin 2011 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)). Nouvelle teneur selon l’annexe ch. 4 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^14-2]: Introduit par l’annexe ch. 1 de l’O des 10 et 22 juin 2011 ([RO 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)). Nouvelle teneur selon l’annexe ch. 4 de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 15
 
@@ -191,7 +200,9 @@ Sont financés par les cotisations des institutions de prévoyance enregistrées
 
 **Cotisations au titre de prestations pour insolvabilité et d’autres prestations**
 
-<sup>1</sup> Le calcul des cotisations au titre de prestations pour insolvabilité et d’autres prestations se fonde sur la somme
+<sup>1</sup>
+
+Le calcul des cotisations au titre de prestations pour insolvabilité et d’autres prestations se fonde sur la somme:
 
 - a. des prestations de sortie réglementaires de tous les assurés selon l’art. 2 LFLP[^16-1] établies au 31 décembre et
 - b. des rentes, telles qu’elles apparaissent dans le compte d’exploitation, multipliées par dix.

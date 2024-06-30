@@ -4,11 +4,11 @@ title: Verordnung vom 22. Juni 1998 über den Sicherheitsfonds BVG (SFV)
 short: SFV
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/1662_1662_1662"
 language: de
-version: 2024-01-01
+version: 2024-07-01
 adopted: 1998-06-22
 in_force: 1998-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1662_1662_1662/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1998-1662_1662_1662-20240101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/1662_1662_1662/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1662_1662_1662/20240701/de/xml/fedlex-data-admin-ch-eli-cc-1998-1662_1662_1662-20240701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/1662_1662_1662/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/1662_1662_1662/20240101/de"
 
 (SFV)
 
-vom 22. Juni 1998 (Stand am 1. Januar 2024)
+vom 22. Juni 1998 (Stand am 1. Juli 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -142,12 +142,21 @@ Der Sicherheitsfonds wird mit den jährlichen Beiträgen der Vorsorgeeinrichtung
 
 **Finanzierung der Zentralstelle 2. Säule**[^12a-1]
 
-<sup>1</sup> Der Sicherheitsfonds finanziert die Zentralstelle 2. Säule (Art. 56 Abs. 1 Bst. f BVG) aus den Guthaben, welche auf Freizügigkeitskonten oder -policen nach Artikel 10 der Freizügigkeitsverordnung vom 3. Oktober 1994[^12a-2] angelegt sind und die nach Artikel 41 Abs. 3 und 4 BVG an den Sicherheitsfonds überwiesen werden.
+<sup>1</sup> Der Sicherheitsfonds finanziert die Zentralstelle 2. Säule (Art. 56 Abs. 1 Bst. f und f<sup>bis</sup> BVG) aus den Guthaben, die auf Freizügigkeitskonten oder -policen nach Artikel 10 der Freizügigkeitsverordnung vom 3. Oktober 1994[^12a-2] angelegt sind und nach Artikel 41 Absatz 3 und 4 BVG an den Sicherheitsfonds überwiesen werden.[^12a-3]
 
 <sup>2</sup> Soweit diese Guthaben nicht ausreichen, erfolgt die Finanzierung nach Artikel 12.
 
 [^12a-1]: Eingefügt durch Anhang Ziff. 2 der V vom 18. Aug. 2004, in Kraft seit 1. Jan. 2005 ([AS 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 [^12a-2]: [SR 831.425](https://fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399)
+[^12a-3]: Fassung gemäss Anhang Ziff. 4 der V vom 22. Nov. 2023, in Kraft seit 1. Juli 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
+#### Art. 12b
+
+**Zahlungen an die Zentrale Ausgleichsstelle der AHV**[^12b-1]
+
+Der Sicherheitsfonds vergütet der Zentralen Ausgleichsstelle der AHV jährlich die Kosten, die ihr für die Recherche und Lieferung von Personendaten zu Rentnerinnen und Rentnern sowie für die Nutzung des Informatiksystems durch die Zentralstelle 2. Säule entstehen.
+
+[^12b-1]: Eingefügt durch Anhang Ziff. 4 der V vom 22. Nov. 2023, in Kraft seit 1. Juli 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 13
 
@@ -169,12 +178,12 @@ Durch Beiträge der registrierten Vorsorgeeinrichtungen finanziert werden:
 - b. die Entschädigungen an die Auffangeinrichtung für die Kontrolle des Wiederanschlusses an eine Vorsorgeeinrichtung (Art. 56 Abs. 1 Bst. d BVG);
 - c. die Entschädigungen an die AHV-Ausgleichskassen (Art. 56 Abs. 1 Bst. h BVG).[^14-1]
 
-<sup>1bis</sup> Die anderen Leistungen (Art. 56 Abs. 1 Bst. b, c, d, e, f, g und i BVG) werden durch Beiträge aller Vorsorgeeinrichtungen, die dem FZG unterstellt sind, finanziert.[^14-2]
+<sup>1bis</sup> Die anderen Leistungen (Art. 56 Abs. 1 Bst. b, c, d, e, f, f<sup>bis</sup>, g und i BVG) werden durch Beiträge aller Vorsorgeeinrichtungen, die dem FZG unterstellt sind, finanziert.[^14-2]
 
 <sup>2</sup> Die Berechnungsgrundlagen für die Beiträge sind für das Kalenderjahr zu ermitteln, für welches die Beiträge geschuldet werden.
 
 [^14-1]: Fassung gemäss Anhang Ziff. 1 der V vom 10. und 22. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
-[^14-2]: Eingefügt durch Anhang Ziff. 1 der V vom 10. und 22. Juni 2011 ([AS 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)). Fassung gemäss Anhang Ziff. 4 der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^14-2]: Eingefügt durch Anhang Ziff. 1 der V vom 10. und 22. Juni 2011 ([AS 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)). Fassung gemäss Anhang Ziff. 4 der V vom 22. Nov. 2023, in Kraft seit 1. Juli 2024 ([AS 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 15
 

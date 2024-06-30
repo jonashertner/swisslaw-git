@@ -4,11 +4,11 @@ title: Ordinanza del 22 giugno 1998 sul «Fondo di garanzia LPP» (OFG)
 short: OFG
 eli: "https://fedlex.data.admin.ch/eli/cc/1998/1662_1662_1662"
 language: it
-version: 2024-01-01
+version: 2024-07-01
 adopted: 1998-06-22
 in_force: 1998-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1662_1662_1662/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1998-1662_1662_1662-20240101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1998/1662_1662_1662/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1998/1662_1662_1662/20240701/it/xml/fedlex-data-admin-ch-eli-cc-1998-1662_1662_1662-20240701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1998/1662_1662_1662/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1998/1662_1662_1662/20240101/it"
 
 (OFG)
 
-del 22 giugno 1998 (Stato 1° gennaio 2024)
+del 22 giugno 1998 (Stato 1° luglio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -140,12 +140,21 @@ Il fondo di garanzia è finanziato mediante i contributi annui degli istituti di
 
 **Finanziamento dell’Ufficio centrale del 2° pilastro**[^12a-1]
 
-<sup>1</sup> Il fondo di garanzia finanzia l’Ufficio centrale del 2° pilastro (art. 56 cpv. 1 lett. f LPP) mediante gli averi depositati su conti o polizze di libero passaggio secondo l’articolo 10 dell’ordinanza del 3 ottobre 1994[^12a-2] sul libero passaggio e trasferiti nel fondo di garanzia secondo l’articolo 41 capoversi 3 e 4 LPP.
+<sup>1</sup> Il fondo di garanzia finanzia l’Ufficio centrale del 2° pilastro (art. 56 cpv. 1 lett. f e f<sup>bis</sup> LPP) mediante gli averi depositati su conti o polizze di libero passaggio secondo l’articolo 10 dell’ordinanza del 3 ottobre 1994[^12a-2] sul libero passaggio e trasferiti nel fondo di garanzia secondo l’articolo 41 capoversi 3 e 4 LPP.[^12a-3]
 
 <sup>2</sup> Se questi averi non sono sufficienti, il finanziamento avviene secondo l’articolo 12.
 
 [^12a-1]: Introdotto dall’all. n. 2 dell’O del 18 ago. 2004, in vigore dal 1° gen. 2005 ([RU 2004 4279](https://fedlex.data.admin.ch/eli/oc/2004/644), [4653](https://fedlex.data.admin.ch/eli/oc/2004/714)).
 [^12a-2]: [RS 831.425](https://fedlex.data.admin.ch/eli/cc/1994/2399_2399_2399)
+[^12a-3]: Nuovo testo giusta l’all. n. 4 dell’O del 22 nov. 2023, in vigore dal 1° lug. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+
+#### Art. 12b
+
+**Versamenti all’Ufficio centrale di compensazione dell’AVS**[^12b-1]
+
+Il fondo di garanzia versa ogni anno un contributo all’Ufficio centrale di compensazione dell’AVS a copertura delle spese che quest’ultimo deve sostenere per la ricerca di dati personali di beneficiari di rendita, la trasmissione di queste informazioni e l’utilizzo del suo sistema informatico a tal fine da parte dell’Ufficio centrale del 2° pilastro.
+
+[^12b-1]: Introdotto dall’all. n. 4 dell’O del 22 nov. 2023, in vigore dal 1° lug. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 13
 
@@ -167,12 +176,12 @@ Sono finanziati mediante contributi degli istituti di previdenza registrati:
 - b. gli indennizzi all’istituto collettore per il controllo della riaffiliazione a un istituto di previdenza (art. 56 cpv. 1 lett. d LPP);
 - c. gli indennizzi alle casse di compensazione AVS (art. 56 cpv. 1 lett. h LPP).[^14-1]
 
-<sup>1bis</sup> Le altre prestazioni (art. 56 cpv. 1 lett. b, c, d, e, f, g e i LPP) sono finanziate mediante contributi di tutti gli istituti di previdenza assoggettati alla LFLP.[^14-2]
+<sup>1bis</sup> Le altre prestazioni (art. 56 cpv. 1 lett. b, c, d, e, f, f<sup>bis</sup>, g e i LPP) sono finanziate mediante contributi di tutti gli istituti di previdenza assoggettati alla LFLP.[^14-2]
 
 <sup>2</sup> Le basi di calcolo dei contributi sono fissati per l’anno civile per il quale i contributi sono dovuti.
 
 [^14-1]: Nuovo testo giusta l’all. n. 1 dell’O del 10 e 22 giu. 2011, in vigore dal 1° gen. 2012 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)).
-[^14-2]: Introdotto dall’all. n. 1 dell’O del 10 e 22 giu. 2011 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)). Nuovo testo giusta l’all. n. 4 dell’O del 22 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
+[^14-2]: Introdotto dall’all. n. 1 dell’O del 10 e 22 giu. 2011 ([RU 2011 3435](https://fedlex.data.admin.ch/eli/oc/2011/461)). Nuovo testo giusta l’all. n. 4 dell’O del 22 nov. 2023, in vigore dal 1° lug. 2024 ([RU 2023 750](https://fedlex.data.admin.ch/eli/oc/2023/750)).
 
 #### Art. 15
 
@@ -189,7 +198,9 @@ Sono finanziati mediante contributi degli istituti di previdenza registrati:
 
 **Contributi per prestazioni in caso d’insolvenza e per altre prestazioni**
 
-<sup>1</sup> La base di calcolo dei contributi per prestazioni in caso d’insolvenza e per altre prestazioni è la somma
+<sup>1</sup>
+
+La base di calcolo dei contributi per prestazioni in caso d’insolvenza e per altre prestazioni è la somma:
 
 - a. delle prestazioni d’uscita regolamentari di tutti gli assicurati secondo l’articolo 2 LFLP[^16-1] calcolate al 31 dicembre e
 - b. delle rendite che risultano dal conto d’esercizio moltiplicate per dieci.
@@ -348,7 +359,7 @@ Il risanamento non è più possibile quando:
 
 Il Fondo di garanzia garantisce l’importo degli averi dimenticati lasciati presso istituti di previdenza liquidati soltanto se gli assicurati dimostrano l’esistenza dell’avere presso l’istituto di previdenza liquidato.
 
-[^26a-1]: Introdotto dal n. II dell’O del 19 apr. 1999 ([RU 1999 1773](https://fedlex.data.admin.ch/eli/oc/1999/285)).
+[^26a-1]: Introdotto dal n. II dell’O del 19 apr. 1999, in vigore dal 1° mag. 1999 ([RU 1999 1773](https://fedlex.data.admin.ch/eli/oc/1999/285)).
 
 ## Capitolo 4: Disposizioni finali
 
