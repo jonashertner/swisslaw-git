@@ -4,13 +4,12 @@ number: "914.111"
 title: Verordnung über Direktzahlungen und Beiträge
 short: VDZB
 language: de
-version: 2019-05-01
-valid_until: 2024-06-30
-version_adopted: 2019-03-20
+version: 2024-07-01
+version_adopted: 2024-03-13
 adopted: 2019-03-20
 in_force: 2019-05-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/914.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2717/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3516/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,18 +18,17 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2717/pdf_file"
 
 (VDZB)
 
-Vom 20.03.2019 (Stand 01.05.2019)
+Vom 20.03.2019 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf § 7 Abs. 3 des Gesetzes über die Verwaltungsrechtspflege (Verwaltungsrechtspflegegesetz, VRPG) vom 4. Dezember 2007[^ingress-1], die §§ 40a Abs. 2 und 40b Abs. 3 des Landwirtschaftsgesetzes des Kantons Aargau (LwG AG) vom 13. Dezember 2011[^ingress-2], die §§ 14 Abs. 2, 15 Abs. 1 und 23 Abs. 1 des Dekrets über den Natur- und Landschaftsschutz (NLD) vom 26. Februar 1985[^ingress-3] sowie § 2 Abs. 1 des Dekrets über die vom Staat zu beziehenden Gebühren vom 23. November 1977[^ingress-4],
+gestützt auf § 7 Abs. 3 des Gesetzes über die Verwaltungsrechtspflege (Verwaltungsrechtspflegegesetz, VRPG) vom 4. Dezember 2007[^ingress-1], die §§ 40a Abs. 2 und 40b Abs. 3 des Landwirtschaftsgesetzes des Kantons Aargau (LwG AG) vom 13. Dezember 2011[^ingress-2] sowie die §§ 14 Abs. 2, 15 Abs. 1 und 23 Abs. 1 des Dekrets über den Natur- und Landschaftsschutz (NLD) vom 26. Februar 1985[^ingress-3],
 
 beschliesst:
 
 [^ingress-1]: SAR [271.200](https://gesetzessammlungen.ag.ch/data/271.200/de)
 [^ingress-2]: SAR [910.200](https://gesetzessammlungen.ag.ch/data/910.200/de)
 [^ingress-3]: SAR [785.110](https://gesetzessammlungen.ag.ch/data/785.110/de)
-[^ingress-4]: SAR [661.110](https://gesetzessammlungen.ag.ch/data/661.110/de)
 
 ## 1. Allgemeines
 
@@ -352,16 +350,15 @@ beschliesst:
 
 <sup>2</sup> Das DFR zahlt die Einzelkulturbeiträge und die kantonalen Naturschutzbeiträge gleichzeitig mit der Hauptzahlung der Direktzahlungen des Bundes aus.
 
-## 4. Gebühren
+## 4. Kostenbeteiligung
 
 #### § 30
 
-**Behandlung von Beitragsgesuchen**
+**Bewirtschaftungsverträge**
 
-<sup>1</sup> Für besondere Aufwendungen bei der Behandlung von Beitragsgesuchen im Geltungsbereich dieser Verordnung erhebt das DFR eine Gebühr in Höhe von Fr. 70.– pro Stunde zuzüglich einer Kilometerentschädigung gemäss § 6 Abs. 1 der Verordnung über Spesen, Sitzungsgelder und übrige Entschädigungen vom 31. Januar 2001[^30-1] sowie zuzüglich allfälliger weiterer Gebühren gemäss der Verordnung über die Kanzleigebühren vom 14. Oktober 1991[^30-2]. Insbesondere stellen Erarbeitung und Ergänzung einer Vereinbarung Vernetzung besondere Aufwendungen dar.
+<sup>1</sup> Für besondere Aufwendungen bei der Erarbeitung von Bewirtschaftungsverträgen im Geltungsbereich dieser Verordnung erhebt die Beratungsstelle einen Betrag in Höhe von Fr. 70.– pro Stunde zuzüglich einer Kilometerentschädigung gemäss § 6 Abs. 1 der Verordnung über Spesen, Sitzungsgelder und übrige Entschädigungen vom 31. Januar 2001[^30-1] als Beteiligung an den mit der Vertragserarbeitung entstandenen Kosten.
 
 [^30-1]: SAR [165.171](https://gesetzessammlungen.ag.ch/data/165.171/de)
-[^30-2]: SAR [661.113](https://gesetzessammlungen.ag.ch/data/661.113/de)
 
 ## 5. Schlussbestimmung
 
