@@ -4,13 +4,13 @@ number: "773.200"
 title: Energiegesetz des Kantons Aargau
 short: EnergieG
 language: de
-version: 2012-09-01
-valid_until: 2024-06-30
-version_adopted: 2012-01-17
+version: 2024-07-01
+valid_until: 2024-08-31
+version_adopted: 2023-09-19
 adopted: 2012-01-17
 in_force: 2012-09-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/773.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/1577/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3467/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/1577/pdf_file"
 
 (EnergieG)
 
-Vom 17.01.2012 (Stand 01.09.2012)
+Vom 17.01.2012 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -129,7 +129,7 @@ beschliesst:
 
 **Heizungsanlagen**
 
-<sup>1</sup> Neue Heizungsanlagen mit fossilen Brennstoffen sind zulässig, wenn der Nachweis erbracht wird, dass keine energieeffizientere Heizungsanlage mit geringerem CO2-Ausstoss zur Verfügung steht, die für die geplante Anwendung genügt und wirtschaftlich tragbar ist. Bestehende Heizungsanlagen dürfen durch eine gleichartige Heizungsanlage ersetzt werden.
+<sup>1</sup> Neue Heizungsanlagen mit fossilen Brennstoffen sind zulässig, wenn der Nachweis erbracht wird, dass keine energieeffizientere Heizungsanlage mit geringerem CO₂-Ausstoss zur Verfügung steht, die für die geplante Anwendung genügt und wirtschaftlich tragbar ist. Bestehende Heizungsanlagen dürfen durch eine gleichartige Heizungsanlage ersetzt werden.
 
 <sup>2</sup> Neue ortsfeste elektrische Widerstandsheizungen zur Gebäudebeheizung sind nicht zulässig. Davon ausgenommen sind insbesondere Anwendungen für Komfort- und Notheizungen in begrenztem Umfang sowie Heizungen für Gebäude, die nicht regelmässig oder nur speziell genutzt werden oder einen tiefen Heizenergiebedarf aufweisen.
 
@@ -185,7 +185,7 @@ beschliesst:
 
 **Energieeffiziente Massnahmen**
 
-<sup>1</sup> Der Kanton kann zur Unterstützung der Ziele gemäss § 2 Massnahmen zur Steigerung der Energieeffizienz und zur Verbesserung der CO2-Bilanz in der Mobilität eigenständige rechtliche Grundlagen erlassen. Gegenstand der Regelungen sind insbesondere Massnahmen in den Bereichen Verkehrsinfrastruktur, Antriebssysteme und CO2-arme Mobilität.
+<sup>1</sup> Der Kanton kann zur Unterstützung der Ziele gemäss § 2 Massnahmen zur Steigerung der Energieeffizienz und zur Verbesserung der CO₂-Bilanz in der Mobilität eigenständige rechtliche Grundlagen erlassen. Gegenstand der Regelungen sind insbesondere Massnahmen in den Bereichen Verkehrsinfrastruktur, Antriebssysteme und CO₂-arme Mobilität.
 
 ## 4. Planungs- und Umsetzungsmassnahmen
 
@@ -234,7 +234,7 @@ beschliesst:
 
 **Förderung, Förderungsinstrumente**
 
-<sup>1</sup> Der Kanton kann Programme, Projekte und Anlagen in den Bereichen Forschung, Produktion, Nutzung, Verteilung und Mobilität unterstützen. Er fördert namentlich Programme und Projekte betreffend Energieeffizienzsteigerung, erneuerbare Energien, Abwärmenutzung und CO2-arme Mobilität, wenn diese der Zielerreichung gemäss § 2 dienen.
+<sup>1</sup> Der Kanton kann Programme, Projekte und Anlagen in den Bereichen Forschung, Produktion, Nutzung, Verteilung und Mobilität unterstützen. Er fördert namentlich Programme und Projekte betreffend Energieeffizienzsteigerung, erneuerbare Energien, Abwärmenutzung und CO₂-arme Mobilität, wenn diese der Zielerreichung gemäss § 2 dienen.
 
 <sup>2</sup> Auf Leistungen gemäss diesem Gesetz besteht kein Rechtsanspruch.
 
@@ -248,7 +248,7 @@ beschliesst:
 
 **Wärmenutzung bei Elektrizitätserzeugungsanlagen**
 
-<sup>1</sup> Elektrizitätserzeugungsanlagen mit fossilen Brennstoffen dürfen erstellt werden, wenn die Abwärme fachgerecht und weitgehend genutzt wird. Stehen fossile Brennstoffe mit tieferem CO2-aequivalentem Ausstoss zur Verfügung, sind diese zu verwenden. Für Anlagen ohne Verbindung zum öffentlichen Elektrizitätsverteilnetz gilt diese Anforderung nicht.
+<sup>1</sup> Elektrizitätserzeugungsanlagen mit fossilen Brennstoffen dürfen erstellt werden, wenn die Abwärme fachgerecht und weitgehend genutzt wird. Stehen fossile Brennstoffe mit tieferem CO₂-aequivalentem Ausstoss zur Verfügung, sind diese zu verwenden. Für Anlagen ohne Verbindung zum öffentlichen Elektrizitätsverteilnetz gilt diese Anforderung nicht.
 
 <sup>2</sup> Elektrizitätserzeugungsanlagen mit erneuerbaren gasförmigen Brennstoffen dürfen erstellt werden, wenn die Abwärme fachgerecht und mehrheitlich genutzt wird. Diese Anforderung gilt nicht für Anlagen, die mit überwiegend landwirtschaftlichem Grüngut betrieben werden, ohne Verbindung zum öffentlichen Gasverteilnetz sind und diese auch nicht mit verhältnismässigem Aufwand hergestellt werden kann.
 
@@ -440,9 +440,7 @@ beschliesst:
 
 #### § 35
 
-**Verwaltungsgebühren**
-
-<sup>1</sup> Für die Erteilung der nach diesem Gesetz vorgesehenen Bewilligungen erheben Kanton und Gemeinden Gebühren. Diese richten sich nach dem tatsächlichen Aufwand.
+**…**
 
 #### § 36
 
