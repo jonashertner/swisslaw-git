@@ -4,13 +4,12 @@ number: "959.300"
 title: Geldspielgesetz des Kantons Aargau
 short: GSG
 language: de
-version: 2021-01-01
-valid_until: 2024-06-30
-version_adopted: 2020-06-30
+version: 2024-07-01
+version_adopted: 2023-09-19
 adopted: 2020-06-30
 in_force: 2021-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/959.300"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2909/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3472/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2909/pdf_file"
 
 (GSG)
 
-Vom 30.06.2020 (Stand 01.01.2021)
+Vom 30.06.2020 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -93,9 +92,7 @@ beschliesst:
 
 #### § 7
 
-**Gebühren**
-
-<sup>1</sup> Das zuständige Departement erhebt für die Behandlung von Gesuchen um Erteilung von Bewilligungen für Kleinspiele Gebühren gemäss § 1 Abs. 1 lit. a des Dekrets über die durch den Staat zu beziehenden Gebühren.
+**…**
 
 ## 3. Schlussbestimmung
 
