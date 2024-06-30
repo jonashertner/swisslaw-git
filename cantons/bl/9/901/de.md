@@ -4,13 +4,13 @@ number: "901"
 title: Gesundheitsgesetz
 short: GesG
 language: de
-version: 2023-01-01
-valid_until: 2024-06-30
-version_adopted: 2022-11-03
+version: 2024-07-01
+valid_until: 2024-09-22
+version_adopted: 2024-06-27
 adopted: 2008-02-21
 in_force: 2009-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/901"
-pdf: "https://bl.clex.ch/api/de/versions/3933/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4009/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3933/pdf_file"
 
 (GesG)
 
-Vom 21.02.2008 (Stand 01.01.2023)
+Vom 21.02.2008 (Stand 01.07.2024)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -437,6 +437,14 @@ beschliesst:[^ingress-2]
 <sup>1</sup> Die Bewilligung zur fachlich eigenverantwortlichen Tätigkeit in weiteren Gesundheitsberufen, namentlich als Logopädin oder Logopäde, Medizinische Masseurin oder Masseur, Podologin oder Podologe, Dentalhygienikerin oder Dentalhygieniker, als Tierphysiotherapeutin oder Tierphysiotherapeut sowie als Tierosteopathin oder Tierosteopath wird an Personen erteilt, welche über einen gesamtschweizerisch anerkannten Berufsabschluss verfügen.
 
 <sup>2</sup> Der Regierungsrat kann für einzelne Berufe die fachlichen Voraussetzungen für die Erteilung der Bewilligung näher regeln und Bestimmungen über die Berufsausübung und Befugnisse erlassen.
+
+#### § 35c
+
+**Beschränkung der Zulassung von Pflegefachpersonen und Organisationen, die Pflegefachpersonen beschäftigen**
+
+<sup>1</sup> Der Regierungsrat kann einen sofortigen Zulassungsstopp von Pflegefachpersonen und Organisationen, die Pflegefachpersonen beschäftigen, anordnen, sofern die Voraussetzungen gemäss Art. 55b KVG[^35c-1] erfüllt sind.
+
+[^35c-1]: [SR 832.10](https://db.clex.ch/link/Bund/832.10/de)
 
 ## 4 Institutionen im Gesundheitsbereich
 
