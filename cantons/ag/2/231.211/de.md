@@ -3,20 +3,19 @@ canton: AG
 number: "231.211"
 title: Verordnung über die Prüfung zum Erwerb des Fähigkeitsausweises zur Führung eines Betreibungsamtes
 language: de
-version: 2011-01-01
-valid_until: 2024-06-30
-version_adopted: 2010-06-23
+version: 2024-07-01
+version_adopted: 2024-03-13
 adopted: 2005-09-28
 in_force: 2006-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/231.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/1297/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3486/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Prüfung zum Erwerb des Fähigkeitsausweises zur Führung eines Betreibungsamtes
 
-Vom 28.09.2005 (Stand 01.01.2011)
+Vom 28.09.2005 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -67,11 +66,13 @@ beschliesst:
 
 **II. Prüfungsgebühr**
 
-<sup>1</sup> Die Prüfungsgebühr ist innert 10 Tagen nach Zustellung des Zulassungsentscheides einzuzahlen.
+<sup>1</sup> Die Prüfungsgebühr gemäss § 7 Abs. 2 lit. b der Gebührenverordnung (GebührV) vom 13. März 2024[^5-1] ist innert 10 Tagen nach Zustellung des Zulassungsentscheides einzuzahlen.
 
 <sup>2</sup> Wer die Gebühr trotz Mahnung nicht bezahlt, wird zur Prüfung nicht zugelassen.
 
-<sup>3</sup> Bei Nichtantreten der Prüfung wird die Gebühr unter Abzug der bis dahin angefallenen Kosten zurückbezahlt. Im Minimum wird eine Verwaltungskostenentschädigung von Fr. 100.– abgezogen.
+<sup>3</sup> …
+
+[^5-1]: SAR [662.111](https://gesetzessammlungen.ag.ch/data/662.111/de)
 
 #### § 6
 
@@ -138,15 +139,11 @@ beschliesst:
 
 <sup>3</sup> Wer die Prüfung nicht bestanden hat, muss bei einer Prüfungswiederholung die gesamte Prüfung absolvieren.
 
-## 2. Gebühren und Entschädigungen
+## 2. Entschädigungen
 
 #### § 13
 
-**I. Gebühren**
-
-<sup>1</sup> Die Gebühr für die Prüfung beträgt Fr. 1'000.–.
-
-<sup>2</sup> Die Gebühr für das Ausstellen des provisorischen Fähigkeitsausweises beträgt Fr. 100.–.
+**…**
 
 #### § 14
 
