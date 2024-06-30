@@ -4,13 +4,13 @@ number: "453.111"
 title: Verordnung über die Aargauische Maturitätsschule für Erwachsene
 short: V AME
 language: de
-version: 2022-08-01
-valid_until: 2024-06-30
-version_adopted: 2022-05-04
+version: 2024-07-01
+valid_until: 2026-07-31
+version_adopted: 2024-03-13
 adopted: 1991-09-09
 in_force: 1992-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/453.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3213/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3498/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3213/pdf_file"
 
 (V AME)
 
-Vom 09.09.1991 (Stand 01.08.2022)
+Vom 09.09.1991 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -72,11 +72,7 @@ beschliesst:
 
 #### § 5
 
-**Kostentragung**
-
-<sup>1</sup> Die Studierenden haben ein Studiengeld von Fr. 1'000.– pro Semester zu bezahlen.
-
-<sup>2</sup> Die Kosten für die Unterrichtsmaterialien tragen die Studierenden.
+**…**
 
 #### § 6
 
