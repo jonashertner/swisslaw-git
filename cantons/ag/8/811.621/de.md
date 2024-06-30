@@ -4,13 +4,12 @@ number: "811.621"
 title: Vollziehungsverordnung zur Bundesgesetzgebung über die flankierenden Massnahmen bei entsandten Arbeitnehmerinnen und Arbeitnehmern und über die Kontrolle der in Normalarbeitsverträgen vorgesehenen Mindestlöhne
 short: "Vollziehungsverordnung zur Bundesgesetzgebung über die entsandten Arbeitnehmerinnen und Arbeitnehmer, VEA"
 language: de
-version: 2013-01-01
-valid_until: 2024-06-30
-version_adopted: 2012-11-28
+version: 2024-07-01
+version_adopted: 2024-03-13
 adopted: 2003-10-15
 in_force: 2003-12-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/811.621"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/1715/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3513/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,19 +18,18 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/1715/pdf_file"
 
 (Vollziehungsverordnung zur Bundesgesetzgebung über die entsandten Arbeitnehmerinnen und Arbeitnehmer, VEA)
 
-Vom 15.10.2003 (Stand 01.01.2013)
+Vom 15.10.2003 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf Art. 7 Abs. 1 und 5 des Bundesgesetzes über die flankierenden Massnahmen bei entsandten Arbeitnehmerinnen und Arbeitnehmern und über die Kontrolle der in Normalarbeitsverträgen vorgesehenen Mindestlöhne (Entsendegesetz; EntsG [Bundesgesetz]) vom 8. Oktober 1999[^ingress-1], Art. 360b Abs. 1 des Obligationenrechts (OR)[^ingress-2], Art. 6 Abs. 7 und Art. 9 der Verordnung über die in die Schweiz entsandten Arbeitnehmerinnen und Arbeitnehmer (EntsV) vom 21. Mai 2003[^ingress-3], § 2 Abs. 1 des Dekrets über die durch den Staat zu beziehenden Gebühren vom 23. November 1977[^ingress-4], § 91 Abs. 2bis der Kantonsverfassung sowie § 7 des Einführungsgesetzes zum Bundesgesetz über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung sowie zum Bundesgesetz über die Arbeitsvermittlung und den Personalverleih (EG AVIG/AVG) vom 14. September 2004[^ingress-5],
+gestützt auf Art. 7 Abs. 1 und 5 des Bundesgesetzes über die flankierenden Massnahmen bei entsandten Arbeitnehmerinnen und Arbeitnehmern und über die Kontrolle der in Normalarbeitsverträgen vorgesehenen Mindestlöhne (Entsendegesetz; EntsG) vom 8. Oktober 1999[^ingress-1], Art. 360b Abs. 1 des Obligationenrechts (OR)[^ingress-2], die Art. 6 Abs. 7 und 9 der Verordnung über die in die Schweiz entsandten Arbeitnehmerinnen und Arbeitnehmer (EntsV) vom 21. Mai 2003[^ingress-3], § 91 Abs. 2<sup>bis</sup> der Kantonsverfassung sowie § 7 des Einführungsgesetzes zum Bundesgesetz über die obligatorische Arbeitslosenversicherung und die Insolvenzentschädigung sowie zum Bundesgesetz über die Arbeitsvermittlung und den Personalverleih (EG AVIG/AVG) vom 14. September 2004[^ingress-4],
 
 beschliesst:
 
 [^ingress-1]: SR [823.20](https://db.clex.ch/link/Bund/823.20/de)
 [^ingress-2]: SR [220](https://db.clex.ch/link/Bund/220/de)
 [^ingress-3]: SR [823.201](https://db.clex.ch/link/Bund/823.201/de)
-[^ingress-4]: SAR [661.110](https://gesetzessammlungen.ag.ch/data/661.110/de)
-[^ingress-5]: SAR [811.400](https://gesetzessammlungen.ag.ch/data/811.400/de)
+[^ingress-4]: SAR [811.400](https://gesetzessammlungen.ag.ch/data/811.400/de)
 
 ## 1. Tripartite Kommission
 
@@ -118,7 +116,7 @@ beschliesst:
 
 <sup>1</sup> Das MIKA führt die Meldestelle für die von der ausländerrechtlichen Bewilligungspflicht ausgenommenen Dienstleistungserbringungen und Arbeitseinsätze.
 
-<sup>2</sup> Auf Verlangen der Arbeitgeberin oder des Arbeitgebers bestätigt das MIKA den Eingang der Meldung. Die Gebühr für die Eingangsbestätigung bemisst sich nach der Höchstgebühr gemäss Bundesrecht.
+<sup>2</sup> Auf Verlangen der Arbeitgeberin oder des Arbeitgebers bestätigt das MIKA den Eingang der Meldung.
 
 <sup>3</sup> …
 
@@ -146,16 +144,7 @@ beschliesst:
 
 #### § 9a
 
-**Kontrollkosten, Gebühren und Auslagen**
-
-<sup>1</sup> Für Handlungen der TPK oder des MIKA im Zusammenhang mit der Überprüfung eines Arbeitgebers beziehungsweise eines Betriebs oder einer Person werden unabhängig von einem allfälligen Strafverfahren folgende Gebühren und Auslagen bei der kontrollierten Arbeitgeberin oder beim kontrollierten Arbeitgeber, beim kontrollierten Betrieb oder bei der kontrollierten Person erhoben, wenn bei ihm oder ihr ein Verstoss gegen die Vorschriften des Bundesgesetzes festgestellt wird:
-
-- a) Pro Viertelstunde Zeitaufwand wird eine Gebühr von Fr. 30.– berechnet. Die Dauer des Fahrweges ist zum Zeitaufwand zu zählen und damit für die Gebühr massgebend.
-- b) Auslagen wie insbesondere Fahrtkosten, Post-, Fax- und Telefontaxen, Übersetzungs- und Dolmetscherkosten sowie Inkassokosten werden gemäss Aufwand belastet.
-
-<sup>2</sup> Als Handlung im Zusammenhang mit der Überprüfung einer Arbeitgeberin oder eines Arbeitgebers, eines Betriebs oder einer Person gilt jede Verrichtung, die geeignet ist, einen Verstoss gegen die Vorschriften des Bundesgesetzes festzustellen oder zu belegen.
-
-<sup>3</sup> Das MIKA erhebt zusätzlich zu einer allfälligen Gebühr gemäss Absatz 1 je nach Zeitaufwand eine Gebühr für die Bearbeitung der Sanktionsverfahren gemäss Bundesgesetz. Diese beträgt für die Auferlegung eines Dienstleistungsverbots höchstens Fr. 600.– und für die Anordnung eines Arbeitsunterbruchs höchstens Fr. 900.–. Für die Auferlegung der dabei entstehenden Auslagen gilt Absatz 1 lit. b.
+**…**
 
 #### § 10
 
