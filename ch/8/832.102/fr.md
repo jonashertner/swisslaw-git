@@ -4,11 +4,11 @@ title: "Ordonnance du 27 juin 1995 sur l'assurance-maladie (OAMal)"
 short: OAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: fr
-version: 2024-02-01
+version: 2024-07-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20240201-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20240201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20240701-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20240201/fr"
 
 (OAMal)
 
-du 27 juin 1995 (État le 1<sup>er</sup> février 2024)
+du 27 juin 1995 (État le 1<sup>er</sup> juillet 2024)
 
 Le Conseil fédéral suisse,
 
@@ -431,8 +431,8 @@ L’institution commune tranche sous la forme d’une décision au sens de l’a
 
 - a. la redistribution des réserves selon l’art. 43, al. 3, de la loi du 26 septembre 2014 sur la surveillance de l’assurance-maladie (LSAMal)[^22-6];
 - b. les contributions des assureurs au financement du fonds d’insolvabilité selon l’art. 48, let. a, LSAMal;
-- c. les versements issus du fonds d’insolvabilité selon l’art. 51, al. 1, LSAMal;[^22-7]
-- d.[^22-8] la répartition de la part cantonale entre les cantons au sens de l’art. 19*a.*
+- c. les versements issus du fonds d’insolvabilité selon l’art. 51, al. 1, LSAMal;
+- d.[^22-7] la répartition de la part cantonale entre les cantons au sens de l’art. 19*a.*[^22-8]
 
 <sup>3bis</sup> Elle tranche sous la forme d’une décision au sens de l’art. 5 PA les litiges qui l’opposent à un canton concernant la répartition de la part cantonale entre les cantons au sens de l’art. 19*a*.[^22-9]
 
@@ -444,8 +444,8 @@ L’institution commune tranche sous la forme d’une décision au sens de l’a
 [^22-4]: [RS 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
 [^22-5]: Nouvelle teneur selon le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
 [^22-6]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
-[^22-7]: Introduit par le ch. I de l’O du 3 déc. 2004 ([RO 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)). Nouvelle teneur selon l’art. 31 de l’O du 19 oct. 2016 sur la compensation des risques dans l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2016 4059](https://fedlex.data.admin.ch/eli/oc/2016/674)).
-[^22-8]: Introduite par le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
+[^22-7]: Introduite par le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
+[^22-8]: Introduit par le ch. I de l’O du 3 déc. 2004 ([RO 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)). Nouvelle teneur selon l’art. 31 de l’O du 19 oct. 2016 sur la compensation des risques dans l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2016 4059](https://fedlex.data.admin.ch/eli/oc/2016/674)).
 [^22-9]: Introduit par le ch. I de l’O du 15 nov. 2017, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
 [^22-10]: Introduit par le ch. I de l’O du 26 avr. 2006, en vigueur depuis le 10 mai 2006 ([RO 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
 
@@ -721,10 +721,11 @@ L’OFS transmet aux destinataires suivants les données ci-après:
 
   - 1\. les données visées à l’art. 30, pour autant qu’elles soient nécessaires pour la planification des hôpitaux, des maisons de naissance et des établissements médico-sociaux (art. 39 LAMal),
   - 2\. les données visées à l’art. 30, let. a, d et e, pour autant qu’elles soient nécessaires pour l’évaluation des tarifs (art. 43, 46, al. 4, et 47 LAMal),
-  - 3\.[^30b-4] les données visées à l’art. 30, pour autant qu’elles soient nécessaires pour fixer les nombres maximaux (art. 55*a* LAMal);
+  - 3\.[^30b-4] les données visées à l’art. 30, pour autant qu’elles soient nécessaires pour fixer les nombres maximaux (art. 55*a* LAMal),
+  - 4\.[^30b-5] les données visées à l’art. 30, pour autant qu’elles soient nécessaires pour évaluer les coûts des soins (art. 55*b* LAMal);
 
 - c. aux assureurs: les données visées à l’art. 30, let. a, c, d et e, pour autant qu’elles soient nécessaires pour appliquer les dispositions relatives au contrôle du caractère économique des prestations prises en charge par l’assurance obligatoire des soins;
-- d. au Surveillant des prix: les données visées à l’art. 30, pour autant qu’elles soient nécessaires pour l’examen des prix et des tarifs dans le système de santé au sens de l’art. 14 de la loi fédérale du 20 décembre 1985 concernant la surveillance des prix[^30b-5].
+- d. au Surveillant des prix: les données visées à l’art. 30, pour autant qu’elles soient nécessaires pour l’examen des prix et des tarifs dans le système de santé au sens de l’art. 14 de la loi fédérale du 20 décembre 1985 concernant la surveillance des prix[^30b-6].
 
 <sup>2</sup> Il garantit l’anonymat du personnel au sens de l’art. 30, let. b, et celui des patients au sens de l’art. 30, let. c, lors de la transmission des données personnelles.
 
@@ -739,7 +740,8 @@ Les données visées à l’art. 30 sont en principe transmises sous forme agré
 [^30b-2]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 [^30b-3]: Introduite par le ch. I de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 [^30b-4]: Introduit par le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
-[^30b-5]: [RS 942.20](https://fedlex.data.admin.ch/eli/cc/1986/895_895_895)
+[^30b-5]: Introduit par le ch. I de l’O du 8 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 220](https://fedlex.data.admin.ch/eli/oc/2024/220)).
+[^30b-6]: [RS 942.20](https://fedlex.data.admin.ch/eli/cc/1986/895_895_895)
 
 #### Art. 30c
 
@@ -1278,6 +1280,8 @@ Les ergothérapeutes sont admis s’ils remplissent les conditions suivantes:
 
 **Infirmiers**[^49-1]
 
+<sup>1</sup>
+
 Les infirmiers sont admis s’ils remplissent les conditions suivantes:
 
 - a. disposer d’une autorisation cantonale d’exercer la profession d’infirmier octroyée conformément à l’art. 11 LPSan[^49-2] ou reconnue conformément à l’art. 34, al. 1, LPSan;
@@ -1292,8 +1296,11 @@ Les infirmiers sont admis s’ils remplissent les conditions suivantes:
 - c. exercer à titre indépendant et à leur compte;
 - d. prouver qu’ils remplissent les exigences de qualité définies à l’art. 58*g*.
 
+<sup>2</sup> Les limitations cantonales du nombre d’infirmiers admis (art. 55*b* LAMal) sont réservées.[^49-3]
+
 [^49-1]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 [^49-2]: [RS 811.21](https://fedlex.data.admin.ch/eli/cc/2020/16)
+[^49-3]: Introduit par le ch. I de l’O du 8 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 220](https://fedlex.data.admin.ch/eli/oc/2024/220)).
 
 #### Art. 50
 
@@ -1371,17 +1378,18 @@ Les psychologues-psychothérapeutes sont admis s’ils remplissent les condition
 
   avoir une expérience clinique de trois ans, dont au moins douze mois dans des institutions proposant des traitements psychothérapeutiques et psychiatriques qui disposent de l’une des reconnaissances suivantes de l’Institut suisse pour la formation médicale postgraduée et continue:
 
-  - 1\.[^50c-3] établissement ambulatoire ou hospitalier de formation postgraduée des catégories A, B ou C selon le programme de formation postgraduée «Spécialiste en psychiatrie et psychothérapie» du 1<sup>er</sup> juillet 2009[^50c-4], dans la version du 15 décembre 2016,
-  - 2\. établissement des catégories A, B ou C selon le programme de formation postgraduée «Spécialiste en psychiatrie et psychothérapie d’enfants et d’adolescents» du 1<sup>er</sup> juillet 2006[^50c-5], dans la version du 20 décembre 2018;
+  - 1\.[^50c-3] établissement ambulatoire ou hospitalier de formation postgraduée des catégories A, B ou C selon le programme de formation postgraduée «Spécialiste en psychiatrie et psychothérapie» du 1<sup>er</sup> janvier 2024[^50c-4] ou des catégories A ou B selon les programmes de la formation approfondie «Psychiatrie et psychothérapie de la personne âgée», «Psychiatrie de consultation et de liaison», «Psychiatrie et psychothérapie forensique» et «psychiatrie et psychothérapie des addictions» dans la version en vigueur au 1<sup>er</sup> janvier 2024[^50c-5],
+  - 2\. établissement des catégories A, B ou C selon le programme de formation postgraduée «Spécialiste en psychiatrie et psychothérapie d’enfants et d’adolescents» du 1<sup>er</sup> juillet 2006[^50c-6], dans la version du 20 décembre 2018;
 
 - c. exercer à titre indépendant et à leur compte;
 - d. prouver qu’ils remplissent les exigences de qualité définies à l’art. 58*g.*
 
 [^50c-1]: Introduit par le ch. I de l’O du 19 mars 2021 ([RO 2021 188](https://fedlex.data.admin.ch/eli/oc/2021/188)). Nouvelle teneur par le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)). Voir aussi la disp. trans. de cette mod. à la fin du texte.
 [^50c-2]: [RS 935.81](https://fedlex.data.admin.ch/eli/cc/2012/268)
-[^50c-3]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
-[^50c-4]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
-[^50c-5]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
+[^50c-3]: Nouvelle teneur selon le ch. I de l’O du 7 juin 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 265](https://fedlex.data.admin.ch/eli/oc/2024/265)). Voir aussi la disp. trans. de cette mod. à la fin du texte.
+[^50c-4]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
+[^50c-5]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
+[^50c-6]: Le document peut être consulté à l’adresse suivante: www.ofsp.admin.ch/ref.
 
 #### Art. 50d
 
@@ -1409,15 +1417,22 @@ Les podologues sont admis s’ils remplissent les conditions suivantes:
 
 **Organisations de soins et d’aide à domicile**[^51-1]
 
+<sup>1</sup>
+
 Les organisations de soins et d’aide à domicile sont admises si elles remplissent les conditions suivantes:
 
 - a. être admises en vertu de la législation du canton dans lequel elles exercent leur activité;
+- a<sup>bis</sup>.[^51-2] disposer d’un mandat de prestations cantonal au sens de l’art. 36*a*, al. 3, LAMal;
 - b. avoir délimité leur champ d’activité quant au lieu et à l’horaire de leurs interventions, quant aux prestations qu’elles fournissent et quant aux patients auxquels elles fournissent leurs prestations;
 - c. disposer du personnel spécialisé nécessaire ayant une formation qui correspond à leur champ d’activité;
 - d. disposer des équipements nécessaires aux prestations qu’elles fournissent;
 - e. prouver qu’elles remplissent les exigences de qualité définies à l’art. 58*g*.
 
+<sup>2</sup> Les limitations cantonales du nombre d’organisations de soins et d’aide à domicile admises (art. 55*b* LAMal) sont réservées.[^51-3]
+
 [^51-1]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^51-2]: Introduite par le ch. I de l’O du 8 mai 2024, en vigueur du 1<sup>er</sup> juil. 2024 au 30 juin 2032 ([RO 2024 220](https://fedlex.data.admin.ch/eli/oc/2024/220)).
+[^51-3]: Introduit par le ch. I de l’O du 8 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 220](https://fedlex.data.admin.ch/eli/oc/2024/220)).
 
 #### Art. 52
 
@@ -1530,7 +1545,7 @@ Sont admis comme laboratoires les établissements qui:
 - c.[^53-1] …
 - d. répondent aux autres exigences posées aux laboratoires par la législation fédérale ou cantonale;
 - e.[^53-2] sont autorisés par Swissmedic, lorsqu’ils effectuent des analyses visant à dépister les maladies transmissibles;
-- [tab] e<sup>bis</sup>.[^53-3] sont autorisés par l’OFSP, lorsqu’ils effectuent des analyses cytogénétiques ou moléculaires humaines;
+- e<sup>bis</sup>.[^53-3] sont autorisés par l’OFSP, lorsqu’ils effectuent des analyses cytogénétiques ou moléculaires humaines;
 - f. disposent d’installations adéquates et du personnel spécialisé nécessaire;
 - g. remplissent les conditions d’admission fixées à l’art. 54.
 
@@ -1579,7 +1594,7 @@ Les laboratoires mandatés par un autre fournisseur de prestations admis et qui 
 [^54-4]: Nouvelle teneur selon le ch. I de l’O du 6 juin 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
 [^54-5]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)).
 [^54-6]: Nouvelle teneur selon le ch. I de l’O du 9 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4927](https://fedlex.data.admin.ch/eli/oc/2016/792)).
-[^54-7]: Nouvelle teneur selon le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^54-7]: Introduit par le ch. I de l’O du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 [^54-8]: Introduit par le ch. I de l’O du 6 juin 2003, en vigueur depuis le 1<sup>er</sup> janv. 2004 ([RO 2003 3249](https://fedlex.data.admin.ch/eli/oc/2003/445)).
 
 #### Art. 54a
@@ -1747,7 +1762,9 @@ Pour coordonner leurs planifications conformément à l’art. 39, al. 2, LAMal,
 - a. exploiter les informations nécessaires concernant les flux de patients et échanger ces informations avec les cantons concernés;
 - b. prendre en compte le potentiel de coordination avec d’autres cantons pour le renforcement du caractère économique et de la qualité des prestations fournies à l’hôpital;
 
-<sup>2</sup> Chaque canton se coordonne notamment:
+<sup>2</sup>
+
+Chaque canton se coordonne notamment:
 
 - 1\. avec les cantons dans lesquels sont situés un ou plusieurs établissements qui figurent sur sa liste ou qu’il prévoit d’y faire figurer,
 - 2\. avec les cantons qui ont inscrit sur leur liste ou qui prévoient d’inscrire sur leur liste un ou plusieurs établissements situés sur son territoire,
@@ -1827,12 +1844,15 @@ Les fournisseurs de prestations doivent inscrire sur leurs factures toutes les i
 
 <sup>3</sup> Pour les analyses, la facture remise au débiteur de la rémunération est établie exclusivement par le laboratoire qui a effectué les analyses. Les tarifs forfaitaires d’après l’art. 49 de la loi sont réservés.
 
-<sup>4</sup> Les fournisseurs de prestations veillent à ce que la facture soit compréhensible pour l’assuré et veillent en particulier à ce que le genre, la durée et le contenu du traitement soient exposés de manière claire.[^59-4]
+<sup>3bis</sup> Pour les prestations de soins au sens de l’art. 25*a* LAMal, la facture remise au débiteur de la rémunération précise si les prestations sont fournies avec ou sans prescription ou mandat médical.[^59-4]
+
+<sup>4</sup> Les fournisseurs de prestations veillent à ce que la facture soit compréhensible pour l’assuré et veillent en particulier à ce que le genre, la durée et le contenu du traitement soient exposés de manière claire.[^59-5]
 
 [^59-1]: Nouvelle teneur selon le ch. I de l’O du 4 juil. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)).
 [^59-2]: [RS 832.105](https://fedlex.data.admin.ch/eli/cc/2007/101)
 [^59-3]: Nouvelle expression selon l’annexe ch. II 36 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Il a été tenu compte de cette mod. dans tout le texte.
-[^59-4]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
+[^59-4]: Introduit par le ch. I de l’O du 8 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 220](https://fedlex.data.admin.ch/eli/oc/2024/220)).
+[^59-5]: Nouvelle teneur selon le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
 
 #### Art. 59a
 
@@ -2476,6 +2496,8 @@ La part relative à la distribution rémunère les prestations logistiques. Elle
 
 - b. pour les médicaments qui, selon la classification de Swissmedic, sont remis sans prescription, d’une prime fixée en fonction du prix de fabrique.
 
+<sup>4bis</sup> La part relative à la distribution s’applique de manière uniforme pour les médicaments contenant la même substance active.[^67-2]
+
 <sup>5</sup>
 
 Les prix fixés dans la liste des spécialités ne peuvent être augmentés que sur autorisation de l’OFSP. L’autorisation n’est accordée que si les conditions suivantes sont réunies:
@@ -2484,6 +2506,7 @@ Les prix fixés dans la liste des spécialités ne peuvent être augmentés que 
 - b. deux années au moins se sont écoulées depuis l’admission du médicament dans la liste des spécialités ou depuis la dernière augmentation du prix.
 
 [^67-1]: Nouvelle teneur selon le ch. I de l’O du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^67-2]: Introduit par le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2023 794](https://fedlex.data.admin.ch/eli/oc/2023/794)).
 
 #### Art. 67a
 
@@ -3076,11 +3099,11 @@ Le DFI désigne, après avoir consulté la commission compétente, les mesures p
 
 [^77k-1]: Introduit par le ch. I de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 
-## Titre 4*a* Projets pilotes
+### Titre 4*a* Projets pilotes
 
-[^tit4a-1]
+[^part1-tit4a-1]
 
-[^tit4a-1]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
+[^part1-tit4a-1]: Introduit par le ch. I de l’O du 23 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
 
 #### Art. 77l
 
@@ -3354,10 +3377,10 @@ Les primes doivent être payées à l’avance et en principe tous les mois.
 
 ### Section 1*a* Primes des assurés résidant dans un État membre de l’Union européenne, en Islande, en Norvège ou au Royaume-Uni
 
-[^tit4a-tit5-chap2-sec1a-1][^tit4a-tit5-chap2-sec1a-2]
+[^part1-tit5-chap2-sec1a-1][^part1-tit5-chap2-sec1a-2]
 
-[^tit4a-tit5-chap2-sec1a-1]: Introduite par le ch. I de l’O du 3 juil. 2001, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
-[^tit4a-tit5-chap2-sec1a-2]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
+[^part1-tit5-chap2-sec1a-1]: Introduite par le ch. I de l’O du 3 juil. 2001, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
+[^part1-tit5-chap2-sec1a-2]: Nouvelle teneur selon le ch. I de l’O du 2 nov. 2011, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
 
 #### Art. 92a
 
@@ -3373,10 +3396,10 @@ Lorsqu’un assuré réside à l’étranger, l’assureur prélève les primes 
 
 ### Section 1*b* Primes des bénéficiaires de l’aide d’urgence conformément à l’art. 82 LAsi
 
-[^tit4a-tit5-chap2-sec1b-1][^tit4a-tit5-chap2-sec1b-2]
+[^part1-tit5-chap2-sec1b-1][^part1-tit5-chap2-sec1b-2]
 
-[^tit4a-tit5-chap2-sec1b-1]: Introduite par le ch. I de l’O du 6 juil. 2011, en vigueur depuis le 1<sup>er</sup> août 2011 ([RO 2011 3535](https://fedlex.data.admin.ch/eli/oc/2011/478)). Voir aussi la disp. trans. de cette mod. à la fin du texte.
-[^tit4a-tit5-chap2-sec1b-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^part1-tit5-chap2-sec1b-1]: Introduite par le ch. I de l’O du 6 juil. 2011, en vigueur depuis le 1<sup>er</sup> août 2011 ([RO 2011 3535](https://fedlex.data.admin.ch/eli/oc/2011/478)). Voir aussi la disp. trans. de cette mod. à la fin du texte.
+[^part1-tit5-chap2-sec1b-2]: [RS 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 
 #### Art. 92d
 
@@ -3648,9 +3671,9 @@ Le DFI désigne les prestations pour lesquelles la participation aux coûts est 
 
 ### Chapitre 3*a* Non-paiement des primes et des participations aux coûts
 
-[^tit4a-tit5-chap3a-1]
+[^part1-tit5-chap3a-1]
 
-[^tit4a-tit5-chap3a-1]: Introduite par le ch. I de l’O du 27 juin 2007, en vigueur depuis le 1<sup>er</sup> août. 2007 ([RO 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
+[^part1-tit5-chap3a-1]: Introduite par le ch. I de l’O du 27 juin 2007, en vigueur depuis le 1<sup>er</sup> août. 2007 ([RO 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
 
 #### Art. 105a
 
@@ -3833,15 +3856,15 @@ Si le droit d’un État membre de l’Union européenne, de l’Islande, de la 
 
 ### Chapitre 4 Réduction des primes par les cantons
 
-[^tit4a-tit5-chap4-1]
+[^part1-tit5-chap4-1]
 
-[^tit4a-tit5-chap4-1]: Nouvelle teneur selon le ch. I de l’O du 3 juil. 2001, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
+[^part1-tit5-chap4-1]: Nouvelle teneur selon le ch. I de l’O du 3 juil. 2001, en vigueur depuis le 1<sup>er</sup> juin 2002 ([RO 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
 
 ### Section 1 Ayants droit à une réduction des primes
 
-[^tit4a-tit5-chap4-sec1-1]
+[^part1-tit5-chap4-sec1-1]
 
-[^tit4a-tit5-chap4-sec1-1]: Introduit par le ch. I de l’O du 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
+[^part1-tit5-chap4-sec1-1]: Introduit par le ch. I de l’O du 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
 
 #### Art. 106
 
@@ -3870,9 +3893,9 @@ La réduction des primes est régie par l’art. 65*a* de la loi:
 
 ### Section 2 Exécution de la réduction des primes
 
-[^tit4a-tit5-chap4-sec2-1]
+[^part1-tit5-chap4-sec2-1]
 
-[^tit4a-tit5-chap4-sec2-1]: Introduite par le ch. I de l’O du 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
+[^part1-tit5-chap4-sec2-1]: Introduite par le ch. I de l’O du 22 juin 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
 
 #### Art. 106b
 
@@ -4106,7 +4129,7 @@ Il y a surindemnisation dans la mesure où les prestations respectives des assur
 
 Lorsqu’une décision est exigée en vertu de l’art. 51, al. 2, LPGA, l’assureur est tenu de la rendre dans les trente jours.
 
-[^127-1]: Abrogé par le ch. I de l’O du 22 nov. 2000 ([RO 2000 2911](https://fedlex.data.admin.ch/eli/oc/2000/510)). Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
+[^127-1]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
 
 #### Art. 128 et 129
 
@@ -4565,6 +4588,24 @@ Les demandes en reconnaissance de l’équivalence d’un titre postgrade en mé
 <sup>3</sup> L’ancien droit continue de régir pendant trois mois à compter de l’entrée en vigueur de la modification du 22 septembre 2023 les demandes de garantie de prise en charge des coûts au sens des art. 71*a* à 71*d* qui ont fait l’objet d’une décision avant l’entrée en vigueur de ladite modification.
 
 <sup>4</sup> Lors du premier réexamen des conditions d’admission tous les trois ans après l’entrée en vigueur de la modification du 22 septembre 2023, le caractère économique des biosimilaires qui ont été admis dans la liste des spécialités avant l’entrée en vigueur de ladite modification est évalué sur la base des écarts de prix constatés lors de l’admission (art. 65*c*<sup>bis</sup>).
+
+## Disposition transitoire de la modification du 8 mai 2024
+
+[^u33-1]
+
+[^u33-1]: [RO 2024 220](https://fedlex.data.admin.ch/eli/oc/2024/220)
+
+Les cantons attribuent dans les deux ans qui suivent l’entrée en vigueur de la modification du 8 mai 2024 un mandat de prestations au sens de l’art. 36a, al. 3, LAMal aux organisations de soins et d’aide à domicile qui sont déjà admises à l’entrée en vigueur de ladite modification.
+
+## Disposition transitoire de la modification du 7 juin 2024
+
+[^u34-1]
+
+[^u34-1]: [RO 2024 265](https://fedlex.data.admin.ch/eli/oc/2024/265)
+
+L’expérience clinique acquise jusqu’au 31 décembre 2023 dans des institutions proposant des traitements psychothérapeutiques et psychiatriques qui disposaient d’une reconnaissance de l’Institut suisse pour la formation médicale postgraduée en tant qu’établissement de formation postgraduée ambulatoire ou hospitalier de catégorie A, B ou C selon le programme de formation postgraduée «Spécialiste en psychiatrie et psychothérapie» du 1<sup>er</sup> juillet 2009 dans la version du 15 décembre 2016[^u34-2] est assimilée à l’expérience clinique visée à l’art. 50*c*, let. b, ch. 1.
+
+[^u34-2]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
 
 Annexe 1[^t-1]
 

@@ -4,11 +4,11 @@ title: Verordnung vom 27. Juni 1995 über die Krankenversicherung (KVV)
 short: KVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: de
-version: 2024-02-01
+version: 2024-07-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20240201/de/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20240201-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20240201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20240701/de/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20240701-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20240201/de"
 
 (KVV)
 
-vom 27. Juni 1995 (Stand am 1. Februar 2024)
+vom 27. Juni 1995 (Stand am 1. Juli 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -427,24 +427,27 @@ Die gemeinsame Einrichtung übernimmt überdies Koordinationsaufgaben zur Erfül
 
 <sup>3</sup>
 
-Die gemeinsame Einrichtung entscheidet bei Streitigkeiten zwischen ihr und einem Versicherer in der Form einer Verfügung im Sinne von Artikel 5 des Bundesgesetzes vom 20. Dezember 1968[^22-4] über das Verwaltungsverfahren über:
+Die gemeinsame Einrichtung entscheidet bei Streitigkeiten zwischen ihr und einem Versicherer in der Form einer Verfügung im Sinne von Artikel 5 des Bundesgesetzes vom 20. Dezember 1968[^22-4] über das Verwaltungsverfahren (VwVG) über:[^22-5]
 
-- a. die Umverteilung von Reserven nach Artikel 43 Absatz 3 des Krankenversicherungsaufsichtsgesetzes vom 26. September 2014[^22-5] (KVAG);
+- a. die Umverteilung von Reserven nach Artikel 43 Absatz 3 des Krankenversicherungsaufsichtsgesetzes vom 26. September 2014[^22-6] (KVAG);
 - b. die Beiträge der Versicherer zur Finanzierung des Insolvenzfonds nach Artikel 48 Buchstabe a KVAG;
-- c. Auszahlungen aus dem Insolvenzfonds nach Artikel 51 Absatz 1 KVAG.[^22-6]
+- c. Auszahlungen aus dem Insolvenzfonds nach Artikel 51 Absatz 1 KVAG;
+- d.[^22-7] die Aufteilung des kantonalen Anteils auf die Kantone nach Artikel 19*a*.[^22-8]
 
-<sup>3bis</sup> Sie entscheidet bei Streitigkeiten zwischen ihr und einem Kanton in der Form einer Verfügung im Sinne von Artikel 5 VwVG über die Aufteilung des kantonalen Anteils auf die Kantone nach Artikel 19*a*.[^22-7]
+<sup>3bis</sup> Sie entscheidet bei Streitigkeiten zwischen ihr und einem Kanton in der Form einer Verfügung im Sinne von Artikel 5 VwVG über die Aufteilung des kantonalen Anteils auf die Kantone nach Artikel 19*a*.[^22-9]
 
-<sup>4</sup> Der Rechtsmittelweg richtet sich nach den allgemeinen Bestimmungen der Bundesrechtspflege.[^22-8]
+<sup>4</sup> Der Rechtsmittelweg richtet sich nach den allgemeinen Bestimmungen der Bundesrechtspflege.[^22-10]
 
 [^22-1]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
 [^22-2]: [SR 832.112.1](https://fedlex.data.admin.ch/eli/cc/2016/674)
 [^22-3]: Fassung gemäss Art. 31 der V vom 19. Okt. 2016 über den Risikoausgleich in der Krankenversicherung, in Kraft seit 1. Jan. 2020 ([AS 2016 4059](https://fedlex.data.admin.ch/eli/oc/2016/674)).
 [^22-4]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^22-5]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
-[^22-6]: Eingefügt durch Ziff. I der V vom 3. Dez. 2004 ([AS 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)). Fassung gemäss Art. 31 der V vom 19. Okt. 2016 über den Risikoausgleich in der Krankenversicherung, in Kraft seit 1. Jan. 2020 ([AS 2016 4059](https://fedlex.data.admin.ch/eli/oc/2016/674)).
+[^22-5]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2019 ([AS 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
+[^22-6]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
 [^22-7]: Eingefügt durch Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2019 ([AS 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
-[^22-8]: Eingefügt durch Ziff. I der V vom 26. April 2006, in Kraft seit 10. Mai 2006 ([AS 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
+[^22-8]: Eingefügt durch Ziff. I der V vom 3. Dez. 2004 ([AS 2004 5075](https://fedlex.data.admin.ch/eli/oc/2004/784)). Fassung gemäss Art. 31 der V vom 19. Okt. 2016 über den Risikoausgleich in der Krankenversicherung, in Kraft seit 1. Jan. 2020 ([AS 2016 4059](https://fedlex.data.admin.ch/eli/oc/2016/674)).
+[^22-9]: Eingefügt durch Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2019 ([AS 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
+[^22-10]: Eingefügt durch Ziff. I der V vom 26. April 2006, in Kraft seit 10. Mai 2006 ([AS 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)).
 
 ### 4. Kapitel: Förderung der Gesundheit
 
@@ -619,7 +622,7 @@ Das BAG veröffentlicht je Versicherer namentlich folgende Kennzahlen der sozial
 <sup>6</sup> Es kann für die Bearbeitung des Gesuches eine Gebühr erheben. Diese wird nach Zeitaufwand bemessen, darf aber 10 000 Franken nicht überschreiten. Der Stundenansatz beträgt je nach erforderlicher Sachkenntnis und Funktionsstufe des ausführenden Personals 90–200 Franken. Im Übrigen gelten die Bestimmungen der Allgemeinen Gebührenverordnung vom 8. September 2004[^28c-2].
 
 [^28c-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
-[^28c-2]: SR **172.041.1**
+[^28c-2]: [SR 172.041.1](https://fedlex.data.admin.ch/eli/cc/2004/677)
 
 #### Art. 29
 
@@ -718,10 +721,11 @@ Das BFS gibt folgenden Datenempfängern folgende Daten weiter:
 
   - 1\. die Daten nach Artikel 30, sofern diese für die Planung der Spitäler, Geburtshäuser und Pflegeheime (Art. 39 KVG) erforderlich sind,
   - 2\. die Daten nach Artikel 30 Buchstaben a, d und e, sofern diese für die Beurteilung der Tarife (Art. 43, 46 Abs. 4 und 47 KVG) erforderlich sind,
-  - 3\.[^30b-4] die Daten nach Artikel 30, sofern sie für die Festlegung der Höchstzahlen notwendig sind (Art. 55*a* KVG);
+  - 3\.[^30b-4] die Daten nach Artikel 30, sofern sie für die Festlegung der Höchstzahlen notwendig sind (Art. 55*a* KVG),
+  - 4\.[^30b-5] die Daten nach Artikel 30, sofern sie für die Festlegung der Pflegekosten notwendig sind (Art. 55*b* KVG);
 
 - c. den Versicherern: die Daten nach Artikel 30 Buchstaben a, c, d und e, sofern diese für den Vollzug der Bestimmungen zur Kontrolle der Wirtschaftlichkeit der Leistungen, die von der obligatorischen Krankenpflegeversicherung übernommen werden, erforderlich sind;
-- d. dem Preisüberwacher: die Daten nach Artikel 30, sofern diese zur Prüfung von Preisen und Tarifen im Gesundheitswesen im Rahmen von Artikel 14 des Preisüberwachungsgesetzes vom 20. Dezember 1985[^30b-5] erforderlich sind.
+- d. dem Preisüberwacher: die Daten nach Artikel 30, sofern diese zur Prüfung von Preisen und Tarifen im Gesundheitswesen im Rahmen von Artikel 14 des Preisüberwachungsgesetzes vom 20. Dezember 1985[^30b-6] erforderlich sind.
 
 <sup>2</sup> Es stellt die Anonymität des Personals nach Artikel 30 Buchstabe b und der Patientinnen und Patienten nach Artikel 30 Buchstabe c bei der Weitergabe der personenbezogenen Daten sicher.
 
@@ -736,7 +740,8 @@ Die Daten nach Artikel 30 werden grundsätzlich auf Betriebsebene aggregiert wei
 [^30b-2]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 [^30b-3]: Eingefügt durch Ziff. I der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 [^30b-4]: Eingefügt durch Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
-[^30b-5]: [SR 942.20](https://fedlex.data.admin.ch/eli/cc/1986/895_895_895)
+[^30b-5]: Eingefügt durch Ziff. I der V vom 8. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 220](https://fedlex.data.admin.ch/eli/oc/2024/220)).
+[^30b-6]: [SR 942.20](https://fedlex.data.admin.ch/eli/cc/1986/895_895_895)
 
 #### Art. 30c
 
@@ -1276,6 +1281,8 @@ Ergotherapeuten und Ergotherapeutinnen werden zugelassen, wenn sie die folgenden
 
 **Pflegefachmänner und Pflegefachfrauen**[^49-1]
 
+<sup>1</sup>
+
 Pflegefachmänner und Pflegefachfrauen werden zugelassen, wenn sie die folgenden Voraussetzungen erfüllen:
 
 - a. Sie verfügen über eine kantonale Bewilligung für die Berufsausübung als Pflegefachmann oder Pflegefachfrau nach Artikel 11 GesBG[^49-2] oder eine nach Artikel 34 Absatz 1 GesBG anerkannte Bewilligung.
@@ -1290,8 +1297,11 @@ Pflegefachmänner und Pflegefachfrauen werden zugelassen, wenn sie die folgenden
 - c. Sie üben ihren Beruf selbstständig und auf eigene Rechnung aus.
 - d. Sie weisen nach, dass sie die Qualitätsanforderungen nach Artikel 58*g* erfüllen.
 
+<sup>2</sup> Die Beschränkungen der Anzahl zugelassener Pflegefachmänner und Pflegefachfrauen (Art. 55*b* KVG) durch die Kantone bleiben vorbehalten.[^49-3]
+
 [^49-1]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
 [^49-2]: [SR 811.21](https://fedlex.data.admin.ch/eli/cc/2020/16)
+[^49-3]: Eingefügt durch Ziff. I der V vom 8. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 220](https://fedlex.data.admin.ch/eli/oc/2024/220)).
 
 #### Art. 50
 
@@ -1369,17 +1379,18 @@ Psychologische Psychotherapeuten und psychologische Psychotherapeutinnen werden 
 
   Sie haben eine klinische Erfahrung von drei Jahren, davon mindestens 12 Monate in psychotherapeutisch-psychiatrischen Einrichtungen, die über eine der folgenden Anerkennungen des Schweizerischen Instituts für ärztliche Weiter- und Fortbildung (SIWF) verfügen:
 
-  - 1\.[^50c-3] ambulante oder stationäre Weiterbildungsstätte der Kategorie A, B oder C nach dem Weiterbildungsprogramm «Facharzt für Psychiatrie und Psychotherapie» vom 1. Juli 2009[^50c-4] in der Fassung vom 15. Dezember 2016;
-  - 2\. Weiterbildungsstätte der Kategorien A, B oder C nach dem Weiterbildungsprogramm «Facharzt für Kinder- und Jugendpsychiatrie und ‑psychotherapie» vom 1. Juli 2006[^50c-5] in der Fassung vom 20. Dezember 2018.
+  - 1\.[^50c-3] ambulante oder stationäre Weiterbildungsstätte der Kategorie A, B oder C nach dem Weiterbildungsprogramm «Fachärztin oder Facharzt für Psychiatrie und Psychotherapie» vom 1. Januar 2024[^50c-4] oder der Kategorien A oder B nach den Schwerpunktprogrammen «Alterspsychiatrie und -psychotherapie», «Konsiliar- und Liaisonpsychiatrie», «Forensische Psychiatrie und Psychotherapie» und «Psychiatrie und Psychotherapie der Abhängigkeitserkrankungen» in der am 1. Januar 2024[^50c-5] geltenden Fassung;
+  - 2\. Weiterbildungsstätte der Kategorien A, B oder C nach dem Weiterbildungsprogramm «Facharzt für Kinder- und Jugendpsychiatrie und ‑psychotherapie» vom 1. Juli 2006[^50c-6] in der Fassung vom 20. Dezember 2018.
 
 - c. Sie üben ihren Beruf selbstständig und auf eigene Rechnung aus.
 - d. Sie weisen nach, dass sie die Qualitätsanforderungen nach Artikel 58*g* erfüllen.
 
 [^50c-1]: Eingefügt durch Ziff. I der V vom 19. März 2021 ([AS 2021 188](https://fedlex.data.admin.ch/eli/oc/2021/188)). Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Juli 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
 [^50c-2]: [SR 935.81](https://fedlex.data.admin.ch/eli/cc/2012/268)
-[^50c-3]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
-[^50c-4]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref.
-[^50c-5]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref.
+[^50c-3]: Fassung gemäss Ziff. I der V vom 7. Juni 2024, in Kraft seit 1. Juli 2024 ([AS 2024 265](https://fedlex.data.admin.ch/eli/oc/2024/265)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+[^50c-4]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
+[^50c-5]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
+[^50c-6]: Das Dokument ist einsehbar unter: www.bag.admin.ch/ref.
 
 #### Art. 50d
 
@@ -1407,15 +1418,22 @@ Podologen und Podologinnen werden zugelassen, wenn sie die folgenden Voraussetzu
 
 **Organisationen der Krankenpflege und Hilfe zu Hause**[^51-1]
 
+<sup>1</sup>
+
 Organisationen der Krankenpflege und Hilfe zu Hause werden zugelassen, wenn sie die folgenden Voraussetzungen erfüllen:
 
 - a. Sie sind nach der Gesetzgebung des Kantons, in dem sie tätig sind, zugelassen.
+- a<sup>bis</sup>.[^51-2] Sie verfügen über einen kantonalen Leistungsauftrag nach Artikel 36*a* Absatz 3 KVG.
 - b. Sie haben ihren örtlichen, zeitlichen, sachlichen und personellen Tätigkeitsbereich festgelegt.
 - c. Sie verfügen über das erforderliche Fachpersonal, das eine dem Tätigkeitsbereich entsprechende Ausbildung hat.
 - d. Sie verfügen über die für die Leistungserbringung notwendigen Einrichtungen.
 - e. Sie weisen nach, dass sie die Qualitätsanforderungen nach Artikel 58*g* erfüllen.
 
+<sup>2</sup> Die Beschränkungen der Anzahl zugelassener Organisationen der Krankenpflege und Hilfe zu Hause (Art. 55*b* KVG) durch die Kantone bleiben vorbehalten.[^51-3]
+
 [^51-1]: Fassung gemäss Ziff. I der V vom 23. Juni 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 439](https://fedlex.data.admin.ch/eli/oc/2021/439)).
+[^51-2]: Eingefügt durch Ziff. I der V vom 8. Mai 2024, in Kraft vom 1. Juli 2024 bis zum 30. Juni 2032 ([AS 2024 220](https://fedlex.data.admin.ch/eli/oc/2024/220)).
+[^51-3]: Eingefügt durch Ziff. I der V vom 8. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 220](https://fedlex.data.admin.ch/eli/oc/2024/220)).
 
 #### Art. 52
 
@@ -1528,7 +1546,7 @@ Als Laboratorien werden Einrichtungen zugelassen, die:
 - c.[^53-1] …
 - d. den übrigen von der Gesetzgebung des Bundes oder des Kantons festgesetzten Anforderungen an Laboratorien entsprechen;
 - e.[^53-2] über eine entsprechende Bewilligung der Swissmedic verfügen, wenn sie Untersuchungen zur Erkennung übertragbarer Krankheiten durchführen;
-- [tab] e<sup>bis</sup>.[^53-3] über eine entsprechende Bewilligung des BAG verfügen, wenn sie zyto- oder molekulargenetische Untersuchungen durchführen;
+- e<sup>bis</sup>.[^53-3] über eine entsprechende Bewilligung des BAG verfügen, wenn sie zyto- oder molekulargenetische Untersuchungen durchführen;
 - f. über zweckentsprechende Einrichtungen und das erforderliche Fachpersonal verfügen;
 - g. die Zulassungsbedingungen nach Artikel 54 erfüllen.
 
@@ -1826,12 +1844,15 @@ Die Leistungserbringer haben in ihren Rechnungen alle administrativen und medizi
 
 <sup>3</sup> Bei Analysen erfolgt die Rechnungsstellung an den Schuldner der Vergütung ausschliesslich durch das Laboratorium, das die Analyse durchgeführt hat. Pauschaltarife nach Artikel 49 des Gesetzes bleiben vorbehalten.
 
-<sup>4</sup> Die Leistungserbringer stellen sicher, dass die Rechnung für die versicherte Person nachvollziehbar ist und dass insbesondere Art, Dauer und Inhalt der Behandlung verständlich dargestellt werden.[^59-4]
+<sup>3bis</sup> Für Leistungen nach Artikel 25*a* KVG weist die Rechnung an den Schuldner der Vergütung aus, ob die Leistungen mit oder ohne ärztliche Anordnung oder ärztlichen Auftrag erbracht wurden.[^59-4]
+
+<sup>4</sup> Die Leistungserbringer stellen sicher, dass die Rechnung für die versicherte Person nachvollziehbar ist und dass insbesondere Art, Dauer und Inhalt der Behandlung verständlich dargestellt werden.[^59-5]
 
 [^59-1]: Fassung gemäss Ziff. I der V vom 4. Juli 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 4089](https://fedlex.data.admin.ch/eli/oc/2012/474)).
 [^59-2]: [SR 832.105](https://fedlex.data.admin.ch/eli/cc/2007/101)
 [^59-3]: Ausdruck gemäss Anhang Ziff. II 36 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
-[^59-4]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
+[^59-4]: Eingefügt durch Ziff. I der V vom 8. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 220](https://fedlex.data.admin.ch/eli/oc/2024/220)).
+[^59-5]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
 
 #### Art. 59a
 
@@ -2471,6 +2492,8 @@ Der Vertriebsanteil gilt die logistischen Leistungen ab. Er setzt sich wie folgt
 
 - b. für Arzneimittel, die aufgrund der Einteilung der Swissmedic nicht verschreibungspflichtig sind, aus einem preisbezogenen Zuschlag.
 
+<sup>4bis</sup> Für Arzneimittel mit gleicher Wirkstoffzusammensetzung gilt ein einheitlicher Vertriebsanteil.[^67-2]
+
 <sup>5</sup>
 
 Für die Erhöhung der in der Spezialitätenliste festgesetzten Preise bedarf es einer Bewilligung des BAG. Die Bewilligung wird nur erteilt, wenn:
@@ -2479,6 +2502,7 @@ Für die Erhöhung der in der Spezialitätenliste festgesetzten Preise bedarf es
 - b. seit der Aufnahme oder der letzten Preiserhöhung mindestens zwei Jahre verstrichen sind.
 
 [^67-1]: Fassung gemäss Ziff. I der V vom 22. Sept. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^67-2]: Eingefügt durch Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Juli 2024 ([AS 2023 794](https://fedlex.data.admin.ch/eli/oc/2023/794)).
 
 #### Art. 67a
 
@@ -3071,11 +3095,11 @@ Das EDI setzt nach Anhören der zuständigen Kommission die Massnahmen nach Arti
 
 [^77k-1]: Eingefügt durch Ziff. I der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 
-## 4*a*. Titel: Pilotprojekte
+### 4*a*. Titel: Pilotprojekte
 
-[^tit4a-1]
+[^part1-tit4a-1]
 
-[^tit4a-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
+[^part1-tit4a-1]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 814](https://fedlex.data.admin.ch/eli/oc/2022/814)).
 
 #### Art. 77l
 
@@ -3349,10 +3373,10 @@ Die Prämien sind im Voraus und in der Regel monatlich zu bezahlen.
 
 ### 1*a*. Abschnitt: Prämien der Versicherten mit Wohnort in einem Mitgliedstaat der Europäischen Union, in Island, in Norwegen oder im Vereinigten Königreich
 
-[^tit4a-tit5-chap2-sec1a-1][^tit4a-tit5-chap2-sec1a-2]
+[^part1-tit5-chap2-sec1a-1][^part1-tit5-chap2-sec1a-2]
 
-[^tit4a-tit5-chap2-sec1a-1]: Eingefügt durch Ziff. I der V vom 3. Juli 2001, in Kraft seit 1. Juni 2002 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
-[^tit4a-tit5-chap2-sec1a-2]: Fassung gemäss Ziff. I der V vom 2. Nov. 2011, in Kraft seit 1. April 2012 ([AS 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
+[^part1-tit5-chap2-sec1a-1]: Eingefügt durch Ziff. I der V vom 3. Juli 2001, in Kraft seit 1. Juni 2002 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
+[^part1-tit5-chap2-sec1a-2]: Fassung gemäss Ziff. I der V vom 2. Nov. 2011, in Kraft seit 1. April 2012 ([AS 2012 955](https://fedlex.data.admin.ch/eli/oc/2012/162)).
 
 #### Art. 92a
 
@@ -3368,10 +3392,10 @@ Wohnt die versicherte Person im Ausland, so erhebt der Versicherer die Prämien 
 
 ### 1*b*. Abschnitt: Prämien von nothilfeberechtigten Personen nach Artikel 82 AsylG
 
-[^tit4a-tit5-chap2-sec1b-1][^tit4a-tit5-chap2-sec1b-2]
+[^part1-tit5-chap2-sec1b-1][^part1-tit5-chap2-sec1b-2]
 
-[^tit4a-tit5-chap2-sec1b-1]: Eingefügt durch Ziff. I der V vom 6. Juli 2011, in Kraft seit 1. Aug. 2011 ([AS 2011 3535](https://fedlex.data.admin.ch/eli/oc/2011/478)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
-[^tit4a-tit5-chap2-sec1b-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
+[^part1-tit5-chap2-sec1b-1]: Eingefügt durch Ziff. I der V vom 6. Juli 2011, in Kraft seit 1. Aug. 2011 ([AS 2011 3535](https://fedlex.data.admin.ch/eli/oc/2011/478)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+[^part1-tit5-chap2-sec1b-2]: [SR 142.31](https://fedlex.data.admin.ch/eli/cc/1999/358)
 
 #### Art. 92d
 
@@ -3507,7 +3531,7 @@ Die Sistierung der Fälligkeit der Prämien wird ohne rückwirkende Bezahlung de
 
 <sup>2</sup> Bei einer Versicherung mit eingeschränkter Wahl der Leistungserbringer kann der Versicherer auf die Erhebung des Selbstbehaltes und der Franchise ganz oder teilweise verzichten.[^99-2]
 
-[^99-1]: Fassung gemäss Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
+[^99-1]: Eingefügt durch Ziff. I der V vom 15. Nov. 2017, in Kraft seit 1. Jan. 2018 ([AS 2017 6723](https://fedlex.data.admin.ch/eli/oc/2017/749)).
 [^99-2]: Fassung gemäss Ziff. I der V vom 17. Sept. 1997, in Kraft seit 1. Jan. 1998 ([AS 1997 2272](https://fedlex.data.admin.ch/eli/oc/1997/2272_2272_2272)).
 
 #### Art. 100
@@ -3644,9 +3668,9 @@ Das EDI bezeichnet die Leistungen, für die nach Artikel 64 Absatz 6 Buchstabe a
 
 ### 3*a*. Kapitel: Nichtbezahlung von Prämien und Kostenbeteiligungen
 
-[^tit4a-tit5-chap3a-1]
+[^part1-tit5-chap3a-1]
 
-[^tit4a-tit5-chap3a-1]: Eingefügt durch Ziff. I der V vom 27. Juni 2007, in Kraft seit 1. Aug. 2007 ([AS 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
+[^part1-tit5-chap3a-1]: Eingefügt durch Ziff. I der V vom 27. Juni 2007, in Kraft seit 1. Aug. 2007 ([AS 2007 3573](https://fedlex.data.admin.ch/eli/oc/2007/439)).
 
 #### Art. 105a
 
@@ -3829,15 +3853,15 @@ Ist es nach dem Recht eines Mitgliedstaats der Europäischen Union, Islands, Nor
 
 ### 4. Kapitel: Prämienverbilligung durch die Kantone
 
-[^tit4a-tit5-chap4-1]
+[^part1-tit5-chap4-1]
 
-[^tit4a-tit5-chap4-1]: Fassung gemäss Ziff. I der V vom 3. Juli 2001, in Kraft seit 1. Juni 2002 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
+[^part1-tit5-chap4-1]: Fassung gemäss Ziff. I der V vom 3. Juli 2001, in Kraft seit 1. Juni 2002 ([AS 2002 915](https://fedlex.data.admin.ch/eli/oc/2002/161)).
 
 ### 1. Abschnitt: Anspruchsberechtigte
 
-[^tit4a-tit5-chap4-sec1-1]
+[^part1-tit5-chap4-sec1-1]
 
-[^tit4a-tit5-chap4-sec1-1]: Eingefügt durch Ziff. I der V vom 22. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
+[^part1-tit5-chap4-sec1-1]: Eingefügt durch Ziff. I der V vom 22. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
 
 #### Art. 106
 
@@ -3866,9 +3890,9 @@ Die Prämienverbilligung richtet sich nach Artikel 65*a* des Gesetzes:
 
 ### 2. Abschnitt: Durchführung der Prämienverbilligung
 
-[^tit4a-tit5-chap4-sec2-1]
+[^part1-tit5-chap4-sec2-1]
 
-[^tit4a-tit5-chap4-sec2-1]: Eingefügt durch Ziff. I der V vom 22. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
+[^part1-tit5-chap4-sec2-1]: Eingefügt durch Ziff. I der V vom 22. Juni 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 3527](https://fedlex.data.admin.ch/eli/oc/2011/477)).
 
 #### Art. 106b
 
@@ -4100,7 +4124,7 @@ Eine Überentschädigung bei Sachleistungen liegt in dem Masse vor, als die jewe
 
 Wird eine Verfügung auf Grund von Artikel 51 Absatz 2 ATSG verlangt, so hat der Versicherer sie innerhalb von 30 Tagen zu erlassen.
 
-[^127-1]: Aufgehoben durch Ziff. I der V vom 22. Nov. 2000 ([AS 2000 2911](https://fedlex.data.admin.ch/eli/oc/2000/510)). Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
+[^127-1]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3908](https://fedlex.data.admin.ch/eli/oc/2002/605)).
 
 #### Art. 128–129
 
@@ -4560,19 +4584,23 @@ Für Gesuche um Anerkennung der Gleichwertigkeit von Weiterbildungstiteln in Lab
 
 <sup>4</sup> Bei der ersten Überprüfung der Aufnahmebedingungen alle drei Jahre nach dem Inkrafttreten der Änderung vom 22. September 2023 wird die Wirtschaftlichkeit von Biosimilars, die vor dem Inkrafttreten dieser Änderung in die Spezialitätenliste aufgenommen wurden, anhand der Preisabstände der Aufnahme (Art. 65*c*<sup>bis</sup>) beurteilt.
 
-## Übergangsbestimmungen zur Änderung vom 22. November 2023
+## Übergangsbestimmung zur Änderung vom 8. Mai 2024
 
 [^u33-1]
 
-[^u33-1]: [AS 2023 751](https://fedlex.data.admin.ch/eli/oc/2023/751)
+[^u33-1]: [AS 2024 220](https://fedlex.data.admin.ch/eli/oc/2024/220)
 
-<sup>1</sup> Der Kanton informiert den Versicherer innerhalb von zwei Wochen nach Ablauf jedes Quartals über die Übernahme von zusätzlich 3 Prozent einer Forderung, von der er vor dem Inkrafttreten der Änderung vom 18. März 2022[^u33-2] des KVG bereits einen Anteil von 85 Prozent übernommen hatte.
+Die Kantone erteilen innerhalb von zwei Jahren nach Inkrafttreten der Änderung vom 8. Mai 2024 den Organisationen der Krankenpflege und Hilfe zu Hause, die bei Inkrafttreten dieser Änderung bereits zugelassen sind, einen Leistungsauftrag nach Artikel 36*a* Absatz 3 KVG.
 
-<sup>2</sup> Der Versicherer bestätigt die Forderung innerhalb von 30 Tagen nach der Information durch den Kanton oder informiert den Kanton über jede eingegangene Bezahlung seit der Zahlung des Anteils von 85 Prozent durch den Kanton. Hat der Kanton zusätzlich 3 Prozent der Forderung übernommen, so tritt der Versicherer ihm diese Forderung innerhalb von drei Monaten nach der Zahlung durch den Kanton ab, sofern es sich um Prämien, Kostenbeteiligungen, Verzugszinsen oder Betreibungskosten handelt.
+## Übergangsbestimmung zur Änderung vom 7. Juni 2024
 
-<sup>3</sup> Die versicherte Person, deren Kanton zusätzlich 3 Prozent einer gemeldeten Forderung übernommen hat, gilt ab der Zahlung durch den Kanton nicht mehr als säumig.
+[^u34-1]
 
-[^u33-2]: [AS 2022 701](https://fedlex.data.admin.ch/eli/oc/2022/701)
+[^u34-1]: [AS 2024 265](https://fedlex.data.admin.ch/eli/oc/2024/265)
+
+Bis zum 31. Dezember 2023 angeeignete klinische Erfahrung in psychotherapeutischen-psychiatrischen Einrichtungen, die über eine Anerkennung des SIWF als ambulante oder stationäre Weiterbildungsstätte der Kategorie A, B oder C nach dem Weiterbildungsprogramm «Facharzt für Psychiatrie und Psychotherapie» vom 1. Juli 2009 in der Fassung vom 15. Dezember 2016[^u34-2] verfügten, ist der klinischen Erfahrung nach Artikel 50*c* Buchstabe b Ziffer 1 gleichgestellt.
+
+[^u34-2]: Das Dokument ist einsehbar unter: [www.bag.admin.ch/ref](http://www.bag.admin.ch/ref).
 
 Anhang 1[^t-1]
 
