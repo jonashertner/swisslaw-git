@@ -3,20 +3,20 @@ sr: "131.211"
 title: "Verfassung des Kantons Zürich, vom 27. Februar 2005"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/14_fga"
 language: de
-version: 2023-09-20
+version: 2024-07-01
 adopted: 2005-02-27
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/14_fga/20230920/de/xml/fedlex-data-admin-ch-eli-cc-2006-14_fga-20230920-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/14_fga/20230920/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/14_fga/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2006-14_fga-20240701-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/14_fga/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verfassung des Kantons Zürich
 
-vom 27. Februar 2005 (Stand am 20. September 2023)[^t-1]
+vom 27. Februar 2005 (Stand am 1. Juli 2024)[^t-1]
 
-[^t-1]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen. Der Stand bezeichnet daher das Datum des letzten im BBl veröffentlichten Gewährleistungsbeschlusses der Bundesversammlung.
+[^t-1]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen.
 
 **Präambel**
 
@@ -369,7 +369,7 @@ Eine Volksabstimmung können verlangen:
 
 <sup>4</sup> Die Gemeinden bestimmen*,* welches Organ das Gemeindereferendum ergreifen kann. Die Stadt Zürich und die Stadt Winterthur können nur mit Beschluss ihres Parlaments das Referendum alleine ergreifen.
 
-[^33-1]: Angenommen in der [Volksabstimmung vom 7. März 2021](http://www.admin.ch/ch/d/pore/va/20210307/index.html), in Kraft seit 1. Jan. 2022. Gewährleistungsbeschluss vom 16. März 2022 ([BBl 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)Art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^33-1]: Angenommen in der Volksabstimmung vom 7. März 2021, in Kraft seit 1. Jan. 2022. Gewährleistungsbeschluss vom 16. März 2022 ([BBl 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)Art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
 
 ### Teil- und Variantenabstimmung
 
@@ -388,7 +388,7 @@ Für den Fall einer Volksabstimmung kann der Kantonsrat ausnahmsweise beschliess
 
 [^35-1]
 
-[^35-1]: Aufgehoben in der [Volksabstimmung vom 23. Sept. 2012](http://www.admin.ch/ch/d/pore/va/20120923/index.html), mit Wirkung seit 1. Mai 2013. Gewährleistungsbeschluss vom 24. Sept. 2014 ([BBl 2014 7859](https://fedlex.data.admin.ch/eli/fga/2014/1644)Art. 1 Ziff. 1, [3723](https://fedlex.data.admin.ch/eli/fga/2014/868)).
+[^35-1]: Aufgehoben in der Volksabstimmung vom 23. Sept. 2012, mit Wirkung seit 1. Mai 2013. Gewährleistungsbeschluss vom 24. Sept. 2014 ([BBl 2014 7859](https://fedlex.data.admin.ch/eli/fga/2014/1644)Art. 1 Ziff. 1, [3723](https://fedlex.data.admin.ch/eli/fga/2014/868)).
 
 ### Konkurrierende Vorlagen
 
@@ -449,9 +449,17 @@ Alle wichtigen Rechtssätze des kantonalen Rechts werden in der Form des Gesetze
 
 #### Art. 40
 
-<sup>1</sup> In den Kantonsrat, den Regierungsrat, die obersten kantonalen Gerichte und den Ständerat kann gewählt werden, wer in kantonalen Angelegenheiten stimmberechtigt ist. Wer in die übrigen Behörden gewählt werden kann, bestimmt das Gesetz.
+[^40-1]
 
-<sup>2</sup> Kanton und Gemeinden streben eine angemessene Vertretung beider Geschlechter in Behörden und Kommissionen an.
+<sup>1</sup> In den Kantonsrat, den Regierungsrat, die obersten kantonalen Gerichte und den Ständerat kann gewählt werden, wer in kantonalen Angelegenheiten stimmberechtigt ist.
+
+<sup>2</sup> Für die Wahl in die obersten kantonalen Gerichte kann das Gesetz weitere Wählbarkeitsvoraussetzungen, Ausnahmen von der Wohnsitzpflicht und Bestimmungen zur Amtsdauer festlegen.
+
+<sup>3</sup> Wer in die übrigen Behörden gewählt werden kann, bestimmt das Gesetz.
+
+<sup>4</sup> Kanton und Gemeinden streben eine angemessene Vertretung beider Geschlechter in Behörden und Kommissionen an.
+
+[^40-1]: Angenommen in der Volksabstimmung vom 3. März 2024, in Kraft seit 1. Juli 2024. Gewährleistungsbeschluss vom 17. März 2025 ([BBl 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)Art. 1; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 ### Amtsdauer
 
@@ -609,9 +617,9 @@ Der Zustimmung der Mehrheit aller Mitglieder bedürfen:
 
 <sup>3</sup> Der Kantonsrat beschliesst innert sechs Monaten über Anträge des Regierungsrates, die dem mittelfristigen Ausgleich der laufenden Rechnung des Staatshaushaltes dienen. Er ist an den Gesamtbetrag der mit den Anträgen erzielbaren Saldoverbesserung gebunden.
 
-[^56-1]: Angenommen in der [Volksabstimmung vom 7. März 2021](http://www.admin.ch/ch/d/pore/va/20210307/index.html), in Kraft seit 1. Jan. 2022. Gewährleistungsbeschluss vom 16. März 2022 ([BBl 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)Art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
-[^56-2]: Angenommen in der [Volksabstimmung vom 7. März 2021](http://www.admin.ch/ch/d/pore/va/20210307/index.html), in Kraft seit 1. Jan. 2022. Gewährleistungsbeschluss vom 16. März 2022 ([BBl 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)Art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
-[^56-3]: Angenommen in der [Volksabstimmung vom 7. März 2021](http://www.admin.ch/ch/d/pore/va/20210307/index.html), in Kraft seit 1. Jan. 2022. Gewährleistungsbeschluss vom 16. März 2022 ([BBl 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)Art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^56-1]: Angenommen in der Volksabstimmung vom 7. März 2021, in Kraft seit 1. Jan. 2022. Gewährleistungsbeschluss vom 16. März 2022 ([BBl 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)Art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^56-2]: Angenommen in der Volksabstimmung vom 7. März 2021, in Kraft seit 1. Jan. 2022. Gewährleistungsbeschluss vom 16. März 2022 ([BBl 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)Art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^56-3]: Angenommen in der Volksabstimmung vom 7. März 2021, in Kraft seit 1. Jan. 2022. Gewährleistungsbeschluss vom 16. März 2022 ([BBl 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)Art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
 
 ### Parlamentarische Kontrolle
 
@@ -737,9 +745,9 @@ Er beschliesst im Rahmen des Budgets über:
 
 <sup>3</sup> Er beschliesst über die Veräusserung von Vermögenswerten bis 4 Millionen Franken, die öffentlichen Zwecken dienen.[^68-3]
 
-[^68-1]: Angenommen in der [Volksabstimmung vom 7. März 2021](http://www.admin.ch/ch/d/pore/va/20210307/index.html), in Kraft seit 1. Jan. 2022. Gewährleistungsbeschluss vom 16. März 2022 ([BBl 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)Art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
-[^68-2]: Angenommen in der [Volksabstimmung vom 7. März 2021](http://www.admin.ch/ch/d/pore/va/20210307/index.html), in Kraft seit 1. Jan. 2022. Gewährleistungsbeschluss vom 16. März 2022 ([BBl 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)Art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
-[^68-3]: Angenommen in der [Volksabstimmung vom 7. März 2021](http://www.admin.ch/ch/d/pore/va/20210307/index.html), in Kraft seit 1. Jan. 2022. Gewährleistungsbeschluss vom 16. März 2022 ([BBl 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)Art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^68-1]: Angenommen in der Volksabstimmung vom 7. März 2021, in Kraft seit 1. Jan. 2022. Gewährleistungsbeschluss vom 16. März 2022 ([BBl 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)Art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^68-2]: Angenommen in der Volksabstimmung vom 7. März 2021, in Kraft seit 1. Jan. 2022. Gewährleistungsbeschluss vom 16. März 2022 ([BBl 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)Art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^68-3]: Angenommen in der Volksabstimmung vom 7. März 2021, in Kraft seit 1. Jan. 2022. Gewährleistungsbeschluss vom 16. März 2022 ([BBl 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)Art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
 
 ### Interkantonale und internationale Zusammenarbeit
 
@@ -805,7 +813,7 @@ Der Regierungsrat:
 
 <sup>2</sup> Die obersten kantonalen Gerichte sind das Obergericht, das Verwaltungsgericht und das Sozialversicherungsgericht.[^74-1]
 
-[^74-1]: Angenommen in der [Volksabstimmung vom 26. Sept. 2010](http://www.admin.ch/ch/d/pore/va/20100926/index.html), in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 1, [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^74-1]: Angenommen in der Volksabstimmung vom 26. Sept. 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 1, [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
 
 ### Wahl
 
@@ -825,8 +833,8 @@ Der Regierungsrat:
 
 <sup>3</sup> …[^76-2]
 
-[^76-1]: Angenommen in der [Volksabstimmung vom 26. Sept. 2010](http://www.admin.ch/ch/d/pore/va/20100926/index.html), in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 1, [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
-[^76-2]: Aufgehoben in der [Volksabstimmung vom 26. Sept. 2010](http://www.admin.ch/ch/d/pore/va/20100926/index.html), mit Wirkung seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 1, [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^76-1]: Angenommen in der Volksabstimmung vom 26. Sept. 2010, in Kraft seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 1, [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^76-2]: Aufgehoben in der Volksabstimmung vom 26. Sept. 2010, mit Wirkung seit 1. Jan. 2011. Gewährleistungsbeschluss vom 29. Sept. 2011 ([BBl 2011 7619](https://fedlex.data.admin.ch/eli/fga/2011/1266)Art. 1 Ziff. 1, [4467](https://fedlex.data.admin.ch/eli/fga/2011/693)).
 
 ### Verwaltungsrechtspflege
 
@@ -1123,7 +1131,7 @@ Kanton und Gemeinden sorgen für eine geordnete Besiedlung, die zweckmässige un
 
 <sup>3</sup> Sie können die Entwicklung und Anwendung von Technologien, Materialien und Prozessen fördern, die zum Klimaschutz und zur Anpassung an den Klimawandel beitragen.
 
-[^102a-1]: Angenommen in der [Volksabstimmung vom 15. Mai 2022](http://www.admin.ch/ch/d/pore/va/20220515/index.html), in Kraft seit 1. Nov. 2022. Gewährleistungsbeschluss vom 6. März 2023 ([BBl 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)Art. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
+[^102a-1]: Angenommen in der Volksabstimmung vom 15. Mai 2022, in Kraft seit 1. Nov. 2022. Gewährleistungsbeschluss vom 6. März 2023 ([BBl 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)Art. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 
 ### Natur- und Heimatschutz
 
@@ -1145,7 +1153,7 @@ Kanton und Gemeinden sorgen für eine geordnete Besiedlung, die zweckmässige un
 
 <sup>3</sup> Kanton und Gemeinden fördern den öffentlichen Personenverkehr im ganzen Kantonsgebiet.
 
-[^104-1]: Angenommen in der [Volksabstimmung vom 24. Sept. 2017](http://www.admin.ch/ch/d/pore/va/20170924/index.html), in Kraft seit 1. Febr. 2018. Gewährleistungsbeschluss vom 17. Sept. 2018 ([BBl 2018 6287](https://fedlex.data.admin.ch/eli/fga/2018/2196)Art. 1, [3725](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
+[^104-1]: Angenommen in der Volksabstimmung vom 24. Sept. 2017, in Kraft seit 1. Febr. 2018. Gewährleistungsbeschluss vom 17. Sept. 2018 ([BBl 2018 6287](https://fedlex.data.admin.ch/eli/fga/2018/2196)Art. 1, [3725](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
 
 ### Wasser
 
@@ -1177,7 +1185,7 @@ Kanton und Gemeinden sorgen für eine geordnete Besiedlung, die zweckmässige un
 
 <sup>2</sup> Sie treffen Massnahmen zur Vermeidung von Abfällen sowie zur Wiederverwendung und stofflichen Verwertung von Materialien und Gütern.
 
-[^106a-1]: Angenommen in der [Volksabstimmung vom 25. Sept. 2022](http://www.admin.ch/ch/d/pore/va/20220925/index.html), in Kraft seit 1. April 2023. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 1, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^106a-1]: Angenommen in der Volksabstimmung vom 25. Sept. 2022, in Kraft seit 1. April 2023. Gewährleistungsbeschluss vom 20. Sept. 2023 ([BBl 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)Art. 1, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Wirtschaft und Arbeit
 
@@ -1918,7 +1926,7 @@ Kirchen
 
 **Kommissionen**
 
-- – Vertretung beider Geschlechter 40 <sup>2</sup>
+- – Vertretung beider Geschlechter 40 <sup>4</sup>
 - – des Kantonsrates 64, 69 <sup>2</sup>, 75 <sup>1</sup>
 - – Quartier- oder Ortsteilkommissionen 88
 

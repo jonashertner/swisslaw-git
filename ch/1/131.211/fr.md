@@ -3,11 +3,11 @@ sr: "131.211"
 title: "Constitution du canton de Zurich, du 27 février 2005"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/14_fga"
 language: fr
-version: 2023-09-20
+version: 2024-07-01
 adopted: 2005-02-27
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/14_fga/20230920/fr/xml/fedlex-data-admin-ch-eli-cc-2006-14_fga-20230920-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/14_fga/20230920/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/14_fga/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2006-14_fga-20240701-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/14_fga/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,10 +16,10 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/14_fga/20230920/fr"
 
 Traduction[^t-1]
 
-du 27 février 2005 (État le 20 septembre 2023)[^t-2]
+du 27 février 2005 (État le 1<sup>er</sup> juillet 2024)[^t-2]
 
 [^t-1]: Le texte original est publié, sous le même chiffre, dans l’édition allemande du présent recueil.
-[^t-2]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale. La date de l’état est celle du dernier AF publié dans la FF.
+[^t-2]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale.
 
 **Préambule**
 
@@ -370,7 +370,7 @@ Une votation populaire peut être demandée par:
 
 <sup>4</sup> Les communes désignent l’organe habilité à demander une votation populaire. Les municipalités de Zurich et de Winterthour peuvent demander une votation populaire de manière autonome, par simple décision de leur législatif.
 
-[^33-1]: Acceptée en [votation populaire du 7 mars 2021](http://www.admin.ch/ch/f/pore/va/20210307/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2022. Garantie de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^33-1]: Acceptée en votation populaire du 7 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022. Garantie de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
 
 ### Votations partielles et votations sur des variantes
 
@@ -389,7 +389,7 @@ En vue d’une votation populaire, le Grand Conseil peut, exceptionnellement, d�
 
 [^35-1]
 
-[^35-1]: Abrogé en [votation populaire du 23 sept. 2012](http://www.admin.ch/ch/f/pore/va/20120923/index.html), avec effet au 1<sup>er</sup> mai 2013. Garantie de l’Ass. féd. du 24 sept. 2014 ([FF 2014 7615](https://fedlex.data.admin.ch/eli/fga/2014/1644)art. 1 ch. 1 [3573](https://fedlex.data.admin.ch/eli/fga/2014/868)).
+[^35-1]: Abrogé en votation populaire du 23 sept. 2012, avec effet au 1<sup>er</sup> mai 2013. Garantie de l’Ass. féd. du 24 sept. 2014 ([FF 2014 7615](https://fedlex.data.admin.ch/eli/fga/2014/1644)art. 1 ch. 1 [3573](https://fedlex.data.admin.ch/eli/fga/2014/868)).
 
 ### Objets concurrents
 
@@ -450,9 +450,17 @@ Toutes les règles importantes du droit cantonal sont édictées sous la forme d
 
 #### Art. 40
 
-<sup>1</sup> Tous les citoyens ayant le droit de vote en matière cantonale sont éligibles au Grand Conseil, au Conseil d’État, aux tribunaux suprêmes du canton ainsi qu’au Conseil des États. L’éligibilité aux autres autorités est régie par la loi.
+[^40-1]
 
-<sup>2</sup> L’État et les communes cherchent à obtenir une représentation équitable des hommes et des femmes dans leurs autorités et leurs commissions.
+<sup>1</sup> Tous les citoyens ayant le droit de vote en matière cantonale sont éligibles au Grand Conseil, au Conseil d’État, aux tribunaux suprêmes du canton ainsi qu’au Conseil des États.
+
+<sup>2</sup> Pour l’élection aux tribunaux suprêmes du canton, la loi peut prévoir d’autres conditions d’éligibilité, des exceptions à l’obligation de domicile et des dispositions relatives à la durée de fonction.
+
+<sup>3</sup> L’éligibilité aux autres autorités est régie par la loi.
+
+<sup>4</sup> L’État et les communes cherchent à obtenir une représentation équitable des hommes et des femmes dans leurs autorités et leurs commissions.
+
+[^40-1]: Accepté en votation populaire du 3 mars 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024. Garantie de l’Ass. féd. du 17 mars 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 1; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 ### Durée de fonction
 
@@ -610,9 +618,9 @@ Doivent être approuvées à la majorité de tous les membres du Conseil:
 
 <sup>3</sup> Le Grand Conseil décide dans un délai de six mois des propositions du Conseil d’État destinées à équilibrer à moyen terme le compte de fonctionnement de l’État. Il est lié par le montant global des améliorations du solde pouvant être obtenues grâce à ces propositions.
 
-[^56-1]: Acceptée en [votation populaire du 7 mars 2021](http://www.admin.ch/ch/f/pore/va/20210307/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2022. Garantie de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
-[^56-2]: Acceptée en [votation populaire du 7 mars 2021](http://www.admin.ch/ch/f/pore/va/20210307/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2022. Garantie de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
-[^56-3]: Acceptée en [votation populaire du 7 mars 2021](http://www.admin.ch/ch/f/pore/va/20210307/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2022. Garantie de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^56-1]: Acceptée en votation populaire du 7 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022. Garantie de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^56-2]: Acceptée en votation populaire du 7 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022. Garantie de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^56-3]: Acceptée en votation populaire du 7 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022. Garantie de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
 
 ### Surveillance par le parlement
 
@@ -738,9 +746,9 @@ Dans les limites du budget, il décide:
 
 <sup>3</sup> Il décide de l’aliénation de valeurs patrimoniales servant à des fins publiques qui n’excèdent pas 4 millions de francs.[^68-3]
 
-[^68-1]: Acceptée en [votation populaire du 7 mars 2021](http://www.admin.ch/ch/f/pore/va/20210307/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2022. Garantie de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
-[^68-2]: Acceptée en [votation populaire du 7 mars 2021](http://www.admin.ch/ch/f/pore/va/20210307/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2022. Garantie de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
-[^68-3]: Accepté en [votation populaire du 7 mars 2021](http://www.admin.ch/ch/f/pore/va/20210307/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2022. Garantie de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^68-1]: Acceptée en votation populaire du 7 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022. Garantie de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^68-2]: Acceptée en votation populaire du 7 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022. Garantie de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^68-3]: Accepté en votation populaire du 7 mars 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022. Garantie de l’Ass. féd. du 16 mars 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
 
 ### Collaboration avec d’autres cantons et avec l’étranger
 
@@ -806,7 +814,7 @@ Le Conseil d’État:
 
 <sup>2</sup> La Cour suprême, le Tribunal administratif et le Tribunal des assurances sociales sont les tribunaux suprêmes du canton.[^74-1]
 
-[^74-1]: Accepté en [votation populaire du 26 sept. 2010](http://www.admin.ch/ch/f/pore/va/20100926/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 1, 4152).
+[^74-1]: Accepté en votation populaire du 26 sept. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 1, 4152).
 
 ### Élection
 
@@ -826,8 +834,8 @@ Le Conseil d’État:
 
 <sup>3</sup> …[^76-2]
 
-[^76-1]: Accepté en [votation populaire du 26 sept. 2010](http://www.admin.ch/ch/f/pore/va/20100926/index.html), en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 1, 4152).
-[^76-2]: Abrogé en [votation populaire du 26 sept. 2010](http://www.admin.ch/ch/f/pore/va/20100926/index.html), avec effet au 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 1, 4152).
+[^76-1]: Accepté en votation populaire du 26 sept. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 1, 4152).
+[^76-2]: Abrogé en votation populaire du 26 sept. 2010, avec effet au 1<sup>er</sup> janv. 2011. Garantie de l’Ass. féd. du 29 sept. 2011 ([FF 2011 7019](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 ch. 1, 4152).
 
 ### Justice administrative
 
@@ -1124,7 +1132,7 @@ L’État et les communes veillent à une occupation rationnelle du territoire, 
 
 <sup>3</sup> Ils peuvent encourager le développement et l’utilisation de technologies, matériaux et processus qui contribuent à la protection du climat et à l’adaptation au changement climatique.
 
-[^102a-1]: Accepté en [votation populaire du 15 mai 2022](http://www.admin.ch/ch/f/pore/va/20220515/index.html), en vigueur depuis le 1<sup>er</sup> nov. 2022. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
+[^102a-1]: Accepté en votation populaire du 15 mai 2022, en vigueur depuis le 1<sup>er</sup> nov. 2022. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 
 ### Protection de la nature et du patrimoine
 
@@ -1146,7 +1154,7 @@ L’État et les communes veillent à une occupation rationnelle du territoire, 
 
 <sup>3</sup> L’État et les communes promeuvent les transports publics sur l’ensemble du territoire cantonal.
 
-[^104-1]: Accepté en [votation populaire du 24 sept. 2017](http://www.admin.ch/ch/f/pore/va/20170924/index.html), en vigueur depuis le 1<sup>er</sup> fév. 2018. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 1 [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
+[^104-1]: Accepté en votation populaire du 24 sept. 2017, en vigueur depuis le 1<sup>er</sup> fév. 2018. Garantie de l’Ass. féd. du 17 sept. 2018 ([FF 2018 6319](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 1 [3849](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
 
 ### Eaux
 
@@ -1178,7 +1186,7 @@ L’État et les communes veillent à une occupation rationnelle du territoire, 
 
 <sup>2</sup> Ils prennent des mesures pour éviter les déchets et pour réutiliser et recycler les matériaux et les produits.
 
-[^106a-1]: Accepté en [votation populaire du 25 sept. 2022](http://www.admin.ch/ch/f/pore/va/20220925/index.html), en vigueur depuis le 1<sup>er</sup> avr. 2023. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 1, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^106a-1]: Accepté en votation populaire du 25 sept. 2022, en vigueur depuis le 1<sup>er</sup> avr. 2023. Garantie de l’Ass. féd. du 20 sept. 2023 ([FF 2023 2331](https://fedlex.data.admin.ch/eli/fga/2023/2331)art. 1, [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Économie et travail
 
@@ -1640,7 +1648,7 @@ Canton
 
 - – de quartier ou à une autre subdivision territoriale 88
 - – du Conseil d’État 64, 69 <sup>2</sup>, 75 <sup>1</sup>
-- – représentation équitable des hommes et des femmes 40 <sup>2</sup>
+- – représentation équitable des hommes et des femmes 40 <sup>4</sup>
 
 Commune 83-94, 143
 

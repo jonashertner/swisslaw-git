@@ -3,11 +3,11 @@ sr: "131.211"
 title: "Costituzione del Cantone di Zurigo, del 27 febbraio 2005"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/14_fga"
 language: it
-version: 2023-09-20
+version: 2024-07-01
 adopted: 2005-02-27
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/14_fga/20230920/it/xml/fedlex-data-admin-ch-eli-cc-2006-14_fga-20230920-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/14_fga/20230920/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/14_fga/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2006-14_fga-20240701-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/14_fga/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,10 +16,10 @@ url: "https://www.fedlex.admin.ch/eli/cc/2006/14_fga/20230920/it"
 
 Traduzione[^t-1]
 
-del 27 febbraio 2005 (Stato 20 settembre 2023)[^t-2]
+del 27 febbraio 2005 (Stato 1° luglio 2024)[^t-2]
 
 [^t-1]: Il testo nella lingua originale è pubblicato sotto lo stesso numero nell’ediz. ted. della presente Raccolta.
-[^t-2]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi. Lo stato corrisponde quindi alla data dell’ultimo decreto dell’AF che accorda la garanzia federale pubblicato nel FF.
+[^t-2]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi.
 
 **Preambolo**
 
@@ -372,7 +372,7 @@ La votazione popolare può essere chiesta da:
 
 <sup>4</sup> I Comuni designano l’organo abilitato a chiedere il referendum dei Comuni. Le città di Zurigo e di Winterthur possono chiedere la votazione popolare soltanto per decisione dei rispettivi parlamenti.
 
-[^33-1]: Accettata nella [votazione popolare del 7 mar. 2021](http://www.admin.ch/ch/i/pore/va/20210307/index.html), in vigore dal 1° gen. 2022. Garanzia dell’AF del 16 mar. 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^33-1]: Accettata nella votazione popolare del 7 mar. 2021, in vigore dal 1° gen. 2022. Garanzia dell’AF del 16 mar. 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
 
 ### Votazioni parziali e votazioni su varianti
 
@@ -391,7 +391,7 @@ In vista di una votazione popolare, il Gran Consiglio può eccezionalmente decid
 
 [^35-1]
 
-[^35-1]: Abrogato nella [votazione popolare del 23 set. 2012](http://www.admin.ch/ch/i/pore/va/20120923/index.html), con effetto dal 1° mag. 2013. Garanzia dell’AF del 24 set. 2014 ([FF 2014 6817](https://fedlex.data.admin.ch/eli/fga/2014/1644)art. 1 n. 1 [3183](https://fedlex.data.admin.ch/eli/fga/2014/868)).
+[^35-1]: Abrogato nella votazione popolare del 23 set. 2012, con effetto dal 1° mag. 2013. Garanzia dell’AF del 24 set. 2014 ([FF 2014 6817](https://fedlex.data.admin.ch/eli/fga/2014/1644)art. 1 n. 1 [3183](https://fedlex.data.admin.ch/eli/fga/2014/868)).
 
 ### Testi concorrenti
 
@@ -452,9 +452,17 @@ Tutte le norme giuridiche importanti del diritto cantonale sono emanate in forma
 
 #### Art. 40
 
-<sup>1</sup> È eleggibile al Gran Consiglio, al Consiglio di Stato, ai tribunali cantonali supremi e al Consiglio degli Stati chi ha diritto di voto in materia cantonale. L’eleggibilità in seno alle altre autorità è disciplinata dalla legge.
+[^40-1]
+
+<sup>1</sup> È eleggibile al Gran Consiglio, al Consiglio di Stato, ai tribunali cantonali supremi e al Consiglio degli Stati chi ha diritto di voto in materia cantonale.
 
 <sup>2</sup> Il Cantone e i Comuni perseguono un’adeguata rappresentanza d’ambo i sessi nelle loro autorità e commissioni.
+
+<sup>3</sup> L’eleggibilità in seno alle altre autorità è disciplinata dalla legge.
+
+<sup>4</sup> Il Cantone e i Comuni perseguono un’adeguata rappresentanza d’ambo i sessi nelle loro autorità e commissioni.
+
+[^40-1]: Accettata nella votazione popolare del 3 mar. 2024, in vigore dal 1° lug. 2024. Garanzia dell’AF del 17 mar. 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 1; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 ### Durata delle funzioni
 
@@ -612,9 +620,9 @@ Richiedono l’approvazione della maggioranza di tutti i membri del Gran Consigl
 
 <sup>3</sup> Il Gran Consiglio decide entro sei mesi sulle proposte del Consiglio di Stato volte ad equilibrare a medio termine l’andamento corrente delle finanze dello Stato. È vincolato all’importo globale dei miglioramenti del saldo ottenibili grazie a queste proposte.
 
-[^56-1]: Accettata nella [votazione popolare del 7 mar. 2021](http://www.admin.ch/ch/i/pore/va/20210307/index.html), in vigore dal 1° gen. 2022. Garanzia dell’AF del 16 mar. 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
-[^56-2]: Accettata nella [votazione popolare del 7 mar. 2021](http://www.admin.ch/ch/i/pore/va/20210307/index.html), in vigore dal 1° gen. 2022. Garanzia dell’AF del 16 mar. 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
-[^56-3]: Accettata nella [votazione popolare del 7 mar. 2021](http://www.admin.ch/ch/i/pore/va/20210307/index.html), in vigore dal 1° gen. 2022. Garanzia dell’AF del 16 mar. 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^56-1]: Accettata nella votazione popolare del 7 mar. 2021, in vigore dal 1° gen. 2022. Garanzia dell’AF del 16 mar. 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^56-2]: Accettata nella votazione popolare del 7 mar. 2021, in vigore dal 1° gen. 2022. Garanzia dell’AF del 16 mar. 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^56-3]: Accettata nella votazione popolare del 7 mar. 2021, in vigore dal 1° gen. 2022. Garanzia dell’AF del 16 mar. 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
 
 ### Controllo parlamentare
 
@@ -740,9 +748,9 @@ Nei limiti del bilancio di previsione esso decide circa:
 
 <sup>3</sup> Decide circa l’alienazione a fini pubblici di valori patrimoniali per un importo non superiore a 4 milioni di franchi.[^68-3]
 
-[^68-1]: Accettata nella [votazione popolare del 7 mar. 2021](http://www.admin.ch/ch/i/pore/va/20210307/index.html), in vigore dal 1° gen. 2022. Garanzia dell’AF del 16 mar. 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
-[^68-2]: Accettata nella [votazione popolare del 7 mar. 2021](http://www.admin.ch/ch/i/pore/va/20210307/index.html), in vigore dal 1° gen. 2022. Garanzia dell’AF del 16 mar. 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
-[^68-3]: Accettato nella [votazione popolare del 7 mar. 2021](http://www.admin.ch/ch/i/pore/va/20210307/index.html), in vigore dal 1° gen. 2022. Garanzia dell’AF del 16 mar. 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^68-1]: Accettata nella votazione popolare del 7 mar. 2021, in vigore dal 1° gen. 2022. Garanzia dell’AF del 16 mar. 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^68-2]: Accettata nella votazione popolare del 7 mar. 2021, in vigore dal 1° gen. 2022. Garanzia dell’AF del 16 mar. 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
+[^68-3]: Accettato nella votazione popolare del 7 mar. 2021, in vigore dal 1° gen. 2022. Garanzia dell’AF del 16 mar. 2022 ([FF 2022 780](https://fedlex.data.admin.ch/eli/fga/2022/780)art. 1; [2021 2904](https://fedlex.data.admin.ch/eli/fga/2021/2904)).
 
 ### Collaborazione intercantonale e internazionale
 
@@ -808,7 +816,7 @@ Il Consiglio di Stato:
 
 <sup>2</sup> I tribunali cantonali supremi sono il Tribunale d’appello, il Tribunale amministrativo e il Tribunale delle assicurazioni sociali[^74-1].
 
-[^74-1]: Accettato nella [votazione popolare del 26 set. 2010](http://www.admin.ch/ch/i/pore/va/20100926/index.html), in vigore dal 1° gen. 2011. Garanzia dell’AF del 29 set. 2011 ([FF 2011 6777](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 n. 1 [4015](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^74-1]: Accettato nella votazione popolare del 26 set. 2010, in vigore dal 1° gen. 2011. Garanzia dell’AF del 29 set. 2011 ([FF 2011 6777](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 n. 1 [4015](https://fedlex.data.admin.ch/eli/fga/2011/693)).
 
 ### Elezione
 
@@ -828,8 +836,8 @@ Il Consiglio di Stato:
 
 <sup>3</sup> …[^76-2]
 
-[^76-1]: Accettato nella [votazione popolare del 26 set. 2010](http://www.admin.ch/ch/i/pore/va/20100926/index.html), in vigore dal 1° gen. 2011. Garanzia dell’AF del 29 set. 2011 ([FF 2011 6777](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 n. 1 [4015](https://fedlex.data.admin.ch/eli/fga/2011/693)).
-[^76-2]: Abrogato nella [votazione popolare del 26 set. 2010](http://www.admin.ch/ch/i/pore/va/20100926/index.html), con effetto dal 1° gen. 2011. Garanzia dell’AF del 29 set. 2011 ([FF 2011 6777](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 n. 1 [4015](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^76-1]: Accettato nella votazione popolare del 26 set. 2010, in vigore dal 1° gen. 2011. Garanzia dell’AF del 29 set. 2011 ([FF 2011 6777](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 n. 1 [4015](https://fedlex.data.admin.ch/eli/fga/2011/693)).
+[^76-2]: Abrogato nella votazione popolare del 26 set. 2010, con effetto dal 1° gen. 2011. Garanzia dell’AF del 29 set. 2011 ([FF 2011 6777](https://fedlex.data.admin.ch/eli/fga/2011/1266)art. 1 n. 1 [4015](https://fedlex.data.admin.ch/eli/fga/2011/693)).
 
 ### Giustizia amministrativa
 
@@ -1126,7 +1134,7 @@ Il Cantone e i Comuni provvedono a un’occupazione razionale del territorio, a 
 
 <sup>3</sup> Possono promuovere lo sviluppo e l’impiego di tecnologie, materiali e processi che contribuiscono alla protezione del clima e all’adattamento ai cambiamenti climatici.
 
-[^102a-1]: Accettato nella [votazione popolare del 15 mag. 2022](http://www.admin.ch/ch/i/pore/va/20220515/index.html), in vigore dal 1° nov. 2022. Garanzia dell’AF del 6 mar. 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
+[^102a-1]: Accettato nella votazione popolare del 15 mag. 2022, in vigore dal 1° nov. 2022. Garanzia dell’AF del 6 mar. 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 
 ### Protezione della natura e del patrimonio
 
@@ -1148,7 +1156,7 @@ Il Cantone e i Comuni provvedono a un’occupazione razionale del territorio, a 
 
 <sup>3</sup> Il Cantone e i Comuni promuovono il trasporto pubblico delle persone sull’intero territorio cantonale.
 
-[^104-1]: Accettato nella [votazione popolare del 24 set. 2017](http://www.admin.ch/ch/i/pore/va/20170924/index.html), in vigore dal 1° feb. 2018. Garanzia dell’AF del 17 set. 2018 ([FF 2018 5335](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 1 [3161](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
+[^104-1]: Accettato nella votazione popolare del 24 set. 2017, in vigore dal 1° feb. 2018. Garanzia dell’AF del 17 set. 2018 ([FF 2018 5335](https://fedlex.data.admin.ch/eli/fga/2018/2196)art. 1 [3161](https://fedlex.data.admin.ch/eli/fga/2018/1404)).
 
 ### Acque
 
@@ -1180,7 +1188,7 @@ Il Cantone e i Comuni provvedono a un’occupazione razionale del territorio, a 
 
 <sup>2</sup> Essi prendono provvedimenti per evitare la produzione di rifiuti e per riutilizzare e riciclare i materiali e i prodotti.
 
-[^106a-1]: Accettato nella [votazione popolare del 27 feb. 2005](http://www.admin.ch/ch/i/pore/va/20050227/index.html), in vigore dal 1° apr. 2023. Garanzia dell’AF del 20 set. 2023 ([FF 2023 1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)art. 1 [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
+[^106a-1]: Accettato nella votazione popolare del 27 feb. 2005, in vigore dal 1° apr. 2023. Garanzia dell’AF del 20 set. 2023 ([FF 2023 1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)art. 1 [1495](https://fedlex.data.admin.ch/eli/fga/2023/1495)).
 
 ### Economia e lavoro
 
