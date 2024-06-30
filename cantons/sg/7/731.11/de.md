@@ -4,13 +4,13 @@ number: "731.11"
 title: Verordnung zum Planungs- und Baugesetz
 short: PBV
 language: de
-version: 2024-01-01
-valid_until: 2024-06-30
-version_adopted: 2023-12-12
+version: 2024-07-01
+valid_until: 2025-02-28
+version_adopted: 2024-05-21
 adopted: 2017-06-27
 in_force: 2017-10-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/731.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3564/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3637/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3564/pdf_file"
 
 (PBV)
 
-vom 27.06.2017 (Stand 01.01.2024)
+vom 27.06.2017 (Stand 01.07.2024)
 
 Die Regierung des Kantons St.Gallen
 
@@ -106,9 +106,12 @@ als Verordnung:[^ingress-2]
 
 #### Art. 9a
 
-**Anlagen zur Gewinnung erneuerbarer Energien**
+**Regierung als Baubewilligungsbehörde (Art. 132 Abs. 4 und 135 PBG)**
 
-<sup>1</sup> Zuständig für die Erteilung der Baubewilligung für Anlagen zur Gewinnung erneuerbarer Energien ist, sofern dem Kanton von Bundesrechts wegen die Bewilligungskompetenz zukommt, die Regierung.
+<sup>1</sup> Die Regierung ist zuständig für die Erteilung der Baubewilligung:
+
+- a) für Anlagen zur Gewinnung erneuerbarer Energien, sofern dem Kanton von Bundesrechts wegen die Bewilligungskompetenz zukommt;
+- b) bei Abbau- oder Deponievorhaben, die auf einem kantonalen Sondernutzungsplan beruhen. Sie eröffnet die Baubewilligung zusammen mit den weiteren kantonalen Bewilligungen und Verfügungen als Gesamtentscheid.
 
 ## III. Natur- und Heimatschutz
 
