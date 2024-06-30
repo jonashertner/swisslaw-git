@@ -4,11 +4,11 @@ title: "Verordnung vom 23. November 1983 über Bau und Betrieb der Eisenbahnen (
 short: EBV
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902"
 language: de
-version: 2024-01-01
+version: 2024-07-01
 adopted: 1983-11-23
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1983-1902_1902_1902-20240101-de-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1902_1902_1902/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902/20240701/de/xml/fedlex-data-admin-ch-eli-cc-1983-1902_1902_1902-20240701-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1902_1902_1902/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/1902_1902_1902/20240101/de"
 
 (Eisenbahnverordnung, EBV)
 
-vom 23. November 1983 (Stand am 1. Januar 2024)
+vom 23. November 1983 (Stand am 1. Juli 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -25,9 +25,9 @@ gestützt auf die Artikel 17 Absatz 2 und 97 des Eisenbahngesetzes vom 20. Dezem
 
 verordnet:
 
-[^ingress-1]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^ingress-2]: [SR 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
-[^ingress-3]: [SR 744.21](https://fedlex.data.admin.ch/eli/cc/1951/665_663_685)
+[^ingress-1]: [SR 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+[^ingress-2]: [SR 734.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8570)
+[^ingress-3]: [SR 744.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8875)
 [^ingress-4]: Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Juli 2012 ([AS 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -68,6 +68,8 @@ Diese Verordnung regelt die Planung, den Bau, den Betrieb, die Instandhaltung so
 
 <sup>1</sup> Die Bauten, Anlagen, Fahrzeuge und ihre Teile müssen so geplant und gebaut werden, dass sie sicher betrieben und sachgerecht instand gehalten werden können.
 
+<sup>1bis</sup> Sie sind mit allen verhältnismässigen organisatorischen und technischen Mitteln vor Bedrohungen, Angriffen sowie missbräuchlichen Eingriffen zu schützen.[^2-2]
+
 <sup>2</sup> Die Ausführungsbestimmungen bezeichnen die technischen Normen, die geeignet sind, Vorschriften der Eisenbahngesetzgebung zu konkretisieren. Soweit möglich bezeichnen sie europäisch harmonisierte Normen.
 
 <sup>3</sup> Sind keine technischen Normen bezeichnet worden oder fehlen sie, so sind die anerkannten Regeln der Technik anzuwenden.
@@ -77,6 +79,7 @@ Diese Verordnung regelt die Planung, den Bau, den Betrieb, die Instandhaltung so
 <sup>5</sup> Sind Teile oder Werkstoffe für die Sicherheit wesentlich, so muss nachgewiesen werden können, dass ihre Eigenschaften und ihr Zustand den Anforderungen nach diesem Artikel entsprechen.
 
 [^2-1]: Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Juli 2012 ([AS 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+[^2-2]: Eingefügt durch Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
 
 #### Art. 2a
 
@@ -84,10 +87,11 @@ Diese Verordnung regelt die Planung, den Bau, den Betrieb, die Instandhaltung so
 
 Das Bundesamt für Verkehr (BAV) prüft die sicherheitsrelevanten Aspekte nach Artikel 17*c* EBG risikoorientiert:
 
-- a. auf der Grundlage von Konformitätsbescheinigungen (Art. 15*k* und 15*l*), Prüfberichten Sachverständiger (Art. 6 Abs. 3, 8*a* Abs. 4 und 15*m*) oder Sicherheitsbewertungsberichten (Art. 8*c* Abs. 2); oder
+- a.[^2a-2] auf der Grundlage von Konformitätsbescheinigungen (Art. 15*k* und 15*l*), Prüfberichten Sachverständiger (Art. 6 Abs. 3, 5*l* Abs. 3 und 15*m*) oder Sicherheitsbewertungsberichten (Art. 5*m* Abs. 4); oder
 - b. indem es Stichproben vornimmt.
 
 [^2a-1]: Eingefügt durch Ziff. I der V vom 16. Nov. 2011 ([AS 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)). Fassung gemäss Ziff. I der V vom 29. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
+[^2a-2]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 3
 
@@ -110,11 +114,11 @@ Ergänzend zu dieser Verordnung sind insbesondere anwendbar:
 
 [^4-1]: Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Juli 2012 ([AS 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 [^4-2]: Fassung gemäss Ziff. I der V vom 19. Sept. 2014, in Kraft seit 1. Nov. 2014 ([AS 2014 3169](https://fedlex.data.admin.ch/eli/oc/2014/534)).
-[^4-3]: [SR 742.142.1](https://fedlex.data.admin.ch/eli/cc/2000/124)
-[^4-4]: [SR 814.012](https://fedlex.data.admin.ch/eli/cc/1991/748_748_748)
-[^4-5]: [SR 814.710](https://fedlex.data.admin.ch/eli/cc/2000/38)
+[^4-3]: [SR 742.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8760)
+[^4-4]: [SR 814.012](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9439)
+[^4-5]: [SR 814.710](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9586)
 [^4-6]: Eingefügt durch Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Juli 2016 ([AS 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
-[^4-7]: [SR 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
+[^4-7]: [SR 734.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8593)
 
 #### Art. 5
 
@@ -154,43 +158,56 @@ Entspricht das Gesuch zusätzlich den Anforderungen nach Anhang I der vorgenannt
 
 <sup>2</sup> Will die Infrastrukturbetreiberin den Betrieb oder die Infrastruktur so ändern, dass die Voraussetzungen für die Erteilung der Sicherheitsgenehmigung überprüft werden müssen, so muss sie das BAV rechtzeitig darüber unterrichten; dies gilt insbesondere dann, wenn sich Art oder Umfang des Betriebs wesentlich ändert.
 
-<sup>3</sup> Das BAV entscheidet über das Gesuch um Erteilung oder Erneuerung der Sicherheitsgenehmigung innerhalb von vier Monaten nach Eingang.
+<sup>3</sup> Das BAV informiert die Infrastrukturbetreiberin innerhalb eines Monats über die Vollständigkeit des Gesuchs. Es entscheidet über das Gesuch um Erteilung, Änderung oder Erneuerung der Sicherheitsgenehmigung innerhalb von vier Monaten nach Eingang des vollständigen Gesuchs.[^5a-6]
 
 [^5a-1]: Eingefügt durch Ziff. I der V vom 29. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
-[^5a-2]: Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates vom 11. Mai 2016 über Eisenbahnsicherheit (Neufassung), Fassung gemäss ABl. L 138 vom 26.5.2016, S. 102.
-[^5a-3]: Delegierte Verordnung (EU) 2018/762 der Kommission vom 8. März 2018 über gemeinsame Sicherheitsmethoden bezüglich der Anforderungen an Sicherheitsmanagementsysteme gemäss der Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnungen (EU) Nr. 1158/2010 und (EU) Nr. 1169/2010, Fassung gemäss ABl. L 129 vom 25.5.2018, S. 26.
-[^5a-4]: Fassung gemäss Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+[^5a-2]: Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates vom 11. Mai 2016 über Eisenbahnsicherheit (Neufassung), Fassung gemäss ABl. L 138 vom 26.5.2016, S. 102; zuletzt geändert durch Verordnung (EU) 2020/1530 vom 21.10.2020, ABl. L 352 vom 22.10.2020, S. 1.
+[^5a-3]: Delegierte Verordnung (EU) 2018/762 der Kommission vom 8. März 2018 über gemeinsame Sicherheitsmethoden bezüglich der Anforderungen an Sicherheitsmanagementsysteme gemäss der Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnungen (EU) Nr. 1158/2010 und (EU) Nr. 1169/2010, Fassung gemäss ABl. L 129 vom 25.5.2018, S. 26; zuletzt geändert durch Delegierte Verordnung (EU) 2020/782 vom 12. Juni 2020, ABl. L 188 vom 15.6.2020, S. 14.
+[^5a-4]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 [^5a-5]: Eingefügt durch Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+[^5a-6]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 5b
 
-**Sicherheitsbescheinigung**[^5b-1]
+**Sicherheitsbescheinigung des BAV[^5b-2]**[^5b-1]
 
-<sup>1</sup> Das Gesuch des Eisenbahnverkehrsunternehmens um Erteilung oder Erneuerung einer Sicherheitsbescheinigung nach Artikel 8*e* EBG muss hinsichtlich des Sicherheitsmanagementsystems den Anforderungen nach Artikel 9 der Richtlinie (EU) 2016/798[^5b-2] und nach Anhang I der Delegierten Verordnung (EU) 2018/762[^5b-3] entsprechen und die Angaben nach Anhang I der Durchführungsverordnung (EU) 2018/763[^5b-4] enthalten.[^5b-5]
+<sup>1</sup> Das Gesuch des Eisenbahnverkehrsunternehmens um Erteilung oder Erneuerung einer Sicherheitsbescheinigung nach Artikel 8*e* EBG muss hinsichtlich des Sicherheitsmanagementsystems den Anforderungen nach Artikel 9 der Richtlinie (EU) 2016/798[^5b-3] und nach Anhang I der Delegierten Verordnung (EU) 2018/762[^5b-4] entsprechen und die Angaben nach Anhang I der Durchführungsverordnung (EU) 2018/763[^5b-5] enthalten.[^5b-6]
 
 <sup>2</sup> Will das Eisenbahnverkehrsunternehmen den Betrieb so ändern, dass die Voraussetzungen für die Erteilung der Sicherheitsbescheinigung überprüft werden müssen, so muss es das BAV rechtzeitig darüber unterrichten; dies gilt insbesondere dann, wenn sich Art oder Umfang des Betriebs wesentlich ändert.
 
-<sup>3</sup> Das BAV entscheidet über das Gesuch um Erteilung oder Erneuerung der Sicherheitsbescheinigung innerhalb von drei Monaten nach Eingang der vollständigen Gesuchsunterlagen.[^5b-6]
+<sup>3</sup> Das BAV informiert das Eisenbahnverkehrsunternehmen innerhalb eines Monats über die Vollständigkeit des Gesuchs. Es entscheidet über das Gesuch um Erteilung, Änderung oder Erneuerung der Sicherheitsbescheinigung innerhalb von vier Monaten nach Eingang des vollständigen Gesuchs.[^5b-7]
 
-<sup>4</sup> Es entzieht die Sicherheitsbescheinigung, wenn sie im ersten Jahr nach ihrer Erteilung nicht in der vorgesehenen Weise genutzt wurde.[^5b-7]
+<sup>4</sup> Es entzieht die Sicherheitsbescheinigung, wenn sie im ersten Jahr nach ihrer Erteilung nicht in der vorgesehenen Weise genutzt wurde.[^5b-8]
 
 [^5b-1]: Eingefügt durch Ziff. I der V vom 29. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
-[^5b-2]: Siehe Fussnote zu Art. 5*a* Abs. 1.
+[^5b-2]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 [^5b-3]: Siehe Fussnote zu Art. 5*a* Abs. 1.
-[^5b-4]: Durchführungsverordnung (EU) 2018/763 der Kommission vom 9. April 2018 über die praktischen Festlegungen für die Erteilung von einheitlichen Sicherheitsbescheinigungen an Eisenbahnunternehmen gemäss der Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnung (EG) Nr. 653/2007 der Kommission, Fassung gemäss ABl. L 129 vom 25.5.2018, S. 49.
-[^5b-5]: Fassung gemäss Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
-[^5b-6]: Fassung gemäss Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
-[^5b-7]: Fassung gemäss Ziff. I 5 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+[^5b-4]: Siehe Fussnote zu Art. 5*a* Abs. 1.
+[^5b-5]: Durchführungsverordnung (EU) 2018/763 der Kommission vom 9. April 2018 über die praktischen Festlegungen für die Erteilung von einheitlichen Sicherheitsbescheinigungen an Eisenbahnunternehmen gemäss der Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnung (EG) Nr. 653/2007 der Kommission, Fassung gemäss ABl. L 129 vom 25.5.2018, S. 49; zuletzt geändert durch Durchführungsverordnung (EU) 2020/777 vom 12. Juni 2020, ABl. L 188 vom 15.6.2020, S. 1.
+[^5b-6]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^5b-7]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^5b-8]: Fassung gemäss Ziff. I 5 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+
+#### Art. 5b<sup>bis</sup>
+
+**Sicherheitsbescheinigung der Eisenbahnagentur der Europäischen Union**[^5bbis-1]
+
+<sup>1</sup> Die Eisenbahnagentur der Europäischen Union (ERA) kann Sicherheitsbescheinigungen mit Geltung für die Schweiz erteilen, wenn ein völkerrechtlicher Vertrag dies vorsieht.
+
+<sup>2</sup> Gesuche um Erteilung von Sicherheitsbescheinigungen, die in der Schweiz und mindestens einem Nachbarland der Schweiz gelten sollen, sind bei der ERA einzureichen.
+
+[^5bbis-1]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 5c
 
 **Sicherheitsmanagementsystem und ergänzende Nachweise**[^5c-1]
 
-<sup>1</sup> Der Gesuchsteller muss mit seinem Sicherheitsmanagementsystem nach Artikel 8*a* Absatz 2 oder Artikel 8*e* Absatz 2 EBG sicherstellen, dass die Vorschriften eingehalten und alle Risiken, die mit dem Betrieb verbunden sind, kontrolliert und gesteuert werden.
+<sup>1</sup> Der Gesuchsteller muss mit seinem Sicherheitsmanagementsystem nach Artikel 4 EBG sicherstellen, dass die Vorschriften eingehalten und alle Risiken, die mit dem Betrieb verbunden sind, kontrolliert und gesteuert werden.[^5c-2]
 
 <sup>2</sup> Soweit der Gesuchsteller nicht aufzeigt, wie sein Sicherheitsmanagementsystem die Anforderungen nach Artikel 5*a* Absatz 1 oder Artikel 5*b* Absatz 1 erfüllt, muss er ergänzende Nachweise erbringen.
 
 [^5c-1]: Eingefügt durch Ziff. I der V vom 29. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
+[^5c-2]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 5d
 
@@ -225,55 +242,62 @@ Das Verfahren des BAV zur Erteilung und Erneuerung richtet sich:
 
 **Europäische und ausländische Sicherheitsgenehmigungen und -bescheinigungen**[^5f-1]
 
-<sup>1</sup> Verfügt ein Eisenbahnunternehmen über eine Sicherheitsbescheinigung der Eisenbahnagentur der Europäischen Union (Agentur), so kann das BAV darauf verzichten, zu überprüfen, ob Anforderungen eingehalten werden, deren Einhaltung aus dieser Sicherheitsbescheinigung hervorgeht.
+<sup>1</sup> Verfügt ein Eisenbahnverkehrsunternehmen über eine Sicherheitsbescheinigung der ERA, so kann das BAV darauf verzichten, zu überprüfen, ob Anforderungen eingehalten werden, deren Einhaltung aus dieser Sicherheitsbescheinigung hervorgeht.[^5f-2]
 
 <sup>2</sup> Ausländische Sicherheitsgenehmigungen und -bescheinigungen können vom BAV für grenznahe Strecken und Fahrten darauf anerkannt werden, ohne dass dafür ein zwischenstaatliches Abkommen über die gegenseitige Anerkennung solcher Genehmigungen und Bescheinigungen erforderlich ist.
 
 [^5f-1]: Eingefügt durch Ziff. I der V vom 29. Mai 2013 ([AS 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)). Fassung gemäss Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+[^5f-2]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 5g
 
-**Sicherheitsbericht der Eisenbahnunternehmen**[^5g-1]
+**Jahresbericht der Eisenbahnunternehmen**[^5g-1]
 
-Die Eisenbahnunternehmen müssen dem BAV jährlich bis zum 31. Mai über das vorhergehende Kalenderjahr einen Sicherheitsbericht mit den Angaben nach Artikel 9 Absatz 6 der Richtlinie (EU) 2016/798[^5g-2] sowie Artikel 18 Absatz 1 der Durchführungsverordnung (EU) Nr. 402/2013[^5g-3] vorlegen.
+Die Eisenbahnunternehmen müssen dem BAV jährlich bis zum 31. Mai über das vorhergehende Kalenderjahr einen Bericht vorlegen mit den Angaben nach:
 
-[^5g-1]: Eingefügt durch Ziff. I der V vom 29. Mai 2013 ([AS 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)). Fassung gemäss Ziff. I der V vom 12. Juni 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
-[^5g-2]: Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates vom 11. Mai 2016 über Eisenbahnsicherheit (Neufassung), Fassung gemäss ABl. L 138 vom 26.5.2016, S. 102.
-[^5g-3]: Durchführungsverordnung (EU) Nr. 402/2013 der Kommission vom 30. April 2013 über die gemeinsame Sicherheitsmethode für die Evaluierung und Bewertung von Risiken und zur Aufhebung der Verordnung (EG) Nr. 352/2009, ABl. L 121 vom 3.5.2013, S. 8; geändert durch Durchführungsverordnung (EU) 2015/1136 der Kommission vom 13. Juli 2015, ABl. L 185 vom 14.7.2015, S. 6.
+- a. Artikel 9 Absatz 6 der Richtlinie (EU) 2016/798[^5g-2];
+- b. Artikel 18 Absatz 1 der Durchführungsverordnung (EU) Nr. 402/2013[^5g-3]; und
+- c. Anhang I Ziffer 4.5.1.2 und Anhang II Ziffer 4.5.1.2 der Delegierten Verordnung (EU) 2018/762[^5g-4].
+
+[^5g-1]: Eingefügt durch Ziff. I der V vom 29. Mai 2013 ([AS 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)). Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^5g-2]: Siehe Fussnote zu Art. 5*a* Abs. 1.
+[^5g-3]: Durchführungsverordnung (EU) Nr. 402/2013 der Kommission vom 30. April 2013 über die gemeinsame Sicherheitsmethode für die Evaluierung und Bewertung von Risiken und zur Aufhebung der Verordnung (EG) Nr. 352/2009, ABl. L 121 vom 3.5.2013, S. 8; zuletzt geändert durch Durchführungsverordnung (EU) 2015/1136 vom 13.7.2015, ABl. L 185 vom 14.7.2015, S. 6.
+[^5g-4]: Siehe Fussnote zu Art. 5*a* Abs. 1.
 
 #### Art. 5h
 
-**Jahresbericht des BAV[^5h-2]**[^5h-1]
+**Jahresbericht des BAV**[^5h-1]
 
-<sup>1</sup> Das BAV veröffentlicht jährlich einen Bericht über seine Tätigkeit als Aufsichtsbehörde.
+<sup>1</sup> Das BAV veröffentlicht jährlich die gemeinsamen Sicherheitsindikatoren nach Artikel 5 der Richtlinie (EU) 2016/798[^5h-2].
 
-<sup>2</sup> Der Bericht enthält mindestens die Angaben nach Artikel 19 der Richtlinie (EU) 2016/798[^5h-3].[^5h-4]
+<sup>2</sup> Es veröffentlicht über seine Tätigkeit als Aufsichtsbehörde einen Jahresbericht, der mindestens die Angaben nach Artikel 19 der Richtlinie (EU) 2016/798 enthält.
 
-[^5h-1]: Eingefügt durch Ziff. I der V vom 29. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
-[^5h-2]: Fassung gemäss Ziff. I der V vom 12. Juni 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
-[^5h-3]: Siehe Fussnote zu Art. 5*g*.
-[^5h-4]: Fassung gemäss Ziff. I der V vom 12. Juni 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
+[^5h-1]: Eingefügt durch Ziff. I der V vom 29. Mai 2013 ([AS 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)). Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^5h-2]: Siehe Fussnote zu Art. 5*a* Abs. 1.
 
 #### Art. 5i
 
 **Register der zugelassenen Fahrzeuge**[^5i-1]
 
-<sup>1</sup> Die Halter müssen in das Register der zugelassenen Fahrzeuge nach Artikel 17*a* EBG die in Ziffer 1 des Anhangs zum Beschluss der Kommission 2011/107/EU[^5i-2] als obligatorisch gekennzeichneten Daten ihrer Fahrzeuge eintragen.
+<sup>1</sup> Die Halter müssen in das Register der zugelassenen Fahrzeuge nach Artikel 17*a* EBG die in Tabelle 1 des Anhangs II zum Durchführungsbeschluss (EU) 2018/1614[^5i-2] als obligatorisch gekennzeichneten Daten ihrer Fahrzeuge eintragen. Sie müssen die Daten in das europäische Register der zugelassenen Fahrzeuge eintragen, sofern ein internationales Abkommen dies vorsieht.[^5i-3]
 
-<sup>2</sup> Sie können die übrigen in Ziffer 1 des Anhangs vorgesehenen Daten in das Register eintragen.
+<sup>2</sup> Die übrigen in Tabelle 1 des Anhangs II vorgesehenen Daten können sie in das Register eintragen.[^5i-4]
 
-<sup>3</sup> Die Zugriffsrechte richten sich nach Ziffer 3.3 des Anhangs.
+<sup>3</sup> Die Zugriffsrechte richten sich nach Tabelle 2 des Anhangs II.[^5i-5]
 
 <sup>4</sup>
 
 Nicht in das Register einzutragen sind Dienstfahrzeuge (Art. 57), die:
 
 - a. sowohl auf Schienen als auch auf der Strasse verkehren können (Zweiwegefahrzeuge);
-- b. ein- und ausgleisbar sind.[^5i-3]
+- b. ein- und ausgleisbar sind.[^5i-6]
 
 [^5i-1]: Eingefügt durch Ziff. I der V vom 29. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
-[^5i-2]: Beschluss 2011/107/EU der Kommission vom 10. Febr. 2011 zur Änderung der Entscheidung 2007/756/EG zur Annahme einer gemeinsamen Spezifikation für das nationale Einstellungsregister, ABl. L 43 vom 17.2.2011 S. 33.
-[^5i-3]: Eingefügt durch Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Juli 2016 ([AS 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
+[^5i-2]: Durchführungsbeschluss (EU) 2018/1614 der Kommission vom 25. Oktober 2018 zur Festlegung der Spezifikationen für die Fahrzeugeinstellungsregister nach Artikel 47 der Richtlinie (EU) 2016/797 des Europäischen Parlaments und des Rates sowie zur Änderung und Aufhebung der Entscheidung 2007/756/EG der Kommission, Fassung gemäss ABl. L 268 vom 26.10.2018, S. 53.
+[^5i-3]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^5i-4]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^5i-5]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^5i-6]: Eingefügt durch Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Juli 2016 ([AS 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
 
 #### Art. 5i<sup>bis</sup>
 
@@ -285,15 +309,24 @@ Nicht in das Register einzutragen sind Dienstfahrzeuge (Art. 57), die:
 
 **Instandhaltung von Fahrzeugen**[^5j-1]
 
-<sup>1</sup> Die nach Artikel 17*b* EBG für die Instandhaltung von Fahrzeugen verantwortliche Stelle muss ein Instandhaltungssystem betreiben, das den Anforderungen von Artikel 14 Absätze 2 und 3 sowie Anhang III der Richtlinie (EU) 2016/798[^5j-2] entspricht.
+<sup>1</sup>
 
-<sup>2</sup> Ist diese Stelle für die Instandhaltung von Güterwagen verantwortlich, die auf interoperablen Strecken verkehren, so muss sie dafür nach der Durchführungsverordnung (EU) 2019/779[^5j-3] zertifiziert sein. Von der Zertifizierungspflicht ausgenommen sind Eisenbahnverkehrsunternehmen für die Instandhaltung der eigenen Güterwagen.
+Die nach Artikel 17*b* EBG für die Instandhaltung von Fahrzeugen verantwortliche Stelle muss:
 
-<sup>3</sup> Wer Grund zur Annahme hat, dass die verantwortliche Stelle den Anforderungen nicht genügt, muss die Zertifizierungsstelle darüber informieren. Die Zertifizierungsstelle informiert das BAV unverzüglich über getroffene Massnahmen.
+- a.
 
-[^5j-1]: Eingefügt durch Ziff. I der V vom 29. Mai 2013 ([AS 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)). Fassung gemäss Ziff. I der V vom 12. Juni 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
-[^5j-2]: Siehe Fussnote zu Art. 5*g*.
-[^5j-3]: Durchführungsverordnung (EU) 2019/779 der Kommission vom 16. Mai 2019 mit Durchführungsbestimmungen für ein System zur Zertifizierung von für die Instandhaltung von Fahrzeugen zuständigen Stellen gemäss der Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnung (EU) Nr. 445/2011 der Kommission, ABl. L 139 I vom 27.5.2019, S. 360.
+  ein Instandhaltungssystem betreiben, das den Anforderungen entspricht von:
+
+  - 1\. Artikel 14 Absätze 2 und 3 sowie Anhang III der Richtlinie (EU) 2016/798[^5j-2], und
+  - 2\. Anhang II der Durchführungsverordnung (EU) 2019/779[^5j-3];
+
+- b. für die Instandhaltung von Fahrzeugen, welche auf interoperablen Strecken eingesetzt werden, durch eine Zertifizierungsstelle nach der Durchführungsverordnung (EU) 2019/779 zertifiziert sein; ausgenommen sind Eisenbahnunternehmen, die Fahrzeuge ausschliesslich für den eigenen Betrieb instand halten.
+
+<sup>2</sup> Wer Grund zur Annahme hat, dass die verantwortliche Stelle den Anforderungen nicht genügt, muss die Zertifizierungsstelle darüber informieren. Die Zertifizierungsstelle informiert das BAV unverzüglich über getroffene Massnahmen.
+
+[^5j-1]: Eingefügt durch Ziff. I der V vom 29. Mai 2013 ([AS 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)). Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^5j-2]: Siehe Fussnote zu Art. 5*a* Abs. 1.
+[^5j-3]: Durchführungsverordnung (EU) 2019/779 der Kommission vom 16. Mai 2019 mit Durchführungsbestimmungen für ein System zur Zertifizierung von für die Instandhaltung von Fahrzeugen zuständigen Stellen gemäss der Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnung (EU) Nr. 445/2011 der Kommission, Fassung gemäss ABl. L 139 I vom 27.5.2019, S. 360; zuletzt geändert durch Durchführungsverordnung (EU) 2020/780 der Kommission vom 12. Juni 2020, ABl. L 188 vom 15.6.2020, S. 8.
 
 #### Art. 5k
 
@@ -310,6 +343,41 @@ Für Eisenbahnunternehmen und die für die Instandhaltung von Fahrzeugen verantw
 
 [^chap1-sec3-1]: Eingefügt durch Ziff. I der V vom 29. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
 
+#### Art. 5l
+
+**Sicherheitsnachweis**[^5l-1]
+
+<sup>1</sup>
+
+Zum Nachweis der Sicherheit und Vorschriftskonformität muss die Infrastrukturbetreiberin oder der Halter des Fahrzeugs dokumentieren, dass die Eisenbahnanlage oder das Fahrzeug:
+
+- a. gemäss den Vorschriften geplant wurde;
+- b. gemäss den Vorschriften und gegebenenfalls einer Verfügung des BAV ausgeführt wurde; und
+- c. sicher betrieben werden kann.
+
+<sup>2</sup> Die Dokumentation ist durch Fachleute zu erstellen und durch diese zu unterzeichnen.
+
+<sup>3</sup> Zum Nachweis der Sicherheit und Vorschriftskonformität sind bei Vorhaben mit hoher Sicherheitsrelevanz Prüfungen durch Sachverständige erforderlich. Das BAV kann insbesondere dann auf solche Prüfungen verzichten, wenn sie nicht dazu beitragen können, Fehler mit Auswirkungen auf die Sicherheit zu vermeiden.
+
+<sup>4</sup> Zum Nachweis der vorschrifts- und verfügungskonformen Ausführung gehört eine Erklärung der Infrastrukturbetreiberin oder des Halters des Fahrzeugs. Diese Erklärung kann sich auf Erklärungen der Hersteller stützen.
+
+[^5l-1]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+
+#### Art. 5m
+
+**Sicherheitsbericht und Risikobewertung**[^5m-1]
+
+<sup>1</sup> Schlägt eine Person nach Artikel 3 Ziffer 11 der Durchführungsverordnung (EU) Nr. 402/2013[^5m-2] eine Änderung vor, so muss sie einen Sicherheitsbericht erstellen.
+
+<sup>2</sup> Sie muss den Sicherheitsbericht auf eine Umfeld- und Sicherheitsanalyse stützen, in der die Risiken ermittelt werden, welche aus dem Vorhaben für Bau und Betrieb entstehen können; dabei sind alle sicherheitsrelevanten Aspekte der Eisenbahnanlage und ihrer Umgebung beziehungsweise des Fahrzeugs zu berücksichtigen und die erforderlichen Massnahmen zu definieren.
+
+<sup>3</sup> Sie muss im Sicherheitsbericht zudem darlegen, ob es sich um eine signifikante Änderung im Sinne von Artikel 4 Absatz 2 der Durchführungsverordnung (EU) Nr. 402/2013 handelt.
+
+<sup>4</sup> Sie muss eine Risikobewertung mit dem Risikomanagementverfahren nach Anhang I der Durchführungsverordnung (EU) Nr. 402/2013 durchführen, wenn die Änderung signifikant ist. Zusätzlich ist ein Sicherheitsbewertungsbericht einer Risikobewertungsstelle erforderlich.
+
+[^5m-1]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^5m-2]: Siehe Fussnote zu Art. 5*g* Bst. b.
+
 #### Art. 6
 
 **Plangenehmigung für Bauten und Anlagen**[^6-1]
@@ -320,17 +388,17 @@ Für Eisenbahnunternehmen und die für die Instandhaltung von Fahrzeugen verantw
 
 <sup>3</sup> Das BAV kann Unterlagen selbst prüfen, oder durch fachlich kompetente, unabhängige Personen (Sachverständige) prüfen lassen sowie vom Gesuchsteller Nachweise und Prüfberichte Sachverständiger verlangen.[^6-4]
 
-<sup>4</sup> Es kann im Rahmen der Plangenehmigung festlegen, für welche Bauten oder Anlagen oder Teile davon Sicherheitsnachweise nach Artikel 8*a* einzureichen sind.[^6-5]
+<sup>4</sup> Es kann im Rahmen der Plangenehmigung festlegen, für welche Bauten oder Anlagen oder Teile davon Sicherheitsnachweise nach Artikel 5*l* einzureichen sind.[^6-5]
 
 <sup>5</sup> …[^6-6]
 
 <sup>6</sup> Die Plangenehmigung für Bauten und Anlagen gilt als Baubewilligung.
 
 [^6-1]: Fassung gemäss Ziff. I der V vom 12. April 2000, in Kraft seit 1. Mai 2000 ([AS 2000 1386](https://fedlex.data.admin.ch/eli/oc/2000/217)).
-[^6-2]: [SR 742.142.1](https://fedlex.data.admin.ch/eli/cc/2000/124)
+[^6-2]: [SR 742.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8760)
 [^6-3]: Fassung gemäss Ziff. I der V vom 19. Sept. 2014, in Kraft seit 1. Nov. 2014 ([AS 2014 3169](https://fedlex.data.admin.ch/eli/oc/2014/534)).
 [^6-4]: Fassung gemäss Ziff. I der V vom 29. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
-[^6-5]: Fassung gemäss Ziff. I der V vom 4. Nov. 2009, in Kraft seit 1. Juli 2010 ([AS 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
+[^6-5]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 [^6-6]: Aufgehoben durch Ziff. I der V vom 29. Mai 2013, mit Wirkung seit 1. Juli 2013 ([AS 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
 
 #### Art. 6a
@@ -350,11 +418,12 @@ Der Gesuchsteller kann beim BAV vor Beginn und während des Baus des Fahrzeugs s
 
 <sup>1</sup> Das BAV bewilligt Probefahrten des Fahrzeugs auf der Eisenbahninfrastruktur, sofern die Probefahrten für die Erteilung der Betriebsbewilligung erforderlich sind und der Gesuchsteller dem BAV nachweist, dass die Sicherheit gewährleistet ist.
 
-<sup>2</sup> Die Infrastrukturbetreiberinnen haben bei Probefahrten die in Artikel 21 Absätze 3 und 5 der Richtlinie (EU) 2016/797[^6b-2] sowie die in Artikel 6 der Durchführungsverordnung (EU) 2018/545[^6b-3] genannten Pflichten.
+<sup>2</sup> Die Infrastrukturbetreiberinnen haben bei Probefahrten die in Artikel 21 Absätze 3 und 5 der Richtlinie (EU) 2016/797[^6b-2] sowie die in Artikel 6 der Durchführungsverordnung (EU) 2018/545[^6b-3] genannten Pflichten.[^6b-4]
 
 [^6b-1]: Eingefügt durch Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
-[^6b-2]: Richtlinie (EU) 2016/797 des Europäischen Parlaments und des Rates vom 11. Mai 2016 über die Interoperabilität des Eisenbahnsystems in der Europäischen Union (Neufassung), Fassung gemäss ABl. L 138 vom 26.5.2016, S. 44.
-[^6b-3]: Durchführungsverordnung (EU) 2018/545 der Kommission vom 4. April 2018 über die praktischen Modalitäten für die Genehmigung für das Inverkehrbringen von Schienenfahrzeugen und die Genehmigung von Schienenfahrzeugtypen gemäss der Richtlinie (EU) 2016/797 des Europäischen Parlaments und des Rates, Fassung gemäss ABl. L 90 vom 6.4.2018, S. 66.
+[^6b-2]: Richtlinie (EU) 2016/797 des Europäischen Parlaments und des Rates vom 11. Mai 2016 über die Interoperabilität des Eisenbahnsystems in der Europäischen Union (Neufassung), ABl. L 138 vom 26.5.2016, S. 44; zuletzt geändert durch Richtlinie (EU) 2020/700 vom 25.5.2020, ABl. L 165 vom 27.5.2020, S. 27.
+[^6b-3]: Durchführungsverordnung (EU) 2018/545 der Kommission vom 4. April 2018 über die praktischen Modalitäten für die Genehmigung für das Inverkehrbringen von Schienenfahrzeugen und die Genehmigung von Schienenfahrzeugtypen gemäss der Richtlinie (EU) 2016/797 des Europäischen Parlaments und des Rates, Fassung gemäss ABl. L 90 vom 6.4.2018, S. 66; zuletzt geändert durch Durchführungsverordnung (EU) 2020/781 vom 12. Juni 2020, ABl. L 188 vom 15.6.2020, S. 11.
+[^6b-4]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 7
 
@@ -370,25 +439,22 @@ Der Gesuchsteller kann beim BAV vor Beginn und während des Baus des Fahrzeugs s
 
 [^7-1]: Fassung gemäss Ziff. I der V vom 29. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
 [^7-2]: Siehe Fussnote zu Art. 6*b* Abs. 2.
-[^7-3]: Durchführungsverordnung (EU) 2019/250 der Kommission vom 12. Februar 2019 über die Muster der EG-Erklärungen und -Bescheinigungen für Eisenbahn-Interoperabilitätskomponenten und -Teilsysteme, das Muster der Typenkonformitätserklärung für Schienenfahrzeuge und über die EG-Prüfverfahren für Teilsysteme gemäss der Richtlinie (EU) 2016/797 des Europäischen Parlaments und des Rates sowie zur Aufhebung der Verordnung (EU) Nr. 201/2011 der Kommission, Fassung gemäss ABl. L 42 vom 13.2.2019, S. 9.
-[^7-4]: Fassung gemäss Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+[^7-3]: Durchführungsverordnung (EU) 2019/250 der Kommission vom 12. Februar 2019 über die Muster der EG-Erklärungen und -Bescheinigungen für Eisenbahn-Interoperabilitätskomponenten und -Teilsysteme, das Muster der Typenkonformitätserklärung für Schienenfahrzeuge und über die EG-Prüfverfahren für Teilsysteme gemäss der Richtlinie (EU) 2016/797 des Europäischen Parlaments und des Rates sowie zur Aufhebung der Verordnung (EU) Nr. 201/2011 der Kommission, Fassung gemäss ABl. L 42 vom 13.2.2019, S. 9; zuletzt geändert durch Durchführungsverordnung (EU) 2020/779 der Kommission vom 12. Juni 2020, ABl. L 188 vom 15.6.2020, S. 6.
+[^7-4]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 8
 
 **Betriebsbewilligung**[^8-1]
 
-<sup>1</sup>
+<sup>1</sup> Eine Betriebsbewilligung nach Artikel 18*w* EBG ist erforderlich für die Inbetriebnahme signifikant geänderter Eisenbahnanlagen.[^8-2]
 
-Eine Betriebsbewilligung nach Artikel 18*w* EBG ist erforderlich für die Inbetriebnahme:
-
-- a. einer Eisenbahnanlage nach signifikanten Änderungen (Art. 8*c*);
-- b. neuer oder wesentlich geänderter Fahrzeuge.
+<sup>1bis</sup> Eine Betriebsbewilligung nach Artikel 18*w*<sup>bis</sup> EBG ist erforderlich für die Inbetriebnahme neuer oder wesentlich geänderter Fahrzeuge.[^8-3]
 
 <sup>2</sup> In den übrigen Fällen entscheidet das BAV bei der Plangenehmigung darüber, ob die Inbetriebnahme eine Betriebsbewilligung erfordert.
 
-<sup>3</sup> Ist eine Betriebsbewilligung erforderlich, so muss das Eisenbahnunternehmen dem BAV einen Sicherheitsnachweis nach Artikel 8*a* einreichen.
+<sup>3</sup> Ist eine Betriebsbewilligung erforderlich, so muss das Eisenbahnunternehmen dem BAV einen Sicherheitsnachweis nach Artikel 5*l* einreichen.[^8-4]
 
-<sup>4</sup> Nach dessen Prüfung erteilt es die Betriebsbewilligung, wenn die übrigen Auflagen der Plangenehmigung oder der Typenzulassung erfüllt sind.
+<sup>4</sup> Nach dessen Prüfung erteilt das BAV die Betriebsbewilligung, wenn die übrigen Auflagen der Plangenehmigung oder der Typenzulassung erfüllt sind.[^8-5]
 
 <sup>5</sup> Ist keine Betriebsbewilligung erforderlich, so kann das BAV die Umsetzung der Auflagen jederzeit an der Anlage oder am Fahrzeug selbst überprüfen, das Eisenbahnunternehmen zur Bestätigung auffordern oder die Prüfung durch eine sachverständige Person anordnen.
 
@@ -396,47 +462,30 @@ Eine Betriebsbewilligung nach Artikel 18*w* EBG ist erforderlich für die Inbetr
 
 <sup>7</sup> Das BAV erlässt für Eisenbahnanlagen Richtlinien über Art, Beschaffenheit, Inhalt und Anzahl der einzureichenden Unterlagen.
 
+<sup>8</sup> Es kann auf Grenzbetriebsstrecken nach Anhang 8 Betriebsbewilligungen unter Berücksichtigung der ausländischen Betriebsbewilligung erteilen oder ausländische Betriebsbewilligungen anerkennen, ohne dass dafür ein zwischenstaatliches Abkommen über die gegenseitige Anerkennung solcher Bewilligungen erforderlich ist.[^8-6]
+
 [^8-1]: Fassung gemäss Ziff. I der V vom 29. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
+[^8-2]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^8-3]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^8-4]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^8-5]: Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
+[^8-6]: Eingefügt durch Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
 
 #### Art. 8a
 
-**Sicherheitsnachweis**[^8a-1]
+**Prüfung des Sicherheitsnachweises**[^8a-1]
 
-<sup>1</sup> Der Sicherheitsnachweis nach Artikel 18*w* Absatz 2 EBG ist durch Fachleute zu erstellen und durch diese zu unterzeichnen.[^8a-2]
+<sup>1</sup> Das BAV prüft im Rahmen des Verfahrens zur Erteilung einer Betriebsbewilligung die Vollständigkeit des Sicherheitsnachweises. Zudem prüft es anhand des Sicherheitsnachweises, ob die im Sicherheitsbericht aufgezeigten Massnahmen umgesetzt sind.
 
-<sup>2</sup> Das BAV prüft die Vollständigkeit des Sicherheitsnachweises. Zudem prüft es anhand des Sicherheitsnachweises, ob die im Sicherheitsbericht aufgezeigten Massnahmen umgesetzt sind.
+<sup>2</sup> Es kann Sicherheitsnachweise überprüfen, indem es selbst Feststellungen an der Eisenbahnanlage oder am Fahrzeug vornimmt.
 
-<sup>3</sup> Es kann Sicherheitsnachweise überprüfen, indem es Feststellungen an der Anlage selbst vornimmt.
+[^8a-1]: Eingefügt durch Ziff. I der V vom 12. April 2000 ([AS 2000 1386](https://fedlex.data.admin.ch/eli/oc/2000/217)). Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
-<sup>4</sup> Es verlangt in der Regel bei Vorhaben mit hoher Sicherheitsrelevanz Prüfungen durch Sachverständige. Es verzichtet insbesondere dann auf solche Prüfungen, wenn sie nicht dazu beitragen können, Fehler mit Auswirkungen auf die Sicherheit zu vermeiden.[^8a-3]
+#### Art. 8b und 8c
 
-[^8a-1]: Eingefügt durch Ziff. I der V vom 12. April 2000, in Kraft seit 1. Mai 2000 ([AS 2000 1386](https://fedlex.data.admin.ch/eli/oc/2000/217)).
-[^8a-2]: Fassung gemäss Ziff. I der V vom 29. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
-[^8a-3]: Fassung gemäss Ziff. I der V vom 29. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
+[^8b8c-1]
 
-#### Art. 8b
-
-**Sicherheitsbericht des Eisenbahnunternehmens**[^8b-1]
-
-<sup>1</sup> Das Eisenbahnunternehmen muss bei allen Vorhaben, für die eine Plangenehmigung oder eine Betriebsbewilligung erforderlich ist, sowie für alle übrigen signifikanten Änderungen des Eisenbahnsystems einen Sicherheitsbericht erstellen.
-
-<sup>2</sup> Der Sicherheitsbericht beruht auf einer Sicherheitsanalyse, in der die Risiken ermittelt werden, welche aus dem Vorhaben für Bau und Betrieb entstehen können; dabei sind alle sicherheitsrelevanten Aspekte des Fahrzeugs oder der Eisenbahnanlage und ihrer Umgebung zu berücksichtigen.
-
-<sup>3</sup> Im Sicherheitsbericht wird dargelegt, wieweit es sich um eine signifikante Änderung (Art. 8*c* Abs. 1) handelt, mit welchen Massnahmen den Risiken begegnet und wie sichergestellt werden kann, dass das geplante Vorhaben den Vorschriften entsprechen wird und der Sicherheitsnachweis (Art. 8*a*) erbracht werden kann.
-
-[^8b-1]: Eingefügt durch Ziff. I der V vom 16. Juni 2003 ([AS 2003 2482](https://fedlex.data.admin.ch/eli/oc/2003/369)). Fassung gemäss Ziff. I der V vom 29. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
-
-#### Art. 8c
-
-**Signifikante Änderungen**[^8c-1]
-
-<sup>1</sup> Bei innovativen oder komplexen Vorhaben mit hoher Sicherheitsrelevanz (signifikanten Änderungen) muss das Eisenbahnunternehmen das Risikomanagementverfahren nach Anhang I der Durchführungsverordnung (EU) Nr. 402/2013[^8c-2] durchführen.[^8c-3]
-
-<sup>2</sup> Die ordnungsgemässe Anwendung des Risikomanagementverfahrens sowie dessen Ergebnisse sindvon einer Risikobewertungsstelle in einem Sicherheitsbewertungsbericht zu beurteilen.
-
-[^8c-1]: Eingefügt durch Ziff. I der V vom 16. Juni 2003 ([AS 2003 2482](https://fedlex.data.admin.ch/eli/oc/2003/369)). Fassung gemäss Ziff. I der V vom 29. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
-[^8c-2]: Siehe Fussnote zu Art. 5*g*.
-[^8c-3]: Fassung gemäss Ziff. I der V vom 12. Juni 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
+[^8b8c-1]: Eingefügt durch Ziff. I der V vom 16. Juni 2003 ([AS 2003 2482](https://fedlex.data.admin.ch/eli/oc/2003/369)). Aufgehoben durch Ziff. I der V vom 10. April 2024, mit Wirkung seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 8d
 
@@ -452,17 +501,22 @@ Eine Betriebsbewilligung nach Artikel 18*w* EBG ist erforderlich für die Inbetr
 
 **Überwachung**[^9-1]
 
-<sup>1</sup> Das BAV überwacht die Einhaltung der Sicherheitsanforderungen. Gegebenenfalls ordnet es die Herstellung des vorschriftsgemässen Zustandes an.
+<sup>1</sup> Das BAV überwacht die Einhaltung der Sicherheitsanforderungen risikoorientiert.[^9-2]
 
 <sup>2</sup> Es kann Kontrollen durchführen sowie Unterlagen, Nachweise und Gutachten verlangen, soweit dies für seine Aufsichtstätigkeit erforderlich ist.
 
 <sup>3</sup> Nach sicherheitsrelevanten Ereignissen kann es im Rahmen seiner Aufsichtstätigkeit technisch-betriebliche Abklärungen zu den Ursachen und Umständen durchführen oder anordnen. Vorbehalten bleibt die Zuständigkeit der Unfalluntersuchungsstelle nach Artikel 15*a* EBG.
 
-<sup>4</sup> Verfügt ein Eisenbahnunternehmen über eine Sicherheitsbescheinigung oder eine Sicherheitsgenehmigung, so richtet sich das BAV bei der Überwachung nach der Delegierten Verordnung (EU) 2018/761[^9-2].[^9-3]
+<sup>4</sup> Verfügt ein Eisenbahnunternehmen über eine Sicherheitsbescheinigung oder eine Sicherheitsgenehmigung, so richtet sich das BAV bei der Überwachung nach der Delegierten Verordnung (EU) 2018/761[^9-3].[^9-4]
+
+<sup>5</sup> Die Überwachung der vom BAV anerkannten Risikobewertungsstellen (Art. 15*v*) richtet sich nach Artikel 11 der Durchführungsverordnung (EU) Nr. 402/2013[^9-5].[^9-6]
 
 [^9-1]: Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Juli 2012 ([AS 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
-[^9-2]: Delegierte Verordnung (EU) 2018/761 der Kommission vom 16. Februar 2018 zur Festlegung gemeinsamer Sicherheitsmethoden für die Aufsicht durch die nationalen Sicherheitsbehörden nach Ausstellung einer einheitlichen Sicherheitsbescheinigung oder Erteilung einer Sicherheitsgenehmigung gemäss der Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnung (EU) Nr. 1077/2012 der Kommission, Fassung gemäss ABl. L 129 vom 25.5.2018, S. 16.
-[^9-3]: Eingefügt durch Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+[^9-2]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^9-3]: Delegierte Verordnung (EU) 2018/761 der Kommission vom 16. Februar 2018 zur Festlegung gemeinsamer Sicherheitsmethoden für die Aufsicht durch die nationalen Sicherheitsbehörden nach Ausstellung einer einheitlichen Sicherheitsbescheinigung oder Erteilung einer Sicherheitsgenehmigung gemäss der Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnung (EU) Nr. 1077/2012 der Kommission, Fassung gemäss ABl. L 129 vom 25.5.2018, S. 16; zuletzt geändert durch Delegierte Verordnung (EU) 2020/782 vom 12. Juni 2020, ABl. L 188 vom 15.6.2020, S. 14.
+[^9-4]: Eingefügt durch Ziff. I der V vom 6. Nov. 2019 ([AS 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)). Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^9-5]: Siehe Fussnote zu Art. 5*g* Bst. b.
+[^9-6]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 10
 
@@ -476,8 +530,43 @@ Eine Betriebsbewilligung nach Artikel 18*w* EBG ist erforderlich für die Inbetr
 
 <sup>4</sup> Bei elektrischen Anlagen tritt der Betriebsinhaber nach Artikel 46 an die Stelle des Eisenbahnunternehmens.
 
+<sup>5</sup> Die Verantwortlichkeit der übrigen Personen, die Einfluss auf die Sicherheit des Eisenbahnbetriebs haben, richtet sich nach Artikel 4 Absatz 4 der Richtlinie (EU) 2016/798[^10-3].[^10-4]
+
 [^10-1]: Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Juli 2012 ([AS 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 [^10-2]: Fassung gemäss Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Juli 2016 ([AS 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
+[^10-3]: Siehe Fussnote zu Art. 5*a* Abs. 1.
+[^10-4]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+
+#### Art. 10a
+
+**Massnahmen bei erkannten Sicherheitsrisiken**[^10a-1]
+
+Wer von Sicherheitsrisiken Kenntnis erhält, muss die erforderlichen Massnahmen ergreifen. Hierzu gehört auch der erforderliche Informationsaustausch mit anderen Verantwortlichen sowie Betroffenen.
+
+[^10a-1]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+
+#### Art. 10b
+
+**Prüfungen vor dem Einsatz eines Fahrzeugs**[^10b-1]
+
+<sup>1</sup> Die Eisenbahnunternehmen müssen vor dem Einsatz eines Fahrzeugs die in Artikel 23 Absätze 1 und 2 der Richtlinie (EU) 2016/797[^10b-2] genannten Prüfungstätigkeiten durchführen.
+
+<sup>2</sup>
+
+Sie müssen sich vor der Nutzung eines Fahrzeugs vergewissern, dass das Fahrzeug:
+
+- a. über eine Betriebsbewilligung oder eine Genehmigung für das Inverkehrbringen verfügt und registriert ist;
+- b.
+
+  mit den zu befahrenden Strecken kompatibel ist auf der Grundlage:
+
+  - 1\. bei interoperablen Strecken: des Infrastrukturregisters,
+  - 2\. bei nicht interoperablen Strecken: der von der Infrastrukturbetreiberin kostenlos bereitgestellten Informationen;
+
+- c. sich ordnungsgemäss in die Zusammensetzung des Zuges einfügt.
+
+[^10b-1]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^10b-2]: Siehe Fussnote zu Art. 6*b* Abs. 2.
 
 #### Art. 11
 
@@ -508,37 +597,28 @@ Betriebsorganisation und Personalbestand der Bahnunternehmen müssen den Eigenhe
 
 <sup>4</sup>
 
-Für Netzbenutzerinnen sind diejenigen Betriebsvorschriften verbindlich, die in Bezug auf die Nutzung der Strecke Regeln enthalten:[^12-3]
+Für Netzbenutzerinnen sind diejenigen Betriebsvorschriften verbindlich, welche die in Bezug auf die Nutzung der Strecke erforderlichen Regeln enthalten. Hierzu gehören insbesondere Regeln über:
 
-- a. welche öffentlich-rechtliche Auflagen umsetzen;
-- b. über das bei einer bestimmten Geschwindigkeit erforderliche Bremsverhältnis (inkl. Feststellbremse) sowie die erlaubten Längs- und Querkräfte;
-- c. über das Verwenden thermischer Triebfahrzeuge in Tunnels;
-- d. zum einzuhaltenden Lichtraumprofil;
-- e. zur zulässigen Radsatzlast und Meterlast;
-- f. über das Verkehren von Fahrzeugen mit grossem Achsstand und von Zügen mit Überlänge;
-- g. über die maximale Stromentnahme aus der Fahrleitung;
-- h. über die anzuwendende Dienstsprache;
-- i. zur elektromagnetischen Verträglichkeit.
+- a. die Umsetzung öffentlich-rechtlicher Auflagen;
+- b. die bei einer bestimmten Geschwindigkeit erforderliche Bremsleistung und die Kraft der Feststellbremsen sowie die erlaubten Längs- und Querkräfte;
+- c. das Verwenden thermischer Triebfahrzeuge in Tunnels;
+- d. das einzuhaltende Lichtraumprofil;
+- e. die zulässige Radsatzlast und Meterlast;
+- f. das Verkehren von Fahrzeugen mit grossem Achsstand und von Zügen mit Überlänge;
+- g. die maximale Stromentnahme aus der Fahrleitung;
+- h. die anzuwendende Dienstsprache;
+- i. die elektromagnetische Verträglichkeit.[^12-3]
 
-<sup>5</sup> Das BAV sorgt für möglichst einheitliche Vorschriften für den Betrieb.[^12-4]
+<sup>5</sup> Das BAV sorgt für möglichst einheitliche Vorschriften für den Betrieb der Eisenbahn.[^12-4]
 
 [^12-1]: Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Juli 2012 ([AS 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 [^12-2]: Fassung gemäss Ziff. I der V vom 12. Juni 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
-[^12-3]: Fassung gemäss Ziff. I der V vom 12. Juni 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
-[^12-4]: Fassung gemäss Ziff. I der V vom 12. Juni 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
+[^12-3]: Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
+[^12-4]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 12a
 
-**Prüfungen vor dem Einsatz eines Fahrzeugs**[^12a-1]
-
-Eisenbahnverkehrsunternehmen und Infrastrukturbetreiberinnen führen vor dem Einsatz eines Fahrzeugs die in Artikel 23 Absätze 1 und 2 der Richtlinie 2016/797[^12a-2] genannten Prüfungstätigkeiten durch.
-
-[^12a-1]: Eingefügt durch Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
-[^12a-2]: Siehe Fussnote zu Art. 7 Abs. 4.
-
-#### Art. 12a<sup>bis</sup>
-
-**Technisch-betriebliche Empfehlungen**[^12abis-1]
+**Technisch-betriebliche Empfehlungen**[^12a-1]
 
 Die Infrastrukturbetreiberin erlässt technisch-betriebliche Empfehlungen für die Benützung der Infrastruktur. Die Empfehlungen dienen dazu, Betriebsstörungen zu minimieren und die Netzbenutzerinnen auf mögliche Schadenfälle aufmerksam zu machen. Sie enthalten insbesondere Hinweise:
 
@@ -547,7 +627,13 @@ Die Infrastrukturbetreiberin erlässt technisch-betriebliche Empfehlungen für d
 - c. zur optimalen Zugslänge und zu Zughakenlasten, Fahrcharakteristik, Entgleisungssicherheit;
 - d. zum Schutz der Güter gegen Ladungsverschiebung und Beschädigung.
 
-[^12abis-1]: Ursprünglich Art. 12*a*. Eingefügt durch Ziff. I der V vom 25. Nov. 1998, in Kraft seit 1. Jan. 1999 ([AS 1999 1083](https://fedlex.data.admin.ch/eli/oc/1999/143)).
+[^12a-1]: Ursprünglich: Art. 12*a*, dann 12*a*<sup>bis</sup>. Eingefügt durch Ziff. I der V vom 25. Nov. 1998, in Kraft seit 1. Jan. 1999 ([AS 1999 1083](https://fedlex.data.admin.ch/eli/oc/1999/143)).
+
+#### Art. 12a<sup>bis</sup>
+
+[^12abis-1]
+
+[^12abis-1]: Ursprünglich: Art. 12*a*. Eingefügt durch Ziff. I der V vom 6. Nov. 2019 ([AS 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)). Aufgehoben durch Ziff. I der V vom 10. April 2024, mit Wirkung seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 12b
 
@@ -565,7 +651,9 @@ Die Infrastrukturbetreiberin erlässt technisch-betriebliche Empfehlungen für d
 
 <sup>1</sup> Instandhaltung und Erneuerung müssen den für die Betriebssicherheit erforderlichen Zustand der Bauten, Anlagen und Fahrzeuge gewährleisten.
 
-<sup>2</sup> Die Instandhaltung ist so zu organisieren, dass
+<sup>2</sup>
+
+Die Instandhaltung ist so zu organisieren, dass:
 
 - a. die gesetzlichen und die betriebsinternen Vorschriften eingehalten werden;
 - b. die Verantwortlichen jederzeit den Zustand der Bauten, Anlagen und Fahrzeuge überblicken.
@@ -580,13 +668,14 @@ Die Infrastrukturbetreiberin erlässt technisch-betriebliche Empfehlungen für d
 
 <sup>1</sup> Planung, Bau, Betrieb und Instandhaltung dürfen nur entsprechend ausgebildetem Personal übertragen werden.
 
-<sup>2</sup> Bei elektrischen Anlagen, elektrischen Teilen von Schienenfahrzeugen und elektrischen Teilen von Trolleybusanlagen und -fahrzeugen muss die fachliche Leitung einer sachverständigen Person mit elektrotechnischer Bildung (elektrotechnische Berufslehre, gleichwertige betriebsinterne Ausbildung oder Studium im Bereich der Elektrotechnik) übertragen werden, die Erfahrung im Umgang mit Starkstromanlagen hat und die örtlichen Verhältnisse und die zu treffenden Schutzmassnahmen kennt.
+<sup>2</sup> Bei elektrischen Anlagen, elektrischen Teilen von Schienenfahrzeugen und elektrischen Teilen von Trolleybusanlagen und -fahrzeugen muss der Betriebsinhaber nach Artikel 46 die fachliche Leitung einer sachverständigen Person mit elektrotechnischer Bildung in Form einer Berufslehre, einer gleichwertigen betriebsinternen Ausbildung oder eines Studiums im Bereich der Elektrotechnik übertragen, die Erfahrung im Umgang mit Starkstromanlagen hat und die örtlichen Verhältnisse und die zu treffenden Schutzmassnahmen kennt.[^14-2]
 
 <sup>3</sup> Soweit die Sicherheit des Betriebes besondere Anforderungen stellt, sind Dienstkenntnisse und Gesundheitszustand des Personals periodisch zu überprüfen.
 
 <sup>4</sup> Die Eisenbahnunternehmen ernennen für die Leitung von Betrieb und Instandhaltung mindestens eine verantwortliche Person sowie eine Stellvertretung.
 
 [^14-1]: Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Juli 2012 ([AS 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+[^14-2]: Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
 
 #### Art. 15
 
@@ -601,7 +690,7 @@ Die Infrastrukturbetreiberin erlässt technisch-betriebliche Empfehlungen für d
 [^15-1]: Fassung gemäss Anhang Ziff. 12 der V vom 23. Aug. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 [^15-2]: Fassung gemäss Ziff. I 5 der V vom 4. Nov. 2009 (erste Phase der Bahnreform 2), in Kraft seit 1. Jan. 2010 ([AS 2009 5959](https://fedlex.data.admin.ch/eli/oc/2009/729)).
 [^15-3]: Eingefügt durch Anhang Ziff. 3 der V vom 21. Mai 2008 ([AS 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)). Aufgehoben durch Anhang Ziff. 12 der V vom 23. Aug. 2023, mit Wirkung seit 1. Jan. 2024 ([AS 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
-[^15-4]: [SR 742.161](https://fedlex.data.admin.ch/eli/cc/2015/26)
+[^15-4]: [SR 742.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8778)
 [^15-5]: Fassung gemäss Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Juli 2016 ([AS 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
 
 #### Art. 15<sup>bis</sup>
@@ -630,31 +719,37 @@ Die Infrastrukturbetreiberin erlässt technisch-betriebliche Empfehlungen für d
 
 <sup>1</sup>
 
-Die Bestimmungen dieses Kapitels gelten für den Neubau, Änderungen und Erneuerungen sowie den Betrieb der:
+Die Bestimmungen dieses Kapitels gelten für den Bau und den Betrieb der:[^15a-1]
 
 - a. normalspurigen Strecken, soweit diese nicht in Anhang 5 aufgeführt sind (interoperable Strecken);
-- b.[^15a-1] auf den interoperablen Strecken eingesetzten Fahrzeuge, ausgenommen Spezialfahrzeuge (Art. 56–58).
+- b.[^15a-2] auf den interoperablen Strecken eingesetzten Fahrzeuge, ausgenommen Spezialfahrzeuge (Art. 56–58).
 
 <sup>2</sup> Auf den interoperablen Strecken ausserhalb des interoperablen Hauptnetzes nach Anhang 6 muss die Einhaltung der technischen Spezifikationen Interoperabilität (TSI) nur so weit nachgewiesen werden, als dies zur Gewährleistung des Verkehrs von Fahrzeugen erforderlich ist, welche den TSI entsprechen. Das BAV erlässt Richtlinien über den Nachweis.
 
 <sup>3</sup> Soweit es für die Herstellung der Interoperabilität erforderlich ist, verfügt das BAV, bis wann welche Strecken und Fahrzeuge bestimmten Anforderungen der TSI entsprechen müssen.
 
-[^15a-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Juli 2016 ([AS 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
+[^15a-1]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15a-2]: Fassung gemäss Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Juli 2016 ([AS 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
 
 #### Art. 15b
 
-**Grundlegende Anforderungen, technische Ausführungsbestimmungen**
+**Grundlegende Anforderungen, technische Ausführungsbestimmungen**[^15b-1]
 
 ### (Art. 23*f* Abs. 1 EBG)
 
-<sup>1</sup> Die grundlegenden Anforderungen an das Eisenbahnsystem, Teilsysteme und Interoperabilitätskomponenten einschliesslich der Schnittstellen richten sich nach Anhang III der Richtlinie (EU) 2016/797[^15b-1].[^15b-2]
+<sup>1</sup> Die grundlegenden Anforderungen an das Eisenbahnsystem, Teilsysteme und Interoperabilitätskomponenten einschliesslich der Schnittstellen richten sich nach Anhang III der Richtlinie (EU) 2016/797[^15b-2].
 
-<sup>2</sup> Als technische Ausführungsbestimmungen gelten die in Anhang 7 aufgeführten TSI.
+<sup>2</sup>
+
+Das BAV erlässt unter Berücksichtigung des internationalen Rechts:
+
+- a. die technischen und betrieblichen Ausführungsbestimmungen für Teilsysteme und Interoperabilitätskomponenten;
+- b. in den Fällen nach Artikel 13 Absatz 2 der Richtlinie (EU) 2016/797 die nationalen Vorschriften für die Einhaltung der grundlegenden Anforderungen.
 
 <sup>3</sup> Soweit keine Sonderfälle vorliegen oder Abweichungen von TSI bewilligt wurden, gehen die TSI den übrigen Bestimmungen der EBV vor.
 
-[^15b-1]: Siehe Fussnote zu Art. 7 Abs. 4.
-[^15b-2]: Fassung gemäss Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+[^15b-1]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15b-2]: Siehe Fussnote zu Art. 6*b* Abs. 2.
 
 #### Art. 15c
 
@@ -662,42 +757,76 @@ Die Bestimmungen dieses Kapitels gelten für den Neubau, Änderungen und Erneuer
 
 ### (Art. 23*c* Abs. 1 EBG)
 
-Neue Teilsysteme der Bereiche Infrastruktur, Energie, Zugsteuerung, Zugsicherung, Signalgebung und Fahrzeuge (strukturelle Teilsysteme nach Anhang II der Richtlinie (EU) 2016/797[^15c-2]) dürfen nur in Betrieb genommen werden, wenn das BAV eine Betriebsbewilligung für die Eisenbahnanlage oder das Fahrzeug erteilt hat, deren oder dessen Bestandteil sie sind.
+Neue Teilsysteme der Bereiche Infrastruktur, Energie, Zugsteuerung, Zugsicherung, Signalgebung und Fahrzeuge (strukturelle Teilsysteme nach Anhang II der Richtlinie [EU] 2016/797[^15c-2]) dürfen nur in Betrieb genommen werden, wenn das BAV eine Betriebsbewilligung für die Eisenbahnanlage oder das Fahrzeug erteilt hat, deren oder dessen Bestandteil sie sind.[^15c-3]
 
 [^15c-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
-[^15c-2]: Siehe Fussnote zu Art. 7 Abs. 4.
+[^15c-2]: Siehe Fussnote zu Art. 6*b* Abs. 2.
+[^15c-3]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 15d
 
-**Änderungen**
+**Änderungen von Fahrzeugen**[^15d-1]
 
-### (Art. 23*d* EBG)
+### (Art. 23*c*<sup>bis</sup> EBG)
 
-<sup>1</sup> Eine Betriebsbewilligung für die Änderung eines strukturellen Teilsystems ist insbesondere bei signifikanten Änderungen und bei Umrüstungen im Bereich des interoperablen Hauptnetzes nach Anhang 6 erforderlich.
+Eine Genehmigung für das Inverkehrbringen eines geänderten Fahrzeuges ist bei wesentlichen Änderungen im Sinne von Artikel 21 Absatz 12 der Richtlinie (EU) 2016/797[^15d-2] und Artikel 16 der Durchführungsverordnung (EU) 2018/545[^15d-3] erforderlich.
 
-<sup>2</sup> Eine Betriebsbewilligung für die Änderung eines Fahrzeugs ist erforderlich, sofern Artikel 21 Absatz 12 der Richtlinie (EU) 2016/797[^15d-1] dies vorsieht.[^15d-2]
-
-[^15d-1]: Siehe Fussnote zu Art. 7 Abs. 4.
-[^15d-2]: Eingefügt durch Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+[^15d-1]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15d-2]: Siehe Fussnote zu Art. 6*b* Abs. 2.
+[^15d-3]: Siehe Fussnote zu Art. 6*b* Abs. 2.
 
 #### Art. 15e
 
-**Abweichungen von den TSI**
+**Ausnahmen von der Anwendung der TSI**
 
 ### (Art. 23*f* Abs. 3 EBG)
 
-<sup>1</sup> Die Einhaltung der TSI ist bei Neubauten, Umrüstungen und Erneuerungen insoweit erforderlich, als kein Ausnahmegrund nach Artikel 7 der Richtlinie (EU) 2016/797[^15e-1] vorliegt.[^15e-2]
+[^15e-1]
 
-<sup>2</sup> Das BAV kann auf Gesuch hin Abweichungen von bestimmten Anforderungen der TSI bewilligen, wenn ein Ausnahmegrund nach Artikel 7 Absatz 1 der Richtlinie (EU) 2016/797 vorliegt.[^15e-3]
+<sup>1</sup> Die Einhaltung der TSI ist bei Neubauten, Aufrüstungen und Erneuerungen erforderlich, sofern kein Ausnahmegrund nach Artikel 7 der Richtlinie (EU) 2016/797[^15e-2] vorliegt.[^15e-3]
 
-<sup>3</sup> …[^15e-4]
+<sup>2</sup> Das BAV kann auf Gesuch hin Abweichungen von bestimmten Anforderungen der TSI bewilligen, wenn ein Ausnahmegrund nach Artikel 7 Absatz 1 der Richtlinie (EU) 2016/797 vorliegt.[^15e-4]
 
-<sup>4</sup> Bei Fahrzeugen kann das BAV Abweichungen von den TSI auch dann bewilligen, wenn deren Einhaltung nicht für den Einsatz auf interoperablen Strecken erforderlich ist und der Gesuchsteller den Nachweis nach Artikel 5 Absatz 2 erbringt.
+<sup>3</sup> …[^15e-5]
 
-[^15e-1]: Siehe Fussnote zu Art. 7 Abs. 4.
-[^15e-2]: Fassung gemäss Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
-[^15e-3]: Fassung gemäss Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
-[^15e-4]: Aufgehoben durch Ziff. I der V vom 6. Nov. 2019, mit Wirkung seit 1. Dez. 2019 ([AS 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+<sup>4</sup> Bei Fahrzeugen kann das BAV Abweichungen von den TSI bewilligen, wenn deren Einhaltung nicht für den Einsatz auf interoperablen Strecken erforderlich ist und der Gesuchsteller den Nachweis nach Artikel 5 Absatz 2 erbringt.[^15e-6]
+
+[^15e-1]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15e-2]: Siehe Fussnote zu Art. 6*b* Abs. 2.
+[^15e-3]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15e-4]: Fassung gemäss Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+[^15e-5]: Aufgehoben durch Ziff. I der V vom 6. Nov. 2019, mit Wirkung seit 1. Dez. 2019 ([AS 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+[^15e-6]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+
+#### Art. 15e<sup>bis</sup>
+
+**Konformitätsbewertung von Interoperabilitätskomponenten**[^15ebis-1]
+
+### (Art. 23*j* EBG)
+
+Die Konformitätsbewertung von Interoperabilitätskomponenten richtet sich nach:
+
+- a. Artikel 10 der Richtlinie (EU) 2016/797[^15ebis-2];
+- b. den TSI;
+- c. den Artikeln 4 und 5 und Anhang I des Beschlusses 2010/713/EU[^15ebis-3]; und
+- d. Anhang V der Durchführungsverordnung (EU) 2019/250[^15ebis-4].
+
+[^15ebis-1]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15ebis-2]: Siehe Fussnote zu Art. 6*b* Abs. 2.
+[^15ebis-3]: Beschluss 2010/713/EU der Kommission vom 9. November 2010 über Module für die Verfahren der Konformitäts- und Gebrauchstauglichkeitsbewertung sowie der EG-Prüfung, die in den gemäss Richtlinie 2008/57/EG des Europäischen Parlaments und des Rates angenommenen technischen Spezifikationen für die Interoperabilität zu verwenden sind, Fassung gemäss ABl. L 319 vom 4.12.2010, S. 1.
+[^15ebis-4]: Siehe Fussnote zu Art. 7 Abs. 4.
+
+#### Art. 15e<sup>ter</sup>
+
+**Bescheinigung der Konformität vonInteroperabilitätskomponenten mit den TSI**[^15eter-1]
+
+### (Art. 23*j* Abs. 1 EBG)
+
+<sup>1</sup> Für jede Interoperabilitätskomponente ist eine Bescheinigung der Konformität mit den TSI durch eine benannte Stelle (Art. 15*r*) erforderlich.
+
+<sup>2</sup> Die Konformitätsbescheinigung muss die Übereinstimmung der Interoperabilitätskomponenten und ihrer Schnittstellen mit den grundlegenden Anforderungen bescheinigen, soweit diese durch die TSI konkretisiert sind.
+
+[^15eter-1]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 15f
 
@@ -711,8 +840,8 @@ Neue Teilsysteme der Bereiche Infrastruktur, Energie, Zugsteuerung, Zugsicherung
 
 <sup>3</sup> Das BAV erlässt Richtlinien über die Registerführung, insbesondere über die Netzabgrenzung. Die Trassenvergabestelle regelt nach Anhörung des BAV und der Infrastrukturbetreiberinnen die Einzelheiten der Informationsübermittlung. Sie sorgt für die Information der Eigentümer und Betreiber von Umschlagsanlagen für den kombinierten Verkehr und Anschlussgleisen.[^15f-3]
 
-[^15f-1]: Durchführungsverordnung (EU) 2019/777 der Kommission vom 16. Mai 2019 zu gemeinsamen Spezifikationen für das Eisenbahn-Infrastrukturregister und zur Aufhebung des Durchführungsbeschlusses 2014/880/EU der Kommission, Fassung gemäss ABl. L 139 vom 27.5.2019, S. 312.
-[^15f-2]: Fassung gemäss Ziff. I 5 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+[^15f-1]: Durchführungsverordnung (EU) 2019/777 der Kommission vom 16. Mai 2019 zu gemeinsamen Spezifikationen für das Eisenbahn-Infrastrukturregister und zur Aufhebung des Durchführungsbeschlusses 2014/880/EU, ABl. L 139 vom 27.5.2019, S. 312; zuletzt geändert durch Durchführungsverordnung (EU) 2023/1694, ABl. L 222 vom 8.9.2023, S. 88.
+[^15f-2]: Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
 [^15f-3]: Fassung gemäss Ziff. I 5 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
 
 #### Art. 15g
@@ -725,92 +854,126 @@ Neue Teilsysteme der Bereiche Infrastruktur, Energie, Zugsteuerung, Zugsicherung
 
 <sup>2</sup> Das Register ist für die nationalen Sicherheitsbehörden und die Agentur zugänglich. Es wird der Öffentlichkeit zugänglich gemacht, sobald die Daten durch die Agentur validiert worden sind.[^15g-3]
 
-[^15g-1]: Durchführungsbeschluss 2011/655/EU der Kommission vom 4. Okt. 2011 über das Europäische Register genehmigter Schienenfahrzeugtypen, ABl. L 264 vom 8.10.2011, S. 32, geändert durch Durchführungsverordnung (EU) 2019/776 der Kommission vom 16.5.2019, ABl. L 139 I vom 27.5.2019, S. 108.
-[^15g-2]: Fassung gemäss Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
+[^15g-1]: Durchführungsbeschluss 2011/655/EU der Kommission vom 4. Oktober 2011 über das Europäische Register genehmigter Schienenfahrzeugtypen, ABl. L 264 vom 8.10.2011, S. 32; zuletzt geändert durch Durchführungsbeschluss (EU) 2023/1696, ABl. L 222 vom 8.9.2023, S. 561.
+[^15g-2]: Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
 [^15g-3]: Fassung gemäss Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
 
-### 2. Abschnitt: Betriebsbewilligung
+### 2. Abschnitt: Streckenseitige ERTMS-Ausrüstung
+
+[^chap1a-sec2-1]
+
+[^chap1a-sec2-1]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+
+### (Art. 23*g* EBG)
 
 #### Art. 15h
 
-**Erforderliche Nachweise**
+Wer eine streckenseitige Ausrüstung für das Europäische Eisenbahnverkehrsleitsystem *European Rail Traffic Management System* (ERTMS) ausschreiben will, benötigt in den Fällen nach Artikel 18 Absatz 6 dritter Satz der Richtlinie (EU) 2016/797[^15h-1] die Zustimmung des BAV zu den ERTMS-Spezifikationen.
 
-### (Art. 23*c* Abs. 2 EBG)
+[^15h-1]: Siehe Fussnote zu Art. 6*b* Abs. 2.
 
-[^15h-1]
+### 3. Abschnitt: Sicherheitsnachweis
 
-Das Eisenbahnunternehmen muss dem Gesuch um eine Betriebsbewilligung folgende Unterlagen beilegen:
+[^chap1a-sec3-1]
+
+[^chap1a-sec3-1]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+
+#### Art. 15i
+
+**Sicherheitsnachweis für Fahrzeuge**[^15i-1]
+
+### (Art. 23*c*<sup>bis</sup> Abs. 4 EBG)
+
+Das Eisenbahnunternehmen muss zum Nachweis der Sicherheit und Vorschriftskonformität des Vorhabens über die Unterlagen nach Artikel 21 Absatz 3 der Richtlinie (EU) 2016/797[^15i-2] sowie nach den Artikeln 28–30 und Anhang 1 der Durchführungsverordnung (EU) 2018/545[^15i-3] verfügen.
+
+[^15i-1]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15i-2]: Siehe Fussnote zu Art. 6*b* Abs. 2.
+[^15i-3]: Siehe Fussnote zu Art. 6*b* Abs. 2.
+
+#### Art. 15i<sup>bis</sup>
+
+**Prüfberichte Sachverständiger**[^15ibis-1]
+
+<sup>1</sup>
+
+Werden bei Vorhaben mit hoher Sicherheitsrelevanz die folgenden Anforderungen durch andere Vorschriften als die TSI oder notifizierte nationale Vorschriften spezifiziert, so sind Prüfberichte Sachverständiger erforderlich zum Nachweis:
+
+- a. der Sicherheit und Vorschriftskonformität der Teilsysteme und ihrer Schnittstellen;
+- b. der technischen Kompatibilität der Teilsysteme;
+- c. der sicheren Integration der Teilsysteme in das Gesamtsystem.
+
+<sup>2</sup> Das BAV kann in einer Richtlinie festlegen, welche Prüfberichte Sachverständiger regelmässig erforderlich sind.
+
+[^15ibis-1]: Eingefügt durch Ziff. I der V vom 6. Nov. 2019 ([AS 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)). Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+
+#### Art. 15i<sup>ter</sup>
+
+**Konformitätserklärungen für Interoperabilitätskomponenten**[^15iter-1]
+
+Die Infrastrukturbetreiberin oder der Halter des Fahrzeugs muss zum Nachweis der vorschriftskonformen Ausführung über EG-Erklärungen nach Artikel 9 der Richtlinie (EU) 2016/797[^15iter-2] und nach Anhang I der Durchführungsverordnung (EU) 2019/250[^15iter-3] verfügen.
+
+[^15iter-1]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15iter-2]: Siehe Fussnote zu Art. 6*b* Abs. 2.
+[^15iter-3]: Siehe Fussnote zu Art. 7 Abs. 4.
+
+### 4. Abschnitt: Betriebsbewilligung
+
+[^chap1a-sec4-1]
+
+[^chap1a-sec4-1]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+
+#### Art. 15j
+
+**Erforderliche Nachweise**[^15j-1]
+
+### (Art. 23*c* Abs. 5 und Art. 23*c*<sup>bis</sup> Abs. 4 EBG)
+
+<sup>1</sup>
+
+Der Gesuchsteller muss dem Gesuch um eine Betriebsbewilligung folgende Unterlagen beilegen:
 
 - a. den Sicherheitsnachweis;
 - b. Unterlagen über die Einhaltung der grundlegenden Anforderungen, der TSI und der übrigen massgebenden Vorschriften.
 
-[^15h-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+<sup>2</sup>
 
-#### Art. 15i
+Er muss dem Gesuch um eine Betriebsbewilligung für eine Eisenbahnanlage zusätzlich beilegen:
 
-**Sicherheitsnachweis für Infrastruktur**
+- a. die Unterlagen nach Artikel 18 Absatz 4 Buchstaben a–c der Richtlinie (EU) 2016/797[^15j-2];
+- b. im Falle streckenseitiger ERTMS-Ausrüstung die Zustimmung des BAV nach Artikel 15*h*.
 
-### (Art. 23*c* Abs. 4 EBG)
-
-[^15i-1]
-
-<sup>1</sup>
-
-Das Eisenbahnunternehmen muss zum Nachweis der Sicherheit und Vorschriftskonformität des Vorhabens folgende Unterlagen einreichen:
-
-- a. Konformitätsbescheinigungen;
-- b. Prüfberichte der Sachverständigen;
-- c. Nachweis der vorschriftskonformen Ausführung.
-
-<sup>2</sup> Das BAV kann weitere Unterlagen zum Nachweis der Einhaltung der Vorschriften verlangen.
-
-[^15i-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
-
-#### Art. 15i<sup>bis</sup>
-
-**Sicherheitsnachweis für Fahrzeuge**[^15ibis-1]
-
-### (Art. 23*c* Abs. 4 EBG)
-
-Das Eisenbahnunternehmen muss zum Nachweis der Sicherheit und Vorschriftskonformität des Vorhabens die Unterlagen nach Artikel 21 Absatz 3 der Richtlinie (EU) 2016/797[^15ibis-2] sowie nach den Artikeln 28–30 und Anhang 1 der Durchführungsverordnung (EU) 2018/545[^15ibis-3] einreichen.
-
-[^15ibis-1]: Eingefügt durch Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
-[^15ibis-2]: Siehe Fussnote zu Art. 7 Abs. 4.
-[^15ibis-3]: Siehe Fussnote zu Art. 6*b* Abs. 2.
-
-#### Art. 15j
-
-**Konformitätsbewertung**[^15j-1]
-
-### (Art. 23*j* EBG)
-
-<sup>1</sup> Die Konformitätsbewertung von Interoperabilitätskomponenten richtet sich nach Artikel 10 der Richtlinie (EU) 2016/797[^15j-2], nach den TSI, nach den Artikeln 4 und 5 und Anhang I des Beschlusses 2010/713/EU[^15j-3] sowie nach Anhang V der Durchführungsverordnung (EU) 2019/250[^15j-4].
-
-<sup>2</sup> Die Konformitätsbewertung von Teilsystemen richtet sich nach Artikel 15 und Anhang IV der Richtlinie (EU) 2016/797, nach den TSI, nach Artikel 6 und Anhang I des Beschlusses 2010/713/EU sowie nach den Anhängen IV und V der Durchführungsverordnung (EU) 2019/250.
-
-[^15j-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
-[^15j-2]: Siehe Fussnote zu Art. 7 Abs. 4.
-[^15j-3]: Beschluss 2010/713/EU der Kommission vom 9. November 2010 über Module für die Verfahren der Konformitäts- und Gebrauchstauglichkeitsbewertung sowie der EG-Prüfung, die in den gemäss Richtlinie 2008/57/EG des Europäischen Parlaments und des Rates angenommenen technischen Spezifikationen für die Interoperabilität zu verwenden sind, Fassung gemäss ABl. L 319 vom 4.12.2010, S. 1.
-[^15j-4]: Siehe Fussnote zu Art. 7 Abs. 4.
+[^15j-1]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15j-2]: Siehe Fussnote zu Art. 6*b* Abs. 2.
 
 #### Art. 15k
 
-**Bescheinigung der Konformität mit den TSI**
+**Konformitätsbewertung von Teilsystemen**[^15k-1]
+
+### (Art. 23*j* EBG)
+
+Die Konformitätsbewertung von Teilsystemen richtet sich nach:
+
+- a. Artikel 15 und Anhang IV der Richtlinie (EU) 2016/797[^15k-2];
+- b. den TSI;
+- c. Artikel 6 und Anhang I des Beschlusses 2010/713/EU[^15k-3]; und
+- d. den Anhängen IV und V der Durchführungsverordnung (EU) 2019/250[^15k-4].
+
+[^15k-1]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15k-2]: Siehe Fussnote zu Art. 6*b* Abs. 2.
+[^15k-3]: Siehe Fussnote zu Art. 15*e*<sup>bis</sup> Bst. c.
+[^15k-4]: Siehe Fussnote zu Art. 7 Abs. 4.
+
+#### Art. 15k<sup>bis</sup>
+
+**Bescheinigung der Konformität von Teilsystemen mit den TSI**[^15kbis-1]
 
 ### (Art. 23*j* Abs. 1 EBG)
 
-<sup>1</sup>
+<sup>1</sup> Für jedes strukturelle Teilsystem ist eine Bescheinigung der Konformität mit den TSI durch eine benannte Stelle (Art. 15*r*) erforderlich.
 
-Eine Bescheinigung der Konformität mit den TSI durch eine benannte Stelle (Art. 15*r*) ist erforderlich für:
+<sup>2</sup> Die Konformitätsbescheinigung muss die Übereinstimmung der Teilsysteme und ihrer Schnittstellen mit den grundlegenden Anforderungen bescheinigen, soweit diese durch die TSI konkretisiert sind.
 
-- a. jede Interoperabilitätskomponente;
-- b. jedes strukturelle Teilsystem.
-
-<sup>2</sup> Die Konformitätsbescheinigung muss die Übereinstimmung der Interoperabilitätskomponenten oder Teilsysteme und ihrer Schnittstellen mit den grundlegenden Anforderungen bescheinigen, soweit diese durch TSI konkretisiert sind.
-
-<sup>3</sup> Auf den normalspurigen Strecken ausserhalb des interoperablen Hauptnetzes nach Anhang 6 kann die Konformität mit den anwendbaren Bestimmungen der TSI statt durch benannte Stellen auch durch benannte beauftragte Stellen (Art. 15*v* Abs. 2) oder durch Sachverständige bescheinigt werden.
-
-<sup>4</sup> Werden Teile durch Teile desselben Typs ersetzt, so ist keine Bescheinigung der Konformität mit den TSI erforderlich, sofern das Teilsystem vor dem Inkrafttreten der massgeblichen TSI in Betrieb genommen wurde.
+[^15kbis-1]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 15l
 
@@ -822,49 +985,33 @@ Eine Bescheinigung der Konformität mit den TSI durch eine benannte Stelle (Art.
 
 #### Art. 15m
 
-**Prüfberichte Sachverständiger**
+[^15m-1]
 
-<sup>1</sup>
-
-Werden die folgenden Anforderungen durch andere Vorschriften als TSI oder notifizierte nationale Vorschriften spezifiziert und handelt es sich um Vorhaben mit hoher Sicherheitsrelevanz, so sind Prüfberichte Sachverständiger erforderlich zum Nachweis:
-
-- a. der Sicherheit und Vorschriftskonformität der Teilsysteme und ihrer Schnittstellen;
-- b. der technischen Kompatibilität des Teilsystems;
-- c. der sicheren Integration des Teilsystems in das Gesamtsystem.
-
-<sup>2</sup> Das BAV kann zusätzliche Prüfberichte Sachverständiger verlangen, sofern dies zum Nachweis der Sicherheit erforderlich erscheint.
+[^15m-1]: Aufgehoben durch Ziff. I der V vom 10. April 2024, mit Wirkung seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 15n
 
-**Nachweis der vorschrifts- und verfügungskonformen Ausführung**
+**Konformitätserklärungen für strukturelle Teilsysteme**[^15n-1]
 
-<sup>1</sup>
+Der Gesuchsteller muss dem BAV zum Nachweis der vorschriftskonformen Ausführung EG-Prüferklärungen nach Artikel 15 Absatz 2 der Richtlinie (EU) 2016/797[^15n-2] und den Anhängen II und III der Durchführungsverordnung (EU) 2019/250[^15n-3] für strukturelle Teilsysteme nach Anhang II Ziffer 1 Buchstabe a der Richtlinie (EU) 2016/797 einreichen.
 
-Der Gesuchsteller muss gegenüber dem BAV erklären, dass das Bewilligungsobjekt:
-
-- a. gemäss den Vorschriften und der Verfügung des BAV ausgeführt wurde; und
-- b. sicher betrieben werden kann.
-
-<sup>2</sup>
-
-Er muss zum Nachweis der vorschriftskonformen Ausführung dem BAV folgende Erklärungen einreichen:
-
-- a. für strukturelle Teilsysteme nach Anhang II Ziffer 1 Buchstabe a der Richtlinie (EU) 2016/797[^15n-1]: EG-Prüferklärungen nach Artikel 15 Absatz 2 der Richtlinie (EU) 2016/797 und nach den Anhängen II und III der Durchführungsverordnung (EU) 2019/250[^15n-2];
-- b. für Interoperabilitätskomponenten: EG-Erklärungen nach Artikel 9 der Richtlinie (EU) 2016/797 und nach Anhang I der Durchführungsverordnung (EU) 2019/250.[^15n-3]
-
-[^15n-1]: Siehe Fussnote zu Art. 7 Abs. 4.
-[^15n-2]: Siehe Fussnote zu Art. 7 Abs. 4.
-[^15n-3]: Fassung gemäss Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+[^15n-1]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15n-2]: Siehe Fussnote zu Art. 6*b* Abs. 2.
+[^15n-3]: Siehe Fussnote zu Art. 7 Abs. 4.
 
 #### Art. 15o
 
-**Anerkennung europäischer und ausländischer Bewilligungen**[^15o-1]
+**Geltung europäischer und ausländischer Bewilligungen**[^15o-1]
 
-<sup>1</sup> Von der Agentur oder einer ausländischen Behörde für den Betrieb auf interoperablen Strecken zugelassene Fahrzeuge benötigen keine zusätzliche Bewilligung des BAV, wenn sie vollständig durch TSI spezifiziert sind.
+<sup>1</sup> Wer ein Fahrzeug in der Schweiz und in der Europäischen Union in Verkehr bringen will, benötigt eine Bewilligung der ERA, wenn ein völkerrechtlicher Vertrag dies vorsieht.
 
-<sup>2</sup> Bei Fahrzeugen, für die ergänzende nationale Bestimmungen gelten, wird die Einhaltung der TSI sowie übereinstimmender nationaler Anforderungen nicht überprüft, soweit dies aus der Betriebsbewilligung der Agentur oder einer ausländischen Behörde hervorgeht.
+<sup>2</sup> Von der ERA oder einer ausländischen Behörde für den Betrieb auf interoperablen Strecken zugelassene Fahrzeuge benötigen keine zusätzliche Bewilligung des BAV, wenn sie vollständig durch die TSI spezifiziert sind.
 
-[^15o-1]: Fassung gemäss Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+<sup>3</sup> Von der ERA für den Betrieb auf interoperablen Strecken zugelassene Fahrzeuge, die nicht vollständig durch die TSI spezifiziert sind, benötigen keine zusätzliche Bewilligung des BAV, wenn dieses gegenüber der ERA die Einhaltung der von der Schweiz notifizierten nationalen Vorschriften bestätigt hat.
+
+<sup>4</sup> Bei Fahrzeugen, für die ergänzende nationale Bestimmungen gelten, wird die Einhaltung der TSI sowie übereinstimmender nationaler Anforderungen nicht überprüft, soweit dies aus der Betriebsbewilligung oder Prüfung der ERA oder einer ausländischen Behörde hervorgeht.
+
+[^15o-1]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 15p
 
@@ -893,31 +1040,39 @@ Das BAV überprüft den Sicherheitsnachweis risikoorientiert mit Stichproben. Es
 
 **Prüfungen des BAV bei Fahrzeugen**[^15pbis-1]
 
-Das BAV überprüft gemäss Artikel 21 Absatz 8 der Richtlinie (EU) 2016/797[^15pbis-2], ob der Gesuchsteller alle für den Sicherheitsnachweis der Fahrzeuge erforderlichen Dokumente eingereicht hat, insbesondere:
+Das BAV überprüft gemäss Artikel 21 Absatz 8 der Richtlinie (EU) 2016/797[^15pbis-2], ob der Gesuchsteller alle für den Sicherheitsnachweis der Fahrzeuge erforderlichen Dokumente eingereicht hat, insbesondere:[^15pbis-3]
 
-- a. prüft es die Vollständigkeit des Antrags gemäss Artikel 32 der Durchführungsverordnung (EU) 2018/545[^15pbis-3];
+- a. prüft es die Vollständigkeit des Antrags gemäss Artikel 32 der Durchführungsverordnung (EU) 2018/545[^15pbis-4];
 - b. bewertet es den Antrag gemäss den Artikeln 38–40 sowie den Anhängen II und III der Durchführungsverordnung (EU) 2018/545;
 - c. stuft es Probleme gemäss Artikel 41 der Durchführungsverordnung (EU) 2018/545 ein und geht es bei begründeten Zweifeln gemäss Artikel 42 der Durchführungsverordnung (EU) 2018/545 vor;
 - d. entscheidet es gemäss Artikel 43 Absätze 1–6 und den Artikeln 45–49 der Durchführungsverordnung (EU) 2018/545.
 
 [^15pbis-1]: Eingefügt durch Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
-[^15pbis-2]: Siehe Fussnote zu Art. 7 Abs. 4.
-[^15pbis-3]: Siehe Fussnote zu Art. 6*b* Abs. 2.
+[^15pbis-2]: Siehe Fussnote zu Art. 6*b* Abs. 2.
+[^15pbis-3]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15pbis-4]: Siehe Fussnote zu Art. 6*b* Abs. 2.
 
 #### Art. 15q
 
 **Entscheid des BAV**
 
-<sup>1</sup>
-
-Das BAV entscheidet nach Eingang der vollständigen Gesuchsunterlagen über:
-
-- a. das Gesuch um Betriebsbewilligung für ein Fahrzeug innerhalb von zwei Monaten;
-- b. über andere Gesuche innerhalb von vier Monaten.
+<sup>1</sup> Das BAV entscheidet nach Eingang des vollständigen Gesuchs innerhalb von vier Monaten.[^15q-1]
 
 <sup>2</sup> Gegen Entscheide über Gesuche um Betriebsbewilligung für ein Fahrzeug kann der Gesuchsteller innerhalb eines Monats beim BAV Einsprache erheben. Das BAV entscheidet über die Einsprache innerhalb von zwei Monaten.
 
 <sup>3</sup> Entscheidet das BAV nicht innerhalb von fünf Monaten nach Eingang über ein vom Gesuchsteller für vollständig erklärtes Gesuch um Erteilung einer Betriebsbewilligung für ein Fahrzeug, so darf es der Gesuchsteller danach in Betrieb nehmen.
+
+[^15q-1]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+
+#### Art. 15q<sup>bis</sup>
+
+**Nichterfüllung grundlegender Anforderungen**[^15qbis-1]
+
+<sup>1</sup> Stellt ein Eisenbahnverkehrsunternehmen fest, dass ein Fahrzeug eine der grundlegenden Anforderungen nicht erfüllt, so trifft es die erforderlichen Massnahmen.
+
+<sup>2</sup> Liegen ihm Hinweise vor, dass die Nichterfüllung bereits zum Zeitpunkt der Genehmigung für das Inverkehrbringen vorlag, so informiert es das BAV und die ERA.
+
+[^15qbis-1]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 ## 1*b*. Kapitel: Unabhängige Prüfstellen
 
@@ -925,7 +1080,11 @@ Das BAV entscheidet nach Eingang der vollständigen Gesuchsunterlagen über:
 
 [^chap1b-1]: Eingefügt durch Ziff. I der V vom 29. Mai 2013, in Kraft seit 1. Juli 2013 ([AS 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
 
-### 1. Abschnitt: Benannte Stellen
+### 1. Abschnitt: Benannte Stellen und akkreditierte interne Stellen
+
+[^chap1b-sec1-1]
+
+[^chap1b-sec1-1]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 15r
 
@@ -940,21 +1099,41 @@ Benannte Stellen müssen für den betreffenden Fachbereich:
 
 <sup>2</sup> Im Übrigen gelten für die benannten Stellen die Artikel 30–34 der Richtlinie (EU) 2016/797[^15r-2].[^15r-3]
 
-[^15r-1]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
-[^15r-2]: Siehe Fussnote zu Art. 7 Abs. 4.
-[^15r-3]: Eingefügt durch Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+[^15r-1]: [SR 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
+[^15r-2]: Siehe Fussnote zu Art. 6*b* Abs. 2.
+[^15r-3]: Eingefügt durch Ziff. I der V vom 6. Nov. 2019 ([AS 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)). Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 15s
 
 **Rechte und Pflichten**
 
-<sup>1</sup> Die benannten Stellen haben die in den Artikeln 34, 41 und 42 sowie in Anhang IV der Richtlinie (EU) 2016/797[^15s-1], in den TSI sowie im Beschluss 2010/713/EU[^15s-2] vorgesehenen Rechte und Pflichten.[^15s-3]
+<sup>1</sup>
+
+Die benannten Stellen haben die Rechte und Pflichten nach:
+
+- a. den Artikeln 34, 36 Absatz 1, 41 und 42 sowie Anhang IV der Richtlinie (EU) 2016/797[^15s-1];
+- b. Artikel 34 Absatz 6 der Verordnung (EU) 2016/796[^15s-2];
+- c. den TSI; und
+- d. dem Beschluss 2010/713/EU[^15s-3].[^15s-4]
+
+<sup>1bis</sup> Sie haben sich an den Arbeiten der sektoralen Gruppe nach Artikel 44 der Richtlinie (EU) 2016/797 zu beteiligen.[^15s-5]
 
 <sup>2</sup> Insbesondere unterrichten sie das BAV in den vorgesehenen Fällen unverzüglich über die Einschränkung, Aussetzung, Aufhebung und Verweigerung der Erteilung von Konformitätsbescheinigungen sowie darüber, dass nicht konforme Interoperabilitätskomponenten oder Teilsysteme in Verkehr gebracht wurden.
 
-[^15s-1]: Siehe Fussnote zu Art. 7 Abs. 4.
-[^15s-2]: Siehe Fussnote zu Art. 15*j* Abs. 1.
-[^15s-3]: Fassung gemäss Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+[^15s-1]: Siehe Fussnote zu Art. 6*b* Abs. 2.
+[^15s-2]: Verordnung (EU) 2016/796 des Europäischen Parlaments und des Rates vom 11. Mai 2016 über die Eisenbahnagentur der Europäischen Union und zur Aufhebung der Verordnung (EG) Nr. 881/2004, Fassung gemäss ABl. L 138 vom 26.5.2016, S. 1.
+[^15s-3]: Siehe Fussnote zu Art. 15*e*<sup>bis</sup> Bst. c.
+[^15s-4]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15s-5]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+
+#### Art. 15s<sup>bis</sup>
+
+**Akkreditierte interne Stellen**[^15sbis-1]
+
+Für akkreditierte interne Stellen gelten die Anforderungen und Pflichten nach Artikel 35 der Richtlinie (EU) 2016/797[^15sbis-2].
+
+[^15sbis-1]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15sbis-2]: Siehe Fussnote zu Art. 6*b* Abs. 2.
 
 ### 2. Abschnitt: Risikobewertungsstellen, benannte beauftragte Stellen und Sachverständige
 
@@ -975,8 +1154,8 @@ Benannte Stellen müssen für den betreffenden Fachbereich:
 [^15t-1]: Siehe Fussnote zu Art. 5*g*.
 [^15t-2]: Fassung gemäss Ziff. I der V vom 12. Juni 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
 [^15t-3]: Eingefügt durch Ziff. I der V vom 6. Nov. 2019 ([AS 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)). Fassung gemäss Ziff. I der V vom 12. Juni 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
-[^15t-4]: Siehe Fussnote zu Art. 7 Abs. 4.
-[^15t-5]: Eingefügt durch Ziff. I der V vom 12. Juni 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
+[^15t-4]: Siehe Fussnote zu Art. 6*b* Abs. 2.
+[^15t-5]: Eingefügt durch Ziff. I der V vom 12. Juni 2020 ([AS 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)). Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 15u
 
@@ -988,36 +1167,39 @@ Benannte Stellen müssen für den betreffenden Fachbereich:
 
 <sup>3</sup> Für Risikobewertungsstellen gelten zudem die in Kapitel 4.1 der Norm ISO/IEC 17020:2012[^15u-1] genannten Anforderungen.[^15u-2]
 
-[^15u-1]: ISO/IEC 17020:2012 Konformitätsbewertung - Anforderungen an den Betrieb verschiedener Typen von Stellen, die Inspektionen durchführen. Die Norm kann gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^15u-1]: ISO/IEC 17020:2012 Konformitätsbewertung - Anforderungen an den Betrieb verschiedener Typen von Stellen, die Inspektionen durchführen. Die Norm kann gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch).
 [^15u-2]: Fassung gemäss Ziff. I der V vom 12. Juni 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
 
 #### Art. 15u<sup>bis</sup>
 
 **Pflichten der benannten beauftragten Stellen**[^15ubis-1]
 
-Die benannten beauftragten Stellen haben die in Artikel 45 Absätze 2 und 3 der Richtlinie (EU) 2016/797[^15ubis-2] genannten Pflichten.
+Die benannten beauftragten Stellen haben die in Artikel 45 Absätze 2 und 3 der Richtlinie (EU) 2016/797[^15ubis-2] genannten Pflichten.[^15ubis-3]
 
 [^15ubis-1]: Eingefügt durch Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
-[^15ubis-2]: Siehe Fussnote zu Art. 7 Abs. 4.
+[^15ubis-2]: Siehe Fussnote zu Art. 6*b* Abs. 2.
+[^15ubis-3]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 15v
 
 **Anerkennung**
 
-<sup>1</sup> Risikobewertungsstellen, die Sicherheitsbewertungen nach Artikel 8*c* Absatz 2 vornehmen wollen, können sich vom BAV anerkennen lassen.
+<sup>1</sup> Risikobewertungsstellen, die Sicherheitsbewertungen nach Artikel 5*m* Absatz 4 vornehmen wollen, müssen vom BAV anerkannt oder nach der Akkreditierungs- und Bezeichnungsverordnung vom 17. Juni 1996[^15v-1] akkreditiert sein.[^15v-2]
 
 <sup>2</sup> Benannte beauftragte Stellen, die Konformitätsbescheinigungen nach Artikel 15*l* Absatz 2 ausstellen, müssen vom BAV anerkannt sein.
 
 <sup>3</sup> Das BAV stellt mit der Anerkennung fest, dass die Risikobewertungsstelle oder die benannte beauftragte Stelle für bestimmte Bereiche die fachlichen Anforderungen erfüllt.
 
-<sup>4</sup> Es erteilt die Anerkennung für benannte beauftragte Stellen für höchstens zehn Jahre und für Risikobewertungsstellen für höchstens fünf Jahre. Es kann die Anerkennung erneuern, wenn die Voraussetzungen für die Erteilung erfüllt sind.[^15v-1]
+<sup>4</sup> Es erteilt die Anerkennung für benannte beauftragte Stellen für höchstens zehn Jahre und für Risikobewertungsstellen für höchstens fünf Jahre. Es kann die Anerkennung erneuern, wenn die Voraussetzungen dafür erfüllt sind.[^15v-3]
 
-<sup>5</sup> Es entzieht die Anerkennung, wenn die Voraussetzungen für ihre Erteilung nicht mehr erfüllt sind.[^15v-2]
+<sup>5</sup> Es entzieht die Anerkennung, wenn die Voraussetzungen für ihre Erteilung nicht mehr erfüllt sind.[^15v-4]
 
 <sup>6</sup> Es veröffentlicht eine Liste der Stellen und ihrer Prüfungsbereiche.
 
-[^15v-1]: Fassung gemäss Ziff. I der V vom 12. Juni 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
-[^15v-2]: Fassung gemäss Ziff. I 5 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+[^15v-1]: [SR 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
+[^15v-2]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15v-3]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15v-4]: Fassung gemäss Ziff. I 5 der OBI-Verordnung vom 13. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
 
 #### Art. 15w
 
@@ -1270,7 +1452,7 @@ Das UVEK[^31-2] bezeichnet die Reglemente, Normalien und Pflichtenhefte, die fü
 
 <sup>1</sup> Die Stationen sind so anzulegen, dass die Durchfahrgleise mit Streckengeschwindigkeit befahren werden können.
 
-<sup>2</sup> Die Neigung der Gleise in Stationen, auf denen Züge zusammengestellt, getrennt oder Wagen abgestellt werden, soll nicht grösser als 2 Promille sein.[^34-1]
+<sup>2</sup> In den Stationen darf die Neigung der Gleise, auf denen Züge zusammengestellt, getrennt oder Wagen abgestellt werden, nicht grösser als 2 Promille sein.[^34-1]
 
 <sup>3</sup> Die Zugänge zu den Perrons sollen wenn möglich kein Überschreiten der Gleise erfordern.[^34-2]
 
@@ -1278,7 +1460,7 @@ Das UVEK[^31-2] bezeichnet die Reglemente, Normalien und Pflichtenhefte, die fü
 
 <sup>5</sup> Die Stationsnamen sind für die Reisenden gut sichtbar anzuschreiben.
 
-[^34-1]: Die Berichtigung vom 15. Mai 2018 betrifft nur den französischen Text ([AS 2018 1861](https://fedlex.data.admin.ch/eli/oc/2018/282)).
+[^34-1]: Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
 [^34-2]: Fassung gemäss Ziff. I der V vom 25. Nov. 1998, in Kraft seit 1. Jan. 1999 ([AS 1999 1083](https://fedlex.data.admin.ch/eli/oc/1999/143)).
 [^34-3]: Fassung gemäss Ziff. I der V vom 4. Nov. 2009, in Kraft seit 1. Juli 2010 ([AS 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
 
@@ -1302,7 +1484,7 @@ Die Gleisenden sind mit Abschlüssen zu versehen.
 
 [^chap2-sec6-1]
 
-[^chap2-sec6-1]: Aufgehoben durch Ziff. I der V vom 25. Nov. 1998 ([AS 1999 1083](https://fedlex.data.admin.ch/eli/oc/1999/143)). Fassung gemäss Ziff. I der V vom 12. Nov. 2003, in Kraft seit 14. Dez. 2003 ([AS 2003 4289](https://fedlex.data.admin.ch/eli/oc/2003/637)).
+[^chap2-sec6-1]: Fassung gemäss Ziff. I der V vom 12. Nov. 2003, in Kraft seit 14. Dez. 2003 ([AS 2003 4289](https://fedlex.data.admin.ch/eli/oc/2003/637)).
 
 #### Art. 37
 
@@ -1338,13 +1520,13 @@ Folgende Ausnahmen von Absatz 1 sind möglich:
 
 - a.[^37c-2] An Bahnübergängen, wo das Anbringen von Schranken- oder Halbschrankenanlagen einen unverhältnismässigen Aufwand erfordern würde und kein oder nur schwacher Fussgängerverkehr herrscht, können auf der einen Seite des Bahntrassees Blinklichtsignale und auf der anderen Seite eine Halbschrankenanlage erstellt werden.
 - b.[^37c-3] An Bahnübergängen mit schwachem Strassenverkehr kann eine Blinklichtsignalanlage oder eine Bedarfsschrankenanlage erstellt werden.
-- [tab] b<sup>bis</sup>.[^37c-4] An Bahnübergängen über eingleisige Strecken mit sehr schwachem Strassenverkehr und genügenden Sichtverhältnissen kann eine Lichtsignalanlage ohne Schlagbäume mit fehlersicherer Sperrung des Strassenverkehrs erstellt werden.
+- b<sup>bis</sup>.[^37c-4] An Bahnübergängen über eingleisige Strecken mit sehr schwachem Strassenverkehr und genügenden Sichtverhältnissen kann eine Lichtsignalanlage ohne Schlagbäume mit fehlersicherer Sperrung des Strassenverkehrs erstellt werden.
 - c.[^37c-5]
 
   An Bahnübergängen können, falls die Sichtverhältnisse genügend sind oder die Schienenfahrzeuge bei zeitweise ungenügenden Sichtverhältnissen zweckdienliche Achtungssignale abgeben, Andreaskreuze als einziges Signal angebracht werden, sofern:
 
-  - 1\. die Strasse oder der Weg nur für den Fussgängerverkehr geöffnet und dieser schwach ist,
-  - 2\. der Strassenverkehr schwach und der Schienenverkehr langsam ist, oder
+  - 1\. die Strasse oder der Weg nur für den Fussgängerverkehr geöffnet und dieser schwach ist;
+  - 2\. der Strassenverkehr schwach und der Schienenverkehr langsam ist; oder
   - 3\. die Strasse oder der Weg nur der landwirtschaftlichen Bewirtschaftung dient (Feldweg), keine bewohnte Liegenschaft erschliesst und aufgrund der Signalisation nur einem beschränkten Personenkreis offensteht; die Infrastrukturbetreiberin hat diesen Personenkreis zu instruieren.
 
 - d.[^37c-6] Werden die Gleise nach den Bestimmungen der Fahrdienstvorschriften über den Strassenbahnbetrieb befahren, so genügt das Signal «Strassenbahn» nach Artikel 10 Absatz 4 der Signalisationsverordnung vom 5. September 1979[^37c-7]. Dieses ist wenn nötig mit einer Lichtsignalanlage zu ergänzen.
@@ -1369,7 +1551,7 @@ Anstelle von Blinklichtsignalen können Lichtsignale eingesetzt werden, sofern d
 [^37c-4]: Eingefügt durch Ziff. I der V vom 4. Nov. 2009, in Kraft seit 1. Juli 2010 ([AS 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
 [^37c-5]: Fassung gemäss Ziff. I der V vom 4. Nov. 2009, in Kraft seit 1. Juli 2010 ([AS 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
 [^37c-6]: Eingefügt durch Ziff. I der V vom 19. Sept. 2014, in Kraft seit 1. Nov. 2014 ([AS 2014 3169](https://fedlex.data.admin.ch/eli/oc/2014/534)).
-[^37c-7]: [SR 741.21](https://fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961)
+[^37c-7]: [SR 741.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8639)
 [^37c-8]: Eingefügt durch Ziff. I der V vom 19. Sept. 2014, in Kraft seit 1. Nov. 2014 ([AS 2014 3169](https://fedlex.data.admin.ch/eli/oc/2014/534)).
 [^37c-9]: Fassung gemäss Ziff. I der V vom 4. Nov. 2009, in Kraft seit 1. Juli 2010 ([AS 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
 [^37c-10]: Eingefügt durch Ziff. I der V vom 4. Nov. 2009, in Kraft seit 1. Juli 2010 ([AS 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
@@ -1396,7 +1578,7 @@ Für Anlagen zur Steuerung und Überwachung von Bahnübergängen gelten die Arti
 Wird durch die Aufhebung eines Bahnüberganges ein Teil des in den kantonalen Plänen enthaltenen Fuss- und Wanderwegnetzes nicht mehr frei begehbar, so richtet sich der Ersatz nach Artikel 7 des Bundesgesetzes vom 4. Oktober 1985[^37f-2] über Fuss- und Wanderwege (FWG).
 
 [^37f-1]: Fassung gemäss Ziff. I der V vom 19. Sept. 2014, in Kraft seit 1. Nov. 2014 ([AS 2014 3169](https://fedlex.data.admin.ch/eli/oc/2014/534)).
-[^37f-2]: [SR 704](https://fedlex.data.admin.ch/eli/cc/1986/2506_2506_2506)
+[^37f-2]: [SR 704](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8359)
 
 ### 7. Abschnitt: Sicherungsanlagen und Telematikanwendungen
 
@@ -1469,7 +1651,7 @@ Sicherungsanlagen dienen insbesondere der:
 
 [^chap2-sec8-1]
 
-[^chap2-sec8-1]: Eingefügt durch Ziff. I der V vom 4. Nov. 2009, in Kraft seit 1. Juli 2010 ([AS 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
+[^chap2-sec8-1]: Ursprünglich vor Art. 44. Eingefügt durch Ziff. I der V vom 4. Nov. 2009, in Kraft seit 1. Juli 2010 ([AS 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
 
 #### Art. 41
 
@@ -1573,9 +1755,11 @@ Die Vorschriften dieser Verordnung und ihre Ausführungsbestimmungen sind auf di
 
 **Belastungsannahmen sowie Begrenzung der Fahrzeuge und Ladungen**
 
-<sup>1</sup> Fahrzeuge sind so zu planen, zu erstellen, zu betreiben und instand zu halten, dass ein sicherer und zuverlässiger Eisenbahnbetrieb auf der zu befahrenden Infrastruktur möglich ist.
+<sup>1</sup> Fahrzeuge sind so zu planen, zu erstellen, zu betreiben und instand zu halten, dass ein sicherer, zuverlässiger und verschleissarmer Eisenbahnbetrieb auf der zu befahrenden Infrastruktur möglich ist.[^47-1]
 
 <sup>2</sup> Die Begrenzung der Fahrzeuge und Ladungen bestimmt sich nach der Bezugslinie gemäss Anhang 1.
+
+[^47-1]: Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
 
 ### 2. Abschnitt: Interoperable Fahrzeuge
 
@@ -1603,7 +1787,9 @@ Die Vorschriften dieser Verordnung und ihre Ausführungsbestimmungen sind auf di
 
 <sup>1</sup> Elektrische Teile und Systeme von Fahrzeugen sind so zu planen, zu bauen, zu betreiben und instand zu halten, dass Personen und Sachen bei bestimmungsgemässem Betrieb sowie bei voraussehbaren Störungen vor Gefährdungen geschützt werden.
 
-<sup>2</sup> Triebfahrzeuge und Steuerwagen sind mit einer Sicherheitssteuerung auszurüsten. Sie sind auf die Sicherungsanlagen und Telematikanwendungen abzustimmen. Die Anforderungen an die auf den Fahrzeugen installierten Sicherungsanlagen und Telematikanwendungen richten sich nach den Artikeln 38 und 39.
+<sup>2</sup> Triebfahrzeuge und Steuerwagen sind mit einer Sicherheitssteuerung und einem Zugbeeinflussungssystem auszurüsten. Sie sind auf die Sicherungsanlagen und Telematikanwendungen abzustimmen. Die Anforderungen an die auf den Fahrzeugen installierten Sicherungsanlagen und Telematikanwendungen richten sich nach den Artikeln 38 und 39.[^50-1]
+
+[^50-1]: Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
 
 #### Art. 51
 
@@ -1621,9 +1807,11 @@ Die Vorschriften dieser Verordnung und ihre Ausführungsbestimmungen sind auf di
 
 <sup>2</sup> Die Bremskraft muss auf die im Mittel verfügbare Reibung zwischen Rad und Schiene abgestimmt sein.
 
-<sup>3</sup> Die Bremswirkung darf durch Abnützung, Spiel und andere Systeme nicht beeinträchtigt werden. Sie muss im Stillstand prüfbar sein.
+<sup>3</sup> Die Bremswirkung darf durch Abnützung, Spiel und andere Systeme nicht beeinträchtigt werden. Die Bremsen müssen im Stillstand prüfbar sein.[^52-1]
 
 <sup>4</sup> Eine Feststellbremse muss das unbeabsichtigte Wegrollen der Fahrzeuge verhindern.
+
+[^52-1]: Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
 
 #### Art. 53
 
@@ -1641,7 +1829,12 @@ Die Vorschriften dieser Verordnung und ihre Ausführungsbestimmungen sind auf di
 
 **Besondere Anforderungen an Zahnradbahnen**
 
-<sup>1</sup> Die Sicherheit der Fahrzeuge und Zugskompositionen von Zahnradbahnen vor Entgleisung muss auf der ganzen Strecke in allen voraussehbaren Extremfällen gewährleistet sein.
+<sup>1</sup>
+
+Die Sicherheit der Fahrzeuge und Zugskompositionen von Zahnradbahnen vor Entgleisung muss auf der ganzen Strecke in allen voraussehbaren Extremfällen gewährleistet sein. Zu beachten sind insbesondere die Anforderungen:
+
+- a. an die Sicherheit gegen Entgleisen;
+- b. an den Zahneingriff.[^54-1]
 
 <sup>2</sup>
 
@@ -1665,6 +1858,8 @@ Das UVEK regelt die besonderen Anforderungen an:
   - 5\. bei Mehrfachtraktion;
 
 - c. Sicherheitseinrichtungen von Zugskompositionen.
+
+[^54-1]: Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
 
 #### Art. 55
 
@@ -1693,7 +1888,7 @@ Das UVEK legt die besonderen Anforderungen an Strassenbahnfahrzeuge in folgenden
 
 **Dienstfahrzeuge**
 
-<sup>1</sup> Dienstfahrzeuge sind Spezialfahrzeuge, die insbesondere für Bau-, Instandhaltungs-, Inspektions- und Interventionstätigkeiten auf Eisenbahnanlagen eingesetzt werden.
+<sup>1</sup> Dienstfahrzeuge sind Spezialfahrzeuge, die insbesondere für Bau-, Instandhaltungs‑, Inspektions- und Interventionstätigkeiten auf Eisenbahnanlagen eingesetzt werden.
 
 <sup>2</sup> Werden Dienstfahrzeuge als Arbeitsgerät eingesetzt, so sind die dazu notwendigen Sicherheitsnachweise zu erstellen.
 
@@ -1745,9 +1940,11 @@ Der Einsatz von Betriebspersonal auf den Bahnhöfen richtet sich nach den Anford
 
 #### Art. 74
 
-**Ausschluss Unbefugter**
+**Ausschluss Unbefugter**[^74-1]
 
-An den für die Sicherheit wichtigen Einsatzorten – wie Stellwerk, Relaisraum, Führerstand – darf sich nur das für die Bedienung, Kontrollen und Instandhaltungsarbeiten instruierte Personal aufhalten. Ausnahmen bedürfen der ausdrücklichen Bewilligung des Bahnunternehmens.
+An den für die Sicherheit wichtigen Einsatzorten wie Arbeitsplätzen von Bahnpersonal, Technikräumen und Führerständen darf sich nur das für die Bedienung, Kontrollen und Instandhaltungsarbeiten instruierte Personal aufhalten. Ausnahmen bedürfen der ausdrücklichen Bewilligung des Bahnunternehmens.
+
+[^74-1]: Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
 
 ### 2. Abschnitt: Bilden und Bedienen der Züge
 
@@ -1776,25 +1973,29 @@ Die höchstzulässige Fahrgeschwindigkeit ist nach folgenden Gesichtspunkten fes
 - e. Bremsen;
 - f. betriebliche Verhältnisse.
 
-<sup>2</sup> Das UVEK legt die generellen Höchstgeschwindigkeiten (insbesondere aufgrund von Neigung, Anlagen, Fahrzeugen) in den Ausführungsbestimmungen fest.[^76-2]
+<sup>2</sup> Das UVEK legt die generellen Höchstgeschwindigkeiten auf nicht interoperablen Strecken fest.[^76-2]
 
 <sup>3</sup> Für die Festlegung der Höchstgeschwindigkeiten pro Zug oder Rangierbewegung im operativen Betrieb sind zusätzlich die gestützt auf Artikel 17 Absatz 3 EBG vom BAV erlassenen Fahrdienstvorschriften und die Betriebsvorschriften der Infrastrukturbetreiberin und des Eisenbahnverkehrsunternehmens massgebend.[^76-3]
 
 [^76-1]: Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Juli 2012 ([AS 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
-[^76-2]: Fassung gemäss Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Juli 2012 ([AS 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+[^76-2]: Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
 [^76-3]: Eingefügt durch Ziff. I der V vom 16. Nov. 2011, in Kraft seit 1. Juli 2012 ([AS 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 
 #### Art. 77
 
 **Bremsordnung**
 
-<sup>1</sup> Die Funktionsfähigkeit der automatischen Bremse ist nach dem Bilden der Züge und in der Regel nach Änderungen in deren Zusammensetzung zu prüfen.
+<sup>1</sup> Die Funktionsfähigkeit der automatischen Bremse ist nach dem Bilden der Züge und nach Änderungen in deren Zusammensetzung zu prüfen.[^77-1]
 
 <sup>2</sup> Die Wirkung der Bremsen eines Zuges muss den betrieblichen Erfordernissen entsprechen.
 
-<sup>3–5</sup> …[^77-1]
+<sup>3</sup> Das UVEK legt die Bremsordnung auf nicht interoperablen Strecken fest.[^77-2]
 
-[^77-1]: Aufgehoben durch Ziff. I der V vom 16. Nov. 2011, mit Wirkung seit 1. Juli 2012 ([AS 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+<sup>4 und <sup>5</sup></sup> …[^77-3]
+
+[^77-1]: Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
+[^77-2]: Fassung gemäss Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
+[^77-3]: Aufgehoben durch Ziff. I der V vom 16. Nov. 2011, mit Wirkung seit 1. Juli 2012 ([AS 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 
 #### Art. 78
 
@@ -1830,9 +2031,9 @@ Die Begleitung der Züge richtet sich nach der technischen Ausrüstung der Fahrz
 
 **Ausführungsbestimmungen**[^81-1]
 
-Das UVEK erlässt die Ausführungsbestimmungen. Es berücksichtigt dabei auch die anschlussgleisspezifischen Anforderungen.
+Das BAV erlässt die technischen und betrieblichen Ausführungsbestimmungen. Es berücksichtigt dabei die anschlussgleisspezifischen Anforderungen.
 
-[^81-1]: Fassung gemäss Anhang Ziff. II 5 der Gütertransportverordnung vom 25. Mai 2016, in Kraft seit 1. Juli 2016 ([AS 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
+[^81-1]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 82
 
@@ -1943,7 +2144,7 @@ Der jährliche Bericht der Eisenbahnunternehmen nach Artikel 5*g* ist erstmals f
 <sup>4</sup> An Bahnübergängen mit ungenügenden Sichtverhältnissen müssen unverzüglich alle verhältnismässigen risikoreduzierenden Massnahmen ergriffen werden. Für diese Massnahmen ist kein Gesuch nach Artikel 5 Absatz 2 erforderlich.
 
 [^83f-1]: Eingefügt durch Ziff. I der V vom 19. Sept. 2014, in Kraft seit 1. Nov. 2014 ([AS 2014 3169](https://fedlex.data.admin.ch/eli/oc/2014/534)).
-[^83f-2]: [SR 742.142.1](https://fedlex.data.admin.ch/eli/cc/2000/124)
+[^83f-2]: [SR 742.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8760)
 
 #### Art. 83g
 
@@ -1951,12 +2152,13 @@ Der jährliche Bericht der Eisenbahnunternehmen nach Artikel 5*g* ist erstmals f
 
 <sup>1</sup> Fahrzeuge, die am 1. Januar 1999 in der Schweiz in Betrieb waren, gelten als zugelassen und werden in das Register nach Artikel 5*i* aufgenommen.[^83g-2]
 
-<sup>2</sup> Bestehende Triebfahrzeuge mit Umrichtern müssen bis zum 31. Dezember 2021 so umgebaut werden, dass sie sich bei einer Frequenz von über 87 Hertz gegenüber dem Bahnstromnetz passiv verhalten.
+<sup>2</sup> …[^83g-3]
 
 <sup>3</sup> Das BAV baut das Infrastrukturregister nach Artikel 15*f* bis zum 30. Juni 2017 auf. Die Infrastrukturbetreiberinnen müssen die erforderlichen Angaben bis zum 15. März 2018 eintragen.
 
 [^83g-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2015, Abs. 3 in Kraft seit 1. Jan. 2016, Abs. 1 und 2 seit 1. Juli 2016 ([AS 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
 [^83g-2]: Die Berichtigung vom 18. Okt. 2016 betrifft nur den französichen Text ([AS 2016 3537](https://fedlex.data.admin.ch/eli/oc/2016/594)).
+[^83g-3]: Aufgehoben durch Ziff. I der V vom 1. Mai 2024, mit Wirkung seit 1. Juli 2024 ([AS 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
 
 #### Art. 83h
 
@@ -1966,11 +2168,10 @@ Der jährliche Bericht der Eisenbahnunternehmen nach Artikel 5*g* ist erstmals f
 
 <sup>2</sup> Solange die Infrastrukturbetreiberin die für den Netzzugang erforderlichen Angaben nicht nach Artikel 15*f* Absatz 2 in das Infrastrukturregister eingetragen hat, muss sie die Kompatibilität der Fahrzeuge mit der zu befahrenden Infrastruktur auf Basis der vom Eisenbahnverkehrsunternehmen zur Verfügung gestellten Daten prüfen. Sie muss die Prüfung unentgeltlich innert zehn Werktagen durchführen und dem Eisenbahnverkehrsunternehmen mitteilen, welche Fahrzeuge mit der zu befahrenden Infrastruktur kompatibel sind.
 
-<sup>3</sup> Bis zum 15. Juni 2020 eingereichte Gesuche um Betriebsbewilligungen für Fahrzeuge werden auf Antrag nach den bis zum 30. November 2019 geltenden Bestimmungen beurteilt, sofern dies für die Erteilung einer ausländischen Betriebsbewilligung erforderlich ist.
-
-<sup>4</sup> Bis zum 15. Juni 2020 eingereichte Gesuche um Sicherheitsbescheinigungen werden auf Antrag nach den bis zum 30. November 2019 geltenden Bestimmungen beurteilt, sofern das Eisenbahnunternehmen über eine ausländische Sicherheitsbescheinigung verfügt.
+<sup>3 und <sup>4</sup></sup> …[^83h-2]
 
 [^83h-1]: Eingefügt durch Ziff. I der V vom 6. Nov. 2019, in Kraft seit 1. Dez. 2019 ([AS 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+[^83h-2]: Aufgehoben durch Ziff. I der V vom 10. April 2024, mit Wirkung seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 83i
 
@@ -1979,6 +2180,16 @@ Der jährliche Bericht der Eisenbahnunternehmen nach Artikel 5*g* ist erstmals f
 Die Anerkennung von Risikobewertungsstellen, die vor dem 1. November 2020 anerkannt wurden, gilt bis zum 31. Juli 2022.
 
 [^83i-1]: Eingefügt durch Ziff. I der V vom 12. Juni 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
+
+#### Art. 83j
+
+**Übergangsbestimmungen zur Änderung vom 1. Mai 2024**[^83j-1]
+
+<sup>1</sup> Bestehende Triebfahrzeuge mit Umrichtern sind bis zum 31. Dezember 2025 so umzubauen, dass sie sich bei einer Frequenz von über 87 Hertz gegenüber dem Bahnstromnetz passiv verhalten.
+
+<sup>2</sup> Die sicherheitsrelevanten Funktionen bestehender Fahrzeuge von Zahnradbahnen sind, soweit technisch möglich, bis zum 30. Juni 2026 redundant aus- oder nachzurüsten.
+
+[^83j-1]: Eingefügt durch Ziff. I der V vom 1. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
 
 #### Art. 84
 
@@ -2001,7 +2212,7 @@ Legende:
 </table>
 
 <table>
-<tr><td>Zusätzliche Räume nach Artikel 18 Absatz 4 sind in dieser Zeichnung nicht berücksichtigt.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902/20240101/de/xml/image/image1.png)</td></tr>
+<tr><td>Zusätzliche Räume nach Artikel 18 Absatz 4 sind in dieser Zeichnung nicht berücksichtigt.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902/20240701/de/xml/image/image1.png)</td></tr>
 </table>
 
 Anhang 2[^t-2]
@@ -2127,33 +2338,33 @@ Wohlen–Villmergen
 
 Anhang 6[^t-6]
 
-(Art. 15*a* Abs. 2)
+(Art. 15*a* Abs. 2, 15*d* Abs. 1, 15*k* Abs. 3, 15*l* Abs. 1)
 
 ## Interoperables Hauptnetz
 
-[^t-6]: Eingefügt durch Ziff. II Abs. 2 der V vom 29. Mai 2013 ([AS 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)). Fassung gemäss Ziff. II Abs. 1 der V vom 12. Juni 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
+[^t-6]: Eingefügt durch Ziff. II Abs. 2 der V vom 29. Mai 2013 ([AS 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)). Fassung gemäss Ziff. II Abs. 1 der V vom 1. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
 
 Lausanne–Vevey
 
-Vevey–Les Paluds (Abzw)–St-Maurice
+Vevey–Les Paluds (Abzw.)–St-Maurice
 
 St-Maurice–Martigny
 
-Martigny–Sierre–St. German (Abzw)
+Martigny–Sierre–St. German (Abzw.)
 
-St. German (Abzw)–Visp–Brig
+St. German (Abzw.)–Visp–Brig
 
 Brig–Grenze–Iselle (–Domodossola)
 
-Genève-Aéroport–St-Jean (Abzw)
+Genève-Aéroport–St-Jean (Abzw.)
 
-St-Jean (Abzw)-Genève
+St-Jean (Abzw.)–Genève
 
-St-Jean (Abzw)–Jonction (Abzw)–Chêne-Bougeries (Grenze)
+St-Jean (Abzw.)–Jonction (Abzw.)–Chêne-Bougeries (Grenze)
 
-Genève–Châtelaine (Abzw)–La Plaine-Front. (–Bellegarde)
+Genève–Châtelaine (Abzw.)–La Plaine–Grenze (–Bellegarde)
 
-Châtelaine (Abzw)–Jonction (Abzw)
+Châtelaine (Abzw.)–Jonction (Abzw.)
 
 Genève–Genève-Eaux-Vives–Chêne-Bougeries (Grenze)
 
@@ -2171,23 +2382,23 @@ Lausanne-Triage–Renens VD
 
 Lausanne-Triage–Bussigny
 
-Daillens (Abzw)–Le Day
+Daillens (Abzw.)–Le Day
 
 Le Day–Vallorbe
 
-Vallorbe–Front. (–Frasne)
+Vallorbe–Grenze (–Frasne)
 
-Denges-Echandens–Lécheires (Abzw)
+Denges-Echandens–Lécheires (Abzw.)
 
-Lécheires (Abzw)–Bussigny
+Lécheires (Abzw.)–Bussigny
 
 Renens VD–Lausanne Sébeillon–Lausanne
 
 Renens VD–Bussigny
 
-Bussigny–Cossonay–Daillens (Abzw)
+Bussigny–Cossonay–Daillens (Abzw.)
 
-Daillens (Abzw)–Chavornay
+Daillens (Abzw.)–Chavornay
 
 Chavornay–Yverdon
 
@@ -2199,7 +2410,7 @@ Neuchâtel-Vauseyon–Neuchâtel
 
 Neuchâtel–Cornaux–Biel/Bienne
 
-Basel SBB–Ruchfeld (Abzw)
+Basel SBB–Ruchfeld (Abzw.)
 
 Lausanne–Puidoux
 
@@ -2215,33 +2426,33 @@ Flamatt–Bern Weyermannshaus–Bern
 
 Biel/Bienne–Biel/Bienne RB
 
-Biel/Bienne RB–Biel Mett (Abzw)
+Biel/Bienne RB–Biel Mett (Abzw.)
 
-Bern–Bern Wylerfeld–Wankdorf (Abzw)–Ostermundigen
+Bern–Bern Wylerfeld–Wankdorf (Abzw.)–Ostermundigen
 
 Ostermundigen–Gümligen
 
 Gümligen–Thun
 
-Löchligut (Abzw)–Wankdorf (Abzw)–Ostermundigen
+Löchligut (Abzw.)–Wankdorf (Abzw.)–Ostermundigen
 
-Spiez–Wengi-Ey (Abzw)
+Spiez–Wengi-Ey (Abzw.)
 
-Wengi-Ey (Abzw)–Frutigen
+Wengi-Ey (Abzw.)–Frutigen
 
 Frutigen–Lötschberg-Tunnel–Brig
 
-Wengi-Ey (Abzw)–Frutigen Nordportal (Abzw)
+Wengi-Ey (Abzw.)–Frutigen Nordportal (Abzw.)
 
-Frutigen Nordportal (Abzw)–Lötschberg-Basistunnel–St. German (Abzw)
+Frutigen Nordportal (Abzw.)–Lötschberg-Basistunnel–St. German (Abzw.)
 
-Frutigen–Frutigen Nordportal (Abzw)
+Frutigen–Frutigen Nordportal (Abzw.)
 
 Thun–Spiez
 
-Biel/Bienne–Biel Mett (Abzw)
+Biel/Bienne–Biel Mett (Abzw.)
 
-Biel Mett (Abzw)–Lengnau
+Biel Mett (Abzw.)–Lengnau
 
 Lengnau–Solothurn West
 
@@ -2253,15 +2464,15 @@ Niederbipp–Oensingen
 
 Oensingen–Olten
 
-Solothurn–Ausbaustrecke–Wanzwil (Abzw)
+Solothurn–Ausbaustrecke–Wanzwil (Abzw.)
 
-Bern–Bern Wylerfeld–Löchligut (Abzw)
+Bern–Bern Wylerfeld–Löchligut (Abzw.)
 
-Löchligut (Abzw)–Zollikofen
+Löchligut (Abzw.)–Zollikofen
 
-Zollikofen–Mattstetten (Abzw)
+Zollikofen–Mattstetten (Abzw.)
 
-Mattstetten (Abzw)–Burgdorf
+Mattstetten (Abzw.)–Burgdorf
 
 Burgdorf–Herzogenbuchsee–Langenthal
 
@@ -2269,15 +2480,15 @@ Langenthal–Rothrist
 
 Rothrist–Aarburg-Oftringen–Olten
 
-Löchligut (Abzw)–Grauholz-Tunnel–Äspli (Abzw)
+Löchligut (Abzw.)–Grauholz-Tunnel–Äspli (Abzw.)
 
-Äspli (Abzw)–Neubaustrecke–Wanzwil (Abzw)
+Äspli (Abzw.)–Neubaustrecke–Wanzwil (Abzw.)
 
-Wanzwil (Abzw)–Rothrist
+Wanzwil (Abzw.)–Rothrist
 
 Rothrist–Born-Tunnel–Olten
 
-Äspli (Abzw)–Mattstetten (Abzw)
+Äspli (Abzw.)–Mattstetten (Abzw.)
 
 Rothrist–Kriegsschleife–Zofingen
 
@@ -2289,43 +2500,45 @@ Pratteln–Liestal
 
 Liestal–Sissach
 
-Sissach–Hauenstein-Basistunnel–Olten Nord (Abzw)
+Sissach–Hauenstein-Basistunnel–Olten Nord (Abzw.)
 
-Olten Nord (Abzw)–Olten
+Olten Nord (Abzw.)–Olten
 
 Muttenz–Adler-Tunnel–Liestal
 
 Basel SBB RB–Birsfelden Hafen
 
-Basel SBB RB–Gellert (Abzw)–Infrastrukturgrenze SBB–Basel Bad Bf
+Basel SBB RB–Gellert (Abzw.)–Infrastrukturgrenze SBB–Basel Bad Bf
 
-Basel Bad Bf–Basel Bad Bf RB W 568
+Basel Bad Bf–Basel Bad Rbf W 568
 
-Basel Bad Bf RB W 568–Infrastrukturgrenze HBS–Basel Kleinhüningen Hafen
+Basel Bad Rbf W 568–Infrastrukturgrenze HBS–Basel Kleinhüningen Hafen
 
-Basel Bad Bf RB W 568–Basel Bad Rbf Staatsgrenze
+Basel Bad Rbf W 568–Basel Bad Rbf Staatsgrenze
 
-Muttenz–Gellert (Abzw)
+Basel Bad Rbf W 575–Basel Bad Rbf Gruppe F Staatsgrenze
+
+Muttenz–Gellert (Abzw.)
 
 Pratteln–Basel SBB RB
 
-Basel SBB RB–Ruchfeld (Abzw)
+Basel SBB RB–Ruchfeld (Abzw.)
 
 Basel SBB RB–Basel SBB GB
 
 Basel SBB GB–Basel SBB
 
-Ruchfeld (Abzw)–Basel GB
+Ruchfeld (Abzw.)–Basel GB
 
 Olten–Aarburg-Oftringen–Zofingen
 
 Zofingen–Sursee
 
-Sursee–Hübeli (Abzw)–Emmenbrücke
+Sursee–Hübeli (Abzw.)–Emmenbrücke
 
-Emmenbrücke–Fluhmühle (Abzw)–Gütsch (Abzw)–Luzern
+Emmenbrücke–Fluhmühle (Abzw.)–Gütsch (Abzw.)–Luzern
 
-Olten Nord (Abzw)–Verbindungslinie–Olten Ost (Abzw)–Dulliken
+Olten Nord (Abzw.)–Verbindungslinie–Olten Ost (Abzw.)–Dulliken
 
 Basel SBB–Basel St. Johann
 
@@ -2333,7 +2546,7 @@ Basel St. Johann–Basel St. Johann Hafen
 
 Basel St. Johann–Grenze (–St-Louis)
 
-Basel SBB–Gellert (Abzw)–Infrastrukturgrenze SBB–Basel Bad Bf
+Basel SBB–Gellert (Abzw.)–Infrastrukturgrenze SBB–Basel Bad Bf
 
 Weil am Rhein Staatsgrenze–Basel Bad Bf
 
@@ -2341,7 +2554,7 @@ Basel Bad Bf–Grenzach Staatsgrenze
 
 Basel Bad Bf–Riehen Staatsgrenze
 
-Olten–Olten Ost (Abzw)–Dulliken
+Olten–Olten Ost (Abzw.)–Dulliken
 
 Dulliken–Aarau
 
@@ -2361,7 +2574,7 @@ Pollegio Nord–Giubiasco
 
 Giubiasco–Galleria Mte Ceneri–Taverne-Torricella
 
-S. Antonino/Giubiasco ovest–Ceneri-Basistunnel–Vezia (Abzw)
+S. Antonino/Giubiasco ovest–Galleria di base Mte Ceneri–Vezia (Abzw.)
 
 Taverne-Torricella–Lugano
 
@@ -2379,15 +2592,17 @@ Balerna–Chiasso Sm
 
 Rupperswil–Lenzburg
 
-Lenzburg–Gexi (Abzw)
+Lenzburg–Gexi (Abzw.)
 
-Gexi (Abzw)–Othmarsingen
+Gexi (Abzw.)–Othmarsingen
 
-Othmarsingen–Gruemet (Abzw)
+Othmarsingen–Gruemet (Abzw.)
 
-Gruemet (Abzw)–Heitersberg-Tunnel–Killwangen-Spreitenbach
+Mägenwil–Birr
 
-Gexi (Abzw)–Hendschiken
+Gruemet (Abzw.)–Heitersberg-Tunnel–Killwangen-Spreitenbach
+
+Gexi (Abzw.)–Hendschiken
 
 Hendschiken–Wohlen
 
@@ -2399,25 +2614,25 @@ Hendschiken–Othmarsingen
 
 Othmarsingen–Lupfig
 
-Lupfig–Brugg Süd (Abzw)
+Lupfig–Brugg Süd (Abzw.)
 
-Brugg Süd (Abzw) –Brugg AG
+Brugg Süd (Abzw.)–Brugg AG
 
-Brugg Nord (Abzw)–Verbindungslinie–Brugg Süd (Abzw)
+Brugg Nord (Abzw.)–Verbindungslinie–Brugg Süd (Abzw.)
 
 Thalwil–Zimmerberg-Tunnel–Sihlbrugg
 
 Sihlbrugg–Albis-Tunnel–Zug
 
-Rotkreuz–Fluhmühle (Abzw)–Gütsch (Abzw)–Luzern
+Rotkreuz–Fluhmühle (Abzw.)–Gütsch (Abzw.)–Luzern
 
 Arth-Goldau–Zug
 
 Pratteln–Stein-Säckingen
 
-Stein-Säckingen–Bözberg-Tunnel–Brugg Nord (Abzw)
+Stein-Säckingen–Bözberg-Tunnel–Brugg Nord (Abzw.)
 
-Brugg Nord (Abzw) –Brugg AG
+Brugg Nord (Abzw.)–Brugg AG
 
 Zürich Altstetten–Zürich Herdern–Zürich Vorbahnhof Nord–Zürich HB
 
@@ -2429,17 +2644,17 @@ Rangierbahnhof Limmattal–Dietikon
 
 Dietikon–Zürich Mülligen–Zürich Altstetten
 
-Zürich Altstetten–Hard (Abzw)–Zürich Oerlikon
+Zürich Altstetten–Hard (Abzw.)–Zürich Oerlikon
 
 Killwangen-Spreitenbach–Zürich Altstetten
 
 Zürich Altstetten–Zürich HB
 
-Zürich Altstetten–Zürich Hardbrücke–Zürich HB (Gl. 41-44)
+Zürich Altstetten–Zürich Hardbrücke–Zürich HB (Gl. 41–44)
 
 Zürich Altstetten–Zürich GB
 
-Zürich GB–Zürich Aussersihl (Abzw)
+Zürich GB–Zürich Aussersihl (Abzw.)
 
 Wallisellen–Zürich Oerlikon
 
@@ -2447,21 +2662,21 @@ Zürich Oerlikon–Zürich Wipkingen–Zürich HB
 
 Winterthur–Effretikon
 
-Effretikon–Hürlistein (Abzw) –Bassersdorf
+Effretikon–Hürlistein (Abzw.)–Bassersdorf
 
-Bassersdorf–Zürich Flughafen–Opfikon (Abzw)
+Bassersdorf–Zürich Flughafen–Opfikon (Abzw.)
 
-Brüttenertunnel (Bassersdorf/Dietlikon – Tössmühle (Winterthur)
+Brüttenertunnel (Bassersdorf/Dietlikon–Tössmühle [Winterthur])
 
-Opfikon (Abzw)–Zürich Oerlikon
+Opfikon (Abzw.)–Zürich Oerlikon
 
-Zürich Oerlikon–Hard (Abzw)–Zürich Hardbrücke–Zürich HB
+Zürich Oerlikon–Hard (Abzw.)–Zürich Hardbrücke–Zürich HB
 
-Effretikon–Hürlistein (Abzw)–Dietlikon
+Effretikon–Hürlistein (Abzw.)–Dietlikon
 
 Dietlikon–Wallisellen
 
-Opfikon (Abzw)–Kloten–Bassersdorf
+Opfikon (Abzw.)–Kloten–Bassersdorf
 
 Schaffhausen–Neuhausen
 
@@ -2475,11 +2690,11 @@ Oberglatt–Glattbrugg
 
 Glattbrugg–Zürich Oerlikon
 
-Zürich Oerlikon–Hard (Abzw)–Zürich Hardbrücke–Zürich HB (Gl. 41-44)
+Zürich Oerlikon–Hard (Abzw.)–Zürich Hardbrücke–Zürich HB (Gl. 41–44)
 
 Zürich Oerlikon–Weinbergtunnel–Zürich HB (Gl. 31–34 und A-Gruppe) (Durchmesserlinie)
 
-Glattbrugg–Opfikon Süd (Abzw)–Zürich Seebach
+Glattbrugg–Opfikon Süd (Abzw.)–Zürich Seebach
 
 Schaffhausen–Infrastrukturgrenze Gemeinschaftsbahnhof–Thayngen Staatsgrenze
 
@@ -2497,34 +2712,48 @@ St. Gallen St. Fiden–Rorschach
 
 Rorschach–St. Margrethen
 
-Zürich HB–Zürich Aussersihl (Abzw)
+Zürich HB–Zürich Aussersihl (Abzw.)
 
 Zürich HB (Gl. 31–34 und A-Gruppe)–Kohlendreieckbrücke–Zürich Vorbahnhof–Letzigrabenbrücke–Zürich Altstetten (Durchmesserlinie)
 
-Zürich Aussersihl (Abzw)–Zürich Wiedikon
+Zürich Aussersihl (Abzw.)–Zürich Wiedikon
 
 Zürich Wiedikon–Thalwil
 
-Zürich Aussersihl (Abzw)–Zimmerberg-Basistunnel–Litti
-
-- [tab]
+Zürich Aussersihl (Abzw.)–Zimmerberg-Basistunnel–Litti
 
 Anhang 7[^t-7]
 
-(Art. 15*b* Abs. 2)
+[^t-7]: Eingefügt durch Ziff. II Abs. 2 der V vom 29. Mai 2013 ([AS 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)). Aufgehoben durch Ziff. II der V vom 10. April 2024, mit Wirkung seit 1. Juli 2024 ([AS 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
-## Technische Spezifikationen Interoperabilität
+Anhang 8[^t-8]
 
-[^t-7]: Eingefügt durch Ziff. II Abs. 2 der V vom 29. Mai 2013 ([AS 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)). Fassung gemäss Ziff. II Abs. 1 der V vom 12. Juni 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
+(Art. 8 Abs. 8)
 
-- 1\. Verordnung (EU) Nr. 1299/2014 der Kommission vom 18. November 2014 über die technische Spezifikation für die Interoperabilität des Teilsystems «Infrastruktur» des Eisenbahnsystems in der Europäischen Union, ABl. L 356 vom 12.12.2014, S. 1; geändert durch Durchführungsverordnung (EU) 2019/776 vom 16.5.2019, ABl. L 139 I vom 27.5.2019, S. 108.
-- 2\. Verordnung (EU) Nr. 454/2011 der Kommission vom 5. Mai 2011 über die Technische Spezifikation für die Interoperabilität (TSI) zum Teilsystem «Telematikanwendungen für den Personenverkehr» des transeuropäischen Eisenbahnsystems, ABl. L 123 vom 12.5.2011, S. 11; zuletzt geändert durch Durchführungsverordnung (EU) 2019/775 vom 16.5. 2019, ABl. L 139 I vom 27.5.2019, S. 103.
-- 3\. Verordnung (EU) 2016/919 der Kommission vom 27. Mai 2016 über die technische Spezifikation für die Interoperabilität der Teilsysteme «Zugsteuerung, Zugsicherung und Signalgebung» des Eisenbahnsystems in der Europäischen Union, ABl. L 158 vom 15.06.2016, S. 1; geändert durch Durchführungsverordnung (EU) 2019/776 vom 16.5.2019, ABl. L 139 I vom 27.5.2019, S. 108.
-- 4\. Durchführungsverordnung (EU) 2019/773 der Kommission vom 16. Mai 2019 über die technische Spezifikation für die Interoperabilität des Teilsystems «Verkehrsbetrieb und Verkehrssteuerung» des Eisenbahnsystems in der Europäischen Union und zur Aufhebung des Beschlusses 2012/757/EU, Fassung gemäss ABl. L 139 I vom 27.05.2019, S. 5.
-- 5\. Verordnung (EU) Nr. 321/2013 der Kommission vom 13. März 2013 über die technische Spezifikation für die Interoperabilität des Teilsystems «Fahrzeuge – Güterwagen» des Eisenbahnsystems in der Europäischen Union und zur Aufhebung der Entscheidung 2006/861/EG der Kommission, ABl. L 104 vom 12.4.2013, S. 1; zuletzt geändert durch Durchführungsverordnung (EU) 2019/776 vom 16.5.2019, ABl. L 139 I vom 27.5.2019, S. 108.
-- 6\. Verordnung (EU) Nr. 1300/2014 der Kommission vom 18. November 2014 über die technischen Spezifikationen für die Interoperabilität bezüglich der Zugänglichkeit des Eisenbahnsystems der Union für Menschen mit Behinderung und Menschen mit eingeschränkter Mobilität, ABl. L 356 vom 12.12.2014, S. 110; geändert durch Durchführungsverordnung (EU) 2019/772 vom 16.5.2019, ABl. L 139 I vom 27.5.2019, S. 1.
-- 7\. Verordnung (EU) Nr. 1301/2014 der Kommission vom 18. November 2014 über die technische Spezifikation für die Interoperabilität des Teilsystems «Energie» des Eisenbahnsystems in der Europäischen Union, Abl. L 356 vom 12.12.2014, S. 179; zuletzt geändert durch Durchführungsverordnung (EU) 2019/776 vom 16.5.2019, ABl. L 139 I vom 27.5.2019, S. 108.
-- 8\. Verordnung (EU) Nr. 1302/2014 der Kommission vom 18. November 2014 über eine technische Spezifikation für die Interoperabilität des Teilsystems «Fahrzeuge — Lokomotiven und Personenwagen» des Eisenbahnsystems in der Europäischen Union, ABl. L 356 vom 12.12.2014, S. 228; zuletzt geändert durch Durchführungsverordnung (EU) 2019/776 vom 16.5.2019, ABl. L 139 I vom 27.5.2019, S. 108.
-- 9\. Verordnung (EU) Nr. 1303/2014 der Kommission vom 18. November 2014 über die technische Spezifikation für die Interoperabilität bezüglich der «Sicherheit in Eisenbahntunneln» im Eisenbahnsystem der Europäischen Union, ABl. L 356 vom 12.12.2014, S. 394; zuletzt geändert durch Durchführungsverordnung (EU) 2019/776 vom 16.5.2019, ABl. L 139 I vom 27.5.2019, S. 108.
-- 10\. Verordnung (EU) Nr. 1304/2014 der Kommission vom 26. November 2014 über die technische Spezifikation für die Interoperabilität des Teilsystems «Fahrzeuge — Lärm» sowie zur Änderung der Entscheidung 2008/232/EG und Aufhebung des Beschlusses 2011/229/EU, ABl. L 356 vom 12.12.2014, S. 421; geändert durch Durchführungsverordnung (EU) 2019/774 vom 16.5.2019, ABl. L 139 I vom 27.5.2019, S. 89.
-- 11\. Verordnung (EU) Nr. 1305/2014 der Kommission vom 11. Dezember 2014 über die technische Spezifikation für die Interoperabilität zum Teilsystem «Telematikanwendungen für den Güterverkehr» des Eisenbahnsystems in der Europäischen Union und zur Aufhebung der Verordnung (EG) Nr. 62/2006 der Kommission, ABl. L 356 vom 12.12.2014, S. 438, zuletzt geändert durch Durchführungsverordnung (EU) 2019/778 vom 16.5.2019, ABl. L 139 I vom 27.5.2019, S. 356.
+## Grenzbetriebsstrecken
+
+[^t-8]: Eingefügt durch Ziff. II Abs. 3 der V vom 1. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
+
+- 1\. Basel Bad Bf–Grenze (–Weil am Rhein)
+- 2\. Basel Bad Bf–Grenze (–Basel Bad Rbf Gruppe C–Basel Bad Rbf Gruppe A)
+- 3\. Basel Bad Bf–Basel Bad Rbf Gruppe F–Grenze (–Weil am Rhein)
+- 4\. Basel Bad Bf–Basel SBB
+- 5\. Basel Bad Bf–Basel SBB RB
+- 6\. Basel SBB RB-Nordkopf–Basel St. Jakob–Basel GB–Basel SBB
+- 7\. Basel Bad Bf–Grenze (–Grenzach)
+- 8\. Basel Bad Bf–Grenze (–Lörrach)
+- 9\. Kreuzlingen–Grenze (–Konstanz)
+- 10\. Kreuzlingen Hafen–Grenze (–Konstanz)
+- 11\. Kreuzlingen–Kreuzlingen Hafen
+- 12\. Schaffhausen–Grenze (–Gottmadingen)
+- 13\. Schaffhausen–Grenze (–Erzingen [Baden])
+- 14\. St. Margrethen–Grenze (–Lustenau)
+- 15\. Buchs SG–Grenze (–Schaan-Vaduz)
+- 16\. Basel SBB–Basel St. Johann–Grenze (–Saint-Louis)
+- 17\. Vallorbe–Grenze (–Les Longevilles Rochejean)
+- 18\. Genève–Genève La Praille–Chêne-Bourg–Grenze (–Annemasse)
+- 19\. Genève–La Plaine–Grenze (–Bellegarde)
+- 20\. Genève La Praille–La Plaine–Grenze (–Bellegarde)
+- 21\. Chiasso Viaggiatori–Grenze (–Como/Galleria Monte Olimpino II)
+- 22\. Chiasso Smistamento–Grenze (–Como/Galleria Monte Olimpino II)
+- 23\. Locarno–Grenze (–Ribellasca)

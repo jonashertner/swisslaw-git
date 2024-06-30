@@ -4,11 +4,11 @@ title: "Ordonnance du 23 novembre 1983 sur la construction et l'exploitation des
 short: OCF
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902"
 language: fr
-version: 2024-01-01
+version: 2024-07-01
 adopted: 1983-11-23
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1983-1902_1902_1902-20240101-fr-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1902_1902_1902/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-1983-1902_1902_1902-20240701-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1902_1902_1902/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/1902_1902_1902/20240101/fr"
 
 (Ordonnance sur les chemins de fer, OCF)
 
-du 23 novembre 1983 (État le 1<sup>er</sup> janvier 2024)
+du 23 novembre 1983 (État le 1<sup>er</sup> juillet 2024)
 
 Le Conseil fédéral suisse,
 
@@ -25,9 +25,9 @@ vu les art. 17, al. 2, et 97 de la loi fédérale du 20 décembre 1957 sur les c
 
 arrête:
 
-[^ingress-1]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^ingress-2]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
-[^ingress-3]: [RS 744.21](https://fedlex.data.admin.ch/eli/cc/1951/665_663_685)
+[^ingress-1]: [RS 742.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8719)
+[^ingress-2]: [RS 734.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8570)
+[^ingress-3]: [RS 744.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8875)
 [^ingress-4]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 
 ## Chapitre 1 Dispositions générales
@@ -68,6 +68,8 @@ La présente ordonnance régit la planification, la construction, l’exploitati
 
 <sup>1</sup> Les ouvrages, les installations, les véhicules et leurs éléments doivent être planifiés et construits de manière à pouvoir être exploités en toute sécurité et entretenus correctement.
 
+<sup>1bis</sup> Ils doivent être protégés de toute menace, attaque ou intervention abusive à l’aide de tous les moyens organisationnels et techniques proportionnés.[^2-2]
+
 <sup>2</sup> Les dispositions d’exécution de la présente ordonnance précisent les normes techniques propres à mettre en œuvre le droit ferroviaire. Elles reprennent autant que possible des normes harmonisées au niveau européen.
 
 <sup>3</sup> S’il n’est fait référence à aucune norme technique ou qu’il n’en existe aucune, il y a lieu d’appliquer les règles reconnues de la technique.
@@ -77,6 +79,7 @@ La présente ordonnance régit la planification, la construction, l’exploitati
 <sup>5</sup> Si des éléments ou des matériaux sont essentiels pour la sécurité, il faut pouvoir prouver que leurs caractéristiques et leur état satisfont aux dispositions du présent article.
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+[^2-2]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
 
 #### Art. 2a
 
@@ -84,10 +87,11 @@ La présente ordonnance régit la planification, la construction, l’exploitati
 
 L’Office fédéral des transports (OFT) examine les aspects importants pour la sécurité conformément à l’art. 17*c* LCdF en fonction des risques:
 
-- a. sur la base d’attestations de conformité (art. 15*k* et 15*l*), de rapports d’examen d’experts (art. 6, al. 3, 8*a*, al. 4, et 15*m*) ou de rapports d’évaluation de la sécurité (art. 8*c*, al. 2), ou
+- a.[^2a-2] sur la base d’attestations de conformité (art. 15*k* et 15*l*), de rapports d’examen d’experts (art. 6, al. 3, 5*l*, al. 3 et 15*m*) ou de rapports d’évaluation de la sécurité (art. 5*m*, al. 4), ou
 - b. en procédant à des sondages.
 
 [^2a-1]: Introduit par le ch. I de l’O du 16 nov. 2011 ([RO 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)). Nouvelle teneur selon le ch. I de l’O du 29 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
+[^2a-2]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 3
 
@@ -110,11 +114,11 @@ Sont notamment applicables en complément à la présente ordonnance:
 
 [^4-1]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 [^4-2]: Nouvelle teneur selon le ch. I de l’O du 19 sept. 2014, en vigueur depuis le 1<sup>er</sup> nov. 2014 ([RO 2014 3169](https://fedlex.data.admin.ch/eli/oc/2014/534)).
-[^4-3]: [RS 742.142.1](https://fedlex.data.admin.ch/eli/cc/2000/124)
-[^4-4]: [RS 814.012](https://fedlex.data.admin.ch/eli/cc/1991/748_748_748)
-[^4-5]: [RS 814.710](https://fedlex.data.admin.ch/eli/cc/2000/38)
+[^4-3]: [RS 742.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8760)
+[^4-4]: [RS 814.012](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9439)
+[^4-5]: [RS 814.710](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9586)
 [^4-6]: Introduite par le ch. I de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
-[^4-7]: [RS 734.71](https://fedlex.data.admin.ch/eli/cc/2008/226)
+[^4-7]: [RS 734.71](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8593)
 
 #### Art. 5
 
@@ -154,43 +158,56 @@ Si la demande satisfait en outre aux exigences de l’annexe I dudit règlement 
 
 <sup>2</sup> Si le gestionnaire de l’infrastructure entend modifier l’exploitation ou l’infrastructure de sorte que les conditions d’octroi de l’agrément de sécurité doivent être vérifiées, il est tenu d’en informer l’OFT à temps, notamment lorsque le type ou l’ampleur de l’exploitation changent considérablement.
 
-<sup>3</sup> L’OFT statue sur la demande d’octroi ou de renouvellement dans les quatre mois qui suivent la réception de la demande.
+<sup>3</sup> L’OFT fait savoir au gestionnaire d’infrastructure dans un délai d’un mois si sa demande est complète ou non. Il statue sur la demande d’octroi, de modification ou de renouvellement de l’agrément de sécurité dans les quatre mois qui suivent la réception de la demande complète.[^5a-6]
 
 [^5a-1]: Introduit par le ch. I de l’O du 29 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
-[^5a-2]: Directive (UE) 2016/798 du Parlement européen et du Conseil du 11 mai 2016 relative à la sécurité ferroviaire (refonte), version du JO L 138 du 26.5.2016, p. 102.
-[^5a-3]: Règlement délégué (UE) 2018/762 de la Commission du 8 mars 2018 établissant des méthodes de sécurité communes relatives aux exigences en matière de système de gestion de la sécurité conformément à la directive (UE) 2016/798 du Parlement européen et du Conseil et abrogeant les règlements de la Commission (UE) n<sup>o</sup> 1158/2010 et (UE) n<sup>o</sup> 1169/2010, version du JO L 129 du 25.5.2018, p. 26.
-[^5a-4]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+[^5a-2]: Directive (UE) 2016/798 du Parlement européen et du Conseil du 11 mai 2016 relative à la sécurité ferroviaire (refonte), version du JO L 138 du 26.5.2016, p. 102; modifiée en dernier lieu par le règlement (UE) 2020/1530 du 21.10.2020, JO L 352 du 22.10.2020, p. 1.
+[^5a-3]: Règlement délégué (UE) 2018/762 de la Commission du 8 mars 2018 établissant des méthodes de sécurité communes relatives aux exigences en matière de système de gestion de la sécurité conformément à la directive (UE) 2016/798 du Parlement européen et du Conseil et abrogeant les règlements de la Commission (UE) n<sup>o</sup> 1158/2010 et (UE) n<sup>o</sup> 1169/2010, version du JO L 129 du 25.5.2018, p. 26; modifié en dernier lieu par le règlement délégué (UE) 2020/782 du 12.6.2020, JO L 188 du 15.6.2020, p. 14.
+[^5a-4]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 [^5a-5]: Introduit par le ch. I de l’O du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+[^5a-6]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 5b
 
-**Certificat de sécurité**[^5b-1]
+**Certificat de sécurité délivré par l’OFT[^5b-2]**[^5b-1]
 
-<sup>1</sup> La demande d’une entreprise de transport ferroviaire relative à l’octroi ou au renouvellement d’un certificat de sécurité conformément à l’art. 8*e* LCdF doit satisfaire, du point de vue du système de gestion de la sécurité, aux exigences de l’art. 9 de la directive (UE) 2016/798[^5b-2] et de l’annexe I du règlement délégué (UE) 2018/762[^5b-3] et contenir les indications visées à l’annexe I du règlement d’exécution (UE) 2018/763[^5b-4].[^5b-5]
+<sup>1</sup> La demande d’une entreprise de transport ferroviaire relative à l’octroi ou au renouvellement d’un certificat de sécurité conformément à l’art. 8*e* LCdF doit satisfaire, du point de vue du système de gestion de la sécurité, aux exigences de l’art. 9 de la directive (UE) 2016/798[^5b-3] et de l’annexe I du règlement délégué (UE) 2018/762[^5b-4] et contenir les indications visées à l’annexe I du règlement d’exécution (UE) 2018/763[^5b-5].[^5b-6]
 
 <sup>2</sup> Si l’entreprise entend modifier l’exploitation de sorte que les conditions d’octroi du certificat de sécurité doivent être vérifiées, elle est tenue d’en informer l’OFT à temps, notamment lorsque le type ou l’ampleur de l’exploitation changent considérablement.
 
-<sup>3</sup> L’OFT statue sur la demande d’octroi ou de renouvellement du certificat de sécurité dans un délai de trois mois après réception de tous les documents requis.[^5b-6]
+<sup>3</sup> L’OFT fait savoir à l’entreprise de transport ferroviaire dans un délai d’un mois si sa demande est complète ou non. Il statue sur la demande d’octroi, de modification ou de renouvellement du certificat de sécurité dans les quatre mois qui suivent la réception de la demande complète.[^5b-7]
 
-<sup>4</sup> Il retire le certificat de sécurité s’il n’a pas été utilisé comme prévu au cours de la première année qui a suivi son octroi.[^5b-7]
+<sup>4</sup> Il retire le certificat de sécurité s’il n’a pas été utilisé comme prévu au cours de la première année qui a suivi son octroi.[^5b-8]
 
 [^5b-1]: Introduit par le ch. I de l’O du 29 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
-[^5b-2]: Cf. note de bas de page relative à l’art. 5*a*, al. 1.
+[^5b-2]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 [^5b-3]: Cf. note de bas de page relative à l’art. 5*a*, al. 1.
-[^5b-4]: Règlement d’exécution (UE) 2018/763 de la Commission du 9 avril 2018 établissant les modalités pratiques de la délivrance des certificats de sécurité uniques aux entreprises ferroviaires en application de la directive (UE) 2016/798 du Parlement européen et du Conseil, et abrogeant le règlement (CE) n<sup>o</sup> 653/2007 de la Commission, version du JO L 129 du 25.5.2018, p. 49.
-[^5b-5]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
-[^5b-6]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
-[^5b-7]: Nouvelle teneur selon le ch. I 5 de l’O du 13 mai 2020 sur l’organisation de l’infrastructure ferroviaire, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+[^5b-4]: Cf. note de bas de page relative à l’art. 5*a*, al. 1.
+[^5b-5]: Règlement d’exécution (UE) 2018/763 de la Commission du 9 avril 2018 établissant les modalités pratiques de la délivrance des certificats de sécurité uniques aux entreprises ferroviaires en application de la directive (UE) 2016/798 du Parlement européen et du Conseil, et abrogeant le règlement (CE) n<sup>o</sup> 653/2007 de la Commission, version du JO L 129 du 25.5.2018, p. 49; modifié en dernier lieu par le règlement d’exécution (UE) 2020/777 du 125.6.2020, JO L 188 du 15.6.2020, p. 1.
+[^5b-6]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^5b-7]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^5b-8]: Nouvelle teneur selon le ch. I 5 de l’O du 13 mai 2020 sur l’organisation de l’infrastructure ferroviaire, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+
+#### Art. 5b<sup>bis</sup>
+
+**Certificat de sécurité délivré par l’Agence de l’Union européenne pour les chemins de fer**[^5bbis-1]
+
+<sup>1</sup> L’Agence de l’Union européenne pour les chemins de fer (ERA) peut octroyer des certificats de sécurité valables en Suisse si un traité international le prévoit.
+
+<sup>2</sup> Les demandes de certificats de sécurité valables en Suisse et dans au moins un autre pays voisin de la Suisse doivent être présentées à l’ERA.
+
+[^5bbis-1]: Introduit par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 5c
 
 **Système de gestion de sécurité et certificats complémentaires**[^5c-1]
 
-<sup>1</sup> Par son système de gestion de sécurité conformément à l’art. 8*a*, al. 2, ou 8*e*, al. 2, LCdF, le requérant doit garantir que les prescriptions sont respectées et que tous les risques inhérents à l’exploitation sont contrôlés et gérés.
+<sup>1</sup> Par son système de gestion de la sécurité prévu à l’art. 4 LCdF, le requérant doit garantir que les prescriptions sont respectées et que tous les risques inhérents à l’exploitation sont contrôlés et maîtrisés.[^5c-2]
 
 <sup>2</sup> Le requérant doit fournir des certificats complémentaires s’il ne montre pas comment son système de gestion de sécurité satisfait aux exigences visées à l’art. 5*a*, al. 1, ou 5*b*, al. 1.
 
 [^5c-1]: Introduit par le ch. I de l’O du 29 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386), [2014 487](https://fedlex.data.admin.ch/eli/oc/2014/90)).
+[^5c-2]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 5d
 
@@ -225,55 +242,62 @@ La procédure de l’OFT relative à l’octroi et au renouvellement est régie:
 
 **Agréments et certificats de sécurité européens et étrangers**[^5f-1]
 
-<sup>1</sup> Si une entreprise ferroviaire est titulaire d’un certificat de sécurité délivré par l’Agence de l’Union européenne pour les chemins de fer (ERA), l’OFT peut renoncer à vérifier le respect des exigences, pour autant que ledit certificat atteste ce respect.
+<sup>1</sup> Si une entreprise de transport ferroviaire est titulaire d’un certificat de sécurité délivré par l’ERA, l’OFT peut renoncer à vérifier le respect des exigences, pour autant que ledit certificat atteste ce respect.[^5f-2]
 
 <sup>2</sup> L’OFT peut reconnaître les agréments et les certificats de sécurité étrangers sur les tronçons limitrophes et pour les courses sur ceux-ci, même sans accord bilatéral relatif à la reconnaissance mutuelle de tels agréments et certificats.
 
 [^5f-1]: Introduit par le ch. I de l’O du 29 mai 2013 ([RO 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)). Nouvelle teneur selon le ch. I de l’O du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+[^5f-2]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 5g
 
-**Rapport de sécurité des entreprises ferroviaires**[^5g-1]
+**Rapport annuel des entreprises ferroviaires**[^5g-1]
 
-Chaque année, les entreprises ferroviaires présentent à l’OFT, le 31 mai au plus tard, un rapport de sécurité sur l’année civile précédente contenant les indications visées à l’art. 9, par. 6, de la directive (UE) 2016/798[^5g-2] et à l’art. 18, par. 1, du règlement d’exécution (UE) n° 402/2013[^5g-3].
+Chaque année, les entreprises ferroviaires présentent à l’OFT, avant le 31 mai dernier délai, un rapport sur l’année civile précédente contenant les indications visées:
 
-[^5g-1]: Introduit par le ch. I de l’O du 29 mai 2013 ([RO 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)). Nouvelle teneur selon le ch. I de l’O du 12 juin 2020, en vigueur depuis le 1<sup>er</sup> nov. 2020 ([RO 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
-[^5g-2]: Directive (UE) 2016/798 du Parlement européen et du Conseil du 11 mai 2016 relative à la sécurité ferroviaire (refonte), version du JO L 138 du 26.5.2016, p. 102.
-[^5g-3]: Règlement d’exécution (UE) n° 402/2013 de la Commission du 30 avril 2013 concernant la méthode de sécurité commune relative à l’évaluation et à l’appréciation des risques et abrogeant le règlement (CE) n° 352/2009, JO L 121 du 3.5.2013, p. 8; modifié par le règlement d’exécution (UE) 2015/1136 de la Commission du 13 juillet 2015, JO L 185 du 14.7.2015, p. 6.
+- a. à l’art. 9, par. 6, de la directive (UE) 2016/798[^5g-2];
+- b. à l’art. 18, par. 1, du règlement d’exécution (UE) n<sup>o</sup> 402/2013[^5g-3], et
+- c. à l’annexe I, ch. 4.5.1.2, ainsi qu’à l’annexe II, ch. 4.5.1.2, du règlement délégué (UE) 2018/762[^5g-4].
+
+[^5g-1]: Introduit par le ch. I de l’O du 29 mai 2013 ([RO 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)). Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^5g-2]: Cf. note de bas de page relative à l’art. 5*a*, al. 1.
+[^5g-3]: Règlement d’exécution (UE) n<sup>o</sup> 402/2013 de la Commission du 30 avril 2013 concernant la méthode de sécurité commune relative à l’évaluation et à l’appréciation des risques et abrogeant le règlement (CE) n<sup>o</sup> 352/2009, JO L 121 du 3.5.2013, p. 8; modifié en dernier lieu par le règlement d’exécution (UE) 2015/1136 du 13.7.2015, JO L 185 du 14.7.2015, p. 6.
+[^5g-4]: Cf. note de bas de page relative à l’art. 5*a*, al. 1.
 
 #### Art. 5h
 
-**Rapport annuel de l’OFT[^5h-2]**[^5h-1]
+**Rapport annuel de l’OFT**[^5h-1]
 
-<sup>1</sup> Chaque année, l’OFT publie un rapport sur ses activités en tant qu’autorité de surveillance.
+<sup>1</sup> Chaque année, l’OFT publie les indicateurs de sécurité communs visés à l’art. 5 de la directive (UE) 2016/798[^5h-2].
 
-<sup>2</sup> Ce rapport doit contenir au moins les informations visées à l’art. 19 de la directive (UE) 2016/798[^5h-3].[^5h-4]
+<sup>2</sup> Il publie un rapport annuel sur ses activités en tant qu’autorité de surveillance; ce rapport contient au moins les informations visées à l’art. 19 de la directive (UE) 2016/798.
 
-[^5h-1]: Introduit par le ch. I de l’O du 29 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
-[^5h-2]: Nouvelle teneur selon le ch. I de l’O du 12 juin 2020, en vigueur depuis le 1<sup>er</sup> nov. 2020 ([RO 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
-[^5h-3]: Cf. note de bas de page relative à l’art. 5*g.*
-[^5h-4]: Nouvelle teneur selon le ch. I de l’O du 12 juin 2020, en vigueur depuis le 1<sup>er</sup> nov. 2020 ([RO 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
+[^5h-1]: Introduit par le ch. I de l’O du 29 mai 2013 ([RO 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)). Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^5h-2]: Cf. note de bas de page relative à l’art. 5*a*, al. 1.
 
 #### Art. 5i
 
 **Répertoire des véhicules admis**[^5i-1]
 
-<sup>1</sup> Les détenteurs d’une autorisation sont tenus d’inscrire au répertoire des véhicules admis conformément à l’art. 17*a* LCdF les données de leurs véhicules définies comme obligatoires au ch. I de l’annexe de la décision de la commission 2011/107/UE[^5i-2].
+<sup>1</sup> Les détenteurs d’une autorisation sont tenus d’inscrire au répertoire des véhicules admis prévu à l’art. 17*a* LCdF les données de leurs véhicules définies comme obligatoires au tableau 1 de l’annexe II de la décision d’exécution (UE) 2018/1614[^5i-2]. Ils sont tenus d’inscrire les données au registre européen des véhicules autorisés si un accord international le prévoit.[^5i-3]
 
-<sup>2</sup> Ils peuvent inscrire au répertoire les autres données prévues au ch. I de ladite annexe.
+<sup>2</sup> Ils peuvent inscrire au répertoire les autres données prévues au tableau 1 de ladite annexe II.[^5i-4]
 
-<sup>3</sup> Les droits d’accès sont régis par le ch. 3.3 de ladite annexe.
+<sup>3</sup> Les droits d’accès sont régis par le tableau 2 de ladite annexe II.[^5i-5]
 
 <sup>4</sup>
 
 Il n’y a pas lieu d’inscrire au répertoire les véhicules de service (art. 57):
 
 - a. aptes à circuler aussi bien sur les rails que sur les routes (véhicules rail-route);
-- b. enraillables et déraillables.[^5i-3]
+- b. enraillables et déraillables.[^5i-6]
 
 [^5i-1]: Introduit par le ch. I de l’O du 29 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
-[^5i-2]: D 2011/107/UE de la Commission du 10 fév. 2011 modifiant la D 2007/756/CE adoptant une spécification commune du registre national des véhicules, JO L 43 du 17.2.2011, p. 33.
-[^5i-3]: Introduit par le ch. I de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
+[^5i-2]: Décision d’exécution (UE) 2018/1614 de la Commission du 25 octobre 2018 établissant les spécifications relatives aux registres des véhicules visés à l’art. 47 de la directive (UE) 2016/797 du Parlement européen et du Conseil et modifiant et abrogeant la décision 2007/756/CE de la Commission, version du JO L 268 du 26.10.2018, p. 53.
+[^5i-3]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^5i-4]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^5i-5]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^5i-6]: Introduit par le ch. I de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
 
 #### Art. 5i<sup>bis</sup>
 
@@ -285,15 +309,24 @@ Il n’y a pas lieu d’inscrire au répertoire les véhicules de service (art. 
 
 **Maintenance des véhicules**[^5j-1]
 
-<sup>1</sup> Le service responsable de la maintenance des véhicules visé à l’art. 17*b* LCdF doit exploiter un système de maintenance qui réponde aux exigences visées à l’art. 14, par. 2 et 3, ainsi qu’à l’annexe III de la directive (UE) 2016/798[^5j-2].
+<sup>1</sup>
 
-<sup>2</sup> Si ce service est responsable de la maintenance de wagons qui circulent sur des tronçons interopérables, il doit être certifié à cet effet selon le règlement d’exécution (UE) 2019/779[^5j-3]. Les entreprises de transport ferroviaire sont exemptées de l’obligation d’être certifiées pour effectuer la maintenance de leurs propres wagons.
+L’organisme responsable de la maintenance des véhicules en vertu de l’art. 17*b* LCdF doit:
 
-<sup>3</sup> Quiconque a des raisons de supposer que le service responsable ne satisfait pas aux exigences en informe l’organe de certification. Ce dernier informe sans délai l’OFT des mesures prises.
+- a.
 
-[^5j-1]: Introduit par le ch. I de l’O du 29 mai 2013 ([RO 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)). Nouvelle teneur selon le ch. I de l’O du 12 juin 2020, en vigueur depuis le 1<sup>er</sup> nov. 2020 ([RO 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
-[^5j-2]: Cf. note de bas de page relative à l’art. 5*g.*
-[^5j-3]: Règlement d’exécution (UE) 2019/779 de la Commission du 16 mai 2019 établissant des dispositions détaillées concernant un système de certification des entités chargées de l’entretien des véhicules conformément à la directive (UE) 2016/798 du Parlement européen et du Conseil et abrogeant le règlement (UE) n<sup>o</sup> 445/2011 de la Commission, JO L 139 I du 27.5.2019, p. 360.
+  exploiter un système de maintenance qui réponde aux exigences:
+
+  - 1\. de l’art. 14, par. 2 et 3, ainsi que de l’annexe III de la directive (UE) 2016/798[^5j-2], et
+  - 2\. de l’annexe II du règlement d’exécution (UE) 2019/779[^5j-3];
+
+- b. être certifié par un organisme de certification au sens du règlement d’exécution (UE) 2019/779 pour pouvoir effectuer la maintenance de véhicules utilisés sur les tronçons interopérables; font exception les entreprises ferroviaires qui effectuent la maintenance de véhicules exclusivement pour leurs propres besoins.
+
+<sup>2</sup> Quiconque a des raisons de supposer que l’organisme responsable ne satisfait pas aux exigences est tenu d’en informer l’organisme de certification. L’organisme de certification informe sans délai l’OFT des mesures qu’il a prises.
+
+[^5j-1]: Introduit par le ch. I de l’O du 29 mai 2013 ([RO 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)). Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^5j-2]: Cf. note de bas de page relative à l’art. 5*a*, al. 1.
+[^5j-3]: Règlement d’exécution (UE) 2019/779 de la Commission du 16 mai 2019 établissant des dispositions détaillées concernant un système de certification des entités chargées de l’entretien des véhicules conformément à la directive (UE) 2016/798 du Parlement européen et du Conseil et abrogeant le règlement (UE) n<sup>o</sup> 445/2011 de la Commission, JO L 139I du 27.5.2019, p. 360; modifié en dernier lieu par le règlement d’exécution (UE) 2020/780 du 12.6.2020, JO L 188 du 15.6.2020, p. 8.
 
 #### Art. 5k
 
@@ -310,6 +343,41 @@ Les entreprises ferroviaires et les personnes responsables de la maintenance des
 
 [^chap1-sec3-1]: Introduit par le ch. I de l’O du 29 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
 
+#### Art. 5l
+
+**Dossier de sécurité**[^5l-1]
+
+<sup>1</sup>
+
+Pour démontrer la sécurité et la conformité aux prescriptions d’une infrastructure ferroviaire ou d’un véhicule, le gestionnaire d’infrastructure ou le détenteur doivent établir une documentation attestant que l’installation ou le véhicule:
+
+- a. ont été planifiés conformément aux prescriptions;
+- b. ont été réalisés conformément aux prescriptions et, le cas échéant, à la décision de l’OFT, et
+- c. peuvent être exploités en toute sécurité.
+
+<sup>2</sup> La documentation doit être établie et signée par des spécialistes.
+
+<sup>3</sup> Pour démontrer la sécurité et la conformité aux prescriptions d’un projet présentant une grande importance pour la sécurité, ce projet doit être examiné par des experts. L’OFT peut renoncer à ces examens notamment lorsqu’ils ne contribuent pas à éviter des défaillances ayant des effets sur la sécurité.
+
+<sup>4</sup> La démonstration de l’exécution conforme aux prescriptions et à la décision doit être assortie d’une déclaration du gestionnaire de l’infrastructure ou du détenteur du véhicule. Cette déclaration peut se baser sur les déclarations des fabricants.
+
+[^5l-1]: Introduit par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+
+#### Art. 5m
+
+**Rapport de sécurité et évaluation des risques**[^5m-1]
+
+<sup>1</sup> Si une personne au sens de l’art. 3, ch. 11, du règlement d’exécution (UE) n<sup>o</sup> 402/2013[^5m-2] propose un changement, elle doit établir un rapport de sécurité.
+
+<sup>2</sup> Elle fonde le rapport de sécurité sur une analyse de l’environnement et de la sécurité qui détermine les risques potentiels du projet pour la construction et l’exploitation; cette analyse tient compte de tous les aspects importants pour la sécurité du véhicule ou de l’installation ferroviaire et de son environnement et définit les mesures nécessaires.
+
+<sup>3</sup> Elle indique dans le rapport de sécurité s’il s’agit d’un changement significatif au sens de l’art. 4, par. 2, du règlement d’exécution (UE) n<sup>o</sup> 402/2013.
+
+<sup>4</sup> S’il s’agit d’un changement significatif, elle établit une évaluation des risques à l’aide du processus de gestion des risques prévu à l’annexe I du règlement d’exécution (UE) n<sup>o</sup> 402/2013. Cette évaluation doit en outre être accompagnée d’un rapport d’évaluation de la sécurité établi par un organisme d’évaluation des risques.
+
+[^5m-1]: Introduit par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^5m-2]: Cf. note de bas de page relative à l’art. 5*g*, let. b.
+
 #### Art. 6
 
 **Approbation des plans de constructions et d’installations**[^6-1]
@@ -320,17 +388,17 @@ Les entreprises ferroviaires et les personnes responsables de la maintenance des
 
 <sup>3</sup> L’OFT peut contrôler lui-même les documents ou les faire contrôler par des spécialistes compétents et indépendants (experts), ou encore exiger du requérant des attestations et des rapports d’examen d’experts.[^6-4]
 
-<sup>4</sup> Il peut, en approuvant les plans, déterminer les ouvrages, les installations ou les parties de ceux-ci pour lesquels des dossiers de sécurité selon l’art. 8*a* devront être remis.[^6-5]
+<sup>4</sup> Il peut, lorsqu’il approuve les plans, déterminer les ouvrages, les installations ou les parties de ceux-ci pour lesquels des dossiers de sécurité au sens de l’art. 5*l* devront être remis.[^6-5]
 
-<sup>5</sup> ...[^6-6]
+<sup>5</sup> …[^6-6]
 
 <sup>6</sup> L’approbation des plans, des ouvrages et installations a valeur d’autorisation de construire.
 
 [^6-1]: Nouvelle teneur selon le ch. I de l’O du 12 avril 2000, en vigueur depuis le 1<sup>er</sup> mai 2000 ([RO 2000 1386](https://fedlex.data.admin.ch/eli/oc/2000/217)).
-[^6-2]: [RS 742.142.1](https://fedlex.data.admin.ch/eli/cc/2000/124)
+[^6-2]: [RS 742.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8760)
 [^6-3]: Nouvelle teneur selon le ch. I de l’O du 19 sept. 2014, en vigueur depuis le 1<sup>er</sup> nov. 2014 ([RO 2014 3169](https://fedlex.data.admin.ch/eli/oc/2014/534)).
 [^6-4]: Nouvelle teneur selon le ch. I de l’O du 29 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
-[^6-5]: Nouvelle teneur selon le ch. I de l’O du 4 nov. 2009, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
+[^6-5]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 [^6-6]: Abrogé par le ch. I de l’O du 29 mai 2013, avec effet au 1<sup>er</sup> juil. 2013 ([RO 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
 
 #### Art. 6a
@@ -350,11 +418,12 @@ Avant et pendant la phase de construction du véhicule, le requérant peut deman
 
 <sup>1</sup> L’OFT autorise les courses d’essai du véhicule sur l’infrastructure ferroviaire, pour autant que celles-ci soient nécessaires à l’octroi de l’autorisation d’exploiter et que le requérant prouve à l’OFT que la sécurité est garantie.
 
-<sup>2</sup> Pour les courses d’essai, les gestionnaires d’infrastructure sont soumis aux obligations visées aux art. 21, par. 3 à 5, de la directive (UE) 2016/797[^6b-2] et 6 du règlement d’exécution (UE) 2018/545[^6b-3].
+<sup>2</sup> Pour les courses d’essai, les gestionnaires d’infrastructure sont soumis aux obligations visées aux art. 21, par. 3 à 5, de la directive (UE) 2016/797[^6b-2] et 6 du règlement d’exécution (UE) 2018/545[^6b-3].[^6b-4]
 
 [^6b-1]: Introduit par le ch. I de l’O du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
-[^6b-2]: Directive (UE) 2016/797 du Parlement européen et du Conseil du 11 mai 2016 relative à l’interopérabilité du système ferroviaire au sein de l’Union européenne (refonte), version du JO L 138 du 26.5.2016, p. 44
-[^6b-3]: Règlement d’exécution (UE) 2018/545 de la Commission du 4 avril 2018 établissant les modalités pratiques du processus d’autorisation des véhicules ferroviaires et d’autorisation par type de véhicule ferroviaire conformément à la directive (UE) 2016/797 du Parlement européen et du Conseil, version du JO L 90 du 6.4.2018, p. 66.
+[^6b-2]: Directive (UE) 2016/797 du Parlement européen et du Conseil du 11 mai 2016 relative à l’interopérabilité du système ferroviaire au sein de l’Union européenne (refonte), version du JO L 138 du 26.5.2016, p. 44; modifiée en dernier lieu par la directive (UE) 2020/700 du 25.5.2020, JO L 165 du 27.5.2020, p. 27.
+[^6b-3]: Règlement d’exécution (UE) 2018/545 de la Commission du 4 avril 2018 établissant les modalités pratiques du processus d’autorisation des véhicules ferroviaires et d’autorisation par type de véhicule ferroviaire conformément à la directive (UE) 2016/797 du Parlement européen et du Conseil, version du JO L 90 du 6.4.2018, p. 66; modifié en dernier lieu par le règlement d’exécution (UE) 2020/781 du 12.6.2020, JO L 188 du 15.6.2020, p. 11.
+[^6b-4]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 7
 
@@ -370,23 +439,20 @@ Avant et pendant la phase de construction du véhicule, le requérant peut deman
 
 [^7-1]: Nouvelle teneur selon le ch. I de l’O du 29 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
 [^7-2]: Cf. note de bas de page relative à l’art. 6*b*, al. 2.
-[^7-3]: Règlement d’exécution (UE) 2019/250 de la Commission du 12 février 2019 sur les modèles de déclarations «CE» et de certificats pour les constituants d’interopérabilité et sous-systèmes ferroviaires, sur le modèle de déclaration de conformité à un type autorisé de véhicule ferroviaire et sur les procédures de vérification «CE» des sous-systèmes conformément à la directive (UE) 2016/797 du Parlement européen et du Conseil, et abrogeant le règlement (UE) n<sup>o</sup> 201/2011 de la Commission, version du JO L 42 du 13.2.2019, p. 9.
-[^7-4]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+[^7-3]: Règlement d’exécution (UE) 2019/250 de la Commission du 12 février 2019 sur les modèles de déclarations «CE» et de certificats pour les constituants d’interopérabilité et sous-systèmes ferroviaires, sur le modèle de déclaration de conformité à un type autorisé de véhicule ferroviaire et sur les procédures de vérification «CE» des sous-systèmes conformément à la directive (UE) 2016/797 du Parlement européen et du Conseil, et abrogeant le règlement (UE) n<sup>o</sup> 201/2011 de la Commission, version du JO L 42 du 13.2.2019, p. 9; modifié en dernier lieu par le règlement d’exécution (UE) 2020/779 du 12.6.2020, JO L 188 du 15.6.2020, p. 6.
+[^7-4]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 8
 
 **Autorisation d’exploiter**[^8-1]
 
-<sup>1</sup>
+<sup>1</sup> Une autorisation d’exploiter au sens de l’art. 18*w* LCdF est requise pour la mise en service d’une installation ferroviaire ayant subi un changement significatif.[^8-2]
 
-Une autorisation d’exploiter conformément à l’art. 18*w* LCdF est requise pour la mise en service:
-
-- a. d’une installation ferroviaire après des changements significatifs (art. 8*c*);
-- b. de véhicules neufs ou sujets à des changements essentiels.
+<sup>1bis</sup> Une autorisation d’exploiter au sens de l’art. 18*w*<sup>bis</sup> LCdF est requise pour la mise en service de véhicules neufs ou ayant été modifiés de manière substantielle.[^8-3]
 
 <sup>2</sup> Dans les autres cas, l’OFT décide lors de l’approbation des plans si la mise en service requiert une autorisation d’exploiter.
 
-<sup>3</sup> Si une autorisation d’exploiter est requise, l’entreprise ferroviaire doit présenter à l’OFT un dossier de sécurité conformément à l’art. 8*a*.
+<sup>3</sup> Si une autorisation d’exploiter est requise, l’entreprise ferroviaire doit présenter à l’OFT un dossier de sécurité au sens de l’art. 5*l*.[^8-4]
 
 <sup>4</sup> Après examen du dossier de sécurité, l’OFT octroie l’autorisation d’exploiter si les autres charges prévues par l’approbation des plans ou l’homologation de série sont remplies.
 
@@ -396,47 +462,29 @@ Une autorisation d’exploiter conformément à l’art. 18*w* LCdF est requise 
 
 <sup>7</sup> L’OFT édicte pour les installations ferroviaires des directives sur le type, les caractéristiques, le contenu et le nombre de documents à présenter.
 
+<sup>8</sup> Sur les tronçons d’exploitation frontalière visés à l’annexe 8, il peut octroyer des autorisations d’exploiter compte tenu de l’autorisation d’exploiter étrangère ou reconnaître des autorisations d’exploiter étrangères, même sans accord bilatéral relatif à la reconnaissance mutuelle de telles autorisations.[^8-5]
+
 [^8-1]: Nouvelle teneur selon le ch. I de l’O du 29 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
+[^8-2]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^8-3]: Introduit par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^8-4]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^8-5]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
 
 #### Art. 8a
 
-**Dossier de sécurité**[^8a-1]
+**Examen du dossier de sécurité**[^8a-1]
 
-<sup>1</sup> Le dossier de sécurité conformément à l’art. 18*w*, al. 2, LCdF, doit être établi et signé par des spécialistes.[^8a-2]
+<sup>1</sup> Dans le cadre de la procédure d’octroi de l’autorisation d’exploiter, l’OFT vérifie si le dossier de sécurité est complet. Sur la base de ce dernier, il vérifie également si les mesures décrites dans le rapport de sécurité ont été exécutées.
 
-<sup>2</sup> L’OFT vérifie si le dossier de sécurité est complet. Sur cette base, il contrôle également si les mesures décrites dans le rapport de sécurité ont été exécutées.
+<sup>2</sup> Il peut contrôler les dossiers de sécurité en effectuant des vérifications sur l’installation ferroviaire ou sur le véhicule.
 
-<sup>3</sup> Il peut contrôler les dossiers de sécurité en effectuant des vérifications sur l’installation.
+[^8a-1]: Introduit par le ch. I de l’O du 12 avril 2000 ([RO 2000 1386](https://fedlex.data.admin.ch/eli/oc/2000/217)). Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
-<sup>4</sup> Pour les projets qui ont une grande importance pour la sécurité, il demande en règle générale que des examens soient effectués par des experts. Il renonce à ces examens notamment lorsque ceux-ci ne contribuent pas à éviter les erreurs qui ont des effets sur la sécurité.[^8a-3]
+#### Art. 8b et 8c
 
-[^8a-1]: Introduit par le ch. I de l’O du 12 avril 2000, en vigueur depuis le 1<sup>er</sup> mai 2000 ([RO 2000 1386](https://fedlex.data.admin.ch/eli/oc/2000/217)).
-[^8a-2]: Nouvelle teneur selon le ch. I de l’O du 29 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
-[^8a-3]: Nouvelle teneur selon le ch. I de l’O du 29 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
+[^8b8c-1]
 
-#### Art. 8b
-
-**Rapport de sécurité de l’entreprise ferroviaire**[^8b-1]
-
-<sup>1</sup> L’entreprise ferroviaire est tenue d’établir un rapport de sécurité pour tous les projets soumis à une approbation de plans ou à une autorisation d’exploiter ainsi que pour tous les autres changements significatifs du système ferroviaire.
-
-<sup>2</sup> Le rapport de sécurité repose sur une analyse de sécurité qui détermine les risques qu’un projet peut présenter pour la construction et l’exploitation; cela étant, il y a lieu de tenir compte de tous les aspects du véhicule ou de l’installation ferroviaire et de son environnement qui sont déterminants pour la sécurité.
-
-<sup>3</sup> Le rapport de sécurité indique dans quelle mesure il s’agit d’un changement significatif (art. 8*c*, al. 1) et présente les mesures qui permettent de remédier aux risques, d’assurer que le projet satisfera aux prescriptions et d’établir le dossier de sécurité (art. 8*a*).
-
-[^8b-1]: Introduit par le ch. I de l’O du 16 juin 2003 ([RO 2003 2482](https://fedlex.data.admin.ch/eli/oc/2003/369)). Nouvelle teneur selon le ch. I de l’O du 29 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
-
-#### Art. 8c
-
-**Changements significatifs**[^8c-1]
-
-<sup>1</sup> Lors de projets innovants ou complexes de haute importance pour la sécurité (changements significatifs), l’entreprise ferroviaire réalise le processus de gestion des risques conformément à l’annexe I du règlement d’exécution (UE) n<sup>o</sup> 402/2013[^8c-2].[^8c-3]
-
-<sup>2</sup> Il incombe à un organisme d’évaluation des risques d’examiner, dans un rapport d’évaluation de la sécurité, l’application réglementaire du processus de gestion des risques et de ses résultats.
-
-[^8c-1]: Introduit par le ch. I de l’O du 16 juin 2003 ([RO 2003 2482](https://fedlex.data.admin.ch/eli/oc/2003/369)). Nouvelle teneur selon le ch. I de l’O du 29 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
-[^8c-2]: Cf. note de bas de page relative à l’art. 5*g*.
-[^8c-3]: Nouvelle teneur selon le ch. I de l’O du 12 juin 2020, en vigueur depuis le 1<sup>er</sup> nov. 2020 ([RO 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
+[^8b8c-1]: Introduits par le ch. I de l’O du 16 juin 2003 ([RO 2003 2482](https://fedlex.data.admin.ch/eli/oc/2003/369)). Abrogés par le ch. I de l’O du 10 avr. 2024, avec effet au 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 8d
 
@@ -452,17 +500,22 @@ Une autorisation d’exploiter conformément à l’art. 18*w* LCdF est requise 
 
 **Surveillance**[^9-1]
 
-<sup>1</sup> L’OFT veille à ce que les exigences en matière de sécurité soient respectées. Au besoin, il exige une remise en l’état conforme aux prescriptions.
+<sup>1</sup> L’OFT veille à ce que les exigences en matière de sécurité soient respectées, compte tenu des risques.[^9-2]
 
 <sup>2</sup> Il peut effectuer des contrôles et exiger des documents, des certificats et des expertises si son activité de surveillance le requiert.
 
 <sup>3</sup> Lorsqu’un événement touchant à la sécurité s’est produit, l’OFT peut, dans le cadre de son activité de surveillance, exécuter ou ordonner des investigations en matière de technique et d’exploitation afin d’en élucider les causes et les circonstances. La compétence du service d’enquête en cas d’accidents visé à l’art. 15*a* LCdF est réservée.
 
-<sup>4</sup> Si une entreprise ferroviaire est titulaire d’un certificat de sécurité ou d’un agrément de sécurité, l’OFT applique, lors de la surveillance, le règlement délégué (UE) 2018/761[^9-2].[^9-3]
+<sup>4</sup> Si une entreprise ferroviaire est titulaire d’un certificat de sécurité ou d’un agrément de sécurité, l’OFT applique, lors de la surveillance, le règlement délégué (UE) 2018/761[^9-3].[^9-4]
+
+<sup>5</sup> La surveillance des organismes d’évaluation des risques (art. 15*v*) reconnus par l’OFT est régie par l’art. 11 du règlement d’exécution (UE) n<sup>o</sup> 402/2013[^9-5].[^9-6]
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
-[^9-2]: Règlement délégué (UE) 2018/761 de la Commission du 16 février 2018 établissant des méthodes de sécurité communes aux fins de la surveillance exercée par les autorités nationales de sécurité après la délivrance d’un certificat de sécurité unique ou d’un agrément de sécurité conformément à la directive (UE) 2016/798 du Parlement européen et du Conseil et abrogeant le règlement (UE) n° 1077/2012 de la Commission, version du JO L 129 du 25.5.2018, p. 16
-[^9-3]: Introduit par le ch. I de l’O du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+[^9-2]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^9-3]: Règlement délégué (UE) 2018/761 de la Commission du 16 février 2018 établissant des méthodes de sécurité communes aux fins de la surveillance exercée par les autorités nationales de sécurité après la délivrance d’un certificat de sécurité unique ou d’un agrément de sécurité conformément à la directive (UE) 2016/798 du Parlement européen et du Conseil et abrogeant le règlement (UE) n<sup>o</sup> 1077/2012 de la Commission, version du JO L 129 du 25.5.2018, p. 16; modifié en dernier lieu par le règlement délégué (UE) 2020/782 du 12.6.2020, JO L 188 du 15.6.2020, p. 14.
+[^9-4]: Introduit par le ch. I de l’O du 6 nov. 2019 ([RO 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)). Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^9-5]: Cf. note de bas de page relative à l’art. 5*g*, let. b.
+[^9-6]: Introduit par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 10
 
@@ -476,8 +529,43 @@ Une autorisation d’exploiter conformément à l’art. 18*w* LCdF est requise 
 
 <sup>4</sup> S’agissant des installations électriques, l’exploitant au sens de l’art. 46 se substitue à l’entreprise.
 
+<sup>5</sup> La responsabilité des autres personnes qui influent sur la sécurité de l’exploitation ferroviaire est régie par l’art. 4, par. 4, de la directive (UE) 2016/798[^10-3].[^10-4]
+
 [^10-1]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 [^10-2]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
+[^10-3]: Cf. note de bas de page relative à l’art. 5*a*, al. 1.
+[^10-4]: Introduit par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+
+#### Art. 10a
+
+**Mesures en cas de risque identifié pour la sécurité**[^10a-1]
+
+Quiconque est informé d’un risque pour la sécurité doit prendre les mesures nécessaires. Cela inclut l’échange d’informations requis avec les autres personnes responsables et avec les personnes concernées.
+
+[^10a-1]: Introduit par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+
+#### Art. 10b
+
+**Contrôles avant l’utilisation d’un véhicule**[^10b-1]
+
+<sup>1</sup> Avant d’utiliser un véhicule, les entreprises ferroviaires procèdent aux vérifications prévues à l’art. 23, par. 1 et 2, de la directive (UE) 2016/797[^10b-2].
+
+<sup>2</sup>
+
+Avant d’utiliser un véhicule, elles s’assurent:
+
+- a. qu’il dispose d’une autorisation d’exploiter ou d’une autorisation de mise sur le marché et qu’il est inscrit au registre;
+- b.
+
+  qu’il est compatible avec les tronçons sur lesquels il circulera:
+
+  - 1\. pour les tronçons interopérables, sur la base du registre d’infrastructure,
+  - 2\. pour les tronçons non interopérables, sur la base des informations mises à disposition gratuitement par le gestionnaire d’infrastructure;
+
+- c. qu’il s’intègre de manière réglementaire dans la composition du train.
+
+[^10b-1]: Introduit par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^10b-2]: Cf. note de bas de page relative à l’art. 6*b*, al. 2.
 
 #### Art. 11
 
@@ -508,37 +596,28 @@ L’organisation de l’exploitation et la dotation en personnel doivent corresp
 
 <sup>4</sup>
 
-Les utilisateurs du réseau sont tenus de respecter les prescriptions d’exploitation qui, en rapport avec l’utilisation des tronçons, régissent:[^12-3]
+Les utilisateurs du réseau sont tenus de respecter les prescriptions d’exploitation qui contiennent des règles en rapport avec l’utilisation des tronçons. En font partie notamment les règles concernant:
 
 - a. la mise en œuvre des charges relevant du droit public;
-- b. le rapport de freinage (y compris le frein d’immobilisation) requis pour une certaine vitesse ainsi que les forces longitudinales et transversales autorisées;
+- b. la puissance de freinage et la force des freins d’immobilisation requises pour une vitesse donnée ainsi que les forces longitudinales et transversales autorisées;
 - c. l’utilisation des véhicules moteurs thermiques dans les tunnels;
 - d. le profil d’espace libre à observer;
 - e. la masse par essieu et la masse par mètre;
 - f. la circulation de véhicules avec un grand empattement et des trains très longs;
 - g. le captage maximal de la ligne de contact;
 - h. la langue de service à employer;
-- i. la compatibilité électromagnétique.
+- i. la compatibilité électromagnétique.[^12-3]
 
-<sup>5</sup> L’OFT veille à ce que les prescriptions d’exploitation soient aussi uniformes que possible.[^12-4]
+<sup>5</sup> L’OFT veille à ce que les prescriptions relatives à l’exploitation ferroviaire soient aussi homogènes que possible.[^12-4]
 
 [^12-1]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 [^12-2]: Nouvelle teneur selon le ch. I de l’O du 12 juin 2020, en vigueur depuis le 1<sup>er</sup> nov. 2020 ([RO 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
-[^12-3]: Nouvelle teneur selon le ch. I de l’O du 12 juin 2020, en vigueur depuis le 1<sup>er</sup> nov. 2020 ([RO 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
-[^12-4]: Nouvelle teneur selon le ch. I de l’O du 12 juin 2020, en vigueur depuis le 1<sup>er</sup> nov. 2020 ([RO 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
+[^12-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
+[^12-4]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 12a
 
-**Vérifications préalables à l’utilisation d’un véhicule**[^12a-1]
-
-Avant l’utilisation d’un véhicule, les entreprises de transport ferroviaire et les gestionnaires d’infrastructure effectuent les vérifications visées à l’art. 23, par. 1 et 2, de la directive (UE) 2016/797[^12a-2].
-
-[^12a-1]: Introduit par le ch. I de l’O du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
-[^12a-2]: Cf. note de bas de page relative à l’art. 7, al. 4.
-
-#### Art. 12a<sup>bis</sup>
-
-**Recommandations en matière de technique et d’exploitation**[^12abis-1]
+**Recommandations en matière de technique et d’exploitation**[^12a-1]
 
 La gestionnaire de l’infrastructure établit des recommandations en matière de technique et d’exploitation. Celles-ci servent à réduire les perturbations de l’exploitation et à attirer l’attention des utilisateurs du réseau sur d’éventuelles causes de dommages. Elles concernent notamment:
 
@@ -547,7 +626,13 @@ La gestionnaire de l’infrastructure établit des recommandations en matière d
 - c. la longueur optimale des trains et les charges des attelages, les caractéristiques de marche, la protection contre le déraillement;
 - d. la protection des marchandises contre les dommages et le déplacement de la charge.
 
-[^12abis-1]: Anciennement art. 12*a.* Introduit par le ch. I de l’O du 25 nov. 1998, en vigueur depuis le 1<sup>er</sup> janv. 1999 ([RO 1999 1083](https://fedlex.data.admin.ch/eli/oc/1999/143)).
+[^12a-1]: Anciennement art. 12*a*bis et 12*a*. Introduit par le ch. I de l’O du 25 nov. 1998, en vigueur depuis le 1<sup>er</sup> janv. 1999 ([RO 1999 1083](https://fedlex.data.admin.ch/eli/oc/1999/143)).
+
+#### Art. 12a<sup>bis</sup>
+
+[^12abis-1]
+
+[^12abis-1]: Anciennement art. 12*a.* Introduit par le ch. I de l’O du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)). Abrogé par le ch. I de l’O du 10 avr. 2024, avec effet au 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 12b
 
@@ -565,7 +650,9 @@ La gestionnaire de l’infrastructure établit des recommandations en matière d
 
 <sup>1</sup> L’entretien et le renouvellement des ouvrages, installations et véhicules devront satisfaire aux exigences de sécurité de l’exploitation.
 
-<sup>2</sup> L’entretien sera organisé de manière que
+<sup>2</sup>
+
+L’entretien sera organisé de manière que:
 
 - a. l’observation des dispositions légales et des prescriptions établies par l’entreprise soit assurée;
 - b. les agents responsables soient constamment au courant de l’état des ouvrages, des installations et des véhicules.
@@ -580,13 +667,14 @@ La gestionnaire de l’infrastructure établit des recommandations en matière d
 
 <sup>1</sup> La planification, la construction, l’exploitation et l’entretien ne sont confiés qu’à un personnel formé à cet effet.
 
-<sup>2</sup> La direction technique des opérations relatives aux installations électriques, aux éléments électriques de véhicules, de trolleybus et d’installations de trolleybus doit être remise à une personne compétente au bénéfice d’une formation de base en électrotechnique (apprentissage professionnel en électrotechnique, formation équivalente en entreprise ou études dans le domaine électrotechnique), qui a l’expérience du travail sur les installations à courant fort et qui connaît les spécificités locales et les mesures de protection à prendre.
+<sup>2</sup> L’exploitant au sens de l’art. 46 doit remettre la direction technique des opérations relatives aux installations électriques, aux éléments électriques de véhicules, de trolleybus et d’installations de trolleybus à une personne compétente au bénéfice d’une formation de base en électrotechnique acquise lors d’un apprentissage professionnel, d’une formation équivalente en entreprise ou d’études dans le domaine électrotechnique, qui a l’expérience du travail sur les installations à courant fort et qui connaît les spécificités locales et les mesures de protection à prendre.[^14-2]
 
 <sup>3</sup> Si la sécurité de l’exploitation impose des exigences particulières, il y a lieu de vérifier périodiquement les connaissances du service et l’état de santé du personnel.
 
 <sup>4</sup> Les entreprises désignent au moins un responsable de l’exploitation et de l’entretien, ainsi qu’un remplaçant.
 
 [^14-1]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+[^14-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
 
 #### Art. 15
 
@@ -594,14 +682,14 @@ La gestionnaire de l’infrastructure établit des recommandations en matière d
 
 <sup>1</sup> Les gestionnaires d’infrastructure informent l’OFT de l’état de leurs ouvrages, installations et véhicules.[^15-1] Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC) indique les rapports périodiques à fournir à l’OFT.[^15-2]
 
-<sup>1bis</sup> ...[^15-3]
+<sup>1bis</sup> …[^15-3]
 
 <sup>2</sup> Pour le reste, l’ordonnance du 17 décembre 2014 sur les enquêtes de sécurité en cas d’incident dans le domaine des transports[^15-4] est applicable.[^15-5]
 
 [^15-1]: Nouvelle teneur selon l’annexe ch. 12 de l’O du 23 août 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
 [^15-2]: Nouvelle teneur selon le ch. I 5 de l’O du 4 nov. 2009 (1<sup>re</sup> phase de la réforme des chemins de fer 2), en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5959](https://fedlex.data.admin.ch/eli/oc/2009/729)).
 [^15-3]: Introduit par l’annexe ch. 3 de l’O du 21 mai 2008 ([RO 2008 2745](https://fedlex.data.admin.ch/eli/oc/2008/385)). Abrogé par l’annexe ch. 12 de l’O du 23 août 2023, avec effet au 1<sup>er</sup> janv. 2024 ([RO 2023 529](https://fedlex.data.admin.ch/eli/oc/2023/529)).
-[^15-4]: [RS 742.161](https://fedlex.data.admin.ch/eli/cc/2015/26)
+[^15-4]: [RS 742.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8778)
 [^15-5]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
 
 #### Art. 15<sup>bis</sup>
@@ -630,31 +718,37 @@ La gestionnaire de l’infrastructure établit des recommandations en matière d
 
 <sup>1</sup>
 
-Les dispositions du présent chapitre sont applicables à la construction, aux modifications, aux renouvellements et à l’exploitation:
+Les dispositions du présent chapitre sont applicables à la construction et à l’exploitation:[^15a-1]
 
 - a. des tronçons à voie normale, dans la mesure où ils ne figurent pas à l’annexe 5 (tronçons interopérables);
-- b.[^15a-1] des véhicules utilisés sur les tronçons interopérables, à l’exception des véhicules spéciaux (art. 56 à 58).
+- b.[^15a-2] des véhicules utilisés sur les tronçons interopérables, à l’exception des véhicules spéciaux (art. 56 à 58).
 
 <sup>2</sup> Pour les tronçons interopérables ne faisant pas partie du réseau principal interopérable conformément à l’annexe 6, il suffit d’attester le respect des spécifications techniques d’interopérabilité (STI) dans la mesure nécessaire pour garantir la circulation de véhicules qui y satisfont. L’OFT édicte des directives sur l’attestation en question.
 
 <sup>3</sup> Dans la mesure où l’interopérabilité l’exige, l’OFT décide à partir de quand quels tronçons et quels véhicules doivent satisfaire à certaines exigences des STI.
 
-[^15a-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
+[^15a-1]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15a-2]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
 
 #### Art. 15b
 
-**Exigences essentielles, dispositions d’exécution techniques**
+**Exigences essentielles, dispositions d’exécution techniques**[^15b-1]
 
 ### (art. 23*f*, al. 1, LCdF)
 
-<sup>1</sup> Les exigences essentielles auxquelles doivent satisfaire le système ferroviaire, les sous-systèmes et les constituants d’interopérabilité y compris leurs interfaces sont régies par l’annexe III de la directive (UE) 2016/797[^15b-1].[^15b-2]
+<sup>1</sup> Les exigences essentielles auxquelles doivent satisfaire le système ferroviaire, les sous-systèmes et les constituants d’interopérabilité, y compris leurs interfaces, sont régies par l’annexe III de la directive (UE) 2016/797[^15b-2].
 
-<sup>2</sup> Les STI énumérées à l’annexe 7 sont considérées comme des dispositions d’exécution techniques.
+<sup>2</sup>
 
-<sup>3</sup> Dans la mesure où il n’y a pas de cas spécial ni de dérogations aux STI, les STI priment sur les autres dispositions de l’OCF.
+En tenant compte du droit international, l’OFT édicte:
 
-[^15b-1]: Cf. note de bas de page relative à l’art. 7, al. 4.
-[^15b-2]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+- a. les dispositions d’exécution techniques et d’exploitation concernant les sous-systèmes et les constituants d’interopérabilité;
+- b. dans les cas énumérés à l’art. 13, par. 2, de la directive (UE) 2016/797, les règles nationales visant le respect des exigences essentielles.
+
+<sup>3</sup> Dans la mesure où il n’y a ni cas particulier ni dérogations autorisées aux STI, les STI priment sur les autres dispositions de la présente ordonnance.
+
+[^15b-1]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15b-2]: Cf. note de bas de page relative à l’art. 6*b*, al. 2.
 
 #### Art. 15c
 
@@ -662,42 +756,76 @@ Les dispositions du présent chapitre sont applicables à la construction, aux m
 
 ### (art. 23*c*, al. 1, LCdF)
 
-Les nouveaux sous-systèmes des domaines de l’infrastructure, de l’énergie, du contrôle-commande, de la signalisation et des véhicules (sous-systèmes de nature structurelle conformément à l’annexe II de la directive [UE] 2016/797[^15c-2]) ne peuvent être mis en exploitation que si l’OFT a délivré une autorisation d’exploiter l’installation ferroviaire ou le véhicule dont ils font partie.
+Les nouveaux sous-systèmes des domaines de l’infrastructure, de l’énergie, du contrôle-commande, de la signalisation et des véhicules (sous-systèmes de nature structurelle au sens de l’annexe II de la directive [UE] 2016/797[^15c-2]) ne peuvent être mis en exploitation que si l’OFT a délivré une autorisation d’exploiter l’installation ferroviaire ou le véhicule dont ils font partie.[^15c-3]
 
 [^15c-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
-[^15c-2]: Cf. note de bas de page relative à l’art. 7, al. 4.
+[^15c-2]: Cf. note de bas de page relative à l’art. 6*b*, al. 2.
+[^15c-3]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 15d
 
-**Modifications**
+**Véhicules modifiés**[^15d-1]
 
-### (art. 23*d* LCdF)
+### (art. 23*c*<sup>bis</sup> LCdF)
 
-<sup>1</sup> La modification d’un sous-système de nature structurelle requiert une autorisation d’exploiter notamment lors de changements significatifs et lors d’équipements touchant le réseau principal interopérable visé à l’annexe 6.
+La mise sur le marché d’un véhicule modifié de manière substantielle au sens de l’art. 21, par. 12, de la directive (UE) 2016/797[^15d-2] et de l’art. 16 du règlement d’exécution (UE) 2018/545[^15d-3] requiert une autorisation.
 
-<sup>2</sup> La modification d’un véhicule requiert une autorisation d’exploiter, pour autant que l’art. 21, par. 12, de la directive (UE) 2016/797[^15d-1] le prévoie.[^15d-2]
-
-[^15d-1]: Cf. note de bas de page relative à l’art. 7, al. 4.
-[^15d-2]: Introduit par le ch. I de l’O du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+[^15d-1]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15d-2]: Cf. note de bas de page relative à l’art. 6*b*, al. 2.
+[^15d-3]: Cf. note de bas de page relative à l’art. 6*b*, al. 2
 
 #### Art. 15e
 
 **Dérogations aux STI**
 
-### (art. 23*f*, al. 3, LCdF)
+### (art. 23f, al. 3, LCdF)
 
-<sup>1</sup> Les constructions, les équipements et les renouvellements sont soumis aux STI s’il n’y a pas de raison de déroger à celles-ci conformément à l’art. 7 de la directive (UE) 2016/797[^15e-1].[^15e-2]
+[^15e-1]
 
-<sup>2</sup> Sur demande, l’OFT peut admettre des dérogations à certaines exigences des STI dans les cas visés à l’art. 7, par. 1, de la directive (UE) 2016/797.[^15e-3]
+<sup>1</sup> Les constructions, les réaménagements et les renouvellements sont soumis aux STI sauf motif dérogatoire prévu à l’art. 7 de la directive (UE) 2016/797[^15e-2].[^15e-3]
 
-<sup>3</sup> ...[^15e-4]
+<sup>2</sup> Sur demande, l’OFT peut admettre des dérogations à certaines exigences des STI dans les cas visés à l’art. 7, par. 1, de la directive (UE) 2016/797.[^15e-4]
 
-<sup>4</sup> S’agissant des véhicules, l’OFT peut aussi admettre des dérogations aux STI si elles ne sont pas requises pour l’utilisation sur des tronçons interopérables et si le requérant fournit l’attestation conformément à l’art. 5, al. 2.
+<sup>3</sup> …[^15e-5]
 
-[^15e-1]: Cf. note de bas de page relative à l’art. 7, al. 4.
-[^15e-2]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
-[^15e-3]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
-[^15e-4]: Abrogé par le ch. I de l’O du 6 nov. 2019, avec effet au 1<sup>er</sup> déc. 2019 ([RO 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+<sup>4</sup> En ce qui concerne les véhicules, l’OFT peut admettre des dérogations aux STI si le respect de celles-ci n’est pas requis pour l’utilisation sur des tronçons interopérables et si le requérant fournit l’attestation prévue à l’art. 5, al. 2.[^15e-6]
+
+[^15e-1]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15e-2]: Cf. note de bas de page relative à l’art. 6*b*, al. 2.
+[^15e-3]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15e-4]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+[^15e-5]: Abrogé par le ch. I de l’O du 6 nov. 2019, avec effet au 1<sup>er</sup> déc. 2019 ([RO 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+[^15e-6]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+
+#### Art. 15e<sup>bis</sup>
+
+**Évaluation de la conformité des constituants d’interopérabilité**[^15ebis-1]
+
+### (art. 23*j* LCdF)
+
+L’évaluation de la conformité des constituants d’interopérabilité est régie:
+
+- a. par l’art. 10 de la directive (UE) 2016/797[^15ebis-2];
+- b. par les STI;
+- c. par les art. 4 et 5 et l’annexe I de la décision 2010/713/UE[^15ebis-3], et
+- d. par l’annexe V du règlement d’exécution (UE) 2019/250[^15ebis-4].
+
+[^15ebis-1]: Introduit par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15ebis-2]: Cf. note de bas de page relative à l’art. 6*b*, al. 2.
+[^15ebis-3]: Décision 2010/713/UE de la Commission du 9 nov. 2010 relative à des modules pour les procédures concernant l’évaluation de la conformité, l’aptitude à l’emploi et la vérification CE à utiliser dans le cadre des spécifications techniques d’interopérabilité adoptées en vertu de la directive 2008/57/CE du Parlement européen et du Conseil, version du JO L 319 du 4.12.2010, p. 1.
+[^15ebis-4]: Cf. note de bas de page relative à l’art. 7, al. 4.
+
+#### Art. 15e<sup>ter</sup>
+
+**Attestation de la conformité des constituants d’interopérabilité avec les STI**[^15eter-1]
+
+### (art. 23*j*, al. 1, LCdF)
+
+<sup>1</sup> Une attestation de la conformité aux STI délivrée par un organisme notifié (art. 15*r*) est requise pour chaque constituant d’interopérabilité.
+
+<sup>2</sup> L’attestation de conformité doit certifier que les constituants d’interopérabilité et leurs interfaces satisfont aux exigences essentielles, dans la mesure où celles-ci sont concrétisées par les STI.
+
+[^15eter-1]: Introduit par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 15f
 
@@ -711,8 +839,8 @@ Les nouveaux sous-systèmes des domaines de l’infrastructure, de l’énergie,
 
 <sup>3</sup> L’OFT édicte des directives sur la tenue du registre, notamment sur la délimitation du réseau. Après consultation de l’OFT et des gestionnaires d’infrastructure, le service d’attribution des sillons règle les détails de la transmission des informations. Il veille à ce que les propriétaires et les exploitants des installations de transbordement dédiées au transport combiné et des voies de raccordement soient informés.[^15f-3]
 
-[^15f-1]: Règlement d’exécution (UE) 2019/777 de la Commission du 16 mai 2019 relatif aux spécifications communes du registre de l’infrastructure ferroviaire et abrogeant la décision d’exécution 2014/880/UE de la Commission, version du JO L 139 du 27.5.2019, p. 312.
-[^15f-2]: Nouvelle teneur selon le ch. I 5 de l’O du 13 mai 2020 sur l’organisation de l’infrastructure ferroviaire, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+[^15f-1]: Règlement d’exécution (UE) 2019/777 de la Commission du 16 mai 2019 relatif aux spécifications communes du registre de l’infrastructure ferroviaire et abrogeant la décision d’exécution 2014/880/UE, JO L 139 du 27.5.2019, p. 312; modifié en dernier lieu par le règlement d’exécution (UE) 2023/1694, JO L 222 du 8.9.2023, p. 88.
+[^15f-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
 [^15f-3]: Nouvelle teneur selon le ch. I 5 de l’O du 13 mai 2020 sur l’organisation de l’infrastructure ferroviaire, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
 
 #### Art. 15g
@@ -725,92 +853,126 @@ Les nouveaux sous-systèmes des domaines de l’infrastructure, de l’énergie,
 
 <sup>2</sup> Le registre est accessible aux autorités nationales de sécurité et à l’ERA. Il est rendu accessible au public dès que l’ERA a validé les données.[^15g-3]
 
-[^15g-1]: Décision d’exécution 2011/665/UE de la Commission du 4 octobre 2011 relative au registre européen des types de véhicules ferroviaires autorisés, JO L 264 du 8.10.2011, p. 32, modifié par le règlement d’exécution (UE) 2019/776 de la Commission du 16.5.2019, JO L 139 I du 27.5.2019, p.108.
-[^15g-2]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+[^15g-1]: Décision d’exécution 2011/665/UE de la Commission du 4 octobre 2011 relative au registre européen des types de véhicules ferroviaires autorisés, JO L 264 du 8.10.2011, p. 32; modifiée en dernier lieu par la décision d’exécution (UE) 2023/1696, JO L 222 du 8.9.2023, p. 561.
+[^15g-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
 [^15g-3]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
 
-### Section 2 Autorisation d’exploiter
+### Section 2 Équipement ERTMS au sol
+
+[^chap1a-sec2-1]
+
+[^chap1a-sec2-1]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+
+### (art. 23g LCdF)
 
 #### Art. 15h
 
-**Attestations requises**
+Quiconque souhaite soumettre à appel d’offres un équipement *European Rail Traffic Management System* (ERTMS) à installer au sol doit, dans les cas visés à l’art. 18, par. 6, 3<sup>e</sup> phrase, de la directive (UE) 2016/797[^15h-1], obtenir l’accord de l’OFT en ce qui concerne les spécifications ERTMS.
 
-### (art. 23*c*, al. 2, LCdF)
+[^15h-1]: Cf. note de bas de page relative à l’art. 6*b*, al. 2.
 
-[^15h-1]
+### Section 3 Dossier de sécurité
 
-L’entreprise ferroviaire joint à sa demande d’autorisation d’exploiter:
+[^chap1a-sec3-1]
+
+[^chap1a-sec3-1]: Introduit par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+
+#### Art. 15i
+
+**Dossier de sécurité des véhicules**[^15i-1]
+
+### (art. 23*c*<sup>bis</sup>, al. 4, LCdF)
+
+Pour attester la sécurité du projet et sa conformité aux prescriptions, l’entreprise ferroviaire doit disposer des documents visés à l’art. 21, par. 3, de la directive (UE) 2016/797[^15i-2] ainsi qu’aux art. 28 à 30 et à l’annexe 1 du règlement d’exécution (UE) 2018/545[^15i-3].
+
+[^15i-1]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15i-2]: Cf. note de bas de page relative à l’art. 6*b*, al. 2.
+[^15i-3]: Cf. note de bas de page relative à l’art. 6*b*, al. 2.
+
+#### Art. 15i<sup>bis</sup>
+
+**Rapports d’examen d’experts**[^15ibis-1]
+
+<sup>1</sup>
+
+Si, dans les projets de haute importance pour la sécurité, les exigences ci-après sont spécifiées par des prescriptions autres que les STI ou les règles nationales notifiées, des rapports d’examens d’experts sont requis pour attester:
+
+- a. la sécurité et la conformité aux prescriptions des sous-systèmes et de leurs interfaces;
+- b. la compatibilité technique des sous-systèmes;
+- c. l’intégration sûre des sous-systèmes au système global.
+
+<sup>2</sup> L’OFT peut déterminer dans une directive les rapports d’examen d’experts qui sont requis régulièrement.
+
+[^15ibis-1]: Introduit par le ch. I de l’O du 6 nov. 2019 ([RO 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)). Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+
+#### Art. 15i<sup>ter</sup>
+
+**Déclarations de conformité des constituants d’interopérabilité**[^15iter-1]
+
+Pour attester qu’un constituant d’interopérabilité a été exécuté conformément aux prescriptions, le gestionnaire d’infrastructure ou le détenteur du véhicule doit disposer des déclarations «CE» visées à l’art. 9 de la directive (UE) 2016/797[^15iter-2] ainsi qu’à l’annexe I du règlement d’exécution (UE) 2019/250[^15iter-3].
+
+[^15iter-1]: Introduit par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15iter-2]: Cf. note de bas de page relative à l’art. 6*b*, al. 2.
+[^15iter-3]: Cf. note de bas de page relative à l’art. 7, al. 4.
+
+### Section 4 Autorisation d’exploiter
+
+[^chap1a-sec4-1]
+
+[^chap1a-sec4-1]: Introduit par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+
+#### Art. 15j
+
+**Attestations requises**[^15j-1]
+
+### (art. 23*c*, al. 5, et 23*c*<sup>bis</sup>, al. 4, LCdF)
+
+<sup>1</sup>
+
+Le requérant joint à sa demande d’autorisation d’exploiter:
 
 - a. le dossier de sécurité;
 - b. les documents attestant le respect des exigences essentielles, des STI et des autres prescriptions déterminantes.
 
-[^15h-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+<sup>2</sup>
 
-#### Art. 15i
+Il joint en outre à sa demande d’autorisation d’exploiter une installation ferroviaire:
 
-**Dossier de sécurité de l’infrastructure**
+- a. les documents visés à l’art. 18, par. 4, let. a à c, de la directive (UE) 2016/797[^15j-2];
+- b. pour les équipements ERTMS au sol: l’accord de l’OFT visée à l’art. 15*h*.
 
-### (art. 23*c,* al. 4, LCdF)
-
-[^15i-1]
-
-<sup>1</sup>
-
-Pour attester la sécurité du projet et sa conformité aux prescriptions, l’entreprise ferroviaire fournit:
-
-- a. les attestations de conformité;
-- b. les rapports d’examen des experts;
-- c. l’attestation selon laquelle la réalisation du projet est conforme aux prescriptions.
-
-<sup>2</sup> L’OFT peut exiger d’autres documents pour attester le respect des prescriptions.
-
-[^15i-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
-
-#### Art. 15i<sup>bis</sup>
-
-**Dossier de sécurité des véhicules**[^15ibis-1]
-
-### (art. 23*c,* al. 4, LCdF)
-
-Pour attester la sécurité du projet et sa conformité aux prescriptions, l’entreprise ferroviaire fournit les documents visés à l’art. 21, par. 3, de la directive (UE) 2016/797[^15ibis-2] ainsi qu’aux art. 28 à 30 et à l’annexe 1 du règlement d’exécution (UE) 2018/545[^15ibis-3].
-
-[^15ibis-1]: Introduit par le ch. I de l’O du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
-[^15ibis-2]: Cf. note de bas de page relative à l’art. 7, al. 4.
-[^15ibis-3]: Cf. note de bas de page relative à l’art. 6*b*, al. 2.
-
-#### Art. 15j
-
-**Évaluation de la conformité**[^15j-1]
-
-### (art. 23*j* LCdF)
-
-<sup>1</sup> L’évaluation de la conformité de constituants d’interopérabilité est régie par l’art. 10 de la directive (UE) 2016/797[^15j-2], par les STI, par les art. 4 et 5 et l’annexe I de la décision 2010/713/UE[^15j-3] ainsi que par l’annexe V du règlement d’exécution (UE) 2019/250[^15j-4].
-
-<sup>2</sup> L’évaluation de la conformité de sous-systèmes est régie par l’art. 15 et l’annexe IV de la directive (UE) 2016/797, par les STI, par l’art. 6 et l’annexe I de la décision 2010/713/UE ainsi que par les annexes IV et V du règlement d’exécution (UE) 2019/250.
-
-[^15j-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
-[^15j-2]: Cf. note de bas de page relative à l’art. 7, al. 4.
-[^15j-3]: Directive 2010/713/UE de la Commission du 9 nov. 2010 relative à des modules pour les procédures concernant l’évaluation de la conformité, l’aptitude à l’emploi et la vérification CE à utiliser dans le cadre des spécifications techniques d’interopérabilité adoptées en vertu de la directive 2008/57/CE du Parlement européen et du Conseil, version du JO L 319 du 4.12.2010, p. 1.
-[^15j-4]: Cf. note de bas de page relative à l’art. 7, al. 4.
+[^15j-1]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15j-2]: Cf. note de bas de page relative à l’art. 6*b*, al. 2.
 
 #### Art. 15k
 
-**Attestations de conformité aux STI**
+**Évaluation de la conformité des sous-systèmes**[^15k-1]
+
+### (art. 23*j* LCdF)
+
+L’évaluation de la conformité des sous-systèmes est régie:
+
+- a. par l’art. 15 et l’annexe IV de la directive (UE) 2016/797[^15k-2];
+- b. par les STI;
+- c. par l’art. 6 et l’annexe I de la décision 2010/713/UE[^15k-3], et
+- d. par les annexes IV et V du règlement d’exécution (UE) 2019/250[^15k-4].
+
+[^15k-1]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15k-2]: Cf. note de bas de page relative à l’art. 6*b*, al. 2.
+[^15k-3]: Cf. note de bas de page relative à l’art. 15*e*<sup>bis</sup>, let. c.
+[^15k-4]: Cf. note de bas de page relative à l’art. 7, al. 4.
+
+#### Art. 15k<sup>bis</sup>
+
+**Attestations de conformité des sous-systèmes aux STI**[^15kbis-1]
 
 ### (art. 23*j*, al. 1, LCdF)
 
-<sup>1</sup>
+<sup>1</sup> Une attestation de conformité aux STI établie par un organisme notifié (art. 15*r*) est requise pour tout sous-système structurel.
 
-Une attestation de conformité aux STI et établie par un organisme notifié (art. 15*r*) est requise pour:
+<sup>2</sup> Elle doit attester que les sous-systèmes et leurs interfaces satisfont aux exigences essentielles, dans la mesure où celles-ci sont concrétisées par les STI.
 
-- a. tout constituant d’interopérabilité;
-- b. tout sous-système de nature structurelle.
-
-<sup>2</sup> L’attestation de conformité doit attester que les constituants d’interopérabilité ou les sous-systèmes et leurs interfaces satisfont aux exigences essentielles, dans la mesure où celles-ci sont concrétisées dans des STI.
-
-<sup>3</sup> Sur les tronçons à voie normale ne faisant pas partie du réseau principal interopérable visé à l’annexe 6, la conformité aux dispositions applicables des STI peut être attestée par des organismes notifiés, des organismes désignés (art. 15*v*, al. 2) ou des experts.
-
-<sup>4</sup> Une attestation de conformité aux STI n’est pas requise lorsque des éléments sont remplacés par des éléments du même type, à condition que le sous-système ait été mis en exploitation avant l’entrée en vigueur des STI déterminantes.
+[^15kbis-1]: Introduit par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 15l
 
@@ -825,51 +987,33 @@ Une attestation de conformité aux STI et établie par un organisme notifié (ar
 
 #### Art. 15m
 
-**Rapports d’examen d’experts**
+[^15m-1]
 
-<sup>1</sup>
-
-Si les exigences ci-après font l’objet de spécifications dans d’autres prescriptions que les STI ou les règles nationales notifiées et qu’il s’agit d’un projet de haute importance pour la sécurité, des rapports d’examens d’experts sont requis pour attester:[^15m-1]
-
-- a. la sécurité et la conformité aux prescriptions des sous-systèmes et de leurs interfaces;
-- b. la compatibilité technique du sous-système;
-- c. l’intégration sûre du sous-système au système global.
-
-<sup>2</sup> L’OFT peut exiger des rapports d’examen d’experts supplémentaires si cela semble nécessaire pour attester la sécurité.
-
-[^15m-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+[^15m-1]: Abrogé par le ch. I de l’O du 10 avr. 2024, avec effet au 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 15n
 
-**Attestation de l’exécution conforme aux prescriptions et aux décisions**
+**Déclaration de conformité des sous-systèmes structurels**[^15n-1]
 
-<sup>1</sup>
+Afin d’attester que l’exécution est conforme aux prescriptions, le requérant présente à l’OFT les déclarations «CE» de vérification au sens de l’art. 15, par. 2, de la directive (UE) 2016/797[^15n-2] et des annexes II et III du règlement d’exécution (UE) 2019/250[^15n-3] concernant les sous-systèmes structurels visés à l’annexe II, ch. 1, let. a, de la directive (UE) 2016/797.
 
-Le requérant est tenu de déclarer à l’OFT que l’objet de la demande:
-
-- a. a été réalisé conformément aux prescriptions et à la décision de l’OFT, et
-- b. peut être exploité en toute sécurité.
-
-<sup>2</sup>
-
-Il est tenu d’attester que la réalisation est conforme aux prescriptions en présentant à l’OFT les déclarations suivantes:
-
-- a. pour les sous-systèmes de nature structurelle conformément à l’annexe II, ch. 1, let. a, de la directive (UE) 2016/797[^15n-1]: les déclarations «CE» de vérification visées à l’art. 15, par. 2, de la directive (UE) 2016/797 ainsi qu’aux annexes II et III du règlement d’exécution (UE) 2019/250[^15n-2];
-- b. pour les constituants d’interopérabilité: les déclarations «CE» visées à l’art. 9 de la directive (UE) 2016/797 ainsi qu’à l’annexe I du règlement d’exécution (UE) 2019/250.[^15n-3]
-
-[^15n-1]: Cf. note de bas de page relative à l’art. 7, al. 4.
-[^15n-2]: Cf. note de bas de page relative à l’art. 7, al. 4.
-[^15n-3]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+[^15n-1]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15n-2]: Cf. note de bas de page relative à l’art. 6*b*, al. 2.
+[^15n-3]: Cf. note de bas de page relative à l’art. 7, al. 4.
 
 #### Art. 15o
 
-**Reconnaissance d’autorisations européennes et étrangères**[^15o-1]
+**Validité d’autorisations européennes et étrangères**[^15o-1]
 
-<sup>1</sup> Les véhicules admis par l’ERA ou par une autorité étrangère en vue de l’exploitation sur des tronçons interopérables ne requièrent pas d’autorisation supplémentaire de l’OFT s’ils sont intégralement spécifiés dans les STI.
+<sup>1</sup> Quiconque entend mettre un véhicule sur le marché en Suisse et dans l’Union européenne doit obtenir une autorisation de l’ERA, si un traité international le prévoit.
 
-<sup>2</sup> Pour les véhicules soumis à des dispositions nationales complémentaires, le respect des STI et des exigences nationales correspondantes n’est pas vérifié dans la mesure où il découle de l’autorisation d’exploiter émise par l’ERA ou par une autorité étrangère.
+<sup>2</sup> Les véhicules admis par l’ERA ou par une autorité étrangère en vue de l’exploitation sur des tronçons interopérables ne requièrent pas d’autorisation supplémentaire de l’OFT s’ils sont intégralement spécifiés par les STI.
 
-[^15o-1]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+<sup>3</sup> Lorsqu’ils ne sont pas intégralement spécifiés par les STI, les véhicules admis par l’ERA en vue de l’exploitation sur des tronçons interopérables ne requièrent pas d’autorisation supplémentaire de l’OFT si celui-ci a confirmé à l’ERA le respect des règles nationales notifiées par la Suisse.
+
+<sup>4</sup> Pour les véhicules soumis à des dispositions nationales complémentaires, le respect des STI et des exigences nationales correspondantes n’est pas vérifié dans la mesure où il découle de l’autorisation d’exploiter ou de la vérification de l’ERA ou d’une autorité étrangère.
+
+[^15o-1]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 15p
 
@@ -898,31 +1042,39 @@ L’OFT vérifie le dossier de sécurité par sondage en fonction des risques. I
 
 **Vérifications de l’OFT relatives aux véhicules**[^15pbis-1]
 
-L’OFT vérifie, conformément à l’art. 21, par. 8, de la directive (UE) 2016/797[^15pbis-2], si le requérant a présenté tous les documents requis pour le dossier de sécurité des véhicules; en particulier:
+L’OFT vérifie, conformément à l’art. 21, par. 8, de la directive (UE) 2016/797[^15pbis-2], si le requérant a présenté tous les documents requis pour le dossier de sécurité des véhicules; en particulier:[^15pbis-3]
 
-- a. il vérifie si la demande est complète conformément à l’art. 32 du règlement d’exécution (UE) 2018/545[^15pbis-3];
+- a. il vérifie si la demande est complète conformément à l’art. 32 du règlement d’exécution (UE) 2018/545[^15pbis-4];
 - b. il évalue la demande conformément aux art. 38 à 40 ainsi qu’aux annexes II et III du règlement d’exécution (UE) 2018/545;
 - c. il classe les problèmes conformément à l’art. 41 du règlement d’exécution (UE) 2018/545 et procède, en cas de doutes fondés, selon l’art. 42 dudit règlement d’exécution;
 - d. il décide conformément aux art. 43, par. 1 à 6, et 45 à 49 du règlement d’exécution (UE) 2018/545.
 
 [^15pbis-1]: Introduit par le ch. I de l’O du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
-[^15pbis-2]: Cf. note de bas de page relative à l’art. 7, al. 4.
-[^15pbis-3]: Cf. note de bas de page relative à l’art. 6*b,* al. 2.
+[^15pbis-2]: Cf. note de bas de page relative à l’art. 6*b*, al. 2.
+[^15pbis-3]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15pbis-4]: Cf. note de bas de page relative à l’art. 6*b,* al. 2.
 
 #### Art. 15q
 
 **Décision de l’OFT**
 
-<sup>1</sup>
-
-À réception de tous les documents requis pour la demande, l’OFT statue:
-
-- a. dans les deux mois sur la demande d’autorisation d’exploiter un véhicule;
-- b. dans les quatre mois sur d’autres demandes.
+<sup>1</sup> L’OFT statue dans les quatre mois suivant la réception de tous les documents requis pour la demande.[^15q-1]
 
 <sup>2</sup> Les décisions sur les demandes d’autorisation d’exploiter un véhicule peuvent faire l’objet d’une opposition du requérant auprès de l’OFT dans un délai d’un mois. L’OFT statue sur l’opposition dans un délai de deux mois.
 
 <sup>3</sup> Si l’OFT ne statue pas sur une demande d’autorisation d’exploiter un véhicule dans un délai de cinq mois après que le requérant a déclaré que ladite demande était complète, le requérant est autorisé à mettre en service le véhicule en question.
+
+[^15q-1]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+
+#### Art. 15q<sup>bis</sup>
+
+**Non-respect des exigences essentielles**[^15qbis-1]
+
+<sup>1</sup> Si une entreprise de transport ferroviaire constate qu’un véhicule ne satisfait pas aux exigences essentielles, elle prend les mesures nécessaires.
+
+<sup>2</sup> Si elle a des raisons de supposer que le véhicule ne satisfaisait pas aux exigences avant même l’octroi de l’autorisation de mise sur le marché, elle en informe l’OFT et l’ERA.
+
+[^15qbis-1]: Introduit par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 ## Chapitre 1*b* Organismes de contrôle indépendants
 
@@ -930,7 +1082,11 @@ L’OFT vérifie, conformément à l’art. 21, par. 8, de la directive (UE) 201
 
 [^chap1b-1]: Introduit par le ch. I de l’O du 29 mai 2013, en vigueur depuis le 1<sup>er</sup> juil. 2013 ([RO 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)).
 
-### Section 1 Organismes notifiés
+### Section 1 Organismes notifiés et organismes internes accrédités
+
+[^chap1b-sec1-1]
+
+[^chap1b-sec1-1]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 15r
 
@@ -943,23 +1099,43 @@ Pour le domaine considéré, les organismes notifiés sont tenus:
 - a. d’être accrédités conformément à l’ordonnance du 17 juin 1996 sur l’accréditation et la désignation[^15r-1] et de justifier d’une assurance contre les effets de la responsabilité civile, ou
 - b. d’être reconnus par la Suisse dans le cadre d’un accord international et de justifier d’une assurance valable en Suisse contre les effets de la responsabilité civile.
 
-<sup>2</sup> Pour le reste, les art. 30 à 34 de la directive (UE) 2016/797[^15r-2] s’appliquent aux organismes notifiés.[^15r-3]
+<sup>2</sup> Au surplus, les art. 30 à 34 de la directive (UE) 2016/797[^15r-2] s’appliquent aux organismes notifiés.[^15r-3]
 
-[^15r-1]: [RS 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
-[^15r-2]: Cf. note de bas de page relative à l’art. 7, al. 4.
-[^15r-3]: Introduit par le ch. I de l’O du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+[^15r-1]: [RS 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
+[^15r-2]: Cf. note de bas de page relative à l’art. 6*b*, al. 2.
+[^15r-3]: Introduit par le ch. I de l’O du 6 nov. 2019 ([RO 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)). Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 15s
 
 **Droits et obligations**
 
-<sup>1</sup> Les organismes notifiés ont les droits et les obligations prévus aux art. 34, 41 et 42 ainsi qu’à l’annexe IV de la directive (UE) 2016/797[^15s-1], dans les STI et dans la décision 2010/713/UE[^15s-2].[^15s-3]
+<sup>1</sup>
+
+Les organismes notifiés ont les droits et les obligations prévus:
+
+- a. aux art. 34, 36, par. 1, 41 et 42 ainsi qu’à l’annexe IV de la directive (UE) 2016/797[^15s-1];
+- b. à l’art. 34, par. 6, du règlement (UE) 2016/796[^15s-2];
+- c. dans les STI, et
+- d. dans la décision 2010/713/UE[^15s-3].[^15s-4]
+
+<sup>1bis</sup> Ils participent aux travaux du groupe sectoriel visé à l’art. 44 de la directive (UE) 2016/797.[^15s-5]
 
 <sup>2</sup> Dans les cas explicitement prévus, ils informent immédiatement l’OFT de la restriction, de la suspension, de la suppression ou du refus d’octroi d’attestations de conformité et de la mise en circulation de constituants d’interopérabilité ou de sous-systèmes non conformes.
 
-[^15s-1]: Cf. note de bas de page relative à l’art. 7, al. 4.
-[^15s-2]: Cf. note de bas de page relative à l’art. 15*j*, al. 1.
-[^15s-3]: Nouvelle teneur selon le ch. I de l’O du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+[^15s-1]: Cf. note de bas de page relative à l’art. 6*b*, al. 2.
+[^15s-2]: Règlement (UE) 2016/796 du Parlement européen et du Conseil du 11 mai 2016 relatif à l’Agence de l’Union européenne pour les chemins de fer et abrogeant le règlement (CE) n<sup>o</sup> 881/2004, JO L 138 du 26.5.2016, p. 1.
+[^15s-3]: Cf. note de bas de page relative à l’art. 15*e*<sup>bis</sup>, let. c.
+[^15s-4]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15s-5]: Introduit par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+
+#### Art. 15s<sup>bis</sup>
+
+**Organismes internes accrédités**[^15sbis-1]
+
+Les exigences et les obligations applicables aux organismes internes accrédités sont régies par l’art. 35 de la directive (UE) 2016/797[^15sbis-2].
+
+[^15sbis-1]: Introduit par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15sbis-2]: Cf. note de bas de page relative à l’art. 6*b*, al. 2.
 
 ### Section 2 Organismes d’évaluation des risques, organismes désignés et experts
 
@@ -980,8 +1156,8 @@ Pour le domaine considéré, les organismes notifiés sont tenus:
 [^15t-1]: Cf. note de bas de page relative à l’art. 5*g*.
 [^15t-2]: Nouvelle teneur selon le ch. I de l’O du 12 juin 2020, en vigueur depuis le 1<sup>er</sup> nov. 2020 ([RO 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
 [^15t-3]: Introduit par le ch. I de l’O du 6 nov. 2019 ([RO 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)). Nouvelle teneur selon le ch. I de l’O du 12 juin 2020, en vigueur depuis le 1<sup>er</sup> nov. 2020 ([RO 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
-[^15t-4]: Cf. note de bas de page relative à l’art. 7, al. 4.
-[^15t-5]: Introduit par le ch. I de l’O du 12 juin 2020, en vigueur depuis le 1<sup>er</sup> nov. 2020 ([RO 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
+[^15t-4]: Cf. note de bas de page relative à l’art. 6*b*, al. 2.
+[^15t-5]: Introduit par le ch. I de l’O du 12 juin 2020 ([RO 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)). Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 15u
 
@@ -993,36 +1169,39 @@ Pour le domaine considéré, les organismes notifiés sont tenus:
 
 <sup>3</sup> Les organismes d’évaluation des risques doivent en outre satisfaire aux exigences du chap. 4.1 de la norme ISO/IEC 17020:2012[^15u-1].[^15u-2]
 
-[^15u-1]: ISO/IEC 17020:2012 Évaluation de la conformité – Exigences pour le fonctionnement de différents types d’organismes procédant à l’inspection. La norme peut être obtenue contre paiement auprès de l’Association suisse de normalisation, Sulzerallee 70, 8404 Winterthour; www.snv.ch.
+[^15u-1]: ISO/IEC 17020:2012 Évaluation de la conformité – Exigences pour le fonctionnement de différents types d’organismes procédant à l’inspection. La norme peut être obtenue contre paiement auprès de l’Association suisse de normalisation, Sulzerallee 70, 8404 Winterthour; [www.snv.ch](http://www.snv.ch).
 [^15u-2]: Nouvelle teneur selon le ch. I de l’O du 12 juin 2020, en vigueur depuis le 1<sup>er</sup> nov. 2020 ([RO 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
 
 #### Art. 15u<sup>bis</sup>
 
 **Obligations des organismes désignés**[^15ubis-1]
 
-Les organismes désignés ont les obligations prévues à l’art. 45, par. 2 et 3, de la directive (UE) 2016/797[^15ubis-2].
+Les organismes désignés ont les obligations prévues à l’art. 45, par. 2 et 3, de la directive (UE) 2016/797[^15ubis-2].[^15ubis-3]
 
 [^15ubis-1]: Introduit par le ch. I de l’O du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
-[^15ubis-2]: Cf. note de bas de page relative à l’art. 7, al. 4.
+[^15ubis-2]: Cf. note de bas de page relative à l’art. 6*b*, al. 2.
+[^15ubis-3]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 15v
 
 **Reconnaissance**
 
-<sup>1</sup> Les organismes d’évaluation des risques qui souhaitent effectuer des évaluations de la sécurité conformément à l’art. 8*c*, al. 2, peuvent demander à être reconnus par l’OFT.
+<sup>1</sup> Les organismes d’évaluation des risques qui souhaitent effectuer des évaluations de la sécurité conformément à l’art. 5*m*, al. 4, doivent être reconnus par l’OFT ou accrédités conformément à l’ordonnance du 17 juin 1996 sur l’accréditation et la désignation[^15v-1].[^15v-2]
 
 <sup>2</sup> Les organismes désignés qui établissent des attestations de conformité conformément à l’art. 15*l*, al. 2, doivent être reconnus par l’OFT.
 
 <sup>3</sup> Par sa reconnaissance, l’OFT constate que l’organisme d’évaluation des risques ou l’organisme désigné satisfait aux exigences spécialisées applicables dans des domaines définis.
 
-<sup>4</sup> La reconnaissance est valable dix ans au plus pour les organismes désignés et cinq ans au plus pour les organismes d’évaluation des risques. Elle est renouvelable aux conditions de son octroi.[^15v-1]
+<sup>4</sup> La reconnaissance est valable dix ans au plus pour les organismes désignés et cinq ans au plus pour les organismes d’évaluation des risques. Elle est renouvelable aux conditions de son octroi.[^15v-3]
 
-<sup>5</sup> Il retire la reconnaissance si les conditions de son octroi ne sont plus remplies.[^15v-2]
+<sup>5</sup> Il retire la reconnaissance si les conditions de son octroi ne sont plus remplies.[^15v-4]
 
 <sup>6</sup> Il publie une liste des organismes et de leurs domaines d’examen.
 
-[^15v-1]: Nouvelle teneur selon le ch. I de l’O du 12 juin 2020, en vigueur depuis le 1<sup>er</sup> nov. 2020 ([RO 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
-[^15v-2]: Nouvelle teneur selon le ch. I 5 de l’O du 13 mai 2020 sur l’organisation de l’infrastructure ferroviaire, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
+[^15v-1]: [RS 946.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11469)
+[^15v-2]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
+[^15v-3]: Nouvelle teneur selon le ch. I de l’O du 12 juin 2020, en vigueur depuis le 1<sup>er</sup> nov. 2020 ([RO 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
+[^15v-4]: Nouvelle teneur selon le ch. I 5 de l’O du 13 mai 2020 sur l’organisation de l’infrastructure ferroviaire, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 1915](https://fedlex.data.admin.ch/eli/oc/2020/394)).
 
 #### Art. 15w
 
@@ -1071,9 +1250,9 @@ L’OFT vérifie pour chaque projet:
 
 L’écartement des rails est le suivant:
 
-- pour les chemins de fer à voie normale: 1435 mm
-- pour les chemins de fer à voie métrique: 1000 mm (voies étroites)
-- pour les chemins de fer à voie spéciale: 1200, 800, 750 mm (voies étroites).
+- pour les chemins de fer à voie normale 1435 mm
+- pour les chemins de fer à voie métrique 1000 mm (voies étroites)
+- pour les chemins de fer à voie spéciale 1200, 800, 750 mm (voies étroites).
 
 #### Art. 17
 
@@ -1164,7 +1343,7 @@ Dans les gares, les points à partir desquels les croisements peuvent s’effect
 
 <sup>1</sup> Lorsqu’une route est construite parallèlement à une voie ferrée, ou vice versa, il faut prévoir une distance suffisante entre le bord de la chaussée et l’axe de la voie la plus proche.
 
-<sup>2</sup> ...[^23-1]
+<sup>2</sup> …[^23-1]
 
 <sup>3</sup> La voie ferrée sera délimitée de façon visible par rapport à la chaussée parallèle.
 
@@ -1253,7 +1432,7 @@ Le DETEC[^31-2] désigne les règlements, normes et cahiers des charges qui s’
 
 <sup>1</sup> Les branchements doivent garantir un guidage irréprochable ainsi qu’un roulement régulier et sans à-coups des roues de tous les véhicules.
 
-<sup>2</sup> ...[^32-1]
+<sup>2</sup> …[^32-1]
 
 [^32-1]: Abrogé par le ch. I de l’O du 4 nov. 2009, avec effet au 1<sup>er</sup> juil. 2010 ([RO 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
 
@@ -1271,18 +1450,19 @@ Le DETEC[^31-2] désigne les règlements, normes et cahiers des charges qui s’
 
 **Généralités**
 
-<sup>1</sup> Les gares seront aménagées de manière que les voies de circulation puissent être parcourues à la vitesse autorisée sur la ligne.
+<sup>1</sup> Les gares seront aménagées de manière que les voies de circulation puissent être parcourues à la vitesse autorisée sur le tronçon.[^34-1]
 
-<sup>2</sup> Dans les gares, la déclivité des voies sur lesquelles les trains sont formés ou disloqués ou sur lesquelles des véhicules sont garés ne doit pas dépasser 2 ‰.[^34-1]
+<sup>2</sup> Dans les gares, la déclivité des voies sur lesquelles les trains sont formés ou disloqués ou sur lesquelles des véhicules sont garés ne doit pas dépasser 2 ‰.[^34-2]
 
 <sup>3</sup> Les accès aux quais seront, si possible, aménagés de manière que les voyageurs ne soient pas obligés de traverser les voies.
 
-<sup>4</sup> Les quais doivent être conçus et équipés pour qu’ils puissent être utilisés en sécurité par le public.[^34-2]
+<sup>4</sup> Les quais doivent être conçus et équipés pour qu’ils puissent être utilisés en sécurité par le public.[^34-3]
 
 <sup>5</sup> Les noms des gares doivent être apposés de manière bien visible pour les voyageurs.
 
-[^34-1]: Erratum du 15 mai 2018 ([RO 2018 1861](https://fedlex.data.admin.ch/eli/oc/2018/282)).
-[^34-2]: Nouvelle teneur selon le ch. I de l’O du 4 nov. 2009, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
+[^34-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
+[^34-2]: Erratum du 15 mai 2018 ([RO 2018 1861](https://fedlex.data.admin.ch/eli/oc/2018/282)).
+[^34-3]: Nouvelle teneur selon le ch. I de l’O du 4 nov. 2009, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
 
 #### Art. 35
 
@@ -1340,16 +1520,16 @@ Les dérogations suivantes sont possibles par rapport à l’al. 1:
 
 - a.[^37c-2] aux passages à niveau où la mise en place de barrières ou de demi-barrières génère des coûts disproportionnés et où la circulation des piétons est inexistante ou faible, les barrières ou demi-barrières peuvent être remplacées d’un côté de la voie par des signaux à feux clignotants et de l’autre par une installation de demi-barrières;
 - b.[^37c-3] aux passages à niveau où le trafic routier est faible, on admet des installations de signaux à feux clignotants ou des installations de barrières à ouverture sur demande;
-- [tab] b<sup>bis</sup>.[^37c-4] les passages à niveau situés sur des tronçons à voie unique où le trafic routier est très faible et où les conditions de visibilité sont suffisantes peuvent être équipés d’installations de signaux lumineux sans barrière qui assurent l’arrêt du trafic routier de façon sûre en cas de défaillance;
+- b<sup>bis</sup>.[^37c-4] les passages à niveau situés sur des tronçons à voie unique où le trafic routier est très faible et où les conditions de visibilité sont suffisantes peuvent être équipés d’installations de signaux lumineux sans barrière qui assurent l’arrêt du trafic routier de façon sûre en cas de défaillance;
 - c.[^37c-5]
 
   si les conditions de visibilité sont suffisantes ou si les véhicules ferroviaires émettent des signaux d’avertissement appropriés en cas de conditions de visibilité temporairement insuffisantes, les passages à niveau peuvent être signalés par des croix de Saint-André seules à condition que:
 
-  - 1\. la route ou le chemin ne soit ouverts qu’à la circulation des piétons et que celle-ci soit faible, ou que
+  - 1\. la route ou le chemin ne soit ouvert qu’à la circulation des piétons et que celle-ci soit faible, ou que
   - 2\. la circulation routière soit faible et le trafic ferroviaire lent, ou que
   - 3\. la route ou le chemin serve exclusivement à l’exploitation agricole (chemin agricole), qu’elle ne desserve pas de bien-fonds habité et qu’elle ne soit ouverte, vu la signalisation, qu’à un cercle limité de personnes; le gestionnaire de l’infrastructure doit instruire ces personnes en la matière;
 
-- d.[^37c-6] aux passages à niveau qui sont parcourus selon les dispositions d’exploitation des tramways formulées dans les prescriptions suisses de circulation des trains, il est suffisant de poser le signal «Tramway ou chemin de fer routier» visé à l’art. 10, al. 4, de l’ordonnance du 5 septembre 1979 sur la signalisation routière[^37c-7]; si nécessaire, ce signal doit être complété par des installations de signaux lumineux ;
+- d.[^37c-6] aux passages à niveau qui sont parcourus selon les dispositions d’exploitation des tramways formulées dans les prescriptions suisses de circulation des trains, il est suffisant de poser le signal «Tramway ou chemin de fer routier» visé à l’art. 10, al. 4, de l’ordonnance du 5 septembre 1979 sur la signalisation routière[^37c-7]; si nécessaire, ce signal doit être complété par des installations de signaux lumineux;
 - e.[^37c-8] lorsque les voies servent uniquement aux mouvements de manœuvre, aucun signal ni installation n’est nécessaire si la circulation routière est réglée par le personnel d’exploitation lors de l’exécution de mouvements de manœuvre.
 
 <sup>4</sup>
@@ -1361,7 +1541,7 @@ Au lieu de signaux à feux clignotants, des signaux lumineux peuvent être utili
 
 <sup>4bis</sup> Aux passages à niveau munis de demi-barrières, les signaux à feux clignotants peuvent être complétés par des signaux lumineux à condition que le passage à niveau se trouve à une intersection où le trafic routier est réglé par des signaux lumineux.[^37c-10]
 
-<sup>5</sup> ...[^37c-11]
+<sup>5</sup> …[^37c-11]
 
 <sup>6</sup> La pose des signaux avancés et des marques routières nécessaires pour garantir la sécurité du passage à niveau est régie par l’OSR.
 
@@ -1371,7 +1551,7 @@ Au lieu de signaux à feux clignotants, des signaux lumineux peuvent être utili
 [^37c-4]: Introduite par le ch. I de l’O du 4 nov. 2009, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
 [^37c-5]: Nouvelle teneur selon le ch. I de l’O du 4 nov. 2009, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
 [^37c-6]: Introduite par le ch. I de l’O du 19 sept. 2014, en vigueur depuis le 1<sup>er</sup> nov. 2014 ([RO 2014 3169](https://fedlex.data.admin.ch/eli/oc/2014/534)).
-[^37c-7]: [RS 741.21](https://fedlex.data.admin.ch/eli/cc/1979/1961_1961_1961)
+[^37c-7]: [RS 741.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8639)
 [^37c-8]: Introduite par le ch. I de l’O du 19 sept. 2014, en vigueur depuis le 1<sup>er</sup> nov. 2014 ([RO 2014 3169](https://fedlex.data.admin.ch/eli/oc/2014/534)).
 [^37c-9]: Nouvelle teneur selon le ch. I de l’O du 4 nov. 2009, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
 [^37c-10]: Introduit par le ch. I de l’O du 4 nov. 2009, en vigueur depuis le 1<sup>er</sup> juil. 2010 ([RO 2009 5991](https://fedlex.data.admin.ch/eli/oc/2009/733)).
@@ -1398,7 +1578,7 @@ Les art. 38 et 39 s’appliquent aux installations de commande et de protection 
 Si la suppression d’un passage à niveau entraîne l’impraticabilité d’une partie du réseau de chemins pédestres inscrit dans les plans cantonaux, le remplacement se fait conformément à l’art. 7 de la loi fédérale du 4 octobre 1985 sur les chemins pour piétons et les chemins de randonnée pédestre[^37f-2].
 
 [^37f-1]: Nouvelle teneur selon le ch. I de l’O du 19 sept. 2014, en vigueur depuis le 1<sup>er</sup> nov. 2014 ([RO 2014 3169](https://fedlex.data.admin.ch/eli/oc/2014/534)).
-[^37f-2]: [RS 704](https://fedlex.data.admin.ch/eli/cc/1986/2506_2506_2506)
+[^37f-2]: [RS 704](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8359)
 
 ### Section 7 Installations de sécurité et applications télématiques
 
@@ -1530,7 +1710,7 @@ Les dispositions de la présente ordonnance et ses dispositions d’exécution s
 - d. installations de retour du courant de traction et de mise à la terre;
 - e.[^44-2] autres installations électriques spécifiquement ferroviaires;
 - f. technique de protection et installations de la technique de télésurveillance et d’acquisition de données;
-- g.[^44-3] ...
+- g.[^44-3] …
 
 [^44-1]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 [^44-2]: Nouvelle teneur selon le ch. I de l’O du 12 juin 2020, en vigueur depuis le 1<sup>er</sup> nov. 2020 ([RO 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
@@ -1552,7 +1732,7 @@ Les dispositions de la présente ordonnance et ses dispositions d’exécution s
 
 **Exploitation et entretien des installations électriques**[^46-1]
 
-<sup>1</sup> L’exploitant responsable d’une installation électrique (exploitant) en garantit l’exploitation en toute sécurité et l’entretien ; il garantit également l’exploitation en toute sécurité et l’entretien des équipements électriques requis à cet effet.
+<sup>1</sup> L’exploitant responsable d’une installation électrique (exploitant) en garantit l’exploitation en toute sécurité et l’entretien; il garantit également l’exploitation en toute sécurité et l’entretien des équipements électriques requis à cet effet.
 
 <sup>2</sup> Il rend tous les documents de service techniques nécessaires à l’exploitation de l’installation accessibles de manière appropriée et veille à leur praticabilité ainsi qu’à leur convivialité. Sur demande, il les met à la disposition de l’OFT. Les documents de service qui s’écartent des prescriptions souveraines doivent être présentés pour approbation à l’OFT au moins trois mois avant l’entrée en vigueur prévue.[^46-2]
 
@@ -1573,9 +1753,11 @@ Les dispositions de la présente ordonnance et ses dispositions d’exécution s
 
 #### Art. 47
 
-<sup>1</sup> Les véhicules doivent être conçus, construits, exploités et entretenus de façon à permettre une exploitation ferroviaire sûre et fiable sur l’infrastructure en question.
+<sup>1</sup> Les véhicules doivent être conçus, construits, exploités et entretenus de façon à permettre, sur l’infrastructure en question, une exploitation ferroviaire sûre, fiable et limitant l’usure.[^47-1]
 
 <sup>2</sup> Le gabarit des véhicules et des chargements se détermine d’après le contour de référence prévu à l’annexe 1.
+
+[^47-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
 
 ### Section 2 Véhicules interopérables
 
@@ -1603,7 +1785,9 @@ Les dispositions de la présente ordonnance et ses dispositions d’exécution s
 
 <sup>1</sup> Les éléments et les systèmes électriques des véhicules doivent être conçus, construits, exploités et entretenus de sorte que les personnes et les objets ne soient pas mis en danger dans des conditions d’exploitation conformes aux prescriptions ou en cas de perturbations prévisibles.
 
-<sup>2</sup> Les véhicules moteurs et les voitures de commande doivent être équipés d’un dispositif de sécurité. Ils doivent être coordonnés avec les installations de sécurité et les applications télématiques. Les exigences applicables aux installations de sécurité et aux applications télématiques à bord des véhicules sont régies par les art. 38 et 39.
+<sup>2</sup> Les véhicules moteurs et les voitures de commande doivent être équipés d’un dispositif de sécurité et d’un système de contrôle de la marche des trains. Ils doivent être coordonnés avec les installations de sécurité et les applications télématiques. Les exigences applicables aux installations de sécurité et aux applications télématiques à bord des véhicules sont régies par les art. 38 et 39.[^50-1]
+
+[^50-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
 
 #### Art. 51
 
@@ -1621,9 +1805,11 @@ Les dispositions de la présente ordonnance et ses dispositions d’exécution s
 
 <sup>2</sup> L’effort de freinage doit être fixé en fonction du coefficient moyen d’adhérence existant entre la roue et le rail.
 
-<sup>3</sup> L’action du frein ne doit pas être entravée par l’usure, le jeu ni d’autres systèmes. Elle doit être vérifiable à l’arrêt.
+<sup>3</sup> L’action du frein ne doit pas être entravée par l’usure, le jeu ni d’autres systèmes. Les freins doivent être vérifiables à l’arrêt.[^52-1]
 
 <sup>4</sup> Un frein d’immobilisation doit empêcher une dérive inopinée des véhicules.
+
+[^52-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
 
 #### Art. 53
 
@@ -1641,7 +1827,12 @@ Les dispositions de la présente ordonnance et ses dispositions d’exécution s
 
 **Exigences spéciales pour les chemins de fer à crémaillère**
 
-<sup>1</sup> La sécurité des véhicules et des convois des chemins de fer à crémaillère contre le risque de déraillement doit être garantie dans tous les cas extrêmes pouvant se produire sur l’ensemble de la ligne.
+<sup>1</sup>
+
+La sécurité des véhicules et des convois des chemins de fer à crémaillère contre le risque de déraillement doit être garantie dans tous les cas extrêmes pouvant se produire sur l’ensemble du tronçon. Il y a lieu de respecter notamment les exigences concernant:
+
+- a. la sécurité anti-déraillement;
+- b. l’engrènement.[^54-1]
 
 <sup>2</sup>
 
@@ -1665,6 +1856,8 @@ Le DETEC fixe les exigences spéciales auxquelles doivent satisfaire:
   - 5\. des trains à traction multiple;
 
 - c. les dispositifs de sécurité des convois.
+
+[^54-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
 
 #### Art. 55
 
@@ -1745,9 +1938,11 @@ La dotation des gares en personnel d’exploitation dépend des exigences en mat
 
 #### Art. 74
 
-**Exclusion des personnes étrangères au service**
+**Exclusion des personnes étrangères au service**[^74-1]
 
-Seul le personnel chargé du service, des contrôles ou des travaux d’entretien est autorisé à se trouver sur les lieux de travail importants du point de vue de la sécurité, tels que cabines de conduite, postes d’enclenchement et locaux d’appareillage. Toute dérogation implique une autorisation expresse de l’entreprise.
+Seul le personnel chargé du service, des contrôles ou des travaux d’entretien est autorisé à se trouver sur les lieux d’intervention importants du point de vue de la sécurité, tels que les postes de travail du personnel ferroviaire, les locaux techniques et les cabines de conduite. Toute dérogation implique une autorisation expresse de l’entreprise.
+
+[^74-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
 
 ### Section 2 Formation et conduite des trains
 
@@ -1769,32 +1964,37 @@ Seul le personnel chargé du service, des contrôles ou des travaux d’entretie
 
 La vitesse de marche maximale est fixée en fonction des données suivantes:
 
-- a. les caractéristiques de la ligne;
+- a.[^76-2] les caractéristiques du tronçon;
 - b. les installations de sécurité et les branchements;
 - c. les caractéristiques des véhicules;
 - d. la formation du train;
 - e. les freins;
 - f. les conditions d’exploitation.
 
-<sup>2</sup> Le DETEC fixe dans les dispositions d’exécution (notamment en fonction de la pente, des installations et des véhicules) les vitesses maximales admises en général.[^76-2]
+<sup>2</sup> Le DETEC fixe les vitesses maximales admises en général sur les tronçons non interopérables.[^76-3]
 
-<sup>3</sup> En outre, les prescriptions sur la circulation des trains édictées par l’OFT en vertu de l’art. 17, al. 3, LCdF et les prescriptions d’exploitation du gestionnaire d’infrastructure et de l’entreprise ferroviaire sont déterminantes pour la vitesse maximale par train ou mouvement de manœuvre durant l’exploitation.[^76-3]
+<sup>3</sup> En outre, les prescriptions sur la circulation des trains édictées par l’OFT en vertu de l’art. 17, al. 3, LCdF et les prescriptions d’exploitation du gestionnaire d’infrastructure et de l’entreprise ferroviaire sont déterminantes pour la vitesse maximale par train ou mouvement de manœuvre durant l’exploitation.[^76-4]
 
 [^76-1]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
-[^76-2]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
-[^76-3]: Introduit par le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+[^76-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
+[^76-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
+[^76-4]: Introduit par le ch. I de l’O du 16 nov. 2011, en vigueur depuis le 1<sup>er</sup> juil. 2012 ([RO 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 
 #### Art. 77
 
 **Freins**
 
-<sup>1</sup> Le bon fonctionnement du frein automatique sera contrôlé après la formation de chaque train et, en règle générale, après chaque modification ultérieure de la composition du train.
+<sup>1</sup> Le bon fonctionnement du frein automatique sera contrôlé après la formation de chaque train et après chaque modification ultérieure de la composition du train.[^77-1]
 
 <sup>2</sup> L’action des freins doit répondre aux exigences de l’exploitation.
 
-<sup>3</sup> à <sup>5</sup> ...[^77-1]
+<sup>3</sup> Le DETEC fixe les règles concernant les freins sur les tronçons non interopérables.[^77-2]
 
-[^77-1]: Abrogés par le ch. I de l’O du 16 nov. 2011, avec effet au 1<sup>er</sup> juil. 2012 ([RO 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
+<sup>4 et <sup>5</sup></sup> …[^77-3]
+
+[^77-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
+[^77-2]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
+[^77-3]: Abrogés par le ch. I de l’O du 16 nov. 2011, avec effet au 1<sup>er</sup> juil. 2012 ([RO 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)).
 
 #### Art. 78
 
@@ -1830,9 +2030,9 @@ L’accompagnement des trains dépend de l’équipement technique des véhicule
 
 **Dispositions d’exécution**[^81-1]
 
-Le DETEC édicte les dispositions d’exécution. Ce faisant, il tient également compte des exigences spécifiques aux voies de raccordement.
+L’OFT édicte des dispositions d’exécution techniques et d’exploitation. Ce faisant il tient compte des exigences spécifiques aux voies de raccordement.
 
-[^81-1]: Nouvelle teneur selon l’annexe ch. II 5 de l’O du 25 mai 2016 sur le transport de marchandises, en vigueur depuis le 1<sup>er</sup> juil. 2016 ([RO 2016 1859](https://fedlex.data.admin.ch/eli/oc/2016/329)).
+[^81-1]: Nouvelle teneur selon le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 82
 
@@ -1846,11 +2046,11 @@ Sont abrogées:
 - d. l’ordonnance du 19 février 1929[^82-4] fixant la vitesse maximum des trains sur les chemins de fer principaux;
 - e. l’ordonnance du 24 avril 1929[^82-5] concernant l’introduction du frein continu pour trains de marchandises sur les réseaux des Chemins de fer fédéraux et des chemins de fer privés à voie normale.
 
-[^82-1]: [RS **7** 122]
-[^82-2]: [RS **7** 43]
-[^82-3]: [RS **7** 84]
-[^82-4]: [RS **7** 89]
-[^82-5]: [RS **7** 42]
+[^82-1]: [[RS 7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8349)122]
+[^82-2]: [[RS 7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8349)43]
+[^82-3]: [[RS 7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8349)84]
+[^82-4]: [[RS 7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8349)89]
+[^82-5]: [[RS 7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8349)42]
 
 #### Art. 83
 
@@ -1917,7 +2117,7 @@ Il y a lieu de présenter le premier rapport annuel visé à l’art. 5*g* lorsq
 
 <sup>2</sup> Les véhicules à voie normale peuvent être admis jusqu’au 31 décembre 2017 conformément aux prescriptions applicables en vue de leur utilisation sur des tronçons non interopérables.
 
-<sup>3</sup> ...[^83e-2]
+<sup>3</sup> …[^83e-2]
 
 <sup>4</sup> L’OFT peut reconnaître des attestations de conformité visées à l’art. 15*k*, établies par des organismes étrangers d’évaluation de la conformité avant l’entrée en vigueur d’accords internationaux.
 
@@ -1943,7 +2143,7 @@ Il y a lieu de présenter le premier rapport annuel visé à l’art. 5*g* lorsq
 <sup>4</sup> Aux passages à niveau où les conditions de visibilité sont insuffisantes, il y a lieu de prendre sans délai toutes les mesures proportionnées visant à réduire les risques. Ces mesures ne sont pas soumises à l’obligation de présenter une demande de dérogation conformément à l’art. 5, al. 2.
 
 [^83f-1]: Introduit par le ch. I de l’O du 19 sept. 2014, en vigueur depuis le 1<sup>er</sup> nov. 2014 ([RO 2014 3169](https://fedlex.data.admin.ch/eli/oc/2014/534)).
-[^83f-2]: [RS 742.142.1](https://fedlex.data.admin.ch/eli/cc/2000/124)
+[^83f-2]: [RS 742.142.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8760)
 
 #### Art. 83g
 
@@ -1951,12 +2151,13 @@ Il y a lieu de présenter le premier rapport annuel visé à l’art. 5*g* lorsq
 
 <sup>1</sup> Les véhicules qui étaient en exploitation en Suisse le 1<sup>er</sup> janvier 1999 sont considérés comme homologués et sont intégrés au registre visé à l’art. 5*i*.[^83g-2]
 
-<sup>2</sup> Les véhicules moteurs à convertisseur de fréquences doivent être transformés d’ici au 31 décembre 2021 de sorte qu’ils aient un comportement passif par rapport au réseau de courant de traction à une fréquence supérieure à 87 Hertz.
+<sup>2</sup> …[^83g-3]
 
 <sup>3</sup> L’OFT met en place le registre de l’infrastructure visé à l’art. 15*f* d’ici au 30 juin 2017. Les gestionnaires d’infrastructure doivent y saisir les indications requises d’ici au 15 mars 2018.
 
 [^83g-1]: Introduit par le ch. I de l’O du 18 nov. 2015, en vigueur depuis 1<sup>er</sup> janv. 2016 pour l’al. 3 et le 1<sup>er</sup> juil. 2016 pour les al. 1 et 2 ([RO 2015 4961](https://fedlex.data.admin.ch/eli/oc/2015/811)).
 [^83g-2]: Erratum du 18 oct. 2016 ([RO 2016 3537](https://fedlex.data.admin.ch/eli/oc/2016/594)).
+[^83g-3]: Abrogé par le ch. I de l’O du 1<sup>er</sup> mai 2024, avec effet au 1<sup>er</sup> juil. 2024 ([RO 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
 
 #### Art. 83h
 
@@ -1966,19 +2167,28 @@ Il y a lieu de présenter le premier rapport annuel visé à l’art. 5*g* lorsq
 
 <sup>2</sup> Tant que le gestionnaire d’infrastructure n’a pas inscrit dans le registre de l’infrastructure les indications requises pour l’accès au réseau en vertu de l’art. 15*f,* al. 2, il doit vérifier la compatibilité des véhicules avec l’infrastructure concernée, sur la base des données mises à disposition par l’entreprise de transport ferroviaire. Il effectue cette vérification gratuitement dans les dix jours ouvrables et indique à l’entreprise de transport ferroviaire quels sont les véhicules compatibles avec l’infrastructure concernée.
 
-<sup>3</sup> Les demandes d’autorisation d’exploiter des véhicules remises le 15 juin 2020 au plus tard sont, sur demande, évaluées sur la base des dispositions en vigueur jusqu’au 30 novembre 2019, si cela est nécessaire à l’octroi d’une autorisation d’exploiter étrangère.
-
-<sup>4</sup> Les demandes de certificat de sécurité remises le 15 juin 2020 au plus tard sont, sur demande, évaluées sur la base des dispositions en vigueur jusqu’au 30 novembre 2019, si l’entreprise ferroviaire est titulaire d’un certificat de sécurité étranger.
+<sup>3 et <sup>4</sup></sup> …[^83h-2]
 
 [^83h-1]: Introduit par le ch. I de l’O du 6 nov. 2019, en vigueur depuis le 1<sup>er</sup> déc. 2019 ([RO 2019 3571](https://fedlex.data.admin.ch/eli/oc/2019/656)).
+[^83h-2]: Abrogés par le ch. I de l’O du 10 avr. 2024, avec effet au 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
 #### Art. 83i
 
 **Disposition transitoire relative à la modification du 12 juin 2020**[^83i-1]
 
-<sup>1</sup> La reconnaissance des organismes d’évaluation des risques octroyée avant le 1<sup>er</sup> novembre 2020 est valable jusqu’au 31 juillet 2022.
+La reconnaissance des organismes d’évaluation des risques octroyée avant le 1<sup>er</sup> novembre 2020 est valable jusqu’au 31 juillet 2022.
 
 [^83i-1]: Introduit par le ch. I de l’O du 12 juin 2020, en vigueur depuis le 1<sup>er</sup> nov. 2020 ([RO 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
+
+#### Art. 83j
+
+**Dispositions transitoires relatives à la modification du 1<sup>er</sup> mai 2024**[^83j-1]
+
+<sup>1</sup> Les véhicules moteurs équipés de convertisseurs de fréquences doivent être transformés d’ici au 31 décembre 2025 de sorte qu’ils aient un comportement passif par rapport au réseau de courant de traction à une fréquence supérieure à 87 Hertz.
+
+<sup>2</sup> Les fonctions importantes pour la sécurité des véhicules existants des chemins de fer à crémaillère doivent être conçues ou mises à niveau de manière redondante avant le 30 juin 2026, dans la mesure où cela est techniquement réalisable.
+
+[^83j-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
 
 #### Art. 84
 
@@ -2001,7 +2211,7 @@ Légende:
 </table>
 
 <table>
-<tr><td>Ce dessin ne tient pas compte des espaces supplémentaires selon l’art. 18, al. 4.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902/20240101/fr/xml/image/image1.png)</td></tr>
+<tr><td>Ce dessin ne tient pas compte des espaces supplémentaires selon l’art. 18, al. 4.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902/20240701/fr/xml/image/image1.png)</td></tr>
 </table>
 
 Annexe 2[^t-2]
@@ -2127,33 +2337,33 @@ Wohlen–Villmergen
 
 Annexe 6[^t-6]
 
-(art. 15*a*, al. 2)
+(art. 15*a*, al. 2, 15*d*, al. 1, 15*k*, al. 3, 15*l*, al. 1)
 
 ## Réseau principal interopérable
 
-[^t-6]: Introduite par le ch. II al. 2 de l’O du 29 mai 2013 ([RO 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)). Nouvelle teneur selon le ch. II al. 1 de l’O du 12 juin 2020, en vigueur depuis le 1<sup>er</sup> nov. 2020 ([RO 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
+[^t-6]: Introduite par le ch. II al. 2 de l’O du 29 mai 2013 ([RO 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)). Nouvelle teneur selon le ch. II al. 1 de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
 
 Lausanne–Vevey
 
-Vevey–Les Paluds (bif)–St-Maurice
+Vevey–Les Paluds (bif.)–St-Maurice
 
 St-Maurice–Martigny
 
-Martigny–Sierre–St. German (bif)
+Martigny–Sierre–St. German (bif.)
 
-St. German (bif)–Visp–Brig
+St. German (bif.)–Visp–Brig
 
-Brig–Grenze–Iselle (–Domodossola)
+Brig–frontière–Iselle (–Domodossola)
 
-Genève-Aéroport–St-Jean (bif)
+Genève-Aéroport–St-Jean (bif.)
 
-St-Jean (bif)-Genève
+St-Jean (bif.)-Genève
 
-St-Jean (bif)–Jonction (bif)–Chêne-Bougeries (frontière)
+St-Jean (bif.)–Jonction (bif.)–Chêne-Bougeries (frontière)
 
-Genève–Châtelaine (bif)–La Plaine-Front. (–Bellegarde)
+Genève–Châtelaine (bif.)–La Plaine–frontière (–Bellegarde)
 
-Châtelaine (bif)–Jonction (bif)
+Châtelaine (bif.)–Jonction (bif.)
 
 Genève–Genève-Eaux-Vives–Chêne-Bougeries (frontière)
 
@@ -2171,23 +2381,23 @@ Lausanne-Triage–Renens VD
 
 Lausanne-Triage–Bussigny
 
-Daillens (bif)–Le Day
+Daillens (bif.)–Le Day
 
 Le Day–Vallorbe
 
-Vallorbe–Front. (–Frasne)
+Vallorbe–frontière (–Frasne)
 
-Denges-Echandens–Lécheires (bif)
+Denges-Echandens–Lécheires (bif.)
 
-Lécheires (bif)–Bussigny
+Lécheires (bif.)–Bussigny
 
 Renens VD–Lausanne Sébeillon–Lausanne
 
 Renens VD–Bussigny
 
-Bussigny–Cossonay–Daillens (bif)
+Bussigny–Cossonay–Daillens (bif.)
 
-Daillens (bif)–Chavornay
+Daillens (bif.)–Chavornay
 
 Chavornay–Yverdon
 
@@ -2199,7 +2409,7 @@ Neuchâtel-Vauseyon–Neuchâtel
 
 Neuchâtel–Cornaux–Biel/Bienne
 
-Basel SBB–Ruchfeld (bif)
+Basel SBB–Ruchfeld (bif.)
 
 Lausanne–Puidoux
 
@@ -2215,33 +2425,33 @@ Flamatt–Bern Weyermannshaus–Bern
 
 Biel/Bienne–Biel/Bienne RB
 
-Biel/Bienne RB–Biel Mett (bif)
+Biel/Bienne RB–Biel Mett (bif.)
 
-Bern–Bern Wylerfeld–Wankdorf (bif)–Ostermundigen
+Bern–Bern Wylerfeld–Wankdorf (bif.)–Ostermundigen
 
 Ostermundigen–Gümligen
 
 Gümligen–Thun
 
-Löchligut (bif)–Wankdorf (bif)–Ostermundigen
+Löchligut (bif.)–Wankdorf (bif.)–Ostermundigen
 
-Spiez–Wengi-Ey (bif)
+Spiez–Wengi-Ey (bif.)
 
-Wengi-Ey (bif)–Frutigen
+Wengi-Ey (bif.)–Frutigen
 
 Frutigen–Lötschberg-Tunnel–Brig
 
-Wengi-Ey (bif)–Frutigen Nordportal (bif)
+Wengi-Ey (bif.)–Frutigen Nordportal (bif.)
 
-Frutigen Nordportal (bif)–Lötschberg-Basistunnel–St. German (bif)
+Frutigen Nordportal (bif.)–Lötschberg-Basistunnel–St. German (bif.)
 
-Frutigen–Frutigen Nordportal (bif)
+Frutigen–Frutigen Nordportal (bif.)
 
 Thun–Spiez
 
-Biel/Bienne–Biel Mett (bif)
+Biel/Bienne–Biel Mett (bif.)
 
-Biel Mett (bif)–Lengnau
+Biel Mett (bif.)–Lengnau
 
 Lengnau–Solothurn West
 
@@ -2253,15 +2463,15 @@ Niederbipp–Oensingen
 
 Oensingen–Olten
 
-Solothurn–Ausbaustrecke–Wanzwil (bif)
+Solothurn–Ausbaustrecke–Wanzwil (bif.)
 
-Bern–Bern Wylerfeld–Löchligut (bif)
+Bern–Bern Wylerfeld–Löchligut (bif.)
 
-Löchligut (bif)–Zollikofen
+Löchligut (bif.)–Zollikofen
 
-Zollikofen–Mattstetten (bif)
+Zollikofen–Mattstetten (bif.)
 
-Mattstetten (bif)–Burgdorf
+Mattstetten (bif.)–Burgdorf
 
 Burgdorf–Herzogenbuchsee–Langenthal
 
@@ -2269,15 +2479,15 @@ Langenthal–Rothrist
 
 Rothrist–Aarburg-Oftringen–Olten
 
-Löchligut (bif)–Grauholz-Tunnel–Äspli (bif)
+Löchligut (bif.)–Grauholz-Tunnel–Äspli (bif.)
 
-Äspli (bif)–Neubaustrecke–Wanzwil (bif)
+Äspli (bif.)–Neubaustrecke–Wanzwil (bif.)
 
-Wanzwil (bif)–Rothrist
+Wanzwil (bif.)–Rothrist
 
 Rothrist–Born-Tunnel–Olten
 
-Äspli (bif)–Mattstetten (bif)
+Äspli (bif.)–Mattstetten (bif.)
 
 Rothrist–Kriegsschleife–Zofingen
 
@@ -2289,59 +2499,61 @@ Pratteln–Liestal
 
 Liestal–Sissach
 
-Sissach–Hauenstein-Basistunnel–Olten Nord (bif)
+Sissach–Hauenstein-Basistunnel–Olten Nord (bif.)
 
-Olten Nord (bif)–Olten
+Olten Nord (bif.)–Olten
 
 Muttenz–Adler-Tunnel–Liestal
 
 Basel SBB RB–Birsfelden Hafen
 
-Basel SBB RB–Gellert (bif)–Infrastrukturgrenze SBB–Basel Bad Bf
+Basel SBB RB–Gellert (bif.)–limite infrastructurelle CFF–Basel Bad Bf
 
-Basel Bad Bf–Basel Bad Bf RB W 568
+Basel Bad Bf–Basel Bad Rbf W 568
 
-Basel Bad Bf RB W 568–Infrastrukturgrenze HBS–Basel Kleinhüningen Hafen
+Basel Bad Rbf W 568– limite infrastructurelle HBS–Basel Kleinhüningen Hafen
 
-Basel Bad Bf RB W 568–Basel Bad Rbf Staatsgrenze
+Basel Bad Rbf W 568–Basel Bad Rbf frontière
 
-Muttenz–Gellert (bif)
+Basel Bad Rbf W 575–Basel Bad Rbf groupe F frontière
+
+Muttenz–Gellert (bif.)
 
 Pratteln–Basel SBB RB
 
-Basel SBB RB–Ruchfeld (bif)
+Basel SBB RB–Ruchfeld (bif.)
 
 Basel SBB RB–Basel SBB GB
 
 Basel SBB GB–Basel SBB
 
-Ruchfeld (bif)–Basel GB
+Ruchfeld (bif.)–Basel GB
 
 Olten–Aarburg-Oftringen–Zofingen
 
 Zofingen–Sursee
 
-Sursee–Hübeli (bif)–Emmenbrücke
+Sursee–Hübeli (bif.)–Emmenbrücke
 
-Emmenbrücke–Fluhmühle (bif)–Gütsch (bif)–Luzern
+Emmenbrücke–Fluhmühle (bif.)–Gütsch (bif.)–Luzern
 
-Olten Nord (bif)–Verbindungslinie–Olten Ost (bif)–Dulliken
+Olten Nord (bif.)–ligne de liaison–Olten Ost (bif.)–Dulliken
 
 Basel SBB–Basel St. Johann
 
 Basel St. Johann–Basel St. Johann Hafen
 
-Basel St. Johann–Grenze (–St-Louis)
+Basel St. Johann–frontière (–St-Louis)
 
-Basel SBB–Gellert (bif)–Infrastrukturgrenze SBB–Basel Bad Bf
+Basel SBB–Gellert (bif.)–limite infrastructurelle CFF–Basel Bad Bf
 
-Weil am Rhein Staatsgrenze–Basel Bad Bf
+Weil am Rhein frontière–Basel Bad Bf
 
-Basel Bad Bf–Grenzach Staatsgrenze
+Basel Bad Bf–Grenzach frontière
 
-Basel Bad Bf–Riehen Staatsgrenze
+Basel Bad Bf–Riehen frontière
 
-Olten–Olten Ost (bif)–Dulliken
+Olten–Olten Ost (bif.)–Dulliken
 
 Dulliken–Aarau
 
@@ -2361,7 +2573,7 @@ Pollegio Nord–Giubiasco
 
 Giubiasco–Galleria Mte Ceneri–Taverne-Torricella
 
-S. Antonino/Giubiasco ovest–Ceneribasistunnel–Vezia (bif)
+S. Antonino/Giubiasco ovest–Galleria di base Mte Ceneri–Vezia (bif.)
 
 Taverne-Torricella–Lugano
 
@@ -2371,7 +2583,7 @@ Balerna–Chiasso
 
 Giubiasco–Cadenazzo
 
-Cadenazzo–Ranzo-S. A.–Confine (–Pino-T.–Luino)
+Cadenazzo–Ranzo-S. A.–frontière (–Pino-T.–Luino)
 
 Taverne-Torricella–Lugano Vedeggio
 
@@ -2379,15 +2591,17 @@ Balerna–Chiasso Sm
 
 Rupperswil–Lenzburg
 
-Lenzburg–Gexi (bif)
+Lenzburg–Gexi (bif.)
 
-Gexi (bif)–Othmarsingen
+Gexi (bif.)–Othmarsingen
 
-Othmarsingen–Gruemet (bif)
+Othmarsingen–Gruemet (bif.)
 
-Gruemet (bif)–Heitersberg-Tunnel–Killwangen-Spreitenbach
+Mägenwil–Birr
 
-Gexi (bif)–Hendschiken
+Gruemet (bif.)–Heitersberg-Tunnel–Killwangen-Spreitenbach
+
+Gexi (bif.)–Hendschiken
 
 Hendschiken–Wohlen
 
@@ -2399,25 +2613,25 @@ Hendschiken–Othmarsingen
 
 Othmarsingen–Lupfig
 
-Lupfig–Brugg Süd (bif)
+Lupfig–Brugg Süd (bif.)
 
-Brugg Süd (bif) –Brugg AG
+Brugg Süd (bif.) –Brugg AG
 
-Brugg Nord (bif)–Verbindungslinie–Brugg Süd (bif)
+Brugg Nord (bif.)–ligne de liaison–Brugg Süd (bif.)
 
 Thalwil–Zimmerberg-Tunnel–Sihlbrugg
 
 Sihlbrugg–Albis-Tunnel–Zug
 
-Rotkreuz–Fluhmühle (bif)–Gütsch (bif)–Luzern
+Rotkreuz–Fluhmühle (bif.)–Gütsch (bif.)–Luzern
 
 Arth-Goldau–Zug
 
 Pratteln–Stein-Säckingen
 
-Stein-Säckingen–Bözberg-Tunnel–Brugg Nord (bif)
+Stein-Säckingen–Bözberg-Tunnel–Brugg Nord (bif.)
 
-Brugg Nord (bif) –Brugg AG
+Brugg Nord (bif.) –Brugg AG
 
 Zürich Altstetten–Zürich Herdern–Zürich Vorbahnhof Nord–Zürich HB
 
@@ -2429,17 +2643,17 @@ Rangierbahnhof Limmattal–Dietikon
 
 Dietikon–Zürich Mülligen–Zürich Altstetten
 
-Zürich Altstetten–Hard (bif)–Zürich Oerlikon
+Zürich Altstetten–Hard (bif.)–Zürich Oerlikon
 
 Killwangen-Spreitenbach–Zürich Altstetten
 
 Zürich Altstetten–Zürich HB
 
-Zürich Altstetten–Zürich Hardbrücke–Zürich HB (Gl. 41-44)
+Zürich Altstetten–Zürich Hardbrücke–Zürich HB (voies 41 à 44)
 
 Zürich Altstetten–Zürich GB
 
-Zürich GB–Zürich Aussersihl (bif)
+Zürich GB–Zürich Aussersihl (bif.)
 
 Wallisellen–Zürich Oerlikon
 
@@ -2447,21 +2661,21 @@ Zürich Oerlikon–Zürich Wipkingen–Zürich HB
 
 Winterthur–Effretikon
 
-Effretikon–Hürlistein (bif) –Bassersdorf
+Effretikon–Hürlistein (bif.)–Bassersdorf
 
-Bassersdorf–Zürich Flughafen–Opfikon (bif)
+Bassersdorf–Zürich Flughafen–Opfikon (bif.)
 
-Brüttenertunnel (Bassersdorf/Dietlikon – Tössmühle (Winterthur)
+Brüttenertunnel (Bassersdorf/Dietlikon–Tössmühle [Winterthur])
 
-Opfikon (bif)–Zürich Oerlikon
+Opfikon (bif.)–Zürich Oerlikon
 
-Zürich Oerlikon–Hard (bif)–Zürich Hardbrücke–Zürich HB
+Zürich Oerlikon–Hard (bif.)–Zürich Hardbrücke–Zürich HB
 
-Effretikon–Hürlistein (bif)–Dietlikon
+Effretikon–Hürlistein (bif.)–Dietlikon
 
 Dietlikon–Wallisellen
 
-Opfikon (bif)–Kloten–Bassersdorf
+Opfikon (bif.)–Kloten–Bassersdorf
 
 Schaffhausen–Neuhausen
 
@@ -2475,15 +2689,15 @@ Oberglatt–Glattbrugg
 
 Glattbrugg–Zürich Oerlikon
 
-Zürich Oerlikon–Hard (bif)–Zürich Hardbrücke–Zürich HB (Gl. 41-44)
+Zürich Oerlikon–Hard (bif.)–Zürich Hardbrücke–Zürich HB (voies 41 à 44)
 
-Zürich Oerlikon–Weinbergtunnel–Zürich HB (Gl. 31–34 und A-Gruppe) (Durchmesserlinie)
+Zürich Oerlikon–Weinbergtunnel–Zürich HB (voies 31 à 34 et groupe A) (ligne diamétrale)
 
-Glattbrugg–Opfikon Süd (bif)–Zürich Seebach
+Glattbrugg–Opfikon Süd (bif.)–Zürich Seebach
 
-Schaffhausen–Infrastrukturgrenze Gemeinschaftsbahnhof–Thayngen Staatsgrenze
+Schaffhausen–limite infrastructurelle gare commune–Thayngen frontière
 
-St. Margrethen–Grenze (–Lustenau)
+St. Margrethen–frontière (–Lustenau)
 
 Winterthur–Winterthur Grüze–Wil
 
@@ -2497,32 +2711,48 @@ St. Gallen St. Fiden–Rorschach
 
 Rorschach–St. Margrethen
 
-Zürich HB–Zürich Aussersihl (bif)
+Zürich HB–Zürich Aussersihl (bif.)
 
-Zürich HB (Gl. 31–34 und A-Gruppe)–Kohlendreieckbrücke–Zürich Vorbahnhof–Letzigrabenbrücke–Zürich Altstetten (Durchmesserlinie)
+Zürich HB (voies 31 à 34 et groupe A)–Kohlendreieckbrücke–Zürich Vorbahnhof–Letzigrabenbrücke–Zürich Altstetten (ligne diamétrale)
 
-Zürich Aussersihl (bif)–Zürich Wiedikon
+Zürich Aussersihl (bif.)–Zürich Wiedikon
 
 Zürich Wiedikon–Thalwil
 
-- [tab] Zürich Aussersihl (bif)–Zimmerberg-Basistunnel–Litti
+Zürich Aussersihl (bif.)–Zimmerberg-Basistunnel–Litti
 
 Annexe 7[^t-7]
 
-(art. 15*b*, al. 2)
+[^t-7]: Introduite par le ch. II al. 2 de l’O du 29 mai 2013 ([RO 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)). Abrogée par le ch. II de l’O du 10 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 181](https://fedlex.data.admin.ch/eli/oc/2024/181)).
 
-## Spécifications techniques d’interopérabilité
+Annexe 8[^t-8]
 
-[^t-7]: Intoduite par le ch. II al. 2 de l’O du 29 mai 2013 ([RO 2013 1659](https://fedlex.data.admin.ch/eli/oc/2013/386)). Nouvelle teneur selon le ch. II al. 1 de l’O du 12 juin 2020, en vigueur depuis le 1<sup>er</sup> nov. 2020 ([RO 2020 2859](https://fedlex.data.admin.ch/eli/oc/2020/523)).
+(art. 8, al. 8)
 
-- 1\. Règlement (UE) n° 1299/2014 de la Commission du 18 novembre 2014 concernant les spécifications techniques d’interopérabilité relatives au sous-système *«Infrastructure»* du système ferroviaire dans l’Union européenne, JO L 356 du 12.12.2014, p. 1; modifié par le règlement d’exécution (UE) 2019/776 du 16.5.2019, JO L 139 I du 27.5.2019, p. 108.
-- 2\. Règlement (UE) n<sup>o</sup> 454/2011 de la Commission du 5 mai 2011 relatif à la spécification technique d’interopérabilité concernant le sous-système *«applications télématiques au service des voyageurs»* du système ferroviaire transeuropéen, JO L 123 du 12.5.2011, p. 11; modifié en dernier lieu par le règlement d’exécution (UE) 2019/775 du 16.5.2019, JO L 139 I du 27.5.2019, p. 103.
-- 3\. Règlement (UE) 2016/919 de la Commission du 27 mai 2016 relatif à la spécification technique d’interopérabilité concernant les sous-systèmes *«contrôle-commande et signalisation»* du système ferroviaire dans l’Union européenne, JO L 158 du 15.6.2016, p. 1; modifié par le règlement d’exécution (UE) 2019/776 du 16.5.2019, JO L 139 I du 27.5.2019, p. 108.
-- 4\. Règlement d’exécution (UE) 2019/773 de la Commission du 16 mai 2019 concernant la spécification technique d’interopérabilité relative au sous-système *«Exploitation et gestion du trafic»* du système ferroviaire au sein de l’Union européenne et abrogeant la décision 2012/757/UE, version du JO L 139 I du 27.5.2019, p. 5.
-- 5\. Règlement (UE) n<sup>o</sup> 321/2013 de la Commission du 13 mars 2013 relatif à la spécification technique d’interopérabilité concernant le sous-système *«matériel roulant – wagons pour le fret»* du système ferroviaire dans l’Union européenne et abrogeant la décision 2006/861/CE de la Commission, JO L 104 du 12.4.2013, p. 1;, modifié en dernier lieu par le règlement d’exécution (UE) 2019/776 du 16.5.2019, JO L 139 I du 27.5.2019, p. 108.
-- 6\. Règlement (UE) n<sup>o</sup> 1300/2014 de la Commission du 18 novembre 2014 sur les spécifications techniques d’interopérabilité relatives à l’accessibilité du système ferroviaire de l’Union pour les personnes handicapées et les personnes à mobilité réduite, JO L 356 du 12.12.2014, p. 110; modifié par le règlement d’exécution (UE) 2019/772 du 16.5.2019, JO L 139 I du 27.5.2019, p. 1.
-- 7\. Règlement (UE) n<sup>o</sup> 1301/2014 de la Commission du 18 novembre 2014 concernant les spécifications techniques d’interopérabilité relatives au sous-système «*énergie*» du système ferroviaire de l’Union, JO L 356 du 12.12.2014, p. 179; modifié en dernier lieu par le règlement d’exécution (UE) 2019/776 du 16.5.2019, JO L 139 I du 27.5.2019, p. 108.
-- 8\. Règlement (UE) n<sup>o</sup> 1302/2014 de la Commission du 18 novembre 2014 concernant une spécification technique d’interopérabilité relative au sous-système *«matériel roulant» – «Locomotives et matériel roulant destiné au transport de passagers»* du système ferroviaire dans l’Union européenne, JO L 356 du 12.12.2014, p. 228; modifié en dernier lieu par le règlement d’exécution (UE) 2019/776 du 16.5.2019, JO L 139 I du 27.5.2019, p. 108.
-- 9\. Règlement (UE) n° 1303/2014 de la Commission du 18 novembre 2014 concernant la spécification technique d’interopérabilité relative à la sécurité dans les tunnels ferroviaires du système ferroviaire de l’Union européenne, JO L 356 du 12.12.2014, p. 394; modifié en dernier lieu par le règlement d’exécution (UE) 2019/776 du 16.5.2019, JO L 139 I du 27.5.2019, p. 108.
-- 10\. Règlement (UE) n<sup>o</sup> 1304/2014 de la Commission du 26 novembre 2014 relatif à la spécification technique d’interopérabilité concernant le sous-système *«Matériel roulant – bruit»*, modifiant la décision 2008/232/CE et abrogeant la décision 2011/229/UE, JO L 356 du 12.12.2014, p. 421; modifié par le règlement d’exécution (UE) 2019/774 du 16.5.2019, JO L 139 I du 27.5.2019, p. 89.
-- 11\. Règlement (UE) n<sup>o</sup> 1305/2014 de la Commission du 11 décembre 2014 relatif à la spécification technique d’interopérabilité concernant le sous-système *«Applications télématiques au service du fret»* du système ferroviaire de l’Union européenne et abrogeant le règlement (CE) n<sup>o</sup> 62/2006 de la Commission, JO L 356 du 12.12.2014, p. 438; modifié en dernier lieu par le règlement d’exécution (UE) 2019/778 du 16.5.2019, JO L 139 I du 27.5.2019, p. 356.
+## Tronçons d’exploitation frontalière
+
+[^t-8]: Introduite par le ch. II al. 3 de l’O du 1<sup>er</sup> mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 201](https://fedlex.data.admin.ch/eli/oc/2024/201)).
+
+- 1\. Basel Bad Bf–frontière (–Weil am Rhein)
+- 2\. Basel Bad Bf–frontière (–Basel Bad Rbf groupe C–Basel Bad Rbf groupe A)
+- 3\. Basel Bad Bf–Basel Bad Rbf groupe F–frontière (–Weil am Rhein)
+- 4\. Basel Bad Bf–Basel SBB
+- 5\. Basel Bad Bf–Basel SBB RB
+- 6\. Basel SBB RB-tête de gare Nord–Basel St. Jakob–Basel GB–Basel SBB
+- 7\. Basel Bad Bf–frontière (–Grenzach)
+- 8\. Basel Bad Bf–frontière (–Lörrach)
+- 9\. Kreuzlingen–frontière (–Konstanz)
+- 10\. Kreuzlingen Hafen–frontière (–Konstanz)
+- 11\. Kreuzlingen–Kreuzlingen Hafen
+- 12\. Schaffhausen–frontière (–Gottmadingen)
+- 13\. Schaffhausen–frontière (–Erzingen [Baden])
+- 14\. St. Margrethen–frontière (–Lustenau)
+- 15\. Buchs SG–frontière (–Schaan-Vaduz)
+- 16\. Basel SBB–Basel St. Johann–frontière (–Saint-Louis)
+- 17\. Vallorbe–frontière (–Les Longevilles Rochejean)
+- 18\. Genève–Genève La Praille–Chêne-Bourg–frontière (–Annemasse)
+- 19\. Genève–La Plaine–frontière (–Bellegarde)
+- 20\. Genève La Praille–La Plaine–frontière (–Bellegarde)
+- 21\. Chiasso Viaggiatori–frontière (–Como/Galleria Monte Olimpino II)
+- 22\. Chiasso Smistamento–frontière (–Como/Galleria Monte Olimpino II)
+- 23\. Locarno–frontière (–Ribellasca)
