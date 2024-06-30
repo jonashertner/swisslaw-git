@@ -3,20 +3,20 @@ canton: SO
 number: "122.218"
 title: Verordnung über die Delegation der Unterschriftsberechtigung in den Departementen
 language: de
-version: 2024-01-01
-valid_until: 2024-06-30
-version_adopted: 2023-09-26
+version: 2024-07-01
+valid_until: 2024-07-31
+version_adopted: 2024-06-18
 adopted: 2004-05-25
 in_force: 2004-08-01
 url: "https://bgs.so.ch/app/de/texts_of_law/122.218"
-pdf: "https://bgs.so.ch/api/de/versions/5420/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5462/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Delegation der Unterschriftsberechtigung in den Departementen
 
-Vom 25.05.2004 (Stand 01.01.2024)
+Vom 25.05.2004 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -110,12 +110,13 @@ beschliesst:
   - 3\. Verfügungen über die Zulassung bzw. Nichtzulassung von Leistungserbringern zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung;
   - 4\. Verfügungen und Anordnungen im Bereich der ambulanten Pflege (Spitex), der Langzeitpflege (Alters- und Pflegeheime) sowie in den übrigen Belangen im Zusammenhang mit dem Alter;
   - 5\. Verfügungen und Anordnungen im Zusammenhang mit Einzelfallanerkennungen für Solothurner und Solothurnerinnen mit ausserkantonalem Heimaufenthalt;
-  - 6\. Verfügungen und Anordnungen im Suchtbereich.
+  - 6\. Verfügungen und Anordnungen im Suchtbereich;
+  - 7\. Verfügungen und Anordnungen im Zusammenhang mit dem Vollzug der Ausbildungsverpflichtung und der Gewährung von Beiträgen für Ausbildungsleistungen gemäss dem Einführungsgesetz zum Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege (EG Ausbildungsfördergesetz Pflege) vom 15. Mai 2024[^4-1].
 - c) vom Leiter oder von der Leiterin der Abteilung Kantonsärztlicher Dienst:
   - 1\. Verfügungen im Bereich der Spitalaufenthalte nach der Gesetzgebung über die Krankenversicherung;
   - 1<sup>bis</sup>. Verfügungen betreffend den ärztlichen Nachweis für eine einwandfreie Berufsausübung von Gesundheitsfachpersonen mit vollendetem 75. Altersjahr;
   - 1<sup>ter</sup>. Verfügungen im Zusammenhang mit dem Umgang mit Patientendokumentationen bei Berufsaufgabe und im Todesfall;
-  - 2\. Verfügungen nach der Epidemiengesetzgebung entsprechend den Zuständigkeiten gemäss der Verordnung über den Vollzug der eidgenössischen Epidemiengesetzgebung (kantonale Epidemienverordnung, V EpG) vom 30. April 2019[^4-1];
+  - 2\. Verfügungen nach der Epidemiengesetzgebung entsprechend den Zuständigkeiten gemäss der Verordnung über den Vollzug der eidgenössischen Epidemiengesetzgebung (kantonale Epidemienverordnung, V EpG) vom 30. April 2019[^4-2];
   - 3\. Bewilligungen von Methadonprogrammen;
   - 4\. Bewilligungen für ärztliche Verschreibung von Heroin;
   - 5\. …
@@ -125,7 +126,7 @@ beschliesst:
   - 2\. Mitteilungen betreffend die Tätigkeitsaufnahme von auskunfts- und meldepflichtigen Personen.
 - c<sup>ter</sup>) vom Leiter oder von der Leiterin der Abteilung Lebensmittelkontrolle:
   - 1\. Bewilligungen für Fumoirs;
-  - 2\. Verfügungen und Anordnungen beim Vollzug des 1. Abschnitts (Verwendung von Solarien) der Verordnung zum Bundesgesetz über den Schutz vor Gefährdungen durch nichtionisierende Strahlung und Schall (V-NISSG) vom 27. Februar 2019 [^4-2].
+  - 2\. Verfügungen und Anordnungen beim Vollzug des 1. Abschnitts (Verwendung von Solarien) der Verordnung zum Bundesgesetz über den Schutz vor Gefährdungen durch nichtionisierende Strahlung und Schall (V-NISSG) vom 27. Februar 2019 [^4-3].
 - c<sup>quater</sup>) vom Leiter oder von der Leiterin der Abteilung Gesundheitsförderung und Prävention:
   - 1\. Verfügungen und Anordnungen im Bereich der Gesundheitsförderung und Prävention, insbesondere Suchtprävention.
 - c<sup>quinquies</sup>) vom Leiter oder von der Leiterin der Abteilung Zentrale Dienste:
@@ -146,8 +147,8 @@ beschliesst:
   - 3\. Beschwerdeentscheide nach der Lebensmittelgesetzgebung;
   - 4\. Beschwerdeentscheide im Bereich der Sozialhilfe;
   - 5\. …
-  - 6\. Beschwerdeentscheide im Rahmen von § 6 Absatz 2 Buchstabe a des Justizvollzugsgesetzes[^4-3];
-  - 7\. Beschwerdeentscheide im Rahmen von § 50 Absatz 1 des Gesetzes über die Kantonspolizei[^4-4];
+  - 6\. Beschwerdeentscheide im Rahmen von § 6 Absatz 2 Buchstabe a des Justizvollzugsgesetzes[^4-4];
+  - 7\. Beschwerdeentscheide im Rahmen von § 50 Absatz 1 des Gesetzes über die Kantonspolizei[^4-5];
   - 8\. Aufsichtsbeschwerdeentscheide, für welche das Departement zuständig ist;
   - 9\. Bewilligungen zur Aussage vor Gericht.
 - d<sup>bis</sup>) vom Leiter oder von der Leiterin der Abteilung Swisslos-Fonds:
@@ -216,7 +217,7 @@ beschliesst:
 - o) …
 - p) vom Chef oder von der Chefin Amt für Justizvollzug
   - 1\. die dem Departementssekretär oder der Departementssekretärin im Amtsbereich zugewiesenen Verrichtungen;
-  - 2\. Entscheide in Anwendung von § 6 Absatz 2 Buchstabe c des Justizvollzugsgesetzes[^4-5];
+  - 2\. Entscheide in Anwendung von § 6 Absatz 2 Buchstabe c des Justizvollzugsgesetzes[^4-6];
   - 3\. die den einzelnen Leitern oder Leiterinnen der Abteilungen des Amtes zugewiesenen Verrichtungen.
 - q) von der Leitung der Justizvollzugsanstalt Solothurn, von der Leitung der Untersuchungsgefängnisse oder vom Abteilungleiter oder von der Abteilungsleiterin Bewährungshilfe:
   - 1\. Strafanträge wegen Sachbeschädigung.
@@ -227,11 +228,12 @@ beschliesst:
 
 <sup>2</sup> …
 
-[^4-1]: BGS [111.1](https://bgs.so.ch/data/111.1/de).
-[^4-2]: SR [814.711](https://db.clex.ch/link/Bund/814.711/de).
-[^4-3]: BGS [331.11](https://bgs.so.ch/data/331.11/de).
-[^4-4]: BGS [511.11](https://bgs.so.ch/data/511.11/de).
-[^4-5]: BGS [331.11](https://bgs.so.ch/data/331.11/de).
+[^4-1]: BGS [811.17](https://bgs.so.ch/data/811.17/de).
+[^4-2]: BGS [111.1](https://bgs.so.ch/data/111.1/de).
+[^4-3]: SR [814.711](https://db.clex.ch/link/Bund/814.711/de).
+[^4-4]: BGS [331.11](https://bgs.so.ch/data/331.11/de).
+[^4-5]: BGS [511.11](https://bgs.so.ch/data/511.11/de).
+[^4-6]: BGS [331.11](https://bgs.so.ch/data/331.11/de).
 
 ### 2.2.3. Geschäftskreis des Departementes für Bildung und Kultur
 
@@ -245,7 +247,7 @@ beschliesst:
 - b) …
 - c) …
 - d) …
-- e) Vom Vorsteher oder von der Vorsteherin des Volksschulamtes:
+- e) vom Vorsteher oder von der Vorsteherin des Volksschulamtes:
   - 1\. Genehmigung der öffentlich-rechtlichen Verträge über die Bildung von Schulkreisen und der öffentlich-rechtlichen Verträge zur Führung einzelner Schulstufen und Fächer ohne Schulkreisbildung (§§ 13 Abs. 4 und 15 Abs. 2 Volksschulgesetz [VSG] vom 26. Januar 2022[^5-1]) sowie Genehmigung der kommunalen Schulordnungen (§ 74 Abs. 2 Bst. e VSG);
   - 2\. Aufnahme in das kantonale Spezialangebot Verhalten (§ 31 Abs. 4 VSG);
   - 3\. Einzelbeschulungen zu Hause nach einem Spitalaufenthalt (§ 33 Abs. 3 VSG);
@@ -258,10 +260,13 @@ beschliesst:
   - 10\. Ausstellung von Gleichwertigkeitsanerkennungen (§ 33 Volksschulverordnung [VSV] vom 5. September 2022[^5-2]);
   - 11\. Beschwerdeentscheide, die das Departement dem Volksschulamt zur Erledigung zuweist;
   - 12\. Beurlaubung von Lehrpersonen (§ 344 Gesamtarbeitsvertrag [GAV] vom 25. Oktober 2004[^5-3]).
+- f) vom Leiter oder von der Leiterin der Abteilung Berufsschulen des Amtes für Berufsbildung, Mittel- und Hochschulen:
+  - 1\. Verfügungen und Anordnungen im Zusammenhang mit der bedarfsgerechten Erhöhung der Anzahl Ausbildungsabschlüsse in Pflege an der Höheren Fachschule Olten und der Gewährung von Ausbildungsbeiträgen gemäss dem EG Ausbildungsfördergesetz Pflege[^5-4].
 
 [^5-1]: BGS [413.111](https://bgs.so.ch/data/413.111/de).
 [^5-2]: BGS [413.121.1](https://bgs.so.ch/data/413.121.1/de).
 [^5-3]: BGS [126.3](https://bgs.so.ch/data/126.3/de).
+[^5-4]: BGS [811.17](https://bgs.so.ch/data/811.17/de).
 
 ### 2.2.4. Geschäftskreis des Finanzdepartementes
 
@@ -345,6 +350,14 @@ beschliesst:
 - e) Verfügungen über Schadenersatzbegehren aus medizinischer Staatshaftung nach § 19<sup>ter</sup> Absatz 2 des Spitalgesetzes.
 
 ## 3. Schlussbestimmungen
+
+#### § 7ter
+
+**Befristete Bestimmungen**
+
+<sup>1</sup> Die §§ 4 Absatz 1 Buchstabe b<sup>bis</sup> Ziffer 7 und 5 Absatz 1 Buchstabe f Ziffer 1 gelten bis zum Ausserkraftreten des EG Ausbildungsfördergesetz Pflege[^7ter-1].
+
+[^7ter-1]: BGS [811.17](https://bgs.so.ch/data/811.17/de).
 
 #### § 8
 
