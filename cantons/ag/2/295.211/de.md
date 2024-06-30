@@ -4,13 +4,13 @@ number: "295.211"
 title: Beurkundungs- und Beglaubigungsverordnung
 short: BeurV
 language: de
-version: 2018-01-01
-valid_until: 2024-06-30
-version_adopted: 2017-10-18
+version: 2024-07-01
+valid_until: 2024-12-31
+version_adopted: 2024-03-13
 adopted: 2012-07-04
 in_force: 2013-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/295.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2572/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3627/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2572/pdf_file"
 
 (BeurV)
 
-Vom 04.07.2012 (Stand 01.01.2018)
+Vom 04.07.2012 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -612,15 +612,7 @@ beschliesst:
 
 #### § 54
 
-**Gebühren**
-
-<sup>1</sup> Für Entscheide im Zusammenhang mit der Beurkundungsbefugnis und dem Registereintrag werden Gebühren von Fr. 100.– bis Fr. 1'000.– erhoben.
-
-<sup>2</sup> Für Inspektionen wird eine Gebühr von Fr. 150.– pro Stunde erhoben.
-
-<sup>3</sup> Für die von der Notariatskommission durchgeführten Verfahren betreffend Disziplinarmassnahmen und weitere Massnahmen werden Gebühren von Fr. 1'000.– bis Fr. 10'000.– erhoben.
-
-<sup>4</sup> Für andere Verrichtungen der Notariatskommission beträgt die Gebühr Fr. 100.– bis Fr. 2'000.–.
+**…**
 
 #### § 55
 
@@ -644,17 +636,7 @@ beschliesst:
 
 #### § 58
 
-**Gebühren**
-
-<sup>1</sup> Für Entscheide der Notariatsprüfungskommission und für die von ihr durchgeführten Prüfungen werden folgende Gebühren erhoben:
-
-- a) Entscheid über die Nichtzulassung zur Notariatsprüfung — Fr. 200.–,
-- b) schriftlicher Prüfungsteil — Fr. 2'000.–,
-- c) mündlicher Prüfungsteil — Fr. 1'500.–,
-- d) Prüfungen gemäss § 41 Abs. 1 lit. c BeurG — Fr. 1'000.– bis Fr. 2'000.–,
-- e) erleichterte Prüfungen für Inhaberinnen oder Inhaber eines ausserkantonalen Fähigkeitsausweises als Notarin oder Notar — Fr. 1'000.– bis Fr. 2'000.–.
-
-<sup>2</sup> Für andere Verrichtungen der Notariatsprüfungskommission beträgt die Gebühr Fr. 100.– bis Fr. 2'000.–.
+**…**
 
 #### § 59
 
@@ -663,6 +645,14 @@ beschliesst:
 <sup>1</sup> Die nicht im kantonalen Staatsdienst stehenden Mitglieder der Notariatsprüfungskommission erhalten eine Entschädigung von Fr. 150.– pro Stunde.
 
 <sup>2</sup> Dem kantonalen Staatsdienst angehörige Mitglieder der Notariatsprüfungskommission erhalten für die Korrektur der Klausurarbeiten ausserhalb der ordentlichen Arbeitszeit eine Entschädigung von Fr. 150.– pro Stunde.
+
+## 4<sup>bis</sup> Beglaubigungen
+
+#### § 59a
+
+**Beglaubigungen**
+
+<sup>1</sup> Das kantonale Beglaubigungswesen wird durch das Departement Volkswirtschaft und Inneres ausgeübt, soweit es nicht einer anderen Behörde zugewiesen ist.
 
 ## 5. Übergangs- und Schlussbestimmungen
 
