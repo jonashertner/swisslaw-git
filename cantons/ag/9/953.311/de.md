@@ -4,13 +4,12 @@ number: "953.311"
 title: Vollziehungsverordnung zum Bundesgesetz über den Konsumkredit
 short: VV KKG
 language: de
-version: 2011-07-01
-valid_until: 2024-06-30
-version_adopted: 2011-05-11
+version: 2024-07-01
+version_adopted: 2024-03-13
 adopted: 2003-11-19
 in_force: 2004-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/953.311"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/1399/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3521/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,16 +18,15 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/1399/pdf_file"
 
 (VV KKG)
 
-Vom 19.11.2003 (Stand 01.07.2011)
+Vom 19.11.2003 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf Art. 39 des Bundesgesetzes über den Konsumkredit (KKG) vom 23. März 2001[^ingress-1], § 91 Abs. 2<sup>bis</sup> lit. a der Kantonsverfassung sowie § 2 des Dekrets über die durch den Staat zu beziehenden Gebühren vom 23. November 1977[^ingress-2],
+gestützt auf Art. 39 des Bundesgesetzes über den Konsumkredit (KKG) vom 23. März 2001[^ingress-1] sowie § 91 Abs. 2<sup>bis</sup> lit. a der Kantonsverfassung,
 
 beschliesst:
 
 [^ingress-1]: SR [221.214.1](https://db.clex.ch/link/Bund/221.214.1/de)
-[^ingress-2]: SAR [661.110](https://gesetzessammlungen.ag.ch/data/661.110/de)
 
 #### § 1
 
@@ -84,17 +82,11 @@ beschliesst:
 
 #### § 6
 
-**Gebühren**
-
-<sup>1</sup> Das AWA erhebt für die Behandlung von Gesuchen um eine Bewilligung gemäss § 4 und für die Abnahme einer Prüfung gemäss § 5 Abs. 3 eine aufwandgemässe Gebühr von mindestens Fr. 500.–. Pro Stunde Aufwand werden Fr. 120.– berechnet.
-
-<sup>2</sup> Besondere Aufwendungen und Auslagen werden in Rechnung gestellt.
+**…**
 
 #### § 7
 
-**Kostenvorschuss**
-
-<sup>1</sup> Bei Gesuchseinreichung ist ein Kostenvorschuss von Fr. 500.– zu leisten. Der Kostenvorschuss wird an die definitive Gebühr angerechnet.
+**…**
 
 #### § 8
 
