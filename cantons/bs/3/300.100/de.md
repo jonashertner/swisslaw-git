@@ -4,13 +4,13 @@ number: "300.100"
 title: Gesundheitsgesetz
 short: GesG
 language: de
-version: 2023-03-01
-valid_until: 2024-06-30
-version_adopted: 2021-05-19
+version: 2024-07-01
+valid_until: 2024-07-31
+version_adopted: 2024-04-10
 adopted: 2011-09-21
 in_force: 2012-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/300.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5853/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6319/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Gesundheitsgesetz | Gesundheit
 
 (GesG)
 
-Vom 21. September 2011 (Stand 1. März 2023)
+Vom 21. September 2011 (Stand 1. Juli 2024)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -578,6 +578,32 @@ beschliesst:
 <sup>1</sup> Das zuständige Departement veröffentlicht rechtskräftige Entscheide über erteilte Bewilligungen, deren Entzug oder anderweitiges Erlöschen sowie Berufsausübungsverbote.
 
 <sup>2</sup> Es kann zudem rechtskräftige Entscheide über Bewilligungseinschränkungen veröffentlichen.
+
+## VI<sup>bis</sup>. Zulassung von Leistungserbringern zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung
+
+#### § 49a
+
+**Zulassung**
+
+<sup>1</sup> Wer als Leistungserbringerin oder Leistungserbringer im ambulanten Bereich zulasten der obligatorischen Krankenpflegeversicherung tätig sein will, bedarf einer Zulassung des zuständigen Departements und untersteht dessen Aufsicht.
+
+<sup>2</sup> Die Voraussetzungen für die Erteilung der Zulassung richten sich nach dem Bundesrecht.
+
+<sup>3</sup> Die Zulassung kann mit Einschränkungen fachlicher, zeitlicher und räumlicher Art oder mit Auflagen oder Bedingungen verbunden werden, soweit dies für die Sicherung einer qualitativ hochstehenden, wirtschaftlichen und zweckmässigen Leistungserbringung erforderlich ist.
+
+<sup>4</sup> Ungenutzte Zulassungen verfallen nach zwölf Monaten. Das zuständige Departement entscheidet in begründeten Einzelfällen über Ausnahmen.
+
+<sup>5</sup> Der Regierungsrat regelt die Einzelheiten des Zulassungsverfahrens sowie die Meldepflichten der Inhaberinnen und Inhaber einer Zulassung. Er kann besondere Bestimmungen für Praxisübernahmen erlassen.
+
+#### § 49b
+
+**Beschränkung der Anzahl Ärztinnen und Ärzte, die im ambulanten Bereich Leistungen zulasten der obligatorischen Krankenpflegeversicherung erbringen**
+
+<sup>1</sup> Der Regierungsrat legt in einem oder mehreren medizinischen Fachgebieten oder in bestimmten Regionen Höchstzahlen für Ärztinnen und Ärzte fest, die im ambulanten Bereich zulasten der obligatorischen Krankenpflegeversicherung Leistungen erbringen.
+
+<sup>2</sup> Er kann die Möglichkeit vorsehen, dass das zuständige Departement in Einzelfällen aufgrund der Versorgungssituation in einem Fachgebiet oder einer Region von den Höchstzahlen abweichen kann.
+
+<sup>3</sup> Er kann einen sofortigen Zulassungsstopp in einem bestimmten Fachgebiet anordnen, sofern die Voraussetzungen gemäss Art. 55a Abs. 6 des Bundesgesetzes über die Krankenversicherung (KVG) vom 18. März 1994 erfüllt sind.
 
 ## VII. Weitere Vorschriften
 
