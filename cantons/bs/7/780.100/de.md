@@ -4,13 +4,13 @@ number: "780.100"
 title: Umweltschutzgesetz Basel-Stadt
 short: USG BS
 language: de
-version: 2022-08-01
-valid_until: 2024-06-30
-version_adopted: 2021-06-24
+version: 2024-07-01
+valid_until: 2025-12-31
+version_adopted: 2024-01-17
 adopted: 1991-03-13
 in_force: 1992-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/780.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5587/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6311/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Umweltschutzgesetz | Umweltschutz
 
 (USG BS)
 
-Vom 13. März 1991 (Stand 1. August 2022)
+Vom 13. März 1991 (Stand 1. Juli 2024)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -292,6 +292,87 @@ beschliesst:
 
 <sup>1</sup> Der Kanton sorgt dafür, dass eine genügende Anzahl öffentlich zugänglicher Parkplätze mit Lademöglichkeiten für Elektroautos ausgerüstet ist. Er kann diese Aufgabe an Dritte übertragen.
 
+<sup>2</sup> Der Kanton fördert die Bereitstellung von Lademöglichkeiten für Elektroautos auf privatem und öffentlichem Grund.
+
+#### § 16b
+
+**Finanzielle Förderung der Ladeinfrastruktur für Elektroautos**
+
+<sup>1</sup> Die Bereitstellung von Ladeinfrastruktur für Elektroautos in öffentlich zugänglichen Parkhäusern und auf privatem Grund wird bis einschliesslich zum Jahr 2030 finanziell gefördert.
+
+<sup>2</sup> Für die Ausrichtung von Förderbeiträgen und die Finanzierung der damit verbundenen Vollzugskosten wird ein Fonds gebildet.
+
+<sup>3</sup> Die Mittel des Fonds dürfen auch für die Deckung eines allfälligen Fehlbetrags aus dem mit Grossratsbeschluss vom 14. April 2021 bewilligten Darlehen an die Industriellen Werke Basel für die Finanzierung von 200 öffentlich zugänglichen Ladestationen auf Allmend verwendet werden.
+
+<sup>4</sup> Der Fonds besteht bis zur vollständigen Deckung der in Abs. 2 und 3 genannten Kosten. Ein bei seiner Auflösung bestehender Überschuss wird dem Stromsparfonds zugewiesen.
+
+#### § 16c
+
+**Finanzierung des Fonds**
+
+<sup>1</sup> Der Fonds wird durch einen auf dem Strombezug aus dem öffentlichen Stromnetz bei Ladevorgängen erhobenen Zuschlag zur Elektrifizierung der motorisierten Mobilität (ZEM) und durch allfällige Förderbeiträge des Bundes gespeist.
+
+<sup>2</sup> Der Regierungsrat legt die Höhe des ZEM fest. Dieser beträgt höchstens 2,5 Rp./kWh.
+
+<sup>3</sup> Ausgenommen von der Erhebung des ZEM sind unter Vorbehalt der Installation eines separaten, für die Erhebung des ZEM vorgesehenen Zählers:
+
+- a) bei Inkrafttreten der §§ 16b ff. bereits bestehende Ladeinfrastrukturen;
+- b) Ladeinfrastrukturen, für deren Erstellung und Erweiterung keine Förderbeiträge gewährt werden.
+
+<sup>4</sup> Der Regierungsrat kann Mittel aus dem Fonds Energieförderabgabe in den neuen Fonds übertragen. Diese Mittel sind zu einem späteren Zeitpunkt soweit möglich wieder in den Fonds Energieförderabgabe zurück zu überweisen.
+
+#### § 16d
+
+**Befristung des ZEM**
+
+<sup>1</sup> Der ZEM wird längstens bis zur Deckung der Förderbeiträge für die Ladeinfrastruktur für Elektroautos sowie eines Fehlbetrags gemäss § 16b Abs. 3 erhoben.
+
+<sup>2</sup> Der Regierungsrat wird ermächtigt, die Erhebung des ZEM einzustellen, wenn dessen Zweck gemäss Abs. 1 erreicht ist.
+
+#### § 16e
+
+**Fördergegenstand**
+
+<sup>1</sup> Förderbeitragsberechtigt sind die Neuerstellung und die Erweiterung von:
+
+- a) Ladeinfrastrukturen in staatlichen und privaten öffentlich zugänglichen Parkhäusern;
+- b) Ladeinfrastrukturen auf privatem Grund;
+- c) Ladeinfrastrukturen von Carsharing-Anbieterinnen und -Anbietern auf Allmend.
+
+#### § 16f
+
+**Förderkriterien**
+
+<sup>1</sup> Förderbeitragsberechtigt sind Ladeinfrastrukturen auf dem Gebiet des Kantons Basel-Stadt.
+
+<sup>2</sup> Die Ladeinfrastruktur umfasst die Grundinstallation unter Ausschluss der Ladestationen.
+
+<sup>3</sup> Förderbeiträge werden nur ausgerichtet, wenn die Ladeinfrastruktur mit einem separaten Stromzähler für die Erhebung des ZEM ausgerüstet wird.
+
+#### § 16g
+
+**Förderumfang**
+
+<sup>1</sup> Die Höhe der Förderbeiträge hängt vom Fördergegenstand ab und beträgt:
+
+- a) bei Ladeinfrastrukturen in staatlichen und privaten öffentlich zugänglichen Parkhäusern 60 % der Kosten der Grundinstallation, maximal aber Fr. 3'500 pro Ladepunkt;
+- b) bei Ladeinfrastrukturen auf privatem Grund 60 % der Kosten der Grundinstallation, maximal aber Fr. 1'300 pro Ladepunkt;
+- c) bei Ladeinfrastrukturen von Carsharing-Anbieterinnen und -Anbietern auf Allmend. 60 % der Kosten der Grundinstallation, maximal aber Fr. 7'500 pro Ladepunkt.
+
+#### § 16h
+
+**Rückforderung**
+
+<sup>1</sup> Unrechtmässig ausbezahlte Förderbeiträge können von der zuständigen Behörde zurückgefordert werden.
+
+<sup>2</sup> Der Rückforderungsanspruch verjährt, wenn er nicht innert einem Jahr ab dem Zeitpunkt geltend gemacht wird, in dem die zuständige Behörde vom Eintritt des Umstandes Kenntnis erhalten hat, welcher die Rückerstattungspflicht begründet, jedoch spätestens zehn Jahre nach der unrechtmässigen Auszahlung.
+
+#### § 16i
+
+**Vollzug**
+
+<sup>1</sup> Der Regierungsrat regelt die Einzelheiten betreffend die Errichtung und Verwaltung des Fonds und die Gewährung von Förderbeiträgen in einer Verordnung.
+
 #### § 17
 
 **Finanzielle Unterstützung von Parkierungsanlagen**
@@ -301,7 +382,8 @@ beschliesst:
 <sup>2</sup> Dieses Verbot gilt nicht für:
 
 - a) Park-and-Ride-Anlagen nach § 19;
-- b) Anwohnendenparkplätze in Quartierparkings nach § 19<sup>bis</sup>.
+- b) Anwohnendenparkplätze in Quartierparkings nach § 19<sup>bis</sup>;
+- c) Ladeinfrastrukturen für Elektroautos nach § 16b.
 
 <sup>3</sup> …
 
