@@ -3,20 +3,19 @@ canton: BE
 number: "559.13"
 title: Regierungsratsbeschluss betreffend den Beitritt zur Vereinbarung über die interkantonalen Polizeieinsätze (IKAPOL)
 language: de
-version: 2006-08-01
-valid_until: 2024-06-30
-version_adopted: 2006-05-17
+version: 2024-07-01
+version_adopted: 2024-05-29
 adopted: 2006-05-17
 in_force: 2006-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/559.13"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/648/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3040/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Regierungsratsbeschluss betreffend den Beitritt zur Vereinbarung über die interkantonalen Polizeieinsätze (IKAPOL)
 
-vom 17.05.2006 (Stand 01.08.2006)
+vom 17.05.2006 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -32,6 +31,8 @@ beschliesst:
 #### Art. 1
 
 <sup>1</sup> Der Kanton Bern tritt der unter der BSG-Nummer 559.13-1 veröffentlichten Vereinbarung über die interkantonalen Polizeieinsätze (IKAPOL) vom 6. April 2006 bei.
+
+<sup>2</sup> Er genehmigt die Änderung der IKAPOL vom 12. April 2024.
 
 #### Art. 2
 

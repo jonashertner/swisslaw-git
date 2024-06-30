@@ -3,20 +3,19 @@ canton: BE
 number: "559.13"
 title: Arrêté du Conseil-exécutif concernant l’adhésion à la convention sur les engagements de police intercantonaux (IKAPOL)
 language: fr
-version: 2006-08-01
-valid_until: 2024-06-30
-version_adopted: 2006-05-17
+version: 2024-07-01
+version_adopted: 2024-05-29
 adopted: 2006-05-17
 in_force: 2006-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/559.13"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/648/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3040/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
 
 # Arrêté du Conseil-exécutif concernant l’adhésion à la convention sur les engagements de police intercantonaux (IKAPOL)
 
-du 17.05.2006 (état au 01.08.2006)
+du 17.05.2006 (état au 01.07.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -29,7 +28,9 @@ arrête:
 
 #### Art. 1
 
-<sup>1</sup> Le canton de Berne adhère à la convention du 6 avril 2006 sur les engagements de police intercantonaux (IKAPOL), qui est publié sous le numéro RSB 559.13-1.
+<sup>1</sup> Le canton de Berne adhère à la convention du 6 avril 2006 sur les engagements de police intercantonaux (IKAPOL), qui est publiée sous le numéro RSB 559.13-1.
+
+<sup>2</sup> Il approuve la modification du 12 avril 2024 de l’IKAPOL.
 
 #### Art. 2
 
