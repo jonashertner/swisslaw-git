@@ -4,13 +4,12 @@ number: "781.200"
 title: Einführungsgesetz zur Bundesgesetzgebung über den Schutz von Umwelt und Gewässern
 short: "EG Umweltrecht, EG UWR"
 language: de
-version: 2019-12-30
-valid_until: 2024-06-30
-version_adopted: 2019-05-14
+version: 2024-07-01
+version_adopted: 2023-09-19
 adopted: 2007-09-04
 in_force: 2008-09-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/781.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2774/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3852/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2774/pdf_file"
 
 (EG Umweltrecht, EG UWR)
 
-Vom 04.09.2007 (Stand 30.12.2019)
+Vom 04.09.2007 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -401,11 +400,11 @@ beschliesst:
 
 #### § 37
 
-**Verursacherprinzip und Gebühren**
+**Verursacherprinzip**
 
 <sup>1</sup> Wer Massnahmen nach dem Umweltschutzrecht von Bund oder Kanton verursacht, trägt dafür die Kosten.
 
-<sup>2</sup> Für Bewilligungen, Kontrollen und besondere Dienstleistungen des Kantons wird eine kostendeckende Gebühr bis Fr. 50'000.– erhoben. Der Regierungsrat regelt die Einzelheiten durch Verordnung.
+<sup>2</sup> …
 
 ## 13. Strafbestimmungen
 
