@@ -4,13 +4,13 @@ number: "33.11"
 title: Verordnung über kantons- und bundesrechtliche Ordnungsbussen
 short: KOBV
 language: de
-version: 2024-01-01
-valid_until: 2024-06-30
-version_adopted: 2023-06-13
+version: 2024-07-01
+valid_until: 2024-12-31
+version_adopted: 2024-06-18
 adopted: 2021-11-23
 in_force: 2022-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/33.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/7835/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8028/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Ordnungsbussen – V
 
 (KOBV)
 
-vom 23.11.2021 (Fassung in Kraft getreten am 01.01.2024)
+vom 23.11.2021 (Fassung in Kraft getreten am 01.07.2024)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -185,21 +185,29 @@ beschliesst:
 <sup>1</sup> Gesetz vom 14. November 1996 über die Jagd sowie den Schutz wildlebender Säugetiere und Vögel und ihrer Lebensräume (JaG; SGF 922.1) und Jagdverordnung vom 6. Juni 2016 (JaV; SGF 922.11):
 
 <table>
-<tr><th>Ordnungsbussennummer</th><th>Widerhandlungen (Art. 10 Abs. 1, 24, 29, 30 JaG und 26, 31, 35, 38–40, 70–74 JaV)</th><th>Pauschalbetrag</th></tr>
-<tr><td>FR 201</td><td>Schussdistanz (Art. 29 Abs. 2 JaG / Art. 39 JaV)</td><td>Fr. 250.–</td></tr>
-<tr><td>FR 202</td><td>Waffenproben (Art. 10 Abs. 1 JaG / Art. 40 JaV)</td><td>Fr. 300.–</td></tr>
-<tr><td>FR 203</td><td>Transportmittel, ausser in Jagdbanngebieten (Art. 24 JaG / Art. 26 JaV)</td><td>Fr. 150.–</td></tr>
-<tr><td>FR 204</td><td>Verbotene Jagdarten und Hilfsmittel (Art. 24 JaG / Art. 31 JaV)</td><td>Fr. 300.–</td></tr>
-<tr><td>FR 205</td><td>Patronen und Abschuss (Art. 24 und 29 JaG / Art. 35 JaV)</td><td>Fr. 250.–</td></tr>
-<tr><td>FR 206</td><td>Sicherheit (Art. 24 und 29 JaG / Art. 38 JaV)</td><td>Fr. 300.–</td></tr>
-<tr><td>FR 208</td><td>Nachsuche verletzter Tiere (Art. 29 JaG / Art. 70 JaV)</td><td>Fr. 200.–</td></tr>
-<tr><td>FR 209</td><td>Erlegte Tiere, Eingeweide, Verstümmelung (Art. 29 JaG / Art. 71 JaV)</td><td>Fr. 200.–</td></tr>
-<tr><td>FR 210</td><td>Kontrollmarken (Art. 30 JaG / Art. 72 JaV)</td><td>Fr. 100.–</td></tr>
-<tr><td>FR 211</td><td>Kontrollformulare (Art. 30 JaG / Art. 73 JaV)</td><td>Fr. 50.–</td></tr>
-<tr><td>FR 212</td><td>Kontroll- und Statistikheft (Art. 30 JaG / Art. 74 JaV)</td><td>Fr. 100.–</td></tr>
+<tr><th>Ordnungsbussennummer</th><th>Widerhandlungen (Art. 10 Abs. 1, 24, 27, 29, 30 JaG und 26, 31, 35, 38‒40, 42, 43, 48, 49, 70‒74 JaV)</th><th>Pauschalbetrag</th></tr>
+<tr><td>FR 201</td><td>Transportmittel, ausser in Jagdbanngebieten (Art. 24 JaG / Art. 26 JaV)</td><td>Fr. 150.–.</td></tr>
+<tr><td>FR 202</td><td>Verbotene Jagdarten und Hilfsmittel (Art. 24 JaG / Art. 31 Abs. 1 JaV)</td><td>Fr. 300.–</td></tr>
+<tr><td>FR 203</td><td>Patronen und Abschuss (Art. 24 und 29 JaG / Art. 35 JaV)</td><td>Fr. 250.–</td></tr>
+<tr><td>FR 204</td><td>Sicherheit (Art. 24 und 29 JaG / Art. 38 JaV)</td><td>Fr. 300.–</td></tr>
+<tr><td>FR 205</td><td>Schussdistanz (Art. 29 Abs. 2 JaG / Art. 39 JaV)</td><td>Fr. 250.–</td></tr>
+<tr><td>FR 206</td><td>Waffenproben (Art. 10 Abs. 1 JaG / Art. 40 JaV)</td><td>Fr. 300.–</td></tr>
+<tr><td>FR 207</td><td>Bescheinigung Jagdhund (Art. 27 JaG / Art. 42 Abs. 6 JaV)</td><td>Fr. 50.–</td></tr>
+<tr><td>FR 208</td><td>Verwendung von mehr als zwei Hunden (Art. 27 JaG / Art. 43 Abs. 5 und 7 JaV)</td><td>Fr. 250.–</td></tr>
+<tr><td>FR 209</td><td>Ausweis Schweisshund (Art. 29 JaG / Art. 48 Abs. 2 JaV)</td><td>Fr. 50.–</td></tr>
+<tr><td>FR 210</td><td>Unerlaubte Nachsuche (Art. 29 JaG / Art. 49 Abs. 1 und 3 JaV)</td><td>Fr. 200.–</td></tr>
+<tr><td>FR 211</td><td>Markierungen (Art. 29 JaG / Art. 70 Abs. 3 Bst. a JaV)</td><td>Fr. 150.–</td></tr>
+<tr><td>FR 212</td><td>Schweisshundeführer (Art. 29 JaG / Art. 70 Abs. 3 Bst. b JaV)</td><td>Fr. 150.–</td></tr>
+<tr><td>FR 213</td><td>Meldung ergebnislose Nachsuche (Art. 29 JaG / Art. 70 Abs. 3 Bst. c JaV)</td><td>Fr. 150.–</td></tr>
+<tr><td>FR 214</td><td>Erlegte Tiere, Eingeweide, Verstümmelung (Art. 29 JaG / Art. 71 JaV)</td><td>Fr. 200.–</td></tr>
+<tr><td>FR 215</td><td>Kontrollmarken (Art. 30 JaG / Art. 72 JaV)</td><td>Fr. 100.–</td></tr>
+<tr><td>FR 216</td><td>Kontrollformulare (Art. 30 JaG / Art. 73 Abs. 1 JaV)</td><td>Fr. 50.–</td></tr>
+<tr><td>FR 217</td><td>Versand der Kontrollformulare (Art. 30 JaG / Art. 73 Abs. 2 JaV)</td><td>Fr. 50.–</td></tr>
+<tr><td>FR 218</td><td>Kontroll- und Statistikheft (Art. 30 JaG / Art. 74 JaV)</td><td>Fr. 100.–</td></tr>
+<tr><td>FR 219</td><td>Benachrichtigung für Kontrolle (Art. 29 JaG / Art. 77 Abs. 1 JaV)</td><td>Fr. 100.–</td></tr>
 </table>
 
-<sup>2</sup> Verordnung vom 11. Novenber 2013 über die Wildruhezone La Berra (SGF 922.31):
+<sup>2</sup> Verordnung vom 11. November 2013 über die Wildruhezone La Berra (SGF 922.31):
 
 <table>
 <tr><th>Ordnungsbussennummer</th><th>Widerhandlungen</th><th>Pauschalbetrag</th></tr>

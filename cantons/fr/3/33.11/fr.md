@@ -4,13 +4,13 @@ number: "33.11"
 title: "Ordonnance sur les amendes d'ordre de droit cantonal et de droit fédéral"
 short: OCAO
 language: fr
-version: 2024-01-01
-valid_until: 2024-06-30
-version_adopted: 2023-06-13
+version: 2024-07-01
+valid_until: 2024-12-31
+version_adopted: 2024-06-18
 adopted: 2021-11-23
 in_force: 2022-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/33.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/7835/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8028/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +21,7 @@ Amendes d'ordre – O
 
 (OCAO)
 
-du 23.11.2021 (version entrée en vigueur le 01.01.2024)
+du 23.11.2021 (version entrée en vigueur le 01.07.2024)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -185,18 +185,26 @@ Arrête:
 <sup>1</sup> Loi du 14 novembre 1996 sur la chasse et la protection des mammifères, des oiseaux sauvages et de leurs biotopes (LCha) et ordonnance du 6 juin 2016 concernant la chasse (Ocha):
 
 <table>
-<tr><th>Numéro d'amende d'ordre</th><th>Infractions (art. 10 al. 1, 24, 29, 30 LCha et 26, 31, 35, 38 à 40, 70 à 74 OCha)</th><th>Montant forfaitaire</th></tr>
-<tr><td>FR 201</td><td>Distances de tirs (art. 29 al. 2 LCha / art. 39 OCha)</td><td>Fr. 250.–.</td></tr>
-<tr><td>FR 202</td><td>Essai d'armes (art. 10 al. 1 LCha / art. 40 OCha)</td><td>Fr. 300.–</td></tr>
-<tr><td>FR 203</td><td>Moyens de transport, excepté dans les districts francs (art. 24 LCha / art. 26 OCha)</td><td>Fr. 150.–</td></tr>
-<tr><td>FR 204</td><td>Modes et moyens de chasse interdits (art. 24 LCha / art. 31 OCha)</td><td>Fr. 300.–</td></tr>
-<tr><td>FR 205</td><td>Cartouches et tirs (art. 24 et 29 LCha / art. 35 OCha)</td><td>Fr. 250.–</td></tr>
-<tr><td>FR 206</td><td>Sécurité (art. 24 et 29 LCha / art. 38 OCha)</td><td>Fr. 300.–</td></tr>
-<tr><td>FR 208</td><td>Recherche des animaux blessés (art. 29 LCha / art. 70 OCha)</td><td>Fr. 200.–</td></tr>
-<tr><td>FR 209</td><td>Animaux abattus, viscères, mutilation (art. 29 LCha / art. 71 OCha)</td><td>Fr. 200.–</td></tr>
-<tr><td>FR 210</td><td>Marques de contrôle (art. 30 LCha / art. 72 OCha)</td><td>Fr. 100.–</td></tr>
-<tr><td>FR 211</td><td>Formules de contrôle (art. 30 LCha / art. 73 OCha)</td><td>Fr. 50.–</td></tr>
-<tr><td>FR 212</td><td>Carnet de contrôle et de statistique (art. 30 LCha / art. 74 OCha)</td><td>Fr. 100.–</td></tr>
+<tr><th>Numéro d'amende d'ordre</th><th>Infractions (art. 10 al. 1, 24, 27, 29, 30 LCha et 26, 31, 35, 38 à 40, 42, 43, 48, 49, 70 à 74 OCha)</th><th>Montant forfaitaire</th></tr>
+<tr><td>FR 201</td><td>Moyens de transport, excepté dans les districts francs (art. 24 LCha / art. 26 OCha)</td><td>Fr. 150.–.</td></tr>
+<tr><td>FR 202</td><td>Modes et moyens de chasse interdits (art. 24 LCha / art. 31 al. 1 OCha)</td><td>Fr. 300.–</td></tr>
+<tr><td>FR 203</td><td>Cartouches et tirs (art. 24 et 29 LCha / art. 35 OCha)</td><td>Fr. 250.–</td></tr>
+<tr><td>FR 204</td><td>Sécurité (art. 24 et 29 LCha / art. 38 OCha)</td><td>Fr. 300.–</td></tr>
+<tr><td>FR 205</td><td>Distances de tirs (art. 29 al. 2 LCha / art. 39 OCha)</td><td>Fr. 250.–</td></tr>
+<tr><td>FR 206</td><td>Essai d'armes (art. 10 al. 1 LCha / art. 40 OCha)</td><td>Fr. 300.–</td></tr>
+<tr><td>FR 207</td><td>Attestation chien de chasse (art. 27 LCha / art. 42 al. 6 OCha)</td><td>Fr. 50.–</td></tr>
+<tr><td>FR 208</td><td>Utilisation de plus de deux chiens (art. 27 LCha / art. 43 al. 5 et 7 OCha)</td><td>Fr. 250.–</td></tr>
+<tr><td>FR 209</td><td>Attestation chien de rouge (art. 29 LCha / art. 48 al. 2 OCha)</td><td>Fr. 50.–</td></tr>
+<tr><td>FR 210</td><td>Recherche non autorisée (art. 29 LCha / art. 49 al. 1 et 3 OCha)</td><td>Fr. 200.–</td></tr>
+<tr><td>FR 211</td><td>Marquages (art. 29 LCha / art. 70 al. 3 let. a OCha)</td><td>Fr. 150.–</td></tr>
+<tr><td>FR 212</td><td>Conducteur de chien de rouge (art. 29 LCha / art. 70 al. 3 let. b OCha)</td><td>Fr. 150.–</td></tr>
+<tr><td>FR 213</td><td>Information de recherche négative (art. 29 LCha / art. 70 al. 3 let. c OCha)</td><td>Fr. 150.–</td></tr>
+<tr><td>FR 214</td><td>Animaux abattus, viscères, mutilation (art. 29 LCha / art. 71 OCha)</td><td>Fr. 200.–</td></tr>
+<tr><td>FR 215</td><td>Marques de contrôle (art. 30 LCha / art. 72 OCha)</td><td>Fr. 100.–</td></tr>
+<tr><td>FR 216</td><td>Formules de contrôle (art. 30 LCha / art. 73 al. 1 OCha)</td><td>Fr. 50.–</td></tr>
+<tr><td>FR 217</td><td>Envoi de formules de contrôle (art. 30 LCha / art. 73 al. 2 OCha)</td><td>Fr. 50.–</td></tr>
+<tr><td>FR 218</td><td>Carnet de contrôle et de statistique (art. 30 LCha / art. 74 OCha)</td><td>Fr. 100.–</td></tr>
+<tr><td>FR 219</td><td>Annonce pour contrôle (art. 29 LCha / art. 77 al. 1 OCha)</td><td>Fr. 100.–</td></tr>
 </table>
 
 <sup>2</sup> Ordonnance du 11 novembre 2013 concernant la zone de tranquillité de la Berra:
