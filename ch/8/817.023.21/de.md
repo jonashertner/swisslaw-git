@@ -3,11 +3,11 @@ sr: "817.023.21"
 title: "Verordnung des EDI vom 16. Dezember 2016 über Materialien und Gegenstände, die dazu bestimmt sind, mit Lebensmitteln in Berührung zu kommen (Bedarfsgegenständeverordnung)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/164"
 language: de
-version: 2024-02-01
+version: 2024-07-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2017-164-20240201-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20240201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2017-164-20240701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20240201/de"
 
 (Bedarfsgegenständeverordnung)
 
-vom 16. Dezember 2016 (Stand am 1. Februar 2024)
+vom 16. Dezember 2016 (Stand am 1. Juli 2024)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -729,7 +729,7 @@ Anhang 1
 
 ## Symbol zur Bezeichnung des Verwendungszwecks entsprechend gekennzeichneter Bedarfsgegenstände
 
-## ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20240201/de/xml/image/image1.png)
+## ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20240701/de/xml/image/image1.png)
 
 Anhang 2[^t-1]
 
@@ -739,8 +739,8 @@ Anhang 2[^t-1]
 
 [^annex2-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 23. Okt. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Bereinigt gemäss Ziff. I Abs. 1 der V des BLV vom 26. Sept. 2022 ([AS 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)) und Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
-[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2023/836](https://fedlex.data.admin.ch/eli/oc/2023/836) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-1]: Fassung gemäss Ziff. II Abs. 2 der V des EDI vom 23. Okt. 2019 ([AS 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Bereinigt gemäss Ziff. I Abs. 1 der V des BLV vom 26. Sept. 2022 ([AS 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)), Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)) und Ziff. I der V des BLV vom 29. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)).
+[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/250](https://fedlex.data.admin.ch/eli/oc/2024/250) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 3[^t-2]
 
@@ -1125,7 +1125,7 @@ Das Lebensmittel ist gemäss den Zubereitungsangaben auf der Verpackung zu behan
 
 Die spezifische Migration wird im Lebensmittel anhand einer Analysemethode gemäss Artikel 46 der Verordnung vom 16. Dezember 2016[^annex4-lvlu1-lvl2-lvl24-lvl241-lvl2413-1] über den Vollzug der Lebensmittelgesetzgebung (LMVV) untersucht.
 
-[^annex4-lvlu1-lvl2-lvl24-lvl241-lvl2413-1]: [SR 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)
+[^annex4-lvlu1-lvl2-lvl24-lvl241-lvl2413-1]: [[AS 2017 359](https://fedlex.data.admin.ch/eli/oc/2017/65), [2018 1251](https://fedlex.data.admin.ch/eli/oc/2018/202)]. Siehe heute: die V vom 27. Mai 2020 (AS **817.042**).
 
 ### 2.4.1.4 Berücksichtigung von Stoffen aus anderen Quellen
 
@@ -1528,8 +1528,8 @@ Anhang 10[^t-7]
 
 [^annex10-lvlu1-1]
 
-[^t-7]: Fassung gemäss Ziff. I Abs. 3 der V des BLV vom 26. Sept. 2022 ([AS 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)). Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
-[^annex10-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2023/836](https://fedlex.data.admin.ch/eli/oc/2023/836) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-7]: Fassung gemäss Ziff. I Abs. 3 der V des BLV vom 26. Sept. 2022 ([AS 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)). Bereinigt gemäss Ziff. II Abs. 2 der V des EDI vom 8. Dez. 2023 ([AS 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)) und Ziff. I der V des BLV vom 29. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)).
+[^annex10-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/250](https://fedlex.data.admin.ch/eli/oc/2024/250) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 11
 
@@ -1537,7 +1537,7 @@ Anhang 11
 
 ## Symbol «NICHT ESSBAR»
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20240201/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20240701/de/xml/image/image2.png)
 
 Anhang 12
 

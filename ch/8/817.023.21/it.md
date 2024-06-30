@@ -3,11 +3,11 @@ sr: "817.023.21"
 title: Ordinanza del DFI del 16 dicembre 2016 sui materiali e gli oggetti destinati a entrare in contatto con le derrate alimentari (Ordinanza sui materiali e gli oggetti)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/164"
 language: it
-version: 2024-02-01
+version: 2024-07-01
 adopted: 2016-12-16
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2017-164-20240201-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20240201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2017-164-20240701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/164/20240201/it"
 
 (Ordinanza sui materiali e gli oggetti)
 
-del 16 dicembre 2016 (Stato 1° febbraio 2024)
+del 16 dicembre 2016 (Stato 1° luglio 2024)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -728,7 +728,7 @@ Allegato 1
 
 ## Simbolo riportato sui materiali e sugli oggetti, indicante l’uso al quale sono destinati
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20240201/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20240701/it/xml/image/image1.png)
 
 Allegato 2[^t-1]
 
@@ -738,8 +738,8 @@ Allegato 2[^t-1]
 
 [^annex2-lvlu1-1]
 
-[^t-1]: Nuovo testo giusta il n. II cpv. 2 dell’O del DFI del 23 ott. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Aggiornato dal n. I cpv. 1 dell’O del USAV del 26 set. 2022 ([RU 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)) e dal n. II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
-[^annex2-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2023/836](https://fedlex.data.admin.ch/eli/oc/2023/836) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-1]: Nuovo testo giusta il n. II cpv. 2 dell’O del DFI del 23 ott. 2019 ([RU 2019 3371](https://fedlex.data.admin.ch/eli/oc/2019/615)). Aggiornato dal n. I cpv. 1 dell’O dell’USAV del 26 set. 2022 ([RU 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)), dal n. II cpv. 2 dell’O del DFI dell’8 dic. 2023 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)) dal n. I dell’O dell’USAV del 29 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)).
+[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/250](https://fedlex.data.admin.ch/eli/oc/2024/250) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 3[^t-2]
 
@@ -1123,7 +1123,7 @@ La derrata alimentare è trattata conformemente alle istruzioni di cottura indic
 
 La migrazione specifica è analizzata nelle derrate alimentari secondo un metodo analitico conforme alle disposizioni dell’articolo 46 dell’ordinanza del 16 dicembre 2016[^annex4-lvlu1-lvl2-lvl24-lvl241-lvl2413-1] sull’esecuzione della legislazione sulle derrate alimentari (OELDerr).
 
-[^annex4-lvlu1-lvl2-lvl24-lvl241-lvl2413-1]: [RS 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)
+[^annex4-lvlu1-lvl2-lvl24-lvl241-lvl2413-1]: [[RU 2017 359](https://fedlex.data.admin.ch/eli/oc/2017/65); [2018 1251](https://fedlex.data.admin.ch/eli/oc/2018/202). [RU 2020 2465](https://fedlex.data.admin.ch/eli/oc/2020/460)art. 116]. Vedi ora: l’O del 27 mag. 2020 ([RS 817.042](https://fedlex.data.admin.ch/eli/cc/2020/460)).
 
 ### 2.4.1.4 Considerazione di sostanze provenienti da altre fonti
 
@@ -1526,8 +1526,8 @@ Allegato 10[^t-7]
 
 [^annex10-lvlu1-1]
 
-[^t-7]: Nuovo testo giusta il n. I cpv. 3 dell’O del USAV del 26 set. 2022 ([RU 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)). Aggiornato dal n. II cpv. 2 dell’O del DFI dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)).
-[^annex10-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2023/836](https://fedlex.data.admin.ch/eli/oc/2023/836) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-7]: Nuovo testo giusta il n. I cpv. 3 dell’O del USAV del 26 set. 2022 ([RU 2022 564](https://fedlex.data.admin.ch/eli/oc/2022/564)). Aggiornato dal n. II cpv. 2 dell’O del DFI dell’8 dic. 2023 ([RU 2023 836](https://fedlex.data.admin.ch/eli/oc/2023/836)) e dal n. I dell’O dell’USAV del 29 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 250](https://fedlex.data.admin.ch/eli/oc/2024/250)).
+[^annex10-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/250](https://fedlex.data.admin.ch/eli/oc/2024/250) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 11
 
@@ -1535,7 +1535,7 @@ Allegato 11
 
 ## Simbolo «Non mangiare»
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20240201/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/164/20240701/it/xml/image/image2.png)
 
 Allegato 12
 
