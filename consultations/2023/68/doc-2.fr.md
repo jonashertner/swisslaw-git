@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision totale de la loi fédérale sur l’encouragement du secteur de l’hébergement et avant-projet d’une nouvelle loi fédérale sur le programme d’impulsion visant à moderniser les établissements d’hébergement dans les lieux de vacances saisonniers
 document: Projet mis en consultation-2
 language: fr

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Totalrevision des Bundesgesetzes über die Förderung der Beherbergungswirtschaft und Entwurf für ein neues Bundesgesetz über das Impulsprogramm zur Modernisierung von Beherbergungsbetrieben in saisonalen Feriengebieten
 document: Vernehmlassungsvorlage-2
 language: de

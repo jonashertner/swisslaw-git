@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione totale della legge federale sulla promozione del settore alberghiero e avamprogetto di una nuova legge federale sul programma d’impulso per l’ammodernamento delle aziende alberghiere nelle località di vacanza stagionali
 document: Progetto posto in consultazione
 language: it
