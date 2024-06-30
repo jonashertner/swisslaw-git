@@ -4,11 +4,11 @@ title: "Ordinance of 18 March 2004 on the Federal Act on the Swiss National Bank
 short: NBO
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/233"
 language: en
-version: 2022-01-01
+version: 2024-07-01
 adopted: 2004-03-18
 in_force: 2004-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/233/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2004-233-20220101-en-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/233/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/233/20240701/en/xml/fedlex-data-admin-ch-eli-cc-2004-233-20240701-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/233/20240701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (National Bank Ordinance, NBO)
 
-of 18 March 2004 (Status as of 1 January 2022)
+of 18 March 2004 (Status as of 1 July 2024)
 
 The Swiss National Bank (SNB),
 
@@ -205,9 +205,9 @@ If the National Bank calls in third persons to conduct surveys, these shall, in 
 
 <sup>2</sup> Any exception from these obligations shall require the written permission of the National Bank.
 
-<sup>3</sup> Third persons must provide evidence of the fact that they have taken the necessary technical and organisational measures for the processing of these data according to the Ordinance of 21 August 2022[^9-1] on the Federal Act on Data Protection.
+<sup>3</sup> Third persons must provide evidence of the fact that they have taken the necessary technical and organisational measures for the processing of these data in accordance with the Data Protection Ordinance of 31 August 2022[^9-1].
 
-[^9-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568). The reference was adjusted to 1 Sept. 2023 in application of art. 12 para. 2 of the Publication Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^9-1]: [SR 235.11](https://fedlex.data.admin.ch/eli/cc/2022/568). The reference was amended to 1 Sept. 2023 in application of Art. 12 para. 2 of the Publication Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 
 #### Art. 10
 
@@ -244,9 +244,9 @@ If the National Bank calls in third persons to conduct surveys, these shall, in 
 The following Swiss franc denominated assets of the banks are eligible as minimum reserves:
 
 <table>
-<tr><td>a. coins in circulation (excluding commemorative coins and bullion coins)</td><td>100 percent</td></tr>
-<tr><td>b. banknotes</td><td>100 percent</td></tr>
-<tr><td>c. sight deposits at the National Bank</td><td>100 percent</td></tr>
+<tr><td>a. coins in circulation (excluding commemorative coins and bullion coins)</td><td>100 per cent</td></tr>
+<tr><td>b. banknotes</td><td>100 per cent</td></tr>
+<tr><td>c. sight deposits at the National Bank</td><td>100 per cent</td></tr>
 </table>
 
 #### Art. 14
@@ -259,35 +259,38 @@ The following Swiss franc denominated liabilities of the banks count towards the
 
 - a. liabilities arising from money market instruments which cannot be attributed to either banks or customers, and which mature within three months;
 - b. liabilities vis-à-vis banks payable on sight or maturing within three months;
-- c. 20 percent of liabilities arising from customer time deposits (excluding tied pension fund monies);
+- c.[^14-2] liabilities arising from customer time deposits, excluding tied pension fund monies;
 - d. liabilities arising from customer deposits payable on sight or maturing within three months (including call money);
 - e. liabilities arising from medium-term bank-issued notes maturing within three months;
-- f.[^14-2] ...
+- f.[^14-3] ...
 
 <sup>1bis</sup> Liabilities vis-à-vis banks which are themselves subject to minimum reserve requirements based on Articles 17 and 18 NBA are not counted in the calculation.
 
-<sup>2</sup> ...[^14-3]
+<sup>2</sup> ...[^14-4]
 
-<sup>3</sup> The terms used in paragraph 1 letters a–e refer to FINMA’s accounting regulations[^14-4].[^14-5]
+<sup>3</sup> The terms used in paragraph 1 letters a–e refer to FINMA’s accounting regulations[^14-5].[^14-6]
 
-<sup>4</sup> Liabilities towards the National Bank are not counted in the calculation of the minimum reserves.[^14-6]
+<sup>4</sup> Liabilities towards the National Bank are not counted in the calculation of the minimum reserves.[^14-7]
 
 [^14-1]: Amended by No I of the SNB O of 7 May 2014, in force since 1 Jan. 2015 ([AS 2014 3023](https://fedlex.data.admin.ch/eli/oc/2014/511)).
-[^14-2]: Repealed by No I of the SNB O of 31 Oct. 2019, with effect from 1 Jan. 2020 ([AS 2019 3909](https://fedlex.data.admin.ch/eli/oc/2019/706)).
+[^14-2]: Amended by No I of the SNB O of 11 April 2024, in force since 1 July 2024 ([AS 2024 232](https://fedlex.data.admin.ch/eli/oc/2024/232)).
 [^14-3]: Repealed by No I of the SNB O of 31 Oct. 2019, with effect from 1 Jan. 2020 ([AS 2019 3909](https://fedlex.data.admin.ch/eli/oc/2019/706)).
-[^14-4]: FINMA Accounting O of 31 Oct. ober 2019 ([SR 952.024.1](https://fedlex.data.admin.ch/eli/cc/2019/760)), as well as FINMA Circular 2020/1 ‘Accounting – Banks’ of 31 Oct. 2019.
-[^14-5]: Inserted by No I of the SNB O of 2 July 2020, in force since 1 Jan. 2021 ([AS 2020 4627](https://fedlex.data.admin.ch/eli/oc/2020/827)).
+[^14-4]: Repealed by No I of the SNB O of 31 Oct. 2019, with effect from 1 Jan. 2020 ([AS 2019 3909](https://fedlex.data.admin.ch/eli/oc/2019/706)).
+[^14-5]: FINMA Accounting O of 31 Oct. 2019 ([SR 952.024.1](https://fedlex.data.admin.ch/eli/cc/2019/760)), as well as FINMA Circular 2020/1 ‘Accounting – Banks’ of 31 Oct. 2019.
 [^14-6]: Inserted by No I of the SNB O of 2 July 2020, in force since 1 Jan. 2021 ([AS 2020 4627](https://fedlex.data.admin.ch/eli/oc/2020/827)).
+[^14-7]: Inserted by No I of the SNB O of 2 July 2020, in force since 1 Jan. 2021 ([AS 2020 4627](https://fedlex.data.admin.ch/eli/oc/2020/827)).
 
 #### Art. 15
 
 **Level of minimum reserve and fulfilment of minimum reserve requirement**
 
-<sup>1</sup> The required minimum reserve amounts to 2.5 percent of the average of the liabilities at the end of the three months preceding the reporting period.
+<sup>1</sup> The required minimum reserve amounts to 4 per cent of the average of the liabilities at the end of the three months preceding the reporting period.[^15-1]
 
 <sup>2</sup> The minimum reserve requirement must be fulfilled, on an average of the respective reporting period, from the 20th of one month until the 19th of the following month.
 
 <sup>3</sup> The average according to paragraph 2 will be calculated based on the relation between total daily assets available at the close of business according to Article 13, on the one hand, and the number of calendar days in the reporting period, on the other hand. For Saturdays, Sundays and public holidays, the assets of the last preceding business day are to be entered.
+
+[^15-1]: Amended by No I of the SNB O of 11 April 2024, in force since 1 July 2024 ([AS 2024 232](https://fedlex.data.admin.ch/eli/oc/2024/232)).
 
 #### Art. 16
 
@@ -299,7 +302,7 @@ By the end of the month of the terminated reporting period, the banks shall repo
 
 **Interest obligation**
 
-<sup>1</sup> If a bank fails to fulfil the minimum reserve requirement for a reporting period that has ended, it shall pay interest on the shortfall to the National Bank for the number of days of the respective reporting period. The interest rate shall exceed by four percentage points the overnight rate for Swiss franc deposits payable on average in the respective reporting period. The SARON (fixing at close of trading) serves as the basis. In the event of non-fulfilment, an amount of at least CHF 500 is payable.[^17-1]
+<sup>1</sup> If a bank fails to fulfil the minimum reserve requirement for a reporting period that has ended, it shall pay interest on the shortfall to the National Bank for the number of days of the respective reporting period. The interest rate shall exceed by four per centage points the overnight rate for Swiss franc deposits payable on average in the respective reporting period. The SARON (fixing at close of trading) serves as the basis. In the event of non-fulfilment, an amount of at least CHF 500 is payable.[^17-1]
 
 <sup>2</sup> The National Bank shall order the bank to pay the interest amount by the end of the second month following the end of the reporting period. Should the bank disagree with the payment of interest it may, within 30 days, demand the issuance of a contestable order pursuant to the terms of Article 52 NBA.
 
@@ -666,7 +669,8 @@ When selecting stress scenarios, the operator shall, in particular, take into ac
 - a. the default of the participant or group of participants which would generate the largest aggregate payment obligation for the financial market infrastructure;
 - b. additionally, for a central counterparty, the default of the two participants or two groups of participants which would generate the largest aggregate payment obligation for the central counterparty;
 - c. the default of the largest liquidity provider in each of the five currencies in which the financial market infrastructure has the largest payment obligations.
-- [tab] <sup>4</sup> Liquid resources in a currency, as specified in paragraph 2, comprise cash, credit lines and collateral in accordance with Article 50 paragraph 1 and Article 58 paragraph 1 of the Financial Market Infrastructure Ordinance of 25 November 2015[^29-1] (FinMIO).[^29-2]
+
+<sup>4</sup> Liquid resources in a currency, as specified in paragraph 2, comprise cash, credit lines and collateral in accordance with Article 50 paragraph 1 and Article 58 paragraph 1 of the Financial Market Infrastructure Ordinance of 25 November 2015[^29-1] (FinMIO).[^29-2]
 
 <sup>5</sup> The operator shall diversify its liquidity providers and avoid concentration risk for collateral and assets in accordance with Article 50 paragraph 1 letters d and e FinMIO as well as Article 58 paragraph 1 letters d and e FinMIO.[^29-3]
 

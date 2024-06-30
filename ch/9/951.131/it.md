@@ -4,11 +4,11 @@ title: "Ordinanza del 18 marzo 2004 relativa alla legge federale sulla Banca naz
 short: OBN
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/233"
 language: it
-version: 2022-01-01
+version: 2024-07-01
 adopted: 2004-03-18
 in_force: 2004-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/233/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2004-233-20220101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/233/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/233/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2004-233-20240701-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/233/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/233/20220101/it"
 
 (Ordinanza sulla Banca nazionale, OBN)
 
-del 18 marzo 2004 (Stato 1° gennaio 2022)
+del 18 marzo 2004 (Stato 1° luglio 2024)
 
 La Banca nazionale svizzera,
 
@@ -200,7 +200,8 @@ Se la Banca nazionale ricorre a terzi per effettuare le rilevazioni, essi sono c
 - a. utilizzare unicamente in esecuzione di questo mandato i dati, che sono loro comunicati o che essi raccolgono nell’ambito del loro mandato;
 - b. non collegare la rilevazione effettuata per la Banca nazionale con altre rilevazioni;
 - c. ritornare tutti i dati alla Banca nazionale e cancellare i dati memorizzati elettronicamente dopo la cessazione del mandato.
-- [tab] <sup>2</sup> Per beneficiare di una deroga a questi obblighi è necessaria l’autorizzazione scritta della Banca nazionale.
+
+<sup>2</sup> Per beneficiare di una deroga a questi obblighi è necessaria l’autorizzazione scritta della Banca nazionale.
 
 <sup>3</sup> I terzi devono provare di avere adottato le misure tecniche e organizzative necessarie all’elaborazione di questi dati conformemente all’ordinanza del 31 agosto 2022[^9-1] sulla protezione dei dati[^9-2].
 
@@ -257,35 +258,38 @@ Per il calcolo delle riserve minime sono determinanti i seguenti impegni delle b
 
 - a. gli impegni risultanti da titoli del mercato monetario che non sono classificabili né come impegni nei confronti di banche né come impegni nei confronti della clientela e sono esigibili entro tre mesi;
 - b. gli impegni a vista o esigibili entro tre mesi nei confronti di banche;
-- c. il 20 per cento degli impegni risultanti da depositi revocabili della clientela (senza i fondi depositati nel quadro della previdenza vincolata).
+- c.[^14-2] gli impegni risultanti da depositi revocabili della clientela, senza i fondi depositati nel quadro della previdenza vincolata;
 - d. altri impegni risultanti da depositi della clientela a vista o esigibili entro tre mesi (*call money* inclusa);
 - e. gli impegni risultanti da obbligazioni di cassa esigibili entro tre mesi;
-- f.[^14-2] ...
+- f.[^14-3] ...
 
 <sup>1bis</sup> Non sono determinanti per il calcolo gli impegni nei confronti di banche tenute esse stesse a mantenere riserve minime conformemente agli articoli 17 e 18 della LBN.
 
-<sup>2</sup> ...[^14-3]
+<sup>2</sup> ...[^14-4]
 
-<sup>3</sup> I termini utilizzati nel capoverso 1 lettere a–e si riferiscono alle prescrizioni della FINMA in materia di presentazione dei conti[^14-4].[^14-5]
+<sup>3</sup> I termini utilizzati nel capoverso 1 lettere a–e si riferiscono alle prescrizioni della FINMA in materia di presentazione dei conti[^14-5].[^14-6]
 
-<sup>4</sup> Non sono determinanti per il calcolo delle riserve minime gli impegni nei confronti della Banca nazionale.[^14-6]
+<sup>4</sup> Non sono determinanti per il calcolo delle riserve minime gli impegni nei confronti della Banca nazionale.[^14-7]
 
 [^14-1]: Nuovo testo giusta il n. I dell’O della BNS del 7 mag. 2014, in vigore dal 1° gen. 2015 ([RU 2014 3023](https://fedlex.data.admin.ch/eli/oc/2014/511)).
-[^14-2]: Abrogata dal n. I dell’O della BNS del 31 ott. 2019, con effetto dal 1° gen. 2020 ([RU 2019 3909](https://fedlex.data.admin.ch/eli/oc/2019/706)).
-[^14-3]: Abrogato dal n. I dell’O della BNS del 31 ott. 2019, con effetto dal 1° gen. 2020 ([RU 2019 3909](https://fedlex.data.admin.ch/eli/oc/2019/706)).
-[^14-4]: O FINMA del 31 ott. 2019 sui conti ([RS 952.024.1](https://fedlex.data.admin.ch/eli/cc/2019/760)) nonché circolare FINMA 2020/1 del 31 ott. 2019 Direttive contabili ‒ banche.
-[^14-5]: Introdotto dal n. I dell’O della BNS del 2 lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4627](https://fedlex.data.admin.ch/eli/oc/2020/827)).
+[^14-2]: Nuovo testo giusta il n. I dell’O della BNS dell’11 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 232](https://fedlex.data.admin.ch/eli/oc/2024/232)).
+[^14-3]: Abrogata dal n. I dell’O della BNS del 31 ott. 2019, con effetto dal 1° gen. 2020 ([RU 2019 3909](https://fedlex.data.admin.ch/eli/oc/2019/706)).
+[^14-4]: Abrogato dal n. I dell’O della BNS del 31 ott. 2019, con effetto dal 1° gen. 2020 ([RU 2019 3909](https://fedlex.data.admin.ch/eli/oc/2019/706)).
+[^14-5]: O FINMA del 31 ott. 2019 sui conti ([RS 952.024.1](https://fedlex.data.admin.ch/eli/cc/2019/760)) nonché circolare FINMA 2020/1 del 31 ott. 2019 Direttive contabili ‒ banche.
 [^14-6]: Introdotto dal n. I dell’O della BNS del 2 lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4627](https://fedlex.data.admin.ch/eli/oc/2020/827)).
+[^14-7]: Introdotto dal n. I dell’O della BNS del 2 lug. 2020, in vigore dal 1° gen. 2021 ([RU 2020 4627](https://fedlex.data.admin.ch/eli/oc/2020/827)).
 
 #### Art. 15
 
 **Importo delle riserve minime e adempimento delle esigenze di riserve minime**
 
-<sup>1</sup> Le riserve minime necessarie ammontano al 2,5 per cento della media dei valori degli impegni determinanti, rilevati alla fine dei tre mesi precedenti il rispettivo periodo di riferimento.
+<sup>1</sup> Le riserve minime necessarie ammontano al 4 per cento della media dei valori degli impegni determinanti, rilevati alla fine dei tre mesi precedenti il rispettivo periodo di riferimento.[^15-1]
 
 <sup>2</sup> Le esigenze di riserve minime devono essere adempiute mediamente nel rispettivo periodo di riferimento dal 20 di ogni mese al 19 del mese successivo.
 
 <sup>3</sup> La media di cui al capoverso 2 è calcolata in base al rapporto tra la somma degli attivi secondo l’articolo 13 al momento della chiusura dei conti e il numero dei giorni civili del periodo di riferimento. Per i sabati, le domeniche e i giorni festivi vengono inseriti le consistenze dell’ultimo giorno feriale precedente.
+
+[^15-1]: Nuovo testo giusta il n. I dell’O della BNS dell’11 apr. 2024, in vigore dal 1° lug. 2024 ([RU 2024 232](https://fedlex.data.admin.ch/eli/oc/2024/232)).
 
 #### Art. 16
 

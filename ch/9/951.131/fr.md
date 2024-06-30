@@ -4,11 +4,11 @@ title: "Ordonnance du 18 mars 2004 relative à la loi fédérale sur la Banque n
 short: OBN
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/233"
 language: fr
-version: 2022-01-01
+version: 2024-07-01
 adopted: 2004-03-18
 in_force: 2004-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/233/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-233-20220101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/233/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/233/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2004-233-20240701-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/233/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/233/20220101/fr"
 
 (Ordonnance de la Banque nationale, OBN)
 
-du 18 mars 2004 (État le 1<sup>er</sup> janvier 2022)
+du 18 mars 2004 (État le 1<sup>er</sup> juillet 2024)
 
 La Banque nationale suisse,
 
@@ -257,35 +257,38 @@ Pour le calcul des réserves minimales, les banques doivent tenir compte des eng
 
 - a. engagements résultant de papiers monétaires ne pouvant être attribués ni à des banques ni à la clientèle, jusqu’à trois mois d’échéance;
 - b. engagements envers les banques à vue ou échéant dans les trois mois;
-- c. 20 % des engagements résultant des dépôts de la clientèle dénonçables (sans les fonds déposés dans le cadre de la prévoyance liée);
+- c.[^14-2] engagements résultant des dépôts de la clientèle dénonçables, sans les fonds déposés dans le cadre de la prévoyance liée;
 - d. engagements résultant des dépôts de la clientèle à vue ou échéant dans les trois mois (y compris les avoirs au jour le jour);
 - e. engagements résultant d’obligations de caisse échéant dans les trois mois;
-- f.[^14-2] ...
+- f.[^14-3] ...
 
 <sup>1bis</sup> Les engagements envers des banques elles-mêmes soumises à l’obligation de détenir des réserves minimales en vertu des art. 17 et 18 LBN ne sont pas déterminants pour le calcul des réserves minimales.
 
-<sup>2</sup> ...[^14-3]
+<sup>2</sup> ...[^14-4]
 
-<sup>3</sup> Les termes utilisés à l’al. 1, let. a à e, se réfèrent aux prescriptions comptables de la FINMA[^14-4].[^14-5]
+<sup>3</sup> Les termes utilisés à l’al. 1, let. a à e, se réfèrent aux prescriptions comptables de la FINMA[^14-5].[^14-6]
 
-<sup>4</sup> Les engagements envers la Banque nationale ne sont pas déterminants pour le calcul des réserves minimales.[^14-6]
+<sup>4</sup> Les engagements envers la Banque nationale ne sont pas déterminants pour le calcul des réserves minimales.[^14-7]
 
 [^14-1]: Nouvelle teneur selon le ch. I de l’O de la BNS du 7 mai 2014, en vigueur depuis le 1<sup>er</sup> janv. 2015 ([RO 2014 3023](https://fedlex.data.admin.ch/eli/oc/2014/511)).
-[^14-2]: Abrogée par le ch. I de l’O de la BNS du 31 oct. 2019, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 3909](https://fedlex.data.admin.ch/eli/oc/2019/706)).
-[^14-3]: Abrogé par le ch. I de l’O de la BNS du 31 oct. 2019, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 3909](https://fedlex.data.admin.ch/eli/oc/2019/706)).
-[^14-4]: O de la FINMA du 31 octobre 2019 sur les comptes ([RS 952.024.1](https://fedlex.data.admin.ch/eli/cc/2019/760)) et circulaire-FINMA 2020/1 du 31 octobre 2019 «Comptabilité ‒ banques».
-[^14-5]: Introduit par le ch. I de l’O de la BNS du 2 juil. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4627](https://fedlex.data.admin.ch/eli/oc/2020/827)).
+[^14-2]: Nouvelle teneur selon le ch. I de l’O de la BNS du 11 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 232](https://fedlex.data.admin.ch/eli/oc/2024/232)).
+[^14-3]: Abrogée par le ch. I de l’O de la BNS du 31 oct. 2019, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 3909](https://fedlex.data.admin.ch/eli/oc/2019/706)).
+[^14-4]: Abrogé par le ch. I de l’O de la BNS du 31 oct. 2019, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2019 3909](https://fedlex.data.admin.ch/eli/oc/2019/706)).
+[^14-5]: O de la FINMA du 31 octobre 2019 sur les comptes ([RS 952.024.1](https://fedlex.data.admin.ch/eli/cc/2019/760)) et circulaire-FINMA 2020/1 du 31 octobre 2019 «Comptabilité ‒ banques».
 [^14-6]: Introduit par le ch. I de l’O de la BNS du 2 juil. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4627](https://fedlex.data.admin.ch/eli/oc/2020/827)).
+[^14-7]: Introduit par le ch. I de l’O de la BNS du 2 juil. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 4627](https://fedlex.data.admin.ch/eli/oc/2020/827)).
 
 #### Art. 15
 
 **Montant des réserves minimales et accomplissement de l’exigence en matière de réserves minimales**
 
-<sup>1</sup> Les réserves minimales à détenir s’élèvent à 2,5 % de la moyenne des montants que les engagements déterminants ont atteints à la fin de chacun des trois mois précédant la période d’application concernée.
+<sup>1</sup> Les réserves minimales à détenir s’élèvent à 4 % de la moyenne des montants que les engagements déterminants ont atteints à la fin de chacun des trois mois précédant la période d’application concernée.[^15-1]
 
 <sup>2</sup> L’exigence en matière de réserves minimales doit être remplie en moyenne d’une période d’application qui va du 20 d’un mois au 19 du mois suivant.
 
 <sup>3</sup> La moyenne selon l’al. 2 est obtenue en divisant la somme des montants que les actifs prévus à l’art. 13 atteignent chaque jour, à la clôture, par le nombre de jours civils de la période d’application. Pour les samedis, dimanches et jours fériés, les montants du jour ouvrable qui précède sont pris en compte.
+
+[^15-1]: Nouvelle teneur selon le ch. I de l’O de la BNS du 11 avr. 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 232](https://fedlex.data.admin.ch/eli/oc/2024/232)).
 
 #### Art. 16
 

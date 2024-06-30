@@ -4,11 +4,11 @@ title: "Verordnung vom 18. März 2004 zum Bundesgesetz über die Schweizerische 
 short: NBV
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/233"
 language: de
-version: 2022-01-01
+version: 2024-07-01
 adopted: 2004-03-18
 in_force: 2004-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/233/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2004-233-20220101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/233/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/233/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2004-233-20240701-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/233/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/233/20220101/de"
 
 (Nationalbankverordnung, NBV)
 
-vom 18. März 2004 (Stand am 1. Januar 2022)
+vom 18. März 2004 (Stand am 1. Juli 2024)
 
 Die Schweizerische Nationalbank (SNB),
 
@@ -257,35 +257,38 @@ Für die Berechnung der Mindestreserven sind folgende auf Schweizerfranken laute
 
 - a. Verpflichtungen aus Geldmarktpapieren, die weder Banken noch Kunden zuordenbar sind und die innerhalb von drei Monaten fällig werden;
 - b. Verpflichtungen gegenüber Banken, die auf Sicht lauten oder innerhalb von drei Monaten fällig werden;
-- c. 20 Prozent der Verpflichtungen aus kündbaren Kundeneinlagen (ohne gebundene Vorsorgegelder);
+- c.[^14-2] Verpflichtungen aus kündbaren Kundeneinlagen, ohne gebundene Vorsorgegelder;
 - d. Verpflichtungen aus Kundeneinlagen, die auf Sicht lauten oder innerhalb von drei Monaten fällig werden (inklusive *Callgelder*);
 - e. Verpflichtungen aus Kassenobligationen, die innerhalb von drei Monaten fällig werden;
-- f.[^14-2] …
+- f.[^14-3] …
 
 <sup>1bis</sup> Für die Berechnung nicht massgeblich sind Verpflichtungen gegenüber Banken, die selber aufgrund der Artikel 17 und 18 NBG mindestreservepflichtig sind.
 
-<sup>2</sup> …[^14-3]
+<sup>2</sup> …[^14-4]
 
-<sup>3</sup> Die in Absatz 1 Buchstaben a–e verwendeten Begriffe beziehen sich auf die Rechnungslegungsvorschriften der FINMA[^14-4].[^14-5]
+<sup>3</sup> Die in Absatz 1 Buchstaben a–e verwendeten Begriffe beziehen sich auf die Rechnungslegungsvorschriften der FINMA[^14-5].[^14-6]
 
-<sup>4</sup> Für die Berechnung der Mindestreserven nicht massgeblich sind Verpflichtungen gegenüber der Nationalbank.[^14-6]
+<sup>4</sup> Für die Berechnung der Mindestreserven nicht massgeblich sind Verpflichtungen gegenüber der Nationalbank.[^14-7]
 
 [^14-1]: Fassung gemäss Ziff. I der V der SNB vom 7. Mai 2014, in Kraft seit 1. Jan. 2015 ([AS 2014 3023](https://fedlex.data.admin.ch/eli/oc/2014/511)).
-[^14-2]: Aufgehoben durch Ziff. I der V der SNB vom 31. Okt. 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 3909](https://fedlex.data.admin.ch/eli/oc/2019/706)).
+[^14-2]: Fassung gemäss Ziff. I der V der SNB vom 11. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 232](https://fedlex.data.admin.ch/eli/oc/2024/232)).
 [^14-3]: Aufgehoben durch Ziff. I der V der SNB vom 31. Okt. 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 3909](https://fedlex.data.admin.ch/eli/oc/2019/706)).
-[^14-4]: Rechnungslegungsverordnung-FINMA vom 31. Oktober 2019 ([SR 952.024.1](https://fedlex.data.admin.ch/eli/cc/2019/760)) sowie FINMA-Rundschreiben 2020/1 vom 31. Oktober 2019 betreffend Rechnungslegung ‒ Banken.
-[^14-5]: Eingefügt durch Ziff. I der V der SNB vom 2. Juli 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4627](https://fedlex.data.admin.ch/eli/oc/2020/827)).
+[^14-4]: Aufgehoben durch Ziff. I der V der SNB vom 31. Okt. 2019, mit Wirkung seit 1. Jan. 2020 ([AS 2019 3909](https://fedlex.data.admin.ch/eli/oc/2019/706)).
+[^14-5]: Rechnungslegungsverordnung-FINMA vom 31. Oktober 2019 ([SR 952.024.1](https://fedlex.data.admin.ch/eli/cc/2019/760)) sowie FINMA-Rundschreiben 2020/1 vom 31. Oktober 2019 betreffend Rechnungslegung ‒ Banken.
 [^14-6]: Eingefügt durch Ziff. I der V der SNB vom 2. Juli 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4627](https://fedlex.data.admin.ch/eli/oc/2020/827)).
+[^14-7]: Eingefügt durch Ziff. I der V der SNB vom 2. Juli 2020, in Kraft seit 1. Jan. 2021 ([AS 2020 4627](https://fedlex.data.admin.ch/eli/oc/2020/827)).
 
 #### Art. 15
 
 **Höhe der Mindestreserve und Erfüllung des Mindestreserveerfordernisses**
 
-<sup>1</sup> Die erforderliche Mindestreserve beträgt 2,5 Prozent des Durchschnitts aus den drei der jeweiligen Unterlegungsperiode vorausgegangenen Monatsendwerten der massgeblichen Verbindlichkeiten.
+<sup>1</sup> Die erforderliche Mindestreserve beträgt 4 Prozent des Durchschnitts aus den drei der jeweiligen Unterlegungsperiode vorausgegangenen Monatsendwerten der massgeblichen Verbindlichkeiten.[^15-1]
 
 <sup>2</sup> Das Mindestreserveerfordernis muss im Durchschnitt der jeweiligen Unterlegungsperiode vom 20. eines Monats bis zum 19. des Folgemonats erfüllt werden.
 
 <sup>3</sup> Der Durchschnitt gemäss Absatz 2 wird auf Grund des Verhältnisses zwischen der Summe der täglichen, jeweils bei Geschäftsabschluss vorhandenen Bestände an Aktiven gemäss Artikel 13 einerseits und der Anzahl der Kalendertage der Unterlegungsperiode andererseits berechnet. Für Samstage, Sonntage und Feiertage sind die Bestände des letzten vorangegangenen Werktages einzusetzen.
+
+[^15-1]: Fassung gemäss Ziff. I der V der SNB vom 11. April 2024, in Kraft seit 1. Juli 2024 ([AS 2024 232](https://fedlex.data.admin.ch/eli/oc/2024/232)).
 
 #### Art. 16
 
