@@ -4,11 +4,11 @@ title: "Ordinanza dell’8 novembre 2023 sulla sicurezza delle informazioni in s
 short: OSIn
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/735"
 language: it
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2023-11-08
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/735/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2023-735-20240101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/735/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/735/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2023-735-20240701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/735/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/735/20240101/it"
 
 (Ordinanza sulla sicurezza delle informazioni, OSIn)
 
-dell’8 novembre 2023 (Stato 1° gennaio 2024)
+dell’8 novembre 2023 (Stato 1° luglio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -121,7 +121,7 @@ Fatto salvo l’articolo 3 capoverso 2 LSIn, per i Cantoni si applicano le segue
 
 ### (art. 7 cpv. 1 LSIn)
 
-Le unità amministrative di cui all’articolo 2 capoverso 1 lettera c, i dipartimenti e il servizio specializzato della Confederazione per la sicurezza delle informazioni tengono un registro ciascuno delle basi legali e degli obblighi contrattuali relativi alla sicurezza delle informazioni determinanti nel loro settore di competenza e lo tengono aggiornato.
+Le unità amministrative di cui all’articolo 2 capoverso 1 lettera c, i dipartimenti e il Servizio specializzato della Confederazione per la sicurezza delle informazioni tengono un registro ciascuno delle basi legali e degli obblighi contrattuali relativi alla sicurezza delle informazioni determinanti nel loro settore di competenza e lo tengono aggiornato.
 
 #### Art. 7
 
@@ -165,7 +165,7 @@ Le unità amministrative di cui all’articolo 2 capoverso 1 lettera c valutano 
 - c. controllare il rispetto delle direttive;
 - d. comprovare l’accettazione dei rischi residui.
 
-<sup>2</sup> Il servizio specializzato della Confederazione per la sicurezza delle informazioni, l’Ufficio federale della cibersicurezza (UFCS), le unità amministrative che forniscono prestazioni e gli organi di sicurezza della Confederazione informano le unità amministrative di cui all’articolo 2 capoverso 1 lettera c e i dipartimenti in merito alle minacce e alle vulnerabilità attuali nonché in merito ai rischi che li riguardano. In caso di necessità raccomandano misure volte a ridurre i rischi.
+<sup>2</sup> Il Servizio specializzato della Confederazione per la sicurezza delle informazioni, l’Ufficio federale della cibersicurezza (UFCS), le unità amministrative che forniscono prestazioni e gli organi di sicurezza della Confederazione informano le unità amministrative di cui all’articolo 2 capoverso 1 lettera c e i dipartimenti in merito alle minacce e alle vulnerabilità attuali nonché in merito ai rischi che li riguardano. In caso di necessità raccomandano misure volte a ridurre i rischi.
 
 <sup>3</sup> Le unità amministrative di cui all’articolo 2 capoverso 1 lettera c redigono un rapporto sui loro rischi relativi alla sicurezza delle informazioni nel quadro del processo ordinario di gestione dei rischi secondo le direttive dell’Amministrazione federale delle finanze.
 
@@ -177,9 +177,9 @@ Le unità amministrative di cui all’articolo 2 capoverso 1 lettera c valutano 
 
 <sup>1</sup> Se un’unità amministrativa per un oggetto da proteggere non è in grado di adempiere a una direttiva per essa vincolante prevista da un’istruzione generale e astratta secondo l’articolo 85 LSIn essa necessita di un’autorizzazione eccezionale dell’organo che ha emanato le istruzioni.
 
-<sup>2</sup> Se una deroga che rientra nell’ambito di competenza del servizio specializzato della Confederazione per la sicurezza delle informazioni riguarda anche direttive della CaF sulla trasformazione digitale e la governance delle TIC, il servizio specializzato della Confederazione per la sicurezza delle informazioni sente in via preliminare il delegato TDT di cui all’articolo 4 capoverso 1 OTDI[^9-1].
+<sup>2</sup> Se una deroga che rientra nell’ambito di competenza del Servizio specializzato della Confederazione per la sicurezza delle informazioni riguarda anche direttive della CaF sulla trasformazione digitale e la governance delle TIC, il Servizio specializzato della Confederazione per la sicurezza delle informazioni sente in via preliminare il delegato TDT di cui all’articolo 4 capoverso 1 OTDI[^9-1].
 
-<sup>3</sup> Le unità amministrative di cui all’articolo 2 capoverso 1 lettera c, i dipartimenti e il servizio specializzato della Confederazione per la sicurezza delle informazioni tengono ciascuno un registro delle autorizzazioni eccezionali valide.
+<sup>3</sup> Le unità amministrative di cui all’articolo 2 capoverso 1 lettera c, i dipartimenti e il Servizio specializzato della Confederazione per la sicurezza delle informazioni tengono ciascuno un registro delle autorizzazioni eccezionali valide.
 
 [^9-1]: [RS 172.010.58](https://fedlex.data.admin.ch/eli/cc/2020/988)
 
@@ -191,11 +191,13 @@ Le unità amministrative di cui all’articolo 2 capoverso 1 lettera c valutano 
 
 <sup>1</sup> Le unità amministrative di cui all’articolo 2 capoverso 1 lettera c valutano i rischi per i loro oggetti da proteggere che derivano dalla collaborazione con terzi e la loro dipendenza da terzi.
 
-<sup>2</sup> I servizi d’acquisto di cui agli articoli 9 e 10 dell’ordinanza del 24 ottobre 2012[^10-1] concernente l’organizzazione degli acquisti pubblici dell’Amministrazione federale (OOAPub) partecipano alla valutazione e mettono a disposizione le informazioni necessarie.
+<sup>2</sup> I servizi centrali d’acquisto di cui all’articolo 5 dell’ordinanza del 1° maggio 2024[^10-1] concernente l’organizzazione degli appalti pubblici dell’Amministrazione federale (OOAPub) partecipano alla valutazione e mettono a disposizione le informazioni necessarie.[^10-2]
 
-<sup>3</sup> Previa consultazione dell’UFCS e della Conferenza degli acquisti della Confederazione di cui all’articolo 24 OOAPub, il servizio specializzato della Confederazione per la sicurezza delle informazioni raccomanda quali disposizioni in materia di sicurezza delle informazioni devono essere contemplate in tutti i contratti di acquisto e per prestazioni di servizio della Confederazione.
+<sup>3</sup> Previa consultazione dell’UFCS e della Conferenza degli acquisti della Confederazione di cui all’articolo 30 OOAPub, il Servizio specializzato della Confederazione per la sicurezza delle informazioni raccomanda quali disposizioni in materia di sicurezza delle informazioni devono essere contemplate in tutti i contratti di acquisto e per prestazioni di servizio della Confederazione.[^10-3]
 
 [^10-1]: [RS 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
+[^10-2]: Nuovo testo giusta l’art. 44 cpv. 2 n. 1 dell’O del 1° mag. 2024 concernente l’organizzazione degli appalti pubblici dell’Amministrazione federale, in vigore dal 1° lug. 2024 ([RU 2024 224](https://fedlex.data.admin.ch/eli/oc/2024/224)).
+[^10-3]: Nuovo testo giusta l’art. 44 cpv. 2 n. 1 dell’O del 1° mag. 2024 concernente l’organizzazione degli appalti pubblici dell’Amministrazione federale, in vigore dal 1° lug. 2024 ([RU 2024 224](https://fedlex.data.admin.ch/eli/oc/2024/224)).
 
 #### Art. 11
 
@@ -216,9 +218,9 @@ I contenuti delle formazioni riguardano in particolare:
 - e. i compiti di controllo dei superiori;
 - f. l’attuazione della sicurezza delle informazioni nei progetti e nell’attività operativa.
 
-<sup>3</sup> Le unità amministrative di cui all’articolo 2 capoverso 1 lettera c, i dipartimenti e il servizio specializzato della Confederazione per la sicurezza delle informazioni provvedono a sensibilizzare periodicamente i collaboratori di tutti i livelli in merito ai rischi legati alla sicurezza delle informazioni.
+<sup>3</sup> Le unità amministrative di cui all’articolo 2 capoverso 1 lettera c, i dipartimenti e il Servizio specializzato della Confederazione per la sicurezza delle informazioni provvedono a sensibilizzare periodicamente i collaboratori di tutti i livelli in merito ai rischi legati alla sicurezza delle informazioni.
 
-<sup>4</sup> Il servizio specializzato della Confederazione per la sicurezza delle informazioni realizza ausili per le attività di formazione e di sensibilizzazione.
+<sup>4</sup> Il Servizio specializzato della Confederazione per la sicurezza delle informazioni realizza ausili per le attività di formazione e di sensibilizzazione.
 
 #### Art. 12
 
@@ -230,13 +232,13 @@ I contenuti delle formazioni riguardano in particolare:
 
 <sup>2</sup> Se un fornitore di prestazioni individua incidenti legati alla sicurezza o lacune in materia di sicurezza che riguardano una delle unità amministrative che beneficiano delle loro prestazioni, li notifica senza indugio e fornisce sostegno per quanto riguarda la loro gestione o il loro trattamento.
 
-<sup>3</sup> Il servizio specializzato della Confederazione per la sicurezza delle informazioni e l’UFCS possono fornire sostegno alle unità amministrative di cui all’articolo 2 capoverso 1 lettera c e ai dipartimenti nella gestione di incidenti legati alla sicurezza e di lacune in materia di sicurezza.
+<sup>3</sup> Il Servizio specializzato della Confederazione per la sicurezza delle informazioni e l’UFCS possono fornire sostegno alle unità amministrative di cui all’articolo 2 capoverso 1 lettera c e ai dipartimenti nella gestione di incidenti legati alla sicurezza e di lacune in materia di sicurezza.
 
 <sup>4</sup> Quando gestiscono incidenti legati alla sicurezza, le unità amministrative di cui all’articolo 2 capoverso 1 lettera c verificano se, secondo la legislazione sulla protezione dei dati, occorre effettuare una notifica all’Incaricato federale della protezione dei dati e della trasparenza.
 
 <sup>5</sup>
 
-Informano senza indugio il loro dipartimento e il servizio specializzato della Confederazione per la sicurezza delle informazioni in merito all’incidente legato alla sicurezza o alla lacuna in materia di sicurezza se è soddisfatta una delle condizioni seguenti:
+Informano senza indugio il loro dipartimento e il Servizio specializzato della Confederazione per la sicurezza delle informazioni in merito all’incidente legato alla sicurezza o alla lacuna in materia di sicurezza se è soddisfatta una delle condizioni seguenti:
 
 - a. potrebbe essere compromesso il funzionamento dell’Amministrazione federale;
 - b. è interessato un mezzo informatico del livello di sicurezza «protezione elevata» o «protezione molto elevata»;
@@ -245,7 +247,7 @@ Informano senza indugio il loro dipartimento e il servizio specializzato della C
 - e. l’incidente legato alla sicurezza o la lacuna in materia di sicurezza potrebbe avere un’importanza politica elevata;
 - f. l’incidente legato alla sicurezza o la lacuna in materia di sicurezza richiede misure che vanno oltre la procedura stabilita secondo il capoverso 1.
 
-<sup>6</sup> Il servizio specializzato della Confederazione per la sicurezza delle informazioni valuta il rischio e la necessità di sostegno insieme all’unità amministrativa interessata.
+<sup>6</sup> Il Servizio specializzato della Confederazione per la sicurezza delle informazioni valuta il rischio e la necessità di sostegno insieme all’unità amministrativa interessata.
 
 <sup>7</sup>
 
@@ -256,7 +258,7 @@ Nei casi di cui al capoverso 5, d’intesa con l’unità amministrativa interes
 - c. possono impiegare specialisti esterni a scopo di sostegno;
 - d. informano la direzione delle unità amministrative e dei dipartimenti interessati in merito all’evoluzione.
 
-<sup>8</sup> Se dopo un incidente legato alla sicurezza o una lacuna in materia di sicurezza la sicurezza delle informazioni è stata ripristinata e se i lavori successivi necessari nonché il loro finanziamento sono definiti, il servizio specializzato della Confederazione per la sicurezza delle informazioni o l’UFCS ritrasferisce la direzione per l’ulteriore trattamento all’unità amministrativa interessata.
+<sup>8</sup> Se dopo un incidente legato alla sicurezza o una lacuna in materia di sicurezza la sicurezza delle informazioni è stata ripristinata e se i lavori successivi necessari nonché il loro finanziamento sono definiti, il Servizio specializzato della Confederazione per la sicurezza delle informazioni o l’UFCS ritrasferisce la direzione per l’ulteriore trattamento all’unità amministrativa interessata.
 
 #### Art. 13
 
@@ -266,9 +268,9 @@ Nei casi di cui al capoverso 5, d’intesa con l’unità amministrativa interes
 
 <sup>1</sup> Le unità amministrative di cui all’articolo 2 capoverso 1 lettera c e i dipartimenti stabiliscono all’interno di un piano annuale dei controlli e degli audit le modalità con cui verificare in base ai rischi il rispetto delle prescrizioni secondo la presente ordinanza e l’efficacia delle misure volte a garantire la sicurezza delle informazioni nel loro settore di competenza nonché presso terzi incaricati.
 
-<sup>2</sup> Gli audit presso terzi che dispongono di una dichiarazione di sicurezza aziendale di cui all’articolo 61 LSIn devono essere coordinati con il servizio specializzato competente per l’esecuzione della procedura di sicurezza relativa alle aziende.
+<sup>2</sup> Gli audit presso terzi che dispongono di una dichiarazione di sicurezza aziendale di cui all’articolo 61 LSIn devono essere coordinati con il Servizio specializzato competente per l’esecuzione della procedura di sicurezza relativa alle aziende.
 
-<sup>3</sup> Il servizio specializzato della Confederazione per la sicurezza delle informazioni rileva il fabbisogno di controlli e di audit per garantire la sicurezza delle informazioni di tutta l’Amministrazione federale e dell’esercito.
+<sup>3</sup> Il Servizio specializzato della Confederazione per la sicurezza delle informazioni rileva il fabbisogno di controlli e di audit per garantire la sicurezza delle informazioni di tutta l’Amministrazione federale e dell’esercito.
 
 <sup>4</sup> D’intesa con la CaF o con il dipartimento competente può svolgere audit o delegarne lo svolgimento al Controllo federale delle finanze.
 
@@ -278,9 +280,9 @@ Nei casi di cui al capoverso 5, d’intesa con l’unità amministrativa interes
 
 ### (art. 7 cpv. 1, 81 cpv. 2 lett. c e 83 cpv. 1 lett. h LSIn)
 
-<sup>1</sup> Ogni anno la CaF, i dipartimenti, l’UFCS e i fornitori interni di prestazioni TIC secondo l’articolo 9 OTDI[^14-1] redigono un rapporto destinato al servizio specializzato della Confederazione per la sicurezza delle informazioni in merito allo stato della sicurezza delle informazioni nel loro settore di competenza. Rilevano le informazioni necessarie a tale scopo presso le unità amministrative e i loro fornitori di prestazioni.
+<sup>1</sup> Ogni anno la CaF, i dipartimenti, l’UFCS e i fornitori interni di prestazioni TIC secondo l’articolo 9 OTDI[^14-1] redigono un rapporto destinato al Servizio specializzato della Confederazione per la sicurezza delle informazioni in merito allo stato della sicurezza delle informazioni nel loro settore di competenza. Rilevano le informazioni necessarie a tale scopo presso le unità amministrative e i loro fornitori di prestazioni.
 
-<sup>2</sup> Ogni anno il servizio specializzato della Confederazione per la sicurezza delle informazioni redige un rapporto destinato al Consiglio federale in merito allo stato della sicurezza delle informazioni in seno alla Confederazione.
+<sup>2</sup> Ogni anno il Servizio specializzato della Confederazione per la sicurezza delle informazioni redige un rapporto destinato al Consiglio federale in merito allo stato della sicurezza delle informazioni in seno alla Confederazione.
 
 <sup>3</sup> Coordina i rapporti con le autorità assoggettate di cui all’articolo 2 capoverso 1 LSIn.
 
@@ -292,7 +294,7 @@ Nei casi di cui al capoverso 5, d’intesa con l’unità amministrativa interes
 
 ### (art. 85 LSIn)
 
-Il servizio specializzato della Confederazione per la sicurezza delle informazioni emana istruzioni generali e astratte valide per tutte le organizzazioni di cui all’articolo 2 capoversi 1 e 3 concernenti i requisiti minimi per la gestione della sicurezza delle informazioni secondo gli articoli 5–14.
+Il Servizio specializzato della Confederazione per la sicurezza delle informazioni emana istruzioni generali e astratte valide per tutte le organizzazioni di cui all’articolo 2 capoversi 1 e 3 concernenti i requisiti minimi per la gestione della sicurezza delle informazioni secondo gli articoli 5–14.
 
 ## Sezione 4: Informazioni classificate
 
@@ -314,7 +316,7 @@ Il servizio specializzato della Confederazione per la sicurezza delle informazio
 
 <sup>1</sup> Le unità amministrative di cui all’articolo 2 capoverso 1 lettera c e i dipartimenti stabiliscono in un catalogo di classificazione il modo in cui classificare le informazioni che vengono trattate di frequente nel rispettivo settore di competenza e la durata della classificazione.
 
-<sup>2</sup> Il servizio specializzato della Confederazione per la sicurezza delle informazioni verifica i cataloghi di classificazione e in caso di necessità formula una raccomandazione.
+<sup>2</sup> Il Servizio specializzato della Confederazione per la sicurezza delle informazioni verifica i cataloghi di classificazione e in caso di necessità formula una raccomandazione.
 
 <sup>3</sup> Previa consultazione della Conferenza degli incaricati della sicurezza delle informazioni, all’interno di istruzioni generali e astratte valide per tutte le organizzazioni di cui all’articolo 2 capoversi 1–3 stabilisce il modo in cui classificare le informazioni che vengono trattate di frequente a livello interdipartimentale e la durata della classificazione.
 
@@ -386,7 +388,7 @@ Sono classificate «segreto» le informazioni la cui conoscenza da parte di pers
 
 ### (art. 6 cpv. 2, 84 cpv. 1 e 85 LSIn)
 
-<sup>1</sup> Il servizio specializzato della Confederazione per la sicurezza delle informazioni emana istruzioni generali e astratte valide per tutte le organizzazioni di cui all’articolo 2 capoversi 1–3 concernenti il trattamento di informazioni classificate e i requisiti minimi organizzativi, tecnici, edili e riguardanti il personale per la loro protezione. In tale contesto tiene conto degli standard internazionali in materia.
+<sup>1</sup> Il Servizio specializzato della Confederazione per la sicurezza delle informazioni emana istruzioni generali e astratte valide per tutte le organizzazioni di cui all’articolo 2 capoversi 1–3 concernenti il trattamento di informazioni classificate e i requisiti minimi organizzativi, tecnici, edili e riguardanti il personale per la loro protezione. In tale contesto tiene conto degli standard internazionali in materia.
 
 <sup>2</sup>
 
@@ -394,14 +396,14 @@ Consulta in via preliminare i seguenti servizi:
 
 - a. l’UFCS;
 - b. il servizio crittografico dell’esercito;
-- c. i servizi competenti per l’acquisto di beni nell’ambito della crittologia secondo l’articolo 10 capoverso 1 lettera d OOAPub[^21-1];
+- c.[^21-1] l’Ufficio federale dell’armamento (armasuisse);
 - d. i servizi competenti per la sicurezza degli oggetti dell’Amministrazione federale e dell’esercito.
 
 <sup>3</sup> La CaF disciplina il trattamento di affari del Consiglio federale classificati.
 
 <sup>4</sup> Il trattamento di informazioni classificate provenienti dall’estero avviene secondo le prescrizioni che corrispondono al livello di classificazione estero. Sono fatte salve prescrizioni divergenti di un trattato internazionale secondo l’articolo 87 LSIn.
 
-[^21-1]: [RS 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
+[^21-1]: Nuovo testo giusta l’art. 44 cpv. 2 n. 1 dell’O del 1° mag. 2024 concernente l’organizzazione degli appalti pubblici dell’Amministrazione federale, in vigore dal 1° lug. 2024 ([RU 2024 224](https://fedlex.data.admin.ch/eli/oc/2024/224)).
 
 #### Art. 22
 
@@ -411,7 +413,7 @@ Consulta in via preliminare i seguenti servizi:
 
 <sup>1</sup>
 
-Se informazioni classificate vengono trattate nel quadro di un impiego o di un’operazione e sono accessibili soltanto a una cerchia di utenti chiusa e determinabile in maniera inequivocabile, le seguenti persone, dopo aver consultato il servizio specializzato della Confederazione per la sicurezza delle informazioni, possono decidere prescrizioni specifiche per operazioni o impieghi per il trattamento semplificato:
+Se informazioni classificate vengono trattate nel quadro di un impiego o di un’operazione e sono accessibili soltanto a una cerchia di utenti chiusa e determinabile in maniera inequivocabile, le seguenti persone, dopo aver consultato il Servizio specializzato della Confederazione per la sicurezza delle informazioni, possono decidere prescrizioni specifiche per operazioni o impieghi per il trattamento semplificato:
 
 - a. il direttore dell’Ufficio federale di polizia;
 - b. il direttore del SIC;
@@ -431,7 +433,7 @@ Se informazioni classificate vengono trattate nel quadro di un impiego o di un�
 
 <sup>1</sup> I mezzi informatici sono certificati per quanto riguarda la sicurezza prima di essere messi in servizio, se ciò è necessario per la collaborazione a livello nazionale o internazionale.
 
-<sup>2</sup> La certificazione della sicurezza è effettuata dal servizio specializzato della Confederazione per la sicurezza delle informazioni dopo aver consultato il servizio crittografico dell’esercito nonché i servizi competenti per l’acquisto di beni nell’ambito della crittologia di cui all’articolo 10 capoverso 1 lettera d OOAPub[^23-1].
+<sup>2</sup> La certificazione della sicurezza è effettuata dal Servizio specializzato della Confederazione per la sicurezza delle informazioni dopo aver consultato il servizio crittografico dell’esercito e armasuisse.[^23-1]
 
 <sup>3</sup> Dimostra che i mezzi informatici soddisfano i requisiti minimi per il relativo livello di classificazione e che i rischi residui sono sostenibili secondo lo stato della tecnica.
 
@@ -439,7 +441,7 @@ Se informazioni classificate vengono trattate nel quadro di un impiego o di un�
 
 <sup>5</sup> Il Dipartimento federale della difesa, della protezione della popolazione e dello sport (DDPS) definisce la procedura di certificazione della sicurezza e tiene conto degli standard internazionali in materia.
 
-[^23-1]: [RS 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
+[^23-1]: Nuovo testo giusta l’art. 44 cpv. 2 n. 1 dell’O del 1° mag. 2024 concernente l’organizzazione degli appalti pubblici dell’Amministrazione federale, in vigore dal 1° lug. 2024 ([RU 2024 224](https://fedlex.data.admin.ch/eli/oc/2024/224)).
 
 #### Art. 24
 
@@ -493,7 +495,7 @@ I servizi incaricati della classificazione verificano la necessità di protezion
 
 <sup>6</sup> Le unità amministrative di cui all’articolo 2 capoverso 1 lettera c verificano ogni anno se vi è stato un cambiamento sostanziale.
 
-<sup>7</sup> Il servizio specializzato della Confederazione per la sicurezza delle informazioni emana istruzioni generali e astratte applicabili a tutte le organizzazioni di cui all’articolo 2 capoversi 1–3 concernenti la procedura di sicurezza secondo l’articolo 16 LSIn.
+<sup>7</sup> Il Servizio specializzato della Confederazione per la sicurezza delle informazioni emana istruzioni generali e astratte applicabili a tutte le organizzazioni di cui all’articolo 2 capoversi 1–3 concernenti la procedura di sicurezza secondo l’articolo 16 LSIn.
 
 #### Art. 28
 
@@ -511,7 +513,7 @@ I servizi incaricati della classificazione verificano la necessità di protezion
 
 ### (art. 6 cpv. 3, 18 e 85 LSIn)
 
-<sup>1</sup> Il servizio specializzato della Confederazione per la sicurezza delle informazioni emana istruzioni generali e astratte concernenti i requisiti minimi per i relativi livelli di sicurezza secondo l’articolo 17 LSIn applicabili a tutte le organizzazioni di cui all’articolo 2 capoversi 1–3.
+<sup>1</sup> Il Servizio specializzato della Confederazione per la sicurezza delle informazioni emana istruzioni generali e astratte concernenti i requisiti minimi per i relativi livelli di sicurezza secondo l’articolo 17 LSIn applicabili a tutte le organizzazioni di cui all’articolo 2 capoversi 1–3.
 
 <sup>2</sup> Tiene conto dei requisiti per la sicurezza dei dati personali secondo la legislazione sulla protezione dei dati nonché di altre informazioni che la Confederazione è tenuta a proteggere in virtù di un obbligo legale o contrattuale.
 
@@ -532,7 +534,7 @@ Per i mezzi informatici seguenti, l’efficacia delle misure di sicurezza deve e
 
 <sup>1</sup> Le unità amministrative di cui all’articolo 2 capoverso 1 lettera c assicurano che le responsabilità per la sicurezza delle informazioni a livello operativo siano definite negli accordi di progetto e di prestazione stipulati con i fornitori interni di prestazioni.
 
-<sup>2</sup> I fornitori interni di prestazioni mettono a disposizione delle unità amministrative di cui all’articolo 2 capoverso 1 lettera c, dei dipartimenti e del servizio specializzato della Confederazione per la sicurezza delle informazioni le informazioni di cui necessitano per garantire la sicurezza delle informazioni.
+<sup>2</sup> I fornitori interni di prestazioni mettono a disposizione delle unità amministrative di cui all’articolo 2 capoverso 1 lettera c, dei dipartimenti e del Servizio specializzato della Confederazione per la sicurezza delle informazioni le informazioni di cui necessitano per garantire la sicurezza delle informazioni.
 
 <sup>3</sup> Garantiscono di disporre delle capacità necessarie in termini finanziari e di personale per l’individuazione tempestiva, l’analisi tecnica e la gestione di incidenti legati alla sicurezza e di lacune in materia di sicurezza che riguardano loro o, nel quadro degli accordi di cui al capoverso 1, i loro beneficiari di prestazioni.
 
@@ -550,7 +552,7 @@ Per i mezzi informatici seguenti, l’efficacia delle misure di sicurezza deve e
 
 ### (art. 20 e 85 LSIn)
 
-<sup>1</sup> Dopo aver consultato il delegato TDT, il servizio specializzato della Confederazione per la sicurezza delle informazioni può emanare istruzioni generali e astratte applicabili a tutte le organizzazioni di cui all’articolo 2 capoversi 1–3 concernenti i requisiti tecnici minimi per la verifica basata sui rischi dell’identità di persone e macchine che necessitano di avere accesso a informazioni, mezzi informatici, locali e altre infrastrutture della Confederazione.
+<sup>1</sup> Dopo aver consultato il delegato TDT, il Servizio specializzato della Confederazione per la sicurezza delle informazioni può emanare istruzioni generali e astratte applicabili a tutte le organizzazioni di cui all’articolo 2 capoversi 1–3 concernenti i requisiti tecnici minimi per la verifica basata sui rischi dell’identità di persone e macchine che necessitano di avere accesso a informazioni, mezzi informatici, locali e altre infrastrutture della Confederazione.
 
 <sup>2</sup> Il trattamento di dati personali in sede di verifica dell’identità in sistemi di gestione delle identità secondo l’articolo 24 LSIn si fonda sulle disposizioni dell’ordinanza del 19 ottobre 2016[^31-1] sui sistemi di gestione delle identità e sui servizi di elenchi della Confederazione.
 
@@ -584,7 +586,7 @@ Per i mezzi informatici seguenti, l’efficacia delle misure di sicurezza deve e
 
 ### (art. 22 e 85 LSIn)
 
-<sup>1</sup> Previa consultazione dei servizi dell’Amministrazione federale e dell’esercito competenti per la sicurezza degli oggetti, il servizio specializzato della Confederazione per la sicurezza delle informazioni può emanare istruzioni generali e astratte applicabili a tutte le organizzazioni di cui all’articolo 2 capoversi 1–3 concernenti i requisiti minimi per la protezione fisica di informazioni e mezzi informatici.
+<sup>1</sup> Previa consultazione dei servizi dell’Amministrazione federale e dell’esercito competenti per la sicurezza degli oggetti, il Servizio specializzato della Confederazione per la sicurezza delle informazioni può emanare istruzioni generali e astratte applicabili a tutte le organizzazioni di cui all’articolo 2 capoversi 1–3 concernenti i requisiti minimi per la protezione fisica di informazioni e mezzi informatici.
 
 <sup>2</sup>
 
@@ -609,7 +611,7 @@ Le unità amministrative di cui all’articolo 2 capoverso 1 lettera c possono i
 
 <sup>2</sup> Questi locali e settori sono considerati come zona di sicurezza soltanto se il servizio competente per la sicurezza degli oggetti dell’Amministrazione federale o dell’esercito prima della messa in servizio e successivamente almeno ogni cinque anni conferma che i requisiti di sicurezza sono soddisfatti.
 
-<sup>3</sup> Dopo aver consultato i servizi competenti per la sicurezza degli oggetti dell’Amministrazione federale e dell’esercito, il servizio specializzato della Confederazione per la sicurezza delle informazioni emana istruzioni generali e astratte applicabili a tutte le organizzazioni di cui all’articolo 2 capoversi 1–3 concernenti i requisiti di sicurezza per le zone di sicurezza e la loro istituzione.
+<sup>3</sup> Dopo aver consultato i servizi competenti per la sicurezza degli oggetti dell’Amministrazione federale e dell’esercito, il Servizio specializzato della Confederazione per la sicurezza delle informazioni emana istruzioni generali e astratte applicabili a tutte le organizzazioni di cui all’articolo 2 capoversi 1–3 concernenti i requisiti di sicurezza per le zone di sicurezza e la loro istituzione.
 
 <sup>4</sup> Nei dintorni di zone di sicurezza le unità amministrative di cui all’articolo 2 capoverso 1 lettera c possono adottare misure per individuare attività di spionaggio elettromagnetico e per proteggersi da esse.
 
@@ -706,7 +708,7 @@ In tale contesto si occupano in particolare dei compiti seguenti:
   - 1\. dispongano di competenze e di risorse adeguate,
   - 2\. non vengano loro assegnati compiti che possono comportare un conflitto d’interessi con i loro compiti di cui all’articolo 40.
 
-<sup>3</sup> Possono stabilire requisiti di sicurezza per il loro settore di competenza che vanno oltre i requisiti minimi stabiliti dal servizio specializzato della Confederazione per la sicurezza delle informazioni.
+<sup>3</sup> Possono stabilire requisiti di sicurezza per il loro settore di competenza che vanno oltre i requisiti minimi stabiliti dal Servizio specializzato della Confederazione per la sicurezza delle informazioni.
 
 <sup>4</sup> Se il capo del dipartimento non decide diversamente, è il segretario generale su suo incarico a essere responsabile della sicurezza delle informazioni nel dipartimento.
 
@@ -743,7 +745,7 @@ Il DDPS nomina l’incaricato della sicurezza delle informazioni del Consiglio f
 
 <sup>1</sup>
 
-Il servizio specializzato della Confederazione per la sicurezza delle informazioni ha i compiti e le competenze seguenti per l’Amministrazione federale e per l’esercito:
+Il Servizio specializzato della Confederazione per la sicurezza delle informazioni ha i compiti e le competenze seguenti per l’Amministrazione federale e per l’esercito:
 
 - a. elabora strategie relative a temi rilevanti sotto il profilo della sicurezza;
 - b. può richiedere informazioni riguardo a progetti rilevanti sotto il profilo della sicurezza, prendere posizione al riguardo e richiedere modifiche;
@@ -783,7 +785,7 @@ L’UFCS ha i compiti e le competenze seguenti:
 - b. fa parte della Conferenza degli incaricati della sicurezza delle informazioni di cui all’articolo 82 LSIn;
 - c. per valutare e migliorare lo stato della sicurezza tecnica delle informazioni della Confederazione può cercare minacce tecniche o vulnerabilità in Internet o, d’intesa con i relativi responsabili della sicurezza delle informazioni e i fornitori di prestazioni, nell’infrastruttura informatica dell’Amministrazione federale e dell’esercito; può incaricare altri servizi dell’Amministrazione federale o dell’esercito nonché terzi di tale attività.
 
-<sup>2</sup> Coordina le sue attività con il servizio specializzato della Confederazione per la sicurezza delle informazioni.
+<sup>2</sup> Coordina le sue attività con il Servizio specializzato della Confederazione per la sicurezza delle informazioni.
 
 ## Sezione 8: Costi e valutazione
 
@@ -795,7 +797,7 @@ L’UFCS ha i compiti e le competenze seguenti:
 
 <sup>2</sup> Le unità amministrative di cui all’articolo 2 capoverso 1 lettera c assicurano che questi costi vengano considerati e riportati in sede di pianificazione in maniera adeguata.
 
-<sup>3</sup> Per il rilascio e il recapito delle attestazioni di sicurezza secondo l’articolo 30 OCSP[^44-1] a persone che non svolgono un’attività sensibile sotto il profilo della sicurezza, il servizio specializzato della Confederazione per la sicurezza delle informazioni riscuote un emolumento pari a 100 franchi.
+<sup>3</sup> Per il rilascio e il recapito delle attestazioni di sicurezza secondo l’articolo 30 OCSP[^44-1] a persone che non svolgono un’attività sensibile sotto il profilo della sicurezza, il Servizio specializzato della Confederazione per la sicurezza delle informazioni riscuote un emolumento pari a 100 franchi.
 
 [^44-1]: [RS 128.31](https://fedlex.data.admin.ch/eli/cc/2023/736)
 
@@ -805,7 +807,7 @@ L’UFCS ha i compiti e le competenze seguenti:
 
 ### (art. 88 LSIn)
 
-Sei anni dopo l’entrata in vigore della presente ordinanza e successivamente ogni dieci anni, il servizio specializzato della Confederazione per la sicurezza delle informazioni richiede al Controllo federale delle finanze una valutazione della legislazione in materia di sicurezza delle informazioni in seno alla Confederazione.
+Sei anni dopo l’entrata in vigore della presente ordinanza e successivamente ogni dieci anni, il Servizio specializzato della Confederazione per la sicurezza delle informazioni richiede al Controllo federale delle finanze una valutazione della legislazione in materia di sicurezza delle informazioni in seno alla Confederazione.
 
 ## Sezione 9: Trattamento di informazioni e di dati personali
 
@@ -848,7 +850,7 @@ Possono scambiare tra loro informazioni di cui al capoverso 1, compresi dati per
 
 <sup>1</sup>
 
-Il servizio specializzato della Confederazione per la sicurezza delle informazioni può gestire servizi di modulistica elettronica e collegarli con la sua applicazione SGSI per i seguenti scopi:
+Il Servizio specializzato della Confederazione per la sicurezza delle informazioni può gestire servizi di modulistica elettronica e collegarli con la sua applicazione SGSI per i seguenti scopi:
 
 - a. per la gestione dei viaggi secondo l’articolo 42 capoverso 3 lettera e;
 - b. per il rilascio e il recapito delle attestazioni di sicurezza nel contesto internazionale secondo l’articolo 30 OCSP[^48-1];
@@ -882,7 +884,7 @@ L’abrogazione e la modifica di altri atti normativi sono disciplinate nell’a
 
 <sup>1</sup> Le direttive relative alla sicurezza informatica emanate dal Centro nazionale per la cibersicurezza (NCSC) e le deroghe da esso autorizzate prima dell’entrata in vigore della presente ordinanza rimangono applicabili per tre anni al massimo dall’entrata in vigore della presente ordinanza.
 
-<sup>2</sup> Il servizio specializzato della Confederazione per la sicurezza delle informazioni o il NCSC decidono in merito a modifiche delle direttive e delle eccezioni autorizzate che sono state emanate dal NCSC prima dell’entrata in vigore della presente ordinanza.
+<sup>2</sup> Il Servizio specializzato della Confederazione per la sicurezza delle informazioni o il NCSC decidono in merito a modifiche delle direttive e delle eccezioni autorizzate che sono state emanate dal NCSC prima dell’entrata in vigore della presente ordinanza.
 
 <sup>3</sup> Le direttive relative alla protezione delle informazioni emanate dalla Conferenza dei segretari generali o dall’organo di coordinamento per la protezione delle informazioni in seno alla Confederazione prima dell’entrata in vigore della presente ordinanza rimangono applicabili per due anni al massimo dall’entrata in vigore della presente ordinanza.
 
@@ -890,7 +892,7 @@ L’abrogazione e la modifica di altri atti normativi sono disciplinate nell’a
 
 <sup>5</sup> I cataloghi di classificazione (art. 17) devono essere realizzati entro un anno dall’entrata in vigore della presente ordinanza.
 
-<sup>6</sup> Fino al 30 giugno 2025 l’UFCS si occuperà dei compiti e delle competenze del servizio specializzato della Confederazione per la sicurezza delle informazioni secondo gli articoli 9 capoversi 2 e 3, 11 capoversi 3 e 4, 12 capoversi 3 e 6–8, 15, 27 capoverso 7, 29 capoverso 1 e 31 capoverso 1.
+<sup>6</sup> Fino al 30 giugno 2025 l’UFCS si occuperà dei compiti e delle competenze del Servizio specializzato della Confederazione per la sicurezza delle informazioni secondo gli articoli 9 capoversi 2 e 3, 11 capoversi 3 e 4, 12 capoversi 3 e 6–8, 15, 27 capoverso 7, 29 capoverso 1 e 31 capoverso 1.
 
 <sup>7</sup> Le istruzioni emanate dall’UFCS in applicazione del capoverso 6 valgono al massimo per due anni dall’entrata in vigore della presente ordinanza.
 

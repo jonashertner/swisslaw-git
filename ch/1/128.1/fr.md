@@ -4,11 +4,11 @@ title: "Ordonnance du 8 novembre 2023 sur la sécurité de l’information dans 
 short: OSI
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/735"
 language: fr
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2023-11-08
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/735/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2023-735-20240101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/735/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/735/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2023-735-20240701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/735/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/735/20240101/fr"
 
 (Ordonnance sur la sécurité de l’information, OSI)
 
-du 8 novembre 2023 (État le 1<sup>er</sup> janvier 2024)
+du 8 novembre 2023 (État le 1<sup>er</sup> juillet 2024)
 
 Le Conseil fédéral suisse,
 
@@ -191,11 +191,13 @@ Les unités administratives visées à l’art. 2, al. 1, let. c, évaluent en c
 
 <sup>1</sup> Les unités administratives visées à l’art. 2, al. 1, let. c, évaluent les risques pour leurs objets à protéger lors de la collaboration avec des tiers et leur dépendance vis-à-vis de tiers.
 
-<sup>2</sup> Les services d’achat visés aux art. 9 et 10 de l’ordonnance du 24 octobre 2012 sur l’organisation des marchés publics de l’administration fédérale (Org‑OMP)[^10-1] collaborent à l’évaluation et mettent les informations nécessaires à disposition.
+<sup>2</sup> Les services d’achat centraux visés à l’art. 5 de l’ordonnance du 1<sup>er</sup> mai 2024 sur l’organisation des marchés publics de l’administration fédérale (Org‑OMP)[^10-1] collaborent à l’évaluation et mettent les informations nécessaires à disposition.[^10-2]
 
-<sup>3</sup> Le service spécialisé de la Confédération pour la sécurité de l’information, après avoir consulté l’OFCS et la Conférence des achats de la Confédération visée à l’art. 24 Org‑OMP, émet des recommandations quant aux dispositions relatives à la sécurité de l’information devant figurer dans tous les contrats d’acquisition ou de prestation de la Confédération.
+<sup>3</sup> Le service spécialisé de la Confédération pour la sécurité de l’information, après avoir consulté l’OFCS et la Conférence des achats de la Confédération visée à l’art. 30 Org‑OMP, émet des recommandations quant aux dispositions relatives à la sécurité de l’information devant figurer dans tous les contrats d’acquisition ou de prestation de la Confédération.[^10-3]
 
 [^10-1]: [RS 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
+[^10-2]: Nouvelle teneur selon l’art. 44 al. 2 ch. 1 de l’O du 1<sup>er</sup> mai 2024 sur l’organisation des marchés publics de l’administration fédérale, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 224](https://fedlex.data.admin.ch/eli/oc/2024/224)).
+[^10-3]: Nouvelle teneur selon l’art. 44 al. 2 ch. 1 de l’O du 1<sup>er</sup> mai 2024 sur l’organisation des marchés publics de l’administration fédérale, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 224](https://fedlex.data.admin.ch/eli/oc/2024/224)).
 
 #### Art. 11
 
@@ -394,14 +396,14 @@ Il consulte au préalable les services suivants:
 
 - a. l’OFCS;
 - b. le service cryptographique de l’armée;
-- c. les services ayant la compétence d’acheter des biens cryptologiques visés à l’art. 10, al. 1, let. d, Org‑OMP[^21-1];
+- c.[^21-1] l’Office fédéral de l’armement (armasuisse);
 - d. les organes de l’administration fédérale et de l’armée responsables de la sécurité des objets.
 
 <sup>3</sup> La ChF règle le traitement des affaires classifiées du Conseil fédéral.
 
 <sup>4</sup> Le traitement des informations classifiées provenant de l’étranger est régi par les prescriptions correspondant à l’échelon de classification étranger. Les dispositions différentes figurant dans un traité international visé à l’art. 87 LSI sont réservées.
 
-[^21-1]: [RS 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
+[^21-1]: Nouvelle teneur selon l’art. 44 al. 2 ch. 1 de l’O du 1<sup>er</sup> mai 2024 sur l’organisation des marchés publics de l’administration fédérale, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 224](https://fedlex.data.admin.ch/eli/oc/2024/224)).
 
 #### Art. 22
 
@@ -431,7 +433,7 @@ Si des informations classifiées sont traitées dans le cadre d’un engagement 
 
 <sup>1</sup> Les moyens informatiques sont certifiés sur le plan de la sécurité avant leur mise en exploitation si cela est nécessaire à la collaboration nationale ou internationale.
 
-<sup>2</sup> La certification de sécurité est effectuée par le service spécialisé de la Confédération pour la sécurité de l’information, après consultation du service cryptographique de l’armée et des services ayant la compétence d’acheter des biens cryptologiques visés à l’art. 10, al. 1, let. d, Org‑OMP[^23-1].
+<sup>2</sup> La certification de sécurité est effectuée par le service spécialisé de la Confédération pour la sécurité de l’information, après consultation du service cryptographique de l’armée et d’armasuisse.[^23-1]
 
 <sup>3</sup> Elle atteste que le moyen informatique remplit les exigences minimales correspondant à l’échelon de classification concerné et que les risques résiduels sont acceptables en fonction de l’état des connaissances techniques.
 
@@ -439,7 +441,7 @@ Si des informations classifiées sont traitées dans le cadre d’un engagement 
 
 <sup>5</sup> Le Département fédéral de la défense, de la protection de la population et des sports (DDPS) fixe la procédure relative à la certification de sécurité en tenant compte des normes internationales en la matière.
 
-[^23-1]: [RS 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
+[^23-1]: Nouvelle teneur selon l’art. 44 al. 2 ch. 1 de l’O du 1<sup>er</sup> mai 2024 sur l’organisation des marchés publics de l’administration fédérale, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 224](https://fedlex.data.admin.ch/eli/oc/2024/224)).
 
 #### Art. 24
 

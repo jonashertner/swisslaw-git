@@ -4,11 +4,11 @@ title: "Verordnung vom 8. November 2023 über die Informationssicherheit in der 
 short: ISV
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/735"
 language: de
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2023-11-08
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/735/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2023-735-20240101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/735/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/735/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2023-735-20240701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/735/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/735/20240101/de"
 
 (Informationssicherheitsverordnung, ISV)
 
-vom 8. November 2023 (Stand am 1. Januar 2024)
+vom 8. November 2023 (Stand am 1. Juli 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -191,11 +191,13 @@ Die Verwaltungseinheiten nach Artikel 2 Absatz 1 Buchstabe c beurteilen laufend 
 
 <sup>1</sup> Die Verwaltungseinheiten nach Artikel 2 Absatz 1 Buchstabe c beurteilen die Risiken für ihre Schutzobjekte bei der Zusammenarbeit mit Dritten und ihre Abhängigkeit von Dritten.
 
-<sup>2</sup> Die Beschaffungsstellen nach den Artikeln 9 und 10 der Verordnung vom 24. Oktober 2012[^10-1] über die Organisation des öffentlichen Beschaffungswesens der Bundesverwaltung (Org-VöB) wirken bei der Beurteilung mit und stellen die nötigen Informationen zur Verfügung.
+<sup>2</sup> Die zentralen Beschaffungsstellen nach Artikel 5 der Verordnung vom 1. Mai 2024[^10-1] über die Organisation des öffentlichen Beschaffungswesens der Bundesverwaltung (Org‑VöB) wirken bei der Beurteilung mit und stellen die nötigen Informationen zur Verfügung.[^10-2]
 
-<sup>3</sup> Die Fachstelle des Bundes für Informationssicherheit empfiehlt nach Konsultation des BACS und der Beschaffungskonferenz des Bundes nach Artikel 24 Org‑VöB, welche Bestimmungen zur Informationssicherheit in allen Beschaffungs- und Dienstleistungsverträgen des Bundes enthalten sein sollen.
+<sup>3</sup> Die Fachstelle des Bundes für Informationssicherheit empfiehlt nach Konsultation des BACS und der Beschaffungskonferenz des Bundes nach Artikel 30 Org‑VöB, welche Bestimmungen zur Informationssicherheit in allen Beschaffungs- und Dienstleistungsverträgen des Bundes enthalten sein sollen.[^10-3]
 
 [^10-1]: [SR 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
+[^10-2]: Fassung gemäss Art. 44 Abs. 2 Ziff. 1 der V vom 1. Mai 2024 über die Organisation des öffentlichen Beschaffungswesens der Bundesverwaltung, in Kraft seit 1. Juli 2024 ([AS 2024 224](https://fedlex.data.admin.ch/eli/oc/2024/224)).
+[^10-3]: Fassung gemäss Art. 44 Abs. 2 Ziff. 1 der V vom 1. Mai 2024 über die Organisation des öffentlichen Beschaffungswesens der Bundesverwaltung, in Kraft seit 1. Juli 2024 ([AS 2024 224](https://fedlex.data.admin.ch/eli/oc/2024/224)).
 
 #### Art. 11
 
@@ -394,14 +396,14 @@ Sie hört vorgängig die folgenden Stellen an:
 
 - a. das BACS;
 - b. den kryptografischen Dienst der Armee;
-- c. die für die Beschaffung von kryptologischen Gütern zuständigen Stellen nach Artikel 10 Absatz 1 Buchstabe d Org‑VöB[^21-1];
+- c.[^21-1] das Bundesamt für Rüstung (armasuisse);
 - d. die für die Objektsicherheit zuständigen Stellen der Bundesverwaltung und der Armee.
 
 <sup>3</sup> Die BK regelt die Bearbeitung klassifizierter Bundesratsgeschäfte.
 
 <sup>4</sup> Die Bearbeitung klassifizierter Informationen aus dem Ausland erfolgt nach den Vorschriften, die der ausländischen Klassifizierungsstufe entsprechen. Vorbehalten bleiben abweichende Vorschriften eines völkerrechtlichen Vertrags nach Artikel 87 ISG.
 
-[^21-1]: [SR 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
+[^21-1]: Fassung gemäss Art. 44 Abs. 2 Ziff. 1 der V vom 1. Mai 2024 über die Organisation des öffentlichen Beschaffungswesens der Bundesverwaltung, in Kraft seit 1. Juli 2024 ([AS 2024 224](https://fedlex.data.admin.ch/eli/oc/2024/224)).
 
 #### Art. 22
 
@@ -431,7 +433,7 @@ Werden klassifizierte Informationen im Rahmen eines Einsatzes oder einer Operati
 
 <sup>1</sup> Informatikmittel müssen vor der Inbetriebnahme sicherheitsmässig zertifiziert werden, wenn dies für die nationale oder internationale Zusammenarbeit erforderlich ist.
 
-<sup>2</sup> Die Sicherheitszertifizierung erfolgt durch die Fachstelle des Bundes für Informationssicherheit nach Konsultation des kryptografischen Diensts der Armee sowie der für die Beschaffung von kryptologischen Gütern zuständigen Stellen nach Artikel 10 Absatz 1 Buchstabe d Org‑VöB[^23-1].
+<sup>2</sup> Die Sicherheitszertifizierung erfolgt durch die Fachstelle des Bundes für Informationssicherheit nach Konsultation des kryptografischen Diensts der Armee und von armasuisse.[^23-1]
 
 <sup>3</sup> Sie belegt, dass das Informatikmittel die Mindestanforderungen für die entsprechende Klassifizierungsstufe erfüllt und die Restrisiken nach dem Stand der Technik tragbar sind.
 
@@ -439,7 +441,7 @@ Werden klassifizierte Informationen im Rahmen eines Einsatzes oder einer Operati
 
 <sup>5</sup> Das Eidgenössische Departement für Verteidigung, Bevölkerungsschutz und Sport (VBS) legt das Verfahren der Sicherheitszertifizierung fest und berücksichtigt dabei die einschlägigen internationalen Standards.
 
-[^23-1]: [SR 172.056.15](https://fedlex.data.admin.ch/eli/cc/2024/224)
+[^23-1]: Fassung gemäss Art. 44 Abs. 2 Ziff. 1 der V vom 1. Mai 2024 über die Organisation des öffentlichen Beschaffungswesens der Bundesverwaltung, in Kraft seit 1. Juli 2024 ([AS 2024 224](https://fedlex.data.admin.ch/eli/oc/2024/224)).
 
 #### Art. 24
 
