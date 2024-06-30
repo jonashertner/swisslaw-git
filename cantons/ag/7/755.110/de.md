@@ -1,39 +1,38 @@
 ---
 canton: AG
 number: "755.110"
-title: Dekret über die Steuern und Gebühren im Strassenverkehr
+title: Dekret über die Steuern im Strassenverkehr
 language: de
-version: 1990-01-01
-valid_until: 2024-06-30
-version_adopted: 1989-10-17
+version: 2024-07-01
+valid_until: 2025-12-31
+version_adopted: 2023-09-19
 adopted: 1977-10-18
 in_force: 1978-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/755.110"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/1368/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3798/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Dekret über die Steuern und Gebühren im Strassenverkehr
+# Dekret über die Steuern im Strassenverkehr
 
-Vom 18.10.1977 (Stand 01.01.1990)
+Vom 18.10.1977 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
-gestützt auf Art. 33 Abs. 1 lit. e der Staatsverfassung[^ingress-1] und § 8 des Strassenbaugesetzes vom 17. März 1969[^ingress-2],
+gestützt auf § 8 des Strassengesetzes 1969 (aStrG) vom 17. März 1969[^ingress-1],
 
 beschliesst:
 
-[^ingress-1]: AGS Bd. 1 S. 1; der genannten Bestimmung entspricht heute § 82 Abs. 1 lit. f der Verfassung des Kantons Aargau vom 25. Juni 1980, in Kraft seit 1. Januar 1982 (SAR [110.000](https://gesetzessammlungen.ag.ch/data/110.000/de)).
-[^ingress-2]: SAR [751.100](https://gesetzessammlungen.ag.ch/data/751.100/de)
+[^ingress-1]: SAR [751.100](https://gesetzessammlungen.ag.ch/data/751.100/de)
 
 ## 1. Berechnungsgrundlagen
 
 #### § 1
 
-**Steuer- und Gebührenpflicht**
+**Steuerpflicht**
 
-<sup>1</sup> Die Halter von Motorfahrzeugen und Anhängern sowie von Motorfahrrädern, die mit aargauischen Kontrollschildern verkehrsberechtigt sind, haben eine Verkehrssteuer bzw. Verkehrsgebühr zu entrichten.
+<sup>1</sup> Halterinnen und Halter von Motorfahrzeugen und Anhängern sowie von Motorfahrrädern, die mit aargauischen Kontrollschildern verkehrsberechtigt sind, haben eine Verkehrssteuer zu entrichten.
 
 <sup>2</sup> Für Fahrzeuge, deren Standort von einem anderen Kanton in den Kanton Aargau verlegt wird, und für Fahrzeuge aus dem Ausland, wird die Verkehrssteuer von dem Tage an erhoben, an welchem sie nach den bundesrechtlichen Vorschriften mit aargauischen Kontrollschildern versehen werden bzw. hätten versehen werden müssen.
 
@@ -41,7 +40,7 @@ beschliesst:
 
 **Ausnahmen**
 
-<sup>1</sup> Von der Verkehrssteuer bzw. Verkehrsgebühr sind befreit:
+<sup>1</sup> Von der Verkehrssteuer sind befreit:
 
 - a) Fahrzeuge des Bundes,
 - b) Fahrzeuge der Konsulate und der hohen ausländischen Konsularbeamten im Rahmen der internationalen Verpflichtungen und Gepflogenheiten,
@@ -172,15 +171,15 @@ Hubvolumen des Motors in cm³ x 5,093 / 1000
 
 <sup>1</sup> Die Verkehrssteuer für Ausnahmefahrzeuge wird nach den Ansätzen für die betreffende Fahrzeugart erhoben.
 
-<sup>2</sup> Für die notwendige Sonderbewilligung ist zusätzlich eine Gebühr nach § 22 zu entrichten.
+<sup>2</sup> …
 
 #### § 14
 
 **Motorfahrräder**
 
-<sup>1</sup> Die Verkehrsgebühr für Motorfahrräder beträgt pauschal Fr. 20.–.
+<sup>1</sup> Die Verkehrssteuer für Motorfahrräder beträgt pauschal Fr. 20.–.
 
-## 3. Bezug der Verkehrssteuern und Gebühren
+## 3. Bezug der Verkehrssteuern
 
 #### § 15
 
@@ -200,7 +199,7 @@ Hubvolumen des Motors in cm³ x 5,093 / 1000
 
 <sup>2</sup> Die Jahressteuer für das folgende Jahr wird am 30. November fällig. Die Zahlungsfrist beträgt 30 Tage.
 
-<sup>3</sup> Die Verkehrsgebühren für Motorfahrräder werden am 31. Mai fällig.
+<sup>3</sup> Die Verkehrssteuern für Motorfahrräder werden am 31. Mai fällig.
 
 #### § 17
 
@@ -230,7 +229,7 @@ Hubvolumen des Motors in cm³ x 5,093 / 1000
 
 <sup>1</sup> Das Strassenverkehrsamt entscheidet über Erlass und Ermässigung der Verkehrssteuern.
 
-## 5. Gebühren
+## 5.
 
 #### § 21
 
