@@ -4,13 +4,13 @@ number: "428.500"
 title: Gesetz über die Einrichtungen für Menschen mit besonderen Betreuungsbedürfnissen
 short: "Betreuungsgesetz, BeG"
 language: de
-version: 2022-01-01
-valid_until: 2024-06-30
-version_adopted: 2020-12-15
+version: 2024-07-01
+valid_until: 2026-07-31
+version_adopted: 2023-09-19
 adopted: 2006-05-02
 in_force: 2007-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/428.500"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3041/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3456/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3041/pdf_file"
 
 (Betreuungsgesetz, BeG)
 
-Vom 02.05.2006 (Stand 01.01.2022)
+Vom 02.05.2006 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -73,6 +73,14 @@ beschliesst:
 <sup>2</sup> Als behindert gelten Menschen, die aufgrund von Beeinträchtigungen körperlicher, sprachlicher, sensorischer, geistiger, psychischer oder sozialer Art so stark benachteiligt sind, dass ihre Teilnahme an Bildung, Erwerbsleben oder Gesellschaft erschwert oder verunmöglicht ist.
 
 <sup>3</sup> Der Regierungsrat kann dazu nähere Bestimmungen erlassen.
+
+#### § 3a
+
+**Leistungen des Kantons und Verfahrenskosten**
+
+<sup>1</sup> Der Kanton erbringt seine Leistungen gegenüber den Einrichtungen und ihren Trägerschaften grundsätzlich unentgeltlich.
+
+<sup>2</sup> Die erstinstanzlichen Verfahren im Geltungsbereich dieses Gesetzes sind grundsätzlich unentgeltlich.
 
 ## 2. Betriebsbewilligung, Anerkennung und Aufsicht
 
@@ -197,6 +205,17 @@ beschliesst:
 <sup>2</sup> Vor einem Entzug ergeht eine Verwarnung unter Ansetzung einer angemessenen Frist zur Behebung der festgestellten Mängel.
 
 <sup>3</sup> Das Departement kann die sofortige Schliessung einer Einrichtung verfügen, wenn für die betreuten Menschen eine ernsthafte Gefahr besteht oder unmittelbar droht.
+
+#### § 16a
+
+**Gebühren**
+
+<sup>1</sup> Das zuständige Departement erhebt Gebühren für
+
+- a) die Bearbeitung von Gesuchen gemäss § 13,
+- b) die Überprüfungen vor Ort im Rahmen der Aufsicht gemäss § 15.
+
+<sup>2</sup> Die Erteilung einer Anerkennung gemäss § 13 erfolgt unentgeltlich.
 
 ## 3. Kantonale Einrichtungen und Abklärungsstelle
 
