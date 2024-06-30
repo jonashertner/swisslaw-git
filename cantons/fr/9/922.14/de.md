@@ -3,13 +3,13 @@ canton: FR
 number: "922.14"
 title: Verordnung über die Jagd auf das Wildschwein
 language: de
-version: 2023-06-15
-valid_until: 2024-06-30
-version_adopted: 2023-05-22
+version: 2024-07-01
+valid_until: 2025-06-30
+version_adopted: 2024-03-18
 adopted: 2026-03-17
 in_force: 2026-06-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/922.14"
-pdf: "https://bdlf.fr.ch/api/de/versions/7761/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/7993/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/7761/pdf_file"
 
 Jagd auf das Wildschwein – V
 
-vom 22.05.2023 (Fassung in Kraft getreten am 15.06.2023)
+vom 18.03.2024 (Fassung in Kraft getreten am 01.07.2024)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -38,7 +38,7 @@ beschliesst:
 
 **Zweck und Geltungsbereich**
 
-<sup>1</sup> Mit dieser Verordnung wird bezweckt, die Jagd auf das Wildschwein in den Monaten Juli und August 2023 zu gestatten, um die Wildschäden in der Landwirtschaft zu reduzieren.
+<sup>1</sup> Mit dieser Verordnung wird bezweckt, die Jagd auf das Wildschwein im Juli 2024 zu gestatten, um die Wildschäden in der Landwirtschaft zu reduzieren.
 
 <sup>2</sup> Im Übrigen gelten die eidgenössische und die kantonale Jagdgesetzgebung.
 
@@ -46,7 +46,7 @@ beschliesst:
 
 **Orte**
 
-<sup>1</sup> Die Wildschweinjagd findet im Flachland und im Gebirge in folgenden Sektoren statt: 0202, 0701, 0702, 0703, 0704, 0705, 0706, 0903, 0904, 0905, 1001, 1002, 1004, 1005, 1101, 1103, 1301, 1302, 1303, 1305, 1306, 1401, 1405, 1406, 1501, 1502 und 1503.
+<sup>1</sup> Die Wildschweinjagd findet im Flachland und im Gebirge in folgenden Sektoren statt: 0202, 0701, 0702, 0703, 0704, 0705, 0706, 0801, 0802, 1001, 1002, 1004, 1005, 1101, 1103, 1105, 1301, 1302, 1303, 1304, 1305, 1306, 1401, 1405, 1406, 1501, 1502, 1503 und 1504.
 
 <sup>2</sup> Im Wald und in allen Wildschutzgebieten gemäss den Artikeln 29 und 36 der Verordnung vom 21. Juni 2016 über den Schutz wildlebender Säugetiere und Vögel und ihrer Lebensräume ist die Jagd verboten.
 
@@ -60,17 +60,15 @@ beschliesst:
 
 **Jagdtage**
 
-<sup>1</sup> Die Jagd ist am Dienstag, Donnerstag und Samstag gestattet.
-
-<sup>2</sup> Die Jagd ist am Bundesfeiertag (1. August) und an Maria Himmelfahrt (15. August) verboten.
+<sup>1</sup> Die Jagd ist am Montag, Dienstag, Donnerstag und Samstag gestattet.
 
 #### Art. 5
 
 **Jagdzeiten**
 
-<sup>1</sup> Bei genügender Sicht ist die Jagd auf Wildschweine eine Stunde vor und bis zu zwei Stunden nach Sonnenaufgang gemäss den offiziellen Sonnenaufgangszeiten von Bern gestattet.
+<sup>1</sup> Bei genügender Sicht ist die Jagd auf das Wildschwein eine Stunde vor und bis zu zwei Stunden nach Sonnenaufgang gemäss den offiziellen Sonnenaufgangszeiten von Bern gestattet.
 
-<sup>2</sup> Bei genügender Sicht ist die Jagd auf Wildschweine zwei Stunden vor und bis zu einer Stunde nach Sonnenuntergang gemäss den offiziellen Sonnenuntergangszeiten von Bern gestattet.
+<sup>2</sup> Bei genügender Sicht ist die Jagd auf das Wildschwein zwei Stunden vor und bis zu einer Stunde nach Sonnenuntergang gemäss den offiziellen Sonnenuntergangszeiten von Bern gestattet.
 
 <sup>3</sup> An Jagdtagen dürfen sich die Jägerinnen und Jäger den ganzen Tag mit ihren Waffen im Jagdgebiet aufhalten.
 
@@ -80,7 +78,7 @@ beschliesst:
 
 <sup>1</sup> Wer an der Sommerjagd auf das Wildschwein teilnehmen will, muss ein Grundpatent und ein Spezialpatent, für das eine Taxe von 50 Franken bezahlt werden muss, erwerben.
 
-<sup>2</sup> Das Spezialpatent muss zwischen dem 15. und dem 30. Juni 2023 beim Oberamt bezogen werden.
+<sup>2</sup> Das Spezialpatent kann vom 15. bis 30. Juni 2024 beim Oberamt beantragt werden.
 
 #### Art. 7
 
@@ -96,4 +94,4 @@ beschliesst:
 
 <sup>1</sup> Als Übertretungen im Sinne von Artikel 54 Abs. 1 Bst. b und Abs. 3 JaG gelten Widerhandlungen gegen Artikel 2–7 dieser Verordnung.
 
-2023\_043
+2024\_025
