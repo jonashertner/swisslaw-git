@@ -4,11 +4,11 @@ title: Swiss Criminal Code of 21 December 1937
 short: SCC
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: en
-version: 2024-01-01
+version: 2024-07-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20240101/en/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20240101-en-xml-12.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20240101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20240701/en/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20240701-en-xml-18.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20240701/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20240101/en"
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
-of 21 December 1937 (Status as of 1 January 2024)
+of 21 December 1937 (Status as of 1 July 2024)
 
 The Federal Assembly the Swiss Confederation,
 
@@ -94,10 +94,10 @@ If the person concerned has been prosecuted in a foreign country at the request 
 
 This Code also applies to any person who is in Switzerland, is not being extradited and has committed any of the following offences abroad:
 
-- a.[^5-1] trafficking in human beings (Art. 182), indecent assault (Art. 189), rape (Art. 190), sexual acts with a person incapable of proper judgment or resistance (Art. 191) or encouraging prostitution (Art. 195) if the victim was less than 18 years of age;
+- a.[^5-1] trafficking in human beings (Art. 182), indecent assault (Art. 189 paras 2 and 3), rape (Art. 190 paras 2 and 3), abuse of persons incapable of proper judgment or resistance (Art. 191) or encouraging prostitution (Art. 195) if the victim was less than 18 years of age;
 - a<sup>bis</sup>.[^5-2] sexual acts with dependent persons (Art. 188) and sexual acts with minors against payment (Art. 196);
 - b. sexual acts with children (Art. 187) if the victim was less than 14 years of age;
-- c.[^5-3] aggravated pornography (Art. 197 para. 3 and 4) if the items or performances depict sexual acts with minors.
+- c.[^5-3] aggravated pornography (Art. 197 para. 3 and 4) if the items or recordings depict sexual acts with minors.
 
 <sup>2</sup>
 
@@ -108,7 +108,7 @@ Unless the offence involves a gross violation of the principles of the Federal C
 
 <sup>3</sup> If the person concerned has been convicted of the offence abroad and if the sentence imposed abroad has been partly served, the court shall take the part served into account in the sentence to be imposed. The court decides whether a measure ordered abroad but only partly executed there must be continued or taken into account in the sentence imposed in Switzerland.
 
-[^5-1]: Amended by Art. 2 No 1 of the FedD of 24 March 2006 on the Approval and Implementation of the Optional Protocol of 25 May 2000 to the Convention on the Rights of the Child, on the Sale of Children, Child Prostitution and Child Pornography, in force since 1 Dec. 2006 ([AS 2006 5437](https://fedlex.data.admin.ch/eli/oc/2006/823)5440; [BBl 2005 2807](https://fedlex.data.admin.ch/eli/fga/2005/433)).
+[^5-1]: Amended by No I 1 of the FA of 16 June 2023 on a Revision of the Law on Sex Offences, in force since 1 July 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^5-2]: Inserted by Annex No 1 of the FedD of 27 Sept. 2013 (Lanzarote Convention), in force since 1 July 2014 ([AS 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [BBl 2012 7571](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
 [^5-3]: Amended by Annex No 1 of the FedD of 27 Sept. 2013 (Lanzarote Convention), in force since 1 July 2014 ([AS 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [BBl 2012 7571](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
 [^5-4]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
@@ -720,9 +720,9 @@ If the offender is so seriously affected by the immediate consequences of his ac
 
 ### Spouse, registered partner or life partner as victim
 
-[^book1-part1-tit3-chap1-sec4-lvl3-1]
+[^book1-part1-tit3-chap1-sec4-lvl3-lvlu1-1]
 
-[^book1-part1-tit3-chap1-sec4-lvl3-1]: Amended by No I 3 of the FA of 14 Dec. 2018 on Improved Protection for Victims of Violence, in force since 1 July 2020 ([AS 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [BBl 2017 7307](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
+[^book1-part1-tit3-chap1-sec4-lvl3-lvlu1-1]: Amended by No I 3 of the FA of 14 Dec. 2018 on Improved Protection for Victims of Violence, in force since 1 July 2020 ([AS 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [BBl 2017 7307](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 
 #### Art. 55a
 
@@ -1044,10 +1044,11 @@ The court shall order indefinite incarceration if the offender has committed mur
 - a. due to the personality traits of the offender, the circumstances of the offence and his general personal circumstances, it is seriously expected that he will commit further offences of the same type; or
 - b. due to a permanent or long-term mental disorder of considerable gravity that was a factor in the offence, it is seriously expected that the offender will commit further offences of the same type and the ordering of a measure in accordance with Article 59 does not promise any success.
 
-<sup>1bis</sup> The court shall order lifelong incarceration if the offender has committed murder, intentional homicide, serious assault, robbery, rape, indecent assault, false imprisonment or abduction, hostage-taking, enforced disappearance of persons, trafficking in human beings, genocide, or a felony under the heading of crimes against humanity or war crimes (Title Twelve) and if the following requirements are met:[^64-2]
+<sup>1bis</sup>
 
-a. the offender, by committing the offence, caused or intended to cause serious detriment to the physical, psychological or sexual integrity of another person.
+The court shall order lifelong incarceration if the offender has committed murder, intentional homicide, serious assault, robbery, rape, indecent assault, false imprisonment or abduction, hostage-taking, enforced disappearance of persons, trafficking in human beings, genocide, or a felony under the heading of crimes against humanity or war crimes (Title Twelve) and if the following requirements are met:[^64-2]
 
+- a. the offender, by committing the offence, caused or intended to cause serious detriment to the physical, psychological or sexual integrity of another person.
 - b. There is a high probability that the offender will commit one of these felonies again.
 - c. The offender is assessed as being permanently untreatable, as the treatment offers no long-term prospect of success.[^64-3]
 
@@ -1163,14 +1164,14 @@ The competent authority makes its decisions in terms of paragraph 1 based on:
 The court shall expel foreign nationals from Switzerland for a period of 5–15 years if they are convicted of any of the following offences, irrespective of the sentence imposed:
 
 - a. intentional homicide (Art. 111), murder (Art. 112), manslaughter (Art. 113), inciting and assisting suicide (Art. 115), illegal abortion (Art. 118 para. 1 and 2);
-- [tab] b.[^66a-2] serious assault (Art. 122), female genital mutilation (Art. 124 para. 1), abandonment (Art. 127), endangering life (Art. 129), attack (Art. 134), representations of violence (Art. 135 para. 1 second sentence);
+- b.[^66a-2] serious assault (Art. 122), female genital mutilation (Art. 124 para. 1), abandonment (Art. 127), endangering life (Art. 129), attack (Art. 134), representations of violence (Art. 135 para. 1 second sentence);
 - c.[^66a-3] aggravated misappropriation (Art. 138 no 2), aggravated theft (Art. 139 no 3), robbery (Art. 140), fraud for commercial gain (Art. 146 para. 2), computer fraud for commercial gain (Art. 147 para. 2), misuse of a cheque card or credit card for commercial gain (Art. 148 para. 2), aggravated extortion (Art. 156 para. 2–4), profiteering for commercial gain (Art. 157 no 2), handling stolen goods for commercial gain (Art. 160 no 2);
 - d. theft (Art. 139) in conjunction with unlawful entry (Art. 186);
 - e. fraud (Art. 146 para. 1) related to social insurance or social assistance, unlawful claims for social insurance or social assistance benefits (Art. 148*a* para. 1);
 - f.[^66a-4] fraud (Art. 146 para. 1), fraud in relation to administrative services and charges (Art. 14 para. 1–3 of the Federal Act of 22 March 1974[^66a-5] on Administrative Criminal Law) or tax fraud, misappropriation of taxes deducted at source or any other offence related to public charges that carries a maximum penalty of a one-year custodial sentence or more;
 - g. forced marriage, forced registered partnership (Art. 181*a*), trafficking in human beings (Art. 182), false imprisonment and abduction (Art. 183), aggravated false imprisonment and abduction (Art. 184), hostage taking (Art. 185);
-- h.[^66a-6] sexual acts with children (Art. 187 para. 1), indecent assault (Art. 189), rape (Art. 190), sexual acts with persons incapable of judgement or resistance (Art. 191), encouraging prostitution (Art. 195), pornography (Art. 197 para. 4 second sentence);
-- i.[^66a-7] arson (Art. 221 para. 1 and 2), wilfully causing an explosion (Art. 223 para. 1 no 1), misuse of explosives and toxic gases with criminal intent (Art. 224 para. 1), wilfully causing danger without criminal intent (Art. 225 para. 1), manufacture, concealment and transport of explosives and toxic gases (Art. 226), causing danger by means of nuclear energy, radioactivity and ionising radiation (Art. 226<sup>bis</sup>), preparatory offences (Art. 226<sup>ter</sup>), wilfully causing a flood or collapse (Art. 227 para. 1 no 1), criminal damage to electrical installations, and hydraulic or protective structures (Art. 228 no 1 para. 1), breach of construction regulations (Art. 229 Abs. 1), removal or non-installation of safety devices (Art. 230 Ziff. 1);
+- h.[^66a-6] sexual acts with children (Art. 187 nos 1 and 1<sup>bis</sup>), sexual acts with dependent persons (Art. 188), indecent assault (Art. 189 paras 2 and 3), rape (Art. 190), sexual acts with persons incapable of proper judgement or resistance (Art. 191), exploitation of a person in a position of need or of dependency (Art. 193), deception as to the sexual character of an act (Art. 193*a*), encouraging prostitution (Art. 195), pornography (Art. 197 para. 4 second sentence);
+- i.[^66a-7] arson (Art. 221 para. 1 and 2), wilfully causing an explosion (Art. 223 para. 1 no 1), misuse of explosives and toxic gases with criminal intent (Art. 224 para. 1), wilfully causing danger without criminal intent (Art. 225 para. 1), manufacture, concealment and transport of explosives and toxic gases (Art. 226), causing danger by means of nuclear energy, radioactivity and ionising radiation (Art. 226<sup>bis</sup>), preparatory offences (Art. 226<sup>ter</sup>), wilfully causing a flood or collapse (Art. 227 para. 1 no 1), criminal damage to electrical installations, and hydraulic or protective structures (Art. 228 no 1 para. 1), breach of construction regulations (Art. 229 para. 1), removal or non-installation of safety devices (Art. 230 Ziff. 1);
 - j.[^66a-8] wilfully causing danger by means of genetically modified or pathogenic organisms (Art. 230<sup>bis</sup> para. 1), transmission of human diseases (Art. 231), wilful contamination of drinking water (Art. 234 para. 1);
 - k.[^66a-9] disruption of public traffic (Art. 237 no 1);
 - l.[^66a-10] acts preparatory to the commission of an offence (Art. 260<sup>bis</sup> para. 1 and 3), participation in or support for a criminal or terrorist organisation (Art. 260<sup>ter</sup>), endangering public safety with weapons (Art. 260<sup>quater</sup>), financing terrorism (Art. 260<sup>quinquies</sup>) or recruiting, training and travelling with a view to committing a terrorist offence (Art. 260<sup>sexies</sup>);
@@ -1188,7 +1189,7 @@ The court shall expel foreign nationals from Switzerland for a period of 5–15 
 [^66a-3]: Amended by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^66a-4]: Amended by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^66a-5]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^66a-6]: The correction by the Federal Assembly Drafting Committee dated 28 Nov. 2017, published on 12 Dec. 2017 relates only to the French text ([AS 2017 7257](https://fedlex.data.admin.ch/eli/oc/2017/786)).
+[^66a-6]: Amended by No I 1 of the FA of 16 June 2023 on a Revision of the Law on Sex Offences, in force since 1 July 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^66a-7]: Amended by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^66a-8]: Amended by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^66a-9]: Amended by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
@@ -1278,13 +1279,13 @@ If a person receives a sentence or is made subject to a measure under Articles 5
 
 - a. trafficking in human beings (Art. 182) where the offence was committed for the purpose of the sexual exploitation of a minor;
 - b. sexual acts with children (Art. 187), sexual acts with dependent persons (Art. 188) or sexual acts with minors against payment (Art. 196);
-- c. indecent assault (Art. 189), rape (Art. 190), sexual acts with persons incapable of judgement or resistance (Art. 191), sexual acts with persons in institutional care, prisoners and persons on remand (Art. 192), exploitation of a person in a position of need or dependency (Art. 193), indecent conduct (Art. 194), encouraging prostitution (Art. 195) or sexual harassment (Art. 198), where the offence is committed against or in front of a minor;
+- c.[^67-4] sexual abuse and indecent assault (Art. 189), rape (Art. 190), abuse of a person incapable of proper judgement or resistance (Art. 191), exploitation of a person in a position of need or dependency (Art. 193), deception as to the sexual character of an act (Art. 193*a*), indecent conduct (Art. 194), encouraging prostitution (Art. 195), unauthorised passing on of private sexual content (Art. 197*a*) or sexual harassment (Art. 198), where the offence is committed against or in front of a minor;
 - d.
 
   pornography (Art. 197):
 
   - 1\. under Article 197 paragraph 1 or 3,
-  - 2\. under Article 197 paragraph 4 or 5, where the content of the items or performances involved sexual acts with minors.[^67-4]
+  - 2\. under Article 197 paragraph 4 or 5, where the content of the items or recordings involved sexual acts with minors.[^67-5]
 
 <sup>4</sup>
 
@@ -1292,40 +1293,43 @@ If a person receives a sentence or is made subject to a measure under Articles 5
 
 - a.
 
-  trafficking in human beings (Art. 182) for the purpose of sexual exploitation, indecent assault (Art. 189), rape (Art. 190), sexual acts with persons incapable of judgement or resistance (Art. 191), sexual acts with persons in institutional care, prisoners and persons on remand (Art. 192), exploitation of a person in a position of need or dependency (Art. 193), indecent conduct (Art. 194), encouraging prostitution (Art. 195) or sexual harassment (Art. 198), where the offence is committed against or in front of:
+  trafficking in human beings (Art. 182) where the offence was committed for the purpose of the sexual exploitation, sexual abuse and indecent assault (Art. 189), rape (Art. 190), sexual acts with persons incapable of proper judgement or resistance (Art. 191), exploitation of a person in a position of need or dependency (Art. 193), deception as to the sexual character of an act (Art. 193*a*), indecent conduct (Art. 194), encouraging prostitution (Art. 195), unauthorised passing on of private sexual content (Art. 197*a*) or sexual harassment (Art. 198), where the offence is committed against or in front of:[^67-6]
 
   - 1\. an especially vulnerable adult victim, or
   - 2\. an adult victim who is not especially vulnerable, but who was incapable of resistance or of judgement or who was unable to defend him- or herself as a result of physical or psychological dependence;
 
 - b.
 
-  pornography (Art. 197 para. 2 first sentence and para. 4 or 5), where the items or performances had the following content:
+  pornography (Art. 197 para. 2 first sentence and para. 4 or 5), where the items or recordings had the following content:
 
   - 1\. sexual acts with especially vulnerable adult victims, or
-  - 2\. sexual acts with adult victims who are not especially vulnerable, but who were incapable of resistance or of judgement or who were unable to defend themselves as a result of physical or psychological dependence.[^67-5]
+  - 2\. sexual acts with adult victims who are not especially vulnerable, but who were incapable of resistance or of judgement or who were unable to defend themselves as a result of physical or psychological dependence.[^67-7]
 
 <sup>4bis</sup>
 
-By way of exception, the court may refrain from imposing a prohibition order under paragraph 3 or 4 in particularly minor cases if a prohibition order of this type does not appear necessary to prevent the offender from committing further offences of the same type. The court may not refrain from imposing a prohibition order if the offender:
+By way of exception, the court may choose not to impose a prohibition order under paragraph 3 or 4 in particularly minor cases if a prohibition order of this type does not appear necessary to prevent the offender from committing further offences of the same type. A prohibition order is however mandatory if the offender:
 
-- a. has been convicted of trafficking in human beings (Art. 182), indecent assault (Art. 189), rape (Art. 190), sexual acts with persons incapable of judgement or resistance (Art. 191) or encouraging prostitution (Art. 195); or
-- b. is a paedophile in accordance with the internationally recognised classification criteria.[^67-6]
+- a.[^67-8] has been convicted of trafficking in human beings (Art. 182), indecent assault (Art. 189 paras 2 and 3), rape (Art. 190 paras 2 and 3), sexual acts with persons incapable of proper judgement or resistance (Art. 191) or encouraging prostitution (Art. 195); or
+- b. is a paedophile in accordance with the internationally recognised classification criteria.[^67-9]
 
-<sup>5</sup> If the offender receives a sentence or is made subject to a measure for two or more offences in the same proceedings, the court shall specify what portion of the sentence or which measure applies to an offence that entails an activity prohibition order. This portion of the sentence, the measure and the offence are decisive in determining whether an activity prohibition order under paragraph 1, 2, 2<sup>bis</sup>, 3 or 4 is imposed. The sentence portions for two or more relevant offences are added together. More than one activity prohibition order may be imposed.[^67-7]
+<sup>5</sup> If the offender receives a sentence or is made subject to a measure for two or more offences in the same proceedings, the court shall specify what portion of the sentence or which measure applies to an offence that entails an activity prohibition order. This portion of the sentence, the measure and the offence are decisive in determining whether an activity prohibition order under paragraph 1, 2, 2<sup>bis</sup>, 3 or 4 is imposed. The sentence portions for two or more relevant offences are added together. More than one activity prohibition order may be imposed.[^67-10]
 
-<sup>6</sup> The court may order probation assistance for the duration of the prohibition orders.[^67-8]
+<sup>6</sup> The court may order probation assistance for the duration of the prohibition orders.[^67-11]
 
-<sup>7</sup> ...[^67-9]
+<sup>7</sup> ...[^67-12]
 
 [^67-1]: Amended by No I 1 of the FA of 13 Dec. 2013 on Activity Prohibition Orders and Contact Prohibition and Exclusion Orders, in force since 1 Jan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
 [^67-2]: Amended by No I 1 of the FA of 19 June 2015 (Amendments to the Law of Criminal Sanctions), in force since 1 Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 [^67-3]: Inserted by No I 1 of the FA of 16 March 2018 (Implementation of Art. 123*c* Cst.), in force since 1 Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
-[^67-4]: Amended by No I 1 of the FA of 16 March 2018 (Implementation of Art. 123*c* Cst.), in force since 1 Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^67-4]: Amended by No I 1 of the FA of 16 June 2023 on a Revision of the Law on Sex Offences, in force since 1 July 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^67-5]: Amended by No I 1 of the FA of 16 March 2018 (Implementation of Art. 123*c* Cst.), in force since 1 Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
-[^67-6]: Inserted by No I 1 of the FA of 16 March 2018 (Implementation of Art. 123*c* Cst.), in force since 1 Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^67-6]: Amended by No I 1 of the FA of 16 June 2023 on a Revision of the Law on Sex Offences, in force since 1 July 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^67-7]: Amended by No I 1 of the FA of 16 March 2018 (Implementation of Art. 123*c* Cst.), in force since 1 Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
-[^67-8]: Amended by No I 1 of the FA of 16 March 2018 (Implementation of Art. 123*c* Cst.), in force since 1 Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
-[^67-9]: Repealed by No I 1 of the FA of 16 March 2018 (Implementation of Art. 123*c* Cst.), with effect from 1 Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^67-8]: Amended by No I 1 of the FA of 16 June 2023 on a Revision of the Law on Sex Offences, in force since 1 July 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^67-9]: Inserted by No I 1 of the FA of 16 March 2018 (Implementation of Art. 123*c* Cst.), in force since 1 Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^67-10]: Amended by No I 1 of the FA of 16 March 2018 (Implementation of Art. 123*c* Cst.), in force since 1 Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^67-11]: Amended by No I 1 of the FA of 16 March 2018 (Implementation of Art. 123*c* Cst.), in force since 1 Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^67-12]: Repealed by No I 1 of the FA of 16 March 2018 (Implementation of Art. 123*c* Cst.), with effect from 1 Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
 
 ### Content and scope
 
@@ -1926,7 +1930,13 @@ Victims and relatives of victims as defined in Article 1 paragraphs 1 and 2 of t
 
 #### Art. 94
 
-The conduct orders that the court or the executive authority may impose on the offender for duration of the probationary period relate in particular to the practice of a profession, place of residence, driving motor vehicles, reparation and medical and psychological therapy.
+[^94-1]
+
+<sup>1</sup> The conduct orders that the court or the executive authority may impose on the offender for duration of the probationary period relate in particular to the practice of a profession, place of residence, driving motor vehicles, reparation and medical and psychological therapy.
+
+<sup>2</sup> In the case of offences against sexual integrity, the offender may be required to attend a course.
+
+[^94-1]: Amended by No I 1 of the FA of 16 June 2023 on a Revision of the Law on Sex Offences, in force since 1 July 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 ### General provisions
 
@@ -1973,14 +1983,14 @@ The right to prosecute is subject to a time limit of:
 - c. 10 years if the offence carries a custodial sentence of three years;
 - d. seven years if the offence carries a different penalty.[^97-1]
 
-<sup>2</sup> In the case of sexual acts with children (Art. 187) and dependent persons (Art. 188) and in the case offences under Articles 111, 113, 122, 124, 182, 189–191, 195 and 197 paragraph 3 involving a child under 16, the limitation period in each case runs at least until the victim has attained the age of 25.[^97-2]
+<sup>2</sup> In the case of sexual acts with children (Art. 187) and in the case offences under Articles 111, 113, 122, 124, 182, 189–191, 193, 193*a*, 195 and 197 paragraph 3 involving a child under 16, the limitation period in each case runs at least until the victim has attained the age of 25.[^97-2]
 
 <sup>3</sup> If a judgment is issued by a court of first instance before expiry of the limitation period, the time limit no longer applies.
 
 <sup>4</sup> The limitation of the right to prosecute in the case of sexual acts with children (Art. 187) and dependent minors (Art. 188) and offences under Articles 111–113, 122, 182, 189–191 and 195 involving a child under 16 is governed by paragraphs 1–3 if the offence was committed before the amendment of 5 October 2001[^97-3] came into force and the limitation of the right to prosecute had not yet taken effect.[^97-4]
 
 [^97-1]: Amended by No I 1 of the FA of 21 June 2013 (Extension of Prosecution Time Limits), in force since 1 Jan. 2014 ([AS 2013 4417](https://fedlex.data.admin.ch/eli/oc/2013/783); [BBl 2012 9253](https://fedlex.data.admin.ch/eli/fga/2012/1719)).
-[^97-2]: Amended by Annex No 1 of the FedD of 27 Sept. 2013 (Lanzarote Convention), in force since 1 July 2014 ([AS 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [BBl 2012 7571](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
+[^97-2]: Amended by No I 1 of the FA of 16 June 2023 on a Revision of the Law on Sex Offences, in force since 1 July 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^97-3]: [AS 2002 2993](https://fedlex.data.admin.ch/eli/oc/2002/430)
 [^97-4]: Amended by Art. 2 No 1 of the FedD of 24 March 2006 on the Approval and Implementation of the Optional Protocol of 25 May 2000 to the Convention on the Rights of the Child, on the Sale of Children, Child Prostitution and Child Pornography, in force since 1 Dec. 2006 ([AS 2006 5437](https://fedlex.data.admin.ch/eli/oc/2006/823)5440; [BBl 2005 2807](https://fedlex.data.admin.ch/eli/fga/2005/433)).
 
@@ -2034,14 +2044,14 @@ There is no statute of limitations for the offences of:
 - a. genocide (Art. 264);
 - b. crimes against humanity (Art. 264*a* para. 1 and 2);
 - c. war crimes (Art. 264*c* para. 1–3, 264*d* para. 1 and 2, 264*e* para. 1 and 2, 264*f*, 264*g* para. 1 and 2 and 264*h*);
-- d. felonies that have caused or threatened to cause danger to life and limb to a large number of persons as a method of extortion or duress, in particular through the use of means of mass destruction, the causing of catastrophes, or as part of a hostage taking offence.
-- e.[^101-1] sexual acts with children (Art. 187 No 1), indecent assault (Art. 189), rape (Art. 190), sexual acts with persons incapable of judgement or resistance (Art. 191), sexual acts with persons in institutional care, prisoners and persons on remand (Art. 192 para. 1) and exploitation of a person in a position of need or dependency (Art. 193 para. 1) if committed against children under the age of 12.[^101-2]
+- d. felonies that have caused or threatened to cause danger to life and limb to a large number of persons as a method of extortion or duress, in particular through the use of means of mass destruction, the causing of catastrophes, or as part of a hostage taking offence;
+- e.[^101-1] sexual acts with children (Art. 187 Nos 1 and 1<sup>bis</sup>), sexual abuse and indecent assault (Art. 189), rape (Art. 190), sexual acts with persons incapable of proper judgement or resistance (Art. 191), exploitation of a person in a position of need or dependency (Art. 193) and deception as to the sexual character of an act (Art. 193*a*) if committed against children under the age of 12.[^101-2]
 
 <sup>2</sup> If the right to prosecute the offence would have become time barred had Articles 97 and 98 applied, the court may in its discretion impose a more lenient penalty.
 
 <sup>3</sup> Paragraphs 1 letters a, c and d and paragraph 2 apply if the right to prosecute or execute the sentence had not become time barred by 1 January 1983 in accordance with the law applicable until that point in time. Paragraph 1 letter b applies if the right to prosecute or execute the penalty has not become time barred under the previous law when the Amendment of 18 June 2010 to this Code comes into force. Paragraph 1 letter e applies if the prosecution or the sentence has not become time barred by 30 November 2008 in accordance with the law applicable until that point in time.[^101-3] [^101-4]
 
-[^101-1]: Inserted by No I 1 of the FA of 15 June 2012 (Non-applicability of Limitation to Sexual or Pornography Offences against Prepubescent Children), in force since 1 Jan. 2013 ([AS 2012 5951](https://fedlex.data.admin.ch/eli/oc/2012/696); [BBl 2011 5977](https://fedlex.data.admin.ch/eli/fga/2011/883)).
+[^101-1]: Inserted by No I 1 of the FA of 15 June 2012 (Non-applicability of Limitation to Sexual or Pornography Offences against Prepubescent Children), ([AS 2012 5951](https://fedlex.data.admin.ch/eli/oc/2012/696); [BBl 2011 5977](https://fedlex.data.admin.ch/eli/fga/2011/883)). Amended by No I 1 of the FA of 16 June 2023 on a Revision of the Law on Sex Offences, in force since 1 July 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^101-2]: Amended by No I 1 of the FA of 18 June 2010 on the Amendment of Federal Legislation in Implementation of the Rome Statue of the International Criminal Court, in force since 1 Jan. 2011 ([AS 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [BBl 2008 3863](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 [^101-3]: Third sentence inserted by No I 1 of the FA of 15 June 2012 (Non-applicability of Limitation to Sexual or Pornography Offences against Prepubescent Children), in force since 1 Jan. 2013 ([AS 2012 5951](https://fedlex.data.admin.ch/eli/oc/2012/696); [BBl 2011 5977](https://fedlex.data.admin.ch/eli/fga/2011/883)).
 [^101-4]: Amended by No I 1 of the FA of 18 June 2010 on the Amendment of Federal Legislation in Implementation of the Rome Statue of the International Criminal Court, in force since 1 Jan. 2011 ([AS 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [BBl 2008 3863](https://fedlex.data.admin.ch/eli/fga/2008/807)).
@@ -2591,7 +2601,7 @@ Any person who for his own or another's benefit unlawfully uses financial assets
 
 <sup>2</sup> If the offender acts for his own or for another's unlawful gain, a custodial sentence not exceeding five years or to monetary penalty shall be imposed.
 
-### Unauthorised obtaining of data
+### Data theft
 
 #### Art. 143
 
@@ -2953,7 +2963,7 @@ Any debtor who, in the knowledge of his inability to pay and with a view to show
 
 [^168-1]
 
-<sup>1</sup> shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
+shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
 Any person who:
 
@@ -3007,6 +3017,8 @@ shall be liable to a custodial sentence not exceeding three years or to a moneta
 
 ### 4. General provisions
 
+### …
+
 #### Art. 172
 
 [^172-1]
@@ -3025,7 +3037,7 @@ shall be liable to a custodial sentence not exceeding three years or to a moneta
 
 <sup>1</sup> Where the offence relates only to a minor asset value or where only a minor loss is incurred, the offender shall be liable on complaint to a fine.
 
-<sup>2</sup> This provision does not apply to aggravated theft (Art. 139 para. 2[^172ter-1] and 3), robbery or extortion.
+<sup>2</sup> This provision does not apply to aggravated theft (Art. 139 nos 2[^172ter-1] and 3), robbery or extortion.
 
 [^172ter-1]: This number is now repealed.
 
@@ -3268,7 +3280,7 @@ Any person who uses the identity of another person without his or her consent in
 The offender is prosecuted *ex officio* if he:
 
 - a. is the spouse of the victim and the threat was made during the marriage or within one year of divorce; or
-- [tab] a<sup>bis</sup>.[^180-1] is the registered partner of the victim and the threat was made during the registered partnership or within one year of its dissolution; or
+- a<sup>bis</sup>.[^180-1] is the registered partner of the victim and the threat was made during the registered partnership or within one year of its dissolution; or
 - b. is the heterosexual or homosexual partner of the victim, provided they are cohabiting for an unlimited period and the threat was made during this time or within one year of separation.[^180-2]
 
 [^180-1]: Inserted by Annex No 18 of the Same-Sex Partnership Act of 18 June 2004, in force since 1 Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
@@ -3397,111 +3409,133 @@ Any person who, against the will of the lawful occupants enters a building, an a
 
 [^book2-tit5-1]: Amended by No 1 of the FA of 21 June 1991, in force since 1 Oct. 1992 ([AS 1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670)1678; [BBl 1985 II 1009](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
 
-### 1. Endangering the development of minors
+### 1. Sexual acts with children
 
-### Sexual acts with children
+[^book2-tit5-lvl1-1]
+
+[^book2-tit5-lvl1-1]: Amended by No I 1 of the FA of 16 June 2023 on a Revision of the Law on Sex Offences, in force since 1 July 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 #### Art. 187
 
 <sup>1.</sup> Any person who engages in a sexual act with a child under 16 years of age, or,
 
-incites a child to commit such an activity, or
+incites a child to commit such an act, or
 
-involves a child in a sexual act,
+involves a child in a such an act,
 
-shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
+shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.[^187-1]
 
-<sup>2.</sup> No penalty may be imposed if the difference in age between the persons involved is three years or less.
+1<sup>bis</sup>. If the child is under the age of 12 and if the offender engages in a sexual act with the child or causes the child to engage in a sexual act with another person or with an animal, a custodial sentence of between one and five years shall be imposed.[^187-2]
 
-<sup>3.</sup> If the offender has not reached the age of 20 at the time of the act or the first of the acts, and if there are special circumstances, or if the child is the spouse or registered partner of the offender, the responsible authority may dispense with prosecution, referral to the court or the imposition of a penalty.[^187-1]
+<sup>2.</sup> No penalty may be imposed if the difference in age between the persons involved does not exceed three years.
 
-<sup>4.</sup> If the offender acts under the misconception that the child is 16 years of age or older, but he would not have made this error had he exercised due care, a custodial sentence not exceeding three years or a monetary penalty shall be imposed.
+<sup>3.</sup> If the offender has not reached the age of 20 at the time of the act or the first of the acts, and if there are special circumstances, the responsible authority may dispense with prosecution, referral to court or the imposition of a penalty.[^187-3]
 
-<sup>5.</sup> ...[^187-2]
+<sup>4.</sup> If the offender acts under the misconception that the child is 16 years of age or older, but they would not have made this error had they exercised due care, a custodial sentence not exceeding three years or a monetary penalty shall be imposed.
 
-<sup>6.</sup> ...[^187-3]
+<sup>5.</sup> ...[^187-4]
 
-[^187-1]: Amended by No I 1 of the FA of 13 Dec. 2013 on Activity Prohibition Orders and Contact Prohibition and Exclusion Orders, in force since 1 Jan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
-[^187-2]: Repealed by No I of the FA of 21 March 1997, with effect from 1 Sept. 1997 ([AS 1997 1626](https://fedlex.data.admin.ch/eli/oc/1997/1626_1626_1626); [BBl 1996 IV 1318](https://fedlex.data.admin.ch/eli/fga/1996/4_1318_1315_1135)1322).
-[^187-3]: Inserted by No I of the FA of 21 March 1997 ([AS 1997 1626](https://fedlex.data.admin.ch/eli/oc/1997/1626_1626_1626); [BBl 1996 IV 1318](https://fedlex.data.admin.ch/eli/fga/1996/4_1318_1315_1135)1322). Repealed by No I of the FA of 5 Oct. 2001 (Limitation of Right to Prosecute in general and in cases of Sexual Offences against Children), with effect from 1 Oct. 2002 ([AS 2002 2993](https://fedlex.data.admin.ch/eli/oc/2002/430); [BBl 2000 2943](https://fedlex.data.admin.ch/eli/fga/2000/612)).
+<sup>6.</sup> ...[^187-5]
+
+[^187-1]: Amended by No I 1 of the FA of 16 June 2023 on a Revision of the Law on Sex Offences, in force since 1 July 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^187-2]: Inserted by No I 1 of the FA of 16 June 2023 on a Revision of the Law on Sex Offences, in force since 1 July 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^187-3]: Amended by No I 1 of the FA of 16 June 2023 on a Revision of the Law on Sex Offences, in force since 1 July 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^187-4]: Repealed by No I of the FA of 21 March 1997, with effect from 1 Sept. 1997 ([AS 1997 1626](https://fedlex.data.admin.ch/eli/oc/1997/1626_1626_1626); [BBl 1996 IV 1318](https://fedlex.data.admin.ch/eli/fga/1996/4_1318_1315_1135)1322).
+[^187-5]: Inserted by No I of the FA of 21 March 1997 ([AS 1997 1626](https://fedlex.data.admin.ch/eli/oc/1997/1626_1626_1626); [BBl 1996 IV 1318](https://fedlex.data.admin.ch/eli/fga/1996/4_1318_1315_1135)1322). Repealed by No I of the FA of 5 Oct. 2001 (Limitation of Right to Prosecute in general and in cases of Sexual Offences against Children), with effect from 1 Oct. 2002 ([AS 2002 2993](https://fedlex.data.admin.ch/eli/oc/2002/430); [BBl 2000 2943](https://fedlex.data.admin.ch/eli/fga/2000/612)).
+
+### 2. Offences against sexual liberty and integrity.
 
 ### Sexual acts with dependent persons
 
 #### Art. 188
 
-<sup>1.</sup> Any person who commits a sexual act by exploiting his or her relationship with a minor over the age of 16 who is dependent on him due to a relationship arising from the minor's education, care or employment or another form of dependent relationship,
+[^188-1]
+
+Any person who commits a sexual act by exploiting his or her relationship with a minor of at least 16 years of age who is dependent on them due to a relationship arising from the minor's education, care or employment or another form of dependent relationship,
 
 any person who encourages such a minor to commit a sexual act by exploiting such a relationship,
 
-shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
+shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
-<sup>2.</sup> If the minor is the spouse or registered partner of the offender, the responsible authority may dispense with prosecution, referral to the court or the imposition of a penalty.[^188-1]
+[^188-1]: Amended by No I 1 of the FA of 16 June 2023 on a Revision of the Law on Sex Offences, in force since 1 July 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
-[^188-1]: Amended by Annex No 18 of the Same-Sex Partnership Act of 18 June 2004, in force since 1 Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-
-### 2. Offences against sexual liberty and honour
-
-### Indecent assault
+### Sexual abuse and indecent assault
 
 #### Art. 189
 
-<sup>1</sup> Any person who uses threats, force or psychological pressure on another person or makes that other person incapable of resistance in order to compel him or her to tolerate a sexual act similar to intercourse or any other sexual act shall be liable to a custodial sentence not exceeding ten years or to a monetary penalty.
+[^189-1]
 
-<sup>2</sup> ...[^189-1]
+<sup>1</sup> Any person who, against the will of another person, performs a sexual act on that person or has that person perform such an act on them or who exploits that person’s state of shock to that end shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
-<sup>3</sup> If the offender acts with cruelty, and if in particular he makes use of an offensive weapon or any other dangerous object, the penalty is a custodial sentence of not less than three years.[^189-2]
+<sup>2</sup> Any person who uses threats, force or psychological pressure on another person or makes that other person incapable of resistance in order to compel that person to carry out or tolerate a sexual act shall be liable to a custodial sentence not exceeding ten years or to a monetary penalty.
 
-[^189-1]: Repealed by No I of the FA of 3 Oct. 2003 (Prosecution of Offences within Marriage or Registered Partnerships), with effect from 1 April 2004 ([AS 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176)1407; [BBl 2003 1909](https://fedlex.data.admin.ch/eli/fga/2003/226)[1937](https://fedlex.data.admin.ch/eli/fga/2003/228)).
-[^189-2]: Amended by No I of the FA of 3 Oct. 2003 (Prosecution of Offences within Marriage or Registered Partnerships), in force since 1 April 2004 ([AS 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176)1407; [BBl 2003 1909](https://fedlex.data.admin.ch/eli/fga/2003/226)[1937](https://fedlex.data.admin.ch/eli/fga/2003/228)).
+<sup>3</sup> If the offender acts with cruelty, and if in particular they make use of an offensive weapon or any other dangerous object, the penalty is a custodial sentence of not less than one year.
+
+[^189-1]: Amended by No I 1 of the FA of 16 June 2023 on a Revision of the Law on Sex Offences, in force since 1 July 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 ### Rape
 
 #### Art. 190
 
-<sup>1</sup> Any person who forces a person of the female sex by threats or violence, psychological pressure or by being made incapable of resistance to submit to sexual intercourse shall be liable to a custodial sentence of from one to ten years.
+[^190-1]
 
-<sup>2</sup> ...[^190-1]
+<sup>1</sup> Any person who, against the will of another person, has sexual intercourse with that person, commits an act with that person similar to sexual intercourse involving penetration of the body, or who has that person perform such an act or who exploits that person’s state of shock to that end shall be liable to a custodial sentence not exceeding five years.
 
-<sup>3</sup> If the offender acts with cruelty, and if in particular he makes use of an offensive weapon or any other dangerous object, the penalty is a custodial sentence of not less than three years.[^190-2]
+<sup>2</sup> Any person who forces another person to engage in or tolerate sexual intercourse or an act similar to sexual intercourse involving penetration of the body by using threats or violence, psychological pressure or by being made incapable of resistance shall be liable to a custodial sentence of from one to ten years.
 
-[^190-1]: Repealed by No I of the FA of 3 Oct. 2003 (Prosecution of Offences within Marriage or Registered Partnerships), with effect from 1 April 2004 ([AS 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176)1407; [BBl 2003 1909](https://fedlex.data.admin.ch/eli/fga/2003/226)[1937](https://fedlex.data.admin.ch/eli/fga/2003/228)).
-[^190-2]: Amended by No I of the FA of 3 Oct. 2003 (Prosecution of Offences within Marriage or Registered Partnerships), in force since 1 April 2004 ([AS 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176)1407; [BBl 2003 1909](https://fedlex.data.admin.ch/eli/fga/2003/226)[1937](https://fedlex.data.admin.ch/eli/fga/2003/228)).
+<sup>3</sup> If the offender in paragraph 2 acts with cruelty, and if they make use of an offensive weapon or any other dangerous object, the penalty shall be a custodial sentence of not less than three years.
 
-### Sexual acts with persons incapable of judgement or resistance
+[^190-1]: Amended by No I 1 of the FA of 16 June 2023 on a Revision of the Law on Sex Offences, in force since 1 July 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+
+### Abuse of persons incapable of proper judgement or resistance
 
 #### Art. 191
 
-Any person who, in the knowledge that another person is incapable of judgement or resistance, has sexual intercourse with, or commits an act similar to sexual intercourse or any other sexual act on that person shall be liable to a custodial sentence not exceeding ten years or to a monetary penalty.
+[^191-1]
 
-### Sexual acts with persons in institutional care, prisoners and persons on remand
+Any person who has sexual intercourse with, or commits an act similar to sexual intercourse or any other sexual act with a person who is incapable of proper judgement or resistance shall be liable to a custodial sentence not exceeding ten years or to a monetary penalty.
+
+[^191-1]: Amended by No I 1 of the FA of 16 June 2023 on a Revision of the Law on Sex Offences, in force since 1 July 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 #### Art. 192
 
-<sup>1</sup> Any person who, by abusing a dependent relationship with a person in institutional care, an inmate of an institution, a prisoner, a detainee or a person on remand, induces the dependent person to commit or submit to a sexual act, shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
+[^192-1]
 
-<sup>2</sup> If the person harmed is the spouse or registered partner of the offender, the responsible authority may dispense with prosecution, referral to the court or the imposition of a penalty.[^192-1]
-
-[^192-1]: Amended by Annex No 18 of the Same-Sex Partnership Act of 18 June 2004, in force since 1 Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^192-1]: Repealed by No I 1 of the FA of 16 June 2023 on a Revision of the Law on Sex Offences, with effect from 1 July 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 ### Exploitation of a person in a position of need or dependency
 
 #### Art. 193
 
-<sup>1</sup> Any person who induces another to commit or submit to a sexual act by exploiting a position of need or a dependent relationship based on employment or another dependent relationship shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
+[^193-1]
 
-<sup>2</sup> If the person harmed is the spouse or registered partner of the offender, the responsible authority may dispense with prosecution, referral to the court or the imposition of a penalty.[^193-1]
+Any person who induces another to commit or submit to a sexual act by exploiting a position of need or a dependent relationship based on employment or another dependent relationship shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
-[^193-1]: Amended by Annex No 18 of the Same-Sex Partnership Act of 18 June 2004, in force since 1 Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^193-1]: Amended by No I 1 of the FA of 16 June 2023 on a Revision of the Law on Sex Offences, in force since 1 July 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+
+### Deception as to the sexual character of an act
+
+#### Art. 193a
+
+[^193a-1]
+
+Any person who, in exercising a professional or organised extra-professional activity in the health sector, performs a sexual act on a person or has a person perform a sexual act on them and deceives them as to the nature of the act or exploits their misconception about the nature of the act shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
+
+[^193a-1]: Inserted by No I 1 of the FA of 16 June 2023 on a Revision of the Law on Sex Offences, in force since 1 July 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 ### Indecent conduct
 
 #### Art. 194
 
-<sup>1</sup> Any person who engages in an act of indecent conduct shall be liable on complaint to a monetary penalty.[^194-1]
+[^194-1]
 
-<sup>2</sup> If the offender undergoes medical treatment, the criminal proceedings may be suspended. They may be resumed if the offender refuses to continue treatment.
+<sup>1</sup> Any person who engages in an act of indecent conduct shall be liable on complaint to a fine.
 
-[^194-1]: Penalties revised by No II 1 of the FA of 19 June 2015 (Amendment to the Law on Criminal Sanctions), in force since 1 Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+<sup>2</sup> In serious cases, a monetary penalty shall be imposed. The offence shall be prosecuted on complaint.
+
+<sup>3</sup> If the accused undergoes medical treatment as ordered by the competent authority, the criminal proceedings shall be discontinued.
+
+[^194-1]: Amended by No I 1 of the FA of 16 June 2023 on a Revision of the Law on Sex Offences, in force since 1 July 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 ### 3. Exploitation of sexual acts
 
@@ -3511,14 +3545,14 @@ Any person who, in the knowledge that another person is incapable of judgement o
 
 [^195-1]
 
-Any person who
-
 shall be liable to a custodial sentence not exceeding ten years or to a monetary penalty.
 
-- a. induces a minor into prostitution or encourages a minor in his or her prostitution with the intention of securing a financial advantage
-- b. induces a person into prostitution by exploiting his or her dependence or a financial advantage,
-- c. restricts the freedom to act of a prostitute by supervising him or her in the course of his or her activities or by exercising control over the location, time, volume or other aspects of his or her work as a prostitute or,
-- d. makes a person remain a prostitute against his or her will,
+Any person who:
+
+- a. induces a minor into prostitution or encourages a minor to engage in prostitution with the intention of securing a financial advantage
+- b. induces a person into prostitution by exploiting that person’s dependency or with the intention of securing a financial advantage,
+- c. restricts the freedom to act of a prostitute by supervising them in the course of their activities or by exercising control over the location, time, volume or other aspects of their work as a prostitute or,
+- d. makes a person remain a prostitute against their will,
 
 [^195-1]: Amended by Annex No 1 of the FedD of 27 Sept. 2013 (Lanzarote Convention), in force since 1 July 2014 ([AS 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [BBl 2012 7571](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
 
@@ -3540,35 +3574,78 @@ Any person who carries out sexual acts with a minor or induces a minor to carry 
 
 <sup>1</sup> Any person who offers, shows, passes on or makes accessible to a person under the age of 16 pornographic documents, sound or visual recordings, depictions or other items of a similar nature or pornographic performances, or broadcasts any of the same on radio or television shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
-<sup>2.</sup> Any person who exhibits in public items or performances as described in paragraph 1 above or shows or otherwise offers the same unsolicited to others shall be liable to a fine. Any person who, in advance, draws the attention of visitors to private exhibitions or performances to their pornographic character does not commit an offence.
+<sup>2.</sup> Any person who exhibits in public items or recordings as described in paragraph 1 above or shows or otherwise offers the same unsolicited to others shall be liable to a fine. Any person who, in advance, draws the attention of visitors to private exhibitions or performances to their pornographic character does not commit an offence.
 
 <sup>3</sup> Any person who recruits or causes a minor to participate in a pornographic performance shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
-<sup>4</sup> Any person who produces, imports, stores, markets, advertises, exhibits, offers, shows, passes on or makes accessible to others, acquires, or procures or possesses via electronic media or otherwise items or performances as described in paragraph 1 above that contain sexual acts involving animals, acts of violence involving adults or non-genuine sexual acts with minors shall be liable to a custodial sentence not exceeding three years or to a monetary penalty. If the items or performances contain genuine sexual acts with minors, the penalty is a custodial sentence not exceeding five years or a monetary penalty.
+<sup>4</sup> Any person who produces, imports, stores, markets, advertises, exhibits, offers, shows, passes on or makes accessible to others, acquires, or procures or possesses via electronic media or otherwise items or recordings as described in paragraph 1 above that contain sexual acts involving animals or non-genuine sexual acts with minors shall be liable to a custodial sentence not exceeding three years or to a monetary penalty.
 
-<sup>5</sup> Any person who consumes or who for his or her own consumption produces, imports, stores, acquires or procures or possesses via electronic media or otherwise items or performances as described in paragraph 1 above that contain sexual acts involving animals, acts of violence involving adults or non-genuine sexual acts with minors shall be liable to a custodial sentence not exceeding one year or to a monetary penalty. If the items or performances contain genuine sexual acts with minors, a custodial sentence not exceeding three years or a monetary penalty shall be imposed.
+If the items or recordings contain genuine sexual acts with minors, the penalty is a custodial sentence not exceeding five years or a monetary penalty.[^197-2]
 
-<sup>6</sup> In the case offences under paragraphs 4 and 5, the items shall be forfeited.
+<sup>5</sup> Any person who consumes or who for their own consumption produces, imports, stores, acquires or procures or possesses via electronic media or otherwise items or recordings as described in paragraph 1 above that contain sexual acts involving animals or non-genuine sexual acts with minors shall be liable to a custodial sentence not exceeding one year or to a monetary penalty.
 
-<sup>7</sup> If the offender acts for financial gain, the custodial sentence must be combined with a monetary penalty.
+If the items or recordings contain genuine sexual acts with minors, a custodial sentence not exceeding three years or a monetary penalty shall be imposed.[^197-3]
 
-<sup>8</sup> Minors over the age of 16 are not liable to any penalty if by mutual consent they produce items or performances as described in paragraph 1 above that involve each other, or possess or consume such items or performances.
+<sup>6</sup> In the case of offences under paragraphs 4 and 5, the items shall be forfeited.
+
+<sup>7</sup> …[^197-4]
+
+<sup>8</sup>
+
+Any person who produces, possesses or consumes items or recordings as described in paragraph 1 above involving a minor or makes such items or recordings accessible to the person shown shall not commit an offence provided:
+
+- a. the minor has consented;
+- b. the person producing the image or performance does not make or promise to make any payment therefor; and
+- c. the difference in age between the participants does not exceed three years.[^197-5]
+
+<sup>8bis</sup> It shall not be an offence for a minor to produce, possess or consume items or recordings as described in paragraph 1 or to make the same accessible to another person with that person’s consent.
+
+The person who makes these items or recordings accessible shall not commit an offence by possessing and consuming them provided:
+
+- a. they do not make or promise to make payment therefor;
+- b. the participants know each other; and
+- c. the participants are adults or, if at least one of them is a minor, the difference in age between them does not exceed three years.[^197-6]
 
 <sup>9</sup> Items or recordings as described in paragraphs 1–5 above are not regarded as pornographic if they have a cultural or scientific value that justifies their protection by law.
 
 [^197-1]: Amended by Annex No 1 of the FedD of 27 Sept. 2013 (Lanzarote Convention), in force since 1 July 2014 ([AS 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [BBl 2012 7571](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
+[^197-2]: Amended by No I 1 of the FA of 16 June 2023 on a Revision of the Law on Sex Offences, in force since 1 July 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^197-3]: Amended by No I 1 of the FA of 16 June 2023 on a Revision of the Law on Sex Offences, in force since 1 July 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^197-4]: Repealed by No I 1 of the FA of 16 June 2023 on a Revision of the Law on Sex Offences, with effect from 1 July 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^197-5]: Amended by No I 1 of the FA of 16 June 2023 on a Revision of the Law on Sex Offences, in force since 1 July 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^197-6]: Inserted by No I 1 of the FA of 16 June 2023 on a Revision of the Law on Sex Offences, in force since 1 July 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
-### 5. Contraventions against sexual integrity
+### 5. Unauthorised passing on of private sexual content
+
+#### Art. 197a
+
+[^197a-1]
+
+<sup>1</sup> Any person who passes on private sexual content, in particular documents, sound or visual recordings, depictions or other items or performances, without the consent of the person recognisable therein, shall on complaint be liable to a custodial sentence not exceeding one year or to a monetary penalty.
+
+<sup>2</sup> If the offender has published the content, a custodial sentence not exceeding three years or a monetary penalty shall be imposed.
+
+[^197a-1]: Inserted by No I 1 of the FA of 16 June 2023 on a Revision of the Law on Sex Offences, in force since 1 July 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+
+### 6. Contraventions against sexual integrity
 
 ### Sexual harassment
 
 #### Art. 198
 
-Any person who causes offence by performing a sexual act in the presence of another who does not expect it,
+[^198-1]
 
-any person who sexually harasses another physically or through the use of indecent language,
+<sup>1</sup> Any person who causes offence by performing a sexual act in the presence of another who does not expect it,
+
+any person who sexually harasses another physically or through the use of indecent language, writings or images
 
 shall be liable on complaint to a fine.
+
+<sup>2</sup> The competent authority may require the person concerned to attend a course. If they complete the required course successfully, the proceedings shall be discontinued.
+
+<sup>3</sup> The competent authority shall decide on the procedural costs and on any claims made by the civil party.
+
+[^198-1]: Amended by No I 1 of the FA of 16 June 2023 on a Revision of the Law on Sex Offences, in force since 1 July 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 ### Unauthorised practice of prostitution
 
@@ -3576,11 +3653,15 @@ shall be liable on complaint to a fine.
 
 Any person who violates the cantonal regulations on the permitted locations or times at which prostitution may be practised or the manner in which it may be practised, or on the prevention of related public nuisance shall be liable to a fine.
 
-### 6. Joint commission
+### 7. Joint commission
 
 #### Art. 200
 
-Where any person commits an offence under this Title jointly with one or more others, the court may increase the penalty imposed, but may not exceed the standard maximum penalty for the offence by more than an additional half. The court, in imposing the penalty, is bound by the statutory maximum penalty for the type offence in question.
+[^200-1]
+
+Where any person commits an offence under this Title jointly with one or more others, the court shall increase the penalty imposed, but may not exceed the standard maximum penalty for the offence by more than an additional half. The court, in imposing the penalty, is bound by the statutory maximum penalty for the type offence in question.
+
+[^200-1]: Amended by No I 1 of the FA of 16 June 2023 on a Revision of the Law on Sex Offences, in force since 1 July 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 #### Art. 201–212
 
@@ -3902,6 +3983,8 @@ If the offender carries on a commercial operation to produce or treat animal fee
 
 [^236-1]: Amended by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
+### Title Nine: Felonies and Misdemeanours against Public Traffic
+
 ### Disruption of public traffic
 
 #### Art. 237
@@ -3922,9 +4005,9 @@ If the offender thus knowingly endangers the life and limb of a large number of 
 
 ### Disruption of public services
 
-[^book2-tit8-lvlu9-1]
+[^book2-tit9-lvlu2-1]
 
-[^book2-tit8-lvlu9-1]: Amended by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+[^book2-tit9-lvlu2-1]: Amended by No I 1 of the FA of 17 Dec. 2021 on the Harmonisation of Sentencing Policy, in force since 1 July 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
 #### Art. 239
 
@@ -4129,9 +4212,9 @@ shall be liable to a custodial sentence not exceeding five years or to a monetar
 
 #### Art. 254
 
-1 Any person who damages, destroys, conceals or misappropriates a document over which he has no exclusive right of disposal, with a view to causing financial loss or damage to the rights of another or in order to obtain an unlawful advantage for himself or another shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
+<sup>1</sup> Any person who damages, destroys, conceals or misappropriates a document over which he has no exclusive right of disposal, with a view to causing financial loss or damage to the rights of another or in order to obtain an unlawful advantage for himself or another shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
-2 The suppression of documents to the detriment of a relative or family member is prosecuted only on complaint.
+<sup>2</sup> The suppression of documents to the detriment of a relative or family member is prosecuted only on complaint.
 
 ### Official foreign documents
 
@@ -4201,11 +4284,11 @@ Any person who, in accordance with a plan, carries out specific technical or org
 - a. intentional homicide (Art. 111);
 - b. murder (Art. 112);
 - c. serious assault (Art. 122);
-- [tab] c<sup>bis</sup>.[^260bis-2] female genital mutilation (Art. 124);
+- c<sup>bis</sup>.[^260bis-2] female genital mutilation (Art. 124);
 - d. robbery (Art. 140);
 - e. false imprisonment and abduction (Art. 183);
 - f. hostage taking (Art. 185);
-- [tab] f<sup>bis</sup>.[^260bis-3] enforced disappearance (Art. 185<sup>bis</sup>);
+- f<sup>bis</sup>.[^260bis-3] enforced disappearance (Art. 185<sup>bis</sup>);
 - g. arson (Art. 221);
 - h. genocide (Art. 264);
 - i. crimes against humanity (Art. 264*a*);
@@ -4284,12 +4367,13 @@ Any person who sells, hires, gifts, hands over or procures firearms, weapons pro
 
 [^260sexies-1]
 
-<sup>1</sup> Any person who, with a view to committing a violent felony aimed at intimidating the population or coercing a State or an international organisation to act or refrain from acting,
+<sup>1</sup> shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
+
+Any person who, with a view to committing a violent felony aimed at intimidating the population or coercing a State or an international organisation to act or refrain from acting:
 
 - a. recruits another person to commit or participate in such an offence;
 - b. accepts training or trains others in the manufacture or use of weapons, explosives, radioactive materials, poisonous gases or other devices or dangerous substances for the purpose of committing or participating in the commission of such an offence; or
 - c. travels abroad with the intention of committing, participating in or training for such an offence
-- [tab] shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
 <sup>2</sup> The same penalty shall apply to any person who collects or provides assets with the intention of financing a journey in accordance with paragraph 1 letter c, or any person who organises or recruits others to make such a journey.
 
@@ -4358,15 +4442,13 @@ shall be liable to a custodial sentence not exceeding three years or to a moneta
 
 ### Title Twelve<sup>bis</sup>: Genocide and Crimes against Humanity
 
-[^book2-tit12-1]
+[^book2-tit12bis-1]
 
-[^book2-tit12-1]: Inserted by No I of the FA of 24 March 2000 ([AS 2000 2725](https://fedlex.data.admin.ch/eli/oc/2000/454); [BBl 1999 5327](https://fedlex.data.admin.ch/eli/fga/1999/1_5327_4911_4611)). Amended by No I 1 of the FA of 18 June 2010 on the Amendment of Federal Legislation in Implementation of the Rome Statue of the International Criminal Court, in force since 1 Jan. 2011 ([AS 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [BBl 2008 3863](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^book2-tit12bis-1]: Inserted by No I of the FA of 24 March 2000 ([AS 2000 2725](https://fedlex.data.admin.ch/eli/oc/2000/454); [BBl 1999 5327](https://fedlex.data.admin.ch/eli/fga/1999/1_5327_4911_4611)). Amended by No I 1 of the FA of 18 June 2010 on the Amendment of Federal Legislation in Implementation of the Rome Statue of the International Criminal Court, in force since 1 Jan. 2011 ([AS 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [BBl 2008 3863](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 
 ### Genocide
 
 #### Art. 264
-
-<sup>1</sup>
 
 The penalty is a custodial sentence of life or a custodial sentence of not less than ten years for any person who with the intent to destroy, in whole or in part, a group of persons characterised by their nationality, race, religion or ethnic, social or political affiliation:
 
@@ -4415,7 +4497,7 @@ The penalty is a custodial sentence of not less than five years for any person w
   - 2\. on behalf of or with the acquiescence of a State or political organisation or in violation of a legal duty refuses to give information on the fate or whereabouts of the person concerned;
 
 - f. inflicts severe pain or suffering or serious injury, whether physical or mental, on a person in his or her custody or under his or her control;
-- g. rapes a person of the female gender or, after she has been forcibly made pregnant, confines her unlawfully with the intent of affecting the ethnic composition of a population, forces a person to tolerate a sexual act of comparable severity or forces a person into prostitution or to be sterilised;
+- g.[^264a-1] commits rape in accordance with Article 190 paragraph 2 or 3 or an indecent assault in accordance with Article 189 paragraph 2 or 3 of comparable severity on a person, abuses that person by committing a sexual act of comparable severity, or forces a person into prostitution or to be sterilised or, after she has been forcibly made pregnant, confines her unlawfully with the intent of affecting the ethnic composition of a population;
 - h. expels or by other coercive acts displaces persons from an area in which they are lawfully present;
 - i. in violation of international law and for political, racist, ethnic, religious, social or other reasons, severely denies or deprives a group of people of fundamental rights in connection with an offence under Title Twelve<sup>bis</sup> or Title Twelve<sup>ter</sup> or for the purpose of the systematic oppression or domination of an ethnic group;
 - j. commits any other act of a comparable seriousness to the felonies mentioned in this paragraph and thereby causes severe pain or suffering or serious injury, whether physical or mental, to a person.
@@ -4424,11 +4506,13 @@ The penalty is a custodial sentence of not less than five years for any person w
 
 <sup>3</sup> In less serious cases under paragraph 1 letters c–j, a custodial sentence of not less than one year may be imposed.
 
+[^264a-1]: Amended by No I 1 of the FA of 16 June 2023 on a Revision of the Law on Sex Offences, in force since 1 July 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+
 ### Title Twelve<sup>ter</sup>: War Crimes
 
-[^book2-tit12bis-1]
+[^book2-tit12ter-1]
 
-[^book2-tit12bis-1]: Inserted by No I 1 of the FA of 18 June 2010 on the Amendment of Federal Legislation in Implementation of the Rome Statue of the International Criminal Court, in force since 1 Jan. 2011 ([AS 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [BBl 2008 3863](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^book2-tit12ter-1]: Inserted by No I 1 of the FA of 18 June 2010 on the Amendment of Federal Legislation in Implementation of the Rome Statue of the International Criminal Court, in force since 1 Jan. 2011 ([AS 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [BBl 2008 3863](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 
 ### 1. Scope of application
 
@@ -4491,12 +4575,14 @@ The penalty is a custodial sentence of not less than three years for any person 
 The penalty is a custodial sentence of not less than three years for any person who, in connection with an armed conflict:
 
 - a. causes severe pain or suffering or serious injury or danger, whether physical or mental, to a person protected by international humanitarian law by subjecting that person to a medical procedure that is not justified by the state of his or her health and which does comply with generally recognised medical principles;
-- b. rapes a person of the female gender protected by international humanitarian law or, after she has been forcibly made pregnant, confines her unlawfully with the intent of affecting the ethnic composition of a population, forces a person to tolerate a sexual act of comparable severity or forces a person protected by international humanitarian law into prostitution or to be sterilised;
+- b.[^264e-1] commits rape in accordance with Article 190 paragraph 2 or 3 or an indecent assault in accordance with Article 189 paragraph 2 or 3 of comparable severity on a person protected by international humanitarian law, abuses that person by committing a sexual act of comparable severity, or forces that person into prostitution or to be sterilised or, after she has been forcibly made pregnant, confines her unlawfully with the intent of affecting the ethnic composition of a population;
 - c. subjects a person protected by international humanitarian law to especially humiliating and degrading treatment.
 
 <sup>2</sup> In especially serious cases, and in particular where the offence affects a number of persons or the offender acts in a cruel manner, a custodial sentence of life may be imposed.
 
 <sup>3</sup> In less serious cases, a custodial sentence of not less than one year may be imposed.
+
+[^264e-1]: Amended by No I 1 of the FA of 16 June 2023 on a Revision of the Law on Sex Offences, in force since 1 July 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 ### c. Recruitment and use of child soldiers
 
@@ -4563,9 +4649,9 @@ The penalty is a custodial sentence not exceeding three years or a monetary pena
 
 ### Title Twelve<sup>quater</sup>: Common Provisions for Title Twelve<sup>bis</sup> and Title Twelve<sup>ter</sup>
 
-[^book2-tit12ter-1]
+[^book2-tit12quater-1]
 
-[^book2-tit12ter-1]: Inserted by No I 1 of the FA of 18 June 2010 on the Amendment of Federal Legislation in Implementation of the Rome Statue of the International Criminal Court, in force since 1 Jan. 2011 ([AS 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [BBl 2008 3863](https://fedlex.data.admin.ch/eli/fga/2008/807)).
+[^book2-tit12quater-1]: Inserted by No I 1 of the FA of 18 June 2010 on the Amendment of Federal Legislation in Implementation of the Rome Statue of the International Criminal Court, in force since 1 Jan. 2011 ([AS 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [BBl 2008 3863](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 
 ### Criminal liability of superiors
 
@@ -4654,9 +4740,9 @@ endangering the independence of the Confederation by bringing about the interfer
 
 shall be liable to a custodial sentence of not less than one year.
 
-2.[^266-1] Any person who enters into a relationship with the government of a foreign state or its agents with the aim of bringing about a war against the Confederation shall be liable to a custodial sentence of not less than three years.
+<sup>2.</sup> Any person who enters into a relationship with the government of a foreign state or its agents with the aim of bringing about a war against the Confederation shall be liable to a custodial sentence of not less than three years.
 
-In serious cases a life sentence may be imposed.
+In serious cases a life sentence may be imposed.[^266-1]
 
 [^266-1]: Amended by No I of the FA of 5 Oct. 1950, in force since 5 Jan. 1951 ([AS 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1)16; BBl **1949** 1 1249).
 
@@ -5001,11 +5087,13 @@ Any person who fails to comply with an official order that has been issued to hi
 [^293-1]: Amended by No I of the FA of 16 June 2017 (Publication of Official Secret Proceedings), in force since 1 March 2018 ([AS 2018 567](https://fedlex.data.admin.ch/eli/oc/2018/76); [BBl 2016 7329](https://fedlex.data.admin.ch/eli/fga/2016/1580)[7575](https://fedlex.data.admin.ch/eli/fga/2016/1624)).
 [^293-2]: Inserted by No I of the FA of 10 Oct. 1997 ([AS 1998 852](https://fedlex.data.admin.ch/eli/oc/1998/852_852_852); [BBl 1996 IV 525](https://fedlex.data.admin.ch/eli/fga/1996/4_525_533_449)). Amended by No I of the FA of 16 June 2017 (Publication of Official Secret Proceedings), in force since 1 March 2018 ([AS 2018 567](https://fedlex.data.admin.ch/eli/oc/2018/76); [BBl 2016 7329](https://fedlex.data.admin.ch/eli/fga/2016/1580)[7575](https://fedlex.data.admin.ch/eli/fga/2016/1624)).
 
+### Breach of an activity prohibition order or a contact prohibition and exclusion order
+
 #### Art. 294
 
 [^294-1]
 
-Any person who carries on an activity that he is prohibited from carrying on by a prohibition order under Article 67 hereof, Article 50 of the Military Criminal Code of 13 June 1927[^294-2] (MCC) or Article 16*a* JCLA[^294-3] shall be liable to a custodial sentence not exceeding one year or monetary penalty.
+<sup>1</sup> Any person who carries on an activity that he is prohibited from carrying on by a prohibition order under Article 67 hereof, Article 50 of the Military Criminal Code of 13 June 1927[^294-2] (MCC) or Article 16*a* JCLA[^294-3] shall be liable to a custodial sentence not exceeding one year or monetary penalty.
 
 <sup>2</sup> Any person who contacts or approaches one or more specific persons or persons in a specific group or is present in a specific location when he is prohibited from doing so by a contact prohibition and exclusion order under Article 67*b* hereof, Article 50*b* MCC or Article 16*a* JCLA shall be liable to a custodial sentence not exceeding one year or monetary penalty.
 
@@ -5177,9 +5265,9 @@ A serious case is constituted, in particular, where the offender:
 
 ### Insufficient diligence in financial transactions and right to report
 
-[^book2-tit16-lvlu5-1]
+[^book2-tit17-lvlu5-1]
 
-[^book2-tit16-lvlu5-1]: Amended by No I of the FA of 18 March 1994, in force since 1 Aug. 1994 ([AS 1994 1614](https://fedlex.data.admin.ch/eli/oc/1994/1614_1614_1614)1618; [BBl 1993 III 277](https://fedlex.data.admin.ch/eli/fga/1993/3_277_269_193)).
+[^book2-tit17-lvlu5-1]: Amended by No I of the FA of 18 March 1994, in force since 1 Aug. 1994 ([AS 1994 1614](https://fedlex.data.admin.ch/eli/oc/1994/1614_1614_1614)1618; [BBl 1993 III 277](https://fedlex.data.admin.ch/eli/fga/1993/3_277_269_193)).
 
 #### Art. 305<sup>ter</sup>
 
@@ -5229,7 +5317,7 @@ A serious case is constituted, in particular, where the offender:
 
 <sup>2</sup>
 
-The offender shall not be liable to a penalty if he has made a false statement (Art. 306 und 307) because:
+The offender shall not be liable to a penalty if he has made a false statement (Art. 306 and 307) because:
 
 - a. by testifying truthfully, he would risk prosecution; or
 - b. by testifying truthfully, a relative or another person to whom he is so closely related that his conduct is excusable would risk prosecution.
@@ -5465,9 +5553,9 @@ A breach of professional confidentiality remains an offence following the termin
 
 ### Title Nineteen: Bribery
 
-[^book2-tit18-1]
+[^book2-tit19-1]
 
-[^book2-tit18-1]: Inserted by No I 1 of the FA of 22 Dec. 1999 (Revision of the Criminal Law on Corruption), in force since 1 May 2000 ([AS 2000 1121](https://fedlex.data.admin.ch/eli/oc/2000/180)1126; [BBl 1999 5497](https://fedlex.data.admin.ch/eli/fga/1999/1_5497_5045_4721)).
+[^book2-tit19-1]: Inserted by No I 1 of the FA of 22 Dec. 1999 (Revision of the Criminal Law on Corruption), in force since 1 May 2000 ([AS 2000 1121](https://fedlex.data.admin.ch/eli/oc/2000/180)1126; [BBl 1999 5497](https://fedlex.data.admin.ch/eli/fga/1999/1_5497_5045_4721)).
 
 ### 1. Bribery of Swiss public officials
 
@@ -5564,9 +5652,9 @@ The following are not undue advantages:
 
 ### Title Twenty: Contraventions of Federal Law
 
-[^book2-tit19-1]
+[^book2-tit20-1]
 
-[^book2-tit19-1]: Originally Title 19.
+[^book2-tit20-1]: Originally Title 19.
 
 ### Failure of a debtor to comply with the regulations governing Debt Enforcement and Bankruptcy proceedings
 
@@ -5674,9 +5762,9 @@ shall be liable on complaint by the tenant to a fine.
 
 ### Application to legal entities, trading companies and sole proprietorships
 
-[^book2-tit19-lvlu7-1]
+[^book2-tit20-lvlu7-1]
 
-[^book2-tit19-lvlu7-1]: Footnote relevant to German text only.
+[^book2-tit20-lvlu7-1]: Footnote relevant to German text only.
 
 ### 1. ...
 
@@ -5688,9 +5776,9 @@ shall be liable on complaint by the tenant to a fine.
 
 ### 2. In cases falling under Article 325<sup>quater</sup>
 
-[^book2-tit19-lvlu7-lvl2-1]
+[^book2-tit20-lvlu7-lvl2-1]
 
-[^book2-tit19-lvlu7-lvl2-1]: Amended by No III 2 of the FA of 19 June 2020 (Indirect Counter-Proposal to the Popular Initiative "For responsible businesses – protecting human rights and the environment"), in force since 1 Jan. 2022 ([AS 2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^book2-tit20-lvlu7-lvl2-1]: Amended by No III 2 of the FA of 19 June 2020 (Indirect Counter-Proposal to the Popular Initiative "For responsible businesses – protecting human rights and the environment"), in force since 1 Jan. 2022 ([AS 2021 846](https://fedlex.data.admin.ch/eli/oc/2021/846); [BBl 2017 399](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 #### Art. 326<sup>bis</sup>
 
@@ -6076,9 +6164,9 @@ The data subject may request the FDPIC to check whether any data relating to the
 
 ### a. Jurisdiction
 
-[^book3-tit4-lvl4-lvla-1]
+[^book3-tit4-lvl2-lvla-1]
 
-[^book3-tit4-lvl4-lvla-1]: Amended by Annex 1 No II 8 of the Criminal Procedure Code of 5 Oct. 2007, in force since 1 Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^book3-tit4-lvl2-lvla-1]: Amended by Annex 1 No II 8 of the Criminal Procedure Code of 5 Oct. 2007, in force since 1 Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 #### Art. 350
 
@@ -6088,9 +6176,9 @@ The data subject may request the FDPIC to check whether any data relating to the
 
 ### b. Tasks
 
-[^book3-tit4-lvl4-lvlb-1]
+[^book3-tit4-lvl2-lvlb-1]
 
-[^book3-tit4-lvl4-lvlb-1]: Amended by Annex 1 No II 8 of the Criminal Procedure Code of 5 Oct. 2007, in force since 1 Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^book3-tit4-lvl2-lvlb-1]: Amended by Annex 1 No II 8 of the Criminal Procedure Code of 5 Oct. 2007, in force since 1 Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 #### Art. 351
 
@@ -6104,9 +6192,9 @@ The data subject may request the FDPIC to check whether any data relating to the
 
 ### c. Data protection
 
-[^book3-tit4-lvl4-lvlc-1]
+[^book3-tit4-lvl2-lvlc-1]
 
-[^book3-tit4-lvl4-lvlc-1]: Amended by Annex 1 No II 8 of the Criminal Procedure Code of 5 Oct. 2007, in force since 1 Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^book3-tit4-lvl2-lvlc-1]: Amended by Annex 1 No II 8 of the Criminal Procedure Code of 5 Oct. 2007, in force since 1 Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 #### Art. 352
 
@@ -6122,9 +6210,9 @@ The data subject may request the FDPIC to check whether any data relating to the
 
 ### d. Financial aid and other payments
 
-[^book3-tit4-lvl4-lvld-1]
+[^book3-tit4-lvl2-lvld-1]
 
-[^book3-tit4-lvl4-lvld-1]: Amended by Annex 1 No II 8 of the Criminal Procedure Code of 5 Oct. 2007, in force since 1 Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^book3-tit4-lvl2-lvld-1]: Amended by Annex 1 No II 8 of the Criminal Procedure Code of 5 Oct. 2007, in force since 1 Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 #### Art. 353
 
@@ -6189,9 +6277,9 @@ The data may be used:
 
 ### a. Exchange of data
 
-[^book3-tit4-lvl5ter-lvla-1]
+[^book3-tit4-lvl5-lvla-1]
 
-[^book3-tit4-lvl5ter-lvla-1]: Amended by Annex 1 No II 8 of the Criminal Procedure Code of 5 Oct. 2007, in force since 1 Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^book3-tit4-lvl5-lvla-1]: Amended by Annex 1 No II 8 of the Criminal Procedure Code of 5 Oct. 2007, in force since 1 Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 #### Art. 355a
 
@@ -6212,9 +6300,9 @@ The data may be used:
 
 ### b. Extension of mandate
 
-[^book3-tit4-lvl5ter-lvlb-1]
+[^book3-tit4-lvl5-lvlb-1]
 
-[^book3-tit4-lvl5ter-lvlb-1]: Amended by Annex 1 No II 8 of the Criminal Procedure Code of 5 Oct. 2007, in force since 1 Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^book3-tit4-lvl5-lvlb-1]: Amended by Annex 1 No II 8 of the Criminal Procedure Code of 5 Oct. 2007, in force since 1 Jan. 2011 ([AS 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [BBl 2006 1085](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 #### Art. 355b
 
@@ -6225,7 +6313,9 @@ The Federal Council is authorised to agree with Europol amendments to the scope 
 [^355b-1]: Inserted by Art. 2 of the FedD of 7 Oct. 2005 on the Approval and Implementation of the Agreement between Switzerland and Europol, in force since 1 April 2006 ([AS 2006 1017](https://fedlex.data.admin.ch/eli/oc/2006/180)1018; [BBl 2005 983](https://fedlex.data.admin.ch/eli/fga/2005/131)).
 [^355b-2]: SR **0.360.268.2**
 
-### 5<sup>bis</sup>. Cooperation under the Schengen Association Agreement. Jurisdiction
+### 5<sup>bis</sup>. Cooperation under the Schengen Association Agreement.
+
+### Jurisdiction
 
 #### Art. 355c
 

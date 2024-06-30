@@ -4,18 +4,18 @@ title: Schweizerisches Strafgesetzbuch vom 21. Dezember 1937
 short: StGB
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: de
-version: 2024-01-01
+version: 2024-07-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20240101/de/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20240101-de-xml-17.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20240701/de/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20240701-de-xml-23.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Schweizerisches Strafgesetzbuch
 
-vom 21. Dezember 1937 (Stand am 1. Januar 2024)
+vom 21. Dezember 1937 (Stand am 1. Juli 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -92,7 +92,7 @@ Ist ein Täter auf Ersuchen der schweizerischen Behörde im Ausland verfolgt wor
 
 Diesem Gesetz ist ausserdem unterworfen, wer sich in der Schweiz befindet, nicht ausgeliefert wird und im Ausland eine der folgenden Taten begangen hat:
 
-- a.[^5-1] Menschenhandel (Art. 182), sexuelle Nötigung (Art. 189), Vergewaltigung (Art. 190), Schändung (Art. 191) oder Förderung der Prostitution (Art. 195), wenn das Opfer weniger als 18 Jahre alt war;
+- a.[^5-1] Menschenhandel (Art. 182), sexuelle Nötigung (Art. 189 Abs. 2 und 3), Vergewaltigung (Art. 190 Abs. 2 und 3), Missbrauch einer urteilsunfähigen oder zum Widerstand unfähigen Person (Art. 191) oder Förderung der Prostitution (Art. 195), wenn das Opfer weniger als 18 Jahre alt war;
 - a<sup>bis</sup>.[^5-2] sexuelle Handlungen mit Abhängigen (Art. 188) und sexuelle Handlungen mit Minderjährigen gegen Entgelt (Art. 196);
 - b. sexuelle Handlungen mit Kindern (Art. 187), wenn das Opfer weniger als 14 Jahre alt war;
 - c.[^5-3] qualifizierte Pornografie (Art. 197 Abs. 3 und 4), wenn die Gegenstände oder Vorführungen sexuelle Handlungen mit Minderjährigen zum Inhalt hatten.
@@ -106,7 +106,7 @@ Der Täter wird, unter Vorbehalt eines krassen Verstosses gegen die Grundsätze 
 
 <sup>3</sup> Ist der Täter wegen der Tat im Ausland verurteilt worden und wurde die Strafe im Ausland nur teilweise vollzogen, so rechnet ihm das Gericht den vollzogenen Teil auf die auszusprechende Strafe an. Das Gericht entscheidet, ob eine im Ausland angeordnete, dort aber nur teilweise vollzogene Massnahme fortzusetzen oder auf die in der Schweiz ausgefällte Strafe anzurechnen ist.
 
-[^5-1]: Fassung gemäss Art. 2 Ziff. 1 des BB vom 24. März 2006 über die Genehmigung und die Umsetzung des Fakultativprotokolls vom 25. Mai 2000 zum Übereink. über die Rechte des Kindes, betreffend den Verkauf von Kindern, die Kinderprostitution und die Kinderpornografie, in Kraft seit 1. Dez. 2006 ([AS 2006 5437](https://fedlex.data.admin.ch/eli/oc/2006/823); [BBl 2005 2807](https://fedlex.data.admin.ch/eli/fga/2005/433)).
+[^5-1]: Fassung gemäss Ziff. I 1 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^5-2]: Eingefügt durch Anhang Ziff. 1 des BB vom 27. Sept. 2013 (Lanzarote-Konvention), in Kraft seit 1. Juli 2014 ([AS 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [BBl 2012 7571](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
 [^5-3]: Fassung gemäss Anhang Ziff. 1 des BB vom 27. Sept. 2013 (Lanzarote-Konvention), in Kraft seit 1. Juli 2014 ([AS 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [BBl 2012 7571](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
 [^5-4]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
@@ -1168,7 +1168,7 @@ Das Gericht verweist den Ausländer, der wegen einer der folgenden strafbaren Ha
 - e. Betrug (Art. 146 Abs. 1) im Bereich einer Sozialversicherung oder der Sozialhilfe, unrechtmässiger Bezug von Leistungen einer Sozialversicherung oder der Sozialhilfe (Art. 148*a* Abs. 1);
 - f.[^66a-4] Betrug (Art. 146 Abs. 1), Leistungs- und Abgabebetrug (Art. 14 Abs. 1–3 des BG vom 22. März 1974[^66a-5] über das Verwaltungsstrafrecht) oder Steuerbetrug, Veruntreuung von Quellensteuern oder eine andere Straftat im Bereich der öffentlich-rechtlichen Abgaben, die mit einer Höchststrafe von einem Jahr Freiheitsstrafe oder mehr bedroht ist;
 - g. Zwangsheirat, erzwungene eingetragene Partnerschaft (Art. 181*a*), Menschenhandel (Art. 182), Freiheitsberaubung und Entführung (Art. 183), qualifizierte Freiheitsberaubung und Entführung (Art. 184), Geiselnahme (Art. 185);
-- h.[^66a-6] sexuelle Handlungen mit Kindern (Art. 187 Ziff. 1), sexuelle Nötigung (Art. 189), Vergewaltigung (Art. 190), Schändung (Art. 191), Förderung der Prostitution (Art. 195), Pornografie (Art. 197 Abs. 4 zweiter Satz);
+- h.[^66a-6] sexuelle Handlungen mit Kindern (Art. 187 Ziff. 1 und 1<sup>bis</sup>), sexuelle Handlungen mit Abhängigen (Art. 188), sexuelle Nötigung (Art. 189 Abs. 2 und 3), Vergewaltigung (Art. 190), Missbrauch einer urteilsunfähigen oder zum Widerstand unfähigen Person (Art. 191), Ausnützung einer Notlage oder Abhängigkeit (Art. 193), Täuschung über den sexuellen Charakter einer Handlung (Art. 193*a*), Förderung der Prostitution (Art. 195), Pornografie (Art. 197 Abs. 4 zweiter Satz);
 - i.[^66a-7] Brandstiftung (Art. 221 Abs. 1 und 2), vorsätzliche Verursachung einer Explosion (Art. 223 Ziff. 1 Abs. 1), Gefährdung durch Sprengstoffe und giftige Gase in verbrecherischer Absicht (Art. 224 Abs. 1), vorsätzliche Gefährdung ohne verbrecherische Absicht (Art. 225 Abs. 1), Herstellen, Verbergen, Weiterschaffen von Sprengstoffen und giftigen Gasen (Art. 226), Gefährdung durch Kernenergie, Radioaktivität und ionisierende Strahlen (Art. 226<sup>bis</sup>), strafbare Vorbereitungshandlungen (Art. 226<sup>ter</sup>), vorsätzliches Verursachen einer Überschwemmung oder eines Einsturzes (Art. 227 Ziff. 1 Abs. 1), vorsätzliche Beschädigung von elektrischen Anlagen, Wasserbauten und Schutzvorrichtungen (Art. 228 Ziff. 1 Abs. 1), Gefährdung durch Verletzung der Regeln der Baukunde (Art. 229 Abs. 1), Beseitigung oder Nichtanbringung von Sicherheitsvorrichtungen (Art. 230 Ziff. 1);
 - j.[^66a-8] vorsätzliche Gefährdung durch gentechnisch veränderte oder pathogene Organismen (Art. 230<sup>bis</sup> Abs. 1), Verbreiten menschlicher Krankheiten (Art. 231), vorsätzliche Trinkwasserverunreinigung (Art. 234 Abs. 1);
 - k.[^66a-9] Störung des öffentlichen Verkehrs (Art. 237 Ziff. 1);
@@ -1187,7 +1187,7 @@ Das Gericht verweist den Ausländer, der wegen einer der folgenden strafbaren Ha
 [^66a-3]: Fassung gemäss Ziff. I 1 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^66a-4]: Fassung gemäss Ziff. I 1 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^66a-5]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^66a-6]: Die Berichtigung der BVers vom 28. Nov. 2017, publiziert am 12. Dez. 2017 betrifft nur den französichen Text ([AS 2017 7257](https://fedlex.data.admin.ch/eli/oc/2017/786)).
+[^66a-6]: Fassung gemäss Ziff. I 1 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^66a-7]: Fassung gemäss Ziff. I 1 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^66a-8]: Fassung gemäss Ziff. I 1 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^66a-9]: Fassung gemäss Ziff. I 1 des BG vom 17. Dez. 2021 über die Harmonisierung der Strafrahmen, in Kraft seit 1. Juli 2023 ([AS 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
@@ -1277,13 +1277,13 @@ Wird jemand wegen einer der nachfolgenden Straftaten zu einer Strafe verurteilt 
 
 - a. Menschenhandel (Art. 182), sofern er die Straftat zum Zwecke der sexuellen Ausbeutung an einem minderjährigen Opfer begangen hat;
 - b. sexuelle Handlungen mit Kindern (Art. 187), sexuelle Handlungen mit Abhängigen (Art. 188) oder sexuelle Handlungen mit Minderjährigen gegen Entgelt (Art. 196);
-- c. sexuelle Nötigung (Art. 189), Vergewaltigung (Art. 190), Schändung (Art. 191), sexuelle Handlungen mit Anstaltspfleglingen, Gefangenen, Beschuldigten (Art. 192), Ausnützung der Notlage (Art. 193), Exhibitionismus (Art. 194), Förderung der Prostitution (Art. 195) oder sexuelle Belästigungen (Art. 198), sofern er die Straftat an oder vor einem minderjährigen Opfer begangen hat;
+- c.[^67-4] sexueller Übergriff und sexuelle Nötigung (Art. 189), Vergewaltigung (Art. 190), Missbrauch einer urteilsunfähigen oder zum Widerstand unfähigen Person (Art. 191), Ausnützung einer Notlage oder Abhängigkeit (Art. 193), Täuschung über den sexuellen Charakter einer Handlung (Art. 193*a*), Exhibitionismus (Art. 194), Förderung der Prostitution (Art. 195), unbefugtes Weiterleiten von nicht öffentlichen sexuellen Inhalten (Art. 197*a*) oder sexuelle Belästigungen (Art. 198), sofern er die Straftat an oder vor einem minderjährigen Opfer begangen hat;
 - d.
 
   Pornografie (Art. 197):
 
   - 1\. nach Artikel 197 Absatz 1 oder 3,
-  - 2\. nach Artikel 197 Absatz 4 oder 5, sofern die Gegenstände oder Vorführungen sexuelle Handlungen mit Minderjährigen zum Inhalt hatten.[^67-4]
+  - 2\. nach Artikel 197 Absatz 4 oder 5, sofern die Gegenstände oder Vorführungen sexuelle Handlungen mit Minderjährigen zum Inhalt hatten.[^67-5]
 
 <sup>4</sup>
 
@@ -1291,7 +1291,7 @@ Wird jemand wegen einer der nachfolgenden Straftaten zu einer Strafe verurteilt 
 
 - a.
 
-  Menschenhandel (Art. 182) zum Zwecke der sexuellen Ausbeutung, sexuelle Nötigung (Art. 189), Vergewaltigung (Art. 190), Schändung (Art. 191), sexuelle Handlungen mit Anstaltspfleglingen, Gefangenen, Beschuldigten (Art. 192), Ausnützung der Notlage (Art. 193), Exhibitionismus (Art. 194), Förderung der Prostitution (Art. 195) oder sexuelle Belästigungen (Art. 198), sofern er die Straftat begangen hat an oder vor:
+  Menschenhandel (Art. 182) zum Zwecke der sexuellen Ausbeutung, sexueller Übergriff und sexuelle Nötigung (Art. 189), Vergewaltigung (Art. 190), Missbrauch einer urteilsunfähigen oder zum Widerstand unfähigen Person (Art. 191), Ausnützung einer Notlage oder Abhängigkeit (Art. 193), Täuschung über den sexuellen Charakter einer Handlung (Art. 193*a*), Exhibitionismus (Art. 194), Förderung der Prostitution (Art. 195), unbefugtes Weiterleiten von nicht öffentlichen sexuellen Inhalten (Art. 197*a*) oder sexuelle Belästigungen (Art. 198), sofern er die Straftat begangen hat an oder vor:[^67-6]
 
   - 1\. einem volljährigen, besonders schutzbedürftigen Opfer, oder
   - 2\. einem volljährigen nicht besonders schutzbedürftigen Opfer, das zum Widerstand unfähig oder urteilsunfähig war oder sich aufgrund einer körperlichen oder psychischen Abhängigkeit nicht zu Wehr setzen konnte;
@@ -1301,30 +1301,33 @@ Wird jemand wegen einer der nachfolgenden Straftaten zu einer Strafe verurteilt 
   Pornografie (Art. 197 Abs. 2 erster Satz und Abs. 4 oder 5), sofern die Gegenstände oder Vorführungen zum Inhalt hatten:
 
   - 1\. sexuelle Handlungen mit volljährigen, besonders schutzbedürftigen Opfern, oder
-  - 2\. sexuelle Handlungen mit volljährigen, nicht besonders schutzbedürftigen Opfern, die zum Widerstand unfähig oder urteilsunfähig waren oder sich aufgrund einer körperlichen oder psychischen Abhängigkeit nicht zur Wehr setzen konnten.[^67-5]
+  - 2\. sexuelle Handlungen mit volljährigen, nicht besonders schutzbedürftigen Opfern, die zum Widerstand unfähig oder urteilsunfähig waren oder sich aufgrund einer körperlichen oder psychischen Abhängigkeit nicht zur Wehr setzen konnten.[^67-7]
 
 <sup>4bis</sup>
 
 Das Gericht kann in besonders leichten Fällen ausnahmsweise von der Anordnung eines Tätigkeitsverbotes nach Absatz 3 oder 4 absehen, wenn ein solches Verbot nicht notwendig erscheint, um den Täter von der Begehung weiterer Straftaten abzuhalten, wie sie Anlass für das Verbot sind. Von der Anordnung eines Tätigkeitsverbotes darf jedoch nicht abgesehen werden, wenn der Täter:
 
-- a. verurteilt worden ist wegen Menschenhandel (Art. 182), sexueller Nötigung (Art. 189), Vergewaltigung (Art. 190), Schändung (Art. 191) oder Förderung der Prostitution (Art. 195); oder
-- b. gemäss den international anerkannten Klassifikationskriterien pädophil ist.[^67-6]
+- a.[^67-8] verurteilt worden ist wegen Menschenhandel (Art. 182), sexueller Nötigung (Art. 189 Abs. 2 und 3), Vergewaltigung (Art. 190 Abs. 2 und 3), Missbrauch einer urteilsunfähigen oder zum Widerstand unfähigen Person (Art. 191) oder Förderung der Prostitution (Art. 195); oder
+- b. gemäss den international anerkannten Klassifikationskriterien pädophil ist.[^67-9]
 
-<sup>5</sup> Wird der Täter im selben Verfahren wegen mehrerer Straftaten zu einer Strafe verurteilt oder wird gegen ihn deswegen eine Massnahme angeordnet, so legt das Gericht fest, welcher Anteil der Strafe oder welche Massnahme auf eine Straftat entfällt, die ein Tätigkeitsverbot nach sich zieht. Dieser Strafanteil, die Massnahme sowie die Straftat sind massgebend dafür, ob ein Tätigkeitsverbot nach Absatz 1, 2, 2<sup>bis</sup>, 3 oder 4 verhängt wird. Die Strafanteile für mehrere einschlägige Straftaten werden addiert. Es können mehrere Tätigkeitsverbote verhängt werden.[^67-7]
+<sup>5</sup> Wird der Täter im selben Verfahren wegen mehrerer Straftaten zu einer Strafe verurteilt oder wird gegen ihn deswegen eine Massnahme angeordnet, so legt das Gericht fest, welcher Anteil der Strafe oder welche Massnahme auf eine Straftat entfällt, die ein Tätigkeitsverbot nach sich zieht. Dieser Strafanteil, die Massnahme sowie die Straftat sind massgebend dafür, ob ein Tätigkeitsverbot nach Absatz 1, 2, 2<sup>bis</sup>, 3 oder 4 verhängt wird. Die Strafanteile für mehrere einschlägige Straftaten werden addiert. Es können mehrere Tätigkeitsverbote verhängt werden.[^67-10]
 
-<sup>6</sup> Das Gericht kann für die Dauer der Verbote Bewährungshilfe anordnen.[^67-8]
+<sup>6</sup> Das Gericht kann für die Dauer der Verbote Bewährungshilfe anordnen.[^67-11]
 
-<sup>7</sup> …[^67-9]
+<sup>7</sup> …[^67-12]
 
 [^67-1]: Fassung gemäss Ziff. I 1 des BG vom 13. Dez. 2013 über das Tätigkeitsverbot und das Kontakt- und Rayonverbot, in Kraft seit 1. Jan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
 [^67-2]: Fassung gemäss Ziff. I 1 des BG vom 19. Juni 2015 (Änderungen des Sanktionenrechts), in Kraft seit 1. Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 [^67-3]: Eingefügt durch Ziff. I 1 des BG vom 16. März 2018 (Umsetzung von Art. 123***c*** BV), in Kraft seit 1. Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
-[^67-4]: Fassung gemäss Ziff. I 1 des BG vom 16. März 2018 (Umsetzung von Art. 123***c*** BV), in Kraft seit 1. Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^67-4]: Fassung gemäss Ziff. I 1 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^67-5]: Fassung gemäss Ziff. I 1 des BG vom 16. März 2018 (Umsetzung von Art. 123***c*** BV), in Kraft seit 1. Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
-[^67-6]: Eingefügt durch Ziff. I 1 des BG vom 16. März 2018 (Umsetzung von Art. 123***c*** BV), in Kraft seit 1. Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^67-6]: Fassung gemäss Ziff. I 1 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^67-7]: Fassung gemäss Ziff. I 1 des BG vom 16. März 2018 (Umsetzung von Art. 123***c*** BV), in Kraft seit 1. Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
-[^67-8]: Fassung gemäss Ziff. I 1 des BG vom 16. März 2018 (Umsetzung von Art. 123***c*** BV), in Kraft seit 1. Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
-[^67-9]: Aufgehoben durch Ziff. I 1 des BG vom 16. März 2018 (Umsetzung von Art. 123***c*** BV), mit Wirkung seit 1. Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^67-8]: Fassung gemäss Ziff. I 1 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^67-9]: Eingefügt durch Ziff. I 1 des BG vom 16. März 2018 (Umsetzung von Art. 123***c*** BV), in Kraft seit 1. Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^67-10]: Fassung gemäss Ziff. I 1 des BG vom 16. März 2018 (Umsetzung von Art. 123***c*** BV), in Kraft seit 1. Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^67-11]: Fassung gemäss Ziff. I 1 des BG vom 16. März 2018 (Umsetzung von Art. 123***c*** BV), in Kraft seit 1. Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^67-12]: Aufgehoben durch Ziff. I 1 des BG vom 16. März 2018 (Umsetzung von Art. 123***c*** BV), mit Wirkung seit 1. Jan. 2019 ([AS 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [BBl 2016 6115](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
 
 ### Inhalt und Umfang
 
@@ -1925,7 +1928,13 @@ Opfer und Angehörige des Opfers im Sinne von Artikel 1 Absätze 1 und 2 des Opf
 
 #### Art. 94
 
-Die Weisungen, welche das Gericht oder die Strafvollzugsbehörde dem Verurteilten für die Probezeit erteilen kann, betreffen insbesondere die Berufsausübung, den Aufenthalt, das Führen eines Motorfahrzeuges, den Schadenersatz sowie die ärztliche und psychologische Betreuung.
+[^94-1]
+
+<sup>1</sup> Die Weisungen, welche das Gericht oder die Strafvollzugsbehörde der verurteilten Person für die Probezeit erteilen kann, betreffen insbesondere die Berufsausübung, den Aufenthalt, das Führen eines Motorfahrzeuges, den Schadenersatz sowie die ärztliche und psychologische Betreuung.
+
+<sup>2</sup> Bei Delikten gegen die sexuelle Integrität kann die verurteilte Person zum Besuch eines Lernprogramms verpflichtet werden.
+
+[^94-1]: Fassung gemäss Ziff. I 1 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 ### Gemeinsame Bestimmungen
 
@@ -1972,14 +1981,14 @@ Die Strafverfolgung verjährt, wenn die für die Tat angedrohte Höchststrafe:
 - c. eine Freiheitsstrafe von drei Jahren ist: in 10 Jahren;
 - d. eine andere Strafe ist: in 7 Jahren.[^97-1]
 
-<sup>2</sup> Bei sexuellen Handlungen mit Kindern (Art. 187) und Abhängigen (Art. 188) sowie bei Straftaten nach den Artikeln 111, 113, 122, 124, 182, 189–191, 195 und 197 Absatz 3, die sich gegen ein Kind unter 16 Jahren richten, dauert die Verfolgungsverjährung in jedem Fall mindestens bis zum vollendeten 25. Lebensjahr des Opfers.[^97-2]
+<sup>2</sup> Bei sexuellen Handlungen mit Kindern (Art. 187) sowie bei Straftaten nach den Artikeln 111, 113, 122, 124, 182, 189−191, 193, 193*a*, 195 und 197 Absatz 3, die sich gegen ein Kind unter 16 Jahren richten, dauert die Verfolgungsverjährung in jedem Fall mindestens bis zum vollendeten 25. Lebensjahr des Opfers.[^97-2]
 
 <sup>3</sup> Ist vor Ablauf der Verjährungsfrist ein erstinstanzliches Urteil ergangen, so tritt die Verjährung nicht mehr ein.
 
 <sup>4</sup> Die Verjährung der Strafverfolgung von sexuellen Handlungen mit Kindern (Art. 187) und minderjährigen Abhängigen (Art. 188) sowie von Straftaten nach den Artikeln 111–113, 122, 182, 189–191 und 195, die sich gegen ein Kind unter 16 Jahren richten, bemisst sich nach den Absätzen 1–3, wenn die Straftat vor dem Inkrafttreten der Änderung vom 5. Oktober 2001[^97-3] begangen worden ist und die Verfolgungsverjährung zu diesem Zeitpunkt noch nicht eingetreten ist.[^97-4]
 
 [^97-1]: Fassung gemäss Ziff. I 1 des BG vom 21. Juni 2013 (Verlängerung der Verfolgungsverjährung), in Kraft seit 1. Jan. 2014 ([AS 2013 4417](https://fedlex.data.admin.ch/eli/oc/2013/783); [BBl 2012 9253](https://fedlex.data.admin.ch/eli/fga/2012/1719)).
-[^97-2]: Fassung gemäss Anhang Ziff. 1 des BB vom 27. Sept. 2013 (Lanzarote-Konvention), in Kraft seit 1. Juli 2014 ([AS 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [BBl 2012 7571](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
+[^97-2]: Fassung gemäss Ziff. I 1 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^97-3]: [AS 2002 2993](https://fedlex.data.admin.ch/eli/oc/2002/430)
 [^97-4]: Fassung gemäss Art. 2 Ziff. 1 des BB vom 24. März 2006 über die Genehmigung und die Umsetzung des Fakultativprotokolls vom 25. Mai 2000 zum Übereink. über die Rechte des Kindes, betreffend den Verkauf von Kindern, die Kinderprostitution und die Kinderpornografie, in Kraft seit 1. Dez. 2006 ([AS 2006 5437](https://fedlex.data.admin.ch/eli/oc/2006/823); [BBl 2005 2807](https://fedlex.data.admin.ch/eli/fga/2005/433)).
 
@@ -2034,13 +2043,13 @@ Keine Verjährung tritt ein für:
 - b. Verbrechen gegen die Menschlichkeit (Art. 264*a* Abs. 1 und 2);
 - c. Kriegsverbrechen (Art. 264*c* Abs. 1–3, 264*d* Abs. 1 und 2, 264*e* Abs. 1 und 2, 264*f*, 264*g* Abs. 1 und 2 und 264*h*);
 - d. Verbrechen, die als Mittel zu Erpressung oder Nötigung Leib und Leben vieler Menschen in Gefahr brachten oder zu bringen drohten, namentlich unter Verwendung von Massenvernichtungsmitteln, durch Auslösen von Katastrophen oder durch Geiselnahme;
-- e.[^101-1] sexuelle Handlungen mit Kindern (Art. 187 Ziff. 1), sexuelle Nötigung (Art. 189), Vergewaltigung (Art. 190), Schändung (Art. 191), sexuelle Handlungen mit Anstaltspfleglingen, Gefangenen, Beschuldigten (Art. 192 Abs. 1) und Ausnützung der Notlage (Art. 193 Abs. 1), wenn sie an Kindern unter 12 Jahren begangen wurden.[^101-2]
+- e.[^101-1] sexuelle Handlungen mit Kindern (Art. 187 Ziff. 1 und 1<sup>bis</sup>), sexueller Übergriff und sexuelle Nötigung (Art. 189), Vergewaltigung (Art. 190), Missbrauch einer urteilsunfähigen oder zum Widerstand unfähigen Person (Art. 191), Ausnützung einer Notlage oder Abhängigkeit (Art. 193) und Täuschung über den sexuellen Charakter einer Handlung (Art. 193*a*), wenn sie an Kindern unter 12 Jahren begangen wurden.[^101-2]
 
 <sup>2</sup> Wäre die Strafverfolgung bei Anwendung der Artikel 97 und 98 verjährt, so kann das Gericht die Strafe mildern.
 
 <sup>3</sup> Die Absätze 1 Buchstaben a, c und d sowie 2 gelten, wenn die Strafverfolgung oder die Strafe am 1. Januar 1983 nach dem bis zu jenem Zeitpunkt geltenden Recht noch nicht verjährt war. Absatz 1 Buchstabe b gilt, wenn die Strafverfolgung oder die Strafe beim Inkrafttreten der Änderung vom 18. Juni 2010 dieses Gesetzes nach bisherigem Recht noch nicht verjährt war. Absatz 1 Buchstabe e gilt, wenn die Strafverfolgung oder die Strafe am 30. November 2008 nach dem bis zu jenem Zeitpunkt geltenden Recht noch nicht verjährt war.[^101-3] [^101-4]
 
-[^101-1]: Eingefügt durch Ziff. I 1 des BG vom 15. Juni 2012 (Unverjährbarkeit sexueller und pornografischer Straftaten an Kindern vor der Pubertät), in Kraft seit 1. Jan. 2013 ([AS 2012 5951](https://fedlex.data.admin.ch/eli/oc/2012/696); [BBl 2011 5977](https://fedlex.data.admin.ch/eli/fga/2011/883)).
+[^101-1]: Eingefügt durch Ziff. I 1 des BG vom 15. Juni 2012 (Unverjährbarkeit sexueller und pornografischer Straftaten an Kindern vor der Pubertät) ([AS 2012 5951](https://fedlex.data.admin.ch/eli/oc/2012/696); [BBl 2011 5977](https://fedlex.data.admin.ch/eli/fga/2011/883)). Fassung gemäss Ziff. I 1 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^101-2]: Fassung gemäss Ziff. I 1 des BG vom 18. Juni 2010 über die Änderung von Bundesgesetzen zur Umsetzung des Römer Statuts des Internationalen Strafgerichtshofs, in Kraft seit 1. Jan. 2011 ([AS 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [BBl 2008 3863](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 [^101-3]: Dritter Satz eingefügt durch Ziff. I 1 des BG vom 15. Juni 2012 (Unverjährbarkeit sexueller und pornografischer Straftaten an Kindern vor der Pubertät), in Kraft seit 1. Jan. 2013 ([AS 2012 5951](https://fedlex.data.admin.ch/eli/oc/2012/696); [BBl 2011 5977](https://fedlex.data.admin.ch/eli/fga/2011/883)).
 [^101-4]: Fassung gemäss Ziff. I 1 des BG vom 18. Juni 2010 über die Änderung von Bundesgesetzen zur Umsetzung des Römer Statuts des Internationalen Strafgerichtshofs, in Kraft seit 1. Jan. 2011 ([AS 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [BBl 2008 3863](https://fedlex.data.admin.ch/eli/fga/2008/807)).
@@ -2381,7 +2390,7 @@ Der Täter wird von Amtes wegen verfolgt, wenn er die Tat wiederholt begeht:
 
 - a. an einer Person, die unter seiner Obhut steht oder für die er zu sorgen hat, namentlich an einem Kind;
 - b. an seinem Ehegatten während der Ehe oder bis zu einem Jahr nach der Scheidung; oder
-- [tab] b<sup>bis</sup>.[^126-1]an seiner eingetragenen Partnerin oder seinem eingetragenen Partner während der Dauer der eingetragenen Partnerschaft oder bis zu einem Jahr nach deren Auflösung; oder
+- b<sup>bis</sup>.[^126-1] an seiner eingetragenen Partnerin oder seinem eingetragenen Partner während der Dauer der eingetragenen Partnerschaft oder bis zu einem Jahr nach deren Auflösung; oder
 - c. an seinem hetero- oder homosexuellen Lebenspartner, sofern sie auf unbestimmte Zeit einen gemeinsamen Haushalt führen und die Tat während dieser Zeit oder bis zu einem Jahr nach der Trennung begangen wurde.[^126-2]
 
 [^126-1]: Eingefügt durch Anhang Ziff. 18 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
@@ -2784,7 +2793,7 @@ eine solche Ware einführt, lagert oder in Verkehr bringt,
 
 wird, sofern die Tat nicht nach einer andern Bestimmung mit höherer Strafe bedroht ist, mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 
-2.[^155-1] Handelt der Täter gewerbsmässig, so wird er, sofern die Tat nicht nach einer andern Bestimmung mit höherer Strafe bedroht ist, mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
+<sup>2.</sup> Handelt der Täter gewerbsmässig, so wird er, sofern die Tat nicht nach einer andern Bestimmung mit höherer Strafe bedroht ist, mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.[^155-1]
 
 [^155-1]: Fassung gemäss Ziff. I 1 des BG vom 3. Okt. 2008 zur Umsetzung der revidierten Empfehlungen der Groupe d’action financière, in Kraft seit 1. Febr. 2009 ([AS 2009 361](https://fedlex.data.admin.ch/eli/oc/2009/64); [BBl 2007 6269](https://fedlex.data.admin.ch/eli/fga/2007/938)).
 
@@ -3262,7 +3271,7 @@ Wer die Identität einer anderen Person ohne deren Einwilligung verwendet, um di
 Der Täter wird von Amtes wegen verfolgt, wenn er:
 
 - a. der Ehegatte des Opfers ist und die Drohung während der Ehe oder bis zu einem Jahr nach der Scheidung begangen wurde; oder
-- [tab] a<sup>bis</sup>.[^180-1] die eingetragene Partnerin oder der eingetragene Partner des Opfers ist und die Drohung während der eingetragenen Partnerschaft oder bis zu einem Jahr nach deren Auflösung begangen wurde; oder
+- a<sup>bis</sup>.[^180-1] die eingetragene Partnerin oder der eingetragene Partner des Opfers ist und die Drohung während der eingetragenen Partnerschaft oder bis zu einem Jahr nach deren Auflösung begangen wurde; oder
 - b. der hetero- oder homosexuelle Lebenspartner des Opfers ist, sofern sie auf unbestimmte Zeit einen gemeinsamen Haushalt führen und die Drohung während dieser Zeit oder bis zu einem Jahr nach der Trennung begangen wurde.[^180-2]
 
 [^180-1]: Eingefügt durch Anhang Ziff. 18 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
@@ -3354,7 +3363,7 @@ wird mit Freiheitsstrafe nicht unter einem Jahr bestraft.
 
 <sup>3.</sup> In besonders schweren Fällen, namentlich wenn die Tat viele Menschen betrifft, kann der Täter mit lebenslänglicher Freiheitsstrafe bestraft werden.
 
-4.[^185-2] Tritt der Täter von der Nötigung zurück und lässt er das Opfer frei, so kann er milder bestraft werden (Art. 48*a*).
+<sup>4.</sup> Tritt der Täter von der Nötigung zurück und lässt er das Opfer frei, so kann er milder bestraft werden (Art. 48*a*).[^185-2]
 
 <sup>5.</sup> Strafbar ist auch, wer die Tat im Ausland begeht, wenn er in der Schweiz verhaftet und nicht ausgeliefert wird. Artikel 7 Absätze 4 und 5 sind anwendbar.[^185-3]
 
@@ -3391,111 +3400,133 @@ Wer gegen den Willen des Berechtigten in ein Haus, in eine Wohnung, in einen abg
 
 [^book2-tit5-1]: Fassung gemäss Ziff. 1 des BG vom 21. Juni 1991, in Kraft seit 1. Okt. 1992 ([AS 1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670); [BBl 1985 II 1009](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
 
-### 1. Gefährdung der Entwicklung von Minderjährigen.
+### 1. Sexuelle Handlungen mit Kindern
 
-### Sexuelle Handlungen mit Kindern
+[^book2-tit5-lvl1-1]
+
+[^book2-tit5-lvl1-1]: Fassung gemäss Ziff. I 1 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 #### Art. 187
 
 <sup>1.</sup> Wer mit einem Kind unter 16 Jahren eine sexuelle Handlung vornimmt,
 
-es zu einer solchen Handlung verleitet oder
+es zu einer solchen Handlung verleitet, oder
 
-es in eine sexuelle Handlung einbezieht,
+es in eine solche Handlung einbezieht,
 
-wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
+wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.[^187-1]
+
+1<sup>bis</sup>. Hat das Kind das 12. Altersjahr noch nicht vollendet und nimmt der Täter mit ihm eine sexuelle Handlung vor oder verleitet es zu einer solchen mit einer Drittperson oder einem Tier, so ist die Strafe Freiheitsstrafe von einem Jahr bis zu fünf Jahren.[^187-2]
 
 <sup>2.</sup> Die Handlung ist nicht strafbar, wenn der Altersunterschied zwischen den Beteiligten nicht mehr als drei Jahre beträgt.
 
-3.[^187-1] Hat der Täter zur Zeit der Tat oder der ersten Tathandlung das 20. Altersjahr noch nicht zurückgelegt und liegen besondere Umstände vor oder ist die verletzte Person mit ihm die Ehe oder eine eingetragene Partnerschaft eingegangen, so kann die zuständige Behörde von der Strafverfolgung, der Überweisung an das Gericht oder der Bestrafung absehen.
+<sup>3.</sup> Hat der Täter zur Zeit der Tat oder der ersten Tathandlung das 20. Altersjahr noch nicht zurückgelegt und liegen besondere Umstände vor, so kann die zuständige Behörde von der Strafverfolgung, der Überweisung an das Gericht oder der Bestrafung absehen.[^187-3]
 
 <sup>4.</sup> Handelte der Täter in der irrigen Vorstellung, das Kind sei mindestens 16 Jahre alt, hätte er jedoch bei pflichtgemässer Vorsicht den Irrtum vermeiden können, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
 
-<sup>5.</sup> …[^187-2]
+<sup>5.</sup> …[^187-4]
 
-<sup>6.</sup> …[^187-3]
+<sup>6.</sup> …[^187-5]
 
-[^187-1]: Fassung gemäss Ziff. I 1 des BG vom 13. Dez. 2013 über das Tätigkeitsverbot und das Kontakt- und Rayonverbot, in Kraft seit 1. Jan. 2015 ([AS 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [BBl 2012 8819](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
-[^187-2]: Aufgehoben durch Ziff. I des BG vom 21. März 1997, mit Wirkung seit 1. Sept. 1997 ([AS 1997 1626](https://fedlex.data.admin.ch/eli/oc/1997/1626_1626_1626); [BBl 1996 IV 1318](https://fedlex.data.admin.ch/eli/fga/1996/4_1318_1315_1135)1322).
-[^187-3]: Eingefügt durch Ziff. I des BG vom 21. März 1997 ([AS 1997 1626](https://fedlex.data.admin.ch/eli/oc/1997/1626_1626_1626); [BBl 1996 IV 1318](https://fedlex.data.admin.ch/eli/fga/1996/4_1318_1315_1135)1322). Aufgehoben durch Ziff. I des BG vom 5. Okt. 2001 (Verjährung der Strafverfol-gung im allgemeinen und bei Sexualdelikten an Kindern), mit Wirkung seit 1. Okt. 2002 ([AS 2002 2993](https://fedlex.data.admin.ch/eli/oc/2002/430); [BBl 2000 2943](https://fedlex.data.admin.ch/eli/fga/2000/612)).
+[^187-1]: Fassung gemäss Ziff. I 1 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^187-2]: Eingefügt durch Ziff. I 1 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^187-3]: Fassung gemäss Ziff. I 1 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^187-4]: Aufgehoben durch Ziff. I des BG vom 21. März 1997, mit Wirkung seit 1. Sept. 1997 ([AS 1997 1626](https://fedlex.data.admin.ch/eli/oc/1997/1626_1626_1626); [BBl 1996 IV 1318](https://fedlex.data.admin.ch/eli/fga/1996/4_1318_1315_1135)1322).
+[^187-5]: Eingefügt durch Ziff. I des BG vom 21. März 1997 ([AS 1997 1626](https://fedlex.data.admin.ch/eli/oc/1997/1626_1626_1626); [BBl 1996 IV 1318](https://fedlex.data.admin.ch/eli/fga/1996/4_1318_1315_1135)1322). Aufgehoben durch Ziff. I des BG vom 5. Okt. 2001 (Verjährung der Strafverfol-gung im allgemeinen und bei Sexualdelikten an Kindern), mit Wirkung seit 1. Okt. 2002 ([AS 2002 2993](https://fedlex.data.admin.ch/eli/oc/2002/430); [BBl 2000 2943](https://fedlex.data.admin.ch/eli/fga/2000/612)).
+
+### 2. Angriffe auf die sexuelle Freiheit und Unversehrtheit.
 
 ### Sexuelle Handlungen mit Abhängigen
 
 #### Art. 188
 
-<sup>1.</sup> Wer mit einer minderjährigen Person von mehr als 16 Jahren, die von ihm durch ein Erziehungs-, Betreuungs- oder Arbeitsverhältnis oder auf andere Weise abhängig ist, eine sexuelle Handlung vornimmt, indem er diese Abhängigkeit ausnützt,
+[^188-1]
+
+Wer mit einer minderjährigen Person von mindestens 16 Jahren, die von ihm durch ein Erziehungs-, Betreuungs- oder Arbeitsverhältnis oder auf andere Weise abhängig ist, eine sexuelle Handlung vornimmt, indem er diese Abhängigkeit ausnützt,
 
 wer eine solche Person unter Ausnützung ihrer Abhängigkeit zu einer sexuellen Handlung verleitet,
 
-wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
 
-2.[^188-1] Ist die verletzte Person mit dem Täter eine Ehe oder eine eingetragene Partnerschaft eingegangen, so kann die zuständige Behörde von der Strafverfolgung, der Überweisung an das Gericht oder der Bestrafung absehen.
+[^188-1]: Fassung gemäss Ziff. I 1 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
-[^188-1]: Fassung gemäss Anhang Ziff. 18 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-
-### 2. Angriffe auf die sexuelle Freiheit und Ehre.
-
-### Sexuelle Nötigung
+### Sexueller Übergriff und sexuelle Nötigung
 
 #### Art. 189
 
-<sup>1</sup> Wer eine Person zur Duldung einer beischlafsähnlichen oder einer anderen sexuellen Handlung nötigt, namentlich indem er sie bedroht, Gewalt anwendet, sie unter psychischen Druck setzt oder zum Widerstand unfähig macht, wird mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe bestraft.
+[^189-1]
 
-<sup>2</sup> …[^189-1]
+<sup>1</sup> Wer gegen den Willen einer Person eine sexuelle Handlung an dieser vornimmt oder von dieser vornehmen lässt oder zu diesem Zweck einen Schockzustand einer Person ausnützt, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 
-<sup>3</sup> Handelt der Täter grausam, verwendet er namentlich eine gefährliche Waffe oder einen anderen gefährlichen Gegenstand, so ist die Strafe Freiheitsstrafe nicht unter drei Jahren.[^189-2]
+<sup>2</sup> Wer eine Person zur Vornahme oder Duldung einer sexuellen Handlung nötigt, namentlich indem er sie bedroht, Gewalt anwendet, sie unter psychischen Druck setzt oder zum Widerstand unfähig macht, wird mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe bestraft.
 
-[^189-1]: Aufgehoben durch Ziff. I des BG vom 3. Okt. 2003 (Strafverfolgung in der Ehe und in der Partnerschaft), mit Wirkung seit 1. April 2004 ([AS 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [BBl 2003 1909](https://fedlex.data.admin.ch/eli/fga/2003/226)[1937](https://fedlex.data.admin.ch/eli/fga/2003/228)).
-[^189-2]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (Strafverfolgung in der Ehe und in der Partnerschaft), in Kraft seit 1. April 2004 ([AS 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [BBl 2003 1909](https://fedlex.data.admin.ch/eli/fga/2003/226)[1937](https://fedlex.data.admin.ch/eli/fga/2003/228)).
+<sup>3</sup> Handelt der Täter nach Absatz 2 grausam, verwendet er eine gefährliche Waffe oder einen anderen gefährlichen Gegenstand, so ist die Strafe Freiheitsstrafe nicht unter einem Jahr.
+
+[^189-1]: Fassung gemäss Ziff. I 1 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 ### Vergewaltigung
 
 #### Art. 190
 
-<sup>1</sup> Wer eine Person weiblichen Geschlechts zur Duldung des Beischlafs nötigt, namentlich indem er sie bedroht, Gewalt anwendet, sie unter psychischen Druck setzt oder zum Widerstand unfähig macht, wird mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren bestraft.
+[^190-1]
 
-<sup>2</sup> …[^190-1]
+<sup>1</sup> Wer gegen den Willen einer Person den Beischlaf oder eine beischlafsähnliche Handlung, die mit einem Eindringen in den Körper verbunden ist, an dieser vornimmt oder von dieser vornehmen lässt oder zu diesem Zweck einen Schockzustand einer Person ausnützt, wird mit Freiheitsstrafe bis zu fünf Jahren bestraft.
 
-<sup>3</sup> Handelt der Täter grausam, verwendet er namentlich eine gefährliche Waffe oder einen anderen gefährlichen Gegenstand, so ist die Strafe Freiheitsstrafe nicht unter drei Jahren.[^190-2]
+<sup>2</sup> Wer eine Person zur Vornahme oder Duldung des Beischlafs oder einer beischlafsähnlichen Handlung, die mit einem Eindringen in den Körper verbunden ist, nötigt, namentlich indem er sie bedroht, Gewalt anwendet, sie unter psychischen Druck setzt oder zum Widerstand unfähig macht, wird mit Freiheitsstrafe von einem Jahr bis zu zehn Jahren bestraft.
 
-[^190-1]: Aufgehoben durch Ziff. I des BG vom 3. Okt. 2003 (Strafverfolgung in der Ehe und in der Partnerschaft), mit Wirkung seit 1. April 2004 ([AS 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [BBl 2003 1909](https://fedlex.data.admin.ch/eli/fga/2003/226)[1937](https://fedlex.data.admin.ch/eli/fga/2003/228)).
-[^190-2]: Fassung gemäss Ziff. I des BG vom 3. Okt. 2003 (Strafverfolgung in der Ehe und in der Partnerschaft), in Kraft seit 1. April 2004 ([AS 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [BBl 2003 1909](https://fedlex.data.admin.ch/eli/fga/2003/226)[1937](https://fedlex.data.admin.ch/eli/fga/2003/228)).
+<sup>3</sup> Handelt der Täter nach Absatz 2 grausam, verwendet er eine gefährliche Waffe oder einen anderen gefährlichen Gegenstand, so ist die Strafe Freiheitsstrafe nicht unter drei Jahren.
 
-### Schändung
+[^190-1]: Fassung gemäss Ziff. I 1 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+
+### Missbrauch einer urteilsunfähigen oder zum Widerstand unfähigen Person
 
 #### Art. 191
 
-Wer eine urteilsunfähige oder eine zum Widerstand unfähige Person in Kenntnis ihres Zustandes zum Beischlaf, zu einer beischlafsähnlichen oder einer anderen sexuellen Handlung missbraucht, wird mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe bestraft.
+[^191-1]
 
-### Sexuelle Handlungen mit Anstaltspfleglingen, Gefangenen, Beschuldigten
+Wer eine urteilsunfähige oder eine zum Widerstand unfähige Person zum Beischlaf, zu einer beischlafsähnlichen oder einer anderen sexuellen Handlung missbraucht, wird mit Freiheitsstrafe bis zu zehn Jahren oder Geldstrafe bestraft.
+
+[^191-1]: Fassung gemäss Ziff. I 1 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 #### Art. 192
 
-<sup>1</sup> Wer unter Ausnützung der Abhängigkeit einen Anstaltspflegling, Anstaltsinsassen, Gefangenen, Verhafteten oder Beschuldigten veranlasst, eine sexuelle Handlung vorzunehmen oder zu dulden, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+[^192-1]
 
-<sup>2</sup> Hat die verletzte Person mit dem Täter die Ehe geschlossen oder ist sie mit ihm eine eingetragene Partnerschaft eingegangen, so kann die zuständige Behörde von der Strafverfolgung, der Überweisung an das Gericht oder der Bestrafung absehen.[^192-1]
+[^192-1]: Aufgehoben durch Ziff. I 1 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, mit Wirkung seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
-[^192-1]: Fassung gemäss Anhang Ziff. 18 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-
-### Ausnützung der Notlage
+### Ausnützung einer Notlage oder Abhängigkeit
 
 #### Art. 193
 
-<sup>1</sup> Wer eine Person veranlasst, eine sexuelle Handlung vorzunehmen oder zu dulden, indem er eine Notlage oder eine durch ein Arbeitsverhältnis oder eine in anderer Weise begründete Abhängigkeit ausnützt, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+[^193-1]
 
-<sup>2</sup> Ist die verletzte Person mit dem Täter eine Ehe oder eine eingetragene Partnerschaft eingegangen, so kann die zuständige Behörde von der Strafverfolgung, der Überweisung an das Gericht oder der Bestrafung absehen.[^193-1]
+Wer eine Person veranlasst, eine sexuelle Handlung vorzunehmen oder zu dulden, indem er eine Notlage oder eine durch ein Arbeitsverhältnis oder eine in anderer Weise begründete Abhängigkeit ausnützt, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
 
-[^193-1]: Fassung gemäss Anhang Ziff. 18 des Partnerschaftsgesetzes vom 18. Juni 2004, in Kraft seit 1. Jan. 2007 ([AS 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [BBl 2003 1288](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^193-1]: Fassung gemäss Ziff. I 1 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+
+### Täuschung über den sexuellen Charakter einer Handlung
+
+#### Art. 193a
+
+[^193a-1]
+
+Wer bei der Ausübung einer beruflichen oder organisierten ausserberuflichen Tätigkeit im Gesundheitsbereich an einer Person eine sexuelle Handlung vornimmt oder von ihr vornehmen lässt und sie dabei über den Charakter der Handlung täuscht oder ihren Irrtum über den Charakter der Handlung ausnützt, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
+
+[^193a-1]: Eingefügt durch Ziff. I 1 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 ### Exhibitionismus
 
 #### Art. 194
 
-<sup>1</sup> Wer eine exhibitionistische Handlung vornimmt, wird, auf Antrag, mit Geldstrafe bestraft.[^194-1]
+[^194-1]
 
-<sup>2</sup> Unterzieht sich der Täter einer ärztlichen Behandlung, so kann das Strafverfahren eingestellt werden. Es wird wieder aufgenommen, wenn sich der Täter der Behandlung entzieht.
+<sup>1</sup> Wer eine exhibitionistische Handlung vornimmt, wird, auf Antrag, mit Busse bestraft.
 
-[^194-1]: Strafdrohungen neu umschrieben gemäss Ziff. II 1 des BG vom 19. Juni 2015 (Änderung des Sanktionenrechts), in Kraft seit 1. Jan. 2018 ([AS 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [BBl 2012 4721](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+<sup>2</sup> In schweren Fällen ist die Strafe Geldstrafe. Die Tat wird auf Antrag verfolgt.
+
+<sup>3</sup> Unterzieht sich die beschuldigte Person gemäss Anordnung der zuständigen Behörde einer ärztlichen Behandlung, so wird das Verfahren eingestellt.
+
+[^194-1]: Fassung gemäss Ziff. I 1 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 ### 3. Ausnützung sexueller Handlungen.
 
@@ -3536,31 +3567,74 @@ Wer mit einer minderjährigen Person sexuelle Handlungen vornimmt oder solche vo
 
 <sup>3</sup> Wer eine minderjährige Person anwirbt, damit diese an einer pornografischen Vorführung mitwirkt, oder wer sie zur Mitwirkung an einer derartigen Vorführung veranlasst, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 
-<sup>4</sup> Wer Gegenstände oder Vorführungen im Sinne von Absatz 1, die sexuelle Handlungen mit Tieren oder mit Gewalttätigkeiten unter Erwachsenen oder nicht tatsächliche sexuelle Handlungen mit Minderjährigen zum Inhalt haben, herstellt, einführt, lagert, in Verkehr bringt, anpreist, ausstellt, anbietet, zeigt, überlässt, zugänglich macht, erwirbt, sich über elektronische Mittel oder sonst wie beschafft oder besitzt, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft. Haben die Gegenstände oder Vorführungen tatsächliche sexuelle Handlungen mit Minderjährigen zum Inhalt, so ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe.
+<sup>4</sup> Wer Gegenstände oder Vorführungen im Sinne von Absatz 1, die sexuelle Handlungen mit Tieren oder nicht tatsächliche sexuelle Handlungen mit Minderjährigen zum Inhalt haben, herstellt, einführt, lagert, in Verkehr bringt, anpreist, ausstellt, anbietet, zeigt, überlässt, zugänglich macht, erwirbt, sich über elektronische Mittel oder sonst wie beschafft oder besitzt, wird mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
 
-<sup>5</sup> Wer Gegenstände oder Vorführungen im Sinne von Absatz 1, die sexuelle Handlungen mit Tieren oder mit Gewalttätigkeiten unter Erwachsenen oder nicht tatsächliche sexuelle Handlungen mit Minderjährigen zum Inhalt haben, konsumiert oder zum eigenen Konsum herstellt, einführt, lagert, erwirbt, sich über elektronische Mittel oder sonst wie beschafft oder besitzt, wird mit Freiheitsstrafe bis zu einem Jahr oder Geldstrafe bestraft. Haben die Gegenstände oder Vorführungen tatsächliche sexuelle Handlungen mit Minderjährigen zum Inhalt, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
+Haben die Gegenstände oder Vorführungen tatsächliche sexuelle Handlungen mit Minderjährigen zum Inhalt, so ist die Strafe Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe.[^197-2]
+
+<sup>5</sup> Wer Gegenstände oder Vorführungen im Sinne von Absatz 1, die sexuelle Handlungen mit Tieren oder nicht tatsächliche sexuelle Handlungen mit Minderjährigen zum Inhalt haben, konsumiert oder zum eigenen Konsum herstellt, einführt, lagert, erwirbt, sich über elektronische Mittel oder sonst wie beschafft oder besitzt, wird mit Freiheitsstrafe bis zu einem Jahr oder Geldstrafe bestraft.
+
+Haben die Gegenstände oder Vorführungen tatsächliche sexuelle Handlungen mit Minderjährigen zum Inhalt, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.[^197-3]
 
 <sup>6</sup> Bei Straftaten nach den Absätzen 4 und 5 werden die Gegenstände eingezogen.
 
-<sup>7</sup> Handelt der Täter mit Bereicherungsabsicht, so ist mit Freiheitsstrafe eine Geldstrafe zu verbinden.
+<sup>7</sup> …[^197-4]
 
-<sup>8</sup> Minderjährige von mehr als 16 Jahren bleiben straflos, wenn sie voneinander einvernehmlich Gegenstände oder Vorführungen im Sinne von Absatz 1 herstellen, diese besitzen oder konsumieren.
+<sup>8</sup>
+
+Wer von einer minderjährigen Person Gegenstände oder Vorführungen im Sinne von Absatz 1 herstellt, diese besitzt, konsumiert oder der dargestellten Person zugänglich macht, bleibt straflos, wenn:
+
+- a. die minderjährige Person eingewilligt hat;
+- b. die herstellende Person dafür kein Entgelt leistet oder verspricht; und
+- c. der Altersunterschied zwischen den Beteiligten nicht mehr als drei Jahre beträgt.[^197-5]
+
+<sup>8bis</sup> Straflos bleibt, wer von sich als minderjährige Person Gegenstände oder Vorführungen im Sinne von Absatz 1 herstellt, besitzt, konsumiert oder einer anderen Person mit deren Einwilligung zugänglich macht.
+
+Die Person, der diese Gegenstände oder Vorführungen zugänglich gemacht werden, bleibt für Besitz und Konsum straflos, wenn:
+
+- a. sie dafür kein Entgelt leistet oder verspricht;
+- b. die Beteiligten sich persönlich kennen; und
+- c. die Beteiligten volljährig sind oder, sofern mindestens eine Person minderjährig ist, einen Altersunterschied von nicht mehr als drei Jahren aufweisen. [^197-6]
 
 <sup>9</sup> Gegenstände oder Vorführungen im Sinne der Absätze 1–5 sind nicht pornografisch, wenn sie einen schutzwürdigen kulturellen oder wissenschaftlichen Wert haben.
 
 [^197-1]: Fassung gemäss Anhang Ziff. 1 des BB vom 27. Sept. 2013 (Lanzarote-Konvention), in Kraft seit 1. Juli 2014 ([AS 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [BBl 2012 7571](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
+[^197-2]: Fassung gemäss Ziff. I 1 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^197-3]: Fassung gemäss Ziff. I 1 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^197-4]: Aufgehoben durch Ziff. I 1 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, mit Wirkung seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^197-5]: Fassung gemäss Ziff. I 1 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^197-6]: Eingefügt durch Ziff. I 1 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
-### 5. Übertretungen gegen die sexuelle Integrität.
+### 5. Unbefugtes Weiterleiten von nicht öffentlichen sexuellen Inhalten
+
+#### Art. 197a
+
+[^197a-1]
+
+<sup>1</sup> Wer einen nicht öffentlichen sexuellen Inhalt, namentlich Schriften, Ton- oder Bildaufnahmen, Abbildungen, Gegenstände oder Vorführungen, ohne Zustimmung der darin erkennbaren Person einer Drittperson weiterleitet, wird, auf Antrag, mit Freiheitsstrafe bis zu einem Jahr oder Geldstrafe bestraft.
+
+<sup>2</sup> Hat der Täter den Inhalt öffentlich gemacht, so wird er mit Freiheitsstrafe bis zu drei Jahren oder Geldstrafe bestraft.
+
+[^197a-1]: Eingefügt durch Ziff. I 1 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+
+### 6. Übertretungen gegen die sexuelle Integrität.
 
 ### Sexuelle Belästigungen
 
 #### Art. 198
 
-Wer vor jemandem, der dies nicht erwartet, eine sexuelle Handlung vornimmt und dadurch Ärgernis erregt,
+[^198-1]
 
-wer jemanden tätlich oder in grober Weise durch Worte sexuell belästigt,
+<sup>1</sup> Wer vor jemandem, der dies nicht erwartet, eine sexuelle Handlung vornimmt und dadurch Ärgernis erregt,
+
+wer jemanden tätlich oder in grober Weise durch Wort, Schrift oder Bild sexuell belästigt,
 
 wird, auf Antrag, mit Busse bestraft.
+
+<sup>2</sup> Die zuständige Behörde kann die beschuldigte Person zum Besuch eines Lernprogramms verpflichten. Absolviert diese das angeordnete Lernprogramm, wird das Verfahren eingestellt.
+
+<sup>3</sup> Die zuständige Behörde entscheidet über die Kosten des Verfahrens und über allfällig geltend gemachte Forderungen der Zivilpartei.
+
+[^198-1]: Fassung gemäss Ziff. I 1 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 ### Unzulässige Ausübung der Prostitution
 
@@ -3568,11 +3642,15 @@ wird, auf Antrag, mit Busse bestraft.
 
 Wer den kantonalen Vorschriften über Ort, Zeit oder Art der Ausübung der Prostitution und über die Verhinderung belästigender Begleiterscheinungen zuwiderhandelt, wird mit Busse bestraft.
 
-### 6. Gemeinsame Begehung
+### 7. Gemeinsame Begehung
 
 #### Art. 200
 
-Wird eine strafbare Handlung dieses Titels gemeinsam von mehreren Personen ausgeführt, so kann das Gericht die Strafe erhöhen, darf jedoch das höchste Mass der angedrohten Strafe nicht um mehr als die Hälfte überschreiten. Dabei ist es an das gesetzliche Höchstmass der Strafart gebunden.
+[^200-1]
+
+Wird eine strafbare Handlung nach diesem Titel gemeinsam von mehreren Personen ausgeführt, so erhöht das Gericht die Strafe. Es darf jedoch das Höchstmass der angedrohten Strafe nicht um mehr als die Hälfte überschreiten. Dabei ist es an das gesetzliche Höchstmass der Strafart gebunden.
+
+[^200-1]: Fassung gemäss Ziff. I 1 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 #### Art. 201–212
 
@@ -4195,11 +4273,11 @@ Mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe wird bestraft, wer planm
 - a. Vorsätzliche Tötung (Art. 111);
 - b. Mord (Art. 112);
 - c. Schwere Körperverletzung (Art. 122);
-- [tab] c<sup>bis</sup>.[^260bis-2] Verstümmelung weiblicher Genitalien (Art. 124);
+- c<sup>bis</sup>.[^260bis-2] Verstümmelung weiblicher Genitalien (Art. 124);
 - d. Raub (Art. 140);
 - e. Freiheitsberaubung und Entführung (Art. 183);
 - f. Geiselnahme (Art. 185);
-- [tab] f<sup>bis</sup>.[^260bis-3] Verschwindenlassen (Art. 185<sup>bis</sup>);
+- f<sup>bis</sup>.[^260bis-3] Verschwindenlassen (Art. 185<sup>bis</sup>);
 - g. Brandstiftung (Art. 221);
 - h. Völkermord (Art. 264);
 - i. Verbrechen gegen die Menschlichkeit (Art. 264*a*);
@@ -4408,7 +4486,7 @@ Mit Freiheitsstrafe nicht unter fünf Jahren wird bestraft, wer im Rahmen eines 
   - 2\. im Auftrag eines Staates oder einer politischen Organisation oder entgegen einer Rechtspflicht die Auskunft über das Schicksal oder den Verbleib dieser Person verweigert;
 
 - f. einem unter seinem Gewahrsam oder seiner Kontrolle stehenden Menschen grosse Leiden oder eine schwere Schädigung des Körpers oder der physischen oder psychischen Gesundheit zufügt;
-- g. eine Person weiblichen Geschlechts vergewaltigt oder, nachdem sie gegen ihren Willen geschwängert wurde, gefangen hält in der Absicht, die ethnische Zusammensetzung einer Bevölkerung zu beeinflussen, eine Person zur Duldung einer sexuellen Handlung von vergleichbarer Schwere oder zur Prostitution nötigt oder sie zwangsweise sterilisiert;
+- g.[^264a-1] an einer Person eine Vergewaltigung nach Artikel 190 Absatz 2 oder 3 oder eine sexuelle Nötigung nach Artikel 189 Absatz 2 oder 3 von vergleichbarer Schwere begeht, sie zu einer sexuellen Handlung von vergleichbarer Schwere missbraucht, sie zur Prostitution nötigt oder sie zwangsweise sterilisiert oder, nachdem sie gegen ihren Willen geschwängert wurde, gefangen hält in der Absicht, die ethnische Zusammensetzung einer Bevölkerung zu beeinflussen;
 - h. Menschen aus dem Gebiet, in dem sie sich rechtmässig aufhalten, vertreibt oder zwangsweise an einen andern Ort überführt;
 - i. einer Gruppe von Menschen aus politischen, rassischen, ethnischen, religiösen, sozialen oder anderen völkerrechtswidrigen Gründen, im Zusammenhang mit einer Tat nach dem zwölften Titel<sup>bis</sup> oder dem zwölften Titel<sup>ter</sup> oder zwecks systematischer Unterdrückung oder Beherrschung einer rassischen Gruppe, in schwerwiegender Weise Grundrechte vorenthält oder entzieht;
 - j. eine andere Handlung von vergleichbarer Schwere wie die in diesem Absatz genannten Verbrechen verübt und dadurch einem Menschen grosse Leiden oder eine schwere Schädigung des Körpers oder der physischen oder psychischen Gesundheit zufügt.
@@ -4416,6 +4494,8 @@ Mit Freiheitsstrafe nicht unter fünf Jahren wird bestraft, wer im Rahmen eines 
 <sup>2</sup> In besonders schweren Fällen, namentlich wenn die Tat viele Menschen betrifft oder der Täter grausam handelt, kann auf lebenslängliche Freiheitsstrafe erkannt werden.
 
 <sup>3</sup> In weniger schweren Fällen nach Absatz 1 Buchstaben c–j kann auf Freiheitsstrafe nicht unter einem Jahr erkannt werden.
+
+[^264a-1]: Fassung gemäss Ziff. I 1 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 ### Zwölfter Titel<sup>ter</sup>: Kriegsverbrechen
 
@@ -4484,12 +4564,14 @@ Mit Freiheitsstrafe nicht unter drei Jahren wird bestraft, wer im Zusammenhang m
 Mit Freiheitsstrafe nicht unter drei Jahren wird bestraft, wer im Zusammenhang mit einem bewaffneten Konflikt:
 
 - a. eine vom humanitären Völkerrecht geschützte Person körperlich schwer schädigt oder in ihrer physischen oder psychischen Gesundheit schwer verletzt oder gefährdet, indem er sie einem medizinischen Verfahren unterzieht, das nicht durch ihren Gesundheitszustand geboten ist und das nicht mit allgemein anerkannten medizinischen Grundsätzen im Einklang steht;
-- b. eine vom humanitären Völkerrecht geschützte Person weiblichen Geschlechts vergewaltigt oder, nachdem sie gegen ihren Willen geschwängert wurde, gefangen hält in der Absicht, die ethnische Zusammensetzung einer Bevölkerung zu beeinflussen, eine vom humanitären Völkerrecht geschützte Person zur Duldung einer sexuellen Handlung von vergleichbarer Schwere oder zur Prostitution nötigt oder sie zwangsweise sterilisiert;
+- b.[^264e-1] an einer vom humanitären Völkerrecht geschützten Person eine Vergewaltigung nach Artikel 190 Absatz 2 oder 3 oder eine sexuelle Nötigung nach Artikel 189 Absatz 2 oder 3 von vergleichbarer Schwere begeht, sie zu einer sexuellen Handlung von vergleichbarer Schwere missbraucht, sie zur Prostitution nötigt oder sie zwangsweise sterilisiert oder, nachdem sie gegen ihren Willen geschwängert wurde, gefangen hält in der Absicht, die ethnische Zusammensetzung einer Bevölkerung zu beeinflussen;
 - c. eine vom humanitären Völkerrecht geschützte Person in schwerwiegender Weise entwürdigend oder erniedrigend behandelt.
 
 <sup>2</sup> In besonders schweren Fällen, namentlich wenn die Tat viele Menschen betrifft oder der Täter grausam handelt, kann auf lebenslängliche Freiheitsstrafe erkannt werden.
 
 <sup>3</sup> In weniger schweren Fällen kann auf Freiheitsstrafe nicht unter einem Jahr erkannt werden.
+
+[^264e-1]: Fassung gemäss Ziff. I 1 des BG vom 16. Juni 2023 über eine Revision des Sexualstrafrechts, in Kraft seit 1. Juli 2024 ([AS 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [BBl 2018 2827](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 ### c. Rekrutierung und Verwendung von Kindersoldaten
 
@@ -4647,9 +4729,9 @@ eine die Unabhängigkeit der Eidgenossenschaft gefährdende Einmischung einer fr
 
 wird mit Freiheitsstrafe nicht unter einem Jahr bestraft.
 
-2.[^266-1] Wer mit der Regierung eines fremden Staates oder mit deren Agenten in Beziehung tritt, um einen Krieg gegen die Eidgenossenschaft herbeizuführen, wird mit Freiheitsstrafe nicht unter drei Jahren bestraft.
+<sup>2.</sup> Wer mit der Regierung eines fremden Staates oder mit deren Agenten in Beziehung tritt, um einen Krieg gegen die Eidgenossenschaft herbeizuführen, wird mit Freiheitsstrafe nicht unter drei Jahren bestraft.
 
-In schweren Fällen kann auf lebenslängliche Freiheitsstrafe erkannt werden.
+In schweren Fällen kann auf lebenslängliche Freiheitsstrafe erkannt werden.[^266-1]
 
 [^266-1]: Fassung gemäss Ziff. I des BG vom 5. Okt. 1950, in Kraft seit 5. Jan. 1951 ([AS 1951 1](https://fedlex.data.admin.ch/eli/oc/1951/1_1_1); BBl **1949** 1 1249).
 
@@ -4678,9 +4760,9 @@ wer als Bevollmächtigter der Eidgenossenschaft vorsätzlich Unterhandlungen mit
 
 wird mit Freiheitsstrafe nicht unter einem Jahr bestraft.
 
-2.[^267-2] Wer vorsätzlich ein Geheimnis, dessen Bewahrung zum Wohle der Eidgenossenschaft geboten ist, der Öffentlichkeit bekannt oder zugänglich macht, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.
+<sup>2.</sup> Wer vorsätzlich ein Geheimnis, dessen Bewahrung zum Wohle der Eidgenossenschaft geboten ist, der Öffentlichkeit bekannt oder zugänglich macht, wird mit Freiheitsstrafe bis zu fünf Jahren oder Geldstrafe bestraft.[^267-2]
 
-3.[^267-3] Handelt der Täter fahrlässig, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.
+<sup>3.</sup> Handelt der Täter fahrlässig, so ist die Strafe Freiheitsstrafe bis zu drei Jahren oder Geldstrafe.[^267-3]
 
 [^267-1]: Fassung gemäss Ziff. I des BG vom 10. Okt. 1997, in Kraft seit 1. April 1998 ([AS 1998 852](https://fedlex.data.admin.ch/eli/oc/1998/852_852_852); [BBl 1996 IV 525](https://fedlex.data.admin.ch/eli/fga/1996/4_525_533_449)).
 [^267-2]: Eingefügt durch Ziff. I des BG vom 10. Okt. 1997, in Kraft seit 1. April 1998 ([AS 1998 852](https://fedlex.data.admin.ch/eli/oc/1998/852_852_852); [BBl 1996 IV 525](https://fedlex.data.admin.ch/eli/fga/1996/4_525_533_449)).
@@ -6155,7 +6237,7 @@ Folgende Behörden können Daten nach Absatz 1 vergleichen und bearbeiten:
 Die Daten dürfen verwendet werden:
 
 - a. bis zum Ablauf der Fristen für die Löschung von DNA-Profilen nach den Artikeln 16–19 des DNA-Profil-Gesetzes vom 20. Juni 2003[^354-8]; oder
-- [tab] b.[^354-9] bei einer Verurteilung wegen einer Übertretung: für eine Dauer von fünf Jahren ab dem Datum des Urteils, sofern dieses in Rechtskraft erwachsen ist.[^354-10]
+- b.[^354-9] bei einer Verurteilung wegen einer Übertretung: für eine Dauer von fünf Jahren ab dem Datum des Urteils, sofern dieses in Rechtskraft erwachsen ist.[^354-10]
 
 <sup>5</sup> Der Bundesrat regelt die Einzelheiten, insbesondere die Aufbewahrungsdauer der Daten, die ausserhalb von Strafverfahren erfasst worden sind, das Löschverfahren und die Zusammenarbeit mit den Kantonen. Er regelt die Übermittlung der erkennungsdienstlichen Daten durch die zuständigen Bundesbehörden und die Kantone.[^354-11]
 
@@ -6194,7 +6276,7 @@ Die Daten dürfen verwendet werden:
 
 [^355a-1]
 
-- [tab] <sup>1</sup> Das fedpol und der Nachrichtendienst des Bundes (NDB) können dem Europäischen Polizeiamt (Europol) Personendaten, einschliesslich besonders schützenswerter Personendaten, weitergeben.[^355a-2]
+<sup>1</sup> Das fedpol und der Nachrichtendienst des Bundes (NDB) können dem Europäischen Polizeiamt (Europol) Personendaten, einschliesslich besonders schützenswerter Personendaten, weitergeben.[^355a-2]
 
 <sup>2</sup> Für die Weitergabe dieser Daten gelten insbesondere die Voraussetzungen nach den Artikeln 3 und 10–13 des Abkommens vom 24. September 2004[^355a-3] zwischen der Schweizerischen Eidgenossenschaft und dem Europäischen Polizeiamt.
 

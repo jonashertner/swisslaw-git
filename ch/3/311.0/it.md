@@ -4,18 +4,18 @@ title: Codice penale svizzero del 21 dicembre 1937
 short: CP
 eli: "https://fedlex.data.admin.ch/eli/cc/54/757_781_799"
 language: it
-version: 2024-01-01
+version: 2024-07-01
 adopted: 1937-12-21
 in_force: 1942-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20240101/it/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20240101-it-xml-17.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/54/757_781_799/20240701/it/xml/fedlex-data-admin-ch-eli-cc-54-757_781_799-20240701-it-xml-23.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/54/757_781_799/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Codice penale svizzero
 
-del 21 dicembre 1937 (Stato 1° gennaio 2024)
+del 21 dicembre 1937 (Stato 1° luglio 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -88,7 +88,7 @@ Fatta salva una crassa violazione dei principi della Costituzione federale e del
 
 Il presente Codice si applica inoltre a chiunque si trova in Svizzera, non è estradato e ha commesso all’estero uno dei seguenti reati:
 
-- a.[^5-1] tratta di esseri umani (art. 182), coazione sessuale (art. 189), violenza carnale (art. 190), atti sessuali con persone incapaci di discernimento o inette a resistere (art. 191) o promovimento della prostituzione (art. 195), se la vittima è minore di diciotto anni;
+- a.[^5-1] tratta di esseri umani (art. 182), coazione sessuale (art. 189 cpv. 2 e 3), violenza carnale (art. 190 cpv. 2 e 3), atti sessuali con persone incapaci di discernimento o inette a resistere (art. 191) o promovimento della prostituzione (art. 195), se la vittima è minore di diciotto anni;
 - a<sup>bis</sup>.[^5-2] atti sessuali con persone dipendenti (art. 188) e atti sessuali con minorenni contro rimunerazione (art. 196);
 - b. atti sessuali con fanciulli (art. 187), se la vittima è minore di quattordici anni;
 - c.[^5-3] pornografia qualificata (art. 197 cpv. 3 e 4), se gli oggetti o le rappresentazioni vertono su atti sessuali con minorenni.
@@ -102,7 +102,7 @@ Fatta salva una crassa violazione dei principi della Costituzione federale e del
 
 <sup>3</sup> Se, per il medesimo fatto, l’autore è stato condannato all’estero e vi ha scontato solo parzialmente la pena, il giudice computa la pena scontata all’estero in quella da pronunciare. Il giudice decide se una misura ordinata all’estero, ma all’estero solo parzialmente eseguita, debba essere continuata o computata nella pena inflitta in Svizzera.
 
-[^5-1]: Nuovo testo giusta l’art. 2 n. 1 del DF del 24 mar. 2006 che approva e traspone nel diritto svizzero il Prot. facoltativo del 25 mag. 2000 alla Conv. sui diritti del fanciullo concernente la vendita di fanciulli, la prostituzione infantile e la pedopornografia, in vigore dal 1° dic. 2006 ([RU 2006 5437](https://fedlex.data.admin.ch/eli/oc/2006/823); [FF 2005 2513](https://fedlex.data.admin.ch/eli/fga/2005/433)).
+[^5-1]: Nuovo testo giusta il n. I 1 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^5-2]: Introdotta dall’all. n. 1 del DF del 27 set. 2013 (Convenzione di Lanzarote), in vigore dal 1° lug. 2014 ([RU 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [FF 2012 6761](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
 [^5-3]: Nuovo testo giusta l’all. n. 1 del DF del 27 set. 2013 (Convenzione di Lanzarote), in vigore dal 1° lug. 2014 ([RU 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [FF 2012 6761](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
 [^5-4]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
@@ -458,7 +458,7 @@ Quando l’avente diritto presenta querela contro uno dei compartecipi al reato,
 
 [^34-1]: Nuovo testo giusta il n. I 1 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 [^34-2]: Nuovo testo giusta il n. I 1 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
-[^34-3]: Nuovo testo del primo e del secondo per. giusta l’all. n. 5 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
+[^34-3]: Nuovo testo del secondo e del terzo per. giusta l’all. n. 5 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 [^34-4]: Per. introdotto dall’all. n. 5 della LF del 19 giu. 2020 (Diritto della società anonima), in vigore dal 1° gen. 2023 ([RU 2020 4005](https://fedlex.data.admin.ch/eli/oc/2020/746); [2022 109](https://fedlex.data.admin.ch/eli/oc/2022/109); [FF 2017 325](https://fedlex.data.admin.ch/eli/fga/2017/112)).
 
 ### Esazione
@@ -667,7 +667,7 @@ Il giudice computa nella pena il carcere preventivo scontato nell’ambito del p
 
 [^book1-part1-tit3-chap1-sec4-1]
 
-[^book1-part1-tit3-chap1-sec4-1]: Introdotto dal n. I 3 della LF del 14 dic. 2018 intesa a migliorare la protezione delle vittime di violenza, in vigore dal 1° lug. 2020 ([RU 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6267](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
+[^book1-part1-tit3-chap1-sec4-1]: Nuovo testo giusta il n. I 3 della LF del 14 dic. 2018 intesa a migliorare la protezione delle vittime di violenza, in vigore dal 1° lug. 2020 ([RU 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6267](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 
 ### 1. Motivi d’impunità.
 
@@ -752,7 +752,7 @@ La sospensione non è ammessa, se:
 
 [^55a-1]: Introdotto dal n. I della LF del 3 ott. 2003 (Perseguimento dei reati commessi tra coniugi o tra partner), in vigore dal 1° apr. 2004 ([RU 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [FF 2003 1732](https://fedlex.data.admin.ch/eli/fga/2003/226), [1761](https://fedlex.data.admin.ch/eli/fga/2003/228)).
 [^55a-2]: Nuovo testo giusta il n. I 3 della LF del 14 dic. 2018 intesa a migliorare la protezione delle vittime di violenza, in vigore dal 1° lug. 2020 ([RU 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6267](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
-[^55a-3]: Introdotto dal n. I della LF del 3 ott. 2003 (Perseguimento dei reati commessi tra coniugi o tra partner), in vigore dal 1° apr. 2004 ([RU 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [FF 2003 1732](https://fedlex.data.admin.ch/eli/fga/2003/226), [1761](https://fedlex.data.admin.ch/eli/fga/2003/228)).
+[^55a-3]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (Perseguimento dei reati commessi tra coniugi o tra partner), in vigore dal 1° apr. 2004 ([RU 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [FF 2003 1732](https://fedlex.data.admin.ch/eli/fga/2003/226), [1761](https://fedlex.data.admin.ch/eli/fga/2003/228)).
 [^55a-4]: Nuovo testo giusta il n. I 3 della LF del 14 dic. 2018 intesa a migliorare la protezione delle vittime di violenza, in vigore dal 1° lug. 2020 ([RU 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6267](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 [^55a-5]: Introdotto dal n. I 3 della LF del 14 dic. 2018 intesa a migliorare la protezione delle vittime di violenza, in vigore dal 1° lug. 2020 ([RU 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6267](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
 [^55a-6]: Nuovo testo giusta il n. I 3 della LF del 14 dic. 2018 intesa a migliorare la protezione delle vittime di violenza, in vigore dal 1° lug. 2020 ([RU 2019 2273](https://fedlex.data.admin.ch/eli/oc/2019/432); [FF 2017 6267](https://fedlex.data.admin.ch/eli/fga/2017/2095)).
@@ -1165,7 +1165,7 @@ Il giudice espelle dal territorio svizzero per un tempo da cinque a quindici ann
 - e. truffa (art. 146 cpv. 1) a un’assicurazione sociale o all’aiuto sociale, ottenimento illecito di prestazioni di un’assicurazione sociale o dell’aiuto sociale (art. 148*a* cpv. 1);
 - f.[^66a-4] truffa (art. 146 cpv. 1), truffa in materia di prestazioni e di tasse (art. 14 cpv. 1–3 della legge federale del 22 marzo 1974[^66a-5] sul diritto penale amministrativo) o frode fiscale, appropriazione indebita d’imposte alla fonte o un altro reato nell’ambito dei tributi di diritto pubblico per il quale è comminata una pena detentiva massima di uno o più anni;
 - g. matrimonio forzato, unione domestica registrata forzata (art. 181*a*), tratta di esseri umani (art. 182), sequestro di persona e rapimento (art. 183), sequestro di persona e rapimento qualificati (art. 184), presa d’ostaggio (art. 185);
-- h.[^66a-6] atti sessuali con fanciulli (art. 187 n. 1), coazione sessuale (art. 189), violenza carnale (art. 190), atti sessuali con persone incapaci di discernimento o inette a resistere (art. 191), promovimento della prostituzione (art. 195), pornografia (art. 197 cpv. 4 secondo periodo);
+- h.[^66a-6] atti sessuali con fanciulli (art. 187 n. 1 e 1<sup>bis</sup>), atti sessuali con persone dipendenti (art. 188), coazione sessuale (art. 189 cpv. 2 e 3), violenza carnale (art. 190), atti sessuali con persone incapaci di discernimento o inette a resistere (art. 191), sfruttamento dello stato di bisogno o di dipendenza (art. 193), inganno circa il carattere sessuale di un atto (art. 193*a*), promovimento della prostituzione (art. 195), pornografia (art. 197 cpv. 4 secondo periodo);
 - i.[^66a-7] incendio intenzionale (art. 221 cpv. 1 e 2), esplosione intenzionale (art. 223 n. 1, primo comma), uso delittuoso di materie esplosive o gas velenosi (art. 224 cpv. 1), uso intenzionale senza fine delittuoso di materie esplosive o gas velenosi (art. 225 cpv. 1), fabbricazione, occultamento e trasporto di materie esplosive o gas velenosi (art. 226), pericolo dovuto all’energia nucleare, alla radioattività e a raggi ionizzanti (art. 226<sup>bis</sup>), atti preparatori punibili (art. 226<sup>ter</sup>), inondazione, franamento cagionati intenzionalmente (art. 227 n. 1, primo comma), danneggiamento intenzionale d’impianti elettrici, di opere idrauliche e di opere di premunizione (art. 228 n. 1, primo comma), violazione delle regole dell’arte edilizia (art. 229 cpv. 1), rimozione od omissione di apparecchi protettivi (art. 230 n. 1);
 - j.[^66a-8] pericoli causati intenzionalmente da organismi geneticamente modificati o patogeni (art. 230<sup>bis</sup> cpv. 1), propagazione di malattie dell’essere umano (art. 231), inquinamento intenzionale di acque potabili (art. 234 cpv. 1);
 - k.[^66a-9] perturbamento della circolazione pubblica (art. 237 n. 1);
@@ -1184,7 +1184,7 @@ Il giudice espelle dal territorio svizzero per un tempo da cinque a quindici ann
 [^66a-3]: Nuovo testo giusta il n. I 1 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^66a-4]: Nuovo testo giusta il n. I 1 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^66a-5]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
-[^66a-6]: Correzione della CdR dell’AF del 28 nov. 2017, pubblicata il 12 dic. 2017, concerne soltanto il testo francese ([RU 2017 7257](https://fedlex.data.admin.ch/eli/oc/2017/786)).
+[^66a-6]: Nuovo testo giusta il n. I 1 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^66a-7]: Nuovo testo giusta il n. I 1 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^66a-8]: Nuovo testo giusta il n. I 1 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 [^66a-9]: Nuovo testo giusta il n. I 1 della LF del 17 dic. 2021 sull’armonizzazione delle pene, in vigore dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
@@ -1205,9 +1205,7 @@ Il giudice può espellere dal territorio svizzero per un tempo da tre a quindici
 
 [^66abis-1]: Introdotto dal n. I 1 della LF del 20 mar. 2015 (Attuazione dell’art. 121 cpv. 3–6 Cost. sull’espulsione di stranieri che commettono reati), in vigore dal 1° ott. 2016 ([RU 2016 2329](https://fedlex.data.admin.ch/eli/oc/2016/380); [FF 2013 5163](https://fedlex.data.admin.ch/eli/fga/2013/1078)).
 
-### c. Disposizioni comuni.
-
-### Recidiva
+### c. Disposizioni comuni. Recidiva
 
 #### Art. 66b
 
@@ -1276,21 +1274,21 @@ Se ad alcuno è stata inflitta una pena o una delle misure di cui agli articoli 
 
 - a. tratta di esseri umani (art. 182), se il reato è stato commesso a scopo di sfruttamento sessuale e la vittima è minorenne;
 - b. atti sessuali con fanciulli (art. 187), atti sessuali con persone dipendenti (art. 188) o atti sessuali con minorenni contro rimunerazione (art. 196);
-- c. coazione sessuale (art. 189), violenza carnale (art. 190), atti sessuali con persone incapaci di discernimento o inette a resistere (art. 191), atti sessuali con persone ricoverate, detenute od imputate (art. 192), sfruttamento dello stato di bisogno (art. 193), esibizionismo (art. 194), promovimento della prostituzione (art. 195) o molestie sessuali (art. 198), se la vittima è minorenne;
+- c.[^67-4] aggressione e coazione sessuali (art. 189), violenza carnale (art. 190), atti sessuali con persone incapaci di discernimento o inette a resistere (art. 191), sfruttamento dello stato di bisogno o di dipendenza (art. 193), inganno circa il carattere sessuale di un atto (art. 193*a*), esibizionismo (art. 194), promovimento della prostituzione (art. 195), condivisione indebita di contenuti sessuali non pubblici (art. 197*a*) o molestie sessuali (art. 198), se la vittima è minorenne;
 - d.
 
   pornografia (art. 197):
 
   - 1\. secondo l’articolo 197 capoverso 1 o 3,
-  - 2\. secondo l’articolo 197 capoverso 4 o 5, se gli oggetti o le rappresentazioni vertono su atti sessuali con minorenni.[^67-4]
+  - 2\. secondo l’articolo 197 capoverso 4 o 5, se gli oggetti o le rappresentazioni vertono su atti sessuali con minorenni.[^67-5]
 
 <sup>4</sup>
 
 Se ad alcuno è stata inflitta una pena o una delle misure di cui agli articoli 59–61, 63 o 64 per aver commesso uno dei reati seguenti, il giudice gli interdice a vita l’esercizio di qualsiasi attività professionale o extraprofessionale organizzata implicante un contatto regolare con maggiorenni particolarmente vulnerabili nonché l’esercizio di qualsiasi attività professionale o extraprofessionale organizzata nel settore sanitario implicante un contatto diretto con i pazienti:
 
-- a.
+- a.[^67-6]
 
-  tratta di esseri umani (art. 182) a scopo di sfruttamento sessuale, coazione sessuale (art. 189), violenza carnale (art. 190), atti sessuali con persone incapaci di discernimento o inette a resistere (art. 191), atti sessuali con persone ricoverate, detenute od imputate (art. 192), sfruttamento dello stato di bisogno (art. 193), esibizionismo (art. 194), promovimento della prostituzione (art. 195) o molestie sessuali (art. 198), se la vittima è:
+  tratta di esseri umani (art. 182) a scopo di sfruttamento sessuale, aggressione e coazione sessuali (art. 189), violenza carnale (art. 190), atti sessuali con persone incapaci di discernimento o inette a resistere (art. 191), sfruttamento dello stato di bisogno o di dipendenza (art. 193), inganno circa il carattere sessuale di un atto (art. 193*a*), esibizionismo (art. 194), promovimento della prostituzione (art. 195), condivisione indebita di contenuti sessuali non pubblici (art. 197*a*) o molestie sessuali (art. 198), se la vittima è:
 
   - 1\. un maggiorenne particolarmente vulnerabile,
   - 2\. un maggiorenne non particolarmente vulnerabile, ma inetto a resistere, incapace di discernimento o non in grado di opporre resistenza a causa di una dipendenza fisica o psichica;
@@ -1300,30 +1298,33 @@ Se ad alcuno è stata inflitta una pena o una delle misure di cui agli articoli 
   pornografia (art. 197 cpv. 2 primo per., 4 o 5), se gli oggetti o le rappresentazioni vertono su:
 
   - 1\. atti sessuali con maggiorenni particolarmente vulnerabili,
-  - 2\. atti sessuali con maggiorenni non particolarmente vulnerabili, ma inetti a resistere, incapaci di discernimento o non in grado di opporre resistenza a causa di una dipendenza fisica o psichica.[^67-5]
+  - 2\. atti sessuali con maggiorenni non particolarmente vulnerabili, ma inetti a resistere, incapaci di discernimento o non in grado di opporre resistenza a causa di una dipendenza fisica o psichica.[^67-7]
 
 <sup>4bis</sup>
 
 Nei casi di esigua gravità, il giudice può, a titolo eccezionale, prescindere dalla pronuncia di un’interdizione di esercitare un’attività secondo il capoverso 3 o 4, se non appare necessaria per trattenere l’autore dal commettere nuovi reati analoghi a quelli che hanno determinato l’interdizione. Il giudice non può tuttavia prescindere dalla pronuncia di un’interdizione di esercitare un’attività:
 
-- a. in caso di tratta di esseri umani (art. 182), coazione sessuale (art. 189), violenza sessuale (art. 190), atti sessuali con persone incapaci di discernimento o inette a resistere (art. 191) o promovimento della prostituzione (art. 195); oppure
-- b. se l’autore è considerato pedofilo secondo i criteri di classificazione internazionalmente riconosciuti.[^67-6]
+- a.[^67-8] in caso di tratta di esseri umani (art. 182), coazione sessuale (art. 189 cpv. 2 e 3), violenza carnale (art. 190 cpv. 2 e 3), atti sessuali con persone incapaci di discernimento o inette a resistere (art. 191) o promovimento della prostituzione (art. 195); oppure
+- b. se l’autore è considerato pedofilo secondo i criteri di classificazione internazionalmente riconosciuti.[^67-9]
 
-<sup>5</sup> Se all’autore è inflitta nel medesimo procedimento una pena o misura per aver commesso più reati, il giudice stabilisce quale parte della pena o quale misura è inflitta per un reato passibile dellʼinterdizione di esercitare unʼattività. Tale parte della pena, la misura e il reato sono determinanti per stabilire se pronunciare un’interdizione di esercitare un’attività secondo il capoverso 1, 2, 2<sup>bis</sup>, 3 o 4. Le parti di pena inflitte per più reati passibili di interdizione sono addizionate. È possibile pronunciare più interdizioni di esercitare un’attività.[^67-7]
+<sup>5</sup> Se all’autore è inflitta nel medesimo procedimento una pena o misura per aver commesso più reati, il giudice stabilisce quale parte della pena o quale misura è inflitta per un reato passibile dellʼinterdizione di esercitare unʼattività. Tale parte della pena, la misura e il reato sono determinanti per stabilire se pronunciare un’interdizione di esercitare un’attività secondo il capoverso 1, 2, 2<sup>bis</sup>, 3 o 4. Le parti di pena inflitte per più reati passibili di interdizione sono addizionate. È possibile pronunciare più interdizioni di esercitare un’attività.[^67-10]
 
-<sup>6</sup> Il giudice può ordinare un’assistenza riabilitativa per la durata dell’interdizione.[^67-8]
+<sup>6</sup> Il giudice può ordinare un’assistenza riabilitativa per la durata dell’interdizione.[^67-11]
 
-<sup>7</sup> ...[^67-9]
+<sup>7</sup> ...[^67-12]
 
 [^67-1]: Nuovo testo giusta il n. I 1 della LF del 13 dic. 2013 sullʼinterdizione di esercitare unʼattività e sul divieto di avere contatti e di accedere ad aree determinate, in vigore dal 1° gen. 2015 ([RU 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [FF 2012 7765](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
 [^67-2]: Nuovo testo giusta il n. I 1 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
 [^67-3]: Introdotto dal n. I 1 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), in vigore dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
-[^67-4]: Nuovo testo giusta il n. I 1 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), in vigore dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^67-4]: Nuovo testo giusta il n. I 1 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^67-5]: Nuovo testo giusta il n. I 1 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), in vigore dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
-[^67-6]: Introdotto dal n. I 1 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), in vigore dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^67-6]: Nuovo testo giusta il n. I 1 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^67-7]: Nuovo testo giusta il n. I 1 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), in vigore dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
-[^67-8]: Nuovo testo giusta il n. I 1 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), in vigore dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
-[^67-9]: Abrogato dal n. I 1 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), con effetto dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^67-8]: Nuovo testo giusta il n. I 1 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^67-9]: Introdotto dal n. I 1 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), in vigore dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^67-10]: Nuovo testo giusta il n. I 1 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), in vigore dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^67-11]: Nuovo testo giusta il n. I 1 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), in vigore dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
+[^67-12]: Abrogato dal n. I 1 della LF del 16 mar. 2018 (Attuazione dell’art. 123*c* Cost), con effetto dal 1° gen. 2019 ([RU 2018 3803](https://fedlex.data.admin.ch/eli/oc/2018/603); [FF 2016 5509](https://fedlex.data.admin.ch/eli/fga/2016/1188)).
 
 ### Contenuto e portata
 
@@ -1628,7 +1629,8 @@ A richiesta del condannato, una pena detentiva non superiore a dodici mesi o una
 
 - a. non vi è da attendersi che il condannato si dia alla fuga o commetta nuovi reati; e
 - b. il condannato svolge un lavoro, una formazione o un’occupazione regolari per almeno venti ore alla settimana.
-- [tab] <sup>2</sup> Il detenuto continua a svolgere il suo lavoro o la sua formazione od occupazione fuori del penitenziario, ma vi trascorre il tempo di riposo e il tempo libero.
+
+<sup>2</sup> Il detenuto continua a svolgere il suo lavoro o la sua formazione od occupazione fuori del penitenziario, ma vi trascorre il tempo di riposo e il tempo libero.
 
 <sup>3</sup> Anziché in un penitenziario, la semiprigionia può svolgersi in un reparto speciale di uno stabilimento adibito al carcere preventivo, purché il condannato sia debitamente assistito.
 
@@ -1668,7 +1670,8 @@ Se non vi è da attendersi che il condannato si dia alla fuga o commetta nuovi r
 - a. una pena detentiva non superiore a sei mesi;
 - b. una pena residua, risultante dal computo del carcere preventivo, non superiore a sei mesi; o
 - c. una pena pecuniaria o una multa.
-- [tab] <sup>2</sup> Le pene detentive sostitutive non possono essere eseguite in forma di lavoro di pubblica utilità.
+
+<sup>2</sup> Le pene detentive sostitutive non possono essere eseguite in forma di lavoro di pubblica utilità.
 
 <sup>3</sup> Il lavoro di pubblica utilità deve essere prestato a favore di istituzioni sociali, opere di interesse pubblico o persone bisognose. È prestato gratuitamente.
 
@@ -1924,7 +1927,11 @@ La vittima e i congiunti della vittima ai sensi dell’articolo 1 capoversi 1 e 
 
 #### Art. 94
 
-Le norme di condotta che il giudice o l’autorità preposta all’esecuzione delle pene può impartire al condannato per il periodo di prova concernono in particolare l’esercizio di una professione, la dimora, la guida di un veicolo a motore, la riparazione del danno nonché la cura medica e psicologica.
+<sup>1</sup> Le norme di condotta che il giudice o l’autorità preposta all’esecuzione delle pene può impartire al condannato per il periodo di prova concernono in particolare l’esercizio di una professione, la dimora, la guida di un veicolo a motore, la riparazione del danno nonché la cura medica e psicologica.
+
+<sup>2</sup> In caso di reati contro l*’*integrità sessuale, il condannato può essere obbligato a seguire un programma rieducativo.[^94-1]
+
+[^94-1]: Introdotto dal n. I 1 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 ### Disposizioni comuni
 
@@ -1971,14 +1978,14 @@ L’azione penale si prescrive:
 - c. in 10 anni, se la pena massima comminata è una pena detentiva di tre anni;
 - d. in 7 anni, se la pena massima comminata è un’altra pena.[^97-1]
 
-<sup>2</sup> In caso di atti sessuali con fanciulli (art. 187) e persone dipendenti (art. 188), come pure di reati secondo gli articoli 111, 113, 122, 124, 182, 189–191, 195 e 197 capoverso 3 diretti contro persone minori di sedici anni, l’azione penale non si prescrive prima che la vittima abbia compiuto venticinque anni.[^97-2]
+<sup>2</sup> In caso di atti sessuali con fanciulli (art. 187), come pure di reati secondo gli articoli 111, 113, 122, 124, 182, 189–191, 193, 193*a*, 195 e 197 capoverso 3 diretti contro persone minori di sedici anni, l’azione penale non si prescrive prima che la vittima abbia compiuto i venticinque anni.[^97-2]
 
 <sup>3</sup> Se prima della scadenza del termine di prescrizione è stata pronunciata una sentenza di prima istanza, la prescrizione si estingue.
 
 <sup>4</sup> In caso di atti sessuali con fanciulli (art. 187) e minori dipendenti (art. 188), come pure di reati secondo gli articoli 111–113, 122, 182, 189–191 e 195 diretti contro persone minori di sedici anni, la prescrizione dell’azione penale è retta dai capoversi 1–3 se il reato è stato commesso prima dell’entrata in vigore della modifica del 5 ottobre 2001[^97-3] e il relativo termine di prescrizione non è ancora scaduto a tale data.[^97-4]
 
 [^97-1]: Nuovo testo giusta il n. I 1 della LF del 21 giu. 2013 (Prolungamento dei termini di prescrizione dell’azione penale), in vigore dal 1° gen. 2014 ([RU 2013 4417](https://fedlex.data.admin.ch/eli/oc/2013/783); [FF 2012 8119](https://fedlex.data.admin.ch/eli/fga/2012/1719)).
-[^97-2]: Nuovo testo giusta l’all. n. 1del DF del 27 set. 2013 (Convenzione di Lanzarote), in vigore dal 1° lug. 2014 ([RU 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [FF 2012 6761](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
+[^97-2]: Nuovo testo giusta il n. I 1 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^97-3]: [[RU 2002 2993](http://www.bk.admin.ch/ch/i/as/2002/2993.pdf)](https://fedlex.data.admin.ch/eli/oc/2002/430)
 [^97-4]: Nuovo testo giusta l’art. 2 n. 1 del DF del 24 mar. 2006 che approva e traspone nel diritto svizzero il Prot. facoltativo del 25 mag. 2000 alla Conv. sui diritti del fanciullo concernente la vendita di fanciulli, la prostituzione infantile e la pedopornografia, in vigore dal 1° dic. 2006 ([RU 2006 5437](https://fedlex.data.admin.ch/eli/oc/2006/823); [FF 2005 2513](https://fedlex.data.admin.ch/eli/fga/2005/433)).
 
@@ -2033,14 +2040,14 @@ Sono imprescrittibili:
 - b. i crimini contro l’umanità (art. 264*a* cpv. 1 e 2);
 - c. i crimini di guerra (art. 264*c* cpv. 1–3, 264*d* cpv. 1 e 2, 264*e* cpv. 1 e 2, 264*f*, 264*g* cpv. 1 e 2 e 264*h*);
 - d. i crimini che, come mezzi d’estorsione o coazione, mettono o minacciano di mettere in pericolo la vita e l’integrità fisica di molte persone, segnatamente con l’impiego di mezzi di distruzione di massa, lo scatenamento di una catastrofe o una presa d’ostaggio;[^101-1]
-- e.[^101-2] gli atti sessuali con fanciulli (art. 187 n. 1), la coazione sessuale (art. 189), la violenza carnale (art. 190), gli atti sessuali con persone incapaci di discernimento o inette a resistere (art. 191), gli atti sessuali con persone ricoverate, detenute od imputate (art. 192 cpv. 1) e lo sfruttamento dello stato di bisogno (art. 193 cpv. 1), se commessi su fanciulli minori di 12 anni.
+- e.[^101-2] gli atti sessuali con fanciulli (art. 187 n. 1 e 1<sup>bis</sup>), l’aggressione e la coazione sessuali (art. 189), la violenza carnale (art. 190), gli atti sessuali con persone incapaci di discernimento o inette a resistere (art. 191), lo sfruttamento dello stato di bisogno o di dipendenza (art. 193) e l’inganno circa il carattere sessuale di un atto (art. 193*a*), se commessi su fanciulli minori di dodici anni.
 
 <sup>2</sup> Il giudice può attenuare la pena nel caso in cui l’azione penale fosse caduta in prescrizione in applicazione degli articoli 97 e 98.
 
 <sup>3</sup> I capoversi 1 lettere a, c e d e 2 si applicano se il 1° gennaio 1983 l’azione penale o la pena non era ancora caduta in prescrizione secondo il diritto sino allora vigente. Il capoverso 1 lettera b si applica se al momento dell’entrata in vigore della modifica del 18 giugno 2010 della presente legge l’azione penale o la pena non era ancora caduta in prescrizione secondo il diritto sino allora vigente. Il capoverso 1 lettera e si applica se il 30 novembre 2008 l’azione penale o la pena non era ancora caduta in prescrizione secondo il diritto sino allora vigente.[^101-3] [^101-4]
 
 [^101-1]: Nuovo testo giusta il n. I 1 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
-[^101-2]: Introdotta dal n. I 1 della LF del 15 giu. 2012 (Imprescrittibilità dei reati sessuali o di pornografia commessi su fanciulli impuberi), in vigore dal 1° gen. 2013 ([RU 2012 5951](https://fedlex.data.admin.ch/eli/oc/2012/696); [FF 2011 5393](https://fedlex.data.admin.ch/eli/fga/2011/883)).
+[^101-2]: Introdotta dal n. I 1 della LF del 15 giu. 2012 (Imprescrittibilità dei reati sessuali o di pornografia commessi su fanciulli impuberi ([RU 2012 5951](https://fedlex.data.admin.ch/eli/oc/2012/696); [FF 2011 5393](https://fedlex.data.admin.ch/eli/fga/2011/883)). Nuovo testo giusta il n. I 1 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 [^101-3]: Per. introdotto dal n. I 1 della LF del 15 giu. 2012 (Imprescrittibilità dei reati sessuali o di pornografia commessi su fanciulli impuberi), in vigore dal 1° gen. 2013 ([RU 2012 5951](https://fedlex.data.admin.ch/eli/oc/2012/696); [FF 2011 5393](https://fedlex.data.admin.ch/eli/fga/2011/883)).
 [^101-4]: Nuovo testo giusta il n. I 1 della LF del 18 giu. 2010 sulla modifica di leggi federali per l’attuazione dello Statuto di Roma della Corte penale internazionale, in vigore dal 1° gen. 2011 ([RU 2010 4963](https://fedlex.data.admin.ch/eli/oc/2010/704); [FF 2008 3293](https://fedlex.data.admin.ch/eli/fga/2008/807)).
 
@@ -2380,7 +2387,7 @@ Il colpevole è perseguito d’ufficio se ha agito reiteratamente:
 
 - a. contro una persona, segnatamente un fanciullo, della quale aveva la custodia o doveva aver cura;
 - b. contro il proprio coniuge durante il matrimonio o nell’anno successivo al divorzio; o
-- [tab] b<sup>bis</sup>.[^126-1] contro il proprio partner registrato o ex partner registrato, durante l’unione domestica registrata o nell’anno successivo al suo scioglimento; o
+- b<sup>bis</sup>.[^126-1] contro il proprio partner registrato o ex partner registrato, durante l’unione domestica registrata o nell’anno successivo al suo scioglimento; o
 - c. contro il proprio partner eterosessuale o omosessuale, a condizione che essi vivano in comunione domestica per un tempo indeterminato e l’atto sia stato commesso durante questo tempo o nell’anno successivo alla separazione.[^126-2]
 
 [^126-1]: Introdotta dall’all. n. 18 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
@@ -2982,13 +2989,15 @@ il terzo che compie tali atti a vantaggio del debitore,
 
 [^171-1]: Abrogato dal n. I 1 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
 
-### 4. Disposizioni generali
-
 #### Art. 171<sup>bis</sup>
 
 [^171bis-1]
 
 [^171bis-1]: Abrogato dal n. I 1 della LF del 17 dic. 2021 sull’armonizzazione delle pene, con effetto dal 1° lug. 2023 ([RU 2023 259](https://fedlex.data.admin.ch/eli/oc/2023/259); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154)).
+
+### 4. Disposizioni generali
+
+### …
 
 #### Art. 172
 
@@ -3250,7 +3259,7 @@ Chiunque utilizza l’identità di un’altra persona senza il suo consenso con 
 Il colpevole è perseguito d’ufficio se:
 
 - a. è il coniuge della vittima e la minaccia è stata commessa durante il matrimonio o nell’anno successivo al divorzio; o
-- [tab] a<sup>bis</sup>.[^180-1] è il partner registrato della vittima o l’ex partner registrato e la minaccia è stata commessa durante l’unione domestica registrata o nell’anno successivo al suo scioglimento; o
+- a<sup>bis</sup>.[^180-1] è il partner registrato della vittima o l’ex partner registrato e la minaccia è stata commessa durante l’unione domestica registrata o nell’anno successivo al suo scioglimento; o
 - b. è il partner eterosessuale o omosessuale della vittima, a condizione che essi vivevano in comunione domestica per un tempo indeterminato e la minaccia sia stata commessa durante questo tempo o nell’anno successivo alla separazione.[^180-2]
 
 [^180-1]: Introdotta dall’all. n. 18 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
@@ -3337,7 +3346,7 @@ la salute della vittima è stata seriamente esposta a pericolo.
 
 <sup>3.</sup> In casi particolarmente gravi, segnatamente quando l’atto è diretto contro molte persone, il colpevole può essere punito con la pena detentiva a vita.
 
-4.[^185-2] Se il colpevole desiste dalla coazione e lascia libera la vittima, la pena può essere attenuata (art. 48*a*).
+<sup>4.</sup> Se il colpevole desiste dalla coazione e lascia libera la vittima, la pena può essere attenuata (art. 48*a*).[^185-2]
 
 <sup>5.</sup> È punibile anche chi commette il reato all’estero, se è arrestato in Svizzera e non è estradato. L’articolo 7 capoversi 4 e 5 è applicabile.[^185-3]
 
@@ -3374,9 +3383,11 @@ Chiunque, indebitamente e contro la volontà dell’avente diritto, s’introduc
 
 [^book2-tit5-1]: Nuovo testo giusta il n. I del DAF del 21 giu. 1991, in vigore dal 1° ott. 1992 ([RU 1992 1670](https://fedlex.data.admin.ch/eli/oc/1992/1670_1670_1670); [FF 1985 II 901](https://fedlex.data.admin.ch/eli/fga/1985/2_1009_1021_901)).
 
-### 1. Esposizione a pericolo dello sviluppo di minorenni.
+### 1. Atti sessuali con fanciulli
 
-### Atti sessuali con fanciulli
+[^book2-tit5-lvl1-1]
+
+[^book2-tit5-lvl1-1]: Nuovo testo giusta il n. I 1 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 #### Art. 187
 
@@ -3388,97 +3399,116 @@ coinvolge una tale persona in un atto sessuale,
 
 è punito con una pena detentiva sino a cinque anni o con una pena pecuniaria.
 
+1<sup>bis</sup>. Chiunque compie un atto sessuale con una persona minore di dodici anni o la induce a compiere un tale atto con un terzo o con un animale, è punito con una pena detentiva da uno a cinque anni.[^187-1]
+
 <sup>2.</sup> L’atto non è punibile se la differenza d’età tra le persone coinvolte non eccede i tre anni.
 
-<sup>3.</sup> Se il colpevole, al momento dellʼatto o del primo atto, non aveva ancora compiuto ventʼanni e sussistono circostanze particolari o se la vittima ha contratto con lui matrimonio o unʼunione domestica registrata, lʼautorità competente può prescindere dal procedimento penale, dal rinvio a giudizio o dalla punizione.[^187-1]
+<sup>3.</sup> Se il colpevole, al momento dell’atto o del primo atto, non aveva ancora compiuto i vent’anni e sussistono circostanze particolari, l’autorità competente può prescindere dal procedimento penale, dal rinvio a giudizio o dalla punizione.[^187-2]
 
 <sup>4.</sup> La pena è una pena detentiva sino a tre anni o una pena pecuniaria se il colpevole ha agito ritenendo erroneamente che la vittima avesse almeno sedici anni, benché usando la dovuta cautela gli fosse possibile evitare l’errore.
 
-5.[^187-2] ...
+<sup>5.</sup> ...[^187-3]
 
-6.[^187-3] ...
+<sup>6.</sup> ...[^187-4]
 
-[^187-1]: Nuovo testo giusta il n. I 1 della LF del 13 dic. 2013 sullʼinterdizione di esercitare unʼattività e sul divieto di avere contatti e di accedere ad aree determinate, in vigore dal 1° gen. 2015 ([RU 2014 2055](https://fedlex.data.admin.ch/eli/oc/2014/355); [FF 2012 7765](https://fedlex.data.admin.ch/eli/fga/2012/1575)).
-[^187-2]: Abrogato dal n. I della LF del 21 mar. 1997, con effetto dal 1° set. 1997 ([RU 1997 1626](https://fedlex.data.admin.ch/eli/oc/1997/1626_1626_1626); [FF 1996 IV 1135](https://fedlex.data.admin.ch/eli/fga/1996/4_1318_1315_1135), 1139).
-[^187-3]: Introdotto dal n. I della LF del 21 mar. 1997 ([RU 1997 1626](https://fedlex.data.admin.ch/eli/oc/1997/1626_1626_1626); [FF 1996 IV 1135](https://fedlex.data.admin.ch/eli/fga/1996/4_1318_1315_1135), 1139). Abrogato dal n. I della LF del 5 ott. 2001 (Prescrizione dell’azione penale in generale e in caso di reati sessuali commessi su fanciulli), con effetto dal 1° ott. 2002 ([RU 2002 2993](https://fedlex.data.admin.ch/eli/oc/2002/430); [FF 2000 2609](https://fedlex.data.admin.ch/eli/fga/2000/612)).
+[^187-1]: Introdotto dal n. I 1 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^187-2]: Nuovo testo giusta il n. I 1 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^187-3]: Abrogato dal n. I della LF del 21 mar. 1997, con effetto dal 1° set. 1997 ([RU 1997 1626](https://fedlex.data.admin.ch/eli/oc/1997/1626_1626_1626); [FF 1996 IV 1135](https://fedlex.data.admin.ch/eli/fga/1996/4_1318_1315_1135), 1139).
+[^187-4]: Introdotto dal n. I della LF del 21 mar. 1997 ([RU 1997 1626](https://fedlex.data.admin.ch/eli/oc/1997/1626_1626_1626); [FF 1996 IV 1135](https://fedlex.data.admin.ch/eli/fga/1996/4_1318_1315_1135), 1139). Abrogato dal n. I della LF del 5 ott. 2001 (Prescrizione dell’azione penale in generale e in caso di reati sessuali commessi su fanciulli), con effetto dal 1° ott. 2002 ([RU 2002 2993](https://fedlex.data.admin.ch/eli/oc/2002/430); [FF 2000 2609](https://fedlex.data.admin.ch/eli/fga/2000/612)).
+
+### 2. Offese alla libertà e all’integrità sessuali
 
 ### Atti sessuali con persone dipendenti
 
 #### Art. 188
 
-<sup>1.</sup> Chiunque, profittando di rapporti di educazione, di fiducia, di lavoro o comunque di dipendenza, compie un atto sessuale con un minorenne di età superiore ai sedici anni,
+[^188-1]
+
+Chiunque, profittando di rapporti di educazione, di fiducia, di lavoro o comunque di dipendenza, compie un atto sessuale con un minorenne di almeno sedici anni di età,
 
 chiunque induce una tale persona ad un atto sessuale, profittando della dipendenza in cui essa si trova,
 
-è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.
+è punito con una pena detentiva sino a cinque anni o con una pena pecuniaria.
 
-<sup>2.</sup> Se la vittima ha contratto successivamente matrimonio o un’unione domestica registrata con il colpevole, l’autorità competente può prescindere dal procedimento penale, dal rinvio a giudizio o dalla punizione.[^188-1]
+[^188-1]: Nuovo testo giusta il n. I 1 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
-[^188-1]: Nuovo testo giusta l’all. n. 18 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-
-### 2. Offese alla libertà ed all’onore sessuali.
-
-### Coazione sessuale
+### Aggressione e coazione sessuali
 
 #### Art. 189
 
-<sup>1</sup> Chiunque costringe una persona a subire un atto analogo alla congiunzione carnale o un altro atto sessuale, segnatamente usando minaccia o violenza, esercitando pressioni psicologiche su di lei o rendendola inetta a resistere, è punito con una pena detentiva sino a dieci anni o con una pena pecuniaria.
+[^189-1]
 
-<sup>2</sup> ...[^189-1]
+<sup>1</sup> Chiunque, contro la volontà di una persona, le fa compiere o subire un atto sessuale, o a tale scopo sfrutta lo stato di choc di una persona, è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.
 
-<sup>3</sup> Se il colpevole ha agito con crudeltà, segnatamente se ha fatto uso di un’arma pericolosa o di un altro oggetto pericoloso, la pena è una pena detentiva non inferiore a tre anni.[^189-2]
+<sup>2</sup> Chiunque costringe una persona a compiere o subire un atto sessuale, segnatamente usando minaccia o violenza, esercitando pressioni psicologiche su di lei o rendendola inetta a resistere, è punito con una pena detentiva sino a dieci anni o con una pena pecuniaria.
 
-[^189-1]: Abrogato dal n. I della LF del 3 ott. 2003 (Perseguimento dei reati commessi tra coniugi o tra partner), con effetto dal 1° apr. 2004 ([RU 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [FF 2003 1732](https://fedlex.data.admin.ch/eli/fga/2003/226), [1761](https://fedlex.data.admin.ch/eli/fga/2003/228)).
-[^189-2]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (Perseguimento dei reati commessi tra coniugi o tra partner), in vigore dal 1° apr. 2004 ([RU 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [FF 2003 1732](https://fedlex.data.admin.ch/eli/fga/2003/226), [1761](https://fedlex.data.admin.ch/eli/fga/2003/228)).
+<sup>3</sup> Se il colpevole secondo il capoverso 2 ha agito con crudeltà oppure se ha fatto uso di un’arma pericolosa o di un altro oggetto pericoloso, la pena è una pena detentiva non inferiore a un anno.
+
+[^189-1]: Nuovo testo giusta il n. I 1 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 ### Violenza carnale
 
 #### Art. 190
 
-<sup>1</sup> Chiunque costringe una persona di sesso femminile a subire la congiunzione carnale, segnatamente usando minaccia o violenza, esercitando pressioni psicologiche su di lei o rendendola inetta a resistere, è punito con una pena detentiva da uno a dieci anni.
+[^190-1]
 
-<sup>2</sup> ...[^190-1]
+<sup>1</sup> Chiunque, contro la volontà di una persona, le fa compiere o subire la congiunzione carnale o un atto analogo che implica una penetrazione corporale, o a tale scopo sfrutta lo stato di choc di una persona, è punito con una pena detentiva sino a cinque anni.
 
-<sup>3</sup> Se il colpevole ha agito con crudeltà, segnatamente se ha fatto uso di un’arma pericolosa o di un altro oggetto pericoloso, la pena è una pena detentiva non inferiore a tre anni.[^190-2]
+<sup>2</sup> Chiunque costringe una persona a compiere o subire la congiunzione carnale o un atto analogo che implica una penetrazione corporale, segnatamente usando minaccia o violenza, esercitando pressioni psicologiche su di lei o rendendola inetta a resistere, è punito con una pena detentiva da uno a dieci anni.
 
-[^190-1]: Abrogato dal n. I della LF del 3 ott. 2003 (Perseguimento dei reati commessi tra coniugi o tra partner), con effetto dal 1° apr. 2004 ([RU 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [FF 2003 1732](https://fedlex.data.admin.ch/eli/fga/2003/226), [1761](https://fedlex.data.admin.ch/eli/fga/2003/228)).
-[^190-2]: Nuovo testo giusta il n. I della LF del 3 ott. 2003 (Perseguimento dei reati commessi tra coniugi o tra partner), in vigore dal 1° apr. 2004 ([RU 2004 1403](https://fedlex.data.admin.ch/eli/oc/2004/176); [FF 2003 1732](https://fedlex.data.admin.ch/eli/fga/2003/226), [1761](https://fedlex.data.admin.ch/eli/fga/2003/228)).
+<sup>3</sup> Se il colpevole secondo il capoverso 2 ha agito con crudeltà oppure se ha fatto uso di un’arma pericolosa o di un altro oggetto pericoloso, la pena è una pena detentiva non inferiore a tre anni.
+
+[^190-1]: Nuovo testo giusta il n. I 1 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 ### Atti sessuali con persone incapaci di discernimento o inette a resistere
 
 #### Art. 191
 
-Chiunque, conoscendone e sfruttandone lo stato, si congiunge carnalmente o compie un atto analogo alla congiunzione carnale o un altro atto sessuale con una persona incapace di discernimento od inetta a resistere, è punito con una pena detentiva sino a dieci anni o con una pena pecuniaria.
+[^191-1]
 
-### Atti sessuali con persone ricoverate, detenute od imputate
+Chiunque profitta del fatto che una persona è incapace di discernimento o inetta a resistere per farle compiere o subire la congiunzione carnale, un atto analogo o un altro atto sessuale, è punito con una pena detentiva sino a dieci anni o con una pena pecuniaria.
+
+[^191-1]: Nuovo testo giusta il n. I 1 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 #### Art. 192
 
-<sup>1</sup> Chiunque, profittando di un rapporto di dipendenza, induce una persona ricoverata o collocata in uno stabilimento, detenuta, incarcerata o imputata, a commettere o a subire un atto sessuale, è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.
+[^192-1]
 
-<sup>2</sup> Se la vittima ha contratto matrimonio o un’unione domestica registrata con il colpevole, l’autorità competente può prescindere dal procedimento penale, dal rinvio a giudizio o dalla punizione.[^192-1]
+[^192-1]: Abrogato dal n. I 1 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, con effetto dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
-[^192-1]: Nuovo testo giusta l’all. n. 18 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
-
-### Sfruttamento dello stato di bisogno
+### Sfruttamento dello stato di bisogno o di dipendenza
 
 #### Art. 193
 
-<sup>1</sup> Chiunque, sfruttandone lo stato di bisogno o profittando di rapporti di lavoro o comunque di dipendenza, determina una persona a compiere o a subire un atto sessuale, è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.
+[^193-1]
 
-<sup>2</sup> Se la vittima ha contratto matrimonio o un’unione domestica registrata con il colpevole, l’autorità competente può prescindere dal procedimento penale, dal rinvio a giudizio o dalla punizione.[^193-1]
+Chiunque, sfruttandone lo stato di bisogno o profittando di rapporti di lavoro o comunque di dipendenza, determina una persona a compiere o a subire un atto sessuale, è punito con una pena detentiva sino a cinque anni o con una pena pecuniaria.
 
-[^193-1]: Nuovo testo giusta l’all. n. 18 della L del 18 giu. 2004 sull’unione domestica registrata, in vigore dal 1° gen. 2007 ([RU 2005 5685](https://fedlex.data.admin.ch/eli/oc/2005/782); [FF 2003 1165](https://fedlex.data.admin.ch/eli/fga/2003/194)).
+[^193-1]: Nuovo testo giusta il n. I 1 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+
+### Inganno circa il carattere sessuale di un atto
+
+#### Art. 193a
+
+[^193a-1]
+
+Chiunque nell’esercizio di un’attività professionale o extraprofessionale organizzata nel settore sanitario fa compiere o subire ad una persona un atto sessuale ingannandola circa il carattere dell’atto o sfruttandone l’errore relativo al carattere dell’atto, è punito con una pena detentiva sino a cinque anni o con una pena pecuniaria.
+
+[^193a-1]: Introdotto dal n. I 1 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 ### Esibizionismo
 
 #### Art. 194
 
-<sup>1</sup> Chiunque compie un atto esibizionistico è punito, a querela di parte, con una pena pecuniaria.[^194-1]
+[^194-1]
 
-<sup>2</sup> Se il colpevole si sottopone a trattamento medico, il procedimento penale può essere sospeso. Esso sarà ripreso se il colpevole si sarà sottratto al trattamento.
+<sup>1</sup> Chiunque compie un atto esibizionistico è punito, a querela di parte, con la multa.
 
-[^194-1]: Nuovo testo di parte del per. giusta il n. II 1 della LF del 19 giu. 2015 (Modifica della disciplina delle sanzioni), in vigore dal 1° gen. 2018 ([RU 2016 1249](https://fedlex.data.admin.ch/eli/oc/2016/249); [FF 2012 4181](https://fedlex.data.admin.ch/eli/fga/2012/670)).
+<sup>2</sup> Nei casi gravi la pena è una pena pecuniaria. Il reato è punito a querela di parte.
+
+<sup>3</sup> Se l’imputato si sottopone a trattamento medico su ordine dell’autorità competente, il procedimento è abbandonato.
+
+[^194-1]: Nuovo testo giusta il n. I 1 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 ### 3. Sfruttamento di atti sessuali.
 
@@ -3519,31 +3549,74 @@ Chiunque, in cambio di una rimunerazione o di una promessa di rimunerazione, com
 
 <sup>3</sup> Chiunque recluta un minorenne per farlo partecipare a una rappresentazione pornografica o lo induce a partecipare a una tale rappresentazione, è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.
 
-<sup>4</sup> Chiunque fabbrica, importa, tiene in deposito, mette in circolazione, propaganda, espone, offre, mostra, lascia o rende accessibili, acquista, si procura per via elettronica o in altro modo o possiede oggetti o rappresentazioni a tenore del capoverso 1, vertenti su atti sessuali con animali o atti violenti tra adulti o atti sessuali fittizi con minorenni, è punito con una pena detentiva sino a tre anni o con una pena pecuniaria. Se gli oggetti o le rappresentazioni vertono su atti sessuali reali con minorenni, la pena è una pena detentiva sino a cinque anni o una pena pecuniaria.
+<sup>4</sup> Chiunque fabbrica, importa, tiene in deposito, mette in circolazione, propaganda, espone, offre, mostra, lascia o rende accessibili, acquista, si procura per via elettronica o in altro modo o possiede oggetti o rappresentazioni a tenore del capoverso 1, vertenti su atti sessuali con animali o atti sessuali fittizi con minorenni, è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.
 
-<sup>5</sup> Chiunque consuma o fabbrica per il proprio consumo, importa, tiene in deposito, acquista, si procura per via elettronica o in altro modo o possiede oggetti o rappresentazioni a tenore del capoverso 1, vertenti su atti sessuali con animali, atti violenti tra adulti o atti sessuali fittizi con minorenni, è punito con una pena detentiva sino a un anno o con una pena pecuniaria. Se gli oggetti o le rappresentazioni vertono su atti sessuali reali con minorenni, la pena è una pena detentiva sino a tre anni o una pena pecuniaria.
+Se gli oggetti o le rappresentazioni vertono su atti sessuali reali con minorenni, la pena è una pena detentiva sino a cinque anni o una pena pecuniaria.[^197-2]
+
+<sup>5</sup> Chiunque consuma o fabbrica per il proprio consumo, importa, tiene in deposito, acquista, si procura per via elettronica o in altro modo o possiede oggetti o rappresentazioni a tenore del capoverso 1, vertenti su atti sessuali con animali o atti sessuali fittizi con minorenni, è punito con una pena detentiva sino a un anno o con una pena pecuniaria.
+
+Se gli oggetti o le rappresentazioni vertono su atti sessuali reali con minorenni, la pena è una pena detentiva sino a tre anni o una pena pecuniaria.[^197-3]
 
 <sup>6</sup> Nel caso di reati a tenore dei capoversi 4 e 5 gli oggetti sono confiscati.
 
-<sup>7</sup> Se l’autore ha agito per fine di lucro, la pena detentiva è cumulata con una pena pecuniaria.
+<sup>7</sup> ...[^197-4]
 
-<sup>8</sup> Sono esenti da pena i minorenni di età superiore ai sedici anni che fabbricano, possiedono o consumano, con il loro consenso, oggetti o rappresentazioni a tenore del capoverso 1 che li raffigurano.
+<sup>8</sup>
+
+Chiunque fabbrica, possiede, consuma oggetti o rappresentazioni a tenore del capoverso 1 raffiguranti un minorenne o li rende accessibili al minorenne raffigurato, è esente da pena se:
+
+- a. il minorenne vi ha acconsentito;
+- b. la persona che fabbrica oggetti o rappresentazioni non dà o promette alcuna rimunerazione; e
+- c. la differenza d’età tra le persone coinvolte non eccede i tre anni.[^197-5]
+
+<sup>8bis</sup> Sono esenti da pena i minorenni che fabbricano, possiedono o consumano oggetti o rappresentazioni a tenore del capoverso 1 che li raffigurano o rendono accessibili tali oggetti o rappresentazioni ad un’altra persona con il suo consenso.
+
+La persona che possiede e consuma gli oggetti o le rappresentazioni che le sono resi accessibili è esente da pena se:
+
+- a. non dà o promette alcuna rimunerazione;
+- b. le persone coinvolte si conoscono personalmente; e
+- c. le persone coinvolte sono maggiorenni o, nel caso in cui almeno una persona sia minorenne, la differenza d’età non eccede i tre anni.[^197-6]
 
 <sup>9</sup> Gli oggetti o rappresentazioni a tenore dei capoversi 1–5 non sono considerati pornografici se hanno un valore culturale o scientifico degno di protezione.
 
 [^197-1]: Nuovo testo giusta l’all. n. 1 del DF del 27 set. 2013 (Convenzione di Lanzarote), in vigore dal 1° lug. 2014 ([RU 2014 1159](https://fedlex.data.admin.ch/eli/oc/2014/248); [FF 2012 6761](https://fedlex.data.admin.ch/eli/fga/2012/1181)).
+[^197-2]: Nuovo testo giusta il n. I 1 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^197-3]: Nuovo testo giusta il n. I 1 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^197-4]: Abrogato dal n. I 1 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, con effetto dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^197-5]: Nuovo testo giusta il n. I 1 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+[^197-6]: Introdotto dal n. I 1 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
-### 5. Contravvenzioni contro l’integrità sessuale.
+### 5. Condivisione indebita di contenuti sessuali non pubblici
+
+#### Art. 197a
+
+[^197a-1]
+
+<sup>1</sup> Chiunque trasmette a terzi contenuti sessuali non pubblici, segnatamente scritti, registrazioni sonore o visive, immagini, oggetti o rappresentazioni senza il consenso della persona che vi è riconoscibile, è punito, a querela di parte, con una pena detentiva sino a un anno o con una pena pecuniaria.
+
+<sup>2</sup> Se l’autore ha reso pubblici i contenuti, la pena è una pena detentiva sino a tre anni o una pena pecuniaria.
+
+[^197a-1]: Introdotto dal n. I 1 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
+
+### 6. Contravvenzioni contro l’integrità sessuale
 
 ### Molestie sessuali
 
 #### Art. 198
 
-Chiunque causa scandalo compiendo un atto sessuale in presenza di una persona che non se lo aspettava,
+[^198-1]
 
-chiunque, mediante vie di fatto o, impudentemente, mediante parole, molesta sessualmente una persona,
+<sup>1</sup> Chiunque causa scandalo compiendo un atto sessuale in presenza di una persona che non se lo aspettava,
+
+chiunque, mediante vie di fatto o, impudentemente, mediante parole, scritti o immagini, molesta sessualmente una persona,
 
 è punito, a querela di parte, con la multa.
+
+<sup>2</sup> L’autorità competente può obbligare l’imputato a seguire un programma rieducativo. Se l’imputato porta a termine il programma, il procedimento è abbandonato.
+
+<sup>3</sup> L’autorità competente decide in merito ai costi del procedimento e a eventuali pretese della parte civile.
+
+[^198-1]: Nuovo testo giusta il n. I 1 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 ### Esercizio illecito della prostituzione
 
@@ -3551,11 +3624,15 @@ chiunque, mediante vie di fatto o, impudentemente, mediante parole, molesta sess
 
 Chiunque infrange le prescrizioni cantonali su il luogo, il tempo o le modalità dell’esercizio della prostituzione, nonché contro molesti fenomeni concomitanti, è punito con la multa.
 
-### 6. Reato collettivo
+### 7. Reato collettivo
 
 #### Art. 200
 
-Se un reato previsto nel presente titolo è stato commesso insieme da più persone, il giudice può aumentare la pena sino a una volta e mezzo quella comminata, ma senza andar oltre al massimo legale della specie di pena.
+[^200-1]
+
+Se un reato previsto nel presente titolo è stato commesso insieme da più persone, il giudice aumenta la pena. Non può tuttavia aumentare di oltre la metà il massimo della pena comminata. È in ogni modo vincolato al massimo legale della specie di pena.
+
+[^200-1]: Nuovo testo giusta il n. I 1 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 #### Art. 201 a 212
 
@@ -4168,7 +4245,7 @@ Chiunque diffonde lo spavento nella popolazione con la minaccia o con il falso a
 - a. Omicidio intenzionale (art. 111);
 - b. Assassinio (art. 112);
 - c. Lesioni gravi (art. 122);
-- [tab] c<sup>bis</sup>.[^260bis-2] Mutilazione di organi genitali femminili (art. 124);
+- c<sup>bis</sup>.[^260bis-2] Mutilazione di organi genitali femminili (art. 124);
 - d. Rapina (art. 140);
 - e. Sequestro di persona e rapimento (art. 183);
 - f. Presa d’ostaggio (art. 185);
@@ -4250,6 +4327,8 @@ Chiunque vende, loca, dona, lascia a disposizione di terzi o procura per mediazi
 #### Art. 260<sup>sexie</sup><sup>s</sup>
 
 [^260sexies-1]
+
+<sup>1</sup>
 
 È punito con una pena detentiva sino a cinque anni o con una pena pecuniaria chiunque, per commettere un atto di violenza criminale volto a intimidire la popolazione o a costringere uno Stato o un’organizzazione internazionale a fare o ad omettere un atto:
 
@@ -4355,7 +4434,7 @@ Chiunque, nell’intento di distruggere, del tutto o in parte, un gruppo naziona
 
 ### f. Tortura
 
-### g. Lesione dell’autodetermi- nazione sessuale
+### g. Lesione dell’autodeterminazione sessuale
 
 ### h. Deportazione o trasferimento forzato
 
@@ -4381,7 +4460,7 @@ Chiunque, nell’ambito di un attacco esteso o sistematico contro popolazioni ci
   - 2\. si rifiuta di fornire informazioni sulla sorte di tale persona o sul luogo in cui questa si trova, su mandato di uno Stato o di un’organizzazione politica oppure in violazione di un obbligo legale;
 
 - f. infligge a una persona di cui ha la custodia o il controllo grandi sofferenze o un grave danno al corpo o alla salute fisica o psichica;
-- g. stupra una persona di sesso femminile o, dopo che questa è stata resa gravida contro la sua volontà, la tiene sequestrata nell’intento di modificare la composizione etnica di una popolazione, costringe una persona a subire un atto sessuale di gravità analoga allo stupro o a prostituirsi, oppure la sottopone a sterilizzazione forzata;
+- g.[^264a-1] stupra una persona ai sensi dell’articolo 190 capoverso 2 o 3, le impone un atto di coazione sessuale ai sensi dell’articolo 189 capoverso 2 o 3 di gravità analoga, le fa compiere o subire un atto sessuale di gravità analoga, la costringe a prostituirsi o la sottopone a sterilizzazione forzata, oppure, dopo che questa è stata resa gravida contro la sua volontà, la tiene sequestrata nell’intento di modificare la composizione etnica di una popolazione;
 - h. deporta persone dalla regione nella quale si trovano legittimamente o le trasferisce con la forza in un altro luogo;
 - i. lede in modo grave i diritti fondamentali di un gruppo di persone non riconoscendo loro tali diritti, o privandole degli stessi, per motivi politici, razziali, etnici, religiosi, sociali o per altri motivi non ammessi dal diritto internazionale, in relazione a un reato previsto dal titolo dodicesimo<sup>bis</sup> o dodicesimo<sup>ter</sup> o ai fini dell’oppressione e dominazione sistematica di un gruppo razziale;
 - j. commette un altro atto di gravità paragonabile ai crimini indicati nel presente capoverso, che provoca a una persona grandi sofferenze o gravi danni al corpo o alla salute fisica o psichica,
@@ -4389,6 +4468,8 @@ Chiunque, nell’ambito di un attacco esteso o sistematico contro popolazioni ci
 <sup>2</sup> In casi particolarmente gravi, segnatamente se il reato è commesso nei confronti di molte persone o se l’autore agisce in modo crudele, il giudice può pronunciare la pena detentiva a vita.
 
 <sup>3</sup> Nei casi meno gravi rientranti nel campo d’applicazione del capoverso 1 lettere c–j il giudice non può pronunciare una pena detentiva inferiore a un anno.
+
+[^264a-1]: Nuovo testo giusta il n. I 1 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 ### Titolo dodicesimo<sup>ter</sup>: Crimini di guerra
 
@@ -4452,17 +4533,19 @@ Chiunque, nel contesto di un conflitto armato, dirige attacchi contro:
 
 #### Art. 264e
 
-<sup>1</sup> è punito con una pena detentiva non inferiore a tre anni.
+<sup>1</sup> è punito con una pena detentiva non inferiore a tre anni.[^264e-1]
 
 Chiunque, nel contesto di un conflitto armato:
 
-- a. cagiona gravi danni al corpo oppure viola o mette gravemente in pericolo la salute fisica o psichica di una persona protetta dal diritto internazionale, sottoponendola a un trattamento medico che il suo stato di salute non rende necessario e che non è conforme ai principi medici generalmente riconosciuti;
-- b. stupra una persona di sesso femminile protetta dal diritto internazionale o, dopo che questa è stata resa gravida contro la sua volontà, la tiene sequestrata nell’intento di modificare la composizione etnica di una popolazione, la costringe a subire un atto sessuale di gravità analoga allo stupro o a prostituirsi, oppure la sottopone a sterilizzazione forzata;
-- c. sottopone una persona protetta dal diritto internazionale a un trattamento gravemente umiliante o degradante,
+- a. cagiona gravi danni al corpo oppure viola o mette gravemente in pericolo la salute fisica o psichica di una persona protetta dal diritto internazionale umanitario, sottoponendola a un trattamento medico che il suo stato di salute non rende necessario e che non è conforme ai principi medici generalmente riconosciuti;
+- b. stupra una persona protetta dal diritto internazionale umanitario ai sensi dell’articolo 190 capoverso 2 o 3, le impone un atto di coazione sessuale ai sensi dell’articolo 189 capoverso 2 o 3 di gravità analoga, le fa compiere o subire un atto sessuale di gravità analoga, la costringe a prostituirsi o la sottopone a sterilizzazione forzata, oppure, dopo che questa è stata resa gravida contro la sua volontà, la tiene sequestrata nell’intento di modificare la composizione etnica di una popolazione;
+- c. sottopone una persona protetta dal diritto internazionale umanitario a un trattamento gravemente umiliante o degradante,
 
 <sup>2</sup> In casi particolarmente gravi, segnatamente se il reato è commesso nei confronti di molte persone o se l’autore agisce in modo crudele, il giudice può pronunciare la pena detentiva a vita.
 
 <sup>3</sup> Nei casi meno gravi il giudice non può pronunciare una pena detentiva inferiore a un anno.
+
+[^264e-1]: Nuovo testo giusta il n. I 1 della LF del 16 giu. 2023 sulla revisione del diritto penale in materia sessuale, in vigore dal 1° lug. 2024 ([RU 2024 27](https://fedlex.data.admin.ch/eli/oc/2024/27); [FF 2018 2345](https://fedlex.data.admin.ch/eli/fga/2018/1154); [2022 687](https://fedlex.data.admin.ch/eli/fga/2022/687), [1011](https://fedlex.data.admin.ch/eli/fga/2022/1011)).
 
 ### c. Reclutamento e impiego di bambini-soldato
 
@@ -5124,7 +5207,7 @@ chiunque falsamente incolpa, presso l’autorità, sé medesimo di un atto punib
 
 [^305bis-1]
 
-\1. Chiunque compie un atto suscettibile di vanificare l’accertamento dell’origine, il ritrovamento o la confisca di valori patrimoniali sapendo o dovendo presumere che provengono da un crimine o da un delitto fiscale qualificato, è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.[^305bis-2]
+<sup>1.</sup> Chiunque compie un atto suscettibile di vanificare l’accertamento dell’origine, il ritrovamento o la confisca di valori patrimoniali sapendo o dovendo presumere che provengono da un crimine o da un delitto fiscale qualificato, è punito con una pena detentiva sino a tre anni o con una pena pecuniaria.[^305bis-2]
 
 1<sup>bis</sup>. Sono considerati delitto fiscale qualificato i reati di cui all’articolo 186 della legge federale del 14 dicembre 1990[^305bis-3] sull’imposta federale diretta e all’articolo 59 capoverso 1 primo comma della legge federale del 14 dicembre 1990[^305bis-4] sull’armonizzazione delle imposte dirette dei Cantoni e dei Comuni, se le imposte sottratte ammontano a oltre 300 000 franchi per periodo fiscale.[^305bis-5]
 
@@ -6053,19 +6136,19 @@ L’interessato può chiedere all’IFPDT di verificare se gli eventuali dati ch
 
 [^book3-tit4-lvl2-lvla-1]: Nuovo testo giusta l’all. 1 n. II 8 del Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
-### b. Compiti
-
-[^book3-tit4-lvl2-lvlb-1]
-
-[^book3-tit4-lvl2-lvlb-1]: Nuovo testo giusta l’all. 1 n. II 8 del Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
-
 #### Art. 350
 
 <sup>1</sup> L’Ufficio federale di polizia assume i compiti di ufficio centrale nazionale ai sensi degli statuti dell’Organizzazione internazionale di polizia criminale (INTERPOL).
 
 <sup>2</sup> Esso è competente a mediare scambi d’informazioni tra le autorità federali e cantonali preposte al perseguimento penale, da un canto, e gli uffici centrali nazionali di altri Stati e il Segretariato generale di INTERPOL, dall’altro.
 
-**Art. 351**
+### b. Compiti
+
+[^book3-tit4-lvl2-lvlb-1]
+
+[^book3-tit4-lvl2-lvlb-1]: Nuovo testo giusta l’all. 1 n. II 8 del Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+
+#### Art. 351
 
 <sup>1</sup> L’Ufficio federale di polizia trasmette le informazioni di polizia criminale destinate al perseguimento di reati e all’esecuzione di pene e di misure.
 
@@ -6162,9 +6245,9 @@ I dati possono essere utilizzati:
 
 ### a. Scambio di dati
 
-[^book3-tit4-lvl4-lvla-1]
+[^book3-tit4-lvl5-lvla-1]
 
-[^book3-tit4-lvl4-lvla-1]: Nuovo testo giusta l’all. 1 n. II 8 del Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^book3-tit4-lvl5-lvla-1]: Nuovo testo giusta l’all. 1 n. II 8 del Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 #### Art. 355a
 
@@ -6185,9 +6268,9 @@ I dati possono essere utilizzati:
 
 ### b. Estensione del mandato
 
-[^book3-tit4-lvl4-lvlb-1]
+[^book3-tit4-lvl5-lvlb-1]
 
-[^book3-tit4-lvl4-lvlb-1]: Nuovo testo giusta l’all. 1 n. II 8 del Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
+[^book3-tit4-lvl5-lvlb-1]: Nuovo testo giusta l’all. 1 n. II 8 del Codice di procedura penale del 5 ott. 2007, in vigore dal 1° gen. 2011 ([RU 2010 1881](https://fedlex.data.admin.ch/eli/oc/2010/267); [FF 2006 989](https://fedlex.data.admin.ch/eli/fga/2006/124)).
 
 #### Art. 355b
 
