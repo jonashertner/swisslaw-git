@@ -4,13 +4,12 @@ number: "991.111"
 title: Verordnung über den Vollzug des Strassenverkehrsrechtes
 short: "Strassenverkehrsverordnung, SVV"
 language: de
-version: 2022-01-01
-valid_until: 2024-06-30
-version_adopted: 2021-11-10
+version: 2024-07-01
+version_adopted: 2024-03-13
 adopted: 1984-11-12
 in_force: 1985-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/991.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3132/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3525/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3132/pdf_file"
 
 (Strassenverkehrsverordnung, SVV)
 
-Vom 12.11.1984 (Stand 01.01.2022)
+Vom 12.11.1984 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -243,11 +242,9 @@ beschliesst:
 
 <sup>1</sup> Dem Departement Bau, Verkehr und Umwelt obliegt die Beratung der Gemeinden und Privaten.
 
-<sup>2</sup> Für die Kosten eines Verkehrsgutachtens gemäss Art. 108 Abs. 4 SSV und für die Beratung stellt das Departement Bau, Verkehr und Umwelt Gemeinden und Privaten Rechnung nach Aufwand.
+<sup>2</sup> …
 
-<sup>3</sup> Der Kostenansatz liegt nach Massgabe der Tätigkeit pro Stunde zwischen Fr. 75.– und Fr. 190.–. Die Auslagen richten sich nach der Verordnung über Spesen, Sitzungsgelder und übrige Entschädigungen vom 31. Januar 2001[^13-1].
-
-[^13-1]: SAR [165.171](https://gesetzessammlungen.ag.ch/data/165.171/de)
+<sup>3</sup> …
 
 ## 4. Strassenreklamen
 
@@ -419,17 +416,7 @@ beschliesst:
 
 #### § 24
 
-**Aufhebung bisherigen Rechts**
-
-<sup>1</sup> Es sind aufgehoben:
-
-- a) die Vollziehungsverordnung zum Bundesgesetz über den Motorfahrzeug- und Fahrradverkehr vom 12. Dezember 1932[^24-1], ausgenommen § 29 Abs. 2;
-- b) die Verordnung über die Einführung des Verkehrsunterrichtes für Fahrzeugführer vom 13. März 1978[^24-2];
-- c) die Vollziehungsverordnung zur bundesrätlichen Verordnung über die Arbeits- und Ruhezeit der berufsmässigen Motorfahrzeugführer vom 17. August 1981[^24-3].
-
-[^24-1]: aufgehoben (AGS 1996 S. 356)
-[^24-2]: AGS Bd. 9 S. 554
-[^24-3]: AGS Bd. 10 S. 413
+**…**
 
 #### § 25
 
