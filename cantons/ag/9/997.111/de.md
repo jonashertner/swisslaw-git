@@ -3,30 +3,28 @@ canton: AG
 number: "997.111"
 title: Verordnung über die Schifffahrt
 language: de
-version: 2024-05-01
-valid_until: 2024-06-30
-version_adopted: 2024-04-03
+version: 2024-07-01
+version_adopted: 2024-03-13
 adopted: 1981-01-26
 in_force: 1981-04-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/997.111"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3428/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3527/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Schifffahrt
 
-Vom 26.01.1981 (Stand 01.05.2024)
+Vom 26.01.1981 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
-gestützt auf die §§ 4 Abs. 2, 5 Abs. 3 und 5, 6, 7 Abs. 1, 8 Abs. 2, 9–11 und 18–19 des Einführungsgesetzes zum Bundesgesetz über die Binnenschifffahrt vom 7. Mai 1980[^ingress-1], § 6 Abs. 2 des Wassernutzungsgesetzes (WnG) vom 11. März 2008[^ingress-2] sowie § 2 des Dekrets über die durch den Staat zu beziehenden Gebühren vom 23. November 1977[^ingress-3],
+gestützt auf die §§ 4 Abs. 2, 5 Abs. 3 und 5, 6, 7 Abs. 1, 8 Abs. 2, 9–11 und 18–19 des Einführungsgesetzes zum Bundesgesetz über die Binnenschifffahrt vom 7. Mai 1980[^ingress-1] sowie § 6 Abs. 2 des Wassernutzungsgesetzes (WnG) vom 11. März 2008[^ingress-2],
 
 beschliesst:
 
 [^ingress-1]: SAR [997.100](https://gesetzessammlungen.ag.ch/data/997.100/de)
 [^ingress-2]: SAR [764.100](https://gesetzessammlungen.ag.ch/data/764.100/de)
-[^ingress-3]: SAR [661.110](https://gesetzessammlungen.ag.ch/data/661.110/de)
 
 ## 1. Geltungsbereich
 
@@ -332,101 +330,45 @@ beschliesst:
 
 **…**
 
-## 6. Gebühren
+## 6.
 
 #### § 24
 
-**Praktische Prüfungen**
-
-<sup>1</sup> Die Prüfungsgebühren werden nach dem zeitlichen Aufwand festgesetzt. Der Stundenansatz beträgt Fr. 125.–.
-
-<sup>2</sup> Das Strassenverkehrsamt setzt die Dauer der Schiffs- und Schiffsführerprüfungen fest.
-
-<sup>3</sup> Bei auswärtigen Prüfungen werden die Dienstkilometer und Zuschläge auf Prüfungsgebühren wie folgt berechnet:
-
-- a) Kilometerentschädigung — Fr. –.80
-- b) Zuschläge — nach Aufwand 10–25 % der Prüfungsgebühr
-
-<sup>4</sup> Bei der Abnahme von mehreren Schiffen oder Schiffsprüfungen am gleichen Ort oder am gleichen Tag werden die Kilometerentschädigung und die Zuschläge gemäss Absatz 3 verursachergerecht verteilt.
+**…**
 
 #### § 25
 
-**Theorieprüfungen**
-
-<sup>1</sup> Für Theorieprüfungen sind folgende Gebühren zu entrichten:
-
-- a) Gruppenprüfung — Fr. 30.–
-- b) Einzelprüfung nach dem Stundenansatz gemäss § 24 Abs. 1
+**…**
 
 #### § 26
 
-**Fernbleiben von einer Prüfung**
-
-<sup>1</sup> Bei unentschuldigtem oder zu spät entschuldigtem Fernbleiben von einer Prüfung ist die Gebühr für die reservierte Zeit zu entrichten.
+**…**
 
 #### § 27
 
-**Schiffsführerausweise**
-
-<sup>1</sup> Die Gebühren für Schiffsführerausweise betragen:
-
-- a) Schiffsführerausweis — Fr. 50.–
-- b) Duplikat, internationaler Schiffsführerausweis — Fr. 35.–
-- c) Eintrag einer weiteren Kategorie in den Schiffsführerausweis, Umschreibung eines ausserkantonalen oder eidgenössischen Schiffsführerausweises, Namensänderung oder Einbürgerung — Fr. 35.–
-- d) Eintragung von Adressänderungen und Auflagen — gratis
+**…**
 
 #### § 28
 
-**Schiffsausweise**
-
-<sup>1</sup> Die Gebühren für Schiffsausweise betragen:
-
-- a) Schiffsausweis für alle Kategorien — Fr. 50.–
-- b) Duplikat, internationaler Schiffsausweis, Versicherungswechsel — Fr. 35.–
-- c) Änderung des Schiffsausweises — Fr. 25.–
-- d) Saisonbewilligung für Segelschiffe ohne Standplatz auf dem Hallwilersee pauschal — Fr. 25.–
-- e) Eintrag von Adressänderungen — gratis
+**…**
 
 #### § 29
 
-**Bewilligungen**
-
-<sup>1</sup> Für die folgenden Bewilligungen betragen die Gebühren:
-
-- a) Nautische Veranstaltungen — bis Fr. 500.–
-- b) Ausnahmebewilligungen, Erstellen von Schiffsprüfberichten — Fr. 20.– bis Fr. 200.–
-- c) Für die übrigen nicht ausdrücklich genannten Bewilligungen — bis Fr. 300.–
-
-<sup>2</sup> Für mehrjährige Bewilligungen von nautischen Veranstaltungen kann die Gebühr bis auf das Doppelte des vorgesehenen Höchstbetrags erhöht werden.
+**…**
 
 #### § 30
 
-**Rettungskosten**
-
-<sup>1</sup> Die Kosten für Rettungseinsätze werden nach dem Aufwand berechnet. Der Stundenansatz beträgt Fr. 60.– pro Mann und Fr. 85.– für ein Rettungsboot mit Maschinenantrieb.
+**…**
 
 #### § 31
 
-**Administrative Umtriebe**
-
-<sup>1</sup> Für zusätzliche Umtriebe beim Bezug der Steuern und Gebühren, bei zeitaufwändigen Nachforschungen sowie beim Entzug und Einzug von Ausweisen betragen die Gebühren:
-
-- a) Entzug oder Androhung des Entzugs von Schiffsführer- und Schiffsausweisen — Fr. 20.– bis Fr. 200.–
-- b) Auftrag an die Polizei zum Einzug von Ausweisen — Fr. 125.–
-- c) Zeitaufwändige Nachforschungen, zusätzliche Umtriebe beim Bezug von Schiffssteuern, Gebühren und damit zusammenhängenden Auskunftserteilungen sowie die Zustellung von nicht abgeholten Postsendungen — bis Fr. 200.–
-- d) …
+**…**
 
 #### § 32
 
-**Erlass und Ermässigung**
+**…**
 
-<sup>1</sup> Die Prüfungsgebühren werden Gebrechlichen erlassen.
-
-<sup>2</sup> Die Gebühren für Bewilligungen, die entweder wegen Rückzug der Gesuche nicht erteilt werden oder verweigert werden müssen, werden ermässigt.
-
-<sup>3</sup> Das Strassenverkehrsamt kann in Härtefällen Gebühren erlassen oder ermässigen.
-
-## 7. Bezug der Steuern und Gebühren
+## 7. Bezug der Steuern
 
 #### § 33
 
@@ -450,9 +392,9 @@ beschliesst:
 
 **Bezug**
 
-<sup>1</sup> Die Steuern und Gebühren können durch Vorauszahlung, Barzahlung oder durch Zustellung einer Rechnung oder Nachnahme erhoben werden. Bei Nachnahmezustellung werden die Postspesen in Rechnung gestellt.
+<sup>1</sup> Die Steuern können durch Vorauszahlung, Barzahlung oder durch Zustellung einer Rechnung oder Nachnahme erhoben werden. Bei Nachnahmezustellung werden die Postspesen in Rechnung gestellt.
 
-<sup>2</sup> Bei der Berechnung der Steuern und Gebühren werden Bruchteile von Franken auf- oder abgerundet.
+<sup>2</sup> Bei der Berechnung der Steuern werden Bruchteile von Franken auf- oder abgerundet.
 
 #### § 36
 
@@ -513,8 +455,8 @@ beschliesst:
 
 <sup>1</sup> Dem Strassenverkehrsamt obliegen:
 
-- a) die Zulassung von Schiffsführern und Schiffen zum Verkehr sowie der Entzug von Schiffsführer- und Schiffsausweisen;
-- b) der Bezug von Steuern und Gebühren;
+- a) die Zulassung von Schiffsführern und Schiffen zum Verkehr, die Festlegung der Prüfungsmodalitäten sowie der Entzug von Schiffsführer- und Schiffsausweisen,
+- b) der Bezug von Steuern,
 - c) die Ermässigung der Steuern;
 - d) …
 - e) die Erteilung von Bewilligungen zum Betrieb einer Fahr- und Segelschule.
@@ -540,7 +482,7 @@ beschliesst:
 - b) die Erteilung von Bewilligungen für nautische Veranstaltungen,
 - c) den Erlass von Verkehrsbeschränkungen,
 - d) die Signalisation mit Unterhalt der Sturmwarnleuchten,
-- e) den Bezug der entsprechenden Gebühren,
+- e) …
 - f) die Prüfung und Vorbereitung des Erlasses von Verboten der Schifffahrt, namentlich bei neuen Wassersportarten, wenn hauptsächlich der Natur-, Landschaft- oder Umweltschutz betroffen sind.
 
 ## 9. Übergangs- und Schlussbestimmungen
@@ -553,25 +495,11 @@ beschliesst:
 
 <sup>2</sup> Muss einem im Verkehr stehenden Schiff ein neues Kennzeichen gemäss § 2 zugeteilt werden, so wird der Schiffsausweis kostenlos ausgestellt.
 
-<sup>3</sup> Die Schiffssteuer für das Jahr 1981 wird nach abgeschlossener Datenerfassung eingefordert.
+<sup>3</sup> …
 
 #### § 45
 
-**Aufhebung bisherigen Rechts**
-
-<sup>1</sup> Es sind aufgehoben:
-
-- a) die Verordnung über den Betrieb öffentlicher Fähren vom 8. Mai 1931[^45-1];
-- b) die Verordnung über die Regelung des Schiffsverkehrs auf dem Hallwilersee vom 14. April 1964[^45-2];
-- c) § 4 Abs. 2 der Verordnung über den Schutz der Reuss und ihrer Ufer vom 17. März 1966[^45-3];
-- d) § 3 der Verordnung über den vorsorglichen Schutz des Flachsees Unterlunkhofen vom 5. April 1976[^45-4];
-- e) die Verordnung über die Gebühren in der Schifffahrt vom 31. März 1980[^45-5].
-
-[^45-1]: AGS Bd. 2 S. 437
-[^45-2]: AGS Bd. 6 S. 77
-[^45-3]: SAR [761.520](https://gesetzessammlungen.ag.ch/data/761.520/de)
-[^45-4]: AGS Bd. 9 S. 300
-[^45-5]: AGS Bd. 10 S. 136
+**…**
 
 #### § 46
 
