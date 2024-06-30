@@ -4,13 +4,12 @@ number: "122.600"
 title: Einführungsgesetz zum Ausländerrecht
 short: EGAR
 language: de
-version: 2013-01-01
-valid_until: 2024-06-30
-version_adopted: 2011-12-06
+version: 2024-07-01
+version_adopted: 2023-09-19
 adopted: 2008-11-25
 in_force: 2009-05-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/122.600"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/1500/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3562/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/1500/pdf_file"
 
 (EGAR)
 
-Vom 25.11.2008 (Stand 01.01.2013)
+Vom 25.11.2008 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -59,7 +58,7 @@ beschliesst:
 
 <sup>3</sup> Die Anordnung von Zwangsmassnahmen und die Gewährung des rechtlichen Gehörs in diesen Verfahren erfolgt durch vom zuständigen Departement besonders ermächtigte Mitarbeitende des MIKA.
 
-<sup>4</sup> Das erstinstanzliche Verfahren ist kostenpflichtig. Der Regierungsrat legt durch Verordnung die durch das MIKA zu erhebenden Gebühren und Auslagen fest.
+<sup>4</sup> …
 
 <sup>5</sup> Der Regierungsrat kann weitere Behörden bezeichnen, die zum Erlass erstinstanzlicher Verfügungen gemäss diesem Gesetz befugt sind.
 
@@ -107,7 +106,7 @@ beschliesst:
 
 <sup>2</sup> Bedarf es im Einspracheverfahren zusätzlicher Sachverhaltsabklärungen, sind die entstehenden Auslagen unabhängig vom Verfahrensausgang der Einsprecherin oder dem Einsprecher in Rechnung zu stellen.
 
-<sup>3</sup> Für die mutmasslichen Auslagen kann unter Ansetzung einer angemessenen Frist ein Kostenvorschuss erhoben werden. Wird der Kostenvorschuss nicht geleistet, sind die Sachverhaltsabklärungen nur durchzuführen, soweit es die öffentlichen Interessen erfordern.
+<sup>3</sup> …
 
 #### § 9
 
@@ -313,7 +312,7 @@ beschliesst:
 
 <sup>1</sup> Erstinstanzliche Verfahren im Bereich der Zwangsmassnahmen, einschliesslich Haftüberprüfungen, sind unentgeltlich.
 
-<sup>2</sup> Bei Haftentlassungsgesuchen und in Beschwerdeverfahren kann von der Erhebung von Verfahrenskosten abgesehen werden, wenn die Einbringlichkeit der Forderung von vornherein unmöglich erscheint.
+<sup>2</sup> …
 
 ## 5. Massnahmen zur Integration
 
