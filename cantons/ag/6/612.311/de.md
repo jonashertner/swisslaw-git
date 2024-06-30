@@ -4,13 +4,13 @@ number: "612.311"
 title: Verordnung über die wirkungsorientierte Steuerung von Aufgaben und Finanzen
 short: VAF
 language: de
-version: 2024-05-01
-valid_until: 2024-06-30
-version_adopted: 2024-03-27
+version: 2024-07-01
+valid_until: 2024-12-31
+version_adopted: 2024-03-13
 adopted: 2012-12-05
 in_force: 2013-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/612.311"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3423/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3506/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3423/pdf_file"
 
 (VAF)
 
-Vom 05.12.2012 (Stand 01.05.2024)
+Vom 05.12.2012 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -285,7 +285,7 @@ beschliesst:
 
 <sup>2</sup> Erfordert die Umsetzung eines Vorhabens eine Aufteilung des Verpflichtungskredits auf mehrere Aufgabenbereiche, ist dies in der Kreditvorlage aufzuzeigen. Die Zuständigkeiten der an einem Verpflichtungskredit beteiligten Aufgabenbereiche oder Instanzen sind schriftlich festzulegen und dem DFR zur Kenntnis zu bringen.
 
-<sup>3</sup> Im Aufgabenbereich Immobilien stellt das Bedürfnisdepartement in der Regel Antrag für einen Verpflichtungskredit.
+<sup>3</sup> Im Aufgabenbereich Immobilien stellt das Nutzerdepartement in der Regel Antrag für einen Verpflichtungskredit.
 
 <sup>4</sup> Verpflichtungskredite im Bereich Hochbau werden im Aufgabenbereich Immobilien geführt. Davon ausgenommen sind Hochbauten im Aufgabenbereich Verkehrsinfrastruktur.
 
@@ -325,7 +325,7 @@ beschliesst:
 
 <sup>2</sup> Zur gemeinsamen Erfüllung dieser Aufgaben können Kompetenzzentren gebildet werden.
 
-<sup>3</sup> Forderungen sind bei Überschreitung der geltenden Zahlungsfristen gestützt auf § 6 des Gesetzes über die Verwaltungsrechtspflege (Verwaltungsrechtspflegegesetz, VRPG) vom 4. Dezember 2007[^24-1] in der Regel zu verzinsen. Ab der zweiten Mahnung wird jeweils eine Mahngebühr von Fr. 35.– erhoben.
+<sup>3</sup> Forderungen sind bei Überschreitung der geltenden Zahlungsfristen gestützt auf § 6 des Gesetzes über die Verwaltungsrechtspflege (Verwaltungsrechtspflegegesetz, VRPG) vom 4. Dezember 2007[^24-1] in der Regel zu verzinsen. Für die zweite Mahnung wird eine Mahngebühr erhoben.
 
 <sup>4</sup> Ein Zahlungsaufschub darf nur gewährt werden, wenn er die Erfüllung der Forderung nicht zusätzlich gefährdet.
 
@@ -418,13 +418,16 @@ beschliesst:
 - b) Unterstützung der zuständigen Instanzen in finanz- und betriebswirtschaftlichen Fragen,
 - c) Vorgaben zum internen Kontrollsystem,
 - d) periodische Berichterstattung über den Stand des Finanzhaushalts zuhanden des Regierungsrats,
-- e) Vorgaben zum Chancen- und Risikomanagement.
+- e) Vorgaben zum Chancen- und Risikomanagement,
+- f) Antragstellung betreffend die Verrechnungssätze gemäss § 2 Abs. 5 des Gebührendekrets (GebührD) vom 19. September 2023[^32-1]
 
 <sup>3</sup> Die Staatskanzlei erfüllt im Zusammenhang mit der Führungsunterstützung folgende Aufgabe:
 
 - a) …
 - b) Vorgaben zu einem stufengerechten Wirkungscontrolling in Zusammenarbeit mit dem DFR.
 - c) …
+
+[^32-1]: SAR [662.110](https://gesetzessammlungen.ag.ch/data/662.110/de)
 
 #### § 33
 
