@@ -1,27 +1,26 @@
 ---
 canton: FR
 number: "190.1"
-title: "Loi concernant les rapports entre les Eglises et l'Etat"
-short: LEE
+title: "Loi concernant les rapports entre les communautés confessionnelles et l'Etat"
+short: LRCCE
 language: fr
-version: 2011-01-01
-valid_until: 2024-06-30
-version_adopted: 2010-05-31
+version: 2024-07-01
+version_adopted: 2024-03-22
 adopted: 1990-09-26
 in_force: 1998-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/190.1"
-pdf: "https://bdlf.fr.ch/api/fr/versions/6378/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8419/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
 
-# Loi concernant les rapports entre les Eglises et l'Etat
+# Loi concernant les rapports entre les communautés confessionnelles et l'Etat
 
 Rapports entre les Eglises et l'Etat – L
 
-(LEE)
+(LRCCE)
 
-du 26.09.1990 (version entrée en vigueur le 01.01.2011)
+du 26.09.1990 (version entrée en vigueur le 01.07.2024)
 
 Le Grand Conseil du canton de Fribourg
 
@@ -39,9 +38,11 @@ Décrète:
 
 **Champ d'application**
 
-<sup>1</sup> La présente loi régit les rapports entre l'Etat et les Eglises reconnues de droit public par la Constitution cantonale, soit l'Eglise catholique romaine et l'Eglise évangélique réformée.
+<sup>1</sup> La présente loi régit les rapports entre l'Etat et les Eglises reconnues de droit public par la Constitution cantonale[^1-1], soit l'Eglise catholique romaine et l'Eglise évangélique réformée.
 
-<sup>2</sup> Elle ne s'applique pas aux communautés confessionnelles régies par le droit privé, à l'exception des articles 28 à 30 relatifs à l'octroi de prérogatives de droit public.
+<sup>2</sup> Elle ne s'applique pas aux communautés confessionnelles régies par le droit privé, à l'exception des articles 28 à 30b relatifs à l'octroi de prérogatives de droit public.
+
+[^1-1]: RSF [10.1](https://bdlf.fr.ch/data/10.1/fr)
 
 #### Art. 2
 
@@ -105,7 +106,9 @@ Décrète:
 
 **Membres – Appartenance et sortie**
 
-<sup>1</sup> Le Statut ecclésiastique détermine les conditions d'appartenance aux corporations ecclésiastiques. Il fixe également les modalités de la sortie dans les limites de l'article 49 de la Constitution fédérale.
+<sup>1</sup> Le Statut ecclésiastique détermine les conditions d'appartenance aux corporations ecclésiastiques. Il fixe également les modalités de la sortie dans les limites de l'article 49 de la Constitution fédérale[^9-1].
+
+[^9-1]: RS [101](https://db.clex.ch/link/Bund/101/fr)
 
 #### Art. 10
 
@@ -135,9 +138,11 @@ Décrète:
 
 <sup>1</sup> Les paroisses peuvent prélever des impôts pour subvenir à l'accomplissement de leurs tâches et assumer leurs obligations financières.
 
-<sup>2</sup> L'article 9 al. 1, 2, 3, 3<sup>bis</sup>, 5 et 6 et l'article 11 de la loi du 10 mai 1963 sur les impôts communaux s'appliquent par analogie au for de l'imposition et à la répartition entre les paroisses du droit d'imposer.
+<sup>2</sup> L'article 9 al. 1, 2, 3, 3<sup>bis</sup>, 5 et 6 et l'article 11 de la loi du 10 mai 1963 sur les impôts communaux[^12-1] s'appliquent par analogie au for de l'imposition et à la répartition entre les paroisses du droit d'imposer.
 
 <sup>3</sup> Les paroisses ont également droit à la part ecclésiastique de l'impôt prélevé à la source par le canton.
+
+[^12-1]: RSF [632.1](https://bdlf.fr.ch/data/632.1/fr)
 
 #### Art. 12a
 
@@ -156,7 +161,9 @@ Décrète:
 - a) les personnes physiques qui n'appartiennent pas à la confession d'une Eglise reconnue;
 - b) les personnes morales poursuivant un but religieux.
 
-<sup>3</sup> Pour le surplus, les exonérations prévues par la loi sur les impôts cantonaux, ou statuées conformément à celle-ci, sont applicables.
+<sup>3</sup> Pour le surplus, les exonérations prévues par la loi sur les impôts cantonaux[^13-1], ou statuées conformément à celle-ci, sont applicables.
+
+[^13-1]: RSF [631.1](https://bdlf.fr.ch/data/631.1/fr)
 
 #### Art. 14
 
@@ -199,7 +206,9 @@ Décrète:
 
 <sup>1</sup> Sous réserve de l'article 17a, les paroisses calculent le montant des impôts ecclésiastiques sur la base des taxations cantonales et procèdent à la perception. L'Etat et les communes communiquent sans délai et gratuitement les informations nécessaires.
 
-<sup>2</sup> Pour le surplus, les dispositions de la loi sur les impôts cantonaux directs relatives à la taxation fiscale ainsi qu'à la perception et à la garantie de l'impôt s'appliquent par analogie.
+<sup>2</sup> Pour le surplus, les dispositions de la loi sur les impôts cantonaux directs[^17-1] relatives à la taxation fiscale ainsi qu'à la perception et à la garantie de l'impôt s'appliquent par analogie.
+
+[^17-1]: RSF [631.1](https://bdlf.fr.ch/data/631.1/fr)
 
 #### Art. 17a
 
@@ -221,7 +230,10 @@ Décrète:
 
 <sup>3</sup> Le Tribunal cantonal connaît aussi des conflits de souveraineté fiscale entre paroisses.
 
-<sup>4</sup> La procédure est régie par l'application analogique des dispositions de la loi sur les impôts cantonaux relatives aux voies de droit et, au surplus, par le code de procédure et de juridiction administrative.
+<sup>4</sup> La procédure est régie par l'application analogique des dispositions de la loi sur les impôts cantonaux[^18-1] relatives aux voies de droit et, au surplus, par le code de procédure et de juridiction administrative[^18-2].
+
+[^18-1]: RSF [631.1](https://bdlf.fr.ch/data/631.1/fr)
+[^18-2]: RSF [150.1](https://bdlf.fr.ch/data/150.1/fr)
 
 ### 3.2 Tâches supraparoissiales ou cantonales et péréquation financière
 
@@ -273,9 +285,11 @@ Décrète:
 
 **Collaboration administrative**
 
-<sup>1</sup> L'Etat et les communes collaborent gratuitement à l'établissement du registre des membres des corporations ecclésiastiques. Ils fournissent notamment à ces dernières les données relatives à l'appartenance confessionnelle des personnes concernées. L'article 16a de la loi du 23 mai 1986 sur le contrôle des habitants est applicable aux corporations ecclésiastiques.
+<sup>1</sup> L'Etat et les communes collaborent gratuitement à l'établissement du registre des membres des corporations ecclésiastiques. Ils fournissent notamment à ces dernières les données relatives à l'appartenance confessionnelle des personnes concernées. L'article 16a de la loi du 23 mai 1986 sur le contrôle des habitants[^24-1] est applicable aux corporations ecclésiastiques.
 
 <sup>2</sup> Aux conditions convenues entre les parties concernées, la collaboration administrative peut s'étendre à d'autres domaines, notamment à l'utilisation de locaux communaux.
+
+[^24-1]: RSF [114.21.1](https://bdlf.fr.ch/data/114.21.1/fr)
 
 #### Art. 25
 
@@ -293,7 +307,9 @@ Décrète:
 
 **Expropriation**
 
-<sup>1</sup> Aux conditions et selon la procédure déterminées par la loi sur l'expropriation, les corporations ecclésiastiques ont le droit d'exproprier pour la construction d'églises et d'autres ouvrages servant directement à l'accomplissement de leurs tâches.
+<sup>1</sup> Aux conditions et selon la procédure déterminées par la loi sur l'expropriation[^27-1], les corporations ecclésiastiques ont le droit d'exproprier pour la construction d'églises et d'autres ouvrages servant directement à l'accomplissement de leurs tâches.
+
+[^27-1]: RSF [76.1](https://bdlf.fr.ch/data/76.1/fr)
 
 ## 5 Octroi de prérogatives de droit public
 
@@ -301,15 +317,20 @@ Décrète:
 
 **Conditions d'octroi de prérogatives**
 
-<sup>1</sup> Sur requête, le Conseil d'Etat peut octroyer des prérogatives au sens de l'article 29 à une communauté confessionnelle régie par le droit privé, si celle-ci remplit les cinq conditions suivantes:
+<sup>1</sup> Sur requête, le Conseil d'Etat peut octroyer des prérogatives au sens de l'article 29 à une communauté confessionnelle régie par le droit privé, si elle remplit les conditions suivantes:
 
-- a) se réclamer d'un mouvement religieux traditionnel en Suisse ou d'importance universelle;
-- b) être membre du Conseil œcuménique des Eglises ou être présente dans le canton depuis trente ans;
-- c) compter cent membres au moins dans le canton;
-- d) être organisée sous la forme d'une association ayant son siège et un lieu de culte dans le canton;
-- e) respecter les principes fondamentaux de l'ordre juridique suisse.
+- a) être organisée sous la forme d'une association au sens des articles 60 et suivants du code civil suisse[^28-1], ayant son siège dans le canton;
+- b) se réclamer d'un mouvement religieux traditionnel en Suisse ou d'importance universelle;
+- c) respecter les principes constitutionnels fondamentaux et l'ordre juridique suisse;
+- d) respecter la paix confessionnelle et s'abstenir de tout prosélytisme contraire à l'ordre juridique suisse;
+- e) prendre part au dialogue interreligieux, intra-religieux ou œcuménique et le promouvoir au sein de ses membres;
+- f) reconnaître la primauté du droit civil et ne pas contester la connaissance scientifique enseignée dans les universités, les hautes écoles ou autres lieux d'enseignements publics;
+- g) tenir une comptabilité conforme aux règles usuelles en matière de comptabilité commerciale;
+- h) être présente dans le canton depuis trente ans ou compter mille membres au moins dans le canton.
 
-<sup>2</sup> La communauté joint à sa requête un exemplaire de ses statuts ainsi que tout autre document nécessaire à la vérification des conditions d'octroi.
+<sup>2</sup> …
+
+[^28-1]: RS [210](https://db.clex.ch/link/Bund/210/fr)
 
 #### Art. 29
 
@@ -320,10 +341,48 @@ Décrète:
 - a) la communication par les communes de l'arrivée ou du départ de toute personne ayant déclaré appartenir à la confession de la communauté en cause;
 - b) l'utilisation des locaux scolaires pour l'instruction religieuse des membres de la communauté durant la scolarité obligatoire;
 - c) le droit d'exercer l'aumônerie dans les établissements de l'Etat et des communes, en particulier dans les établissements hospitaliers, scolaires et pénitentiaires, auprès des membres de la communauté;
-- d) l'exonération fiscale au sens de l'article 21 let. c et f de la loi sur les impôts cantonaux;
-- e) les mêmes exonérations que celles dont bénéficient les Eglises reconnues en matière de droits de mutation, de droits sur les gages immobiliers ainsi que de droits de succession et de donation.
+- d) l'exonération fiscale accordée aux personnes morales poursuivant des buts cultuels au sens de la loi sur les impôts cantonaux directs (LICD)[^29-1];
+- e) les mêmes exonérations que celles dont bénéficient les Eglises reconnues en matière de droits de mutation, de droits sur les gages immobiliers ainsi que de droits de succession et de donation;
+- f) le droit d'exploiter des données informatiques nécessaires à l'exercice des prérogatives accordées. La législation sur la protection des données personnelles est applicable par analogie;
+- g) le droit d'être consulté pour tout projet législatif pouvant concerner la communauté.
 
-<sup>2</sup> Les conditions d'exercice des prérogatives sont précisées par l'acte d'octroi ou par convention.
+<sup>2</sup> Les conditions d'exercice des prérogatives sont précisées dans la décision d'octroi et la convention.
+
+[^29-1]: RSF [631.1](https://bdlf.fr.ch/data/631.1/fr)
+
+#### Art. 29a
+
+**Procédure d'octroi**
+
+<sup>1</sup> Toute demande d'octroi de prérogative doit être déposée auprès de la Direction en charge des institutions[^29a-1] (ci-après: la Direction). Elle est accompagnée:
+
+- a) d'une déclaration selon laquelle la communauté s'engage à respecter les conditions prévues à l'article 28;
+- b) d'un exemplaire des statuts de la communauté;
+- c) des éventuels documents complémentaires prévus dans la réglementation d'exécution.
+
+<sup>2</sup> Après le dépôt de la demande et au terme d'une validation de candidature, une période probatoire de cinq ans intervient dès l'adoption par la Direction d'une décision formelle d'ouverture et d'instruction du dossier.
+
+<sup>3</sup> La Direction instruit la demande. Elle peut solliciter le concours d'experts ou expertes externes ou nommer une commission d'évaluation.
+
+<sup>4</sup> Au terme de la procédure d'évaluation et d'instruction, la Direction propose au Conseil d'Etat une décision d'octroi de prérogative de droit public ainsi qu'un projet de convention entre l'Etat et la communauté confessionnelle concernée.
+
+[^29a-1]: Actuellement: Direction des institutions, de l'agriculture et des forêts.
+
+#### Art. 29b
+
+**Suivi des conditions d'octroi**
+
+<sup>1</sup> La Direction peut demander à la communauté confessionnelle ses documents comptables pour l'exercice écoulé.
+
+<sup>2</sup> La Direction peut également solliciter de la communauté toute information utile au contrôle du respect des conditions d'octroi.
+
+<sup>3</sup> La communauté confessionnelle transmet à la Direction toute modification statutaire ou information pertinente.
+
+<sup>4</sup> Toute violation des conditions d'octroi de prérogative de droit public peut faire l'objet des sanctions suivantes, prononcées par le Conseil d'Etat:
+
+- a) l'avertissement;
+- b) le retrait d'une ou plusieurs prérogatives pour une durée d'une à trois années;
+- c) la révocation d'une ou plusieurs prérogatives.
 
 #### Art. 30
 
@@ -334,6 +393,47 @@ Décrète:
 <sup>2</sup> Une communauté peut renoncer en tout temps aux prérogatives qui lui ont été octroyées.
 
 <sup>3</sup> Le Conseil d'Etat fixe la date à laquelle le retrait ou la renonciation prend effet.
+
+#### Art. 30a
+
+**Procédure décisionnelle**
+
+<sup>1</sup> Le code de procédure et de juridiction administrative est applicable[^30a-1].
+
+[^30a-1]: RSF [150.1](https://bdlf.fr.ch/data/150.1/fr)
+
+#### Art. 30b
+
+**Règlementation d'exécution**
+
+<sup>1</sup> Le Conseil d'Etat règle le détail des conditions et de la procédure d'octroi des prérogatives de droit public.
+
+## 5a Conseil cantonal pour les questions religieuses
+
+#### Art. 30c
+
+**Nomination et composition**
+
+<sup>1</sup> Une commission dénommée «Conseil cantonal pour les questions religieuses» (ci-après: le Conseil) est instituée pour traiter des questions religieuses dans le canton.
+
+<sup>2</sup> Le Conseil est composé de représentants ou de représentantes de l'Etat, de membres des Eglises reconnues et de membres des communautés confessionnelles éligibles à l'octroi de prérogatives. Tous et toutes sont nommés par le Conseil d'Etat.
+
+<sup>3</sup> Le Directeur ou la Directrice en charge des institutions préside le Conseil. Le secrétariat est assuré par une personne membre de la Direction.
+
+<sup>4</sup> Le Conseil peut s'adjoindre le soutien d'experts ou d'expertes.
+
+<sup>5</sup> Pour le surplus, les règles de fonctionnement du Conseil sont fixées par le Conseil d'Etat.
+
+#### Art. 30d
+
+**Buts**
+
+<sup>1</sup> Les buts du Conseil sont notamment les suivants:
+
+- a) être l'organe consultatif du Conseil d'Etat pour toutes les réflexions à conduire dans le cadre des rapports entre l'Etat, les Eglises reconnues et les communautés confessionnelles, les questions religieuses et le maintien de la paix confessionnelle dans le canton;
+- b) relayer les besoins des Eglises reconnues et des communautés confessionnelles auprès des autorités cantonales et communales et de celles-ci auprès des communautés;
+- c) contribuer à la paix confessionnelle dans le canton, tant à l'intérieur des communautés qu'entre elles, et avec la population;
+- d) promouvoir le dialogue entre les Eglises reconnues et les communautés confessionnelles, et entre ces communautés et les autorités cantonales et communales ainsi que la population.
 
 ## 6 Adoption des premiers Statuts
 
@@ -357,9 +457,12 @@ Décrète:
 
 <sup>1</sup> Les délégués paroissiaux sont élus par cercles, lesquels correspondent aux huit cercles pour l'élection des députés au Grand Conseil.
 
-<sup>2</sup> Les sièges sont répartis proportionnellement à la population catholique de chaque cercle selon le dernier recensement fédéral. L'article 76 al. 1 de la loi sur l'exercice des droits politiques s'applique par analogie à la répartition des sièges.
+<sup>2</sup> Les sièges sont répartis proportionnellement à la population catholique de chaque cercle selon le dernier recensement fédéral. L'article 76 al. 1 de la loi sur l'exercice des droits politiques[^32-1] s'applique par analogie à la répartition des sièges.
 
-<sup>3</sup> Pour le surplus, l'élection se déroule conformément aux règles applicables à l'élection des conseillers paroissiaux (art. 182 à 191 de la loi sur l'exercice des droits politiques).
+<sup>3</sup> Pour le surplus, l'élection se déroule conformément aux règles applicables à l'élection des conseillers paroissiaux (art. 182 à 191 de la loi sur l'exercice des droits politiques[^32-2]).
+
+[^32-1]: RSF [115.1](https://bdlf.fr.ch/data/115.1/fr)
+[^32-2]: RSF [115.1](https://bdlf.fr.ch/data/115.1/fr)
 
 #### Art. 33
 
@@ -413,9 +516,11 @@ Décrète:
 
 <sup>1</sup> Dans les cinq ans dès l'entrée en vigueur de la présente loi dans son régime ordinaire, l'Etat et les communes règlent définitivement, par convention conclue avec les parties concernées, les problèmes concernant les obligations liées à la restitution de biens ecclésiastiques ou d'autres obligations financières reposant sur des titres historiques. Le Conseil d'Etat veille à l'exécution dans le délai prévu de cette disposition.
 
-<sup>2</sup> Les contestations relatives au règlement des questions visées à l'alinéa 1 sont portées devant la Commission d'expropriation, qui statue sous réserve du recours prévu par la loi sur l'expropriation.
+<sup>2</sup> Les contestations relatives au règlement des questions visées à l'alinéa 1 sont portées devant la Commission d'expropriation, qui statue sous réserve du recours prévu par la loi sur l'expropriation[^38-1].
 
 <sup>3</sup> Jusqu'à règlement définitif, les droits reconnus antérieurement aux corporations ecclésiastiques et aux personnes juridiques canoniques demeurent réservés.
+
+[^38-1]: RSF [76.1](https://bdlf.fr.ch/data/76.1/fr)
 
 #### Art. 39
 

@@ -1,27 +1,26 @@
 ---
 canton: FR
 number: "190.1"
-title: Gesetz über die Beziehungen zwischen den Kirchen und dem Staat
-short: KSG
+title: Gesetz über die Beziehungen zwischen den Konfessionsgemeinschaften und dem Staat
+short: BKGSG
 language: de
-version: 2011-01-01
-valid_until: 2024-06-30
-version_adopted: 2010-05-31
+version: 2024-07-01
+version_adopted: 2024-03-22
 adopted: 1990-09-26
 in_force: 1998-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/190.1"
-pdf: "https://bdlf.fr.ch/api/de/versions/6378/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8419/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über die Beziehungen zwischen den Kirchen und dem Staat
+# Gesetz über die Beziehungen zwischen den Konfessionsgemeinschaften und dem Staat
 
 Beziehungen zwischen den Kirchen und dem Staat – G
 
-(KSG)
+(BKGSG)
 
-vom 26.09.1990 (Fassung in Kraft getreten am 01.01.2011)
+vom 26.09.1990 (Fassung in Kraft getreten am 01.07.2024)
 
 Der Grosse Rat des Kantons Freiburg
 
@@ -39,9 +38,11 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Dieses Gesetz regelt die Beziehungen zwischen dem Staat und den durch die Staatsverfassung des Kantons Freiburg öffentlich-rechtlich anerkannten Kirchen, nämlich der römisch-katholischen Kirche und der evangelisch-reformierten Kirche.
+<sup>1</sup> Dieses Gesetz regelt die Beziehungen zwischen dem Staat und den durch die Staatsverfassung des Kantons Freiburg[^1-1] öffentlich-rechtlich anerkannten Kirchen, nämlich der römisch-katholischen Kirche und der evangelisch-reformierten Kirche.
 
-<sup>2</sup> Es findet keine Anwendung auf die konfessionellen Gemeinschaften, die dem Privatrecht unterstellt sind; ausgenommen sind die Artikel 28-30 über die Gewährung von öffentlich-rechtlichen Vorrechten.
+<sup>2</sup> Es findet keine Anwendung auf die Konfessionsgemeinschaften, die dem Privatrecht unterstellt sind; ausgenommen sind die Artikel 28–30b über die Gewährung von öffentlich-rechtlichen Vorrechten.
+
+[^1-1]: SGF [10.1](https://bdlf.fr.ch/data/10.1/de)
 
 #### Art. 2
 
@@ -105,7 +106,9 @@ beschliesst:
 
 **Mitglieder – Zugehörigkeit und Austritt**
 
-<sup>1</sup> Das Kirchenstatut bestimmt die Bedingungen für die Zugehörigkeit zu den kirchlichen Körperschaften. In den Grenzen des Artikels 49 der Bundesverfassung setzt es auch die Modalitäten des Austritts fest.
+<sup>1</sup> Das Kirchenstatut bestimmt die Bedingungen für die Zugehörigkeit zu den kirchlichen Körperschaften. In den Grenzen des Artikels 49 der Bundesverfassung[^9-1] setzt es auch die Modalitäten des Austritts fest.
+
+[^9-1]: SR [101](https://db.clex.ch/link/Bund/101/de)
 
 #### Art. 10
 
@@ -135,9 +138,11 @@ beschliesst:
 
 <sup>1</sup> Die Pfarreien (Kirchgemeinden) können zur Erfüllung ihrer Aufgaben und ihrer finanziellen Verpflichtungen Steuern erheben.
 
-<sup>2</sup> Der Artikel 9 Abs. 1, 2, 3, 3<sup>bis</sup>, 5 und 6 und der Artikel 11 des Gesetzes vom 10. Mai 1963 über die Gemeindesteuern sind sinngemäss anwendbar auf den Steuerort und die Verteilung des Besteuerungsrechts unter den Pfarreien (Kirchgemeinden).
+<sup>2</sup> Der Artikel 9 Abs. 1, 2, 3, 3<sup>bis</sup>, 5 und 6 und der Artikel 11 des Gesetzes vom 10. Mai 1963 über die Gemeindesteuern[^12-1] sind sinngemäss anwendbar auf den Steuerort und die Verteilung des Besteuerungsrechts unter den Pfarreien (Kirchgemeinden).
 
 <sup>3</sup> Die Pfarreien (Kirchgemeinden) haben zudem Anrecht auf den kirchlichen Anteil der vom Kanton erhobenen Quellensteuer.
+
+[^12-1]: SGF [632.1](https://bdlf.fr.ch/data/632.1/de)
 
 #### Art. 12a
 
@@ -156,7 +161,9 @@ beschliesst:
 - a) die natürlichen Personen, die nicht der Konfession einer anerkannten Kirche angehören;
 - b) die juristischen Personen, die einen religiösen Zweck verfolgen.
 
-<sup>3</sup> Im Übrigen gelten die Steuerbefreiungen, die durch das Gesetz über die Kantonssteuern vorgesehen sind oder angeordnet werden.
+<sup>3</sup> Im Übrigen gelten die Steuerbefreiungen, die durch das Gesetz über die Kantonssteuern[^13-1] vorgesehen sind oder angeordnet werden.
+
+[^13-1]: SGF [631.1](https://bdlf.fr.ch/data/631.1/de)
 
 #### Art. 14
 
@@ -199,7 +206,9 @@ beschliesst:
 
 <sup>1</sup> Unter Vorbehalt von Artikel 17a berechnen die Pfarreien (Kirchgemeinden) den Betrag der Kirchensteuern auf der Grundlage der kantonalen Veranlagungen und ziehen ihn ein. Der Staat und die Gemeinden stellen die dazu erforderlichen Angaben ohne Verzug und kostenlos zur Verfügung.
 
-<sup>2</sup> Im Übrigen sind die Bestimmungen des Gesetzes über die direkten Kantonssteuern betreffend die Steuerveranlagung sowie den Steuerbezug und die Steuersicherung sinngemäss anwendbar.
+<sup>2</sup> Im Übrigen sind die Bestimmungen des Gesetzes über die direkten Kantonssteuern[^17-1] betreffend die Steuerveranlagung sowie den Steuerbezug und die Steuersicherung sinngemäss anwendbar.
+
+[^17-1]: SGF [631.1](https://bdlf.fr.ch/data/631.1/de)
 
 #### Art. 17a
 
@@ -221,7 +230,10 @@ beschliesst:
 
 <sup>3</sup> Das Kantonsgericht entscheidet auch über Streitigkeiten zwischen Pfarreien (Kirchgemeinden) betreffend die Steuerhoheit.
 
-<sup>4</sup> Das Verfahren bestimmt sich durch sinngemässe Anwendung der Rechtsmittelbestimmungen des Gesetzes über die Kantonssteuern und im Übrigen durch das Gesetz über die Verwaltungsrechtspflege.
+<sup>4</sup> Das Verfahren bestimmt sich durch sinngemässe Anwendung der Rechtsmittelbestimmungen des Gesetzes über die Kantonssteuern[^18-1] und im Übrigen durch das Gesetz über die Verwaltungsrechtspflege[^18-2].
+
+[^18-1]: SGF [631.1](https://bdlf.fr.ch/data/631.1/de)
+[^18-2]: SGF [150.1](https://bdlf.fr.ch/data/150.1/de)
 
 ### 3.2 Überpfarreiliche oder kantonale Aufgaben und Finanzausgleich
 
@@ -273,9 +285,11 @@ beschliesst:
 
 **Administrative Zusammenarbeit**
 
-<sup>1</sup> Der Staat und die Gemeinden wirken bei der Erstellung des Mitgliederregisters der kirchlichen Körperschaften unentgeltlich mit. Sie liefern den kirchlichen Körperschaften namentlich die Daten über die Konfessionszugehörigkeit der betroffenen Personen. Artikel 16a des Gesetzes vom 23. Mai 1986 über die Einwohnerkontrolle ist für die kirchlichen Körperschaften anwendbar.
+<sup>1</sup> Der Staat und die Gemeinden wirken bei der Erstellung des Mitgliederregisters der kirchlichen Körperschaften unentgeltlich mit. Sie liefern den kirchlichen Körperschaften namentlich die Daten über die Konfessionszugehörigkeit der betroffenen Personen. Artikel 16a des Gesetzes vom 23. Mai 1986 über die Einwohnerkontrolle[^24-1] ist für die kirchlichen Körperschaften anwendbar.
 
 <sup>2</sup> Unter den zwischen den betroffenen Parteien vereinbarten Bedingungen kann sich die administrative Zusammenarbeit auf weitere Gebiete erstrecken, namentlich auf die Benützung von Gemeindelokalen.
+
+[^24-1]: SGF [114.21.1](https://bdlf.fr.ch/data/114.21.1/de)
 
 #### Art. 25
 
@@ -293,7 +307,9 @@ beschliesst:
 
 **Enteignung**
 
-<sup>1</sup> Unter den Voraussetzungen und nach dem Verfahren des Gesetzes über die Enteignung haben die kirchlichen Körperschaften das Enteignungsrecht für den Bau von Kirchen und anderen Werken, die direkt der Erfüllung ihrer Aufgaben dienen.
+<sup>1</sup> Unter den Voraussetzungen und nach dem Verfahren des Gesetzes über die Enteignung[^27-1] haben die kirchlichen Körperschaften das Enteignungsrecht für den Bau von Kirchen und anderen Werken, die direkt der Erfüllung ihrer Aufgaben dienen.
+
+[^27-1]: SGF [76.1](https://bdlf.fr.ch/data/76.1/de)
 
 ## 5 Gewährung öffentlich-rechtlicher Vorrechte
 
@@ -301,15 +317,20 @@ beschliesst:
 
 **Voraussetzungen der Gewährung von Vorrechten**
 
-<sup>1</sup> Auf Ersuchen kann der Staatsrat einer konfessionellen Gemeinschaft des Privatrechts Vorrechte im Sinne von Artikel 29 gewähren, wenn die Gemeinschaft:
+<sup>1</sup> Der Staatsrat kann einer konfessionellen Gemeinschaft des Privatrechts auf Ersuchen Vorrechte im Sinne von Artikel 29 gewähren, wenn sie die folgenden Voraussetzungen erfüllt:
 
-- a) sich auf eine in der Schweiz überlieferte religiöse Bewegung oder auf eine solche von weltweiter Bedeutung beruft, und
-- b) dem Ökumenischen Rat der Kirchen angehört oder seit dreissig Jahren im Kanton zugegen ist, und
-- c) im Kanton mindestens hundert Mitglieder zählt, und
-- d) in Form eines Vereins mit Sitz und Kultusstätte im Kanton organisiert ist, und
-- e) die Grundsätze der schweizerischen Rechtsordnung respektiert.
+- a) Sie ist als Verein im Sinne der Artikel 60 ff. des Schweizerischen Zivilgesetzbuchs[^28-1] organisiert und verfügt über einen Sitz im Kanton.
+- b) Sie beruft sich auf eine in der Schweiz überlieferte religiöse Bewegung oder auf eine solche von weltweiter Bedeutung.
+- c) Sie respektiert die grundlegenden verfassungsmässigen Prinzipien und die Rechtsordnung der Schweiz.
+- d) Sie respektiert den konfessionellen Frieden und verzichtet auf jegliche Bekehrungsversuche, die gegen die schweizerische Rechtsordnung verstossen.
+- e) Sie beteiligt sich am interreligiösen, intrareligiösen oder ökumenischen Dialog und fördert ihn bei ihren Mitgliedern.
+- f) Sie anerkennt den Vorrang des Zivilrechts und bestreitet die an Universitäten, Hochschulen und anderen öffentlichen Bildungseinrichtungen gelehrten wissenschaftlichen Kenntnisse nicht.
+- g) Sie führt eine ordnungsgemässe Buchhaltung gemäss den üblichen Regeln der kaufmännischen Buchführung.
+- h) Sie ist seit dreissig Jahren im Kanton präsent oder verfügt im Kanton über mindestens tausend Mitglieder.
 
-<sup>2</sup> Die Gemeinschaft legt ihrem Gesuch ein Exemplar ihrer Statuten sowie alle übrigen zur Überprüfung der Voraussetzungen der Gewährung erforderlichen Dokumente bei.
+<sup>2</sup> …
+
+[^28-1]: SR [210](https://db.clex.ch/link/Bund/210/de)
 
 #### Art. 29
 
@@ -320,10 +341,48 @@ beschliesst:
 - a) die Gemeinden teilen den Zu- oder Wegzug aller Personen mit, die angegeben haben, der Konfession der betreffenden Gemeinschaft anzugehören;
 - b) für den Religionsunterricht der Mitglieder der Gemeinschaft während der obligatorischen Schulzeit können Schullokale benützt werden;
 - c) in den Anstalten des Staates und der Gemeinden, insbesondere in den Spitälern, Schulen und Gefängnissen, kann die Seelsorge für die Mitglieder der Gemeinschaft ausgeübt werden;
-- d) die Steuerbefreiung im Sinne von Artikel 21 Bst. c und f des Gesetzes über die Kantonssteuern;
-- e) Steuerbefreiungen, wie sie den anerkannten Kirchen bei den Handänderungs-, Grundpfand-, Erbschafts- und Schenkungssteuern gewährt werden.
+- d) die Steuerbefreiung für juristische Personen, die Kultuszwecke im Sinne des Gesetzes über die direkten Kantonssteuern (DStG)[^29-1] verfolgen;
+- e) Steuerbefreiungen, wie sie den anerkannten Kirchen bei den Handänderungs-, Grundpfand-, Erbschafts- und Schenkungssteuern gewährt werden;
+- f) das Recht, Computerdaten zu nutzen, die für die Ausübung der gewährten Vorrechte erforderlich sind. Die Gesetzgebung über den Schutz von Personendaten ist sinngemäss anwendbar;
+- g) das Recht, bei allen Erlassentwürfen, welche die Gemeinschaft betreffen könnten, angehört zu werden.
 
-<sup>2</sup> Die Ausübung der Vorrechte wird durch den Gewährungsbeschluss oder durch Vereinbarung geregelt.
+<sup>2</sup> Die Ausübung der Vorrechte wird im Gewährungsentscheid und in der Vereinbarung geregelt.
+
+[^29-1]: SGF [631.1](https://bdlf.fr.ch/data/631.1/de)
+
+#### Art. 29a
+
+**Gewährungsverfahren**
+
+<sup>1</sup> Gesuche um Gewährung von Vorrechten sind bei der für die Institutionen zuständigen Direktion[^29a-1] (die Direktion) einzureichen. Dem Gesuch werden beigelegt:
+
+- a) eine Erklärung, dass die Gemeinschaft sich verpflichtet, die Bedingungen nach Artikel 28 zu erfüllen;
+- b) ein Exemplar der Statuten der Gemeinschaft;
+- c) allfällige zusätzliche Dokumente, die im Ausführungsreglement vorgesehen sind.
+
+<sup>2</sup> Nach der Einreichung des Gesuchs und der Vorprüfung der Gesuchstellerin beginnt eine fünfjährige Probezeit, sobald die Direktion einen formellen Entscheid über die Eröffnung und Prüfung des Dossiers getroffen hat.
+
+<sup>3</sup> Die Direktion prüft das Gesuch. Sie kann externe Expertinnen und Experten beiziehen oder eine Evaluationskommission ernennen.
+
+<sup>4</sup> Nach Abschluss des Evaluations- und Prüfungsverfahrens beantragt die Direktion dem Staatsrat einen Entscheid über die Gewährung von öffentlich-rechtlichen Vorrechten und unterbreitet ihm einen Entwurf für eine Vereinbarung zwischen dem Staat und der betreffenden Konfessionsgemeinschaft.
+
+[^29a-1]: Heute: Direktion der Institutionen und der Land- und Forstwirtschaft.
+
+#### Art. 29b
+
+**Überwachung der Voraussetzungen**
+
+<sup>1</sup> Die Direktion kann die Buchhaltungsunterlagen für das vergangene Geschäftsjahr bei der Konfessionsgemeinschaft anfordern.
+
+<sup>2</sup> Die Direktion kann von der Gemeinschaft auch alle anderen Informationen anfordern, die zweckdienlich sind, um die Einhaltung der Gewährungsvoraussetzungen zu überwachen.
+
+<sup>3</sup> Die Konfessionsgemeinschaft übermittelt der Direktion alle Statutenänderungen und sachdienlichen Informationen.
+
+<sup>4</sup> Bei Verstössen gegen die Voraussetzungen zur Gewährung von öffentlich-rechtlichen Vorrechten kann der Staatsrat folgende Strafen verhängen:
+
+- a) die Verwarnung;
+- b) der Entzug eines oder mehrerer Vorrechte für ein bis drei Jahre;
+- c) der Widerruf eines oder mehrerer Vorrechte.
 
 #### Art. 30
 
@@ -334,6 +393,47 @@ beschliesst:
 <sup>2</sup> Eine Gemeinschaft kann jederzeit auf die ihr gewährten Vorrechte verzichten.
 
 <sup>3</sup> Der Staatsrat legt den Zeitpunkt fest, an dem der Entzug oder der Verzicht wirksam wird.
+
+#### Art. 30a
+
+**Entscheidverfahren**
+
+<sup>1</sup> Das Gesetz über die Verwaltungsrechtspflege[^30a-1] ist anwendbar.
+
+[^30a-1]: SGF [150.1](https://bdlf.fr.ch/data/150.1/de)
+
+#### Art. 30b
+
+**Ausführungsreglement**
+
+<sup>1</sup> Der Staatsrat regelt die Einzelheiten der Voraussetzungen und des Verfahrens für die Gewährung von öffentlich-rechtlichen Vorrechten.
+
+## 5a Kantonaler Rat für Religionsfragen
+
+#### Art. 30c
+
+**Ernennung und Zusammensetzung**
+
+<sup>1</sup> Es wird eine Kommission namens «Kantonaler Rat für Religionsfragen» (der Rat) eingesetzt, die sich mit religiösen Fragen im Kanton befasst.
+
+<sup>2</sup> Der Rat setzt sich aus Vertreterinnen und Vertretern des Staates, Mitgliedern der anerkannten Kirchen und Mitgliedern der Konfessionsgemeinschaften zusammen, denen Vorrechte gewährt werden können. Sie werden alle vom Staatsrat ernannt.
+
+<sup>3</sup> Die Vorsteherin oder der Vorsteher der Direktion, die für die Institutionen zuständig ist, führt den Vorsitz des Rats. Das Sekretariat wird von einer Mitarbeiterin oder einem Mitarbeiter der Direktion geführt.
+
+<sup>4</sup> Der Rat kann Expertinnen und Experten beiziehen.
+
+<sup>5</sup> Im Übrigen werden die Regeln für die Arbeitsweise des Rats vom Staatsrat festgelegt.
+
+#### Art. 30d
+
+**Zweck**
+
+<sup>1</sup> Der Rat verfolgt insbesondere folgende Zwecke:
+
+- a) Er ist das beratende Organ des Staatsrats für alle Überlegungen im Zusammenhang mit den Beziehungen zwischen dem Staat, den anerkannten Kirchen und den Konfessionsgemeinschaften, mit religiösen Fragen und mit der Wahrung des konfessionellen Friedens im Kanton.
+- b) Er übermittelt die Anliegen der anerkannten Kirchen und der Konfessionsgemeinschaften den Kantons- und Gemeindebehörden und deren Anliegen den Gemeinschaften.
+- c) Er trägt zum konfessionellen Frieden im Kanton bei, sowohl innerhalb der Gemeinschaften als auch zwischen ihnen und mit der Bevölkerung.
+- d) Er fördert den Dialog zwischen den anerkannten Kirchen und den Konfessionsgemeinschaften, zwischen den Gemeinschaften und den Kantons- und Gemeindebehörden sowie der Bevölkerung.
 
 ## 6 Annahme der ersten Statute
 
@@ -357,9 +457,12 @@ beschliesst:
 
 <sup>1</sup> Die Delegierten der Pfarreien werden nach Wahlkreisen gewählt, die den acht Wahlkreisen der Grossratswahlen entsprechen.
 
-<sup>2</sup> Die Sitze werden im Verhältnis der katholischen Bevölkerung jedes Wahlkreises aufgeteilt; massgebend ist die letzte eidgenössische Volkszählung. Der Artikel 76 Abs. 1 des Gesetzes über die Ausübung der bürgerlichen Rechte ist sinngemäss auf die Verteilung der Sitze anwendbar.
+<sup>2</sup> Die Sitze werden im Verhältnis der katholischen Bevölkerung jedes Wahlkreises aufgeteilt; massgebend ist die letzte eidgenössische Volkszählung. Der Artikel 76 Abs. 1 des Gesetzes über die Ausübung der bürgerlichen Rechte[^32-1] ist sinngemäss auf die Verteilung der Sitze anwendbar.
 
-<sup>3</sup> Im Übrigen erfolgt die Wahl nach den auf die Wahl der Pfarreiräte anwendbaren Regeln (Art. 182-191 des Gesetzes über die Ausübung der bürgerlichen Rechte).
+<sup>3</sup> Im Übrigen erfolgt die Wahl nach den auf die Wahl der Pfarreiräte anwendbaren Regeln (Art. 182-191 des Gesetzes über die Ausübung der bürgerlichen Rechte[^32-2]).
+
+[^32-1]: SGF [115.1](https://bdlf.fr.ch/data/115.1/de)
+[^32-2]: SGF [115.1](https://bdlf.fr.ch/data/115.1/de)
 
 #### Art. 33
 
@@ -413,9 +516,11 @@ beschliesst:
 
 <sup>1</sup> Innerhalb von fünf Jahren nach dem Inkrafttreten dieses Gesetzes in seiner ständigen Ordnung regeln der Staat und die Gemeinden durch Vereinbarung mit den betroffenen Parteien endgültig die Probleme der Verpflichtungen in bezug auf die Rückgabe kirchlicher Güter oder andere, auf historischen Titeln beruhende finanzielle Verpflichtungen. Der Staatsrat sorgt dafür, dass dieser Bestimmung in der vorgesehenen Frist Folge geleistet wird.
 
-<sup>2</sup> Streitigkeiten bezüglich der Regelung der in Absatz 1 erwähnten Fragen werden der Enteignungskommission unterbreitet, welche unter Vorbehalt der im Gesetz über die Enteignung vorgesehenen Beschwerde entscheidet.
+<sup>2</sup> Streitigkeiten bezüglich der Regelung der in Absatz 1 erwähnten Fragen werden der Enteignungskommission unterbreitet, welche unter Vorbehalt der im Gesetz über die Enteignung[^38-1] vorgesehenen Beschwerde entscheidet.
 
 <sup>3</sup> Bis zur endgültigen Regelung dieser Fragen bleiben die den kirchlichen Körperschaften und den juristischen Personen des Kirchenrechts vormals eingeräumten Rechte vorbehalten.
+
+[^38-1]: SGF [76.1](https://bdlf.fr.ch/data/76.1/de)
 
 #### Art. 39
 
