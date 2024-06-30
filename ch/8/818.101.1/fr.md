@@ -4,11 +4,11 @@ title: "Ordonnance du 29 avril 2015 sur la lutte contre les maladies transmissib
 short: OEp
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/298"
 language: fr
-version: 2024-01-01
+version: 2024-07-01
 adopted: 2015-04-29
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-298-20240101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/298/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2015-298-20240701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/298/20240101/fr"
 
 (Ordonnance sur les épidémies, OEp)
 
-du 29 avril 2015 (État le 1<sup>er</sup> janvier 2024)
+du 29 avril 2015 (État le 1<sup>er</sup> juillet 2024)
 
 Le Conseil fédéral suisse,
 
@@ -521,8 +521,6 @@ Ils ont notamment pour tâches:
 
 **Devoir d’information des cantons**
 
-<sup>1</sup>
-
 Les autorités cantonales compétentes informent notamment les personnes ou institutions suivantes, actives ou établies sur le territoire de leur canton, du plan national de vaccination:
 
 - a. médecins;
@@ -671,8 +669,6 @@ L’OFSP publie la liste des médecins autorisés à administrer le vaccin contr
 #### Art. 49
 
 **Cartes de contact**
-
-<sup>1</sup>
 
 Les coordonnées et l’itinéraire à faire connaître à l’entrée en Suisse doivent être indiqués sur une carte de contact. Ils comprennent les informations suivantes:
 
@@ -862,116 +858,21 @@ En particulier, les personnes suivantes peuvent être considérées en priorité
 
 #### Art. 64c
 
-**Prise en charge des coûts des vaccinations contre le COVID-19 pour les personnes sans assurance-maladie selon la LAMal ou la LAM**[^64c-1]
-
-<sup>1</sup>
-
-La Confédération prend en charge les coûts des vaccinations contre le COVID-19 qui sont effectuées pour les personnes suivantes:
-
-- a. les personnes qui ont leur domicile ou leur résidence habituelle en Suisse;
-- b. les personnes qui exercent une activité lucrative en tant que frontaliers en Suisse.
-
-<sup>2</sup> Elle ne prend en charge les coûts visés à l’al. 1 que pour les personnes qui ne sont assurées contre les maladies ni conformément à l’art. 3 de la loi fédérale du 18 mars 1994 sur l’assurance-maladie (LAMal)[^64c-2], ni conformément à la loi fédérale du 19 juin 1992 sur lʼassurance militaire (LAM)[^64c-3].
-
-<sup>3</sup>
-
-Elle prend en charge les coûts uniquement si les fournisseurs de prestations:
-
-- a. sont mandatés par le canton pour effectuer les vaccinations contre le COVID‑19, et
-- b. remplissent les exigences du canton concernant l’utilisation du logiciel indiqué pour la prise de rendez-vous, la saisie des données, la documentation et l’élaboration du rapport en vue du monitorage de la vaccination.
-
-<sup>4</sup>
-
-Elle prend en charge un des forfaits suivants par vaccination effectuée au titre de l’al. 1:
-
-- a. 20 francs par vaccination effectuée dans un centre de vaccination, un hôpital ou par une équipe mobile;
-- b. 29 francs par vaccination effectuée dans un cabinet médical;
-- c. 40 fr. 45 par vaccination effectuée dans un cabinet médical pour les enfants jusqu’à l’âge de 12 ans.
-
-<sup>5</sup>
-
-Le montant visé à l’al. 4 couvre l’ensemble des prestations liées à la vaccination, à savoir:
-
-- a. l’administration du vaccin;
-- b. le contrôle du statut vaccinal et l’anamnèse vaccinale;
-- c. le contrôle des contre-indications;
-- d. la documentation;
-- e. la délivrance de l’attestation de vaccination et du certificat de vaccination COVID-19.
-
-<sup>6</sup> Les fournisseurs de prestations ne peuvent facturer aux personnes vaccinées d’autres frais en lien avec la vaccination.
+[^64c-1]
 
 [^64c-1]: Introduit par le ch. I de l’O du 3 fév. 2021 ([RO 2021 66](https://fedlex.data.admin.ch/eli/oc/2021/66)). Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur du 1<sup>er</sup> janv. au 30 juin 2024 ([RO 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)).
-[^64c-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^64c-3]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
 
 #### Art. 64d
 
-**Procédure pour la prise en charge des coûts des vaccinations contre le COVID-19**[^64d-1]
-
-<sup>1</sup>
-
-Les fournisseurs de prestations transmettent à l’autorité cantonale compétente à la fin du mois de mars 2024 une facture pour les vaccinations effectuées au cours des mois de janvier, février et mars 2024 au titre de l’art. 64c, al. 1 à 3; ils lui transmettent à la fin du mois de juin 2024 une facture pour les vaccinations effectuées au cours des mois d’avril, mai et juin 2024. La facture doit indiquer:
-
-- a. le nombre de vaccinations;
-- b. le coût forfaitaire par vaccination;
-- c. le coût total.
-
-<sup>2</sup> La facture ne doit contenir que des informations sur les prestations liées aux vaccinations effectuées. Elle est transmise par voie électronique.
-
-<sup>3</sup> L’autorité cantonale compétente contrôle la plausibilité des factures en fonction des doses de vaccin distribuées dans le canton, vérifie qu’elles sont complètes et les envoie par voie électronique à l’institution commune visée à l’art. 18 LAMal[^64d-2] (institution commune) dans les 10 premiers jours ouvrables du mois suivant la période de décompte.
-
-<sup>4</sup> L’institution commune saisit les factures reçues et adresse à l’OFSP une facture groupée, au plus tard le 20<sup>e</sup> jour ouvrable du mois qui suit la période de décompte. L’OFSP verse le montant de la facture groupée à l’institution commune dans les 10 jours ouvrables à compter de la réception de la facture.
-
-<sup>5</sup> L’institution commune verse aux fournisseurs de prestations le montant forfaitaire prévu à l’art. 64*c*, al. 4, en fonction du nombre de vaccinations effectuées, dans un délai de 5 jours ouvrables à compter de la réception du versement de l’OFSP.
-
-<sup>6</sup> Elle facture chaque trimestre à l’OFSP les frais d’administration en fonction de la charge de travail effective. Le tarif horaire est de 95 francs, y compris les charges salariales, les charges sociales et les frais d’infrastructure. Les dépenses liées aux éventuelles révisions ou adaptations de système et aux taux d’intérêt négatifs qui ne sont pas comprises dans les frais d’administration sont remboursées au prix coûtant.
+[^64d-1]
 
 [^64d-1]: Introduit par le ch. I de l’O du 3 nov. 2021 ([RO 2021 648](https://fedlex.data.admin.ch/eli/oc/2021/648)). Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur du 1<sup>er</sup> janv. au 30 juin 2024 ([RO 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)).
-[^64d-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 #### Art. 64d<sup>bis</sup>
 
-**Système d’auto-prise en charge des coûts des vaccinations contre le COVID-19**[^64dbis-1]
-
-<sup>1</sup>
-
-La Confédération peut mettre à disposition, contre paiement, des vaccins destinés à la vaccination contre le COVID-19 acquis conformément à l’art. 44, al. 1, LEp, y compris les doses de rappel, pour la vaccination effectuée hors recommandation des autorités et sans objectif de lutte contre les maladies transmissibles, pour les personnes suivantes:
-
-- a. personnes assurées au sens de l’art. 3 LAMal[^64dbis-2];
-- b. personnes assurées contre les maladies au sens de la LAM[^64dbis-3];
-- c.
-
-  personnes qui ne sont assurées contre les maladies ni conformément à l’art. 3 LAMal, ni conformément à la LAM, mais qui:
-
-  - 1\. ont leur domicile ou leur résidence habituelle en Suisse, ou
-  - 2\. exercent une activité lucrative en tant que frontaliers en Suisse.
-
-<sup>2</sup> Si suffisamment de vaccins sont disponibles pour vacciner les personnes visées à l’al. 1, lesdits vaccins peuvent être mis à disposition pour la vaccination d’autres personnes, contre paiement.
-
-<sup>3</sup>
-
-Les pharmaciens qui effectuent des vaccinations au sens des al. 1 et 2 doivent:
-
-- a. être titulaires d’un certificat obtenu dans le cadre du programme de formation complémentaire FPH du 1<sup>er</sup> décembre 2011 Vaccination et prélèvements sanguins[^64dbis-4] ou être au bénéfice d’une formation équivalente en matière de vaccination;
-- b. avoir reçu un mandat du canton pour effectuer les vaccinations contre le COVID-19, et
-- c. remplir les exigences du canton concernant l’utilisation du logiciel prescrit pour la prise de rendez-vous, la saisie des données, la documentation et l’élaboration du rapport en vue du monitorage de la vaccination.
-
-<sup>4</sup> Les centres de vaccination versent à la Confédération un montant forfaitaire de 30 francs par vaccination pour le vaccin, la logistique, le matériel de vaccination et les coûts administratifs supplémentaires.
-
-<sup>5</sup> Les centres de vaccination transmettent pour la fin des mois de mars et de juin 2024 à l’autorité cantonale compétente la liste des vaccinations effectuées conformément aux al. 1 et 2.
-
-<sup>6</sup> L’autorité cantonale compétente contrôle la plausibilité de la liste en fonction des doses de vaccin distribuées dans le centre de vaccination, vérifie qu’elle est complète et l’envoie par voie électronique à l’institution commune dans les 10 premiers jours ouvrables du mois suivant la période de décompte.
-
-<sup>7</sup> L’institution commune adresse aux centres de vaccination une facture pour le montant forfaitaire prévu à l’al. 4, au plus tard le 20<sup>e</sup> jour ouvrable du mois qui suit la période de décompte.
-
-<sup>8</sup> Après réception du paiement des centres de vaccination, elle verse chaque trimestre le montant total à la Confédération.
-
-<sup>9</sup> L’OFSP rembourse à l’institution commune les frais d’administration visés à l’art. 64*d*, al. 6.
+[^64dbis-1]
 
 [^64dbis-1]: Introduit par le ch. I de l’O du 10 juin 2022 ([RO 2022 345](https://fedlex.data.admin.ch/eli/oc/2022/345)). Nouvelle teneur selon le ch. I de l’O du 29 nov. 2023, en vigueur du 1<sup>er</sup> janv. au 30 juin 2024 ([RO 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)).
-[^64dbis-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^64dbis-3]: [RS 833.1](https://fedlex.data.admin.ch/eli/cc/1993/3043_3043_3043)
-[^64dbis-4]: Consultable sous [www.fphch.org/fr](http://www.fphch.org/fr) &gt; Certificats de formation complémentaire &gt; Vaccination et prélèvements sanguins
 
 #### Art. 64e
 
@@ -1162,8 +1063,6 @@ La requête doit être accompagnée des pièces suivantes:
 #### Art. 77
 
 **Conditions requises**
-
-<sup>1</sup>
 
 Toute personne qui exerce la charge de médecin cantonal dans le cadre des tâches prévues par la loi sur les épidémies doit disposer:
 
@@ -1361,6 +1260,8 @@ Les médecins cantonaux saisissent dans le système «déclarations» les donné
 #### Art. 92
 
 **Saisie des données dans le module «gestion des contacts»**
+
+<sup>1</sup>
 
 L’OFSP et les médecins cantonaux saisissent dans le module «gestion des contacts» les informations épidémiologiques et données suivantes relatives aux personnes malades, présumées malades, infectées, présumées infectées ou qui excrètent des agents pathogènes ainsi que celles de personnes ayant été en contact avec elles:
 
@@ -1604,6 +1505,14 @@ Les ordonnances suivantes sont abrogées:
 [^108a-1]
 
 [^108a-1]: Introduit par le ch. I de l’O du 24 août 2022, en vigueur du 1<sup>er</sup> sept. 2022 au 31 déc. 2023 ([RO 2022 467](https://fedlex.data.admin.ch/eli/oc/2022/467)).
+
+#### Art. 108b
+
+**Disposition transitoire relative à la modification du 29 novembre 2023**[^108b-1]
+
+La facturation des vaccinations contre le COVID-19 effectuées entre le 1<sup>er</sup> janvier 2024 et le 30 juin 2024 est régie par l’ancien droit.
+
+[^108b-1]: Introduit par le ch. I de l’O du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2023 791](https://fedlex.data.admin.ch/eli/oc/2023/791)).
 
 #### Art. 109
 
