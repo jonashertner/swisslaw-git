@@ -4,11 +4,11 @@ title: "Ordonnance du DFI du 29 septembre 1995 sur les prestations dans l'assura
 short: OPAS
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964"
 language: fr
-version: 2024-01-24
+version: 2024-07-01
 adopted: 1995-09-29
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20240124/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20240124-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20240124/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/4964_4964_4964/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-1995-4964_4964_4964-20240701-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/4964_4964_4964/20240124/fr"
 
 (Ordonnance sur les prestations de l’assurance des soins, OPAS)[^t-1]
 
-du 29 septembre 1995 (État le 1<sup>er</sup> janvier 2024)
+du 29 septembre 1995 (État le 1<sup>er</sup> juillet 2024)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 7 oct. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3670](https://fedlex.data.admin.ch/eli/oc/2002/562)).
 
@@ -336,23 +336,23 @@ L’assurance prend en charge les prestations fournies, sur prescription médica
 
 <sup>1</sup>
 
-Les prestations au sens de l’art. 33, let. b, OAMal comprennent les examens, les traitements et les soins effectués selon l’évaluation des soins requis selon l’al. 2, let. a, et selon l’art. 8 sur prescription médicale ou sur mandat médical par des:
+Les prestations au sens de l’art. 33, let. b, OAMal comprennent les examens, les traitements et les soins effectués selon l’évaluation des soins requis prévue à l’al. 2, let. a, et à l’art. 8 par des:[^7-1]
 
-- a. infirmiers et infirmières (art. 49 OAMal);
+- a.[^7-2] infirmiers (art. 49 OAMal);
 - b. organisations de soins et d’aide à domicile (art. 51 OAMal);
-- c. établissements médico-sociaux (art. 39, al. 3, de la LF du 18 mars 1994 sur l’assurance-maladie, LAMal[^7-1]).[^7-2]
+- c. établissements médico-sociaux (art. 39, al. 3, de la LF du 18 mars 1994 sur l’assurance-maladie, LAMal[^7-3]).[^7-4]
 
 <sup>2</sup>
 
-Les prestations au sens de l’al. 1 comprennent:[^7-3]
+Les prestations au sens de l’al. 1 comprennent:[^7-5]
 
-- a.[^7-4]
+- a.[^7-6]
 
-  l’évaluation, les conseils et la coordination:[^7-5]
+  l’évaluation, les conseils et la coordination:[^7-7]
 
-  - 1\.[^7-6] évaluation des besoins du patient et de l’environnement de ce dernier; planification des mesures nécessaires,
+  - 1\.[^7-8] évaluation des besoins du patient et de l’environnement de ce dernier; planification des mesures nécessaires,
   - 2\. conseils au patient ainsi que, le cas échéant, aux intervenants non professionnels pour les soins, en particulier quant à la manière de gérer les symptômes de la maladie, pour l’administration des médicaments ou pour l’utilisation d’appareils médicaux; contrôles nécessaires,
-  - 3\.[^7-7] coordination des mesures et dispositions par des infirmières et infirmiers spécialisés en lien avec des complications dans des situations de soins complexes et instables;
+  - 3\.[^7-9] coordination des mesures et dispositions par des infirmiers spécialisés en lien avec des complications dans des situations de soins complexes et instables;
 
 - b.
 
@@ -364,47 +364,52 @@ Les prestations au sens de l’al. 1 comprennent:[^7-3]
   - 4\. mesures thérapeutiques pour la respiration (telles que l’administration d’oxygène, les inhalations, les exercices respiratoires simples, l’aspiration),
   - 5\. pose de sondes et de cathéters, ainsi que les soins qui y sont liés,
   - 6\. soins en cas d’hémodialyse ou de dialyse péritonéale,
-  - 7\.[^7-8] préparation et administration de médicaments ainsi que documentation des activités qui leur sont associées,
+  - 7\.[^7-10] préparation et administration de médicaments ainsi que documentation des activités qui leur sont associées,
   - 8\. administration entérale ou parentérale de solutions nutritives,
   - 9\. surveillance de perfusions, de transfusions ou d’appareils servant au contrôle et au maintien des fonctions vitales ou au traitement médical,
   - 10\. rinçage, nettoyage et pansement de plaies (y compris les escarres et les ulcères) et de cavités du corps (y compris les soins pour trachéo-stomisés et stomisés), soins pédicures pour les diabétiques,
   - 11\. soins en cas de troubles de l’évacuation urinaire ou intestinale, y compris la rééducation en cas d’incontinence,
   - 12\. assistance pour des bains médicinaux partiels ou complets, application d’enveloppements, cataplasmes et fangos,
-  - 13\.[^7-9] soins destinés à la mise en œuvre au quotidien de la thérapie du médecin, tels que l’exercice de stratégies permettant de gérer la maladie et l’instruction pour la gestion des agressions, des angoisses et des idées paranoïaques,
-  - 14\.[^7-10] soutien apporté aux malades psychiques dans des situations de crise, en particulier pour éviter les situations aiguës de mise en danger de soi-même ou d’autrui;
+  - 13\.[^7-11] soins destinés à la mise en œuvre au quotidien de la thérapie du médecin, tels que l’exercice de stratégies permettant de gérer la maladie et l’instruction pour la gestion des agressions, des angoisses et des idées paranoïaques,
+  - 14\.[^7-12] soutien apporté aux malades psychiques dans des situations de crise, en particulier pour éviter les situations aiguës de mise en danger de soi-même ou d’autrui;
 
 - c.
 
   les soins de base:
 
   - 1\. soins de base généraux pour les patients dépendants, tels que: bander les jambes du patient, lui mettre des bas de compression, refaire son lit, l’installer, lui faire faire des exercices, le mobiliser, prévenir les escarres, prévenir et soigner les lésions de la peau consécutives à un traitement; aider aux soins d’hygiène corporelle et de la bouche; aider le patient à s’habiller et à se dévêtir, ainsi qu’à s’alimenter,
-  - 2\.[^7-11] mesures destinées à surveiller et à soutenir les malades psychiques pour accomplir les actes ordinaires de la vie, telles que la planification et la structuration de leurs journées de manière appropriée, l’établissement et la promotion des contacts sociaux par un entraînement ciblé et le soutien lors de l’utilisation d’aides à l’orientation et du recours à des mesures de sécurité.
+  - 2\.[^7-13] mesures destinées à surveiller et à soutenir les malades psychiques pour accomplir les actes ordinaires de la vie, telles que la planification et la structuration de leurs journées de manière appropriée, l’établissement et la promotion des contacts sociaux par un entraînement ciblé et le soutien lors de l’utilisation d’aides à l’orientation et du recours à des mesures de sécurité.
 
 <sup>2</sup>
 
 <sup>bis</sup> Les conditions suivantes doivent être remplies:
 
-- a. les prestations visées à l’al. 2, let. a, ch. 3, doivent être fournies par une infirmière ou un infirmier (art. 49 OAMal) pouvant justifier d’une expérience professionnelle de deux ans dans la collaboration interdisciplinaire et la gestion des patients dans des réseaux;
-- b. il appartient à une infirmière ou à un infirmier (art. 49 OAMal) pouvant justifier d’une expérience professionnelle de deux ans dans le domaine psychiatrique d’évaluer si des mesures telles que celles qui sont prévues à l’al. 2, let. b, ch. 13 et 14, et c, ch. 2, doivent être prises.[^7-12]
+- a. les prestations visées à l’al. 2, let. a, ch. 3, doivent être fournies par un infirmier (art. 49 OAMal) pouvant justifier d’une expérience professionnelle de deux ans dans la collaboration interdisciplinaire et la gestion des patients dans des réseaux;
+- b. il appartient à un infirmier (art. 49 OAMal) pouvant justifier d’une expérience professionnelle de deux ans dans le domaine psychiatrique d’évaluer si des mesures telles que celles qui sont prévues à l’al. 2, let. b, ch. 13 et 14, et c, ch. 2, doivent être prises.[^7-14]
 
-<sup>2ter</sup> Les prestations peuvent être fournies de manière ambulatoire ou dans un établissement médico-social. Elles peuvent également être fournies exclusivement pendant le jour ou la nuit.[^7-13]
+<sup>2ter</sup> Les prestations peuvent être fournies de manière ambulatoire ou dans un établissement médico-social. Elles peuvent également être fournies exclusivement pendant le jour ou la nuit.[^7-15]
 
-<sup>3</sup> Sont réputées prestations de soins aigus et de transition au sens de l’art. 25*a*, al. 2, LAMal, les prestations mentionnées à l’al. 2, fournies par des personnes ou institutions au sens de l’al. 1, let. a à c, selon l’évaluation des soins requis prévue à l’al. 2, let. a, et à l’art. 8, après un séjour hospitalier et sur prescription d’un médecin de l’hôpital.[^7-14]
+<sup>3</sup> Sont réputées prestations de soins aigus et de transition au sens de l’art. 25*a*, al. 2, LAMal, les prestations mentionnées à l’al. 2, fournies par des personnes ou institutions au sens de l’al. 1, let. a à c, selon l’évaluation des soins requis prévue à l’al. 2, let. a, et à l’art. 8, après un séjour hospitalier et sur prescription d’un médecin de l’hôpital.[^7-16]
 
-[^7-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^7-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 24 juin 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)ch. I).
-[^7-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 déc. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5769](https://fedlex.data.admin.ch/eli/oc/2006/856)).
-[^7-4]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 déc. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5769](https://fedlex.data.admin.ch/eli/oc/2006/856)).
-[^7-5]: Nouvelle teneur selon le ch. I de l’O du DFI du 5 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)).
-[^7-6]: Nouvelle teneur selon le ch. I de l’O du DFI du 2 juil. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 2145](https://fedlex.data.admin.ch/eli/oc/2019/398)).
-[^7-7]: Introduit par le ch. I de l’O du DFI du 5 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)).
-[^7-8]: Nouvelle teneur selon le ch. I de l’O du DFI du 5 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)).
-[^7-9]: Introduit par le ch. I de l’O du DFI du 20 déc. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5769](https://fedlex.data.admin.ch/eli/oc/2006/856)).
-[^7-10]: Introduit par le ch. I de l’O du DFI du 20 déc. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5769](https://fedlex.data.admin.ch/eli/oc/2006/856)).
-[^7-11]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 déc. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5769](https://fedlex.data.admin.ch/eli/oc/2006/856)).
-[^7-12]: Introduit par le ch. I de l’O du DFI du 20 déc. 2006 ([RO 2006 5769](https://fedlex.data.admin.ch/eli/oc/2006/856)). Nouvelle teneur selon le ch. I de l’O du DFI du 5 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)).
-[^7-13]: Introduit par le ch. I de l’O du DFI du 24 juin 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)ch. I).
-[^7-14]: Introduit par le ch. I de l’O du DFI du 3 juil. 1997 ([RO 1997 2039](https://fedlex.data.admin.ch/eli/oc/1997/2039_2039_2039)). Nouvelle teneur selon le ch. I de l’O du DFI du 24 juin 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)ch. I).
+<sup>4</sup> Les prestations visées à l’al. 2, let. a et c, peuvent être fournies sans prescription ou mandat médical selon l’évaluation des soins requis prévue à l’al. 2, let. a, et à l’art. 8. Celles visées à l’al. 2, let. b, ne peuvent être fournies que sur prescription ou mandat médical selon ladite évaluation.[^7-17]
+
+[^7-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 221](https://fedlex.data.admin.ch/eli/oc/2024/221)).
+[^7-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 221](https://fedlex.data.admin.ch/eli/oc/2024/221)).
+[^7-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^7-4]: Nouvelle teneur selon le ch. I de l’O du DFI du 24 juin 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)ch. I).
+[^7-5]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 déc. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5769](https://fedlex.data.admin.ch/eli/oc/2006/856)).
+[^7-6]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 déc. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5769](https://fedlex.data.admin.ch/eli/oc/2006/856)).
+[^7-7]: Nouvelle teneur selon le ch. I de l’O du DFI du 5 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)).
+[^7-8]: Nouvelle teneur selon le ch. I de l’O du DFI du 2 juil. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 2145](https://fedlex.data.admin.ch/eli/oc/2019/398)).
+[^7-9]: Introduit par le ch. I de l’O du DFI du 5 déc. 2011 ([RO 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)). Nouvelle teneur selon le ch. I de l’O du DFI du 8 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 221](https://fedlex.data.admin.ch/eli/oc/2024/221)).
+[^7-10]: Nouvelle teneur selon le ch. I de l’O du DFI du 5 déc. 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)).
+[^7-11]: Introduit par le ch. I de l’O du DFI du 20 déc. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5769](https://fedlex.data.admin.ch/eli/oc/2006/856)).
+[^7-12]: Introduit par le ch. I de l’O du DFI du 20 déc. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5769](https://fedlex.data.admin.ch/eli/oc/2006/856)).
+[^7-13]: Nouvelle teneur selon le ch. I de l’O du DFI du 20 déc. 2006, en vigueur depuis le 1<sup>er</sup> janv. 2007 ([RO 2006 5769](https://fedlex.data.admin.ch/eli/oc/2006/856)).
+[^7-14]: Introduit par le ch. I de l’O du DFI du 20 déc. 2006 ([RO 2006 5769](https://fedlex.data.admin.ch/eli/oc/2006/856)). Nouvelle teneur selon le ch. I de l’O du DFI du 8 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 221](https://fedlex.data.admin.ch/eli/oc/2024/221)).
+[^7-15]: Introduit par le ch. I de l’O du DFI du 24 juin 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)ch. I).
+[^7-16]: Introduit par le ch. I de l’O du DFI du 3 juil. 1997 ([RO 1997 2039](https://fedlex.data.admin.ch/eli/oc/1997/2039_2039_2039)). Nouvelle teneur selon le ch. I de l’O du DFI du 24 juin 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)ch. I).
+[^7-17]: Introduit par le ch. I de l’O du DFI du 8 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 221](https://fedlex.data.admin.ch/eli/oc/2024/221)).
 
 #### Art. 7a
 
@@ -458,13 +463,13 @@ Pour les fournisseurs de prestations visés à l’art. 7, al. 1, let. c, l’as
 
 **Prescription ou mandat médical**[^8-1]
 
-<sup>1</sup> La prescription ou le mandat médical détermine si le patient a besoin de prestations au sens de l’art. 7, al. 2, ou de soins aigus et de transition au sens de l’art. 25*a*, al. 2, LAMal[^8-2]. Le médecin peut y déclarer la nécessité de certaines prestations au sens de l’art. 7, al. 2.
+<sup>1</sup> Le médecin détermine dans la prescription ou le mandat médical si le patient a besoin de prestations au sens de l’art. 7, al. 2, let. b, ou de soins aigus et de transition au sens de l’art. 25*a*, al. 2, LAMal[^8-2]. Il peut y déclarer la nécessité de certaines prestations au sens de l’art. 7, al. 2.[^8-3]
 
 <sup>2</sup>
 
 La durée de la prescription ou du mandat médical ne peut dépasser:
 
-- a. neuf mois pour les prestations prévues à l’art. 7, al. 2;
+- a.[^8-4] neuf mois pour les prestations prévues à l’art. 7, al. 2, let. b;
 - b. deux semaines pour les soins aigus et de transition au sens de l’art. 25*a*, al. 2, LAMal.
 
 <sup>3</sup> L’attestation médicale qui justifie l’allocation pour impotence grave ou moyenne versée par l’assurance-vieillesse et survivants, par l’assurance-invalidité ou par l’assurance-accidents vaut comme prescription ou mandat médical de durée illimitée en ce qui concerne les prestations nécessitées par l’impotence. Lorsque l’allocation est révisée, l’assuré doit communiquer le résultat du réexamen à l’assureur. Une prescription ou un mandat médical doit être établi à la suite de la révision de l’allocation pour impotent.
@@ -473,12 +478,16 @@ La durée de la prescription ou du mandat médical ne peut dépasser:
 
 [^8-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 2 juil. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 2145](https://fedlex.data.admin.ch/eli/oc/2019/398)).
 [^8-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^8-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 221](https://fedlex.data.admin.ch/eli/oc/2024/221)).
+[^8-4]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 221](https://fedlex.data.admin.ch/eli/oc/2024/221)).
 
 #### Art. 8a
 
 **Évaluation des soins requis**[^8a-1]
 
-<sup>1</sup> L’évaluation du besoin en prestations au sens de l’art. 7, al. 2, qui sont nécessaires pour mettre en œuvre la prescription ou le mandat médical au sens de l’art. 8 (évaluation des soins requis) est effectuée par un infirmier ou une infirmière au sens de l’art. 49 OAMal en collaboration avec le patient ou ses proches. Le résultat est transmis immédiatement pour information au médecin qui a établi la prescription ou le mandat médical.
+<sup>1</sup> L’évaluation du besoin en prestations au sens de l’art. 7, al. 2, qui sont nécessaires pour mettre en œuvre la prescription ou le mandat médical au sens de l’art. 8 (évaluation des soins requis) est effectuée par un infirmier au sens de l’art. 49 OAMal en collaboration avec le patient ou ses proches. Le résultat est transmis immédiatement pour information au médecin qui a établi la prescription ou le mandat médical.[^8a-2]
+
+<sup>1bis</sup> L’évaluation du besoin en prestations au sens de l’art. 7, al. 2, let. a et c, pouvant être fournies sans prescription ou mandat médical par un infirmier au sens de l’art. 49 OAMal est effectuée par ce dernier en collaboration avec le patient ou ses proches. Le résultat est transmis immédiatement pour information au médecin traitant.[^8a-3]
 
 <sup>2</sup> Les prestations au sens de l’art. 7, al. 2, let. b, qui sont nécessaires selon les résultats de l’évaluation des soins requis ne peuvent être fournies qu’avec l’accord explicite du médecin. En cas de refus du médecin, une nouvelle évaluation des soins requis est effectuée. La nouvelle évaluation s’effectue en collaboration avec le médecin si celui-ci le juge nécessaire.
 
@@ -486,14 +495,19 @@ La durée de la prescription ou du mandat médical ne peut dépasser:
 
 <sup>4</sup> Elle se fonde sur des critères uniformes. Les résultats sont inscrits sur un formulaire standardisé, établi en commun par les fournisseurs de prestations et les assureurs. Celui-ci indique notamment le temps nécessaire aux prestations prévues.
 
-<sup>5</sup> L’instrument utilisé pour l’évaluation des soins requis doit permettre de saisir les données relatives aux indicateurs de qualité médicaux au sens de l’art. 59*a*, al. 1, let. f, LAMal[^8a-2] grâce à des données de routine collectées lors de l’évaluation.
+<sup>5</sup> L’instrument utilisé pour l’évaluation des soins requis doit permettre de saisir les données relatives aux indicateurs de qualité médicaux au sens de l’art. 59*a*, al. 1, let. f, LAMal[^8a-4] grâce à des données de routine collectées lors de l’évaluation.
 
 <sup>6</sup> Les assureurs peuvent exiger que les données de l’évaluation des soins requis portant sur les prestations prévues à l’art. 7, al. 2, leur soient communiquées.
 
 <sup>7</sup> En cas de nouvelle prescription ou de nouveau mandat médical ou en cas de renouvellement de la prescription ou du mandat médical, une nouvelle évaluation des soins requis est effectuée.
 
+<sup>8</sup> En cas de soins fournis sans prescription ou mandat médical, une évaluation des soins requis doit être refaite au plus tard neuf mois après la première évaluation. Deux nouvelles évaluations peuvent être effectuées sans l’accord du médecin traitant. Au-delà de 27 mois, l’infirmier doit adresser dans les meilleurs délais au médecin traitant un rapport décrivant notamment le genre, le cadre, le déroulement et les résultats des soins fournis.[^8a-5]
+
 [^8a-1]: Introduit par le ch. I de l’O du DFI du 3 juil. 1997 ([RO 1997 2039](https://fedlex.data.admin.ch/eli/oc/1997/2039_2039_2039)). Nouvelle teneur selon le ch. I de l’O du DFI du 2 juil. 2019, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2019 2145](https://fedlex.data.admin.ch/eli/oc/2019/398)).
-[^8a-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^8a-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 221](https://fedlex.data.admin.ch/eli/oc/2024/221)).
+[^8a-3]: Introduit par le ch. I de l’O du DFI du 8 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 221](https://fedlex.data.admin.ch/eli/oc/2024/221)).
+[^8a-4]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^8a-5]: Introduit par le ch. I de l’O du DFI du 8 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 221](https://fedlex.data.admin.ch/eli/oc/2024/221)).
 
 #### Art. 8b
 
@@ -536,11 +550,12 @@ La procédure de contrôle sert à vérifier le bien-fondé de l’évaluation d
 
 **Facturation**[^9-1]
 
-<sup>1</sup> Les prestations définies à l’art. 7, al. 2, qui sont fournies par des infirmiers ou des infirmières ou par des organisations d’aide et de soins à domicile doivent être facturées selon leur nature.
+<sup>1</sup> Les prestations définies à l’art. 7, al. 2, qui sont fournies par des infirmiers ou par des organisations de soins à domicile doivent être facturées selon leur nature.[^9-2]
 
 <sup>2</sup> Les prestations définies à l’art. 7, al. 2, qui sont fournies dans des établissements médico-sociaux doivent être facturées selon le besoin en soins requis.
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 24 juin 2009, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2009 3527](https://fedlex.data.admin.ch/eli/oc/2009/435)[6849](https://fedlex.data.admin.ch/eli/oc/2009/837)ch. I).
+[^9-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 221](https://fedlex.data.admin.ch/eli/oc/2024/221)).
 
 #### Art. 9a
 
@@ -563,7 +578,7 @@ La procédure de contrôle sert à vérifier le bien-fondé de l’évaluation d
 Les diététiciens admis conformément à l’art. 50*a* OAMal et les organisations de diététique admises conformément à l’art. 52*c* OAMal prodiguent, sur prescription ou sur mandat médical, des conseils diététiques aux assurés qui souffrent des maladies suivantes:[^9b-2]
 
 - a.[^9b-3] troubles du métabolisme;
-- b.[^9b-4] obésité (indice de masse corporelle ≥ à 30 kg/m<sup>2</sup>) et surpoids (indice de masse corporelle ≥à 25 kg/m<sup>2</sup>), associés à une affection secondaire, sur laquelle la perte de poids peut avoir une influence favorable;
+- b.[^9b-4] obésité (indice de masse corporelle ≥ à 30 kg/m<sup>2</sup>) et surpoids (indice de masse corporelle ≥ à 25 kg/m<sup>2</sup>) associé à une affection secondaire que la perte de poids peut influencer favorablement;
 - b<sup>bis</sup>.[^9b-5] obésité et surpoids dans le cadre de la «thérapie individuelle multiprofessionnelle structurée ambulatoire pour enfants et adolescents en surpoids ou atteints d’obésité» selon annexe 1, ch. 4;
 - c. maladies cardio-vasculaires;
 - d. maladies du système digestif;
@@ -578,7 +593,7 @@ Les diététiciens admis conformément à l’art. 50*a* OAMal et les organisati
 [^9b-1]: Anciennement art. 9*a.*
 [^9b-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 23 juin 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 440](https://fedlex.data.admin.ch/eli/oc/2021/440)).
 [^9b-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 18 nov. 1998, en vigueur depuis le 1<sup>er</sup> janv. 1999 ([RO 1999 528](https://fedlex.data.admin.ch/eli/oc/1999/65)).
-[^9b-4]: Nouvelle teneur selon le ch. I de l’O du DFI du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
+[^9b-4]: Nouvelle teneur selon le ch. I de l’O du DFI du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)). Erratum du 24 janv. 2024 ([RO 2024 36](https://fedlex.data.admin.ch/eli/oc/2024/36)).
 [^9b-5]: Introduite par le ch. I de l’O du DFI du 6 déc. 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)).
 
 ### Section 3*b* Conseils aux diabétiques
@@ -593,16 +608,17 @@ Les diététiciens admis conformément à l’art. 50*a* OAMal et les organisati
 
 L’assurance prend en charge le coût des conseils aux diabétiques qui sont prodigués, sur prescription ou mandat médical, par:
 
-- a. les infirmiers et infirmières (art. 49 OAMal) qui ont une formation spéciale reconnue par l’Association suisse des infirmières et infirmiers (ASI);
+- a.[^9c-1] les infirmiers (art. 49 OAMal) qui ont une formation spéciale reconnue par l’Association suisse des infirmières et infirmiers (ASI);
 - b. un centre de conseils de l’Association suisse du diabète admis en application de l’art. 51 OAMal qui emploie du personnel diplômé ayant une formation spéciale reconnue par l’ASI.
 
 <sup>2</sup> Les conseils aux diabétiques comprennent les conseils et les instructions sur tous les aspects des soins nécessaires au traitement de la maladie (*Diabetes mellitus*).
 
-<sup>3</sup> L’assurance prend en charge par prescription médicale au plus les coûts de dix séances de conseils. Pour que, après dix séances, celles-ci continuent à être prises en charge, le médecin traitant doit adresser un rapport au médecin-conseil de l’assureur et lui remettre une proposition dûment motivée. Le médecin-conseil propose de poursuivre ou non les conseils aux frais de l’assurance, en indiquant dans quelle mesure.[^9c-1]
+<sup>3</sup> L’assurance prend en charge par prescription médicale au plus les coûts de dix séances de conseils. Pour que, après dix séances, celles-ci continuent à être prises en charge, le médecin traitant doit adresser un rapport au médecin-conseil de l’assureur et lui remettre une proposition dûment motivée. Le médecin-conseil propose de poursuivre ou non les conseils aux frais de l’assurance, en indiquant dans quelle mesure.[^9c-2]
 
 <sup>4</sup> Les diététiciens (art. 50*a* OAMal) employés dans un centre de conseils de l’Association suisse du diabète peuvent prodiguer les prestations qui figurent à l’art. 9*b*, al. 1, let. a, ainsi qu’aux al. 2 et 3.
 
-[^9c-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 9 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 4253](https://fedlex.data.admin.ch/eli/oc/2002/692)).
+[^9c-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 221](https://fedlex.data.admin.ch/eli/oc/2024/221)).
+[^9c-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 9 déc. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 4253](https://fedlex.data.admin.ch/eli/oc/2002/692)).
 
 ### Section 4 Logopédie-orthophonie
 
@@ -744,23 +760,23 @@ L’assurance prend en charge les mesures médicales de prévention suivantes (a
 
 <table>
 <tr><th>Mesure</th><th colspan="2">Conditions</th></tr>
-<tr><td>a. Vaccination et rappels contre la diphtérie, le tétanos, la coqueluche, la poliomyélite; vaccination contre la rougeole, les oreillons et la rubéole</td><td colspan="2">Selon le plan de vaccination 2023[^12a-2] [^12a-3] établi par l’Office fédéral de la santé publique (OFSP) et la Commission fédérale pour les vaccinations (CFV).</td></tr>
-<tr><td>b. Vaccination contre *Haemophilus influenzae*</td><td colspan="2">Selon le plan de vaccination 2023, pour les enfants jusqu’au jour où ils atteignent l’âge de 5 ans.</td></tr>
-<tr><td>c. Vaccination contre l’influenza</td><td>1. Vaccination annuelle pour les personnes présentant un risque de complications élevé, selon le plan de vaccination 2023. 2. En cas de menace de pandémie d’influenza ou lors d’une pandémie d’influenza, pour les personnes pour lesquelles l’OFSP recommande une vaccination[^12a-4]. Aucune franchise n’est prélevée pour cette prestation. Une somme forfaitaire est accordée pour la vaccination (vaccin compris).</td></tr>
-<tr><td>d. Vaccination contre l’hépatite B</td><td colspan="2">Selon le plan de vaccination 2023. En cas d’indication professionnelle et de recommandation médicale aux voyageurs, la vaccination n’est pas prise en charge par l’assurance.</td></tr>
+<tr><td>a. Vaccination et rappels contre la diphtérie, le tétanos, la coqueluche, la poliomyélite; vaccination contre la rougeole, les oreillons et la rubéole</td><td colspan="2">Selon le plan de vaccination 2024[^12a-2] [^12a-3] établi par l’Office fédéral de la santé publique (OFSP) et la Commission fédérale pour les vaccinations (CFV).</td></tr>
+<tr><td>b. Vaccination contre *Haemophilus influenzae*</td><td colspan="2">Selon le plan de vaccination 2024, pour les enfants jusqu’au jour où ils atteignent l’âge de 5 ans.</td></tr>
+<tr><td>c.[^12a-4] Vaccination contre l’influenza</td><td>Vaccination annuelle pour les personnes présentant un risque de complications élevé et pour les personnes à partir de 65 ans selon le plan de vaccination 2024.</td></tr>
+<tr><td>d. Vaccination contre l’hépatite B</td><td colspan="2">Selon le plan de vaccination 2024. En cas d’indication professionnelle et de recommandation médicale aux voyageurs, la vaccination n’est pas prise en charge par l’assurance.</td></tr>
 <tr><td>e.[^12a-5] …</td><td colspan="2">…</td></tr>
-<tr><td>f.[^12a-6] Vaccination contre les pneumocoques</td><td colspan="2">Comme vaccination de base selon le plan de vaccination 2023. Comme vaccination pour les personnes présentant un risque élevé d’infection invasive selon le plan de vaccination 2023, mais uniquement pour les enfants jusqu’au jour où ils atteignent l’âge de 5 ans ainsi que pour les personnes à partir de 65 ans. Comme vaccination complémentaire pour les personnes à partir de 65 ans selon les Recommandations complémentaires de l’OFSP et de la CFV pour la vaccination contre les pneumocoques à partir de l’âge de 65 ans du 30 octobre 2023[^12a-7].</td></tr>
-<tr><td>g.[^12a-8] Vaccination contre les méningocoques (sérotypes ACWY et B)</td><td colspan="2">Comme vaccination complémentaire selon les Recommandations complémentaires de vaccination pour la protection contre les maladies invasives à méningocoques de l’OFSP et de la CFV du 6 novembre 2023[^12a-9]. Comme vaccination pour les personnes présentant un risque élevé de maladie et pour la prophylaxie post-expositionnelle selon le plan de vaccination 2023. Les coûts ne sont pris en charge que pour les vaccinations effectuées à l’aide de vaccins autorisés pour le groupe d’âge concerné.</td></tr>
-<tr><td>h. Vaccination contre la tuberculose</td><td colspan="2">Avec le vaccin BCG, selon le plan de vaccination 2023.</td></tr>
-<tr><td>i. Vaccination contre l’encéphalite à tiques</td><td colspan="2">Selon le plan de vaccination 2023. En cas d’indication professionnelle, la vaccination n’est pas prise en charge par l’assurance.</td></tr>
-<tr><td>j.[^12a-10] Vaccination contre la varicelle</td><td colspan="2">Vaccination de base et de rappel selon le plan de vaccination 2023. Les coûts ne sont pris en charge que pour les vaccinations effectuées à l’aide de vaccins autorisés pour le groupe d’âge concerné.</td></tr>
-<tr><td>k.[^12a-11] Vaccination contre les papillomavirus humain (HPV)</td><td colspan="2">1. Selon le plan de vaccination 2023: a. vaccination de base des filles à partir de 11 ans jusqu’au jour où elles atteignent l’âge de 15 ans; b. vaccination des filles à partir de 15 ans et des jeunes femmes jusqu’au jour où elles atteignent l’âge de 27 ans; c. vaccination complémentaire des hommes à partir de 20 ans jusqu’au jour où ils atteignent l’âge de 27 ans. 2. Vaccination de base des garçons à partir de 11 ans et des jeunes hommes jusqu’au jour où ils atteignent l’âge de 20 ans selon les Recommandations de l’OFSP et de la CFV concernant la vaccination contre les papillomavirus humain du 6 novembre 2023[^12a-12]. 3. Vaccination dans le cadre de programmes cantonaux de vaccination qui doivent satisfaire aux exigences minimales suivantes: a. l’information des groupes cibles et de leurs parents ou représentants légaux sur la disponibilité des vaccins et les recommandations de l’OFSP et de la CFV visées au ch. 1 est assurée; b. la vaccination complète est visée; c. les prestations et les obligations des responsables du programme, des médecins chargés de la vaccination et des assureurs-maladie sont définies; d. la collecte des données, le décompte, les flux d’information et les flux financiers sont réglés. 4. Aucune franchise n’est prélevée pour cette prestation. Une somme forfaitaire est accordée pour la vaccination (vaccin compris).</td></tr>
-<tr><td>l. Vaccination contre l’hépatite A</td><td colspan="2">Selon le plan de vaccination 2023. Pour les personnes suivantes: – pour les patients atteints d’une affection chronique du foie; – pour les enfants en provenance de pays à forte ou moyenne endémie qui vivent en Suisse et retournent dans leur pays d’origine pour un séjour temporaire; – pour les consommateurs de drogue par injection; – pour les hommes ayant des relations sexuelles avec d’autres hommes en dehors d’une relation stable. Vaccination post-expositionnelle dans les sept jours suivant l’exposition. En cas d’indication professionnelle et de recommandation médicale aux voyageurs, la vaccination n’est pas prise en charge par l’assurance.</td></tr>
-<tr><td>m.[^12a-13] Vaccination contre la rage</td><td colspan="2">Vaccination post-expositionnelle, après une exposition à un animal enragé ou susceptible de l’être, selon le plan de vaccination 2023. En cas d’indication professionnelle la vaccination n’est pas prise en charge par l’assurance.</td></tr>
-<tr><td>n.[^12a-14] Vaccination contre le COVID-19</td><td colspan="2">1. Immunisation de base en cas d’épidémie de COVID-19, pour les personnes particulièrement menacées. 2. Vaccination de rappel en cas d’épidémie de COVID-19, pour les personnes particulièrement menacées. En évaluation. Aucune franchise n’est prélevée pour les prestations énumérées aux ch. 1 et 2. Une somme forfaitaire est accordée pour la vaccination (vaccin compris).</td></tr>
-<tr><td>o.[^12a-15] Vaccination contre l’herpès zoster</td><td colspan="2">Avec le vaccin sous-unitaire adjuvanté. Pour les groupes d’âge et les groupes à risque selon le plan de vaccination 2023.</td></tr>
+<tr><td>f.[^12a-6] Vaccination contre les pneumocoques</td><td colspan="2">Comme vaccination de base selon le plan de vaccination 2024. Comme vaccination pour les personnes présentant un risque élevé d’infection invasive selon le plan de vaccination 2024, mais uniquement pour les enfants jusqu’au jour où ils atteignent l’âge de 5 ans et pour les personnes à partir de 65 ans. Comme vaccination complémentaire pour les personnes à partir de 65 ans selon le plan de vaccination 2024.</td></tr>
+<tr><td>g.[^12a-7] Vaccination contre les méningocoques (sérotypes ACWY et B)</td><td colspan="2">Comme vaccination complémentaire selon le plan de vaccination 2024. Comme vaccination pour les personnes présentant un risque élevé de maladie et pour la prophylaxie post-expositionnelle selon le plan de vaccination 2024. Les coûts ne sont pris en charge que pour les vaccinations effectuées à l’aide de vaccins autorisés pour le groupe d’âge concerné. En cas d’indication professionnelle et de recommandation médicale aux voyageurs, la vaccination n’est pas prise en charge par l’assurance.</td></tr>
+<tr><td>h. Vaccination contre la tuberculose</td><td colspan="2">Avec le vaccin BCG, selon le plan de vaccination 2024.</td></tr>
+<tr><td>i.[^12a-8] Vaccination contre l’encéphalite à tiques (FSME)</td><td colspan="2">Selon les recommandations de vaccination de l’OFSP et de la CFV du 26 avril 2024[^12a-9] pour les personnes à partir de 3 ans (au cas par cas à partir de 1 an) qui séjournent au moins temporairement dans des régions à risque. En cas d’indication professionnelle, la vaccination n’est pas prise en charge par l’assurance.</td></tr>
+<tr><td>j.[^12a-10] Vaccination contre la varicelle</td><td colspan="2">Vaccination de base et de rappel selon le plan de vaccination 2024. Les coûts ne sont pris en charge que pour les vaccinations effectuées à l’aide de vaccins autorisés pour le groupe d’âge concerné.</td></tr>
+<tr><td>k.[^12a-11] Vaccination contre les papillomavirus humain (HPV)</td><td colspan="2">1. Selon le plan de vaccination 2024 pour les personnes à partir de 11 ans jusqu’au jour où elles atteignent l’âge de 27 ans. 2. Vaccination dans le cadre de programmes cantonaux de vaccination qui doivent satisfaire aux exigences minimales suivantes: a. l’information des groupes cibles et de leurs parents ou représentants légaux sur la disponibilité des vaccins et les recommandations de l’OFSP et de la CFV visées au ch. 1 est assurée; b. la vaccination complète est visée; c. les prestations et les obligations des responsables du programme, des médecins chargés de la vaccination et des assureurs-maladie sont définies; d. la collecte des données, le décompte, les flux d’information et les flux financiers sont réglés. 3. Aucune franchise n’est prélevée pour cette prestation. Une somme forfaitaire est accordée pour la vaccination (vaccin compris).</td></tr>
+<tr><td>l. Vaccination contre l’hépatite A</td><td colspan="2">Selon le plan de vaccination 2024. Pour les personnes suivantes: – pour les patients atteints d’une affection chronique du foie; – pour les enfants en provenance de pays à forte ou moyenne endémie qui vivent en Suisse et retournent dans leur pays d’origine pour un séjour temporaire; – pour les consommateurs de drogue par injection; – pour les hommes ayant des relations sexuelles avec d’autres hommes en dehors d’une relation stable. Vaccination post-expositionnelle dans les sept jours suivant l’exposition. En cas d’indication professionnelle et de recommandation médicale aux voyageurs, la vaccination n’est pas prise en charge par l’assurance.</td></tr>
+<tr><td>m.[^12a-12] Vaccination contre la rage</td><td colspan="2">Vaccination post-expositionnelle, après une exposition à un animal enragé ou susceptible de l’être, selon le plan de vaccination 2024. En cas d’indication professionnelle la vaccination n’est pas prise en charge par l’assurance.</td></tr>
+<tr><td>n.[^12a-13] Vaccination contre le COVID-19</td><td colspan="2">Selon le plan de vaccination 2024 et selon la recommandation de vaccination de l’OFSP et de la CFV contre le COVID‑19 du 2 octobre 2023[^12a-14]: – pour les personnes vulnérables à partir de 16 ans; – pour les personnes à partir de 65 ans; – pour les femmes enceintes; – pour les personnes à partir de 6 mois présentant une immunodéficience sévère. Seules sont prises en charge les vaccinations effectuées avec des vaccins disposant de l’autorisation requise pour le groupe d’âge et l’indication concernés.</td></tr>
+<tr><td>o.[^12a-15] Vaccination contre l’herpès zoster</td><td colspan="2">Avec le vaccin sous-unitaire adjuvanté. Pour les groupes d’âge et les groupes à risque selon le plan de vaccination 2024.</td></tr>
 <tr><td>p.[^12a-16] Vaccination contre le mpox</td><td colspan="2">Pour les personnes à risque d’exposition élevé conformément au document du 1<sup>er</sup> septembre 2022 «Variole du singe: cadre analytique et recommandations de vaccination»[^12a-17] établi par l’OFSP et la CFV. En cas d’indication professionnelle, la vaccination n’est pas prise en charge par l’assurance. Une somme forfaitaire est accordée pour la vaccination (vaccin compris). La prise en charge des coûts est en cours d’évaluation jusqu’au 31 décembre 2024.</td></tr>
-<tr><td>[tab] q.[^12a-18] Vaccination contre les rotavirus</td><td colspan="2">Selon les Recommandations de l’OFSP et de la CFV pour la vaccination contre les rotavirus du 6 novembre 2023[^12a-19].</td></tr>
+<tr><td>[tab] q.[^12a-18] Vaccination contre les rotavirus</td><td colspan="2">Selon le plan de vaccination 2024.</td></tr>
 </table>
 
 <sup>2</sup>
@@ -769,31 +785,30 @@ Elle prend en charge, pour les vaccinations visées à l’al. 1, les coûts sui
 
 - a. anamnèse vaccinale avec contrôle du statut vaccinal;
 - b. évaluation des indications et contre-indications;
-- c. information et obtention du consentement éclairé.[^12a-20]
+- c. information et obtention du consentement éclairé.[^12a-19]
 
-<sup>3</sup> En cas d’indication professionnelle et de recommandation médicale aux voyageurs, le conseil en vaccination n’est pas pris en charge par l’assurance.[^12a-21]
+<sup>3</sup> En cas d’indication professionnelle et de recommandation médicale aux voyageurs, le conseil en vaccination n’est pas pris en charge par l’assurance.[^12a-20]
 
 [^12a-1]: Introduit par le ch. I de l’O du DFI du 21 nov. 2007 ([RO 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)). Nouvelle teneur selon le ch. I de l’O du DFI du 27 mai 2020, en vigueur depuis le 1<sup>er</sup> juil. 2020 ([RO 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)[2829](https://fedlex.data.admin.ch/eli/oc/2020/514)).
-[^12a-2]: Nouvelle expression selon le ch. I de l’O du DFI du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
+[^12a-2]: Nouvelle expression selon le ch. I de l’O du DFI du 17 juin 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 303](https://fedlex.data.admin.ch/eli/oc/2024/303)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
 [^12a-3]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
-[^12a-4]: Voir l’ordonnance du 29 avril 2015 sur les épidémies ([RS 818.101.1](https://fedlex.data.admin.ch/eli/cc/2015/298)**)**.
+[^12a-4]: Nouvelle teneur selon le ch. I de l’O du DFI du 17 juin 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 303](https://fedlex.data.admin.ch/eli/oc/2024/303)).
 [^12a-5]: Abrogée par le ch. I de l’O du DFI du 8 juin 2021, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)).
-[^12a-6]: Nouvelle teneur selon le ch. I de l’O du DFI du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
-[^12a-7]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
-[^12a-8]: Nouvelle teneur selon le ch. I de l’O du DFI du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
+[^12a-6]: Nouvelle teneur selon le ch. I de l’O du DFI du 17 juin 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 303](https://fedlex.data.admin.ch/eli/oc/2024/303)).
+[^12a-7]: Nouvelle teneur selon le ch. I de l’O du DFI du 17 juin 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 303](https://fedlex.data.admin.ch/eli/oc/2024/303)).
+[^12a-8]: Nouvelle teneur selon le ch. I de l’O du DFI du 17 juin 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 303](https://fedlex.data.admin.ch/eli/oc/2024/303)).
 [^12a-9]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
 [^12a-10]: Nouvelle teneur selon le ch. I de l’O du DFI du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> juil. 2023 ([RO 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)).
-[^12a-11]: Nouvelle teneur selon le ch. I de l’O du DFI du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
-[^12a-12]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
-[^12a-13]: Nouvelle teneur selon le ch. I de l’O du DFI du 28 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)).
-[^12a-14]: Introduite par le ch. I de l’O du DFI du 30 nov. 2020 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)). Nouvelle teneur selon le ch. I de l’O du DFI du 2 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022, le ch. 2 jusqu’au 30 juin 2024 ([RO 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369); [2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)ch. IV al. 4).
+[^12a-11]: Nouvelle teneur selon le ch. I de l’O du DFI du 17 juin 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 303](https://fedlex.data.admin.ch/eli/oc/2024/303)).
+[^12a-12]: Nouvelle teneur selon le ch. I de l’O du DFI du 28 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)).
+[^12a-13]: Introduite par le ch. I de l’O du DFI du 30 nov. 2020 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)). Nouvelle teneur selon le ch. I de l’O du DFI du 17 juin 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 303](https://fedlex.data.admin.ch/eli/oc/2024/303)).
+[^12a-14]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
 [^12a-15]: Introduite par le ch. I de l’O du DFI du 1<sup>er</sup> déc. 2021 ([RO 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)). Nouvelle teneur selon le ch. I de l’O du DFI du 28 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)).
 [^12a-16]: Introduite par le ch. I de l’O du DFI du 24 avr. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 244](https://fedlex.data.admin.ch/eli/oc/2023/244)).
 [^12a-17]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
-[^12a-18]: Introduite par le ch. I de l’O du DFI du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
-[^12a-19]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
+[^12a-18]: Introduite par le ch. I de l’O du DFI du 29 nov. 2023 ([RO 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)). Nouvelle teneur selon le ch. I de l’O du DFI du 17 juin 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 303](https://fedlex.data.admin.ch/eli/oc/2024/303)).
+[^12a-19]: Introduit par le ch. I de l’O du DFI du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)).
 [^12a-20]: Introduit par le ch. I de l’O du DFI du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)).
-[^12a-21]: Introduit par le ch. I de l’O du DFI du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)).
 
 #### Art. 12b
 
@@ -809,8 +824,9 @@ L’assurance prend en charge les coûts des mesures suivantes visant la prophyl
 <tr><td>d.[^12b-4] Immunisation passive post-expositionnelle</td><td>Selon les recommandations de l’OFSP et de la Commission suisse pour les vaccinations (directives et recommandations «Immunisation passive post-expositionnelle» d’octobre 2004)[^12b-5]. En cas d’indication professionnelle, la vaccination n’est pas prise en charge par l’assurance.</td></tr>
 <tr><td>e.[^12b-6] Mastectomie et / ou adnexectomie prophylactique</td><td>Chez les porteuses de mutations ou de délétions génétiques associées à un risque fortement accru de cancer du sein ou des ovaires, ou chez les femmes présentant un risque individuel comparable. La condition préalable à la prise en charge est un conseil génétique visé à l’art. 12*d*, let. f. Outre la prédisposition génétique, il faut aussi tenir compte de l’âge de la personne à conseiller ainsi que des cancers déjà survenus chez elle et chez des parents du premier et du deuxième degré. Indication adaptée au risque et à l’âge selon le Document de référence risque familial fortement accru de cancer du sein ou des ovaires de l’OFSP du 2 novembre 2023[^12b-7].</td></tr>
 <tr><td>f.[^12b-8] Vaccination passive avec immunoglobulines de l’hépatite B</td><td>Pour les nouveau-nés de mères HbsAg-positives.</td></tr>
-<tr><td>g.[^12b-9] Anticorps monoclonal pour la prophylaxie du VRS</td><td>Pose de l’indication conformément aux recommandations «Consensus sur la prévention des infections par le virus respiratoire syncytial (VRS) avec l’anticorps humanisé monoclonal palivizumab (Synagis®) [mise au point 2016]»[^12b-10] du groupe de travail interdisciplinaire composé de membres du Groupe d’infectiologie pédiatrique suisse (PIGS), de la Société suisse de pneumologie pédiatrique (SSPP), de la Société suisse de cardiologie pédiatrique (SSCP) et de la Société suisse de néonatologie (SSN). Pour les anciens prématurés atteints de dysplasie broncho-pulmonaire: pose de l’indication par un médecin pédiatre avec spécialisation en néonatologie (programme de formation postgraduée du 1<sup>er</sup> juillet 2015, révisé le 17 juin 2021[^12b-11]) ou en pneumologie pédiatrique (programme de formation postgraduée du 1<sup>er</sup> juillet 2004, révisé le 16 juin 2016[^12b-12]). Pour les enfants atteints de vitium cardiaque congénital, hémodynamiquement important: pose de l’indication par un médecin pédiatre avec spécialisation en cardiologie pédiatrique (programme de formation postgraduée du 1<sup>er</sup> juillet 2004, révisé le 16 juin 2016[^12b-13]).</td></tr>
-<tr><td>h.[^12b-14] Immunisation passive à l’aide d’anticorps contre le COVID-19</td><td>Pour les personnes immunodéficientes ayant la plus haute priorité pour un traitement d’immunisation passive conformément à la «Position paper on the use of monoclonal antibodies against SARS-CoV-2 as passive immunisation treatments in severely immunocompromised persons in Switzerland»[^12b-15], version du 26 avril 2022, et pour les personnes atteintes de drépanocytose. Les coûts ne sont pris en charge que pour les préparations d’anticorps qui disposent de l’autorisation nécessaire pour les indications concernées.</td></tr>
+<tr><td>g.[^12b-9] Anticorps monoclonal pour la prophylaxie du VRS</td><td>Avec un anticorps humanisé monoclonal. 1. Pose de l’indication pour tous les enfants jusqu’à 1 an et pour les enfants jusqu’à 2 ans présentant un risque élevé de développer une forme grave du VRS conformément aux recommandations «Consensus statement / recommendation on the prevention of respiratory syncytial virus (RSV) infections with the monoclonal antibody Nirsevimab (Beyfortus®)» du groupe de travail interdisciplinaire sur le Nirsevimab composé de membres de Pédiatrie Suisse, de Kinderärzte Schweiz, du Groupe d’infectiologie pédiatrique suisse (PIGS), de la Société suisse de néonatologie (SSN), de la Société suisse de pneumologie pédiatrique (SSPP), de la Société suisse de cardiologie pédiatrique (SSCP), de gynécologie Suisse, de la Société suisse de neuropédiatrie (SSNP), de la CFV et de l’OFSP, de janvier 2024[^12b-10]. L’obligation de prise en charge est subordonnée à une obligation d’évaluation. ou 2. Pose de l’indication selon les recommandations «Consensus sur la prévention des infections par le virus respiratoire syncytial (VRS) avec l’anticorps humanisé monoclonal palivizumab (Synagis®) [mise au point 2016]»[^12b-11] du groupe de travail interdisciplinaire composé de membres du PIGS, de la SSPP, de la SSCP et de la SSN. Pour les anciens prématurés atteints de dysplasie broncho-pulmonaire: pose de l’indication par un médecin pédiatre avec spécialisation en néonatologie (programme de formation postgraduée du 1<sup>er</sup> juillet 2015, révisé le 17 juin 2021[^12b-12]) ou en pneumologie pédiatrique (programme de formation postgraduée du 1<sup>er</sup> juillet 2004, révisé le 16 juin 2016[^12b-13]). Pour les enfants atteints de vitium cardiaque congénital, hémodynamiquement important: pose de l’indication par un médecin pédiatre avec spécialisation en cardiologie pédiatrique (programme de formation postgraduée du 1<sup>er</sup> juillet 2004, révisé le 16 juin 2016[^12b-14]).</td></tr>
+<tr><td>h.[^12b-15] Immunisation passive à l’aide d’anticorps contre le COVID-19</td><td>Pour les personnes immunodéficientes ayant la plus haute priorité pour un traitement d’immunisation passive conformément à la «Position paper on the use of monoclonal antibodies against SARS-CoV-2 as passive immunisation treatments in severely immunocompromised persons in Switzerland»[^12b-16], version du 26 avril 2022, et pour les personnes atteintes de drépanocytose. Les coûts ne sont pris en charge que pour les préparations d’anticorps qui disposent de l’autorisation nécessaire pour les indications concernées.</td></tr>
+<tr><td>i.[^12b-17] Prophylaxie pré-exposition contre le VIH</td><td>1. Par des médecins participant au programme «SwissPrEPared» sous la direction de l’Institut d’épidémiologie, de biostatistique et de prévention de l’Université de Zurich. 2. Indications selon le document de référence de l’OFSP «Prophylaxie pré‑exposition contre VIH (HIV‑PrEP) du 11 mars 2024[^12b-18]». La prise en charge couvre le médicament ainsi que les consultations médicales et les analyses de laboratoire nécessaires selon le document de référence de l’OFSP «Prophylaxie pré-exposition contre VIH (HIV‑PrEP)» du 11 mars 2024. 3. Analyses de laboratoire selon la liste des analyses. 4. L’obligation de prise en charge est subordonnée à une obligation d’évaluation. 5. En cas de recommandation médicale aux voyageurs, la prophylaxie n’est pas prise en charge par l’assurance.</td></tr>
 </table>
 
 [^12b-1]: Introduit par le ch. I de l’O du DFI du 21 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)).
@@ -821,13 +837,16 @@ L’assurance prend en charge les coûts des mesures suivantes visant la prophyl
 [^12b-6]: Introduite par le ch. I de l’O du DFI du 5 déc. 2011 ([RO 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)). Nouvelle teneur selon le ch. I de l’O du DFI du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
 [^12b-7]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
 [^12b-8]: Introduite par le ch. I de l’O du DFI du 8 juin 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)).
-[^12b-9]: Introduite par le ch. I de l’O du DFI du 2 juin 2022 ([RO 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)). Nouvelle teneur selon le ch. I de l’O du DFI du 28 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)).
+[^12b-9]: Introduite par le ch. I de l’O du DFI du 2 juin 2022 ([RO 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)). Nouvelle teneur selon le ch. I de l’O du DFI du 17 juin 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024, le ch. 1 jusqu’au 31 déc. 2025 ([RO 2024 303](https://fedlex.data.admin.ch/eli/oc/2024/303)).
 [^12b-10]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
 [^12b-11]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
 [^12b-12]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
 [^12b-13]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
-[^12b-14]: Introduite par le ch. I de l’O du DFI du 2 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)).
-[^12b-15]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
+[^12b-14]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
+[^12b-15]: Introduite par le ch. I de l’O du DFI du 2 juin 2022, en vigueur depuis le 1<sup>er</sup> juil. 2022 ([RO 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)).
+[^12b-16]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
+[^12b-17]: Introduite par le ch. I de l’O du DFI du 29 nov. 2023 ([RO 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)). Nouvelle teneur selon le ch. I de l’O du DFI du 17 juin 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 303](https://fedlex.data.admin.ch/eli/oc/2024/303)).
+[^12b-18]: Le document peut être consulté à l’adresse suivante: [www.ofsp.admin.ch/ref](http://www.ofsp.admin.ch/ref).
 
 #### Art. 12c
 
@@ -884,14 +903,14 @@ L’assurance prend en charge les coûts des mesures suivantes en vue du dépist
 
 <table>
 <tr><th>Mesure</th><th>Conditions</th></tr>
-<tr><td>a.[^12e-2] Dépistage de: phénylcétonurie, galactosémie, déficit en biotinidase, syndrome adrénogénital, hypothyroïdie congénitale, déficit en acyl-CoA medium-chain-déhydrogénase (MCAD), fibrose kystique, acidurie glutarique de type 1, maladie du sirop d’érable, déficits immunitaires congénitaux sévères.</td><td>Pour les nouveau-nés. Analyses de laboratoire selon la liste des analyses (LA).</td></tr>
+<tr><td>a.[^12e-2] Dépistage de: phénylcétonurie, galactosémie, déficit en biotinidase, syndrome adrénogénital, hypothyroïdie congénitale, déficit en acyl-CoA medium-chain-déhydrogénase (MCAD), fibrose kystique, acidurie glutarique de type 1, maladie du sirop d’érable, déficits immunitaires congénitaux sévères, amyotrophie spinale.</td><td>Pour les nouveau-nés. Analyses de laboratoire selon la liste des analyses.</td></tr>
 <tr><td>b.[^12e-3] Examen gynécologique, y compris les prélèvements de dépistage cytologiques cervico-vaginaux.</td><td>Les deux premiers examens, y compris les prélèvements de dépistage cytologiques (en particulier le test de Papanicolau pour le dépistage précoce du cancer du col de l’utérus, cytologie en milieu liquide pour la détection précoce du cancer du col de l’utérus avec les méthodes ThinPrep ou Autocyte Prep / SurePath), sont réalisés annuellement puis tous les trois ans. Ce schéma est valable en cas de résultats normaux. Sinon, la fréquence des examens dépend de l’évaluation clinique. La mise en évidence du papillomavirus humain lors du frottis est exclue de la prise en charge des coûts.</td></tr>
 <tr><td>c.[^12e-4] Mammographie de dépistage</td><td>Dès l’âge de 50 ans, tous les deux ans. Dans le cadre d’un programme organisé de dépistage du cancer du sein qui remplit les conditions fixées par l’ordonnance du 23 juin 1999 sur la garantie de la qualité des programmes de dépistage du cancer du sein par mammographie[^12e-5]. Aucune franchise n’est prélevée sur cette prestation.</td></tr>
 <tr><td>d.[^12e-6] Dépistage du cancer du côlon</td><td>Tranche d’âge de 50 à 69 ans. Méthodes: – analyse visant à détecter la présence de sang occulte dans les selles, tous les deux ans, analyses de laboratoire selon la liste des analyses (LA), coloscopie en cas de résultat positif, ou – coloscopie, tous les dix ans. Si l’analyse a lieu dans le cadre des programmes cantonaux de Bâle-Campagne, de Bâle-Ville, de Berne, de Fribourg, de Genève, des Grisons, du Jura, de Lucerne, de Neuchâtel, de Saint-Gall, du Tessin, d’Uri, de Vaud ou du Valais, aucune franchise n’est prélevée pour cette prestation.</td></tr>
 </table>
 
 [^12e-1]: Introduit par le ch. I de l’O du DFI du 21 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6839](https://fedlex.data.admin.ch/eli/oc/2007/882)).
-[^12e-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 30 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 5085](https://fedlex.data.admin.ch/eli/oc/2018/793)).
+[^12e-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 17 juin 2024, en vigueur depuis le 1er juil. 2024 ([RO 2024 303](https://fedlex.data.admin.ch/eli/oc/2024/303)).
 [^12e-3]: Nouvelle teneur selon le ch. I de l’O du DFI du 30 nov. 2020, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)).
 [^12e-4]: Nouvelle teneur selon le ch. I de l’O du DFI du 6 juin 2019, en vigueur depuis le 1<sup>er</sup> juil. 2019 ([RO 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)).
 [^12e-5]: [RS 832.102.4](https://fedlex.data.admin.ch/eli/cc/1999/341)
@@ -948,12 +967,12 @@ L’assurance prend en charge une contribution de 150 francs:
 
 **Conseils en cas d’allaitement**
 
-<sup>1</sup> Les conseils en cas d’allaitement (art. 29, al. 2, let. c, LAMal[^15-1]) sont à la charge de l’assurance lorsqu’ils sont prodigués par une sage-femme, par une organisation de sages-femmes ou par une infirmière ou un infirmier ayant suivi une formation spéciale dans ce domaine.[^15-2]
+<sup>1</sup> Les conseils en cas d’allaitement (art. 29, al. 2, let. c, LAMal[^15-1]) sont à la charge de l’assurance lorsqu’ils sont prodigués par une sage-femme, par une organisation de sages-femmes ou par un infirmier ayant suivi une formation spéciale dans ce domaine.[^15-2]
 
 <sup>2</sup> Le remboursement est limité à trois séances.
 
 [^15-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
-[^15-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 9 déc. 2016, en vigueur depuis le 1<sup>er</sup> janv. 2017 ([RO 2016 4933](https://fedlex.data.admin.ch/eli/oc/2016/793)).
+[^15-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 221](https://fedlex.data.admin.ch/eli/oc/2024/221)).
 
 #### Art. 16
 
@@ -1642,14 +1661,14 @@ Les groupes IT sont répartis dans les blocs suivants, conformément à l’art.
   - 2\. système respiratoire (03),
   - 3\. maladies infectieuses (08),
   - 4\. gynaecologica (09),
-  - 5\. ophtalmologica (11),
+  - 5\. ophthalmologica (11),
   - 6\. oto-rhinolaryngologica (12),
   - 6*a*.[^34d-4] autres médicaments (médecines complémentaires) (20)
   - 7\. cœur et circulation (médecines complémentaires) (52),
   - 8\. système respiratoire (médecines complémentaires) (53),
   - 9\. maladies infectieuses (médecines complémentaires) (58),
   - 10\. gynaecologica (médecines complémentaires) (59),
-  - 11\. ophtalmologica (médecines complémentaires) (61),
+  - 11\. ophthalmologica (médecines complémentaires) (61),
   - 12\. oto-rhinolaryngologica (médecines complémentaires) (62).[^34d-5]
 
 <sup>2</sup>
@@ -1823,7 +1842,9 @@ L’OFSP vérifie si un excédent de recettes au sens de l’art. 67*a* OAMal a 
 
 <sup>2</sup> Toutes les formes commercialisées d’un médicament sont prises en compte dans le calcul.
 
-<sup>3</sup> L’excédent de recettes dans les cas visés à l’al. 1, let. a et b, est calculé comme suit
+<sup>3</sup>
+
+L’excédent de recettes dans les cas visés à l’al. 1, let. a et b, est calculé comme suit:
 
 - a. on établit tout d’abord la différence entre le prix de fabrique lors de l’admission ou le prix de fabrique pendant la procédure de recours et le prix de fabrique après la baisse de prix;
 - b. puis, cette différence est multipliée par le nombre d’emballages vendus entre le moment de l’admission et celui de la baisse de prix ou par le nombre d’emballages vendus pendant la procédure de recours.
@@ -1855,26 +1876,26 @@ Le calcul de l’excédent de recettes dans le cas visé à l’al. 1, let. c, s
 
 La prime relative au prix pour les médicaments qui ne sont remis que sur prescription s’élève à:
 
-- a. 12 % pour un prix de fabrique jusqu’à 879 fr. 99;
-- b. 7 % pour un prix de fabrique compris entre 880 francs et 2569 fr. 99;
-- c. 0 % pour un prix de fabrique supérieur ou égal à 2570 francs.
+- a. 6 % pour un prix de fabrique jusqu’à 4720 fr. 99;
+- b. 0 % pour un prix de fabrique supérieur ou égal à 4721 francs.
 
 <sup>2</sup>
 
 La prime par emballage pour les médicaments qui ne sont remis que sur prescription s’élève à:
 
-- a. 4 francs pour un prix de fabrique jusqu’à 4 fr. 99;
-- b. 8 francs pour un prix de fabrique compris entre 5 francs et 10 fr. 99;
-- c. 12 francs pour un prix de fabrique compris entre 11 francs et 14 fr. 99;
-- d. 16 francs pour un prix de fabrique compris entre 15 francs et 879 fr. 99;
-- e. 60 francs pour un prix de fabrique compris entre 880 francs et 2569 fr. 99;
-- f. 240 francs pour un prix de fabrique supérieur ou égal à 2570 francs.
+- a. 9 francs pour un prix de fabrique jusqu’à 7 fr. 99;
+- b. 16 francs pour un prix de fabrique compris entre 8 francs et 4720 fr. 99;
+- c. 300 francs pour un prix de fabrique supérieur ou égal à 4721 francs.
 
 <sup>3</sup> La prime relative au prix pour les médicaments qui sont remis sans prescription s’élève à 80 % du prix de fabrique.
 
-<sup>4</sup> La part relative à la distribution est fixée pour tous les fournisseurs de prestations d’une manière uniforme. L’OFSP peut en outre tenir compte de situations de distribution particulières.
+<sup>4</sup> La part relative à la distribution pour les médicaments composés des mêmes substances actives est déterminée, en prenant en compte les dosages et les tailles d’emballage, à partir du prix de fabrique moyen des génériques ou des biosimilaires. La détermination de la part relative à la distribution est régie par les al. 1 à 3.
 
-[^38-1]: Anciennement art. 35*a*. Introduit par le ch. I de l’O du DFI du 27 nov. 2000 ([RO 2000 3088](https://fedlex.data.admin.ch/eli/oc/2000/560)). Nouvelle teneur selon le ch. I de l’O du DFI du 1<sup>er</sup> juil. 2009, en vigueur depuis le 1<sup>er</sup> oct. 2009 ([RO 2009 4251](https://fedlex.data.admin.ch/eli/oc/2009/521)).
+<sup>5</sup> La détermination de la part relative à la distribution conformément à l’al. 4 est réalisée dans le cadre du réexamen des conditions d’admission tous les trois ans ou après l’inscription du premier générique ou du premier biosimilaire dans la liste des spécialités.
+
+<sup>6</sup> La part relative à la distribution est fixée d’une manière uniforme pour tous les fournisseurs de prestations. L’OFSP peut tenir compte de situations de distribution particulières.
+
+[^38-1]: Anciennement art. 35*a*. Introduit par le ch. I de l’O du DFI du 27 nov. 2000 ([RO 2000 3088](https://fedlex.data.admin.ch/eli/oc/2000/560)). Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2023 773](https://fedlex.data.admin.ch/eli/oc/2023/773)). Voir aussi la disp. trans. de cette mod. à la fin du texte.
 
 ### Section 4 Quote-part des médicaments
 
@@ -1909,7 +1930,7 @@ Le médecin ou le chiropracticien et le pharmacien informent le patient lorsque:
 
 <sup>9</sup> Le présent article s’applique également aux médicaments pris en charge conformément aux dispositions de l’art. 71*a* OAMal.
 
-[^38a-1]: Nouvelle teneur selon le ch. I de l’O du DFI du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 571](https://fedlex.data.admin.ch/eli/oc/2023/571)).
+[^38a-1]: Introduit par le ch. I de l’O du DFI du 1<sup>er</sup> fév. 2017 ([RO 2017 633](https://fedlex.data.admin.ch/eli/oc/2017/108)). Nouvelle teneur selon le ch. I de l’O du DFI du 22 sept. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 571](https://fedlex.data.admin.ch/eli/oc/2023/571)).
 [^38a-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 773](https://fedlex.data.admin.ch/eli/oc/2023/773)).
 
 ### Section 5 Prise en charge de médicaments dans des cas particuliers
@@ -2332,6 +2353,14 @@ L’art. 34*b*, al. 2, let. a, est applicable dans sa version du 19 avril 2023 a
 
 [^u17-2]: [RO 2023 195](https://fedlex.data.admin.ch/eli/oc/2023/195)
 
+## Disposition transitoire relative à la modification du 8 décembre 2023
+
+[^u18-1]
+
+[^u18-1]: [RO 2023 773](https://fedlex.data.admin.ch/eli/oc/2023/773)
+
+La première détermination de la part relative à la distribution conformément à l’art. 38, al. 4, est réalisée au 1<sup>er</sup> juillet 2024. Le niveau moyen du prix des génériques ou des biosimilaires au 1<sup>er</sup> avril 2024 est déterminant. Pour les substances actives dont le premier générique ou biosimilaire est inscrit dans la liste des spécialités au 1<sup>er</sup> mai ou au 1<sup>er</sup> juin 2024, le niveau de prix du générique ou du biosimilaire ou le niveau moyen du prix des génériques ou des biosimilaires contenant les mêmes substances actives au 1<sup>er</sup> mai 2024 ou au 1<sup>er</sup> juin 2024 est déterminant.
+
 Annexe 1[^t-2]
 
 (art. 1)
@@ -2340,8 +2369,8 @@ Annexe 1[^t-2]
 
 [^annex1-lvlu1-1]
 
-[^t-2]: Nouvelle teneur selon le ch. II de l’O du DFI du 7 fév. 2020 ([RO 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)). Mise à jour par le ch. II al. 1 des O du DFI du 27 mai 2020 ([RO 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)), du 30 nov. 2020 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), du 8 juin 2021 ([RO 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)), du 1<sup>er</sup> déc. 2021 ([RO 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)), du 2 juin 2022 ([RO 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)), le ch. II des O du DFI du 28 nov. 2022 ([RO 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)), du 16 juin 2023 ([RO 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)) et du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
-[^annex1-lvlu1-1]: Le contenu de l’annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/807](https://fedlex.data.admin.ch/eli/oc/2023/807) &gt; Informations générales &gt; Étendue de la publication &gt; Publication sous la forme d’un renvoi.
+[^t-2]: Nouvelle teneur selon le ch. II de l’O du DFI du 7 fév. 2020 ([RO 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)). Mise à jour par le ch. II al. 1 des O du DFI du 27 mai 2020 ([RO 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)), du 30 nov. 2020 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), du 8 juin 2021 ([RO 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)), du 1<sup>er</sup> déc. 2021 ([RO 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)), du 2 juin 2022 ([RO 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)), le ch. II des O du DFI du 28 nov. 2022 ([RO 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)), du 16 juin 2023 ([RO 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)), du 29 nov. 2023 ([RO 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)) et du 17 juin 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 303](https://fedlex.data.admin.ch/eli/oc/2024/303)).
+[^annex1-lvlu1-1]: Le contenu de l’annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/303](https://fedlex.data.admin.ch/eli/oc/2024/303) &gt; Informations générales &gt; Étendue de la publication &gt; Publication sous la forme d’un renvoi.
 
 Annexe 1a[^t-3]
 
@@ -2351,8 +2380,8 @@ Annexe 1a[^t-3]
 
 [^annex1a-lvlu1-1]
 
-[^t-3]: Introduite par le ch. II al. 4 de l’O du DFI du 7 juin 2018 ([RO 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)). Nouvelle teneur selon le ch. II de l’O du DFI du 7 fév. 2020 ([RO 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)). Mise à jour par le ch. II al. 2 des O du DFI du 30 nov. 2020 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), du 1<sup>er</sup> déc. 2021 ([RO 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)), le ch. II des O du DFI du 28 nov. 2022 ([RO 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)), du 16 juin 2023 ([RO 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)) et du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
-[^annex1a-lvlu1-1]: Le contenu de l’annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/807](https://fedlex.data.admin.ch/eli/oc/2023/807) &gt; Informations générales &gt; Étendue de la publication &gt; Publication sous la forme d’un renvoi.
+[^t-3]: Introduite par le ch. II al. 4 de l’O du DFI du 7 juin 2018 ([RO 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)). Nouvelle teneur selon le ch. II de l’O du DFI du 7 fév. 2020 ([RO 2020 529](https://fedlex.data.admin.ch/eli/oc/2020/99)). Mise à jour par le ch. II al. 2 des O du DFI du 30 nov. 2020 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), du 1<sup>er</sup> déc. 2021 ([RO 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)), le ch. II des O du DFI du 28 nov. 2022 ([RO 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)), du 16 juin 2023 ([RO 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)), du 29 nov. 2023 ([RO 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)) et du 17 juin 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 303](https://fedlex.data.admin.ch/eli/oc/2024/303)).
+[^annex1a-lvlu1-1]: Le contenu de l’annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/303](https://fedlex.data.admin.ch/eli/oc/2024/303) &gt; Informations générales &gt; Étendue de la publication &gt; Publication sous la forme d’un renvoi.
 
 Annexe 2[^t-4]
 
@@ -2362,8 +2391,8 @@ Annexe 2[^t-4]
 
 [^annex2-lvlu1-1]
 
-[^t-4]: Mise à jour par le ch. II al. 2 des O du DFI du 5 juin 2009 ([RO 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)), du 27 oct. 2009 ([RO 2009 6083](https://fedlex.data.admin.ch/eli/oc/2009/744)), du 14 juin 2010 ([RO 2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359)), du 2 déc. 2010 ([RO 2010 5837](https://fedlex.data.admin.ch/eli/oc/2010/831)), du 31 mai 2011 ([RO 2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)), du 5 déc. 2011 ([RO 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)), du 12 juin 2012 ([RO 2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)), du 15 nov. 2012 ([RO 2012 6587](https://fedlex.data.admin.ch/eli/oc/2012/795)), du 6 déc. 2013 ([RO 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)), du 16 mai 2014 ([RO 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)), du 20 nov. 2014 ([RO 2014 4393](https://fedlex.data.admin.ch/eli/oc/2014/724)), du 17 juin 2015 ([RO 2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)), du 27 nov. 2015 ([RO 2015 5125](https://fedlex.data.admin.ch/eli/oc/2015/837)), du 20 juin 2016 ([RO 2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)), du 25 nov. 2016 ([RO 2016 4639](https://fedlex.data.admin.ch/eli/oc/2016/750)), du 2 juin 2017 ([RO 2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379)), du 28 nov. 2017 ([RO 2017 7151](https://fedlex.data.admin.ch/eli/oc/2017/773)), du 7 juin 2018 ([RO 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)), le ch. I de l’O du DFI du 7 juin 2018 ([RO 2018 2375](https://fedlex.data.admin.ch/eli/oc/2018/340)), le ch. II al. 3 de l’O du DFI du 30 nov. 2018 ([RO 2018 5085](https://fedlex.data.admin.ch/eli/oc/2018/793)), le ch. II al. 2 des O du DFI du 16 janv. 2019 ([RO 2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)), du 6 juin 2019 ([RO 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)), du 6 déc. 2019 ([RO 2019 4387](https://fedlex.data.admin.ch/eli/oc/2019/756)), du 7 fév. 2020 ([RO 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)), du 27 mai 2020 ([RO 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)), le ch. II al. 3 de l’O du DFI du 30 nov. 2020 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), le ch. I de l’O du DFI du 30 nov. 2020 ([RO 2020 6337](https://fedlex.data.admin.ch/eli/oc/2020/1034)), le ch. II al. 2 de l’O du DFI du 8 juin 2021 ([RO 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)), le ch. I des O du DFI des 8 juin 2021 ([RO 2021 393](https://fedlex.data.admin.ch/eli/oc/2021/393), [394](https://fedlex.data.admin.ch/eli/oc/2021/394), [395](https://fedlex.data.admin.ch/eli/oc/2021/395)), le ch. II al. 3 de l’O du DFI du 1<sup>er</sup> déc. 2021 ([RO 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)), le ch. I de l’O du DFI du 1<sup>er</sup> déc. 2021 ([RO 2021 887](https://fedlex.data.admin.ch/eli/oc/2021/887)), le ch. II al. 2 de l’O du DFI du 2 juin 2022 ([RO 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)), le ch. I des O du DFI du 2 juin 2022 ([RO 2022 370](https://fedlex.data.admin.ch/eli/oc/2022/370)), du 1<sup>er</sup> sept. 2022 ([RO 2022 527](https://fedlex.data.admin.ch/eli/oc/2022/527)), le ch. II des O du DFI du 28 nov. 2022 ([RO 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)), du 16 juin 2023 ([RO 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)) et du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
-[^annex2-lvlu1-1]: Le contenu de l’annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/807](https://fedlex.data.admin.ch/eli/oc/2023/807) &gt; Informations générales &gt; Étendue de la publication &gt; Publication sous la forme d’un renvoi.
+[^t-4]: Mise à jour par le ch. II al. 2 des O du DFI du 5 juin 2009 ([RO 2009 2821](https://fedlex.data.admin.ch/eli/oc/2009/370)), du 27 oct. 2009 ([RO 2009 6083](https://fedlex.data.admin.ch/eli/oc/2009/744)), du 14 juin 2010 ([RO 2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359)), du 2 déc. 2010 ([RO 2010 5837](https://fedlex.data.admin.ch/eli/oc/2010/831)), du 31 mai 2011 ([RO 2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)), du 5 déc. 2011 ([RO 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)), du 12 juin 2012 ([RO 2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)), du 15 nov. 2012 ([RO 2012 6587](https://fedlex.data.admin.ch/eli/oc/2012/795)), du 6 déc. 2013 ([RO 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)), du 16 mai 2014 ([RO 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)), du 20 nov. 2014 ([RO 2014 4393](https://fedlex.data.admin.ch/eli/oc/2014/724)), du 17 juin 2015 ([RO 2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)), du 27 nov. 2015 ([RO 2015 5125](https://fedlex.data.admin.ch/eli/oc/2015/837)), du 20 juin 2016 ([RO 2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)), du 25 nov. 2016 ([RO 2016 4639](https://fedlex.data.admin.ch/eli/oc/2016/750)), du 2 juin 2017 ([RO 2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379)), du 28 nov. 2017 ([RO 2017 7151](https://fedlex.data.admin.ch/eli/oc/2017/773)), du 7 juin 2018 ([RO 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)), le ch. I de l’O du DFI du 7 juin 2018 ([RO 2018 2375](https://fedlex.data.admin.ch/eli/oc/2018/340)), le ch. II al. 3 de l’O du DFI du 30 nov. 2018 ([RO 2018 5085](https://fedlex.data.admin.ch/eli/oc/2018/793)), le ch. II al. 2 des O du DFI du 16 janv. 2019 ([RO 2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)), du 6 juin 2019 ([RO 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)), du 6 déc. 2019 ([RO 2019 4387](https://fedlex.data.admin.ch/eli/oc/2019/756)), du 7 fév. 2020 ([RO 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)), du 27 mai 2020 ([RO 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)), le ch. II al. 3 de l’O du DFI du 30 nov. 2020 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), le ch. I de l’O du DFI du 30 nov. 2020 ([RO 2020 6337](https://fedlex.data.admin.ch/eli/oc/2020/1034)), le ch. II al. 2 de l’O du DFI du 8 juin 2021 ([RO 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)), le ch. I des O du DFI des 8 juin 2021 ([RO 2021 393](https://fedlex.data.admin.ch/eli/oc/2021/393), [394](https://fedlex.data.admin.ch/eli/oc/2021/394), [395](https://fedlex.data.admin.ch/eli/oc/2021/395)), le ch. II al. 3 de l’O du DFI du 1<sup>er</sup> déc. 2021 ([RO 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)), le ch. I de l’O du DFI du 1<sup>er</sup> déc. 2021 ([RO 2021 887](https://fedlex.data.admin.ch/eli/oc/2021/887)), le ch. II al. 2 de l’O du DFI du 2 juin 2022 ([RO 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)), le ch. I des O du DFI du 2 juin 2022 ([RO 2022 370](https://fedlex.data.admin.ch/eli/oc/2022/370)), du 1<sup>er</sup> sept. 2022 ([RO 2022 527](https://fedlex.data.admin.ch/eli/oc/2022/527)), le ch. II des O du DFI du 28 nov. 2022 ([RO 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)), du 16 juin 2023 ([RO 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)), du 29 nov. 2023 ([RO 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)) et du 17 juin 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 303](https://fedlex.data.admin.ch/eli/oc/2024/303)).
+[^annex2-lvlu1-1]: Le contenu de l’annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/303](https://fedlex.data.admin.ch/eli/oc/2024/303) &gt; Informations générales &gt; Étendue de la publication &gt; Publication sous la forme d’un renvoi.
 
 Annexe 3[^t-5]
 
@@ -2373,8 +2402,8 @@ Annexe 3[^t-5]
 
 [^annex3-lvlu1-1]
 
-[^t-5]: Mise à jour par le ch. I des O du DFI du 28 janv. 2009 ([RO 2009 1669](https://fedlex.data.admin.ch/eli/oc/2009/246)), du 26 juin 2009 ([RO 2009 3173](https://fedlex.data.admin.ch/eli/oc/2009/401)), le ch. II al. 3 des O du DFI du 27 oct. 2009 ([RO 2009 6083](https://fedlex.data.admin.ch/eli/oc/2009/744)), du 14 juin 2010 ([RO 2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359)), du 2 déc. 2010 ([RO 2010 5837](https://fedlex.data.admin.ch/eli/oc/2010/831)), du 31 mai 2011 ([RO 2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)), du 5 déc. 2011 ([RO 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)), du 12 juin 2012 ([RO 2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)), le ch. I de l’O du DFI du 13 août 2012 ([RO 2012 4347](https://fedlex.data.admin.ch/eli/oc/2012/511)), le ch. II al. 3 des O du DFI du 15 nov. 2012 ([RO 2012 6587](https://fedlex.data.admin.ch/eli/oc/2012/795)), du 6 déc. 2013 ([RO 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)), du 16 mai 2014 ([RO 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)), le ch. I de l’O du DFI du 21 oct. 2014 ([RO 2014 3487](https://fedlex.data.admin.ch/eli/oc/2014/607)), le ch. II al. 3 des O du DFI du 20 nov. 2014 ([RO 2014 4393](https://fedlex.data.admin.ch/eli/oc/2014/724)), du 17 juin 2015 ([RO 2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)), du 27 nov. 2015 ([RO 2015 5125](https://fedlex.data.admin.ch/eli/oc/2015/837)), du 20 juin 2016 ([RO 2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)), du 25 nov. 2016 ([RO 2016 4639](https://fedlex.data.admin.ch/eli/oc/2016/750)), du 2 juin 2017 ([RO 2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379)), du 28 nov. 2017 ([RO 2017 7151](https://fedlex.data.admin.ch/eli/oc/2017/773)), du 7 juin 2018 ([RO 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)), le ch. II al. 4 de l’O du DFI du 30 nov. 2018 ([RO 2018 5085](https://fedlex.data.admin.ch/eli/oc/2018/793)), le ch. II al. 3 des O du DFI du 16 janv. 2019 ([RO 2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)), du 6 juin 2019 ([RO 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)), du 7 fév. 2020 ([RO 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)), le ch. I des O du DFI du 28 fév. 2020 ([RO 2020 629](https://fedlex.data.admin.ch/eli/oc/2020/121)), du 27 avr. 2020 ([RO 2020 1409](https://fedlex.data.admin.ch/eli/oc/2020/277)), le ch. II al. 4 de l’O du DFI du 27 mai 2020 ([RO 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)), le ch. I de l’O du DFI du 25 sept. 2020 ([RO 2020 4139](https://fedlex.data.admin.ch/eli/oc/2020/755)), le ch. II al. 4 de l’O du DFI du 30 nov. 2020 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), le ch. I des O du DFI du 5 janv. 2021 ([RO 2021 44](https://fedlex.data.admin.ch/eli/oc/2021/44)), du 26 fév. 2021 ([RO 2021 148](https://fedlex.data.admin.ch/eli/oc/2021/148)), le ch. II al. 3 de l’O du DFI du 8 juin 2021 ([RO 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)), le ch. II al. 4 de l’O du DFI du 1<sup>er</sup> déc. 2021 ([RO 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)), le ch. I de l’O du DFI du 1<sup>er</sup> déc. 2021 ([RO 2021 886](https://fedlex.data.admin.ch/eli/oc/2021/886)), le ch. II al. 3 de l’O du DFI du 2 juin 2022 ([RO 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)), le ch. I de l’O du DFI du 2 juin 2022 ([RO 2022 371](https://fedlex.data.admin.ch/eli/oc/2022/371)), le ch. II de l’O du DFI du 28 nov. 2022 ([RO 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)), le ch. I des O du DFI du 21 déc. 2022 ([RO 2022 858](https://fedlex.data.admin.ch/eli/oc/2022/858)), du 27 janv. 2023 ([RO 2023 75](https://fedlex.data.admin.ch/eli/oc/2023/75)), le ch. II de l’O du DFI du 16 juin 2023 ([RO 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313), le ch. I de l’O du DFI du 17 oct. 2023 ([RO 2023 603](https://fedlex.data.admin.ch/eli/oc/2023/603)) et le ch. II de l’O du DFI du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
-[^annex3-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [ht[https://fedlex.data.admin.ch/eli/oc/2023/807](https://fedlex.data.admin.ch/eli/oc/2023/807)](https://fedlex.data.admin.ch/eli/oc/2023/603) &gt; Informations générales &gt; Étendue de la publication &gt; Publication sous la forme d’un renvoi.
+[^t-5]: Mise à jour par le ch. I des O du DFI du 28 janv. 2009 ([RO 2009 1669](https://fedlex.data.admin.ch/eli/oc/2009/246)), du 26 juin 2009 ([RO 2009 3173](https://fedlex.data.admin.ch/eli/oc/2009/401)), le ch. II al. 3 des O du DFI du 27 oct. 2009 ([RO 2009 6083](https://fedlex.data.admin.ch/eli/oc/2009/744)), du 14 juin 2010 ([RO 2010 2755](https://fedlex.data.admin.ch/eli/oc/2010/359)), du 2 déc. 2010 ([RO 2010 5837](https://fedlex.data.admin.ch/eli/oc/2010/831)), du 31 mai 2011 ([RO 2011 2669](https://fedlex.data.admin.ch/eli/oc/2011/370)), du 5 déc. 2011 ([RO 2011 6487](https://fedlex.data.admin.ch/eli/oc/2011/899)), du 12 juin 2012 ([RO 2012 3553](https://fedlex.data.admin.ch/eli/oc/2012/400)), le ch. I de l’O du DFI du 13 août 2012 ([RO 2012 4347](https://fedlex.data.admin.ch/eli/oc/2012/511)), le ch. II al. 3 des O du DFI du 15 nov. 2012 ([RO 2012 6587](https://fedlex.data.admin.ch/eli/oc/2012/795)), du 6 déc. 2013 ([RO 2013 5329](https://fedlex.data.admin.ch/eli/oc/2013/850)), du 16 mai 2014 ([RO 2014 1251](https://fedlex.data.admin.ch/eli/oc/2014/269)), le ch. I de l’O du DFI du 21 oct. 2014 ([RO 2014 3487](https://fedlex.data.admin.ch/eli/oc/2014/607)), le ch. II al. 3 des O du DFI du 20 nov. 2014 ([RO 2014 4393](https://fedlex.data.admin.ch/eli/oc/2014/724)), du 17 juin 2015 ([RO 2015 2197](https://fedlex.data.admin.ch/eli/oc/2015/406)), du 27 nov. 2015 ([RO 2015 5125](https://fedlex.data.admin.ch/eli/oc/2015/837)), du 20 juin 2016 ([RO 2016 2537](https://fedlex.data.admin.ch/eli/oc/2016/396)), du 25 nov. 2016 ([RO 2016 4639](https://fedlex.data.admin.ch/eli/oc/2016/750)), du 2 juin 2017 ([RO 2017 3487](https://fedlex.data.admin.ch/eli/oc/2017/379)), du 28 nov. 2017 ([RO 2017 7151](https://fedlex.data.admin.ch/eli/oc/2017/773)), du 7 juin 2018 ([RO 2018 2361](https://fedlex.data.admin.ch/eli/oc/2018/339)), le ch. II al. 4 de l’O du DFI du 30 nov. 2018 ([RO 2018 5085](https://fedlex.data.admin.ch/eli/oc/2018/793)), le ch. II al. 3 des O du DFI du 16 janv. 2019 ([RO 2019 439](https://fedlex.data.admin.ch/eli/oc/2019/78)), du 6 juin 2019 ([RO 2019 1931](https://fedlex.data.admin.ch/eli/oc/2019/355)), du 7 fév. 2020 ([RO 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)), le ch. I des O du DFI du 28 fév. 2020 ([RO 2020 629](https://fedlex.data.admin.ch/eli/oc/2020/121)), du 27 avr. 2020 ([RO 2020 1409](https://fedlex.data.admin.ch/eli/oc/2020/277)), le ch. II al. 4 de l’O du DFI du 27 mai 2020 ([RO 2020 2539](https://fedlex.data.admin.ch/eli/oc/2020/464)), le ch. I de l’O du DFI du 25 sept. 2020 ([RO 2020 4139](https://fedlex.data.admin.ch/eli/oc/2020/755)), le ch. II al. 4 de l’O du DFI du 30 nov. 2020 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), le ch. I des O du DFI du 5 janv. 2021 ([RO 2021 44](https://fedlex.data.admin.ch/eli/oc/2021/44)), du 26 fév. 2021 ([RO 2021 148](https://fedlex.data.admin.ch/eli/oc/2021/148)), le ch. II al. 3 de l’O du DFI du 8 juin 2021 ([RO 2021 392](https://fedlex.data.admin.ch/eli/oc/2021/392)), le ch. II al. 4 de l’O du DFI du 1<sup>er</sup> déc. 2021 ([RO 2021 885](https://fedlex.data.admin.ch/eli/oc/2021/885)), le ch. I de l’O du DFI du 1<sup>er</sup> déc. 2021 ([RO 2021 886](https://fedlex.data.admin.ch/eli/oc/2021/886)), le ch. II al. 3 de l’O du DFI du 2 juin 2022 ([RO 2022 369](https://fedlex.data.admin.ch/eli/oc/2022/369)), le ch. I de l’O du DFI du 2 juin 2022 ([RO 2022 371](https://fedlex.data.admin.ch/eli/oc/2022/371)), le ch. II de l’O du DFI du 28 nov. 2022 ([RO 2022 840](https://fedlex.data.admin.ch/eli/oc/2022/840)), le ch. I des O du DFI du 21 déc. 2022 ([RO 2022 858](https://fedlex.data.admin.ch/eli/oc/2022/858)), du 27 janv. 2023 ([RO 2023 75](https://fedlex.data.admin.ch/eli/oc/2023/75)), le ch. II de l’O du DFI du 16 juin 2023 ([RO 2023 313](https://fedlex.data.admin.ch/eli/oc/2023/313)), le ch. I de l’O du DFI du 17 oct. 2023 ([RO 2023 603](https://fedlex.data.admin.ch/eli/oc/2023/603)) et le ch. II de l’O du DFI du 29 nov. 2023 ([RO 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)) et du 17 juin 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 303](https://fedlex.data.admin.ch/eli/oc/2024/303)).
+[^annex3-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/303](https://fedlex.data.admin.ch/eli/oc/2024/303) &gt; Informations générales &gt; Étendue de la publication &gt; Publication sous la forme d’un renvoi.
 
 Annexe 4[^t-6]
 
@@ -2384,5 +2413,5 @@ Annexe 4[^t-6]
 
 [^annex4-lvlu1-1]
 
-[^t-6]: Mise à jour par le ch. II al. 2 de l’O du DFI du 2 juin 2005 ([RO 2005 2875](https://fedlex.data.admin.ch/eli/oc/2005/470)), le ch. II al. 4 de l’O du DFI du 7 fév. 2020 ([RO 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)), le ch. II al. 5 de l’O du DFI du 30 nov. 2020 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), le ch. II des O du DFI du 19 avr. 2023 ([RO 2023 195](https://fedlex.data.admin.ch/eli/oc/2023/195)) et du 29 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)).
-[^annex4-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/807](https://fedlex.data.admin.ch/eli/oc/2023/807) &gt; Informations générales &gt; Étendue de la publication &gt; Publication sous la forme d’un renvoi.
+[^t-6]: Mise à jour par le ch. II al. 2 de l’O du DFI du 2 juin 2005 ([RO 2005 2875](https://fedlex.data.admin.ch/eli/oc/2005/470)), le ch. II al. 4 de l’O du DFI du 7 fév. 2020 ([RO 2020 519](https://fedlex.data.admin.ch/eli/oc/2020/98)), le ch. II al. 5 de l’O du DFI du 30 nov. 2020 ([RO 2020 6327](https://fedlex.data.admin.ch/eli/oc/2020/1033)), le ch. II des O du DFI du 19 avr. 2023 ([RO 2023 195](https://fedlex.data.admin.ch/eli/oc/2023/195)), du 29 nov. 2023 ([RO 2023 807](https://fedlex.data.admin.ch/eli/oc/2023/807)) et du 17 juin 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 303](https://fedlex.data.admin.ch/eli/oc/2024/303)).
+[^annex4-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/303](https://fedlex.data.admin.ch/eli/oc/2024/303) &gt; Informations générales &gt; Étendue de la publication &gt; Publication sous la forme d’un renvoi.
