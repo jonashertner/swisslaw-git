@@ -3,13 +3,13 @@ canton: BS
 number: "211.110"
 title: Verordnung zum Einführungsgesetz zum Schweizerischen Zivilgesetzbuch
 language: de
-version: 2020-01-01
-valid_until: 2024-06-30
-version_adopted: 2019-12-03
+version: 2024-07-01
+valid_until: 2025-04-30
+version_adopted: 2024-06-04
 adopted: 1911-12-09
 in_force: 1912-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/211.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4735/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6300/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4735/pdf_file"
 
 Einführungsgesetz zum ZGB: Verordnung | Ergänzungserlasse zum Bundeszivilrecht
 
-Vom 9. Dezember 1911 (Stand 1. Januar 2020)
+Vom 9. Dezember 1911 (Stand 1. Juli 2024)
 
 Der Regierungsrat des Kantons Basel-Stadt
 
@@ -171,7 +171,7 @@ verordnet in Ausführung der §§ 10[^ingress-1], 15, 24, 96, 97, 111, 138, 176,
 
 CHF 35 bis CHF 850 werden erhoben für:
 
-- 1\. Entscheid betreffend Namensänderung[^38-2] — ZGB Art. 30, EG § 6
+- 1\. …
 - 2\.
 - 3\.
 - 4\.
@@ -197,7 +197,6 @@ CHF 200 bis CHF 2’000 werden erhoben für:
 - 1\. Entscheide betreffend Änderung des Stiftungszweckes oder der Stiftungsorganisation sowie Zusammenlegung und Aufhebung mit und ohne Liquidation der Stiftung — ZGB Art. 83, 84, 85, 86, 88, EG § 17-19
 
 [^38-1]: § 38 Abs. 1. II: Titel geändert durch § 3 Ziff. 15 der Zuständigkeitsverordnung vom 9. 12. 2008 (wirksam seit 1. 1. 2009, publiziert am 18. 3. 2009; SG 153.110).
-[^38-2]: § 38 Abs. 1. II. Ziff. 1: Laut Bundesgerichtsurteil vom 2. 2. 2000 darf für Namensänderungen gemäss Art. 30 Abs. 2 ZGB keine Gebühr erhoben werden.
 
 ## IV. Sachenrecht
 
