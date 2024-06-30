@@ -4,13 +4,13 @@ number: "811.11"
 title: Gesundheitsgesetz
 short: GesG
 language: de
-version: 2023-08-01
-valid_until: 2024-06-30
-version_adopted: 2022-01-26
+version: 2024-07-01
+valid_until: 2026-12-31
+version_adopted: 2024-05-15
 adopted: 2018-12-19
 in_force: 2019-09-01
 url: "https://bgs.so.ch/app/de/texts_of_law/811.11"
-pdf: "https://bgs.so.ch/api/de/versions/5365/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5648/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5365/pdf_file"
 
 (GesG)
 
-Vom 19.12.2018 (Stand 01.08.2023)
+Vom 19.12.2018 (Stand 01.07.2024)
 
 Der Kantonsrat von Solothurn
 
@@ -436,6 +436,14 @@ beschliesst:
 <sup>2</sup> Er kann einen sofortigen Zulassungsstopp in einem bestimmten Fachgebiet anordnen, sofern die Voraussetzungen gemäss Artikel 55*a* Absatz 6 KVG[^25ter-1] erfüllt sind.
 
 [^25ter-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
+
+#### § 25quater
+
+**Beschränkung der Zulassung von Pflegefachpersonen und Organisationen, die Pflegefachpersonen beschäftigen**
+
+<sup>1</sup> Der Regierungsrat kann einen sofortigen Zulassungsstopp von Pflegefachpersonen und Organisationen, die Pflegefachpersonen beschäftigen, anordnen, sofern die Voraussetzungen gemäss Artikel 55*b* KVG[^25quater-1] erfüllt sind.
+
+[^25quater-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
 
 ## 5. Rechte und Pflichten der Patienten und Patientinnen
 
