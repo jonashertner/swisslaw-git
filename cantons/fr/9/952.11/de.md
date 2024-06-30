@@ -4,13 +4,12 @@ number: "952.11"
 title: Reglement über die öffentlichen Gaststätten
 short: ÖGR
 language: de
-version: 2022-02-01
-valid_until: 2024-06-30
-version_adopted: 2022-04-08
+version: 2024-07-01
+version_adopted: 2024-06-18
 adopted: 1992-11-16
 in_force: 1993-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/952.11"
-pdf: "https://bdlf.fr.ch/api/de/versions/8602/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8603/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ pdf: "https://bdlf.fr.ch/api/de/versions/8602/pdf_file"
 
 (ÖGR)
 
-vom 16.11.1992 (Fassung in Kraft getreten am 01.02.2022)
+vom 16.11.1992 (Fassung in Kraft getreten am 01.07.2024)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -762,6 +761,14 @@ beschliesst:
 <sup>2</sup> Beschliesst der Betriebsführer, die Schliessungszeit hinauszuschieben, so füllt er eines seiner Formulare aus, unterzeichnet es und schlägt es an einem von aussen gut sichtbaren Ort an. Ein Formular entspricht jeweils einer Verlängerung um eine Stunde.
 
 <sup>3</sup> Nach Gebrauch stellt er das Formular unverzüglich dem Oberamt zu; dieses sorgt dafür, dass jeder Betrieb die bewilligte Anzahl Stunden einhält.
+
+#### Art. 67a
+
+**Benutzung der Räumlichkeiten**
+
+<sup>1</sup> Ausserhalb der erlaubten Öffnungszeiten darf der Betriebsführer Speisen und Getränke nur an Personen abgeben, die in seinem Haushalt leben oder vertraglich für ihn arbeiten.
+
+Der Aufenthalt von Dritten in den Gasträumen ohne triftigen Grund, wie z. B. den Unterhalt der Einrichtungen, ist verboten.
 
 #### Art. 68
 

@@ -4,13 +4,12 @@ number: "952.11"
 title: Règlement sur les établissements publics
 short: REPu
 language: fr
-version: 2022-02-01
-valid_until: 2024-06-30
-version_adopted: 2022-04-08
+version: 2024-07-01
+version_adopted: 2024-06-18
 adopted: 1992-11-16
 in_force: 1993-01-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/952.11"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8602/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8603/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Etablissements publics – R
 
 (REPu)
 
-du 16.11.1992 (version entrée en vigueur le 01.02.2022)
+du 16.11.1992 (version entrée en vigueur le 01.07.2024)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -762,6 +761,14 @@ Arrête:
 <sup>2</sup> Lorsqu'il décide de repousser l'heure de fermeture, l'exploitant remplit et signe une formule dont il dispose et l'affiche bien en évidence, à un endroit visible de l'extérieur de l'établissement. Chaque formule correspond à une heure de prolongation.
 
 <sup>3</sup> Après utilisation, il retourne sans délai la formule à la préfecture qui veille, pour chaque établissement, au respect du nombre d'heures autorisé.
+
+#### Art. 67a
+
+**Utilisation des locaux**
+
+<sup>1</sup> En dehors des heures d'ouverture autorisées, l'exploitant ne peut servir des mets ou des boissons qu'aux personnes qui vivent dans son ménage ou sont contractuellement à son service.
+
+Sauf motifs valables, tels que l'entretien des installations, la présence de tiers dans les espaces de consommation est interdite.
 
 #### Art. 68
 
