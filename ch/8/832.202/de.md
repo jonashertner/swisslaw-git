@@ -4,11 +4,11 @@ title: Verordnung vom 20. Dezember 1982 über die Unfallversicherung (UVV)
 short: UVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/38_38_38"
 language: de
-version: 2024-01-01
+version: 2024-07-01
 adopted: 1982-12-20
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20240101-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240701/de/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20240701-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20240101/de"
 
 (UVV)
 
-vom 20. Dezember 1982 (Stand am 1. Januar 2024)
+vom 20. Dezember 1982 (Stand am 1. Juli 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -68,9 +68,10 @@ Nicht obligatorisch versichert sind:
 - f.[^2-6] Mitglieder von Verwaltungsräten, die nicht im Betrieb tätig sind, für diese Tätigkeit;
 - g.[^2-7] …
 - h.[^2-8] Personen, die Tätigkeiten im öffentlichen Interesse ausüben, sofern kein Dienstvertrag vorliegt, wie insbesondere Mitglieder von Parlamenten, Behörden und Kommissionen, für diese Tätigkeit;
-- i.[^2-9] Angehörige der Milizfeuerwehren.
+- i.[^2-9] Angehörige der Milizfeuerwehren;
+- j.[^2-10] Personen, die als Sportlerinnen und Sportler oder Trainerinnen und Trainer bei einem Sportverein oder einer ähnlichen Organisation im Bereich des Sports tätig sind, soweit der Verein oder die Organisation all diesen Personen ausschliesslich ein jährliches Erwerbseinkommen in der Höhe von höchstens zwei Dritteln des Mindestbetrags der vollen jährlichen AHV-Altersrente nach Artikel 34 Absatz 5 des Bundesgesetzes vom 20. Dezember 1946[^2-11] über die Alters- und Hinterlassenenversicherung ausrichtet.
 
-<sup>2</sup> …[^2-10]
+<sup>2</sup> …[^2-12]
 
 [^2-1]: Fassung gemäss Ziff. I der V vom 11. Sept. 2002, in Kraft seit 1. Jan. 2003 ([AS 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 [^2-2]: [SR 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
@@ -81,7 +82,9 @@ Nicht obligatorisch versichert sind:
 [^2-7]: Eingefügt durch Ziff. I der V vom 15. Dez. 1997 ([AS 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)). Aufgehoben durch Ziff. I der V vom 9. Nov. 2016, mit Wirkung seit 1. Jan. 2017 ([AS 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^2-8]: Eingefügt durch Ziff. I der V vom 15. Dez. 1997, in Kraft seit 1. Jan. 1998 ([AS 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 [^2-9]: Eingefügt durch Ziff. I der V vom 7. Nov. 2012, in Kraft seit 1. Jan. 2013 ([AS 2012 6227](https://fedlex.data.admin.ch/eli/oc/2012/731)).
-[^2-10]: Eingefügt durch Ziff. I der V vom 15. Dez. 1997 ([AS 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)). Aufgehoben durch Anhang Ziff. 3 der V vom 6. Sept. 2006 gegen die Schwarzarbeit, mit Wirkung seit 1. Jan. 2008 ([AS 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
+[^2-10]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Juli 2024 ([AS 2023 752](https://fedlex.data.admin.ch/eli/oc/2023/752)).
+[^2-11]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^2-12]: Eingefügt durch Ziff. I der V vom 15. Dez. 1997 ([AS 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)). Aufgehoben durch Anhang Ziff. 3 der V vom 6. Sept. 2006 gegen die Schwarzarbeit, mit Wirkung seit 1. Jan. 2008 ([AS 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
 
 #### Art. 3
 
@@ -1907,7 +1910,7 @@ Eine schriftliche Verfügung ist insbesondere zu erlassen über:
 
 <sup>2</sup> Für Personen nach Artikel 1*a* Absatz 1 Buchstabe c des Gesetzes, die weder einen Anspruch auf ein Taggeld der Invalidenversicherung noch auf eine Rente der Invalidenversicherung haben, gilt als versicherter Verdienst für die Bemessung der Renten ab vollendetem 20. Altersjahr ein Jahresverdienst von mindestens 20 Prozent, vor vollendetem 20. Altersjahr ein Jahresverdienst von mindestens 10 Prozent des Höchstbetrags des versicherten Jahresverdienstes. Bei Vollendung des 20. Altersjahres wird der Jahresverdienst auf mindestens 20 Prozent des Höchstbetrages des versicherten Jahresverdienstes erhöht.
 
-<sup>3</sup> <sup>3</sup> Für Personen nach Artikel 1*a* Absatz 1 Buchstabe c des Gesetzes, die eine Rente der Invalidenversicherung beziehen, reduziert sich der versicherte Verdienst nach Absatz 2 um den Prozentsatz des Invaliditätsgrads nach Artikel 28*a* IVG[^132b-2]. Wurde im Sinne von Artikel 15 Absatz 2 des Gesetzes ein höherer Verdienst erzielt, gilt dieser versicherte Verdienst als Grundlage für die Bemessung der Rente.
+<sup>3</sup> Für Personen nach Artikel 1*a* Absatz 1 Buchstabe c des Gesetzes, die eine Rente der Invalidenversicherung beziehen, reduziert sich der versicherte Verdienst nach Absatz 2 um den Prozentsatz des Invaliditätsgrads nach Artikel 28*a* IVG[^132b-2]. Wurde im Sinne von Artikel 15 Absatz 2 des Gesetzes ein höherer Verdienst erzielt, gilt dieser versicherte Verdienst als Grundlage für die Bemessung der Rente.
 
 [^132b-1]: Eingefügt durch Anhang Ziff. 5 der V vom 3. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 706](https://fedlex.data.admin.ch/eli/oc/2021/706)).
 [^132b-2]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
@@ -2218,7 +2221,7 @@ Anhang 2[^t-2]
 Das Taggeld wird mit folgender verbindlichen Formel berechnet:
 
 <table>
-<tr><td></td><td></td><td></td><td colspan="3"></td><td colspan="15">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240101/de/xml/image/image1.png)</td></tr>
+<tr><td></td><td></td><td></td><td colspan="3"></td><td colspan="15">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240701/de/xml/image/image1.png)</td></tr>
 <tr><td colspan="10">Beispiele</td><td></td><td colspan="3"></td><td colspan="2"></td><td colspan="5"></td></tr>
 <tr><td>a.</td><td colspan="11">Monatslohn</td><td colspan="3"></td><td colspan="4"></td><td colspan="2"></td></tr>
 <tr><td></td><td colspan="11">Grundlohn pro Monat</td><td colspan="3">Fr.</td><td colspan="4">3650.—</td><td colspan="2"></td></tr>
@@ -2229,7 +2232,7 @@ Das Taggeld wird mit folgender verbindlichen Formel berechnet:
 <tr><td></td><td colspan="11">Familienzulagen: Fr. 365.– × 12</td><td colspan="5"></td><td colspan="3">Fr.</td><td>4 380.—</td></tr>
 <tr><td></td><td colspan="11"></td><td colspan="5"></td><td colspan="3"></td><td>\_\_\_\_\_\_\_\_\_\_</td></tr>
 <tr><td></td><td colspan="11">Jahresverdienst</td><td colspan="5"></td><td colspan="3">Fr.</td><td>51 830.—</td></tr>
-<tr><td></td><td colspan="3">Taggeld:</td><td colspan="3"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240101/de/xml/image/image2.png)</sub></td><td colspan="10">× 80 % =</td><td colspan="3">Fr.</td><td>113.60</td></tr>
+<tr><td></td><td colspan="3">Taggeld:</td><td colspan="3"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240701/de/xml/image/image2.png)</sub></td><td colspan="10">× 80 % =</td><td colspan="3">Fr.</td><td>113.60</td></tr>
 <tr><td></td><td colspan="16">Anzahl Tage: 13</td><td colspan="3"></td><td></td></tr>
 <tr><td></td><td colspan="16">Total: 13 × 113.60 = Fr. 1476.80 gerundet auf</td><td colspan="3">Fr.</td><td>1 477.—</td></tr>
 <tr><td>b.</td><td colspan="11">Stundenlohn</td><td colspan="3"></td><td colspan="4"></td><td colspan="2"></td></tr>
@@ -2242,7 +2245,7 @@ Das Taggeld wird mit folgender verbindlichen Formel berechnet:
 <tr><td></td><td colspan="11">Familienzulagen: Fr. 365.– × 12</td><td colspan="5"></td><td colspan="3">Fr.</td><td>4 380.—</td></tr>
 <tr><td></td><td colspan="11"></td><td colspan="5"></td><td colspan="3"></td><td>\_\_\_\_\_\_\_\_\_\_</td></tr>
 <tr><td></td><td colspan="11">Jahresverdienst</td><td colspan="5"></td><td colspan="3">Fr.</td><td>50 642.30</td></tr>
-<tr><td></td><td colspan="3">Taggeld:</td><td colspan="4"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240101/de/xml/image/image3.png)</sub></td><td colspan="9">× 80 % =</td><td colspan="3">Fr.</td><td>111.—</td></tr>
+<tr><td></td><td colspan="3">Taggeld:</td><td colspan="4"><sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240701/de/xml/image/image3.png)</sub></td><td colspan="9">× 80 % =</td><td colspan="3">Fr.</td><td>111.—</td></tr>
 <tr><td></td><td colspan="11">Anzahl Tage: 22</td><td colspan="5"></td><td colspan="3"></td><td></td></tr>
 <tr><td></td><td colspan="11">Total: 22 × 111.–</td><td colspan="5"></td><td colspan="3">Fr.</td><td>2 442.—</td></tr>
 </table>

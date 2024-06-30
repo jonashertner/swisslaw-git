@@ -4,11 +4,11 @@ title: "Ordinanza del 20 dicembre 1982 sull'assicurazione contro gli infortuni (
 short: OAINF
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/38_38_38"
 language: it
-version: 2024-01-01
+version: 2024-07-01
 adopted: 1982-12-20
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20240101-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240701/it/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20240701-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20240101/it"
 
 (OAINF)
 
-del 20 dicembre 1982 (Stato 1° gennaio 2024)
+del 20 dicembre 1982 (Stato 1° luglio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -68,9 +68,10 @@ Non sono soggetti all’obbligo assicurativo:
 - f.[^2-6] i membri dei consigli d’amministrazione non attivi nell’azienda, per quest’attività;
 - g.[^2-7] …
 - h.[^2-8] le persone che esercitano un’attività d’interesse pubblico, a condizione che non vi sia un contratto di lavoro, come in particolare membri di Parlamenti, autorità e commissioni, per quest’attività;
-- i.[^2-9] i pompieri di milizia.
+- i.[^2-9] i pompieri di milizia;
+- j.[^2-10] le persone attive come atleti o allenatori in un’associazione sportiva o in un’organizzazione simile nell’ambito dello sport, nella misura in cui l’associazione o l’organizzazione versi a tutte queste persone esclusivamente un reddito annuo corrispondente al massimo a due terzi dell’importo minimo della rendita completa di vecchiaia annua dell’AVS di cui all’articolo 34 capoverso 5 della legge federale del 20 dicembre 1946[^2-11] su l’assicurazione per la vecchiaia e per i superstiti.
 
-<sup>2</sup> …[^2-10]
+<sup>2</sup> …[^2-12]
 
 [^2-1]: Nuovo testo giusta il n. I dell’O dell’11 set. 2002, in vigore dal 1° gen. 2003 ([RU 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 [^2-2]: [RS 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
@@ -81,7 +82,9 @@ Non sono soggetti all’obbligo assicurativo:
 [^2-7]: Introdotta dal n. I dell’O del 15 dic. 1997 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)). Abrogata dal n. I dell’O del 9 nov. 2016, con effetto dal 1° gen. 2017 ([RU 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^2-8]: Introdotta dal n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 [^2-9]: Introdotta dal n. I dell’O del 7 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6227](https://fedlex.data.admin.ch/eli/oc/2012/731)).
-[^2-10]: Introdotto dal n. I dell’O del 15 dic. 1997 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)). Abrogato dall’all. n. 3 dell’O del 6 set. 2006 contro il lavoro nero, con effetto dal 1° gen. 2008 ([RU 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
+[^2-10]: Introdotta dal n. I dell’O del 22 nov. 2023, in vigore dal 1° lug. 2024 (RU **20****23** 752).
+[^2-11]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^2-12]: Introdotto dal n. I dell’O del 15 dic. 1997 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)). Abrogato dall’all. n. 3 dell’O del 6 set. 2006 contro il lavoro nero, con effetto dal 1° gen. 2008 ([RU 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
 
 #### Art. 3
 
@@ -189,8 +192,8 @@ L’assicurato ha diritto alle prestazioni anche per lesioni corporali occorsegl
 
 Le prestazioni assicurative sono accordate anche in caso di ricadute o conseguenze tardive[^11-2], i beneficiari di rendite d’invalidità dovendo tuttavia soddisfare le condizioni previste all’articolo 21 della legge.
 
-[^11-1]: [RU 1983 1160](https://fedlex.data.admin.ch/eli/oc/1983/1160_1160_1160)
-[^11-2]: [RU 1983 1160](https://fedlex.data.admin.ch/eli/oc/1983/1160_1160_1160)
+[^11-1]: [RU 1983 1160](https://fedlex.data.admin.ch/eli/oc/1983/__1160)
+[^11-2]: [RU 1983 1160](https://fedlex.data.admin.ch/eli/oc/1983/__1160)
 
 ### Capitolo 2: Infortuni e malattie professionali
 
@@ -441,8 +444,8 @@ La trattenuta sull’indennità giornaliera per le spese di sostentamento negli 
 
 <sup>4</sup> Se a causa della sua età l’assicurato non riprende più un’attività lucrativa dopo l’infortunio o se la diminuzione della capacità di guadagno è essenzialmente dovuta alla sua età avanzata, sono determinanti per valutare il grado d’invalidità i redditi che potrebbe conseguire un assicurato di mezza età vittima di un danno alla salute della stessa gravità.
 
-[^28-1]: [RU 1983 1160](https://fedlex.data.admin.ch/eli/oc/1983/1160_1160_1160)
-[^28-2]: [RU 1983 1160](https://fedlex.data.admin.ch/eli/oc/1983/1160_1160_1160)
+[^28-1]: [RU 1983 1160](https://fedlex.data.admin.ch/eli/oc/1983/__1160)
+[^28-2]: [RU 1983 1160](https://fedlex.data.admin.ch/eli/oc/1983/__1160)
 [^28-3]: Nuovo testo giusta il n. I dell’O del 15 dic. 1997, in vigore dal 1° gen. 1998 ([RU 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 
 #### Art. 29
@@ -850,7 +853,7 @@ Gli assicuratori mettono a disposizione gratuitamente i formulari per la notific
 
 L’assicuratore può domandare alle autorità competenti tutte le informazioni necessarie ed esigere gratuitamente le copie di rapporti ufficiali e di polizia. I costi straordinari, particolarmente quelli per richieste perizie[^54-1] supplementari, devono essere rimborsati alle autorità.
 
-[^54-1]: [RU 1983 1160](https://fedlex.data.admin.ch/eli/oc/1983/1160_1160_1160)
+[^54-1]: [RU 1983 1160](https://fedlex.data.admin.ch/eli/oc/1983/__1160)
 
 #### Art. 55
 
@@ -2506,7 +2509,7 @@ Allegato 2[^t-2]
 
 L’indennità giornaliera è calcolata conformemente alla formula seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240701/it/xml/image/image1.png)
 
 Esempi
 
@@ -2519,7 +2522,7 @@ Esempi
 <tr><td>[tab] Tredicesima mensilità</td><td>3 650.—</td></tr>
 <tr><td>[tab] Assegni familiari: 365.– × 12</td><td>4 380.—</td></tr>
 <tr><td>[tab] Guadagno annuale</td><td>51 830.—</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240101/it/xml/image/image2.png)</td><td>113.60</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240701/it/xml/image/image2.png)</td><td>113.60</td></tr>
 <tr><td>[tab] Numero di giorni: 13</td><td></td></tr>
 <tr><td>[tab] Totale: 13 × 113.60 = fr. 1 476.80 arrotondati a</td><td>1 477.—</td></tr>
 <tr><td>b) Salario orario</td><td></td></tr>
@@ -2531,7 +2534,7 @@ Esempi
 <tr><td>[tab] Tredicesima</td><td>3 557.30</td></tr>
 <tr><td>[tab] Assegni familiari: fr. 365.– ×12</td><td>4 380.—</td></tr>
 <tr><td>[tab] Guadagno annuale</td><td>50 642.30</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240101/it/xml/image/image3.png)</td><td>111.—</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240701/it/xml/image/image3.png)</td><td>111.—</td></tr>
 <tr><td>Numero di giorni: 22</td><td></td></tr>
 <tr><td>Totale: 22 × 111.– =</td><td>2 442.—</td></tr>
 </table>

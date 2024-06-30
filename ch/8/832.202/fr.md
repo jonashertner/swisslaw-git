@@ -4,11 +4,11 @@ title: "Ordonnance du 20 décembre 1982 sur l'assurance-accidents (OLAA)"
 short: OLAA
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/38_38_38"
 language: fr
-version: 2024-01-01
+version: 2024-07-01
 adopted: 1982-12-20
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20240101-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-1983-38_38_38-20240701-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/38_38_38/20240101/fr"
 
 (OLAA)
 
-du 20 décembre 1982 (État le 1<sup>er</sup> janvier 2024)
+du 20 décembre 1982 (État le 1<sup>er</sup> juillet 2024)
 
 Le Conseil fédéral suisse,
 
@@ -68,9 +68,10 @@ Ne sont pas assurés à titre obligatoire:
 - f.[^2-6] les membres de conseils d’administration qui ne sont pas occupés dans l’entreprise, pour cette activité;
 - g.[^2-7] …
 - h.[^2-8] les personnes, telles que les membres de parlements, d’autorités ou de commissions, qui exercent sans contrat de service une activité dans l’intérêt public, pour cette activité;
-- i.[^2-9] les sapeurs-pompiers de milice.
+- i.[^2-9] les sapeurs-pompiers de milice;
+- j.[^2-10] les personnes qui exercent une activité de sportif ou d’entraîneur dans une association sportive ou une organisation similaire active dans le domaine du sport, pour autant que l’association ou l’organisation leur verse à toutes exclusivement un revenu annuel correspondant au plus aux deux tiers du montant minimal de la rente de vieillesse annuelle complète de l’AVS visée à l’art. 34, al. 5, de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants[^2-11].
 
-<sup>2</sup> …[^2-10]
+<sup>2</sup> …[^2-12]
 
 [^2-1]: Nouvelle teneur selon le ch. I de l’O du 11 sept. 2002, en vigueur depuis le 1<sup>er</sup> janv. 2003 ([RO 2002 3914](https://fedlex.data.admin.ch/eli/oc/2002/607)).
 [^2-2]: [RS 836.1](https://fedlex.data.admin.ch/eli/cc/1952/823_843_839)
@@ -81,7 +82,9 @@ Ne sont pas assurés à titre obligatoire:
 [^2-7]: Introduite par le ch. I de l’O du 15 déc. 1997 ([RO 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)). Abrogée par le ch. I de l’O du 9 nov. 2016, avec effet au 1<sup>er</sup> janv. 2017 ([RO 2016 4393](https://fedlex.data.admin.ch/eli/oc/2016/724)).
 [^2-8]: Introduite par le ch. I de l’O du 15 déc. 1997, en vigueur depuis le 1<sup>er</sup> janv. 1998 ([RO 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)).
 [^2-9]: Introduite par le ch. I de l’O du 7 nov. 2012, en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 6227](https://fedlex.data.admin.ch/eli/oc/2012/731)).
-[^2-10]: Introduit par le ch. I de l’O du 15 déc. 1997 ([RO 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)). Abrogé par l’annexe ch. 3 de l’O du 6 sept. 2006 sur le travail au noir, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
+[^2-10]: Introduite par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2023 752](https://fedlex.data.admin.ch/eli/oc/2023/752)).
+[^2-11]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^2-12]: Introduit par le ch. I de l’O du 15 déc. 1997 ([RO 1998 151](https://fedlex.data.admin.ch/eli/oc/1998/151_151_151)). Abrogé par l’annexe ch. 3 de l’O du 6 sept. 2006 sur le travail au noir, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 373](https://fedlex.data.admin.ch/eli/oc/2007/72)).
 
 #### Art. 3
 
@@ -1576,7 +1579,7 @@ Pour chaque exercice comptable, les assureurs doivent établir:
 
 <sup>2</sup> Pour les assureurs désignés à l’art. 68, al. 1, let. b, LAA les dispositions en matière de réserves des collectivités publiques concernées s’appliquent.
 
-<sup>3</sup> Les assureurs désignés à l’art. 68, al. 1, let. c, LAA doivent quantifier les risques et les scénarios qui les concernent dans le domaine de l’assurance-accidents selon les art. 10 à 13 de l’ordonnance du 18 novembre 2015 sur la surveillance de l’assurance-maladie[^111-3] (OSAMal) et établir tous les ans un rapport à l’intention de l’OFSP. Le DFI tient compte des spécificités de l’assurance-accidents dans l’exercice des compétences législatives que ces dispositions de l’OSAMal lui attribuent.
+<sup>3</sup> Les assureurs désignés à l’art. 68, al. 1, let. c, LAA doivent quantifier les risques et les scénarios qui les concernent dans le domaine de l’assurance-accidents selon les art. 10 à 13 de l’ordonnance du 18 novembre 2015 sur la surveillance de l’assurance-maladie (OSAMal)[^111-3] et établir tous les ans un rapport à l’intention de l’OFSP. Le DFI tient compte des spécificités de l’assurance-accidents dans l’exercice des compétences législatives que ces dispositions de l’OSAMal lui attribuent.
 
 <sup>4</sup> La CNA expose sa sécurité financière au Conseil fédéral dans un rapport annuel. Le rapport mentionne en particulier les fonds propres disponibles de la CNA pouvant être pris en compte ainsi que les fonds propres nécessaires. Ces derniers sont déterminés à l’aide d’un modèle permettant de quantifier les risques et les scénarios de l’évolution future, de manière à pouvoir couvrir les créances résultant d’une possible perte centennale. Les fonds propres disponibles pouvant être pris en compte doivent être plus élevés que les fonds propres nécessaires.
 
@@ -2492,7 +2495,7 @@ Annexe 2[^t-2]
 
 L’indemnité journalière est calculée conformément à la formule suivante:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240701/fr/xml/image/image1.png)
 
 Exemples
 
@@ -2505,7 +2508,7 @@ Exemples
 <tr><td>[tab] 13<sup>e</sup> salaire mensuel</td><td>3 650.—</td></tr>
 <tr><td>[tab] Allocations familiales: Fr. 365.– × 12</td><td>4 380.—</td></tr>
 <tr><td>[tab] Gain annuel</td><td>51 830.—</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240101/fr/xml/image/image2.png)</td><td>113.60</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240701/fr/xml/image/image2.png)</td><td>113.60</td></tr>
 <tr><td>[tab] Nombre de jours indemnisés: 13</td><td></td></tr>
 <tr><td>[tab] Total: 13 × 113.60 = Fr. 1476.80 arrondis à</td><td>1 477.—</td></tr>
 <tr><td>b. Salaire horaire</td><td></td></tr>
@@ -2517,7 +2520,7 @@ Exemples
 <tr><td>[tab] 13<sup>e</sup> salaire mensuel</td><td>3 557.30</td></tr>
 <tr><td>[tab] Allocations familiales Fr. 365.–×12</td><td>4 380.—</td></tr>
 <tr><td>[tab] Gain annuel</td><td>50 642.30</td></tr>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240101/fr/xml/image/image3.png)</td><td>111.—</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/38_38_38/20240701/fr/xml/image/image3.png)</td><td>111.—</td></tr>
 <tr><td>[tab] Nombre de jours indemnisés: 22</td><td></td></tr>
 <tr><td>[tab] Total: 22 × 111.– =</td><td>2 442.—</td></tr>
 </table>
