@@ -4,13 +4,13 @@ number: "800.011"
 title: Standeskommissionsbeschluss über die Pflegefinanzierung
 short: StKB Pflegefinanzierung
 language: de
-version: 2024-01-01
-valid_until: 2024-06-30
-version_adopted: 2023-06-20
+version: 2024-07-01
+valid_until: 2026-03-31
+version_adopted: 2024-06-18
 adopted: 2010-11-30
 in_force: 2011-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/800.011"
-pdf: "https://ai.clex.ch/api/de/versions/2226/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2298/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2226/pdf_file"
 
 (StKB Pflegefinanzierung)
 
-vom 30.11.2010 (Stand 01.01.2024)
+vom 30.11.2010 (Stand 01.07.2024)
 
 Die Standeskommission des Kantons Appenzell I. Rh.,
 
@@ -99,6 +99,16 @@ beschliesst:
 <sup>3</sup> Die Kantonsbeiträge an die Kosten der Pflege werden direkt zwischen den Leistungserbringern und dem Kanton abgerechnet. Eine Verrechnung gegenüber den Versicherten oder den Versicherern ist ausgeschlossen.
 
 <sup>4</sup> Die Leistungsbezüger erhalten eine entsprechend reduzierte Rechnung, auf der jedoch die Beiträge von Kanton und Krankenversicherern ersichtlich sein müssen.
+
+#### Art. 6a
+
+**Kostenrechnung im Bereich Pflege und Hilfe zu Hause**
+
+<sup>1</sup> Leistungserbringer der Pflege und Hilfe zu Hause sind Spitex-Organisationen und Pflegefachpersonen, die zur Abrechnung mit der obligatorischen Krankenpflegeversicherung zugelassen sind.
+
+<sup>2</sup> Für Leistungserbringer, die dem Gesundheitsamt jährlich eine anerkannte standardisierte Kostenrechnung nach den Richtlinien des Spitex-Verbands Schweiz ("Spitex-Finanzmanual, Handbuch zum standardisierten Rechnungswesen für Spitex-Organisationen") einreichen, richten sich die Restkostenfinanzierung nach Anhang A-1a, für die übrigen nach Anhang A-1b.
+
+<sup>3</sup> Die Kostenrechnung ist dem Gesundheitsamt bis spätestens am 30. April des Folgejahres einzureichen.
 
 ## IV. Schlussbestimmung
 
