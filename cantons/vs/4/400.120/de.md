@@ -4,13 +4,13 @@ number: "400.120"
 title: "Reglement über die Übernahme der Fahrkosten im öffentlichen Verkehr der Lernenden und Schüler der Sekundarstufe II *"
 short: RÜFÖV
 language: de
-version: 2023-07-01
-valid_until: 2024-06-30
-version_adopted: 2023-05-31
+version: 2024-07-01
+valid_until: 2025-07-31
+version_adopted: 2024-09-04
 adopted: 2012-06-06
 in_force: 2012-09-01
 url: "https://lex.vs.ch/app/de/texts_of_law/400.120"
-pdf: "https://lex.vs.ch/api/de/versions/3219/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3480/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +19,11 @@ pdf: "https://lex.vs.ch/api/de/versions/3219/pdf_file"
 
 (RÜFÖV)
 
-vom 06.06.2012 (Stand 01.07.2023)
+vom 06.06.2012 (Stand 01.07.2024)
 
 Der Staatsrat des Kantons Wallis
 
-eingesehen den Artikel 57 der Verfassung des Kantons Wallis vom 8. März 1907;
+eingesehen den Artikel 57 Absatz 1der Kantonsverfassung;
 
 eingesehen den Artikel 12 Absatz 3 des Gesetzes über das öffentliche Unterrichtswesen vom 4. Juli 1962 (GUW);
 
@@ -31,9 +31,9 @@ eingesehen das Gemeindegesetz vom 5. Februar 2004 (GemG);
 
 eingesehen das Gesetz über die 2. Etappe der Umsetzung der Neuordnung des Finanzausgleichs und der Aufgabenteilung zwischen Bund, Kanton und Gemeinden vom 15. September 2011;
 
-auf Antrag des für die Mobillität zuständigen Departements und des für die Bildung zuständigen Departements,
+auf Antrag des für die Bildung zuständigen Departements,
 
-beschliesst:[^ingress-1]
+verordnet:[^ingress-1]
 
 [^ingress-1]: In diesem Reglement gilt jede Bezeichnung der Person oder des Status in gleicher Weise für Mann oder Frau.
 
@@ -49,11 +49,11 @@ beschliesst:[^ingress-1]
 
 <sup>1</sup> Dieses Reglement regelt die Übernahme der Fahrkosten für öffentliche Verkehrsmittel zwischen den Wohn- und den Schulorten der Lernenden und der Schüler der allgemeinbildenden Sekundarstufe II.
 
-<sup>1<sup>bis</sup></sup> Der Kursort (Haltestelle des Zielorts) entspricht dem Hauptbahnhof des Ortes, wo die Ausbildung stattfindet.
+<sup>1<sup>bis</sup></sup> Der Kursort (Haltestelle des Zielorts) entspricht dem Hauptbahnhof des Ortes, wo die Ausbildung stattfindet. Wenn der Unterricht an zwei verschiedenen Orten stattfindet, ist der Ort ausschlaggebend, der am weitesten von der Wohnsitzgemeinde entfernt ist
 
 <sup>1<sup>ter</sup></sup> Der Wohnort (Abfahrtshaltestelle) entspricht der Haltestelle, die dem Wohnsitz des Berechtigten am nächsten liegt.
 
-<sup>2</sup> Als "Lernender" gilt die Person, die über einen von der zuständigen kantonalen Behörde genehmigten Lehrvertrag verfügt und eine duale oder eine Vollzeitausbildung in den kantonalen Berufsschulen oder in anerkannten Schulen ausserhalb des Kantons macht oder die Bewilligung für eine berufliche Grundbildung ausserhalb des Kantons hat.
+<sup>2</sup> Als "Lernender" gilt die Person, die über einen von der zuständigen kantonalen Behörde genehmigten Lehrvertrag verfügt und eine duale oder eine Vollzeitausbildung in den kantonalen Berufsfachschulen oder in anerkannten Schulen ausserhalb des Kantons macht oder die Bewilligung für eine berufliche Grundbildung ausserhalb des Kantons hat.
 
 <sup>3</sup> Ein "Schüler der allgemeinbildenden Sekundarstufe II" ist eine Person, die mit dem Status als regelmässiger Vollzeitschüler in einer Schule der allgemeinbildenden Sekundarstufe II aufgenommen wurde.
 
@@ -63,13 +63,13 @@ beschliesst:[^ingress-1]
 - b) eidgenössisches Fähigkeitszeugnis (EFZ);
 - c) Berufsmaturitätszeugnis;
 - d) Fachmittelschulausweis;
-- e) Fachmaturität, für die es eine Ausbildung an einer Vollzeitschule braucht;
+- e) Fachmaturität, für die es eine Ausbildung an einer Schule braucht;
 - f) gymnasiale Maturitätsausweise;
 - g) sowie die Vorbereitungs- oder Übergangsjahre der Sekundarstufe II, die vom Departement, das für Bildung zuständig ist, bewilligt werden.
 
 <sup>5</sup> Die Kosten werden auch übernommen für:
 
-- a) Schüler, die eine Ausbildung an einer Schule für Berufsvorbereitung (SfB), einschliesslich der Integrationsklassen auf nachobligatorischer Stufe (CASPO), respektive für Schüler, die eine Übergangsmassnahme oder eine mindestens einjährige kantonale Ausbildung absolvieren; diese müssen vom Departement, das für Bildung zuständig ist, bewilligt worden sein;
+- a) Schüler, die eine Ausbildung an einer Schule für Berufsvorbereitung (SfB), einschliesslich Schüler der Sektion Integrationsklassen, respektive für Schüler, die eine Übergangsmassnahme oder eine mindestens einjährige kantonale Ausbildung absolvieren; diese müssen vom für die Bildung zuständigen Departement bewilligt worden sein;
 - b) Schüler, die vom Departement, das für Bildung zuständig ist, eine Bewilligung haben, eine Ausbildung in einer öffentlichen Schule, ausserhalb des Kantons, zu absolvieren;
 - c) Schüler, die vom Departement, das für die Bildung zuständig ist, eine Bewilligung haben, einen Sprachaustausch von mindestens sechs Monaten in einer öffentlichen Schule eines anderen Kantons zu besuchen.
 
@@ -77,7 +77,7 @@ beschliesst:[^ingress-1]
 
 <sup>7</sup> Für die Lernenden, die die integrierte Berufsmaturität absolvieren (mit verschiedenen Schulorten), entsprechen die Fahrkosten mit den öffentlichen Verkehrsmitteln der Strecke zwischen dem Wohnort und dem am weitesten entfernten Schulort.
 
-<sup>8</sup> Die im Wallis wohnhaften Lernenden, deren Lehrvertrag von einem anderen Kanton validiert worden ist, müssen bei der Dienststelle für Berufsbildung des Kantons Wallis eine Kopie ihres Lehrvertrags sowie eine Wohnsitzbestätigung einreichen. Bei online validierten Lehrverträgen muss auch die Bestätigung der Gültigkeit des Vertrags durch den Lehrvertragskanton übermittelt werden. Sobald die zuständige Behörde diese Dokumente erhalten und falls nötig validiert hat, erhalten die Lernenden ihren Rail-Check.
+<sup>8</sup> Die Berechtigten, deren Lehrvertrag von einem anderen Kanton validiert worden ist, müssen bei der Dienststelle für Berufsbildung des Kantons Wallis eine Kopie ihres Lehrvertrags sowie eine Wohnsitzbestätigung einreichen. Bei online validierten Lehrverträgen muss auch die Bestätigung der Gültigkeit des Vertrags durch den Lehrvertragskanton übermittelt werden. Sobald die zuständige Behörde diese Dokumente erhalten und falls nötig validiert hat, erhalten die Lernenden ihren Rail-Check.
 
 #### Art. 3
 
@@ -102,9 +102,9 @@ beschliesst:[^ingress-1]
 
 <sup>4</sup> …
 
-<sup>5</sup> Der Rail-Check-Verantwortliche überprüft, ob die auf der Liste aufgeführten Lernenden und Schüler die in Artikel 3 Buchstabe c des vorliegenden Reglements beschriebenen Anspruchsvoraussetzungen erfüllen. Sie erstellt einen Gutschein (nachstehend: Rail-Check) in Zusammenarbeit mit der SBB, auf welchem der Wohnort und der Schulort der Berechtigten aufgeführt werden.
+<sup>5</sup> Der Rail-Check-Verantwortliche überprüft, ob die auf der Liste aufgeführten Lernenden und Schüler die in Artikel 3 Buchstabe c des vorliegenden Reglements beschriebenen Anspruchsvoraussetzungen erfüllen. Er erstellt einen Gutschein (nachstehend: Rail-Check) in Zusammenarbeit mit der SBB, auf welchem der Wohnort und der Schulort der Berechtigten aufgeführt werden.
 
-<sup>6</sup> Die Berechtigten melden sich an einer Ausgabestelle eines Transportunternehmens, welches anschliessend die Berechnung des Rail-Checks-Betrag vornimmt.
+<sup>6</sup> Die Berechtigten melden sich mit dem erhaltenen Coupon und ihrem Ausweis an einer Ausgabestelle eines Transportunternehmens. Der Rail-Check enthält bereits den zu zahlenden Betrag, der zuvor von der SBB auf Antrag der Dienststelle für Berufsbildung berechnet wurde.
 
 #### Art. 5
 
@@ -132,7 +132,7 @@ beschliesst:[^ingress-1]
 
 <sup>1<sup>bis</sup></sup> Der Betrag des Rail-Checks, berechnet vom Transportunternehmen, entspricht im Prinzip der Hälfte des Betrages eines Streckenabonnements 2. Klasse zwischen dem Wohnort und dem Schulort (nächstgelegener Bahnhof). In jedem Fall entspricht der Maximal-Betrag des Rail-Checks dem halben Preis, auf Basis des Alters des Berechtigten, eines Generalabonnements 2. Klasse. Die Differenz des gewählten Abonnements geht zu Lasten der Eltern.
 
-<sup>1<sup>ter</sup></sup> Für Lernende, die nur einen Tag in der Woche die Schule besuchen oder zwei - drei Mal pro Jahr einen Blockkurs sowie für Studenten, die während der Woche in einem anerkannten und im Wallis gelegenen Internat wohnen, können maximal 13 Mehrfachfahrkarten zum halben Preis mit dem Rail-Check erwerben. Das in diesem Fall notwendige Halbtaxabonnement, das auch für private Zwecke benutzt werden kann, geht zulasten der Eltern und muss beim Kauf der Mehrfachfahrkarten vorgewiesen werden.
+<sup>1<sup>ter</sup></sup> Lernende, die nur einen Tag in der Woche die Schule besuchen oder zwei-, dreimal pro Jahr einen Blockkurs besuchen sowie Studenten, die während der Woche in einem anerkannten und im Wallis gelegenen Internat wohnen, können mit dem Rail-Check maximal 13 Mehrfahrtenkarten zum halben Preis erwerben. Das in diesem Fall notwendige Halbtaxabonnement, das auch für private Zwecke benutzt werden kann, geht zulasten der Eltern und muss beim Kauf der Mehrfahrtenkarten vorgewiesen werden.
 
 <sup>2</sup> Der Rail-Check muss gebraucht werden, um ein Abonnement zu kaufen, das den Mobilitätsbedürfnissen des Berechtigten am besten entspricht. Allfällige Mehrkosten für den gewählten Abonnementstyp gehen zulasten der Eltern.
 
@@ -142,7 +142,7 @@ beschliesst:[^ingress-1]
 
 <sup>4</sup> Je nach Art des gewählten Abonnements oder falls Jugendliche aufgrund der beruflichen Tätigkeit, des Generalabonnements der Eltern oder aus anderen Gründen Vergünstigungen auf die Tarife der Transportunternehmen erhalten, muss der Betrag des Rail-Checks nicht vollständig verwendet werden.
 
-<sup>5</sup> Für Berechtigte, die ihren Rail-Check ab dem Monat November des Schuljahres benutzen, für das er ausgestellt wurde, entspricht der Betrag des Rail-Checks der Hälfte des monatlichen Streckenabonnements prorata zur Anzahl der verbleibenden Monate bis zum Ende des Schuljahres.
+<sup>5</sup> Für Berechtigte, die ihren Rail-Check ab dem Monat November des Schuljahres benutzen, für das er ausgestellt wurde, entspricht der Betrag des Rail-Checks der Hälfte des Jahres-Streckenabonnements prorata zur Anzahl der verbleibenden Monate bis zum Ende des Schuljahres.
 
 #### Art. 8
 
@@ -154,7 +154,7 @@ beschliesst:[^ingress-1]
 
 <sup>2</sup> Die Berechtigten müssen den Sekretariaten der betreffenden Schulen innert Wochenfrist Adressänderungen melden, falls diese einen Einfluss auf ihren Rail-Check haben.
 
-<sup>3</sup> Bei einem Umzug während des Schuljahres muss der Berechtigte dem Rail-Check-Verantwortlichen innert zehn Tagen seinen Fahrausweis und eine Wohnsitzbestätigung der neuen Gemeinde zustellen, damit dieser ihm einen neuen, seinen Bedürfnissen entsprechenden Rail-Check ausstellen kann.
+<sup>3</sup> Bei einem Umzug während des Schuljahres muss der Berechtigte dem Rail-Check-Verantwortlichen innert 10 Tagen seinen Fahrausweis und eine Wohnsitzbestätigung der neuen Gemeinde zustellen, damit dieser ihm einen neuen, seinen Bedürfnissen entsprechenden Rail-Check ausstellen kann.
 
 #### Art. 9
 
@@ -162,7 +162,7 @@ beschliesst:[^ingress-1]
 
 <sup>1</sup> Grundsätzlich beträgt die Beteiligung der Eltern die Hälfte der Fahrkosten für die öffentlichen Verkehrsmittel, die verbleibende Hälfte wird zu gleichen Teilen vom Kanton Wallis und von der Wohnsitzgemeinde des Berechtigten übernommen. Die Bestimmungen von Artikel 4 Absatz 3 sind anwendbar.
 
-<sup>2</sup> Die Gemeinden erhalten von den Transportunternehmen direkt die Rechnungen, die nach Schulstufe sortiert sind und die Namen der Berechtigten, die aufgewendeten Beträge und die Kaufdaten enthalten. Die Gemeinden müssen diese Rechnungen fristgerecht bezahlen und senden ihre Anträge auf Überweisung des Kantonsanteils anschliessend an das für Bildung zuständige Departement.
+<sup>2</sup> Die Gemeinden erhalten von den Transportunternehmen direkt die Rechnungen, die nach Schulstufe sortiert sind und die Namen der Berechtigten, den Identifizierungscode des Rail-Checks, die aufgewendeten Beträge und die Kaufdaten enthalten. Die Gemeinden müssen diese Rechnungen fristgerecht bezahlen und senden ihre Anträge auf Überweisung des Kantonsanteils anschliessend an das für die Bildung zuständige Departement.
 
 <sup>2<sup>bis</sup></sup> Wird der Wohnsitz von Berechtigten angefochten, sind die Gemeinden dennoch dazu verpflichtet, sämtliche Rechnungen an die Transportunternehmen innerhalb der gegebenen Frist zu bezahlen. Anfechtungen zum Wohnsitz von Berechtigten müssen nachträglich von den betroffenen Gemeinden selbstständig geregelt werden.
 
@@ -182,7 +182,7 @@ beschliesst:[^ingress-1]
 
 **Unterbruch der Ausbildung oder Änderung des Schul- oder Wohnortes**
 
-<sup>1</sup> Wird die Ausbildung abgebrochen oder der Schul- oder Wohnort während dem Schuljahr geändert, muss das Abonnement innert 10 Tagen beim Rail-Check-Verantwortlichen eingereicht werden, der das Abonnement den SBB retourniert. Diese erstatten direkt der betreffenden Gemeinde den noch nicht verwendeten Rail-Check-Betrag.
+<sup>1</sup> Wird die Ausbildung abgebrochen oder der Schul- oder Wohnort während dem Schuljahr geändert, muss das Abonnement innert 10 Arbeitstagen beim Rail-Check-Verantwortlichen eingereicht werden, der das Abonnement den SBB retourniert. Diese erstatten direkt der betreffenden Gemeinde den noch nicht verwendeten Rail-Check-Betrag.
 
 <sup>2</sup> Die Gemeinde ist dafür zuständig, dem Berechtigten, wie auch dem Kanton, den ihnen zustehenden Betrag zurückzuerstatten.
 

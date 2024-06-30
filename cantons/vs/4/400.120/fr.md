@@ -4,13 +4,13 @@ number: "400.120"
 title: Règlement concernant les modalités de prise en charge des frais de déplacement en transport public pour les apprentis et étudiants du secondaire du deuxième degré général
 short: RMFTP
 language: fr
-version: 2023-07-01
-valid_until: 2024-06-30
-version_adopted: 2023-05-31
+version: 2024-07-01
+valid_until: 2025-07-31
+version_adopted: 2024-09-04
 adopted: 2012-06-06
 in_force: 2012-09-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/400.120"
-pdf: "https://lex.vs.ch/api/fr/versions/3219/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3480/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,11 +19,11 @@ pdf: "https://lex.vs.ch/api/fr/versions/3219/pdf_file"
 
 (RMFTP)
 
-du 06.06.2012 (état 01.07.2023)
+du 06.06.2012 (état 01.07.2024)
 
 Le Conseil d'Etat du canton du Valais
 
-vu l’article 57 de la Constitution du canton du Valais du 8 mars 1907;
+vu l’article 57 de la Constitution cantonale;
 
 vu l’article 12 alinéa 3 de la loi sur l’instruction publique du 4 juillet 1962 (LIP);
 
@@ -31,9 +31,9 @@ vu la loi sur les communes du 5 février 2004 (LCo);
 
 vu la loi concernant la deuxième étape de la mise en œuvre de la réforme de la péréquation financière et de la répartition des tâches entre la Confédération, le canton et les communes du 15 septembre 2011;
 
-sur la proposition du Département en charge de la mobilité et du Département en charge de la formation,
+sur la proposition du département en charge de la mobilité et du département en charge de la formation,
 
-arrête:[^ingress-1]
+ordonne:[^ingress-1]
 
 [^ingress-1]: Dans le présent règlement, toute désignation de personne ou de statut vise indifférement l'homme ou la femme.
 
@@ -49,7 +49,7 @@ arrête:[^ingress-1]
 
 <sup>1</sup> Le présent règlement s'applique à la prise en charge des frais de déplacement en transport public entre les lieux de domicile et de cours des apprentis et des étudiants du secondaire du deuxième degré général.
 
-<sup>1<sup>bis</sup></sup> Le lieu de cours (l'arrêt de destination) correspond à la gare principale du lieu où se déroule la formation.
+<sup>1<sup>bis</sup></sup> Le lieu de cours (l'arrêt de destination) correspond à la gare principale du lieu où se déroule la formation. Si les cours ont lieu sur deux sites différents, celui le plus éloigné de la commune de domicile fait foi.
 
 <sup>1<sup>ter</sup></sup> Le lieu de domicile (l'arrêt de départ) correspond à l'arrêt le plus proche du domicile de l'ayant droit.
 
@@ -63,21 +63,21 @@ arrête:[^ingress-1]
 - b) certificat fédéral de capacité (CFC);
 - c) certificat de maturité professionnelle;
 - d) certificat de culture générale;
-- e) certificat de maturité spécialisée nécessitant une formation à l'école à plein temps;
+- e) certificat de maturité spécialisée nécessitant une formation à l'école;
 - f) certificat de maturité gymnasiale;
-- g) ainsi que les années propédeutiques ou passerelles du secondaire du deuxième degré autorisées par le Département en charge de la formation.
+- g) ainsi que les années propédeutiques ou passerelles du secondaire du deuxième degré autorisées par le département en charge de la formation.
 
 <sup>5</sup> Sont également concernés:
 
-- a) les étudiants suivant la formation dans une école préprofessionnelle (EPP), y compris les classes d'accueil de la scolarité post-obligatoire (CASPO), ceux suivant une mesure transitoire ou une formation cantonale d'une durée minimale d'une année et qui sont autorisés par le Département en charge de la formation;
-- b) les étudiants autorisés par le Département en charge de la formation à suivre une formation dans une école publique hors canton;
-- c) les étudiants autorisés par le Département en charge de la formation à effectuer un échange linguistique d'au moins six mois dans une école publique hors canton.
+- a) les étudiants suivant la formation dans une école préprofessionnelle (EPP), y compris ceux fréquentant la section des classes d'accueil et d'intégration (SCAI), ceux suivant une mesure transitoire ou une formation cantonale d'une durée minimale d'une année et qui sont autorisés par le département en charge de la formation;
+- b) les étudiants autorisés par le département en charge de la formation à suivre une formation dans une école publique hors canton;
+- c) les étudiants autorisés par le département en charge de la formation à effectuer un échange linguistique d'au moins six mois dans une école publique hors canton.
 
 <sup>6</sup> Les frais de déplacement en transports publics pour se rendre sur le lieu de travail ou de stage (maturité spécialisée "social" MS So, maturité spécialisée "santé" MS Sa, maturité professionnelle "économies et services" MP-E ou autres) ne sont pas pris en compte.
 
 <sup>7</sup> Pour les apprentis qui effectuent la maturité professionnelle intégrée (avec des lieux de cours différents), les frais de déplacement en transport public correspondent au trajet entre le lieu de domicile et le lieu de cours le plus éloigné.
 
-<sup>8</sup> Les apprentis domiciliés en Valais et dont le contrat d'apprentissage est validé par un autre canton doivent adresser une copie de leur contrat d'apprentissage et une attestation de domicile au Service en charge de la formation professionnelle du canton du Valais. Pour les contrats d’apprentissage validés en ligne, la confirmation cantonale de la validité du contrat doit également être transmise. Une fois ces documents reçus et validés par le Service en question, les apprentis reçoivent leur rail-check.
+<sup>8</sup> Les ayant droit dont le contrat d'apprentissage est validé par un autre canton doivent adresser une copie de leur contrat d'apprentissage et une attestation de domicile au service en charge de la formation professionnelle du canton du Valais. Pour les contrats d’apprentissage validés en ligne, la confirmation cantonale de la validité du contrat doit également être transmise. Une fois ces documents reçus et validés par le service en question, les apprentis reçoivent leur rail-check.
 
 #### Art. 3
 
@@ -104,7 +104,7 @@ arrête:[^ingress-1]
 
 <sup>5</sup> Le responsable rail-check vérifie que les apprentis et les étudiants figurant sur les listes remplissent la condition d'octroi prévue à l'article 3 lettre c du présent règlement. Il émet les bons (ci-après: rail-check) en collaboration avec les CFF sur lesquels figurent les lieux de domicile et de cours de l'ayant droit.
 
-<sup>6</sup> Les ayants droit se rendent aux guichets des entreprises de transport qui effectuent directement le calcul du montant du rail-check.
+<sup>6</sup> Les ayants droit se rendent aux guichets des entreprises de transport munis de leur coupon reçu et de leur pièce d’identité. Le rail-check comporte déjà le montant dû, calculé préalablement par les CFF sur demande du service en charge de la formation professionnelle.
 
 #### Art. 5
 
@@ -120,9 +120,9 @@ arrête:[^ingress-1]
 
 <sup>1</sup> Les étudiants en formation dans une école privée du canton du Valais et suivant des cours de niveau secondaire II général pour accéder à un titre reconnu sur le plan fédéral sont admis à la prise en charge des frais de déplacement en transport public selon les mêmes règles que pour les élèves des écoles publiques.
 
-<sup>2</sup> Le Département en charge de la formation tient à jour une liste des écoles privées du canton du Valais mentionnées à l'alinéa 1.
+<sup>2</sup> Le département en charge de la formation tient à jour une liste des écoles privées du canton du Valais mentionnées à l'alinéa 1.
 
-<sup>3</sup> Les écoles privées de l'alinéa 1 sont tenues d'informer leurs étudiants des conditions d'octroi de la prise en charge des frais de déplacement en transport public et de transmettre la liste des étudiants concernés au Département en charge de la formation dans les délais requis. Elles attestent de l'exactitude des données transmises.
+<sup>3</sup> Les écoles privées de l'alinéa 1 sont tenues d'informer leurs étudiants des conditions d'octroi de la prise en charge des frais de déplacement en transport public et de transmettre la liste des étudiants concernés au département en charge de la formation dans les délais requis. Elles attestent de l'exactitude des données transmises.
 
 #### Art. 7
 
@@ -142,7 +142,7 @@ arrête:[^ingress-1]
 
 <sup>4</sup> Selon le type d'abonnement choisi et pour les jeunes qui bénéficient de réductions sur les tarifs des entreprises de transport de par l'activité professionnelle, la détention d'un abonnement général des parents ou autres, le montant du rail-check peut ne pas être totalement utilisé.
 
-<sup>5</sup> Pour les ayants droit qui utilisent leur rail-check à partir du mois de novembre de l’année scolaire pour laquelle il a été émis, le montant du rail-check correspond à la moitié du prix mensuel de l'abonnement de parcours au prorata du nombre de mois restant jusqu'à la fin de l'année scolaire.
+<sup>5</sup> Pour les ayants droit qui utilisent leur rail-check à partir du mois de novembre de l’année scolaire pour laquelle il a été émis, le montant du rail-check correspond à la moitié du prix de l'abonnement de parcours annuel au prorata du nombre de mois restant jusqu'à la fin de l'année scolaire.
 
 #### Art. 8
 
@@ -154,23 +154,23 @@ arrête:[^ingress-1]
 
 <sup>2</sup> Les ayants droit sont tenus d'annoncer au secrétariat des écoles concernées, dans un délai maximal d'une semaine, tout changement d'adresse qui peut avoir une influence sur leur rail-check.
 
-<sup>3</sup> En cas de déménagement en cours d'année scolaire, l'ayant droit doit retourner au responsable rail-check, dans un délai de dix jours, son titre de transport et une attestation du nouveau domicile afin que celui-ci émette un nouveau rail-check correspondant à ses besoins.
+<sup>3</sup> En cas de déménagement en cours d'année scolaire, l'ayant droit doit retourner au responsable rail-check, dans un délai de 10 jours, son titre de transport et une attestation du nouveau domicile afin que celui-ci émette un nouveau rail-check correspondant à ses besoins.
 
 #### Art. 9
 
 **Financement**
 
-<sup>1</sup> La participation parentale s’élève en principe à 50 pourcent des frais de déplacement en transport public, le 50 pourcent restant étant pris en charge à parts égales entre le canton du Valais et la commune de domicile de l’ayant droit. Les dispositions de l’article 4 alinéa 3 sont applicables.
+<sup>1</sup> La participation parentale s’élève en principe à 50 pour cent des frais de déplacement en transport public, le 50 pour cent restant étant pris en charge à parts égales entre le canton du Valais et la commune de domicile de l’ayant droit. Les dispositions de l’article 4 alinéa 3 sont applicables.
 
-<sup>2</sup> Les communes reçoivent directement des entreprises de transport les factures par degré avec notamment le nom des ayants droit, les montants utilisés ainsi que les dates d'achat. Les communes sont tenues de payer les factures dans les délais impartis et de transmettre ensuite les demandes de versement de la participation cantonale au Département en charge de la formation.
+<sup>2</sup> Les communes reçoivent directement des entreprises de transport les factures par degré avec notamment le nom des ayants droit, le code d’identification du rail-check, les montants utilisés ainsi que les dates d'achat. Les communes sont tenues de payer les factures dans les délais impartis et de transmettre ensuite les demandes de versement de la participation cantonale au département en charge de la formation.
 
 <sup>2<sup>bis</sup></sup> En cas de contestation relative au domicile des ayants droit, les communes sont tenues de régler la totalité des factures aux entreprises de transport dans les délais requis. Les contestations liées au domicile des ayants droit doivent être réglées ensuite entre les communes concernées.
 
 <sup>2<sup>ter</sup></sup> En cas de litige, le domicile fiscal des parents fait foi.
 
-<sup>3</sup> Les communes reçoivent les éventuelles demandes de remboursement de la part des ayants droit qui auraient acquis préalablement un titre de transport avant la réception du rail-check. Elles effectuent le remboursement sur la base des justificatifs requis et transmettent ensuite les demandes de versement de la participation cantonale au Département en charge de la formation. Les ayants droit peuvent réclamer le remboursement de leur rail-check au plus tard jusqu’au terme de la validité de celui-ci.
+<sup>3</sup> Les communes reçoivent les éventuelles demandes de remboursement de la part des ayants droit qui auraient acquis préalablement un titre de transport avant la réception du rail-check. Elles effectuent le remboursement sur la base des justificatifs requis et transmettent ensuite les demandes de versement de la participation cantonale au département en charge de la formation. Les ayants droit peuvent réclamer le remboursement de leur rail-check au plus tard jusqu’au terme de la validité de celui-ci.
 
-<sup>4</sup> Pour les apprentis et les étudiants arrivant dans le canton en cours d'année, les dispositions de l'article 4 sont applicables, la date de référence étant celle de l'annonce d'arrivée dans la commune. La commune de domicile est tenue de payer les factures dans les délais impartis et de transmettre ensuite les demandes de versement de la participation cantonale au Département en charge de la formation.
+<sup>4</sup> Pour les apprentis et les étudiants arrivant dans le canton en cours d'année, les dispositions de l'article 4 sont applicables, la date de référence étant celle de l'annonce d'arrivée dans la commune. La commune de domicile est tenue de payer les factures dans les délais impartis et de transmettre ensuite les demandes de versement de la participation cantonale au département en charge de la formation.
 
 #### Art. 10
 
@@ -182,7 +182,7 @@ arrête:[^ingress-1]
 
 **Interruption de la formation ou changement de lieu d'école ou de domicile**
 
-<sup>1</sup> Toute interruption de la formation ou tout changement de lieu d'école ou de domicile pendant l'année scolaire implique le renvoi, dans un délai de 10 jours, du titre de transport acquis au responsable rail-check. Ce dernier transmet le titre de transport aux CFF qui remboursent directement à la commune concernée le montant du rail-check non utilisé.
+<sup>1</sup> Toute interruption de la formation ou tout changement de lieu d'école ou de domicile pendant l'année scolaire implique le renvoi, dans un délai de 10 jours ouvrables, du titre de transport acquis au responsable rail-check. Ce dernier transmet le titre de transport aux CFF qui remboursent directement à la commune concernée le montant du rail-check non utilisé.
 
 <sup>2</sup> La commune est chargée de rembourser à l'ayant droit et au canton le montant correspondant.
 
