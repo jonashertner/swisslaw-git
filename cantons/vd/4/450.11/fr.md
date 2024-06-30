@@ -4,7 +4,7 @@ number: "450.11"
 title: LOI du 30.08.2022 sur la protection du patrimoine naturel et paysager (LPrPNP)
 short: LPrPNP
 language: fr
-version: 2023-01-01
+version: 2024-07-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/450.11?id=4a786a8c-4557-4af3-8af3-8f3e90811acf"
 ---
 
@@ -284,9 +284,13 @@ décrète
 
 <sup>2</sup> Les dérogations sont soumises à l'autorisation de la commune, à l'exception de celles concernant les arbres remarquables qui nécessitent une autorisation du service. L'article 23, alinéa 2 de la présente loi est réservé.
 
-<sup>3</sup> La demande de dérogation est mise à l'enquête publique durant trente jours et publiée dans la Feuille des avis officiels du Canton de Vaud. Pendant le délai d'enquête, tout intéressé peut déposer une opposition écrite et motivée au greffe municipal.
+<sup>3</sup> La demande de dérogation est mise à l'enquête publique durant trente jours. Pendant le délai d'enquête, tout intéressé peut déposer une opposition écrite et motivée au greffe municipal.
 
-<sup>4</sup> Le règlement précise le contenu de la demande de dérogation.
+<sup>3bis</sup> Le règlement précise le contenu de la demande de dérogation.
+
+<sup>3ter</sup> La demande de dérogation est publiée dans la Feuille des avis officiels du Canton de Vaud lorsqu'elle concerne un arbre remarquable ou lorsqu'elle est coordonnée avec une demande de permis de construire. Dans les autres cas, elle est affichée au pilier public communal. L'Etat encourage les communes à la publier également sur leur propre site internet.
+
+<sup>4</sup> En présence d'un danger imminent et direct qui menace la sécurité des biens ou des personnes et qui ne peut être écarté autrement, l'autorité compétente peut autoriser, sans mise à l'enquête, l'abattage ou l'élagage dès le dépôt de la demande ou dès la connaissance du danger. L'article 16 est applicable pour le surplus.
 
 [^14-1]: Modif. 1 du 26.03.2024: Modification Al. 3; entrée en vigueur au 01.07.2024; Introduction Al. 3bis,3ter; entrée en vigueur au 01.07.2024; Modification Al. 4; entrée en vigueur au 01.07.2024
 
