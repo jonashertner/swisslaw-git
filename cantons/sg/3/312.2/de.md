@@ -1,0 +1,259 @@
+---
+canton: SG
+number: "312.2"
+title: Einführungsgesetz zum Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege
+short: EG-BFAP
+language: de
+version: 2024-07-01
+version_adopted: 2024-11-24
+adopted: 2024-11-24
+in_force: 2024-07-01
+url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/312.2"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3714/pdf_file"
+---
+
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
+
+# Einführungsgesetz zum Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege
+
+(EG-BFAP)
+
+vom 24.11.2024 (Stand 01.07.2024)
+
+Der Kantonsrat des Kantons St.Gallen
+
+hat von der Botschaft der Regierung vom 26. März 2024[^ingress-1] Kenntnis genommen und
+
+erlässt
+
+in Ausführung des Bundesgesetzes über die Förderung der Ausbildung im Bereich der Pflege vom 16. Dezember 2022[^ingress-2]
+
+als Gesetz:[^ingress-3]
+
+[^ingress-1]: ABl 2024-00.137.736.
+[^ingress-2]: SR [811.22](https://db.clex.ch/link/Bund/811.22/de).
+[^ingress-3]: Abgekürzt EG-BFAP. Vom Kantonsrat erlassen am, in der Volksabstimmung angenommen und rechtsgültig geworden am 24. November 2024; Art. 6 Abs. 2 und Art. 10 in Vollzug ab 1. Januar 2026, Art. 2 bis 5 sowie Art. 15 und 16 in Vollzug ab 1. Januar 2025, übrige Bestimmungen rückwirkend in Vollzug ab 1. Juli 2024.
+
+## I. Allgemeines
+
+#### Art. 1
+
+**Begriffe**
+
+<sup>1</sup> In diesem Erlass bedeuten:
+
+- a) Ausbildungsplatz Pflege: Arbeitsplatz für die praktische Ausbildung zur Pflegefachfrau HF oder zum Pflegefachmann HF oder zur Pflegefachfrau FH oder zum Pflegefachmann FH[^1-1];
+- b) Ausbildungsplätze: Ausbildungsplätze Pflege und Arbeitsplätze für die praktische Ausbildung von weiteren nicht-universitären Gesundheitsberufen. Die Regierung bestimmt die weiteren nicht-universitären Gesundheitsberufe durch Verordnung;
+- c) Ausbildungsverbund: organisatorischer Zusammenschluss von wenigstens zwei Betrieben, die gemeinsam Ausbildungsplätze anbieten;
+- d) Studierende: Personen, die sich in der Ausbildung zur Pflegefachfrau HF oder zum Pflegefachmann HF oder zur Pflegefachfrau FH oder zum Pflegefachmann FH befinden;
+- e) Pflegefachperson: Pflegefachfrau HF oder Pflegefachmann HF und Pflegefachfrau FH oder Pflegefachmann FH;
+- f) Listenspital: Betrieb, der auf einer Spitalliste im Sinn von Art. 8 des Gesetzes über die Spitalplanung und -finanzierung vom 31. Januar 2012[^1-2] aufgeführt ist. Ausgenommen sind Geburtshäuser;
+- g) Pflegeheim: Betrieb, der auf der kantonalen Pflegeheimliste aufgeführt ist. Ausgenommen sind Sterbehospiz-Einrichtungen[^1-3];
+- h) Spitex-Betrieb: Organisation der Krankenpflege und Hilfe zu Hause[^1-4].
+
+[^1-1]: Art. 2 des Bundesgesetzes über die Förderung der Ausbildung im Bereich der Pflege vom 16. Dezember 2022, SR [811.22](https://db.clex.ch/link/Bund/811.22/de).
+[^1-2]: sGS [320.1](https://www.gesetzessammlung.sg.ch/data/320.1/de).
+[^1-3]: Art. 28 ff. des Sozialhilfegesetzes vom 27. September 1999, sGS [381.1](https://www.gesetzessammlung.sg.ch/data/381.1/de).
+[^1-4]: Art. 51 der eidgenössischen Verordnung über die Krankenversicherung vom 27. Juni 1995, SR [832.102](https://db.clex.ch/link/Bund/832.102/de).
+
+## II. Ausbildungsverpflichtung
+
+#### Art. 2
+
+**Bedarfsplanung[^2-1]**
+
+<sup>1</sup> Das Gesundheitsdepartement legt gestützt auf eine kantonale Versorgungsplanung[^2-2] den Bedarf an Ausbildungsplätzen im Kanton fest. Es berücksichtigt dabei die bestehenden und die geplanten Bildungs- und Studienplätze.
+
+[^2-1]: In Vollzug ab 1. Januar 2025.
+[^2-2]: Art. 2 des Bundesgesetzes über die Förderung der Ausbildung im Bereich der Pflege vom 16. Dezember 2022, SR [811.22](https://db.clex.ch/link/Bund/811.22/de).
+
+#### Art. 3
+
+**Ausbildungsverpflichtung a) Grundsatz[^3-1]**
+
+<sup>1</sup> Listenspitäler, Pflegeheime und Spitex-Betriebe stellen Ausbildungsplätze zur Verfügung, wenn sie einen Betriebsstandort im Kanton haben.
+
+<sup>2</sup> Sie bieten die Ausbildungsplätze am eigenen Betriebsstandort im Kanton oder in einem Ausbildungsverbund an. Der Ausbildungsverbund bietet die Ausbildungsplätze an einem Betriebsstandort im Kanton an.
+
+<sup>3</sup> Die zuständige Stelle des Kantons bestimmt durch Verfügung oder Leistungsauftrag die Mindestanzahl Ausbildungswochen, die ein Betrieb im Kanton erbringen muss.
+
+<sup>4</sup> Die Regierung regelt die Einzelheiten durch Verordnung. Insbesondere:
+
+- a) bestimmt sie die Kriterien, nach denen die Mindestanzahl Ausbildungswochen festgelegt wird. Sie kann für Listenspitäler, Pflegeheime und Spitex-Betriebe unterschiedliche Kriterien erlassen;
+- b) sorgt sie dafür, dass die Summe der nach Abs. 3 dieser Bestimmung festgelegten Ausbildungswochen den Bedarf an Ausbildungsplätzen nach Art. 2 dieses Erlasses nicht übersteigt;
+- c) kann sie vorsehen, dass die erbrachten Ausbildungswochen je nach Beruf unterschiedlich gewichtet werden;
+- d) kann sie vorsehen, dass Ausbildungswochen, die von einem Ausbildungsverbund erbracht werden, höher gewichtet werden.
+
+[^3-1]: In Vollzug ab 1. Januar 2025.
+
+#### Art. 4
+
+**b) Ersatzabgabe 1. Abgabepflicht[^4-1]**
+
+<sup>1</sup> Erfüllt ein Betrieb seine Ausbildungsverpflichtung nicht, leistet er eine Ersatzabgabe.
+
+<sup>2</sup> Er ist von der Ersatzabgabe befreit, wenn er nachweist, dass er die Ausbildungsverpflichtung unverschuldet nicht erfüllt hat.
+
+[^4-1]: In Vollzug ab 1. Januar 2025.
+
+#### Art. 5
+
+**2. Höhe und Verwendungszweck der Ersatzabgabe[^5-1]**
+
+<sup>1</sup> Die Ersatzabgabe beträgt höchstens das Doppelte der ungedeckten Kosten, die dem Betrieb entstanden wären, wenn er die fehlenden Ausbildungswochen erbracht hätte.
+
+<sup>2</sup> Der Ertrag aus den Ersatzabgaben wird zweckgebunden für Beiträge an Ausbildungsverbunde verwendet.
+
+<sup>3</sup> Im Übrigen regelt die Regierung die Ersatzabgabe durch Verordnung. Sie kann die Ersatzabgabe je nach Beruf unterschiedlich hoch ansetzen.
+
+[^5-1]: In Vollzug ab 1. Januar 2025.
+
+## III. Beiträge
+
+#### Art. 6
+
+**Beiträge an Betriebe, die Ausbildungsplätze Pflege anbieten a) Beitragsarten und Beitragsvoraussetzungen**
+
+<sup>1</sup> Der Kanton gewährt einem Betrieb, der im Kanton Ausbildungsplätze Pflege anbietet, Beiträge an die ungedeckten Kosten der Bereitstellung von Ausbildungsplätzen Pflege.
+
+<sup>2</sup> Er kann im Rahmen der bewilligten Kredite einem Betrieb Beiträge gewähren für Massnahmen:
+
+- a) zur Verbesserung der Qualität der praktischen Ausbildung zur Pflegefachperson;
+- b) zur Steigerung der Nachfrage nach Ausbildungsplätzen Pflege.[^6-1]
+
+<sup>3</sup> Die Gewährung eines Beitrags setzt voraus, dass der Betrieb über ein Ausbildungskonzept nach Art. 4 des Bundesgesetzes über die Förderung der Ausbildung im Bereich der Pflege vom 16. Dezember 2022[^6-2] verfügt.
+
+<sup>4</sup> Anderen Akteuren im Bereich der praktischen Ausbildung von Pflegefachpersonen können im Rahmen der bewilligten Kredite Beiträge nach Abs. 2 dieser Bestimmung gewährt werden, wenn die Massnahme mehreren Betrieben dient. Höhere Fachschulen und Fachhochschulen erhalten keine Beiträge nach Abs. 2 dieser Bestimmung.
+
+[^6-1]: Abs. 2 in Vollzug ab 1. Januar 2026.
+[^6-2]: SR [811.22](https://db.clex.ch/link/Bund/811.22/de).
+
+#### Art. 7
+
+**b) Beitragshöhe**
+
+<sup>1</sup> Der Beitrag an die ungedeckten Kosten der Bereitstellung von Ausbildungsplätzen Pflege beträgt Fr. 300.– je Ausbildungswoche, die der Betrieb erbracht hat. Verringert der Bund seinen Anteil am Beitrag auf unter 50 Prozent, wird der Beitrag so festgesetzt, dass der kantonale Anteil weiterhin Fr. 150.– beträgt.
+
+<sup>2</sup> Der Beitrag an eine Massnahme nach Art. 6 Abs. 2 dieses Erlasses beträgt höchstens 50 Prozent der Kosten der Massnahme und höchstens Fr. 10'000.– je Massnahme.
+
+#### Art. 8
+
+**Beiträge an Ausbildungsverbunde a) Voraussetzungen**
+
+<sup>1</sup> Der Kanton kann einem Ausbildungsverbund im Rahmen der bewilligten Kredite einen Beitrag gewähren, wenn:
+
+- a) dem Ausbildungsverbund wenigstens zwei Betriebe angeschlossen sind und alle Betriebe unterschiedlichen Trägerschaften gehören;
+- b) wenigstens ein Betrieb, der dem Ausbildungsverbund angeschlossen ist, seine Ausbildungsverpflichtung nicht an eigenen Betriebsstandorten im Kanton erfüllen kann;
+- c) alle Betriebe, die dem Ausbildungsverbund angeschlossen sind, ihre Ausbildungsverpflichtungen erfüllen.
+
+#### Art. 9
+
+**b) Beitragshöhe und Beitragszweck**
+
+<sup>1</sup> Der Beitrag beträgt jährlich höchstens Fr. 3'500.– je Ausbildungsplatz Pflege, der vom Ausbildungsverbund an einem Betriebsstandort im Kanton angeboten wird.
+
+<sup>2</sup> Der Ausbildungsverbund verwendet den Beitrag für den Aufbau und den Betrieb des Ausbildungsverbunds.
+
+#### Art. 10
+
+**Beiträge an höhere Fachschulen a) Beitragszweck[^10-1]**
+
+<sup>1</sup> Der Kanton kann einer höheren Fachschule im Rahmen der bewilligten Kredite Beiträge gewähren für Massnahmen zur Erhöhung der Anzahl Ausbildungsabschlüsse in Pflege, insbesondere für Massnahmen, die:
+
+- a) den Einstieg in die Ausbildung erleichtern;
+- b) zum Verbleib in der Ausbildung beitragen;
+- c) die Lernbereiche Schule und Praxis koordinieren.
+
+<sup>2</sup> Er kann im Rahmen der bewilligten Kredite einer höheren Fachschule mit Standort ausserhalb des Kantons Beiträge nach Abs. 1 dieser Bestimmung gewähren, wenn auch der Standortkanton Beiträge in Ausführung von Art. 6 des Bundesgesetzes über die Förderung der Ausbildung im Bereich der Pflege vom 16. Dezember 2022[^10-2] an die Massnahme gewährt.
+
+<sup>3</sup> Nicht als Massnahme nach Abs. 1 dieser Bestimmung gelten Leistungen, die gestützt auf Art. 53 Abs. 2 Bst. a des Bundesgesetzes über die Berufsbildung vom 13. Dezember 2002[^10-3] vom Bund mitfinanziert werden.
+
+[^10-1]: In Vollzug ab 1. Januar 2026.
+[^10-2]: SR [811.22](https://db.clex.ch/link/Bund/811.22/de).
+[^10-3]: SR [412.10](https://db.clex.ch/link/Bund/412.10/de).
+
+#### Art. 11
+
+**b) Beitragshöhe**
+
+<sup>1</sup> Der Beitrag beträgt höchstens 50 Prozent der Kosten der Massnahme und höchstens Fr. 100'000.– je Massnahme.
+
+#### Art. 12
+
+**Ausbildungsbeiträge für Studierende a) beitragsberechtigte Personen**
+
+<sup>1</sup> Der Kanton gewährt Ausbildungsbeiträge an Studierende mit Wohnsitz im Kanton, die:
+
+- a) über ein eidgenössisches Fähigkeitszeugnis als Fachfrau Gesundheit oder Fachmann Gesundheit verfügen;
+- b) über ein eidgenössisches Fähigkeitszeugnis für einen anderen Beruf verfügen oder ein Studium an einer Hochschule abgeschlossen haben (Quereinsteigerinnen oder Quereinsteiger).
+
+<sup>2</sup> Keine Ausbildungsbeiträge erhalten Studierende, die:
+
+- a) bei Beginn der Ausbildung zur Pflegefachperson das 55. Lebensjahr vollendet haben;
+- b) als Quereinsteigerin oder Quereinsteiger bei Beginn der Ausbildung zur Pflegefachperson das 25. Lebensjahr noch nicht vollendet haben;
+- c) von einem anderen Kanton Beiträge erhalten, die im Bundesgesetz über die Förderung der Ausbildung im Bereich der Pflege vom 16. Dezember 2022[^12-1] geregelt sind.
+
+<sup>3</sup> Die Regierung kann die Beitragsberechtigung durch Verordnung auf Grenzgängerinnen und Grenzgänger ausdehnen.
+
+[^12-1]: SR [811.22](https://db.clex.ch/link/Bund/811.22/de).
+
+#### Art. 13
+
+**b) Beitragshöhe**
+
+<sup>1</sup> Der Ausbildungsbeitrag je Ausbildungsjahr beträgt wenigstens Fr. 20'000.– und höchstens Fr. 30'000.–.
+
+<sup>2</sup> Die Regierung regelt die Beitragshöhe durch Verordnung.
+
+<sup>3</sup> Sie kann die Höhe der Ausbildungsbeiträge nach Art und Dauer der Ausbildung abstufen.
+
+#### Art. 14
+
+**c) Auszahlungsmodalitäten**
+
+<sup>1</sup> Der Ausbildungsbeitrag wird den Studierenden direkt ausbezahlt.
+
+<sup>2</sup> Die übrigen Auszahlungsmodalitäten, insbesondere den Auszahlungsrhythmus und die Fälligkeiten der Ausbildungsbeiträge, regelt die Regierung durch Verordnung.
+
+#### Art. 15
+
+**Beiträge zur Unterstützung des Wiedereinstiegs in die Pflege a) Voraussetzungen[^15-1]**
+
+<sup>1</sup> Der Kanton kann Pflegefachpersonen sowie Personen mit einem gleichwertigen Tertiärabschluss in Pflege im Rahmen der bewilligten Kredite einen Beitrag zur Unterstützung des Wiedereinstiegs in die Pflege gewähren, wenn die Person:
+
+- a) vor dem Wiedereinstieg während mindestens fünf Jahren nicht mehr in der Pflege berufstätig gewesen ist;
+- b) im Zeitpunkt des Beitragsgesuchs seit höchstens sechs Monaten wieder in der Pflege berufstätig ist;
+- c) Wohnsitz im Kanton hat.
+
+[^15-1]: In Vollzug ab 1. Januar 2025.
+
+#### Art. 16
+
+**b) Beitragshöhe[^16-1]**
+
+<sup>1</sup> Der Beitrag beträgt 100 Prozent der Kosten eines anerkannten Wiedereinstiegskurses und höchstens Fr. 4'000.–.
+
+[^16-1]: In Vollzug ab 1. Januar 2025.
+
+#### Art. 17
+
+**Rückforderung von Beiträgen**
+
+<sup>1</sup> Ein Beitrag, der gestützt auf diesen Erlass gewährt wurde, wird ganz oder teilweise zurückgefordert, wenn:
+
+- a) die Beitragsempfängerin oder der Beitragsempfänger im Gesuch falsche Angaben zur Beitragsberechtigung gemacht hat;
+- b) eine Massnahme, die durch den Beitrag unterstützt werden sollte, nicht vollständig oder nicht richtig umgesetzt wird;
+- c) die an einem Ausbildungsverbund angeschlossenen Betriebe ihre Ausbildungsverpflichtungen nicht erfüllen;
+- d) der Beitrag zweckwidrig verwendet wird;
+- e) die Ausbildung abgebrochen wird. Die Ausbildungsbeiträge, die für den Zeitraum:
+  - 1\. nach Abbruch der Ausbildung ausbezahlt wurden, werden vollständig zurückgefordert;
+  - 2\. bis zum Abbruch der Ausbildung ausbezahlt wurden, werden zur Hälfte zurückgefordert;
+- f) eine Studierende oder ein Studierender nach Abschluss der Ausbildung nicht während den zwei dem Ausbildungsabschluss folgenden Jahren lückenlos als Pflegefachperson in der Schweiz tätig war. Je Monat, in dem eine Studierende oder ein Studierender während dieser zwei Jahre nicht als Pflegefachperson in der Schweiz tätig war, wird ein Vierundzwanzigstel der insgesamt ausbezahlten Ausbildungsbeiträge zurückgefordert.
+
+<sup>2</sup> Die zuständige Stelle des Kantons verfügt die Rückforderung. Sie kann auf eine Rückforderung verzichten, wenn diese bei der Beitragsempfängerin oder dem Beitragsempfänger zu einer grossen Härte führen würde oder der Studierende oder die Studierende aus zwingenden Gründen nicht in der Schweiz als Pflegefachperson tätig war.
+
+<sup>3</sup> Der Anspruch auf Rückforderung verjährt innert drei Jahren, nachdem die zuständige Stelle des Kantons vom Rückforderungsgrund Kenntnis erhalten hat, in jedem Fall aber zehn Jahre nach Auszahlung des Beitrags.
+
+<sup>4</sup> Hat die Beitragsempfängerin oder der Beitragsempfänger durch ihr oder sein Verhalten eine strafbare Handlung begangen, verjährt der Anspruch auf Rückerstattung frühestens mit Eintritt der strafrechtlichen Verfolgungsverjährung. Tritt diese infolge eines erstinstanzlichen Strafurteils nicht mehr ein, verjährt der Anspruch frühestens mit Ablauf von drei Jahren seit Eröffnung des Urteils.
+
+nGS 2024-050
