@@ -4,13 +4,12 @@ number: "122.212"
 title: Verordnung zum Gesetz über die Register und das Meldewesen
 short: "Register- und Meldeverordnung, RMV"
 language: de
-version: 2021-09-01
-valid_until: 2024-06-30
-version_adopted: 2020-09-09
+version: 2024-07-01
+version_adopted: 2024-03-13
 adopted: 2020-09-09
 in_force: 2021-09-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/122.212"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3141/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3559/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3141/pdf_file"
 
 (Register- und Meldeverordnung, RMV)
 
-Vom 09.09.2020 (Stand 01.09.2021)
+Vom 09.09.2020 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -282,7 +281,7 @@ beschliesst:
 
 #### § 23
 
-**Gebühren 1. Einwohnerkontrollen**
+**Gebühren Einwohnerkontrollen**
 
 <sup>1</sup> Die Einwohnerkontrolle bezieht folgende Gebühren:
 
@@ -299,9 +298,7 @@ beschliesst:
 
 #### § 24
 
-**2. Fachstelle Datenaustausch**
-
-<sup>1</sup> Die Gebühr für Listenauskünfte aus dem kantonalen Einwohnerregister beträgt Fr. 0.05 pro Person, mindestens jedoch Fr. 100.–.
+**…**
 
 #### § 25
 
