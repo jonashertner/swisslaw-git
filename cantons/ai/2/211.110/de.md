@@ -4,236 +4,156 @@ number: "211.110"
 title: Zivilstandsverordnung
 short: ZiV
 language: de
-version: 2017-07-01
-corrected: 2019-02-15
-version_adopted: 2017-06-26
+version: 2024-07-01
+version_adopted: 2024-06-24
 adopted: 2024-06-24
 in_force: 2024-07-01
 url: "https://ai.clex.ch/app/de/texts_of_law/211.110"
-pdf: "https://ai.clex.ch/api/de/versions/236/pdf_file"
-text: pdf
+pdf: "https://ai.clex.ch/api/de/versions/2296/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Zivilstandsverordnung (ZiV)
+# Zivilstandsverordnung
 
-vom 30. November 19871
+(ZiV)
+
+vom 24.06.2024 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons Appenzell I. Rh.,
 
-gestützt auf Art. 49 des Schweizerischen Zivilgesetzbuches vom 10. Dezember 1907 (ZGB), die Zivilstandsverordnung vom 28. April 2004 (ZStV), die Verordnung über Transport und Beisetzung ansteckungsgefährlicher Leichen sowie Transport von Leichen vom und ins Ausland vom 17. Juni 1974 und Art. 27 Abs. 1 der Kantonsverfassung vom 24. Wintermonat 1872,2
+gestützt auf Art. 27 Abs. 1 der Kantonsverfassung vom 24. Wintermonat 1872,
 
 beschliesst:
 
-### I. Organisation
+## I. Organisation
 
-### A. Zivilstandsamt
+#### Art. 1
 
-#### Art. 13
+**Zivilstandskreis**
 
-**Zivilstandskreise**
+<sup>1</sup> Der Kanton Appenzell I.Rh. bildet einen Zivilstandskreis mit einem Zivilstandsamt.
 
-<sup>1</sup> Im Kanton bestehen zwei Zivilstandskreise:
+<sup>2</sup> Der Amtssitz befindet sich in Appenzell.
 
-- a. Der Zivilstandskreis Appenzell mit Amtssitz in Appenzell, umfassend den inneren Landesteil;
+<sup>3</sup> Das Zivilstandsamt ist für sämtliche zivilstandsamtlichen Tätigkeiten zuständig.
 
-- b. Der Zivilstandskreis Oberegg mit Amtssitz in Oberegg, umfassend den Bezirk Oberegg.
+<sup>4</sup> Es betreibt in den beiden Landesteilen je mindestens ein Trauungslokal. Der Bezirk Oberegg stellt ihm hierfür auf eigene Kosten eine würdige Räumlichkeit zur Verfügung.
 
-<sup>2</sup> Das Zivilstandsamt im Zivilstandskreis Appenzell nimmt für das ganze Kantonsgebiet die Aufgaben eines Sonderzivilstandsamtes gemäss Art. 2 Abs. 2 ZStV wahr.
+#### Art. 2
 
-#### Art. 24
+**Zivilstandsbeamtinnen und Zivilstandsbeamte**
 
-**Amtsräume**
-
-Im Zivilstandskreis Appenzell sorgt der Kanton und im Zivilstandskreis Oberegg der Bezirk für zweckmässige Amtsräume und Einrichtungen, welche die erforderlichen Sicherheitsmassnahmen erfüllen.
+<sup>1</sup> Die Standeskommission ernennt mindestens eine Zivilstandsbeamtin oder einen Zivilstandsbeamten sowie erforderlichenfalls die Stellvertretungen.
 
 #### Art. 3
 
-Register und Die vorgeschriebenen Register, Verzeichnisse und Formulare werden den Zivil-Formulare, Be- standsämtern vom Kanton kostenlos zur Verfügung gestellt.
+**Amtssprache**
 
-zug Art. 41 Zivilstandsbeam- Die Standeskommission ernennt für die Zivilstandskreise Appenzell und Oberegg je te mindestens einen Zivilstandsbeamten\* und regelt die Stellvertretung.
+<sup>1</sup> Amtssprache ist Deutsch.
 
-#### Art. 52
+#### Art. 4
 
-Regelung des Das Dienstverhältnis der Zivilstandsbeamten und deren Stellvertreter ist durch die Dienstverhält- Personalverordnung geregelt.
+**Aufbewahrung der Register**
 
-nisses Art. 63 Ausserordentli- Ausserordentliche Stellvertretungen werden durch die Standeskommission beche Stellvertre- stimmt.
+<sup>1</sup> Das Zivilstandsamt sorgt für die sichere Aufbewahrung der Register, Verzeichnisse und Belege.
 
-tung Art. 74 Amtssprache Deutsch ist Amtssprache.
+#### Art. 5
 
-#### Art. 8
+**Aufsichtsbehörde**
 
-Aufbewahrung, <sup>1</sup>Die Zivilstandsämter sorgen für die sichere Aufbewahrung der Register, Verzeich-Verfilmung der nisse und Belege.
+<sup>1</sup> Aufsichtsbehörde über das Zivilstandswesen ist die Standeskommission.
 
-Register <sup>2</sup>Die Register sind periodisch zu verfilmen.
+<sup>2</sup> Sie sorgt für den Vollzug des Zivilstandswesens und kann diesbezügliches Ausführungsrecht erlassen.
 
-### B. Aufsichtsbehörde
+#### Art. 6
 
-#### Art. 9
+**Inspektion**
 
-Aufsichts- Aufsichtsbehörde über das Zivilstandswesen ist die Standeskommission.
+<sup>1</sup> Die Aufsichtsbehörde trifft die für die Inspektion des Zivilstandsamts notwendigen Vorkehrungen.
 
-behörde Art. 105 Inspektion <sup>1</sup>Die Aufsichtsbehörde trifft die für die Inspektion der Zivilstandsämter notwendigen Vorkehrungen.
+<sup>2</sup> Der von der Aufsichtsbehörde genehmigte Inspektionsbericht ist dem Zivilstandsamt zu eröffnen und an die Bundesbehörde weiterzuleiten.
 
-<sup>2</sup> Der Bericht über die Inspektionen ist dem Zivilstandsbeamten zu eröffnen sowie von der Aufsichtsbehörde zu genehmigen und an die Bundesbehörde weiterzuleiten.
+## II. Registerführung
 
-#### Art. 111
-
-**Rekurs**
-
-Gegen Verfügungen des Zivilstandsbeamten und seiner Stellvertreter kann innert dreissig Tagen seit Kenntnisnahme bei der Aufsichtsbehörde Rekurs erhoben werden.
-
-### II. Registerführung
-
-### A. Allgemeines
-
-#### Art. 122
+#### Art. 7
 
 **Registerarten**
 
-Der Zivilstandsbeamte führt die durch die eidgenössische Zivilstandsverordnung vorgeschriebenen Register.
+<sup>1</sup> Das Zivilstandsamt führt die durch die eidgenössische Zivilstandsverordnung vorgeschriebenen Register.
 
-#### Art. 133
+#### Art. 8
 
-#### Art. 144
+**Geburtsregister, Geburtsanzeige**
 
-#### Art. 155
+<sup>1</sup> Für die Anzeige einer Geburt ist das dafür vorgesehene amtliche Formular zu verwenden. Dieses ist durch die beigezogene ärztliche Fachperson oder geburtshelfende Person auszufüllen und umgehend dem Zivilstandsamt zuzustellen oder der meldepflichtigen Person zuhanden des Zivilstandsamts auszuhändigen.
 
-**Schlusszeichen**
+#### Art. 9
 
-In den nach der eidgenössischen Zivilstandsverordnung vorgeschriebenen Einzelregistern werden unbeschriebene Stellen mit einem Schlusszeichen versehen.
+**Kind unbekannter Abstammung**
 
-#### Art. 166
+<sup>1</sup> Wer ein Kind unbekannter Abstammung findet, hat sofort die Kantonspolizei zu benachrichtigen. Diese informiert die Kindes- und Erwachsenenschutzbehörde und die weiteren zuständigen Stellen.
 
-### B. Einzelregister
+<sup>2</sup> Die Kindes- und Erwachsenenschutzbehörde ordnet für ein gefundenes Kind unbekannter Abstammung das Erforderliche an und gibt ihm einen Familien- und Vornamen. Sie erstattet dem Zivilstandsamt schriftlich Anzeige.
 
-#### Art. 171
+<sup>3</sup> Ein Kind unbekannter Abstammung erhält das Bürgerrecht des Landesteils, in dem es gefunden worden ist.
 
-Geburtsregister, Für die Anzeige einer Geburt ist das Formular „Geburtsanzeige“ zu verwenden, Geburtsanzeige durch den beigezogenen Arzt, die Hebamme oder die Spitalverwaltung auszufüllen
+#### Art. 10
 
-und umgehend dem Zivilstandsamt des Geburtsortes zuzustellen.
+**Todesregister, Todesbescheinigung**
 
-#### Art. 182
+<sup>1</sup> Bei Todesfällen füllt die behandelnde oder die nach dem Tod beigezogene ärztliche Fachperson das amtliche Formular für die Todesbescheinigung aus und stellt es dem Zivilstandsamt zu oder händigt es der meldepflichtigen Person zuhanden des Zivilstandsamts aus.
 
-Kind unbekann- <sup>1</sup>Wer ein Kind unbekannter Abstammung findet, hat sofort die Standeskommission ter Abstammung zu benachrichtigen. Diese veranlasst umgehend die polizeilichen Ermittlungen (Kantonspolizei/Staatsanwaltschaft).
+<sup>2</sup> Für Todesfälle im äusseren Landesteil kann die meldepflichtige Person die ärztliche Todesbescheinigung der Bezirksverwaltung Oberegg abgeben. Diese leitet die Bescheinigung mit der Todesanmeldung an das Zivilstandsamt weiter.
 
-<sup>2</sup> Fehlen Anhaltspunkte über die Abstammung des Kindes, so gibt die Standeskommission - für Oberegg nach Antrag des Bezirksrates - dem Kind Familien- und Vornamen, veranlasst bei der Kindes- und Erwachsenenschutzbehörde das Erforderliche und erstattet dem Zivilstandsbeamten schriftlich Anzeige. Das Kind unbekannter Abstammung erhält das Bürgerrecht des Zivilstandskreises, in dem es gefunden worden ist.
+#### Art. 11
 
-#### Art. 193
+**Bestattungsbewilligung, internationale Leichentransportbewilligung**
 
-Todesregister, Für jeden Todesfall ist vom behandelnden oder nach dem Tod beigezogenen Arzt Todesbescheini- das Formular „ärztliche Todesbescheinigung“ auszufüllen und unverzüglich dem gung Anzeigepflichtigen, zuhanden des Zivilstandsamtes des Todesortes, zu übergeben.
+<sup>1</sup> Das Zivilstandsamt fertigt nach Eingang der ärztlichen Bescheinigung des Todes die Bestattungsbewilligung aus. Vorbehalten bleiben entgegenstehende Verfügungen der Untersuchungsbehörden.
 
-#### Art. 204
+<sup>2</sup> Für die Ausstellung einer internationalen Leichentransportbewilligung ist die Kantonspolizei zuständig.
 
-Bestattungs- <sup>1</sup>Nach Eingang der ärztlichen Bescheinigung des Todes hat der Zivilstandsbeamte bewilligung, die Bestattungsbewilligung auszufertigen. Vorbehalten bleiben entgegenstehende Leichenpass Verfügungen der Untersuchungsbehörden.
+#### Art. 12
 
-<sup>2</sup> Für die Ausstellung eines Leichenpasses ist die Kantonspolizei zuständig.
+**Zivilstandsregistereintragungen mit Auslandbezug**
 
-#### Art. 215
+<sup>1</sup> Das Zivilstandsamt hat der Aufsichtsbehörde die Dokumente zur Prüfung zu unterbreiten, wenn es um folgende Sachverhalte oder Eintragungen in die Zivilstandsregister geht:
 
-Zivilstands- <sup>1</sup>Das Zivilstandsamt hat der Aufsichtsbehörde die Dokumente zur Prüfung zu unterregistereintra- breiten, wenn es um folgende Sachverhalte oder Eintragungen in die Zivilstandsregungen mit Aus- gister geht:
-
-landbezug a) Namensführung, sofern ausländisches Recht auf den Namen anwendbar ist oder sein könnte;
-
+- a) Namensführung, sofern ausländisches Recht auf den Namen anwendbar ist oder sein könnte;
 - b) Kindesanerkennung, sofern die anerkennende Person oder das Kind nicht die schweizerische Staatsangehörigkeit besitzt;
+- c) Eheschliessung oder Eintragung einer Partnerschaft, sofern eine der verlobten Personen bzw. eine der Partnerinnen oder einer der Partner nicht die schweizerische Staatsangehörigkeit besitzt.
 
-- c) Eheschliessung oder Eintragung einer Partnerschaft, sofern eine der verlobten Personen bzw. einer der Partner nicht die schweizerische Staatsangehörigkeit besitzt.
+<sup>2</sup> Die Aufsichtsbehörde kann Mitarbeitende des Zivilstandsamts, die über die erforderlichen Sachkenntnisse verfügen, ermächtigen, die Prüfung der Dokumente ganz oder teilweise selbst vorzunehmen.
 
-<sup>2</sup> Die Aufsichtsbehörde kann Zivilstandsbeamte, die über die erforderlichen Sachkenntnisse verfügen, ermächtigen, die Prüfung der Dokumente ganz oder teilweise selbst vorzunehmen.
+## III. Schlussbestimmungen
 
-### C. Elektronische Datenbank (Infostar)1
+#### Art. 13
 
-#### Art. 222
+**Mitteilungen nach kantonalem Recht**
 
-### D. Familienregister
+<sup>1</sup> Neben den in besonderen Bestimmungen des Bundes und des Kantons vorgeschriebenen Mitteilungen hat das Zivilstandsamt zu melden:
 
-#### Art. 233
-
-**Familienregister**
-
-Das Familienregister wird in Buchform oder in Form eines Kartenregisters mit Maschinenschrift geführt.
-
-### III. Namensführung nach der Eheschliessung
-
-#### Art. 244
-
-### IV. Kontrollen, Mitteilungen und Gebühren
-
-#### Art. 251
-
-#### Art. 262
-
-Kontrolle über Der Zivilstandsbeamte führt eine Kontrolle über die umfassend verbeiständeten Verbeiständete Bürger seines Zivilstandskreises.
-
-#### Art. 273
-
-Mitteilungen Neben den in besonderen Bestimmungen des Bundes und des Kantons vorgenach kantonalem schriebenen Mitteilungen hat der Zivilstandsbeamte zu melden:
-
-Recht a) der Einwohnerkontrolle alle Zivilstandstatsachen, welche die im Zivilstandskreis wohnhaften Personen betreffen;
-
-- b) der kantonalen Steuerverwaltung und der Erbschaftsbehörde alle Todesfälle der im Zivilstandskreis wohnhaften Personen;
-
+- a) der Einwohnerkontrolle alle Zivilstandstatsachen, welche die im jeweiligen Landesteil wohnhaften Personen betreffen;
+- b) der kantonalen Steuerverwaltung und der für das Erbschaftswesen zuständigen Behörde alle Todesfälle der im Zivilstandskreis wohnhaften Personen;
 - c) der Kindes- und Erwachsenenschutzbehörde den Tod einer umfassend verbeiständeten Person.
 
-#### Art. 284
+#### Art. 14
 
-Gebühren <sup>1</sup>Die Gebühren für Dienstleistungen der Zivilstandsbehörden richten sich nach der eidgenössischen Verordnung über die Gebühren im Zivilstandswesen (ZStGV).
+**Gebühren**
 
-<sup>2</sup> Die Vorbereitung der Eheschliessung bzw. Eintragung einer Partnerschaft und die Trauung bzw. die Beurkundung einer eingetragenen Partnerschaft sind gebührenpflichtig. Die Höhe der Gebühr richtet sich nach der in Abs. 1 dieses Artikels genannten Gebührenverordnung.
+<sup>1</sup> Die Gebühren für Dienstleistungen des Zivilstandsamts richten sich nach der eidgenössischen Verordnung über die Gebühren im Zivilstandswesen (ZStGV).
 
-### V. Straf- und Schlussbestimmungen1
-
-#### Art. 292
+#### Art. 15
 
 **Strafbestimmung**
 
-Die Beurteilung von Verstössen wegen Missachtung der in der eidgenössischen Zivilstandsverordnung statuierten Anzeigepflichten ist Sache der Standeskommission.
+<sup>1</sup> Die Staatsanwaltschaft beurteilt Verstösse gegen Meldepflichten der eidgenössischen Zivilstandsverordnung, die von der Aufsichtsbehörde angezeigt werden.
 
-#### Art. 303
-
-#### Art. 314
+#### Art. 16
 
 **Inkrafttreten**
 
-Diese Verordnung tritt nach Annahme des Grossen Rates unter dem Vorbehalt der Genehmigung durch den Bundesrat auf den 1. Januar 1988 in Kraft.
+<sup>1</sup> Diese Verordnung tritt unter dem Vorbehalt der Genehmigung durch den Bund auf den 1. Juli 2024 in Kraft.
 
-Vom Bundesrat genehmigt am 15. Januar 1988, am 10. Dezember 1990 (Änderungen vom 18. Juni 1990) und am 22. März 2000 (Revision vom 28. Februar 2000).
-
-Vom Eidg. Justiz- und Polizeidepartement genehmigt am 22. Dezember 2004 (Revision vom 25. Oktober 2004).
-
-## Weitere Fussnoten
-
-- [1] Mit Revisionen vom 18. Juni 1990, 28. Februar 2000 (rückwirkend auf 1. Januar 2000 in Kraft gesetzt), 23. Juni 2003, 25. Oktober 2004 (rückwirkend auf 1. Juli 2004 in Kraft gesetzt), 20. November 2006, 18. Juni 2012, 3. Dezember 2012, 1. Dezember 2014 und 26. Juni 2017.
-- [2] Titel und Ingress abgeändert durch GrRB vom 23. Juni 2003. Ingress abgeändert durch GrRB vom 18. Juni 2012.
-- [3] Abgeändert durch GrRB vom 25. Oktober 2004. Neue Fassung durch GrRB vom 18. Juni 2012.
-- [4] Ergänzt durch GrRB vom 28. Februar 2000.
-- [1] Eingefügt durch GrRB vom 25. Oktober 2004.
-- [*] Die Verwendung der männlichen Bezeichnungen gilt sinngemäss für beide Geschlechter.
-- [2] Abgeändert durch GrRB vom 23. Juni 2003. Neue Nummerierung durch GrRB vom 25. Oktober 2004.
-- [3] Neue Nummerierung und neue Fassung durch GrRB vom 25. Oktober 2004.
-- [4] Abgeändert durch GrRB vom 18. Juni 1990 und 25. Oktober 2004.
-- [5] Abgeändert (Abs. 1) durch GrRB vom 28. Februar 2000 und 25. Oktober 2004.
-- [1] Abgeändert durch GrRB vom 28. Februar 2000.
-- [2] Abgeändert durch GrRB vom 18. Juni 1990 und 28. Februar 2000. Abgeändert durch GrRB vom 20. November 2006 (Inkrafttreten: 1. Januar 2007).
-- [3] Abgeändert durch GrRB vom 28. Februar 2000. Abgeändert durch GrRB vom 20. November 2006 (Inkrafttreten: 1. Januar 2007). Abgeändert durch GrRB vom 3. Dezember 2012. Aufgehoben durch GrRB vom 26. Juni 2017 (Inkrafttreten: 1. Juli 2017).
-- [4] Aufgehoben durch GrRB vom 26. Juni 2017 (Inkrafttreten: 1. Juli 2017).
-- [5] Abgeändert durch GrRB vom 18. Juni 1990.
-- [6] Aufgehoben durch GrRB vom 26. Juni 2017 (Inkrafttreten: 1. Juli 2017).
-- [1] Abgeändert durch GrRB vom 28. Februar 2000.
-- [2] Abgeändert (Abs. 2) durch GrRB vom 28. Februar 2000. Abgeändert (Abs. 1) durch GrRB vom 23. Juni 2003. Abgeändert (Abs. 2) durch GrRB vom 1. Dezember 2014.
-- [3] Abgeändert durch GrRB vom 28. Februar 2000.
-- [4] Abgeändert (Abs. 1) durch GrRB vom 25. Oktober 2004.
-- [5] Neue Fassung durch GrRB vom 18. Juni 1990 und GrRB vom 28. Februar 2000. Abgeändert (Abs. 1 lit. c) durch GrRB vom 20. November 2006 (Inkrafttreten: 1. Januar 2007).
-- [1] Neuer Titel durch GrRB vom 25. Oktober 2004.
-- [2] Eingefügt durch GrRB vom 25. Oktober 2004. Aufgehoben durch GrRB vom 18. Juni 2012.
-- [3] Neue Nummerierung durch GrRB vom 18. Juni 1990.
-- [4] Neue Nummerierung durch GrRB vom 18. Juni 1990. Abgeändert durch GrRB vom 28. Februar 2000. Aufgehoben durch GrRB vom 25. Oktober 2004.
-- [1] Neue Nummerierung durch GrRB vom 18. Juni 1990. Aufgehoben durch GrRB vom 25. Oktober 2004.
-- [2] Neue Nummerierung durch GrRB vom 18. Juni 1990. Abgeändert durch GrRB vom 1. Dezember 2014.
-- [3] Neue Nummerierung durch GrRB vom 18. Juni 1990. Abgeändert (lit. c) durch GrRB vom 1. Dezember 2014.
-- [4] Neue Nummerierung durch GrRB vom 18. Juni 1990. Abgeändert durch GrRB vom 28. Februar 2000. Abgeändert (Abs. 2) durch GrRB vom 20. November 2006 (Inkrafttreten: 1. Januar 2007).
-- [1] Titel abgeändert durch GrRB vom 23. Juni 2003.
-- [2] Neue Nummerierung durch GrRB vom 18. Juni 1990. Abgeändert durch GrRB vom 25. Oktober 2004.
-- [3] Eingefügt durch GrRB vom 25. Oktober 2004. Aufgehoben durch GrRB vom 20. November 2006 (Inkrafttreten: 1. Januar 2007).
-- [4] Abgeändert durch GrRB vom 18. Juni 1990 (Neue Nummerierung). Abgeändert durch GrRB vom 23. Juni 2003.
+cGS 2024-13
