@@ -3,11 +3,11 @@ sr: "916.472"
 title: "Ordonnance du 30 octobre 1985 concernant les émoluments perçus par l'Office fédéral de la sécurité alimentaire et des affaires vétérinaires (Ordonnance sur les émoluments de l'OSAV)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727"
 language: fr
-version: 2023-01-01
+version: 2024-07-01
 adopted: 1985-10-30
 in_force: 1986-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-1985-1727_1727_1727-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-1985-1727_1727_1727-20240701-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20240701/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,25 +16,25 @@ url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20230101/fr"
 
 (Ordonnance sur les émoluments de l’OSAV, OEmol-OSAV)[^t-1]
 
-du 30 octobre 1985 (État le 1<sup>er</sup> janvier 2023)
+du 30 octobre 1985 (État le 1<sup>er</sup> juillet 2024)
 
 [^t-1]: Tit. introduit par l’annexe 2 ch. 2 de l’O du 1<sup>er</sup> sept. 2010 sur le système informatique de gestion des expériences sur animaux, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([RO 2010 3953](https://fedlex.data.admin.ch/eli/oc/2010/563)).
 
 Le Conseil fédéral suisse,
 
-vu l’art. 7, al. 2, de la loi du 16 décembre 2005 sur la protection des animaux[^ingress-1], vu l’art. 45, al. 2, de la loi du 9 octobre 1992 sur les denrées alimentaires[^ingress-2], vu l’art. 56 de la loi du 1<sup>er</sup> juillet 1966 sur les épizooties[^ingress-3], vu l’art. 46*a* de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^ingress-4], vu l’art. 65, al. 1, de la loi du 15 décembre 2000 sur les produits thérapeutiques[^ingress-5], vu l’art. 20, al. 4, de la loi fédérale du 16 mars 2012 sur la circulation des espèces de faune et de flore protégées[^ingress-6] en exécution de l’annexe 11 de l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne relatif aux échanges de produits agricoles[^ingress-7] en exécution de l’Accord du 17 novembre 2010 entre la Confédération suisse et la Nouvelle-Zélande sur les mesures sanitaires applicables au commerce d’animaux vivants et de produits animaux[^ingress-8],[^ingress-9]
+vu l’art. 46*a* de la loi du 21 mars 1997 sur l’organisation du gouvernement et de l’administration[^ingress-1], vu l’art. 20, al. 4, de la loi fédérale du 16 mars 2012 sur la circulation des espèces de faune et de flore protégées[^ingress-2], vu l’art. 7, al. 2, de la loi du 16 décembre 2005 sur la protection des animaux[^ingress-3], vu l’art. 65, al. 1, de la loi du 15 décembre 2000 sur les produits thérapeutiques[^ingress-4], vu l’art. 58, al. 2, de la loi du 20 juin 2014 sur les denrées alimentaires[^ingress-5], vu les art. 45*c*, al. 4, et 56 de la loi du 1<sup>er</sup> juillet 1966 sur les épizooties[^ingress-6], en exécution de l’annexe 11 de l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne relatif aux échanges de produits agricoles[^ingress-7], en exécution de l’Accord du 17 novembre 2010 entre la Confédération suisse et la Nouvelle‑Zélande sur les mesures sanitaires applicables au commerce d’animaux vivants et de produits animaux[^ingress-8],[^ingress-9]
 
 arrête:
 
-[^ingress-1]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
-[^ingress-2]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^ingress-3]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^ingress-4]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-5]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^ingress-6]: [RS 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
+[^ingress-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-2]: [RS 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
+[^ingress-3]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
+[^ingress-4]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^ingress-5]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^ingress-6]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
 [^ingress-7]: [RS 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
 [^ingress-8]: [RS 0.916.443.961.41](https://fedlex.data.admin.ch/eli/cc/2012/274)
-[^ingress-9]: Nouvelle teneur selon l’annexe ch. II 5 de l’O du 18 nov. 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
+[^ingress-9]: Nouvelle teneur selon le ch. II 2 de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 ## Chapitre 1 Dispositions générales
 
@@ -203,37 +203,44 @@ Les émoluments pour les lots transitant de pays tiers à pays tiers sont fixés
 
 **Lots destinés à l’importation ou au transit présentés sans notification préalable**[^17a-1]
 
-Un émolument supplémentaire de 150 francs est perçu pour le surcroît de travail occasionné par les lots importés ou en transit qui n’ont pas fait l’objet d’une notification préalable comme l’exige l’art. 18 de l’ordonnance du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers[^17a-2].
+Un émolument supplémentaire de 150 francs est perçu pour le surcroît de travail occasionné par les lots importés ou en transit qui n’ont pas fait l’objet d’une notification préalable comme l’exige l’art. 18 de l’ordonnance du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers (OITE‑PT)[^17a-2].
 
-[^17a-1]: Introduit par le ch. I de l’O du 27 août 2008 ([RO 2008 4193](https://fedlex.data.admin.ch/eli/oc/2008/596)). Nouvelle teneur selon l’annexe ch. II 5 de l’O du 18 nov. 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
+[^17a-1]: Introduit par le ch. I de l’O du 27 août 2008 ([RO 2008 4193](https://fedlex.data.admin.ch/eli/oc/2008/596)). Nouvelle teneur selon le ch. II 2 de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 [^17a-2]: [RS 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
 
 #### Art. 17b
 
 **Décision relative aux mesures concernant les lots non conformes**[^17b-1]
 
-L’OSAV perçoit un émolument de 120 francs pour les décisions de refoulement, pour la transformation ou la confiscation des lots destinés à l’importation ou au transit.
+L’OSAV perçoit un émolument de 120 francs pour toute décision relative aux mesures visées aux art. 68 OITE‑PT[^17b-2], 30 de l’ordonnance du 28 novembre 2014 concernant l’importation, le transit et l’exportation d’animaux de compagnie (OITE-AC)[^17b-3], 28 à 28*b* et 34 à 38 de l’ordonnance du 4 septembre 2013 sur la circulation des espèces de faune et de flore protégées[^17b-4].
 
-[^17b-1]: Introduit par l’annexe ch. II 5 de l’O du 18 nov. 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
+[^17b-1]: Introduit par l’annexe ch. II 5 de l’O du 18 nov. 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers ([RO 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)). Nouvelle teneur selon le ch. II 2 de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^17b-2]: [RS 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
+[^17b-3]: [RS 916.443.14](https://fedlex.data.admin.ch/eli/cc/2014/755)
+[^17b-4]: [RS 453.0](https://fedlex.data.admin.ch/eli/cc/2013/601)
 
 #### Art. 18
 
 **Autorisations et permis**[^18-1]
 
-<sup>1</sup> L’émolument perçu pour la délivrance d’une autorisation selon l’ordonnance du 28 novembre 2014 concernant l’importation, le transit et l’exportation d’animaux de compagnie[^18-2] est de 40 francs.
+<sup>1</sup> L’émolument perçu pour la délivrance d’une autorisation au titre de l’art. 12 OITE-PT[^18-2] ou de l’OITE-AC[^18-3] est de 60 francs.[^18-4]
 
-<sup>1bis</sup> L’émolument pour l’autorisation visée à l’art. 12 de l’ordonnance du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers[^18-3] s’élève à 40 francs si le lot, conformément à cette autorisation, n’est pas soumis à un contrôle vétérinaire de frontière.[^18-4]
+<sup>1bis</sup> …[^18-5]
 
-<sup>1ter</sup> L’émolument pour l’autorisation visée à l’art. 7 de l’ordonnance du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les États membres de l’UE, l’Islande et la Norvège[^18-5] est de 40 à 100 francs.[^18-6]
+<sup>1ter</sup> L’émolument pour l’autorisation visée à l’art. 7 de l’ordonnance du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les États membres de l’UE, l’Islande, la Norvège et l’Irlande du Nord (OITE-UE)[^18-6] est de 40 à 100 francs.[^18-7]
 
 <sup>2</sup> Les émoluments perçus pour la délivrance d’autres autorisations et permis sont compris dans les tarifs fixés aux art. 15 à 17.
 
+<sup>3</sup> L’émolument perçu pour l’annulation d’une autorisation visée à l’al. 1, 1<sup>ter</sup> ou 2 est de 20 francs.[^18-8]
+
 [^18-1]: Nouvelle teneur selon l’annexe 6 ch. II 4 de l’O du 28 nov. 2014 concernant l’importation, le transit et l’exportation d’animaux de compagnie, en vigueur depuis le 29 déc. 2014 ([RO 2014 4521](https://fedlex.data.admin.ch/eli/oc/2014/755)).
-[^18-2]: [RS 916.443.14](https://fedlex.data.admin.ch/eli/cc/2014/755)
-[^18-3]: [RS 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
-[^18-4]: Introduit par l’annexe ch. II 5 de l’O du 18 nov. 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
-[^18-5]: [RS 916.443.11](https://fedlex.data.admin.ch/eli/cc/2015/846)
-[^18-6]: Introduit par l’annexe ch. II 5 de l’O du 18 nov. 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
+[^18-2]: [RS 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
+[^18-3]: [RS 916.443.14](https://fedlex.data.admin.ch/eli/cc/2014/755)
+[^18-4]: Nouvelle teneur selon le ch. II 2 de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^18-5]: Introduit par l’annexe ch. II 5 de l’O du 18 nov. 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers ([RO 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)). Abrogé par le ch. II 2 de l’O du 31 mai 2024, avec effet au 1<sup>er</sup> juil. 2024 ([RO 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^18-6]: [RS 916.443.11](https://fedlex.data.admin.ch/eli/cc/2015/846)
+[^18-7]: Introduit par l’annexe ch. II 5 de l’O du 18 nov. 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers ([RO 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)). Nouvelle teneur selon le ch. II 2 de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^18-8]: Introduit par le ch. II 2 de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 ### Section 2 Autorisations et certificats d’exportation
 
@@ -243,12 +250,16 @@ L’OSAV perçoit un émolument de 120 francs pour les décisions de refoulement
 
 #### Art. 19
 
-<sup>1</sup> Les émoluments pour les autorisations visées aux art. 52 de l’ordonnance du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les pays tiers[^19-1] et 27 de l’ordonnance du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits avec les États membres de l’UE, l’Islande et la Norvège[^19-2] sont de 40 à 100 francs.
+<sup>1</sup> Les émoluments pour les autorisations visées aux art. 52 OITE-PT[^19-1] et 27 OITE-UE[^19-2] sont de 40 à 100 francs.[^19-3]
 
 <sup>2</sup> Les émoluments pour les autres autorisations et certificats d’exportation sont de 10 à 60 francs.
 
+<sup>3</sup> L’émolument perçu pour l’annulation d’une autorisation visée à l’al. 2 est de 10 francs.[^19-4]
+
 [^19-1]: [RS 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
 [^19-2]: [RS 916.443.11](https://fedlex.data.admin.ch/eli/cc/2015/846)
+[^19-3]: Nouvelle teneur selon le ch. II 2 de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^19-4]: Introduit par le ch. II 2 de l’O du 31 mai 2024, en vigueur depuis le 1<sup>er</sup> juil. 2024 ([RO 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 ### Section 3 Autorisation de systèmes de stabulation et d’aménagements d’étables
 

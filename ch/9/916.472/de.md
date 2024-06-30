@@ -3,11 +3,11 @@ sr: "916.472"
 title: Verordnung vom 30. Oktober 1985 über die Gebühren des Bundesamtes für Lebensmittelsicherheit und Veterinärwesen (Gebührenverordnung BLV)
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727"
 language: de
-version: 2023-01-01
+version: 2024-07-01
 adopted: 1985-10-30
 in_force: 1986-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727/20230101/de/xml/fedlex-data-admin-ch-eli-cc-1985-1727_1727_1727-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/1727_1727_1727/20240701/de/xml/fedlex-data-admin-ch-eli-cc-1985-1727_1727_1727-20240701-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,27 +16,25 @@ url: "https://www.fedlex.admin.ch/eli/cc/1985/1727_1727_1727/20230101/de"
 
 (Gebührenverordnung BLV)[^t-1]
 
-vom 30. Oktober 1985 (Stand am 1. Januar 2023)
+vom 30. Oktober 1985 (Stand am 1. Juli 2024)
 
 [^t-1]: Kurztitel eingefügt gemäss Anhang 2 Ziff. 2 der V vom 1. Sept. 2010 über das elektronische Informationssystem zur Verwaltung der Tierversuche, in Kraft seit 1. Jan. 2011 ([AS 2010 3953](https://fedlex.data.admin.ch/eli/oc/2010/563)).
 
 Der Schweizerische Bundesrat,
 
-gestützt auf Artikel 7 Absatz 2 des Tierschutzgesetzes vom 16. Dezember 2005[^ingress-1], Artikel 45 Absatz 2 des Lebensmittelgesetzes vom 9. Oktober 1992[^ingress-2], Artikel 56 des Tierseuchengesetzes vom 1. Juli 1966[^ingress-3], Artikel 46*a* des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-4], Artikel 65 Absatz 1 des Heilmittelgesetzes vom 15. Dezember 2000[^ingress-5], Artikel 20 Absatz 4 des Bundesgesetzes vom 16. März 2012[^ingress-6] über den Verkehr mit Tieren und Pflanzen geschützter Arten sowie in Ausführung von Anhang 11 des Abkommens vom 21. Juni 1999[^ingress-7] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Handel mit landwirtschaftlichen Erzeugnissen
-
-und des Abkommens vom 17. November 2010[^ingress-8] zwischen der Schweizerischen Eidgenossenschaft und Neuseeland über veterinärhygienische Massnahmen im Handel mit lebenden Tieren und tierischen Erzeugnissen,[^ingress-9]
+gestützt auf Artikel 46*a* des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-1], Artikel 20 Absatz 4 des Bundesgesetzes vom 16. März 2012[^ingress-2] über den Verkehr mit Tieren und Pflanzen geschützter Arten, Artikel 7 Absatz 2 des Tierschutzgesetzes vom 16. Dezember 2005[^ingress-3], Artikel 65 Absatz 1 des Heilmittelgesetzes vom 15. Dezember 2000[^ingress-4], Artikel 58 Absatz 2 des Lebensmittelgesetzes vom 20. Juni 2014[^ingress-5] und die Artikel 45*c* Absatz 4 und 56 des Tierseuchengesetzes vom 1. Juli 1966[^ingress-6] sowie in Ausführung von Anhang 11 des Abkommens vom 21. Juni 1999[^ingress-7] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Handel mit landwirtschaftlichen Erzeugnissen und des Abkommens vom 17. November 2010[^ingress-8] zwischen der Schweizerischen Eidgenossenschaft und Neuseeland über veterinärhygienische Massnahmen im Handel mit lebenden Tieren und tierischen Erzeugnissen,[^ingress-9]
 
 verordnet:
 
-[^ingress-1]: [SR 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
-[^ingress-2]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^ingress-3]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
-[^ingress-4]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^ingress-5]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^ingress-6]: [SR 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
+[^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^ingress-2]: [SR 453](https://fedlex.data.admin.ch/eli/cc/2013/600)
+[^ingress-3]: [SR 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
+[^ingress-4]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^ingress-5]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^ingress-6]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
 [^ingress-7]: [SR 0.916.026.81](https://fedlex.data.admin.ch/eli/cc/2002/323)
 [^ingress-8]: [SR 0.916.443.961.41](https://fedlex.data.admin.ch/eli/cc/2012/274)
-[^ingress-9]: Fassung gemäss Anhang Ziff. II 5 der V vom 18. Nov. 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten, in Kraft seit 1. Jan. 2016 ([AS 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
+[^ingress-9]: Fassung gemäss Ziff. II 2 der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 ## 1. Kapitel: Allgemeine Bestimmungen
 
@@ -194,7 +192,7 @@ Die Gebühren für die Kontrollen von Sendungen durch die Kontrollorgane nach Ar
 
 **Durchfuhrsendungen nach einem Mitgliedstaat der Europäischen Union**[^16-1]
 
-- [tab] Für Durchfuhrsendungen nach der Europäischen Union werden die Ansätze nach Artikel 15 erhoben.
+Für Durchfuhrsendungen nach der Europäischen Union werden die Ansätze nach Artikel 15 erhoben.
 
 [^16-1]: Fassung gemäss Ziff. I der V vom 18. April 2007, in Kraft seit 1. Juli 2007 ([AS 2007 2785](https://fedlex.data.admin.ch/eli/oc/2007/365)).
 
@@ -210,37 +208,44 @@ Für Sendungen aus Drittstaaten, die für Drittstaaten bestimmt sind, beträgt d
 
 **Ein- und Durchfuhrsendungen ohne Voranmeldung**[^17a-1]
 
-Für Sendungen, die ohne die nach Artikel 18 der Verordnung vom 18. November 2015[^17a-2] über die Ein‑, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten erforderliche Voranmeldung eingeführt oder durchgeführt werden, wird für die Umtriebe eine Zusatzgebühr von 150 Franken erhoben.
+Für Sendungen, die ohne die nach Artikel 18 der Verordnung vom 18. November 2015[^17a-2] über die Ein‑, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten (EDAV-DS) erforderliche Voranmeldung eingeführt oder durchgeführt werden, wird für die Umtriebe eine Zusatzgebühr von 150 Franken erhoben.
 
-[^17a-1]: Eingefügt durch Ziff. I der V vom 27. Aug. 2008 ([AS 2008 4193](https://fedlex.data.admin.ch/eli/oc/2008/596)). Fassung gemäss Anhang Ziff. II 5 der V vom 18. Nov. 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten, in Kraft seit 1. Jan. 2016 ([AS 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
+[^17a-1]: Eingefügt durch Ziff. I der V vom 27. Aug. 2008 ([AS 2008 4193](https://fedlex.data.admin.ch/eli/oc/2008/596)). Fassung gemäss Ziff. II 2 der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 [^17a-2]: [SR 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
 
 #### Art. 17b
 
 **Verfügung von Massnahmen bei mangelhaften Sendungen**[^17b-1]
 
-Für die Verfügung der Rückweisung, Verarbeitung oder Einziehung von Ein- oder Durchfuhrsendungen erhebt das BLV eine Gebühr von 120 Franken.
+Für die Verfügung von Massnahmen nach Artikel 68 EDAV-DS[^17b-2], Artikel 30 der Verordnung vom 28. November 2014[^17b-3] über die Ein-, Durch- und Ausfuhr von Heimtieren (EDAV-Ht) sowie den Artikeln 28–28*b* und 34–38 der Verordnung vom 4. September 2013[^17b-4] über den Verkehr mit Tieren und Pflanzen geschützter Arten erhebt das BLV eine Gebühr von 120 Franken.
 
-[^17b-1]: Eingefügt durch Anhang Ziff. II 5 der V vom 18. Nov. 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten, in Kraft seit 1. Jan. 2016 ([AS 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
+[^17b-1]: Eingefügt durch Anhang Ziff. II 5 der V vom 18. Nov. 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten ([AS 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)). Fassung gemäss Ziff. II 2 der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^17b-2]: [SR 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
+[^17b-3]: [SR 916.443.14](https://fedlex.data.admin.ch/eli/cc/2014/755)
+[^17b-4]: [SR 453.0](https://fedlex.data.admin.ch/eli/cc/2013/601)
 
 #### Art. 18
 
 **Bewilligungen**[^18-1]
 
-<sup>1</sup> Die Gebühr für eine Bewilligung nach der Verordnung vom 28. November 2014[^18-2] über die Ein-, Durch- und Ausfuhr von Heimtieren beträgt 40 Franken.
+<sup>1</sup> Die Gebühr für eine Bewilligung nach Artikel 12 EDAV-DS[^18-2] oder nach der EDAV‑Ht[^18-3] beträgt 60 Franken.[^18-4]
 
-<sup>1bis</sup> Die Gebühr für eine Bewilligung nach Artikel 12 der Verordnung vom 18. November 2015[^18-3] über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten beträgt 40 Franken, wenn die Sendung gemäss dieser Bewilligung nicht durch den grenztierärztlichen Dienst kontrolliert werden muss.[^18-4]
+<sup>1bis</sup> …[^18-5]
 
-<sup>1ter</sup> Die Gebühr für eine Bewilligung nach Artikel 7 der Verordnung vom 18. November 2015[^18-5] über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit den EU-Mitgliedstaaten, Island und Norwegen beträgt 40–100 Franken.[^18-6]
+<sup>1ter</sup> Die Gebühr für eine Bewilligung nach Artikel 7 der Verordnung vom 18. November 2015[^18-6] über die Ein‑, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit den EU-Mitgliedstaaten, Island und Norwegen sowie Nordirland (EDAV-EU) beträgt 40–100 Franken.[^18-7]
 
 <sup>2</sup> Die Gebühren für andere Bewilligungen sind in den Ansätzen nach den Artikeln 15–17 inbegriffen.
 
+<sup>3</sup> Die Gebühr für die Annulation einer Bewilligung nach den Absätzen 1, 1<sup>ter</sup> und 2 beträgt 20 Franken.[^18-8]
+
 [^18-1]: Fassung gemäss Anhang 6 Ziff. II 4 der V vom 28. Nov. 2014 über die Ein-, Durch- und Ausfuhr von Heimtieren, in Kraft seit 29. Dez. 2014 ([AS 2014 4521](https://fedlex.data.admin.ch/eli/oc/2014/755)).
-[^18-2]: [SR 916.443.14](https://fedlex.data.admin.ch/eli/cc/2014/755)
-[^18-3]: [SR 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
-[^18-4]: Eingefügt durch Anhang Ziff. II 5 der V vom 18. Nov. 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten, in Kraft seit 1. Jan. 2016 ([AS 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
-[^18-5]: [SR 916.443.11](https://fedlex.data.admin.ch/eli/cc/2015/846)
-[^18-6]: Eingefügt durch Anhang Ziff. II 5 der V vom 18. Nov. 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten, in Kraft seit 1. Jan. 2016 ([AS 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
+[^18-2]: [SR 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
+[^18-3]: [SR 916.443.14](https://fedlex.data.admin.ch/eli/cc/2014/755)
+[^18-4]: Fassung gemäss Ziff. II 2 der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^18-5]: Eingefügt durch Anhang Ziff. II 5 der V vom 18. Nov. 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten ([AS 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)). Aufgehoben durch Ziff. II 2 der V vom 31. Mai 2024, mit Wirkung seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^18-6]: [SR 916.443.11](https://fedlex.data.admin.ch/eli/cc/2015/846)
+[^18-7]: Eingefügt durch Anhang Ziff. II 5 der V vom 18. Nov. 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten ([AS 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)). Fassung gemäss Ziff. II 2 der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^18-8]: Eingefügt durch Ziff. II 2 der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 ### 2. Abschnitt: Ausfuhrbewilligungen und -bescheinigungen
 
@@ -250,12 +255,16 @@ Für die Verfügung der Rückweisung, Verarbeitung oder Einziehung von Ein- oder
 
 #### Art. 19
 
-<sup>1</sup> Die Gebühren für die Bewilligungen nach Artikel 52 der Verordnung vom 18. November 2015[^19-1] über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten und nach Artikel 27 der Verordnung vom 18. November 2015[^19-2] über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit den EU-Mitgliedstaaten, Island und Norwegen betragen 40–100 Franken.
+<sup>1</sup> Die Gebühren für die Bewilligungen nach Artikel 52 EDAV-DS[^19-1] und nach Artikel 27 EDAV-EU[^19-2] betragen 40–100 Franken.[^19-3]
 
 <sup>2</sup> Die Gebühren für andere Ausfuhrbewilligungen und -bescheinigungen betragen 10–60 Franken.
 
+<sup>3</sup> Die Gebühr für die Annulation einer Bewilligung nach Absatz 2 beträgt 10 Franken.[^19-4]
+
 [^19-1]: [SR 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
 [^19-2]: [SR 916.443.11](https://fedlex.data.admin.ch/eli/cc/2015/846)
+[^19-3]: Fassung gemäss Ziff. II 2 der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
+[^19-4]: Eingefügt durch Ziff. II 2 der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 267](https://fedlex.data.admin.ch/eli/oc/2024/267)).
 
 ### 3. Abschnitt: Bewilligung von Aufstallungssystemen und Stalleinrichtungen
 
@@ -387,7 +396,6 @@ Für die Anerkennung eines diagnostischen Labors sowie für den Widerruf der Ane
 <tr><td>a. Abwicklung von Bewilligungen für Tierversuche oder Versuchstierhaltungen, einschliesslich Berichte</td><td>200.– bis 300.–</td></tr>
 <tr><td>b. Abwicklung von Bewilligungen für die Ergänzung eines Tierversuchs oder einer Versuchstierhaltung</td><td>60.– bis 80.–</td></tr>
 <tr><td>c. Abwicklung von Entscheiden zu belasteten Linien und Stämmen (Art. 127 TSchV)</td><td>200.– bis 300.–</td></tr>
-<tr><td>[tab]</td><td></td></tr>
 <tr><td>d. Abwicklung von Ergänzungen zu Entscheiden zu belasteten Linien und Stämmen (Art. 127 TSchV)</td><td>60.– bis 80.–</td></tr>
 <tr><td>e. jährlich für die Akkreditierung einer Person einschliesslich des fortlaufenden Managements der Aus-, Weiter- und Fortbildung</td><td>60.– bis 80.–</td></tr>
 </table>
