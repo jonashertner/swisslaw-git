@@ -4,13 +4,13 @@ number: "615.11"
 title: Gebührentarif
 short: GT
 language: de
-version: 2024-04-01
-valid_until: 2024-06-30
+version: 2024-07-01
+valid_until: 2024-12-31
 version_adopted: 2023-11-07
 adopted: 2016-03-08
 in_force: 2016-07-15
 url: "https://bgs.so.ch/app/de/texts_of_law/615.11"
-pdf: "https://bgs.so.ch/api/de/versions/5431/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5434/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5431/pdf_file"
 
 (GT)
 
-Vom 08.03.2016 (Stand 01.04.2024)
+Vom 08.03.2016 (Stand 01.07.2024)
 
 Der Kantonsrat von Solothurn
 
@@ -176,7 +176,7 @@ beschliesst:
 
 <sup>1</sup> Ist der Gebührenpflichtige durch besondere Verhältnisse wie Naturereignisse, Todesfall, Unglück, Krankheit, Arbeitslosigkeit, geschäftliche Rückschläge und dergleichen in seiner Zahlungsfähigkeit stark beeinträchtigt oder befindet er sich sonst in einer Lage, in der die Bezahlung einer Gebühr, eines Zinses oder des Auslagenersatzes zur grossen Härte würde, kann die Behörde oder Amtsstelle, welche die Forderung festgesetzt hat, die geschuldeten Beträge ganz oder teilweise erlassen, wenn der Rechnungsbetrag 1'500 Franken nicht übersteigt.
 
-<sup>2</sup> Der Erlass von Gebühren, Zinsen und Auslagenersatz nach Absatz 1 bedarf der Zustimmung durch die Finanzkontrolle.
+<sup>2</sup> …
 
 <sup>3</sup> Für den Erlass von Gerichtskosten ist der Vorsitzende desjenigen Gerichts zuständig, das sie festgesetzt hat, für den Erlass von Verfahrenskosten der Strafverfolgungsbehörden diejenige Behörde, die sie festgesetzt hat.
 
@@ -1744,6 +1744,30 @@ beschliesst:
 
 <sup>1</sup> Die Gebühren für Meldebestätigungen für entsandte Arbeitnehmer betragen 25 Franken.
 
+#### § 136 bis
+
+**Eichamt**
+
+<sup>1</sup> Die zusätzlich zu den eidgenössischen Eichgebühren erhobenen Auslagenentschädigungen im Messwesen betragen:
+
+- a) Wartezeit, soweit diese von der gebührenpflichtigen Person zu verantworten ist, nach dem Stundenansatz gemäss Eichgebührenverordnung (EichGebV) vom 23. November 2005[^136bis-1]
+- b) Transport der nötigen Mess- und Hilfsmittel
+  - 1) für Waagen — 15-200
+  - 2) für Tanksäulen — 20-100
+  - 3) für Abgasprüfgeräte — 20-150
+  - 4) weitere Mess- und Hilfsmittel — 20-100
+- c) Mess- und Hilfsmittel, die gemietet werden müssen:
+  - 1) Eichlastenzug pro Stunde — 450-600
+  - 2) Gasjustierung von Abgasprüfgeräten nach dem Stundenansatz gemäss Eichgebührenverordnung (EichGebV) vom 23. November 2005[^136bis-2]
+  - 3) weitere Mess- und Hilfsmittel nach dem Stundenansatz gemäss Eichgebührenverordnung (EichGebV) vom 23. November 2005[^136bis-3]
+- d) Justier- und Einstellungsarbeiten nach dem Stundenansatz gemäss Eichgebührenverordnung (EichGebV) vom 23. November 2005[^136bis-4]
+- e) Einsatz von beigezogenen Dritten pro Stunde — 93
+
+[^136bis-1]: SR [941.298.1](https://db.clex.ch/link/Bund/941.298.1/de).
+[^136bis-2]: SR [941.298.1](https://db.clex.ch/link/Bund/941.298.1/de).
+[^136bis-3]: SR [941.298.1](https://db.clex.ch/link/Bund/941.298.1/de).
+[^136bis-4]: SR [941.298.1](https://db.clex.ch/link/Bund/941.298.1/de).
+
 #### § 137
 
 **Ausnahmebewilligung**
@@ -1754,9 +1778,15 @@ beschliesst:
 
 #### § 138
 
-**Lotterie**
+**Kleinspiele**
 
-<sup>1</sup> Die Gebühren für die Bewilligung von Lotterien zu gemeinnützigen und wohltätigen Zwecken betragen 1 Prozent der Lossumme, mindestens aber 30 Franken und maximal 3'000 Franken.
+<sup>1</sup> Die Gebühren für die Bewilligung von Kleinspielen betragen:
+
+- a) Für Kleinlotterien wie Lottos und Tombolas — 30-600
+- b) Für lokale Sportwetten — 30-600
+- c) Für kleine Pokerturniere pro Veranstaltungsort — 30-600
+
+<sup>2</sup> Für die aufsichtsrechtliche Tätigkeit im Bereich der Kleinspiele können ebenfalls Gebühren nach den Ansätzen gemäss Absatz 1 erhoben werden.
 
 #### § 139
 
