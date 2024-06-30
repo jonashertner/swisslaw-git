@@ -4,13 +4,12 @@ number: "150.700"
 title: "Gesetz über die Information der Öffentlichkeit, den Datenschutz und das Archivwesen"
 short: IDAG
 language: de
-version: 2018-08-01
-valid_until: 2024-06-30
-version_adopted: 2018-01-09
+version: 2024-07-01
+version_adopted: 2023-09-19
 adopted: 2006-10-24
 in_force: 2008-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/150.700"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2607/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3566/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2607/pdf_file"
 
 (IDAG)
 
-Vom 24.10.2006 (Stand 01.08.2018)
+Vom 24.10.2006 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -472,7 +471,7 @@ beschliesst:
 
 <sup>3<sup>bis</sup></sup> Wird die Privatsphäre betroffener Personen offensichtlich gefährdet oder verletzt, kann die beauftragte Person vorsorglich verfügen, dass die Datenbearbeitung eingeschränkt oder eingestellt wird. Die Beschwerde gegen die vorsorgliche Verfügung hat keine aufschiebende Wirkung.
 
-<sup>4</sup> Lehnt das öffentliche Organ die Befolgung der Empfehlung ab oder entspricht es dieser nicht, kann die beauftragte Person für Öffentlichkeit und Datenschutz die Empfehlung ganz oder teilweise als Verfügung erlassen.
+<sup>4</sup> Lehnt das öffentliche Organ die Befolgung der Empfehlung ab oder entspricht es dieser nicht, kann die beauftragte Person für Öffentlichkeit und Datenschutz die Empfehlung ganz oder teilweise als unentgeltliche Verfügung erlassen.
 
 <sup>5</sup> Das öffentliche Organ, an welches die Verfügung gerichtet ist, kann sie mit Verwaltungsbeschwerde anfechten. Die beauftragte Person für Öffentlichkeit und Datenschutz ist berechtigt, gegen einen allfälligen Entscheid der Beschwerdebehörde Beschwerde beim Verwaltungsgericht zu führen. Der weitere Rechtsweg richtet sich nach dem einschlägigen Bundesrecht.
 
@@ -536,21 +535,18 @@ beschliesst:
 
 **Kosten und Gebühren**
 
-<sup>1</sup> Für Auskunft, Akteneinsicht und Datensperrung werden grundsätzlich keine Gebühren erhoben.
+<sup>1</sup> Die erstinstanzliche Behandlung von Gesuchen gemäss den §§ 5, 16, 23 und 28 erfolgt grundsätzlich unentgeltlich.
 
 <sup>2</sup> Eine angemessene Gebühr kann erhoben werden bei
 
 - a) aufwendigen Verfahren, wie bei komplizierten Verhältnissen oder bei umfangreichen Anonymisierungen von Dokumenten,
 - b) der Erstellung von Kopien für Gesuchstellende.
 
-<sup>3</sup> Die Höhe der Gebühr richtet sich nach dem Dekret über die durch den Staat zu beziehenden Gebühren vom 23. November 1977[^40-1]; der Regierungsrat regelt die Einzelheiten durch Verordnung. Die Gemeinden regeln Gebührenpflicht und -höhe selbst.
+<sup>3</sup> …
 
 <sup>4</sup> …
 
-<sup>5</sup> Im Übrigen gelten die Kostenbestimmungen des Gesetzes über die Verwaltungsrechtspflege (Verwaltungsrechtspflegegesetz, VRPG) vom 9. Juli 1968[^40-2].
-
-[^40-1]: SAR [661.110](https://gesetzessammlungen.ag.ch/data/661.110/de)
-[^40-2]: Heute: Gesetz über die Verwaltungsrechtspflege (Verwaltungsrechtspflegegesetz, VRPG) vom 4. Dezember 2007, SAR [271.200](https://gesetzessammlungen.ag.ch/data/271.200/de)
+<sup>5</sup> …
 
 ### 4.3. Strafbestimmungen
 
