@@ -4,11 +4,11 @@ title: "Verordnung vom 28. November 2014 über die Ein-, Durch- und Ausfuhr von 
 short: EDAV-Ht
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/755"
 language: de
-version: 2022-01-01
+version: 2024-07-01
 adopted: 2014-11-28
 in_force: 2014-12-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/755/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2014-755-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/755/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/755/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2014-755-20240701-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/755/20240701/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/755/20220101/de"
 
 (EDAV-Ht)
 
-vom 28. November 2014 (Stand am 1. Januar 2022)
+vom 28. November 2014 (Stand am 1. Juli 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -47,20 +47,21 @@ Diese Verordnung gilt für die Ein-, Durch- und Ausfuhr von Heimtieren, die:
 Soweit diese Verordnung keine besondere Regelung enthält, sind anwendbar:
 
 - a. die Verordnung vom 18. November 2015[^1-1] über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten;
-- b. die Verordnung vom 18. November 2015[^1-2] über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit den EU-Mitgliedstaaten, Island und Norwegen.[^1-3]
+- b.[^1-2] die Verordnung vom 18. November 2015[^1-3] über die Ein‑, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit den EU-Mitgliedstaaten, Island und Norwegen sowie Nordirland.[^1-4]
 
 <sup>3</sup>
 
 Die folgenden Verordnungen bleiben vorbehalten:
 
-- a. Tierschutzverordnung vom 23. April 2008[^1-4];
-- b. Verordnung vom 4. September 2013[^1-5] über den Verkehr mit Tieren und Pflanzen geschützter Arten.
+- a. Tierschutzverordnung vom 23. April 2008[^1-5];
+- b. Verordnung vom 4. September 2013[^1-6] über den Verkehr mit Tieren und Pflanzen geschützter Arten.
 
 [^1-1]: [SR 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
-[^1-2]: [SR 916.443.11](https://fedlex.data.admin.ch/eli/cc/2015/846)
-[^1-3]: Fassung gemäss Anhang Ziff. II 4 der V vom 18. Nov. 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten, in Kraft seit 1. Jan. 2016 ([AS 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
-[^1-4]: [SR 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
-[^1-5]: [SR 453.0](https://fedlex.data.admin.ch/eli/cc/2013/601)
+[^1-2]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
+[^1-3]: [SR 916.443.11](https://fedlex.data.admin.ch/eli/cc/2015/846)
+[^1-4]: Fassung gemäss Anhang Ziff. II 4 der V vom 18. Nov. 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten, in Kraft seit 1. Jan. 2016 ([AS 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
+[^1-5]: [SR 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^1-6]: [SR 453.0](https://fedlex.data.admin.ch/eli/cc/2013/601)
 
 #### Art. 2
 
@@ -72,8 +73,11 @@ In dieser Verordnung bedeuten:
 - b. *Halterin, Halter:* natürliche Person mit der tatsächlichen, nicht nur vorübergehenden Verfügungsgewalt über das Tier, die im Heimtierpass oder in der Veterinärbescheinigung als Besitzerin oder Besitzer eingetragen ist;
 - c. *berechtigte Tierärztin, berechtigter Tierarzt:* Tierärztin oder Tierarzt, die oder der gemäss dem jeweiligen nationalen Recht die Tätigkeiten durchführen darf, die in dieser Verordnung vorgesehen sind;
 - d. *Einfuhr:* dauerhafte oder vorübergehende Verbringung von Heimtieren in das Einfuhrgebiet;
-- e. *Einfuhrgebiet:* das schweizerische Staatsgebiet einschliesslich der Zollausschlussgebiete (Samnaun und Sampuoir) und die Zollanschlussgebiete (Fürstentum Liechtenstein, Büsingen und Campione);
-- f. *Drittstaaten:* alle Staaten, ausgenommen die Mitgliedstaaten der Europäischen Union (EU), Island, Norwegen, die Schweiz und Liechtenstein.
+- e.[^2-1] *Einfuhrgebiet:* das schweizerische Staatsgebiet einschliesslich der Zollausschlussgebiete (Samnaun und Sampuoir) sowie die Zollanschlussgebiete (Fürstentum Liechtenstein und Büsingen);
+- f.[^2-2] *Drittstaaten*: alle Staaten ausser den EU-Mitgliedstaaten, Island und Norwegen sowie ohne das Gebiet von Nordirland.
+
+[^2-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
+[^2-2]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
 
 ## 2. Kapitel: Bestimmungen für die Einfuhr
 
@@ -81,13 +85,54 @@ In dieser Verordnung bedeuten:
 
 #### Art. 3
 
-**Höchstzahlen für die Einfuhr von Heimtieren aus Drittstaaten**
+[^3-1]
 
-<sup>1</sup> Bei der Einfuhr von Heimtieren aus Drittstaaten dürfen höchstens fünf Heimtiere nach den Bestimmungen dieser Verordnung mitgeführt werden. Werden mehr Tiere mitgeführt, so gilt für alle Tiere die Verordnung vom 18. November 2015[^3-1] über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten.[^3-2]
+[^3-1]: Aufgehoben durch Ziff. I der V vom 31. Mai 2024, mit Wirkung seit 1. Juli 2024 ([AS 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
+
+#### Art. 4
+
+**Einfuhr von Heimtieren aus Drittstaaten über die Landesflughäfen**[^4-1]
+
+Die Einfuhr von Heimtieren aus Drittstaaten im Luftverkehr ohne vollständige grenztierärztliche Untersuchung in einem EU-Mitgliedstaat, Island oder Norwegen oder in Nordirland (direkter Luftverkehr) muss über einen der drei Flughäfen Zürich, Genf oder Basel (Landesflughäfen) erfolgen.
+
+[^4-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
+
+#### Art. 5
+
+**Vorbehalt der Massnahmen zur Verhinderung einer Seuchenverschleppung**[^5-1]
+
+Die vom Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) nach Artikel 24 Absatz 3 Buchstabe a TSG zur Verhinderung einer Seuchenverschleppung erlassenen Massnahmen bleiben vorbehalten.
+
+[^5-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
+
+### 2. Abschnitt: Hunde, Katzen und Frettchen
+
+#### Art. 6
+
+**Einteilung der Staaten und Gebiete[^6-1]**
+
+<sup>1</sup>
+
+Für die Regelung der Einfuhr von Hunden, Katzen und Frettchen werden die Staaten und Gebiete eingeteilt in:
+
+- a.[^6-2] EU-Mitgliedstaaten und weitere europäische Staaten und Gebiete, die einen von der EU anerkannten Heimtierpass verwenden;
+- b. andere Staaten und Gebiete mit günstiger Seuchenlage bezüglich Tollwut; und
+- c. Staaten und Gebiete, in denen urbane Tollwut nicht ausgeschlossen werden kann.
+
+<sup>2</sup> Die Staaten und Gebiete nach Absatz 1 sind in Anhang 3 aufgeführt.
+
+[^6-1]: Ausdruck gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^6-2]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
+
+#### Art. 6a
+
+**Höchstzahl für die Einfuhr aus Drittstaaten**[^6a-1]
+
+<sup>1</sup> Bei der Einfuhr von Hunden, Katzen und Frettchen aus Drittstaaten dürfen insgesamt höchstens fünf Tiere nach den Bestimmungen dieser Verordnung mitgeführt werden. Werden mehr Tiere mitgeführt, so gilt für alle Tiere die Verordnung vom 18. November 2015[^6a-2] über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten.
 
 <sup>2</sup>
 
-Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) bewilligt die Einfuhr von mehr als fünf Heimtieren auf Gesuch hin, wenn:
+Das BLV bewilligt die Einfuhr von mehr als fünf Hunden, Katzen oder Frettchen auf Gesuch hin, wenn:
 
 - a. die Einfuhr vorübergehend ist;
 - b. die Halterin, der Halter oder eine ermächtigte Person die Tiere für die Teilnahme an Wettbewerben, Ausstellungen oder Sportveranstaltungen oder zum Training für solche Anlässe mit sich führt; und
@@ -96,55 +141,25 @@ Das Bundesamt für Lebensmittelsicherheit und Veterinärwesen (BLV) bewilligt di
   die Halterin, der Halter oder die ermächtigte Person nachweist, dass die Tiere:
 
   - 1\. für diese Zwecke angemeldet oder bei einer Vereinigung, die solche Anlässe durchführt, registriert sind, und
-  - 2\. mindestens sechs Monate alt sind; vorbehalten bleibt das Erfordernis eines höheren Alters für bestimmte Heimtiere aus tierseuchenpolizeilichen Gründen.
+  - 2\. mindestens sechs Monate alt sind; vorbehalten bleibt das Erfordernis eines höheren Alters aus tierseuchenpolizeilichen Gründen.
 
-<sup>3</sup> Das BLV kann mit der Bewilligung die Anzahl der einzuführenden Heimtiere beschränken und die Höchstdauer des Aufenthalts festlegen.
+<sup>3</sup> Das BLV kann in der Bewilligung die Anzahl der einzuführenden Hunde, Katzen und Frettchen beschränken und die Höchstdauer des Aufenthalts festlegen.
 
 <sup>4</sup> Die Bewilligung ist bei der Einreise mitzuführen und den Kontrollorganen unaufgefordert vorzuweisen.
 
-[^3-1]: [SR 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
-[^3-2]: Fassung gemäss Anhang Ziff. II 4 der V vom 18. Nov. 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten, in Kraft seit 1. Jan. 2016 ([AS 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
-
-#### Art. 4
-
-**Einfuhr von Heimtieren aus Drittstaaten über die Landesflughäfen**
-
-Die Einfuhr von Heimtieren aus Drittstaaten im Luftverkehr ohne vollständige grenztierärztliche Untersuchung in einem EU-Mitgliedstaat, Island oder Norwegen (direkter Luftverkehr) muss über einen der drei Flughäfen Zürich, Genf oder Basel (Landesflughäfen) erfolgen.
-
-#### Art. 5
-
-**Vorbehalt der Massnahmen zur Verhinderung einer Seuchenverschleppung**[^5-1]
-
-Die vom BLV nach Artikel 24 Absatz 3 Buchstabe a TSG zur Verhinderung einer Seuchenverschleppung erlassenen Massnahmen bleiben vorbehalten.
-
-[^5-1]: Fassung gemäss Ziff. II 1 der V vom 10. Jan. 2018, in Kraft seit 1. März 2018 ([AS 2018 721](https://fedlex.data.admin.ch/eli/oc/2018/90)).
-
-### 2. Abschnitt: Hunde, Katzen und Frettchen
-
-#### Art. 6
-
-**Einteilung der Staaten und Territorien**
-
-<sup>1</sup>
-
-Für die Regelung der Einfuhr von Hunden, Katzen und Frettchen werden die Staaten und Territorien eingeteilt in:
-
-- a. EU-Mitgliedstaaten und weitere europäische Staaten, die einen von der EU anerkannten Heimtierpass verwenden;
-- b. andere Staaten und Territorien mit günstiger Seuchenlage bezüglich Tollwut; und
-- c. Staaten und Territorien, in denen urbane Tollwut nicht ausgeschlossen werden kann.
-
-<sup>2</sup> Die Staaten und Territorien nach Absatz 1 sind in Anhang 3 aufgeführt.
+[^6a-1]: Eingefügt durch Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
+[^6a-2]: [SR 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
 
 #### Art. 7
 
-**Höchstzahl**
+**Höchstzahl für die Einfuhr aus EU-Mitgliedstaaten, Island und Norwegen sowie aus Nordirland**[^7-1]
 
-<sup>1</sup> Für die Einfuhr von Hunden, Katzen und Frettchen aus EU-Mitgliedstaaten, Island und Norwegen gelten die in Artikel 3 Absätze 1 und 2 festgelegte Höchstzahl und die entsprechenden Anforderungen für Ausnahmen sinngemäss. Werden mehr Tiere mitgeführt, so gilt für alle Tiere die Verordnung vom 18. November 2015[^7-1] über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit den EU‑Mitgliedstaaten, Island und Norwegen.[^7-2]
+<sup>1</sup> Für die Einfuhr von Hunden, Katzen und Frettchen aus EU-Mitgliedstaaten, Island und Norwegen sowie aus Nordirland gelten die nach Artikel 6*a* Absätze 1 und 2 festgelegte Höchstzahl und die entsprechenden Anforderungen für Ausnahmen sinngemäss. Werden mehr Tiere mitgeführt, so gilt für alle Tiere die Verordnung vom 18. November 2015[^7-2] über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit den EU‑Mitgliedstaaten, Island und Norwegen sowie Nordirland.
 
 <sup>2</sup> Es ist keine Bewilligung erforderlich.
 
-[^7-1]: [SR 916.443.11](https://fedlex.data.admin.ch/eli/cc/2015/846)
-[^7-2]: Fassung gemäss Anhang Ziff. II 4 der V vom 18. Nov. 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten, in Kraft seit 1. Jan. 2016 ([AS 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
+[^7-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
+[^7-2]: [SR 916.443.11](https://fedlex.data.admin.ch/eli/cc/2015/846)
 
 #### Art. 8
 
@@ -185,9 +200,10 @@ Sie muss ausgefüllt und unterzeichnet sein von:
 
 <sup>4</sup> Bei der Einfuhr im direkten Luftverkehr gilt sie bis zur Kontrolle an einem Landesflughafen, längstens jedoch für die Dauer von zehn Tagen ab dem Ausstellungsdatum.
 
-<sup>5</sup> Bei der Einfuhr aus einem Drittstaat via EU-Mitgliedstaaten, Island oder Norwegen kann anstelle eines Heimtierpasses die mit dem Kontrollvermerk eines dieser Staaten versehene Veterinärbescheinigung genutzt werden. Diese gilt für die Dauer von vier Monaten ab dem Ausstellungsdatum oder bis zum Ablaufdatum der gültigen Tollwutimpfung, je nachdem, welcher Tag früher eintritt.
+<sup>5</sup> Bei der Einfuhr aus einem Drittstaat via EU-Mitgliedstaaten, Island oder Norwegen oder via Nordirland kann anstelle eines Heimtierpasses die mit dem Kontrollvermerk eines dieser Staaten oder Gebiete versehene Veterinärbescheinigung genutzt werden. Diese gilt für die Dauer von vier Monaten ab dem Ausstellungsdatum oder bis zum Ablaufdatum der gültigen Tollwutimpfung, je nachdem, welcher Tag früher eintritt.[^10-2]
 
 [^10-1]: Fassung gemäss Anhang Ziff. II 4 der V vom 18. Nov. 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten, in Kraft seit 1. Jan. 2016 ([AS 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
+[^10-2]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
 
 #### Art. 11
 
@@ -210,9 +226,9 @@ Die Tollwutimpfung ist gültig ab:
 
 #### Art. 12
 
-**Tiere aus der EU und aus weiteren europäischen Staaten mit einem von der EU anerkannten Heimtierpass**
+**Tiere aus der EU und aus weiteren europäischen Staaten oder Gebieten mit einem von der EU anerkannten Heimtierpass[^12-1]**
 
-<sup>1</sup> Hunde, Katzen und Frettchen aus Staaten nach Artikel 6 Absatz 1 Buchstabe a müssen von einem Heimtierpass begleitet sein.
+<sup>1</sup> Hunde, Katzen und Frettchen aus Staaten und Gebieten nach Artikel 6 Absatz 1 Buchstabe a müssen von einem Heimtierpass begleitet sein.[^12-2]
 
 <sup>2</sup> Die Tiere müssen gültig gegen Tollwut geimpft sein. Die Impfung muss im Heimtierpass eingetragen sein.
 
@@ -223,17 +239,21 @@ Tiere unter 12 Wochen ohne Tollwutimpfung und Tiere zwischen 12 und 16 Wochen mi
 - a. eine Erklärung der Halterin oder des Halters nach den Anforderungen nach Anhang 4 Ziffer 5 mitgeführt wird, wonach die Tiere seit der Geburt keinen Kontakt mit wild lebenden Tieren von Arten hatten, die für Tollwut empfänglich sind; oder
 - b. die Tiere ihre Mutter begleiten, von der sie noch abhängig sind und die gemäss Heimtierpass vor der Geburt der Tiere eine Tollwutimpfung erhalten hat.
 
-<sup>4</sup> Das BLV kann in begründeten Fällen auf Gesuch hin Ausnahmen von der Tollwutimpfpflicht bewilligen, beispielsweise für Tiere als Umzugsgut, die nachgewiesenermassen aus medizinischen Gründen nicht geimpft werden dürfen.
+<sup>4</sup> Das BLV kann in begründeten Fällen auf Gesuch hin Ausnahmen von der Tollwutimpfpflicht bewilligen, beispielsweise für Tiere als Übersiedlungsgut, die nachgewiesenermassen aus medizinischen Gründen nicht geimpft werden dürfen.[^12-3]
+
+[^12-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
+[^12-2]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
+[^12-3]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
 
 #### Art. 13
 
-**Tiere aus Staaten und Territorien mit günstiger Seuchenlage bezüglich Tollwut**
+**Tiere aus Staaten und Gebieten mit günstiger Seuchenlage bezüglich Tollwut**
 
-<sup>1</sup> Hunde, Katzen und Frettchen aus Staaten und Territorien nach Artikel 6 Absatz 1 Buchstabe b müssen von einer Veterinärbescheinigung begleitet sein.
+<sup>1</sup> Hunde, Katzen und Frettchen aus Staaten und Gebieten nach Artikel 6 Absatz 1 Buchstabe b müssen von einer Veterinärbescheinigung begleitet sein.
 
-<sup>2</sup> Tiere aus dem Einfuhrgebiet oder einem Staat nach Artikel 6 Absatz 1 Buchstabe a, für die ein Heimtierpass mitgeführt wird und die gültig gegen Tollwut geimpft wurden, können nach vorübergehendem Aufenthalt ohne Veterinärbescheinigung aus einem Staat oder Territorium nach Artikel 6 Absatz 1 Buchstabe b eingeführt oder wiedereingeführt werden.
+<sup>2</sup> Tiere aus dem Einfuhrgebiet oder aus einem Staat oder Gebiet nach Artikel 6 Absatz 1 Buchstabe a, für die ein Heimtierpass mitgeführt wird und die gültig gegen Tollwut geimpft wurden, können nach vorübergehendem Aufenthalt ohne Veterinärbescheinigung aus einem Staat oder Gebiet nach Artikel 6 Absatz 1 Buchstabe b eingeführt oder wiedereingeführt werden.[^13-1]
 
-<sup>3</sup> Hunde, Katzen und Frettchen aus Staaten und Territorien nach Artikel 6 Absatz 1 Buchstabe b müssen gültig gegen Tollwut geimpft sein. Die Impfung muss in der Veterinärbescheinigung eingetragen sein.
+<sup>3</sup> Hunde, Katzen und Frettchen aus Staaten und Gebieten nach Artikel 6 Absatz 1 Buchstabe b müssen gültig gegen Tollwut geimpft sein. Die Impfung muss in der Veterinärbescheinigung eingetragen sein.
 
 <sup>4</sup>
 
@@ -242,11 +262,13 @@ Tiere unter 12 Wochen ohne Tollwutimpfung und Tiere zwischen 12 und 16 Wochen mi
 - a. eine Erklärung der Halterin oder des Halters nach den Anforderungen nach Anhang 4 Ziffer 5 mitgeführt wird, wonach die Tiere seit der Geburt keinen Kontakt mit wild lebenden Tieren von Arten hatten, die für Tollwut empfänglich sind; oder
 - b. die Tiere ihre Mutter begleiten, von der sie noch abhängig sind und die gemäss Veterinärbescheinigung vor der Geburt der Tiere eine Tollwutimpfung erhalten hat.
 
+[^13-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
+
 #### Art. 14
 
-**Tiere aus Staaten und Territorien, in denen urbane Tollwut nicht ausgeschlossen werden kann**
+**Tiere aus Staaten und Gebieten, in denen urbane Tollwut nicht ausgeschlossen werden kann**
 
-<sup>1</sup> Hunde, Katzen und Frettchen aus Staaten und Territorien nach Artikel 6 Absatz 1 Buchstabe c müssen von einer Veterinärbescheinigung begleitet sein.
+<sup>1</sup> Hunde, Katzen und Frettchen aus Staaten und Gebieten nach Artikel 6 Absatz 1 Buchstabe c müssen von einer Veterinärbescheinigung begleitet sein.
 
 <sup>2</sup>
 
@@ -257,31 +279,36 @@ In der Veterinärbescheinigung muss bestätigt werden, dass:
 
 <sup>3</sup>
 
-Werden Tiere aus einem Staat oder Territorium nach Artikel 6 Absatz 1 Buchstabe c eingeführt, die aus dem Einfuhrgebiet oder aus einem Staat nach Artikel 6 Absatz 1 Buchstabe a stammen, so ist keine Veterinärbescheinigung erforderlich für Tiere, bei denen:
+Werden Tiere aus einem Staat oder Gebiet nach Artikel 6 Absatz 1 Buchstabe c eingeführt, die aus dem Einfuhrgebiet oder aus einem Staat oder Gebiet nach Artikel 6 Absatz 1 Buchstabe a stammen, so ist keine Veterinärbescheinigung erforderlich für Tiere, bei denen:[^14-2]
 
-- a. die Tollwutimpfung und die Titrierung im Einfuhrgebiet oder in einem Staat nach Artikel 6 Absatz 1 Buchstabe a erfolgt sind; und
+- a.[^14-3] die Tollwutimpfung und die Titrierung im Einfuhrgebiet oder in einem Staat oder Gebiet nach Artikel 6 Absatz 1 Buchstabe a erfolgt sind; und
 - b. Impfung und Titrierung gültig sind und entweder im Heimtierpass eingetragen oder speziell ausgewiesen sind.
 
-<sup>4</sup> Für Hunde, Katzen und Frettchen aus Staaten und Territorien nach Artikel 6 Absatz 1 Buchstabe c, die im direkten Luftverkehr eingeführt werden, ist eine Bewilligung des BLV erforderlich. Gesuche müssen spätestens 21 Tage vor der Ankunft der Tiere beim BLV eingereicht werden und die zur Überprüfung der Einhaltung der Einfuhrbestimmungen notwendigen Dokumente enthalten.
+<sup>4</sup> Für Hunde, Katzen und Frettchen aus Staaten und Gebieten nach Artikel 6 Absatz 1 Buchstabe c, die im direkten Luftverkehr eingeführt werden, ist eine Bewilligung des BLV erforderlich. Gesuche müssen spätestens 21 Tage vor der Ankunft der Tiere beim BLV eingereicht werden und die zur Überprüfung der Einhaltung der Einfuhrbestimmungen notwendigen Dokumente enthalten.
 
-[^14-1]: www.blv.admin.ch &gt; Tiere &gt; Reisen mit Heimtieren &gt; Hunde, Katzen und Frettchen
+[^14-1]: [www.blv.admin.ch](https://www.blv.admin.ch) &gt; Tiere &gt; Reisen mit Heimtieren &gt; Hunde, Katzen und Frettchen
+[^14-2]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
+[^14-3]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
 
 #### Art. 15
 
-**Titrierung für Tiere aus Staaten und Territorien, in denen urbane Tollwut nicht ausgeschlossen werden kann**
+**Titrierung für Tiere aus Staaten und Gebieten, in denen urbane Tollwut nicht ausgeschlossen werden kann**
 
-<sup>1</sup> Die Titrierung für Hunde, Katzen und Frettchen aus Staaten und Territorien nach Artikel 6 Absatz 1 Buchstabe c muss auf der Grundlage neutralisierender Antikörper von mindestens 0,5 IE/ml bei einer Probe durchgeführt werden, die eine berechtigte Tierärztin oder ein berechtigter Tierarzt mindestens 30 Tage nach der Impfung und drei Monate vor der Einfuhr entnommen hat.
+<sup>1</sup> Die Titrierung für Hunde, Katzen und Frettchen aus Staaten und Gebieten nach Artikel 6 Absatz 1 Buchstabe c muss auf der Grundlage neutralisierender Antikörper von mindestens 0,5 IE/ml bei einer Probe durchgeführt werden, die eine berechtigte Tierärztin oder ein berechtigter Tierarzt mindestens 30 Tage nach der Impfung und drei Monate vor der Einfuhr entnommen hat.
 
-<sup>2</sup> Die Frist von drei Monaten gilt nicht im Fall der Wiedereinfuhr eines Tiers, aus dessen Heimtierpass hervorgeht, dass die Titrierung mit positivem Ergebnis durchgeführt worden ist, bevor dieses Tier das Einfuhrgebiet, das Gebiet eines EU‑Mitgliedstaats, von Island oder von Norwegen verlassen hat.
+<sup>2</sup> Die Frist von drei Monaten gilt nicht im Fall der Wiedereinfuhr eines Tiers, aus dessen Heimtierpass hervorgeht, dass die Titrierung mit positivem Ergebnis durchgeführt worden ist, bevor dieses Tier das Einfuhrgebiet, einen EU-Mitgliedstaat, Island oder Norwegen oder Nordirland verlassen hat.[^15-1]
 
 <sup>3</sup> Die Titrierung muss bei einer Auffrischungsimpfung nach Artikel 11 Absatz 2 Buchstabe b nicht wiederholt werden.
 
 <sup>4</sup>
 
-Werden Tiere aus einem Staat oder Territorium nach Artikel 6 Absatz 1 Buchstabe c eingeführt, die aus einem Staat oder Territorium nach Artikel 6 Absatz 1 Buchstabe b stammen, so ist keine Titrierung erforderlich, wenn:
+Werden Tiere aus einem Staat oder Gebiet nach Artikel 6 Absatz 1 Buchstabe c eingeführt, die aus einem Staat oder Gebiet nach Artikel 6 Absatz 1 Buchstabe a oder b stammen, so ist keine Titrierung erforderlich, wenn:[^15-2]
 
-- a. die Halterin, der Halter oder die ermächtigte Person eine selbst unterzeichnete Erklärung nach den Anforderungen nach Anhang 4 Ziffer 5 vorlegt, nach der die Tiere bei der Durchfuhr durch den Staat oder das Territorium nach Artikel 6 Absatz 1 Buchstabe c keinen Kontakt zu Tieren von Arten hatten, die für Tollwut empfänglich sind; und
+- a. die Halterin, der Halter oder die ermächtigte Person eine selbst unterzeichnete Erklärung nach den Anforderungen nach Anhang 4 Ziffer 5 vorlegt, nach der die Tiere bei der Durchfuhr durch den Staat oder das Gebiet nach Artikel 6 Absatz 1 Buchstabe c keinen Kontakt zu Tieren von Arten hatten, die für Tollwut empfänglich sind; und
 - b. die Tiere während des Transports das gesicherte Beförderungsmittel oder das Gelände eines internationalen Flughafens nicht verlassen haben.
+
+[^15-1]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
+[^15-2]: Fassung gemäss Ziff. I der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
 
 ### 3. Abschnitt: Vögel
 
@@ -372,7 +399,7 @@ Bei der Einfuhr von Hunden, Katzen und Frettchen kontrolliert das BAZG die Einha
 
 **Vermerk der Kontrolle**
 
-Bei Hunden, Katzen und Frettchen, die aus Staaten und Territorien nach Artikel 6 Absatz 1 Buchstaben b und c ein- oder durchgeführt werden, vermerkt das BAZG die Kontrolle im Heimtierpass oder in der Veterinärbescheinigung.
+Bei Hunden, Katzen und Frettchen, die aus Staaten und Gebieten nach Artikel 6 Absatz 1 Buchstaben b und c ein- oder durchgeführt werden, vermerkt das BAZG die Kontrolle im Heimtierpass oder in der Veterinärbescheinigung.
 
 #### Art. 26
 
@@ -516,15 +543,15 @@ Die Aufhebung und die Änderung anderer Erlasse werden in Anhang 6 geregelt.
 
 Diese Verordnung tritt am 29. Dezember 2014 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 2)
 
 ## Liste der Heimtiere
 
-[^t-1]: Fassung gemäss Ziff. I der V des BLV vom 16. Febr. 2021, in Kraft seit 18. Febr. 2021 ([AS 2021 96](https://fedlex.data.admin.ch/eli/oc/2021/96)).
+[^t-1]: Fassung gemäss Ziff. II Abs. 1 der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
 
-Es gilt Anhang I der Verordnung (EG) Nr. 576/2013[^annex1-lvlu1-1], der folgende Heimtiere vorsieht:
+Es gilt Anhang I der Verordnung (EU) Nr. 2016/429[^annex1-lvlu1-1], der folgende Heimtiere vorsieht:
 
 - 1\. Hunde;
 - 2\. Katzen;
@@ -534,26 +561,28 @@ Es gilt Anhang I der Verordnung (EG) Nr. 576/2013[^annex1-lvlu1-1], der folgende
 - 6\. Vögel, ausgenommen Hühner, Truthühner, Perlhühner, Enten, Gänse, Wachteln, Tauben, Fasane, Rebhühner und Laufvögel (*Ratitae*);
 - 7\. Reptilien;
 - 8\. Amphibien;
-- 9\. Zierfische und für Zierzwecke gehaltene Wassertiere;
-- 10\. wirbellose Tiere, ausgenommen Bienen und Krustentiere.
+- 9\. Wassertiere, die zu Zierzwecken gehalten werden;
+- 10\. wirbellose Tiere, ausgenommen Bienen, Weichtiere des Stammes *Mollusca* und Krebstiere des Unterstammes *Crustacea*.
+- [tab]
+- [tab]
 
-[^annex1-lvlu1-1]: Verordnung (EU) Nr. 576/2013 des Europäischen Parlaments und des Rates vom 12. Juni 2013 über die Verbringung von Heimtieren zu anderen als Handelszwecken und zur Aufhebung der Verordnung (EG) Nr. 998/2003, Fassung gemäss ABl. L 178 vom 28.6.2013, S. 1.
+[^annex1-lvlu1-1]: Verordnung (EU) Nr. 2016/429 des Europäischen Parlaments und des Rates vom 9. März 2016 zu Tierseuchen und zur Änderung und Aufhebung einiger Rechtsakte im Bereich der Tiergesundheit («Tiergesundheitsrecht»), ABl. L 84 vom 31.3.2016, S. 1; zuletzt geändert durch Delegierte Verordnung (EU) 2018/1629, ABl. L 272 vom 31.10.2018, S. 11.
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 [^t-2]: Aufgehoben durch Anhang Ziff. II 4 der V vom 18. Nov. 2015 über die Ein-, Durch- und Ausfuhr von Tieren und Tierprodukten im Verkehr mit Drittstaaten, mit Wirkung seit 1. Jan. 2016 ([AS 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
 
-Anhang 3*[^t-3]*
+Anhang 3[^t-3]
 
 (Art. 6 Abs. 2)
 
-## Einteilung der Staaten und Territorien
+## Einteilung der Staaten und Gebiete
 
 [^t-3]: Fassung gemäss Ziff. I der V des BLV vom 16. Febr. 2021, in Kraft seit 18. Febr. 2021 ([AS 2021 96](https://fedlex.data.admin.ch/eli/oc/2021/96)).
 
-Es gilt die folgende Einteilung der Staaten und Territorien:
+Es gilt die folgende Einteilung der Staaten und Gebiete:
 
-a. EU-Mitgliedstaaten und weitere europäische Staaten und Territorien, die einen von der EU anerkannten Heimtierpass verwenden:
+a. EU-Mitgliedstaaten und weitere europäische Staaten und Gebiete, die einen von der EU anerkannten Heimtierpass verwenden:
 
 - 1\.
 
@@ -567,7 +596,7 @@ a. EU-Mitgliedstaaten und weitere europäische Staaten und Territorien, die eine
 
 - 2\.
 
-  die folgenden weiteren europäischen Staaten und Territorien, die einen von der EU anerkannten Heimtierpass verwenden:
+  die folgenden weiteren europäischen Staaten und Gebiete, die einen von der EU anerkannten Heimtierpass verwenden:
 
   - 2\.1 Andorra
   - 2\.2 Gibraltar
@@ -578,7 +607,7 @@ a. EU-Mitgliedstaaten und weitere europäische Staaten und Territorien, die eine
   - 2\.7 San Marino
   - 2\.8 Vatikanstadt
 
-b. die folgenden Staaten und Territorien mit günstiger Seuchenlage bezüglich Tollwut:
+b. die folgenden Staaten und Gebiete mit günstiger Seuchenlage bezüglich Tollwut:
 
 - 1\. Antigua und Barbuda
 - 2\. Argentinien
@@ -628,15 +657,17 @@ b. die folgenden Staaten und Territorien mit günstiger Seuchenlage bezüglich T
 - 46\. Vereinigtes Königreich ohne Nordirland
 - 47\. Wallis und Futuna
 
-c. die folgenden Staaten und Territorien, in denen urbane Tollwut nicht ausgeschlossen werden kann:
+c. die folgenden Staaten und Gebiete, in denen urbane Tollwut nicht ausgeschlossen werden kann:
 
-Alle Staaten und Territorien, die nicht in den Buchstaben a und b aufgelistet sind.
+Alle Staaten und Gebiete, die nicht in den Buchstaben a und b aufgelistet sind.
 
-Anhang 4
+Anhang 4[^t-4]
 
 (Art. 8 Abs. 1, 9 Abs. 1, 10 Abs. 1, 11 Abs. 1, 12 Abs. 3, 13 Abs. 4, 15 Abs. 4)
 
 ## Besondere Bestimmungen für Hunde, Katzen und Frettchen
+
+[^t-4]: Bereinigt gemäss Ziff. II Abs. 2 der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
 
 ### 1. Kennzeichnung
 
@@ -650,19 +681,19 @@ Anhang 4
 
 - 1\.2 Ist ein Tier mit einem anderen Mikrochip versehen, so muss die Halterin, der Halter oder die ermächtigte Person bei jeder Kontrolle die für das Ablesen des Mikrochips erforderlichen Mittel zur Verfügung stellen.
 
-[^annex4-lvlu1-lvl1-1]: Die aufgeführte Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^annex4-lvlu1-lvl1-2]: Die aufgeführte Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex4-lvlu1-lvl1-1]: Die aufgeführte Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/).
+[^annex4-lvlu1-lvl1-2]: Die aufgeführte Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/).
 
-### 2. Heimtierpass für Tiere aus Staaten nach Artikel 6 Absatz 1 Buchstabe a
+### 2. Heimtierpass für Tiere aus Staaten und Gebieten nach Artikel 6 Absatz 1 Buchstabe a
 
-- 2\.1 Für den Heimtierpass für Tiere aus Staaten nach Artikel 6 Absatz 1 Buchstabe a gelten die Anforderungen nach Anhang III der Durchführungsverordnung (EU) Nr. 577/2013[^annex4-lvlu1-lvl2-1].
+- 2\.1 Für den Heimtierpass für Tiere aus Staaten und Gebieten nach Artikel 6 Absatz 1 Buchstabe a gelten die Anforderungen nach Anhang III der Durchführungsverordnung (EU) Nr. 577/2013[^annex4-lvlu1-lvl2-1].
 - 2\.2 In Heimtierpässen aus Staaten, die nicht der EU angehören, müssen das Emblem der EU und Angaben, die auf diese hinweisen, durch die Angaben über das betreffende Land ersetzt sein.
 
-[^annex4-lvlu1-lvl2-1]: Siehe Fussnote zu Anhang 3.
+[^annex4-lvlu1-lvl2-1]: Durchführungsverordnung (EU) Nr. 577/2013 der Kommission vom 28. Juni 2013 zu den Muster-Identifizierungsdokumenten für die Verbringung von Hunden, Katzen und Frettchen zu anderen als Handelszwecken, zur Erstellung der Listen der Gebiete und Drittländer sowie zur Festlegung der Anforderungen an Format, Layout und Sprache der Erklärungen zur Bestätigung der Einhaltung bestimmter Bedingungen gemäss der Verordnung (EU) Nr. 576/2013 des Europäischen Parlaments und des Rates, ABl. L 178 vom 28.6.2013, S. 109; zuletzt geändert durch Durchführungsverordnung (EU) 2020/2016, ABl. L 415 vom 10.12.2020, S. 39.
 
-### 3. Veterinärbescheinigung für Tiere aus Staaten und Territorien nach Artikel 6 Absatz 1 Buchstaben b und c
+### 3. Veterinärbescheinigung für Tiere aus Staaten und Gebieten nach Artikel 6 Absatz 1 Buchstaben b und c
 
-Für die Veterinärbescheinigung für Tiere aus Staaten und Territorien nach Artikel 6 Absatz 1 Buchstaben b und c gelten die Anforderungen nach Anhang IV der Durchführungsverordnung (EU) Nr. 577/2013[^annex4-lvlu1-lvl3-1].
+Für die Veterinärbescheinigung für Tiere aus Staaten und Gebieten nach Artikel 6 Absatz 1 Buchstaben b und c gelten die Anforderungen nach Anhang IV der Durchführungsverordnung (EU) Nr. 577/2013[^annex4-lvlu1-lvl3-1].
 
 [^annex4-lvlu1-lvl3-1]: Siehe Fussnote zu Anhang 3.
 
@@ -681,10 +712,10 @@ Für die Veterinärbescheinigung für Tiere aus Staaten und Territorien nach Art
 
   - 4\.2.1 in der Schweiz: Zulassung nach dem Heilmittelgesetz vom 15. Dezember 2000[^annex4-lvlu1-lvl4-1];
   - 4\.2.2 in einem EU-Mitgliedstaat: Genehmigung für das Inverkehrbringen nach den europäischen Vorschriften;
-  - 4\.2.3 in einem Drittstaat: Einhaltung der Anforderungen nach den Kapiteln 1.1.8 und 2.1.13 des *Manuel des tests de diagnostic et des va**c**cins pour les animaux terrestres*[^annex4-lvlu1-lvl4-2] der Weltorganisation für Tiergesundheit.
+  - 4\.2.3 in einem Drittstaat: Einhaltung der Anforderungen nach den Kapiteln 1.1.8 und 3.1.18 des *Manuel des tests de diagnostic et des vaccins pour les animaux terrestres*[^annex4-lvlu1-lvl4-2] der Weltorganisation für Tiergesundheit.
 
 [^annex4-lvlu1-lvl4-1]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^annex4-lvlu1-lvl4-2]: Manuel des tests de diagnostic et des vaccins pour les animaux terrestres, Version 2011; www.oie.int &gt; Français &gt; Normes internationales &gt; Manuel terrestre &gt; Accès en ligne.
+[^annex4-lvlu1-lvl4-2]: Manuel des tests de diagnostic et des vaccins pour les animaux terrestres, Version 2022; www.woah.org &gt; Français &gt; Ce que nous faisons &gt; Normes &gt; Codes et Manuels &gt; Manuel terrestre &gt; Accès.
 
 ### 5. Erklärungen
 
@@ -692,17 +723,18 @@ Für die Erklärungen nach den Artikeln 12 Absatz 3 Buchstabe a, 13 Absatz 4 Buc
 
 [^annex4-lvlu1-lvl5-1]: Siehe Fussnote zu Anhang 3.
 
-Anhang 5*[^t-4]*
+Anhang 5[^t-5]
 
 (Art. 16 Abs. 1)
 
 ## Massnahmen vor der Einfuhr von Vögeln in Bezug auf die Veterinärbescheinigung
 
-[^t-4]: Fassung gemäss Ziff. I der V des BLV vom 16. Febr. 2021, in Kraft seit 18. Febr. 2021 ([AS 2021 96](https://fedlex.data.admin.ch/eli/oc/2021/96)).
+[^t-5]: Fassung gemäss Ziff. II Abs. 1 der V vom 31. Mai 2024, in Kraft seit 1. Juli 2024 ([AS 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
 
-Es gelten die Anforderungen nach den Anhängen II und III der Entscheidung 2007/ 25/EG[^annex5-lvlu1-1].
+Es gelten die Anforderungen nach der Delegierten Verordnung (EU) 2021/1933[^annex5-lvlu1-1] sowie der Durchführungsverordnung (EU) 2021/1938[^annex5-lvlu1-2].
 
-[^annex5-lvlu1-1]: Entscheidung 2007/25/EG der Kommission vom 22. Dez. 2006 hinsichtlich bestimmter Massnahmen zum Schutz gegen die hoch pathogene Aviäre Influenza und zur Regelung der Verbringung von Heimvögeln, die von ihren Besitzern aus Drittländern mitgeführt werden, ABl. L 8 vom 13.1.2007, S. 29; zuletzt geändert durch Durchführungsbeschluss (EU) 2020/2107, ABl. L 425 vom 16.12.2020, S 103.
+[^annex5-lvlu1-1]: Delegierte Verordnung (EU) 2021/1933 der Kommission vom 14. Juli 2021 zur Ergänzung der Verordnung (EU) Nr. 576/2013 des Europäischen Parlaments und des Rates hinsichtlich der Vorschriften für die Verbringung von Heimvögeln zu anderen als Handelszwecken aus einem Gebiet oder Drittland in einen Mitgliedstaat, Fassung gemäss ABl. L 396 vom 10.11.2021, S. 4.
+[^annex5-lvlu1-2]: Durchführungsverordnung (EU) 2021/1938 der Kommission vom 9. November 2021 zur Festlegung des Musterausweises für die Verbringung von Heimvögeln zu anderen als Handelszwecken aus einem Gebiet oder Drittland in einen Mitgliedstaat und zur Aufhebung der Entscheidung 2007/25/EG, Fassung gemäss ABl. L 396 vom 10.11.2021, S. 47.
 
 Anhang 6
 

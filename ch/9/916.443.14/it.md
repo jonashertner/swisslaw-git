@@ -4,11 +4,11 @@ title: "Ordinanza del 28 novembre 2014 concernente l'importazione, il transito e
 short: OITEAc
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/755"
 language: it
-version: 2022-01-01
+version: 2024-07-01
 adopted: 2014-11-28
 in_force: 2014-12-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/755/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2014-755-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/755/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/755/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2014-755-20240701-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/755/20240701/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/755/20220101/it"
 
 (OITEAc)
 
-del 28 novembre 2014 (Stato 1° gennaio 2022) (Stato 1° gennaio 2022)
+del 28 novembre 2014 (Stato 1° luglio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -47,20 +47,21 @@ La presente ordinanza si applica all’importazione, al transito e all’esporta
 Salvo diversa disposizione della presente ordinanza, si applicano:
 
 - a. l’ordinanza del 18 novembre 2015[^1-1] concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi;
-- b. l’ordinanza del 18 novembre 2015[^1-2] concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Stati membri dell’UE, Islanda e Norvegia.[^1-3]
+- b.[^1-2] l’ordinanza del 18 novembre 2015[^1-3] concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Stati membri dell’UE, Islanda e Norvegia nonché Irlanda del Nord.[^1-4]
 
 <sup>3</sup>
 
 Sono fatte salve le seguenti ordinanze:
 
-- a. ordinanza del 23 aprile 2008[^1-4] sulla protezione degli animali;
-- b. ordinanza del 4 settembre 2013[^1-5] sulla circolazione delle specie di fauna e di flora protette.
+- a. ordinanza del 23 aprile 2008[^1-5] sulla protezione degli animali;
+- b. ordinanza del 4 settembre 2013[^1-6] sulla circolazione delle specie di fauna e di flora protette.
 
 [^1-1]: [RS 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
-[^1-2]: [RS 916.443.11](https://fedlex.data.admin.ch/eli/cc/2015/846)
-[^1-3]: Nuovo testo giusta l’all. n. II 4 dell’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, in vigore dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
-[^1-4]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
-[^1-5]: [RS 453.0](https://fedlex.data.admin.ch/eli/cc/2013/601)
+[^1-2]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
+[^1-3]: [RS 916.443.11](https://fedlex.data.admin.ch/eli/cc/2015/846)
+[^1-4]: Nuovo testo giusta l’all. n. II 4 dell’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, in vigore dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
+[^1-5]: [RS 455.1](https://fedlex.data.admin.ch/eli/cc/2008/416)
+[^1-6]: [RS 453.0](https://fedlex.data.admin.ch/eli/cc/2013/601)
 
 #### Art. 2
 
@@ -72,8 +73,11 @@ Nella presente ordinanza si intende per:
 - b. *detentore:* persona fisica che ha, effettivamente e non soltanto temporaneamente, il potere di disporre dell’animale, iscritta come proprietario nel passaporto per animali da compagnia o nel certificato veterinario;
 - c. *veterinario abilitato:* veterinario che, secondo il rispettivo diritto nazionale, è autorizzato a esercitare le attività previste nella presente ordinanza;
 - d. *importazione:* introduzione permanente o temporanea di animali da compagnia nel territorio d’importazione;
-- e. *territorio d’importazione:* il territorio nazionale svizzero, comprese le enclavi doganali svizzere (Samnaun e Sampuoir), nonché le enclavi doganali estere (Principato del Liechtenstein, Büsingen e Campione);
-- f. *Paesi terzi:* tutti gli Stati, fatta eccezione per gli Stati membri dell’Unione Europea (UE), l’Islanda, la Norvegia, la Svizzera e il Liechtenstein.
+- e.[^2-1] *territorio d’importazione:* il territorio nazionale svizzero, comprese le enclavi doganali svizzere (Samnaun e Sampuoir), nonché le enclavi doganali estere (Principato del Liechtenstein e Büsingen);
+- f.[^2-2] *Paesi terzi*: tutti gli Stati, fatta eccezione per gli Stati membri dell’Unione Europea (UE), l’Islanda e la Norvegia, ed escluso il territorio dell’Irlanda del Nord.
+
+[^2-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
+[^2-2]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
 
 ## Capitolo 2: Disposizioni per l’importazione
 
@@ -81,43 +85,25 @@ Nella presente ordinanza si intende per:
 
 #### Art. 3
 
-**Numero massimo di animali da compagnia autorizzati all’importazione provenienti da Paesi terzi**
+[^3-1]
 
-<sup>1</sup> Nell’importazione di animali di compagnia da Paesi terzi possono essere portati con sé al massimo cinque animali da compagnia secondo le disposizioni della presente ordinanza. Se il numero di animali portati con sé è superiore a tale limite, per tutti gli animali si applica l’ordinanza del 18 novembre 2015[^3-1] concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi.[^3-2]
-
-<sup>2</sup>
-
-L’Ufficio federale della sicurezza alimentare e di veterinaria (USAV) autorizza, su richiesta, l’importazione di oltre cinque animali da compagnia se:
-
-- a. l’importazione è temporanea;
-- b. il detentore o una persona autorizzata porta con sé gli animali per farli partecipare a concorsi, esposizioni o manifestazioni sportive oppure per allenarli in vista di simili eventi; e
-- c.
-
-  il detentore o la persona autorizzata dimostra che gli animali:
-
-  - 1\. sono stati iscritti per tali scopi o sono stati registrati presso un’associazione che organizza simili eventi, e
-  - 2\. hanno raggiunto almeno sei mesi di vita; è fatto salvo il requisito di un’età superiore per determinati animali per ragioni di polizia sanitaria.
-
-<sup>3</sup> L’USAV può, mediante l’autorizzazione, limitare il numero degli animali che possono essere importati e stabilire la durata massima del soggiorno.
-
-<sup>4</sup> L’autorizzazione va portata con sé al momento dell’entrata nel territorio d’importazione e presentata spontaneamente agli organi di controllo.
-
-[^3-1]: [RS 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
-[^3-2]: Nuovo testo giusta l’all. n. II 4 dell’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, in vigore dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
+[^3-1]: Abrogato dal n. I dell’O del 31 mag. 2024, con effetto dal 1° lug. 2024 ([RU 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
 
 #### Art. 4
 
-**Importazione di animali da compagnia provenienti da Paesi terzi attraverso gli aeroporti nazionali**
+**Importazione di animali da compagnia provenienti da Paesi terzi attraverso gli aeroporti nazionali**[^4-1]
 
-L’importazione per via aerea di animali da compagnia provenienti da Paesi terzi, senza un controllo veterinario di confine completo in uno Stato membro dell’UE, in Islanda o in Norvegia (per via aerea diretta), deve avvenire attraverso uno dei tre aeroporti di Zurigo, Ginevra o Basilea (aeroporti nazionali).
+L’importazione per via aerea di animali da compagnia provenienti da Paesi terzi, senza un controllo veterinario di confine completo in uno Stato membro dell’UE, in Islanda o Norvegia o in Irlanda del Nord (per via aerea diretta), deve avvenire attraverso uno dei tre aeroporti di Zurigo, Ginevra o Basilea (aeroporti nazionali).
+
+[^4-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
 
 #### Art. 5
 
 **Riserva delle misure atte a evitare la propagazione di un’epizoozia**[^5-1]
 
-Sono fatte salve le misure di protezione adottate dall’USAV allo scopo di evitare la propagazione di un’epizoozia, conformemente all’articolo 24 capoverso 3 lettera a LFE.
+Sono fatte salve le misure adottate dall’Ufficio federale della sicurezza alimentare e di veterinaria (USAV) allo scopo di evitare la propagazione di un’epizoozia, conformemente all’articolo 24 capoverso 3 lettera a LFE.
 
-[^5-1]: Nuovo testo giusta il n. II 1 dell’O del 10 gen. 2018, in vigore dal 1° mar. 2018 ([RU 2018 721](https://fedlex.data.admin.ch/eli/oc/2018/90)).
+[^5-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
 
 ### Sezione 2: Cani, gatti e furetti
 
@@ -129,22 +115,50 @@ Sono fatte salve le misure di protezione adottate dall’USAV allo scopo di evit
 
 Al fine di disciplinare l’importazione di cani, gatti e furetti, gli Stati e i territori sono stati suddivisi in:
 
-- a. Stati membri dell’UE e altri Stati europei che utilizzano un passaporto per animali da compagnia riconosciuto dall’UE;
+- a.[^6-1] Stati membri dell’UE e altri Stati o territori europei che utilizzano un passaporto per animali da compagnia riconosciuto dall’UE;
 - b. altri Stati e territori con situazione epizooziologica favorevole riguardo alla rabbia; e
 - c. Stati e territori in cui la presenza di rabbia urbana non può essere esclusa.
 
 <sup>2</sup> Gli Stati e i territori di cui al capoverso 1 sono elencati nell’allegato 3.
 
+[^6-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
+
+#### Art. 6a
+
+**Numero massimo per l’importazione da Paesi terzi**[^6a-1]
+
+<sup>1</sup> Nell’importazione di cani, gatti e furetti da Paesi terzi possono essere portati con sé al massimo cinque animali secondo le disposizioni della presente ordinanza. Se il numero di animali portati con sé è superiore a tale limite, per tutti gli animali si applica l’ordinanza del 18 novembre 2015[^6a-2] concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi.
+
+<sup>2</sup>
+
+L’USAV autorizza, su richiesta, l’importazione di oltre cinque cani, gatti o furetti se:
+
+- a. l’importazione è temporanea;
+- b. il detentore o una persona autorizzata porta con sé gli animali per farli partecipare a concorsi, esposizioni o manifestazioni sportive oppure per allenarli in vista di simili eventi; e
+- c.
+
+  il detentore o la persona autorizzata dimostra che gli animali:
+
+  - 1\. sono stati iscritti per tali scopi o sono stati registrati presso un’associazione che organizza simili eventi, e
+  - 2\. hanno raggiunto almeno sei mesi di vita; è fatto salvo il requisito di un’età superiore per ragioni di polizia sanitaria.
+
+<sup>3</sup> Nell’autorizzazione l’USAV può limitare il numero di cani, gatti o furetti che possono essere importati e stabilire la durata massima del soggiorno.
+
+<sup>4</sup> L’autorizzazione deve essere portata con sé al momento dell’entrata nel territorio d’importazione e presentata spontaneamente agli organi di controllo.
+
+[^6a-1]: Introdotto dal n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
+[^6a-2]: [RS 916.443.10](https://fedlex.data.admin.ch/eli/cc/2015/843)
+
 #### Art. 7
 
-**Numero massimo**
+**Numero massimo per l’importazione da Stati membri dell’UE, Islanda e Norvegia nonché dall’Irlanda del Nord**[^7-1]
 
-<sup>1</sup> Per l’importazione di cani, gatti e furetti dagli Stati membri UE, dall’Islanda e dalla Norvegia, il numero massimo fissato nell’articolo 3 capoversi 1 e 2 e i rispettivi requisiti per le deroghe si applicano per analogia. Se il numero di animali portati con sé è superiore a tale limite, per tutti gli animali si applica l’ordinanza del 18 novembre 2015[^7-1] concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Stati membri dell’UE, Islanda e Norvegia.[^7-2]
+<sup>1</sup> Per l’importazione di cani, gatti e furetti dagli Stati membri UE, dall’Islanda e dalla Norvegia nonché dall’Irlanda del Nord il numero massimo fissato nell’articolo 6*a* capoversi 1 e 2 e i rispettivi requisiti per le deroghe si applicano per analogia. Se il numero di animali portati con sé è superiore a tale limite, per tutti gli animali si applica l’ordinanza del 18 novembre 2015[^7-2] concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Stati membri dell’UE, Islanda e Norvegia nonché con l’Irlanda del Nord.
 
 <sup>2</sup> Non è richiesta nessuna autorizzazione.
 
-[^7-1]: [RS 916.443.11](https://fedlex.data.admin.ch/eli/cc/2015/846)
-[^7-2]: Nuovo testo giusta l’all. n. II 4 dell’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, in vigore dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
+[^7-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
+[^7-2]: [RS 916.443.11](https://fedlex.data.admin.ch/eli/cc/2015/846)
 
 #### Art. 8
 
@@ -185,9 +199,10 @@ Esso deve essere compilato e firmato da:
 
 <sup>4</sup> In caso d’importazione per via aerea diretta, esso è valido fino al controllo eseguito in un aeroporto nazionale, ma al massimo per la durata di dieci giorni dalla data di rilascio.
 
-<sup>5</sup> In caso d’importazione da un Paese terzo attraverso gli Stati membri dell’UE, l’Islanda o la Norvegia, al posto di un passaporto per animali da compagnia può essere utilizzato il certificato veterinario munito del visto di controllo apposto da uno di tali Stati. Questo è valido per una durata di quattro mesi dalla data di rilascio o fino alla data di scadenza della vaccinazione antirabbica valida, a seconda di quale data sia precedente.
+<sup>5</sup> In caso d’importazione da un Paese terzo attraverso gli Stati membri dell’UE, l’Islanda o la Norvegia o attraverso l’Irlanda del Nord, al posto di un passaporto per animali da compagnia può essere utilizzato il certificato veterinario munito del visto di controllo apposto da uno di tali Stati o territori. Questo è valido per una durata di quattro mesi dalla data di rilascio o fino alla data di scadenza della vaccinazione antirabbica valida, a seconda di quale data sia precedente.[^10-2]
 
 [^10-1]: Nuovo testo giusta l’all. n. II 4 dell’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, in vigore dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
+[^10-2]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
 
 #### Art. 11
 
@@ -210,9 +225,9 @@ La vaccinazione antirabbica è considerata valida a partire:
 
 #### Art. 12
 
-**Animali provenienti dall’UE e da altri Stati europei che utilizzano un passaporto per animali da compagnia riconosciuto dall’UE**
+**Animali provenienti dall’UE e da altri Stati o territori europei con un passaporto per animali da compagnia riconosciuto dall’UE[^12-1]**
 
-<sup>1</sup> Cani, gatti e furetti provenienti da Stati di cui all’articolo 6 capoverso 1 lettera a devono essere accompagnati da un passaporto per animali da compagnia.
+<sup>1</sup> Cani, gatti e furetti provenienti da Stati o territori di cui all’articolo 6 capoverso 1 lettera a devono essere accompagnati da un passaporto per animali da compagnia.[^12-2]
 
 <sup>2</sup> Gli animali devono essere vaccinati validamente contro la rabbia. La vaccinazione deve essere iscritta nel passaporto.
 
@@ -225,13 +240,16 @@ Possono essere importati animali di età inferiore a 12 settimane senza vaccinaz
 
 <sup>4</sup> L’USAV può, su richiesta e in casi motivati, autorizzare eccezioni all’obbligo di vaccinazione antirabbica, ad esempio nel caso di animali considerati masserizie di trasloco per i quali è comprovato che, per motivi medici, non possono essere vaccinati.
 
+[^12-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
+[^12-2]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
+
 #### Art. 13
 
 **Animali provenienti da Stati e territori con situazione epizooziologica favorevole riguardo alla rabbia**
 
 <sup>1</sup> Cani, gatti e furetti provenienti da Stati e territori di cui all’articolo 6 capoverso 1 lettera b devono essere accompagnati da un certificato veterinario.
 
-<sup>2</sup> Animali provenienti dal territorio d’importazione o da uno Stato di cui all’articolo 6 capoverso 1 lettera a che dispongono di un passaporto per animali da compagnia e che sono stati vaccinati in modo valido contro la rabbia, possono essere importati o reimportati senza certificato veterinario dopo un soggiorno temporaneo in uno Stato o in un territorio di cui all’articolo 6 capoverso 1 lettera b.
+<sup>2</sup> Animali provenienti dal territorio d’importazione oppure da uno Stato o un territorio di cui all’articolo 6 capoverso 1 lettera a che dispongono di un passaporto per animali da compagnia e che sono stati vaccinati in modo valido contro la rabbia, possono essere importati o reimportati senza certificato veterinario dopo un soggiorno temporaneo in uno Stato o in un territorio di cui all’articolo 6 capoverso 1 lettera b.[^13-1]
 
 <sup>3</sup> Cani, gatti e furetti provenienti da Stati e territori di cui all’articolo 6 capoverso 1 lettera b devono essere stati vaccinati in modo valido contro la rabbia. La vaccinazione deve essere iscritta nel certificato veterinario.
 
@@ -241,6 +259,8 @@ Possono essere importati animali di età inferiore a 12 settimane senza vaccinaz
 
 - a. viene portata con sé una dichiarazione del detentore, conformemente ai requisiti di cui all’allegato 4 numero 5, attestante che, dalla loro nascita, gli animali non sono entrati in contatto con animali selvatici di specie suscettibili alla rabbia; o
 - b. gli animali accompagnano la madre dalla quale sono ancora dipendenti e che, secondo il certificato veterinario, prima di partorire gli animali è stata sottoposta a vaccinazione antirabbica.
+
+[^13-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
 
 #### Art. 14
 
@@ -257,14 +277,16 @@ Il certificato veterinario deve attestare che:
 
 <sup>3</sup>
 
-Se vengono importati da uno Stato o territorio di cui all’articolo 6 capoverso 1 lettera c animali che provengono dal territorio d’importazione o da uno Stato di cui all’articolo 6 capoverso 1 lettera a, non è richiesto il certificato veterinario per gli animali:
+Se vengono importati da uno Stato o territorio di cui all’articolo 6 capoverso 1 lettera c animali che provengono dal territorio d’importazione oppure da uno Stato o un territorio di cui all’articolo 6 capoverso 1 lettera a, il certificato veterinario non è necessario per gli animali:[^14-2]
 
-- a. che sono stati sottoposti alla vaccinazione antirabbica e alla titolazione nel territorio d’importazione o in uno Stato di cui all’articolo 6 capoverso 1 lettera a; e
+- a.[^14-3] che sono stati sottoposti alla vaccinazione antirabbica e alla titolazione nel territorio d’importazione oppure in uno Stato o un territorio di cui all’articolo 6 capoverso 1 lettera a; e
 - b. la cui vaccinazione e titolazione sono in corso di validità e sono iscritte nel passaporto per animali da compagnia o sono specificamente attestate.
 
 <sup>4</sup> Per cani, gatti e furetti provenienti da Stati e territori di cui all’articolo 6 capoverso 1 lettera c che vengono importati per via aerea diretta è necessaria un’autorizzazione dell’USAV. Le domande devono essere presentate all’USAV al più tardi 21 giorni prima dell’arrivo degli animali e devono contenere i documenti necessari alla verifica del rispetto delle disposizioni per l’importazione.
 
-[^14-1]: www.usav.admin.ch &gt; Animali &gt; Viaggiare con animali da compagnia &gt; Cani, gatti e furetti
+[^14-1]: [www.usav.admin.ch](http://www.usav.admin.ch) &gt; Animali &gt; Viaggiare con animali da compagnia &gt; Cani, gatti e furetti
+[^14-2]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
+[^14-3]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
 
 #### Art. 15
 
@@ -272,16 +294,19 @@ Se vengono importati da uno Stato o territorio di cui all’articolo 6 capoverso
 
 <sup>1</sup> La titolazione per cani, gatti e furetti provenienti da Stati e territori di cui all’articolo 6 capoverso 1 lettera c di anticorpi neutralizzanti, che deve essere di almeno 0,5 Ul/ml, è rilevata su un campione di sangue prelevato da un veterinario abilitato almeno 30 giorni dopo la vaccinazione e tre mesi prima dell’importazione.
 
-<sup>2</sup> Il termine di tre mesi non si applica in caso di reimportazione di un animale il cui passaporto per animali da compagnia attesti che la titolazione è stata effettuata con risultato positivo prima che il suddetto animale abbia lasciato il territorio d’importazione o il territorio di uno Stato membro dell’UE, dell’Islanda o della Norvegia.
+<sup>2</sup> Il termine di tre mesi non si applica in caso di reimportazione di un animale il cui passaporto per animali da compagnia attesti che la titolazione è stata effettuata con risultato positivo prima che il suddetto animale abbia lasciato il territorio d’importazione, uno Stato membro dell’UE, l’Islanda o la Norvegia o l’Irlanda del Nord.[^15-1]
 
 <sup>3</sup> Nel caso di una vaccinazione di richiamo secondo l’articolo 11 capoverso 2 lettera b, non è necessario ripetere la titolazione.
 
 <sup>4</sup>
 
-Se vengono importati da uno Stato o territorio di cui all’articolo 6 capoverso 1 lettera c animali che provengono da uno Stato o territorio di cui all’articolo 6 capoverso 1 lettera b, non è necessaria una titolazione se:
+Se vengono importati da uno Stato o territorio di cui all’articolo 6 capoverso 1 lettera c animali che provengono da uno Stato o territorio di cui all’articolo 6 capoverso 1 lettera a o b, non è necessaria una titolazione se:[^15-2]
 
 - a. il detentore o la persona autorizzata presenta una dichiarazione, conformemente ai requisiti di cui all’allegato 4 numero 5, firmata di proprio pugno attestante che, durante il transito attraverso lo Stato o il territorio di cui all’articolo 6 capoverso 1 lettera c, gli animali non sono entrati in contatto con animali di specie ricettive alla rabbia; e
 - b. durante il trasporto gli animali non hanno mai abbandonato il mezzo di trasporto chiuso o il perimetro di un aeroporto internazionale.
+
+[^15-1]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
+[^15-2]: Nuovo testo giusta il n. I dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
 
 ### Sezione 3: Uccelli
 
@@ -463,7 +488,7 @@ Il veterinario ufficiale del Cantone o del servizio veterinario di confine notif
 
 <sup>3</sup> Le tasse per l’emissione e la distribuzione del passaporto per animali da compagnia sono rette dall’ordinanza del 23 novembre 2005[^33-1] sugli emolumenti per le pubblicazioni. Esse sono addossate ai veterinari.
 
-[^33-1]: [[RU 2005 5433](https://fedlex.data.admin.ch/eli/oc/2005/741). [RU 2014 4329](https://fedlex.data.admin.ch/eli/oc/2014/711)art. 8].Vedi ora l’O del 19 nov. 2014 ([RS 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)).
+[^33-1]: [[RU 2005 5433](https://fedlex.data.admin.ch/eli/oc/2005/741). [RU 2014 4329](https://fedlex.data.admin.ch/eli/oc/2014/711)art. 8]. Vedi ora l’O del 19 nov. 2014 ([RS 172.041.11](https://fedlex.data.admin.ch/eli/cc/2014/711)).
 
 #### Art. 34
 
@@ -516,32 +541,36 @@ L’abrogazione e la modifica di altri atti normativi sono disciplinate nell’a
 
 La presente ordinanza entra in vigore il 29 dicembre 2014.
 
-Allegato 1*[^t-1]*
+Allegato 1[^t-1]
 
 (art. 2)
 
 ## Elenco degli animali da compagnia
 
-[^t-1]: Nuovo testo giusta il n. I dell’O dell’USAV del 16 feb. 2021, in vigore dal 18 feb. 2021 ([RU 2021 96](https://fedlex.data.admin.ch/eli/oc/2021/96)).
+[^t-1]: Nuovo testo giusta il n. II cpv. 1 dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
+
+Si applica l’allegato I del regolamento (UE) 2016/429[^annex1-lvlu1-1], che prevede i seguenti animali da compagnia:
 
 - 1\. cani;
 - 2\. gatti;
 - 3\. furetti;
 - 4\. conigli domestici;
 - 5\. roditori;
-- 6\. uccelli, ad eccezione di galline, tacchini, faraone, anatre, oche, quaglie, piccioni, fagiani, pernici, e uccelli corridori (ratiti);
+- 6\. uccelli, ad eccezione di galline, tacchini, faraone, anatre, oche, quaglie, piccioni, fagiani, pernici e uccelli corridori (*ratiti*);
 - 7\. rettili;
 - 8\. anfibi;
-- 9\. pesci d’acquario e animali acquatici tenuti per scopi ornamentali;
-- 10\. animali invertebrati, ad eccezione di api e crostacei.
+- 9\. animali acquatici tenuti per scopi ornamentali;
+- 10\. animali invertebrati, ad eccezione di api, molluschi appartenenti al Phylum *Mollusca* e crostacei appartenenti al Subphylum *Crustacea*.
 
-Allegato 2*[^t-2]*
+[^annex1-lvlu1-1]: Regolamento (UE) n. 2016/429 del Parlamento europeo e del Consiglio, del 9 marzo 2016, relativo alle malattie animali trasmissibili e che modifica e abroga taluni atti in materia di sanità animale, GU L 84 del 31.3.2016, pag. 1; modificato da ultimo dal regolamento delegato (UE) 2018/1629, GU L 272 del 31.10.2018, pag. 11.
+
+Allegato 2[^t-2]
 
 ## ...
 
 [^t-2]: Abrogato dall’all. n. II 4 dell’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, con effetto dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
 
-Allegato 3*[^t-3]*
+Allegato 3[^t-3]
 
 (art. 6 cpv. 2)
 
@@ -630,11 +659,13 @@ c. i seguenti Stati e territori in cui la presenza di rabbia urbana non può ess
 
 tutti gli Stati e i territori che non sono elencati nelle lettere a e b.
 
-Allegato 4
+Allegato 4[^t-4]
 
 (art. 8 cpv. 1, 9 cpv. 1, 10 cpv. 1, 11 cpv. 1, 12 cpv. 3, 13 cpv. 4, 15 cpv. 4)
 
 ## Disposizioni speciali per cani, gatti e furetti
+
+[^t-4]: Aggiornato dal n. II cpv. 2 dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
 
 ### 1. Identificazione
 
@@ -648,15 +679,15 @@ Allegato 4
 
 - 1\.2 Se un animale è munito di un altro microchip, il detentore o la persona autorizzata deve fornire a ogni controllo i mezzi necessari per la lettura dello stesso.
 
-[^annex4-lvlu1-lvl1-1]: Il testo di tale norma può essere consultato gratuitamente od ottenuto a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^annex4-lvlu1-lvl1-2]: Il testo di tale norma può essere consultato gratuitamente od ottenuto a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex4-lvlu1-lvl1-1]: Il testo di tale norma può essere consultato gratuitamente od ottenuto a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/de/)
+[^annex4-lvlu1-lvl1-2]: Il testo di tale norma può essere consultato gratuitamente od ottenuto a pagamento presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/de/)
 
-### 2. Passaporto per animali da compagnia per animali provenienti da Stati di cui all’articolo 6 capoverso 1 lettera a
+### 2. Passaporto per animali da compagnia per animali provenienti da Stati e territori di cui all’articolo 6 capoverso 1 lettera a
 
-- 2\.1 Il passaporto per animali da compagnia destinato agli animali provenienti da Stati di cui all’articolo 6 capoverso 1 lettera a deve soddisfare i requisiti di cui all’allegato III del regolamento di esecuzione (UE) n. 577/2013[^annex4-lvlu1-lvl2-1].
+- 2\.1 Il passaporto per animali da compagnia destinato agli animali provenienti da Stati e territori di cui all’articolo 6 capoverso 1 lettera a deve soddisfare i requisiti di cui all’allegato III del regolamento di esecuzione (UE) n. 577/2013[^annex4-lvlu1-lvl2-1].
 - 2\.2 Nei passaporti per animali da compagnia rilasciati da Stati non comunitari, l’emblema dell’UE e i dati che rinviano a essa devono essere sostituiti dai dati concernenti il Paese in questione.
 
-[^annex4-lvlu1-lvl2-1]: Cfr. nota a piè di pagina nell’all. 3.
+[^annex4-lvlu1-lvl2-1]: Regolamento di esecuzione (UE) n. 577/2013 della Commissione, del 28 giugno 2013, relativo ai modelli dei documenti di identificazione per i movimenti a carattere non commerciale di cani, gatti e furetti, alla definizione di elenchi di territori e paesi terzi, e ai requisiti relativi al formato, all’aspetto e alle lingue delle dichiarazioni attestanti il rispetto di determinate condizioni di cui al regolamento (UE) n. 576/2013 del Parlamento europeo e del Consiglio, GU L 178 del 28.6.2013, pag. 109; modificato da ultimo dal regolamento di esecuzione (UE) 2020/2016, GU L 415 del 10.12.2020, pag. 39.
 
 ### 3. Certificato veterinario per gli animali provenienti da Stati di cui all’articolo 6 capoverso 1 lettere b e c
 
@@ -679,10 +710,10 @@ Il il certificato veterinario destinato agli animali provenienti da Stati e terr
 
   - 4\.2.1 in Svizzera: omologazione conformemente alla legge del 15 dicembre 2000[^annex4-lvlu1-lvl4-1] sugli agenti terapeutici;
   - 4\.2.2 in uno Stato membro dell’UE: approvazione per la commercializzazione conformemente alle prescrizioni europee;
-  - 4\.2.3 in un Paese terzo: il rispetto dei requisiti di cui ai capitoli 1.1.8 e 2.1.13 del *Manuel des tests de diagnostic et des vaccins pour les animaux terrestres*[^annex4-lvlu1-lvl4-2] dell’Organizzazione mondiale per la salute animale.
+  - 4\.2.3 in un Paese terzo: il rispetto dei requisiti di cui ai capitoli 1.1.8 e 3.1.18 del *Manuel des tests de diagnostic et des vaccins pour les animaux terrestres*[^annex4-lvlu1-lvl4-2] dell’Organizzazione mondiale per la salute animale.
 
 [^annex4-lvlu1-lvl4-1]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^annex4-lvlu1-lvl4-2]: Manuel des tests de diagnostic et des vaccins pour les animaux terrestres, versione 2011; www.oie.int &gt; Français &gt; Normes internationales &gt; Manuel terrestre &gt; Accès en ligne
+[^annex4-lvlu1-lvl4-2]: Manuel des tests de diagnostic et des vaccins pour les animaux terrestres, versione 2022; [www.woah.org](https://www.woah.org/fr/ce-que-nous-faisons/normes/codes-et-manuels/acces-en-ligne-au-manuel-terrestre/) &gt; Français &gt; Ce que nous faisons &gt; Normes &gt; Codes et Manuels &gt; Manuel terrestre &gt; Accès.
 
 ### 5. Dichiarazioni
 
@@ -690,17 +721,18 @@ Per le dichiarazioni conformemente agli articoli 12 capoverso 3 lettera a, 13 ca
 
 [^annex4-lvlu1-lvl5-1]: Cfr. nota a piè di pagina nell’all. 3.
 
-Allegato 5*[^t-4]*
+Allegato 5[^t-5]
 
 (art. 16 cpv. 1)
 
 ## Misure prima dell’importazione di uccelli per quanto riguarda il certificato veterinario
 
-[^t-4]: Nuovo testo giusta il n. I dell’O dell’USAV del 16 feb. 2021, in vigore dal 18 feb. 2021 ([RU 2021 96](https://fedlex.data.admin.ch/eli/oc/2021/96)).
+[^t-5]: Nuovo testo giusta il n. II cpv. 1 dell’O del 31 mag. 2024, in vigore dal 1° lug. 2024 ([RU 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
 
-Si applicano i requisiti di cui agli allegati II e III della decisione 2007/25/CE[^annex5-lvlu1-1].
+Si applicano i requisiti del regolamento delegato (UE) 2021/1933[^annex5-lvlu1-1] e del regolamento di esecuzione (UE) 2021/1938[^annex5-lvlu1-2].
 
-[^annex5-lvlu1-1]: Decisione 2007/25/CE della Commissione, del 22 dicembre 2006, relativa a talune misure di protezione contro l’influenza aviaria ad alta patogenicità e ai movimenti di volatili al seguito dei rispettivi proprietari all’interno della Comunità, GU L 8 del 13.1.2007, pag. 29; modificata da ultimo dalla decisione di esecuzione (UE) 2020/2107, GU L 425 del 16.12.2020, pag. 103.
+[^annex5-lvlu1-1]: Regolamento delegato (UE) 2021/1933 della Commissione, del 14 luglio 2021, che integra il regolamento (UE) n. 576/2013 del Parlamento europeo e del Consiglio per quanto riguarda le norme per i movimenti a carattere non commerciale di uccelli da compagnia verso uno Stato membro da un territorio o un paese terzo, GU L 396 del 10.11.2021, pag. 4.
+[^annex5-lvlu1-2]: Regolamento di esecuzione (UE) 2021/1938 della Commissione, del 9 novembre 2021, che stabilisce il modello di documento di identificazione per i movimenti a carattere non commerciale di uccelli da compagnia verso uno Stato membro da un territorio o un paese terzo e che abroga la decisione 2007/25/CE, GU L 396 del 10.11.2021, pag. 47.
 
 Allegato 6
 
@@ -716,7 +748,7 @@ II
 
 Gli atti normativi qui appresso sono modificati come segue:
 
-### …F
+### …
 
 [^annex6-lvlu1-lvlu1-1]
 
