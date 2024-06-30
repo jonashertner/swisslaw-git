@@ -4,13 +4,12 @@ number: "585.100"
 title: Gesetz über den vorbeugenden Brandschutz
 short: "Brandschutzgesetz, BSG"
 language: de
-version: 2022-01-01
-valid_until: 2024-06-30
-version_adopted: 2020-12-08
+version: 2024-07-01
+version_adopted: 2023-09-19
 adopted: 1989-02-21
 in_force: 1992-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/585.100"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3097/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3460/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3097/pdf_file"
 
 (Brandschutzgesetz, BSG)
 
-Vom 21.02.1989 (Stand 01.01.2022)
+Vom 21.02.1989 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -289,9 +288,9 @@ beschliesst:
 
 <sup>1</sup> Für die Behandlung von Gesuchen um Erteilung von Bewilligungen und die Ausübung von Kontroll- und Vollstreckungsfunktionen im Sinne dieses Gesetzes kann die Gemeinde Gebühren erheben.
 
-<sup>2</sup> Die Aargauische Gebäudeversicherung erlässt ​für die Tätigkeiten, die sie gestützt auf dieses Gesetz wahrnimmt, einen Gebührentarif im Rahmen des Dekrets über die durch den Staat zu beziehenden Gebühren[^24-1]. Sie kann auf die Erhebung von Gebühren ganz oder teilweise verzichten.
+<sup>2</sup> Die Aargauische Gebäudeversicherung erlässt ​für die Tätigkeiten, die sie gestützt auf dieses Gesetz wahrnimmt, einen Gebührentarif im Rahmen des Gebührendekrets (GebührD) vom 19. September 2023[^24-1]. Sie kann auf die Erhebung von Gebühren ganz oder teilweise verzichten.
 
-[^24-1]: SAR [661.110](https://gesetzessammlungen.ag.ch/data/661.110/de)
+[^24-1]: SAR [662.110](https://gesetzessammlungen.ag.ch/data/662.110/de)
 
 ## 6. Rechtsschutz
 
