@@ -4,13 +4,13 @@ number: "301.100"
 title: Gesundheitsgesetz
 short: GesG
 language: de
-version: 2021-01-01
-valid_until: 2024-06-30
-version_adopted: 2020-06-30
+version: 2024-07-01
+valid_until: 2025-06-30
+version_adopted: 2023-09-19
 adopted: 2009-01-20
 in_force: 2010-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/301.100"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2910/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3629/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/2910/pdf_file"
 
 (GesG)
 
-Vom 20.01.2009 (Stand 01.01.2021)
+Vom 20.01.2009 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -184,7 +184,7 @@ beschliesst:
 
 <sup>4</sup> Die Einschränkung beziehungsweise der Entzug kann vorübergehend oder dauernd sowie für die ganze oder für einen Teil der Berufstätigkeit verfügt werden.
 
-<sup>5</sup> Die Kosten von Abklärungen und Expertisen in einem Verfahren gemäss dieser Bestimmung können den Betroffenen auferlegt werden.
+<sup>5</sup> …
 
 #### § 11
 
@@ -811,11 +811,7 @@ beschliesst:
 
 #### § 50
 
-**Kosten**
-
-<sup>1</sup> Bei der Anordnung von Verwaltungs- und Disziplinarmassnahmen können der Adressatin oder dem Adressaten der Verfügung auch im erstinstanzlichen Verfahren Kosten, bestehend aus einer Gebühr und den Auslagen, auferlegt werden.
-
-<sup>2</sup> Die Gebühr beträgt Fr. 50.– bis Fr. 5'000.–, bei ausserordentlich hohem Aufwand bis Fr. 50'000.–.
+**…**
 
 #### § 51
 
