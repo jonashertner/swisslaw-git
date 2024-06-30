@@ -3,20 +3,19 @@ canton: AG
 number: "210.511"
 title: Verordnung zum Bundesgesetz über den Erwerb von Grundstücken durch Personen im Ausland
 language: de
-version: 2005-09-01
-valid_until: 2024-06-30
-version_adopted: 2005-08-10
+version: 2024-07-01
+version_adopted: 2024-03-13
 adopted: 1987-10-05
 in_force: 1988-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/210.511"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/1296/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3485/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Bundesgesetz über den Erwerb von Grundstücken durch Personen im Ausland
 
-Vom 05.10.1987 (Stand 01.09.2005)
+Vom 05.10.1987 (Stand 01.07.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -31,9 +30,7 @@ beschliesst:
 
 **Bewilligungsbehörde**
 
-<sup>1</sup> Bewilligungsbehörde gemäss Art. 15 Abs. 1 lit. a BewG ist das Departement Volkswirtschaft und Inneres (Justizabteilung[^1-1]).
-
-[^1-1]: Heute: Abteilung Register und Personenstand
+<sup>1</sup> Bewilligungsbehörde gemäss Art. 15 Abs. 1 lit. a BewG ist das Departement Volkswirtschaft und Inneres (Abteilung Register und Personenstand).
 
 #### § 2
 
@@ -43,14 +40,7 @@ beschliesst:
 
 #### § 3
 
-**Gebühren**
-
-<sup>1</sup> Es werden, je nach Aufwand, folgende Gebühren erhoben:
-
-- a) für Verfügungen betreffend die Bewilligungspflicht, die Bewilligung und den Widerruf einer Bewilligung — Fr. 200.– bis Fr. 5'000.–
-- b) für den Widerruf von Auflagen — Fr. 50.– bis Fr. 1'000.–
-
-<sup>2</sup> Wird ein Gesuch abgewiesen, zurückgezogen oder gegenstandslos, kann die Gebühr, wenn die Umstände es rechtfertigen, herabgesetzt oder erlassen werden.
+**…**
 
 #### § 4
 
@@ -58,9 +48,7 @@ beschliesst:
 
 <sup>1</sup> Diese Verordnung ist in der Gesetzessammlung zu publizieren. Sie tritt mit dem Einführungsgesetz zum Bundesgesetz über den Erwerb von Grundstücken durch Personen im Ausland vom 23. Juni 1987 in Kraft.
 
-<sup>2</sup> Die Verordnung vom 5. November 1984 zum Bundesgesetz über den Erwerb von Grundstücken durch Personen im Ausland[^4-1] ist aufgehoben.
-
-[^4-1]: AGS Bd. 11 S. 435
+<sup>2</sup> …
 
 Aarau, den 5. Oktober 1987
 
