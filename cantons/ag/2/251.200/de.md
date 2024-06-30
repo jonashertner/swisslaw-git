@@ -4,13 +4,12 @@ number: "251.200"
 title: Einführungsgesetz zur Schweizerischen Strafprozessordnung
 short: EG StPO
 language: de
-version: 2024-06-01
-valid_until: 2024-06-30
-version_adopted: 2023-12-12
+version: 2024-07-01
+version_adopted: 2023-09-19
 adopted: 2010-03-16
 in_force: 2011-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/251.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3414/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3617/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3414/pdf_file"
 
 (EG StPO)
 
-Vom 16.03.2010 (Stand 01.06.2024)
+Vom 16.03.2010 (Stand 01.07.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -542,11 +541,11 @@ beschliesst:
 
 #### § 41
 
-**Verfahrens- und Parteikosten**
+**Parteikosten**
 
-<sup>1</sup> Der Grosse Rat regelt durch Dekret die Bemessung der Gebühren für Verfügungen und Entscheide der Strafbehörden sowie der Parteikosten.
+<sup>1</sup> Der Grosse Rat regelt durch Dekret die Bemessung der Parteikosten.
 
-<sup>2</sup> Die Gerichtskosten dürfen die Rechtsverfolgung, insbesondere im Rechtsmittelverfahren, nicht unangemessen erschweren.
+<sup>2</sup> …
 
 ## 12. Vollstreckung
 
