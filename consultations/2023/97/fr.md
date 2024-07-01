@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Rapport sur l’évaluation de l’efficacité 2020-2025 de la péréquation financière entre la Confédération et les cantons
 document: Projet mis en consultation
 language: fr

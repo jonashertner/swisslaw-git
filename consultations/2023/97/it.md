@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Rapporto sull’efficacia 2020–2025 della perequazione finanziaria tra Confederazione e Cantoni
 document: Progetto posto in consultazione
 language: it

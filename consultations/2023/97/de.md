@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Wirksamkeitsbericht 2020–2025 des Finanzausgleichs zwischen Bund und Kantone
 document: Vernehmlassungsvorlage
 language: de
