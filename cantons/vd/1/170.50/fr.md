@@ -1,17 +1,17 @@
 ---
 canton: VD
 number: "170.50"
-title: ARRÊTÉ du 19.06.2024 de mise en vigueur
+title: ARRÊTÉ du 26.06.2024 de mise en vigueur
 language: fr
-version: 2024-06-25
-url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=4d0d308d-964e-4d5f-97d4-0dd148c0b3e5"
+version: 2024-07-02
+url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=c2fb8b67-fe0c-411e-b624-961333ee09bf"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
 
 # ARRÊTÉ de mise en vigueur
 
-du 19 juin 2024
+du 26 juin 2024
 
 LE CONSEIL D'ÉTAT DU CANTON DE VAUD
 
@@ -21,4 +21,8 @@ arrête
 
 #### Art. 1
 
-<sup>1</sup> La loi du 16 janvier 2024 modifiant la loi sur les hautes écoles vaudoises de type HES (BLV 419.01) publiée dans la "Feuille des avis officiels du Canton de Vaud" du 30 janvier 2024, entre en vigueur avec effet au 1er août 2024.
+<sup>1</sup> Les actes législatifs ci-après du 26 mars 2024, publiés dans la "Feuille des avis officiels du Canton de Vaud" du 19 avril 2024, entrent en vigueur avec effet au 1er juillet 2024 :
+
+- 1\. loi du 26 mars 2024 modifiant celle du 30 août 2022 sur la protection du patrimoine naturel et paysager (BLV 450.11) ;
+- 2\. décret du 26 mars 2024 accordant au Conseil d'Etat un crédit d'investissement de CHF 80'060'000.- pour financer la construction du nouveau Gymnase du Chablais à Aigle (BLV 412.00) ;
+- 3\. décret du 26 mars 2024 accordant au Conseil d'Etat un crédit de CHF 16'870'000.- destiné à financer les impératifs législatifs et stratégiques et les travaux de "Métamorphose 2030" de la Direction générale de la fiscalité (BLV 642.00).
