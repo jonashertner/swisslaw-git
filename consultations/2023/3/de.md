@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Teilrevision der Verordnung des WBF über den nachträglichen Erwerb des Fachhochschultitels
 document: Vernehmlassungsvorlage
 language: de

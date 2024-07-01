@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision partielle de l’ordonnance du DEFR sur l’obtention a posteriori du titre d’une haute école spécialisée
 document: Projet mis en consultation
 language: fr
