@@ -3,20 +3,20 @@ canton: LU
 number: 736a
 title: Beschluss über die gemeindeweise Inkraftsetzung von neuen Bestimmungen im Planungs- und Baurecht
 language: de
-version: 2024-04-16
-valid_until: 2024-07-01
-version_adopted: 2024-04-16
+version: 2024-07-02
+valid_until: 2024-09-23
+version_adopted: 2024-07-02
 adopted: 2017-07-04
 in_force: 2017-07-04
 url: "https://srl.lu.ch/app/de/texts_of_law/736a"
-pdf: "https://srl.lu.ch/api/de/versions/4199/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4213/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Beschluss über die gemeindeweise Inkraftsetzung von neuen Bestimmungen im Planungs- und Baurecht
 
-vom 04.07.2017 (Stand 16.04.2024)
+vom 04.07.2017 (Stand 02.07.2024)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -70,6 +70,7 @@ beschliesst:
 <tr><td>Schongau</td><td>5. Juni 2023</td><td>12. Dezember 2023</td></tr>
 <tr><td>Beromünster</td><td>27. November 2022</td><td>9. Januar 2024</td></tr>
 <tr><td>Mauensee</td><td>20. Juni 2023</td><td>16. April 2024</td></tr>
+<tr><td>Hohenrain</td><td>5. Mai 2023</td><td>2. Juli 2024</td></tr>
 </table>
 
 [^Ziff1-1]: SRL Nr. [735](https://srl.lu.ch/data/735/de)
