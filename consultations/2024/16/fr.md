@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision totale de l’Ordonnance du SEFRI concernant les conditions minimales relatives à la culture générale dans la formation professionnelle initiale
 document: Projet mis en consultation
 language: fr

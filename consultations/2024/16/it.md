@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione totale dell’Ordinanza della SEFRI sulle prescrizioni minime in materia di cultura generale nella formazione professionale di base
 document: Progetto posto in consultazione
 language: it
