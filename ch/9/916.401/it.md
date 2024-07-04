@@ -4,11 +4,11 @@ title: Ordinanza del 27 giugno 1995 sulle epizoozie (OFE)
 short: OFE
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716"
 language: it
-version: 2024-07-01
+version: 2024-07-05
 adopted: 1995-06-27
 in_force: 1995-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20240701/it/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20240701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20240701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20240705/it/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20240705-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20240705/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20240701/it"
 
 (OFE)
 
-del 27 giugno 1995 (Stato 1° luglio 2024)
+del 27 giugno 1995 (Stato 5 luglio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -4828,19 +4828,19 @@ Le perdite di animali secondo l’articolo 32 capoverso 1 lettere a e b LFE non 
 
 **Diagnosi**
 
-<sup>1</sup> È diagnosticata l’artrite encefalite virale caprina (AEC) qualora l’analisi sierologica abbia dato esito positivo o sia stato messo in evidenza l’agente infettivo.[^217-1]
+<sup>1</sup> È diagnosticata l’artrite/encefalite caprina (CAE) qualora l’analisi sierologica abbia dato un risultato positivo o sia stato messo in evidenza l’agente infettivo.[^217-1]
 
-<sup>2</sup> L’USAV definisce i metodi di analisi per la messa in evidenza dell’AEC.
+<sup>2</sup> L’USAV definisce i metodi di analisi per la messa in evidenza dell’ CAE.
 
 <sup>3</sup> Il periodo di incubazione è di due anni.
 
-[^217-1]: Nuovo testo giusta il n. I dell’O del 20 giu. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
+[^217-1]: Nuovo testo giusta il n. I dell’O del 20 giu. 2014, in vigore dal 1° ago. 2014 ([RU 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)). Correzione del 5 lug. 2024 ([RU 2024 340](https://fedlex.data.admin.ch/eli/oc/2024/340)).
 
 #### Art. 218
 
 **Riconoscimento ufficiale[^218-1]**
 
-<sup>1</sup> Tutti gli effettivi di caprini sono riconosciuti ufficialmente indenni da AEC. In caso di sospetto o di epizoozia, all’effettivo colpito è tolto il riconoscimento ufficiale fino alla revoca del sequestro.
+<sup>1</sup> Tutti gli effettivi di caprini sono riconosciuti ufficialmente indenni da CAE. In caso di sospetto o di epizoozia, all’effettivo colpito è tolto il riconoscimento ufficiale fino alla revoca del sequestro.
 
 <sup>2</sup> ...[^218-2]
 
@@ -4853,14 +4853,14 @@ Le perdite di animali secondo l’articolo 32 capoverso 1 lettere a e b LFE non 
 
 <sup>1</sup>
 
-Vi è sospetto di AEC quando sintomi clinici lo indicano. Se vi è un tale sospetto, il veterinario cantonale ordina:
+Vi è sospetto di CAE quando sintomi clinici lo indicano. Se vi è un tale sospetto, il veterinario cantonale ordina:
 
 - a. il sequestro semplice di 1° grado sull’effettivo colpito fino alla confutazione del sospetto; e
 - b. l’immediata analisi sierologica di tutti gli animali sospetti dell’effettivo.
 
 <sup>2</sup> Il sospetto è considerato confutato se l’analisi virologica degli animali sospetti ha fornito un risultato negativo.
 
-<sup>3</sup> Vi è sospetto di contagio da AEC se esistono dati epidemiologici in tal senso. Se vi è un tale sospetto, il veterinario cantonale ordina il sequestro semplice di 1° grado sull’effettivo colpito fino alla confutazione del sospetto.
+<sup>3</sup> Vi è sospetto di contagio da CAE se esistono dati epidemiologici in tal senso. Se vi è un tale sospetto, il veterinario cantonale ordina il sequestro semplice di 1° grado sull’effettivo colpito fino alla confutazione del sospetto.
 
 <sup>4</sup>
 
@@ -4877,7 +4877,7 @@ Il sospetto di contagio risulta invalidato quando:[^219-1]
 
 <sup>1</sup>
 
-In caso di diagnosi di AEC il veterinario cantonale ordina il sequestro semplice di 1° grado sull’effettivo infetto. Ordina inoltre:
+In caso di diagnosi di CAE il veterinario cantonale ordina il sequestro semplice di 1° grado sull’effettivo infetto. Ordina inoltre:
 
 - a. l’eliminazione degli animali infetti;
 - b. l’eliminazione dei discendenti di femmine infette nati durante gli ultimi 24 mesi;
@@ -4890,7 +4890,7 @@ Revoca il sequestro dopo che:
 - a. tutti gli animali dell’effettivo sono stati eliminati e le stalle sono state pulite e disinfettate; oppure
 - b. l’analisi sierologica dell’effettivo, eseguita al più presto sei mesi dopo l’eliminazione degli animali infetti nonché dei loro discendenti nati durante gli ultimi 24 mesi e una volta concluse la pulizia e la disinfezione, ha fornito un risultato negativo in tutti gli animali.
 
-<sup>3</sup> Sei e 12 mesi dopo la revoca del sequestro tutti gli animali dell’effettivo devono essere sottoposti a un’ulteriore analisi sierologica per accertare la presenza di AEC.
+<sup>3</sup> Sei e 12 mesi dopo la revoca del sequestro tutti gli animali dell’effettivo devono essere sottoposti a un’ulteriore analisi sierologica per accertare la presenza di CAE.
 
 #### Art. 221
 

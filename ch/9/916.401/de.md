@@ -4,11 +4,11 @@ title: Tierseuchenverordnung vom 27. Juni 1995 (TSV)
 short: TSV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716"
 language: de
-version: 2024-07-01
+version: 2024-07-05
 adopted: 1995-06-27
 in_force: 1995-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20240701/de/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20240701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20240705/de/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20240705-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20240705/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20240701/de"
 
 (TSV)
 
-vom 27. Juni 1995 (Stand am 1. Juli 2024)
+vom 27. Juni 1995 (Stand am 5. Juli 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -4824,7 +4824,7 @@ Tierverluste nach Artikel 32 Absatz 1 Buchstaben a und b TSG werden nicht entsch
 
 <sup>3</sup> Die Inkubationszeit beträgt zwei Jahre.
 
-[^217-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 1. Aug. 2014 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
+[^217-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 1. Aug. 2014 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)). Die Berichtigung vom 5. Juli 2024 betrifft nur den französischen und italienischen Text ([AS 2024 340](https://fedlex.data.admin.ch/eli/oc/2024/340)).
 
 #### Art. 218
 

@@ -4,11 +4,11 @@ title: Ordonnance du 27 juin 1995 sur les épizooties (OFE)
 short: OFE
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716"
 language: fr
-version: 2024-07-01
+version: 2024-07-05
 adopted: 1995-06-27
 in_force: 1995-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20240701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20240705/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20240705-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20240705/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20240701/fr"
 
 (OFE)
 
-du 27 juin 1995 (État le 1<sup>er</sup> juillet 2024)
+du 27 juin 1995 (État le 5 juillet 2024)
 
 Le Conseil fédéral suisse,
 
@@ -4832,17 +4832,19 @@ Il n’est pas alloué d’indemnité pour les pertes d’animaux mentionnées �
 
 **Diagnostic**
 
-<sup>1</sup> Le diagnostic d’arthrite/encéphalite caprine (AEC) est établi lorsque l’examen sérologique a donné un résultat positif ou lorsque l’agent infectieux a été mis en évidence.
+<sup>1</sup> Le diagnostic d’arthrite/encéphalite caprine (CAE) est établi lorsque l’examen sérologique a donné un résultat positif ou lorsque l’agent infectieux a été mis en évidence.[^217-1]
 
-<sup>2</sup> L’OSAV détermine les méthodes d’examen pour le diagnostic de l’AEC.
+<sup>2</sup> L’OSAV détermine les méthodes d’examen pour le diagnostic de la CAE.
 
 <sup>3</sup> La période d’incubation est de deux ans.
+
+[^217-1]: Erratum du 5 juil. 2024 ([RO 2024 340](https://fedlex.data.admin.ch/eli/oc/2024/340)).
 
 #### Art. 218
 
 **Statut officiel[^218-1]**
 
-<sup>1</sup> Tous les troupeaux de chèvres sont reconnus officiellement indemnes d’AEC. En cas de suspicion ou de constat d’AEC, le statut indemne d’AEC est retiré au troupeau touché jusqu’à la levée du séquestre.
+<sup>1</sup> Tous les troupeaux de chèvres sont reconnus officiellement indemnes de CAE. En cas de suspicion ou de constat de CAE, le statut indemne de CAE est retiré au troupeau touché jusqu’à la levée du séquestre.
 
 <sup>2</sup> …[^218-2]
 
@@ -4851,18 +4853,18 @@ Il n’est pas alloué d’indemnité pour les pertes d’animaux mentionnées �
 
 #### Art. 219
 
-**Mesures en cas de suspicion d’AEC**
+**Mesures en cas de suspicion de CAE**
 
 <sup>1</sup>
 
-Il y a suspicion d’AEC si des symptômes cliniques caractéristiques de cette atteinte sont constatés. En cas de suspicion, le vétérinaire cantonal ordonne:
+Il y a suspicion de CAE si des symptômes cliniques caractéristiques de cette atteinte sont constatés. En cas de suspicion, le vétérinaire cantonal ordonne:
 
 - a. le séquestre simple de premier degré sur le troupeau concerné jusqu’à ce que la suspicion soit infirmée, et
 - b. l’examen sérologique immédiat de tous les animaux suspects du troupeau.
 
 <sup>2</sup> La suspicion est considérée comme infirmée lorsque l’examen sérologique des animaux suspects a donné un résultat négatif.
 
-<sup>3</sup> Il y a suspicion de contagion par l’AEC si l’on dispose d’indices épidémiologiques dans ce sens. En cas d’une telle suspicion, le vétérinaire cantonal ordonne le séquestre simple de premier degré sur le troupeau contaminé jusqu’à ce que la suspicion soit infirmée.
+<sup>3</sup> Il y a suspicion de contagion par la CAE si l’on dispose d’indices épidémiologiques dans ce sens. En cas d’une telle suspicion, le vétérinaire cantonal ordonne le séquestre simple de premier degré sur le troupeau contaminé jusqu’à ce que la suspicion soit infirmée.
 
 <sup>4</sup>
 
@@ -4875,11 +4877,11 @@ L’exposition à la contagion est considérée comme infirmée:[^219-1]
 
 #### Art. 220
 
-**Mesures en cas de constat d’AEC**
+**Mesures en cas de constat de CAE**
 
 <sup>1</sup>
 
-Si l’AEC est constatée, le vétérinaire cantonal ordonne le séquestre simple de premier degré sur le troupeau contaminé. Il ordonne en outre:
+Si la CAE est constatée, le vétérinaire cantonal ordonne le séquestre simple de premier degré sur le troupeau contaminé. Il ordonne en outre:
 
 - a. l’élimination des animaux contaminés;
 - b. l’élimination des descendants de femelles contaminées nés dans les derniers 24 mois;
@@ -4892,7 +4894,7 @@ Il lève le séquestre:
 - a. lorsque tous les animaux du troupeau ont été éliminés et que les locaux de stabulation ont été nettoyés et désinfectés, ou
 - b. lorsque, six mois au moins après l’élimination des animaux contaminés et de leurs descendants nés dans les derniers 24 mois et suite au nettoyage et à la désinfection des locaux de stabulation, l’examen sérologique du troupeau a donné un résultat négatif chez tous les animaux.
 
-<sup>3</sup> Six et douze mois après la levée du séquestre, tous les animaux du troupeau doivent subir un examen sérologique de contrôle à l’égard de l’AEC.
+<sup>3</sup> Six et douze mois après la levée du séquestre, tous les animaux du troupeau doivent subir un examen sérologique de contrôle à l’égard de la CAE.
 
 #### Art. 221
 
