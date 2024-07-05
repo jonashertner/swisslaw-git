@@ -4,11 +4,11 @@ title: "Costituzione della Repubblica e Cantone di Ginevra, del 14 ottobre 2012 
 short: Cost.-GE
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/1846_fga"
 language: it
-version: 2024-03-23
+version: 2024-07-06
 adopted: 2012-10-14
 in_force: 2013-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20240323/it/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20240323-it-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20240323/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20240706/it/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20240706-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20240706/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -19,7 +19,7 @@ Traduzione[^t-1]
 
 (Cost.-GE)
 
-del 14 ottobre 2012 (Stato 23 marzo 2024)[^t-2]
+del 14 ottobre 2012 (Stato 6 luglio 2024)[^t-2]
 
 [^t-1]: Il testo nella lingua originale è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
 [^t-2]: La presente pubblicazione si basa sulle modifiche contenute nei messaggi concernenti il conferimento della garanzia federale pubblicati nel FF. Può divergere temporaneamente dalla versione pubblicata nella raccolta cantonale delle leggi.
@@ -97,7 +97,7 @@ La legge disciplina l’acquisto e la perdita della cittadinanza ginevrina.
 **Stemma e motto**
 
 <table>
-<tr><td><sup>1</sup> Lo stemma della Repubblica e Cantone di Ginevra rappresenta la fusione dell’aquila nera con testa coronata su fondo giallo e della chiave d’oro su fondo rosso. Il cimiero rappresenta un sole che si leva sul bordo superiore e che riporta il trigramma IHS in lettere greche. <sup>2</sup> Il motto è «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20240323/it/xml/image/image1.png)</td></tr>
+<tr><td><sup>1</sup> Lo stemma della Repubblica e Cantone di Ginevra rappresenta la fusione dell’aquila nera con testa coronata su fondo giallo e della chiave d’oro su fondo rosso. Il cimiero rappresenta un sole che si leva sul bordo superiore e che riporta il trigramma IHS in lettere greche. <sup>2</sup> Il motto è «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20240706/it/xml/image/image1.png)</td></tr>
 </table>
 
 #### Art. 7A
@@ -106,7 +106,7 @@ La legge disciplina l’acquisto e la perdita della cittadinanza ginevrina.
 
 L’inno ufficiale della Repubblica e del Cantone di Ginevra è «Cé qu’è lainô» in arpitano ginevrino.
 
-[^7A-1]: Accettato nella [votazione popolare del 3 mar. 2024](http://www.admin.ch/ch/i/pore/va/20240303/index.html), in vigore dal 3 mar. 2024. Garanzia dell’AF del 17 mar. 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 1; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
+[^7A-1]: Accettato nella votazione popolare del 3 mar. 2024, in vigore dal 3 mar. 2024. Garanzia dell’AF del 17 mar. 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 1; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### Art. 8
 
@@ -236,7 +236,7 @@ Ognuno ha diritto alla libertà personale, alla sicurezza e alla libertà di mov
 
 <sup>4</sup> Lo Stato promuove l’inclusione digitale e sensibilizza la popolazione alle sfide della digitalizzazione. Si impegna a favore dello sviluppo della sovranità digitale della Svizzera e collabora alla sua attuazione.
 
-[^21A-1]: Accettato nella [votazione popolare del 18 giu. 2023](http://www.admin.ch/ch/i/pore/va/20230618/index.html), in vigore dall’8 lug. 2023. Garanzia dell’AF del 18 set. 2024 ([FF 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)art. 3,[1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
+[^21A-1]: Accettato nella votazione popolare del 18 giu. 2023, in vigore dall’8 lug. 2023. Garanzia dell’AF del 18 set. 2024 ([FF 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)art. 3,[1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
 
 #### Art. 22
 
@@ -390,7 +390,7 @@ Il diritto all’alloggio è garantito. Chiunque si trovi in stato di bisogno ha
 
 Il diritto all’alimentazione è garantito. Ognuno ha diritto a un’alimentazione adeguata e di essere al riparo dalla fame.
 
-[^38A-1]: Accettato nella [votazione popolare del 18 giu. 2023](http://www.admin.ch/ch/i/pore/va/20230618/index.html), in vigore dall’8 lug. 2023. Garanzia dell’AF del 18 set. 2024 ([FF 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)art. 3,[1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
+[^38A-1]: Accettato nella votazione popolare del 18 giu. 2023, in vigore dall’8 lug. 2023. Garanzia dell’AF del 18 set. 2024 ([FF 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)art. 3,[1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
 
 #### Art. 39
 
@@ -498,7 +498,7 @@ Il diritto di utilizzare gratuitamente il suolo pubblico per la raccolta di firm
 
 <sup>4</sup> ...[^48-1]
 
-[^48-1]: Abrogato nella [votazione popolare del 29 nov. 2020](http://www.admin.ch/ch/i/pore/va/20201129/index.html), con effetto dal 19 dic. 2020. aranzia dell’AF del 21 set. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 cpv. 2, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^48-1]: Abrogato nella votazione popolare del 29 nov. 2020, con effetto dal 19 dic. 2020. aranzia dell’AF del 21 set. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 cpv. 2, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 #### Art. 49
 
@@ -587,7 +587,7 @@ Il corpo elettorale comunale elegge:
 
 <sup>3</sup> Dopo la sua pubblicazione, un’iniziativa costituzionale non può essere trasformata in iniziativa legislativa.
 
-[^56-1]: Accettato nella [votazione popolare del 3 mar. 2024](http://www.admin.ch/ch/i/pore/va/20240303/index.html), in vigore dal 3 mar. 2024. Garanzia dell’AF del 17 mar. 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 1; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
+[^56-1]: Accettato nella votazione popolare del 3 mar. 2024, in vigore dal 3 mar. 2024. Garanzia dell’AF del 17 mar. 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 1; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### Art. 57
 
@@ -597,7 +597,7 @@ Il corpo elettorale comunale elegge:
 
 <sup>2</sup> L’iniziativa può essere elaborata o non elaborata. Un’iniziativa parzialmente elaborata è considerata come non elaborata.
 
-[^57-1]: Accettato nella [votazione popolare del 3 mar. 2024](http://www.admin.ch/ch/i/pore/va/20240303/index.html), in vigore dal 3 mar. 2024. Garanzia dell’AF del 17 mar. 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 1; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
+[^57-1]: Accettato nella votazione popolare del 3 mar. 2024, in vigore dal 3 mar. 2024. Garanzia dell’AF del 17 mar. 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 1; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### Art. 58
 
@@ -702,7 +702,7 @@ Se il referendum è chiesto da 500 titolari dei diritti politici, sono sottopost
 
 <sup>3</sup> Gli atti di cui al presente articolo sono sottoposti al corpo elettorale anche quando il Gran Consiglio lo decide a maggioranza dei due terzi dei voti espressi, senza tener conto delle astensioni, ma almeno a maggioranza dei membri.
 
-[^67-1]: Accettato nella [votazione popolare del 3 mar. 2024](http://www.admin.ch/ch/i/pore/va/20240303/index.html), in vigore dal 3 mar. 2024. Garanzia dell’AF del 17 mar. 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 1; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
+[^67-1]: Accettato nella votazione popolare del 3 mar. 2024, in vigore dal 3 mar. 2024. Garanzia dell’AF del 17 mar. 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 1; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### Art. 68
 
@@ -712,7 +712,7 @@ Se il referendum è chiesto da 500 titolari dei diritti politici, sono sottopost
 
 <sup>2</sup> Il termine di scadenza è sospeso fino al 15° giorno dopo Pasqua compreso, dal 15 luglio al 15 agosto compreso e dal 23 dicembre al 3 gennaio compreso.[^68-1]
 
-[^68-1]: Accettato nella [votazione popolare del 3 mar. 2024](http://www.admin.ch/ch/i/pore/va/20240303/index.html), in vigore dal 3 mar. 2024. Garanzia dell’AF del 17 mar. 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 1; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
+[^68-1]: Accettato nella votazione popolare del 3 mar. 2024, in vigore dal 3 mar. 2024. Garanzia dell’AF del 17 mar. 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 1; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### Art. 69
 
@@ -746,7 +746,7 @@ Può chiedere al Consiglio comunale di deliberare su un oggetto determinato:
 
 <sup>3</sup> Sono applicabili gli articoli 58 e 59.
 
-[^71-1]: Accettato nella [votazione popolare del 3 mar. 2024](http://www.admin.ch/ch/i/pore/va/20240303/index.html), in vigore dal 3 mar. 2024. Garanzia dell’AF del 17 mar. 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 1; [202](https://fedlex.data.admin.ch/eli/fga/2025/202)**4** 2852).
+[^71-1]: Accettato nella votazione popolare del 3 mar. 2024, in vigore dal 3 mar. 2024. Garanzia dell’AF del 17 mar. 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 1; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### Art. 72
 
@@ -814,7 +814,7 @@ Le delibere dei Consigli comunali sono sottoposte al voto del corpo elettorale c
 
 <sup>2</sup> È applicabile l’articolo 68.
 
-[^77-1]: Accettato nella [votazione popolare del 3 mar. 2024](http://www.admin.ch/ch/i/pore/va/20240303/index.html), in vigore dal 3 mar. 2024. Garanzia dell’AF del 17 mar. 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 1; [202](https://fedlex.data.admin.ch/eli/fga/2025/202)**4** 2852).
+[^77-1]: Accettato nella votazione popolare del 3 mar. 2024, in vigore dal 3 mar. 2024. Garanzia dell’AF del 17 mar. 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 1; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### Art. 78
 
@@ -1072,8 +1072,8 @@ I membri del Consiglio di Stato esercitano liberamente il loro mandato. Rendono 
 
 <sup>3</sup> Tali mandati non sono rinnovabili l’anno successivo. Il presidente uscente non può essere nominato vicepresidente l’anno successivo.[^105-2]
 
-[^105-1]: Accettato nella [votazione popolare del 27 feb. 2020](http://www.admin.ch/ch/i/pore/va/20200227/index.html), in vigore dal 17 ott. 2020. Garanzia dell’AF del 21 set. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 cpv. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
-[^105-2]: Accettato nella [votazione popolare del 27 feb. 2020](http://www.admin.ch/ch/i/pore/va/20200227/index.html), in vigore dal 17 ott. 2020. Garanzia dell’AF del 21 set. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 cpv. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^105-1]: Accettato nella votazione popolare del 27 feb. 2020, in vigore dal 17 ott. 2020. Garanzia dell’AF del 21 set. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 cpv. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^105-2]: Accettato nella votazione popolare del 27 feb. 2020, in vigore dal 17 ott. 2020. Garanzia dell’AF del 21 set. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 cpv. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 #### Art. 106
 
@@ -1085,7 +1085,7 @@ I membri del Consiglio di Stato esercitano liberamente il loro mandato. Rendono 
 
 <sup>3</sup> ...[^106-1]
 
-[^106-1]: Abrogato nella [votazione popolare del 27 feb. 2020](http://www.admin.ch/ch/i/pore/va/20200227/index.html), con effetto dal 17 ott. 2020. Garanzia dell’AF del 21 set. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 cpv. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^106-1]: Abrogato nella votazione popolare del 27 feb. 2020, con effetto dal 17 ott. 2020. Garanzia dell’AF del 21 set. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 cpv. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 ### Sezione 4: Competenza
 
@@ -1608,9 +1608,9 @@ L’attuazione cantonale delle riforme federali della fiscalità rispetta i prin
 - b) mantenimento del livello delle entrate fiscali cantonali e comunali;
 - c) rafforzamento della progressività dell’imposta.[^155-3]
 
-[^155-1]: Accettato nella [votazione popolare del 27 feb. 2020](http://www.admin.ch/ch/i/pore/va/20200227/index.html), in vigore dal 17 ott. 2020. Garanzia dell’AF del 21 set. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 cpv. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
-[^155-2]: Accettato nella [votazione popolare del 27 feb. 2020](http://www.admin.ch/ch/i/pore/va/20200227/index.html), in vigore dal 17 ott. 2020. Garanzia dell’AF del 21 set. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 cpv. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
-[^155-3]: Accettato nella [votazione popolare del 27 feb. 2020](http://www.admin.ch/ch/i/pore/va/20200227/index.html), in vigore dal 17 ott. 2020. Garanzia dell’AF del 21 set. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 cpv. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^155-1]: Accettato nella votazione popolare del 27 feb. 2020, in vigore dal 17 ott. 2020. Garanzia dell’AF del 21 set. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 cpv. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^155-2]: Accettato nella votazione popolare del 27 feb. 2020, in vigore dal 17 ott. 2020. Garanzia dell’AF del 21 set. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 cpv. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^155-3]: Accettato nella votazione popolare del 27 feb. 2020, in vigore dal 17 ott. 2020. Garanzia dell’AF del 21 set. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 cpv. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 #### Art. 156
 
@@ -1788,8 +1788,8 @@ Le autorità cantonali si oppongono con ogni mezzo di cui dispongono e nei limit
 
 <sup>2</sup> Il disavanzo d’esercizio di tale servizio è coperto da una sovvenzione iscritta ogni anno nel preventivo dello Stato.
 
-[^174A-1]: Accettato nella [votazione popolare del 27 feb. 2020](http://www.admin.ch/ch/i/pore/va/20200227/index.html), in vigore dal 17 ott. 2020. Garanzia dell’AF del 21 set. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 cpv. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
-[^174A-2]: La designazione dell’unità amministrative è stata adeguata in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^174A-1]: Accettato nella votazione popolare del 27 feb. 2020, in vigore dal 17 ott. 2020. Garanzia dell’AF del 21 set. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 cpv. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^174A-2]: La designazione dell’unità amministrative è stata adeguata in applicazione dell’art. 12 cpv. 2 della L del 18 giu. 2004 sulle pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 
 #### Art. 174
 
@@ -2151,6 +2151,16 @@ Lo Stato tiene conto delle esigenze della solidarietà intergenerazionale nella 
 
 <sup>2</sup> Facilita la loro naturalizzazione. La procedura è semplice e rapida. Può essere richiesto un emolumento solo a copertura delle spese.
 
+#### Art. 210A
+
+**Lotta contro le discriminazioni e l’odio**[^210A-1]
+
+<sup>1</sup> Lo Stato attua una politica di lotta contro le discriminazioni e l’odio.
+
+<sup>2</sup> Negli spazi pubblici è vietato esibire o indossare simboli, emblemi o altri oggetti di odio, in particolare di stampo nazionalsocialista. La legge disciplina le eccezioni e prevede sanzioni.
+
+[^210A-1]: Accettato nella votazione del 9 giu. 2024, in vigore dal 6 lug. 2024. Garanzia dell’AF del 22 set. 2025 ([FF 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)art. 5, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
+
 #### Art. 211
 
 **Associazioni e volontariato**
@@ -2215,7 +2225,7 @@ Lo Stato tiene conto delle esigenze della solidarietà intergenerazionale nella 
 
 <sup>4</sup> Il Cantone e i Comuni elaborano e attuano una strategia di cofinanziamento della creazione artistica e delle istituzioni culturali.
 
-[^216-1]: Accettato nella [votazione popolare del 19 mag. 2019](http://www.admin.ch/ch/i/pore/va/20190519/index.html), in vigore dal 15 giu. 2019. Garanzia dell’AF dell’11 mar. 2020 ([FF 2020 4199](https://fedlex.data.admin.ch/eli/fga/2020/1084)art. 5 [137](https://fedlex.data.admin.ch/eli/fga/2020/12)).
+[^216-1]: Accettato nella votazione popolare del 19 mag. 2019, in vigore dal 15 giu. 2019. Garanzia dell’AF dell’11 mar. 2020 ([FF 2020 4199](https://fedlex.data.admin.ch/eli/fga/2020/1084)art. 5 [137](https://fedlex.data.admin.ch/eli/fga/2020/12)).
 
 #### Art. 217
 
@@ -2327,7 +2337,7 @@ L’articolo 131 si applica per analogia al controllo e alla verifica interni ol
 
 <sup>3</sup> Le persone private dei diritti politici riacquisiscono immediatamente tali diritti con l’entrata in vigore della legge costituzionale del 29 novembre 2020.[^228-1]
 
-[^228-1]: Accettato nella [votazione popolare del 29 nov. 2020](http://www.admin.ch/ch/i/pore/va/20201129/index.html), in vigore dal 19 dic. 2020. Garanzia dell’AF del 21 set. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 cpv. 2, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^228-1]: Accettato nella votazione popolare del 29 nov. 2020, in vigore dal 19 dic. 2020. Garanzia dell’AF del 21 set. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 cpv. 2, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 #### Art. 229
 
@@ -3195,6 +3205,11 @@ Libertà
 - – dei segni 16
 - – promozione della 5
 - – ufficiale 5
+
+**Lotta**
+
+- – contro la speculazione fondiaria 178
+- – contro la le discriminazioni e l’odio 210A
 
 Maggioritario
 

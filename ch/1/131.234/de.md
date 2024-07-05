@@ -4,11 +4,11 @@ title: "Verfassung der Republik und des Kantons Genf, vom 14. Oktober 2012 (KV-G
 short: KV-GE
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/1846_fga"
 language: de
-version: 2024-03-23
+version: 2024-07-06
 adopted: 2012-10-14
 in_force: 2013-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20240323/de/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20240323-de-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20240323/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20240706/de/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20240706-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20240706/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20240323/de"
 
 (KV-GE)
 
-vom 14. Oktober 2012 (Stand am 23. März 2024)[^t-2]
+vom 14. Oktober 2012 (Stand am 6. Juli 2024)[^t-2]
 
 [^t-1]: Der Text in der französischen Originalsprache findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
 [^t-2]: Diese Veröffentlichung basiert auf jenen der Änderungen im Rahmen der Gewährleistungsbotschaften im BBl. Sie kann vorübergehend von der Veröffentlichung in der kantonalen Gesetzessammlung abweichen.
@@ -97,7 +97,7 @@ Das Gesetz regelt Erwerb und Verlust des Genfer Bürgerrechts.
 **Wappen und Devise**
 
 <table>
-<tr><td><sup>1</sup> Das Wappen der Republik und des Kantons Genf vereint einen schwarzen Adler mit Krone auf gelbem Hintergrund und einen goldenen Schlüssel auf rotem Hintergrund. Das Zimier stellt eine Sonne dar, die am oberen Rand aufgeht und die drei Buchstaben IHS in griechischer Schrift trägt. <sup>2</sup> Die Devise lautet «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20240323/de/xml/image/image1.png)</td></tr>
+<tr><td><sup>1</sup> Das Wappen der Republik und des Kantons Genf vereint einen schwarzen Adler mit Krone auf gelbem Hintergrund und einen goldenen Schlüssel auf rotem Hintergrund. Das Zimier stellt eine Sonne dar, die am oberen Rand aufgeht und die drei Buchstaben IHS in griechischer Schrift trägt. <sup>2</sup> Die Devise lautet «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20240706/de/xml/image/image1.png)</td></tr>
 </table>
 
 #### Art. 7A
@@ -106,7 +106,7 @@ Das Gesetz regelt Erwerb und Verlust des Genfer Bürgerrechts.
 
 Die offizielle Hymne der Republik und des Kantons Genf ist «Cé qu’è lainô» in genferischem Frankoprovenzalisch.
 
-[^7A-1]: Angenommen in der [Volksabstimmung vom 3. März 2024](http://www.admin.ch/ch/d/pore/va/20240303/index.html), in Kraft seit 23. März 2024. Gewährleistungsbeschluss vom 17. März 2025 ([BBl 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)Art. 7; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
+[^7A-1]: Angenommen in der Volksabstimmung vom 3. März 2024, in Kraft seit 23. März 2024. Gewährleistungsbeschluss vom 17. März 2025 ([BBl 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)Art. 7; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### Art. 8
 
@@ -236,7 +236,7 @@ Jede Person hat das Recht auf persönliche Freiheit, Sicherheit und Bewegungsfre
 
 <sup>4</sup> Der Staat fördert die digitale Integration und sensibilisiert die Bevölkerung für die digitalen Herausforderungen. Er setzt sich für die Entwicklung der digitalen Souveränität der Schweiz ein und wirkt bei deren Umsetzung mit.
 
-[^21A-1]: Angenommen in der [Volksabstimmung vom 18. Juni 2023](http://www.admin.ch/ch/d/pore/va/20230618/index.html), in Kraft seit 8. Juli 2023. Gewährleistungsbeschluss vom 18. Sept. 2024 ([BBl 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)Art. 3, [1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
+[^21A-1]: Angenommen in der Volksabstimmung vom 18. Juni 2023, in Kraft seit 8. Juli 2023. Gewährleistungsbeschluss vom 18. Sept. 2024 ([BBl 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)Art. 3, [1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
 
 #### Art. 22
 
@@ -390,7 +390,7 @@ Das Recht auf Wohnung ist gewährleistet. Jede Person, die in Not ist, hat Anspr
 
 Das Recht auf Ernährung ist gewährleistet. Jede Person hat das Recht auf angemessene Ernährung sowie davor geschützt zu sein, Hunger zu leiden.
 
-[^38A-1]: Angenommen in der [Volksabstimmung vom 18. Juni 2023](http://www.admin.ch/ch/d/pore/va/20230618/index.html), in Kraft seit 8. Juli 2023. Gewährleistungsbeschluss vom 18. Sept. 2024 ([BBl 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)Art. 3, [1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
+[^38A-1]: Angenommen in der Volksabstimmung vom 18. Juni 2023, in Kraft seit 8. Juli 2023. Gewährleistungsbeschluss vom 18. Sept. 2024 ([BBl 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)Art. 3, [1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
 
 #### Art. 39
 
@@ -478,7 +478,7 @@ Die Abstimmungen werden innert kürzester Frist durchgeführt, und zwar spätest
 - d. nachdem der Staatsrat das Zustandekommen eines Referendumsbegehrens festgestellt hat;
 - e.[^46-1] nach der Annahme einer Resolution über die Amtsenthebung eines Staatsratsmitglieds wegen Vertrauensverlusts durch den Grossen Rat.
 
-[^46-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2021](http://www.admin.ch/ch/d/pore/va/20211128/index.html), in Kraft seit 1. Juni 2023. Gewährleistungsbeschluss vom 6. März 2023 ([BBl 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)Art. 6 Abs. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
+[^46-1]: Angenommen in der Volksabstimmung vom 28. Nov. 2021, in Kraft seit 1. Juni 2023. Gewährleistungsbeschluss vom 6. März 2023 ([BBl 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)Art. 6 Abs. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 
 #### Art. 47
 
@@ -498,7 +498,7 @@ Das Recht auf unentgeltliche Nutzung des öffentlichen Grunds zur Sammlung von U
 
 <sup>4</sup> …[^48-1]
 
-[^48-1]: Aufgehoben in der [Volksabstimmung vom 29. Nov. 2020](http://www.admin.ch/ch/d/pore/va/20201129/index.html), mit Wirkung seit 19. Dez. 2020. Gewährleistungsbeschluss vom 21. Sept. 2021 ([BBl 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)Art. 5 Abs. 2, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^48-1]: Aufgehoben in der Volksabstimmung vom 29. Nov. 2020, mit Wirkung seit 19. Dez. 2020. Gewährleistungsbeschluss vom 21. Sept. 2021 ([BBl 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)Art. 5 Abs. 2, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 #### Art. 49
 
@@ -573,7 +573,7 @@ Die Stimmberechtigten der Gemeinde wählen:
 
 <sup>5</sup> Entspricht die Anzahl der Kandidierenden der Anzahl zu besetzender Sitze, so erfolgt die Besetzung in stiller Wahl. Diese Regel gilt nicht für den ersten Wahlgang der Wahlen für den Staatsrat und die Genfer Deputation in den Ständerat.[^55-1]
 
-[^55-1]: Angenommen in der [Volksabstimmung vom 25. Sept. 2016](http://www.admin.ch/ch/d/pore/va/20160925/index.html), in Kraft seit 22. Okt. 2016. Gewährleistungsbeschluss vom 5. Dez. 2017 ([BBl 2018 33](https://fedlex.data.admin.ch/eli/fga/2018/7)Art. 4, [2017 5849](https://fedlex.data.admin.ch/eli/fga/2017/1581)).
+[^55-1]: Angenommen in der Volksabstimmung vom 25. Sept. 2016, in Kraft seit 22. Okt. 2016. Gewährleistungsbeschluss vom 5. Dez. 2017 ([BBl 2018 33](https://fedlex.data.admin.ch/eli/fga/2018/7)Art. 4, [2017 5849](https://fedlex.data.admin.ch/eli/fga/2017/1581)).
 
 ### 3. Kapitel: Kantonale Volksinitiative
 
@@ -587,7 +587,7 @@ Die Stimmberechtigten der Gemeinde wählen:
 
 <sup>3</sup> Eine Verfassungsinitiative kann nach der Veröffentlichung der Lancierung nicht in eine Gesetzesinitiative umgewandelt werden.
 
-[^56-1]: Angenommen in der [Volksabstimmung vom 3. März 2024](http://www.admin.ch/ch/d/pore/va/20240303/index.html), in Kraft seit 23. März 2024. Gewährleistungsbeschluss vom 17. März 2025 ([BBl 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)Art. 7; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
+[^56-1]: Angenommen in der Volksabstimmung vom 3. März 2024, in Kraft seit 23. März 2024. Gewährleistungsbeschluss vom 17. März 2025 ([BBl 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)Art. 7; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### Art. 57
 
@@ -597,7 +597,7 @@ Die Stimmberechtigten der Gemeinde wählen:
 
 <sup>2</sup> Die Gesetzesinitiative kann als ausformulierte oder nicht ausformulierte Initiative eingereicht werden. Eine teilweise formulierte Initiative gilt als nicht ausformulierte Initiative.
 
-[^57-1]: Angenommen in der [Volksabstimmung vom 3. März 2024](http://www.admin.ch/ch/d/pore/va/20240303/index.html), in Kraft seit 23. März 2024. Gewährleistungsbeschluss vom 17. März 2025 ([BBl 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)Art. 7; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
+[^57-1]: Angenommen in der Volksabstimmung vom 3. März 2024, in Kraft seit 23. März 2024. Gewährleistungsbeschluss vom 17. März 2025 ([BBl 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)Art. 7; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### Art. 58
 
@@ -675,7 +675,7 @@ Wenn die Stimmberechtigten eine nicht formulierte Initiative annehmen, so hat de
 
 <sup>2</sup> Resolutionen des Grossen Rates über die Amtsenthebung eines Staatsratsmitglieds wegen Vertrauensverlusts sind den Stimmberechtigten ebenfalls obligatorisch zur Abstimmung zu unterbreiten.[^65-1]
 
-[^65-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2021](http://www.admin.ch/ch/d/pore/va/20211128/index.html), in Kraft seit 1. Juni 2023. Gewährleistungsbeschluss vom 6. März 2023 ([BBl 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)Art. 6 Abs. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
+[^65-1]: Angenommen in der Volksabstimmung vom 28. Nov. 2021, in Kraft seit 1. Juni 2023. Gewährleistungsbeschluss vom 6. März 2023 ([BBl 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)Art. 6 Abs. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 
 #### Art. 66
 
@@ -702,7 +702,7 @@ Wenn 500 Stimmberechtigte das Referendum ergreifen, werden ebenfalls zur Abstimm
 
 <sup>3</sup> Die Gegenstände nach diesem Artikel werden den Stimmberechtigten ebenfalls zur Abstimmung unterbreitet, wenn der Grosse Rat mit Zweidrittelmehrheit der abgegebenen Stimmen ohne die Stimmenhaltungen, aber mindestens die Mehrheit der Mitglieder dies beschliesst.
 
-[^67-1]: Angenommen in der [Volksabstimmung vom 3. März 2024](http://www.admin.ch/ch/d/pore/va/20240303/index.html), in Kraft seit 23. März 2024. Gewährleistungsbeschluss vom 17. März 2025 ([BBl 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)Art. 7; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
+[^67-1]: Angenommen in der Volksabstimmung vom 3. März 2024, in Kraft seit 23. März 2024. Gewährleistungsbeschluss vom 17. März 2025 ([BBl 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)Art. 7; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### Art. 68
 
@@ -712,7 +712,7 @@ Wenn 500 Stimmberechtigte das Referendum ergreifen, werden ebenfalls zur Abstimm
 
 <sup>2</sup> Diese Frist wird bis und mit dem 15. Tag nach Ostern, vom 15. Juli bis und mit 15. August und vom 23. Dezember bis und mit 3. Januar unterbrochen.[^68-1]
 
-[^68-1]: Angenommen in der [Volksabstimmung vom 3. März 2024](http://www.admin.ch/ch/d/pore/va/20240303/index.html), in Kraft seit 23. März 2024. Gewährleistungsbeschluss vom 17. März 2025 ([BBl 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)Art. 7; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
+[^68-1]: Angenommen in der Volksabstimmung vom 3. März 2024, in Kraft seit 23. März 2024. Gewährleistungsbeschluss vom 17. März 2025 ([BBl 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)Art. 7; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### Art. 69
 
@@ -746,7 +746,7 @@ Vom Gemeinderat die Beratung eines bestimmten Gegenstands verlangen können:
 
 <sup>3</sup> Die Artikel 58 und 59 sind anwendbar.
 
-[^71-1]: Angenommen in der [Volksabstimmung vom 3. März 2024](http://www.admin.ch/ch/d/pore/va/20240303/index.html), in Kraft seit 23. März 2024. Gewährleistungsbeschluss vom 17. März 2025 ([BBl 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)Art. 7; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
+[^71-1]: Angenommen in der Volksabstimmung vom 3. März 2024, in Kraft seit 23. März 2024. Gewährleistungsbeschluss vom 17. März 2025 ([BBl 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)Art. 7; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### Art. 72
 
@@ -814,7 +814,7 @@ Beschlüsse der Gemeinderäte sind den Stimmberechtigten der Gemeinde zur Abstim
 
 <sup>2</sup> Artikel 68 ist anwendbar.
 
-[^77-1]: Angenommen in der [Volksabstimmung vom 3. März 2024](http://www.admin.ch/ch/d/pore/va/20240303/index.html), in Kraft seit 23. März 2024. Gewährleistungsbeschluss vom 17. März 2025 ([BBl 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)Art. 7; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
+[^77-1]: Angenommen in der Volksabstimmung vom 3. März 2024, in Kraft seit 23. März 2024. Gewährleistungsbeschluss vom 17. März 2025 ([BBl 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)Art. 7; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### Art. 78
 
@@ -1072,8 +1072,8 @@ Die Mitglieder des Staatsrats üben ihr Mandat frei aus. Sie legen ihre Verbindu
 
 <sup>3</sup> Die Wiederwahl für das Folgejahr ist ausgeschlossen. Die abtretende Präsidentin oder der abtretende Präsident kann nicht für das Folgejahr zur Vizepräsidentin oder zum Vizepräsidenten gewählt werden.[^105-2]
 
-[^105-1]: Angenommen in der [Volksabstimmung vom 27. Sept. 2020](http://www.admin.ch/ch/d/pore/va/20200927/index.html), in Kraft seit 17. Okt. 2020. Gewährleistungsbeschluss vom 21. Sept. 2021 ([BBl 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)Art. 5 Abs. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
-[^105-2]: Angenommen in der [Volksabstimmung vom 27. Sept. 2020](http://www.admin.ch/ch/d/pore/va/20200927/index.html), in Kraft seit 17. Okt. 2020. Gewährleistungsbeschluss vom 21. Sept. 2021 ([BBl 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)Art. 5 Abs. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^105-1]: Angenommen in der Volksabstimmung vom 27. Sept. 2020, in Kraft seit 17. Okt. 2020. Gewährleistungsbeschluss vom 21. Sept. 2021 ([BBl 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)Art. 5 Abs. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^105-2]: Angenommen in der Volksabstimmung vom 27. Sept. 2020, in Kraft seit 17. Okt. 2020. Gewährleistungsbeschluss vom 21. Sept. 2021 ([BBl 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)Art. 5 Abs. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 #### Art. 106
 
@@ -1085,7 +1085,7 @@ Die Mitglieder des Staatsrats üben ihr Mandat frei aus. Sie legen ihre Verbindu
 
 <sup>3</sup> …[^106-1]
 
-[^106-1]: Aufgehoben in der [Volksabstimmung vom 27. Sept. 2020](http://www.admin.ch/ch/d/pore/va/20200927/index.html), mit Wirkung seit 17. Okt. 2020. Gewährleistungsbeschluss vom 21. Sept. 2021 ([BBl 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)Art. 5 Abs. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^106-1]: Aufgehoben in der Volksabstimmung vom 27. Sept. 2020, mit Wirkung seit 17. Okt. 2020. Gewährleistungsbeschluss vom 21. Sept. 2021 ([BBl 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)Art. 5 Abs. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 ### 4. Abschnitt: Zuständigkeiten
 
@@ -1179,7 +1179,7 @@ Die Gemeinden, die politischen Parteien und die repräsentativen Kreise werden b
 
 [^tit4-chap2-sec5-1]
 
-[^tit4-chap2-sec5-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2021](http://www.admin.ch/ch/d/pore/va/20211128/index.html), in Kraft seit 1. Juni 2023. Gewährleistungsbeschluss vom 6. März 2023 ([BBl 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)Art. 6 Abs. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
+[^tit4-chap2-sec5-1]: Angenommen in der Volksabstimmung vom 28. Nov. 2021, in Kraft seit 1. Juni 2023. Gewährleistungsbeschluss vom 6. März 2023 ([BBl 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)Art. 6 Abs. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 
 #### Art. 115A
 
@@ -1440,8 +1440,8 @@ Sie setzt sich zusammen aus:
 
 <sup>3</sup> Sie wird alle fünf Jahre nach dem Grundsatz des Majorzes gewählt. Der erste Wahlgang findet gleichzeitig mit der Wahl des Gemeinderats statt.
 
-[^141-1]: Angenommen in der [Volksabstimmung vom 28. Nov. 2021](http://www.admin.ch/ch/d/pore/va/20211128/index.html), in Kraft seit 1. Juni 2025. Gewährleistungsbeschluss vom 6. März 2023 ([BBl 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)Art. 6 Abs. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)). Bis 31. Mai 2025: «einem administrativen Rat aus 3 Mitgliedern in Gemeinden mit mehr als 3000 Einwohnerinnen und Einwohnern».
-[^141-2]: Aufgehoben in der [Volksabstimmung vom 28. Nov. 2021](http://www.admin.ch/ch/d/pore/va/20211128/index.html), mit Wirkung seit 1. Juni 2025. Gewährleistungsbeschluss vom 6. März 2023 ([BBl 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)Art. 6 Abs. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)). Bis 31. Mai 2025: «einer Gemeindepräsidentin oder einem Gemeindepräsidenten und 2 Adjunktinnen und Adjunkten in den anderen Gemeinden».
+[^141-1]: Angenommen in der Volksabstimmung vom 28. Nov. 2021, in Kraft seit 1. Juni 2025. Gewährleistungsbeschluss vom 6. März 2023 ([BBl 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)Art. 6 Abs. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)). Bis 31. Mai 2025: «einem administrativen Rat aus 3 Mitgliedern in Gemeinden mit mehr als 3000 Einwohnerinnen und Einwohnern».
+[^141-2]: Aufgehoben in der Volksabstimmung vom 28. Nov. 2021, mit Wirkung seit 1. Juni 2025. Gewährleistungsbeschluss vom 6. März 2023 ([BBl 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)Art. 6 Abs. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)). Bis 31. Mai 2025: «einer Gemeindepräsidentin oder einem Gemeindepräsidenten und 2 Adjunktinnen und Adjunkten in den anderen Gemeinden».
 
 #### Art. 142
 
@@ -1608,9 +1608,9 @@ Die kantonale Umsetzung der Steuerreformen des Bundes gehorcht folgenden Grunds�
 - b. Erhalt des kantonalen und kommunalen Steueraufkommens;
 - c. Verstärkung der Steuerprogression.[^155-3]
 
-[^155-1]: Angenommen in der [Volksabstimmung vom 27. Sept. 2020](http://www.admin.ch/ch/d/pore/va/20200927/index.html), in Kraft seit 17. Okt. 2020. Gewährleistungsbeschluss vom 21. Sept. 2021 ([BBl 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)Art. 5 Abs. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
-[^155-2]: Angenommen in der [Volksabstimmung vom 27. Sept. 2020](http://www.admin.ch/ch/d/pore/va/20200927/index.html), in Kraft seit 17. Okt. 2020. Gewährleistungsbeschluss vom 21. Sept. 2021 ([BBl 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)Art. 5 Abs. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
-[^155-3]: Angenommen in der [Volksabstimmung vom 27. Sept. 2020](http://www.admin.ch/ch/d/pore/va/20200927/index.html), in Kraft seit 17. Okt. 2020. Gewährleistungsbeschluss vom 21. Sept. 2021 ([BBl 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)Art. 5 Abs. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^155-1]: Angenommen in der Volksabstimmung vom 27. Sept. 2020, in Kraft seit 17. Okt. 2020. Gewährleistungsbeschluss vom 21. Sept. 2021 ([BBl 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)Art. 5 Abs. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^155-2]: Angenommen in der Volksabstimmung vom 27. Sept. 2020, in Kraft seit 17. Okt. 2020. Gewährleistungsbeschluss vom 21. Sept. 2021 ([BBl 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)Art. 5 Abs. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^155-3]: Angenommen in der Volksabstimmung vom 27. Sept. 2020, in Kraft seit 17. Okt. 2020. Gewährleistungsbeschluss vom 21. Sept. 2021 ([BBl 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)Art. 5 Abs. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 #### Art. 156
 
@@ -1796,8 +1796,8 @@ Die kantonalen Behörden wenden sich mit allen ihnen zur Verfügung stehenden Mi
 
 <sup>2</sup> Das Betriebsdefizit der Institution wird durch eine jährliche Subvention zulasten des Staatsbudgets getragen.
 
-[^174A-1]: Angenommen in der [Volksabstimmung vom 27. Sept. 2020](http://www.admin.ch/ch/d/pore/va/20200927/index.html), in Kraft seit 17. Okt. 2020. Gewährleistungsbeschluss vom 21. Sept. 2021 ([BBl 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)Art. 5 Abs. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
-[^174A-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) angepasst.
+[^174A-1]: Angenommen in der Volksabstimmung vom 27. Sept. 2020, in Kraft seit 17. Okt. 2020. Gewährleistungsbeschluss vom 21. Sept. 2021 ([BBl 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)Art. 5 Abs. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^174A-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)) angepasst.
 
 #### Art. 175
 
@@ -1919,9 +1919,9 @@ Der Staat gewährleistet die Sicherheit und die öffentliche Ordnung.
 
 <sup>4</sup> Er unterstützt die Ausbildung und Beschäftigung in der Landwirtschaft.[^187-3]
 
-[^187-1]: Angenommen in der [Volksabstimmung vom 24. Nov. 2019](http://www.admin.ch/ch/d/pore/va/20191124/index.html), in Kraft seit 21. Dez. 2019. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 3, [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
-[^187-2]: Angenommen in der [Volksabstimmung vom 24. Nov. 2019](http://www.admin.ch/ch/d/pore/va/20191124/index.html), in Kraft seit 21. Dez. 2019. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 3, [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
-[^187-3]: Angenommen in der [Volksabstimmung vom 24. Nov. 2019](http://www.admin.ch/ch/d/pore/va/20191124/index.html), in Kraft seit 21. Dez. 2019. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 3, [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+[^187-1]: Angenommen in der Volksabstimmung vom 24. Nov. 2019, in Kraft seit 21. Dez. 2019. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 3, [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+[^187-2]: Angenommen in der Volksabstimmung vom 24. Nov. 2019, in Kraft seit 21. Dez. 2019. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 3, [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+[^187-3]: Angenommen in der Volksabstimmung vom 24. Nov. 2019, in Kraft seit 21. Dez. 2019. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 3, [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
 
 #### Art. 188
 
@@ -1975,7 +1975,7 @@ Der Staat sorgt für die Information und den Schutz der Konsumentinnen und Konsu
 
 <sup>4</sup> Der internationale Flughafen Genf legt den kantonalen und kommunalen Behörden gegenüber Rechenschaft ab, wie die vorstehenden Ziele geplant und innerhalb des vom Bund bestimmten Rahmens umgesetzt werden. Er unterbreitet insbesondere dem Grossen Rat regelmässig einen Bericht zur Genehmigung, worin die in Angriff genommenen Massnahmen und die hautsächlichen mittel- und langfristigen Ziele aufgeführt sind.
 
-[^191A-1]: Angenommen in der [Volksabstimmung vom 24. Nov. 2019](http://www.admin.ch/ch/d/pore/va/20191124/index.html), in Kraft seit 21. Dez. 2019. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 3, [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+[^191A-1]: Angenommen in der Volksabstimmung vom 24. Nov. 2019, in Kraft seit 21. Dez. 2019. Gewährleistungsbeschluss vom 17. Sept. 2020 ([BBl 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)Art. 3, [2020 5111](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
 
 #### Art. 192
 
@@ -1997,7 +1997,7 @@ Der Staat sorgt für die Information und den Schutz der Konsumentinnen und Konsu
 
 <sup>3</sup> Der Staat trifft begleitende Massnahmen. Insbesondere nutzt er die Verwirklichung der Seequerung, um zusammen mit den betroffenen Gemeinden die Ufergestaltung zu verbessern, die schädlichen Auswirkungen in den städtischen Zonen zu reduzieren, die Wirksamkeit des öffentlichen Verkehrs zu verstärken, den Langsamverkehr zu begünstigen und neue öffentliche Räume zu schaffen.
 
-[^192A-1]: Angenommen in der [Volksabstimmung vom 5. Juni 2016](http://www.admin.ch/ch/d/pore/va/20160605/index.html), in Kraft seit 2. Juli 2016. Gewährleistungsbeschluss vom 12. Juni 2017 ([BBl 2017 4419](https://fedlex.data.admin.ch/eli/fga/2017/1119)Art. 4 Bst. b [1499](https://fedlex.data.admin.ch/eli/fga/2017/279)).
+[^192A-1]: Angenommen in der Volksabstimmung vom 5. Juni 2016, in Kraft seit 2. Juli 2016. Gewährleistungsbeschluss vom 12. Juni 2017 ([BBl 2017 4419](https://fedlex.data.admin.ch/eli/fga/2017/1119)Art. 4 Bst. b [1499](https://fedlex.data.admin.ch/eli/fga/2017/279)).
 
 ### 9. Abschnitt: Lehre und Forschung
 
@@ -2151,6 +2151,16 @@ Bei der Bestimmung seiner Politik und seines Handelns berücksichtigt der Staat 
 
 <sup>2</sup> Er erleichtert ihre Einbürgerung. Das Verfahren ist einfach und rasch. Für das Verfahren darf nur eine kostendeckende Gebühr erhoben werden.
 
+#### Art. 210A
+
+**Bekämpfung von Diskriminierung und Hass**[^210A-1]
+
+<sup>1</sup> Der Staat verfolgt eine Politik der Bekämpfung von Diskriminierung und Hass.
+
+<sup>2</sup> Das Zeigen oder Tragen von Symbolen, Emblemen und allen anderen Objekten, die Ausdruck von Hass sind, insbesondere von Nazi-Objekten, ist im öffentlichen Raum verboten. Das Gesetz regelt die Ausnahmen und sieht Sanktionen vor.
+
+[^210A-1]: Angenommen in der Volksabstimmung vom 9. Juni 2024, in Kraft seit 6. Juli 2024. Gewährleistungsbeschluss vom 22. Sept. 2025 (BBl **20****25** 2770 Art. 5, 1707).
+
 #### Art. 211
 
 **Vereine und Freiwilligenarbeit**
@@ -2215,7 +2225,7 @@ Bei der Bestimmung seiner Politik und seines Handelns berücksichtigt der Staat 
 
 <sup>4</sup> Der Kanton und die Gemeinden erarbeiten eine Strategie der gemeinsamen Finanzierung des künstlerischen Schaffens und der Kulturinstitutionen und setzen diese um Der Kanton koordiniert, in Abstimmung mit den Gemeinden, eine kohärente Kulturpolitik im Kanton. Die Kulturakteure werden angehört.
 
-[^216-1]: Angenommen in der [Volksabstimmung vom 19. Mai 2019](http://www.admin.ch/ch/d/pore/va/20190519/index.html), in Kraft seit 15. Juni 2019. Gewährleistungsbeschluss vom 11. März 2020 ([BBl 2020 4671](https://fedlex.data.admin.ch/eli/fga/2020/1084)Art. 5 [147](https://fedlex.data.admin.ch/eli/fga/2020/12)).
+[^216-1]: Angenommen in der Volksabstimmung vom 19. Mai 2019, in Kraft seit 15. Juni 2019. Gewährleistungsbeschluss vom 11. März 2020 ([BBl 2020 4671](https://fedlex.data.admin.ch/eli/fga/2020/1084)Art. 5 [147](https://fedlex.data.admin.ch/eli/fga/2020/12)).
 
 #### Art. 217
 
@@ -2269,7 +2279,7 @@ Bei der Bestimmung seiner Politik und seines Handelns berücksichtigt der Staat 
 
 <sup>2</sup> Die Revision der Staatsrechnung wird vom Rechnungshof wahrgenommen.[^222-1]
 
-[^222-1]: Angenommen in der [Volksabstimmung vom 28. Febr. 2016](http://www.admin.ch/ch/d/pore/va/20160228/index.html), in Kraft seit 30. März 2016. Gewährleistungsbeschluss vom 12. Juni 2017 ([BBl 2017 4419](https://fedlex.data.admin.ch/eli/fga/2017/1119)Art. 4 Bst. a [1499](https://fedlex.data.admin.ch/eli/fga/2017/279)).
+[^222-1]: Angenommen in der Volksabstimmung vom 28. Febr. 2016, in Kraft seit 30. März 2016. Gewährleistungsbeschluss vom 12. Juni 2017 ([BBl 2017 4419](https://fedlex.data.admin.ch/eli/fga/2017/1119)Art. 4 Bst. a [1499](https://fedlex.data.admin.ch/eli/fga/2017/279)).
 
 #### Art. 223
 
@@ -2327,7 +2337,7 @@ Artikel 131 gilt sinngemäss für die interne Kontrolle und Revision sowie für 
 
 <sup>3</sup> Personen, denen die politischen Rechte bei Inkrafttreten des Verfassungsgesetzes vom 29. November 2020 entzogen waren, erhalten diese unverzüglich zurück.[^228-1]
 
-[^228-1]: Angenommen in der [Volksabstimmung vom 29. Nov. 2020](http://www.admin.ch/ch/d/pore/va/20201129/index.html), in Kraft seit 19. Dez. 2020. Gewährleistungsbeschluss vom 21. Sept. 2021 ([BBl 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)Art. 5 Abs. 2, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^228-1]: Angenommen in der Volksabstimmung vom 29. Nov. 2020, in Kraft seit 19. Dez. 2020. Gewährleistungsbeschluss vom 21. Sept. 2021 ([BBl 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)Art. 5 Abs. 2, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 #### Art. 229
 
@@ -2562,7 +2572,7 @@ Digitale
 - – Information 220<sup>2</sup>
 - – Souveränität 21A<sup>4</sup>
 
-Diskriminierungsverbot 15<sup>2</sup>
+Diskriminierungsverbot 15<sup>2</sup>, 210A
 
 Dringlichkeit
 
@@ -2705,6 +2715,8 @@ Grundrechte s. Rechte
 Guter Glaube 9, 17, 26
 
 Haftung s. Staat/Staatshaftung
+
+Hasssymbole im öffentlichen Raum 210A
 
 Haushaltsführung 152
 

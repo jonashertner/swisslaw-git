@@ -4,11 +4,11 @@ title: "Constitution de la République et canton de Genève, du 14 octobre 2012 
 short: Cst-GE
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/1846_fga"
 language: fr
-version: 2024-03-23
+version: 2024-07-06
 adopted: 2012-10-14
 in_force: 2013-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20240323/fr/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20240323-fr-xml.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20240323/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20240706/fr/xml/fedlex-data-admin-ch-eli-cc-2013-1846_fga-20240706-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20240706/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2013/1846_fga/20240323/fr"
 
 (Cst-GE)
 
-du 14 octobre 2012 (État le 23 mars 2024)[^t-1]
+du 14 octobre 2012 (État le 6 juillet 2024)[^t-1]
 
 [^t-1]: Cette publication se base sur les garanties fédérales publiées dans la FF. Elle peut de ce fait différer temporairement de la publication cantonale.
 
@@ -94,7 +94,7 @@ La loi règle l’acquisition et la perte de la nationalité genevoise.
 **Armoiries et devise**
 
 <table>
-<tr><td><sup>1</sup> Les armoiries de la République et canton de Genève représentent la réunion de l’aigle noire à tête couronnée sur fond jaune et de la clé d’or sur fond rouge. Le cimier représente un soleil apparaissant sur le bord supérieur et portant le trigramme IHS en lettres grecques. <sup>2</sup> La devise est «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20240323/fr/xml/image/image1.png)</td></tr>
+<tr><td><sup>1</sup> Les armoiries de la République et canton de Genève représentent la réunion de l’aigle noire à tête couronnée sur fond jaune et de la clé d’or sur fond rouge. Le cimier représente un soleil apparaissant sur le bord supérieur et portant le trigramme IHS en lettres grecques. <sup>2</sup> La devise est «Post tenebras lux».</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/1846_fga/20240706/fr/xml/image/image1.png)</td></tr>
 </table>
 
 #### Art. 7A
@@ -103,7 +103,7 @@ La loi règle l’acquisition et la perte de la nationalité genevoise.
 
 L’hymne officiel de la République et canton de Genève est le «Cé qu’è lainô» en arpitan genevois.
 
-[^7A-1]: Accepté en [votation populaire du 3 mars 2024](http://www.admin.ch/ch/f/pore/va/20240303/index.html), en vigueur depuis le 23 mars 2024. Garantie de l’Ass. féd. du 17 mars 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 7; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
+[^7A-1]: Accepté en votation populaire du 3 mars 2024, en vigueur depuis le 23 mars 2024. Garantie de l’Ass. féd. du 17 mars 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 7; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### Art. 8
 
@@ -233,7 +233,7 @@ Toute personne a droit à la liberté personnelle, à la sécurité ainsi qu’�
 
 <sup>4</sup> L’État favorise l’inclusion numérique et sensibilise la population aux enjeux du numérique. Il s’engage en faveur du développement de la souveraineté numérique de la Suisse et collabore à sa mise en œuvre.
 
-[^21A-1]: Accepté en [votation populaire du 18 juin 2023](http://www.admin.ch/ch/f/pore/va/20230618/index.html), en vigueur depuis le 8 juil. 2023. Garantie de l’Ass. féd. du 18 sept. 2024 ([FF 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)art. 3,[1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
+[^21A-1]: Accepté en votation populaire du 18 juin 2023, en vigueur depuis le 8 juil. 2023. Garantie de l’Ass. féd. du 18 sept. 2024 ([FF 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)art. 3,[1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
 
 #### Art. 22
 
@@ -387,7 +387,7 @@ Le droit au logement est garanti. Toute personne dans le besoin a droit d’êtr
 
 Le droit à l’alimentation est garanti. Toute personne a droit à une alimentation adéquate, ainsi que d’être à l’abri de la faim.
 
-[^38A-1]: Accepté en [votation populaire du 18 juin 2023](http://www.admin.ch/ch/f/pore/va/20230618/index.html), en vigueur depuis le 8 juil. 2023. Garantie de l’Ass. féd. du 18 sept. 2024 ([FF 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)art. 3,[1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
+[^38A-1]: Accepté en votation populaire du 18 juin 2023, en vigueur depuis le 8 juil. 2023. Garantie de l’Ass. féd. du 18 sept. 2024 ([FF 2024 2375](https://fedlex.data.admin.ch/eli/fga/2024/2375)art. 3,[1245](https://fedlex.data.admin.ch/eli/fga/2024/1245)).
 
 #### Art. 39
 
@@ -475,7 +475,7 @@ Les votations ont lieu dans le plus bref délai, mais au plus tard un an après:
 - d) la constatation par le Conseil d’État de l’aboutissement d’une demande de référendum;
 - e)[^46-1] l’adoption d’une résolution de destitution d’un membre du Conseil d’État pour perte de confiance par le Grand Conseil.
 
-[^46-1]: Acceptée en [votation populaire du 28 nov. 2021](http://www.admin.ch/ch/f/pore/va/20211128/index.html), en vigueur depuis le 1<sup>er</sup> juin 2023. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 6 al. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
+[^46-1]: Acceptée en votation populaire du 28 nov. 2021, en vigueur depuis le 1<sup>er</sup> juin 2023. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 6 al. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 
 #### Art. 47
 
@@ -495,7 +495,7 @@ Le droit d’utiliser le domaine public gratuitement afin de récolter des signa
 
 <sup>4</sup> …[^48-1]
 
-[^48-1]: Abrogé en [votation populaire du 29 nov. 2020](http://www.admin.ch/ch/f/pore/va/20201129/index.html), avec effet au 19 déc. 2020. Garantie de l’Ass. féd. du 21 sept. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 al. 2, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^48-1]: Abrogé en votation populaire du 29 nov. 2020, avec effet au 19 déc. 2020. Garantie de l’Ass. féd. du 21 sept. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 al. 2, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 #### Art. 49
 
@@ -570,7 +570,7 @@ Le corps électoral communal élit:
 
 <sup>5</sup> Si le nombre de candidatures est égal au nombre de sièges à pourvoir, l’élection est tacite. Cette règle ne s’applique pas au premier tour de l’élection du Conseil d’État et de la députation genevoise au Conseil des États.[^55-1]
 
-[^55-1]: Accepté en [votation populaire du 25 sept. 2016](http://www.admin.ch/ch/f/pore/va/20160925/index.html), en vigueur depuis le 22 oct. 2016. Garantie de l’Ass. féd. du 5 déc. 2017 ([FF 2018 33](https://fedlex.data.admin.ch/eli/fga/2018/7)art. 4; [2017 5481](https://fedlex.data.admin.ch/eli/fga/2017/1581)).
+[^55-1]: Accepté en votation populaire du 25 sept. 2016, en vigueur depuis le 22 oct. 2016. Garantie de l’Ass. féd. du 5 déc. 2017 ([FF 2018 33](https://fedlex.data.admin.ch/eli/fga/2018/7)art. 4; [2017 5481](https://fedlex.data.admin.ch/eli/fga/2017/1581)).
 
 ### Chapitre III Initiative populaire cantonale
 
@@ -584,7 +584,7 @@ Le corps électoral communal élit:
 
 <sup>3</sup> Une initiative constitutionnelle ne peut être transformée en initiative législative postérieurement à la publication de son lancement.
 
-[^56-1]: Accepté en [votation populaire du 3 mars 2024](http://www.admin.ch/ch/f/pore/va/20240303/index.html), en vigueur depuis le 23 mars 2024. Garantie de l’Ass. féd. du 17 mars 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 7; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
+[^56-1]: Accepté en votation populaire du 3 mars 2024, en vigueur depuis le 23 mars 2024. Garantie de l’Ass. féd. du 17 mars 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 7; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### Art. 57
 
@@ -594,7 +594,7 @@ Le corps électoral communal élit:
 
 <sup>2</sup> L’initiative peut être formulée ou non formulée. Une initiative partiellement formulée est considérée comme non formulée.
 
-[^57-1]: Accepté en [votation populaire du 3 mars 2024](http://www.admin.ch/ch/f/pore/va/20240303/index.html), en vigueur depuis le 23 mars 2024. Garantie de l’Ass. féd. du 17 mars 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 7; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
+[^57-1]: Accepté en votation populaire du 3 mars 2024, en vigueur depuis le 23 mars 2024. Garantie de l’Ass. féd. du 17 mars 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 7; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### Art. 58
 
@@ -672,7 +672,7 @@ Si le corps électoral accepte une initiative non formulée, le Grand Conseil es
 
 <sup>2</sup> Les résolutions de destitution d’un membre du Conseil d’État pour perte de confiance, adoptées par le Grand Conseil, sont également soumises d’office au corps électoral.[^65-1]
 
-[^65-1]: Accepté en [votation populaire du 28 nov. 2021](http://www.admin.ch/ch/f/pore/va/20211128/index.html), en vigueur depuis le 1<sup>er</sup> juin 2023. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 6 al. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
+[^65-1]: Accepté en votation populaire du 28 nov. 2021, en vigueur depuis le 1<sup>er</sup> juin 2023. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 6 al. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 
 #### Art. 66
 
@@ -699,7 +699,7 @@ Sont également soumises au corps électoral si le référendum est demandé par
 
 <sup>3</sup> Les objets visés au présent article sont également soumis au corps électoral si le Grand Conseil le décide à la majorité des deux tiers des voix exprimées, les abstentions n’étant pas prises en considération, mais au moins à la majorité de ses membres.
 
-[^67-1]: Accepté en [votation populaire du 3 mars 2024](http://www.admin.ch/ch/f/pore/va/20240303/index.html), en vigueur depuis le 23 mars 2024. Garantie de l’Ass. féd. du 17 mars 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 7; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
+[^67-1]: Accepté en votation populaire du 3 mars 2024, en vigueur depuis le 23 mars 2024. Garantie de l’Ass. féd. du 17 mars 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 7; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### Art. 68
 
@@ -709,7 +709,7 @@ Sont également soumises au corps électoral si le référendum est demandé par
 
 <sup>2</sup> Ce délai est suspendu jusqu’au 15<sup>e</sup> jour qui suit Pâques inclus, du 15 juillet au 15 août inclus et du 23 décembre au 3 janvier inclus.[^68-1]
 
-[^68-1]: Accepté en [votation populaire du 3 mars 2024](http://www.admin.ch/ch/f/pore/va/20240303/index.html), en vigueur depuis le 23 mars 2024. Garantie de l’Ass. féd. du 17 mars 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 7; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
+[^68-1]: Accepté en votation populaire du 3 mars 2024, en vigueur depuis le 23 mars 2024. Garantie de l’Ass. féd. du 17 mars 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 7; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### Art. 69
 
@@ -743,7 +743,7 @@ Peuvent demander au conseil municipal de délibérer sur un objet déterminé:
 
 <sup>3</sup> Les art. 58 et 59 sont applicables.
 
-[^71-1]: Accepté en [votation populaire du 3 mars 2024](http://www.admin.ch/ch/f/pore/va/20240303/index.html), en vigueur depuis le 23 mars 2024. Garantie de l’Ass. féd. du 17 mars 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 7; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
+[^71-1]: Accepté en votation populaire du 3 mars 2024, en vigueur depuis le 23 mars 2024. Garantie de l’Ass. féd. du 17 mars 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 7; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### Art. 72
 
@@ -811,7 +811,7 @@ Les délibérations des conseils municipaux sont soumises au corps électoral co
 
 <sup>2</sup> L’art. 68 est applicable.
 
-[^77-1]: Accepté en [votation populaire du 3 mars 2024](http://www.admin.ch/ch/f/pore/va/20240303/index.html), en vigueur depuis le 23 mars 2024. Garantie de l’Ass. féd. du 17 mars 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 7; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
+[^77-1]: Accepté en votation populaire du 3 mars 2024, en vigueur depuis le 23 mars 2024. Garantie de l’Ass. féd. du 17 mars 2025 ([FF 2025 966](https://fedlex.data.admin.ch/eli/fga/2025/966)art. 7; [2024 2852](https://fedlex.data.admin.ch/eli/fga/2024/2852)).
 
 #### Art. 78
 
@@ -1069,8 +1069,8 @@ Les membres du Conseil d’État exercent librement leur mandat. Ils rendent pub
 
 <sup>3</sup> Ces mandats ne sont pas renouvelables l’année suivante. La présidente ou le président sortant n’est pas éligible à la vice-présidence l’année suivante.[^105-2]
 
-[^105-1]: Accepté en [votation populaire du 27 sept. 2020](http://www.admin.ch/ch/f/pore/va/20200927/index.html), en vigueur depuis le 17 oct. 2020. Garantie de l’Ass. féd. du 21 sept. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 al. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
-[^105-2]: Accepté en [votation populaire du 27 sept. 2020](http://www.admin.ch/ch/f/pore/va/20200927/index.html), en vigueur depuis le 17 oct. 2020. Garantie de l’Ass. féd. du 21 sept. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 al. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^105-1]: Accepté en votation populaire du 27 sept. 2020, en vigueur depuis le 17 oct. 2020. Garantie de l’Ass. féd. du 21 sept. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 al. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^105-2]: Accepté en votation populaire du 27 sept. 2020, en vigueur depuis le 17 oct. 2020. Garantie de l’Ass. féd. du 21 sept. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 al. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 #### Art. 106
 
@@ -1082,7 +1082,7 @@ Les membres du Conseil d’État exercent librement leur mandat. Ils rendent pub
 
 <sup>3</sup> …[^106-1]
 
-[^106-1]: Abrogé en [votation populaire du 27 sept. 2020](http://www.admin.ch/ch/f/pore/va/20200927/index.html), avec effet au 17 oct. 2020. Garantie de l’Ass. féd. du 21 sept. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 al. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^106-1]: Abrogé en votation populaire du 27 sept. 2020, avec effet au 17 oct. 2020. Garantie de l’Ass. féd. du 21 sept. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 al. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 ### Section 4 Compétences
 
@@ -1176,7 +1176,7 @@ Les communes, les partis politiques et les milieux représentatifs sont invités
 
 [^tit4-chap2-sec5-1]
 
-[^tit4-chap2-sec5-1]: Acceptée en [votation populaire du 28 nov. 2021](http://www.admin.ch/ch/f/pore/va/20211128/index.html), en vigueur depuis le 1<sup>er</sup> juin 2023. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 6 al. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
+[^tit4-chap2-sec5-1]: Acceptée en votation populaire du 28 nov. 2021, en vigueur depuis le 1<sup>er</sup> juin 2023. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 6 al. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)).
 
 #### Art. 115A
 
@@ -1437,8 +1437,8 @@ Il est composé:
 
 <sup>3</sup> Il est élu tous les cinq ans au système majoritaire. Le premier tour a lieu simultanément à l’élection du conseil municipal.
 
-[^141-1]: Acceptée en [votation populaire du 28 nov. 2021](http://www.admin.ch/ch/f/pore/va/20211128/index.html), en vigueur depuis le 1<sup>er</sup> juin 2025. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 6 al. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)). Teneur jusqu’au 31 mai 2025: «d’un conseil administratif de trois membres dans les communes de plus de 3000 habitants»
-[^141-2]: Abrogée en [votation populaire du 28 nov. 2021](http://www.admin.ch/ch/f/pore/va/20211128/index.html), avec effet au 1<sup>er</sup> juin 2025. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 6 al. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)). Teneur jusqu’au 31 mai 2025: «d’un maire et de deux adjoints dans les autres communes»
+[^141-1]: Acceptée en votation populaire du 28 nov. 2021, en vigueur depuis le 1<sup>er</sup> juin 2025. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 6 al. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)). Teneur jusqu’au 31 mai 2025: «d’un conseil administratif de trois membres dans les communes de plus de 3000 habitants»
+[^141-2]: Abrogée en votation populaire du 28 nov. 2021, avec effet au 1<sup>er</sup> juin 2025. Garantie de l’Ass. féd. du 6 mars 2023 ([FF 2023 724](https://fedlex.data.admin.ch/eli/fga/2023/724)art. 6 al. 1; [2022 2963](https://fedlex.data.admin.ch/eli/fga/2022/2963)). Teneur jusqu’au 31 mai 2025: «d’un maire et de deux adjoints dans les autres communes»
 
 #### Art. 142
 
@@ -1605,9 +1605,9 @@ La mise en œuvre cantonale des réformes fédérales de la fiscalité obéit au
 - b. maintien du niveau des recettes fiscales cantonales et communales;
 - c. renforcement de la progressivité de l’impôt.[^155-3]
 
-[^155-1]: Accepté en [votation populaire du 27 sept. 2020](http://www.admin.ch/ch/f/pore/va/20200927/index.html), en vigueur depuis le 17 oct. 2020. Garantie de l’Ass. féd. du 21 sept. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 al. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
-[^155-2]: Accepté en [votation populaire du 27 sept. 2020](http://www.admin.ch/ch/f/pore/va/20200927/index.html), en vigueur depuis le 17 oct. 2020. Garantie de l’Ass. féd. du 21 sept. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 al. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
-[^155-3]: Accepté en [votation populaire du 27 sept. 2020](http://www.admin.ch/ch/f/pore/va/20200927/index.html), en vigueur depuis le 17 oct. 2020. Garantie de l’Ass. féd. du 21 sept. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 al. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^155-1]: Accepté en votation populaire du 27 sept. 2020, en vigueur depuis le 17 oct. 2020. Garantie de l’Ass. féd. du 21 sept. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 al. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^155-2]: Accepté en votation populaire du 27 sept. 2020, en vigueur depuis le 17 oct. 2020. Garantie de l’Ass. féd. du 21 sept. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 al. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^155-3]: Accepté en votation populaire du 27 sept. 2020, en vigueur depuis le 17 oct. 2020. Garantie de l’Ass. féd. du 21 sept. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 al. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 #### Art. 156
 
@@ -1793,8 +1793,8 @@ Les autorités cantonales s’opposent par tous les moyens à leur disposition e
 
 <sup>2</sup> Le déficit d’exploitation de l’IMAD est couvert par une subvention portée chaque année au budget de l’État.
 
-[^174A-1]: Accepté en [votation populaire du 27 sept. 2020](http://www.admin.ch/ch/f/pore/va/20200927/index.html), en vigueur depuis le 17 oct. 2020. Garantie de l’Ass. féd. du 21 sept. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 al. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
-[^174A-2]: La dénomination de l’unité administrative a été adaptée en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
+[^174A-1]: Accepté en votation populaire du 27 sept. 2020, en vigueur depuis le 17 oct. 2020. Garantie de l’Ass. féd. du 21 sept. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 al. 1, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^174A-2]: La dénomination de l’unité administrative a été adaptée en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)).
 
 #### Art. 175
 
@@ -1916,9 +1916,9 @@ L’État assure la sécurité et l’ordre public.
 
 <sup>4</sup> Il soutient la formation et l’emploi dans l’agriculture.[^187-3]
 
-[^187-1]: Accepté en [votation populaire du 24 nov. 2019](http://www.admin.ch/ch/f/pore/va/20191124/index.html), en vigueur depuis le 21 déc. 2019. Garantie de l’Ass. féd. du 17 sept. 2020 ([FF 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)art. 3; [2020 4969](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
-[^187-2]: Accepté en [votation populaire du 24 nov. 2019](http://www.admin.ch/ch/f/pore/va/20191124/index.html), en vigueur depuis le 21 déc. 2019. Garantie de l’Ass. féd. du 17 sept. 2020 ([FF 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)art. 3; [2020 4969](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
-[^187-3]: Accepté en [votation populaire du 24 nov. 2019](http://www.admin.ch/ch/f/pore/va/20191124/index.html), en vigueur depuis le 21 déc. 2019. Garantie de l’Ass. féd. du 17 sept. 2020 ([FF 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)art. 3; [2020 4969](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+[^187-1]: Accepté en votation populaire du 24 nov. 2019, en vigueur depuis le 21 déc. 2019. Garantie de l’Ass. féd. du 17 sept. 2020 ([FF 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)art. 3; [2020 4969](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+[^187-2]: Accepté en votation populaire du 24 nov. 2019, en vigueur depuis le 21 déc. 2019. Garantie de l’Ass. féd. du 17 sept. 2020 ([FF 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)art. 3; [2020 4969](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+[^187-3]: Accepté en votation populaire du 24 nov. 2019, en vigueur depuis le 21 déc. 2019. Garantie de l’Ass. féd. du 17 sept. 2020 ([FF 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)art. 3; [2020 4969](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
 
 #### Art. 188
 
@@ -1972,7 +1972,7 @@ L’État veille à l’information et à la protection des consommatrices et co
 
 <sup>4</sup> L’Aéroport international de Genève rend compte aux autorités cantonales et communales de la façon dont les objectifs précités sont planifiés puis mis en œuvre au regard du cadre et des limites définis par la Confédération. Il soumet en particulier régulièrement au Grand Conseil pour approbation un rapport relatif aux actions entreprises et principaux objectifs à moyen et long terme.
 
-[^191A-1]: Accepté en [votation populaire du 24 nov. 2019](http://www.admin.ch/ch/f/pore/va/20191124/index.html), en vigueur depuis le 21 déc. 2019. Garantie de l’Ass. féd. du 17 sept. 2020 ([FF 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)art. 3; [2020 4969](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
+[^191A-1]: Accepté en votation populaire du 24 nov. 2019, en vigueur depuis le 21 déc. 2019. Garantie de l’Ass. féd. du 17 sept. 2020 ([FF 2021 48](https://fedlex.data.admin.ch/eli/fga/2021/48)art. 3; [2020 4969](https://fedlex.data.admin.ch/eli/fga/2020/1222)).
 
 #### Art. 192
 
@@ -1994,7 +1994,7 @@ L’État veille à l’information et à la protection des consommatrices et co
 
 <sup>3</sup> L’État prend des mesures d’accompagnement. En particulier, il s’appuie sur la Traversée du Lac pour aménager les rives avec les communes concernées, réduire les nuisances dans les zones urbanisées, renforcer l’efficacité des transports publics, favoriser la mobilité douce et créer de nouveaux espaces publics.
 
-[^192A-1]: Accepté en [votation populaire du 5 juin 2016](http://www.admin.ch/ch/f/pore/va/20160605/index.html), en vigueur depuis le 2 juil. 2016. Garantie de l’Ass. féd. du 12 juin 2017 ([FF 2017 4141](https://fedlex.data.admin.ch/eli/fga/2017/1119)art. 4, let. b, [1383](https://fedlex.data.admin.ch/eli/fga/2017/279)).
+[^192A-1]: Accepté en votation populaire du 5 juin 2016, en vigueur depuis le 2 juil. 2016. Garantie de l’Ass. féd. du 12 juin 2017 ([FF 2017 4141](https://fedlex.data.admin.ch/eli/fga/2017/1119)art. 4, let. b, [1383](https://fedlex.data.admin.ch/eli/fga/2017/279)).
 
 ### Section 9 Enseignement et recherche
 
@@ -2148,6 +2148,16 @@ L’État prend en compte les exigences de la solidarité intergénérationnelle
 
 <sup>2</sup> Il facilite leur naturalisation. La procédure est simple et rapide. Elle ne peut donner lieu qu’à un émolument destiné à la couverture des frais.
 
+#### Art. 210A
+
+**Lutte contre les discriminations et la haine**[^210A-1]
+
+<sup>1</sup> L’État met en œuvre une politique de lutte contre les discriminations et la haine.
+
+<sup>2</sup> L’exhibition ou le port de symboles, d’emblèmes et de tout autre objet de haine, notamment nazi, est interdit dans les espaces publics. La loi règle les exceptions et prévoit des sanctions.
+
+[^210A-1]: Accepté en votation populaire du 9 juin 2024, en vigueur depuis le 6 juil. 2024. Garantie de l’Ass. féd. du 22 sept. 2025 ([FF 2025 2770](https://fedlex.data.admin.ch/eli/fga/2025/2770)art. 5, [1707](https://fedlex.data.admin.ch/eli/fga/2025/1707)).
+
 #### Art. 211
 
 **Associations et bénévolat**
@@ -2212,7 +2222,7 @@ L’État prend en compte les exigences de la solidarité intergénérationnelle
 
 <sup>4</sup> Le canton et les communes élaborent et mettent en œuvre une stratégie de cofinancement pour la création artistique et les institutions culturelles.
 
-[^216-1]: Accepté en [votation populaire du 19 mai 2019](http://www.admin.ch/ch/f/pore/va/20190519/index.html), en vigueur depuis le 15 juin 2019. Garantie de l’Ass. féd. du 11 mars 2020 ([FF 2020 4557](https://fedlex.data.admin.ch/eli/fga/2020/1084)art. 5, [139](https://fedlex.data.admin.ch/eli/fga/2020/12)).
+[^216-1]: Accepté en votation populaire du 19 mai 2019, en vigueur depuis le 15 juin 2019. Garantie de l’Ass. féd. du 11 mars 2020 ([FF 2020 4557](https://fedlex.data.admin.ch/eli/fga/2020/1084)art. 5, [139](https://fedlex.data.admin.ch/eli/fga/2020/12)).
 
 #### Art. 217
 
@@ -2266,7 +2276,7 @@ L’État prend en compte les exigences de la solidarité intergénérationnelle
 
 <sup>2</sup> La révision des comptes de l’État est assurée par la Cour des comptes.[^222-1]
 
-[^222-1]: Accepté en [votation populaire du 28 fév. 2016](http://www.admin.ch/ch/f/pore/va/20160228/index.html), en vigueur depuis le 30 mars 2016. Garantie de l’Ass. féd. du 12 juin 2017 ([FF 2017 4141](https://fedlex.data.admin.ch/eli/fga/2017/1119)art. 4, let. a, [1383](https://fedlex.data.admin.ch/eli/fga/2017/279)).
+[^222-1]: Accepté en votation populaire du 28 fév. 2016, en vigueur depuis le 30 mars 2016. Garantie de l’Ass. féd. du 12 juin 2017 ([FF 2017 4141](https://fedlex.data.admin.ch/eli/fga/2017/1119)art. 4, let. a, [1383](https://fedlex.data.admin.ch/eli/fga/2017/279)).
 
 #### Art. 223
 
@@ -2324,7 +2334,7 @@ L’art. 131 s’applique par analogie au contrôle et à l’audit internes, ai
 
 <sup>3</sup> Les personnes privées des droits politiques à l’entrée en vigueur de la loi constitutionnelle du 29 novembre 2020 recouvrent immédiatement ces droits.[^228-1]
 
-[^228-1]: Accepté en [votation populaire du 29 nov. 2020](http://www.admin.ch/ch/f/pore/va/20201129/index.html), en vigueur depuis le 19 déc. 2020. Garantie de l’Ass. féd. du 21 sept. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 al. 2, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
+[^228-1]: Accepté en votation populaire du 29 nov. 2020, en vigueur depuis le 19 déc. 2020. Garantie de l’Ass. féd. du 21 sept. 2021 ([FF 2021 2340](https://fedlex.data.admin.ch/eli/fga/2021/2340)art. 5 al. 2, [1414](https://fedlex.data.admin.ch/eli/fga/2021/1414)).
 
 #### Art. 229
 
@@ -2634,7 +2644,10 @@ Devise 7
 
 Dignité 14<sup>1</sup>
 
-Discriminations (interdiction des) 15<sup>2</sup>
+Discriminations
+
+- – interdiction des 15<sup>2</sup>
+- – lutte contre les 210A
 
 Dispositions transitoires 224ss
 
@@ -2841,6 +2854,10 @@ Grand Conseil
 Grève (droit de) 37
 
 Groupes d’intérêts 84<sup>1</sup>, 104
+
+Haine
+
+- – lutte contre la 210A
 
 Hautes écoles spécialisées 196
 
@@ -3200,4 +3217,3 @@ Votation 45, 46, 63, 75
 - – droit de vote des personnes de nationalité étrangère 48<sup>3</sup>
 - – élections v. Élections
 - – référendum v. Référendum
-- [tab]
