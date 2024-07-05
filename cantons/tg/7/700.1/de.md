@@ -4,13 +4,12 @@ number: "700.1"
 title: Verordnung zum Planungs- und Baugesetz und zur Interkantonalen Vereinbarung über die Harmonisierung der Baubegriffe
 short: PBV
 language: de
-version: 2024-02-10
-valid_until: 2024-07-05
-version_adopted: 2024-02-06
+version: 2024-07-06
+version_adopted: 2024-07-02
 adopted: 2012-09-18
 in_force: 2013-01-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/700.1"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2756/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2800/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ PBV
 
 (PBV)
 
-vom 18.09.2012 (Stand 10.02.2024)
+vom 18.09.2012 (Stand 06.07.2024)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -591,13 +590,47 @@ vom 18.09.2012 (Stand 10.02.2024)
 
 <sup>2</sup> In Arbeitszonen genügt eine Mitteilung über Fläche und Leistung der zur Installation vorgesehenen Anlage.
 
+## 4a. Elektronische Verfahren
+
+#### § 50c
+
+**eBau-Portal**
+
+<sup>1</sup> Der Kanton betreibt das eBau-Portal als elektronische Plattform für die digitale Abwicklung von Baugesuchen.
+
+<sup>2</sup> Das Departement regelt die Nutzung durch Vereinbarungen mit den Gemeinden und erlässt die für den Betrieb erforderlichen Weisungen.
+
+#### § 50d
+
+**Baugesuche**
+
+<sup>1</sup> Erlauben die Gemeinden Dritten die Eingabe von Baugesuchen über das eBau-Portal, gelten Gesuche als hängig, wenn die Gesuchstellerin oder der Gesuchsteller die erforderlichen Daten mit qualifizierter elektronischer Signatur über das eBau-Portal eingereicht und das eBau-Portal die Bestätigung gemäss Abs. 2 generiert hat.
+
+<sup>2</sup> Nach Einreichung der Daten im eBau-Portal erhalten die Gesuchstellerin oder der Gesuchsteller und die Gemeindebehörde eine elektronisch generierte Bestätigung mit Zeitstempel und Identifikator.
+
+#### § 50e
+
+**Baubewilligung**
+
+<sup>1</sup> Bei elektronischen Eingaben gemäss § 50d eröffnet die Gemeindebehörde den Entscheid über die Baubewilligung zusammen mit den weiteren erforderlichen Entscheiden und Stellungnahmen im eBau-Portal mit qualifizierter elektronischer Signatur.
+
+<sup>2</sup> Von Abs. 1 ausgenommen sind Entscheide über Baubewilligungen, bei denen gleichzeitig über Einsprachen zu befinden ist. Auf Verlangen fügt die Gemeindebehörde in diesen Fällen dem Papierausdruck von qualifiziert elektronisch signierten Entscheiden und Stellungnahmen das Ergebnis der Signaturprüfung und eine Bestätigung gemäss § 8 der Verordnung des Regierungsrates betreffend die elektronische Übermittlung im Rahmen von Verwaltungs-, Zivil-, Straf- sowie Schuldbetreibungs- und Konkursverfahren (VeÜ)[^50e-1] bei.
+
+<sup>3</sup> Als Zeitpunkt der elektronischen Eröffnung und Zustellung des Entscheids über die Baubewilligung gilt das Herunterladen aus dem Postfach im eBau-Portal.
+
+<sup>4</sup> Am siebten Tag nach erfolgter Bereitstellung im elektronischen Postfach im eBau-Portal gilt die Zustellung als erfolgt.
+
+[^50e-1]: RB [170.15](https://www.rechtsbuch.tg.ch/data/170.15/de)
+
 ## 5. Baubewilligungs- und Kontrollverfahren
 
 #### § 51
 
 **Baugesuch, Gesuchsunterlagen**
 
-<sup>1</sup> Das Baugesuch ist mit dem ausgefüllten kantonalen Formular unter Beilage der weiteren notwendigen Unterlagen mindestens dreifach, bei Gesuchen ausserhalb der Bauzonen vierfach bei der Gemeinde einzureichen.
+<sup>1</sup> Das Baugesuch ist mit dem ausgefüllten kantonalen Formular unter Beilage der weiteren notwendigen Unterlagen mindestens dreifach, bei Gesuchen ausserhalb der Bauzonen vierfach, bei der Gemeinde einzureichen, soweit keine elektronische Eingabe gemäss § 50d erfolgt.
+
+<sup>1<sup>bis</sup></sup> Bei elektronischen Eingaben gemäss § 50d sind erforderliche Zustimmungen von Dritten eingescannt und im PDF-Format einzureichen. Die von Hand unterzeichneten Originale sind der Gemeindebehörde auf Verlangen nachzureichen.
 
 <sup>2</sup> Dem Baugesuch sind folgende Unterlagen beizulegen:
 
