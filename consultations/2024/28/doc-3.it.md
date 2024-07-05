@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Attuazione e finanziamento dell’iniziativa per una 13esima mensilità AVS; modifica della Legge federale sull’assicurazione per la vecchiaia e per i superstiti (LAVS) e della Legge federale sulle prestazioni complementari (LPC)
 document: Progetto posto in consultazione
 language: it

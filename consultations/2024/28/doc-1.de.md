@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Umsetzung und Finanzierung der Initiative für eine 13. AHV-Rente; Änderung des Bundesgesetzes über die Alters- und Hinterlassenenversicherung (AHVG) und des Bundesgesetzes über die Ergänzungsleistungen (ELG)
 document: Vernehmlassungsvorlage-3
 language: de

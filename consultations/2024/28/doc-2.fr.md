@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Mise en œuvre et financement de l’initiative pour une 13e rente AVS; modification de la loi fédérale sur l’assurance-vieillesse et survivants (LAVS) et de la loi fédérale sur les prestations complémentaires (LPC)
 document: Projet mis en consultation-2
 language: fr
