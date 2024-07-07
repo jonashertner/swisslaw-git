@@ -3,11 +3,11 @@ sr: "0.921.2"
 title: Übereinkommen vom 28. August 2003 über das Europäische Forstinstitut
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/245"
 language: de
-version: 2020-06-19
+version: 2024-07-08
 adopted: 2003-08-28
 in_force: 2011-05-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/245/20200619/de/xml/fedlex-data-admin-ch-eli-cc-2011-245-20200619-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/245/20200619/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/245/20240708/de/xml/fedlex-data-admin-ch-eli-cc-2011-245-20240708-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/245/20240708/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,20 +16,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/245/20200619/de"
 
 AS **2011** 1619; BBl **2010** 333
 
-Authentifizierter Text*[^t-1]*
+Authentifizierter Text
 
 Abgeschlossen in Joensuu am 28. August 2003
 
-Von der Bundesversammlung genehmigt am 1. Oktober 2010[^t-2]
+Von der Bundesversammlung genehmigt am 1. Oktober 2010[^t-1]
 
 Schweizerische Ratifikationsurkunde hinterlegt am 8. März 2011
 
 In Kraft getreten für die Schweiz am 7. Mai 2011
 
-(Stand am 19. Juni 2020)
+(Stand am 8. Juli 2024)
 
-[^t-1]: Übersetzung des englischen Originaltexts.
-[^t-2]: [AS 2011 1617](https://fedlex.data.admin.ch/eli/oc/2011/244)
+[^t-1]: [AS 2011 1617](https://fedlex.data.admin.ch/eli/oc/2011/244)
 
 Die Vertragsparteien dieses Übereinkommens,
 
@@ -248,7 +247,7 @@ Dieses Übereinkommen tritt ausser Kraft, wenn zu irgendeinem Zeitpunkt nach sei
 
 *Zu Urkund dessen* haben die von ihren Regierungen hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu Joensuu am 28. August 2003 in englischer Sprache. (Es folgen die Unterschriften)
 
-Geltungsbereich am 19. Juni 2020**[^t-3]**
+Geltungsbereich am 8. Juli 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -280,8 +279,9 @@ Geltungsbereich am 19. Juni 2020**[^t-3]**
 <tr><td>Spanien</td><td>1. Juli</td><td>2005</td><td>4. September</td><td>2005</td></tr>
 <tr><td>Tschechische Republik</td><td>18. Juli</td><td>2007 B</td><td>16. September</td><td>2007</td></tr>
 <tr><td>Türkei</td><td>3. Oktober</td><td>2006</td><td>2. Dezember</td><td>2006</td></tr>
+<tr><td>Ukraine</td><td>26. Januar</td><td>2022 B</td><td>27. März</td><td>2022</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>16. November</td><td>2007</td><td>15. Januar</td><td>2008</td></tr>
 <tr><td colspan="5"><sup>a</sup> Das Übereinkommen gilt nicht für die Färöer und Grönland.</td></tr>
 </table>
 
-[^t-3]: [AS 2011 1619](https://fedlex.data.admin.ch/eli/oc/2011/245), [2016 915](https://fedlex.data.admin.ch/eli/oc/2016/156), [2020 2903](https://fedlex.data.admin.ch/eli/oc/2020/537). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2011 1619](https://fedlex.data.admin.ch/eli/oc/2011/245); [2016 915](https://fedlex.data.admin.ch/eli/oc/2016/156); [2020 2903](https://fedlex.data.admin.ch/eli/oc/2020/537); [2024 354](https://fedlex.data.admin.ch/eli/oc/2024/354). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

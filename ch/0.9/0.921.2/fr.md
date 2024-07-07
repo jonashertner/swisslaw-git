@@ -3,16 +3,16 @@ sr: "0.921.2"
 title: "Convention du 28 août 2003 sur l'Institut européen des forêts"
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/245"
 language: fr
-version: 2020-06-19
+version: 2024-07-08
 adopted: 2003-08-28
 in_force: 2011-05-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/245/20200619/fr/xml/fedlex-data-admin-ch-eli-cc-2011-245-20200619-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/245/20200619/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/245/20240708/fr/xml/fedlex-data-admin-ch-eli-cc-2011-245-20240708-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/245/20240708/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Convention sur l’Institut européen des forêts****
+# Convention sur l’Institut européen des forêts
 
 RO **2011** 1619; FF **2010** 305[^t-1]
 
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 8 mars 2011
 
 Entrée en vigueur pour la Suisse le 7 mai 2011
 
-(Etat le 19 (Etat le 19
+(État le 8 juillet 2024)
 
 [^t-1]: Nouvelle teneur de la Conv. selon l’erratum publié le 23 avr. 2013 ([RO 2013 1199](https://fedlex.data.admin.ch/eli/oc/2013/258)).
 [^t-2]: [RO 2011 1617](https://fedlex.data.admin.ch/eli/oc/2011/244)
@@ -243,40 +243,41 @@ La présente Convention prend fin si, à tout moment après son entrée en vigue
 
 *En foi de quoi*, les soussignés, dûment autorisés par leur Gouvernement respectif, ont signé la présente Convention. Fait en langue anglaise, à Joensuu, le 28 août 2003. (Suivent les signatures)
 
-Champ d’application le 19 juin 2020**[^t-3]**
+Champ d’application le 8 juillet 2024[^t-3]
 
 <table>
-<tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
-<tr><td>Allemagne</td><td>9 mars</td><td>2005</td><td>4 septembre</td><td>2005</td></tr>
-<tr><td>Autriche</td><td>14 septembre</td><td>2005</td><td>13 novembre</td><td>2005</td></tr>
-<tr><td>Belgique</td><td>24 mai</td><td>2017 A</td><td>23 juillet</td><td>2017</td></tr>
-<tr><td>Bulgarie</td><td>12 décembre</td><td>2005</td><td>10 février</td><td>2006</td></tr>
-<tr><td>Croatie</td><td>15 avril</td><td>2004 A</td><td>4 septembre</td><td>2005</td></tr>
-<tr><td>Danemark <sup>a</sup></td><td>5 février</td><td>2004</td><td>4 septembre</td><td>2005</td></tr>
-<tr><td>Espagne</td><td>1<sup>er</sup> juillet</td><td>2005</td><td>4 septembre</td><td>2005</td></tr>
-<tr><td>Estonie</td><td>27 juin</td><td>2018 A</td><td>26 août</td><td>2018</td></tr>
-<tr><td>Finlande</td><td>24 mai</td><td>2004</td><td>4 septembre</td><td>2005</td></tr>
-<tr><td>France</td><td>10 janvier</td><td>2013</td><td>11 mars</td><td>2013</td></tr>
-<tr><td>Grèce</td><td>1<sup>er</sup> avril</td><td>2009</td><td>31 mai</td><td>2009</td></tr>
-<tr><td>Irlande</td><td>20 juillet</td><td>2010 A</td><td>18 septembre</td><td>2010</td></tr>
-<tr><td>Italie</td><td>5 mai</td><td>2009</td><td>4 juillet</td><td>2009</td></tr>
-<tr><td>Lettonie</td><td>29 mai</td><td>2007 A</td><td>28 juillet</td><td>2007</td></tr>
-<tr><td>Lituanie</td><td>31 janvier</td><td>2017 A</td><td>1<sup>er</sup> avril</td><td>2017</td></tr>
-<tr><td>Luxembourg</td><td>1<sup>er</sup> juillet</td><td>2009</td><td>30 août</td><td>2009</td></tr>
-<tr><td>Norvège</td><td>9 octobre</td><td>2003</td><td>4 septembre</td><td>2005</td></tr>
-<tr><td>Pays-Bas</td><td>8 novembre</td><td>2007</td><td>7 janvier</td><td>2008</td></tr>
-<tr><td>Pologne</td><td>13 novembre</td><td>2008 A</td><td>12 janvier</td><td>2009</td></tr>
-<tr><td>Portugal</td><td>16 janvier</td><td>2007</td><td>17 mars</td><td>2007</td></tr>
-<tr><td>République tchèque</td><td>18 juillet</td><td>2007 A</td><td>16 septembre</td><td>2007</td></tr>
-<tr><td>Roumanie</td><td>6 juillet</td><td>2005</td><td>4 septembre</td><td>2005</td></tr>
-<tr><td>Royaume-Uni</td><td>16 novembre</td><td>2007</td><td>15 janvier</td><td>2008</td></tr>
-<tr><td>Serbie</td><td>4 juillet</td><td>2017</td><td>2 septembre</td><td>2017</td></tr>
-<tr><td>Slovaquie</td><td>26 février</td><td>2013 A</td><td>27 avril</td><td>2013</td></tr>
-<tr><td>Slovénie</td><td>5 avril</td><td>2006</td><td>4 juin</td><td>2006</td></tr>
-<tr><td>Suède</td><td>19 janvier</td><td>2005</td><td>4 septembre</td><td>2005</td></tr>
-<tr><td>Suisse</td><td>8 mars</td><td>2011</td><td>7 mai</td><td>2011</td></tr>
-<tr><td>Turquie</td><td>3 octobre</td><td>2006</td><td>2 décembre</td><td>2006</td></tr>
-<tr><td colspan="5"><sup>a</sup> Pas applicable aux Îles Féroé et au Groenland.</td></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th colspan="2">Entrée en vigueur</th><th></th></tr>
+<tr><td>Allemagne</td><td>9 mars</td><td>2005</td><td colspan="2">4 septembre</td><td>2005</td></tr>
+<tr><td>Autriche</td><td>14 septembre</td><td>2005</td><td colspan="2">13 novembre</td><td>2005</td></tr>
+<tr><td>Belgique</td><td>24 mai</td><td>2017 A</td><td colspan="2">23 juillet</td><td>2017</td></tr>
+<tr><td>Bulgarie</td><td>12 décembre</td><td>2005</td><td colspan="2">10 février</td><td>2006</td></tr>
+<tr><td>Croatie</td><td>15 avril</td><td>2004 A</td><td colspan="2">4 septembre</td><td>2005</td></tr>
+<tr><td>Danemark <sup>a</sup></td><td>5 février</td><td>2004</td><td colspan="2">4 septembre</td><td>2005</td></tr>
+<tr><td>Espagne</td><td>1<sup>er</sup> juillet</td><td>2005</td><td colspan="2">4 septembre</td><td>2005</td></tr>
+<tr><td>Estonie</td><td>27 juin</td><td>2018 A</td><td colspan="2">26 août</td><td>2018</td></tr>
+<tr><td>Finlande</td><td>24 mai</td><td>2004</td><td colspan="2">4 septembre</td><td>2005</td></tr>
+<tr><td>France</td><td>10 janvier</td><td>2013</td><td colspan="2">11 mars</td><td>2013</td></tr>
+<tr><td>Grèce</td><td>1<sup>er</sup> avril</td><td>2009</td><td colspan="2">31 mai</td><td>2009</td></tr>
+<tr><td>Irlande</td><td>20 juillet</td><td>2010 A</td><td colspan="2">18 septembre</td><td>2010</td></tr>
+<tr><td>Italie</td><td>5 mai</td><td>2009</td><td colspan="2">4 juillet</td><td>2009</td></tr>
+<tr><td>Lettonie</td><td>29 mai</td><td>2007 A</td><td colspan="2">28 juillet</td><td>2007</td></tr>
+<tr><td>Lituanie</td><td>31 janvier</td><td>2017 A</td><td colspan="2">1<sup>er</sup> avril</td><td>2017</td></tr>
+<tr><td>Luxembourg</td><td>1<sup>er</sup> juillet</td><td>2009</td><td colspan="2">30 août</td><td>2009</td></tr>
+<tr><td>Norvège</td><td>9 octobre</td><td>2003</td><td colspan="2">4 septembre</td><td>2005</td></tr>
+<tr><td>Pays-Bas</td><td>8 novembre</td><td>2007</td><td colspan="2">7 janvier</td><td>2008</td></tr>
+<tr><td>Pologne</td><td>13 novembre</td><td>2008 A</td><td colspan="2">12 janvier</td><td>2009</td></tr>
+<tr><td>Portugal</td><td>16 janvier</td><td>2007</td><td colspan="2">17 mars</td><td>2007</td></tr>
+<tr><td>République tchèque</td><td>18 juillet</td><td>2007 A</td><td colspan="2">16 septembre</td><td>2007</td></tr>
+<tr><td>Roumanie</td><td>6 juillet</td><td>2005</td><td colspan="2">4 septembre</td><td>2005</td></tr>
+<tr><td>Royaume-Uni</td><td>16 novembre</td><td>2007</td><td colspan="2">15 janvier</td><td>2008</td></tr>
+<tr><td>Serbie</td><td>4 juillet</td><td>2017</td><td colspan="2">2 septembre</td><td>2017</td></tr>
+<tr><td>Slovaquie</td><td>26 février</td><td>2013 A</td><td colspan="2">27 avril</td><td>2013</td></tr>
+<tr><td>Slovénie</td><td>5 avril</td><td>2006</td><td colspan="2">4 juin</td><td>2006</td></tr>
+<tr><td>Suède</td><td>19 janvier</td><td>2005</td><td colspan="2">4 septembre</td><td>2005</td></tr>
+<tr><td>Suisse</td><td>8 mars</td><td>2011</td><td colspan="2">7 mai</td><td>2011</td></tr>
+<tr><td>Turquie</td><td>3 octobre</td><td>2006</td><td colspan="2">2 décembre</td><td>2006</td></tr>
+<tr><td>Ukraine</td><td>26 janvier</td><td colspan="2">2022 A</td><td>27 mars</td><td>2022</td></tr>
+<tr><td colspan="6"><sup>a</sup> Pas applicable aux Îles Féroé et au Groenland.</td></tr>
 </table>
 
-[^t-3]: [RO 2013 1199](https://fedlex.data.admin.ch/eli/oc/2013/258), [2016 915](https://fedlex.data.admin.ch/eli/oc/2016/156), [2020 2903](https://fedlex.data.admin.ch/eli/oc/2020/537). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-3]: [RO 2013 1199](https://fedlex.data.admin.ch/eli/oc/2013/258); [2016 915](https://fedlex.data.admin.ch/eli/oc/2016/156); [2020 2903](https://fedlex.data.admin.ch/eli/oc/2020/537); [2024 354](https://fedlex.data.admin.ch/eli/oc/2024/354). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

@@ -3,11 +3,11 @@ sr: "0.921.2"
 title: "Convenzione del 28 agosto 2003 sull'Istituto forestale europeo"
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/245"
 language: it
-version: 2020-06-19
+version: 2024-07-08
 adopted: 2003-08-28
 in_force: 2011-05-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/245/20200619/it/xml/fedlex-data-admin-ch-eli-cc-2011-245-20200619-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/245/20200619/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/245/20240708/it/xml/fedlex-data-admin-ch-eli-cc-2011-245-20240708-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/245/20240708/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2011** 1619; FF **2010** 289
 
 Traduzione
 
-Conclusa a Joensuu il 28 agosto 2003
+Conclusa a Joensuu il 28 agosto 2003 Approvata dall’Assemblea federale il 1<sup>°</sup> ottobre 2010[^t-1] Strumento di ratifica depositato dalla Svizzera l’8 marzo 2011 Entrata in vigore per la Svizzera il 7 maggio 2011
 
-Approvata dall’Assemblea federale il 1<sup>°</sup> ottobre 2010[^t-1]
-
-Strumento di ratifica depositato dalla Svizzera l’8 marzo 2011
-
-Entrata in vigore per la Svizzera il 7 maggio 2011
-
-(Stato 19 giugno 2020)
+(Stato 8 luglio 2024)
 
 [^t-1]: [RU 2011 1617](https://fedlex.data.admin.ch/eli/oc/2011/244)
 
@@ -245,10 +239,10 @@ La presente Convenzione cessa se in qualunque momento successivo alla sua entrat
 
 *In fede di che*, i sottoscritti, a ciò debitamente autorizzati dai rispettivi governi, hanno sottoscritto la presente Convenzione. Fatta in lingua inglese a Joensuu, il 28 agosto 2003. (Seguono le firme)
 
-Campo d’applicazione il 19 giugno 2020**[^t-2]**
+Campo d’applicazione l’8 luglio 2024[^t-2]
 
 <table>
-<tr><th>Stati parte</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Austria</td><td>14 settembre</td><td>2005</td><td>13 novembre</td><td>2005</td></tr>
 <tr><td>Belgio</td><td>24 maggio</td><td>2017 A</td><td>23 luglio</td><td>2017</td></tr>
 <tr><td>Bulgaria</td><td>12 dicembre</td><td>2005</td><td>10 febbraio</td><td>2006</td></tr>
@@ -278,7 +272,8 @@ Campo d’applicazione il 19 giugno 2020**[^t-2]**
 <tr><td>Svezia</td><td>19 gennaio</td><td>2005</td><td>4 settembre</td><td>2005</td></tr>
 <tr><td>Svizzera</td><td>8 marzo</td><td>2011</td><td>7 maggio</td><td>2011</td></tr>
 <tr><td>Turchia</td><td>3 ottobre</td><td>2006</td><td>2 dicembre</td><td>2006</td></tr>
+<tr><td>Ucraina</td><td>26 gennaio</td><td>2022 A</td><td>27 marzo</td><td>2022</td></tr>
 <tr><td colspan="5"><sup>a</sup> La Conv. non si applica alle isole Faeröer e alla Groenlandia.</td></tr>
 </table>
 
-[^t-2]: [RU 2011 1619](https://fedlex.data.admin.ch/eli/oc/2011/245), [2016 915](https://fedlex.data.admin.ch/eli/oc/2016/156)e [2020 2903](https://fedlex.data.admin.ch/eli/oc/2020/537). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2011 1619](https://fedlex.data.admin.ch/eli/oc/2011/245); [2016 915](https://fedlex.data.admin.ch/eli/oc/2016/156); [2020 2903](https://fedlex.data.admin.ch/eli/oc/2020/537); [2024 354](https://fedlex.data.admin.ch/eli/oc/2024/354). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
