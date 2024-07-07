@@ -3,11 +3,11 @@ sr: "0.747.363.2"
 title: "Convenzione internazionale del 23 settembre 1910 per l'unificazione di alcune regole in materia di assistenza e di salvataggio marittimi"
 eli: "https://fedlex.data.admin.ch/eli/cc/1954/773_790_686"
 language: it
-version: 2012-03-21
+version: 2024-07-08
 adopted: 1910-09-23
 in_force: 1954-08-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1954/773_790_686/20120321/it/xml/fedlex-data-admin-ch-eli-cc-1954-773_790_686-20120321-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1954/773_790_686/20120321/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1954/773_790_686/20240708/it/xml/fedlex-data-admin-ch-eli-cc-1954-773_790_686-20240708-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1954/773_790_686/20240708/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1954/773_790_686/20120321/it"
 
 RU **1954** 868; FF **1953** III 781 ediz.franc. e **1953** III 749 ediz. ted.
 
-Traduzione*[^t-1]*
+Traduzione
 
-Conchiusa a Bruxelles il 23 settembre 1910 Approvata dall’Assemblea federale il 17 marzo 1954[^t-2] Strumento d’adesione depositato dalla Svizzera il 28 maggio 1954 Entrata in vigore per la Svizzera il 15 agosto 1954
+Conchiusa a Bruxelles il 23 settembre 1910 Approvata dall’Assemblea federale il 17 marzo 1954[^t-1] Strumento d’adesione depositato dalla Svizzera il 28 maggio 1954 Entrata in vigore per la Svizzera il 15 agosto 1954
 
-(Stato 21 marzo 2012)
+(Stato 8 luglio 2024)
 
-[^t-1]: Il testo originale francese è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
-[^t-2]: N. 4 del DF del 17 marzo 1954 ([RU 1954 663](https://fedlex.data.admin.ch/eli/oc/1954/749_767_663)).
+[^t-1]: N. 4 del DF del 17 marzo 1954 ([RU 1954 663](https://fedlex.data.admin.ch/eli/oc/1954/749_767_663)).
 
 #### Art. 1
 
@@ -146,98 +145,100 @@ Nel caso in cui alcuna delle Alte Parti contraenti disdicesse la presente Conven
 
 In fede di che i Plenipotenziari delle Alte Parti contraenti rispettive hanno firmato la presente Convenzione e vi hanno apposto i loro sigilli. Fatto a Bruxelles, in un solo esemplare, il 23 settembre 1910. (Seguono le firme)
 
-Campo d’applicazione il 21 marzo 2012**[^t-3]**
+Campo d’applicazione l’8 luglio 2024[^t-2]
 
 <table>
-<tr><th colspan="3">Stati partecipanti</th><th colspan="2">Ratificazione Adesione (A) Dichiarazione di successione (S)</th><th colspan="2"></th><th>Entrata in vigore</th><th></th></tr>
-<tr><td colspan="3">Algeria</td><td colspan="2">13 aprile</td><td colspan="2">1964 A</td><td>20 luglio</td><td>1964</td></tr>
-<tr><td colspan="3">Angola<sup>a</sup></td><td colspan="2">30 luglio</td><td colspan="2">1914 A</td><td>30 agosto</td><td>1914</td></tr>
-<tr><td colspan="3">Antigua e Barbuda<sup>b</sup></td><td colspan="2">1° febbraio</td><td colspan="2">1913 A</td><td>3 marzo</td><td>1913</td></tr>
-<tr><td colspan="3">Argentina</td><td colspan="2">28 febbraio</td><td colspan="2">1922 A</td><td>15 aprile</td><td>1922</td></tr>
-<tr><td colspan="3">Australia<sup>b</sup></td><td colspan="2">9 settembre</td><td colspan="2">1930 A</td><td>24 ottobre</td><td>1930</td></tr>
-<tr><td colspan="3">[tab] Norfolk, Isola di<sup>b</sup></td><td colspan="2">1° febbraio</td><td colspan="2">1913 A</td><td>3 marzo</td><td>1913</td></tr>
-<tr><td colspan="3">Austria</td><td colspan="2">1° febbraio</td><td colspan="2">1913</td><td>1° marzo</td><td>1913</td></tr>
-<tr><td colspan="3">Bahamas<sup>b</sup></td><td colspan="2">1° febbraio</td><td colspan="2">1913 A</td><td>3 marzo</td><td>1913</td></tr>
-<tr><td colspan="3">Barbados<sup>b</sup></td><td colspan="2">1° febbraio</td><td colspan="2">1913 A</td><td>3 marzo</td><td>1913</td></tr>
-<tr><td colspan="3">Belgio</td><td colspan="2">1° febbraio</td><td colspan="2">1913</td><td>1° marzo</td><td>1913</td></tr>
-<tr><td colspan="3">Belize<sup>b</sup></td><td colspan="2">1° febbraio</td><td colspan="2">1913 A</td><td>3 marzo</td><td>1913</td></tr>
-<tr><td colspan="3">Brasile</td><td colspan="2">31 dicembre</td><td colspan="2">1913</td><td>31 gennaio</td><td>1914</td></tr>
-<tr><td colspan="3">Capo Verde<sup>a</sup></td><td colspan="2">30 luglio</td><td colspan="2">1914 A</td><td>30 agosto</td><td>1914</td></tr>
-<tr><td colspan="3">[tab] Cina</td><td colspan="2"></td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td colspan="3">[tab] Hong Kong<sup>c</sup></td><td colspan="2">6 giugno</td><td colspan="2">1997</td><td>1° luglio</td><td>1997</td></tr>
-<tr><td colspan="3">[tab] Macao<sup>d</sup></td><td colspan="2">8 ottobre</td><td colspan="2">1999</td><td>20 dicembre</td><td>1999</td></tr>
-<tr><td colspan="3">Cipro<sup>b</sup></td><td colspan="2">1° febbraio</td><td colspan="2">1913 A</td><td>3 marzo</td><td>1913</td></tr>
-<tr><td colspan="3">Congo (Kinshasa)</td><td colspan="2">17 luglio</td><td colspan="2">1967 A</td><td>17 agosto</td><td>1967</td></tr>
-<tr><td colspan="3">Dominicana, Repubblica</td><td colspan="2">23 luglio</td><td colspan="2">1958 A</td><td>25 settembre</td><td>1958</td></tr>
-<tr><td colspan="3">Egitto</td><td colspan="2">19 novembre</td><td colspan="2">1943 A</td><td>1° gennaio</td><td>1944</td></tr>
-<tr><td colspan="3">Eritrea<sup>e</sup></td><td colspan="2">9 novembre</td><td colspan="2">1934 A</td><td>5 gennaio</td><td>1935</td></tr>
-<tr><td colspan="3">Estonia</td><td colspan="2">15 maggio</td><td colspan="2">1929 A</td><td>20 febbraio</td><td>1930</td></tr>
-<tr><td colspan="3">Figi, Isole</td><td colspan="2">22 agosto</td><td colspan="2">1972 S</td><td>10 ottobre</td><td>1970</td></tr>
-<tr><td colspan="3">Finlandia</td><td colspan="2">17 luglio</td><td colspan="2">1923 A</td><td>28 agosto</td><td>1923</td></tr>
-<tr><td colspan="3">Francia</td><td colspan="2">1° febbraio</td><td colspan="2">1913</td><td>1° marzo</td><td>1913</td></tr>
-<tr><td colspan="3">Gambia<sup>b</sup></td><td colspan="2">1° febbraio</td><td colspan="2">1913 A</td><td>3 marzo</td><td>1913</td></tr>
-<tr><td colspan="3">Ghana<sup>b</sup></td><td colspan="2">1° febbraio</td><td colspan="2">1913 A</td><td>3 marzo</td><td>1913</td></tr>
-<tr><td colspan="3">Giamaica<sup>b</sup></td><td colspan="2">1° febbraio</td><td colspan="2">1913 A</td><td>3 marzo</td><td>1913</td></tr>
-<tr><td colspan="3">Giappone</td><td colspan="2">12 gennaio</td><td colspan="2">1914</td><td>12 febbraio</td><td>1914</td></tr>
-<tr><td colspan="3">Grecia</td><td colspan="2">15 ottobre</td><td colspan="2">1913</td><td>15 novembre</td><td>1913</td></tr>
-<tr><td colspan="3">Grenada<sup>b</sup></td><td colspan="2">1° febbraio</td><td colspan="2">1913 A</td><td>3 marzo</td><td>1913</td></tr>
-<tr><td colspan="3">Guinea-Bissau<sup>a</sup></td><td colspan="2">30 luglio</td><td colspan="2">1914 A</td><td>30 agosto</td><td>1914</td></tr>
-<tr><td colspan="3">Guyana<sup>b</sup></td><td colspan="2">1° febbraio</td><td colspan="2">1913 A</td><td>3 marzo</td><td>1913</td></tr>
-<tr><td colspan="3">Haiti</td><td colspan="2">18 agosto</td><td colspan="2">1951 A</td><td>1° novembre</td><td>1951</td></tr>
-<tr><td colspan="3">India<sup>b</sup></td><td colspan="2">1° febbraio</td><td colspan="2">1913 A</td><td>3 marzo</td><td>1913</td></tr>
-<tr><td colspan="3">Irlanda<sup>b</sup></td><td colspan="2">1° febbraio</td><td colspan="2">1913</td><td>1° marzo</td><td>1913</td></tr>
-<tr><td colspan="3">Italia</td><td colspan="2">2 giugno</td><td colspan="2">1913</td><td>2 luglio</td><td>1913</td></tr>
-<tr><td colspan="3">Kenya<sup>b</sup></td><td colspan="2">1° febbraio</td><td colspan="2">1913 A</td><td>3 marzo</td><td>1913</td></tr>
-<tr><td colspan="3">Kiribati<sup>b</sup></td><td colspan="2">1° febbraio</td><td colspan="2">1913 A</td><td>3 marzo</td><td>1913</td></tr>
-<tr><td colspan="3">Lettonia</td><td colspan="2">2 agosto</td><td colspan="2">1932 A</td><td>16 settembre</td><td>1932</td></tr>
-<tr><td colspan="3">Lussemburgo</td><td colspan="2">18 febbraio</td><td colspan="2">1991 A</td><td>22 maggio</td><td>1991</td></tr>
-<tr><td colspan="3">Madagascar</td><td colspan="2">13 luglio</td><td colspan="2">1965 S</td><td>26 giugno</td><td>1960</td></tr>
-<tr><td colspan="3">Malaysia<sup>b</sup></td><td colspan="2">1° febbraio</td><td colspan="2">1913 A</td><td>3 marzo</td><td>1913</td></tr>
-<tr><td colspan="3">Malta<sup>b</sup></td><td colspan="2">1° febbraio</td><td colspan="2">1913 A</td><td>3 marzo</td><td>1913</td></tr>
-<tr><td colspan="3">Maurizio<sup>b</sup></td><td colspan="2">1° febbraio</td><td colspan="2">1913 A</td><td>3 marzo</td><td>1913</td></tr>
-<tr><td colspan="3">Messico</td><td colspan="2">1° febbraio</td><td colspan="2">1913</td><td>1° marzo</td><td>1913</td></tr>
-<tr><td colspan="3">Mozambico<sup>a</sup></td><td colspan="2">30 luglio</td><td colspan="2">1914 A</td><td>30 agosto</td><td>1914</td></tr>
-<tr><td colspan="3">Nigeria<sup>b</sup></td><td colspan="2">1° febbraio</td><td colspan="2">1913 A</td><td>3 marzo</td><td>1913</td></tr>
-<tr><td colspan="3">Oman</td><td colspan="2">21 agosto</td><td colspan="2">1975 A</td><td>1° ottobre</td><td>1975</td></tr>
-<tr><td colspan="3">Papua Nuova Guinea</td><td colspan="2">14 ottobre</td><td colspan="2">1980 S</td><td>16 settembre</td><td>1975</td></tr>
-<tr><td colspan="3">Paraguay</td><td colspan="2">22 novembre</td><td colspan="2">1967 A</td><td>22 dicembre</td><td>1967</td></tr>
-<tr><td colspan="3">Polonia</td><td colspan="2">15 ottobre</td><td colspan="2">1921 A</td><td>17 novembre</td><td>1921</td></tr>
-<tr><td colspan="3">Portogallo</td><td colspan="2">25 luglio</td><td colspan="2">1913</td><td>25 agosto</td><td>1913</td></tr>
-<tr><td colspan="3">[tab] Regno Unito</td><td colspan="2"></td><td colspan="2"></td><td></td><td></td></tr>
-<tr><td colspan="3">Anguilla</td><td colspan="2">1° febbraio</td><td colspan="2">1913</td><td>3 marzo</td><td>1913</td></tr>
-<tr><td colspan="3">Bermuda</td><td colspan="2">1° febbraio</td><td colspan="2">1913 A</td><td>3 marzo</td><td>1913</td></tr>
-<tr><td colspan="3">Cayman, Isole</td><td colspan="2">1° febbraio</td><td colspan="2">1913 A</td><td>3 marzo</td><td>1913</td></tr>
-<tr><td colspan="3">Gibilterra</td><td colspan="2">1° febbraio</td><td colspan="2">1913 A</td><td>3 marzo</td><td>1913</td></tr>
-<tr><td colspan="3">Sant’Elena</td><td colspan="2">1° febbraio</td><td colspan="2">1913 A</td><td>3 marzo</td><td>1913</td></tr>
-<tr><td colspan="3">Turks e Caicos, Isole</td><td colspan="2">1° febbraio</td><td colspan="2">1913 A</td><td>3 marzo</td><td>1913</td></tr>
-<tr><td colspan="3">Romania</td><td colspan="2">1° febbraio</td><td colspan="2">1913</td><td>1° marzo</td><td>1913</td></tr>
-<tr><td colspan="3">Russia</td><td colspan="2">10 luglio</td><td colspan="2">1936 A</td><td>27 agosto</td><td>1936</td></tr>
-<tr><td colspan="3">Saint Kitts e Nevis<sup>b</sup></td><td colspan="2">1° febbraio</td><td colspan="2">1913 A</td><td>3 marzo</td><td>1913</td></tr>
-<tr><td colspan="3">Saint Vincent e Grenadine</td><td colspan="2">21 settembre</td><td colspan="2">2001 S</td><td>28 ottobre</td><td>1979</td></tr>
-<tr><td colspan="3">Salomone, Isole</td><td colspan="2">17 settembre</td><td colspan="2">1981 S</td><td>7 luglio</td><td>1978</td></tr>
-<tr><td colspan="3">Santa Lucia</td><td colspan="2">21 marzo</td><td colspan="2">1990 S</td><td>22 febbraio</td><td>1979</td></tr>
-<tr><td colspan="3">São Tomé e Príncipe<sup>a</sup></td><td colspan="2">30 luglio</td><td colspan="2">1914 A</td><td>30 agosto</td><td>1914</td></tr>
-<tr><td colspan="3">Seicelle<sup>b</sup></td><td colspan="2">1° febbraio</td><td colspan="2">1913 A</td><td>3 marzo</td><td>1913</td></tr>
-<tr><td colspan="3">Serbia</td><td colspan="2">31 dicembre</td><td colspan="2">1931 A</td><td>12 febbraio</td><td>1932</td></tr>
-<tr><td colspan="3">Singapore</td><td colspan="2">18 giugno</td><td colspan="2">1974 S</td><td>9 agosto</td><td>1965</td></tr>
-<tr><td colspan="3">Siria</td><td colspan="2">1° agosto</td><td colspan="2">1974 A</td><td>1° settembre</td><td>1974</td></tr>
-<tr><td colspan="3">Slovenia</td><td colspan="2">16 novembre</td><td colspan="2">1991 S</td><td>25 giugno</td><td>1991</td></tr>
-<tr><td colspan="3">Somalia<sup>b</sup> <sup>c</sup></td><td colspan="2">9 novembre</td><td colspan="2">1934 A</td><td>5 gennaio</td><td>1935</td></tr>
-<tr><td colspan="3">Sri Lanka<sup>b</sup></td><td colspan="2">1° febbraio</td><td colspan="2">1913 A</td><td>3 marzo</td><td>1913</td></tr>
-<tr><td colspan="3">Stati Uniti</td><td colspan="2">1° febbraio</td><td colspan="2">1913</td><td>1° marzo</td><td>1913</td></tr>
-<tr><td colspan="3">Svizzera</td><td colspan="2">28 maggio</td><td colspan="2">1954 A</td><td>15 agosto</td><td>1954</td></tr>
-<tr><td colspan="3">Timor-Leste<sup>a</sup></td><td colspan="2">30 luglio</td><td colspan="2">1914 A</td><td>30 agosto</td><td>1914</td></tr>
-<tr><td colspan="3">Tonga</td><td colspan="2">13 giugno</td><td colspan="2">1978 A</td><td>30 luglio</td><td>1978</td></tr>
-<tr><td colspan="3">Trinidad e Tobago<sup>b</sup></td><td colspan="2">3 febbraio</td><td colspan="2">1913 A</td><td>3 marzo</td><td>1913</td></tr>
-<tr><td colspan="3">Turchia</td><td colspan="2">4 luglio</td><td colspan="2">1955 A</td><td>16 settembre</td><td>1955</td></tr>
-<tr><td colspan="3">Tuvalu<sup>b</sup></td><td colspan="2">1° febbraio</td><td colspan="2">1913 A</td><td>3 marzo</td><td>1913</td></tr>
-<tr><td colspan="3">Ungheria</td><td colspan="2">1° febbraio</td><td colspan="2">1913</td><td>1° marzo</td><td>1913</td></tr>
-<tr><td colspan="3">Uruguay</td><td colspan="2">21 luglio</td><td colspan="2">1915 A</td><td>24 agosto</td><td>1915</td></tr>
-<tr><td><sup>a</sup></td><td colspan="8">Adesione o ratifica ad opera del Portogallo.</td></tr>
-<tr><td><sup>b</sup></td><td colspan="8">Adesione o ratifica ad opera del Regno Unito.</td></tr>
-<tr><td><sup>c</sup></td><td colspan="8">Adesione o ratifica ad opera dell’Italia.</td></tr>
-<tr><td><sup>d</sup></td><td colspan="8">Dal 3 mar. 1913 al 30 giu. 1997 la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Il 1° lug. 1997 Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. La Conv. è applicabile dal 1° lug. 1997 anche alla RAS Hong Kong.</td></tr>
-<tr><td><sup>e</sup></td><td colspan="8">Dal 30 ago. 1914 al 19 dic. 1999 la Conv. era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Il 20 dic. 1999 Macao è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 5 ott. 1999 la Conv. è applicabile dal 20 dic. 1999 anche alla RAS Macao.</td></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Algeria</td><td>13 aprile</td><td>1964 A</td><td>20 luglio</td><td>1964</td></tr>
+<tr><td>Angola <sup>a</sup></td><td>30 luglio</td><td>1914 A</td><td>30 agosto</td><td>1914</td></tr>
+<tr><td>Antigua e Barbuda <sup>b</sup></td><td>1° febbraio</td><td>1913 A</td><td>3 marzo</td><td>1913</td></tr>
+<tr><td>Argentina</td><td>28 febbraio</td><td>1922 A</td><td>15 aprile</td><td>1922</td></tr>
+<tr><td>Australia <sup>b</sup></td><td>9 settembre</td><td>1930 A</td><td>24 ottobre</td><td>1930</td></tr>
+<tr><td>[tab] Norfolk, Isola di <sup>b</sup></td><td>1° febbraio</td><td>1913 A</td><td>3 marzo</td><td>1913</td></tr>
+<tr><td>Austria</td><td>1° febbraio</td><td>1913</td><td>1° marzo</td><td>1913</td></tr>
+<tr><td>Bahamas <sup>b</sup></td><td>1° febbraio</td><td>1913 A</td><td>3 marzo</td><td>1913</td></tr>
+<tr><td>Barbados <sup>b</sup></td><td>1° febbraio</td><td>1913 A</td><td>3 marzo</td><td>1913</td></tr>
+<tr><td>Belgio</td><td>1° febbraio</td><td>1913</td><td>1° marzo</td><td>1913</td></tr>
+<tr><td>Belize <sup>b</sup></td><td>1° febbraio</td><td>1913 A</td><td>3 marzo</td><td>1913</td></tr>
+<tr><td>Brasile</td><td>31 dicembre</td><td>1913</td><td>31 gennaio</td><td>1914</td></tr>
+<tr><td>Capo Verde <sup>a</sup></td><td>30 luglio</td><td>1914 A</td><td>30 agosto</td><td>1914</td></tr>
+<tr><td>[tab] Cina</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>[tab] Hong Kong <sup>c</sup></td><td>6 giugno</td><td>1997</td><td>1° luglio</td><td>1997</td></tr>
+<tr><td>[tab] Macao <sup>d</sup></td><td>8 ottobre</td><td>1999</td><td>20 dicembre</td><td>1999</td></tr>
+<tr><td>Cipro <sup>b</sup></td><td>1° febbraio</td><td>1913 A</td><td>3 marzo</td><td>1913</td></tr>
+<tr><td>Congo (Kinshasa)</td><td>17 luglio</td><td>1967 A</td><td>17 agosto</td><td>1967</td></tr>
+<tr><td>Dominica <sup>b</sup></td><td>1° febbraio</td><td>1913 A</td><td>3 marzo</td><td>1913</td></tr>
+<tr><td>Dominicana, Repubblica</td><td>23 luglio</td><td>1958 A</td><td>25 settembre</td><td>1958</td></tr>
+<tr><td>Egitto</td><td>19 novembre</td><td>1943 A</td><td>1° gennaio</td><td>1944</td></tr>
+<tr><td>Eritrea <sup>e</sup></td><td>9 novembre</td><td>1934 A</td><td>5 gennaio</td><td>1935</td></tr>
+<tr><td>Estonia</td><td>15 maggio</td><td>1929 A</td><td>20 febbraio</td><td>1930</td></tr>
+<tr><td>Figi, Isole</td><td>22 agosto</td><td>1972 S</td><td>10 ottobre</td><td>1970</td></tr>
+<tr><td>Finlandia</td><td>17 luglio</td><td>1923 A</td><td>28 agosto</td><td>1923</td></tr>
+<tr><td>Francia</td><td>1° febbraio</td><td>1913</td><td>1° marzo</td><td>1913</td></tr>
+<tr><td>Gambia <sup>b</sup></td><td>1° febbraio</td><td>1913 A</td><td>3 marzo</td><td>1913</td></tr>
+<tr><td>Ghana <sup>b</sup></td><td>1° febbraio</td><td>1913 A</td><td>3 marzo</td><td>1913</td></tr>
+<tr><td>Giamaica <sup>b</sup></td><td>1° febbraio</td><td>1913 A</td><td>3 marzo</td><td>1913</td></tr>
+<tr><td>Giappone</td><td>12 gennaio</td><td>1914</td><td>12 febbraio</td><td>1914</td></tr>
+<tr><td>Grecia</td><td>15 ottobre</td><td>1913</td><td>15 novembre</td><td>1913</td></tr>
+<tr><td>Grenada <sup>b</sup></td><td>1° febbraio</td><td>1913 A</td><td>3 marzo</td><td>1913</td></tr>
+<tr><td>Guinea-Bissau <sup>a</sup></td><td>30 luglio</td><td>1914 A</td><td>30 agosto</td><td>1914</td></tr>
+<tr><td>Guyana <sup>b</sup></td><td>1° febbraio</td><td>1913 A</td><td>3 marzo</td><td>1913</td></tr>
+<tr><td>Haiti</td><td>18 agosto</td><td>1951 A</td><td>1° novembre</td><td>1951</td></tr>
+<tr><td>India <sup>b</sup></td><td>1° febbraio</td><td>1913 A</td><td>3 marzo</td><td>1913</td></tr>
+<tr><td>Irlanda <sup>b</sup></td><td>1° febbraio</td><td>1913</td><td>1° marzo</td><td>1913</td></tr>
+<tr><td>Italia</td><td>2 giugno</td><td>1913</td><td>2 luglio</td><td>1913</td></tr>
+<tr><td>Kenya <sup>b</sup></td><td>1° febbraio</td><td>1913 A</td><td>3 marzo</td><td>1913</td></tr>
+<tr><td>Kiribati <sup>b</sup></td><td>1° febbraio</td><td>1913 A</td><td>3 marzo</td><td>1913</td></tr>
+<tr><td>Lettonia</td><td>2 agosto</td><td>1932 A</td><td>16 settembre</td><td>1932</td></tr>
+<tr><td>Lussemburgo</td><td>18 febbraio</td><td>1991 A</td><td>22 maggio</td><td>1991</td></tr>
+<tr><td>Madagascar</td><td>13 luglio</td><td>1965 S</td><td>26 giugno</td><td>1960</td></tr>
+<tr><td>Malaysia <sup>b</sup></td><td>1° febbraio</td><td>1913 A</td><td>3 marzo</td><td>1913</td></tr>
+<tr><td>Malta <sup>b</sup></td><td>1° febbraio</td><td>1913 A</td><td>3 marzo</td><td>1913</td></tr>
+<tr><td>Maurizio <sup>b</sup></td><td>1° febbraio</td><td>1913 A</td><td>3 marzo</td><td>1913</td></tr>
+<tr><td>Messico</td><td>1° febbraio</td><td>1913</td><td>1° marzo</td><td>1913</td></tr>
+<tr><td>Mozambico <sup>a</sup></td><td>30 luglio</td><td>1914 A</td><td>30 agosto</td><td>1914</td></tr>
+<tr><td>Nigeria <sup>b</sup></td><td>1° febbraio</td><td>1913 A</td><td>3 marzo</td><td>1913</td></tr>
+<tr><td>Oman</td><td>21 agosto</td><td>1975 A</td><td>1° ottobre</td><td>1975</td></tr>
+<tr><td>Papua Nuova Guinea</td><td>14 ottobre</td><td>1980 S</td><td>16 settembre</td><td>1975</td></tr>
+<tr><td>Paraguay</td><td>22 novembre</td><td>1967 A</td><td>22 dicembre</td><td>1967</td></tr>
+<tr><td>Polonia</td><td>15 ottobre</td><td>1921 A</td><td>17 novembre</td><td>1921</td></tr>
+<tr><td>Portogallo</td><td>25 luglio</td><td>1913</td><td>25 agosto</td><td>1913</td></tr>
+<tr><td>[tab] Regno Unito</td><td></td><td></td><td></td><td></td></tr>
+<tr><td>Anguilla</td><td>1° febbraio</td><td>1913</td><td>3 marzo</td><td>1913</td></tr>
+<tr><td>Bermuda</td><td>1° febbraio</td><td>1913 A</td><td>3 marzo</td><td>1913</td></tr>
+<tr><td>Cayman, Isole</td><td>1° febbraio</td><td>1913 A</td><td>3 marzo</td><td>1913</td></tr>
+<tr><td>Gibilterra</td><td>1° febbraio</td><td>1913 A</td><td>3 marzo</td><td>1913</td></tr>
+<tr><td>Sant’Elena</td><td>1° febbraio</td><td>1913 A</td><td>3 marzo</td><td>1913</td></tr>
+<tr><td>Turks e Caicos, Isole</td><td>1° febbraio</td><td>1913 A</td><td>3 marzo</td><td>1913</td></tr>
+<tr><td>Romania</td><td>1° febbraio</td><td>1913</td><td>1° marzo</td><td>1913</td></tr>
+<tr><td>Russia</td><td>10 luglio</td><td>1936 A</td><td>27 agosto</td><td>1936</td></tr>
+<tr><td>Saint Kitts e Nevis <sup>b</sup></td><td>1° febbraio</td><td>1913 A</td><td>3 marzo</td><td>1913</td></tr>
+<tr><td>Saint Vincent e Grenadine</td><td>21 settembre</td><td>2001 S</td><td>28 ottobre</td><td>1979</td></tr>
+<tr><td>Salomone, Isole</td><td>17 settembre</td><td>1981 S</td><td>7 luglio</td><td>1978</td></tr>
+<tr><td>Santa Lucia</td><td>21 marzo</td><td>1990 S</td><td>22 febbraio</td><td>1979</td></tr>
+<tr><td>São Tomé e Príncipe <sup>a</sup></td><td>30 luglio</td><td>1914 A</td><td>30 agosto</td><td>1914</td></tr>
+<tr><td>Seicelle <sup>b</sup></td><td>1° febbraio</td><td>1913 A</td><td>3 marzo</td><td>1913</td></tr>
+<tr><td>Serbia</td><td>31 dicembre</td><td>1931 A</td><td>12 febbraio</td><td>1932</td></tr>
+<tr><td>Sierra Leone <sup>b</sup></td><td>1° febbraio</td><td>1913 A</td><td>3 marzo</td><td>1913</td></tr>
+<tr><td>Singapore</td><td>18 giugno</td><td>1974 S</td><td>9 agosto</td><td>1965</td></tr>
+<tr><td>Siria</td><td>1° agosto</td><td>1974 A</td><td>1° settembre</td><td>1974</td></tr>
+<tr><td>Slovenia</td><td>16 novembre</td><td>1991 S</td><td>25 giugno</td><td>1991</td></tr>
+<tr><td>Somalia <sup>b</sup> <sup>c</sup></td><td>9 novembre</td><td>1934 A</td><td>5 gennaio</td><td>1935</td></tr>
+<tr><td>Sri Lanka <sup>b</sup></td><td>1° febbraio</td><td>1913 A</td><td>3 marzo</td><td>1913</td></tr>
+<tr><td>Stati Uniti</td><td>1° febbraio</td><td>1913</td><td>1° marzo</td><td>1913</td></tr>
+<tr><td>Svizzera</td><td>28 maggio</td><td>1954 A</td><td>15 agosto</td><td>1954</td></tr>
+<tr><td>Timor-Leste <sup>a</sup></td><td>30 luglio</td><td>1914 A</td><td>30 agosto</td><td>1914</td></tr>
+<tr><td>Tonga</td><td>13 giugno</td><td>1978 A</td><td>30 luglio</td><td>1978</td></tr>
+<tr><td>Trinidad e Tobago <sup>b</sup></td><td>3 febbraio</td><td>1913 A</td><td>3 marzo</td><td>1913</td></tr>
+<tr><td>Turchia</td><td>4 luglio</td><td>1955 A</td><td>16 settembre</td><td>1955</td></tr>
+<tr><td>Tuvalu <sup>b</sup></td><td>1° febbraio</td><td>1913 A</td><td>3 marzo</td><td>1913</td></tr>
+<tr><td>Ungheria</td><td>1° febbraio</td><td>1913</td><td>1° marzo</td><td>1913</td></tr>
+<tr><td>Uruguay</td><td>21 luglio</td><td>1915 A</td><td>24 agosto</td><td>1915</td></tr>
+<tr><td colspan="5"><sup>a</sup> Adesione o ratifica ad opera del Portogallo.</td></tr>
+<tr><td colspan="5"><sup>b</sup> Adesione o ratifica ad opera del Gran Bretagna.</td></tr>
+<tr><td colspan="5"><sup>c</sup> Adesione o ratifica ad opera dell’Italia.</td></tr>
+<tr><td colspan="5"><sup>d</sup> Dal 3 mar. 1913 al 30 giu. 1997 la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Il 1° lug. 1997 Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. La Conv. è applicabile dal 1° lug. 1997 anche alla RAS Hong Kong.</td></tr>
+<tr><td colspan="5"><sup>e</sup> Dal 30 ago. 1914 al 19 dic. 1999 la Conv. era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Il 20 dic. 1999 Macao è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 5 ott. 1999 la Conv. è applicabile dal 20 dic. 1999 anche alla RAS Macao.</td></tr>
 </table>
 
-[^t-3]: [RU 2005 2233](https://fedlex.data.admin.ch/eli/oc/2005/374)e [2012 1663](https://fedlex.data.admin.ch/eli/oc/2012/238). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2005 2233](https://fedlex.data.admin.ch/eli/oc/2005/374); [2012 1663](https://fedlex.data.admin.ch/eli/oc/2012/238); [2024 367](https://fedlex.data.admin.ch/eli/oc/2024/367). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [https://www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
