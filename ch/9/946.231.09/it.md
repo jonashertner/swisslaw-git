@@ -3,18 +3,18 @@ sr: "946.231.09"
 title: Ordinanza del 10 aprile 2024 che istituisce provvedimenti nei confronti delle persone e delle organizzazioni che sostengono Hamas o la Jihad islamica palestinese
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/147"
 language: it
-version: 2024-04-10
+version: 2024-07-09
 adopted: 2024-04-10
 in_force: 2024-04-10
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/147/20240410/it/xml/fedlex-data-admin-ch-eli-cc-2024-147-20240410-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/147/20240410/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/147/20240709/it/xml/fedlex-data-admin-ch-eli-cc-2024-147-20240709-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/147/20240709/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti delle persone e delle organizzazioni che sostengono Hamas o la Jihad islamica palestinese
 
-del 10 aprile 2024 (Stato 10 aprile 2024)
+del 10 aprile 2024 (Stato 9 luglio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -160,7 +160,7 @@ Il contenuto dell’allegato è pubblicato nella Raccolta ufficiale delle leggi 
 
 La presente ordinanza entra in vigore il 10 aprile 2024 alle ore 18.00.
 
-Allegato
+Allegato[^t-1]
 
 (art. 2 cpv. 1 lett. a, 3 cpv. 1, 4 cpv. 1 lett. a nonché 8)
 
@@ -168,4 +168,5 @@ Allegato
 
 [^annexu1-lvlu1-1]
 
-[^annexu1-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/147](https://fedlex.data.admin.ch/eli/oc/2024/147) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-1]: Aggiornato dal n. I dell’O del DEFR dell’8 lug. 2024, in vigore dal 9 lug. 2024 alle ore 18.00 ([RU 2024 346](https://fedlex.data.admin.ch/eli/oc/2024/346)).
+[^annexu1-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/346](https://fedlex.data.admin.ch/eli/oc/2024/346) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
