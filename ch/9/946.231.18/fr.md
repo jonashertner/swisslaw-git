@@ -3,18 +3,18 @@ sr: "946.231.18"
 title: "Ordonnance du 25 mai 2005 instituant des mesures à l'encontre du Soudan"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/371"
 language: fr
-version: 2024-04-10
+version: 2024-07-09
 adopted: 2005-05-25
 in_force: 2005-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/371/20240410/fr/xml/fedlex-data-admin-ch-eli-cc-2005-371-20240410-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/371/20240410/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/371/20240709/fr/xml/fedlex-data-admin-ch-eli-cc-2005-371-20240709-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/371/20240709/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre du Soudan
 
-du 25 mai 2005 (État le 10 avril 2024)
+du 25 mai 2005 (État le 9 juillet 2024)
 
 Le Conseil fédéral suisse,
 
@@ -231,5 +231,5 @@ Annexe 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Introduite par le ch. II al. 2 de l’O du 10 avr. 2024, en vigueur depuis le 10 avr. 2024 à 18 heures ([RO 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
-[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié au RO et au RS uniquement sous la forme d’un renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/149](https://fedlex.data.admin.ch/eli/oc/2024/149) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-2]: Introduite par le ch. II al. 2 de l’O du 10 avr. 2024 ([RO 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)). Mise à jour par le ch. I de l’O du DEFR du 8 juil. 2024, en vigueur depuis le 9 juil. 2024 à 18 heures ([RO 2024 348](https://fedlex.data.admin.ch/eli/oc/2024/348)).
+[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/348](https://fedlex.data.admin.ch/eli/oc/2024/348) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.

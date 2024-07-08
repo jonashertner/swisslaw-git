@@ -3,18 +3,18 @@ sr: "946.231.18"
 title: Verordnung vom 25. Mai 2005 über Massnahmen gegenüber dem Sudan
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/371"
 language: de
-version: 2024-04-10
+version: 2024-07-09
 adopted: 2005-05-25
 in_force: 2005-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/371/20240410/de/xml/fedlex-data-admin-ch-eli-cc-2005-371-20240410-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/371/20240410/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/371/20240709/de/xml/fedlex-data-admin-ch-eli-cc-2005-371-20240709-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/371/20240709/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Sudan
 
-vom 25. Mai 2005 (Stand am 10. April 2024)
+vom 25. Mai 2005 (Stand am 9. Juli 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -99,16 +99,16 @@ Es kann die Freigabe bestimmter gesperrter Gelder oder wirtschaftlicher Ressourc
 - c. Wahrung schweizerischer Interessen;
 - d. Erfüllung amtlicher Tätigkeiten diplomatischer oder konsularischer Vertretungen oder internationaler Organisationen, die nach dem Völkerrecht Immunität geniessen.[^2-6]
 
-<sup>5</sup> Es bewilligt Ausnahmen nach den Absätzen 4 und 4<sup>bis</sup> nach Rücksprache mit den zuständigen Stellen des EDA und des Eidgenössischen Finanzdepartements und, falls anwendbar, in Übereinstimmung mit den massgeblichen Resolutionen des Sicherheitsrats der Vereinten Nationen.[^2-7] [^2-8]
+<sup>5</sup> Es bewilligt Ausnahmen nach den Absätzen 4 und 4<sup>bis</sup> nach Rücksprache mit den zuständigen Stellen des EDA und des Eidgenössischen Finanzdepartements und, falls anwendbar, in Übereinstimmung mit den massgeblichen Resolutionen des Sicherheitsrats der Vereinten Nationen[^2-7].[^2-8]
 
-[^2-1]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 10. April 2024 um 18.00 (AS **202****4** 149).
+[^2-1]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 10. April 2024 um 18.00 ([AS 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
 [^2-2]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 10. April 2024 um 18.00 ([AS 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
 [^2-3]: Fassung gemäss Ziff. I 15 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse, in Kraft seit 1. Juni 2023 ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 [^2-4]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 10. April 2024 um 18.00 ([AS 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
 [^2-5]: Eingefügt durch Ziff. I 15 der V vom 26. April 2023 über die Ausnahme von bestimmten Zwangsmassnahmen für die Erbringung humanitärer Hilfe und für die Unterstützung anderer Tätigkeiten zur Deckung menschlicher Grundbedürfnisse ([AS 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)). Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 10. April 2024 um 18.00 ([AS 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
 [^2-6]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 10. April 2024 um 18.00 ([AS 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
 [^2-7]: Die Resolutionen sind auf Französisch und Englisch abrufbar unter: [www.un.org/securitycouncil/fr](http://www.un.org/securitycouncil/fr) &gt;Sanctions &gt; Comité des sanctions &gt; Résolutions.
-[^2-8]: Fassung gemäss Ziff. I der V vom 10. April 2024, in Kraft seit 10. April 2024 um 18.00 ([AS 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
+[^2-8]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 10. April 2024 um 18.00 ([AS 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
 
 #### Art. 3
 
@@ -231,5 +231,5 @@ Anhang 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Eingefügt durch Ziff. II Abs. 2 der V vom 10. April 2024, in Kraft seit 10. April 2024 um 18.00 ([AS 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
-[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/149](https://fedlex.data.admin.ch/eli/oc/2024/149) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-2]: Eingefügt durch Ziff. II Abs. 2 der V vom 10. April 2024 ([AS 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)). Bereinigt gemäss Ziff. I der V des WBF vom 8. Juli 2024, in Kraft seit 9. Juli 2024 um 18.00 ([AS 2024 348](https://fedlex.data.admin.ch/eli/oc/2024/348)).
+[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/348](https://fedlex.data.admin.ch/eli/oc/2024/348) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.

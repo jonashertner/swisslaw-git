@@ -3,18 +3,18 @@ sr: "946.231.18"
 title: Ordinanza del 25 maggio 2005 che istituisce provvedimenti nei confronti del Sudan
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/371"
 language: it
-version: 2024-04-10
+version: 2024-07-09
 adopted: 2005-05-25
 in_force: 2005-05-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/371/20240410/it/xml/fedlex-data-admin-ch-eli-cc-2005-371-20240410-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/371/20240410/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/371/20240709/it/xml/fedlex-data-admin-ch-eli-cc-2005-371-20240709-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/371/20240709/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti del Sudan
 
-del 25 maggio 2005 (Stato 10 aprile 2024)
+del 25 maggio 2005 (Stato 9 luglio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -232,5 +232,5 @@ Allegato 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Introdotto dal n. II cpv. 2 dell’O del 10 apr. 2024, in vigore il 10 apr. 2024 dalle ore 18.00 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)).
-[^annex2-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo seguente: [https://fedlex.data.admin.ch/eli/oc/2024/149](https://fedlex.data.admin.ch/eli/oc/2024/149) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-2]: Introdotto dal n. II cpv. 2 dell’O del 10 apr. 2024 ([RU 2024 149](https://fedlex.data.admin.ch/eli/oc/2024/149)). Aggiornato dal n. I dell’O del DEFR dell’8 lug. 2024, in vigore il 9 lug. 2024 alle ore 18.00 ([RU 2024 348](https://fedlex.data.admin.ch/eli/oc/2024/348)).
+[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/348](https://fedlex.data.admin.ch/eli/oc/2024/348) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando
