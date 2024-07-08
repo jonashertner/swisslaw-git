@@ -3,16 +3,16 @@ sr: "0.747.305.31"
 title: Übereinkommen vom 9. April 1965 zur Erleichterung des internationalen Seeverkehrs (mit Anlage)
 eli: "https://fedlex.data.admin.ch/eli/cc/1968/706_730_726"
 language: de
-version: 2021-04-28
+version: 2024-07-09
 adopted: 1965-04-09
 in_force: 1968-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1968/706_730_726/20210428/de/xml/fedlex-data-admin-ch-eli-cc-1968-706_730_726-20210428-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1968/706_730_726/20210428/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1968/706_730_726/20240709/de/xml/fedlex-data-admin-ch-eli-cc-1968-706_730_726-20240709-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1968/706_730_726/20240709/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Übereinkommen zu Erleichterung des internationalen Seeverkehrs
+# Übereinkommen zur Erleichterung des internationalen Seeverkehrs
 
 AS **1968** 706; BBl **1967** II 1197
 
@@ -20,9 +20,9 @@ AS **1968** 706; BBl **1967** II 1197
 
 Abgeschlossen in London am 9. April 1965 Von der Bundesversammlung genehmigt am 12. März 1968[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 23. April 1968 In Kraft getreten für die Schweiz am 22. Juni 1968
 
-(Stand am 28. April 2021)
+(Stand am 9. Juli 2024)
 
-[^t-1]: Ziff. 1 Bst. a des BB vom 12. März 1968 ([AS 1968 705](https://fedlex.data.admin.ch/eli/oc/1968/705_729_725)).
+[^t-1]: Ziff. 1 Bst. a des BB vom 12. März 1968 ([AS 1968 705](https://fedlex.data.admin.ch/eli/oc/1968/705_729_725))
 
 Die Vertragsregierungen –
 
@@ -155,7 +155,7 @@ Dieses Übereinkommen und seine Anlage sind in englischer und französischer Spr
 
 *Zu Urkund dessen* haben die hierzu von ihren Regierungen gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu London am 9. April 1965.
 
-Anlage*[^t-2]*
+Anlage[^t-2]
 
 ## Abschnitt 1 Begriffsbestimmungen und allgemeine Bestimmungen
 
@@ -382,7 +382,7 @@ Diese Empfehlung soll die öffentlichen Behörden nicht an einer weiteren Verneh
 
 ### E. Massnahmen zur Erleichterung der Abfertigung von Ladung, Fahrgästen, Besatzung und Gepäck
 
-2.12 *Empfehlun**g.* Die öffentlichen Behörden sollen mit Unterstützung der Reeder und der Hafenbehörden geeignete Massnahmen treffen, um die Liegezeit im Hafen so kurz wie möglich zu halten; sie sollen zu diesem Zweck Vorkehrungen für einen befriedigenden Ablauf des Hafenbetriebs treffen und alle Verfahren im Zusammenhang mit dem Ein- und Auslaufen von Schiffen einschliesslich der Vorkehrungen für Ein- und Ausschiffung, Laden und Löschen, Dienstleistungen und ähnliches sowie die damit verbundenen Sicherheitsmassnahmen häufig überprüfen. Sie sollen ferner dafür sorgen, dass Frachtschiffe und ihre Ladung nach Möglichkeit im Lade- und Löschbereich angemeldet und abgefertigt werden können.
+2.12 *Empfehlung.* Die öffentlichen Behörden sollen mit Unterstützung der Reeder und der Hafenbehörden geeignete Massnahmen treffen, um die Liegezeit im Hafen so kurz wie möglich zu halten; sie sollen zu diesem Zweck Vorkehrungen für einen befriedigenden Ablauf des Hafenbetriebs treffen und alle Verfahren im Zusammenhang mit dem Ein- und Auslaufen von Schiffen einschliesslich der Vorkehrungen für Ein- und Ausschiffung, Laden und Löschen, Dienstleistungen und ähnliches sowie die damit verbundenen Sicherheitsmassnahmen häufig überprüfen. Sie sollen ferner dafür sorgen, dass Frachtschiffe und ihre Ladung nach Möglichkeit im Lade- und Löschbereich angemeldet und abgefertigt werden können.
 
 2.12.1 *Empfehlung.* Die öffentlichen Behörden sollen mit Unterstützung der Reeder und der Hafenbehörden geeignete Massnahmen treffen, um einen befriedigenden Ablauf des Hafenbetriebs zu gewährleisten, damit die Umschlags- und Abfertigungsverfahren für die Ladung reibungslos und vereinfacht vonstatten gehen. Diese Vorkehrungen sollen alle Arbeitsgänge nach dem Anlegen des Schiffes am Kai zwecks Löschen und Abfertigung durch die öffentlichen Behörden und nötigenfalls zwecks Lagerung und Weiterversand der Ladung umfassen. Es soll einen geeigneten, direkten Verbindungsweg zwischen dem Lagerhaus und dem Bereich für die Abfertigung durch die öffentlichen Behörden geben, die beide in der Nähe des Kais liegen sollen, und es sollen nach Möglichkeit automatische Transportvorrichtungen vorhanden sein.
 
@@ -444,7 +444,7 @@ Dieser Abschnitt enthält die Bestimmungen über die Förmlichkeiten, welche die
 
 3.4 *Empfehlung.* Die öffentlichen Behörden sollen von den sich ein- oder ausschiffenden Fahrgästen oder den in ihrem Namen handelnden Reedern ausser den bereits in ihren Reisepässen oder amtlichen Identitätsdokumenten enthaltenen Angaben keine gleichlautenden oder zusätzlichen schriftlichen Angaben verlangen, sofern sie nicht erforderlich sind, um die in dieser Anlage vorgesehenen Dokumente auszufüllen.
 
-3.5 *Em**pfehlung.* Öffentliche Behörden, die von den sich ein- oder ausschiffenden Fahrgästen schriftliche Angaben verlangen, die über die erforderlichen Angaben zur Ausfüllung der in dieser Anlage vorgesehenen Dokumente hinausgehen, sollen die der weiteren Identifizierung der Fahrgäste dienende Befragung auf die in Empfehlung 3.6 (Ein-/Ausschiffungskarte) vorgesehenen Punkte beschränken. Die genannten Behörden sollen die von einem Fahrgast ausgefüllte Ein- oder Ausschiffungskarte anerkennen, ohne zu verlangen, dass sie vom Reeder ausgefüllt oder nachgeprüft wird. Leserliche handschriftliche Eintragungen auf der Karte in Kursivschrift sollen zulässig sein, sofern in dem Formblatt nicht Blockschrift vorgeschrieben ist. Von jedem Fahrgast soll nur eine Ausfertigung der Ein- oder Ausschiffungskarte, gegebenenfalls mit einem oder mehreren gleichzeitig angefertigten Durchdrucken, verlangt werden.
+3.5 *Empfehlung.* Öffentliche Behörden, die von den sich ein- oder ausschiffenden Fahrgästen schriftliche Angaben verlangen, die über die erforderlichen Angaben zur Ausfüllung der in dieser Anlage vorgesehenen Dokumente hinausgehen, sollen die der weiteren Identifizierung der Fahrgäste dienende Befragung auf die in Empfehlung 3.6 (Ein-/Ausschiffungskarte) vorgesehenen Punkte beschränken. Die genannten Behörden sollen die von einem Fahrgast ausgefüllte Ein- oder Ausschiffungskarte anerkennen, ohne zu verlangen, dass sie vom Reeder ausgefüllt oder nachgeprüft wird. Leserliche handschriftliche Eintragungen auf der Karte in Kursivschrift sollen zulässig sein, sofern in dem Formblatt nicht Blockschrift vorgeschrieben ist. Von jedem Fahrgast soll nur eine Ausfertigung der Ein- oder Ausschiffungskarte, gegebenenfalls mit einem oder mehreren gleichzeitig angefertigten Durchdrucken, verlangt werden.
 
 3.6 *Empfehlung.* In der Ein- oder Ausschiffungskarte sollen die öffentlichen Behörden keine anderen als die folgenden Angaben verlangen:
 
@@ -685,7 +685,7 @@ Anmerkung:
 
 Die Vertragsregierung werden aufgefordert, bei der Einsetzung eines nationalen Ausschusses zur Erleichterung des Seeverkehrs oder eines ähnlichen nationalen Koordinierungsgremiums die in FAL.5/Circ.2 enthaltenen Richtlinien zu berücksichtigen.
 
-Geltungsbereich am 28. April 2021**[^t-3]**
+Geltungsbereich am 9. Juli 2024[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th colspan="2"></th></tr>
@@ -701,6 +701,7 @@ Geltungsbereich am 28. April 2021**[^t-3]**
 <tr><td>Barbados</td><td>30. September</td><td>1982 B</td><td>29. November</td><td colspan="2">1982</td></tr>
 <tr><td>Belarus</td><td>5. Dezember</td><td>2016 B</td><td>3. Februar</td><td colspan="2">2016</td></tr>
 <tr><td>Belgien</td><td>4. Januar</td><td>1967</td><td>5. März</td><td colspan="2">1967</td></tr>
+<tr><td>Belize</td><td>9. Oktober</td><td>2023 B</td><td>8. Dezember</td><td colspan="2">2023</td></tr>
 <tr><td>Benin</td><td>2. März</td><td>1992 B</td><td>1. Mai</td><td colspan="2">1992</td></tr>
 <tr><td>Brasilien</td><td>22. August</td><td>1977</td><td>21. Oktober</td><td colspan="2">1977</td></tr>
 <tr><td>Bulgarien</td><td>22. April</td><td>1999 B</td><td>21. Juni</td><td colspan="2">1999</td></tr>
@@ -726,7 +727,9 @@ Geltungsbereich am 28. April 2021**[^t-3]**
 <tr><td>Georgien</td><td>25. August</td><td>1995 B</td><td>24. Oktober</td><td colspan="2">1995</td></tr>
 <tr><td>Ghana</td><td>5. November</td><td>1965</td><td>5. März</td><td colspan="2">1967</td></tr>
 <tr><td>Griechenland</td><td>8. Juni</td><td>1972</td><td>7. August</td><td colspan="2">1972</td></tr>
+<tr><td>Guatemala</td><td>7. März</td><td>2023 B</td><td>6. Mai</td><td colspan="2">2023</td></tr>
 <tr><td>Guinea</td><td>19. Januar</td><td>1981 B</td><td>20. März</td><td colspan="2">1981</td></tr>
+<tr><td>Guinea-Bissau</td><td>12. Mai</td><td>2022 B</td><td>11. Juli</td><td colspan="2">2022</td></tr>
 <tr><td>Guyana</td><td>10. Dezember</td><td>1997 B</td><td>8. Februar</td><td colspan="2">1998</td></tr>
 <tr><td>Honduras</td><td>26. Januar</td><td>2006 B</td><td>25. März</td><td colspan="2">2006</td></tr>
 <tr><td>Indien</td><td>25. Mai</td><td>1976 B</td><td>24. Juli</td><td colspan="2">1976</td></tr>
@@ -763,6 +766,7 @@ Geltungsbereich am 28. April 2021**[^t-3]**
 <tr><td>Marshallinseln</td><td>29. November</td><td>1994 B</td><td>28. Januar</td><td colspan="2">1995</td></tr>
 <tr><td>Mauritius</td><td>18. Juni</td><td>1990 B</td><td>17. August</td><td colspan="2">1990</td></tr>
 <tr><td>Mexiko</td><td>31. Mai</td><td>1983 B</td><td>30. Juli</td><td colspan="2">1983</td></tr>
+<tr><td>Moldau</td><td>13. April</td><td>2023 B</td><td>12. Juni</td><td colspan="2">2023</td></tr>
 <tr><td>Monaco</td><td>9. April</td><td>1965</td><td>5. März</td><td colspan="2">1967</td></tr>
 <tr><td>Montenegro</td><td>3. Juni</td><td>2006 N</td><td>3. Juni</td><td colspan="2">2006</td></tr>
 <tr><td>Neuseeland</td><td>27. Juli</td><td>1973 B</td><td>25. September</td><td colspan="2">1973</td></tr>
@@ -796,13 +800,14 @@ Geltungsbereich am 28. April 2021**[^t-3]**
 <tr><td>Slowenien</td><td>12. November</td><td>1992 N</td><td>25. Juni</td><td colspan="2">1991</td></tr>
 <tr><td>Spanien</td><td>24. August</td><td>1973</td><td>23. Oktober</td><td colspan="2">1973</td></tr>
 <tr><td>Sri Lanka</td><td>6. März</td><td>1998 B</td><td>5. Mai</td><td colspan="2">1998</td></tr>
-<tr><td>St. Kitts und Nevis</td><td>4. Oktober</td><td>2004 B</td><td>6. Dezember</td><td colspan="2">2004</td></tr>
+<tr><td>St. Kitts und Nevis</td><td>7. Oktober</td><td>2004 B</td><td>6. Dezember</td><td colspan="2">2004</td></tr>
 <tr><td>St. Lucia</td><td>20. Mai</td><td>2004 B</td><td>19. Juli</td><td colspan="2">2004</td></tr>
 <tr><td>St. Vincent und die Grenadinen</td><td>2. Juli</td><td>2020 B</td><td>30. September</td><td colspan="2">2020</td></tr>
 <tr><td>Suriname</td><td>29. November</td><td>1975 N</td><td>25. November</td><td colspan="2">1975</td></tr>
 <tr><td>Syrien\*</td><td>6. Februar</td><td>1975 B</td><td>7. April</td><td colspan="2">1975</td></tr>
 <tr><td>Tansania</td><td>23. Juli</td><td>2008 B</td><td>21. September</td><td colspan="2">2008</td></tr>
 <tr><td>Thailand</td><td>28. November</td><td>1991 B</td><td>27. Januar</td><td colspan="2">1992</td></tr>
+<tr><td>Togo</td><td>8. Juli</td><td>2021 B</td><td>6. September</td><td colspan="2">2021</td></tr>
 <tr><td>Tonga</td><td>18. September</td><td>2003 B</td><td>17. November</td><td colspan="2">2003</td></tr>
 <tr><td>Trinidad und Tobago</td><td>16. März</td><td>1967</td><td>15. Mai</td><td colspan="2">1967</td></tr>
 <tr><td>Tschechische Republik\*</td><td>19. Oktober</td><td>1993 N</td><td>1. Januar</td><td colspan="2">1993</td></tr>
@@ -824,10 +829,7 @@ Geltungsbereich am 28. April 2021**[^t-3]**
 <tr><td>Vereinigtes Königreich</td><td>24. Februar</td><td>1966</td><td>5. März</td><td colspan="2">1967</td></tr>
 <tr><td>Vietnam</td><td>23. Januar</td><td>2006 B</td><td>24. März</td><td colspan="2">2006</td></tr>
 <tr><td>Zypern</td><td>9. März</td><td>2004 B</td><td>8. Mai</td><td colspan="2">2004</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen.</td></tr>
-<tr><td colspan="5">\*\* Einwendungen.</td></tr>
-<tr><td colspan="5">Die Vorbehalte, Erklärungen und die Einwendungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): www.imo.org &gt; Publications &gt; Catalogue & Code Listings oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Vom 5. März 1967 bis zum 30. Juni 1997 war das Übereink. auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 6. Juni 1997 ist das Übereink. seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und die Einwendungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): [www.imo.org](http://www.imo.org) &gt; Qui nous sommes &gt; Conventions &gt; État des conventions &gt; Status Book oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Vom 5. März 1967 bis zum 30. Juni 1997 war das Übereink. auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 6. Juni 1997 ist das Übereink. seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar.</td></tr>
 </table>
 
-[^t-3]: [AS 1973 256](https://fedlex.data.admin.ch/eli/oc/1973/256_254_257); [1976 1330](https://fedlex.data.admin.ch/eli/oc/1976/1330_1330_1330); [1978 1567](https://fedlex.data.admin.ch/eli/oc/1978/1567_1567_1567); [1981 1133](https://fedlex.data.admin.ch/eli/oc/1981/1133_1133_1133); [1983 159](https://fedlex.data.admin.ch/eli/oc/1983/159_159_159); [1985 243](https://fedlex.data.admin.ch/eli/oc/1985/243_243_243); [1987 482](https://fedlex.data.admin.ch/eli/oc/1987/482_482_482), [1146](https://fedlex.data.admin.ch/eli/oc/1987/1146_1146_1146); [1989 159](https://fedlex.data.admin.ch/eli/oc/1989/159_159_159); [1990 1697](https://fedlex.data.admin.ch/eli/oc/1990/1697_1697_1697); **1993** 1907; [2005 1297](https://fedlex.data.admin.ch/eli/oc/2005/193); [2008 3975](https://fedlex.data.admin.ch/eli/oc/2008/539); [2012 3815](https://fedlex.data.admin.ch/eli/oc/2012/443); [2018 3057](https://fedlex.data.admin.ch/eli/oc/2018/486); [2021 265](https://fedlex.data.admin.ch/eli/oc/2021/265). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht (https://fedlex.admin.ch/de/Treaty).
+[^t-3]: [AS 1973 256](https://fedlex.data.admin.ch/eli/oc/1973/256_254_257); [1976 1330](https://fedlex.data.admin.ch/eli/oc/1976/1330_1330_1330); [1978 1567](https://fedlex.data.admin.ch/eli/oc/1978/1567_1567_1567); [1981 1133](https://fedlex.data.admin.ch/eli/oc/1981/1133_1133_1133); [1983 159](https://fedlex.data.admin.ch/eli/oc/1983/159_159_159); [1985 243](https://fedlex.data.admin.ch/eli/oc/1985/243_243_243); [1987 482](https://fedlex.data.admin.ch/eli/oc/1987/482_482_482), [1146](https://fedlex.data.admin.ch/eli/oc/1987/1146_1146_1146); [1989 159](https://fedlex.data.admin.ch/eli/oc/1989/159_159_159); [1990 1697](https://fedlex.data.admin.ch/eli/oc/1990/1697_1697_1697); [1993 1903](https://fedlex.data.admin.ch/eli/oc/1993/1903_1903_1903); [2005 1297](https://fedlex.data.admin.ch/eli/oc/2005/193); [2008 3975](https://fedlex.data.admin.ch/eli/oc/2008/539); [2012 3815](https://fedlex.data.admin.ch/eli/oc/2012/443); [2018 3057](https://fedlex.data.admin.ch/eli/oc/2018/486); [2021 265](https://fedlex.data.admin.ch/eli/oc/2021/265); [2024 360](https://fedlex.data.admin.ch/eli/oc/2024/360). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

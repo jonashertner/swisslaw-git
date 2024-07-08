@@ -3,11 +3,11 @@ sr: "0.747.305.31"
 title: Convenzione del 9 aprile 1965 intesa ad agevolare il traffico marittimo internazionale (con All.)
 eli: "https://fedlex.data.admin.ch/eli/cc/1968/706_730_726"
 language: it
-version: 2021-04-28
+version: 2024-07-09
 adopted: 1965-04-09
 in_force: 1968-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1968/706_730_726/20210428/it/xml/fedlex-data-admin-ch-eli-cc-1968-706_730_726-20210428-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1968/706_730_726/20210428/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1968/706_730_726/20240709/it/xml/fedlex-data-admin-ch-eli-cc-1968-706_730_726-20240709-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1968/706_730_726/20240709/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **1968** 726; FF **1967** II 948
 
 Traduzione
 
-Firmata a Londra il 9 aprile 1965
+Firmata a Londra il 9 aprile 1965 Approvata dall’Assemblea federale il 12 marzo 1968[^t-1] Strumento di ratifica depositato dalla Svizzera il 23 aprile 1968 Entrata in vigore il 5 marzo 1967 e, per la Svizzera, il 22 giugno 1968
 
-Approvata dall’Assemblea federale il 12 marzo 1968[^t-1]
-
-Strumento di ratifica depositato dalla Svizzera il 23 aprile 1968
-
-Entrata in vigore il 5 marzo 1967 e, per la Svizzera, il 22 giugno 1968
-
-(Stato 28 aprile 2021)
+(Stato 9 luglio 2024)
 
 [^t-1]: Cpv. 1 lett. a del DF del 12 mar. 1968 ([RU 1968 725](https://fedlex.data.admin.ch/eli/oc/1968/705_729_725)).
 
@@ -300,11 +294,11 @@ Tali documenti sono:
 
 2.3.5. *Raccomandazione.* I poteri pubblici dovrebbero ammettere che i colli non menzionati nel manifesto, in possesso del capitano, non siano iscritti nella dichiarazione di carico a condizione che le informazioni inerenti ad essi siano date separatamente.
 
-2.4. *N**orma.* La dichiarazione sulle provviste di bordo è il documento fondamentale su cui figurano le informazioni inerenti alle provviste di bordo chieste dai poteri pubblici all’entrata e all’uscita.
+2.4. *Norma.* La dichiarazione sulle provviste di bordo è il documento fondamentale su cui figurano le informazioni inerenti alle provviste di bordo chieste dai poteri pubblici all’entrata e all’uscita.
 
 2.4.1. *Norma.* I poteri pubblici accettano la dichiarazione sulle provviste di bordo, sia datata e firmata dal capitano o da un ufficiale di bordo debitamente autorizzato dal capitano e personalmente a conoscenza di dette provviste, sia autenticata in modo giudicato accettabile dal potere pubblico interessato.
 
-2.5. *N**orma.* La dichiarazione degli effetti e delle merci dell’equipaggio è il documento fondamentale su cui figurano le informazioni chieste in proposito dai poteri pubblici. Essa non è chiesta all’uscita.
+2.5. *Norma.* La dichiarazione degli effetti e delle merci dell’equipaggio è il documento fondamentale su cui figurano le informazioni chieste in proposito dai poteri pubblici. Essa non è chiesta all’uscita.
 
 2.5.1. *Norma.* I poteri pubblici accettano la dichiarazione degli effetti e delle merci dell’equipaggio, sia datata e firmata dal capitano della nave o da un altro ufficiale di bordo debitamente autorizzato dal capitano, sia autenticata in modo giudicato accettabile dal potere pubblico interessato. I poteri pubblici possono parimente chiedere che ciascun membro dell’equipaggio apponga la propria firma o, nell’impossibilità, il proprio contrassegno, nel punto della dichiarazione inerente ai propri effetti e merci.
 
@@ -354,7 +348,7 @@ Tali documenti sono:
 
 2.7.6. *Norma.* I poteri pubblici devono vigilare a che gli armatori gli notifichino all’arrivo la presenza di ogni passeggero clandestino scoperto a bordo.
 
-2.7.6.1. *Raccoma**ndazione.* Se un passeggero clandestino è in possesso di documenti insufficienti, i poteri pubblici dovrebbero, qualora fosse possibile e compatibile con la legislazione nazionale e le esigenze di sicurezza, redigere una lettera di accompagnamento con allegata una fotografia del clandestino e ogni altra informazione utile. Detta lettera, che autorizza il rientro del clandestino al porto di origine mediante qualsiasi mezzo di trasporto e che specifica qualsiasi altra condizione imposta dai poteri pubblici, dovrebbe essere consegnata all’armatore o al capitano della nave incaricato del trasferimento del passeggero clandestino. Essa deve inoltre contenere le informazioni sollecitate dai servizi competenti dei punti di transito e del punto d’imbarco iniziale.
+2.7.6.1. *Raccomandazione.* Se un passeggero clandestino è in possesso di documenti insufficienti, i poteri pubblici dovrebbero, qualora fosse possibile e compatibile con la legislazione nazionale e le esigenze di sicurezza, redigere una lettera di accompagnamento con allegata una fotografia del clandestino e ogni altra informazione utile. Detta lettera, che autorizza il rientro del clandestino al porto di origine mediante qualsiasi mezzo di trasporto e che specifica qualsiasi altra condizione imposta dai poteri pubblici, dovrebbe essere consegnata all’armatore o al capitano della nave incaricato del trasferimento del passeggero clandestino. Essa deve inoltre contenere le informazioni sollecitate dai servizi competenti dei punti di transito e del punto d’imbarco iniziale.
 
 *Nota:*
 
@@ -416,7 +410,7 @@ La presente raccomandazione non mira ad impedire ai poteri pubblici di sottoporr
 
 2.14. *Raccomandazione.* Per quanto sia possibile i poteri pubblici dovrebbero accettare i documenti di cui nel presente allegato salvo quelli menzionati nella norma 3.7. indipendentemente dalla lingua in cui essi sono compilati. Resta però inteso che può essere chiesta una traduzione scritta od orale in una lingua ufficiale del Paese o dell’Organizzazione, se i poteri pubblici lo ritengano necessario.
 
-2.15. *Norma**.* I poteri pubblici accettano ogni informazione comunicata in modo visibile e comprensibile, inclusi i documenti manoscritti con inchiostro o matita indelebile, oppure allestiti mediante tecniche di trattamento automatico dell’informazione.
+2.15. *Norma.* I poteri pubblici accettano ogni informazione comunicata in modo visibile e comprensibile, inclusi i documenti manoscritti con inchiostro o matita indelebile, oppure allestiti mediante tecniche di trattamento automatico dell’informazione.
 
 2.15.1. *Norma.* Se è richiesta la firma, i poteri pubblici l’accettano manoscritta, stampata in facsimile, applicata per perforazione o timbro, in forma di simbolo ovvero mediante qualsiasi altro ausilio meccanico o elettrico, se il procedimento non è incompatibile con le leggi nazionali. Il potere pubblico interessato deve giudicare accettabile l’autenticazione di informazioni fornite mediante supporti diversi dalla carta.
 
@@ -711,7 +705,7 @@ Nota:
 
 Al momento dell’istituzione di una Commissione nazionale di semplificazione delle formalità di trasporto marittimo o di un organismo di coordinamento nazionale analogo, i Governi contraenti sono pregati di tenere conto delle direttive contenute nella circolare FAL. 5/Circ. 2.
 
-Campo d’applicazione il 28 aprile 2021**[^t-3]**
+Campo d’applicazione il 9 luglio 2024[^t-3]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -727,6 +721,7 @@ Campo d’applicazione il 28 aprile 2021**[^t-3]**
 <tr><td>Bangladesh</td><td>21 settembre</td><td>2000 A</td><td>20 novembre</td><td>2000</td></tr>
 <tr><td>Barbados</td><td>30 settembre</td><td>1982 A</td><td>29 novembre</td><td>1982</td></tr>
 <tr><td>Belgio</td><td>4 gennaio</td><td>1967</td><td>5 marzo</td><td>1967</td></tr>
+<tr><td>Belize</td><td>9 ottobre</td><td>2023 A</td><td>8 dicembre</td><td>2023</td></tr>
 <tr><td>Benin</td><td>2 marzo</td><td>1992 A</td><td>1° maggio</td><td>1992</td></tr>
 <tr><td>Bielorussia</td><td>5 dicembre</td><td>2016 A</td><td>3 febbraio</td><td>2016</td></tr>
 <tr><td>Brasile</td><td>22 agosto</td><td>1977</td><td>21 ottobre</td><td>1977</td></tr>
@@ -768,7 +763,9 @@ Campo d’applicazione il 28 aprile 2021**[^t-3]**
 <tr><td>Giappone</td><td>2 settembre</td><td>2005</td><td>1° novembre</td><td>2005</td></tr>
 <tr><td>Giordania</td><td>27 marzo</td><td>1997 A</td><td>26 maggio</td><td>1997</td></tr>
 <tr><td>Grecia</td><td>8 giugno</td><td>1972</td><td>7 agosto</td><td>1972</td></tr>
+<tr><td>Guatemala</td><td>7 marzo</td><td>2023 A</td><td>6 maggio</td><td>2023</td></tr>
 <tr><td>Guinea</td><td>19 gennaio</td><td>1981 A</td><td>20 marzo</td><td>1981</td></tr>
+<tr><td>Guinea-Bissau</td><td>12 maggio</td><td>2022 A</td><td>11 luglio</td><td>2022</td></tr>
 <tr><td>Guyana</td><td>10 dicembre</td><td>1997 A</td><td>8 febbraio</td><td>1998</td></tr>
 <tr><td>Honduras</td><td>26 gennaio</td><td>2006 A</td><td>25 marzo</td><td>2006</td></tr>
 <tr><td>India</td><td>25 maggio</td><td>1976 A</td><td>24 luglio</td><td>1976</td></tr>
@@ -793,6 +790,7 @@ Campo d’applicazione il 28 aprile 2021**[^t-3]**
 <tr><td>Malta<sup>\*</sup></td><td>24 settembre</td><td>2002 A</td><td>23 novembre</td><td>2002</td></tr>
 <tr><td>Maurizio</td><td>18 giugno</td><td>1990 A</td><td>17 agosto</td><td>1990</td></tr>
 <tr><td>Messico</td><td>31 maggio</td><td>1983 A</td><td>30 luglio</td><td>1983</td></tr>
+<tr><td>Moldova</td><td>13 aprile</td><td>2023 A</td><td>12 giugno</td><td>2023</td></tr>
 <tr><td>Monaco</td><td>9 aprile</td><td>1965</td><td>5 marzo</td><td>1967</td></tr>
 <tr><td>Montenegro</td><td>3 giugno</td><td>2006 S</td><td>3 giugno</td><td>2006</td></tr>
 <tr><td>Nicaragua</td><td>4 luglio</td><td>2007</td><td>2 settembre</td><td>2007</td></tr>
@@ -812,7 +810,7 @@ Campo d’applicazione il 28 aprile 2021**[^t-3]**
 <tr><td>Regno Unito</td><td>24 febbraio</td><td>1966</td><td>5 marzo</td><td>1967</td></tr>
 <tr><td>Romania</td><td>25 aprile</td><td>2001 A</td><td>24 giugno</td><td>2001</td></tr>
 <tr><td>Russia<sup>\*</sup></td><td>25 ottobre</td><td>1966</td><td>5 marzo</td><td>1967</td></tr>
-<tr><td>Saint Kitts e Nevis</td><td>4 ottobre</td><td>2004 A</td><td>6 dicembre</td><td>2004</td></tr>
+<tr><td>Saint Kitts e Nevis</td><td>7 ottobre</td><td>2004 A</td><td>6 dicembre</td><td>2004</td></tr>
 <tr><td>Saint Lucia</td><td>20 maggio</td><td>2004 A</td><td>19 luglio</td><td>2004</td></tr>
 <tr><td>Saint Vincent e Grenadine</td><td>2 luglio</td><td>2020 A</td><td>30 settembre</td><td>2020</td></tr>
 <tr><td>Samoa</td><td>18 maggio</td><td>2004 A</td><td>17 luglio</td><td>2004</td></tr>
@@ -837,6 +835,7 @@ Campo d’applicazione il 28 aprile 2021**[^t-3]**
 <tr><td>Svizzera</td><td>23 aprile</td><td>1968</td><td>22 giugno</td><td>1968</td></tr>
 <tr><td>Tanzania</td><td>23 luglio</td><td>2008 A</td><td>21 settembre</td><td>2008</td></tr>
 <tr><td>Thailandia</td><td>28 novembre</td><td>1991 A</td><td>27 gennaio</td><td>1992</td></tr>
+<tr><td>Togo</td><td>8 luglio</td><td>2021 A</td><td>6 settembre</td><td>2021</td></tr>
 <tr><td>Tonga</td><td>18 settembre</td><td>2003 A</td><td>17 novembre</td><td>2003</td></tr>
 <tr><td>Trinidad e Tobago</td><td>16 marzo</td><td>1967</td><td>15 maggio</td><td>1967</td></tr>
 <tr><td>Tunisia</td><td>27 gennaio</td><td>1969 A</td><td>28 marzo</td><td>1969</td></tr>
@@ -850,7 +849,7 @@ Campo d’applicazione il 28 aprile 2021**[^t-3]**
 <tr><td>Vietnam</td><td>23 gennaio</td><td>2006 A</td><td>24 marzo</td><td>2006</td></tr>
 <tr><td>Yemen</td><td>6 marzo</td><td>1979 A</td><td>5 maggio</td><td>1979</td></tr>
 <tr><td>Zambia</td><td>14 dicembre</td><td>1965 A</td><td>5 marzo</td><td>1967</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione marittima internazionale (OMI) (www.imo.org) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. [tab] <sup>a</sup> Dal 5 mar. 1967 al 30 giu. 1997, la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 6 giu. 1997, la Conv. è applicabile anche alla RAS Hong Kong dal 1° lug. 1997.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi in inglese possono essere ottenuti sul sito Internet dell’Organizzazione internazionale marittima (IMO): [www.imo.org](http://www.imo.org) &gt; Qui nous sommes &gt; Conventions &gt; État des conventions &gt; Status Book, oppure presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Dal 5 mar. 1967 al 30 giu. 1997, la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 6 giu. 1997, la Conv. è applicabile anche alla RAS Hong Kong dal 1° lug. 1997.</td></tr>
 </table>
 
-[^t-3]: [RU 1973 257](https://fedlex.data.admin.ch/eli/oc/1973/256_254_257); [1976 1330](https://fedlex.data.admin.ch/eli/oc/1976/1330_1330_1330); [1978 1567](https://fedlex.data.admin.ch/eli/oc/1978/1567_1567_1567); [1981 1133](https://fedlex.data.admin.ch/eli/oc/1981/1133_1133_1133); [1983 159](https://fedlex.data.admin.ch/eli/oc/1983/159_159_159); [1985 243](https://fedlex.data.admin.ch/eli/oc/1985/243_243_243); [1987 482](https://fedlex.data.admin.ch/eli/oc/1987/482_482_482), [1146](https://fedlex.data.admin.ch/eli/oc/1987/1146_1146_1146); [1989 159](https://fedlex.data.admin.ch/eli/oc/1989/159_159_159); [1990 1697](https://fedlex.data.admin.ch/eli/oc/1990/1697_1697_1697); **1993** 1907; [2005 1297](https://fedlex.data.admin.ch/eli/oc/2005/193); [2008 3975](https://fedlex.data.admin.ch/eli/oc/2008/539); [2012 3815](https://fedlex.data.admin.ch/eli/oc/2012/443); [2018 3057](https://fedlex.data.admin.ch/eli/oc/2018/486)e [2021 265](https://fedlex.data.admin.ch/eli/oc/2021/265). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: (https://fedlex.admin.ch/it/Treaty).
+[^t-3]: [RU 1973 257](https://fedlex.data.admin.ch/eli/oc/1973/256_254_257); [1976 1330](https://fedlex.data.admin.ch/eli/oc/1976/1330_1330_1330); [1978 1567](https://fedlex.data.admin.ch/eli/oc/1978/1567_1567_1567); [1981 1133](https://fedlex.data.admin.ch/eli/oc/1981/1133_1133_1133); [1983 159](https://fedlex.data.admin.ch/eli/oc/1983/159_159_159); [1985 243](https://fedlex.data.admin.ch/eli/oc/1985/243_243_243); [1987 482](https://fedlex.data.admin.ch/eli/oc/1987/482_482_482), [1146](https://fedlex.data.admin.ch/eli/oc/1987/1146_1146_1146); [1989 159](https://fedlex.data.admin.ch/eli/oc/1989/159_159_159); [1990 1697](https://fedlex.data.admin.ch/eli/oc/1990/1697_1697_1697); [1993 1903](https://fedlex.data.admin.ch/eli/oc/1993/1903_1903_1903); [2005 1297](https://fedlex.data.admin.ch/eli/oc/2005/193); [2008 3975](https://fedlex.data.admin.ch/eli/oc/2008/539); [2012 3815](https://fedlex.data.admin.ch/eli/oc/2012/443); [2018 3057](https://fedlex.data.admin.ch/eli/oc/2018/486); [2021 265](https://fedlex.data.admin.ch/eli/oc/2021/265); [2024 360](https://fedlex.data.admin.ch/eli/oc/2024/360). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

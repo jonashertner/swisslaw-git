@@ -3,24 +3,26 @@ sr: "0.747.305.31"
 title: Convention du 9 avril 1965 visant à faciliter le trafic maritime international (avec annexe)
 eli: "https://fedlex.data.admin.ch/eli/cc/1968/706_730_726"
 language: fr
-version: 2021-04-28
+version: 2024-07-09
 adopted: 1965-04-09
 in_force: 1968-06-22
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1968/706_730_726/20210428/fr/xml/fedlex-data-admin-ch-eli-cc-1968-706_730_726-20210428-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1968/706_730_726/20210428/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1968/706_730_726/20240709/fr/xml/fedlex-data-admin-ch-eli-cc-1968-706_730_726-20240709-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1968/706_730_726/20240709/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Convention visant à faciliter le trafic maritime international
 
+RO **1968** 730; FF **1967** II 1189
+
 Texte original
 
 Signée à Londres le 9 avril 1965 Approuvée par l’Assemblée fédérale le 12 mars 1968[^t-1] Entrée en vigueur le 5 mars 1967 Entrée en vigueur pour la Suisse le 22 juin 1968
 
-(Etat le 28 avril 2021)
+(État le 9 juillet 2024)
 
-[^t-1]: RO **1968** 730 Ch. 1 let. a de l’AF du 12 mars **1968** (RO **1968** 729).
+[^t-1]: Ch. 1 let. a de l’AF du 12 mars 1968([RO 1968 729](https://fedlex.data.admin.ch/eli/oc/1968/705_729_725)).
 
 Les Gouvernements contractants,
 
@@ -36,7 +38,7 @@ Conformément aux dispositions de la présente Convention et de son Annexe, les 
 
 <sup>1.</sup> Les Gouvernements contractants s’engagent à coopérer, conformément aux dispositions de la présente Convention, pour élaborer et appliquer les mesures destinées à faciliter l’arrivée, le séjour au port et la sortie des navires. Ces mesures seront, dans toute la mesure du possible, au moins aussi favorables que celles qui sont en vigueur pour d’autres modes de transport internationaux, bien qu’elles puissent en différer selon les conditions particulières à chacun d’eux.
 
-<sup>2.</sup> Les mesures destinées faciliter le trafic maritime international, prévues dans la présente Convention et son Annexe, s’appliquent également aux navires d’Etats riverains ou non de la mer, dont les gouvernements sont parties à la présente Convention.
+<sup>2.</sup> Les mesures destinées faciliter le trafic maritime international, prévues dans la présente Convention et son Annexe, s’appliquent également aux navires d’États riverains ou non de la mer, dont les gouvernements sont parties à la présente Convention.
 
 <sup>3.</sup> Les dispositions de la présente Convention ne s’appliquent ni aux navires de guerre ni aux bateaux de plaisance.
 
@@ -104,19 +106,19 @@ Le Secrétaire générale convoque une conférence des Gouvernements contractant
 
 <sup>2.</sup> L’approbation ou l’adhésion s’effectueront par le dépôt d’un instrument auprès du Secrétaire général.
 
-Les Gouvernements des Etats membres de l’Organisation des Nations Unies, de l’une quelconque des institutions spécialisées ou de l’Agence internationale de l’énergie atomique, ou parties au Statut de la Cour internationale de Justice[^X-1], peuvent devenir parties à la présente Convention par:
+Les Gouvernements des États membres de l’Organisation des Nations Unies, de l’une quelconque des institutions spécialisées ou de l’Agence internationale de l’énergie atomique, ou parties au Statut de la Cour internationale de Justice[^X-1], peuvent devenir parties à la présente Convention par:
 
 - a. La signature sans réserve quant à l’approbation;
-- b. La signature avec réserve quant à l’approbation, suivie d’approbation; et
+- b. La signature avec réserve quant à l’approbation, suivie d’approbation, et
 - c. L’adhésion.
 
-<sup>3.</sup> Le Gouvernement de tout Etat non habilité à devenir partie à la Convention en vertu du paragraphe 2 du présent article peut en faire la demande au Secrétaire général. Il pourra être admis à devenir partie à la Convention, conformément aux dispositions du par. 2, à condition que sa demande ait été approuvée par les deux tiers des Membres de l’Organisation autres que les Membres associés.
+<sup>3.</sup> Le Gouvernement de tout État non habilité à devenir partie à la Convention en vertu du paragraphe 2 du présent article peut en faire la demande au Secrétaire général. Il pourra être admis à devenir partie à la Convention, conformément aux dispositions du par. 2, à condition que sa demande ait été approuvée par les deux tiers des Membres de l’Organisation autres que les Membres associés.
 
 [^X-1]: [RS 0.193.501](https://fedlex.data.admin.ch/eli/cc/1948/1048_1037_1010)
 
 #### Art. XI
 
-La présente Convention entre en vigueur soixante jours après la date à laquelle les Gouvernements de dix Etats au moins l’auront signée sans réserve quant à l’approbation ou auront déposé leur instrument d’approbation ou d’adhésion. Elle entre en vigueur, à l’égard de tout gouvernement qui l’approuve ou y adhère ultérieurement, soixante jours après le dépôt de l’instrument d’approbation ou d’adhésion.
+La présente Convention entre en vigueur soixante jours après la date à laquelle les Gouvernements de dix États au moins l’auront signée sans réserve quant à l’approbation ou auront déposé leur instrument d’approbation ou d’adhésion. Elle entre en vigueur, à l’égard de tout gouvernement qui l’approuve ou y adhère ultérieurement, soixante jours après le dépôt de l’instrument d’approbation ou d’adhésion.
 
 #### Art. XII
 
@@ -192,7 +194,7 @@ Pour l’application des dispositions de la présente Annexe, les significations
 
 *Poste:* Correspondance et autres objets confiés par des administrations postales et destinés à être remis à des administrations postales.
 
-*Pouvoirs publics.* Organismes ou fonctionnaires dans un Etat qui sont chargés d’appliquer ou de faire observer les lois et règlements dudit Etat se rapportant à l’un quelconque des aspects des normes et pratiques recommandées que contient la présente Annexe.
+*Pouvoirs publics.* Organismes ou fonctionnaires dans un État qui sont chargés d’appliquer ou de faire observer les lois et règlements dudit État se rapportant à l’un quelconque des aspects des normes et pratiques recommandées que contient la présente Annexe.
 
 *Provisions de bord.* Marchandises à utiliser à bord, comprenant les produits de consommation, les marchandises à vendre aux passagers et aux membres de l’équipage, le combustible et les lubrifiants, mais non compris les agrès et apparaux et les pièces de rechange du navire.
 
@@ -261,7 +263,7 @@ Les documents visés sont:
 
 2.3.1 *Pratique recommandée.* Dans la déclaration de la cargaison, les pouvoirs publics ne devraient pas exiger d’autres renseignements que les suivants:
 
-- a. A l’arrivée
+- a. À l’arrivée
   - – nom et nationalité du navire
   - – nom du capitaine
   - – port de provenance
@@ -284,7 +286,7 @@ Les documents visés sont:
 
 2.3.4 *Norme.* Les pouvoirs publics acceptent, en lieu et place de la déclaration de la cargaison, un exemplaire du manifeste du navire à la condition qu’il contienne au moins les renseignements visés à la pratique recommandée 2.3.1 et à la norme 2.3.2 et qu’il soit signé ou authentifié et daté comme prévu à la norme 2.3.3.
 
-2.3.4.1 *Pratique recommandée.* A titre de variante de la norme 2.3.4, les pouvoirs publics peuvent accepter un exemplaire du document de transport signé ou authentifié comme prévu à la norme 2.3.3 ou une copie certifiée conforme, si la variété et le nombre des marchandises énumérées le permettent et si les renseignements visés dans la pratique recommandée 2.3.1 et la norme 2.3.2 qui ne figurent pas sur lesdites copies sont fournis par ailleurs et dûment certifiés.
+2.3.4.1 *Pratique recommandée.* À titre de variante de la norme 2.3.4, les pouvoirs publics peuvent accepter un exemplaire du document de transport signé ou authentifié comme prévu à la norme 2.3.3 ou une copie certifiée conforme, si la variété et le nombre des marchandises énumérées le permettent et si les renseignements visés dans la pratique recommandée 2.3.1 et la norme 2.3.2 qui ne figurent pas sur lesdites copies sont fournis par ailleurs et dûment certifiés.
 
 2.3.5 *Pratique recommandée.* Les pouvoirs publics devraient admettre que les colis non portés au manifeste, en possession du capitaine, ne figurent pas sur la déclaration de la cargaison, à condition que les renseignements s’y rapportant leur soient fournis séparément.
 
@@ -350,13 +352,13 @@ Note:
 
 La présente recommandation ne vise pas à empêcher les pouvoirs publics de soumettre le passager clandestin à des formalités plus détaillées en vue, éventuellement, de le traduire en justice et/ou de le renvoyer. De même, aucune disposition de la présente recommandation ne devrait être interprétée comme s’opposant aux dispositions de la Convention des Nations Unies relative au statut des réfugiés, adoptée le 28 juillet 1951, qui concernent l’interdiction d’expulser ou de refouler un réfugié.
 
-2.8 *Norme.* A l’entrée comme à la sortie d’un navire, les pouvoirs publics n’exigent pas, pour la poste, de déclaration écrite autre que celle prescrite par la Convention postale universelle.
+2.8 *Norme.* À l’entrée comme à la sortie d’un navire, les pouvoirs publics n’exigent pas, pour la poste, de déclaration écrite autre que celle prescrite par la Convention postale universelle.
 
 2.9 *Norme.* La déclaration maritime de santé est le document de base qui fournit à autorité sanitaire du port les renseignements relatifs à l’état sanitaire à bord du navire au cours de la traversée et à son entrée dans le port.
 
 ### C. Documents d’entrée
 
-2.10 *Norme.* A l’entrée d’un navire dans un port, les pouvoirs publics n’exigent pas plus de:
+2.10 *Norme.* À l’entrée d’un navire dans un port, les pouvoirs publics n’exigent pas plus de:
 
 - – 5 exemplaires de la déclaration générale
 - – 4 exemplaires de la déclaration de la cargaison
@@ -392,15 +394,15 @@ La présente recommandation ne vise pas à empêcher les pouvoirs publics de sou
 
 2.12.3 *Pratique recommandée.* Les pouvoirs publics devraient encourager les propriétaires et/ou les exploitants de quais et de magasins de marchandises à prévoir des installations spéciales d’entreposage pour les marchandises pour lesquelles il existe un risque élevé de vol et à protéger les zones où ces marchandises doivent être entreposées soit temporairement, soit pour des périodes prolongées avant d’être réacheminées ou livrées localement de manière que les personnes non autorisées ne puissent y accéder.
 
-2.12.4 *Norme.* A condition que cela soit conforme à leurs législations respectives, les pouvoirs publics doivent autoriser l’importation temporaire de conteneurs et de palettes, sans exiger le paiement de droits de douane ni d’autres taxes ou redevances et faciliter leur utilisation dans le trafic maritime.
+2.12.4 *Norme.* À condition que cela soit conforme à leurs législations respectives, les pouvoirs publics doivent autoriser l’importation temporaire de conteneurs et de palettes, sans exiger le paiement de droits de douane ni d’autres taxes ou redevances et faciliter leur utilisation dans le trafic maritime.
 
-2.12.5 *Pratique recommandée.* Les pouvoirs publics devraient prévoir dans leur législation, mentionnée à la norme 2.12.4, des dispositions visant à accepter une simple déclaration selon laquelle les conteneurs et les palettes qui sont importés à titre temporaire seront réexportés dans le délai fixé par l’Etat intéressé.
+2.12.5 *Pratique recommandée.* Les pouvoirs publics devraient prévoir dans leur législation, mentionnée à la norme 2.12.4, des dispositions visant à accepter une simple déclaration selon laquelle les conteneurs et les palettes qui sont importés à titre temporaire seront réexportés dans le délai fixé par l’État intéressé.
 
-2.12.6 *Pratique recommandée.* Les pouvoirs publics devraient autoriser les conteneurs et les palettes qui entrent dans le territoire d’un Etat en vertu des dispositions de la norme 2.12.4 à quitter les limites du port d’arrivée pour permettre le dédouanement des marchandises importées et/ou le chargement des marchandises destinées à l’exportation, en simplifiant les procédures de contrôle et en réduisant au minimum les documents.
+2.12.6 *Pratique recommandée.* Les pouvoirs publics devraient autoriser les conteneurs et les palettes qui entrent dans le territoire d’un État en vertu des dispositions de la norme 2.12.4 à quitter les limites du port d’arrivée pour permettre le dédouanement des marchandises importées et/ou le chargement des marchandises destinées à l’exportation, en simplifiant les procédures de contrôle et en réduisant au minimum les documents.
 
 ### F. Escales successives dans deux ou plusieurs ports d’un même état
 
-2.13 *Pratique recommandée.* Compte tenu des formalités effectuées à l’entrée d’un navire dans le premier port d’escale sur le territoire d’un Etat, les formalités et documents exigés par les pouvoirs publics à toute escale ultérieure dans ce pays, faite sans escale intermédiaire dans un autre pays, devraient être réduits à minimum.
+2.13 *Pratique recommandée.* Compte tenu des formalités effectuées à l’entrée d’un navire dans le premier port d’escale sur le territoire d’un État, les formalités et documents exigés par les pouvoirs publics à toute escale ultérieure dans ce pays, faite sans escale intermédiaire dans un autre pays, devraient être réduits à minimum.
 
 ### G. Établissement des documents
 
@@ -537,9 +539,9 @@ Modifier comme suit la pratique recommandée 3.11.1:
 
 3.13 *Pratique recommandée.* Le ou les noms de famille devraient être inscrits en premier sur les documents relatifs aux passagers et à l’équipage; lorsqu’il est fait usage des noms du père et de la mère, le nom du père devrait être inscrit le premier. Lorsque pour les femmes mariées il est fait usage du nom du mari et du nom de la femme, le nom du mari devrait être inscrit le premier.
 
-3.14 *Norme.* Les pouvoirs publics doivent procéder, sans retard injustifié, au contrôle des passagers et de l’équipage en vue de leur admission sur le territoire de l’Etat, lorsque ce contrôle est exigé.
+3.14 *Norme.* Les pouvoirs publics doivent procéder, sans retard injustifié, au contrôle des passagers et de l’équipage en vue de leur admission sur le territoire de l’État, lorsque ce contrôle est exigé.
 
-3.15 *Norme.* Les pouvoirs publics n’infligent pas de sanctions aux armateurs lorsqu’ils jugent insuffisants les documents présentés par un passager aux fins de contrôle ou lorsqu’un passager ne peut être admis, pour ce motif, sur le territoire de l’Etat.
+3.15 *Norme.* Les pouvoirs publics n’infligent pas de sanctions aux armateurs lorsqu’ils jugent insuffisants les documents présentés par un passager aux fins de contrôle ou lorsqu’un passager ne peut être admis, pour ce motif, sur le territoire de l’État.
 
 3.15.1 *Norme.* Les pouvoirs publics doivent inviter les armateurs à prendre toutes dispositions utiles pour que les passagers soient en possession de tous documents exigés aux fins de contrôle par les Gouvernements contractants.
 
@@ -559,7 +561,7 @@ Modifier comme suit la pratique recommandée 3.11.1:
 
 Note:
 
-Aux termes de la présente pratique recommandée, tout Etat contractant peut délivrer à ce type de passagers, ou accepter d’eux, à leur arrivée, un formulaire spécifiant qu’ils ont l’autorisation d’entrer sur son territoire.
+Aux termes de la présente pratique recommandée, tout État contractant peut délivrer à ce type de passagers, ou accepter d’eux, à leur arrivée, un formulaire spécifiant qu’ils ont l’autorisation d’entrer sur son territoire.
 
 3.16.6 *Norme*. Les passagers en croisière ne doivent pas subir de retard inutile du fait de l’application de mesures de contrôle par les pouvoirs publics.
 
@@ -625,7 +627,7 @@ Port de débarquement (colonne 9)
 
 ## Chapitre 4 Hygiène, services médicaux et quarantaine, services vétérinaires et phytosanitaires
 
-4.1 *Norme.* Les pouvoirs publics d’un Etat qui n’est pas partie au Règlement sanitaire international doivent s’efforcer d’appliquer les dispositions de ce Règlement aux transports maritimes internationaux.
+4.1 *Norme.* Les pouvoirs publics d’un État qui n’est pas partie au Règlement sanitaire international doivent s’efforcer d’appliquer les dispositions de ce Règlement aux transports maritimes internationaux.
 
 4.2 *Pratique recommandée.* Les Gouvernements contractants ayant des intérêts communs en raison de leurs conditions sanitaires, géographiques, sociales et économiques devraient conclure des arrangements spéciaux, au titre de l’art. 98 du Règlement sanitaire international, dans le cas où de tels arrangements facilitent l’application de ce Règlement.
 
@@ -643,17 +645,17 @@ Port de débarquement (colonne 9)
 
 4.8 *Pratique recommandée.* Les pouvoirs publics devraient entretenir, dans le plus grand nombre possible de ports, des installations et services suffisants pour permettre l’application efficace des mesures sanitaires et phytosanitaires ou vétérinaires.
 
-4.9 *Norme.* Pour tous les soins médicaux à donner en cas d’urgence à l’équipage et aux passagers, des installations médicales accessibles sans difficulté doivent, autant qu’il est raisonnable et possible, être prévues dans le plus grand nombre possible de ports de chaque Etat.
+4.9 *Norme.* Pour tous les soins médicaux à donner en cas d’urgence à l’équipage et aux passagers, des installations médicales accessibles sans difficulté doivent, autant qu’il est raisonnable et possible, être prévues dans le plus grand nombre possible de ports de chaque État.
 
 4.10 *Norme.* Sauf en cas d’urgence comportant un danger grave pour la santé publique, l’autorité sanitaire d’un port ne doit pas, en raison d’une autre maladie épidémique, empêcher un navire qui n’est pas infecté ou suspect d’être infecté d’une maladie quarantenaire de décharger ou de charger des marchandises, ou de procéder à son ravitaillement, ou de prendre à bord du combustible ou des carburants et de l’eau potable.
 
-4.11 *Pratique recommandée.* Les expéditions par mer d’animaux, de matières premières animales, de produits animaux bruts, de denrées alimentaires d’origine animale et de produits végétaux quarantenaires devraient être autorisées dans des circonstances déterminées lorsqu’elles sont accompagnées d’un certificat de quarantaine établi dans la forme approuvée par les Etat intéressés.
+4.11 *Pratique recommandée.* Les expéditions par mer d’animaux, de matières premières animales, de produits animaux bruts, de denrées alimentaires d’origine animale et de produits végétaux quarantenaires devraient être autorisées dans des circonstances déterminées lorsqu’elles sont accompagnées d’un certificat de quarantaine établi dans la forme approuvée par les État intéressés.
 
 ## Chapitre 5 Dispositions diverses
 
 ### A. Soumissions et autres formes de garantie
 
-5.1 *Pratique recommandée.* Lorsque les pouvoirs publics exigent des armateurs le dépôt de soumissions ou autres formes de garantie pour couvrir leurs obligations en vertu des lois et règlements relatifs aux douanes, à l’immigration, à la santé publique, à la protection phytosanitaire ou vétérinaire ou autres lois et règlements analogues de l’Etat, lesdits pouvoirs publics devraient autant que possible autoriser le dépôt d’une seule soumission globale.
+5.1 *Pratique recommandée.* Lorsque les pouvoirs publics exigent des armateurs le dépôt de soumissions ou autres formes de garantie pour couvrir leurs obligations en vertu des lois et règlements relatifs aux douanes, à l’immigration, à la santé publique, à la protection phytosanitaire ou vétérinaire ou autres lois et règlements analogues de l’État, lesdits pouvoirs publics devraient autant que possible autoriser le dépôt d’une seule soumission globale.
 
 ### B. Erreurs dans les documents: sanctions
 
@@ -667,13 +669,13 @@ Port de débarquement (colonne 9)
 
 5.4.1 *Norme.* Les Gouvernements contractants doivent adopter toutes les mesures appropriées pour organiser les services habituels des pouvoirs publics dans les ports de manière à éviter de retarder indûment les navires après leur arrivée ou lorsqu’ils sont prêts à partir, et à réduire au minimum le temps nécessaire pour remplir les formalités, à condition que l’heure d’arrivée ou de départ prévue soit notifiée aux pouvoirs publics en temps utile.
 
-5.4.2 *Norme.* L’autorité sanitaire ne perçoit aucun droit pour toute visite médicale ainsi que pour tout examen complémentaire, bactériologique ou autre, effectué à quelque moment que ce soit, de jour ou de nuit, qui peut être nécessaire pour connaître l’état de santé de la personne examiné; elle ne perçoit pas davantage de droits pour la visite et l’inspection du navire à des fins de quarantaine, sauf si l’inspection a pour objet la délivrance d’un certificat de dératisation ou d’exemption de dératisation. Il ne sera pas perçu de droits pour la vaccination d’une personne arrivant sur un navire, ni pour la délivrance d’un certificat de vaccination. Cependant, si des mesures autres que celles indiquées ci-dessus sont nécessaires à l’égard d’un navire, de ses passagers ou de son équipage et que des droits sont prélevés, ils le seront conformément à un tarif unique, uniforme sur tout le territoire de l’Etat intéressé. Ces droits sont perçus sans distinction quant à la nationalité, au domicile, ou à la résidence de la personne intéressée, ou à la nationalité, au pavillon, à l’immatriculation ou à la propriété du navire.
+5.4.2 *Norme.* L’autorité sanitaire ne perçoit aucun droit pour toute visite médicale ainsi que pour tout examen complémentaire, bactériologique ou autre, effectué à quelque moment que ce soit, de jour ou de nuit, qui peut être nécessaire pour connaître l’état de santé de la personne examiné; elle ne perçoit pas davantage de droits pour la visite et l’inspection du navire à des fins de quarantaine, sauf si l’inspection a pour objet la délivrance d’un certificat de dératisation ou d’exemption de dératisation. Il ne sera pas perçu de droits pour la vaccination d’une personne arrivant sur un navire, ni pour la délivrance d’un certificat de vaccination. Cependant, si des mesures autres que celles indiquées ci-dessus sont nécessaires à l’égard d’un navire, de ses passagers ou de son équipage et que des droits sont prélevés, ils le seront conformément à un tarif unique, uniforme sur tout le territoire de l’État intéressé. Ces droits sont perçus sans distinction quant à la nationalité, au domicile, ou à la résidence de la personne intéressée, ou à la nationalité, au pavillon, à l’immatriculation ou à la propriété du navire.
 
 5.4.3 *Pratique recommandée.* Lorsque les pouvoirs publics fournissent des services en dehors des heures régulières visées à la pratique recommandée 5.4, ils devraient le faire à des conditions raisonnables et qui n’excèdent pas le coût réel des services rendus.
 
 5.5 *Norme.* Lorsque le mouvement des navires dans un port le justifie, les pouvoirs publics doivent veiller à fournir les services nécessaires à l’accomplissement des formalités relatives à la cargaison et aux bagages, quelles que soient leur valeur et leur nature.
 
-5.6 *Pratique recommandée.* Les Gouvernements contractants devraient prendre des dispositions par lesquelles un gouvernement accorderait à un autre gouvernement certaines facilités, avant le voyage ou en cours de traversée, pour inspecter les navires, les passagers, les membres de l’équipage, les bagages, les marchandises, ainsi que les documents de douane, d’immigration, de santé publique et de protection phytosanitaire et vétérinaire, lorsque cette mesure peut faciliter l’accomplissement des formalités à l’arrivée sur le territoire du second Etat.
+5.6 *Pratique recommandée.* Les Gouvernements contractants devraient prendre des dispositions par lesquelles un gouvernement accorderait à un autre gouvernement certaines facilités, avant le voyage ou en cours de traversée, pour inspecter les navires, les passagers, les membres de l’équipage, les bagages, les marchandises, ainsi que les documents de douane, d’immigration, de santé publique et de protection phytosanitaire et vétérinaire, lorsque cette mesure peut faciliter l’accomplissement des formalités à l’arrivée sur le territoire du second État.
 
 ### D. Cargaison non déchargée dans le port de destination prévu
 
@@ -703,13 +705,13 @@ Note:
 
 Lors de la création d’une Commission nationale de simplification des formalités du transport maritime ou d’un organisme de coordination national analogue, les Gouvernements contractants sont invités à tenir compte des directives énoncées dans la circulaire FAL.5/Circ. 2.
 
-Champ d’application le 21 avril 2021[^t-3]
+Champ d’application le 9 juillet 2024[^t-3]
 
 <table>
-<tr><th colspan="2">Etats parties</th><th colspan="2">Ratification Adhésion (A) Déclaration de succession (S)</th><th colspan="2"></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th colspan="2">États parties</th><th colspan="2">Ratification Adhésion (A) Déclaration de succession (S)</th><th colspan="2"></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td colspan="2">Albanie</td><td colspan="2">19 décembre</td><td colspan="2">2005 A</td><td>17 février</td><td>2006</td></tr>
 <tr><td colspan="2">Algérie</td><td colspan="2">28 novembre</td><td colspan="2">1983</td><td>27 janvier</td><td>1984</td></tr>
-<tr><td colspan="2">Allemagne<sup>\*</sup></td><td colspan="2">26 juillet</td><td colspan="2">1967</td><td>24 septembre</td><td>1967</td></tr>
+<tr><td colspan="2">Allemagne\*</td><td colspan="2">26 juillet</td><td colspan="2">1967</td><td>24 septembre</td><td>1967</td></tr>
 <tr><td colspan="2">Antigua-et-Barbuda</td><td colspan="2">24 novembre</td><td colspan="2">2015 A</td><td>23 janvier</td><td>2016</td></tr>
 <tr><td colspan="2">Arabie Saoudite</td><td colspan="2">9 mai</td><td colspan="2">2018 A</td><td>8 juillet</td><td>2018</td></tr>
 <tr><td colspan="2">Argentine</td><td colspan="2">29 janvier</td><td colspan="2">1980</td><td>29 mars</td><td>1980</td></tr>
@@ -721,6 +723,7 @@ Champ d’application le 21 avril 2021[^t-3]
 <tr><td colspan="2">Barbade</td><td colspan="2">30 septembre</td><td colspan="2">1982 A</td><td>29 novembre</td><td>1982</td></tr>
 <tr><td colspan="2">Bélarus</td><td colspan="2">5 décembre</td><td colspan="2">2016 A</td><td>3 février</td><td>2016</td></tr>
 <tr><td colspan="2">Belgique</td><td colspan="2">4 janvier</td><td colspan="2">1967</td><td>5 mars</td><td>1967</td></tr>
+<tr><td colspan="2">Belize</td><td colspan="2">9 octobre</td><td colspan="2">2023 A</td><td>8 décembre</td><td>2023</td></tr>
 <tr><td colspan="2">Bénin</td><td colspan="2">2 mars</td><td colspan="2">1992 A</td><td>1<sup>er</sup> mai</td><td>1992</td></tr>
 <tr><td colspan="2">Brésil</td><td colspan="2">22 août</td><td colspan="2">1977</td><td>21 octobre</td><td>1977</td></tr>
 <tr><td colspan="2">Bulgarie</td><td colspan="2">22 avril</td><td colspan="2">1999 A</td><td>21 juin</td><td>1999</td></tr>
@@ -730,7 +733,7 @@ Champ d’application le 21 avril 2021[^t-3]
 <tr><td colspan="2">Cap-Vert</td><td colspan="2">28 avril</td><td colspan="2">1977 A</td><td>27 juin</td><td>1977</td></tr>
 <tr><td colspan="2">Chili</td><td colspan="2">14 février</td><td colspan="2">1975 A</td><td>15 avril</td><td>1975</td></tr>
 <tr><td colspan="2">Chine</td><td colspan="2">16 janvier</td><td colspan="2">1995 A</td><td>17 mars</td><td>1995</td></tr>
-<tr><td colspan="2">[tab] Hong Kong<sup>a</sup></td><td colspan="2">5 juin</td><td colspan="2">1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
+<tr><td colspan="2">Hong Kong <sup>a</sup></td><td colspan="2">5 juin</td><td colspan="2">1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
 <tr><td colspan="2">Macao</td><td colspan="2">24 juin</td><td colspan="2">2005</td><td>24 juin</td><td>2005</td></tr>
 <tr><td colspan="2">Chypre</td><td colspan="2">9 mars</td><td colspan="2">2004 A</td><td>8 mai</td><td>2004</td></tr>
 <tr><td colspan="2">Colombie</td><td colspan="2">3 juin</td><td colspan="2">1991 A</td><td>2 août</td><td>1991</td></tr>
@@ -738,23 +741,23 @@ Champ d’application le 21 avril 2021[^t-3]
 <tr><td colspan="2">Corée (Nord)</td><td colspan="2">24 avril</td><td colspan="2">1992 A</td><td>23 juin</td><td>1992</td></tr>
 <tr><td colspan="2">Corée (Sud)</td><td colspan="2">6 mars</td><td colspan="2">2001</td><td>5 mai</td><td>2001</td></tr>
 <tr><td colspan="2">Costa Rica\*</td><td colspan="2">12 février</td><td colspan="2">2019 A</td><td>13 avril</td><td>2019</td></tr>
-<tr><td colspan="2">Côte d'Ivoire</td><td colspan="2">16 février</td><td colspan="2">1967</td><td>5 mars</td><td>1967</td></tr>
+<tr><td colspan="2">Côte d’Ivoire</td><td colspan="2">16 février</td><td colspan="2">1967</td><td>5 mars</td><td>1967</td></tr>
 <tr><td colspan="2">Croatie</td><td colspan="2">27 juillet</td><td colspan="2">1992 S</td><td>8 octobre</td><td>1991</td></tr>
-<tr><td colspan="2">Cuba<sup>\*</sup></td><td colspan="2">27 novembre</td><td colspan="2">1984 A</td><td>26 janvier</td><td>1985</td></tr>
+<tr><td colspan="2">Cuba\*</td><td colspan="2">27 novembre</td><td colspan="2">1984 A</td><td>26 janvier</td><td>1985</td></tr>
 <tr><td colspan="2">Danemark</td><td colspan="2">9 janvier</td><td colspan="2">1968</td><td>9 mars</td><td>1968</td></tr>
 <tr><td colspan="2">Dominique</td><td colspan="2">31 août</td><td colspan="2">2001 A</td><td>30 octobre</td><td>2001</td></tr>
-<tr><td colspan="2">Egypte<sup>\*</sup></td><td colspan="2">19 février</td><td colspan="2">1987</td><td>20 avril</td><td>1987</td></tr>
+<tr><td colspan="2">Égypte\*</td><td colspan="2">19 février</td><td colspan="2">1987</td><td>20 avril</td><td>1987</td></tr>
 <tr><td colspan="2">El Salvador</td><td colspan="2">21 décembre</td><td colspan="2">2006 A</td><td>19 février</td><td>2007</td></tr>
-<tr><td colspan="2">Emirats arabes unis</td><td colspan="2">10 avril</td><td colspan="2">2018 A</td><td>9 juin</td><td>2018</td></tr>
-<tr><td colspan="2">Equateur</td><td colspan="2">17 mai</td><td colspan="2">1988</td><td>16 juillet</td><td>1988</td></tr>
+<tr><td colspan="2">Émirats arabes unis</td><td colspan="2">10 avril</td><td colspan="2">2018 A</td><td>9 juin</td><td>2018</td></tr>
+<tr><td colspan="2">Équateur</td><td colspan="2">17 mai</td><td colspan="2">1988</td><td>16 juillet</td><td>1988</td></tr>
 <tr><td colspan="2">Espagne</td><td colspan="2">24 août</td><td colspan="2">1973</td><td>23 octobre</td><td>1973</td></tr>
 <tr><td colspan="2">Estonie</td><td colspan="2">22 mars</td><td colspan="2">2002 A</td><td>21 mai</td><td>2002</td></tr>
-<tr><td colspan="2">Etats-Unis</td><td colspan="2">17 mars</td><td colspan="2">1967</td><td>16 mai</td><td>1967</td></tr>
-<tr><td colspan="2">[tab] Guam</td><td colspan="2">9 septembre</td><td colspan="2">1975 A</td><td>9 septembre</td><td>1975</td></tr>
-<tr><td colspan="2">[tab] Iles Midway, Wake, Johnston</td><td colspan="2">18 mars</td><td colspan="2">1976 A</td><td>18 mars</td><td>1976</td></tr>
-<tr><td colspan="2">[tab] Iles Vierges américaines</td><td colspan="2">9 septembre</td><td colspan="2">1975 A</td><td>9 septembre</td><td>1975</td></tr>
-<tr><td colspan="2">[tab] Samoa américaines</td><td colspan="2">9 septembre</td><td colspan="2">1975 A</td><td>9 septembre</td><td>1975</td></tr>
-<tr><td colspan="2">[tab] Tous les territoires et possessions des Etats-Unis, y compris Porto Rico</td><td colspan="2">9 septembre</td><td colspan="2">1975 A</td><td>9 septembre</td><td>1975</td></tr>
+<tr><td colspan="2">États-Unis</td><td colspan="2">17 mars</td><td colspan="2">1967</td><td>16 mai</td><td>1967</td></tr>
+<tr><td colspan="2">Guam</td><td colspan="2">9 septembre</td><td colspan="2">1975 A</td><td>9 septembre</td><td>1975</td></tr>
+<tr><td colspan="2">Îles Midway, Wake, Johnston</td><td colspan="2">18 mars</td><td colspan="2">1976 A</td><td>18 mars</td><td>1976</td></tr>
+<tr><td colspan="2">Îles Vierges américaines</td><td colspan="2">9 septembre</td><td colspan="2">1975 A</td><td>9 septembre</td><td>1975</td></tr>
+<tr><td colspan="2">Samoa américaines</td><td colspan="2">9 septembre</td><td colspan="2">1975 A</td><td>9 septembre</td><td>1975</td></tr>
+<tr><td colspan="2">Tous les territoires et possessions des États-Unis, y compris Porto Rico</td><td colspan="2">9 septembre</td><td colspan="2">1975 A</td><td>9 septembre</td><td>1975</td></tr>
 <tr><td colspan="2">Fidji</td><td colspan="2">29 novembre</td><td colspan="2">1972 A</td><td>28 janvier</td><td>1973</td></tr>
 <tr><td colspan="2">Finlande</td><td colspan="2">20 mars</td><td colspan="2">1967</td><td>19 mai</td><td>1967</td></tr>
 <tr><td colspan="2">France</td><td colspan="2">29 novembre</td><td colspan="2">1967</td><td>28 janvier</td><td>1968</td></tr>
@@ -763,18 +766,20 @@ Champ d’application le 21 avril 2021[^t-3]
 <tr><td colspan="2">Géorgie</td><td colspan="2">25 août</td><td colspan="2">1995 A</td><td>24 octobre</td><td>1995</td></tr>
 <tr><td colspan="2">Ghana</td><td colspan="2">5 novembre</td><td colspan="2">1965</td><td>5 mars</td><td>1967</td></tr>
 <tr><td colspan="2">Grèce</td><td colspan="2">8 juin</td><td colspan="2">1972</td><td>7 août</td><td>1972</td></tr>
+<tr><td colspan="2">Guatemala</td><td colspan="2">7 mars</td><td colspan="2">2023 A</td><td>6 mai</td><td>2023</td></tr>
 <tr><td colspan="2">Guinée</td><td colspan="2">19 janvier</td><td colspan="2">1981 A</td><td>20 mars</td><td>1981</td></tr>
+<tr><td colspan="2">Guinée-Bissau</td><td colspan="2">12 mai</td><td colspan="2">2022 A</td><td>11 juillet</td><td>2022</td></tr>
 <tr><td colspan="2">Guyana</td><td colspan="2">10 décembre</td><td colspan="2">1997 A</td><td>8 février</td><td>1998</td></tr>
 <tr><td colspan="2">Honduras</td><td colspan="2">26 janvier</td><td colspan="2">2006 A</td><td>25 mars</td><td>2006</td></tr>
-<tr><td colspan="2">Hongrie<sup>\*</sup></td><td colspan="2">15 décembre</td><td colspan="2">1976</td><td>13 février</td><td>1977</td></tr>
-<tr><td colspan="2">Iles Marshall</td><td colspan="2">29 novembre</td><td colspan="2">1994 A</td><td>28 janvier</td><td>1995</td></tr>
+<tr><td colspan="2">Hongrie\*</td><td colspan="2">15 décembre</td><td colspan="2">1976</td><td>13 février</td><td>1977</td></tr>
+<tr><td colspan="2">Îles Marshall</td><td colspan="2">29 novembre</td><td colspan="2">1994 A</td><td>28 janvier</td><td>1995</td></tr>
 <tr><td colspan="2">Inde</td><td colspan="2">25 mai</td><td colspan="2">1976 A</td><td>24 juillet</td><td>1976</td></tr>
 <tr><td colspan="2">Indonésie</td><td colspan="2">4 novembre</td><td colspan="2">2002 A</td><td>3 janvier</td><td>2003</td></tr>
 <tr><td colspan="2">Iran</td><td colspan="2">27 mars</td><td colspan="2">1995 A</td><td>26 mai</td><td>1995</td></tr>
-<tr><td colspan="2">Iraq<sup>\*</sup></td><td colspan="2">15 novembre</td><td colspan="2">1976 A</td><td>14 janvier</td><td>1977</td></tr>
+<tr><td colspan="2">Iraq\*</td><td colspan="2">15 novembre</td><td colspan="2">1976 A</td><td>14 janvier</td><td>1977</td></tr>
 <tr><td colspan="2">Irlande</td><td colspan="2">18 juin</td><td colspan="2">1971</td><td>17 août</td><td>1971</td></tr>
 <tr><td colspan="2">Islande</td><td colspan="2">24 janvier</td><td colspan="2">1967 A</td><td>5 mars</td><td>1967</td></tr>
-<tr><td colspan="2">Israël <sup>\*\*</sup></td><td colspan="2">13 octobre</td><td colspan="2">1967</td><td>12 décembre</td><td>1967</td></tr>
+<tr><td colspan="2">Israël\*\*</td><td colspan="2">13 octobre</td><td colspan="2">1967</td><td>12 décembre</td><td>1967</td></tr>
 <tr><td colspan="2">Italie</td><td colspan="2">25 septembre</td><td colspan="2">1972</td><td>24 novembre</td><td>1972</td></tr>
 <tr><td colspan="2">Japon</td><td colspan="2">2 septembre</td><td colspan="2">2005</td><td>1<sup>er</sup> novembre</td><td>2005</td></tr>
 <tr><td colspan="2">Jordanie</td><td colspan="2">27 mars</td><td colspan="2">1997 A</td><td>26 mai</td><td>1997</td></tr>
@@ -788,9 +793,10 @@ Champ d’application le 21 avril 2021[^t-3]
 <tr><td colspan="2">Madagascar</td><td colspan="2">8 juillet</td><td colspan="2">1970</td><td>6 septembre</td><td>1970</td></tr>
 <tr><td colspan="2">Malaisie</td><td colspan="2">10 avril</td><td colspan="2">2019</td><td>9 avril</td><td>2019</td></tr>
 <tr><td colspan="2">Mali</td><td colspan="2">12 octobre</td><td colspan="2">2004 A</td><td>11 décembre</td><td>2004</td></tr>
-<tr><td colspan="2">Malte<sup>\*</sup></td><td colspan="2">24 septembre</td><td colspan="2">2002 A</td><td>23 novembre</td><td>2002</td></tr>
+<tr><td colspan="2">Malte\*</td><td colspan="2">24 septembre</td><td colspan="2">2002 A</td><td>23 novembre</td><td>2002</td></tr>
 <tr><td colspan="2">Maurice</td><td colspan="2">18 juin</td><td colspan="2">1990 A</td><td>17 août</td><td>1990</td></tr>
 <tr><td colspan="2">Mexique</td><td colspan="2">31 mai</td><td colspan="2">1983 A</td><td>30 juillet</td><td>1983</td></tr>
+<tr><td colspan="2">Moldova</td><td colspan="2">13 avril</td><td colspan="2">2023 A</td><td>12 juin</td><td>2023</td></tr>
 <tr><td colspan="2">Monaco</td><td colspan="2">9 avril</td><td colspan="2">1965</td><td>5 mars</td><td>1967</td></tr>
 <tr><td colspan="2">Monténégro</td><td colspan="2">3 juin</td><td colspan="2">2006 S</td><td>3 juin</td><td>2006</td></tr>
 <tr><td colspan="2">Nicaragua</td><td colspan="2">4 juillet</td><td colspan="2">2007</td><td>2 septembre</td><td>2007</td></tr>
@@ -800,8 +806,8 @@ Champ d’application le 21 avril 2021[^t-3]
 <tr><td colspan="2">Ouganda</td><td colspan="2">3 avril</td><td colspan="2">2019 A</td><td>2 juin</td><td>2019</td></tr>
 <tr><td colspan="2">Palaos</td><td colspan="2">29 septembre</td><td colspan="2">2011 A</td><td>28 novembre</td><td>2011</td></tr>
 <tr><td colspan="2">Panama</td><td colspan="2">1<sup>er</sup> septembre</td><td colspan="2">2008 A</td><td>13 octobre</td><td>2008</td></tr>
-<tr><td colspan="2">Pays-Bas<sup>\*</sup></td><td colspan="2">21 septembre</td><td colspan="2">1967</td><td>20 novembre</td><td>1967</td></tr>
-<tr><td colspan="2">[tab] Aruba</td><td colspan="2">24 décembre</td><td colspan="2">1985</td><td>1<sup>er</sup> janvier</td><td>1986</td></tr>
+<tr><td colspan="2">Pays-Bas\*</td><td colspan="2">21 septembre</td><td colspan="2">1967</td><td>20 novembre</td><td>1967</td></tr>
+<tr><td colspan="2">Aruba</td><td colspan="2">24 décembre</td><td colspan="2">1985</td><td>1<sup>er</sup> janvier</td><td>1986</td></tr>
 <tr><td colspan="2">Curaçao</td><td colspan="2">21 septembre</td><td colspan="2">1967</td><td>20 novembre</td><td>1967</td></tr>
 <tr><td colspan="2">Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td colspan="2">21 septembre</td><td colspan="2">1967</td><td>20 novembre</td><td>1967</td></tr>
 <tr><td colspan="2">Sint Maarten</td><td colspan="2">21 septembre</td><td colspan="2">1967</td><td>20 novembre</td><td>1967</td></tr>
@@ -809,12 +815,12 @@ Champ d’application le 21 avril 2021[^t-3]
 <tr><td colspan="2">Pologne</td><td colspan="2">25 juillet</td><td colspan="2">1969</td><td>23 septembre</td><td>1969</td></tr>
 <tr><td colspan="2">Portugal</td><td colspan="2">6 août</td><td colspan="2">1990 A</td><td>6 octobre</td><td>1990</td></tr>
 <tr><td colspan="2">République dominicaine</td><td colspan="2">11 juillet</td><td colspan="2">1966</td><td>5 mars</td><td>1967</td></tr>
-<tr><td colspan="2">République tchèque<sup>\*</sup></td><td colspan="2">19 octobre</td><td colspan="2">1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
+<tr><td colspan="2">République tchèque\*</td><td colspan="2">19 octobre</td><td colspan="2">1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td colspan="2">Roumanie</td><td colspan="2">25 avril</td><td colspan="2">2001 A</td><td>24 juin</td><td>2001</td></tr>
 <tr><td colspan="2">Royaume-Uni</td><td colspan="2">24 février</td><td colspan="2">1966</td><td>5 mars</td><td>1967</td></tr>
-<tr><td colspan="2">Russie<sup>\*</sup></td><td colspan="2">25 octobre</td><td colspan="2">1966</td><td>5 mars</td><td>1967</td></tr>
+<tr><td colspan="2">Russie\*</td><td colspan="2">25 octobre</td><td colspan="2">1966</td><td>5 mars</td><td>1967</td></tr>
 <tr><td colspan="2">Sainte-Lucie</td><td colspan="2">20 mai</td><td colspan="2">2004 A</td><td>19 juillet</td><td>2004</td></tr>
-<tr><td colspan="2">Saint-Kitts-et-Nevis</td><td colspan="2">4 octobre</td><td colspan="2">2004 A</td><td>6 décembre</td><td>2004</td></tr>
+<tr><td colspan="2">Saint-Kitts-et-Nevis</td><td colspan="2">7 octobre</td><td colspan="2">2004 A</td><td>6 décembre</td><td>2004</td></tr>
 <tr><td colspan="2">Saint-Vincent-et-les Grenadines</td><td colspan="2">2 juillet</td><td colspan="2">2020 A</td><td>30 septembre</td><td>2020</td></tr>
 <tr><td colspan="2">Samoa</td><td colspan="2">18 mai</td><td colspan="2">2004 A</td><td>17 juillet</td><td>2004</td></tr>
 <tr><td colspan="2">Sénégal</td><td colspan="2">17 octobre</td><td colspan="2">1980</td><td>16 décembre</td><td>1980</td></tr>
@@ -822,28 +828,28 @@ Champ d’application le 21 avril 2021[^t-3]
 <tr><td colspan="2">Seychelles</td><td colspan="2">13 décembre</td><td colspan="2">1989 A</td><td>11 février</td><td>1990</td></tr>
 <tr><td colspan="2">Sierra Leone</td><td colspan="2">10 mars</td><td colspan="2">2008 A</td><td>9 mai</td><td>2008</td></tr>
 <tr><td colspan="2">Singapour</td><td colspan="2">3 avril</td><td colspan="2">1967 A</td><td>2 juin</td><td>1967</td></tr>
-<tr><td colspan="2">Slovaquie<sup>\*</sup></td><td colspan="2">30 janvier</td><td colspan="2">1995 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
+<tr><td colspan="2">Slovaquie\*</td><td colspan="2">30 janvier</td><td colspan="2">1995 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td colspan="2">Slovénie</td><td colspan="2">12 novembre</td><td colspan="2">1992 S</td><td>25 juin</td><td>1991</td></tr>
 <tr><td colspan="2">Sri Lanka</td><td colspan="2">6 mars</td><td colspan="2">1998 A</td><td>5 mai</td><td>1998</td></tr>
 <tr><td colspan="2">Suède</td><td colspan="2">28 juillet</td><td colspan="2">1967</td><td>26 septembre</td><td>1967</td></tr>
 <tr><td colspan="2">Suisse</td><td colspan="2">23 avril</td><td colspan="2">1968</td><td>22 juin</td><td>1968</td></tr>
 <tr><td colspan="2">Suriname</td><td colspan="2">29 novembre</td><td colspan="2">1975 S</td><td>25 novembre</td><td>1975</td></tr>
-<tr><td colspan="2">Syrie<sup>\*</sup></td><td colspan="2">6 février</td><td colspan="2">1975 A</td><td>7 avril</td><td>1975</td></tr>
+<tr><td colspan="2">Syrie\*</td><td colspan="2">6 février</td><td colspan="2">1975 A</td><td>7 avril</td><td>1975</td></tr>
 <tr><td colspan="2">Tanzanie</td><td colspan="2">23 juillet</td><td colspan="2">2008 A</td><td>21 septembre</td><td>2008</td></tr>
 <tr><td colspan="2">Thaïlande</td><td colspan="2">28 novembre</td><td colspan="2">1991 A</td><td>27 janvier</td><td>1992</td></tr>
+<tr><td colspan="2">Togo</td><td colspan="2">8 juillet</td><td colspan="2">2021 A</td><td>6 septembre</td><td>2021</td></tr>
 <tr><td colspan="2">Tonga</td><td colspan="2">18 septembre</td><td colspan="2">2003 A</td><td>17 novembre</td><td>2003</td></tr>
 <tr><td colspan="2">Trinité-et-Tobago</td><td colspan="2">16 mars</td><td colspan="2">1967</td><td>15 mai</td><td>1967</td></tr>
 <tr><td colspan="2">Tunisie</td><td colspan="2">27 janvier</td><td colspan="2">1969 A</td><td>28 mars</td><td>1969</td></tr>
 <tr><td colspan="2">Turquie</td><td colspan="2">13 mai</td><td colspan="2">2016 A</td><td>12 juillet</td><td>2016</td></tr>
 <tr><td colspan="2">Ukraine</td><td colspan="2">25 octobre</td><td colspan="2">1993</td><td>24 décembre</td><td>1993</td></tr>
-<tr><td colspan="2">Uruguay<sup>\*</sup></td><td colspan="2">2 décembre</td><td colspan="2">1992 A</td><td>31 janvier</td><td>1993</td></tr>
+<tr><td colspan="2">Uruguay\*</td><td colspan="2">2 décembre</td><td colspan="2">1992 A</td><td>31 janvier</td><td>1993</td></tr>
 <tr><td colspan="2">Vanuatu</td><td colspan="2">13 janvier</td><td colspan="2">1989 A</td><td>14 mars</td><td>1989</td></tr>
 <tr><td colspan="2">Venezuela</td><td colspan="2">10 mai</td><td colspan="2">2002 A</td><td>9 juillet</td><td>2002</td></tr>
 <tr><td colspan="2">Vietnam</td><td colspan="2">23 janvier</td><td colspan="2">2006 A</td><td>24 mars</td><td>2006</td></tr>
 <tr><td colspan="2">Yémen</td><td colspan="2">6 mars</td><td colspan="2">1979 A</td><td>5 mai</td><td>1979</td></tr>
 <tr><td colspan="2">Zambie</td><td colspan="2">14 décembre</td><td colspan="2">1965 A</td><td>5 mars</td><td>1967</td></tr>
-<tr><td colspan="8">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet de l’Organisation maritime internationale (OMI) (www.imo.org) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): www.imo.org/OurWork/Facilitation ou à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="8"><sup>a</sup> Du 5 mars 1967 au 30 juin 1997, la Convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. A partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 juin 1997, la Convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997.</td></tr>
+<tr><td colspan="8">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): [www.imo.org](http://www.imo.org) &gt; Qui nous sommes &gt; Conventions &gt; État des conventions &gt; Status Book, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 5 mars 1967 au 30 juin 1997, la Convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 juin 1997, la Convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997.</td></tr>
 </table>
 
-[^t-3]: [RO 1973 254](https://fedlex.data.admin.ch/eli/oc/1973/256_254_257), [1976 1330](https://fedlex.data.admin.ch/eli/oc/1976/1330_1330_1330), **1978** 1572, [1981 1133](https://fedlex.data.admin.ch/eli/oc/1981/1133_1133_1133), [1983 159](https://fedlex.data.admin.ch/eli/oc/1983/159_159_159), [1985 243](https://fedlex.data.admin.ch/eli/oc/1985/243_243_243), [1987 482](https://fedlex.data.admin.ch/eli/oc/1987/482_482_482)[1146](https://fedlex.data.admin.ch/eli/oc/1987/1146_1146_1146), [1989 159](https://fedlex.data.admin.ch/eli/oc/1989/159_159_159), [1990 1697](https://fedlex.data.admin.ch/eli/oc/1990/1697_1697_1697), **1993** 1907, [2005 1297](https://fedlex.data.admin.ch/eli/oc/2005/193), [2008 3975](https://fedlex.data.admin.ch/eli/oc/2008/539), [2012 3815](https://fedlex.data.admin.ch/eli/oc/2012/443), [2018 3057](https://fedlex.data.admin.ch/eli/oc/2018/486),[2021 265](https://fedlex.data.admin.ch/eli/oc/2021/265). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral Fedlex (https://www.fedlex.admin.ch/fr/treaty).
+[^t-3]: [RO 1973 254](https://fedlex.data.admin.ch/eli/oc/1973/256_254_257); [1976 1330](https://fedlex.data.admin.ch/eli/oc/1976/1330_1330_1330); [1978 1567](https://fedlex.data.admin.ch/eli/oc/1978/1567_1567_1567); [1981 1133](https://fedlex.data.admin.ch/eli/oc/1981/1133_1133_1133); [1983 159](https://fedlex.data.admin.ch/eli/oc/1983/159_159_159); [1985 243](https://fedlex.data.admin.ch/eli/oc/1985/243_243_243); [1987 482](https://fedlex.data.admin.ch/eli/oc/1987/482_482_482), [1146](https://fedlex.data.admin.ch/eli/oc/1987/1146_1146_1146); [1989 159](https://fedlex.data.admin.ch/eli/oc/1989/159_159_159); [1990 1697](https://fedlex.data.admin.ch/eli/oc/1990/1697_1697_1697); [1993 1903](https://fedlex.data.admin.ch/eli/oc/1993/1903_1903_1903); [2005 1297](https://fedlex.data.admin.ch/eli/oc/2005/193); [2008 3975](https://fedlex.data.admin.ch/eli/oc/2008/539); [2012 3815](https://fedlex.data.admin.ch/eli/oc/2012/443); [2018 3057](https://fedlex.data.admin.ch/eli/oc/2018/486); [2021 265](https://fedlex.data.admin.ch/eli/oc/2021/265); [2024 360](https://fedlex.data.admin.ch/eli/oc/2024/360). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
