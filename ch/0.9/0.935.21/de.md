@@ -4,11 +4,11 @@ title: Statuten vom 27. September 1970 der Weltorganisation für Tourismus (WTO)
 short: WTO
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/96_95_95"
 language: de
-version: 2021-02-24
+version: 2024-07-10
 adopted: 1970-09-27
 in_force: 1976-01-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/96_95_95/20210224/de/xml/fedlex-data-admin-ch-eli-cc-1976-96_95_95-20210224-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/96_95_95/20210224/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/96_95_95/20240710/de/xml/fedlex-data-admin-ch-eli-cc-1976-96_95_95-20240710-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/96_95_95/20240710/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -27,7 +27,7 @@ Schweizerische Annahmeerklärung hinterlegt am 12. Januar 1976
 
 In Kraft getreten für die Schweiz am 12. Januar 1976
 
-(Stand am 24. Februar 2021)
+(Stand am 10. Juli 2024)
 
 [^t-1]: [AS 1976 94](https://fedlex.data.admin.ch/eli/oc/1976/94_94_94)
 
@@ -367,7 +367,7 @@ Geschehen zu Mexiko am 27. September 1970.
 <tr><td>Der Präsident der ausserordentlichen Generalversammlung und Präsident der offiziellen Fremdenverkehrsorganisationen: Georges Faddoul</td><td>Der Generalsekretär der Internationalen Union der offiziellen Fremdenverkehrsorganisationen: Robert C. Lonati</td></tr>
 </table>
 
-Anhang*[^t-2]*
+Anhang[^t-2]
 
 ## Finanzordnung
 
@@ -407,7 +407,7 @@ Geschehen zu Mexiko am 27. September 1970.
 <tr><td>Der Präsident der ausserordentlichen Generalversammlung und Präsident der offiziellen Fremdenverkehrsorganisationen: Georges Faddoul</td><td>Der Generalsekretär der Internationalen Union der offiziellen Fremdenverkehrsorganisationen: Robert C. Lonati</td></tr>
 </table>
 
-Geltungsbereich am 24. Februar 2021**[^t-3]**
+Geltungsbereich am 10. Juli 2024[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th colspan="2">Ratifikation Nachfolgeerklärung (N)</th><th colspan="3"></th><th colspan="2">Inkrafttreten</th><th colspan="3"></th></tr>
@@ -417,18 +417,20 @@ Geltungsbereich am 24. Februar 2021**[^t-3]**
 <tr><td>Algerien</td><td colspan="2">5. Mai</td><td colspan="3">1976</td><td colspan="3">5. Mai</td><td colspan="3">1976</td></tr>
 <tr><td>Andorra</td><td colspan="2">21. Oktober</td><td colspan="3">1995</td><td colspan="3">21. Oktober</td><td colspan="3">1995</td></tr>
 <tr><td>Angola</td><td colspan="2">30. August</td><td colspan="3">1990</td><td colspan="3">30. August</td><td colspan="3">1990</td></tr>
+<tr><td>Antigua und Barbuda</td><td colspan="2">12. März</td><td colspan="3">2021</td><td colspan="2">1. Januar</td><td colspan="3">2022</td></tr>
 <tr><td>Äquatorialguinea</td><td colspan="2">23. August</td><td colspan="3">1995</td><td colspan="3">21. Oktober</td><td colspan="3">1995</td></tr>
 <tr><td>Argentinien</td><td colspan="2">13. Juni</td><td colspan="3">1972</td><td colspan="3">2. Januar</td><td colspan="3">1975</td></tr>
 <tr><td>Armenien</td><td colspan="2">24. September</td><td colspan="3">1997</td><td colspan="3">24. Oktober</td><td colspan="3">1997</td></tr>
 <tr><td>Aserbaidschan</td><td colspan="2">29. September</td><td colspan="3">2001</td><td colspan="3">29. September</td><td colspan="3">2001</td></tr>
 <tr><td>Äthiopien</td><td colspan="2">22. Mai</td><td colspan="3">1975</td><td colspan="3">22. Mai</td><td colspan="3">1975</td></tr>
-<tr><td>Bahamas</td><td colspan="2">24. Mai</td><td colspan="3">2005</td><td colspan="3">24. Mai</td><td colspan="3">2005</td></tr>
+<tr><td>Bahamas</td><td colspan="2">24. Mai</td><td colspan="3">2005</td><td colspan="3">25. November</td><td colspan="3">2005</td></tr>
 <tr><td>Bahrain</td><td colspan="2">29. September</td><td colspan="3">2001</td><td colspan="3">29. September</td><td colspan="3">2001</td></tr>
 <tr><td>Bangladesch</td><td colspan="2">19. Februar</td><td colspan="3">1975</td><td colspan="3">19. Februar</td><td colspan="3">1975</td></tr>
 <tr><td>Barbados</td><td colspan="2">17. September</td><td colspan="3">2015</td><td colspan="3">17. September</td><td colspan="3">2015</td></tr>
 <tr><td>Belarus</td><td colspan="2">9. Juni</td><td colspan="3">2005</td><td colspan="3">14. Juni</td><td colspan="3">2005</td></tr>
 <tr><td>[tab] Belgien</td><td colspan="3"></td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Region Flandern <sup>a</sup></td><td colspan="2">24. Oktober</td><td colspan="3">1997</td><td colspan="3">24. Oktober</td><td colspan="3">1997</td></tr>
+<tr><td>Belize</td><td colspan="2">25. Juli</td><td colspan="3">2022</td><td colspan="2">1. Januar</td><td colspan="3">2024</td></tr>
 <tr><td>Benin</td><td colspan="2">31. Dezember</td><td colspan="3">1974</td><td colspan="3">2. Januar</td><td colspan="3">1975</td></tr>
 <tr><td>Bhutan</td><td colspan="2">4. Februar</td><td colspan="3">2003</td><td colspan="3">19. Oktober</td><td colspan="3">2003</td></tr>
 <tr><td>Bolivien</td><td colspan="2">21. Mai</td><td colspan="3">1975</td><td colspan="3">21. Mai</td><td colspan="3">1975</td></tr>
@@ -483,7 +485,7 @@ Geltungsbereich am 24. Februar 2021**[^t-3]**
 <tr><td>Kenia</td><td colspan="2">24. September</td><td colspan="3">1971</td><td colspan="3">2. Januar</td><td colspan="3">1975</td></tr>
 <tr><td>Kirgisistan</td><td colspan="2">2. September</td><td colspan="3">1993</td><td colspan="3">8. Oktober</td><td colspan="3">1993</td></tr>
 <tr><td>Kolumbien</td><td colspan="2">12. Juni</td><td colspan="3">1971</td><td colspan="3">2. Januar</td><td colspan="3">1975</td></tr>
-<tr><td>Komoren</td><td colspan="2">16. September</td><td colspan="3">2017 B</td><td colspan="2">16. September</td><td colspan="3">2017</td></tr>
+<tr><td>Komoren</td><td colspan="2">16. September</td><td colspan="3">2017</td><td colspan="2">16. September</td><td colspan="3">2017</td></tr>
 <tr><td>Kongo (Brazzaville)</td><td colspan="2">29. Juli</td><td colspan="3">1977</td><td colspan="3">20. September</td><td colspan="3">1979</td></tr>
 <tr><td>Kongo (Kinshasa)</td><td colspan="2">20. Januar</td><td colspan="3">1972</td><td colspan="3">2. Januar</td><td colspan="3">1975</td></tr>
 <tr><td>Korea (Nord-)</td><td colspan="2">28. August</td><td colspan="3">1987</td><td colspan="3">1. Oktober</td><td colspan="3">1987</td></tr>
@@ -496,7 +498,7 @@ Geltungsbereich am 24. Februar 2021**[^t-3]**
 <tr><td>Libanon</td><td colspan="2">18. Juni</td><td colspan="3">1974</td><td colspan="3">2. Januar</td><td colspan="3">1975</td></tr>
 <tr><td>Liberia</td><td colspan="2">14. Oktober</td><td colspan="3">2011</td><td colspan="2">14. Oktober</td><td colspan="3">2011</td></tr>
 <tr><td>Libyen</td><td colspan="2">21. April</td><td colspan="3">1977</td><td colspan="3">21. April</td><td colspan="3">1977</td></tr>
-<tr><td>Litauen</td><td colspan="2">26. September</td><td colspan="3">2003</td><td colspan="3">6. Oktober</td><td colspan="3">2003</td></tr>
+<tr><td>Litauen</td><td colspan="2">6. Oktober</td><td colspan="3">2003</td><td colspan="3">19. Oktober</td><td colspan="3">2003</td></tr>
 <tr><td>Madagaskar</td><td colspan="2">22. Mai</td><td colspan="3">1975</td><td colspan="3">22. Mai</td><td colspan="3">1975</td></tr>
 <tr><td>Malawi</td><td colspan="2">6. August</td><td colspan="3">1974</td><td colspan="3">2. Januar</td><td colspan="3">1975</td></tr>
 <tr><td>Malaysia</td><td colspan="2">19. September</td><td colspan="3">1991</td><td colspan="3">19. September</td><td colspan="3">1991</td></tr>
@@ -506,7 +508,7 @@ Geltungsbereich am 24. Februar 2021**[^t-3]**
 <tr><td>Marokko</td><td colspan="2">7. Juli</td><td colspan="3">1971</td><td colspan="3">2. Januar</td><td colspan="3">1975</td></tr>
 <tr><td>Mauretanien</td><td colspan="2">9. Juli</td><td colspan="3">1976</td><td colspan="3">9. Juli</td><td colspan="3">1976</td></tr>
 <tr><td>Mexiko</td><td colspan="2">20. November</td><td colspan="3">1970</td><td colspan="3">2. Januar</td><td colspan="3">1975</td></tr>
-<tr><td>Moldau</td><td colspan="2">2. September</td><td colspan="3">1993</td><td colspan="3">8. Oktober</td><td colspan="3">1993</td></tr>
+<tr><td>Moldau</td><td colspan="2">6. September</td><td colspan="3">1993</td><td colspan="3">1. Januar</td><td colspan="3">2002</td></tr>
 <tr><td>Monaco</td><td colspan="2">5. Mai</td><td colspan="3">2000</td><td colspan="3">1. Januar</td><td colspan="3">2001</td></tr>
 <tr><td>Mongolei</td><td colspan="2">27. März</td><td colspan="3">1990</td><td colspan="3">27. März</td><td colspan="3">1990</td></tr>
 <tr><td>Montenegro</td><td colspan="2">29. November</td><td colspan="3">2007</td><td colspan="3">29. November</td><td colspan="3">2007</td></tr>
@@ -526,6 +528,7 @@ Geltungsbereich am 24. Februar 2021**[^t-3]**
 <tr><td>Oman</td><td colspan="2">20. Januar</td><td colspan="3">2004</td><td colspan="3">1. Juli</td><td colspan="3">2004</td></tr>
 <tr><td>Österreich</td><td colspan="2">22. Dezember</td><td colspan="3">1975</td><td colspan="3">22. Dezember</td><td colspan="3">1975</td></tr>
 <tr><td>Pakistan</td><td colspan="2">2. April</td><td colspan="3">1971</td><td colspan="3">2. Januar</td><td colspan="3">1975</td></tr>
+<tr><td>Palau</td><td colspan="2">3. Juli</td><td colspan="3">2019</td><td colspan="2">11. September</td><td colspan="3">2019</td></tr>
 <tr><td>Panama</td><td colspan="2">17. Oktober</td><td colspan="3">1996</td><td colspan="3">17. Oktober</td><td colspan="3">1996</td></tr>
 <tr><td>Papua-Neuguinea</td><td colspan="2">2. Dezember</td><td colspan="3">2005</td><td colspan="3">2. Dezember</td><td colspan="3">2005</td></tr>
 <tr><td>Paraguay</td><td colspan="2">26. Juni</td><td colspan="3">1992</td><td colspan="3">26. Juni</td><td colspan="3">1992</td></tr>
@@ -536,7 +539,6 @@ Geltungsbereich am 24. Februar 2021**[^t-3]**
 <tr><td>Madeira <sup>a</sup></td><td colspan="2">21. November</td><td colspan="3">1994</td><td colspan="3">21. Oktober</td><td colspan="3">1995</td></tr>
 <tr><td>Ruanda</td><td colspan="2">6. Juni</td><td colspan="3">1975</td><td colspan="3">6. Juni</td><td colspan="3">1975</td></tr>
 <tr><td>Rumänien</td><td colspan="2">13. September</td><td colspan="3">1974</td><td colspan="3">2. Januar</td><td colspan="3">1975</td></tr>
-<tr><td>Russland</td><td colspan="2">29. Dezember</td><td colspan="3">1975</td><td colspan="3">29. Dezember</td><td colspan="3">1975</td></tr>
 <tr><td>Sambia</td><td colspan="2">31. August</td><td colspan="3">1973</td><td colspan="3">2. Januar</td><td colspan="3">1975</td></tr>
 <tr><td>Samoa</td><td colspan="2">17. September</td><td colspan="3">2015</td><td colspan="2">17. September</td><td colspan="3">2015</td></tr>
 <tr><td>San Marino</td><td colspan="2">20. Juli</td><td colspan="3">1971</td><td colspan="3">2. Januar</td><td colspan="3">1975</td></tr>
@@ -550,7 +552,7 @@ Geltungsbereich am 24. Februar 2021**[^t-3]**
 <tr><td>Simbabwe</td><td colspan="2">30. Juni</td><td colspan="3">1981</td><td colspan="3">17. September</td><td colspan="3">1981</td></tr>
 <tr><td>Slowakei</td><td colspan="2">22. Januar</td><td colspan="3">1993 N</td><td colspan="3">1. Januar</td><td colspan="3">1993</td></tr>
 <tr><td>Slowenien</td><td colspan="2">28. September</td><td colspan="3">1993</td><td colspan="3">8. Oktober</td><td colspan="3">1993</td></tr>
-<tr><td>Somalia</td><td colspan="2">16. September</td><td colspan="3">2017 B</td><td colspan="2">16. September</td><td colspan="3">2017</td></tr>
+<tr><td>Somalia</td><td colspan="2">16. September</td><td colspan="3">2017</td><td colspan="2">16. September</td><td colspan="3">2017</td></tr>
 <tr><td>Spanien</td><td colspan="2">4. Juli</td><td colspan="3">1974</td><td colspan="3">2. Januar</td><td colspan="3">1975</td></tr>
 <tr><td>Sri Lanka</td><td colspan="2">5. Dezember</td><td colspan="3">1972</td><td colspan="3">2. Januar</td><td colspan="3">1975</td></tr>
 <tr><td>Südafrika</td><td colspan="2">12. April</td><td colspan="3">1994</td><td colspan="3">12. April</td><td colspan="3">1994</td></tr>
@@ -574,6 +576,7 @@ Geltungsbereich am 24. Februar 2021**[^t-3]**
 <tr><td>Usbekistan</td><td colspan="2">2. September</td><td colspan="3">1993</td><td colspan="3">8. Oktober</td><td colspan="3">1993</td></tr>
 <tr><td>Vanuatu</td><td colspan="2">8. Oktober</td><td colspan="3">2009</td><td colspan="2">8. Oktober</td><td colspan="3">2009</td></tr>
 <tr><td>Venezuela</td><td colspan="2">20. Juni</td><td colspan="3">1974</td><td colspan="3">2. Januar</td><td colspan="3">1975</td></tr>
+<tr><td>Vereinigte Arabische Emirate</td><td colspan="2">26. April</td><td colspan="3">2013</td><td colspan="2">26. April</td><td colspan="3">2013</td></tr>
 <tr><td>Vereinigte Staaten</td><td colspan="2"></td><td colspan="3"></td><td colspan="3"></td><td colspan="3"></td></tr>
 <tr><td>Puerto Rico <sup>a</sup></td><td colspan="2">20. Mai</td><td colspan="3">2002</td><td colspan="3">20. Mai</td><td colspan="3">2002</td></tr>
 <tr><td>Vietnam</td><td colspan="2">26. März</td><td colspan="3">1981</td><td colspan="3">17. September</td><td colspan="3">1981</td></tr>
@@ -585,4 +588,4 @@ Geltungsbereich am 24. Februar 2021**[^t-3]**
 <tr><td colspan="11"><sup>d</sup> Der Heilige Stuhl ist ein ständiger Beobachter und nicht ein Vertragsstaat.</td></tr>
 </table>
 
-[^t-3]: [AS 1976 96](https://fedlex.data.admin.ch/eli/oc/1976/96_95_95); [1978 1431](https://fedlex.data.admin.ch/eli/oc/1978/1431_1431_1431); [1982 1904](https://fedlex.data.admin.ch/eli/oc/1982/1904_1904_1904); [1985 952](https://fedlex.data.admin.ch/eli/oc/1985/952_952_952); [1988 590](https://fedlex.data.admin.ch/eli/oc/1988/590_590_590); [1989 2378](https://fedlex.data.admin.ch/eli/oc/1989/2378_2378_2378); [1992 986](https://fedlex.data.admin.ch/eli/oc/1992/986_986_986); [2005 2097](https://fedlex.data.admin.ch/eli/oc/2005/337); [2008 2385](https://fedlex.data.admin.ch/eli/oc/2008/341); [2016 469](https://fedlex.data.admin.ch/eli/oc/2016/76); [2017 3803](https://fedlex.data.admin.ch/eli/oc/2017/449); [2021 121](https://fedlex.data.admin.ch/eli/oc/2021/121). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://fedlex.admin.ch/de/Treaty.
+[^t-3]: [AS 1976 96](https://fedlex.data.admin.ch/eli/oc/1976/96_95_95); [1978 1431](https://fedlex.data.admin.ch/eli/oc/1978/1431_1431_1431); [1982 1904](https://fedlex.data.admin.ch/eli/oc/1982/1904_1904_1904); [1985 952](https://fedlex.data.admin.ch/eli/oc/1985/952_952_952); [1988 590](https://fedlex.data.admin.ch/eli/oc/1988/590_590_590); [1989 2378](https://fedlex.data.admin.ch/eli/oc/1989/2378_2378_2378); [1992 986](https://fedlex.data.admin.ch/eli/oc/1992/986_986_986); [2005 2097](https://fedlex.data.admin.ch/eli/oc/2005/337); [2008 2385](https://fedlex.data.admin.ch/eli/oc/2008/341); [2016 469](https://fedlex.data.admin.ch/eli/oc/2016/76); [2017 3803](https://fedlex.data.admin.ch/eli/oc/2017/449); [2021 121](https://fedlex.data.admin.ch/eli/oc/2021/121); [2024 369](https://fedlex.data.admin.ch/eli/oc/2024/369). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

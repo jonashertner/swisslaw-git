@@ -4,11 +4,11 @@ title: "Statuts du 27 septembre 1970 de l'Organisation mondiale du tourisme (OMT
 short: OMT
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/96_95_95"
 language: fr
-version: 2021-02-24
+version: 2024-07-10
 adopted: 1970-09-27
 in_force: 1976-01-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/96_95_95/20210224/fr/xml/fedlex-data-admin-ch-eli-cc-1976-96_95_95-20210224-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/96_95_95/20210224/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/96_95_95/20240710/fr/xml/fedlex-data-admin-ch-eli-cc-1976-96_95_95-20240710-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/96_95_95/20240710/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -21,15 +21,9 @@ Texte original
 
 (OMT)
 
-Établis à Mexico le 27 septembre 1970
+Établis à Mexico le 27 septembre 1970 Approuvés par l’Assemblée fédérale le 18 décembre 1975[^t-1] Instrument d’adoption déposé par la Suisse le 12 janvier 1976 Entrés en vigueur pour la Suisse le 12 janvier 1976
 
-Approuvés par l’Assemblée fédérale le 18 décembre 1975[^t-1]
-
-Instrument d’adoption déposé par la Suisse le 12 janvier 1976
-
-Entrés en vigueur pour la Suisse le 12 janvier 1976
-
-(Etat le 24 février 2021)
+(État le 10 juillet 2024)
 
 [^t-1]: [RO 1976 94](https://fedlex.data.admin.ch/eli/oc/1976/94_94_94)
 
@@ -371,7 +365,7 @@ Fait à Mexico le 27 septembre 1970.
 <tr><td>Le Président de l’Assemblée générale extraordinaire, Président de l’Union internationale des organismes officiels de tourisme: Georges Faddoul</td><td>Le Secrétaire général de l’Union internationale des organismes officiels de tourisme: Robert C. Lonati</td></tr>
 </table>
 
-Annexe*[^t-2]*
+Annexe[^t-2]
 
 ## Règles de financement
 
@@ -417,7 +411,7 @@ Fait à Mexico le 27 septembre 1970.
 <tr><td>Le Président de l’Assemblée générale extraordinaire, Président de l’Union internationale des organismes officiels de tourisme: Georges Faddoul</td><td>Le Secrétaire général de l’Union internationale des organismes officiels de tourisme: Robert C. Lonati</td></tr>
 </table>
 
-Champ d’application le 24 février 2021**[^t-3]**
+Champ d’application le 10 juillet 2024[^t-3]
 
 <table>
 <tr><th>États parties</th><th>Ratification Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -425,21 +419,23 @@ Champ d’application le 24 février 2021**[^t-3]**
 <tr><td>Afrique du Sud</td><td>12 avril</td><td>1994</td><td>12 avril</td><td>1994</td></tr>
 <tr><td>Albanie</td><td>4 juin</td><td>1993</td><td>8 octobre</td><td>1993</td></tr>
 <tr><td>Algérie</td><td>5 mai</td><td>1976</td><td>5 mai</td><td>1976</td></tr>
-<tr><td>Allemagne<sup>\*</sup></td><td>29 janvier</td><td>1976</td><td>29 janvier</td><td>1976</td></tr>
+<tr><td>Allemagne</td><td>29 janvier</td><td>1976</td><td>29 janvier</td><td>1976</td></tr>
 <tr><td>Andorre</td><td>21 octobre</td><td>1995</td><td>21 octobre</td><td>1995</td></tr>
 <tr><td>Angola</td><td>30 août</td><td>1990</td><td>30 août</td><td>1990</td></tr>
+<tr><td>Antigua-et-Barbuda</td><td>12 mars</td><td>2021</td><td>1<sup>er</sup> janvier</td><td>2022</td></tr>
 <tr><td>Arabie Saoudite</td><td>17 juin</td><td>2002</td><td>17 juin</td><td>2002</td></tr>
 <tr><td>Argentine</td><td>13 juin</td><td>1972</td><td>2 janvier</td><td>1975</td></tr>
 <tr><td>Arménie</td><td>24 septembre</td><td>1997</td><td>24 octobre</td><td>1997</td></tr>
 <tr><td>Autriche</td><td>22 décembre</td><td>1975</td><td>22 décembre</td><td>1975</td></tr>
 <tr><td>Azerbaïdjan</td><td>29 septembre</td><td>2001</td><td>29 septembre</td><td>2001</td></tr>
-<tr><td>Bahamas</td><td>24 mai</td><td>2005</td><td>24 mai</td><td>2005</td></tr>
+<tr><td>Bahamas</td><td>24 mai</td><td>2005</td><td>25 novembre</td><td>2005</td></tr>
 <tr><td>Bahreïn</td><td>29 septembre</td><td>2001</td><td>29 septembre</td><td>2001</td></tr>
 <tr><td>Bangladesh</td><td>19 février</td><td>1975</td><td>19 février</td><td>1975</td></tr>
 <tr><td>Barbade</td><td>17 septembre</td><td>2015</td><td>17 septembre</td><td>2015</td></tr>
 <tr><td>Bélarus</td><td>9 juin</td><td>2005</td><td>14 juin</td><td>2005</td></tr>
 <tr><td>Belgique</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>[tab] Communauté flamande<sup>a</sup></td><td>24 octobre</td><td>1997</td><td>24 octobre</td><td>1997</td></tr>
+<tr><td>[tab] Communauté flamande <sup>a</sup></td><td>24 octobre</td><td>1997</td><td>24 octobre</td><td>1997</td></tr>
+<tr><td>Belize</td><td>25 juillet</td><td>2022</td><td>1<sup>er</sup> janvier</td><td>2024</td></tr>
 <tr><td>Bénin</td><td>31 décembre</td><td>1974</td><td>2 janvier</td><td>1975</td></tr>
 <tr><td>Bhoutan</td><td>4 février</td><td>2003</td><td>19 octobre</td><td>2003</td></tr>
 <tr><td>Bolivie</td><td>21 mai</td><td>1975</td><td>21 mai</td><td>1975</td></tr>
@@ -455,11 +451,11 @@ Champ d’application le 24 février 2021**[^t-3]**
 <tr><td>Cap-Vert</td><td>29 septembre</td><td>2001</td><td>29 septembre</td><td>2001</td></tr>
 <tr><td>Chili</td><td>9 avril</td><td>1974</td><td>2 janvier</td><td>1975</td></tr>
 <tr><td>Chine</td><td>22 septembre</td><td>1983</td><td>5 octobre</td><td>1983</td></tr>
-<tr><td>[tab] Hong Kong <sup>a</sup> <sup>b</sup></td><td>17 septembre</td><td>1999</td><td>1<sup>er</sup> octobre</td><td>1999</td></tr>
-<tr><td>[tab] Macao <sup>a</sup> <sup>c</sup></td><td>8 avril</td><td>1980</td><td>17 septembre</td><td>1981</td></tr>
+<tr><td>Hong Kong <sup>a</sup> <sup>b</sup></td><td>17 septembre</td><td>1999</td><td>1<sup>er</sup> octobre</td><td>1999</td></tr>
+<tr><td>Macao <sup>a</sup> <sup>c</sup></td><td>8 avril</td><td>1980</td><td>17 septembre</td><td>1981</td></tr>
 <tr><td>Chypre</td><td>4 septembre</td><td>1974</td><td>12 janvier</td><td>1975</td></tr>
 <tr><td>Colombie</td><td>12 juin</td><td>1971</td><td>2 janvier</td><td>1975</td></tr>
-<tr><td>Comores</td><td>16 septembre</td><td>2017 A</td><td>16 septembre</td><td>2017</td></tr>
+<tr><td>Comores</td><td>16 septembre</td><td>2017</td><td>16 septembre</td><td>2017</td></tr>
 <tr><td>Congo (Brazzaville)</td><td>29 juillet</td><td>1977</td><td>20 septembre</td><td>1979</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>20 janvier</td><td>1972</td><td>2 janvier</td><td>1975</td></tr>
 <tr><td>Corée (Nord)</td><td>28 août</td><td>1987</td><td>1<sup>er</sup> octobre</td><td>1987</td></tr>
@@ -471,12 +467,13 @@ Champ d’application le 24 février 2021**[^t-3]**
 <tr><td>Djibouti</td><td>30 mai</td><td>1997</td><td>24 octobre</td><td>1997</td></tr>
 <tr><td>Égypte</td><td>21 mai</td><td>1971</td><td>2 janvier</td><td>1975</td></tr>
 <tr><td>El Salvador</td><td>10 décembre</td><td>1992</td><td>8 octobre</td><td>1993</td></tr>
+<tr><td>Émirats arabes unis</td><td>26 avril</td><td>2013</td><td>26 avril</td><td>2013</td></tr>
 <tr><td>Équateur</td><td>11 février</td><td>1975</td><td>11 février</td><td>1975</td></tr>
 <tr><td>Érythrée</td><td>14 mars</td><td>1995</td><td>21 octobre</td><td>1995</td></tr>
 <tr><td>Espagne</td><td>4 juillet</td><td>1974</td><td>2 janvier</td><td>1975</td></tr>
 <tr><td>Eswatini</td><td>18 juin</td><td>1999</td><td>1<sup>er</sup> octobre</td><td>1999</td></tr>
 <tr><td>États-Unis</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>[tab] Porto Rico <sup>a</sup></td><td>20 mai</td><td>2002</td><td>20 mai</td><td>2002</td></tr>
+<tr><td>Porto Rico <sup>a</sup></td><td>20 mai</td><td>2002</td><td>20 mai</td><td>2002</td></tr>
 <tr><td>Éthiopie</td><td>22 mai</td><td>1975</td><td>22 mai</td><td>1975</td></tr>
 <tr><td>Fidji</td><td>30 avril</td><td>1997</td><td>24 octobre</td><td>1997</td></tr>
 <tr><td>France</td><td>31 décembre</td><td>1975</td><td>31 décembre</td><td>1975</td></tr>
@@ -510,7 +507,7 @@ Champ d’application le 24 février 2021**[^t-3]**
 <tr><td>Liban</td><td>18 juin</td><td>1974</td><td>2 janvier</td><td>1975</td></tr>
 <tr><td>Libéria</td><td>14 octobre</td><td>2011</td><td>14 octobre</td><td>2011</td></tr>
 <tr><td>Libye</td><td>21 avril</td><td>1977</td><td>21 avril</td><td>1977</td></tr>
-<tr><td>Lituanie</td><td>26 septembre</td><td>2003</td><td>6 octobre</td><td>2003</td></tr>
+<tr><td>Lituanie</td><td>6 octobre</td><td>2003</td><td>19 octobre</td><td>2003</td></tr>
 <tr><td>Macédoine du Nord</td><td>21 octobre</td><td>1995</td><td>21 octobre</td><td>1995</td></tr>
 <tr><td>Madagascar</td><td>22 mai</td><td>1975</td><td>22 mai</td><td>1975</td></tr>
 <tr><td>Malaisie</td><td>19 septembre</td><td>1991</td><td>19 septembre</td><td>1991</td></tr>
@@ -521,7 +518,7 @@ Champ d’application le 24 février 2021**[^t-3]**
 <tr><td>Maroc</td><td>7 juillet</td><td>1971</td><td>2 janvier</td><td>1975</td></tr>
 <tr><td>Mauritanie</td><td>9 juillet</td><td>1976</td><td>9 juillet</td><td>1976</td></tr>
 <tr><td>Mexique</td><td>20 novembre</td><td>1970</td><td>2 janvier</td><td>1975</td></tr>
-<tr><td>Moldova</td><td>2 septembre</td><td>1993</td><td>8 octobre</td><td>1993</td></tr>
+<tr><td>Moldova</td><td>6 septembre</td><td>1993</td><td>1<sup>er</sup> janvier</td><td>2002</td></tr>
 <tr><td>Monaco</td><td>5 mai</td><td>2000</td><td>1<sup>er</sup> janvier</td><td>2001</td></tr>
 <tr><td>Mongolie</td><td>27 mars</td><td>1990</td><td>27 mars</td><td>1990</td></tr>
 <tr><td>Monténégro</td><td>29 novembre</td><td>2007</td><td>29 novembre</td><td>2007</td></tr>
@@ -536,11 +533,12 @@ Champ d’application le 24 février 2021**[^t-3]**
 <tr><td>Ouganda</td><td>12 décembre</td><td>1974</td><td>2 janvier</td><td>1975</td></tr>
 <tr><td>Ouzbékistan</td><td>2 septembre</td><td>1993</td><td>8 octobre</td><td>1993</td></tr>
 <tr><td>Pakistan</td><td>2 avril</td><td>1971</td><td>2 janvier</td><td>1975</td></tr>
+<tr><td>Palaos</td><td>3 juillet</td><td>2019</td><td>11 septembre</td><td>2019</td></tr>
 <tr><td>Panama</td><td>17 octobre</td><td>1996</td><td>17 octobre</td><td>1996</td></tr>
 <tr><td>Papouasie-Nouvelle-Guinée</td><td>2 décembre</td><td>2005</td><td>2 décembre</td><td>2005</td></tr>
 <tr><td>Paraguay</td><td>26 juin</td><td>1992</td><td>26 juin</td><td>1992</td></tr>
 <tr><td>Pays-Bas</td><td>10 mai</td><td>1976</td><td>10 mai</td><td>1976</td></tr>
-<tr><td>[tab] Aruba <sup>a</sup></td><td>14 août</td><td>1987</td><td>1<sup>er</sup> octobre</td><td>1987</td></tr>
+<tr><td>Aruba <sup>a</sup></td><td>14 août</td><td>1987</td><td>1<sup>er</sup> octobre</td><td>1987</td></tr>
 <tr><td>Curaçao <sup>a</sup></td><td>19 février</td><td>1979</td><td>5 septembre</td><td>1979</td></tr>
 <tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba) <sup>a</sup></td><td>19 février</td><td>1979</td><td>5 septembre</td><td>1979</td></tr>
 <tr><td>Sint Maarten <sup>a</sup></td><td>19 février</td><td>1979</td><td>5 septembre</td><td>1979</td></tr>
@@ -548,13 +546,12 @@ Champ d’application le 24 février 2021**[^t-3]**
 <tr><td>Philippines</td><td>23 octobre</td><td>1991</td><td>23 octobre</td><td>1991</td></tr>
 <tr><td>Pologne</td><td>10 février</td><td>1976</td><td>10 février</td><td>1976</td></tr>
 <tr><td>Portugal</td><td>11 novembre</td><td>1976</td><td>11 novembre</td><td>1976</td></tr>
-<tr><td>[tab] Madère <sup>a</sup></td><td>21 novembre</td><td>1994</td><td>21 octobre</td><td>1995</td></tr>
+<tr><td>Madère <sup>a</sup></td><td>21 novembre</td><td>1994</td><td>21 octobre</td><td>1995</td></tr>
 <tr><td>Qatar</td><td>1<sup>er</sup> janvier</td><td>2002</td><td>1<sup>er</sup> janvier</td><td>2002</td></tr>
 <tr><td>République centrafricaine</td><td>29 septembre</td><td>1995</td><td>21 octobre</td><td>1995</td></tr>
 <tr><td>République dominicaine</td><td>29 avril</td><td>1975</td><td>29 avril</td><td>1975</td></tr>
 <tr><td>République tchèque</td><td>8 février</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Roumanie</td><td>13 septembre</td><td>1974</td><td>2 janvier</td><td>1975</td></tr>
-<tr><td>Russie</td><td>29 décembre</td><td>1975</td><td>29 décembre</td><td>1975</td></tr>
 <tr><td>Rwanda</td><td>6 juin</td><td>1975</td><td>6 juin</td><td>1975</td></tr>
 <tr><td>Saint-Marin</td><td>20 juillet</td><td>1971</td><td>2 janvier</td><td>1975</td></tr>
 <tr><td>Saint-Siège <sup>d</sup></td><td>25 septembre</td><td>1973</td><td>2 janvier</td><td>1975</td></tr>
@@ -566,7 +563,7 @@ Champ d’application le 24 février 2021**[^t-3]**
 <tr><td>Sierra Leone</td><td>6 mai</td><td>1974</td><td>2 janvier</td><td>1975</td></tr>
 <tr><td>Slovaquie</td><td>22 janvier</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Slovénie</td><td>28 septembre</td><td>1993</td><td>8 octobre</td><td>1993</td></tr>
-<tr><td>Somalie</td><td>16 septembre</td><td>2017 A</td><td>16 septembre</td><td>2017</td></tr>
+<tr><td>Somalie</td><td>16 septembre</td><td>2017</td><td>16 septembre</td><td>2017</td></tr>
 <tr><td>Soudan</td><td>18 avril</td><td>1975</td><td>18 avril</td><td>1975</td></tr>
 <tr><td>Sri Lanka</td><td>5 décembre</td><td>1972</td><td>2 janvier</td><td>1975</td></tr>
 <tr><td>Suisse</td><td>12 janvier</td><td>1976</td><td>12 janvier</td><td>1976</td></tr>
@@ -592,4 +589,4 @@ Champ d’application le 24 février 2021**[^t-3]**
 <tr><td colspan="5"><sup>a</sup> Membre associé en application de l’art. 6, par. 2. <sup>b</sup> À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. <sup>c</sup> À partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. <sup>d</sup> Membre observateur permanent et non pas un État partie au Statuts de l’Organisation mondiale du tourisme</td></tr>
 </table>
 
-[^t-3]: [RO 1976 95](https://fedlex.data.admin.ch/eli/oc/1976/96_95_95); [1978 1431](https://fedlex.data.admin.ch/eli/oc/1978/1431_1431_1431); [1982 1904](https://fedlex.data.admin.ch/eli/oc/1982/1904_1904_1904); [1985 952](https://fedlex.data.admin.ch/eli/oc/1985/952_952_952); [1988 590](https://fedlex.data.admin.ch/eli/oc/1988/590_590_590); [1989 2378](https://fedlex.data.admin.ch/eli/oc/1989/2378_2378_2378); [1992 986](https://fedlex.data.admin.ch/eli/oc/1992/986_986_986); [2005 2097](https://fedlex.data.admin.ch/eli/oc/2005/337); [2008 2385](https://fedlex.data.admin.ch/eli/oc/2008/341); [2016 469](https://fedlex.data.admin.ch/eli/oc/2016/76); [2017 3803](https://fedlex.data.admin.ch/eli/oc/2017/449); [2021 121](https://fedlex.data.admin.ch/eli/oc/2021/121). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty
+[^t-3]: [RO 1976 95](https://fedlex.data.admin.ch/eli/oc/1976/96_95_95); [1978 1431](https://fedlex.data.admin.ch/eli/oc/1978/1431_1431_1431); [1982 1904](https://fedlex.data.admin.ch/eli/oc/1982/1904_1904_1904); [1985 952](https://fedlex.data.admin.ch/eli/oc/1985/952_952_952); [1988 590](https://fedlex.data.admin.ch/eli/oc/1988/590_590_590); [1989 2378](https://fedlex.data.admin.ch/eli/oc/1989/2378_2378_2378); [1992 986](https://fedlex.data.admin.ch/eli/oc/1992/986_986_986); [2005 2097](https://fedlex.data.admin.ch/eli/oc/2005/337); [2008 2385](https://fedlex.data.admin.ch/eli/oc/2008/341); [2016 469](https://fedlex.data.admin.ch/eli/oc/2016/76); [2017 3803](https://fedlex.data.admin.ch/eli/oc/2017/449); [2021 121](https://fedlex.data.admin.ch/eli/oc/2021/121); [2024 369](https://fedlex.data.admin.ch/eli/oc/2024/369). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)

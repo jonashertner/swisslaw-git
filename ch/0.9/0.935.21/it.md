@@ -4,11 +4,11 @@ title: "Statuti del 27 settembre 1970 dell'Organizzazione mondiale del turismo (
 short: OMT
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/96_95_95"
 language: it
-version: 2021-02-24
+version: 2024-07-10
 adopted: 1970-09-27
 in_force: 1976-01-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/96_95_95/20210224/it/xml/fedlex-data-admin-ch-eli-cc-1976-96_95_95-20210224-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/96_95_95/20210224/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/96_95_95/20240710/it/xml/fedlex-data-admin-ch-eli-cc-1976-96_95_95-20240710-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/96_95_95/20240710/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -19,15 +19,9 @@ RU **1976** 96; FF **1975** II 151
 
 Traduzione
 
-Deliberati in Messico il 27 settembre 1970
+Deliberati in Messico il 27 settembre 1970 Approvati dall’Assemblea federale il 18 dicembre 1975[^t-1] Adottati dalla Svizzera con strumento depositato il 12 gennaio 1976 Entrati in vigore per la Svizzera il 12 gennaio 1976
 
-Approvati dall’Assemblea federale il 18 dicembre 1975[^t-1]
-
-Adottati dalla Svizzera con strumento depositato il 12 gennaio 1976
-
-Entrati in vigore per la Svizzera il 12 gennaio 1976
-
-(Stato 24 febbraio 2021)
+(Stato 10 luglio 2024)
 
 [^t-1]: [RU 1976 94](https://fedlex.data.admin.ch/eli/oc/1976/94_94_94)
 
@@ -367,7 +361,7 @@ Fatto a Città del Messico il 27 settembre 1970.
 <tr><td>Il Presidente dell’Assemblea generale straordinaria, Presidente dell’Unione internazionale degli organismi ufficiali del turismo: Georges Faddoul</td><td>Il Segretario generale dell’Unione internazionale degli organismi ufficiali del turismo: Robert C. Lonati</td></tr>
 </table>
 
-Allegato*[^t-2]*
+Allegato[^t-2]
 
 ## Norme di finanziamento
 
@@ -413,7 +407,7 @@ Fatto a Città del Messico il 27 settembre 1970.
 <tr><td>Il Presidente dell’Assemblea generale straordinaria, Presidente dell’Unione internazionale degli organismi ufficiali del turismo: Georges Faddoul</td><td>Il Segretario generale dell’Unione internazionale degli organismi ufficiali del turismo: Robert C. Lonati</td></tr>
 </table>
 
-Campo d’applicazione il 24 febbraio 2021**[^t-3]**
+Campo d’applicazione il 10 luglio 2024[^t-3]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -422,18 +416,20 @@ Campo d’applicazione il 24 febbraio 2021**[^t-3]**
 <tr><td>Algeria</td><td>5 maggio</td><td>1976</td><td>5 maggio</td><td>1976</td></tr>
 <tr><td>Andorra</td><td>21 ottobre</td><td>1995</td><td>21 ottobre</td><td>1995</td></tr>
 <tr><td>Angola</td><td>30 agosto</td><td>1990</td><td>30 agosto</td><td>1990</td></tr>
+<tr><td>Antigua e Barbuda</td><td>12 marzo</td><td>2021</td><td>1° gennaio</td><td>2022</td></tr>
 <tr><td>Arabia Saudita</td><td>17 giugno</td><td>2002</td><td>17 giugno</td><td>2002</td></tr>
 <tr><td>Argentina</td><td>13 giugno</td><td>1972</td><td>2 gennaio</td><td>1975</td></tr>
 <tr><td>Armenia</td><td>24 settembre</td><td>1997</td><td>24 ottobre</td><td>1997</td></tr>
 <tr><td>Austria</td><td>22 dicembre</td><td>1975</td><td>22 dicembre</td><td>1975</td></tr>
 <tr><td>Azerbaigian</td><td>29 settembre</td><td>2001</td><td>29 settembre</td><td>2001</td></tr>
-<tr><td>Bahamas</td><td>24 maggio</td><td>2005</td><td>24 maggio</td><td>2005</td></tr>
+<tr><td>Bahamas</td><td>24 maggio</td><td>2005</td><td>25 novembre</td><td>2005</td></tr>
 <tr><td>Bahrein</td><td>29 settembre</td><td>2001</td><td>29 settembre</td><td>2001</td></tr>
 <tr><td>Bangladesh</td><td>19 febbraio</td><td>1975</td><td>19 febbraio</td><td>1975</td></tr>
 <tr><td>Barbados</td><td>17 settembre</td><td>2015</td><td>17 settembre</td><td>2015</td></tr>
 <tr><td>Belarus</td><td>9 giugno</td><td>2005</td><td>14 giugno</td><td>2005</td></tr>
 <tr><td>Belgio</td><td></td><td></td><td></td><td></td></tr>
 <tr><td>Comunità fiamminga <sup>a</sup></td><td>24 ottobre</td><td>1997</td><td>24 ottobre</td><td>1997</td></tr>
+<tr><td>Belize</td><td>25 luglio</td><td>2022</td><td>1° gennaio</td><td>2024</td></tr>
 <tr><td>Benin</td><td>31 dicembre</td><td>1974</td><td>2 gennaio</td><td>1975</td></tr>
 <tr><td>Bhutan</td><td>4 febbraio</td><td>2003</td><td>19 ottobre</td><td>2003</td></tr>
 <tr><td>Bolivia</td><td>21 maggio</td><td>1975</td><td>21 maggio</td><td>1975</td></tr>
@@ -456,6 +452,7 @@ Campo d’applicazione il 24 febbraio 2021**[^t-3]**
 <tr><td>Cipro</td><td>4 settembre</td><td>1974</td><td>12 gennaio</td><td>1975</td></tr>
 <tr><td>Colombia</td><td>12 giugno</td><td>1971</td><td>2 gennaio</td><td>1975</td></tr>
 <tr><td>Comore</td><td>16 settembre</td><td>2017 A</td><td>16 settembre</td><td>2017</td></tr>
+<tr><td>Comore</td><td>16 settembre</td><td>2017</td><td>16 settembre</td><td>2017</td></tr>
 <tr><td>Congo (Brazzaville)</td><td>29 luglio</td><td>1977</td><td>20 settembre</td><td>1979</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>20 gennaio</td><td>1972</td><td>2 gennaio</td><td>1975</td></tr>
 <tr><td>Corea (Nord)</td><td>28 agosto</td><td>1987</td><td>1° ottobre</td><td>1987</td></tr>
@@ -468,6 +465,7 @@ Campo d’applicazione il 24 febbraio 2021**[^t-3]**
 <tr><td>Ecuador</td><td>11 febbraio</td><td>1975</td><td>11 febbraio</td><td>1975</td></tr>
 <tr><td>Egitto</td><td>21 maggio</td><td>1971</td><td>2 gennaio</td><td>1975</td></tr>
 <tr><td>El Salvador</td><td>10 dicembre</td><td>1992</td><td>8 ottobre</td><td>1993</td></tr>
+<tr><td>Emirati Arabi Uniti</td><td>26 aprile</td><td>2013</td><td>26 aprile</td><td>2013</td></tr>
 <tr><td>Eritrea</td><td>14 marzo</td><td>1995</td><td>21 ottobre</td><td>1995</td></tr>
 <tr><td>Eswatini</td><td></td><td></td><td>1° ottobre</td><td>1999</td></tr>
 <tr><td>Etiopia</td><td>22 maggio</td><td>1975</td><td>22 maggio</td><td>1975</td></tr>
@@ -505,7 +503,7 @@ Campo d’applicazione il 24 febbraio 2021**[^t-3]**
 <tr><td>Libano</td><td>18 giugno</td><td>1974</td><td>2 gennaio</td><td>1975</td></tr>
 <tr><td>Liberia</td><td>14 ottobre</td><td>2011</td><td>14 ottobre</td><td>2011</td></tr>
 <tr><td>Libia</td><td>21 aprile</td><td>1977</td><td>21 aprile</td><td>1977</td></tr>
-<tr><td>Lituania</td><td>26 settembre</td><td>2003</td><td>6 ottobre</td><td>2003</td></tr>
+<tr><td>Lituania</td><td>6 ottobre</td><td>2003</td><td>19 ottobre</td><td>2003</td></tr>
 <tr><td>Macedonia del Nord</td><td>21 ottobre</td><td>1995</td><td>21 ottobre</td><td>1995</td></tr>
 <tr><td>Madagascar</td><td>22 maggio</td><td>1975</td><td>22 maggio</td><td>1975</td></tr>
 <tr><td>Malawi</td><td>6 agosto</td><td>1974</td><td>2 gennaio</td><td>1975</td></tr>
@@ -516,12 +514,12 @@ Campo d’applicazione il 24 febbraio 2021**[^t-3]**
 <tr><td>Marocco</td><td>7 luglio</td><td>1971</td><td>2 gennaio</td><td>1975</td></tr>
 <tr><td>Mauritania</td><td>9 luglio</td><td>1976</td><td>9 luglio</td><td>1976</td></tr>
 <tr><td>Messico</td><td>20 novembre</td><td>1970</td><td>2 gennaio</td><td>1975</td></tr>
-<tr><td>Myanmar</td><td>1° giugno</td><td>2012</td><td>1° giugno</td><td>2012</td></tr>
-<tr><td>Moldova</td><td>2 settembre</td><td>1993</td><td>8 ottobre</td><td>1993</td></tr>
+<tr><td>Moldova</td><td>6 settembre</td><td>1993</td><td>1° gennaio</td><td>2002</td></tr>
 <tr><td>Monaco</td><td>5 maggio</td><td>2000</td><td>1° gennaio</td><td>2001</td></tr>
 <tr><td>Mongolia</td><td>27 marzo</td><td>1990</td><td>27 marzo</td><td>1990</td></tr>
 <tr><td>Montenegro</td><td>29 novembre</td><td>2007</td><td>29 novembre</td><td>2007</td></tr>
 <tr><td>Mozambico</td><td>21 ottobre</td><td>1995</td><td>21 ottobre</td><td>1995</td></tr>
+<tr><td>Myanmar</td><td>1° giugno</td><td>2012</td><td>1° giugno</td><td>2012</td></tr>
 <tr><td>Namibia</td><td>24 settembre</td><td>1997</td><td>24 ottobre</td><td>1997</td></tr>
 <tr><td>Nepal</td><td>14 marzo</td><td>1972</td><td>2 gennaio</td><td>1975</td></tr>
 <tr><td>Nicaragua</td><td>4 ottobre</td><td>1991</td><td>4 ottobre</td><td>1991</td></tr>
@@ -534,6 +532,7 @@ Campo d’applicazione il 24 febbraio 2021**[^t-3]**
 <tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba) <sup>a</sup></td><td>19 febbraio</td><td>1979</td><td>5 settembre</td><td>1979</td></tr>
 <tr><td>Sint Maarten<sup>a</sup></td><td>19 febbraio</td><td>1979</td><td>5 settembre</td><td>1979</td></tr>
 <tr><td>Pakistan</td><td>2 aprile</td><td>1971</td><td>2 gennaio</td><td>1975</td></tr>
+<tr><td>Palau</td><td>3 luglio</td><td>2019</td><td>11 settembre</td><td>2019</td></tr>
 <tr><td>Panama</td><td>17 ottobre</td><td>1996</td><td>17 ottobre</td><td>1996</td></tr>
 <tr><td>Papua Nuova Guinea</td><td>2 dicembre</td><td>2005</td><td>2 dicembre</td><td>2005</td></tr>
 <tr><td>Paraguay</td><td>26 giugno</td><td>1992</td><td>26 giugno</td><td>1992</td></tr>
@@ -545,7 +544,6 @@ Campo d’applicazione il 24 febbraio 2021**[^t-3]**
 <tr><td>Rep. Centrafricana</td><td>29 settembre</td><td>1995</td><td>21 ottobre</td><td>1995</td></tr>
 <tr><td>Romania</td><td>13 settembre</td><td>1974</td><td>2 gennaio</td><td>1975</td></tr>
 <tr><td>Ruanda</td><td>6 giugno</td><td>1975</td><td>6 giugno</td><td>1975</td></tr>
-<tr><td>Russia</td><td>29 dicembre</td><td>1975</td><td>29 dicembre</td><td>1975</td></tr>
 <tr><td>Samoa</td><td>17 settembre</td><td>2015</td><td>17 settembre</td><td>2015</td></tr>
 <tr><td>San Marino</td><td>20 luglio</td><td>1971</td><td>2 gennaio</td><td>1975</td></tr>
 <tr><td>Santa Sede <sup>d</sup></td><td>25 settembre</td><td>1973</td><td>2 gennaio</td><td>1975</td></tr>
@@ -557,7 +555,7 @@ Campo d’applicazione il 24 febbraio 2021**[^t-3]**
 <tr><td>Siria</td><td>11 agosto</td><td>1971</td><td>2 gennaio</td><td>1975</td></tr>
 <tr><td>Slovacchia</td><td>22 gennaio</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
 <tr><td>Slovenia</td><td>28 settembre</td><td>1993</td><td>8 ottobre</td><td>1993</td></tr>
-<tr><td>Somalia</td><td>16 settembre</td><td>2017 A</td><td>16 settembre</td><td>2017</td></tr>
+<tr><td>Somalia</td><td>16 settembre</td><td>2017</td><td>16 settembre</td><td>2017</td></tr>
 <tr><td>Spagna</td><td>4 luglio</td><td>1974</td><td>2 gennaio</td><td>1975</td></tr>
 <tr><td>Sri Lanka</td><td>5 dicembre</td><td>1972</td><td>2 gennaio</td><td>1975</td></tr>
 <tr><td>Stati Uniti</td><td></td><td></td><td></td><td></td></tr>
@@ -591,4 +589,4 @@ Campo d’applicazione il 24 febbraio 2021**[^t-3]**
 <tr><td colspan="5"><sup>d</sup> Membro osservatore permanente e non uno Stato parte degli Statuti dell’OMT.</td></tr>
 </table>
 
-[^t-3]: RU **1976** 96; [1978 1431](https://fedlex.data.admin.ch/eli/oc/1978/1431_1431_1431); [1982 1904](https://fedlex.data.admin.ch/eli/oc/1982/1904_1904_1904); [1985 952](https://fedlex.data.admin.ch/eli/oc/1985/952_952_952); [1988 590](https://fedlex.data.admin.ch/eli/oc/1988/590_590_590); [1989 2378](https://fedlex.data.admin.ch/eli/oc/1989/2378_2378_2378); [1992 986](https://fedlex.data.admin.ch/eli/oc/1992/986_986_986); [2005 2097](https://fedlex.data.admin.ch/eli/oc/2005/337); [2008 2385](https://fedlex.data.admin.ch/eli/oc/2008/341); [2016 469](https://fedlex.data.admin.ch/eli/oc/2016/76); [2017 3803](https://fedlex.data.admin.ch/eli/oc/2017/449); [2021 121](https://fedlex.data.admin.ch/eli/oc/2021/121). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://fedlex.admin.ch/it/Treaty.
+[^t-3]: [RU 1976 95](https://fedlex.data.admin.ch/eli/oc/1976/96_95_95); [1978 1431](https://fedlex.data.admin.ch/eli/oc/1978/1431_1431_1431); [1982 1904](https://fedlex.data.admin.ch/eli/oc/1982/1904_1904_1904); [1985 952](https://fedlex.data.admin.ch/eli/oc/1985/952_952_952); [1988 590](https://fedlex.data.admin.ch/eli/oc/1988/590_590_590); [1989 2378](https://fedlex.data.admin.ch/eli/oc/1989/2378_2378_2378); [1992 986](https://fedlex.data.admin.ch/eli/oc/1992/986_986_986); [2005 2097](https://fedlex.data.admin.ch/eli/oc/2005/337); [2008 2385](https://fedlex.data.admin.ch/eli/oc/2008/341); [2016 469](https://fedlex.data.admin.ch/eli/oc/2016/76); [2017 3803](https://fedlex.data.admin.ch/eli/oc/2017/449); [2021 121](https://fedlex.data.admin.ch/eli/oc/2021/121); [2024 369](https://fedlex.data.admin.ch/eli/oc/2024/369). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
