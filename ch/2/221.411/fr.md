@@ -4,11 +4,11 @@ title: Ordonnance du 17 octobre 2007 sur le registre du commerce (ORC)
 short: ORC
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/686"
 language: fr
-version: 2024-03-01
+version: 2024-07-10
 adopted: 2007-10-17
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/686/20240301/fr/xml/fedlex-data-admin-ch-eli-cc-2007-686-20240301-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20240301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/686/20240710/fr/xml/fedlex-data-admin-ch-eli-cc-2007-686-20240710-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20240710/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20240301/fr"
 
 (ORC)
 
-du 17 octobre 2007 (État le 1<sup>er</sup> mars 2024)
+du 17 octobre 2007 (État le 10 juillet 2024)
 
 Le Conseil fédéral suisse,
 
@@ -1101,7 +1101,7 @@ L’inscription au registre du commerce mentionne:
 - a. la date de la modification des statuts;
 - b. le fait que la clause relative au capital conditionnel est supprimée ou modifiée.
 
-[^53-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^53-1]: Nouvelle teneur selon le ch. I de l’O du 2 fév. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)). L’erratum des let. a et b du 10 juil. 2024 ne concerne que le texte italien ([RO 2024 349](https://fedlex.data.admin.ch/eli/oc/2024/349)).
 
 ### Section 5 Libération ultérieure des apports
 

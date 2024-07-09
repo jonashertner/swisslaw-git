@@ -4,11 +4,11 @@ title: Handelsregisterverordnung vom 17. Oktober 2007 (HRegV)
 short: HRegV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/686"
 language: de
-version: 2024-03-01
+version: 2024-07-10
 adopted: 2007-10-17
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/686/20240301/de/xml/fedlex-data-admin-ch-eli-cc-2007-686-20240301-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20240301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/686/20240710/de/xml/fedlex-data-admin-ch-eli-cc-2007-686-20240710-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20240710/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20240301/de"
 
 (HRegV)
 
-vom 17. Oktober 2007 (Stand am 1. März 2024)
+vom 17. Oktober 2007 (Stand am 10. Juli 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -1104,7 +1104,7 @@ Ins Handelsregister müssen eingetragen werden:
 - a. das Datum der Änderung der Statuten;
 - b. ein Hinweis, dass die Statutenbestimmung über das bedingte Kapital aufgehoben oder angepasst wurde.
 
-[^53-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^53-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)). Die Berichtigung der Bst. a und b vom 10. Juli 2024 betrifft nur den italienischen Text ([AS 2024 349](https://fedlex.data.admin.ch/eli/oc/2024/349)).
 
 ### 5. Abschnitt: Nachträgliche Leistung von Einlagen
 

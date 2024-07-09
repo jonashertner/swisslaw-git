@@ -4,11 +4,11 @@ title: Ordinanza del 17 ottobre 2007 sul registro di commercio (ORC)
 short: ORC
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/686"
 language: it
-version: 2024-03-01
+version: 2024-07-10
 adopted: 2007-10-17
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/686/20240301/it/xml/fedlex-data-admin-ch-eli-cc-2007-686-20240301-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20240301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/686/20240710/it/xml/fedlex-data-admin-ch-eli-cc-2007-686-20240710-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20240710/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/686/20240301/it"
 
 (ORC)
 
-del 17 ottobre 2007 (Stato 1° marzo 2024)
+del 17 ottobre 2007 (Stato 10 luglio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -1089,8 +1089,8 @@ Con la notificazione per l’iscrizione delle deliberazioni del consiglio d’am
 
 Con la notificazione per l’iscrizione dell’abrogazione o della modifica della disposizione statutaria relativa al capitale condizionale occorre fornire all’ufficio del registro di commercio i documenti giustificativi seguenti:
 
-- a. l’atto pubblico sulla deliberazione del consiglio d’amministrazione (art. 653*g* cpv. 1 CO);
-- b. l’attestazione di un’impresa di revisione sottoposta a sorveglianza statale, di un perito revisore abilitato o di un revisore abilitato (art. 653*f* cpv. 2 CO);
+- a.[^53-2] l’atto pubblico sulla deliberazione del consiglio d’amministrazione (art. 653*i* cpv. 1 CO);
+- b.[^53-3] l’attestazione di un’impresa di revisione sottoposta a sorveglianza statale, di un perito revisore abilitato o di un revisore abilitato (art. 653*i* cpv. 2 CO);
 - c. lo statuto modificato.
 
 <sup>2</sup>
@@ -1101,6 +1101,8 @@ L’iscrizione nel registro di commercio contiene le indicazioni seguenti:
 - b. un’indicazione che la disposizione statuaria relativa al capitale condizionale è stata abrogata o modificata.
 
 [^53-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° gen. 2023 ([RU 2022 114](https://fedlex.data.admin.ch/eli/oc/2022/114)).
+[^53-2]: Correzione del 10 lug. 2024 ([RU 2024 349](https://fedlex.data.admin.ch/eli/oc/2024/349)).
+[^53-3]: Correzione del 10 lug. 2024 ([RU 2024 349](https://fedlex.data.admin.ch/eli/oc/2024/349)).
 
 ### Sezione 5: Conferimenti ulteriori
 
