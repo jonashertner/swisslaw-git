@@ -3,13 +3,12 @@ canton: BS
 number: "915.200"
 title: Gesetz über die Basler Kantonalbank
 language: de
-version: 2016-06-06
-valid_until: 2024-07-10
-version_adopted: 2015-12-09
+version: 2024-07-11
+version_adopted: 2024-05-16
 adopted: 2015-12-09
 in_force: 2016-06-06
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/915.200"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6216/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6354/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6216/pdf_file"
 
 Basler Kantonalbank: Gesetz | Bank und Kredit
 
-Vom 9. Dezember 2015 (Stand 6. Juni 2016)
+Vom 9. Dezember 2015 (Stand 11. Juli 2024)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -72,11 +71,19 @@ beschliesst:
 
 #### § 5
 
-**Tochtergesellschaften, kontrollierte Unternehmen, Beteiligungen und Zusammenarbeit**
+**Tochtergesellschaften, kontrollierte Unternehmen, Beteiligungen und Konzernführung**
 
 <sup>1</sup> Die Basler Kantonalbank kann in der Schweiz und in der ausländischen Grenzregion Tochtergesellschaften gründen, sich an anderen Unternehmen beteiligen oder mit anderen Banken strategische Kooperationen eingehen, soweit dies mit ihrem Zweck übereinstimmt sowie entweder im öffentlichen Interesse oder im Interesse der Basler Kantonalbank selbst liegt.
 
 <sup>2</sup> Sie wirkt darauf hin, dass von ihr kontrollierte Unternehmen die Auflagen gemäss § 3 Abs. 2 bis 4 und § 4 Abs. 2 erfüllen.
+
+<sup>3</sup> Die Basler Kantonalbank nimmt die Konzernleitung wahr und führt diese im Rahmen des Geschäfts- und Organisationsreglements aus. Sie erfüllt die Aufgaben gemäss den regulatorischen Vorgaben und stellt sicher, dass die Konzernziele erreicht und die generellen Verhaltensleitlinien eingehalten werden.
+
+<sup>4</sup> Kontrollierte Unternehmen werden in der Regel als eigenständige Einheit geführt und treten eigenständig am Markt auf.
+
+<sup>5</sup> Mindestens ein Mitglied des Verwaltungsrates von kontrollierten Unternehmen ist durch eine Person der Basler Kantonalbank zu besetzen.
+
+<sup>6</sup> Transaktionen mit kontrollierten Unternehmen sind zu Bedingungen abzuwickeln, die einem Drittvergleich standhalten, sofern ein kontrolliertes Unternehmen in ihrem Zweck nicht einzig auf Dienstleistungen im Konzern ausgerichtet ist.
 
 #### § 6
 
@@ -128,6 +135,7 @@ beschliesst:
 <sup>1</sup> Die Organe der Basler Kantonalbank sind:
 
 - a) der Bankrat,
+- a<sup>bis</sup>) die Konzernleitung,
 - b) die Geschäftsleitung,
 - c) die Prüfgesellschaft.
 
@@ -167,7 +175,7 @@ beschliesst:
 
 - a) Festlegung der Organisation, Erlass des Geschäfts- und Organisationsreglements unter Vorbehalt der Genehmigung durch den Regierungsrat und weiterer Spezialreglemente der Basler Kantonalbank sowie Erteilung der dafür notwendigen Weisungen;
 - b) Beschlussfassung über die Unternehmensstrategie im Rahmen des Gesetzes und der Eignerstrategie sowie über die Risikopolitik;
-- c) Ernennung und Abberufung der Mitglieder der Geschäftsleitung und der zweiten Führungsebene, Aufsicht über die mit der Geschäftsführung betrauten Personen, namentlich im Hinblick auf die Befolgung der Gesetze, Reglemente und Weisungen sowie Entgegennahme der periodischen Berichterstattung der Geschäftsleitung über die Lage der Basler Kantonalbank und den laufenden Geschäftsgang;
+- c) Ernennung und Abberufung der Mitglieder der Konzernleitung, der Geschäftsleitung und der zweiten Führungsebene, Aufsicht über die mit der Geschäftsführung betrauten Personen, namentlich im Hinblick auf die Befolgung der Gesetze, Reglemente und Weisungen sowie Entgegennahme der periodischen Berichterstattung der Geschäftsleitung über die Lage der Basler Kantonalbank und den laufenden Geschäftsgang;
 - d) Ernennung und Abberufung der Leiterin oder des Leiters des Inspektorates sowie Entgegennahme der Berichte des Inspektorates und die Aufsicht über die Umsetzung der Verbesserungsvorschläge des Inspektorates;
 - e) Antragsstellung an den Regierungsrat bezüglich Wahl der Prüfgesellschaft sowie Entgegennahme und Besprechung der Berichte der Prüfgesellschaft über die Aufsichts- und Rechnungsprüfung, Weiterleitung derselben an den Regierungsrat unter Beachtung des Bankkundengeheimnisses und die Aufsicht über die Umsetzung ihrer Verbesserungsvorschläge;
 - f) Entscheid über Eröffnung und Schliessung von Geschäfts- und Zweigstellen, über Gründung, Erwerb und Veräusserung von Tochtergesellschaften und anderen wesentlichen Beteiligungen sowie über Errichtung von Stiftungen;
@@ -175,6 +183,7 @@ beschliesst:
 - h) die Festlegung des Entschädigungsmodells für den Bankrat unter Vorbehalt der Genehmigung durch den Regierungsrat;
 - i) Verabschiedung des Geschäftsberichtes (Jahresbericht und -rechnung) unter Vorbehalt der Genehmigung durch den Regierungsrat;
 - j) die Beschlussfassung über die Schaffung, Erhöhung und Reduktion des Partizipationskapitals und die Ausgabe von Partizipationsscheinen sowie Festsetzung der Dividende auf das Partizipationskapital unter Vorbehalt der Genehmigung durch den Regierungsrat.
+- k) Oberleitung des Konzerns gemäss § 5 Abs. 3.
 
 <sup>3</sup> Der Bankrat hat zusätzlich die ihm im Geschäfts- und Organisationsreglement zugewiesenen weiteren Oberleitungs-, Aufsichts- und Kontrollaufgaben und Kompetenzen.
 
@@ -191,6 +200,16 @@ beschliesst:
 <sup>1</sup> Der Geschäftsleitung obliegt die Geschäftsführung der Basler Kantonalbank.
 
 <sup>2</sup> Die Zusammensetzung und Organisation der Geschäftsleitung sowie deren Aufgaben und Kompetenzen legt der Bankrat im Geschäfts- und Organisationsreglement fest.
+
+#### § 14a
+
+**Konzernleitung**
+
+<sup>1</sup> Der Konzernleitung obliegt die Geschäftsführung des Konzerns im Rahmen von § 5 Abs. 3.
+
+<sup>2</sup> Die Konzernleitung stellt ein konzernweites Risikomanagement sicher.
+
+<sup>3</sup> Die Zusammensetzung und Organisation der Konzernleitung sowie deren Aufgaben und Kompetenzen legt der Bankrat im Geschäfts- und Organisationsreglement fest.
 
 #### § 15
 
@@ -236,7 +255,7 @@ beschliesst:
 - f) Entscheid über die Gewinnverwendung im Rahmen von § 21 und auf Antrag des Bankrates;
 - g) Genehmigung des Geschäftsberichts (Jahresbericht und Jahresrechnung) und dessen Weiterleitung an den Grossen Rat zur Kenntnisnahme;
 - h) Entgegennahme der Berichte der Prüfgesellschaft über die Aufsichts- und Rechnungsprüfung unter Beachtung des Bankkundengeheimnisses;
-- i) Entlastung des Bankrates und der Geschäftsleitung;
+- i) Entlastung des Bankrates, der Konzernleitung und der Geschäftsleitung;
 - j) Beurteilung von Haftungsansprüchen gegenüber dem Bankrat;
 - k) Genehmigung der Entschädigungen des Bankrates;
 - l) Genehmigung der Bankratsbeschlüsse bezüglich Schaffung, Erhöhung und Reduktion des Partizipationskapitals und der Ausgabe von Partizipationsscheinen sowie der Dividende auf das Partizipationskapital;
