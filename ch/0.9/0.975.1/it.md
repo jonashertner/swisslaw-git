@@ -3,11 +3,11 @@ sr: "0.975.1"
 title: "Convenzione dell'11 ottobre 1985 istitutiva dell'Agenzia multilaterale per la garanzia degli investimenti (con All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1989/641_641_641"
 language: it
-version: 2016-03-03
+version: 2024-07-11
 adopted: 1985-10-11
 in_force: 1988-04-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/641_641_641/20160303/it/xml/fedlex-data-admin-ch-eli-cc-1989-641_641_641-20160303-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1989/641_641_641/20160303/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/641_641_641/20240711/it/xml/fedlex-data-admin-ch-eli-cc-1989-641_641_641-20240711-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1989/641_641_641/20240711/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,20 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1989/641_641_641/20160303/it"
 
 RU **1989** 641; FF **1987** I 120
 
-Traduzione*[^t-1]*
+Traduzione
 
-Conclusa a Seul l’11 ottobre 1985
+Conclusa a Seul l’11 ottobre 1985 Approvata dall’Assemblea federale il 9 ottobre 1987[^t-1] Ratificata dalla Svizzera con strumento depositato 1’8 febbraio 1988 Entrata in vigore per la Svizzera il 12 aprile 1988
 
-Approvata dall’Assemblea federale il 9 ottobre 1987[^t-2]
+(Stato 11 luglio 2024)
 
-Ratificata dalla Svizzera con strumento depositato 1’8 febbraio 1988
-
-Entrata in vigore per la Svizzera il 12 aprile 1988
-
-(Stato 3 marzo 2016)
-
-[^t-1]: Dal testo originale inglese.
-[^t-2]: [RU 1989 640](https://fedlex.data.admin.ch/eli/oc/1989/640_640_640)
+[^t-1]: [RU 1989 640](https://fedlex.data.admin.ch/eli/oc/1989/640_640_640)
 
 *Preambolo*
 
@@ -889,7 +882,7 @@ Tabella A
 <tr><td></td><td>59 473</td><td>594,73</td></tr>
 </table>
 
-### Categoria II****
+### Categoria II
 
 [^annexA-lvlu1-lvlu2-1]
 
@@ -1055,7 +1048,7 @@ Tabella B
 
 \11. Qualora non tutti i restanti Amministratori siano stati eletti dopo la seconda votazione, si terranno ulteriori votazioni in base agli stessi criteri, fino a che tutti i restanti non saranno eletti; purché, qualora rimanga da eleggere un solo Amministratore questi possa essere eletto a maggioranza semplice dei voti rimasti, e ritenersi eletto dal totale di tali voti.
 
-Campo d’applicazione il 3 marzo 2016**[^t-3]**
+Campo d’applicazione l’11 luglio 2024[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -1097,7 +1090,7 @@ Campo d’applicazione il 3 marzo 2016**[^t-3]**
 <tr><td>Hong Kong</td><td>4 giugno</td><td>1997</td><td>1° luglio</td><td>1997</td></tr>
 <tr><td>Cipro</td><td>11 marzo</td><td>1987</td><td>12 aprile</td><td>1988</td></tr>
 <tr><td>Colombia</td><td>8 settembre</td><td>1995</td><td>30 novembre</td><td>1995</td></tr>
-<tr><td>Comore</td><td>25 febbraio</td><td>2013 A</td><td>25 febbraio</td><td>2013</td></tr>
+<tr><td>Comore</td><td>25 febbraio</td><td>2013</td><td>25 febbraio</td><td>2013</td></tr>
 <tr><td>Congo (Brazzaville)</td><td>5 luglio</td><td>1990</td><td>16 ottobre</td><td>1991</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>7 febbraio</td><td>1989</td><td>7 febbraio</td><td>1989</td></tr>
 <tr><td>Corea (Sud)</td><td>24 novembre</td><td>1987</td><td>12 aprile</td><td>1988</td></tr>
@@ -1113,6 +1106,7 @@ Campo d’applicazione il 3 marzo 2016**[^t-3]**
 <tr><td>Emirati Arabi Uniti</td><td>20 ottobre</td><td>1993</td><td>20 ottobre</td><td>1993</td></tr>
 <tr><td>Eritrea</td><td>11 ottobre</td><td>1995</td><td>10 settembre</td><td>1996</td></tr>
 <tr><td>Estonia</td><td>24 settembre</td><td>1992</td><td>24 settembre</td><td>1992</td></tr>
+<tr><td>Eswatini</td><td>3 aprile</td><td>1990</td><td>18 aprile</td><td>1990</td></tr>
 <tr><td>Etiopia</td><td>21 febbraio</td><td>1991</td><td>13 agosto</td><td>1991</td></tr>
 <tr><td>Figi</td><td>24 maggio</td><td>1990</td><td>24 settembre</td><td>1990</td></tr>
 <tr><td>Filippine</td><td>22 novembre</td><td>1993</td><td>8 febbraio</td><td>1994</td></tr>
@@ -1157,7 +1151,7 @@ Campo d’applicazione il 3 marzo 2016**[^t-3]**
 <tr><td>Libia</td><td>19 febbraio</td><td>1992</td><td>5 aprile</td><td>1993</td></tr>
 <tr><td>Lituania</td><td>22 settembre</td><td>1992</td><td>8 giugno</td><td>1993</td></tr>
 <tr><td>Lussemburgo</td><td>4 giugno</td><td>1991</td><td>29 agosto</td><td>1991</td></tr>
-<tr><td>Macedonia</td><td>6 settembre</td><td>1991</td><td>19 marzo</td><td>1993</td></tr>
+<tr><td>Macedonia del Nord</td><td>6 settembre</td><td>1991</td><td>19 marzo</td><td>1993</td></tr>
 <tr><td>Madagascar</td><td>8 giugno</td><td>1988</td><td>8 giugno</td><td>1988</td></tr>
 <tr><td>Malawi</td><td>14 maggio</td><td>1987</td><td>12 aprile</td><td>1988</td></tr>
 <tr><td>Malaysia</td><td>2 agosto</td><td>1991</td><td>6 dicembre</td><td>1991</td></tr>
@@ -1206,7 +1200,7 @@ Campo d’applicazione il 3 marzo 2016**[^t-3]**
 <tr><td>Saint Vincent e Grenadine</td><td>8 giugno</td><td>1990</td><td>10 settembre</td><td>1990</td></tr>
 <tr><td>Salomone, Isole</td><td>27 ottobre</td><td>2005</td><td>27 ottobre</td><td>2005</td></tr>
 <tr><td>Samoa</td><td>17 marzo</td><td>1987</td><td>12 aprile</td><td>1988</td></tr>
-<tr><td>São Tomé e Príncipe</td><td>20 dicembre</td><td>2012 A</td><td>20 dicembre</td><td>2012</td></tr>
+<tr><td>São Tomé e Príncipe</td><td>20 dicembre</td><td>2012</td><td>20 dicembre</td><td>2012</td></tr>
 <tr><td>Seicelle</td><td>20 agosto</td><td>1992</td><td>15 settembre</td><td>1992</td></tr>
 <tr><td>Senegal</td><td>10 marzo</td><td>1987</td><td>12 aprile</td><td>1988</td></tr>
 <tr><td>Serbia</td><td>6 settembre</td><td>1991</td><td>19 marzo</td><td>1993</td></tr>
@@ -1215,16 +1209,16 @@ Campo d’applicazione il 3 marzo 2016**[^t-3]**
 <tr><td>Siria</td><td>14 maggio</td><td>2002</td><td>14 maggio</td><td>2002</td></tr>
 <tr><td>Slovacchia</td><td>20 settembre</td><td>1990</td><td>1° gennaio</td><td>1993</td></tr>
 <tr><td>Slovenia</td><td>6 settembre</td><td>1991</td><td>19 marzo</td><td>1993</td></tr>
+<tr><td>Somalia</td><td>24 marzo</td><td>2020</td><td>24 marzo</td><td>2020</td></tr>
 <tr><td>Spagna</td><td>29 aprile</td><td>1988</td><td>29 aprile</td><td>1988</td></tr>
 <tr><td>Sri Lanka</td><td>27 maggio</td><td>1988</td><td>27 maggio</td><td>1988</td></tr>
 <tr><td>Stati Uniti</td><td>12 aprile</td><td>1988</td><td>12 aprile</td><td>1988</td></tr>
 <tr><td>Sudafrica</td><td>2 marzo</td><td>1994</td><td>10 marzo</td><td>1994</td></tr>
 <tr><td>Sudan</td><td>21 agosto</td><td>1991</td><td>7 novembre</td><td>1991</td></tr>
-<tr><td>Sudan del Sud</td><td>18 aprile</td><td>2012 A</td><td>18 aprile</td><td>2012</td></tr>
+<tr><td>Sudan del Sud</td><td>18 aprile</td><td>2012</td><td>18 aprile</td><td>2012</td></tr>
 <tr><td>Suriname</td><td>2 luglio</td><td>2003</td><td>2 luglio</td><td>2003</td></tr>
 <tr><td>Svezia</td><td>31 dicembre</td><td>1987</td><td>12 aprile</td><td>1988</td></tr>
 <tr><td>Svizzera</td><td>8 febbraio</td><td>1988</td><td>12 aprile</td><td>1988</td></tr>
-<tr><td>Swaziland</td><td>3 aprile</td><td>1990</td><td>18 aprile</td><td>1990</td></tr>
 <tr><td>Tagikistan</td><td>26 luglio</td><td>1993</td><td>9 dicembre</td><td>2002</td></tr>
 <tr><td>Tanzania</td><td>24 gennaio</td><td>1991</td><td>19 giugno</td><td>1992</td></tr>
 <tr><td>Thailandia</td><td>20 ottobre</td><td>2000</td><td>20 ottobre</td><td>2000</td></tr>
@@ -1247,4 +1241,4 @@ Campo d’applicazione il 3 marzo 2016**[^t-3]**
 <tr><td>Zimbabwe</td><td>2 aprile</td><td>1992</td><td>10 aprile</td><td>1992</td></tr>
 </table>
 
-[^t-3]: [RU 2005 2103](https://fedlex.data.admin.ch/eli/oc/2005/339), [2010 4949](https://fedlex.data.admin.ch/eli/oc/2010/699), [2014 2045](https://fedlex.data.admin.ch/eli/oc/2014/352)e [2016 993](https://fedlex.data.admin.ch/eli/oc/2016/178). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1989 641](https://fedlex.data.admin.ch/eli/oc/1989/641_641_641); [2005 2103](https://fedlex.data.admin.ch/eli/oc/2005/339); [2010 4949](https://fedlex.data.admin.ch/eli/oc/2010/699); [2014 2045](https://fedlex.data.admin.ch/eli/oc/2014/352); [2016 993](https://fedlex.data.admin.ch/eli/oc/2016/178); [2024 361](https://fedlex.data.admin.ch/eli/oc/2024/361). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

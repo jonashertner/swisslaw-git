@@ -3,11 +3,11 @@ sr: "0.975.1"
 title: "Convention du 11 octobre 1985 portant création de l'Agence multilatérale de garantie des investissements (avec annexes et appendices)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1989/641_641_641"
 language: fr
-version: 2016-03-03
+version: 2024-07-11
 adopted: 1985-10-11
 in_force: 1988-04-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/641_641_641/20160303/fr/xml/fedlex-data-admin-ch-eli-cc-1989-641_641_641-20160303-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1989/641_641_641/20160303/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/641_641_641/20240711/fr/xml/fedlex-data-admin-ch-eli-cc-1989-641_641_641-20240711-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1989/641_641_641/20240711/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,34 +16,27 @@ url: "https://www.fedlex.admin.ch/eli/cc/1989/641_641_641/20160303/fr"
 
 RO **1989** 641; FF **1987** I 134
 
-Traduction*[^t-1]*
+Traduction
 
-Conclue à Séoul le 11 octobre 1985
+Conclue à Séoul le 11 octobre 1985 Approuvée par l’Assemblée fédérale le 9 octobre 1987[^t-1] Instrument de ratification déposé par la Suisse le 8 février 1988 Entrée en vigueur pour la Suisse le 12 avril 1988
 
-Approuvée par l’Assemblée fédérale le 9 octobre 1987[^t-2]
+(État le 11 juillet 2024)
 
-Instrument de ratification déposé par la Suisse le 8 février 1988
-
-Entrée en vigueur pour la Suisse le 12 avril 1988
-
-(Etat le 3 mars 2016)
-
-[^t-1]: Texte original anglais.
-[^t-2]: [RO 1989 640](https://fedlex.data.admin.ch/eli/oc/1989/640_640_640)
+[^t-1]: [RO 1989 640](https://fedlex.data.admin.ch/eli/oc/1989/640_640_640)
 
 *Préambule*
 
-Les Etats Contractants
+Les États Contractants
 
-considérant qu’il est nécessaire de renforcer la coopération internationale pour stimuler le développement économique et d’encourager le rôle joué dans ce développement par les investissements étrangers en général et les investissements étrangers privés en particulier;
+considérant qu’il est nécessaire de renforcer la coopération internationale pour stimuler le développement économique et d’encourager le rôle joué dans ce développement par les investissements étrangers en général et les investissements étrangers privés en particulier,
 
-reconnaissant que les apports d’investissements étrangers aux pays en développement seraient facilités et encouragés par une diminution des préoccupations liées aux risques non commerciaux;
+reconnaissant que les apports d’investissements étrangers aux pays en développement seraient facilités et encouragés par une diminution des préoccupations liées aux risques non commerciaux,
 
-souhaitant encourager la fourniture aux pays en développement, à des fins productives, de ressources financières et techniques assorties de conditions compatibles avec leurs besoins, leurs politiques et leurs objectifs de développement, sur la base de normes stables et équitables pour le traitement des investissements étrangers;
+souhaitant encourager la fourniture aux pays en développement, à des fins productives, de ressources financières et techniques assorties de conditions compatibles avec leurs besoins, leurs politiques et leurs objectifs de développement, sur la base de normes stables et équitables pour le traitement des investissements étrangers,
 
-convaincus de l’importance du rôle que pourrait jouer dans la promotion des investissements étrangers une Agence Multilatérale de Garantie des Investissements dont l’action viendrait s’ajouter à celle des organismes nationaux et régionaux de garantie des investissements et des assureurs privés contre les risques non commerciaux; et
+convaincus de l’importance du rôle que pourrait jouer dans la promotion des investissements étrangers une Agence Multilatérale de Garantie des Investissements dont l’action viendrait s’ajouter à celle des organismes nationaux et régionaux de garantie des investissements et des assureurs privés contre les risques non commerciaux, et
 
-conscients qu’une telle Agence devrait, dans toute la mesure du possible, remplir ses obligations sans recourir à son capital appelable et que la réalisation d’un tel objectif serait facilitée par la poursuite de l’amélioration des conditions de l’investissement;
+conscients qu’une telle Agence devrait, dans toute la mesure du possible, remplir ses obligations sans recourir à son capital appelable et que la réalisation d’un tel objectif serait facilitée par la poursuite de l’amélioration des conditions de l’investissement,
 
 sont convenus de ce qui suit:
 
@@ -65,14 +58,14 @@ b) L’Agence possède la pleine personnalité juridique et elle a, en particuli
 
 **Objectif et fonctions**
 
-L’Agence a pour objectif d’encourager les flux d’investissement à des fins productives entre les Etats membres, en particulier vers les Etats membres en développement, complétant ainsi les activités de la Banque Internationale pour la Reconstruction et le Développement (ci‑après dénommée la Banque), de la Société Financière Internationale et d’autres institutions internationales de financement du développement.
+L’Agence a pour objectif d’encourager les flux d’investissement à des fins productives entre les États membres, en particulier vers les États membres en développement, complétant ainsi les activités de la Banque Internationale pour la Reconstruction et le Développement (ci‑après dénommée la Banque), de la Société Financière Internationale et d’autres institutions internationales de financement du développement.
 
 Dans toutes ses décisions, l’Agence s’inspire des dispositions du présent article.
 
-A cet effet, l’Agence:
+À cet effet, l’Agence:
 
-- a) délivre des garanties, y compris par des opérations de coassurance et de réassurance, contre les risques non commerciaux pour les investissements d’Etats membres dans un autre Etat membre;
-- b) contribue, par des activités complémentaires appropriées, à promouvoir les flux d’investissement vers et entre les Etats membres en développement; et
+- a) délivre des garanties, y compris par des opérations de coassurance et de réassurance, contre les risques non commerciaux pour les investissements d’États membres dans un autre État membre;
+- b) contribue, par des activités complémentaires appropriées, à promouvoir les flux d’investissement vers et entre les États membres en développement, et
 - c) exerce tous autres pouvoirs implicites nécessaires ou favorables à l’accomplissement de son mandat.
 
 #### Art. 3
@@ -81,11 +74,14 @@ A cet effet, l’Agence:
 
 Aux fins de la présente Convention:
 
-- a) Le terme «Etat membre» désigne tout Etat pour lequel la présente Convention est entrée en vigueur conformément à l’art. 61.
-- b) L’expression «pays d’accueil» ou «gouvernement d’accueil» désigne tout Etat membre, son gouvernement ou toute entité publique d’un Etat membre, sur les territoires, au sens de l’art. 66, duquel doit être exécuté l’investissement que l’Agence a garanti ou réassuré ou envisage de garantir ou de réassurer.
-- c) L’expression «Etat membre en développement» désigne l’un des Etats membres de l’Agence classés dans la catégorie des Etats membres en développement figurant à l’Appendice A de la présente Convention, y compris les modifications qui pourraient être apportées audit Appendice par le Conseil des Gouverneurs visé dans l’art. 30 (ci‑après dénommé le Conseil des Gouverneurs).
+- a) Le terme «État membre» désigne tout État pour lequel la présente Convention est entrée en vigueur conformément à l’art. 61.
+- b) L’expression «pays d’accueil» ou «gouvernement d’accueil» désigne tout État membre, son gouvernement ou toute entité publique d’un État membre, sur les territoires, au sens de l’art. 66, duquel doit être exécuté l’investissement que l’Agence a garanti ou réassuré ou envisage de garantir ou de réassurer.
+- c) L’expression «État membre en développement» désigne l’un des États membres de l’Agence classés dans la catégorie des États membres en développement figurant à l’Appendice A de la présente Convention, y compris les modifications qui pourraient être apportées audit Appendice par le Conseil des Gouverneurs visé dans l’art. 30 (ci‑après dénommé le Conseil des Gouverneurs).
 - d) L’expression «majorité spéciale» désigne une majorité des deux tiers au moins du nombre total des voix représentant au moins 55 % des actions souscrites du capital de l’Agence.
-- e) L’expression «monnaie librement utilisable» désigne
+- e)
+
+  L’expression «monnaie librement utilisable» désigne:
+
   - i) toute monnaie désignée comme telle par le Fonds Monétaire International et
   - ii) toute autre monnaie librement disponible et effectivement utilisable que le Conseil d’Administration visé dans l’art. 30 (ci-après dénommé le Conseil d’Administration) peut désigner aux fins de la présente Convention après consultation avec le Fonds Monétaire International et avec l’approbation du pays dont ladite monnaie est la monnaie nationale.
 
@@ -95,17 +91,17 @@ Aux fins de la présente Convention:
 
 **Adhésion**
 
-a) L’adhésion à l’Agence est ouverte à tous les Etats membres de la Banque et à la Suisse.
+a) L’adhésion à l’Agence est ouverte à tous les États membres de la Banque et à la Suisse.
 
-b) Les Etats membres originaires de l’Agence sont les Etats qui sont énumérés dans l’appendice A à la présente Convention et qui ont accédé à la présente Convention avant le 30 octobre 1987.
+b) Les États membres originaires de l’Agence sont les États qui sont énumérés dans l’appendice A à la présente Convention et qui ont accédé à la présente Convention avant le 30 octobre 1987.
 
 #### Art. 5
 
 **Capital**
 
-a) Le capital autorisé de l’Agence est de 1 milliard de Droits de tirage spéciaux (DTS 1 000 000 000). Il est divisé en 100 000 actions, d’un pair de DTS 10 000, qui peuvent être souscrites par les Etats membres. Tous les paiements incombant aux Etats membres au titre de leur souscription au capital sont réglés sur la base de la valeur du DTS en dollars des Etats-Unis pendant la période allant du 1<sup>er</sup> janvier 1981 au 30 juin 1985, qui est de 1,082 dollar.
+a) Le capital autorisé de l’Agence est de 1 milliard de Droits de tirage spéciaux (DTS 1 000 000 000). Il est divisé en 100 000 actions, d’un pair de DTS 10 000, qui peuvent être souscrites par les États membres. Tous les paiements incombant aux États membres au titre de leur souscription au capital sont réglés sur la base de la valeur du DTS en dollars des États-Unis pendant la période allant du 1<sup>er</sup> janvier 1981 au 30 juin 1985, qui est de 1,082 dollar.
 
-b) Le capital est augmenté lors de l’adhésion d’un nouvel Etat membre dans la mesure où le nombre d’actions jusque‑là autorisé est insuffisant pour que le nouvel Etat membre puisse souscrire le nombre d’actions prévu à l’art. 6.
+b) Le capital est augmenté lors de l’adhésion d’un nouvel État membre dans la mesure où le nombre d’actions jusque‑là autorisé est insuffisant pour que le nouvel État membre puisse souscrire le nombre d’actions prévu à l’art. 6.
 
 c) Le capital peut à tout moment être augmenté par décision du Conseil des Gouverneurs prise à la majorité spéciale.
 
@@ -113,22 +109,22 @@ c) Le capital peut à tout moment être augmenté par décision du Conseil des G
 
 **Souscription des actions**
 
-Chaque Etat membre originaire de l’Agence souscrit au pair le nombre d’actions indiqué en regard de son nom dans l’Appendice A à la présente Convention. Chacun des autres Etats membres souscrit le nombre d’actions fixé par le Conseil des Gouverneurs, aux conditions fixées par le Conseil des Gouverneurs mais à un prix d’émission qui ne peut en aucun cas être inférieur au pair. Le nombre d’actions à souscrire ne peut en aucun cas être inférieur à 50. Le Conseil des Gouverneurs peut adopter des règles autorisant les Etats membres à souscrire des actions supplémentaires du capital autorisé.
+Chaque État membre originaire de l’Agence souscrit au pair le nombre d’actions indiqué en regard de son nom dans l’Appendice A à la présente Convention. Chacun des autres États membres souscrit le nombre d’actions fixé par le Conseil des Gouverneurs, aux conditions fixées par le Conseil des Gouverneurs mais à un prix d’émission qui ne peut en aucun cas être inférieur au pair. Le nombre d’actions à souscrire ne peut en aucun cas être inférieur à 50. Le Conseil des Gouverneurs peut adopter des règles autorisant les États membres à souscrire des actions supplémentaires du capital autorisé.
 
 #### Art. 7
 
 **Division et appel du capital souscrit**
 
-La souscription initiale de chaque Etat membre est versée comme suit:
+La souscription initiale de chaque État membre est versée comme suit:
 
-- i) Dans les 90 jours suivant la date à laquelle la présente Convention entre en vigueur pour chaque Etat membre concerné, 10 % du prix de chaque action sont versés en numéraire conformément aux dispositions de la section a) de l’art. 8 et 10 % supplémentaires sous forme de billets à ordre ou d’effets similaires non négociables, ne portant pas intérêt, que l’Agence encaisse, sur décision du Conseil d’Administration, pour faire face à ses obligations.
+- i) Dans les 90 jours suivant la date à laquelle la présente Convention entre en vigueur pour chaque État membre concerné, 10 % du prix de chaque action sont versés en numéraire conformément aux dispositions de la section a) de l’art. 8 et 10 % supplémentaires sous forme de billets à ordre ou d’effets similaires non négociables, ne portant pas intérêt, que l’Agence encaisse, sur décision du Conseil d’Administration, pour faire face à ses obligations.
 - ii) Le solde peut être appelé par l’Agence lorsqu’elle en a besoin pour faire face à ses obligations.
 
 #### Art. 8
 
 **Paiement des actions souscrites**
 
-a) Le paiement des souscriptions est effectué dans une ou plusieurs monnaie(s) librement utilisable(s), excepté que les Etats membres en développement peuvent payer dans leur monnaie nationale jusqu’à 25 % de la fraction en numéraire visée à l’art. 7 i).
+a) Le paiement des souscriptions est effectué dans une ou plusieurs monnaie(s) librement utilisable(s), excepté que les États membres en développement peuvent payer dans leur monnaie nationale jusqu’à 25 % de la fraction en numéraire visée à l’art. 7 i).
 
 b) Les appels sur toute fraction non versée des souscriptions portent uniformément sur toutes les actions.
 
@@ -138,7 +134,7 @@ d) La responsabilité encourue au titre des actions est limitée à la fraction 
 
 #### Art. 9
 
-**Evaluation des monnaies**
+**Évaluation des monnaies**
 
 Chaque fois qu’il est nécessaire aux fins de la présente Convention de déterminer la valeur d’une monnaie par rapport à une autre monnaie, ladite valeur est raisonnablement déterminée par l’Agence, après consultation avec le Fonds Monétaire International.
 
@@ -146,14 +142,14 @@ Chaque fois qu’il est nécessaire aux fins de la présente Convention de déte
 
 **Remboursements**
 
-b) Tout remboursement versé aux Etats membres en application du présent article est effectué dans la ou les monnaie(s) librement utilisable(s) choisie(s) par l’Agence et chaque Etat membre reçoit une part dudit remboursement égale à sa part du total versé à l’Agence à la suite des appels lancés avant un tel remboursement.
+b) Tout remboursement versé aux États membres en application du présent article est effectué dans la ou les monnaie(s) librement utilisable(s) choisie(s) par l’Agence et chaque État membre reçoit une part dudit remboursement égale à sa part du total versé à l’Agence à la suite des appels lancés avant un tel remboursement.
 
-c) L’équivalent des montants remboursés à un Etat membre en application du présent Article est incorporé à la fraction appelable de la souscription dudit Etat membre visée à l’art. 7 ii).
+c) L’équivalent des montants remboursés à un État membre en application du présent Article est incorporé à la fraction appelable de la souscription dudit État membre visée à l’art. 7 ii).
 
-a) L’Agence, dès que cela est possible, rembourse aux Etats membres les montants versés à la suite d’un appel du capital souscrit, à la condition et pour autant:
+a) L’Agence, dès que cela est possible, rembourse aux États membres les montants versés à la suite d’un appel du capital souscrit, à la condition et pour autant:
 
 - i) que l’appel ait résulté du versement d’une indemnité due au titre d’une garantie ou d’un contrat de réassurance délivré par l’Agence et que celle‑ci ait ultérieurement recouvré tout ou partie du montant versé en une monnaie librement utilisable;
-- ii) que l’appel ait résulté d’un défaut de paiement d’un Etat membre et que ledit Etat membre ait ultérieurement réglé tout ou partie du montant dû; ou
+- ii) que l’appel ait résulté d’un défaut de paiement d’un État membre et que ledit État membre ait ultérieurement réglé tout ou partie du montant dû, ou
 - iii) que le Conseil des Gouverneurs décide, à la majorité spéciale, que la situation financière de l’Agence permet le remboursement de tout ou partie de ces montants sur les recettes de l’Agence.
 
 ## Chapitre III Opérations
@@ -168,7 +164,7 @@ a) Sous réserve des dispositions des sections b) et c) ci-après, l’Agence pe
 
 - i) *Risque de transfert* le fait que le gouvernement d’accueil ait lui-même apporté toute restriction au transfert de sa monnaie hors de son territoire dans une monnaie librement utilisable ou dans une autre monnaie jugée acceptable par l’investisseur assuré, y compris le fait que le gouvernement d’accueil n’ait pas donné suite dans un délai raisonnable à la demande de transfert présentée par ledit investisseur;
 - ii) *Expropriation et autres mesures analogues* le fait que le gouvernement d’accueil ait pris toute mesure législative ou administrative ou qu’il ait omis de prendre toute mesure législative ou administrative, lorsque ledit fait a pour conséquence de priver l’investisseur assuré de ses droits sur son capital ou son investissement ou d’une part substantielle des avantages découlant de son investissement, à l’exception des mesures ordinaires non discriminatoires d’application générale que les gouvernements prennent normalement pour réglementer l’activité économique sur leurs territoires;
-- iii) *Rupture de contrat* toute dénonciation ou rupture par le gouvernement d’accueil d’un contrat conclu avec l’investisseur assuré, dans les cas où (a) l’investisseur assuré ne dispose pas de voie de recours lui permettant de demander à une instance judiciaire ou arbitrale de statuer sur une action en dénonciation ou rupture de contrat ou (b) une décision n’est pas rendue par une telle instance dans un délai raisonnable, défini par le contrat de garantie conformément au règlement de l’Agence, ou (c) une telle décision ne peut être exécutée; et
+- iii) *Rupture de contrat* toute dénonciation ou rupture par le gouvernement d’accueil d’un contrat conclu avec l’investisseur assuré, dans les cas où (a) l’investisseur assuré ne dispose pas de voie de recours lui permettant de demander à une instance judiciaire ou arbitrale de statuer sur une action en dénonciation ou rupture de contrat ou (b) une décision n’est pas rendue par une telle instance dans un délai raisonnable, défini par le contrat de garantie conformément au règlement de l’Agence, ou (c) une telle décision ne peut être exécutée, et
 - iv) *Conflits armés et troubles civils* toute action militaire ou tout trouble civil dans tout territoire du pays d’accueil auquel la présente Convention est applicable conformément à l’art. 66.
 
 c) Les pertes résultant de l’un quelconque des faits énumérés ci-dessous ne sont pas couvertes:
@@ -194,14 +190,14 @@ d) En règle générale, les garanties sont limitées aux investissements dont l
 - ii) l’utilisation du produit d’investissements existants qui pourrait être transféré à l’étranger;
 - iii) l’acquisition d’un investissement existant par un nouvel investisseur admissible;
 - iv) des investissements existants lorsqu’un investisseur admissible essaie de faire assurer un groupe d’investissements existants et nouveaux;
-- v) des investissements existants détenus par un investisseur admissible en cas d’amélioration ou d’extension du projet sous-jacent ou lorsque l’investisseur démontre d’une autre manière un engagement à moyen ou à long terme dans le projet, et que l’Agence est convaincue que le projet a toujours un impact important sur le développement du pays d’accueil; et
+- v) des investissements existants détenus par un investisseur admissible en cas d’amélioration ou d’extension du projet sous-jacent ou lorsque l’investisseur démontre d’une autre manière un engagement à moyen ou à long terme dans le projet, et que l’Agence est convaincue que le projet a toujours un impact important sur le développement du pays d’accueil, et
 - vi) d’autres investissements approuvés par le Conseil d’Administration à la majorité spéciale.
 
 e) Lorsqu’elle garantit un investissement, l’Agence s’assure:
 
 - i) que ledit investissement est économiquement justifié et qu’il contribuera au développement du pays d’accueil;
 - ii) que ledit investissement satisfait à la législation et à la réglementation du pays d’accueil;
-- iii) que ledit investissement est compatible avec les objectifs et les priorités déclarés du pays d’accueil en matière de développement; et
+- iii) que ledit investissement est compatible avec les objectifs et les priorités déclarés du pays d’accueil en matière de développement, et
 - iv) des conditions offertes aux investissements dans le pays d’accueil et, notamment, de l’existence d’un régime juste et équitable et de protections juridiques.
 
 [^12-1]: Nouvelle teneur selon le ch. II de la mod. du 30 juil. 2010, en vigueur depuis le 14 nov. 2010 ([RO 2014 2045](https://fedlex.data.admin.ch/eli/oc/2014/352)).
@@ -210,21 +206,21 @@ e) Lorsqu’elle garantit un investissement, l’Agence s’assure:
 
 **Investisseurs admissibles**
 
-b) Au cas où l’investisseur a plus d’une nationalité, aux fins d’application de la section a) ci‑dessus, la nationalité d’un Etat membre l’emporte sur celle d’un Etat non membre, et la nationalité du pays d’accueil l’emporte sur celle de tout autre Etat membre.
+b) Au cas où l’investisseur a plus d’une nationalité, aux fins d’application de la section a) ci‑dessus, la nationalité d’un État membre l’emporte sur celle d’un État non membre, et la nationalité du pays d’accueil l’emporte sur celle de tout autre État membre.
 
-c) Si l’investisseur et le pays d’accueil le demandent conjointement, le Conseil d’Administration, par décision prise à la majorité spéciale, peut étendre le bénéfice des garanties de l’Agence à une personne physique qui a la nationalité du pays d’accueil, ou à une personne morale constituée conformément au droit du pays d’accueil, ou dont la majorité du capital appartient à des nationaux dudit pays, sous réserve que les avoirs en cause soient transférés d’un Etat membre autre que le pays d’accueil dans ledit pays d’accueil.
+c) Si l’investisseur et le pays d’accueil le demandent conjointement, le Conseil d’Administration, par décision prise à la majorité spéciale, peut étendre le bénéfice des garanties de l’Agence à une personne physique qui a la nationalité du pays d’accueil, ou à une personne morale constituée conformément au droit du pays d’accueil, ou dont la majorité du capital appartient à des nationaux dudit pays, sous réserve que les avoirs en cause soient transférés d’un État membre autre que le pays d’accueil dans ledit pays d’accueil.
 
 a) Toute personne physique et toute personne morale peuvent être admises au bénéfice des garanties de l’Agence, sous réserve:
 
-- i) que ladite personne physique ait la nationalité d’un Etat membre autre que le pays d’accueil;
-- ii) que ladite personne morale soit constituée conformément au droit d’un Etat membre et ait son établissement principal dans ledit Etat, ou que la majorité de son capital soit détenue par un Etat membre ou par des Etats membres ou par des nationaux dudit ou desdits Etat(s) membre(s), à condition, dans les deux cas ci‑dessus, que le pays d’accueil soit un Etat membre différent; et
+- i) que ladite personne physique ait la nationalité d’un État membre autre que le pays d’accueil;
+- ii) que ladite personne morale soit constituée conformément au droit d’un État membre et ait son établissement principal dans ledit État, ou que la majorité de son capital soit détenue par un État membre ou par des États membres ou par des nationaux dudit ou desdits État(s) membre(s), à condition, dans les deux cas ci‑dessus, que le pays d’accueil soit un État membre différent, et
 - iii) que ladite personne morale, qu’elle appartienne ou non à des intérêts privés, opère sur une base commerciale.
 
 #### Art. 14
 
 **Pays d’accueil admissibles**
 
-Ne peuvent être garantis en application du présent chapitre que les investissements qui doivent être effectués sur le territoire d’un Etat membre en développement.
+Ne peuvent être garantis en application du présent chapitre que les investissements qui doivent être effectués sur le territoire d’un État membre en développement.
 
 #### Art. 15
 
@@ -250,7 +246,7 @@ Le Président décide, sur la base des directives du Conseil d’Administration,
 
 a) Dès lorsqu’elle verse ou accepte de verser une indemnité à un investisseur assuré, l’Agence est subrogée dans les droits ou créances dont pourrait disposer ledit investisseur, du fait de l’investissement assuré, à l’encontre du pays d’accueil et d’autres tiers. Le contrat de garantie détermine les modalités et conditions de la subrogation.
 
-b) Tous les Etats membres reconnaissent les droits conférés à l’Agence en application de la section a) ci‑dessus.
+b) Tous les États membres reconnaissent les droits conférés à l’Agence en application de la section a) ci‑dessus.
 
 c) Le pays d’accueil accorde aux montants en monnaie du pays d’accueil acquis par l’Agence en sa qualité de subrogé en vertu de la section a) ci-dessus, en ce qui concerne leur utilisation et leur conversion, un traitement aussi favorable que celui auquel lesdits fonds auraient eu droit si l’investisseur assuré les avait détenus. En tout état de cause, l’Agence peut affecter ces montants au paiement de ses dépenses d’administration et d’autres frais. Elle cherche à conclure avec les pays d’accueil des accords sur d’autres utilisations de leur monnaie dans la mesure où celle‑ci n’est pas librement utilisable.
 
@@ -258,15 +254,15 @@ c) Le pays d’accueil accorde aux montants en monnaie du pays d’accueil acqui
 
 **Relations avec d’autres organismes nationaux et régionaux**
 
-L’Agence coopère avec des organismes nationaux d’Etats membres et des organismes régionaux dont la majorité du capital est détenue par des Etats membres, qui exercent des activités similaires aux siennes, et s’attache à compléter leurs opérations, en vue de maximiser aussi bien l’efficacité de leurs services respectifs que leur contribution à un accroissement des apports d’investissements étrangers. A cette fin, l’Agence peut conclure des arrangements avec ces organismes au sujet des conditions particulières d’une telle coopération, notamment des modalités de la réassurance et de la coassurance.
+L’Agence coopère avec des organismes nationaux d’États membres et des organismes régionaux dont la majorité du capital est détenue par des États membres, qui exercent des activités similaires aux siennes, et s’attache à compléter leurs opérations, en vue de maximiser aussi bien l’efficacité de leurs services respectifs que leur contribution à un accroissement des apports d’investissements étrangers. À cette fin, l’Agence peut conclure des arrangements avec ces organismes au sujet des conditions particulières d’une telle coopération, notamment des modalités de la réassurance et de la coassurance.
 
 #### Art. 20
 
 **Réassurance d’organismes nationaux et régionaux**
 
-a) L’Agence peut réassurer un investissement particulier contre une perte résultant d’un ou plusieurs risques non commerciaux garantis par un Etat membre ou par un organisme d’un Etat membre ou par un organisme régional de garantie des investissements dont la majorité du capital est détenue par des Etats membres. Le Conseil d’Administration, par décision prise à la majorité spéciale, fixe périodiquement les montants maximaux des engagements que l’Agence peut prendre au titre de contrats de réassurance. S’agissant des investissements qui ont été achevés plus de douze mois avant la réception par l’Agence de la demande de réassurance, le plafond est initialement fixé à 10 % du montant global des engagements pris par l’Agence en vertu du présent chapitre. Les conditions d’admissibilité prévues aux art. 11 à 14 s’appliquent aux opérations de réassurance, excepté qu’il n’est pas exigé que les investissements réassurés soient effectués après la demande de réassurance.
+a) L’Agence peut réassurer un investissement particulier contre une perte résultant d’un ou plusieurs risques non commerciaux garantis par un État membre ou par un organisme d’un État membre ou par un organisme régional de garantie des investissements dont la majorité du capital est détenue par des États membres. Le Conseil d’Administration, par décision prise à la majorité spéciale, fixe périodiquement les montants maximaux des engagements que l’Agence peut prendre au titre de contrats de réassurance. S’agissant des investissements qui ont été achevés plus de douze mois avant la réception par l’Agence de la demande de réassurance, le plafond est initialement fixé à 10 % du montant global des engagements pris par l’Agence en vertu du présent chapitre. Les conditions d’admissibilité prévues aux art. 11 à 14 s’appliquent aux opérations de réassurance, excepté qu’il n’est pas exigé que les investissements réassurés soient effectués après la demande de réassurance.
 
-b) Les droits et obligations réciproques de l’Agence et de l’Etat membre, ou de l’organisme, réassuré sont spécifiés dans un contrat de réassurance conclu conformément aux règles et règlements de réassurance adoptés par le Conseil d’Administration. Le Conseil d’Administration approuve chaque contrat de réassurance relatif à un investissement effectué avant que l’Agence ait reçu la demande de réassurance, en veillant à minimiser les risques, et à s’assurer que l’Agence perçoit des primes correspondant au risque qu’elle prend et que l’entité réassurée est résolue à promouvoir de nouveaux investissements dans les Etats membres en développement.
+b) Les droits et obligations réciproques de l’Agence et de l’État membre, ou de l’organisme, réassuré sont spécifiés dans un contrat de réassurance conclu conformément aux règles et règlements de réassurance adoptés par le Conseil d’Administration. Le Conseil d’Administration approuve chaque contrat de réassurance relatif à un investissement effectué avant que l’Agence ait reçu la demande de réassurance, en veillant à minimiser les risques, et à s’assurer que l’Agence perçoit des primes correspondant au risque qu’elle prend et que l’entité réassurée est résolue à promouvoir de nouveaux investissements dans les États membres en développement.
 
 c) L’Agence, dans la mesure du possible, fait en sorte qu’elle‑même ou l’entité réassurée ait des droits équivalant, en matière de subrogation et d’arbitrage, à ceux que l’Agence aurait si elle avait elle‑même assuré l’investissement. Les modalités et conditions de la réassurance doivent préciser que les recours administratifs sont exercés conformément à l’art. 17 avant qu’une indemnité soit payée par l’Agence. La subrogation ne peut être opposée au pays d’accueil concerné qu’après que celui‑ci a approuvé la réassurance par l’Agence. L’Agence inclut dans les contrats de réassurance des dispositions prévoyant que l’entité réassurée doit faire valoir avec une diligence raisonnable les droits ou créances liés à l’investissement réassuré.
 
@@ -274,7 +270,7 @@ c) L’Agence, dans la mesure du possible, fait en sorte qu’elle‑même ou l�
 
 **Coopération avec des assureurs et des réassureurs privés**
 
-a) L’Agence peut conclure des accords avec des assureurs privés d’Etats membres pour développer ses propres opérations et encourager lesdits assureurs à offrir une couverture contre des risques non commerciaux dans des pays membres en développement à des conditions similaires à celles appliquées par l’Agence. Lesdits accords peuvent prévoir une réassurance par l’Agence aux conditions et selon les procédures indiquées à l’art. 20.
+a) L’Agence peut conclure des accords avec des assureurs privés d’États membres pour développer ses propres opérations et encourager lesdits assureurs à offrir une couverture contre des risques non commerciaux dans des pays membres en développement à des conditions similaires à celles appliquées par l’Agence. Lesdits accords peuvent prévoir une réassurance par l’Agence aux conditions et selon les procédures indiquées à l’art. 20.
 
 b) L’Agence peut faire réassurer, en tout ou en partie, auprès de toute compagnie de réassurance appropriée, toute(s) garantie(s) qu’elle a délivrée(s).
 
@@ -284,11 +280,11 @@ c) L’Agence s’emploie en particulier à garantir les investissements pour le
 
 **Plafond d’engagement**
 
-a) A moins que le Conseil des Gouverneurs n’en décide autrement à la majorité spéciale, le montant total des engagements que l’Agence peut prendre en vertu de garanties délivrées en application du présent chapitre n’excède pas 150 % de la somme du capital souscrit, net d’obligations, de l’Agence, de ses réserves et de la fraction de ses engagements couverte auprès des réassureurs que le Conseil d’Administration pourra fixer. Le Conseil d’Administration réétudie de temps à autre le profil des risques du portefeuille de l’Agence en se fondant sur les demandes d’indemnisation effectivement déposées, le degré de diversification des risques, la couverture auprès de réassureurs et d’autres facteurs pertinents, en vue de déterminer si des changements du plafond des engagements devraient être recommandés au Conseil des Gouverneurs. Le plafond ainsi déterminé par le Conseil des Gouverneurs ne peut en aucun cas être plus de cinq fois supérieur à la somme du capital souscrit, net d’obligations, de l’Agence, de ses réserves et de la fraction de ses engagements couverte auprès de réassureurs qui peut être jugée appropriée.
+a) À moins que le Conseil des Gouverneurs n’en décide autrement à la majorité spéciale, le montant total des engagements que l’Agence peut prendre en vertu de garanties délivrées en application du présent chapitre n’excède pas 150 % de la somme du capital souscrit, net d’obligations, de l’Agence, de ses réserves et de la fraction de ses engagements couverte auprès des réassureurs que le Conseil d’Administration pourra fixer. Le Conseil d’Administration réétudie de temps à autre le profil des risques du portefeuille de l’Agence en se fondant sur les demandes d’indemnisation effectivement déposées, le degré de diversification des risques, la couverture auprès de réassureurs et d’autres facteurs pertinents, en vue de déterminer si des changements du plafond des engagements devraient être recommandés au Conseil des Gouverneurs. Le plafond ainsi déterminé par le Conseil des Gouverneurs ne peut en aucun cas être plus de cinq fois supérieur à la somme du capital souscrit, net d’obligations, de l’Agence, de ses réserves et de la fraction de ses engagements couverte auprès de réassureurs qui peut être jugée appropriée.
 
 b) Sans préjudice du plafond global visé dans la section a) ci‑dessus, le Conseil d’Administration peut fixer:
 
-- i) le montant cumulatif maximum des engagements que l’Agence peut prendre en application du présent chapitre au titre de toutes les garanties délivrées aux investisseurs d’un même Etat membre. Pour déterminer le plafond applicable aux divers Etats membres, le Conseil d’Administration tient dûment compte de la part du capital de l’Agence souscrite par l’Etat membre concerné et de la nécessité d’une plus grande souplesse à l’égard des investissements en provenance des Etats membres en développement; et
+- i) le montant cumulatif maximum des engagements que l’Agence peut prendre en application du présent chapitre au titre de toutes les garanties délivrées aux investisseurs d’un même État membre. Pour déterminer le plafond applicable aux divers États membres, le Conseil d’Administration tient dûment compte de la part du capital de l’Agence souscrite par l’État membre concerné et de la nécessité d’une plus grande souplesse à l’égard des investissements en provenance des États membres en développement, et
 - ii) le montant cumulatif maximum des engagements que l’Agence peut prendre, pour des motifs de diversification des risques, à l’égard d’un seul projet, d’un seul pays d’accueil ou de certaines catégories d’investissement ou de risque.
 
 #### Art. 23
@@ -297,17 +293,17 @@ b) Sans préjudice du plafond global visé dans la section a) ci‑dessus, le Co
 
 c) Dans ses activités de promotion, l’Agence attache une importance particulière à l’accroissement des flux d’investissement entre ses pays membres en développement.
 
-a) L’Agence effectue des recherches, entreprend des activités visant à promouvoir les flux d’investissement et diffuse des renseignements sur les possibilités d’investissement dans les Etats membres en développement en vue de créer des conditions propices à des apports d’investissements étrangers. Elle peut fournir aux Etats membres qui le lui demandent, une assistance technique et des conseils pour les aider à améliorer le climat de l’investissement dans leurs territoires. En accomplissant ces travaux, l’Agence:
+a) L’Agence effectue des recherches, entreprend des activités visant à promouvoir les flux d’investissement et diffuse des renseignements sur les possibilités d’investissement dans les États membres en développement en vue de créer des conditions propices à des apports d’investissements étrangers. Elle peut fournir aux États membres qui le lui demandent, une assistance technique et des conseils pour les aider à améliorer le climat de l’investissement dans leurs territoires. En accomplissant ces travaux, l’Agence:
 
-- i) tient compte des accords d’investissement conclus entre les Etats membres;
-- ii) s’emploie à lever les obstacles, dans les Etats membres développés comme dans les Etats membres en développement, qui entravent les flux d’investissement vers les Etats membres en développement; et
+- i) tient compte des accords d’investissement conclus entre les États membres;
+- ii) s’emploie à lever les obstacles, dans les États membres développés comme dans les États membres en développement, qui entravent les flux d’investissement vers les États membres en développement, et
 - iii) coordonne son action avec celle des autres organismes s’occupant aussi de la promotion des investissements étrangers et en particulier avec celle de la Société Financière Internationale.
 
 b) De plus, l’Agence:
 
 - i) encourage le règlement à l’amiable des différends entre investisseurs et pays d’accueil;
-- ii) s’efforce de conclure avec les Etats membres en développement et, en particulier, avec les pays d’accueil potentiels, des accords en application desquels l’Agence bénéficie, pour tout investissement qu’elle a garanti, d’un traitement au moins aussi favorable que celui que l’Etat membre concerné accorde, aux termes d’un accord d’investissement, à l’Etat ou à l’organisme de garantie des investissements le plus favorisé; lesdits accords doivent être approuvés par le Conseil d’Administration à la majorité spéciale; et
-- iii) favorise et facilite la conclusion d’accords, entre ses Etats membres, au sujet de la promotion et de la protection des investissements.
+- ii) s’efforce de conclure avec les États membres en développement et, en particulier, avec les pays d’accueil potentiels, des accords en application desquels l’Agence bénéficie, pour tout investissement qu’elle a garanti, d’un traitement au moins aussi favorable que celui que l’État membre concerné accorde, aux termes d’un accord d’investissement, à l’État ou à l’organisme de garantie des investissements le plus favorisé; lesdits accords doivent être approuvés par le Conseil d’Administration à la majorité spéciale, et
+- iii) favorise et facilite la conclusion d’accords, entre ses États membres, au sujet de la promotion et de la protection des investissements.
 
 #### Art. 24
 
@@ -335,7 +331,7 @@ L’Agence fixe et revoit périodiquement le tarif des primes, des commissions e
 
 a) Sans préjudice des dispositions de la section a) iii) de l’art. 10, l’Agence affecte la totalité de son bénéfice net à ses réserves jusqu’à ce que le montant desdites réserves atteigne le quintuple de son capital souscrit.
 
-b) Lorsque les réserves de l’Agence atteignent le niveau stipulé à la section a) ci‑dessus, le Conseil des Gouverneurs décide si, et dans quelle mesure, le bénéfice net de l’Agence doit être affecté aux réserves, distribué aux Etats membres de l’Agence ou utilisé autrement. Le Conseil des Gouverneurs décide à la majorité spéciale de toute distribution du bénéfice net de l’Agence aux Etats membres et la part versée à chacun d’eux est proportionnelle à sa part du capital de l’Agence.
+b) Lorsque les réserves de l’Agence atteignent le niveau stipulé à la section a) ci‑dessus, le Conseil des Gouverneurs décide si, et dans quelle mesure, le bénéfice net de l’Agence doit être affecté aux réserves, distribué aux États membres de l’Agence ou utilisé autrement. Le Conseil des Gouverneurs décide à la majorité spéciale de toute distribution du bénéfice net de l’Agence aux États membres et la part versée à chacun d’eux est proportionnelle à sa part du capital de l’Agence.
 
 #### Art. 28
 
@@ -347,7 +343,7 @@ Le Président de l’Agence établit le budget annuel des recettes et des dépen
 
 **Comptabilité**
 
-L’Agence publie un Rapport annuel qui contient les états de ses comptes et des comptes du Fonds Fiduciaire de Parrainage visé dans l’Annexe I, dûment vérifiés par des commissaires aux comptes. L’Agence communique aux Etats membres, à intervalles appropriés, un état récapitulatif de sa situation financière et un compte de pertes et profits indiquant le résultat de ses opérations.
+L’Agence publie un Rapport annuel qui contient les états de ses comptes et des comptes du Fonds Fiduciaire de Parrainage visé dans l’Annexe I, dûment vérifiés par des commissaires aux comptes. L’Agence communique aux États membres, à intervalles appropriés, un état récapitulatif de sa situation financière et un compte de pertes et profits indiquant le résultat de ses opérations.
 
 ## Chapitre V Organisation et gestion
 
@@ -361,21 +357,21 @@ L’Agence comprend un Conseil des Gouverneurs, un Conseil d’Administration, u
 
 **Le Conseil des Gouverneurs**
 
-b) Le Conseil des Gouverneurs comprend un Gouverneur et un Gouverneur suppléant nommés par chaque Etat membre selon les modalités choisies par ledit Etat membre. Aucun Gouverneur suppléant n’est autorisé à voter, sinon en l’absence du Gouverneur. Le Conseil des Gouverneurs choisit son Président parmi les Gouverneurs.
+b) Le Conseil des Gouverneurs comprend un Gouverneur et un Gouverneur suppléant nommés par chaque État membre selon les modalités choisies par ledit État membre. Aucun Gouverneur suppléant n’est autorisé à voter, sinon en l’absence du Gouverneur. Le Conseil des Gouverneurs choisit son Président parmi les Gouverneurs.
 
-c) Le Conseil des Gouverneurs tient une réunion annuelle, ainsi que toutes autres réunions qu’il juge nécessaires ou que demande le Conseil d’Administration. Le Conseil d’Administration demande au Conseil des Gouverneurs de se réunir chaque fois que cinq Etats membres ou que des Etats membres disposant de 25 % du nombre total de voix de l’Agence en font la demande.
+c) Le Conseil des Gouverneurs tient une réunion annuelle, ainsi que toutes autres réunions qu’il juge nécessaires ou que demande le Conseil d’Administration. Le Conseil d’Administration demande au Conseil des Gouverneurs de se réunir chaque fois que cinq États membres ou que des États membres disposant de 25 % du nombre total de voix de l’Agence en font la demande.
 
 a) Tous les pouvoirs de l’Agence sont dévolus au Conseil des Gouverneurs, à l’exception des pouvoirs que la présente Convention confère expressément à un autre organe de l’Agence. Le Conseil des Gouverneurs peut déléguer au Conseil d’Administration l’exercice de tous ses pouvoirs, à l’exception des suivants:
 
-- i) admettre de nouveaux Etats membres et fixer les conditions de leur adhésion;
-- ii) suspendre un Etat membre;
+- i) admettre de nouveaux États membres et fixer les conditions de leur adhésion;
+- ii) suspendre un État membre;
 - iii) statuer sur toute augmentation ou diminution du capital;
 - iv) relever le plafond du montant cumulatif des engagements pouvant être pris en application de la section a) de l’art. 22;
-- v) classer un Etat membre dans la catégorie des Etats membres en développement en application de la section c) de l’art. 3;
-- vi) classer un nouvel Etat membre dans la Catégorie I ou dans la Catégorie II aux fins de la répartition des voix en application de la section a) de l’art. 39 ou reclasser un Etat déjà membre aux mêmes fins;
+- v) classer un État membre dans la catégorie des États membres en développement en application de la section c) de l’art. 3;
+- vi) classer un nouvel État membre dans la Catégorie I ou dans la Catégorie II aux fins de la répartition des voix en application de la section a) de l’art. 39 ou reclasser un État déjà membre aux mêmes fins;
 - vii) fixer la rémunération des Administrateurs et de leurs Suppléants;
 - viii) suspendre définitivement les opérations de l’Agence et en liquider les actifs;
-- ix) répartir les actifs de l’Agence entre les Etats membres en cas de liquidation; et
+- ix) répartir les actifs de l’Agence entre les États membres en cas de liquidation, et
 - x) amender la présente Convention, son Annexe et ses Appendices.
 
 #### Art. 32
@@ -384,7 +380,7 @@ a) Tous les pouvoirs de l’Agence sont dévolus au Conseil des Gouverneurs, à 
 
 a) Le Conseil d’Administration est chargé de la conduite des opérations générales de l’Agence et prend, à cet effet, toute mesure imposée ou autorisée par la présente Convention.
 
-b) Le Conseil d’Administration comprend au moins douze Administrateurs. Le Conseil des Gouverneurs peut modifier le nombre des Administrateurs pour tenir compte de l’évolution du nombre des Etats membres. Chaque Administrateur peut nommer un Administrateur suppléant qui, en cas d’absence ou d’incapacité d’exercice de l’Administrateur, a pleins pouvoirs pour agir en ses lieu et place. Le Président de la Banque est *ex officio* le Président du Conseil d’Administration, mais il ne peut prendre part aux votes sauf en cas de partage égal des voix, auquel cas sa voix est prépondérante.
+b) Le Conseil d’Administration comprend au moins douze Administrateurs. Le Conseil des Gouverneurs peut modifier le nombre des Administrateurs pour tenir compte de l’évolution du nombre des États membres. Chaque Administrateur peut nommer un Administrateur suppléant qui, en cas d’absence ou d’incapacité d’exercice de l’Administrateur, a pleins pouvoirs pour agir en ses lieu et place. Le Président de la Banque est *ex officio* le Président du Conseil d’Administration, mais il ne peut prendre part aux votes sauf en cas de partage égal des voix, auquel cas sa voix est prépondérante.
 
 c) Le Conseil des Gouverneurs fixe la durée du mandat des Administrateurs. Le premier Conseil d’Administration est constitué lors de la réunion inaugurale du Conseil des Gouverneurs.
 
@@ -400,7 +396,7 @@ a) Le Président de l’Agence, sous l’autorité générale du Conseil d’Adm
 
 b) Le Président de l’Agence est nommé par le Conseil d’Administration sur proposition de son président. Le Conseil des Gouverneurs fixe le traitement et les conditions du contrat du Président de l’Agence.
 
-c) Dans l’accomplissement de leurs fonctions, le Président de l’Agence et les membres du personnel sont entièrement au service de l’Agence, à l’exclusion de toute autre autorité. Chaque Etat membre de l’Agence respecte le caractère international de leurs fonctions et s’abstient de toute tentative d’influence sur le Président de l’Agence ou les membres du personnel dans l’exercice de leurs fonctions.
+c) Dans l’accomplissement de leurs fonctions, le Président de l’Agence et les membres du personnel sont entièrement au service de l’Agence, à l’exclusion de toute autre autorité. Chaque État membre de l’Agence respecte le caractère international de leurs fonctions et s’abstient de toute tentative d’influence sur le Président de l’Agence ou les membres du personnel dans l’exercice de leurs fonctions.
 
 d) Dans le recrutement des membres du personnel, le Président, sans négliger l’intérêt capital qui s’attache aux concours les plus actifs et les plus compétents, tient compte de l’importance d’un recrutement effectué sur une base géographique aussi large que possible.
 
@@ -410,7 +406,7 @@ e) Le Président et les membres du personnel respectent en tout temps le caract�
 
 **Interdiction de toute activité politique**
 
-L’Agence et ses agents supérieurs s’abstiennent de toute immixtion dans les affaires politiques des Etats membres. Sans préjudice du droit de l’Agence de tenir compte de toutes les conditions dans lesquelles un investissement est effectué, l’Agence et ses agents supérieurs ne doivent pas être influencés dans leurs décisions par le caractère politique de l’Etat ou des Etats membres concernés. Les considérations dont ils doivent tenir compte dans leurs décisions doivent être appréciées impartialement afin d’atteindre les objectifs énoncés à l’art. 2.
+L’Agence et ses agents supérieurs s’abstiennent de toute immixtion dans les affaires politiques des États membres. Sans préjudice du droit de l’Agence de tenir compte de toutes les conditions dans lesquelles un investissement est effectué, l’Agence et ses agents supérieurs ne doivent pas être influencés dans leurs décisions par le caractère politique de l’État ou des États membres concernés. Les considérations dont ils doivent tenir compte dans leurs décisions doivent être appréciées impartialement afin d’atteindre les objectifs énoncés à l’art. 2.
 
 #### Art. 35
 
@@ -430,15 +426,15 @@ b) L’Agence peut ouvrir d’autres bureaux pour les besoins de son travail.
 
 **Dépositaires des avoirs**
 
-Chaque Etat membre désigne comme dépositaire, où l’Agence peut déposer ses avoirs dans la monnaie dudit Etat membre ou d’autres avoirs, sa banque centrale ou, s’il n’a pas de banque centrale, toute autre institution jugée acceptable par l’Agence.
+Chaque État membre désigne comme dépositaire, où l’Agence peut déposer ses avoirs dans la monnaie dudit État membre ou d’autres avoirs, sa banque centrale ou, s’il n’a pas de banque centrale, toute autre institution jugée acceptable par l’Agence.
 
 #### Art. 38
 
 **Communications**
 
-a) Chaque Etat membre désigne l’entité avec laquelle l’Agence peut se mettre en rapport au sujet de toute question relevant de la présente Convention. L’Agence peut faire fond sur les déclarations de ladite entité comme représentant des déclarations de l’Etat membre. A la demande d’un Etat membre, l’Agence consulte ledit Etat membre au sujet des questions visées aux art. 19 à 21 et concernant les organismes ou les assureurs de cet Etat membre.
+a) Chaque État membre désigne l’entité avec laquelle l’Agence peut se mettre en rapport au sujet de toute question relevant de la présente Convention. L’Agence peut faire fond sur les déclarations de ladite entité comme représentant des déclarations de l’État membre. À la demande d’un État membre, l’Agence consulte ledit État membre au sujet des questions visées aux art. 19 à 21 et concernant les organismes ou les assureurs de cet État membre.
 
-b) Chaque fois que l’approbation d’un Etat membre est nécessaire pour que l’Agence puisse agir, ladite approbation est considérée comme donnée, à moins que ledit Etat membre ne présente des objections dans le délai raisonnable que l’Agence peut fixer en notifiant la mesure envisagée.
+b) Chaque fois que l’approbation d’un État membre est nécessaire pour que l’Agence puisse agir, ladite approbation est considérée comme donnée, à moins que ledit État membre ne présente des objections dans le délai raisonnable que l’Agence peut fixer en notifiant la mesure envisagée.
 
 ## Chapitre VI Vote, ajustements des souscriptions et représentation
 
@@ -446,27 +442,27 @@ b) Chaque fois que l’approbation d’un Etat membre est nécessaire pour que l
 
 **Vote et ajustements des souscriptions**
 
-a) Afin de tenir compte dans les modalités de vote de l’intérêt égal que l’Agence présente pour les deux Catégories d’Etats dont la liste figure dans l’Appendice A à la présente Convention, ainsi que de l’importance de la participation financière de chaque Etat membre, chacun d’eux dispose de 177 voix d’adhésion, plus une voix de souscription pour chaque action du capital détenu.
+a) Afin de tenir compte dans les modalités de vote de l’intérêt égal que l’Agence présente pour les deux Catégories d’États dont la liste figure dans l’Appendice A à la présente Convention, ainsi que de l’importance de la participation financière de chaque État membre, chacun d’eux dispose de 177 voix d’adhésion, plus une voix de souscription pour chaque action du capital détenu.
 
-b) Si à un moment quelconque au cours des trois années suivant l’entrée en vigueur de la présente Convention le total des voix d’adhésion et des voix de souscription des Etats membres dont dispose l’une ou l’autre des deux Catégories d’Etats dont la liste figure dans l’Annexe A à la présente Convention est inférieur à 40 % du nombre total de voix, les Etats membres de ladite Catégorie reçoivent le nombre de voix additionnelles nécessaires pour que le nombre total de voix de ladite Catégorie soit égal à ce pourcentage du nombre total de voix. Ces voix additionnelles sont réparties entre les Etats membres de cette Catégorie à raison du pourcentage du nombre total de voix de souscription de cette Catégorie dont ils disposent. Le nombre de ces voix additionnelles est ajusté automatiquement de façon à maintenir ce pourcentage et lesdites voix sont annulées à l’expiration de la période de trois ans susmentionnée.
+b) Si à un moment quelconque au cours des trois années suivant l’entrée en vigueur de la présente Convention le total des voix d’adhésion et des voix de souscription des États membres dont dispose l’une ou l’autre des deux Catégories d’États dont la liste figure dans l’Annexe A à la présente Convention est inférieur à 40 % du nombre total de voix, les États membres de ladite Catégorie reçoivent le nombre de voix additionnelles nécessaires pour que le nombre total de voix de ladite Catégorie soit égal à ce pourcentage du nombre total de voix. Ces voix additionnelles sont réparties entre les États membres de cette Catégorie à raison du pourcentage du nombre total de voix de souscription de cette Catégorie dont ils disposent. Le nombre de ces voix additionnelles est ajusté automatiquement de façon à maintenir ce pourcentage et lesdites voix sont annulées à l’expiration de la période de trois ans susmentionnée.
 
 d) Pendant la période de trois ans visée à la section b) du présent article, toutes les décisions du Conseil des Gouverneurs et du Conseil d’Administration sont prises à la majorité spéciale, à l’exception des décisions pour lesquelles la présente Convention exige une majorité supérieure et qui sont prises à cette majorité renforcée.
 
-e) S’il est procédé à une augmentation du capital social de l’Agence conformément à la section c) de l’art. 5, chaque Etat membre qui le demande est autorisé à souscrire à cette augmentation à raison du pourcentage du total des actions de l’Agence qu’il a déjà souscrites, étant entendu qu’aucun Etat membre n’est tenu de souscrire à une augmentation du capital.
+e) S’il est procédé à une augmentation du capital social de l’Agence conformément à la section c) de l’art. 5, chaque État membre qui le demande est autorisé à souscrire à cette augmentation à raison du pourcentage du total des actions de l’Agence qu’il a déjà souscrites, étant entendu qu’aucun État membre n’est tenu de souscrire à une augmentation du capital.
 
-f) Le Conseil des Gouverneurs fixe, par voie de règlement, les conditions dans lesquelles des souscriptions additionnelles peuvent être effectuées en vertu de la section e) du présent article. Ce règlement prévoit des délais raisonnables pour la présentation de leur demande par les Etats membres qui souhaitent être autorisés à de telles souscriptions.
+f) Le Conseil des Gouverneurs fixe, par voie de règlement, les conditions dans lesquelles des souscriptions additionnelles peuvent être effectuées en vertu de la section e) du présent article. Ce règlement prévoit des délais raisonnables pour la présentation de leur demande par les États membres qui souhaitent être autorisés à de telles souscriptions.
 
 c) La troisième année après l’entrée en vigueur de la présente Convention, le Conseil des Gouverneurs réétudie la répartition des actions et s’inspire dans ses décisions des principes suivants:
 
-- i) le nombre de voix de chaque Etat membre correspond à ses souscriptions effectives au capital de l’Agence et à ses voix d’adhésion conformément aux dispositions de la section a) du présent article;
-- ii) les actions réservées aux pays qui n’ont pas signé la Convention sont libérées et peuvent être réaffectées à certains Etats membres et selon certaines modalités de façon à rendre possible la parité du nombre de voix entre les catégories susmentionnées; et
-- iii) le Conseil des Gouverneurs prend des mesures facilitant la souscription par les Etats membres des actions qui leur sont affectées.
+- i) le nombre de voix de chaque État membre correspond à ses souscriptions effectives au capital de l’Agence et à ses voix d’adhésion conformément aux dispositions de la section a) du présent article;
+- ii) les actions réservées aux pays qui n’ont pas signé la Convention sont libérées et peuvent être réaffectées à certains États membres et selon certaines modalités de façon à rendre possible la parité du nombre de voix entre les catégories susmentionnées, et
+- iii) le Conseil des Gouverneurs prend des mesures facilitant la souscription par les États membres des actions qui leur sont affectées.
 
 #### Art. 40
 
 **Modalités de vote du Conseil des Gouverneurs**
 
-a) Chaque Gouverneur est habilité à exprimer les voix de l’Etat membre qu’il représente. Sauf disposition contraire de la présente Convention, les décisions du Conseil sont prises à la majorité des suffrages exprimés.
+a) Chaque Gouverneur est habilité à exprimer les voix de l’État membre qu’il représente. Sauf disposition contraire de la présente Convention, les décisions du Conseil sont prises à la majorité des suffrages exprimés.
 
 b) Pour toute réunion du Conseil des Gouverneurs, le quorum est constitué par la présence de la majorité des Gouverneurs disposant des deux tiers du nombre total des voix au moins.
 
@@ -474,7 +470,7 @@ c) Le Conseil des Gouverneurs peut, par voie de règlement, instituer une procé
 
 #### Art. 41
 
-**Election des Administrateurs**
+**Élection des Administrateurs**
 
 a) Les Administrateurs sont élus conformément à l’Appendice B.
 
@@ -496,13 +492,13 @@ c) Le Conseil d’Administration peut, par voie de règlement, instituer une pro
 
 **Objet du présent chapitre**
 
-En vue de permettre à l’Agence de remplir ses fonctions, les immunités et privilèges définis au présent chapitre sont reconnus à l’Agence dans les territoires de chaque Etat membre.
+En vue de permettre à l’Agence de remplir ses fonctions, les immunités et privilèges définis au présent chapitre sont reconnus à l’Agence dans les territoires de chaque État membre.
 
 #### Art. 44
 
 **Immunités de juridiction**
 
-En dehors des cas prévus aux art. 57 et 58, l’Agence ne peut être poursuivie que devant un tribunal ayant juridiction sur les territoires d’un Etat membre où elle possède un bureau ou bien où elle a nommé un agent chargé de recevoir des significations ou sommations. Aucune poursuite ne peut être intentée contre l’Agence i) par des Etats membres ou par des personnes agissant pour le compte desdits Etats ou faisant valoir des droits cédés par eux ou ii) à propos de questions de personnel. Les biens et avoirs de l’Agence, en quelque lieu qu’ils se trouvent et quels qu’en soient les détenteurs, sont à l’abri de toutes formes de saisie, d’opposition ou d’exécution avant qu’un jugement ou une sentence arbitrale n’ait été définitivement rendu contre l’Agence.
+En dehors des cas prévus aux art. 57 et 58, l’Agence ne peut être poursuivie que devant un tribunal ayant juridiction sur les territoires d’un État membre où elle possède un bureau ou bien où elle a nommé un agent chargé de recevoir des significations ou sommations. Aucune poursuite ne peut être intentée contre l’Agence i) par des États membres ou par des personnes agissant pour le compte desdits États ou faisant valoir des droits cédés par eux ou ii) à propos de questions de personnel. Les biens et avoirs de l’Agence, en quelque lieu qu’ils se trouvent et quels qu’en soient les détenteurs, sont à l’abri de toutes formes de saisie, d’opposition ou d’exécution avant qu’un jugement ou une sentence arbitrale n’ait été définitivement rendu contre l’Agence.
 
 #### Art. 45
 
@@ -520,7 +516,7 @@ c) Aux fins d’application du présent chapitre, le terme «avoirs» englobe le
 
 a) Les archives de la Banque sont inviolables, où qu’elles se trouvent.
 
-b) Les communications officielles de l’Agence reçoivent de chaque Etat membre le même traitement que les communications officielles de la Banque.
+b) Les communications officielles de l’Agence reçoivent de chaque État membre le même traitement que les communications officielles de la Banque.
 
 #### Art. 47
 
@@ -539,14 +535,14 @@ c) Aucun impôt de quelque nature que ce soit n’est perçu sur les investissem
 Les Gouverneurs, les Administrateurs, les Suppléants, le Président et le personnel de l’Agence:
 
 - i) ne peuvent faire l’objet de poursuites à raison des actes accomplis par eux dans l’exercice officiel de leurs fonctions;
-- ii) bénéficient, lorsqu’ils ne sont pas des nationaux de l’Etat où ils exercent leurs fonctions, des mêmes immunités en matière de restrictions à l’immigration, de formalités d’enregistrement des étrangers et d’obligations militaires, et des mêmes facilités en matière de restrictions de change que celles qui sont accordées par les Etats membres concernés aux représentants, fonctionnaires et employés de rang comparable des autres Etats membres; et
-- iii) bénéficient du même traitement, en ce qui concerne les facilités de voyage, que celui que les Etats membres accordent aux représentants, fonctionnaires et employés de rang comparable des autres Etats membres.
+- ii) bénéficient, lorsqu’ils ne sont pas des nationaux de l’État où ils exercent leurs fonctions, des mêmes immunités en matière de restrictions à l’immigration, de formalités d’enregistrement des étrangers et d’obligations militaires, et des mêmes facilités en matière de restrictions de change que celles qui sont accordées par les États membres concernés aux représentants, fonctionnaires et employés de rang comparable des autres États membres, et
+- iii) bénéficient du même traitement, en ce qui concerne les facilités de voyage, que celui que les États membres accordent aux représentants, fonctionnaires et employés de rang comparable des autres États membres.
 
 #### Art. 49
 
 **Application du présent Chapitre**
 
-Chaque Etat membre prend, sur ses propres territoires, toutes mesures nécessaires en vue d’incorporer dans sa législation les principes énoncés dans le présent chapitre; il informe l’Agence du détail des mesures qu’il a prises.
+Chaque État membre prend, sur ses propres territoires, toutes mesures nécessaires en vue d’incorporer dans sa législation les principes énoncés dans le présent chapitre; il informe l’Agence du détail des mesures qu’il a prises.
 
 #### Art. 50
 
@@ -554,33 +550,33 @@ Chaque Etat membre prend, sur ses propres territoires, toutes mesures nécessair
 
 Les privilèges, immunités et exonérations reconnus dans le présent chapitre sont accordés dans l’intérêt de l’Agence qui peut y renoncer, dans la mesure et aux conditions qu’elle fixe, dans les cas où cette renonciation ne porte pas préjudice aux intérêts de l’Agence. L’Agence lève l’immunité de toute personne exerçant des fonctions à l’Agence dans les cas où, à son avis, cette immunité entraverait l’action de la justice et peut être levée sans porter préjudice aux intérêts de l’Agence.
 
-## Chapitre VIII Démission; suspension d’un Etat membre; cessation des opérations
+## Chapitre VIII Démission; suspension d’un État membre; cessation des opérations
 
 #### Art. 51
 
 **Démission**
 
-Tout Etat membre peut, après l’expiration d’une période de trois ans à compter de la date à laquelle la présente Convention est entrée en vigueur à son égard, se retirer à tout moment de l’Agence en lui notifiant par écrit sa décision à son siège. L’Agence avise la Banque, dépositaire de la présente Convention, de la réception de ladite notification. La démission prend effet 90 jours après la date de la réception de la notification de l’Etat membre par l’Agence. Tout Etat membre peut révoquer sa notification tant qu’elle n’a pas pris effet.
+Tout État membre peut, après l’expiration d’une période de trois ans à compter de la date à laquelle la présente Convention est entrée en vigueur à son égard, se retirer à tout moment de l’Agence en lui notifiant par écrit sa décision à son siège. L’Agence avise la Banque, dépositaire de la présente Convention, de la réception de ladite notification. La démission prend effet 90 jours après la date de la réception de la notification de l’État membre par l’Agence. Tout État membre peut révoquer sa notification tant qu’elle n’a pas pris effet.
 
 #### Art. 52
 
-**Suspension d’un Etat membre**
+**Suspension d’un État membre**
 
-a) Si un Etat membre manque à l’une quelconque des obligations qui lui incombent en vertu de la présente Convention, le Conseil des Gouverneurs peut le suspendre par décision prise à la majorité des Etats membres et des voix.
+a) Si un État membre manque à l’une quelconque des obligations qui lui incombent en vertu de la présente Convention, le Conseil des Gouverneurs peut le suspendre par décision prise à la majorité des États membres et des voix.
 
-b) Pendant la suspension, l’Etat membre concerné ne dispose d’aucun droit en vertu de la présente Convention, à l’exception du droit de démission et des autres droits prévus dans le présent Chapitre et au chap. IX, mais il reste astreint à toutes ses obligations.
+b) Pendant la suspension, l’État membre concerné ne dispose d’aucun droit en vertu de la présente Convention, à l’exception du droit de démission et des autres droits prévus dans le présent Chapitre et au chap. IX, mais il reste astreint à toutes ses obligations.
 
-c) Lorsqu’on doit déterminer si un Etat membre suspendu peut prétendre à une garantie ou à une réassurance conformément au chapitre III ou à l’Annexe I de la présente Convention, ledit Etat membre n’est pas traité comme un Etat membre de l’Agence.
+c) Lorsqu’on doit déterminer si un État membre suspendu peut prétendre à une garantie ou à une réassurance conformément au chapitre III ou à l’Annexe I de la présente Convention, ledit État membre n’est pas traité comme un État membre de l’Agence.
 
-d) L’Etat membre suspendu perd automatiquement sa qualité d’Etat membre un an après la date de sa suspension, à moins que le Conseil des Gouverneurs ne décide de prolonger la période de suspension ou de le réhabiliter.
+d) L’État membre suspendu perd automatiquement sa qualité d’État membre un an après la date de sa suspension, à moins que le Conseil des Gouverneurs ne décide de prolonger la période de suspension ou de le réhabiliter.
 
 #### Art. 53
 
-**Droits et devoirs des Etats qui cessent d’être membres**
+**Droits et devoirs des États qui cessent d’être membres**
 
-a) Quand un Etat cesse d’être membre de l’Agence, il reste tenu par toutes ses obligations, y compris les obligations conditionnelles lui incombant en vertu de la présente Convention qu’il a contractées avant d’avoir cessé d’être membre.
+a) Quand un État cesse d’être membre de l’Agence, il reste tenu par toutes ses obligations, y compris les obligations conditionnelles lui incombant en vertu de la présente Convention qu’il a contractées avant d’avoir cessé d’être membre.
 
-b) Sans préjudice de la section a) ci‑dessus, l’Agence et ledit Etat prennent des dispositions pour le règlement de leurs créances et obligations respectives. Ces dispositions doivent être approuvées par le Conseil d’Administration.
+b) Sans préjudice de la section a) ci‑dessus, l’Agence et ledit État prennent des dispositions pour le règlement de leurs créances et obligations respectives. Ces dispositions doivent être approuvées par le Conseil d’Administration.
 
 #### Art. 54
 
@@ -590,17 +586,17 @@ a) Le Conseil d’Administration peut, lorsqu’il l’estime justifié, suspend
 
 b) Dans des circonstances exceptionnelles, le Conseil d’Administration peut suspendre toutes les activités de l’Agence jusqu’au retour d’une situation normale, étant entendu que les dispositions nécessaires sont prises pour la protection des intérêts de l’Agence et des tiers.
 
-c) La décision de suspendre les opérations n’a aucun effet sur les obligations incombant aux Etats membres en vertu de la présente Convention ni sur les obligations de l’Agence vis‑à‑vis des titulaires d’une garantie ou d’une police de réassurance ou vis‑à‑vis de tiers.
+c) La décision de suspendre les opérations n’a aucun effet sur les obligations incombant aux États membres en vertu de la présente Convention ni sur les obligations de l’Agence vis‑à‑vis des titulaires d’une garantie ou d’une police de réassurance ou vis‑à‑vis de tiers.
 
 #### Art. 55
 
 **Dissolution**
 
-a) Le Conseil des Gouverneurs peut décider, à la majorité spéciale, de cesser les opérations de l’Agence et de la dissoudre. A la suite de cette décision, l’Agence met immédiatement fin à ses activités, à l’exception de celles se rapportant à la réalisation, à la conservation et à la prévention normales de ses avoirs ainsi qu’au règlement de ses obligations. Jusqu’au jour du règlement définitif de ses obligations et de la distribution de ses avoirs, l’Agence conserve sa personnalité juridique et tous les droits et obligations de ses membres découlant de la présente Convention demeurent inchangés.
+a) Le Conseil des Gouverneurs peut décider, à la majorité spéciale, de cesser les opérations de l’Agence et de la dissoudre. À la suite de cette décision, l’Agence met immédiatement fin à ses activités, à l’exception de celles se rapportant à la réalisation, à la conservation et à la prévention normales de ses avoirs ainsi qu’au règlement de ses obligations. Jusqu’au jour du règlement définitif de ses obligations et de la distribution de ses avoirs, l’Agence conserve sa personnalité juridique et tous les droits et obligations de ses membres découlant de la présente Convention demeurent inchangés.
 
-b) Aucune distribution des avoirs n’a lieu au profit des Etats membres avant que toutes les obligations vis‑à‑vis des investisseurs assurés et des autres créanciers aient été éteintes ou que leur règlement ait été assuré et que le Conseil des Gouverneurs ait décidé de procéder à ladite distribution.
+b) Aucune distribution des avoirs n’a lieu au profit des États membres avant que toutes les obligations vis‑à‑vis des investisseurs assurés et des autres créanciers aient été éteintes ou que leur règlement ait été assuré et que le Conseil des Gouverneurs ait décidé de procéder à ladite distribution.
 
-c) Sous réserve de ce qui précède, l’Agence distribue ses avoirs entre ses membres proportionnellement à leur part du capital souscrit. L’Agence distribue également tout solde des avoirs du Fonds Fiduciaire de Parrainage entre les Etats membres parrains au prorata de la part du total des investissements parrainés que représentent les investissements parrainés par chacun d’eux. Aucun Etat membre ne peut prétendre à sa part des avoirs de l’Agence ou du Fonds Fiduciaire de Parrainage avant d’avoir réglé toutes ses dettes vis‑à‑vis de l’Agence. Le Conseil des Gouverneurs détermine, selon des modalités qu’il estime justes et équitables, la date de toute distribution des avoirs.
+c) Sous réserve de ce qui précède, l’Agence distribue ses avoirs entre ses membres proportionnellement à leur part du capital souscrit. L’Agence distribue également tout solde des avoirs du Fonds Fiduciaire de Parrainage entre les États membres parrains au prorata de la part du total des investissements parrainés que représentent les investissements parrainés par chacun d’eux. Aucun État membre ne peut prétendre à sa part des avoirs de l’Agence ou du Fonds Fiduciaire de Parrainage avant d’avoir réglé toutes ses dettes vis‑à‑vis de l’Agence. Le Conseil des Gouverneurs détermine, selon des modalités qu’il estime justes et équitables, la date de toute distribution des avoirs.
 
 ## Chapitre IX Règlement des différends
 
@@ -608,17 +604,17 @@ c) Sous réserve de ce qui précède, l’Agence distribue ses avoirs entre ses 
 
 **Interprétation et application de la Convention**
 
-a) Toute question d’interprétation ou d’application des dispositions de la présente Convention opposant un Etat membre à l’Agence ou des Etats membres entre eux est soumise à la décision du Conseil d’Administration. Si la question affecte particulièrement un Etat membre non déjà représenté par un de ses nationaux au Conseil d’Administration, cet Etat membre a la faculté d’envoyer un représentant à toute séance du Conseil d’Administration à laquelle ladite question est examinée.
+a) Toute question d’interprétation ou d’application des dispositions de la présente Convention opposant un État membre à l’Agence ou des États membres entre eux est soumise à la décision du Conseil d’Administration. Si la question affecte particulièrement un État membre non déjà représenté par un de ses nationaux au Conseil d’Administration, cet État membre a la faculté d’envoyer un représentant à toute séance du Conseil d’Administration à laquelle ladite question est examinée.
 
-b) Dans toute affaire où le Conseil d’Administration a rendu une décision en vertu de la section a) ci‑dessus, tout Etat membre peut demander que la question soit portée devant le Conseil des Gouverneurs, dont la décision est sans appel. En attendant que le Conseil des Gouverneurs ait statué, l’Agence peut, dans la mesure où elle l’estime nécessaire, agir sur la base de la décision du Conseil d’Administration.
+b) Dans toute affaire où le Conseil d’Administration a rendu une décision en vertu de la section a) ci‑dessus, tout État membre peut demander que la question soit portée devant le Conseil des Gouverneurs, dont la décision est sans appel. En attendant que le Conseil des Gouverneurs ait statué, l’Agence peut, dans la mesure où elle l’estime nécessaire, agir sur la base de la décision du Conseil d’Administration.
 
 #### Art. 57
 
-**Différends entre l’Agence et les Etats membres**
+**Différends entre l’Agence et les États membres**
 
-a) Sans préjudice des dispositions de l’art. 56 et de la section b) du présent article, tout différend entre l’Agence et un Etat membre ou un organisme d’un Etat membre et tout différend entre l’Agence et un pays qui a cessé d’être un Etat membre (ou un organisme dudit pays) est réglé conformément à la procédure décrite dans l’Annexe II à la présente Convention.
+a) Sans préjudice des dispositions de l’art. 56 et de la section b) du présent article, tout différend entre l’Agence et un État membre ou un organisme d’un État membre et tout différend entre l’Agence et un pays qui a cessé d’être un État membre (ou un organisme dudit pays) est réglé conformément à la procédure décrite dans l’Annexe II à la présente Convention.
 
-b) Les différends concernant des créances de l’Agence agissant en qualité de subrogée d’un investisseur sont réglés conformément soit i) à la procédure décrite dans l’Annexe II à la présente Convention, soit ii) à un accord devant être conclu entre l’Agence et l’Etat membre concerné prévoyant une autre méthode ou d’autres méthodes de règlement desdits différends. Dans ce dernier cas, l’Annexe II à la présente Convention sert de base à la rédaction dudit accord qui, dans chaque cas, doit être approuvé par le Conseil d’Administration à la majorité spéciale avant que l’Agence n’entreprenne des opérations dans les territoires de l’Etat membre concerné.
+b) Les différends concernant des créances de l’Agence agissant en qualité de subrogée d’un investisseur sont réglés conformément soit i) à la procédure décrite dans l’Annexe II à la présente Convention, soit ii) à un accord devant être conclu entre l’Agence et l’État membre concerné prévoyant une autre méthode ou d’autres méthodes de règlement desdits différends. Dans ce dernier cas, l’Annexe II à la présente Convention sert de base à la rédaction dudit accord qui, dans chaque cas, doit être approuvé par le Conseil d’Administration à la majorité spéciale avant que l’Agence n’entreprenne des opérations dans les territoires de l’État membre concerné.
 
 #### Art. 58
 
@@ -634,18 +630,18 @@ Tout différend opposant les parties à un contrat d’assurance ou de réassura
 
 b) Les Appendices A et B de la présente Convention peuvent être amendés par le Conseil des Gouverneurs par une décision adoptée à la majorité spéciale.
 
-c) Si un amendement a un effet sur une disposition quelconque de l’Annexe I à la présente Convention, le nombre total de voix doit comprendre les voix additionnelles attribuées en vertu de l’art. 7 de ladite Annexe aux Etats membres parrains et aux pays où seront réalisés les investissements parrainés.
+c) Si un amendement a un effet sur une disposition quelconque de l’Annexe I à la présente Convention, le nombre total de voix doit comprendre les voix additionnelles attribuées en vertu de l’art. 7 de ladite Annexe aux États membres parrains et aux pays où seront réalisés les investissements parrainés.
 
 a) La présente Convention et ses Annexes peuvent être modifiées par une décision adoptée par les trois cinquièmes des Gouverneurs de pays détenant les quatre cinquièmes du nombre total des voix; il est toutefois entendu que:
 
-- i) tout amendement modifiant le droit d’un Etat membre de se retirer de l’Agence prévu à l’art. 51 ou la limitation de la responsabilité prévue par la section d) de l’art. 8 ne peut être adopté que s’il est approuvé par les Gouverneurs à l’unanimité; et
-- ii) tout amendement modifiant les dispositions relatives au partage des pertes figurant dans les art. 1 à 3 de l’Annexe I à la présente Convention qui aurait pour effet d’accroître les obligations incombant à ce titre à un Etat membre quelconque doit être approuvé par le Gouverneur dudit Etat membre.
+- i) tout amendement modifiant le droit d’un État membre de se retirer de l’Agence prévu à l’art. 51 ou la limitation de la responsabilité prévue par la section d) de l’art. 8 ne peut être adopté que s’il est approuvé par les Gouverneurs à l’unanimité, et
+- ii) tout amendement modifiant les dispositions relatives au partage des pertes figurant dans les art. 1 à 3 de l’Annexe I à la présente Convention qui aurait pour effet d’accroître les obligations incombant à ce titre à un État membre quelconque doit être approuvé par le Gouverneur dudit État membre.
 
 #### Art. 60
 
 **Procédure**
 
-Toute proposition tendant à apporter des modifications à la présente Convention, qu’elle émane d’un Etat membre, d’un Gouverneur ou d’un Administrateur, est communiquée au Président du Conseil d’Administration, qui en saisit le Conseil d’Administration. Si le Conseil d’Administration recommande l’adoption de l’amendement proposé, celui‑ci est soumis au Conseil des Gouverneurs pour approbation conformément à l’art. 59. Lorsqu’un amendement a été dûment approuvé par le Conseil des Gouverneurs, l’Agence en certifie l’acceptation par une communication officielle adressée à tous les Etats membres. Les amendements entrent en vigueur vis‑à‑vis de tous les Etats membres 90 jours après la date de la communication officielle, à moins que le Conseil des Gouverneurs ne spécifie un délai différent.
+Toute proposition tendant à apporter des modifications à la présente Convention, qu’elle émane d’un État membre, d’un Gouverneur ou d’un Administrateur, est communiquée au Président du Conseil d’Administration, qui en saisit le Conseil d’Administration. Si le Conseil d’Administration recommande l’adoption de l’amendement proposé, celui‑ci est soumis au Conseil des Gouverneurs pour approbation conformément à l’art. 59. Lorsqu’un amendement a été dûment approuvé par le Conseil des Gouverneurs, l’Agence en certifie l’acceptation par une communication officielle adressée à tous les États membres. Les amendements entrent en vigueur vis‑à‑vis de tous les États membres 90 jours après la date de la communication officielle, à moins que le Conseil des Gouverneurs ne spécifie un délai différent.
 
 ## Chapitre XI Dispositions finales
 
@@ -653,11 +649,11 @@ Toute proposition tendant à apporter des modifications à la présente Conventi
 
 **Entrée en vigueur**
 
-a) La présente Convention doit être ouverte à la signature de tous les Etats membres de la Banque et de la Suisse et ratifiée, acceptée ou approuvée par les Etats signataires conformément à leurs procédures constitutionnelles.
+a) La présente Convention doit être ouverte à la signature de tous les États membres de la Banque et de la Suisse et ratifiée, acceptée ou approuvée par les États signataires conformément à leurs procédures constitutionnelles.
 
-b) La présente Convention entre en vigueur à la date à laquelle au moins cinq instruments de ratification, d’acceptation ou d’approbation ont été déposés au nom d’Etats signataires de la Catégorie , et à laquelle au moins quinze instruments de même nature ont été déposés au nom d’Etats signataires de la Catégorie II; il est entendu toutefois que le total des souscriptions de ces pays ne doit pas être inférieur à un tiers du capital autorisé de l’Agence conformément aux dispositions de l’art. 5.
+b) La présente Convention entre en vigueur à la date à laquelle au moins cinq instruments de ratification, d’acceptation ou d’approbation ont été déposés au nom d’États signataires de la Catégorie , et à laquelle au moins quinze instruments de même nature ont été déposés au nom d’États signataires de la Catégorie II; il est entendu toutefois que le total des souscriptions de ces pays ne doit pas être inférieur à un tiers du capital autorisé de l’Agence conformément aux dispositions de l’art. 5.
 
-c) Pour chaque Etat déposant son instrument de ratification, d’acceptation ou d’approbation après l’entrée en vigueur de la présente Convention, celle‑ci entre en vigueur à la date du dépôt dudit instrument.
+c) Pour chaque État déposant son instrument de ratification, d’acceptation ou d’approbation après l’entrée en vigueur de la présente Convention, celle‑ci entre en vigueur à la date du dépôt dudit instrument.
 
 d) Si la présente Convention n’est pas entrée en vigueur dans les deux ans suivant son ouverture à la signature, le Président de la Banque convoque une conférence des pays intéressés pour déterminer les mesures à prendre.
 
@@ -671,7 +667,7 @@ Aussitôt que la présente Convention entre en vigueur, le Président de la Banq
 
 **Dépositaire**
 
-Les instruments de ratification, d’acceptation ou d’approbation relatifs à la présente Convention et aux amendements qui peuvent y être apportés sont déposés auprès de la Banque qui agit en qualité de dépositaire de la présente Convention. Le dépositaire fait parvenir des copies certifiées conformes de la présente Convention aux Etats membres de la Banque et à la Suisse.
+Les instruments de ratification, d’acceptation ou d’approbation relatifs à la présente Convention et aux amendements qui peuvent y être apportés sont déposés auprès de la Banque qui agit en qualité de dépositaire de la présente Convention. Le dépositaire fait parvenir des copies certifiées conformes de la présente Convention aux États membres de la Banque et à la Suisse.
 
 #### Art. 64
 
@@ -685,19 +681,19 @@ Le dépositaire enregistre la présente Convention au Secrétariat de l’Organi
 
 **Notification**
 
-Le dépositaire notifie à tous les Etats signataires et, dès l’entrée en vigueur de la présente Convention, à l’Agence:
+Le dépositaire notifie à tous les États signataires et, dès l’entrée en vigueur de la présente Convention, à l’Agence:
 
 - a) les signatures de la présente Convention;
 - b) le dépôt des instruments de ratification, d’acceptation et d’approbation visés à l’art. 63;
 - c) la date à laquelle la présente Convention entre en vigueur conformément aux dispositions de l’art. 61;
-- d) les notifications de non‑applicabilité territoriale visées à l’art. 66; et
-- e) la démission d’un Etat membre de l’Agence conformément à l’art. 51.
+- d) les notifications de non‑applicabilité territoriale visées à l’art. 66, et
+- e) la démission d’un État membre de l’Agence conformément à l’art. 51.
 
 #### Art. 66
 
 **Applicabilité territoriale**
 
-La présente Convention est applicable à tous les territoires qui se trouvent sous la juridiction d’un Etat membre, y compris les territoires où un Etat membre est responsable des relations internationales, à l’exception des territoires qu’un Etat membre exclut par notification écrite adressée au dépositaire de la présente Convention à l’époque de la ratification, de l’acceptation ou de l’approbation, ou ultérieurement.
+La présente Convention est applicable à tous les territoires qui se trouvent sous la juridiction d’un État membre, y compris les territoires où un État membre est responsable des relations internationales, à l’exception des territoires qu’un État membre exclut par notification écrite adressée au dépositaire de la présente Convention à l’époque de la ratification, de l’acceptation ou de l’approbation, ou ultérieurement.
 
 #### Art. 67
 
@@ -707,9 +703,7 @@ a) Le Conseil des Gouverneurs entreprend périodiquement un examen approfondi de
 
 b) Le premier de ces examens a lieu cinq ans après l’entrée en vigueur de la présente Convention. Le Conseil des Gouverneurs détermine la date des examens ultérieurs.
 
-Fait à Séoul, le 11 octobre 1985, en un seul exemplaire en langue anglaise, qui sera déposé aux archives de la Banque Internationale pour la Reconstruction et le Développement qui a indiqué par sa signature apposée ci‑dessus qu’elle acceptait de remplir les fonctions dont elle est chargée en vertu de la présente Convention.
-
-(Suivent les signatures)
+Fait à Séoul, le 11 octobre 1985, en un seul exemplaire en langue anglaise, qui sera déposé aux archives de la Banque Internationale pour la Reconstruction et le Développement qui a indiqué par sa signature apposée ci‑dessus qu’elle acceptait de remplir les fonctions dont elle est chargée en vertu de la présente Convention. (Suivent les signatures)
 
 Annexe I
 
@@ -719,13 +713,13 @@ Annexe I
 
 **Parrainage**
 
-a) Tout Etat membre peut parrainer la garantie d’un investissement que doit (doivent) effectuer un investisseur d’une nationalité quelconque ou des investisseurs d’une ou de plusieurs nationalités, quelles qu’elles soient.
+a) Tout État membre peut parrainer la garantie d’un investissement que doit (doivent) effectuer un investisseur d’une nationalité quelconque ou des investisseurs d’une ou de plusieurs nationalités, quelles qu’elles soient.
 
-b) Sous réserve des dispositions des sections b) et c) de l’art. 3 de la présente Annexe, chaque Etat membre parrain prend en charge avec les autres Etats membres parrains les pertes couvertes par les garanties délivrées au titre d’investissements parrainés, lorsque et dans la mesure où lesdites pertes ne peuvent être financées par les ressources du Fonds Fiduciaire de Parrainage visé dans l’art. 2 de la présente Annexe, au prorata du rapport entre le montant des engagements maximums pris au titre des garanties relatives aux investissements parrainés par ledit Etat membre et le total des engagements maximums pris au titre des garanties relatives aux investissements parrainés par la totalité des Etats membres.
+b) Sous réserve des dispositions des sections b) et c) de l’art. 3 de la présente Annexe, chaque État membre parrain prend en charge avec les autres États membres parrains les pertes couvertes par les garanties délivrées au titre d’investissements parrainés, lorsque et dans la mesure où lesdites pertes ne peuvent être financées par les ressources du Fonds Fiduciaire de Parrainage visé dans l’art. 2 de la présente Annexe, au prorata du rapport entre le montant des engagements maximums pris au titre des garanties relatives aux investissements parrainés par ledit État membre et le total des engagements maximums pris au titre des garanties relatives aux investissements parrainés par la totalité des États membres.
 
-c) Pour délivrer des garanties en application de la présente Annexe, l’Agence tient dûment compte de la mesure dans laquelle il est vraisemblable que l’Etat membre parrain sera en mesure de s’acquitter de ses obligations au titre de la présente Annexe et donne la priorité aux investissements coparrainés par les pays d’accueil concernés.
+c) Pour délivrer des garanties en application de la présente Annexe, l’Agence tient dûment compte de la mesure dans laquelle il est vraisemblable que l’État membre parrain sera en mesure de s’acquitter de ses obligations au titre de la présente Annexe et donne la priorité aux investissements coparrainés par les pays d’accueil concernés.
 
-d) L’Agence procède périodiquement à des consultations avec les Etats membres parrains au sujet de ses opérations relevant du présent Chapitre.
+d) L’Agence procède périodiquement à des consultations avec les États membres parrains au sujet de ses opérations relevant du présent Chapitre.
 
 #### Art. 2
 
@@ -735,57 +729,57 @@ a) Le produit des primes et autres recettes attribuables aux garanties accordée
 
 b) Toutes les dépenses d’administration et toutes les indemnités versées au titre des garanties délivrées en application de la présente Annexe sont réglées au moyen des ressources du Fonds Fiduciaire de Parrainage.
 
-c) Les avoirs du Fonds Fiduciaire de Parrainage sont détenus et administrés pour le compte collectif des Etats membres parrains et séparément des avoirs de l’Agence.
+c) Les avoirs du Fonds Fiduciaire de Parrainage sont détenus et administrés pour le compte collectif des États membres parrains et séparément des avoirs de l’Agence.
 
 #### Art. 3
 
-**Appels aux Etats membres parrains**
+**Appels aux États membres parrains**
 
-a) Dans la mesure où l’Agence doit payer tout montant du fait d’une perte couverte par une garantie parrainée et où ledit montant ne peut être payé au moyen des avoirs du Fonds Fiduciaire de Parrainage, l’Agence demande à chaque Etat membre parrain de verser audit Fonds une fraction dudit montant calculée conformément aux dispositions de la section b) de l’art. 1 de la présente Annexe.
+a) Dans la mesure où l’Agence doit payer tout montant du fait d’une perte couverte par une garantie parrainée et où ledit montant ne peut être payé au moyen des avoirs du Fonds Fiduciaire de Parrainage, l’Agence demande à chaque État membre parrain de verser audit Fonds une fraction dudit montant calculée conformément aux dispositions de la section b) de l’art. 1 de la présente Annexe.
 
-b) Aucun Etat membre n’est tenu de verser un montant quelconque à la suite d’une demande de versement effectuée en application du présent article, si, de ce fait, le total de ses versements doit dépasser le total des garanties couvrant les investissements parrainés par ledit Etat membre.
+b) Aucun État membre n’est tenu de verser un montant quelconque à la suite d’une demande de versement effectuée en application du présent article, si, de ce fait, le total de ses versements doit dépasser le total des garanties couvrant les investissements parrainés par ledit État membre.
 
-c) A l’expiration de toute garantie couvrant un investissement parrainé par un Etat membre, les engagements dudit Etat membre sont réduits d’un montant équivalent à celui de cette garantie; ces engagements sont également réduits professionnellement lors du versement par l’Agence de toute indemnité se rapportant à un investissement parrainé et continuent pour le reste d’être opposables audit pays membre jusqu’à l’expiration de toutes les garanties d’investissements parrainés en vigueur à la date dudit versement.
+c) À l’expiration de toute garantie couvrant un investissement parrainé par un État membre, les engagements dudit État membre sont réduits d’un montant équivalent à celui de cette garantie; ces engagements sont également réduits professionnellement lors du versement par l’Agence de toute indemnité se rapportant à un investissement parrainé et continuent pour le reste d’être opposables audit pays membre jusqu’à l’expiration de toutes les garanties d’investissements parrainés en vigueur à la date dudit versement.
 
-d) Si l’un quelconque des Etats membres parrains n’est pas tenu d’effectuer le versement demandé en application du présent article à cause des limites stipulées dans les sections b) et c) ci‑dessus, ou si l’un quelconque des Etats membres parrains manque à son obligation de verser le montant demandé, le versement dudit montant est pris en charge proportionnellement par les autres Etats membres parrains. L’obligation imposée aux Etats membres par la présente section est soumise aux limites stipulées dans les sections b) et c) ci‑dessus.
+d) Si l’un quelconque des États membres parrains n’est pas tenu d’effectuer le versement demandé en application du présent article à cause des limites stipulées dans les sections b) et c) ci‑dessus, ou si l’un quelconque des États membres parrains manque à son obligation de verser le montant demandé, le versement dudit montant est pris en charge proportionnellement par les autres États membres parrains. L’obligation imposée aux États membres par la présente section est soumise aux limites stipulées dans les sections b) et c) ci‑dessus.
 
-e) Les Etats membres parrains effectuent tout versement demandé en application du présent article dans les meilleurs délais et dans une monnaie librement utilisable.
+e) Les États membres parrains effectuent tout versement demandé en application du présent article dans les meilleurs délais et dans une monnaie librement utilisable.
 
 #### Art. 4
 
-**Evaluation des monnaies et remboursements**
+**Évaluation des monnaies et remboursements**
 
-Les dispositions sur l’évaluation des monnaies et les remboursements qui figurent dans la présente Convention au sujet des souscriptions au capital s’appliquent *mut**a**tis mutandis* aux versements effectués par les Etats membres au titre d’investissements parrainés.
+Les dispositions sur l’évaluation des monnaies et les remboursements qui figurent dans la présente Convention au sujet des souscriptions au capital s’appliquent *mutatis mutandis* aux versements effectués par les États membres au titre d’investissements parrainés.
 
 #### Art. 5
 
 **Réassurance**
 
-a) L’Agence peut, dans les conditions stipulées à l’art. 1 de la présente Annexe, réassurer un Etat membre, ou un organisme d’un Etat membre, ou un organisme régional, tel que défini à la section a) de l’art. 20 de la présente Convention, ou un assureur privé d’un Etat membre. Les dispositions de la présente Annexe concernant les garanties et les dispositions des art. 20 et 21 de la présente Convention s’appliquent *mutatis mutandis* aux réassurances délivrées en application de la présente section.
+a) L’Agence peut, dans les conditions stipulées à l’art. 1 de la présente Annexe, réassurer un État membre, ou un organisme d’un État membre, ou un organisme régional, tel que défini à la section a) de l’art. 20 de la présente Convention, ou un assureur privé d’un État membre. Les dispositions de la présente Annexe concernant les garanties et les dispositions des art. 20 et 21 de la présente Convention s’appliquent *mutatis mutandis* aux réassurances délivrées en application de la présente section.
 
-b) L’Agence peut faire réassurer les investissements qu’elle a garantis en application de la présente Annexe et prélève sur le Fonds Fiduciaire de Parrainage les primes de réassurance correspondantes. Le Conseil d’Administration peut décider si et dans quelle mesure l’obligation de partage des pertes incombant aux Etats membres parrains en application de la section b) de l’art. 1 de la présente Annexe peut être réduite du fait de la couverture de réassurance obtenue.
+b) L’Agence peut faire réassurer les investissements qu’elle a garantis en application de la présente Annexe et prélève sur le Fonds Fiduciaire de Parrainage les primes de réassurance correspondantes. Le Conseil d’Administration peut décider si et dans quelle mesure l’obligation de partage des pertes incombant aux États membres parrains en application de la section b) de l’art. 1 de la présente Annexe peut être réduite du fait de la couverture de réassurance obtenue.
 
 #### Art. 6
 
 **Principes régissant les opérations**
 
-Sans préjudice des dispositions de la présente Annexe, les dispositions du chap. III de la présente Convention relatives aux opérations à la gestion financière s’appliquent *mutatis mutandis* aux garanties relatives aux investissements parrainés, excepté i) que lesdits investissements peuvent être parrainés s’ils sont effectués dans les territoires d’un Etat membre quel qu’il soit, et en particulier de tout Etat membre en développement, par un ou plusieurs investisseurs autorisés en vertu de la section a) de l’art. 1 de la présente Annexe et ii) que l’Agence n’est pas responsable sur ses propres avoirs de toute garantie ou réassurance délivrée en application de la présente Annexe et que chaque contrat de garantie ou de réassurance conclu en vertu de la présente Annexe devra contenir une disposition expresse à cet effet.
+Sans préjudice des dispositions de la présente Annexe, les dispositions du chap. III de la présente Convention relatives aux opérations à la gestion financière s’appliquent *mutatis mutandis* aux garanties relatives aux investissements parrainés, excepté i) que lesdits investissements peuvent être parrainés s’ils sont effectués dans les territoires d’un État membre quel qu’il soit, et en particulier de tout État membre en développement, par un ou plusieurs investisseurs autorisés en vertu de la section a) de l’art. 1 de la présente Annexe et ii) que l’Agence n’est pas responsable sur ses propres avoirs de toute garantie ou réassurance délivrée en application de la présente Annexe et que chaque contrat de garantie ou de réassurance conclu en vertu de la présente Annexe devra contenir une disposition expresse à cet effet.
 
 #### Art. 7
 
 **Vote**
 
-Pour les décisions relatives à des investissements parrainés, chaque Etat membre parrain dispose d’une voix supplémentaire par tranche d’une contre‑valeur de 10 000 Droits de tirage spéciaux du montant garanti ou réassuré qu’il a parrainé, et chaque Etat membre accueillant un investissement parrainé dispose d’une voix supplémentaire par tranche d’une contre-valeur de 10 000 Droits de tirage spéciaux du montant garanti ou réassuré au titre de tout investissement parrainé qu’il a accueilli. Ces voix supplémentaires ne sont utilisées que pour les décisions relatives à des investissements parrainés et dans les autres cas n’entrent pas en ligne de compte dans le nombre de voix des Etats membres.
+Pour les décisions relatives à des investissements parrainés, chaque État membre parrain dispose d’une voix supplémentaire par tranche d’une contre‑valeur de 10 000 Droits de tirage spéciaux du montant garanti ou réassuré qu’il a parrainé, et chaque État membre accueillant un investissement parrainé dispose d’une voix supplémentaire par tranche d’une contre-valeur de 10 000 Droits de tirage spéciaux du montant garanti ou réassuré au titre de tout investissement parrainé qu’il a accueilli. Ces voix supplémentaires ne sont utilisées que pour les décisions relatives à des investissements parrainés et dans les autres cas n’entrent pas en ligne de compte dans le nombre de voix des États membres.
 
 Annexe II
 
-## Règlement des différends entre un Etat membre et l’Agence visés à l’art. 57
+## Règlement des différends entre un État membre et l’Agence visés à l’art. 57
 
 #### Art. 1
 
 **Champ d’application de l’Annexe**
 
-Tous les différends auxquels s’applique l’art. 57 de la présente Convention sont réglés conformément aux procédures décrites dans la présente Annexe, sauf dans les cas où l’Agence a conclu un accord avec un Etat membre conformément à la section b) ii) de l’art. 57.
+Tous les différends auxquels s’applique l’art. 57 de la présente Convention sont réglés conformément aux procédures décrites dans la présente Annexe, sauf dans les cas où l’Agence a conclu un accord avec un État membre conformément à la section b) ii) de l’art. 57.
 
 #### Art. 2
 
@@ -801,7 +795,7 @@ a) Si le différend n’est pas réglé par voie de négociation, chacune des pa
 
 b) L’accord de recours à la conciliation précise l’objet du différend, les prétentions des parties à cet égard et, s’il est connu, le nom du conciliateur désigné d’un commun accord par les parties. Si les parties ne peuvent s’entendre sur le choix d’un conciliateur, elles peuvent demander conjointement au Secrétaire général du Centre International pour le Règlement des Différends Relatifs aux Investissements (ci‑après dénommé le CIRDI) ou au Président de la Cour Internationale de Justice de désigner un conciliateur. La procédure de conciliation prend fin si le conciliateur n’a pas été désigné dans un délai de 90 jours suivant la date de l’accord de recours à la conciliation.
 
-c) Sauf dispositions contraires de la présente Annexe ou convention contraire des parties, le conciliateur fixe les règles régissant la procédure de conciliation et s’inspire à cet égard du règlement de conciliation adopté en application de la Convention pour le Règlement des Différends Relatifs aux Investissements entre Etats et Ressortissants d’autres Etats.
+c) Sauf dispositions contraires de la présente Annexe ou convention contraire des parties, le conciliateur fixe les règles régissant la procédure de conciliation et s’inspire à cet égard du règlement de conciliation adopté en application de la Convention pour le Règlement des Différends Relatifs aux Investissements entre États et Ressortissants d’autres États.
 
 d) Les parties coopèrent de bonne foi avec le conciliateur et, en particulier, lui fournissent toutes informations et pièces pouvant l’aider à s’acquitter de ses fonctions; elles tiennent le plus grand compte de ses recommandations.
 
@@ -813,9 +807,9 @@ h) Sauf convention contraire des parties, les honoraires du conciliateur sont d�
 
 g) Aucune partie à une procédure de conciliation ne peut recourir à l’arbitrage à moins que:
 
-- i) le conciliateur n’ait pas présenté son rapport dans le délai fixé à la section e) ci‑dessus; ou que
-- ii) les parties n’aient pas accepté certaines des propositions contenues dans le rapport dans les 60 jours suivant sa réception; ou que
-- iii) les parties, après un échange de vues sur le rapport, n’aient pu s’entendre sur un règlement de tous les points en litige dans les 60 jours suivant la réception du rapport du conciliateur; ou que
+- i) le conciliateur n’ait pas présenté son rapport dans le délai fixé à la section e) ci‑dessus, ou que
+- ii) les parties n’aient pas accepté certaines des propositions contenues dans le rapport dans les 60 jours suivant sa réception, ou que
+- iii) les parties, après un échange de vues sur le rapport, n’aient pu s’entendre sur un règlement de tous les points en litige dans les 60 jours suivant la réception du rapport du conciliateur, ou que
 - iv) une partie n’ait pas exposé ses vues sur le rapport comme il est prescrit à la section f) ci‑dessus.
 
 #### Art. 4
@@ -830,19 +824,19 @@ c) Une partie ne peut revenir sur sa nomination d’un arbitre une fois la proc�
 
 d) Le Président fixe la date et le lieu de la première séance du Tribunal. Par la suite, le Tribunal fixe le lieu et les dates de ses réunions.
 
-e) Sauf dispositions contraires de la présente Annexe ou convention contraire des parties, le Tribunal fixe sa procédure et s’inspire à cet égard du règlement d’arbitrage adopté en application de la Convention pour le Règlement des Différends Relatifs aux Investissements entre Etats et Ressortissants d’autres Etats.
+e) Sauf dispositions contraires de la présente Annexe ou convention contraire des parties, le Tribunal fixe sa procédure et s’inspire à cet égard du règlement d’arbitrage adopté en application de la Convention pour le Règlement des Différends Relatifs aux Investissements entre États et Ressortissants d’autres États.
 
 f) Le Tribunal est juge de sa compétence, étant entendu toutefois que, s’il est soulevé devant le Tribunal un déclinatoire de compétence fondé sur le motif que le différend est de la compétence du Conseil d’Administration ou du Conseil des Gouverneurs en vertu de l’art. 56, ou de la compétence d’un organe judiciaire ou arbitral désigné dans un accord en vertu de l’art. 1 de la présente Annexe, et si le Tribunal estime que ce déclinatoire repose sur une base sérieuse, il en réfère au Conseil d’Administration ou au Conseil des Gouverneurs ou à l’organe désigné, selon le cas; la procédure d’arbitrage est alors suspendue jusqu’à ce que la question ait fait l’objet d’une décision, qui lie le Tribunal.
 
-g) Le Tribunal, à l’occasion de tout différend auquel la présente Annexe est applicable, se conforme aux dispositions de la présente Convention et de tout accord pertinent existant entre les parties au différend, aux statuts et au règlement de l’Agence, aux règles applicables du droit international, à la législation de l’Etat membre concerné et, le cas échéant, aux dispositions du contrat d’investissement. Les dispositions de la présente Convention ne portent pas atteinte à la faculté pour le Tribunal, si l’Agence et l’Etat membre concernés en sont d’accord, de statuer *ex aequo et bono.* Le Tribunal ne peut refuser de juger sous prétexte du silence ou de l’obscurité du droit.
+g) Le Tribunal, à l’occasion de tout différend auquel la présente Annexe est applicable, se conforme aux dispositions de la présente Convention et de tout accord pertinent existant entre les parties au différend, aux statuts et au règlement de l’Agence, aux règles applicables du droit international, à la législation de l’État membre concerné et, le cas échéant, aux dispositions du contrat d’investissement. Les dispositions de la présente Convention ne portent pas atteinte à la faculté pour le Tribunal, si l’Agence et l’État membre concernés en sont d’accord, de statuer *ex aequo et bono.* Le Tribunal ne peut refuser de juger sous prétexte du silence ou de l’obscurité du droit.
 
 h) Le Tribunal donne à toutes les parties la possibilité de faire valoir leurs moyens. Toutes les décisions du Tribunal sont prises à la majorité des voix et contiennent un exposé des raisons sur lesquelles elles sont fondées. La sentence du Tribunal est rendue par écrit et signée par deux arbitres au moins, et une copie en est envoyée à chaque partie. La sentence est définitive et a force obligatoire à l’égard des parties et elle n’est pas susceptible d’appel, d’annulation ni de révision.
 
 i) Si un différend s’élève entre les parties au sujet du sens ou de la portée de la sentence, chacune des parties peut, dans les 60 jours suivant la date à laquelle la sentence a été rendue, adresser par écrit une demande en interprétation au Président du Tribunal qui a statué. Le Président, s’il est possible, soumet la demande au Tribunal qui a statué et convoque ledit Tribunal dans les 60 jours suivant la réception de la demande en interprétation. Si cela n’est pas possible, un nouveau Tribunal est constitué conformément aux dispositions des sections a) à d) ci‑dessus. Le Tribunal peut décider de suspendre l’exécution de la sentence jusqu’à ce qu’il se soit prononcé sur la demande en interprétation.
 
-j) Chaque Etat membre reconnaît qu’une sentence rendue en vertu du présent article a force obligatoire et exécutoire sur ses territoires dans les mêmes conditions que s’il s’agissait d’un jugement définitif rendu par un tribunal de cet Etat membre. L’exécution de la sentence est régie par la législation sur l’exécution des jugements qui est en vigueur dans l’Etat sur les territoires duquel l’exécution est demandée et il n’est pas fait de dérogation aux lois en vigueur fondée sur l’immunité d’exécution.
+j) Chaque État membre reconnaît qu’une sentence rendue en vertu du présent article a force obligatoire et exécutoire sur ses territoires dans les mêmes conditions que s’il s’agissait d’un jugement définitif rendu par un tribunal de cet État membre. L’exécution de la sentence est régie par la législation sur l’exécution des jugements qui est en vigueur dans l’État sur les territoires duquel l’exécution est demandée et il n’est pas fait de dérogation aux lois en vigueur fondée sur l’immunité d’exécution.
 
-k) A moins que les parties n’en conviennent autrement, les honoraires et la rémunération payables aux arbitres sont fixés sur la base des barèmes applicables aux procédures d’arbitrage engagées sous l’égide du CIRDI.
+k) À moins que les parties n’en conviennent autrement, les honoraires et la rémunération payables aux arbitres sont fixés sur la base des barèmes applicables aux procédures d’arbitrage engagées sous l’égide du CIRDI.
 
 Chaque partie supporte ses dépenses particulières. Les frais du Tribunal sont supportés à parts égales par les parties à moins que le Tribunal n’en décide autrement. Le Tribunal statue sur toute question concernant la répartition des frais du Tribunal ou les modalités de paiement desdits frais.
 
@@ -850,11 +844,11 @@ Chaque partie supporte ses dépenses particulières. Les frais du Tribunal sont 
 
 **Significations**
 
-Toute signification ou notification se rapportant à un acte de procédure prévu dans la présente Annexe est faite par écrit. Elle est adressée par l’Agence à l’autorité désignée par l’Etat membre concerné en application de l’art. 38 de la présente Convention et par cet Etat membre au siège de l’Agence.
+Toute signification ou notification se rapportant à un acte de procédure prévu dans la présente Annexe est faite par écrit. Elle est adressée par l’Agence à l’autorité désignée par l’État membre concerné en application de l’art. 38 de la présente Convention et par cet État membre au siège de l’Agence.
 
 Appendice A
 
-## Etats membres et souscriptions
+## États membres et souscriptions
 
 ### Catégorie I
 
@@ -867,7 +861,7 @@ Appendice A
 <tr><td>Belgique</td><td colspan="2">2 030</td><td colspan="2">20,30</td></tr>
 <tr><td>Canada</td><td colspan="2">2 965</td><td colspan="2">29,65</td></tr>
 <tr><td>Danemark</td><td colspan="2">718</td><td colspan="2">7,18</td></tr>
-<tr><td>Etats-Unis d’Amérique</td><td colspan="2">20 519</td><td colspan="2">205,19</td></tr>
+<tr><td>États-Unis d’Amérique</td><td colspan="2">20 519</td><td colspan="2">205,19</td></tr>
 <tr><td>Finlande</td><td colspan="2">600</td><td colspan="2">6,00</td></tr>
 <tr><td>France</td><td colspan="2">4 860</td><td colspan="2">48,60</td></tr>
 <tr><td>Irlande</td><td colspan="2">369</td><td colspan="2">3,69</td></tr>
@@ -884,7 +878,7 @@ Appendice A
 <tr><td></td><td colspan="2">59 473</td><td colspan="2">594,73</td></tr>
 </table>
 
-### Catégorie II****
+### Catégorie II
 
 [^annexA-lvlu1-lvlu2-1]
 
@@ -923,12 +917,12 @@ Appendice A
 <tr><td>Côte d’Ivoire</td><td colspan="2">176</td><td colspan="2">1,76</td></tr>
 <tr><td>Djibouti</td><td colspan="2">50</td><td colspan="2">0,50</td></tr>
 <tr><td>Dominique</td><td colspan="2">50</td><td colspan="2">0,50</td></tr>
-<tr><td>Egypte, République arabe d’</td><td colspan="2">459</td><td colspan="2">4,59</td></tr>
+<tr><td>Égypte, République arabe d’</td><td colspan="2">459</td><td colspan="2">4,59</td></tr>
 <tr><td>El Salvador</td><td colspan="2">122</td><td colspan="2">1,22</td></tr>
-<tr><td>Emirats arabes unis</td><td colspan="2">372</td><td colspan="2">3,72</td></tr>
-<tr><td>Equateur</td><td colspan="2">182</td><td colspan="2">1,82</td></tr>
+<tr><td>Émirats arabes unis</td><td colspan="2">372</td><td colspan="2">3,72</td></tr>
+<tr><td>Équateur</td><td colspan="2">182</td><td colspan="2">1,82</td></tr>
 <tr><td>Espagne</td><td colspan="2">1 285</td><td colspan="2">12,85</td></tr>
-<tr><td>Ethiopie</td><td colspan="2">70</td><td colspan="2">0,70</td></tr>
+<tr><td>Éthiopie</td><td colspan="2">70</td><td colspan="2">0,70</td></tr>
 <tr><td>Fidji</td><td colspan="2">71</td><td colspan="2">0,71</td></tr>
 <tr><td>Gabon</td><td colspan="2">96</td><td colspan="2">0,96</td></tr>
 <tr><td>Gambie</td><td colspan="2">50</td><td colspan="2">0,50</td></tr>
@@ -943,7 +937,7 @@ Appendice A
 <tr><td>Haïti</td><td colspan="2">75</td><td colspan="2">0,75</td></tr>
 <tr><td>Honduras</td><td colspan="2">101</td><td colspan="2">1,01</td></tr>
 <tr><td>Hongrie</td><td colspan="2">564</td><td colspan="2">5,64</td></tr>
-<tr><td>Iles Salomon</td><td colspan="2">50</td><td colspan="2">0,50</td></tr>
+<tr><td>Îles Salomon</td><td colspan="2">50</td><td colspan="2">0,50</td></tr>
 <tr><td>Inde</td><td colspan="2">3 048</td><td colspan="2">30,48</td></tr>
 <tr><td>Indonésie</td><td colspan="2">1 049</td><td colspan="2">10,49</td></tr>
 <tr><td>Iran, République islamique d’</td><td colspan="2">1 659</td><td colspan="2">16,59</td></tr>
@@ -1026,15 +1020,15 @@ Appendice A
 
 Appendice B
 
-## Election des administrateurs
+## Élection des administrateurs
 
 \1. Les candidats à un poste d’Administrateur sont désignés par les Gouverneurs, étant entendu que chaque Gouverneur ne peut proposer qu’une seule candidature.
 
 \2. Les Gouverneurs élisent les Administrateurs par voie de scrutin.
 
-\3. Lorsqu’il participe à ce scrutin, chaque Gouverneur exprime en faveur d’un seul candidat toutes les voix attribuées, conformément aux dispositions de la section a) de l’art. 40, à l’Etat membre qu’il représente.
+\3. Lorsqu’il participe à ce scrutin, chaque Gouverneur exprime en faveur d’un seul candidat toutes les voix attribuées, conformément aux dispositions de la section a) de l’art. 40, à l’État membre qu’il représente.
 
-\4. Un quart du nombre des Administrateurs est élu séparément, à raison d’un Administrateur par chacun des Gouverneurs des Etats membres ayant le plus grand nombre d’actions. Si le nombre total des Administrateurs n’est pas un multiple de quatre, le nombre des Administrateurs élus de cette façon est égal au quart du nombre multiple de quatre immédiatement inférieur.
+\4. Un quart du nombre des Administrateurs est élu séparément, à raison d’un Administrateur par chacun des Gouverneurs des États membres ayant le plus grand nombre d’actions. Si le nombre total des Administrateurs n’est pas un multiple de quatre, le nombre des Administrateurs élus de cette façon est égal au quart du nombre multiple de quatre immédiatement inférieur.
 
 \5. Le reste des Administrateurs est élu par les autres Gouverneurs conformément aux dispositions des par. 6 à 11 du présent Appendice.
 
@@ -1050,10 +1044,10 @@ Appendice B
 
 \11. Si tous les Administrateurs n’ont pas été élus à l’issue du second tour, il est procédé à des votes supplémentaires suivant les mêmes principes, jusqu’à ce que tous les Administrateurs soient élus, étant entendu que lorsqu’il reste à élire un seul Administrateur, celui‑ci peut être élu à la majorité simple des voix restantes et qu’il est réputé avoir été élu par la totalité desdites voix.
 
-Champ d’application le 3 mars 2016**[^t-3]**
+Champ d’application le 11 juillet 2024[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afghanistan</td><td>16 juin</td><td>2003</td><td>16 juin</td><td>2003</td></tr>
 <tr><td>Afrique du Sud</td><td>2 mars</td><td>1994</td><td>10 mars</td><td>1994</td></tr>
 <tr><td>Albanie</td><td>15 octobre</td><td>1991</td><td>15 octobre</td><td>1991</td></tr>
@@ -1092,7 +1086,7 @@ Champ d’application le 3 mars 2016**[^t-3]**
 <tr><td>Hong Kong</td><td>4 juin</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
 <tr><td>Chypre</td><td>11 mars</td><td>1987</td><td>12 avril</td><td>1988</td></tr>
 <tr><td>Colombie</td><td>8 septembre</td><td>1995</td><td>30 novembre</td><td>1995</td></tr>
-<tr><td>Comores</td><td>25 février</td><td>2013 A</td><td>25 février</td><td>2013</td></tr>
+<tr><td>Comores</td><td>25 février</td><td>2013</td><td>25 février</td><td>2013</td></tr>
 <tr><td>Congo (Brazzaville)</td><td>5 juillet</td><td>1990</td><td>16 octobre</td><td>1991</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>7 février</td><td>1989</td><td>7 février</td><td>1989</td></tr>
 <tr><td>Corée (Sud)</td><td>24 novembre</td><td>1987</td><td>12 avril</td><td>1988</td></tr>
@@ -1102,15 +1096,16 @@ Champ d’application le 3 mars 2016**[^t-3]**
 <tr><td>Danemark</td><td>18 août</td><td>1987</td><td>12 avril</td><td>1988</td></tr>
 <tr><td>Djibouti</td><td>12 janvier</td><td>2007</td><td>12 janvier</td><td>2007</td></tr>
 <tr><td>Dominique</td><td>2 août</td><td>1991</td><td>7 octobre</td><td>1991</td></tr>
-<tr><td>Egypte</td><td>21 septembre</td><td>1987</td><td>12 avril</td><td>1988</td></tr>
+<tr><td>Égypte</td><td>21 septembre</td><td>1987</td><td>12 avril</td><td>1988</td></tr>
 <tr><td>El Salvador</td><td>17 juin</td><td>1991</td><td>20 décembre</td><td>1991</td></tr>
-<tr><td>Emirats arabes unis</td><td>20 octobre</td><td>1993</td><td>20 octobre</td><td>1993</td></tr>
-<tr><td>Equateur</td><td>15 janvier</td><td>1986</td><td>12 avril</td><td>1988</td></tr>
-<tr><td>Erythrée</td><td>11 octobre</td><td>1995</td><td>10 septembre</td><td>1996</td></tr>
+<tr><td>Émirats arabes unis</td><td>20 octobre</td><td>1993</td><td>20 octobre</td><td>1993</td></tr>
+<tr><td>Équateur</td><td>15 janvier</td><td>1986</td><td>12 avril</td><td>1988</td></tr>
+<tr><td>Érythrée</td><td>11 octobre</td><td>1995</td><td>10 septembre</td><td>1996</td></tr>
 <tr><td>Espagne</td><td>29 avril</td><td>1988</td><td>29 avril</td><td>1988</td></tr>
 <tr><td>Estonie</td><td>24 septembre</td><td>1992</td><td>24 septembre</td><td>1992</td></tr>
-<tr><td>Etats-Unis</td><td>12 avril</td><td>1988</td><td>12 avril</td><td>1988</td></tr>
-<tr><td>Ethiopie</td><td>21 février</td><td>1991</td><td>13 août</td><td>1991</td></tr>
+<tr><td>Eswatini</td><td>3 avril</td><td>1990</td><td>18 avril</td><td>1990</td></tr>
+<tr><td>États-Unis</td><td>12 avril</td><td>1988</td><td>12 avril</td><td>1988</td></tr>
+<tr><td>Éthiopie</td><td>21 février</td><td>1991</td><td>13 août</td><td>1991</td></tr>
 <tr><td>Fidji</td><td>24 mai</td><td>1990</td><td>24 septembre</td><td>1990</td></tr>
 <tr><td>Finlande</td><td>28 décembre</td><td>1988</td><td>28 décembre</td><td>1988</td></tr>
 <tr><td>France</td><td>28 décembre</td><td>1989</td><td>28 décembre</td><td>1989</td></tr>
@@ -1128,6 +1123,7 @@ Champ d’application le 3 mars 2016**[^t-3]**
 <tr><td>Haïti</td><td>11 décembre</td><td>1996</td><td>11 décembre</td><td>1996</td></tr>
 <tr><td>Honduras</td><td>30 juin</td><td>1992</td><td>30 juin</td><td>1992</td></tr>
 <tr><td>Hongrie</td><td>21 avril</td><td>1988</td><td>21 avril</td><td>1988</td></tr>
+<tr><td>Îles Salomon</td><td>27 octobre</td><td>2005</td><td>27 octobre</td><td>2005</td></tr>
 <tr><td>Inde</td><td>20 septembre</td><td>1993</td><td>6 janvier</td><td>1994</td></tr>
 <tr><td>Indonésie</td><td>26 septembre</td><td>1986</td><td>12 avril</td><td>1988</td></tr>
 <tr><td>Iran</td><td>15 décembre</td><td>2003</td><td>15 décembre</td><td>2003</td></tr>
@@ -1152,7 +1148,7 @@ Champ d’application le 3 mars 2016**[^t-3]**
 <tr><td>Libye</td><td>19 février</td><td>1992</td><td>5 avril</td><td>1993</td></tr>
 <tr><td>Lituanie</td><td>22 septembre</td><td>1992</td><td>8 juin</td><td>1993</td></tr>
 <tr><td>Luxembourg</td><td>4 juin</td><td>1991</td><td>29 août</td><td>1991</td></tr>
-<tr><td>Macédoine</td><td>6 septembre</td><td>1991</td><td>19 mars</td><td>1993</td></tr>
+<tr><td>Macédoine du Nord</td><td>6 septembre</td><td>1991</td><td>19 mars</td><td>1993</td></tr>
 <tr><td>Madagascar</td><td>8 juin</td><td>1988</td><td>8 juin</td><td>1988</td></tr>
 <tr><td>Malaisie</td><td>2 août</td><td>1991</td><td>6 décembre</td><td>1991</td></tr>
 <tr><td>Malawi</td><td>14 mai</td><td>1987</td><td>12 avril</td><td>1988</td></tr>
@@ -1204,9 +1200,8 @@ Champ d’application le 3 mars 2016**[^t-3]**
 <tr><td>Sainte-Lucie</td><td>25 juillet</td><td>1988</td><td>25 juillet</td><td>1988</td></tr>
 <tr><td>Saint-Kitts-et-Nevis</td><td>16 septembre</td><td>1999</td><td>21 septembre</td><td>1999</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>8 juin</td><td>1990</td><td>10 septembre</td><td>1990</td></tr>
-<tr><td>Salomon, Iles</td><td>27 octobre</td><td>2005</td><td>27 octobre</td><td>2005</td></tr>
 <tr><td>Samoa</td><td>17 mars</td><td>1987</td><td>12 avril</td><td>1988</td></tr>
-<tr><td>Sao Tomé-et-Principe</td><td>20 décembre</td><td>2012 A</td><td>20 décembre</td><td>2012</td></tr>
+<tr><td>Sao Tomé-et-Principe</td><td>20 décembre</td><td>2012</td><td>20 décembre</td><td>2012</td></tr>
 <tr><td>Sénégal</td><td>10 mars</td><td>1987</td><td>12 avril</td><td>1988</td></tr>
 <tr><td>Serbie</td><td>6 septembre</td><td>1991</td><td>19 mars</td><td>1993</td></tr>
 <tr><td>Seychelles</td><td>20 août</td><td>1992</td><td>15 septembre</td><td>1992</td></tr>
@@ -1214,13 +1209,13 @@ Champ d’application le 3 mars 2016**[^t-3]**
 <tr><td>Singapour</td><td>20 juin</td><td>1997</td><td>24 février</td><td>1998</td></tr>
 <tr><td>Slovaquie</td><td>20 septembre</td><td>1990</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Slovénie</td><td>6 septembre</td><td>1991</td><td>19 mars</td><td>1993</td></tr>
+<tr><td>Somalie</td><td>24 mars</td><td>2020</td><td>24 mars</td><td>2020</td></tr>
 <tr><td>Soudan</td><td>21 août</td><td>1991</td><td>7 novembre</td><td>1991</td></tr>
-<tr><td>Soudan du Sud</td><td>18 avril</td><td>2012 A</td><td>18 avril</td><td>2012</td></tr>
+<tr><td>Soudan du Sud</td><td>18 avril</td><td>2012</td><td>18 avril</td><td>2012</td></tr>
 <tr><td>Sri Lanka</td><td>27 mai</td><td>1988</td><td>27 mai</td><td>1988</td></tr>
 <tr><td>Suède</td><td>31 décembre</td><td>1987</td><td>12 avril</td><td>1988</td></tr>
 <tr><td>Suisse</td><td>8 février</td><td>1988</td><td>12 avril</td><td>1988</td></tr>
 <tr><td>Suriname</td><td>2 juillet</td><td>2003</td><td>2 juillet</td><td>2003</td></tr>
-<tr><td>Swaziland</td><td>3 avril</td><td>1990</td><td>18 avril</td><td>1990</td></tr>
 <tr><td>Syrie</td><td>14 mai</td><td>2002</td><td>14 mai</td><td>2002</td></tr>
 <tr><td>Tadjikistan</td><td>26 juillet</td><td>1993</td><td>9 décembre</td><td>2002</td></tr>
 <tr><td>Tanzanie</td><td>24 janvier</td><td>1991</td><td>19 juin</td><td>1992</td></tr>
@@ -1242,4 +1237,4 @@ Champ d’application le 3 mars 2016**[^t-3]**
 <tr><td>Zimbabwe</td><td>2 avril</td><td>1992</td><td>10 avril</td><td>1992</td></tr>
 </table>
 
-[^t-3]: [RO 2005 2103](https://fedlex.data.admin.ch/eli/oc/2005/339), [2010 4949](https://fedlex.data.admin.ch/eli/oc/2010/699), [2014 2045](https://fedlex.data.admin.ch/eli/oc/2014/352), [2016 993](https://fedlex.data.admin.ch/eli/oc/2016/178). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1989 641](https://fedlex.data.admin.ch/eli/oc/1989/641_641_641); [2005 2103](https://fedlex.data.admin.ch/eli/oc/2005/339); [2010 4949](https://fedlex.data.admin.ch/eli/oc/2010/699); [2014 2045](https://fedlex.data.admin.ch/eli/oc/2014/352); [2016 993](https://fedlex.data.admin.ch/eli/oc/2016/178); [2024 361](https://fedlex.data.admin.ch/eli/oc/2024/361). Une version du champ d'application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

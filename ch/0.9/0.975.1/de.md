@@ -3,11 +3,11 @@ sr: "0.975.1"
 title: Übereinkommen vom 11. Oktober 1985 zur Schaffung der Multilateralen Investitionsgarantieagentur (mit Beilagen und Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1989/641_641_641"
 language: de
-version: 2016-03-03
+version: 2024-07-11
 adopted: 1985-10-11
 in_force: 1988-04-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/641_641_641/20160303/de/xml/fedlex-data-admin-ch-eli-cc-1989-641_641_641-20160303-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1989/641_641_641/20160303/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1989/641_641_641/20240711/de/xml/fedlex-data-admin-ch-eli-cc-1989-641_641_641-20240711-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1989/641_641_641/20240711/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,20 +16,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/1989/641_641_641/20160303/de"
 
 AS **1989** 641; BBl **1987** I 146
 
-Übersetzung*[^t-1]*
+Übersetzung
 
 Abgeschlossen in Seoul am 11. Oktober 1985
 
-Von der Bundesversammlung genehmigt am 9. Oktober 1987[^t-2]
+Von der Bundesversammlung genehmigt am 9. Oktober 1987[^t-1]
 
 Schweizerische Ratifikationsurkunde hinterlegt am 8. Februar 1988
 
 In Kraft getreten für die Schweiz am 12. April 1988
 
-(Stand am 3. März 2016)
+(Stand am 11. Juli 2024)
 
-[^t-1]: Übersetzung des englischen Originaltextes.
-[^t-2]: [AS 1989 640](https://fedlex.data.admin.ch/eli/oc/1989/640_640_640)
+[^t-1]: [AS 1989 640](https://fedlex.data.admin.ch/eli/oc/1989/640_640_640)
 
 *Präambel*
 
@@ -765,7 +764,7 @@ Die in diesem Übereinkommen enthaltenen Bestimmungen über die Bewertung von W�
 
 **Rückversicherung**
 
-a) Die Agentur kann ein Mitglied, die Organisation eines Mitglieds, eine regionale Organisation gemäss Artikel 20 Absatz a) dieses Übereinkommens oder einen privaten Versicherer in einem Mitgliedstaat zu den in Artikel 1 dieser Beilage enthaltenen Bedingungen rückversichern. Die Bestimmungen dieser Beilage über Garantien und die Bestimmungen der Artikel 20 und 21 dieses Übereinkommens gelten *mut**a**tis mutandis* für die aufgrund dieses Absatzes gewährten Rückversicherungen.
+a) Die Agentur kann ein Mitglied, die Organisation eines Mitglieds, eine regionale Organisation gemäss Artikel 20 Absatz a) dieses Übereinkommens oder einen privaten Versicherer in einem Mitgliedstaat zu den in Artikel 1 dieser Beilage enthaltenen Bedingungen rückversichern. Die Bestimmungen dieser Beilage über Garantien und die Bestimmungen der Artikel 20 und 21 dieses Übereinkommens gelten *mutatis mutandis* für die aufgrund dieses Absatzes gewährten Rückversicherungen.
 
 b) Die Agentur kann die von ihr im Rahmen dieser Beilage garantierten Investitionen rückversichern lassen. Die Kosten für solche Rückversicherungen deckt sie aus dem Treuhandfonds. Der Exekutivrat kann entscheiden, ob und in welchem Mass die in Artikel 1 Absatz b) dieses Anhangs vorgesehene gemeinsame Haftung für Verluste der am Fonds beteiligten Mitgliedstaaten aufgrund einer Rückversicherungsdeckung herabgesetzt werden kann.
 
@@ -886,7 +885,7 @@ Anhang A
 <tr><td></td><td>59 473</td><td>594,73</td></tr>
 </table>
 
-### Kategorie II****
+### Kategorie II
 
 [^annexA-lvlu1-lvlu2-1]
 
@@ -1052,7 +1051,7 @@ Anhang B
 
 \11. Sind nach dem zweiten Wahlgang noch nicht alle Direktoren gewählt, so werden so viele Wahlgänge nach demselben Verfahren durchgeführt, wie zur Wahl aller Direktoren erforderlich sind. Bleibt nur noch ein einziger Direktor zu wählen, so kann dieser mit der Mehrheit der restlichen Stimmen gewählt werden und gilt dann als einstimmig gewählt.
 
-Geltungsbereich am 3. März 2016**[^t-3]**
+Geltungsbereich am 11. Juli 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -1098,6 +1097,7 @@ Geltungsbereich am 3. März 2016**[^t-3]**
 <tr><td>El Salvador</td><td>17. Juni</td><td>1991</td><td>20. Dezember</td><td>1991</td></tr>
 <tr><td>Eritrea</td><td>11. Oktober</td><td>1995</td><td>10. September</td><td>1996</td></tr>
 <tr><td>Estland</td><td>24. September</td><td>1992</td><td>24. September</td><td>1992</td></tr>
+<tr><td>Eswatini</td><td>3. April</td><td>1990</td><td>18. April</td><td>1990</td></tr>
 <tr><td>Fidschi</td><td>24. Mai</td><td>1990</td><td>24. September</td><td>1990</td></tr>
 <tr><td>Finnland</td><td>28. Dezember</td><td>1988</td><td>28. Dezember</td><td>1988</td></tr>
 <tr><td>Frankreich</td><td>28. Dezember</td><td>1989</td><td>28. Dezember</td><td>1989</td></tr>
@@ -1134,7 +1134,7 @@ Geltungsbereich am 3. März 2016**[^t-3]**
 <tr><td>Kenia</td><td>28. November</td><td>1988</td><td>28. November</td><td>1988</td></tr>
 <tr><td>Kirgisistan</td><td>28. September</td><td>1992</td><td>21. September</td><td>1993</td></tr>
 <tr><td>Kolumbien</td><td>8. September</td><td>1995</td><td>30. November</td><td>1995</td></tr>
-<tr><td>Komoren</td><td>25. Februar</td><td>2013 B</td><td>25. Februar</td><td>2013</td></tr>
+<tr><td>Komoren</td><td>25. Februar</td><td>2013</td><td>25. Februar</td><td>2013</td></tr>
 <tr><td>Kongo (Brazzaville)</td><td>5. Juli</td><td>1990</td><td>16. Oktober</td><td>1991</td></tr>
 <tr><td>Kongo (Kinshasa)</td><td>7. Februar</td><td>1989</td><td>7. Februar</td><td>1989</td></tr>
 <tr><td>Korea (Süd-)</td><td>24. November</td><td>1987</td><td>12. April</td><td>1988</td></tr>
@@ -1158,7 +1158,6 @@ Geltungsbereich am 3. März 2016**[^t-3]**
 <tr><td>Marokko</td><td>16. September</td><td>1992</td><td>17. September</td><td>1992</td></tr>
 <tr><td>Mauretanien</td><td>8. Oktober</td><td>1991</td><td>8. September</td><td>1992</td></tr>
 <tr><td>Mauritius</td><td>19. Oktober</td><td>1990</td><td>28. Dezember</td><td>1990</td></tr>
-<tr><td>Mazedonien</td><td>6. September</td><td>1991</td><td>19. März</td><td>1993</td></tr>
 <tr><td>Mexiko</td><td>1. Juli</td><td>2009</td><td>1. Juli</td><td>2009</td></tr>
 <tr><td>Mikronesien</td><td>11. August</td><td>1993</td><td>11. August</td><td>1993</td></tr>
 <tr><td>Moldau</td><td>22. September</td><td>1992</td><td>9. Juni</td><td>1993</td></tr>
@@ -1177,6 +1176,7 @@ Geltungsbereich am 3. März 2016**[^t-3]**
 <tr><td>Sint Maarten</td><td>9. Oktober</td><td>1987</td><td>12. April</td><td>1988</td></tr>
 <tr><td>Niger</td><td>10. Mai</td><td>2012</td><td>10. Mai</td><td>2012</td></tr>
 <tr><td>Nigeria</td><td>8. März</td><td>1988</td><td>12. April</td><td>1988</td></tr>
+<tr><td>Nordmazedonien</td><td>6. September</td><td>1991</td><td>19. März</td><td>1993</td></tr>
 <tr><td>Norwegen</td><td>3. Juli</td><td>1989</td><td>9. August</td><td>1989</td></tr>
 <tr><td>Oman</td><td>24. Januar</td><td>1989</td><td>24. Januar</td><td>1989</td></tr>
 <tr><td>Österreich</td><td>17. September</td><td>1997</td><td>16. Dezember</td><td>1997</td></tr>
@@ -1195,7 +1195,7 @@ Geltungsbereich am 3. März 2016**[^t-3]**
 <tr><td>Salomoninseln</td><td>27. Oktober</td><td>2005</td><td>27. Oktober</td><td>2005</td></tr>
 <tr><td>Sambia</td><td>6. Juni</td><td>1988</td><td>6. Juni</td><td>1988</td></tr>
 <tr><td>Samoa</td><td>17. März</td><td>1987</td><td>12. April</td><td>1988</td></tr>
-<tr><td>São Tomé und Príncipe</td><td>20. Dezember</td><td>2012 B</td><td>20. Dezember</td><td>2012</td></tr>
+<tr><td>São Tomé und Príncipe</td><td>20. Dezember</td><td>2012</td><td>20. Dezember</td><td>2012</td></tr>
 <tr><td>Saudi-Arabien</td><td>6. August</td><td>1986</td><td>12. April</td><td>1988</td></tr>
 <tr><td>Schweden</td><td>31. Dezember</td><td>1987</td><td>12. April</td><td>1988</td></tr>
 <tr><td>Schweiz</td><td>8. Februar</td><td>1988</td><td>12. April</td><td>1988</td></tr>
@@ -1207,6 +1207,7 @@ Geltungsbereich am 3. März 2016**[^t-3]**
 <tr><td>Singapur</td><td>20. Juni</td><td>1997</td><td>24. Februar</td><td>1998</td></tr>
 <tr><td>Slowakei</td><td>20. September</td><td>1990</td><td>1. Januar</td><td>1993</td></tr>
 <tr><td>Slowenien</td><td>6. September</td><td>1991</td><td>19. März</td><td>1993</td></tr>
+<tr><td>Somalia</td><td>24. März</td><td>2020</td><td>24. März</td><td>2020</td></tr>
 <tr><td>Spanien</td><td>29. April</td><td>1988</td><td>29. April</td><td>1988</td></tr>
 <tr><td>Sri Lanka</td><td>27. Mai</td><td>1988</td><td>27. Mai</td><td>1988</td></tr>
 <tr><td>St. Kitts und Nevis</td><td>16. September</td><td>1999</td><td>21. September</td><td>1999</td></tr>
@@ -1214,9 +1215,8 @@ Geltungsbereich am 3. März 2016**[^t-3]**
 <tr><td>St. Vincent und die Grenadinen</td><td>8. Juni</td><td>1990</td><td>10. September</td><td>1990</td></tr>
 <tr><td>Südafrika</td><td>2. März</td><td>1994</td><td>10. März</td><td>1994</td></tr>
 <tr><td>Sudan</td><td>21. August</td><td>1991</td><td>7. November</td><td>1991</td></tr>
-<tr><td>Südsudan</td><td>18. April</td><td>2012 B</td><td>18. April</td><td>2012</td></tr>
+<tr><td>Südsudan</td><td>18. April</td><td>2012</td><td>18. April</td><td>2012</td></tr>
 <tr><td>Suriname</td><td>2. Juli</td><td>2003</td><td>2. Juli</td><td>2003</td></tr>
-<tr><td>Swasiland</td><td>3. April</td><td>1990</td><td>18. April</td><td>1990</td></tr>
 <tr><td>Syrien</td><td>14. Mai</td><td>2002</td><td>14. Mai</td><td>2002</td></tr>
 <tr><td>Tadschikistan</td><td>26. Juli</td><td>1993</td><td>9. Dezember</td><td>2002</td></tr>
 <tr><td>Tansania</td><td>24. Januar</td><td>1991</td><td>19. Juni</td><td>1992</td></tr>
@@ -1244,4 +1244,4 @@ Geltungsbereich am 3. März 2016**[^t-3]**
 <tr><td>Zypern</td><td>11. März</td><td>1987</td><td>12. April</td><td>1988</td></tr>
 </table>
 
-[^t-3]: [AS 2005 2103](https://fedlex.data.admin.ch/eli/oc/2005/339), [2010 4949](https://fedlex.data.admin.ch/eli/oc/2010/699), [2014 2045](https://fedlex.data.admin.ch/eli/oc/2014/352)und [2016 993](https://fedlex.data.admin.ch/eli/oc/2016/178). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2005 2103](https://fedlex.data.admin.ch/eli/oc/2005/339); [2010 4949](https://fedlex.data.admin.ch/eli/oc/2010/699); [2014 2045](https://fedlex.data.admin.ch/eli/oc/2014/352); [2016 993](https://fedlex.data.admin.ch/eli/oc/2016/178)und [2024 361](https://fedlex.data.admin.ch/eli/oc/2024/361). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
