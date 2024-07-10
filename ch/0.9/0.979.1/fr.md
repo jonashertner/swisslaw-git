@@ -3,11 +3,11 @@ sr: "0.979.1"
 title: "Statuts du Fonds monétaire international, du 22 juillet 1944 (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2571_2571_2571"
 language: fr
-version: 2019-10-09
+version: 2024-07-11
 adopted: 1944-07-22
 in_force: 1992-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2571_2571_2571/20191009/fr/xml/fedlex-data-admin-ch-eli-cc-1992-2571_2571_2571-20191009-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2571_2571_2571/20191009/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2571_2571_2571/20240711/fr/xml/fedlex-data-admin-ch-eli-cc-1992-2571_2571_2571-20240711-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2571_2571_2571/20240711/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,17 +18,9 @@ RO **1992** 2571; FF **1991** II 1121
 
 Traduction
 
-Adoptés à Bretton Woods le 22 juillet 1944
+Adoptés à Bretton Woods le 22 juillet 1944 Modifiés les 31 mai 1968 et 30 avril 1976 Approuvés par l’Assemblée fédérale le 4 octobre 1991[^t-1] Signés et acceptés par la Suisse le 29 mai 1992 Entrés en vigueur pour la Suisse le 29 mai 1992
 
-Modifiés les 31 mai 1968 et 30 avril 1976
-
-Approuvés par l’Assemblée fédérale le 4 octobre 1991[^t-1]
-
-Signés et acceptés par la Suisse le 29 mai 1992
-
-Entrés en vigueur pour la Suisse le 29 mai 1992
-
-(Etat le 9 octobre 2019)
+(État le 11 juillet 2024)
 
 [^t-1]: RO 1**992** 2570
 
@@ -464,7 +456,7 @@ Le Fonds collabore, dans le cadre des présents Statuts, avec les organisations 
 
 ### Section 1: Engagements relatifs aux relations avec les États non membres
 
-Les États membres s’engagent
+Les États membres s’engagent:
 
 - i) à ne pas effectuer et à ne permettre à aucune des institutions financières publiques visées à la section 1 de l’art. V d’effectuer, avec un État non membre ou avec des personnes sur les territoires de cet État, des transactions qui sont contraires aux dispositions des présents Statuts ou aux buts du Fonds;
 - ii) à ne pas coopérer avec un État non membre, ou avec des personnes sur les territoires de cet État, à des pratiques qui sont contraires aux dispositions des présents Statuts ou aux buts du Fonds;
@@ -615,7 +607,7 @@ Le Fonds établit chaque année un rapport sur les restrictions de change en vig
 
 **Droits de tirage spéciaux**
 
-### Section 1:** Autorisation d’allouer des droits de tirage spéciaux
+### Section 1: Autorisation d’allouer des droits de tirage spéciaux
 
 [^XV-subdivu1-1]
 
@@ -884,9 +876,7 @@ En vue de faciliter le règlement avec le participant qui se retire, le Fonds pe
 
 Tout État membre peut se retirer du Fonds à tout moment en lui notifiant par écrit sa décision, adressée au siège du Fonds. Le retrait prend effet à la date de la réception de la notification.
 
-### Section 2**: Retrait obligatoire
-
-[^XXVI-subdivu2-1]
+### Section 2[^XXVI-subdivu2-1]: Retrait obligatoire
 
 [^XXVI-subdivu2-1]: Nouvelle teneur selon l’Am. du 28 juin 1990, en vigueur pour la Suisse depuis le 11 nov. 1992 ([RO 1993 2351](https://fedlex.data.admin.ch/eli/oc/1993/2351_2351_2351)).
 
@@ -999,7 +989,7 @@ Le présent Accord entre en vigueur dès qu’il est signé au nom des gouvernem
 
 Fait à Washington, en un seul exemplaire qui est déposé dans les Archives du Gouvernement des États‑Unis d’Amérique, lequel doit en faire parvenir des copies certifiées conformes à tous les gouvernements énumérés à l’annexe A et à tous ceux qui seront admis en qualité de membres aux termes des dispositions de l’art. II, section 2. (Suivent les signatures)
 
-Annexe A*[^t-2]*
+Annexe A[^t-2]
 
 ## Quotes-parts
 
@@ -1250,7 +1240,7 @@ Annexe C
 
 \11. Nonobstant les dispositions du par. 6 ci‑dessus, le Fonds peut, à la majorité de 70 % du nombre total des voix attribuées, modifier dans des proportions uniformes toutes les parités, si le droit de tirage spécial est le dénominateur commun et si la modification n’affecte pas la valeur du droit de tirage spécial. Toutefois, la parité de la monnaie d’un État membre n’est pas modifiée en application de la présente disposition si, dans les sept jours qui suivent la décision du Fonds, l’État membre notifie au Fonds qu’il ne souhaite pas que la parité de sa monnaie soit modifiée par cette décision.
 
-Annexe D*[^t-3]*
+Annexe D[^t-3]
 
 ## Le Collège
 
@@ -1274,7 +1264,7 @@ Annexe D*[^t-3]*
 
 \6. La première phrase de la section 2, par. a), de l’art. XII est réputée contenir une référence au Collège.
 
-Annexe E*[^t-4]*
+Annexe E[^t-4]
 
 ## Dispositions provisoires relatives aux directeurs exécutifs
 
@@ -1420,7 +1410,7 @@ Annexe K
 
 \10. Aux fins de la présente annexe, les quotes‑parts sont réputées avoir été augmentées dans toute la mesure où elles pouvaient l’être conformément aux dispositions de la section 2, par. b), de l’art. III des présents Statuts.
 
-Annexe L*[^t-5]*
+Annexe L[^t-5]
 
 ## Suspension des droits de vote
 
@@ -1448,7 +1438,7 @@ En cas de suspension des droits de vote d’un État membre en vertu de la secti
 
 \4. L’État membre est habilité à déléguer un représentant pour assister à toute réunion du Conseil des gouverneurs, du collège ou du conseil d’administration, lorsque ces réunions sont consacrées à l’examen d’une demande faite par ledit État membre ou d’une question qui le concerne particulièrement, mais non aux réunions des comités de ces organes, lorsque ces questions y sont examinées.
 
-Annexe M*[^t-6]*
+Annexe M[^t-6]
 
 ## Allocation spéciale de droits de tirage spéciaux à caractère exceptionnel
 
@@ -1493,7 +1483,7 @@ Annexe M*[^t-6]*
 - c) Aux fins de ce paragraphe, les impayés au titre d’obligations envers le Fonds sont les impayés au titre de rachats et commissions au Compte des ressources générales, au titre du principal et des intérêts sur les prêts du Compte de versements spécial, au titre de commissions et prélèvements au Département des droits de tirage spéciaux et au titre d’engagements envers le Fonds en sa qualité de fiduciaire.
 - d) Sous réserve des dispositions du présent paragraphe, le principe de la séparation du Département général et du Département des droits de tirage spéciaux sera maintenu, de même que sera préservé le caractère d’actif de réserve inconditionnel des droits de tirage spéciaux.
 
-## Résolution 66-2 du 15 décembre 2010 sur les quotes-parts et la réforme du Conseil d’administration****
+## Résolution 66-2 du 15 décembre 2010 sur les quotes-parts et la réforme du Conseil d’administration
 
 [^annexM-lvlu2-1]
 
@@ -1569,19 +1559,20 @@ Chaque État membre fera de son mieux pour achever ce processus d’ici l’Asse
 
 \17. Le Conseil des gouverneurs prend note: (i) de l’engagement à réduire de deux sièges la représentation des pays européens avancés au Conseil d’administration au plus tard au moment de la première élection ordinaire après le respect des conditions fixées au par. 3 de la présente résolution, afin de parvenir à une meilleure représentation des pays émergents et des pays en développement; et (ii) de l’engagement des membres du Fonds à maintenir le nombre des directeurs exécutifs à 24 et à examiner la composition du Conseil d’administration tous les huit ans, à partir du moment où les conditions fixées au par. 3 de la présente résolution seront respectées.
 
-Annexes I et II*[^t-7]*
+Annexes I et II[^t-7]
 
 [^t-7]: Les mod. peuvent être consultées au [RO 2016 2069](https://fedlex.data.admin.ch/eli/oc/2016/339).
 
-Champ d’application le 9 octobre 2019**[^t-8]**
+Champ d’application le 11 juillet 2024[^t-8]
 
 <table>
-<tr><th>États parties</th><th>Acceptation[^t-9] Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afghanistan</td><td>14 juillet</td><td>1955</td><td>14 juillet</td><td>1955</td></tr>
 <tr><td>Afrique du Sud</td><td>26 décembre</td><td>1945</td><td>27 décembre</td><td>1945</td></tr>
 <tr><td>Albanie</td><td>15 octobre</td><td>1991</td><td>15 octobre</td><td>1991</td></tr>
 <tr><td>Algérie</td><td>26 septembre</td><td>1963</td><td>26 septembre</td><td>1963</td></tr>
 <tr><td>Allemagne</td><td>14 août</td><td>1952</td><td>14 août</td><td>1952</td></tr>
+<tr><td>Andorre</td><td>16 octobre</td><td>2020</td><td>16 octobre</td><td>2020</td></tr>
 <tr><td>Angola</td><td>19 septembre</td><td>1989</td><td>19 septembre</td><td>1989</td></tr>
 <tr><td>Antigua-et-Barbuda</td><td>25 février</td><td>1982</td><td>25 février</td><td>1982</td></tr>
 <tr><td>Arabie Saoudite</td><td>26 août</td><td>1957</td><td>26 août</td><td>1957</td></tr>
@@ -1654,6 +1645,7 @@ Champ d’application le 9 octobre 2019**[^t-8]**
 <tr><td>Honduras</td><td>26 décembre</td><td>1945</td><td>27 décembre</td><td>1945</td></tr>
 <tr><td>Hongrie</td><td>6 mai</td><td>1982</td><td>6 mai</td><td>1982</td></tr>
 <tr><td>Îles Marshall</td><td>21 mai</td><td>1992</td><td>21 mai</td><td>1992</td></tr>
+<tr><td>Îles Salomon</td><td>22 septembre</td><td>1978</td><td>22 septembre</td><td>1978</td></tr>
 <tr><td>Inde</td><td>27 décembre</td><td>1945</td><td>27 décembre</td><td>1945</td></tr>
 <tr><td>Indonésie</td><td>21 février</td><td>1967</td><td>21 février</td><td>1967</td></tr>
 <tr><td>Iran</td><td>29 décembre</td><td>1945</td><td>29 décembre</td><td>1945</td></tr>
@@ -1697,7 +1689,7 @@ Champ d’application le 9 octobre 2019**[^t-8]**
 <tr><td>Mozambique</td><td>24 septembre</td><td>1984</td><td>24 septembre</td><td>1984</td></tr>
 <tr><td>Myanmar</td><td>3 janvier</td><td>1952</td><td>3 janvier</td><td>1952</td></tr>
 <tr><td>Namibie</td><td>25 septembre</td><td>1990</td><td>25 septembre</td><td>1990</td></tr>
-<tr><td>Nauru</td><td>12 avril</td><td>2016 A</td><td>12 avril</td><td>2016</td></tr>
+<tr><td>Nauru</td><td>12 avril</td><td>2016</td><td>12 avril</td><td>2016</td></tr>
 <tr><td>Népal</td><td>6 septembre</td><td>1961</td><td>6 septembre</td><td>1961</td></tr>
 <tr><td>Nicaragua</td><td>14 mars</td><td>1946</td><td>14 mars</td><td>1946</td></tr>
 <tr><td>Niger</td><td>24 avril</td><td>1963</td><td>24 avril</td><td>1963</td></tr>
@@ -1729,7 +1721,6 @@ Champ d’application le 9 octobre 2019**[^t-8]**
 <tr><td>Saint-Kitts-et-Nevis</td><td>15 août</td><td>1984</td><td>15 août</td><td>1984</td></tr>
 <tr><td>Saint-Marin</td><td>23 septembre</td><td>1992</td><td>23 septembre</td><td>1992</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>28 décembre</td><td>1979</td><td>28 décembre</td><td>1979</td></tr>
-<tr><td>Salomon, Îles</td><td>22 septembre</td><td>1978</td><td>22 septembre</td><td>1978</td></tr>
 <tr><td>Samoa</td><td>28 décembre</td><td>1971</td><td>28 décembre</td><td>1971</td></tr>
 <tr><td>Sao Tomé-et-Principe</td><td>30 septembre</td><td>1977</td><td>30 septembre</td><td>1977</td></tr>
 <tr><td>Sénégal</td><td>31 août</td><td>1962</td><td>31 août</td><td>1962</td></tr>
@@ -1769,5 +1760,4 @@ Champ d’application le 9 octobre 2019**[^t-8]**
 <tr><td>Zimbabwe</td><td>29 septembre</td><td>1980</td><td>29 septembre</td><td>1980</td></tr>
 </table>
 
-[^t-8]: RO **1992** 2641, [2005 2109](https://fedlex.data.admin.ch/eli/oc/2005/340), [2011 1737](https://fedlex.data.admin.ch/eli/oc/2011/260), [2014 2459](https://fedlex.data.admin.ch/eli/oc/2014/429), [2019 3217](https://fedlex.data.admin.ch/eli/oc/2019/590). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
-[^t-9]: La date de l’acceptation est aussi la date de la signature.
+[^t-8]: [RO 1992 2571](https://fedlex.data.admin.ch/eli/oc/1992/2571_2571_2571); [2005 2109](https://fedlex.data.admin.ch/eli/oc/2005/340); [2011 1737](https://fedlex.data.admin.ch/eli/oc/2011/260); [2014 2459](https://fedlex.data.admin.ch/eli/oc/2014/429); [2019 3217](https://fedlex.data.admin.ch/eli/oc/2019/590); [2024 362](https://fedlex.data.admin.ch/eli/oc/2024/362). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

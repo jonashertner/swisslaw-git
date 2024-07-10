@@ -3,11 +3,11 @@ sr: "0.979.1"
 title: Übereinkommen vom 22. Juli 1944 über den Internationalen Währungsfonds (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2571_2571_2571"
 language: de
-version: 2019-10-09
+version: 2024-07-11
 adopted: 1944-07-22
 in_force: 1992-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2571_2571_2571/20191009/de/xml/fedlex-data-admin-ch-eli-cc-1992-2571_2571_2571-20191009-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2571_2571_2571/20191009/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2571_2571_2571/20240711/de/xml/fedlex-data-admin-ch-eli-cc-1992-2571_2571_2571-20240711-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2571_2571_2571/20240711/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -28,7 +28,7 @@ Durch die Schweiz unterzeichnet und angenommen am 29. Mai 1992
 
 In Kraft getreten für die Schweiz am 29. Mai 1992
 
-(Stand am 9. Oktober 2019)
+(Stand am 11. Juli 2024)
 
 [^t-1]: [AS 1992 2570](https://fedlex.data.admin.ch/eli/oc/1992/2570_2570_2570)
 
@@ -604,7 +604,7 @@ Der Fonds erstattet Jahresberichte über die nach Abschnitt 2 geltenden Beschrä
 
 **Sonderziehungsrechte**
 
-### Abschnitt 1:** Befugnis zur Zuteilung von Sonderziehungsrechten
+### Abschnitt 1: Befugnis zur Zuteilung von Sonderziehungsrechten
 
 [^XV-subdivu1-1]
 
@@ -864,7 +864,7 @@ Um den Ausgleich mit einem ausscheidenden Teilnehmer zu erleichtern, kann der Fo
 
 Ein Mitglied kann jederzeit durch eine an die Zentrale des Fonds gerichtete schriftliche Mitteilung seinen Austritt aus dem Fonds erklären. Der Austritt wird bei Eingang der Mitteilung wirksam.
 
-### Abschnitt 2:** Zwangsweises Ausscheiden
+### Abschnitt 2: Zwangsweises Ausscheiden
 
 [^XXVI-subdivu2-1]
 
@@ -980,7 +980,7 @@ Geschehen zu Washington in einer Urschrift, die im Archiv der Regierung der Vere
 
 (Es folgen die Unterschriften)
 
-Anhang A*[^t-2]*
+Anhang A[^t-2]
 
 ## Quoten
 
@@ -1231,7 +1231,7 @@ Anhang C
 
 \11. Ungeachtet des Absatzes 6 kann der Fonds mit einer Mehrheit von siebzig Prozent aller Stimmen einheitliche proportionale Änderungen aller Paritäten vornehmen, wenn das Sonderziehungsrecht gemeinsamer Nenner ist und die Änderungen keine Auswirkung auf den Wert des Sonderziehungsrechts haben. Die Parität der Währung eines Mitglieds darf jedoch auf Grund dieser Bestimmung nicht geändert werden, wenn das Mitglied innerhalb von sieben Tagen nach dem Beschluss des Fonds diesen davon unterrichtet, dass es eine Änderung der Parität seiner Währung durch diesen Beschluss nicht wünscht.
 
-Anhang D*[^t-3]*
+Anhang D[^t-3]
 
 ## Rat auf Ministerebene
 
@@ -1411,7 +1411,7 @@ Anhang K
 
 \10. Für die Zwecke dieses Anhangs wird davon ausgegangen, dass die Quoten im vollen Umfang auf das Ausmass erhöht worden sind, auf das sie nach Artikel III Abschnitt 2 Buchstabe b hätten erhöht werden können.
 
-Anhang L*[^t-4]*
+Anhang L[^t-4]
 
 ## Aussetzung von Stimmrechten
 
@@ -1439,7 +1439,7 @@ Im Falle einer Aussetzung der Stimmrechte eines Mitglieds nach Artikel XXVI Absc
 
 \4. Das Mitglied ist berechtigt, einen Vertreter zu den Sitzungen des Gouverneursrats, des Rats auf Ministerebene oder des Exekutivdirektoriums – nicht jedoch zu einer Sitzung ihrer Ausschüsse – zu entsenden, wenn ein von dem Mitglied gestellter Antrag oder eine dieses Mitglied besonders berührende Angelegenheit behandelt wird.
 
-Anhang M*[^t-5]*
+Anhang M[^t-5]
 
 ## Einmalige Sonderzuteilung von Sonderziehungsrechten
 
@@ -1484,7 +1484,7 @@ Anhang M*[^t-5]*
 - c) Für die Zwecke dieses Absatzes sind Zahlungsrückstände gegenüber dem Fonds überfällige Rückkäufe und Gebühren im Allgemeinen Konto, überfällige Tilgungen und Zinsen auf Darlehen im Konto für Sonderverwendungen, überfällige Gebühren und Umlagen in der Sonderziehungsrechts-Abteilung und überfällige Verbindlichkeiten gegenüber dem Fonds als Treuhänder.
 - d) Mit Ausnahme der Bestimmungen dieses Absatzes bleiben der Grundsatz der Trennung zwischen der Allgemeinen Abteilung und der Sonderziehungsrechts-Abteilung und die Eigenschaft der Sonderziehungsrechte als unkonditionierte Währungsreserven unangetastet.
 
-## Resolution 66-2 vom 15. Dezember 2010**** über die 14. Allgemeine Quotenüberprüfung und die Reform des Exekutivdirektoriums
+## Resolution 66-2 vom 15. Dezember 2010 über die 14. Allgemeine Quotenüberprüfung und die Reform des Exekutivdirektoriums
 
 [^annexM-lvlu2-1]
 
@@ -1560,18 +1560,19 @@ Jedes Mitglied verpflichtet sich, die zur Erfüllung der Voraussetzungen erforde
 
 \17. Der Gouverneursrat nimmt Kenntnis: (i) von der Verpflichtung, die Anzahl der Exekutivdirektoren, die fortschrittliche europäische Länder repräsentieren, bis spätestens zur ersten ordentlichen Wahl der Exekutivdirektoren nach Erfüllung der in Abschnitt 3 dieser Resolution festgelegten Bedingungen zu vermindern, um dadurch eine verbesserte Vertretung der Schwellen- und Entwicklungsländer zu erreichen; und (ii) von der Verpflichtung der Mitglieder des Fonds, ein Exekutivdirektorium mit 24 Exekutivdirektoren beizubehalten und die Zusammensetzung des Exekutivdirektoriums ab dem Zeitpunkt, an dem die Bedingungen gemäss Abschnitt 3 dieser Resolution erfüllt sind, alle acht Jahre zu überprüfen.
 
-Anhang I und II*[^t-6]*
+Anhang I und II[^t-6]
 
 [^t-6]: Die Änderungen können unter [AS 2016 2069](https://fedlex.data.admin.ch/eli/oc/2016/339)konsultiert werden.
 
-Geltungsbereich am 9. Oktober 2019**[^t-7]**
+Geltungsbereich am 11. Juli 2024[^t-7]
 
 <table>
-<tr><th>[tab] Vertragsstaaten</th><th>[tab] Ratifikation [tab] Beitritt (B) [tab] Nachfolge- erklärung (N)</th><th>[tab]</th><th>[tab] Inkrafttreten</th><th>[tab]</th></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Afghanistan</td><td>14. Juli</td><td>1955</td><td>14. Juli</td><td>1955</td></tr>
 <tr><td>Ägypten</td><td>26. Dezember</td><td>1945</td><td>27. Dezember</td><td>1945</td></tr>
 <tr><td>Albanien</td><td>15. Oktober</td><td>1991</td><td>15. Oktober</td><td>1991</td></tr>
 <tr><td>Algerien</td><td>26. September</td><td>1963</td><td>26. September</td><td>1963</td></tr>
+<tr><td>Andorra</td><td>16. Oktober</td><td>2020</td><td>16. Oktober</td><td>2020</td></tr>
 <tr><td>Angola</td><td>19. September</td><td>1989</td><td>19. September</td><td>1989</td></tr>
 <tr><td>Antigua und Barbuda</td><td>25. Februar</td><td>1982</td><td>25. Februar</td><td>1982</td></tr>
 <tr><td>Äquatorialguinea</td><td>22. Dezember</td><td>1969</td><td>22. Dezember</td><td>1969</td></tr>
@@ -1682,7 +1683,7 @@ Geltungsbereich am 9. Oktober 2019**[^t-7]**
 <tr><td>Mosambik</td><td>24. September</td><td>1984</td><td>24. September</td><td>1984</td></tr>
 <tr><td>Myanmar</td><td>3. Januar</td><td>1952</td><td>3. Januar</td><td>1952</td></tr>
 <tr><td>Namibia</td><td>25. September</td><td>1990</td><td>25. September</td><td>1990</td></tr>
-<tr><td>Nauru</td><td>12. April</td><td>2016 B</td><td>12. April</td><td>2016</td></tr>
+<tr><td>Nauru</td><td>12. April</td><td>2016</td><td>12. April</td><td>2016</td></tr>
 <tr><td>Nepal</td><td>6. September</td><td>1961</td><td>6. September</td><td>1961</td></tr>
 <tr><td>Neuseeland</td><td>31. August</td><td>1961</td><td>31. August</td><td>1961</td></tr>
 <tr><td>Nicaragua</td><td>14. März</td><td>1946</td><td>14. März</td><td>1946</td></tr>
@@ -1760,4 +1761,4 @@ Geltungsbereich am 9. Oktober 2019**[^t-7]**
 <tr><td>Zypern</td><td>21. Dezember</td><td>1961</td><td>21. Dezember</td><td>1961</td></tr>
 </table>
 
-[^t-7]: [AS 1992 2571](https://fedlex.data.admin.ch/eli/oc/1992/2571_2571_2571), [2005 2109](https://fedlex.data.admin.ch/eli/oc/2005/340), [2011 1737](https://fedlex.data.admin.ch/eli/oc/2011/260), [2014 2459](https://fedlex.data.admin.ch/eli/oc/2014/429), [2019 3217](https://fedlex.data.admin.ch/eli/oc/2019/590). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-7]: [AS 1992 2571](https://fedlex.data.admin.ch/eli/oc/1992/2571_2571_2571); [2005 2109](https://fedlex.data.admin.ch/eli/oc/2005/340); [2011 1737](https://fedlex.data.admin.ch/eli/oc/2011/260); [2014 2459](https://fedlex.data.admin.ch/eli/oc/2014/429); [2019 3217](https://fedlex.data.admin.ch/eli/oc/2019/590)und [2024 362](https://fedlex.data.admin.ch/eli/oc/2024/362). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

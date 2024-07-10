@@ -3,11 +3,11 @@ sr: "0.979.1"
 title: "Statuto del Fondo monetario internazionale, del 22 luglio 1944 (con All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2571_2571_2571"
 language: it
-version: 2019-10-09
+version: 2024-07-11
 adopted: 1944-07-22
 in_force: 1992-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2571_2571_2571/20191009/it/xml/fedlex-data-admin-ch-eli-cc-1992-2571_2571_2571-20191009-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2571_2571_2571/20191009/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2571_2571_2571/20240711/it/xml/fedlex-data-admin-ch-eli-cc-1992-2571_2571_2571-20240711-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2571_2571_2571/20240711/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,17 +18,9 @@ RU **1992** 2571; FF **1991** II 949
 
 Traduzione
 
-Adottato a Bretton Woods il 22 luglio 1944
+Adottato a Bretton Woods il 22 luglio 1944 Modificato il 31 maggio 1968 e il 30 aprile 1976 Approvato dall’Assemblea federale il 4 ottobre 1991[^t-1] Firmato e accettato dalla Svizzera il 29 maggio 1992 Entrato in vigore per la Svizzera il 29 maggio 1992
 
-Modificato il 31 maggio 1968 e il 30 aprile 1976
-
-Approvato dall’Assemblea federale il 4 ottobre 1991[^t-1]
-
-Firmato e accettato dalla Svizzera il 29 maggio 1992
-
-Entrato in vigore per la Svizzera il 29 maggio 1992
-
-(Stato 9 ottobre 2019)
+(Stato 11 luglio 2024)
 
 [^t-1]: [RU 1992 2570](https://fedlex.data.admin.ch/eli/oc/1992/2570_2570_2570)
 
@@ -889,9 +881,7 @@ Allo scopo di facilitare il regolamento con un partecipante uscente, il Fondo pu
 
 Ogni partecipante può recedere dal Fondo, in qualsiasi momento, inviando una comunicazione scritta al Fondo presso la sede centrale. Il ritiro diventa operante dalla data di ricevimento di tale comunicazione.
 
-### Sezione 2**: Ritiro obbligatorio
-
-[^XXVI-subdivu2-1]
+### Sezione 2[^XXVI-subdivu2-1]: Ritiro obbligatorio
 
 [^XXVI-subdivu2-1]: Nuovo testo giusta il n. 2 del Dec. approvata dal Consiglio dei governatori il 28 giu. 1990, in vigore per la Svizzera dall’11 nov. 1992 ([RU 1993 2351](https://fedlex.data.admin.ch/eli/oc/1993/2351_2351_2351)).
 
@@ -1012,7 +1002,7 @@ Fatto a Washington, in un’unica copia, depositata presso gli archivi del gover
 
 Allegato A
 
-## Quote proposte****
+## Quote proposte
 
 [^annexA-lvlu1-1]
 
@@ -1261,7 +1251,7 @@ Allegato C
 
 \11. Fatte salve le disposizioni del precedente paragrafo 6, a maggioranza del settanta per cento dei voti complessivi il Fondo può modificare secondo percentuali uniformi tutte le parità, se il diritto speciale di prelievo costituisce il denominatore comune e se la modifica non incide sul valore del diritto speciale di prelievo. Nondimeno, la parità della moneta di uno Stato membro non viene modificata in applicazione della presente disposizione se, nei sette giorni successivi alla decisione del Fondo, lo Stato membro interessato gli notifichi di non desiderare una modifica della parità della sua moneta in base alla suddetta decisione.
 
-Allegato D*[^t-2]*
+Allegato D[^t-2]
 
 ## Il Collegio
 
@@ -1285,7 +1275,7 @@ Allegato D*[^t-2]*
 
 \6. È inteso che l’articolo XII, sezione 2, comma a), prima frase contiene un riferimento al Collegio.
 
-Allegato E*[^t-3]*
+Allegato E[^t-3]
 
 ## Disposizioni transitorie relative ai direttori esecutivi
 
@@ -1437,7 +1427,7 @@ Allegato K
 
 \10. Ai fini del presente allegato, si presume che le quote siano state aumentate nella misura dei possibile in conformità delle disposizioni dell’articolo III, sezione 2, comma b) del presente statuto.
 
-Allegato L*[^t-4]*
+Allegato L[^t-4]
 
 ## Sospensione dei diritti di voto
 
@@ -1465,7 +1455,7 @@ In caso di sospensione di uno Stato membro dai diritti di voto ai sensi della se
 
 \4. Lo Stato membro ha la facoltà di delegare un rappresentante che può assistere all’esame di una domanda da esso presentata o di una questione che lo interessi da vicino quando queste sono discusse in sede di Consiglio dei governatori, collegio o consiglio dei direttori esecutivi, ma non quando sono esaminate dai comitati di tali organi.
 
-Allegato M*[^t-5]*
+Allegato M[^t-5]
 
 ## Assegnazione speciale di diritti speciali di prelievo a titolo eccezionale
 
@@ -1510,7 +1500,7 @@ Allegato M*[^t-5]*
 - c) Ai fini del presente paragrafo, gli scoperti a titolo di obblighi verso il Fondo sono gli scoperti a titolo di riacquisti e provvigioni sul Conto delle risorse generali, a titolo di ammortamenti e interessi sul capitale sul Conto speciale dei versamenti, a titolo di provvigioni e quote di spesa sul Conto speciale di prelievo e a titolo di obblighi verso il Fondo nella sua qualità di fiduciario.
 - d) Fatte salve le disposizioni del presente paragrafo, è mantenuto il principio della separazione del Conto generale e del Conto speciale di prelievo, come pure il carattere di attivo di riserva incondizionato dei diritti speciali di prelievo.
 
-## Risoluzione 66-2 del 15 dicembre 2010 sulla Quattordicesima revisione generale delle quote e sulla riforma del Consiglio dei direttori esecutivi****
+## Risoluzione 66-2 del 15 dicembre 2010 sulla Quattordicesima revisione generale delle quote e sulla riforma del Consiglio dei direttori esecutivi
 
 [^annexM-lvlu2-1]
 
@@ -1586,17 +1576,18 @@ Ciascuno Stato membro si impegna a concordare le misure necessarie per adempiere
 
 \17. Il Consiglio dei governatori prende nota di quanto segue: (i) l’impegno a ridurre, al fine di dare maggiore rappresentatività ai mercati emergenti e ai Paesi in sviluppo, il numero dei direttori esecutivi rappresentanti Paesi europei avanzati non più tardi della prima elezione ordinaria dei direttori esecutivi successiva alla data in cui i requisiti di cui al paragrafo 3 della presente Risoluzione saranno adempiuti, e (ii) l’impegno degli Stati membri del Fondo a mantenere un Consiglio dei direttori esecutivi formato da 24 membri, e a rivedere la composizione del Consiglio in questione ogni otto anni a partire dalla data in cui i requisiti di cui al paragrafo 3 della presente Risoluzione saranno adempiuti.
 
-Allegati I e II*[^t-6]*
+Allegati I e II[^t-6]
 
 [^t-6]: Le mod. possono essere consultate sotto [RU 2016 2069](https://fedlex.data.admin.ch/eli/oc/2016/339).
 
-Campo d’applicazione il 9 ottobre 2019**[^t-7]**
+Campo d’applicazione l’11 luglio 2024[^t-7]
 
 <table>
-<tr><th>Stati partecipanti</th><th>Accettazione [^t-8] Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Afghanistan</td><td>14 luglio</td><td>1955</td><td>14 luglio</td><td>1955</td></tr>
 <tr><td>Albania</td><td>15 ottobre</td><td>1991</td><td>15 ottobre</td><td>1991</td></tr>
 <tr><td>Algeria</td><td>26 settembre</td><td>1963</td><td>26 settembre</td><td>1963</td></tr>
+<tr><td>Andorra</td><td>16 ottobre</td><td>2020</td><td>16 ottobre</td><td>2020</td></tr>
 <tr><td>Angola</td><td>19 settembre</td><td>1989</td><td>19 settembre</td><td>1989</td></tr>
 <tr><td>Antigua e Barbuda</td><td>25 febbraio</td><td>1982</td><td>25 febbraio</td><td>1982</td></tr>
 <tr><td>Arabia Saudita</td><td>26 agosto</td><td>1957</td><td>26 agosto</td><td>1957</td></tr>
@@ -1629,10 +1620,6 @@ Campo d’applicazione il 9 ottobre 2019**[^t-7]**
 <tr><td>Ceca, Repubblica</td><td>1° gennaio</td><td>1993 S</td><td>20 settembre</td><td>1990</td></tr>
 <tr><td>Ciad</td><td>10 luglio</td><td>1963</td><td>10 luglio</td><td>1963</td></tr>
 <tr><td>Cile</td><td>31 dicembre</td><td>1945</td><td>31 dicembre</td><td>1945</td></tr>
-</table>
-
-<table>
-<tr><th>Stati partecipanti</th><th>Accettazione Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Cina</td><td>17 aprile</td><td>1980</td><td>17 aprile</td><td>1980</td></tr>
 <tr><td>Hong-Kong</td><td>18 giugno</td><td>1997</td><td>1° luglio</td><td>1997</td></tr>
 <tr><td>Cipro</td><td>21 dicembre</td><td>1961</td><td>21 dicembre</td><td>1961</td></tr>
@@ -1718,7 +1705,7 @@ Campo d’applicazione il 9 ottobre 2019**[^t-7]**
 <tr><td>Mozambico</td><td>24 settembre</td><td>1984</td><td>24 settembre</td><td>1984</td></tr>
 <tr><td>Myanmar</td><td>3 gennaio</td><td>1952</td><td>3 gennaio</td><td>1952</td></tr>
 <tr><td>Namibia</td><td>25 settembre</td><td>1990</td><td>25 settembre</td><td>1990</td></tr>
-<tr><td>Nauru</td><td>12 aprile</td><td>2016 A</td><td>12 aprile</td><td>2016</td></tr>
+<tr><td>Nauru</td><td>12 aprile</td><td>2016</td><td>12 aprile</td><td>2016</td></tr>
 <tr><td>Nepal</td><td>6 settembre</td><td>1961</td><td>6 settembre</td><td>1961</td></tr>
 <tr><td>Nicaragua</td><td>14 marzo</td><td>1946</td><td>14 marzo</td><td>1946</td></tr>
 <tr><td>Niger</td><td>24 aprile</td><td>1963</td><td>24 aprile</td><td>1963</td></tr>
@@ -1790,5 +1777,4 @@ Campo d’applicazione il 9 ottobre 2019**[^t-7]**
 <tr><td>Zimbabwe</td><td>29 settembre</td><td>1980</td><td>29 settembre</td><td>1980</td></tr>
 </table>
 
-[^t-7]: [RU 1992 2571](https://fedlex.data.admin.ch/eli/oc/1992/2571_2571_2571), [2005 2109](https://fedlex.data.admin.ch/eli/oc/2005/340), [2011 1737](https://fedlex.data.admin.ch/eli/oc/2011/260), [2014 2459](https://fedlex.data.admin.ch/eli/oc/2014/429)e [2019 3217](https://fedlex.data.admin.ch/eli/oc/2019/590). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
-[^t-8]: La data d’accettazione e la data di firma coincidono.
+[^t-7]: [RU 1992 2571](https://fedlex.data.admin.ch/eli/oc/1992/2571_2571_2571); [2005 2109](https://fedlex.data.admin.ch/eli/oc/2005/340); [2011 1737](https://fedlex.data.admin.ch/eli/oc/2011/260); [2014 2459](https://fedlex.data.admin.ch/eli/oc/2014/429); [2019 3217](https://fedlex.data.admin.ch/eli/oc/2019/590); [2024 362](https://fedlex.data.admin.ch/eli/oc/2024/362). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
