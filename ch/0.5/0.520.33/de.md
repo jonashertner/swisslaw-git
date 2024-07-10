@@ -3,11 +3,11 @@ sr: "0.520.33"
 title: Zweites Protokoll vom 26. März 1999 zum Haager Abkommen von 1954 für den Schutz von Kulturgut bei bewaffneten Konflikten
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/29"
 language: de
-version: 2023-02-23
+version: 2024-07-11
 adopted: 1999-03-26
 in_force: 2004-10-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/29/20230223/de/xml/fedlex-data-admin-ch-eli-cc-2005-29-20230223-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/29/20230223/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/29/20240711/de/xml/fedlex-data-admin-ch-eli-cc-2005-29-20240711-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/29/20240711/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,20 +16,15 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/29/20230223/de"
 
 AS **2005** 149; BBl **2003** 6091[^t-1]
 
-Übersetzung
+Übersetzung[^t-2]
 
-Abgeschlossen in Den Haag am 26. März 1999
+Abgeschlossen in Den Haag am 26. März 1999 Von der Bundesversammlung genehmigt am 19. März 2004[^t-3] Schweizerische Ratifikationsurkunde hinterlegt am 9. Juli 2004 In Kraft getreten für die Schweiz am 9. Oktober 2004
 
-Von der Bundesversammlung genehmigt am 19. März 2004[^t-2]
-
-Schweizerische Ratifikationsurkunde hinterlegt am 9. Juli 2004
-
-In Kraft getreten für die Schweiz am 9. Oktober 2004
-
-(Stand am 23. Februar 2023)
+(Stand am 11. Juli 2024)
 
 [^t-1]: Titel für Deutschland: «Zweites Protokoll zur Haager Konvention von 1954 zum Schutz von Kulturgut bei bewaffneten Konflikten».
-[^t-2]: [AS 2005 147](https://fedlex.data.admin.ch/eli/oc/2005/28)
+[^t-2]: Die französische Originalfassung des Zweiten Protokolls enthielt beim Abschluss sprachliche Abweichungen von der englischen Originalfassung. Um die sprachliche Übereinstimmung wiederherzustellen hat der Ausschuss für den Schutz von Kulturgut bei bewaffneten Konflikten Korrekturen angenommen, die am 7. September 2017 wirksam geworden sind (AS 2024 382).
+[^t-3]: [AS 2005 147](https://fedlex.data.admin.ch/eli/oc/2005/28)
 
 Die Vertragsparteien,
 
@@ -87,8 +82,8 @@ Dieses Protokoll ergänzt das Abkommen in den Beziehungen zwischen den Vertragsp
 
 Die Anwendung des Kapitels 3 dieses Protokolls berührt nicht:
 
-- a) die Anwendung des Kapitels I des Abkommens und des Kapitels 2 dieses Protokolls;
-- b) die Anwendung des Kapitels II des Abkommens, ausser dass zwischen den Vertragsparteien dieses Protokolls oder zwischen einer Vertragspartei und einem Staat, der dieses Protokoll nach Artikel 3 Absatz 2 annimmt und anwendet, nur die Bestimmungen über verstärkten Schutz Anwendung finden, wenn Kulturgut sowohl Sonderschutz als auch verstärkter Schutz gewährt wurde.
+- a) die Anwendung der Bestimmungen des Kapitels I des Abkommens und des Kapitels 2 dieses Protokolls;
+- b) die Anwendung der Bestimmungen des Kapitels II des Abkommens, ausser dass zwischen den Vertragsparteien dieses Protokolls oder zwischen einer Vertragspartei und einem Staat, der dieses Protokoll nach Artikel 3 Absatz 2 annimmt und anwendet, nur die Bestimmungen über verstärkten Schutz Anwendung finden, wenn Kulturgut sowohl Sonderschutz als auch verstärkter Schutz gewährt wurde.
 
 ## Kapitel 2: Allgemeine Schutzbestimmungen
 
@@ -162,7 +157,7 @@ Unbeschadet der Artikel 4 und 5 des Abkommens verbietet und verhindert eine Vert
 
 Kulturgut kann unter verstärkten Schutz gestellt werden, sofern es die folgenden drei Voraussetzungen erfüllt:
 
-- a) Es handelt sich um kulturelles Erbe von höchster Bedeutung für die Menschheit;
+- a) es handelt sich um kulturelles Erbe von höchster Bedeutung für die Menschheit;
 - b) es wird durch angemessene innerstaatliche Rechts- und Verwaltungsmassnahmen geschützt, mit denen sein aussergewöhnlicher kultureller und historischer Wert anerkannt und das höchste Mass an Schutz gewährleistet wird;
 - c) es wird weder für militärische Zwecke noch für den Schutz militärischer Anlagen verwendet, und die Vertragspartei, unter deren Kontrolle sich das Kulturgut befindet, hat in einer Erklärung bestätigt, dass es nicht dafür verwendet werden wird.
 
@@ -310,7 +305,7 @@ Im Hinblick auf die Ausübung der Gerichtsbarkeit und unbeschadet des Artikels 2
 
 #### Art. 21
 
-**Massnahmen bezüglich anderer Verletzungen**
+**Massnahmen bezüglich anderer Verstösse**
 
 Unbeschadet des Artikels 28 des Abkommens trifft jede Vertragspartei die notwendigen gesetzgeberischen sowie Verwaltungs- und Disziplinarmassnahmen, um folgende Handlungen, wenn vorsätzlich verübt, zu unterbinden:
 
@@ -398,7 +393,7 @@ Die Tagung der Vertragsparteien hat folgende Aufgaben:
 Der Ausschuss hat folgende Aufgaben:
 
 - a) Erstellung von Richtlinien zur Durchführung dieses Protokolls;
-- b) Gewährung, Aussetzung oder Aufhebung des verstärkten Schutzes für Kulturgut und Erstellung, Aktualisierung und Förderung der Liste des Kulturguts unter verstärktem Schutz;
+- b) Gewährung, Aussetzung oder Aufhebung des verstärkten Schutzes für Kulturgut und Erstellung, Aktualisierung und Förderung der internationalen Liste des Kulturguts unter verstärktem Schutz;
 - c) Beobachtung und Überwachung der Durchführung dieses Protokolls und Förderung der Erfassung von Kulturgut unter verstärktem Schutz;
 - d) Prüfung der Berichte der Vertragsparteien und Stellungnahme dazu, erforderlichenfalls deren Klärung und Erstellung eines eigenen Berichts über die Durchführung dieses Protokolls für die Tagung der Vertragsparteien;
 - e) Entgegennahme und Prüfung von Anträgen auf internationale Unterstützung nach Artikel 32;
@@ -423,7 +418,7 @@ Dem Ausschuss steht das Sekretariat der UNESCO zur Seite, das die Dokumentation 
 
 Hiermit wird ein Fonds für die folgenden Zwecke errichtet:
 
-- a) Bereitstellung finanzieller oder anderer Hilfe zur Unterstützung von vorbereitenden und sonstigen Massnahmen, die in Friedenszeiten unter anderem nach Artikel 5, Artikel 10 Buchstabe b und Artikel 30 getroffen werden; und
+- a) Bereitstellung finanzieller oder anderer Hilfe zur Unterstützung von vorbereitenden oder sonstigen Massnahmen, die in Friedenszeiten unter anderem nach Artikel 5, Artikel 10 Buchstabe b und Artikel 30 getroffen werden; und
 - b) Bereitstellung finanzieller oder anderer Hilfe im Zusammenhang mit Notfallmassnahmen oder vorläufigen oder sonstigen Massnahmen, die getroffen werden, um Kulturgut während eines bewaffneten Konflikts oder während der Bergung und Sicherung unmittelbar nach Ende der Feindseligkeiten unter anderem nach Artikel 8 Buchstabe a zu schützen.
 
 <sup>(2)</sup> Der Fonds stellt ein Treuhandvermögen im Sinne der Finanzordnung der UNESCO dar.
@@ -511,7 +506,7 @@ Dieses Protokoll wird unter Mitwirkung der Schutzmächte angewandt, die mit der 
 
 <sup>(1)</sup> Die Schutzmächte stellen ihre guten Dienste in allen Fällen zur Verfügung, in denen sie dies im Interesse des Kulturguts für angezeigt erachten, insbesondere wenn zwischen den an dem Konflikt beteiligten Vertragsparteien über die Anwendung oder Auslegung dieses Protokolls Meinungsverschiedenheiten bestehen.
 
-<sup>(2)</sup> Zu diesem Zweck kann jede der Schutzmächte entweder auf Einladung einer Vertragspartei oder des Generaldirektors oder von sich aus den an dem Konflikt beteiligten Vertragsparteien eine Zusammenkunft ihrer Vertreter und insbesondere der für den Schutz des Kulturguts verantwortlichen Behörden vorschlagen, gegebenenfalls im Hoheitsgebiet eines Staates, der nicht an dem Konflikt beteiligt ist. Die an dem Konflikt beteiligten Vertragsparteien sind gehalten, den ihnen gemachten Vorschlägen von Zusammenkünften Folge zu leisten. Die Schutzmächte schlagen den an dem Konflikt beteiligten Vertragsparteien eine Persönlichkeit, die einem Staat angehört, der nicht an dem Konflikt beteiligt ist, oder eine vom Generaldirektor bezeichnete Persönlichkeit zur Genehmigung vor; diese wird aufgefordert, an der Zusammenkunft als Vorsitzender teilzunehmen.
+<sup>(2)</sup> Zu diesem Zweck kann jede der Schutzmächte entweder auf Einladung einer Vertragspartei, des Generaldirektors oder von sich aus den an dem Konflikt beteiligten Vertragsparteien eine Zusammenkunft ihrer Vertreter und insbesondere der für den Schutz des Kulturguts verantwortlichen Behörden vorschlagen, gegebenenfalls im Hoheitsgebiet eines Staates, der nicht an dem Konflikt beteiligt ist. Die an dem Konflikt beteiligten Vertragsparteien sind gehalten, den ihnen gemachten Vorschlägen von Zusammenkünften Folge zu leisten. Die Schutzmächte schlagen den an dem Konflikt beteiligten Vertragsparteien eine Persönlichkeit, die einem Staat angehört, der nicht an dem Konflikt beteiligt ist, oder eine vom Generaldirektor bezeichnete Persönlichkeit zur Genehmigung vor; diese wird aufgefordert, an der Zusammenkunft als Vorsitzender teilzunehmen.
 
 #### Art. 36
 
@@ -601,9 +596,9 @@ Der Generaldirektor benachrichtigt alle Hohen Vertragsparteien und die Vereinten
 
 Dieses Protokoll wird auf Ersuchen des Generaldirektors nach Artikel 102 der Charta der Vereinten Nationen beim Sekretariat der Vereinten Nationen registriert.
 
-*Zu Urkund dessen* haben die gehörig befugten Unterzeichneten dieses Protokoll unterschrieben. Geschehen zu Den Haag am 26. März 1999 in einer Urschrift, die im Archiv der UNESCO hinterlegt wird; beglaubigte Abschriften werden allen Hohen Vertragsparteien übermittelt. *(Es folgen die Unterschriften)*
+*Zu Urkund dessen* haben die gehörig befugten Unterzeichneten dieses Protokoll unterschrieben. Geschehen zu Den Haag am 26. März 1999 in einer Urschrift, die im Archiv der UNESCO hinterlegt wird; beglaubigte Abschriften werden allen Hohen Vertragsparteien übermittelt. (Es folgen die Unterschriften)
 
-Geltungsbereich am 23. Februar 2023[^t-3]
+Geltungsbereich am 11. Juli 2024[^t-4]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -625,10 +620,10 @@ Geltungsbereich am 23. Februar 2023[^t-3]
 <tr><td>Burkina Faso</td><td>5. Februar</td><td>2018 B</td><td>5. Mai</td><td>2018</td></tr>
 <tr><td>Chile</td><td>11. September</td><td>2008 B</td><td>11. Dezember</td><td>2008</td></tr>
 <tr><td>Costa Rica</td><td>9. Dezember</td><td>2003 B</td><td>9. März</td><td>2004</td></tr>
-<tr><td>Dänemark <sup>a</sup></td><td>5. September</td><td>2018 B</td><td>5. Dezember</td><td>2018</td></tr>
 <tr><td>Deutschland</td><td>25. November</td><td>2009</td><td>25. Februar</td><td>2010</td></tr>
-<tr><td>Dominikanische Republik</td><td>3. März</td><td>2009</td><td>3. Juni</td><td>2009</td></tr>
+<tr><td>Dominikanische Republik</td><td>3. März</td><td>2009 B</td><td>3. Juni</td><td>2009</td></tr>
 <tr><td>Dschibuti</td><td>9. April</td><td>2018 B</td><td>9. Juli</td><td>2018</td></tr>
+<tr><td>Dänemark <sup>a</sup></td><td>5. September</td><td>2018 B</td><td>5. Dezember</td><td>2018</td></tr>
 <tr><td>Ecuador</td><td>2. August</td><td>2004</td><td>2. November</td><td>2004</td></tr>
 <tr><td>El Salvador</td><td>27. März</td><td>2002 B</td><td>9. März</td><td>2004</td></tr>
 <tr><td>Estland</td><td>17. Januar</td><td>2005</td><td>17. April</td><td>2005</td></tr>
@@ -644,6 +639,7 @@ Geltungsbereich am 23. Februar 2023[^t-3]
 <tr><td>Irland</td><td>17. Mai</td><td>2018 B</td><td>17. August</td><td>2018</td></tr>
 <tr><td>Italien</td><td>10. Juli</td><td>2009</td><td>10. Oktober</td><td>2009</td></tr>
 <tr><td>Japan</td><td>10. September</td><td>2007</td><td>10. Dezember</td><td>2007</td></tr>
+<tr><td>Jemen</td><td>1. Juni</td><td>2023</td><td>1. September</td><td>2023</td></tr>
 <tr><td>Jordanien</td><td>5. Mai</td><td>2009 B</td><td>5. August</td><td>2009</td></tr>
 <tr><td>Kambodscha</td><td>17. September</td><td>2013</td><td>17. Dezember</td><td>2013</td></tr>
 <tr><td>Kanada</td><td>29. November</td><td>2005 B</td><td>28. Februar</td><td>2006</td></tr>
@@ -658,6 +654,7 @@ Geltungsbereich am 23. Februar 2023[^t-3]
 <tr><td>Madagaskar</td><td>3. Juli</td><td>2018</td><td>3. Oktober</td><td>2018</td></tr>
 <tr><td>Mali <sup>b</sup></td><td>15. November</td><td>2012 B</td><td>15. November</td><td>2012</td></tr>
 <tr><td>Marokko</td><td>5. Dezember</td><td>2013</td><td>5. März</td><td>2014</td></tr>
+<tr><td>Mauretanien</td><td>7. Juli</td><td>2023</td><td>7. Oktober</td><td>2023</td></tr>
 <tr><td>Mexiko</td><td>7. Oktober</td><td>2003 B</td><td>9. März</td><td>2004</td></tr>
 <tr><td>Montenegro</td><td>26. April</td><td>2007 N</td><td>3. Juni</td><td>2006</td></tr>
 <tr><td>Neuseeland <sup>c</sup></td><td>23. Oktober</td><td>2013 B</td><td>23. Januar</td><td>2014</td></tr>
@@ -694,7 +691,7 @@ Geltungsbereich am 23. Februar 2023[^t-3]
 <tr><td>Uruguay</td><td>3. Januar</td><td>2007 B</td><td>3. April</td><td>2007</td></tr>
 <tr><td>Vereinigtes Königreich\*</td><td>12. September</td><td>2017 B</td><td>12. Dezember</td><td>2017</td></tr>
 <tr><td>Zypern</td><td>16. Mai</td><td>2001</td><td>9. März</td><td>2004</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen für Bildung, Wissenschaft und Kultur (UNESCO): [www.unesco.org](http://www.unesco.org) &gt; Français &gt; Ressources &gt; Documents et publications eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Protokoll gilt nicht für die Färöer und Grönland. <sup>b</sup> Beitritt mit sofortiger Wirkung gemäss Art. 44 des Protokolls. <sup>c</sup> Das Protokoll gilt nicht für Tokelau.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen für Erziehung, Wissenschaft und Kultur (UNESCO): [www.unesco.org &gt; Français &gt; Ressources &gt; Documents et publications](https://www.unesco.org/fr/legal-affairs/second-protocol-hague-convention-1954-protection-cultural-property-event-armed-conflict?hub=66535) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Protokoll gilt nicht für die Färöerinseln und Grönland. <sup>b</sup> Beitritt mit sofortiger Wirkung gemäss Art. 44 des Protokolls. <sup>c</sup> Das Protokoll gilt nicht für Tokelau. [tab]</td></tr>
 </table>
 
-[^t-3]: [AS 2005 149](https://fedlex.data.admin.ch/eli/oc/2005/29), [4787](https://fedlex.data.admin.ch/eli/oc/2005/642); [2007 431](https://fedlex.data.admin.ch/eli/oc/2007/88); [2008 4125](https://fedlex.data.admin.ch/eli/oc/2008/579); [2010 845](https://fedlex.data.admin.ch/eli/oc/2010/132); [2013 279](https://fedlex.data.admin.ch/eli/oc/2013/40); [2015 1227](https://fedlex.data.admin.ch/eli/oc/2015/248); [2018 1161](https://fedlex.data.admin.ch/eli/oc/2018/171); [2020 1577](https://fedlex.data.admin.ch/eli/oc/2020/319); [2023 95](https://fedlex.data.admin.ch/eli/oc/2023/95). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [https://www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)
+[^t-4]: Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

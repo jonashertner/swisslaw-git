@@ -3,11 +3,11 @@ sr: "0.520.33"
 title: "Secondo Protocollo del 26 marzo 1999 relativo alla Convenzione dell'Aia del 1954 per la protezione dei beni culturali in caso di conflitto armato"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/29"
 language: it
-version: 2023-02-23
+version: 2024-07-11
 adopted: 1999-03-26
 in_force: 2004-10-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/29/20230223/it/xml/fedlex-data-admin-ch-eli-cc-2005-29-20230223-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/29/20230223/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/29/20240711/it/xml/fedlex-data-admin-ch-eli-cc-2005-29-20240711-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/29/20240711/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,13 +16,14 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/29/20230223/it"
 
 RU **2005** 149; FF **2003** 5299
 
-Traduzione
+Traduzione[^t-1]
 
-Concluso all’Aia il 26 marzo 1999 Approvato dall’Assemblea federale il 19 marzo 2004[^t-1] Strumento di ratifica depositato dalla Svizzera il 9 luglio 2004 Entrato in vigore per la Svizzera il 9 ottobre 2004
+Concluso all’Aia il 26 marzo 1999 Approvato dall’Assemblea federale il 19 marzo 2004[^t-2] Strumento di ratifica depositato dalla Svizzera il 9 luglio 2004 Entrato in vigore per la Svizzera il 9 ottobre 2004
 
-(Stato 23 gennaio 2023)
+(Stato 11 luglio 2024)
 
-[^t-1]: [RU 2005 147](https://fedlex.data.admin.ch/eli/oc/2005/28)
+[^t-1]: Al momento della sua conclusione, la versione originale francese del Secondo Protocollo conteneva discrepanze linguistiche con la versione originale inglese. Il Comitato per la protezione dei beni culturali in caso di conflitto armato ha adottato delle correzioni, entrate in vigore il 7 settembre 2017, per ripristinare la concordanza linguistica ([RU 2024 382](https://fedlex.data.admin.ch/eli/oc/2024/382)).
+[^t-2]: [RU 2005 147](https://fedlex.data.admin.ch/eli/oc/2005/28)
 
 Le Parti,
 
@@ -81,7 +82,7 @@ Il presente Protocollo completa la Convenzione per quanto concerne le relazioni 
 L’applicazione delle disposizioni del capitolo 3 del presente Protocollo non pregiudica:
 
 - a) l’applicazione delle disposizioni del capitolo I della Convenzione e del capitolo 2 del presente Protocollo;
-- b) l’applicazione del capitolo II della Convenzione sia tra le Parti al presente Protocollo sia tra una Parte e uno Stato che accetta e applica il presente Protocollo conformemente all’articolo 3 paragrafo 2, tenendo presente che se un bene culturale è posto sia sotto la protezione speciale sia sotto la protezione rafforzata sono applicabili solo le disposizioni relative alla protezione rafforzata.
+- b) l’applicazione delle disposizioni del capitolo II della Convenzione sia tra le Parti al presente Protocollo sia tra una Parte e uno Stato che accetta e applica il presente Protocollo conformemente all’articolo 3 paragrafo 2, tenendo presente che se un bene culturale è posto sia sotto la protezione speciale sia sotto la protezione rafforzata sono applicabili solo le disposizioni relative alla protezione rafforzata.
 
 ## Capitolo 2: Disposizioni generali concernenti la protezione
 
@@ -89,7 +90,7 @@ L’applicazione delle disposizioni del capitolo 3 del presente Protocollo non p
 
 **Tutela dei beni culturali**
 
-Le misure preparatorie prese in tempo di pace per la tutela dei beni culturali contro gli effetti prevedibili di un conflitto armato, conformemente all’articolo 3 della Convenzione, comprendono, se del caso, l’allestimento di un inventario, la pianificazione di misure urgenti per garantire la protezione dei beni contro i rischi d’incendio o di crollo degli edifici, la preparazione della rimozione dei beni culturali mobili o la fornitura di una protezione *in situ* adeguata di detti beni e la designazione di autorità competenti responsabili della tutela dei beni culturali.
+Le misure preparatorie prese in tempo di pace per la tutela dei beni culturali contro gli effetti prevedibili di un conflitto armato, conformemente all’articolo 3 della Convenzione, comprendono, se del caso, la preparazione di un inventario, la pianificazione di misure urgenti per garantire la protezione dei beni contro i rischi d’incendio o di crollo degli edifici, la preparazione della rimozione dei beni culturali mobili o la fornitura di una protezione *in situ* adeguata di detti beni e la designazione di autorità competenti responsabili della tutela dei beni culturali.
 
 #### Art. 6
 
@@ -102,7 +103,7 @@ Allo scopo di garantire il rispetto dei beni culturali conformemente all’artic
   può essere invocata una deroga in base a una necessità militare imperativa ai sensi dell’articolo 4 paragrafo 2 della Convenzione per dirigere un atto di ostilità contro un bene culturale solo e fintanto che:
 
   - i) questo bene culturale, per la sua funzione, è stato trasformato in obiettivo militare, e
-  - ii) non esiste un’alternativa possibile per ottenere un vantaggio militare equivalente a quello offerto dal fatto di dirigere un atto di ostilità contro questo obiettivo;
+  - ii) non esiste un’alternativa praticamente possibile per ottenere un vantaggio militare equivalente a quello offerto dal fatto di dirigere un atto di ostilità contro questo obiettivo;
 
 - b) può essere invocata una deroga in base a una necessità militare imperativa conformemente all’articolo 4 paragrafo 2 della Convenzione per utilizzare beni culturali a scopi che possono esporli alla distruzione o al deterioramento solo e fintanto che non è possibile operare una scelta tra tale utilizzazione dei beni culturali e un altro metodo praticamente possibile per ottenere un vantaggio militare equivalente;
 - c) la decisione di invocare una necessità militare imperativa è presa solo dal capo di una formazione equivalente o superiore per importanza a un battaglione o da una formazione più piccola se le circostanze non consentono di procedere diversamente;
@@ -116,17 +117,17 @@ Senza pregiudicare le altre precauzioni stabilite dal diritto internazionale uma
 
 - a) fare tutto il possibile per verificare che gli obiettivi da attaccare non siano beni culturali protetti dall’articolo 4 della Convenzione;
 - b) prendere tutte le precauzioni praticamente possibili per quanto riguarda la scelta dei mezzi e dei metodi di attacco al fine di evitare e in ogni caso di ridurre al minimo i danni che potrebbero essere causati incidentalmente ai beni culturali protetti in virtù dell’articolo 4 della Convenzione;
-- c) astenersi dal lanciare un attacco dal quale ci si possa attendere che provochi incidentalmente ai beni culturali protetti dall’articolo 4 della Convenzione danni che sarebbero eccessivi rispetto al vantaggio militare concreto e diretto previsto;
+- c) astenersi dal decidere di lanciare un attacco dal quale ci si possa attendere che provochi incidentalmente ai beni culturali protetti dall’articolo 4 della Convenzione danni che sarebbero eccessivi rispetto al vantaggio militare concreto e diretto previsto; e
 - d)
 
   annullare o interrompere un attacco se appare evidente che:
 
-  - i) l’obiettivo è un bene culturale protetto in virtù dell’articolo 4 della Convenzione;
+  - i) l’obiettivo è un bene culturale protetto in virtù dell’articolo 4 della Convenzione,
   - ii) si può prevedere che provochi incidentalmente ai beni culturali protetti in virtù dell’articolo 4 della Convenzione danni che sarebbero eccessivi rispetto al vantaggio militare concreto e diretto previsto.
 
 #### Art. 8
 
-**Precauzioni contro gli effetti degli attacchi**
+**Precauzioni contro gli effetti delle ostilità**
 
 Le parti in conflitto devono per quanto possibile:
 
@@ -163,9 +164,9 @@ Un bene culturale può essere collocato sotto protezione rafforzata se soddisfa 
 
 **Concessione della protezione rafforzata**
 
-<sup>(1)</sup> Ogni Parte dovrebbe sottoporre al Comitato un elenco dei beni per i quali ha intenzione di chiedere la concessione della protezione rafforzata.
+<sup>(1)</sup> Ogni Parte dovrebbe sottoporre al Comitato un elenco dei beni culturali per i quali ha intenzione di chiedere la concessione della protezione rafforzata.
 
-<sup>(2)</sup> La Parte che ha la giurisdizione o il controllo su un bene culturale può chiedere l’iscrizione di questo bene nell’Elenco che sarà allestito conformemente all’articolo 27 paragrafo 1 comma (b). La domanda deve includere tutte le informazioni necessarie relative ai criteri menzionati nell’articolo 10. Il Comitato può invitare una Parte a chiedere l’iscrizione di un bene culturale nell’Elenco.
+<sup>(2)</sup> La Parte che ha la giurisdizione o il controllo su un bene culturale può chiedere l’iscrizione di questo bene nell’Elenco che sarà allestito conformemente all’articolo 27 paragrafo 1 comma b). La domanda deve includere tutte le informazioni necessarie relative ai criteri menzionati nell’articolo 10. Il Comitato può invitare una Parte a chiedere l’iscrizione di un bene culturale nell’Elenco.
 
 <sup>(3)</sup> Altre Parti, il Comitato internazionale dello Scudo Blu e altre organizzazioni non governative che hanno una competenza adeguata possono raccomandare un bene culturale particolare al Comitato. In questi casi, il Comitato può decidere d’invitare una Parte a chiedere l’iscrizione di tale bene culturale nell’Elenco.
 
@@ -179,7 +180,7 @@ Un bene culturale può essere collocato sotto protezione rafforzata se soddisfa 
 
 <sup>(8)</sup> In casi eccezionali, se è giunto alla conclusione che la Parte che chiede l’introduzione di un bene culturale nell’Elenco non è in grado di soddisfare il criterio dell’articolo 10 comma b), il Comitato può decidere di concedere la protezione rafforzata se la Parte richiedente sottopone una domanda di assistenza internazionale conformemente all’articolo 32.
 
-<sup>(9)</sup> Dall’inizio delle ostilità, una parte al conflitto può chiedere, a causa di una situazione di emergenza, la protezione rafforzata di beni culturali posti sotto la sua giurisdizione o il suo controllo, sottoponendo la sua domanda al Comitato. Il Comitato trasmette questa domanda immediatamente a tutte le parti in conflitto. In questo caso, il Comitato esamina d’urgenza le osservazioni delle Parti interessate. La decisione di concedere la protezione rafforzata a titolo provvisorio è presa il più rapidamente possibile e, fatte salve le disposizioni dell’articolo 26, dalla maggioranza dei quattro quinti dei membri del Comitato. Il Comitato può concedere la protezione rafforzata a titolo provvisorio, aspettando l’esito della procedura normale di concessione della protezione, a condizione che siano soddisfatti i criteri di cui all’articolo 10 commi a) e c).
+<sup>(9)</sup> Dall’inizio delle ostilità, una parte al conflitto può chiedere, a causa di una situazione di emergenza, la protezione rafforzata di beni culturali posti sotto la sua giurisdizione o il suo controllo, sottoponendo la sua domanda al Comitato. Il Comitato trasmette questa domanda immediatamente a tutte le parti in conflitto. In questo caso, il Comitato esamina d’urgenza le osservazioni delle Parti interessate. La decisione di concedere la protezione rafforzata a titolo provvisorio è presa il più rapidamente possibile e, fatte salve le disposizioni dell’articolo 26, dalla maggioranza dei quattro quinti dei membri del Comitato presenti e votanti. Il Comitato può concedere la protezione rafforzata a titolo provvisorio, aspettando l’esito della procedura normale di concessione della protezione, a condizione che siano soddisfatti i criteri di cui all’articolo 10 commi a) e c).
 
 <sup>(10)</sup> La protezione rafforzata è concessa dal Comitato a un bene culturale a partire dal momento della sua iscrizione nell’Elenco.
 
@@ -189,7 +190,7 @@ Un bene culturale può essere collocato sotto protezione rafforzata se soddisfa 
 
 **Immunità dei beni culturali sotto protezione rafforzata**
 
-Le parti a un conflitto garantiscono l’immunità dei beni culturali posti sotto protezione rafforzata vietando di farne oggetto di attacchi o di utilizzare questi beni o i loro immediati dintorni a sostegno di un’azione militare.
+Le parti a un conflitto garantiscono l’immunità dei beni culturali posti sotto protezione rafforzata astenendosi dal farne oggetto di attacchi o di utilizzare questi beni o i loro immediati dintorni a sostegno di un’azione militare.
 
 #### Art. 13
 
@@ -212,8 +213,8 @@ Nelle circostanze previste nel paragrafo 1 comma b), tale bene può essere ogget
 
   a meno che le circostanze non lo consentano a causa delle esigenze di legittima difesa immediata:
 
-  - i) l’ordine di attaccare è dato al livello più alto del comando operativo;
-  - ii) è stato dato un avvertimento alle forze avverse, con mezzi efficaci, ingiungendo loro di porre fine all’utilizzazione di cui al paragrafo 1 comma b); e
+  - i) l’ordine di attaccare è dato al livello più alto del comando operativo,
+  - ii) è stato dato un avvertimento alle forze avverse, con mezzi efficaci, ingiungendo loro di porre fine all’utilizzazione di cui al paragrafo 1 comma b), e
   - iii) è concesso un termine ragionevole alle forze avverse per ripristinare la situazione.
 
 #### Art. 14
@@ -241,8 +242,8 @@ Commette un’infrazione ai sensi del presente Protocollo chiunque, intenzionalm
 - a) fa oggetto di un attacco un bene culturale sotto protezione rafforzata;
 - b) utilizza a sostegno di un’azione militare un bene culturale sotto protezione rafforzata o i suoi immediati dintorni;
 - c) distrugge o si appropria su vasta scala dei beni culturali protetti dalla Convenzione e dal presente Protocollo;
-- d) fa oggetto di un attacco un bene culturale coperto dalla Convenzione e dal presente Protocollo;
-- e) ruba, saccheggia o sottrae beni culturali protetti dalla Convenzione e compie atti di vandalismo contro beni culturali coperti dalla Convenzione.
+- d) fa oggetto di un attacco un bene culturale protetto dalla Convenzione e dal presente Protocollo;
+- e) ruba, saccheggia o sottrae beni culturali protetti dalla Convenzione o compie atti di vandalismo contro beni culturali coperti dalla Convenzione.
 
 <sup>(2)</sup> Ogni Parte adotta le misure che potrebbero essere necessarie per punire nel suo diritto interno le infrazioni previste nel presente articolo e per reprimerle con pene adeguate. In tal modo, le Parti si conformano ai principi generali del diritto e al diritto internazionale, in particolare alle regole che estendono la responsabilità penale individuale a persone diverse dagli autori diretti dell’atto.
 
@@ -252,9 +253,9 @@ Commette un’infrazione ai sensi del presente Protocollo chiunque, intenzionalm
 
 <sup>(1)</sup>
 
-Senza pregiudicare le disposizioni del paragrafo 2, ogni Parte adotta le misure legislative necessarie per stabilire la sua competenza riguardo alle infrazioni di cui all’articolo 15, nei seguenti casi:
+Senza pregiudicare il paragrafo 2, ogni Parte adotta le misure legislative necessarie per stabilire la sua competenza riguardo alle infrazioni di cui all’articolo 15, nei seguenti casi:
 
-- a) se l’infrazione è stata commessa sul territorio di questo Stato:
+- a) se l’infrazione è stata commessa sul territorio di questo Stato;
 - b) se l’autore presunto è un cittadino di questo Stato;
 - c) riguardo alle infrazioni di cui all’articolo 15 paragrafo 1 commi a)–c), se l’autore presunto è presente sul territorio di questo Stato.
 
@@ -269,7 +270,7 @@ Per quanto concerne l’esercizio della competenza e senza pregiudicare l’arti
 
 **Perseguimento**
 
-<sup>(1)</sup> La Parte sul territorio della quale è constatata la presenza dell’autore presunto di un’infrazione enunciata nell’articolo 15 commi a)–c), se non procede alla sua estradizione, sottopone il caso senza eccezioni e senza eccessivo indugio alle autorità competenti del perseguimento, secondo una procedura conforme al suo diritto interno o, se del caso, alle regole pertinenti del diritto internazionale.
+<sup>(1)</sup> La Parte sul territorio della quale è constatata la presenza dell’autore presunto di un’infrazione enunciata nell’articolo 15 paragrafo 1 commi a)–c), se non procede alla sua estradizione, sottopone il caso senza eccezioni e senza eccessivo indugio alle autorità competenti del perseguimento, secondo una procedura conforme al suo diritto interno o, se del caso, alle regole pertinenti del diritto internazionale.
 
 <sup>(2)</sup> Senza pregiudicare, se del caso, le regole pertinenti del diritto internazionale, ogni persona nei confronti della quale è avviata una procedura in virtù della Convenzione o del presente Protocollo beneficia della garanzia di un trattamento e di un procedimento equi, in tutte le fasi della procedura, conformemente al diritto interno e al diritto internazionale, e in alcun caso beneficia di garanzie meno favorevoli di quelle che le sarebbero riconosciute dal diritto internazionale.
 
@@ -303,7 +304,7 @@ Per quanto concerne l’esercizio della competenza e senza pregiudicare l’arti
 
 #### Art. 21
 
-**Misure concernenti altre infrazioni**
+**Misure concernenti altre violazioni**
 
 Senza pregiudicare l’articolo 28 della Convenzione, ogni Parte adotta le misure legislative, amministrative o disciplinari che potrebbero essere necessarie per far cessare i seguenti atti se sono commessi intenzionalmente:
 
@@ -320,7 +321,7 @@ Senza pregiudicare l’articolo 28 della Convenzione, ogni Parte adotta le misur
 
 <sup>(2)</sup> Il presente Protocollo non si applica alle situazioni di tensioni e di tumulti interni, come sommosse, atti isolati e sporadici di violenza e altri atti analoghi.
 
-<sup>(3)</sup> Nessuna disposizione del presente Protocollo è invocata per minacciare la sovranità di uno Stato o la responsabilità di un governo di mantenere o di ripristinare l’ordine pubblico nello Stato o di difendere l’unità nazionale e l’integrità territoriale dello Stato con tutti i mezzi legittimi.
+<sup>(3)</sup> Nessuna disposizione del presente Protocollo è invocata per minacciare la sovranità di uno Stato o la responsabilità del governo di mantenere o di ripristinare l’ordine pubblico nello Stato o di difendere l’unità nazionale e l’integrità territoriale dello Stato con tutti i mezzi legittimi.
 
 <sup>(4)</sup> Nessuna disposizione del presente Protocollo minaccia la priorità giurisdizionale di una Parte sul territorio della quale ha luogo un conflitto armato che non presenta un carattere internazionale per quanto concerne le violazioni di cui all’articolo 15.
 
@@ -358,7 +359,7 @@ All’Adunanza delle Parti compete:
 
 <sup>(1)</sup> È istituito un Comitato per la protezione dei beni culturali in caso di conflitto armato. Il Comitato è composto di dodici Parti che sono elette dall’Adunanza delle Parti.
 
-<sup>(2)</sup> Il Comitato si riunisce un volta all’anno in sessione ordinaria e ogni qualvolta lo ritenga necessario in sessione straordinaria.
+<sup>(2)</sup> Il Comitato si riunisce una volta all’anno in sessione ordinaria e ogni qualvolta lo ritenga necessario in sessione straordinaria.
 
 <sup>(3)</sup> Nella composizione del Comitato, le Parti badano ad assicurare un’equa rappresentanza delle diverse regioni e culture del mondo.
 
@@ -391,7 +392,7 @@ All’Adunanza delle Parti compete:
 Al Comitato compete:
 
 - a) elaborare le linee direttrici per l’applicazione del presente Protocollo;
-- b) accordare, sospendere o ritirare la protezione rafforzata a beni culturali, e stabilire, aggiornare e garantire la promozione dell’Elenco dei beni culturali sotto protezione rafforzata;
+- b) accordare, sospendere o ritirare la protezione rafforzata a beni culturali, e stabilire, aggiornare e garantire la promozione dell’Elenco internazionale dei beni culturali sotto protezione rafforzata;
 - c) seguire e controllare l’applicazione del presente Protocollo e favorire l’identificazione dei beni culturali sotto protezione rafforzata;
 - d) esaminare i rapporti delle Parti e formulare osservazioni in merito, ottenere dettagli, per quanto necessario, e redigere il proprio rapporto sull’applicazione del presente Protocollo all’indirizzo dell’Adunanza delle Parti;
 - e) ricevere ed esaminare le domande d’assistenza internazionale in virtù dell’articolo 32;
@@ -416,7 +417,7 @@ Il Comitato è assistito dal Segretariato dell’UNESCO che prepara la documenta
 
 È istituito un Fondo allo scopo di:
 
-- a) concedere un’assistenza finanziaria o di altro genere per sostenere le misure preparatorie e di altro genere da adottare in tempo di pace conformemente agli articoli 5, 10 comma b) e 30;
+- a) concedere un’assistenza finanziaria o di altro genere per sostenere le misure preparatorie o di altro genere da adottare in tempo di pace conformemente agli articoli 5, 10 comma b) e 30; e
 - b) concedere un’assistenza finanziaria o di altro genere per sostenere misure urgenti, misure provvisorie o qualsiasi altra misura di protezione dei beni culturali in periodo di conflitto armato o di ripristino immediatamente dopo la fine delle ostilità, conformemente all’articolo 8 comma a).
 
 <sup>(2)</sup> Il Fondo è costituito quale fondo di deposito, conformemente alle disposizioni del regolamento finanziario dell’UNESCO.
@@ -432,13 +433,13 @@ Le risorse del Fondo sono costituite:
 
   da contributi, donazioni o legati provenienti da:
 
-  - i) altri Stati;
-  - ii) dall’UNESCO o da altre organizzazioni del sistema delle Nazioni Unite;
-  - iii) da altre organizzazioni intergovernative o non governative;
+  - i) altri Stati,
+  - ii) dall’UNESCO o da altre organizzazioni del sistema delle Nazioni Unite,
+  - iii) da altre organizzazioni intergovernative o non governative, e
   - iv) da organismi pubblici o privati o da privati;
 
 - c) dagli interessi maturati delle risorse del Fondo;
-- d) dal ricavato delle collette e delle manifestazioni organizzate a favore del Fondo;
+- d) dal ricavato delle collette e delle manifestazioni organizzate a favore del Fondo; e
 - e) da qualsiasi altra risorsa autorizzata dagli orientamenti applicabili del Fondo.
 
 ## Capitolo 7: Diffusione dell’informazione e assistenza internazionale
@@ -504,7 +505,7 @@ Il presente Protocollo è applicato con l’assistenza delle Potenze protettrici
 
 <sup>(1)</sup> Le Potenze protettrici offrono i loro buoni uffici ogni qual volta lo ritengono utile nell’interesse dei beni culturali, segnatamente se vi è disaccordo fra le parti in conflitto sull’applicazione o l’interpretazione delle disposizioni del presente Protocollo.
 
-<sup>(2)</sup> A tale scopo, ciascuna delle Potenze protettrici può, su invito di una Parte o del Direttore generale o di propria iniziativa, proporre alle parti in conflitto una riunione di loro rappresentanti, e in particolare delle autorità incaricate della protezione dei beni culturali, eventualmente sul territorio di uno Stato che non è parte al conflitto. Le parti in conflitto sono tenute a dare seguito alle proposte di riunione che sono loro rivolte. Le Potenze protettrici propongono all’approvazione delle parti in conflitto una personalità di uno Stato non parte al conflitto o presentata dal Direttore generale che è invitata a partecipare a questa riunione in qualità di presidente.
+<sup>(2)</sup> A tale scopo, ciascuna delle Potenze protettrici può, su invito di una Parte, del Direttore generale o di propria iniziativa, proporre alle parti in conflitto una riunione di loro rappresentanti, e in particolare delle autorità incaricate della protezione dei beni culturali, eventualmente sul territorio di uno Stato che non è parte al conflitto. Le parti in conflitto sono tenute a dare seguito alle proposte di riunione che sono loro rivolte. Le Potenze protettrici propongono all’approvazione delle parti in conflitto una personalità di uno Stato non parte al conflitto o presentata dal Direttore generale che è invitata a partecipare a questa riunione in qualità di presidente.
 
 #### Art. 36
 
@@ -592,11 +593,13 @@ Il Direttore generale informa tutte le Alte Parti contraenti e l’Organizzazion
 
 **Registrazione presso l’Organizzazione delle Nazioni Unite**
 
-Il presente Protocollo è registrato presso il Segretariato dell’Organizzazione delle Nazioni Unite, conformemente all’articolo 102 dello Statuto delle Nazioni Unite, su richiesta del Direttore generale.
+Il presente Protocollo è registrato presso il Segretariato dell’Organizzazione delle Nazioni Unite, conformemente all’articolo 102 dello Statuto delle Nazioni Unite[^47-1], su richiesta del Direttore generale.
+
+[^47-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
 
 *In fede di che*, i sottoscritti, debitamente autorizzati, hanno firmato il presente Protocollo. Fatto all’Aia, il 26 marzo 1999, in un solo esemplare che sarà depositato nell’archivio dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura, e copie del quale, certificate conformi, saranno rimesse a tutte le Alte Parti contraenti. (Seguono le firme)
 
-Campo d’applicazione il 23 febbraio 2023[^t-2]
+Campo d’applicazione l’11 luglio 2024[^t-3]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -608,9 +611,9 @@ Campo d’applicazione il 23 febbraio 2023[^t-2]
 <tr><td>Azerbaigian\*</td><td>17 aprile</td><td>2001 A</td><td>9 marzo</td><td>2004</td></tr>
 <tr><td>Bahrein</td><td>26 agosto</td><td>2008 A</td><td>26 novembre</td><td>2008</td></tr>
 <tr><td>Barbados</td><td>2 ottobre</td><td>2008 A</td><td>2 gennaio</td><td>2009</td></tr>
-<tr><td>Belarus</td><td>13 dicembre</td><td>2000</td><td>9 marzo</td><td>2004</td></tr>
 <tr><td>Belgio\*</td><td>13 ottobre</td><td>2010</td><td>13 gennaio</td><td>2011</td></tr>
 <tr><td>Benin</td><td>17 aprile</td><td>2012 A</td><td>17 luglio</td><td>2012</td></tr>
+<tr><td>Bielorussia</td><td>13 dicembre</td><td>2000</td><td>9 marzo</td><td>2004</td></tr>
 <tr><td>Bosnia ed Erzegovina</td><td>22 maggio</td><td>2009 A</td><td>22 agosto</td><td>2009</td></tr>
 <tr><td>Botswana</td><td>19 novembre</td><td>2021 A</td><td>19 febbraio</td><td>2022</td></tr>
 <tr><td>Brasile</td><td>23 settembre</td><td>2005 A</td><td>23 dicembre</td><td>2005</td></tr>
@@ -618,14 +621,12 @@ Campo d’applicazione il 23 febbraio 2023[^t-2]
 <tr><td>Burkina Faso</td><td>5 febbraio</td><td>2018 A</td><td>5 maggio</td><td>2018</td></tr>
 <tr><td>Cambogia</td><td>17 settembre</td><td>2013</td><td>17 dicembre</td><td>2013</td></tr>
 <tr><td>Canada</td><td>29 novembre</td><td>2005 A</td><td>28 febbraio</td><td>2006</td></tr>
-<tr><td>Ceca, Repubblica</td><td>8 giugno</td><td>2007 A</td><td>8 settembre</td><td>2007</td></tr>
 <tr><td>Cile</td><td>11 settembre</td><td>2008 A</td><td>11 dicembre</td><td>2008</td></tr>
 <tr><td>Cipro</td><td>16 maggio</td><td>2001</td><td>9 marzo</td><td>2004</td></tr>
 <tr><td>Colombia</td><td>24 novembre</td><td>2010</td><td>24 febbraio</td><td>2011</td></tr>
 <tr><td>Costa Rica</td><td>9 dicembre</td><td>2003 A</td><td>9 marzo</td><td>2004</td></tr>
 <tr><td>Croazia</td><td>8 febbraio</td><td>2006</td><td>8 maggio</td><td>2006</td></tr>
 <tr><td>Danimarca <sup>a</sup></td><td>5 settembre</td><td>2018 A</td><td>5 dicembre</td><td>2018</td></tr>
-<tr><td>Dominicana, Repubblica</td><td>3 marzo</td><td>2009</td><td>3 giugno</td><td>2009</td></tr>
 <tr><td>Ecuador</td><td>2 agosto</td><td>2004</td><td>2 novembre</td><td>2004</td></tr>
 <tr><td>Egitto</td><td>3 agosto</td><td>2005</td><td>3 novembre</td><td>2005</td></tr>
 <tr><td>El Salvador</td><td>27 marzo</td><td>2002 A</td><td>9 marzo</td><td>2004</td></tr>
@@ -655,6 +656,7 @@ Campo d’applicazione il 23 febbraio 2023[^t-2]
 <tr><td>Madagascar</td><td>3 luglio</td><td>2018</td><td>3 ottobre</td><td>2018</td></tr>
 <tr><td>Mali <sup>b</sup></td><td>15 novembre</td><td>2012 A</td><td>15 novembre</td><td>2012</td></tr>
 <tr><td>Marocco</td><td>5 dicembre</td><td>2013</td><td>5 marzo</td><td>2014</td></tr>
+<tr><td>Mauritania</td><td>7 luglio</td><td>2023</td><td>7 ottobre</td><td>2023</td></tr>
 <tr><td>Messico</td><td>7 ottobre</td><td>2003 A</td><td>9 marzo</td><td>2004</td></tr>
 <tr><td>Montenegro</td><td>26 aprile</td><td>2007 S</td><td>3 giugno</td><td>2006</td></tr>
 <tr><td>Nicaragua</td><td>1° giugno</td><td>2001 A</td><td>9 marzo</td><td>2004</td></tr>
@@ -667,12 +669,14 @@ Campo d’applicazione il 23 febbraio 2023[^t-2]
 <tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>10 ottobre</td><td>2010</td><td>10 gennaio</td><td>2011</td></tr>
 <tr><td>Palestina</td><td>22 marzo</td><td>2012 A</td><td>22 giugno</td><td>2012</td></tr>
 <tr><td>Panama</td><td>8 marzo</td><td>2001 A</td><td>9 marzo</td><td>2004</td></tr>
-<tr><td>Portogallo</td><td>9 aprile</td><td>2018 A</td><td>9 luglio</td><td>2018</td></tr>
 <tr><td>Paraguay</td><td>9 novembre</td><td>2004 A</td><td>9 febbraio</td><td>2005</td></tr>
 <tr><td>Perù</td><td>24 maggio</td><td>2005</td><td>24 agosto</td><td>2005</td></tr>
 <tr><td>Polonia</td><td>3 gennaio</td><td>2012 A</td><td>3 aprile</td><td>2012</td></tr>
+<tr><td>Portogallo</td><td>9 aprile</td><td>2018 A</td><td>9 luglio</td><td>2018</td></tr>
 <tr><td>Qatar</td><td>4 settembre</td><td>2000</td><td>9 marzo</td><td>2004</td></tr>
 <tr><td>Regno Unito\*</td><td>12 settembre</td><td>2017 A</td><td>12 dicembre</td><td>2017</td></tr>
+<tr><td>Repubblica Ceca</td><td>8 giugno</td><td>2007 A</td><td>8 settembre</td><td>2007</td></tr>
+<tr><td>Repubblica Dominicana</td><td>3 marzo</td><td>2009 A</td><td>3 giugno</td><td>2009</td></tr>
 <tr><td>Romania</td><td>7 agosto</td><td>2006</td><td>7 novembre</td><td>2006</td></tr>
 <tr><td>Serbia</td><td>2 settembre</td><td>1999 A</td><td>9 marzo</td><td>2004</td></tr>
 <tr><td>Slovacchia</td><td>11 febbraio</td><td>2004</td><td>11 maggio</td><td>2004</td></tr>
@@ -687,7 +691,8 @@ Campo d’applicazione il 23 febbraio 2023[^t-2]
 <tr><td>Ucraina\* <sup>b</sup></td><td>30 giugno</td><td>2020 A</td><td>30 giugno</td><td>2020</td></tr>
 <tr><td>Ungheria</td><td>26 ottobre</td><td>2005</td><td>26 gennaio</td><td>2006</td></tr>
 <tr><td>Uruguay</td><td>3 gennaio</td><td>2007 A</td><td>3 aprile</td><td>2007</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, ad eccezione di quelle della Svizzera. I testi, francese ed inglese, possono essere consultati sul sito Internet dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura (UNESCO): [www.unesco.org](http://www.unesco.org) &gt; Français &gt; Ressources &gt; Documents, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Il Prot. non si applica alle Isole Féroé e alla Groenlandia. <sup>b</sup> Adesione con applicazione che da effetto immediato nel senso dell’art. 44 del Prot. <sup>c</sup> Il Prot. non si applica a Tokelau.</td></tr>
+<tr><td>Yemen</td><td>1° giugno</td><td>2023</td><td>1° settembre</td><td>2023</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, ad eccezione di quelle della Svizzera. I testi, francese ed inglese, possono essere consultati sul sito Internet dell’Organizzazione delle Nazioni Unite per l’educazione, la scienza e la cultura (UNESCO): [www.unesco.org](http://www.unesco.org) &gt; Français &gt; Ressources &gt; Documents, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Il Protocollo non vale né per le Isole Féroé né per la Groenlandia. <sup>b</sup> Adesione con applicazione che dà effetto immediato nel senso dell’art. 44 del Protocollo. <sup>c</sup> Il Protocollo non vale per Tokelau.</td></tr>
 </table>
 
-[^t-2]: [RU 2005 149](https://fedlex.data.admin.ch/eli/oc/2005/29), [4787](https://fedlex.data.admin.ch/eli/oc/2005/642); [2007 431](https://fedlex.data.admin.ch/eli/oc/2007/88); [2008 4125](https://fedlex.data.admin.ch/eli/oc/2008/579); [2010 845](https://fedlex.data.admin.ch/eli/oc/2010/132); [2013 279](https://fedlex.data.admin.ch/eli/oc/2013/40); [2015 1227](https://fedlex.data.admin.ch/eli/oc/2015/248); [2018 1161](https://fedlex.data.admin.ch/eli/oc/2018/171); [2020 1577](https://fedlex.data.admin.ch/eli/oc/2020/319), [2023 95](https://fedlex.data.admin.ch/eli/oc/2023/95). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [https://www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
+[^t-3]: Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](http://www.fedlex.admin.ch/it/treaty)
