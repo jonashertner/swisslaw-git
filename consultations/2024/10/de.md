@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung der Verordnung über die Miete und Pacht von Wohn- und Geschäftsräumen (VMWG)
 document: Vernehmlassungsvorlage
 language: de
