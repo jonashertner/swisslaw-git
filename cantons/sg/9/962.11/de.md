@@ -5,12 +5,12 @@ title: Strafprozessverordnung
 short: StPV
 language: de
 version: 2024-01-01
-valid_until: 2024-10-31
+corrected: 2024-07-12
 version_adopted: 2023-10-10
 adopted: 2010-11-23
 in_force: 2011-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/962.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3651/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3540/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
