@@ -3,13 +3,13 @@ canton: ZG
 number: "711.31"
 title: "Kantonaler Richtplan, Richtplantext"
 language: de
-version: 2023-07-07
-valid_until: 2024-07-11
-version_adopted: 2023-06-29
+version: 2024-07-12
+valid_until: 2025-07-10
+version_adopted: 2024-07-11
 adopted: 1988-09-01
 in_force: 1988-09-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/711.31"
-pdf: "https://bgs.zg.ch/api/de/versions/2632/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2697/pdf_file"
 text: pdf
 ---
 
@@ -17,7 +17,7 @@ text: pdf
 
 # Kantonaler Richtplan Richtplantext
 
-### Kantonsratsbeschlüsse bis: 4. Juli 2024 Vom Bundesrat genehmigt sind Kantonsratsbeschlüsse bis: 29. Juni 2023
+### Kantonsratsbeschlüsse bis: 4. Juli 2024 Vom Bundesrat genehmigt sind Kantonsratsbeschlüsse bis: 4. Juli 2024\* \* ausgenommen Kapitel S 2.1 Siedlungsbegrenzungslinie Unterägeri
 
 Amt für Raum und Verkehr
 
@@ -27,9 +27,9 @@ Herausgeber Baudirektion des Kantons Zug Amt für Raum und Verkehr Aabachstrasse
 
 6300 Zug T +41 41 594 54 80 info.arv@zg.ch
 
-Stand der Nachführung: Kantonsratsbeschlüsse bis: 4. Juli 2024 Vom Bundesrat genehmigt sind Kantonsratsbeschlüsse bis: 29. Juni 2023
+Stand der Nachführung: Kantonsratsbeschlüsse bis: 4. Juli 2024 Vom Bundesrat genehmigt sind Kantonsratsbeschlüsse bis: 4. Juli 2024 (ausgenommen ist das Kapitel S 2.1 Siedlungsbegrenzungslinie Unterägeri)
 
-Erstellt am 21. Oktober 2024
+Erstellt am 20. Mai 2025
 
 ### Vorwort
 
@@ -697,35 +697,19 @@ S 9.2.1 Die Gemeinden berücksichtigen in ihren Nutzungsplänen die Bedürfnisse
 
 **Stand Planquadrat**
 
-Nr. Gemeinde Vorhaben
+Nr. Gemeinde Vorhaben 7 Risch Aufhebung Tanklager (Antrag Kanton an den Vororientierung O 4 Bund) 8 Zug Hofstrasse, Standort Mittelschule 9 Menzingen Institut Bernarda, Standort Mittelschule 12 Zug Lüssiweg, Standort Mittelschule 14 Risch Rotkreuz Bahnhof, Standort Mittelschule Bei den nachfolgenden Planungen sind folgende Punkte zu vertiefen:
 
-**Festsetzung M 10**
-
-**K 10**
-
-**Festsetzung M 10 Festsetzung J 15**
-
-**M 10**
-
-**Festsetzung K 11**
-
-**O 4**
-
-**Festsetzung O 4**
-
-1 Zug Umnutzung altes Kantonsspital 6 Zug Erweiterung kantonale Verwaltung an der Aa Festsetzung 7 Risch Aufhebung Tanklager (Antrag Kanton an den Vororientierung O 4 Bund) 8 Zug Hofstrasse, Standort Mittelschule 9 Menzingen Institut Bernarda, Standort Mittelschule 10 Zug Neubau Kunsthaus, Areal des alten Kantons- Festsetzung spitals 12 Zug Lüssiweg, Standort Mittelschule 13 Risch Suurstoffi, Standort Fachhochschule Zentral- Festsetzung schweiz 14 Risch Rotkreuz Bahnhof, Standort Mittelschule Nr. Gemeinde Vorhaben Bei den nachfolgenden Planungen sind folgende Punkte zu vertiefen:
-
-**Stand Planquadrat**
+**Festsetzung M 10 Festsetzung J 15 Festsetzung K 11 Festsetzung O 4**
 
 - a. Gemeinsame Nutzungen: Erarbeiten eines Betriebskonzepts für die Nutzung der kantonalen Mittelschule und der gemeindlichen Sportanlagen;
 
 - b. Velo: Stärken der Veloinfrastruktur im Ennetsee;
 
-- c. Störfall: Der Kanton stellt den Einbezug der zuständigen Bundesbehörden und der SBB sicher. Sie erarbeiten gemeinsam die notwendigen, vorsorglichen Massnahmen. Kanton und Gemeinde legen in einem Bebauungsplan bzw. im Rahmen der Baubewilligung diese Massnahmen grundeigentümerverbindlich fest.
+**erar-**
 
-S 9.2.2 Der Kanton optimiert in Zusammenarbeit mit den Betreibern des öffentlichen Verkehrs und den Schulleitungen die Erschliessung der Standorte der Mittel- und Fachhochschulen.
+- c. Störfall: Der Kanton stellt den Einbezug der zuständigen Bundesbehörden und der SBB sicher. Sie beiten gemeinsam die notwendigen, vorsorglichen Massnahmen. Kanton und Gemeinde legen in einem Bebauungsplan bzw. im Rahmen der Baubewilligung diese Massnahmen grundeigentümerverbindlich fest.
 
-S 10 Preisgünstiger Wohnraum
+S 9.2.2 Der Kanton optimiert in Zusammenarbeit mit den Betreibern des öffentlichen Verkehrs und den Schulleitungen die Erschliessung der Standorte der Mittel- und Fachhochschulen. S 10 Preisgünstiger Wohnraum
 
 S 10.1 Grundsätze
 
