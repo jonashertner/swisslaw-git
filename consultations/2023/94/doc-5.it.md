@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifica delle ordinanze nell’ambito del diritto alimentare e dell’importazione, del transito e dell’esportazione di animali e prodotti animali"
 document: Progetto posto in consultazione
 language: it

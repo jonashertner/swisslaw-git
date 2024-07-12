@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modification d’ordonnances dans les domaines des denrées alimentaires et de l’importation, du transit et de l’exportation d’animaux et de produits animaux"
 document: Projet mis en consultation-7
 language: fr
