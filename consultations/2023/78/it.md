@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Legge federale sugli aiuti finanziari a favore dell’Istituto del federalismo
 document: Progetto posto in consultazione
 language: it

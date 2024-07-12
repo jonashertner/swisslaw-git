@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Bundesgesetz über Finanzhilfen für das Institut für Föderalismus
 document: Vernehmlassungsvorlage
 language: de

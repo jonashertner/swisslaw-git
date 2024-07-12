@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Loi fédérale sur les aides financières en faveur de l’Institut du fédéralisme
 document: Projet mis en consultation
 language: fr
