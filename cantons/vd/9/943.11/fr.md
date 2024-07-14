@@ -4,7 +4,7 @@ number: "943.11"
 title: LOI du 06.12.1988 sur les procédés de réclame (LPR)
 short: LPR
 language: fr
-version: 2020-01-01
+version: 2024-07-15
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/943.11?id=16154f30-b84b-41d2-b8d9-bf01f56b7842"
 ---
 
@@ -94,20 +94,24 @@ décrète
 
 **Interdiction des procédés pour des produits dont l'usage engendre la dépendance{4} [^5-1]**
 
-<sup>1</sup> Les procédés de réclame pour le tabac, les alcools de plus de 15 pour cent volume ainsi que les boissons distillées sucrées au sens de l'article 23bis, alinéa 2bis, de la loi fédérale sur l'alcool [^5a-1] (alcopops), sont interdits sur le domaine public et sur le domaine privé, visible du domaine public.
+<sup>1</sup> Les procédés de réclame pour les produits du tabac selon l'article 66b, alinéa 1bis, de la loi sur l'exercice des activités économiques[^5a-1] (LEAE), les autres produits à fumer à base de plantes, les cigarettes électroniques (avec ou sans nicotine), les autres produits nicotinés (à l'exception des produits soumis à la loi fédérale sur les produits thérapeutiques[^5a-2]), les produits assimilables selon l'article 66b, alinéa 1ter, de la LEAE ainsi que les objets qui forment une unité fonctionnelle avec ces produits, les alcools de plus de 15 pour cent volume ainsi que les boissons distillées sucrées au sens de l'article 23bis, alinéa 2bis, de la loi fédérale sur l'alcool[^5a-3] (alcopops), sont interdits sur le domaine public et sur le domaine privé visible du domaine public.
+
+<sup>2</sup> En dérogation aux articles 2, alinéa 1, et 3, alinéa 1, les procédés de réclame pour les produits cités à l'alinéa 1 qui atteignent des mineurs sont non seulement interdits à l'extérieur, mais également à l'intérieur, notamment dans les salles de cinéma, lors de manifestations culturelles et sportives, ainsi que dans les lieux privés accessibles au public.
 
 [^5-1]: Modif. 4 du 13.12.2006: Introduction Art. 5a; entrée en vigueur au 01.07.2007 · Modif. 8 du 21.11.2023: Modification Al. 1; entrée en vigueur au 15.07.2024; Introduction Al. 2; entrée en vigueur au 15.07.2024
-[^5a-1]: Loi fédérale du 21.06.1932 sur l’alcool (RS 680)
+[^5a-1]: Loi du 31.05.2005 sur l'exercice des activités économiques ([BLV 930.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/930.01?id=abb21ed7-f7ac-4292-b82a-dab323a913fa))
+[^5a-2]: [Loi fédérale du 15.12.2000 sur les médicaments et les dispositifs médicaux, RS 812.21](https://www.admin.ch/opc/fr/classified-compilation/20002716/index.html)
+[^5a-3]: [Loi fédérale du 21.06.1932 sur l'alcool, RS 680](https://www.admin.ch/opc/fr/classified-compilation/19320035/index.html)
 
 #### Art. 5b
 
-**Interdiction des procédés de réclame sexistes [^5a-2]**
+**Interdiction des procédés de réclame sexistes [^5a-4]**
 
 <sup>1</sup> Les procédés de réclame sexistes sont interdits sur le domaine public et sur le domaine privé, visible du domaine public.
 
 <sup>2</sup> Est considéré comme sexiste tout procédé de réclame dans lequel : des hommes ou des femmes sont affublés de stéréotypes sexuels mettant en cause l'égalité entre les sexes ; est représentée une forme de soumission ou d'asservissement ou est suggéré que des actions de violence ou de domination sont tolérables ; les enfants ou les adolescents ne sont pas respectés par un surcroît de retenue dû à leur âge ; il n'existe pas de lien naturel entre la manière dont la personne est représentée et le produit vanté ; la personne sert d'aguiche, dans une représentation purement décorative ; la sexualité est traitée de manière dégradante.
 
-[^5a-2]: Modif. 7 du 18.06.2019: Introduction Art. 5b; entrée en vigueur au 01.01.2020
+[^5a-4]: Modif. 7 du 18.06.2019: Introduction Art. 5b; entrée en vigueur au 01.01.2020
 
 #### Art. 6
 
