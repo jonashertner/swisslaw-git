@@ -4,13 +4,13 @@ number: "173.010"
 title: Übergangsverordnung des Obergerichts
 short: ÜVOG
 language: de
-version: 2024-06-01
-valid_until: 2024-07-14
-version_adopted: 2024-05-21
+version: 2024-07-15
+valid_until: 2024-12-31
+version_adopted: 2024-05-30
 adopted: 2024-10-31
 in_force: 2025-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/173.010"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3433/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3448/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3433/pdf_file"
 
 (ÜVOG)
 
-Vom 13.02.2024 (Stand 01.06.2024)
+Vom 13.02.2024 (Stand 15.07.2024)
 
 Gestützt auf Art. 51a Abs. 3 der Kantonsverfassung[^ingress-1] und Art. 40 Abs. 2 lit. a sowie Art. 43 des Gerichtsorganisationsgesetzes[^ingress-2]
 

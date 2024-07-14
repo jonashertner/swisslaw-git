@@ -4,13 +4,13 @@ number: "173.010"
 title: Ordinaziun transitorica da la Dretgira superiura
 short: OTDS
 language: rm
-version: 2024-06-01
-valid_until: 2024-07-14
-version_adopted: 2024-05-21
+version: 2024-07-15
+valid_until: 2024-12-31
+version_adopted: 2024-05-30
 adopted: 2024-10-31
 in_force: 2025-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/173.010"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3433/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3448/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3433/pdf_file"
 
 (OTDS)
 
-dals 13-02-2024 (versiun dals 01-06-2024)
+dals 13-02-2024 (versiun dals 15-07-2024)
 
 Sa basond sin l'art. 51a al. 3 da la Constituziun chantunala[^ingress-1] e sin l'art. 40 al. 2 lit. a sco era sin l'art. 43 da la Lescha davart l'organisaziun giudiziala[^ingress-2]
 

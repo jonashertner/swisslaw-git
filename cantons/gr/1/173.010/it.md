@@ -4,13 +4,13 @@ number: "173.010"
 title: "Ordinanza transitoria del Tribunale d'appello"
 short: OTTA
 language: it
-version: 2024-06-01
-valid_until: 2024-07-14
-version_adopted: 2024-05-21
+version: 2024-07-15
+valid_until: 2024-12-31
+version_adopted: 2024-05-30
 adopted: 2024-10-31
 in_force: 2025-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/173.010"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3433/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3448/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3433/pdf_file"
 
 (OTTA)
 
-del 13.02.2024 (stato 01.06.2024)
+del 13.02.2024 (stato 15.07.2024)
 
 emanata dal Tribunale d'appello il 13 febbraio 2024
 
