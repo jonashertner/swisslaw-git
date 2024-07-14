@@ -4,7 +4,7 @@ number: "930.01"
 title: "LOI du 31.05.2005 sur l'exercice des activités économiques (LEAE)"
 short: LEAE
 language: fr
-version: 2022-07-01
+version: 2024-07-15
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/930.01?id=abb21ed7-f7ac-4292-b82a-dab323a913fa"
 ---
 
@@ -99,10 +99,10 @@ décrète
 - i. octroi de crédit à la consommation et courtage en crédit au sens de l'article 39 de la loi fédérale sur le crédit à la consommation [^4-3] , ainsi que prêt sur gages et achat professionnel a réméré ;
 - j. commerce d'occasions ;
 - k. exploitation d'appareils automatiques mis à disposition du public contre finance ;
-- l. vente en détail de tabac.
+- l. vente en détail de produits du tabac (quel que soit le mode de consommation) et d'autres produits assimilables ;
 - m. transport de personnes à titre professionnel au sens du droit fédéral.
 
-[^3-1]: Modif. 5 du 03.06.2014: Modification Al. 1 a,b,c; entrée en vigueur au 01.11.2014; Abrogation Al. 1 d,f; entrée en vigueur au 01.11.2014; Introduction Al. 1 l; entrée en vigueur au 01.11.2014 · Modif. 7 du 12.03.2019: Modification tArt; entrée en vigueur au 01.01.2020; Modification Al. 1; entrée en vigueur au 01.01.2020; Introduction Al. 1, m; entrée en vigueur au 01.01.2020 · Modif. 10 du 21.11.2023: Modification Al. 1, l; entrée en vigueur au 15.07.2024; Introduction Art. 66b, Al. 1bis,1ter; entrée en vigueur au 15.07.2024
+[^3-1]: Modif. 5 du 03.06.2014: Modification Al. 1 a,b,c; entrée en vigueur au 01.11.2014; Abrogation Al. 1 d,f; entrée en vigueur au 01.11.2014; Introduction Al. 1 l; entrée en vigueur au 01.11.2014 · Modif. 7 du 12.03.2019: Modification tArt; entrée en vigueur au 01.01.2020; Modification Al. 1; entrée en vigueur au 01.01.2020; Introduction Al. 1, m; entrée en vigueur au 01.01.2020 · Modif. 10 du 21.11.2023: Modification Al. 1, l; entrée en vigueur au 15.07.2024
 [^4-1]: Loi fédérale du 17.12.2010 sur les guides de montagne et les organisateurs d'autres activités à risques (RS 935.91)
 [^4-2]: Loi fédérale du 23.03.2001 sur le commerce itinérant (RS 943.1)
 [^4-3]: Loi fédérale du 23.03.2001 sur le crédit à la consommation (RS 221.214.1)
@@ -978,156 +978,163 @@ décrète
 
 **Principe [^sectionSectionII-2]**
 
-<sup>1</sup> La vente en détail de tabac, y compris par appareils automatiques mis à disposition du public contre finance, nécessite l'obtention préalable, auprès de la préfecture du lieu de situation du point de vente, d'une autorisation pour la vente en détail de tabac.
+<sup>1</sup> La vente en détail de produits du tabac (quel que soit le mode de consommation) et d'autres produits assimilables, y compris par appareils automatiques mis à disposition du public contre finance, nécessite l'obtention préalable, auprès de la préfecture du lieu de situation du point de vente, d'une autorisation pour la vente en détail de tabac et d'autres produits assimilables.
 
-<sup>2</sup> Cette autorisation est accordée à la personne physique responsable du commerce ou de l'établissement dans lequel se pratique la vente en détail de tabac.
+<sup>2</sup> Cette autorisation est accordée à la personne physique responsable du commerce ou de l'établissement dans lequel se pratique la vente en détail de produits du tabac et d'autres produits assimilables.
 
 <sup>3</sup> L'autorisation est personnelle et incessible.
 
-[^sectionSectionII-2]: Modif. 5 du 03.06.2014: Introduction Art. 66a; entrée en vigueur au 01.01.2016 · Modif. 10 du 21.11.2023: Modification Al. 1-2; entrée en vigueur au 15.07.2024; Introduction Art. 66b, Al. 1bis,1ter; entrée en vigueur au 15.07.2024
+[^sectionSectionII-2]: Modif. 5 du 03.06.2014: Introduction Art. 66a; entrée en vigueur au 01.01.2016 · Modif. 10 du 21.11.2023: Modification Al. 1-2; entrée en vigueur au 15.07.2024
 
 #### Art. 66b
 
 **Définition [^66a-1]**
 
-<sup>1</sup> Par vente en détail de tabac, on entend toute vente inférieure à 5'000 pièces à la fois pour les cigares et cigarettes, et à 50 kilogrammes pour le tabac à fumer, à mâcher ou à priser.
+<sup>1</sup> Par vente en détail de produits du tabac (quel que soit le mode de consommation) et d'autres produits assimilables, on entend toute vente inférieure à 5'000 pièces à la fois pour les cigares et cigarettes, à 50 kilogrammes pour le tabac et les plantes à fumer, à mâcher ou à priser, et à 200 pièces pour les cigarettes électroniques, les autres produits nicotinés et les produits assimilables ainsi que les objets qui forment une unité fonctionnelle avec ces produits.
+
+<sup>1bis</sup> Par produits du tabac, on entend tous les produits contenant cette substance, quel qu'en soit le mode de consommation.
+
+<sup>1ter</sup> Par produits assimilables, on entend notamment les autres produits à fumer à base de plantes, les cigarettes électroniques (avec ou sans nicotine), et les autres produits nicotinés (à l'exception des produits soumis à la loi fédérale sur les produits thérapeutiques[^66b-1]).
 
 <sup>2</sup> Ne sont pas considérées comme vente en détail :
 
-- a. la vente du fabricant à un détaillant au bénéfice d'une autorisation de vente en détail de tabac ;
+- a. la vente du fabricant à un détaillant au bénéfice d'une autorisation de vente en détail de produits du tabac et d'autres produits assimilables;
 - b. la vente du tabac en feuilles non manufacturées, quelle qu'en soit la quantité.
 
 [^66a-1]: Modif. 5 du 03.06.2014: Introduction Art. 66b; entrée en vigueur au 01.01.2016 · Modif. 10 du 21.11.2023: Modification Al. 1; entrée en vigueur au 15.07.2024; Introduction Al. 1bis,1ter; entrée en vigueur au 15.07.2024; Modification Al. 2, a; entrée en vigueur au 15.07.2024
+[^66b-1]: [Loi fédérale du 15.12.2000 sur les médicaments et les dispositifs médicaux, RS 812.21](https://www.admin.ch/opc/fr/classified-compilation/20002716/index.html)
 
 #### Art. 66c
 
-**Compétence [^66b-1]**
+**Compétence [^66b-2]**
 
-<sup>1</sup> La personne qui souhaite obtenir une autorisation de vente en détail de tabac dépose sa demande auprès de la municipalité du lieu de situation du point de vente.
+<sup>1</sup> La personne qui souhaite obtenir une autorisation de vente en détail de produits du tabac et d'autres produits assimilables dépose sa demande auprès de la municipalité du lieu de situation du point de vente.
 
 <sup>2</sup> La municipalité transmet la demande à la préfecture, accompagnée de son préavis.
 
-[^66b-1]: Modif. 5 du 03.06.2014: Introduction Art. 66c; entrée en vigueur au 01.01.2016 · Modif. 10 du 21.11.2023: Introduction Art. 66b, Al. 1bis,1ter; entrée en vigueur au 15.07.2024; Modification Al. 1; entrée en vigueur au 15.07.2024
+[^66b-2]: Modif. 5 du 03.06.2014: Introduction Art. 66c; entrée en vigueur au 01.01.2016 · Modif. 10 du 21.11.2023: Modification Al. 1; entrée en vigueur au 15.07.2024
 
 #### Art. 66d
 
 **Début de la vente en détail [^66c-1]**
 
-<sup>1</sup> La vente en détail de tabac ne peut débuter qu'à partir du moment où l'autorisation est délivrée à l'intéressé.
+<sup>1</sup> La vente en détail de produits du tabac et d'autres produits assimilables ne peut débuter qu'à partir du moment où l'autorisation est délivrée à l'intéressé.
 
-[^66c-1]: Modif. 5 du 03.06.2014: Introduction Art. 66d; entrée en vigueur au 01.01.2016 · Modif. 10 du 21.11.2023: Introduction Art. 66b, Al. 1bis,1ter; entrée en vigueur au 15.07.2024; Modification Al. 1; entrée en vigueur au 15.07.2024
+[^66c-1]: Modif. 5 du 03.06.2014: Introduction Art. 66d; entrée en vigueur au 01.01.2016 · Modif. 10 du 21.11.2023: Modification Al. 1; entrée en vigueur au 15.07.2024
 
 #### Art. 66e
 
 **Responsabilité [^66d-1]**
 
-<sup>1</sup> Le titulaire de l'autorisation de vente en détail de tabac répond de la direction, en fait et en droit, du point de vente en détail de tabac pour lequel il a obtenu une autorisation.
+<sup>1</sup> Le titulaire de l'autorisation de vente en détail de produits du tabac et d'autres produits assimilables répond de la direction, en fait et en droit, de ce point de vente.
 
-[^66d-1]: Modif. 5 du 03.06.2014: Introduction Art. 66e; entrée en vigueur au 01.01.2016 · Modif. 10 du 21.11.2023: Introduction Art. 66b, Al. 1bis,1ter; entrée en vigueur au 15.07.2024; Modification Al. 1; entrée en vigueur au 15.07.2024
+[^66d-1]: Modif. 5 du 03.06.2014: Introduction Art. 66e; entrée en vigueur au 01.01.2016 · Modif. 10 du 21.11.2023: Modification Al. 1; entrée en vigueur au 15.07.2024
 
 #### Art. 66f
 
 **Conditions à l'octroi de l'autorisation [^66e-1]**
 
-<sup>1</sup> L'autorisation d'exercer l'activité de vente en détail de tabac est octroyée par la préfecture, aux conditions suivantes :
+<sup>1</sup> L'autorisation d'exercer l'activité de vente en détail de produits du tabac et d'autres produits assimilables est octroyée par la préfecture, aux conditions suivantes :
 
-- a. le requérant n'a pas fait l'objet, dans les deux ans précédant le dépôt de la demande, d'une condamnation pénale en relation avec la vente en détail de tabac ;
-- b. le requérant n'a pas donné lieu, dans les deux ans précédant le dépôt de la demande, à une sanction administrative en rapport avec la vente en détail de tabac.
+- a. le requérant n'a pas fait l'objet, dans les deux ans précédant le dépôt de la demande, d'une condamnation pénale en relation avec la vente en détail de produits du tabac et d'autres produits assimilables ;
+- b. le requérant n'a pas donné lieu, dans les deux ans précédant le dépôt de la demande, à une sanction administrative en rapport avec la vente en détail de produits du tabac et d'autres produits assimilables.
 
-[^66e-1]: Modif. 5 du 03.06.2014: Introduction Art. 66f; entrée en vigueur au 01.01.2016 · Modif. 10 du 21.11.2023: Introduction Art. 66b, Al. 1bis,1ter; entrée en vigueur au 15.07.2024; Modification Al. 1; entrée en vigueur au 15.07.2024; Modification Al. 1, a-b; entrée en vigueur au 15.07.2024
+[^66e-1]: Modif. 5 du 03.06.2014: Introduction Art. 66f; entrée en vigueur au 01.01.2016 · Modif. 10 du 21.11.2023: Modification Al. 1; entrée en vigueur au 15.07.2024; Modification Al. 1, a-b; entrée en vigueur au 15.07.2024
 
 #### Art. 66g
 
 **Points de vente [^66f-1]**
 
-<sup>1</sup> Une autorisation devra être demandée pour chaque point de vente en détail de tabac.
+<sup>1</sup> Une autorisation devra être demandée pour chaque point de vente en détail de produits du tabac et d'autres produits assimilables.
 
 <sup>2</sup> En particulier, une autorisation devra être sollicitée :
 
-- a. pour chaque local dans lequel ou à partir duquel s'effectue la vente en détail de tabac ;
-- b. pour chaque appareil automatique utilisé pour la vente en détail de tabac ;
-- c. pour la vente en détail de tabac par internet, lorsque celle-ci se fait depuis le Canton de Vaud ;
+- a. pour chaque local dans lequel ou à partir duquel s'effectue la vente en détail de produits du tabac et d'autres produits assimilables ;
+- b. pour chaque appareil automatique utilisé pour la vente en détail de produits du tabac et d'autres produits assimilables ;
+- c. pour la vente en détail de produits du tabac et d'autres produits assimilables par internet, lorsque celle-ci se fait depuis le Canton de Vaud ;
 - d. pour chaque point de vente temporaire exploité à l'occasion d'une manifestation.
 
 <sup>3</sup> Les autres dispositions de la présente loi relatives aux distributeurs automatiques sont réservées.
 
-[^66f-1]: Modif. 5 du 03.06.2014: Introduction Art. 66g; entrée en vigueur au 01.01.2016 · Modif. 10 du 21.11.2023: Introduction Art. 66b, Al. 1bis,1ter; entrée en vigueur au 15.07.2024; Modification Al. 1; entrée en vigueur au 15.07.2024; Modification Al. 2, a-c; entrée en vigueur au 15.07.2024
+[^66f-1]: Modif. 5 du 03.06.2014: Introduction Art. 66g; entrée en vigueur au 01.01.2016 · Modif. 10 du 21.11.2023: Modification Al. 1; entrée en vigueur au 15.07.2024; Modification Al. 2, a-c; entrée en vigueur au 15.07.2024
 
 #### Art. 66h
 
 **Vente de tabac par appareils automatiques [^66g-1]**
 
-<sup>1</sup> Est interdite la vente de tabac par le biais d'appareils automatiques aux endroits accessibles au public, à l'exception des appareils placés à l'intérieur des établissements surveillés par leur exploitant.
+<sup>1</sup> Est interdite la vente de produits du tabac et d'autres produits assimilables par le biais d'appareils automatiques aux endroits accessibles au public, à l'exception des appareils placés à l'intérieur des établissements qui nécessitent l'obtention d'une licence au sens de la législation sur les auberges et débits de boissons[^66h-1] (LADB) surveillés par leur exploitant. La vente par le biais de ces appareils est cependant interdite aux mineurs.
 
-[^66g-1]: Modif. 5 du 03.06.2014: Introduction Art. 66h; entrée en vigueur au 01.11.2014 · Modif. 10 du 21.11.2023: Introduction Art. 66b, Al. 1bis,1ter; entrée en vigueur au 15.07.2024; Modification Al. 1; entrée en vigueur au 15.07.2024
+[^66g-1]: Modif. 5 du 03.06.2014: Introduction Art. 66h; entrée en vigueur au 01.11.2014 · Modif. 10 du 21.11.2023: Modification Al. 1; entrée en vigueur au 15.07.2024
+[^66h-1]: Loi du 26.03.2002 sur les auberges et les débits de boissons ( [BLV 935.31](https://prestations.vd.ch/pub/blv-publication/actes/consolide/935.31?id=2b5cc544-8cd7-4ab7-bd40-7177bdce3177))
 
 #### Art. 66i
 
-**Interdiction de remise et de vente de tabac [^66h-1]**
+**Interdiction de remise et de vente de produits du tabac, de cigarettes électroniques et de produits assimilables [^66h-2]**
 
 <sup>1</sup> Sont interdites :
 
-- a. la remise ou la vente de tabac à une personne mineure ;
-- b. la remise ou la vente de tabac à une personne majeure, s'il y a lieu de penser que celle-ci s'en procure pour une personne mineure.
+- a. la remise ou la vente à une personne mineure de produits du tabac, d'autres produits à fumer à base de plantes, de cigarettes électroniques (avec ou sans nicotine), d'autres produits nicotinés (à l'exception des produits soumis à la loi fédérale sur les produits thérapeutiques[^66i-1]), des produits assimilables ainsi que des objets qui forment une unité fonctionnelle avec ces produits ;
+- b. la remise ou la vente de ces produits à une personne majeure, s'il y a lieu de penser que celle-ci s'en procure pour une personne mineure.
 
 <sup>2</sup> Le personnel de vente contrôle l'âge des clients et clientes. Il peut à cette fin exiger la présentation d'une pièce d'identité.
 
-[^66h-1]: Modif. 5 du 03.06.2014: Introduction Art. 66i; entrée en vigueur au 01.11.2014 · Modif. 10 du 21.11.2023: Introduction Art. 66b, Al. 1bis,1ter; entrée en vigueur au 15.07.2024; Modification tArt; entrée en vigueur au 15.07.2024; Modification Al. 1, a-b; entrée en vigueur au 15.07.2024
+[^66h-2]: Modif. 5 du 03.06.2014: Introduction Art. 66i; entrée en vigueur au 01.11.2014 · Modif. 10 du 21.11.2023: Modification tArt; entrée en vigueur au 15.07.2024; Modification Al. 1, a-b; entrée en vigueur au 15.07.2024
+[^66i-1]: [Loi fédérale du 15.12.2000 sur les médicaments et les dispositifs médicaux, RS 812.21](https://www.admin.ch/opc/fr/classified-compilation/20002716/index.html)
 
 #### Art. 66j
 
-**Protection de la jeunesse [^66i-1]**
+**Protection de la jeunesse [^66i-2]**
 
-<sup>1</sup> Le titulaire d'une autorisation de vente en détail de tabac doit apposer un avis pour la protection de la jeunesse, bien en évidence :
+<sup>1</sup> Le titulaire d'une autorisation de vente en détail de produits du tabac et d'autres produits assimilables doit apposer un avis pour la protection de la jeunesse, bien en évidence :
 
-- a. au rayon des cigarettes ;
+- a. au rayon des cigarettes et des autres produits assimilables ;
 - b. à proximité immédiate de la caisse de son point de vente ;
 - c. sur chaque appareil automatique ;
-- d. sur chaque page de son site internet dédiée à la vente de tabac.
+- d. sur chaque page de son site internet dédiée à la vente de produits du tabac et d'autres produits assimilables.
 
 <sup>2</sup> Cet avis doit rappeler que :
 
-- a. la vente de tabac aux personnes de moins de 18 ans révolus est interdite ;
-- b. la remise de tabac aux personnes de moins de 18 ans révolus est interdite ;
+- a. la vente de produits du tabac et d'autres produits assimilables aux personnes de moins de 18 ans révolus est interdite ;
+- b. la remise de produits du tabac et d'autres produits assimilables aux personnes de moins de 18 ans révolus est interdite.
 - c. les contrevenants s'exposent à des sanctions pénales.
 
-[^66i-1]: Modif. 5 du 03.06.2014: Introduction Art. 66j; entrée en vigueur au 01.11.2014 · Modif. 10 du 21.11.2023: Introduction Art. 66b, Al. 1bis,1ter; entrée en vigueur au 15.07.2024; Modification Al. 1; entrée en vigueur au 15.07.2024; Modification Al. 1, a,d; entrée en vigueur au 15.07.2024; Modification Al. 2, a-b; entrée en vigueur au 15.07.2024
+[^66i-2]: Modif. 5 du 03.06.2014: Introduction Art. 66j; entrée en vigueur au 01.11.2014 · Modif. 10 du 21.11.2023: Modification Al. 1; entrée en vigueur au 15.07.2024; Modification Al. 1, a,d; entrée en vigueur au 15.07.2024; Modification Al. 2, a-b; entrée en vigueur au 15.07.2024
 
 #### Art. 66k
 
 **Surveillance et droit d'inspection [^66j-1]**
 
-<sup>1</sup> La surveillance des points de vente en détail de tabac est exercée par la municipalité. La police peut être requise à cet effet.
+<sup>1</sup> La surveillance des points de vente en détail de produits du tabac et d'autres produits assimilables est exercée par la municipalité. La police peut être requise à cet effet.
 
-<sup>2</sup> La municipalité, la police ou les employés communaux désignés à cet effet par la municipalité ont, en tout temps, le droit d'inspecter les commerces soumis à autorisation de vente en détail de tabac et les locaux attenants.
+<sup>2</sup> La municipalité, la police ou les employés communaux désignés à cet effet par la municipalité ont, en tout temps, le droit d'inspecter les commerces soumis à autorisation de vente en détail de produits du tabac et d'autres produits assimilables et les locaux attenants.
 
 <sup>3</sup> Toute intervention faisant l'objet d'un rapport, doit être signalée dans les meilleurs délais à la préfecture, par l'envoi d'une copie dudit rapport.
 
-[^66j-1]: Modif. 5 du 03.06.2014: Introduction Art. 66k; entrée en vigueur au 01.01.2016 · Modif. 10 du 21.11.2023: Introduction Art. 66b, Al. 1bis,1ter; entrée en vigueur au 15.07.2024; Modification Al. 1-2; entrée en vigueur au 15.07.2024
+[^66j-1]: Modif. 5 du 03.06.2014: Introduction Art. 66k; entrée en vigueur au 01.01.2016 · Modif. 10 du 21.11.2023: Modification Al. 1-2; entrée en vigueur au 15.07.2024
 
 #### Art. 66l
 
 **Emolument de délivrance de l'autorisation [^66k-1]**
 
-<sup>1</sup> Le Conseil d'Etat fixe par voie règlementaire le tarif des émoluments destinés à couvrir les frais effectifs relatifs au travail de l'administration occasionné par la délivrance des autorisations pour la vente en détail de tabac.
+<sup>1</sup> Le Conseil d'Etat fixe par voie réglementaire le tarif des émoluments destinés à couvrir les frais effectifs relatifs au travail de l'administration occasionné par la délivrance des autorisations pour la vente en détail de produits du tabac et d'autres produits assimilables.
 
-[^66k-1]: Modif. 5 du 03.06.2014: Introduction Art. 66l; entrée en vigueur au 01.01.2016 · Modif. 10 du 21.11.2023: Introduction Art. 66b, Al. 1bis,1ter; entrée en vigueur au 15.07.2024; Modification Al. 1; entrée en vigueur au 15.07.2024
+[^66k-1]: Modif. 5 du 03.06.2014: Introduction Art. 66l; entrée en vigueur au 01.01.2016 · Modif. 10 du 21.11.2023: Modification Al. 1; entrée en vigueur au 15.07.2024
 
 #### Art. 66m
 
 **Emolument de surveillance [^66l-1]**
 
-<sup>1</sup> Le Conseil d'Etat fixe par voie réglementaire le tarif des émoluments destinés à couvrir les frais effectifs relatifs au travail des administrations communales et cantonale occasionné par la surveillance ordinaire des points de vente en détail de tabac.
+<sup>1</sup> Le Conseil d'Etat fixe par voie réglementaire le tarif des émoluments destinés à couvrir les frais effectifs relatifs au travail des administrations communales et cantonale occasionné par la surveillance ordinaire des points de vente en détail de produits du tabac et d'autres produits assimilables.
 
-[^66l-1]: Modif. 5 du 03.06.2014: Introduction Art. 66m; entrée en vigueur au 01.01.2016 · Modif. 10 du 21.11.2023: Introduction Art. 66b, Al. 1bis,1ter; entrée en vigueur au 15.07.2024; Modification Al. 1; entrée en vigueur au 15.07.2024
+[^66l-1]: Modif. 5 du 03.06.2014: Introduction Art. 66m; entrée en vigueur au 01.01.2016 · Modif. 10 du 21.11.2023: Modification Al. 1; entrée en vigueur au 15.07.2024
 
 #### Art. 66n
 
 **Interdiction temporaire de vente [^66m-1]**
 
-<sup>1</sup> La préfecture peut prononcer une interdiction de vendre en détail du tabac pour une durée de dix jours à six mois en cas d'infraction, grave ou réitérée, aux dispositions des législations fédérales, cantonales, et communales en rapport avec la vente en détail de tabac ou la lutte contre le tabagisme.
+<sup>1</sup> La préfecture peut prononcer une interdiction de vendre en détail des produits du tabac et d'autres produits assimilables pour une durée de dix jours à six mois en cas d'infraction, grave ou réitérée, aux dispositions des législations fédérales, cantonales, et communales en rapport avec la vente en détail de produits du tabac et d'autres produits assimilables ou la lutte contre le tabagisme.
 
-[^66m-1]: Modif. 5 du 03.06.2014: Introduction Art. 66n; entrée en vigueur au 01.11.2014 · Modif. 10 du 21.11.2023: Introduction Art. 66b, Al. 1bis,1ter; entrée en vigueur au 15.07.2024; Modification Al. 1; entrée en vigueur au 15.07.2024
+[^66m-1]: Modif. 5 du 03.06.2014: Introduction Art. 66n; entrée en vigueur au 01.11.2014 · Modif. 10 du 21.11.2023: Modification Al. 1; entrée en vigueur au 15.07.2024
 [^66n-1]: Modif. 7 du 12.03.2019: Modification ; entrée en vigueur au 01.01.2020
 
 ### Chapitre IV Autorisation délivrée par la commune ou l'association de communes
@@ -1203,9 +1210,9 @@ décrète
 
 **Vente de tabac [^72-1]**
 
-<sup>1</sup> Les articles 66a et suivants sont applicables à la vente de tabac par le biais d'appareils automatiques.
+<sup>1</sup> Les articles 66a et suivants sont applicables à la vente de produits du tabac et d'autres produits assimilables par le biais d'appareils automatiques.
 
-[^72-1]: Modif. 5 du 03.06.2014: Modification Al. 1; entrée en vigueur au 01.11.2014 · Modif. 10 du 21.11.2023: Introduction Art. 66b, Al. 1bis,1ter; entrée en vigueur au 15.07.2024; Modification Al. 1; entrée en vigueur au 15.07.2024
+[^72-1]: Modif. 5 du 03.06.2014: Modification Al. 1; entrée en vigueur au 01.11.2014 · Modif. 10 du 21.11.2023: Modification Al. 1; entrée en vigueur au 15.07.2024
 
 #### Art. 74
 
@@ -1267,7 +1274,7 @@ décrète
 
 <sup>1</sup> La personne physique ou morale qui met en location ou en sous-location un hébergement s'annonce au moins dix jours avant la première nuitée auprès de la commune du lieu de situation du logement et lui communique les données nécessaires à la tenue du Registre des loueurs.
 
-<sup>2</sup> En particulier, le loueur fournira l'avis donné au bailleur et prescrit par l'article 262 CO[^74c-1], ainsi que toute information utile sur le respect du délai et des exigences posées par l'article 15, alinéa 2 RLPPL[^74c-2].
+<sup>2</sup> En particulier, le loueur fournira l'avis donné au bailleur et prescrit par l'article 262 CO[^74c-1], ainsi que toute information utile sur le respect du délai et des exigences posées par l'article 15, alinéa 2 RLPPPL[^74c-2].
 
 <sup>3</sup> Le loueur tient un registre permettant le contrôle des personnes hébergées (copie d'une pièce d'identité ou d'un passeport) et mentionnant les périodes précises d'hébergement (dates d'arrivée et de départ).
 
@@ -1642,15 +1649,16 @@ décrète
 
 <sup>1</sup> Des achats tests peuvent être organisés par les autorités cantonales et communales chargées de vérifier le respect de l'âge légal de remise ou d'accès à une prestation ou un service, notamment pour :
 
-- a. le tabac ;
+- a. les produits du tabac, les autres produits à fumer à base de plantes, les cigarettes électroniques (avec ou sans nicotine), les autres produits nicotinés (à l'exception des produits soumis à la loi fédérale sur les produits thérapeutiques[^98a-1]), les produits assimilables ainsi que les objets qui forment une unité fonctionnelle avec ces produits ;
 - b. les solariums ;
 - c. les films ou les jeux-vidéos.
 
-[^sectionSectionIII-3]: Modif. 5 du 03.06.2014: Introduction Art. 98a; entrée en vigueur au 01.11.2014 · Modif. 10 du 21.11.2023: Introduction Art. 66b, Al. 1bis,1ter; entrée en vigueur au 15.07.2024; Modification Al. 1, a; entrée en vigueur au 15.07.2024
+[^sectionSectionIII-3]: Modif. 5 du 03.06.2014: Introduction Art. 98a; entrée en vigueur au 01.11.2014 · Modif. 10 du 21.11.2023: Modification Al. 1, a; entrée en vigueur au 15.07.2024
+[^98a-1]: [Loi fédérale du 15.12.2000 sur les médicaments et les dispositifs médicaux, RS 812.21](https://www.admin.ch/opc/fr/classified-compilation/20002716/index.html)
 
 #### Art. 98b
 
-**Utilisation des résultats [^98a-1]**
+**Utilisation des résultats [^98a-2]**
 
 <sup>1</sup> Les résultats des achats tests ne peuvent être utilisés dans des procédures pénales et administratives que si :
 
@@ -1661,7 +1669,7 @@ décrète
 - e. aucune mesure n'a été prise pour dissimuler l'âge réel des adolescents ;
 - f. les achats tests ont été immédiatement protocolés et documentés.
 
-[^98a-1]: Modif. 5 du 03.06.2014: Introduction Art. 98b; entrée en vigueur au 01.11.2014
+[^98a-2]: Modif. 5 du 03.06.2014: Introduction Art. 98b; entrée en vigueur au 01.11.2014
 
 #### Art. 98c
 
