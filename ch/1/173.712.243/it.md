@@ -3,18 +3,18 @@ sr: "173.712.243"
 title: Regolamento del 15 febbraio 2021 dell’autorità di vigilanza sul Ministero pubblico della Confederazione
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/177"
 language: it
-version: 2022-02-15
+version: 2024-07-15
 adopted: 2021-02-15
 in_force: 2021-04-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/177/20220215/it/xml/fedlex-data-admin-ch-eli-cc-2021-177-20220215-it-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/177/20220215/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/177/20240715/it/xml/fedlex-data-admin-ch-eli-cc-2021-177-20240715-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/177/20240715/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Regolamento dell’autorità di vigilanza sul Ministero pubblico della Confederazione
 
-del 15 febbraio 2021 (Stato 15 febbraio 2022)
+del 15 febbraio 2021 (Stato 15 luglio 2024)
 
 L’autorità di vigilanza sul Ministero pubblico della Confederazione (autorità di vigilanza),
 
@@ -284,6 +284,10 @@ La segreteria adempie in particolare i seguenti compiti:
 <sup>1</sup> L’autorità di vigilanza adotta ogni anno un rapporto sulla propria attività a destinazione dell’Assemblea federale (art. 29 cpv. 1 LOAP). Esso viene pubblicato.
 
 <sup>2</sup> L’autorità di vigilanza informa inoltre periodicamente o quando necessario il pubblico in merito a importanti attività e risultati.
+
+<sup>3</sup> L’autorità di vigilanza ha un proprio sito Internet. Vi pubblica tutte le informazioni rilevanti in merito alle sue attività.[^22-1]
+
+[^22-1]: Introdotto dal n. I della dec. dell’autorità di vigilanza del 15 mag. 2024, in vigore dal 15 lug. 2024 ([RU 2024 275](https://fedlex.data.admin.ch/eli/oc/2024/275)).
 
 ## Sezione 7: Disposizioni finali
 

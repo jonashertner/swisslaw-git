@@ -3,18 +3,18 @@ sr: "173.712.243"
 title: Reglement vom 15. Februar 2021 der Aufsichtsbehörde über die Bundesanwaltschaft
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/177"
 language: de
-version: 2022-02-15
+version: 2024-07-15
 adopted: 2021-02-15
 in_force: 2021-04-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/177/20220215/de/xml/fedlex-data-admin-ch-eli-cc-2021-177-20220215-de-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/177/20220215/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/177/20240715/de/xml/fedlex-data-admin-ch-eli-cc-2021-177-20240715-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/177/20240715/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Reglement der Aufsichtsbehörde über die Bundesanwaltschaft
 
-vom 15. Februar 2021 (Stand am 15. Februar 2022)
+vom 15. Februar 2021 (Stand am 15. Juli 2024)
 
 Die Aufsichtsbehörde über die Bundesanwaltschaft (Aufsichtsbehörde)
 
@@ -97,7 +97,7 @@ Für die Untersuchung von Einzelfragen kann die Aufsichtsbehörde bei der Bundes
 
 <sup>4</sup> Über Befragungen von Mitarbeitenden der Bundesanwaltschaft innerhalb einer Inspektion wird ein Wortprotokoll erstellt.
 
-<sup>5</sup> <sup>5</sup> Die Aufsichtsbehörde regelt die Einzelheiten zur Durchführung von Inspektionen in einem Leitfaden.
+<sup>5</sup> Die Aufsichtsbehörde regelt die Einzelheiten zur Durchführung von Inspektionen in einem Leitfaden.
 
 #### Art. 7
 
@@ -284,6 +284,10 @@ Es hat insbesondere folgende Aufgaben:
 <sup>1</sup> Die Aufsichtsbehörde verabschiedet jährlich einen Tätigkeitsbericht zuhanden der Bundesversammlung (Art. 29 Abs. 1 StBOG). Dieser wird veröffentlicht.
 
 <sup>2</sup> Sie informiert die Öffentlichkeit zusätzlich periodisch oder nach Bedarf über wichtige Tätigkeiten und Erkenntnisse.
+
+<sup>3</sup> Sie verfügt über eine eigene Website. Sie veröffentlicht darauf alle relevanten Informationen über ihre Tätigkeit.[^22-1]
+
+[^22-1]: Eingefügt durch Ziff. I des Beschlusses der Aufsichtsbehörde vom 15. Mai 2024, in Kraft seit 15. Juli 2024 ([AS 2024 275](https://fedlex.data.admin.ch/eli/oc/2024/275)).
 
 ## 7. Abschnitt: Schlussbestimmungen
 

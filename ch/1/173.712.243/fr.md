@@ -3,18 +3,18 @@ sr: "173.712.243"
 title: Règlement du 15 février 2021 de l’autorité de surveillance du Ministère public de la Confédération
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/177"
 language: fr
-version: 2022-02-15
+version: 2024-07-15
 adopted: 2021-02-15
 in_force: 2021-04-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/177/20220215/fr/xml/fedlex-data-admin-ch-eli-cc-2021-177-20220215-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/177/20220215/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/177/20240715/fr/xml/fedlex-data-admin-ch-eli-cc-2021-177-20240715-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/177/20240715/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Règlement de l’autorité de surveillance du Ministère public de la Confédération
 
-du 15 février 2021 (État le 15 février 2022)
+du 15 février 2021 (État le 15 juillet 2024)
 
 L’autorité de surveillance du Ministère public de la Confédération (autorité de surveillance),
 
@@ -284,6 +284,10 @@ Il est chargé notamment des tâches suivantes:
 <sup>1</sup> L’autorité de surveillance adopte un rapport d’activité annuel à l’intention de l’Assemblée fédérale (art. 29, al. 1, LOAP). Ce rapport est publié.
 
 <sup>2</sup> L’autorité de surveillance informe également le public, périodiquement ou suivant les besoins, de ses activités et conclusions importantes.
+
+<sup>3</sup> Elle dispose de son propre site Internet. Elle y publie les informations pertinentes sur ses activités.[^22-1]
+
+[^22-1]: Introduit par le ch. I de la D de l’autorité de surveillance du 15 mai 2024, en vigueur depuis le 15 juil. 2024 (RO **202****4** 275).
 
 ## Section 7 Dispositions finales
 
