@@ -3,11 +3,11 @@ sr: "0.232.111.131"
 title: Stockholmer Zusatzvereinbarung vom 14. Juli 1967 zum Madrider Abkommen über die Unterdrückung falscher oder irreführender Herkunftsangaben auf Waren
 eli: "https://fedlex.data.admin.ch/eli/cc/1970/681_679_680"
 language: de
-version: 2016-03-01
+version: 2024-07-15
 adopted: 1967-07-14
 in_force: 1970-04-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/681_679_680/20160301/de/xml/fedlex-data-admin-ch-eli-cc-1970-681_679_680-20160301-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1970/681_679_680/20160301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/681_679_680/20240715/de/xml/fedlex-data-admin-ch-eli-cc-1970-681_679_680-20240715-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1970/681_679_680/20240715/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,15 +16,15 @@ url: "https://www.fedlex.admin.ch/eli/cc/1970/681_679_680/20160301/de"
 
 AS **1970** 681; BBl **1968** II 897
 
-Übersetzung*[^t-1]*
+Übersetzung[^t-1]
 
 zum Madrider Abkommen über die Unterdrückung falscher oder irreführender Herkunftsangaben
 
 Abgeschlossen in Stockholm am 14. Juli 1967 Von der Bundesversammlung genehmigt am 2. Dezember 1969[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 26. Januar 1970 In Kraft getreten für die Schweiz am 26. April 1970
 
-(Stand am 1. März 2016)
+(Stand am 15. Juli 2024)
 
-[^t-1]: Übersetzung des französischen Originaltexts. Die Artikel der vorliegenden Zusatzvereinb. wurden mit Überschriften versehen, um die Lektüre des Text zu erleichtern.
+[^t-1]: Die Artikel der vorliegenden Zusatzvereinb. wurden mit Überschriften versehen, um die Lektüre des Text zu erleichtern.
 [^t-2]: Art. 1 Ziff. 4 des BB vom 2. Dez. 1969 ([AS 1970 600](https://fedlex.data.admin.ch/eli/oc/1970/600_601_601))
 
 #### Art. 1
@@ -94,7 +94,7 @@ Bis zur Amtsübernahme durch den ersten Generaldirektor gelten Bezugnahmen in di
 
 *Zu Urkund dessen* haben die hierzu gehörig bevollmächtigten Unterzeichneten diese Zusatzvereinbarung unterschrieben. Geschehen zu Stockholm am 14. Juli 1967. (Es folgen die Unterschriften)
 
-Geltungsbereich der Zusatzvereinbarung am 1. März 2016**[^t-3]**
+Geltungsbereich am 15. Juli 2024[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -114,6 +114,7 @@ Geltungsbereich der Zusatzvereinbarung am 1. März 2016**[^t-3]**
 <tr><td>Liechtenstein</td><td>21. Februar</td><td>1972</td><td>25. Mai</td><td>1972</td></tr>
 <tr><td>Moldau</td><td>5. Januar</td><td>2001 B</td><td>5. April</td><td>2001</td></tr>
 <tr><td>Monaco</td><td>27. Juni</td><td>1975</td><td>4. Oktober</td><td>1975</td></tr>
+<tr><td>Montenegro</td><td>4. Dezember</td><td>2006 N</td><td>3. Juni</td><td>2006</td></tr>
 <tr><td>San Marino</td><td>26. März</td><td>1991 B</td><td>26. Juni</td><td>1991</td></tr>
 <tr><td>Schweden</td><td>12. August</td><td>1969</td><td>26. April</td><td>1970</td></tr>
 <tr><td>Schweiz</td><td>26. Januar</td><td>1970</td><td>26. April</td><td>1970</td></tr>
@@ -125,4 +126,4 @@ Geltungsbereich der Zusatzvereinbarung am 1. März 2016**[^t-3]**
 <tr><td>Vereinigtes Königreich</td><td>26. Februar</td><td>1969</td><td>26. April</td><td>1970</td></tr>
 </table>
 
-[^t-3]: [AS 1977 224](https://fedlex.data.admin.ch/eli/oc/1977/224_224_224), [1984 220](https://fedlex.data.admin.ch/eli/oc/1984/220_220_220), [1990 711](https://fedlex.data.admin.ch/eli/oc/1990/711_711_711), [2004 4109](https://fedlex.data.admin.ch/eli/oc/2004/601), [2016 773](https://fedlex.data.admin.ch/eli/oc/2016/149). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-3]: Diese Veröffentlichung ergänzt die früheren in [AS 1977 224](https://fedlex.data.admin.ch/eli/oc/1977/224_224_224); [1984 220](https://fedlex.data.admin.ch/eli/oc/1984/220_220_220); [1990 711](https://fedlex.data.admin.ch/eli/oc/1990/711_711_711); [2004 4109](https://fedlex.data.admin.ch/eli/oc/2004/601); [2016 773](https://fedlex.data.admin.ch/eli/oc/2016/149); [2024 363](https://fedlex.data.admin.ch/eli/oc/2024/363). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

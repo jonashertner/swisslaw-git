@@ -3,11 +3,11 @@ sr: "0.232.111.131"
 title: "Atto aggiuntivo di Stoccolma del 14 luglio 1967 all'Accordo di Madrid sulla repressione delle false o ingannevoli indicazioni di provenienza"
 eli: "https://fedlex.data.admin.ch/eli/cc/1970/681_679_680"
 language: it
-version: 2016-03-01
+version: 2024-07-15
 adopted: 1967-07-14
 in_force: 1970-04-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/681_679_680/20160301/it/xml/fedlex-data-admin-ch-eli-cc-1970-681_679_680-20160301-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1970/681_679_680/20160301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/681_679_680/20240715/it/xml/fedlex-data-admin-ch-eli-cc-1970-681_679_680-20240715-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1970/681_679_680/20240715/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conchiuso a Stoccolma il 14 luglio 1967 Approvato dall’Assemblea federale il 2 dicembre 1969[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 26 gennaio 1970 Entrato in vigore per la Svizzera il 26 aprile 1970
 
-(Stato 1° marzo 2016)
+(Stato 15 luglio 2024)
 
 [^t-1]: Art. 1 n. 4 del DF del 2 dic. 1969 ([RU 1970 601](https://fedlex.data.admin.ch/eli/oc/1970/600_601_601)).
 
@@ -92,10 +92,10 @@ Fino all’entrata in funzione del primo Direttore generale, i riferimenti testu
 
 *In fede di che,* i sottoscritti, a tal fine autorizzati, hanno firmato il presente Atto aggiuntivo. Fatto a Stoccolma, il 14 luglio 1967. (Seguono le firme)
 
-Campo d’applicazione il 1° marzo 2016[^t-2]
+Campo d’applicazione il 15 luglio 2024[^t-2]
 
 <table>
-<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Algeria</td><td>24 marzo</td><td>1972 A</td><td>5 luglio</td><td>1972</td></tr>
 <tr><td>Bosnia ed Erzegovina</td><td>22 marzo</td><td>2013 A</td><td>22 giugno</td><td>2013</td></tr>
 <tr><td>Bulgaria</td><td>29 aprile</td><td>1975 A</td><td>12 agosto</td><td>1975</td></tr>
@@ -113,6 +113,7 @@ Campo d’applicazione il 1° marzo 2016[^t-2]
 <tr><td>Liechtenstein</td><td>21 febbraio</td><td>1972</td><td>25 maggio</td><td>1972</td></tr>
 <tr><td>Moldova</td><td>5 gennaio</td><td>2001 A</td><td>5 aprile</td><td>2001</td></tr>
 <tr><td>Monaco</td><td>27 giugno</td><td>1975</td><td>4 ottobre</td><td>1975</td></tr>
+<tr><td>Montenegro</td><td>4 dicembre</td><td>2006 S</td><td>3 giugno</td><td>2006</td></tr>
 <tr><td>Regno Unito</td><td>26 febbraio</td><td>1969</td><td>26 aprile</td><td>1970</td></tr>
 <tr><td>San Marino</td><td>26 marzo</td><td>1991 A</td><td>26 giugno</td><td>1991</td></tr>
 <tr><td>Serbia</td><td>18 febbraio</td><td>2000 A</td><td>18 maggio</td><td>2000</td></tr>
@@ -123,4 +124,4 @@ Campo d’applicazione il 1° marzo 2016[^t-2]
 <tr><td>Ungheria</td><td>18 dicembre</td><td>1969</td><td>26 aprile</td><td>1970</td></tr>
 </table>
 
-[^t-2]: [RU 1977 224](https://fedlex.data.admin.ch/eli/oc/1977/224_224_224), [1984 220](https://fedlex.data.admin.ch/eli/oc/1984/220_220_220), [1990 711](https://fedlex.data.admin.ch/eli/oc/1990/711_711_711), [2004 4109](https://fedlex.data.admin.ch/eli/oc/2004/601)e [2016 773](https://fedlex.data.admin.ch/eli/oc/2016/149). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1977 224](https://fedlex.data.admin.ch/eli/oc/1977/224_224_224); [1984 220](https://fedlex.data.admin.ch/eli/oc/1984/220_220_220); [1990 711](https://fedlex.data.admin.ch/eli/oc/1990/711_711_711); [2004 4109](https://fedlex.data.admin.ch/eli/oc/2004/601); [2016 773](https://fedlex.data.admin.ch/eli/oc/2016/149); [2024 363](https://fedlex.data.admin.ch/eli/oc/2024/363). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

@@ -3,11 +3,11 @@ sr: "0.232.111.131"
 title: "Acte additionnel de Stockholm du 14 juillet 1967 à l'Arrangement de Madrid concernant la répression des indications de provenance fausses ou fallacieuses"
 eli: "https://fedlex.data.admin.ch/eli/cc/1970/681_679_680"
 language: fr
-version: 2016-03-01
+version: 2024-07-15
 adopted: 1967-07-14
 in_force: 1970-04-26
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/681_679_680/20160301/fr/xml/fedlex-data-admin-ch-eli-cc-1970-681_679_680-20160301-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1970/681_679_680/20160301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/681_679_680/20240715/fr/xml/fedlex-data-admin-ch-eli-cc-1970-681_679_680-20240715-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1970/681_679_680/20240715/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original[^t-1]
 
 Conclu à Stockholm le 14 juillet 1967 Approuvé par l’Assemblée fédérale le 2 décembre 1969[^t-2] Instrument de ratification déposé par la Suisse le 26 janvier 1970 Entré en vigueur pour la Suisse le 26 avril 1970
 
-(État le 1<sup>er</sup> mars 2016)
+(État le 15 juillet 2024)
 
 [^t-1]: Des titres ont été ajoutés aux articles de l’acte additionnel afin d’en faciliter la lecture; le texte original ne contient pas de titres.
 [^t-2]: Art. 1<sup>er</sup> ch. 4 de l’AF du 2 déc. 1969 ([RO 1970 601](https://fedlex.data.admin.ch/eli/oc/1970/600_601_601))
@@ -92,7 +92,7 @@ Jusqu’à l’entrée en fonctions du premier Directeur général, les référe
 
 *En foi de quoi,* les sous‑signés, dûment autorisés à cet effet, ont signés le présent Acte additionnel. Fait à Stockholm, le 14 juillet 1967. (Suivent les signatures)
 
-Champ d’application de l’acte additionnel le 1<sup>er</sup> mars 2016[^t-3]
+Champ d’application le 15 juillet 2024[^t-3]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -114,13 +114,14 @@ Champ d’application de l’acte additionnel le 1<sup>er</sup> mars 2016[^t-3]
 <tr><td>Liechtenstein</td><td>21 février</td><td>1972</td><td>25 mai</td><td>1972</td></tr>
 <tr><td>Moldova</td><td>5 janvier</td><td>2001 A</td><td>5 avril</td><td>2001</td></tr>
 <tr><td>Monaco</td><td>27 juin</td><td>1975</td><td>4 octobre</td><td>1975</td></tr>
+<tr><td>Monténégro</td><td>4 décembre</td><td>2006 S</td><td>3 juin</td><td>2006</td></tr>
 <tr><td>République tchèque</td><td>18 décembre</td><td>1992 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Royaume-Uni</td><td>26 février</td><td>1969</td><td>26 avril</td><td>1970</td></tr>
 <tr><td>Saint-Marin</td><td>26 mars</td><td>1991 A</td><td>26 juin</td><td>1991</td></tr>
-<tr><td>Serbie-et-Monténégro</td><td>18 février</td><td>2000 A</td><td>18 mai</td><td>2000</td></tr>
+<tr><td>Serbie</td><td>18 février</td><td>2000 A</td><td>18 mai</td><td>2000</td></tr>
 <tr><td>Slovaquie</td><td>30 décembre</td><td>1992 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Suède</td><td>12 août</td><td>1969</td><td>26 avril</td><td>1970</td></tr>
 <tr><td>Suisse</td><td>26 janvier</td><td>1970</td><td>26 avril</td><td>1970</td></tr>
 </table>
 
-[^t-3]: [RO 1977 224](https://fedlex.data.admin.ch/eli/oc/1977/224_224_224), [1984 220](https://fedlex.data.admin.ch/eli/oc/1984/220_220_220), [1990 711](https://fedlex.data.admin.ch/eli/oc/1990/711_711_711), [2004 4109](https://fedlex.data.admin.ch/eli/oc/2004/601), [2016 773](https://fedlex.data.admin.ch/eli/oc/2016/149).
+[^t-3]: [RO 1977 224](https://fedlex.data.admin.ch/eli/oc/1977/224_224_224); [1984 220](https://fedlex.data.admin.ch/eli/oc/1984/220_220_220); [1990 711](https://fedlex.data.admin.ch/eli/oc/1990/711_711_711); [2004 4109](https://fedlex.data.admin.ch/eli/oc/2004/601); [2016 773](https://fedlex.data.admin.ch/eli/oc/2016/149); [2024 363](https://fedlex.data.admin.ch/eli/oc/2024/363). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
