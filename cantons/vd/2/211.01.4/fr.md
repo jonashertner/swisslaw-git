@@ -4,7 +4,7 @@ number: "211.01.4"
 title: RÈGLEMENT du 22.06.2010 sur les médiateurs civils agréés (RMCA)
 short: RMCA
 language: fr
-version: 2018-05-01
+version: 2024-07-15
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/211.01.4?id=890e27d0-9a1c-4282-ae21-e245383c8480"
 ---
 
@@ -30,11 +30,11 @@ arrête
 
 **[^chapterChapitreI-1]**
 
-<sup>1</sup> Le présent règlement fixe le cadre de la procédure d'agrément et les conditions d'exercice de l'activité de médiateur agréé.
+<sup>1</sup> Le présent règlement fixe le cadre de la prise en charge financière de la médiation par l'Etat, les conditions d'exercice de l'activité de médiateur agréé et la procédure d'agrément.
 
 <sup>2</sup> Toute désignation de personnes, de statuts et de fonctions utilisée dans le présent règlement s'applique indifféremment aux hommes et aux femmes.
 
-[^chapterChapitreI-1]: Modif. 2 du 25.06.2024: Modification Al. 1; entrée en vigueur au 15.07.2024; Introduction Art. 2a; entrée en vigueur au 15.07.2024; Introduction Art. 8, Al. 2; entrée en vigueur au 15.07.2024; Introduction Art. 12, Al. 4; entrée en vigueur au 15.07.2024; Introduction Art. 14, Al. 3-5; entrée en vigueur au 15.07.2024; Introduction Art. 14, Al. 1, a-c; entrée en vigueur au 15.07.2024
+[^chapterChapitreI-1]: Modif. 2 du 25.06.2024: Modification Al. 1; entrée en vigueur au 15.07.2024
 
 #### Art. 2
 
@@ -42,14 +42,27 @@ arrête
 
 <sup>1</sup> Les tribunaux tiennent à disposition des parties une liste des médiateurs civils agréés par le Tribunal cantonal qui en dresse le tableau et le tient à jour.
 
-<sup>2</sup> La liste des médiateurs civils agréés est remise aux justiciables qui en font la demande ou lorsque le tribunal conseille une médiation (art. 214, al. 1 CPC[^2-1] ) ; elle est publiée sur le site internet de l'ordre judiciaire.
+<sup>2</sup> La liste des médiateurs civils agréés est remise aux justiciables qui en font la demande ou lorsque le tribunal conseille ou recommande une médiation (art. 214, al. 1 et 218, al. 2 et 3 CPC) ; elle est publiée sur le site internet de l'ordre judiciaire.
 
 <sup>3</sup> La Cour administrative est compétente pour statuer sur l'inscription et la radiation d'un médiateur souhaitant figurer sur dite liste.
 
 <sup>4</sup> La Cour administrative statue sur la base d'un préavis délivré par la commission prévue aux articles 10 et suivants du présent règlement.
 
-[^1-1]: Modif. 2 du 25.06.2024: Modification Al. 2; entrée en vigueur au 15.07.2024; Introduction Art. 2a; entrée en vigueur au 15.07.2024; Introduction Art. 8, Al. 2; entrée en vigueur au 15.07.2024; Introduction Art. 12, Al. 4; entrée en vigueur au 15.07.2024; Introduction Art. 14, Al. 3-5; entrée en vigueur au 15.07.2024; Introduction Art. 14, Al. 1, a-c; entrée en vigueur au 15.07.2024
-[^2-1]: Code de procédure civile suisse du 19.12.2008 (RS 272)
+[^1-1]: Modif. 2 du 25.06.2024: Modification Al. 2; entrée en vigueur au 15.07.2024
+
+#### Art. 2a
+
+**Prise en charge des coûts de la médiation par l'Etat [^2-1]**
+
+<sup>1</sup> La médiation à titre gratuit (art. 218 al. 2 CPC) ou sa prise en charge par l'assistance judiciaire (art. 39c CDPJ) ne peut être opérée que par un médiateur agréé.
+
+<sup>2</sup> La rémunération du médiateur dans ce cadre relève du chapitre VI du présent règlement.
+
+<sup>3</sup> L'intervention de plusieurs médiateurs simultanément sur la même situation (comédiation) doit être autorisée par le juge.
+
+<sup>4</sup> Dans les cas où une partie ne bénéficie pas de la prise en charge des coûts par l'Etat, il lui revient de payer elle-même directement au médiateur sa part des coûts.
+
+[^2-1]: Modif. 2 du 25.06.2024: Introduction tArt; entrée en vigueur au 15.07.2024; Introduction Al. 1-4; entrée en vigueur au 15.07.2024; Introduction Art. 2a; entrée en vigueur au 15.07.2024
 
 ## Chapitre II Conditions d'agrément et règles déontologiques
 
@@ -59,14 +72,14 @@ arrête
 
 <sup>1</sup> Pour figurer sur la liste des médiateurs civils agréés, le requérant doit établir par pièces qu'il remplit les conditions cumulatives suivantes :
 
-- a. être au bénéfice d'une formation universitaire ou d'une formation jugée équivalente ;
-- b. être au bénéfice d'une formation de médiation attestée par une association reconnue en Suisse dans le domaine de la médiation (Chambre Suisse de Médiation Commerciale, Fédération Suisse des Associations de Médiation, Fédération Suisse des Avocats, Association Suisse pour la Médiation, notamment) ou d'un titre jugé équivalent ;
+- a. être au bénéfice d'une formation universitaire ou d'une formation jugée équivalente, ou encore d'une expérience professionnelle jugée équivalente;
+- b. être au bénéfice d'une formation de médiation attestée par une association reconnue en Suisse dans le domaine de la médiation (Fédération Suisse des Associations de Médiation, Fédération Suisse des Avocats, Chambre Suisse de Médiation Commerciale notamment) ou d'un titre jugé équivalent ;
 - c. disposer d'une expérience professionnelle d'au moins 5 ans ;
 - d. ne pas faire l'objet d'une inscription au casier judiciaire pour une infraction intentionnelle portant atteinte à la probité et à l'honneur.
 
 <sup>2</sup> Lorsque le médiateur justifie qu'il dispose de connaissances suffisantes dans le domaine concerné, la liste peut faire état de spécialités du médiateur : droit de la famille, conflits de voisinage, droit du travail, droit du bail, droit commercial, droit de la consommation, droit de la construction, notamment.
 
-[^chapterChapitreII-1]: Modif. 2 du 25.06.2024: Introduction Art. 2a; entrée en vigueur au 15.07.2024; Modification Al. 1, a-b; entrée en vigueur au 15.07.2024; Introduction Art. 8, Al. 2; entrée en vigueur au 15.07.2024; Introduction Art. 12, Al. 4; entrée en vigueur au 15.07.2024; Introduction Art. 14, Al. 3-5; entrée en vigueur au 15.07.2024; Introduction Art. 14, Al. 1, a-c; entrée en vigueur au 15.07.2024
+[^chapterChapitreII-1]: Modif. 2 du 25.06.2024: Modification Al. 1, a-b; entrée en vigueur au 15.07.2024
 
 #### Art. 4
 
@@ -110,7 +123,9 @@ arrête
 
 <sup>1</sup> Le médiateur adresse sa requête écrite, accompagnée des pièces justificatives, à la commission de préavis qui l'examine et la transmet avec son préavis à la Cour administrative, qui statue (art. 2, al. 4 du règlement).
 
-[^chapterChapitreIII-1]: Modif. 2 du 25.06.2024: Introduction Art. 2a; entrée en vigueur au 15.07.2024; Introduction Al. 2; entrée en vigueur au 15.07.2024; Introduction Art. 12, Al. 4; entrée en vigueur au 15.07.2024; Introduction Art. 14, Al. 3-5; entrée en vigueur au 15.07.2024; Introduction Art. 14, Al. 1, a-c; entrée en vigueur au 15.07.2024
+<sup>2</sup> La requête précise d'une part les spécialisations acquises dans l'un ou l'autre domaine par une formation, et d'autre part les domaines de prédilection dans lesquels le médiateur souhaite exercer. Le médiateur peut ajouter à cette dernière mention les langues autres que le français dans lesquelles il peut exercer.
+
+[^chapterChapitreIII-1]: Modif. 2 du 25.06.2024: Introduction Al. 2; entrée en vigueur au 15.07.2024
 
 #### Art. 9
 
@@ -142,7 +157,9 @@ arrête
 
 <sup>3</sup> La Cour administrative statue en cas de demande de récusation d'un membre de la commission de préavis, les articles 9, 10 et 12 LPA-VD [^12-1] étant pour le surplus applicables par analogie.
 
-[^11-1]: Modif. 2 du 25.06.2024: Introduction Art. 2a; entrée en vigueur au 15.07.2024; Introduction Art. 8, Al. 2; entrée en vigueur au 15.07.2024; Introduction Al. 4; entrée en vigueur au 15.07.2024; Introduction Art. 14, Al. 3-5; entrée en vigueur au 15.07.2024; Introduction Art. 14, Al. 1, a-c; entrée en vigueur au 15.07.2024
+<sup>4</sup> Les membres médiateurs de la commission de préavis et leurs suppléants sont indemnisés par le Tribunal cantonal selon un tarif arrêté par ce dernier.
+
+[^11-1]: Modif. 2 du 25.06.2024: Introduction Al. 4; entrée en vigueur au 15.07.2024
 [^12-1]: Loi du 28.10.2008 sur la procédure administrative ( [BLV 173.36](https://prestations.vd.ch/pub/blv-publication/actes/consolide/173.36?id=e23682d9-8d47-49d8-a8fb-54bfae0c3a2a))
 [^12-2]: Modif. 1 du 01.05.2018: Introduction ; entrée en vigueur au 01.05.2018 · Modif. 4 du 15.04.2026: Abrogation ; entrée en vigueur au 01.05.2026
 
@@ -179,20 +196,30 @@ arrête
 
 [^13-1]: Modif. 2 du 25.06.2024: Modification ; entrée en vigueur au 15.07.2024
 
-## Chapitre VI Tarif des médiations gratuites
+## Chapitre VI Tarif des médiations gratuites ou à charge de l'assistance judiciaire
 
 [^13-1]
 
 #### Art. 14
 
-**Tarif horaire [^chapterChapitreVI-1]**
+**Rémunération du médiateur [^chapterChapitreVI-1]**
 
-<sup>1</sup> La rémunération des médiateurs dans les affaires relevant de l'article 218, alinéa 2 CPC[^14-1] est fixée par le juge compétent au fond sur la base d'un tarif horaire compris entre 150 et 180 francs. Si le médiateur est assujetti à la TVA, la taxe correspondante est versée en sus.
+<sup>1</sup> Lorsque l'assistance judiciaire a été octroyée en application de l'article 39c CDPJ[^14-1] ou que les parties ont droit à la gratuité de la médiation en application de l'art. 218 al. 2 CPC, la rémunération du médiateur est fixée selon le tarif horaire suivant:
 
-<sup>2</sup> Le médiateur peut recourir contre le montant de son indemnité selon les voies ouvertes aux conseils d'office en matière d'assistance judiciaire.
+- a. Séances de médiation avec les parties: 180 fr.
+- b. Entretiens séparés avec les parties: 180 fr.
+- c. Autres opérations: 80 fr.
 
-[^chapterChapitreVI-1]: Modif. 2 du 25.06.2024: Introduction Art. 2a; entrée en vigueur au 15.07.2024; Introduction Art. 8, Al. 2; entrée en vigueur au 15.07.2024; Introduction Art. 12, Al. 4; entrée en vigueur au 15.07.2024; Modification tArt; entrée en vigueur au 15.07.2024; Modification Al. 1; entrée en vigueur au 15.07.2024; Introduction Al. 1, a-c; entrée en vigueur au 15.07.2024; Modification Al. 2; entrée en vigueur au 15.07.2024; Introduction Al. 3-5; entrée en vigueur au 15.07.2024 · Modif. 3 du 29.04.2025: Modification Al. 1; entrée en vigueur au 01.06.2025; Abrogation Al. 1, a-c; entrée en vigueur au 01.06.2025; Modification Al. 2; entrée en vigueur au 01.06.2025
-[^14-1]: Code de procédure civile suisse du 19.12.2008 (RS 272)
+<sup>2</sup> Les débours sont forfaitairement compris dans le tarif horaire. L'éventuel déplacement est défrayé à hauteur de 70 centimes par kilomètre.
+
+<sup>3</sup> La décision fixant l'indemnité est une décision distincte du jugement au fond, prise par le juge délégué de l'autorité compétente au fond, à l'issue de la médiation.
+
+<sup>4</sup> La décision fixant l'indemnité indique au surplus le montant de la TVA pour autant que cette indemnité soit soumise à l'impôt et que la TVA n'ait pas déjà été prise en compte.
+
+<sup>5</sup> Le médiateur peut recourir contre le montant de son indemnité selon les voies ouvertes aux conseils d'office en matière d'assistance judiciaire.
+
+[^chapterChapitreVI-1]: Modif. 2 du 25.06.2024: Modification tArt; entrée en vigueur au 15.07.2024; Modification Al. 1; entrée en vigueur au 15.07.2024; Introduction Al. 1, a-c; entrée en vigueur au 15.07.2024; Modification Al. 2; entrée en vigueur au 15.07.2024; Introduction Al. 3-5; entrée en vigueur au 15.07.2024 · Modif. 3 du 29.04.2025: Modification Al. 1; entrée en vigueur au 01.06.2025; Abrogation Al. 1, a-c; entrée en vigueur au 01.06.2025; Modification Al. 2; entrée en vigueur au 01.06.2025
+[^14-1]: Code de droit privé judiciaire vaudois du 12.01.2010 ([BLV 211.02](https://prestations.vd.ch/pub/blv-publication/actes/consolide/211.02?id=ad4e8c23-b444-4fb7-82a3-3149dc38ed0e))
 
 ## Chapitre VII Dispositions finales
 
