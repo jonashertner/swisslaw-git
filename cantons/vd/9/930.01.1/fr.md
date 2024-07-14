@@ -4,7 +4,7 @@ number: "930.01.1"
 title: "RÈGLEMENT du 17.12.2014 d'application de la loi du 31 mai 2005 sur l'exercice des activités économiques (RLEAE)"
 short: RLEAE
 language: fr
-version: 2022-05-01
+version: 2024-07-15
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/930.01.1?id=7a48f221-b78e-4781-8c59-d2c2807226c9"
 ---
 
@@ -331,29 +331,29 @@ arrête
 [^30-1]: Ordonnance du 04.09.2002 sur le commerce itinérant (RS 943.11)
 [^30-2]: Modif. 3 du 03.07.2024: Modification ; entrée en vigueur au 15.07.2024
 
-### Section II Vente en détail de tabac (Section II de la loi)
+### Section II Vente en détail de produits du tabac, de produits assimilables et des objets qui forment une unité fonctionnelle avec ces produits (Section II de la loi)
 
 [^30-2]
 
 #### Art. 31
 
-**Définition du tabac (art. 66a à 66n de la loi) [^sectionSectionII-1]**
+**Liste exemplative des produits du tabac, des produits assimilables et des objets qui forment une unité fonctionnelle avec ces produits (art. 66a à 66n de la loi) [^sectionSectionII-1]**
 
-<sup>1</sup> L'article 2 de l'ordonnance sur les produits du tabac et les produits contenant des succédanés de tabac destinés à être fumés[^31-1] est applicable.
+<sup>1</sup> Le département en charge de la santé[^31-1] établit, tient à jour et publie sur le site officiel du Canton de Vaud une liste exemplative des produits du tabac, des produits assimilables et des objets qui forment une unité fonctionnelle avec ces produits (article 66b de la loi).
 
-[^sectionSectionII-1]: Modif. 3 du 03.07.2024: Modification tArt; entrée en vigueur au 15.07.2024; Modification Al. 1; entrée en vigueur au 15.07.2024; Introduction Art. 34a; entrée en vigueur au 15.07.2024; Introduction Art. 35a; entrée en vigueur au 15.07.2024; Introduction Art. 59a; entrée en vigueur au 15.07.2024
-[^31-1]: Ordonnance du 27.10.2004 sur les produits du tabac et les produits contenant des succédanés de tabac destinés à être fumés (RS 817.06)
+[^sectionSectionII-1]: Modif. 3 du 03.07.2024: Modification tArt; entrée en vigueur au 15.07.2024; Modification Al. 1; entrée en vigueur au 15.07.2024
+[^31-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 
 #### Art. 32
 
 **Forme et dépôt de la demande [^31-2]**
 
-<sup>1</sup> La demande d'autorisation de vente en détail de tabac est déposée auprès de la municipalité, accompagnée des pièces suivantes :
+<sup>1</sup> La demande d'autorisation de vente en détail de produits du tabac, de produits assimilables et des objets qui forment une unité fonctionnelle avec ces produits, est déposée auprès de la municipalité, accompagnée des pièces suivantes :
 
 - a. la copie d'une pièce d'identité valide, lisible et signée ;
 - b. pour les ressortissants étrangers, la copie d'un livret ou d'une autorisation de séjour valide, lisible et signé.
 
-[^31-2]: Modif. 3 du 03.07.2024: Modification Al. 1; entrée en vigueur au 15.07.2024; Introduction Art. 34a; entrée en vigueur au 15.07.2024; Introduction Art. 35a; entrée en vigueur au 15.07.2024; Introduction Art. 59a; entrée en vigueur au 15.07.2024
+[^31-2]: Modif. 3 du 03.07.2024: Modification Al. 1; entrée en vigueur au 15.07.2024
 
 #### Art. 33
 
@@ -375,13 +375,23 @@ arrête
 
 <sup>2</sup> Elle est renouvelable.
 
+#### Art. 34a
+
+**Protection de la jeunesse (art. 66j de la loi) [^34-1]**
+
+<sup>1</sup> L'avis de protection de la jeunesse doit être d'un format minimal A5.
+
+<sup>2</sup> Lors de la vente par appareils automatiques, l'avis doit être apposé sur leur face avant principale.
+
+[^34-1]: Modif. 3 du 03.07.2024: Introduction Art. 34a; entrée en vigueur au 15.07.2024
+
 #### Art. 35
 
-**Vente itinérante de tabac [^34-1]**
+**Vente itinérante de produits du tabac, de produits assimilables et des objets qui forment une unité fonctionnelle avec ces produits (art. 66a à 66n de la loi) [^34a-1]**
 
-<sup>1</sup> Les personnes titulaires d'une autorisation d'exercer le commerce itinérant peuvent solliciter l'octroi d'une autorisation de vente en détail de tabac sur le territoire du Canton de Vaud.
+<sup>1</sup> Les personnes titulaires d'une autorisation d'exercer le commerce itinérant peuvent solliciter l'octroi d'une autorisation de vente en détail de produits du tabac, de produits assimilables et des objets qui forment une unité fonctionnelle avec ces produits, sur le territoire du Canton de Vaud.
 
-<sup>2</sup> Les entreprises au bénéfice d'une habilitation leur permettant de délivrer des cartes de commerçants itinérants peuvent obtenir une autorisation globale de vente itinérante de tabac pour l'ensemble des vendeurs auxquels ils ont accordé une telle carte. L'alinéa 3 du présent article est applicable par analogie.
+<sup>2</sup> Les entreprises au bénéfice d'une habilitation leur permettant de délivrer des cartes de commerçants itinérants peuvent obtenir une autorisation globale de vente itinérante de produits du tabac, de produits assimilables et des objets qui forment une unité fonctionnelle avec ces produits, pour l'ensemble des vendeurs auxquels ils ont accordé une telle carte. L'alinéa 3 du présent article est applicable par analogie.
 
 <sup>3</sup> La demande se fait :
 
@@ -393,7 +403,19 @@ arrête
 - 2\. auprès de la préfecture du lieu de première activité de l'un de leurs vendeurs, pour les entreprises ayant leur siège social dans un autre canton.
 - 
 
-[^34-1]: Modif. 3 du 03.07.2024: Introduction Art. 34a; entrée en vigueur au 15.07.2024; Modification tArt; entrée en vigueur au 15.07.2024; Modification Al. 1-2; entrée en vigueur au 15.07.2024; Introduction Art. 35a; entrée en vigueur au 15.07.2024; Introduction Art. 59a; entrée en vigueur au 15.07.2024
+[^34a-1]: Modif. 3 du 03.07.2024: Modification tArt; entrée en vigueur au 15.07.2024; Modification Al. 1-2; entrée en vigueur au 15.07.2024
+
+#### Art. 35a
+
+**Vente par appareils automatiques (art. 66h de la loi) [^35-1]**
+
+<sup>1</sup> Les appareils automatiques doivent procéder au contrôle de l'âge par un système unique de lecteur de pièce d'identité, étant précisé que ceux à double système d'identification (jeton et pièce d'identité) ne peuvent être mis en service que si seule l'identification par le biais d'une pièce d'identité est possible.
+
+<sup>2</sup> Les établissements avec contrôle d'identité à l'entrée, interdits au moins de 18 ans, ne sont pas soumis à l'alinéa 1.
+
+<sup>3</sup> Les appareils automatiques doivent être situés à l'intérieur de l'établissement et être inaccessibles lorsque celui-ci est fermé.
+
+[^35-1]: Modif. 3 du 03.07.2024: Introduction Art. 35a; entrée en vigueur au 15.07.2024
 
 ### Chapitre IV Autorisation délivrée par la commune
 
@@ -563,12 +585,12 @@ arrête
 - c. activité à titre professionnel de mandataire visant à la conclusion d'un mariage ou à l'établissement d'un partenariat stable entre des personnes venant de l'étranger ou s'y rendant : CHF 500.-
 - d. courtier ou prêteur en crédit : CHF 1000.-
 - e. prêt sur gage ou achat à réméré : CHF 500.-
-- f. vente en détail de tabac (art. 66l de la loi) : CHF 200.-
+- f. vente en détail de produits du tabac, de produits assimilables et des objets qui forment une unité fonctionnelle avec ces produits (art. 66l de la loi) : CHF 200.-
 - g. commerce d'occasions : CHF 500.-
 - h. par appareil automatique : CHF 150.-
 - i. autorisation globale d'appareils automatiques : CHF 500.-
 
-[^49-2]: Modif. 3 du 03.07.2024: Introduction Art. 34a; entrée en vigueur au 15.07.2024; Introduction Art. 35a; entrée en vigueur au 15.07.2024; Modification Al. 1, f; entrée en vigueur au 15.07.2024; Introduction Art. 59a; entrée en vigueur au 15.07.2024
+[^49-2]: Modif. 3 du 03.07.2024: Modification Al. 1, f; entrée en vigueur au 15.07.2024
 [^50-1]: Loi du 31.05.2005 sur l'exercice des activités économiques ([BLV 930.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/930.01?id=abb21ed7-f7ac-4292-b82a-dab323a913fa))
 
 #### Art. 51
@@ -588,22 +610,22 @@ arrête
 - c. activité à titre professionnel de mandataire visant à la conclusion d'un mariage ou à l'établissement d'un partenariat stable entre des personnes venant de l'étranger ou s'y rendant : CHF 250.-
 - d. courtier ou prêteur en crédit : CHF 500.-
 - e. prêt sur gage ou achat à réméré : CHF 250.-
-- f. vente en détail de tabac : CHF 250.-
+- f. vente en détail de produits du tabac, de produits assimilables et des objets qui forment une unité fonctionnelle avec ces produits : CHF 250.-
 - g. commerce d'occasions : CHF 250.-
 - h. par appareil automatique : CHF 100.-
 - i. autorisation globale d'appareils automatiques : CHF 250.-
 
-[^51-1]: Modif. 3 du 03.07.2024: Introduction Art. 34a; entrée en vigueur au 15.07.2024; Introduction Art. 35a; entrée en vigueur au 15.07.2024; Modification Al. 1, f; entrée en vigueur au 15.07.2024; Introduction Art. 59a; entrée en vigueur au 15.07.2024
+[^51-1]: Modif. 3 du 03.07.2024: Modification Al. 1, f; entrée en vigueur au 15.07.2024
 
 #### Art. 53
 
 **Emoluments annuels de surveillance (art. 66m de la loi) [^52-1]**
 
-<sup>1</sup> Un émolument annuel de surveillance est perçu par la préfecture et la municipalité concernées auprès des titulaires d'autorisation de vente en détail de tabac.
+<sup>1</sup> Un émolument annuel de surveillance est perçu par la préfecture et la municipalité concernées auprès des titulaires d'autorisation de vente en détail de produits du tabac, de produits assimilables et des objets qui forment une unité fonctionnelle avec ces produits.
 
-<sup>2</sup> Le montant annuel de cet émolument est de CHF 250.- par point de vente en détail de tabac.
+<sup>2</sup> Le montant annuel de cet émolument est de CHF 250.- par point de vente en détail de produits du tabac, de produits assimilables et des objets qui forment une unité fonctionnelle avec ces produits.
 
-[^52-1]: Modif. 3 du 03.07.2024: Introduction Art. 34a; entrée en vigueur au 15.07.2024; Introduction Art. 35a; entrée en vigueur au 15.07.2024; Modification Al. 1-2; entrée en vigueur au 15.07.2024; Introduction Art. 59a; entrée en vigueur au 15.07.2024
+[^52-1]: Modif. 3 du 03.07.2024: Modification Al. 1-2; entrée en vigueur au 15.07.2024
 
 #### Art. 54
 
@@ -717,7 +739,7 @@ arrête
 [^58d-1]: Modif. 2 du 30.03.2022: Introduction tArt; entrée en vigueur au 01.05.2022; Introduction Al. 1-3; entrée en vigueur au 01.05.2022; Introduction Art. 58e; entrée en vigueur au 01.05.2022
 [^58e-1]: Modif. 3 du 03.07.2024: Modification ; entrée en vigueur au 15.07.2024
 
-## Titre VII Dispositions finales
+## Titre VII Dispositions transitoires et finales
 
 [^58e-1]
 
@@ -726,6 +748,17 @@ arrête
 **Abrogation**
 
 <sup>1</sup> Le règlement du 22 février 2006 d'application de la loi du 31 mai 2005 sur l'exercice des activités économiques (RLEAE) est abrogé, dès l'entrée en vigueur du présent règlement.
+
+#### Art. 59a
+
+**Dispositions transitoires de la modification du règlement du 3 juillet 2024 [^59-1]**
+
+<sup>1</sup> Les exploitants, les personnes titulaires d'une autorisation d'exercer le commerce itinérant et les entreprises au bénéfice d'une habilitation leur permettant de délivrer des cartes de commerçants itinérants, ont jusqu'au 31 janvier 2025 pour déposer leur demande d'autorisation au sens de l'article 66d de la loi[^59a-1].
+
+<sup>2</sup> Les exploitants ont jusqu'au 30 juin 2025 pour procéder aux éventuelles adaptations nécessaires au sens de l'article 35a, alinéa 1, du présent règlement.
+
+[^59-1]: Modif. 3 du 03.07.2024: Introduction tArt; entrée en vigueur au 15.07.2024; Introduction Al. 1-2; entrée en vigueur au 15.07.2024; Introduction Art. 59a; entrée en vigueur au 15.07.2024
+[^59a-1]: Loi du 31.05.2005 sur l'exercice des activités économiques ([BLV 930.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/930.01?id=abb21ed7-f7ac-4292-b82a-dab323a913fa))
 
 #### Art. 60
 
