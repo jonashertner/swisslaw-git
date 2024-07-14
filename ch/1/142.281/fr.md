@@ -4,11 +4,11 @@ title: "Ordonnance du 11 août 1999 sur l'exécution du renvoi et de l'expulsion
 short: OERE
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/357"
 language: fr
-version: 2024-06-01
+version: 2024-07-15
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20240601/fr/xml/fedlex-data-admin-ch-eli-cc-1999-357-20240601-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20240601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20240715/fr/xml/fedlex-data-admin-ch-eli-cc-1999-357-20240715-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20240715/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20240601/fr"
 
 (OERE)
 
-du 11 août 1999 (État le 1<sup>er</sup> juin 2024)
+du 11 août 1999 (État le 15 juillet 2024)
 
 Le Conseil fédéral suisse,
 
@@ -260,8 +260,8 @@ Le SEM peut conclure, avec les autorités compétentes des cantons sur le territ
 
 Pour l’accueil de personnes à l’aéroport et le transport sous escorte policière de personnes à embarquer, la Confédération verse une indemnité forfaitaire par personne de:
 
-- a. 400 francs sur les vols de ligne;
-- b. 1700 francs sur les vols spéciaux à destination d’États tiers ou d’États de provenance.
+- a. 440 francs sur les vols de ligne;
+- b. 2700 francs sur les vols spéciaux à destination d’États tiers ou d’États de provenance.[^11a-2]
 
 <sup>4</sup>
 
@@ -271,6 +271,7 @@ Le SEM assure l’accompagnement médical:
 - b. sur les vols de ligne, pour les catégories de personnes mentionnées à l’art. 92, al. 2, LAsi, pour autant qu’il soit nécessaire.
 
 [^11a-1]: Introduit par le ch. I de l’O du 8 juin 2018, en vigueur depuis le 1<sup>er</sup> mars 2019 ([RO 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
+[^11a-2]: Nouvelle teneur selon le ch. I de l’O du 14 juin 2024, en vigueur depuis le 15 juil. 2024 ([RO 2024 284](https://fedlex.data.admin.ch/eli/oc/2024/284)).
 
 #### Art. 12
 
@@ -1069,7 +1070,6 @@ Unités organisationnelles:
 - – V Domaine Échange de données et identification
 - – VI Domaine Saisie et mise à jour des données
 - – VII Domaine Analyses linguistiques
-- [tab]
 
 ### Catalogue des données eRetour
 
@@ -1604,8 +1604,6 @@ Unités organisationnelles:
 <tr><td colspan="15">9. Données de référence</td></tr>
 <tr><td>Données de référence</td><td>B</td><td>B</td><td>A</td><td>A</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
 </table>
-
-- [tab]
 
 [^annex1-lvlu1-lvlu2-1]: [RS 142.312](https://fedlex.data.admin.ch/eli/cc/1999/360)
 

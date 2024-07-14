@@ -4,11 +4,11 @@ title: "Ordinanza dell' 11 agosto 1999 concernente l'esecuzione dell'allontaname
 short: OEAE
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/357"
 language: it
-version: 2024-06-01
+version: 2024-07-15
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20240601/it/xml/fedlex-data-admin-ch-eli-cc-1999-357-20240601-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20240601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20240715/it/xml/fedlex-data-admin-ch-eli-cc-1999-357-20240715-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20240715/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20240601/it"
 
 (OEAE)
 
-dell’11 agosto 1999 (Stato 1° giugno 2024)
+dell’11 agosto 1999 (Stato 15 luglio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -258,8 +258,8 @@ La SEM può concludere con le competenti autorità dei Cantoni in cui sono ubica
 
 Per l’accoglienza all’aeroporto e la scorta di polizia fino all’imbarco, la Confederazione versa i seguenti importi forfettari per persona:
 
-- a. 400 franchi per i voli di linea;
-- b. 1700 franchi per i voli speciali a destinazione di Stati terzi e di Stati d’origine.
+- a. 440 franchi per i voli di linea;
+- b. 2700 franchi per i voli speciali a destinazione di Stati terzi e di Stati d’origine.[^11a-2]
 
 <sup>4</sup>
 
@@ -269,6 +269,7 @@ La SEM assicura l’accompagnamento medico:
 - b. se necessario, a bordo dei voli di linea per le categorie di persone di cui all’articolo 92 capoverso 2 LAsi.
 
 [^11a-1]: Introdotto dal n. I dell’O dell’8 giu. 2018, in vigore dal 1° mar. 2019 ([RU 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
+[^11a-2]: Nuovo testo giusta il n. I dell’O del 14 giu. 2024, in vigore dal 15 lug. 2024 ([RU 2024 284](https://fedlex.data.admin.ch/eli/oc/2024/284)).
 
 #### Art. 12
 

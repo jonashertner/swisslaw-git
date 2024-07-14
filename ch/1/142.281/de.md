@@ -4,11 +4,11 @@ title: Verordnung vom 11. August 1999 über den Vollzug der Weg- und Ausweisung 
 short: VVWAL
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/357"
 language: de
-version: 2024-06-01
+version: 2024-07-15
 adopted: 1999-08-11
 in_force: 1999-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20240601/de/xml/fedlex-data-admin-ch-eli-cc-1999-357-20240601-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20240601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/357/20240715/de/xml/fedlex-data-admin-ch-eli-cc-1999-357-20240715-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20240715/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/357/20240601/de"
 
 (VVWAL)[^t-2][^t-1]
 
-vom 11. August 1999 (Stand am 1. Juni 2024)
+vom 11. August 1999 (Stand am 15. Juli 2024)
 
 [^t-1]: Fassung gemäss Ziff. I 3 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
 [^t-2]: Fassung gemäss Ziff. I 3 der V vom 1. Febr. 2017 über die Einführung der Landesverweisung, in Kraft seit 1. März 2017 ([AS 2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)).
@@ -262,8 +262,8 @@ Das SEM kann mit den zuständigen Behörden von Standortkantonen von internation
 
 Für den Empfang am Flughafen und die polizeiliche Zuführung zum Flugzeug vergütet der Bund die folgenden Pauschalen pro Person:
 
-- a. für Linienflüge 400 Franken;
-- b. für Sonderflüge in Dritt- und Herkunftsstaaten 1700 Franken.
+- a. für Linienflüge 440 Franken;
+- b. für Sonderflüge in Dritt- und Herkunftsstaaten 2700 Franken.[^11a-2]
 
 <sup>4</sup>
 
@@ -273,6 +273,7 @@ Das SEM stellt die medizinische Begleitung sicher:
 - b. auf Linienflügen für die in Artikel 92 Absatz 2 AsylG aufgeführten Personenkategorien, sofern diese notwendig ist.
 
 [^11a-1]: Eingefügt durch Ziff. I der V vom 8. Juni 2018, in Kraft seit 1. März 2019 ([AS 2018 2849](https://fedlex.data.admin.ch/eli/oc/2018/437)).
+[^11a-2]: Fassung gemäss Ziff. I der V vom 14. Juni 2024, in Kraft seit 15. Juli 2024 (AS **20****24** 284).
 
 #### Art. 12
 
