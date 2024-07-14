@@ -1,102 +1,83 @@
 ---
 canton: AI
 number: "817.401"
-title: Standeskommissionsbeschluss über den Gebührentarif des Kantonschemikers
+title: Standeskommissionsbeschluss über den Gebührentarif für das Interkantonale Labor
 short: StKB Laborgebühren
 language: de
-version: 2004-08-16
-corrected: 2018-12-24
-version_adopted: 2004-08-16
+version: 2024-07-15
+valid_until: 2026-06-30
+version_adopted: 2024-07-02
 adopted: 1997-01-07
 in_force: 1997-01-07
 url: "https://ai.clex.ch/app/de/texts_of_law/817.401"
-pdf: "https://ai.clex.ch/api/de/versions/782/pdf_file"
-text: pdf
+pdf: "https://ai.clex.ch/api/de/versions/2288/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Standeskommissionsbeschluss über den Gebührentarif des Kantonschemikers
+# Standeskommissionsbeschluss über den Gebührentarif für das Interkantonale Labor
 
-vom 7. Januar 19971
+(StKB Laborgebühren)
+
+vom 07.01.1997 (Stand 15.07.2024)
 
 Die Standeskommission des Kantons Appenzell I. Rh.,
 
-gestützt auf Art. 45 des Bundesgesetzes über Lebensmittel und Gebrauchsgegenstände vom 9. Oktober 1992 (LMG), Art. 15 der Verordnung über die Gebühren für die Lebensmittelkontrolle vom 1. März 1995 (VGLek) und Art. 2 Abs. 1 und Art. 8 der Verordnung zum Bundesgesetz über Lebensmittel und Gebrauchsgegenstände vom 30. Oktober 1995 (LGV),2
+gestützt auf Art. 12 Abs. 2 der Einführungsverordnung zum Lebensmittelgesetz vom 4. Dezember 2023 (EV LMG),
 
 beschliesst:
 
 #### Art. 1
 
-Die Gebühren für die Kontrolle von Lebensmitteln und Gebrauchsgegenständen unter der Leitung des Kantonschemikers\* werden auf der Basis von Aufwandpunkten erhoben.
+<sup>1</sup> Die Gebühren für die Kontrolle von Lebensmitteln und Gebrauchsgegenständen werden nach Massgabe des bundesrechtlich zulässigen Rahmens auf Basis von Aufwandpunkten erhoben.
 
-#### Art. 23
+#### Art. 2
 
-Für die technischen Untersuchungen gelten die Bestimmungen des Gebührentarifs des Verbandes der Kantonschemiker der Schweiz, Buchstabe A sowie Buchstabe B2 - B5.
+<sup>1</sup> Für die technischen Untersuchungen gelten die Bestimmungen des Gebührentarifs des Verbandes der Kantonschemiker der Schweiz. Die entsprechenden Positionen können auf der Website des Interkantonalen Labors eingesehen werden.
 
-#### Art. 34
+#### Art. 3
 
-Für den Aussendienst (Lebensmittelinspektorat) sowie das Sekretariat gelten folgende Ansätze:
+<sup>1</sup> Für den Aussendienst (Lebensmittelinspektorat) sowie das Sekretariat gelten folgende Ansätze:
 
-Aufwandpunkte Inspektionen: für die erste angebrochene Stunde Lebensmittelinspektor Lebensmittelkontrolleur 50
+- a) Inspektionen: für die erste angebrochene Stunde:
+  - 1\. Lebensmittelinspektor: — 80 Aufwandpunkte
+  - 2\. Lebensmittelkontrolleur: — 50 Aufwandpunkte
+- b) Inspektionen: für jede weitere angebrochene halbe Stunde:
+  - 1\. Lebensmittelinspektor: — 40 Aufwandpunkte
+  - 2\. Lebensmittelkontrolleur: — 25 Aufwandpunkte
+- c) Wegpauschale:
+  - 1\. Lebensmittelinspektor: — 30 Aufwandpunkte
+  - 2\. Lebensmittelkontrolleur: — 15 Aufwandpunkte
+- d) Einzelne Inspektionskriterien, die wiederholt nicht der «Guten Praxis» entsprechen: — 50 Aufwandpunkte
+- e) Inspektionsberichte, Gutachten etc.: im Büro, pro halbe Stunde:
+  - 1\. Lebensmittelinspektor: — 40 Aufwandpunkte
+  - 2\. Lebensmittelkontrolleur: — 25 Aufwandpunkte
+- f) Beurteilung
+  - 1\. einfache Baugesuche: — 50 Aufwandpunkte
+  - 2\. komplexe Baugesuche: — nach Aufwand gemäss obigen Aufwandpunkten
+- g) Beschlagnahme: vgl. Inspektion
+- h) Probenahme: Lebensmittel: pro Betrieb, inkl. Wegpauschale — 50 Aufwandpunkte
+- i) Probenahme: Trinkwasser:
+  - 1\. Einzelprobe: — 15 Aufwandpunkte
+  - 2\. Mehrfachproben, Stufenkontrollen etc.: — nach Aufwand gemäss obigen Aufwandpunkten
+- j) Dienstleistungen Bauabnahmen etc.:
+  - 1\. Aufwand unter einer Stunde: — --
+  - 2\. Aufwand über einer Stunde, nach Zeitaufwand, pro halbe Stunde: Lebensmittelinspektor: — 40 Aufwandpunkte
+  - 3\. Aufwand über einer Stunde, nach Zeitaufwand, pro halbe Stunde: Lebensmittelkontrolleur: — 25 Aufwandpunkte
+- k) Sekretariat: pro Stunde: — 40 Aufwandpunkte
 
-**80**
+<sup>2</sup> Bei gemeinsamen Amtshandlungen von Lebensmittelinspektorinnen und -inspektoren und Lebensmittelkontrolleurinnen und -kontrolleuren wird nur der Ansatz für die Lebensmittelinspektorinnen und -inspektoren verrechnet. Bei gemeinsamen Amtshandlungen von zwei Lebensmittelkontrolleurinnen und -kontrolleuren wird nur ein Ansatz verrechnet.
 
-**40**
+#### Art. 4
 
-für jede weitere angebrochene Lebensmittelinspektor halbe Stunde Lebensmittelkontrolleur 25
-
-**30**
-
-Wegpauschale: Lebensmittelinspektor Lebensmittelkontrolleur 15
-
-Einzelne Inspektionskriterien, die wiederholt nicht der «Guten Praxis» entsprechen:
-
-**50**
-
-**40**
-
-Inspektionsberichte, Gutachten etc.: Lebensmittelinspektor im Büro, pro halbe Stunde: Lebensmittelkontrolleur 25
-
-**2**
-
-Fotos: Pro Foto Beschlagnahme: vgl. Inspektion Probenahme: Lebensmittel: pro Betrieb, inkl. Wegpauschale Trinkwasser:
-
-**50**
-
-**15**
-
-- Einzelprobe
-
-**nach Aufwand**
-
-- Mehrfachproben, Stufenkontrollen etc.
-
-Dienstleistungen Bauabnahmen etc.: Aufwand unter einer Stunde (Art. 5 Abs. 2 VGLek) Aufwand über einer Stunde, nach Zeitaufwand, pro Lebensmittelinspektor halbe Stunde: Lebensmittelkontrolleur 25
-
-**—**
-
-**40**
-
-Sekretariat: pro Stunde 40
-
-#### Art. 41
-
-Der Wert eines Aufwandpunktes beträgt Fr. 1.90. Das Gesundheits- und Sozialdepartement passt diesen Wert in Absprache mit den Partnerkantonen der Teuerung (Landesindex der Konsumentenpreise von 103,0 Punkten, Stand September 1995 / Basis Mai 1993 = 100) an.
+<sup>1</sup> Der Aufwandpunkt beträgt Fr. 2.20.
 
 #### Art. 5
 
-Die Einzelpositionen für die technischen Untersuchungen können beim Kantonschemiker und beim Lebensmittelinspektorat beider Appenzell eingesehen werden.
+<sup>1</sup>
 
 #### Art. 6
 
-Dieser Beschluss tritt nach Annahme durch die Standeskommission in Kraft.
+<sup>1</sup> Dieser Beschluss tritt nach Annahme durch die Standeskommission in Kraft.
 
-## Weitere Fussnoten
-
-- [1] Mit Revision vom 16. August 2004.
-- [2] Ingress abgeändert durch StKB vom 16. August 2004.
-- [*] Die Verwendung der männlichen Bezeichnungen gilt sinngemäss für beide Geschlechter.
-- [3] Abgeändert durch StKB vom 16. August 2004.
-- [4] Abgeändert durch StKB vom 16. August 2004.
-- [1] Abgeändert durch StKB vom 16. August 2004.
+cGS -
