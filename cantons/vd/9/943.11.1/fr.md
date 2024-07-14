@@ -4,7 +4,7 @@ number: "943.11.1"
 title: "RÈGLEMENT du 31.01.1990 d'application de la loi du 6 décembre 1988 sur les procédés de réclame (RLPR)"
 short: RLPR
 language: fr
-version: 2020-05-01
+version: 2024-07-15
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/943.11.1?id=48e55fdd-198c-4d5e-8f30-c3eb6e3079f1"
 ---
 
@@ -49,8 +49,45 @@ arrête
 - d. Le matériel de présentation, les objets disposés dans les vitrines d'exposition des commerces, industries ou artisanats, les autocollants ou la décoration appliqués sur celles-ci à titre temporaire.
 - e. Les affiches posées sur des bâtiments avec l'accord du propriétaire, dans le cadre de l'exercice des droits politiques ou religieux, ou en faveur de manifestations organisées par des associations sans but lucratif, pour autant qu'elles soient enlevées dans la semaine qui suit la consultation ou la manifestation.
 
-[^chapterChapitreII-1]: Modif. 4 du 03.07.2024: Introduction Al. 2; entrée en vigueur au 15.07.2024; Introduction Art. 2a; entrée en vigueur au 15.07.2024; Introduction Art. 36a; entrée en vigueur au 15.07.2024
+<sup>2</sup> Les exceptions prévues à l'alinéa 1 ne s'appliquent pas lorsque les procédés de réclame concernent des produits du tabac, des produits assimilables ainsi que des objets qui forment une unité fonctionnelle avec ces produits, au sens de la loi sur l'exercice des activités économiques[^2-2] (LEAE), des alcools de plus de 15 pour cent volume ainsi que des boissons distillées sucrées au sens de l'article 23<sup>bis</sup>, alinéa 2<sup>bis</sup>, de la loi fédérale sur l'alcool[^2-3] (alcopops).
+
+[^chapterChapitreII-1]: Modif. 4 du 03.07.2024: Introduction Al. 2; entrée en vigueur au 15.07.2024
 [^2-1]: Loi du 06.12.1988 sur les procédés de réclame ([BLV 943.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/943.11?id=16154f30-b84b-41d2-b8d9-bf01f56b7842))
+[^2-2]: Loi du 31.05.2005 sur l'exercice des activités économiques ([BLV 930.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/930.01?id=abb21ed7-f7ac-4292-b82a-dab323a913fa))
+[^2-3]: [Loi fédérale du 21.06.1932 sur l'alcool, RS 680](https://www.admin.ch/opc/fr/classified-compilation/19320035/index.html)
+
+#### Art. 2a
+
+**Interdiction des procédés de réclame pour les produits et objets au sens de l'article 5a, alinéa 1, de la loi [^2-4]**
+
+<sup>1</sup> Le département en charge de la santé[^2a-1] établit, tient à jour et publie sur le site officiel du Canton de Vaud une liste exemplative des produits du tabac, des produits assimilables et des objets qui forment une unité fonctionnelle avec ces produits (article 5a, alinéa 1, de la loi).
+
+<sup>2</sup> Les procédés de réclame pour les produits et objets au sens de l'article 5a, alinéa 1, de la loi[^2a-2] sont interdits s'ils mettent en évidence un parrainage d'événement ou une promotion de ces produits et objets.
+
+<sup>3</sup> Par lieux privés accessibles au public (article 5a, alinéa 2, de la loi), on entend notamment les commerces, les établissements de restauration, les lieux de manifestations culturelles et sportives, les parkings, les transports et toutes leurs infrastructures comme leurs locaux et leurs arrêts, et les remontées mécaniques.
+
+<sup>4</sup> Dans les commerces au bénéfice d'une autorisation de vente en détail au sens de l'article 66a de la LEAE[^2a-3], il est interdit :
+
+- a. de mettre en évidence tout produit ou objet visé par l'article 5a, alinéa 1, de la loi devant le vendeur, la caisse ou le comptoir ;
+- b. de représenter une marque, un logo ou un emballage d'un tel produit ou objet sur des affiches, cartons, présentoirs, poubelles, cendriers ou autres supports ;
+- c. de promouvoir un tel produit ou objet par un prix spécial, une comparaison de prix ou une indication de prix différente. Les indications de prix figurant directement sur l'emballage du produit ou de l'objet ne sont pas interdites ;
+- d. de présenter des écrans ou affiches, rétroéclairés ou non, sur les distributeurs représentant les emballages, les marques ou les logos de tels produits ou objets ;
+- e. d'exposer un dispositif qui met en évidence un tel produit ou objet particulier (par exemple cadre, couleurs, flèches, etc.).
+
+<sup>5</sup> Dans les commerces précités, il est néanmoins autorisé :
+
+- a. de présenter un tel produit ou objet au-dessus, derrière ou latéralement au vendeur, au comptoir ou à la caisse ;
+- b. d'afficher le prix d'un tel produit ou objet de manière uniforme ;
+- c. de représenter sur les distributeurs des visuels utilisant une représentation d'un tel produit ou objet comme bouton pour l'acheter (au maximum à taille réelle du produit) ;
+- d. d'exposer de tels produits ou objets sans mise en évidence particulière (égalité de traitement).
+
+<sup>6</sup> Le département en charge de la santé[^2a-4] établit, tient à jour et publie sur le site officiel du Canton de Vaud une directive présentant par des photographies ou des illustrations ce qui est interdit et autorisé au sens des alinéas 4 et 5.
+
+[^2-4]: Modif. 4 du 03.07.2024: Introduction Art. 2a; entrée en vigueur au 15.07.2024
+[^2a-1]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
+[^2a-2]: Loi du 06.12.1988 sur les procédés de réclame ([BLV 943.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/943.11?id=16154f30-b84b-41d2-b8d9-bf01f56b7842))
+[^2a-3]: Loi du 31.05.2005 sur l'exercice des activités économiques ([BLV 930.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/930.01?id=abb21ed7-f7ac-4292-b82a-dab323a913fa))
+[^2a-4]: [Voir l'organigramme de l'Etat de Vaud](https://www.vd.ch/toutes-les-autorites/)
 
 ## Chapitre III Calcul des dimensions
 
@@ -417,6 +454,16 @@ dans laquelle «c» est un coefficient qui dépend de la hauteur à laquelle est
 - - l'arrêté du 30 décembre 1970 d'application de la loi du 22 septembre 1970 sur les procédés de réclame
 - - les arrêtés du 21 février 1975 et du 15 mai 1987 modifiant l'arrêté d'application précité.
 
+#### Art. 36a
+
+**Dispositions transitoires de la modification du règlement du 3 juillet 2024 [^36-1]**
+
+<sup>1</sup> Les exploitants d'un commerce qui sont au bénéfice d'une autorisation de vente en détail au sens de l'article 66a de la LEAE[^36a-1], ainsi que toute personne physique ou morale soumise à la loi sur les procédés de réclame[^36a-2] (LPR), ont jusqu'au 31 janvier 2025 pour procéder aux adaptations nécessaires conformément à l'article 2a, alinéas 2, 4 et 5, du présent règlement.
+
+[^36-1]: Modif. 4 du 03.07.2024: Introduction tArt; entrée en vigueur au 15.07.2024; Introduction Al. 1; entrée en vigueur au 15.07.2024; Introduction Art. 36a; entrée en vigueur au 15.07.2024 · Modif. 5 du 05.02.2025: Modification Al. 1; entrée en vigueur au 01.02.2025
+[^36a-1]: Loi du 31.05.2005 sur l'exercice des activités économiques ([BLV 930.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/930.01?id=abb21ed7-f7ac-4292-b82a-dab323a913fa))
+[^36a-2]: Loi du 06.12.1988 sur les procédés de réclame ([BLV 943.11](https://prestations.vd.ch/pub/blv-publication/actes/consolide/943.11?id=16154f30-b84b-41d2-b8d9-bf01f56b7842))
+
 #### Art. 37
 
 **Autorité chargée de l'exécution du règlement**
@@ -427,4 +474,4 @@ Annexes
 
 1
 
-[pdf-943.11.1.annexe](https://prestations.vd.ch/pub/blv-publication/api/actes/48e55fdd-198c-4d5e-8f30-c3eb6e3079f1/annexes/1?dmev=01.05.2020)
+[Annexe](https://prestations.vd.ch/pub/blv-publication/api/actes/48e55fdd-198c-4d5e-8f30-c3eb6e3079f1/annexes/1?dmev=15.07.2024)
