@@ -4,13 +4,13 @@ number: "922.102"
 title: Standeskommissionsbeschluss über die Jagd
 short: StKB Jagd
 language: de
-version: 2023-08-01
-valid_until: 2024-07-14
-version_adopted: 2023-07-04
+version: 2024-07-15
+valid_until: 2025-06-30
+version_adopted: 2024-07-15
 adopted: 2021-07-06
 in_force: 2021-07-15
 url: "https://ai.clex.ch/app/de/texts_of_law/922.102"
-pdf: "https://ai.clex.ch/api/de/versions/2232/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2301/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2232/pdf_file"
 
 (StKB Jagd)
 
-vom 06.07.2021 (Stand 01.08.2023)
+vom 06.07.2021 (Stand 15.07.2024)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -129,7 +129,7 @@ beschliesst:
 
 **Jagdbares Wild**
 
-<sup>1</sup> Jagdbar sind: Rehwild, Stockenten, Schwarzwild-Frischlinge, Dachse, Füchse, Marder, Waschbären, Marderhunde, Bisamratten, verwilderte Haustauben, Kolkraben, Türkentauben, Haubentaucher, Blässhühner, Rabenkrähen, Nebelkrähen, Elstern, Eichelhäher und Kormorane.
+<sup>1</sup> Jagdbar sind: Rehwild, Stockenten, Schwarzwild, Dachse, Füchse, Marder, Waschbären, Marderhunde, Bisamratten, verwilderte Haustauben, Kolkraben, Türkentauben, Haubentaucher, Blässhühner, Rabenkrähen, Nebelkrähen, Elstern, Eichelhäher und Kormorane.
 
 <sup>2</sup> Als Rehwild jagdbar sind Rehböcke, Rehgeissen und Rehkitze.
 
