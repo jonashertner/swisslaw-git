@@ -3,11 +3,11 @@ sr: "0.979.3"
 title: Abkommen vom 26. Januar 1960 über die Internationale Entwicklungsorganisation (mit Verzeichnis)
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2680_2680_2680"
 language: de
-version: 2018-07-12
+version: 2024-07-15
 adopted: 1960-01-26
 in_force: 1992-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2680_2680_2680/20180712/de/xml/fedlex-data-admin-ch-eli-cc-1992-2680_2680_2680-20180712-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2680_2680_2680/20180712/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2680_2680_2680/20240715/de/xml/fedlex-data-admin-ch-eli-cc-1992-2680_2680_2680-20240715-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2680_2680_2680/20240715/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Durch die Schweiz unterzeichnet und angenommen am 29. Mai 1992
 
 In Kraft getreten für die Schweiz am 29. Mai 1992
 
-(Stand am 12. Juli 2018)
+(Stand am 15. Juli 2024)
 
 [^t-1]: [AS 1992 2570](https://fedlex.data.admin.ch/eli/oc/1992/2570_2570_2570)
 
@@ -399,11 +399,9 @@ Mit der Unterzeichnung nimmt jede Regierung das Abkommen sowohl in ihrem eigenen
 
 Die Bank ist ermächtigt, dieses Abkommen gemäss Artikel 102 der Charta der Vereinten Nationen[^XI-subdivu5-1] und den dazu von der Generalversammlung beschlossenen Durchführungsbestimmungen beim Sekretariat der Vereinten Nationen registrieren zu lassen.
 
-Geschehen zu Washington in einer Urschrift, die im Archiv der Internationalen Bank für Wiederaufbau und Entwicklung hinterlegt bleibt, welche sich durch ihre nachstehende Unterschrift einverstanden erklärt hat, als Hinterlegungsstelle für dieses Abkommen tätig zu sein, es beim Sekretariat der Vereinten Nationen registrieren zu lassen und den Regierungen aller im Verzeichnis A genannten Staaten den Zeitpunkt zu notifizieren, zu dem dieses Abkommen gemäss Artikel XI Abschnitt 1 in Kraft getreten ist.
-
 [^XI-subdivu5-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
 
-(Es folgen die Unterschriften)
+Geschehen zu Washington in einer Urschrift, die im Archiv der Internationalen Bank für Wiederaufbau und Entwicklung hinterlegt bleibt, welche sich durch ihre nachstehende Unterschrift einverstanden erklärt hat, als Hinterlegungsstelle für dieses Abkommen tätig zu sein, es beim Sekretariat der Vereinten Nationen registrieren zu lassen und den Regierungen aller im Verzeichnis A genannten Staaten den Zeitpunkt zu notifizieren, zu dem dieses Abkommen gemäss Artikel XI Abschnitt 1 in Kraft getreten ist. (Es folgen die Unterschriften)
 
 Verzeichnis A
 
@@ -493,10 +491,14 @@ Verzeichnis A
 <tr><td>Gesamtsumme</td><td>1000,00</td></tr>
 </table>
 
-Geltungsbereich am 12. Juli 2018**[^t-2]**
+### **Geltungsbereich am 15. Juli 2024**
+
+[^annexA-lvlu1-partII-lvlu1-1]
+
+[^annexA-lvlu1-partII-lvlu1-1]: [AS 1992 2680](https://fedlex.data.admin.ch/eli/oc/1992/2680_2680_2680), [2005 2113](https://fedlex.data.admin.ch/eli/oc/2005/342), [2011 1739](https://fedlex.data.admin.ch/eli/oc/2011/261), [2014 2393](https://fedlex.data.admin.ch/eli/oc/2014/414)[2018 2791](https://fedlex.data.admin.ch/eli/oc/2018/419); [2024 365](https://fedlex.data.admin.ch/eli/oc/2024/365). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse: veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 <table>
-<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Afghanistan</td><td>2. Februar</td><td>1961</td><td>2. Februar</td><td>1961</td></tr>
 <tr><td>Ägypten</td><td>26. Oktober</td><td>1960</td><td>26. Oktober</td><td>1960</td></tr>
 <tr><td>Albanien</td><td>15. Oktober</td><td>1991</td><td>15. Oktober</td><td>1991</td></tr>
@@ -519,6 +521,7 @@ Geltungsbereich am 12. Juli 2018**[^t-2]**
 <tr><td>Bosnien und Herzegowina</td><td>25. Februar</td><td>1993 N</td><td>25. Februar</td><td>1993</td></tr>
 <tr><td>Botsuana</td><td>24. Juli</td><td>1968</td><td>24. Juli</td><td>1968</td></tr>
 <tr><td>Brasilien</td><td>15. März</td><td>1963</td><td>15. März</td><td>1963</td></tr>
+<tr><td>Bulgarien</td><td>3. November</td><td>2021</td><td>3. November</td><td>2021</td></tr>
 <tr><td>Burkina Faso</td><td>13. Mai</td><td>1963</td><td>13. Mai</td><td>1963</td></tr>
 <tr><td>Burundi</td><td>28. September</td><td>1963</td><td>28. September</td><td>1963</td></tr>
 <tr><td>Chile</td><td>30. Dezember</td><td>1960</td><td>30. Dezember</td><td>1960</td></tr>
@@ -535,6 +538,7 @@ Geltungsbereich am 12. Juli 2018**[^t-2]**
 <tr><td>El Salvador</td><td>23. April</td><td>1962</td><td>23. April</td><td>1962</td></tr>
 <tr><td>Eritrea</td><td>6. Juli</td><td>1994</td><td>6. Juli</td><td>1994</td></tr>
 <tr><td>Estland</td><td>11. Oktober</td><td>2008</td><td>11. Oktober</td><td>2008</td></tr>
+<tr><td>Eswatini</td><td>22. September</td><td>1969</td><td>22. September</td><td>1969</td></tr>
 <tr><td>Fidschi</td><td>29. September</td><td>1972</td><td>29. September</td><td>1972</td></tr>
 <tr><td>Finnland</td><td>29. Dezember</td><td>1960</td><td>29. Dezember</td><td>1960</td></tr>
 <tr><td>Frankreich</td><td>30. Dezember</td><td>1960</td><td>30. Dezember</td><td>1960</td></tr>
@@ -594,7 +598,6 @@ Geltungsbereich am 12. Juli 2018**[^t-2]**
 <tr><td>Marshallinseln</td><td>19. Januar</td><td>1993</td><td>19. Januar</td><td>1993</td></tr>
 <tr><td>Mauretanien</td><td>10. September</td><td>1963</td><td>10. September</td><td>1963</td></tr>
 <tr><td>Mauritius</td><td>23. September</td><td>1968</td><td>23. September</td><td>1968</td></tr>
-<tr><td>Mazedonien</td><td>25. Februar</td><td>1993 N</td><td>25. Februar</td><td>1993</td></tr>
 <tr><td>Mexiko</td><td>24. April</td><td>1961</td><td>24. April</td><td>1961</td></tr>
 <tr><td>Mikronesien</td><td>24. Juni</td><td>1993</td><td>24. Juni</td><td>1993</td></tr>
 <tr><td>Moldau</td><td>14. Juni</td><td>1994</td><td>14. Juni</td><td>1994</td></tr>
@@ -608,6 +611,7 @@ Geltungsbereich am 12. Juli 2018**[^t-2]**
 <tr><td>Niederlande</td><td>30. Juni</td><td>1961</td><td>30. Juni</td><td>1961</td></tr>
 <tr><td>Niger</td><td>24. April</td><td>1963</td><td>24. April</td><td>1963</td></tr>
 <tr><td>Nigeria</td><td>14. November</td><td>1961</td><td>14. November</td><td>1961</td></tr>
+<tr><td>Nordmazedonien</td><td>25. Februar</td><td>1993 N</td><td>25. Februar</td><td>1993</td></tr>
 <tr><td>Norwegen</td><td>16. August</td><td>1960</td><td>24. September</td><td>1960</td></tr>
 <tr><td>Oman</td><td>20. Februar</td><td>1973</td><td>20. Februar</td><td>1973</td></tr>
 <tr><td>Österreich</td><td>28. Juni</td><td>1961</td><td>28. Juni</td><td>1961</td></tr>
@@ -621,7 +625,7 @@ Geltungsbereich am 12. Juli 2018**[^t-2]**
 <tr><td>Polen</td><td>28. Juni</td><td>1988</td><td>28. Juni</td><td>1988</td></tr>
 <tr><td>Portugal</td><td>29. Dezember</td><td>1992</td><td>29. Dezember</td><td>1992</td></tr>
 <tr><td>Ruanda</td><td>30. September</td><td>1963</td><td>30. September</td><td>1963</td></tr>
-<tr><td>Rumänien</td><td>12. April</td><td>2015 B</td><td>12. April</td><td>2015</td></tr>
+<tr><td>Rumänien</td><td>12. April</td><td>2015</td><td>12. April</td><td>2015</td></tr>
 <tr><td>Russland</td><td>16. Juni</td><td>1992</td><td>16. Juni</td><td>1992</td></tr>
 <tr><td>Salomoninseln</td><td>21. Juli</td><td>1980</td><td>21. Juli</td><td>1980</td></tr>
 <tr><td>Sambia</td><td>23. September</td><td>1965</td><td>23. September</td><td>1965</td></tr>
@@ -646,7 +650,6 @@ Geltungsbereich am 12. Juli 2018**[^t-2]**
 <tr><td>Südafrika</td><td>12. Oktober</td><td>1960</td><td>12. Oktober</td><td>1960</td></tr>
 <tr><td>Sudan</td><td>25. August</td><td>1960</td><td>24. September</td><td>1960</td></tr>
 <tr><td>Südsudan</td><td>18. April</td><td>2012</td><td>18. April</td><td>2012</td></tr>
-<tr><td>Swasiland</td><td>22. September</td><td>1969</td><td>22. September</td><td>1969</td></tr>
 <tr><td>Syrien</td><td>28. Juni</td><td>1962</td><td>28. Juni</td><td>1962</td></tr>
 <tr><td>Tadschikistan</td><td>4. Juni</td><td>1993</td><td>4. Juni</td><td>1993</td></tr>
 <tr><td>Tansania</td><td>6. November</td><td>1962</td><td>6. November</td><td>1962</td></tr>
@@ -672,5 +675,3 @@ Geltungsbereich am 12. Juli 2018**[^t-2]**
 <tr><td>Zentralafrikanische Republik</td><td>27. August</td><td>1963</td><td>27. August</td><td>1963</td></tr>
 <tr><td>Zypern</td><td>2. März</td><td>1962</td><td>2. März</td><td>1962</td></tr>
 </table>
-
-[^t-2]: [AS 1992 2680](https://fedlex.data.admin.ch/eli/oc/1992/2680_2680_2680), [2005 2113](https://fedlex.data.admin.ch/eli/oc/2005/342), [2011 1739](https://fedlex.data.admin.ch/eli/oc/2011/261), [2014 2393](https://fedlex.data.admin.ch/eli/oc/2014/414)[2018 2791](https://fedlex.data.admin.ch/eli/oc/2018/419). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).

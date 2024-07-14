@@ -3,11 +3,11 @@ sr: "0.979.3"
 title: "Statuto dell'Associazione Internazionale di Sviluppo, del 26 gennaio 1960 (con All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1992/2680_2680_2680"
 language: it
-version: 2018-07-12
+version: 2024-07-15
 adopted: 1960-01-26
 in_force: 1992-05-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2680_2680_2680/20180712/it/xml/fedlex-data-admin-ch-eli-cc-1992-2680_2680_2680-20180712-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1992/2680_2680_2680/20180712/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1992/2680_2680_2680/20240715/it/xml/fedlex-data-admin-ch-eli-cc-1992-2680_2680_2680-20240715-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1992/2680_2680_2680/20240715/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **1992** 2680; FF **1991** II 949
 
 Traduzione
 
-Adottato a Washington il 26 gennaio 1960
+Adottato a Washington il 26 gennaio 1960 Approvato dall’Assemblea federale il 4 ottobre 1991[^t-1] Firmato e accettato dalla Svizzera il 29 maggio 1992 Entrato in vigore per la Svizzera il 29 maggio 1992
 
-Approvato dall’Assemblea federale il 4 ottobre 1991[^t-1]
-
-Firmato e accettato dalla Svizzera il 29 maggio 1992
-
-Entrato in vigore per la Svizzera il 29 maggio 1992
-
-(Stato 12 luglio 2018)
+(Stato 15 luglio 2024)
 
 [^t-1]: [RU 1992 2570](https://fedlex.data.admin.ch/eli/oc/1992/2570_2570_2570)
 
@@ -510,7 +504,7 @@ Allegato A
 <tr><td>Total</td><td>1000,00</td></tr>
 </table>
 
-Campo d’applicazione il 12 luglio 2018**[^t-2]**
+Campo d’applicazione il 15 luglio 2024[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -535,6 +529,7 @@ Campo d’applicazione il 12 luglio 2018**[^t-2]**
 <tr><td>Bosnia e Erzegovina</td><td>25 febbraio</td><td>1993 S</td><td>25 febbraio</td><td>1993</td></tr>
 <tr><td>Botswana</td><td>24 luglio</td><td>1968</td><td>24 luglio</td><td>1968</td></tr>
 <tr><td>Brasile</td><td>15 marzo</td><td>1963</td><td>15 marzo</td><td>1963</td></tr>
+<tr><td>Bulgaria</td><td>3 novembre</td><td>2021</td><td>3 novembre</td><td>2021</td></tr>
 <tr><td>Burkina Faso</td><td>13 maggio</td><td>1963</td><td>13 maggio</td><td>1963</td></tr>
 <tr><td>Burundi</td><td>28 settembre</td><td>1963</td><td>28 settembre</td><td>1963</td></tr>
 <tr><td>Cambogia</td><td>22 luglio</td><td>1970</td><td>22 luglio</td><td>1970</td></tr>
@@ -564,6 +559,7 @@ Campo d’applicazione il 12 luglio 2018**[^t-2]**
 <tr><td>Emirati Arabi Uniti</td><td>23 dicembre</td><td>1981</td><td>23 dicembre</td><td>1981</td></tr>
 <tr><td>Eritrea</td><td>6 luglio</td><td>1994</td><td>6 luglio</td><td>1994</td></tr>
 <tr><td>Estonia</td><td>11 ottobre</td><td>2008</td><td>11 ottobre</td><td>2008</td></tr>
+<tr><td>Eswatini</td><td>22 settembre</td><td>1969</td><td>22 settembre</td><td>1969</td></tr>
 <tr><td>Etiopia</td><td>11 aprile</td><td>1961</td><td>11 aprile</td><td>1961</td></tr>
 <tr><td>Figi</td><td>29 settembre</td><td>1972</td><td>29 settembre</td><td>1972</td></tr>
 <tr><td>Filippine</td><td>28 ottobre</td><td>1960</td><td>28 ottobre</td><td>1960</td></tr>
@@ -609,7 +605,7 @@ Campo d’applicazione il 12 luglio 2018**[^t-2]**
 <tr><td>Libia</td><td>1° agosto</td><td>1961</td><td>1° agosto</td><td>1961</td></tr>
 <tr><td>Lituania</td><td>23 settembre</td><td>2011</td><td>23 settembre</td><td>2011</td></tr>
 <tr><td>Lussemburgo</td><td>4 giugno</td><td>1964</td><td>4 giugno</td><td>1964</td></tr>
-<tr><td>Macedonia</td><td>25 febbraio</td><td>1993 S</td><td>25 febbraio</td><td>1993</td></tr>
+<tr><td>Macedonia del Nord</td><td>25 febbraio</td><td>1993 S</td><td>25 febbraio</td><td>1993</td></tr>
 <tr><td>Madagascar</td><td>25 settembre</td><td>1963</td><td>25 settembre</td><td>1963</td></tr>
 <tr><td>Malawi</td><td>19 luglio</td><td>1965</td><td>19 luglio</td><td>1965</td></tr>
 <tr><td>Malaysia</td><td>2 settembre</td><td>1960</td><td>24 settembre</td><td>1960</td></tr>
@@ -643,7 +639,7 @@ Campo d’applicazione il 12 luglio 2018**[^t-2]**
 <tr><td>Portogallo</td><td>29 dicembre</td><td>1992</td><td>29 dicembre</td><td>1992</td></tr>
 <tr><td>Regno Unito</td><td>14 settembre</td><td>1960</td><td>24 settembre</td><td>1960</td></tr>
 <tr><td>Rep. Centrafricana</td><td>27 agosto</td><td>1963</td><td>27 agosto</td><td>1963</td></tr>
-<tr><td>Romania</td><td>12 aprile</td><td>2015 A</td><td>12 aprile</td><td>2015</td></tr>
+<tr><td>Romania</td><td>12 aprile</td><td>2015</td><td>12 aprile</td><td>2015</td></tr>
 <tr><td>Ruanda</td><td>30 settembre</td><td>1963</td><td>30 settembre</td><td>1963</td></tr>
 <tr><td>Russia</td><td>16 giugno</td><td>1992</td><td>16 giugno</td><td>1992</td></tr>
 <tr><td>Saint Kitts e Nevis</td><td>23 ottobre</td><td>1987</td><td>23 ottobre</td><td>1987</td></tr>
@@ -668,7 +664,6 @@ Campo d’applicazione il 12 luglio 2018**[^t-2]**
 <tr><td>Sudan del Sud</td><td>18 aprile</td><td>2012</td><td>18 aprile</td><td>2012</td></tr>
 <tr><td>Svezia</td><td>21 giugno</td><td>1960</td><td>24 settembre</td><td>1960</td></tr>
 <tr><td>Svizzera</td><td>29 maggio</td><td>1992</td><td>29 maggio</td><td>1992</td></tr>
-<tr><td>Swaziland</td><td>22 settembre</td><td>1969</td><td>22 settembre</td><td>1969</td></tr>
 <tr><td>Tagikistan</td><td>4 giugno</td><td>1993</td><td>4 giugno</td><td>1993</td></tr>
 <tr><td>Tanzania</td><td>6 novembre</td><td>1962</td><td>6 novembre</td><td>1962</td></tr>
 <tr><td>Thailandia</td><td>24 settembre</td><td>1960</td><td>24 settembre</td><td>1960</td></tr>
@@ -690,4 +685,4 @@ Campo d’applicazione il 12 luglio 2018**[^t-2]**
 <tr><td>Zimbabwe</td><td>29 settembre</td><td>1980</td><td>29 settembre</td><td>1980</td></tr>
 </table>
 
-[^t-2]: [RU 1992 2680](https://fedlex.data.admin.ch/eli/oc/1992/2680_2680_2680), [2005 2113](https://fedlex.data.admin.ch/eli/oc/2005/342), [2011 1739](https://fedlex.data.admin.ch/eli/oc/2011/261), [2014 2393](https://fedlex.data.admin.ch/eli/oc/2014/414)e [2018 2791](https://fedlex.data.admin.ch/eli/oc/2018/419). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1992 2680](https://fedlex.data.admin.ch/eli/oc/1992/2680_2680_2680); [2005 2113](https://fedlex.data.admin.ch/eli/oc/2005/342); [2011 1739](https://fedlex.data.admin.ch/eli/oc/2011/261); [2014 2393](https://fedlex.data.admin.ch/eli/oc/2014/414); [2018 2791](https://fedlex.data.admin.ch/eli/oc/2018/419); [2024 365](https://fedlex.data.admin.ch/eli/oc/2024/365). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
