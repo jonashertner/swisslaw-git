@@ -3,16 +3,16 @@ sr: "0.311.43"
 title: Übereinkommen vom 23. November 2001 über die Cyberkriminalität
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/888"
 language: de
-version: 2020-09-14
+version: 2024-07-16
 adopted: 2001-11-23
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/888/20200914/de/xml/fedlex-data-admin-ch-eli-cc-2011-888-20200914-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/888/20200914/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/888/20240716/de/xml/fedlex-data-admin-ch-eli-cc-2011-888-20240716-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/888/20240716/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Übereinkommen über die Cyberkriminalität****
+# Übereinkommen über die Cyberkriminalität
 
 AS **2011** 6297; BBl **2010** 4697[^t-1]
 
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 21. September 2011
 
 In Kraft getreten für die Schweiz am 1. Januar 2012
 
-(Stand am 14. September 2020)
+(Stand am 16. Juli 2024)
 
 [^t-1]: Aufgrund der mittlerweile eingetretenen Gebräuchlichkeit und der technologischen Entwicklung im Bereich der Datenbearbeitung und -übertragung wird beim deutschsprachigen Titel des Übereinkommens von der im Jahre 2003 gemeinsam mit Deutschland und Österreich erarbeiteten Version («Übereinkommen über Computerkriminalität») abgewichen.
 [^t-2]: Art. 1 Abs. 1 des BB vom 18. März 2011 ([AS 2011 6293](https://fedlex.data.admin.ch/eli/oc/2011/887))
@@ -576,7 +576,7 @@ Ein Ersuchen um Sicherung nach Absatz 1 hat Folgendes genau zu bezeichnen:
 Darüber hinaus kann ein Ersuchen um Sicherung nur abgelehnt werden, wenn:
 
 - a. das Ersuchen eine Straftat betrifft, die von der ersuchten Vertragspartei als politische oder als mit einer solchen zusammenhängende Straftat angesehen wird, oder
-- b. die ersuchte Vertragspartei der Ansicht ist, dass die Erledigung des Ersuchens geeignet ist, ihre Souveränität, Sicherheit, öffentliche Ordnung (*ordre pu**b**lic*) oder andere wesentliche Interessen zu beeinträchtigen.
+- b. die ersuchte Vertragspartei der Ansicht ist, dass die Erledigung des Ersuchens geeignet ist, ihre Souveränität, Sicherheit, öffentliche Ordnung (*ordre public*) oder andere wesentliche Interessen zu beeinträchtigen.
 
 <sup>6</sup> Ist durch die Sicherung nach Ansicht der ersuchten Vertragspartei die künftige Verfügbarkeit der Daten nicht gewährleistet oder die Vertraulichkeit der Ermittlungen der ersuchenden Vertragspartei gefährdet oder in anderer Weise beeinträchtigt, so setzt sie die ersuchende Vertragspartei umgehend davon in Kenntnis; diese entscheidet dann, ob das Ersuchen dennoch erledigt werden soll.
 
@@ -593,7 +593,7 @@ Darüber hinaus kann ein Ersuchen um Sicherung nur abgelehnt werden, wenn:
 Von der Weitergabe von Verkehrsdaten nach Absatz 1 darf nur abgesehen werden, wenn:
 
 - a das Ersuchen eine Straftat betrifft, die von der ersuchten Vertragspartei als politische oder als mit einer solchen zusammenhängende Straftat angesehen wird; oder
-- b die ersuchte Vertragspartei der Ansicht ist, dass die Erledigung des Ersuchens geeignet ist, ihre Souveränität, Sicherheit, öffentliche Ordnung (*ordre pu**b**lic*) oder andere wesentliche Interessen zu beeinträchtigen.
+- b die ersuchte Vertragspartei der Ansicht ist, dass die Erledigung des Ersuchens geeignet ist, ihre Souveränität, Sicherheit, öffentliche Ordnung (*ordre public*) oder andere wesentliche Interessen zu beeinträchtigen.
 
 ### Titel 2: Rechtshilfe in Bezug auf Ermittlungsbefugnisse
 
@@ -799,7 +799,7 @@ Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Europara
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu Budapest am 23. November 2001 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarats hinterlegt wird. Der Generalsekretär des Europarats übermittelt allen Mitgliedstaaten des Europarats, den Nichtmitgliedstaaten, die sich an der Ausarbeitung des Übereinkommens beteiligt haben, sowie allen zum Beitritt zu diesem Übereinkommen eingeladenen Staaten beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 14. September 2020**[^t-3]**
+Geltungsbereich am 16. Juli 2024[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -810,7 +810,9 @@ Geltungsbereich am 14. September 2020**[^t-3]**
 <tr><td>Aserbaidschan\*</td><td>15. März</td><td>2010</td><td>1. Juli</td><td>2010</td></tr>
 <tr><td>Australien<sup>\*</sup></td><td>30. November</td><td>2012 B</td><td>1. März</td><td>2013</td></tr>
 <tr><td>Belgien<sup>\*</sup></td><td>20. August</td><td>2012</td><td>1. Dezember</td><td>2012</td></tr>
+<tr><td>Benin\*</td><td>20. Juni</td><td>2024 B</td><td>1. Oktober</td><td>2024</td></tr>
 <tr><td>Bosnien und Herzegowina</td><td>19. Mai</td><td>2006</td><td>1. September</td><td>2006</td></tr>
+<tr><td>Brasilien\*</td><td>30. November</td><td>2022</td><td>1. März</td><td>2023</td></tr>
 <tr><td>Bulgarien\*</td><td>7. April</td><td>2005</td><td>1. August</td><td>2005</td></tr>
 <tr><td>Chile\*</td><td>20. April</td><td>2017</td><td>1. August</td><td>2017</td></tr>
 <tr><td>Costa Rica\*</td><td>22. September</td><td>2017 B</td><td>1. Januar</td><td>2018</td></tr>
@@ -818,17 +820,21 @@ Geltungsbereich am 14. September 2020**[^t-3]**
 <tr><td>Deutschland\*</td><td>9. März</td><td>2009</td><td>1. Juli</td><td>2009</td></tr>
 <tr><td>Dominikanische Republik<sup>\*</sup></td><td>7. Februar</td><td>2013 B</td><td>1. Juni</td><td>2013</td></tr>
 <tr><td>Estland</td><td>12. Mai</td><td>2003</td><td>1. Juli</td><td>2004</td></tr>
+<tr><td>Fidschi\*</td><td>20. Juni</td><td>2024 B</td><td>1. Oktober</td><td>2024</td></tr>
 <tr><td>Finnland\*</td><td>24. Mai</td><td>2007</td><td>1. September</td><td>2007</td></tr>
 <tr><td>Frankreich\*</td><td>10. Januar</td><td>2006</td><td>1. Mai</td><td>2006</td></tr>
 <tr><td>Georgien\*</td><td>6. Juni</td><td>2012</td><td>1. Oktober</td><td>2012</td></tr>
 <tr><td>Ghana\*</td><td>3. Dezember</td><td>2018 B</td><td>1. April</td><td>2019</td></tr>
+<tr><td>Grenada\*</td><td>22. April</td><td>2024 B</td><td>1. August</td><td>2024</td></tr>
 <tr><td>Griechenland\*</td><td>25. Januar</td><td>2017</td><td>1. Mai</td><td>2017</td></tr>
 <tr><td>Island\*</td><td>29. Januar</td><td>2007</td><td>1. Mai</td><td>2007</td></tr>
 <tr><td>Israel<sup>\*</sup></td><td>9. Mai</td><td>2016</td><td>1. September</td><td>2016</td></tr>
 <tr><td>Italien</td><td>5. Juni</td><td>2008</td><td>1. Oktober</td><td>2008</td></tr>
 <tr><td>Japan\*</td><td>3. Juli</td><td>2012</td><td>1. November</td><td>2012</td></tr>
+<tr><td>Kamerun\*</td><td>15. Dezember</td><td>2023</td><td>1. April</td><td>2024</td></tr>
 <tr><td>Kanada<sup>\*</sup></td><td>8. Juli</td><td>2015</td><td>1. November</td><td>2015</td></tr>
 <tr><td>Kap Verde\*</td><td>19. Juni</td><td>2018 B</td><td>1. Oktober</td><td>2018</td></tr>
+<tr><td>Kiribati\*</td><td>20. Juni</td><td>2024 B</td><td>1. Oktober</td><td>2024</td></tr>
 <tr><td>Kolumbien<sup>\*</sup></td><td>16. März</td><td>2020 B</td><td>1. Juli</td><td>2020</td></tr>
 <tr><td>Kroatien</td><td>17. Oktober</td><td>2002</td><td>1. Juli</td><td>2004</td></tr>
 <tr><td>Lettland\*</td><td>14. Februar</td><td>2007</td><td>1. Juni</td><td>2007</td></tr>
@@ -843,6 +849,7 @@ Geltungsbereich am 14. September 2020**[^t-3]**
 <tr><td>Monaco\*</td><td>17. März</td><td>2017</td><td>1. Juli</td><td>2017</td></tr>
 <tr><td>Montenegro\*</td><td>3. März</td><td>2010</td><td>1. Juli</td><td>2010</td></tr>
 <tr><td>Niederlande <sup>b</sup></td><td>16. November</td><td>2006</td><td>1. März</td><td>2007</td></tr>
+<tr><td>Nigeria\*</td><td>6. Juni</td><td>2022 B</td><td>1. November</td><td>2022</td></tr>
 <tr><td>Norwegen\*</td><td>30. Juni</td><td>2006</td><td>1. Oktober</td><td>2006</td></tr>
 <tr><td>Österreich<sup>\*</sup></td><td>13. Juni</td><td>2012</td><td>1. Oktober</td><td>2012</td></tr>
 <tr><td>Panama<sup>\*</sup></td><td>5. März</td><td>2014 B</td><td>1. Juli</td><td>2014</td></tr>
@@ -851,27 +858,30 @@ Geltungsbereich am 14. September 2020**[^t-3]**
 <tr><td>Portugal\*</td><td>24. März</td><td>2010</td><td>1. Juli</td><td>2010</td></tr>
 <tr><td>Rumänien</td><td>12. Mai</td><td>2004</td><td>1. September</td><td>2004</td></tr>
 <tr><td>San Marino<sup>\*</sup></td><td>8. März</td><td>2019</td><td>1. Juli</td><td>2019</td></tr>
+<tr><td>Schweden\*</td><td>28. April</td><td>2021</td><td>1. August</td><td>2021</td></tr>
 <tr><td>Schweiz\*</td><td>21. September</td><td>2011</td><td>1. Januar</td><td>2012</td></tr>
 <tr><td>Senegal\*</td><td>16. Dezember</td><td>2016</td><td>1. April</td><td>2017</td></tr>
 <tr><td>Serbien</td><td>14. April</td><td>2009</td><td>1. August</td><td>2009</td></tr>
+<tr><td>Sierra Leone\*</td><td>19. April</td><td>2024 B</td><td>1. August</td><td>2024</td></tr>
 <tr><td>Slowakei\*</td><td>8. Januar</td><td>2008</td><td>1. Mai</td><td>2008</td></tr>
 <tr><td>Slowenien</td><td>8. September</td><td>2004</td><td>1. Januar</td><td>2005</td></tr>
 <tr><td>Spanien\*</td><td>3. Juni</td><td>2010</td><td>1. Oktober</td><td>2010</td></tr>
 <tr><td>Sri Lanka<sup>\*</sup></td><td>29. Mai</td><td>2015 B</td><td>1. September</td><td>2015</td></tr>
 <tr><td>Tonga\*</td><td>9. Mai</td><td>2017</td><td>1. September</td><td>2017</td></tr>
 <tr><td>Tschechische Republik<sup>\*</sup></td><td>22. August</td><td>2013</td><td>1. Dezember</td><td>2013</td></tr>
+<tr><td>Tunesien\*</td><td>8. März</td><td>2024 B</td><td>1. Juli</td><td>2024</td></tr>
 <tr><td>Türkei<sup>\*</sup></td><td>29. September</td><td>2014</td><td>1. Januar</td><td>2015</td></tr>
 <tr><td>Ukraine<sup>\*</sup></td><td>10. März</td><td>2006</td><td>1. Juli</td><td>2006</td></tr>
 <tr><td>Ungarn\*</td><td>4. Dezember</td><td>2003</td><td>1. Juli</td><td>2004</td></tr>
 <tr><td>Vereinigte Staaten\*</td><td>29. September</td><td>2006</td><td>1. Januar</td><td>2007</td></tr>
 <tr><td>Vereinigtes Königreich\*</td><td>25. Mai</td><td>2011</td><td>1. September</td><td>2011</td></tr>
 <tr><td>Zypern</td><td>19. Januar</td><td>2005</td><td>1. Mai</td><td>2005</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarates: www.coe.int &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarates: [http://conventions.coe.int](http://conventions.coe.int) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Das Übereinkommen gilt nicht für Färöer-Inseln und Grönland.</td></tr>
 <tr><td colspan="5"><sup>b</sup> Das Übereinkommen gilt nur für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-3]: [AS 2011 6297](https://fedlex.data.admin.ch/eli/oc/2011/888), [2013 2825](https://fedlex.data.admin.ch/eli/oc/2013/581), [2016 2847](https://fedlex.data.admin.ch/eli/oc/2016/465), [2017 3981](https://fedlex.data.admin.ch/eli/oc/2017/473), [2019 753](https://fedlex.data.admin.ch/eli/oc/2019/130)und [2020 3807](https://fedlex.data.admin.ch/eli/oc/2020/700). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-3]: [AS 2011 6297](https://fedlex.data.admin.ch/eli/oc/2011/888); [2013 2825](https://fedlex.data.admin.ch/eli/oc/2013/581); [2016 2847](https://fedlex.data.admin.ch/eli/oc/2016/465); [2017 3981](https://fedlex.data.admin.ch/eli/oc/2017/473); [2019 753](https://fedlex.data.admin.ch/eli/oc/2019/130); [2020 3807](https://fedlex.data.admin.ch/eli/oc/2020/700); [2024 366](https://fedlex.data.admin.ch/eli/oc/2024/366). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)
 
 Vorbehalte und Erklärungen
 

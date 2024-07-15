@@ -3,30 +3,24 @@ sr: "0.311.43"
 title: Convention du 23 novembre 2001 sur la cybercriminalité
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/888"
 language: fr
-version: 2020-09-14
+version: 2024-07-16
 adopted: 2001-11-23
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/888/20200914/fr/xml/fedlex-data-admin-ch-eli-cc-2011-888-20200914-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/888/20200914/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/888/20240716/fr/xml/fedlex-data-admin-ch-eli-cc-2011-888-20240716-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/888/20240716/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Convention sur la cybercriminalité
 
-RO **2011** 6297
+RO **2011** 6297; FF **2010** 4275
 
 Texte original
 
-Conclue à Budapest le 23 novembre 2001
+Conclue à Budapest le 23 novembre 2001 Approuvée par l’Assemblée fédérale le 18 mars 2011[^t-1] Instrument de ratification déposé par la Suisse le 21 septembre 2011 Entrée en vigueur pour la Suisse le 1<sup>er</sup> janvier 2012
 
-Approuvée par l’Assemblée fédérale le 18 mars 2011[^t-1]
-
-Instrument de ratification déposé par la Suisse le 21 septembre 2011
-
-Entrée en vigueur pour la Suisse le 1<sup>er</sup> janvier 2012
-
-(Etat le 14 septembre 2020)
+(État le 16 juillet 2024)
 
 [^t-1]: Art. 1 al. 1 de l’AF du 18 mars 2011 ([RO 2011 6293](https://fedlex.data.admin.ch/eli/oc/2011/887)).
 
@@ -87,7 +81,7 @@ Aux fins de la présente Convention:
 - b. l’expression *«données informatiques»* désigne toute représentation de faits, d’informations ou de concepts sous une forme qui se prête à un traitement informatique, y compris un programme de nature à faire en sorte qu’un système informatique exécute une fonction;
 - c.
 
-  l’expression *«fournisseur de serv**i**ces»* désigne:
+  l’expression *«fournisseur de services»* désigne:
 
   - i. toute entité publique ou privée qui offre aux utilisateurs de ses services la possibilité de communiquer au moyen d’un système informatique, et
   - ii. toute autre entité traitant ou stockant des données informatiques pour ce service de communication ou ses utilisateurs;
@@ -805,7 +799,7 @@ Le Secrétaire Général du Conseil de l’Europe notifie aux États membres du 
 
 *En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Budapest, le 23 novembre 2001, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des États membres du Conseil de l’Europe, aux États non membres qui ont participé à l’élaboration de la Convention et à tout État invité à y adhérer. (Suivent les signatures)
 
-Champ d’application le 14 septembre 2020**[^t-2]**
+Champ d’application le 16 juillet 2024[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -814,72 +808,82 @@ Champ d’application le 14 septembre 2020**[^t-2]**
 <tr><td>Andorre\*</td><td>16 novembre</td><td>2016</td><td>1<sup>er</sup> mars</td><td>2017</td></tr>
 <tr><td>Argentine\*</td><td>5 juin</td><td>2018</td><td>1<sup>er</sup> octobre</td><td>2018</td></tr>
 <tr><td>Arménie</td><td>12 octobre</td><td>2006</td><td>1<sup>er</sup> février</td><td>2007</td></tr>
-<tr><td>Australie<sup>\*</sup></td><td>30 novembre</td><td>2012 A</td><td>1<sup>er</sup> mars</td><td>2013</td></tr>
-<tr><td>Autriche<sup>\*</sup></td><td>13 juin</td><td>2012</td><td>1<sup>er</sup> octobre</td><td>2012</td></tr>
+<tr><td>Australie\*</td><td>30 novembre</td><td>2012 A</td><td>1<sup>er</sup> mars</td><td>2013</td></tr>
+<tr><td>Autriche\*</td><td>13 juin</td><td>2012</td><td>1<sup>er</sup> octobre</td><td>2012</td></tr>
 <tr><td>Azerbaïdjan\*</td><td>15 mars</td><td>2010</td><td>1<sup>er</sup> juillet</td><td>2010</td></tr>
-<tr><td>Belgique<sup>\*</sup></td><td>20 août</td><td>2012</td><td>1<sup>er</sup> décembre</td><td>2012</td></tr>
+<tr><td>Belgique\*</td><td>20 août</td><td>2012</td><td>1<sup>er</sup> décembre</td><td>2012</td></tr>
+<tr><td>Bénin\*</td><td>20 juin</td><td>2024 A</td><td>1<sup>er</sup> octobre</td><td>2024</td></tr>
 <tr><td>Bosnie et Herzégovine</td><td>19 mai</td><td>2006</td><td>1<sup>er</sup> septembre</td><td>2006</td></tr>
+<tr><td>Brésil\*</td><td>30 novembre</td><td>2022</td><td>1<sup>er</sup> mars</td><td>2023</td></tr>
 <tr><td>Bulgarie\*</td><td>7 avril</td><td>2005</td><td>1<sup>er</sup> août</td><td>2005</td></tr>
-<tr><td>Canada<sup>\*</sup></td><td>8 juillet</td><td>2015</td><td>1<sup>er</sup> novembre</td><td>2015</td></tr>
+<tr><td>Cameroun\*</td><td>15 décembre</td><td>2023</td><td>1<sup>er</sup> avril</td><td>2024</td></tr>
+<tr><td>Canada\*</td><td>8 juillet</td><td>2015</td><td>1<sup>er</sup> novembre</td><td>2015</td></tr>
 <tr><td>Cap-Vert\*</td><td>19 juin</td><td>2108 A</td><td>1<sup>er</sup> octobre</td><td>2018</td></tr>
 <tr><td>Chili\*</td><td>20 avril</td><td>2017</td><td>1<sup>er</sup> août</td><td>2017</td></tr>
 <tr><td>Chypre</td><td>19 janvier</td><td>2005</td><td>1<sup>er</sup> mai</td><td>2005</td></tr>
-<tr><td>Colombie<sup>\*</sup></td><td>16 mars</td><td>2020 A</td><td>1<sup>er</sup> juillet</td><td>2020</td></tr>
+<tr><td>Colombie\*</td><td>16 mars</td><td>2020 A</td><td>1<sup>er</sup> juillet</td><td>2020</td></tr>
 <tr><td>Costa Rica\*</td><td>22 septembre</td><td>2017 A</td><td>1<sup>er</sup> janvier</td><td>2018</td></tr>
 <tr><td>Croatie</td><td>17 octobre</td><td>2002</td><td>1<sup>er</sup> juillet</td><td>2004</td></tr>
 <tr><td>Danemark\* <sup>a</sup></td><td>21 juin</td><td>2005</td><td>1<sup>er</sup> octobre</td><td>2005</td></tr>
 <tr><td>Espagne\*</td><td>3 juin</td><td>2010</td><td>1<sup>er</sup> octobre</td><td>2010</td></tr>
 <tr><td>Estonie</td><td>12 mai</td><td>2003</td><td>1<sup>er</sup> juillet</td><td>2004</td></tr>
 <tr><td>États-Unis\*</td><td>29 septembre</td><td>2006</td><td>1<sup>er</sup> janvier</td><td>2007</td></tr>
+<tr><td>Fidji\*</td><td>20 juin</td><td>2024 A</td><td>1<sup>er</sup> octobre</td><td>2024</td></tr>
 <tr><td>Finlande\*</td><td>24 mai</td><td>2007</td><td>1<sup>er</sup> septembre</td><td>2007</td></tr>
 <tr><td>France\*</td><td>10 janvier</td><td>2006</td><td>1<sup>er</sup> mai</td><td>2006</td></tr>
 <tr><td>Géorgie\*</td><td>6 juin</td><td>2012</td><td>1<sup>er</sup> octobre</td><td>2012</td></tr>
 <tr><td>Ghana\*</td><td>3 décembre</td><td>2018 A</td><td>1<sup>er</sup> avril</td><td>2019</td></tr>
 <tr><td>Grèce\*</td><td>25 janvier</td><td>2017</td><td>1<sup>er</sup> mai</td><td>2017</td></tr>
+<tr><td>Grenade\*</td><td>22 avril</td><td>2024 A</td><td>1<sup>er</sup> août</td><td>2024</td></tr>
 <tr><td>Hongrie\*</td><td>4 décembre</td><td>2003</td><td>1<sup>er</sup> juillet</td><td>2004</td></tr>
 <tr><td>Islande\*</td><td>29 janvier</td><td>2007</td><td>1<sup>er</sup> mai</td><td>2007</td></tr>
-<tr><td>Israël<sup>\*</sup></td><td>9 mai</td><td>2016</td><td>1<sup>er</sup> septembre</td><td>2016</td></tr>
+<tr><td>Israël\*</td><td>9 mai</td><td>2016</td><td>1<sup>er</sup> septembre</td><td>2016</td></tr>
 <tr><td>Italie</td><td>5 juin</td><td>2008</td><td>1<sup>er</sup> octobre</td><td>2008</td></tr>
 <tr><td>Japon\*</td><td>3 juillet</td><td>2012</td><td>1<sup>er</sup> novembre</td><td>2012</td></tr>
+<tr><td>Kiribati\*</td><td>20 juin</td><td>2024 A</td><td>1<sup>er</sup> octobre</td><td>2024</td></tr>
 <tr><td>Lettonie\*</td><td>14 février</td><td>2007</td><td>1<sup>er</sup> juin</td><td>2007</td></tr>
-<tr><td>Liechtenstein<sup>\*</sup></td><td>27 janvier</td><td>2016</td><td>1<sup>er</sup> mai</td><td>2016</td></tr>
+<tr><td>Liechtenstein\*</td><td>27 janvier</td><td>2016</td><td>1<sup>er</sup> mai</td><td>2016</td></tr>
 <tr><td>Lituanie\*</td><td>18 mars</td><td>2004</td><td>1<sup>er</sup> juillet</td><td>2004</td></tr>
 <tr><td>Luxembourg</td><td>16 octobre</td><td>2014</td><td>1<sup>er</sup> février</td><td>2015</td></tr>
 <tr><td>Macédoine du Nord</td><td>15 septembre</td><td>2004</td><td>1<sup>er</sup> janvier</td><td>2005</td></tr>
-<tr><td>Malte<sup>\*</sup></td><td>12 avril</td><td>2012</td><td>1<sup>er</sup> août</td><td>2012</td></tr>
+<tr><td>Malte\*</td><td>12 avril</td><td>2012</td><td>1<sup>er</sup> août</td><td>2012</td></tr>
 <tr><td>Maroc\*</td><td>29 juin</td><td>2018 A</td><td>1<sup>er</sup> octobre</td><td>2018</td></tr>
-<tr><td>Maurice<sup>\*</sup></td><td>15 novembre</td><td>2013 A</td><td>1<sup>er</sup> mars</td><td>2014</td></tr>
+<tr><td>Maurice\*</td><td>15 novembre</td><td>2013 A</td><td>1<sup>er</sup> mars</td><td>2014</td></tr>
 <tr><td>Moldova\*</td><td>12 mai</td><td>2009</td><td>1<sup>er</sup> septembre</td><td>2009</td></tr>
 <tr><td>Monaco\*</td><td>17 mars</td><td>2017</td><td>1<sup>er</sup> juillet</td><td>2017</td></tr>
 <tr><td>Monténégro\*</td><td>3 mars</td><td>2010</td><td>1<sup>er</sup> juillet</td><td>2010</td></tr>
+<tr><td>Nigéria\*</td><td>6 juin</td><td>2022 A</td><td>1<sup>er</sup> novembre</td><td>2022</td></tr>
 <tr><td>Norvège\*</td><td>30 juin</td><td>2006</td><td>1<sup>er</sup> octobre</td><td>2006</td></tr>
-<tr><td>Panama<sup>\*</sup></td><td>5 mars</td><td>2014 A</td><td>1<sup>er</sup> juillet</td><td>2014</td></tr>
+<tr><td>Panama\*</td><td>5 mars</td><td>2014 A</td><td>1<sup>er</sup> juillet</td><td>2014</td></tr>
 <tr><td>Pays-Bas <sup>b</sup></td><td>16 novembre</td><td>2006</td><td>1<sup>er</sup> mars</td><td>2007</td></tr>
 <tr><td>Pérou\*</td><td>26 août</td><td>2019 A</td><td>1<sup>er</sup> décembre</td><td>2019</td></tr>
-<tr><td>Pologne<sup>\*</sup></td><td>20 février</td><td>2015</td><td>1<sup>er</sup> juin</td><td>2015</td></tr>
+<tr><td>Pologne\*</td><td>20 février</td><td>2015</td><td>1<sup>er</sup> juin</td><td>2015</td></tr>
 <tr><td>Portugal\*</td><td>24 mars</td><td>2010</td><td>1<sup>er</sup> juillet</td><td>2010</td></tr>
-<tr><td>République dominicaine<sup>\*</sup></td><td>7 février</td><td>2013 A</td><td>1<sup>er</sup> juin</td><td>2013</td></tr>
-<tr><td>République tchèque<sup>\*</sup></td><td>22 août</td><td>2013</td><td>1<sup>er</sup> décembre</td><td>2013</td></tr>
+<tr><td>République dominicaine\*</td><td>7 février</td><td>2013 A</td><td>1<sup>er</sup> juin</td><td>2013</td></tr>
+<tr><td>République tchèque\*</td><td>22 août</td><td>2013</td><td>1<sup>er</sup> décembre</td><td>2013</td></tr>
 <tr><td>Roumanie</td><td>12 mai</td><td>2004</td><td>1<sup>er</sup> septembre</td><td>2004</td></tr>
 <tr><td>Royaume-Uni\*</td><td>25 mai</td><td>2011</td><td>1<sup>er</sup> septembre</td><td>2011</td></tr>
 <tr><td>Saint-Marin\*</td><td>8 mars</td><td>2019</td><td>1<sup>er</sup> juillet</td><td>2019</td></tr>
 <tr><td>Sénégal\*</td><td>16 décembre</td><td>2016</td><td>1<sup>er</sup> avril</td><td>2017</td></tr>
 <tr><td>Serbie</td><td>14 avril</td><td>2009</td><td>1<sup>er</sup> août</td><td>2009</td></tr>
+<tr><td>Sierra Leone\*</td><td>19 avril</td><td>2024 A</td><td>1<sup>er</sup> août</td><td>2024</td></tr>
 <tr><td>Slovaquie\*</td><td>8 janvier</td><td>2008</td><td>1<sup>er</sup> mai</td><td>2008</td></tr>
 <tr><td>Slovénie</td><td>8 septembre</td><td>2004</td><td>1<sup>er</sup> janvier</td><td>2005</td></tr>
-<tr><td>Sri Lanka<sup>\*</sup></td><td>29 mai</td><td>2015 A</td><td>1<sup>er</sup> septembre</td><td>2015</td></tr>
+<tr><td>Sri Lanka\*</td><td>29 mai</td><td>2015 A</td><td>1<sup>er</sup> septembre</td><td>2015</td></tr>
+<tr><td>Suède\*</td><td>28 avril</td><td>2021</td><td>1<sup>er</sup> août</td><td>2021</td></tr>
 <tr><td>Suisse\*</td><td>21 septembre</td><td>2011</td><td>1<sup>er</sup> janvier</td><td>2012</td></tr>
 <tr><td>Tonga\*</td><td>9 mai</td><td>2017</td><td>1<sup>er</sup> septembre</td><td>2017</td></tr>
-<tr><td>Turquie<sup>\*</sup></td><td>29 septembre</td><td>2014</td><td>1<sup>er</sup> janvier</td><td>2015</td></tr>
-<tr><td>Ukraine<sup>\*</sup></td><td>10 mars</td><td>2006</td><td>1<sup>er</sup> juillet</td><td>2006</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas aux Îles Féroé et au Groenland. <sup>b</sup> La Convention ne s’applique qu’au Royaume en Europe.</td></tr>
+<tr><td>Tunisie\*</td><td>8 mars</td><td>2024 A</td><td>1<sup>er</sup> juillet</td><td>2024</td></tr>
+<tr><td>Turquie\*</td><td>29 septembre</td><td>2014</td><td>1<sup>er</sup> janvier</td><td>2015</td></tr>
+<tr><td>Ukraine\*</td><td>10 mars</td><td>2006</td><td>1<sup>er</sup> juillet</td><td>2006</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: [www.coe.int](http://www.coe.int) &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas aux Îles Féroé et au Groenland. <sup>b</sup> La Convention ne s’applique qu’au Royaume en Europe.</td></tr>
 </table>
 
-[^t-2]: [RO 2011 6297](https://fedlex.data.admin.ch/eli/oc/2011/888), [2013 2825](https://fedlex.data.admin.ch/eli/oc/2013/581), [2016 2847](https://fedlex.data.admin.ch/eli/oc/2016/465), **2016** 3981, [2017 3981](https://fedlex.data.admin.ch/eli/oc/2017/473), [2019 753](https://fedlex.data.admin.ch/eli/oc/2019/130), [2020 3807](https://fedlex.data.admin.ch/eli/oc/2020/700). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2011 6297](https://fedlex.data.admin.ch/eli/oc/2011/888); [2013 2825](https://fedlex.data.admin.ch/eli/oc/2013/581); [2016 2847](https://fedlex.data.admin.ch/eli/oc/2016/465); [2017 3981](https://fedlex.data.admin.ch/eli/oc/2017/473); [2019 753](https://fedlex.data.admin.ch/eli/oc/2019/130); [2020 3807](https://fedlex.data.admin.ch/eli/oc/2020/700); [2024 366](https://fedlex.data.admin.ch/eli/oc/2024/366). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
 
 Réserves et déclarations
 
-Suisse**[^t-3]**
+Suisse[^t-3]
 
 a. déclaration relative à l’art. 2:
 

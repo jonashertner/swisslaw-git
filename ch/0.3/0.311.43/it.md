@@ -3,11 +3,11 @@ sr: "0.311.43"
 title: Convenzione del 23 novembre 2001 sulla cibercriminalità
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/888"
 language: it
-version: 2020-09-14
+version: 2024-07-16
 adopted: 2001-11-23
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/888/20200914/it/xml/fedlex-data-admin-ch-eli-cc-2011-888-20200914-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/888/20200914/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/888/20240716/it/xml/fedlex-data-admin-ch-eli-cc-2011-888-20240716-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/888/20240716/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2011** 6297; FF **2010** 4119
 
 Traduzione
 
-Conclusa a Budapest il 23 novembre 2001
+Conclusa a Budapest il 23 novembre 2001 Approvata dall’Assemblea federale il 18 marzo 2011[^t-1] Strumento di ratifica depositato dalla Svizzera il 21 settembre 2011 Entrata in vigore per la Svizzera il 1° gennaio 2012
 
-Approvata dall’Assemblea federale il 18 marzo 2011[^t-1]
-
-Strumento di ratifica depositato dalla Svizzera il 21 settembre 2011
-
-Entrata in vigore per la Svizzera il 1° gennaio 2012
-
-(Stato 14 settembre 2020)
+(Stato 16 luglio 2024)
 
 [^t-1]: Art. 1 cpv. 1 del DF del 18 mar. 2011 ([RU 2011 6293](https://fedlex.data.admin.ch/eli/oc/2011/887)).
 
@@ -798,7 +792,7 @@ Il Segretario generale del Consiglio d’Europa notifica agli Stati membri del C
 
 *In fede di che*, i sottoscritti, debitamente autorizzati a tal fine, hanno firmato la presente Convenzione. Fatto a Budapest, il 23 novembre 2001, in francese e in inglese, entrambi i testi facenti egualmente fede, in un unico esemplare che sarà depositato negli archivi del Consiglio d’Europa. Il Segretario generale del Consiglio d’Europa ne trasmetterà copia certificata agli Stati membri del Consiglio d’Europa, agli Stati non membri che hanno partecipato all’elaborazione della Convenzione e a tutti gli Stati che sono stati invitati ad aderirvi. (Seguono le firme)
 
-Campo d’applicazione il 14 settembre 2020**[^t-2]**
+Campo d’applicazione il 16 luglio 2024[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -810,8 +804,11 @@ Campo d’applicazione il 14 settembre 2020**[^t-2]**
 <tr><td>Austria\*</td><td>13 giugno</td><td>2012</td><td>1° ottobre</td><td>2012</td></tr>
 <tr><td>Azerbaigian\*</td><td>15 marzo</td><td>2010</td><td>1° luglio</td><td>2010</td></tr>
 <tr><td>Belgio\*</td><td>20 agosto</td><td>2012</td><td>1° dicembre</td><td>2012</td></tr>
+<tr><td>Benin\*</td><td>20 giugno</td><td>2024 A</td><td>1° ottobre</td><td>2024</td></tr>
 <tr><td>Bosnia e Erzegovina</td><td>19 maggio</td><td>2006</td><td>1° settembre</td><td>2006</td></tr>
+<tr><td>Brasile\*</td><td>30 novembre</td><td>2022</td><td>1° marzo</td><td>2023</td></tr>
 <tr><td>Bulgaria\*</td><td>7 aprile</td><td>2005</td><td>1° agosto</td><td>2005</td></tr>
+<tr><td>Camerun\*</td><td>15 dicembre</td><td>2023</td><td>1° aprile</td><td>2024</td></tr>
 <tr><td>Canada<sup>\*</sup></td><td>8 luglio</td><td>2015</td><td>1° novembre</td><td>2015</td></tr>
 <tr><td>Capo Verde\*</td><td>19 giugno</td><td>2108 A</td><td>1° ottobre</td><td>2018</td></tr>
 <tr><td>Ceca, Repubblica\*</td><td>22 agosto</td><td>2013</td><td>1° dicembre</td><td>2013</td></tr>
@@ -823,6 +820,7 @@ Campo d’applicazione il 14 settembre 2020**[^t-2]**
 <tr><td>Danimarca\* <sup>a</sup></td><td>21 giugno</td><td>2005</td><td>1° ottobre</td><td>2005</td></tr>
 <tr><td>Dominicana, Repubblica\*</td><td>7 febbraio</td><td>2013 A</td><td>1° giugno</td><td>2013</td></tr>
 <tr><td>Estonia</td><td>12 maggio</td><td>2003</td><td>1° luglio</td><td>2004</td></tr>
+<tr><td>Figi\*</td><td>20 giugno</td><td>2024 A</td><td>1° ottobre</td><td>2024</td></tr>
 <tr><td>Finlandia\*</td><td>24 maggio</td><td>2007</td><td>1° settembre</td><td>2007</td></tr>
 <tr><td>Francia\*</td><td>10 gennaio</td><td>2006</td><td>1° maggio</td><td>2006</td></tr>
 <tr><td>Georgia\*</td><td>6 giugno</td><td>2012</td><td>1° ottobre</td><td>2012</td></tr>
@@ -830,9 +828,11 @@ Campo d’applicazione il 14 settembre 2020**[^t-2]**
 <tr><td>Ghana\*</td><td>3 dicembre</td><td>2018 A</td><td>1° aprile</td><td>2019</td></tr>
 <tr><td>Giappone\*</td><td>3 luglio</td><td>2012</td><td>1° novembre</td><td>2012</td></tr>
 <tr><td>Grecia\*</td><td>25 gennaio</td><td>2017</td><td>1° maggio</td><td>2017</td></tr>
+<tr><td>Grenada\*</td><td>22 aprile</td><td>2024 A</td><td>1° agosto</td><td>2024</td></tr>
 <tr><td>Islanda\*</td><td>29 gennaio</td><td>2007</td><td>1° maggio</td><td>2007</td></tr>
 <tr><td>Israele<sup>\*</sup></td><td>9 maggio</td><td>2016</td><td>1° settembre</td><td>2016</td></tr>
 <tr><td>Italia</td><td>5 giugno</td><td>2008</td><td>1° ottobre</td><td>2008</td></tr>
+<tr><td>Kiribati\*</td><td>20 giugno</td><td>2024 A</td><td>1° ottobre</td><td>2024</td></tr>
 <tr><td>Lettonia\*</td><td>14 febbraio</td><td>2007</td><td>1° giugno</td><td>2007</td></tr>
 <tr><td>Liechtenstein<sup>\*</sup></td><td>27 gennaio</td><td>2016</td><td>1° maggio</td><td>2016</td></tr>
 <tr><td>Lituania\*</td><td>18 marzo</td><td>2004</td><td>1° luglio</td><td>2004</td></tr>
@@ -844,6 +844,7 @@ Campo d’applicazione il 14 settembre 2020**[^t-2]**
 <tr><td>Moldova\*</td><td>12 maggio</td><td>2009</td><td>1° settembre</td><td>2009</td></tr>
 <tr><td>Monaco\*</td><td>17 marzo</td><td>2017</td><td>1° luglio</td><td>2017</td></tr>
 <tr><td>Montenegro\*</td><td>3 marzo</td><td>2010</td><td>1° luglio</td><td>2010</td></tr>
+<tr><td>Nigeria\*</td><td>6 giugno</td><td>2022 A</td><td>1° novembre</td><td>2022</td></tr>
 <tr><td>Norvegia\*</td><td>30 giugno</td><td>2006</td><td>1° ottobre</td><td>2006</td></tr>
 <tr><td>Paesi Bassi <sup>b</sup></td><td>16 novembre</td><td>2006</td><td>1° marzo</td><td>2007</td></tr>
 <tr><td>Panama<sup>\*</sup></td><td>5 marzo</td><td>2014 A</td><td>1° luglio</td><td>2014</td></tr>
@@ -855,22 +856,25 @@ Campo d’applicazione il 14 settembre 2020**[^t-2]**
 <tr><td>San Marino<sup>\*</sup></td><td>8 marzo</td><td>2019</td><td>1° luglio</td><td>2019</td></tr>
 <tr><td>Senegal\*</td><td>16 dicembre</td><td>2016</td><td>1° aprile</td><td>2017</td></tr>
 <tr><td>Serbia</td><td>14 aprile</td><td>2009</td><td>1° agosto</td><td>2009</td></tr>
+<tr><td>Sierra Leone\*</td><td>19 aprile</td><td>2024 A</td><td>1° agosto</td><td>2024</td></tr>
 <tr><td>Slovacchia\*</td><td>8 gennaio</td><td>2008</td><td>1° maggio</td><td>2008</td></tr>
 <tr><td>Slovenia</td><td>8 settembre</td><td>2004</td><td>1° gennaio</td><td>2005</td></tr>
 <tr><td>Spagna\*</td><td>3 giugno</td><td>2010</td><td>1° ottobre</td><td>2010</td></tr>
 <tr><td>Sri Lanka<sup>\*</sup></td><td>29 maggio</td><td>2015 A</td><td>1° settembre</td><td>2015</td></tr>
 <tr><td>Stati Uniti\*</td><td>29 settembre</td><td>2006</td><td>1° gennaio</td><td>2007</td></tr>
+<tr><td>Svezia\*</td><td>28 aprile</td><td>2021</td><td>1° agosto</td><td>2021</td></tr>
 <tr><td>Svizzera\*</td><td>21 settembre</td><td>2011</td><td>1° gennaio</td><td>2012</td></tr>
 <tr><td>Tonga</td><td>9 maggio</td><td>2017</td><td>1° settembre</td><td>2017</td></tr>
+<tr><td>Tunisia\*</td><td>8 marzo</td><td>2024 A</td><td>1° luglio</td><td>2024</td></tr>
 <tr><td>Turchia<sup>\*</sup></td><td>29 settembre</td><td>2014</td><td>1° gennaio</td><td>2015</td></tr>
 <tr><td>Ucraina<sup>\*</sup></td><td>10 marzo</td><td>2006</td><td>1° luglio</td><td>2006</td></tr>
 <tr><td>Ungheria\*</td><td>4 dicembre</td><td>2003</td><td>1° luglio</td><td>2004</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. I testi, francese ed inglese, possono essere consultati sul sito Internet del Consiglio d’Europa: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: [http://conventions.coe.int](http://conventions.coe.int/) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> La Conv. non si applica alle Isole Feröe né alla Groenlandia.</td></tr>
 <tr><td colspan="5"><sup>b</sup> La Conv. si applica unicamente al Regno in Europa.</td></tr>
 </table>
 
-[^t-2]: [RU 2011 6297](https://fedlex.data.admin.ch/eli/oc/2011/888), [2013 2825](https://fedlex.data.admin.ch/eli/oc/2013/581), [2016 2847](https://fedlex.data.admin.ch/eli/oc/2016/465), [2017 3981](https://fedlex.data.admin.ch/eli/oc/2017/473), [2019 753](https://fedlex.data.admin.ch/eli/oc/2019/130)e [2020 3807](https://fedlex.data.admin.ch/eli/oc/2020/700). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2011 6297](https://fedlex.data.admin.ch/eli/oc/2011/888); [2013 2825](https://fedlex.data.admin.ch/eli/oc/2013/581); [2016 2847](https://fedlex.data.admin.ch/eli/oc/2016/465); [2017 3981](https://fedlex.data.admin.ch/eli/oc/2017/473); [2020 3807](https://fedlex.data.admin.ch/eli/oc/2020/700); [2024 366](https://fedlex.data.admin.ch/eli/oc/2024/366). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Riserve e dichiarazioni
 
