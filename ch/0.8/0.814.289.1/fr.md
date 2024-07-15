@@ -3,11 +3,11 @@ sr: "0.814.289.1"
 title: "Protocole de 1973 du 2 novembre 1973 sur l'intervention en haute mer en cas de pollution par des substances autres que les hydrocarbures (avec annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1498_1498_1498"
 language: fr
-version: 2017-07-13
+version: 2024-07-16
 adopted: 1973-11-02
 in_force: 1988-03-14
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1498_1498_1498/20170713/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1498_1498_1498-20170713-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1498_1498_1498/20170713/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1498_1498_1498/20240716/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1498_1498_1498-20240716-fr-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1498_1498_1498/20240716/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclu à Londres le 2 novembre 1973 Approuvé par l’Assemblée fédérale le 9 mars 1987[^t-1] Instrument d’adhésion déposé par la Suisse le 15 décembre 1987 Entré en vigueur pour la Suisse le 14 mars 1988
 
-(État le 13 juillet 2017)
+(État le 16 juillet 2024)
 
 [^t-1]: Art. 3 let. b de l’AF du 9 mars 1987 ([RO 1988 1240](https://fedlex.data.admin.ch/eli/oc/1988/1240_1240_1240))
 
@@ -143,12 +143,12 @@ Le présent Protocole est établi en un seul exemplaire en langues anglaise, esp
 
 Annexe[^t-2]
 
-## Champ d’application le 13 juillet 2017
+## Champ d’application le 16 juillet 2024
 
 [^annexu1-lvlu2-1]
 
 [^t-2]: Nouvelle teneur selon la résolution du 11 oct. 2002 ([RO 2007 3955](https://fedlex.data.admin.ch/eli/oc/2007/528)). Mise à jour par l’Am. adopté le 13 juil. 2007, en vigueur depuis le 23 nov. 2009 ([RO 2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286)). L’annexe et ses amendements ne sont plus publiés dans le RO et le RS. Les textes en anglais peuvent être consultés sur le site Internet de l’Organisation maritime internationale (OMI): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx). Ils y sont mis à jour dans les résolutions du comité compétent de l’OMI. Les textes français ainsi qu’une version anglaise consolidée peuvent être consultés auprès de l’Office suisse de la navigation maritime, Elisabethenstrasse 33, 4010 Bâle.
-[^annexu1-lvlu2-1]: [RO 1988 1498](https://fedlex.data.admin.ch/eli/oc/1988/1498_1498_1498); [2003 3539](https://fedlex.data.admin.ch/eli/oc/2003/508); [2007 5203](https://fedlex.data.admin.ch/eli/oc/2007/734); [2008 4133](https://fedlex.data.admin.ch/eli/oc/2008/583); [2012 877](https://fedlex.data.admin.ch/eli/oc/2012/135); [2017 3799](https://fedlex.data.admin.ch/eli/oc/2017/447). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
+[^annexu1-lvlu2-1]: [RO 1988 1498](https://fedlex.data.admin.ch/eli/oc/1988/1498_1498_1498); [2003 3539](https://fedlex.data.admin.ch/eli/oc/2003/508); [2007 5203](https://fedlex.data.admin.ch/eli/oc/2007/734); [2008 4133](https://fedlex.data.admin.ch/eli/oc/2008/583); [2012 877](https://fedlex.data.admin.ch/eli/oc/2012/135); [2017 3799](https://fedlex.data.admin.ch/eli/oc/2017/447); [2024 373](https://fedlex.data.admin.ch/eli/oc/2024/373). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -214,14 +214,15 @@ Annexe[^t-2]
 <tr><td>Sainte-Hélène et dépendances (Ascension et Tristan da Cunha)</td><td>9 septembre</td><td>1982</td><td>30 mars</td><td>1983</td></tr>
 <tr><td>Territoire antarctique britannique</td><td>9 septembre</td><td>1982</td><td>30 mars</td><td>1983</td></tr>
 <tr><td>Russie</td><td>30 décembre</td><td>1982</td><td>30 mars</td><td>1983</td></tr>
-<tr><td>Sainte-Lucie</td><td>20 mai</td><td>2004 A</td><td>18 avril</td><td>2004</td></tr>
+<tr><td>Sainte-Lucie</td><td>20 mai</td><td>2004 A</td><td>18 août</td><td>2004</td></tr>
+<tr><td>Saint-Marin</td><td>19 avril</td><td>2021 A</td><td>18 juillet</td><td>2021</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>12 mai</td><td>1999 A</td><td>10 août</td><td>1999</td></tr>
 <tr><td>Serbie</td><td>27 avril</td><td>1992 S</td><td>30 mars</td><td>1983</td></tr>
 <tr><td>Slovénie</td><td>12 novembre</td><td>1992 S</td><td>25 juin</td><td>1991</td></tr>
 <tr><td>Suède</td><td>28 juin</td><td>1976</td><td>30 mars</td><td>1983</td></tr>
 <tr><td>Suisse</td><td>15 décembre</td><td>1987 A</td><td>14 mars</td><td>1988</td></tr>
 <tr><td>Tanzanie</td><td>23 novembre</td><td>2006 A</td><td>21 février</td><td>2007</td></tr>
-<tr><td>Togo</td><td>10 octobre</td><td>2016 A</td><td>8 janvier</td><td>2016</td></tr>
+<tr><td>Togo</td><td>10 octobre</td><td>2016 A</td><td>8 janvier</td><td>2017</td></tr>
 <tr><td>Tonga</td><td>1<sup>er</sup> février</td><td>1996 A</td><td>1<sup>er</sup> mai</td><td>1996</td></tr>
 <tr><td>Tunisie</td><td>4 mai</td><td>1976 A</td><td>30 mars</td><td>1983</td></tr>
 <tr><td>Vanuatu</td><td>14 septembre</td><td>1992 A</td><td>13 décembre</td><td>1992</td></tr>

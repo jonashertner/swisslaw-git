@@ -3,11 +3,11 @@ sr: "0.814.289.1"
 title: Protokoll von 1973 vom 2. November 1973 über Massnahmen auf Hoher See bei Fällen von Verschmutzung durch andere Stoffe als Öl (mit Anlage)
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1498_1498_1498"
 language: de
-version: 2017-07-13
+version: 2024-07-16
 adopted: 1973-11-02
 in_force: 1988-03-14
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1498_1498_1498/20170713/de/xml/fedlex-data-admin-ch-eli-cc-1988-1498_1498_1498-20170713-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1498_1498_1498/20170713/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1498_1498_1498/20240716/de/xml/fedlex-data-admin-ch-eli-cc-1988-1498_1498_1498-20240716-de-xml-11.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1498_1498_1498/20240716/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Beitrittsurkunde hinterlegt am 15. Dezember 1987
 
 In Kraft getreten für die Schweiz am 14. März 1988
 
-(Stand am 13. Juli 2017)
+(Stand am 16. Juli 2024)
 
 [^t-1]: Art. 3 Bst. b des BB vom 9. März 1987 ([AS 1988 1240](https://fedlex.data.admin.ch/eli/oc/1988/1240_1240_1240)).
 
@@ -146,13 +146,15 @@ Sobald dieses Protokoll in Kraft tritt, übermittelt der Generalsekretär der Or
 
 Dieses Protokoll ist in einer Urschrift in englischer, französischer, russischer und spanischer Sprache abgefasst, wobei jeder Wortlaut gleichermassen verbindlich ist.
 
-*Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Protokoll unterschrieben. Geschehen zu London am 2. November 1973. (Es folgen die Unterschriften)
+*Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Protokoll unterschrieben. Geschehen zu London am 2. November 1973.
+
+(Es folgen die Unterschriften)
 
 Anlage[^t-2]
 
 [^t-2]: Fassung gemäss Entschliessung vom 11. Okt. 2002 ([AS 2007 3955](https://fedlex.data.admin.ch/eli/oc/2007/528)). Bereinigt gemäss Änd. angenommen am 13. Juli 2007, in Kraft seit 23. Nov. 2009 ([AS 2025 286](https://fedlex.data.admin.ch/eli/oc/2025/286)). Die Anlage und ihre Änderungen werden in der AS und in der SR nicht mehr veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrts-Organisation (IMO): [www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx](https://www.imo.org/en/KnowledgeCentre/IndexofIMOResolutions/Pages/Default.aspx) eingesehen werden. Die französischen Texte sowie eine konsolidierte englische Version können beim Schweizerischen Seeschifffahrtsamt, Elisabethenstrasse 33, 4010 Basel, eingesehen werden.
 
-Geltungsbereich am 2. Februar 2012[^t-3]
+Geltungsbereich am 16. Juli 2024[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -203,16 +205,17 @@ Geltungsbereich am 2. Februar 2012[^t-3]
 <tr><td>Polen</td><td>10. Juli</td><td>1981</td><td>30. März</td><td>1983</td></tr>
 <tr><td>Portugal</td><td>8. Juli</td><td>1987 B</td><td>6. Oktober</td><td>1987</td></tr>
 <tr><td>Russland</td><td>30. Dezember</td><td>1982</td><td>30. März</td><td>1983</td></tr>
+<tr><td>San Marino</td><td>19. April</td><td>2021 B</td><td>18. Juli</td><td>2021</td></tr>
 <tr><td>Schweden</td><td>28. Juni</td><td>1976</td><td>30. März</td><td>1983</td></tr>
 <tr><td>Schweiz</td><td>15. Dezember</td><td>1987 B</td><td>14. März</td><td>1988</td></tr>
 <tr><td>Serbien</td><td>27. April</td><td>1992 N</td><td>30. März</td><td>1983</td></tr>
 <tr><td>Slowenien</td><td>12. November</td><td>1992 N</td><td>25. Juni</td><td>1991</td></tr>
 <tr><td>Spanien</td><td>14. März</td><td>1994 B</td><td>12. Juni</td><td>1994</td></tr>
-<tr><td>St. Lucia</td><td>20. Mai</td><td>2004 B</td><td>18. April</td><td>2004</td></tr>
+<tr><td>St. Lucia</td><td>20. Mai</td><td>2004 B</td><td>18. August</td><td>2004</td></tr>
 <tr><td>St. Vincent und die Grenadinen</td><td>12. Mai</td><td>1999 B</td><td>10. August</td><td>1999</td></tr>
 <tr><td>Südafrika</td><td>25. September</td><td>1997 B</td><td>24. Dezember</td><td>1997</td></tr>
 <tr><td>Tansania</td><td>23. November</td><td>2006 B</td><td>21. Februar</td><td>2007</td></tr>
-<tr><td>Togo</td><td>10. Oktober</td><td>2016 B</td><td>8. Januar</td><td>2016</td></tr>
+<tr><td>Togo</td><td>10. Oktober</td><td>2016 B</td><td>8. Januar</td><td>2017</td></tr>
 <tr><td>Tonga</td><td>1. Februar</td><td>1996 B</td><td>1. Mai</td><td>1996</td></tr>
 <tr><td>Tunesien</td><td>4. Mai</td><td>1976 B</td><td>30. März</td><td>1983</td></tr>
 <tr><td>Vanuatu</td><td>14. September</td><td>1992 B</td><td>13. Dezember</td><td>1992</td></tr>
@@ -230,9 +233,7 @@ Geltungsbereich am 2. Februar 2012[^t-3]
 <tr><td>Pitcairn-Inseln (Ducie, Oeno, Henderson und Pitcairn)</td><td>9. September</td><td>1982</td><td>30. März</td><td>1983</td></tr>
 <tr><td>St. Helena und Nebengebiete (Ascension und Tristan da Cunha)</td><td>9. September</td><td>1982</td><td>30. März</td><td>1983</td></tr>
 <tr><td>Turks- und Caicosinseln</td><td>9. September</td><td>1982</td><td>30. März</td><td>1983</td></tr>
-<tr><td colspan="6">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht publiziert. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): [www.imo.org](http://www.imo.org) &gt; Publications &gt; Catalogue & Code Listings oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
-<tr><td colspan="6"><sup>a</sup> Vom 30. März 1983 bis zum 30. Juni 1997 war das Übereinkommen auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 5. Juni 1997 ist das Übereinkommen seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar.</td></tr>
-<tr><td colspan="6"><sup>b</sup> Das Protokoll gilt nicht für Tokelau.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): [www.imo.org](http://www.imo.org) &gt; Qui nous sommes &gt; Conventions &gt; État des conventions &gt; Status Book oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Vom 30. März 1983 bis zum 30. Juni 1997 war das Übereinkommen auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 5. Juni 1997 ist das Übereinkommen seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar. <sup>b</sup> Das Protokoll gilt nicht für Tokelau.</td></tr>
 </table>
 
-[^t-3]: AS **1988** 1503; [2003 3539](https://fedlex.data.admin.ch/eli/oc/2003/508); [2007 5203](https://fedlex.data.admin.ch/eli/oc/2007/734); [2008 4133](https://fedlex.data.admin.ch/eli/oc/2008/583); [2012 877](https://fedlex.data.admin.ch/eli/oc/2012/135); [2017 3799](https://fedlex.data.admin.ch/eli/oc/2017/447). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-3]: [AS 1988 1498](https://fedlex.data.admin.ch/eli/oc/1988/1498_1498_1498); [2003 3539](https://fedlex.data.admin.ch/eli/oc/2003/508); [2007 5203](https://fedlex.data.admin.ch/eli/oc/2007/734); [2008 4133](https://fedlex.data.admin.ch/eli/oc/2008/583); [2012 877](https://fedlex.data.admin.ch/eli/oc/2012/135); [2017 3799](https://fedlex.data.admin.ch/eli/oc/2017/447); [2024 373](https://fedlex.data.admin.ch/eli/oc/2024/373). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
