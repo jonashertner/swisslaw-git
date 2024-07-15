@@ -3,26 +3,28 @@ sr: "0.783.51"
 title: "Constitution de l'Union postale universelle du 10 juillet 1964"
 eli: "https://fedlex.data.admin.ch/eli/cc/1966/167_167_167"
 language: fr
-version: 2022-10-07
+version: 2024-07-16
 adopted: 1964-07-10
 in_force: 1966-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/167_167_167/20221007/fr/xml/fedlex-data-admin-ch-eli-cc-1966-167_167_167-20221007-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1966/167_167_167/20221007/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1966/167_167_167/20240716/fr/xml/fedlex-data-admin-ch-eli-cc-1966-167_167_167-20240716-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1966/167_167_167/20240716/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Constitution de l’Union postale universelle
 
-Conclue à Vienne le 10 juillet 1964 Approuvée par l’Assemblé fédérale le 16 décembre 1965[^t-2] Instrument de ratification déposé par la Suisse le 4 février 1966 Entrée en vigueur par la Suisse le 1<sup>er</sup> janvier 1966 Modifiée par les Protocoles additionnels de Tokyo 1969, de Lausanne 1974, de Hamburg 1984, de Washington 1989, de Séoul 1994, de Beijing 1999, de Bucarest 2004, de Genève 2008, d’Istanbul 2016, d’Addis-Abeba 2018 et d’Abidjan 2021[^t-3][^t-1]
+RO **1966** 167; FF **1965** II 545[^t-1]
 
-(État le 7 octobre 2022)
+Conclue à Vienne le 10 juillet 1964 Approuvée par l’Assemblé fédérale le 16 décembre 1965[^t-2] Instrument de ratification déposé par la Suisse le 4 février 1966 Entrée en vigueur par la Suisse le 1<sup>er</sup> janvier 1966 Modifiée par les Protocoles additionnels de Tokyo 1969, de Lausanne 1974, de Hamburg 1984, de Washington 1989, de Séoul 1994, de Beijing 1999, de Bucarest 2004, de Genève 2008, d’Istanbul 2016, d’Addis-Abeba 2018 et d’Abidjan 2021[^t-3]
+
+(État le 16 juillet 2024)
 
 [^t-1]: Version consolidée ([RO 2022 659](https://fedlex.data.admin.ch/eli/oc/2022/659)).
 [^t-2]: Art. 1 ch. 1 de l’AF du 16 déc. 1965 ([RO 1966 165](https://fedlex.data.admin.ch/eli/oc/1966/165_165_165)).
 [^t-3]: 11<sup>e</sup> Protocole additionnel à la Constitution, adopté à Abidjan, le 26 août 2021, ratifié par la Suisse le 7 octobre 2022, entré en vigueur pour la Suisse le 7 octobre 2022.
 
-Préambule[^ingress-1]
+*Préambule*[^ingress-1]
 
 En vue de développer les communications entre les peuples par un fonctionnement efficace des services postaux et de contribuer à atteindre les buts élevés de la collaboration internationale dans les domaines culturel, social et économique, les Plénipotentiaires des Gouvernements des pays contractants ont adopté, sous réserve de ratification, *d’acceptation ou d’approbation,*[^ingress-2] la présente Constitution.
 
@@ -56,51 +58,52 @@ L’Union *postale universelle (ci-après «l’Union»)*[^ingress-3] a pour voc
 [^1-2]: Modifié par le Congrès d’Istanbul 2016.
 [^1-3]: Modifié par le Congrès d’Abidjan 2021.
 
-#### Art. 1<sup>bis</sup>
+#### Art. 2
 
-**Définitions**[^1bis-1]
+**Définitions**[^2-1]
 
 <sup>1.</sup>
 
-Aux fins des Actes de l’*Union*[^1bis-2], les termes ci-après sont définis comme suit:
+Aux fins des Actes de l’*Union*[^2-2], les termes ci-après sont définis comme suit:
 
-- 1\.1 Service postal: ensemble des prestations postales *internationales* dont l’étendue est déterminée *et réglementée par les Actes de l’Union**.* Les principales obligations s’attachant à ces prestations consistent à répondre à certains objectifs sociaux et économiques des Pays-membres, en assurant la collecte, le *traitement*[^1bis-3], la transmission et la distribution des envois postaux.
-- 1\.2 Pays-membre: pays qui remplit les conditions énoncées à l’art. 2 de la Constitution.
-- 1\.3 Territoire postal unique (un seul et même territoire postal): obligation pour les parties contractantes des Actes de l’Union d’assurer, selon le principe de réciprocité, l’échange des envois *postaux*dans le respect de la liberté de transit et de traiter indistinctement les envois postaux provenant des autres territoires et transitant par leur pays comme leurs propres envois postaux, *sous réserve des conditions prévues dans les Actes de* *l’Union*[^1bis-4].
-- 1\.4 Liberté de transit: principe selon lequel un Pays-membre intermédiaire est tenu de garantir le transport des envois postaux qui lui sont remis en transit à destination d’un autre Pays-membre[^1bis-5], en réservant à ce courrier le même traitement que celui appliqué aux envois du régime intérieur, *sous réserve des conditions prévues dans les Actes de* *l’Union*[^1bis-6].
-- 1\.5 *(Supprimé)*[^1bis-7]
-- 1\.6 *(Supprimé)*[^1bis-8]
-- 1\.6<sup>bis</sup> Envoi postal: terme générique désignant chacune des expéditions effectuées par l’opérateur désigné d’un Pays-membre (envoi de la poste aux lettres, colis postal, mandat de poste, etc.), tel que décrit dans la Convention postale universelle *(ci-après la «Convention»), les Arrangement de l’Union (tels que mentionnés à l’art. 22 de la Constitution)*[^1bis-9] et leurs Règlements respectifs[^1bis-10]*.*
-- 1\.7 Opérateur désigné: toute entité gouvernementale ou non gouvernementale désignée officiellement par le Pays-membre pour assurer l’exploitation des services postaux et remplir les obligations y relatives découlant des Actes de l’Union sur son territoire[^1bis-11].
-- 1\.8 Réserve: une réserve est une disposition dérogatoire par laquelle un Pays-membre vise à exclure ou à modifier l’effet juridique d’une clause d’un Acte, autre que la Constitution et le Règlement général, dans son application à ce Pays-membre. Toute réserve doit être compatible avec l’objet et le but de l’Union tels que définis dans le préambule et l’article premier de la Constitution. Elle doit être dûment motivée et approuvée par la majorité requise pour l’approbation de l’Acte concerné et insérée dans son Protocole final[^1bis-12].
+- 1\.1 Service postal: ensemble des prestations postales *internationales* dont l’étendue est déterminée *et réglementée par les Actes de l’Union**.* Les principales obligations s’attachant à ces prestations consistent à répondre à certains objectifs sociaux et économiques des Pays-membres, en assurant la collecte, le *traitement*[^2-3], la transmission et la distribution des envois postaux.
+- 1\.2 Pays-membre: pays qui remplit les conditions énoncées à l’art. 3 de la Constitution.
+- 1\.3 Territoire postal unique (un seul et même territoire postal): obligation pour les parties contractantes des Actes de l’Union d’assurer, selon le principe de réciprocité, l’échange des envois *postaux*dans le respect de la liberté de transit et de traiter indistinctement les envois postaux provenant des autres territoires et transitant par leur pays comme leurs propres envois postaux, *sous réserve des conditions prévues dans les Actes de* *l’Union*[^2-4].
+- 1\.4 Liberté de transit: principe selon lequel un Pays-membre intermédiaire est tenu de garantir le transport des envois postaux qui lui sont remis en transit à destination d’un autre Pays-membre[^2-5], en réservant à ce courrier le même traitement que celui appliqué aux envois du régime intérieur, *sous réserve des conditions prévues dans les Actes de* *l’Union*[^2-6].
+- 1\.5[^2-7] Envoi postal: terme générique désignant chacune des expéditions effectuées par l’opérateur désigné d’un Pays-membre (envoi de la poste aux lettres, colis postal, mandat de poste, etc.), tel que décrit dans la Convention postale universelle *(ci-après la «Convention»), les Arrangement de l’Union (tels que mentionnés à l’art. 21 de la Constitution)*[^2-8] et leurs Règlements respectifs[^2-9]*.*
+- 1\.6[^2-10] Opérateur désigné: toute entité gouvernementale ou non gouvernementale désignée officiellement par le Pays-membre pour assurer l’exploitation des services postaux et remplir les obligations y relatives découlant des Actes de l’Union sur son territoire[^2-11].
+- 1\.7[^2-12] Réserve: une réserve est une disposition dérogatoire par laquelle un Pays-membre vise à exclure ou à modifier l’effet juridique d’une clause d’un Acte, autre que la Constitution et le Règlement général, dans son application à ce Pays-membre. Toute réserve doit être compatible avec l’objet et le but de l’Union tels que définis dans le préambule et l’article premier de la Constitution. Elle doit être dûment motivée et approuvée par la majorité requise pour l’approbation de l’Acte concerné et insérée dans son Protocole final[^2-13].
 
-[^1bis-1]: Introduit par le Congrès de Bucarest 2004.
-[^1bis-2]: Modifié par le Congrès d’Abidjan 2021.
-[^1bis-3]: Modifié par le Congrès d’Istanbul 2016.
-[^1bis-4]: Modifié par le Congrès d’Istanbul 2016.
-[^1bis-5]: Modifié par le Congrès de Genève 2008.
-[^1bis-6]: Modifié par le Congrès d’Istanbul 2016.
-[^1bis-7]: Par le Congrès d’Abidjan 2021.
-[^1bis-8]: Par le Congrès d’Istanbul 2016.
-[^1bis-9]: Modifié par le Congrès d’Abidjan 2021.
-[^1bis-10]: Introduit par le Congrès d’Istanbul 2016.
-[^1bis-11]: Modifié par le Congrès de Genève 2008.
-[^1bis-12]: Modifié par le Congrès de Genève 2008.
+[^2-1]: Anciennement art. 1<sup>bis</sup> (voir la communication du 16 juil. 2024, [RO 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). Introduit par le Congrès de Bucarest 2004.
+[^2-2]: Modifié par le Congrès d’Abidjan 2021.
+[^2-3]: Modifié par le Congrès d’Istanbul 2016.
+[^2-4]: Modifié par le Congrès d’Istanbul 2016.
+[^2-5]: Modifié par le Congrès de Genève 2008.
+[^2-6]: Modifié par le Congrès d’Istanbul 2016.
+[^2-7]: Anciennement par. 1.6<sup>bis</sup> (voir la communication du 16 juil. 2024, [RO 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). L’ancien par. 1.5 a été abrogé par le Congrès d’Abidjan 2021.
+[^2-8]: Modifié par le Congrès d’Abidjan 2021.
+[^2-9]: Introduit par le Congrès d’Istanbul 2016.
+[^2-10]: Anciennement par. 1.7 (voir la communication du 16 juil. 2024, [RO 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). L’ancien par. 1.6 a été abrogé par le Congrès d’Istanbul 2016.
+[^2-11]: Modifié par le Congrès de Genève 2008.
+[^2-12]: Anciennement par. 1.8 (voir la communication du 16 juil. 2024, [RO 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
+[^2-13]: Modifié par le Congrès de Genève 2008.
 
-#### Art. 2
+#### Art. 3
 
-**Membres de l’Union**
+**Membres de l’Union**[^3-1]
 
 <sup>1.</sup>
 
 Sont Pays-membres de l’Union:
 
 - 1\.1 les pays qui possèdent la qualité de membre à la date de la mise en vigueur de la présente Constitution;
-- 1\.2 les pays devenus membres conformément à l’art. 11.
+- 1\.2 les pays devenus membres conformément à l’art. 12.
 
-#### Art. 3
+[^3-1]: Anciennement art. 2 (voir la communication du 16 juil. 2024, [RO 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
 
-**Ressort de l’Union**
+#### Art. 4
+
+**Ressort de l’Union**[^4-1]
 
 <sup>1.</sup>
 
@@ -110,69 +113,80 @@ L’Union a dans son ressort:
 - 1\.2 les bureaux de poste établis par des Pays-membres dans des territoires non compris dans l’Union;
 - 1\.3 les territoires qui, sans être membres de l’Union, sont compris dans celle-ci parce qu’ils relèvent, au point de vue postal, de Pays-membres.
 
-#### Art. 4
-
-**Relations exceptionnelles**
-
-<sup>1.</sup> Les Pays-membres dont les opérateurs désignés *fournissent des services postaux pour le compte de*[^4-1] territoires non compris dans l’Union sont tenus d’être les intermédiaires des autres Pays-membres[^4-2]. Les dispositions de la Convention et de ses Règlements sont applicables à ces relations exceptionnelles.
-
-[^4-1]: Modifié par le Congrès d’Abidjan 2021.
-[^4-2]: Modifié par le Congrès de Genève 2008.
+[^4-1]: Anciennement art. 3 (voir la communication du 16 juil. 2024, [RO 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
 
 #### Art. 5
 
-**Siège de l’Union**
+**Relations exceptionnelles**[^5-1]
 
-<sup>1.</sup> Le siège de l’Union et de ses organes permanents est fixé à Berne.
+<sup>1.</sup> Les Pays-membres dont les opérateurs désignés *fournissent des services postaux pour le compte de*[^5-2] territoires non compris dans l’Union sont tenus d’être les intermédiaires des autres Pays-membres[^5-3]. Les dispositions de la Convention et de ses Règlements sont applicables à ces relations exceptionnelles.
+
+[^5-1]: Anciennement art. 4 (voir la communication du 16 juil. 2024, [RO 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
+[^5-2]: Modifié par le Congrès d’Abidjan 2021.
+[^5-3]: Modifié par le Congrès de Genève 2008.
 
 #### Art. 6
 
-**Langue officielle de l’Union**
+**Siège de l’Union**[^6-1]
 
-<sup>1.</sup> La langue officielle de l’Union est la langue française.
+<sup>1.</sup> Le siège de l’Union et de ses organes permanents est fixé à Berne.
+
+[^6-1]: Anciennement art. 5 (voir la communication du 16 juil. 2024, [RO 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
 
 #### Art. 7
 
-**Unité monétaire**[^7-1]
+**Langue officielle de l’Union**[^7-1]
 
-<sup>1.</sup> L’unité monétaire utilisée dans les Actes de l’Union est l’unité de compte du Fonds monétaire international (FMI).
+<sup>1.</sup> La langue officielle de l’Union est la langue française.
 
-[^7-1]: Modifié par le Congrès de Washington 1989.
+[^7-1]: Anciennement art. 6 (voir la communication du 16 juil. 2024, [RO 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
 
 #### Art. 8
 
-**Unions restreintes. Arrangements spéciaux**
+**Unité monétaire**[^8-1]
 
-<sup>1.</sup> Les Pays-membres, ou leurs opérateurs désignés si la législation de ces Pays-membres[^8-1] ne s’y oppose pas, peuvent établir des Unions restreintes et prendre des arrangements spéciaux concernant le service *postal*[^8-2], à la condition toutefois de ne pas y introduire des dispositions moins favorables pour le public que celles qui sont prévues par les Actes auxquels les Pays-membres intéressés sont parties.
+<sup>1.</sup> L’unité monétaire utilisée dans les Actes de l’Union est l’unité de compte du Fonds monétaire international (FMI).
 
-<sup>2.</sup> Les Unions restreintes peuvent envoyer des observateurs aux Congrès, *au Conseil d’administration, au Conseil d’exploitation postale et à d’autres*[^8-3] Conférences et réunions *organisées par l’Union*[^8-4].
-
-<sup>3.</sup> L’Union peut envoyer des observateurs aux Congrès, Conférences et réunions des Unions restreintes.
-
-[^8-1]: Modifié par le Congrès de Genève 2008.
-[^8-2]: Modifié par le Congrès d’Abidjan 2021.
-[^8-3]: Modifié par le Congrès extraordinaire d’Addis-Abeba 2018.
-[^8-4]: Modifié par les Congrès de Tokyo 1969, de Séoul 1994 et le Congrès extraordinaire d’Addis-Abeba 2018.
+[^8-1]: Anciennement art. 7 (voir la communication du 16 juil. 2024, [RO 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). Modifié par le Congrès de Washington 1989.
 
 #### Art. 9
 
-**Relations avec l’Organisation des Nations Unies**
+**Unions restreintes. Arrangements spéciaux**[^9-1]
 
-<sup>1.</sup> Les relations entre l’Union et l’Organisation des Nations Unies sont réglées par les *accords*[^9-1] dont les textes sont annexés à la présente Constitution.
+<sup>1.</sup> Les Pays-membres, ou leurs opérateurs désignés si la législation de ces Pays-membres[^9-2] ne s’y oppose pas, peuvent établir des Unions restreintes et prendre des arrangements spéciaux concernant le service *postal*[^9-3], à la condition toutefois de ne pas y introduire des dispositions moins favorables pour le public que celles qui sont prévues par les Actes auxquels les Pays-membres intéressés sont parties.
 
-[^9-1]: Modifié par le Congrès d’Abidjan 2021.
+<sup>2.</sup> Les Unions restreintes peuvent envoyer des observateurs aux Congrès, *au Conseil d’administration, au Conseil d’exploitation postale et à d’autres*[^9-4] Conférences et réunions *organisées par l’Union*[^9-5].
+
+<sup>3.</sup> L’Union peut envoyer des observateurs aux Congrès, Conférences et réunions des Unions restreintes.
+
+[^9-1]: Anciennement art. 8 (voir la communication du 16 juil. 2024, [RO 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
+[^9-2]: Modifié par le Congrès de Genève 2008.
+[^9-3]: Modifié par le Congrès d’Abidjan 2021.
+[^9-4]: Modifié par le Congrès extraordinaire d’Addis-Abeba 2018.
+[^9-5]: Modifié par les Congrès de Tokyo 1969, de Séoul 1994 et le Congrès extraordinaire d’Addis-Abeba 2018.
 
 #### Art. 10
 
-**Relations avec les organisations internationales**
+**Relations avec l’Organisation des Nations Unies**[^10-1]
 
-<sup>1.</sup> Afin d’assurer une coopération étroite dans le domaine postal international, l’Union peut collaborer avec les organisations internationales ayant des intérêts et des activités connexes.
+<sup>1.</sup> Les relations entre l’Union et l’Organisation des Nations Unies sont réglées par les *accords*[^10-2] dont les textes sont annexés à la présente Constitution.
 
-### Chapitre II Adhésion ou admission à l’Union. Sortie de l’Union
+[^10-1]: Anciennement art. 9 (voir la communication du 16 juil. 2024, [RO 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
+[^10-2]: Modifié par le Congrès d’Abidjan 2021.
 
 #### Art. 11
 
-**Adhésion ou admission à l’Union. Procédure**[^11-1]
+**Relations avec les organisations internationales**[^11-1]
+
+<sup>1.</sup> Afin d’assurer une coopération étroite dans le domaine postal international, l’Union peut collaborer avec les organisations internationales ayant des intérêts et des activités connexes.
+
+[^11-1]: Anciennement art. 10 (voir la communication du 16 juil. 2024, [RO 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
+
+### Chapitre II Adhésion ou admission à l’Union. Sortie de l’Union
+
+#### Art. 12
+
+**Adhésion ou admission à l’Union. Procédure**[^12-1]
 
 <sup>1.</sup> Tout membre de l’Organisation des Nations Unies peut adhérer à l’Union.
 
@@ -180,59 +194,55 @@ L’Union a dans son ressort:
 
 <sup>3.</sup> L’adhésion ou la demande d’admission à l’Union doit comporter une déclaration formelle d’adhésion à la Constitution et aux Actes obligatoires de l’Union. Elle est adressée par le Gouvernement du pays intéressé au Directeur général du Bureau international, qui, selon le cas, notifie l’adhésion ou consulte les Pays-membres sur la demande d’admission.
 
-<sup>4.</sup> Le pays non membre de l’Organisation des Nations Unies est considéré comme admis en qualité de Pays-membre si sa demande est approuvée par les deux tiers au moins des Pays-membres de l’Union. Les Pays-membres *dont les réponses n’ont pas été reçues par le Bureau international*[^11-2] dans le délai de quatre mois à compter de la date de la consultation[^11-3] sont considérés comme s’abstenant. *Les réponses susmentionnées, à soumettre par voie physique ou par voie électronique sécurisée au Bureau international, doivent être signées par un représentant dûment autorisé de l’autorité gouvernementale du Pays-membre concerné. Aux fins du présent paragraphe, l’expression «voie électronique sécurisée» se réfère à tout moyen électronique utilisé pour le traitement, le stockage et la transmission de données qui garantit l’intégralité, l’intégrité et la confidentialité de ces données lors de la soumission des réponses susmentionnées par un Pays-membre.*[^11-4]
+<sup>4.</sup> Le pays non membre de l’Organisation des Nations Unies est considéré comme admis en qualité de Pays-membre si sa demande est approuvée par les deux tiers au moins des Pays-membres de l’Union. Les Pays-membres *dont les réponses n’ont pas été reçues par le Bureau international*[^12-2] dans le délai de quatre mois à compter de la date de la consultation[^12-3] sont considérés comme s’abstenant. *Les réponses susmentionnées, à soumettre par voie physique ou par voie électronique sécurisée au Bureau international, doivent être signées par un représentant dûment autorisé de l’autorité gouvernementale du Pays-membre concerné. Aux fins du présent paragraphe, l’expression «voie électronique sécurisée» se réfère à tout moyen électronique utilisé pour le traitement, le stockage et la transmission de données qui garantit l’intégralité, l’intégrité et la confidentialité de ces données lors de la soumission des réponses susmentionnées par un Pays-membre.*[^12-4]
 
 <sup>5.</sup> L’adhésion ou l’admission en qualité de membre est notifiée par le Directeur général du Bureau international aux Gouvernements des Pays-membres. Elle prend effet à partir de la date de cette notification.
 
-[^11-1]: Modifié par les Congrès de Tokyo 1969 et de Washington 1989.
-[^11-2]: Modifié par le Congrès d’Abidjan 2021.
-[^11-3]: Modifié par le Congrès de Genève 2008.
-[^11-4]: Modifié par le Congrès d’Abidjan 2021.
-
-#### Art. 12
-
-**Sortie de l’Union. Procédure**[^12-1]
-
-<sup>1.</sup> Chaque Pays-membre a la faculté de se retirer de l’Union moyennant dénonciation de la Constitution donnée par le Gouvernement du pays intéressé au Directeur général du Bureau international et par celui-ci aux Gouvernements des Pays-membres.
-
-<sup>2.</sup> La sortie de l’Union *prend effet un an après la*[^12-2] réception par le Directeur général du Bureau international de la dénonciation prévue sous 1.
-
-[^12-1]: Modifié par le Congrès de Washington 1989.
+[^12-1]: Anciennement art. 11 (voir la communication du 16 juil. 2024, [RO 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). Modifié par les Congrès de Tokyo 1969 et de Washington 1989.
 [^12-2]: Modifié par le Congrès d’Abidjan 2021.
-
-### Chapitre III Organisation de l’Union
+[^12-3]: Modifié par le Congrès de Genève 2008.
+[^12-4]: Modifié par le Congrès d’Abidjan 2021.
 
 #### Art. 13
 
-**Organes de l’Union**[^13-1]
+**Sortie de l’Union. Procédure**[^13-1]
+
+<sup>1.</sup> Chaque Pays-membre a la faculté de se retirer de l’Union moyennant dénonciation de la Constitution donnée par le Gouvernement du pays intéressé au Directeur général du Bureau international et par celui-ci aux Gouvernements des Pays-membres.
+
+<sup>2.</sup> La sortie de l’Union *prend effet un an après la*[^13-2] réception par le Directeur général du Bureau international de la dénonciation prévue sous 1.
+
+[^13-1]: Anciennement art. 12 (voir la communication du 16 juil. 2024, [RO 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). Modifié par le Congrès de Washington 1989.
+[^13-2]: Modifié par le Congrès d’Abidjan 2021.
+
+### Chapitre III Organisation de l’Union
+
+#### Art. 14
+
+**Organes de l’Union**[^14-1]
 
 <sup>1.</sup> Les organes de l’Union sont le Congrès, le Conseil d’administration, le Conseil d’exploitation postale et le Bureau international.
 
 <sup>2.</sup> Les organes permanents de l’Union sont le Conseil d’administration, le Conseil d’exploitation postale et le Bureau international.
 
-[^13-1]: Modifié par les Congrès de Tokyo 1969, de Hamburg 1984 et de Séoul 1994.
+[^14-1]: Anciennement art. 13 (voir la communication du 16 juil. 2024, [RO 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). Modifié par les Congrès de Tokyo 1969, de Hamburg 1984 et de Séoul 1994.
 
-#### Art. 14
+#### Art. 15
 
-**Congrès**
+**Congrès**[^15-1]
 
 <sup>1.</sup> Le Congrès est l’organe suprême de l’Union.
 
 <sup>2.</sup> Le Congrès se compose des représentants des Pays-membres.
 
-#### Art. 15
-
-**Congrès extraordinaires**
-
-<sup>1.</sup> Un Congrès extraordinaire peut être réuni à la demande ou avec l’assentiment des deux tiers au moins des Pays-membres de l’Union.
+[^15-1]: Anciennement art. 14 (voir la communication du 16 juil. 2024, [RO 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
 
 #### Art. 16
 
-**Conférences administratives**
+**Congrès extraordinaires**[^16-1]
 
-<sup>1.</sup> *(Supprimé)*[^16-1]
+<sup>1.</sup> Un Congrès extraordinaire peut être réuni à la demande ou avec l’assentiment des deux tiers au moins des Pays-membres de l’Union.
 
-[^16-1]: Par le Congrès de Hamburg 1984.
+[^16-1]: Anciennement art. 15 (voir la communication du 16 juil. 2024, [RO 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). L’ancien art. 16 a été abrogé par le Congrès de Hamburg 1984.
 
 #### Art. 17
 
@@ -257,25 +267,17 @@ L’Union a dans son ressort:
 
 #### Art. 19
 
-**Commissions spéciales**
-
-<sup>1.</sup> *(Supprimé)*[^19-1]
-
-[^19-1]: Par le Congrès de Hamburg 1984.
-
-#### Art. 20
-
-**Bureau international**[^20-1]
+**Bureau international**[^19-1]
 
 <sup>1.</sup> Un office central, fonctionnant au siège de l’Union sous la dénomination de Bureau international de l’Union postale universelle, dirigé par un Directeur général et placé sous le contrôle du Conseil d’administration, sert d’organe d’exécution, d’appui, de liaison, d’information et de consultation.
 
-[^20-1]: Modifié par les Congrès de Hamburg 1984 et de Séoul 1994.
+[^19-1]: Anciennement art. 20 (voir la communication du 16 juil. 2024, [RO 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). L’ancien art. 19 a été abrogé par le Congrès de Hamburg 1984. Modifié par les Congrès de Hamburg 1984 et de Séoul 1994.
 
 ### Chapitre IV Finances de l’Union
 
-#### Art. 21
+#### Art. 20
 
-**Dépenses de l’Union. Contributions des Pays-membres**[^21-1]
+**Dépenses de l’Union. Contributions des Pays-membres**[^20-1]
 
 <sup>1.</sup>
 
@@ -286,53 +288,54 @@ Chaque Congrès arrête le montant maximal que peuvent atteindre:
 
 <sup>2.</sup> Le montant maximal des dépenses prévu sous 1 peut être dépassé si les circonstances l’exigent, sous réserve que soient observées les dispositions y relatives du Règlement général.
 
-<sup>3.</sup> Les dépenses de l’Union, y compris éventuellement les dépenses visées sous 2, sont supportées en commun par les Pays-membres de l’Union. À cet effet, chaque Pays-membre choisit la classe de contribution dans laquelle il entend être rangé *selon des dispositions correspondantes*[^21-2] fixées dans le Règlement général.
+<sup>3.</sup> Les dépenses de l’Union, y compris éventuellement les dépenses visées sous 2, sont supportées en commun par les Pays-membres de l’Union. À cet effet, chaque Pays-membre choisit la classe de contribution dans laquelle il entend être rangé *selon des dispositions correspondantes*[^20-2] fixées dans le Règlement général.
 
-<sup>4.</sup> En cas d’adhésion ou d’admission à l’Union en vertu de l’art. 11, le pays intéressé *choisit la*[^21-3] classe de contribution dans laquelle il désire être rangé au point de vue de la répartition des dépenses de l’Union, *ce également selon les dispositions correspondantes fixées dans le Règlement général*[^21-4].
+<sup>4.</sup> En cas d’adhésion ou d’admission à l’Union en vertu de l’art. 12, le pays intéressé *choisit la*[^20-3] classe de contribution dans laquelle il désire être rangé au point de vue de la répartition des dépenses de l’Union, *ce également selon les dispositions correspondantes fixées dans le Règlement général*[^20-4].
 
-[^21-1]: Modifié par les Congrès de Tokyo 1969, de Lausanne 1974 et de Washington 1989.
-[^21-2]: Modifié par le Congrès d’Abidjan 2021.
-[^21-3]: Modifié par le Congrès d’Abidjan 2021.
-[^21-4]: Modifié par le Congrès d’Abidjan 2021.
+[^20-1]: Anciennement art. 21 (voir la communication du 16 juil. 2024, [RO 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). Modifié par les Congrès de Tokyo 1969, de Lausanne 1974 et de Washington 1989.
+[^20-2]: Modifié par le Congrès d’Abidjan 2021.
+[^20-3]: Modifié par le Congrès d’Abidjan 2021.
+[^20-4]: Modifié par le Congrès d’Abidjan 2021.
 
 ## Titre II Actes de l’Union
 
 ### Chapitre I Généralités
 
-#### Art. 22
+#### Art. 21
 
-**Actes de l’Union**
+**Actes de l’Union**[^21-1]
 
-<sup>1.</sup> La Constitution est l’Acte fondamental de l’Union. Elle contient les règles organiques de l’Union et ne peut pas faire l’objet de réserves[^22-1].
+<sup>1.</sup> La Constitution est l’Acte fondamental de l’Union. Elle contient les règles organiques de l’Union et ne peut pas faire l’objet de réserves[^21-2].
 
-<sup>2.</sup> Le Règlement général comporte les dispositions assurant l’application de la Constitution et le fonctionnement de l’Union. Il est obligatoire pour tous les Pays-membres et ne peut pas faire l’objet de réserves[^22-2].
+<sup>2.</sup> Le Règlement général comporte les dispositions assurant l’application de la Constitution et le fonctionnement de l’Union. Il est obligatoire pour tous les Pays-membres et ne peut pas faire l’objet de réserves[^21-3].
 
-<sup>3.</sup> La *Convention et*[^22-3] son Règlement[^22-4] comportent les règles communes applicables au service *postal*[^22-5]. Ces Actes sont obligatoires pour tous les Pays-membres[^22-6]. Les Pays-membres veillent à ce que leurs opérateurs désignés remplissent les obligations découlant de la Convention et de *son Règlement*[^22-7].
+<sup>3.</sup> La *Convention et*[^21-4] son Règlement[^21-5] comportent les règles communes applicables au service *postal*[^21-6]. Ces Actes sont obligatoires pour tous les Pays-membres[^21-7]. Les Pays-membres veillent à ce que leurs opérateurs désignés remplissent les obligations découlant de la Convention et de *son Règlement*[^21-8].
 
-<sup>4.</sup> Les Arrangements de l’Union et leurs Règlements *définissent et*[^22-8] règlent *respectivement*[^22-9] les services autres que ceux *définis et réglés dans la Convention et son règlement*[^22-10] entre les Pays-membres qui y sont parties. Ils ne sont obligatoires que pour ces Pays-membres. Les Pays-membres signataires veillent à ce que leurs opérateurs désignés remplissent les obligations découlant des Arrangements *de l’Union*[^22-11] et de leurs Règlements[^22-12].
+<sup>4.</sup> Les Arrangements de l’Union et leurs Règlements *définissent et*[^21-9] règlent *respectivement*[^21-10] les services autres que ceux *définis et réglés dans la Convention et son règlement*[^21-11] entre les Pays-membres qui y sont parties. Ils ne sont obligatoires que pour ces Pays-membres. Les Pays-membres signataires veillent à ce que leurs opérateurs désignés remplissent les obligations découlant des Arrangements *de l’Union*[^21-12] et de leurs Règlements[^21-13].
 
-<sup>5.</sup> Les Règlements, qui contiennent les mesures d’application nécessaires à l’exécution de la Convention et des Arrangements *de l’Union*[^22-13], sont arrêtés par le Conseil d’exploitation postale, compte tenu des décisions prises par le Congrès[^22-14].
+<sup>5.</sup> Les Règlements, qui contiennent les mesures d’application nécessaires à l’exécution de la Convention et des Arrangements *de l’Union*[^21-14], sont arrêtés par le Conseil d’exploitation postale, compte tenu des décisions prises par le Congrès[^21-15].
 
 <sup>6.</sup> Les Protocoles finals éventuels annexés aux Actes de l’Union visés sous 3 à 5 contiennent les réserves à ces Actes.
 
-[^22-1]: Modifié par le Congrès de Bucarest 2004.
-[^22-2]: Modifié par le Congrès de Bucarest 2004.
-[^22-3]: Modifié par le Congrès d’Abidjan 2021.
-[^22-4]: Modifié par le Congrès d’Istanbul 2016.
-[^22-5]: Modifié par le Congrès d’Abidjan 2021.
-[^22-6]: Modifié par le Congrès de Beijing 1999.
-[^22-7]: Modifié par le Congrès d’Istanbul 2016.
-[^22-8]: Modifié par le Congrès d’Abidjan 2021.
-[^22-9]: Modifié par le Congrès d’Abidjan 2021.
-[^22-10]: Modifié par le Congrès d’Abidjan 2021.
-[^22-11]: Modifié par le Congrès d’Abidjan 2021.
-[^22-12]: Modifié par le Congrès de Genève 2008.
-[^22-13]: Modifié par le Congrès d’Abidjan 2021.
-[^22-14]: Modifié par les Congrès de Washington 1989, de Séoul 1994 et de Beijing 1999.
+[^21-1]: Anciennement art. 22 (voir la communication du 16 juil. 2024, [RO 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
+[^21-2]: Modifié par le Congrès de Bucarest 2004.
+[^21-3]: Modifié par le Congrès de Bucarest 2004.
+[^21-4]: Modifié par le Congrès d’Abidjan 2021.
+[^21-5]: Modifié par le Congrès d’Istanbul 2016.
+[^21-6]: Modifié par le Congrès d’Abidjan 2021.
+[^21-7]: Modifié par le Congrès de Beijing 1999.
+[^21-8]: Modifié par le Congrès d’Istanbul 2016.
+[^21-9]: Modifié par le Congrès d’Abidjan 2021.
+[^21-10]: Modifié par le Congrès d’Abidjan 2021.
+[^21-11]: Modifié par le Congrès d’Abidjan 2021.
+[^21-12]: Modifié par le Congrès d’Abidjan 2021.
+[^21-13]: Modifié par le Congrès de Genève 2008.
+[^21-14]: Modifié par le Congrès d’Abidjan 2021.
+[^21-15]: Modifié par les Congrès de Washington 1989, de Séoul 1994 et de Beijing 1999.
 
-#### Art. 23
+#### Art. 22
 
-**Application des Actes de l’Union aux territoires dont un Pays‑membre assure les relations internationales**[^23-1]
+**Application des Actes de l’Union aux territoires dont un Pays‑membre assure les relations internationales**[^22-1]
 
 <sup>1.</sup> Tout pays peut déclarer à tout moment que l’acceptation par lui des Actes de l’Union comprend tous les territoires dont il assure les relations internationales, ou certains d’entre eux seulement.
 
@@ -344,147 +347,146 @@ Chaque Congrès arrête le montant maximal que peuvent atteindre:
 
 <sup>5.</sup> Les dispositions prévues sous 1 à 4 ne s’appliquent pas aux territoires possédant la qualité de membre de l’Union et dont un Pays-membre assure les relations internationales.
 
-[^23-1]: Modifié par le Congrès de Washington 1989.
+[^22-1]: Anciennement art. 23 (voir la communication du 16 juil. 2024, [RO 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). Modifié par le Congrès de Washington 1989.
 
-#### Art. 24
+#### Art. 23
 
-**Législations nationales**
+**Législations nationales**[^23-1]
 
 <sup>1.</sup> Les stipulations des Actes de l’Union ne portent pas atteinte à la législation de chaque Pays-membre dans tout ce qui n’est pas expressément prévu par ces Actes.
 
+[^23-1]: Anciennement art. 24 (voir la communication du 16 juil. 2024, [RO 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
+
 ### Chapitre II Acceptation et dénonciation des Actes de l’Union
 
-#### Art. 25
+#### Art. 24
 
-**Signature, authentification, ratification*, acceptation, approbation*[^25-2] des Actes de l’Union *et adhésion à ces derniers*[^25-3]**[^25-1]
+**Signature, authentification, ratification*, acceptation, approbation*[^24-2] des Actes de l’Union *et adhésion à ces derniers*[^24-3]**[^24-1]
 
 <sup>1.</sup> Les Actes de l’Union issus du Congrès sont signés par les plénipotentiaires des Pays-membres.
 
-<sup>2.</sup> Les Règlements sont authentifiés par le Président et le Secrétaire général du Conseil d’exploitation postale[^25-4].
+<sup>2.</sup> Les Règlements sont authentifiés par le Président et le Secrétaire général du Conseil d’exploitation postale[^24-4].
 
-<sup>3.</sup> *Les Actes de l’Union sont ratifiés, acceptés ou approuvés*[^25-5] aussitôt que possible par les pays signataires, *conformément à leurs règles constitutionnelles respectives.*[^25-6]
+<sup>3.</sup> *Les Actes de l’Union sont ratifiés, acceptés ou approuvés*[^24-5] aussitôt que possible par les pays signataires, *conformément à leurs règles constitutionnelles respectives.*[^24-6]
 
-<sup>4.</sup> *(Supprimé)*[^25-7]
+<sup>4.</sup> *(Supprimé)*[^24-7]
 
-<sup>5.</sup> Lorsqu’un Pays-membre[^25-8] ne ratifie pas, *n’accepte pas ou n’approuve pas les Actes de l’Union qu’il a signées, ces*[^25-9] Actes n’en sont pas moins valables pour les Pays-membres[^25-10] qui les ont ratifiés, *acceptés*[^25-11] ou approuvés.
+<sup>5.</sup> Lorsqu’un Pays-membre[^24-8] ne ratifie pas, *n’accepte pas ou n’approuve pas les Actes de l’Union qu’il a signées, ces*[^24-9] Actes n’en sont pas moins valables pour les Pays-membres[^24-10] qui les ont ratifiés, *acceptés*[^24-11] ou approuvés.
 
-\6. *Les Pays-membres peuvent, à tout moment, adhérer aux Actes de l’Union qu’ils n’ont pas signés, conformément aux procédures pertinentes énoncées dans le Règlement intérieur des Congrès.*[^25-12]
+\6. *Les Pays-membres peuvent, à tout moment, adhérer aux Actes de l’Union qu’ils n’ont pas signés, conformément aux procédures pertinentes énoncées dans le Règlement intérieur des Congrès.*[^24-12]
 
-\7. *L’adhésion des Pays-membres aux Actes de l’Union est notifiée conformément à l’art. 26.*[^25-13]
+\7. *L’adhésion des Pays-membres aux Actes de l’Union est notifiée conformément à l’art. 25.*[^24-13]
 
-[^25-1]: Modifié par les Congrès de Washington 1989 et de Séoul 1994.
+[^24-1]: Anciennement art. 25 (voir la communication du 16 juil. 2024, [RO 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). Modifié par les Congrès de Washington 1989 et de Séoul 1994.
+[^24-2]: Modifié par le Congrès d’Abidjan 2021.
+[^24-3]: Modifié par le Congrès d’Abidjan 2021.
+[^24-4]: Modifié par le Congrès de Beijing 1999.
+[^24-5]: Modifié par le Congrès d’Abidjan 2021.
+[^24-6]: Modifié par le Congrès d’Abidjan 2021.
+[^24-7]: Par le Congrès d’Abidjan 2021.
+[^24-8]: Modifié par le Congrès de Genève 2008.
+[^24-9]: Modifié par le Congrès d’Abidjan 2021.
+[^24-10]: Modifié par le Congrès de Genève 2008.
+[^24-11]: Modifié par le Congrès d’Abidjan 2021.
+[^24-12]: Introduit par le Congrès d’Abidjan 2021.
+[^24-13]: Introduit par le Congrès d’Abidjan 2021.
+
+#### Art. 25
+
+**Notification des ratifications*, acceptations, approbations*[^25-2] des Actes de l’Union *et adhésions à ces derniers*[^25-3]**[^25-1]
+
+<sup>1.</sup> Les instruments de ratification, *d’acceptation, d’approbation des Actes*[^25-4] de l’Union *et d’adhésion à ces derniers*[^25-5] sont déposés dans le plus bref délai auprès du Directeur général du Bureau international, qui notifie ces dépôts aux Gouvernements des Pays-membres.
+
+[^25-1]: Anciennement art. 26 (voir la communication du 16 juil. 2024, [RO 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). Modifié par les Congrès de Tokyo 1969 et de Washington 1989.
 [^25-2]: Modifié par le Congrès d’Abidjan 2021.
 [^25-3]: Modifié par le Congrès d’Abidjan 2021.
-[^25-4]: Modifié par le Congrès de Beijing 1999.
+[^25-4]: Modifié par le Congrès d’Abidjan 2021.
 [^25-5]: Modifié par le Congrès d’Abidjan 2021.
-[^25-6]: Modifié par le Congrès d’Abidjan 2021.
-[^25-7]: Par le Congrès d’Abidjan 2021.
-[^25-8]: Modifié par le Congrès de Genève 2008.
-[^25-9]: Modifié par le Congrès d’Abidjan 2021.
-[^25-10]: Modifié par le Congrès de Genève 2008.
-[^25-11]: Modifié par le Congrès d’Abidjan 2021.
-[^25-12]: Introduit par le Congrès d’Abidjan 2021.
-[^25-13]: Introduit par le Congrès d’Abidjan 2021.
 
 #### Art. 26
 
-**Notification des ratifications*, acceptations, approbations*[^26-2] des Actes de l’Union *et adhésions à ces derniers*[^26-3]**[^26-1]
+**Dénonciation *des Arrangements de l’Union*[^26-2]**[^26-1]
 
-<sup>1.</sup> Les instruments de ratification, *d’acceptation, d’approbation des Actes*[^26-4] de l’Union *et d’adhésion à ces derniers*[^26-5] sont déposés dans le plus bref délai auprès du Directeur général du Bureau international, qui notifie ces dépôts aux Gouvernements des Pays-membres.
+<sup>1.</sup> Chaque Pays-membre a la faculté de cesser sa participation à un ou plusieurs des Arrangements *de l’Union, sous réserve des*[^26-3] conditions stipulées à l’art. 13 *applicables par analogie*[^26-4].
 
-[^26-1]: Modifié par les Congrès de Tokyo 1969 et de Washington 1989.
+[^26-1]: Anciennement art. 28 (voir la communication du 16 juil. 2024, [RO 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
 [^26-2]: Modifié par le Congrès d’Abidjan 2021.
 [^26-3]: Modifié par le Congrès d’Abidjan 2021.
 [^26-4]: Modifié par le Congrès d’Abidjan 2021.
-[^26-5]: Modifié par le Congrès d’Abidjan 2021.
-
-#### Art. 27
-
-**Adhésion aux Arrangements**
-
-*(Supprimé)*[^27-1]
-
-[^27-1]: Par le Congrès d’Abidjan 2021.
-
-#### Art. 28
-
-**Dénonciation *des Arrangements de l’Union*[^28-1]**
-
-<sup>1.</sup> Chaque Pays-membre a la faculté de cesser sa participation à un ou plusieurs des Arrangements *de l’Union, sous réserve des*[^28-2] conditions stipulées à l’art. 12 *applicables par analogie*[^28-3].
-
-[^28-1]: Modifié par le Congrès d’Abidjan 2021.
-[^28-2]: Modifié par le Congrès d’Abidjan 2021.
-[^28-3]: Modifié par le Congrès d’Abidjan 2021.
 
 ### Chapitre III Modification des Actes de l’Union
 
-#### Art. 29
+#### Art. 27
 
-**Présentation des propositions**
+**Présentation des propositions**[^27-1]
 
-<sup>1.</sup> Tout Pays-membre[^29-1] a le droit de présenter, soit au Congrès, soit entre deux Congrès, des propositions concernant les Actes de l’Union auxquels il est partie.
+<sup>1.</sup> Tout Pays-membre[^27-2] a le droit de présenter, soit au Congrès, soit entre deux Congrès, des propositions concernant les Actes de l’Union auxquels il est partie.
 
 <sup>2.</sup> Toutefois, les propositions concernant la Constitution et le Règlement général ne peuvent être soumises qu’au Congrès.
 
-<sup>3.</sup> En outre, les propositions concernant les Règlements sont *soumises* *au*[^29-2] Conseil d’exploitation postale *par l’intermédiaire du*[^29-3] Bureau *international*.[^29-4]
+<sup>3.</sup> En outre, les propositions concernant les Règlements sont *soumises* *au*[^27-3] Conseil d’exploitation postale *par l’intermédiaire du*[^27-4] Bureau *international*.[^27-5]
 
-[^29-1]: Modifié par le Congrès de Genève 2008.
+[^27-1]: Anciennement art. 29 (voir la communication du 16 juil. 2024, [RO 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). L’ancien art. 27 a été abrogé par le Congrès d’Abidjan 2021.
+[^27-2]: Modifié par le Congrès de Genève 2008.
+[^27-3]: Modifié par le Congrès d’Abidjan 2021.
+[^27-4]: Modifié par le Congrès d’Abidjan 2021.
+[^27-5]: Modifié par le Congrès d’Abidjan 2021.
+
+#### Art. 28
+
+**Modification de la Constitution**[^28-1]
+
+<sup>1.</sup> Pour être adoptées, les propositions soumises au Congrès et relatives à la présente Constitution doivent être approuvées par les deux tiers au moins des Pays-membres de l’Union ayant le droit de vote[^28-2].
+
+<sup>2.</sup> Les modifications *de la Constitution*[^28-3] adoptées par un Congrès font l’objet d’un protocole additionnel et *entrent*[^28-4] en vigueur à *compter de la date fixée par ce Congrès. Sans préjudice du caractère contraignant de la Constitution, comme indiqué à l’art. 21.1, les Pays-membres ratifient, acceptent ou approuvent lesdites modifications, ou y adhèrent,*[^28-5] aussitôt que possible. Les instruments de cette ratification, *acceptation, approbation ou adhésion*[^28-6] sont traités conformément à la règle *énoncée*[^28-7] à l’art. 25.
+
+[^28-1]: Anciennement art. 30 (voir la communication du 16 juil. 2024, [RO 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
+[^28-2]: Modifié par le Congrès de Bucarest 2004.
+[^28-3]: Modifié par le Congrès d’Abidjan 2021.
+[^28-4]: Modifié par le Congrès d’Abidjan 2021.
+[^28-5]: Modifié par le Congrès d’Abidjan 2021.
+[^28-6]: Modifié par le Congrès d’Abidjan 2021.
+[^28-7]: Modifié par le Congrès d’Abidjan 2021.
+
+#### Art. 29
+
+**Modification du Règlement général, de la Convention et des Arrangements *de l’Union*[^29-2]**[^29-1]
+
+<sup>1.</sup> Le Règlement général, la Convention et les Arrangements *de l’Union*[^29-3] fixent les conditions auxquelles est subordonnée l’approbation des propositions qui les concernent.
+
+<sup>2.</sup> *Les modifications apportées au Règlement général, à la Convention et aux Arrangements de l’Union font l’objet d’un protocole additionnel et entrent en vigueur à la* *date fixée par le Congrès. Sans préjudice du caractère contraignant des Actes de l’Union susmentionnés, comme indiqué à l’art. 21, les Pays-membres ratifient, acceptent ou approuvent lesdites modifications, ou y adhèrent, aussitôt que possible. Les instruments de cette ratification, acceptation, approbation ou adhésion sont traitées conformément à la règle énoncée à l’art. 25. Cette disposition s’applique aussi mutatis mutandis à toute modification de la Convention et des Arrangements de l’Union adoptée entre deux Congrès.*[^29-4]
+
+[^29-1]: Anciennement art. 31 (voir la communication du 16 juil. 2024, [RO 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)). Modifié par le Congrès de Hamburg 1984.
 [^29-2]: Modifié par le Congrès d’Abidjan 2021.
 [^29-3]: Modifié par le Congrès d’Abidjan 2021.
 [^29-4]: Modifié par le Congrès d’Abidjan 2021.
 
-#### Art. 30
-
-**Modification de la Constitution**
-
-<sup>1.</sup> Pour être adoptées, les propositions soumises au Congrès et relatives à la présente Constitution doivent être approuvées par les deux tiers au moins des Pays-membres de l’Union ayant le droit de vote[^30-1].
-
-<sup>2.</sup> Les modifications *de la Constitution*[^30-2] adoptées par un Congrès font l’objet d’un protocole additionnel et *entrent*[^30-3] en vigueur à *compter de la date fixée par ce Congrès. Sans préjudice du caractère contraignant de la Constitution, comme indiqué à l’art. 22.1, les Pays-membres ratifient, acceptent ou approuvent lesdites modifications, ou y adhèrent,*[^30-4] aussitôt que possible. Les instruments de cette ratification, *acceptation, approbation ou adhésion*[^30-5] sont traités conformément à la règle *énoncée*[^30-6] à l’art. 26.
-
-[^30-1]: Modifié par le Congrès de Bucarest 2004.
-[^30-2]: Modifié par le Congrès d’Abidjan 2021.
-[^30-3]: Modifié par le Congrès d’Abidjan 2021.
-[^30-4]: Modifié par le Congrès d’Abidjan 2021.
-[^30-5]: Modifié par le Congrès d’Abidjan 2021.
-[^30-6]: Modifié par le Congrès d’Abidjan 2021.
-
-#### Art. 31
-
-**Modification du Règlement général, de la Convention et des Arrangements *de l’Union*[^31-2]**[^31-1]
-
-<sup>1.</sup> Le Règlement général, la Convention et les Arrangements *de l’Union*[^31-3] fixent les conditions auxquelles est subordonnée l’approbation des propositions qui les concernent.
-
-<sup>2.</sup> *Les modifications apportées au Règlement général, à la Convention et aux Arrangements de l’Union font l’objet d’un protocole additionnel et entrent en vigueur à la date fixée par le Congrès. Sans préjudice du caractère contraignant des Actes de l’Union susmentionnés, comme indiqué à l’art. 22, les Pays-membres ratifient, acceptent ou approuvent lesdites modifications, ou y adhèrent, aussitôt que possible. Les instruments de cette ratification, acceptation, approbation ou adhésion sont traitées conformément à la règle énoncée à l’art. 26. Cette disposition s’applique aussi mutatis mutandis à toute modification de la Convention et des Arrangements de l’Union adoptée entre deux Congrès.*[^31-4]
-
-[^31-1]: Modifié par le Congrès de Hamburg 1984.
-[^31-2]: Modifié par le Congrès d’Abidjan 2021.
-[^31-3]: Modifié par le Congrès d’Abidjan 2021.
-[^31-4]: Modifié par le Congrès d’Abidjan 2021.
-
 ### Chapitre IV Règlement des différends
 
-#### Art. 32
+#### Art. 30
 
-**Arbitrages**
+**Arbitrages**[^30-1]
 
-<sup>1.</sup> En cas de différend entre deux ou plusieurs Pays-membres[^32-1] relativement à l’interprétation des Actes de l’Union ou de la responsabilité dérivant, pour un Pays-membre[^32-2], de l’application de ces Actes, la question en litige est réglée par jugement arbitral.
+<sup>1.</sup> En cas de différend entre deux ou plusieurs Pays-membres[^30-2] relativement à l’interprétation des Actes de l’Union ou de la responsabilité dérivant, pour un Pays-membre[^30-3], de l’application de ces Actes, la question en litige est réglée par jugement arbitral.
 
-[^32-1]: Modifié par le Congrès de Genève 2008.
-[^32-2]: Modifié par le Congrès de Genève 2008.
+[^30-1]: Anciennement art. 32 (voir la communication du 16 juil. 2024, [RO 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
+[^30-2]: Modifié par le Congrès de Genève 2008.
+[^30-3]: Modifié par le Congrès de Genève 2008.
 
 ## Titre III Dispositions finales
 
-#### Art. 33
+#### Art. 31
 
-**Mise à exécution et durée de la Constitution**
+**Mise à exécution et durée de la Constitution**[^31-1]
 
 <sup>1.</sup> La présente Constitution sera mise à exécution le 1<sup>er</sup> janvier 1966 et demeurera en vigueur pendant un temps indéterminé.
 
-<sup>2.</sup> En foi de quoi, les Plénipotentiaires des Gouvernements des pays contractants ont signé la présente Constitution en un exemplaire qui restera déposé aux Archives du Gouvernement du pays siège de l’Union. Une copie en sera remise à chaque Partie par le Bureau international de l’Union postale universelle[^33-1].
+<sup>2.</sup> En foi de quoi, les Plénipotentiaires des Gouvernements des pays contractants ont signé la présente Constitution en un exemplaire qui restera déposé aux Archives du Gouvernement du pays siège de l’Union. Une copie en sera remise à chaque Partie par le Bureau international de l’Union postale universelle[^31-2].
 
 Fait à Vienne, le 10 juillet 1964.
 
-[^33-1]: Modifié par le Congrès de Bucarest 2004.
+[^31-1]: Anciennement art. 33 (voir la communication du 16 juil. 2024, [RO 2024 364](https://fedlex.data.admin.ch/eli/oc/2024/364)).
+[^31-2]: Modifié par le Congrès de Bucarest 2004.
 
 (Suivent les signatures)
 
@@ -688,4 +690,4 @@ Champ d’application le 7 octobre 2022[^t-4]
 <tr><td>Zimbabwe</td><td>4 mai</td><td>1981 A</td><td>31 juillet</td><td>1981</td></tr>
 </table>
 
-[^t-4]: [RO 1986 1932](https://fedlex.data.admin.ch/eli/oc/1986/1932_1932_1932), [1987 1214](https://fedlex.data.admin.ch/eli/oc/1987/1214_1214_1214), [1989 1160](https://fedlex.data.admin.ch/eli/oc/1989/1160_1160_1160), [1990 1874](https://fedlex.data.admin.ch/eli/oc/1990/1874_1874_1874), [1992 665](https://fedlex.data.admin.ch/eli/oc/1992/665_665_665). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (http://www.dfae.admin.ch/traites). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty
+[^t-4]: [RO 1986 1932](https://fedlex.data.admin.ch/eli/oc/1986/1932_1932_1932); [1987 1214](https://fedlex.data.admin.ch/eli/oc/1987/1214_1214_1214); [1989 1160](https://fedlex.data.admin.ch/eli/oc/1989/1160_1160_1160); [1990 1874](https://fedlex.data.admin.ch/eli/oc/1990/1874_1874_1874); [1992 665](https://fedlex.data.admin.ch/eli/oc/1992/665_665_665). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
