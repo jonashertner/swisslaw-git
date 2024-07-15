@@ -3,11 +3,11 @@ sr: "0.814.289"
 title: "Convention internationale du 29 novembre 1969 sur l'intervention en haute mer en cas d'accident entraînant ou pouvant entraîner une pollution par les hydrocarbures (avec annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1242_1242_1242"
 language: fr
-version: 2017-07-12
+version: 2024-07-16
 adopted: 1969-11-29
 in_force: 1988-03-14
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1242_1242_1242/20170712/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1242_1242_1242-20170712-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1242_1242_1242/20170712/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1242_1242_1242/20240716/fr/xml/fedlex-data-admin-ch-eli-cc-1988-1242_1242_1242-20240716-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1242_1242_1242/20240716/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,19 +18,13 @@ RO **1988** 1242; FF **1986** II 741
 
 Texte original
 
-Conclue à Bruxelles le 29 novembre 1969
+Conclue à Bruxelles le 29 novembre 1969 Approuvée par l’Assemblée fédérale le 9 mars 1987[^t-1] Instrument de ratification déposé par la Suisse le 15 décembre 1987 Entrée en vigueur pour la Suisse le 14 mars 1988
 
-Approuvée par l’Assemblée fédérale le 9 mars 1987[^t-1]
-
-Instrument de ratification déposé par la Suisse le 15 décembre 1987
-
-Entrée en vigueur pour la Suisse le 14 mars 1988
-
-(Etat le 12 juillet 2017)
+(État le 16 juillet 2024)
 
 [^t-1]: Art. 1 al. 1 let. a AF du 9 mars 1987 ([RO 1988 1240](https://fedlex.data.admin.ch/eli/oc/1988/1240_1240_1240))
 
-Les Etats parties à la présente Convention,
+Les États parties à la présente Convention,
 
 conscients de la nécessité de protéger les intérêts de leurs populations contre les graves conséquences d’un accident de mer entraînant un risque de pollution de la mer et du littoral par les hydrocarbures,
 
@@ -42,7 +36,7 @@ sont convenus de ce qui suit:
 
 <sup>1.</sup> Les Parties à la présente Convention peuvent prendre en haute mer les mesures nécessaires pour prévenir, atténuer ou éliminer les dangers graves et imminents que présentent pour leurs côtes ou intérêts connexes une pollution ou une menace de pollution des eaux de la mer par les hydrocarbures à la suite d’un accident de mer ou des actions afférentes à un tel accident, susceptibles selon toute vraisemblance d’avoir des conséquences dommageables très importantes.
 
-<sup>2.</sup> Toutefois, aucune mesure ne sera prise en vertu de la présente Convention à l’encontre des bâtiments de guerre ou d’autres navires appartenant à un Etat ou exploités par lui et affectés exclusivement, à l’époque considérée, à un service gouvernemental non commercial.
+<sup>2.</sup> Toutefois, aucune mesure ne sera prise en vertu de la présente Convention à l’encontre des bâtiments de guerre ou d’autres navires appartenant à un État ou exploités par lui et affectés exclusivement, à l’époque considérée, à un service gouvernemental non commercial.
 
 #### Art. II
 
@@ -59,7 +53,7 @@ Aux fins de la présente Convention:
 - 3\. l’expression «hydrocarbures» s’entend du pétrole brut, du fuel‑oil, de l’huile diesel et de l’huile de graissage;
 - 4\.
 
-  l’expression «intérêts connexes» s’entend des intérêts d’un Etat riverain directement affectés ou menacés par l’accident de mer et qui ont trait notamment:
+  l’expression «intérêts connexes» s’entend des intérêts d’un État riverain directement affectés ou menacés par l’accident de mer et qui ont trait notamment:
 
   - a. aux activités maritimes, côtières, portuaires, ou d’estuaires y compris aux activités de pêcheries, constituant un moyen d’existence essentiel pour les intéressés;
   - b. à l’attrait touristique de la région considérée;
@@ -71,26 +65,26 @@ Aux fins de la présente Convention:
 
 #### Art. III
 
-Le droit d’un Etat riverain de prendre des mesures, conformément à l’article premier, est exercé dans les conditions ci‑après:
+Le droit d’un État riverain de prendre des mesures, conformément à l’article premier, est exercé dans les conditions ci‑après:
 
-- a. avant de prendre des mesures, un Etat riverain consulte les autres Etats mis en cause par l’accident de mer, en particulier le ou les Etats du pavillon;
-- b. l’Etat riverain notifie sans délai les mesures envisagées aux personnes physiques ou morales qui sont connues de lui ou qui lui ont été signalées au cours des consultations comme ayant des intérêts qui pourraient vraisemblablement être compromis ou affectés par ces mesures. L’Etat riverain prend en considération les avis que ces personnes peuvent lui soumettre;
-- c. avant de prendre des mesures, l’Etat riverain peut procéder à la consultation d’experts indépendants qui seront choisis sur une liste tenue à jour par l’Organisation;
-- d. en cas d’urgence appelant des mesures immédiates, l’Etat riverain peut prendre les mesures rendues nécessaires par l’urgence sans notification ou consultations préalables ou sans poursuivre les consultations en cours;
-- e. l’Etat riverain, avant de prendre de telles mesures et au cours de leur exécution, s’emploie de son mieux à éviter tout risque pour les vies humaines et à apporter aux personnes en détresse toute l’aide dont elles peuvent avoir besoin, à ne pas entraver et à faciliter, dans les cas appropriés, le rapatriement des équipages des navires;
-- f. les mesures qui ont été prises en application de l’article premier doivent être notifiées sans délai aux Etats et aux personnes physiques ou morales intéressées qui sont connues, ainsi qu’au Secrétaire général de l’Organisation.
+- a. avant de prendre des mesures, un État riverain consulte les autres États mis en cause par l’accident de mer, en particulier le ou les États du pavillon;
+- b. l’État riverain notifie sans délai les mesures envisagées aux personnes physiques ou morales qui sont connues de lui ou qui lui ont été signalées au cours des consultations comme ayant des intérêts qui pourraient vraisemblablement être compromis ou affectés par ces mesures. L’État riverain prend en considération les avis que ces personnes peuvent lui soumettre;
+- c. avant de prendre des mesures, l’État riverain peut procéder à la consultation d’experts indépendants qui seront choisis sur une liste tenue à jour par l’Organisation;
+- d. en cas d’urgence appelant des mesures immédiates, l’État riverain peut prendre les mesures rendues nécessaires par l’urgence sans notification ou consultations préalables ou sans poursuivre les consultations en cours;
+- e. l’État riverain, avant de prendre de telles mesures et au cours de leur exécution, s’emploie de son mieux à éviter tout risque pour les vies humaines et à apporter aux personnes en détresse toute l’aide dont elles peuvent avoir besoin, à ne pas entraver et à faciliter, dans les cas appropriés, le rapatriement des équipages des navires;
+- f. les mesures qui ont été prises en application de l’article premier doivent être notifiées sans délai aux États et aux personnes physiques ou morales intéressées qui sont connues, ainsi qu’au Secrétaire général de l’Organisation.
 
 #### Art. IV
 
 <sup>1.</sup> Sous le contrôle de l’Organisation, sera établie et tenue à jour la liste d’experts visée à l’article III de la présente Convention. L’Organisation édicte les règles appropriées à ce sujet et détermine les qualifications requises.
 
-<sup>2.</sup> Les Etats membres de l’Organisation et les Parties à la présente Convention peuvent soumettre des noms en vue de l’établissement de la liste. Les experts sont rétribués par les Etats ayant recours à eux en fonction des services rendus.
+<sup>2.</sup> Les États membres de l’Organisation et les Parties à la présente Convention peuvent soumettre des noms en vue de l’établissement de la liste. Les experts sont rétribués par les États ayant recours à eux en fonction des services rendus.
 
 #### Art. V
 
-<sup>1.</sup> Les mesures d’intervention prises par l’Etat riverain conformément aux dispositions de l’article premier doivent être proportionnées aux dommages qu’il a effectivement subis ou dont il est menacé.
+<sup>1.</sup> Les mesures d’intervention prises par l’État riverain conformément aux dispositions de l’article premier doivent être proportionnées aux dommages qu’il a effectivement subis ou dont il est menacé.
 
-<sup>2.</sup> Ces mesures ne doivent pas aller au‑delà de celles que l’on peut raisonnablement considérer comme nécessaires pour atteindre le but mentionné à l’article premier, et elles doivent prendre fin dès que ce but a été atteint; elles ne doivent pas empiéter sans nécessité sur les droits et intérêts de l’Etat du pavillon, d’Etats tiers ou de toute autre personne physique ou morale intéressée.
+<sup>2.</sup> Ces mesures ne doivent pas aller au‑delà de celles que l’on peut raisonnablement considérer comme nécessaires pour atteindre le but mentionné à l’article premier, et elles doivent prendre fin dès que ce but a été atteint; elles ne doivent pas empiéter sans nécessité sur les droits et intérêts de l’État du pavillon, d’États tiers ou de toute autre personne physique ou morale intéressée.
 
 <sup>3.</sup>
 
@@ -120,27 +114,27 @@ Sauf disposition expresse contraire, rien dans la présente Convention ne modifi
 
 <sup>2.</sup>
 
-Les Etats membres de l’Organisation des Nations Unies, de l’une quelconque de ses institutions spécialisées ou de l’Agence internationale de l’énergie atomique, ou parties au Statut de la Cour internationale de Justice peuvent devenir parties à la présente Convention par:
+Les États membres de l’Organisation des Nations Unies, de l’une quelconque de ses institutions spécialisées ou de l’Agence internationale de l’énergie atomique, ou parties au Statut de la Cour internationale de Justice peuvent devenir parties à la présente Convention par:
 
 - a. signature sans réserve quant à la ratification, acceptation ou approbation;
-- b. signature sous réserve de ratification, acceptation ou approbation, suivie de ratification, acceptation ou approbation; ou
+- b. signature sous réserve de ratification, acceptation ou approbation, suivie de ratification, acceptation ou approbation, ou
 - c. adhésion.
 
 #### Art. X
 
 <sup>1.</sup> La ratification, l’acceptation, l’approbation ou l’adhésion s’effectuent par le dépôt d’un instrument en bonne et due forme auprès de Secrétaire général de l’Organisation.
 
-<sup>2.</sup> Tout instrument de ratification, d’acceptation, d’approbation ou d’adhésion, déposé après l’entrée en vigueur d’un amendement à la présente Convention à l’égard de tous les Etats déjà parties à la Convention ou après l’accomplissement de toutes les mesures requises pour l’entrée en vigueur de l’amendement à l’égard desdits Etats, est réputé s’appliquer à la Convention modifiée par l’amendement.
+<sup>2.</sup> Tout instrument de ratification, d’acceptation, d’approbation ou d’adhésion, déposé après l’entrée en vigueur d’un amendement à la présente Convention à l’égard de tous les États déjà parties à la Convention ou après l’accomplissement de toutes les mesures requises pour l’entrée en vigueur de l’amendement à l’égard desdits États, est réputé s’appliquer à la Convention modifiée par l’amendement.
 
 #### Art. XI
 
-<sup>1.</sup> La présente Convention entre en vigueur le quatre‑vingt‑dixième jour après la date à laquelle les gouvernements de quinze Etats soit l’ont signée sans réserve quant à la ratification, acceptation ou approbation, soit ont déposé un instrument de ratification, acceptation, approbation ou d’adhésion auprès du Secrétaire général de l’Organisation.
+<sup>1.</sup> La présente Convention entre en vigueur le quatre‑vingt‑dixième jour après la date à laquelle les gouvernements de quinze États soit l’ont signée sans réserve quant à la ratification, acceptation ou approbation, soit ont déposé un instrument de ratification, acceptation, approbation ou d’adhésion auprès du Secrétaire général de l’Organisation.
 
-<sup>2.</sup> Pour chacun des Etats qui ratifient, acceptent, approuvent la Convention ou y adhèrent ultérieurement, elle entre en vigueur le quatre‑vingt-dixième jour après le dépôt par cet Etat de l’instrument approprié.
+<sup>2.</sup> Pour chacun des États qui ratifient, acceptent, approuvent la Convention ou y adhèrent ultérieurement, elle entre en vigueur le quatre‑vingt-dixième jour après le dépôt par cet État de l’instrument approprié.
 
 #### Art. XII
 
-<sup>1.</sup> La présente Convention peut être dénoncée par l’une quelconque des Parties à tout moment à compter de la date à laquelle la Convention entre en vigueur à l’égard de cet Etat.
+<sup>1.</sup> La présente Convention peut être dénoncée par l’une quelconque des Parties à tout moment à compter de la date à laquelle la Convention entre en vigueur à l’égard de cet État.
 
 <sup>2.</sup> La dénonciation s’effectue par le dépôt d’un instrument auprès du Secrétaire général de l’Organisation.
 
@@ -148,7 +142,7 @@ Les Etats membres de l’Organisation des Nations Unies, de l’une quelconque d
 
 #### Art. XIII
 
-<sup>1.</sup> L’Organisation des Nations Unies lorsqu’elle assume la responsabilité de l’administration d’un territoire, ou tout Etat partie à la présente Convention chargé d’assurer les relations internationales d’un territoire, consulte dès que possible les autorités compétentes de ce territoire ou prend toute autre mesure appropriée pour lui étendre l’application de la présente Convention et peut, à tout moment, par notification écrite adressée au Secrétaire général de l’Organisation, faire connaître que cette extension a eu lieu.
+<sup>1.</sup> L’Organisation des Nations Unies lorsqu’elle assume la responsabilité de l’administration d’un territoire, ou tout État partie à la présente Convention chargé d’assurer les relations internationales d’un territoire, consulte dès que possible les autorités compétentes de ce territoire ou prend toute autre mesure appropriée pour lui étendre l’application de la présente Convention et peut, à tout moment, par notification écrite adressée au Secrétaire général de l’Organisation, faire connaître que cette extension a eu lieu.
 
 <sup>2.</sup> L’application de la présente Convention est étendue au territoire désigné dans la notification à partir de la date de réception de celle‑ci ou telle autre date qui serait indiquée.
 
@@ -160,7 +154,7 @@ Les Etats membres de l’Organisation des Nations Unies, de l’une quelconque d
 
 <sup>1.</sup> L’Organisation peut convoquer une Conférence ayant pour objet de reviser ou d’amender la présente Convention.
 
-<sup>2.</sup> L’Organisation convoque une conférence des Etats parties à la présente Convention ayant pour objet de reviser ou d’amender la présente Convention à la demande du tiers au moins des Parties.
+<sup>2.</sup> L’Organisation convoque une conférence des États parties à la présente Convention ayant pour objet de reviser ou d’amender la présente Convention à la demande du tiers au moins des Parties.
 
 #### Art. XV
 
@@ -170,13 +164,13 @@ Les Etats membres de l’Organisation des Nations Unies, de l’une quelconque d
 
 - a.
 
-  informe tous les Etats qui ont signé la Convention ou y ont adhéré:
+  informe tous les États qui ont signé la Convention ou y ont adhéré:
 
   - i. de toute signature nouvelle ou dépôt d’instrument nouveau et de la date à laquelle cette signature ou ce dépôt sont intervenus;
   - ii. de tout dépôt d’instrument dénonçant la présente Convention et de la date à laquelle ce dépôt est intervenu;
   - iii. de l’extension à tout territoire de la présente Convention en vertu du paragraphe 1 de l’article XIII et de la cessation de toute extension susdite en vertu du paragraphe 4 du même article, en indiquant dans chaque cas la date à laquelle l’extension de la présente Convention a pris ou prendra fin;
 
-- b. transmet des copies conformes de la présente Convention à tous les Etats signataires de cette Convention et à tous les Etats qui y adhèrent.
+- b. transmet des copies conformes de la présente Convention à tous les États signataires de cette Convention et à tous les États qui y adhèrent.
 
 #### Art. XVI
 
@@ -196,7 +190,7 @@ Annexe
 
 #### Art. 1
 
-A moins que les Parties intéressées n’en conviennent autrement, la procédure de conciliation est organisée conformément aux dispositions du présent chapitre.
+À moins que les Parties intéressées n’en conviennent autrement, la procédure de conciliation est organisée conformément aux dispositions du présent chapitre.
 
 #### Art. 2
 
@@ -204,11 +198,11 @@ A moins que les Parties intéressées n’en conviennent autrement, la procédur
 
 <sup>2.</sup> La demande de conciliation présentée par une Partie contient l’objet de la demande ainsi que toutes pièces justificatives à l’appui de son exposé du cas.
 
-<sup>3.</sup> Si une procédure a été engagée entre deux Parties, toute autre Partie dont les ressortissants ou les biens ont été affectés par les mesures considérées, ou qui, en sa qualité d’Etat riverain, a pris des mesures analogues, peut se joindre à la procédure de conciliation en en avisant par écrit les Parties qui sont engagées dans cette procédure, à moins qu’une de celles‑ci ne s’y oppose.
+<sup>3.</sup> Si une procédure a été engagée entre deux Parties, toute autre Partie dont les ressortissants ou les biens ont été affectés par les mesures considérées, ou qui, en sa qualité d’État riverain, a pris des mesures analogues, peut se joindre à la procédure de conciliation en en avisant par écrit les Parties qui sont engagées dans cette procédure, à moins qu’une de celles‑ci ne s’y oppose.
 
 #### Art. 3
 
-<sup>1.</sup> La Commission de conciliation est composée de trois membres: un membre nommé par l’Etat riverain qui a pris les mesures d’intervention, un membre nommé par l’Etat dont relèvent les personnes ou les biens affectés par ces mesures, et un troisième membre, désigné d’un commun accord par les deux premiers, qui assume la présidence de la Commission.
+<sup>1.</sup> La Commission de conciliation est composée de trois membres: un membre nommé par l’État riverain qui a pris les mesures d’intervention, un membre nommé par l’État dont relèvent les personnes ou les biens affectés par ces mesures, et un troisième membre, désigné d’un commun accord par les deux premiers, qui assume la présidence de la Commission.
 
 <sup>2.</sup> Ces conciliateurs sont choisis sur une liste de personnes établie à l’avance selon la procédure fixée à l’article 4 ci‑dessous.
 
@@ -269,13 +263,13 @@ Les Parties au différend peuvent à tout moment de la procédure de conciliatio
 
 #### Art. 13
 
-<sup>1.</sup> A moins que les Parties n’en disposent autrement, la procédure d’arbitrage est conduite conformément aux dispositions du présent chapitre.
+<sup>1.</sup> À moins que les Parties n’en disposent autrement, la procédure d’arbitrage est conduite conformément aux dispositions du présent chapitre.
 
 <sup>2.</sup> En cas d’échec de la conciliation, la demande d’arbitrage doit être présentée dans les 180 jours qui suivent cet échec.
 
 #### Art. 14
 
-Le tribunal arbitral est composé de trois membres; un arbitre nommé par l’Etat riverain qui a pris les mesures d’intervention, un arbitre nommé par l’Etat dont relèvent les personnes ou les biens affectés par ces mesures, et un autre arbitre qui assume la présidence du tribunal désigné d’un commun accord par les deux premiers.
+Le tribunal arbitral est composé de trois membres; un arbitre nommé par l’État riverain qui a pris les mesures d’intervention, un arbitre nommé par l’État dont relèvent les personnes ou les biens affectés par ces mesures, et un autre arbitre qui assume la présidence du tribunal désigné d’un commun accord par les deux premiers.
 
 #### Art. 15
 
@@ -291,7 +285,7 @@ Le tribunal arbitral est composé de trois membres; un arbitre nommé par l’Et
 
 #### Art. 16
 
-Si une procédure a été engagée entre deux Parties, toute autre Partie dont les ressortissants ou les biens ont été affectés par les mesures considérées, ou qui, en sa qualité d’Etat riverain, a pris des mesures analogues, peut se joindre à la procédure d’arbitrage en avisant par écrit les Parties qui ont engagé cette procédure à moins que l’une de celles‑ci ne s’y oppose.
+Si une procédure a été engagée entre deux Parties, toute autre Partie dont les ressortissants ou les biens ont été affectés par les mesures considérées, ou qui, en sa qualité d’État riverain, a pris des mesures analogues, peut se joindre à la procédure d’arbitrage en avisant par écrit les Parties qui ont engagé cette procédure à moins que l’une de celles‑ci ne s’y oppose.
 
 #### Art. 17
 
@@ -316,10 +310,10 @@ Les Parties facilitent les travaux du tribunal; à cette fin, conformément à l
 
 <sup>2.</sup> Tout différend qui pourrait surgir entre les Parties concernant l’interprétation et l’exécution de la sentence peut être soumis par la Partie la plus diligente au jugement du tribunal qui l’a rendue ou, si ce dernier ne peut en être saisi, d’un autre tribunal constitué à cet effet de la même manière que le premier.
 
-Champ d’application le 12 juillet 2017**[^t-2]**
+Champ d’application le 16 juillet 2024[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afrique du Sud</td><td>1<sup>er</sup> juillet</td><td>1986 A</td><td>29 septembre</td><td>1986</td></tr>
 <tr><td>Algérie</td><td>21 novembre</td><td>2011 A</td><td>19 février</td><td>2012</td></tr>
 <tr><td>Allemagne</td><td>7 mai</td><td>1975</td><td>5 août</td><td>1975</td></tr>
@@ -336,22 +330,22 @@ Champ d’application le 12 juillet 2017**[^t-2]**
 <tr><td>Cameroun</td><td>14 mai</td><td>1984</td><td>12 août</td><td>1984</td></tr>
 <tr><td>Chili</td><td>28 février</td><td>1995 A</td><td>29 mai</td><td>1995</td></tr>
 <tr><td>Chine</td><td>23 février</td><td>1990 A</td><td>24 mai</td><td>1990</td></tr>
-<tr><td>Hong Kong<sup>a</sup></td><td>5 juin</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
-<tr><td>Congo (Kinshasa)</td><td>19 mai</td><td>2014 A</td><td>19 mai</td><td>2014</td></tr>
+<tr><td>Hong Kong <sup>a</sup></td><td>5 juin</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
+<tr><td>Congo (Kinshasa)</td><td>19 mai</td><td>2014 A</td><td>17 août</td><td>2014</td></tr>
 <tr><td>Côte d’Ivoire</td><td>8 janvier</td><td>1988</td><td>7 avril</td><td>1988</td></tr>
 <tr><td>Croatie</td><td>27 juillet</td><td>1992 S</td><td>8 octobre</td><td>1991</td></tr>
 <tr><td>Cuba</td><td>5 mai</td><td>1976 A</td><td>3 août</td><td>1976</td></tr>
 <tr><td>Danemark</td><td>18 décembre</td><td>1970 Si</td><td>6 mai</td><td>1975</td></tr>
 <tr><td>Djibouti</td><td>1<sup>er</sup> mars</td><td>1990 A</td><td>30 mai</td><td>1990</td></tr>
-<tr><td>Egypte</td><td>3 février</td><td>1989 A</td><td>4 mai</td><td>1989</td></tr>
-<tr><td>Emirats arabes unis</td><td>15 décembre</td><td>1983 A</td><td>14 mars</td><td>1984</td></tr>
-<tr><td>Equateur</td><td>23 décembre</td><td>1976 A</td><td>23 mars</td><td>1977</td></tr>
+<tr><td>Égypte</td><td>3 février</td><td>1989 A</td><td>4 mai</td><td>1989</td></tr>
+<tr><td>Émirats arabes unis</td><td>15 décembre</td><td>1983 A</td><td>14 mars</td><td>1984</td></tr>
+<tr><td>Équateur</td><td>23 décembre</td><td>1976 A</td><td>23 mars</td><td>1977</td></tr>
 <tr><td>Espagne</td><td>8 novembre</td><td>1973</td><td>6 mai</td><td>1975</td></tr>
 <tr><td>Estonie</td><td>16 mai</td><td>2008 A</td><td>14 août</td><td>2008</td></tr>
-<tr><td>Etats-Unis <sup>c</sup> <sup>d</sup></td><td>21 février</td><td>1974</td><td>6 mai</td><td>1975</td></tr>
-<tr><td>Commonwealth des Iles Mariannes du Nord</td><td>4 novembre</td><td>1986</td><td>4 novembre</td><td>1986</td></tr>
+<tr><td>États-Unis <sup>b c</sup></td><td>21 février</td><td>1974</td><td>6 mai</td><td>1975</td></tr>
+<tr><td>Commonwealth des Îles Mariannes du Nord</td><td>4 novembre</td><td>1986</td><td>4 novembre</td><td>1986</td></tr>
 <tr><td>Guam</td><td>9 septembre</td><td>1975</td><td>6 mai</td><td>1975</td></tr>
-<tr><td>Iles Vierges américaines</td><td>9 septembre</td><td>1975</td><td>6 mai</td><td>1975</td></tr>
+<tr><td>Îles Vierges américaines</td><td>9 septembre</td><td>1975</td><td>6 mai</td><td>1975</td></tr>
 <tr><td>Porto Rico</td><td>9 septembre</td><td>1975</td><td>6 mai</td><td>1975</td></tr>
 <tr><td>Samoa américaines</td><td>9 septembre</td><td>1975</td><td>6 mai</td><td>1975</td></tr>
 <tr><td>Fidji</td><td>15 août</td><td>1972 A</td><td>6 mai</td><td>1975</td></tr>
@@ -362,7 +356,7 @@ Champ d’application le 12 juillet 2017**[^t-2]**
 <tr><td>Ghana</td><td>20 avril</td><td>1978</td><td>19 juillet</td><td>1978</td></tr>
 <tr><td>Guinée équatoriale</td><td>24 avril</td><td>1996 A</td><td>23 juillet</td><td>1996</td></tr>
 <tr><td>Guyana</td><td>10 décembre</td><td>1997 A</td><td>10 mars</td><td>1998</td></tr>
-<tr><td>Iles Marshall</td><td>16 octobre</td><td>1995 A</td><td>14 janvier</td><td>1996</td></tr>
+<tr><td>Îles Marshall</td><td>16 octobre</td><td>1995 A</td><td>14 janvier</td><td>1996</td></tr>
 <tr><td>Inde</td><td>16 juin</td><td>2000 A</td><td>14 septembre</td><td>2000</td></tr>
 <tr><td>Iran</td><td>25 juillet</td><td>1997 A</td><td>23 octobre</td><td>1997</td></tr>
 <tr><td>Irlande</td><td>21 août</td><td>1980</td><td>19 novembre</td><td>1980</td></tr>
@@ -382,7 +376,7 @@ Champ d’application le 12 juillet 2017**[^t-2]**
 <tr><td>Monténégro</td><td>3 juin</td><td>2006 S</td><td>3 juin</td><td>2006</td></tr>
 <tr><td>Namibie</td><td>12 mars</td><td>2004 A</td><td>10 juin</td><td>2004</td></tr>
 <tr><td>Nicaragua</td><td>15 novembre</td><td>1994 A</td><td>13 février</td><td>1995</td></tr>
-<tr><td>Nigéria</td><td>27 février</td><td>2004 A</td><td>24 mai</td><td>2004</td></tr>
+<tr><td>Nigéria</td><td>24 février</td><td>2004 A</td><td>24 mai</td><td>2004</td></tr>
 <tr><td>Norvège</td><td>12 juillet</td><td>1972 A</td><td>6 mai</td><td>1975</td></tr>
 <tr><td>Nouvelle-Zélande</td><td>26 mars</td><td>1975 A</td><td>6 mai</td><td>1975</td></tr>
 <tr><td>Oman</td><td>24 janvier</td><td>1985 A</td><td>24 avril</td><td>1985</td></tr>
@@ -402,18 +396,19 @@ Champ d’application le 12 juillet 2017**[^t-2]**
 <tr><td>Akrotiri et Dhekelia</td><td>8 septembre</td><td>1982</td><td>8 septembre</td><td>1982</td></tr>
 <tr><td>Anguilla</td><td>8 septembre</td><td>1982</td><td>8 septembre</td><td>1982</td></tr>
 <tr><td>Bermudes</td><td>19 septembre</td><td>1980</td><td>1<sup>er</sup> décembre</td><td>1980</td></tr>
-<tr><td>Ile de Man</td><td>27 juin</td><td>1995</td><td>27 juin</td><td>1995</td></tr>
-<tr><td>Iles Cayman</td><td>8 septembre</td><td>1982</td><td>8 septembre</td><td>1982</td></tr>
-<tr><td>Iles Falkland et dépendances (Géorgie du Sud et îles Sandwich du Sud)</td><td>8 septembre</td><td>1982</td><td>8 septembre</td><td>1982</td></tr>
-<tr><td>Iles Pitcairn (Ducie, Oeno, Henderson et Pitcairn)</td><td>8 septembre</td><td>1982</td><td>8 septembre</td><td>1982</td></tr>
-<tr><td>Iles Turques et Caïques</td><td>8 septembre</td><td>1982</td><td>8 septembre</td><td>1982</td></tr>
-<tr><td>Iles Vierges britanniques</td><td>8 septembre</td><td>1982</td><td>8 septembre</td><td>1982</td></tr>
+<tr><td>Île de Man</td><td>27 juin</td><td>1995</td><td>27 juin</td><td>1995</td></tr>
+<tr><td>Îles Cayman</td><td>8 septembre</td><td>1982</td><td>8 septembre</td><td>1982</td></tr>
+<tr><td>Îles Falkland et dépendances (Géorgie du Sud et îles Sandwich du Sud)</td><td>8 septembre</td><td>1982</td><td>8 septembre</td><td>1982</td></tr>
+<tr><td>Îles Pitcairn (Ducie, Oeno, Henderson et Pitcairn)</td><td>8 septembre</td><td>1982</td><td>8 septembre</td><td>1982</td></tr>
+<tr><td>Îles Turques et Caïques</td><td>8 septembre</td><td>1982</td><td>8 septembre</td><td>1982</td></tr>
+<tr><td>Îles Vierges britanniques</td><td>8 septembre</td><td>1982</td><td>8 septembre</td><td>1982</td></tr>
 <tr><td>Montserrat</td><td>8 septembre</td><td>1982</td><td>8 septembre</td><td>1982</td></tr>
 <tr><td>Sainte-Hélène et dépendances (Ascension et Tristan da Cunha)</td><td>8 septembre</td><td>1982</td><td>8 septembre</td><td>1982</td></tr>
 <tr><td>Territoire antarctique britannique</td><td>8 septembre</td><td>1982</td><td>8 septembre</td><td>1982</td></tr>
 <tr><td>Russie</td><td>30 décembre</td><td>1974 A</td><td>6 mai</td><td>1975</td></tr>
 <tr><td>Sainte-Lucie</td><td>20 mai</td><td>2004 A</td><td>18 mai</td><td>2004</td></tr>
 <tr><td>Saint-Kitts-et-Nevis</td><td>7 octobre</td><td>2004 A</td><td>5 janvier</td><td>2005</td></tr>
+<tr><td>Saint-Marin</td><td>19 avril</td><td>2021 A</td><td>18 juillet</td><td>2021</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>12 mai</td><td>1999 A</td><td>10 août</td><td>1999</td></tr>
 <tr><td>Sénégal</td><td>27 mars</td><td>1972 A</td><td>6 mai</td><td>1975</td></tr>
 <tr><td>Serbie</td><td>27 avril</td><td>1992 S</td><td>3 mai</td><td>1976</td></tr>
@@ -430,21 +425,8 @@ Champ d’application le 12 juillet 2017**[^t-2]**
 <tr><td>Tunisie</td><td>4 mai</td><td>1976 A</td><td>2 août</td><td>1976</td></tr>
 <tr><td>Ukraine</td><td>3 janvier</td><td>1994 S</td><td>21 décembre</td><td>1991</td></tr>
 <tr><td>Vanuatu</td><td>14 septembre</td><td>1992 A</td><td>13 décembre</td><td>1992</td></tr>
-<tr><td>Yémen</td><td>6 mars</td><td>1979 A</td><td>4 juin</td><td>1976</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Déclaration, voir ci-après.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Du 6 mai 1975 au 30 juin 1997, la Conv. était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. A partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 5 juin 1997, la Conv. est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Le procédé de rétrocession par étapes de la Zone du Canal du Panama convenu en 1977 entre les Etats-Unis d’Amérique et le Panama s’est achevé le 31 décembre 1999. A partir de cette date, le Panama exerce la pleine souveraineté sur la Zone du Canal et le Canal lui‑même.</td></tr>
-<tr><td colspan="5"><sup>c</sup> Le régime des territoires sous tutelle américaine des Iles pacifiques a été terminé pour les les Marshall le 21 octobre 1986, pour la Micronésie le 3 novembre 1986 et pour Palaos, le 1<sup>er</sup> octobre 1984 par Résolutions du Conseil de sécurité de l’ONU n<sup>o</sup> 683 (1990) et 956 (1994).</td></tr>
+<tr><td>Yémen</td><td>6 mars</td><td>1979 A</td><td>4 juin</td><td>1979</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): [www.imo.org](http://www.imo.org/) &gt; Qui nous sommes &gt; Conventions &gt; État des conventions &gt; Status Book, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 6 mai 1975 au 30 juin 1997, la Conv. était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 5 juin 1997, la Conv. est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>b</sup> Le procédé de rétrocession par étapes de la Zone du Canal du Panama convenu en 1977 entre les États-Unis d’Amérique et le Panama s’est achevé le 31 décembre 1999. À partir de cette date, le Panama exerce la pleine souveraineté sur la Zone du Canal et le Canal lui‑même. <sup>c</sup> Le régime des territoires sous tutelle américaine des Îles pacifiques a été terminé pour les Îles Marshall le 21 octobre 1986, pour la Micronésie le 3 novembre 1986 et pour Palaos, le 1<sup>er</sup> octobre 1984 par Résolutions du Conseil de sécurité de l’ONU n<sup>o</sup> 683 (1990) et 956 (1994).</td></tr>
 </table>
 
-[^t-2]: [RO 1988 1242](https://fedlex.data.admin.ch/eli/oc/1988/1242_1242_1242), [1989 1174](https://fedlex.data.admin.ch/eli/oc/1989/1174_1174_1174), [2003 2446](https://fedlex.data.admin.ch/eli/oc/2003/354), [2007 5201](https://fedlex.data.admin.ch/eli/oc/2007/733), [2012 875](https://fedlex.data.admin.ch/eli/oc/2012/134), [2017 3833](https://fedlex.data.admin.ch/eli/oc/2017/457). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
-
-Déclaration
-
-Australie
-
-L’Australie rappelle la déclaration faite comme suit par la délégation australienne lors de la Conférence internationale de 1973 sur la pollution des mers:
-
-- «L’Australie est convaincue qu’aucun Etat riverain ne s’abstiendrait de prendre les mesures qui pourraient être nécessaires pour protéger les zones relevant de sa juridiction de dommages graves au milieu. Le droit international coutumier reconnaît d’ailleurs, à son avis, à l’Etat riverain, le droit d’intervenir en haute mer pour protéger les zones relevant de sa juridiction.»
-
-Devenant Partie à la convention, l’Australie se déclare convaincue qu’elle peut toujours, pour protéger les zones et ressources relevant de sa juridiction, prendre des mesures qui sont permises en vertu de droit international coutumier et qui sont conformes à la convention.
+[^t-2]: [RO 1988 1242](https://fedlex.data.admin.ch/eli/oc/1988/1242_1242_1242); [1989 1174](https://fedlex.data.admin.ch/eli/oc/1989/1174_1174_1174); [2003 2446](https://fedlex.data.admin.ch/eli/oc/2003/354); [2007 5201](https://fedlex.data.admin.ch/eli/oc/2007/733); [2012 875](https://fedlex.data.admin.ch/eli/oc/2012/134); [2017 3833](https://fedlex.data.admin.ch/eli/oc/2017/457); [2024 372](https://fedlex.data.admin.ch/eli/oc/2024/372). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

@@ -3,25 +3,26 @@ sr: "0.814.289"
 title: Internationales Übereinkommen vom 29. November 1969 über Massnahmen auf Hoher See bei Ölverschmutzungsunfällen (mit Anlage)
 eli: "https://fedlex.data.admin.ch/eli/cc/1988/1242_1242_1242"
 language: de
-version: 2017-07-12
+version: 2024-07-16
 adopted: 1969-11-29
 in_force: 1988-03-14
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1242_1242_1242/20170712/de/xml/fedlex-data-admin-ch-eli-cc-1988-1242_1242_1242-20170712-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1988/1242_1242_1242/20170712/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1988/1242_1242_1242/20240716/de/xml/fedlex-data-admin-ch-eli-cc-1988-1242_1242_1242-20240716-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1988/1242_1242_1242/20240716/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Internationales Übereinkommen über Massnahmen auf Hoher See bei Ölverschmutzungsunfällen
 
-[^t-1]as Übersetzung
+AS **1988** 1242; BBl **1986** II 717
 
-Abgeschlossen in Brüssel am 29. November 1969 Von der Bundesversammlung genehmigt am 9. März 1987[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 15. Dezember 1987 In Kraft getreten für die Schweiz am 14. März 1988
+Übersetzung
 
-(Stand am 12. Juli 2017)
+Abgeschlossen in Brüssel am 29. November 1969 Von der Bundesversammlung genehmigt am 9. März 1987[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 15. Dezember 1987 In Kraft getreten für die Schweiz am 14. März 1988
 
-[^t-1]: [AS 1988 1242](https://fedlex.data.admin.ch/eli/oc/1988/1242_1242_1242); [BBl 1986 II 717](https://fedlex.data.admin.ch/eli/fga/1986/2_717_741_541)
-[^t-2]: Art. 1 Abs. 1 Bst. a des BB vom 9. März 1987 ([AS 1988 1240](https://fedlex.data.admin.ch/eli/oc/1988/1240_1240_1240)).
+(Stand am 16. Juli 2024)
+
+[^t-1]: Art. 1 Abs. 1 Bst. a des BB vom 9. März 1987 ([AS 1988 1240](https://fedlex.data.admin.ch/eli/oc/1988/1240_1240_1240)).
 
 Die Vertragsstaaten dieses Übereinkommens,
 
@@ -296,7 +297,7 @@ Ein nach dieser Anlage errichtetes Schiedsgericht gibt sich seine Verfahrensordn
 
 <sup>2.</sup> Jede Streitigkeit zwischen den Parteien über die Auslegung und Vollstreckung des Schiedsspruchs kann von jeder Partei dem Gericht, das den Spruch gefällt hat, oder, wenn es nicht zur Verfügung steht, einem anderen auf dieselbe Weise wie das ursprüngliche Gericht für diesen Zweck errichteten Gericht zur Entscheidung vorgelegt werden.
 
-Geltungsbereich am 12. Juli 2017**[^t-3]**
+Geltungsbereich am 16. Juli 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -315,7 +316,7 @@ Geltungsbereich am 12. Juli 2017**[^t-3]**
 <tr><td>Bulgarien</td><td>2. November</td><td>1983 B</td><td>31. Januar</td><td>1984</td></tr>
 <tr><td>Chile</td><td>28. Februar</td><td>1995 B</td><td>29. Mai</td><td>1995</td></tr>
 <tr><td>China</td><td>23. Februar</td><td>1990 B</td><td>24. Mai</td><td>1990</td></tr>
-<tr><td>[tab] Hongkong<sup>a</sup></td><td>5. Juni</td><td>1997</td><td>1. Juli</td><td>1997</td></tr>
+<tr><td>[tab] Hongkong <sup>a</sup></td><td>5. Juni</td><td>1997</td><td>1. Juli</td><td>1997</td></tr>
 <tr><td>Côte d’Ivoire</td><td>8. Januar</td><td>1988</td><td>7. April</td><td>1988</td></tr>
 <tr><td>Dänemark</td><td>18. Dezember</td><td>1970 U</td><td>6. Mai</td><td>1975</td></tr>
 <tr><td>Deutschland</td><td>7. Mai</td><td>1975</td><td>5. August</td><td>1975</td></tr>
@@ -340,7 +341,7 @@ Geltungsbereich am 12. Juli 2017**[^t-3]**
 <tr><td>Jemen</td><td>6. März</td><td>1979 B</td><td>4. Juni</td><td>1979</td></tr>
 <tr><td>Kamerun</td><td>14. Mai</td><td>1984</td><td>12. August</td><td>1984</td></tr>
 <tr><td>Katar</td><td>2. Juni</td><td>1988 B</td><td>31. August</td><td>1988</td></tr>
-<tr><td>Kongo (Kinshasa)</td><td>19. Mai</td><td>2014 B</td><td>19. Mai</td><td>2014</td></tr>
+<tr><td>Kongo (Kinshasa)</td><td>19. Mai</td><td>2014 B</td><td>17. August</td><td>2014</td></tr>
 <tr><td>Kroatien</td><td>27. Juli</td><td>1992 N</td><td>8. Oktober</td><td>1991</td></tr>
 <tr><td>Kuba</td><td>5. Mai</td><td>1976 B</td><td>3. August</td><td>1976</td></tr>
 <tr><td>Kuwait</td><td>2. April</td><td>1981 B</td><td>1. Juli</td><td>1981</td></tr>
@@ -362,7 +363,7 @@ Geltungsbereich am 12. Juli 2017**[^t-3]**
 <tr><td>Curaçao</td><td>19. September</td><td>1975</td><td>18. Dezember</td><td>1975</td></tr>
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>19. September</td><td>1975</td><td>18. Dezember</td><td>1975</td></tr>
 <tr><td>Sint Maarten</td><td>19. September</td><td>1975</td><td>18. Dezember</td><td>1975</td></tr>
-<tr><td>Nigeria</td><td>27. Februar</td><td>2004 B</td><td>24. Mai</td><td>2004</td></tr>
+<tr><td>Nigeria</td><td>24. Februar</td><td>2004 B</td><td>24. Mai</td><td>2004</td></tr>
 <tr><td>Norwegen</td><td>12. Juli</td><td>1972 B</td><td>6. Mai</td><td>1975</td></tr>
 <tr><td>Oman</td><td>24. Januar</td><td>1985 B</td><td>24. April</td><td>1985</td></tr>
 <tr><td>Pakistan</td><td>13. Januar</td><td>1995 B</td><td>13. April</td><td>1995</td></tr>
@@ -371,6 +372,7 @@ Geltungsbereich am 12. Juli 2017**[^t-3]**
 <tr><td>Polen</td><td>1. Juni</td><td>1976</td><td>30. August</td><td>1976</td></tr>
 <tr><td>Portugal</td><td>15. Februar</td><td>1980</td><td>15. Mai</td><td>1980</td></tr>
 <tr><td>Russland</td><td>30. Dezember</td><td>1974 B</td><td>6. Mai</td><td>1975</td></tr>
+<tr><td>San Marino</td><td>19. April</td><td>2021 B</td><td>18. Juli</td><td>2021</td></tr>
 <tr><td>Schweden</td><td>8. Februar</td><td>1973</td><td>6. Mai</td><td>1975</td></tr>
 <tr><td>Schweiz</td><td>15. Dezember</td><td>1987</td><td>14. März</td><td>1988</td></tr>
 <tr><td>Senegal</td><td>27. März</td><td>1972 B</td><td>6. Mai</td><td>1975</td></tr>
@@ -411,17 +413,7 @@ Geltungsbereich am 12. Juli 2017**[^t-3]**
 <tr><td>Pitcairn-Inseln (Ducie, Oeno, Henderson und Pitcairn)</td><td>8. September</td><td>1982</td><td>8. September</td><td>1982</td></tr>
 <tr><td>St. Helena und Nebengebiete (Ascension und Tristan da Cunha)</td><td>8. September</td><td>1982</td><td>8. September</td><td>1982</td></tr>
 <tr><td>Turks- und Caicosinseln</td><td>8. September</td><td>1982</td><td>8. September</td><td>1982</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen siehe hiernach. <sup>a</sup> Vom 6. Mai 1975 bis zum 30. Juni 1997 war das Übereinkommen auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 5. Juni 1997 ist das Übereinkommen seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar. <sup>b</sup> Der im Jahre 1977 zwischen den Vereinigten Staaten von Amerika und Panama vereinbarte schrittweise Rückgabeprozess der Kanalzone an Panama wurde am 31. Dezember 1999 abgeschlossen. Ab diesem Datum übt Panama die vollständige Hoheitsgewalt über die Kanalzone und den Kanal aus. <sup>c</sup> Mittels Resolutionen des UNO Sicherheitsrats Nr. 683 (1990) und 956 (1994) ist die treuhänderische Verwaltung der Pazifik-Inseln unter amerikanischer Verwaltung wie folgt aufgehoben worden: Marshall-Inseln mit Wirkung vom 21. Oktober 1986, für Mikronesien am 3. November 1986 und Palau am 1. Oktober 1984.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): [www.imo.org](http://www.imo.org) &gt; Qui nous sommes &gt; Conventions &gt; État des conventions &gt; Status Book oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Vom 6. Mai 1975 bis zum 30. Juni 1997 war das Übereinkommen auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 5. Juni 1997 ist das Übereinkommen seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar. <sup>b</sup> Der im Jahre 1977 zwischen den Vereinigten Staaten von Amerika und Panama vereinbarte schrittweise Rückgabeprozess der Kanalzone an Panama wurde am 31. Dezember 1999 abgeschlossen. Ab diesem Datum übt Panama die vollständige Hoheitsgewalt über die Kanalzone und den Kanal aus. <sup>c</sup> Mittels Resolutionen des UNO Sicherheitsrats Nr. 683 (1990) und 956 (1994) ist die treuhänderische Verwaltung der Pazifik-Inseln unter amerikanischer Verwaltung wie folgt aufgehoben worden: Marshall-Inseln mit Wirkung vom 21. Oktober 1986, für Mikronesien am 3. November 1986 und Palau am 1. Oktober 1984.</td></tr>
 </table>
 
-[^t-3]: AS **1988** 1253, [1989 1174](https://fedlex.data.admin.ch/eli/oc/1989/1174_1174_1174), [2003 2446](https://fedlex.data.admin.ch/eli/oc/2003/354), [2007 5201](https://fedlex.data.admin.ch/eli/oc/2007/733), [2012 875](https://fedlex.data.admin.ch/eli/oc/2012/134), [2017 3833](https://fedlex.data.admin.ch/eli/oc/2017/457). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
-
-Erklärung
-
-**Australien**
-
-Australien erinnert an die Erklärung der australischen Delegation auf der Internationalen Konferenz von 1973 über Meeresverschmutzung, die wie folgt lautete:
-
-«Australien vertritt die Auffassung, dass kein Küstenstaat es unterlassen würde, alle notwendigen Massnahmen zum Schutz von Gebieten unter seiner Hoheitsgewalt vor ernsthaften Umweltschäden zu ergreifen, sowie die Auffassung, dass dieses Recht eines Küstenstaats, zum Schutz von Gebieten unter seiner Hoheitsgewalt auf der Hohen See tätig zu werden, nach dem Völkergewohnheitsrecht anerkannt ist.»
-
-Zu dem Zeitpunkt, zu dem Australien Vertragspartei des Übereinkommens wird, erklärt es, dass es nach seiner Auffassung weiterhin Massnahmen zum Schutz von Gebieten und Naturschätzen unter seiner Hoheitsgewalt treffen kann, die nach dem Völkergewohnheitsrecht zulässig sind und mit dem Übereinkommen in Einklang stehen.
+[^t-2]: [AS 1988 1242](https://fedlex.data.admin.ch/eli/oc/1988/1242_1242_1242); [1989 1174](https://fedlex.data.admin.ch/eli/oc/1989/1174_1174_1174); [2003 2446](https://fedlex.data.admin.ch/eli/oc/2003/354); [2007 5201](https://fedlex.data.admin.ch/eli/oc/2007/733); [2012 875](https://fedlex.data.admin.ch/eli/oc/2012/134); [2017 3833](https://fedlex.data.admin.ch/eli/oc/2017/457); [2024 372](https://fedlex.data.admin.ch/eli/oc/2024/372). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)
