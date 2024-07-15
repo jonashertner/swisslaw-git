@@ -3,11 +3,11 @@ sr: "0.311.543"
 title: Übereinkommen vom 16. Mai 2005 zur Bekämpfung des Menschenhandels
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/94"
 language: de
-version: 2019-05-31
+version: 2024-07-16
 adopted: 2005-05-16
 in_force: 2013-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/94/20190531/de/xml/fedlex-data-admin-ch-eli-cc-2013-94-20190531-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/94/20190531/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/94/20240716/de/xml/fedlex-data-admin-ch-eli-cc-2013-94-20240716-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/94/20240716/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 17. Dezember 2012
 
 In Kraft getreten für die Schweiz am 1. April 2013
 
-(Stand am 31. Mai 2019)
+(Stand am 16. Juli 2024)
 
 [^t-1]: [AS 2012 6713](https://fedlex.data.admin.ch/eli/oc/2012/813)
 
@@ -643,7 +643,7 @@ Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Europara
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu Warschau am 16. Mai 2005 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarats hinterlegt wird. Der Generalsekretär des Europarats übermittelt allen Mitgliedstaaten des Europarats, den Nichtmitgliedstaaten, die sich an der Ausarbeitung dieses Übereinkommens beteiligt haben, der Europäischen Gemeinschaft und allen zum Beitritt zu dem Übereinkommen eingeladenen Staaten beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 31. Mai 2019**[^t-2]**
+Geltungsbereich am 16. Juli 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -664,6 +664,7 @@ Geltungsbereich am 31. Mai 2019**[^t-2]**
 <tr><td>Griechenland</td><td>11. April</td><td>2014</td><td>1. August</td><td>2014</td></tr>
 <tr><td>Irland</td><td>13. Juli</td><td>2010</td><td>1. November</td><td>2010</td></tr>
 <tr><td>Island</td><td>23. Februar</td><td>2012</td><td>1. Juni</td><td>2012</td></tr>
+<tr><td>Israel\*</td><td>28. Mai</td><td>2021 B</td><td>1. September</td><td>2021</td></tr>
 <tr><td>Italien</td><td>29. November</td><td>2010</td><td>1. März</td><td>2011</td></tr>
 <tr><td>Kroatien</td><td>5. September</td><td>2007</td><td>1. Februar</td><td>2008</td></tr>
 <tr><td>Lettland\*</td><td>6. März</td><td>2008</td><td>1. Juli</td><td>2008</td></tr>
@@ -675,6 +676,7 @@ Geltungsbereich am 31. Mai 2019**[^t-2]**
 <tr><td>Monaco\*</td><td>30. November</td><td>2015</td><td>1. März</td><td>2016</td></tr>
 <tr><td>Montenegro</td><td>30. Juli</td><td>2008</td><td>1. November</td><td>2008</td></tr>
 <tr><td>Niederlande\*</td><td>22. April</td><td>2010</td><td>1. August</td><td>2010</td></tr>
+<tr><td>Curaçao\*</td><td>1. März</td><td>2024</td><td>1. März</td><td>2024</td></tr>
 <tr><td>Nordmazedonien\*</td><td>27. Mai</td><td>2009</td><td>1. September</td><td>2009</td></tr>
 <tr><td>Norwegen</td><td>17. Januar</td><td>2008</td><td>1. Mai</td><td>2008</td></tr>
 <tr><td>Österreich</td><td>12. Oktober</td><td>2006</td><td>1. Februar</td><td>2008</td></tr>
@@ -694,10 +696,10 @@ Geltungsbereich am 31. Mai 2019**[^t-2]**
 <tr><td>Ungarn</td><td>4. April</td><td>2013</td><td>1. August</td><td>2013</td></tr>
 <tr><td>Vereinigtes Königreich\*</td><td>17. Dezember</td><td>2008</td><td>1. April</td><td>2009</td></tr>
 <tr><td>Zypern\* \*\*</td><td>24. Oktober</td><td>2007</td><td>1. Februar</td><td>2008</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarates: http://conventions.coe.int eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarates: [http://conventions.coe.int](http://conventions.coe.int) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 2013 475](https://fedlex.data.admin.ch/eli/oc/2013/94), [2016 1009](https://fedlex.data.admin.ch/eli/oc/2016/183), [2019 1795](https://fedlex.data.admin.ch/eli/oc/2019/330). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2013 475](https://fedlex.data.admin.ch/eli/oc/2013/94); [2016 1009](https://fedlex.data.admin.ch/eli/oc/2016/183); [2019 1795](https://fedlex.data.admin.ch/eli/oc/2019/330); [2024 371](https://fedlex.data.admin.ch/eli/oc/2024/371). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)
 
 Vorbehalte und Erklärungen
 

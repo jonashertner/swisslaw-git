@@ -3,11 +3,11 @@ sr: "0.311.543"
 title: Convenzione del 16 maggio 2005 sulla lotta contro la tratta di esseri umani
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/94"
 language: it
-version: 2019-05-31
+version: 2024-07-16
 adopted: 2005-05-16
 in_force: 2013-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/94/20190531/it/xml/fedlex-data-admin-ch-eli-cc-2013-94-20190531-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/94/20190531/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/94/20240716/it/xml/fedlex-data-admin-ch-eli-cc-2013-94-20240716-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/94/20240716/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2013** 475; FF **2011** 1
 
 Traduzione
 
-Conclusa a Varsavia il 16 maggio 2005
+Conclusa a Varsavia il 16 maggio 2005 Approvata dall’Assemblea federale il 23 dicembre 2011[^t-1] Strumento di ratificata depositato dalla Svizzera il 17 dicembre 2012 Entrata in vigore per la Svizzera il 1° aprile 2013
 
-Approvata dall’Assemblea federale il 23 dicembre 2011[^t-1]
-
-Strumento di ratificata depositato dalla Svizzera il 17 dicembre 2012
-
-Entrata in vigore per la Svizzera il 1° aprile 2013
-
-(Stato 31 maggio 2019)
+(Stato 16 luglio 2024)
 
 [^t-1]: [RU 2012 6713](https://fedlex.data.admin.ch/eli/oc/2012/813)
 
@@ -639,7 +633,7 @@ Il Segretario generale del Consiglio d’Europa notifica agli Stati membri del C
 
 *In fede,* i sottoscritti, pienamente a ciò autorizzati, hanno firmato la presente Convenzione. Fatto a Varsavia, il 16 maggio 2005, in inglese ed in francese, entrambi i testi egualmente facenti fede, in un’unica copia che è depositata negli archivi del Consiglio d’Europa. Il Segretario generale del Consiglio d’Europa ne trasmette copia conforme certificata ad ogni Stato membro del Consiglio d’Europa, agli Stati non membri che hanno partecipato all’elaborazione della presente Convenzione, alla Comunità europea e a tutti gli Stati invitati ad aderire alla presente Convenzione. (Seguono le firme)
 
-Campo d’applicazione il 31 maggio 2019**[^t-2]**
+Campo d’applicazione il 16 luglio 2024[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -664,6 +658,7 @@ Campo d’applicazione il 31 maggio 2019**[^t-2]**
 <tr><td>Grecia</td><td>11 aprile</td><td>2014</td><td>1° agosto</td><td>2014</td></tr>
 <tr><td>Irlanda</td><td>13 luglio</td><td>2010</td><td>1° novembre</td><td>2010</td></tr>
 <tr><td>Islanda</td><td>23 febbraio</td><td>2012</td><td>1° giugno</td><td>2012</td></tr>
+<tr><td>Israele\*</td><td>28 maggio</td><td>2021 A</td><td>1° settembre</td><td>2021</td></tr>
 <tr><td>Italia</td><td>29 novembre</td><td>2010</td><td>1° marzo</td><td>2011</td></tr>
 <tr><td>Lettonia<sup>\*</sup></td><td>6 marzo</td><td>2008</td><td>1° luglio</td><td>2008</td></tr>
 <tr><td>Liechtenstein</td><td>27 gennaio</td><td>2016</td><td>1° maggio</td><td>2016</td></tr>
@@ -676,6 +671,7 @@ Campo d’applicazione il 31 maggio 2019**[^t-2]**
 <tr><td>Montenegro</td><td>30 luglio</td><td>2008</td><td>1° novembre</td><td>2008</td></tr>
 <tr><td>Norvegia</td><td>17 gennaio</td><td>2008</td><td>1° maggio</td><td>2008</td></tr>
 <tr><td>Paesi Bassi<sup>\*</sup></td><td>22 aprile</td><td>2010</td><td>1° agosto</td><td>2010</td></tr>
+<tr><td>Curaçao\*</td><td>1° marzo</td><td>2024</td><td>1° marzo</td><td>2024</td></tr>
 <tr><td>Polonia<sup>\*</sup></td><td>17 novembre</td><td>2008</td><td>1° marzo</td><td>2009</td></tr>
 <tr><td>Portogallo<sup>\*</sup></td><td>27 febbraio</td><td>2008</td><td>1° giugno</td><td>2008</td></tr>
 <tr><td>Regno Unito<sup>\*</sup></td><td>17 dicembre</td><td>2008</td><td>1° aprile</td><td>2009</td></tr>
@@ -690,10 +686,10 @@ Campo d’applicazione il 31 maggio 2019**[^t-2]**
 <tr><td>Turchia<sup>\*</sup></td><td>2 maggio</td><td>2016</td><td>1° settembre</td><td>2016</td></tr>
 <tr><td>Ucraina<sup>\*</sup></td><td>29 novembre</td><td>2010</td><td>1° marzo</td><td>2011</td></tr>
 <tr><td>Ungheria</td><td>4 aprile</td><td>2013</td><td>1° agosto</td><td>2013</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, le dichiarazioni e le obiezioni non sono pubblicate nella RU, eccetto le riserve e le dichiarazioni della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione del Consiglio d’Europa: http://conventions.coe.int oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, le dichiarazioni e le obiezioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: [http://conventions.coe.int](http://conventions.coe.int) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: [RU 2013 475](https://fedlex.data.admin.ch/eli/oc/2013/94), [2016 1009](https://fedlex.data.admin.ch/eli/oc/2016/183)e [2019 1795](https://fedlex.data.admin.ch/eli/oc/2019/330). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2013 475](https://fedlex.data.admin.ch/eli/oc/2013/94); [2016 1009](https://fedlex.data.admin.ch/eli/oc/2016/183); [2019 1795](https://fedlex.data.admin.ch/eli/oc/2019/330); [2024 371](https://fedlex.data.admin.ch/eli/oc/2024/371). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Riserve e dichiarazioni
 

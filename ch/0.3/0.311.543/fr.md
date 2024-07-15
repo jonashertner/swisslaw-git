@@ -3,11 +3,11 @@ sr: "0.311.543"
 title: Convention du 16 mai 2005 sur la lutte contre la traite des êtres humains
 eli: "https://fedlex.data.admin.ch/eli/cc/2013/94"
 language: fr
-version: 2019-05-31
+version: 2024-07-16
 adopted: 2005-05-16
 in_force: 2013-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/94/20190531/fr/xml/fedlex-data-admin-ch-eli-cc-2013-94-20190531-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2013/94/20190531/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2013/94/20240716/fr/xml/fedlex-data-admin-ch-eli-cc-2013-94-20240716-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2013/94/20240716/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,45 +18,39 @@ RO **2013** 475; FF **2011** 1
 
 Texte original
 
-Conclue à Varsovie le 16 mai 2005
+Conclue à Varsovie le 16 mai 2005 Approuvée par l’Assemblée fédérale le 23 décembre 2011[^t-1] Instrument de ratification déposé par la Suisse le 17 décembre 2012 Entrée en vigueur pour la Suisse le 1<sup>er</sup> avril 2013
 
-Approuvée par l’Assemblée fédérale le 23 décembre 2011[^t-1]
-
-Instrument de ratification déposé par la Suisse le 17 décembre 2012
-
-Entrée en vigueur pour la Suisse le 1<sup>er</sup> avril 2013
-
-(Etat le 31 mai 2019)
+(État le 16 juillet 2024)
 
 [^t-1]: [RO 2012 6713](https://fedlex.data.admin.ch/eli/oc/2012/813)
 
 *Préambule*
 
-Les Etats membres du Conseil de l’Europe et les autres Signataires de la présente Convention,
+Les États membres du Conseil de l’Europe et les autres Signataires de la présente Convention,
 
-considérant que le but du Conseil de l’Europe est de réaliser une union plus étroite entre ses membres;
+considérant que le but du Conseil de l’Europe est de réaliser une union plus étroite entre ses membres,
 
-considérant que la traite des êtres humains constitue une violation des droits de la personne humaine et une atteinte à la dignité et à l’intégrité de l’être humain;
+considérant que la traite des êtres humains constitue une violation des droits de la personne humaine et une atteinte à la dignité et à l’intégrité de l’être humain,
 
-considérant que la traite des êtres humains peut conduire à une situation d’esclavage pour les victimes;
+considérant que la traite des êtres humains peut conduire à une situation d’esclavage pour les victimes,
 
-considérant que le respect des droits des victimes et leur protection, ainsi que la lutte contre la traite des êtres humains doivent être les objectifs primordiaux
+considérant que le respect des droits des victimes et leur protection, ainsi que la lutte contre la traite des êtres humains doivent être les objectifs primordiaux,
 
-considérant que toute action ou initiative dans le domaine de la lutte contre la traite des êtres humains doit être non-discriminatoire et prendre en considération l’égalité entre les femmes et les hommes, ainsi qu’une approche fondée sur les droits de l’enfant;
+considérant que toute action ou initiative dans le domaine de la lutte contre la traite des êtres humains doit être non-discriminatoire et prendre en considération l’égalité entre les femmes et les hommes, ainsi qu’une approche fondée sur les droits de l’enfant,
 
-rappelant les déclarations des Ministres des Affaires étrangères des Etats membres lors des 112e (14 et 15 mai 2003) et 114e (12 et 13 mai 2004) Sessions du Comité des Ministres, appelant à une action renforcée du Conseil de l’Europe dans le domaine de la traite des êtres humains;
+rappelant les déclarations des Ministres des Affaires étrangères des États membres lors des 112e (14 et 15 mai 2003) et 114e (12 et 13 mai 2004) Sessions du Comité des Ministres, appelant à une action renforcée du Conseil de l’Europe dans le domaine de la traite des êtres humains,
 
-gardant présente à l’esprit la Convention de sauvegarde des Droits de l’Homme et des Libertés fondamentales (1950)[^ingress-1] et ses Protocoles;
+gardant présente à l’esprit la Convention de sauvegarde des Droits de l’Homme et des Libertés fondamentales (1950)[^ingress-1] et ses Protocoles,
 
-gardant à l’esprit les recommandations suivantes du Comité des Ministres aux Etats membres du Conseil de l’Europe: Recommandation n<sup>o</sup> R (91) 11 sur l’exploitation sexuelle, la pornographie, la prostitution ainsi que la traite d’enfants et de jeunes adultes; Recommandation n<sup>o</sup> R (97) 13 sur l’intimidation des témoins et les droits de la défense; Recommandation n<sup>o</sup> R (2000) 11 sur la lutte contre la traite des êtres humains aux fins d’exploitation sexuelle; Recommandation Rec (2001) 16 sur la protection des enfants contre l’exploitation sexuelle; Recommandation Rec (2002) 5 sur la protection des femmes contre la violence;
+gardant à l’esprit les recommandations suivantes du Comité des Ministres aux États membres du Conseil de l’Europe: Recommandation n<sup>o</sup> R (91) 11 sur l’exploitation sexuelle, la pornographie, la prostitution ainsi que la traite d’enfants et de jeunes adultes; Recommandation n<sup>o</sup> R (97) 13 sur l’intimidation des témoins et les droits de la défense; Recommandation n<sup>o</sup> R (2000) 11 sur la lutte contre la traite des êtres humains aux fins d’exploitation sexuelle; Recommandation Rec (2001) 16 sur la protection des enfants contre l’exploitation sexuelle; Recommandation Rec (2002) 5 sur la protection des femmes contre la violence,
 
-gardant à l’esprit les recommandations suivantes de l’Assemblée parlementaire du Conseil de l’Europe: Recommandation 1325 (1997) relative à la traite des femmes et à la prostitution forcée dans les Etats membres du Conseil de l’Europe; Recommandation 1450 (2000) sur la violence à l’encontre des femmes en Europe; Recommandation 1545 (2002) campagne contre la traite des femmes; Recommandation 1610 (2003) migrations liées à la traite des femmes et à la prostitution; Recommandation 1611 (2003) trafic d’organes en Europe; Recommandation 1663 (2004) esclavage domestique: servitude, personnes au pair et épouses achetées par correspondance;
+gardant à l’esprit les recommandations suivantes de l’Assemblée parlementaire du Conseil de l’Europe: Recommandation 1325 (1997) relative à la traite des femmes et à la prostitution forcée dans les États membres du Conseil de l’Europe; Recommandation 1450 (2000) sur la violence à l’encontre des femmes en Europe; Recommandation 1545 (2002) campagne contre la traite des femmes; Recommandation 1610 (2003) migrations liées à la traite des femmes et à la prostitution; Recommandation 1611 (2003) trafic d’organes en Europe; Recommandation 1663 (2004) esclavage domestique: servitude, personnes au pair et épouses achetées par correspondance,
 
-gardant à l’esprit la Décision-cadre du Conseil de l’Union européenne du 19 juillet 2002 relative à la lutte contre la traite des êtres humains; la Décision-cadre du Conseil de l’Union européenne du 15 mars 2001 relative au statut des victimes dans le cadre des procédures pénales et la Directive du Conseil de l’Union européenne du 29 avril 2004 relative au titre de séjour délivré aux ressortissants des Pays tiers qui sont victimes de la traite des êtres humains ou ont fait l’objet d’une aide à l’immigration clandestine et qui coopèrent avec les autorités compétentes;
+gardant à l’esprit la Décision-cadre du Conseil de l’Union européenne du 19 juillet 2002 relative à la lutte contre la traite des êtres humains; la Décision-cadre du Conseil de l’Union européenne du 15 mars 2001 relative au statut des victimes dans le cadre des procédures pénales et la Directive du Conseil de l’Union européenne du 29 avril 2004 relative au titre de séjour délivré aux ressortissants des Pays tiers qui sont victimes de la traite des êtres humains ou ont fait l’objet d’une aide à l’immigration clandestine et qui coopèrent avec les autorités compétentes,
 
-tenant dûment compte de la Convention des Nations Unies contre la criminalité transnationale organisée[^ingress-2] et son Protocole visant à prévenir, réprimer et punir la traite des personnes, en particulier des femmes et des enfants[^ingress-3], afin de renforcer la protection assurée par ces instruments et de développer les normes qu’ils énoncent;
+tenant dûment compte de la Convention des Nations Unies contre la criminalité transnationale organisée[^ingress-2] et son Protocole visant à prévenir, réprimer et punir la traite des personnes, en particulier des femmes et des enfants[^ingress-3], afin de renforcer la protection assurée par ces instruments et de développer les normes qu’ils énoncent,
 
-tenant dûment compte des autres instruments juridiques internationaux pertinents dans le domaine de la lutte contre la traite des êtres humains;
+tenant dûment compte des autres instruments juridiques internationaux pertinents dans le domaine de la lutte contre la traite des êtres humains,
 
 tenant compte du besoin d’élaborer un instrument juridique international global qui soit centré sur les droits de la personne humaine des victimes de la traite et qui mette en place un mécanisme de suivi spécifique,
 
@@ -143,7 +137,7 @@ Afin de décourager la demande qui favorise toutes les formes d’exploitation d
 
 <sup>2</sup> Chaque Partie adopte les mesures législatives ou autres appropriées pour prévenir, dans la mesure du possible, l’utilisation des moyens de transport exploités par des transporteurs commerciaux pour la commission des infractions établies conformément à la présente Convention.
 
-<sup>3</sup> Lorsqu’il y a lieu, et sans préjudice des conventions internationales applicables, ces mesures consistent notamment à prévoir l’obligation pour les transporteurs commerciaux, y compris toute compagnie de transport ou tout propriétaire ou exploitant d’un quelconque moyen de transport, de vérifier que tous les passagers sont en possession des documents de voyage requis pour l’entrée dans l’Etat d’accueil.
+<sup>3</sup> Lorsqu’il y a lieu, et sans préjudice des conventions internationales applicables, ces mesures consistent notamment à prévoir l’obligation pour les transporteurs commerciaux, y compris toute compagnie de transport ou tout propriétaire ou exploitant d’un quelconque moyen de transport, de vérifier que tous les passagers sont en possession des documents de voyage requis pour l’entrée dans l’État d’accueil.
 
 <sup>4</sup> Chaque Partie prend les mesures nécessaires, conformément à son droit interne, pour assortir de sanctions l’obligation énoncée au par. 3 du présent article.
 
@@ -157,14 +151,14 @@ Afin de décourager la demande qui favorise toutes les formes d’exploitation d
 
 Chaque Partie prend les mesures nécessaires,
 
-- a) pour faire en sorte que les documents de voyage ou d’identité qu’elle délivre soient d’une qualité telle qu’on ne puisse facilement en faire un usage impropre ni les falsifier ou les modifier, les reproduire ou les délivrer illicitement; et
+- a) pour faire en sorte que les documents de voyage ou d’identité qu’elle délivre soient d’une qualité telle qu’on ne puisse facilement en faire un usage impropre ni les falsifier ou les modifier, les reproduire ou les délivrer illicitement, et
 - b) pour assurer l’intégrité et la sécurité des documents de voyage ou d’identité délivrés par elle ou en son nom et pour empêcher qu’ils ne soient créés et délivrés illicitement.
 
 #### Art. 9
 
 **Légitimité et validité des documents**
 
-A la demande d’une autre Partie, une Partie vérifie, conformément à son droit interne et dans un délai raisonnable, la légitimité et la validité des documents de voyage ou d’identité délivrés ou censés avoir été délivrés en son nom et dont on soupçonne qu’ils sont utilisés pour la traite des êtres humains.
+À la demande d’une autre Partie, une Partie vérifie, conformément à son droit interne et dans un délai raisonnable, la légitimité et la validité des documents de voyage ou d’identité délivrés ou censés avoir été délivrés en son nom et dont on soupçonne qu’ils sont utilisés pour la traite des êtres humains.
 
 ## Chapitre III Mesures visant à protéger et promouvoir les droits des victimes, en garantissant l’égalité entre les femmes et les hommes
 
@@ -270,21 +264,21 @@ Chaque Partie délivre un permis de séjour renouvelable aux victimes, soit dans
 
 <sup>1</sup> La Partie dont une victime est ressortissante ou dans laquelle elle avait le droit de résider à titre permanent au moment de son entrée sur le territoire de la Partie d’accueil facilite et accepte, en tenant dûment compte des droits, de la sécurité et de la dignité de cette personne, le retour de celle-ci sans retard injustifié ou déraisonnable.
 
-<sup>2</sup> Lorsqu’une Partie renvoie une victime dans un autre Etat, ce retour est assuré compte dûment tenu des droits, de la sécurité et de la dignité de la personne et de l’état de toute procédure judiciaire liée au fait qu’elle est une victime et est de préférence volontaire.
+<sup>2</sup> Lorsqu’une Partie renvoie une victime dans un autre État, ce retour est assuré compte dûment tenu des droits, de la sécurité et de la dignité de la personne et de l’état de toute procédure judiciaire liée au fait qu’elle est une victime et est de préférence volontaire.
 
-<sup>3</sup> A la demande d’une Partie d’accueil, une Partie requise vérifie si une personne est son ressortissant ou avait le droit de résider à titre permanent sur son territoire au moment de son entrée sur le territoire de la Partie d’accueil.
+<sup>3</sup> À la demande d’une Partie d’accueil, une Partie requise vérifie si une personne est son ressortissant ou avait le droit de résider à titre permanent sur son territoire au moment de son entrée sur le territoire de la Partie d’accueil.
 
 <sup>4</sup> Afin de faciliter le retour d’une victime qui ne possède pas les documents requis, la Partie dont cette personne est ressortissante ou dans laquelle elle avait le droit de résider à titre permanent au moment de son entrée sur le territoire de la Partie d’accueil accepte de délivrer, à la demande de la Partie d’accueil, les documents de voyage ou toute autre autorisation nécessaire pour permettre à la personne de se rendre et d’être réadmise sur son territoire.
 
-<sup>5</sup> Chaque Partie prend les mesures législatives ou autres nécessaires pour mettre en place des programmes de rapatriement avec la participation des institutions nationales ou internationales et des organisations non gouvernementales concernées. Ces programmes visent à éviter la re-victimisation. Chaque Partie devrait déployer tous les efforts pour favoriser la réinsertion des victimes dans la société de l’Etat de retour, y compris la réinsertion dans le système éducatif et le marché du travail, notamment par l’acquisition et l’amélioration de compétences professionnelles. En ce qui concerne les enfants, ces programmes devraient inclure la jouissance du droit à l’éducation, ainsi que des mesures visant à leur assurer le bénéfice d’une prise en charge ou d’un accueil adéquats par leur famille ou des structures d’accueil appropriées.
+<sup>5</sup> Chaque Partie prend les mesures législatives ou autres nécessaires pour mettre en place des programmes de rapatriement avec la participation des institutions nationales ou internationales et des organisations non gouvernementales concernées. Ces programmes visent à éviter la re-victimisation. Chaque Partie devrait déployer tous les efforts pour favoriser la réinsertion des victimes dans la société de l’État de retour, y compris la réinsertion dans le système éducatif et le marché du travail, notamment par l’acquisition et l’amélioration de compétences professionnelles. En ce qui concerne les enfants, ces programmes devraient inclure la jouissance du droit à l’éducation, ainsi que des mesures visant à leur assurer le bénéfice d’une prise en charge ou d’un accueil adéquats par leur famille ou des structures d’accueil appropriées.
 
 <sup>6</sup> Chaque Partie prend les mesures législatives ou autres nécessaires pour mettre à la disposition des victimes, le cas échéant en collaboration avec toute Partie concernée, des renseignements sur les instances susceptibles de les aider dans le pays où ces victimes sont retournées ou rapatriées, telles que les services de détection et de répression, les organisations non gouvernementales, les professions juridiques susceptibles de leur donner des conseils et les organismes sociaux.
 
-<sup>7</sup> Les enfants victimes ne sont pas rapatriés dans un Etat, si, à la suite d’une évaluation portant sur les risques et la sécurité, il apparaît que le retour n’est pas dans l’intérêt supérieur de l’enfant.
+<sup>7</sup> Les enfants victimes ne sont pas rapatriés dans un État, si, à la suite d’une évaluation portant sur les risques et la sécurité, il apparaît que le retour n’est pas dans l’intérêt supérieur de l’enfant.
 
 #### Art. 17
 
-**Egalité entre les femmes et les hommes**
+**Égalité entre les femmes et les hommes**
 
 Lorsqu’elle applique les mesures prévues au présent chapitre, chaque Partie vise à promouvoir l’égalité entre les femmes et les hommes et a recours à l’approche intégrée de l’égalité dans le développement, la mise en œuvre et l’évaluation de ces mesures.
 
@@ -381,7 +375,7 @@ Chaque Partie prévoit, conformément aux principes fondamentaux de son système
 
 <sup>1</sup> Chaque Partie s’assure que les enquêtes ou les poursuites concernant les infractions établies conformément à la présente Convention ne soient pas subordonnées à la déclaration ou à l’accusation émanant d’une victime, du moins quand l’infraction a été commise, en tout ou en partie, sur son territoire.
 
-<sup>2</sup> Chaque Partie veille à ce que les victimes d’une infraction commise sur le territoire d’une Partie autre que celle dans laquelle elles résident puissent porter plainte auprès des autorités compétentes de leur Etat de résidence. L’autorité compétente auprès de laquelle la plainte a été déposée, dans la mesure où elle n’exerce pas elle-même sa compétence à cet égard, la transmet sans délai à l’autorité compétente de la Partie sur le territoire de laquelle l’infraction a été commise. Cette plainte est traitée selon le droit interne de la Partie où l’infraction a été commise.
+<sup>2</sup> Chaque Partie veille à ce que les victimes d’une infraction commise sur le territoire d’une Partie autre que celle dans laquelle elles résident puissent porter plainte auprès des autorités compétentes de leur État de résidence. L’autorité compétente auprès de laquelle la plainte a été déposée, dans la mesure où elle n’exerce pas elle-même sa compétence à cet égard, la transmet sans délai à l’autorité compétente de la Partie sur le territoire de laquelle l’infraction a été commise. Cette plainte est traitée selon le droit interne de la Partie où l’infraction a été commise.
 
 <sup>3</sup> Chaque Partie assure, au moyen de mesures législatives ou autres, aux conditions prévues par son droit interne, aux groupes, fondations, associations ou organisations non gouvernementale qui ont pour objectif de lutter contre la traite des êtres humains ou de protéger les droits de la personne humaine, la possibilité d’assister et/ou de soutenir la victime qui y consent au cours des procédures pénales concernant l’infraction établie conformément à l’art. 18 de la présente Convention.
 
@@ -404,7 +398,7 @@ Chaque Partie adopte les mesures législatives ou autres nécessaires pour assur
 
 <sup>4</sup> Chaque Partie adopte les mesures législatives ou autres nécessaires pour assurer, si nécessaire, une protection appropriée face aux représailles ou intimidations possibles, notamment au cours des enquêtes et des poursuites à l’encontre des auteurs ou après celles-ci, aux membres des groupes, fondations, associations ou organisations non gouvernementales qui exercent une ou plusieurs des activités énoncées à l’art. 27, par. 3.
 
-<sup>5</sup> Chaque Partie envisage la conclusion d’accords ou d’arrangements avec d’autres Etats afin de mettre en œuvre le présent article.
+<sup>5</sup> Chaque Partie envisage la conclusion d’accords ou d’arrangements avec d’autres États afin de mettre en œuvre le présent article.
 
 #### Art. 29
 
@@ -416,7 +410,7 @@ Chaque Partie adopte les mesures législatives ou autres nécessaires pour assur
 
 <sup>3</sup> Chaque Partie dispense ou renforce la formation des agents responsables de la prévention et de la lutte contre la traite des êtres humains, y compris la formation aux Droits de la personne humaine. Cette formation peut être adaptée aux différents services et est axée, le cas échéant, sur les méthodes utilisées pour empêcher la traite, en poursuivre les auteurs et protéger les droits des victimes, y compris la protection des victimes contre les trafiquants.
 
-<sup>4</sup> Chaque Partie envisage de nommer des Rapporteurs Nationaux ou d’autres mécanismes chargés du suivi des activités de lutte contre la traite menées par les institutions de l’Etat et de la mise en œuvre des obligations prévues par la législation nationale.
+<sup>4</sup> Chaque Partie envisage de nommer des Rapporteurs Nationaux ou d’autres mécanismes chargés du suivi des activités de lutte contre la traite menées par les institutions de l’État et de la mise en œuvre des obligations prévues par la législation nationale.
 
 #### Art. 30
 
@@ -437,10 +431,10 @@ Dans le respect de la Convention de Sauvegarde des Droits de l’Homme et des Li
 
 Chaque Partie adopte les mesures législatives et autres qui se révèlent nécessaires pour établir sa compétence à l’égard de toute infraction pénale établie conformément à la présente Convention, lorsque l’infraction est commise:
 
-- a) sur son territoire; ou
-- b) à bord d’un navire battant pavillon de cette Partie; ou
-- c) à bord d’un aéronef immatriculé selon les lois de cette Partie; ou
-- d) par un de ses ressortissants, ou par un apatride ayant sa résidence habituelle sur son territoire, si l’infraction est punissable pénalement là où elle a été commise ou si elle ne relève de la compétence territoriale d’aucun Etat; ou
+- a) sur son territoire, ou
+- b) à bord d’un navire battant pavillon de cette Partie, ou
+- c) à bord d’un aéronef immatriculé selon les lois de cette Partie, ou
+- d) par un de ses ressortissants, ou par un apatride ayant sa résidence habituelle sur son territoire, si l’infraction est punissable pénalement là où elle a été commise ou si elle ne relève de la compétence territoriale d’aucun État, ou
 - e) à l’encontre de l’un de ses ressortissants.
 
 <sup>2</sup> Chaque Partie peut, au moment de la signature ou du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, dans une déclaration adressée au Secrétaire Général du Conseil de l’Europe, préciser qu’il se réserve le droit de ne pas appliquer, ou de n’appliquer que dans des cas ou conditions spécifiques, les règles de compétence définies au par. 1(d) et (e) du présent article ou dans une partie quelconque de ces paragraphes.
@@ -469,7 +463,7 @@ Les Parties coopèrent, conformément aux dispositions de la présente Conventio
 
 <sup>1</sup> Si une Partie, sur la foi d’informations dont elle dispose, a des motifs raisonnables de croire que la vie, la liberté ou l’intégrité physique d’une personne visée à l’art. 28, par. 1, est en danger immédiat sur le territoire d’une autre Partie, elle doit, dans un tel cas d’urgence, les transmettre sans délai à cette autre Partie afin qu’elle prenne les mesures de protection appropriées.
 
-<sup>2</sup> Les Parties à la présente Convention peuvent envisager de renforcer leur coopération dans la recherche des personnes disparues, en particulier des enfants, si des informations disponibles peuvent laisser penser qu’elles sont victimes de la traite des êtres humains. A cette fin, Les Parties peuvent conclure entre elles des traités bilatéraux ou multilatéraux.
+<sup>2</sup> Les Parties à la présente Convention peuvent envisager de renforcer leur coopération dans la recherche des personnes disparues, en particulier des enfants, si des informations disponibles peuvent laisser penser qu’elles sont victimes de la traite des êtres humains. À cette fin, Les Parties peuvent conclure entre elles des traités bilatéraux ou multilatéraux.
 
 #### Art. 34
 
@@ -487,7 +481,7 @@ Les Parties coopèrent, conformément aux dispositions de la présente Conventio
 
 **Coopération avec la société civile**
 
-Chaque Partie encourage les autorités de l’Etat, ainsi que les agents publics, à coopérer avec les organisations non-gouvernementales, les autres organisations pertinentes et les membres de la société civile, afin d’établir des partenariats stratégiques pour atteindre les buts de la présente Convention.
+Chaque Partie encourage les autorités de l’État, ainsi que les agents publics, à coopérer avec les organisations non-gouvernementales, les autres organisations pertinentes et les membres de la société civile, afin d’établir des partenariats stratégiques pour atteindre les buts de la présente Convention.
 
 ## Chapitre VII Mécanisme de suivi
 
@@ -497,7 +491,7 @@ Chaque Partie encourage les autorités de l’Etat, ainsi que les agents publics
 
 <sup>1</sup> Le Groupe d’experts sur la lutte contre la traite des êtres humains (ci-après dénommé «GRETA») est chargé de veiller à la mise en œuvre de la présente Convention par les Parties.
 
-<sup>2</sup> Le GRETA est composé de 10 membres au minimum et de 15 membres au maximum. La composition du GRETA tient compte d’une participation équilibrée entres les femmes et les hommes et d’une participation géographiquement équilibrée, ainsi que d’une expertise multidisciplinaire. Ses membres sont élus par le Comité des Parties pour un mandat de 4 ans, renouvelable une fois, parmi les ressortissants des Etats Parties à la présente Convention.
+<sup>2</sup> Le GRETA est composé de 10 membres au minimum et de 15 membres au maximum. La composition du GRETA tient compte d’une participation équilibrée entres les femmes et les hommes et d’une participation géographiquement équilibrée, ainsi que d’une expertise multidisciplinaire. Ses membres sont élus par le Comité des Parties pour un mandat de 4 ans, renouvelable une fois, parmi les ressortissants des États Parties à la présente Convention.
 
 <sup>3</sup>
 
@@ -505,7 +499,7 @@ L’élection des membres du GRETA se fonde sur les principes suivants:
 
 - a) ils sont choisis parmi des personnalités de haute moralité connues pour leur compétence en matière de droits de la personne humaine, assistance et protection des victimes et lutte contre la traite des êtres humains ou ayant une expérience professionnelle dans les domaines dont traite la présente Convention;
 - b) ils siègent à titre individuel, sont indépendants et impartiaux dans l’exercice de leurs mandats et se rendent disponibles pour remplir leurs fonctions de manière effective;
-- c) le GRETA ne peut comprendre plus d’un national du même Etat;
+- c) le GRETA ne peut comprendre plus d’un national du même État;
 - d) ils devraient représenter les principaux systèmes juridiques.
 
 <sup>4</sup> La procédure d’élection des membres du GRETA est fixée par le Comité des Ministres, après consultation des Parties à la Convention et en avoir obtenu l’assentiment unanime, dans un délai d’un an à compter de l’entrée en vigueur de la présente Convention. Le GRETA adopte ses propres règles de procédure.
@@ -514,7 +508,7 @@ L’élection des membres du GRETA se fonde sur les principes suivants:
 
 **Comité des Parties**
 
-<sup>1</sup> Le Comité des Parties est composé des représentants au Comité des Ministres du Conseil de l’Europe des Etats membres Parties à la Convention et des représentants des Parties à la Convention qui ne sont pas membres du Conseil de l’Europe.
+<sup>1</sup> Le Comité des Parties est composé des représentants au Comité des Ministres du Conseil de l’Europe des États membres Parties à la Convention et des représentants des Parties à la Convention qui ne sont pas membres du Conseil de l’Europe.
 
 <sup>2</sup> Le Comité des Parties est convoqué par le Secrétaire général du Conseil de l’Europe. Sa première réunion doit se tenir dans un délai d’un an suivant l’entrée en vigueur de la présente Convention afin d’élire les membres du GRETA. Il se réunira par la suite à la demande d’un tiers des Parties, du Président du GRETA ou du Secrétaire général.
 
@@ -556,7 +550,7 @@ La présente Convention ne porte pas atteinte aux droits et obligations découla
 
 <sup>3</sup> Les Parties qui sont membres de l’Union européenne appliquent, dans leurs relations mutuelles, les règles de la Communauté et de l’Union européenne dans la mesure où il existe des règles de la Communauté ou de l’Union européenne régissant le sujet particulier concerné et applicables au cas d’espèce, sans préjudice de l’objet et du but de la présente Convention et sans préjudice de son entière application à l’égard des autres Parties.
 
-<sup>4</sup> Aucune disposition de la présente Convention n’a d’incidences sur les droits, obligations et responsabilités des Etats et des particuliers en vertu du droit international, y compris du droit international humanitaire et du droit international relatif aux droits de l’homme et en particulier, lorsqu’ils s’appliquent, de la Convention de 1951[^40-1] et du Protocole de 1967[^40-2] relatifs au statut des réfugiés ainsi que du principe de non-refoulement qui y est énoncé.
+<sup>4</sup> Aucune disposition de la présente Convention n’a d’incidences sur les droits, obligations et responsabilités des États et des particuliers en vertu du droit international, y compris du droit international humanitaire et du droit international relatif aux droits de l’homme et en particulier, lorsqu’ils s’appliquent, de la Convention de 1951[^40-1] et du Protocole de 1967[^40-2] relatifs au statut des réfugiés ainsi que du principe de non-refoulement qui y est énoncé.
 
 [^40-1]: [RS 0.142.30](https://fedlex.data.admin.ch/eli/cc/1955/443_461_469)
 [^40-2]: [RS 0.142.301](https://fedlex.data.admin.ch/eli/cc/1968/1189_1233_1148)
@@ -567,7 +561,7 @@ La présente Convention ne porte pas atteinte aux droits et obligations découla
 
 **Amendements**
 
-<sup>1</sup> Tout amendement à la présente Convention proposé par une Partie devra être communiqué au Secrétaire Général du Conseil de l’Europe et être transmis par ce dernier aux Etats membres du Conseil de l’Europe, à tout autre Etat signataire, à tout Etat Partie, à la Communauté européenne et à tout Etat invité à signer la présente Convention, conformément aux dispositions de l’art. 42, ainsi qu’à tout Etat qui a été invité à adhérer à la présente Convention conformément aux dispositions de l’art. 43.
+<sup>1</sup> Tout amendement à la présente Convention proposé par une Partie devra être communiqué au Secrétaire Général du Conseil de l’Europe et être transmis par ce dernier aux États membres du Conseil de l’Europe, à tout autre État signataire, à tout État Partie, à la Communauté européenne et à tout État invité à signer la présente Convention, conformément aux dispositions de l’art. 42, ainsi qu’à tout État qui a été invité à adhérer à la présente Convention conformément aux dispositions de l’art. 43.
 
 <sup>2</sup> Tout amendement proposé par une Partie sera communiqué au GRETA, qui transmettra au Comité des Ministres son avis sur l’amendement proposé.
 
@@ -583,21 +577,21 @@ La présente Convention ne porte pas atteinte aux droits et obligations découla
 
 **Signature et entrée en vigueur**
 
-<sup>1</sup> La présente Convention est ouverte à la signature des Etats membres du Conseil de l’Europe**,** des Etats non membres ayant participé à son élaboration, ainsi que de la Communauté européenne.
+<sup>1</sup> La présente Convention est ouverte à la signature des États membres du Conseil de l’Europe**,** des États non membres ayant participé à son élaboration, ainsi que de la Communauté européenne.
 
 <sup>2</sup> La présente Convention est soumise à ratification, acceptation ou approbation. Les instruments de ratification, d’acceptation ou d’approbation sont déposés près le Secrétaire Général du Conseil de l’Europe.
 
-<sup>3</sup> La présente Convention entrera en vigueur le premier jour du mois suivant l’expiration d’une période de trois mois après la date à laquelle 10 Signataires, dont au moins 8 Etats membres du Conseil de l’Europe, auront exprimé leur consentement à être liés par la Convention, conformément aux dispositions du paragraphe précédent.
+<sup>3</sup> La présente Convention entrera en vigueur le premier jour du mois suivant l’expiration d’une période de trois mois après la date à laquelle 10 Signataires, dont au moins 8 États membres du Conseil de l’Europe, auront exprimé leur consentement à être liés par la Convention, conformément aux dispositions du paragraphe précédent.
 
-<sup>4</sup> Si un Etat visé au par. 1, ou la Communauté européenne, exprime ultérieurement son consentement à être lié par la Convention, cette dernière entrera en vigueur, à son égard, le premier jour du mois suivant l’expiration d’une période de trois mois après la date du dépôt de l’instrument de ratification, d’acceptation ou d’approbation.
+<sup>4</sup> Si un État visé au par. 1, ou la Communauté européenne, exprime ultérieurement son consentement à être lié par la Convention, cette dernière entrera en vigueur, à son égard, le premier jour du mois suivant l’expiration d’une période de trois mois après la date du dépôt de l’instrument de ratification, d’acceptation ou d’approbation.
 
 #### Art. 43
 
 **Adhésion à la Convention**
 
-<sup>1</sup> Après l’entrée en vigueur de la présente Convention, le Comité des Ministres du Conseil de l’Europe pourra, après consultation des Parties à la Convention et en avoir obtenu l’assentiment unanime, inviter tout Etat non membre du Conseil de l’Europe n’ayant pas participé à l’élaboration de la Convention à adhérer à la présente Convention par une décision prise à la majorité prévue à l’art. 20 d. du Statut du Conseil de l’Europe[^43-1], et à l’unanimité des voix des représentants des Etats contractantsayant le droit de siéger au Comité des Ministres.
+<sup>1</sup> Après l’entrée en vigueur de la présente Convention, le Comité des Ministres du Conseil de l’Europe pourra, après consultation des Parties à la Convention et en avoir obtenu l’assentiment unanime, inviter tout État non membre du Conseil de l’Europe n’ayant pas participé à l’élaboration de la Convention à adhérer à la présente Convention par une décision prise à la majorité prévue à l’art. 20 d. du Statut du Conseil de l’Europe[^43-1], et à l’unanimité des voix des représentants des États contractantsayant le droit de siéger au Comité des Ministres.
 
-<sup>2</sup> Pour tout Etat adhérent, la Convention entrera en vigueur le premier jour du mois suivant l’expiration d’une période de trois mois après la date du dépôt de l’instrument d’adhésion près le Secrétaire Général du Conseil de l’Europe.
+<sup>2</sup> Pour tout État adhérent, la Convention entrera en vigueur le premier jour du mois suivant l’expiration d’une période de trois mois après la date du dépôt de l’instrument d’adhésion près le Secrétaire Général du Conseil de l’Europe.
 
 [^43-1]: [RS 0.192.030](https://fedlex.data.admin.ch/eli/cc/1963/772_769_797)
 
@@ -605,7 +599,7 @@ La présente Convention ne porte pas atteinte aux droits et obligations découla
 
 **Application territoriale**
 
-<sup>1</sup> Tout Etat, ou la Communauté européenne, peut, au moment de la signature ou au moment du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, désigner le ou les territoires auxquels s’appliquera la présente Convention.
+<sup>1</sup> Tout État, ou la Communauté européenne, peut, au moment de la signature ou au moment du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, désigner le ou les territoires auxquels s’appliquera la présente Convention.
 
 <sup>2</sup> Toute Partie peut, à tout autre moment par la suite, par une déclaration adressée au Secrétaire Général du Conseil de l’Europe, étendre l’application de la présente Convention à tout autre territoire désigné dans cette déclaration et dont il assure les relations internationales ou au nom duquel il est autorisé à prendre des engagements. La Convention entrera en vigueur à l’égard de ce territoire le premier jour du mois suivant l’expiration d’une période de trois mois après la date de réception de la déclaration par le Secrétaire Général.
 
@@ -629,7 +623,7 @@ Aucune réserve n’est admise aux dispositions de la présente Convention, à l
 
 **Notification**
 
-Le Secrétaire Général du Conseil de l’Europe notifiera aux Etats membres du Conseil de l’Europe, à tout Etat signataire, à tout Etat Partie, à la Communauté européenne, à tout Etat ayant été invité à signer la présente Convention conformément à l’art. 42, et à tout Etat invité à adhérer à la Convention, conformément à l’art. 43:
+Le Secrétaire Général du Conseil de l’Europe notifiera aux États membres du Conseil de l’Europe, à tout État signataire, à tout État Partie, à la Communauté européenne, à tout État ayant été invité à signer la présente Convention conformément à l’art. 42, et à tout État invité à adhérer à la Convention, conformément à l’art. 43:
 
 - a) toute signature;
 - b) le dépôt de tout instrument de ratification, d’acceptation, d’approbation ou d’adhésion;
@@ -639,12 +633,12 @@ Le Secrétaire Général du Conseil de l’Europe notifiera aux Etats membres du
 - f) tout autre acte, notification ou communication ayant trait à la présente Convention;
 - g) toute réserve en vertu de l’art. 45.
 
-*En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Varsovie, le 16 mai 2005, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des Etats membres du Conseil de l’Europe, aux Etats non membres ayant participé à l’élaboration de la présente Convention, à la Communauté européenne et à tout autre Etat invité à adhérer à la présente Convention. (Suivent les signatures)
+*En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Varsovie, le 16 mai 2005, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des États membres du Conseil de l’Europe, aux États non membres ayant participé à l’élaboration de la présente Convention, à la Communauté européenne et à tout autre État invité à adhérer à la présente Convention. (Suivent les signatures)
 
-Champ d’application le 31 mai 2019**[^t-2]**
+Champ d’application le 16 juillet 2024[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie</td><td>6 février</td><td>2007</td><td>1<sup>er</sup> février</td><td>2008</td></tr>
 <tr><td>Allemagne\*</td><td>19 décembre</td><td>2012</td><td>1<sup>er</sup> avril</td><td>2013</td></tr>
 <tr><td>Andorre</td><td>23 mars</td><td>2011</td><td>1<sup>er</sup> juillet</td><td>2011</td></tr>
@@ -659,7 +653,7 @@ Champ d’application le 31 mai 2019**[^t-2]**
 <tr><td>Croatie</td><td>5 septembre</td><td>2007</td><td>1<sup>er</sup> février</td><td>2008</td></tr>
 <tr><td>Danemark\*</td><td>19 septembre</td><td>2007</td><td>1<sup>er</sup> février</td><td>2008</td></tr>
 <tr><td>Espagne\*</td><td>2 avril</td><td>2009</td><td>1<sup>er</sup> août</td><td>2009</td></tr>
-<tr><td>Estonie<sup>\*</sup></td><td>5 février</td><td>2015</td><td>1<sup>er</sup> juin</td><td>2015</td></tr>
+<tr><td>Estonie\*</td><td>5 février</td><td>2015</td><td>1<sup>er</sup> juin</td><td>2015</td></tr>
 <tr><td>Finlande\*</td><td>30 mai</td><td>2012</td><td>1<sup>er</sup> septembre</td><td>2012</td></tr>
 <tr><td>France\*</td><td>9 février</td><td>2008</td><td>1<sup>er</sup> mai</td><td>2008</td></tr>
 <tr><td>Géorgie\*</td><td>14 mars</td><td>2007</td><td>1<sup>er</sup> février</td><td>2008</td></tr>
@@ -667,6 +661,7 @@ Champ d’application le 31 mai 2019**[^t-2]**
 <tr><td>Hongrie</td><td>4 avril</td><td>2013</td><td>1<sup>er</sup> août</td><td>2013</td></tr>
 <tr><td>Irlande</td><td>13 juillet</td><td>2010</td><td>1<sup>er</sup> novembre</td><td>2010</td></tr>
 <tr><td>Islande</td><td>23 février</td><td>2012</td><td>1<sup>er</sup> juin</td><td>2012</td></tr>
+<tr><td>Israël\*</td><td>28 mai</td><td>2021 A</td><td>1<sup>er</sup> septembre</td><td>2021</td></tr>
 <tr><td>Italie</td><td>29 novembre</td><td>2010</td><td>1<sup>er</sup> mars</td><td>2011</td></tr>
 <tr><td>Lettonie\*</td><td>6 mars</td><td>2008</td><td>1<sup>er</sup> juillet</td><td>2008</td></tr>
 <tr><td>Liechtenstein</td><td>27 janvier</td><td>2016</td><td>1<sup>er</sup> mai</td><td>2016</td></tr>
@@ -675,10 +670,11 @@ Champ d’application le 31 mai 2019**[^t-2]**
 <tr><td>Macédoine du Nord\*</td><td>27 mai</td><td>2009</td><td>1<sup>er</sup> septembre</td><td>2009</td></tr>
 <tr><td>Malte\*</td><td>30 janvier</td><td>2008</td><td>1<sup>er</sup> mai</td><td>2008</td></tr>
 <tr><td>Moldova\*</td><td>19 mai</td><td>2006</td><td>1<sup>er</sup> février</td><td>2008</td></tr>
-<tr><td>Monaco<sup>\*</sup></td><td>30 novembre</td><td>2015</td><td>1<sup>er</sup> mars</td><td>2016</td></tr>
+<tr><td>Monaco\*</td><td>30 novembre</td><td>2015</td><td>1<sup>er</sup> mars</td><td>2016</td></tr>
 <tr><td>Monténégro</td><td>30 juillet</td><td>2008</td><td>1<sup>er</sup> novembre</td><td>2008</td></tr>
 <tr><td>Norvège</td><td>17 janvier</td><td>2008</td><td>1<sup>er</sup> mai</td><td>2008</td></tr>
 <tr><td>Pays-Bas\*</td><td>22 avril</td><td>2010</td><td>1<sup>er</sup> août</td><td>2010</td></tr>
+<tr><td>Curaçao\*</td><td>1<sup>er</sup> mars</td><td>2024</td><td>1<sup>er</sup> mars</td><td>2024</td></tr>
 <tr><td>Pologne\*</td><td>17 novembre</td><td>2008</td><td>1<sup>er</sup> mars</td><td>2009</td></tr>
 <tr><td>Portugal\*</td><td>27 février</td><td>2008</td><td>1<sup>er</sup> juin</td><td>2008</td></tr>
 <tr><td>République tchèque\*</td><td>29 mars</td><td>2017</td><td>1<sup>er</sup> juillet</td><td>2017</td></tr>
@@ -688,14 +684,14 @@ Champ d’application le 31 mai 2019**[^t-2]**
 <tr><td>Serbie</td><td>14 avril</td><td>2009</td><td>1<sup>er</sup> août</td><td>2009</td></tr>
 <tr><td>Slovaquie</td><td>27 mars</td><td>2007</td><td>1<sup>er</sup> février</td><td>2008</td></tr>
 <tr><td>Slovénie\*</td><td>3 septembre</td><td>2009</td><td>1<sup>er</sup> janvier</td><td>2010</td></tr>
-<tr><td>Suisse\*</td><td>17 décembre</td><td>2012</td><td>1<sup>er</sup> avril</td><td>2013</td></tr>
 <tr><td>Suède\*</td><td>31 mai</td><td>2010</td><td>1<sup>er</sup> septembre</td><td>2010</td></tr>
+<tr><td>Suisse\*</td><td>17 décembre</td><td>2012</td><td>1<sup>er</sup> avril</td><td>2013</td></tr>
 <tr><td>Turquie\*</td><td>2 mai</td><td>2016</td><td>1<sup>er</sup> septembre</td><td>2016</td></tr>
-<tr><td>Ukraine<sup>\*</sup></td><td>29 novembre</td><td>2010</td><td>1<sup>er</sup> mars</td><td>2011</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO, à l’exception des réserves et déclarations de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td>Ukraine\*</td><td>29 novembre</td><td>2010</td><td>1<sup>er</sup> mars</td><td>2011</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO, à l’exception des réserves et déclarations de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: [www.coe.int](http://www.coe.int) &gt; Explorer &gt; Bureau des Traités &gt; Liste complète ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 2013 475](https://fedlex.data.admin.ch/eli/oc/2013/94), [2016 1009](https://fedlex.data.admin.ch/eli/oc/2016/183), [2019 1795](https://fedlex.data.admin.ch/eli/oc/2019/330). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2013 475](https://fedlex.data.admin.ch/eli/oc/2013/94); [2016 1009](https://fedlex.data.admin.ch/eli/oc/2016/183); [2019 1795](https://fedlex.data.admin.ch/eli/oc/2019/330); [2024 371](https://fedlex.data.admin.ch/eli/oc/2024/371). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
 
 Réserves et déclarations
 
