@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordonnance concernant le financement initial visant à encourager des projets de numérisation présentant un grand intérêt public
 document: Projet mis en consultation
 language: fr

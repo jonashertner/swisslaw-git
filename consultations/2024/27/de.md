@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnung über die Anschubfinanzierung zur Förderung von Digitalisierungsprojekten von hohem öffentlichem Interesse
 document: Vernehmlassungsvorlage
 language: de

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordinanza sul finanziamento iniziale per il promovimento di progetti di digitalizzazione di grande interesse pubblico
 document: Progetto posto in consultazione
 language: it
