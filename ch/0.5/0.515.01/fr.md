@@ -3,11 +3,11 @@ sr: "0.515.01"
 title: "Traité du 5 août 1963 interdisant les essais d'armes nucléaires dans l'atmosphère, dans l'espace cosmique et sous l'eau"
 eli: "https://fedlex.data.admin.ch/eli/cc/1964/195_190_191"
 language: fr
-version: 2009-10-06
+version: 2024-07-17
 adopted: 1963-08-05
 in_force: 1964-01-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1964/195_190_191/20091006/fr/xml/fedlex-data-admin-ch-eli-cc-1964-195_190_191-20091006-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1964/195_190_191/20091006/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1964/195_190_191/20240717/fr/xml/fedlex-data-admin-ch-eli-cc-1964-195_190_191-20240717-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1964/195_190_191/20240717/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,19 +18,13 @@ RO **1964** 190; FF **1963** II 601
 
 Traduction
 
-Conclu à Moscou le 5 août 1963
+Conclu à Moscou le 5 août 1963 Approuvé par l’Assemblée fédérale le 18 décembre 1963[^t-1] Instrument de ratification déposé par la Suisse le 16 janvier 1964 Entré en vigueur pour la Suisse le 16 janvier 1964
 
-Approuvé par l’Assemblée fédérale le 18 décembre 1963[^t-1]
-
-Instrument de ratification déposé par la Suisse le 16 janvier 1964
-
-Entré en vigueur pour la Suisse le 16 janvier 1964
-
-(Etat le 6 octobre 2009)
+(État le 17 juillet 2024)
 
 [^t-1]: [RO 1964 189](https://fedlex.data.admin.ch/eli/oc/1964/193_189_189)
 
-Les Gouvernements des Etats‑Unis d’Amérique, du Royaume‑Uni de Grande‑Bretagne et d’Irlande du Nord et de l’Union des Républiques socialistes soviétiques, appelés ci‑après «parties originaires»,
+Les Gouvernements des États‑Unis d’Amérique, du Royaume‑Uni de Grande‑Bretagne et d’Irlande du Nord et de l’Union des Républiques socialistes soviétiques, appelés ci‑après «parties originaires»,
 
 proclamant que leur objectif principal est la réalisation, dans les délais les plus rapides, d’un accord portant sur un désarmement général et complet sous un contrôle international strict, conformément aux buts des Nations Unies, accord qui mettrait fin à la course aux armements et ferait cesser toute incitation à la production et aux expériences de tous genres d’armes, dont les armes nucléaires,
 
@@ -44,8 +38,8 @@ sont convenus de ce qui suit:
 
 Chacune des parties à ce traité s’engage à interdire, à empêcher et à s’abstenir de réaliser toute explosion expérimentale d’armes nucléaires, ou toute autre explosion nucléaire, en tout lieu situé sous sa juridiction ou son contrôle:
 
-- a. dans l’atmosphère, au‑delà de ses limites, y compris l’espace cosmique, ou sous l’eau, y compris les eaux territoriales ou la haute mer; ou
-- b. dans tout autre lieu si une telle explosion provoque la chute de déchets radioactifs en dehors des limites territoriales de l’Etat sous la juridiction ou le contrôle duquel a été réalisée l’explosion. Il est convenu à ce sujet que les stipulations de ce sous‑paragraphe ne préjugeront pas la conclusion d’un traité interdisant d’une façon permanente toutes les expériences nucléaires, y compris toutes les explosions souterraines, traité à la conclusion duquel les parties, ainsi qu’elles l’ont déclaré dans le préambule du présent traité, s’efforcent de parvenir.
+- a. dans l’atmosphère, au‑delà de ses limites, y compris l’espace cosmique, ou sous l’eau, y compris les eaux territoriales ou la haute mer, ou
+- b. dans tout autre lieu si une telle explosion provoque la chute de déchets radioactifs en dehors des limites territoriales de l’État sous la juridiction ou le contrôle duquel a été réalisée l’explosion. Il est convenu à ce sujet que les stipulations de ce sous‑paragraphe ne préjugeront pas la conclusion d’un traité interdisant d’une façon permanente toutes les expériences nucléaires, y compris toutes les explosions souterraines, traité à la conclusion duquel les parties, ainsi qu’elles l’ont déclaré dans le préambule du présent traité, s’efforcent de parvenir.
 
 <sup>2.</sup> Chacune des parties à ce traité s’engage de plus à s’abstenir de provoquer, d’encourager ou de participer de quelque manière que ce soit, à l’exécution de toute explosion expérimentale d’armes nucléaires, ou de toute autre explosion nucléaire, qui se déroulerait où que ce soit dans les lieux cités ci‑dessus ou qui aurait les conséquences mentionnées dans le par. 1 de cet article.
 
@@ -57,15 +51,15 @@ Chacune des parties à ce traité s’engage à interdire, à empêcher et à s�
 
 #### Art. III
 
-<sup>1.</sup> Ce traité sera ouvert à la signature de tout Etat. Tout Etat qui n’aurait pas signé ce traité avant son entrée en vigueur, selon le par. 3 de cet article, pourra y adhérer à tout moment.
+<sup>1.</sup> Ce traité sera ouvert à la signature de tout État. Tout État qui n’aurait pas signé ce traité avant son entrée en vigueur, selon le par. 3 de cet article, pourra y adhérer à tout moment.
 
-<sup>2.</sup> Ce traité sera soumis à la ratification des Etats signataires. Les instruments de ratification et les instruments d’adhésion seront déposés auprès des Gouvernements des parties originaires – les Etats‑Unis d’Amérique, le Royaume‑Uni de Grande-Bretagne et d’Irlande du Nord et l’Union des Républiques socialistes soviétiques – qui sont, par le présent traité, désignés comme Gouvernements dépositaires.
+<sup>2.</sup> Ce traité sera soumis à la ratification des États signataires. Les instruments de ratification et les instruments d’adhésion seront déposés auprès des Gouvernements des parties originaires – les États‑Unis d’Amérique, le Royaume‑Uni de Grande-Bretagne et d’Irlande du Nord et l’Union des Républiques socialistes soviétiques – qui sont, par le présent traité, désignés comme Gouvernements dépositaires.
 
 <sup>3.</sup> Ce traité entrera en vigueur après sa ratification par toutes les parties originaires et après le dépôt de leurs instruments de ratification.
 
-<sup>4.</sup> Pour les Etats dont les instruments de ratification ou d’adhésion seront déposés ultérieurement à l’entrée en vigueur de ce traité, ce dernier entrera en vigueur à la date du dépôt de leurs instruments de ratification ou d’adhésion.
+<sup>4.</sup> Pour les États dont les instruments de ratification ou d’adhésion seront déposés ultérieurement à l’entrée en vigueur de ce traité, ce dernier entrera en vigueur à la date du dépôt de leurs instruments de ratification ou d’adhésion.
 
-<sup>5.</sup> Les Gouvernements dépositaires informeront rapidement tous les Etats signataires et adhérents de la date de chaque signature, de la date du dépôt de chaque instrument de ratification de ce traité et d’adhésion à celui‑ci, de la date de son entrée en vigueur et de la date de réception de toute demande visant des conférences ou d’autres communications.
+<sup>5.</sup> Les Gouvernements dépositaires informeront rapidement tous les États signataires et adhérents de la date de chaque signature, de la date du dépôt de chaque instrument de ratification de ce traité et d’adhésion à celui‑ci, de la date de son entrée en vigueur et de la date de réception de toute demande visant des conférences ou d’autres communications.
 
 <sup>6.</sup> Ce traité sera enregistré par les Gouvernements dépositaires conformément à l’art. 102 de la Charte des Nations Unies[^III-1].
 
@@ -79,14 +73,14 @@ Chaque partie, dans l’exercice de sa souveraineté nationale, aura le droit de
 
 #### Art. V
 
-Ce traité, dont les textes anglais et russe font également foi, sera déposé dans les archives des Gouvernements dépositaires. Des copies dûment certifiées seront transmises par les Gouvernements dépositaires aux Gouvernements des Etats signataires et adhérents.
+Ce traité, dont les textes anglais et russe font également foi, sera déposé dans les archives des Gouvernements dépositaires. Des copies dûment certifiées seront transmises par les Gouvernements dépositaires aux Gouvernements des États signataires et adhérents.
 
 *En foi de quoi,* les soussignés, dûment autorisés, ont signé ce traité. Fait à Moscou, en trois exemplaires, le cinq août mil neuf cent soixante-trois. (Suivent les signatures)
 
-Champ d’application le 6 octobre 2009**[^t-2]**
+Champ d’application le 17 juillet 2024[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification<sup>a</sup> Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification <sup>a</sup> Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afghanistan</td><td>12 mars</td><td>1964</td><td>12 mars</td><td>1964</td></tr>
 <tr><td>Afrique du Sud</td><td>10 octobre</td><td>1963 A</td><td>10 octobre</td><td>1963</td></tr>
 <tr><td>Allemagne</td><td>1<sup>er</sup> décembre</td><td>1964</td><td>1<sup>er</sup> décembre</td><td>1964</td></tr>
@@ -117,11 +111,12 @@ Champ d’application le 6 octobre 2009**[^t-2]**
 <tr><td>Côte d’Ivoire</td><td>5 février</td><td>1965</td><td>5 février</td><td>1965</td></tr>
 <tr><td>Croatie</td><td>12 juin</td><td>1993 S</td><td>8 octobre</td><td>1991</td></tr>
 <tr><td>Danemark</td><td>15 janvier</td><td>1964</td><td>15 janvier</td><td>1964</td></tr>
-<tr><td>Egypte</td><td>10 janvier</td><td>1964</td><td>10 janvier</td><td>1964</td></tr>
+<tr><td>Égypte</td><td>10 janvier</td><td>1964</td><td>10 janvier</td><td>1964</td></tr>
 <tr><td>El Salvador</td><td>3 décembre</td><td>1964</td><td>3 décembre</td><td>1964</td></tr>
-<tr><td>Equateur</td><td>6 mai</td><td>1964</td><td>6 mai</td><td>1964</td></tr>
+<tr><td>Équateur</td><td>6 mai</td><td>1964</td><td>6 mai</td><td>1964</td></tr>
 <tr><td>Espagne</td><td>17 décembre</td><td>1964</td><td>17 décembre</td><td>1964</td></tr>
-<tr><td>Etats-Unis</td><td>10 octobre</td><td>1963</td><td>10 octobre</td><td>1963</td></tr>
+<tr><td>Eswatini</td><td>29 mai</td><td>1969 A</td><td>29 mai</td><td>1969</td></tr>
+<tr><td>États-Unis</td><td>10 octobre</td><td>1963</td><td>10 octobre</td><td>1963</td></tr>
 <tr><td>Fidji</td><td>18 juillet</td><td>1972 S</td><td>10 octobre</td><td>1970</td></tr>
 <tr><td>Finlande</td><td>9 janvier</td><td>1964</td><td>9 janvier</td><td>1964</td></tr>
 <tr><td>Gabon</td><td>20 février</td><td>1964</td><td>20 février</td><td>1964</td></tr>
@@ -140,10 +135,11 @@ Champ d’application le 6 octobre 2009**[^t-2]**
 <tr><td>Islande</td><td>29 avril</td><td>1964</td><td>29 avril</td><td>1964</td></tr>
 <tr><td>Israël</td><td>15 janvier</td><td>1964</td><td>15 janvier</td><td>1964</td></tr>
 <tr><td>Italie</td><td>10 décembre</td><td>1964</td><td>10 décembre</td><td>1964</td></tr>
+<tr><td>Jamaïque</td><td>22 novembre</td><td>1991</td><td>22 novembre</td><td>1991</td></tr>
 <tr><td>Japon</td><td>15 juin</td><td>1964</td><td>15 juin</td><td>1964</td></tr>
 <tr><td>Jordanie</td><td>29 mai</td><td>1964</td><td>29 mai</td><td>1964</td></tr>
 <tr><td>Kenya</td><td>10 juin</td><td>1965 A</td><td>10 juin</td><td>1965</td></tr>
-<tr><td>Koweït<sup>\*</sup></td><td>20 mai</td><td>1965</td><td>20 mai</td><td>1965</td></tr>
+<tr><td>Koweït\*</td><td>20 mai</td><td>1965</td><td>20 mai</td><td>1965</td></tr>
 <tr><td>Laos</td><td>10 février</td><td>1965</td><td>10 février</td><td>1965</td></tr>
 <tr><td>Liban</td><td>14 mai</td><td>1965</td><td>14 mai</td><td>1965</td></tr>
 <tr><td>Libéria</td><td>19 mai</td><td>1964</td><td>19 mai</td><td>1964</td></tr>
@@ -170,9 +166,11 @@ Champ d’application le 6 octobre 2009**[^t-2]**
 <tr><td>Pakistan</td><td>3 mars</td><td>1988</td><td>3 mars</td><td>1988</td></tr>
 <tr><td>Panama</td><td>24 février</td><td>1966</td><td>24 février</td><td>1966</td></tr>
 <tr><td>Papouasie-Nouvelle-Guinée</td><td>27 octobre</td><td>1980 S</td><td>16 septembre</td><td>1975</td></tr>
-<tr><td>Pays-Bas</td><td>14 septembre</td><td>1964</td><td>14 septembre</td><td>1964</td></tr>
-<tr><td>[tab] Antilles néerlandaises</td><td>14 septembre</td><td>1964</td><td>14 septembre</td><td>1964</td></tr>
-<tr><td>[tab] Aruba</td><td>20 décembre</td><td>1985</td><td>1<sup>er</sup> janvier</td><td>1986</td></tr>
+<tr><td>Pays-Bas\*</td><td>14 septembre</td><td>1964</td><td>14 septembre</td><td>1964</td></tr>
+<tr><td>Aruba</td><td>14 septembre</td><td>1964</td><td>14 septembre</td><td>1964</td></tr>
+<tr><td>Curaçao</td><td>14 septembre</td><td>1964</td><td>14 septembre</td><td>1964</td></tr>
+<tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>14 septembre</td><td>1964</td><td>14 septembre</td><td>1964</td></tr>
+<tr><td>Sint Maarten</td><td>14 septembre</td><td>1964</td><td>14 septembre</td><td>1964</td></tr>
 <tr><td>Pérou</td><td>20 juillet</td><td>1964</td><td>20 juillet</td><td>1964</td></tr>
 <tr><td>Philippines</td><td>10 novembre</td><td>1965</td><td>10 novembre</td><td>1965</td></tr>
 <tr><td>Pologne</td><td>14 octobre</td><td>1963</td><td>14 octobre</td><td>1963</td></tr>
@@ -197,7 +195,6 @@ Champ d’application le 6 octobre 2009**[^t-2]**
 <tr><td>Suède</td><td>9 décembre</td><td>1963</td><td>9 décembre</td><td>1963</td></tr>
 <tr><td>Suisse</td><td>16 janvier</td><td>1964</td><td>16 janvier</td><td>1964</td></tr>
 <tr><td>Suriname</td><td>6 janvier</td><td>1993 A</td><td>6 janvier</td><td>1993</td></tr>
-<tr><td>Swaziland</td><td>29 mai</td><td>1969 A</td><td>29 mai</td><td>1969</td></tr>
 <tr><td>Syrie</td><td>1<sup>er</sup> juin</td><td>1964</td><td>1<sup>er</sup> juin</td><td>1964</td></tr>
 <tr><td>Taiwan (Taipei chinois)</td><td>18 mai</td><td>1964</td><td>18 mai</td><td>1964</td></tr>
 <tr><td>Tanzanie</td><td>6 février</td><td>1964</td><td>6 février</td><td>1964</td></tr>
@@ -213,8 +210,7 @@ Champ d’application le 6 octobre 2009**[^t-2]**
 <tr><td>Venezuela</td><td>22 février</td><td>1965</td><td>22 février</td><td>1965</td></tr>
 <tr><td>Yémen</td><td>1<sup>er</sup> juin</td><td>1979 A</td><td>1<sup>er</sup> juin</td><td>1979</td></tr>
 <tr><td>Zambie</td><td>11 janvier</td><td>1965 S</td><td>24 octobre</td><td>1964</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes pourront être obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Les instruments de ratification ou d’adhésion ou les déclarations de succession sont déposés auprès des Gouvernements des Etats-Unis, du Royaume-Uni et de la Fédération de Russie, soit simultanément, soit à des dates différentes, ou seulement auprès de l’un ou de plusieurs des Gouvernements précités. Les dates figurant dans la présente liste sont celles qui sont relatives à la première ratification, adhésion ou déclaration de succession intervenue.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être consultés sur les sites Internet des Gouvernements dépositaires du Royaume-Uni de Grande-Bretagne et d’Irlande du Nord ([https://www.gov.uk/government/publications/treaty-banning-nuclear-weapon-tests-in-the-atmosphere-in-outer-space-and-under-water-moscow-581963](https://www.gov.uk/government/publications/treaty-banning-nuclear-weapon-tests-in-the-atmosphere-in-outer-space-and-under-water-moscow-581963)) et des États-Unis d’Amérique ([https://www.state.gov/limited-test-ban-treaty](https://www.state.gov/limited-test-ban-treaty)) – ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Les instruments de ratification ou d’adhésion ou les déclarations de succession sont déposés auprès des Gouvernements des États-Unis, du Royaume-Uni et de la Fédération de Russie, soit simultanément, soit à des dates différentes, ou seulement auprès de l’un ou de plusieurs des Gouvernements précités. Les dates figurant dans la présente liste sont celles qui sont relatives à la première ratification, adhésion ou déclaration de succession intervenue.</td></tr>
 </table>
 
-[^t-2]: Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1973 694](https://fedlex.data.admin.ch/eli/oc/1973/694_694_695); [1979 954](https://fedlex.data.admin.ch/eli/oc/1979/954_954_954); [1982 1315](https://fedlex.data.admin.ch/eli/oc/1982/1315_1315_1315); [1986 523](https://fedlex.data.admin.ch/eli/oc/1986/523_523_523); [1989 186](https://fedlex.data.admin.ch/eli/oc/1989/186_186_186); [2005 1205](https://fedlex.data.admin.ch/eli/oc/2005/167); [2009 5377](https://fedlex.data.admin.ch/eli/oc/2009/643); [2024 379](https://fedlex.data.admin.ch/eli/oc/2024/379). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

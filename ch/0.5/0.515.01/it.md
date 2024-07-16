@@ -3,28 +3,24 @@ sr: "0.515.01"
 title: "Accordo del 5 agosto 1963 sulla proibizione degli esperimenti con armi nucleari nell'atmosfera, nello spazio e sott'acqua"
 eli: "https://fedlex.data.admin.ch/eli/cc/1964/195_190_191"
 language: it
-version: 2009-10-06
+version: 2024-07-17
 adopted: 1963-08-05
 in_force: 1964-01-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1964/195_190_191/20091006/it/xml/fedlex-data-admin-ch-eli-cc-1964-195_190_191-20091006-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1964/195_190_191/20091006/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1964/195_190_191/20240717/it/xml/fedlex-data-admin-ch-eli-cc-1964-195_190_191-20240717-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1964/195_190_191/20240717/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Accordo sulla proibizione degli esperimenti con armi nucleari nell’atmosfera, nello spazio e sott’acqua
 
+RU **1964** 191; FF **1963** 1349
+
 Traduzione
 
-Conchiuso a Mosca il 5 agosto 1963
+Conchiuso a Mosca il 5 agosto 1963 Approvato dall’Assemblea federale il 18 dicembre 1963[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 16 gennaio 1964 Entrato in vigore per la Svizzera il 16 gennaio 1964
 
-Approvato dall’Assemblea federale il 18 dicembre 1963[^t-1]
-
-Istrumento di ratificazione depositato dalla Svizzera il 16 gennaio 1964
-
-Entrato in vigore per la Svizzera il 16 gennaio 1964
-
-(Stato 6 ottobre 2009)
+(Stato 17 luglio 2024)
 
 [^t-1]: [RU 1964 189](https://fedlex.data.admin.ch/eli/oc/1964/193_189_189)
 
@@ -81,138 +77,141 @@ L’accordo, i cui testi in lingua inglese e russa fanno parimente fede, sarà d
 
 *In fede di che,* i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato l’accordo. Fatto a Mosca, in tre esemplari, il cinque agosto millenovecentosessantatre. (Seguono le firme)
 
-Campo d'applicazione il 6 ottobre 2009**[^t-2]**
+Campo d’applicazione il 17 luglio 2024[^t-2]
 
 <table>
-<tr><th colspan="2">Stati partecipanti</th><th>Ratifica<sup>a</sup> Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
-<tr><td colspan="2">Afghanistan</td><td>12 marzo</td><td>1964</td><td>12 marzo</td><td>1964</td></tr>
-<tr><td colspan="2">Antigua e Barbuda</td><td>16 novembre</td><td>1988 S</td><td>1° novembre</td><td>1981</td></tr>
-<tr><td colspan="2">Argentina</td><td>14 novembre</td><td>1986</td><td>14 novembre</td><td>1986</td></tr>
-<tr><td colspan="2">Armenia</td><td>7 giugno</td><td>1994 A</td><td>7 giugno</td><td>1994</td></tr>
-<tr><td colspan="2">Australia</td><td>12 novembre</td><td>1963</td><td>12 novembre</td><td>1963</td></tr>
-<tr><td colspan="2">Austria</td><td>17 luglio</td><td>1964</td><td>17 luglio</td><td>1964</td></tr>
-<tr><td colspan="2">Bahamas</td><td>16 luglio</td><td>1976 S</td><td>10 luglio</td><td>1973</td></tr>
-<tr><td colspan="2">Bangladesh</td><td>12 marzo</td><td>1985 A</td><td>12 marzo</td><td>1985</td></tr>
-<tr><td colspan="2">Belarus</td><td>16 dicembre</td><td>1963</td><td>16 dicembre</td><td>1963</td></tr>
-<tr><td colspan="2">Belgio</td><td>1° marzo</td><td>1966</td><td>1° marzo</td><td>1966</td></tr>
-<tr><td colspan="2">Benin</td><td>15 dicembre</td><td>1964</td><td>15 dicembre</td><td>1964</td></tr>
-<tr><td colspan="2">Bhutan</td><td>8 giugno</td><td>1978 A</td><td>8 giugno</td><td>1978</td></tr>
-<tr><td colspan="2">Bolivia</td><td>4 agosto</td><td>1965</td><td>4 agosto</td><td>1965</td></tr>
-<tr><td colspan="2">Bosnia e Erzegovina</td><td>15 agosto</td><td>1994 S</td><td>6 marzo</td><td>1992</td></tr>
-<tr><td colspan="2">Botswana</td><td>5 gennaio</td><td>1968 S</td><td>30 settembre</td><td>1966</td></tr>
-<tr><td colspan="2">Brasile</td><td>15 dicembre</td><td>1964</td><td>15 dicembre</td><td>1964</td></tr>
-<tr><td colspan="2">Bulgaria</td><td>13 novembre</td><td>1963</td><td>13 novembre</td><td>1963</td></tr>
-<tr><td colspan="2">Canada</td><td>28 gennaio</td><td>1964</td><td>28 gennaio</td><td>1964</td></tr>
-<tr><td colspan="2">Capo Verde</td><td>24 ottobre</td><td>1979 A</td><td>24 ottobre</td><td>1979</td></tr>
-<tr><td colspan="2">Ceca, Repubblica</td><td>24 marzo</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
-<tr><td colspan="2">Ciad</td><td>1° marzo</td><td>1965</td><td>1° marzo</td><td>1965</td></tr>
-<tr><td colspan="2">Cile</td><td>6 ottobre</td><td>1965</td><td>6 ottobre</td><td>1965</td></tr>
-<tr><td colspan="2">Cipro</td><td>15 aprile</td><td>1965</td><td>15 aprile</td><td>1965</td></tr>
-<tr><td colspan="2">Colombia</td><td>17 ottobre</td><td>1985</td><td>17 ottobre</td><td>1985</td></tr>
-<tr><td colspan="2">Congo (Kinshasa)</td><td>28 ottobre</td><td>1965</td><td>28 ottobre</td><td>1965</td></tr>
-<tr><td colspan="2">Corea (Sud)</td><td>24 luglio</td><td>1964</td><td>24 luglio</td><td>1964</td></tr>
-<tr><td colspan="2">Costa Rica</td><td>10 luglio</td><td>1967</td><td>10 luglio</td><td>1967</td></tr>
-<tr><td colspan="2">Côte d'Ivoire</td><td>5 febbraio</td><td>1965</td><td>5 febbraio</td><td>1965</td></tr>
-<tr><td colspan="2">Croazia</td><td>12 giugno</td><td>1993 S</td><td>8 ottobre</td><td>1991</td></tr>
-<tr><td colspan="2">Danimarca</td><td>15 gennaio</td><td>1964</td><td>15 gennaio</td><td>1964</td></tr>
-<tr><td colspan="2">Dominicana, Repubblica</td><td>3 giugno</td><td>1964</td><td>3 giugno</td><td>1964</td></tr>
-<tr><td colspan="2">Ecuador</td><td>6 maggio</td><td>1964</td><td>6 maggio</td><td>1964</td></tr>
-<tr><td colspan="2">Egitto</td><td>10 gennaio</td><td>1964</td><td>10 gennaio</td><td>1964</td></tr>
-<tr><td colspan="2">El Salvador</td><td>3 dicembre</td><td>1964</td><td>3 dicembre</td><td>1964</td></tr>
-<tr><td colspan="2">Figi</td><td>18 luglio</td><td>1972 S</td><td>10 ottobre</td><td>1970</td></tr>
-<tr><td colspan="2">Filippine</td><td>10 novembre</td><td>1965</td><td>10 novembre</td><td>1965</td></tr>
-<tr><td colspan="2">Finlandia</td><td>9 gennaio</td><td>1964</td><td>9 gennaio</td><td>1964</td></tr>
-<tr><td colspan="2">Gabon</td><td>20 febbraio</td><td>1964</td><td>20 febbraio</td><td>1964</td></tr>
-<tr><td colspan="2">Gambia</td><td>27 aprile</td><td>1965 S</td><td>18 febbraio</td><td>1965</td></tr>
-<tr><td colspan="2">Germania</td><td>1° dicembre</td><td>1964</td><td>1° dicembre</td><td>1964</td></tr>
-<tr><td colspan="2">Ghana</td><td>27 novembre</td><td>1963</td><td>27 novembre</td><td>1963</td></tr>
-<tr><td colspan="2">Giappone</td><td>15 giugno</td><td>1964</td><td>15 giugno</td><td>1964</td></tr>
-<tr><td colspan="2">Giordania</td><td>29 maggio</td><td>1964</td><td>29 maggio</td><td>1964</td></tr>
-<tr><td colspan="2">Grecia</td><td>18 dicembre</td><td>1963</td><td>18 dicembre</td><td>1963</td></tr>
-<tr><td colspan="2">Guatemala</td><td>6 gennaio</td><td>1964</td><td>6 gennaio</td><td>1964</td></tr>
-<tr><td colspan="2">Guinea equatoriale</td><td>16 gennaio</td><td>1989 A</td><td>16 gennaio</td><td>1989</td></tr>
-<tr><td colspan="2">Honduras</td><td>2 ottobre</td><td>1964</td><td>2 ottobre</td><td>1964</td></tr>
-<tr><td colspan="2">India</td><td>10 ottobre</td><td>1963</td><td>10 ottobre</td><td>1963</td></tr>
-<tr><td colspan="2">Indonesia</td><td>20 gennaio</td><td>1964</td><td>20 gennaio</td><td>1964</td></tr>
-<tr><td colspan="2">Iran</td><td>5 maggio</td><td>1964</td><td>5 maggio</td><td>1964</td></tr>
-<tr><td colspan="2">Iraq</td><td>30 novembre</td><td>1964</td><td>30 novembre</td><td>1964</td></tr>
-<tr><td colspan="2">Irlanda</td><td>18 dicembre</td><td>1963</td><td>18 dicembre</td><td>1963</td></tr>
-<tr><td colspan="2">Islanda</td><td>29 aprile</td><td>1964</td><td>29 aprile</td><td>1964</td></tr>
-<tr><td colspan="2">Israele</td><td>15 gennaio</td><td>1964</td><td>15 gennaio</td><td>1964</td></tr>
-<tr><td colspan="2">Italia</td><td>10 dicembre</td><td>1964</td><td>10 dicembre</td><td>1964</td></tr>
-<tr><td colspan="2">Kenya</td><td>10 giugno</td><td>1965 A</td><td>10 giugno</td><td>1965</td></tr>
-<tr><td colspan="2">Kuwait<sup>\*</sup></td><td>20 maggio</td><td>1965</td><td>20 maggio</td><td>1965</td></tr>
-<tr><td colspan="2">Laos</td><td>10 febbraio</td><td>1965</td><td>10 febbraio</td><td>1965</td></tr>
-<tr><td colspan="2">Libano</td><td>14 maggio</td><td>1965</td><td>14 maggio</td><td>1965</td></tr>
-<tr><td colspan="2">Liberia</td><td>19 maggio</td><td>1964</td><td>19 maggio</td><td>1964</td></tr>
-<tr><td colspan="2">Libia</td><td>15 luglio</td><td>1968</td><td>15 luglio</td><td>1968</td></tr>
-<tr><td colspan="2">Lussemburgo</td><td>10 febbraio</td><td>1965</td><td>10 febbraio</td><td>1965</td></tr>
-<tr><td colspan="2">Madagascar</td><td>15 marzo</td><td>1965</td><td>15 marzo</td><td>1965</td></tr>
-<tr><td colspan="2">Malawi</td><td>26 novembre</td><td>1964 S</td><td>6 luglio</td><td>1964</td></tr>
-<tr><td colspan="2">Malaysia</td><td>15 luglio</td><td>1964</td><td>15 luglio</td><td>1964</td></tr>
-<tr><td colspan="2">Malta</td><td>25 novembre</td><td>1964 S</td><td>21 settembre</td><td>1964</td></tr>
-<tr><td colspan="2">Marocco</td><td>1° febbraio</td><td>1966</td><td>1° febbraio</td><td>1966</td></tr>
-<tr><td colspan="2">Mauritania</td><td>6 aprile</td><td>1964</td><td>6 aprile</td><td>1964</td></tr>
-<tr><td colspan="2">Maurizio</td><td>30 aprile</td><td>1969 S</td><td>12 marzo</td><td>1968</td></tr>
-<tr><td colspan="2">Messico</td><td>27 dicembre</td><td>1963</td><td>27 dicembre</td><td>1963</td></tr>
-<tr><td colspan="2">Mongolia</td><td>1° novembre</td><td>1963</td><td>1° novembre</td><td>1963</td></tr>
-<tr><td colspan="2">Montenegro</td><td>9 gennaio</td><td>2007 S</td><td>3 giugno</td><td>2006</td></tr>
-<tr><td colspan="2">Myanmar</td><td>15 novembre</td><td>1963</td><td>15 novembre</td><td>1963</td></tr>
-<tr><td colspan="2">Nepal</td><td>7 ottobre</td><td>1964</td><td>7 ottobre</td><td>1964</td></tr>
-<tr><td colspan="2">Nicaragua</td><td>26 gennaio</td><td>1965</td><td>26 gennaio</td><td>1965</td></tr>
-<tr><td colspan="2">Niger</td><td>3 luglio</td><td>1964</td><td>3 luglio</td><td>1964</td></tr>
-<tr><td colspan="2">Nigeria</td><td>17 febbraio</td><td>1967</td><td>17 febbraio</td><td>1967</td></tr>
-<tr><td colspan="2">Norvegia</td><td>21 novembre</td><td>1963</td><td>21 novembre</td><td>1963</td></tr>
-<tr><td colspan="2">Nuova Zelanda</td><td>10 ottobre</td><td>1963</td><td>10 ottobre</td><td>1963</td></tr>
-<tr><td colspan="2">Paesi Bassi</td><td>14 settembre</td><td>1964</td><td>14 settembre</td><td>1964</td></tr>
-<tr><td colspan="2">[tab] Antille olandesi</td><td>14 settembre</td><td>1964</td><td>14 settembre</td><td>1964</td></tr>
-<tr><td colspan="2">[tab] Aruba</td><td>20 dicembre</td><td>1985</td><td>1° gennaio</td><td>1986</td></tr>
-<tr><td colspan="2">Pakistan</td><td>3 marzo</td><td>1988</td><td>3 marzo</td><td>1988</td></tr>
-<tr><td colspan="2">Panama</td><td>24 febbraio</td><td>1966</td><td>24 febbraio</td><td>1966</td></tr>
-<tr><td colspan="2">Papua Nuova Guinea</td><td>27 ottobre</td><td>1980 S</td><td>16 settembre</td><td>1975</td></tr>
-<tr><td colspan="2">Perù</td><td>20 luglio</td><td>1964</td><td>20 luglio</td><td>1964</td></tr>
-<tr><td colspan="2">Polonia</td><td>14 ottobre</td><td>1963</td><td>14 ottobre</td><td>1963</td></tr>
-<tr><td colspan="2">Regno Unito</td><td>10 ottobre</td><td>1963</td><td>10 ottobre</td><td>1963</td></tr>
-<tr><td colspan="2">Rep. Centrafricana</td><td>22 dicembre</td><td>1964 A</td><td>22 dicembre</td><td>1964</td></tr>
-<tr><td colspan="2">Romania</td><td>12 dicembre</td><td>1963</td><td>12 dicembre</td><td>1963</td></tr>
-<tr><td colspan="2">Ruanda</td><td>22 ottobre</td><td>1963</td><td>22 ottobre</td><td>1963</td></tr>
-<tr><td colspan="2">Russia</td><td>10 ottobre</td><td>1963</td><td>10 ottobre</td><td>1963</td></tr>
-<tr><td colspan="2">Samoa</td><td>15 gennaio</td><td>1965</td><td>15 gennaio</td><td>1965</td></tr>
-<tr><td colspan="2">San Marino</td><td>3 luglio</td><td>1964</td><td>3 luglio</td><td>1964</td></tr>
-<tr><td colspan="2">Seicelle</td><td>12 marzo</td><td>1985 A</td><td>12 marzo</td><td>1985</td></tr>
-<tr><td colspan="2">Senegal</td><td>6 maggio</td><td>1964</td><td>6 maggio</td><td>1964</td></tr>
-<tr><td colspan="2">Serbia</td><td>15 gennaio</td><td>1964</td><td>15 gennaio</td><td>1964</td></tr>
-<tr><td colspan="2">Sierra Leone</td><td>21 febbraio</td><td>1964</td><td>21 febbraio</td><td>1964</td></tr>
-<tr><td colspan="2">Singapore</td><td>12 luglio</td><td>1968 S</td><td>9 agosto</td><td>1965</td></tr>
-<tr><td colspan="2">Siria</td><td>1° giugno</td><td>1964</td><td>1° giugno</td><td>1964</td></tr>
-<tr><td colspan="2">Slovacchia</td><td>17 maggio</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
-<tr><td colspan="2">Slovenia</td><td>7 aprile</td><td>1992 S</td><td>25 giugno</td><td>1991</td></tr>
-<tr><td colspan="2">Spagna</td><td>17 dicembre</td><td>1964</td><td>17 dicembre</td><td>1964</td></tr>
-<tr><td colspan="2">Sri Lanka</td><td>5 febbraio</td><td>1964</td><td>5 febbraio</td><td>1964</td></tr>
-<tr><td colspan="2">Stati Uniti</td><td>10 ottobre</td><td>1963</td><td>10 ottobre</td><td>1963</td></tr>
-<tr><td colspan="2">Sudafrica</td><td>10 ottobre</td><td>1963 A</td><td>10 ottobre</td><td>1963</td></tr>
-<tr><td colspan="2">Sudan</td><td>4 marzo</td><td>1966</td><td>4 marzo</td><td>1966</td></tr>
-<tr><td colspan="2">Suriname</td><td>6 gennaio</td><td>1993 A</td><td>6 gennaio</td><td>1993</td></tr>
-<tr><td colspan="2">Svezia</td><td>9 dicembre</td><td>1963</td><td>9 dicembre</td><td>1963</td></tr>
-<tr><td colspan="2">Svizzera</td><td>16 gennaio</td><td>1964</td><td>16 gennaio</td><td>1964</td></tr>
-<tr><td colspan="2">Swaziland</td><td>29 maggio</td><td>1969 A</td><td>29 maggio</td><td>1969</td></tr>
-<tr><td colspan="2">Taiwan (Taipei cinese)</td><td>18 maggio</td><td>1964</td><td>18 maggio</td><td>1964</td></tr>
-<tr><td colspan="2">Tanzania</td><td>6 febbraio</td><td>1964</td><td>6 febbraio</td><td>1964</td></tr>
-<tr><td colspan="2">Thailandia</td><td>15 novembre</td><td>1963</td><td>15 novembre</td><td>1963</td></tr>
-<tr><td colspan="2">Togo</td><td>7 dicembre</td><td>1964</td><td>7 dicembre</td><td>1964</td></tr>
-<tr><td colspan="2">Tonga</td><td>22 giugno</td><td>1971 S</td><td>4 giugno</td><td>1970</td></tr>
-<tr><td colspan="2">Trinidad e Tobago</td><td>14 luglio</td><td>1964</td><td>14 luglio</td><td>1964</td></tr>
-<tr><td colspan="2">Tunisia</td><td>26 maggio</td><td>1965</td><td>26 maggio</td><td>1965</td></tr>
-<tr><td colspan="2">Turchia</td><td>8 luglio</td><td>1965</td><td>8 luglio</td><td>1965</td></tr>
-<tr><td colspan="2">Ucraina</td><td>30 dicembre</td><td>1963</td><td>30 dicembre</td><td>1963</td></tr>
-<tr><td colspan="2">Uganda</td><td>24 marzo</td><td>1964</td><td>24 marzo</td><td>1964</td></tr>
-<tr><td colspan="2">Ungheria</td><td>21 ottobre</td><td>1963</td><td>21 ottobre</td><td>1963</td></tr>
-<tr><td colspan="2">Uruguay</td><td>25 febbraio</td><td>1969</td><td>25 febbraio</td><td>1969</td></tr>
-<tr><td colspan="2">Venezuela</td><td>22 febbraio</td><td>1965</td><td>22 febbraio</td><td>1965</td></tr>
-<tr><td colspan="2">Yemen</td><td>1° giugno</td><td>1979 A</td><td>1° giugno</td><td>1979</td></tr>
-<tr><td colspan="2">Zambia</td><td>11 gennaio</td><td>1965 S</td><td>24 ottobre</td><td>1964</td></tr>
-<tr><td><sup>\*</sup></td><td colspan="5">Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://untreaty.un.org/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td><sup>a</sup></td><td colspan="5">Gli strumenti di ratifica o d’adesione sono stati depositati presso i Governi degli Stati Uniti, del Regno Unito e dell’Unione Sovietica, sia simultaneamente, sia in date diverse, sia presso uno o più dei citati Governi. Le date elencate si riferiscono alla prima ratifica, rispettivamente adesione.</td></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica <sup>a</sup> Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Afghanistan</td><td>12 marzo</td><td>1964</td><td>12 marzo</td><td>1964</td></tr>
+<tr><td>Antigua e Barbuda</td><td>16 novembre</td><td>1988 S</td><td>1° novembre</td><td>1981</td></tr>
+<tr><td>Argentina</td><td>14 novembre</td><td>1986</td><td>14 novembre</td><td>1986</td></tr>
+<tr><td>Armenia</td><td>7 giugno</td><td>1994 A</td><td>7 giugno</td><td>1994</td></tr>
+<tr><td>Australia</td><td>12 novembre</td><td>1963</td><td>12 novembre</td><td>1963</td></tr>
+<tr><td>Austria</td><td>17 luglio</td><td>1964</td><td>17 luglio</td><td>1964</td></tr>
+<tr><td>Bahamas</td><td>16 luglio</td><td>1976 S</td><td>10 luglio</td><td>1973</td></tr>
+<tr><td>Bangladesh</td><td>12 marzo</td><td>1985 A</td><td>12 marzo</td><td>1985</td></tr>
+<tr><td>Belarus</td><td>16 dicembre</td><td>1963</td><td>16 dicembre</td><td>1963</td></tr>
+<tr><td>Belgio</td><td>1° marzo</td><td>1966</td><td>1° marzo</td><td>1966</td></tr>
+<tr><td>Benin</td><td>15 dicembre</td><td>1964</td><td>15 dicembre</td><td>1964</td></tr>
+<tr><td>Bhutan</td><td>8 giugno</td><td>1978 A</td><td>8 giugno</td><td>1978</td></tr>
+<tr><td>Bolivia</td><td>4 agosto</td><td>1965</td><td>4 agosto</td><td>1965</td></tr>
+<tr><td>Bosnia e Erzegovina</td><td>15 agosto</td><td>1994 S</td><td>6 marzo</td><td>1992</td></tr>
+<tr><td>Botswana</td><td>5 gennaio</td><td>1968 S</td><td>30 settembre</td><td>1966</td></tr>
+<tr><td>Brasile</td><td>15 dicembre</td><td>1964</td><td>15 dicembre</td><td>1964</td></tr>
+<tr><td>Bulgaria</td><td>13 novembre</td><td>1963</td><td>13 novembre</td><td>1963</td></tr>
+<tr><td>Canada</td><td>28 gennaio</td><td>1964</td><td>28 gennaio</td><td>1964</td></tr>
+<tr><td>Capo Verde</td><td>24 ottobre</td><td>1979 A</td><td>24 ottobre</td><td>1979</td></tr>
+<tr><td>Ceca, Repubblica</td><td>24 marzo</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
+<tr><td>Ciad</td><td>1° marzo</td><td>1965</td><td>1° marzo</td><td>1965</td></tr>
+<tr><td>Cile</td><td>6 ottobre</td><td>1965</td><td>6 ottobre</td><td>1965</td></tr>
+<tr><td>Cipro</td><td>15 aprile</td><td>1965</td><td>15 aprile</td><td>1965</td></tr>
+<tr><td>Colombia</td><td>17 ottobre</td><td>1985</td><td>17 ottobre</td><td>1985</td></tr>
+<tr><td>Congo (Kinshasa)</td><td>28 ottobre</td><td>1965</td><td>28 ottobre</td><td>1965</td></tr>
+<tr><td>Corea (Sud)</td><td>24 luglio</td><td>1964</td><td>24 luglio</td><td>1964</td></tr>
+<tr><td>Costa Rica</td><td>10 luglio</td><td>1967</td><td>10 luglio</td><td>1967</td></tr>
+<tr><td>Côte d'Ivoire</td><td>5 febbraio</td><td>1965</td><td>5 febbraio</td><td>1965</td></tr>
+<tr><td>Croazia</td><td>12 giugno</td><td>1993 S</td><td>8 ottobre</td><td>1991</td></tr>
+<tr><td>Danimarca</td><td>15 gennaio</td><td>1964</td><td>15 gennaio</td><td>1964</td></tr>
+<tr><td>Dominicana, Repubblica</td><td>3 giugno</td><td>1964</td><td>3 giugno</td><td>1964</td></tr>
+<tr><td>Ecuador</td><td>6 maggio</td><td>1964</td><td>6 maggio</td><td>1964</td></tr>
+<tr><td>Egitto</td><td>10 gennaio</td><td>1964</td><td>10 gennaio</td><td>1964</td></tr>
+<tr><td>El Salvador</td><td>3 dicembre</td><td>1964</td><td>3 dicembre</td><td>1964</td></tr>
+<tr><td>Eswatini</td><td>29 maggio</td><td>1969 A</td><td>29 maggio</td><td>1969</td></tr>
+<tr><td>Figi</td><td>18 luglio</td><td>1972 S</td><td>10 ottobre</td><td>1970</td></tr>
+<tr><td>Filippine</td><td>10 novembre</td><td>1965</td><td>10 novembre</td><td>1965</td></tr>
+<tr><td>Finlandia</td><td>9 gennaio</td><td>1964</td><td>9 gennaio</td><td>1964</td></tr>
+<tr><td>Gabon</td><td>20 febbraio</td><td>1964</td><td>20 febbraio</td><td>1964</td></tr>
+<tr><td>Gambia</td><td>27 aprile</td><td>1965 S</td><td>18 febbraio</td><td>1965</td></tr>
+<tr><td>Germania</td><td>1° dicembre</td><td>1964</td><td>1° dicembre</td><td>1964</td></tr>
+<tr><td>Ghana</td><td>27 novembre</td><td>1963</td><td>27 novembre</td><td>1963</td></tr>
+<tr><td>Giamaica</td><td>22 novembre</td><td>1991</td><td>22 novembre</td><td>1991</td></tr>
+<tr><td>Giappone</td><td>15 giugno</td><td>1964</td><td>15 giugno</td><td>1964</td></tr>
+<tr><td>Giordania</td><td>29 maggio</td><td>1964</td><td>29 maggio</td><td>1964</td></tr>
+<tr><td>Grecia</td><td>18 dicembre</td><td>1963</td><td>18 dicembre</td><td>1963</td></tr>
+<tr><td>Guatemala</td><td>6 gennaio</td><td>1964</td><td>6 gennaio</td><td>1964</td></tr>
+<tr><td>Guinea equatoriale</td><td>16 gennaio</td><td>1989 A</td><td>16 gennaio</td><td>1989</td></tr>
+<tr><td>Honduras</td><td>2 ottobre</td><td>1964</td><td>2 ottobre</td><td>1964</td></tr>
+<tr><td>India</td><td>10 ottobre</td><td>1963</td><td>10 ottobre</td><td>1963</td></tr>
+<tr><td>Indonesia</td><td>20 gennaio</td><td>1964</td><td>20 gennaio</td><td>1964</td></tr>
+<tr><td>Iran</td><td>5 maggio</td><td>1964</td><td>5 maggio</td><td>1964</td></tr>
+<tr><td>Iraq</td><td>30 novembre</td><td>1964</td><td>30 novembre</td><td>1964</td></tr>
+<tr><td>Irlanda</td><td>18 dicembre</td><td>1963</td><td>18 dicembre</td><td>1963</td></tr>
+<tr><td>Islanda</td><td>29 aprile</td><td>1964</td><td>29 aprile</td><td>1964</td></tr>
+<tr><td>Israele</td><td>15 gennaio</td><td>1964</td><td>15 gennaio</td><td>1964</td></tr>
+<tr><td>Italia</td><td>10 dicembre</td><td>1964</td><td>10 dicembre</td><td>1964</td></tr>
+<tr><td>Kenya</td><td>10 giugno</td><td>1965 A</td><td>10 giugno</td><td>1965</td></tr>
+<tr><td>Kuwait<sup>\*</sup></td><td>20 maggio</td><td>1965</td><td>20 maggio</td><td>1965</td></tr>
+<tr><td>Laos</td><td>10 febbraio</td><td>1965</td><td>10 febbraio</td><td>1965</td></tr>
+<tr><td>Libano</td><td>14 maggio</td><td>1965</td><td>14 maggio</td><td>1965</td></tr>
+<tr><td>Liberia</td><td>19 maggio</td><td>1964</td><td>19 maggio</td><td>1964</td></tr>
+<tr><td>Libia</td><td>15 luglio</td><td>1968</td><td>15 luglio</td><td>1968</td></tr>
+<tr><td>Lussemburgo</td><td>10 febbraio</td><td>1965</td><td>10 febbraio</td><td>1965</td></tr>
+<tr><td>Madagascar</td><td>15 marzo</td><td>1965</td><td>15 marzo</td><td>1965</td></tr>
+<tr><td>Malawi</td><td>26 novembre</td><td>1964 S</td><td>6 luglio</td><td>1964</td></tr>
+<tr><td>Malaysia</td><td>15 luglio</td><td>1964</td><td>15 luglio</td><td>1964</td></tr>
+<tr><td>Malta</td><td>25 novembre</td><td>1964 S</td><td>21 settembre</td><td>1964</td></tr>
+<tr><td>Marocco</td><td>1° febbraio</td><td>1966</td><td>1° febbraio</td><td>1966</td></tr>
+<tr><td>Mauritania</td><td>6 aprile</td><td>1964</td><td>6 aprile</td><td>1964</td></tr>
+<tr><td>Maurizio</td><td>30 aprile</td><td>1969 S</td><td>12 marzo</td><td>1968</td></tr>
+<tr><td>Messico</td><td>27 dicembre</td><td>1963</td><td>27 dicembre</td><td>1963</td></tr>
+<tr><td>Mongolia</td><td>1° novembre</td><td>1963</td><td>1° novembre</td><td>1963</td></tr>
+<tr><td>Montenegro</td><td>9 gennaio</td><td>2007 S</td><td>3 giugno</td><td>2006</td></tr>
+<tr><td>Myanmar</td><td>15 novembre</td><td>1963</td><td>15 novembre</td><td>1963</td></tr>
+<tr><td>Nepal</td><td>7 ottobre</td><td>1964</td><td>7 ottobre</td><td>1964</td></tr>
+<tr><td>Nicaragua</td><td>26 gennaio</td><td>1965</td><td>26 gennaio</td><td>1965</td></tr>
+<tr><td>Niger</td><td>3 luglio</td><td>1964</td><td>3 luglio</td><td>1964</td></tr>
+<tr><td>Nigeria</td><td>17 febbraio</td><td>1967</td><td>17 febbraio</td><td>1967</td></tr>
+<tr><td>Norvegia</td><td>21 novembre</td><td>1963</td><td>21 novembre</td><td>1963</td></tr>
+<tr><td>Nuova Zelanda</td><td>10 ottobre</td><td>1963</td><td>10 ottobre</td><td>1963</td></tr>
+<tr><td>Paesi Bassi\*</td><td>14 settembre</td><td>1964</td><td>14 settembre</td><td>1964</td></tr>
+<tr><td>Aruba</td><td>14 settembre</td><td>1964</td><td>14 settembre</td><td>1964</td></tr>
+<tr><td>Curaçao</td><td>14 settembre</td><td>1964</td><td>14 settembre</td><td>1964</td></tr>
+<tr><td>Parte caraibica (Bonaire, Sint Eustatius e Saba)</td><td>14 settembre</td><td>1964</td><td>14 settembre</td><td>1964</td></tr>
+<tr><td>Sint Maarten</td><td>14 settembre</td><td>1964</td><td>14 settembre</td><td>1964</td></tr>
+<tr><td>Pakistan</td><td>3 marzo</td><td>1988</td><td>3 marzo</td><td>1988</td></tr>
+<tr><td>Panama</td><td>24 febbraio</td><td>1966</td><td>24 febbraio</td><td>1966</td></tr>
+<tr><td>Papua Nuova Guinea</td><td>27 ottobre</td><td>1980 S</td><td>16 settembre</td><td>1975</td></tr>
+<tr><td>Perù</td><td>20 luglio</td><td>1964</td><td>20 luglio</td><td>1964</td></tr>
+<tr><td>Polonia</td><td>14 ottobre</td><td>1963</td><td>14 ottobre</td><td>1963</td></tr>
+<tr><td>Regno Unito</td><td>10 ottobre</td><td>1963</td><td>10 ottobre</td><td>1963</td></tr>
+<tr><td>Rep. Centrafricana</td><td>22 dicembre</td><td>1964 A</td><td>22 dicembre</td><td>1964</td></tr>
+<tr><td>Romania</td><td>12 dicembre</td><td>1963</td><td>12 dicembre</td><td>1963</td></tr>
+<tr><td>Ruanda</td><td>22 ottobre</td><td>1963</td><td>22 ottobre</td><td>1963</td></tr>
+<tr><td>Russia</td><td>10 ottobre</td><td>1963</td><td>10 ottobre</td><td>1963</td></tr>
+<tr><td>Samoa</td><td>15 gennaio</td><td>1965</td><td>15 gennaio</td><td>1965</td></tr>
+<tr><td>San Marino</td><td>3 luglio</td><td>1964</td><td>3 luglio</td><td>1964</td></tr>
+<tr><td>Seicelle</td><td>12 marzo</td><td>1985 A</td><td>12 marzo</td><td>1985</td></tr>
+<tr><td>Senegal</td><td>6 maggio</td><td>1964</td><td>6 maggio</td><td>1964</td></tr>
+<tr><td>Serbia</td><td>15 gennaio</td><td>1964</td><td>15 gennaio</td><td>1964</td></tr>
+<tr><td>Sierra Leone</td><td>21 febbraio</td><td>1964</td><td>21 febbraio</td><td>1964</td></tr>
+<tr><td>Singapore</td><td>12 luglio</td><td>1968 S</td><td>9 agosto</td><td>1965</td></tr>
+<tr><td>Siria</td><td>1° giugno</td><td>1964</td><td>1° giugno</td><td>1964</td></tr>
+<tr><td>Slovacchia</td><td>17 maggio</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
+<tr><td>Slovenia</td><td>7 aprile</td><td>1992 S</td><td>25 giugno</td><td>1991</td></tr>
+<tr><td>Spagna</td><td>17 dicembre</td><td>1964</td><td>17 dicembre</td><td>1964</td></tr>
+<tr><td>Sri Lanka</td><td>5 febbraio</td><td>1964</td><td>5 febbraio</td><td>1964</td></tr>
+<tr><td>Stati Uniti</td><td>10 ottobre</td><td>1963</td><td>10 ottobre</td><td>1963</td></tr>
+<tr><td>Sudafrica</td><td>10 ottobre</td><td>1963 A</td><td>10 ottobre</td><td>1963</td></tr>
+<tr><td>Sudan</td><td>4 marzo</td><td>1966</td><td>4 marzo</td><td>1966</td></tr>
+<tr><td>Suriname</td><td>6 gennaio</td><td>1993 A</td><td>6 gennaio</td><td>1993</td></tr>
+<tr><td>Svezia</td><td>9 dicembre</td><td>1963</td><td>9 dicembre</td><td>1963</td></tr>
+<tr><td>Svizzera</td><td>16 gennaio</td><td>1964</td><td>16 gennaio</td><td>1964</td></tr>
+<tr><td>Taiwan (Taipei cinese)</td><td>18 maggio</td><td>1964</td><td>18 maggio</td><td>1964</td></tr>
+<tr><td>Tanzania</td><td>6 febbraio</td><td>1964</td><td>6 febbraio</td><td>1964</td></tr>
+<tr><td>Thailandia</td><td>15 novembre</td><td>1963</td><td>15 novembre</td><td>1963</td></tr>
+<tr><td>Togo</td><td>7 dicembre</td><td>1964</td><td>7 dicembre</td><td>1964</td></tr>
+<tr><td>Tonga</td><td>22 giugno</td><td>1971 S</td><td>4 giugno</td><td>1970</td></tr>
+<tr><td>Trinidad e Tobago</td><td>14 luglio</td><td>1964</td><td>14 luglio</td><td>1964</td></tr>
+<tr><td>Tunisia</td><td>26 maggio</td><td>1965</td><td>26 maggio</td><td>1965</td></tr>
+<tr><td>Turchia</td><td>8 luglio</td><td>1965</td><td>8 luglio</td><td>1965</td></tr>
+<tr><td>Ucraina</td><td>30 dicembre</td><td>1963</td><td>30 dicembre</td><td>1963</td></tr>
+<tr><td>Uganda</td><td>24 marzo</td><td>1964</td><td>24 marzo</td><td>1964</td></tr>
+<tr><td>Ungheria</td><td>21 ottobre</td><td>1963</td><td>21 ottobre</td><td>1963</td></tr>
+<tr><td>Uruguay</td><td>25 febbraio</td><td>1969</td><td>25 febbraio</td><td>1969</td></tr>
+<tr><td>Venezuela</td><td>22 febbraio</td><td>1965</td><td>22 febbraio</td><td>1965</td></tr>
+<tr><td>Yemen</td><td>1° giugno</td><td>1979 A</td><td>1° giugno</td><td>1979</td></tr>
+<tr><td>Zambia</td><td>11 gennaio</td><td>1965 S</td><td>24 ottobre</td><td>1964</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi in inglese si possono consultare sul siti internet dei Governi depositari – Regno Unito di Gran Bretagna e dell’Irlanda del Nord ([https://www.gov.uk/government/publications/treaty-banning-nuclear-weapon-tests-in-the-atmosphere-in-outer-space-and-under-water-moscow-581963](https://www.gov.uk/government/publications/treaty-banning-nuclear-weapon-tests-in-the-atmosphere-in-outer-space-and-under-water-moscow-581963)) e gli Stati Uniti d'America ([https://www.state.gov/limited-test-ban-treaty](https://www.state.gov/limited-test-ban-treaty)) – o richiedere alla Direzione del diritto internazionale pubblico (DDIP), Sezione dei trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5"><sup>a</sup> Gli strumenti di ratifica o d’adesione sono stati depositati presso i Governi degli Stati Uniti, del Regno Unito e dell’Unione Sovietica, sia simultaneamente, sia in date diverse, sia presso uno o più dei citati Governi. Le date elencate si riferiscono alla prima ratifica, rispettivamente adesione.</td></tr>
 </table>
 
-[^t-2]: Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (http://www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1964 191](https://fedlex.data.admin.ch/eli/oc/1964/195_190_191); [1973 695](https://fedlex.data.admin.ch/eli/oc/1973/694_694_695); [1979 954](https://fedlex.data.admin.ch/eli/oc/1979/954_954_954); [1982 1315](https://fedlex.data.admin.ch/eli/oc/1982/1315_1315_1315); [1986 523](https://fedlex.data.admin.ch/eli/oc/1986/523_523_523); [1989 186](https://fedlex.data.admin.ch/eli/oc/1989/186_186_186); [2005 1205](https://fedlex.data.admin.ch/eli/oc/2005/167); [2009 5377](https://fedlex.data.admin.ch/eli/oc/2009/643); [2024 379](https://fedlex.data.admin.ch/eli/oc/2024/379). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
