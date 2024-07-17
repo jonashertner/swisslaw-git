@@ -3,11 +3,11 @@ sr: "0.814.296"
 title: Internationales Übereinkommen von 2004 vom 13. Februar 2004 zur Kontrolle und Behandlung von Ballastwasser und Sedimenten von Schiffen (mit Anhang)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/459"
 language: de
-version: 2021-11-24
+version: 2024-07-18
 adopted: 2004-02-13
 in_force: 2017-09-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/459/20211124/de/xml/fedlex-data-admin-ch-eli-cc-2017-459-20211124-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/459/20211124/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/459/20240718/de/xml/fedlex-data-admin-ch-eli-cc-2017-459-20240718-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/459/20240718/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Beitrittsurkunde hinterlegt am 24. September 2013
 
 In Kraft getreten für die Schweiz am 8. September 2017
 
-(Stand am 24. November 2021)
+(Stand am 18. Juli 2024)
 
 [^t-1]: [AS 2013 5523](https://fedlex.data.admin.ch/eli/oc/2013/886)
 
@@ -784,9 +784,9 @@ Ausgestellt nach dem Internationalen Übereinkommen zur Kontrolle und Behandlung
 
 durch
 
-*(vollständige Bezeichnung der gemäss dem Übereinkommen zuständigen Person beziehung**s**weise ermächtigten Stelle)*
+*(vollständige Bezeichnung der gemäss dem Übereinkommen zuständigen Person beziehungsweise ermächtigten Stelle)*
 
-Angaben zum Schiff *[^annexI-lvlu1-lvlu1-1]*
+Angaben zum Schiff [^annexI-lvlu1-lvlu1-1]
 
 Name des Schiffes
 
@@ -1062,7 +1062,7 @@ Unterscheidungssignal:
 <tr><td></td><td>Unterschrift des Kapitäns:</td></tr>
 </table>
 
-Geltungsbereich am 24. November 2021**[^t-2]**
+Geltungsbereich am 18. Juli 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -1075,15 +1075,15 @@ Geltungsbereich am 24. November 2021**[^t-2]**
 <tr><td>Bangladesch</td><td>7. Juni</td><td>2018 B</td><td>7. September</td><td>2018</td></tr>
 <tr><td>Barbados</td><td>11. Mai</td><td>2007 B</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Belarus</td><td>23. März</td><td>2020 B</td><td>23. Juni</td><td>2020</td></tr>
-<tr><td>Belgien</td><td>7. März</td><td>2016</td><td>8. September</td><td>2017</td></tr>
+<tr><td>Belgien</td><td>7. März</td><td>2016 B</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Brasilien</td><td>14. April</td><td>2010</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Bulgarien</td><td>30. April</td><td>2018 B</td><td>30. Juli</td><td>2018</td></tr>
-<tr><td>China</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Hongkong</td><td>13. Mai</td><td>2020</td><td>13. August</td><td>2020</td></tr>
+<tr><td>China</td><td>22. Oktober</td><td>2018 B</td><td>22. Januar</td><td>2019</td></tr>
+<tr><td>Hongkong</td><td>13. August</td><td>2020</td><td>13. August</td><td>2020</td></tr>
 <tr><td>Macau</td><td>22. Januar</td><td>2019</td><td>22. Januar</td><td>2019</td></tr>
-<tr><td>Cook-Inseln</td><td>2. Februar</td><td>2010</td><td>8. September</td><td>2017</td></tr>
-<tr><td>Deutschland</td><td>20. Juni</td><td>2013</td><td>8. September</td><td>2017</td></tr>
-<tr><td>Dänemark\* <sup>a</sup></td><td>11. September</td><td>2012</td><td>8. September</td><td>2017</td></tr>
+<tr><td>Côte d’Ivoire</td><td>17. März</td><td>2023 B</td><td>17. Juni</td><td>2023</td></tr>
+<tr><td>Deutschland</td><td>20. Juni</td><td>2013 B</td><td>8. September</td><td>2017</td></tr>
+<tr><td>Dänemark</td><td>11. September</td><td>2012 B</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Färöer</td><td>28. August</td><td>2015</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Grönland</td><td>16. Dezember</td><td>2020</td><td>16. Dezember</td><td>2020</td></tr>
 <tr><td>Dominikanische Republik</td><td>12. Oktober</td><td>2021 B</td><td>12. Januar</td><td>2022</td></tr>
@@ -1096,17 +1096,20 @@ Geltungsbereich am 24. November 2021**[^t-2]**
 <tr><td>Ghana</td><td>26. November</td><td>2015 B</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Grenada</td><td>26. Juli</td><td>2018 B</td><td>26. Oktober</td><td>2018</td></tr>
 <tr><td>Griechenland</td><td>26. Juni</td><td>2017 B</td><td>26. September</td><td>2017</td></tr>
+<tr><td>Guinea-Bissau</td><td>12. Mai</td><td>2022 B</td><td>12. August</td><td>2022</td></tr>
 <tr><td>Guyana</td><td>20. Februar</td><td>2019 B</td><td>20. Mai</td><td>2019</td></tr>
 <tr><td>Honduras</td><td>10. Juli</td><td>2017 B</td><td>10. Oktober</td><td>2017</td></tr>
-<tr><td>Indonesien</td><td>24. November</td><td>2015</td><td>8. September</td><td>2017</td></tr>
+<tr><td>Indonesien</td><td>24. November</td><td>2015 B</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Irak</td><td>30. September</td><td>2021 B</td><td>30. Dezember</td><td>2021</td></tr>
 <tr><td>Iran\*</td><td>6. April</td><td>2011 B</td><td>8. September</td><td>2017</td></tr>
+<tr><td>Irland</td><td>30. November</td><td>2023 B</td><td>29. Februar</td><td>2024</td></tr>
 <tr><td>Jamaika</td><td>11. September</td><td>2017 B</td><td>11. Dezember</td><td>2017</td></tr>
 <tr><td>Japan\*</td><td>10. Oktober</td><td>2014 B</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Jordanien</td><td>9. September</td><td>2014 B</td><td>8. September</td><td>2017</td></tr>
+<tr><td>Kamerun</td><td>29. Juni</td><td>2022 B</td><td>29. September</td><td>2022</td></tr>
 <tr><td>Kanada</td><td>8. April</td><td>2010 B</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Katar</td><td>8. Februar</td><td>2018 B</td><td>8. Mai</td><td>2018</td></tr>
-<tr><td>Kenia</td><td>14. Januar</td><td>2008</td><td>8. September</td><td>2017</td></tr>
+<tr><td>Kenia</td><td>14. Januar</td><td>2008 B</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Kiribati</td><td>5. Februar</td><td>2007 B</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Kongo (Kinshasa)</td><td>19. Mai</td><td>2014 B</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Korea (Süd-)</td><td>10. Dezember</td><td>2009 B</td><td>8. September</td><td>2017</td></tr>
@@ -1119,19 +1122,22 @@ Geltungsbereich am 24. November 2021**[^t-2]**
 <tr><td>Malaysia</td><td>27. September</td><td>2010 B</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Malediven</td><td>22. Juni</td><td>2005</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Malta</td><td>7. September</td><td>2017 B</td><td>7. Dezember</td><td>2017</td></tr>
-<tr><td>Marokko</td><td>23. November</td><td>2015</td><td>8. September</td><td>2017</td></tr>
+<tr><td>Marokko</td><td>23. November</td><td>2015 B</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Marshallinseln</td><td>26. November</td><td>2009 B</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Mexiko</td><td>18. März</td><td>2008 B</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Mongolei</td><td>28. September</td><td>2011 B</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Montenegro</td><td>29. November</td><td>2011 B</td><td>8. September</td><td>2017</td></tr>
+<tr><td>Myanmar</td><td>17. August</td><td>2022 B</td><td>17. November</td><td>2022</td></tr>
 <tr><td>Namibia</td><td>15. Juli</td><td>2020 B</td><td>15. Oktober</td><td>2020</td></tr>
 <tr><td>Nauru</td><td>23. März</td><td>2020 B</td><td>23. Juni</td><td>2020</td></tr>
 <tr><td>Neuseeland</td><td>9. Januar</td><td>2017 B</td><td>8. September</td><td>2017</td></tr>
+<tr><td>Cook-Inseln</td><td>2. Februar</td><td>2010</td><td>8. September</td><td>2017</td></tr>
+<tr><td>Niue</td><td>18. Mai</td><td>2012 B</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Niederlande</td><td>10. Mai</td><td>2010</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>20. Februar</td><td>2014</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Nigeria</td><td>13. Oktober</td><td>2005 B</td><td>8. September</td><td>2017</td></tr>
-<tr><td>Niue</td><td>18. Mai</td><td>2012 B</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Norwegen</td><td>29. März</td><td>2007 B</td><td>8. September</td><td>2017</td></tr>
+<tr><td>Oman</td><td>1. Februar</td><td>2022 B</td><td>1. Mai</td><td>2022</td></tr>
 <tr><td>Palau</td><td>28. September</td><td>2011 B</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Panama\*</td><td>19. Oktober</td><td>2016 B</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Peru</td><td>10. Juni</td><td>2016 B</td><td>8. September</td><td>2017</td></tr>
@@ -1140,6 +1146,7 @@ Geltungsbereich am 24. November 2021**[^t-2]**
 <tr><td>Portugal</td><td>19. Oktober</td><td>2017 B</td><td>19. Januar</td><td>2018</td></tr>
 <tr><td>Russland</td><td>24. Mai</td><td>2012 B</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Saudi-Arabien</td><td>27. April</td><td>2017 B</td><td>8. September</td><td>2017</td></tr>
+<tr><td>São Tomé und Príncipe</td><td>15. August</td><td>2022 B</td><td>15. November</td><td>2022</td></tr>
 <tr><td>Schweden\*</td><td>24. November</td><td>2009</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Schweiz</td><td>24. September</td><td>2013 B</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Serbien</td><td>26. Juli</td><td>2018 B</td><td>26. Oktober</td><td>2018</td></tr>
@@ -1158,8 +1165,11 @@ Geltungsbereich am 24. November 2021**[^t-2]**
 <tr><td>Tuvalu</td><td>2. Dezember</td><td>2005 B</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Türkei\*</td><td>14. Oktober</td><td>2014 B</td><td>8. September</td><td>2017</td></tr>
 <tr><td>Vereinigte Arabische Emirate</td><td>6. Juni</td><td>2017 B</td><td>8. September</td><td>2017</td></tr>
+<tr><td>Vereinigtes Königreich</td><td>26. Mai</td><td>2022 B</td><td>26. August</td><td>2022</td></tr>
+<tr><td>Bermudas</td><td>8. Mai</td><td>2024</td><td>8. Mai</td><td>2024</td></tr>
+<tr><td>Vietnam</td><td>24. Januar</td><td>2024 B</td><td>24. April</td><td>2024</td></tr>
 <tr><td>Zypern</td><td>8. August</td><td>2018 B</td><td>8. November</td><td>2018</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): www.imo.org &gt; Publications &gt; Catalogue & Code Listings oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für Grönland.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): [www.imo.org](http://www.imo.org) &gt; Qui nous sommes &gt; Conventions &gt; État des conventions &gt; Status Book oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 2017 3837](https://fedlex.data.admin.ch/eli/oc/2017/459), [5879](https://fedlex.data.admin.ch/eli/oc/2017/639); [2018 2785](https://fedlex.data.admin.ch/eli/oc/2018/416), [4079](https://fedlex.data.admin.ch/eli/oc/2018/662); [2020 4343](https://fedlex.data.admin.ch/eli/oc/2020/775); [2021 774](https://fedlex.data.admin.ch/eli/oc/2021/774). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/Treaty.
+[^t-2]: [AS 2017 3837](https://fedlex.data.admin.ch/eli/oc/2017/459), [5879](https://fedlex.data.admin.ch/eli/oc/2017/639); [2018 2785](https://fedlex.data.admin.ch/eli/oc/2018/416), [4079](https://fedlex.data.admin.ch/eli/oc/2018/662); [2020 4343](https://fedlex.data.admin.ch/eli/oc/2020/775); [2021 774](https://fedlex.data.admin.ch/eli/oc/2021/774); [2024 380](https://fedlex.data.admin.ch/eli/oc/2024/380). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)

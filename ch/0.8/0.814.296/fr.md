@@ -3,11 +3,11 @@ sr: "0.814.296"
 title: Convention internationale de 2004 du 13 février 2004 pour le contrôle et la gestion des eaux de ballast et sédiments des navires (avec annexe)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/459"
 language: fr
-version: 2021-11-24
+version: 2024-07-18
 adopted: 2004-02-13
 in_force: 2017-09-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/459/20211124/fr/xml/fedlex-data-admin-ch-eli-cc-2017-459-20211124-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/459/20211124/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/459/20240718/fr/xml/fedlex-data-admin-ch-eli-cc-2017-459-20240718-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/459/20240718/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,15 +18,9 @@ RO **2017** 3837; FF **2012** 7979
 
 Texte original
 
-Conclue à Londres le 13 février 2004
+Conclue à Londres le 13 février 2004 Approuvée par l’Assemblée fédérale le 22 mars 2013[^t-1] Instrument d’adhésion déposé par la Suisse le 24 septembre 2013 Entrée en vigueur pour la Suisse le 8 septembre 2017
 
-Approuvée par l’Assemblée fédérale le 22 mars 2013[^t-1]
-
-Instrument d’adhésion déposé par la Suisse le 24 septembre 2013
-
-Entrée en vigueur pour la Suisse le 8 septembre 2017
-
-(Etat le 24 novembre 2021)
+(État le 18 juillet 2024)
 
 [^t-1]: [RO 2013 5523](https://fedlex.data.admin.ch/eli/oc/2013/886)
 
@@ -121,7 +115,7 @@ Aux fins de la présente Convention, sauf disposition expresse contraire:
 
 Sauf disposition expresse contraire de la présente Convention, celle-ci s’applique:
 
-- a) aux navires qui sont autorisés à battre le pavillon d’une Partie; et
+- a) aux navires qui sont autorisés à battre le pavillon d’une Partie, et
 - b) aux navires qui ne sont pas autorisés à battre le pavillon d’une Partie mais qui sont exploités sous l’autorité d’une Partie.
 
 <sup>2</sup>
@@ -132,7 +126,7 @@ La présente Convention ne s’applique pas:
 - b) aux navires d’une Partie qui sont exploités uniquement dans les eaux relevant de la juridiction de cette Partie, à moins que celle-ci ne décide que le rejet d’eaux de ballast par de tels navires porterait atteinte ou nuirait à son environnement, à la santé humaine, aux biens ou aux ressources, ou à ceux d’États adjacents ou d’autres États;
 - c) aux navires d’une Partie qui sont exploités uniquement dans les eaux relevant de la juridiction d’une autre Partie, à condition que cette exclusion soit autorisée par la seconde Partie. Une Partie ne doit en aucun cas accorder une telle autorisation si cela risque de porter atteinte ou nuire à son environnement, à la santé humaine, aux biens ou aux ressources, ou à ceux d’États adjacents ou d’autres États. Toute Partie qui refuse d’accorder une telle autorisation doit notifier à l’Administration du navire intéressé que la présente Convention s’applique au navire en question;
 - d) aux navires qui sont exploités uniquement dans les eaux relevant de la juridiction d’une Partie et en haute mer, à l’exception de ceux auxquels une autorisation visée à l’al. c) ci-dessus n’a pas été accordée, à moins que cette Partie ne décide que le rejet d’eaux de ballast par de tels navires porterait atteinte ou nuirait à son environnement, à la santé humaine, aux biens ou aux ressources, ou à ceux d’États adjacents ou d’autres États;
-- e) aux navires de guerre, aux navires de guerre auxiliaires ou autres navires appartenant à un État ou exploités par lui et utilisés exclusivement, à l’époque considérée, pour un service public non commercial. Cependant, chaque Partie s’assure, en prenant des mesures appropriées qui ne compromettent pas les opérations ou la capacité opérationnelle des navires de ce type lui appartenant ou exploités par elle, que ceux-ci agissent d’une manière compatible avec la présente Convention, pour autant que cela soit raisonnable et possible dans la pratique; et
+- e) aux navires de guerre, aux navires de guerre auxiliaires ou autres navires appartenant à un État ou exploités par lui et utilisés exclusivement, à l’époque considérée, pour un service public non commercial. Cependant, chaque Partie s’assure, en prenant des mesures appropriées qui ne compromettent pas les opérations ou la capacité opérationnelle des navires de ce type lui appartenant ou exploités par elle, que ceux-ci agissent d’une manière compatible avec la présente Convention, pour autant que cela soit raisonnable et possible dans la pratique, et
 - f) aux eaux de ballast permanentes dans des citernes scellées à bord des navires, qui ne font pas l’objet d’un rejet.
 
 <sup>3</sup> Dans le cas des navires d’États non Parties à la présente Convention, les Parties appliquent les prescriptions de la présente Convention dans la mesure nécessaire pour que ces navires ne bénéficient pas d’un traitement plus favorable.
@@ -161,14 +155,14 @@ La présente Convention ne s’applique pas:
 
 Les Parties s’efforcent, individuellement ou collectivement, de:
 
-- a) promouvoir et faciliter la recherche scientifique et technique en matière de gestion des eaux de ballast; et
+- a) promouvoir et faciliter la recherche scientifique et technique en matière de gestion des eaux de ballast, et
 - b) surveiller les effets de la gestion des eaux de ballast dans les eaux relevant de leur juridiction.
 
 <sup>2</sup>
 
 Pour promouvoir les objectifs de la présente Convention, chaque Partie facilite l’accès des autres Parties qui en font la demande aux renseignements pertinents sur:
 
-- a) les mesures techniques et les programmes scientifiques et technologiques entrepris dans le domaine de la gestion des eaux de ballast; et
+- a) les mesures techniques et les programmes scientifiques et technologiques entrepris dans le domaine de la gestion des eaux de ballast, et
 - b) l’efficacité de la gestion des eaux de ballast, telle qu’observée lors des programmes de surveillance et d’évaluation.
 
 #### Art. 7
@@ -189,7 +183,7 @@ Pour promouvoir les objectifs de la présente Convention, chaque Partie facilite
 
 Toute infraction aux prescriptions de la présente Convention commise dans la juridiction d’une Partie est interdite et sanctionnée par la législation de cette Partie. Chaque fois qu’une telle infraction se produit, la Partie doit:
 
-- a) faire en sorte que des poursuites soient engagées conformément à sa législation; ou
+- a) faire en sorte que des poursuites soient engagées conformément à sa législation, ou
 - b) fournir à l’Administration dont relève le navire en cause les informations et les preuves qu’elle pourrait détenir attestant qu’il y a eu infraction.
 
 <sup>3</sup> Les sanctions prévues par la législation d’une Partie en application du présent article doivent être, par leur rigueur, de nature à décourager les infractions à la présente Convention où qu’elles soient commises.
@@ -202,15 +196,15 @@ Toute infraction aux prescriptions de la présente Convention commise dans la ju
 
 Un navire auquel s’applique la présente Convention peut, dans tout port ou terminal au large d’une autre Partie, être inspecté par des agents dûment autorisés par cette Partie, aux fins de déterminer s’il satisfait à la présente Convention. Sous réserve des dispositions du par. 2 du présent article, une inspection de ce type se limite à:
 
-- a) vérifier que le navire a à bord un certificat valable qui, dans ce cas, doit être accepté; et
-- b) inspecter le registre des eaux de ballast; et/ou
+- a) vérifier que le navire a à bord un certificat valable qui, dans ce cas, doit être accepté, et
+- b) inspecter le registre des eaux de ballast, et/ou
 - c) prélever des échantillons de l’eau de ballast du navire conformément aux directives élaborées par l’Organisation. Toutefois, le délai requis pour analyser ces échantillons ne doit pas être invoqué pour retarder indûment l’exploitation, le mouvement ou le départ du navire.
 
 <sup>2</sup> une inspection approfondie peut être effectuée.
 
 Si le navire n’est pas muni d’un certificat valable ou s’il existe de bonnes raisons de penser que:
 
-- a) l’état du navire ou de son équipement ne correspond pas en substance aux indications du certificat; ou que
+- a) l’état du navire ou de son équipement ne correspond pas en substance aux indications du certificat, ou que
 - b) le capitaine ou l’équipage n’est pas familiarisé avec les procédures de bord essentielles concernant la gestion des eaux de ballast ou ne les a pas appliquées,
 
 <sup>3</sup> Dans les cas prévus au par. 2 du présent article, la Partie qui effectue l’inspection prend les mesures nécessaires pour empêcher le navire de rejeter de l’eau de ballast jusqu’à ce qu’il puisse le faire sans présenter de menace pour l’environnement, la santé humaine, les biens ou les ressources.
@@ -255,7 +249,7 @@ Les Parties s’engagent, directement ou par l’intermédiaire de l’Organisat
 
 - a) former du personnel;
 - b) assurer la disponibilité de technologies, de matériel et d’installations appropriés;
-- c) mettre en train des programmes communs de recherche-développement; et
+- c) mettre en train des programmes communs de recherche-développement, et
 - d) prendre d’autres mesures pour la mise en œuvre effective de la présente Convention et des directives y relatives élaborées par l’Organisation.
 
 <sup>2</sup> Les Parties s’engagent à coopérer activement, sous réserve de leurs législation, réglementation et politique nationales, au transfert de technologie en matière de contrôle et de gestion des eaux de ballast et sédiments des navires.
@@ -271,7 +265,7 @@ Les Parties s’engagent, directement ou par l’intermédiaire de l’Organisat
 Chaque Partie fournit à l’Organisation et, selon qu’il convient, communique à d’autres Parties les renseignements suivants:
 
 - a) toutes prescriptions et procédures relatives à la gestion des eaux de ballast, notamment ses lois, règlements et directives pour l’application de la présente Convention;
-- b) la disponibilité et l’emplacement des installations de réception pour l’évacuation des eaux de ballast et des sédiments sans danger pour l’environnement; et
+- b) la disponibilité et l’emplacement des installations de réception pour l’évacuation des eaux de ballast et des sédiments sans danger pour l’environnement, et
 - c) toutes prescriptions concernant les renseignements requis des navires qui ne peuvent pas satisfaire aux dispositions de la présente Convention pour les raisons spécifiées aux règles A-3 et B-4 de l’Annexe.
 
 <sup>2</sup> L’Organisation informe les Parties de toute communication reçue en vertu du présent article et diffuse à toutes les Parties les renseignements qui lui ont été communiqués en vertu des al. 1 b) et c) du présent article.
@@ -298,8 +292,8 @@ Aucune disposition de la présente Convention ne porte atteinte aux droits et ob
 
 Les États peuvent devenir Parties à la Convention par:
 
-- a) signature sans réserve quant à la ratification, l’acceptation ou l’approbation; ou
-- b) signature sous réserve de ratification, d’acceptation ou d’approbation, suivie de ratification, d’acceptation ou d’approbation; ou
+- a) signature sans réserve quant à la ratification, l’acceptation ou l’approbation, ou
+- b) signature sous réserve de ratification, d’acceptation ou d’approbation, suivie de ratification, d’acceptation ou d’approbation, ou
 - c) adhésion.
 
 <sup>3</sup> La ratification, l’acceptation, l’approbation ou l’adhésion s’effectue par le dépôt d’un instrument à cet effet auprès du Secrétaire général.
@@ -350,7 +344,7 @@ Amendements après examen au sein de l’Organisation:
 
     Un amendement à l’Annexe entre en vigueur à l’égard de toutes les Parties six mois après la date à laquelle il est réputé avoir été accepté, à l’exception de toute Partie qui a:
 
-    - 1) notifié son objection à l’amendement conformément à l’al. e) ii) et n’a pas retiré cette objection; ou
+    - 1) notifié son objection à l’amendement conformément à l’al. e) ii) et n’a pas retiré cette objection, ou
     - 2) notifié au Secrétaire général, avant l’entrée en vigueur de cet amendement, que celui-ci entrera en vigueur à son égard uniquement après notification ultérieure de son acceptation.
 
 - g) i) Une Partie qui a notifié une objection en vertu de l’al. f) ii) 1) peut par la suite notifier au Secrétaire général qu’elle accepte l’amendement. Cet amendement entre en vigueur pour cette Partie six mois après la date de la notification de son acceptation, ou la date d’entrée en vigueur de l’amendement, si cette dernière date est postérieure.
@@ -372,7 +366,7 @@ Amendement par une conférence:
 
 Le Secrétaire général informe les Parties et les Membres de l’Organisation:
 
-- a) de tout amendement qui entre en vigueur et de la date de son entrée en vigueur en général et à l’égard de chaque Partie; et
+- a) de tout amendement qui entre en vigueur et de la date de son entrée en vigueur en général et à l’égard de chaque Partie, et
 - b) de toute notification faite en vertu du présent article.
 
 #### Art. 20
@@ -398,8 +392,8 @@ Outre les fonctions spécifiées dans d’autres dispositions de la présente Co
   informe tous les États qui ont signé la présente Convention ou qui y ont adhéré:
 
   - i) de toute nouvelle signature ou de tout dépôt d’un nouvel instrument de ratification, d’acceptation, d’approbation ou d’adhésion, ainsi que de leur date;
-  - ii) de la date d’entrée en vigueur de la présente Convention; et
-  - iii) du dépôt de tout instrument de dénonciation de la Convention, ainsi que de la date à laquelle il a été reçu et de la date à laquelle la dénonciation prend effet; et
+  - ii) de la date d’entrée en vigueur de la présente Convention, et
+  - iii) du dépôt de tout instrument de dénonciation de la Convention, ainsi que de la date à laquelle il a été reçu et de la date à laquelle la dénonciation prend effet, et
 
 - b) dès l’entrée en vigueur de la présente Convention, en transmet le texte au Secrétariat de l’Organisation des Nations Unies en vue de son enregistrement et de sa publication conformément à l’art. 102 de la Charte des Nations Unies[^21-1].
 
@@ -431,16 +425,16 @@ Aux fins de la présente Annexe:
 
 <sup>4</sup> «Construit», s’agissant d’un navire, désigne le stade auquel:
 
-- 1\. la quille est posée; ou
-- 2\. une construction identifiable au navire particulier commence; ou
-- 3\. le montage du navire considéré a commencé, employant au moins 50 tonnes ou 1 pour cent de la masse estimée de tous les matériaux de construction, si cette dernière valeur est inférieure; ou
+- 1\. la quille est posée, ou
+- 2\. une construction identifiable au navire particulier commence, ou
+- 3\. le montage du navire considéré a commencé, employant au moins 50 tonnes ou 1 pour cent de la masse estimée de tous les matériaux de construction, si cette dernière valeur est inférieure, ou
 - 4\. le navire subit une transformation importante.
 
 <sup>5</sup> «Transformation importante» désigne une transformation:
 
-- 1\. qui modifie la capacité en eaux de ballast d’un navire de 15 % ou plus; ou
-- 2\. qui change le type du navire; ou
-- 3\. qui vise, de l’avis de l’Administration, à prolonger la vie d’un navire de 10 ans ou plus; ou
+- 1\. qui modifie la capacité en eaux de ballast d’un navire de 15 % ou plus, ou
+- 2\. qui change le type du navire, ou
+- 3\. qui vise, de l’avis de l’Administration, à prolonger la vie d’un navire de 10 ans ou plus, ou
 - 4\. qui entraîne des modifications du système d’eaux de ballast d’un navire autres que le remplacement des éléments. La transformation d’un navire pour répondre aux dispositions de la règle D-1 ne doit pas être considérée comme constituant une transformation importante aux fins de la présente Annexe.
 
 <sup>6</sup> «À partir de la terre la plus proche» signifie à partir de la ligne de base qui sert à déterminer la mer territoriale du territoire en question conformément au droit international; toutefois, aux fins de la Convention, l’expression «à partir de la terre la plus proche» de la côte nord-est de l’Australie signifie à partir d’une ligne reliant le point de latitude 11°00’S et de longitude 142°08’E sur la côte australienne et le point de latitude 10°35’S et de longitude 141°55’E, puis les points suivants:
@@ -479,15 +473,15 @@ Sauf disposition expresse contraire, le rejet des eaux de ballast ne doit être 
 
 Les prescriptions de la règle B-3, ou les mesures éventuellement adoptées par une Partie conformément aux dispositions de l’art. 2 par. 3 ou de la section C, ne s’appliquent pas:
 
-- 1\. à la prise ou au rejet d’eaux de ballast et de sédiments nécessaire pour garantir la sécurité d’un navire dans des situations d’urgence ou la sauvegarde de la vie humaine en mer; ou
+- 1\. à la prise ou au rejet d’eaux de ballast et de sédiments nécessaire pour garantir la sécurité d’un navire dans des situations d’urgence ou la sauvegarde de la vie humaine en mer, ou
 - 2\.
 
   au rejet accidentel ou à l’entrée d’eaux de ballast et de sédiments résultant d’une avarie survenue au navire ou à son équipement:
 
-  - 1\. à condition que toutes les précautions raisonnables aient été prises avant et après la survenance de l’avarie ou la découverte de l’avarie ou du rejet pour empêcher ou réduire au minimum ce rejet; et
+  - 1\. à condition que toutes les précautions raisonnables aient été prises avant et après la survenance de l’avarie ou la découverte de l’avarie ou du rejet pour empêcher ou réduire au minimum ce rejet, et
   - 2\. à moins que l’avarie ne soit due à un acte délibéré ou téméraire du propriétaire, de la compagnie ou de l’officier ayant la charge du navire;
 
-- 3\. à la prise et au rejet d’eaux de ballast et de sédiments lorsque ces opérations ont pour but d’éviter ou de réduire au minimum un événement de pollution par le navire; ou
+- 3\. à la prise et au rejet d’eaux de ballast et de sédiments lorsque ces opérations ont pour but d’éviter ou de réduire au minimum un événement de pollution par le navire, ou
 - 4\. à la prise et au rejet ultérieur en haute mer des mêmes eaux de ballast et sédiments ou;
 - 5\. au rejet d’eaux de ballast et de sédiments par un navire, sur le lieu même d’origine de la totalité des eaux de ballast et sédiments et à condition qu’il n’y ait pas de mélange avec des eaux de ballast non gérées et des sédiments provenant d’autres zones. Si un mélange s’est produit, les eaux de ballast provenant d’autres zones sont soumises à la gestion des eaux de ballast conformément à la présente Annexe.
 
@@ -497,7 +491,7 @@ Les prescriptions de la règle B-3, ou les mesures éventuellement adoptées par
 
 - 1\. accordées à un ou plusieurs navires effectuant une ou plusieurs traversées entre des ports ou lieux spécifiés; ou à un navire exploité exclusivement entre des ports ou lieux spécifiés;
 - 2\. valables pour une période ne dépassant pas cinq ans, sous réserve d’un examen dans l’intervalle;
-- 3\. accordées à des navires qui ne mélangent pas d’eaux de ballast et de sédiments autres que ceux provenant des ports ou lieux spécifiés au par. 1.1; et
+- 3\. accordées à des navires qui ne mélangent pas d’eaux de ballast et de sédiments autres que ceux provenant des ports ou lieux spécifiés au par. 1.1, et
 - 4\. accordées conformément aux directives sur l’évaluation des risques élaborées par l’Organisation.
 
 <sup>2</sup> Les dispenses accordées en application du par. 1 ne doivent pas prendre effet avant d’avoir été communiquées à l’Organisation et avant que les renseignements pertinents aient été diffusés aux Parties.
@@ -522,12 +516,12 @@ Chaque navire doit avoir à bord et mettre en œuvre un plan de gestion des eaux
 
   décrire en détail les procédures d’évacuation des sédiments:
 
-  - 1\. en mer; et
+  - 1\. en mer, et
   - 2\. à terre;
 
 - 4\. décrire les procédures de coordination de la gestion des eaux de ballast à bord qui impliquent le rejet en mer, avec les autorités de l’État dans les eaux duquel ce rejet sera effectué;
 - 5\. désigner l’officier de bord chargé d’assurer la mise en œuvre correcte du plan;
-- 6\. contenir les prescriptions en matière de notification applicables aux navires en vertu de la présente Convention; et
+- 6\. contenir les prescriptions en matière de notification applicables aux navires en vertu de la présente Convention, et
 - 7\. être rédigé dans la langue de travail du navire. Si la langue utilisée n’est ni l’anglais, ni l’espagnol, ni le français, le plan doit comprendre une traduction dans l’une de ces langues.
 
 ### **Règle B-2**Registre des eaux de ballast
@@ -605,7 +599,7 @@ Les officiers et les membres d’équipage doivent être familiarisés avec les 
 
   - 1\. les coordonnées géographiques exactes des lieux où ces mesures supplémentaires s’appliquent;
   - 2\. la nécessité et la justification de l’application des mesures supplémentaires, y compris, si possible, les avantages de ces mesures;
-  - 3\. une description des mesures supplémentaires; et
+  - 3\. une description des mesures supplémentaires, et
   - 4\. tout arrangement éventuellement prévu pour faciliter le respect par les navires des mesures supplémentaires;
 
 - 3\. dans la mesure requise par le droit international coutumier, tel que défini dans la Convention des Nations Unies sur le droit de la mer, obtenir l’approbation de l’Organisation.
@@ -621,7 +615,7 @@ Les officiers et les membres d’équipage doivent être familiarisés avec les 
 <sup>1</sup> Une Partie doit s’efforcer de diffuser des avis aux navigateurs concernant les zones relevant de leur juridiction dans lesquelles les navires ne devraient pas prendre d’eaux de ballast en raison de conditions connues. La Partie doit préciser dans ces avis les coordonnées géographiques exactes de la ou des zones susvisées et, si possible, l’emplacement d’une ou de plusieurs autres zones convenant à la prise d’eaux de ballast. Des avis peuvent être diffusés concernant:
 
 - 1\. les zones où l’on sait qu’existent des éclosions, infestations ou populations d’organismes aquatiques nuisibles ou d’agents pathogènes (par exemple, proliférations d’algues toxiques) susceptibles d’avoir une incidence sur la prise ou le rejet d’eaux de ballast;
-- 2\. les zones proches de points de rejet des eaux usées; ou
+- 2\. les zones proches de points de rejet des eaux usées, ou
 - 3\. les zones où l’action de chasse des marées est insuffisante, ou encore les périodes pendant lesquelles on sait qu’un courant de marée cause une turbidité accrue.
 
 <sup>2</sup> Outre les avis diffusés aux navigateurs conformément aux dispositions du par. 1, une Partie doit notifier à l’Organisation et aux États côtiers qui pourraient être affectés toute zone identifiée conformément au par. 1, ainsi que la période durant laquelle l’avis restera probablement valable. La notification adressée à l’Organisation et aux États côtiers qui pourraient être affectés doit spécifier les coordonnées géographiques exactes de la zone ou des zones susmentionnées et, si possible, indiquer l’emplacement d’une ou plusieurs autres zones convenant à la prise d’eaux de ballast. L’avis doit indiquer aux navires qui ont besoin de prendre des eaux de ballast dans la zone les autres dispositions prévues à cet égard. La Partie doit également informer les gens de mer, l’Organisation et les États côtiers qui pourraient être affectés lorsqu’un avis donné n’est plus applicable.
@@ -678,7 +672,7 @@ L’Organisation doit diffuser, par tout moyen approprié, les renseignements qu
 - 1\. des considérations liées à la sécurité du navire et de l’équipage;
 - 2\. de leur acceptabilité sur le plan écologique, c’est-à-dire qu’elles ne doivent pas avoir davantage d’impacts sur l’environnement que ceux qu’elles permettent d’éviter;
 - 3\. de leur aspect pratique, c’est-à-dire leur compatibilité avec la conception et l’exploitation du navire;
-- 4\. de leur rapport coût-efficacité, c’est-à-dire leur caractère économique; et
+- 4\. de leur rapport coût-efficacité, c’est-à-dire leur caractère économique, et
 - 5\. de leur efficacité sur le plan biologique au sens où elles permettent d’éliminer ou de rendre non viables les organismes aquatiques nuisibles et les agents pathogènes présents dans les eaux de ballast.
 
 <sup>3</sup> Le Comité peut constituer un ou plusieurs groupes chargés de procéder à l’examen ou aux examens visés au par. 1. Le Comité arrête la composition et le mandat de tels groupes, ainsi que les questions précises qui leurs sont confiées. Ces groupes peuvent élaborer et recommander des propositions d’amendement à la présente Annexe pour examen par les Parties. Seules les Parties peuvent participer à la formulation de recommandations et aux décisions prises par le Comité à l’égard des amendements.
@@ -703,7 +697,7 @@ L’Organisation doit diffuser, par tout moyen approprié, les renseignements qu
 
 <sup>4</sup> Toute Administration qui désigne des inspecteurs ou des organismes reconnus pour effectuer les visites prévues au par. 3 doit au moins habiliter ces inspecteurs ou organismes reconnus[^annexu1-lvlu1-secE-lvlu1-1] à:
 
-- 1\. exiger qu’un navire soumis à une visite satisfasse aux dispositions de la présente Convention; et
+- 1\. exiger qu’un navire soumis à une visite satisfasse aux dispositions de la présente Convention, et
 - 2\. effectuer des visites et des inspections à la requête des autorités compétentes d’un État du port qui est Partie.
 
 <sup>5</sup> L’Administration doit notifier à l’Organisation les responsabilités spécifiques confiées aux inspecteurs désignés ou aux organismes reconnus et les conditions de leur habilitation afin qu’elle les diffuse aux Parties pour l’information de leurs agents.
@@ -770,7 +764,7 @@ Le certificat doit être établi dans la langue officielle de la Partie qui le d
 
 - 1\. si la structure, l’équipement, les systèmes, les installations, les aménagements et les matériaux nécessaires pour satisfaire pleinement à la présente Convention ont fait l’objet d’un changement, d’un remplacement ou d’une réparation importante et si un visa n’a pas été apposé sur le certificat conformément à la présente Annexe;
 - 2\. si un navire passe sous le pavillon d’un autre État. Un nouveau certificat ne doit être délivré que si la Partie délivrant le nouveau certificat a la certitude que le navire satisfait aux prescriptions de la règle E-1. Dans le cas d’un transfert de pavillon entre Parties, si la demande lui en est faite dans un délai de trois mois à compter du transfert, la Partie dont le navire était autorisé précédemment à battre le pavillon adresse dès que possible à l’Administration des copies du certificat dont le navire était muni avant le transfert, ainsi que des copies des rapports de visite, le cas échéant;
-- 3\. si les visites pertinentes ne sont pas achevées dans les délais spécifiés à la règle E-1.1; ou
+- 3\. si les visites pertinentes ne sont pas achevées dans les délais spécifiés à la règle E-1.1, ou
 - 4\. si le visa prévu à la règle E-1.1 n’a pas été apposé sur le certificat.
 
 Appendice I
@@ -787,7 +781,7 @@ par
 
 *(Titre officiel complet de la personne compétente ou de l’organisme autorisé en vertu des dispositions de la Convention)*
 
-Caractéristiques du navire*[^annexI-lvlu1-lvlu1-1]*
+Caractéristiques du navire[^annexI-lvlu1-lvlu1-1]
 
 Nom du navire
 
@@ -823,7 +817,7 @@ La(les) principale(s) méthode(s) utilisée(s) pour procéder à la gestion des 
 
 Il est certifié:
 
-- 1 que le navire a été visité conformément à la règle E-1 de l’Annexe de la Convention; et
+- 1 que le navire a été visité conformément à la règle E-1 de l’Annexe de la Convention, et
 - 2 qu’à la suite cette visite, il a été constaté que la gestion des eaux de ballast à bord du navire satisfaisait aux dispositions de l’Annexe de la Convention.
 
 Le présent certificat est valable jusqu’au sous réserve des visites prévues à la règle E-1 de l’Annexe de la Convention.
@@ -1060,13 +1054,13 @@ Numéro ou lettres distinctifs:
 <tr><td></td><td>Signature du capitaine:</td></tr>
 </table>
 
-Champ d’application le 24 novembre 2021**[^t-2]**
+Champ d’application le 18 juillet 2024[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afrique du Sud</td><td>15 avril</td><td>2008 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Albanie</td><td>15 janvier</td><td>2009 A</td><td>8 septembre</td><td>2017</td></tr>
-<tr><td>Allemagne</td><td>20 juin</td><td>2013</td><td>8 septembre</td><td>2017</td></tr>
+<tr><td>Allemagne</td><td>20 juin</td><td>2013 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Antigua-et-Barbuda</td><td>19 décembre</td><td>2008 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Arabie Saoudite</td><td>27 avril</td><td>2017 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Argentine</td><td>2 août</td><td>2017</td><td>2 novembre</td><td>2017</td></tr>
@@ -1075,20 +1069,22 @@ Champ d’application le 24 novembre 2021**[^t-2]**
 <tr><td>Bangladesh</td><td>7 juin</td><td>2018 A</td><td>7 septembre</td><td>2018</td></tr>
 <tr><td>Barbade</td><td>11 mai</td><td>2007 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Bélarus</td><td>23 mars</td><td>2020 A</td><td>23 juin</td><td>2020</td></tr>
-<tr><td>Belgique</td><td>7 mars</td><td>2016</td><td>8 septembre</td><td>2017</td></tr>
+<tr><td>Belgique</td><td>7 mars</td><td>2016 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Brésil</td><td>14 avril</td><td>2010</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Bulgarie</td><td>30 avril</td><td>2018 A</td><td>30 juillet</td><td>2018</td></tr>
+<tr><td>Cameroun</td><td>29 juin</td><td>2022 A</td><td>29 septembre</td><td>2022</td></tr>
 <tr><td>Canada</td><td>8 avril</td><td>2010 A</td><td>8 septembre</td><td>2017</td></tr>
-<tr><td>Chine</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Hong Kong</td><td>13 mai</td><td>2020</td><td>13 août</td><td>2020</td></tr>
+<tr><td>Chine</td><td>22 octobre</td><td>2018 A</td><td>22 janvier</td><td>2019</td></tr>
+<tr><td>Hong Kong</td><td>13 août</td><td>2020</td><td>13 août</td><td>2020</td></tr>
 <tr><td>Macao</td><td>22 janvier</td><td>2019</td><td>22 janvier</td><td>2019</td></tr>
 <tr><td>Chypre</td><td>8 août</td><td>2018 A</td><td>8 novembre</td><td>2018</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>19 mai</td><td>2014 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Corée (Sud)</td><td>10 décembre</td><td>2009 A</td><td>8 septembre</td><td>2017</td></tr>
+<tr><td>Côte d’Ivoire</td><td>17 mars</td><td>2023 A</td><td>17 juin</td><td>2023</td></tr>
 <tr><td>Croatie\*</td><td>29 juin</td><td>2010 A</td><td>8 septembre</td><td>2017</td></tr>
-<tr><td>Danemark\* <sup>a</sup></td><td>11 septembre</td><td>2012</td><td>8 septembre</td><td>2017</td></tr>
-<tr><td>Îles Féroé</td><td>28 août</td><td>2015</td><td>8 septembre</td><td>2017</td></tr>
+<tr><td>Danemark</td><td>11 septembre</td><td>2012 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Groenland</td><td>16 décembre</td><td>2020</td><td>16 décembre</td><td>2020</td></tr>
+<tr><td>Îles Féroé</td><td>28 août</td><td>2015</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Égypte</td><td>11 mai</td><td>2007 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Émirats arabes unis</td><td>6 juin</td><td>2017 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Espagne</td><td>14 septembre</td><td>2005</td><td>8 septembre</td><td>2017</td></tr>
@@ -1101,17 +1097,18 @@ Champ d’application le 24 novembre 2021**[^t-2]**
 <tr><td>Ghana</td><td>26 novembre</td><td>2015 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Grèce</td><td>26 juin</td><td>2017 A</td><td>26 septembre</td><td>2017</td></tr>
 <tr><td>Grenade</td><td>26 juillet</td><td>2018 A</td><td>26 octobre</td><td>2018</td></tr>
+<tr><td>Guinée-Bissau</td><td>12 mai</td><td>2022 A</td><td>12 août</td><td>2022</td></tr>
 <tr><td>Guyana</td><td>20 février</td><td>2019 A</td><td>20 mai</td><td>2019</td></tr>
 <tr><td>Honduras</td><td>10 juillet</td><td>2017 A</td><td>10 octobre</td><td>2017</td></tr>
-<tr><td>Îles Cook</td><td>2 février</td><td>2010</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Îles Marshall</td><td>26 novembre</td><td>2009 A</td><td>8 septembre</td><td>2017</td></tr>
-<tr><td>Indonésie</td><td>24 novembre</td><td>2015</td><td>8 septembre</td><td>2017</td></tr>
+<tr><td>Indonésie</td><td>24 novembre</td><td>2015 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Iraq</td><td>30 septembre</td><td>2021 A</td><td>30 décembre</td><td>2021</td></tr>
 <tr><td>Iran\*</td><td>6 avril</td><td>2011 A</td><td>8 septembre</td><td>2017</td></tr>
+<tr><td>Irlande</td><td>30 novembre</td><td>2023 A</td><td>29 février</td><td>2024</td></tr>
 <tr><td>Jamaïque</td><td>11 septembre</td><td>2017 A</td><td>11 décembre</td><td>2017</td></tr>
 <tr><td>Japon\*</td><td>10 octobre</td><td>2014 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Jordanie</td><td>9 septembre</td><td>2014 A</td><td>8 septembre</td><td>2017</td></tr>
-<tr><td>Kenya</td><td>14 janvier</td><td>2008</td><td>8 septembre</td><td>2017</td></tr>
+<tr><td>Kenya</td><td>14 janvier</td><td>2008 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Kiribati</td><td>5 février</td><td>2007 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Lettonie</td><td>11 octobre</td><td>2018 A</td><td>11 janvier</td><td>2019</td></tr>
 <tr><td>Liban</td><td>15 décembre</td><td>2011 A</td><td>8 septembre</td><td>2017</td></tr>
@@ -1121,16 +1118,19 @@ Champ d’application le 24 novembre 2021**[^t-2]**
 <tr><td>Malaisie</td><td>27 septembre</td><td>2010 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Maldives</td><td>22 juin</td><td>2005</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Malte</td><td>7 septembre</td><td>2017 A</td><td>7 décembre</td><td>2017</td></tr>
-<tr><td>Maroc</td><td>23 novembre</td><td>2015</td><td>8 septembre</td><td>2017</td></tr>
+<tr><td>Maroc</td><td>23 novembre</td><td>2015 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Mexique</td><td>18 mars</td><td>2008 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Mongolie</td><td>28 septembre</td><td>2011 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Monténégro</td><td>29 novembre</td><td>2011 A</td><td>8 septembre</td><td>2017</td></tr>
+<tr><td>Myanmar</td><td>17 août</td><td>2022 A</td><td>17 novembre</td><td>2022</td></tr>
 <tr><td>Namibie</td><td>15 juillet</td><td>2020 A</td><td>15 octobre</td><td>2020</td></tr>
 <tr><td>Nauru</td><td>23 mars</td><td>2020 A</td><td>23 juin</td><td>2020</td></tr>
 <tr><td>Nigéria</td><td>13 octobre</td><td>2005 A</td><td>8 septembre</td><td>2017</td></tr>
-<tr><td>Nioué</td><td>18 mai</td><td>2012 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Norvège</td><td>29 mars</td><td>2007 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Nouvelle-Zélande</td><td>9 janvier</td><td>2017 A</td><td>8 septembre</td><td>2017</td></tr>
+<tr><td>Îles Cook</td><td>2 février</td><td>2010</td><td>8 septembre</td><td>2017</td></tr>
+<tr><td>Nioué</td><td>18 mai</td><td>2012 A</td><td>8 septembre</td><td>2017</td></tr>
+<tr><td>Oman</td><td>1<sup>er</sup> février</td><td>2022 A</td><td>1<sup>er</sup> mai</td><td>2022</td></tr>
 <tr><td>Palaos</td><td>28 septembre</td><td>2011 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Panama\*</td><td>19 octobre</td><td>2016 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Pays-Bas</td><td>10 mai</td><td>2010</td><td>8 septembre</td><td>2017</td></tr>
@@ -1141,10 +1141,13 @@ Champ d’application le 24 novembre 2021**[^t-2]**
 <tr><td>Portugal</td><td>19 octobre</td><td>2017 A</td><td>19 janvier</td><td>2018</td></tr>
 <tr><td>Qatar</td><td>8 février</td><td>2018 A</td><td>8 mai</td><td>2018</td></tr>
 <tr><td>République dominicaine</td><td>12 octobre</td><td>2021 A</td><td>12 janvier</td><td>2022</td></tr>
+<tr><td>Royaume-Uni</td><td>26 mai</td><td>2022 A</td><td>26 août</td><td>2022</td></tr>
+<tr><td>Bermudes</td><td>8 mai</td><td>2024</td><td>8 mai</td><td>2024</td></tr>
 <tr><td>Russie</td><td>24 mai</td><td>2012 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Saint-Kitts-et-Nevis</td><td>30 août</td><td>2005 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>2 juillet</td><td>2020 A</td><td>2 octobre</td><td>2020</td></tr>
 <tr><td>Sainte-Lucie</td><td>26 mai</td><td>2016</td><td>8 septembre</td><td>2017</td></tr>
+<tr><td>Sao Tomé-et-Principe</td><td>15 août</td><td>2022 A</td><td>15 novembre</td><td>2022</td></tr>
 <tr><td>Serbie</td><td>26 juillet</td><td>2018 A</td><td>26 octobre</td><td>2018</td></tr>
 <tr><td>Seychelles</td><td>27 novembre</td><td>2017 A</td><td>27 février</td><td>2018</td></tr>
 <tr><td>Sierra Leone</td><td>21 novembre</td><td>2007 A</td><td>8 septembre</td><td>2017</td></tr>
@@ -1157,7 +1160,8 @@ Champ d’application le 24 novembre 2021**[^t-2]**
 <tr><td>Trinité-et-Tobago</td><td>3 janvier</td><td>2012 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Turquie\*</td><td>14 octobre</td><td>2014 A</td><td>8 septembre</td><td>2017</td></tr>
 <tr><td>Tuvalu</td><td>2 décembre</td><td>2005 A</td><td>8 septembre</td><td>2017</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): www.imo.org &gt; Publications &gt; Catalogue & Code Listings, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Conv. ne s’applique pas au Groënland.</td></tr>
+<tr><td>Vietnam</td><td>24 janvier</td><td>2024 A</td><td>24 avril</td><td>2024</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): [www.imo.org](http://www.imo.org/) &gt; Qui nous sommes &gt; Conventions &gt; État des conventions &gt; Status Book, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 2017 3837](https://fedlex.data.admin.ch/eli/oc/2017/459), [5879](https://fedlex.data.admin.ch/eli/oc/2017/639); [2018 2785](https://fedlex.data.admin.ch/eli/oc/2018/416), [4079](https://fedlex.data.admin.ch/eli/oc/2018/662); [2020 4343](https://fedlex.data.admin.ch/eli/oc/2020/775); [2021 774](https://fedlex.data.admin.ch/eli/oc/2021/774). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/Treaty.
+[^t-2]: [RO 2017 3837](https://fedlex.data.admin.ch/eli/oc/2017/459), [5879](https://fedlex.data.admin.ch/eli/oc/2017/639); [2018 2785](https://fedlex.data.admin.ch/eli/oc/2018/416), [4079](https://fedlex.data.admin.ch/eli/oc/2018/662); [2020 4343](https://fedlex.data.admin.ch/eli/oc/2020/775); [2021 774](https://fedlex.data.admin.ch/eli/oc/2021/774); [2024 380](https://fedlex.data.admin.ch/eli/oc/2024/380). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)

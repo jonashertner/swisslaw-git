@@ -3,11 +3,11 @@ sr: "0.814.296"
 title: Convenzione internazionale del 2004 del 13 febbraio 2004 per il controllo e la gestione delle acque di zavorra e dei sedimenti delle navi (con all.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/459"
 language: it
-version: 2021-11-24
+version: 2024-07-18
 adopted: 2004-02-13
 in_force: 2017-09-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/459/20211124/it/xml/fedlex-data-admin-ch-eli-cc-2017-459-20211124-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/459/20211124/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/459/20240718/it/xml/fedlex-data-admin-ch-eli-cc-2017-459-20240718-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/459/20240718/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -26,7 +26,7 @@ Strumento di adesione depositato dalla Svizzera il 24 settembre 2013
 
 Entrata in vigore per la Svizzera l’8 settembre 2017
 
-(Stato 24 novembre 2021)
+(Stato 18 luglio 2024)
 
 [^t-1]: [RU 2013 5523](https://fedlex.data.admin.ch/eli/oc/2013/886)
 
@@ -411,11 +411,13 @@ Oltre alle funzioni specificate in altre disposizioni della presente Convenzione
 
 La presente Convenzione è redatta in un unico originale in lingua araba, cinese, francese, inglese, russa e spagnola, ciascun testo autentico facente ugualmente fede.
 
-*In fede di che,* i sottoscritti, debitamente autorizzati dai loro rispettivi governi, hanno firmato la presente Convenzione. Fatto a Londra, il tredici febbraio duemila e quattro. *(Seguono le firme)* *Allegato*
+*In fede di che,* i sottoscritti, debitamente autorizzati dai loro rispettivi governi, hanno firmato la presente Convenzione. Fatto a Londra, il tredici febbraio duemila e quattro. (Seguono le firme)
 
-Regolamenti per il controllo e la gestione delle acque di zavorra e dei sedimenti delle navi
+Allegato
 
-## Sezione A: Disposizioni generali
+## Regolamenti per il controllo e la gestione delle acque di zavorra e dei sedimenti delle navi
+
+### Sezione A: Disposizioni generali
 
 ### **Regolamento A-1**Definizioni
 
@@ -425,7 +427,7 @@ Ai fini del presente Allegato:
 
 <sup>2</sup> Per «capacità di acqua di zavorra» s’intende la capacità volumetrica totale di qualsiasi serbatoio, spazio o compartimento su una nave utilizzato per il trasporto, il carico o lo scarico di acqua di zavorra, compreso ogni serbatoio, spazio o compartimento multiuso progettato per consentire il trasporto di acqua di zavorra.
 
-<sup>3</sup> Per «Società» s’intende il proprietario della nave o qualsiasi altra organizzazione o persona, quali l’amministratore o il noleggiatore, che è stata investita dal proprietario della nave delle responsabilità delle manovre operate sulla nave stessa e che, nell’assumere tale responsabilità, ha convenuto di assolvere a tutti i doveri e responsabilità di sicurezza imposti dal Codice internazionale di gestione della sicurezza[^annexu1-secA-lvlu1-1].
+<sup>3</sup> Per «Società» s’intende il proprietario della nave o qualsiasi altra organizzazione o persona, quali l’amministratore o il noleggiatore, che è stata investita dal proprietario della nave delle responsabilità delle manovre operate sulla nave stessa e che, nell’assumere tale responsabilità, ha convenuto di assolvere a tutti i doveri e responsabilità di sicurezza imposti dal Codice internazionale di gestione della sicurezza[^annexu1-lvlu1-secA-lvlu1-1].
 
 <sup>4</sup> Per «costruita» riguardo a una nave s’intende una fase di costruzione in cui:
 
@@ -465,7 +467,7 @@ e infine il punto di latitudine 24°42' S, longitudine 153°15' E sulla costa au
 
 <sup>7</sup> Per «sostanza attiva» s’intende una sostanza o un organismo, inclusi un virus o un fungo, che svolge un’azione generale o specifica su organismi acquatici nocivi e agenti patogeni.
 
-[^annexu1-secA-lvlu1-1]: Si veda il Codice ISM, adottato dall’Organizzazione con la risoluzione A.714(18), come modificato.
+[^annexu1-lvlu1-secA-lvlu1-1]: Si veda il Codice ISM, adottato dall’Organizzazione con la risoluzione A.714(18), come modificato.
 
 ### **Regolamento A-2**Applicazione Generale
 
@@ -506,7 +508,7 @@ I requisiti del regolamento B-3, o eventuali misure adottate da una Parte ai sen
 
 Nel caso di imbarcazioni da diporto utilizzate esclusivamente per fini ricreativi o competizioni o imbarcazioni utilizzate principalmente per la ricerca ed il soccorso, con lunghezza totale inferiore ai 50 metri e con una capacità massima di acqua di zavorra di 8 metri cubi, la conformità equivalente al presente Allegato deve essere determinata dall’Amministrazione, tenendo conto delle linee guida elaborate dall’Organizzazione.
 
-## Sezione B: Requisiti di gestione e di controllo applicabili alle navi
+### Sezione B: Requisiti di gestione e di controllo applicabili alle navi
 
 ### **Regolamento B-1**Piano di gestione delle acque di zavorra
 
@@ -584,7 +586,7 @@ Ogni nave deve avere a bordo e attuare un piano di gestione delle acque di zavor
 
 Gli ufficiali e l’equipaggio devono avere familiarità con le loro funzioni nella realizzazione della gestione delle acque di zavorra specifica per la nave in cui prestano servizio e, nella misura in cui rispondono ai propri doveri, avere familiarità con il piano di gestione delle acque di zavorra della nave.
 
-## Sezione C: Prescrizioni speciali in alcune aree
+### Sezione C: Prescrizioni speciali in alcune aree
 
 ### **Regolamento** **C-1**Misure aggiuntive
 
@@ -626,7 +628,7 @@ Gli ufficiali e l’equipaggio devono avere familiarità con le loro funzioni ne
 
 L’Organizzazione deve mettere a disposizione, con qualsiasi mezzo idoneo, le informazioni comunicate ai sensi dei regolamenti C-1 e C-2.
 
-## Sezione D: Standard per la gestione delle acque di zavorra
+### Sezione D: Standard per la gestione delle acque di zavorra
 
 ### **Regolamento D-1**Standard per lo scambio delle acque di zavorra
 
@@ -681,7 +683,7 @@ L’Organizzazione deve mettere a disposizione, con qualsiasi mezzo idoneo, le i
 
 <sup>4</sup> Se, sulla base delle revisioni descritte nel presente regolamento, le Parti decidono di apportare delle modifiche al presente Allegato, tali modifiche devono essere adottate ed entrare in vigore in conformità con le procedure di cui all’articolo 19 della presente Convenzione.
 
-## Sezione E: Norme su ispezione e certificazione per la gestione delle acque di zavorra
+### Sezione E: Norme su ispezione e certificazione per la gestione delle acque di zavorra
 
 ### **Regolamento E-1**Ispezioni
 
@@ -697,7 +699,7 @@ L’Organizzazione deve mettere a disposizione, con qualsiasi mezzo idoneo, le i
 
 <sup>3</sup> Le ispezioni delle navi ai fini della applicazione delle disposizioni della presente Convenzione devono essere effettuate da funzionari dell’Amministrazione. L’Amministrazione può tuttavia affidare le ispezioni sia a ispettori nominati a tal fine o ad organizzazioni riconosciute da essa.
 
-<sup>4</sup> Un’Amministrazione che, secondo quanto descritto nel paragrafo 3, nomina ispettori o riconosce organizzazioni[^annexu1-secE-lvlu1-1] per condurre le ispezioni, come minimo autorizza tali ispettori nominati o organizzazioni riconosciute a:
+<sup>4</sup> Un’Amministrazione che, secondo quanto descritto nel paragrafo 3, nomina ispettori o riconosce organizzazioni[^annexu1-lvlu1-secE-lvlu1-1] per condurre le ispezioni, come minimo autorizza tali ispettori nominati o organizzazioni riconosciute a:
 
 - 1\. richiedere alla nave che ispezionano di conformarsi alle disposizioni della presente Convenzione; e
 - 2\. effettuare controlli e ispezioni, qualora richiesto dalle autorità competenti di uno Stato di approdo che è Parte alla Convenzione.
@@ -714,7 +716,7 @@ L’Organizzazione deve mettere a disposizione, con qualsiasi mezzo idoneo, le i
 
 <sup>10</sup> Dopo che ogni ispezione della nave è stata completata secondo le direttive del paragrafo 1, nessun cambiamento deve essere fatto nella struttura, nelle attrezzature, apparecchiature, impianti e materiali esaminati dall’ispezione e legati al piano di gestione delle acque di zavorra come richiesto dal regolamento B-1, senza che l’Amministrazione abbia richiesto la loro autorizzazione, ad eccezione della sostituzione di tali apparecchiature ed accessori con altri uguali.
 
-[^annexu1-secE-lvlu1-1]: Si vedano le linee guida adottate dall’Organizzazione con la risoluzione A.739(18), passibili di modifiche da parte dell’Organizzazione, e i requisiti fissati dall’ Organizzazione con la risoluzione A.789(18), anch’essi passibili di modifiche da parte dell’Organizzazione.
+[^annexu1-lvlu1-secE-lvlu1-1]: Si vedano le linee guida adottate dall’Organizzazione con la risoluzione A.739(18), passibili di modifiche da parte dell’Organizzazione, e i requisiti fissati dall’ Organizzazione con la risoluzione A.789(18), anch’essi passibili di modifiche da parte dell’Organizzazione.
 
 ### **Regolamento E-2**Rilascio o approvazione del certificato
 
@@ -783,7 +785,7 @@ da
 
 (nome per intero delle persone competenti o organizzazioni autorizzate dalle disposizioni della Convenzione)
 
-Dettagli della nave*[^annexI-lvlu1-lvlu1-1]*
+Dettagli della nave[^annexI-lvlu1-lvlu1-1]
 
 Nome della nave
 
@@ -1056,7 +1058,7 @@ Numeri o lettere di identificazione:
 <tr><td></td><td>Firma del comandante:</td></tr>
 </table>
 
-Campo d’applicazione il 24 novembre 2021**[^t-2]**
+Campo d’applicazione il 18 luglio 2024[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -1068,19 +1070,21 @@ Campo d’applicazione il 24 novembre 2021**[^t-2]**
 <tr><td>Bahamas</td><td>8 giugno</td><td>2017 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Bangladesh</td><td>7 giugno</td><td>2018 A</td><td>7 settembre</td><td>2018</td></tr>
 <tr><td>Barbados</td><td>11 maggio</td><td>2007 A</td><td>8 settembre</td><td>2017</td></tr>
-<tr><td>Belgio</td><td>7 marzo</td><td>2016</td><td>8 settembre</td><td>2017</td></tr>
+<tr><td>Belgio</td><td>7 marzo</td><td>2016 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Bielorussia</td><td>23 marzo</td><td>2020 A</td><td>23 giugno</td><td>2020</td></tr>
 <tr><td>Brasile</td><td>14 aprile</td><td>2010</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Bulgaria</td><td>30 aprile</td><td>2018 A</td><td>30 luglio</td><td>2018</td></tr>
+<tr><td>Camerun</td><td>29 giugno</td><td>2022 A</td><td>29 settembre</td><td>2022</td></tr>
 <tr><td>Canada</td><td>8 aprile</td><td>2010 A</td><td>8 settembre</td><td>2017</td></tr>
-<tr><td>Cina</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Hong Kong</td><td>13 maggio</td><td>2020</td><td>13 agosto</td><td>2020</td></tr>
+<tr><td>Cina</td><td>22 ottobre</td><td>2018 A</td><td>22 gennaio</td><td>2019</td></tr>
+<tr><td>Hong Kong</td><td>13 agosto</td><td>2020</td><td>13 agosto</td><td>2020</td></tr>
 <tr><td>Macao</td><td>22 gennaio</td><td>2019</td><td>22 gennaio</td><td>2019</td></tr>
 <tr><td>Cipro</td><td>8 agosto</td><td>2018 A</td><td>8 novembre</td><td>2018</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>19 maggio</td><td>2014 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Corea (Sud)</td><td>10 dicembre</td><td>2009 A</td><td>8 settembre</td><td>2017</td></tr>
+<tr><td>Costa d’Avorio</td><td>17 marzo</td><td>2023 A</td><td>17 giugno</td><td>2023</td></tr>
 <tr><td>Croazia\*</td><td>29 giugno</td><td>2010 A</td><td>8 settembre</td><td>2017</td></tr>
-<tr><td>Danimarca\* <sup>a</sup></td><td>11 settembre</td><td>2012</td><td>8 settembre</td><td>2017</td></tr>
+<tr><td>Danimarca</td><td>11 settembre</td><td>2012</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Groenlandia</td><td>16 dicembre</td><td>2020</td><td>16 dicembre</td><td>2020</td></tr>
 <tr><td>Isole Faeröer</td><td>28 agosto</td><td>2015</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Egitto</td><td>11 maggio</td><td>2007 A</td><td>8 settembre</td><td>2017</td></tr>
@@ -1092,18 +1096,20 @@ Campo d’applicazione il 24 novembre 2021**[^t-2]**
 <tr><td>Francia\*</td><td>24 settembre</td><td>2008 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Gabon</td><td>17 aprile</td><td>2019 A</td><td>17 luglio</td><td>2020</td></tr>
 <tr><td>Georgia</td><td>12 gennaio</td><td>2015 A</td><td>8 settembre</td><td>2017</td></tr>
-<tr><td>Germania</td><td>20 giugno</td><td>2013</td><td>8 settembre</td><td>2017</td></tr>
+<tr><td>Germania</td><td>20 giugno</td><td>2013 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Ghana</td><td>26 novembre</td><td>2015 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Giamaica</td><td>11 settembre</td><td>2017 A</td><td>11 dicembre</td><td>2017</td></tr>
 <tr><td>Giappone\*</td><td>10 ottobre</td><td>2014 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Giordania</td><td>9 settembre</td><td>2014 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Grecia</td><td>26 giugno</td><td>2017 A</td><td>26 settembre</td><td>2017</td></tr>
 <tr><td>Grenada</td><td>26 luglio</td><td>2018 A</td><td>26 ottobre</td><td>2018</td></tr>
+<tr><td>Guinea-Bissau</td><td>12 maggio</td><td>2022 A</td><td>12 agosto</td><td>2022</td></tr>
 <tr><td>Guyana</td><td>20 febbraio</td><td>2019 A</td><td>20 maggio</td><td>2019</td></tr>
 <tr><td>Honduras</td><td>10 luglio</td><td>2017 A</td><td>10 ottobre</td><td>2017</td></tr>
-<tr><td>Indonesia</td><td>24 novembre</td><td>2015</td><td>8 settembre</td><td>2017</td></tr>
+<tr><td>Indonesia</td><td>24 novembre</td><td>2015 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Iran\*</td><td>6 aprile</td><td>2011 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Iraq</td><td>30 settembre</td><td>2021 A</td><td>30 dicembre</td><td>2021</td></tr>
+<tr><td>Irlanda</td><td>30 novembre</td><td>2023 A</td><td>29 febbraio</td><td>2024</td></tr>
 <tr><td>Isole Cook</td><td>2 febbraio</td><td>2010</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Isole Marshall</td><td>26 novembre</td><td>2009 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Kenya</td><td>14 gennaio</td><td>2008</td><td>8 settembre</td><td>2017</td></tr>
@@ -1116,16 +1122,18 @@ Campo d’applicazione il 24 novembre 2021**[^t-2]**
 <tr><td>Malaysia</td><td>27 settembre</td><td>2010 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Maldive</td><td>22 giugno</td><td>2005</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Malta</td><td>7 settembre</td><td>2017 A</td><td>7 dicembre</td><td>2017</td></tr>
-<tr><td>Marocco</td><td>23 novembre</td><td>2015</td><td>8 settembre</td><td>2017</td></tr>
+<tr><td>Marocco</td><td>23 novembre</td><td>2015 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Messico</td><td>18 marzo</td><td>2008 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Mongolia</td><td>28 settembre</td><td>2011 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Montenegro</td><td>29 novembre</td><td>2011 A</td><td>8 settembre</td><td>2017</td></tr>
+<tr><td>Myanmar</td><td>17 agosto</td><td>2022 A</td><td>17 novembre</td><td>2022</td></tr>
 <tr><td>Namibia</td><td>15 luglio</td><td>2020 A</td><td>15 ottobre</td><td>2020</td></tr>
 <tr><td>Nauru</td><td>23 marzo</td><td>2020 A</td><td>23 giugno</td><td>2020</td></tr>
 <tr><td>Nigeria</td><td>13 ottobre</td><td>2005 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Niue</td><td>18 maggio</td><td>2012 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Norvegia</td><td>29 marzo</td><td>2007 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Nuova Zelanda</td><td>9 gennaio</td><td>2017 A</td><td>8 settembre</td><td>2017</td></tr>
+<tr><td>Oman</td><td>1° febbraio</td><td>2022 A</td><td>1° maggio</td><td>2022</td></tr>
 <tr><td>Paesi Bassi</td><td>10 maggio</td><td>2010</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>20 febbraio</td><td>2014</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Palau</td><td>28 settembre</td><td>2011 A</td><td>8 settembre</td><td>2017</td></tr>
@@ -1134,11 +1142,14 @@ Campo d’applicazione il 24 novembre 2021**[^t-2]**
 <tr><td>Polonia</td><td>26 agosto</td><td>2020 A</td><td>26 novembre</td><td>2020</td></tr>
 <tr><td>Portogallo</td><td>19 ottobre</td><td>2017 A</td><td>19 gennaio</td><td>2018</td></tr>
 <tr><td>Qatar</td><td>8 febbraio</td><td>2018 A</td><td>8 maggio</td><td>2018</td></tr>
+<tr><td>Regno Unito</td><td>26 maggio</td><td>2022 A</td><td>26 agosto</td><td>2022</td></tr>
+<tr><td>Bermuda</td><td>8 maggio</td><td>2024</td><td>8 maggio</td><td>2024</td></tr>
 <tr><td>Russia</td><td>24 maggio</td><td>2012 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Repubblica Dominicana</td><td>12 ottobre</td><td>2021 A</td><td>12 gennaio</td><td>2022</td></tr>
 <tr><td>Saint Kitts e Nevis</td><td>30 agosto</td><td>2005 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Saint Lucia</td><td>26 maggio</td><td>2016</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Saint Vincent e Grenadine</td><td>2 luglio</td><td>2020 A</td><td>2 ottobre</td><td>2020</td></tr>
+<tr><td>São Tomé e Príncipe</td><td>15 agosto</td><td>2022 A</td><td>15 novembre</td><td>2022</td></tr>
 <tr><td>Seicelle</td><td>27 novembre</td><td>2017 A</td><td>27 febbraio</td><td>2018</td></tr>
 <tr><td>Serbia</td><td>26 luglio</td><td>2018 A</td><td>26 ottobre</td><td>2018</td></tr>
 <tr><td>Sierra Leone</td><td>21 novembre</td><td>2007 A</td><td>8 settembre</td><td>2017</td></tr>
@@ -1153,8 +1164,8 @@ Campo d’applicazione il 24 novembre 2021**[^t-2]**
 <tr><td>Trinidad e Tobago</td><td>3 gennaio</td><td>2012 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Turchia\*</td><td>14 ottobre</td><td>2014 A</td><td>8 settembre</td><td>2017</td></tr>
 <tr><td>Tuvalu</td><td>2 dicembre</td><td>2005 A</td><td>8 settembre</td><td>2017</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, a eccezione di quelle della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> La Conv. non si applica alla Groenlandia.</td></tr>
+<tr><td>Vietnam</td><td>24 gennaio</td><td>2024 A</td><td>24 aprile</td><td>2024</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi in inglese possono essere ottenuti sul sito Internet dell’Organizzazione internazionale marittima (IMO): [www.imo.org](http://www.imo.org) &gt; Qui nous sommes &gt; Conventions &gt; État des conventions &gt; Status Book, oppure presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: [RU 2017 3837](https://fedlex.data.admin.ch/eli/oc/2017/459), [5879](https://fedlex.data.admin.ch/eli/oc/2017/639); [2018 2785](https://fedlex.data.admin.ch/eli/oc/2018/416), [4079](https://fedlex.data.admin.ch/eli/oc/2018/662); [2020 4343](https://fedlex.data.admin.ch/eli/oc/2020/775)e [2021 774](https://fedlex.data.admin.ch/eli/oc/2021/774). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/Treaty.
+[^t-2]: [RU 2017 3837](https://fedlex.data.admin.ch/eli/oc/2017/459), [5879](https://fedlex.data.admin.ch/eli/oc/2017/639); [2018 2785](https://fedlex.data.admin.ch/eli/oc/2018/416), [4079](https://fedlex.data.admin.ch/eli/oc/2018/662); [2020 4343](https://fedlex.data.admin.ch/eli/oc/2020/775); [2021 774](https://fedlex.data.admin.ch/eli/oc/2021/774); [2024](https://fedlex.data.admin.ch/eli/oc/2021/2024)[380](https://fedlex.data.admin.ch/eli/oc/2021/380). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
