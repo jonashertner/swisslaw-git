@@ -4,13 +4,13 @@ number: "730.115"
 title: Ausführungsbestimmungen zur Bau- und Planungsverordnung
 short: ABPV
 language: de
-version: 2021-11-22
-valid_until: 2024-07-17
-version_adopted: 2021-11-11
+version: 2024-07-18
+valid_until: 2024-12-01
+version_adopted: 2024-07-05
 adopted: 2018-03-29
 in_force: 2018-05-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/730.115"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5370/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6366/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Bau- und Planungsverordnung: Ausführungsbestimmungen | Hochbauten[^t-1]
 
 (ABPV)
 
-Vom 29. März 2018 (Stand 22. November 2021)
+Vom 29. März 2018 (Stand 18. Juli 2024)
 
 Das Bau- und Gastgewerbeinspektorat des Kantons Basel-Stadt,
 
@@ -457,23 +457,19 @@ beschliesst:
 
 #### § 36
 
-**Erdbebentüchtigkeit**
+**Erdbebensicherheit**
 
-<sup>1</sup> Bei Neubauten sind die Bestimmungen der Tragwerksnormen SIA 260 bis SIA 267 einzuhalten.
+<sup>1</sup> Bauten und Anlagen sind nach den Anforderungen der anerkannten Regeln der Technik zu erstellen und zu unterhalten, um die Sicherheit vor Erdbeben zu gewährleisten.
 
-<sup>2</sup> Bei Neubauten, die der Verordnung über den Schutz von Störfällen (Störfallverordnung StFV) vom 27. Februar 1991 unterstehen, müssen Abweichungen von der Bauwerksklasse (BWK) III begründet werden. Ein Nachweis der Gebrauchstauglichkeit ist bei diesen Gebäuden nicht gefordert. Die Bestimmungen der Tragwerksnorm SIA 261 betreffend sekundärer Bauteile, Installationen und Einrichtungen, von denen eine Gefährdung für Personen und der Umwelt ausgeht, sind einzuhalten.
+<sup>2</sup> Im Baubewilligungsverfahren ist, wenn die Baukostensumme Fr. 1 Mio. und mehr beträgt, mit dem Baubegehren der Ingenieurbericht einzureichen sowie zu deklarieren, ob gemäss diesem Ingenieurbericht Ertüchtigungsmassnahmen umzusetzen sind oder nicht. Ausgenommen davon sind Einfamilienhäuser.
 
-<sup>3</sup> Die Überprüfung bestehender Gebäude bezüglich Erdbeben erfolgt nach SIA-Norm 269/8.
+<sup>3</sup> Betrifft das Baubegehren Anlagen im Geltungsbereich der Störfallverordnung (StFV), müssen Abweichungen von der Bauwerksklasse (BWK) III begründet werden. Für Anlagen, bei denen eine schwere Schädigung nicht ausgeschlossen werden kann, ist der Schutzgrad unter Einbezug der zuständigen Vollzugsbehörde festzulegen. Die Gebrauchstauglichkeit ist bezüglich dem Schutzziel «Aufrechterhaltung der Sicherheitsbarriere» nachzuweisen. Mit dem Baubegehren sind die Ergebnisse der Arbeitsschritte, die Nutzungsvereinbarung, die Projektbasis und der Ingenieurbericht einzureichen.
 
-<sup>4</sup> Bei Umbauten (z.B. Anbau, Aufbau oder Aufstockung, Eingriff in die Tragstruktur) sind ausser bei Bagatellfällen erforderliche Ertüchtigungsmassnahmen gemäss SIA-Norm 269/8 umzusetzen. Falls bei Umbauten die Kriterien der SIA-Norm 269/8 keine verhältnismässige Ertüchtigungsmassnahme belegen, darf keine Verschlechterung des bisherigen Sicherheitsniveaus erfolgen.
+<sup>4</sup> Für die Richtigkeit der Angaben im Baubegehren und den Inhalt der eingereichten Dokumente ist die Projektverfasserin bzw. der Projektverfasser verantwortlich. Die Bewilligungsbehörde prüft lediglich die Vollständigkeit der eingereichten Dokumente.
 
-<sup>5</sup> Als Bagatellfälle gemäss Abs. 4 hiervor gelten:
+<sup>5</sup> …
 
-- a) wenn die baulichen Eingriffe nicht mehr als 10% des Gebäudeversicherungswertes ausmachen oder die Gesamtsanierungskosten von 1 Mio. Franken nicht überstiegen werden;
-- b) Dachgeschossausbauten zu Wohnzwecken;
-- c) Umbauten von Einfamilienhäusern.
-
-<sup>6</sup> Bei Umbauten an Objekten, die der StFV unterstehen, kommt der Absatz 5 hiervor nicht zur Anwendung. Abweichungen von der BWK III müssen begründet werden. Ein Nachweis der Gebrauchstauglichkeit ist bei diesen Gebäuden nicht gefordert. Die Bestimmungen der Tragwerksnorm SIA 261 betreffend sekundärer Bauteile, Installationen und Einrichtungen, von denen eine Gefährdung für Personen und der Umwelt ausgeht, sind einzuhalten.
+<sup>6</sup> …
 
 #### § 37
 
