@@ -3,11 +3,11 @@ sr: "0.747.711.1"
 title: "Protokoll von 2005 vom 14. Oktober 2005 zum Protokoll zur Bekämpfung widerrechtlicher Handlungen gegen die Sicherheit fester Plattformen, die sich auf dem Festlandsockel befinden"
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/457"
 language: de
-version: 2020-06-11
+version: 2024-07-22
 adopted: 2005-10-14
 in_force: 2010-07-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/457/20200611/de/xml/fedlex-data-admin-ch-eli-cc-2010-457-20200611-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/457/20200611/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/457/20240722/de/xml/fedlex-data-admin-ch-eli-cc-2010-457-20240722-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/457/20240722/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 15. Oktober 2008
 
 In Kraft getreten für die Schweiz am 28. Juli 2010
 
-(Stand am 11. Juni 2020)
+(Stand am 22. Juli 2024)
 
 [^t-1]: [AS 2010 3343](https://fedlex.data.admin.ch/eli/oc/2010/456)
 
@@ -218,25 +218,28 @@ Dieses Protokoll ist in einer Urschrift in arabischer, chinesischer, englischer,
 
 *Zu Urkund dessen* haben die von ihren Regierungen hierzu gehörig befugten Unterzeichneten dieses Protokoll unterschrieben. Geschehen zu London am 14. Oktober 2005. (Es folgen die Unterschriften)
 
-Geltungsbereich am 11. Juni 2020**[^t-2]**
+Geltungsbereich am 22. Juli 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Algerien</td><td>25. Januar</td><td>2011 B</td><td>25. April</td><td>2011</td></tr>
 <tr><td>Antigua und Barbuda</td><td>24. November</td><td>2015</td><td>22. Februar</td><td>2016</td></tr>
+<tr><td>Barbados</td><td>8. März</td><td>2023 B</td><td>6. Juni</td><td>2023</td></tr>
 <tr><td>Belgien</td><td>2. Juli</td><td>2019 B</td><td>2. Oktober</td><td>2019</td></tr>
 <tr><td>Benin</td><td>28. Juni</td><td>2018 B</td><td>26. September</td><td>2018</td></tr>
 <tr><td>Bulgarien</td><td>7. Oktober</td><td>2010</td><td>5. Januar</td><td>2011</td></tr>
 <tr><td>Côte d’Ivoire</td><td>23. März</td><td>2012 B</td><td>21. Juni</td><td>2012</td></tr>
-<tr><td>Dänemark<sup>\*</sup> <sup>a</sup></td><td>14. September</td><td>2018</td><td>13. Dezember</td><td>2018</td></tr>
+<tr><td>Dänemark\* <sup>a</sup></td><td>14. September</td><td>2018</td><td>13. Dezember</td><td>2018</td></tr>
 <tr><td>Deutschland</td><td>29. Januar</td><td>2016</td><td>28. April</td><td>2016</td></tr>
 <tr><td>Dominikanische Republik</td><td>9. Oktober</td><td>2010 B</td><td>28. Juli</td><td>2010</td></tr>
 <tr><td>Dschibuti</td><td>23. April</td><td>2014 B</td><td>22. Juli</td><td>2014</td></tr>
 <tr><td>Estland</td><td>16. Mai</td><td>2008</td><td>28. Juli</td><td>2010</td></tr>
 <tr><td>Fidschi</td><td>21. Mai</td><td>2008 B</td><td>28. Juli</td><td>2010</td></tr>
-<tr><td>Frankreich<sup>\*</sup></td><td>9. Mai</td><td>2018</td><td>7. August</td><td>2018</td></tr>
+<tr><td>Finnland</td><td>26. Mai</td><td>2020</td><td>24. August</td><td>2020</td></tr>
+<tr><td>Frankreich\*</td><td>9. Mai</td><td>2018</td><td>7. August</td><td>2018</td></tr>
 <tr><td>Ghana</td><td>18. November</td><td>2019 B</td><td>16. Februar</td><td>2020</td></tr>
 <tr><td>Griechenland</td><td>11. September</td><td>2013</td><td>10. Dezember</td><td>2013</td></tr>
+<tr><td>Irak</td><td>6. März</td><td>2024 B</td><td>4. Juni</td><td>2024</td></tr>
 <tr><td>Jamaika</td><td>28. November</td><td>2013 B</td><td>26. Februar</td><td>2014</td></tr>
 <tr><td>Kasachstan</td><td>3. Mai</td><td>2019 B</td><td>1. August</td><td>2019</td></tr>
 <tr><td>Katar</td><td>10. Januar</td><td>2014 B</td><td>10. April</td><td>2014</td></tr>
@@ -267,7 +270,7 @@ Geltungsbereich am 11. Juni 2020**[^t-2]**
 <tr><td>Uruguay</td><td>29. April</td><td>2015 B</td><td>28. Juli</td><td>2015</td></tr>
 <tr><td>Vanuatu</td><td>20. August</td><td>2008 B</td><td>28. Juli</td><td>2010</td></tr>
 <tr><td>Vereinigte Staaten</td><td>28. August</td><td>2015</td><td>26. November</td><td>2015</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): www.imo.org &gt; Publications &gt; Catalogue & Code Listings oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Protokoll gilt nicht für die Färöer und für Grönland. <sup>b</sup> Für das Königreich in Europa und den karibischen Teil der Niederlande (Bonaire, Sint Eustatius und Saba).</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): [www.imo.org](http://www.imo.org) &gt; Qui nous sommes &gt; Conventions &gt; État des conventions &gt; Status Book oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Protokoll gilt nicht für die Färöer und für Grönland. <sup>b</sup> Für das Königreich in Europa und den karibischen Teil der Niederlande (Bonaire, Sint Eustatius und Saba).</td></tr>
 </table>
 
-[^t-2]: [AS 2010 3345](https://fedlex.data.admin.ch/eli/oc/2010/457), [2011 3821](https://fedlex.data.admin.ch/eli/oc/2011/543), [2014 767](https://fedlex.data.admin.ch/eli/oc/2014/168), [2015 2931](https://fedlex.data.admin.ch/eli/oc/2015/549), [2016 3007](https://fedlex.data.admin.ch/eli/oc/2016/508), [2019 2459](https://fedlex.data.admin.ch/eli/oc/2019/455), [2020 2723](https://fedlex.data.admin.ch/eli/oc/2020/490). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: Diese Veröffentlichung ergänzt die früheren in [AS 2010 3345](https://fedlex.data.admin.ch/eli/oc/2010/457); [2011 3821](https://fedlex.data.admin.ch/eli/oc/2011/543); [2014 767](https://fedlex.data.admin.ch/eli/oc/2014/168); [2015 2931](https://fedlex.data.admin.ch/eli/oc/2015/549); [2016 3007](https://fedlex.data.admin.ch/eli/oc/2016/508); [2019 2459](https://fedlex.data.admin.ch/eli/oc/2019/455); [2020 2723](https://fedlex.data.admin.ch/eli/oc/2020/490); [2024 388](https://fedlex.data.admin.ch/eli/oc/2024/388). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

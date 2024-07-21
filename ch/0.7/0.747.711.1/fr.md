@@ -3,11 +3,11 @@ sr: "0.747.711.1"
 title: "Protocole de 2005 du 14 octobre 2005 relatif au Protocole pour la répression d'actes illicites contre la sécurité des plates-formes fixes situées sur le plateau continental"
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/457"
 language: fr
-version: 2020-06-11
+version: 2024-07-22
 adopted: 2005-10-14
 in_force: 2010-07-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/457/20200611/fr/xml/fedlex-data-admin-ch-eli-cc-2010-457-20200611-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/457/20200611/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/457/20240722/fr/xml/fedlex-data-admin-ch-eli-cc-2010-457-20240722-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/457/20240722/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,15 +18,9 @@ RO **2010** 3345; FF **2008** 1041
 
 Texte original
 
-Conclu à Londres le 14 octobre 2005
+Conclu à Londres le 14 octobre 2005 Approuvé par l’Assemblée fédérale le 13 juin 2008[^t-1] Instrument de ratification déposé par la Suisse le 15 octobre 2008 Entré en vigueur pour la Suisse le 28 juillet 2010
 
-Approuvé par l’Assemblée fédérale le 13 juin 2008[^t-1]
-
-Instrument de ratification déposé par la Suisse le 15 octobre 2008
-
-Entré en vigueur pour la Suisse le 28 juillet 2010
-
-(Etat le 11 juin 2020)
+(État le 22 juillet 2024)
 
 [^t-1]: [RO 2010 3343](https://fedlex.data.admin.ch/eli/oc/2010/456)
 
@@ -218,7 +212,7 @@ Le présent Protocole est établi en un seul exemplaire original en langues angl
 
 *En foi de quoi*, les soussignés, dûment autorisés à cet effet par leur gouvernement respectif, ont signé le présent Protocole. Fait à Londres, ce quatorze octobre deux mille cinq. (Suivent les signatures)
 
-Champ d’application le 11 juin 2020**[^t-2]**
+Champ d’application le 22 juillet 2024[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -227,6 +221,7 @@ Champ d’application le 11 juin 2020**[^t-2]**
 <tr><td>Antigua-et-Barbuda</td><td>24 novembre</td><td>2015</td><td>22 février</td><td>2016</td></tr>
 <tr><td>Arabie Saoudite</td><td>31 juillet</td><td>2013 A</td><td>29 octobre</td><td>2013</td></tr>
 <tr><td>Autriche</td><td>18 juin</td><td>2010</td><td>16 septembre</td><td>2010</td></tr>
+<tr><td>Barbade</td><td>8 mars</td><td>2023 A</td><td>6 juin</td><td>2023</td></tr>
 <tr><td>Belgique</td><td>2 juillet</td><td>2019 A</td><td>2 octobre</td><td>2019</td></tr>
 <tr><td>Bénin</td><td>28 juin</td><td>2018 A</td><td>26 septembre</td><td>2018</td></tr>
 <tr><td>Bulgarie</td><td>7 octobre</td><td>2010</td><td>5 janvier</td><td>2011</td></tr>
@@ -239,10 +234,12 @@ Champ d’application le 11 juin 2020**[^t-2]**
 <tr><td>Estonie</td><td>16 mai</td><td>2008</td><td>28 juillet</td><td>2010</td></tr>
 <tr><td>États-Unis</td><td>28 août</td><td>2015</td><td>26 novembre</td><td>2015</td></tr>
 <tr><td>Fidji</td><td>21 mai</td><td>2008 A</td><td>28 juillet</td><td>2010</td></tr>
+<tr><td>Finlande</td><td>26 mai</td><td>2020</td><td>24 août</td><td>2020</td></tr>
 <tr><td>France\*</td><td>9 mai</td><td>2018</td><td>7 août</td><td>2018</td></tr>
 <tr><td>Ghana</td><td>18 novembre</td><td>2019 A</td><td>16 février</td><td>2020</td></tr>
 <tr><td>Grèce</td><td>11 septembre</td><td>2013</td><td>10 décembre</td><td>2013</td></tr>
 <tr><td>Îles Marshall</td><td>9 mai</td><td>2008 A</td><td>28 juillet</td><td>2010</td></tr>
+<tr><td>Iraq</td><td>6 mars</td><td>2024 A</td><td>4 juin</td><td>2024</td></tr>
 <tr><td>Jamaïque</td><td>28 novembre</td><td>2013 A</td><td>26 février</td><td>2014</td></tr>
 <tr><td>Kazakhstan</td><td>3 mai</td><td>2019 A</td><td>1<sup>er</sup> août</td><td>2019</td></tr>
 <tr><td>Lettonie</td><td>16 novembre</td><td>2009 A</td><td>28 juillet</td><td>2010</td></tr>
@@ -267,7 +264,7 @@ Champ d’application le 11 juin 2020**[^t-2]**
 <tr><td>Turquie</td><td>21 juin</td><td>2019</td><td>19 septembre</td><td>2019</td></tr>
 <tr><td>Uruguay</td><td>29 avril</td><td>2015 A</td><td>28 juillet</td><td>2015</td></tr>
 <tr><td>Vanuatu</td><td>20 août</td><td>2008 A</td><td>28 juillet</td><td>2010</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): www.imo.org/ &gt; Publications &gt; Catalogue & Code Listings, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le protocole ne s’applique ni aux Îles Féroé ni au Groenland. <sup>b</sup> Pour le Royaume en Europe et la partie caribéenne des Pays-Bas (Bonaire, Sint Eustatius et Saba).</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): [www.imo.org](http://www.imo.org/) &gt; Qui nous sommes &gt; Conventions &gt; État des conventions &gt; Status Book, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le protocole ne s’applique ni aux Îles Féroé ni au Groenland. <sup>b</sup> Pour le Royaume en Europe et la partie caribéenne des Pays-Bas (Bonaire, Sint Eustatius et Saba).</td></tr>
 </table>
 
-[^t-2]: RO **2010** 3351, [2011 3821](https://fedlex.data.admin.ch/eli/oc/2011/543), [2014 767](https://fedlex.data.admin.ch/eli/oc/2014/168), [2015 2931](https://fedlex.data.admin.ch/eli/oc/2015/549), [2016 3007](https://fedlex.data.admin.ch/eli/oc/2016/508), [2019 2459](https://fedlex.data.admin.ch/eli/oc/2019/455), [2020 2723](https://fedlex.data.admin.ch/eli/oc/2020/490). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2010 3345](https://fedlex.data.admin.ch/eli/oc/2010/457); [2011 3821](https://fedlex.data.admin.ch/eli/oc/2011/543); [2014 767](https://fedlex.data.admin.ch/eli/oc/2014/168); [2015 2931](https://fedlex.data.admin.ch/eli/oc/2015/549); [2016 3007](https://fedlex.data.admin.ch/eli/oc/2016/508); [2019 2459](https://fedlex.data.admin.ch/eli/oc/2019/455); [2020 2723](https://fedlex.data.admin.ch/eli/oc/2020/490); [2024 388](https://fedlex.data.admin.ch/eli/oc/2024/388). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)

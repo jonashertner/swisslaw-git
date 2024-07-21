@@ -3,11 +3,11 @@ sr: "0.747.711.1"
 title: Protocollo del 2005 del 14 ottobre 2005 relativo al Protocollo per la repressione di atti illeciti contro la sicurezza delle piattaforme fisse situate sulla piattaforma continentale
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/457"
 language: it
-version: 2020-06-11
+version: 2024-07-22
 adopted: 2005-10-14
 in_force: 2010-07-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/457/20200611/it/xml/fedlex-data-admin-ch-eli-cc-2010-457-20200611-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/457/20200611/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/457/20240722/it/xml/fedlex-data-admin-ch-eli-cc-2010-457-20240722-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/457/20240722/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -26,7 +26,7 @@ Ratificato con strumento depositato dalla Svizzera il 15 ottobre 2008
 
 Entrato in vigore per la Svizzera il 28 luglio 2010
 
-(Stato 11 giugno 2020)
+(Stato 22 luglio 2024)
 
 [^t-1]: [RU 2010 3343](https://fedlex.data.admin.ch/eli/oc/2010/456)
 
@@ -218,7 +218,7 @@ Il presente Protocollo è redatto in un unico esemplare originale nelle lingue i
 
 *In fede di che,* i sottoscritti, a tal fine debitamente autorizzati dai loro rispettivi Governi, hanno apposto la loro firma al presente Protocollo. Fatto a Londra il quattordici ottobre due mila cinque. (Seguono le firme)
 
-Campo d’applicazione l’11 giugno 2020**[^t-2]**
+Campo d’applicazione il 22 luglio 2024[^t-2]
 
 <table>
 <tr><th colspan="2">Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -226,6 +226,7 @@ Campo d’applicazione l’11 giugno 2020**[^t-2]**
 <tr><td colspan="2">Antigua e Barbuda</td><td>24 novembre</td><td>2015</td><td>22 febbraio</td><td>2016</td></tr>
 <tr><td colspan="2">Arabia Saudita</td><td>31 luglio</td><td>2013 A</td><td>29 ottobre</td><td>2013</td></tr>
 <tr><td colspan="2">Austria</td><td>18 giugno</td><td>2010</td><td>16 settembre</td><td>2010</td></tr>
+<tr><td colspan="2">Barbados</td><td>8 marzo</td><td>2023 A</td><td>6 giugno</td><td>2023</td></tr>
 <tr><td colspan="2">Belgio</td><td>2 luglio</td><td>2019 A</td><td>2 ottobre</td><td>2019</td></tr>
 <tr><td colspan="2">Benin</td><td>28 giugno</td><td>2018 A</td><td>26 settembre</td><td>2018</td></tr>
 <tr><td colspan="2">Bulgaria</td><td>7 ottobre</td><td>2010</td><td>5 gennaio</td><td>2011</td></tr>
@@ -236,12 +237,14 @@ Campo d’applicazione l’11 giugno 2020**[^t-2]**
 <tr><td colspan="2">Dominicana, Repubblica</td><td>9 ottobre</td><td>2010 A</td><td>28 luglio</td><td>2010</td></tr>
 <tr><td colspan="2">Estonia</td><td>16 maggio</td><td>2008</td><td>28 luglio</td><td>2010</td></tr>
 <tr><td colspan="2">Figi</td><td>21 maggio</td><td>2008 A</td><td>28 luglio</td><td>2010</td></tr>
+<tr><td colspan="2">Finlandia</td><td>26 maggio</td><td>2020</td><td>24 agosto</td><td>2020</td></tr>
 <tr><td colspan="2">Francia\*</td><td>9 maggio</td><td>2018</td><td>7 agosto</td><td>2018</td></tr>
 <tr><td colspan="2">Germania</td><td>29 gennaio</td><td>2016</td><td>28 aprile</td><td>2016</td></tr>
 <tr><td colspan="2">Ghana</td><td>18 novembre</td><td>2019 A</td><td>16 febbraio</td><td>2020</td></tr>
 <tr><td colspan="2">Giamaica</td><td>28 novembre</td><td>2013 A</td><td>26 febbraio</td><td>2014</td></tr>
 <tr><td colspan="2">Gibuti</td><td>23 aprile</td><td>2014 A</td><td>22 luglio</td><td>2014</td></tr>
 <tr><td colspan="2">Grecia</td><td>11 settembre</td><td>2013</td><td>10 dicembre</td><td>2013</td></tr>
+<tr><td colspan="2">Iraq</td><td>6 marzo</td><td>2024 A</td><td>4 giugno</td><td>2024</td></tr>
 <tr><td colspan="2">Kazakistan</td><td>3 maggio</td><td>2019 A</td><td>1° agosto</td><td>2019</td></tr>
 <tr><td colspan="2">Lettonia</td><td>16 novembre</td><td>2009 A</td><td>28 luglio</td><td>2010</td></tr>
 <tr><td colspan="2">Liechtenstein</td><td>28 agosto</td><td>2009</td><td>28 luglio</td><td>2010</td></tr>
@@ -267,7 +270,7 @@ Campo d’applicazione l’11 giugno 2020**[^t-2]**
 <tr><td colspan="2">Turchia</td><td>21 giugno</td><td>2019</td><td>19 settembre</td><td>2019</td></tr>
 <tr><td colspan="2">Uruguay</td><td>29 aprile</td><td>2015 A</td><td>28 luglio</td><td>2015</td></tr>
 <tr><td colspan="2">Vanuatu</td><td>20 agosto</td><td>2008 A</td><td>28 luglio</td><td>2010</td></tr>
-<tr><td colspan="6">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo in inglese può essere ottenuto sul sito Internet dell’Organizzazione internazionale marittima (IMO): www.imo.org/ &gt; Publications &gt; Catalogue & Code Listings, oppure presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Il Prot. non si applica alle Isole Faeröer e alla Groenlandia. <sup>b</sup> Per il Regno in Europa e la parte caraibica dei Paesi Bassi (Bonaire, Sint Eustatius e Saba).</td></tr>
+<tr><td colspan="6">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi in inglese possono essere ottenuti sul sito Internet dell’Organizzazione internazionale marittima (IMO): [www.imo.org](http://www.imo.org) &gt; Qui nous sommes &gt; Conventions &gt; État des conventions &gt; Status Book, oppure presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Il Prot. non si applica alle Isole Faeröer e alla Groenlandia. <sup>b</sup> Per il Regno in Europa e la parte caraibica dei Paesi Bassi (Bonaire, Sint Eustatius e Saba).</td></tr>
 </table>
 
-[^t-2]: [RU 2010 3345](https://fedlex.data.admin.ch/eli/oc/2010/457), [2011 3821](https://fedlex.data.admin.ch/eli/oc/2011/543), [2014 767](https://fedlex.data.admin.ch/eli/oc/2014/168), [2015 2931](https://fedlex.data.admin.ch/eli/oc/2015/549), [2016 3007](https://fedlex.data.admin.ch/eli/oc/2016/508), [2019 2459](https://fedlex.data.admin.ch/eli/oc/2019/455)e [2020 2723](https://fedlex.data.admin.ch/eli/oc/2020/490). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2010 3345](https://fedlex.data.admin.ch/eli/oc/2010/457); [2011 3821](https://fedlex.data.admin.ch/eli/oc/2011/543); [2014 767](https://fedlex.data.admin.ch/eli/oc/2014/168); [2015 2931](https://fedlex.data.admin.ch/eli/oc/2015/549); [2016 3007](https://fedlex.data.admin.ch/eli/oc/2016/508); [2019 2459](https://fedlex.data.admin.ch/eli/oc/2019/455); [2020 2723](https://fedlex.data.admin.ch/eli/oc/2020/490); [2024 388](https://fedlex.data.admin.ch/eli/oc/2024/388). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
