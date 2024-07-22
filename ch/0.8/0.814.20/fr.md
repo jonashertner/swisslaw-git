@@ -3,11 +3,11 @@ sr: "0.814.20"
 title: "Convention du 17 mars 1992 sur la protection et l'utilisation des cours d'eau transfrontières et des lacs internationaux (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/835_835_835"
 language: fr
-version: 2023-04-20
+version: 2024-07-23
 adopted: 1992-03-17
 in_force: 1996-10-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/835_835_835/20230420/fr/xml/fedlex-data-admin-ch-eli-cc-1997-835_835_835-20230420-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/835_835_835/20230420/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/835_835_835/20240723/fr/xml/fedlex-data-admin-ch-eli-cc-1997-835_835_835-20240723-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/835_835_835/20240723/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,15 +18,9 @@ RO **1997** 835; FF **1994** I 253
 
 Texte original
 
-Conclue à Helsinki le 17 mars 1992
+Conclue à Helsinki le 17 mars 1992 Approuvée par l’Assemblée fédérale le 2 juin 1994[^t-1] Instrument de ratification déposé par la Suisse le 23 mai 1995 Entrée en vigueur pour la Suisse le 6 octobre 1996
 
-Approuvée par l’Assemblée fédérale le 2 juin 1994[^t-1]
-
-Instrument de ratification déposé par la Suisse le 23 mai 1995
-
-Entrée en vigueur pour la Suisse le 6 octobre 1996
-
-(État le 20 avril 2023)
+(État le 23 juillet 2024)
 
 [^t-1]: [RO 1997 834](https://fedlex.data.admin.ch/eli/oc/1997/834_834_834)
 
@@ -508,7 +502,7 @@ Annexe IV
 
 \18. Tout différend entre les Parties au sujet de l’interprétation ou de l’exécution de la sentence peut être soumis par l’une des Parties au tribunal arbitral qui a rendu ladite sentence ou, si ce dernier ne peut en être saisi, à un autre tribunal constitué à cet effet de la même manière que le premier.
 
-Champ d’application le 20 avril 2023[^t-2]
+Champ d’application le 23 juillet 2024[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -521,12 +515,14 @@ Champ d’application le 20 avril 2023[^t-2]
 <tr><td>Bosnie et Herzégovine <sup>a</sup></td><td>3 décembre</td><td>2009 A</td><td>3 mars</td><td>2010</td></tr>
 <tr><td>Bulgarie <sup>a</sup></td><td>28 octobre</td><td>2003</td><td>27 janvier</td><td>2004</td></tr>
 <tr><td>Cameroun <sup>a</sup></td><td>1<sup>er</sup> novembre</td><td>2022 A</td><td>30 janvier</td><td>2023</td></tr>
+<tr><td>Côte d’Ivoire <sup>a</sup></td><td>10 juillet</td><td>2024 A</td><td>8 octobre</td><td>2024</td></tr>
 <tr><td>Croatie <sup>a</sup></td><td>8 juillet</td><td>1996 A</td><td>6 octobre</td><td>1996</td></tr>
 <tr><td>Danemark\* <sup>a</sup></td><td>28 mai</td><td>1997</td><td>26 août</td><td>1997</td></tr>
 <tr><td>Espagne\* <sup>a</sup></td><td>16 février</td><td>2000</td><td>16 mai</td><td>2000</td></tr>
 <tr><td>Estonie <sup>a</sup></td><td>16 juin</td><td>1995</td><td>6 octobre</td><td>1996</td></tr>
 <tr><td>Finlande <sup>a</sup></td><td>21 février</td><td>1996</td><td>6 octobre</td><td>1996</td></tr>
 <tr><td>France\* <sup>a</sup></td><td>30 juin</td><td>1998</td><td>28 septembre</td><td>1998</td></tr>
+<tr><td>Gambie <sup>a</sup></td><td>17 juillet</td><td>2023 A</td><td>15 octobre</td><td>2023</td></tr>
 <tr><td>Ghana <sup>a</sup></td><td>22 juin</td><td>2020 A</td><td>20 septembre</td><td>2020</td></tr>
 <tr><td>Grèce <sup>a</sup></td><td>6 septembre</td><td>1996</td><td>5 décembre</td><td>1996</td></tr>
 <tr><td>Guinée-Bissau <sup>a</sup></td><td>14 juin</td><td>2021 A</td><td>12 septembre</td><td>2021</td></tr>
@@ -542,8 +538,10 @@ Champ d’application le 20 avril 2023[^t-2]
 <tr><td>Moldova <sup>a</sup></td><td>4 janvier</td><td>1994 A</td><td>6 octobre</td><td>1996</td></tr>
 <tr><td>Monténégro <sup>a</sup></td><td>23 juin</td><td>2014 A</td><td>21 septembre</td><td>2014</td></tr>
 <tr><td>Nigéria <sup>a</sup></td><td>22 mars</td><td>2023 A</td><td>20 juin</td><td>2023</td></tr>
+<tr><td>Namibie <sup>a</sup></td><td>8 juin</td><td>2023 A</td><td>6 septembre</td><td>2023</td></tr>
 <tr><td>Norvège <sup>a</sup></td><td>1<sup>er</sup> avril</td><td>1993</td><td>6 octobre</td><td>1996</td></tr>
 <tr><td>Ouzbékistan <sup>a</sup></td><td>4 septembre</td><td>2007 A</td><td>3 décembre</td><td>2007</td></tr>
+<tr><td>Panama <sup>a</sup></td><td>6 juillet</td><td>2023 A</td><td>4 octobre</td><td>2023</td></tr>
 <tr><td>Pays-Bas\* <sup>a b</sup></td><td>14 mars</td><td>1995</td><td>6 octobre</td><td>1996</td></tr>
 <tr><td>Pologne <sup>a</sup></td><td>15 mars</td><td>2000</td><td>13 juin</td><td>2000</td></tr>
 <tr><td>Portugal <sup>a</sup></td><td>9 décembre</td><td>1994</td><td>6 octobre</td><td>1996</td></tr>
@@ -561,7 +559,8 @@ Champ d’application le 20 avril 2023[^t-2]
 <tr><td>Turkménistan</td><td>29 août</td><td>2012 A</td><td>27 novembre</td><td>2012</td></tr>
 <tr><td>Ukraine <sup>a</sup></td><td>8 octobre</td><td>1999 A</td><td>6 janvier</td><td>2000</td></tr>
 <tr><td>Union européenne (UE) <sup>a</sup></td><td>14 septembre</td><td>1995</td><td>6 octobre</td><td>1996</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [https://treaties.un.org](https://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Cet État partie a accepté la décision III/1 du 28 novembre 2003 (amendements aux art. 25 et 26 de la convention). <sup>b</sup> Pour le Royaume en Europe</td></tr>
+<tr><td>Zimbabwe <sup>a</sup></td><td>19 juillet</td><td>2024 A</td><td>17 octobre</td><td>2024</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [https://treaties.un.org](https://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Cet État partie a accepté la décision III/1 du 28 novembre 2003 (amendements des art. 25 et 26 de la convention). <sup>b</sup> Pour le Royaume en Europe</td></tr>
 </table>
 
-[^t-2]: [RO 1997 835](https://fedlex.data.admin.ch/eli/oc/1997/835_835_835); [2004 4007](https://fedlex.data.admin.ch/eli/oc/2004/582); [2010 3613](https://fedlex.data.admin.ch/eli/oc/2010/521); [2013 283](https://fedlex.data.admin.ch/eli/oc/2013/42), [377](https://fedlex.data.admin.ch/eli/oc/2013/62); [2016 377](https://fedlex.data.admin.ch/eli/oc/2016/54); [2020 3431](https://fedlex.data.admin.ch/eli/oc/2020/586); [2023 194](https://fedlex.data.admin.ch/eli/oc/2023/194). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [https://www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
+[^t-2]: [RO 1997 835](https://fedlex.data.admin.ch/eli/oc/1997/835_835_835); [2004 4007](https://fedlex.data.admin.ch/eli/oc/2004/582); [2010 3613](https://fedlex.data.admin.ch/eli/oc/2010/521); [2013 283](https://fedlex.data.admin.ch/eli/oc/2013/42), [377](https://fedlex.data.admin.ch/eli/oc/2013/62); [2016 377](https://fedlex.data.admin.ch/eli/oc/2016/54); [2020 3431](https://fedlex.data.admin.ch/eli/oc/2020/586); [2023 194](https://fedlex.data.admin.ch/eli/oc/2023/194); [2024 392](https://fedlex.data.admin.ch/eli/oc/2024/392). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)

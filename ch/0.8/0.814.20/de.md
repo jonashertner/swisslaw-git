@@ -3,11 +3,11 @@ sr: "0.814.20"
 title: Übereinkommen vom 17. März 1992 zum Schutz und zur Nutzung grenzüberschreitender Wasserläufe und internationaler Seen (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1997/835_835_835"
 language: de
-version: 2023-04-20
+version: 2024-07-23
 adopted: 1992-03-17
 in_force: 1996-10-06
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/835_835_835/20230420/de/xml/fedlex-data-admin-ch-eli-cc-1997-835_835_835-20230420-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1997/835_835_835/20230420/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1997/835_835_835/20240723/de/xml/fedlex-data-admin-ch-eli-cc-1997-835_835_835-20240723-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1997/835_835_835/20240723/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1997** 835; BBl **1994** I 261
 
 Abgeschlossen in Helsinki am 17. März 1992 Von der Bundesversammlung genehmigt am 2. Juni 1994[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 23. Mai 1995 In Kraft getreten für die Schweiz am 6. Oktober 1996
 
-(Stand am 20. April 2023)
+(Stand am 23. Juli 2024)
 
 [^t-1]: [AS 1997 834](https://fedlex.data.admin.ch/eli/oc/1997/834_834_834)
 
@@ -497,7 +497,7 @@ indem sie alle ihnen zur Verfügung stehenden Mittel nutzen.
 
 \18. Jede sich zwischen den Vertragsparteien aufgrund der Auslegung oder der Ausführung des Schiedsspruchs ergebende Streitigkeit kann von jeder Partei dem Schiedsgericht, welches den Schiedsspruch aussprach, vorgelegt werden oder kann, wenn dieses Schiedsgericht nicht zur Verfügung steht, einem für diesen Zweck in derselben Art und Weise eingesetzten Gericht vorgelegt werden.
 
-Geltungsbereich am 20. April 2023[^t-2]
+Geltungsbereich am 23. Juli 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th colspan="2">Ratifikation Beitritt (B)</th><th></th><th colspan="2">Inkrafttreten</th><th></th></tr>
@@ -507,12 +507,14 @@ Geltungsbereich am 20. April 2023[^t-2]
 <tr><td>Belgien <sup>a</sup></td><td colspan="2">8. November</td><td>2000</td><td colspan="2">6. Februar</td><td>2001</td></tr>
 <tr><td>Bosnien und Herzegowina <sup>a</sup></td><td colspan="2">3. Dezember</td><td>2009 B</td><td colspan="2">3. März</td><td>2010</td></tr>
 <tr><td>Bulgarien <sup>a</sup></td><td colspan="2">28. Oktober</td><td>2003</td><td colspan="2">27. Januar</td><td>2004</td></tr>
+<tr><td>Côte d’Ivoire <sup>a</sup></td><td>10. Juli</td><td colspan="3">2024 B</td><td>8. Oktober</td><td>2024</td></tr>
 <tr><td>Dänemark\* <sup>a</sup></td><td colspan="2">28. Mai</td><td>1997</td><td colspan="2">26. August</td><td>1997</td></tr>
 <tr><td>Deutschland\* <sup>a</sup></td><td colspan="2">30. Januar</td><td>1995</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
 <tr><td>Estland <sup>a</sup></td><td colspan="2">16. Juni</td><td>1995</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
 <tr><td>Europäische Union (EU)<sup>a</sup></td><td colspan="2">14. September</td><td>1995</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
 <tr><td>Finnland <sup>a</sup></td><td colspan="2">21. Februar</td><td>1996</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
 <tr><td>Frankreich\* <sup>a</sup></td><td colspan="2">30. Juni</td><td>1998</td><td colspan="2">28. September</td><td>1998</td></tr>
+<tr><td>Gambia <sup>a</sup></td><td>17. Juli</td><td colspan="3">2023 B</td><td>15. Oktober</td><td>2023</td></tr>
 <tr><td>Ghana <sup>a</sup></td><td colspan="2">22. Juni</td><td>2020 B</td><td colspan="2">20. September</td><td>2020</td></tr>
 <tr><td>Griechenland <sup>a</sup></td><td colspan="2">6. September</td><td>1996</td><td colspan="2">5. Dezember</td><td>1996</td></tr>
 <tr><td>Guinea-Bissau <sup>a</sup></td><td colspan="2">14. Juni</td><td>2021 B</td><td colspan="2">12. September</td><td>2021</td></tr>
@@ -527,11 +529,13 @@ Geltungsbereich am 20. April 2023[^t-2]
 <tr><td>Luxemburg <sup>a</sup></td><td colspan="2">7. Juni</td><td>1994</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
 <tr><td>Moldau <sup>a</sup></td><td colspan="2">4. Januar</td><td>1994 B</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
 <tr><td>Montenegro <sup>a</sup></td><td colspan="2">23. Juni</td><td>2014 B</td><td colspan="2">21. September</td><td>2014</td></tr>
+<tr><td>Namibia <sup>a</sup></td><td>8. Juni</td><td colspan="3">2023 B</td><td>6. September</td><td>2023</td></tr>
 <tr><td>Niederlande\* <sup>a b</sup></td><td colspan="2">14. März</td><td>1995</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
 <tr><td>Nigeria <sup>a</sup></td><td>22. März</td><td colspan="3">2023 B</td><td>20. Juni</td><td>2023</td></tr>
 <tr><td>Nordmazedonien <sup>a</sup></td><td colspan="2">28. Juli</td><td>2015 B</td><td colspan="2">26. Oktober</td><td>2015</td></tr>
 <tr><td>Norwegen <sup>a</sup></td><td colspan="2">1. April</td><td>1993</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
 <tr><td>Österreich\* <sup>a</sup></td><td colspan="2">25. Juli</td><td>1996</td><td colspan="2">23. Oktober</td><td>1996</td></tr>
+<tr><td>Panama <sup>a</sup></td><td>6. Juli</td><td colspan="3">2023 B</td><td>4. Oktober</td><td>2023</td></tr>
 <tr><td>Polen <sup>a</sup></td><td colspan="2">15. März</td><td>2000</td><td colspan="2">13. Juni</td><td>2000</td></tr>
 <tr><td>Portugal <sup>a</sup></td><td colspan="2">9. Dezember</td><td>1994</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
 <tr><td>Rumänien <sup>a</sup></td><td colspan="2">31. Mai</td><td>1995</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
@@ -540,6 +544,7 @@ Geltungsbereich am 20. April 2023[^t-2]
 <tr><td>Schweiz <sup>a</sup></td><td colspan="2">23. Mai</td><td>1995</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
 <tr><td>Senegal <sup>a</sup></td><td colspan="2">31. August</td><td>2018 B</td><td colspan="2">29. November</td><td>2018</td></tr>
 <tr><td>Serbien\* <sup>a</sup></td><td colspan="2">27. August</td><td>2010 B</td><td colspan="2">25. November</td><td>2010</td></tr>
+<tr><td>Simbabwe <sup>a</sup></td><td>19. Juli</td><td colspan="3">2024 B</td><td>17. Oktober</td><td>2024</td></tr>
 <tr><td>Slowakei <sup>a</sup></td><td colspan="2">7. Juli</td><td>1999 B</td><td colspan="2">5. Oktober</td><td>1999</td></tr>
 <tr><td>Slowenien <sup>a</sup></td><td colspan="2">13. April</td><td>1999 B</td><td colspan="2">12. Juli</td><td>1999</td></tr>
 <tr><td>Spanien\* <sup>a</sup></td><td colspan="2">16. Februar</td><td>2000</td><td colspan="2">16. Mai</td><td>2000</td></tr>
@@ -550,7 +555,7 @@ Geltungsbereich am 20. April 2023[^t-2]
 <tr><td>Ukraine <sup>a</sup></td><td colspan="2">8. Oktober</td><td>1999 B</td><td colspan="2">6. Januar</td><td>2000</td></tr>
 <tr><td>Ungarn <sup>a</sup></td><td colspan="2">2. September</td><td>1994</td><td colspan="2">6. Oktober</td><td>1996</td></tr>
 <tr><td>Usbekistan <sup>a</sup></td><td colspan="2">4. September</td><td>2007 B</td><td colspan="2">3. Dezember</td><td>2007</td></tr>
-<tr><td colspan="7">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Dieser Vertragsstaat hat den Beschluss III/1 vom 28. November 2003 angenommen (Änderung der Artikel 25 und 26 des Übereinkommens). <sup>b</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="7">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Dieser Vertragsstaat hat den Beschluss III/1 vom 28. November 2003 angenommen (Änderung der Artikel 25 und 26 des Übereinkommens). <sup>b</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-2]: [AS 1997 835](https://fedlex.data.admin.ch/eli/oc/1997/835_835_835); [2004 4007](https://fedlex.data.admin.ch/eli/oc/2004/582); [2010 3613](https://fedlex.data.admin.ch/eli/oc/2010/521); [2013 283](https://fedlex.data.admin.ch/eli/oc/2013/42), [377](https://fedlex.data.admin.ch/eli/oc/2013/62); [2016 377](https://fedlex.data.admin.ch/eli/oc/2016/54); [2020 3431](https://fedlex.data.admin.ch/eli/oc/2020/586); [2023 194](https://fedlex.data.admin.ch/eli/oc/2023/194). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform: des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [https://www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)
+[^t-2]: [AS 1997 835](https://fedlex.data.admin.ch/eli/oc/1997/835_835_835); [2004 4007](https://fedlex.data.admin.ch/eli/oc/2004/582); [2010 3613](https://fedlex.data.admin.ch/eli/oc/2010/521); [2013 283](https://fedlex.data.admin.ch/eli/oc/2013/42), [377](https://fedlex.data.admin.ch/eli/oc/2013/62); [2016 377](https://fedlex.data.admin.ch/eli/oc/2016/54); [2020 3431](https://fedlex.data.admin.ch/eli/oc/2020/586); [2023 194](https://fedlex.data.admin.ch/eli/oc/2023/194); [2024 392](https://fedlex.data.admin.ch/eli/oc/2024/392). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
