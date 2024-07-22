@@ -3,11 +3,11 @@ sr: "0.814.012"
 title: Accord de Paris du 12 décembre 2015 (Accord sur le climat)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/619"
 language: fr
-version: 2022-09-16
+version: 2024-07-23
 adopted: 2015-12-12
 in_force: 2017-11-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/619/20220916/fr/xml/fedlex-data-admin-ch-eli-cc-2017-619-20220916-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/619/20220916/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/619/20240723/fr/xml/fedlex-data-admin-ch-eli-cc-2017-619-20240723-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/619/20240723/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,15 +20,9 @@ RO **2017** 5735; FF **2017** 300
 
 (Accord sur le climat)[^t-1]
 
-Conclu à Paris le 12 décembre 2015
+Conclu à Paris le 12 décembre 2015 Approuvé par l’Assemblée fédérale le 16 juin 2017[^t-2] Instrument de ratification déposé par la Suisse le 6 octobre 2017 Entré en vigueur pour la Suisse le 5 novembre 2017
 
-Approuvé par l’Assemblée fédérale le 16 juin 2017[^t-2]
-
-Instrument de ratification déposé par la Suisse le 6 octobre 2017
-
-Entré en vigueur pour la Suisse le 5 novembre 2017
-
-(État le 16 septembre 2022)
+(État le 23 juillet 2024)
 
 [^t-1]: Erratum du 8 déc. 2020 ([RO 2020 5373](https://fedlex.data.admin.ch/eli/oc/2020/929)).
 [^t-2]: [RO 2017 5733](https://fedlex.data.admin.ch/eli/oc/2017/618)
@@ -458,10 +452,10 @@ Fait à Paris le douze décembre deux mille quinze.
 
 *En foi de quoi* les soussignés, dûment autorisés à cet effet, ont signé le présent Accord. (Suivent les signatures)
 
-Champ d’application le 16 septembre 2022[^t-3]
+Champ d’application le 23 juillet 2024[^t-3]
 
 <table>
-<tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afghanistan</td><td>15 février</td><td>2017</td><td>17 mars</td><td>2017</td></tr>
 <tr><td>Afrique du Sud</td><td>1<sup>er</sup> novembre</td><td>2016</td><td>1<sup>er</sup> décembre</td><td>2016</td></tr>
 <tr><td>Albanie</td><td>21 septembre</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
@@ -512,13 +506,15 @@ Champ d’application le 16 septembre 2022[^t-3]
 <tr><td>Côte d’Ivoire</td><td>25 octobre</td><td>2016</td><td>24 novembre</td><td>2016</td></tr>
 <tr><td>Croatie</td><td>24 mai</td><td>2017</td><td>23 juin</td><td>2017</td></tr>
 <tr><td>Cuba</td><td>28 décembre</td><td>2016</td><td>27 janvier</td><td>2017</td></tr>
-<tr><td>Danemark <sup>a</sup></td><td>1<sup>er</sup> novembre</td><td>2016</td><td>1<sup>er</sup> décembre</td><td>2016</td></tr>
+<tr><td>Danemark</td><td>1<sup>er</sup> novembre</td><td>2016</td><td>1<sup>er</sup> décembre</td><td>2016</td></tr>
+<tr><td>Groenland</td><td>2 juillet</td><td>2024</td><td>2 juillet</td><td>2024</td></tr>
 <tr><td>Djibouti</td><td>11 novembre</td><td>2016</td><td>11 décembre</td><td>2016</td></tr>
 <tr><td>Dominique</td><td>21 septembre</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
 <tr><td>Égypte</td><td>29 juin</td><td>2017</td><td>29 juillet</td><td>2017</td></tr>
 <tr><td>El Salvador</td><td>27 mars</td><td>2017</td><td>26 avril</td><td>2017</td></tr>
 <tr><td>Émirats arabes unis</td><td>21 septembre</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
 <tr><td>Équateur</td><td>20 septembre</td><td>2017</td><td>20 octobre</td><td>2017</td></tr>
+<tr><td>Érythrée</td><td>7 février</td><td>2023</td><td>9 mars</td><td>2023</td></tr>
 <tr><td>Espagne\*</td><td>12 janvier</td><td>2017</td><td>11 février</td><td>2017</td></tr>
 <tr><td>Estonie</td><td>4 novembre</td><td>2016</td><td>4 décembre</td><td>2016</td></tr>
 <tr><td>Eswatini</td><td>21 septembre</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
@@ -532,7 +528,7 @@ Champ d’application le 16 septembre 2022[^t-3]
 <tr><td>Géorgie</td><td>8 mai</td><td>2017</td><td>7 juin</td><td>2017</td></tr>
 <tr><td>Ghana</td><td>21 septembre</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
 <tr><td>Grenade</td><td>22 avril</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
-<tr><td>Grèce</td><td>14 octobre</td><td>2016</td><td>13 novembre</td><td>2016</td></tr>
+<tr><td>Grèce\*\*</td><td>14 octobre</td><td>2016</td><td>13 novembre</td><td>2016</td></tr>
 <tr><td>Guatemala</td><td>25 janvier</td><td>2017</td><td>24 février</td><td>2017</td></tr>
 <tr><td>Guinée</td><td>21 septembre</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
 <tr><td>Guinée-Bissau</td><td>22 octobre</td><td>2018</td><td>21 novembre</td><td>2018</td></tr>
@@ -541,7 +537,6 @@ Champ d’application le 16 septembre 2022[^t-3]
 <tr><td>Haïti</td><td>31 juillet</td><td>2017</td><td>30 août</td><td>2017</td></tr>
 <tr><td>Honduras</td><td>21 septembre</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
 <tr><td>Hongrie</td><td>5 octobre</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
-<tr><td>Îles Cook\*</td><td>1<sup>er</sup> septembre</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
 <tr><td>Îles Marshall\*</td><td>22 avril</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
 <tr><td>Îles Salomon\*</td><td>21 septembre</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
 <tr><td>Inde\*</td><td>2 octobre</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
@@ -591,9 +586,10 @@ Champ d’application le 16 septembre 2022[^t-3]
 <tr><td>Nicaragua</td><td>23 octobre</td><td>2017 A</td><td>22 novembre</td><td>2017</td></tr>
 <tr><td>Niger</td><td>21 septembre</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
 <tr><td>Nigéria</td><td>16 mai</td><td>2017</td><td>15 juin</td><td>2017</td></tr>
-<tr><td>Nioué\*</td><td>28 octobre</td><td>2016</td><td>27 novembre</td><td>2016</td></tr>
 <tr><td>Norvège</td><td>20 juin</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
-<tr><td>Nouvelle-Zélande <sup>b</sup></td><td>4 octobre</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
+<tr><td>Nouvelle-Zélande <sup>a</sup></td><td>4 octobre</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
+<tr><td>Îles Cook\*</td><td>1<sup>er</sup> septembre</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
+<tr><td>Nioué\*</td><td>28 octobre</td><td>2016</td><td>27 novembre</td><td>2016</td></tr>
 <tr><td>Oman</td><td>22 mai</td><td>2019</td><td>21 juin</td><td>2019</td></tr>
 <tr><td>Ouganda</td><td>21 septembre</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
 <tr><td>Ouzbékistan</td><td>9 novembre</td><td>2018</td><td>9 décembre</td><td>2018</td></tr>
@@ -603,7 +599,7 @@ Champ d’application le 16 septembre 2022[^t-3]
 <tr><td>Panama</td><td>21 septembre</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
 <tr><td>Papouasie-Nouvelle-Guinée</td><td>21 septembre</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
 <tr><td>Paraguay</td><td>14 octobre</td><td>2016</td><td>13 novembre</td><td>2016</td></tr>
-<tr><td>Pays-Bas\* <sup>c</sup></td><td>28 juillet</td><td>2017</td><td>27 août</td><td>2017</td></tr>
+<tr><td>Pays-Bas\* <sup>b</sup></td><td>28 juillet</td><td>2017</td><td>27 août</td><td>2017</td></tr>
 <tr><td>Pérou</td><td>25 juillet</td><td>2016</td><td>4 novembre</td><td>2016</td></tr>
 <tr><td>Philippines\*</td><td>23 mars</td><td>2017</td><td>22 avril</td><td>2017</td></tr>
 <tr><td>Pologne\*</td><td>7 octobre</td><td>2016</td><td>6 novembre</td><td>2016</td></tr>
@@ -614,6 +610,9 @@ Champ d’application le 16 septembre 2022[^t-3]
 <tr><td>République tchèque</td><td>5 octobre</td><td>2017</td><td>4 novembre</td><td>2017</td></tr>
 <tr><td>Roumanie</td><td>1<sup>er</sup> juin</td><td>2017</td><td>1<sup>er</sup> juillet</td><td>2017</td></tr>
 <tr><td>Royaume-Uni</td><td>18 novembre</td><td>2016</td><td>18 décembre</td><td>2016</td></tr>
+<tr><td>Gibraltar</td><td>23 septembre</td><td>2022</td><td>23 septembre</td><td>2022</td></tr>
+<tr><td>Guernesey</td><td>6 décembre</td><td>2023</td><td>6 décembre</td><td>2023</td></tr>
+<tr><td>Île de Man</td><td>23 mars</td><td>2023</td><td>23 mars</td><td>2023</td></tr>
 <tr><td>Jersey</td><td>29 avril</td><td>2022</td><td>29 avril</td><td>2022</td></tr>
 <tr><td>Russie\*</td><td>7 octobre</td><td>2019</td><td>6 novembre</td><td>2019</td></tr>
 <tr><td>Rwanda</td><td>6 octobre</td><td>2016</td><td>5 novembre</td><td>2016</td></tr>
@@ -659,7 +658,7 @@ Champ d’application le 16 septembre 2022[^t-3]
 <tr><td>Vietnam</td><td>3 novembre</td><td>2016</td><td>3 décembre</td><td>2016</td></tr>
 <tr><td>Zambie</td><td>9 décembre</td><td>2016</td><td>8 janvier</td><td>2017</td></tr>
 <tr><td>Zimbabwe</td><td>7 août</td><td>2017</td><td>6 septembre</td><td>2017</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> L’Accord ne s’applique pas au Groenland. <sup>b</sup> L’Accord s’applique aux Tokélaou. <sup>c</sup> Pour la partie européenne des Pays-Bas.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [http://treaties.un.org](http://treaties.un.org/) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> L’Accord s’applique aux Tokélaou. <sup>b</sup> Pour la partie européenne des Pays-Bas.</td></tr>
 </table>
 
-[^t-3]: [RO 2017 5735](https://fedlex.data.admin.ch/eli/oc/2017/619); [2018 3895](https://fedlex.data.admin.ch/eli/oc/2018/618); [2019 2463](https://fedlex.data.admin.ch/eli/oc/2019/457); [2020 1873](https://fedlex.data.admin.ch/eli/oc/2020/385); [2021 119](https://fedlex.data.admin.ch/eli/oc/2021/119); [2022 520](https://fedlex.data.admin.ch/eli/oc/2022/520). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: https://fedlex.admin.ch/fr/Treaty
+[^t-3]: [RO 2017 5735](https://fedlex.data.admin.ch/eli/oc/2017/619); [2018 3895](https://fedlex.data.admin.ch/eli/oc/2018/618); [2019 2463](https://fedlex.data.admin.ch/eli/oc/2019/457); [2020 1873](https://fedlex.data.admin.ch/eli/oc/2020/385); [2021 119](https://fedlex.data.admin.ch/eli/oc/2021/119); [2022 520](https://fedlex.data.admin.ch/eli/oc/2022/520); [2024 391](https://fedlex.data.admin.ch/eli/oc/2024/391). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)

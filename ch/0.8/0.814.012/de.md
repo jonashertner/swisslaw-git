@@ -3,11 +3,11 @@ sr: "0.814.012"
 title: Übereinkommen von Paris vom 12. Dezember 2015 (Klimaübereinkommen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/619"
 language: de
-version: 2022-09-16
+version: 2024-07-23
 adopted: 2015-12-12
 in_force: 2017-11-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/619/20220916/de/xml/fedlex-data-admin-ch-eli-cc-2017-619-20220916-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/619/20220916/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/619/20240723/de/xml/fedlex-data-admin-ch-eli-cc-2017-619-20240723-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/619/20240723/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -28,7 +28,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 6. Oktober 2017
 
 In Kraft getreten für die Schweiz am 5. November 2017
 
-(Stand am 16. September 2022)
+(Stand am 23. Juli 2024)
 
 [^t-1]: Amtliche deutsche Übersetzung des Originaltexts.
 [^t-2]: Berichtigung vom 8. Dez. 2020 ([AS 2020 5373](https://fedlex.data.admin.ch/eli/oc/2020/929)).
@@ -458,10 +458,10 @@ Geschehen zu Paris am 12. Dezember 2015.
 
 *Zu Urkunde dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. (Es folgen die Unterschriften)
 
-Geltungsbereich am 16. September 2022[^t-4]
+Geltungsbereich am 23. Juli 2024[^t-4]
 
 <table>
-<tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Afghanistan</td><td>15. Februar</td><td>2017</td><td>17. März</td><td>2017</td></tr>
 <tr><td>Ägypten</td><td>29. Juni</td><td>2017</td><td>29. Juli</td><td>2017</td></tr>
 <tr><td>Albanien</td><td>21. September</td><td>2016</td><td>4. November</td><td>2016</td></tr>
@@ -496,16 +496,17 @@ Geltungsbereich am 16. September 2022[^t-4]
 <tr><td>China</td><td>3. September</td><td>2016</td><td>4. November</td><td>2016</td></tr>
 <tr><td>Hongkong</td><td>3. September</td><td>2016</td><td>4. November</td><td>2016</td></tr>
 <tr><td>Macau</td><td>3. September</td><td>2016</td><td>4. November</td><td>2016</td></tr>
-<tr><td>Cook-Inseln\*</td><td>1. September</td><td>2016</td><td>4. November</td><td>2016</td></tr>
 <tr><td>Costa Rica</td><td>13. Oktober</td><td>2016</td><td>12. November</td><td>2016</td></tr>
 <tr><td>Côte d’Ivoire</td><td>25. Oktober</td><td>2016</td><td>24. November</td><td>2016</td></tr>
-<tr><td>Dänemark <sup>a</sup></td><td>1. November</td><td>2016</td><td>1. Dezember</td><td>2016</td></tr>
+<tr><td>Dänemark</td><td>1. November</td><td>2016</td><td>1. Dezember</td><td>2016</td></tr>
+<tr><td>Grönland</td><td>2. Juli</td><td>2024</td><td>2. Juli</td><td>2024</td></tr>
 <tr><td>Deutschland</td><td>5. Oktober</td><td>2016</td><td>4. November</td><td>2016</td></tr>
 <tr><td>Dominica</td><td>21. September</td><td>2016</td><td>4. November</td><td>2016</td></tr>
 <tr><td>Dominikanische Republik</td><td>21. September</td><td>2017</td><td>21. Oktober</td><td>2017</td></tr>
 <tr><td>Dschibuti</td><td>11. November</td><td>2016</td><td>11. Dezember</td><td>2016</td></tr>
 <tr><td>Ecuador</td><td>20. September</td><td>2017</td><td>20. Oktober</td><td>2017</td></tr>
 <tr><td>El Salvador</td><td>27. März</td><td>2017</td><td>26. April</td><td>2017</td></tr>
+<tr><td>Eritrea</td><td>7. Februar</td><td>2023</td><td>9. März</td><td>2023</td></tr>
 <tr><td>Estland</td><td>4. November</td><td>2016</td><td>4. Dezember</td><td>2016</td></tr>
 <tr><td>Eswatini</td><td>21. September</td><td>2016</td><td>4. November</td><td>2016</td></tr>
 <tr><td>Europäische Union\*</td><td>5. Oktober</td><td>2016</td><td>4. November</td><td>2016</td></tr>
@@ -517,7 +518,7 @@ Geltungsbereich am 16. September 2022[^t-4]
 <tr><td>Georgien</td><td>8. Mai</td><td>2017</td><td>7. Juni</td><td>2017</td></tr>
 <tr><td>Ghana</td><td>21. September</td><td>2016</td><td>4. November</td><td>2016</td></tr>
 <tr><td>Grenada</td><td>22. April</td><td>2016</td><td>4. November</td><td>2016</td></tr>
-<tr><td>Griechenland</td><td>14. Oktober</td><td>2016</td><td>13. November</td><td>2016</td></tr>
+<tr><td>Griechenland\*\*</td><td>14. Oktober</td><td>2016</td><td>13. November</td><td>2016</td></tr>
 <tr><td>Guatemala</td><td>25. Januar</td><td>2017</td><td>24. Februar</td><td>2017</td></tr>
 <tr><td>Guinea</td><td>21. September</td><td>2016</td><td>4. November</td><td>2016</td></tr>
 <tr><td>Guinea-Bissau</td><td>22. Oktober</td><td>2018</td><td>21. November</td><td>2018</td></tr>
@@ -582,12 +583,13 @@ Geltungsbereich am 16. September 2022[^t-4]
 <tr><td>Namibia</td><td>21. September</td><td>2016</td><td>4. November</td><td>2016</td></tr>
 <tr><td>Nauru\*</td><td>22. April</td><td>2016</td><td>4. November</td><td>2016</td></tr>
 <tr><td>Nepal</td><td>5. Oktober</td><td>2016</td><td>4. November</td><td>2016</td></tr>
-<tr><td>Neuseeland <sup>b</sup></td><td>4. Oktober</td><td>2016</td><td>4. November</td><td>2016</td></tr>
+<tr><td>Neuseeland <sup>a</sup></td><td>4. Oktober</td><td>2016</td><td>4. November</td><td>2016</td></tr>
+<tr><td>Cook-Inseln\*</td><td>1. September</td><td>2016</td><td>4. November</td><td>2016</td></tr>
+<tr><td>Niue\*</td><td>28. Oktober</td><td>2016</td><td>27. November</td><td>2016</td></tr>
 <tr><td>Nicaragua</td><td>23. Oktober</td><td>2017 B</td><td>22. November</td><td>2017</td></tr>
-<tr><td>Niederlande\* <sup>c</sup></td><td>28. Juli</td><td>2017</td><td>27. August</td><td>2017</td></tr>
+<tr><td>Niederlande\* <sup>b</sup></td><td>28. Juli</td><td>2017</td><td>27. August</td><td>2017</td></tr>
 <tr><td>Niger</td><td>21. September</td><td>2016</td><td>4. November</td><td>2016</td></tr>
 <tr><td>Nigeria</td><td>16. Mai</td><td>2017</td><td>15. Juni</td><td>2017</td></tr>
-<tr><td>Niue\*</td><td>28. Oktober</td><td>2016</td><td>27. November</td><td>2016</td></tr>
 <tr><td>Nordmazedonien</td><td>9. Januar</td><td>2018</td><td>8. Februar</td><td>2018</td></tr>
 <tr><td>Norwegen</td><td>20. Juni</td><td>2016</td><td>4. November</td><td>2016</td></tr>
 <tr><td>Oman</td><td>22. Mai</td><td>2019</td><td>21. Juni</td><td>2019</td></tr>
@@ -655,11 +657,14 @@ Geltungsbereich am 16. September 2022[^t-4]
 <tr><td>Vereinigte Arabische Emirate</td><td>21. September</td><td>2016</td><td>4. November</td><td>2016</td></tr>
 <tr><td>Vereinigte Staaten</td><td>20. Januar</td><td>2021</td><td>19. Februar</td><td>2021</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>18. November</td><td>2016</td><td>18. Dezember</td><td>2016</td></tr>
+<tr><td>Gibraltar</td><td>23. September</td><td>2022</td><td>23. September</td><td>2022</td></tr>
+<tr><td>Guernsey</td><td>6. Dezember</td><td>2023</td><td>6. Dezember</td><td>2023</td></tr>
+<tr><td>Insel Man</td><td>23. März</td><td>2023</td><td>23. März</td><td>2023</td></tr>
 <tr><td>Jersey</td><td>29. April</td><td>2022</td><td>29. April</td><td>2022</td></tr>
 <tr><td>Vietnam</td><td>3. November</td><td>2016</td><td>3. Dezember</td><td>2016</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>11. Oktober</td><td>2016</td><td>10. November</td><td>2016</td></tr>
 <tr><td>Zypern</td><td>4. Januar</td><td>2017</td><td>3. Februar</td><td>2017</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Abkommen gilt nicht für Grönland. <sup>b</sup> Das Abkommen gilt nicht für Tokelau. <sup>c</sup> Für den europäischen Teil der Niederlande.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Abkommen gilt nicht für Tokelau. <sup>b</sup> Für den europäischen Teil der Niederlande.</td></tr>
 </table>
 
-[^t-4]: [AS 2017 5735](https://fedlex.data.admin.ch/eli/oc/2017/619); [2018 3895](https://fedlex.data.admin.ch/eli/oc/2018/618); [2019 2463](https://fedlex.data.admin.ch/eli/oc/2019/457); [2020 1873](https://fedlex.data.admin.ch/eli/oc/2020/385); [2021 119](https://fedlex.data.admin.ch/eli/oc/2021/119); [2022 520](https://fedlex.data.admin.ch/eli/oc/2022/520). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht https://www.fedlex.admin.ch/de/treaty.
+[^t-4]: [AS 2017 5735](https://fedlex.data.admin.ch/eli/oc/2017/619); [2018 3895](https://fedlex.data.admin.ch/eli/oc/2018/618); [2019 2463](https://fedlex.data.admin.ch/eli/oc/2019/457); [2020 1873](https://fedlex.data.admin.ch/eli/oc/2020/385); [2021 119](https://fedlex.data.admin.ch/eli/oc/2021/119); [2022 520](https://fedlex.data.admin.ch/eli/oc/2022/520); [2024 391](https://fedlex.data.admin.ch/eli/oc/2024/391). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
