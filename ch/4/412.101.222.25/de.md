@@ -3,18 +3,18 @@ sr: "412.101.222.25"
 title: Verordnung des SBFI vom 29. August 2023 über die berufliche Grundbildung der Berufe mit EBA im Berufsfeld Gebäudehülle
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/504"
 language: de
-version: 2024-04-01
+version: 2024-07-24
 adopted: 2023-08-29
 in_force: 2023-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/504/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2023-504-20240401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/504/20240401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/504/20240724/de/xml/fedlex-data-admin-ch-eli-cc-2023-504-20240724-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/504/20240724/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung der Berufe mit EBA im Berufsfeld Gebäudehülle
 
-vom 29. August 2023 (Stand am 1. April 2024)
+vom 29. August 2023 (Stand am 24. Juli 2024)
 
 <table>
 <tr><td>52010</td><td>Abdichtungspraktikerin EBA / Abdichtungspraktiker EBA Praticienne en étanchéité AFP / Praticien en étanchéité AFP Addetta alle impermeabilizzazioni CFP / Addetto alle impermeabilizzazioni CFP</td></tr>
@@ -346,7 +346,7 @@ Die Bildung in beruflicher Praxis im Betrieb umfasst über die ganze Dauer der b
 
 Die Tage und die Inhalte sind wie folgt auf 5–6 Kurse aufgeteilt:
 
-- a. für den Beruf Abdichtungspraktiker/Abdichtungspraktiker EBA:
+- a.[^13-1] für den Beruf Abdichtungspraktiker/Abdichtungspraktiker EBA:
 
 <table>
 <tr><th>Lehrjahr</th><th>Kurse</th><th>Handlungskompetenzbereich</th><th>Dauer</th></tr>
@@ -420,6 +420,8 @@ Die Tage und die Inhalte sind wie folgt auf 5–6 Kurse aufgeteilt:
 </table>
 
 <sup>3</sup> Im letzten Semester der beruflichen Grundbildung dürfen keine überbetrieblichen Kurse stattfinden.
+
+[^13-1]: Die Berichtigung vom 24. Juli 2024 betrifft nur den italienischen Text ([AS 2024 381](https://fedlex.data.admin.ch/eli/oc/2024/381)).
 
 ## 5. Abschnitt: Bildungsplan
 

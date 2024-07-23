@@ -3,18 +3,18 @@ sr: "412.101.222.25"
 title: Ordonnance du SEFRI du 29 août 2023 sur la formation professionnelle initiale des professions avec AFP dans le champ professionnel Enveloppe du bâtiment
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/504"
 language: fr
-version: 2024-04-01
+version: 2024-07-24
 adopted: 2023-08-29
 in_force: 2023-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/504/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2023-504-20240401-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/504/20240401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/504/20240724/fr/xml/fedlex-data-admin-ch-eli-cc-2023-504-20240724-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/504/20240724/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale des professions avec AFP dans le champ professionnel Enveloppe du bâtiment
 
-du 29 août 2023 (État le 1<sup>er</sup> avril 2024)
+du 29 août 2023 (État le 24 juillet 2024)
 
 <table>
 <tr><td>52010</td><td>Praticienne en étanchéité AFP / Praticien en étanchéité AFP Abdichtungspraktikerin EBA / Abdichtungspraktiker EBA Addetta alle impermeabilizzazioni CFP / Addetto alle impermeabilizzazioni CFP</td></tr>
@@ -346,7 +346,7 @@ La formation à la pratique professionnelle en entreprise s’étend sur toute l
 
 Les jours et les contenus sont répartis sur 5 ou 6 cours comme suit:
 
-- a. pour la profession de praticien en étanchéité AFP:
+- a.[^13-1] pour la profession de praticien en étanchéité AFP:
 
 <table>
 <tr><th>Année</th><th>Cours</th><th>Domaine de compétences opérationnelles</th><th>Nombre de jours</th></tr>
@@ -420,6 +420,8 @@ Les jours et les contenus sont répartis sur 5 ou 6 cours comme suit:
 </table>
 
 <sup>3</sup> Aucun cours interentreprises ne doit avoir lieu durant le dernier semestre de la formation professionnelle initiale.
+
+[^13-1]: Erratum du 24 juil. 2024, ne concerne que le texte italien ([RO 2024 381](https://fedlex.data.admin.ch/eli/oc/2024/381)).
 
 ## Section 5 Plan de formation
 

@@ -3,18 +3,18 @@ sr: "412.101.222.25"
 title: Ordinanza della SEFRI del 29 agosto 2023 sulla formazione professionale di base delle professioni con CFP nel campo professionale dell’involucro edilizio
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/504"
 language: it
-version: 2024-04-01
+version: 2024-07-24
 adopted: 2023-08-29
 in_force: 2023-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/504/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2023-504-20240401-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/504/20240401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/504/20240724/it/xml/fedlex-data-admin-ch-eli-cc-2023-504-20240724-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/504/20240724/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base delle professioni con CFP nel campo professionale dell’involucro edilizio
 
-del 29 agosto 2023 (Stato 1° aprile 2024)
+del 29 agosto 2023 (Stato 24 luglio 2024)
 
 <table>
 <tr><td>52010</td><td>Addetta alle impermeabilizzazioni CFP / Addetto alle impermeabilizzazioni CFP Abdichtungspraktikerin EBA / Abdichtungspraktiker EBA Praticienne en étanchéité AFP / Praticien en étanchéité AFP</td></tr>
@@ -346,7 +346,7 @@ La formazione professionale pratica in azienda comprende in media quattro giorna
 
 Le giornate e i contenuti sono ripartiti in 5–6 corsi come segue:
 
-- a. per la professione di addetto alle impermeabilizzazioni CFP:
+- a.[^13-1] per la professione di addetto alle impermeabilizzazioni CFP:
 
 <table>
 <tr><th>Anno</th><th>Corsi</th><th>Campi di competenze operative</th><th>Durata</th></tr>
@@ -354,7 +354,7 @@ Le giornate e i contenuti sono ripartiti in 5–6 corsi come segue:
 <tr><td>1</td><td>2</td><td>Organizzazione dei lavori sull’involucro edilizio</td><td>3</td></tr>
 <tr><td>1</td><td>3</td><td>Posa di sistemi di impermeabilizzazione Manutenzione e smontaggio di sistemi di impermeabilizzazione</td><td>5</td></tr>
 <tr><td>2</td><td>4</td><td>Posa di sistemi di impermeabilizzazione Manutenzione e smontaggio di sistemi di impermeabilizzazione</td><td>5</td></tr>
-<tr><td>2</td><td>5</td><td>Posa di sistemi di impermeabilizzazione Manutenzione e smontaggio di sistemi di impermeabilizzazione</td><td>5</td></tr>
+<tr><td>2</td><td>5</td><td>Posa di sistemi di impermeabilizzazione Manutenzione e smontaggio di sistemi di impermeabilizzazione</td><td>3</td></tr>
 <tr><td colspan="3">Totale</td><td>20 giorni</td></tr>
 </table>
 
@@ -420,6 +420,8 @@ Le giornate e i contenuti sono ripartiti in 5–6 corsi come segue:
 </table>
 
 <sup>3</sup> Nell’ultimo semestre della formazione professionale di base non si possono svolgere corsi interaziendali.
+
+[^13-1]: Correzione del 24 lug. 2024 ([RU 2024 381](https://fedlex.data.admin.ch/eli/oc/2024/381)).
 
 ## Sezione 5: Piano di formazione
 
