@@ -3,11 +3,11 @@ sr: "0.814.287.1"
 title: Protokoll von 1996 vom 7. November 1996 zum Übereinkommen von 1972 über die Verhütung der Meeresverschmutzung durch das Einbringen von Abfällen und anderen Stoffen (mit Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/327"
 language: de
-version: 2024-01-01
+version: 2024-07-25
 adopted: 1996-11-07
 in_force: 2006-03-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/327/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2006-327-20240101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/327/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/327/20240725/de/xml/fedlex-data-admin-ch-eli-cc-2006-327-20240725-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/327/20240725/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 8. September 2000
 
 In Kraft getreten für die Schweiz am 24. März 2006
 
-(Stand am 1. Januar 2024)
+(Stand am 25. Juli 2024)
 
 [^t-1]: [AS 2006 2047](https://fedlex.data.admin.ch/eli/oc/2006/326)
 
@@ -659,77 +659,78 @@ Die Streitparteien erleichtern die Arbeit des Gerichts und werden insbesondere n
 
 Das Gericht fällt seinen Spruch binnen fünf Monaten nach seiner Errichtung, es sei denn, es erachtet es als notwendig, die Frist zu verlängern, wobei die Verlängerungsfrist fünf Monate nicht überschreiten darf. Dem Spruch des Gerichts ist eine Begründung beizugeben. Der Spruch ist rechtsgültig und kann nicht angefochten werden; er wird dem Generalsekretär übermittelt, der die Vertragsparteien unterrichtet. Die Streitparteien führen den Spruch sofort aus.
 
-Geltungsbereich am 21. März 2019[^t-4]
+Geltungsbereich am 25. Juli 2024[^t-4]
 
 <table>
-<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
-<tr><td>Ägypten</td><td>26. Mai</td><td>2004 B</td><td>24. März</td><td>2006</td></tr>
-<tr><td>Angola</td><td>4. Oktober</td><td>2001 B</td><td>24. März</td><td>2006</td></tr>
-<tr><td>Antigua und Barbuda</td><td>24. November</td><td>2015 B</td><td>24. Dezember</td><td>2015</td></tr>
-<tr><td>Australien</td><td>4. Dezember</td><td>2000</td><td>24. März</td><td>2006</td></tr>
-<tr><td>Barbados</td><td>25. Juli</td><td>2006</td><td>24. August</td><td>2006</td></tr>
-<tr><td>Belgien</td><td>13. Februar</td><td>2006</td><td>24. März</td><td>2006</td></tr>
-<tr><td>Bulgarien</td><td>25. Januar</td><td>2006 B</td><td>24. März</td><td>2006</td></tr>
-<tr><td>Chile</td><td>26. September</td><td>2011 B</td><td>26. Oktober</td><td>2011</td></tr>
-<tr><td>China\* <sup>a</sup></td><td>29. September</td><td>2006</td><td>29. Oktober</td><td>2006</td></tr>
-<tr><td>Dänemark <sup>b</sup></td><td>17. April</td><td>1997 U</td><td>24. März</td><td>2006</td></tr>
-<tr><td>Grönland</td><td>29. Oktober</td><td>1997</td><td>24. März</td><td>2006</td></tr>
-<tr><td>Deutschland</td><td>16. Oktober</td><td>1998</td><td>24. März</td><td>2006</td></tr>
-<tr><td>Estland\*</td><td>10. Juli</td><td>2013 B</td><td>9. August</td><td>2013</td></tr>
-<tr><td>Finnland</td><td>9. Oktober</td><td>2017</td><td>9. November</td><td>2017</td></tr>
-<tr><td>Frankreich</td><td>7. Januar</td><td>2004 B</td><td>24. März</td><td>2006</td></tr>
-<tr><td>Georgien</td><td>18. April</td><td>2000 B</td><td>24. März</td><td>2006</td></tr>
-<tr><td>Ghana</td><td>2. Juni</td><td>2010 B</td><td>2. Juli</td><td>2010</td></tr>
-<tr><td>Guatemala</td><td>25. Februar</td><td>2019 B</td><td>27. Februar</td><td>2019</td></tr>
-<tr><td>Guyana</td><td>20. Februar</td><td>2019 B</td><td>22. März</td><td>2019</td></tr>
-<tr><td>Iran</td><td>23. November</td><td>2016 B</td><td>23. Dezember</td><td>2016</td></tr>
-<tr><td>Irland</td><td>26. April</td><td>2001 B</td><td>24. März</td><td>2006</td></tr>
-<tr><td>Island</td><td>21. Mai</td><td>2003</td><td>24. März</td><td>2006</td></tr>
-<tr><td>Italien</td><td>13. Oktober</td><td>2006</td><td>12. November</td><td>2006</td></tr>
-<tr><td>Japan</td><td>2. Oktober</td><td>2007 B</td><td>1. November</td><td>2007</td></tr>
-<tr><td>Jemen</td><td>24. Januar</td><td>2011 B</td><td>23. Februar</td><td>2011</td></tr>
-<tr><td>Kanada</td><td>15. Mai</td><td>2000 B</td><td>24. März</td><td>2006</td></tr>
-<tr><td>Kenia</td><td>14. Januar</td><td>2008 B</td><td>13. Februar</td><td>2008</td></tr>
-<tr><td>Kongo (Kinshasa)</td><td>19. Mai</td><td>2014 B</td><td>18. Juni</td><td>2014</td></tr>
-<tr><td>Korea (Süd-)\*</td><td>22. Januar</td><td>2009 B</td><td>21. Februar</td><td>2009</td></tr>
-<tr><td>Luxemburg</td><td>21. November</td><td>2005 B</td><td>24. März</td><td>2006</td></tr>
-<tr><td>Madagaskar</td><td>27. Juli</td><td>2017 B</td><td>27. Oktober</td><td>2017</td></tr>
-<tr><td>Marokko</td><td>25. Februar</td><td>2016</td><td>26. März</td><td>2016</td></tr>
-<tr><td>Marshallinseln</td><td>9. Mai</td><td>2008 B</td><td>8. Juni</td><td>2008</td></tr>
-<tr><td>Mexiko</td><td>22. Februar</td><td>2006 B</td><td>24. März</td><td>2006</td></tr>
-<tr><td>Neuseeland\*</td><td>30. Juli</td><td>2001</td><td>24. März</td><td>2006</td></tr>
-<tr><td>Niederlande</td><td>24. September</td><td>2008</td><td>24. Oktober</td><td>2008</td></tr>
-<tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>10. Oktober</td><td>2010</td><td>10. Oktober</td><td>2010</td></tr>
-<tr><td>Nigeria</td><td>1. Oktober</td><td>2010 B</td><td>10. Oktober</td><td>2010</td></tr>
-<tr><td>Norwegen\*</td><td>16. Dezember</td><td>1999</td><td>24. März</td><td>2006</td></tr>
-<tr><td>Peru\*</td><td>31. Oktober</td><td>2018 B</td><td>30. November</td><td>2019</td></tr>
-<tr><td>Philippinen</td><td>9. Mai</td><td>2012 B</td><td>8. Juni</td><td>2012</td></tr>
-<tr><td>Saudi-Arabien</td><td>2. Februar</td><td>2006 B</td><td>24. März</td><td>2006</td></tr>
-<tr><td>Schweden\*</td><td>16. Oktober</td><td>2000</td><td>24. März</td><td>2006</td></tr>
-<tr><td>Schweiz</td><td>8. September</td><td>2000</td><td>24. März</td><td>2006</td></tr>
-<tr><td>Sierra Leone</td><td>10. März</td><td>2008 B</td><td>9. April</td><td>2008</td></tr>
-<tr><td>Slowenien</td><td>3. März</td><td>2006 B</td><td>2. April</td><td>2006</td></tr>
-<tr><td>Spanien</td><td>24. März</td><td>1999</td><td>24. März</td><td>2006</td></tr>
-<tr><td>St. Kitts und Nevis</td><td>7. Oktober</td><td>2004 B</td><td>24. März</td><td>2006</td></tr>
-<tr><td>Südafrika</td><td>23. Dezember</td><td>1998 B</td><td>24. März</td><td>2006</td></tr>
-<tr><td>Suriname</td><td>11. Februar</td><td>2007 B</td><td>13. März</td><td>2007</td></tr>
-<tr><td>Tonga</td><td>18. September</td><td>2003 B</td><td>24. März</td><td>2006</td></tr>
-<tr><td>Trinidad und Tobago</td><td>6. März</td><td>2000 B</td><td>24. März</td><td>2006</td></tr>
-<tr><td>Uruguay</td><td>17. Dezember</td><td>2013 B</td><td>16. Januar</td><td>2014</td></tr>
-<tr><td>Vanuatu</td><td>18. Februar</td><td>1999 B</td><td>24. März</td><td>2006</td></tr>
-<tr><td>Vereinigtes Königreich\*</td><td>15. Dezember</td><td>1998</td><td>24. März</td><td>2006</td></tr>
-<tr><td>Bermudas</td><td>15. Dezember</td><td>1998</td><td>24. März</td><td>2006</td></tr>
-<tr><td>Britische Jungferninseln</td><td>15. Dezember</td><td>1998</td><td>24. März</td><td>2006</td></tr>
-<tr><td>Falkland-Inseln und abhängige Gebiete (Südgeorgien und Südliche Sandwich-Inseln)</td><td>15. Dezember</td><td>1998</td><td>24. März</td><td>2006</td></tr>
-<tr><td>Guernsey</td><td>19. Oktober</td><td>2001</td><td>24. März</td><td>2006</td></tr>
-<tr><td>Insel Man</td><td>15. Dezember</td><td>1998</td><td>24. März</td><td>2006</td></tr>
-<tr><td>Jersey</td><td>15. Dezember</td><td>1998</td><td>24. März</td><td>2006</td></tr>
-<tr><td>Kaimaninseln</td><td>15. Dezember</td><td>1998</td><td>24. März</td><td>2006</td></tr>
-<tr><td>Montserrat</td><td>15. Dezember</td><td>1998</td><td>24. März</td><td>2006</td></tr>
-<tr><td>St. Helena und Nebengebiete Ascension und Tristan da Cunha)</td><td>15. Dezember</td><td>1998</td><td>24. März</td><td>2006</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): [www.imo.org](https://www.imo.org/en/publications/Pages/English.aspx)/Publications bezogen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, eingesehen werden.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Das Protokoll gilt nicht für die Besondere Verwaltungsregion (SAR) Macao.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Das Protokoll gilt nicht für die Färöer.</td></tr>
+<tr><th colspan="2">Vertragsstaaten</th><th>Ratifikation Beitritt (B) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td colspan="2">Ägypten</td><td>20. Mai</td><td>2004 B</td><td>24. März</td><td>2006</td></tr>
+<tr><td colspan="2">Angola</td><td>4. Oktober</td><td>2001 B</td><td>24. März</td><td>2006</td></tr>
+<tr><td colspan="2">Antigua und Barbuda</td><td>24. November</td><td>2015 B</td><td>24. Dezember</td><td>2015</td></tr>
+<tr><td colspan="2">Australien</td><td>4. Dezember</td><td>2000</td><td>24. März</td><td>2006</td></tr>
+<tr><td colspan="2">Barbados</td><td>25. Juli</td><td>2006</td><td>24. August</td><td>2006</td></tr>
+<tr><td colspan="2">Belgien</td><td>13. Februar</td><td>2006</td><td>24. März</td><td>2006</td></tr>
+<tr><td colspan="2">Bulgarien</td><td>25. Januar</td><td>2006 B</td><td>24. März</td><td>2006</td></tr>
+<tr><td colspan="2">Chile</td><td>26. September</td><td>2011 B</td><td>26. Oktober</td><td>2011</td></tr>
+<tr><td colspan="2">China\* <sup>a</sup></td><td>29. September</td><td>2006</td><td>29. Oktober</td><td>2006</td></tr>
+<tr><td colspan="2">Dänemark <sup>b</sup></td><td>17. April</td><td>1997 U</td><td>24. März</td><td>2006</td></tr>
+<tr><td colspan="2">Grönland</td><td>29. Oktober</td><td>1997</td><td>24. März</td><td>2006</td></tr>
+<tr><td colspan="2">Deutschland</td><td>16. Oktober</td><td>1998</td><td>24. März</td><td>2006</td></tr>
+<tr><td colspan="2">Estland\*</td><td>10. Juli</td><td>2013 B</td><td>9. August</td><td>2013</td></tr>
+<tr><td colspan="2">Finnland</td><td>9. Oktober</td><td>2017</td><td>8. November</td><td>2017</td></tr>
+<tr><td colspan="2">Frankreich</td><td>7. Januar</td><td>2004 B</td><td>24. März</td><td>2006</td></tr>
+<tr><td colspan="2">Georgien</td><td>18. April</td><td>2000 B</td><td>24. März</td><td>2006</td></tr>
+<tr><td colspan="2">Ghana</td><td>2. Juni</td><td>2010 B</td><td>2. Juli</td><td>2010</td></tr>
+<tr><td colspan="2">Guatemala</td><td>25. Februar</td><td>2019 B</td><td>27. Februar</td><td>2019</td></tr>
+<tr><td colspan="2">Guyana</td><td>20. Februar</td><td>2019 B</td><td>22. März</td><td>2019</td></tr>
+<tr><td>Irak</td><td colspan="2">11. September</td><td>2023 B</td><td>11. Oktober</td><td>2023</td></tr>
+<tr><td colspan="2">Iran</td><td>23. November</td><td>2016 B</td><td>23. Dezember</td><td>2016</td></tr>
+<tr><td colspan="2">Irland</td><td>26. April</td><td>2001 B</td><td>24. März</td><td>2006</td></tr>
+<tr><td colspan="2">Island</td><td>21. Mai</td><td>2003</td><td>24. März</td><td>2006</td></tr>
+<tr><td colspan="2">Italien</td><td>13. Oktober</td><td>2006</td><td>12. November</td><td>2006</td></tr>
+<tr><td colspan="2">Japan</td><td>2. Oktober</td><td>2007 B</td><td>1. November</td><td>2007</td></tr>
+<tr><td colspan="2">Jemen</td><td>24. Januar</td><td>2011 B</td><td>23. Februar</td><td>2011</td></tr>
+<tr><td colspan="2">Kanada</td><td>15. Mai</td><td>2000 B</td><td>24. März</td><td>2006</td></tr>
+<tr><td colspan="2">Kenia</td><td>14. Januar</td><td>2008 B</td><td>13. Februar</td><td>2008</td></tr>
+<tr><td colspan="2">Kongo (Kinshasa)</td><td>19. Mai</td><td>2014 B</td><td>18. Juni</td><td>2014</td></tr>
+<tr><td colspan="2">Korea (Süd-)\*</td><td>22. Januar</td><td>2009 B</td><td>21. Februar</td><td>2009</td></tr>
+<tr><td colspan="2">Luxemburg</td><td>21. November</td><td>2005 B</td><td>24. März</td><td>2006</td></tr>
+<tr><td colspan="2">Madagaskar</td><td>27. Juli</td><td>2017 B</td><td>26. August</td><td>2017</td></tr>
+<tr><td colspan="2">Marokko</td><td>25. Februar</td><td>2016</td><td>26. März</td><td>2016</td></tr>
+<tr><td colspan="2">Marshallinseln</td><td>9. Mai</td><td>2008 B</td><td>8. Juni</td><td>2008</td></tr>
+<tr><td colspan="2">Mexiko</td><td>22. Februar</td><td>2006 B</td><td>24. März</td><td>2006</td></tr>
+<tr><td colspan="2">Neuseeland\*</td><td>30. Juli</td><td>2001</td><td>24. März</td><td>2006</td></tr>
+<tr><td colspan="2">Niederlande</td><td>24. September</td><td>2008</td><td>24. Oktober</td><td>2008</td></tr>
+<tr><td colspan="2">Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>10. Oktober</td><td>2010</td><td>10. Oktober</td><td>2010</td></tr>
+<tr><td colspan="2">Nigeria</td><td>1. Oktober</td><td>2010 B</td><td>10. Oktober</td><td>2010</td></tr>
+<tr><td colspan="2">Norwegen\*</td><td>16. Dezember</td><td>1999</td><td>24. März</td><td>2006</td></tr>
+<tr><td colspan="2">Peru\*</td><td>31. Oktober</td><td>2018 B</td><td>30. November</td><td>2019</td></tr>
+<tr><td colspan="2">Philippinen</td><td>9. Mai</td><td>2012 B</td><td>8. Juni</td><td>2012</td></tr>
+<tr><td colspan="2">Saudi-Arabien</td><td>2. Februar</td><td>2006 B</td><td>24. März</td><td>2006</td></tr>
+<tr><td colspan="2">Schweden\*</td><td>16. Oktober</td><td>2000</td><td>24. März</td><td>2006</td></tr>
+<tr><td colspan="2">Schweiz</td><td>8. September</td><td>2000</td><td>24. März</td><td>2006</td></tr>
+<tr><td colspan="2">Sierra Leone</td><td>10. März</td><td>2008 B</td><td>9. April</td><td>2008</td></tr>
+<tr><td colspan="2">Slowenien</td><td>3. März</td><td>2006</td><td>2. April</td><td>2006</td></tr>
+<tr><td colspan="2">Spanien</td><td>24. März</td><td>1999</td><td>24. März</td><td>2006</td></tr>
+<tr><td colspan="2">St. Kitts und Nevis</td><td>7. Oktober</td><td>2004 B</td><td>24. März</td><td>2006</td></tr>
+<tr><td colspan="2">Südafrika</td><td>23. Dezember</td><td>1998 B</td><td>24. März</td><td>2006</td></tr>
+<tr><td colspan="2">Suriname</td><td>11. Februar</td><td>2007 B</td><td>13. März</td><td>2007</td></tr>
+<tr><td colspan="2">Tonga</td><td>18. September</td><td>2003 B</td><td>24. März</td><td>2006</td></tr>
+<tr><td colspan="2">Trinidad und Tobago</td><td>6. März</td><td>2000 B</td><td>24. März</td><td>2006</td></tr>
+<tr><td colspan="2">Uruguay</td><td>17. Dezember</td><td>2013 B</td><td>16. Januar</td><td>2014</td></tr>
+<tr><td colspan="2">Vanuatu</td><td>18. Februar</td><td>1999 B</td><td>24. März</td><td>2006</td></tr>
+<tr><td colspan="2">Vereinigtes Königreich\*</td><td>15. Dezember</td><td>1998</td><td>24. März</td><td>2006</td></tr>
+<tr><td colspan="2">Bermudas</td><td>15. Dezember</td><td>1998</td><td>24. März</td><td>2006</td></tr>
+<tr><td colspan="2">Britische Jungferninseln</td><td>15. Dezember</td><td>1998</td><td>24. März</td><td>2006</td></tr>
+<tr><td colspan="2">Falkland-Inseln und abhängige Gebiete (Südgeorgien und Südliche Sandwich-Inseln)</td><td>15. Dezember</td><td>1998</td><td>24. März</td><td>2006</td></tr>
+<tr><td colspan="2">Guernsey</td><td>22. Oktober</td><td>2001</td><td>24. März</td><td>2006</td></tr>
+<tr><td colspan="2">Insel Man</td><td>15. Dezember</td><td>1998</td><td>24. März</td><td>2006</td></tr>
+<tr><td colspan="2">Jersey</td><td>15. Dezember</td><td>1998</td><td>24. März</td><td>2006</td></tr>
+<tr><td colspan="2">Kaimaninseln</td><td>15. Dezember</td><td>1998</td><td>24. März</td><td>2006</td></tr>
+<tr><td colspan="2">Montserrat</td><td>15. Dezember</td><td>1998</td><td>24. März</td><td>2006</td></tr>
+<tr><td colspan="2">St. Helena und Nebengebiete Ascension und Tristan da Cunha)</td><td>15. Dezember</td><td>1998</td><td>24. März</td><td>2006</td></tr>
+<tr><td colspan="6">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (OMI): www.imo.org &gt; Qui nous sommes &gt; Conventions &gt; État des conventions &gt; Status Book oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="6"><sup>a</sup> Das Protokoll gilt nicht für die Besondere Verwaltungsregion (SAR) Macao.</td></tr>
+<tr><td colspan="6"><sup>b</sup> Das Protokoll gilt nicht für die Färöer.</td></tr>
 </table>
 
-[^t-4]: [AS 2006 2049](https://fedlex.data.admin.ch/eli/oc/2006/327); [2008 2383](https://fedlex.data.admin.ch/eli/oc/2008/340); [2012 1573](https://fedlex.data.admin.ch/eli/oc/2012/225); [2016 3867](https://fedlex.data.admin.ch/eli/oc/2016/654); [2019 1077](https://fedlex.data.admin.ch/eli/oc/2019/203). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-4]: [AS 2006 2049](https://fedlex.data.admin.ch/eli/oc/2006/327); [2008 2383](https://fedlex.data.admin.ch/eli/oc/2008/340); [2012 1573](https://fedlex.data.admin.ch/eli/oc/2012/225); [2016 3867](https://fedlex.data.admin.ch/eli/oc/2016/654); [2019 1077](https://fedlex.data.admin.ch/eli/oc/2019/203); [2024 399](https://fedlex.data.admin.ch/eli/oc/2024/399). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

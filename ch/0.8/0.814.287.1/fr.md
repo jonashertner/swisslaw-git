@@ -3,11 +3,11 @@ sr: "0.814.287.1"
 title: "Protocole de 1996 du 7 novembre 1996 à la Convention de 1972 sur la prévention de la pollution des mers résultant de l'immersion de déchets et d'autres matières (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/327"
 language: fr
-version: 2024-01-01
+version: 2024-07-25
 adopted: 1996-11-07
 in_force: 2006-03-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/327/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2006-327-20240101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/327/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/327/20240725/fr/xml/fedlex-data-admin-ch-eli-cc-2006-327-20240725-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/327/20240725/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclu à Londres le 7 novembre 1996 Approuvé par l’Assemblée fédérale le 7 juin 2000[^t-1] Instrument de ratification déposé par la Suisse le 8 septembre 2000 Entré en vigueur pour la Suisse le 24 mars 2006
 
-(État le 1<sup>er</sup> janvier 2024)
+(État le 25 juillet 2024)
 
 [^t-1]: [RO 2006 2047](https://fedlex.data.admin.ch/eli/oc/2006/326)
 
@@ -658,7 +658,7 @@ Les parties au différend facilitent les travaux du tribunal; à cette fin, conf
 
 Le tribunal rend sa sentence dans un délai de cinq mois à dater de sa constitution, sauf s’il juge nécessaire de proroger ce délai, le nouveau délai étant de cinq mois au maximum. La sentence du tribunal est motivée. Elle est définitive et sans appel et elle est communiquée au Secrétaire général de l’Organisation qui en informe les Parties contractantes. Les parties au différend doivent s’y conformer sans délai.
 
-Champ d’application le 21 mars 2019[^t-4]
+Champ d’application le 25 juillet 2024[^t-4]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -678,10 +678,10 @@ Champ d’application le 21 mars 2019[^t-4]
 <tr><td>Corée (Sud)\*</td><td>22 janvier</td><td>2009 A</td><td>21 février</td><td>2009</td></tr>
 <tr><td>Danemark <sup>b</sup></td><td>17 avril</td><td>1997 Si</td><td>24 mars</td><td>2006</td></tr>
 <tr><td>Groenland</td><td>29 octobre</td><td>1997</td><td>24 mars</td><td>2006</td></tr>
-<tr><td>Égypte</td><td>26 mai</td><td>2004 A</td><td>24 mars</td><td>2006</td></tr>
+<tr><td>Égypte</td><td>20 mai</td><td>2004 A</td><td>24 mars</td><td>2006</td></tr>
 <tr><td>Espagne</td><td>24 mars</td><td>1999</td><td>24 mars</td><td>2006</td></tr>
 <tr><td>Estonie\*</td><td>10 juillet</td><td>2013 A</td><td>9 août</td><td>2013</td></tr>
-<tr><td>Finlande</td><td>9 octobre</td><td>2017</td><td>9 novembre</td><td>2017</td></tr>
+<tr><td>Finlande</td><td>9 octobre</td><td>2017</td><td>8 novembre</td><td>2017</td></tr>
 <tr><td>France</td><td>7 janvier</td><td>2004 A</td><td>24 mars</td><td>2006</td></tr>
 <tr><td>Géorgie</td><td>18 avril</td><td>2000 A</td><td>24 mars</td><td>2006</td></tr>
 <tr><td>Ghana</td><td>2 juin</td><td>2010 A</td><td>2 juillet</td><td>2010</td></tr>
@@ -689,13 +689,14 @@ Champ d’application le 21 mars 2019[^t-4]
 <tr><td>Guyana</td><td>20 février</td><td>2019 A</td><td>22 mars</td><td>2019</td></tr>
 <tr><td>Îles Marshall</td><td>9 mai</td><td>2008 A</td><td>8 juin</td><td>2008</td></tr>
 <tr><td>Iran</td><td>23 novembre</td><td>2016 A</td><td>23 décembre</td><td>2016</td></tr>
+<tr><td>Iraq</td><td>11 septembre</td><td>2023 A</td><td>11 octobre</td><td>2023</td></tr>
 <tr><td>Irlande</td><td>26 avril</td><td>2001 A</td><td>24 mars</td><td>2006</td></tr>
 <tr><td>Islande</td><td>21 mai</td><td>2003</td><td>24 mars</td><td>2006</td></tr>
 <tr><td>Italie</td><td>13 octobre</td><td>2006 A</td><td>12 novembre</td><td>2006</td></tr>
 <tr><td>Japon</td><td>2 octobre</td><td>2007 A</td><td>1<sup>er</sup> novembre</td><td>2007</td></tr>
 <tr><td>Kenya</td><td>14 janvier</td><td>2008 A</td><td>13 février</td><td>2008</td></tr>
 <tr><td>Luxembourg</td><td>21 novembre</td><td>2005 A</td><td>24 mars</td><td>2006</td></tr>
-<tr><td>Madagascar</td><td>27 juillet</td><td>2017 A</td><td>27 octobre</td><td>2017</td></tr>
+<tr><td>Madagascar</td><td>27 juillet</td><td>2017 A</td><td>26 août</td><td>2017</td></tr>
 <tr><td>Maroc</td><td>25 février</td><td>2016</td><td>26 mars</td><td>2016</td></tr>
 <tr><td>Mexique</td><td>22 février</td><td>2006 A</td><td>24 mars</td><td>2006</td></tr>
 <tr><td>Nigéria</td><td>1<sup>er</sup> octobre</td><td>2010 A</td><td>31 octobre</td><td>3010</td></tr>
@@ -705,9 +706,9 @@ Champ d’application le 21 mars 2019[^t-4]
 <tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>10 octobre</td><td>2010</td><td>10 octobre</td><td>2010</td></tr>
 <tr><td>Pérou\*</td><td>31 octobre</td><td>2018 A</td><td>30 novembre</td><td>2019</td></tr>
 <tr><td>Philippines</td><td>9 mai</td><td>2012 A</td><td>8 juin</td><td>2012</td></tr>
-<tr><td>Royaume-Uni\*</td><td>15 décembre</td><td>1998</td><td>24 mars</td><td>2006</td></tr>
+<tr><td>Royaume-Uni</td><td>15 décembre</td><td>1998</td><td>24 mars</td><td>2006</td></tr>
 <tr><td>Bermudes</td><td>15 décembre</td><td>1998</td><td>24 mars</td><td>2006</td></tr>
-<tr><td>Guernesey</td><td>19 octobre</td><td>2001</td><td>24 mars</td><td>2006</td></tr>
+<tr><td>Guernesey</td><td>22 octobre</td><td>2001</td><td>24 mars</td><td>2006</td></tr>
 <tr><td>Île de Man</td><td>15 décembre</td><td>1998</td><td>24 mars</td><td>2006</td></tr>
 <tr><td>Îles Cayman</td><td>15 décembre</td><td>1998</td><td>24 mars</td><td>2006</td></tr>
 <tr><td>Îles Falkland et dépendances (Géorgie du Sud et îles Sandwich du Sud)</td><td>15 décembre</td><td>1998</td><td>24 mars</td><td>2006</td></tr>
@@ -717,7 +718,7 @@ Champ d’application le 21 mars 2019[^t-4]
 <tr><td>Sainte-Hélène et dépendances (Ascension et Tristan da Cunha)</td><td>15 décembre</td><td>1998</td><td>24 mars</td><td>2006</td></tr>
 <tr><td>Saint-Kitts-et-Nevis</td><td>7 octobre</td><td>2004 A</td><td>24 mars</td><td>2006</td></tr>
 <tr><td>Sierra Leone</td><td>10 mars</td><td>2008 A</td><td>9 avril</td><td>2008</td></tr>
-<tr><td>Slovénie</td><td>3 mars</td><td>2006 A</td><td>2 avril</td><td>2006</td></tr>
+<tr><td>Slovénie</td><td>3 mars</td><td>2006</td><td>2 avril</td><td>2006</td></tr>
 <tr><td>Suède\*</td><td>16 octobre</td><td>2000</td><td>24 mars</td><td>2006</td></tr>
 <tr><td>Suisse</td><td>8 septembre</td><td>2000</td><td>24 mars</td><td>2006</td></tr>
 <tr><td>Suriname</td><td>11 février</td><td>2007 A</td><td>13 mars</td><td>2007</td></tr>
@@ -729,4 +730,4 @@ Champ d’application le 21 mars 2019[^t-4]
 <tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): [www.imo.org](http://www.imo.org/) &gt; Qui nous sommes &gt; Conventions &gt; État des conventions &gt; Status Book, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le protocole ne s’applique pas à la Région administrative spéciale (RAS) Macao. <sup>b</sup> Le protocole ne s’applique pas aux Îles Féroé.</td></tr>
 </table>
 
-[^t-4]: [RO 2006 2049](https://fedlex.data.admin.ch/eli/oc/2006/327); [2008 2383](https://fedlex.data.admin.ch/eli/oc/2008/340); [2012 1573](https://fedlex.data.admin.ch/eli/oc/2012/225); [2016 3867](https://fedlex.data.admin.ch/eli/oc/2016/654); [2019 1077](https://fedlex.data.admin.ch/eli/oc/2019/203). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
+[^t-4]: [RO 2006 2049](https://fedlex.data.admin.ch/eli/oc/2006/327); [2008 2383](https://fedlex.data.admin.ch/eli/oc/2008/340); [2012 1573](https://fedlex.data.admin.ch/eli/oc/2012/225); [2016 3867](https://fedlex.data.admin.ch/eli/oc/2016/654); [2019 1077](https://fedlex.data.admin.ch/eli/oc/2019/203); [2024 399](https://fedlex.data.admin.ch/eli/oc/2024/399). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
