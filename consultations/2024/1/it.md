@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione totale dell’ordinanza sulla maturità professionale federale (OMPr)
 document: Progetto posto in consultazione
 language: it
