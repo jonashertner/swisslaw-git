@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> novembre 2017 sur l'énergie (OEne)"
 short: OEne
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/763"
 language: fr
-version: 2024-02-01
+version: 2024-07-25
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2017-763-20240201-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20240201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20240725/fr/xml/fedlex-data-admin-ch-eli-cc-2017-763-20240725-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20240725/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20240201/fr"
 
 (OEne)
 
-du 1<sup>er</sup> novembre 2017 (État le 1<sup>er</sup> février 2024)
+du 1<sup>er</sup> novembre 2017 (État le 25 juillet 2024)
 
 Le Conseil fédéral suisse,
 
@@ -1349,7 +1349,9 @@ Les données personnelles, ainsi que les données des personnes morales, y compr
 
 <sup>1</sup> L’OFEN est chargé de l’exécution de la présente ordonnance, à moins que la loi ou la présente ordonnance ne confie cette compétence à une autre unité administrative.
 
-<sup>2</sup> En accord avec l’OFEN, d’autres offices fédéraux peuvent accorder les aides visées aux art. 53 à 55.
+<sup>2</sup> En accord avec l’OFEN, d’autres offices fédéraux peuvent accorder les aides visées aux art. 52 à 54.[^71-1]
+
+[^71-1]: Erratum du 25 juil. 2024 ([RO 2024 386](https://fedlex.data.admin.ch/eli/oc/2024/386)).
 
 ## Chapitre 12 Organe d’exécution
 
@@ -1392,7 +1394,7 @@ Les données personnelles, ainsi que les données des personnes morales, y compr
 <sup>2</sup> Les comptes annuels doivent être établis conformément aux dispositions du CO[^75-1] relatives à la comptabilité commerciale et à la présentation des comptes ainsi que conformément aux «Recommandations relatives à la présentation des comptes» (Swiss GAAP RPC)[^75-2] de la Fondation pour les recommandations relatives à la présentation des comptes.
 
 [^75-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^75-2]: [www.fer.ch/](http://www.fer.ch/)
+[^75-2]: [www.fer.ch](http://www.fer.ch/)
 
 #### Art. 76
 

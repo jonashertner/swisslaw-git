@@ -4,11 +4,11 @@ title: Energieverordnung vom 1. November 2017 (EnV)
 short: EnV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/763"
 language: de
-version: 2024-02-01
+version: 2024-07-25
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2017-763-20240201-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20240201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20240725/de/xml/fedlex-data-admin-ch-eli-cc-2017-763-20240725-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20240725/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20240201/de"
 
 (EnV)
 
-vom 1. November 2017 (Stand am 1. Februar 2024)
+vom 1. November 2017 (Stand am 25. Juli 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -1349,7 +1349,9 @@ Personendaten sowie Daten juristischer Personen, einschliesslich besonders schü
 
 <sup>1</sup> Das BFE vollzieht diese Verordnung, soweit das Gesetz oder diese Verordnung die Zuständigkeit nicht einer anderen Stelle zuweist.
 
-<sup>2</sup> Andere Bundesämter können mit Zustimmung des BFE Förderungen nach den Artikeln 52–54 gewähren.
+<sup>2</sup> Andere Bundesämter können mit Zustimmung des BFE Förderungen nach den Artikeln 52–54 gewähren.[^71-1]
+
+[^71-1]: Die Berichtigung vom 25. Juli 2024 betrifft nur den französischen Text ([AS 2024 386](https://fedlex.data.admin.ch/eli/oc/2024/386)).
 
 ## 12. Kapitel: Vollzugsstelle
 

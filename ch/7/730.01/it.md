@@ -4,11 +4,11 @@ title: "Ordinanza sull'energia del 1° novembre 2017 (OEn)"
 short: OEn
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/763"
 language: it
-version: 2024-02-01
+version: 2024-07-25
 adopted: 2017-11-01
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2017-763-20240201-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20240201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/763/20240725/it/xml/fedlex-data-admin-ch-eli-cc-2017-763-20240725-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20240725/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/763/20240201/it"
 
 (OEn)
 
-del 1° novembre 2017 (Stato 1° febbraio 2024)
+del 1° novembre 2017 (Stato 25 luglio 2024)
 
 Il Consiglio federale svizzero,
 
@@ -1353,7 +1353,9 @@ I dati personali e i dati di persone giuridiche, inclusi i dati degni di partico
 
 <sup>1</sup> L’UFE esegue la presente ordinanza, nella misura in cui la legge o la presente ordinanza non assegni la competenza ad altro organo.
 
-<sup>2</sup> Altri uffici federali, con l’approvazione dell’UFE, possono concedere contributi di promozione secondo gli articoli 52–54.
+<sup>2</sup> Altri uffici federali, con l’approvazione dell’UFE, possono concedere contributi di promozione secondo gli articoli 52–54.[^71-1]
+
+[^71-1]: La correzione del 25 lug. 2024 concerne soltanto il testo francese ([RU 2024 386](https://fedlex.data.admin.ch/eli/oc/2024/386)).
 
 ## Capitolo 12: Organo d’esecuzione
 
