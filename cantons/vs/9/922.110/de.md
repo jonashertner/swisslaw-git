@@ -4,12 +4,12 @@ number: "922.110"
 title: Beschluss über die Ausübung der Jagd im Wallis 2024-2025
 language: de
 version: 2024-07-01
-valid_until: 2025-06-30
+corrected: 2024-07-26
 version_adopted: 2024-07-17
 adopted: 2026-06-17
 in_force: 2026-07-01
 url: "https://lex.vs.ch/app/de/texts_of_law/922.110"
-pdf: "https://lex.vs.ch/api/de/versions/3465/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3339/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -167,7 +167,7 @@ beschliesst:[^ingress-1]
 
 <sup>3</sup> Im Streitfall sind die auf der Jagdkarte festgelegten Grenzen und Elemente massgebend.
 
-[^9-1]: [https://sitonline.vs.ch/nature\_paysage\_foret/carte\_chasse/](https://sitonline.vs.ch/nature_paysage_foret/carte_chasse/)
+[^9-1]: [https://sitonline.vs.ch/nature\_paysage\_foret/carte\_chasse/de](https://sitonline.vs.ch/nature_paysage_foret/carte_chasse/de)
 
 #### Art. 10
 

@@ -4,12 +4,12 @@ number: "922.110"
 title: "Arrêté sur l'exercice de la chasse en Valais 2024-2025"
 language: fr
 version: 2024-07-01
-valid_until: 2025-06-30
+corrected: 2024-07-26
 version_adopted: 2024-07-17
 adopted: 2026-06-17
 in_force: 2026-07-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/922.110"
-pdf: "https://lex.vs.ch/api/fr/versions/3465/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3339/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -154,7 +154,7 @@ arrête:[^ingress-1]
 
 **Carte de chasse interactive du SCPF**
 
-<sup>1</sup> La carte de chasse interactive du SCPF{[^9-1] (ci-après: carte de chasse), sur la base de la carte 1:25'000, comporte les différentes couches relatives aux périmètres et éléments en lien avec la pratique de la chasse, à savoir:
+<sup>1</sup> La carte de chasse interactive du SCPF[^9-1] (ci-après: carte de chasse), sur la base de la carte 1:25'000, comporte les différentes couches relatives aux périmètres et éléments en lien avec la pratique de la chasse, à savoir:
 
 - a) les zones chassables et protégées;
 - b) le réseau routier;
@@ -167,7 +167,7 @@ arrête:[^ingress-1]
 
 <sup>3</sup> En cas de litige, les limites et les éléments définis sur la carte de chasse font foi.
 
-[^9-1]: [https://sitonline.vs.ch/nature\_paysage\_foret/carte\_chasse/](https://sitonline.vs.ch/nature_paysage_foret/carte_chasse/)
+[^9-1]: [https://sitonline.vs.ch/nature\_paysage\_foret/carte\_chasse/fr](https://sitonline.vs.ch/nature_paysage_foret/carte_chasse/fr)
 
 #### Art. 10
 
