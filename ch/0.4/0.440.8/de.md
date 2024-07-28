@@ -3,11 +3,11 @@ sr: "0.440.8"
 title: Übereinkommen vom 20. Oktober 2005 über den Schutz und die Förderung der Vielfalt kultureller Ausdrucksformen (mit Anlage)
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/676"
 language: de
-version: 2024-04-30
+version: 2024-07-29
 adopted: 2005-10-20
 in_force: 2008-10-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/676/20240430/de/xml/fedlex-data-admin-ch-eli-cc-2008-676-20240430-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/676/20240430/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/676/20240729/de/xml/fedlex-data-admin-ch-eli-cc-2008-676-20240729-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/676/20240729/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2008** 4823; BBl **2007** 7297
 
 Abgeschlossen in Paris am 20. Oktober 2005 Von der Bundesversammlung genehmigt am 20. März 2008[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 16. Juli 2008 In Kraft getreten für die Schweiz am 16. Oktober 2008
 
-(Stand am 30. April 2024)
+(Stand am 29. Juli 2024)
 
 [^t-1]: [AS 2008 4821](https://fedlex.data.admin.ch/eli/oc/2008/675)
 
@@ -609,7 +609,7 @@ Die Vergleichskommission entscheidet mit der Mehrheit ihrer Mitglieder. Sofern d
 
 Bei Uneinigkeit darüber, ob die Vergleichskommission zuständig ist, entscheidet die Kommission.
 
-Geltungsbereich am 30. April 2024[^t-2]
+Geltungsbereich am 29. Juli 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -619,7 +619,7 @@ Geltungsbereich am 30. April 2024[^t-2]
 <tr><td>Algerien</td><td>26. Februar</td><td>2015</td><td>26. Mai</td><td>2015</td></tr>
 <tr><td>Andorra</td><td>6. Februar</td><td>2007 B</td><td>6. Mai</td><td>2007</td></tr>
 <tr><td>Angola</td><td>7. Februar</td><td>2012 B</td><td>7. Mai</td><td>2012</td></tr>
-<tr><td>Antigua und Barbuda</td><td>25. April</td><td>2013</td><td>25. Juli</td><td>2013</td></tr>
+<tr><td>Antigua und Barbuda</td><td>25. April</td><td>2013 B</td><td>25. Juli</td><td>2013</td></tr>
 <tr><td>Äquatorialguinea</td><td>17. Juni</td><td>2010</td><td>17. September</td><td>2010</td></tr>
 <tr><td>Argentinien\*</td><td>7. Mai</td><td>2008</td><td>7. August</td><td>2008</td></tr>
 <tr><td>Armenien</td><td>27. Februar</td><td>2007 B</td><td>27. Mai</td><td>2007</td></tr>
@@ -631,7 +631,7 @@ Geltungsbereich am 30. April 2024[^t-2]
 <tr><td>Barbados</td><td>2. Oktober</td><td>2008 B</td><td>2. Januar</td><td>2009</td></tr>
 <tr><td>Belarus</td><td>6. September</td><td>2006</td><td>18. März</td><td>2007</td></tr>
 <tr><td>Belgien</td><td>9. August</td><td>2013</td><td>9. November</td><td>2013</td></tr>
-<tr><td>Belize</td><td>24. März</td><td>2015</td><td>24. Juni</td><td>2015</td></tr>
+<tr><td>Belize</td><td>24. März</td><td>2015 B</td><td>24. Juni</td><td>2015</td></tr>
 <tr><td>Benin</td><td>20. Dezember</td><td>2007</td><td>20. März</td><td>2008</td></tr>
 <tr><td>Bolivien</td><td>4. August</td><td>2006</td><td>18. März</td><td>2007</td></tr>
 <tr><td>Bosnien und Herzegowina</td><td>27. Januar</td><td>2009</td><td>27. April</td><td>2009</td></tr>
@@ -667,9 +667,9 @@ Geltungsbereich am 30. April 2024[^t-2]
 <tr><td>Griechenland</td><td>3. Januar</td><td>2007</td><td>3. April</td><td>2007</td></tr>
 <tr><td>Guatemala</td><td>25. Oktober</td><td>2006</td><td>18. März</td><td>2007</td></tr>
 <tr><td>Guinea</td><td>20. Februar</td><td>2008</td><td>20. Mai</td><td>2008</td></tr>
-<tr><td>Guyana</td><td>14. Dezember</td><td>2009</td><td>14. März</td><td>2010</td></tr>
+<tr><td>Guyana</td><td>14. Dezember</td><td>2009 B</td><td>14. März</td><td>2010</td></tr>
 <tr><td>Haiti</td><td>8. Februar</td><td>2010</td><td>8. Mai</td><td>2010</td></tr>
-<tr><td>Honduras</td><td>31. August</td><td>2010</td><td>30. November</td><td>2010</td></tr>
+<tr><td>Honduras</td><td>31. August</td><td>2010 B</td><td>30. November</td><td>2010</td></tr>
 <tr><td>Indien</td><td>15. Dezember</td><td>2006</td><td>18. März</td><td>2007</td></tr>
 <tr><td>Indonesien\*</td><td>12. Januar</td><td>2012 B</td><td>12. April</td><td>2012</td></tr>
 <tr><td>Irak</td><td>22. Juli</td><td>2013</td><td>22. Oktober</td><td>2013</td></tr>
@@ -677,6 +677,7 @@ Geltungsbereich am 30. April 2024[^t-2]
 <tr><td>Island</td><td>1. Februar</td><td>2007</td><td>1. Mai</td><td>2007</td></tr>
 <tr><td>Italien</td><td>19. Februar</td><td>2007</td><td>19. Mai</td><td>2007</td></tr>
 <tr><td>Jamaika</td><td>4. Mai</td><td>2007</td><td>4. August</td><td>2007</td></tr>
+<tr><td>Jemen</td><td>5. Juni</td><td>2024</td><td>5. September</td><td>2024</td></tr>
 <tr><td>Jordanien</td><td>16. Februar</td><td>2007</td><td>16. Mai</td><td>2007</td></tr>
 <tr><td>Kambodscha</td><td>19. September</td><td>2007 B</td><td>19. Dezember</td><td>2007</td></tr>
 <tr><td>Kamerun</td><td>22. November</td><td>2006 B</td><td>18. März</td><td>2007</td></tr>
@@ -686,7 +687,7 @@ Geltungsbereich am 30. April 2024[^t-2]
 <tr><td>Kenia</td><td>24. Oktober</td><td>2007</td><td>24. Januar</td><td>2008</td></tr>
 <tr><td>Kolumbien</td><td>19. März</td><td>2013</td><td>19. Juni</td><td>2013</td></tr>
 <tr><td>Komoren</td><td>20. November</td><td>2013</td><td>20. Februar</td><td>2014</td></tr>
-<tr><td>Kongo (Brazzaville)</td><td>22. Oktober</td><td>2008</td><td>22. Februar</td><td>2009</td></tr>
+<tr><td>Kongo (Brazzaville)</td><td>22. Oktober</td><td>2008</td><td>22. Januar</td><td>2009</td></tr>
 <tr><td>Kongo (Kinshasa)</td><td>28. September</td><td>2010</td><td>28. Dezember</td><td>2010</td></tr>
 <tr><td>Korea (Süd-)</td><td>1. April</td><td>2010</td><td>1. Juli</td><td>2010</td></tr>
 <tr><td>Kroatien</td><td>31. August</td><td>2006</td><td>18. März</td><td>2007</td></tr>
@@ -698,7 +699,7 @@ Geltungsbereich am 30. April 2024[^t-2]
 <tr><td>Litauen</td><td>18. Dezember</td><td>2006 B</td><td>18. März</td><td>2007</td></tr>
 <tr><td>Luxemburg</td><td>18. Dezember</td><td>2006</td><td>18. März</td><td>2007</td></tr>
 <tr><td>Madagaskar</td><td>11. September</td><td>2006</td><td>18. März</td><td>2007</td></tr>
-<tr><td>Malawi</td><td>16. März</td><td>2010</td><td>16. Juni</td><td>2010</td></tr>
+<tr><td>Malawi</td><td>16. März</td><td>2010 B</td><td>16. Juni</td><td>2010</td></tr>
 <tr><td>Mali</td><td>9. November</td><td>2006</td><td>18. März</td><td>2007</td></tr>
 <tr><td>Malta</td><td>18. Dezember</td><td>2006 B</td><td>18. März</td><td>2007</td></tr>
 <tr><td>Marokko</td><td>4. Juni</td><td>2013</td><td>4. September</td><td>2013</td></tr>
@@ -726,16 +727,19 @@ Geltungsbereich am 30. April 2024[^t-2]
 <tr><td>Panama</td><td>22. Januar</td><td>2007</td><td>22. April</td><td>2007</td></tr>
 <tr><td>Paraguay</td><td>30. Oktober</td><td>2007</td><td>30. Januar</td><td>2008</td></tr>
 <tr><td>Peru</td><td>16. Oktober</td><td>2006 B</td><td>18. März</td><td>2007</td></tr>
+<tr><td>Philippinen</td><td>31. Mai</td><td>2024</td><td>31. August</td><td>2024</td></tr>
 <tr><td>Polen</td><td>17. August</td><td>2007 B</td><td>17. November</td><td>2007</td></tr>
 <tr><td>Portugal</td><td>16. März</td><td>2007</td><td>16. Juni</td><td>2007</td></tr>
+<tr><td>Ruanda</td><td>16. Juli</td><td>2012</td><td>16. Oktober</td><td>2012</td></tr>
 <tr><td>Rumänien</td><td>20. Juli</td><td>2006 B</td><td>18. März</td><td>2007</td></tr>
 <tr><td>Sambia</td><td>11. Juli</td><td>2023 B</td><td>11. Oktober</td><td>2023</td></tr>
 <tr><td>Samoa</td><td>23. Oktober</td><td>2015 B</td><td>23. Januar</td><td>2016</td></tr>
+<tr><td>Saudi-Arabien</td><td>22. April</td><td>2024 B</td><td>22. Juli</td><td>2024</td></tr>
 <tr><td>Schweden</td><td>18. Dezember</td><td>2006</td><td>18. März</td><td>2007</td></tr>
 <tr><td>Schweiz</td><td>16. Juli</td><td>2008</td><td>16. Oktober</td><td>2008</td></tr>
 <tr><td>Senegal</td><td>7. November</td><td>2006</td><td>18. März</td><td>2007</td></tr>
 <tr><td>Serbien</td><td>2. Juli</td><td>2009</td><td>2. Oktober</td><td>2009</td></tr>
-<tr><td>Seychellen</td><td>20. Juni</td><td>2008</td><td>20. September</td><td>2008</td></tr>
+<tr><td>Seychellen</td><td>20. Juni</td><td>2008 B</td><td>20. September</td><td>2008</td></tr>
 <tr><td>Simbabwe</td><td>15. Mai</td><td>2008</td><td>15. August</td><td>2008</td></tr>
 <tr><td>Slowakei</td><td>18. Dezember</td><td>2006</td><td>18. März</td><td>2007</td></tr>
 <tr><td>Slowenien</td><td>18. Dezember</td><td>2006</td><td>18. März</td><td>2007</td></tr>
@@ -768,7 +772,7 @@ Geltungsbereich am 30. April 2024[^t-2]
 <tr><td>Vietnam\*</td><td>7. August</td><td>2007</td><td>7. November</td><td>2007</td></tr>
 <tr><td>Vereinigte Arabische Emirate\*</td><td>6. Juni</td><td>2012 B</td><td>6. September</td><td>2012</td></tr>
 <tr><td>Zypern</td><td>19. Dezember</td><td>2006</td><td>19. März</td><td>2007</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen für Bildung, Wissenschaft und Kultur (UNESCO): www.unesco.org/ &gt; Français &gt; Liens utiles &gt; Ressources &gt; Textes fondamentaux &gt; Textes juridiques &gt; 2005 Diversité des expressions culturelles eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für Tokelau.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen für Bildung, Wissenschaft und Kultur (UNESCO): www.unesco.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für Tokelau.</td></tr>
 </table>
 
-[^t-2]: [AS 2008 4823](https://fedlex.data.admin.ch/eli/oc/2008/676); [2010 715](https://fedlex.data.admin.ch/eli/oc/2010/110); [2012 109](https://fedlex.data.admin.ch/eli/oc/2012/15); [2013 277](https://fedlex.data.admin.ch/eli/oc/2013/39); [2014 549](https://fedlex.data.admin.ch/eli/oc/2014/111); [2015 2125](https://fedlex.data.admin.ch/eli/oc/2015/393); [2016 3501](https://fedlex.data.admin.ch/eli/oc/2016/589); [2020 1187](https://fedlex.data.admin.ch/eli/oc/2020/221); [2024 185](https://fedlex.data.admin.ch/eli/oc/2024/185). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-2]: [AS 2008 4823](https://fedlex.data.admin.ch/eli/oc/2008/676); [2010 715](https://fedlex.data.admin.ch/eli/oc/2010/110); [2012 109](https://fedlex.data.admin.ch/eli/oc/2012/15); [2013 277](https://fedlex.data.admin.ch/eli/oc/2013/39); [2014 549](https://fedlex.data.admin.ch/eli/oc/2014/111); [2015 2125](https://fedlex.data.admin.ch/eli/oc/2015/393); [2016 3501](https://fedlex.data.admin.ch/eli/oc/2016/589); [2020 1187](https://fedlex.data.admin.ch/eli/oc/2020/221); [2024 185](https://fedlex.data.admin.ch/eli/oc/2024/185), [398](https://fedlex.data.admin.ch/eli/oc/2024/398). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
