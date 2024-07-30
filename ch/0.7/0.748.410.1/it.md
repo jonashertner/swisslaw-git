@@ -3,26 +3,27 @@ sr: "0.748.410.1"
 title: "Protocollo d'emendamento del 28 settembre 1955 della convenzione per l'unificazione di alcune norme sul trasporto aereo internazionale, firmata a Varsavia il 12 ottobre 1929"
 eli: "https://fedlex.data.admin.ch/eli/cc/1963/665_664_685"
 language: it
-version: 2011-11-15
+version: 2024-07-31
 adopted: 1955-09-28
 in_force: 1963-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1963/665_664_685/20111115/it/xml/fedlex-data-admin-ch-eli-cc-1963-665_664_685-20111115-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1963/665_664_685/20111115/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1963/665_664_685/20240731/it/xml/fedlex-data-admin-ch-eli-cc-1963-665_664_685-20240731-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1963/665_664_685/20240731/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Protocollo d’emendamento della convenzione per l’unificazione di alcune norme sul trasporto aereo internazionale, firmata a Varsavia il 12 ottobre 1929****
+# Protocollo d’emendamento della convenzione per l’unificazione di alcune norme sul trasporto aereo internazionale, firmata a Varsavia il 12 ottobre 1929
 
-Traduzione*[^t-2]*[^t-1]
+RU **1963** 685; FF **1962** I 1401 ted. 1449 franc.[^t-1]
 
-Conchiuso all’Aia il 28 settembre 1955 Approvato dall’Assemblea federale il 20 settembre 1962[^t-3] Ratificazione depositata dalla Svizzera il 19 ottobre 1962 Entrata in vigore per la Svizzera il 1<sup>o</sup> agosto 1963
+Traduzione
 
-(Stato 15 novembre 2011)
+Conchiuso all’Aia il 28 settembre 1955 Approvato dall’Assemblea federale il 20 settembre 1962[^t-2] Ratificazione depositata dalla Svizzera il 19 ottobre 1962 Entrata in vigore per la Svizzera il 1<sup>o</sup> agosto 1963
 
-[^t-1]: Vedere anche Prot. add. n° 2 e 4 del 25 set. 1975 ([RS 0.748.410.4](https://fedlex.data.admin.ch/eli/cc/2003/21)**/.6**).
-[^t-2]: RU **1963** 685; FF **1962** I 1401 ted. 1449 franc. Il testo originale francese è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
-[^t-3]: [RU 1963 683](https://fedlex.data.admin.ch/eli/oc/1963/663_663_683)
+(Stato 31 luglio 2024)
+
+[^t-1]: Vedere anche Prot. add. n° 2 e 4 del 25 set. 1975 ([RS 0.748.410.4](https://fedlex.data.admin.ch/eli/cc/2003/21)**,** [0.748.410.6](https://fedlex.data.admin.ch/eli/cc/2003/23)).
+[^t-2]: [RU 1963 683](https://fedlex.data.admin.ch/eli/oc/1963/663_663_683)
 
 I Governi sottoscritti,
 
@@ -279,7 +280,7 @@ Il Governo della Repubblica popolare di Polonia notificherà immediatamente ai G
 
 (Seguono le firme)
 
-Campo d'applicazione il 15 novembre 2011**[^t-4]**
+Campo d’applicazione il 31 luglio 2024[^t-3]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -326,6 +327,7 @@ Campo d'applicazione il 15 novembre 2011**[^t-4]**
 <tr><td>El Salvador</td><td>17 settembre</td><td>1956</td><td>1° agosto</td><td>1963</td></tr>
 <tr><td>Emirati Arabi Uniti</td><td>18 ottobre</td><td>1993 A</td><td>17 gennaio</td><td>1994</td></tr>
 <tr><td>Estonia</td><td>16 marzo</td><td>1998 A</td><td>14 giugno</td><td>1998</td></tr>
+<tr><td>Eswatini</td><td>20 luglio</td><td>1971 A</td><td>18 ottobre</td><td>1971</td></tr>
 <tr><td>Figi</td><td>25 febbraio</td><td>1972 S</td><td>10 ottobre</td><td>1970</td></tr>
 <tr><td>Filippine</td><td>30 novembre</td><td>1966</td><td>28 febbraio</td><td>1967</td></tr>
 <tr><td>Finlandia</td><td>25 maggio</td><td>1977 A</td><td>23 agosto</td><td>1977</td></tr>
@@ -358,14 +360,14 @@ Campo d'applicazione il 15 novembre 2011**[^t-4]**
 <tr><td>Liechtenstein</td><td>3 gennaio</td><td>1966</td><td>3 aprile</td><td>1966</td></tr>
 <tr><td>Lituania</td><td>21 novembre</td><td>1996 A</td><td>19 febbraio</td><td>1997</td></tr>
 <tr><td>Lussemburgo</td><td>13 febbraio</td><td>1957</td><td>1° agosto</td><td>1963</td></tr>
-<tr><td>Macedonia</td><td>1° settembre</td><td>1994 S</td><td>17 settembre</td><td>1991</td></tr>
+<tr><td>Macedonia del Nord</td><td>1° settembre</td><td>1994 S</td><td>17 settembre</td><td>1991</td></tr>
 <tr><td>Madagascar</td><td>17 agosto</td><td>1962 S</td><td>1° agosto</td><td>1963</td></tr>
 <tr><td>Malawi</td><td>9 giugno</td><td>1971 A</td><td>7 settembre</td><td>1971</td></tr>
 <tr><td>Malaysia<sup>\*</sup></td><td>20 settembre</td><td>1974 A</td><td>19 dicembre</td><td>1974</td></tr>
 <tr><td>Maldive</td><td>13 ottobre</td><td>1995 A</td><td>11 gennaio</td><td>1996</td></tr>
 <tr><td>Mali</td><td>30 dicembre</td><td>1963</td><td>29 marzo</td><td>1964</td></tr>
 <tr><td>Marocco</td><td>17 novembre</td><td>1975</td><td>15 febbraio</td><td>1976</td></tr>
-<tr><td>Maurizio</td><td>17 ottobre</td><td>1989 A</td><td>15 gennaio</td><td>1990</td></tr>
+<tr><td>Maurizio<sup>\*</sup></td><td>17 ottobre</td><td>1989 A</td><td>15 gennaio</td><td>1990</td></tr>
 <tr><td>Messico</td><td>24 maggio</td><td>1957</td><td>1° agosto</td><td>1963</td></tr>
 <tr><td>Moldova</td><td>20 marzo</td><td>1997 A</td><td>19 giugno</td><td>1997</td></tr>
 <tr><td>Monaco</td><td>9 aprile</td><td>1979 A</td><td>8 luglio</td><td>1979</td></tr>
@@ -413,7 +415,6 @@ Campo d'applicazione il 15 novembre 2011**[^t-4]**
 <tr><td>Suriname</td><td>19 ottobre</td><td>2004 A</td><td>17 gennaio</td><td>2005</td></tr>
 <tr><td>Svezia</td><td>3 maggio</td><td>1963</td><td>1° agosto</td><td>1963</td></tr>
 <tr><td>Svizzera</td><td>19 ottobre</td><td>1962</td><td>1° agosto</td><td>1963</td></tr>
-<tr><td>Swaziland</td><td>20 luglio</td><td>1971 A</td><td>18 ottobre</td><td>1971</td></tr>
 <tr><td>Togo</td><td>2 luglio</td><td>1980 A</td><td>30 settembre</td><td>1980</td></tr>
 <tr><td>Tonga</td><td>21 febbraio</td><td>1977 A</td><td>22 maggio</td><td>1977</td></tr>
 <tr><td>Trinidad e Tobago</td><td>10 maggio</td><td>1983 A</td><td>8 agosto</td><td>1983</td></tr>
@@ -421,14 +422,14 @@ Campo d'applicazione il 15 novembre 2011**[^t-4]**
 <tr><td>Turchia</td><td>25 marzo</td><td>1978 A</td><td>23 giugno</td><td>1978</td></tr>
 <tr><td>Ucraina</td><td>23 giugno</td><td>1960</td><td>1° agosto</td><td>1963</td></tr>
 <tr><td>Ungheria</td><td>4 ottobre</td><td>1957</td><td>1° agosto</td><td>1963</td></tr>
+<tr><td>Uzbekistan</td><td>27 febbraio</td><td>1997 A</td><td>28 maggio</td><td>1997</td></tr>
 <tr><td>Vanuatu</td><td>26 ottobre</td><td>1981 A</td><td>24 gennaio</td><td>1982</td></tr>
 <tr><td>Venezuela<sup>\*</sup></td><td>26 agosto</td><td>1960</td><td>1° agosto</td><td>1963</td></tr>
 <tr><td>Vietnam</td><td>11 ottobre</td><td>1982 A</td><td>9 gennaio</td><td>1983</td></tr>
 <tr><td>Yemen</td><td>6 maggio</td><td>1982 A</td><td>4 agosto</td><td>1982</td></tr>
 <tr><td>Zambia</td><td>25 marzo</td><td>1970 A</td><td>23 giugno</td><td>1970</td></tr>
 <tr><td>Zimbabwe</td><td>27 ottobre</td><td>1980 A</td><td>25 gennaio</td><td>1981</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni Le riserve e dichiarazioni, ad eccezione di quelle della Svizzera, non sono pubblicate nella RU. I testi in inglese possono essere ottenuti sul sito Internet dell’Organizzazione internazionale marittima (IMO): [www.imo.org](http://www.imo.org) &gt; Qui nous sommes &gt; Conventions &gt; État des conventions &gt; Status Book, oppure presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. [tab]</td></tr>
 </table>
 
-- <sup>\*</sup> Riserve e dichiarazioni. Riserve e dichiarazioni non sono pubblicate nella RU. I testi inglesi si possono consultare sul sito Internet dell’Organizzazione dell’aviazione civile internazionale: www.icao.int/Secretariat/Legal/Pages/TreatyCollection.aspx od ottenere presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.
-
-[^t-4]: [RU 1971 1828](https://fedlex.data.admin.ch/eli/oc/1971/1824_1828_1828), [1976 499](https://fedlex.data.admin.ch/eli/oc/1976/499_499_499), [1978 495](https://fedlex.data.admin.ch/eli/oc/1978/495_495_495), [1981 1630](https://fedlex.data.admin.ch/eli/oc/1981/1630_1630_1630), [1983 236](https://fedlex.data.admin.ch/eli/oc/1983/236_236_236), [1986 905](https://fedlex.data.admin.ch/eli/oc/1986/905_905_905), [1987 1159](https://fedlex.data.admin.ch/eli/oc/1987/1159_1159_1159), [1989 862](https://fedlex.data.admin.ch/eli/oc/1989/862_862_862), [2004 2793](https://fedlex.data.admin.ch/eli/oc/2004/345), [2007 4207](https://fedlex.data.admin.ch/eli/oc/2007/561)e [2012 385](https://fedlex.data.admin.ch/eli/oc/2012/33). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-3]: [RU 1971 1828](https://fedlex.data.admin.ch/eli/oc/1971/1824_1828_1828); [1976 499](https://fedlex.data.admin.ch/eli/oc/1976/499_499_499); [1978 495](https://fedlex.data.admin.ch/eli/oc/1978/495_495_495); [1981 1630](https://fedlex.data.admin.ch/eli/oc/1981/1630_1630_1630); [1983 236](https://fedlex.data.admin.ch/eli/oc/1983/236_236_236); [1986 905](https://fedlex.data.admin.ch/eli/oc/1986/905_905_905); [1987 1159](https://fedlex.data.admin.ch/eli/oc/1987/1159_1159_1159); [1989 862](https://fedlex.data.admin.ch/eli/oc/1989/862_862_862); [2004 2793](https://fedlex.data.admin.ch/eli/oc/2004/345); [2007 4207](https://fedlex.data.admin.ch/eli/oc/2007/561); [2012 385](https://fedlex.data.admin.ch/eli/oc/2012/33); [2024 400](https://fedlex.data.admin.ch/eli/oc/2024/400). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

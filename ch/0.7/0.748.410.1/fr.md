@@ -3,16 +3,16 @@ sr: "0.748.410.1"
 title: "Protocole du 28 septembre 1955 portant modification de la convention pour l'unification de certaines règles relatives au transport aérien international, signée à Varsovie le 12 octobre 1929"
 eli: "https://fedlex.data.admin.ch/eli/cc/1963/665_664_685"
 language: fr
-version: 2011-11-15
+version: 2024-07-31
 adopted: 1955-09-28
 in_force: 1963-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1963/665_664_685/20111115/fr/xml/fedlex-data-admin-ch-eli-cc-1963-665_664_685-20111115-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1963/665_664_685/20111115/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1963/665_664_685/20240731/fr/xml/fedlex-data-admin-ch-eli-cc-1963-665_664_685-20240731-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1963/665_664_685/20240731/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Protocole portant modification de la convention pour l’unification de certaines règles relatives au transport aérien international signée à Varsovie le 12 octobre 1929****
+# Protocole portant modification de la convention pour l’unification de certaines règles relatives au transport aérien international signée à Varsovie le 12 octobre 1929
 
 RO **1963** 664; FF **1962** I 1449[^t-1]
 
@@ -20,12 +20,12 @@ Texte original
 
 Conclu à La Haye le 28 septembre 1955 Approuvé par l’Assemblée fédérale le 20 septembre 1962[^t-2] Ratification déposée par la Suisse le 19 octobre 1962 Entré en vigueur pour la Suisse le 1<sup>er</sup> août 1963
 
-(Etat le 15 novembre 2011)
+(État le 31 juillet 2024)
 
-[^t-1]: Voir aussi les Prot. add. n°2 et 4 du 25 sept. 1975 ( [RS 0.748.410.4](https://fedlex.data.admin.ch/eli/cc/2003/21)**/.6**).
+[^t-1]: Voir aussi les Prot. add. n° 2 et 4 du 25 sept. 1975 ([RS 0.748.410.4](https://fedlex.data.admin.ch/eli/cc/2003/21), [0.748.410.6](https://fedlex.data.admin.ch/eli/cc/2003/23)).
 [^t-2]: [RO 1963 663](https://fedlex.data.admin.ch/eli/oc/1963/663_663_683)
 
-Les gouvernements soussignés
+Les gouvernements soussignés,
 
 considérant qu’il est souhaitable d’amender la Convention pour l’unification de certaines règles relatives au transport aérien international signée à Varsovie le 12 octobre 1929[^ingress-1],
 
@@ -37,22 +37,22 @@ sont convenus de ce qui suit:
 
 #### Art. I
 
-A l’art. 1 de la Convention:
+À l’art. 1 de la Convention:
 
 - a. l’al. 2 est supprimé et remplacé par la disposition suivante:
-- «<sup>2</sup> Est qualifié transport international, au sens de la présente Convention, tout transport dans lequel, d’après les stipulations des parties, le point de départ et le point de destination, qu’il y ait ou non interruption de transport ou transbordement, sont situés soit sur le territoire de deux Hautes Parties Contractantes, soit sur le territoire d’une seule Haute Partie Contractante si une escale est prévue sur le territoire d’un autre Etat, même si cet Etat n’est pas une Haute Partie Contractante. Le transport sans une telle escale entre deux points du territoire d’une seule Haute Partie Contractante n’est pas considéré comme international au sens de la présente Convention.»
+- «<sup>2</sup> Est qualifié transport international, au sens de la présente Convention, tout transport dans lequel, d’après les stipulations des parties, le point de départ et le point de destination, qu’il y ait ou non interruption de transport ou transbordement, sont situés soit sur le territoire de deux Hautes Parties Contractantes, soit sur le territoire d’une seule Haute Partie Contractante si une escale est prévue sur le territoire d’un autre État, même si cet État n’est pas une Haute Partie Contractante. Le transport sans une telle escale entre deux points du territoire d’une seule Haute Partie Contractante n’est pas considéré comme international au sens de la présente Convention.»
 - b. l’al. 3 est supprimé et remplacé par la disposition suivante:
-- «<sup>3</sup> Le transport à exécuter par plusieurs transporteurs par air successifs est censé constituer pour l’application de la présente Convention un transport unique lorsqu’il a été envisagé par les parties comme une seule opération, qu’il ait été conclu sous la forme d’un seul contrat ou d’une série de contrats, et il ne perd pas son caractère international par le fait qu’un seul contrat ou une série de contrats doivent être exécutés intégralement dans le territoire d’un même Etat.»
+- «<sup>3</sup> Le transport à exécuter par plusieurs transporteurs par air successifs est censé constituer pour l’application de la présente Convention un transport unique lorsqu’il a été envisagé par les parties comme une seule opération, qu’il ait été conclu sous la forme d’un seul contrat ou d’une série de contrats, et il ne perd pas son caractère international par le fait qu’un seul contrat ou une série de contrats doivent être exécutés intégralement dans le territoire d’un même État.»
 
 #### Art. II
 
-A l’art. 2 de la Convention, l’al. 2 est supprimé et remplacé par la disposition suivante:
+À l’art. 2 de la Convention, l’al. 2 est supprimé et remplacé par la disposition suivante:
 
 «<sup>2</sup> La présente Convention ne s’applique pas au transport du courrier et des colis postaux.»
 
 #### Art. III
 
-A l’art. 3 de la Convention:
+À l’art. 3 de la Convention:
 
 - a. l’al. 1 est supprimé et remplacé par la disposition suivante:
 -
@@ -60,7 +60,7 @@ A l’art. 3 de la Convention:
   «<sup>1</sup> Dans le transport de passagers, un billet de passage doit être délivré, contenant:
 
   - a. L’indication des points de départ et de destination;
-  - b. Si les points de départ et de destination sont situés sur le territoire d’une même Haute Partie Contractante et qu’une ou plusieurs escales soient prévues sur le territoire d’un autre Etat, l’indication d’une de ces escales;
+  - b. Si les points de départ et de destination sont situés sur le territoire d’une même Haute Partie Contractante et qu’une ou plusieurs escales soient prévues sur le territoire d’un autre État, l’indication d’une de ces escales;
   - c. Un avis indiquant que si les passagers entreprennent un voyage comportant une destination finale ou une escale dans un pays autre que le pays de départ, leur transport peut être régi par la Convention de Varsovie qui, en général, limite la responsabilité du transporteur en cas de mort ou de lésion corporelle, ainsi qu’en cas de perte ou d’avarie des bagages.»
 
 - b. l’al. 2 est supprimé et remplacé par la disposition suivante:
@@ -68,7 +68,7 @@ A l’art. 3 de la Convention:
 
 #### Art. IV
 
-A l’art. 4 de la Convention:
+À l’art. 4 de la Convention:
 
 - a. les al. 1, 2 et 3 sont supprimés et remplacés par la disposition suivante:
 -
@@ -76,7 +76,7 @@ A l’art. 4 de la Convention:
   «<sup>1</sup> Dans le transport de bagages enregistrés, un bulletin de bagages doit être délivré qui, s’il n’est pas combiné avec un billet de passage conforme aux dispositions de l’art. 3, al. 1, ou n’est pas inclus dans un tel billet, doit contenir:
 
   - a. L’indication des points de départ et de destination;
-  - b. Si les points de départ et de destination sont situés sur le territoire d’une même Haute Partie Contractante et qu’une ou plusieurs escales soient prévues sur le territoire d’un autre Etat, l’indication d’une de ces escales;
+  - b. Si les points de départ et de destination sont situés sur le territoire d’une même Haute Partie Contractante et qu’une ou plusieurs escales soient prévues sur le territoire d’un autre État, l’indication d’une de ces escales;
   - c. Un avis indiquant que, si le transport comporte une destination finale ou une escale dans un pays autre que le pays de départ, il peut être régi par la Convention de Varsovie qui, en général, limite la responsabilité du transporteur en cas de perte ou d’avarie des bagages.»
 
 - b. l’al. 4 est supprimé et remplacé par la disposition suivante:
@@ -84,7 +84,7 @@ A l’art. 4 de la Convention:
 
 #### Art. V
 
-A l’art. 6 de la Convention, l’al. 3 est supprimé et remplacé par la disposition suivante:
+À l’art. 6 de la Convention, l’al. 3 est supprimé et remplacé par la disposition suivante:
 
 «<sup>3</sup> La signature du transporteur doit être apposée avant l’embarquement de la marchandise à bord de l’aéronef.»
 
@@ -97,7 +97,7 @@ L’art. 8 de la Convention est supprimé et remplacé par la disposition suivan
 La lettre de transport aérien doit contenir:
 
 - a. L’indication des points de départ et de destination;
-- b. Si les points de départ et de destination sont situés sur le territoire d’une même Haute Partie Contractante et qu’une ou plusieurs escales soient prévues sur le territoire d’un autre Etat, l’indication d’une de ces escales;
+- b. Si les points de départ et de destination sont situés sur le territoire d’une même Haute Partie Contractante et qu’une ou plusieurs escales soient prévues sur le territoire d’un autre État, l’indication d’une de ces escales;
 - c. Un avis indiquant aux expéditeurs que, si le transport comporte une destination finale ou une escale dans un pays autre que le pays de départ, il peut être régi par la Convention de Varsovie qui, en général, limite la responsabilité des transporteurs en cas de perte ou d’avarie des marchandises.»
 
 #### Art. VII
@@ -110,13 +110,13 @@ Si, du consentement du transporteur, des marchandises sont embarquées à bord d
 
 #### Art. VIII
 
-A l’art. 10 de la Convention, l’al. 2 est supprimé et remplacé par la disposition suivante:
+À l’art. 10 de la Convention, l’al. 2 est supprimé et remplacé par la disposition suivante:
 
 «<sup>2</sup> Il supportera la responsabilité de tout dommage subi par le transporteur ou par toute autre personne à l’égard de laquelle la responsabilité du transporteur est engagée à raison de ses indications et déclarations irrégulières, inexactes ou incomplètes.»
 
 #### Art. IX
 
-A l’art. 15 de la Convention, l’alinéa suivant est inséré:
+À l’art. 15 de la Convention, l’alinéa suivant est inséré:
 
 «<sup>3</sup> Rien dans la présente Convention n’empêche l’établissement d’une lettre de transport aérien négociable.»
 
@@ -143,13 +143,13 @@ L’art. 22 de la Convention est supprimé et remplacé par la disposition suiva
 
 #### Art. XII
 
-A l’art. 23 de la Convention, la disposition actuelle devient l’al. 1 et l’al. 2 suivant est ajouté:
+À l’art. 23 de la Convention, la disposition actuelle devient l’al. 1 et l’al. 2 suivant est ajouté:
 
 «<sup>2</sup> L’al. 1 du présent article ne s’applique pas aux clauses concernant la perte ou le dommage résultant de la nature ou du vice propre des marchandises transportées.»
 
 #### Art. XIII
 
-A l’art. 25 de la Convention, les al. 1 et 2 sont supprimés et remplacés par la disposition suivante:
+À l’art. 25 de la Convention, les al. 1 et 2 sont supprimés et remplacés par la disposition suivante:
 
 «Les limites de responsabilité prévues à l’art. 22 ne s’appliquent pas s’il est prouvé que le dommage résulte d’un acte ou d’une omission du transporteur ou de ses préposés fait, soit avec l’intention de provoquer un dommage, soit témérairement et avec conscience qu’un dommage en résultera probablement, pour autant que, dans le cas d’un acte ou d’une omission de préposés, la preuve soit également apportée que ceux-ci ont agi dans l’exercice de leurs fonctions.»
 
@@ -167,7 +167,7 @@ Après l’art. 25 de la Convention, l’article suivant est inséré:
 
 #### Art. XV
 
-A l’art. 26 de la Convention, l’al. 2 est supprimé et remplacé par la disposition suivante:
+À l’art. 26 de la Convention, l’al. 2 est supprimé et remplacé par la disposition suivante:
 
 «<sup>2</sup> En cas d’avarie, le destinataire doit adresser au transporteur une protestation immédiatement après la découverte de l’avarie et, au plus tard, dans un délai de sept jours pour les bagages et de quatorze jours pour les marchandises à dater de leur réception. En cas de retard, la protestation devra être faite au plus tard dans les vingt et un jours à dater du jour où le bagage ou la marchandise auront été mis à sa disposition.»
 
@@ -185,15 +185,15 @@ Après l’art. 40 de la Convention, l’article suivant est inséré:
 
 «Art. 40 A
 
-<sup>1.</sup> A l’art. 37, al. 2 et à l’art. 40, al. 1, l’expression *Haute Partie Con**tractante* signifie *Etat.* Dans tout les autres cas, l’expression *Haute Partie Contrac**tante* signifie un Etat dont la ratification ou l’adhésion à la Convention a pris effet et dont la dénonciation n’a pas pris effet.
+<sup>1.</sup> À l’art. 37, al. 2 et à l’art. 40, al. 1, l’expression *Haute Partie Con**tractante* signifie *État.* Dans tout les autres cas, l’expression *Haute Partie Contrac**tante* signifie un État dont la ratification ou l’adhésion à la Convention a pris effet et dont la dénonciation n’a pas pris effet.
 
-<sup>2.</sup> Aux fins de la Convention, le mot territoire signifie non seulement le territoire métropolitain d’un Etat, mais aussi tous les territoires qu’il représente dans les relations extérieures.»
+<sup>2.</sup> Aux fins de la Convention, le mot territoire signifie non seulement le territoire métropolitain d’un État, mais aussi tous les territoires qu’il représente dans les relations extérieures.»
 
 ## Chapitre II Champ d’application de la convention amendée
 
 #### Art. XVIII
 
-La Convention amendée par le présent protocole s’applique au transport international défini à l’article premier de la Convention lorsque les points de départ et de destination sont situés soit sur le territoire de deux Etats parties au présent protocole, soit sur le territoire d’un seul Etat partie au présent protocole si une escale est prévue sur le territoire d’un autre Etat.
+La Convention amendée par le présent protocole s’applique au transport international défini à l’article premier de la Convention lorsque les points de départ et de destination sont situés soit sur le territoire de deux États parties au présent protocole, soit sur le territoire d’un seul État partie au présent protocole si une escale est prévue sur le territoire d’un autre État.
 
 ## Chapitre III Dispositions protocolaires
 
@@ -203,27 +203,27 @@ Entre les Parties au présent Protocole, la Convention et le Protocole seront co
 
 #### Art. XX
 
-Jusqu’à sa date d’entrée en vigueur conformément aux dispositions de l’art. XXII, al. 1, le présente Protocole restera ouvert à la signature à tout Etat qui aura ratifié la Convention ou y aura adhéré, ainsi qu’à tout Etat ayant participé à la Conférence à laquelle ce Protocole a été adopté.
+Jusqu’à sa date d’entrée en vigueur conformément aux dispositions de l’art. XXII, al. 1, le présente Protocole restera ouvert à la signature à tout État qui aura ratifié la Convention ou y aura adhéré, ainsi qu’à tout État ayant participé à la Conférence à laquelle ce Protocole a été adopté.
 
 #### Art. XXI
 
-<sup>1.</sup> Le présent Protocole sera soumis à la ratification des Etats signataires.
+<sup>1.</sup> Le présent Protocole sera soumis à la ratification des États signataires.
 
-<sup>2.</sup> La ratification du présent Protocole par un Etat qui n’est pas partie à la Convention emporte adhésion à la Convention amendée par ce Protocole.
+<sup>2.</sup> La ratification du présent Protocole par un État qui n’est pas partie à la Convention emporte adhésion à la Convention amendée par ce Protocole.
 
 <sup>3.</sup> Les instruments de ratification seront déposés auprès du Gouvernement de la République Populaire de Pologne.
 
 #### Art. XXII
 
-<sup>1.</sup> Lorsque le présent Protocole aura réuni les ratifications de trente Etats signataires, il entrera en vigueur entre ces Etats le quatre-vingt-dixième jour après le dépôt du trentième instrument de ratification. A l’égard de chaque Etat qui le ratifiera par la suite, il entrera en vigueur le quatre-vingt-dixième jour après le dépôt de son instrument de ratification.
+<sup>1.</sup> Lorsque le présent Protocole aura réuni les ratifications de trente États signataires, il entrera en vigueur entre ces États le quatre-vingt-dixième jour après le dépôt du trentième instrument de ratification. À l’égard de chaque État qui le ratifiera par la suite, il entrera en vigueur le quatre-vingt-dixième jour après le dépôt de son instrument de ratification.
 
 <sup>2.</sup> Dès son entrée en vigueur, le présent Protocole sera enregistré auprès de l’Organisation des Nations Unies par le Gouvernement de la République Populaire de Pologne.
 
 #### Art. XXIII
 
-<sup>1.</sup> Après son entrée en vigueur, le présent Protocole sera ouvert à l’adhésion de tout Etat non signataire.
+<sup>1.</sup> Après son entrée en vigueur, le présent Protocole sera ouvert à l’adhésion de tout État non signataire.
 
-<sup>2.</sup> L’adhésion au présent Protocole par un Etat qui n’est pas partie à la Convention emporte adhésion à la Convention amendée par le présent Protocole.
+<sup>2.</sup> L’adhésion au présent Protocole par un État qui n’est pas partie à la Convention emporte adhésion à la Convention amendée par le présent Protocole.
 
 <sup>3.</sup> L’adhésion sera effectuée par le dépôt d’un instrument d’adhésion auprès du Gouvernement de la République Populaire de Pologne et produira ses effets le quatre-vingt-dixième jour après ce dépôt.
 
@@ -237,21 +237,21 @@ Jusqu’à sa date d’entrée en vigueur conformément aux dispositions de l’
 
 #### Art. XXV
 
-<sup>1.</sup> Le présent Protocole s’appliquera à tous les territoires qu’un Etat partie à ce Protocole représente dans les relations extérieures, à l’exception des territoires à l’égard desquels une déclaration a été faite conformément à l’al. 2 du présent article.
+<sup>1.</sup> Le présent Protocole s’appliquera à tous les territoires qu’un État partie à ce Protocole représente dans les relations extérieures, à l’exception des territoires à l’égard desquels une déclaration a été faite conformément à l’al. 2 du présent article.
 
-<sup>2.</sup> Tout Etat pourra, au moment du dépôt de son instrument de ratification ou d’adhésion, déclarer que son acceptation du présent Protocole ne vise pas un ou plusieurs des territoires qu’il représente dans les relations extérieures.
+<sup>2.</sup> Tout État pourra, au moment du dépôt de son instrument de ratification ou d’adhésion, déclarer que son acceptation du présent Protocole ne vise pas un ou plusieurs des territoires qu’il représente dans les relations extérieures.
 
-<sup>3.</sup> Tout Etat pourra par la suite notifier au Gouvernement de la République Populaire de Pologne que le présent Protocole s’appliquera à un ou plusieurs des territoires ayant fait l’objet de la déclaration prévue à l’al. 2 du présent article. Cette notification produira ses effets le quatre-vingt-dixième jour après la date de sa réception par ce Gouvernement.
+<sup>3.</sup> Tout État pourra par la suite notifier au Gouvernement de la République Populaire de Pologne que le présent Protocole s’appliquera à un ou plusieurs des territoires ayant fait l’objet de la déclaration prévue à l’al. 2 du présent article. Cette notification produira ses effets le quatre-vingt-dixième jour après la date de sa réception par ce Gouvernement.
 
-<sup>4.</sup> Tout Etat partie à ce Protocole pourra, conformément aux dispositions de l’art. XXIV, al. 1, dénoncer le présent Protocole séparément pour tous ou pour l’un quelconque des territoires qu’il représente dans les relations extérieures.
+<sup>4.</sup> Tout État partie à ce Protocole pourra, conformément aux dispositions de l’art. XXIV, al. 1, dénoncer le présent Protocole séparément pour tous ou pour l’un quelconque des territoires qu’il représente dans les relations extérieures.
 
 #### Art. XXVI
 
-Il ne sera admis aucune réserve au présent Protocole. Toutefois, un Etat pourra à tout moment déclarer par notification faite au Gouvernement de la République Populaire de Pologne que la Convention amendée par le présent Protocole ne s’appliquera pas au transport de personnes, de marchandises et de bagages effectué pour ses autorités militaires à bord d’aéronefs immatriculés dans ledit Etat et dont la capacité entière a été réservée par ces autorités ou pour le compte de celles-ci.
+Il ne sera admis aucune réserve au présent Protocole. Toutefois, un État pourra à tout moment déclarer par notification faite au Gouvernement de la République Populaire de Pologne que la Convention amendée par le présent Protocole ne s’appliquera pas au transport de personnes, de marchandises et de bagages effectué pour ses autorités militaires à bord d’aéronefs immatriculés dans ledit État et dont la capacité entière a été réservée par ces autorités ou pour le compte de celles-ci.
 
 #### Art. XXVII
 
-Le Gouvernement de la République Populaire de Pologne notifiera immédiatement aux Gouvernements de tous les Etats signataires de la Convention ou du présent Protocole, et de tous les Etats membres de l’Organisation de l’Aviation civile internationale ou de l’Organisation des Nations Unies, ainsi qu’à l’Organisation de l’Aviation civile internationale:
+Le Gouvernement de la République Populaire de Pologne notifiera immédiatement aux Gouvernements de tous les États signataires de la Convention ou du présent Protocole, et de tous les États membres de l’Organisation de l’Aviation civile internationale ou de l’Organisation des Nations Unies, ainsi qu’à l’Organisation de l’Aviation civile internationale:
 
 - a. Toute signature du présent Protocole et la date de cette signature;
 - b. Le dépôt de tout instrument de ratification du présent Protocole ou d’adhésion à ce dernier et la date de ce dépôt;
@@ -260,159 +260,157 @@ Le Gouvernement de la République Populaire de Pologne notifiera immédiatement 
 - e. La réception de toute déclaration ou notification faite en vertu de l’art. XXV et la date de réception; et
 - f. La réception de toute notification faite en vertu de l’art. XXVI et la date de réception.
 
-*En foi de quoi,* les Plénipotentiaires soussignés, dûment autorisés, ont signé le présent Protocole. Fait à La Haye le vingt-huitième jour du mois de septembre de l’année mil neuf cent cinquante-cinq, en trois textes authentiques rédigés dans les langues française, anglaise et espagnole. En cas de divergence, le texte en langue française, langue dans laquelle la Convention avait été rédigée, fera foi. Le présente Protocole sera déposé auprès du Gouvernement de la République Populaire de Pologne où, conformément aux dispositions de l’art. XX, il restera ouvert à la signature, et ce Gouvernement transmettra des copies certifiées du présent Protocole aux Gouvernements de tous les Etats signataires de la Convention ou du présent Protocole, de tous les Etats Parties à la Convention ou au présent Protocole, et de tous les Etats membres de l’Organisation de l’Aviation civile internationale ou de l’Organisation des Nations Unies, ainsi qu’à l’Organisation de l’Aviation civile internationale. (Suivent les signatures)
+*En foi de quoi,* les Plénipotentiaires soussignés, dûment autorisés, ont signé le présent Protocole. Fait à La Haye le vingt-huitième jour du mois de septembre de l’année mil neuf cent cinquante-cinq, en trois textes authentiques rédigés dans les langues française, anglaise et espagnole. En cas de divergence, le texte en langue française, langue dans laquelle la Convention avait été rédigée, fera foi. Le présente Protocole sera déposé auprès du Gouvernement de la République Populaire de Pologne où, conformément aux dispositions de l’art. XX, il restera ouvert à la signature, et ce Gouvernement transmettra des copies certifiées du présent Protocole aux Gouvernements de tous les États signataires de la Convention ou du présent Protocole, de tous les États Parties à la Convention ou au présent Protocole, et de tous les États membres de l’Organisation de l’Aviation civile internationale ou de l’Organisation des Nations Unies, ainsi qu’à l’Organisation de l’Aviation civile internationale. (Suivent les signatures)
 
-Champ d'application le 15 novembre 2011**[^t-3]**
+Champ d’application le 31 juillet 2024[^t-3]
 
 <table>
-<tr><th colspan="2">Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
-<tr><td colspan="2">Afghanistan</td><td>20 février</td><td>1969 A</td><td>21 mai</td><td>1969</td></tr>
-<tr><td colspan="2">Afrique du Sud</td><td>18 septembre</td><td>1967 A</td><td>17 décembre</td><td>1967</td></tr>
-<tr><td colspan="2">Algérie</td><td>2 juin</td><td>1964 A</td><td>31 août</td><td>1964</td></tr>
-<tr><td colspan="2">Allemagne</td><td>27 octobre</td><td>1960</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
-<tr><td colspan="2">Angola</td><td>10 mars</td><td>1998 A</td><td>8 juin</td><td>1998</td></tr>
-<tr><td colspan="2">Arabie Saoudite</td><td>27 janvier</td><td>1969 A</td><td>27 avril</td><td>1969</td></tr>
-<tr><td colspan="2">Argentine</td><td>12 juin</td><td>1969 A</td><td>10 septembre</td><td>1969</td></tr>
-<tr><td colspan="2">Australie</td><td>23 juin</td><td>1959</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
-<tr><td colspan="2">Autriche</td><td>26 mars</td><td>1971 A</td><td>24 juin</td><td>1971</td></tr>
-<tr><td colspan="2">Azerbaïdjan</td><td>24 janvier</td><td>2000 A</td><td>23 avril</td><td>2000</td></tr>
-<tr><td colspan="2">Bahamas</td><td>15 mai</td><td>1975 S</td><td>10 juillet</td><td>1973</td></tr>
-<tr><td colspan="2">Bahreïn</td><td>12 mars</td><td>1998 A</td><td>10 juin</td><td>1998</td></tr>
-<tr><td colspan="2">Bangladesh</td><td>13 février</td><td>1979 S</td><td>26 mars</td><td>1971</td></tr>
-<tr><td colspan="2">Bélarus</td><td>17 janvier</td><td>1961</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
-<tr><td colspan="2">Belgique</td><td>27 août</td><td>1963</td><td>25 novembre</td><td>1963</td></tr>
-<tr><td colspan="2">Bénin</td><td>9 janvier</td><td>1962 S</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
-<tr><td colspan="2">Bolivie</td><td>29 décembre</td><td>1998 A</td><td>29 mars</td><td>1999</td></tr>
-<tr><td colspan="2">Bosnie et Herzégovine</td><td>3 mars</td><td>1995 S</td><td>6 mars</td><td>1992</td></tr>
-<tr><td colspan="2">Brésil</td><td>16 juin</td><td>1964</td><td>14 septembre</td><td>1964</td></tr>
-<tr><td colspan="2">Bulgarie</td><td>14 décembre</td><td>1963 A</td><td>13 mars</td><td>1964</td></tr>
-<tr><td colspan="2">Cambodge</td><td>12 décembre</td><td>1996 A</td><td>12 mars</td><td>1997</td></tr>
-<tr><td colspan="2">Cameroun</td><td>21 août</td><td>1961 S</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
-<tr><td colspan="2">Canada</td><td>18 avril</td><td>1964</td><td>17 juillet</td><td>1964</td></tr>
-<tr><td colspan="2">Cap-Vert</td><td>7 février</td><td>2002 A</td><td>8 mai</td><td>2002</td></tr>
-<tr><td colspan="2">Chili</td><td>2 mars</td><td>1979 A</td><td>31 mai</td><td>1979</td></tr>
-<tr><td colspan="2">Chine</td><td>20 août</td><td>1975 A</td><td>18 novembre</td><td>1975</td></tr>
-<tr><td colspan="2">Hong Kong<sup>a</sup></td><td>16 juin</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
-<tr><td colspan="2">Macao<sup>b</sup></td><td>8 octobre</td><td>1999</td><td>15 mai</td><td>1997</td></tr>
-<tr><td colspan="2">Chypre</td><td>23 juillet</td><td>1970 A</td><td>21 octobre</td><td>1970</td></tr>
-<tr><td colspan="2">Colombie</td><td>15 août</td><td>1966 A</td><td>13 novembre</td><td>1966</td></tr>
-<tr><td colspan="2">Congo (Brazzaville)\*</td><td>5 janvier</td><td>1962 S</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
-<tr><td colspan="2">Corée (Nord)</td><td>4 novembre</td><td>1980 A</td><td>2 février</td><td>1981</td></tr>
-<tr><td colspan="2">Corée (Sud)</td><td>13 juillet</td><td>1967 A</td><td>11 octobre</td><td>1967</td></tr>
-<tr><td colspan="2">Costa Rica</td><td>10 mai</td><td>1984 A</td><td>8 août</td><td>1984</td></tr>
-<tr><td colspan="2">Côte d'Ivoire</td><td>7 février</td><td>1962 S</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
-<tr><td colspan="2">Croatie</td><td>14 juillet</td><td>1993 S</td><td>8 octobre</td><td>1991</td></tr>
-<tr><td colspan="2">Cuba</td><td>30 août</td><td>1965 A</td><td>28 novembre</td><td>1965</td></tr>
-<tr><td colspan="2">Danemark</td><td>3 mai</td><td>1963</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
-<tr><td colspan="2">Egypte</td><td>26 avril</td><td>1956</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
-<tr><td colspan="2">El Salvador</td><td>17 septembre</td><td>1956</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
-<tr><td colspan="2">Emirats arabes unis</td><td>18 octobre</td><td>1993 A</td><td>17 janvier</td><td>1994</td></tr>
-<tr><td colspan="2">Equateur</td><td>1<sup>er</sup> décembre</td><td>1969 A</td><td>1<sup>er</sup> mars</td><td>1970</td></tr>
-<tr><td colspan="2">Espagne</td><td>6 décembre</td><td>1965 A</td><td>6 mars</td><td>1966</td></tr>
-<tr><td colspan="2">Estonie</td><td>16 mars</td><td>1998 A</td><td>14 juin</td><td>1998</td></tr>
-<tr><td colspan="2">Etats-Unis</td><td>15 septembre</td><td>2003</td><td>15 décembre</td><td>2003</td></tr>
-<tr><td colspan="2">Fidji</td><td>25 février</td><td>1972 S</td><td>10 octobre</td><td>1970</td></tr>
-<tr><td colspan="2">Finlande</td><td>25 mai</td><td>1977 A</td><td>23 août</td><td>1977</td></tr>
-<tr><td colspan="2">France</td><td>19 mai</td><td>1959</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
-<tr><td colspan="2">Gabon</td><td>15 février</td><td>1969 A</td><td>16 mai</td><td>1969</td></tr>
-<tr><td colspan="2">Ghana</td><td>11 août</td><td>1997 A</td><td>9 novembre</td><td>1997</td></tr>
-<tr><td colspan="2">Grèce</td><td>23 juin</td><td>1965</td><td>21 septembre</td><td>1965</td></tr>
-<tr><td colspan="2">Grenade</td><td>15 août</td><td>1985 A</td><td>13 novembre</td><td>1985</td></tr>
-<tr><td colspan="2">Guatemala</td><td>28 juillet</td><td>1971 A</td><td>26 octobre</td><td>1971</td></tr>
-<tr><td colspan="2">Guinée</td><td>9 octobre</td><td>1990 A</td><td>7 janvier</td><td>1991</td></tr>
-<tr><td colspan="2">Hongrie</td><td>4 octobre</td><td>1957</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
-<tr><td colspan="2">Inde</td><td>14 février</td><td>1973 A</td><td>15 mai</td><td>1973</td></tr>
-<tr><td colspan="2">Iran</td><td>8 juillet</td><td>1975 A</td><td>6 octobre</td><td>1975</td></tr>
-<tr><td colspan="2">Iraq</td><td>28 juin</td><td>1972 A</td><td>26 septembre</td><td>1972</td></tr>
-<tr><td colspan="2">Irlande</td><td>12 octobre</td><td>1959</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
-<tr><td colspan="2">Islande</td><td>3 mai</td><td>1963</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
-<tr><td colspan="2">Israël</td><td>5 août</td><td>1964</td><td>3 novembre</td><td>1964</td></tr>
-<tr><td colspan="2">Italie</td><td>4 mai</td><td>1963</td><td>2 août</td><td>1963</td></tr>
-<tr><td colspan="2">Japon</td><td>10 août</td><td>1967 A</td><td>8 novembre</td><td>1967</td></tr>
-<tr><td colspan="2">Jordanie</td><td>15 novembre</td><td>1973 A</td><td>13 février</td><td>1974</td></tr>
-<tr><td colspan="2">Kazakhstan</td><td>30 août</td><td>2002 A</td><td>28 novembre</td><td>2002</td></tr>
-<tr><td colspan="2">Kenya</td><td>6 juillet</td><td>1999 A</td><td>4 octobre</td><td>1999</td></tr>
-<tr><td colspan="2">Kirghizistan</td><td>9 février</td><td>2000 A</td><td>9 mai</td><td>2000</td></tr>
-<tr><td colspan="2">Koweït</td><td>11 août</td><td>1975 A</td><td>9 novembre</td><td>1975</td></tr>
-<tr><td colspan="2">Laos</td><td>9 mai</td><td>1956</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
-<tr><td colspan="2">Lesotho</td><td>17 octobre</td><td>1975 A</td><td>15 janvier</td><td>1976</td></tr>
-<tr><td colspan="2">Lettonie</td><td>2 octobre</td><td>1998 A</td><td>31 décembre</td><td>1998</td></tr>
-<tr><td colspan="2">Liban</td><td>10 mai</td><td>1978</td><td>8 août</td><td>1978</td></tr>
-<tr><td colspan="2">Libye</td><td>16 mai</td><td>1969 A</td><td>14 août</td><td>1969</td></tr>
-<tr><td colspan="2">Liechtenstein</td><td>3 janvier</td><td>1966</td><td>3 avril</td><td>1966</td></tr>
-<tr><td colspan="2">Lituanie</td><td>21 novembre</td><td>1996 A</td><td>19 février</td><td>1997</td></tr>
-<tr><td colspan="2">Luxembourg</td><td>13 février</td><td>1957</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
-<tr><td colspan="2">Macédoine</td><td>1<sup>er</sup> septembre</td><td>1994 S</td><td>17 septembre</td><td>1991</td></tr>
-<tr><td colspan="2">Madagascar</td><td>17 août</td><td>1962 S</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
-<tr><td colspan="2">Malaisie\*</td><td>20 septembre</td><td>1974 A</td><td>19 décembre</td><td>1974</td></tr>
-<tr><td colspan="2">Malawi</td><td>9 juin</td><td>1971 A</td><td>7 septembre</td><td>1971</td></tr>
-<tr><td colspan="2">Maldives</td><td>13 octobre</td><td>1995 A</td><td>11 janvier</td><td>1996</td></tr>
-<tr><td colspan="2">Mali</td><td>30 décembre</td><td>1963</td><td>29 mars</td><td>1964</td></tr>
-<tr><td colspan="2">Maroc</td><td>17 novembre</td><td>1975</td><td>15 février</td><td>1976</td></tr>
-<tr><td colspan="2">Maurice</td><td>17 octobre</td><td>1989 A</td><td>15 janvier</td><td>1990</td></tr>
-<tr><td colspan="2">Mexique</td><td>24 mai</td><td>1957</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
-<tr><td colspan="2">Moldova</td><td>20 mars</td><td>1997 A</td><td>19 juin</td><td>1997</td></tr>
-<tr><td colspan="2">Monaco</td><td>9 avril</td><td>1979 A</td><td>8 juillet</td><td>1979</td></tr>
-<tr><td colspan="2">Monténégro</td><td>1<sup>er</sup> avril</td><td>2008 S</td><td>3 juin</td><td>2006</td></tr>
-<tr><td colspan="2">Nauru</td><td>4 novembre</td><td>1970 S</td><td>31 janvier</td><td>1968</td></tr>
-<tr><td colspan="2">Népal</td><td>12 février</td><td>1966 A</td><td>13 mai</td><td>1966</td></tr>
-<tr><td colspan="2">Niger</td><td>20 février</td><td>1962 S</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
-<tr><td colspan="2">Nigéria</td><td>1<sup>er</sup> juillet</td><td>1969 A</td><td>29 septembre</td><td>1969</td></tr>
-<tr><td colspan="2">Norvège</td><td>3 mai</td><td>1963</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
-<tr><td colspan="2">Nouvelle-Zélande\*</td><td>16 mars</td><td>1967</td><td>14 juin</td><td>1967</td></tr>
-<tr><td colspan="2">Iles Cook</td><td>13 août</td><td>1986 A</td><td>11 novembre</td><td>1986</td></tr>
-<tr><td colspan="2">Oman</td><td>4 août</td><td>1987 A</td><td>2 novembre</td><td>1987</td></tr>
-<tr><td colspan="2">Pakistan</td><td>16 janvier</td><td>1961</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
-<tr><td colspan="2">Panama</td><td>12 novembre</td><td>1996 A</td><td>10 février</td><td>1997</td></tr>
-<tr><td colspan="2">Papouasie-Nouvelle-Guinée</td><td>6 novembre</td><td>1975 S</td><td>16 septembre</td><td>1975</td></tr>
-<tr><td colspan="2">Paraguay</td><td>28 août</td><td>1969 A</td><td>26 novembre</td><td>1969</td></tr>
-<tr><td colspan="2">Pays-Bas\*</td><td>21 septembre</td><td>1960</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
-<tr><td colspan="2">Aruba</td><td>21 septembre</td><td>1960</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
-<tr><td colspan="2">Curaçao</td><td>21 septembre</td><td>1960</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
-<tr><td colspan="2">Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>21 septembre</td><td>1960</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
-<tr><td colspan="2">Sint Maarten</td><td>21 septembre</td><td>1960</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
-<tr><td colspan="2">Pérou</td><td>5 juillet</td><td>1988 A</td><td>3 octobre</td><td>1988</td></tr>
-<tr><td colspan="2">Philippines</td><td>30 novembre</td><td>1966</td><td>28 février</td><td>1967</td></tr>
-<tr><td colspan="2">Pologne</td><td>23 avril</td><td>1956</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
-<tr><td colspan="2">Portugal</td><td>16 septembre</td><td>1963</td><td>15 décembre</td><td>1963</td></tr>
-<tr><td colspan="2">Qatar</td><td>22 décembre</td><td>1986 A</td><td>22 mars</td><td>1987</td></tr>
-<tr><td colspan="2">République dominicaine</td><td>25 février</td><td>1972 A</td><td>25 mai</td><td>1972</td></tr>
-<tr><td colspan="2">République tchèque</td><td>29 novembre</td><td>1994 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
-<tr><td colspan="2">Roumanie</td><td>3 décembre</td><td>1958</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
-<tr><td colspan="2">Royaume-Uni\*</td><td>3 mars</td><td>1967</td><td>1<sup>er</sup> juin</td><td>1967</td></tr>
-<tr><td colspan="2">Russie</td><td>25 mars</td><td>1957</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
-<tr><td colspan="2">Rwanda</td><td>27 décembre</td><td>1990 A</td><td>27 mars</td><td>1991</td></tr>
-<tr><td colspan="2">Saint-Vincent-et-les Grenadines</td><td>3 décembre</td><td>2001 A</td><td>3 mars</td><td>2002</td></tr>
-<tr><td colspan="2">Salomon, Iles</td><td>9 septembre</td><td>1981 S</td><td>7 juillet</td><td>1978</td></tr>
-<tr><td colspan="2">Samoa</td><td>16 octobre</td><td>1972 A</td><td>14 janvier</td><td>1973</td></tr>
-<tr><td colspan="2">Sénégal</td><td>19 juin</td><td>1964 A</td><td>17 septembre</td><td>1964</td></tr>
-<tr><td colspan="2">Serbie</td><td>24 novembre</td><td>2000 S</td><td>27 avril</td><td>1992</td></tr>
-<tr><td colspan="2">Seychelles</td><td>24 juin</td><td>1980 A</td><td>22 septembre</td><td>1980</td></tr>
-<tr><td colspan="2">Singapour</td><td>6 novembre</td><td>1967 A</td><td>4 février</td><td>1968</td></tr>
-<tr><td colspan="2">Slovaquie</td><td>24 mars</td><td>1995 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
-<tr><td colspan="2">Slovénie</td><td>7 août</td><td>1998 S</td><td>25 juin</td><td>1991</td></tr>
-<tr><td colspan="2">Soudan</td><td>11 février</td><td>1975 A</td><td>12 mai</td><td>1975</td></tr>
-<tr><td colspan="2">Sri Lanka</td><td>21 février</td><td>1997 A</td><td>22 mai</td><td>1997</td></tr>
-<tr><td colspan="2">Suède</td><td>3 mai</td><td>1963</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
-<tr><td colspan="2">Suisse</td><td>19 octobre</td><td>1962</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
-<tr><td colspan="2">Suriname</td><td>19 octobre</td><td>2004 A</td><td>17 janvier</td><td>2005</td></tr>
-<tr><td colspan="2">Swaziland</td><td>20 juillet</td><td>1971 A</td><td>18 octobre</td><td>1971</td></tr>
-<tr><td colspan="2">Syrie</td><td>2 mars</td><td>1959 S</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
-<tr><td colspan="2">Togo</td><td>2 juillet</td><td>1980 A</td><td>30 septembre</td><td>1980</td></tr>
-<tr><td colspan="2">Tonga</td><td>21 février</td><td>1977 A</td><td>22 mai</td><td>1977</td></tr>
-<tr><td colspan="2">Trinité-et-Tobago</td><td>10 mai</td><td>1983 A</td><td>8 août</td><td>1983</td></tr>
-<tr><td colspan="2">Tunisie</td><td>15 novembre</td><td>1963 A</td><td>13 février</td><td>1964</td></tr>
-<tr><td colspan="2">Turquie</td><td>25 mars</td><td>1978 A</td><td>23 juin</td><td>1978</td></tr>
-<tr><td colspan="2">Ukraine</td><td>23 juin</td><td>1960</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
-<tr><td colspan="2">Vanuatu</td><td>26 octobre</td><td>1981 A</td><td>24 janvier</td><td>1982</td></tr>
-<tr><td colspan="2">Venezuela\*</td><td>26 août</td><td>1960</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
-<tr><td colspan="2">Vietnam</td><td>11 octobre</td><td>1982 A</td><td>9 janvier</td><td>1983</td></tr>
-<tr><td colspan="2">Yémen</td><td>6 mai</td><td>1982 A</td><td>4 août</td><td>1982</td></tr>
-<tr><td colspan="2">Zambie</td><td>25 mars</td><td>1970 A</td><td>23 juin</td><td>1970</td></tr>
-<tr><td colspan="2">Zimbabwe</td><td>27 octobre</td><td>1980 A</td><td>25 janvier</td><td>1981</td></tr>
-<tr><td>\*</td><td colspan="5">Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais pourront être consultés à l’adresse du site Internet de l’Organisation de l’aviation civile internationale (OACI): www.icao.int/secretariat/legal/Pages/FR/IndividualStates\_FR.aspx ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td>a</td><td colspan="5">Jusqu'au 30 juin 1997, le prot. était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. A partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 16 juin 1997, le prot. est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997.</td></tr>
-<tr><td>b</td><td colspan="5">En vertu de la déclaration de la République populaire de Chine du 8 oct. 1999, le prot. est applicable à la Région administrative spéciale (RAS) de Macao à partir du 20 déc. 1999.</td></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Afghanistan</td><td>20 février</td><td>1969 A</td><td>21 mai</td><td>1969</td></tr>
+<tr><td>Afrique du Sud</td><td>18 septembre</td><td>1967 A</td><td>17 décembre</td><td>1967</td></tr>
+<tr><td>Algérie</td><td>2 juin</td><td>1964 A</td><td>31 août</td><td>1964</td></tr>
+<tr><td>Allemagne</td><td>27 octobre</td><td>1960</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
+<tr><td>Angola</td><td>10 mars</td><td>1998 A</td><td>8 juin</td><td>1998</td></tr>
+<tr><td>Arabie Saoudite</td><td>27 janvier</td><td>1969 A</td><td>27 avril</td><td>1969</td></tr>
+<tr><td>Argentine</td><td>12 juin</td><td>1969 A</td><td>10 septembre</td><td>1969</td></tr>
+<tr><td>Australie</td><td>23 juin</td><td>1959</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
+<tr><td>Autriche</td><td>26 mars</td><td>1971 A</td><td>24 juin</td><td>1971</td></tr>
+<tr><td>Azerbaïdjan</td><td>24 janvier</td><td>2000 A</td><td>23 avril</td><td>2000</td></tr>
+<tr><td>Bahamas</td><td>15 mai</td><td>1975 S</td><td>10 juillet</td><td>1973</td></tr>
+<tr><td>Bahreïn</td><td>12 mars</td><td>1998 A</td><td>10 juin</td><td>1998</td></tr>
+<tr><td>Bangladesh</td><td>13 février</td><td>1979 S</td><td>26 mars</td><td>1971</td></tr>
+<tr><td>Bélarus</td><td>17 janvier</td><td>1961</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
+<tr><td>Belgique</td><td>27 août</td><td>1963</td><td>25 novembre</td><td>1963</td></tr>
+<tr><td>Bénin</td><td>9 janvier</td><td>1962 S</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
+<tr><td>Bosnie et Herzégovine</td><td>3 mars</td><td>1995 S</td><td>6 mars</td><td>1992</td></tr>
+<tr><td>Brésil</td><td>16 juin</td><td>1964</td><td>14 septembre</td><td>1964</td></tr>
+<tr><td>Bulgarie</td><td>14 décembre</td><td>1963 A</td><td>13 mars</td><td>1964</td></tr>
+<tr><td>Cambodge</td><td>12 décembre</td><td>1996 A</td><td>12 mars</td><td>1997</td></tr>
+<tr><td>Cameroun</td><td>21 août</td><td>1961 S</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
+<tr><td>Canada</td><td>18 avril</td><td>1964</td><td>17 juillet</td><td>1964</td></tr>
+<tr><td>Cap-Vert</td><td>7 février</td><td>2002 A</td><td>8 mai</td><td>2002</td></tr>
+<tr><td>Chili</td><td>2 mars</td><td>1979 A</td><td>31 mai</td><td>1979</td></tr>
+<tr><td>Chine</td><td>20 août</td><td>1975 A</td><td>18 novembre</td><td>1975</td></tr>
+<tr><td>Hong Kong <sup>a</sup></td><td>16 juin</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
+<tr><td>Macao <sup>b</sup></td><td>8 octobre</td><td>1999</td><td>15 mai</td><td>1997</td></tr>
+<tr><td>Chypre</td><td>23 juillet</td><td>1970 A</td><td>21 octobre</td><td>1970</td></tr>
+<tr><td>Colombie</td><td>15 août</td><td>1966 A</td><td>13 novembre</td><td>1966</td></tr>
+<tr><td>Congo (Brazzaville)\*</td><td>5 janvier</td><td>1962 S</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
+<tr><td>Corée (Nord)</td><td>4 novembre</td><td>1980 A</td><td>2 février</td><td>1981</td></tr>
+<tr><td>Corée (Sud)</td><td>13 juillet</td><td>1967 A</td><td>11 octobre</td><td>1967</td></tr>
+<tr><td>Costa Rica</td><td>10 mai</td><td>1984 A</td><td>8 août</td><td>1984</td></tr>
+<tr><td>Côte d’Ivoire</td><td>7 février</td><td>1962 S</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
+<tr><td>Croatie</td><td>14 juillet</td><td>1993 S</td><td>8 octobre</td><td>1991</td></tr>
+<tr><td>Cuba</td><td>30 août</td><td>1965 A</td><td>28 novembre</td><td>1965</td></tr>
+<tr><td>Danemark</td><td>3 mai</td><td>1963</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
+<tr><td>Égypte</td><td>26 avril</td><td>1956</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
+<tr><td>El Salvador</td><td>17 septembre</td><td>1956</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
+<tr><td>Émirats arabes unis</td><td>18 octobre</td><td>1993 A</td><td>17 janvier</td><td>1994</td></tr>
+<tr><td>Équateur</td><td>1<sup>er</sup> décembre</td><td>1969 A</td><td>1<sup>er</sup> mars</td><td>1970</td></tr>
+<tr><td>Espagne</td><td>6 décembre</td><td>1965 A</td><td>6 mars</td><td>1966</td></tr>
+<tr><td>Estonie</td><td>16 mars</td><td>1998 A</td><td>14 juin</td><td>1998</td></tr>
+<tr><td>Eswatini</td><td>20 juillet</td><td>1971 A</td><td>18 octobre</td><td>1971</td></tr>
+<tr><td>États-Unis</td><td>15 septembre</td><td>2003</td><td>15 décembre</td><td>2003</td></tr>
+<tr><td>Fidji</td><td>25 février</td><td>1972 S</td><td>10 octobre</td><td>1970</td></tr>
+<tr><td>Finlande</td><td>25 mai</td><td>1977 A</td><td>23 août</td><td>1977</td></tr>
+<tr><td>France</td><td>19 mai</td><td>1959</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
+<tr><td>Gabon</td><td>15 février</td><td>1969 A</td><td>16 mai</td><td>1969</td></tr>
+<tr><td>Ghana</td><td>11 août</td><td>1997 A</td><td>9 novembre</td><td>1997</td></tr>
+<tr><td>Grèce</td><td>23 juin</td><td>1965</td><td>21 septembre</td><td>1965</td></tr>
+<tr><td>Grenade</td><td>15 août</td><td>1985 A</td><td>13 novembre</td><td>1985</td></tr>
+<tr><td>Guatemala</td><td>28 juillet</td><td>1971 A</td><td>26 octobre</td><td>1971</td></tr>
+<tr><td>Guinée</td><td>9 octobre</td><td>1990 A</td><td>7 janvier</td><td>1991</td></tr>
+<tr><td>Hongrie</td><td>4 octobre</td><td>1957</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
+<tr><td>Îles Salomon</td><td>9 septembre</td><td>1981 S</td><td>7 juillet</td><td>1978</td></tr>
+<tr><td>Inde</td><td>14 février</td><td>1973 A</td><td>15 mai</td><td>1973</td></tr>
+<tr><td>Iran</td><td>8 juillet</td><td>1975 A</td><td>6 octobre</td><td>1975</td></tr>
+<tr><td>Iraq</td><td>28 juin</td><td>1972 A</td><td>26 septembre</td><td>1972</td></tr>
+<tr><td>Irlande</td><td>12 octobre</td><td>1959</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
+<tr><td>Islande</td><td>3 mai</td><td>1963</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
+<tr><td>Israël</td><td>5 août</td><td>1964</td><td>3 novembre</td><td>1964</td></tr>
+<tr><td>Italie</td><td>4 mai</td><td>1963</td><td>2 août</td><td>1963</td></tr>
+<tr><td>Japon</td><td>10 août</td><td>1967 A</td><td>8 novembre</td><td>1967</td></tr>
+<tr><td>Jordanie</td><td>15 novembre</td><td>1973 A</td><td>13 février</td><td>1974</td></tr>
+<tr><td>Kazakhstan</td><td>30 août</td><td>2002 A</td><td>28 novembre</td><td>2002</td></tr>
+<tr><td>Kenya</td><td>6 juillet</td><td>1999 A</td><td>4 octobre</td><td>1999</td></tr>
+<tr><td>Kirghizistan</td><td>9 février</td><td>2000 A</td><td>9 mai</td><td>2000</td></tr>
+<tr><td>Koweït</td><td>11 août</td><td>1975 A</td><td>9 novembre</td><td>1975</td></tr>
+<tr><td>Laos</td><td>9 mai</td><td>1956</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
+<tr><td>Lesotho</td><td>17 octobre</td><td>1975 A</td><td>15 janvier</td><td>1976</td></tr>
+<tr><td>Lettonie</td><td>2 octobre</td><td>1998 A</td><td>31 décembre</td><td>1998</td></tr>
+<tr><td>Liban</td><td>10 mai</td><td>1978</td><td>8 août</td><td>1978</td></tr>
+<tr><td>Libye</td><td>16 mai</td><td>1969 A</td><td>14 août</td><td>1969</td></tr>
+<tr><td>Liechtenstein</td><td>3 janvier</td><td>1966</td><td>3 avril</td><td>1966</td></tr>
+<tr><td>Lituanie</td><td>21 novembre</td><td>1996 A</td><td>19 février</td><td>1997</td></tr>
+<tr><td>Luxembourg</td><td>13 février</td><td>1957</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
+<tr><td>Macédoine du Nord</td><td>1<sup>er</sup> septembre</td><td>1994 S</td><td>17 septembre</td><td>1991</td></tr>
+<tr><td>Madagascar</td><td>17 août</td><td>1962 S</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
+<tr><td>Malaisie\*</td><td>20 septembre</td><td>1974 A</td><td>19 décembre</td><td>1974</td></tr>
+<tr><td>Malawi</td><td>9 juin</td><td>1971 A</td><td>7 septembre</td><td>1971</td></tr>
+<tr><td>Maldives</td><td>13 octobre</td><td>1995 A</td><td>11 janvier</td><td>1996</td></tr>
+<tr><td>Mali</td><td>30 décembre</td><td>1963</td><td>29 mars</td><td>1964</td></tr>
+<tr><td>Maroc</td><td>17 novembre</td><td>1975</td><td>15 février</td><td>1976</td></tr>
+<tr><td>Maurice\*</td><td>17 octobre</td><td>1989 A</td><td>15 janvier</td><td>1990</td></tr>
+<tr><td>Mexique</td><td>24 mai</td><td>1957</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
+<tr><td>Moldova</td><td>20 mars</td><td>1997 A</td><td>19 juin</td><td>1997</td></tr>
+<tr><td>Monaco</td><td>9 avril</td><td>1979 A</td><td>8 juillet</td><td>1979</td></tr>
+<tr><td>Monténégro</td><td>1<sup>er</sup> avril</td><td>2008 S</td><td>3 juin</td><td>2006</td></tr>
+<tr><td>Nauru</td><td>4 novembre</td><td>1970 S</td><td>31 janvier</td><td>1968</td></tr>
+<tr><td>Népal</td><td>12 février</td><td>1966 A</td><td>13 mai</td><td>1966</td></tr>
+<tr><td>Niger</td><td>20 février</td><td>1962 S</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
+<tr><td>Nigéria</td><td>1<sup>er</sup> juillet</td><td>1969 A</td><td>29 septembre</td><td>1969</td></tr>
+<tr><td>Norvège</td><td>3 mai</td><td>1963</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
+<tr><td>Nouvelle-Zélande\*</td><td>16 mars</td><td>1967</td><td>14 juin</td><td>1967</td></tr>
+<tr><td>Îles Cook</td><td>13 août</td><td>1986 A</td><td>11 novembre</td><td>1986</td></tr>
+<tr><td>Oman</td><td>4 août</td><td>1987 A</td><td>2 novembre</td><td>1987</td></tr>
+<tr><td>Ouzbékistan</td><td>27 février</td><td>1997 A</td><td>28 mai</td><td>1997</td></tr>
+<tr><td>Pakistan</td><td>16 janvier</td><td>1961</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
+<tr><td>Panama</td><td>12 novembre</td><td>1996 A</td><td>10 février</td><td>1997</td></tr>
+<tr><td>Papouasie-Nouvelle-Guinée</td><td>6 novembre</td><td>1975 S</td><td>16 septembre</td><td>1975</td></tr>
+<tr><td>Paraguay</td><td>28 août</td><td>1969 A</td><td>26 novembre</td><td>1969</td></tr>
+<tr><td>Pays-Bas\*</td><td>21 septembre</td><td>1960</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
+<tr><td>Aruba</td><td>21 septembre</td><td>1960</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
+<tr><td>Curaçao</td><td>21 septembre</td><td>1960</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
+<tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>21 septembre</td><td>1960</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
+<tr><td>Sint Maarten</td><td>21 septembre</td><td>1960</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
+<tr><td>Pérou</td><td>5 juillet</td><td>1988 A</td><td>3 octobre</td><td>1988</td></tr>
+<tr><td>Philippines</td><td>30 novembre</td><td>1966</td><td>28 février</td><td>1967</td></tr>
+<tr><td>Pologne</td><td>23 avril</td><td>1956</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
+<tr><td>Portugal</td><td>16 septembre</td><td>1963</td><td>15 décembre</td><td>1963</td></tr>
+<tr><td>Qatar</td><td>22 décembre</td><td>1986 A</td><td>22 mars</td><td>1987</td></tr>
+<tr><td>République dominicaine</td><td>25 février</td><td>1972 A</td><td>25 mai</td><td>1972</td></tr>
+<tr><td>République tchèque</td><td>29 novembre</td><td>1994 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
+<tr><td>Roumanie</td><td>3 décembre</td><td>1958</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
+<tr><td>Royaume-Uni\*</td><td>3 mars</td><td>1967</td><td>1<sup>er</sup> juin</td><td>1967</td></tr>
+<tr><td>Russie</td><td>25 mars</td><td>1957</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
+<tr><td>Rwanda</td><td>27 décembre</td><td>1990 A</td><td>27 mars</td><td>1991</td></tr>
+<tr><td>Saint-Vincent-et-les Grenadines</td><td>3 décembre</td><td>2001 A</td><td>3 mars</td><td>2002</td></tr>
+<tr><td>Samoa</td><td>16 octobre</td><td>1972 A</td><td>14 janvier</td><td>1973</td></tr>
+<tr><td>Sénégal</td><td>19 juin</td><td>1964 A</td><td>17 septembre</td><td>1964</td></tr>
+<tr><td>Serbie</td><td>24 novembre</td><td>2000 S</td><td>27 avril</td><td>1992</td></tr>
+<tr><td>Seychelles</td><td>24 juin</td><td>1980 A</td><td>22 septembre</td><td>1980</td></tr>
+<tr><td>Singapour</td><td>6 novembre</td><td>1967 A</td><td>4 février</td><td>1968</td></tr>
+<tr><td>Slovaquie</td><td>24 mars</td><td>1995 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
+<tr><td>Slovénie</td><td>7 août</td><td>1998 S</td><td>25 juin</td><td>1991</td></tr>
+<tr><td>Soudan</td><td>11 février</td><td>1975 A</td><td>12 mai</td><td>1975</td></tr>
+<tr><td>Sri Lanka</td><td>21 février</td><td>1997 A</td><td>22 mai</td><td>1997</td></tr>
+<tr><td>Suède</td><td>3 mai</td><td>1963</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
+<tr><td>Suisse</td><td>19 octobre</td><td>1962</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
+<tr><td>Suriname</td><td>19 octobre</td><td>2004 A</td><td>17 janvier</td><td>2005</td></tr>
+<tr><td>Syrie</td><td>2 mars</td><td>1959 S</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
+<tr><td>Togo</td><td>2 juillet</td><td>1980 A</td><td>30 septembre</td><td>1980</td></tr>
+<tr><td>Tonga</td><td>21 février</td><td>1977 A</td><td>22 mai</td><td>1977</td></tr>
+<tr><td>Trinité-et-Tobago</td><td>10 mai</td><td>1983 A</td><td>8 août</td><td>1983</td></tr>
+<tr><td>Tunisie</td><td>15 novembre</td><td>1963 A</td><td>13 février</td><td>1964</td></tr>
+<tr><td>Turquie</td><td>25 mars</td><td>1978 A</td><td>23 juin</td><td>1978</td></tr>
+<tr><td>Ukraine</td><td>23 juin</td><td>1960</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
+<tr><td>Vanuatu</td><td>26 octobre</td><td>1981 A</td><td>24 janvier</td><td>1982</td></tr>
+<tr><td>Venezuela\*</td><td>26 août</td><td>1960</td><td>1<sup>er</sup> août</td><td>1963</td></tr>
+<tr><td>Vietnam</td><td>11 octobre</td><td>1982 A</td><td>9 janvier</td><td>1983</td></tr>
+<tr><td>Yémen</td><td>6 mai</td><td>1982 A</td><td>4 août</td><td>1982</td></tr>
+<tr><td>Zambie</td><td>25 mars</td><td>1970 A</td><td>23 juin</td><td>1970</td></tr>
+<tr><td>Zimbabwe</td><td>27 octobre</td><td>1980 A</td><td>25 janvier</td><td>1981</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation Internationale de l’Aviation Civile (OACI): [www.icao.int](http://www.icao.int) &gt; Français &gt; Au sujet de l’OACI &gt; Direction des affaires juridiques et des relations extérieures &gt; Recueil des traités &gt; Listes actualisées des parties aux traités de droit aérien ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Jusqu’au 30 juin 1997, le prot. était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 16 juin 1997, le prot. est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>b</sup> En vertu de la déclaration de la République populaire de Chine du 8 oct. 1999, le prot. est applicable à la Région administrative spéciale (RAS) de Macao à partir du 20 déc. 1999.</td></tr>
 </table>
 
-[^t-3]: La présente publication complète celles qui figurent au [RO 1971 1828](https://fedlex.data.admin.ch/eli/oc/1971/1824_1828_1828), [1976 499](https://fedlex.data.admin.ch/eli/oc/1976/499_499_499), [1978 495](https://fedlex.data.admin.ch/eli/oc/1978/495_495_495), [1981 1630](https://fedlex.data.admin.ch/eli/oc/1981/1630_1630_1630), [1983 236](https://fedlex.data.admin.ch/eli/oc/1983/236_236_236), [1986 905](https://fedlex.data.admin.ch/eli/oc/1986/905_905_905), [1987 1159](https://fedlex.data.admin.ch/eli/oc/1987/1159_1159_1159), [1989 862](https://fedlex.data.admin.ch/eli/oc/1989/862_862_862), [2004 2793](https://fedlex.data.admin.ch/eli/oc/2004/345), [2007 4207](https://fedlex.data.admin.ch/eli/oc/2007/561)et **2012** 385. Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-3]: [RO 1971 1828](https://fedlex.data.admin.ch/eli/oc/1971/1824_1828_1828); [1976 499](https://fedlex.data.admin.ch/eli/oc/1976/499_499_499); [1978 495](https://fedlex.data.admin.ch/eli/oc/1978/495_495_495); [1981 1630](https://fedlex.data.admin.ch/eli/oc/1981/1630_1630_1630); [1983 236](https://fedlex.data.admin.ch/eli/oc/1983/236_236_236); [1986 905](https://fedlex.data.admin.ch/eli/oc/1986/905_905_905); [1987 1159](https://fedlex.data.admin.ch/eli/oc/1987/1159_1159_1159); [1989 862](https://fedlex.data.admin.ch/eli/oc/1989/862_862_862); [2004 2793](https://fedlex.data.admin.ch/eli/oc/2004/345); [2007 4207](https://fedlex.data.admin.ch/eli/oc/2007/561); [2012 385](https://fedlex.data.admin.ch/eli/oc/2012/33); [2024 400](https://fedlex.data.admin.ch/eli/oc/2024/400). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
