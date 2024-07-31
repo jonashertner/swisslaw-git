@@ -1,25 +1,24 @@
 ---
 canton: NW
 number: "313.13"
-title: Vollzugsverordnung über die Berufsmaturität
+title: Verordnung über die Berufsmaturität
 short: "Kantonale Berufsmaturitätsverordnung, kBMV"
 language: de
-version: 2024-01-01
-valid_until: 2024-07-31
-version_adopted: 2023-09-26
+version: 2024-08-01
+version_adopted: 2024-03-12
 adopted: 2014-11-11
 in_force: 2015-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/313.13"
-pdf: "https://gesetze.nw.ch/api/de/versions/1192/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1266/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Vollzugsverordnung über die Berufsmaturität
+# Verordnung über die Berufsmaturität
 
 (Kantonale Berufsmaturitätsverordnung, kBMV)
 
-vom 11.11.2014 (Stand 01.01.2024)
+vom 11.11.2014 (Stand 01.08.2024)
 
 Der Regierungsrat von Nidwalden,
 
@@ -112,29 +111,25 @@ beschliesst:
 
 **Aufnahmeverfahren 1. Aufnahmeprüfung**
 
-<sup>1</sup> Das Aufnahmeverfahren besteht in einer schriftlichen Aufnahmeprüfung in den Fächern Deutsch, Französisch, Englisch und Mathematik.
+<sup>1</sup> Das Aufnahmeverfahren mit einer Aufnahmeprüfung richtet sich nach den Bestimmungen des Standortkantons der aufnehmenden Schule.
 
-<sup>2</sup> Der Stoff der Aufnahmeprüfung entspricht dem Lehrstoff der Orientierungsschule Niveau A.
-
-<sup>3</sup> Das Prüfungsergebnis entspricht dem Durchschnitt der folgenden Positionsnoten:
-
-- 1\. Prüfungsnote Deutsch;
-- 2\. Prüfungsnote Mathematik (doppelt gewichtet);
-- 3\. Durchschnitt aus den Prüfungsnoten Französisch und Englisch.
-
-<sup>4</sup> Die Aufnahmeprüfung ist bestanden, wenn ein Durchschnitt von mindestens 4.0 erreicht wird und nicht mehr als eine Positionsnote unter 4.0 liegt.
+<sup>2–4</sup> …
 
 <sup>4a</sup> Die Gültigkeit der Aufnahmeprüfung ist befristet auf das Prüfungsjahr und die zwei darauffolgenden Jahre.
 
-<sup>5</sup> Mit der Anmeldung zur Aufnahmeprüfung ist eine Prüfungsgebühr gemäss der Gebührengesetzgebung[^7-1] zu entrichten.
-
-[^7-1]: NG 265.5
+<sup>5</sup> …
 
 #### § 8
 
 **2. Prüfungsfreie Aufnahme**
 
-<sup>1</sup> Die prüfungsfreie Aufnahme in lehrbegleitende Berufsmaturitätslehrgänge richtet sich nach der Aufnahmeverordnung Berufsmittelschulen[^8-1].
+<sup>1</sup> Die prüfungsfreie Aufnahme in lehrbegleitende Berufsmaturitätslehrgänge erfolgt:
+
+- 1\. für Lernende der Orientierungsschule, wenn
+  - a. der Unterricht in den Fächern Deutsch, Englisch, Französisch und Mathematik im Niveau A besucht wurde; und
+  - b. ein auf eine Dezimalstelle gerundetes Mittel von mindestens 5.0 aus den im ersten Semesterzeugnis der 3. Orientierungsschule erzielten Noten in den Promotionsbereichen Deutsch, Fremdsprachen (auf eine halbe Note gerundetes Mittel aus Englisch und Französisch) sowie Mathematik erzielt wird, wobei der Promotionsbereich Mathematik doppelt gezählt wird.
+- 2\. für Lernende des Langzeitgymnasiums, wenn im ersten Semesterzeugnis der 3. Klasse die definitive Beförderung erreicht wurde.
+- 3\. für Lernende mit Wohnsitz im Kanton, die den obligatorischen Schulunterricht teilweise oder ganz ausserhalb des Kantons besucht haben und für Lernende aus einem anderen Schultyp oder einer anderen Schulstufe, wenn das Amt die Voraussetzungen für eine prüfungsfreie Aufnahme als gegeben beurteilt. Es orientiert sich dabei an Ziff. 1 und 2.
 
 <sup>2</sup> Die prüfungsfreie Aufnahme in Berufsmaturitätslehrgänge für gelernte Berufsleute erfolgt:
 
@@ -142,8 +137,6 @@ beschliesst:
 - 2\. falls das eidgenössische Fähigkeitszeugnis noch nicht vorliegt: wenn eine Zulassungsnote gemäss Abs. 3 von mindestens 5.0 erreicht wurde.
 
 <sup>3</sup> Die Zulassungsnote ist das auf eine Dezimalstelle gerundete Mittel der ungewichteten schulischen Erfahrungsnoten bis und mit dem ersten Semester des Abschlussjahres, welche für das Qualifikationsverfahren gemäss der Verordnung des Staatssekretariats für Bildung, Forschung und Innovation (SBFI) über die jeweilige berufliche Grundbildung beigezogen werden.
-
-[^8-1]: NG 313.113
 
 #### § 8a
 
