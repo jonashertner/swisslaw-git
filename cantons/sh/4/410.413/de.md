@@ -3,53 +3,41 @@ canton: SH
 number: "410.413"
 title: Verordnung über die Weiterbildung der Lehrpersonen
 language: de
-version: 2017-08-01
-corrected: 2024-06-24
-version_adopted: 2017-06-20
+version: 2024-08-01
+version_adopted: 2024-06-04
 adopted: 2001-06-19
 in_force: 2001-08-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/410.413"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/58/pdf_file"
-text: pdf
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/1842/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Weiterbildung der Lehrpersonen
 
-vom 19. Juni 2001
+Vom 19.06.2001 (Stand 01.08.2024)
 
 Der Regierungsrat des Kantons Schaffhausen,
 
-gestützt auf Art. 64, 65, 67 und 88 des Schulgesetzes vom 27. April 1981, auf § 51 des Schuldekretes vom 27. April 1981 sowie auf § 40 Abs. 4 der Lehrerverordnung vom 25. Oktober 2005, <sup>7)</sup>
+gestützt auf Art. 64, 65, 67 und 88 des Schulgesetzes vom 27. April 1981, auf § 51 des Schuldekretes vom 27. April 1981 sowie auf § 40 Abs. 4 der Lehrerverordnung vom 25. Oktober 2005,
 
-verordnet:
+beschliesst:
 
-### I. Allgemeine Bestimmungen
+## 1 Allgemeine Bestimmungen
 
 #### § 1
 
 **Gegenstand**
 
-<sup>1</sup> Diese Verordnung regelt die Weiterbildung der Lehrpersonen an den öffentlichen Schulen im Sinne des Schulgesetzes, deren Träger der Kanton oder die Gemeinden sind, ausgenommen die Pä-dagogische Hochschule und die Kantonsschule. <sup>6)</sup>
+<sup>1</sup> Diese Verordnung regelt die Weiterbildung der Lehrpersonen an den öffentlichen Schulen der Primar- und Sekundarstufe I und an den Schaffhauser Sonderschulen.
 
-<sup>2</sup> Sie gilt auch für nicht aktive diplomierte Lehrpersonen mit Wohnsitz im Kanton Schaffhausen, die den Einstieg in die Unterrichtstätigkeit an einer öffentlichen Schule im Kanton Schaffhausen vorbereiten.
+<sup>2</sup> …
 
 #### § 2
 
-**Zweck der Weiterbildung**
+**…**
 
-<sup>1</sup> Die Lehrerweiterbildung ist dazu bestimmt:
-
-- a) Berufs- und Fachkenntnisse zu erneuern und zu erweitern;
-
-- b) Einblicke in andere praktische und theoretische Bereiche zu gewinnen.
-
-<sup>2</sup> Schwerpunkte bilden die Entwicklung fachlicher, pädagogischer und persönlicher Kompetenzen der Lehrpersonen, die Unterstützung der Lehrerkollegien und die Teamentwicklung.
-
-Amtsblatt 2001, S. 993
-
-### II. Rechte und Pflichten
+## 2 Rechte und Pflichten
 
 #### § 3
 
@@ -63,9 +51,9 @@ Amtsblatt 2001, S. 993
 
 **Angeordnete Weiterbildung**
 
-<sup>1</sup> Der Erziehungsrat kann Weiterbildung für Lehrpersonen anordnen (Art. 65 Abs. 2 Schulgesetz).
+<sup>1</sup> …
 
-<sup>2</sup> Im Rahmen ihrer Weisungsbefugnis können auch Schulbehörden bzw. Schulleitungen resp. kann die Geschäftsleitung Weiterbildung für Lehrpersonen anordnen. <sup>10)</sup>
+<sup>2</sup> Im Rahmen ihrer Weisungsbefugnis können Schulbehörden bzw. Schulleitungen resp. kann die Geschäftsleitung Weiterbildungen für einzelne Lehrpersonen anordnen.
 
 #### § 5
 
@@ -75,11 +63,11 @@ Amtsblatt 2001, S. 993
 
 <sup>2</sup> In diesem selbstgesteuerten Bereich besteht für alle Lehrpersonen eine Weiterbildungspflicht von mindestens 12 Tagen innerhalb von vier Jahren. Diese Pflicht kann im Rahmen der Kurse der kantonalen Weiterbildung absolviert werden, welche grundsätzlich kostenlos sind. Sie kann auch an anderen Kursen erfüllt werden, an die der Kanton Beiträge gemäss § 17 und 18 entrichtet.
 
-<sup>3</sup> Die Weiterbildung ist in der Regel in der unterrichtsfreien Zeit zu absolvieren.
+<sup>3</sup> …
 
 <sup>4</sup> Der individuelle Besuch von Fachveranstaltungen, Vorträgen, die Mitarbeit an Schulentwicklungsprojekten und die Leitung von Kursen können auf Antrag hin vom Schulinspektorat an die Weiterbildungspflicht angerechnet werden.
 
-### III. Angebote
+## 3 Angebote
 
 #### § 6
 
@@ -87,7 +75,7 @@ Amtsblatt 2001, S. 993
 
 <sup>1</sup> Das Erziehungsdepartement bietet jährlich ein Weiterbildungsprogramm an.
 
-<sup>2</sup> Der Erziehungsrat kann Inhalte für das Weiterbildungsprogramm vorgeben. Den Schulbehörden bzw. Schulleitungen und den Stufenvertretungen resp. der Geschäftsleitung steht ein Vorschlagsrecht zu. <sup>10)</sup>
+<sup>2</sup> Der Erziehungsrat kann Inhalte für das Weiterbildungsprogramm vorgeben. Den Schulbehörden bzw. Schulleitungen und den Stufenvertretungen resp. der Geschäftsleitung steht ein Vorschlagsrecht zu.
 
 <sup>3</sup> Bei der Auswahl der Inhalte für das Weiterbildungsprogramm ist den verschiedenen Anliegen angemessen Rechnung zu tragen.
 
@@ -95,29 +83,26 @@ Amtsblatt 2001, S. 993
 
 **Weiterbildungsarten**
 
-Im Wesentlichen umfasst das Angebot des Erziehungsdepartements:
+<sup>1</sup> Im Wesentlichen umfasst das Angebot des Erziehungsdepartements:
 
-- a) Kurse zur individuellen Weiterbildung;
+- a) Kurse zur individuellen Weiterbildung
+- b) schulinterne Lehrerweiterbildung
+- c) Veranstaltungen im Rahmen der Berufseinführung
+- d) Intensivweiterbildung gemäss entsprechender Verordnung[^7-1]
+- e) Weiterbildung für Kursleiterinnen und ‑leiter
 
-- b) schulinterne Lehrerweiterbildung;
+[^7-1]: SHR [410.407](https://rechtsbuch.sh.ch/data/410.407/de).
 
-- c) Veranstaltungen im Rahmen der Berufseinführung;
-
-- d) Intensivweiterbildung gemäss entsprechender Verordnung <sup>3)</sup>;
-
-- e) Weiterbildung für Kursleiterinnen und -leiter.
-
-### IV. Organisation
+## 4 Organisation
 
 #### § 8
 
 **Organe**
 
-Die Organe der Lehrerweiterbildung sind:
+<sup>1</sup> Die Organe der Lehrerweiterbildung sind:
 
-- a) die Weiterbildungskommission;
-
-- b) das Prorektorat Weiterbildung der Pädagogischen Hochschule Schaffhausen. <sup>6)</sup>
+- a) die Weiterbildungskommission
+- b) das Prorektorat Weiterbildung der Pädagogischen Hochschule Schaffhausen
 
 #### § 9
 
@@ -125,55 +110,41 @@ Die Organe der Lehrerweiterbildung sind:
 
 <sup>1</sup> Die Weiterbildungskommission setzt sich wie folgt zusammen:
 
-- a) der Prorektor bzw. die Prorektorin Weiterbildung der Pädagogischen Hochschule Schaffhausen; <sup>6)</sup>
-
-- b) je ein Vertreter bzw. eine Vertreterin des Schulinspektorats, der Grundausbildung und der Informatik;
-
-- c) je ein Vertreter bzw. eine Vertreterin des Kindergartens, der Sonderklassen und der Schaffhauser Sonderschulen, des handwerklichen Gestaltens sowie des Konsums und Haushalts; <sup>7)</sup>
-
-- d) je zwei Vertreter bzw. Vertreterinnen der Primar- und Orientierungsschule.
+- a) der Prorektor bzw. die Prorektorin Weiterbildung der Pädagogischen Hochschule Schaffhausen
+- b) je ein Vertreter bzw. eine Vertreterin des Schulinspektorats, der Grundausbildung und der Informatik
+- c) je ein Vertreter bzw. eine Vertreterin des Kindergartens, der Sonderklassen und der Schaffhauser Sonderschulen, des handwerklichen Gestaltens sowie des Konsums und Haushalts
+- d) je zwei Vertreter bzw. Vertreterinnen der Primar- und Orientierungsschule
 
 <sup>2</sup> Bei wesentlichen Änderungen der Weiterbildung kann eine Vertretung des Vereins der Lehrerinnen und Lehrer Schaffhausen (LSH) eingeladen werden.
 
-<sup>3</sup> Der Prorektor bzw. die Prorektorin Weiterbildung der Pädagogischen Hochschule Schaffhausen präsidiert die Weiterbildungskommission. Diese konstituiert sich im Übrigen selbst. <sup>6)</sup>
+<sup>3</sup> Der Prorektor bzw. die Prorektorin Weiterbildung der Pädagogischen Hochschule Schaffhausen präsidiert die Weiterbildungskommission. Diese konstituiert sich im Übrigen selbst.
 
 #### § 10
 
 **Aufgaben der Weiterbildungskommission**
 
-Die Weiterbildungskommission beschliesst das jährliche Weiterbildungsprogramm, entscheidet über die Durchführung von Kursen und ordnet deren Evaluation an.
+<sup>1</sup> Die Weiterbildungskommission beschliesst das jährliche Weiterbildungsprogramm, entscheidet über die Durchführung von Kursen und ordnet deren Evaluation an.
 
 #### § 11
 
 **Aufgaben des Präsidenten bzw. der Präsidentin**
 
-<sup>1</sup> Der Prorektor bzw. die Prorektorin Weiterbildung der Pädagogischen Hochschule Schaffhausen organisiert das Weiterbildungswesen und erbringt die erforderlichen Dienstleistungen. <sup>6)</sup>
+<sup>1</sup> Der Prorektor bzw. die Prorektorin Weiterbildung der Pädagogischen Hochschule Schaffhausen organisiert das Weiterbildungswesen und erbringt die erforderlichen Dienstleistungen.
 
 <sup>2</sup> Es obliegen ihm bzw. ihr dabei insbesondere folgende Aufgaben:
 
-- a) Planen, Organisieren und Evaluieren der Weiterbildungsveranstaltungen;
-
-- b) Erstellen des Weiterbildungsprogramms;
-
-- c) Beratung der Lehrpersonen in Weiterbildungsfragen;
-
-- d) Beratung der Schulbehörden bzw. Schulleitungen und der Geschäftsleitung im Bereich der schulinternen Weiterbildung; <sup>10)</sup>
-
-- e) Unterstützung der Weiterbildung von Kursleiterinnen und -leitern;
-
-- f) Koordination der Weiterbildung mit der Pädagogischen Hochschule Zürich sowie mit den Kantonen; <sup>6)</sup>
-
-- g) Mitarbeit in den interkantonalen Weiterbildungsgremien;
-
-- h) Antrag an das Erziehungsdepartement zur Festlegung der Kursleiterhonoraransätze;
-
-- i) Festlegen der Kursgelder bei kostenintensiven Kursen (§ 15 Abs. 2);
-
-- j) Bewilligung von auswärtigen Kursbesuchen und Entscheid über deren Entschädigung (§§ 17 und 18);
-
-- k) Festlegen der Umtriebsentschädigung bei Kursabmeldungen (§ 15 Abs. 3);
-
-- l) Entscheid über die Zulassung weiterer Personen (§ 12 Abs. 2).
+- a) Planen, Organisieren und Evaluieren der Weiterbildungsveranstaltungen
+- b) Erstellen des Weiterbildungsprogramms
+- c) Beratung der Lehrpersonen in Weiterbildungsfragen
+- d) Beratung der Schulbehörden bzw. Schulleitungen und der Geschäftsleitung im Bereich der schulinternen Weiterbildung
+- e) Unterstützung der Weiterbildung von Kursleiterinnen und ‑leitern
+- f) Koordination der Weiterbildung mit der Pädagogischen Hochschule Zürich sowie mit den Kantonen
+- g) Mitarbeit in den interkantonalen Weiterbildungsgremien
+- h) Antrag an das Erziehungsdepartement zur Festlegung der Kursleiterhonoraransätze
+- i) Festlegen der Kursgelder bei kostenintensiven Kursen (§ 15 Abs. 2)
+- j) Bewilligung von auswärtigen Kursbesuchen und Entscheid über deren Entschädigung (§§ 17 und 18)
+- k) Festlegen der Umtriebsentschädigung bei Kursabmeldungen (§ 15 Abs. 3)
+- l) Entscheid über die Zulassung weiterer Personen (§ 12 Abs. 2)
 
 #### § 12
 
@@ -181,9 +152,8 @@ Die Weiterbildungskommission beschliesst das jährliche Weiterbildungsprogramm, 
 
 <sup>1</sup> Nebst den Lehrpersonen im Sinne des Schulgesetzes sind zur Teilnahme an Weiterbildungskursen gemäss § 7 lit. a zugelassen, sofern es die Platzzahl zulässt:
 
-- a) Lehrpersonen an Privat- und Musikschulen im Kanton Schaffhausen;
-
-- b) Personen, deren Aufgabenbereich einen engen Zusammenhang mit dem Schulwesen aufweist.
+- a) Lehrpersonen an Privat- und Musikschulen im Kanton Schaffhausen
+- b) Personen, deren Aufgabenbereich einen engen Zusammenhang mit dem Schulwesen aufweist
 
 <sup>2</sup> Weitere interessierte Personen können gegen Entrichtung einer Kursgebühr zugelassen werden.
 
@@ -191,17 +161,17 @@ Die Weiterbildungskommission beschliesst das jährliche Weiterbildungsprogramm, 
 
 **Kurstermine**
 
-Die Kurse und Veranstaltungen sind nach Möglichkeit ausserhalb der Unterrichtszeit durchzuführen.
+<sup>1</sup> Die Kurse und Veranstaltungen sind nach Möglichkeit ausserhalb der Unterrichtszeit durchzuführen.
 
-### V. Finanzierung
+## 5 Finanzierung
 
 #### § 14
 
 **Angeordnete Weiterbildung**
 
-<sup>1</sup> Die Kosten für angeordnete Weiterbildung werden vom Kanton getragen (Art. 88 Abs. 1 Schulgesetz).
+<sup>1</sup> Die Kosten für angeordnete Weiterbildungen werden vom Kanton getragen.
 
-<sup>2</sup> Für innerhalb des Kantons durchgeführte Kurse werden keine Spesenentschädigungen und Taggelder entrichtet.
+<sup>2</sup> Für innerhalb des Kantons durchgeführte Kurse werden keine Spesenentschädigungen entrichtet.
 
 #### § 15
 
@@ -219,49 +189,63 @@ Die Kurse und Veranstaltungen sind nach Möglichkeit ausserhalb der Unterrichtsz
 
 **Schulinterne Weiterbildung**
 
-An die schulinterne Weiterbildung kann der Kanton die Hälfte der Kurskosten entrichten (vgl. Art. 88 Abs. 2 Schulgesetz).
+<sup>1</sup> An die schulinterne Weiterbildung kann der Kanton die Hälfte der Kurskosten entrichten (vgl. Art. 88 Abs. 2 Schulgesetz).
 
 #### § 17
 
 **Kurse anderer Lehrerweiterbildungsinstitutionen**
 
-<sup>1</sup> Lehrpersonen an den Kindergärten, Primar- und Orientierungsschulen des Kantons Schaffhausen mit einem Pensum von mindestens 8 Wochenlektionen haben beim Besuch von Kursen anderer offizieller Lehrerweiterbildungsinstitutionen Anspruch auf folgende Entschädigung: <sup>7)</sup> a) sieben Zehntel des Kursgeldes; <sup>9)</sup> b) die Hälfte der Kosten für die Reise mit öffentlichen Verkehrsmitteln 2. Klasse;
+<sup>1</sup> Lehrpersonen an den Kindergärten, Primar- und Orientierungsschulen des Kantons Schaffhausen mit einem Pensum von mindestens 8 Wochenlektionen haben beim Besuch von Kursen anderer offizieller Lehrerweiterbildungsinstitutionen Anspruch auf folgende Entschädigung:
 
-- c) bei eintägigen Kursen ein Taggeld von Fr. 25.--;
-
-- d) bei mehrtägigen Kursen mit auswärtiger Übernachtung ein Taggeld von Fr. 70.--;
-
-- e) bei mehrtägigen Kursen ohne auswärtige Übernachtung ein Taggeld von Fr. 25.--.
+- a) sieben Zehntel des Kursgeldes
+- b) die Hälfte der Kosten für die Reise mit öffentlichen Verkehrsmitteln 2. Klasse
+- c) bei eintägigen Kursen ein Taggeld von Fr. 25.00
+- d) bei mehrtägigen Kursen mit auswärtiger Übernachtung ein Taggeld von Fr. 70.00
+- e) bei mehrtägigen Kursen ohne auswärtige Übernachtung ein Taggeld von Fr. 25.00
 
 <sup>2</sup> Lehrpersonen, die weniger als 8 Wochenlektionen unterrichten, werden anteilsmässig entschädigt.
 
-<sup>3</sup> Der Kursbesuch bedarf der Zustimmung der zuständigen Schulbehörde bzw. Schulleitung resp. der Geschäftsleitung und der Bewilligung des Prorektors bzw. der Prorektorin Weiterbildung der Pädagogischen Hochschule Schaffhausen. <sup>10)</sup>
+<sup>3</sup> Der Kursbesuch bedarf der Zustimmung der zuständigen Schulbehörde bzw. Schulleitung resp. der Geschäftsleitung und der Bewilligung des Prorektors bzw. der Prorektorin Weiterbildung der Pädagogischen Hochschule Schaffhausen.
+
+<sup>4</sup> Die Übernahme von Stellvertretungskosten bedarf der vorgängigen Zustimmung der zuständigen Schulbehörde bzw. Schulleitung und der Dienststelle Primar- und Sekundarstufe I des Erziehungsdepartements (Dienststelle) resp. der Geschäftsleitung.
 
 #### § 18
 
 **Weitere Kurse**
 
-<sup>1</sup> An Lehrpersonen an den Kindergärten, Primar- und Orientierungsschulen des Kantons Schaffhausen mit einem Pensum von mindestens 8 Wochenlektionen können beim Besuch anderer Kurse, die einen direkten Bezug zur Schularbeit und zur eigenen Schulstufe aufweisen, folgende Entschädigungen entrichtet werden: <sup>7)</sup> a) ein Drittel des Kursgeldes;
+<sup>1</sup> An Lehrpersonen an den Kindergärten, Primar- und Orientierungsschulen des Kantons Schaffhausen mit einem Pensum von mindestens 8 Wochenlektionen können beim Besuch anderer Kurse, die einen direkten Bezug zur Schularbeit und zur eigenen Schulstufe aufweisen, folgende Entschädigungen entrichtet werden:
 
-- b) ein Drittel der Kosten für die Reise mit öffentlichen Verkehrsmitteln 2. Klasse;
-
-- c) bei eintägigen Kursen ein Taggeld von Fr. 20.--;
-
-- d) bei mehrtägigen Kursen mit auswärtiger Übernachtung ein Taggeld von Fr. 50.--;
-
-- e) bei mehrtägigen Kursen ohne auswärtige Übernachtung ein Taggeld von Fr. 20.--.
+- a) ein Drittel des Kursgeldes
+- b) ein Drittel der Kosten für die Reise mit öffentlichen Verkehrsmitteln 2. Klasse
+- c) bei eintägigen Kursen ein Taggeld von Fr. 20.00
+- d) bei mehrtägigen Kursen mit auswärtiger Übernachtung ein Taggeld von Fr. 50.00
+- e) bei mehrtägigen Kursen ohne auswärtige Übernachtung ein Taggeld von Fr. 20.00
 
 <sup>2</sup> Lehrpersonen, die weniger als 8 Wochenlektionen unterrichten, werden anteilsmässig entschädigt.
 
 <sup>3</sup> Das Erziehungsdepartement setzt den jeweiligen Gesamtbetrag fest.
 
-<sup>4</sup> Der Kursbesuch bedarf der Zustimmung der zuständigen Schulbehörde bzw. Schulleitung resp. der Geschäftsleitung und der Bewilligung des Prorektors bzw. der Prorektorin Weiterbildung der Pädagogischen Hochschule Schaffhausen. <sup>10)</sup>
+<sup>4</sup> Der Kursbesuch bedarf der Zustimmung der zuständigen Schulbehörde bzw. Schulleitung resp. der Geschäftsleitung und der Bewilligung des Prorektors bzw. der Prorektorin Weiterbildung der Pädagogischen Hochschule Schaffhausen.
+
+<sup>5</sup> Die Übernahme von Stellvertretungskosten bedarf der vorgängigen Zustimmung der zuständigen Schulbehörde bzw. Schulleitung und der Dienststelle resp. der Geschäftsleitung.
+
+#### § 18a
+
+**Bezahlter Urlaub**
+
+<sup>1</sup> Für Kurse gemäss den §§ 17 f. dieser Verordnung kann ein bezahlter, lektionenweise bezogener Urlaub im Umfang von einer Jahreslektion pro 15 ECTS und maximal sechs Jahreslektionen gewährt werden. Die Voraussetzungen dafür sind kumulativ:
+
+- a) eine unbefristete Anstellung als Lehrperson im Kanton Schaffhausen
+- b) eine Lehrtätigkeit im Kanton Schaffhausen seit mindestens zwei Jahren
+- c) ein konferenzpflichtiges Pensum während der gesamten Kurszeit
+
+<sup>2</sup> Zwecks Gewährung von bezahltem Urlaub stehen der Primar- und Sekundarstufe I insgesamt jährlich 60 Jahreslektionen und den Schaffhausen Sonderschulen insgesamt jährlich sechs Jahreslektionen zur Verfügung. Die Zuteilung erfolgt auf Gesuch der Schulbehörde bzw. Schulleitung durch die Dienststelle resp. durch die Geschäftsleitung. Es besteht kein Rechtsanspruch auf bezahlten Urlaub.
 
 #### § 19
 
-<sup>8)</sup>
+**…**
 
-### VI. Schlussbestimmungen
+## 6 Schlussbestimmungen
 
 #### § 20
 
@@ -269,22 +253,8 @@ An die schulinterne Weiterbildung kann der Kanton die Hälfte der Kurskosten ent
 
 <sup>1</sup> Diese Verordnung tritt am 1. August 2001 in Kraft.
 
-<sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen <sup>5)</sup> und in die kantonale Gesetzessammlung aufzunehmen.
+<sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen[^20-1] und in die kantonale Gesetzessammlung aufzunehmen.
 
-Fussnoten:
+[^20-1]: Amtsblatt 2001, S. 993.
 
-- 3) SHR 410.407
-
-- 4) SHR 410.401
-
-- 5) Amtsblatt 2001, S. 993.
-
-- 6) Fassung gemäss RRB vom 8. Juli 2003, in Kraft getreten am 1. August 2003 (Amtsblatt 2003, S. 1028).
-
-- 7) Fassung gemäss RRB vom 25. Oktober 2005, in Kraft getreten am 1. November 2005 (Amtsblatt 2005, S. 1449).
-
-- 8) Aufgehoben durch RRB vom 25. Oktober 2005, in Kraft getreten am 1. November 2005 (Amtsblatt 2005, S. 1449).
-
-- 9) Fassung gemäss RRB vom 22. Mai 2012, in Kraft getreten am 1. August 2013 (Amtsblatt 2012, S. 775).
-
-- 10) Fassung gemäss RRB vom 20. Juni 2017, in Kraft getreten am 1. August 2017 (Amtsblatt 2017, S. 1018).
+Abl. 2001, S. 993
