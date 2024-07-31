@@ -4,11 +4,10 @@ number: "177.10"
 title: Personalgesetz (PG)
 short: PG
 language: de
-version: "2022-10-01"
-nachtrag: "118"
-valid_until: 2024-08-01
+version: "2024-08-01"
+nachtrag: "126"
 adopted: 1998-09-27
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-177_10-1998_09_27-1999_07_01-118.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-177_10-1998_09_27-1999_07_01-126.html"
 text: pdf
 ---
 
@@ -54,7 +53,7 @@ Angestellte sind Personen, die unbefristet oder befristet mit einem vollen oder 
 
 **1**
 
-1.10. 22 - 118
+1.10. 24 - 126
 
 ### C. Personalpolitik
 
@@ -150,7 +149,7 @@ Offene Stellen sind in der Regel öffentlich auszuschreiben.
 
 **3**
 
-1.10. 22 - 118 § 11. <sup>1</sup> Voraussetzung für eine Anstellung ist insbesondere die fachliche und persönliche Eignung der Bewerberin oder des Bewerbers.
+1.10. 24 - 126 § 11. <sup>1</sup> Voraussetzung für eine Anstellung ist insbesondere die fachliche und persönliche Eignung der Bewerberin oder des Bewerbers.
 
 **Voraussetzungen der Anstellung**
 
@@ -242,7 +241,7 @@ Offene Stellen sind in der Regel öffentlich auszuschreiben.
 
 **5**
 
-1.10. 22 - 118
+1.10. 24 - 126
 
 <sup>4</sup> Das Arbeitsverhältnis kann jeweils auf Ende eines Monats beendet werden. Der Regierungsrat bezeichnet die Arbeitsverhältnisse, für welche abweichende Endtermine gelten.
 
@@ -328,15 +327,17 @@ Offene Stellen sind in der Regel öffentlich auszuschreiben.
 
 **7**
 
-1.10. 22 - 118
+1.10. 24 - 126
 
 <sup>4</sup> Die mit der Entlassung altershalber verbundenen vorsorgerechtlichen Leistungen richten sich nach dem Reglement der Vorsorgeeinrichtung.
 
 <sup>5</sup> Die Auflösung des Arbeitsverhältnisses in gegenseitigem Einvernehmen sowie die Nichtwiederwahl von Personen, die durch die Stimmberechtigten oder den Kantonsrat gewählt sind, werden unter den Voraussetzungen von Abs. 1 lit. b–e der Entlassung altershalber gleichgestellt.
 
+#### § 24 c
+
 **Erreichen der Altersgrenze**
 
-§ 24 c.<sup>16</sup> <sup>1</sup> Das Arbeitsverhältnis endet am Ende des Monats, in welchem Angestellte das 65. Altersjahr vollenden. Bei Professorinnen und Professoren der Universität, Dozierenden der Fachhochschule sowie Lehrpersonen der Mittelschulen und Berufsfachschulen endet das Arbeitsverhältnis am Ende des Semesters, bei Lehrpersonen der Volksschule am Ende des Schuljahres.
+<sup>1</sup> Das Arbeitsverhältnis endet am Ende des Monats, in welchem Angestellte das 65. Altersjahr vollenden. Bei Professorinnen und Professoren der Universität, Professorinnen und Professoren und dem Lehr- und Forschungspersonal der Fachhochschulen sowie Lehrpersonen der Mittelschulen und Berufsfachschulen endet das Arbeitsverhältnis am Ende des Semesters, bei Lehrpersonen der Volksschule am Ende des Schuljahres.<sup>24</sup>
 
 <sup>2</sup> In Ausnahmefällen kann nach Erreichen der Altersgrenze eine befristete Wiederanstellung vereinbart werden.
 
@@ -384,7 +385,7 @@ Kommt es infolge von Stellenabbau zu Kündigungen, legen der Regierungsrat oder 
 
 **9**
 
-1.10. 22 - 118 § 29. <sup>1</sup> Angestellte können von der Anstellungs- oder Aufsichtsbehörde jederzeit vorsorglich im Amt eingestellt werden, wenn a. genügende Hinweise auf das Vorliegen eines wichtigen Grundes zur Auflösung des Arbeitsverhältnisses bestehen,
+1.10. 24 - 126 § 29. <sup>1</sup> Angestellte können von der Anstellungs- oder Aufsichtsbehörde jederzeit vorsorglich im Amt eingestellt werden, wenn a. genügende Hinweise auf das Vorliegen eines wichtigen Grundes zur Auflösung des Arbeitsverhältnisses bestehen,
 
 **Vorsorgliche Massnahmen**
 
@@ -476,7 +477,7 @@ Soweit dieses Gesetz nichts Abweichendes regelt, richtet sich der Weiterzug von 
 
 **11**
 
-1.10. 22 - 118
+1.10. 24 - 126
 
 <sup>2</sup> Er trifft die zum Schutz von Leben, Gesundheit und persönlicher Integrität seiner Angestellten erforderlichen Massnahmen.
 
@@ -568,7 +569,7 @@ Die Vereinsfreiheit der Angestellten ist im Rahmen des Verfassungsrechts gewähr
 
 **13**
 
-1.10. 22 - 118
+1.10. 24 - 126
 
 <sup>3</sup> Auf besonderes Verlangen der Angestellten hat sich das Zeugnis auf Angaben über die Art und Dauer des Arbeitsverhältnisses zu beschränken.
 
@@ -658,7 +659,7 @@ Die Angestellten haben sich rechtmässig zu verhalten, die Rechte und Freiheiten
 
 **15**
 
-1.10. 22 - 118
+1.10. 24 - 126
 
 ### IV. Administrativuntersuchung<sup>21</sup>
 
@@ -746,6 +747,8 @@ Die Angestellten haben sich rechtmässig zu verhalten, die Rechte und Freiheiten
 
 <sup>23</sup> Fassung gemäss G vom 14. Dezember 2020 (OS 77, 393; ABl 2020-07-10). In Kraft seit 1. Oktober 2022.
 
+<sup>24</sup> Fassung gemäss FaHG vom 13. November 2023 (OS 79, 227; ABl 2021-09-24). In Kraft seit 1. August 2024.
+
 [^59-1]: In Kraft seit 1. Juli 1999 (OS 55, 62).
 
 ## Weitere Fussnoten
@@ -758,4 +761,4 @@ Die Angestellten haben sich rechtmässig zu verhalten, die Rechte und Freiheiten
 - [7] SR 220.
 - [9] Fassung gemäss G über die Teilrevision der Strafprozessgesetzgebung vom 27. Januar 2003 (OS 59, 22; ABl 2001, 504). In Kraft seit 1. Januar 2005 (OS 59,
 - [302] .
-- [10] Fassung gemäss G vom 26. September 2005 (OS 60, 517; ABl 2005, 4). In Kraft seit 1. Januar 2006. 1.10. 22 - 118 17
+- [10] Fassung gemäss G vom 26. September 2005 (OS 60, 517; ABl 2005, 4). In Kraft seit 1. Januar 2006. 1.10. 24 - 126 17
