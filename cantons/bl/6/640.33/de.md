@@ -4,13 +4,13 @@ number: "640.33"
 title: Verordnung über den Betrieb der Schuladministrationslösung SAL
 short: Vo SAL
 language: de
-version: 2021-07-01
-valid_until: 2024-07-31
-version_adopted: 2021-06-01
+version: 2024-08-01
+valid_until: 2024-12-31
+version_adopted: 2023-12-19
 adopted: 2021-06-01
 in_force: 2021-07-01
 url: "https://bl.clex.ch/app/de/texts_of_law/640.33"
-pdf: "https://bl.clex.ch/api/de/versions/3668/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3861/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3668/pdf_file"
 
 (Vo SAL)
 
-Vom 01.06.2021 (Stand 01.07.2021)
+Vom 01.06.2021 (Stand 01.08.2024)
 
 Der Regierungsrat,
 
@@ -74,7 +74,8 @@ beschliesst:
 - e. Schulleitungen und Schulsekretariate;
 - f. Amt für Daten und Statistik;
 - g. Dienststellen der Bildungs-, Kultur- und Sportdirektion gemäss § 59d Bildungsgesetz vom 6. Juni 2002[^3-1];
-- h. Schulräte.
+- h. Schulräte der kantonalen und kommunalen Schulen;
+- i. Gemeinderäte der kommunalen Schulen, sofern diese für die Schulführung eingesetzt werden.
 
 <sup>6</sup> Die Zugriffsberechtigungen werden durch folgende Personen vergeben, verwaltet und kontrolliert:
 
