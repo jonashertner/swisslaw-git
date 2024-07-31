@@ -3,20 +3,20 @@ canton: BL
 number: "643.31"
 title: Verordnung über die Abschlussprüfungen der Fachmittelschule an den Gymnasien
 language: de
-version: 2022-08-01
-valid_until: 2024-07-31
-version_adopted: 2022-06-28
+version: 2024-08-01
+valid_until: 2026-07-31
+version_adopted: 2023-12-19
 adopted: 2007-12-18
 in_force: 2007-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/643.31"
-pdf: "https://bl.clex.ch/api/de/versions/3747/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3870/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Abschlussprüfungen der Fachmittelschule an den Gymnasien
 
-Vom 18.12.2007 (Stand 01.08.2022)
+Vom 18.12.2007 (Stand 01.08.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -59,19 +59,16 @@ beschliesst:
 
 <sup>1</sup> Die Schulleitungskonferenz der Gymnasien (SLK) legt die Prüfungstermine der Fachmittelschule fest.
 
+<sup>2</sup> Sie kann auf Antrag einer Schulleitung die Rahmenbedingungen dieser Verordnung in angemessenem Umfang anpassen, um die Durchführung von Prüfungen mit internationalen Standards (Diplôme d'Etudes en Langue Française DELF, First Certificate etc.) zu ermöglichen.
+
+<sup>3</sup> Sie stellt sicher, dass:
+
+- a. an den einzelnen Gymnasien für die Prüfungen gemäss Absatz 2 gleichwertige Bedingungen herrschen;
+- b. der Prüfungsinhalt den Lehrplänen der vorangegangenen Ausbildung an der Fachmittelschule entspricht.
+
 #### § 5
 
-**Aufsicht über die Prüfungen**
-
-<sup>1</sup> Der Schulrat des jeweiligen Gymnasiums beaufsichtigt die Prüfungen.
-
-<sup>2</sup> Der Schulrat kann auf Antrag der Schulleitung die Rahmenbedingungen dieser Verordnung in angemessenem Umfang anpassen, um die Durchführung von Prüfungen mit internationalen Standards (Diplôme d'Etudes en Langue Française DELF, First Certificate etc.) zu ermöglichen.
-
-<sup>3</sup> Die SLK stellt sicher, dass:
-
-- a. an den einzelnen Gymnasien für die Prüfungen gemäss Abs. 2 gleichwertige Bedingungen herrschen;
-- b. der Prüfungsinhalt den Lehrplänen der vorangegangenen Ausbildung an der Fachmittelschule entspricht;
-- c. …
+**…**
 
 #### § 5a
 
@@ -297,7 +294,7 @@ beschliesst:
 
 <sup>1</sup> Die mündlichen Prüfungen finden in Gruppen von höchstens 4 Kandidaten und Kandidatinnen oder einzeln statt.
 
-<sup>2</sup> Die Wahl der Prüfungsinhalte ist dem Examinator oder der Examinatorin unter Beachtung von § 10 freigestellt.
+<sup>2</sup> Die Wahl der Prüfungsinhalte ist der Examinatorin oder dem Examinator freigestellt.
 
 <sup>3</sup> Der Experte oder die Expertin führt ein Protokoll.
 
@@ -405,6 +402,12 @@ beschliesst:
 - h. die Unterschrift der Schulleitung und der Vorsteherin oder des Vorstehers der Bildungs-, Kultur- und Sportdirektion sowie
 - i. den Ort der Fachmittelschule und das Datum.
 
+#### § 24a
+
+**Rechtsmittel**
+
+<sup>1</sup> Gegen einzelne Prüfungsresultate, die Beurteilung der selbständigen Arbeit oder gegen das Nichtbestehen der Abschlussprüfung der Fachmittelschule kann innert 10 Tagen seit Eröffnung des Entscheids über das Bestehen der Abschlussprüfung der Fachmittelschule beim Schulrat schriftlich und begründet Beschwerde erhoben werden.
+
 ## 2 Fachmaturitätszeugnis
 
 ## 2.1 Allgemeine Bestimmungen
@@ -445,6 +448,12 @@ beschliesst:
 - i. die Unterschrift der Schulleitung und der Vorsteherin oder des Vorstehers der Bildungs-, Kultur- und Sportdirektion sowie
 - k. den Ort der Fachmittelschule und das Datum.
 
+#### § 27a
+
+**Rechtsmittel**
+
+<sup>1</sup> Gegen einzelne Prüfungsresultate, die Beurteilung der Fachmaturitätsarbeit, sofern diese nicht ein Zulassungskriterium zu den Fachmaturitätsprüfungen ist, oder gegen das Nichtbestehen der Fachmaturität kann innert 10 Tagen seit Eröffnung des Entscheids über das Bestehen der Fachmaturität beim Schulrat schriftlich und begründet Beschwerde erhoben werden.
+
 ## 2.2 Fachmaturität für die Berufsfelder Gesundheit/Naturwissenschaften, Soziale Arbeit, Gestaltung und Kunst sowie Musik
 
 #### § 28
@@ -479,7 +488,7 @@ beschliesst:
 <sup>5</sup> Falls der schriftliche Teil der Arbeit oder die praktische Arbeit mit Begleittext ungenügend sind, gilt:
 
 - a. Schüler und Schülerinnen mit einer Note von 3.5 oder höher verbessern die Fachmaturitätsarbeit in einer von der SLK festgelegten Frist. In diesem Fall kann nach einer neuen Beurteilung durch die betreuende Lehrperson die verbesserte Arbeit höchstens mit der Note 4.0 bewertet werden;
-- b. Schüler und Schülerinnen mit einer Note unter 3.5 werden nicht zur Nachbesserung der Fachmaturitätsarbeit zugelassen. Sie wiederholen die Fachmaturitätsarbeit und besuchen die Fachmaturitätsprüfungen im folgenden Schuljahr.
+- b. Schüler und Schülerinnen mit einer Note unter 3.5 werden nicht zur Nachbesserung der Fachmaturitätsarbeit zugelassen. Sie wiederholen die Fachmaturitätsarbeit und das dazugehörige Praktikum im folgenden Schuljahr.
 
 <sup>6</sup> Die mündliche Präsentation zählt zu 1/3 für die Gesamtnote.
 
@@ -544,7 +553,7 @@ beschliesst:
 
 #### § 35
 
-**Prüfungsleitung und -aufsicht**
+**Prüfungsleitung**
 
 <sup>1</sup> Die Prüfungsleitung obliegt der Schulleitung der durchführenden Schule.
 
@@ -552,7 +561,7 @@ beschliesst:
 
 <sup>3</sup> Die Prüfungsleitung bestimmt für alle Prüfungsfächer Expertinnen und Experten.
 
-<sup>4</sup> Der Schulrat der jeweiligen Schule, die einen Fachmaturitätskurs führt, beaufsichtigt die Prüfungen.
+<sup>4</sup> …
 
 #### § 36
 
@@ -706,7 +715,7 @@ beschliesst:
 
 **Nichterteilung des Fachmaturitätszeugnisses**
 
-<sup>1</sup> Die Prüfungsleitung teilt den Schülerinnen und Schülern, welche die Fachmaturität nicht bestanden haben, das Ergebnis schriftlich mit.
+<sup>1</sup> Die Prüfungsleitung teilt den Schülerinnen und Schülern, welche die Fachmaturität nicht bestanden haben, das Ergebnis schriftlich mittels Verfügung mit.
 
 ## 3 Schlussbestimmungen
 
