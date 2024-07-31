@@ -3,18 +3,18 @@ sr: "742.140.5"
 title: "Decreto federale del 21 giugno 2019 concernente la fase di ampliamento 2035 dell'infrastruttura ferroviaria"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/675"
 language: it
-version: 2020-01-01
+version: 2024-08-01
 adopted: 2019-06-21
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/675/20200101/it/xml/fedlex-data-admin-ch-eli-cc-2019-675-20200101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/675/20200101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/675/20240801/it/xml/fedlex-data-admin-ch-eli-cc-2019-675-20240801-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/675/20240801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Decreto federale concernente la fase di ampliamento 2035 dell’infrastruttura ferroviaria
 
-del 21 giugno 2019 (Stato 1° gennaio 2020)
+del 21 giugno 2019 (Stato 1° agosto 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -50,7 +50,8 @@ Tale fase comprende le seguenti misure:
   - 11\. Winterthur–Costanza, Winterthur–Romanshorn e Winterthur–San Gallo–St. Margrethen, con doppio binario Rorschach–Rorschach Stadt: potenziamento delle capacità e accelerazione,
   - 12\. Ziegelbrücke–Linthal: potenziamento delle capacità,
   - 13\. Olten–Lucerna: potenziamento delle capacità,
-  - 14\. Lucerna–Zugo–Zurigo: potenziamento delle capacità e accelerazione;
+  - 14\.[^1-1] Lucerna–Zugo–Zurigo: potenziamento delle capacità e accelerazione, incluso l’ampliamento della stazione di Ebikon (con quattro marciapiedi),
+  - 15\.[^1-2] integrazione della prestazione preliminare per la galleria di Meilibach;
 
 - b.
 
@@ -63,7 +64,7 @@ Tale fase comprende le seguenti misure:
   - 5\. Transports Publics du Chablais SA: Aigle–Monthey–Champéry, Aigle–Leysin,
   - 6\. Matterhorn Gotthard Infrastruktur AG: Visp–Zermatt,
   - 7\. Transports publics fribourgeois Infrastructure (TPF INFRA) SA: Broc Fabrique–Friburgo,
-  - 8\. BLS Netz AG: Ferden–Mitholz e Frutigen–Wengi-Ey (equipaggiamento di tecnica ferroviaria), ampliamento della stazione di Briga, Berna–Niederscherli, ampliamento della stazione di Ins,
+  - 8\.[^1-3] BLS Netz AG: Ferden–Mitholz–Frutigen (completamento globale) e Frutigen–Wengi-Ey (equipaggiamento di tecnica ferroviaria), ampliamento della stazione di Briga, Berna–Niederscherli, ampliamento della stazione di Ins,
   - 9\. Regionalverkehr Bern–Solothurn AG: Berna–Zollikofen, Berna–Deisswil, Berna–Gümligen Siloah,
   - 10\. Baselland Transport AG: Leimental–Basilea, Waldenburg–Liestal,
   - 11\. Aare Seeland mobil AG: Soletta–Flumenthal,
@@ -80,7 +81,7 @@ Tale fase comprende le seguenti misure:
 
   nuove fermate:
 
-  - 1\. FFS: St-Imier-La-Clef, Yverdon Y-Parc, Collombey-Muraz la Barme, Agy, Thun Nord, Dornach Apfelsee, Oensingen Dorf, Winterthur Grüze Nord, Bellinzona Piazza Indipendenza,
+  - 1\.[^1-4] FFS: St-Imier-La-Clef, Yverdon Y-Parc, Collombey-Muraz La Barme, Agy, Thun Nord, Dornach Apfelsee, Oensingen Dorf, Winterthur Grüze Nord, Bellinzona Piazza Indipendenza, Basilea Morgartenring,
   - 2\. Transports de Martigny et Régions SA: Martigny-Expo,
   - 3\. Berner Oberland-Bahn AG: Wilderswil Flugplatz,
   - 4\. BLS Netz AG: Kleinwabern,
@@ -90,10 +91,13 @@ Tale fase comprende le seguenti misure:
 - d. impianti d’esercizio;
 - e. contributo federale per il finanziamento di misure transfrontaliere;
 - f. diversi investimenti puntuali;
-- g. lavori di pianificazione per la prossima fase di ampliamento: prospettiva a lungo termine, pianificazioni e studi preliminari;
+- g.[^1-5] lavori di pianificazione per la prossima fase di ampliamento: prospettiva a lungo termine, pianificazioni e studi preliminari, inclusi gli studi per la Svizzera occidentale (ArcExpress, Bypass Bussigny);
 - h. progetto (incl. progetto di pubblicazione) per il potenziamento delle capacità del nodo di Lucerna (stazione di transito);
 - i. progetto per il potenziamento delle capacità del nodo di Basilea (passante della rete suburbana trinazionale di Basilea);
-- j. vigilanza sui progetti.
+- j. vigilanza sui progetti;
+- k.[^1-6] progettazione della galleria multifunzionale del Grimsel in coordinamento con il progetto di rete di Swissgrid;
+- l.[^1-7] prime misure per l’eliminazione delle ripercussioni negative dell’orario 2025 nella Svizzera occidentale;
+- m.[^1-8] Zurigo–Coira: potenziamento delle capacità (progettazione del raddoppio del binario a Tiefenwinkel).
 
 <sup>3</sup>
 
@@ -108,6 +112,15 @@ Entro il 2026 il Consiglio federale sottopone all’Assemblea federale un messag
 
 <sup>4</sup> Se le risorse previste per le misure di cui al capoverso 2 non vengono esaurite, l’Assemblea federale può decidere di anticipare la realizzazione delle misure di cui al capoverso 3. Il cambiamento di destinazione delle risorse è ammesso per le misure di cui al capoverso 3 che sono in uno stadio ben avanzato e per le quali la mancanza di risorse pregiudicherebbe la realizzazione delle fasi successive.
 
+[^1-1]: Nuovo testo giusta il n. I 2 del DF del 15 mar. 2024, in vigore dal 1° ago. 2024 ([RU 2024 338](https://fedlex.data.admin.ch/eli/oc/2024/338); [FF 2023 2061](https://fedlex.data.admin.ch/eli/fga/2023/2061)).
+[^1-2]: Introdotto dal n. I 2 del DF del 15 mar. 2024, in vigore dal 1° ago. 2024 ([RU 2024 338](https://fedlex.data.admin.ch/eli/oc/2024/338); [FF 2023 2061](https://fedlex.data.admin.ch/eli/fga/2023/2061)).
+[^1-3]: Nuovo testo giusta il n. I 2 del DF del 15 mar. 2024, in vigore dal 1° ago. 2024 ([RU 2024 338](https://fedlex.data.admin.ch/eli/oc/2024/338); [FF 2023 2061](https://fedlex.data.admin.ch/eli/fga/2023/2061)).
+[^1-4]: Nuovo testo giusta il n. I 2 del DF del 15 mar. 2024, in vigore dal 1° ago. 2024 ([RU 2024 338](https://fedlex.data.admin.ch/eli/oc/2024/338); [FF 2023 2061](https://fedlex.data.admin.ch/eli/fga/2023/2061)).
+[^1-5]: Nuovo testo giusta il n. I 2 del DF del 15 mar. 2024, in vigore dal 1° ago. 2024 ([RU 2024 338](https://fedlex.data.admin.ch/eli/oc/2024/338); [FF 2023 2061](https://fedlex.data.admin.ch/eli/fga/2023/2061)).
+[^1-6]: Introdotta dal n. I 2 del DF del 15 mar. 2024, in vigore dal 1° ago. 2024 ([RU 2024 338](https://fedlex.data.admin.ch/eli/oc/2024/338); [FF 2023 2061](https://fedlex.data.admin.ch/eli/fga/2023/2061)).
+[^1-7]: Introdotta dal n. I 2 del DF del 15 mar. 2024, in vigore dal 1° ago. 2024 ([RU 2024 338](https://fedlex.data.admin.ch/eli/oc/2024/338); [FF 2023 2061](https://fedlex.data.admin.ch/eli/fga/2023/2061)).
+[^1-8]: Introdotta dal n. I 2 del DF del 15 mar. 2024, in vigore dal 1° ago. 2024 ([RU 2024 338](https://fedlex.data.admin.ch/eli/oc/2024/338); [FF 2023 2061](https://fedlex.data.admin.ch/eli/fga/2023/2061)).
+
 #### Art. 2
 
 <sup>1</sup> Il presente decreto sottostà a referendum facoltativo.
@@ -116,4 +129,4 @@ Entro il 2026 il Consiglio federale sottopone all’Assemblea federale un messag
 
 Data dell’entrata in vigore: 1° gennaio 2020[^2-1]
 
-[^2-1]: DCF del 12 novembre 2019.
+[^2-1]: DCF del 12 nov. 2019.

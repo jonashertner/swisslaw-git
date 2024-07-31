@@ -3,18 +3,18 @@ sr: "742.140.5"
 title: Bundesbeschluss vom 21. Juni 2019 über den Ausbauschritt 2035 für die Eisenbahninfrastruktur
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/675"
 language: de
-version: 2020-01-01
+version: 2024-08-01
 adopted: 2019-06-21
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/675/20200101/de/xml/fedlex-data-admin-ch-eli-cc-2019-675-20200101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/675/20200101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/675/20240801/de/xml/fedlex-data-admin-ch-eli-cc-2019-675-20240801-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/675/20240801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesbeschluss über den Ausbauschritt 2035 für die Eisenbahninfrastruktur
 
-vom 21. Juni 2019 (Stand am 1. Januar 2020)
+vom 21. Juni 2019 (Stand am 1. August 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -50,7 +50,8 @@ Dieser umfasst:
   - 11\. Winterthur–Konstanz, Winterthur–Romanshorn und Winterthur–St. Gallen–St. Margrethen mit Doppelspur Rorschach–Rorschach Stadt: Kapazitätsausbau und Beschleunigung,
   - 12\. Ziegelbrücke–Linthal: Kapazitätsausbau,
   - 13\. Olten–Luzern: Kapazitätsausbau,
-  - 14\. Luzern–Zug–Zürich: Kapazitätsausbau und Beschleunigung;
+  - 14\.[^1-1] Luzern–Zug–Zürich: Kapazitätsausbau und Beschleunigung, inklusive Ausbau Bahnhof Ebikon (mit vier Perronkanten),
+  - 15\.[^1-2] Integration Vorleistung für Meilibachtunnel;
 
 - b.
 
@@ -63,7 +64,7 @@ Dieser umfasst:
   - 5\. Transports Publics du Chablais SA: Aigle–Monthey–Champéry, Aigle–Leysin,
   - 6\. Matterhorn Gotthard Infrastruktur AG: Visp–Zermatt,
   - 7\. Transports publics fribourgeois Infrastructure (TPF INFRA) SA: Broc Fabrique–Fribourg/Freiburg,
-  - 8\. BLS Netz AG: Ferden–Mitholz und Frutigen–Wengi-Ey (Bahntechnik-Ausrüstung), Ausbau Bahnhof Brig, Bern–Niederscherli, Ausbau Bahnhof Ins,
+  - 8\.[^1-3] BLS Netz AG: Ferden–Mitholz–Frutigen (Vollausbau) und Frutigen–Wengi-Ey (Bahntechnik-Ausrüstung), Ausbau Bahnhof Brig, Bern–Niederscherli, Ausbau Bahnhof Ins,
   - 9\. Regionalverkehr Bern-Solothurn AG: Bern–Zollikofen, Bern–Deisswil, Bern–Gümligen Siloah,
   - 10\. Baselland Transport AG: Leimental–Basel, Waldenburg–Liestal,
   - 11\. Aare Seeland mobil AG: Solothurn–Flumenthal,
@@ -80,7 +81,7 @@ Dieser umfasst:
 
   neue Haltestellen:
 
-  - 1\. SBB: St-Imier-La-Clef, Yverdon Y-Parc, Collombey-Muraz la Barme, Agy, Thun Nord, Dornach Apfelsee, Oensingen Dorf, Winterthur Grüze Nord, Bellinzona Piazza Indipendenza,
+  - 1\.[^1-4] SBB: St-Imier-La-Clef, Yverdon Y-Parc, Collombey-Muraz La Barme, Agy, Thun Nord, Dornach Apfelsee, Oensingen Dorf, Winterthur Grüze Nord, Bellinzona Piazza Indipendenza, Basel Morgartenring,
   - 2\. Transports de Martigny et Régions SA: Martigny-Expo,
   - 3\. Berner Oberland-Bahn AG: Wilderswil Flugplatz,
   - 4\. BLS Netz AG: Kleinwabern,
@@ -90,10 +91,13 @@ Dieser umfasst:
 - d. betriebliche Anlagen;
 - e. Bundesbeitrag zur Finanzierung von grenzüberscheitenden Massnahmen;
 - f. verschiedene Einzelinvestitionen;
-- g. Planungsarbeiten für den nächsten Ausbauschritt: Langfristperspektive, Planungen und Vorstudien;
+- g.[^1-5] Planungsarbeiten für den nächsten Ausbauschritt: Langfristperspektive, Planungen und Vorstudien, inklusive Studien Westschweiz (ArcExpress, Bypass Bussigny);
 - h. Projektierung (inkl. Auflageprojekt) für Kapazitätsausbau Knoten Luzern (Durchgangsbahnhof);
 - i. Projektierung für Kapazitätsausbau Knoten Basel (Herzstück der trinationalen S-Bahn Basel);
-- j. Projektaufsicht.
+- j. Projektaufsicht;
+- k.[^1-6] Projektierung des multifunktionalen Grimseltunnels in Abstimmung mit dem Netzprojekt der Swissgrid;
+- l.[^1-7] erste Massnahmen zur Behebung negativer Auswirkungen des Fahrplans 2025 in der Westschweiz;
+- m.[^1-8] Zürich–Chur: Kapazitätsausbau (Projektierung Doppelspurausbau Tiefenwinkel).
 
 <sup>3</sup>
 
@@ -107,6 +111,15 @@ Der Bundesrat legt der Bundesversammlung bis 2026 eine Botschaft zu einem nächs
 - f. Behebung von Engpässen und Verdichtung des Angebotes im Agglomerations- und Regionalverkehr sowie Zugang zu den Tourismusregionen.
 
 <sup>4</sup> Werden die Mittel, die für die Massnahmen in Absatz 2 vorgesehen sind, nicht ausgeschöpft, so kann die Bundesversammlung über eine vorgezogene Umsetzung der unter Absatz 3 aufgeführten Massnahmen beschliessen. Eine Umwidmung von Mitteln ist möglich, wenn die in Absatz 3 aufgeführte Massnahme weit fortgeschritten ist und die weiteren Projektphasen aufgrund der fehlenden Mittel behindert würden.
+
+[^1-1]: Fassung gemäss Ziff. I 2 des BB vom 15. März 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 338](https://fedlex.data.admin.ch/eli/oc/2024/338); [BBl 2023 2061](https://fedlex.data.admin.ch/eli/fga/2023/2061)).
+[^1-2]: Eingefügt durch Ziff. I 2 des BB vom 15. März 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 338](https://fedlex.data.admin.ch/eli/oc/2024/338); [BBl 2023 2061](https://fedlex.data.admin.ch/eli/fga/2023/2061)).
+[^1-3]: Fassung gemäss Ziff. I 2 des BB vom 15. März 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 338](https://fedlex.data.admin.ch/eli/oc/2024/338); [BBl 2023 2061](https://fedlex.data.admin.ch/eli/fga/2023/2061)).
+[^1-4]: Fassung gemäss Ziff. I 2 des BB vom 15. März 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 338](https://fedlex.data.admin.ch/eli/oc/2024/338); [BBl 2023 2061](https://fedlex.data.admin.ch/eli/fga/2023/2061)).
+[^1-5]: Fassung gemäss Ziff. I 2 des BB vom 15. März 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 338](https://fedlex.data.admin.ch/eli/oc/2024/338); [BBl 2023 2061](https://fedlex.data.admin.ch/eli/fga/2023/2061)).
+[^1-6]: Eingefügt durch Ziff. I 2 des BB vom 15. März 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 338](https://fedlex.data.admin.ch/eli/oc/2024/338); [BBl 2023 2061](https://fedlex.data.admin.ch/eli/fga/2023/2061)).
+[^1-7]: Eingefügt durch Ziff. I 2 des BB vom 15. März 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 338](https://fedlex.data.admin.ch/eli/oc/2024/338); [BBl 2023 2061](https://fedlex.data.admin.ch/eli/fga/2023/2061)).
+[^1-8]: Eingefügt durch Ziff. I 2 des BB vom 15. März 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 338](https://fedlex.data.admin.ch/eli/oc/2024/338); [BBl 2023 2061](https://fedlex.data.admin.ch/eli/fga/2023/2061)).
 
 #### Art. 2
 

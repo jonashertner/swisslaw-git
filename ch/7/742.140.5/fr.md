@@ -3,18 +3,18 @@ sr: "742.140.5"
 title: "Arrêté fédéral du 21 juin 2019 sur l'étape d'aménagement 2035 de l'infrastructure ferroviaire"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/675"
 language: fr
-version: 2020-01-01
+version: 2024-08-01
 adopted: 2019-06-21
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/675/20200101/fr/xml/fedlex-data-admin-ch-eli-cc-2019-675-20200101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/675/20200101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/675/20240801/fr/xml/fedlex-data-admin-ch-eli-cc-2019-675-20240801-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/675/20240801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Arrêté fédéral sur l’étape d’aménagement 2035 de l’infrastructure ferroviaire
 
-du 21 juin 2019 (Etat le 1<sup>er</sup> janvier 2020)
+du 21 juin 2019 (État le 1<sup>er</sup> août 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -50,7 +50,8 @@ Elle comprend les mesures suivantes:
   - 11\. Winterthour–Constance, Winterthour–Romanshorn et Winterthour–Saint-Gall–St. Margrethen avec doublement de la voie Rorschach–Rorschach Stadt: extension de capacité et accélération,
   - 12\. Ziegelbrücke–Linthal: extension de capacité,
   - 13\. Olten–Lucerne: extension de capacité,
-  - 14\. Lucerne–Zoug–Zurich: extension de capacité et accélération;
+  - 14\.[^1-1] Lucerne-Zoug-Zurich: extension de capacité et accélération, y compris aménagement de la gare d’Ebikon (avec quatre quais),
+  - 15\.[^1-2] intégration de la prestation préalable pour le tunnel de Meilibach;
 
 - b.
 
@@ -63,7 +64,7 @@ Elle comprend les mesures suivantes:
   - 5\. Transports Publics du Chablais SA: Aigle–Monthey–Champéry, Aigle–Leysin,
   - 6\. Matterhorn Gotthard Infrastruktur AG: Viège–Zermatt,
   - 7\. Transports publics fribourgeois Infrastructure (TPF INFRA) SA: Broc Fabrique–Fribourg/Freiburg,
-  - 8\. BLS Netz AG: Ferden–Mitholz et Frutigen–Wengi-Ey (équipement de technique ferroviaire), aménagement de la gare de Brigue, Berne–Niederscherli, aménagement de la gare d’Anet,
+  - 8\.[^1-3] BLS Netz AG: Ferden–Mitholz–Frutigen (aménagement complet) et Frutigen–Wengi-Ey (équipement technique ferroviaire), aménagement de la gare de Brigue, Berne–Niederscherli, aménagement de la gare d’Anet,
   - 9\. Regionalverkehr Bern–Solothurn AG: Berne–Zollikofen, Berne–Deisswil, Berne–Gümligen Siloah,
   - 10\. Baselland Transport AG: Leimental–Bâle, Waldenburg–Liestal,
   - 11\. Aare Seeland mobil AG: Soleure–Flumenthal,
@@ -80,7 +81,7 @@ Elle comprend les mesures suivantes:
 
   nouveaux arrêts:
 
-  - 1\. CFF: Saint-Imier-La-Clef, Yverdon Y-Parc, Collombey-Muraz la Barme, Agy, Thoune Nord, Dornach Apfelsee, Oensingen Dorf, Winterthour Grüze Nord, Bellinzone Piazza Indipendenza,
+  - 1\.[^1-4] CFF: Saint-Imier-La-Clef, Yverdon Y-Parc, Collombey-Muraz La Barme, Agy, Thoune Nord, Dornach Apfelsee, Oensingen Dorf, Winterthour Grüze Nord, Bellinzone Piazza Indipendenza, Basel Morgartenring,
   - 2\. Transports de Martigny et Régions SA: Martigny-Expo,
   - 3\. Berner Oberland-Bahn AG: Wilderswil Flugplatz,
   - 4\. BLS Netz AG: Kleinwabern,
@@ -90,10 +91,13 @@ Elle comprend les mesures suivantes:
 - d. installations d’exploitation;
 - e. contribution fédérale au financement de mesures transfrontalières;
 - f. autres investissements;
-- g. travaux de planification pour la prochaine étape d’aménagement: perspective à long terme, planifications et études préliminaires;
+- g.[^1-5] travaux de planification pour la prochaine étape d’aménagement: perspective à long terme, planifications et études préliminaires, y compris études concernant la Suisse romande (ArcExpress, Bypass de Bussigny);
 - h. étude du projet d’extension de capacité (y compris projet de mise à l’enquête) du nœud de Lucerne (gare de passage);
 - i. étude du projet d’extension de capacité du nœud de Bâle (maillon central du RER trinational de Bâle);
-- j. surveillance.
+- j. surveillance;
+- k.[^1-6] étude de projet du tunnel multifonctionnel du Grimsel en coordination avec le projet de réseau de Swissgrid;
+- l.[^1-7] premières mesures de réparation pour réduire les effets négatifs de l’horaire 2025 en Suisse romande;
+- m.[^1-8] Zurich-Coire: extension de capacité (étude du projet de doublement de la voie à Tiefenwinkel).
 
 <sup>3</sup>
 
@@ -107,6 +111,15 @@ Le Conseil fédéral soumet un message à l’Assemblée fédérale d’ici à 2
 - f. élimination des goulets d’étranglement et densification de l’offre dans le trafic d’agglomération et le trafic régional et accès aux régions touristiques.
 
 <sup>4</sup> Si les moyens prévus pour les mesures visées à l’al. 2 ne sont pas totalement utilisés, l’Assemblée fédérale peut décider de mettre en œuvre les mesures visées à l’al. 3 de manière anticipée. Une réaffectation de moyens est possible si la mesure visée à l’al. 3 est suffisamment avancée et que les autres phases du projet risquent d’être mises en péril par un manque de moyens.
+
+[^1-1]: Nouvelle teneur selon le ch. I 2 de l’AF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 338](https://fedlex.data.admin.ch/eli/oc/2024/338); [FF 2023 2061](https://fedlex.data.admin.ch/eli/fga/2023/2061)).
+[^1-2]: Introduit par le ch. I 2 de l’AF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 338](https://fedlex.data.admin.ch/eli/oc/2024/338); [FF 2023 2061](https://fedlex.data.admin.ch/eli/fga/2023/2061)).
+[^1-3]: Nouvelle teneur selon le ch. I 2 de l’AF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 338](https://fedlex.data.admin.ch/eli/oc/2024/338); [FF 2023 2061](https://fedlex.data.admin.ch/eli/fga/2023/2061)).
+[^1-4]: Nouvelle teneur selon le ch. I 2 de l’AF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 338](https://fedlex.data.admin.ch/eli/oc/2024/338); [FF 2023 2061](https://fedlex.data.admin.ch/eli/fga/2023/2061)).
+[^1-5]: Nouvelle teneur selon le ch. I 2 de l’AF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 338](https://fedlex.data.admin.ch/eli/oc/2024/338); [FF 2023 2061](https://fedlex.data.admin.ch/eli/fga/2023/2061)).
+[^1-6]: Introduite par le ch. I 2 de l’AF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 338](https://fedlex.data.admin.ch/eli/oc/2024/338); [FF 2023 2061](https://fedlex.data.admin.ch/eli/fga/2023/2061)).
+[^1-7]: Introduite par le ch. I 2 de l’AF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 338](https://fedlex.data.admin.ch/eli/oc/2024/338); [FF 2023 2061](https://fedlex.data.admin.ch/eli/fga/2023/2061)).
+[^1-8]: Introduite par le ch. I 2 de l’AF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 338](https://fedlex.data.admin.ch/eli/oc/2024/338); [FF 2023 2061](https://fedlex.data.admin.ch/eli/fga/2023/2061)).
 
 #### Art. 2
 
