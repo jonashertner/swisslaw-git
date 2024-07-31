@@ -4,13 +4,13 @@ number: "412.11"
 title: Schulgesetz
 short: SchulG
 language: de
-version: 2024-01-01
-valid_until: 2024-07-31
+version: 2024-08-01
+valid_until: 2025-07-31
 version_adopted: 2024-01-25
 adopted: 1990-09-27
 in_force: 1991-08-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/412.11"
-pdf: "https://bgs.zg.ch/api/de/versions/2554/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2555/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.zg.ch/api/de/versions/2554/pdf_file"
 
 (SchulG)
 
-Vom 27. September 1990 (Stand 1. Januar 2024)
+Vom 27. September 1990 (Stand 1. August 2024)
 
 Der Kantonsrat des Kantons Zug,
 
@@ -41,9 +41,7 @@ beschliesst:
 
 #### § 2
 
-**Männliche bzw. weibliche Bezeichnungen**
-
-<sup>1</sup> Wo dieses Gesetz für Personen und Funktionsträger männliche bzw. weibliche Bezeichnungen verwendet, gelten diese für beide Geschlechter.
+**…**
 
 #### § 3
 
@@ -53,7 +51,7 @@ beschliesst:
 
 <sup>2</sup> In diesem Sinne fördert sie die geistig-seelische wie auch die körperliche Entwicklung der Kinder und ist bestrebt, diese nach demokratischen und christlichen Grundsätzen zu selbstständigen, lebensfrohen, charaktervollen Menschen zu erziehen, die der Gemeinschaft und der Umwelt gegenüber verantwortungsbewusst handeln.
 
-<sup>3</sup> Die Schule vermittelt den Schülern Kenntnisse, Fähigkeiten, Fertigkeiten sowie Werthaltungen für ihre persönliche und berufliche Zukunft; sie fördert deren Fachkompetenzen sowie deren Lern-, Selbst- und Sozialkompetenzen. Bildung ist auf lebenslanges Lernen ausgerichtet.
+<sup>3</sup> Die Schule vermittelt den Schülerinnen und Schülern Kenntnisse, Fähigkeiten, Fertigkeiten sowie Werthaltungen für ihre persönliche und berufliche Zukunft; sie fördert deren Fachkompetenzen sowie deren Lern-, Selbst- und Sozialkompetenzen. Bildung ist auf lebenslanges Lernen ausgerichtet.
 
 #### § 4
 
@@ -61,7 +59,7 @@ beschliesst:
 
 <sup>1</sup> Träger der Schulen sind die Gemeinden, der Kanton oder Dritte.
 
-<sup>2</sup> Gemeinden und Kanton können die ihnen gemäss Gesetz zugewiesene Führung von Schulen in besonderen Fällen ganz oder teilweise an Dritte übertragen. Dazu sind Vereinbarungen abzuschliessen, die es Zuger Schülern ermöglichen, diese Schulen ohne Bezahlung eines Schulgeldes zu besuchen.
+<sup>2</sup> Gemeinden und Kanton können die ihnen gemäss Gesetz zugewiesene Führung von Schulen in besonderen Fällen ganz oder teilweise an Dritte übertragen. Dazu sind Vereinbarungen abzuschliessen, die es Zuger Schülerinnen und Schülern ermöglichen, diese Schulen ohne Bezahlung eines Schulgelds zu besuchen.
 
 #### § 5
 
@@ -73,9 +71,9 @@ beschliesst:
 
 <sup>3</sup> Sie kann in einer öffentlich-rechtlichen, einer anerkannten privaten Schule oder durch Privatschulung erfüllt werden. Für die Privatschulung gilt zusätzlich § 74 Abs. 2 dieses Gesetzes.
 
-<sup>3a</sup> Die Erziehungsberechtigten haben den Rektor zu informieren, wenn sie ihr Kind nicht an einer öffentlich-rechtlichen Schule unterrichten lassen.
+<sup>3a</sup> Die Erziehungsberechtigten haben die Rektorin oder den Rektor zu informieren, wenn sie ihr Kind nicht an einer öffentlich-rechtlichen Schule unterrichten lassen.
 
-<sup>4</sup> In besonderen Fällen kann ein Schüler auf Gesuch der Erziehungsberechtigten oder einer zuständigen Behörde vorzeitig aus der Schulpflicht entlassen werden.
+<sup>4</sup> In besonderen Fällen kann eine Schülerin oder ein Schüler auf Gesuch der Erziehungsberechtigten oder einer zuständigen Behörde vorzeitig aus der Schulpflicht entlassen werden.
 
 #### § 6
 
@@ -117,19 +115,17 @@ beschliesst:
 
 **Schulort**
 
-<sup>1</sup> Schulort ist der Aufenthaltsort des Schülers.
+<sup>1</sup> Schulort ist der Aufenthaltsort der Schülerin oder des Schülers.
 
 <sup>2</sup> Liegen besondere Gründe vor, kann der Besuch der öffentlichen Schule in einer anderen Gemeinde und damit die Übernahme des Schulgelds zu Lasten der Aufenthaltsgemeinde bewilligt werden. Die Gemeinden einigen sich über die Höhe des Schulgelds.
 
-<sup>3</sup> Wenn eine der beiden Gemeinden ausserhalb des Kantons Zug liegt, bedarf eine vertragliche Abmachung der Zustimmung des Regierungsrates. Der Kanton gewährt der Gemeinde pro Schüler einen Beitrag in der Höhe der Normpauschale gemäss Lehrpersonalgesetz[^9-1].
-
-[^9-1]: BGS [412.31](https://bgs.zg.ch/data/412.31/de)
+<sup>3</sup> Wenn eine der beiden Gemeinden ausserhalb des Kantons Zug liegt, bedarf eine vertragliche Abmachung der Zustimmung des Regierungsrats. Der Kanton gewährt der Gemeinde pro Schülerin bzw. Schüler einen Beitrag in der Höhe der Normpauschale.
 
 #### § 10
 
 **Schuljahr**
 
-<sup>1</sup> Das Schuljahr beginnt am ersten Montag nach dem 15. August und dauert für die Schüler mindestens 38 Wochen.
+<sup>1</sup> Das Schuljahr beginnt am ersten Montag nach dem 15. August und dauert für die Schülerinnen und Schüler mindestens 38 Wochen.
 
 <sup>2</sup> Für alle öffentlich-rechtlichen Schulen gelten die gleichen Schulferiendaten.
 
@@ -139,7 +135,7 @@ beschliesst:
 
 **Unterrichtspflichtpensum**
 
-<sup>1</sup> Für die Schüler gilt das für die jeweilige Schulstufe festgelegte wöchentliche Unterrichtspflichtpensum.
+<sup>1</sup> Für die Schülerinnen und Schüler gilt das für die jeweilige Schulstufe festgelegte wöchentliche Unterrichtspflichtpensum.
 
 <sup>2</sup> …
 
@@ -251,7 +247,7 @@ beschliesst:
 
 <sup>2</sup> Diese Schulversuche müssen befristet sein, begleitet und ausgewertet werden. Die Erziehungsberechtigen sind über diese Versuche zu informieren.
 
-<sup>3</sup> Für die Schüler muss der Übertritt in höhere Stufen gewährleistet sein.
+<sup>3</sup> Für die Schülerinnen und Schüler muss der Übertritt in höhere Stufen gewährleistet sein.
 
 <sup>4</sup> Wenn einer Gemeinde aus einem Schulversuch Mehrkosten entstehen, kann sich der Kanton an den Kosten beteiligen, sofern der Versuch im kantonalen Interesse liegt. Wurde der Schulversuch durch den Kanton veranlasst, so hat dieser die Mehrkosten zu tragen.
 
@@ -267,13 +263,13 @@ beschliesst:
 
 #### § 17
 
-**Schülerbeurteilung und Promotion**
+**Beurteilung der Schülerin und des Schülers sowie Promotion**
 
-<sup>1</sup> Jeder Schüler ist vom Lehrer zu beurteilen.
+<sup>1</sup> Jede Schülerin und jeder Schüler ist von der Lehrperson zu beurteilen.
 
 <sup>2</sup> Ab dem 1. Semester der 2. Primarklasse hat die Beurteilung auch in Form von Leistungsnoten in Ziffern zu erfolgen.
 
-<sup>3</sup> Zur Schülerbeurteilung und Promotion gelten besondere Bestimmungen[^17-1].
+<sup>3</sup> Zur Beurteilung der Schülerin und des Schülers sowie zur Promotion gelten besondere Bestimmungen[^17-1].
 
 <sup>4</sup> …
 
@@ -287,7 +283,7 @@ beschliesst:
 
 <sup>2</sup> Für bestimmte Leistungen und Aufwendungen können Elternbeiträge erhoben werden.
 
-<sup>3</sup> Ausserkantonale Schüler haben für den Besuch an kantonalen Schulen ein Schulgeld zu bezahlen.
+<sup>3</sup> Ausserkantonale Schülerinnen und Schüler haben für den Besuch an kantonalen Schulen ein Schulgeld zu bezahlen.
 
 #### § 19
 
@@ -303,7 +299,7 @@ beschliesst:
 
 <sup>2</sup> Sie können zusätzlich zu den im Lehrplan enthaltenen Fächern Schulsport, Schultheater oder Kurse im handwerklich-musischen Bereich anbieten.
 
-<sup>3</sup> Sie haben den Schülern während der Winterferien eine Sportwoche anzubieten.
+<sup>3</sup> Sie haben den Schülerinnen und Schülern während der Winterferien eine Sportwoche anzubieten.
 
 <sup>4</sup> An die Kosten der zusätzlichen Schulangebote leistet der Kanton vorbehältlich der Bestimmungen des Lehrpersonalgesetzes[^19-1] keine Beiträge.
 
@@ -313,12 +309,12 @@ beschliesst:
 
 **Rechte der Erziehungsberechtigten**
 
-<sup>1</sup> Die Erziehungsberechtigten sind berechtigt, im Rahmen der Fähigkeiten ihres Kindes und unter Berücksichtigung seiner Neigungen den Ausbildungsgang zu bestimmen.
+<sup>1</sup> Die Erziehungsberechtigten sind berechtigt, im Rahmen der Fähigkeiten ihres Kindes und unter Berücksichtigung seiner Neigungen den Ausbildungsgang mitzubestimmen.
 
 <sup>2</sup> Sie haben insbesondere Anspruch darauf,
 
 - a) von der Schule alle Informationen zu erhalten, die zur Erfüllung ihrer elterlichen Rechte und Pflichten notwendig sind;
-- b) nach Absprache mit dem Lehrer Einzelgespräche zu führen und Schulbesuche zu machen;
+- b) nach Absprache mit der Lehrperson Einzelgespräche zu führen und Schulbesuche zu machen;
 - c) über Anordnungen, die ihr Kind betreffen, von der zuständigen Instanz benachrichtigt zu werden;
 - d) in die bewerteten Leistungen des eigenen Kindes Einsicht zu nehmen;
 - e) über Besonderheiten des Unterrichts, neue Unterrichtsformen und -gegenstände, neue Lehrmittel und -methoden, Schulversuche und Reformen rechtzeitig und angemessen informiert zu werden.
@@ -333,7 +329,7 @@ beschliesst:
 
 **Pflichten der Erziehungsberechtigten**
 
-<sup>1</sup> Die Erziehungsberechtigten sind verpflichtet, ihr Kind zum regelmässigen Schulbesuch und zur Befolgung von Anordnungen des Lehrers und der Schulbehörden anzuhalten.
+<sup>1</sup> Die Erziehungsberechtigten sind verpflichtet, ihr Kind zum regelmässigen Schulbesuch und zur Befolgung von Anordnungen der Lehrperson und der Schulbehörden anzuhalten.
 
 <sup>2</sup> Sie haben ihrem Kind die nötige Zeit zur Erledigung der Hausaufgaben einzuräumen.
 
@@ -345,21 +341,21 @@ beschliesst:
 
 #### § 22
 
-**Rechte der Schüler**
+**Rechte der Schülerinnen und Schüler**
 
-<sup>1</sup> Die Schüler sind entsprechend ihren Fähigkeiten und Neigungen angemessen auszubilden und gerecht und wohlwollend zu behandeln.
+<sup>1</sup> Die Schülerinnen und Schüler sind entsprechend ihren Fähigkeiten und Neigungen angemessen auszubilden. Sie sind gerecht und wohlwollend zu behandeln.
 
 <sup>2</sup> Sie sind insbesondere berechtigt, die Schuldienste zu benützen und entsprechend ihrem Alter, dem Stand ihrer Ausbildung und der Urteilsfähigkeit den Schulalltag angemessen mitzugestalten.
 
-<sup>3</sup> Sie sind persönlich anzuhören, wenn gegen sie ein Disziplinarverfahren eingeleitet wird. Ebenso haben die zuständigen Lehrer und Schulbehörden ihre eingereichten Begehren zu behandeln.
+<sup>3</sup> Sie sind persönlich anzuhören, wenn gegen sie ein Disziplinarverfahren eingeleitet wird. Ebenso haben die zuständigen Lehrpersonen und Schulbehörden ihre eingereichten Begehren zu behandeln.
 
 #### § 23
 
-**Pflichten der Schüler**
+**Pflichten der Schülerinnen und der Schüler**
 
-<sup>1</sup> Die Schüler sind verpflichtet, den Unterricht vorschriftsgemäss zu besuchen, aktiv mitzuarbeiten und den Weisungen des Lehrers nachzukommen.
+<sup>1</sup> Die Schülerinnen und Schüler sind verpflichtet, den Unterricht vorschriftsgemäss zu besuchen, aktiv mitzuarbeiten und den Weisungen der Lehrperson nachzukommen.
 
-<sup>2</sup> Die Schüler haben den Lehrern und den Mitschülern mit Anstand zu begegnen.
+<sup>2</sup> Die Schülerinnen und Schüler haben den Lehrpersonen sowie den Mitschülerinnen und Mitschülern mit Anstand zu begegnen.
 
 #### § 23a
 
@@ -367,7 +363,7 @@ beschliesst:
 
 <sup>1</sup> Soweit dieses Gesetz nichts anderes regelt, gelten die Bestimmungen des Datenschutzgesetzes.
 
-<sup>2</sup> Administrative Daten von Schülern können zwischen den abgebenden und übernehmenden Schulleitungsmitgliedern, Lehrpersonen und Fachpersonen der Schuldienste weitergegeben werden.
+<sup>2</sup> Administrative Daten von Schülerinnen und Schülern können zwischen den abgebenden und übernehmenden Schulleitungsmitgliedern, Lehrpersonen und Fachpersonen der Schuldienste weitergegeben werden.
 
 <sup>3</sup> Die Information über die Tatsache des Besuchs von Logopädie- oder Psychomotoriktherapien und von Abklärungen beim Schulpsychologischen Dienst kann zwischen den abgebenden und übernehmenden Schulleitungsmitgliedern und Lehrpersonen weitergegeben werden, sofern diese Therapien und Abklärungen noch nicht oder seit weniger als drei Jahren abgeschlossen sind und die Information darüber für die Aufgabenerfüllung erforderlich ist.
 
@@ -376,6 +372,8 @@ beschliesst:
 <sup>5</sup> Weitere schulrelevante Daten können zwischen den abgebenden und übernehmenden Schulleitungsmitgliedern, Lehrpersonen und Fachpersonen der Schuldienste weitergegeben werden, soweit diese Daten für die Aufgabenerfüllung erforderlich sind und die Erziehungsberechtigten die Weitergabe nicht ausgeschlossen haben.
 
 <sup>6</sup> Alle übrigen Datenbekanntgaben benötigen die Zustimmung der Erziehungsberechtigten.
+
+<sup>7</sup> Der Kanton darf Daten für das Bildungsmonitoring erheben.
 
 #### § 23b
 
@@ -391,13 +389,13 @@ beschliesst:
 
 **Disziplinarmassnahmen**
 
-<sup>1</sup> Gegen Schüler, deren Verhalten zu Beanstandungen Anlass gibt, können Disziplinarmassnahmen angeordnet werden.
+<sup>1</sup> Gegen Schülerinnen und Schüler, deren Verhalten zu Beanstandungen Anlass gibt, können Disziplinarmassnahmen angeordnet werden.
 
 <sup>2</sup> Sie sollen erzieherisch sinnvoll sein, dürfen die Würde des Menschen nicht verletzen und sollen nicht im Affekt vollzogen werden.
 
-<sup>3</sup> Einem Schüler kann der Ausschluss aus der Schule angedroht werden. Er kann befristet oder unbefristet von der Schule ausgeschlossen werden.
+<sup>3</sup> Einer Schülerin oder einem Schüler kann der Ausschluss aus der Schule angedroht werden. Sie oder er kann befristet oder unbefristet von der Schule ausgeschlossen werden.
 
-<sup>4</sup> Ist der Ausschluss befristet, ist durch geeignete Massnahmen die Wiedereingliederung in die gemeindliche Schule sicherzustellen. Ist er unbefristet, ist dafür zu sorgen, dass der Schüler an einer anderen Schule unterrichtet wird.
+<sup>4</sup> Ist der Ausschluss befristet, ist durch geeignete Massnahmen die Wiedereingliederung in die gemeindliche Schule sicherzustellen. Ist er unbefristet, ist dafür zu sorgen, dass die Schülerin oder der Schüler an einer anderen Schule unterrichtet wird.
 
 ### 2.2. Gemeindliche Schulen
 
@@ -451,15 +449,15 @@ beschliesst:
 
 <sup>1</sup> Die Sekundarstufe I gliedert sich in die Werk-, Real- und Sekundarschule sowie die ersten zwei Jahre des 6-jährigen Gymnasiums.
 
-<sup>2</sup> Die Werkschule ist für lernbehinderte Kinder bestimmt, die die Anforderungen der Realschule nicht erfüllen. Die Gemeinden können lernbehinderte Kinder auch in die Realschule integrieren.
+<sup>2</sup> Die Werkschule ist für Kinder mit einer Lernbehinderung oder kognitiven Beeinträchtigungen mit Lern- und Leistungsschwierigkeiten in der Auswirkung einer Lernbehinderung bestimmt, welche die Anforderungen der Realschule nicht erfüllen. Sie bildet in der Regel die Basis für die zweijährige Berufslehre. Die Gemeinden können diese Kinder auch in die Realschule integrieren.
 
-<sup>3</sup> Die Realschule bereitet die Schüler auf eine Berufslehre vor.
+<sup>3</sup> Die Realschule bereitet die Schülerinnen und Schüler auf eine Berufslehre vor.
 
-<sup>4</sup> Die Sekundarschule bereitet die Schüler auf eine Berufslehre oder auf eine weitere schulische Ausbildung vor.
+<sup>4</sup> Die Sekundarschule bereitet die Schülerinnen und Schüler auf eine Berufslehre oder auf eine weitere schulische Ausbildung vor.
 
 <sup>5</sup> Für das Verfahren über die Zuweisung in die einzelnen Schularten gelten besondere Bestimmungen[^30-1].
 
-<sup>6</sup> Für den Wechsel zwischen den Schularten gelten besondere Bestimmungen. Der Übertritt begabter Schüler in das 6-jährige Gymnasium ist durch gezielte Massnahmen zu gewährleisten.
+<sup>6</sup> Für den Wechsel zwischen den Schularten gelten besondere Bestimmungen. Der Übertritt begabter Schülerinnen und Schüler in das 6-jährige Gymnasium ist durch gezielte Massnahmen zu gewährleisten.
 
 [^30-1]: BGS [412.114](https://bgs.zg.ch/data/412.114/de)
 
@@ -481,7 +479,7 @@ beschliesst:
 
 **Andere Organisationsformen**
 
-<sup>1</sup> Sofern eine sinnvolle Gliederung in die Werk-, Real- und Sekundarschule nicht möglich ist, kann einer Gemeinde bewilligt werden, Klassen ohne Aufteilung in diese Schularten zu bilden. Diese Klassen sind mit Niveaukursen entsprechend der kooperativen Oberstufe oder mit leistungsdifferenziertem Unterricht im Klassenverband sowie mit besonderer Förderung durch Schulische Heilpädagogen zu führen.
+<sup>1</sup> Die Gemeinden sind berechtigt, Klassen ohne Aufteilung in die Schularten Werk-, Real- und Sekundarschule zu bilden. Diese Klassen sind mit Niveaukursen entsprechend der kooperativen Oberstufe oder mit leistungsdifferenziertem Unterricht im Klassenverband sowie mit besonderer Förderung durch Schulische Heilpädagoginnen oder Heilpädagogen zu führen.
 
 #### § 32bis
 
@@ -493,9 +491,9 @@ beschliesst:
 
 <sup>1</sup> Die Gemeinden sind berechtigt, schulartenübergreifende Kunst- und Sportklassen für besonders begabte Jugendliche zur Vorbereitung auf eine Laufbahn im musischen Bereich oder auf den Spitzensport mit angepassten schulorganisatorischen Rahmenbedingungen zu führen.
 
-<sup>2</sup> Der Kanton entrichtet der Gemeinde für ausserkantonale Schüler die Normpauschale der Sekundarstufe I.
+<sup>2</sup> Der Kanton entrichtet der Gemeinde für ausserkantonale Schülerinnen und Schüler die Normpauschale der Sekundarstufe I.
 
-<sup>3</sup> Der Kanton und die Gemeinde regeln den Anteil des Kantons am Schulgeld ausserkantonaler Schüler.
+<sup>3</sup> Der Kanton und die Gemeinde regeln den Anteil des Kantons am Schulgeld ausserkantonaler Schülerinnen und Schüler.
 
 ### 2.2.3a Freiwillige Grund- oder Basisstufe
 
@@ -528,6 +526,8 @@ beschliesst:
 
 <sup>2</sup> …
 
+<sup>2a</sup> Alle Gemeinden verfügen über ein Konzept zum Umgang mit Schülerinnen und Schülern mit Verhaltensauffälligkeiten. Das Konzept umfasst ergänzend zu integrativen Unterstützungsmassnahmen auch ein Angebot zur kurz- und mittelfristigen Separation.
+
 #### § 33bis
 
 **Besondere Förderung**
@@ -536,9 +536,9 @@ beschliesst:
 
 <sup>2</sup> Die besondere Förderung ist in erster Linie innerhalb der Regelklasse sowie klassen- und stufenübergreifend anzubieten. Es können auch Kleinklassen geführt werden.
 
-<sup>3</sup> Bei der besonderen Förderung lernbehinderter oder verhaltensauffälliger Kinder innerhalb der Regelklasse unterstützt ein Schulischer Heilpädagoge den Unterricht.
+<sup>3</sup> Bei der besonderen Förderung lernbehinderter oder verhaltensauffälliger Kinder innerhalb der Regelklasse unterstützt eine Schulische Heilpädagogin oder ein Schulischer Heilpädagoge den Unterricht.
 
-<sup>4</sup> Über die besondere Förderung wird nach Anhören der Erziehungsberechtigten, der Klassenlehrperson und des Schulischen Heilpädagogen entschieden, über die Anordnung von laufbahnbestimmenden Massnahmen aufgrund einer Stellungnahme des Schulpsychologischen Dienstes.
+<sup>4</sup> Über die besondere Förderung wird nach Anhören der Erziehungsberechtigten, der Klassenlehrperson sowie der Schulischen Heilpädagogin oder des Schulischen Heilpädagogen entschieden, über die Anordnung von laufbahnbestimmenden Massnahmen aufgrund einer Stellungnahme des Schulpsychologischen Dienstes.
 
 <sup>5</sup> Es gelten besondere Bestimmungen[^33bis-1].
 
@@ -550,7 +550,7 @@ beschliesst:
 
 <sup>1</sup> Die Gemeinden sorgen dafür, dass Kinder, die aus intellektuellen, sozialen, psychischen, physischen Gründen in den gemeindlichen Schulen nicht angemessen gefördert werden können, eine entsprechende Sonderschulung erhalten.
 
-<sup>2</sup> Der Schulpsychologische Dienst trifft, allenfalls unter Beizug weiterer Fachpersonen, die notwendigen Abklärungen. Er bezieht alle Beteiligten, insbesondere den Rektor und die Erziehungsberechtigten, in eine Gesamtbeurteilung mit ein und stellt der Direktion für Bildung und Kultur Antrag für eine Mitfinanzierung.
+<sup>2</sup> Der Schulpsychologische Dienst trifft, allenfalls unter Beizug weiterer Fachpersonen, die notwendigen Abklärungen. Er bezieht alle Beteiligten, insbesondere die Rektorin oder den Rektor und die Erziehungsberechtigten, in eine Gesamtbeurteilung mit ein und stellt der Direktion für Bildung und Kultur Antrag für eine Mitfinanzierung.
 
 <sup>3</sup> Der Kanton entscheidet über die Mitfinanzierung der Sonderschulung.
 
@@ -568,7 +568,7 @@ beschliesst:
 
 <sup>2</sup> Für die Träger der Sonderschulen gelten die Leistungsvereinbarungen, die insbesondere deren Aufgaben in den Regelklassen der gemeindlichen Schulen und die finanzielle Abgeltung durch den Kanton regeln.
 
-<sup>3</sup> Die Wohnsitzgemeinde des entsprechenden Kindes trägt 50% der Kosten, die der Kanton für die Schüler aus der betreffenden Gemeinde gemäss Leistungsvereinbarung aufzuwenden hat. Lehnt die Direktion für Bildung und Kultur eine Mitfinanzierung ab, so hat die Gemeinde 100% der Kosten zu tragen.
+<sup>3</sup> Die Wohnsitzgemeinde des entsprechenden Kindes trägt 50 % der Kosten, die der Kanton für die Schülerinnen und Schüler aus der betreffenden Gemeinde gemäss Leistungsvereinbarung aufzuwenden hat. Lehnt die Direktion für Bildung und Kultur eine Mitfinanzierung ab, hat die Gemeinde 100 % der Kosten zu tragen.
 
 #### § 35
 
@@ -578,9 +578,9 @@ beschliesst:
 
 <sup>2</sup> Für die Träger der Sonderschulen gelten die Leistungsvereinbarungen, die insbesondere den Auftrag der Schulen und die finanzielle Abgeltung durch den Kanton regeln.
 
-<sup>3</sup> Die Wohnsitzgemeinde des entsprechenden Kindes trägt 50% der Kosten, die der Kanton für die Schüler aus der betreffenden Gemeinde gemäss Leistungsvereinbarung aufzuwenden hat. Lehnt die Direktion für Bildung und Kultur eine Mitfinanzierung ab, so hat die Gemeinde 100% der Kosten zu tragen.
+<sup>3</sup> Die Wohnsitzgemeinde des entsprechenden Kindes trägt 50 % der Kosten, die der Kanton für die Schülerinnen und Schüler aus der betreffenden Gemeinde gemäss Leistungsvereinbarung aufzuwenden hat. Lehnt die Direktion für Bildung und Kultur eine Mitfinanzierung ab, hat die Gemeinde 100 % der Kosten zu tragen.
 
-<sup>4</sup> Werden Schüler aus sozialen Gründen einer Privatschule zugewiesen, die nicht als Sonderschule im Sinne der entsprechenden interkantonalen Vereinbarung anerkannt ist, regelt die Gemeinde mit der Schule die Leistungsabgeltung im Sinne von § 36 dieses Gesetzes.
+<sup>4</sup> Werden Schülerinnen und Schüler aus sozialen Gründen einer Privatschule zugewiesen, die nicht als Sonderschule im Sinne der entsprechenden interkantonalen Vereinbarung anerkannt ist, regelt die Gemeinde mit der Schule die Leistungsabgeltung im Sinne von § 36 dieses Gesetzes.
 
 <sup>5</sup> …
 
@@ -614,9 +614,9 @@ beschliesst:
 
 <sup>2</sup> Der Kanton entscheidet nach der Konsultation von Fachpersonen über die Mitfinanzierung der Schulgeldkosten.
 
-<sup>3</sup> Die Wohnsitzgemeinde entscheidet über die Zuweisung eines Jugendlichen in Kenntnis des kantonalen Mitfinanzierungsentscheids.
+<sup>3</sup> Die Wohnsitzgemeinde entscheidet über die Zuweisung in Kenntnis des kantonalen Mitfinanzierungsentscheids.
 
-<sup>4</sup> Bei ausserkantonalen Schulen und Privatschulen trägt die Wohnsitzgemeinde des entsprechenden Jugendlichen 50% der Schulgeldkosten. Lehnt die Direktion für Bildung und Kultur eine Mitfinanzierung ab, so hat die Gemeinde 100% dieser Kosten zu tragen.
+<sup>4</sup> Bei ausserkantonalen Schulen und Privatschulen trägt die Wohnsitzgemeinde 50 % der Schulgeldkosten. Lehnt die Direktion für Bildung und Kultur eine Mitfinanzierung ab, hat die Gemeinde 100 % dieser Kosten zu tragen.
 
 ### 2.3.
 
@@ -657,16 +657,14 @@ beschliesst:
 <sup>1</sup> Die Gemeinden sind verpflichtet, folgende Schuldienste anzubieten:
 
 - a) Schulbibliothek;
-- b) Schularzt-Dienst;
-- c) Schulzahnarzt-Dienst;
+- b) Schulärztlicher Dienst;
+- c) Schulzahnärztlicher Dienst;
 - d) Logopädietherapie;
 - e) psychomotorische Therapie.
 
-<sup>2</sup> Die Personalaufwendungen für die Logopädietherapie und die psychomotorische Therapie werden vom Kanton mit der Normpauschale gemäss § 3 Abs. 1 des Gesetzes über das Dienstverhältnis und die Besoldung der Lehrpersonen an den gemeindlichen Schulen (Lehrpersonalgesetz)[^43-1] abgegolten.
+<sup>2</sup> Die Personalaufwendungen für die Logopädietherapie und die psychomotorische Therapie werden vom Kanton mit der Normpauschale abgegolten.
 
-<sup>3</sup> Für die Berechnung des Gemeindebeitrages an die Kosten der zahnärztlichen Behandlung können die dazu notwendigen Steuerdaten zum Reineinkommen und -vermögen oder zum steuerbaren Einkommen und Vermögen der Eltern verwendet werden.
-
-[^43-1]: BGS [412.31](https://bgs.zg.ch/data/412.31/de)
+<sup>3</sup> Für die Berechnung des Gemeindebeitrags an die Kosten der zahnärztlichen Behandlung können die dazu notwendigen Steuerdaten zum Reineinkommen und -vermögen oder zum steuerbaren Einkommen und Vermögen der Eltern verwendet werden. Nach erfolgter Einwilligung der Eltern können die Gemeinden für diesen Zweck mittels elektronischen Zugriffs im Abrufverfahren auf die Steuerdaten der kantonalen Steuerverwaltung zugreifen.
 
 #### § 44
 
@@ -681,7 +679,7 @@ beschliesst:
 
 <sup>2</sup> Für die Nutzung der Verkehrsinstruktion durch vom Kanton Zug anerkannte Privatschulen werden Gebühren erhoben. Deren Höhe richtet sich nach den für die Zuger Polizei massgebenden Rechtserlassen.
 
-### 2.5. Lehrer
+### 2.5. Lehrperson
 
 #### § 45
 
@@ -705,7 +703,7 @@ beschliesst:
 
 **Anstellung und Beschäftigungsbedingung**
 
-<sup>1</sup> Der Unterricht wird von Hauptlehrern, Lehrbeauftragten und Stellvertretern erteilt.
+<sup>1</sup> Der Unterricht wird von Klassenlehrpersonen, Fachlehrpersonen sowie von Stellvertreterinnen und Stellvertretern erteilt.
 
 <sup>1a</sup> Lehrpersonen haben der Anstellungsbehörde vor ihrer Anstellung, sofern eine solche tatsächlich in Frage kommt, und auf Verlangen während ihrer Beschäftigung einen aktuellen Sonderprivatauszug gemäss Art. 371a StGB[^46-1]) oder, bei ausländischen Lehrpersonen, ein gleichwertiges Dokument vorzulegen.
 
@@ -725,30 +723,30 @@ beschliesst:
 
 **Auftrag**
 
-<sup>1</sup> Der berufliche Auftrag des Lehrers richtet sich nach dem allgemeinen Bildungs- und Erziehungsauftrag und den Lehrplänen.
+<sup>1</sup> Der berufliche Auftrag der Lehrperson richtet sich nach dem allgemeinen Bildungs- und Erziehungsauftrag und den Lehrplänen.
 
 <sup>2</sup> Er umfasst die folgenden Teilbereiche:
 
 - a) Unterricht und Erziehung;
 - b) Planung, Vorbereitung, Organisation und Auswertung des Unterrichts;
-- c) Zusammenarbeit mit Erziehungsberechtigten, Schuldiensten, Schulischen Heilpädagogen und weiteren Fachpersonen;
-- d) Mitwirkung bei der Gestaltung des Schullebens und bei der Erfüllung organisatorischer Aufgaben der Schule, Zusammenarbeit im Lehrerkollegium und mit Schulbehörden;
+- c) Zusammenarbeit mit Erziehungsberechtigten, Schuldiensten, Schulischen Heilpädagoginnen und Heilpädagogen und weiteren Fachpersonen;
+- d) Mitwirkung bei der Gestaltung des Schullebens und bei der Erfüllung organisatorischer Aufgaben der Schule, Zusammenarbeit im Kollegium der Lehrpersonen und mit Schulbehörden;
 - e) Mitwirkung an der Qualitätsentwicklung der Schule;
 - f) regelmässige fachliche, methodisch-didaktische, pädagogische und psychologische Weiterbildung.
 
-<sup>3</sup> Der Lehrer trägt die Verantwortung für die ihm anvertrauten Schüler und sorgt für eine gute Schulatmosphäre.
+<sup>3</sup> Die Lehrperson trägt die Verantwortung für die ihr anvertrauten Schülerinnen und Schüler und sorgt für eine gute Schulatmosphäre.
 
-<sup>4</sup> Er erfüllt seinen Auftrag nach bestem Wissen und Gewissen unter Beachtung der gesetzlichen Vorgaben und der Weisungen der Schulbehörden. In diesem Rahmen ist die Methodenfreiheit gewährleistet.
+<sup>4</sup> Sie erfüllt ihren Auftrag nach bestem Wissen und Gewissen unter Beachtung der gesetzlichen Vorgaben und der Weisungen der Schulbehörden. In diesem Rahmen ist die Methodenfreiheit gewährleistet.
 
-<sup>5</sup> Er erteilt Hausaufgaben gemäss den besonderen Bestimmungen[^47-1].
+<sup>5</sup> Sie erteilt Hausaufgaben gemäss den besonderen Bestimmungen[^47-1].
 
 [^47-1]: BGS [412.112](https://bgs.zg.ch/data/412.112/de)
 
 #### § 48
 
-**Lehrerberatung**
+**Beratung der Lehrpersonen**
 
-<sup>1</sup> Die Gemeinden haben für die Junglehrerberatung besorgt zu sein.
+<sup>1</sup> Die Gemeinden haben für die Beratung der neu angestellten Lehrpersonen besorgt zu sein.
 
 <sup>2</sup> …
 
@@ -758,9 +756,9 @@ beschliesst:
 
 **Weiterbildung und Nachqualifikation**
 
-<sup>1</sup> Die Gemeinden unterstützen die Lehrer bei der Erfüllung ihrer Weiterbildungspflicht durch gemeindliche Veranstaltungen und finanzielle Beiträge an den Besuch von Kursen entsprechend dem Nutzen für die berufliche Tätigkeit.
+<sup>1</sup> Die Gemeinden unterstützen die Lehrpersonen bei der Erfüllung ihrer Weiterbildungspflicht durch gemeindliche Veranstaltungen und finanzielle Beiträge an den Besuch von Kursen entsprechend dem Nutzen für die berufliche Tätigkeit.
 
-<sup>2</sup> Der Kanton beteiligt sich zu 50% an den Kursgeldkosten und kann einen Beitrag an die Spesen gewähren, wenn der Bildungsrat für die Ausübung einer bestimmten Lehrtätigkeit eine Nachqualifikation für amtierende Lehrer anordnet.
+<sup>2</sup> Der Kanton beteiligt sich zu 50 % an den Kursgeldkosten und kann einen Beitrag an die Spesen gewähren, wenn der Bildungsrat für die Ausübung einer bestimmten Lehrtätigkeit eine Nachqualifikation für amtierende Lehrpersonen anordnet.
 
 #### § 50
 
@@ -778,7 +776,7 @@ beschliesst:
 
 **Mitverantwortung**
 
-<sup>1</sup> Die Lehrer tragen Mitverantwortung für das Schulwesen. Sie sind insbesondere berechtigt,
+<sup>1</sup> Die Lehrpersonen tragen Mitverantwortung für das Schulwesen. Sie sind insbesondere berechtigt,
 
 - a) in Gremien mitzuarbeiten;
 - b) eine Vertretung in die Schulkommission vorzuschlagen.
@@ -829,7 +827,7 @@ beschliesst:
 
 - a) er genehmigt die Schul- und Leitungsstruktur;
 - b) er trifft eine Leistungsvereinbarung mit der Schulleitung und überprüft deren Erfüllung;
-- c) er wählt den Rektor und bestimmt die Zuständigkeit für die Anstellung von Prorektoren, Schulleitern sowie von Lehrpersonen.
+- c) er wählt die Rektorin oder den Rektor und bestimmt die Zuständigkeit für die Anstellung von Prorektorinnen und Prorektoren, Schulleiterinnen und Schulleitern sowie von Lehrpersonen.
 
 <sup>2</sup> Er erstattet dem Bildungsrat jährlich Bericht über die Zielerreichung und Qualitätsentwicklung der Schule.
 
@@ -847,21 +845,21 @@ beschliesst:
 - b) erlässt eine Schul-, Disziplinar- und Absenzenordnung;
 - c) legt die Zeitgefässe für die Gestaltung und Weiterentwicklung der Schule sowie die schulinterne Weiterbildung fest;
 - d) legt die Unterrichtszeiten sowie die unterrichtsfreien Halbtage fest und bewilligt Ausnahmen für den schulfreien Mittwochnachmittag;
-- e) stellt Antrag betreffend Anstellung des Rektors und des Schularztes.
+- e) stellt Antrag betreffend Anstellung der Rektorin oder des Rektors sowie der Schulärztin oder des Schularztes.
 
-<sup>4</sup> Erziehungsberechtigte mit schulpflichtigen Kindern sind in der Schulkommission angemessen vertreten. Zudem gehören ihr der Rektor mit Antragsrecht und ein Vertreter der Lehrerschaft mit beratender Stimme an.
+<sup>4</sup> Erziehungsberechtigte mit schulpflichtigen Kindern sind in der Schulkommission angemessen vertreten. Zudem gehören ihr die Rektorin oder der Rektor mit Antragsrecht und eine Vertreterin oder ein Vertreter der Lehrerinnen- und Lehrerschaft mit beratender Stimme an.
 
 #### § 62
 
 **Schulpräsidium**
 
-<sup>1</sup> Der Schulpräsident überwacht den Vollzug der Gesetze, der Beschlüsse der kantonalen Schulbehörden und des Gemeinderates.
+<sup>1</sup> Die Schulpräsidentin oder der Schulpräsident überwacht den Vollzug der Gesetze, der Beschlüsse der kantonalen Schulbehörden und des Gemeinderats.
 
-<sup>2</sup> Er gehört dem Gemeinderat an und ist in dessen Vertretung Verbindungsorgan zwischen den gemeindlichen und kantonalen Schulbehörden. Er ist Vorgesetzter des Rektors.
+<sup>2</sup> Sie bzw. er gehört dem Gemeinderat an und ist in dessen Vertretung Verbindungsorgan zwischen den gemeindlichen und kantonalen Schulbehörden. Sie bzw. er ist Vorgesetzte oder Vorgesetzter der Rektorin oder des Rektors.
 
-<sup>3</sup> Er leitet die Sitzungen der Schulkommission. In dringenden Fällen handelt er für die Schulkommission und orientiert sie anschliessend über die getroffenen Massnahmen.
+<sup>3</sup> Sie bzw. er leitet die Sitzungen der Schulkommission. In dringenden Fällen handelt sie bzw. er für die Schulkommission und orientiert diese anschliessend über die getroffenen Massnahmen.
 
-<sup>4</sup> Die Direktion für Bildung und Kultur arbeitet mit der Konferenz der gemeindlichen Schulpräsidenten zusammen.
+<sup>4</sup> Die Direktion für Bildung und Kultur arbeitet mit der Konferenz der gemeindlichen Schulpräsidentinnen und Schulpräsidenten zusammen.
 
 #### § 63
 
@@ -869,32 +867,32 @@ beschliesst:
 
 <sup>1</sup> Jede Gemeinde hat eine Schulleitung, die für die personelle, pädagogische, organisatorische sowie administrative Führung der Schule (operative Führung) zuständig ist.
 
-<sup>2</sup> Sie setzt sich aus dem Rektor und den Schulleitern zusammen. Zur Unterstützung des Rektors können Prorektoren eingesetzt werden.
+<sup>2</sup> Sie setzt sich aus der Rektorin oder dem Rektor sowie den Schulleiterinnen und Schulleitern zusammen. Zur Unterstützung der Rektorin oder des Rektors können Prorektorinnen und Prorektoren eingesetzt werden.
 
 <sup>3</sup> Die Schulleitung hat insbesondere folgende Aufgaben:
 
 - a) sie stellt die Informationen inner- und ausserhalb der Schule sicher;
 - b) sie arbeitet mit Elternorganisationen zusammen;
-- c) sie wirkt bei den Zielsetzungen und Inhalten für die Lehrerweiterbildungsangebote mit.
+- c) sie wirkt bei den Zielsetzungen und Inhalten für die Angebote der Lehrpersonenweiterbildung mit.
 
-<sup>4</sup> Der Rektor steht der Schulleitung vor. Er ist für die operative Führung verantwortlich und hat insbesondere folgende Aufgaben: Er
+<sup>4</sup> Die Rektorin oder der Rektor steht der Schulleitung vor. Sie bzw. er ist für die operative Führung verantwortlich und hat insbesondere folgende Aufgaben: Sie bzw. er
 
 - a) ist für die Erfüllung der vom Gemeinderat übertragenen Aufgaben, die Umsetzung des Qualitätsentwicklungskonzeptes, die Durchführung der internen Evaluation der Schule und die Festlegung von Qualitätsmassnahmen verantwortlich;
-- b) berät den Schulpräsidenten und die Schulkommission;
+- b) berät die Schulpräsidentin oder den Schulpräsidenten und die Schulkommission;
 - c) erteilt Weisungen zur Erarbeitung der Stundenpläne;
-- d) stellt Antrag auf Ernennung von Schulleitern;
-- e) beurteilt die Schulleiter;
+- d) stellt Antrag auf Ernennung von Schulleiterinnen und Schulleitern;
+- e) beurteilt die Schulleiterinnen und Schulleiter;
 - f) bewilligt Gesuche für die Intensivweiterbildung;
 - g) bewilligt den Besuch der öffentlichen Schule in einer anderen Gemeinde;
-- h) entscheidet über die Promotion auf der Primarstufe, den früheren oder späteren Übertritt von der Kindergartenstufe in die Primarstufe bzw. von der Grund- oder Basisstufe in die daran anschliessende Primarklasse, die Niveauwechsel sowie den Wechsel der Schulart auf der Sekundarstufe I;
+- h) entscheidet über den früheren oder späteren Schuleintritt, die Promotion auf der Primarstufe, den früheren oder späteren Übertritt von der Kindergartenstufe in die Primarstufe bzw. von der Grund- oder Basisstufe in die daran anschliessende Primarklasse, die Niveauwechsel sowie den Wechsel der Schulart auf der Sekundarstufe I;
 - i) entscheidet über die Androhung eines Schulausschlusses, über einen befristeten und unbefristeten Schulausschluss und die notwendigen Massnahmen zur Wiedereingliederung in der gemeindlichen bzw. einer anderen Schule;
 - j) entscheidet über die besondere Förderung und die Zuweisung in eine Kleinklasse;
 - k) entscheidet über die Zuweisung zur Sonderschulung und zur Talentförderung;
 - l) entscheidet über die vorzeitige Entlassung aus der Schulpflicht.
 
-<sup>5</sup> Der Schulleiter steht einer Schuleinheit vor. Er ist in seinem Zuständigkeitsbereich für die Beurteilung und Weiterentwicklung der Unterrichts- und Schulqualität verantwortlich. Er beurteilt die Auftragserfüllung der ihm zugeteilten Lehrer.
+<sup>5</sup> Die Schulleiterin oder der Schulleiter steht einer Schuleinheit vor. Sie bzw. er ist in ihrem bzw. seinem Zuständigkeitsbereich für die Beurteilung und Weiterentwicklung der Unterrichts- und Schulqualität verantwortlich. Sie bzw. er beurteilt die Auftragserfüllung der ihr bzw. ihm zugeteilten Lehrpersonen.
 
-<sup>6</sup> Das Amt für gemeindliche Schulen arbeitet mit der Konferenz der Rektoren der gemeindlichen Schulen zusammen.
+<sup>6</sup> Das Amt für gemeindliche Schulen arbeitet mit der Konferenz der Rektorinnen und Rektoren der gemeindlichen Schulen zusammen.
 
 ### 2.6.2. Kantonale Schulbehörden und Organe
 
@@ -915,11 +913,11 @@ beschliesst:
 - f1) …
 - g) entscheidet über die an anerkannte Privatschulen zu gewährenden Beiträge;
 - h) entscheidet über die finanzielle Hilfe an die Auslandschweizerschule;
-- i) legt das wöchentliche Unterrichtspflichtpensum der Schüler fest;
+- i) legt das wöchentliche Unterrichtspflichtpensum der Schülerinnen und Schüler fest;
 - j) legt jene Leistungen und Aufwendungen fest, für die Elternbeiträge erhoben werden können;
 - k) legt fest, in welchen Fächern der kooperativen Oberstufe Niveaukurse geführt werden;
 - l) entscheidet über Beiträge an Zuger Studierende einer weiterführenden Schule oder einer Fachschule;[^64-1]
-- m) legt für ausserkantonale Schüler die Höhe der Schulgelder an kantonalen Schulen fest;
+- m) legt für ausserkantonale Schülerinnen und Schüler die Höhe der Schulgelder an kantonalen Schulen fest;
 - n) schliesst mit Dritten Vereinbarungen über die Ausbildung von Zuger Studierenden an weiterführenden Schulen ab;
 - o) legt die Gebühren für die Benutzung der kantonalen Schuldienste durch die Privatschulen fest:
 - p) kann mit einer kantonalen Elternorganisation eine Subventionsvereinbarung abschliessen.
@@ -930,7 +928,7 @@ beschliesst:
 
 **Bildungsrat**
 
-<sup>1</sup> Der Bildungsrat wird vom Regierungsrat auf Amtsdauer gewählt. Er setzt sich aus sieben Mitgliedern zusammen. Der Vorsteher oder die Vorsteherin der Direktion für Bildung und Kultur ist von Amtes wegen Präsident oder Präsidentin.
+<sup>1</sup> Der Bildungsrat wird vom Regierungsrat auf Amtsdauer gewählt. Er setzt sich aus sieben Mitgliedern zusammen. Die Vorsteherin oder der Vorsteher der Direktion für Bildung und Kultur ist von Amtes wegen Präsidentin oder Präsident.
 
 <sup>2</sup> Der Bildungsrat ist zuständig für strategische Entscheide im Bereich der obligatorischen Schulzeit. Soweit andere Behörden zuständig sind, stellt er Antrag.
 
@@ -950,7 +948,7 @@ beschliesst:
 
 <sup>3a</sup> Er erlässt besondere Bestimmungen
 
-- a) zur Schülerbeurteilung und Promotion;
+- a) zur Beurteilung der Schülerin und des Schülers sowie zur Promotion;
 - b) zu den Blockzeiten;
 - c) zur Zuweisung in die einzelnen Schularten und zum Wechsel zwischen den Schularten und den Niveaukursen auf der Sekundarstufe I;
 - d) zur besonderen Förderung;
@@ -985,7 +983,7 @@ beschliesst:
 - j) bewilligt die Überschreitung der Höchstzahl der Klassengrösse;
 - k) bewilligt die Führung der Sekundarstufe I ohne Aufteilung in Schularten;
 - l) entscheidet über die Mitfinanzierung bei einer Sonderschulung und bei einer Talentförderung;
-- k1) schliesst mit Gemeinden eine Vereinbarung über den Anteil des Kantons am Schulgeld ausserkantonaler Schüler von Kunst- und Sportklassen ab;
+- k1) schliesst mit Gemeinden eine Vereinbarung über den Anteil des Kantons am Schulgeld ausserkantonaler Schülerinnen und Schüler von Kunst- und Sportklassen ab;
 - m) entscheidet über die Dauer und Finanzierung bei einer heilpädagogischen Früherziehung;
 - n) entscheidet über die Anerkennung der Sonderschulen und Privatschulen sowie über Massnahmen und den Entzug der Anerkennung;
 - o) entscheidet über die Bewilligung von Privatschulung sowie über Massnahmen und den Entzug der Bewilligung;
@@ -1036,7 +1034,7 @@ beschliesst:
 
 <sup>4</sup> Die Höhe des Beitrages ist in der Regel so anzusetzen, dass die Studierenden aus dem Kanton Zug jenen des Standortkantons in Bezug auf das Schulgeld gleichgestellt sind.
 
-<sup>5</sup> Mit Dritten können über die Ausbildung von Zuger Studierenden an weiterführenden Schulen und die Leistungen an die Betriebskosten Vereinbarungen abgeschlossen werden. In diesen Vereinbarungen können entsprechend der Anzahl Zuger Schüler Betriebs-, nicht aber Baubeiträge festgelegt werden.
+<sup>5</sup> Mit Dritten können über die Ausbildung von Zuger Studierenden an weiterführenden Schulen und die Leistungen an die Betriebskosten Vereinbarungen abgeschlossen werden. In diesen Vereinbarungen können entsprechend der Anzahl Zuger Schülerinnen und Schüler Betriebs-, nicht aber Baubeiträge festgelegt werden.
 
 [^72-1]: Delegation an die Direktion für Bildung und Kultur für den Entscheid über Beiträge an Zuger Studierende einer weiterführenden Schule oder einer Fachschule (§ 5 Abs. 1 Ziff. 3 der Delegationsverordnung (DelV) vom 28. November 2017, BGS [153.3](https://bgs.zg.ch/data/153.3/de)).
 
@@ -1044,7 +1042,7 @@ beschliesst:
 
 **Hochschulen**
 
-<sup>1</sup> Der Kanton schafft die Voraussetzungen für den Zugang von Zuger Studenten zu den Hochschulen.
+<sup>1</sup> Der Kanton schafft die Voraussetzungen für den Zugang von Zuger Studierenden zu den Hochschulen.
 
 <sup>2</sup> Zu diesem Zweck beteiligt er sich an der Interkantonalen Vereinbarung über Hochschulbeiträge[^73-1].
 
@@ -1074,7 +1072,7 @@ beschliesst:
 
 <sup>4</sup> Der Unterricht an Privatschulen und bei der Privatschulung darf nur von Lehrpersonen erteilt werden, die im Besitz eines von der Schweizerischen Konferenz der kantonalen Erziehungsdirektoren oder eines von ihr anerkannten Diploms sind. Es können Ausnahmen bewilligt werden.
 
-<sup>5</sup> Die Privatschulen haben zu Beginn des Schuljahres und bei einem Neueintritt dem Rektor der Gemeinde, in der ein Kind schulpflichtig ist, die Personalien der ihre Schule besuchenden Kinder mitzuteilen.
+<sup>5</sup> Die Privatschulen haben zu Beginn des Schuljahres und bei einem Neueintritt der Rektorin oder dem Rektor der Gemeinde, in der ein Kind schulpflichtig ist, die Personalien der ihre Schule besuchenden Kinder mitzuteilen.
 
 <sup>6</sup> Privatschulen und Privatschulung für ausländische Kinder können anerkannt bzw. bewilligt werden, wenn der Unterricht nach den Lehrplänen des Herkunftslands erteilt wird.
 
@@ -1098,7 +1096,7 @@ beschliesst:
 
 - a) Missstände vorliegen;
 - b) gesetzliche Vorschriften sowie Weisungen kantonaler und gemeindlicher Behörden nicht beachtet werden;
-- c) das Lehrziel am Ende der obligatorischen Schulzeit nicht erreicht wird;
+- c) kein Unterricht gewährleistet wird, der den Anforderungen der öffentlich-rechtlichen Schulen gerecht wird;
 - d) der Unterricht aus andern Gründen gefährdet ist.
 
 <sup>2</sup> Sofern die Missstände nicht behoben werden, wird die Anerkennung bzw. Bewilligung entzogen.
@@ -1111,7 +1109,7 @@ beschliesst:
 
 <sup>2</sup> Anerkannten Privatschulen, die im Kanton Zug den Unterricht der obligatorischen Schulzeit anbieten, können Beiträge gewährt werden, um die Schulgeldbeiträge der Zuger Schülerinnen und Schüler zu reduzieren. Der Kantonsbeitrag pro Schülerin bzw. Schüler entspricht einer halben Normpauschale pro Schulkind.
 
-<sup>3</sup> Diese Schulen können die obligatorischen kantonalen Lehrmittel für die Zuger Schüler zu den gleichen Bedingungen beziehen wie die gemeindlichen Schulen.
+<sup>3</sup> Diese Schulen können die obligatorischen kantonalen Lehrmittel für die Zuger Schülerinnen und Schüler zu den gleichen Bedingungen beziehen wie die gemeindlichen Schulen.
 
 #### § 79
 
@@ -1167,20 +1165,20 @@ beschliesst:
 
 <sup>1</sup> Einsprache gemäss § 34 des Gesetzes über die Verwaltungsrechtspflege kann innert 10 Tagen seit der Mitteilung erhoben werden gegen
 
-- a) einzelne Beurteilungen im Semesterzeugnis und die Promotion oder Nichtpromotion in eine höhere Klasse beim Rektor. Der Entscheid ist endgültig, wenn die angefochtene Beurteilung keinen Einfluss auf die Promotion hat.
-- b) einzelne Beurteilungen im Abschlusszeugnis oder die Verweigerung des Diploms bei Mittelschulabschlussprüfungen bei der zuständigen Prüfungskommission. Der Entscheid ist endgültig, wenn die angefochtene Beurteilung keinen Einfluss auf die Abschlussprüfung hat.
+- a) einzelne Beurteilungen im Semesterzeugnis und die Promotion oder Nichtpromotion in eine höhere Klasse bei der Rektorin oder beim Rektor;
+- b) einzelne Beurteilungen im Abschlusszeugnis oder die Verweigerung des Diploms bei Mittelschulabschlussprüfungen bei der zuständigen Prüfungskommission.
 
 #### § 85
 
 **Verwaltungsbeschwerde**
 
-<sup>1</sup> In folgenden Fällen kann in Abweichung von § 83 dieses Gesetzes innert 10 Tagen seit der Mitteilung des erstinstanzlichen Entscheides Verwaltungsbeschwerde erhoben werden
+<sup>1</sup> In folgenden Fällen kann in Abweichung von § 83 dieses Gesetzes innert 10 Tagen seit der Mitteilung des erstinstanzlichen Entscheides Verwaltungsbeschwerde erhoben werden:
 
 - a) bei der Direktion für Bildung und Kultur betreffend
   - 1\. Bewilligung eines früheren oder späteren Schuleintritts;
   - 2\. Übertritt von der Kindergartenstufe in die Primarstufe;
   - 3\. Massnahmen zur besonderen Förderung;
-  - 4\. Zuweisung oder Nichtzuweisung zu einer Sonderschulung;
+  - 4\. Zuweisung oder Nichtzuweisung zu einer Sonderschulung oder zu einer Talentschulung;
   - 5\. Wechsel des Niveaus und der Schulart auf der Sekundarstufe I;
   - 6\. Bewilligung einer vorzeitigen Entlassung aus der Schulpflicht;
   - 7\. befristeten und unbefristeten Schulausschluss;
@@ -1189,7 +1187,7 @@ beschliesst:
   - 1\. Zuweisung in eine Schulart der Sekundarstufe I im Rahmen des Übertrittsverfahrens;
   - 2\. Einspracheentscheide gemäss § 84 Abs. 1 Bst. b dieses Gesetzes.
 
-<sup>2</sup> Die Schülerbeurteilung wird nur in Bezug auf Verfahrensfehler und Willkür überprüft.
+<sup>2</sup> Die Beurteilung der Schülerin oder des Schülers wird nur in Bezug auf Verfahrensfehler und Willkür überprüft.
 
 #### § 86
 
@@ -1203,49 +1201,23 @@ beschliesst:
 
 **Strafbestimmungen**
 
-<sup>1</sup> Soweit nicht Strafbestimmungen des Bundesrechts Anwendung finden, wird gemäss Übertretungsstrafgesetz[^87-1] bestraft:
+<sup>1</sup> Soweit nicht Strafbestimmungen des Bundesrechts Anwendung finden, wird gemäss Übertretungsstrafgesetz[^87-1] bestraft,
 
 - a) wer ein Kind an der Erfüllung der Schulpflicht hindert;
-- b) wer als gesetzlicher Vertreter ein Kind vorsätzlich oder fahrlässig nicht zum Schulbesuch oder zur Befolgung von Anordnungen der Schulbehörden anhält;
+- b) wer als gesetzliche Vertreterin oder gesetzlicher Vertreter ein Kind vorsätzlich oder fahrlässig nicht zum Schulbesuch oder zur Befolgung von Anordnungen der Schulbehörden anhält;
 - c) wer sonstwie diesem Gesetz oder dessen Ausführungsbestimmungen zuwiderhandelt.
 
-<sup>2</sup> Eine Anzeige an die zuständige kantonale Behörde erfolgt durch den Präsidenten der Schulkommission. In leichten Fällen kann dieser auf eine Anzeige verzichten.
+<sup>2</sup> Eine Anzeige an die zuständige kantonale Behörde erfolgt durch die Präsidentin oder den Präsidenten der Schulkommission oder durch die Schulleitung im Bereich der Privatschulen. In leichten Fällen kann auf eine Anzeige verzichtet werden.
 
 [^87-1]: BGS [312.1](https://bgs.zg.ch/data/312.1/de)
 
 #### § 88
 
-**Aufgehobene Erlasse**
-
-<sup>1</sup> Auf den Zeitpunkt des Inkrafttretens dieses Gesetzes werden folgende Erlasse aufgehoben:
-
-- a) das Schulgesetz für den Kanton Zug vom 31. Oktober 1968[^88-1];
-- b) das Gesetz betreffend Förderung freiwilliger Hauswirtschaftskurse vom 17. Dezember 1981[^88-2];
-- c) der Kantonsratsbeschluss über die Genehmigung der mit den zugerischen Seminaren und dem Evangelischen Lehrerseminar Zürich abgeschlossenen Verträge vom 17. September 1970[^88-3];
-- d) der Kantonsratsbeschluss über die Ausbildung von Zuger Lehramtskandidaten am Lehrerseminar St. Michael, Zug, vom 5. Juli 1973[^88-4];
-- e) der Kantonsratsbeschluss über die Ausbildung von Zuger Lehramtskandidaten an den Lehrerseminaren Bernarda Menzingen und Heiligkreuz Cham vom 28. November 1985[^88-5];
-- f) der Kantonsratsbeschluss über die Erhöhung der Studienbeiträge an die Lehramtskandidaten der Lehrerinnenseminare Bernarda Menzingen und Heiligkreuz Cham sowie des Evangelischen Lehrerseminars Zürich vom 5. Juli 1973[^88-6];
-- g) der Kantonsratsbeschluss betreffend Beiträge an ausserkantonale höhere Schulen vom 23. Februar 1978[^88-7].
-
-[^88-1]: GS 19, 481
-[^88-2]: GS 22, 197
-[^88-3]: GS 19, 775
-[^88-4]: GS 20, 319
-[^88-5]: GS 22, 719
-[^88-6]: GS 20, 321
-[^88-7]: GS 21, 115
+**…**
 
 #### § 89
 
-**Übergangsbestimmungen**
-
-<sup>1</sup> Änderung vom 17. Dezember 1998:
-
-- a) Diese Änderung tritt am 1. August 2000 in Kraft;
-- b) Die Einführung der neuen Organisationsform auf der Sekundarstufe I erfolgt gestaffelt ab dem 7. Schuljahr;
-- c) Der Regierungsrat kann den Gemeinden für die dreijährige Einführungsphase einen Stundenpool für die subventionsberechtigte Freistellung der am Projekt beteiligten Lehrpersonen bewilligen.
-
-<sup>2</sup> Änderung in Zusammenhang mit dem Beitritt zum Konkordat über die Pädagogische Hochschule Zentralschweiz vom 27. September 2001: Die Aufhebung von § 56 Abs. 3, § 57 und § 65 Abs. 3 Bst. e) tritt am 1. August 2006 in Kraft.
+**…**
 
 #### § 89bis
 
