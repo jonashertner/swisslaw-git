@@ -4,7 +4,7 @@ number: "400.02.1"
 title: RÈGLEMENT du 02.07.2012 d’application de la loi du 7 juin 2011 sur l’enseignement obligatoire (RLEO)
 short: RLEO
 language: fr
-version: 2023-01-01
+version: 2024-08-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/400.02.1?id=8e9502b1-5958-481c-91e9-f2a985e1c49c"
 ---
 
@@ -634,6 +634,12 @@ arrête
 
 - a. du début et de la fin des vacances ;
 - b. des manifestations prévisibles qui justifient une mise en congé des élèves.
+- c. des épreuves cantonales de référence, ainsi que des épreuves écrites et orales de l'examen de certificat ;
+- d. du premier jour d'école de l'année scolaire suivante ;
+- e. des activités de promotion de la santé et de prévention en milieu scolaire, au sens du règlement du 31 août 2011 sur la promotion de la santé et la prévention en milieu scolaire (ci-après : RPSPS). L'alinéa 1bis est réservé ;
+- f. des activités scolaires collectives hors bâtiment scolaire au sens de l'article 75 LEO. L'alinéa 1bis est réservé.
+
+<sup>1bis</sup> Si elles ne sont pas connues en début d'année scolaire, les dates des activités mentionnées à l'alinéa 1, lettres e et f, sont annoncées aux parents au plus tôt.
 
 <sup>2</sup> Deux journées pédagogiques peuvent être organisées par les établissements au cours de l'année scolaire. Elles ont lieu en principe le mercredi. Les élèves sont mis en congé.
 
@@ -643,27 +649,53 @@ arrête
 
 <sup>5</sup> Les autorités communales et les réseaux d'accueil de jour sont informés au plus tôt de la mise en congé des élèves.
 
-[^52-1]: Modif. 1 du 02.07.2012: Abrogation tArt; entrée en vigueur au 01.08.2013; Abrogation Al. 1; entrée en vigueur au 01.08.2013 · Modif. 9 du 03.07.2024: Introduction Al. 1, c-f; entrée en vigueur au 01.08.2024; Introduction Al. 1bis; entrée en vigueur au 01.08.2024; Introduction Art. 54a; entrée en vigueur au 01.08.2024
+[^52-1]: Modif. 1 du 02.07.2012: Abrogation tArt; entrée en vigueur au 01.08.2013; Abrogation Al. 1; entrée en vigueur au 01.08.2013 · Modif. 9 du 03.07.2024: Introduction Al. 1, c-f; entrée en vigueur au 01.08.2024; Introduction Al. 1bis; entrée en vigueur au 01.08.2024
 
 #### Art. 54
 
-**Congés individuels des élèves (LEO art. 69 al. 3) [^53-1]**
+**Congés individuels des élèves (LEO art. 69 al.3) [^53-1]**
+
+*a) Congés motivés*
 
 <sup>1</sup> Sur demande écrite et motivée des parents, le directeur peut accorder jusqu'à dix-huit demi-journées de congé à un élève au cours d'une année scolaire. Il en examine le bien-fondé, dans l'intérêt de l'élève et de l'institution. En principe, il n'est pas accordé de congé immédiatement avant ou après les vacances.
 
-<sup>2</sup> Sauf cas d'urgence ou situation imprévisible, la demande doit être adressée au moins deux semaines à l'avance.
+<sup>2</sup> Sauf cas d'urgence ou situation imprévisible, la demande doit être adressée au moins deux semaines à l'avance au maître de classe. Le délai ne court pas durant les vacances scolaires.
 
-<sup>3</sup> Lorsque la demande des parents dépasse l'équivalent de dix-huit demi-journées de congé, elle est transmise au département pour décision. L'autorisation peut être assortie de conditions relatives à la poursuite de la formation scolaire de l'élève. Demeurent réservées les dispenses de cours accordées par le directeur à un élève qui suit un traitement médical ou pédago-thérapeutique, ou qui bénéficie d'un aménagement horaire consenti en vertu de l'article 5 du présent règlement.
+<sup>3</sup> Seule une demande de congé motivé peut entraîner un dépassement de l'équivalent de dix-huit demi-journées de congé au cours d'une année scolaire ; dans ce cas, elle est transmise au département pour décision. L'autorisation peut être assortie de conditions relatives à la poursuite de la formation scolaire de l'élève. Demeurent réservées les dispenses de cours accordées par le directeur à un élève qui suit un traitement médical ou pédago-thérapeutique, ou qui bénéficie d'un aménagement horaire consenti en vertu de l'article 5 du présent règlement.
 
 <sup>4</sup> En règle générale, un congé de longue durée n'est pas accordé au cours de deux années scolaires consécutives.
 
 <sup>5</sup> Une directive détermine les motifs pour lesquels un congé peut être accordé.
 
-[^53-1]: Modif. 1 du 02.07.2012: Abrogation tArt; entrée en vigueur au 01.08.2013; Abrogation Al. 1; entrée en vigueur au 01.08.2013 · Modif. 9 du 03.07.2024: Introduction Art. 53, Al. 1, c-f; entrée en vigueur au 01.08.2024; Introduction Art. 53, Al. 1bis; entrée en vigueur au 01.08.2024; Modification tArt; entrée en vigueur au 01.08.2024; Modification Al. 2-3; entrée en vigueur au 01.08.2024; Introduction Art. 54a; entrée en vigueur au 01.08.2024
+[^53-1]: Modif. 1 du 02.07.2012: Abrogation tArt; entrée en vigueur au 01.08.2013; Abrogation Al. 1; entrée en vigueur au 01.08.2013 · Modif. 9 du 03.07.2024: Modification tArt; entrée en vigueur au 01.08.2024; Modification Al. 2-3; entrée en vigueur au 01.08.2024
+
+#### Art. 54a
+
+**b) Congés non motivés [^54-1]**
+
+<sup>1</sup> Les parents peuvent annoncer jusqu'à six demi-journées de congés non motivés au cours d'une année scolaire. Sont exclus des congés non motivés :
+
+- a. le premier jour d'école de l'année scolaire ;
+- b. les dates des épreuves cantonales de référence, ainsi que des épreuves écrites et orales de l'examen de certificat ;
+- c. le jour précédant ou suivant directement un congé motivé accordé ; l'alinéa 2, lettre e, est applicable ;
+- d. les activités mentionnées à l'article 53, alinéa 1, lettre f, si elles sont annoncées aux parents en début d'année scolaire ou au moins deux mois à l'avance ;
+- e. les demandes qui impliquent un dépassement de la durée maximale de 18 demi-journées de congé pour toute l'année scolaire.
+
+<sup>2</sup> Les modalités suivantes sont applicables au congé non motivé :
+
+- a. il doit être annoncé au moins 48 heures à l'avance au maître de classe ;
+- b. au maximum deux demi-journées peuvent se cumuler ; la lettre e est applicable ;
+- c. il ne peut y être renoncé que jusqu'à 48 heures avant le congé. Au-delà, il est considéré comme utilisé même en cas de présence de l'élève en classe;
+- d. les congés non motivés qui ne sont pas utilisés durant une année scolaire ne peuvent pas être reportés l'année scolaire suivante ;
+- e. les jours précédant et suivant directement les week-ends, les vacances, les fériés et les congés collectifs sont réputés se succéder.
+
+<sup>3</sup> Pour un congé non motivé annoncé sur le jour d'une activité mentionnée à l'article 53, alinéa 1, lettre e, la procédure de demande d'une dispense reste applicable pour les activités où celle-ci est nécessaire.
+
+[^54-1]: Modif. 9 du 03.07.2024: Introduction tArt; entrée en vigueur au 01.08.2024; Introduction Al. 1-3; entrée en vigueur au 01.08.2024; Introduction Art. 54a; entrée en vigueur au 01.08.2024
 
 #### Art. 55
 
-**Temps scolaire (LEO art. 70) [^54-1]**
+**Temps scolaire (LEO art. 70) [^54a-1]**
 
 <sup>1</sup> Est considéré comme temps scolaire, pour chaque élève, le temps correspondant aux périodes prévues à son horaire, récréations, pauses et déplacements entre les cours inclus, conformément à l'article 70 de la loi[^55-1]. Il comprend également le temps inhérent aux activités mentionnées aux articles 74 et 75 de la loi.
 
@@ -671,7 +703,7 @@ arrête
 
 <sup>3</sup> Durant le temps scolaire indiqué à l'alinéa 1, les élèves sont placés sous la responsabilité de l'école.
 
-[^54-1]: Modif. 1 du 02.07.2012: Abrogation tArt; entrée en vigueur au 01.08.2013; Abrogation Al. 1; entrée en vigueur au 01.08.2013
+[^54a-1]: Modif. 1 du 02.07.2012: Abrogation tArt; entrée en vigueur au 01.08.2013; Abrogation Al. 1; entrée en vigueur au 01.08.2013
 [^55-1]: Loi du 07.06.2011 sur l'enseignement obligatoire ([BLV 400.02](https://prestations.vd.ch/pub/blv-publication/actes/consolide/400.02?id=1444413b-d078-412a-8edc-b8e277fc2daa))
 
 #### Art. 56
