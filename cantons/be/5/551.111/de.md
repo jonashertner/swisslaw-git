@@ -4,13 +4,12 @@ number: "551.111"
 title: Polizeiverordnung
 short: PolV
 language: de
-version: 2023-01-01
-valid_until: 2024-07-31
-version_adopted: 2022-11-23
+version: 2024-08-01
+version_adopted: 2024-07-03
 adopted: 2019-11-20
 in_force: 2020-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/551.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2756/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3046/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2756/pdf_file"
 
 (PolV)
 
-vom 20.11.2019 (Stand 01.01.2023)
+vom 20.11.2019 (Stand 01.08.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -141,14 +140,14 @@ beschliesst:
 
 <sup>1</sup> Die Pauschale gemäss Artikel 48 PolG beträgt
 
-- a bei Gemeinden mit bis zu 1000 Einwohnern: 0.6 Franken,
-- b bei Gemeinden mit 1001 bis 2000 Einwohnern: 1 Franken,
-- c bei Gemeinden mit 2001 bis 4000 Einwohnern: 2.3 Franken,
-- d bei Gemeinden mit 4001 bis 10'000 Einwohnern: 4 Franken,
-- e bei Gemeinden ab 10'001 Einwohnern: 5 Franken,
-- f bei der Stadt Thun: 7.8 Franken,
-- g bei der Stadt Biel: 17 Franken,
-- h bei der Stadt Bern: 17.3 Franken.
+- a bei Gemeinden mit bis zu 1000 Einwohnern: 0.65 Franken,
+- b bei Gemeinden mit 1001 bis 2000 Einwohnern: 1.10 Franken,
+- c bei Gemeinden mit 2001 bis 4000 Einwohnern: 2.50 Franken,
+- d bei Gemeinden mit 4001 bis 10'000 Einwohnern: 4.35 Franken,
+- e bei Gemeinden ab 10'001 Einwohnern: 5.45 Franken,
+- f bei der Stadt Thun: 8.50 Franken,
+- g bei der Stadt Biel: 18.50 Franken,
+- h bei der Stadt Bern: 18.85 Franken.
 
 ### 2.2 Aufgabenübertragung an die Gemeinden
 
@@ -177,6 +176,8 @@ beschliesst:
 <sup>2</sup> Die Aufgabenübertragung ist beschränkt auf den Innerortsbereich.
 
 <sup>3</sup> Die Aufgabenerfüllung ist Mitgliedern des Gemeinderates, Mitgliedern der ständigen Kommissionen und dem Gemeindepersonal vorbehalten.
+
+<sup>4</sup> Gemeinden, die einen Ressourcenvertrag abgeschlossen haben, können sich zur Aufgabenerfüllung zusammenschliessen. Sie regeln ihr Verhältnis mit einer schriftlichen Vereinbarung.
 
 #### Art. 12
 
@@ -234,6 +235,8 @@ beschliesst:
 
 <sup>4</sup> Die fachlichen Voraussetzungen für die Aufgabenerfüllung gemäss Artikel 11 richten sich nach den bundesrechtlichen Vorschriften, insbesondere nach der Verordnung des ASTRA vom 22. Mai 2008 zur Strassenverkehrskontrollverordnung (VSKV-ASTRA)[^16-1].
 
+<sup>5</sup> Die Kantonspolizei kann Anforderungen für die Zulassung zu den Instruktionskursen festlegen.
+
 [^16-1]: SR [741.013.1](https://db.clex.ch/link/Bund/741.013.1/de)
 
 #### Art. 17
@@ -276,6 +279,8 @@ beschliesst:
 <sup>1</sup> Die Gemeinde prüft in periodischen Abständen, mindestens aber jedes fünfte Jahr, ob die zur Aufgabenerfüllung gemäss Artikel 34 bis 36 PolG eingesetzten Personen die erforderliche persönliche und fachliche Eignung weiterhin erfüllen.
 
 <sup>2</sup> Sie meldet der Kantonspolizei umgehend Personen, welche die persönliche oder fachliche Eignung nicht mehr erfüllen.
+
+<sup>3</sup> Die Kantonspolizei kann eingesetzten Personen die Berechtigung zur Aufgabenerfüllung entziehen, wenn sie feststellt, dass bei diesen seit mehr als fünf Jahren keine periodische Eignungsprüfung vorgenommen worden ist.
 
 #### Art. 20
 
@@ -327,11 +332,11 @@ beschliesst:
 
 **Statistik**
 
-<sup>1</sup> Gemeinden, die Aufgaben nach Artikel 10 bis 13 erfüllen, haben der Kantonspolizei jährlich folgende Statistiken und Unterlagen einzureichen:
+<sup>1</sup> Gemeinden, die Aufgaben gemäss Artikel 10 bis 13 erfüllen, haben der Kantonspolizei jährlich folgende Statistiken und Unterlagen einzureichen:
 
 - a Anzahl Anzeigen unter Angabe der rapportierten Verkehrsregelverletzungen,
 - b Höhe des insgesamt eingenommenen Ordnungsbussenbetrags,
-- c auf Aufforderung der Kantonspolizei innert Monatsfrist die Anzahl Ordnungsbussen, aufgeschlüsselt nach Ordnungsbussenziffern,
+- c Anzahl Ordnungsbussen, aufgeschlüsselt nach Ordnungsbussenziffern, bis am 31. März des Folgejahres,
 - d Art und Anzahl der eingesetzten Geschwindigkeits- und Rotlichtüberwachungsanlagen und der damit geleisteten Kontrollstunden.
 
 <sup>2</sup> Im Zusammenhang mit Aufgaben gemäss Artikel 13 sind nur die Angaben gemäss Buchstabe b sowie auf entsprechende Aufforderung der Kantonspolizei hin diejenigen gemäss Buchstabe c einzureichen.
@@ -417,14 +422,11 @@ beschliesst:
 [^33-1]: BSG [101.1](https://www.belex.sites.be.ch/data/101.1/de)
 [^33-2]: BSG [620.0](https://www.belex.sites.be.ch/data/620.0/de)
 
-### 2.4.2 Kostentragung bei gemeindeübergreifenden Veranstaltungen
+### 2.4.2
 
 #### Art. 34
 
-<sup>1</sup> Die Kostenbeteiligung der einzelnen Gemeinden gemäss Artikel 53 Absatz 2 PolG richtet sich insbesondere nach
-
-- a dem konkreten Ausmass der Betroffenheit und
-- b der Bedeutung der Veranstaltung für die einzelne Gemeinde.
+**…**
 
 ### 2.4.3 Veranstaltungen mit Gewalttätigkeiten
 
@@ -512,12 +514,12 @@ beschliesst:
 - c unanständiges Benehmen,
 - d Hunde,
 - e Gastgewerbe,
-- f Gewerbepolizei und weiteren Bereichen, die der Kanton den Gemeinden zum Vollzug delegiert hat,
+- f Gewerbepolizei und weitere Bereiche, die der Kanton den Gemeinden zum Vollzug delegiert hat,
 - g kommunale Straftatbestände.
 
 <sup>2</sup> In gewerbepolizeilichen Bereichen sind die Gemeinden zur Identitätsfeststellung befugt, sofern ihnen von Gesetzes wegen Vollzugs- oder Kontrollaufgaben zukommen.
 
-<sup>3</sup> Das Feststellen der Identität ist Mitgliedern des Gemeinderates, Mitgliedern der ständigen Kommissionen und dem Gemeindepersonal vorbehalten.
+<sup>3</sup> …
 
 <sup>4</sup> Für die Anforderungen an die Ausweise gilt Artikel 21 Absatz 2 und 3.
 
@@ -544,6 +546,17 @@ beschliesst:
 #### Art. 43
 
 <sup>1</sup> Die Kantonspolizei kann für Verwertungen gemäss Artikel 103 PolG mit geeigneten Behörden wie insbesondere dem örtlich zuständigen Betreibungs- und Konkursamt oder dem örtlich zuständigen Regierungsstatthalteramt zusammenarbeiten.
+
+### 3.3a Automatisierte Fahrzeugfahndung
+
+#### Art. 43a
+
+<sup>1</sup> Die Aufbewahrungsdauer der gemäss Artikel 109 PolG erfassten Daten beträgt 60 Tage.
+
+<sup>2</sup> Die Kantonspolizei veröffentlicht zu den stationären automatisierten Fahndungssystemen gemäss Artikel 109a Absatz 2 PolG jährlich einen allgemein zugänglichen Bericht über die Wirksamkeit, der insbesondere Angaben enthält über
+
+- a die Anzahl der Übereinstimmungen beim automatisierten Abgleich gemäss Artikel 109 Absatz 2 PolG,
+- b die Anzahl der gemäss Artikel 109c Absatz 3 PolG rückwirkend ausgewerteten Daten und über deren Verwendung im Ermittlungsverfahren.
 
 ### 3.4 Verdeckte Vorermittlung und Legendierung
 
@@ -634,6 +647,12 @@ beschliesst:
 
 <sup>2</sup> Inhaberinnen und Inhaber des Hausrechts sind insbesondere die Direktionen, die Staatskanzlei, die obersten Gerichtsbehörden und die Generalstaatsanwaltschaft.
 
+#### Art. 50a
+
+**Videoüberwachungen gemäss Artikel 124a PolG**
+
+<sup>1</sup> Die Kantonspolizei ist die zuständige Stelle gemäss Artikel 124a Absatz 4 PolG.
+
 #### Art. 51
 
 **Grenzen der Videoüberwachung**
@@ -703,7 +722,7 @@ beschliesst:
 
 **Kosten und Gebühren**
 
-<sup>1</sup> Die für die Anordnung der Videoüberwachung zuständige Behörde bzw. die Inhaberinnen und Inhaber des Hausrechts tragen die Kosten für die Installation und den Betrieb der Videoüberwachungsgeräte sowie der dazugehörigen Infrastruktur.
+<sup>1</sup> Die für die Anordnung der Videoüberwachung zuständige Behörde bzw. die Inhaberinnen und Inhaber des Hausrechts tragen die Kosten für die Installation und den Betrieb der Videoüberwachungsgeräte sowie der dazugehörigen Infrastruktur. Vorbehalten bleibt Artikel 124a Absatz 5 PolG.
 
 <sup>2</sup> Die Kosten für die Auswertung der Videoaufzeichnungen trägt der Kanton.
 
@@ -727,7 +746,12 @@ beschliesst:
 
 <sup>2</sup> Die Kantonspolizei kann den Beherbergungsbetrieben eine elektronische Plattform zur Übermittlung der angeforderten Gästedaten zur Verfügung stellen.
 
-<sup>3</sup> Die Kantonspolizei vernichtet die erhobenen Gästedaten nach längstens fünf Jahren von Amtes wegen.
+<sup>3</sup> Sie vernichtet die erhobenen Gästedaten nach längstens fünf Jahren von Amtes wegen.
+
+<sup>4</sup> Der automatisierte Abgleich gemäss Artikel 129 Absatz 2 PolG ist zulässig mit
+
+- a dem automatisierten Polizeifahndungssystem des Bundes (RIPOL) und dem Schengener Informationssystem (SIS),
+- b konkreten Fahndungsaufträgen der Kantonspolizei.
 
 ## 4 Verrechnung polizeilicher Leistungen
 
@@ -743,7 +767,7 @@ beschliesst:
 - a der Einsatz spezieller technischer Mittel oder speziell geschulter Einsatzkräfte nötig ist, oder
 - b Inhaberinnen und Inhaber des Hausrechts an Einrichtungen, deren Betrieb geeignet ist, die öffentliche Sicherheit und Ordnung zu gefährden oder zu stören, die erforderlichen und zumutbaren Sicherheitsvorkehrungen nicht getroffen haben und dadurch polizeiliche Interventionen in kurzen Zeiträumen regelmässig oder häufig verursachen.
 
-<sup>3</sup> Der Kostenersatz gemäss Artikel 137 PolG ist wie folgt beschränkt:
+<sup>3</sup> Der Kostenersatz gemäss Artikel 137 Absatz 1 PolG ist wie folgt beschränkt:
 
 - a höchstens 80 Prozent der polizeilichen Einsatzkosten, die der natürlichen oder juristischen Person zugeordnet werden können,
 - b höchstens 10'000 Franken, in besonders schweren Fällen höchstens 30'000 Franken.
@@ -760,7 +784,7 @@ beschliesst:
 
 <sup>2</sup> Das Reglement enthält insbesondere
 
-- a ein Leitbild, eine Mission und eine Vision,
+- a die Werte und eine Vision,
 - b Richtlinien zur Berufsethik,
 - c Richtlinien zum Verhalten der Mitarbeiterinnen und Mitarbeiter.
 
@@ -778,15 +802,31 @@ beschliesst:
 - b eine abgeschlossene Berufsausbildung oder gleichwertige Qualifikation gemäss den anwendbaren Prüfungsordnungen des Schweizerischen Polizei-Instituts (SPI),
 - c Vorliegen einer aktuellen arbeitsmedizinischen Bestätigung über die Tauglichkeit für den Dienst.
 
-<sup>2</sup> Über die Aufnahme in die Polizeischule und in den polizeilichen Sicherheitsassistentenlehrgang entscheidet die Polizeikommandantin oder der Polizeikommandant. Sie oder er legt die geeigneten Prüfungen und Eignungsabklärungen fest.
+<sup>2</sup> Über die Aufnahme in den Polizeilehrgang und in den Lehrgang für polizeiliche Sicherheitsassistentinnen und -assistenten entscheidet die Polizeikommandantin oder der Polizeikommandant. Sie oder er legt die geeigneten Prüfungen und Eignungsabklärungen fest.
 
 #### Art. 62
 
 **Abschluss**
 
-<sup>1</sup> Die Polizeischule wird mit der Beendigung des Ausbildungslehrgangs und der erfolgreich absolvierten Eidgenössischen Berufsprüfung abgeschlossen.
+<sup>1</sup> Der Polizeilehrgang wird mit der Beendigung des Ausbildungslehrgangs und der erfolgreich absolvierten Eidgenössischen Berufsprüfung abgeschlossen.
 
-<sup>2</sup> Der polizeiliche Sicherheitsassistentenlehrgang wird mit der Beendigung des Ausbildungslehrgangs und den erfolgreich absolvierten modularen Prüfungen gemäss Prüfungsordnung SPI abgeschlossen.
+<sup>2</sup> Der Lehrgang für polizeiliche Sicherheitsassistentinnen und -assistenten wird mit der Beendigung des Ausbildungslehrgangs und den erfolgreich absolvierten modularen Prüfungen gemäss den Prüfungsordnungen des SPI abgeschlossen.
+
+#### Art. 62a
+
+**Zusammensetzung Rekurskommission im Bereich der Aus- und Weiterbildung**
+
+<sup>1</sup> Die Rekurskommission gemäss Artikel 184a PolG setzt sich zusammen aus einer Präsidentin oder einem Präsidenten und drei Mitgliedern, die bei der Kantonspolizei angestellt sind.
+
+<sup>2</sup> Die Funktion der Präsidentin oder des Präsidenten wird von der Chefin oder vom Chef der Abteilung Ressourcen und Dienstleistungen ausgeübt.
+
+<sup>3</sup> Die Mitglieder werden von der Polizeikommandantin oder dem Polizeikommandanten ernannt und bestehen aus je einer Person der Bereiche
+
+- a Aus- und Weiterbildung,
+- b Human Resources,
+- c Rechtsdienst.
+
+<sup>4</sup> Die Amtsdauer der Mitglieder beträgt vier Jahre, wobei eine Wiederwahl möglich ist. Im Übrigen konstituiert sich die Rekurskommission selbst.
 
 ### 5.3 Beendigung des Anstellungsverhältnisses während der Ausbildung
 
@@ -800,7 +840,7 @@ beschliesst:
 
 **Austritt**
 
-<sup>1</sup> Die Aspirantin oder der Aspirant kann unter Einhaltung einer Frist von sieben Tagen jederzeit aus der Polizeischule oder dem polizeilichen Sicherheitsassistentenlehrgang austreten.
+<sup>1</sup> Die Aspirantin oder der Aspirant kann unter Einhaltung einer Frist von sieben Tagen jederzeit aus dem Polizeilehrgang oder dem Lehrgang für polizeiliche Sicherheitsassistentinnen und -assistenten austreten.
 
 ### 5.4 Rückerstattung der Ausbildungskosten
 
@@ -817,13 +857,14 @@ beschliesst:
 <sup>1</sup> Erfolgt die Beendigung des Arbeitsverhältnisses während der Ausbildung, gestaltet sich die Rückerstattung der Ausbildungskosten unter Berücksichtigung der Ausbildungsdauer wie folgt:
 
 - a keine Rückerstattungspflicht während der ersten drei Ausbildungsmonate,
-- b Rückerstattung von 4000 Franken im vierten Ausbildungsmonat,
-- c Erhöhung der Rückerstattungspflicht jeweils um 1000 Franken mit jedem weiteren absolvierten Ausbildungsmonat.
+- b Rückerstattung von 2250 Franken nach Absolvierung des dritten Ausbildungsmonats,
+- c Erhöhung der Rückerstattungspflicht jeweils um 750 Franken mit jedem weiteren absolvierten Ausbildungsmonat.
 
 <sup>2</sup> Der maximale Rückerstattungsbetrag beträgt
 
-- a 18'000 Franken für Absolventinnen und Absolventen der Polizeischule,
-- b 5000 Franken für Absolventinnen und Absolventen des polizeilichen Sicherheitsassistentenlehrgangs.
+- a 18'000 Franken für Absolventinnen und Absolventen des Polizeilehrgangs,
+- b 4500 Franken für Absolventinnen und Absolventen des Lehrgangs für polizeiliche Sicherheitsassistentinnen und -assistenten,
+- c 3000 Franken für Absolventinnen und Absolventen des Lehrgangs für polizeiliche Sicherheitsassistentinnen und -assistenten im Verkehrsdienst.
 
 <sup>3</sup> Erfolgt die Beendigung des Arbeitsverhältnisses nach Abschluss der Ausbildung oder dem Übertritt in den Polizei- oder den Sicherheitsassistentendienst, reduziert sich der rückzahlungspflichtige Betrag für jeden nach dem Übertritt geleisteten ganzen Dienstmonat um 1/36.
 
@@ -841,9 +882,9 @@ beschliesst:
 
 #### Art. 68
 
-<sup>1</sup> Für Mitarbeiterinnen und Mitarbeiter, deren Tätigkeit wissenschaftliche oder fachspezifische Kenntnisse erfordert, kann auf die Erfordernisse des Schweizer Bürgerrechts und der Polizeischule verzichtet werden. Für sie gelten für die Aufnahme die allgemeinen Bestimmungen der Personalgesetzgebung.
+<sup>1</sup> Für Mitarbeiterinnen und Mitarbeiter, deren Tätigkeit wissenschaftliche oder fachspezifische Kenntnisse erfordert, kann auf die Erfordernisse des Schweizer Bürgerrechts und des Polizeilehrgangs verzichtet werden. Für sie gelten für die Aufnahme die allgemeinen Bestimmungen der Personalgesetzgebung.
 
-<sup>2</sup> Die Polizeikommandantin oder der Polizeikommandant kann Bewerberinnen und Bewerber für den Polizeidienst von der Absolvierung der Polizeischule befreien, wenn sie den Nachweis einer gleichwertigen, erfolgreich absolvierten Grundausbildung erbringen können.
+<sup>2</sup> Die Polizeikommandantin oder der Polizeikommandant kann Bewerberinnen und Bewerber für den Polizeidienst von der Absolvierung des Polizeilehrgangs befreien, wenn sie den Nachweis einer gleichwertigen, erfolgreich absolvierten Grundausbildung erbringen können.
 
 ### 5.6 Entschädigung von besonderen Leistungen
 
@@ -885,15 +926,15 @@ beschliesst:
 
 <sup>3</sup> Die Zeitgutschrift beträgt 25 Prozent der Sollarbeitszeit.
 
-### 5.6.2 Nebenfunktionen
+### 5.6.2 Zusätzliche Aufgaben
 
 #### Art. 72
 
 **Grundsatz**
 
-<sup>1</sup> Nebenfunktionen werden unter den Voraussetzungen gemäss Absatz 2 mit einer monatlichen, versicherten Funktionszulage entschädigt.
+<sup>1</sup> Zusätzliche Aufgaben werden unter den Voraussetzungen gemäss Absatz 2 mit einer monatlichen, versicherten Funktionszulage entschädigt.
 
-<sup>2</sup> Nebenfunktionen können befristet oder unbefristet übernommen werden. Die Nebenfunktion
+<sup>2</sup> Sie können befristet oder unbefristet übernommen werden. Die zusätzliche Aufgabe
 
 - a hat sich deutlich von der Grundfunktion einer Mitarbeiterin oder eines Mitarbeiters der Kantonspolizei abzugrenzen,
 - b darf im Verhältnis zur Hauptfunktion nicht von völlig untergeordneter Bedeutung sein und
@@ -903,17 +944,21 @@ beschliesst:
 
 **Arten und Höhe**
 
-<sup>1</sup> Der Anhang 1 bestimmt die Nebenfunktionen, die mit einer Funktionszulage entschädigt werden, und legt die monatliche Höhe dieser Entschädigungen fest.
+<sup>1</sup> Der Anhang 1 bestimmt die zusätzlichen Aufgaben, die mit einer Funktionszulage entschädigt werden, und legt die monatliche Höhe dieser Entschädigungen fest.
 
 #### Art. 74
 
-**Wegfall, Sistierung und Reduktion**
+**Entzug**
 
-<sup>1</sup> Die Funktionszulage fällt dahin, wird sistiert oder in angemessenem Umfang reduziert, wenn die Mitarbeiterin oder der Mitarbeiter die Voraussetzungen nicht mehr oder nur noch teilweise erfüllt.
+<sup>1</sup> Die Funktionszulage wird entzogen, wenn die Mitarbeiterin oder der Mitarbeiter die Voraussetzungen nicht mehr erfüllt.
 
-<sup>2</sup> Die Voraussetzungen sind namentlich nicht mehr erfüllt, wenn die Mitarbeiterin oder der Mitarbeiter länger als einen Monat nicht mehr arbeitet oder arbeiten kann.
+<sup>2</sup> …
 
-<sup>3</sup> Davon ausgenommen sind der Bezug von Ferien und dienstfreien Tagen sowie die Kompensation von Jahresarbeitszeit.
+<sup>3</sup> Keine Gründe für einen Entzug der Funktionszulage sind
+
+- a der Bezug von Ferien und dienstfreien Tagen,
+- b die Kompensation von Jahresarbeitszeit,
+- c der Bezug von Guthaben aus dem Langzeitkonto.
 
 ### 5.6.3 Andere Entschädigungen
 
@@ -921,14 +966,21 @@ beschliesst:
 
 **Polizeiliche Sondereinsätze**
 
-<sup>1</sup> Mitarbeiterinnen und Mitarbeiter, die im Rahmen von polizeilichen Sondereinsätzen eingesetzt werden, namentlich Ordnungsdiensteinsätzen, wird die über acht Stunden dauernde Einsatzzeit wie folgt ausbezahlt:
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter können bei polizeilichen Sondereinsätzen, namentlich Ordnungsdiensteinsätzen, bei der Vergütung der acht Stunden übersteigenden Einsatzzeit auswählen zwischen:
 
-- a die neunte und zehnte Einsatzstunde zu einem Stundenansatz von pauschal 50 Franken,
-- b ab der elften Einsatzstunde zu einem Stundenansatz von pauschal 60 Franken.
+- a einer Ausbezahlung zu einem Stundenansatz von pauschal 60 Franken, an Wochenenden von pauschal 75 Franken,
+- b einer Anrechnung als Arbeitszeit mit einem Zeitzuschlag von 25 Prozent.
+
+<sup>1a</sup> Die Polizeikommandantin oder der Polizeikommandant kann
+
+- a in begründeten Einzelfällen die Form der Vergütung selbst festlegen,
+- b diese Kompetenz durch Reglement oder Dienstbefehl bis höchstens auf Kaderstufe 2 übertragen.
 
 <sup>2</sup> Allfällige Zeitgutschriften für Nachtarbeit werden nicht zusätzlich ausgerichtet.
 
 <sup>3</sup> Die Polizeikommandantin oder der Polizeikommandant kann den Mitarbeiterinnen und Mitarbeitern in einem Ordnungsdiensteinsatz, bei dem Leib und Leben gefährdet sind, eine Zulage von pauschal 150 Franken pro Einsatz ausrichten.
+
+<sup>4</sup> Sie oder er kann Mitarbeiterinnen und Mitarbeitern, die aussergewöhnlich belastende Ermittlungsarbeiten im Bereich verbotener Pornografie tätigen, eine Zulage von pauschal 200 Franken pro Fall ausrichten.
 
 #### Art. 76
 
@@ -977,7 +1029,7 @@ beschliesst:
 
 **Mahlzeiten**
 
-<sup>1</sup> Mitarbeiterinnen und Mitarbeitern im Schicht- und Nachtdienst wird in Abweichung von Artikel 103 und 105 der Personalverordnung vom 18. Mai 2005 (PV)[^80-1] in der Regel eine Entschädigung für eine Hauptmahlzeit ausgerichtet, wenn
+<sup>1</sup> Mitarbeiterinnen und Mitarbeitern im Schicht- und Nachtdienst wird in Abweichung von Artikel 103 der Personalverordnung vom 18. Mai 2005 (PV)[^80-1] in der Regel eine Entschädigung für eine Hauptmahlzeit ausgerichtet, wenn
 
 - a die Dienstzeit mindestens neun Stunden dauert und
 - b die Verpflegung zwingend im Rahmen des dienstlichen Einsatzes eingenommen werden muss.
@@ -1000,7 +1052,15 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Die Regelungen nach diesem Abschnitt und die Nachtzeitgutschrift gemäss Artikel 119 PV gelten bis zur Gehaltsklasse 23.
+<sup>1</sup> Die Regelungen gemäss Artikel 70, 71 und 75 sowie die Nachtzeitgutschrift gemäss Artikel 119 PV gelten bis zur Gehaltsklasse 24.
+
+### 5.6.4a Private Nutzung von zivilen Dienstfahrzeugen
+
+#### Art. 82a
+
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter können zivile Dienstfahrzeuge unter Beachtung der Vorgaben der Kantonspolizei für private Zwecke benutzen, sofern der Dienstbetrieb dadurch nicht beeinträchtigt wird.
+
+<sup>2</sup> Für die private Nutzung ist eine kostendeckende Gebühr zu entrichten.
 
 ### 5.6.5 Ausrüstung
 
@@ -1044,24 +1104,42 @@ beschliesst:
 
 <sup>2</sup> Die Änderung der Verordnung gemäss Artikel 84 Absatz 1 Buchstabe b tritt am 1. November 2019 in Kraft.
 
+## T1 Übergangsbestimmung zur Änderung vom 03.07.2024
+
+#### Art. T1-1
+
+<sup>1</sup> Artikel 66 Absatz 1 und 2 ist ab dem 1. Oktober 2024 anwendbar.
+
+<sup>2</sup> Artikel 9 Absatz 1 ist ab dem 1. Januar 2025 anwendbar.
+
+<sup>3</sup> Artikel 75 Absatz 1 und 1a ist ab dem 1. Juli 2025 anwendbar.
+
 ## A1 Anhang 1 zu Artikel 73
 
 #### Art. A1-1
 
-**Funktionszulagen für Nebenfunktionen**
+**Funktionszulagen für zusätzliche Aufgaben**
 
-<sup>1</sup> Die folgenden Nebenfunktionen werden monatlich mit folgender Funktionszulage entschädigt:
+<sup>1</sup> Die folgenden zusätzlichen Aufgaben werden monatlich mit folgender Funktionszulage entschädigt:
 
 - a Fliegende Einsatzleiterinnen und Einsatzleiter — CHF 100
 - b Personenschützerinnen und Personenschützer im Milizpool — CHF 100
-- c Verhandlungsführerinnen und Verhandlungsführer — CHF 100
+- c Verhandlungsführerinnen und Verhandlungsführer — CHF 150
 - d Flugbegleiterinnen und Flugbegleiter — CHF 100
-- e Milizausbilderinnen und Milizausbilder — CHF 100 bis 250 je nach geleistetem Arbeitsaufwand
+- e ... — ...
 - f Gebirgsspezialistinnen und Gebirgsspezialisten, die Suchaktionen in hochalpinen oder unzugänglichen Gebieten durchführen — CHF 150
 - g Seepolizistinnen und Seepolizisten mit Tauchausbildung — CHF 150
 - h Milizhundeführerinnen und Milizhundeführer — CHF 150
 - i Polizistinnen und Polizisten mit einer besonderen zusätzlichen Tätigkeit in den Bereichen Umwelt, Tier, Lärm sowie digitaler Forensik — CHF 150
 - k Polizistinnen und Polizisten im besonderen Schwerpunkteinsatz — CHF 150 bis 250
+- l Drohnenpilotinnen und Drohnenpiloten — CHF 150
+- m Polizistinnen und Polizisten mit besonderen zusätzlichen Tätigkeiten im Bereich Betäubungsmittel — CHF 150
+- n Psychologietrainerinnen und Psychologietrainer — CHF 350
+- o Polizeiliche Sicherheitsassistentinnen und -assistenten, die Werttransportbegleitungen für die Schweizerischen Nationalbank durchführen — CHF 100
+- p Jugendsachbearbeiterinnen und Jugendsachbearbeiter — CHF 150
+- q Mitarbeiterinnen Frauenpikett — CHF 200
+
+<sup>2</sup> Bei den Milizausbilderinnen und Milizausbildern wird die Funktionszulage für die zusätzliche Aufgabe jährlich nach erfolgtem Arbeitsaufwand ausbezahlt. Sie beträgt monatlich zwischen 75 und 250 Franken.
 
 Bern, 20. November 2019
 

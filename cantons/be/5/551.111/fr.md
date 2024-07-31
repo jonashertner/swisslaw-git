@@ -4,13 +4,12 @@ number: "551.111"
 title: Ordonnance sur la police
 short: OPol
 language: fr
-version: 2023-01-01
-valid_until: 2024-07-31
-version_adopted: 2022-11-23
+version: 2024-08-01
+version_adopted: 2024-07-03
 adopted: 2019-11-20
 in_force: 2020-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/551.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2756/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3046/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2756/pdf_file"
 
 (OPol)
 
-du 20.11.2019 (état au 01.01.2023)
+du 20.11.2019 (état au 01.08.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -141,14 +140,14 @@ arrête:
 
 <sup>1</sup> Le montant forfaitaire selon l'article 48 LPol s'élève,
 
-- a pour les communes de 1000 habitants au plus: à 0,60 franc,
-- b pour les communes de 1001 à 2000 habitants: à 1 franc,
-- c pour les communes de 2001 à 4000 habitants: à 2,30 francs,
-- d pour les communes de 4001 à 10 000 habitants: à 4 francs,
-- e pour les communes de plus de 10 000 habitants: à 5 francs,
-- f pour la ville de Thoune: à 7,80 francs,
-- g pour la ville de Bienne: à 17 francs,
-- h pour la ville de Berne: à 17,30 francs.
+- a pour les communes de 1000 habitants au plus: à 0,65 franc,
+- b pour les communes de 1001 à 2000 habitants: à 1,10 franc,
+- c pour les communes de 2001 à 4000 habitants: à 2,50 francs,
+- d pour les communes de 4001 à 10 000 habitants: à 4,35 francs,
+- e pour les communes de plus de 10 000 habitants: à 5,45 francs,
+- f pour la ville de Thoune: à 8,50 francs,
+- g pour la ville de Bienne: à 18,50 francs,
+- h pour la ville de Berne: à 18,85 francs.
 
 ### 2.2 Délégation de tâches aux communes
 
@@ -177,6 +176,8 @@ arrête:
 <sup>2</sup> La délégation de tâches est limitée à la localité.
 
 <sup>3</sup> L'exécution des tâches est réservée aux membres du conseil communal et des commissions permanentes et au personnel communal.
+
+<sup>4</sup> Les communes qui ont conclu un contrat sur les ressources peuvent s'associer pour exécuter leurs tâches. Elles règlent leurs rapports par le biais d'une convention écrite.
 
 #### Art. 12
 
@@ -234,6 +235,8 @@ arrête:
 
 <sup>4</sup> Les aptitudes professionnelles nécessaires à l'exécution des tâches selon l'article 11 sont définies par les prescriptions du droit fédéral, en particulier dans l'ordonnance du 22 mai 2008 de l'OFROU concernant l'ordonnance sur le contrôle de la circulation routière (OOCCR-OFROU)[^16-1].
 
+<sup>5</sup> La Police cantonale peut fixer des exigences pour l'admission à la formation.
+
 [^16-1]: RS [741.013.1](https://db.clex.ch/link/Bund/741.013.1/fr)
 
 #### Art. 17
@@ -274,6 +277,8 @@ arrête:
 <sup>1</sup> La commune vérifie à intervalles réguliers, mais au moins une fois tous les cinq ans, si les personnes exécutant des tâches selon les articles 34 à 36 LPol disposent toujours des aptitudes personnelles et professionnelles requises.
 
 <sup>2</sup> Elle annonce sans tarder à la Police cantonale les personnes ne disposant plus de ces aptitudes, sur le plan personnel ou professionnel.
+
+<sup>3</sup> La Police cantonale peut retirer à des personnes le droit d'exécuter des tâches si elle constate que leurs aptitudes n'ont pas été soumises à un contrôle périodique depuis plus de cinq ans.
 
 #### Art. 20
 
@@ -329,7 +334,7 @@ arrête:
 
 - a nombre des dénonciations, avec indication des violations consignées des règles de la circulation,
 - b montant total des amendes d'ordre encaissées,
-- c nombre d'amendes d'ordre, classées selon les numéros de la liste des amendes, dans le mois suivant la demande de la Police cantonale,
+- c nombre d'amendes d'ordre, classées selon les numéros de la liste des amendes, jusqu'au 31 mars de l'année suivante,
 - d nature et nombre des installations fixes de contrôle de la vitesse et des feux de signalisation utilisés et des heures de contrôle effectuées par ce biais.
 
 <sup>2</sup> En lien avec les tâches selon l'article 13, seules les indications prévues à la lettre b et, sur requête expresse de la Police cantonale, celles visées à la lettre c doivent être remises.
@@ -415,14 +420,11 @@ arrête:
 [^33-1]: RSB [101.1](https://www.belex.sites.be.ch/data/101.1/fr)
 [^33-2]: RSB [620.0](https://www.belex.sites.be.ch/data/620.0/fr)
 
-### 2.4.2 Prise en charge des frais lors de manifestations concernant plusieurs communes
+### 2.4.2
 
 #### Art. 34
 
-<sup>1</sup> La participation communale aux frais selon l'article 53, alinéa 2 LPol dépend en particulier
-
-- a de l'impact de la manifestation sur la commune concernée et
-- b de l'importance que revêt la manifestation pour chacune.
+**…**
 
 ### 2.4.3 Manifestations émaillées d'actes de violence
 
@@ -515,7 +517,7 @@ arrête:
 
 <sup>2</sup> Les communes sont habilitées à procéder à des contrôles d'identité dans le domaine de la police industrielle, pour autant que des tâches d'exécution ou de contrôle leur incombent de par la loi.
 
-<sup>3</sup> La réalisation des contrôles d'identité est réservée aux membres du conseil communal et des commissions permanentes et au personnel communal.
+<sup>3</sup> …
 
 <sup>4</sup> L'article 21, alinéas 2 et 3 s'applique aux conditions applicables aux titres de légitimation.
 
@@ -542,6 +544,17 @@ arrête:
 #### Art. 43
 
 <sup>1</sup> La Police cantonale peut, en vue de la réalisation prévue par l'article 103 LPol, collaborer avec des autorités appropriées telles que, en particulier, l'office des poursuites et faillites ou la préfecture compétents à raison du lieu.
+
+### 3.3a Recherche automatisée de véhicules
+
+#### Art. 43a
+
+<sup>1</sup> La durée de conservation des données collectées en vertu de l'article 109 LPol est de 60 jours.
+
+<sup>2</sup> Conformément à l'article 109a, alinéa 2 LPol, la Police cantonale publie chaque année un rapport sur l'efficacité des systèmes fixes de recherches informatisées, qui est mis à disposition du public et comporte en particulier des indications sur
+
+- a le nombre de concordances résultant de la comparaison automatisée de données réalisée conformément à l'article 109, alinéa 2 LPol et
+- b le nombre de données analysées rétroactivement conformément à l'article 109c, alinéa 3 LPol et leur utilisation dans le cadre d'enquêtes.
 
 ### 3.4 Enquête préliminaire secrète et identité d'emprunt
 
@@ -632,6 +645,12 @@ arrête:
 
 <sup>2</sup> Les personnes responsables des locaux sont en particulier les Directions, la Chancellerie d'État, les autorités judiciaires supérieures et le Parquet général.
 
+#### Art. 50a
+
+**Vidéosurveillance au sens de l'article 124a LPol**
+
+<sup>1</sup> Le service compétent visé à l'article 124a, alinéa 5 LPol est la Police cantonale.
+
 #### Art. 51
 
 **Limites de la vidéosurveillance**
@@ -701,7 +720,7 @@ arrête:
 
 **Frais et émoluments**
 
-<sup>1</sup> L'autorité compétente pour ordonner la vidéosurveillance et les responsables des locaux prennent à leur charge les frais d'installation et d'exploitation des appareils de vidéosurveillance et de l'infrastructure nécessaire.
+<sup>1</sup> L'autorité compétente pour ordonner la vidéosurveillance et les responsables des locaux prennent à leur charge les frais d'installation et d'exploitation des appareils de vidéosurveillance et de l'infrastructure nécessaire. L'article 124a, alinéa 5 LPol est réservé.
 
 <sup>2</sup> Le canton prend en charge les frais d'analyse des enregistrements vidéo.
 
@@ -725,6 +744,11 @@ arrête:
 
 <sup>3</sup> Elle détruit d'office ces données dans un délai de cinq ans au plus.
 
+<sup>4</sup> La comparaison automatisée conformément à l'article 129, alinéa 2 LPol est admissible
+
+- a avec le système de recherches informatisées de police de la Confédération (RIPOL) et le système d'information Schengen (SIS),
+- b avec les mandats de recherche concrets de la Police cantonale.
+
 ## 4 Facturation de prestations policières
 
 #### Art. 59
@@ -739,7 +763,7 @@ arrête:
 - a si la mise en œuvre de moyens techniques spéciaux ou de forces d'intervention spécialement formées est nécessaire ou
 - b si les responsables des locaux qui exploitent des installations dont le fonctionnement est de nature à troubler ou à mettre en danger la sécurité et l'ordre public ont omis les précautions nécessaires qui peuvent raisonnablement être exigées d'eux et que, de ce fait, la police est amenée à intervenir régulièrement ou souvent à brefs intervalles.
 
-<sup>3</sup> Le remboursement des frais selon l'article 137 LPol est limité comme suit:
+<sup>3</sup> Le remboursement des frais selon l'article 137, alinéa 1 LPol est limité comme suit:
 
 - a au maximum à 80 pour cent des frais d'intervention de la police qui peuvent être attribués à la personne physique ou morale;
 - b au maximum 10 000 francs et, dans des cas particulièrement graves, au maximum 30 000 francs.
@@ -756,7 +780,7 @@ arrête:
 
 <sup>2</sup> Ce règlement comporte en particulier
 
-- a une charte, une mission et une vision,
+- a des valeurs et une vision,
 - b des lignes directrices sur l'éthique professionnelle,
 - c des directives régissant le comportement des collaborateurs et des collaboratrices.
 
@@ -768,21 +792,37 @@ arrête:
 
 **Conditions**
 
-<sup>1</sup> Une personne doit, pour effectuer la formation de policier ou d'assistant de sécurité, remplir les conditions suivantes en plus de celles que prévoit l'article 159 LPol:
+<sup>1</sup> Une personne doit, pour effectuer la formation d'agente ou d'agent de police ou d'assistante ou d'assistant de sécurité de police, remplir les conditions suivantes en plus de celles que prévoit l'article 159 LPol:
 
 - a être âgée d'au moins 21 ans;
 - b avoir achevé une formation professionnelle ou obtenu une qualification équivalente au sens du règlement d'examen applicable de l'Institut suisse de police (ISP);
 - c avoir remis une attestation récente établie par un médecin mandaté à cet effet, confirmant l'aptitude au service de police.
 
-<sup>2</sup> Le commandant ou la commandante de la Police cantonale statue sur l'admission d'une personne à l'école de police et à la formation d'assistant de sécurité. Il ou elle définit les critères d'aptitude et les examens appropriés.
+<sup>2</sup> La commandante ou le commandant de la Police cantonale statue sur l'admission d'une personne à la formation d'agente ou d'agent de police et à la formation d'assistante ou d'assistant de sécurité de police. Elle ou il définit les critères d'aptitude et les examens appropriés.
 
 #### Art. 62
 
 **Fin de la formation**
 
-<sup>1</sup> La formation à l'école de police est terminée lorsque le candidat ou la candidate a suivi tous les cours et réussi l'examen professionnel fédéral.
+<sup>1</sup> La formation d'agente ou d'agent de police est terminée lorsque la candidate ou le candidat a suivi tous les cours et réussi l'examen professionnel fédéral.
 
-<sup>2</sup> La formation d'assistant de sécurité de police est terminée lorsque le candidat ou la candidate a suivi tous les cours et réussi les épreuves par module prévues par le règlement d'examen de l'ISP.
+<sup>2</sup> La formation d'assistante ou d'assistant de sécurité de police est terminée lorsque la candidate ou le candidat a suivi tous les cours et réussi les épreuves par module prévues par les règlements d'examen de l'ISP.
+
+#### Art. 62a
+
+**Composition de la commission de recours dans le domaine de la formation et du perfectionnement**
+
+<sup>1</sup> La commission de recours formée en vertu de l'article 184a LPol est composée d'une présidente ou d'un président et de trois membres, employées et employés de la Police cantonale.
+
+<sup>2</sup> La cheffe ou le chef de la division Ressources et Prestations de service assume la fonction de présidente ou de président.
+
+<sup>3</sup> Les membres sont nommés par la commandante ou le commandant de la Police cantonale et représentent chacun l'un des domaines suivants:
+
+- a formation et perfectionnement,
+- b ressources humaines,
+- c service juridique.
+
+<sup>4</sup> Le mandat des membres dure quatre ans et peut être reconduit. Au surplus, la commission se constitue elle-même.
 
 ### 5.3 Résiliation des rapports de service durant la formation
 
@@ -796,7 +836,7 @@ arrête:
 
 **Départ**
 
-<sup>1</sup> L'aspirant ou l'aspirante peut, moyennant un préavis de sept jours, quitter en tout temps l'école de police ou la formation d'assistant de sécurité.
+<sup>1</sup> L'aspirante ou l'aspirant peut, moyennant un préavis de sept jours, quitter en tout temps la formation d'agente ou d'agent de police ou celle d'assistante ou d'assistant de sécurité de police.
 
 ### 5.4 Remboursement des frais de formation
 
@@ -804,7 +844,7 @@ arrête:
 
 **Principe**
 
-<sup>1</sup> Les aspirants et aspirantes, les agents et agentes de police et les assistants et assistantes de sécurité doivent rembourser une quote-part de leurs frais de formation au canton de Berne au terme de leurs rapports de travail avec la Police cantonale.
+<sup>1</sup> Les aspirantes et aspirants, les agentes et agents de police et les assistantes et assistants de sécurité de police doivent rembourser une quote-part de leurs frais de formation au canton de Berne au terme de leurs rapports de travail avec la Police cantonale.
 
 #### Art. 66
 
@@ -813,13 +853,14 @@ arrête:
 <sup>1</sup> S'il est mis un terme aux rapports de travail en cours de formation, le remboursement des frais de cette dernière est fonction de sa durée:
 
 - a aucune obligation de remboursement au cours des trois premiers mois,
-- b remboursement de 4000 francs au cours du quatrième mois,
-- c augmentation du montant à rembourser par tranches de 1000 francs par mois supplémentaire.
+- b remboursement de 2250 francs à la fin du troisième mois,
+- c augmentation du montant à rembourser par tranches de 750 francs par mois supplémentaire.
 
 <sup>2</sup> Le montant maximal à rembourser s'élève à
 
-- a 18 000 francs pour les personnes diplômées de l'école de police,
-- b 5000 francs pour les personnes ayant réussi le cursus d'assistant de sécurité.
+- a 18'000 francs pour les personnes ayant réussi le cursus d'agente ou d'agent de police,
+- b 4500 francs pour les personnes ayant réussi le cursus d'assistante ou d'assistant de sécurité de police,
+- c 3000 francs pour les personnes ayant réussi le cursus d'assistante ou d'assistant de sécurité au service de circulation.
 
 <sup>3</sup> Si la fin des rapports de travail intervient au terme de la formation ou après l'intégration dans le corps de police ou dans le service d'assistant de sécurité, le montant à rembourser diminue de 1/36 à chaque mois de service complet effectué.
 
@@ -837,9 +878,9 @@ arrête:
 
 #### Art. 68
 
-<sup>1</sup> Concernant les collaborateurs et collaboratrices du service de police dont l'activité exige des connaissances scientifiques ou spécialisées, il est possible de renoncer à l'obligation d'être de nationalité suisse et d'avoir effectué l'école de police. L'engagement de ces personnes est régi par les dispositions générales de la législation sur le personnel.
+<sup>1</sup> Concernant les collaboratrices et collaborateurs du service de police dont l'activité exige des connaissances scientifiques ou spécialisées, il est possible de renoncer à l'obligation d'être de nationalité suisse et d'avoir suivi la formation d'agente ou d'agent de police. L'engagement de ces personnes est régi par les dispositions générales de la législation sur le personnel.
 
-<sup>2</sup> Le commandant ou la commandante de la Police cantonale peut dispenser de l'école de police les candidats et candidates démontrant avoir réussi une formation de base équivalente.
+<sup>2</sup> La commandante ou le commandant de la Police cantonale peut dispenser de la formation d'agente ou d'agent de police les candidates et candidats démontrant avoir réussi une formation de base équivalente.
 
 ### 5.6 Indemnisation de prestations spéciales
 
@@ -881,15 +922,15 @@ arrête:
 
 <sup>3</sup> Le bonus-temps s'élève à 25 pour cent du temps de travail théorique.
 
-### 5.6.2 Fonctions annexes
+### 5.6.2 Tâches supplémentaires
 
 #### Art. 72
 
 **Principe**
 
-<sup>1</sup> L'exercice de fonctions annexes est rétribué au moyen d'une allocation de fonction mensuelle assurée, selon les conditions prévues à l'alinéa 2.
+<sup>1</sup> L'exercice de tâches supplémentaires est rétribué au moyen d'une allocation de fonction mensuelle assurée, selon les conditions prévues à l'alinéa 2.
 
-<sup>2</sup> Les fonctions annexes peuvent être exercées pour une durée déterminée ou indéterminée. Elles
+<sup>2</sup> Les tâches supplémentaires peuvent être exercées pour une durée déterminée ou indéterminée. Elles
 
 - a doivent se distinguer clairement de la fonction de base d'un collaborateur ou d'une collaboratrice de la Police cantonale;
 - b ne peuvent, en relation avec la fonction principale, être de portée insignifiante et
@@ -899,17 +940,21 @@ arrête:
 
 **Genres et montants**
 
-<sup>1</sup> L'annexe 1 désigne les fonctions annexes rétribuées au moyen d'allocations et règle le montant mensuel de ces allocations.
+<sup>1</sup> L'annexe 1 désigne les tâches supplémentaires rétribuées au moyen d'allocations et règle le montant mensuel de ces allocations.
 
 #### Art. 74
 
-**Suppression, suspension et réduction**
+**Suppression**
 
-<sup>1</sup> L'allocation de fonction est supprimée, suspendue ou réduite de manière appropriée lorsque le collaborateur ou la collaboratrice ne remplit plus, ou plus entièrement, les conditions requises.
+<sup>1</sup> L'allocation de fonction est supprimée lorsque la collaboratrice ou le collaborateur ne remplit plus les conditions requises.
 
-<sup>2</sup> Les conditions ne sont notamment plus remplies lorsque le collaborateur ou la collaboratrice ne travaille plus ou ne peut plus travailler durant plus d'un mois.
+<sup>2</sup> …
 
-<sup>3</sup> Cette règle n'est pas applicable aux vacances, aux jours de congé ou à la compensation d'heures dans le cadre de l'horaire de travail annualisé.
+<sup>3</sup> Les éléments suivants ne constituent pas des motifs de suppression de l'allocation de fonction:
+
+- a la collaboratrice ou le collaborateur prend des vacances ou des jours de congé;
+- b la collaboratrice ou le collaborateur compense des heures dans le cadre de l'horaire de travail annualisé;
+- c la collaboratrice ou le collaborateur prend des congés pour diminuer le solde du compte épargne-temps.
 
 ### 5.6.3 Autres indemnités et allocations
 
@@ -917,14 +962,21 @@ arrête:
 
 **Interventions policières spéciales**
 
-<sup>1</sup> Les collaborateurs et collaboratrices engagés dans le cadre d'interventions spéciales, notamment de services d'ordre, sont défrayés de la manière suivante après des interventions de plus de huit heures:
+<sup>1</sup> Après des interventions spéciales ayant duré plus de huit heures, notamment des interventions de services d'ordre, les collaboratrices et collaborateurs peuvent choisir entre deux façons de traiter leurs heures à partir de la neuvième heure d'intervention:
 
-- a le tarif horaire forfaitaire pour la neuvième et la dixième heure est de 50 francs;
-- b à partir de la onzième heure, le tarif horaire forfaitaire est de 60 francs.
+- a paiement d'un tarif horaire forfaitaire de 60 francs par heure pour les interventions durant la semaine et de 75 francs par heure pour les interventions en fin de semaine,
+- b imputation des heures sur le temps de travail à hauteur de 125 pour cent.
+
+<sup>1a</sup> La commandante ou le commandant de la Police cantonale peut
+
+- a imposer l'une des options, dans des cas particuliers dûment motivés;
+- b déléguer cette compétence par voie de règlement ou par ordre de service à un membre du corps de police de l'échelon 2 au minimum.
 
 <sup>2</sup> Aucun bonus-temps pour travail de nuit n'est attribué en plus.
 
 <sup>3</sup> Le commandant ou la commandante de la Police cantonale peut verser aux collaborateurs et collaboratrices effectuant des services d'ordre mettant en danger leur vie ou leur intégrité corporelle une allocation forfaitaire de 150 francs par intervention.
+
+<sup>4</sup> Elle ou il peut verser aux collaboratrices et collaborateurs réalisant des enquêtes particulièrement pénibles dans le domaine de la pornographie interdite une allocation forfaitaire de 200 francs par cas.
 
 #### Art. 76
 
@@ -973,7 +1025,7 @@ arrête:
 
 **Repas**
 
-<sup>1</sup> Les collaborateurs et collaboratrices en service d'équipe et service de nuit reçoivent en règle générale une indemnité pour un repas principal, en dérogation aux articles 103 et 105 de l'ordonnance du 18 mai 2005 sur le personnel (OPers)[^80-1], si
+<sup>1</sup> Les collaboratrices et collaborateurs en service d'équipe et service de nuit reçoivent en règle générale une indemnité pour un repas principal, en dérogation à l'article 103 de l'ordonnance du 18 mai 2005 sur le personnel (OPers)[^80-1], si
 
 - a la période de service est d'au moins neuf heures et
 - b que le repas doive impérativement être pris durant l'exécution du service.
@@ -996,7 +1048,15 @@ arrête:
 
 **Champ d'application**
 
-<sup>1</sup> Les réglementations de la présente section et le bonus temps pour le travail de nuit selon l'article 119 OPers sont applicables jusqu'à la classe de traitement 23.
+<sup>1</sup> Les réglementations des articles 70, 71 et 75 et le bonus temps pour le travail de nuit selon l'article 119 OPers sont applicables jusqu'à la classe de traitement 24.
+
+### 5.6.4a Utilisation privée de véhicules de service banalisés
+
+#### Art. 82a
+
+<sup>1</sup> Les collaboratrices et collaborateurs peuvent utiliser des véhicules de service banalisés à des fins privées, dans le respect des prescriptions de la Police cantonale et dans la mesure où cela n'entrave pas la bonne marche du service.
+
+<sup>2</sup> Toute utilisation privée entraîne l'obligation du versement d'une indemnité couvrant les frais.
 
 ### 5.6.5 Équipement
 
@@ -1040,24 +1100,42 @@ arrête:
 
 <sup>2</sup> La modification de l'ordonnance visée à l'article 84, alinéa 1, lettre b entre en vigueur le 1<sup>er</sup> novembre 2019.
 
+## T1 Disposition transitoire concernant la modification du 03.07.2024
+
+#### Art. T1-1
+
+<sup>1</sup> L'article 66, alinéas 1 et 2 est applicable à partir du 1<sup>er</sup> octobre 2024.
+
+<sup>2</sup> L'article 9, alinéa 1 est applicable à partir du 1<sup>er</sup> janvier 2025.
+
+<sup>3</sup> L'article 75, alinéas 1 et 1a est applicable à partir du 1<sup>er</sup> juillet 2025.
+
 ## A1 Annexe 1 à l'article 73
 
 #### Art. A1-1
 
-**Allocations pour fonctions annexes**
+**Allocations pour tâches supplémentaires**
 
-<sup>1</sup> Les fonctions annexes suivantes sont rétribuées au moyen d'allocations mensuelles:
+<sup>1</sup> Les tâches supplémentaires suivantes sont rétribuées au moyen d'allocations mensuelles:
 
-- a Coordinateurs et coordinatrices d'engagement par hélicoptère — CHF 100
-- b Agents et agentes de protection de personnes en milice — CHF 100
-- c Négociateurs et négociatrices — CHF 100
-- d Accompagnateurs et accompagnatrices de vol — CHF 100
-- e Formateurs et formatrices de milice — de CHF 100 à CHF 250, en fonction du travail effectué
+- a Coordinatrices et coordinateurs d'engagement par hélicoptère — CHF 100
+- b Agentes et agents de protection de personnes en milice — CHF 100
+- c Négociatrices et négociateurs — CHF 150
+- d Accompagnatrices et accompagnateurs de vol — CHF 100
+- e ... — ...
 - f Spécialistes de montagne exécutant des missions de recherche en haute montagne ou dans des zones d'accès difficile — CHF 150
 - g Membres de la police du lac avec formation de plongeurs — CHF 150
 - h Maîtres-chiens de milice — CHF 150
-- i Agents et agentes de police chargés d'une activité spéciale supplémentaire en lien avec l'environnement, les animaux, le bruit ou l'analyse des traces numériques — CHF 150
-- k Policiers et policières en engagement point fort particulier — de CHF 150 à CHF 250
+- i Agentes et agents de police chargés d'une activité spéciale supplémentaire en lien avec l'environnement, les animaux, le bruit ou l'analyse des traces numériques — CHF 150
+- k Agentes et agents de police en engagement point fort particulier — de CHF 150 à CHF 250
+- l Pilotes de drones — CHF 150
+- m Agentes et agents de police chargés d'une tâche supplémentaire spéciale en lien avec les stupéfiants — CHF 150
+- n Coachs psychologues — CHF 350
+- o Assistantes et assistants de sécurité de police accompagnant le transport de valeurs pour la Banque nationale suisse — CHF 100
+- p Spécialistes en délinquance juvénile — CHF 150
+- q Collaboratrices assurant un service de piquet féminin — CHF 200
+
+<sup>2</sup> Les allocations pour tâches supplémentaires des formatrices et formateurs de milice sont versées annuellement en fonction du travail effectué. Le montant mensuel se situe entre 75 et 250 francs.
 
 Berne, le 20 novembre 2019
 
