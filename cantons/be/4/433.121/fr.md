@@ -4,13 +4,13 @@ number: "433.121"
 title: Ordonnance sur les écoles moyennes
 short: OEM
 language: fr
-version: 2022-08-01
-valid_until: 2024-07-31
-version_adopted: 2022-06-22
+version: 2024-08-01
+valid_until: 2026-08-31
+version_adopted: 2023-11-22
 adopted: 2007-11-07
 in_force: 2008-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/433.121"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2627/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2959/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2627/pdf_file"
 
 (OEM)
 
-du 07.11.2007 (état au 01.08.2022)
+du 07.11.2007 (état au 01.08.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -953,7 +953,8 @@ arrête:
 
 <sup>3</sup> Le pool destiné aux tâches spéciales est augmenté
 
-- a pour rétribuer le maître ou la maîtresse de classe, du pourcentage de degré d’occupation équivalant à une leçon par classe;
+- a de cinq pour cent de degré d’occupation par classe pour rétribuer la fonction de maîtrise de classe, l'allocation prévue à l'article 36b OSE étant comptabilisée à part;
+- a1 pour rétribuer le soutien apporté aux membres du corps enseignant en début de carrière ou reprenant l'activité d'enseignement;
 - b pour rétribuer
   - 1\. des tâches liées à l'encadrement d'élèves en stage dans le cadre de la filière de maturité spécialisée,
   - 2\. des tâches liées à la promotion des talents particuliers,
@@ -1144,8 +1145,9 @@ arrête:
 - g les mesures d’appui et de soutien,
 - h les détails relatifs à l’enseignement,
 - i les absences et les dispenses,
-- k le financement de cantines et d’internats de même que les indicateurs correspondants ainsi que
-- l les indemnités et les frais.
+- k le financement de cantines et d’internats de même que les indicateurs correspondants,
+- l les indemnités et les frais, ainsi que
+- m les modalités de détail concernant la rétribution du soutien apporté aux membres du corps enseignant en début de carrière ou reprenant l’activité d’enseignement.
 
 <sup>2</sup> …
 

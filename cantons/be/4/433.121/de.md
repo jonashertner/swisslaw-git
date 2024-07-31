@@ -4,13 +4,13 @@ number: "433.121"
 title: Mittelschulverordnung
 short: MiSV
 language: de
-version: 2022-08-01
-valid_until: 2024-07-31
-version_adopted: 2022-06-22
+version: 2024-08-01
+valid_until: 2026-08-31
+version_adopted: 2023-11-22
 adopted: 2007-11-07
 in_force: 2008-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/433.121"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2627/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2959/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2627/pdf_file"
 
 (MiSV)
 
-vom 07.11.2007 (Stand 01.08.2022)
+vom 07.11.2007 (Stand 01.08.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -953,7 +953,8 @@ beschliesst:
 
 <sup>3</sup> Der Pool für Spezialaufgaben wird erhöht
 
-- a zur Abgeltung der Klassenleitung um die je einer Lektion pro Klasse entsprechenden Beschäftigungsgradprozente,
+- a zur Abgeltung der Tätigkeit als Klassenlehrkraft um fünf Beschäftigungsgradprozente pro Klasse, wobei die Zulage gemäss Artikel 36b LAV nicht darunter fällt,
+- a1 zur Abgeltung der Unterstützung von berufseinsteigenden und wiedereinsteigenden Lehrkräften,
 - b zur Abgeltung von Aufgaben in den Bereichen
   - 1\. Betreuung von Schülerinnen und Schülern in Praktika im Rahmen von Fachmaturitätsbildungsgängen,
   - 2\. Begabtenförderung,
@@ -1144,8 +1145,9 @@ beschliesst:
 - g die Stützmassnahmen,
 - h Näheres zum Unterricht,
 - i Absenzen und Dispensationen,
-- k die Finanzierung von Mensen und Internaten und die entsprechenden Kennzahlen sowie
-- l die Entschädigungen und Spesen.
+- k die Finanzierung von Mensen und Internaten und die entsprechenden Kennzahlen,
+- l die Entschädigungen und Spesen sowie
+- m das Nähere zur Abgeltung der Unterstützung von berufseinsteigenden und wiedereinsteigenden Lehrkräften.
 
 <sup>2</sup> …
 
