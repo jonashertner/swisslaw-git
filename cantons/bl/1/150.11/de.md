@@ -4,13 +4,13 @@ number: "150.11"
 title: Verordnung zum Personalgesetz
 short: Personalverordnung
 language: de
-version: 2024-01-01
-valid_until: 2024-07-31
-version_adopted: 2023-12-12
+version: 2024-08-01
+valid_until: 2024-12-31
+version_adopted: 2023-12-19
 adopted: 2000-12-19
 in_force: 2001-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/150.11"
-pdf: "https://bl.clex.ch/api/de/versions/3835/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3874/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3835/pdf_file"
 
 (Personalverordnung)
 
-Vom 19.12.2000 (Stand 01.01.2024)
+Vom 19.12.2000 (Stand 01.08.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -40,7 +40,7 @@ beschliesst:
 <sup>1</sup> Wo nichts Abweichendes erwähnt ist, gelten die nachfolgenden Bestimmungen für:
 
 - a. alle Mitarbeiterinnen und Mitarbeiter des Kantons;
-- b. alle Lehrpersonen der öffentlichen Schulen des Kantons und der Gemeinden.
+- b. alle Mitarbeitenden der öffentlichen Schulen des Kantons sowie die Schulleitungen, Lehrpersonen und Mitarbeitenden im pädagogischen Bereich der öffentlichen Schulen der Gemeinden.
 
 <sup>2</sup> Für die gewählten Mitarbeiterinnen und Mitarbeiter sind mit Ausnahme der Lohnzahlung bei Arbeitsunfähigkeit infolge Krankheit oder Unfalls die Bestimmungen, die für den befristeten Arbeitsvertrag gelten, sinngemäss anwendbar.
 
@@ -130,7 +130,7 @@ beschliesst:
 
 <sup>1</sup> Der Mitarbeiterin und dem Mitarbeiter, den jeweiligen Vorgesetzten und der Anstellungsbehörde sowie dem Personalamt steht das Akteneinsichtsrecht zu.
 
-<sup>2</sup> Im Bereich der Lehrpersonen haben das Amt für Volksschulen für den Volksschulbereich, die Dienststelle Berufsbildung, Mittelschulen und Hochschulen (BMH) für den Berufsschulbereich und die Personalabteilung der Bildungs-, Kultur- und Sportdirektion sowie das Personalamt in sämtliche Personalakten Einsicht.
+<sup>2</sup> Im Bereich der Mitarbeitenden der öffentlichen Schulen des Kantons und der Gemeinden gemäss § 1 Abs. 1 Bst. b haben das Amt für Volksschulen für den Volksschulbereich, die Dienststelle Berufsbildung, Mittelschulen und Hochschulen (BMH) für den Berufs- und Mittelschulbereich und die Personalabteilung der Bildungs-, Kultur- und Sportdirektion sowie das Personalamt in sämtliche Personalakten Einsicht.
 
 #### § 8a
 
@@ -154,7 +154,7 @@ beschliesst:
 
 <sup>1</sup> Das Personalamt erlässt Richtlinien zur Durchführung von Mitarbeitendengesprächen. Das Mitarbeitendengesprächs-Formular bildet einen integralen Bestandteil dieser Richtlinien.
 
-<sup>1<sup>bis</sup></sup> Die Bildungs-, Kultur- und Sportdirektion erlässt Richtlinien zur Durchführung von Mitarbeitendengesprächen mit dem unterrichtenden Personal. Die dafür notwendigen Formulare bilden einen integralen Bestandteil dieser Richtlinien.
+<sup>1<sup>bis</sup></sup> Die Bildungs-, Kultur- und Sportdirektion erlässt Richtlinien zur Durchführung von Mitarbeitendengesprächen mit den Lehrpersonen und den weiteren Mitarbeitenden im pädagogischen Bereich. Die dafür notwendigen Formulare bilden einen integralen Bestandteil dieser Richtlinien.
 
 <sup>2</sup> Die Anstellungsbehörde führt eine Kontrolle über die Durchführung der Mitarbeitendengespräche und stellt sicher, dass die ausgefüllten Formulare und Unterlagen, insbesondere die Mitarbeitendenbeurteilungen, rechtzeitig vollständig vorliegen.
 
@@ -170,10 +170,10 @@ beschliesst:
 
 <sup>1</sup> Die Vorgesetzten führen mit den Mitarbeitenden Gespräche und zwar bei unbefristeten und auf 12 und mehr Monate befristeten Arbeitsverträgen:
 
-- a. spätestens 10 Tage, beim unterrichtenden Personal spätestens 30 Tage vor Ablauf der Probezeit;
+- a. spätestens 10 Tage, bei Lehrpersonen spätestens 30 Tage vor Ablauf der Probezeit;
 - b. nach Ablauf der Probezeit in der Regel jährlich.
 
-<sup>1<sup>bis</sup></sup> Mit dem unterrichtenden Personal finden die Mitarbeitendengespräche nach den betrieblichen Möglichkeiten grundsätzlich jährlich, mindestens aber alle 3 Jahre statt. Kann kein Mitarbeitendengespräch durchgeführt werden, erfolgt zumindest die Mitarbeitendenbeurteilung. Das Nähere regeln die Richtlinien.
+<sup>1<sup>bis</sup></sup> Mit den Lehrpersonen und den weiteren Mitarbeitenden im pädagogischen Bereich finden die Mitarbeitendengespräche nach den betrieblichen Möglichkeiten grundsätzlich jährlich, mindestens aber alle 3 Jahre statt. Kann kein Mitarbeitendengespräch durchgeführt werden, erfolgt zumindest die Mitarbeitendenbeurteilung. Das Nähere regeln die Richtlinien.
 
 <sup>1<sup>ter</sup></sup> Die Richtlinien regeln die Fälle, in denen keine jährliche Mitarbeitendenbeurteilung erfolgt.
 
@@ -185,7 +185,12 @@ beschliesst:
 
 **Zweitgespräch**
 
-<sup>1</sup> Ist die Mitarbeiterin oder der Mitarbeiter mit der Beurteilung nicht einverstanden, kann sie oder er innerhalb von 10 Arbeitstagen ein Zweitgespräch mit der nächsthöhervorgesetzten Person, beim unterrichtenden Personal mit dem Präsidium des Schulrats verlangen.
+<sup>1</sup> Ist die Mitarbeiterin oder der Mitarbeiter mit der Beurteilung nicht einverstanden, kann sie oder er innerhalb von 10 Arbeitstagen ein Zweitgespräch mit der nächsthöhervorgesetzten Person verlangen.
+
+<sup>1<sup>bis</sup></sup> Mitarbeitende der öffentlichen Schulen des Kantons und der Gemeinden gemäss § 1 Abs. 1 Bst. b können ein Zweitgespräch verlangen:
+
+- a. an den kommunalen Schulen mit dem zuständigen Mitglied des Schulrats oder, sofern die Einwohnergemeinde ihre die Schule betreffenden Aufgaben an den Gemeinderat übertragen hat, mit dem für die Bildung zuständigen Mitglied des Gemeinderats;
+- b. an den kantonalen Schulen mit der zuständigen Dienststelle der Bildungs-, Kultur- und Sportdirektion.
 
 <sup>2</sup> Die oder der Erstbeurteilende ist zu dem Gespräch beizuziehen.
 
@@ -257,7 +262,7 @@ beschliesst:
 
 <sup>1</sup> Die Einleitung der Invalidisierung erfolgt durch die Anstellungsbehörde.
 
-<sup>2</sup> Für Lehrpersonen erfolgt die Einleitung der Invalidisierung auf Antrag der Anstellungsbehörde durch die Bildungs-, Kultur- und Sportdirektion.
+<sup>2</sup> Für Mitarbeitende der öffentlichen Schulen des Kantons und der Gemeinden gemäss § 1 Abs. 1 Bst. b erfolgt die Einleitung der Invalidisierung auf Antrag der Anstellungsbehörde durch die Bildungs-, Kultur- und Sportdirektion.
 
 <sup>3</sup> ...
 
@@ -284,7 +289,7 @@ beschliesst:
 
 **Einreihungs- und Zuweisungskompetenz**
 
-<sup>1</sup> Die Anstellungsbehörde, bei Lehrpersonen die Bildungs-, Kultur- und Sportdirektion, reiht die Mitarbeitenden in ein Lohnband ein und weist die Position im Lohnband zu.
+<sup>1</sup> Die Anstellungsbehörde, bei Mitarbeitenden der öffentlichen Schulen des Kantons und der Gemeinden gemäss § 1 Abs. 1 Bst. b die Bildungs-, Kultur- und Sportdirektion, reiht die Mitarbeitenden in ein Lohnband ein und weist die Position im Lohnband zu.
 
 <sup>2</sup> Grundlagen hierfür sind der Einreihungsplan, die [Modellumschreibungen](https://bl.clex.ch/app/de/texts_of_law/150.11/annex/I) und der Stelleninhalt. Die Richtlinien des Personalamtes für die Berechnung des beruflichen und ausserberuflichen Erfahrungsanteils sind verbindlich.
 
@@ -298,7 +303,7 @@ beschliesst:
 
 **Funktionsbezogene Zulagen**
 
-<sup>1</sup> Die Anstellungsbehörde, bei Lehrpersonen auf Antrag der Anstellungsbehörde die Bildungs,- Kultur- und Sportdirektion, entscheidet über die Zusprechung der funktionsbezogenen Zulagen.
+<sup>1</sup> Die Anstellungsbehörde, bei Mitarbeitenden der öffentlichen Schulen des Kantons und der Gemeinden gemäss § 1 Abs. 1 Bst. b die Bildungs-, Kultur- und Sportdirektion, entscheidet über die Zusprechung der funktionsbezogenen Zulagen.
 
 <sup>2</sup> Das Personalamt überprüft regelmässig die durch die Anstellungsbehörden, für Lehrpersonen durch die Bildungs-, Kultur- und Sportdirektion, zugesprochenen Zulagen.
 
@@ -310,7 +315,7 @@ beschliesst:
 
 **Erziehungszulagen**
 
-<sup>1</sup> Das Personalamt ist im Auftrag der Anstellungsbehörde, für Lehrpersonen im Auftrag der Bildungs-, Kultur- und Sportdirektion, zur Feststellung der Anspruchsberechtigung für Erziehungszulagen zuständig.
+<sup>1</sup> Das Personalamt ist im Auftrag der Anstellungsbehörde, für Mitarbeitende der öffentlichen Schulen des Kantons und der Gemeinden gemäss § 1 Abs. 1 Bst. b im Auftrag der Bildungs-, Kultur- und Sportdirektion, zur Feststellung der Anspruchsberechtigung für Erziehungszulagen zuständig.
 
 #### § 25a
 
@@ -329,7 +334,7 @@ beschliesst:
 
 **Einreihung in ein anderes Lohnband**
 
-<sup>1</sup> Für eine Einreihung in ein anderes Lohnband infolge einer Änderung der Funktion ist die Anstellungsbehörde, für das unterrichtende Personal, die Bildungs-, Kultur- und Sportdirektion zuständig.
+<sup>1</sup> Für eine Einreihung in ein anderes Lohnband infolge einer Änderung der Funktion ist die Anstellungsbehörde, für Mitarbeitende der öffentlichen Schulen des Kantons und der Gemeinden gemäss § 1 Abs. 1 Bst. b die Bildungs-, Kultur- und Sportdirektion zuständig.
 
 <sup>2</sup> Eine Einreihung in ein anderes Lohnband innerhalb der Probezeit ist nicht zulässig.
 
@@ -404,7 +409,7 @@ beschliesst:
 
 **Einreihungsüberprüfung**
 
-<sup>1</sup> Für neue Funktionen oder Funktionen, die eine massgebliche Veränderung erfahren haben, überprüft die Anstellungsbehörde, beim unterrichtenden Personal die BKSD auf Antrag der Anstellungsbehörde, die Einreihung. Sie berichtet dem Personalamt über Einreihungen in ein anderes Lohnband.
+<sup>1</sup> Für neue Funktionen oder Funktionen, die eine massgebliche Veränderung erfahren haben, überprüft die Anstellungsbehörde, bei Mitarbeitenden der öffentlichen Schulen des Kantons und der Gemeinden gemäss § 1 Abs. 1 Bst. b auf Antrag der Anstellungsbehörde die Bildungs-, Kultur- und Sportdirektion, die Einreihung. Sie berichtet dem Personalamt über Einreihungen in ein anderes Lohnband.
 
 <sup>2</sup> Auf Antrag der Anstellungsbehörde überprüft das Personalamt die Einreihung einer neuen oder geänderten Funktion und erstellt einen schriftlichen Bericht. Grundlage hierzu sind mindestens der Einreihungsplan, die [Modellumschreibungen](http://www.baselland.ch/main_mu-htm.274363.0.html) und der Fragebogen zur Stellenanalyse.
 
@@ -414,7 +419,11 @@ beschliesst:
 
 **Übernahme einer neuen Funktion oder Änderung der Anstellungsbehörde**
 
-<sup>1</sup> Die Übernahme einer anderen Funktion oder der Wechsel der Anstellungsbehörde bedingt den Abschluss eines neuen Arbeitsvertrages.
+<sup>1</sup> Die Übernahme einer anderen Funktion oder der Wechsel der Anstellungsbehörde bedingt in der Regel den Abschluss eines neuen Arbeitsvertrags.
+
+<sup>2</sup> Mit Inkrafttreten der neuen Führungsstrukturen an den öffentlichen Schulen des Kantons und der Gemeinden werden die Arbeitsverhältnisse mit vom Schulrat angestellten Mitarbeitenden vorbehältlich von regulären Austritten von der neuen Anstellungsbehörde weitergeführt (§§ 111a Abs. 1 und 111b Abs. 6 Bildungsgesetz[^29-1] gemäss Änderungen des Bildungsgesetzes vom 15. September 2022).
+
+[^29-1]: [SGS 640](https://bl.clex.ch/data/640/de/art111a)
 
 #### § 30
 
@@ -506,7 +515,7 @@ beschliesst:
 
 <sup>3<sup>bis</sup></sup> Im Rahmen der Gleichstellung von Menschen mit Behinderungen bietet das Personalamt geeignete Seminarangebote und Schulungen für Mitarbeitende und Führungskräfte sowie individuelle Coachings an.
 
-<sup>4</sup> Spezielle Regelungen für die Lehrpersonen, die Gerichte, die Staatsanwaltschaft, die Jugendanwaltschaft und die Polizei bleiben vorbehalten.
+<sup>4</sup> Spezielle Regelungen für die Mitarbeitenden der öffentlichen Schulen des Kantons und der Gemeinden gemäss § 1 Abs. 1 Bst. b, die Gerichte, die Staatsanwaltschaft, die Jugendanwaltschaft und die Polizei bleiben vorbehalten.
 
 #### § 35
 
@@ -571,7 +580,7 @@ beschliesst:
 
 <sup>3</sup> Die Auswahl und Zuteilung der Teilnehmerinnen und Teilnehmer wird von den Anstellungsbehörden vorgenommen.
 
-<sup>4</sup> Die Anstellungsbehörden, für Lehrpersonen die Bildungs-, Kultur- und Sportdirektion, budgetieren die Kosten der von ihnen bereitgestellten Personalentwicklungsmassnahmen.
+<sup>4</sup> Die Anstellungsbehörden, für Mitarbeitende der öffentlichen Schulen des Kantons die Bildungs-, Kultur- und Sportdirektion, budgetieren die Kosten der von ihnen bereitgestellten Personalentwicklungsmassnahmen. Für Lehrpersonen der öffentlichen Schulen der Gemeinden budgetiert die Bildungs-, Kultur- und Sportdirektion die von ihr angeordneten Personalentwicklungsmassnahmen.
 
 #### § 38
 
@@ -585,7 +594,7 @@ beschliesst:
 
 <sup>1</sup> Die Anstellungsbehörden oder die direkten Vorgesetzten ordnen diejenigen Personalentwicklungsmassnahmen an, welche nötig sind, damit die Mitarbeitenden unabhängig vom Beschäftigungsgrad auf dem zur Ausübung ihrer Funktion erforderlichen Stand sind.
 
-<sup>2</sup> In der Regel finden die Personalentwicklungsmassnahmen der Mitarbeitenden während der Arbeitszeit statt, diejenige der Lehrpersonen ausserhalb der Unterrichtszeit.
+<sup>2</sup> In der Regel finden die Personalentwicklungsmassnahmen der Mitarbeitenden während der Arbeitszeit statt, diejenige der Lehrpersonen sowie der Mitarbeitenden im pädagogischen Bereich ausserhalb der Unterrichtszeit.
 
 <sup>3</sup> Angeordnete Personalentwicklungsmassnahmen gelten als Arbeitszeit, wobei kein Anspruch auf besondere Zulagen besteht.
 
@@ -636,7 +645,7 @@ beschliesst:
 
 **Erfolgskontrolle**
 
-<sup>1</sup> Die Anstellungsbehörden, für Lehrpersonen die Bildungs-, Kultur- und Sportdirektion, können während oder nach Personalentwicklungsmassnahmen Erfolgskontrollen durchführen.
+<sup>1</sup> Die Anstellungsbehörden können während oder nach Personalentwicklungsmassnahmen Erfolgskontrollen durchführen.
 
 #### § 44
 
@@ -682,7 +691,7 @@ beschliesst:
 
 <sup>2</sup> Der rückzahlbare Betrag ermittelt sich aus dem gesamten Unterstützungsbetrag, welcher für die Weiterbildung zur Verfügung gestellt worden ist, abzüglich eines allfälligen pro-rata-Anteils für jeden abgeschlossenen Monat der Verpflichtungszeit.
 
-<sup>3</sup> In Härtefällen kann die Anstellungsbehörde, bei Lehrpersonen die Bildungs-,Kultur- und Sportdirektion, auf eine Rückforderung ganz oder teilweise verzichten.
+<sup>3</sup> In Härtefällen kann die Anstellungsbehörde, bei Lehrpersonen und Mitarbeitenden im pädagogischen Bereich die Bildungs-, Kultur- und Sportdirektion für die von ihr getragenen Personalentwicklungsmassnahmen, auf eine Rückforderung ganz oder teilweise verzichten.
 
 [^44b-1]: [SGS 150](https://bl.clex.ch/data/150/de/art19)
 
@@ -766,7 +775,7 @@ beschliesst:
 
 <sup>2</sup> Soweit das Ereignis gemäss Abs. 1 Bst. a–i in die Ferien, auf Frei- oder Feiertage fällt, besteht kein Anspruch auf Nachholung des Urlaubs. Der Kurzurlaub gemäss Bst. k ist innerhalb 1 Jahres nachholbar.
 
-<sup>3</sup> Für Bewilligungen dieser Kurzurlaube sind die direkten Vorgesetzten und bei Lehrpersonen die Schulleitungen zuständig.
+<sup>3</sup> Für Bewilligungen dieser Kurzurlaube sind die direkten Vorgesetzten zuständig.
 
 <sup>4</sup> Als eigene Familie bzw. Familienangehörige gelten die eigenen Kinder, die Ehegattin bzw. der Ehegatte, die eingetragene Partnerin bzw. der eingetragene Partner, die Person, mit welcher eine Lebensgemeinschaft geführt wird, die Eltern, die Schwiegereltern, die Grosseltern, die Geschwister sowie die Kinder der Ehegattin bzw. des Ehegatten, der eingetragenen Partnerin bzw. des eingetragenen Partners und der Person, mit welcher eine Lebensgemeinschaft geführt wird.
 
@@ -793,8 +802,8 @@ beschliesst:
 
 - a. die Direktionsvorsteherinnen und Direktionsvorsteher, die Vorsteherinnen bzw. die Vorsteher der besonderen Behörden, die Präsidentin oder der Präsident des Kantonsgerichts für Urlaub bis zu 1 Monat innerhalb eines Kalenderjahres;
 - b. der Regierungsrat, die Vorsteherinnen bzw. die Vorsteher der besonderen Behörden, und die Geschäftsleitung des Kantonsgerichts für Urlaub von mehr als 1 Monat;
-- c. bei Lehrpersonen im Volksschulbereich auf Antrag der Anstellungsbehörde das Amt für Volksschulen im Rahmen des budgetierten Urlaubkontingentes;
-- d. bei Lehrpersonen der weiterführenden Schulen auf Antrag der Schulleitung die Anstellungsbehörde im Rahmen des budgetierten Urlaubskontingents.
+- c. bei Mitarbeitenden der kommunalen Schulen gemäss § 1 Abs. 1 Bst. b auf Antrag der Anstellungsbehörde der Gemeinderat;
+- d. bei Mitarbeitenden der kantonalen Schulen gemäss § 1 Abs. 1 Bst. b auf Antrag der Anstellungsbehörde die zuständige Dienststelle der Bildungs-, Kultur- und Sportdirektion im Rahmen des budgetierten Urlaubskontingents.
 
 #### § 50a
 
@@ -832,9 +841,9 @@ beschliesst:
 - b. nach 1 und bis zu 2 Jahren — zwischen 60 und 80 %;
 - c. nach 2 Jahren und bis zu 3 Jahren — zwischen 20 und 40 %.
 
-<sup>6</sup> Der konkrete Umfang der Arbeitsverpflichtung ist zwischen der Anstellungsbehörde, bei Lehrpersonen der Bildungs-, Kultur- und Sportdirektion, und der Mitarbeiterin oder dem Mitarbeiter vertraglich zu regeln.
+<sup>6</sup> Der konkrete Umfang der Arbeitsverpflichtung ist zwischen der Anstellungsbehörde und der Mitarbeiterin oder dem Mitarbeiter vertraglich zu regeln.
 
-<sup>7</sup> In Härtefällen kann die Anstellungsbehörde, bei Lehrpersonen die Bildungs-, Kultur- und Sportdirektion, auf eine Rückforderung ganz oder teilweise verzichten.
+<sup>7</sup> In Härtefällen kann die Anstellungsbehörde, bei Mitarbeitenden der kommunalen Schulen gemäss § 1 Abs. 1 Bst. b auf Antrag der Anstellungsbehörde der Gemeinderat und bei Mitarbeitenden der kantonalen Schulen gemäss § 1 Abs. 1 Bst. b auf Antrag der Anstellungsbehörde die zuständige Dienststelle der Bildungs-, Kultur- und Sportdirektion, ganz oder teilweise auf eine Rückforderung verzichten.
 
 [^51-1]: [SGS 150](https://bl.clex.ch/data/150/de/art19)
 
@@ -846,7 +855,7 @@ beschliesst:
 
 <sup>1</sup> Die Anstellungsbehörde kann Mitarbeiterinnen und Mitarbeitern sowie Inhaberinnen und Inhabern kantonaler Nebenämter unbezahlten Urlaub bis zu 2 Jahren bewilligen.
 
-<sup>2</sup> Zuständig für die Bewilligung unbezahlten Urlaubs ist die Anstellungsbehörde, bei Lehrpersonen auf Antrag der Anstellungsbehörde die Bildungs-, Kultur- und Sportdirektion.
+<sup>2</sup> Zuständig für die Bewilligung unbezahlten Urlaubs ist die Anstellungsbehörde.
 
 <sup>3</sup> Die Leistung von Prämien für die Versicherungen im Zusammenhang mit der Anstellung ist Sache der Mitarbeiterin oder des Mitarbeiters. Vorbehalten bleibt Abs. 4.
 
@@ -866,7 +875,7 @@ beschliesst:
 
 **Erteilung der Bewilligung**
 
-<sup>1</sup> Mitarbeitende haben Gesuche um Ausübung einer entgeltlichen Nebenbeschäftigung vor deren Übernahme bei der Anstellungsbehörde einzureichen. Über Gesuche von Lehrpersonen entscheidet die Bildungs-, Kultur- und Sportdirektion auf Antrag der Anstellungsbehörde.
+<sup>1</sup> Mitarbeitende haben Gesuche um Ausübung einer entgeltlichen Nebenbeschäftigung vor deren Übernahme bei der Anstellungsbehörde einzureichen.
 
 <sup>2</sup> Führt die Ausübung einer entgeltlichen Nebenbeschäftigung dazu, dass die Mitarbeitenden den betrieblichen Obliegenheiten nicht mehr im geforderten Mass nachkommen, ist die Bewilligung, nachdem sich die Leistung oder das Verhalten nach Ansetzung einer schriftlichen Verwarnung nicht verbessert hat, zu widerrufen oder zu beschränken.
 
@@ -895,9 +904,9 @@ beschliesst:
   - 2\. die Leiterin oder der Leiter der Stabsstelle Gemeinden,
   - 3\. die Vorsteherin oder der Vorsteher des Amts für Daten und Statistik,
   - 4\. die Leiterin oder der Leiter der Abteilung Gemeinderechnungswesen;
-- b. Schulräte der Volksschulen:
+- b. Schulräte der kommunalen Schulen:
   - 1\. die Generalsekretärin oder der Generalsekretär der Bildungs-, Kultur- und Sportdirektion,
-  - 2\. die Mitglieder der Dienststellenleitung und der Bereichsleitungen des Amtes für Volksschulen;
+  - 2\. die Mitglieder der Dienststellenleitung und der Hauptabteilungsleitungen des Amts für Volksschulen;
 - c. Sozialhilfebehörde:
   - 1\. die Vorsteherin oder der Vorsteher des Kantonalen Sozialamts,
   - 2\. die Leiterin oder der Leiter der Abteilung Unterstützungen;
