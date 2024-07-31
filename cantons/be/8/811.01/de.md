@@ -4,13 +4,13 @@ number: "811.01"
 title: Gesundheitsgesetz
 short: GesG
 language: de
-version: 2023-01-01
-valid_until: 2024-07-31
-version_adopted: 2021-12-02
+version: 2024-08-01
+valid_until: 2026-08-31
+version_adopted: 2023-11-28
 adopted: 1984-12-02
 in_force: 1985-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/811.01"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2661/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3051/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2661/pdf_file"
 
 (GesG)
 
-vom 02.12.1984 (Stand 01.01.2023)
+vom 02.12.1984 (Stand 01.08.2024)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -434,18 +434,21 @@ beschliesst:
 
 <sup>1</sup> Die Fachperson hat im Rahmen ihrer Berufsausübung festgestellte aussergewöhnliche Todesfälle unverzüglich den zuständigen Strafverfolgungsbehörden anzuzeigen.
 
-<sup>2</sup> Sie ist ohne Rücksicht auf die Bindung an das Berufsgeheimnis ermächtigt, den Strafverfolgungsbehörden Wahrnehmungen zu melden, die auf ein Verbrechen oder Vergehen gegen Leib und Leben, die öffentliche Gesundheit oder die sexuelle Integrität schliessen lassen.
+<sup>2</sup> Sie ist ohne Rücksicht auf die Bindung an das Berufsgeheimnis ermächtigt, den Strafverfolgungsbehörden Wahrnehmungen zu melden, die Anhaltspunkte geben
+
+- a auf eine konkrete Gefährdung für die physische, psychische oder sexuelle Integrität einer oder mehrerer Personen oder
+- b auf ein Verbrechen oder Vergehen gegen Leib und Leben, die öffentliche Gesundheit oder die sexuelle Integrität einer oder mehrerer Personen.
 
 <sup>3</sup> Sie ist ohne Rücksicht auf die Bindung an das Berufsgeheimnis ermächtigt, den zuständigen Behörden Wahrnehmungen zu melden, die bei einer im Rahmen des Justizvollzugs oder des Vollzugs der fürsorgerischen Unterbringung behandelten Person auf Gemeingefährlichkeit oder bei erkannter Gemeingefährlichkeit auf deren Veränderung schliessen lassen.
 
 <sup>3a</sup> Sie ist im Rahmen des Justizvollzugs zur Meldung gemäss Artikel 27 des Gesetzes vom 23. Januar 2018 über den Justizvollzug (Justizvollzugsgesetz, JVG)[^28-1] verpflichtet.
 
-<sup>4</sup> Sie ist von der Anzeigepflicht an die Staatsanwaltschaft für ein von Amtes wegen zu verfolgendes Verbrechen nach Artikel 48 Absatz 1 des Einführungsgesetzes vom 11. Juni 2009 zur Zivilprozessordnung, zur Strafprozessordnung und zur Jugendstrafprozessordnung (EG ZSJ)[^28-2] befreit.
+<sup>4</sup> Sie ist von der Anzeigepflicht an die Staatsanwaltschaft für ein von Amtes wegen zu verfolgendes Verbrechen gemäss Artikel 48 Absatz 1 des Einführungsgesetzes vom 11. Juni 2009 zur Zivilprozessordnung, zur Strafprozessordnung und zur Jugendstrafprozessordnung (EG ZSJ)[^28-2] befreit.
 
 <sup>5</sup> Weitere spezialgesetzliche Auskunftspflichten und Auskunftsrechte bleiben vorbehalten.
 
 [^28-1]: BSG [341.1](https://www.belex.sites.be.ch/data/341.1/de)
-[^28-2]: BSG 271.1
+[^28-2]: BSG [271.1](https://www.belex.sites.be.ch/data/271.1/de)
 
 #### Art. 29–30
 

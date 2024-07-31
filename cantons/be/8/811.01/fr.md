@@ -4,13 +4,13 @@ number: "811.01"
 title: "Loi sur la santé publique *"
 short: LSP
 language: fr
-version: 2023-01-01
-valid_until: 2024-07-31
-version_adopted: 2021-12-02
+version: 2024-08-01
+valid_until: 2026-08-31
+version_adopted: 2023-11-28
 adopted: 1984-12-02
 in_force: 1985-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/811.01"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2661/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3051/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2661/pdf_file"
 
 (LSP)
 
-du 02.12.1984 (état au 01.01.2023)
+du 02.12.1984 (état au 01.08.2024)
 
 Le Grand Conseil du canton de Berne,
 
@@ -434,13 +434,16 @@ arrête:
 
 <sup>1</sup> Les professionnels de la santé sont tenus de déclarer immédiatement aux autorités compétentes de poursuite pénale tout décès extraordinaire constaté dans l'exercice de leur profession.
 
-<sup>2</sup> Ils sont habilités, en dépit du secret professionnel qui les lie, à informer les autorités de poursuite pénale de tout fait permettant de conclure à un crime ou à un délit contre la vie ou l'intégrité corporelle, la santé publique ou l'intégrité sexuelle.
+<sup>2</sup> Ils sont habilités, en dépit du secret professionnel qui les lie, à informer les autorités de poursuite pénale de tout fait indiquant
+
+- a un danger concret pour l'intégrité physique, psychique ou sexuelle d'une ou de plusieurs personnes ou
+- b un crime ou un délit contre la vie ou l'intégrité corporelle, la santé publique ou l'intégrité sexuelle d'une ou de plusieurs personnes.
 
 <sup>3</sup> Ils sont autorisés, en dépit du secret professionnel qui les lie, à informer les autorités compétentes de tout fait permettant de conclure, dans le cadre de l'exécution judiciaire ou d'un placement à des fins d'assistance, à la dangerosité d'un patient ou d'une patiente ou, en cas de dangerosité reconnue, à une modification de celle-ci.
 
 <sup>3a</sup> Dans le cadre de l'exécution judiciaire, ils sont soumis à l'obligation d'annonce figurant à l'article 27 de la loi du 23 janvier 2018 sur l'exécution judiciaire (LEJ)[^28-1].
 
-<sup>4</sup> Ils sont libérés de l’obligation de dénoncer au Ministère public les crimes poursuivis d’office qui est inscrite à l’article 48, alinéa 1 de la loi du 11 juin 2009 portant introduction du code de procédure civile, du code de procédure pénale et de la loi sur la procédure pénale applicable aux mineurs (LiCPM)[^28-2].
+<sup>4</sup> Ils sont libérés de l’obligation de dénoncer au Ministère public les crimes poursuivis d’office qui est inscrite à l’article 48 alinéa 1 de la loi du 11 juin 2009 portant introduction du code de procédure civile, du code de procédure pénale et de la loi sur la procédure pénale applicable aux mineurs (LiCPM)[^28-2].
 
 <sup>5</sup> D'autres droits et obligations d'informer prévus dans la législation spéciale sont réservés.
 
