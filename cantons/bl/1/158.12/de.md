@@ -3,20 +3,20 @@ canton: BL
 number: "158.12"
 title: Verordnung über die Vergütungen für die Inhaberinnen und Inhaber von Nebenämtern und für die Mitglieder von kantonalen Arbeitsgruppen
 language: de
-version: 2021-01-01
-valid_until: 2024-07-31
-version_adopted: 2020-11-10
+version: 2024-08-01
+valid_until: 2024-08-31
+version_adopted: 2023-12-19
 adopted: 2010-03-23
 in_force: 2010-04-01
 url: "https://bl.clex.ch/app/de/texts_of_law/158.12"
-pdf: "https://bl.clex.ch/api/de/versions/3728/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3859/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Vergütungen für die Inhaberinnen und Inhaber von Nebenämtern und für die Mitglieder von kantonalen Arbeitsgruppen
 
-Vom 23.03.2010 (Stand 01.01.2021)
+Vom 23.03.2010 (Stand 01.08.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -266,31 +266,29 @@ beschliesst:
 
 #### § 17
 
-**Schulräte der Sekundarstufe I**
-
-<sup>1</sup> Das Präsidium erhält für Plenarsitzungen CHF 70.– pro Stunde vergütet.
-
-<sup>2</sup> Das Präsidium erhält als Pauschalabgeltung pro Kalenderjahr CHF 2'500.– sowie CHF 120.– pro Klasse vergütet.
-
-<sup>3</sup> Das protokollführende Mitglied erhält für die Protokollführung von Plenarsitzungen CHF 52.50 pro Stunde vergütet.
-
-<sup>4</sup> Die Mitglieder erhalten für Plenarsitzungen sowie für Sitzungen von Subkommissionen im Auftrag und im Rahmen des gesetzlichen Auftrags des Schulrats CHF 35.– pro Stunde vergütet.
-
-<sup>5</sup> Das Aktenstudium sowie alle anderen Verrichtungen der Mitglieder werden mit CHF 70.– pro Plenarsitzung vergütet.
+**…**
 
 #### § 18
 
-**Schulräte der Sekundarstufe II**
+**Schulräte der Sekundarstufen I und II**
 
-<sup>1</sup> Das Präsidium erhält für Plenarsitzungen CHF 70.– pro Stunde vergütet.
+<sup>1</sup> Das Präsidium erhält für Plenarsitzungen sowie für die Mitwirkung an den Mitarbeitendengesprächen mit der Rektorin oder dem Rektor CHF 70.– pro Stunde vergütet.
 
 <sup>2</sup> Das Präsidium erhält als Pauschalabgeltung pro Kalenderjahr CHF 2'500.– vergütet.
 
 <sup>3</sup> Das Präsidium erhält für Subkommissionssitzungen im Auftrag und im Rahmen des gesetzlichen Auftrags des Schulrats CHF 35.– pro Stunde vergütet.
 
-<sup>4</sup> Die Mitglieder erhalten für Plenarsitzungen sowie für Sitzungen von Subkommissionen im Auftrag des Präsidiums CHF 35.– pro Stunde vergütet.
+<sup>4</sup> Die Mitglieder erhalten für Plenarsitzungen sowie für Sitzungen von Subkommissionen im Auftrag des Präsidiums CHF 35.– pro Stunde vergütet. Diese Entschädigung gilt für alle Mitglieder mit oder ohne Stimmrecht mit Ausnahme der Vertretung der zuständigen Dienststelle und der Vertretung der Schulleitung.
 
 <sup>5</sup> Das Aktenstudium sowie alle anderen Verrichtungen der Mitglieder werden mit CHF 70.– pro Plenarsitzung vergütet.
+
+<sup>6</sup> Die Protokollführung durch ein Mitglied des Schulrats wird mit CHF 52.50 pro Stunde vergütet.
+
+#### § 18a
+
+**Vertretungen in Wahlgremien zur Anstellung von Schulleitungsmitgliedern auf den Sekundarstufen I und II**
+
+<sup>1</sup> Die Vertretungen des Schulrats, des Lehrerinnen- und Lehrerkonvents sowie auf der Sekundarstufe II der Schülerinnen und Schüler in Wahlgremien zur Anstellung von Mitgliedern der Schulleitungen erhalten für ihre Tätigkeit im Wahlgremium CHF 35.– pro Stunde.
 
 #### § 19
 
