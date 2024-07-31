@@ -4,11 +4,11 @@ title: Ordonnance du DETEC du 24 novembre 2022 sur les aéronefs de catégories 
 short: OACS
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/802"
 language: fr
-version: 2023-01-01
+version: 2024-08-01
 adopted: 2022-11-24
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/802/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-802-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/802/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/802/20240801/fr/xml/fedlex-data-admin-ch-eli-cc-2022-802-20240801-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/802/20240801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,20 +17,22 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/802/20230101/fr"
 
 (OACS)
 
-du 24 novembre 2022 (État le 1<sup>er</sup> janvier 2023)
+du 24 novembre 2022 (État le 1<sup>er</sup> août 2024)
 
 Le Département fédéral de l’environnement, des transports, de l’énergie et de la communication (DETEC),
 
-vu les art. 4, al. 1, et 57, al. 1 et 2, de la loi du 21 décembre 1948 sur l’aviation (LA)[^ingress-1], vu les art. 2*a*, al. 3, 21, 24, al. 1, et 125, al. 2, de l’ordonnance du 14 novembre 1973 sur l’aviation[^ingress-2], en exécution du règlement (UE) 2018/1139[^ingress-3], du règlement d’exécution (UE) n<sup>o</sup> 923/2012[^ingress-4], du règlement délégué (UE) 2019/945[^ingress-5] et du règlement d’exécution (UE) 2019/947[^ingress-6],
+vu les art. 4, al. 1, et 57, al. 1 et 2, de la loi fédérale du 21 décembre 1948 sur l’aviation (LA)[^ingress-1], vu les art. 2*a*, al. 3, 21, 24, al. 1, et 125, al. 2, de l’ordonnance du 14 novembre 1973 sur l’aviation[^ingress-2], en exécution du règlement (UE) 2018/1139[^ingress-3], du règlement d’exécution (UE) n<sup>o</sup> 923/2012[^ingress-4], du règlement délégué (UE) 2019/945[^ingress-5], du règlement d’exécution (UE) 2019/947[^ingress-6] et du règlement d’exécution (UE) 2021/664[^ingress-7],[^ingress-8]
 
 arrête:
 
 [^ingress-1]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
 [^ingress-2]: [RS 748.01](https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856)
-[^ingress-3]: Règlement (UE) 2018/1139 du Parlement européen et du Conseil du 4 juillet 2018 concernant des règles communes dans le domaine de l’aviation civile et instituant une Agence de l’Union européenne pour la sécurité aérienne, et modifiant les R (UE) n<sup>o</sup> 2111/2005, (CE) n<sup>o</sup> 1008/2008, (UE) n<sup>o</sup> 996/2010, (UE) n<sup>o</sup> 376/2014 et les directives 2014/30/UE et 2014/53/UE du Parlement européen et du Conseil, et abrogeant les R (CE) n<sup>o</sup> 552/2004 et (CE) n<sup>o</sup> 216/2008 du Parlement européen et du Conseil ainsi que le R (CEE) n<sup>o</sup> 3922/91 du Conseil, dans la version qui lie la Suisse en vertu du ch. 3 de l’annexe de l’accord entre la Confédération suisse et la Communauté européenne sur le transport aérien conclu le 21 juin 1999 ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
-[^ingress-4]: Règlement d’exécution (UE) n<sup>o</sup> 923/2012 de la Commission du 26 septembre 2012 établissant les règles de l’air communes et des dispositions opérationnelles relatives aux services et procédures de navigation aérienne et modifiant le R d’ex (UE) n<sup>o</sup> 1035/2011, ainsi que les R (CE) n<sup>o</sup> 1265/2007, (CE) n<sup>o</sup> 1794/2006, (CE) n<sup>o</sup> 730/2006, (CE) n<sup>o</sup> 1033/2006 et (UE) n<sup>o</sup> 255/2010, dans la version qui lie la Suisse en vertu du ch. 5 de l’annexe de l’accord entre la Confédération suisse et la Communauté européenne sur le transport aérien conclu le 21 juin 1999 ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^ingress-3]: Règlement (UE) 2018/1139 du Parlement européen et du Conseil du 4 juillet 2018 concernant des règles communes dans le domaine de l’aviation civile et instituant une Agence de l’Union européenne pour la sécurité aérienne, et modifiant les règlements (CE) n<sup>o</sup> 2111/2005, (CE) n<sup>o</sup> 1008/2008, (UE) n<sup>o</sup> 996/2010, (UE) n<sup>o</sup> 376/2014 et les directives 2014/30/UE et 2014/53/UE du Parlement européen et du Conseil, et abrogeant les règlements (CE) n<sup>o</sup> 552/2004 et (CE) n<sup>o</sup> 216/2008 du Parlement européen et du Conseil ainsi que le règlement (CEE) n<sup>o</sup> 3922/91 du Conseil, dans la version qui lie la Suisse en vertu du ch. 3 de l’annexe de l’accord entre la Confédération suisse et la Communauté européenne sur le transport aérien conclu le 21 juin 1999 ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^ingress-4]: Règlement d’exécution (UE) n<sup>o</sup> 923/2012 de la Commission du 26 septembre 2012 établissant les règles de l’air communes et des dispositions opérationnelles relatives aux services et procédures de navigation aérienne et modifiant le règlement d’exécution (UE) n<sup>o</sup> 1035/2011, ainsi que les règlements (CE) n<sup>o</sup> 1265/2007, (CE) n<sup>o</sup> 1794/2006, (CE) n<sup>o</sup> 730/2006, (CE) n<sup>o</sup> 1033/2006 et (UE) n<sup>o</sup> 255/2010, dans la version qui lie la Suisse en vertu du ch. 5 de l’annexe de l’accord entre la Confédération suisse et la Communauté européenne sur le transport aérien conclu le 21 juin 1999 ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
 [^ingress-5]: Règlement délégué (UE) 2019/945 de la Commission du 12 mars 2019 relatif aux systèmes d’aéronefs sans équipage à bord et aux exploitants, issus de pays tiers, de systèmes d’aéronefs sans équipage à bord, dans la version qui lie la Suisse en vertu du ch. 3 de l’annexe de l’accord entre la Confédération suisse et la Communauté européenne sur le transport aérien conclu le 21 juin 1999 ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
 [^ingress-6]: Règlement d’exécution (UE) 2019/947 de la Commission du 24 mai 2019 concernant les règles et procédures applicables à l’exploitation d’aéronefs sans équipage à bord, dans la version qui lie la Suisse en vertu du ch. 3 de l’annexe de l’accord entre la Confédération suisse et la Communauté européenne sur le transport aérien conclu le 21 juin 1999 ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^ingress-7]: Règlement d’exécution (UE) 2021/664 de la Commission du 22 avril 2021 relatif à un cadre réglementaire pour l’U-space, dans la version qui lie la Suisse en vertu du ch. 3 de l’annexe de l’accord entre la Confédération suisse et la Communauté européenne sur le transport aérien conclu le 21 juin 1999 ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^ingress-8]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 298](https://fedlex.data.admin.ch/eli/oc/2024/298)).
 
 ## Chapitre 1 Champ d’application et dispositions communes
 
@@ -396,6 +398,51 @@ Des exceptions peuvent être autorisées aux restrictions suivantes:
 
 [^29-1]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
 
+### Section 3*a* Espaces aériens U-space
+
+[^chap3-sec3a-1]
+
+[^chap3-sec3a-1]: Introduite par le ch. I de l’O du DETEC du 14 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 298](https://fedlex.data.admin.ch/eli/oc/2024/298)).
+
+#### Art. 29a
+
+**Désignation des espaces aériens U-space**
+
+Des espaces aériens U-space au sens du règlement d’exécution (UE) 2021/664 peuvent être désignés par l’OFAC par une procédure de modification de la structure de l’espace aérien.
+
+#### Art. 29b
+
+**Conditions préalables aux activités**
+
+L’OFAC autorise le prestataire de services U-space certifié à débuter ses activités s’il remplit les conditions suivantes:
+
+- a. il atteint les niveaux de performance de chaque espace aérien U-space spécifique dans lequel il opère;
+- b. il a la capacité d’échanger les données et informations pertinentes avec les autres prestataires de services U-space.
+
+#### Art. 29c
+
+**Échange de données et interopérabilité des systèmes**
+
+Tout prestataire de services U-space est tenu de contribuer à l’échange de données et à l’interopérabilité des systèmes.
+
+#### Art. 29d
+
+**Accord entre prestataires de services U-space**
+
+<sup>1</sup> Si plusieurs prestataires de services U-space exercent leurs activités dans un même espace aérien U-space, ils conviennent ensemble des modalités concernant les services U-space à fournir, dans le respect des prescriptions nationales et du règlement d’exécution (UE) 2021/664.
+
+<sup>2</sup> L’OFAC est invité à participer aux négociations. Si les prestataires de services U‑space ne parviennent pas à s’entendre dans un délai de trois mois, l’OFAC les conseille après les avoir entendus.
+
+#### Art. 29e
+
+**Services d’informations communes**
+
+<sup>1</sup> L’OFAC met à disposition les données énumérées à l’art. 5, par 1, du règlement d’exécution (UE) 2021/664 dans le cadre des services d’informations communes relatifs à chaque espace aérien U-space.
+
+<sup>2</sup> Skyguide met à disposition les données opérationnelles ainsi que les données relatives aux restrictions dynamiques de l’espace aérien U-space et fournit les services liés à l’espace aérien U-space énumérés à l’Annexe IV, ATS.OR.127, du règlement d’exécution (UE) 2017/373[^29e-1].
+
+[^29e-1]: Règlement d’exécution (UE) 2017/373 de la Commission du 1<sup>er</sup> mars 2017 établissant des exigences communes relatives aux prestataires de services de gestion du trafic aérien et de services de navigation aérienne ainsi que des autres fonctions de réseau de la gestion du trafic aérien, et à leur supervision, abrogeant le règlement (CE) n<sup>o</sup> 482/2008, les règlements d’exécution (UE) n<sup>o</sup> 1034/2011, (UE) n<sup>o</sup> 1035/2011 et (UE) 2016/1377 et modifiant le règlement (UE) n<sup>o</sup> 677/2011.
+
 ### Section 4 Modèles réduits d’aéronefs
 
 #### Art. 30
@@ -465,7 +512,14 @@ Des exceptions peuvent être autorisées aux règles d’exploitation suivantes:
 
 **Prescriptions cantonales**
 
-Pour réduire les nuisances et le danger auquel les personnes et les biens sont exposés au sol, les cantons peuvent, en vertu de l’art. 51, al. 3, LA, édicter des prescriptions applicables aux aéronefs sans occupants d’un poids allant jusqu’à 25 kg.
+<sup>1</sup> Pour réduire les nuisances et le danger auquel les personnes et les biens sont exposés au sol, les cantons peuvent, en vertu de l’art. 51, al. 3, LA, édicter des prescriptions applicables aux aéronefs sans occupants d’un poids allant jusqu’à 25 kg.
+
+<sup>2</sup> Les cantons communiquent à l’OFAC les données relatives à ces prescriptions au format visé à l’art. 15, par. 3, du règlement d’exécution (UE) 2019/947.[^34-1]
+
+<sup>3</sup> L’OFAC publie les données.[^34-2]
+
+[^34-1]: Introduit par le ch. I de l’O du DETEC du 14 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 298](https://fedlex.data.admin.ch/eli/oc/2024/298)).
+[^34-2]: Introduit par le ch. I de l’O du DETEC du 14 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 298](https://fedlex.data.admin.ch/eli/oc/2024/298)).
 
 #### Art. 35
 
@@ -483,11 +537,20 @@ La couverture de la responsabilité civile n’est pas nécessaire pour:
 
 <sup>3</sup> L’exploitant d’un aéronef de plus de 250 g doit se munir de l’attestation de l’assurance-responsabilité lors de l’utilisation de l’aéronef.
 
+<sup>4</sup> La Confédération, les cantons et les communes ne sont pas tenus de conclure une assurance responsabilité civile.[^35-1]
+
+[^35-1]: Introduit par le ch. I de l’O du DETEC du 14 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 298](https://fedlex.data.admin.ch/eli/oc/2024/298)).
+
 #### Art. 36
 
-**Autorité compétente**
+**Autorité compétente**[^36-1]
 
-L’OFAC est responsable pour l’accomplissement des tâches prévues à l’art. 18 du règlement d’exécution (UE) 2019/947.
+L’OFAC est responsable de l’accomplissement des tâches prévues à:
+
+- a. l’art. 18 du règlement d’exécution (UE) 2019/947;
+- b. l’art. 18 du règlement d’exécution (UE) 2021/664.
+
+[^36-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 298](https://fedlex.data.admin.ch/eli/oc/2024/298)).
 
 #### Art. 37
 
@@ -499,9 +562,12 @@ L’OFAC peut notamment déléguer les tâches suivantes aux entités qualifiée
 
 - a. examen des demandes tendant à l’obtention d’une autorisation d’exploitation conformément à l’art. 5 en relation avec l’art. 11 du règlement d’exécution (UE) 2019/947;
 - b. délivrance et modification des autorisations d’exploitation conformément à l’art. 12 du règlement d’exécution (UE) 2019/947;
-- c. exercice de la surveillance des exploitants conformément à l’art. 18, point h), i), du règlement d’exécution (UE) 2019/947.
+- c. exercice de la surveillance des exploitants conformément à l’art. 18, point h), i), du règlement d’exécution (UE) 2019/947;
+- d.[^37-1] organisation et offre de formations et d’examens pour le brevet d’aptitude de pilote à distance visé à l’annexe, partie A, point UAS.OPEN.030(2) du règlement d’exécution (UE) 2019/947 et pour le certificat d’aptitude théorique et l’attestation de réussite de la formation pratique visés à l’annexe, appendice 1, du règlement d’exécution (UE) 2019/947.
 
 <sup>2</sup> Les entités qualifiées sont placées sous la surveillance de l’OFAC.
+
+[^37-1]: Introduite par le ch. I de l’O du DETEC du 14 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 298](https://fedlex.data.admin.ch/eli/oc/2024/298)).
 
 #### Art. 38
 
@@ -517,20 +583,34 @@ Les documents suivants sont joints à la demande:
 - b. description des processus internes pertinents (gestion de la sécurité comprise);
 - c. extrait du registre du commerce.
 
+<sup>2bis</sup> L’entité qualifiée qui souhaite être active dans le domaine de la formation selon l’art. 37, al. 1, let. d, devra soumettre un programme de formation en plus des documents mentionnés à l’al. 2.[^38-1]
+
 <sup>3</sup> L’OFAC examine les documents remis; il accrédite l’entité qualifiée au cas par cas par voie de décision dans laquelle il inscrit les compétences de cette dernière et la durée de validité de l’accréditation.
+
+[^38-1]: Introduit par le ch. I de l’O du DETEC du 14 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 298](https://fedlex.data.admin.ch/eli/oc/2024/298)).
 
 #### Art. 39
 
-**Conditions d’accréditation des entités qualifiées**
+**Conditions d’accréditation des entités qualifiées**[^39-1]
+
+<sup>1</sup>
 
 L’OFAC accrédite les entités qualifiées pour évaluer les autorisations d’exploitation en appliquant les critères suivants:
 
 - a. l’entité qualifiée doit posséder les compétences requises pour évaluer les demandes d’autorisation d’exploitation et employer du personnel dûment formé pour accomplir correctement les tâches;
 - b. conformément au premier point de l’annexe VI du règlement 2018/1139, l’entité qualifiée, son directeur et le personnel compétent doivent garantir que les demandes sont évaluées de manière impartiale et examinées en faisant preuve de la plus haute diligence;
-- c. l’entité qualifiée dispose d’un processus qui permet de suivre les évolutions sur le plan international des bases d’évaluation des demandes selon la méthode SORA[^39-1];
+- c. l’entité qualifiée dispose d’un processus qui permet de suivre les évolutions sur le plan international des bases d’évaluation des demandes selon la méthode SORA[^39-2];
 - d. l’entité qualifiée a conclu une assurance responsabilité civile destinée à couvrir d’éventuels sinistres.
 
-[^39-1]: Executive Director Decision 2019/021/R of 9 October 2019 issuing Acceptable Means of Compliance and Guidance Material to Commission Implementing Regulation (EU) No 2019/947, telle que modifiée en dernier lieu par l’Executive Director Decision 2020/022/R of 15 December 2020 issuing the following: Amendment 1 to the Acceptable Means of Compliance and Guidance Material to Commission Implementing Regulation (EU) 2019/947 and to the Annex (Part-UAS) thereto «AMC and GM to Commission Implementing Regulation (EU) 2019/947 – Issue 1, Amendment 1», «AMC and GM to Part‑UAS – Issue 1, Amendment 1» ED Decision 2020/022/R, en particulier l’AMC1 Article 11 Rules for conducting an operational risk assessment.
+<sup>2</sup>
+
+Il accrédite les entités qualifiées pour dispenser des formations en appliquant les critères suivants:
+
+- a. l’entité qualifiée doit posséder du personnel dûment qualifié pour pouvoir proposer des formations aux pilotes à distance pour le type de formation concerné;
+- b. le programme de formation répond aux exigences du règlement d’exécution (UE) 2019/947.
+
+[^39-1]: Nouvelle teneur selon le ch. I de l’O du DETEC du 14 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 298](https://fedlex.data.admin.ch/eli/oc/2024/298)).
+[^39-2]: Acceptable Means of Compliance and Guidance Material to Commission Implementing Regulation (EU) n<sup>o</sup> 2019/947.
 
 #### Art. 40
 
@@ -543,7 +623,10 @@ Suivant son domaine d’activité, l’entité qualifiée doit:
 - c. faire appel à l’AESA, aux autorités cantonales ou à d’autres services pertinents pour l’exploitation;
 - d. assurer la coordination avec l’OFAC;
 - e. traiter les informations et les données avec la diligence requise par les règles de protection des données et veiller à ce que les documents du requérant ne soient pas diffusés sans son assentiment;
-- f. traiter équitablement les requérants et offrir ses services de contrôle à des tarifs uniformes pour toute la Suisse.
+- f. traiter équitablement les requérants et offrir ses services de contrôle à des tarifs uniformes pour toute la Suisse;
+- g.[^40-1] établir les certificats et attestations, lorsqu’elle propose des formations.
+
+[^40-1]: Introduite par le ch. I de l’O du DETEC du 14 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 298](https://fedlex.data.admin.ch/eli/oc/2024/298)).
 
 ## Chapitre 4 Dispositions pénales
 

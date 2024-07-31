@@ -4,11 +4,11 @@ title: DETEC Ordinance of 24 November 2022 on Special Category Aircraft (OSCA)
 short: OSCA
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/802"
 language: en
-version: 2023-01-01
+version: 2024-08-01
 adopted: 2022-11-24
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/802/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2022-802-20230101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/802/20230101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/802/20240801/en/xml/fedlex-data-admin-ch-eli-cc-2022-802-20240801-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/802/20240801/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,20 +19,22 @@ English is not an official language of the Swiss Confederation. This translation
 
 (OSCA)
 
-of 24 November 2022 (Status as of 1 January 2023)
+of 24 November 2022 (Status as of 1 August 2024)
 
 Federal Department of the Environment, Transport, Energy and Communications (DETEC),
 
-on the basis of Articles 4 paragraph 1, 57 paragraphs 1 and 2 of the Federal Act of 21 December 1948[^ingress-1] on Aviation (AviA) and on Articles 2*a* paragraph 3, 21, 24 paragraph 1 and 125 paragraph 2 of the Ordinance of 14 November 1973[^ingress-2] on Aviation, and in implementation of Regulation (EU) 2018/1139[^ingress-3], Implementing Regulation (EU) No 923/2012[^ingress-4], Delegated Regulation (EU) 2019/945[^ingress-5] and Implementing Regulation (EU) 2019/947[^ingress-6],
+on the basis of Articles 4 paragraph 1, 57 paragraphs 1 and 2 of the Federal Act of 21 December 1948[^ingress-1] on Aviation (AviA) and on Articles 2*a* paragraph 3, 21, 24 paragraph 1 and 125 paragraph 2 of the Ordinance of 14 November 1973[^ingress-2] on Aviation (O-AviA), and in implementation of Regulation (EU) 2018/1139[^ingress-3], Implementing Regulation (EU) No 923/2012[^ingress-4], Delegated Regulation (EU) 2019/945[^ingress-5], Implementing Regulation (EU) 2019/947[^ingress-6], and Implementing Regulation (EU) 2021/664[^ingress-7],[^ingress-8]
 
 ordains:
 
 [^ingress-1]: [SR 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
 [^ingress-2]: [SR 748.01](https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856)
-[^ingress-3]: Regulation (EU) 2018/1139 of the European Parliament and of the Council of 4 July 2018 on common rules in the field of civil aviation and establishing a European Union Aviation Safety Agency, and amending Regulations (EC) No 2111/2005, (EC) No 1008/2008, (EU) No 996/2010, (EU) No 376/2014 and Directives 2014/30/EU and 2014/53/EU of the European Parliament and of the Council, and repealing Regulations (EC) No 552/2004 and (EC) No 216/2008 of the European Parliament and of the Council and Council Regulation (EEC) No 3922/91 in the version currently binding on Switzerland in accordance with No 3 of the Annex to the Air Transport Agreement of 21 June 1999 ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^ingress-3]: Regulation (EU) 2018/1139 of the European Parliament and of the Council of 4 July 2018 on common rules in the field of civil aviation and establishing a European Union Aviation Safety Agency, and amending Regulations (EC) No 2111/2005, (EC) No 1008/2008, (EU) No 996/2010, (EU) No 376/2014 and Directives 2014/30/EU and 2014/53/EU of the European Parliament and of the Council, and repealing Regulations (EC) No 552/2004 and (EC) No 216/2008 of the European Parliament and of the Council and Council Regulation (EEC) No 3922/91 in the version currently binding on Switzerland in accordance with No 3 of the Annex to the Agreement of 21 June 1999 between the Swiss Confederation and European Community on Air Transport ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
 [^ingress-4]: Commission Implementing Regulation (EU) No 923/2012 of 26 September 2012 laying down the common rules of the air and operational provisions regarding services and procedures in air navigation and amending Implementing Regulation (EU) No 1035/2011 and Regulations (EC) No 1265/2007, (EC) No 1794/2006, (EC) No 730/2006, (EC) No 1033/2006 and (EU) No 255/2010 in the version currently binding on Switzerland in accordance with No 5 of the Annex to the Air Transport Agreement of 21 June 1999 ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
 [^ingress-5]: Commission Delegated Regulation (EU) 2019/945 of 12 March 2019 on unmanned aircraft systems and on third-country operators of unmanned aircraft systems in the version currently binding on Switzerland in accordance with No 3 of the Annex to the Air Transport Agreement of 21 June 1999 ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
 [^ingress-6]: Commission Implementing Regulation (EU) 2019/947 of 24 May 2019 on the rules and procedures for the operation of unmanned aircraft in the version currently binding on Switzerland in accordance with No 3 of the Annex to the Air Transport Agreement of 21 June 1999 ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^ingress-7]: Commission Implementing Regulation (EU) 2021/664 of 22 April 2021 on a regulatory framework for the U-space, in the version currently binding on Switzerland in accordance with No 3 of the Annex to the Agreement of 21 June 1999 between the Swiss Confederation and European Community on Air Transport ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^ingress-8]: Amended by No I of the DETEC O of 14 June 2024, in force since 1 Aug. 2024 ([AS 2024 298](https://fedlex.data.admin.ch/eli/oc/2024/298)).
 
 ## Chapter 1 Scope of Application and Common Provisions
 
@@ -396,6 +398,51 @@ Exceptions to the following restrictions may be authorised:
 
 [^29-1]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
 
+### Section 3*a* U-Space Airspaces
+
+[^chap3-sec3a-1]
+
+[^chap3-sec3a-1]: Inserted by No 1 of the DETEC O of 14 June 2024, in force since 1 Aug. 2024 ([AS 2024 298](https://fedlex.data.admin.ch/eli/oc/2024/298)).
+
+#### Art. 29a
+
+**Designation of U-space airspaces**
+
+U-space airspaces as defined in Implementing Regulation (EU) 2021/664 may be designated by the FOCA through a procedure to amend the airspace structure.
+
+#### Art. 29b
+
+**Conditions for beginning operations**
+
+The FOCA will allow a certified U-space service provider to begin operations if it:
+
+- a. meets the level of performance required for each specific U-space airspace in which it will operate;
+- b. has the capability to exchange relevant data and information with other U-space service providers.
+
+#### Art. 29c
+
+**Data exchange and system interoperability**
+
+Every U-space service provider is required to contribute to data exchange and system interoperability.
+
+#### Art. 29d
+
+**Agreement between U-space service providers**
+
+<sup>1</sup> If two or more U-space service providers operate in the same U-space airspace, they shall jointly agree on the details of the U-space services to be provided, in accordance with national regulations and those of Implementing Regulation (EU) 2021/664.
+
+<sup>2</sup> The FOCA shall be involved in the negotiations. If the U-space service providers are unable to reach an agreement within three months, the FOCA shall advise them after a hearing.
+
+#### Art. 29e
+
+**Common information services**
+
+<sup>1</sup> The FOCA shall provide the data listed in Article 5 paragraph 1 of Implementing Regulation (EU) 2021/664 for each U‑space airspace as part of the common information services.
+
+<sup>2</sup> Skyguide shall provide the operational data and the data on the dynamic restrictions of the U-space airspace and shall provide the services related to the U-space airspace listed in point ATS.OR.127 of Annex IV of Implementing Regulation (EU) 2017/373[^29e-1]*.*
+
+[^29e-1]: Commission Implementing Regulation (EU) 2017/373 of 1 March 2017 laying down common requirements for providers of air traffic management/air navigation services and other air traffic management network functions and their oversight, repealing Regulation (EC) No 482/2008, Implementing Regulations (EU) No 1034/2011, (EU) No 1035/2011 and (EU) 2016/1377 and amending Regulation (EU) No 677/2011.
+
 ### Section 4 Model Aircraft
 
 #### Art. 30
@@ -465,7 +512,14 @@ Exceptions to the following operating regulations may be authorised:
 
 **Cantonal Regulations**
 
-The cantons may issue regulations for unmanned aircraft weighing less than 25kg on the reduction of environmental pollution and on the risk to persons and property on the ground in accordance with Article 51 paragraph 3 AviA.
+<sup>1</sup> The cantons may issue regulations for unmanned aircraft weighing less than 25kg on the reduction of environmental pollution and on the risk to persons and property on the ground in accordance with Article 51 paragraph 3 AviA.
+
+<sup>2</sup> The cantons shall transmit the data relating to these regulations to the FOCA in the format specified in Article 15 paragraph 3 of Implementing Regulation (EU) 2019/947.[^34-1]
+
+<sup>3</sup> The FOCA shall publish the data.[^34-2]
+
+[^34-1]: Inserted by No 1 of the DETEC O of 14 June 2024, in force since 1 Aug. 2024 ([AS 2024 298](https://fedlex.data.admin.ch/eli/oc/2024/298)).
+[^34-2]: Inserted by No 1 of the DETEC O of 14 June 2024, in force since 1 Aug. 2024 ([AS 2024 298](https://fedlex.data.admin.ch/eli/oc/2024/298)).
 
 #### Art. 35
 
@@ -483,11 +537,20 @@ Cover for third-party liability claims is not required for:
 
 <sup>3</sup> Keepers of aircraft weighing over 250g must carry evidence of third-party liability insurance when operating aircraft.
 
+<sup>4</sup> The Confederation, cantons and communes are not required to take out liability insurance.[^35-1]
+
+[^35-1]: Inserted by No 1 of the DETEC O of 14 June 2024, in force since 1 Aug. 2024 ([AS 2024 298](https://fedlex.data.admin.ch/eli/oc/2024/298)).
+
 #### Art. 36
 
-**Competent authority**
+**Competent authority**[^36-1]
 
-The FOCA is responsible for compliance with the requirements set out in Article 18 of Implementing Regulation (EU) 2019/947.
+The FOCA is responsible for compliance with the requirements set out in:
+
+- a. Article 18 of Implementing Regulation (EU) 2019/947;
+- b. Article 18 of Implementing Regulation (EU) 2021/664.
+
+[^36-1]: Amended by No 1 of the DETEC O of 14 June 2024, in force since 1 Aug. 2024 ([AS 2024 298](https://fedlex.data.admin.ch/eli/oc/2024/298)).
 
 #### Art. 37
 
@@ -500,8 +563,11 @@ The FOCA may assign the following tasks to qualified entities in accordance with
 - a. evaluation of applications for operational authorisation in accordance with Article 5 in conjunction with Article 11 of Implementing Regulation (EU) 2019/947;
 - b. granting and amending of operational authorisation in accordance with Article 12 of Implementing Regulation (EU) 2019/947;
 - c. oversight of the operators in accordance with Article 18 letter h No 1 of Implementing Regulation (EU) 2019/947;
+- d.[^37-1] organising and providing training courses and examinations to obtain certificates of remote pilot competency in accordance with point UAS.OPEN.030(2) of Part A of the Annex to Implementing Regulation (EU) 2019/947 and certificates of theoretical knowledge and accreditations for completing the skill test in accordance with Appendix 1 to Implementing Regulation (EU) 2019/947.
 
 <sup>2</sup> The qualified entities are under the supervision of the FOCA.
+
+[^37-1]: Inserted by No 1 of the DETEC O of 14 June 2024, in force since 1 Aug. 2024 ([AS 2024 298](https://fedlex.data.admin.ch/eli/oc/2024/298)).
 
 #### Art. 38
 
@@ -517,20 +583,34 @@ The application must contain the following documents:
 - b. description of the relevant internal processes (including safety management);
 - c. commercial register extract.
 
+<sup>2bis</sup> The qualified entity that intends to operate in the field of training in accordance with Article 37 paragraph 1 letter d must in addition to the documents listed in paragraph 2 submit a training programme.[^38-1]
+
 <sup>3</sup> The FOCA shall assess the documents submitted; it shall accredit the qualified entity on a case-by-case basis by means of a ruling and define its competencies and the period of validity for the accreditation.
+
+[^38-1]: Inserted by No 1 of the DETEC O of 14 June 2024, in force since 1 Aug. 2024 ([AS 2024 298](https://fedlex.data.admin.ch/eli/oc/2024/298)).
 
 #### Art. 39
 
-**Requirements for accreditation as a qualified entity**
+**Requirements for accreditation as a qualified entity**[^39-1]
+
+<sup>1</sup>
 
 The FOCA shall accredit qualified entities for the evaluation of operational authorisation based on the following criteria:
 
 - a. The qualified entity must possess the required competencies in the evaluation of applications for operational authorisation and have suitably trained staff to perform the tasks correctly.
 - b. The qualified entity, its management and the staff responsible must ensure independent evaluation of the applications in accordance with No 1 of Annex VI to Regulation 2018/1139 and evaluate the applications with the greatest possible care.
-- c. The qualified entity has a process for monitoring developments concerning the basis for evaluating applications based on the SORA method[^39-1] at international level.
+- c. The qualified entity has a process for monitoring developments concerning the basis for evaluating applications based on the SORA method[^39-2] at international level.
 - d. The qualified entity holds a third-party liability insurance policy to cover any claims that may arise.
 
-[^39-1]: Executive Director Decision 2019/021/R of 9 October 2019 issuing Acceptable Means of Compliance and Guidance Material to Commission Implementing Regulation (EU) No 2019/947, last amended by the Executive Director Decision 2020/022/R of 15 December 2020 issuing the following: Amendment 1 to the Acceptable Means of Compliance and Guidance Material to Commission Implementing Regulation (EU) 2019/947 and to the Annex (Part-UAS) thereto «AMC and GM to Commission Implementing Regulation (EU) 2019/947 – Issue 1, Amendment 1», «AMC and GM to Part-UAS – Issue 1, Amendment 1» ED Decision 2020/022/R, in particular AMC1 Article 11 Rules for conducting an operational risk assessment.
+<sup>2</sup>
+
+It shall accredit qualified entities for the provision of training courses based on the following criteria:
+
+- a. The qualified entity must have personnel that are suitably qualified to provide remote pilots with the type of training in question.
+- b. The training programme must comply with the requirements of Implementing Regulation (EU) 2019/947.
+
+[^39-1]: Amended by No 1 of the DETEC O of 14 June 2024, in force since 1 Aug. 2024 ([AS 2024 298](https://fedlex.data.admin.ch/eli/oc/2024/298)).
+[^39-2]: Acceptable Means of Compliance and Guidance Material to Commission Implementing Regulation (EU) No 2019/947.
 
 #### Art. 40
 
@@ -543,7 +623,10 @@ Depending on the tasks assigned, the qualified entity must:
 - c. consult with the EASA, cantonal authorities or other agencies that are relevant to operation;
 - d. ensure coordination with the FOCA;
 - e. treat information and processed data with the care required for data protection and ensure that the applicant’s documents are not passed on without their consent;
-- f. ensure the equal treatment of applicants and provide their evaluation activities throughout Switzerland at the same prices.
+- f. ensure the equal treatment of applicants and provide their evaluation activities throughout Switzerland at the same prices;
+- g.[^40-1] issue certificates and accreditations if it offers training courses.
+
+[^40-1]: Inserted by No 1 of the DETEC O of 14 June 2024, in force since 1 Aug. 2024 ([AS 2024 298](https://fedlex.data.admin.ch/eli/oc/2024/298)).
 
 ## Chapter 4 Criminal Provisions
 
@@ -561,7 +644,7 @@ Depending on the tasks assigned, the qualified entity must:
 
 The DETEC Ordinance of 24 November 1994[^42-1] on Special Category Aircraft is repealed.
 
-[^42-1]: [[AS 1994 3076](https://fedlex.data.admin.ch/eli/oc/1994/3076_3076_3076); [2009 5399](https://fedlex.data.admin.ch/eli/oc/2009/654); [2011 1155](https://fedlex.data.admin.ch/eli/oc/2011/168)No I 8; [2014 2315](https://fedlex.data.admin.ch/eli/oc/2014/392); [2015 1643](https://fedlex.data.admin.ch/eli/oc/2015/326)Annexe 2, [2193](https://fedlex.data.admin.ch/eli/oc/2015/404); [2016 2999](https://fedlex.data.admin.ch/eli/oc/2016/506); [2017 5067](https://fedlex.data.admin.ch/eli/oc/2017/554)No III; [2018 3847](https://fedlex.data.admin.ch/eli/oc/2018/610)No II]
+[^42-1]: [[AS 1994 3076](https://fedlex.data.admin.ch/eli/oc/1994/3076_3076_3076); [2009 5399](https://fedlex.data.admin.ch/eli/oc/2009/654); [2011 1155](https://fedlex.data.admin.ch/eli/oc/2011/168)No I 8; [2014 2315](https://fedlex.data.admin.ch/eli/oc/2014/392); [2015 1643](https://fedlex.data.admin.ch/eli/oc/2015/326)Annex 2, [2193](https://fedlex.data.admin.ch/eli/oc/2015/404); [2016 2999](https://fedlex.data.admin.ch/eli/oc/2016/506); [2017 5067](https://fedlex.data.admin.ch/eli/oc/2017/554)No III; [2018 3847](https://fedlex.data.admin.ch/eli/oc/2018/610)No II]
 
 #### Art. 43
 

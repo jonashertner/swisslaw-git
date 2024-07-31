@@ -4,11 +4,11 @@ title: Verordnung des UVEK vom 24. November 2022 über Luftfahrzeuge besonderer 
 short: VLK
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/802"
 language: de
-version: 2023-01-01
+version: 2024-08-01
 adopted: 2022-11-24
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/802/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2022-802-20230101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/802/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/802/20240801/de/xml/fedlex-data-admin-ch-eli-cc-2022-802-20240801-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/802/20240801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,20 +17,22 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/802/20230101/de"
 
 (VLK)
 
-vom 24. November 2022 (Stand am 1. Januar 2023)
+vom 24. November 2022 (Stand am 1. August 2024)
 
 Das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation (UVEK),
 
-gestützt auf die Artikel 4 Absatz 1 sowie Artikel 57 Absätze 1 und 2 des Luftfahrtgesetzes vom 21. Dezember 1948[^ingress-1] (LFG) und auf die Artikel 2*a* Absatz 3, 21, 24 Absatz 1 und 125 Absatz 2 der Luftfahrtverordnung vom 14. November 1973[^ingress-2], in Ausführung der Verordnung (EU) 2018/1139[^ingress-3], der Durchführungsverordnung (EU) Nr. 923/2012[^ingress-4], der Delegierten Verordnung (EU) 2019/945[^ingress-5] und der Durchführungsverordnung (EU) 2019/947[^ingress-6],
+gestützt auf die Artikel 4 Absatz 1 sowie Artikel 57 Absätze 1 und 2 des Luftfahrtgesetzes vom 21. Dezember 1948[^ingress-1] (LFG) und auf die Artikel 2*a* Absatz 3, 21, 24 Absatz 1 und 125 Absatz 2 der Luftfahrtverordnung vom 14. November 1973[^ingress-2] (LFV), in Ausführung der Verordnung (EU) 2018/1139[^ingress-3], der Durchführungsverordnung (EU) Nr. 923/2012[^ingress-4], der Delegierten Verordnung (EU) 2019/945[^ingress-5], der Durchführungsverordnung (EU) 2019/947[^ingress-6] und der Durchführungsverordnung (EU) 2021/664[^ingress-7],[^ingress-8]
 
 verordnet:
 
 [^ingress-1]: [SR 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
 [^ingress-2]: [SR 748.01](https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856)
-[^ingress-3]: Verordnung (EU) 2018/1139 des Europäischen Parlaments und des Rates vom 4. Juli 2018 zur Festlegung gemeinsamer Vorschriften für die Zivilluftfahrt und zur Errichtung einer Agentur der Europäischen Union für Flugsicherheit sowie zur Änderung der Verordnungen (EG) Nr. 2111/2005, (EG) Nr. 1008/2008, (EU) Nr. 996/2010, (EU) Nr. 376/2014 und der Richtlinien 2014/30/EU und 2014/53/EU des Europäischen Parlaments und des Rates, und zur Aufhebung der Verordnungen (EG) Nr. 552/2004 und (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates und der Verordnung (EWG) Nr. 3922/91 des Rates, in der für die Schweiz gemäss Ziffer 3 des Anhangs zum Luftverkehrsabkommen vom 21. Juni 1999 ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)) jeweils verbindlichen Fassung.
-[^ingress-4]: Durchführungsverordnung (EU) Nr. 923/2012 der Kommission vom 26. September 2012 zur Festlegung gemeinsamer Luftverkehrsregeln und Betriebsvorschriften für Dienste und Verfahren der Flugsicherung und zur Änderung der Durchführungsverordnung (EG) Nr. 1035/2011 sowie der Verordnungen (EG) Nr. 1265/2007, (EG) Nr. 1794/2006, (EG) Nr. 730/2006, (EG) Nr. 1033/2006 und (EU) Nr. 255/2010, in der für die Schweiz gemäss Ziffer 5 des Anhangs zum Luftverkehrsabkommen vom 21. Juni 1999 ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)) jeweils verbindlichen Fassung.
+[^ingress-3]: Verordnung (EU) 2018/1139 des Europäischen Parlaments und des Rates vom 4. Juli 2018 zur Festlegung gemeinsamer Vorschriften für die Zivilluftfahrt und zur Errichtung einer Agentur der Europäischen Union für Flugsicherheit sowie zur Änderung der Verordnungen (EG) Nr. 2111/2005, (EG) Nr. 1008/2008, (EU) Nr. 996/2010, (EU) Nr. 376/2014 und der Richtlinien 2014/30/EU und 2014/53/EU des Europäischen Parlaments und des Rates, und zur Aufhebung der Verordnungen (EG) Nr. 552/2004 und (EG) Nr. 216/2008 des Europäischen Parlaments und des Rates und der Verordnung (EWG) Nr. 3922/91 des Rates, in der für die Schweiz gemäss Ziffer 3 des Anhangs zum Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)) jeweils verbindlichen Fassung.
+[^ingress-4]: Durchführungsverordnung (EU) Nr. 923/2012 der Kommission vom 26. September 2012 zur Festlegung gemeinsamer Luftverkehrsregeln und Betriebsvorschriften für Dienste und Verfahren der Flugsicherung und zur Änderung der Durchführungsverordnung (EU) Nr. 1035/2011 sowie der Verordnungen (EG) Nr. 1265/2007, (EG) Nr. 1794/2006, (EG) Nr. 730/2006, (EG) Nr. 1033/2006 und (EU) Nr. 255/2010, in der für die Schweiz gemäss Ziffer 5 des Anhangs zum Luftverkehrsabkommen vom 21. Juni 1999 ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)) jeweils verbindlichen Fassung.
 [^ingress-5]: Delegierte Verordnung (EU) 2019/945 der Kommission vom 12. März 2019 über unbemannte Luftfahrzeugsysteme und Drittlandbetreiber unbemannter Luftfahrzeugsysteme, in der für die Schweiz gemäss Ziffer 3 des Anhangs zum Luftverkehrsabkommen vom 21. Juni 1999 ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)) jeweils verbindlichen Fassung.
 [^ingress-6]: Durchführungsverordnung (EU) 2019/947 der Kommission vom 24. Mai 2019 über die Vorschriften und Verfahren für den Betrieb unbemannter Luftfahrzeuge, in der für die Schweiz gemäss Ziffer 3 des Anhangs zum Luftverkehrsabkommen vom 21. Juni 1999 ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)) jeweils verbindlichen Fassung.
+[^ingress-7]: Durchführungsverordnung (EU) 2021/664 der Kommission vom 22. April 2021 über einen Rechtsrahmen für den U-Space, in der für die Schweiz gemäss Ziffer 3 des Anhangs zum Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)) jeweils verbindlichen Fassung.
+[^ingress-8]: Fassung gemäss Ziff. I der V des UVEK vom 14. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 298](https://fedlex.data.admin.ch/eli/oc/2024/298)).
 
 ## 1. Kapitel: Geltungsbereich und gemeinsame Bestimmungen
 
@@ -192,7 +194,7 @@ Ist die Sicherheit gewährleistet, so können Ausnahmen von diesen Einschränkun
 
 <sup>3</sup> Für den Abflug und die Landung ist eine Bewilligung der Flugplatzleiterin oder des Flugplatzleiters erforderlich.
 
-[^14-1]: Die Lufttüchtigkeitsanforderungen können beim deutschen Luftfahrt-Bundesamt bzw. bei dem von diesem beauftragten Verlag gegen Bezahlung bezogen werden über www.lba.de &gt; LBA/Aussenstellen &gt; Gesetze und Verordnungen &gt; Nachrichten für Luftfahrer und Luftfahrthandbuch.
+[^14-1]: Die Lufttüchtigkeitsanforderungen können beim deutschen Luftfahrt-Bundesamt bzw. bei dem von diesem beauftragten Verlag gegen Bezahlung bezogen werden über: [www.lba.de](http://www.lba.de) &gt; LBA/Aussenstellen &gt; Gesetze und Verordnungen &gt; Nachrichten für Luftfahrer und Luftfahrthandbuch.
 
 ### 2. Abschnitt: Drachen, Drachenfallschirme und Fesselballone
 
@@ -394,6 +396,51 @@ Es können Ausnahmen von den folgenden Einschränkungen bewilligt werden:
 
 [^29-1]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
 
+### 3*a*. Abschnitt: U-Space-Lufträume
+
+[^chap3-sec3a-1]
+
+[^chap3-sec3a-1]: Eingefügt durch Ziff. I der V des UVEK vom 14. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 298](https://fedlex.data.admin.ch/eli/oc/2024/298)).
+
+#### Art. 29a
+
+**Ausweisung von U-Space-Lufträumen**
+
+U-Space-Lufträume im Sinne der Durchführungsverordnung (EU) 2021/664 können vom BAZL durch ein Verfahren zur Änderung der Luftraumstruktur ausgewiesen werden.
+
+#### Art. 29b
+
+**Bedingungen für die Aufnahme des Betriebs**
+
+Das BAZL erlaubt dem zugelassenen Anbieter von U-Space-Diensten die Aufnahme des Betriebs, wenn er:
+
+- a. die Leistungsniveaus für jeden spezifischen U-Space-Luftraum, in dem er tätig ist, erreicht;
+- b. die Fähigkeit hat, einschlägige Daten und Informationen mit anderen Anbietern von U-Space-Diensten auszutauschen.
+
+#### Art. 29c
+
+**Datenaustausch und Interoperabilität der Systeme**
+
+Jeder Anbieter von U-Space-Diensten ist verpflichtet, zum Datenaustausch und zur Interoperabilität der Systeme beizutragen.
+
+#### Art. 29d
+
+**Vereinbarung zwischen Anbietern von U-Space-Diensten**
+
+<sup>1</sup> Sind mehrere Anbieter von U-Space-Diensten im selben U-Space-Luftraum tätig, so vereinbaren sie gemeinsam die Einzelheiten der zu erbringenden U-Space-Dienste im Rahmen der nationalen Vorschriften und jener der Durchführungsverordnung (EU) 2021/664.
+
+<sup>2</sup> Das BAZL wird zu den Verhandlungen beigezogen. Können sich die Anbieter von U-Space-Diensten nicht innerhalb von drei Monaten einigen, so berät sie das BAZL nach einer Anhörung.
+
+#### Art. 29e
+
+**Gemeinsame Informationsdienste**
+
+<sup>1</sup> Das BAZL stellt im Rahmen der gemeinsamen Informationsdienste die in Artikel 5 Absatz 1 der Durchführungsverordnung (EU) 2021/664 aufgeführten Daten jedes U‑Space-Luftraums zur Verfügung.
+
+<sup>2</sup> Die Skyguide stellt die Betriebsdaten sowie die Daten zu den dynamischen Beschränkungen des U-Space-Luftraums zur Verfügung und erbringt die in Punkt ATS.OR.127 von Anhang IV der Durchführungsverordnung (EU) 2017/373[^29e-1] aufgeführten Dienste im Zusammenhang mit dem U-Space-Luftraum.
+
+[^29e-1]: Durchführungsverordnung (EU) 2017/373 der Kommission vom 1. März 2017 zur Festlegung gemeinsamer Anforderungen an Flugverkehrsmanagementanbieter und Anbieter von Flugsicherungsdiensten sowie sonstiger Funktionen des Flugverkehrsmanagementnetzes und die Aufsicht hierüber sowie zur Aufhebung der Verordnung (EG) Nr. 482/2008, der Durchführungsverordnungen (EU) Nr. 1034/2011, (EU) Nr. 1035/2011 und (EU) 2016/1377 und zur Änderung der Verordnung (EU) Nr. 677/2011.
+
 ### 4. Abschnitt: Modellluftfahrzeuge
 
 #### Art. 30
@@ -463,7 +510,14 @@ Es können Ausnahmen von den folgenden Betriebsregeln bewilligt werden:
 
 **Kantonale Vorschriften**
 
-Die Kantone können für unbemannte Luftfahrzeuge mit einem Gewicht von weniger als 25 kg nach Artikel 51 Absatz 3 LFG Vorschriften zur Verminderung der Umweltbelastung und der Gefährdung von Personen und Sachen auf der Erde erlassen.
+<sup>1</sup> Die Kantone können für unbemannte Luftfahrzeuge mit einem Gewicht von weniger als 25 kg nach Artikel 51 Absatz 3 LFG Vorschriften zur Verminderung der Umweltbelastung und der Gefährdung von Personen und Sachen auf der Erde erlassen.
+
+<sup>2</sup> Die Kantone übermitteln dem BAZL die Daten zu diesen Vorschriften in dem in Artikel 15 Absatz 3 der Durchführungsverordnung (EU) 2019/947 genannten Format.[^34-1]
+
+<sup>3</sup> Das BAZL veröffentlicht die Daten.[^34-2]
+
+[^34-1]: Eingefügt durch Ziff. I der V des UVEK vom 14. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 298](https://fedlex.data.admin.ch/eli/oc/2024/298)).
+[^34-2]: Eingefügt durch Ziff. I der V des UVEK vom 14. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 298](https://fedlex.data.admin.ch/eli/oc/2024/298)).
 
 #### Art. 35
 
@@ -481,11 +535,20 @@ Die Sicherstellung der Haftpflichtansprüche ist nicht erforderlich für:
 
 <sup>3</sup> Die Halterin oder der Halter eines Luftfahrzeuges mit einem Gewicht über 250 g hat den Haftpflichtversicherungsnachweis beim Betrieb mitzuführen.
 
+<sup>4</sup> Bund, Kantone und Gemeinden sind nicht zum Abschluss einer Haftpflichtversicherung verpflichtet.[^35-1]
+
+[^35-1]: Eingefügt durch Ziff. I der V des UVEK vom 14. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 298](https://fedlex.data.admin.ch/eli/oc/2024/298)).
+
 #### Art. 36
 
-**Zuständige Behörde**
+**Zuständige Behörde**[^36-1]
 
-Das BAZL ist für die Erfüllung der Aufgaben gemäss Artikel 18 der Durchführungsverordnung (EU) 2019/947 zuständig.
+Das BAZL ist zuständig für die Erfüllung der Aufgaben gemäss:
+
+- a. Artikel 18 der Durchführungsverordnung (EU) 2019/947;
+- b. Artikel 18 der Durchführungsverordnung (EU) 2021/664.
+
+[^36-1]: Fassung gemäss Ziff. I der V des UVEK vom 14. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 298](https://fedlex.data.admin.ch/eli/oc/2024/298)).
 
 #### Art. 37
 
@@ -498,8 +561,11 @@ Das BAZL kann qualifizierten Stellen gemäss Artikel 69 der Verordnung (EU) 2018
 - a. Prüfen von Anträgen für den Erhalt einer Betriebsgenehmigung nach Artikel 5 in Verbindung mit Artikel 11 der Durchführungsverordnung (EU) 2019/947;
 - b. Ausstellen und Ändern von Betriebsgenehmigungen nach Artikel 12 der Durchführungsverordnung (EU) 2019/947;
 - c. Ausüben der Aufsicht über die Betreiber nach Artikel 18 Buchstabe h Ziffer 1 der Durchführungsverordnung (EU) 2019/947;
+- d.[^37-1] Organisieren und Anbieten von Schulungen und Prüfungen zur Erlangung des Zeugnisses über die Kompetenz von Fernpilotinnen und Fernpiloten gemäss Punkt UAS.OPEN.030(2) von Teil A des Anhangs der Durchführungsverordnung (EU) 2019/947 sowie des Zeugnisses über die Theoriekenntnisse und zum Erhalt der Akkreditierung über den Abschluss der praktischen Prüfung gemäss Anlage 1 der Durchführungsverordnung (EU) 2019/947.
 
 <sup>2</sup> Die qualifizierten Stellen unterstehen der Aufsicht des BAZL.
+
+[^37-1]: Eingefügt durch Ziff. I der V des UVEK vom 14. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 298](https://fedlex.data.admin.ch/eli/oc/2024/298)).
 
 #### Art. 38
 
@@ -515,20 +581,34 @@ Der Antrag beinhaltet folgende Dokumente:
 - b. Beschrieb der relevanten internen Prozesse (einschliesslich Sicherheitsmanagement);
 - c. Handelsregisterauszug.
 
+<sup>2bis</sup> Die qualifizierte Stelle, die im Bereich der Ausbildung nach Artikel 37 Absatz 1 Buchstabe d tätig sein will, muss zusätzlich zu den in Absatz 2 genannten Dokumenten ein Ausbildungsprogramm einreichen.[^38-1]
+
 <sup>3</sup> Das BAZL prüft die eingereichten Unterlagen; es akkreditiert die qualifizierte Stelle im Einzelfall mittels Verfügung und legt darin deren Kompetenzen sowie die Gültigkeitsdauer der Akkreditierung fest.
+
+[^38-1]: Eingefügt durch Ziff. I der V des UVEK vom 14. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 298](https://fedlex.data.admin.ch/eli/oc/2024/298)).
 
 #### Art. 39
 
-**Voraussetzungen für Akkreditierung zur qualifizierten Stelle**
+**Voraussetzungen für Akkreditierung zur qualifizierten Stelle**[^39-1]
+
+<sup>1</sup>
 
 Das BAZL akkreditiert qualifizierte Stellen für das Beurteilen von Betriebsgenehmigungen anhand der folgenden Kriterien:
 
 - a. Die qualifizierte Stelle muss die nötigen Kompetenzen im Beurteilen der Anträge für eine Betriebsgenehmigung haben und über das entsprechend ausgebildete Personal für die korrekte Erfüllung der Aufgaben verfügen.
-- b. Die qualifizierte Stelle, deren Leiterin oder Leiter und das zuständige Personal müssen eine unabhängige Bewertung im Sinne der Ziffer 1 des Anhangs VI der Verordnung 2018/1139 der Anträge gewährleisten und die Anträge mit der grösstmöglichen Sorgfalt prüfen.
-- c. Die qualifizierte Stelle verfügt über einen Prozess, mit dessen Hilfe die Entwicklungen hinsichtlich der Beurteilungsgrundlagen von Anträgen nach der SORA-Methodologie[^39-1] auf internationaler Ebene verfolgt werden können.
+- b. Die qualifizierte Stelle, deren Leiterin oder Leiter und das zuständige Personal müssen eine unabhängige Bewertung im Sinne der Ziffer 1 des Anhangs VI der Verordnung (EU) 2018/1139 der Anträge gewährleisten und die Anträge mit der grösstmöglichen Sorgfalt prüfen.
+- c. Die qualifizierte Stelle verfügt über einen Prozess, mit dessen Hilfe die Entwicklungen hinsichtlich der Beurteilungsgrundlagen von Anträgen nach der SORA-Methodologie[^39-2] auf internationaler Ebene verfolgt werden können.
 - d. Die qualifizierte Stelle verfügt über eine Haftpflichtversicherung zur Abdeckung eventueller Schadensfälle.
 
-[^39-1]: Executive Director Decision 2019/021/R of 9 October 2019 issuing Acceptable Means of Compliance and Guidance Material to Commission Implementing Regulation (EU) No 2019/947, zuletzt angepasst durch die Executive Director Decision 2020/022/R of 15 December 2020 issuing the following: Amendment 1 to the Acceptable Means of Compliance and Guidance Material to Commission Implementing Regulation (EU) 2019/947 and to the Annex (Part-UAS) thereto «AMC and GM to Commission Implementing Regulation (EU) 2019/947 – Issue 1, Amendment 1», «AMC and GM to Part-UAS – Issue 1, Amendment 1» ED Decision 2020/022/R, im Besonderen AMC1 Article 11 Rules for conducting an operational risk assessment.
+<sup>2</sup>
+
+Es akkreditiert qualifizierte Stellen für das Durchführen von Ausbildungen anhand der folgenden Kriterien:
+
+- a. Die qualifizierte Stelle muss über entsprechend qualifiziertes Personal verfügen, um Schulungen für Fernpilotinnen und Fernpiloten für die betreffende Form der Ausbildung anbieten zu können.
+- b. Das Ausbildungsprogramm entspricht den Anforderungen der Durchführungsverordnung (EU) 2019/947.
+
+[^39-1]: Fassung gemäss Ziff. I der V des UVEK vom 14. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 298](https://fedlex.data.admin.ch/eli/oc/2024/298)).
+[^39-2]: Acceptable Means of Compliance and Guidance Material to Commission Implementing Regulation (EU) N<sup>o</sup> 2019/947.
 
 #### Art. 40
 
@@ -541,7 +621,10 @@ Die qualifizierte Stelle muss je nach Aufgabengebiet:
 - c. die EASA, kantonale Behörden oder weitere Stellen einbeziehen, welche für den Betrieb relevant sind;
 - d. die Koordination mit dem BAZL sicherstellen;
 - e. die Informationen und bearbeitete Daten im Sinne des Datenschutzes mit der nötigen Sorgfalt behandeln und sicherstellen, dass Dokumente des Antragstellers nicht ohne dessen Einverständnis herausgeben werden;
-- f. die Gleichbehandlung der Antragsteller gewährleisten und ihre Prüftätigkeit in der gesamten Schweiz zu einheitlichen Preisen anbieten.
+- f. die Gleichbehandlung der Antragsteller gewährleisten und ihre Prüftätigkeit in der gesamten Schweiz zu einheitlichen Preisen anbieten;
+- g.[^40-1] Zertifikate und Akkreditierungen ausstellen, wenn sie Schulungen anbietet.
+
+[^40-1]: Eingefügt durch Ziff. I der V des UVEK vom 14. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 298](https://fedlex.data.admin.ch/eli/oc/2024/298)).
 
 ## 4. Kapitel: Strafbestimmungen
 

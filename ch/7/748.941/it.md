@@ -4,11 +4,11 @@ title: Ordinanza del DATEC del 24 novembre 2022 sulle categorie speciali di aero
 short: OACS
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/802"
 language: it
-version: 2023-01-01
+version: 2024-08-01
 adopted: 2022-11-24
 in_force: 2023-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/802/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2022-802-20230101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/802/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/802/20240801/it/xml/fedlex-data-admin-ch-eli-cc-2022-802-20240801-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/802/20240801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,20 +17,22 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/802/20230101/it"
 
 (OACS)
 
-del 24 novembre 2022 (Stato 1° gennaio 2023)
+del 24 novembre 2022 (Stato 1° agosto 2024)
 
 Il Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni (DATEC),
 
-visti gli articoli 4 capoverso 1 e 57 capoversi 1 e 2 della legge federale del 21 dicembre 1948[^ingress-1] sulla navigazione aerea (LNA); visti gli articoli 2*a* capoverso 3, 21, 24 capoverso 1 e 125 capoverso 2 dell’ordinanza del 14 novembre 1973[^ingress-2] sulla navigazione aerea; in esecuzione del regolamento (UE) 2018/1139[^ingress-3], del regolamento di esecuzione (UE) n. 923/2012[^ingress-4], del regolamento delegato (UE) 2019/945[^ingress-5] e del regolamento di esecuzione (UE) 2019/947[^ingress-6],
+c visti gli articoli 4 capoverso 1 e 57 capoversi 1 e 2 della legge federale del 21 dicembre 1948[^ingress-1] sulla navigazione aerea (LNA); visti gli articoli 2*a* capoverso 3, 21, 24 capoverso 1 e 125 capoverso 2 dell’ordinanza del 14 novembre 1973[^ingress-2] sulla navigazione aerea; in esecuzione del regolamento (UE) 2018/1139[^ingress-3], del regolamento di esecuzione (UE) n. 923/2012[^ingress-4], del regolamento delegato (UE) 2019/945[^ingress-5], del regolamento di esecuzione (UE) 2019/947[^ingress-6] e del regolamento di esecuzione (UE) 2021/664[^ingress-7],[^ingress-8]
 
 ordina:
 
 [^ingress-1]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
 [^ingress-2]: [RS 748.01](https://fedlex.data.admin.ch/eli/cc/1973/1856_1856_1856)
 [^ingress-3]: Regolamento (UE) 2018/1139 del Parlamento europeo e del Consiglio, del 4 luglio 2018, recante norme comuni nel settore dell’aviazione civile, che istituisce un’Agenzia dell’Unione europea per la sicurezza aerea e che modifica i regolamenti (CE) n. 2111/2005, (CE) n. 1008/2008, (UE) n. 996/2010, (UE) n. 376/2014 e le direttive 2014/30/UE e 2014/53/UE del Parlamento europeo e del Consiglio, e abroga i regolamenti (CE) n. 552/2004 e (CE) n. 216/2008 del Parlamento europeo e del Consiglio e il regolamento (CEE) n. 3922/91 del Consiglio, nella versione vincolante per la Svizzera conformemente al numero 3 dell’allegato all’accordo del 21 giugno 1999 tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
-[^ingress-4]: Regolamento di esecuzione (UE) n. 923/2012 della Commissione, del 26 settembre 2012, che stabilisce regole dell’aria comuni e disposizioni operative concernenti servizi e procedure della navigazione aerea e che modifica il regolamento di esecuzione (UE) n. 1035/2011 e i regolamenti (CE) n. 1265/2007, (CE) n. 1794/2006, (CE) n. 730/2006, (CE) n. 1033/2006 e (UE) n. 255/2010, nella versione vincolante per la Svizzera conformemente al numero 5 dell’allegato all’accordo del 21 giugno 1999 tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
-[^ingress-5]: Regolamento delegato (UE) 2019/945 della Commissione, del 12 marzo 2019, relativo ai sistemi aeromobili senza equipaggio e agli operatori di paesi terzi di sistemi aeromobili senza equipaggio, nella versione vincolante per la Svizzera conformemente al numero 3 dell’allegato all’accordo del 21 giugno 1999 tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
-[^ingress-6]: Regolamento di esecuzione (UE) 2019/947 della Commissione, del 24 maggio 2019, relativo a norme e procedure per l’esercizio di aeromobili senza equipaggio, nella versione vincolante per la Svizzera conformemente al numero 3 dell’allegato all’accordo del 21 giugno 1999 tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^ingress-4]: Regolamento di esecuzione (UE) n. 923/2012 della Commissione, del 26 settembre 2012, che stabilisce regole dell’aria comuni e disposizioni operative concernenti servizi e procedure della navigazione aerea e che modifica il regolamento di esecuzione (UE) n. 1035/2011 e i regolamenti (CE) n. 1265/2007, (CE) n. 1794/2006, (CE) n. 730/2006, (CE) n. 1033/2006 e (UE) n. 255/2010, nella versione vincolante per la Svizzera conformemente al numero 5 dell’allegato all’Accordo del 21 giugno 1999 tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^ingress-5]: Regolamento delegato (UE) 2019/945 della Commissione, del 12 marzo 2019, relativo ai sistemi aeromobili senza equipaggio e agli operatori di paesi terzi di sistemi aeromobili senza equipaggio, nella versione vincolante per la Svizzera conformemente al numero 3 dell’allegato all’Accordo del 21 giugno 1999 tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^ingress-6]: Regolamento di esecuzione (UE) 2019/947 della Commissione, del 24 maggio 2019, relativo a norme e procedure per l’esercizio di aeromobili senza equipaggio, nella versione vincolante per la Svizzera conformemente al numero 3 dell’allegato all’Accordo del 21 giugno 1999 tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^ingress-7]: Regolamento di esecuzione (UE) 2021/664 della Commissione, del 22 aprile 2021, relativo a un quadro normativo per lo U‑space, nella versione vincolante per la Svizzera conformemente al numero 3 dell’allegato all’Accordo del 21 giugno 1999 tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^ingress-8]: Nuovo testo giusta il n. I dell’O del DATEC del 14 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 298](https://fedlex.data.admin.ch/eli/oc/2024/298)).
 
 ## Capitolo 1: Campo d’applicazione e disposizioni comuni
 
@@ -192,7 +194,7 @@ Se la sicurezza è garantita, possono essere autorizzate eccezioni alle restrizi
 
 <sup>3</sup> Per il decollo e l’atterraggio è necessaria l’autorizzazione della direzione dell’aerodromo.
 
-[^14-1]: Le esigenze di navigabilità sono ottenibili, contro pagamento, presso il Luftfahrt-Bundesamt tedesco o l’editore da esso incaricato, sul sito www.lba.de &gt; LBA/Aussenstellen &gt; Gesetze und Verordnungen &gt; Nachrichten für Luftfahrer und Luftfahrthandbuch.
+[^14-1]: Le esigenze di navigabilità sono ottenibili, contro pagamento, presso il Luftfahrt-Bundesamt tedesco o l’editore da esso incaricato, sul sito [www.lba.de](http://www.lba.de) &gt; LBA/Aussenstellen &gt; Gesetze und Verordnungen &gt; Nachrichten für Luftfahrer und Luftfahrthandbuch.
 
 ### Sezione 2: Cervi volanti, paracadute ascensionali e palloni frenati
 
@@ -390,6 +392,51 @@ La direzione dell’aerodromo può definire una zona geografica ridotta, adattat
 
 [^29-1]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
 
+### Sezione 3*a*: Spazi aerei U-space
+
+[^chap3-sec3a-1]
+
+[^chap3-sec3a-1]: Introdotta dal n. I dell’O del DATEC del 14 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 298](https://fedlex.data.admin.ch/eli/oc/2024/298)).
+
+#### Art. 29a
+
+**Designazione degli spazi aerei U-space**
+
+L’UFAC può designare spazi aerei U-space ai sensi del regolamento di esecuzione (UE) 2021/664 mediante una procedura di modifica della struttura dello spazio aereo.
+
+#### Art. 29b
+
+**Condizioni preliminari per le attività**
+
+L’UFAC autorizza il fornitore di servizi U-space certificato ad avviare le proprie attività se soddisfa le condizioni seguenti:
+
+- a. raggiunge i livelli di prestazioni di ogni spazio aereo U-space specifico in cui opera;
+- b. è in grado di scambiare i dati e le informazioni pertinenti con gli altri fornitori di servizi U‑space.
+
+#### Art. 29c
+
+**Scambio di dati e interoperabilità dei sistemi**
+
+Ogni fornitore di servizi U-space è tenuto a contribuire allo scambio di dati e all’interoperabilità dei sistemi.
+
+#### Art. 29d
+
+**Accordo tra fornitori di servizi U-space**
+
+<sup>1</sup> Se più fornitori di servizi U-space operano nello stesso spazio aereo U-space, essi si accordano in merito alle modalità riguardanti i servizi U‑space da fornire, nel rispetto delle prescrizioni nazionali e del regolamento di esecuzione (UE) 2021/664.
+
+<sup>2</sup> L’UFAC è invitato a partecipare alle trattative. Se i fornitori di servizi U-space non trovano un’intesa entro tre mesi, dopo averli consultati l’UFAC offre loro consulenza.
+
+#### Art. 29e
+
+**Servizi comuni di informazione**
+
+<sup>1</sup> L’UFAC mette a disposizione i dati di cui all’articolo 5 paragrafo 1 del regolamento di esecuzione (UE) 2021/664 nell’ambito dei servizi comuni di informazione relativi a ogni spazio aereo U‑space.
+
+<sup>2</sup> Skyguide mette a disposizione i dati operativi e i dati relativi alle restrizioni dinamiche dello spazio aereo U‑space e fornisce i servizi legati allo spazio aereo U‑space elencati al punto ATS.OR.127 dell’allegato IV al regolamento di esecuzione (UE) 2017/373[^29e-1].
+
+[^29e-1]: Regolamento di esecuzione (UE) 2017/373 della Commissione, del 1° marzo 2017, che stabilisce i requisiti comuni per i fornitori di servizi di gestione del traffico aereo e di navigazione aerea e di altre funzioni della rete di gestione del traffico aereo e per la loro sorveglianza, che abroga il regolamento (CE) n. 482/2008 e i regolamenti di esecuzione (UE) n. 1034/2011, (UE) n. 1035/2011 e (UE) 2016/1377 e che modifica il regolamento (UE) n. 677/2011.
+
 ### Sezione 4: Aeromodelli
 
 #### Art. 30
@@ -459,7 +506,14 @@ Possono autorizzare eccezioni:
 
 **Diritto cantonale**
 
-In vista di ridurre l’impatto ambientale e i rischi cui sono esposti persone e beni a terra, i Cantoni possono emanare, in virtù dell’articolo 51 capoverso 3 LNA, prescrizioni applicabili agli aeromobili senza occupanti, di peso inferiore a 25 kg.
+<sup>1</sup> In vista di ridurre l’impatto ambientale e i rischi cui sono esposti persone e beni a terra, i Cantoni possono emanare, in virtù dell’articolo 51 capoverso 3 LNA, prescrizioni applicabili agli aeromobili senza occupanti, di peso inferiore a 25 kg.
+
+<sup>2</sup> I Cantoni comunicano all’UFAC i dati relativi a dette prescrizioni nel formato di cui all’articolo 15 paragrafo 3 del regolamento di esecuzione (UE) 2019/947.[^34-1]
+
+<sup>3</sup> L’UFAC pubblica i dati.[^34-2]
+
+[^34-1]: Introdotto dal n. I dell’O del DATEC del 14 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 298](https://fedlex.data.admin.ch/eli/oc/2024/298)).
+[^34-2]: Introdotto dal n. I dell’O del DATEC del 14 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 298](https://fedlex.data.admin.ch/eli/oc/2024/298)).
 
 #### Art. 35
 
@@ -477,11 +531,20 @@ Tale copertura assicurativa non è necessaria per:
 
 <sup>3</sup> Nell’utilizzare tali apparecchi, l’esercente di aeromobili deve recare con sé l’attestato dell’assicurazione responsabilità civile.
 
+<sup>4</sup> La Confederazione, i Cantoni e i Comuni non sono tenuti a sottoscrivere un’assicurazione responsabilità civile.[^35-1]
+
+[^35-1]: Introdotto dal n. I dell’O del DATEC del 14 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 298](https://fedlex.data.admin.ch/eli/oc/2024/298)).
+
 #### Art. 36
 
-**Autorità competente**
+**Autorità competente**[^36-1]
 
-L’UFAC è competente per l’adempimento dei compiti secondo l’articolo 18 del regolamento di esecuzione (UE) 2019/947.
+L’UFAC è competente per l’adempimento dei compiti secondo:
+
+- a. l’articolo 18 del regolamento di esecuzione (UE) 2019/947;
+- b. l’articolo 18 del regolamento di esecuzione (UE) 2021/664.
+
+[^36-1]: Nuovo testo giusta il n. I dell’O del DATEC del 14 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 298](https://fedlex.data.admin.ch/eli/oc/2024/298)).
 
 #### Art. 37
 
@@ -494,8 +557,11 @@ L’UFAC può delegare in particolare i seguenti compiti ai soggetti qualificati
 - a. esame delle richieste per l’ottenimento di un’autorizzazione operativa conformemente all’articolo 5 in combinato disposto con l’articolo 11 del regolamento di esecuzione (UE) 2019/947;
 - b. rilascio e modifica delle autorizzazioni operative conformemente all’articolo 12 del regolamento di esecuzione (UE) 2019/947;
 - c. esercizio della sorveglianza sugli operatori conformemente all’articolo 18 lettera h punto i del regolamento di esecuzione (UE) 2019/947;
+- d.[^37-1] organizzazione e offerta di addestramenti ed esami per il certificato di competenza di pilota remoto conformemente alla parte A, punto UAS.OPEN.030(2) dell’allegato al regolamento di esecuzione (UE) 2019/947 e per il certificato di conoscenza teorica e l’accreditamento che attesti il completamento dell’addestramento pratico conformemente all’appendice 1 dell’allegato al regolamento di esecuzione (UE) 2019/947.
 
 <sup>2</sup> I soggetti qualificati sottostanno alla vigilanza dell’UFAC.
+
+[^37-1]: Introdotta dal n. I dell’O del DATEC del 14 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 298](https://fedlex.data.admin.ch/eli/oc/2024/298)).
 
 #### Art. 38
 
@@ -511,20 +577,34 @@ La domanda comprende i seguenti documenti:
 - b. descrizione dei processi interni rilevanti (compresa la gestione della sicurezza);
 - c. estratto del registro di commercio.
 
+<sup>2bis</sup> Il soggetto qualificato che intende operare nel settore dell’addestramento conformemente all’articolo 37 capoverso 1 lettera d deve presentare, oltre ai documenti di cui al capoverso 2, un programma di addestramento.[^38-1]
+
 <sup>3</sup> L’UFAC esamina i documenti presentati; accredita il soggetto qualificato caso per caso mediante decisione, in cui specifica le relative competenze e la durata di validità dell’accreditamento.
+
+[^38-1]: Introdotto dal n. I dell’O del DATEC del 14 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 298](https://fedlex.data.admin.ch/eli/oc/2024/298)).
 
 #### Art. 39
 
-**Condizioni per l’accreditamento di un soggetto qualificato**
+**Condizioni per l’accreditamento di un soggetto qualificato**[^39-1]
+
+<sup>1</sup>
 
 L’UFAC accredita i soggetti qualificati per la valutazione delle autorizzazioni operative sulla base dei seguenti criteri:
 
 - a. il soggetto qualificato deve possedere le competenze necessarie per valutare le domande di autorizzazione operativa e deve disporre di personale adeguatamente formato per adempiere correttamente i compiti;
-- b. il soggetto qualificato, il suo direttore e il personale responsabile devono garantire una valutazione indipendente conformemente al punto 1 dell’allegato VI del regolamento (UE) 2018/1139 ed esaminare le domande con la massima diligenza possibile;
-- c. il soggetto qualificato dispone di un processo che permette di seguire gli sviluppi sul piano internazionale delle basi di valutazione delle domande secondo la metodologia SORA[^39-1];
+- b. il soggetto qualificato, il suo direttore e il personale responsabile devono garantire una valutazione indipendente conformemente al punto 1 dell’allegato VI al regolamento (UE) 2018/1139 ed esaminare le domande con la massima diligenza possibile;
+- c. il soggetto qualificato dispone di un processo che permette di seguire gli sviluppi sul piano internazionale delle basi di valutazione delle domande secondo la metodologia SORA[^39-2];
 - d. il soggetto qualificato ha sottoscritto un’assicurazione responsabilità civile destinata a coprire eventuali sinistri.
 
-[^39-1]: Executive Director Decision 2019/021/R of 9 October 2019 issuing Acceptable Means of Compliance and Guidance Material to Commission Implementing Regulation (EU) No 2019/947, modificata da ultimo da Executive Director Decision 2020/022/R of 15 December 2020 issuing the following: Amendment 1 to the Acceptable Means of Compliance and Guidance Material to Commission Implementing Regulation (EU) 2019/947 and to the Annex (Part-UAS) thereto «AMC and GM to Commission Implementing Regulation (EU) 2019/947 – Issue 1, Amendment 1», «AMC and GM to Part‑UAS – Issue 1, Amendment 1» ED Decision 2020/022/R, in particolare AMC1 Article 11 Rules for conducting an operational risk assessment.
+<sup>2</sup>
+
+L’UFAC accredita i soggetti qualificati per l’offerta di addestramenti sulla base dei seguenti criteri:
+
+- a. il soggetto qualificato deve disporre di personale debitamente qualificato per poter proporre addestramenti ai piloti remoti per il tipo di addestramento in questione;
+- b. il programma di addestramento soddisfa i requisiti di cui al regolamento di esecuzione (UE) 2019/947.
+
+[^39-1]: Nuovo testo giusta il n. I dell’O del DATEC del 14 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 298](https://fedlex.data.admin.ch/eli/oc/2024/298)).
+[^39-2]: Acceptable Means of Compliance and Guidance Material to Commission Implementing Regulation (EU) No 2019/947.
 
 #### Art. 40
 
@@ -537,7 +617,10 @@ A seconda del settore di compiti, il soggetto qualificato deve:
 - c. coinvolgere l’AESA, le autorità cantonali o altri servizi rilevanti per l’esercizio;
 - d. garantire il coordinamento con l’UFAC;
 - e. trattare le informazioni e i dati elaborati con la diligenza richiesta dalla protezione dei dati e garantire che i documenti del richiedente non siano divulgati senza il suo consenso;
-- f. garantire la parità di trattamento dei richiedenti e offrire la propria attività di esame in tutta la Svizzera a tariffe unitarie.
+- f. garantire la parità di trattamento dei richiedenti e offrire la propria attività di esame in tutta la Svizzera a tariffe unitarie;
+- g.[^40-1] rilasciare i certificati e gli accreditamenti quando propone addestramenti.
+
+[^40-1]: Introdotta dal n. I dell’O del DATEC del 14 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 298](https://fedlex.data.admin.ch/eli/oc/2024/298)).
 
 ## Capitolo 4: Disposizioni penali
 
