@@ -3,20 +3,20 @@ canton: AG
 number: "400.400"
 title: Interkantonale Vereinbarung für Schulen mit spezifisch-strukturierten Angeboten für Hochbegabte
 language: de
-version: 2024-01-01
-valid_until: 2024-07-31
-version_adopted: 2003-02-20
+version: 2024-08-01
+valid_until: 2025-07-31
+version_adopted: 2024-05-29
 adopted: 2003-02-20
 in_force: 2024-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/400.400"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3353/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3665/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Interkantonale Vereinbarung für Schulen mit spezifisch-strukturierten Angeboten für Hochbegabte
 
-Vom 20.02.2003 (Stand 01.01.2024)
+Vom 20.02.2003 (Stand 01.08.2024)
 
 ## I. Allgemeine Bestimmungen
 
