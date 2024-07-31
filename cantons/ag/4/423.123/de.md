@@ -4,13 +4,13 @@ number: "423.123"
 title: Verordnung über die Mittelschule
 short: Mittelschulverordnung
 language: de
-version: 2023-08-01
-valid_until: 2024-07-31
-version_adopted: 2023-05-17
+version: 2024-08-01
+valid_until: 2024-09-14
+version_adopted: 2024-05-22
 adopted: 2015-06-03
 in_force: 2016-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/423.123"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3319/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3550/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3319/pdf_file"
 
 (Mittelschulverordnung)
 
-Vom 03.06.2015 (Stand 01.08.2023)
+Vom 03.06.2015 (Stand 01.08.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -180,6 +180,8 @@ beschliesst:
 **Anmeldung**
 
 <sup>1</sup> Schülerinnen und Schüler der Abschlussklassen der Bezirks- und Sekundarschulen können sich mit Zustimmung der Eltern bis zum 28. Februar über die Anmeldeplattform des BKS für die gewünschte Mittelschule anmelden.
+
+<sup>1<sup>bis</sup></sup> Ausgenommen von Absatz 1 sind in den Schuljahren 2025/26 bis und mit 2028/29 die Schülerinnen und Schüler aus den Bezirksschulkreisen Frick, Möhlintal, Regio Laufenburg und Unteres Fricktal. Diese müssen sich jeweils an dem vom BKS jährlich festgelegten Datum anmelden.
 
 <sup>2</sup> Die Bezirks- und Sekundarschulen übermitteln den Mittelschulen jeweils bis zum 20. Juni die Abschlussnoten der angemeldeten Schülerinnen und Schüler.
 
