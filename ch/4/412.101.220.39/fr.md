@@ -3,18 +3,18 @@ sr: "412.101.220.39"
 title: Ordonnance du SEFRI du 7 juin 2023 sur la formation professionnelle initiale d’esthéticienne/esthéticien avec certificat fédéral de capacité (CFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/310"
 language: fr
-version: 2024-04-01
+version: 2024-08-01
 adopted: 2023-06-07
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/310/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2023-310-20240401-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/310/20240401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/310/20240801/fr/xml/fedlex-data-admin-ch-eli-cc-2023-310-20240801-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/310/20240801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale d’esthéticienne/esthéticien avec certificat fédéral de capacité (CFC)
 
-du 7 juin 2023 (État le 1<sup>er</sup> avril 2024)
+du 7 juin 2023 (État le 1<sup>er</sup> août 2024)
 
 <table>
 <tr><td>82113</td><td>Esthéticienne CFC / Esthéticien CFC Kosmetikerin EFZ / Kosmetiker EFZ Estetista AFC</td></tr>
@@ -473,9 +473,12 @@ L’ordonnance du SEFRI du 12 décembre 2006 sur la formation professionnelle in
 
 <sup>2</sup> Les personnes qui ont commencé leur formation d’esthéticienne ou esthéticien CFC avant l’entrée en vigueur de la présente ordonnance l’achèvent selon l’ancien droit, pour autant qu’elles l’achèvent avant le 31 décembre 2028.
 
-<sup>3</sup> Les personnes qui suivent une formation raccourcie l’achèvent selon l’ancien droit, pour autant qu’elles l’achèvent avant le 31 décembre 2028.
+<sup>3</sup> Les personnes qui, après l’entrée en vigueur de la présente ordonnance, commencent une formation raccourcie se terminant avant la première application des dispositions relatives aux procédures de qualification, au certificat et au titre (al. 1) la suivent et l’achèvent selon l’ancien droit, pour autant qu’elles l’achèvent avant le 31 décembre 2028.[^25-1]
 
-<sup>4</sup> Les candidats qui répètent la procédure de qualification avec examen final d’esthéticienne ou esthéticien CFC jusqu’au 31 décembre 2028 voient leurs prestations appréciées selon l’ancien droit. Sur demande écrite, ils sont évalués selon le nouveau droit.
+<sup>4</sup> Les candidats qui se sont présentés à la procédure de qualification avec examen final d’esthéticienne ou esthéticien CFC selon l’ancien droit et qui la répètent jusqu’au 31 décembre 2028 voient leurs prestations appréciées selon l’ancien droit. Sur demande écrite, ils sont évalués selon le nouveau droit.[^25-2]
+
+[^25-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 3 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 276](https://fedlex.data.admin.ch/eli/oc/2024/276)).
+[^25-2]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 3 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 276](https://fedlex.data.admin.ch/eli/oc/2024/276)).
 
 #### Art. 26
 

@@ -3,18 +3,18 @@ sr: "412.101.220.39"
 title: Ordinanza della SEFRI del 7 giugno 2023 sulla formazione professionale di base Estetista con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/310"
 language: it
-version: 2024-04-01
+version: 2024-08-01
 adopted: 2023-06-07
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/310/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2023-310-20240401-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/310/20240401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/310/20240801/it/xml/fedlex-data-admin-ch-eli-cc-2023-310-20240801-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/310/20240801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Estetista con attestato federale di capacità (AFC)
 
-del 7 giugno 2023 (Stato 1° aprile 2024)
+del 7 giugno 2023 (Stato 1° agosto 2024)
 
 <table>
 <tr><td>82113</td><td>Estetista AFC Kosmetikerin EFZ / Kosmetiker EFZ Esthéticienne CFC / Esthéticien CFC</td></tr>
@@ -219,7 +219,7 @@ Il piano di formazione:
 
 <sup>3</sup> Al piano di formazione è allegato l’elenco degli strumenti volti a garantire e attuare la formazione professionale di base nonché a promuovere la qualità, con indicazione dell’ente presso cui possono essere ottenuti.
 
-[^9-1]: Il piano del 7 giu. 2023 è disponibile sul sito SEFRI nell’elenco delle professioni: [www.bvz.admin.ch](http://www.bvz.admin.ch/) &gt; Professioni A–Z.
+[^9-1]: Il piano del 7 giu. 2023 è disponibile sul sito SEFRI nell’elenco delle professioni: [www.bvz.admin.ch](http://www.bvz.admin.ch/) &gt; Professioni A–Z
 
 ## Sezione 6: Requisiti per i formatori e numero massimo di persone in formazione in azienda
 
@@ -475,9 +475,12 @@ L’ordinanza della SEFRI del 12 dicembre 2006[^24-1] sulla formazione professio
 
 <sup>2</sup> Le persone che hanno iniziato la formazione di estetista prima dell’entrata in vigore della presente ordinanza la portano a termine in base al diritto anteriore, al massimo però entro il 31 dicembre 2028.
 
-<sup>3</sup> Le persone che seguono una formazione abbreviata la svolgono e la portano a termine in base al diritto anteriore, al massimo però entro il 31 dicembre 2028.
+<sup>3</sup> Le persone che, dopo l’entrata in vigore della presente ordinanza, iniziano una formazione abbreviata che si conclude anteriormente alla prima applicazione delle disposizioni concernenti le procedure di qualificazione, le attestazioni e il titolo (cpv. 1) la svolgono e la portano a termine secondo il diritto anteriore, al massimo però entro il 31 dicembre 2028.[^25-1]
 
-<sup>4</sup> I candidati che ripetono la procedura di qualificazione con esame finale per Estetista AFC entro il 31 dicembre 2028 sono valutati in base al diritto anteriore. I candidati che presentano un’apposita richiesta scritta sono valutati in base al nuovo diritto.
+<sup>4</sup> I candidati che hanno portato a termine la procedura di qualificazione con esame finale per estetista AFC in base al diritto anteriore e che la ripetono entro il 31 dicembre 2028 sono valutati in base al diritto anteriore. I candidati che presentano un’apposita richiesta scritta sono valutati in base al nuovo diritto.[^25-2]
+
+[^25-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 3 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 276](https://fedlex.data.admin.ch/eli/oc/2024/276)).
+[^25-2]: Nuovo testo giusta il n. I dell’O della SEFRI del 3 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 276](https://fedlex.data.admin.ch/eli/oc/2024/276)).
 
 #### Art. 26
 

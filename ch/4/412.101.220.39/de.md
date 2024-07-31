@@ -3,18 +3,18 @@ sr: "412.101.220.39"
 title: Verordnung des SBFI vom 7. Juni 2023 über die berufliche Grundbildung Kosmetikerin/Kosmetiker mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/310"
 language: de
-version: 2024-04-01
+version: 2024-08-01
 adopted: 2023-06-07
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/310/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2023-310-20240401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/310/20240401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/310/20240801/de/xml/fedlex-data-admin-ch-eli-cc-2023-310-20240801-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/310/20240801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Kosmetikerin/Kosmetiker mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 7. Juni 2023 (Stand am 1. April 2024)
+vom 7. Juni 2023 (Stand am 1. August 2024)
 
 <table>
 <tr><td>82113</td><td>Kosmetikerin EFZ / Kosmetiker EFZ Esthéticienne CFC / Esthéticien CFC Estetista AFC</td></tr>
@@ -473,9 +473,12 @@ Die Verordnung des SBFI vom 12. Dezember 2006[^24-1] über die berufliche Grundb
 
 <sup>2</sup> Lernende, die ihre Bildung als Kosmetikerin oder Kosmetiker EFZ vor dem Inkrafttreten dieser Verordnung begonnen haben, schliessen sie nach bisherigem Recht ab, sofern der Abschluss vor dem 31. Dezember 2028 erfolgt.
 
-<sup>3</sup> Lernende, die eine verkürzte Ausbildung absolvieren, absolvieren sie nach bisherigem Recht und schliessen sie gemäss diesem ab, sofern der Abschluss vor dem 31. Dezember 2028 erfolgt.
+<sup>3</sup> Lernende, die nach dem Inkrafttreten dieser Verordnung eine verkürzte Ausbildung beginnen, die vor der erstmaligen Anwendung der Bestimmungen über Qualifikationsverfahren, Ausweise und Titel (Abs. 1) endet, absolvieren sie nach bisherigem Recht und schliessen sie nach bisherigem Recht ab, sofern der Abschluss vor dem 31. Dezember 2028 erfolgt.[^25-1]
 
-<sup>4</sup> Kandidierende, die das Qualifikationsverfahren mit Abschlussprüfung Kosmetikerin oder Kosmetiker EFZ bis zum 31. Dezember 2028 wiederholen, werden nach bisherigem Recht beurteilt. Auf ihren schriftlichen Antrag hin werden sie nach neuem Recht beurteilt.
+<sup>4</sup> Kandidierende, die das Qualifikationsverfahren mit Abschlussprüfung für Kosmetikerin oder Kosmetiker EFZ gemäss bisherigem Recht absolviert haben und dieses bis zum 31. Dezember 2028 wiederholen, werden nach bisherigem Recht beurteilt. Auf ihren schriftlichen Antrag hin werden sie nach neuem Recht beurteilt.[^25-2]
+
+[^25-1]: Fassung gemäss Ziff. I der V des SBFI vom 3. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 276](https://fedlex.data.admin.ch/eli/oc/2024/276)).
+[^25-2]: Fassung gemäss Ziff. I der V des SBFI vom 3. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 276](https://fedlex.data.admin.ch/eli/oc/2024/276)).
 
 #### Art. 26
 
