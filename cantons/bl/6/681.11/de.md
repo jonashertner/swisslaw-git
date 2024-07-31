@@ -3,20 +3,20 @@ canton: BL
 number: "681.11"
 title: Verordnung für die Berufsbildung
 language: de
-version: 2023-01-01
-valid_until: 2024-07-31
-version_adopted: 2022-11-15
+version: 2024-08-01
+valid_until: 2025-07-31
+version_adopted: 2024-06-25
 adopted: 2009-03-17
 in_force: 2009-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/681.11"
-pdf: "https://bl.clex.ch/api/de/versions/3749/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3947/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung für die Berufsbildung
 
-Vom 17.03.2009 (Stand 01.01.2023)
+Vom 17.03.2009 (Stand 01.08.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -38,9 +38,9 @@ beschliesst:
 - a. den Vollzug des Bundesgesetzes über die Berufsbildung (BBG) vom 13. Dezember 2002[^1-1], der Verordnung über die Berufsbildung (BBV) vom 19. November 2003[^1-2] und der Verordnung über die Berufsmaturität vom 30. November 1998[^1-3], soweit dieser nicht durch das Bildungsgesetz vom 6. Juni 2002 gewährleistet ist;
 - b. die beruflichen Ausbildungsverhältnisse, welche nicht dem Bundesgesetz unterstellt sind;
 - c. die Beziehungen zu den Berufsfachschulen von privatrechtlichen Organisationen mit einem Bildungsauftrag des Kantons, soweit diese nicht im Bundesgesetz über die Berufsbildung oder in speziellen Verträgen geregelt sind;
-- d. die Angebote, die auf die berufliche Grundbildung vorbereiten (Brückenangebote) und die nachhaltige Integration in die berufliche Grundbildung unterstützen (Berufsintegration);
+- d. die Angebote, die auf die berufliche Grundbildung vorbereiten (Integrationsangebot zur Vorbereitung auf die Sekundarstufe II, Brückenangebote) und die nachhaltige Integration in die berufliche Grundbildung unterstützen (Berufsintegration);
 - e. die Massnahmen für die Fort- und Weiterbildung in der Berufsbildung;
-- f. die Qualifizierung von Gelernten, Angelernten und Ungelernten (Nachholbildung);
+- f. …
 - g. die Aufgaben der Berufs- und Studienberatung.
 
 <sup>2</sup> Für die Berufsfachschulen von privatrechtlichen Trägerschaften sind die mit dem Kanton abgeschlossenen Verträge massgebend.
@@ -59,9 +59,26 @@ beschliesst:
 
 #### § 3
 
-**Lernortübergreifende Qualitätssicherung und -entwicklung**
+**…**
 
-<sup>1</sup> Die Hauptabteilung Berufsbildung der Dienststelle Berufsbildung, Mittelschulen und Hochschulen (Dienststelle BMH) entwickelt unter Einbezug von Vertretungen der Berufsfachschulen und der Organisationen der Arbeitswelt ein Konzept für die lernortübergreifende Qualitätssicherung und Qualitätsentwicklung für die berufliche Grundbildung und sorgt für dessen Umsetzung.
+## 1a Integrationsangebot zur Vorbereitung auf die Sekundarstufe II (IAV Sek II)
+
+#### § 3bis
+
+**Angebot**
+
+<sup>1</sup> Das Angebot des IAV Sek II umfasst:
+
+- a. Deutsch zum Erwerb eines Sprachstandes A2 GER (Gemeinsamer europäischer Referenzrahmen für Sprachen);
+- b. Gesellschaftskunde zur kulturellen und sozialen Integration;
+- c. Grundlagen der Mathematik;
+- d. Sport;
+- e. Klassenstunde;
+- f. betreute Hausaufgaben.
+
+<sup>2</sup> Das Angebot des IAV Sek II wird als regulärer Kurs und als Kurs für Jugendliche mit Analphabetismus geführt.
+
+<sup>3</sup> Die Kurse werden nach dem individuellen Bedarf der Jugendlichen organisiert.
 
 ## 1<sup>bis</sup> Ausbildung in Brückenangeboten
 
@@ -127,7 +144,7 @@ beschliesst:
 
 **Betriebliche Voraussetzungen**
 
-<sup>1</sup> Betriebe, welche eine berufliche Grundbildung anbieten, erhalten von der Hauptabteilung Berufsbildung der Dienststelle BMH die dafür notwendige Bildungsbewilligung, wenn die bundesrechtlichen Voraussetzungen erfüllt sind.
+<sup>1</sup> Betriebe, welche eine berufliche Grundbildung anbieten, erhalten von der Hauptabteilung Berufsbildung der Dienststelle Berufsbildung, Mittelschulen und Hochschulen (Dienststelle BMH) die dafür notwendige Bildungsbewilligung, wenn die bundesrechtlichen Voraussetzungen erfüllt sind.
 
 <sup>2</sup> Mehrere Betriebe können sich zu einem Lehrbetriebsverbund zusammenschliessen.
 
@@ -196,11 +213,11 @@ beschliesst:
 
 <sup>1</sup> In der Wirtschaftsmittelschule nach dem Modell 3+1 schliesst an die 3 schulischen Ausbildungsjahre ein 1-jähriges Betriebspraktikum an.
 
-<sup>2</sup> Die Verantwortung für die Qualität des Praktikums gegenüber der Bildungs-, Kultur- und Sportdirektion liegt bei den Anbietern der Wirtschaftsmittelschule.
+<sup>2</sup> Die Verantwortung für die Qualität des Praktikums gegenüber der Hauptabteilung Berufsbildung der Dienststelle BMH liegt bei den Anbietern der Wirtschaftsmittelschule.
 
 <sup>3</sup> Der Anbieter der Wirtschaftsmittelschule schliesst mit dem Anbieter des Praktikums einen Vertrag ab, in dem sich dieser zur vorschriftsgemässen Vermittlung von Bildung in beruflicher Praxis und allfälligen Lohnzahlungen verpflichtet.
 
-<sup>4</sup> Der Anbieter des Praktikums schliesst vor Beginn des Praktikumsverhältnisses mit der lernenden Person der Wirtschaftsmittelschule einen Praktikumsvertrag ab. Dieser bedarf der Genehmigung durch die Bildungs-, Kultur- und Sportdirektion, sofern die Aufsicht über das Praktikum nicht privatrechtlichen Organisationen mit einem Bildungsauftrag des Kantons übertragen wurde.
+<sup>4</sup> Der Anbieter des Praktikums schliesst vor Beginn des Praktikumsverhältnisses mit der lernenden Person der Wirtschaftsmittelschule einen Praktikumsvertrag ab. Dieser bedarf der Genehmigung durch die Hauptabteilung Berufsbildung der Dienststelle BMH, sofern die Aufsicht über das Praktikum nicht privat-rechtlichen Organisationen mit einem Bildungsauftrag des Kantons übertragen wurde.
 
 #### § 10b
 
@@ -292,7 +309,7 @@ beschliesst:
 
 <sup>3</sup> Die Hauptabteilung Berufsbildung der Dienststelle BMH kann Dritte mit der Durchführung von Ausbildungskursen für Berufsbildnerinnen und Berufsbildner beauftragen.
 
-<sup>4</sup> Das Amt für Berufsbildung und Berufsberatung kann ausserdem branchen- und berufsbezogene Fortbildungskurse für Berufsbildnerinnen und Berufsbildner für obligatorisch erklären.
+<sup>4</sup> Die Hauptabteilung Berufsbildung der Dienststelle BMH kann ausserdem branchen- und berufsbezogene Fortbildungskurse für Berufsbildnerinnen und Berufsbildner für obligatorisch erklären.
 
 <sup>5</sup> Die nach Abzug der Beiträge der Kursteilnehmenden und der Organisationen der Arbeitswelt verbleibenden Kosten für diese Kurse übernimmt der Kanton. Vorbehalten bleiben abweichende vertragliche Regelungen mit den Trägerschaften privater Berufsfachschulen, die dem Bundesgesetz über die Berufsbildung unterstellt sind.
 
@@ -341,25 +358,21 @@ beschliesst:
 
 <sup>1</sup> Für die Bewilligung von Schuleinstellungen an einzelnen Tagen sind zuständig:
 
-- a. der Schulrat bei Anlässen im Einzugsgebiet der Schule;
+- a. die Schulleitung bei Anlässen im Einzugsgebiet der Schule;
 - b. die Bildungs-, Kultur- und Sportdirektion bei Anlässen von kantonaler und überkantonaler Bedeutung;
 - c. der kantonale Krisenstab in Katastrophensituationen.
 
+<sup>2</sup> Die Schulleitung meldet der Hauptabteilung Berufs- und Mittelschulen der Dienststelle BMH beabsichtigte Schuleinstellungen bei Anlässen im Einzugsgebiet der Schule.
+
 #### § 21a
 
-**Schuleinstellungen für die Umsetzung der Bildungsharmonisierung**
-
-<sup>1</sup> Für die Umsetzung der Bildungsharmonisierung stehen den Schulen bis und mit Schuljahr 2016/17 Schuleinstellungen von maximal 4 Unterrichtshalbtagen pro Schuljahr zur Verfügung.
-
-<sup>2</sup> Die Bildungs-, Kultur- und Sportdirektion kann Schuleinstellungen in Rücksprache mit der Schulleitungskonferenz in zeitlicher und inhaltlicher Hinsicht festlegen.
-
-<sup>3</sup> Für die Bewilligung der nicht von der Bildungs-, Kultur- und Sportdirektion festgelegten Schuleinstellungen ist der Schulrat auf Antrag der Schulleitung zuständig.
+**…**
 
 #### § 22
 
 **Schulort**
 
-<sup>1</sup> Die Lernenden besuchen während ihrer Lehrzeit bzw. Schulzeit die ihnen durch das Amt für Berufsbildung und Berufsberatung zugewiesene inner- oder ausserkantonale Berufsfachschule, sofern die Zuweisung nicht privatrechtlichen Organisationen mit einem Bildungsauftrag des Kantons übertragen wurde.
+<sup>1</sup> Die Lernenden besuchen während ihrer Lehrzeit bzw. Schulzeit die ihnen durch die Hauptabteilung Berufsbildung der Dienststelle BMH zugewiesene inner- oder ausserkantonale Berufsfachschule, sofern die Zuweisung nicht privatrechtlichen Organisationen mit einem Bildungsauftrag des Kantons übertragen wurde.
 
 #### § 23
 
@@ -394,7 +407,10 @@ beschliesst:
 - d. Brückenangebote:
   - 1\. schulisches Profil: 14;
   - 2\. kombiniertes Profil: 14;
-  - 3\. integratives Profil: 14.
+  - 3\. integratives Profil: 14;
+- e. Integrationsangebot zur Vorbereitung auf die Sekundarstufe II:
+  - 1\. regulärer Kurs: 14;
+  - 2\. Kurs für Jugendliche mit Analphabetismus: 8.
 
 <sup>3</sup> Über Ausnahmen entscheidet die Hauptabteilung Berufsbildung der Dienststelle BMH auf Antrag der Schulleitung.
 
@@ -410,94 +426,165 @@ beschliesst:
 
 <sup>1</sup> Die Schulen definieren im Schulprogramm ihre Leitsätze und Zielsetzungen und legen fest, wie sie diese innert einer bestimmten Zeit umsetzen wollen.
 
-<sup>2</sup> Das Schulprogramm enthält insbesondere:
+<sup>2</sup> Das Schulprogramm gibt neben den in den §§ 59, 60d und 82h des Bildungsgesetzes vom 6. Juni 2002[^26-1] vorgesehenen Bereichen insbesondere Auskunft über:
 
-- a. das pädagogische Konzept der Schule;
-- b. die Organisation der Schule;
-- c. die Regelung der Zusammenarbeit innerhalb der Schule sowie mit den Erziehungsberechtigten, den Lehrbetrieben, den Verantwortlichen der Überbetrieblichen Kurse, den Behörden und anderen Schulen;
-- d. die Form der Mitsprache der Lernenden;
+- a. …
+- b. …
+- c. die Form der Zusammenarbeit innerhalb der Schule sowie mit den Erziehungsberechtigten, den Lehrbetrieben, den Verantwortlichen der Überbetrieblichen Kurse, mit den Behörden und anderen Schulen;
+- d. …
 - e. die Massnahmen bezüglich Prävention und Gesundheitsförderung;
 - f. die Integration der ausländischen sowie der fremdsprachigen Lernenden;
-- g. die Bereiche und die Durchführung der internen Evaluation;
+- g. die Bereiche der internen Evaluation;
 - h. die Fort- und Weiterbildung der Lehrerinnen und Lehrer;
 - i. das Vorgehen in Konfliktfällen;
-- j. den Einsatz der finanziellen Mittel;
+- j. …
 - k. die Massnahmen zur Förderung einer geschlechtergerechten Pädagogik und der Gleichstellung der Geschlechter;
-- l. das Medienkonzept;
-- m. die Betreuung von Lernenden, deren berufliche Laufbahn gefährdet ist.
+- l. das Medien-/ICT-Konzept;
+- m. die Betreuung von Lernenden, deren berufliche Laufbahn gefährdet ist;
+- n. die Klärung der Rollen, Kompetenzen und Zuständigkeiten in der Schule.
 
-### 3.4 Interne Evaluation
+[^26-1]: SGS [640](https://bl.clex.ch/data/640/de)
+
+### 3.3a Schulpool
+
+#### § 26a
+
+**Zweck**
+
+<sup>1</sup> Der Schulpool dient der Ressourcierung von kantonalen und schuleigenen Spezialfunktionen und -aufgaben, die von Lehrpersonen im erweiterten Berufsauftrag erbracht werden oder von Dritten übernommen werden.
+
+#### § 26b
+
+**Umfang**
+
+<sup>1</sup> Der Schulpool der Berufsfachschulen wird durch die Trägerschaft wie folgt ressourciert:
+
+- a. Sockel für Vollzeitschulen CHF 5000.– und pro Klasse CHF 1'650.–;
+- b. Sockel für duale Berufsfachschulen CHF 5000.– und pro Klasse CHF 1'150.–;
+- c. Gesundheitsförderung: Sockel CHF 2'000.– und pro Klasse CHF 300.–;
+- d. Gesamtstundenplanlegung:
+  - 1\. für 1–9 Klassen 1 Lektion;
+  - 2\. für 10–29 Klassen 2 Lektionen;
+  - 3\. für 30–49 Klassen 3 Lektionen;
+  - 4\. für 50–69 Klassen 4 Lektionen;
+  - 5\. für 70–89 Klassen 5 Lektionen;
+  - 6\. für 90 und mehr Klassen 6 Lektionen;
+- e. Beauftragte oder Beauftragter Berufswegbereitung (BWB): Sockel 1 Lektion, sofern die Schule im dualen Bereich tätig ist, sowie:
+  - 1\. 1 Lektion ab 500 Lernenden;
+  - 2\. 2 Lektionen ab 1'000 Lernenden;
+  - 3\. 3 Lektionen ab 1'500 Lernenden;
+  - 4\. 4 Lektionen ab 2'000 Lernenden.
+
+<sup>2</sup> Bis und mit Schuljahr 2027/28 stehen den Berufsfachschulen für den pädagogischen ICT-Support (PICTS) folgende maximalen Vergütungen zur Verfügung:
+
+- a. PICTS-Initialisierung: 1/12 Lektion pro Klasse für Vollzeitschulen bzw. 1/30 Lektion pro Klasse für duale Berufsfachschulen;
+- b. PICTS-Beratung: ¼ Lektion pro Klasse für Vollzeitschulen bzw. 1/10 Lektion pro Klasse für duale Berufsfachschulen;
+- c. PICTS-Multiplikatorin bzw. PICTS-Multiplikator: ¼ Lektion pro PICTS-Multiplikatorin oder PICTS-Multiplikator, wobei je 10 Lehrpersonen 1 PICTS-Multiplikatorin oder PICTS-Multiplikator eingesetzt wird.
+
+<sup>3</sup> Vergütungen in Franken können in Lektionen umgerechnet werden. Dabei gilt für 1 Jahreslektion der Gegenwert von CHF 5'900.–.
+
+#### § 26c
+
+**Verteilung und Rechenschaft**
+
+<sup>1</sup> Die Schulleitung nimmt die Verteilung des Schulpools vor. Der Konvent ist vorgängig anzuhören.
+
+<sup>2</sup> Die Schulleitung legt gegenüber der Dienststelle Berufsbildung, Mittelschulen und Hochschulen und dem Schulrat jährlich Rechenschaft über die Verwendung der Mittel ab.
+
+### 3.4 Qualität und Aufsicht
+
+### 3.4.1. Qualitätsentwicklung und -sicherung
 
 #### § 27
 
-**Zielsetzung**
+**Auftrag und Umsetzung**
 
-<sup>1</sup> Die Schulen führen selber regelmässig eine interne Evaluation über die Qualität ihrer Arbeit durch, um Steuerungswissen für ihre weitere Entwicklung zu erhalten.
+<sup>1</sup> Die Qualitätsentwicklung und -sicherung richtet sich nach § 60a ff. des Bildungsgesetzes vom 6. Juni 2002[^27-1].
+
+[^27-1]: [SGS 640](https://bl.clex.ch/data/640/de)
 
 #### § 28
 
-**Inhalt**
+**Inhalt der internen Evaluation**
 
-<sup>1</sup> Die interne Evaluation nimmt insbesondere Bezug auf:
+<sup>1</sup> Die interne Evaluation auf der Ebene der Schule als Organisation hat zum Ziel, Grundlagen zur Verbesserung der Abläufe, der Strukturen und der Schulkultur zu erhalten und Rechenschaft zu geben. Sie umfasst insbesondere:
 
 - a. die Überprüfung des Schulprogramms und dessen Realisierung;
-- b. den Unterricht der Lehrerinnen und Lehrer;
+- b. …
 - c. die im Unterricht erzielten Schulleistungen der Lernenden;
 - d. die Arbeit der Schulleitung;
 - e. die Integration der Genderthematik als Querschnittsaufgabe.
 
+<sup>2</sup> Die interne Evaluation auf der Ebene des Unterrichts hat zum Ziel, Grundlagen zur Sicherung und Steigerung der Unterrichtsqualität der einzelnen Lehrerinnen und Lehrer zu erhalten.
+
 #### § 29
 
-**Durchführung**
+**Durchführung und Massnahmen**
 
-<sup>1</sup> Die Lernenden, Erziehungsberechtigten, Behörden, Organisationen der Arbeitswelt, Lehrbetriebe, das nicht unterrichtende Schulpersonal und die abnehmenden Schulen und Institutionen werden in angemessener Form in die interne Evaluation einbezogen.
+<sup>1</sup> Die Lernenden, die Lehrerinnen und Lehrer, die weiteren Mitarbeitenden im pädagogischen, administrativen und ergänzenden Bereich, die Organisationen der Arbeitswelt, die Lehrbetriebe sowie die abnehmenden Schulen und Institutionen werden in angemessener Form in die interne Evaluation einbezogen.
 
-<sup>2</sup> Die Schulleitung führt die interne Evaluation im Auftrag des Schulrates durch.
+<sup>2</sup> …
 
-<sup>3</sup> Das System der internen Evaluation wird im Rahmen des Schulprogramms durch die Schulleitung in Zusammenarbeit mit dem Lehrerinnen- und Lehrerkonvent festgelegt.
+<sup>3</sup> …
 
-<sup>4</sup> Die Schulleitung wertet die Resultate der internen Evaluation zuhanden des Schulrates aus und setzt vom Schulrat beschlossene Massnahmen um.
+<sup>4</sup> Die Schulleitung wertet die Resultate auf Ebene der Schule als Organisation aus. Sie erarbeitet unter Mitwirkung des Schulrats die Massnahmen und unterbreitet sie diesem zur Genehmigung. Diese fliessen in die Schulentwicklungsplanung ein und werden der Hauptabteilung Berufs- und Mittelschulen der Dienststelle BMH zur Kenntnis gebracht.
 
-### 3.5 Externe Evaluation
+<sup>5</sup> Die Lehrerinnen und Lehrer reflektieren ihren Unterricht regelmässig unter Einbezug der Ergebnisse der internen Evaluation auf Ebene des Unterrichts und passen ihren Unterricht aufgrund der gewonnenen Erkenntnisse an.
+
+### 3.4.2. Aufsicht
+
+#### § 29a
+
+**Auftrag und Umsetzung**
+
+<sup>1</sup> Die Aufsicht richtet sich nach den §§ 61a und 61b des Bildungsgesetzes vom 6. Juni 2002[^29a-1].
+
+<sup>2</sup> Die Dienststelle BMH hat im Rahmen der Aufsicht insbesondere folgende Aufgaben:
+
+- a. Sie befragt die Schulen, die Lehrbetriebe und überbetrieblichen Kurse regelmässig zu massgeblichen, den Bildungsauftrag von Bund und Kanton betreffenden Bereichen.
+- b. Sie wertet die Ergebnisse der Befragungen zusammen mit vorliegenden Kennzahlen aus.
+- c. Sie kann zusätzlich die Einhaltung der Vorgaben des Bundes und des Kantons untersuchen, die mit der Erfüllung des Bildungsauftrags im Zusammenhang stehen.
+- d. Sie gibt periodisch Audits in Auftrag, die unter Einbezug der Beteiligten vor Ort ein Bild der Qualität der Arbeit an der Schule vermitteln. Sie zieht hierfür aussenstehende Expertinnen und Experten bei und kann Aufträge an Dritte erteilen.
+- e. Sie kann eine vertiefte Analyse in Auftrag geben, wenn die Funktion der Schule in einem oder mehreren Bereichen nicht gegeben oder gefährdet ist oder aber gefährdet sein könnte.
+
+[^29a-1]: [SGS 640](https://bl.clex.ch/data/640/de)
+
+#### § 29b
+
+**Massnahmen**
+
+<sup>1</sup> Die Schulleitung wertet die Ergebnisse der Aufsichtsprozesse aus. Sie erarbeitet unter Mitwirkung des Schulrats und unter Einbezug der Mitarbeitenden und gegebenenfalls nach Rücksprache mit der Hauptabteilung Berufs- und Mittelschulen der Dienststelle BMH geeignete Massnahmen, um die Erkenntnisse und Anforderungen aus den Aufsichtsprozessen angemessen umzusetzen und unterbreitet sie der Dienststelle BMH.
+
+<sup>2</sup> Die von der Dienststelle BMH beschlossenen Massnahmen fliessen in die Schulentwicklungsplanung ein und werden bei Bedarf von dieser begleitet.
+
+#### § 29c
+
+**Inhalte der Befragungen im Rahmen der Aufsicht**
+
+<sup>1</sup> Die Dienststelle BMH führt die Befragungen im Rahmen der Aufsicht insbesondere zu folgenden Bereichen durch:
+
+- a. zur Schul- und Personalführung;
+- b. zum Schulprogramm, inklusive Schulentwicklungsplanung;
+- c. zur Qualitätsentwicklung und -sicherung;
+- d. zur Umsetzung der vorgegebenen Lern- und Ausbildungsziele der Lehrbetriebe und überbetrieblichen Kurse.
+
+<sup>2</sup> Sie gibt den Schulen, den Lehrbetrieben sowie den überbetrieblichen Kursen eine schriftliche Rückmeldung gegebenenfalls verbunden mit Handlungsempfehlungen.
+
+### 3.5
 
 #### § 30
 
-**Zielsetzung**
-
-<sup>1</sup> Die externe Evaluation ergänzt die interne Evaluation und wird auf diese abgestimmt.
-
-<sup>2</sup> Die externe Evaluation bezweckt insbesondere:
-
-- a. die Überprüfung und Bewertung des Verfahrens der internen Evaluation;
-- b. die Vermittlung einer fachlichen Aussensicht zu den vereinbarten Evaluationsbereichen;
-- c. die Vermittlung von Steuerungswissen für die Weiterentwicklung der Schule;
-- d. die Beschaffung von Steuerungswissen für die Weiterentwicklung des kantonalen Bildungssystems.
+**…**
 
 #### § 31
 
 **Inhalt**
 
-<sup>1</sup> Die externe Evaluation nimmt insbesondere Bezug auf:
-
-- a. die im Schulprogramm und den Lehrplänen gesetzten Lern- und Ausbildungsziele;
-- b. die Unterrichtsqualität;
-- c. die im Unterricht erreichten Schulleistungen der Lernenden;
-- d. die stufenspezifischen Aspekte der Ausbildung der Lernenden;
-- e. die Einhaltung der rechtlichen Bestimmungen und Vorgaben der Behörden;
-- f. die Verwendung der finanziellen Mittel;
-- g. die Integration der Genderthematik als Querschnittsaufgabe.
+<sup>1</sup> …
 
 #### § 32
 
-**Durchführung**
-
-<sup>1</sup> Die Bildungs-, Kultur- und Sportdirektion ist für die regelmässige Durchführung der externen Evaluation verantwortlich und bestimmt die Evaluationsbereiche. Die Schulen haben das Recht, einen Evaluationsbereich selber festzulegen.
-
-<sup>2</sup> Die Hauptabteilung Berufsbildung der Dienststelle BMH erteilt den Auftrag an die mit der externen Evaluation beauftragte Organisation.
-
-<sup>3</sup> Das Evaluationsteam legt in Absprache mit der Schulleitung den Ablauf der externen Evaluation fest.
-
-<sup>4</sup> Nach der Durchführung verfasst das Evaluationsteam zuhanden des Schulrates, der Schulleitung und der Hauptabteilung Berufsbildung der Dienststelle BMH einen Bericht, der seine Beobachtungen, eine Beurteilung und Empfehlungen zur Qualitätsentwicklung enthält. Die Hauptabteilung Berufsbildung der Dienststelle BMH und das Evaluationsteam haben kein Weisungsrecht gegenüber der Schule.
+**…**
 
 ### 3.6 Lernortübergreifende Qualitätssicherung und -entwicklung
 
@@ -505,7 +592,11 @@ beschliesst:
 
 **Lernortübergreifende Qualitätssicherung und -entwicklung**
 
-<sup>1</sup> Die Berufsfachschulen, die Verantwortlichen für die Überbetrieblichen Kurse und die Organisationen der Arbeitswelt arbeiten am Qualitätssicherungs- und entwicklungskonzept der Hauptabteilung Berufsbildung der Dienststelle BMH aktiv mit.
+<sup>1</sup> …
+
+<sup>2</sup> Die Hauptabteilung Berufsbildung der Dienststelle BMH entwickelt unter Einbezug von Vertretungen der Berufsfachschulen und der Organisationen der Arbeitswelt ein Konzept für die lernortübergreifende Qualitätssicherung und -entwicklung für die berufliche Grundbildung und sorgt für dessen Umsetzung.
+
+<sup>3</sup> Die Berufsfachschulen, die Verantwortlichen für die Überbetrieblichen Kurse und die Organisationen der Arbeitswelt arbeiten am Qualitätssicherungs- und -entwicklungskonzept der Hauptabteilung Berufsbildung der Dienststelle BMH aktiv mit.
 
 ### 3.7 Erweitertes Bildungsangebot
 
@@ -555,12 +646,9 @@ beschliesst:
 
 <sup>1</sup> Lernende können auf schriftliches Gesuch der Erziehungsberechtigten bzw. der volljährigen Lernenden und, ausser im Rahmen der Wirtschaftsmittelschule, im Einverständnis mit dem Lehrbetrieb befristet vom Schulbesuch beurlaubt werden, wenn besondere Gründe vorliegen.
 
-<sup>2</sup> Für die Bewilligung von Beurlaubungen sind zuständig:
+<sup>2</sup> Für die Bewilligung von Beurlaubungen ist die Schulleitung zuständig.
 
-- a. die Schulleitung bis zu 2 Kalenderwochen;
-- b. der Schulrat auf Antrag der Schulleitung bei mehr als 2 Kalenderwochen.
-
-<sup>3</sup> Die Schulleitung sorgt in Absprache mit dem Lehrerinnen- und Lehrerkonvent für eine einheitliche Praxis innerhalb der Schule.
+<sup>3</sup> …
 
 <sup>4</sup> Der Unterricht darf aus Gründen, die ausschliesslich im Interesse des Lehrbetriebes liegen, nicht versäumt werden.
 
@@ -629,12 +717,16 @@ beschliesst:
 
 **Aufgaben des Lehrerinnen- und Lehrerkonvents**
 
-<sup>1</sup> Der Lehrerinnen- und Lehrerkonvent hat insbesondere folgende Aufgaben:
+<sup>1</sup> Die Aufgaben des Lehrerinnen- und Lehrerkonvents richten sich nach § 74 Abs. 2 des Bildungsgesetzes vom 6. Juni 2002[^45-1]. Zudem hat er folgende Aufgaben:
 
-- a. Er nimmt zuhanden des Schulrats Stellung zur Organisation der Schulleitung.
-- b. Er arbeitet unter der Federführung der Schulleitung das Schulprogramm und schulinterne Erlasse aus.
-- c. Er wählt die Lehrerinnen- und Lehrervertretung im Schulrat.
-- d. Er nimmt zu wichtigen Fragen der Schule und der Berufsbildung Stellung.
+- a. Er nimmt zuhanden der Rektorin oder des Rektors Stellung zur Organisation der Schulleitung.
+- b. Er nimmt zu schulinternen Erlassen Stellung.
+- c. Er wählt die Lehrerinnen- und Lehrervertretung im Schulrat und seine Vertretung bei der Anstellung von Schulleitungsmitgliedern.
+- d. Er wählt seine Ansprechperson gegenüber der Amtlichen Kantonalkonferenz der Lehrerinnen und Lehrer.
+
+<sup>2</sup> Er bespricht seine Aufgabenerfüllung und die Beteiligung der Schulleitung an den Konventen vorgängig mit dieser.
+
+[^45-1]: [SGS 640](https://bl.clex.ch/data/640/de)
 
 #### § 46
 
@@ -648,7 +740,8 @@ beschliesst:
 - b. weitere Rechte und Pflichten der Mitglieder;
 - c. die Leitung und das Protokoll;
 - d. den allfälligen Beizug weiterer Personen, insbesondere des nicht unterrichtenden Schulpersonals;
-- e. die Wahl der Lehrerinnen- und Lehrervertretung im Schulrat.
+- e. die Wahl seiner Vertretung im Schulrat sowie im Anstellungsverfahren der Schulleitungsmitglieder; die Vertretung besteht aus höchstens 2 Personen;
+- f. die Wahl seiner Ansprechperson gegenüber der Amtlichen Kantonalkonferenz der Lehrerinnen und Lehrer.
 
 #### § 47
 
@@ -656,7 +749,7 @@ beschliesst:
 
 <sup>1</sup> Die Lehrerinnen und Lehrer der kantonalen Berufsfachschulen koordinieren ihre Aufgaben in Fachkonventen.
 
-## 4 Leitung und Aufsicht
+## 4 Leitung
 
 ### 4.1 Schulleitung
 
@@ -664,71 +757,41 @@ beschliesst:
 
 **Amtsauftrag**
 
-<sup>1</sup> Die Schulleitungen haben folgenden Auftrag:
+<sup>1</sup> Der Auftrag der Schulleitungen richtet sich nach den Bestimmungen des Bildungsgesetzes vom 6. Juni 2002[^48-1] sowie nach § 2 der Verordnung für die Schulleitungen und die Schulsekretariate vom 13. Mai 2003[^48-2].
 
-- a. Sie sind für die pädagogischen, personellen, organisatorischen und administrativen Belange und die Unterrichtsqualität ihrer Schulen zuständig.
-- b. Sie beteiligen die Lehrerinnen und Lehrer an wichtigen Entscheidungsprozessen ihrer Schulen.
-- c. Sie sorgen für eine altersgemässe Mitwirkung der Lernenden an wichtigen Entscheidungsprozessen ihrer Schulen.
-- d. Sie gewährleisten die Mitwirkung der Erziehungsberechtigten und der Lehrbetriebe am Entwicklungsprozess ihrer Schulen.
-- e. Sie arbeiten mit den kommunalen und kantonalen Stellen und Behörden zusammen.
+<sup>2</sup> Sie haben zudem folgenden Auftrag:
 
-<sup>2</sup> Die Schulleitungen sind gegenüber den Lehrerinnen und Lehrern und dem nicht unterrichtenden Schulpersonal in personellen, organisatorischen und administrativen Fragen weisungsbefugt.
+- a. Sie gewährleisten die Mitwirkung der Lehrbetriebe am Entwicklungsprozess ihrer Schulen.
+- b. Sie arbeiten mit den Organisationen der Arbeitswelt zusammen.
 
 <sup>3</sup> Sie sind gegenüber ihren übergeordneten Behörden und Stellen in Angelegenheiten ihrer Schulen auskunftspflichtig.
 
+[^48-1]: [SGS 640](https://bl.clex.ch/data/640/de)
+[^48-2]: [SGS 647.12](https://bl.clex.ch/data/647.12/de)
+
 #### § 49
 
-**Organisation, Zusammensetzung, Konstituierung**
-
-<sup>1</sup> Die Organisation der Schulleitung wird auf Antrag der Schulleitung durch den Schulrat festgelegt. Sie ist vorgängig dem Lehrerinnen- und Lehrerkonvent zur Stellungnahme vorzulegen.
-
-<sup>2</sup> Bei einer mehrköpfigen Schulleitung bestimmt der Schulrat deren Vorsitz (Rektor/Rektorin). Co-Vorsitzende sind möglich.
-
-<sup>3</sup> …
-
-<sup>4</sup> Im Übrigen konstituiert sich die Schulleitung selbst.
+**…**
 
 #### § 50
 
 **Pflichtenheft**
 
-<sup>1</sup> Das Pflichtenheft der Schulleitung umfasst folgende Aufgaben:
+<sup>1</sup> Das Pflichtenheft der Schulleitungen richtet sich grundsätzlich nach den Bestimmungen des Bildungsgesetzes vom 6. Juni 2002[^50-1] sowie nach § 20 der Verordnung für die Schulleitungen und die Schulsekretariate vom 13. Mai 2003[^50-2].
 
-- a. Sie teilt den Lehrerinnen und Lehrern die Klassen, Pensen und Räume zu.
-- b. Sie genehmigt die Stundenpläne.
-- c. Sie besucht die Lehrerinnen und Lehrer im Unterricht und beurteilt diesen.
-- d. Sie führt die Mitarbeiterinnen- und Mitarbeitergespräche durch und führt die Personalakten.
-- e. Sie sorgt in Konfliktfällen für einen korrekten Verfahrensablauf.
-- f. Sie arbeitet zusammen mit dem Lehrerinnen- und Lehrerkonvent das Schulprogramm und schulinterne Erlasse aus und hat dabei die Federführung.
-- g. Sie führt im Auftrag des Schulrates die interne Evaluation der Schule durch.
-- h. Sie setzt im Auftrag des Schulrates die Ergebnisse der internen und externen Evaluation um.
-- i. Sie zieht bei Bedarf Fachpersonen und ausgebildete Mentorinnen und Mentoren bei.
-- j. Sie bewilligt Reisen, Lager, Schulverlegungen und weiteren Spezialunterricht nach Rücksprache mit dem Lehrbetrieb.
-- k. Sie berät die Lernenden, die Erziehungsberechtigten und die Lehrbetriebe in Schulfragen.
-- l. Sie sorgt zusammen mit den zuständigen Fachstellen für die Integration von Lernenden mit Beeinträchtigungen und Behinderungen.
-- m. Sie sorgt in Absprache mit dem Lehrerinnen- und Lehrerkonvent für eine einheitliche Disziplinarpraxis gegenüber Lernenden.
-- n. Sie gewährleistet in Zusammenarbeit mit den Sekundarschulen die Einhaltung der Anforderungen für den Übertritt in die Berufsmaturitätsschulen.
-- o. Sie erstellt zuhanden der vorgesetzten Instanzen das Budget und die Abrechnung der Schule und führt die Budgetkontrolle.
-- p. Sie leitet das Sekretariat der Schule.
-- q. Sie beantragt dem Schulrat die Ermahnung oder das Aussprechen einer Busse gegenüber den Erziehungsberechtigten.
+<sup>2</sup> Die Schulleitungen haben zudem folgende Aufgaben:
 
-<sup>2</sup> Der Aufgabenkatalog kann nach den Bedürfnissen der Schulen ergänzt werden.
+- a. Sie nehmen bei der Bewilligung von Reisen, Lagern, Schulverlegungen und weiterem Spezialunterricht Rücksprache mit dem Lehrbetrieb.
+- b. Sie beraten die Lehrbetriebe in Schulfragen.
+
+<sup>3</sup> Der Aufgabenkatalog kann ergänzt werden und wird dem Bedarf entsprechend ressourciert.
+
+[^50-1]: [SGS 640](https://bl.clex.ch/data/640/de)
+[^50-2]: [SGS 647.12](https://bl.clex.ch/data/647.12/de)
 
 #### § 51
 
-**Konferenz der Schulleitungen der berufsbildenden Schulen**
-
-<sup>1</sup> Die Rektorinnen und Rektoren der kantonalen Berufsfachschulen und der Berufsfachschulen von privatrechtlichen Organisationen bilden zusammen mit einer Vertretung der Hauptabteilung Berufsbildung der Dienststelle BMH die Konferenz der Schulleitungen der berufsbildenden Schulen (Konferenz).
-
-<sup>2</sup> Die Konferenz hat insbesondere folgende Aufgaben:
-
-- a. Sie berät die Hauptabteilung Berufsbildung der Dienststelle BMH in allen wichtigen Fragen.
-- b. Sie koordiniert alle schulübergreifenden Geschäfte.
-- c. Sie dient der gegenseitigen Orientierung der Schulleitungen über geplante und laufende Aktivitäten an den einzelnen Berufsfachschulen.
-
-<sup>3</sup> Die Konferenz gibt sich eine Geschäftsordnung.
-
-<sup>4</sup> Die Konferenz untersteht der Leiterin oder dem Leiter des Amts für Berufsbildung und Berufsberatung.
+**…**
 
 ### 4.1a Schulleitungskonferenz
 
@@ -736,20 +799,29 @@ beschliesst:
 
 **Schulleitungskonferenz der berufsbildenden Schulen des Kantons Basel-Landschaft**
 
-<sup>1</sup> Die Schulleitungen der dem Bundesgesetz über die Berufsbildung vom 13. Dezember 2002[^51a-1] unterstellten Berufsfachschulen und der Schulen des Bildungszentrums kvBL Muttenz sowie die Dienststellenleitung bilden zusammen die Schulleitungskonferenz der berufsbildenden Schulen (Schulleitungskonferenz).
+<sup>1</sup> Gemäss § 82e Abs. 1 des Bildungsgesetzes vom 6. Juni 2002[^51a-1] bilden die Rektorinnen und Rektoren der dem Bundesgesetz über die Berufsbildung vom 13. Dezember 2002[^51a-2] unterstellten Berufsfachschulen sowie die vom Kanton beauftragten privaten Leistungsanbietenden eine Schulleitungskonferenz. Bei Co-Rektoraten vertritt 1 Rektorin oder Rektor die Schule.
 
-<sup>2</sup> Die Schulleitungskonferenz wird von der Hauptabteilungsleitung Berufsbildung der Dienststelle Berufsbildung, Mittelschulen und Hochschulen geleitet.
+<sup>2</sup> Die Schulleitungskonferenz untersteht der Hauptabteilung Berufs- und Mittelschulen der Dienststelle BMH.
 
-<sup>3</sup> Der Schulleitungskonferenz obliegen insbesondere folgende Aufgaben:
+<sup>2<sup>bis</sup></sup> Ihre Aufgaben richten sich nach § 82e Abs. 2 Bildungsgesetz[^51a-3].
+
+<sup>3</sup> Ihr obliegen zudem insbesondere folgende Aufgaben:
 
 - a. die Koordination der schulischen Ausbildung und der Weiterbildung;
 - b. die Weiterentwicklung des Berufsfachschulwesens;
 - c. die Bearbeitung von Schulentwicklungsprojekten;
-- d. die Delegation in verschiedene Gremien der Berufsbildung;
-- e. die Erarbeitung von Stellungnahmen zur Berufsbildung bei Vernehmlassungen;
-- f. die Koordination und Durchführung der Berufsmaturitätsprüfungen.
+- d. die Delegation in verschiedene Gremien und Arbeitsgruppen im Bereich der Berufsbildung;
+- e. …
+- f. die Koordination und Durchführung der Berufsmaturitätsprüfungen;
+- g. die Sicherstellung der Information der Öffentlichkeit über den Lernort Berufsfachschule;
+- h. der Erlass verbindlicher Weisungen;
+- i. der Erlass einer Geschäftsordnung.
 
-[^51a-1]: [SR 412.10](https://db.clex.ch/link/Bund/412.10/de)
+<sup>4</sup> Sie kann bei Bedarf Fachgruppen einsetzen.
+
+[^51a-1]: [SGS 640](https://bl.clex.ch/data/640/de)
+[^51a-2]: [SR 412.10](https://db.clex.ch/link/Bund/412.10/de)
+[^51a-3]: [SGS 640](https://bl.clex.ch/data/640/de/art82e)
 
 ### 4.2 Schulrat
 
@@ -759,11 +831,11 @@ beschliesst:
 
 <sup>1</sup> Der Schulrat besteht aus 5–12 stimmberechtigten Mitgliedern. Vorbehalten bleiben abweichende vertragliche Regelungen mit den Trägerschaften privater Berufsfachschulen, die dem Bundesgesetz über die Berufsbildung unterstellt sind.
 
-<sup>2</sup> Der Schulrat setzt sich in der Regel aus paritätischen Vertretungen der Arbeitgeber- und Arbeitnehmerschaft, einer Vertretung der Hauptabteilung Berufsbildung der Dienststelle BMH und einer Vertretung einer abnehmenden Schule zusammen.
+<sup>2</sup> Der Schulrat setzt sich in der Regel aus Vertretungen der Arbeitgeber- und Arbeitnehmerschaft und einer Vertretung einer abnehmenden Schule zusammen.
 
 <sup>3</sup> Die Berufsorganisationen der Arbeitgeber- und Arbeitnehmerschaft können dem Regierungsrat Vorschläge für ihre Vertretung unterbreiten.
 
-<sup>4</sup> Je 1 Vertretung der Schulleitung, der Lehrerinnen und Lehrer sowie der Lernenden gehören dem Schulrat mit beratender Stimme an.
+<sup>4</sup> …
 
 <sup>5</sup> Der Schulrat gibt sich ein Organisationsreglement, überprüft dieses periodisch und passt es gegebenenfalls an.
 
@@ -771,13 +843,11 @@ beschliesst:
 
 **Aufgaben**
 
-<sup>1</sup> Der Schulrat hat insbesondere folgende Aufgaben:
-
-- a. Er verabschiedet das Budget und die Abrechnung der Schule zuhanden der Hauptabteilung Berufsbildung der Dienststelle BMH.
-- b. Er legt auf Antrag der Schulleitung deren Organisation fest.
-- c. Er unterstützt die Lehrkräfte in ihrem Auftrag.
+<sup>1</sup> Die Aufgaben des Schulrats richten sich nach § 82i des Bildungsgesetzes vom 6. Juni 2002[^53-1].
 
 <sup>2</sup> Vorbehalten bleiben abweichende vertragliche Regelungen mit den Trägerschaften privater Berufsfachschulen, die dem Bundesgesetz über die Berufsbildung unterstellt sind.
+
+[^53-1]: [SGS 640](https://bl.clex.ch/data/640/de/art82i)
 
 #### § 54
 
@@ -795,7 +865,7 @@ beschliesst:
 
 **Unterrichtsbesuche**
 
-<sup>1</sup> Die Mitglieder des Schulrats können an ihrer Schule – in der Regel nach vorheriger Absprache -–Unterrichtsbesuche durchführen.
+<sup>1</sup> …
 
 #### § 57
 
@@ -803,30 +873,34 @@ beschliesst:
 
 <sup>1</sup> Der Schulrat hat eine jährliche Finanzkompetenz von höchstens CHF 1'000.– zulasten des Kantons.
 
-### 4.3 Amt für Berufsbildung und Berufsberatung
+### 4.3 Dienststelle Berufsbildung, Mittelschulen und Hochschulen (Dienststelle BMH)
 
 #### § 58
 
 **Allgemeines**
 
-<sup>1</sup> Die Hauptabteilung Berufsbildung der Dienststelle BMH leitet und koordiniert die Berufsbildung und Berufsberatung sowie die Ausrichtung von Ausbildungsbeiträgen des Kantons.
+<sup>1</sup> Die Hauptabteilung Berufs- und Mittelschulen der Dienststelle BMH hat in der Führung der Berufsfachschulen die in § 82j des Bildungsgesetzes vom 2. Juni 2002[^58-1] der Bildungs-, Kultur- und Sportdirektion zugeordneten Aufgaben.
+
+<sup>2</sup> Sie hat zudem insbesondere folgende Aufgaben:
+
+- a. Sie unterstützt und beaufsichtigt die Berufsfachschulen und zieht dafür bei Bedarf Fachexpertinnen und -experten bei.
+- b. Sie genehmigt die Klassenbildung.
+
+<sup>3</sup> Die Hauptabteilung Berufsbildung der Dienststelle BMH hat in der Führung der Berufsbildung insbesondere folgende Aufgaben:
+
+- a. Sie entwickelt Strategien und Konzepte zur nachhaltigen Sicherung des Lehrstellenangebots in Zusammenarbeit mit Organisationen der Wirtschaft.
+- b. Sie unterstützt und beaufsichtigt die Lehrwerkstätten, überbetriebliche Kurse sowie Lehrbetriebe und zieht dafür bei Bedarf Fachexpertinnen und -experten bei.
+- c. Sie ist verantwortlich für die Koordination zwischen den an der beruflichen Grundbildung Beteiligten und für die lernortübergreifende Qualitätssicherung und -entwicklung.
+- d. Sie ist verantwortlich für die Ausbildung der Berufsbildnerinnen und Berufsbildner und kann Weiterbildungskurse für sie anbieten oder Private mit diesen beauftragen.
+- e. Sie arbeitet mit den Arbeitgeber- und Arbeitnehmerorganisationen und den Organisationen der Arbeitswelt zusammen.
+- f. Sie organisiert und führt die Standortbestimmungen und Qualifikationsverfahren der beruflichen Grundbildung durch, soweit diese nicht kantonalen Berufsfachschulen oder privatrechtlichen Organisationen übertragen sind.
+- g. Sie ist zuständig für die berufsvorbereitenden Angebote für Jugendliche.
+
+[^58-1]: [SGS 640](https://bl.clex.ch/data/640/de)
 
 #### § 59
 
-**Aufgaben in der Berufsbildung**
-
-<sup>1</sup> Die Hauptabteilung Berufsbildung der Dienststelle BMH hat in der Berufsbildung insbesondere folgende Aufgaben:
-
-- a. Sie entwickelt Strategien und Konzepte zur nachhaltigen Sicherung des Lehrstellenangebots in Zusammenarbeit mit Organisationen der Wirtschaft.
-- b. Sie unterstützt und beaufsichtigt die Berufsfachschulen und Lehrwerkstätten.
-- c. Sie berät und beaufsichtigt die Lehrbetriebe und zieht dafür bei Bedarf Fachexpertinnen und Fachexperten bei.
-- d. Sie ist verantwortlich für die Koordination zwischen den an der beruflichen Grundbildung Beteiligten und für die lernortübergreifende Qualitätssicherung und entwicklung.
-- e. Sie sorgt für die Ausbildung der Berufsbildnerinnen und Berufsbildner und kann Weiterbildungskurse für diese anbieten.
-- f. Sie arbeitet mit den Arbeitgeber- und Arbeitnehmerorganisationen zusammen.
-- g. Sie organisiert und führt die Standortbestimmungen und Qualifikationsverfahren der beruflichen Grundbildung durch, soweit diese nicht kantonalen Berufsfachschulen oder privatrechtlichen Organisationen übertragen sind.
-- h. Sie ist zuständig für die berufsvorbereitenden Angebote für Jugendliche.
-- i. Sie ist zuständig für die Realisierung der fachkundigen individuellen Begleitung im Rahmen der Attestausbildung.
-- j. Sie unterstützt alle Bestrebungen zur Gleichstellung der Geschlechter.
+**…**
 
 #### § 60
 
@@ -865,17 +939,20 @@ beschliesst:
 <sup>1</sup> Die Schulleitung kann folgende Massnahmen ergreifen:
 
 - a. zusätzliche Arbeit in der schulfreien Zeit;
-- b. befristeter Ausschluss von einzelnen Schulfächern oder Schulausschluss bis zu 10 Schultagen mit Mitteilung an den Lehrbetrieb und die zuständige Ausbildungsberaterin oder den zuständigen Ausbildungsberater sowie bei nicht volljährigen Lernenden an die Erziehungsberechtigten;
-- c. Antrag an die Hauptabteilung Berufsbildung der Dienststelle BMH , die Lernende oder den Lernenden in eine andere Berufsfachschule zu versetzen, mit Mitteilung an den Lehrbetrieb sowie bei nicht volljährigen Auszubildenden an die Erziehungsberechtigten;
-- d. Versetzung in eine andere Klasse oder die Freistellung zur Arbeit im Lehrbetrieb, sofern sie nach einer summarischen Prüfung des Sachverhalts zur Ansicht gelangt, dass eine solche gerechtfertigt ist;
-- e. Androhung des Antrages an den Schulrat auf Schulausschluss bis zu 8 Wochen;
-- f. Antrag an den Lehrbetrieb und die Hauptabteilung Berufsbildung der Dienststelle BMH auf Auflösung des Lehrvertrages mit Mitteilung an die Erziehungsberechtigten bei nicht volljährigen Lernenden.
+- b. befristeter Ausschluss von einzelnen Schulfächern oder vom Unterricht bis zu 10 Schultagen mit Mitteilung an den Lehrbetrieb und die zuständige Ausbildungsberaterin oder den zuständigen Ausbildungsberater sowie bei nicht volljährigen Lernenden an die Erziehungsberechtigten;
+- b<sup>bis</sup>. Versetzung in eine andere Klasse oder die Freistellung zur Arbeit im Lehrbetrieb, sofern sie nach einer summarischen Prüfung des Sachverhalts zur Ansicht gelangt, dass eine solche gerechtfertigt ist, mit Mitteilung an den Lehrbetrieb und die zuständige Ausbildungsberaterin oder den zuständigen Ausbildungsberater sowie bei nicht volljährigen Lernenden an die Erziehungsberechtigten;
+- c. nach Rücksprache mit dem Lehrbetrieb, der zuständigen Ausbildungsberaterin oder dem zuständigen Ausbildungsberater der Hauptabteilung Berufsbildung der Dienststelle BMH beantragen, die Lernende oder den Lernenden in eine andere Berufsfachschule zu versetzen, mit Mitteilung an den Lehrbetrieb sowie bei nicht volljährigen Lernenden an die Erziehungsberechtigten;
+- d. …
+- e. …
+- f. Antrag an den Lehrbetrieb und die Hauptabteilung Berufsbildung der Dienststelle BMH auf Auflösung des Lehrvertrages mit Mitteilung an die Erziehungsberechtigten bei nicht volljährigen Lernenden;
+- g. unbefristeter Ausschluss vom Brückenangebot in Absprache mit der Hauptabteilung Berufsbildung der Dienststelle BMH mit Mitteilung an die Erziehungsberechtigten bei nicht volljährigen Schülerinnen und Schülern;
+- h. unbefristeter Ausschluss vom Integrationsangebot zur Vorbereitung auf die Sekundarstufe II in Absprache mit der Hauptabteilung Berufsbildung der Dienststelle BMH mit Mitteilung an die Erziehungsberechtigten oder an die zuständige Beiständin oder den zuständigen Beistand bei nicht volljährigen Schülerinnen und Schülern.
 
 #### § 64
 
 **Massnahmen des Schulrats**
 
-<sup>1</sup> Der Schulrat kann auf Antrag der Schulleitung und nach Rücksprache mit dem Lehrbetrieb und der Hauptabteilung Berufsbildung der Dienststelle BMH zusätzlich einen befristeten Schulausschluss von bis zu 8 Wochen oder einen unbefristeten Schulausschluss anordnen.
+<sup>1</sup> …
 
 #### § 65
 
@@ -889,9 +966,9 @@ beschliesst:
 
 **Rechtliches Gehör**
 
-<sup>1</sup> Jede und jeder Lernende, gegen die oder den eine Massnahme gemäss § 61 Abs. 1 Bst. d–h, § 62 und § 63 vorgesehen ist, hat Anspruch darauf, vorher angehört zu werden. Die Anhörung erfolgt in der Regel mündlich.
+<sup>1</sup> Jede und jeder Lernende, gegen die oder den eine Massnahme gemäss § 61 Abs. 1 Bst. d–h und § 63 vorgesehen ist, hat Anspruch darauf, vorher angehört zu werden. Die Anhörung erfolgt in der Regel mündlich.
 
-<sup>2</sup> Vor der Verfügung von Disziplinarmassnahmen durch die Schulleitung und den Schulrat gemäss §§ 62 und 63 sind auch die Erziehungsberechtigten und der Lehrbetrieb anzuhören.
+<sup>2</sup> Vor der Verfügung von Disziplinarmassnahmen durch die Schulleitung und die Hauptabteilung Berufsbildung der Dienststelle BMH, sind der Lehrbetrieb und bei minderjährigen Lernenden die Erziehungsberechtigten anzuhören. Bei volljährigen Lernenden werden die Eltern oder Inhaberinnen oder Inhaber einer Beistandschaft, die die persönliche Fürsorge umfasst, informiert.
 
 ## 6 Spezielle Ausbildungsverhältnisse
 
@@ -907,7 +984,7 @@ beschliesst:
 
 **Lernende mit Behinderungen**
 
-<sup>1</sup> Bei Lernenden mit Behinderungen, die das vorgeschriebene Ausbildungsprogramm nicht vollständig erfüllen können, entscheidet die Hauptabteilung Berufsbildung die Dienststelle BMH, ob sie in eine berufliche Grundbildung eintreten können.
+<sup>1</sup> Bei Lernenden mit Behinderungen, die das vorgeschriebene Ausbildungsprogramm nicht vollständig erfüllen können, entscheidet die Hauptabteilung Berufsbildung der Dienststelle BMH, ob sie in eine berufliche Grundbildung eintreten können.
 
 <sup>2</sup> Der Kanton kann entsprechende Ausbildungsverhältnisse und Stützmassnahmen finanziell unterstützen.
 
