@@ -4,13 +4,12 @@ number: "425.100"
 title: "Ordinanza concernente l'organizzazione delle scuole medie superiori con ente responsabile cantonale"
 short: "Ordinanza sull'organizzazione delle scuole medie superiori, OOSMS"
 language: it
-version: 2023-08-01
-valid_until: 2024-07-31
-version_adopted: 2023-05-30
+version: 2024-08-01
+version_adopted: 2024-04-29
 adopted: 2022-02-22
 in_force: 2022-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/425.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3323/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3817/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3323/pdf_file"
 
 (Ordinanza sull'organizzazione delle scuole medie superiori, OOSMS)
 
-del 22.02.2022 (stato 01.08.2023)
+del 22.02.2022 (stato 01.08.2024)
 
 emanata dal Governo il 22 febbraio 2022
 
@@ -67,7 +66,7 @@ visto l'art. 20 cpv. 1 della legge sulle scuole medie superiori[^ingress-1]
 
 <sup>2</sup> Il volume d'impiego per la direzione scolastica nonché la composizione della direzione scolastica per ciascuna scuola media superiore con ente responsabile cantonale sono disciplinati nell'allegato 1.
 
-<sup>3</sup> I membri della direzione scolastica rilevano il loro orario di lavoro in conformità alla legislazione cantonale sul personale. Tutti i lavori in relazione all'attività di insegnamento, la rappresentanza della scuola in seno a gruppi di lavoro e commissioni (regionali e sovraregionali) nonché l'adempimento di incarichi per l'Ufficio della formazione medio-superiore (Ufficio) sono parte integrante del volume di lavoro.
+<sup>3</sup> I membri della direzione scolastica rilevano il loro orario di lavoro in conformità alla legislazione cantonale sul personale. Tutti i lavori in relazione all'attività di insegnamento, la rappresentanza della scuola in seno a gruppi di lavoro e commissioni (regionali e sovraregionali) nonché l'adempimento di incarichi per l'Ufficio delle scuole medie superiori e della formazione terziaria (Ufficio) sono parte integrante del volume di lavoro.
 
 #### Art. 5
 
@@ -338,5 +337,64 @@ visto l'art. 20 cpv. 1 della legge sulle scuole medie superiori[^ingress-1]
 <sup>1</sup> Il Dipartimento emana un regolamento quadro relativo all'esecuzione della presente ordinanza.
 
 <sup>2</sup> L'esecuzione compete all'Ufficio.
+
+## A1 Allegato 1: Disposizioni per la Scuola cantonale grigione (SCG) quale scuola media superiore cantonale a Coira (art. 4 cpv. 2)
+
+#### Art. A1-1
+
+**Offerta formativa**
+
+<sup>1</sup> La SCG gestisce:
+
+- a) un liceo della durata di sei anni e uno della durata di quattro anni
+- b) una scuola specializzata con i campi professionali salute, lavoro sociale nonché pedagogia ed è luogo di frequenza della scuola per la maturità specializzata in lavoro sociale
+- c) una scuola media di commercio con maturità professionale
+- d) una scuola media di informatica con maturità professionale
+
+<sup>2</sup> Viene promosso in modo particolare l'insegnamento nelle lingue cantonali tedesco, romancio e italiano. Al liceo devono essere proposti cicli di maturità bilingue nelle lingue cantonali conformemente alle disposizioni della Commissione svizzera di maturità (CSM).
+
+<sup>3</sup> L'insegnamento immersivo con l'inglese può essere proposto esclusivamente nelle opzioni specifiche e nelle opzioni complementari.
+
+#### Art. A1-2
+
+**Membri della direzione scolastica**
+
+<sup>1</sup> I membri della direzione scolastica della SCG sono il rettore, il corettore nonché i prorettori.
+
+<sup>2</sup> Il volume d'impiego, inclusa la quota destinata all'insegnamento, ammonta:
+
+- a) per il rettore al 100 per cento
+- b) per il corettore al 100 per cento
+- c) per i prorettori in totale al 300 per cento
+
+#### Art. A1-3
+
+**Griglia oraria e piano di studio**
+
+<sup>1</sup> La griglia oraria e il piano di studio della SCG di Coira costituiscono il riferimento per le griglie orarie e i piani di studio corrispondenti delle altre scuole medie superiori cantonali nonché delle scuole medie superiori private.
+
+<sup>2</sup> Presso il liceo, per lo svolgimento delle opzioni specifiche (senza lingue nazionali) nonché delle materie opzionali/facoltative di tutte le sezioni sono richiesti almeno dodici allievi iscritti per materia. Per lo svolgimento delle opzioni specifiche nelle lingue francese, italiano e romancio sono richiesti almeno sei allievi iscritti.
+
+<sup>3</sup> Presso il liceo, per lo svolgimento delle opzioni complementari sono richiesti almeno 14 allievi iscritti per materia.
+
+#### Art. A1-4
+
+**Sgravio per insegnanti con compiti particolari**
+
+<sup>1</sup> Il rettore può concedere i seguenti sgravi:
+
+- a) per l'allestimento dell'orario settimanale delle lezioni al massimo sette lezioni settimanali su base annua
+- b) per la direzione degli esami d'ammissione al massimo sei lezioni settimanali su base annua
+- c) per la direzione d'esercizio degli impianti sportivi al massimo sette lezioni settimanali su base annua
+
+<sup>2</sup> Ulteriori sgravi superiori a una lezione settimanale su base annua necessitano dell'approvazione dell'Ufficio.
+
+#### Art. A1-5
+
+**Adeguamenti del volume di lavoro**
+
+<sup>1</sup> Presso la SCG la designazione «adeguamenti del volume di lavoro» viene utilizzata esclusivamente per un volume di lavoro dell'anno scolastico corrente o di quello passato modificato a posteriori.
+
+<sup>2</sup> La designazione «compiti particolari» si riferisce all'indennizzo per prestazioni nell'anno scolastico seguente.
 
 2022-011
