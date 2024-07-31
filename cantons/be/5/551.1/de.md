@@ -4,13 +4,13 @@ number: "551.1"
 title: Polizeigesetz
 short: PolG
 language: de
-version: 2023-01-01
-valid_until: 2024-07-31
-version_adopted: 2022-06-15
+version: 2024-08-01
+valid_until: 2026-08-31
+version_adopted: 2023-11-28
 adopted: 2019-02-10
 in_force: 2020-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/551.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2722/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3048/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2722/pdf_file"
 
 (PolG)
 
-vom 10.02.2019 (Stand 01.01.2023)
+vom 10.02.2019 (Stand 01.08.2024)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -575,6 +575,8 @@ beschliesst:
 
 <sup>2</sup> Der Regierungsrat kann Ausnahmen durch Verordnung vorsehen.
 
+<sup>2a</sup> Der Kostenerlass kann von der Mitfinanzierung durch die Gemeinden abhängig gemacht werden.
+
 <sup>3</sup> Die Gemeinden können der Veranstalterin oder dem Veranstalter die Kosten weiterverrechnen oder sie ganz oder teilweise erlassen.
 
 ### 4.3.5 Kostentragung bei gemeindeübergreifenden Veranstaltungen
@@ -583,7 +585,7 @@ beschliesst:
 
 <sup>1</sup> Findet eine Veranstaltung in mehreren Gemeinden statt, stellt die Kantonspolizei die zur Bewältigung der Veranstaltung notwendigen Leistungen der Veranstalterin oder dem Veranstalter ganz oder teilweise in Rechnung.
 
-<sup>2</sup> Die Gemeinden haben sich in der Regel angemessen an den Kosten zu beteiligen. Sie sprechen sich ab und bezeichnen eine Ansprechperson.
+<sup>2</sup> …
 
 <sup>3</sup> Die Sicherheitsdirektion, die Gemeinden und die Veranstalterin oder der Veranstalter verständigen sich vorgängig über die Verteilung der polizeilichen Kosten.
 
@@ -783,10 +785,11 @@ beschliesst:
 
 <sup>2</sup> Sie kann auf eine Polizeiwache oder eine andere geeignete Dienststelle gebracht werden, wenn
 
-- a ihre Identität an Ort und Stelle nicht sicher oder nur mit erheblichen Schwierigkeiten festgestellt werden kann oder
-- b Zweifel an der Richtigkeit ihrer Angaben, an der Echtheit ihrer Ausweispapiere oder am rechtmässigen Besitz von Tieren sowie Fahrzeugen oder anderen Sachen besteht.
+- a ihre Identität an Ort und Stelle nicht sicher oder nur mit erheblichen Schwierigkeiten festgestellt werden kann,
+- b Zweifel an der Richtigkeit ihrer Angaben, an der Echtheit ihrer Ausweispapiere oder am rechtmässigen Besitz von Tieren sowie Fahrzeugen oder anderen Sachen besteht oder
+- c dies zur Wahrung ihrer Persönlichkeitsrechte im Hinblick auf eine Durchsuchung gemäss Artikel 97 erforderlich ist.
 
-### 7.2.2 Personenkontrolle und Identitätsfeststellung durch die Gemeinden
+### 7.2.2 Identitätsfeststellung durch die Gemeinden
 
 #### Art. 75
 
@@ -800,7 +803,7 @@ beschliesst:
 
 **Zuständigkeit**
 
-<sup>1</sup> Die Gemeinden bestimmen in einem Erlass, welche Gemeindeorgane oder Angehörige der Gemeindeverwaltung für die Aufgabenerfüllung zuständig sind.
+<sup>1</sup> Die Identitätsfeststellung ist Mitgliedern des Gemeinderates, Mitgliedern ständiger Kommissionen und dem Gemeindepersonal vorbehalten.
 
 <sup>2</sup> Der Regierungsrat legt die Anforderungen an deren Aus- und Weiterbildung durch Verordnung fest.
 
@@ -832,7 +835,7 @@ beschliesst:
 
 <sup>1</sup> Die Kantonspolizei kann eine Person unter Nennung des Grundes ohne Beachtung besonderer Formvorschriften vorladen, insbesondere für Befragungen, für Identitätsfeststellungen oder erkennungsdienstliche Massnahmen sowie für die Herausgabe von Tieren oder Sachen.
 
-<sup>2</sup> Leistet eine Person einer Vorladung ohne hinreichende Gründe nicht Folge und wurde sie schriftlich auf die Möglichkeit der Vorführung hingewiesen, kann die Kantonspolizei sie vorführen.
+<sup>2</sup> Leistet eine Person einer Vorladung ohne hinreichende Gründe nicht Folge und ist sie schriftlich auf die Möglichkeit der Vorführung hingewiesen worden, kann die Kantonspolizei sie vorführen.
 
 <sup>3</sup> Die Vorführung kann ohne vorherige Vorladung angeordnet werden, wenn Gefahr im Verzug ist und befürchtet werden muss, dass der Vorladung nicht Folge geleistet wird.
 
@@ -846,13 +849,14 @@ beschliesst:
 
 #### Art. 81
 
-<sup>1</sup> Die Kantonspolizei kann erkennungsdienstliche Massnahmen im Sinne der StPO durchführen
+<sup>1</sup> Die Kantonspolizei kann erkennungsdienstliche Massnahmen im Sinne der StPO durchführen an Personen,
 
-- a an Personen, deren Identität sich auf andere Weise nicht oder nur mit erheblichen Schwierigkeiten feststellen lässt,
-- b an Personen, die zu einer Freiheitsstrafe verurteilt sind oder gegen die eine freiheitsentziehende Massnahme gemäss StGB verhängt worden ist,
-- c an Personen, gegen die eine freiheitsentziehende Massnahme nicht strafrechtlicher Art verhängt worden ist,
-- d an Personen, die des Landes verwiesen wurden oder gegen die eine Einreisesperre besteht,
-- e an ausländerrechtlich weggewiesenen oder in ausländerrechtliche Haft genommenen Personen.
+- a deren Identität sich auf andere Weise nicht oder nur mit erheblichen Schwierigkeiten feststellen lässt,
+- b die zu einer Freiheitsstrafe verurteilt sind oder gegen die eine freiheitsentziehende Massnahme gemäss StGB verhängt worden ist,
+- c gegen die eine freiheitsentziehende Massnahme nicht strafrechtlicher Art verhängt worden ist,
+- d die des Landes verwiesen worden sind oder gegen die eine Einreisesperre besteht,
+- e die ausländerrechtlich weggewiesen oder in ausländerrechtliche Haft genommen worden sind,
+- f die sich in Auslieferungshaft befinden.
 
 <sup>2</sup> Vorbehältlich besonderer gesetzlicher Regelung sind erkennungsdienstlich erhobene Daten zu vernichten, sobald die Identität der Person festgestellt worden oder der Grund für die Erhebung der Daten weggefallen ist.
 
@@ -877,30 +881,28 @@ beschliesst:
 - c Einsätze zur Wiederherstellung der öffentlichen Sicherheit und Ordnung oder zur Rettung, insbesondere durch Polizeikräfte, Feuerwehr und Rettungsdienste, behindert, gestört oder diese gefährdet werden,
 - d sie die Kantonspolizei an der Durchsetzung vollstreckbarer Anordnungen hindern, stören oder sich einmischen,
 - e sie ernsthaft und unmittelbar gefährdet sind,
-- f sie eine andere Person in der physischen, psychischen oder sexuellen Integrität verletzen, bedrohen oder sie wiederholt belästigen, insbesondere ihr nachstellen, namentlich auch in Fällen häuslicher Gewalt,
-- g dies zur Wahrung der Rechte von Personen, insbesondere zur Wahrung der Pietät, notwendig ist, oder
-- h auf einem privaten Grundstück oder auf einem Grundstück eines Gemeinwesens ohne Erlaubnis des Eigentümers oder des Besitzers campiert wird.[^83-1]
+- f sie eine andere Person in der physischen, psychischen oder sexuellen Integrität verletzen, bedrohen oder sie wiederholt belästigen, insbesondere ihr nachstellen, namentlich auch in Fällen häuslicher Gewalt, oder
+- g dies zur Wahrung der Rechte von Personen, insbesondere zur Wahrung der Pietät, notwendig ist.
+- h …
 
 <sup>2</sup> Sie verfügt mit der Wegweisung oder Fernhaltung die zum Vollzug notwendigen Massnahmen.
 
-<sup>3</sup> In Fällen gemäss Absatz 1 Buchstabe f kann zudem ein Kontakt- und Annäherungsverbot auferlegt werden.
+<sup>3</sup> In Fällen gemäss Absatz 1 Buchstabe f können
 
-[^83-1]: Aufgehoben durch [BGE 1C\_181/2019](https://www.bger.ch/ext/eurospider/live/fr/php/aza/http/index.php?lang=fr&type=highlight_simple_query&page=1&from_date=&to_date=&sort=relevance&insertion_date=&top_subcollection_aza=all&query_words=1C_181%2F2019&rank=1&azaclir=aza&highlight_docid=aza%3A%2F%2F29-04-2020-1C_181-2019&number_of_ranks=2), vgl. [BAG 20-048](https://www.belex.sites.be.ch/frontend/change_documents/1798?locale=de)
+- a die Wegweisung und die Fernhaltung die gemeinsame Wohnung, den Arbeitsort und weitere regelmässige Aufenthaltsorte sowie die unmittelbare Umgebung der gefährdeten Person und dieser nahestehenden Personen umfassen,
+- b Kontakt- und Annäherungsverbote ausgesprochen werden.
 
 #### Art. 84
 
 **2. Form**
 
-<sup>1</sup> Die Massnahmen gemäss Artikel 83 Absatz 1 ergehen unter der Strafdrohung gemäss Artikel 292 StGB.[^84-1]
+<sup>1</sup> Die Massnahmen gemäss Artikel 83 Absatz 1 können unter der Strafdrohung gemäss Artikel 292 StGB ergehen.
 
 <sup>2</sup> Die Verfügung gemäss Artikel 83 Absatz 1 Buchstabe f wird auch dem Opfer mitgeteilt.
 
 <sup>3</sup> Wegweisungen und Fernhaltungen bis zu einer Dauer von 48 Stunden können mündlich angeordnet werden. Die Betroffenen können nachträglich eine schriftliche Verfügung verlangen.
 
-<sup>4</sup> Wegweisungen gemäss Artikel 83 Absatz 1 Buchstabe h werden schriftlich vor Ort verfügt. Werden die Wegweisungen von den Betroffenen nicht innerhalb von 24 Stunden befolgt, kann die Kantonspolizei das Gelände räumen, sofern ein Transitplatz zur Verfügung steht.[^84-2]
-
-[^84-1]: Aufgehoben durch [BGE 1C\_181/2019](https://www.bger.ch/ext/eurospider/live/fr/php/aza/http/index.php?lang=fr&type=highlight_simple_query&page=1&from_date=&to_date=&sort=relevance&insertion_date=&top_subcollection_aza=all&query_words=1C_181%2F2019&rank=1&azaclir=aza&highlight_docid=aza%3A%2F%2F29-04-2020-1C_181-2019&number_of_ranks=2), vgl. [BAG 20-048](https://www.belex.sites.be.ch/frontend/change_documents/1798?locale=de)
-[^84-2]: Aufgehoben durch [BGE 1C\_181/2019](https://www.bger.ch/ext/eurospider/live/fr/php/aza/http/index.php?lang=fr&type=highlight_simple_query&page=1&from_date=&to_date=&sort=relevance&insertion_date=&top_subcollection_aza=all&query_words=1C_181%2F2019&rank=1&azaclir=aza&highlight_docid=aza%3A%2F%2F29-04-2020-1C_181-2019&number_of_ranks=2), vgl. [BAG 20-048](https://www.belex.sites.be.ch/frontend/change_documents/1798?locale=de)
+<sup>4</sup> …
 
 #### Art. 85
 
@@ -910,9 +912,7 @@ beschliesst:
 
 #### Art. 86
 
-**2. Massnahmen**
-
-<sup>1</sup> In Fällen häuslicher Gewalt können die Wegweisung und die Fernhaltung die gemeinsame Wohnung, den Arbeitsort und weitere regelmässige Aufenthaltsorte sowie die unmittelbare Umgebung der gefährdeten Personen und diesen nahestehenden Personen umfassen.
+**…**
 
 #### Art. 87
 
@@ -963,7 +963,7 @@ beschliesst:
 - a sie sich selber, andere Personen, Tiere oder Sachen gefährdet,
 - b dies zur Verhinderung der unmittelbar bevorstehenden Begehung oder Fortsetzung eines Verbrechens oder Vergehens erforderlich ist,
 - c sie sich dem Vollzug einer Freiheitsstrafe oder einer freiheitsentziehenden Massnahme entzogen hat oder
-- d dies zur Sicherstellung des Vollzugs einer durch die zuständige Behörde angeordneten Wegweisung, einer Vor-, Zu- oder Rückführung sowie einer Ausweisung, Auslieferung oder Landesverweisung erforderlich ist.
+- d dies zur Sicherstellung des Vollzugs einer durch die zuständige Behörde angeordneten ausländerrechtlichen Wegweisung, einer Vor-, Zu- oder Rückführung sowie einer Ausweisung, Auslieferung oder Landesverweisung erforderlich ist.
 
 #### Art. 92
 
@@ -1067,12 +1067,25 @@ beschliesst:
 
 - a um eine gegenwärtige erhebliche Gefahr für die öffentliche Sicherheit und Ordnung abzuwehren,
 - b wenn der Verdacht besteht, dass sich dort eine Person befindet, die widerrechtlich festgehalten wird,
-- c wenn der Verdacht besteht, dass sich dort eine Person befindet, die festgenommen oder in Gewahrsam genommen werden soll, oder
-- d wenn Grund zur Annahme besteht, dass eine Person zum Schutz von Leib und Leben Hilfe bedarf.
+- c wenn der Verdacht besteht, dass sich dort eine Person befindet, die festgenommen oder in Gewahrsam genommen werden soll,
+- d wenn Grund zur Annahme besteht, dass eine Person zum Schutz von Leib und Leben Hilfe bedarf, oder
+- e wenn dies für den Vollzug einer Vor-, Zu- oder Rückführung erforderlich ist.
 
 <sup>2</sup> Die Massnahme wird in Gegenwart der Person durchgeführt, welche die Sachherrschaft ausübt. Ist sie abwesend, so ist, sofern es die Situation erlaubt, eine andere Person beizuziehen. Es wird ein Protokoll erstellt und ausgehändigt.
 
-<sup>3</sup> Wenn in den Fällen von Absatz 1 Buchstabe a bis d die Einwilligung der berechtigten Person nicht vorliegt, hat die Kantonspolizei einen schriftlichen Auftrag der örtlich zuständigen Regierungsstatthalterin oder des örtlich zuständigen Regierungsstatthalters einzuholen, es sei denn, es liege Gefahr in Verzug. Beim Handeln ohne schriftlichen Auftrag ist über das Vorgehen und dessen Begründung ein besonderes Protokoll zu erstellen.
+<sup>3</sup> …
+
+#### Art. 100a
+
+**Genehmigung der örtlich zuständigen Regierungsstatthalterin oder des örtlich zuständigen Regierungsstatthalters**
+
+<sup>1</sup> Die Kantonspolizei hat in den folgenden Fällen eine schriftliche Genehmigung der örtlich zuständigen Regierungsstatthalterin oder des örtlich zuständigen Regierungsstatthalters einzuholen, wenn keine Einwilligung der berechtigten Person vorliegt und keine Gefahr in Verzug ist:
+
+- a Artikel 100 Absatz 1 Buchstabe a bis d,
+- b Artikel 100 Absatz 1 Buchstabe e bei polizeilichen Vorführungen gemäss Artikel 79,
+- c Artikel 107 Absatz 1 Buchstabe d.
+
+<sup>2</sup> Das Handeln gemäss Absatz 1 ohne schriftliche Genehmigung ist zu begründen und protokollieren.
 
 ### 7.2.11 Sicherstellung
 
@@ -1142,7 +1155,7 @@ beschliesst:
 
 <sup>3</sup> Wird die Bezahlung nach erfolgloser Ansetzung einer angemessenen Frist verweigert, kann die Sache verwertet oder vernichtet werden.
 
-### 7.2.12 Fahndung
+### 7.2.12 Fahndung in der Vorermittlung
 
 #### Art. 106
 
@@ -1168,7 +1181,7 @@ beschliesst:
 - a eine Person gemäss Artikel 106 Absatz 1 Buchstabe d und e ausschreiben,
 - b die Überwachung des Fernmeldeverkehrs ausserhalb des Strafverfahrens nach den Vorschriften des Bundesgesetzes vom 18. März 2016 betreffend die Überwachung des Post- und Fernmeldeverkehrs (BÜPF)[^107-1] anordnen,[^107-2]
 - c eine öffentliche Fahndung mit Bild und Angaben zur Person durchführen,
-- d auf der Suche nach der Person oder nach Angaben über ihren Aufenthaltsort Grundstücke oder Räumlichkeiten unter Beachtung von Artikel 100 Absatz 2 betreten und durchsuchen,
+- d auf der Suche nach der Person oder nach Angaben über ihren Aufenthaltsort Grundstücke oder Räumlichkeiten unter Beachtung von Artikel 100 Absatz 2 und Artikel 100a betreten und durchsuchen,
 - e Aufzeichnungen der Person einsehen, wenn zu vermuten ist, dass darin Angaben über ihren Aufenthaltsort vorhanden sind,
 - f die Herausgabe von Aufzeichnungen von öffentlichen oder privaten Videoüberwachungsgeräten verlangen oder
 - g Bankdaten erheben.
@@ -1189,20 +1202,89 @@ beschliesst:
 
 #### Art. 109
 
-**Automatisierte Fahrzeugfahndung**
+**Automatisierte Fahrzeugfahndung 1. Voraussetzungen und Umfang**
 
-<sup>1</sup> Die Kantonspolizei kann Kontrollschilder von Fahrzeugen automatisiert erfassen und mit Datenbanken abgleichen.
+<sup>1</sup> Die Kantonspolizei kann
 
-<sup>2</sup> Der automatisierte Abgleich ist zulässig
+- a zur Fahndung nach Personen oder Sachen sowie zur Erkennung, Verhinderung und Verfolgung von Verbrechen oder Vergehen Fahrzeuge und Kontrollschilder von Fahrzeugen automatisiert erfassen,
+- b die Daten gemäss Buchstabe a mit Datenbanken automatisiert abgleichen und analysieren, wobei für die Erstellung von Bewegungsprofilen Artikel 141 Absatz 3 gilt.
 
-- a mit polizeilichen Personen- und Sachfahndungsregistern,
-- b mit durch die Kantonspolizei erstellten Listen von Kontrollschildern von Fahrzeugen, deren Halterinnen und Haltern der Führerausweis entzogen oder verweigert worden ist, und
-- c mit konkreten Fahndungsaufträgen der Kantonspolizei.
+<sup>2</sup> Der automatisierte Abgleich gemäss Absatz 1 Buchstabe b ist zulässig mit
 
-<sup>3</sup> Die Vernichtung automatisch erfasster Daten erfolgt
+- a dem automatisierten Polizeifahndungssystem des Bundes (RIPOL) und dem Schengener Informationssystem (SIS),
+- b Angaben zu Kontrollschildern von Fahrzeugen, deren Halterinnen und Haltern der Führerausweis entzogen oder verweigert worden ist, und
+- c konkreten Fahndungsaufträgen der Kantonspolizei.
 
-- a bei fehlender Übereinstimmung mit einer Datenbank unverzüglich,
-- b bei Übereinstimmung mit einer Datenbank gemäss den Bestimmungen des betreffenden Verwaltungs- oder Strafverfahrens.
+<sup>3</sup> …
+
+<sup>4</sup> Die Kantonspolizei kann von den Fahrzeuginsassinnen und -insassen eine Bildaufnahme erstellen, wenn der automatisierte Abgleich eine Übereinstimmung ergibt.
+
+#### Art. 109a
+
+**2. Standorte**
+
+<sup>1</sup> Mobile automatisierte Fahndungssysteme können höchstens für 30 Tage am selben Standort eingesetzt werden, wobei der Standort nach Ablauf von weiteren 30 Tagen erneut genutzt werden kann.
+
+<sup>2</sup> Bei stationären automatisierten Fahndungssystemen ist der Standort jährlich zu überprüfen, und die Kantonspolizei veröffentlicht einen Bericht.
+
+#### Art. 109b
+
+**3. Zuständigkeit**
+
+<sup>1</sup> Die Polizeikommandantin oder der Polizeikommandant bzw. ihre oder seine Stellvertretung ordnet die automatisierte Fahrzeugfahndung an.
+
+<sup>2</sup> Sie oder er kann die Kompetenz zur Anordnung einer mobilen automatisierten Fahrzeugfahndung durch Reglement oder Dienstbefehl bis höchstens auf die Kaderstufe 2 übertragen.
+
+#### Art. 109c
+
+**4. Aufbewahrung, Auswertung und Vernichtung der Daten**
+
+<sup>1</sup> Die gemäss Artikel 109 erfassten Daten werden höchstens 60 Tage aufbewahrt und anschliessend automatisch vernichtet, sofern keine Auswertung gemäss Absatz 3 angeordnet worden ist oder die Daten nicht in ein Verfahren geflossen sind.
+
+<sup>2</sup> Der Regierungsrat legt die Aufbewahrungsdauer im Rahmen von Absatz 1 durch Verordnung fest.
+
+<sup>3</sup> Die Kantonspolizei darf die aufbewahrten Daten auf Anordnung der Polizeikommandantin oder des Polizeikommandanten auswerten, wenn
+
+- a sie in Zusammenhang mit einer Straftat gemäss Artikel 269 Absatz 2 StPO gebracht werden können,
+- b bisherige Untersuchungshandlungen erfolglos geblieben sind oder die Ermittlungen sonst aussichtslos wären oder unverhältnismässig erschwert würden,
+- c die Schwere der Straftat dies rechtfertigt und
+- d sie geeignet sind, weitere Ermittlungsansätze zu generieren.
+
+<sup>4</sup> Sind die Daten ausgewertet und Gegenstand von Verfahrensakten geworden, werden sie gemäss den Bestimmungen des jeweiligen Verfahrensrechts vernichtet.
+
+#### Art. 109d
+
+**5. Zusammenarbeit und Datenaustausch**
+
+<sup>1</sup> Die Kantonspolizei kann
+
+- a Daten bei den Polizeibehörden des Bundes, anderer Kantone und der Gemeinden, bei der Landespolizei Liechtenstein sowie beim Bundesamt für Strassen (ASTRA) und beim Bundesamt für Zoll und Grenzsicherheit (BAZG) im Abrufverfahren beschaffen,
+- b die beschafften Daten gemäss den Bestimmungen der StPO und dieses Gesetzes bearbeiten.
+
+<sup>2</sup> Sie kann den Polizeibehörden des Bundes, der Kantone und der Gemeinden sowie der Landespolizei Liechtenstein und dem BAZG automatisierte Abgleiche ermöglichen, sofern diese über gleichwertige Rechtsgrundlagen verfügen.
+
+#### Art. 109e
+
+**6. Auskunft und Rechtsschutz**
+
+<sup>1</sup> Das Auskunftsrecht richtet sich nach der kantonalen Datenschutzgesetzgebung oder im Falle einer Auswertung nach dem jeweiligen Verfahrensrecht.
+
+<sup>2</sup> Die Auskunft kann aufgeschoben werden, wenn sie unmittelbar straf- oder verwaltungsrechtliche Massnahmen vereiteln könnte.
+
+<sup>3</sup> Der Rechtsschutz richtet sich nach Artikel 184.
+
+#### Art. 109f
+
+**7. Kontrolle**
+
+<sup>1</sup> Die Kantonspolizei protokolliert mindestens
+
+- a die Betriebszeiten und Standorte der eingesetzten Geräte,
+- b die Anzahl der automatisierten Erfassungen,
+- c die Übereinstimmungen bei automatisierten Abgleichen,
+- d die Auswertung, Bekanntgabe und Vernichtung von Daten.
+
+<sup>2</sup> Die kantonale Datenschutzaufsichtsstelle kontrolliert regelmässig, ob die Bestimmungen dieses Unterabschnitts eingehalten werden, und veröffentlicht ihre Feststellungen.
 
 ### 7.2.13 Verdeckte Registrierung und gezielte Kontrolle
 
@@ -1281,26 +1363,49 @@ beschliesst:
 
 <sup>2</sup> Der Rechtsschutz richtet sich nach Artikel 184.
 
-### 7.2.16 Observation
+### 7.2.16 Observation in der Vorermittlung
 
 #### Art. 118
 
-**Voraussetzungen und Inhalt**
+**Voraussetzungen**
 
-<sup>1</sup> Zur Erkennung und Verhinderung von Verbrechen oder Vergehen oder zur Gefahrenabwehr kann die Kantonspolizei Personen und Sachen an allgemein zugänglichen Orten verdeckt beobachten und dabei Bild- und Tonaufnahmen machen, wenn
+<sup>1</sup> Zur Erkennung und Verhinderung von Verbrechen oder Vergehen oder zur Gefahrenabwehr kann die Kantonspolizei Personen und Sachen an allgemein zugänglichen Orten verdeckt beobachten (Observation) und dabei Bild- und Tonaufnahmen machen, wenn
 
 - a ernsthafte Anzeichen dafür bestehen, dass Verbrechen oder Vergehen vor der Ausführung stehen, und
 - b andere Massnahmen zur Informationsbeschaffung aussichtslos wären oder unverhältnismässig erschwert würden.
 
-<sup>2</sup> Sie kann zu diesem Zweck technische Überwachungsgeräte einsetzen, um den Standort von Personen oder Sachen festzustellen.[^118-1]
+<sup>2</sup> …
 
-[^118-1]: Aufgehoben durch [BGE 1C\_181/2019](https://www.bger.ch/ext/eurospider/live/fr/php/aza/http/index.php?lang=fr&type=highlight_simple_query&page=1&from_date=&to_date=&sort=relevance&insertion_date=&top_subcollection_aza=all&query_words=1C_181%2F2019&rank=1&azaclir=aza&highlight_docid=aza%3A%2F%2F29-04-2020-1C_181-2019&number_of_ranks=2), vgl. [BAG 20-048](https://www.belex.sites.be.ch/frontend/change_documents/1798?locale=de)
+#### Art. 118a
+
+**Einsatz technischer Überwachungsgeräte zur Standortermittlung**
+
+<sup>1</sup> Die Kantonspolizei kann zum Zweck der Observation in der Vorermittlung zur Verfolgung einer Straftat gemäss Artikel 269 Absatz 2 StPO technische Überwachungsgeräte einsetzen, um den Standort von Personen oder Sachen festzustellen, wenn die Schwere der Straftat dies rechtfertigt.
+
+<sup>2</sup> Der Einsatz darf nur gegenüber einer Person angeordnet werden, bei der ernsthafte Anzeichen bestehen, dass sie vor der Ausführung einer Straftat gemäss Artikel 269 Absatz 2 StPO steht. Für den Schutz von Berufsgeheimnissen gilt Artikel 271 Absatz 1 StPO sinngemäss.
+
+<sup>3</sup> Gegenüber Sachen wie insbesondere Fahrzeugen von Drittpersonen darf der Einsatz nur angeordnet werden, wenn aufgrund bestimmter Tatsachen angenommen werden muss, dass die Person gemäss Absatz 2 die Sache der Drittperson benutzt. Für den Schutz von Berufsgeheimnissen gilt Artikel 271 Absatz 3 StPO sinngemäss.
 
 #### Art. 119
 
 **Genehmigung**
 
-<sup>1</sup> Hat eine Observation einen Monat gedauert, so bedarf ihre Fortsetzung der Genehmigung durch das kantonale Zwangsmassnahmengericht.
+<sup>1</sup> Hat eine Observation gemäss Artikel 118 einen Monat gedauert, so bedarf ihre Fortsetzung der Genehmigung durch das kantonale Zwangsmassnahmengericht.
+
+<sup>2</sup> Observationen gemäss Artikel 118a müssen innert 24 Stunden seit der Anordnung dem kantonalen Zwangsmassnahmengericht zur Genehmigung vorgelegt werden.
+
+#### Art. 119a
+
+**Beendigung und Vernichtung**
+
+<sup>1</sup> Die Kantonspolizei beendet die Observation unverzüglich, wenn
+
+- a die Voraussetzungen nicht mehr erfüllt sind oder
+- b die Genehmigung verweigert wird.
+
+<sup>2</sup> Die Kantonspolizei informiert das Zwangsmassnahmengericht über die Beendigung gemäss Absatz 1 Buchstabe a.
+
+<sup>3</sup> Die Aufzeichnungen sind ohne Verzug auszuwerten und spätestens nach 30 Tagen zu vernichten, sofern sie nicht in einem Strafverfahren verwendet werden.
 
 #### Art. 120
 
@@ -1308,7 +1413,9 @@ beschliesst:
 
 <sup>1</sup> Artikel 141 und 283 StPO sind sinngemäss anwendbar.
 
-<sup>2</sup> Der Rechtsschutz richtet sich nach Artikel 184.
+<sup>2</sup> Für Observationen gemäss Artikel 118a gelten zudem Artikel 274 und 279 StPO sinngemäss.
+
+<sup>3</sup> Der Rechtsschutz richtet sich nach Artikel 184.
 
 ### 7.2.17 Video- und Audioüberwachung
 
@@ -1324,6 +1431,16 @@ beschliesst:
 
 <sup>1</sup> Die Kantonspolizei kann bei oder im Zusammenhang mit öffentlichen Veranstaltungen und Kundgebungen Personen oder Personengruppen sowie deren Äusserungen auf Video- und Audioüberwachungsgeräten aufnehmen, wenn konkrete Anhaltspunkte die Annahme rechtfertigen, es könne zu strafbaren Handlungen gegen Menschen, Tiere oder Sachen kommen.
 
+#### Art. 122a
+
+**Körperkameras**
+
+<sup>1</sup> Die Kantonspolizei kann im Rahmen ihrer Aufgaben gemäss StPO am Körper getragene Videokameras zur Dokumentation von Straftaten einsetzen.
+
+<sup>2</sup> Die Körperkameras können das Geschehene ab Auslösung der Aufnahmespeicherung mit einer Vorlaufzeit von bis zu zwei Minuten aufzeichnen. Ohne Auslösung der Aufnahmespeicherung werden die Aufzeichnungen fortlaufend überschrieben.
+
+<sup>3</sup> Die Auswertung der Videoaufzeichnungen richtet sich nach Artikel 127.
+
 #### Art. 123
 
 **Videoüberwachung 1. An öffentlichen Orten**
@@ -1334,19 +1451,45 @@ beschliesst:
 
 #### Art. 124
 
-**2. Zum Schutz öffentlicher Gebäude**
+**2. Zum Schutz öffentlicher Gebäude und Anlagen**
 
-<sup>1</sup> Die Inhaberinnen und Inhaber des Hausrechts können nach Rücksprache mit der Kantonspolizei innerhalb und ausserhalb von kantonalen Gebäuden Videoüberwachungsgeräte einsetzen, sofern ein erhöhtes Schutzbedürfnis besteht und soweit dies zum Schutz der Gebäude und ihrer Benutzerinnen und Benutzer erforderlich ist.
+<sup>1</sup> Die Inhaberinnen und Inhaber des Hausrechts von kantonalen Gebäuden sowie die Betreiberinnen und Betreiber von kantonalen Anlagen können nach Rücksprache mit der Kantonspolizei innerhalb und ausserhalb der kantonalen Gebäude und Anlagen Videoüberwachungsgeräte einsetzen,
 
-<sup>2</sup> Unter den Voraussetzungen von Absatz 1 können die Gemeinden ihre eigenen öffentlichen und allgemein zugänglichen Gebäude schützen. Sie regeln die Zuständigkeiten.
+- a sofern ein erhöhtes Schutzbedürfnis besteht und
+- b soweit dies zum Schutz der Gebäude und Anlagen sowie ihrer Benutzerinnen und Benutzer erforderlich ist.
+
+<sup>2</sup> Unter den Voraussetzungen von Absatz 1 können die Gemeinden ihre eigenen öffentlichen und allgemein zugänglichen Gebäude und Anlagen schützen. Sie regeln die Zuständigkeiten.
+
+#### Art. 124a
+
+**2a. Bei erhöhter Gefahrenlage für Verbrechen oder Vergehen**
+
+<sup>1</sup> Die Sicherheitsdirektion kann die Gemeinden auf eine erhöhte Gefahrenlage für Verbrechen oder Vergehen hinweisen und ihnen empfehlen, eine Videoüberwachung gemäss Artikel 123 und 124 einzusetzen, wenn in der Vergangenheit wiederholt strafbare Handlungen gemäss der nachfolgenden Aufzählung begangen worden sind und weiterhin mit solchen zu rechnen ist:
+
+- a Verbrechen gegen Leib und Leben, das Vermögen, die Freiheit oder die sexuelle Integrität,
+- b schwere Betäubungsmitteldelikte,
+- c Artikel 123, 133, 181, 221 und 285 StGB.
+
+<sup>2</sup> Sie hört die Gemeinde an und setzt ihr eine angemessene Frist, der Gefahrenlage mit geeigneten Massnahmen zu begegnen.
+
+<sup>3</sup> Der Regierungsrat kann nach Anhörung der Gemeinde
+
+- a anstelle der Gemeinde eine Videoüberwachung gemäss Artikel 123 und 124 befristet anordnen, wenn die Massnahmen gemäss Absatz 2 die Gefahrenlage nicht hinreichend beseitigen konnten und die Gemeinde auf eine Videoüberwachung verzichtet,
+- b die Anordnung befristet verlängern, wenn sich die Videoüberwachung als wirksam erwiesen hat.
+
+<sup>4</sup> Die zuständige Stelle der Sicherheitsdirektion vollzieht die Anordnung gemäss Absatz 3 und trägt die Verantwortung für den Datenschutz gemäss Artikel 8 des Datenschutzgesetzes vom 19. Februar 1986 (KDSG)[^124a-1].
+
+<sup>5</sup> Die Gemeinde trägt bei Anordnungen gemäss Absatz 3 die hälftigen Kosten der Beschaffung, der Installation und des Betriebs der Videoüberwachung.
+
+[^124a-1]: BSG [152.04](https://www.belex.sites.be.ch/data/152.04/de)
 
 #### Art. 125
 
 **3. Rechtspflege**
 
-<sup>1</sup> Die zuständige Behörde verfügt die Videoüberwachung.
+<sup>1</sup> Die zuständige Behörde verfügt die Videoüberwachung gemäss Artikel 123 bis 124a und veröffentlicht die Verfügung.
 
-<sup>2</sup> Die Verfügung ist zu veröffentlichen. Sie kann mit Beschwerde bei der Sicherheitsdirektion angefochten werden.
+<sup>2</sup> Die Verfügung kann mit Beschwerde bei der Sicherheitsdirektion angefochten werden, sofern das VRPG nicht die Zuständigkeit des Verwaltungsgerichts vorsieht.
 
 <sup>3</sup> Die zuständige Aufsichtsstelle für Datenschutz kann Beschwerde führen.
 
@@ -1354,7 +1497,7 @@ beschliesst:
 
 **4. Kennzeichnung**
 
-<sup>1</sup> Der Einsatz von Videoüberwachung gemäss Artikel 123 und 124 ist deutlich zu kennzeichnen.
+<sup>1</sup> Der Einsatz von Videoüberwachung gemäss Artikel 123 bis 124a ist deutlich zu kennzeichnen.
 
 #### Art. 127
 
@@ -1374,7 +1517,7 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat regelt das Nähere durch Verordnung. Insbesondere regelt er
 
-- a das Verfahren gemäss Artikel 123,
+- a die Verfahren gemäss Artikel 123 bis 124a,
 - b die Kennzeichnungspflicht,
 - c die Evaluation der Wirksamkeit der Videoüberwachung,
 - d die Informationspflicht der Gemeinden,
@@ -1472,9 +1615,9 @@ beschliesst:
 
 **An Dritte**
 
-<sup>1</sup> Die Kantonspolizei kann für von ihr erbrachte Leistungen teilweisen oder vollständigen Kostenersatz verlangen
+<sup>1</sup> Die Kantonspolizei kann für von ihr erbrachte Leistungen teilweisen oder vollständigen Kostenersatz durch Verfügung verlangen
 
-- a von der Störerin oder dem Störer bei Vorsatz oder Fahrlässigkeit,
+- a von der Störerin oder vom Störer bei Vorsatz oder Fahrlässigkeit,
 - b von der Verursacherin oder vom Verursacher bei besonderem Aufwand für den Einsatz polizeilicher Mittel oder bei Spezialeinsätzen, sofern sie oder er vorsätzlich oder grobfahrlässig gehandelt hat,
 - c von der Gesuchstellerin oder vom Gesuchsteller für den Schutz von überwiegend privaten Interessen,
 - d von der Betreiberin oder vom Betreiber einer Alarmanlage für das Ausrücken bei Fehlalarm oder
@@ -1482,7 +1625,15 @@ beschliesst:
 
 <sup>2</sup> Sie kann die Kosten für Leistungen beigezogener oder beauftragter Dritter, die ihr im Zusammenhang mit der eigenen Leistungserbringung entstehen, weiterverrechnen.
 
-<sup>3</sup> Soweit sie ihre Leistungen im Rahmen von Interventionen nach diesem Artikel entschädigt erhält, reduziert sich eine Kostenbeteiligung der Gemeinden nach Unterabschnitt 4.3.3.
+<sup>3</sup> …
+
+#### Art. 137a
+
+**Einspracheverfahren**
+
+<sup>1</sup> Gegen Verfügungen zum Kostenersatz gemäss Artikel 137 kann bei der Kantonspolizei Bern innert 30 Tagen seit Eröffnung Einsprache erhoben werden.
+
+<sup>2</sup> Die Polizeikommandantin oder der Polizeikommandant entscheidet über die Einsprache.
 
 #### Art. 138
 
@@ -1514,13 +1665,11 @@ beschliesst:
 
 **Datenbearbeitung**
 
-<sup>1</sup> Die Datenbearbeitung richtet sich nach den Bestimmungen des Datenschutzgesetzes vom 19. Februar 1986 (KDSG)[^141-1], soweit dieses Gesetz nicht etwas anderes bestimmt. Das Bundesrecht und spezialgesetzliche Bestimmungen bleiben vorbehalten.
+<sup>1</sup> Die Datenbearbeitung richtet sich nach den Bestimmungen des KDSG, soweit dieses Gesetz nicht etwas anderes bestimmt. Das Bundesrecht und spezialgesetzliche Bestimmungen bleiben vorbehalten.
 
 <sup>2</sup> Die Behörden gemäss Artikel 2 Absatz 1 sind befugt, Personendaten, einschliesslich besonders schützenswerter Personendaten, zu bearbeiten, soweit dies zur Erfüllung der ihnen nach diesem Gesetz übertragenen Aufgaben erforderlich ist.
 
 <sup>3</sup> Die Kantonspolizei kann Profiling betreiben, wenn Anhaltspunkte dafür bestehen, dass eine Person ein Verbrechen oder Vergehen begangen hat, begeht oder plant oder die öffentliche Sicherheit konkret gefährdet oder in der Vergangenheit gefährdet hat.
-
-[^141-1]: BSG [152.04](https://www.belex.sites.be.ch/data/152.04/de)
 
 #### Art. 142
 
@@ -1568,18 +1717,36 @@ beschliesst:
 
 <sup>2</sup> Besteht oder droht eine ernsthafte Gefahr für hochwertige Rechtsgüter wie namentlich Leib und Leben, sind die Behörden des Kantons und der Gemeinden ohne Rücksicht auf Geheimhaltungspflichten verpflichtet, der Kantonspolizei sofort Meldung zu erstatten.
 
+#### Art. 146a
+
+**3a. Datenaustausch im Bereich des Bedrohungsmanagements**
+
+<sup>1</sup> Die von kantonalen und kommunalen Behörden und Institutionen sowie Gesundheits- und Betreuungseinrichtungen bezeichneten Ansprechpersonen für das kantonale Bedrohungsmanagement sind berechtigt, Meldungen über mögliche Gefährdungen der physischen, psychischen oder sexuellen Integrität entgegenzunehmen und an die Kantonspolizei weiterzuleiten.
+
+<sup>2</sup> Die Kantonspolizei kann mit betroffenen öffentlichen und privaten Stellen zusammenarbeiten und Fallkonferenzen durchführen, um konkrete Gefahren gemäss Absatz 1 zu erkennen und schwere Delikte gegen Leib und Leben zu verhindern.
+
+<sup>3</sup> Die an einer Fallkonferenz beteiligten Personen und Stellen dürfen einander Personendaten bekanntgeben, soweit dies für die Zweckerreichung gemäss Absatz 2 erforderlich ist; dabei dürfen auch besonders schützenswerte Personendaten bekanntgegeben werden, sofern dies zwingend erforderlich ist.
+
 #### Art. 147
 
 **4. Elektronischer Datenaustausch**
 
-<sup>1</sup> Die Kantonspolizei kann mit den Polizeibehörden des Bundes und der Kantone bei der Übermittlung von Personendaten gemäss Artikel 144 Absatz 1 und zur Erkennung oder Bekämpfung von Verbrechen und Vergehen oder zur Suche nach vermissten oder entwichenen Personen auf elektronischem Weg zusammenarbeiten.
+<sup>1</sup> Die Kantonspolizei kann mit den Polizeibehörden des Bundes und anderer Kantone bei der Erkennung, Verhinderung oder Aufklärung von Verbrechen oder Vergehen oder der Suche nach vermissten oder entwichenen Personen auf elektronischem Weg zusammenarbeiten.
 
-<sup>2</sup> Sie kann soweit zur Aufgabenerfüllung erforderlich
+<sup>2</sup> Sie kann, soweit zur Aufgabenerfüllung erforderlich,
 
-- a Schnittstellen zwischen eigenen polizeilichen Datenbearbeitungssystemen und jenen des Bundes und anderer Kantone einrichten und
-- b mit den Polizeibehörden des Bundes und anderer Kantone gemeinsame Datenbearbeitungssysteme betreiben.
+- a Schnittstellen zwischen eigenen polizeilichen Datenbearbeitungssystemen und jenen des Bundes und anderer Kantone einrichten,
+- b mit den Polizeibehörden des Bundes und anderer Kantone gemeinsame Datenbearbeitungssysteme betreiben,
+- c Personendaten, einschliesslich besonders schützenswerter Personendaten, bearbeiten.
 
-<sup>3</sup> Sie kann einzelne ihrer Datenbearbeitungssysteme anderen Polizei-, Strafverfolgungs- und Gerichtsbehörden, den Gemeinden, Organisationen gemäss Artikel 66 Absatz 1, dem Strassenverkehrs- und Schifffahrtsamt sowie dem Institut für Rechtsmedizin der Universität Bern im Abrufverfahren zugänglich machen, soweit dies zur Erfüllung derer Aufgaben erforderlich ist.
+<sup>3</sup> Sie kann, soweit zu deren Aufgabenerfüllung erforderlich, einzelne ihrer Datenbearbeitungssysteme im Abrufverfahren zugänglich machen
+
+- a den Polizeibehörden des Bundes und anderer Kantone zu den Zwecken gemäss Absatz 1,
+- b den Strafverfolgungs- und Gerichtsbehörden,
+- c den Gemeinden,
+- d Organisationen gemäss Artikel 66 Absatz 1,
+- e dem Strassenverkehrs- und Schifffahrtsamt,
+- f dem Institut für Rechtsmedizin der Universität Bern.
 
 <sup>4</sup> Zugriffsberechtigung, Beschränkungen und Einzelheiten unterstehen den kantonalen Bestimmungen zur Informationssicherheit und zum Datenschutz, soweit übergeordnetes Recht nichts Abweichendes vorsieht.
 
@@ -1666,8 +1833,9 @@ beschliesst:
 
 - a bekennt sich zu vorurteilsfreiem Handeln,
 - b setzt sich aktiv für die Verhinderung von Diskriminierungen ein,
-- c fördert die Chancengleichheit und Vielfalt innerhalb des Betriebs und
-- d achtet auf allen Stufen auf eine angemessene Anzahl Mitarbeiterinnen und Mitarbeiter französischer Sprache.
+- c fördert die Chancengleichheit und Vielfalt innerhalb des Betriebs,
+- d achtet auf allen Stufen auf eine angemessene Anzahl Mitarbeiterinnen und Mitarbeiter französischer Sprache,
+- e sorgt für eine angemessene und den betrieblichen Bedürfnissen entsprechende Aus- und Weiterbildung ihrer Mitarbeiterinnen und Mitarbeiter.
 
 #### Art. 155
 
@@ -1688,7 +1856,7 @@ beschliesst:
 
 **Polizeistatus und Polizeiplan**
 
-<sup>1</sup> Mitarbeiterinnen und Mitarbeiter gemäss Artikel 155 Absatz 3 sowie Aspirantinnen und Aspiranten, mit Ausnahme der im Verkehrsdienst tätigen polizeilichen Sicherheitsassistentinnen und -assistenten, verfügen grundsätzlich über den Polizeistatus. Die Polizeikommandantin oder der Polizeikommandant kann weiteren Personen den Polizeistatus verleihen, sofern an deren Tätigkeit vergleichbare Anforderungen gestellt werden. Sie oder er informiert darüber den Regierungsrat.
+<sup>1</sup> Mitarbeiterinnen und Mitarbeiter gemäss Artikel 155 Absatz 3 sowie Aspirantinnen und Aspiranten verfügen grundsätzlich über den Polizeistatus. Die Polizeikommandantin oder der Polizeikommandant kann weiteren Personen den Polizeistatus verleihen, sofern an deren Tätigkeit vergleichbare Anforderungen gestellt werden. Sie oder er informiert den Regierungsrat.
 
 <sup>2</sup> Mitarbeiterinnen und Mitarbeiter mit Polizeistatus sind im Polizeiplan der Bernischen Pensionskasse aufgenommen.
 
@@ -1714,13 +1882,13 @@ beschliesst:
 
 #### Art. 159
 
-<sup>1</sup> Das Anstellungsverhältnis bei der Kantonspolizei setzt einen guten Leumund voraus.
+<sup>1</sup> Das Anstellungsverhältnis bei der Kantonspolizei setzt einen guten Leumund sowie für Mitarbeiterinnen und Mitarbeiter gemäss Absatz 2 das Schweizer Bürgerrecht voraus.
 
-<sup>2</sup> Polizistinnen und Polizisten sowie polizeiliche Sicherheitsassistentinnen und -assistenten müssen neben der Anforderung gemäss Absatz 1 die Polizeischule oder den Sicherheitsassistentenlehrgang bestanden haben (polizeiliche Grundschulung).
+<sup>2</sup> Polizistinnen und Polizisten sowie polizeiliche Sicherheitsassistentinnen und -assistenten müssen neben den Anforderungen gemäss Absatz 1 den Polizeilehrgang bzw. den Lehrgang der polizeilichen Sicherheitsassistentinnen und -assistenten bestanden haben.
 
-<sup>3</sup> In die Polizeischule oder den Sicherheitsassistentenlehrgang gemäss Absatz 2 kann aufgenommen werden, wer das Schweizer Bürgerrecht besitzt und über die erforderlichen geistigen, charakterlichen, kommunikativen und körperlichen Voraussetzungen verfügt.
+<sup>3</sup> In die beiden Lehrgänge gemäss Absatz 2 kann aufgenommen werden, wer über die erforderlichen geistigen, charakterlichen, kommunikativen und körperlichen Voraussetzungen verfügt.
 
-<sup>4</sup> Polizistinnen und Polizisten sowie polizeiliche Sicherheitsassistentinnen und -assistenten sind während der ganzen Dauer der Polizeischule oder des Sicherheitsassistentenlehrgangs und sechs Monate nach Aufnahme als Mitarbeiterinnen und Mitarbeiter für den Polizeidienst auf Probe angestellt. Das Probezeitverhältnis kann in Ausnahmefällen um weitere sechs Monate verlängert werden.
+<sup>4</sup> Polizistinnen und Polizisten sowie polizeiliche Sicherheitsassistentinnen und -assistenten sind während der ganzen Dauer der beiden Lehrgänge gemäss Absatz 2 sowie sechs Monate nach Aufnahme als Mitarbeiterinnen und Mitarbeiter für den Polizeidienst auf Probe angestellt. Das Probezeitverhältnis kann in Ausnahmefällen um weitere sechs Monate verlängert werden.
 
 ### 10.2.3 Personensicherheitsprüfung
 
@@ -1768,9 +1936,9 @@ beschliesst:
 
 <sup>1</sup> Die Polizeikommandantin oder der Polizeikommandant und ihre oder seine Stellvertretung werden vom Regierungsrat angestellt. Für die Anstellung der übrigen Mitarbeiterinnen und Mitarbeiter ist die Sicherheitsdirektion zuständig.
 
-<sup>2</sup> Mitarbeiterinnen und Mitarbeiter der Kantonspolizei mit Polizeistatus werden von der Sicherheitsdirektorin bzw. vom Sicherheitsdirektor vereidigt. Die Polizeikommandantin oder der Polizeikommandant kann weitere Dienstzweige oder einzelne Mitarbeiterinnen und Mitarbeiter zur Vereidigung bestimmen.
+<sup>2</sup> Mitarbeiterinnen und Mitarbeiter der Kantonspolizei mit Polizeistatus werden von der Sicherheitsdirektorin oder vom Sicherheitsdirektor vereidigt. Die Polizeikommandantin oder der Polizeikommandant kann weitere Dienstzweige oder einzelne Mitarbeiterinnen und Mitarbeiter zur Vereidigung bestimmen.
 
-<sup>3</sup> Im Rahmen der Vereidigung wird wie folgt ein Eid oder ein Gelübde abgelegt: «Ich schwöre / Ich gelobe die Rechte und Freiheiten aller zu achten, die Verfassung und verfassungsmässigen Gesetze streng zu befolgen und die Pflichten meines Amts getreu und gewissenhaft zu erfüllen.»
+<sup>3</sup> Im Rahmen der Vereidigung wird wie folgt ein Eid oder ein Gelübde abgelegt: «Ich schwöre / Ich gelobe die Rechte und Freiheiten aller zu achten, die Verfassung und die Gesetze streng zu befolgen, die Pflichten meines Amts getreu und gewissenhaft zu erfüllen sowie die Werte der Kantonspolizei zu wahren.»
 
 ### 10.2.5 Nichtantritt der Stelle
 
@@ -1870,7 +2038,7 @@ beschliesst:
 
 **Grundsätze**
 
-<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter der Kantonspolizei sind gehalten, jederzeit die dienstlichen Pflichten zu befolgen sowie die Disziplin und das gute Ansehen der Kantonspolizei zu wahren.
+<sup>1</sup> Die Mitarbeiterinnen und Mitarbeiter der Kantonspolizei sind gehalten, jederzeit die dienstlichen Pflichten zu befolgen sowie die Disziplin, das gute Ansehen und die Werte der Kantonspolizei zu wahren.
 
 <sup>2</sup> Gegen Mitarbeiterinnen und Mitarbeiter der Kantonspolizei, die vorsätzlich oder fahrlässig dienstliche Pflichten verletzen, können personalrechtliche Massnahmen sowie weitere Massnahmen nach diesem Gesetz verhängt werden.
 
@@ -1881,7 +2049,7 @@ beschliesst:
 <sup>1</sup> Weitere Massnahmen gemäss Artikel 174 Absatz 2 sind
 
 - a der Verweis,
-- b der angeordnete Bezug von Zeitguthaben,
+- b der angeordnete Bezug von Guthaben aus dem Gleitzeit- und Langzeitkonto,
 - c die befristete oder unbefristete Versetzung, gegebenenfalls mit Gehaltseinbusse.
 
 <sup>2</sup> Die Massnahmen gemäss Absatz 1 können miteinander sowie mit Auflagen und Bedingungen verbunden werden.
@@ -1924,7 +2092,7 @@ beschliesst:
 
 <sup>1</sup> Die Haftung und die Leistung einer Genugtuung für rechtmässige Handlungen der Polizeiorgane des Kantons oder der Ordnungsorgane der Gemeinden gegen Personen im Sinne von Artikel 6 sind ausgeschlossen.
 
-<sup>2</sup> Der Kanton oder die Gemeinde kann aus Billigkeit für den Schaden einstehen, den seine Polizeiorgane bzw. ihre Ordnungsorgane rechtmässig gegenüber Personen verursacht haben, wenn diesen nicht zugemutet werden kann, den Schaden selber zu tragen. Ausgenommen hiervon sind Personen im Sinne von Artikel 6.
+<sup>2</sup> …
 
 #### Art. 179
 
@@ -1978,7 +2146,19 @@ beschliesst:
 
 <sup>1</sup> Für den Rechtsschutz gelten die Bestimmungen des VRPG, soweit dieses Gesetz keine abweichende Regelung vorsieht.
 
-<sup>2</sup> Gegen die Mitteilung der verdeckten Fahndung in der Vorermittlung gemäss Artikel 111 ff., der verdeckten Vorermittlung gemäss Artikel 114 ff. sowie der Observation gemäss Artikel 118 ff. kann Beschwerde beim Verwaltungsgericht geführt werden.
+<sup>2</sup> Gegen die Mitteilung der verdeckten Fahndung in der Vorermittlung gemäss Artikel 111 ff., der verdeckten Vorermittlung gemäss Artikel 114 ff. sowie der Observation in der Vorermittlung gemäss Artikel 118 ff. kann Beschwerde beim Verwaltungsgericht geführt werden.
+
+#### Art. 184a
+
+**Verwaltungsrechtspflege und Rekurskommission im Bereich der Aus- und Weiterbildung**
+
+<sup>1</sup> Gegen promotionsrelevante Prüfungsergebnisse im Polizeilehrgang oder im Lehrgang der polizeilichen Sicherheitsassistentinnen und -assistenten kann Beschwerde bei einer Rekurskommission geführt werden.
+
+<sup>2</sup> Gegen Beschwerdeentscheide der Rekurskommission kann Beschwerde beim Verwaltungsgericht geführt werden.
+
+<sup>3</sup> Bei Beschwerden gegen Ergebnisse von Prüfungen ist die Rüge der Unangemessenheit unzulässig.
+
+<sup>4</sup> Der Regierungsrat regelt die Zusammensetzung und Organisation der Rekurskommission durch Verordnung.
 
 ## 13 Übergangs- und Schlussbestimmungen
 
