@@ -3,20 +3,20 @@ canton: SO
 number: "122.218"
 title: Verordnung über die Delegation der Unterschriftsberechtigung in den Departementen
 language: de
-version: 2024-07-01
-valid_until: 2024-07-31
-version_adopted: 2024-06-18
+version: 2024-08-01
+valid_until: 2025-02-28
+version_adopted: 2024-06-11
 adopted: 2004-05-25
 in_force: 2004-08-01
 url: "https://bgs.so.ch/app/de/texts_of_law/122.218"
-pdf: "https://bgs.so.ch/api/de/versions/5462/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5463/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Delegation der Unterschriftsberechtigung in den Departementen
 
-Vom 25.05.2004 (Stand 01.07.2024)
+Vom 25.05.2004 (Stand 01.08.2024)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -162,7 +162,7 @@ beschliesst:
 - g) vom Leiter oder von der Leiterin der Abteilung Soziale Einrichtungen und Opferhilfe Verfügungen und Anordnungen nach der Gesetzgebung über
   - 1\. …
   - 2\. …
-  - 3\. Kinderbetreuung;
+  - 3\. die Kinderbetreuung;
   - 4\. die Pflegekinder;
   - 5\. die Adoption;
   - 6\. …
@@ -172,13 +172,14 @@ beschliesst:
   - 9<sup>bis</sup>. Menschen mit Behinderungen;
   - 9<sup>ter</sup>. die Interkantonale Vereinbarung für soziale Einrichtungen IVSE (Bereiche A und B);
   - 9<sup>quater</sup>. die stationäre Kinder- und Jugendbetreuung;
+  - 9<sup>quinquies</sup>. die Integration, soweit sie die Deutsch-Integrationskurse betreffen;
   - 10\. …
   - 11\. …
   - 12\. Opferhilfe;
   - 13\. …
 - g<sup>bis</sup>) vom Leiter oder von der Leiterin der Abteilung Gesellschaftsfragen Verfügungen und Anordnungen nach der Gesetzgebung über
   - 1\. die Prävention, insbesondere Gewaltprävention;
-  - 2\. die Integration;
+  - 2\. die Integration, mit Ausnahme von Verfügungen und Anordnungen, welche die Deutsch-Integrationskurse betreffen;
   - 3\. die Familie;
   - 4\. die Jugendhilfe und -förderung;
   - 5\. die Gleichstellung, soweit nicht an die Oberämter delegiert.
