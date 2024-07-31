@@ -4,13 +4,13 @@ number: "516"
 title: Statut der Pädagogischen Hochschule Luzern
 short: PH-Statut
 language: de
-version: 2018-08-01
-valid_until: 2024-07-31
-version_adopted: 2018-06-11
+version: 2024-08-01
+valid_until: 2026-05-31
+version_adopted: 2024-06-26
 adopted: 2013-09-20
 in_force: 2013-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/516"
-pdf: "https://srl.lu.ch/api/de/versions/3283/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4239/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3283/pdf_file"
 
 (PH-Statut)
 
-vom 20.09.2013 (Stand 01.08.2018)
+vom 20.09.2013 (Stand 01.08.2024)
 
 Der Rat der Pädagogischen Hochschule Luzern,
 
@@ -139,6 +139,8 @@ beschliesst:
 - g. auf Antrag der Hochschulleitung Angehörige der PH Luzern in wissenschafts- und hochschulpolitische Gremien und Kommissionen zu wählen,
 - h. die Reglemente der PH Luzern und die dazugehörenden Ausführungsbestimmungen zu erlassen. Die Rektorin oder der Rektor kann die Zuständigkeit für den Erlass auf ein anderes Organ übertragen.
 
+<sup>2<sup>bis</sup></sup> Die Rektorin oder der Rektor wird bei ihren Aufgaben durch die Stabsdienste des Rektorats unterstützt. Das Rektorat erbringt überdies zentrale Dienstleistungen für die PH Luzern, welche keinem anderen Organ übertragen sind. Die Rektorin oder der Rektor führt das Rektorat.
+
 <sup>3</sup> Die Rektorin oder der Rektor verfügt über unbeschränkte Ausgabenkompetenzen im operativen Bereich, soweit er diese Kompetenzen nicht auf ein anderes Organ übertragen hat.
 
 <sup>4</sup> Die Rektorin oder der Rektor kann in Absprache mit der Hochschulleitung zur Wahrnehmung bestimmter Aufgaben und zur Bearbeitung besonderer Fragen Kommissionen einsetzen. Sie oder er kann für einzelne Aufgaben ständige Kommissionen schaffen. Die Kommissionen sind für ihre Tätigkeit der Rektorin oder dem Rektor verantwortlich.
@@ -149,7 +151,7 @@ beschliesst:
 
 <sup>1</sup> Die Hochschulleitung setzt sich aus der Rektorin oder dem Rektor, den Leitenden der Leistungsbereiche und der Leiterin oder dem Leiter Verwaltung zusammen.
 
-<sup>2</sup> Die Bereichsleiterinnen oder Bereichsleiter der Leistungsbereiche Ausbildung, Weiterbildung, Forschung und Entwicklung sowie Dienstleistungen sind Prorektorinnen oder Prorektoren der PH Luzern. Die Bereichsleiterin oder der Bereichsleiter der Verwaltung ist Verwaltungsdirektorin oder Verwaltungsdirektor der PH Luzern.
+<sup>2</sup> Die Bereichsleiterinnen oder Bereichsleiter der Leistungsbereiche Ausbildung, Weiterbildung und Dienstleistungen sowie Forschung und Entwicklung sind Prorektorinnen oder Prorektoren der PH Luzern. Die Bereichsleiterin oder der Bereichsleiter der Verwaltung ist Verwaltungsdirektorin oder Verwaltungsdirektor der PH Luzern.
 
 <sup>3</sup> Die Hochschulleitung unterstützt die Rektorin oder den Rektor bei der Führung der PH Luzern. Sie erfüllt insbesondere folgende Aufgaben. Sie
 
@@ -167,7 +169,7 @@ beschliesst:
 
 **Bereichsleiterin oder Bereichsleiter**
 
-<sup>1</sup> Die PH Luzern gliedert sich in die Leistungsbereiche Ausbildung, Weiterbildung, Forschung und Entwicklung, Dienstleistungen sowie Verwaltung.
+<sup>1</sup> Die PH Luzern gliedert sich in die Leistungsbereiche Ausbildung, Weiterbildung und Dienstleistungen, Forschung und Entwicklung sowie den Bereich Verwaltung.
 
 <sup>2</sup> Die Bereichsleiterin oder der Bereichsleiter führt die Geschäfte ihres oder seines Bereichs und nimmt alle Aufgaben des Bereichs wahr, die keinem anderen Organ übertragen sind. Sie oder er hat insbesondere
 
@@ -186,7 +188,7 @@ beschliesst:
 
 **Verwaltungsdirektorin oder Verwaltungsdirektor**
 
-<sup>1</sup> Die Verwaltungsdirektorin oder der Verwaltungsdirektor stellt den administrativen und technischen Betrieb der PH Luzern sicher. Sie oder er unterstützt die PH Luzern in der Wahrnehmung ihrer Aufgaben, indem sie oder er zentrale Dienstleistungen in den Bereichen Personal, Finanzen und Controlling, Informatik (ICT), Infrastruktur, Gebäudemanagement sowie Recht erbringt.
+<sup>1</sup> Die Verwaltungsdirektorin oder der Verwaltungsdirektor stellt den administrativen und technischen Betrieb der PH Luzern sicher. Sie oder er unterstützt die PH Luzern in der Wahrnehmung ihrer Aufgaben, indem sie oder er zentrale Dienstleistungen namentlich in den Bereichen Personal, Finanzen und Controlling, Informatik (ICT), Infrastruktur, Gebäudemanagement sowie Recht erbringt.
 
 ## 3 Angehörige der PH Luzern
 
@@ -224,7 +226,7 @@ beschliesst:
 
 **Wissenschaftliche Mitarbeiterinnen und Mitarbeiter**
 
-<sup>1</sup> Wissenschaftliche Mitarbeiterinnen und Mitarbeiter erfüllen in den verschiedenen Leistungsbereichen Aufgaben, welche eine wissenschaftliche Qualifikation erfordern.
+<sup>1</sup> Wissenschaftliche Mitarbeiterinnen und Mitarbeiter erfüllen Aufgaben, welche eine wissenschaftliche Qualifikation erfordern.
 
 <sup>2</sup> Sie können nach Massgabe ihrer Qualifikation Lehraufträge in eigener Verantwortung wahrnehmen und Führungs- und Projektleitungsaufgaben übernehmen.
 
@@ -232,7 +234,7 @@ beschliesst:
 
 **Wissenschaftliche Assistentinnen und Assistenten**
 
-<sup>1</sup> Wissenschaftliche Assistentinnen und Assistenten wirken in den verschiedenen Leistungsbereichen bei Aufgaben und Projekten mit, welche eine wissenschaftliche Qualifikation erfordern. Das Anstellungsverhältnis ist befristet.
+<sup>1</sup> Wissenschaftliche Assistentinnen und Assistenten wirken bei Aufgaben und Projekten mit, welche eine wissenschaftliche Qualifikation erfordern. Das Anstellungsverhältnis ist befristet.
 
 #### Art. 19
 
