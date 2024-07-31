@@ -3,28 +3,29 @@ canton: BL
 number: "642.11"
 title: Verordnung für die Sekundarschule
 language: de
-version: 2023-08-01
-valid_until: 2024-07-31
-version_adopted: 2023-01-17
+version: 2024-08-01
+valid_until: 2025-07-31
+version_adopted: 2024-05-28
 adopted: 2003-05-13
 in_force: 2003-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/642.11"
-pdf: "https://bl.clex.ch/api/de/versions/3514/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3928/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung für die Sekundarschule
 
-Vom 13.05.2003 (Stand 01.08.2023)
+Vom 13.05.2003 (Stand 01.08.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
-gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1],
+gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] und § 88 Bst. f des Bildungsgesetzes vom 6. Juni 2002[^ingress-2],
 
 beschliesst:
 
 [^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art74)
+[^ingress-2]: [SGS 640](https://bl.clex.ch/data/640/de/art88)
 
 ## 1 Allgemeine Bestimmungen
 
@@ -58,20 +59,16 @@ beschliesst:
 
 <sup>1</sup> Für die Bewilligung von Schuleinstellungen an einzelnen Tagen sind zuständig:
 
-- a. die Schulleitung bei ungewöhnlichen Witterungsverhältnissen im Einzugsgebiet der Schule;
-- b. der Schulrat bei Anlässen im Einzugsgebiet der Schule;
+- a. die Schulleitung bei ungewöhnlichen Witterungsverhältnissen sowie bei Anlässen im Einzugsgebiet der Schule;
+- b. …
 - c. die Bildungs-, Kultur- und Sportdirektion bei Anlässen von kantonaler und überkantonaler Bedeutung;
 - d. der Kantonale Krisenstab in Katastrophensituationen.
 
+<sup>2</sup> Die Schulleitung meldet dem Amt für Volksschulen beabsichtigte Schuleinstellungen bei Anlässen im Einzugsgebiet der Schule.
+
 #### § 4a
 
-**Schuleinstellungen für die Umsetzung der Bildungsharmonisierung**
-
-<sup>1</sup> Für die Umsetzung der Bildungsharmonisierung stehen den Schulen bis und mit Schuljahr 2016/17 Schuleinstellungen von maximal 4 Unterrichtshalbtagen pro Schuljahr zur Verfügung.
-
-<sup>2</sup> Die Bildungs-, Kultur- und Sportdirektion kann Schuleinstellungen in Rücksprache mit der Schulleitungskonferenz in zeitlicher und inhaltlicher Hinsicht festlegen.
-
-<sup>3</sup> Für die Bewilligung der nicht von der Bildungs-, Kultur- und Sportdirektion festgelegten Schuleinstellungen ist der Schulrat auf Antrag der Schulleitung zuständig.
+**…**
 
 #### § 5
 
@@ -204,7 +201,7 @@ beschliesst:
 
 **Verfahren, Zuständigkeiten**
 
-<sup>1</sup> Die Schulleitungen der Sekundarschulkreise unterbreiten dem Amt für Volksschulen den Klassenbildungsplan des Sekundarschulkreises und die Klassenbildungspläne der einzelnen Schulstandorte zur Bewilligung und setzen ihre Schulräte darüber in Kenntnis.
+<sup>1</sup> Die Schulleitungen der Sekundarschulkreise unterbreiten dem Amt für Volksschulen den Klassenbildungsplan des Sekundarschulkreises und die Klassenbildungspläne der einzelnen Schulstandorte zur Bewilligung.
 
 <sup>2</sup> Das Amt für Volksschulen bewilligt die Klassenbildung der Sekundarschulkreise und entscheidet in diesem Zusammenhang über die Zuweisung der Schüler und Schülerinnen zu den Sekundarschulstandorten innerhalb und ausserhalb des Sekundarschulkreises ihres Wohnorts (Klassenbildungsprozess).
 
@@ -341,93 +338,158 @@ beschliesst:
 
 <sup>1</sup> Die Schulen definieren im Schulprogramm ihre Leitsätze und Zielsetzungen und legen fest, wie sie diese innert einer bestimmten Zeit umsetzen wollen.
 
-<sup>2</sup> Das Schulprogramm enthält insbesondere:
+<sup>2</sup> Das Schulprogramm gibt neben den in den §§ 59 und 60d des Bildungsgesetzes vom 6. Juni 2002[^28-1] vorgesehenen Bereichen insbesondere Auskunft über:
 
-- a. das pädagogische Konzept der Schule;
-- b. die Organisation der Schule;
-- c. die Regelung der Zusammenarbeit innerhalb der Schule sowie mit den Erziehungsberechtigten, den Behörden und anderen Schulen;
-- d. die Form der Mitsprache der Schülerinnen und Schüler;
+- a. …
+- b. …
+- c. die Zusammenarbeit innerhalb der Schule, mit den Behörden und anderen Schulen;
+- d. …
 - e. die Massnahmen bezüglich Prävention und Gesundheitsförderung;
 - f. die Integration der ausländischen sowie der fremdsprachigen Schülerinnen und Schüler;
-- g. die Bereiche und die Durchführung der internen Evaluation;
+- g. die Bereiche der internen Evaluation;
 - h. die Fort- und Weiterbildung der Lehrerinnen und Lehrer;
 - i. das Vorgehen in Konfliktfällen;
-- j. den Einsatz der finanziellen Mittel;
+- j. …
 - k. die Massnahmen zur Förderung einer geschlechtergerechten Pädagogik und der Gleichstellung der Geschlechter;
-- l. das Medienkonzept;
-- m. das Konzept über die Laufbahn inkl. der Betreuung von in der schulischen bzw. beruflichen Laufbahn gefährdeten Schülerinnen und Schüler.
+- l. das Medien-/ICT-Konzept;
+- m. das Konzept über die Laufbahn inkl. der Betreuung von in der schulischen bzw. beruflichen Laufbahn gefährdeten Schülerinnen und Schüler;
+- n. die Klärung der Rollen, Kompetenzen und Zuständigkeiten in der Schule.
 
-### 4.2 Interne Evaluation
+[^28-1]: [SGS 640](https://bl.clex.ch/data/640/de/art59)
+
+### 4.2 Qualität und Aufsicht
+
+### 4.2.1 Qualitätsentwicklung und -sicherung
 
 #### § 29
 
-**Zielsetzung**
+**Auftrag und Umsetzung**
 
-<sup>1</sup> Die Schulen führen selber regelmässig eine interne Evaluation über die Qualität ihrer Arbeit durch, um Steuerungswissen für ihre weitere Entwicklung zu erhalten.
+<sup>1</sup> Die Qualitätsentwicklung und -sicherung richtet sich nach § 60a ff. des Bildungsgesetzes vom 6. Juni 2002[^29-1].
+
+[^29-1]: [SGS 640](https://bl.clex.ch/data/640/de/art60a)
 
 #### § 30
 
-**Inhalt**
+**Inhalt der internen Evaluation**
 
-<sup>1</sup> Die interne Evaluation nimmt insbesondere Bezug auf:
+<sup>1</sup> Die interne Evaluation auf der Ebene der Schule als Organisation hat zum Ziel, Grundlagen zur Verbesserung der Abläufe, der Strukturen und der Schulkultur zu erhalten und Rechenschaft zu geben. Sie umfasst insbesondere:
 
 - a. die Überprüfung des Schulprogramms und dessen Realisierung;
-- b. den Unterricht der Lehrerinnen und Lehrer;
-- c. die im Unterricht erzielten Schulleistungen der Schülerinnen und Schüler;
+- b. …
+- c. die Nutzung der Ergebnisse der Leistungsmessungen der Schülerinnen und Schüler;
 - d. die Arbeit der Schulleitung.
+
+<sup>2</sup> Die interne Evaluation auf der Ebene des Unterrichts hat zum Ziel, Grundlagen zur Sicherung und Steigerung der Unterrichtsqualität der einzelnen Lehrerinnen und Lehrer zu erhalten.
 
 #### § 31
 
-**Durchführung**
+**Durchführung und Massnahmen**
 
-<sup>1</sup> Die Schülerinnen und Schüler, Erziehungsberechtigten, das nichtunterrichtende Schulpersonal, die Behörden und die abnehmenden Schulen und Institutionen werden in angemessener Form in die interne Evaluation einbezogen.
+<sup>1</sup> Die Schülerinnen und Schüler, die Erziehungsberechtigten, die Lehrerinnen und Lehrer, die weiteren Mitarbeitenden im pädagogischen, administrativen und ergänzenden Bereich sowie die abnehmenden Schulen und Institutionen werden in angemessener Form in die interne Evaluation einbezogen.
 
-<sup>2</sup> Die Schulleitung führt die interne Evaluation im Auftrag des Schulrats durch.
+<sup>2</sup> …
 
-<sup>3</sup> Das System der internen Evaluation wird im Rahmen des Schulprogramms durch die Schulleitung in Zusammenarbeit mit dem Lehrerinnen- und Lehrerkonvent festgelegt.
+<sup>3</sup> …
 
-<sup>4</sup> Die Schulleitung wertet die Resultate der internen Evaluation zuhanden des Schulrats aus und setzt vom Schulrat beschlossene Massnahmen um.
+<sup>4</sup> Die Schulleitung wertet die Resultate auf Ebene der Schule als Organisation aus. Sie erarbeitet unter Mitwirkung des Schulrats die Massnahmen und unter-breitet sie diesem zur Genehmigung. Diese fliessen in die Schulentwicklungsplanung ein und werden dem Amt für Volksschulen zur Kenntnis gebracht.
 
-### 4.3 Externe Evaluation
+<sup>5</sup> Die Lehrerinnen und Lehrer reflektieren ihren Unterricht regelmässig unter Einbezug der Ergebnisse der internen Evaluation auf Ebene des Unterrichts und passen ihren Unterricht aufgrund der gewonnenen Erkenntnisse an.
+
+### 4.2.2 Aufsicht
+
+#### § 31a
+
+**Auftrag und Umsetzung**
+
+<sup>1</sup> Die Aufsicht richtet sich nach den §§ 61a und 61b des Bildungsgesetzes vom 6. Juni 2002[^31a-1].
+
+<sup>2</sup> Das Amt für Volksschulen hat im Rahmen der Aufsicht insbesondere folgende Aufgaben:
+
+- a. Es befragt die Schulen regelmässig zu massgeblichen, den kantonalen Bildungsauftrag betreffenden Bereichen.
+- b. Es wertet die Ergebnisse der Befragungen zusammen mit vorliegenden Kennzahlen aus.
+- c. Es kann zusätzlich die Einhaltung der Vorgaben des Bundes und des Kantons untersuchen, die mit der Erfüllung des Bildungsauftrags im Zusammenhang stehen.
+- d. Es gibt periodisch Audits in Auftrag, die unter Einbezug der Beteiligten vor Ort ein Bild der Qualität der Arbeit an der Schule vermitteln. Sie zieht hierfür aussenstehende Expertinnen und Experten bei und kann Aufträge an Dritte erteilen.
+- e. Es kann eine vertiefte Analyse in Auftrag geben, wenn die Funktion der Schule in einem oder mehreren Bereichen nicht gegeben oder gefährdet ist oder aber gefährdet sein könnte.
+
+[^31a-1]: [SGS 640](https://bl.clex.ch/data/640/de/art61a)
+
+#### § 31b
+
+**Massnahmen**
+
+<sup>1</sup> Die Schulleitung wertet die Ergebnisse der Aufsichtsprozesse aus. Sie erarbeitet unter Mitwirkung des Schulrats und unter Einbezug der Mitarbeitenden und gegebenenfalls nach Rücksprache mit dem Amt für Volkschulen geeignete Massnahmen, um die Erkenntnisse und Anforderungen aus den Aufsichtsprozessen angemessen umzusetzen und unterbreitet sie dem Amt für Volksschulen.
+
+<sup>2</sup> Die vom Amt für Volksschulen beschlossenen Massnahmen fliessen in die Schulentwicklungsplanung ein und werden bei Bedarf von diesem begleitet.
+
+#### § 31c
+
+**Inhalte der Befragungen im Rahmen der Aufsicht**
+
+<sup>1</sup> Das Amt für Volksschulen führt die Befragungen im Rahmen der Aufsicht insbesondere zu folgenden Bereichen durch:
+
+- a. zu Schul- und Personalführung;
+- b. zum Schulprogramm, inklusive Schulentwicklungsplanung;
+- c. zur Qualitätsentwicklung und -sicherung.
+
+<sup>2</sup> Es gibt den Schulen eine schriftliche Rückmeldung, gegebenenfalls verbunden mit Handlungsempfehlungen.
+
+### 4.3
 
 #### § 32
 
-**Zielsetzung**
-
-<sup>1</sup> Die externe Evaluation ergänzt die interne Evaluation und wird auf diese abgestimmt.
-
-<sup>2</sup> Die externe Evaluation bezweckt insbesondere:
-
-- a. die Überprüfung und Bewertung des Verfahrens der internen Evaluation;
-- b. die Vermittlung einer fachlichen Aussensicht zu den vereinbarten Evaluationsbereichen;
-- c. die Vermittlung von Steuerungswissen für die Weiterentwicklung der Schule;
-- d. die Beschaffung von Steuerungswissen für die Weiterentwicklung des kantonalen Bildungssystems.
+**…**
 
 #### § 33
 
-**Inhalt**
-
-<sup>1</sup> Die externe Evaluation nimmt insbesondere Bezug auf:
-
-- a. die im Schulprogramm und den Lehrplänen gesetzten Lern- und Ausbildungsziele;
-- b. die Unterrichtsqualität;
-- c. die im Unterricht erreichten Schulleistungen der Schülerinnen und Schüler;
-- d. die stufenspezifischen Aspekte der Ausbildung der Schülerinnen und Schüler;
-- e. die Einhaltung der rechtlichen Bestimmungen und Vorgaben der Behörden;
-- f. die Verwendung der finanziellen Mittel;
-- g. die Integration der Genderthematik als Querschnittsaufgabe.
+**…**
 
 #### § 34
 
-**Durchführung**
+**…**
 
-<sup>1</sup> Die Bildungs-, Kultur- und Sportdirektion ist für die regelmässige Durchführung der externen Evaluation verantwortlich und bestimmt die Evaluationsbereiche. Die Schulen haben das Recht, einen Evaluationsbereich selber festzulegen.
+## 4a Schulpool
 
-<sup>2</sup> Die externe Evaluation wird von interdisziplinär zusammengesetzten Evaluationsteams durchgeführt, die vom Amt für Volksschulen eingesetzt werden.
+#### § 34a
 
-<sup>3</sup> Das Evaluationsteam legt in Absprache mit der Schulleitung den Ablauf der externen Evaluation fest.
+**Zweck**
 
-<sup>4</sup> Nach der Durchführung verfasst das Evaluationsteam zuhanden des Schulrats, der Schulleitung und des Amts für Volksschulen einen Bericht, der seine Beobachtungen, eine Beurteilung und Empfehlungen zur Qualitätsentwicklung enthält. Das Amt für Volksschulen und das Evaluationsteam haben kein Weisungsrecht gegenüber der Schule.
+<sup>1</sup> Der Schulpool dient der Ressourcierung von kantonalen und schuleigenen Spezialfunktionen und -aufgaben, die von Lehrpersonen im erweiterten Berufsauftrag erbracht werden oder von Dritten übernommen werden.
+
+#### § 34b
+
+**Umfang**
+
+<sup>1</sup> Der Schulpool der Sekundarschulen wird durch die Trägerschaft je Sekundarschule wie folgt ressourciert:
+
+- a. Sockel CHF 5000.– und pro Klasse CHF 1'400.–;
+- b. Gesundheitsförderung (als integraler Bestandteil der Schülerpauschale): Sockel CHF 2'000.– und pro Klasse CHF 300.–;
+- c. Gesamtstundenplanlegung:
+  - 1\. für 1–9 Klassen 1 Lektion;
+  - 2\. für 10–29 Klassen 2 Lektionen;
+  - 3\. für 30–49 Klassen 3 Lektionen;
+  - 4\. für 50–69 Klassen 4 Lektionen;
+- d. Laufbahnverantwortliche oder Laufbahnverantwortlicher: 2 Lektionen;
+- e. technischer ICT-Support: CHF 9'000.– pro Schulanlage;
+- f. Beauftragte oder Beauftragter Berufswegbereitung (BWB): 1 Lektion pro Schulanlage sowie zusätzliche Lektionen in Abhängigkeit der Klassen des Vorjahres gemäss Zuweisung durch das Amt für Volksschulen bis zu einem Maximum von insgesamt 300 Stellenprozenten für alle Sekundarschulen;
+- g. schulinterne Begleitung Unterrichtende ohne Lehrdiplom: 1 Lektion pro Begleitung;
+- h. schulinterne Begleitung Berufseinsteigende mit Lehrdiplom: 1/2 Lektion pro Begleitung.
+
+<sup>2</sup> Bis und mit Schuljahr 2027/28 stehen den Sekundarschulen für den pädagogischen ICT-Support (PICTS) folgende maximalen Vergütungen zur Verfügung:
+
+- a. PICTS-Initialisierung: 1/12 Lektion pro Klasse;
+- b. PICTS-Beratung: ¼ Lektion pro Klasse;
+- c. PICTS-Multiplikatorin bzw. PICTS-Multiplikator: ¼ Lektion pro PICTS-Multiplikatorin oder PICTS-Multiplikator, wobei je 10 Lehrpersonen 1 PICTS-Multiplikatorin oder PICTS-Multiplikator eingesetzt wird.
+
+<sup>3</sup> Vergütungen in Franken können in Lektionen umgerechnet werden. Dabei gilt für 1 Jahreslektion der Gegenwert von CHF 4'500.–.
+
+#### § 34c
+
+**Verteilung und Rechenschaft**
+
+<sup>1</sup> Die Schulleitung nimmt die Verteilung des Schulpools vor. Der Konvent ist vorgängig anzuhören.
+
+<sup>2</sup> Die Schulleitung legt gegenüber dem Amt für Volkschulen und dem Schulrat jährlich Rechenschaft über die Verwendung der Mittel ab.
 
 ## 5 Schulbeteiligte
 
@@ -442,8 +504,8 @@ beschliesst:
 <sup>2</sup> Für die Bewilligung von Beurlaubungen sind zuständig:
 
 - a. die Klassenlehrerin oder der Klassenlehrer bis zu 1 Tag;
-- b. die Schulleitung ab 1 Tag bis zu 2 Wochen sowie bei der Verlängerung von Wochenenden oder Ferien;
-- c. der Schulrat auf Antrag der Schulleitung bei mehr als 2 Wochen.
+- b. die Schulleitung ab 1 Tag sowie bei der Verlängerung von Wochenenden oder Ferien;
+- c. …
 
 <sup>3</sup> Die Schulleitung sorgt in Absprache mit dem Lehrerinnen- und Lehrerkonvent für eine einheitliche Praxis innerhalb der Schule.
 
@@ -499,12 +561,16 @@ beschliesst:
 
 **Aufgaben des Lehrerinnen- und Lehrerkonvents**
 
-<sup>1</sup> Der Lehrerinnen- und Lehrerkonvent hat insbesondere folgende Aufgaben:
+<sup>1</sup> Die Aufgaben des Lehrerinnen- und Lehrerkonvents richten sich nach § 74 Abs. 2 des Bildungsgesetzes vom 6. Juni 2002[^41-1]. Zudem hat er folgende Aufgaben:
 
-- a. Er nimmt zuhanden des Schulrats Stellung zur Organisation der Schulleitung.
-- b. Er arbeitet unter der Federführung der Schulleitung das Schulprogramm und schulinterne Erlasse aus.
-- c. Er wählt die Lehrerinnen- und Lehrervertretung im Schulrat.
-- d. Er nimmt zu wichtigen Fragen der Schule Stellung.
+- a. Er nimmt zuhanden der Rektorin oder des Rektors Stellung zur Organisation der Schulleitung.
+- b. Er nimmt zu schulinternen Erlassen Stellung.
+- c. Er wählt die Lehrerinnen- und Lehrervertretung im Schulrat und seine Vertretung bei der Anstellung von Schulleitungsmitgliedern.
+- d. Er wählt seine Ansprechperson gegenüber der Amtlichen Kantonalkonferenz der Lehrerinnen und Lehrer.
+
+<sup>2</sup> Er bespricht seine Aufgabenerfüllung und die Beteiligung der Schulleitung an den Konventen vorgängig mit dieser.
+
+[^41-1]: [SGS 640](https://bl.clex.ch/data/640/de/art74)
 
 #### § 42
 
@@ -518,9 +584,10 @@ beschliesst:
 - b. weitere Rechte und Pflichten der Mitglieder;
 - c. die Leitung und das Protokoll;
 - d. den allfälligen Beizug weiterer Personen, insbesondere des nichtunterrichtenden Schulpersonals;
-- e. die Wahl der Lehrerinnen- und Lehrervertretung im Schulrat.
+- e. die Wahl seiner Vertretung im Schulrat sowie im Anstellungsverfahren der Schulleitungsmitglieder; die Vertretung besteht aus höchstens 2 Personen;
+- f. die Wahl seiner Ansprechperson gegenüber der Amtlichen Kantonalkonferenz der Lehrerinnen und Lehrer.
 
-## 6 Leitung und Aufsicht
+## 6 Leitung
 
 ### 6.1 Schulleitung
 
@@ -528,58 +595,35 @@ beschliesst:
 
 **Amtsauftrag**
 
-<sup>1</sup> Die Schulleitungen haben folgenden Auftrag:
+<sup>1</sup> Der Auftrag der Schulleitungen richtet sich nach den Bestimmungen des Bildungsgesetzes vom 6. Juni 2002[^43-1] sowie nach § 2 der Verordnung für die Schulleitungen und die Schulsekretariate vom 13. Mai 2003[^43-2].
 
-- a. Sie sind für die pädagogischen, personellen, organisatorischen und administrativen Belange ihrer Schulen zuständig.
-- b. Sie beteiligen die Lehrerinnen und Lehrer an wichtigen Entscheidungsprozessen ihrer Schulen.
-- c. Sie sorgen für eine altersgemässe Mitwirkung der Schülerinnen und Schüler an wichtigen Entscheidungsprozessen ihrer Schulen.
-- d. Sie gewährleisten die Mitwirkung der Erziehungsberechtigten am Entwicklungsprozess ihrer Schulen.
-- e. Sie arbeiten mit den kommunalen und kantonalen Stellen und Behörden zusammen.
-
-<sup>2</sup> Die Schulleitungen sind gegenüber den Lehrerinnen und Lehrern und dem nichtunterrichtenden Schulpersonal in personellen, organisatorischen und administrativen Fragen weisungsbefugt.
+<sup>2</sup> Die Schulleitungen sind gegenüber den Lehrerinnen und Lehrern und dem nicht unterrichtenden Schulpersonal in personellen, organisatorischen und administrativen Fragen weisungsbefugt.
 
 <sup>3</sup> Sie sind gegenüber ihren übergeordneten Behörden und Stellen in Angelegenheiten ihrer Schulen auskunftspflichtig.
 
+[^43-1]: [SGS 640](https://bl.clex.ch/data/640/de)
+[^43-2]: [SGS 647.12](https://bl.clex.ch/data/647.12/de/art2)
+
 #### § 44
 
-**Organisation, Zusammensetzung, Konstituierung**
-
-<sup>1</sup> Die Organisation der Schulleitung wird auf Antrag der Schulleitung durch den Schulrat festgelegt. Sie ist vorgängig dem Lehrerinnen- und Lehrerkonvent zur Stellungnahme vorzulegen.
-
-<sup>2</sup> Bei einer mehrköpfigen Schulleitung bestimmt der Schulrat deren Vorsitz (Rektor/Rektorin). Co-Vorsitzende sind möglich.
-
-<sup>3</sup> …
-
-<sup>4</sup> Im Übrigen konstituiert sich die Schulleitung selbst.
+**…**
 
 #### § 45
 
 **Pflichtenheft**
 
-<sup>1</sup> Das Pflichtenheft der Schulleitung umfasst folgende Aufgaben:
+<sup>1</sup> Das Pflichtenheft der Schulleitungen richtet sich grundsätzlich nach den Bestimmungen des Bildungsgesetzes vom 6. Juni 2002[^45-1] sowie nach § 20 der Verordnung für die Schulleitungen und die Schulsekretariate vom 13. Mai 2003[^45-2].
 
-- a. Sie teilt den Lehrerinnen und Lehrern die Klassen, Pensen und Räume zu.
-- b. Sie genehmigt die Stundenpläne.
-- c. Sie besucht die Lehrerinnen und Lehrer im Unterricht.
-- d. Sie führt die Mitarbeiterinnen- und Mitarbeitergespräche durch und führt die Personalakten.
-- e. Sie sorgt in Konfliktfällen für einen korrekten Verfahrensablauf.
-- f. Sie arbeitet zusammen mit dem Lehrerinnen- und Lehrerkonvent das Schulprogramm und schulinterne Erlasse aus und hat dabei die Federführung.
-- g. Sie führt im Auftrag des Schulrats die interne Evaluation der Schule durch.
-- h. Sie setzt im Auftrag des Schulrats die Ergebnisse der internen und externen Evaluation um.
-- i. Sie zieht bei Bedarf Fachpersonen und ausgebildete Mentorinnen und Mentoren bei.
-- i<sup>bis</sup>. Sie bewilligt Massnahmen der Speziellen Förderung in ihrem Zuständigkeitsbereich.
-- j. Sie bewilligt Reisen, Lager, Schulverlegungen und weiteren Spezialunterricht.
-- k. Sie berät die Schülerinnen und Schüler sowie die Erziehungsberechtigten in Schulfragen.
-- l. Sie sorgt zusammen mit den zuständigen Fachstellen für die Integration von Schülerinnen und Schülern mit Beeinträchtigungen und Behinderungen.
-- m. Sie kann Schülerinnen und Schüler bei ausserordentlichen Ereignissen und Anlässen beurlauben.
-- n. Sie sorgt in Absprache mit dem Lehrerinnen- und Lehrerkonvent für eine einheitliche Beurlaubungspraxis für Schülerinnen und Schüler innerhalb der Schule und spricht diese mit anderen Schulen im Einzugsgebiet ab.
-- o. Sie sorgt in Absprache mit dem Lehrerinnen- und Lehrerkonvent für eine einheitliche Disziplinarpraxis gegenüber Schülerinnen und Schülern.
-- p. Sie erstellt zuhanden der vorgesetzten Instanzen das Budget und die Abrechnung der Schule und führt die Budgetkontrolle.
-- q. Sie leitet das Sekretariat der Schule.
-- r. Sie beantragt dem Schulrat die Ermahnung oder das Aussprechen einer Busse gegenüber den Erziehungsberechtigten.
-- s. Sie sorgt für die Integration der Schulsozialarbeit am Schulstandort.
+<sup>2</sup> Die Schulleitungen haben zudem folgende Aufgaben:
 
-<sup>2</sup> Der Aufgabenkatalog kann nach den Bedürfnissen und Schulen ergänzt werden.
+- a. Sie sorgen in Absprache mit dem Lehrerinnen- und Lehrerkonvent für eine einheitliche Beurlaubungspraxis für Schülerinnen und Schüler innerhalb der Schule und sprechen diese mit anderen Schulen im Einzugsgebiet ab.
+- b. Sie sorgen für die Integration der Schulsozialarbeit am Schulstandort.
+- c. Sie bewilligen Massnahmen der Speziellen Förderung in ihrem Zuständigkeitsbereich.
+
+<sup>3</sup> Der Aufgabenkatalog kann ergänzt werden und wird dem Bedarf entsprechend ressourciert.
+
+[^45-1]: [SGS 640](https://bl.clex.ch/data/640/de)
+[^45-2]: [SGS 647.12](https://bl.clex.ch/data/647.12/de/art20)
 
 #### § 45a
 
@@ -587,27 +631,39 @@ beschliesst:
 
 <sup>1</sup> Die Schulleitung hat eine jährliche Finanzkompetenz von höchstens CHF 1'000.– pro Schule zulasten des Kantons.
 
+### 6.1a Schulleitungskonferenz
+
 #### § 46
 
 **Schulleitungskonferenz**
 
-<sup>1</sup> Die Schulleitungen der Sekundarschulen bilden eine Schulleitungskonferenz.
+<sup>1</sup> Gemäss § 82e Abs. 1 des Bildungsgesetzes vom 6. Juni 2002[^46-1] bilden die Rektorinnen und Rektoren der Sekundarschulen eine Schulleitungskonferenz. Bei Co-Rektoraten vertritt 1 Rektorin oder Rektor die Schule.
 
-<sup>2</sup> Die Schulleitungen der Sonderschulen und Einrichtungen der Sonderschulung geniessen ein permanentes Gastrecht.
+<sup>2</sup> Die Rektorinnen oder Rektoren der Sonderschulen und Einrichtungen der Sonderschulung geniessen ein permanentes Gastrecht.
 
-<sup>3</sup> Sie dient der Zusammenarbeit und der Orientierung der Schulleitungen zu geplanten und laufenden Aktivitäten und hat folgende Aufgaben:
+<sup>2<sup>bis</sup></sup> Die Konferenz untersteht dem Amt für Volksschulen und wird von diesem geleitet.
 
-- a. Sie nimmt zuhanden der Bildungs-, Kultur- und Sportdirektion zu allen die Sekundarschule betreffenden Erlassen Stellung.
-- b. Sie wählt einen Konferenzvorstand, der aus maximal 7 Mitgliedern besteht. Dabei beachtet sie eine regional angemessene Vertretung der Sekundarschulkreise.
-- c. Sie erlässt eine Geschäftsordnung, welche durch den Präsidialausschuss der Schulleitungskonferenzen im Amt für Volksschulen genehmigt wird, wobei mindestens 4 Konferenzen im Jahr vorgesehen sind.
+<sup>2<sup>ter</sup></sup> Ihre Aufgaben richten sich nach § 82e Abs. 2 Bildungsgesetz[^46-2].
 
-<sup>4</sup> Eine Vertretung des Amts für Volksschulen nimmt an den Konferenzen teil.
+<sup>3</sup> Ihr obliegen zudem insbesondere folgende Aufgaben:
 
-<sup>5</sup> Der Konferenzvorstand hat folgende Aufgaben:
+- a. …
+- b. Sie wählt einen Vorstand, der aus maximal 5 Mitgliedern besteht. Dabei beachtet sie eine regional angemessene Vertretung der Sekundarschulkreise.
+- c. Sie erlässt in Absprache mit dem Amt für Volksschulen eine Geschäftsordnung.
 
-- a. Er orientiert die Schulleitungen über geplante und laufende Aktivitäten und unterstützt sie in Zusammenarbeit mit dem Amt für Volksschulen bei der operativen Unsetzung des Bildungsauftrags.
-- b. Er bestimmt ein Präsidium aus maximal 3 seiner Vorstandsmitglieder.
-- c. Er teilt seinen Mitgliedern die ihm zu Verfügung stehende Schulleitungszeit als Entlastungslektionen zulasten des Kantons zu.
+<sup>4</sup> …
+
+<sup>5</sup> Der Vorstand hat folgende Aufgaben:
+
+- a. Er orientiert die Schulleitungen über geplante und laufende Aktivitäten und unterstützt sie in Zusammenarbeit mit dem Amt für Volksschulen bei der operativen Umsetzung des Bildungsauftrags.
+- a<sup>bis</sup>. Er bereitet zusammen mit dem Amt für Volksschulen die Schulleitungskonferenz und die erweiterte Schulleitungskonferenz vor und lädt nach Rücksprache mit dem Amt für Volksschulen die Konrektorinnen und Konrektoren sowie die nicht vertretenen Co-Rektorinnen und Co-Rektoren zu den erweiterten Schulleitungskonferenzen ein und leitet diese.
+- a<sup>ter</sup>. Er ist verantwortlich für Vernehmlassungen und Stellungnahmen gemäss § 82e Abs. 2 Bst. e Bildungsgesetz[^46-3].
+- b. Er bestimmt ein Präsidium; Co-Präsidien sind möglich.
+- c. Er teilt seinen Mitgliedern in Absprache mit dem Amt für Volksschulen die ihm zu Verfügung stehende Schulleitungszeit als Entlastungslektionen zulasten des Kantons zu.
+
+[^46-1]: [SGS 640](https://bl.clex.ch/data/640/de/art82e)
+[^46-2]: [SGS 640](https://bl.clex.ch/data/640/de/art82e)
+[^46-3]: [SGS 640](https://bl.clex.ch/data/640/de/art82e)
 
 ### 6.2 Schulrat
 
@@ -615,11 +671,9 @@ beschliesst:
 
 **Aufgaben**
 
-<sup>1</sup> Der Schulrat hat insbesondere folgende Aufgaben:
+<sup>1</sup> Die Aufgaben des Schulrats richten sich nach § 82i des Bildungsgesetzes vom 6. Juni 2002[^47-1].
 
-- a. Er verabschiedet das Budget und die Abrechnung der Schule zuhanden des Amts für Volksschulen.
-- b. Er legt auf Antrag der Schulleitung deren Organisation fest.
-- c. Er unterstützt die Lehrkräfte in ihrem Auftrag.
+[^47-1]: [SGS 640](https://bl.clex.ch/data/640/de/art82i)
 
 #### § 48
 
@@ -629,11 +683,7 @@ beschliesst:
 
 #### § 49
 
-**Unterrichtsbesuche**
-
-<sup>1</sup> Die Mitglieder des Schulrats können bei Lehrerinnen und Lehrern ihrer Schule nach vorheriger Absprache Unterrichtsbesuche durchführen.
-
-<sup>2</sup> Sie verschaffen sich dabei einen Einblick in die Arbeit der Schule und ihrer Lehrerinnen und Lehrer.
+**…**
 
 #### § 50
 
@@ -647,31 +697,35 @@ beschliesst:
 
 **Aufgaben**
 
-<sup>1</sup> Das Amt für Volksschulen ist zuständig für alle Belange der Sekundarstufe I, die durch Gesetz und die Verordnung nicht anderen Organen übertragen sind.
+<sup>1</sup> Das Amt für Volksschulen hat in der Führung der Schulen der Sekundarstufe I die in § 82j des Bildungsgesetzes vom 2. Juni 2002[^51-1] der Bildungs-, Kultur- und Sportdirektion zugeordneten Aufgaben.
 
-<sup>2</sup> Es hat insbesondere folgende Aufgaben:
+<sup>2</sup> Es hat zudem insbesondere folgende Aufgaben:
 
 - a. die Steuerung der Sekundarstufe I, insbesondere die Budgetierung in Zusammenarbeit mit dem Generalsekretariat der BKSD;
-- b. die Beratung der Schulräte und Schulleitungen;
-- c. die Genehmigung der Klassenbildung und die Genehmigung der Ausnahmen der Kursbildung der Sekundarstufe I;
+- b. …
+- c. die Genehmigung der Klassenbildung zuhanden der Direktionsvorsteherin oder des Direktionsvorstehers sowie die Genehmigung von Ausnahmen der Kursbildung der Sekundarstufe I;
 - d. die Bewilligung und Beaufsichtigung der Privatschulen und der privaten Schulung auf der Sekundarstufe I;
-- e. die Beurteilung der Schulleitungen im Unterricht zuhanden des Schulrats;
-- f. das Führen von jährlichen Betriebsgesprächen mit den Schulleitungen;
+- e. …
+- f. das Führen von regelmässigen Entwicklungsgesprächen;
 - g. die inhaltliche Verantwortung und Mitwirkung bei der Aus- und Weiterbildung der Schulleitungen und des nicht unterrichtenden Schulpersonals;
-- h. die Antragsstellung zu Lehrmitteln und Lehrplänen zuhanden des Bildungsrats;
+- h. die Antragsstellung zu Lehrplänen zuhanden des Bildungsrats;
 - i. die Koordination der Inhalte der Schulfächer, der fachübergreifenden Themen und der überfachlichen Kompetenzen;
 - j. die Koordination der kantonalen Leistungstests (Checks) und des Abschlusszertifikats am Ende der Volksschule sowie die Durchführung der Übertrittsprüfung;
 - k. die Verantwortung für die Austauschprojekte;
 - l. die Sicherstellung von Betreuungsangeboten für befristete Schulausschlüsse von Schülerinnen und Schüler, insbesondere TimeOut;
 - m. die Sicherstellung des Angebots BerufsWegBereitung (BWB) auf der Sekundarstufe I;
 - n. die Einsetzung der Fachpersonen und Mentorinnen und Mentoren auf Antrag der Schulleitung sowie der Expertinnen und Experten für die Begleitung von Sachgeschäften;
-- o. die Sicherstellung und Begleitung von Prozess-, Themen- und Betriebsevaluationen;
-- p. die Kontrolle der Einhaltung von den kantonalen Regelungen;
-- q. den Erlass von Reglementen für die Schulen nach Rücksprache mit dem Schulträger;
+- o. …
+- p. …
+- q. den Erlass von Reglementen für die Sekundarschulen.
 - r. …
-- s. die Festlegung der Leitungszeit der Schulleitungen und der Arbeitszeit der Schulsekretariate und deren Überprüfung.
+- s. …
 
-<sup>3</sup> Über Ausnahmen in Bezug auf Regelungen in dieser Verordnung entscheidet das Amt für Volksschulen auf Antrag der Schulleitung, bzw. des Schulrats.
+<sup>3</sup> Es entscheidet auf Antrag der Schulleitung über Ausnahmen in Bezug auf Regelungen in dieser Verordnung.
+
+<sup>4</sup> Es ist zuständig für alle Belange der Sekundarstufe I, die durch Gesetz und die Verordnung nicht anderen Organen übertragen sind.
+
+[^51-1]: [SGS 640](https://bl.clex.ch/data/640/de/art82j)
 
 ## 7 Disziplinarwesen
 
@@ -703,17 +757,15 @@ beschliesst:
 
 - a. zusätzliche Arbeit in der schulfreien Zeit;
 - b. befristeter Ausschluss von einzelnen Schulfächern;
-- c. Schulausschluss bis zu 10 Schultagen, wobei die Schulleitung für die Dauer des Ausschlusses angemessene Beschäftigungs- und Betreuungsmassnahmen verfügt;
+- c. …
 - d. Versetzung in eine andere Klasse;
-- e. Androhung des Antrages an den Schulrat auf Schulausschluss bis zu 8 Wochen mit gleichzeitiger Information der Kindes- und Erwachsenenschutzbehörde.
+- e. Androhung des Schulausschlusses bis zu 8 Wochen;
+- f. Schulausschluss von bis zu 8 Wochen nach Anhörung des Amts für Volksschulen, wobei die Schulleitung für die Dauer des Ausschlusses angemessene Beschäftigungs- und Betreuungsmassnahmen verfügt;
+- g. unbefristeter Schulausschluss in Absprache mit dem Amt für Volksschulen und nach vorgängiger Anhörung der Kindes- und Erwachsenenschutzbehörde.
 
 #### § 53a
 
-**Massnahmen des Schulrates**
-
-<sup>1</sup> Der Schulrat kann auf Antrag der Schulleitung einen befristeten Schulausschluss von bis zu 8 Wochen anordnen. Zur Sicherstellung der angemessenen Betreuung und Beschäftigung der Schülerin oder des Schülers mit dem Ziel der Wiedereingliederung hört der Schulrat vorgängig die Kindes- und Erwachsenenschutzbehörde an.
-
-<sup>2</sup> Der Schulrat kann auf Antrag der Schulleitung und in Absprache mit der Kindes- und Erwachsenenschutzbehörde fehlbare Schülerinnen und Schüler aus der Schule ausschliessen.
+**…**
 
 #### § 53b
 
@@ -727,9 +779,9 @@ beschliesst:
 
 **Rechtliches Gehör**
 
-<sup>1</sup> Jede Schülerin und jeder Schüler, gegen die oder den eine Massnahme gemäss § 52 Abs. 1 Bst. d–h, § 53 und § 53a vorgesehen ist, hat Anspruch darauf, vorher angehört zu werden. Die Anhörung erfolgt in der Regel mündlich.
+<sup>1</sup> Jede Schülerin und jeder Schüler, gegen die oder den eine Massnahme gemäss § 52 Abs. 1 Bst. d–h und § 53 vorgesehen ist, hat Anspruch darauf, vorher angehört zu werden. Die Anhörung erfolgt in der Regel mündlich.
 
-<sup>2</sup> Vor der Verfügung von Disziplinarmassnahmen der Schulleitung und des Schulrats gemäss § 53 und § 53a sind auch die Erziehungsberechtigten anzuhören.
+<sup>2</sup> Vor der Verfügung von Disziplinarmassnahmen der Schulleitung gemäss § 53 sind auch die Erziehungsberechtigten anzuhören.
 
 ## 8 Übergangsbestimmungen
 
