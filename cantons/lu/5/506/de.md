@@ -3,20 +3,20 @@ canton: LU
 number: "506"
 title: Reglement für die Maturitätsprüfungen im Kanton Luzern
 language: de
-version: 2021-08-01
-valid_until: 2024-07-31
-version_adopted: 2021-05-18
+version: 2024-08-01
+valid_until: 2026-07-31
+version_adopted: 2024-05-14
 adopted: 2008-04-15
 in_force: 2008-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/506"
-pdf: "https://srl.lu.ch/api/de/versions/3781/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4224/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement für die Maturitätsprüfungen im Kanton Luzern
 
-vom 15.04.2008 (Stand 01.08.2021)
+vom 15.04.2008 (Stand 01.08.2024)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -283,7 +283,17 @@ beschliesst:
 
 <sup>2</sup> Eine zweite Wiederholung ist nicht möglich.
 
-## 8 Schlussbestimmungen
+## 8 Verhinderung und Unredlichkeiten
+
+#### § 24a
+
+**Verhinderung**
+
+<sup>1</sup> Wer eine oder mehrere Maturitätsprüfungen aus wichtigen Gründen nicht antreten oder zu Ende führen kann, hat die Schulleitung zu informieren und ein Arztzeugnis oder andere Dokumente, welche die Verhinderung belegen, nachzureichen. Die Schulleitung kann bei begründeter Absenz besondere Nachprüfungen anordnen.
+
+<sup>2</sup> Ein wichtiger Grund liegt insbesondere vor, wenn mit einem Arztzeugnis nachgewiesen wird, dass die Prüfungen aus gesundheitlichen Gründen nicht angetreten oder zu Ende geführt werden konnten.
+
+<sup>3</sup> Ist die Verhinderung unentschuldigt oder liegen keine wichtigen Gründe vor, so gilt die Maturitätsprüfung als nicht bestanden.
 
 #### § 25
 
@@ -302,6 +312,8 @@ beschliesst:
 <sup>5</sup> Die Maturandinnen und Maturanden sind rechtzeitig auf diese Bestimmungen aufmerksam zu machen.
 
 [^25-1]: SRL Nr. [502](https://srl.lu.ch/data/502/de)
+
+## 9 Schlussbestimmungen
 
 #### § 26
 
