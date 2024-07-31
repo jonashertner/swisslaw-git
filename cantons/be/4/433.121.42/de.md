@@ -1,24 +1,23 @@
 ---
 canton: BE
 number: "433.121.42"
-title: "Ordonnance de Direction concernant le plan d'études d'école de culture générale 2021 dans la partie francophone du canton"
+title: "Ordonnance de Direction concernant le plan d'études francophone 2021 pour la formation en école de culture générale"
 language: de
-version: 2021-08-01
-valid_until: 2024-07-31
-version_adopted: 2021-06-21
+version: 2024-08-01
+version_adopted: 2023-05-09
 adopted: 2021-06-21
 in_force: 2021-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/433.121.42"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2305/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2839/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Ordonnance de Direction concernant le plan d'études d'école de culture générale 2021 dans la partie francophone du canton
+# Ordonnance de Direction concernant le plan d'études francophone 2021 pour la formation en école de culture générale
 
 Dieser Erlass ist nur auf Französisch verfügbar.
 
-vom 21.06.2021 (Stand 01.08.2021)
+vom 21.06.2021 (Stand 01.08.2024)
 
 La Direction de l'instruction publique et de la culture du canton Berne,
 
@@ -33,7 +32,7 @@ arrête:
 
 **Champ d'application**
 
-<sup>1</sup> Le plan d’études d'école de culture générale 2021, publié à l’annexe 1, règle les formations dans la partie francophone du canton pour les écoles de culture générale cantonales et pour les écoles de culture générale privées délivrant un titre de fin d’études reconnu.
+<sup>1</sup> Le plan d’études francophone 2021 pour la formation en école de culture générale, publié à l’annexe 1, règle les formations en école de culture générale dans la partie francophone du canton pour les écoles de culture générale cantonales et pour les écoles de culture générale privées délivrant un certificat reconnu.
 
 #### Art. 2
 
@@ -58,9 +57,11 @@ arrête:
 - b pour la 2<sup>e</sup> année de la formation: dès le 1er août 2022,
 - c pour la 3<sup>e</sup> année de la formation: dès le 1er août 2023.
 
-## A1 Annexe 1
+## A1 Annexe 1 Plan d'études francophone 2021 pour la formation en école de culture générale
 
 #### Art. A1-1
+
+**Version initiale**
 
 <sup>1</sup> Conformément à l’article 5 de la loi du 18 janvier 1993 sur les publications officielles (LPO)[^A11-1], le présent acte législatif est publié dans le Recueil officiel des lois bernoises sous la forme d’un renvoi uniquement.
 
@@ -69,6 +70,16 @@ arrête:
 www.bkd.be.ch → Ecoles moyennes→ Ecole de culture générale → Plan d'études
 
 [^A11-1]: RSB [103.1](https://www.belex.sites.be.ch/data/103.1/de)
+
+#### Art. A1-2
+
+**Modification du 9 mai 2023**
+
+<sup>1</sup> Conformément à l'article 5 LPO, la modification du 9 mai 2023 de l’annexe 1 Plan d'études francophone 2021 pour la formation en école de culture générale est publiée dans le Recueil officiel des lois bernoises sous la forme d’un renvoi uniquement.
+
+<sup>2</sup> Elle est disponible sur Internet à l'adresse:
+
+[https://www.bkd.be.ch/fr/start.html](https://www.bkd.be.ch/fr/start.html) → Thèmes → Formation → Écoles moyennes → Ecole de culture générale et maturité spécialisée → Plan d’études pour l’école de culture générale
 
 Berne, le 21 juin 2021
 
