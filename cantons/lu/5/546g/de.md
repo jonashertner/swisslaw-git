@@ -3,20 +3,19 @@ canton: LU
 number: 546g
 title: Promotionsordnung der Fakultät für Gesundheitswissenschaften und Medizin der Universität Luzern für das Doktorat in Humanmedizin (Dr. med.)
 language: de
-version: 2023-02-01
-valid_until: 2024-07-31
-version_adopted: 2022-12-21
+version: 2024-08-01
+version_adopted: 2024-03-27
 adopted: 2021-12-17
 in_force: 2022-02-01
 url: "https://srl.lu.ch/app/de/texts_of_law/546g"
-pdf: "https://srl.lu.ch/api/de/versions/4041/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4223/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Promotionsordnung der Fakultät für Gesundheitswissenschaften und Medizin der Universität Luzern für das Doktorat in Humanmedizin (Dr. med.)
 
-vom 17.12.2021 (Stand 01.02.2023)
+vom 17.12.2021 (Stand 01.08.2024)
 
 Der Universitätsrat der Universität Luzern,
 
@@ -108,7 +107,7 @@ beschliesst:
 
 <sup>1</sup> Die Dissertation ist eine eigenständige Forschungsarbeit, die wissenschaftlichen Ansprüchen genügt und den Stand der wissenschaftlichen Erkenntnisse weiterführt. Sie soll den Nachweis vertiefter Fachkenntnisse, der Beherrschung wissenschaftlicher Arbeitsweise der oder des Promovierenden erbringen sowie in ihren Ergebnissen einen eigenständigen Forschungsbeitrag leisten.
 
-<sup>2</sup> Die Dissertation besteht aus einer bereits publizierten oder zur Publikation angenommenen wissenschaftlichen Arbeit, die nicht länger als zwei Jahre zurückliegt. In Ausnahmefällen kann die Dissertation in geteilter Erstautorinnen- oder Erstautorenschaft verfasst worden sein.
+<sup>2</sup> Die Dissertation besteht aus einer bereits publizierten oder zur Publikation angenommenen wissenschaftlichen Arbeit, die während des Doktorats erstellt wurde. In Ausnahmefällen kann die Dissertation in geteilter Koautorinnen- oder Koautorenschaft verfasst worden sein.
 
 <sup>3</sup> Eine Arbeit, die von der Autorin oder dem Autor bereits an einer anderen Fakultät oder Universität für die Erlangung eines akademischen Grades verwendet worden ist, kann nicht als Dissertation eingereicht werden.
 
@@ -146,7 +145,7 @@ beschliesst:
 
 <sup>6</sup> Eine in der Gesamtbeurteilung als ungenügend beurteilte Dissertation kann innert einer von der Fakultätsversammlung festgelegten Frist überarbeitet und erneut eingereicht werden. Wird die überarbeitete Fassung erneut als ungenügend bewertet, ist die Arbeit endgültig abgelehnt.
 
-<sup>7</sup> Im Falle der Ablehnung der Dissertation wird dies der oder dem Promovierenden von der Dekanin oder dem Dekan mittels Verfügung mitgeteilt. Eine abgelehnte Arbeit bleibt mit allen Gutachten bei den Akten des Departements.
+<sup>7</sup> Im Falle der Ablehnung der Dissertation wird dies der oder dem Promovierenden von der Dekanin oder dem Dekan mittels Verfügung mitgeteilt. Eine abgelehnte Arbeit bleibt mit allen Gutachten bei den Akten der Fakultät.
 
 #### § 11
 
@@ -185,9 +184,9 @@ beschliesst:
 
 **Publikation**
 
-<sup>1</sup> Das Doktorat wird rechtsgültig, wenn innert zwei Jahren nach Promotionsbeschluss der Zentral- und Hochschulbibliothek Luzern die vier Pflichtexemplare der genehmigten Dissertation abgeliefert werden.
+<sup>1</sup> Das Doktorat wird rechtsgültig, wenn innert zwei Jahren nach Promotionsbeschluss der Zentral- und Hochschulbibliothek Luzern die genehmigte Dissertation in elektronischer Form abgeliefert wird.
 
-<sup>2</sup> Dissertationen können auch in elektronischer Form publiziert werden. Dazu stellt die Universität Luzern zusammen mit der Zentral- und Hochschulbibliothek Luzern eine Publikationsplattform zur Verfügung.
+<sup>2</sup> Für die Publikation stellt die Universität Luzern zusammen mit der Zentral- und Hochschulbibliothek Luzern eine Publikationsplattform zur Verfügung.
 
 <sup>3</sup> Auf begründeten Antrag kann die Dekanin oder der Dekan die Publikationsfrist der Dissertation einmal um ein Jahr verlängern. Ist die Dissertation drei Jahre nach Promotionsbeschluss noch nicht publiziert, gilt die Promotion als erfolglos beendet, und die vorläufige Bescheinigung für das Bestehen des Promotionsverfahrens ist der Fakultät zurückzugeben.
 
@@ -195,7 +194,7 @@ beschliesst:
 
 **Abschluss der Promotion**
 
-<sup>1</sup> Nach Ablieferung der Pflichtexemplare erfolgt die Promotion zur Doktorin oder zum Doktor der Humanmedizin.
+<sup>1</sup> Nach Bestätigung der Ablieferung der Dissertation durch die Zentral- und Hochschulbibliothek Luzern erfolgt die Promotion zur Doktorin oder zum Doktor der Humanmedizin.
 
 <sup>2</sup> Über die Promotion erteilt die Fakultät eine mit der Unterschrift der Dekanin oder des Dekans und der Prodekanin oder des Prodekans Medizin versehene Urkunde.
 
