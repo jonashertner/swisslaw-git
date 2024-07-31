@@ -3,20 +3,19 @@ canton: SG
 number: "216.12"
 title: Verordnung über die Zulassung von Bewerberinnen und Bewerbern ohne eine gymnasiale Maturität zum Studium an der Pädagogischen Hochschule St.Gallen
 language: de
-version: 2015-01-01
-valid_until: 2024-07-31
-version_adopted: 2015-08-11
+version: 2024-08-01
+version_adopted: 2024-09-24
 adopted: 2015-08-11
 in_force: 2015-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/216.12"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/1957/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3685/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Zulassung von Bewerberinnen und Bewerbern ohne eine gymnasiale Maturität zum Studium an der Pädagogischen Hochschule St.Gallen
 
-vom 11.08.2015 (Stand 01.01.2015)
+vom 11.08.2015 (Stand 01.08.2024)
 
 Die Regierung des Kantons St.Gallen
 
@@ -29,21 +28,23 @@ als Verordnung:[^ingress-2]
 [^ingress-1]: sGS [216.0](https://www.gesetzessammlung.sg.ch/data/216.0/de).
 [^ingress-2]: Im Amtsblatt veröffentlicht am 31. August 2015, ABl 2015, 2161 ff.; rückwirkend in Vollzug ab 1. Januar 2015.
 
-## I. Zulassung zum Studiengang Kindergarten und Primarschule
+## I. Zulassung zum Studiengang Kindergarten- und Primarstufe
 
 #### Art. 1
 
 **Prüfungsfreie Zulassung**
 
-<sup>1</sup> Die Zulassung zum Studiengang Kindergarten und Primarschule setzt alternativ zur gymnasialen Maturität den Passerellen-Lehrgang, den Abschluss einer Fachhochschule oder die Fachmaturität Pädagogik voraus.
+<sup>1</sup> Die Zulassung zum Studiengang Kindergarten- und Primarstufe setzt alternativ zur gymnasialen Maturität den Passerellen-Lehrgang, den Abschluss einer Hochschule oder die Fachmaturität Pädagogik voraus.
 
 #### Art. 2
 
-**Zulassung mittels Ergänzungsprüfung Pädagogische Hochschule**
+**Zulassung mittels Ergänzungsprüfung**
 
-<sup>1</sup> Absolventinnen und Absolventen einer Diplom-, Fach-, Wirtschafts- oder Berufsmittelschule sowie Berufsleute mit eidgenössischem Fähigkeitsausweis und mehrjähriger Berufserfahrung erbringen für die Zulassung zum Studiengang Kindergarten und Primarschule der Pädagogischen Hochschule St.Gallen den Nachweis zusätzlicher Allgemeinbildung.
+<sup>1</sup> Absolventinnen und Absolventen einer Fach-, Wirtschafts-, Informatikmittel- oder Berufsmaturitätsschule sowie Berufsleute mit eidgenössischem Fähigkeitszeugnis und mehrjähriger Berufserfahrung erbringen für die Zulassung zum Studiengang Kindergarten- und Primarstufe der Pädagogischen Hochschule St.Gallen den Nachweis zusätzlicher Allgemeinbildung.
 
 <sup>2</sup> Der Nachweis zusätzlicher Allgemeinbildung wird erbracht durch das Bestehen der Ergänzungsprüfung Pädagogische Hochschule an der Interstaatlichen Maturitätsschule für Erwachsene St.Gallen/Sargans (ISME).
+
+<sup>3</sup> Die Rektorin oder der Rektor kann Ergänzungsprüfungen anderer Institutionen, welche die Zulassung zur Ausbildung zur Lehrperson der Kindergarten- und Primarstufe an einer Pädagogischen Hochschule in der Schweiz ermöglichen, allgemein als gültigen Nachweis zusätzlicher Allgemeinbildung anerkennen.
 
 #### Art. 3
 
@@ -59,7 +60,17 @@ als Verordnung:[^ingress-2]
 
 **Prüfungsfreie Zulassung**
 
-<sup>1</sup> Die Zulassung zum Studiengang Sekundarstufe I setzt alternativ zur gymnasialen Maturität den Passerellen-Lehrgang oder den Abschluss einer Fachhochschule voraus.
+<sup>1</sup> Die Zulassung zum Studiengang Sekundarstufe I setzt alternativ zur gymnasialen Maturität den Passerellen-Lehrgang oder den Abschluss einer Hochschule voraus.
+
+#### Art. 4a
+
+**Zulassung mittels Ergänzungsprüfung**
+
+<sup>1</sup> Absolventinnen und Absolventen einer Fach-, Wirtschafts-, Informatikmittel- oder Berufsmaturitätsschule sowie Berufsleute mit eidgenössischem Fähigkeitszeugnis und mehrjähriger Berufserfahrung erbringen für die Zulassung zum Studiengang Sekundarstufe I der Pädagogischen Hochschule St.Gallen den Nachweis zusätzlicher Allgemeinbildung.
+
+<sup>2</sup> Die Rektorin oder der Rektor kann Ergänzungsprüfungen von Institutionen, welche die Zulassung zur Ausbildung zur Lehrperson der Sekundarstufe I an einer Pädagogischen Hochschule in der Schweiz ermöglichen, allgemein als gültigen Nachweis zusätzlicher Allgemeinbildung anerkennen.
+
+<sup>3</sup> Die Pädagogische Hochschule St.Gallen oder die Interstaatliche Maturitätsschule für Erwachsene St.Gallen/Sargans (ISME) kann eine Ergänzungsprüfung anbieten, mit deren Bestehen der Nachweis zusätzlicher Allgemeinbildung erbracht wird.
 
 #### Art. 5
 
