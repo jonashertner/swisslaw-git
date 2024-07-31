@@ -3,20 +3,19 @@ canton: BL
 number: "640.41"
 title: Verordnung für die Musikschule
 language: de
-version: 2016-08-01
-valid_until: 2024-07-31
-version_adopted: 2016-08-23
+version: 2024-08-01
+version_adopted: 2024-06-25
 adopted: 2003-05-13
 in_force: 2003-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/640.41"
-pdf: "https://bl.clex.ch/api/de/versions/3733/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3949/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung für die Musikschule
 
-Vom 13.05.2003 (Stand 01.08.2016)
+Vom 13.05.2003 (Stand 01.08.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -62,10 +61,12 @@ beschliesst:
 
 <sup>1</sup> Für die Bewilligung von Schuleinstellungen an einzelnen Tagen sind zuständig:
 
-- a. die Schulleitung bei ungewöhnlichen Witterungsverhältnissen im Einzugsgebiet der Musikschule;
-- b. der Schulrat bei Anlässen im Einzugsgebiet der Musikschule;
+- a. die Schulleitung bei ungewöhnlichen Witterungsverhältnissen sowie bei Anlässen im Einzugsgebiet der Schule;
+- b. …
 - c. die Bildungs-, Kultur- und Sportdirektion bei Anlässen von kantonaler und überkantonaler Bedeutung;
 - d. der kantonale Krisenstab in Katastrophensituationen.
+
+<sup>2</sup> Die Schulleitung meldet dem Schulrat und dem Amt für Volksschulen beabsichtigte Schuleinstellungen bei Anlässen im Einzugsgebiet der Schule.
 
 #### § 5
 
@@ -157,6 +158,10 @@ beschliesst:
 
 <sup>1</sup> Die Musikschulen können im Einzelfall besonders begabte Musikschülerinnen und Musikschüler speziell fördern. Die spezielle Förderung findet in Absprache mit der Volksschule statt.
 
+<sup>2</sup> Das Amt für Volksschulen regelt die Einzelheiten für die Ausrichtung von Beiträgen im Rahmen des Förderprogramms «Junge Talente Musik» gemäss der Verordnung des EDI über das Förderungskonzept zum Programm «Junge Talente Musik» vom 15. Juni 2022[^11a-1] in einem Reglement.
+
+[^11a-1]: [SR 442.133](https://db.clex.ch/link/Bund/442.133/de)
+
 ## 5 Aufgaben der Schulen
 
 ### 5.1 Schulprogramm
@@ -167,91 +172,110 @@ beschliesst:
 
 <sup>1</sup> Die Musikschulen definieren im Schulprogramm ihre Leitsätze und Zielsetzungen und legen fest, wie sie diese innert einer bestimmten Zeit umsetzen wollen.
 
-<sup>2</sup> Das Schulprogramm enthält insbesondere:
+<sup>2</sup> Das Schulprogramm gibt neben den in den §§ 59 und 60d des Bildungsgesetzes vom 6. Juni 2002[^12-1] vorgesehenen Bereichen insbesondere Auskunft über:
 
-- a. das pädagogische und künstlerische Konzept der Musikschule;
-- b. die Organisation der Musikschule;
-- c. die Regelung der Zusammenarbeit innerhalb der Musikschule sowie mit den Erziehungsberechtigten, den Behörden und anderen Schulen;
-- d. die Form der Mitsprache der Musikschülerinnen und Musikschüler;
-- g. die Bereiche und die Durchführung der internen Evaluation;
-- h. die Fort- und Weiterbildung der Musiklehrerinnen und Musiklehrer;
-- i. das Vorgehen in Konfliktfällen;
-- j. die Aufnahmebestimmungen;
-- k. den Einsatz der finanziellen Mittel;
-- l. die Massnahmen zur Förderung einer geschlechtergerechten Pädagogik und der Gleichstellung der Geschlechter;
-- m. das Konzept zur Förderung von besonders begabten Musikschülerinnen und Musikschülern.
+- a. das künstlerische Konzept der Musikschule;
+- b. die Zusammenarbeit innerhalb der Schule, mit den Behörden und anderen Schulen;
+- c. die Bereiche der internen Evaluation;
+- d. die Fort- und Weiterbildung der Musiklehrerinnen und Musiklehrer;
+- e. das Vorgehen in Konfliktfällen;
+- f. die Aufnahmebestimmungen;
+- g. die Massnahmen zur Förderung einer geschlechtergerechten Pädagogik und der Gleichstellung der Geschlechter;
+- h. das Konzept zur Förderung von besonders begabten Musikschülerinnen und Musikschülern;
+- i. die Klärung der Rollen, Kompetenzen und Zuständigkeiten in der Schule.
 
-### 5.2 Interne Evaluation
+[^12-1]: [SGS 640](https://bl.clex.ch/data/640/de/art59)
+
+### 5.2 Qualität und Aufsicht
+
+### 5.2.1. Qualitätsentwicklung und -sicherung
 
 #### § 13
 
-**Zielsetzung**
+**Auftrag und Umsetzung**
 
-<sup>1</sup> Die Musikschulen führen selber regelmässig eine interne Evaluation über die Qualität ihrer Arbeit durch, um Steuerungswissen für ihre weitere Entwicklung zu erhalten.
+<sup>1</sup> Die Qualitätsentwicklung und -sicherung richtet sich nach § 60a ff. des Bildungsgesetzes vom 6. Juni 2002[^13-1].
+
+[^13-1]: [SGS 640](https://bl.clex.ch/data/640/de/art60a)
 
 #### § 14
 
-**Inhalt**
+**Inhalt der internen Evaluation**
 
-<sup>1</sup> Die interne Evaluation nimmt insbesondere Bezug auf:
+<sup>1</sup> Die interne Evaluation auf der Ebene der Schule als Organisation hat zum Ziel, Grundlagen zur Verbesserung der Abläufe, der Strukturen und der Schulkultur zu erhalten und Rechenschaft zu geben. Sie umfasst insbesondere:
 
 - a. die Überprüfung des Schulprogramms und dessen Realisierung;
-- b. den Unterricht der Musiklehrerinnen und Musiklehrer;
+- b. …
 - c. die im Unterricht erzielten Schulleistungen der Musikschülerinnen und Musikschüler;
 - d. die Arbeit der Schulleitung.
 
+<sup>2</sup> Die interne Evaluation auf der Ebene des Unterrichts hat zum Ziel, Grundlagen zur Sicherung und Steigerung der Unterrichtsqualität der einzelnen Musiklehrerinnen und Musiklehrer zu erhalten.
+
 #### § 15
 
-**Durchführung**
+**Durchführung und Massnahmen**
 
 <sup>1</sup> Die Musikschülerinnen und Musikschüler, Erziehungsberechtigten, das nichtunterrichtende Schulpersonal, die Behörden und die abnehmenden Schulen und Institutionen werden in angemessener Form in die interne Evaluation einbezogen.
 
-<sup>2</sup> Die Schulleitung führt die interne Evaluation im Auftrag des Schulrats durch.
+<sup>2</sup> …
 
-<sup>3</sup> Das System der internen Evaluation wird im Rahmen des Schulprogramms durch die Schulleitung in Zusammenarbeit mit dem Musiklehrerinnen- und Musiklehrerkonvent festgelegt.
+<sup>3</sup> …
 
-<sup>4</sup> Die Schulleitung wertet die Resultate der internen Evaluation zuhanden des Schulrats aus und setzt vom Schulrat beschlossene Massnahmen um.
+<sup>4</sup> Die Schulleitung erarbeitet unter Mitwirkung des Schulrats die Massnahmen und unterbreitet sie diesem zur Genehmigung. Diese fliessen in die Schulentwicklungsplanung ein.
 
-### 5.3 Externe Evaluation
+<sup>5</sup> Die Musiklehrerinnen und Musiklehrer reflektieren ihren Unterricht regelmässig unter Einbezug der Ergebnisse der internen Evaluation auf Ebene des Unterrichts und passen ihren Unterricht aufgrund der gewonnenen Erkenntnisse an.
+
+### 5.2.2. Aufsicht
+
+#### § 15a
+
+**Auftrag und Umsetzung**
+
+<sup>1</sup> Die Aufsicht richtet sich nach den §§ 61a und 61b des Bildungsgesetzes vom 6. Juni 2002[^15a-1].
+
+<sup>2</sup> Das Amt für Volksschulen hat im Rahmen der Aufsicht insbesondere folgende Aufgaben:
+
+- a. Es befragt die Schulen regelmässig zu massgeblichen, den kantonalen Bildungsauftrag betreffenden Bereichen.
+- b. Es wertet die Ergebnisse der Befragungen zusammen mit vorliegenden Kennzahlen aus.
+- c. Es kann zusätzlich den Vollzug kantonaler Vorgaben untersuchen, die mit der Erfüllung des Bildungsauftrags im Zusammenhang stehen.
+- d. Es gibt periodisch Audits in Auftrag, die unter Einbezug der Beteiligten vor Ort ein Bild der Qualität der Arbeit an der Schule vermitteln. Sie zieht hierfür aussenstehende Expertinnen und Experten bei und kann Aufträge an Dritte erteilen.
+- e. Es kann eine vertiefte Analyse in Auftrag geben, wenn die Funktion der Schule in einem oder mehreren Bereichen nicht gegeben oder gefährdet ist oder aber gefährdet sein könnte.
+
+[^15a-1]: [SGS 640](https://bl.clex.ch/data/640/de)
+
+#### § 15b
+
+**Massnahmen**
+
+<sup>1</sup> Die Schulleitung wertet die Ergebnisse der Aufsichtsprozesse aus. Sie erarbeitet unter Mitwirkung des Schulrats und unter Einbezug der Mitarbeitenden und gegebenenfalls nach Rücksprache mit dem Amt für Volksschulen geeignete Massnahmen, um die Erkenntnisse und Anforderungen aus den Aufsichtsprozessen angemessen umzusetzen, und unterbreitet diese dem Schulrat.
+
+<sup>2</sup> Die vom Schulrat beschlossenen Massnahmen fliessen in die Schulentwicklungsplanung ein und werden vom Amt für Volksschulen begleitet.
+
+#### § 15c
+
+**Inhalte der Befragungen im Rahmen der Aufsicht**
+
+<sup>1</sup> Das Amt für Volksschulen führt die Befragungen im Rahmen der Aufsicht insbesondere zu folgenden Bereichen durch:
+
+- a. zu Schul- und Personalführung;
+- b. zum Schulprogramm, inklusive Schulentwicklungsplanung;
+- c. zur Qualitätsentwicklung und -sicherung.
+
+<sup>2</sup> Es gibt der Schule eine schriftliche Rückmeldung, gegebenenfalls verbunden mit Handlungsempfehlungen.
+
+### 5.3
 
 #### § 16
 
-**Zielsetzung**
-
-<sup>1</sup> Die externe Evaluation ergänzt die interne Evaluation und wird auf diese abgestimmt.
-
-<sup>2</sup> Die externe Evaluation bezweckt insbesondere:
-
-- a. die Überprüfung und Bewertung des Verfahrens der internen Evaluation;
-- b. die Vermittlung einer fachlichen Aussensicht zu den vereinbarten Evaluationsbereichen;
-- c. die Vermittlung von Steuerungswissen für die Weiterentwicklung der Musikschule;
-- d. die Beschaffung von Steuerungswissen für die Weiterentwicklung des kantonalen Bildungssystems.
+**…**
 
 #### § 17
 
-**Inhalt**
-
-<sup>1</sup> Die externe Evaluation nimmt insbesondere Bezug auf:
-
-- a. die im Schulprogramm gesetzten Lern- und Ausbildungsziele;
-- b. die Unterrichtsqualität;
-- c. die im Unterricht erreichten Schulleistungen der Musikschülerinnen und Musikschüler;
-- d. die stufenspezifischen Aspekte der Ausbildung der Musikschülerinnen und Musikschüler;
-- e. die Einhaltung der rechtlichen Bestimmungen und Vorgaben der Behörden;
-- f. die Verwendung der finanziellen Mittel;
-- g. die Integration der Genderthematik als Querschnittsaufgabe.
+**…**
 
 #### § 18
 
-**Durchführung**
-
-<sup>1</sup> Die Bildungs-, Kultur- und Sportdirektion ist für die regelmässige Durchführung der externen Evaluation verantwortlich und bestimmt die Evaluationsbereiche. Die Musikschulen haben das Recht, einen Evaluationsbereich selber festzulegen.
-
-<sup>2</sup> Die externe Evaluation wird von interdisziplinär zusammengesetzten Evaluationsteams durchgeführt, die vom Amt für Volksschulen eingesetzt werden.
-
-<sup>3</sup> Das Evaluationsteam legt in Absprache mit der Schulleitung den Ablauf der externen Evaluation fest.
-
-<sup>4</sup> Nach der Durchführung verfasst das Evaluationsteam zuhanden des Schulrats, der Schulleitung und des Amts für Volksschulen einen Bericht, der seine Beobachtungen, eine Beurteilung und Empfehlungen zur Qualitätsentwicklung enthält. Das Amt für Volksschulen und das Evaluationsteam haben kein Weisungsrecht gegenüber der Musikschule.
+**…**
 
 ## 6 Schulbeteiligte
 
@@ -279,7 +303,7 @@ beschliesst:
 
 <sup>1</sup> Die Schulleitung kann Musikschülerinnen und Musikschüler aus besonderen Gründen auf Gesuch vom Musikunterricht beurlauben.
 
-<sup>2</sup> Bei Beurlaubungen von längerer Dauer kann der Schulrat einen Teil des Kursgeldes zurückerstatten lassen.
+<sup>2</sup> Bei Beurlaubungen von längerer Dauer kann die Schulleitung einen Teil des Kursgeldes zurückerstatten lassen.
 
 ### 6.2 Erziehungsberechtigte
 
@@ -309,12 +333,16 @@ beschliesst:
 
 **Aufgaben des Musiklehrerinnen- und Musiklehrerkonvents**
 
-<sup>1</sup> Der Musiklehrerinnen- und Musiklehrerkonvent hat insbesondere folgende Aufgaben:
+<sup>1</sup> Die Aufgaben des Musiklehrerinnen- und Musiklehrerkonvents richten sich nach § 74 Abs. 2 des Bildungsgesetzes vom 6. Juni 2002[^25-1]. Zudem hat er folgende Aufgaben:
 
 - a. Er nimmt zuhanden des Schulrats Stellung zur Organisation der Schulleitung.
-- b. Er arbeitet unter der Federführung der Schulleitung das Schulprogramm und schulinterne Erlasse aus.
-- c. Er wählt die Vertretung der Musiklehrerinnen und Musiklehrer im Schulrat.
-- d. Er nimmt zu wichtigen Fragen der Musikschule Stellung.
+- b. Er nimmt zu schulinternen Erlassen Stellung.
+- c. Er wählt die Lehrerinnen- und Lehrervertretung im Schulrat und seine Vertretung bei der Anstellung von Schulleitungsmitgliedern.
+- d. Er wählt seine Ansprechperson gegenüber der Amtlichen Kantonalkonferenz der Lehrerinnen und Lehrer.
+
+<sup>2</sup> Er bespricht seine Aufgabenerfüllung und die Beteiligung der Schulleitung an den Konventen vorgängig mit dieser.
+
+[^25-1]: [SGS 640](https://bl.clex.ch/data/640/de)
 
 #### § 26
 
@@ -328,9 +356,10 @@ beschliesst:
 - b. weitere Rechte und Pflichten der Mitglieder;
 - c. die Leitung und das Protokoll;
 - d. den Beizug allfälliger weiterer Personen, insbesondere des nichtunterrichtenden Schulpersonals;
-- e. die Wahl der Musiklehrerinnen- und Musiklehrervertretung im Schulrat.
+- e. die Wahl seiner Vertretung im Schulrat sowie im Anstellungsverfahren der Schulleitungsmitglieder; die Vertretung besteht aus höchstens 2 Personen;
+- f. die Wahl seiner Ansprechperson gegenüber der Amtlichen Kantonalkonferenz der Lehrerinnen und Lehrer.
 
-## 7 Leitung und Aufsicht
+## 7 Leitung
 
 ### 7.1 Schulleitung
 
@@ -338,56 +367,29 @@ beschliesst:
 
 **Amtsauftrag**
 
-<sup>1</sup> Die Schulleitungen haben folgenden Auftrag:
+<sup>1</sup> Der Auftrag der Schulleitungen richtet sich nach den Bestimmungen des Bildungsgesetzes vom 6. Juni 2002[^27-1] sowie nach § 2 der Verordnung für die Schulleitungen und die Schulsekretariate vom 13. Mai 2003[^27-2].
 
-- a. Sie sind für die pädagogischen, künstlerischen, personellen, organisatorischen und administrativen Belange ihrer Musikschulen zuständig.
-- b. Sie beteiligen die Musiklehrerinnen und Musiklehrer an wichtigen Entscheidungsprozessen ihrer Musikschulen.
-- c. Sie sorgen für eine altersgemässe Mitwirkung der Musikschülerinnen und Musikschüler an wichtigen Entscheidungsprozessen ihrer Musikschulen.
-- d. Sie gewährleisten die Mitwirkung der Erziehungsberechtigten am Entwicklungsprozess ihrer Musikschulen.
-- e. Sie arbeiten mit den kommunalen und kantonalen Stellen und Behörden zusammen.
-
-<sup>2</sup> Die Schulleitungen sind gegenüber den Musiklehrerinnen und Musiklehrern und dem nicht unterrichtenden Schulpersonal in personellen, organisatorischen und administrativen Fragen weisungsbefugt.
+<sup>2</sup> Zudem sind die Schulleitungen für die künstlerischen Belange ihrer Musikschule zuständig.
 
 <sup>3</sup> Sie sind gegenüber ihren übergeordneten Behörden und Stellen in Angelegenheiten ihrer Musikschulen auskunftspflichtig.
 
+[^27-1]: [SGS 640](https://bl.clex.ch/data/640/de)
+[^27-2]: [SGS 647.12](https://bl.clex.ch/data/647.12/de/art2)
+
 #### § 28
 
-**Organisation, Zusammensetzung, Konstituierung**
-
-<sup>1</sup> Die Organisation der Schulleitung wird auf Antrag der Schulleitung durch den Schulrat festgelegt. Sie ist vorgängig dem Musiklehrerinnen- und Musiklehrerkonvent zur Stellungnahme vorzulegen.
-
-<sup>2</sup> Bei einer mehrköpfigen Schulleitung bestimmt der Schulrat deren Vorsitz (Rektor/Rektorin). Co-Vorsitzende sind möglich.
-
-<sup>3</sup> …
-
-<sup>4</sup> Im Übrigen konstituiert sich die Schulleitung selbst.
+**…**
 
 #### § 29
 
 **Pflichtenheft**
 
-<sup>1</sup> Das Pflichtenheft der Schulleitung umfasst folgende Aufgaben:
+<sup>1</sup> Das Pflichtenheft der Schulleitungen richtet sich grundsätzlich nach den Bestimmungen des Bildungsgesetzes vom 6. Juni 2002[^29-1] sowie nach § 20 der Verordnung für die Schulleitungen und die Schulsekretariate vom 13. Mai 2003[^29-2].
 
-- a. Sie teilt den Musiklehrerinnen und Musiklehrern die Schülerinnen und Schüler, Pensen und Räume zu.
-- b. Sie genehmigt die Stundenpläne.
-- c. Sie besucht die Musiklehrerinnen und Musiklehrer im Unterricht.
-- d. Sie führt die Mitarbeiterinnen- und Mitarbeitergespräche durch und führt die Personalakten.
-- e. Sie sorgt in Konfliktfällen für einen korrekten Verfahrensablauf.
-- f. Sie arbeitet zusammen mit dem Musiklehrerinnen- und Musiklehrerkonvent das Schulprogramm und schulinterne Erlasse aus und hat dabei die Federführung.
-- g. Sie führt im Auftrag des Schulrats die interne Evaluation der Musikschule durch.
-- h. Sie setzt im Auftrag des Schulrats die Ergebnisse der internen und externen Evaluation um.
-- i. Sie zieht bei Bedarf Fachpersonen und ausgebildete Mentorinnen und Mentoren bei.
-- j. Sie bewilligt Reisen, Lager, Schulverlegungen und weiteren Spezialunterricht.
-- k. Sie berät die Musikschülerinnen und Musikschüler sowie die Erziehungsberechtigten in Schulfragen.
-- l. Sie sorgt zusammen mit den zuständigen Fachstellen für die Integration von Musikschülerinnen und Musikschülern mit Beeinträchtigungen und Behinderungen.
-- m. Sie kann Musikschülerinnen und Musikschüler bei ausserordentlichen Ereignissen und Anlässen beurlauben.
-- n. Sie sorgt in Absprache mit dem Musiklehrerinnen- und Musiklehrerkonvent für eine einheitliche Beurlaubungspraxis für Musikschülerinnen und Musikschüler innerhalb der Musikschule und spricht diese mit anderen Schulen im Einzugsgebiet ab.
-- o. Sie sorgt in Absprache mit dem Musiklehrerinnen- und Musiklehrerkonvent für eine einheitliche Disziplinarpraxis gegenüber Musikschülerinnen und Musikschülern.
-- p. Sie erstellt zuhanden der vorgesetzten Instanzen das Budget und die Abrechnung der Musikschule und führt die Budgetkontrolle.
-- q. Sie leitet das Sekretariat der Musikschule.
-- r. Sie beantragt dem Schulrat die Ermahnung oder das Aussprechen einer Busse gegenüber den Erziehungsberechtigten.
+<sup>2</sup> Der Aufgabenkatalog kann ergänzt werden und wird dem Bedarf entsprechend ressourciert.
 
-<sup>2</sup> Der Aufgabenkatalog kann nach den Bedürfnissen der Musikschulen ergänzt werden.
+[^29-1]: [SGS 640](https://bl.clex.ch/data/640/de)
+[^29-2]: [SGS 647.12](https://bl.clex.ch/data/647.12/de)
 
 #### § 30
 
@@ -399,7 +401,7 @@ beschliesst:
 
 - a. Sie nimmt zuhanden der Bildungs-, Kultur- und Sportdirektion zu allen die Musikschule betreffenden Erlassen Stellung.
 - b. Sie wählt einen Konferenzvorstand, der aus maximal 7 Mitgliedern besteht. Dabei beachtet sie eine regional angemessene Vertretung.
-- c. Sie erlässt eine Geschäftsordnung, welche durch den Präsidialausschuss der Schulleitungskonferenzen im Amt für Volksschulen genehmigt wird, wobei mindestens 4 Konferenzen im Jahr vorgesehen sind.
+- c. Sie erlässt in Absprache mit dem Amt für Volksschulen eine Geschäftsordnung, wobei mindestens 4 Konferenzen im Jahr vorgesehen sind.
 
 <sup>3</sup> Eine Vertretung des Amts für Volksschulen nimmt an den Konferenzen teil.
 
@@ -415,12 +417,11 @@ beschliesst:
 
 **Aufgaben**
 
-<sup>1</sup> Der Schulrat hat insbesondere folgende Aufgaben:
+<sup>1</sup> Die Aufgaben des Schulrats richten sich nach § 82 des Bildungsgesetzes vom 6. Juni 2002[^31-1].
 
-- a. Er verabschiedet das Budget und die Abrechnung der Musikschule zuhanden des Gemeinderats bzw. der Delegiertenversammlung des Zweckverbands.
-- b. Er legt auf Antrag der Schulleitung deren Organisation fest.
-- c. Er schlägt den zuständigen Behörden der Trägergemeinden die Höhe der Beiträge von Erziehungsberechtigten bzw. von volljährigen Musikschülerinnen und Musikschülern an den Musikunterricht vor.
-- d. Er unterstützt die Lehrpersonen in ihrem Auftrag.
+<sup>2</sup> Zudem schlägt er den zuständigen Behörden der Trägergemeinden die Höhe der Beiträge von Erziehungsberechtigten bzw. von volljährigen Musikschülerinnen und Musikschülern an den Musikunterricht vor.
+
+[^31-1]: [SGS 640](https://bl.clex.ch/data/640/de)
 
 #### § 32
 
@@ -450,7 +451,7 @@ beschliesst:
 - b. die Beteiligung an musikschulübergreifenden Projekten;
 - c. die Mitwirkung bei der Aus- und Weiterbildung der Schulleitungen;
 - d. die Beurteilungen der Musikschulleitungen im Unterricht zuhanden des Schulrats;
-- e. das Führen von jährlichen Betriebsgesprächen mit den Musikschulleitungen;
+- e. das Führen von regelmässigen Entwicklungsgesprächen;
 - f. die Koordination des Fachs Musik an den Volksschulen sowie die Förderung der Zusammenarbeit der Musikschulen mit den Volksschulen;
 - g. die Sicherstellung und Begleitung von Prozess-, Themen- und Betriebsevaluationen.
 
