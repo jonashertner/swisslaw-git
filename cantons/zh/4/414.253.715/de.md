@@ -3,11 +3,10 @@ canton: ZH
 number: "414.253.715"
 title: Studienordnung für den Masterstudiengang Engineering an der Zürcher Hochschule für Angewandte Wissenschaften
 language: de
-version: "2023-01-01"
-nachtrag: "119"
-valid_until: 2024-08-01
+version: "2024-08-01"
+nachtrag: "125"
 adopted: 2014-10-30
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_715-2014_10_30-2015_08_01-119.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_715-2014_10_30-2015_08_01-125.html"
 text: pdf
 ---
 
@@ -34,19 +33,15 @@ beschliesst:
 
 <sup>1</sup> Diese Studienordnung regelt in Ergänzung zur Rahmenprüfungsordnung für Bachelor- und Masterstudiengänge an der ZHAW vom 29. Januar 2008 (RPO) den Masterstudiengang Engineering an der ZHAW.
 
-<sup>2</sup> Die ZHAW führt den Masterstudiengang in Kooperation mit der Berner Fachhochschule, der Fachhochschule Nordwestschweiz, der Fachhochschule Ostschweiz, der Haute Ecole Spécialisée de Suisse occidentale, der Hochschule Luzern sowie der Scuola Universitaria Professionale della Svizzera Italiana durch.
-
-[^1-1]: Fassung gemäss B vom 22. August 2019 (OS 75, 35; ABl 2019-11-01). In Kraft seit 1. April 2020.
-
-#### § 2
+<sup>2</sup> Die ZHAW führt den Masterstudiengang in Kooperation mit der Berner Fachhochschule, der Fachhochschule Graubünden, der Fachhochschule Nordwestschweiz, der Ostschweizer Fachhochschule, der Haute école spécialisée de Suisse occidentale, der Hochschule Luzern sowie der Scuola universitaria professionale della Svizzera italiana durch.[^1-1]
 
 **Anhang**
 
-Einzelheiten zum Studiengang, insbesondere zu den Zulassungsvoraussetzungen, zu den Modulen und den zu erreichenden ECTS-Credits[^1-1], werden in einem Anhang geregelt.
+§ 2. Einzelheiten zum Studiengang, insbesondere zu den Zulassungsvoraussetzungen, zu den Modulen und den zu erreichenden ECTS-Credits[^1-2], werden in einem Anhang geregelt.
 
 **Vertiefungen**
 
-§ 3.[^2-1] Der Masterstudiengang kann in den folgenden Vertiefungen angeboten werden:
+§ 3.[^1-2] Der Masterstudiengang kann in den folgenden Vertiefungen angeboten werden:
 
 - a. Aviation,
 
@@ -62,19 +57,19 @@ Einzelheiten zum Studiengang, insbesondere zu den Zulassungsvoraussetzungen, zu 
 
 - g. Energy and Environment,
 
-- h. Mechanical Engineering,
-
 **1**
 
-- 1\. 1. 23 - 119
+- 1\. 7. 24 - 125 h.[^1-3] Information und Cyber Security,
 
-- i. Mechatronics and Automation,
+- i. Mechanical Engineering,
 
-- j. Medical Engineering,
+- j. Mechatronics and Automation,
 
-- k. Photonics.
+- k. Medical Engineering, l.[^1-1] Photonics and Laser Engineering.
 
-[^2-1]: Fassung gemäss B vom 22. August 2019 (OS 75, 35; ABl 2019-11-01). In Kraft seit 1. April 2020.
+[^1-1]: Fassung gemäss B vom 7. März 2024 (OS 79, 198; ABl 2024-04-19). In Kraft seit 1. August 2024. 1. 7. 24 - 125 5
+[^1-2]: Fassung gemäss B vom 22. August 2019 (OS 75, 35; ABl 2019-11-01). In Kraft seit 1. April 2020.
+[^1-3]: Eingefügt durch B vom 7. März 2024 (OS 79, 198; ABl 2024-04-19). In Kraft seit 1. August 2024.
 
 #### § 4
 
@@ -84,13 +79,14 @@ Einzelheiten zum Studiengang, insbesondere zu den Zulassungsvoraussetzungen, zu 
 
 <sup>2</sup> Der Studiengang umfasst Studienleistungen von 90 ECTS-Credits[^4-1].
 
-[^4-1]: Fassung gemäss B vom 22. August 2019 (OS 75, 35; ABl 2019-11-01). In Kraft seit 1. April 2020.
-
-#### § 5
+<sup>3</sup> Vollzeitstudierende müssen sich pro Semester auf Module in einem Mindestumfang von 27 ECTS-Credits und Teilzeitstudierende in einem Mindestumfang von 12 ECTS-Credits anmelden. Die Studienleitung entscheidet über Ausnahmen.[^4-2]
 
 **Anrechnung von ECTS-Credits4**
 
-An der ZHAW oder andernorts erworbene ECTS-Credits[^4-1] werden während zehn Jahren ab dem Semester ihres Erwerbs angerechnet. Die Studienleitung entscheidet über Ausnahmen.
+§ 5. An der ZHAW oder andernorts erworbene ECTS-Credits[^4-1] werden während zehn Jahren ab dem Semester ihres Erwerbs angerechnet. Die Studienleitung entscheidet über Ausnahmen.
+
+[^4-1]: Fassung gemäss B vom 22. August 2019 (OS 75, 35; ABl 2019-11-01). In Kraft seit 1. April 2020.
+[^4-2]: Eingefügt durch B vom 7. März 2024 (OS 79, 198; ABl 2024-04-19). In Kraft seit 1. August 2024.
 
 #### § 6
 
@@ -112,9 +108,11 @@ An der ZHAW oder andernorts erworbene ECTS-Credits[^4-1] werden während zehn Ja
 
 <sup>1</sup> Bewerberinnen und Bewerber mit einem Abschluss in einer technischen Studienrichtung werden zum Studium zugelassen, wenn sie a. über einen sehr guten Hochschulabschluss verfügen oder b. die Voraussetzungen für eine nachträgliche Qualifikation erfüllen.
 
-<sup>2</sup> Die nachträgliche Qualifikation setzt einen guten Hochschulabschluss, Berufspraxis, eine akademische Weiterbildung und die Eignung für die gewählte Master Research Unit voraus.
+<sup>2</sup> Die nachträgliche Qualifikation setzt einen guten Hochschulabschluss, Berufspraxis, eine akademische Weiterbildung und die Eignung für die gewählte Vertiefung am entsprechenden Institut oder Zentrum voraus.[^7-1]
 
 <sup>3</sup> Die Einzelheiten zur Definition eines sehr guten und guten Hochschulabschlusses und zu den übrigen Voraussetzungen der nachträglichen Qualifikation werden im Anhang festgehalten.
+
+[^7-1]: Fassung gemäss B vom 7. März 2024 (OS 79, 198; ABl 2024-04-19). In Kraft seit 1. August 2024. 1. 7. 24 - 125 5
 
 #### § 8
 
@@ -174,25 +172,22 @@ Jedes Modul ist einer Kategorie zugeordnet. Einzelheiten zu den Kategorien und d
 
 <sup>2</sup> Die Masterarbeit kann länger als ein Semester dauern.
 
-#### § 14
-
-**Nachbesserung**
-
-Für Module aus der Kategorie «Fachliche Vertiefung» und «Masterarbeit» kann eine Nachbesserung angeboten werden. Der Advisor entscheidet über Art und Zeitpunkt der Nachbesserung.
-
 **3**
 
-- 1\. 1. 23 - 119
+- 1\. 7. 24 - 125 § 14. Für Module aus der Kategorie «Fachliche Vertiefung» und «Masterarbeit» kann eine Nachbesserung angeboten werden. Der Advisor entscheidet über Art und Zeitpunkt der Nachbesserung.
+
+**Nachbesserung**
 
 ### E. Abschluss und Masterdiplom
 
 [^hEAbschlussundMas-1]: Fassung gemäss B vom 22. August 2019 (OS 75, 35; ABl 2019-11-01). In Kraft seit 1. April 2020.
+[^hEAbschlussundMas-2]: Fassung gemäss B vom 7. März 2024 (OS 79, 198; ABl 2024-04-19). In Kraft seit 1. August 2024. 1. 7. 24 - 125 5
 
 #### § 15
 
 **Abschluss des Studiums**
 
-<sup>1</sup> Der Mastertitel wird vergeben, wenn a. 90 ECTS-Credits[^hEAbschlussundMas-1] erreicht und b. alle Pflichtmodule gemäss Anhang bestanden sind.
+<sup>1</sup> Der Mastertitel wird vergeben, wenn a. 90 ECTS-Credits[^hEAbschlussundMas-1] erreicht und b.[^hEAbschlussundMas-2] alle vorgeschriebenen Plicht- und Wahlpflichtmodule bestanden sind.
 
 <sup>2</sup> Die Einzelheiten zur Verteilung der zu erwerbenden ECTS-Credits[^15-1] sind im Anhang geregelt.
 
@@ -229,15 +224,14 @@ Diese Studienordnung ersetzt die Studienordnung für den Masterstudiengang Engin
 <sup>2</sup> Im Übrigen gilt die Studienordnung gemäss der Änderung vom 22. August 2019.
 
 [^hGÜbergangsbestimmu-1]: Eingefügt durch B vom 22. August 2019 (OS 75, 35; ABl 2019-11-01). In Kraft seit 1. April 2020.
+[^hGÜbergangsbestimmu-2]: Fassung gemäss B vom 7. März 2024 (OS 79, 198; ABl 2024-04-19). In Kraft seit 1. August 2024. 1. 7. 24 - 125 5
 
 ### Anhang zur Studienordnung für den Masterstudiengang Engineering an der Zürcher Hochschule für Angewandte Wissenschaften
+
+[^hGÜbergangsbestimmu-2]
 
 Der Anhang zur Studienordnung für den Masterstudiengang Engineering an der Zürcher Hochschule für Angewandte Wissenschaften wird weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Er kann bei der
 
 Zürcher Hochschule für Angewandte Wissenschaften Ressort Bildung Gertrudstrasse 15 Postfach 8400 Winterthur
 
 bezogen oder unter www.zhaw.ch eingesehen werden.
-
-**5**
-
-- 1\. 1. 23 - 119
