@@ -4,13 +4,13 @@ number: "435.111.1"
 title: "Direktionsverordnung über die Berufsbildung, die Weiterbildung und die Berufsberatung"
 short: BerDV
 language: de
-version: 2023-08-01
-valid_until: 2024-07-31
-version_adopted: 2023-06-15
+version: 2024-08-01
+valid_until: 2025-07-31
+version_adopted: 2024-05-22
 adopted: 2006-04-06
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/435.111.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2844/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3038/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2844/pdf_file"
 
 (BerDV)
 
-vom 06.04.2006 (Stand 01.08.2023)
+vom 06.04.2006 (Stand 01.08.2024)
 
 Die Erziehungsdirektion des Kantons Bern,
 
@@ -29,13 +29,11 @@ beschliesst:
 
 [^ingress-1]: BSG 435.111
 
-## 1 Allgemeines
+## 1 Zuständigkeit für den französischsprachigen Kantonsteil
 
 #### Art. 1
 
-**Zuständigkeit für den französischsprachigen Kantonsteil**
-
-<sup>1</sup> Soweit nachfolgend die Abteilungen Betriebliche Bildung bzw. Berufsfachschulen für zuständig erklärt werden, ist für französischsprachige Lernende und Schulen die französischsprachige Abteilung des Mittelschul- und Berufsbildungsamts zuständig.
+<sup>1</sup> Soweit nachfolgend im Bereich der Grundbildung die Abteilungen Betriebliche Bildung bzw. Schulische Berufsbildung und Weiterbildung für zuständig erklärt werden, ist für französischsprachige Lernende und Schulen die französischsprachige Abteilung des Mittelschul- und Berufsbildungsamts zuständig.
 
 ## 2 Grundbildung
 
@@ -61,10 +59,11 @@ beschliesst:
 
 <sup>1</sup> In das BPI 1 kann aufgenommen werden, wer
 
-- a höchstens 25 Jahre alt ist,
+- a das 25. Altersjahr noch nicht vollendet hat,
 - b über keinen Abschluss der Sekundarstufe II verfügt,
 - c über genügende schulische Grundkompetenzen für die Berufsvorbereitung verfügt,
 - d …
+- d1 über einen Sprachstand A1 gemäss dem Gemeinsamen Europäischen Referenzrahmen für Sprachen (GER) mündlich und schriftlich verfügt und
 - e eine hohe Motivation für den Unterrichtsbesuch aufweist.
 - f …
 
@@ -75,7 +74,7 @@ beschliesst:
 - c 3. Priorität: Volljährige, mit einer Aufenthaltsbewilligung (Ausweis B) oder mit vorläufiger Aufnahme (Ausweis F oder S),
 - d 4. Priorität: Volljährige, während des Asylverfahrens (Ausweis N).
 
-<sup>3</sup> Erfüllen innerhalb dieser Priorisierung mehr Kandidatinnen und Kandidaten die Aufnahmebedingungen als Ausbildungsplätze zur Verfügung stehen, erfolgt die Aufnahme nach einem von der Berufsfachschule bestimmten Kriterienkatalog .
+<sup>3</sup> Erfüllen innerhalb dieser Priorisierung mehr Kandidatinnen und Kandidaten die Aufnahmebedingungen als Ausbildungsplätze zur Verfügung stehen, erfolgt die Aufnahme nach einem von der Berufsfachschule bestimmten Kriterienkatalog.
 
 #### Art. 2b
 
@@ -83,7 +82,7 @@ beschliesst:
 
 <sup>1</sup> In das BPI 2 kann aufgenommen werden, wer
 
-- a höchstens 25 Jahre alt ist,
+- a das 25. Altersjahr noch nicht vollendet hat,
 - b über keinen Abschluss der Sekundarstufe II verfügt,
 - c über genügende schulische Grundkompetenzen für die Berufsvorbereitung verfügt,
 - d über einen Sprachstand A2 gemäss GER mündlich und schriftlich verfügt und
@@ -105,7 +104,7 @@ beschliesst:
 
 <sup>1</sup> In das BPI 2 für Erwachsene kann aufgenommen werden, wer
 
-- a 20 bis 35 Jahre alt ist,
+- a mindestens das 20. Altersjahr vollendet und das 35. Altersjahr noch nicht vollendet hat,
 - b über keinen Abschluss der Sekundarstufe II verfügt,
 - c über genügende schulische Grundkompetenzen für die Berufsvorbereitung verfügt,
 - d über einen Sprachstand A2 gemäss GER mündlich und schriftlich verfügt,
@@ -120,7 +119,7 @@ beschliesst:
 
 <sup>1</sup> In das BPA oder das BVS Plus kann aufgenommen werden, wer
 
-- a in der Regel die obligatorische Schulzeit abgeschlossen hat und höchstens 25 Jahre alt ist,
+- a in der Regel die obligatorische Schulzeit abgeschlossen hat und das 25. Altersjahr noch nicht vollendet hat,
 - b über keinen Abschluss der Sekundarstufe II verfügt,
 - b1 über einen genügenden Sprachstand verfügt,
 - c sich aktiv am Berufswahlprozess beteiligt hat,
@@ -214,6 +213,43 @@ beschliesst:
 
 **…**
 
+### 2.1.4 Brückenangebote zur Vorbereitung auf bestimmte Grundbildungen
+
+#### Art. 6b
+
+**Angebot**
+
+<sup>1</sup> In Brückenangeboten zur Vorbereitung auf bestimmte Grundbildungen schliessen Erwachsene Lücken in den Grundkompetenzen Sprache, Mathematik und Kommunikationstechnologien (IKT) .
+
+#### Art. 6c
+
+**Aufnahmekriterien**
+
+<sup>1</sup> In ein Brückenangebot zur Vorbereitung auf bestimmte Grundbildungen kann aufgenommen werden, wer
+
+- a mindestens das 21. Altersjahr vollendet hat,
+- b über keinen Abschluss der Sekundarstufe II verfügt,
+- c im Arbeitsmarkt integriert oder in einem Beschäftigungs- und Integrationsprogramm der Sozialhilfe ist oder Berufserfahrung aufweist,
+- d über eine realistische Aussicht auf den Erwerb eines eidgenössisch anerkannten Berufsabschlusses in der beruflichen Grundbildung verfügt,
+- e über einen Sprachstand A2 gemäss GER mündlich und schriftlich verfügt und
+- f eine hohe Motivation für den Unterrichtsbesuch, individuelles Arbeiten und das Finden einer Anschlusslösung in die Berufsbildung aufweist.
+
+#### Art. 6d
+
+**Aufnahmeverfahren**
+
+<sup>1</sup> In einem standardisierten Bericht wird beurteilt, inwieweit eine Kandidatin oder ein Kandidat den Aufnahmekriterien entspricht.
+
+<sup>2</sup> Die Schulleitung der Berufsfachschule entscheidet mit Verfügung über die Aufnahme.
+
+<sup>3</sup> Der Aufnahmeentscheid berechtigt zum Unterrichtsbeginn im direkt folgenden Schuljahr.
+
+#### Art. 6e
+
+**Abschlussbeurteilung**
+
+<sup>1</sup> In der Abschlussbeurteilung eines Brückenangebots zur Vorbereitung auf bestimmte Grundbildungen werden die Grundkompetenzen beurteilt.
+
 ### 2.2 Bildung in beruflicher Praxis
 
 #### Art. 7
@@ -292,7 +328,7 @@ beschliesst:
 
 <sup>2</sup> Die Schulleitung kann für Lehrgänge der höheren Berufsbildung den Schuljahresbeginn auf einen anderen Zeitpunkt festsetzen.
 
-<sup>3</sup> Die Abteilung Berufsfachschulen des Mittelschul- und Berufsbildungsamts kann für besondere Ausbildungsmodelle der Sekundarstufe II Ausnahmen bewilligen.
+<sup>3</sup> Die Abteilung Schulische Berufsbildung und Weiterbildung des Mittelschul- und Berufsbildungsamts kann für besondere Ausbildungsmodelle der Sekundarstufe II Ausnahmen bewilligen.
 
 #### Art. 12
 
@@ -308,9 +344,9 @@ beschliesst:
 
 <sup>1</sup> Die Anzahl Lernender pro Klasse in berufsvorbereitenden Schuljahren ist im entsprechenden Lehrplan geregelt.
 
-<sup>2</sup> In der Vorlehre und in der beruflichen Grundbildung werden in der Regel Klassen mit höchstens 24 Lernenden gebildet. Die Abteilung Berufsfachschulen des Mittelschul- und Berufsbildungsamts entscheidet über Ausnahmen.
+<sup>2</sup> In der Vorlehre und in der beruflichen Grundbildung werden Klassen mit in der Regel höchstens 24 Lernenden gebildet. Die Abteilung Schulische Berufsbildung und Weiterbildung des Mittelschul- und Berufsbildungsamts entscheidet über Ausnahmen.
 
-<sup>3</sup> Sind weniger als 10 Lernende in einer Klasse, so bedarf die Schule einer Ausnahmebewilligung der Abteilung Berufsfachschulen des Mittelschul- und Berufsbildungsamts. Diese prüft, ob interkantonale Lösungen gefunden oder ob Klassen pro Berufsfeld oder mit mehreren Jahrgängen geführt werden können.
+<sup>3</sup> Sind weniger als zehn Lernende in einer Klasse, so bedarf die Schule einer Ausnahmebewilligung der Abteilung Schulische Berufsbildung und Weiterbildung des Mittelschul- und Berufsbildungsamts. Diese prüft, ob interkantonale Lösungen gefunden oder ob Klassen pro Berufsfeld oder mit mehreren Jahrgängen geführt werden können.
 
 <sup>4</sup> In der beruflichen Grundbildung mit Berufsattest (EBA) werden Klassen mit in der Regel 12 bis 15 Lernenden geführt.
 
@@ -330,7 +366,7 @@ beschliesst:
 
 **Ausserkantonaler Schulbesuch**
 
-<sup>1</sup> Die Abteilung Berufsfachschulen des Mittelschul- und Berufsbildungsamts bewilligt Lernenden auf begründetes Gesuch hin den ausserkantonalen Schulbesuch, sofern dieser für die Betroffenen eine wesentliche Erleichterung bedeutet.
+<sup>1</sup> Die Abteilung Schulische Berufsbildung und Weiterbildung des Mittelschul- und Berufsbildungsamts bewilligt Lernenden auf begründetes Gesuch hin den ausserkantonalen Schulbesuch, sofern dieser für die Betroffenen eine wesentliche Erleichterung bedeutet.
 
 #### Art. 16
 
@@ -346,7 +382,7 @@ beschliesst:
 
 <sup>2</sup> Die Semesternoten errechnen sich aufgrund erteilter Einzelnoten in schriftlichen oder mündlichen Arbeiten. Arbeiten, die trotz Mahnung und ohne zwingende Gründe nicht ausgeführt oder nicht fristgerecht abgegeben worden sind, werden mit der Note 1 bewertet.
 
-<sup>3</sup> In Fächern mit einer Wochenlektion müssen mindestens zwei Einzelnoten und in Fächern mit mehr als einer Wochenlektion mindestens drei Einzelnoten vorliegen.
+<sup>3</sup> In Fächern mit einer Wochenlektion und in Handlungskompetenzbereichen mit bis zu 40 Semesterlektionen müssen mindestens zwei Einzelnoten vorliegen. In Fächern mit mehr als einer Wochenlektion und in Handlungskompetenzbereichen mit mehr als 40 Semesterlektionen müssen mindestens drei Einzelnoten vorliegen.
 
 <sup>4</sup> Bei spezieller Unterrichtsorganisation wie Blockunterricht gelten die Vorgaben sinngemäss.
 
@@ -388,7 +424,7 @@ beschliesst:
 
 <sup>2</sup> Für Schulen mit Berufsmaturität (BM) beträgt die Summe der Lektionen für Stütz- und Freikurse pro Schuljahr höchstens drei Prozent der Lektionen Grundbildung ohne BM plus drei Prozent der Lektionen Grundausbildung inklusive Lektionen der BM 1 und der BM 2.
 
-<sup>3</sup> Die Abteilung Berufsfachschulen des Mittelschul- und Berufsbildungsamts entscheidet über Ausnahmen.
+<sup>3</sup> Die Abteilung Schulische Berufsbildung und Weiterbildung des Mittelschul- und Berufsbildungsamts entscheidet über Ausnahmen.
 
 <sup>4</sup> Lernende, die einen Stützkurs besuchen, können in der Regel keine Freikurse belegen. Die Schulleitung entscheidet mit Verfügung über Ausnahmen.
 
@@ -1121,7 +1157,7 @@ beschliesst:
 
 **Nachträglich erneut ausgestellte Ausweise**
 
-<sup>1</sup> Müssen Berufsmaturitätszeugnisse oder Notenausweise nachträglich erneut ausgestellt werden, bestätigt die Vorsteherin oder der Vorsteher der Abteilung Berufsfachschulen die Richtigkeit des neu ausgestellten Dokuments.
+<sup>1</sup> Müssen Berufsmaturitätszeugnisse oder Notenausweise nachträglich erneut ausgestellt werden, bestätigt die Vorsteherin oder der Vorsteher der Abteilung Schulische Berufsbildung und Weiterbildung die Richtigkeit des neu ausgestellten Dokuments.
 
 #### Art. 60
 
@@ -1263,7 +1299,7 @@ beschliesst:
 
 **Zuständigkeit**
 
-<sup>1</sup> Die Abteilung Betriebliche Bildung des Mittelschul- und Berufsbildungsamts koordiniert das Qualifikationsverfahren bei nicht formal erworbener Bildung zum Erwerb eines eidgenössisch anerkannten Abschlusses. Die Organisationen der Arbeitswelt, die Berufsfachschulen und die Abteilung Weiterbildung und Höhere Berufsbildung des Mittelschul- und Berufsbildungsamts sind beizuziehen.
+<sup>1</sup> Die Abteilung Betriebliche Bildung des Mittelschul- und Berufsbildungsamts koordiniert das Qualifikationsverfahren bei nicht formal erworbener Bildung zum Erwerb eines eidgenössisch anerkannten Abschlusses. Die Organisationen der Arbeitswelt, die Berufsfachschulen und die Abteilung Schulische Berufsbildung und Weiterbildung des Mittelschul- und Berufsbildungsamts sind beizuziehen.
 
 <sup>2</sup> Es gelten die Qualitätsvorgaben des Bundes oder die interkantonal vereinbarten Vorgaben.
 
@@ -1281,7 +1317,7 @@ beschliesst:
 - d dauern mindestens sechs Stunden oder entsprechend der festgelegten Mindestdauer und
 - e dauern pro Tag höchstens acht Stunden.
 
-<sup>2</sup> Die Mindestzahl der Teilnehmenden wird von der Abteilung Weiterbildung und Höhere Berufsbildung des Mittelschul- und Berufsbildungsamts festgelegt.
+<sup>2</sup> Die Mindestzahl der Teilnehmerinnen und Teilnehmer wird von der Abteilung Schulische Berufsbildung und Weiterbildung des Mittelschul- und Berufsbildungsamts festgelegt.
 
 <sup>3</sup> Ein allfälliger Nettoertragsüberschuss der Institution darf fünf Prozent der Gesamtkosten des geförderten Angebots nicht übersteigen. Er ist zweckgebunden für die Belange des geförderten Angebots einzusetzen. Die Anbieterorganisation legt über dessen Verwendung Rechenschaft ab.
 
@@ -1308,7 +1344,7 @@ beschliesst:
 - d Personen, die von tief greifenden wirtschaftlichen und technologischen Veränderungen betroffen sind, und
 - e Personen, die in der Weiterbildung tätig sind.
 
-<sup>3</sup> Die Abteilung Weiterbildung und Höhere Berufsbildung des Mittelschul- und Berufsbildungsamts kann begleitende Kinderbetreuung bewilligen. Der Beitrag je Kursstunde kann um 40 Franken pro Person, welche die Kinder betreut, erhöht werden. Die Kursgebühr muss auch einen Beitrag an die Kinderbetreuung beinhalten.
+<sup>3</sup> Die Abteilung Schulische Berufsbildung und Weiterbildung des Mittelschul- und Berufsbildungsamts kann begleitende Kinderbetreuung bewilligen. Der Beitrag je Kursstunde kann um 40 Franken pro Person, welche die Kinder betreut, erhöht werden. Die Kursgebühr muss auch einen Beitrag an die Kinderbetreuung beinhalten.
 
 <sup>4</sup> …
 
@@ -1335,7 +1371,7 @@ beschliesst:
 - b 105 Franken bei zwei Kursleiterinnen und Kursleitern und mindestens 16 Teilnehmerinnen und Teilnehmern,
 - c 150 Franken bei drei Kursleiterinnen und Kursleitern und mindestens 24 Teilnehmerinnen und Teilnehmern.
 
-<sup>3</sup> Die Abteilung Weiterbildung und Höhere Berufsbildung des Mittelschul- und Berufsbildungsamts kann begleitende Kinderbetreuung bewilligen. Der Beitrag je Kursstunde kann um 40 Franken pro Person, welche die Kinder betreut, erhöht werden. Die Kursgebühr muss auch einen Beitrag an die Kinderbetreuung beinhalten.
+<sup>3</sup> Die Abteilung Schulische Berufsbildung und Weiterbildung des Mittelschul- und Berufsbildungsamts kann begleitende Kinderbetreuung bewilligen. Der Beitrag je Kursstunde kann um 40 Franken pro Person, welche die Kinder betreut, erhöht werden. Die Kursgebühr muss auch einen Beitrag an die Kinderbetreuung beinhalten.
 
 #### Art. 78
 
@@ -1366,7 +1402,7 @@ beschliesst:
 - b Am Beratungsprozess beteiligt sind mindestens sechs Personen (exklusive Beratungsperson).
 - c Die Dauer der Beratung ist auf maximal 20 Stunden begrenzt (inklusive Vorgespräch).
 - d Ein Abbruch der Beratung setzt eine Auswertung zwischen Ratsuchenden und Beratungsperson voraus.
-- e Die Abteilung Weiterbildung und Höhere Berufsbildung des Mittelschul- und Berufsbildungsamts wird bei der Abrechnung über das Ergebnis der Beratung, nicht aber über den Beratungsprozess informiert.
+- e Die Abteilung Schulische Berufsbildung und Weiterbildung des Mittelschul- und Berufsbildungsamts wird bei der Abrechnung über das Ergebnis der Beratung, nicht aber über den Beratungsprozess informiert.
 
 <sup>3</sup> Der Beitrag beträgt 80 Prozent der Honorarkosten der Beratung bis zu einem Maximalbeitrag von 150 Franken pro Beratungsstunde sowie die Fahrspesen bis zur Höhe der öffentlichen Verkehrsmittel 2. Klasse.
 
@@ -1581,6 +1617,35 @@ beschliesst:
 - b Präsidentin bzw. Präsident Konferenz der Berufsfachschulen des Kantons Bern (KBB): 3000 Franken pro Jahr.
 
 <sup>2</sup> Für Sonderaufträge im Zusammenhang mit der Berufsmaturität kann den Expertinnen und Experten sowie den Hauptexpertinnen und Hauptexperten eine Entschädigung von 60 Franken pro Stunde ausgerichtet werden.
+
+### 6.5 Abgeltung der Unterstützung von berufseinsteigenden und wiedereinsteigenden Lehrkräften
+
+#### Art. 95a
+
+**Berufseinsteigende und wiedereinsteigende Lehrkräfte**
+
+<sup>1</sup> Berufseinsteigende Lehrkräfte sind Lehrkräfte, die das erste Mal selbstständig unterrichten und für mindestens ein Semester angestellt worden sind.
+
+<sup>2</sup> Wiedereinsteigende Lehrkräfte sind Lehrkräfte, die nach einer Pause von mindestens zwei Jahren wieder in den Beruf einsteigen und für mindestens ein Semester angestellt worden sind.
+
+#### Art. 95b
+
+**Unterstützung**
+
+<sup>1</sup> Die Unterstützung von berufseinsteigenden und wiedereinsteigenden Lehrkräften kann im ersten Jahr des selbstständigen Unterrichts abgegolten werden.
+
+<sup>2</sup> Sie wird von den Lehrkräften erbracht, die an derselben Schule unterrichten. Aus wichtigen Gründen kann sie von Lehrkräften erbracht werden, die an einer anderen Schule unterrichten.
+
+<sup>3</sup> Die Unterstützung wird in der Regel während eines Semesters abgegolten. In begründeten Fällen kann die Abgeltung um ein Semester verlängert werden.
+
+#### Art. 95c
+
+**Abgeltung**
+
+<sup>1</sup> Die Abgeltung der Unterstützung beträgt
+
+- a für die berufseinsteigende oder wiedereinsteigende Lehrkraft drei Beschäftigungsgradprozente,
+- b für die unterstützende Lehrkraft drei Beschäftigungsgradprozente pro unterstützte Lehrkraft.
 
 ## 7 Übergangs- und Schlussbestimmungen
 

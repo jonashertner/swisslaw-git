@@ -4,13 +4,13 @@ number: "435.111.1"
 title: "Ordonnance de Direction sur la formation professionnelle, la formation continue et l'orientation professionnelle"
 short: ODFOP
 language: fr
-version: 2023-08-01
-valid_until: 2024-07-31
-version_adopted: 2023-06-15
+version: 2024-08-01
+valid_until: 2025-07-31
+version_adopted: 2024-05-22
 adopted: 2006-04-06
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/435.111.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2844/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3038/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2844/pdf_file"
 
 (ODFOP)
 
-du 06.04.2006 (état au 01.08.2023)
+du 06.04.2006 (état au 01.08.2024)
 
 La Direction de l’instruction publique du canton de Berne,
 
@@ -29,11 +29,11 @@ arrête:
 
 [^ingress-1]: RSB 435.111
 
-## 1 Dispositions générales
+## 1 Compétence pour la partie francophone du canton
 
 #### Art. 1
 
-<sup>1</sup> Pour autant que la Section de la formation en entreprise ou la Section des écoles professionnelles soient déclarées compétentes ci-après, la Section francophone de l'Office des écoles moyennes et de la formation professionnelle est compétente pour les élèves et les écoles francophones.
+<sup>1</sup> Ci-après, pour autant que la Section de la formation en entreprise ou la Section de la formation professionnelle en école et de la formation continue soient déclarées compétentes dans le domaine de la formation professionnelle initiale, la Section francophone de l'Office des écoles moyennes et de la formation professionnelle est compétente pour les élèves et les écoles francophones.
 
 ## 2 Formation initiale
 
@@ -59,10 +59,11 @@ arrête:
 
 <sup>1</sup> Est admis en API 1 quiconque
 
-- a est âgé de 25 ans au plus;
+- a est âgé de moins de 25 ans;
 - b ne possède pas de diplôme du degré secondaire II;
 - c dispose de compétences scolaires de base suffisantes pour la préparation professionnelle;
 - d …
+- d1 a le niveau linguistique A1 à l'oral et à l'écrit selon le Cadre européen commun de référence pour les langues (CECR) et
 - e est très motivé à suivre l’enseignement.
 - f …
 
@@ -81,7 +82,7 @@ arrête:
 
 <sup>1</sup> Est admis en API 2 quiconque
 
-- a est âgé de 25 ans au plus;
+- a est âgé de moins de 25 ans;
 - b ne possède pas de diplôme du degré secondaire II;
 - c dispose de compétences scolaires de base suffisantes pour la préparation professionnelle;
 - d a le niveau linguistique A2 à l'oral et à l'écrit selon le CECR et
@@ -103,7 +104,7 @@ arrête:
 
 <sup>1</sup> Est admis en API 2 pour adultes quiconque
 
-- a est âgé de 20 à 35 ans;
+- a est âgé de 20 ans au moins et n'a pas encore atteint l'âge de 35 ans;
 - b ne possède pas de diplôme du degré secondaire II;
 - c dispose de compétences scolaires de base suffisantes pour la préparation professionnelle;
 - d a le niveau linguistique A2 à l'oral et à l'écrit selon le CECR;
@@ -118,7 +119,7 @@ arrête:
 
 <sup>1</sup> Est admis en APF ou en APP plus quiconque
 
-- a a, en règle générale, achevé la scolarité obligatoire et est âgé de 25 ans au plus;
+- a a, en règle générale, achevé la scolarité obligatoire et est âgé de moins de 25 ans;
 - b ne possède pas de diplôme du degré secondaire II;
 - b1 dispose d'un niveau linguistique suffisant;
 - c a participé activement au processus de choix professionnel;
@@ -212,6 +213,43 @@ arrête:
 
 **…**
 
+### 2.1.4 Formations transitoires préparant à certaines formations initiales
+
+#### Art. 6b
+
+**Offre**
+
+<sup>1</sup> Les formations transitoires préparant à certaines formations initiales permettent aux adultes de combler leurs lacunes dans les compétences de base langues, mathématiques et technologies de l'information et de la communication (TIC).
+
+#### Art. 6c
+
+**Critères d'admission**
+
+<sup>1</sup> Est admis à une formation transitoire préparant à certaines formations initiales quiconque
+
+- a est âgé d'au moins 21 ans;
+- b ne possède pas de diplôme du degré secondaire II;
+- c est intégré dans le marché du travail, participe à un programme d'occupation et d'insertion proposé par l’aide sociale ou dispose d'une expérience professionnelle;
+- d a des chances réalistes d'obtenir un diplôme professionnel fédéral reconnu dans le cadre d'une formation professionnelle initiale;
+- e a le niveau linguistique A2 à l'oral et à l'écrit selon le CECR et
+- f est très motivé à suivre l'enseignement, à travailler de manière autonome et à accéder à une formation professionnelle.
+
+#### Art. 6d
+
+**Procédure d'admission**
+
+<sup>1</sup> La mesure dans laquelle un candidat ou une candidate remplit les critères d'admission est évaluée dans un rapport standardisé.
+
+<sup>2</sup> La direction de l'école professionnelle statue par voie de décision sur l'admission.
+
+<sup>3</sup> La décision d'admission autorise à suivre les cours dans l'année scolaire qui suit.
+
+#### Art. 6e
+
+**Evaluation finale**
+
+<sup>1</sup> L'évaluation finale de la formation transitoire préparant à certaines formations initiales porte sur les compétences de base des candidats et des candidates.
+
 ### 2.2 Formation à la pratique professionnelle
 
 #### Art. 7
@@ -290,7 +328,7 @@ arrête:
 
 <sup>2</sup> Pour les filières de la formation professionnelle supérieure, la direction d’école peut fixer le début de l’année scolaire à une autre date.
 
-<sup>3</sup> La Section des écoles professionnelles de l’Office des écoles moyennes et de la formation professionnelle peut autoriser des exceptions pour des modèles de formation particuliers du degré secondaire II.
+<sup>3</sup> La Section de la formation professionnelle en école et de la formation continue de l’Office des écoles moyennes et de la formation professionnelle peut autoriser des exceptions pour des modèles de formation particuliers du degré secondaire II.
 
 #### Art. 12
 
@@ -306,9 +344,9 @@ arrête:
 
 <sup>1</sup> Le nombre de personnes en formation par classe dans les années scolaires de préparation professionnelle est réglé dans le plan d’études correspondant.
 
-<sup>2</sup> Dans le préapprentissage ainsi que dans la formation professionnelle initiale, les classes comprennent en règle générale au plus 24 personnes en formation. La Section des écoles professionnelles de l’Office des écoles moyennes et de la formation professionnelle statue sur les exceptions.
+<sup>2</sup> Dans le préapprentissage ainsi que dans la formation professionnelle initiale, les classes comprennent en règle générale au plus 24 personnes en formation. La Section de la formation professionnelle en école et de la formation continue de l’Office des écoles moyennes et de la formation professionnelle statue sur les exceptions.
 
-<sup>3</sup> Si une classe compte moins de dix personnes en formation, l’école doit disposer d’une autorisation dérogatoire délivrée par la Section des écoles professionnelles de l’Office des écoles moyennes et de la formation professionnelle. Celle-ci vérifie si des solutions intercantonales peuvent être trouvées ou si des classes par domaine professionnel ou comprenant plusieurs volées peuvent être organisées.
+<sup>3</sup> Si une classe compte moins de dix personnes en formation, l’école doit disposer d’une autorisation dérogatoire délivrée par la Section de la formation professionnelle en école et de la formation continue de l’Office des écoles moyennes et de la formation professionnelle. Celle-ci vérifie si des solutions intercantonales peuvent être trouvées ou si des classes par domaine professionnel ou comprenant plusieurs volées peuvent être organisées.
 
 <sup>4</sup> Dans la formation professionnelle initiale sanctionnée par une attestation professionnelle fédérale (APF), les classes comprennent en règle générale 12 à 15 élèves.
 
@@ -328,7 +366,7 @@ arrête:
 
 **Fréquentation scolaire intercantonale**
 
-<sup>1</sup> La Section des écoles professionnelles de l’Office des écoles moyennes et de la formation professionnelle autorise les personnes en formation, sur demande motivée, à fréquenter une école en dehors du canton, pour autant que cela décharge considérablement les personnes concernées.
+<sup>1</sup> La Section de la formation professionnelle en école et de la formation continue de l’Office des écoles moyennes et de la formation professionnelle autorise les personnes en formation, sur demande motivée, à fréquenter une école en dehors du canton, pour autant que cela décharge considérablement les personnes concernées.
 
 #### Art. 16
 
@@ -344,7 +382,7 @@ arrête:
 
 <sup>2</sup> Les notes semestrielles sont calculées à partir des différentes notes individuelles obtenues à l’écrit et à l’oral. La note 1 est attribuée aux travaux qui, en dépit d’avertissements et sans motif valable, ne sont pas exécutés ou rendus dans les délais impartis.
 
-<sup>3</sup> Dans les branches n’ayant qu’une leçon hebdomadaire, au moins deux notes doivent être attribuées et dans celles ayant plus d’une leçon hebdomadaire, au moins trois notes.
+<sup>3</sup> Dans les branches n’ayant qu’une leçon hebdomadaire et dans les domaines de compétences opérationnelles ayant jusqu'à 40 leçons par semestre, au moins deux notes doivent être attribuées. Dans les branches ayant plus d’une leçon hebdomadaire et dans les domaines de compétences opérationnelles ayant plus de 40 leçons par semestre, au moins trois notes doivent être attribuées.
 
 <sup>4</sup> En cas d’organisation particulière de l’enseignement, telle que l’enseignement sous forme de blocs, les dispositions s’appliquent par analogie.
 
@@ -386,7 +424,7 @@ arrête:
 
 <sup>2</sup> Le nombre de leçons octroyées aux écoles proposant la maturité professionnelle (MP), par année scolaire, pour les cours d'appui et les cours facultatifs s'élève à trois pour cent au maximum des leçons prévues pour la formation initiale sans MP, auxquels s'ajoutent trois pour cent des leçons prévues pour la formation initiale, y compris les leçons de la MP 1 et de la MP 2.
 
-<sup>3</sup> La Section des écoles professionnelles de l’Office des écoles moyennes et de la formation professionnelle statue sur les exceptions.
+<sup>3</sup> La Section de la formation professionnelle en école et de la formation continue de l’Office des écoles moyennes et de la formation professionnelle statue sur les exceptions.
 
 <sup>4</sup> Les personnes qui suivent un cours d'appui ne peuvent en règle générale pas suivre de cours facultatifs. La direction d'école statue par voie de décision sur les exceptions.
 
@@ -1119,7 +1157,7 @@ arrête:
 
 **Certificats émis ultérieurement**
 
-<sup>1</sup> Si des certificats de maturité professionnelle ou des bulletins de notes doivent être émis ultérieurement, la cheffe ou le chef de la Section des écoles moyennes atteste l'exactitude du document nouvellement émis.
+<sup>1</sup> Si des certificats de maturité professionnelle ou des bulletins de notes doivent être émis ultérieurement, la cheffe ou le chef de la Section de la formation professionnelle en école et de la formation continue atteste l'exactitude du document nouvellement émis.
 
 #### Art. 60
 
@@ -1261,7 +1299,7 @@ arrête:
 
 **Compétence**
 
-<sup>1</sup> La Section de la formation en entreprise de l'Office des écoles moyennes et de la formation professionnelle coordonne la procédure de qualification visant à l'obtention d'un titre de fin d'études reconnu par la Confédération en cas de formation acquise par des voies informelles. Les organisations du monde du travail, les écoles professionnelles ainsi que la Section de la formation continue et de la formation professionnelle supérieure de l'Office des écoles moyennes et de la formation professionnelle doivent être consultées.
+<sup>1</sup> La Section de la formation en entreprise de l'Office des écoles moyennes et de la formation professionnelle coordonne la procédure de qualification visant à l'obtention d'un titre de fin d'études reconnu par la Confédération en cas de formation acquise par des voies informelles. Les organisations du monde du travail, les écoles professionnelles ainsi que la Section de la formation professionnelle en école et de la formation continue de l'Office des écoles moyennes et de la formation professionnelle doivent être consultées.
 
 <sup>2</sup> Les prescriptions en matière de qualité édictées par la Confédération ou les prescriptions convenues au niveau intercantonal sont applicables.
 
@@ -1279,7 +1317,7 @@ arrête:
 - d durent au moins six heures ou ont une durée conforme à la durée minimale fixée;
 - e durent au plus huit heures par jour.
 
-<sup>2</sup> Le nombre minimum de participants et de participantes est fixé par la Section de la formation continue et de la formation professionnelle supérieure de l’Office des écoles moyennes et de la formation professionnelle.
+<sup>2</sup> Le nombre minimum de participants et de participantes est fixé par la Section de la formation professionnelle en école et de la formation continue de l’Office des écoles moyennes et de la formation professionnelle.
 
 <sup>3</sup> Un éventuel excédent de revenus nets de l’institution ne doit pas dépasser cinq pour cent des frais totaux de la formation encouragée. Il doit être exclusivement affecté aux intérêts de la formation en question. L’organisation formatrice rend des comptes sur son utilisation.
 
@@ -1306,7 +1344,7 @@ arrête:
 - d personnes concernées par de profondes mutations économiques et technologiques, et
 - e personnes actives dans la formation continue.
 
-<sup>3</sup> La Section de la formation continue et de la formation professionnelle supérieure de l’Office des écoles moyennes et de la formation professionnelle peut autoriser l’offre d’un service de garde d’enfants pendant les cours. Le montant de la subvention par heure de cours peut être relevé de 40 francs par personne assurant ce service. La taxe de cours doit comprendre une contribution à ce service de garde d’enfants.
+<sup>3</sup> La Section de la formation professionnelle en école et de la formation continue de l’Office des écoles moyennes et de la formation professionnelle peut autoriser l’offre d’un service de garde d’enfants pendant les cours. Le montant de la subvention par heure de cours peut être relevé de 40 francs par personne assurant ce service. La taxe de cours doit comprendre une contribution à ce service de garde d’enfants.
 
 <sup>4</sup> …
 
@@ -1333,7 +1371,7 @@ arrête:
 - b avec deux animateurs ou animatrices de cours et au moins 16 participants ou participantes: 105 francs,
 - c avec trois animateurs ou animatrices de cours et au moins 24 participants ou participantes: 150 francs.
 
-<sup>3</sup> La Section de la formation continue et de la formation professionnelle supérieure de l’Office des écoles moyennes et de la formation professionnelle peut autoriser l’offre d’un service de garde d’enfants pendant les cours. Le montant de la subvention par heure de cours peut être relevé de 40 francs par personne assurant ce service. La taxe de cours doit comprendre une contribution à ce service de garde d’enfants.
+<sup>3</sup> La Section de la formation professionnelle en école et de la formation continue de l’Office des écoles moyennes et de la formation professionnelle peut autoriser l’offre d’un service de garde d’enfants pendant les cours. Le montant de la subvention par heure de cours peut être relevé de 40 francs par personne assurant ce service. La taxe de cours doit comprendre une contribution à ce service de garde d’enfants.
 
 #### Art. 78
 
@@ -1364,7 +1402,7 @@ arrête:
 - b Six personnes au minimum (conseillère ou conseiller non compris) participent au processus de conseil.
 - c La durée du conseil est limitée à 20 heures (entretien préalable compris).
 - d Une interruption du processus de conseil suppose une évaluation entre le groupement conseillé et le conseiller ou la conseillère.
-- e La Section de la formation continue et de la formation professionnelle supérieure de l’Office des écoles moyennes et de la formation professionnelle est informée dans le décompte du résultat du conseil mais pas du processus lui-même.
+- e La Section de la formation professionnelle en école et de la formation continue de l’Office des écoles moyennes et de la formation professionnelle est informée dans le décompte du résultat du conseil mais pas du processus lui-même.
 
 <sup>3</sup> La subvention correspond à 80 pour cent des frais d’honoraires jusqu’à concurrence de 150 francs par heure de conseil et couvre les frais de transport jusqu’à concurrence du tarif de 2 e classe des transports publics.
 
@@ -1579,6 +1617,35 @@ arrête:
 - b président ou présidente de la Conférence des écoles professionnelles du canton de Berne: 3000 francs par année.
 
 <sup>2</sup> Une indemnité de 60 francs par heure peut être versée aux experts et expertes ainsi qu'aux experts principaux et expertes principales pour des mandats spéciaux en lien avec la maturité professionnelle.
+
+### 6.5 Rétribution du soutien apporté aux membres du corps enseignant en début de carrière ou reprenant l'activité d'enseignement
+
+#### Art. 95a
+
+**Membres du corps enseignant en début de carrière ou reprenant l'activité d'enseignement**
+
+<sup>1</sup> Les membres du corps enseignant en début de carrière sont des personnes qui enseignent pour la première fois de manière autonome et qui sont engagées pour un semestre au minimum.
+
+<sup>2</sup> Les membres du corps enseignant reprenant l'activité d'enseignement sont des personnes qui reprennent l'activité d'enseignement après une pause d'au moins deux ans et qui sont engagées pour un semestre au minimum.
+
+#### Art. 95b
+
+**Soutien**
+
+<sup>1</sup> Le soutien apporté aux membres du corps enseignant en début de carrière ou reprenant l'activité d'enseignement peut être rétribué pendant la première année d'enseignement autonome.
+
+<sup>2</sup> Il est apporté par des membres du corps enseignant qui enseignent dans la même école. Pour de justes motifs, il peut être apporté par des membres du corps enseignant qui enseignent dans une autre école.
+
+<sup>3</sup> En règle générale, il est rétribué pendant un semestre. Dans des cas motivés, la rétribution peut être prolongée d'un semestre.
+
+#### Art. 95c
+
+**Rétribution**
+
+<sup>1</sup> Le soutien est rétribué à hauteur
+
+- a de trois pour cent de degré d'occupation pour les membres du corps enseignant en début de carrière ou reprenant l'activité d'enseignement,
+- b de trois pour cent de degré d'occupation par personne soutenue pour les personnes apportant leur soutien.
 
 ## 7 Dispositions transitoires et dispositions finales
 
