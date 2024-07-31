@@ -3,20 +3,19 @@ canton: LU
 number: 540b
 title: Studien- und Prüfungsordnung der Rechtswissenschaftlichen Fakultät der Universität Luzern
 language: de
-version: 2017-08-01
-valid_until: 2024-07-31
-version_adopted: 2016-09-28
+version: 2024-08-01
+version_adopted: 2024-06-26
 adopted: 2016-09-28
 in_force: 2017-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/540b"
-pdf: "https://srl.lu.ch/api/de/versions/2909/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4426/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Studien- und Prüfungsordnung der Rechtswissenschaftlichen Fakultät der Universität Luzern
 
-vom 28.09.2016 (Stand 01.08.2017)
+vom 28.09.2016 (Stand 01.08.2024)
 
 Der Universitätsrat der Universität Luzern,
 
@@ -32,7 +31,7 @@ beschliesst:
 
 #### § 1
 
-**Studienangebot**
+**Studiengänge**
 
 <sup>1</sup> Das Studienangebot der Rechtswissenschaftlichen Fakultät der Universität Luzern (nachfolgend Fakultät) umfasst:
 
@@ -46,9 +45,9 @@ beschliesst:
 - a. das Masterstudium mit interdisziplinären Zusatzausbildungen (Master Plus) mit einer Regelstudiendauer von vier Semestern,
 - b. gemeinsame Masterstudien mit anderen Fakultäten oder Universitäten im In- und Ausland (interfakultäre oder -universitäre Masterstudien) mit einer Regelstudiendauer von vier Semestern.
 
-<sup>3</sup> Die Fakultät fördert die Mobilität im Masterstudium durch definierte Mobilitätsfenster, den Abschluss von Vereinbarungen sowie die Anrechnung von Studienleistungen an anderen Rechtsfakultäten des In- und Auslandes.
+<sup>3</sup> …
 
-<sup>4</sup> Die Fakultät bietet Weiterbildungen an.
+<sup>4</sup> …
 
 #### § 2
 
@@ -70,8 +69,8 @@ beschliesst:
 
 - a. Bachelor of Law der Universität Luzern (BLaw),
 - b. Master of Law der Universität Luzern (MLaw),
-- c. Doktorin bzw. Doktor der Rechtswissenschaft (Dr. iur.),
-- d. Doktorin bzw. Doktor der Rechtswissenschaft ehrenhalber (Dr. iur. h.c.).
+- c. Doktorin oder Doktor der Rechtswissenschaft (Dr. iur.),
+- d. Doktorin oder Doktor der Rechtswissenschaft ehrenhalber (Dr. iur. h.c.).
 
 <sup>2</sup> Zudem kann die Fakultät die folgenden Titel verleihen, sofern ein entsprechendes Studienangebot besteht:
 
@@ -87,11 +86,19 @@ beschliesst:
 
 <sup>2</sup> Die Fakultät organisiert ihr Lehrangebot so, dass die im Musterstudienplan aufgeführten Lehrveranstaltungen regelmässig und, soweit es um Pflichtveranstaltungen geht, für das Vollzeitstudium kollisionsfrei angeboten werden.
 
+#### § 4a
+
+**Aufzeichnungen**
+
+<sup>1</sup> Vorlesungen aus dem Bachelorstudium werden aufgezeichnet und den Studierenden als Podcasts zur Verfügung gestellt. Ausgenommen sind Übungsveranstaltungen, Proseminare und Seminare.
+
+<sup>2</sup> Es ist den Studierenden untersagt, Veranstaltungen der Fakultät ohne ausdrückliche Einwilligung der oder des Dozierenden aufzuzeichnen.
+
 #### § 5
 
 **Berechnung der Studienleistungen**
 
-<sup>1</sup> Die Fakultät berechnet die Studienleistungen in ECTS-Credits (European Credit Transfer and Accumulation System; im Folgenden „Credits“). Ein Credit entspricht einer durchschnittlichen Arbeitsleistung von 30 Stunden.
+<sup>1</sup> Die Fakultät berechnet die Studienleistungen in Credits gemäss dem Europäischen System zur Übertragung und Akkumulierung von Studienleistungen (European Credit Transfer and Accumulation System, ECTS). Ein Credit entspricht einer durchschnittlichen Arbeitsleistung von 30 Stunden.
 
 <sup>2</sup> Credits werden erworben, wenn
 
@@ -100,9 +107,7 @@ beschliesst:
 
 #### § 6
 
-**Studienberatung**
-
-<sup>1</sup> Die Fakultät bietet eine Studienberatung an.
+**…**
 
 ## 2 Studieninhalte
 
@@ -112,13 +117,13 @@ beschliesst:
 
 **Ziel**
 
-<sup>1</sup> Mit dem bestandenen Bachelorstudium weist die Kandidatin bzw. der Kandidat nach, dass sie bzw. er sich die grundlegenden methodischen und fachlichen Kenntnisse angeeignet hat, welche für eine fachkundige und verantwortungsbewusste juristische Tätigkeit erforderlich sind und welche die Voraussetzungen für das Masterstudium schaffen.
+<sup>1</sup> Mit dem bestandenen Bachelorstudium weist die Kandidatin oder der Kandidat nach, dass sie oder er sich die grundlegenden methodischen und fachlichen Kenntnisse angeeignet hat, welche für eine fachkundige und verantwortungsbewusste juristische Tätigkeit erforderlich sind und welche die Voraussetzungen für das Masterstudium schaffen.
 
 #### § 8
 
 **Zulassung**
 
-<sup>1</sup> Zum Bachelorstudium wird zugelassen, wer die Bedingungen gemäss § 31 des Universitätsstatuts[^8-1] erfüllt oder über einen anerkannten Hochschulabschluss anderer Fachrichtungen verfügt.
+<sup>1</sup> Zum Bachelorstudium wird zugelassen, wer die Bedingungen gemäss § 44 des Statuts der Universität Luzern (Universitätsstatut[^8-1]) erfüllt.
 
 <sup>2</sup> Nicht zugelassen wird zum Bachelorstudium, wer an einer anderen Rechtsfakultät des In- oder Auslandes wegen ungenügender Leistungen endgültig abgewiesen worden ist oder das Studium der Rechtswissenschaft im Nebenfach nicht bestanden hat.
 
@@ -128,7 +133,7 @@ beschliesst:
 
 **Gliederung**
 
-<sup>1</sup> Das Bachelorstudium ist gegliedert in das Assessment und das Aufbaustudium. Das Bachelorstudium soll im Vollzeitstudium nach sechs Semestern beendet werden.
+<sup>1</sup> Das Bachelorstudium ist gegliedert in das Assessment und das Aufbaustudium. Die Regelstudiendauer beträgt im Vollzeitstudium sechs Semester.
 
 #### § 10
 
@@ -192,7 +197,7 @@ beschliesst:
 
 <sup>1</sup> Das Aufbaustudium besteht, wer
 
-- a. einen genügenden Notendurchschnitt (§ 50) erreicht,
+- a. im Bachelorstudium (Assessment und Aufbaustudium) einen genügenden Gesamtnotendurchschnitt erreicht hat,
 - b. nicht mehr als zwei ungenügende Noten erzielt, von denen höchstens eine auf eine Prüfung nach den Modulen gemäss § 12 Absatz 2a-d fällt, und
 - c. die mit «passed/failed» bewerteten Module mit «passed» abschliesst.
 
@@ -209,7 +214,7 @@ beschliesst:
 - a. das Assessment (§ 11) und das Aufbaustudium (§ 13) bestanden hat und
 - b. im Abschlusssemester sowie während mindestens eines weiteren Semesters nach bestandenem Assessment an der Fakultät immatrikuliert war.
 
-<sup>2</sup> Aus den benoteten Leistungen des Assessments sowie des Aufbaustudiums wird eine Gesamtnote (Notendurchschnitt) sowie ein Gesamtprädikat errechnet.
+<sup>2</sup> Aus den benoteten Leistungen des Bachelorstudiums wird eine Gesamtnote (Notendurchschnitt) sowie ein Gesamtprädikat errechnet.
 
 #### § 15
 
@@ -217,7 +222,7 @@ beschliesst:
 
 <sup>1</sup> Nach Abschluss des Bachelorstudiums erfolgt die Diplomierung zum Bachelor of Law (BLaw) der Universität Luzern.
 
-<sup>2</sup> Die Fakultät verleiht ein mit der Unterschrift der Dekanin bzw. des Dekans versehenes Diplom mit dem Prädikat des Bachelorstudiums. Die Namen der Diplomierten werden veröffentlicht.
+<sup>2</sup> Die Fakultät verleiht ein mit der Unterschrift der Dekanin oder des Dekans versehenes Diplom mit dem Prädikat des Bachelorstudiums. Die Namen der Diplomierten werden veröffentlicht.
 
 <sup>3</sup> Mit dem Diplom werden ein Zeugnis sowie ein Diplomzusatz (Diploma Supplement) ausgestellt. Auf dem Zeugnis werden die absolvierten Module sowie die Bewertungen der für den Abschluss des Bachelorstudiums zählenden Leistungskontrollen (§ 11 und § 13) sowie der Notendurchschnitt aufgeführt. Das Diploma Supplement enthält Erläuterungen zum Studium.
 
@@ -227,13 +232,13 @@ beschliesst:
 
 **Ziel**
 
-<sup>1</sup> Mit dem bestandenen Masterstudium weist die Kandidatin bzw. der Kandidat nach, dass sie bzw. er sich fortgeschrittene methodische und fachliche Kenntnisse angeeignet hat, welche für eine fachkundige und verantwortungsbewusste juristische Tätigkeit auf anspruchsvollem Niveau erforderlich sind und welche die Voraussetzungen für juristische Weiterbildungen schaffen.
+<sup>1</sup> Mit dem bestandenen Masterstudium weist die Kandidatin oder der Kandidat nach, dass sie oder er sich fortgeschrittene methodische und fachliche Kenntnisse angeeignet hat, welche für eine fachkundige und verantwortungsbewusste juristische Tätigkeit auf anspruchsvollem Niveau erforderlich sind und welche die Voraussetzungen für juristische Weiterbildungen schaffen.
 
 #### § 17
 
 **Zulassung**
 
-<sup>1</sup> Zum Masterstudium wird zugelassen, wer mindestens über einen Bachelorabschluss oder einen äquivalenten Abschluss verfügt. Nicht zugelassen wird, wer an einer anderen Rechtsfakultät des In- oder Auslandes wegen ungenügender Leistungen endgültig abgewiesen worden ist oder das Studium der Rechtswissenschaft im Nebenfach nicht bestanden hat.
+<sup>1</sup> Zum Masterstudium wird zugelassen, wer mindestens über einen Bachelorabschluss in Rechtswissenschaft oder einen äquivalenten Abschluss verfügt. Nicht zugelassen wird, wer an einer anderen Rechtsfakultät des In- oder Auslandes wegen ungenügender Leistungen endgültig abgewiesen worden ist oder das Studium der Rechtswissenschaft im Nebenfach nicht bestanden hat.
 
 <sup>2</sup> Inhaberinnen und Inhaber eines universitären schweizerischen Bachelordiploms in Rechtswissenschaft haben Anspruch auf Zulassung ohne weitere Bedingungen.
 
@@ -254,16 +259,16 @@ beschliesst:
 - c. schriftliche Falllösung,
 - d. Gastlehrveranstaltung.
 
-<sup>3</sup> Als Wahlfächer können im Rahmen des Angebots auch absolviert werden:
+<sup>3</sup> Als Wahlfächer können im Rahmen des Angebots auch angerechnet werden:
 
 - a. ein Moot Court,
 - b. eine Summer oder Winter School,
-- c. Legal Clinics,
+- c. eine Law Clinic,
 - d. höchstens zwei nichtjuristische Wahlfächer.
 
 <sup>4</sup> Wahlfächer werden mit einer mündlichen oder schriftlichen Prüfung oder ausnahmsweise, nach Absprache mit der Dekanin oder dem Dekan, mit einer anderen Art der Leistungskontrolle (z.B. schriftliche Arbeit oder mündliche Präsentation) abgeschlossen. Wahlfächer werden grundsätzlich benotet; nichtjuristische Wahlfächer sowie im Rahmen der Mobilität an ausländischen Universitäten absolvierte Wahlfächer werden mit «passed/failed» bewertet.
 
-<sup>5</sup> Es können höchstens zwei Gastlehrveranstaltungen absolviert werden.
+<sup>5</sup> Es können höchstens zwei Gastlehrveranstaltungen angerechnet werden.
 
 <sup>6</sup> An das Masterstudium kann ein von der Fakultät anerkanntes juristisches Praktikum im Umfang von mindestens vier Wochen angerechnet werden. Das Praktikum wird mit «passed» bewertet, wenn eine Praktikumsbestätigung des Arbeitgebers vorliegt.
 
@@ -291,19 +296,25 @@ beschliesst:
 
 #### § 21
 
-**Gemeinsame Masterstudien mit anderen Universitäten**
+**Gemeinsame Masterstudiengänge mit anderen Fakultäten oder Universitäten**
 
-<sup>1</sup> Die Fakultät kann gemeinsame Masterstudien mit anderen Fakultäten oder Universitäten im In- und Ausland (interfakultäre oder -universitäre Masterstudien) anbieten und zu diesem Zweck entsprechende Vereinbarungen abschliessen.
+<sup>1</sup> Die Fakultät kann gemeinsame Masterstudiengänge mit anderen Fakultäten oder Universitäten im In- und Ausland (interfakultäre oder -universitäre Masterstudien) anbieten und zu diesem Zweck entsprechende Vereinbarungen abschliessen.
 
-<sup>2</sup> Ein interuniversitäres Masterstudium umfasst in der Regel 120 Credits.
+<sup>2</sup> Ein interfakultäres oder interuniversitäres Masterstudium umfasst in der Regel 120 Credits.
+
+#### § 21a
+
+**Double-Degree-Masterstudiengänge**
+
+<sup>1</sup> Sofern an einer Partneruniversität im Rahmen eines Double-Degree-Masterstudiengangs erbrachte Studienleistungen zu einem eigenständigen juristischen Abschluss an dieser Universität führen, können davon höchstens 30 Credits an das Masterstudium angerechnet werden. Die Fakultät kann dabei vorsehen, dass einzelne von der Fakultät angebotene Mastermodule an das Masterstudium nicht oder nur teilweise anrechenbar sind.
 
 #### § 22
 
 **Mobilität im Masterstudium**
 
-<sup>1</sup> Die Fakultät schliesst zur Förderung der Mobilität im Masterstudium im Rahmen des übergeordneten Rechts Vereinbarungen mit anderen Universitäten bzw. Fakultäten ab oder beteiligt sich an solchen Vereinbarungen.
+<sup>1</sup> Die Fakultät fördert die Mobilität im Masterstudium durch den Abschluss von Vereinbarungen sowie durch die Anrechnung von Studienleistungen an anderen Rechtsfakultäten des In- und Auslandes.
 
-<sup>2</sup> Sofern an einer ausländischen Universität erbrachte Studienleistungen zu einem eigenständigen juristischen Abschluss an dieser Universität führen, können davon höchstens 30 Credits an das Masterstudium angerechnet werden. Die Fakultät kann dabei vorsehen, dass einzelne von der Fakultät angebotene Mastermodule an das Masterstudium nicht oder nur teilweise anrechenbar sind.
+<sup>2</sup> …
 
 #### § 23
 
@@ -341,7 +352,7 @@ beschliesst:
 
 <sup>1</sup> Nach Abschluss des Masterstudiums erfolgt die Diplomierung zum Master of Law (MLaw) der Universität Luzern. Nach Abschluss eines Master Plus erfolgt die Diplomierung zum Master of Law der Universität Luzern mit interdisziplinärer Zusatzausbildung (MLaw + [Bezeichnung der Zusatzausbildung]).
 
-<sup>2</sup> Die Fakultät verleiht ein mit der Unterschrift der Dekanin bzw. des Dekans versehenes Diplom mit dem Prädikat des Masterstudiums. Die Namen der Diplomierten werden veröffentlicht.
+<sup>2</sup> Die Fakultät verleiht ein mit der Unterschrift der Dekanin oder des Dekans versehenes Diplom mit dem Prädikat des Masterstudiums. Die Namen der Diplomierten werden veröffentlicht.
 
 <sup>3</sup> Mit dem Diplom werden ein Zeugnis sowie ein Diplomzusatz (Diploma Supplement) ausgestellt. Auf dem Zeugnis werden die absolvierten Module sowie die Bewertungen der für den Abschluss des Masterstudiums zählenden Leistungskontrollen (§ 18 und evtl. § 20) sowie der Notendurchschnitt aufgeführt. Das Diploma Supplement enthält Erläuterungen zum Studium.
 
@@ -351,7 +362,7 @@ beschliesst:
 
 **Ziel**
 
-<sup>1</sup> Mit dem abgeschlossenen Doktorat weist die Kandidatin bzw. der Kandidat die Fähigkeit zu selbständiger wissenschaftlicher Arbeit nach.
+<sup>1</sup> Mit dem abgeschlossenen Doktorat weist die Kandidatin oder der Kandidat die Fähigkeit zu selbständiger wissenschaftlicher Arbeit nach.
 
 #### § 27
 
@@ -368,15 +379,17 @@ beschliesst:
 - a. ein mindestens mit dem Gesamtprädikat «cum laude» bestandenes Masterstudium der Fakultät oder einen gleichwertigen Masterabschluss einer anderen Universität,
 - b. die Betreuungszusage nach § 29.
 
-<sup>2</sup> Ist die Voraussetzung nach Absatz 1a nicht erfüllt, kann auf Antrag einer Person mit Ordinariat oder Extraordinariat die Kandidatin bzw. der Kandidat ausnahmsweise zum Doktorat zugelassen werden. Die Fakultät regelt die Einzelheiten.
+<sup>2</sup> Ist die Voraussetzung nach Absatz 1a nicht erfüllt, kann auf Antrag einer Person mit Ordinariat oder Extraordinariat die Kandidatin oder der Kandidat ausnahmsweise zum Doktorat zugelassen werden. Die Fakultät regelt die Einzelheiten.
 
 #### § 29
 
 **Betreuung**
 
-<sup>1</sup> Dissertationen können von Personen mit Ordinariat oder Extraordinariat betreut werden. Die Fakultät ist befugt, weitere Personen zur Betreuung von Dissertationen zuzulassen.
+<sup>1</sup> Dissertationen können von Mitgliedern der Fakultätsversammlung nach § 3 Absatz 1a des Fakultätsreglements der Rechtswissenschaftlichen Fakultät[^29-1] betreut werden. Die Fakultät ist befugt, weitere Personen zur Betreuung von Dissertationen zuzulassen.
 
 <sup>2</sup> Personen, die bereit sind, eine Dissertation zu betreuen, stellen eine schriftliche Betreuungszusage aus.
+
+[^29-1]: SRL Nr. [540a](https://srl.lu.ch/data/540a/de)
 
 #### § 30
 
@@ -392,7 +405,7 @@ beschliesst:
 
 <sup>2</sup> Das Kolloquium wird von einem Kollegium geleitet, dem die mit dem Erst- und Zweitgutachten betrauten Personen sowie eine Person mit Ordinariat und Extraordinariat angehören; Letztere führt den Vorsitz.
 
-<sup>3</sup> Das Kolloquium ist öffentlich und dauert 45 Minuten. Die Kandidatin bzw. der Kandidat stellt die Ergebnisse der Dissertation vor und verteidigt diese. Sie bzw. er hat dabei vertiefte Kenntnisse auf dem Gebiet der Dissertation nachzuweisen.
+<sup>3</sup> Das Kolloquium ist öffentlich und dauert 45 Minuten. Die Kandidatin oder der Kandidat stellt die Ergebnisse der Dissertation vor und verteidigt diese. Sie oder er hat dabei vertiefte Kenntnisse auf dem Gebiet der Dissertation nachzuweisen.
 
 #### § 32
 
@@ -401,17 +414,17 @@ beschliesst:
 <sup>1</sup> Das Doktorat ist abgeschlossen, wenn
 
 - a. das Erst- und Zweitgutachten die Fortsetzung des Verfahrens beantragen sowie das Doktoratskolloquium bestanden ist und
-- b. die Doktorandin bzw. der Doktorand während der Dauer der Dissertation an der Fakultät immatrikuliert war.
+- b. die Doktorandin oder der Doktorand während der Dauer der Dissertation an der Fakultät immatrikuliert war.
 
-<sup>2</sup> Aufgrund des Erst- und Zweitgutachtens sowie des Doktoratskolloquiums legt das Kollegium (§ 31) das Prädikat des Doktorats fest. Das Prädikat wird zusammen mit den beiden Gutachten und einem Bericht über das Kolloquium der bzw. dem Prüfungsdelegierten mitgeteilt.
+<sup>2</sup> Aufgrund des Erst- und Zweitgutachtens sowie des Doktoratskolloquiums legt das Kollegium (§ 31) das Prädikat des Doktorats fest.
 
 #### § 33
 
 **Promotion**
 
-<sup>1</sup> Nach Abschluss des Doktorats verfügt die Dekanin bzw. der Dekan die Promotion zur Doktorin bzw. zum Doktor der Rechtswissenschaft (Dr. iur.).
+<sup>1</sup> Nach Abschluss des Doktorats verfügt die Dekanin oder der Dekan die Promotion zur Doktorin oder zum Doktor der Rechtswissenschaft (Dr. iur.).
 
-<sup>2</sup> Die Fakultät verleiht ein mit der Unterschrift der Dekanin bzw. des Dekans versehenes Diplom mit dem Prädikat des Doktorats. Die Promotion wird veröffentlicht.
+<sup>2</sup> Die Fakultät verleiht ein mit der Unterschrift der Dekanin oder des Dekans versehenes Diplom mit dem Prädikat des Doktorats. Die Promotion wird veröffentlicht.
 
 #### § 34
 
@@ -419,13 +432,13 @@ beschliesst:
 
 <sup>1</sup> Die Fakultät legt die Anzahl der ihr einzureichenden Pflichtexemplare der Dissertation fest.
 
-<sup>2</sup> Werden die Pflichtexemplare spätestens ein Jahr nach der Promotion nicht eingereicht, so entzieht die Dekanin bzw. der Dekan den Doktortitel nach unbenutztem Ablauf einer Nachfrist und Anhören der säumigen Person.
+<sup>2</sup> Werden die Pflichtexemplare spätestens ein Jahr nach der Promotion nicht eingereicht, so entzieht die Dekanin oder der Dekan den Doktortitel nach unbenutztem Ablauf einer Nachfrist und Anhören der säumigen Person.
 
 #### § 35
 
 **Doktor der Rechtswissenschaft ehrenhalber**
 
-<sup>1</sup> Die Fakultät kann Personen, die sich um die Rechtswissenschaft oder das Rechtswesen verdient gemacht haben, den Doktorgrad der Rechtswissenschaft ehrenhalber (Dr. iur. h.c.) verleihen. Der entsprechende Beschluss erfordert die Zustimmung von mindestens zwei Dritteln der anwesenden stimmberechtigten Mitglieder der Fakultätsversammlung.
+<sup>1</sup> Die Fakultät kann Personen, die sich um die Rechtswissenschaft oder das Rechtswesen verdient gemacht haben, den Doktorgrad der Rechtswissenschaft ehrenhalber (Dr. iur. h.c.) verleihen.
 
 ### 2.4 Rechtswissenschaft im Nebenfach
 
@@ -449,61 +462,55 @@ beschliesst:
 
 **Anrechnung von Studienleistungen**
 
-<sup>1</sup> Die Fakultät schliesst über die Anrechnung von gleichwertigen Studienleistungen und deren Bewertungen im Rahmen des übergeordneten Rechts Vereinbarungen mit anderen Universitäten bzw. Fakultäten ab oder beteiligt sich an solchen Vereinbarungen.
+<sup>1</sup> Die Fakultät schliesst über die Anrechnung von gleichwertigen Studienleistungen und deren Bewertungen im Rahmen des übergeordneten Rechts Vereinbarungen mit anderen Universitäten oder Fakultäten ab oder beteiligt sich an solchen Vereinbarungen.
 
 <sup>2</sup> Über die Anrechnung von gleichwertigen Studienleistungen und deren Bewertungen im Einzelfall entscheidet die Dekanin oder der Dekan.
 
-<sup>3</sup> Leistungen, die Voraussetzung für die Zulassung zum Bachelor- oder Masterstudium bilden, sowie Leistungen im Rahmen eines anderen Abschlusses können nicht angerechnet werden; vorbehalten bleibt § 22.
+<sup>3</sup> Leistungen, die Voraussetzung für die Zulassung zum Bachelor- oder Masterstudium bilden, sowie Leistungen im Rahmen eines anderen Abschlusses können nicht angerechnet werden; vorbehalten bleibt § 21a.
 
 <sup>4</sup> Die Fakultät regelt die Einzelheiten; sie wahrt dabei die Chancengleichheit der Studierenden.
 
 #### § 39
 
-**Delegation**
-
-<sup>1</sup> Die Dekanin oder der Dekan kann die Aufgaben nach den §§ 37 und 38 einem Mitglied der Fakultätsversammlung mit unbefristeter Professur delegieren.
+**…**
 
 ### 3.2 Zuständigkeiten für Leistungskontrollen
 
 #### § 40
 
-**Prüfungsdelegierte bzw. Prüfungsdelegierter und Prüfungsausschuss**
-
-<sup>1</sup> Die Fakultät bestimmt ein Mitglied der Fakultätsversammlung mit unbefristeter Professur als Prüfungsdelegierte bzw. Prüfungsdelegierten und umschreibt die Aufgaben.
-
-<sup>2</sup> Die Fakultät kann einzelne Aufgaben einem Ausschuss übertragen, der aus der Dekanin bzw. dem Dekan, der Prüfungsdelegierten bzw. dem Prüfungsdelegierten sowie den Vorsitzenden der Fachbereiche besteht.
+**…**
 
 #### § 41
 
 **Prüfungsberechtigte**
 
-<sup>1</sup> Prüfungen und andere Leistungskontrollen werden durch Professorinnen bzw. Professoren sowie durch promovierte Dozentinnen bzw. Dozenten im Rahmen ihrer jeweiligen Lehraufträge abgenommen und bewertet.
+<sup>1</sup> Leistungskontrollen werden durch Professorinnen oder Professoren sowie durch promovierte Dozentinnen oder Dozenten im Rahmen ihrer jeweiligen Lehraufträge abgenommen und bewertet.
 
-<sup>2</sup> Andere Dozentinnen und Dozenten können durch die Fakultät zur Abnahme und Bewertung von Prüfungen und anderen Leistungskontrollen ermächtigt werden.
+<sup>2</sup> Andere Dozentinnen und Dozenten können durch die Fakultät zur Abnahme und Bewertung von Leistungskontrollen ermächtigt werden.
 
 ### 3.3 Modalitäten der Leistungskontrollen
 
 #### § 42
 
-**Anmeldung zu Prüfungen**
+**Anmeldung zu Leistungskontrollen**
 
-<sup>1</sup> Die Studierenden müssen sich zu Prüfungen verbindlich anmelden.
+<sup>1</sup> Die Studierenden müssen sich zu allen Leistungskontrollen verbindlich anmelden.
 
 #### § 43
 
-**Verzicht auf Prüfungsantritt und Prüfungsabbruch**
+**Verzicht auf Antritt der Leistungskontrolle und Abbruch der Leistungskontrolle**
 
-<sup>1</sup> Tritt eine Kandidatin bzw. ein Kandidat die Prüfung nicht an oder legt sie bzw. er ohne triftigen Grund nicht alle Prüfungsteile ab, so gilt die Prüfung als nicht bestanden. Triftige Gründe sind namentlich eine eigene, durch Arztzeugnis nachgewiesene Krankheit oder ein Todesfall in der Familie.
+<sup>1</sup> Tritt eine Kandidatin oder ein Kandidat ohne triftigen Grund die Leistungskontrolle nicht an oder legt sie oder er nicht alle Teile der Leistungskontrolle ab, so gilt die Leistungskontrolle als nicht bestanden. Die Folge davon ist die Note 1 oder ein «failed».
 
 #### § 44
 
-**Prüfungszeitpunkt**
+**Zeitpunkt der Leistungskontrolle**
 
 <sup>1</sup> Prüfungssessionen finden zweimal jährlich nach Abschluss der Lehrveranstaltungen statt. Die Daten werden durch das Dekanat rechtzeitig bekannt gemacht.
 
-<sup>2</sup> Der Haupttermin einer Prüfung findet in der Prüfungssession im Anschluss an das jeweilige Modul bzw. die Lehrveranstaltung statt. In der folgenden Prüfungssession findet eine Nebenterminprüfung statt. Es besteht kein Recht auf Durchführung einer weiteren Prüfung.
+<sup>2</sup> Der Haupttermin einer Prüfung findet in der Prüfungssession im Anschluss an das jeweilige Modul oder die Lehrveranstaltung statt. In der folgenden Prüfungssession findet eine Nebenterminprüfung statt. Es besteht kein Recht auf Durchführung einer weiteren Prüfung.
 
-<sup>3</sup> Bei Gastlehrveranstaltungen wird die Prüfung zeitnah zur jeweiligen Lehrveranstaltung durchgeführt. Eine Nebenterminprüfung findet nicht statt.
+<sup>3</sup> Bei Gastlehrveranstaltungen wird die Leistungskontrolle zeitnah zur jeweiligen Lehrveranstaltung durchgeführt. Eine Nebenterminprüfung findet nicht statt.
 
 #### § 45
 
@@ -519,7 +526,7 @@ beschliesst:
 
 <sup>1</sup> Mündliche Einzelprüfungen dauern 20 Minuten, mündliche Zweierprüfungen 30 Minuten.
 
-<sup>2</sup> Eine wissenschaftliche Assistentin bzw. ein wissenschaftlicher Assistent zeichnet den Gang und den wesentlichen Inhalt des Prüfungsgesprächs auf.
+<sup>2</sup> Der Gang und der wesentliche Inhalt des Prüfungsgespräch werden protokolliert oder aufgezeichnet.
 
 #### § 47
 
@@ -531,17 +538,15 @@ beschliesst:
 
 #### § 48
 
-**Verlängerung der Prüfungsdauer**
+**Nachteilsausgleich**
 
-<sup>1</sup> Die bzw. der Prüfungsdelegierte kann bei Vorliegen triftiger Gründe, insbesondere wegen einer anderen Maturitätssprache als Deutsch, die Dauer mündlicher und schriftlicher Prüfungen im Einzelfall auf Gesuch hin angemessen verlängern.
+<sup>1</sup> Die Gewährung von Nachteilsausgleichen richtet sich nach § 62 des Universitätsstatuts[^48-1].
+
+[^48-1]: SRL Nr. [539c](https://srl.lu.ch/data/539c/de)
 
 #### § 49
 
-**Schriftliche Arbeiten**
-
-<sup>1</sup> Seminararbeiten und Masterarbeiten werden nach Möglichkeit mit den Forschungsaktivitäten der Prüfenden vernetzt.
-
-<sup>2</sup> Werden schriftliche Arbeiten für Forschungsarbeiten ausgewertet, so wird dies kenntlich gemacht.
+**…**
 
 ### 3.4 Bewertung von Leistungen
 
@@ -568,7 +573,7 @@ beschliesst:
 <tr><td>1</td><td>unbrauchbar</td></tr>
 </table>
 
-<sup>3</sup> Für die Berechnung des Notendurchschnitts im Bachelorstudium werden die benoteten Leistungskontrollen grundsätzlich einfach gewichtet; die Prüfungen des Aufbaustudiums gemäss § 12 Absatz 2a-d werden doppelt gewichtet.
+<sup>3</sup> Für die Berechnung des Notendurchschnitts im Bachelorstudium werden die benoteten Leistungskontrollen grundsätzlich einfach gewichtet; die Prüfungen des Aufbaustudiums gemäss § 12 Absatz 2a—d werden doppelt gewichtet. Bei wiederholten Leistungskontrollen zählt die Note des letzten Versuchs.
 
 <sup>4</sup> Noten von Modulen des Masterstudiums mit zehn oder mehr Credits werden für den Notendurchschnitt zweifach gewichtet.
 
@@ -599,7 +604,7 @@ beschliesst:
 - c. die Ruhe im Raum absichtlich zu stören,
 - d. weiterzuschreiben, nachdem durch die Prüfungsaufsicht das Ende der Prüfungszeit erklärt worden ist. Die Prüfungszeit richtet sich nach den Vorgaben der Wegleitung.
 
-<sup>2</sup> Im Falle von Unkorrektheiten bei Prüfungen kann die Dekanin oder der Dekan auf Nichtbestehen bzw. auf Note 1 erkennen. Vorbehalten bleiben Sanktionen der Universität gemäss § 36 des Universitätsstatuts[^52-1] und die Strafverfolgung.
+<sup>2</sup> Im Falle von Unkorrektheiten bei Prüfungen kann die Dekanin oder der Dekan auf Nichtbestehen bzw. auf Note 1 erkennen. Vorbehalten bleiben Disziplinarsanktionen gemäss § 48 des Universitätsstatuts[^52-1] und die Strafverfolgung.
 
 [^52-1]: SRL Nr. [539c](https://srl.lu.ch/data/539c/de)
 
@@ -612,11 +617,13 @@ beschliesst:
 - a. die fachliche Mitarbeit von Drittpersonen in Anspruch zu nehmen,
 - b. aus anderen Quellen ohne Quellenangabe zu zitieren (Plagiate).
 
-<sup>2</sup> Im Falle von Unkorrektheiten bei schriftlichen Arbeiten kann die Dekanin oder der Dekan auf Nichtbestehen bzw. auf Note 1 erkennen. Vorbehalten bleiben Sanktionen der Universität gemäss § 36 des Universitätsstatuts[^53-1] und die Strafverfolgung.
+<sup>1<sup>bis</sup></sup> Schriftliche Arbeiten von Studierenden können zum Zweck der Überprüfung auf Plagiat mit entsprechender Software analysiert werden. Dazu können sie in einer Datenbank gespeichert und zur Überprüfung von Arbeiten Dritter verwendet werden.
+
+<sup>2</sup> Im Falle von Unkorrektheiten bei schriftlichen Arbeiten kann die Dekanin oder der Dekan auf Nichtbestehen bzw. auf Note 1 erkennen. Vorbehalten bleiben Disziplinarsanktionen gemäss § 48 des Universitätsstatuts[^53-1] und die Strafverfolgung.
 
 <sup>3</sup> Im Falle von Unkorrektheiten bei Dissertationen kann das Kollegium (§ 31) auf Nichtbestehen erkennen oder bei Geringfügigkeit eine Verbesserung zulassen.
 
-<sup>4</sup> Der Entzug von Titeln wegen Unkorrektheiten bei schriftlichen Arbeiten und Dissertationen richtet sich nach § 19 Absätze 2 und 3 des Universitätsstatuts.
+<sup>4</sup> Der Entzug von Titeln wegen Unkorrektheiten bei schriftlichen Arbeiten und Dissertationen richtet sich nach § 72 Absatz 3 des Universitätsstatuts.
 
 [^53-1]: SRL Nr. [539c](https://srl.lu.ch/data/539c/de)
 
@@ -659,15 +666,10 @@ beschliesst:
 
 **Übergangsbestimmungen**
 
-<sup>1</sup> Ab Herbstsemester 2017 werden alle Studiengänge nach der vorliegenden Ordnung (StuPO 2016) durchgeführt.
+<sup>1</sup> Ab Herbstsemester 2024 werden alle Studiengänge nach dieser Studien- und Prüfungsordnung durchgeführt.
 
-<sup>2</sup> Für Studierende, die den Bachelor, den Master oder das Nebenfach vor dem Herbstsemester 2017 begonnen, aber nicht abgeschlossen haben und nicht endgültig abgewiesen wurden, gelten die folgenden Übergangsbestimmungen:
+<sup>2</sup> …
 
-- a. Studierende, die ihr Bachelorstudium vor dem Herbstsemester 2017 begonnen haben, schliessen das Bachelorstudium nach bisherigem Recht ab. Das Bachelorstudium gemäss Studien- und Prüfungsordnung vom 29. Juni 2011 (StuPO 2011) kann noch bis Ende Frühjahrssemester 2021 abgeschlossen werden. Das Bachelorstudium gemäss der Studien- und Prüfungsordnung vom 27. Juni 2001 bzw. gemäss der Studien- und Prüfungsordnung vom 23. Januar 2008 kann noch bis Ende Frühjahrssemester 2018 abgeschlossen werden.
-- b. Studierende, die ihr Masterstudium vor dem Herbstsemester 2017 aufgenommen haben, beenden ihr Masterstudium nach bisherigem Recht. Masterstudierende unter der StuPO 2011 können mit einem Gesuch an die Dekanin bzw. den Dekan um die Unterstellung unter die StuPO 2016 ersuchen.
-- c. Studierende, die das Studium der Rechtswissenschaft im Nebenfach vor dem Herbstsemester 2017 aufgenommen haben, schliessen dieses nach bisherigem Recht ab.
-- d. Studierende, die den doppelten Wahlschwerpunkt Politische Ökonomie vor dem Herbstsemester 2017 begonnen haben, schliessen diesen nach bisherigem Recht ab.
-
-<sup>3</sup> Ab HS 2017 re-immatrikulierte Studierende gelten als Neustudierende und unterstehen der StuPO 2016.
+<sup>3</sup> …
 
 G 2016-48
