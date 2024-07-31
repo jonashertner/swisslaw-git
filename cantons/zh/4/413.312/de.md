@@ -4,11 +4,11 @@ number: "413.312"
 title: Verordnung über die Finanzierung von Leistungen der Berufsbildung (VFin BBG)
 short: VFin BBG
 language: de
-version: "2018-11-01"
-nachtrag: "103"
-valid_until: 2024-08-01
+version: "2024-08-01"
+nachtrag: "125"
+valid_until: 2025-09-01
 adopted: 2010-11-24
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_312-2010_11_24-2011_01_01-103.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_312-2010_11_24-2011_01_01-125.html"
 text: pdf
 ---
 
@@ -54,9 +54,9 @@ Diese Verordnung regelt den Vollzug der §§ 35–43 betreffend Leistungsvereinb
 
 **1**
 
-- 1\. 1. 19 - 103
+- 1\. 7. 24 - 125
 
-### C. Kostenübernahme, Kostenanteile und Subventionen
+### C. Kostenanteile und Subventionen<sup>20</sup>
 
 #### § 3
 
@@ -120,7 +120,13 @@ Das Amt kann die Ausrichtung von Staatsbeiträgen von Auflagen wie Mindest- oder
 
 <sup>4</sup> Bei Bildungseinrichtungen, die keinen Auftrag im Sinne von Abs. 1 erfüllen, kann die Bildungsdirektion in besonderen Fällen Subventionen von höchstens 75% der anrechenbaren Aufwendungen ausrichten.
 
-§ 5 d.<sup>17</sup>
+**c. Grundkompetenzen Erwachsener**
+
+§ 5 d.<sup>17,</sup> <sup>19</sup> Das Amt kann Subventionen bis zur vollen Höhe der ungedeckten anrechenbaren Aufwendungen ausrichten:
+
+- a. gemäss § 37 Abs. 3 lit. a EG BBG an Dritte, die im Auftrag des Kantons Angebote für Erwachsene mit Wohnsitz im Kanton Zürich führen,
+
+- b. gemäss § 37 Abs. 3 lit. b EG BBG an Dritte, die im Auftrag des Kantons Massnahmen durchführen.
 
 **Kostenanteil für Berufsvorbereitungsjahre**
 
@@ -214,15 +220,15 @@ Beiträge können durch das Amt gekürzt, verweigert oder zurückgefordert werde
 
 **b. Ermässigung oder Erlass**
 
-<sup>1</sup> Besteht für ein Bildungsangebot ein besonderes öffentliches Interesse, kann das Amt ein ermässigtes Schul- oder Kursgeld vorschreiben.
+<sup>1</sup> Besteht an einem Bildungsangebot ein besonderes öffentliches Interesse, kann das Amt eine Ermässigung oder den Erlass der Schul- oder Kursgelder vorschreiben.<sup>20</sup>
 
 <sup>2</sup> Lernende der Sekundarstufe I mit Wohnsitz im Kanton bezahlen die Hälfte des ordentlichen Kursgeldes für an ihrer Schule nicht vermittelte Bildungsangebote, mit denen sie die für eine Berufslehre vorausgesetzten Fähigkeiten erlangen.
 
-<sup>3</sup> Lernende mit Wohnsitz im Kanton, die eine Lehre absolvieren oder eine Mittelschule oder eine Berufsmaturitätsschule besuchen, bezahlen für Weiterbildungsangebote, die ihnen nicht als Freikurs ermöglicht werden, die Hälfte des ordentlichen Kursgeldes.
-
 **5**
 
-- 1\. 1. 19 - 103
+- 1\. 7. 24 - 125
+
+<sup>3</sup> Lernende mit Wohnsitz im Kanton, die eine Lehre absolvieren oder eine Mittelschule oder eine Berufsmaturitätsschule besuchen, bezahlen für Weiterbildungsangebote, die ihnen nicht als Freikurs ermöglicht werden, die Hälfte des ordentlichen Kursgeldes.
 
 <sup>4</sup> Bei Lehrpersonen und Mitarbeitenden einer Berufsfachschule kann die Schulleitung das Kursgeld ermässigen, wenn der Besuch eines schuleigenen Angebots im Interesse der Schule ist.
 
@@ -232,13 +238,13 @@ Beiträge können durch das Amt gekürzt, verweigert oder zurückgefordert werde
 
 **c. Kleingruppenzuschlag**
 
-Wird eine mit der Bildungseinrichtung vereinbarte Mindestzahl an Teilnehmenden nur knapp unterschritten, kann die Bildungseinrichtung den Kurs unter Erhebung eines Kleingruppenzuschlags von 20% des Kursgeldes durchführen, wenn die Kursteilnehmenden damit einverstanden sind.
+<sup>1</sup> Wird eine mit der Bildungseinrichtung vereinbarte Mindestzahl an Teilnehmenden nur knapp unterschritten, kann die Bildungseinrichtung den Kurs unter Erhebung eines Kleingruppenzuschlags von 20% des Kursgeldes durchführen, wenn die Kursteilnehmenden damit einverstanden sind.
 
-#### § 18
+<sup>2</sup> In begründeten Fällen kann das Amt für Angebote zum Erwerb und Erhalt von Grundkompetenzen Erwachsener Ausnahmen von der Erhebung des Kleingruppenzuschlags bewilligen.<sup>19</sup>
 
 **d. Nachholbildung**
 
-<sup>1</sup> Personen, die eine Nachholbildung gemäss § 42 lit. b der Verordnung zum EG BBG vom 8. Juli 2009 (VEG BBG)<sup>4</sup> absolvieren, entrichten a. ein Schul- oder Kursgeld,
+§ 18. <sup>1</sup> Personen, die eine Nachholbildung gemäss § 42 lit. b der Verordnung zum EG BBG vom 8. Juli 2009 (VEG BBG)<sup>4</sup> absolvieren, entrichten a. ein Schul- oder Kursgeld,
 
 - b. die im Zusammenhang mit dem Qualifikationsverfahren stehenden Materialkosten,
 
@@ -300,13 +306,13 @@ Für Unterrichtsmaterial und von der Bildungseinrichtung abgegebene persönliche
 
 <sup>1</sup> Bis zum Abschluss einer Leistungsvereinbarung gemäss § 35 EG BBG bemisst sich der Staatsbeitrag nach den Beitragsleistungen, die der Kanton und der Bund der Bildungseinrichtung bisher ausgerichtet haben. Er setzt sich aus einem Grundbetrag und einer ergänzenden Pauschale zusammen.
 
+**7**
+
+- 1\. 7. 24 - 125
+
 <sup>2</sup> Der Grundbeitrag entspricht dem Staatsbeitrag gemäss der Verordnung über Staatsbeiträge an die Berufsbildung vom 2. Dezember 1987. Die ergänzende Pauschale bemisst sich nach dem durchschnittlichen Bundesbeitragsanteil der Beitragsjahre 2008 und 2009.
 
 <sup>3</sup> Die Übergangsbestimmungen gemäss Abs.1 und 2 gelten bis 31. Dezember 2012.
-
-**7**
-
-- 1\. 1. 19 - 103
 
 ### Übergangsbestimmungen zur Änderung vom 19. Dezember 2012
 
@@ -374,9 +380,13 @@ An vorbereitende Kurse für eidgenössische Berufsprüfungen und eidgenössische
 
 <sup>18</sup> Fassung gemäss RRB vom 20. September 2017 (OS 73, 436; ABl 2017-10-06). In Kraft seit 1. November 2018 (ABl 2018-09-07).
 
+<sup>19</sup> Eingefügt durch RRB vom 17. April 2024 (OS 79, 196; ABl 2024-05-03). In Kraft seit 1. August 2024.
+
+<sup>20</sup> Fassung gemäss RRB vom 17. April 2024 (OS 79, 196; ABl 2024-05-03). In Kraft seit 1. August 2024.
+
 **9**
 
-- 1\. 1. 19 - 103
+- 1\. 7. 24 - 125
 
 ### Anhang 1<sup>6,</sup> <sup>9</sup>
 
@@ -450,9 +460,9 @@ Angebot (in Franken)
 
 **11**
 
-- 1\. 1. 19 - 103
+- 1\. 7. 24 - 125
 
 ## Weitere Fussnoten
 
 - [*] Fundstelle: www.mba.zh.ch/internet/bildungsdirektion/mba/de/ personal\_finanzen/finanzen/beitragswesen.html.
-- [*] Fundstelle: www.mba.zh.ch/internet/bildungsdirektion/mba/de/ personal\_finanzen/finanzen/beitragswesen.html. 1. 1. 19 - 103 3
+- [*] Fundstelle: www.mba.zh.ch/internet/bildungsdirektion/mba/de/ personal\_finanzen/finanzen/beitragswesen.html. 1. 7. 24 - 125 3
