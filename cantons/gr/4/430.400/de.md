@@ -4,13 +4,13 @@ number: "430.400"
 title: Kantonale Berufsmaturitätsverordnung
 short: kBMV
 language: de
-version: 2015-03-01
-corrected: 2024-03-15
-version_adopted: 2015-02-17
+version: 2024-08-01
+valid_until: 2026-06-30
+version_adopted: 2024-04-29
 adopted: 2026-06-23
 in_force: 2026-07-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/430.400"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3367/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3432/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3367/pdf_file"
 
 (kBMV)
 
-Vom 17.02.2015 (Stand 01.03.2015)
+Vom 17.02.2015 (Stand 01.08.2024)
 
 Gestützt auf Art. 45 der Kantonsverfassung[^ingress-1]
 
@@ -62,7 +62,7 @@ von der Regierung erlassen am 17. Februar 2015
 <sup>2</sup> Keine Aufnahmeprüfung abzulegen hat, wer:
 
 - a) für die vierte Gymnasialklasse promoviert ist;
-- b) im Jahr des Eintritts oder im vorangehenden Kalenderjahr die Aufnahmeprüfung einer Fach-, Handels- oder Wirtschaftsmittelschule bestanden und die dritte Klasse der Oberstufe absolviert hat;
+- b) im Jahr des Eintritts oder im vorangehenden Kalenderjahr die Aufnahmeprüfung in eine Fach-, Informatik-, Handels- oder Wirtschaftsmittelschule bestanden und die dritte Klasse der Sekundarstufe I absolviert hat;
 - c) von der Berufsmaturitätsschule aufgrund gleichwertiger Voraussetzungen aufgenommen wird.
 
 <sup>3</sup> Die prüfungsfreie Aufnahme erfolgt provisorisch für ein Semester.
@@ -223,13 +223,13 @@ von der Regierung erlassen am 17. Februar 2015
 
 **Ersatzprüfung**
 
-<sup>1</sup> Bei Nichtbestehen der erweiterten Allgemeinbildung in einem lehrbegleitenden Lehrgang, in dem diese mit Berufskunde integrativ vermittelt wird, nimmt die Berufsmaturitätsschule eine Ersatzprüfung vor. Damit wird festgestellt, ob die Ergebnisse der Berufsmaturitätsprüfung den Anforderungen für den Erwerb des Eidgenössischen Fähigkeitszeugnisses genügen.
+<sup>1</sup> Bei Nichtbestehen der erweiterten Allgemeinbildung in einem lehrbegleitenden Lehrgang, in dem diese mit Berufskunde integrativ vermittelt wird, nimmt die Berufsmaturitätsschule eine Ersatzprüfung vor. Damit wird festgestellt, ob die Ergebnisse der Berufsmaturitätsprüfung den Anforderungen für den Erwerb des eidgenössischen Fähigkeitszeugnisses genügen.
 
 #### Art. 25
 
 **Wiederholungsprüfung**
 
-<sup>1</sup> Wer weder die Bedingungen für den Erwerb des Eidgenössischen Fähigkeitszeugnisses noch die Bedingungen für den Berufsmaturitätsabschluss erfüllt, kann das Qualifikationsverfahren und den Berufsmaturitätsabschluss oder nur das Qualifikationsverfahren wiederholen.
+<sup>1</sup> Wer weder die Bedingungen für den Erwerb des eidgenössischen Fähigkeitszeugnisses noch die Bedingungen für den Berufsmaturitätsabschluss erfüllt, kann das Qualifikationsverfahren und den Berufsmaturitätsabschluss oder nur das Qualifikationsverfahren wiederholen.
 
 <sup>2</sup> Eine Prüfungswiederholung findet frühestens am nächsten ordentlichen Prüfungstermin statt.
 

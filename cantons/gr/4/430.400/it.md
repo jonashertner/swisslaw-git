@@ -4,13 +4,13 @@ number: "430.400"
 title: Ordinanza cantonale sulla maturità professionale
 short: OCMPr
 language: it
-version: 2015-03-01
-corrected: 2024-03-15
-version_adopted: 2015-02-17
+version: 2024-08-01
+valid_until: 2026-06-30
+version_adopted: 2024-04-29
 adopted: 2026-06-23
 in_force: 2026-07-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/430.400"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3367/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3432/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3367/pdf_file"
 
 (OCMPr)
 
-del 17.02.2015 (stato 01.03.2015)
+del 17.02.2015 (stato 01.08.2024)
 
 emanata dal Governo il 17 febbraio 2015
 
@@ -62,7 +62,7 @@ visto l'art. 45 della Costituzione cantonale[^ingress-1]
 <sup>2</sup> Non deve sostenere un esame di ammissione chi:
 
 - a) è stato promosso alla quarta classe del liceo;
-- b) nell'anno di entrata o nell'anno civile precedente ha superato l'esame di ammissione a una scuola specializzata, a una scuola media di commercio o a una scuola media professionale commerciale e ha concluso la terza classe del grado superiore;
+- b) nell'anno di entrata o nell'anno civile precedente ha superato l'esame di ammissione a una scuola specializzata, a una scuola media di commercio, a una scuola media di informatica o a una scuola media professionale commerciale e ha concluso la terza classe del grado secondario I;
 - c) viene ammesso dalla scuola di maturità professionale sulla base di presupposti equivalenti.
 
 <sup>3</sup> L'ammissione senza esame è provvisoria e vale per un semestre.

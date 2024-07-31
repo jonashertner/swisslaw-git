@@ -4,13 +4,13 @@ number: "430.400"
 title: Ordinaziun chantunala davart la maturitad professiunala
 short: OcMPr
 language: rm
-version: 2015-03-01
-corrected: 2024-03-15
-version_adopted: 2015-02-17
+version: 2024-08-01
+valid_until: 2026-06-30
+version_adopted: 2024-04-29
 adopted: 2026-06-23
 in_force: 2026-07-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/430.400"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3367/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3432/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3367/pdf_file"
 
 (OcMPr)
 
-dals 17-02-2015 (versiun dals 01-03-2015)
+dals 17-02-2015 (versiun dals 01-08-2024)
 
 sa basond sin l'art. 45 da la constituziun chantunala[^ingress-1]
 
@@ -62,7 +62,7 @@ relaschada da la regenza ils 17 da favrer 2015
 <sup>2</sup> Nagin examen d'admissiun na sto far tgi che:
 
 - a) è vegnì promovì per la 4. classa gimnasiala;
-- b) ha fatg cun success l'onn da l'entrada u l'onn chalendar precedent l'examen d'admissiun en ina scola media spezialisada, en ina scola media commerziala ubain en ina scola media d'economia ed ha absolvì la 3. classa dal stgalim superiur;
+- b) ha fatg cun success l'onn da l'entrada u l'onn chalendar precedent l'examen d'admissiun ad ina scola media spezialisada, ad ina scola media d'informatica, ad ina scola media commerziala ubain ad ina scola media d'economia ed ha absolvì la 3. classa dal stgalim secundar I;
 - c) vegn acceptà da la scola da maturitad professiunala pervia da premissas equivalentas.
 
 <sup>3</sup> L'admissiun senza examen vegn concedida provisoricamain per 1 semester.
