@@ -4,13 +4,12 @@ number: "815.110"
 title: Verordnung über die Betreuung von Kindern in Kindertagesstätten und Tagesfamilien
 short: "Kindertagesstätten- und Tagesfamilienverordnung, KTV"
 language: de
-version: 2023-12-07
-valid_until: 2024-07-31
-version_adopted: 2023-11-28
+version: 2024-08-01
+version_adopted: 2024-01-16
 adopted: 2021-08-24
 in_force: 2022-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/815.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6075/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6118/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Kinderbetreuung
 
 (Kindertagesstätten- und Tagesfamilienverordnung, KTV)
 
-Vom 24. August 2021 (Stand 7. Dezember 2023)
+Vom 24. August 2021 (Stand 1. August 2024)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -60,7 +59,8 @@ beschliesst:
 <sup>1</sup> Die folgenden Begriffe werden im Rahmen dieser Verordnung gemäss den nachstehenden Definitionen verwendet:
 
 - a) «Leitungsperson» ist die verantwortliche Leiterin oder der verantwortliche Leiter einer Kindertagesstätte;
-- b) «Tagesmutter» oder «Tagesvater» ist die verantwortliche Betreuungsperson einer Tagesfamilie.
+- b) «Tagesmutter» oder «Tagesvater» ist die verantwortliche Betreuungsperson einer Tagesfamilie;
+- c) «Kindertagesstätten von Unternehmen» sind Kindertagesstätten, die ihre Betreuungsplätze vorrangig oder ausschliesslich für Kinder von Mitarbeitenden eines privaten oder öffentlichen Unternehmens bereitstellen.
 
 #### § 4
 
@@ -184,6 +184,8 @@ beschliesst:
 
 <sup>1</sup> Kindertagesstätten mit Betreuungsbeiträgen sind verpflichtet, Kinder, die von der zuständigen Beratungs- und Vermittlungsstelle vermittelt werden, innerhalb von drei Monaten aufzunehmen.
 
+<sup>2</sup> Kindertagesstätten von Unternehmen sind von der Aufnahmepflicht befreit. Werden sie nicht vom Unternehmen selber, sondern von einer externen Trägerschaft in dessen Auftrag geführt, müssen sie nachweisen können, dass der Bedarf an Betreuungsplätzen für Kinder von Mitarbeitenden einer Aufnahme entgegensteht.
+
 #### § 17
 
 **Mindestöffnungszeiten**
@@ -202,15 +204,13 @@ beschliesst:
 
 #### § 19
 
-**Praktika vor der Berufslehre**
+**…**
 
-<sup>1</sup> Für Praktika vor der Berufslehre gelten folgende Voraussetzungen:
+#### § 19a
 
-- a) das Praktikum dauert maximal 12 Monate;
-- b) es dürfen nur so viele Praktikumsstellen besetzt werden, wie Lehrstellen in der Einrichtung oder Trägerschaft vorhanden sind und
-- c) das Praktikum weist einen Ausbildungscharakter auf.
+**Entlöhnung des Betreuungspersonals**
 
-<sup>2</sup> Sind diese Voraussetzungen erfüllt, wird die Stelle im Betreuungsschlüssel als Praktikumsstelle angerechnet.
+<sup>1</sup> Kindertagesstätten mit Betreuungsbeiträgen entlöhnen das Betreuungspersonal in der Bandbreite der massgeblichen Lohnklassen und berücksichtigen dabei die Berufserfahrung.
 
 #### § 20
 
