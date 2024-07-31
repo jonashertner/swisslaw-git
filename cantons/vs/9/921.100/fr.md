@@ -1,44 +1,44 @@
 ---
 canton: VS
 number: "921.100"
-title: Ordonnance sur les forêts et les dangers naturels
+title: Ordonnance sur les forêts
 short: OcFo
 language: fr
-version: 2013-01-01
-corrected: 2017-10-13
-version_adopted: 2013-01-30
+version: 2024-08-01
+version_adopted: 2024-07-17
 adopted: 2013-01-30
 in_force: 2013-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/921.100"
-pdf: "https://lex.vs.ch/api/fr/versions/123/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3341/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Ordonnance sur les forêts et les dangers naturels
+# Ordonnance sur les forêts
 
-du 30 janvier 2013
+(OcFo)
 
-Le Conseil d'Etat du Canton du Valais
+du 30.01.2013 (état 01.08.2024)
+
+Le Conseil d'Etat du canton du Valais
 
 vu l'article 57 de la Constitution cantonale;
 
-vu l'article 88 de la loi sur l'organisation des Conseils et les rapports entre les pouvoirs du 28 mars 1996;
+vu l'article 88 de la loi sur l'organisation des Conseils et les rapports entre les pouvoirs du 28 mars 1996 (LOCRP);
 
-vu la loi sur les forêts et les dangers naturels du 14 septembre 2011;
+vu la loi sur les forêts du 14 septembre 2011 (LcFo);
 
-sur la proposition du Département des transports, de l’équipement et de l’environnement,
+sur la proposition du département en charge de l'environnement,
 
 ordonne:
 
-### Chapitre 1: Dispositions générales
+## 1 Dispositions générales
 
 #### Art. 1
 
-**But et champ d’application**
+**But et champ d'application**
 
-L’ordonnance sur les forêts et les dangers naturels (ci-après: l’ordonnance) contient les dispositions d’exécution de la loi sur les forêts et les dangers naturels (ci-après: la loi), dans la mesure où elles ne sont pas contenues dans d’autres lois.
+<sup>1</sup> L’ordonnance sur les forêts et les dangers naturels (ci-après: l’ordonnance) contient les dispositions d’exécution de la loi sur les forêts et les dangers naturels (ci-après: la loi), dans la mesure où elles ne sont pas contenues dans d’autres lois.
 
 #### Art. 2
 
@@ -46,23 +46,19 @@ L’ordonnance sur les forêts et les dangers naturels (ci-après: l’ordonnanc
 
 <sup>1</sup> Par forêt, on entend toutes les surfaces couvertes d'arbres ou d'arbustes forestiers à même d'exercer des fonctions forestières, pour autant que les valeurs quantitatives minimales suivantes soient atteintes:
 
-- surface comprenant une lisière de 2 m: 800 m2;
-
-- largeur comprenant une lisière de 2 m: 12 m;
-
-- âge du peuplement sur une surface nouvellement conquise par la forêt: 20 ans.
+- a) surface comprenant une lisière de 2 mètres: 800 mètres carrés;
+- b) largeur comprenant une lisière de 2 mètres: 12 mètres;
+- c) âge du peuplement sur une surface nouvellement conquise par la forêt: 20 ans.
 
 <sup>2</sup> Par forêt, on entend dans tous les cas:
 
 - a) les forêts pâturées, les pâturages boisés et les boisements de noyers et de châtaigniers, dans leur intégralité y compris les vides;
-
-- b) les surfaces non boisées ou improductives d’un bien-fonds forestier, telles que les vides ou les surfaces occupées par des routes forestières ou d’autres constructions ou installations forestières;
-
-- c) les biens-fonds faisant l’objet d’une obligation de reboiser.
+- b) les surfaces non boisées ou improductives d'un bien-fonds forestier, telles que les vides ou les surfaces occupées par des routes forestières ou d'autres constructions ou installations forestières;
+- c) les biens-fonds faisant l'objet d'une obligation de reboiser.
 
 <sup>3</sup> Les valeurs quantitatives minimales ne sont pas décisives pour les peuplements qui exercent une fonction protectrice, sociale ou environnementale particulièrement importante.
 
-### Chapitre 2: Autorités compétentes
+## 2 Autorités compétentes
 
 #### Art. 3
 
@@ -96,9 +92,9 @@ L’ordonnance sur les forêts et les dangers naturels (ci-après: l’ordonnanc
 
 <sup>3</sup> Le fonds forestier est géré par le service en charge des forêts et des dangers naturels (ci-après: le service).
 
-### Chapitre 3: Conservation et protection des forêts
+## 3 Conservation et protection des forêts
 
-### Section 1: Constatation de la nature forestière et défrichement
+### 3.1 Constatation de la nature forestière et défrichement
 
 #### Art. 6
 
@@ -178,19 +174,19 @@ L’ordonnance sur les forêts et les dangers naturels (ci-après: l’ordonnanc
 
 <sup>2</sup> Le service accompagne les communes municipales dans la mise en œuvre du guide, les informe sur les mesures et leur financement.
 
-### Section 2: Forêt et aménagement du territoire
+### 3.2 Forêt et aménagement du territoire
 
 #### Art. 12
 
 **Constructions et installations forestières en forêt**
 
-Sont notamment considérées comme des constructions et installations forestières, les routes forestières les pistes de débardage, les sentiers pédestres, les installations à câbles fixes ainsi que les centres forestiers de triage. Sont également inclus les ouvrages de protection contre les avalanches, les instabilités de terrain, les laves torrentielles au sens de l’article 31 de la présente ordonnance ainsi que les systèmes d'alerte, les clôtures contre le gibier et les installations contre les incendies de forêt.
+<sup>1</sup> Sont notamment considérées comme des constructions et installations forestières, les routes forestières les pistes de débardage, les sentiers pédestres, les installations à câbles fixes ainsi que les centres forestiers de triage. Sont également inclus les ouvrages de protection contre les avalanches, les instabilités de terrain, les laves torrentielles au sens de l’article 31 de la présente ordonnance ainsi que les systèmes d'alerte, les clôtures contre le gibier et les installations contre les incendies de forêt.
 
 #### Art. 13
 
 **Petites constructions et installations non forestières en forêt**
 
-<sup>1</sup> Sont notamment considérées comme des petites constructions et installations non forestières les places de repos, les parcs aventure, les parcours Vita, les pistes finlandaises, les sentiers pédestres d’une largeur supérieure à 1,5 mètre, les parcours équestres, les places de jeu, les sentiers à thème, les conduites d’eau enterrées de même que les couverts, les cabanes de chasse, les ruchers, les antennes, les objets d’art, les réservoirs, les calvaires, les pierres commémoratives et objets similaires dans la mesure ou leur emprise au sol n’excède pas 25 m2.
+<sup>1</sup> Sont notamment considérées comme des petites constructions et installations non forestières les places de repos, les parcs aventure, les parcours Vita, les pistes finlandaises, les sentiers pédestres d’une largeur supérieure à 1.5 mètre, les parcours équestres, les places de jeu, les sentiers à thème, les conduites d’eau enterrées de même que les couverts, les cabanes de chasse, les ruchers, les antennes, les objets d’art, les réservoirs, les calvaires, les pierres commémoratives et objets similaires dans la mesure ou leur emprise au sol n’excède pas 25 mètres carrés.
 
 <sup>2</sup> Le service définit les nouveaux types de petites constructions et installations non forestières.
 
@@ -198,15 +194,15 @@ Sont notamment considérées comme des constructions et installations forestièr
 
 **Distance par rapport à la forêt**
 
-Le service élabore, en collaboration avec les autres services concernés, une directive visant à réglementer les exceptions.
+<sup>1</sup> Le service élabore, en collaboration avec les autres services concernés, une directive visant à réglementer les exceptions.
 
-### Section 3: Accès et circulation en forêt
+### 3.3 Accès et circulation en forêt
 
 #### Art. 15
 
 **Accessibilité**
 
-Les propriétaires peuvent limiter dans le temps l’accès à leur forêt, si des mesures de sécurité liées à la gestion des forêts l’exigent.
+<sup>1</sup> Les propriétaires peuvent limiter dans le temps l’accès à leur forêt, si des mesures de sécurité liées à la gestion des forêts l’exigent.
 
 #### Art. 16
 
@@ -230,7 +226,7 @@ Les propriétaires peuvent limiter dans le temps l’accès à leur forêt, si d
 
 <sup>5</sup> Pour la circulation sur les chemins de randonnée pédestre demeure réservée la législation sur les itinéraires de mobilités de loisirs.
 
-### Section 4: Protection des forêts contre d'autres atteintes
+### 3.4 Protection des forêts contre d'autres atteintes
 
 #### Art. 18
 
@@ -246,7 +242,7 @@ Les propriétaires peuvent limiter dans le temps l’accès à leur forêt, si d
 
 <sup>5</sup> A titre de mesures de compensations, le service peut également exiger des mesures de gestion forestière.
 
-### Section 5: Protection contre les atteintes naturelles
+### 3.5 Protection contre les atteintes naturelles
 
 #### Art. 19
 
@@ -272,9 +268,9 @@ Les propriétaires peuvent limiter dans le temps l’accès à leur forêt, si d
 
 **Dommages dus au gibier**
 
-L’équilibre forêt-gibier doit permettre le rajeunissement naturel des forêts avec toutes les essences en station.
+<sup>1</sup> L’équilibre forêt-gibier doit permettre le rajeunissement naturel des forêts avec toutes les essences en station.
 
-### Chapitre 4: Gestion des forêts
+## 4 Gestion des forêts
 
 #### Art. 22
 
@@ -364,111 +360,47 @@ L’équilibre forêt-gibier doit permettre le rajeunissement naturel des forêt
 
 #### Art. 30
 
-**Entretien des forêts le long des routes et des cours d’eau**
+**Entretien des forêts le long des routes et des cours d'eau**
 
-Les instances en charge de l’entretien des forêts le long des routes publiques, des cours d’eau, de lignes aériennes, des voies ferrées ainsi que de tout ouvrage nécessitant des interventions forestières périodiques établissent des programmes d’entretien pluriannuels à soumettre au service pour approbation.
+<sup>1</sup> Les instances en charge de l’entretien des forêts le long des routes publiques, des cours d’eau, de lignes aériennes, des voies ferrées ainsi que de tout ouvrage nécessitant des interventions forestières périodiques établissent des programmes d’entretien pluriannuels à soumettre au service pour approbation.
 
-### Chapitre 5: Protection contre les dangers naturels
+## 5
 
 #### Art. 31
 
-**Domaine d’application**
-
-Les dispositions du présent chapitre précisent les tâches et compétences dans le domaine de la protection des personnes, des animaux et des biens de valeur notable contre les dangers naturels, tels que les avalanches, les instabilités de terrain et les laves torrentielles de cours d’eau qui ne figurent pas à l'inventaire cantonal des eaux publiques superficielles.
+**…**
 
 #### Art. 32
 
-**Missions et rôles du service**
-
-<sup>1</sup> Le service est le service cantonal compétent pour la prévention et la protection contre les dangers naturels réglés par cette législation.
-
-<sup>2</sup> Le service est l’interlocuteur direct des communes municipales et des tiers pour tout projet lié aux dangers naturels qu’il soutient financièrement. Il assure la coordination avec les services concernés et organes spécialisés.
-
-<sup>3</sup> Les communes municipales et les tiers contactent le service au début de tout projet soutenu financièrement par ce dernier. Le préavis positif du service est une condition préalable indispensable à toute démarche ultérieure et à un soutien financier.
-
-<sup>4</sup> En application de l’alinéa 1 et en collaboration avec les services concernés et les organes spécialisés, le service:
-
-- a) conseille et assiste les communes municipales et les tiers dans la gestion intégrée des risques naturels;
-
-- b) assure la gestion administrative et financière ainsi que le controlling des mesures subventionnées;
-
-- c) coordonne les préavis sur des projets de constructions exposées aux dangers naturels;
-
-- d) préavise, dans la mesure où elles sont subventionnées, les demandes de déclenchement artificiel d’avalanches ainsi que d’assainissement de falaises;
-
-- e) informe la population et les autorités dans son domaine de compétence;
-
-- f) conclut, avec les communes municipales et les tiers concernés, des contrats pour l’observation des dangers naturels et veille à leur application;
-
-- g) conseille les chargés d’observation communaux et régionaux et organise leur formation;
-
-- h) planifie, réalise, gère et entretient les réseaux cantonaux de mesure et de surveillance en coordination avec ceux de la Confédération ainsi qu’en collaboration avec les communes municipales, les propriétaires d’ouvrages et les exploitants d'installations.
-
-<sup>5</sup> Pour accomplir ces missions, le service peut conclure des mandats de prestations avec d'autres instances.
+**…**
 
 #### Art. 33
 
-**Etudes de base**
-
-<sup>1</sup> En collaboration avec les services concernés et les organes spécialisés et pour les domaines de compétence qui relèvent de cette législation, le service réalise et tient à jour les études de base suivantes ainsi que les bases de données correspondantes:
-
-- a) le cadastre des dangers et le cadastre des événements;
-
-- b) les cartes de dangers et d’intensité;
-
-- c) l’inventaire des ouvrages de protection avec leurs éventuelles défaillances et un programme de remise en état;
-
-- d) les concepts et les objectifs de protection sur le plan cantonal, par type de danger et par catégorie d’objet à protéger;
-
-- e) l’inventaire des sites de déclenchement artificiel d’avalanches.
-
-<sup>2</sup> Les communes municipales, services cantonaux et tiers concernés par des événements naturels transmettent les données nécessaires au service pour l’établissement du cadastre des événements.
+**…**
 
 #### Art. 34
 
-**Commission cantonale des dangers naturels**
+**…**
 
-<sup>1</sup> En vue d’assurer la coordination administrative et technique entre les services et spécialistes concernés en matière de dangers naturels relevant de la présente loi ainsi que de celle sur l’aménagement des cours d’eau, le Département nomme une commission cantonale des dangers naturels.
-
-<sup>2</sup> La commission a notamment pour missions de:
-
-- a) proposer une stratégie commune aux diverses catégories de dangers naturels, en particulier en matière de définition des objectifs de protection, d’élaboration de concepts, de recommandations et de directives, de développements méthodologiques ainsi que de recherche, de communication et de financement des mesures;
-
-- b) assurer l’échange des informations sur les inventaires, projets et études en vue de garantir la coordination et de développer les synergies;
-
-- c) assurer la coordination territoriale des études de base, des cartes de dangers, de projets, d’études et autres mesures;
-
-- d) coordonner l’élaboration de préavis pour les dossiers d’importance;
-
-- e) coordonner les activités des chargés d’observation communaux et régionaux et des flux d’informations issus des réseaux de mesures;
-
-- f) identifier les besoins en matière de prévention, d’observation et de protection contre les dangers naturels et proposer les mesures correspondantes;
-
-- g) servir d’interlocuteur aux instances fédérales notamment dans le cadre de la planification financière, de l’élaboration de programmes pluriannuels et de consultations techniques;
-
-- h) favoriser les échanges avec les cantons et partenaires internationaux.
-
-<sup>3</sup> La commission se compose du chef du service et du chef du service en charge des cours d’eau ainsi que des chefs des sections concernées. Elle peut s’adjoindre, au gré des besoins, les compétences d’autres spécialistes des sections de même que de représentants du service en charge des questions juridiques du département, du service en charge de la sécurité civile et du service en charge du développement territorial. Sa présidence est assurée alternativement, pour la durée d’une année, par les chefs de service.
-
-### Chapitre 6: Mesures d’encouragement
+## 6 Mesures d'encouragement
 
 #### Art. 35
 
 **Principes de base**
 
-Les subventions sont déterminées notamment en fonction de l’importance de l’objet, des priorités, des difficultés de réalisation ainsi que des coûts d’entretien.
+<sup>1</sup> Les subventions sont déterminées notamment en fonction de l’importance de l’objet, des priorités, des difficultés de réalisation ainsi que des coûts d’entretien.
 
 #### Art. 36
 
 **Formation professionnelle**
 
-Le service peut déclarer obligatoire la participation aux cours nécessaires à la bonne exécution des tâches de la présente législation.
+<sup>1</sup> Le service peut déclarer obligatoire la participation aux cours nécessaires à la bonne exécution des tâches de la présente législation.
 
 #### Art. 37
 
-**Promotion de l’utilisation du bois**
+**Promotion de l'utilisation du bois**
 
-Pour des projets de constructions dont le canton est le maître d’ouvrage ou auxquels il participe financièrement, une utilisation adéquate du bois en tant que matériau de construction ou source d’énergie doit être examinée.
+<sup>1</sup> Pour des projets de constructions dont le canton est le maître d’ouvrage ou auxquels il participe financièrement, une utilisation adéquate du bois en tant que matériau de construction ou source d’énergie doit être examinée.
 
 #### Art. 38
 
@@ -494,13 +426,13 @@ Pour des projets de constructions dont le canton est le maître d’ouvrage ou a
 
 #### Art. 40
 
-**Subventionnement de l’économie forestière**
+**Subventionnement de l'économie forestière**
 
-Le canton soutient les mesures d’amélioration des conditions de gestion des forêts et la création de communautés de gestion si elles satisfont à des critères de performance et de rentabilité reconnus.
+<sup>1</sup> Le canton soutient les mesures d’amélioration des conditions de gestion des forêts et la création de communautés de gestion si elles satisfont à des critères de performance et de rentabilité reconnus.
 
 #### Art. 41
 
-**Entretien d’ouvrages subventionnés**
+**Entretien d'ouvrages subventionnés**
 
 <sup>1</sup> Les bénéficiaires de contributions financières veillent à contrôler périodiquement les ouvrages conformément aux prescriptions du service.
 
@@ -508,15 +440,15 @@ Le canton soutient les mesures d’amélioration des conditions de gestion des f
 
 #### Art. 42
 
-**Crédits d’investissements**
+**Crédits d'investissements**
 
 <sup>1</sup> Des crédits d’investissement peuvent être accordés jusqu’à 80 pour cent des coûts reconnus, pour le financement des coûts résiduels de mesures subventionnées, pour l’acquisition de véhicules, des machines forestières et autres outillages ainsi que pour la construction d'installations forestières. Un crédit d’investissement ne peut être accordé que si les conditions d’une exploitation optimale sont remplies.
 
-<sup>2</sup> Aucun prêt inférieur à Fr. 50 000 francs n'est accordé.
+<sup>2</sup> Aucun prêt inférieur à 50'000 francs n'est accordé.
 
 #### Art. 43
 
-**Cas d’urgence et situations de catastrophe**
+**Cas d'urgence et situations de catastrophe**
 
 <sup>1</sup> Pour remédier aux cas d’urgence affectant l’économie forestière, le Conseil d’Etat peut décider de la mise sur pied d’un groupe de travail, dirigé par le service, pour la coordination des mesures, dans lequel les milieux concernés sont représentés.
 
@@ -524,7 +456,7 @@ Le canton soutient les mesures d’amélioration des conditions de gestion des f
 
 <sup>3</sup> Le département édicte les prescriptions nécessaires pour la gestion des dégâts extraordinaires aux forêts.
 
-### Chapitre 7: Dispositions pénales et contraintes administratives
+## 7 Dispositions pénales et contraintes administratives
 
 #### Art. 44
 
@@ -541,32 +473,22 @@ Le canton soutient les mesures d’amélioration des conditions de gestion des f
 <sup>1</sup> En sus des contraventions de droit fédéral, les contraventions cantonales suivantes sont notamment passibles d’une amende:
 
 - a) l'omission des mesures de soin ordonnées par la commune municipale, le département, le service ou le garde forestier;
-
 - b) les dommages aux arbres ou aux boisements forestiers;
-
 - c) la réalisation illégale de petites constructions ou installations en forêt;
-
 - d) la construction illégale de clôtures en forêt;
-
-- e) la violation des interdictions en matière de police du feu;
-
+- e) les actions pouvant causer un dégât de feu ou un incendie de forêt, notamment les feux allumés en dehors des endroits désignés à cet effet;
 - f) l'abandon de feux non éteints en forêt ou en lisière;
-
-- g) l’exploitation accessoire dommageable des forêts sans autorisation au sens des dispositions sur les exploitations préjudiciables;
-
+- g) l'exploitation accessoire dommageable des forêts sans autorisation au sens des dispositions sur les exploitations préjudiciables;
 - h) la pâture sans autorisation en forêt;
-
-- i) la randonnée hivernale, le ski, les randonnées à raquette à neige, etc., dans des périmètres forestiers interdits d’accès;
-
+- i) la randonnée hivernale, le ski, les randonnées à raquette à neige, etc., dans des périmètres forestiers interdits d'accès;
 - j) les infractions à tout autre ordre que la police des forêts a prononcé en application des dispositions légales;
-
-- k) le dépôt ou l’extraction de matériaux et le déversement de déchets en forêt.
+- k) le dépôt ou l'extraction de matériaux et le déversement de déchets en forêt.
 
 <sup>2</sup> Le garde forestier peut réprimer ces contraventions de droit cantonal selon la procédure relative aux amendes d'ordre.
 
 #### Art. 46
 
-**Procédure relative aux amendes d’ordre**
+**Procédure relative aux amendes d'ordre**
 
 <sup>1</sup> La liste des contraventions de droit cantonal punissables par une amende d’ordre est fixée en annexe de la présente ordonnance. Cette liste contient aussi le montant des amendes.
 
@@ -574,17 +496,12 @@ Le canton soutient les mesures d’amélioration des conditions de gestion des f
 
 <sup>3</sup> La procédure d’amendes d’ordre est exclue lorsque:
 
-- a) l’infraction a causé la mise en danger ou la blessure d’une personne ou un dommage matériel;
-
-- b) l’infraction n’a pas été constatée par des agents habilités;
-
-- c) l’infraction est le fait d’un contrevenant âgé de moins de 15 ans révolus;
-
-- d) la personne qui a commis l’infraction se voit reprocher simultanément une autre infraction qui ne figure pas sur la liste des amendes;
-
+- a) l'infraction a causé la mise en danger ou la blessure d'une personne ou un dommage matériel;
+- b) l'infraction n'a pas été constatée par des agents habilités;
+- c) l'infraction est le fait d'un contrevenant âgé de moins de 15 ans révolus;
+- d) la personne qui a commis l'infraction se voit reprocher simultanément une autre infraction qui ne figure pas sur la liste des amendes;
 - e) le montant total de plusieurs amendes dépasse 700 francs;
-
-- f) des motifs de libération au sens de l’article 52 CP se présentent.
+- f) des motifs de libération au sens de l'article 52 CP se présentent.
 
 <sup>4</sup> Seules les formules officielles peuvent être utilisées.
 
@@ -608,54 +525,51 @@ Le canton soutient les mesures d’amélioration des conditions de gestion des f
 
 <sup>2</sup> Le département et le propriétaire forestier ont le droit de présenter des prétentions à un dédommagement aux instances compétentes.
 
-### Chapitre 8: Dispositions finales et transitoires
+## 8 Dispositions finales et transitoires
 
 #### Art. 48
 
 **Disposition transitoire**
 
-Les fonds de réserve des propriétaires de forêts actuellement gérés par le canton seront restitués à leur propriétaire dans un délai de six mois dès l’entrée en vigueur de la présente ordonnance.
+<sup>1</sup> Les fonds de réserve des propriétaires de forêts actuellement gérés par le canton seront restitués à leur propriétaire dans un délai de six mois dès l’entrée en vigueur de la présente ordonnance.
 
 #### Art. 49
 
 **Abrogation du droit antérieur**
 
-Sont abrogés dès l’entrée en vigueur de la présente ordonnance:
+<sup>1</sup> Sont abrogés dès l’entrée en vigueur de la présente ordonnance:
 
-- a) le règlement d’exécution de la loi forestière du 11 décembre 1985;
-
-- b) l’ordonnance sur la constatation de la forêt du 28 avril 1999;
-
-- c) le règlement concernant l’utilisation du fonds cantonal de reboisement du 26 novembre 1943.
+- a) le règlement d'exécution de la loi forestière du 11 décembre 1985;
+- b) l'ordonnance sur la constatation de la forêt du 28 avril 1999;
+- c) le règlement concernant l'utilisation du fonds cantonal de reboisement du 26 novembre 1943.
 
 #### Art. 50
 
 **Entrée en force**
 
-La présente ordonnance est publiée au Bulletin officiel et entre en vigueur avec effet au 1er janvier 2013.
+<sup>1</sup> La présente ordonnance est publiée au Bulletin officiel et entre en vigueur avec effet au 1<sup>er</sup> janvier 2013.
 
-Ainsi arrêté en séance du Conseil d’Etat à Sion, le 30 janvier 2013.
+## A1 Annexe 1 à l'article 46
 
-La présidente du Conseil d’Etat: Esther Waeber-Kalbermatten Le chancelier d’Etat: Philipp Spörri
+#### Art. A1-1
 
-## Annexe
+**Liste des amendes d’ordre**
 
-### Liste des amendes d’ordre
+<sup>1</sup>
 
-**Montant (CHF)**
+<table>
+<tr><th></th><th>Infractions</th><th>Montant</th></tr>
+<tr><td>1</td><td>Omission de mesures de soin ordonnées par la commune municipale, le département, le service ou le garde forestier</td><td>Fr. 500</td></tr>
+<tr><td>2</td><td>Dommages aux arbres ou aux boisements forestiers</td><td>Fr. 200/arbre</td></tr>
+<tr><td>3</td><td>Réalisation illégale de petites constructions ou installations en forêt</td><td>Fr. 50/m² Fr. 20/m'</td></tr>
+<tr><td>4</td><td>Construction illégale de clôtures en forêt</td><td>Fr. 20/m'</td></tr>
+<tr><td>5</td><td>Violation des interdictions en matière de police du feu</td><td>Fr. 500</td></tr>
+<tr><td>6</td><td>Abandon de feux non éteints en forêt ou en lisière</td><td>Fr. 500</td></tr>
+<tr><td>7</td><td>Exploitation accessoire dommageable des forêts sans autorisation au sens des dispositions sur les exploitations préjudiciables</td><td>Fr. 100</td></tr>
+<tr><td>8</td><td>Pâture sans autorisation en forêt</td><td>Fr. 100</td></tr>
+<tr><td>9</td><td>Randonnée hivernale, le ski, les randonnées en raquette à neige, etc., dans des périmètres forestiers interdits d’accès</td><td>Fr. 100</td></tr>
+<tr><td>10</td><td>Infractions à tout ordre que la police forestière a prononcé en application des dispositions légales</td><td>Fr. 200</td></tr>
+<tr><td>11</td><td>Dépôt ou extraction de matériaux et le déversement de déchets en forêt</td><td>Fr. 200</td></tr>
+</table>
 
-### Infractions
-
-## Autres notes
-
-- [1] Omission de mesures de soin ordonnées par la commune 500.- municipale, le département, le service ou le garde forestier
-- [2] Dommages aux arbres ou aux boisements forestiers 200.- / Baum
-- [3] Réalisation illégale de petites constructions ou installations 50.- / m2 en forêt 20.- / m'
-- [4] Construction illégale de clôtures en forêt 20.- / m'
-- [5] Violation des interdictions en matière de police du feu 500.-
-- [6] Abandon de feux non éteints en forêt ou en lisière 500.-
-- [7] Exploitation accessoire dommageable des forêts sans 100.- autorisation au sens des dispositions sur les exploitations préjudiciables
-- [8] Pâture sans autorisation en forêt 100.-
-- [9] Randonnée hivernale, le ski, les randonnées en raquette à 100.- neige, etc., dans des périmètres forestiers interdits d’accès
-- [10] Infractions à tout ordre que la police forestière a prononcé en 200.- application des dispositions légales
-- [11] Dépôt ou extraction de matériaux et le déversement de 200.- déchets en forêt
+RCV BO/Abl. 7/2013

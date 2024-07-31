@@ -1,44 +1,44 @@
 ---
 canton: VS
 number: "921.100"
-title: Verordnung über den Wald und die Naturgefahren
+title: "Verordnung über den Wald *"
 short: kWaV
 language: de
-version: 2013-01-01
-corrected: 2017-10-13
-version_adopted: 2013-01-30
+version: 2024-08-01
+version_adopted: 2024-07-17
 adopted: 2013-01-30
 in_force: 2013-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/921.100"
-pdf: "https://lex.vs.ch/api/de/versions/123/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3341/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über den Wald und die Naturgefahren
+# Verordnung über den Wald
 
-vom 30. Januar 2013
+(kWaV)
+
+vom 30.01.2013 (Stand 01.08.2024)
 
 Der Staatsrat des Kantons Wallis
 
 eingesehen Artikel 57 der Kantonsverfassung;
 
-eingesehen die Artikel 88 des Gesetzes über die Organisation der Räte und die Beziehungen zwischen den Gewalten vom 28. März 1996;
+eingesehen die Artikel 88 des Gesetzes über die Organisation der Räte und die Beziehungen zwischen den Gewalten vom 28. März 1996 (GORBG);
 
-eingesehen das Gesetz über den Wald und die Naturgefahren vom 14. September 2011;
+eingesehen das Gesetz über den Wald vom 14. September 2011 (kWaG);
 
-auf Antrag des Departements für Verkehr, Bau und Umwelt,
+auf Antrag des für die Umwelt zuständigen Departements,
 
 verordnet:
 
-### 1. Kapitel: Allgemeine Bestimmungen
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
 **Zweck und Geltungsbereich**
 
-Die Verordnung über den Wald und die Naturgefahren (nachfolgend: Verordnung) enthält die Ausführungsbestimmungen betreffend das Gesetz über den Wald und die Naturgefahren (nachfolgend: Gesetz), sofern diese nicht in anderen Gesetzen enthalten sind.
+<sup>1</sup> Die Verordnung über den Wald und die Naturgefahren (nachfolgend: Verordnung) enthält die Ausführungsbestimmungen betreffend das Gesetz über den Wald und die Naturgefahren (nachfolgend: Gesetz), sofern diese nicht in anderen Gesetzen enthalten sind.
 
 #### Art. 2
 
@@ -46,23 +46,19 @@ Die Verordnung über den Wald und die Naturgefahren (nachfolgend: Verordnung) en
 
 <sup>1</sup> Als Wald gelten Flächen, die mit Waldbäumen oder Waldsträuchern bestockt sind und Waldfunktionen erfüllen können, wenn folgende quantitative Minimalwerte erfüllt sind:
 
-- 800 m2 Fläche inkl. 2 m Waldrand;
-
-- 12 m Breite inkl. 2 m Waldrand;
-
-- Alter von 20 Jahren für neue Bestockungen.
+- a) 800 Quadratmeter Fläche inkl. 2 Meter Waldrand;
+- b) 12 Meter Breite inkl. 2 Meter Waldrand;
+- c) Alter von 20 Jahren für neue Bestockungen.
 
 <sup>2</sup> Als Wald gelten in jedem Fall:
 
 - a) Weidwälder, bestockte Weiden (Wytweiden) und Selven, in ihrer Gesamtheit inklusiv Blössen;
-
 - b) unbestockte oder ertragslose Flächen eines Waldgrundstückes, wie Blössen oder Flächen, die Waldstrassen und anderen forstlichen Bauten und Anlagen dienen;
-
 - c) Grundstücke, für die eine Aufforstungspflicht besteht.
 
 <sup>3</sup> Für Bestockungen, welche in besonderem Masse Schutz-, Wohlfahrts- oder Umweltfunktionen erfüllen, sind die erwähnten Minimalwerte nicht entscheidend.
 
-### 2. Kapitel: Zuständige Behörden
+## 2 Zuständige Behörden
 
 #### Art. 3
 
@@ -90,17 +86,15 @@ Die Verordnung über den Wald und die Naturgefahren (nachfolgend: Verordnung) en
 
 **Forstfonds**
 
-<sup>1</sup> Der Forstfonds finanziert kantonal angeordnete Ersatzvornahmen, namentlich Wiederherstellungen sowie Massnahmen im Zusammenhang mit Rodungsersatz oder nachteiligen Nutzungen, Kompensationsprojekte und weitere durch das Gesetz begründete Aufgaben und Massnahmen wie die Erarbeitung von forstlichen Konzepten, die forstliche Forschung, die forstliche Ausbildung sowie die Öffentlichkeitsarbeit.
-
-**regionale**
+<sup>1</sup> Der Forstfonds finanziert kantonal angeordnete Ersatzvornahmen, namentlich Wiederherstellungen sowie Massnahmen im Zusammenhang mit Rodungsersatz oder nachteiligen Nutzungen, regionale Kompensationsprojekte und weitere durch das Gesetz begründete Aufgaben und Massnahmen wie die Erarbeitung von forstlichen Konzepten, die forstliche Forschung, die forstliche Ausbildung sowie die Öffentlichkeitsarbeit.
 
 <sup>2</sup> Die Forstpolizeiaufgaben können ebenfalls durch diesen Fonds finanziert werden.
 
 <sup>3</sup> Der Forstfonds wird durch die für den Wald und die Naturgefahren zuständige Dienststelle (nachfolgend: Dienststelle) verwaltet.
 
-### 3. Kapitel: Schutz und Erhaltung der Wälder
+## 3 Schutz und Erhaltung der Wälder
 
-### 1. Abschnitt: Waldfeststellung und Rodung
+### 3.1 Waldfeststellung und Rodung
 
 #### Art. 6
 
@@ -170,7 +164,7 @@ Die Verordnung über den Wald und die Naturgefahren (nachfolgend: Verordnung) en
 
 <sup>4</sup> Die Dienststelle konsultiert hierfür die jeweilige Ortsschatzungskommission und kann bei Bedarf eine Expertise einholen. Die diesbezüglichen Kosten gehen zu Lasten des Gesuchstellers.
 
-<sup>5</sup> Ausnahmsweise kann ganz oder teilweise auf die Erhebung einer Mehrwertabgabe verzichtet werden, falls das Werk oder der Betrieb öffentliche Interessen verfolgen (z.B. öffentliche Infrastrukturanlagen, etc.).
+<sup>5</sup> Ausnahmsweise kann ganz oder teilweise auf die Erhebung einer Mehrwertabgabe verzichtet werden, falls das Werk oder der Betrieb öffentliche Interessen verfolgen (z.B. öffentliche Infrastrukturanlagen, usw.).
 
 #### Art. 11
 
@@ -180,19 +174,19 @@ Die Verordnung über den Wald und die Naturgefahren (nachfolgend: Verordnung) en
 
 <sup>2</sup> Die Dienststelle begleitet die Einwohnergemeinden bei der Umsetzung des Leitfadens und informiert diese über die Massnahmen und deren Finanzierung.
 
-### 2. Abschnitt: Wald und Raumplanung
+### 3.2 Wald und Raumplanung
 
 #### Art. 12
 
 **Forstliche Bauten und Anlagen im Wald**
 
-Als forstliche Bauten und Anlagen gelten namentlich Waldstrassen, Maschinenwege, Fusswege, permanente Seilanlagen sowie forstliche Werkhöfe. Ebenfalls unter diesen Begriff fallen Verbauungen gegen Lawinen, Bodeninstabilitäten, Murgänge im Sinne von Artikel 31 der vorliegenden Verordnung sowie Frühwarnsysteme, Wildschutzzäune und Einrichtungen zur Waldbrandbekämpfung.
+<sup>1</sup> Als forstliche Bauten und Anlagen gelten namentlich Waldstrassen, Maschinenwege, Fusswege, permanente Seilanlagen sowie forstliche Werkhöfe. Ebenfalls unter diesen Begriff fallen Verbauungen gegen Lawinen, Bodeninstabilitäten, Murgänge im Sinne von Artikel 31 der vorliegenden Verordnung sowie Frühwarnsysteme, Wildschutzzäune und Einrichtungen zur Waldbrandbekämpfung.
 
 #### Art. 13
 
 **Nichtforstliche Kleinbauten und Kleinanlagen im Wald**
 
-<sup>1</sup> Als nichtforstliche Kleinbauten und Kleinanlagen gelten namentlich Rastplätze, Seilpärke, Vitaparcours, Finnenbahnen, Fusswege bis zu einer Maximalbreite von 1.50 Meter, Reitpisten, Spielplätze, Themenwege, unterirdische Leitungen von Wasser sowie kleinere Unterstände, Jagdhütten, Bienenhäuser, Antennen, Kunstobjekte, Reservoirs, Wegkreuze, Gedenksteine und dergleichen. Die Einwirkungen auf den Grund dürfen 25 m2 nicht übersteigen.
+<sup>1</sup> Als nichtforstliche Kleinbauten und Kleinanlagen gelten namentlich Rastplätze, Seilpärke, Vitaparcours, Finnenbahnen, Fusswege bis zu einer Maximalbreite von 1.50 Meter, Reitpisten, Spielplätze, Themenwege, unterirdische Leitungen von Wasser sowie kleinere Unterstände, Jagdhütten, Bienenhäuser, Antennen, Kunstobjekte, Reservoirs, Wegkreuze, Gedenksteine und dergleichen. Die Einwirkungen auf den Grund dürfen 25m² nicht übersteigen.
 
 <sup>2</sup> Die Dienststelle bestimmt neuartige nichtforstliche Kleinbauten und Kleinanlagen.
 
@@ -200,15 +194,15 @@ Als forstliche Bauten und Anlagen gelten namentlich Waldstrassen, Maschinenwege,
 
 **Waldabstand**
 
-Die Dienststelle erarbeitet in Zusammenarbeit mit den anderen involvierten Dienststellen eine Richtlinie für die Regelung der Ausnahmen.
+<sup>1</sup> Die Dienststelle erarbeitet in Zusammenarbeit mit den anderen involvierten Dienststellen eine Richtlinie für die Regelung der Ausnahmen.
 
-### 3. Abschnitt: Betreten und Befahren des Waldes
+### 3.3 Betreten und Befahren des Waldes
 
 #### Art. 15
 
 **Zugänglichkeit**
 
-Die Eigentümer können den Zugang zu ihrem Wald zeitlich beschränken, falls es die Sicherheitsmassnahmen im Zusammenhang mit der Waldbewirtschaftung erfordern.
+<sup>1</sup> Die Eigentümer können den Zugang zu ihrem Wald zeitlich beschränken, falls es die Sicherheitsmassnahmen im Zusammenhang mit der Waldbewirtschaftung erfordern.
 
 #### Art. 16
 
@@ -232,7 +226,7 @@ Die Eigentümer können den Zugang zu ihrem Wald zeitlich beschränken, falls es
 
 <sup>5</sup> Für den Verkehr auf den Fuss- und Wanderwegen bleibt die Gesetzgebung über die Wege des Freizeitverkehrs vorbehalten.
 
-### 4. Abschnitt: Schutz vor anderen Beeinträchtigungen
+### 3.4 Schutz vor anderen Beeinträchtigungen
 
 #### Art. 18
 
@@ -248,7 +242,7 @@ Die Eigentümer können den Zugang zu ihrem Wald zeitlich beschränken, falls es
 
 <sup>5</sup> Die Dienststelle kann Kompensationsmassnahmen ebenfalls in Form von Waldbewirtschaftungsmassnahmen verlangen.
 
-### 5. Abschnitt: Schutz vor natürlichen Beeinträchtigungen
+### 3.5 Schutz vor natürlichen Beeinträchtigungen
 
 #### Art. 19
 
@@ -274,9 +268,9 @@ Die Eigentümer können den Zugang zu ihrem Wald zeitlich beschränken, falls es
 
 **Wildschäden**
 
-Das Wald-Wild-Gleichgewicht muss die natürliche Verjüngung der Wälder mit allen standortgerechten Baumarten gewährleisten.
+<sup>1</sup> Das Wald-Wild-Gleichgewicht muss die natürliche Verjüngung der Wälder mit allen standortgerechten Baumarten gewährleisten.
 
-### 4. Kapitel: Waldbewirtschaftung
+## 4 Waldbewirtschaftung
 
 #### Art. 22
 
@@ -366,109 +360,47 @@ Das Wald-Wild-Gleichgewicht muss die natürliche Verjüngung der Wälder mit all
 
 #### Art. 30
 
-Unterhalt der Wälder entlang von Strassen und Wasserläufen Die für den Unterhalt von öffentlichen Strassen, Gewässern, Flugschneisen, Eisenbahnlinien oder anderen Werken, die regelmässige Waldeingriffe erfordern, verantwortlichen Organe, erstellen für diesen Unterhalt ein Mehrjahresprogramm, das sie der Dienststelle zur Genehmigung vorlegen.
+**Unterhalt der Wälder entlang von Strassen und Wasserläufen**
 
-### 5. Kapitel: Schutz vor Naturgefahren
+<sup>1</sup> Die für den Unterhalt von öffentlichen Strassen, Gewässern, Flugschneisen, Eisenbahnlinien oder anderen Werken, die regelmässige Waldeingriffe erfordern, verantwortlichen Organe, erstellen für diesen Unterhalt ein Mehrjahresprogramm, das sie der Dienststelle zur Genehmigung vorlegen.
+
+## 5
 
 #### Art. 31
 
-**Anwendungsbereich**
-
-Die Bestimmungen dieses Kapitels präzisieren die Aufgaben und Zuständigkeiten im Bereich der Abwehr von Naturgefahren zum Schutz von Menschen, Tieren und erheblichen Sachwerten im Falle von Lawinen, Bodeninstabilitäten und den Murgängen in Wasserläufen, welche durch das kantonale Inventar der öffentlichen Oberflächengewässer nicht erfasst sind.
+**…**
 
 #### Art. 32
 
-**Aufgaben und Rolle der Dienststelle**
-
-<sup>1</sup> Die Dienststelle ist die zuständige kantonale Fachstelle für die Vorsorge und den Schutz gegen die Naturgefahren, die in dieser Gesetzgebung geregelt sind.
-
-<sup>2</sup> Die Dienststelle gilt als direkter Ansprechpartner für die Einwohnergemeinden und Dritte bezüglich aller mit den Naturgefahren verbundenen, finanziell unterstützten Projekte. Sie gewährleistet die Koordination mit den anderen betroffenen Dienststellen und spezialisierten Organen.
-
-<sup>3</sup> Die Einwohnergemeinden und Dritte haben vor Inangriffnahme eines finanziell unterstützungsfähigen Projekts die Dienststelle zu kontaktieren. Das Vorhandensein einer vorgängigen positiven Vormeinung der Dienststelle zum Projekt gilt als unabdingbare Voraussetzung für die Einleitung der weiteren Schritte und der Gewährung von finanziellen Förderungsbeiträgen.
-
-<sup>4</sup> Die Dienststelle:
-
-- a) berät und unterstützt die Einwohnergemeinden sowie Dritte im integralen Naturgefahrenmanagement;
-
-- b) gewährleist den administrativen und finanziellen Ablauf sowie das Controlling der subventionierten Massnahmen;
-
-- c) koordiniert die Vormeinungen zu Bauvorhaben, welche im Zusammenhang mit Naturgefahren stehen;
-
-- d) verfasst Vormeinungen zu subventionsfähigen Gesuchen betreffend die künstliche Lawinenauslösung sowie die Felssanierung;
-
-- e) informiert die Bevölkerung und Behörden im Rahmen ihrer Kompetenzen;
-
-- f) schliesst mit den betroffenen Einwohnergemeinden und Dritten Verträge betreffend die Beobachtung der Naturgefahren ab und überwacht die Einhaltung dieser Bestimmungen;
-
-- g) berät die kommunalen und regionalen Beobachter und organisiert ihre Ausbildung;
-
-- h) plant, errichtet, betreibt und unterhält die kantonalen Mess- und Überwachungsnetze in Koordination mit denjenigen des Bundes sowie in Zusammenarbeit mit den Einwohnergemeinden, den Werkeigentümern und den Anlagebetreibern.
-
-<sup>5</sup> Zur Erfüllung dieser Aufgaben kann die Dienststelle Leistungsverträge mit anderen Organen abschliessen.
+**…**
 
 #### Art. 33
 
-**Grundlagen**
-
-<sup>1</sup> Die Dienststelle erstellt, in Zusammenarbeit mit den betroffenen Dienststellen und spezialisierten Organen, die gemäss der Gesetzgebung in ihrem Zuständigkeitsbereich liegenden Grundlagen sowie die entsprechenden Grundlagendaten und führt sie nach:
-
-- a) den Gefahrenkataster und das Ereignisinventar;
-
-- b) die Gefahren- und Intensitätskarten;
-
-- c) das Schutzbauteninventar mit den allfälligen Schwachstellen und das entsprechende Wiederinstandstellungsprogramm;
-
-- d) die Konzepte und die Schutzziele auf dem kantonalen Plan, pro Gefahrenart und pro Kategorie des zu schützenden Objekts;
-
-- e) das Inventar der Standorte der künstlichen Lawinenauslösungen.
-
-<sup>2</sup> Die Einwohnergemeinden, die kantonalen Dienststellen sowie Dritte, die durch Naturereignisse betroffen sind, übermitteln der Dienststelle alle notwendigen Informationen für die Erstellung des Ereignisinventars.
+**…**
 
 #### Art. 34
 
-**Kantonale Naturgefahrenkommission**
+**…**
 
-<sup>1</sup> Zur Sicherstellung der administrativen und technischen Koordination zwischen den Dienststellen und Fachleuten, die sich mit Naturgefahren beschäftigen, welche entweder unter die vorliegende oder die Wasserbaugesetzgebung fallen, ernennt das Departement eine kantonale Naturgefahrenkommission.
-
-<sup>2</sup> Zu den Aufgaben der Kommission gehören namentlich:
-
-- a) der Vorschlag zur Festlegung einer gemeinsamen Strategie für die unterschiedlichen Kategorien von Naturgefahren, insbesondere um Schutzziele zu definieren, um Konzepte, Empfehlungen und Richtlinien auszuarbeiten, Methoden zu entwickeln sowie die Forschung, Kommunikation und Massnahmenfinanzierung;
-
-- b) die Sicherstellung des Informationsaustauschs über Inventare, Projekte und Studien, um die Koordination zu gewährleisten und Synergien zu entwickeln;
-
-- c) die Sicherstellung der territorialen Koordination in den Grundlagen, bei den Gefahrenkarten, bei Projekten, Studien und anderen Massnahmen;
-
-- d) die Koordination bei der Erstellung von Vormeinungen in wichtigen Dossiers;
-
-- e) die Koordination der Tätigkeiten der kommunalen und regionalen Beobachtungsbeauftragten und der Informationsströme aus den Messnetzen;
-
-- f) die Feststellung des Handlungsbedarfs bei der Prävention, der Beobachtung und beim Schutz vor Naturgefahren und der Vorschlag der entsprechenden Massnahmen;
-
-- g) der Auftritt als Ansprechpartner für die Bundesstellen, namentlich im Rahmen der Finanzplanung, der Ausarbeitung von Mehrjahresprogrammen und technischer Abklärungen;
-
-- h) die Förderung des Austauschs mit den Kantonen und Partnern aus dem Ausland.
-
-<sup>3</sup> Die Kommission setzt sich zusammen aus dem Chef der Dienststelle, dem Chef der für den Wasserbau zuständigen Dienststelle sowie den betreffenden Sektionschefs. Je nach Bedarf kann sie weitere Fachleute aus den Sektionen sowie ebenfalls Vertreter der für die juristischen Fragen zuständigen Dienststelle des Departements, der für die zivile Sicherheit zuständigen Dienststelle sowie der für die Raumentwicklung zuständigen Dienststelle beiziehen. Ihr Vorsitz wird von den beiden Dienstchefs jeweils für die Dauer eines Jahres alternierend wahrgenommen.
-
-### 6. Kapitel: Förderungsmassnahmen
+## 6 Förderungsmassnahmen
 
 #### Art. 35
 
 **Grundsätze**
 
-Die Förderungsbeiträge werden unter Berücksichtigung der Bedeutung des Objekts, der Prioritäten, der Ausführungsschwierigkeiten sowie der Unterhaltskosten bestimmt.
+<sup>1</sup> Die Förderungsbeiträge werden unter Berücksichtigung der Bedeutung des Objekts, der Prioritäten, der Ausführungsschwierigkeiten sowie der Unterhaltskosten bestimmt.
 
 #### Art. 36
 
 **Berufsbildung**
 
-Die Dienststelle kann die Absolvierung der Kurse, die für eine qualitative Ausführung der in dieser Gesetzgebung erwähnten Tätigkeiten notwendig sind, als obligatorisch erklären.
+<sup>1</sup> Die Dienststelle kann die Absolvierung der Kurse, die für eine qualitative Ausführung der in dieser Gesetzgebung erwähnten Tätigkeiten notwendig sind, als obligatorisch erklären.
 
 #### Art. 37
 
 **Förderung der Holznutzung**
 
-Bei Bauvorhaben, bei denen der Kanton als Bauherr auftritt oder finanziell beteiligt ist, muss jeweils eine zweckmässige Verwendung von Holz als Baustoff oder Energiequelle geprüft werden.
+<sup>1</sup> Bei Bauvorhaben, bei denen der Kanton als Bauherr auftritt oder finanziell beteiligt ist, muss jeweils eine zweckmässige Verwendung von Holz als Baustoff oder Energiequelle geprüft werden.
 
 #### Art. 38
 
@@ -496,7 +428,7 @@ Bei Bauvorhaben, bei denen der Kanton als Bauherr auftritt oder finanziell betei
 
 **Beiträge an die Forstwirtschaft**
 
-Der Kanton unterstützt die Verbesserung der Bewirtschaftungsbedingungen und die Schaffung von Bewirtschaftungsgemeinschaften falls die Kriterien betreffend Wirksamkeit und Wirtschaftlichkeit erfüllt sind.
+<sup>1</sup> Der Kanton unterstützt die Verbesserung der Bewirtschaftungsbedingungen und die Schaffung von Bewirtschaftungsgemeinschaften falls die Kriterien betreffend Wirksamkeit und Wirtschaftlichkeit erfüllt sind.
 
 #### Art. 41
 
@@ -524,7 +456,7 @@ Der Kanton unterstützt die Verbesserung der Bewirtschaftungsbedingungen und die
 
 <sup>3</sup> Das Departement erlässt die notwendigen Vorschriften für die Bewältigung von aussergewöhnlichen Waldschäden.
 
-### 7. Kapitel: Strafbestimmungen und Verwaltungszwang
+## 7 Strafbestimmungen und Verwaltungszwang
 
 #### Art. 44
 
@@ -541,25 +473,15 @@ Der Kanton unterstützt die Verbesserung der Bewirtschaftungsbedingungen und die
 <sup>1</sup> Zusätzlich zu den im Bundesrecht normierten Übertretungen werden namentlich folgende kantonalen Übertretungen mit Busse bestraft:
 
 - a) die Unterlassung der von der Einwohnergemeinde, vom Departement, der Dienststelle oder dem Revierförster angeordneten Pflegemassnahmen;
-
 - b) die Beschädigung von Waldbäumen oder Waldbestockungen;
-
 - c) die unerlaubte Erstellung von Kleinbauten und Kleinanlagen im Wald;
-
 - d) die unerlaubten Einzäunungen im Wald;
-
-- e) die Zuwiderhandlungen gegen Feuerverbote im Wald;
-
+- e) Handlungen welche Feuerschäden oder einen Waldbrand verursachen können, insbesondere Feuer welche ausserhalb der für diesen Zweck bezeichneten Orte liegt;
 - f) das Verlassen von ungelöschtem Feuer im Wald oder am Waldrand;
-
 - g) die Vornahme unbewilligter waldschädlicher Nebennutzungen gemäss den Bestimmungen über die nachteiligen Nutzungen;
-
 - h) die Beweidung ohne Bewilligung im Wald;
-
 - i) Winterwanderungen sowie namentlich das Skifahren und das Schneeschuhlaufen in verbotenen Waldzonen;
-
 - j) die Nichtbefolgung von anderen Anordnungen, welche die Forstpolizei in Anwendung der gesetzlichen Bestimmungen erlassen hat;
-
 - k) die unerlaubte Ablagerung oder Entnahme von Material und die Abfallbeseitigung im Wald.
 
 <sup>2</sup> Der Revierförster kann diese kantonalen Übertretungen gemäss dem Ordnungsbussenverfahren ahnden.
@@ -575,15 +497,10 @@ Der Kanton unterstützt die Verbesserung der Bewirtschaftungsbedingungen und die
 <sup>3</sup> Das Ordnungsbussenverfahren ist ausgeschlossen, falls:
 
 - a) die Widerhandlung zur Gefährdung oder Verletzung einer Person oder zu Sachschaden geführt hat;
-
 - b) die Widerhandlung nicht von einem ermächtigten Organ festgestellt worden ist;
-
 - c) die Widerhandlung von einer Person begangen wird, die das 15. Altersjahr noch nicht erfüllt hat;
-
 - d) der fehlbaren Person zusätzlich eine nicht in der Bussenliste aufgeführte Widerhandlung vorgeworfen wird;
-
 - e) die Summe mehrerer Bussenbeträge 700 Franken übersteigen würde;
-
 - f) Gründe für die Strafbefreiung im Sinne von Artikel 52 StGB gegeben sind.
 
 <sup>4</sup> Es sind ausschliesslich die offiziellen Formulare zu verwenden.
@@ -608,54 +525,51 @@ Der Kanton unterstützt die Verbesserung der Bewirtschaftungsbedingungen und die
 
 <sup>2</sup> Das Departement und der Waldeigentümer sind berechtigt, Schadenersatzansprüche bei den zuständigen Instanzen geltend zu machen.
 
-### 8. Kapitel: Schluss- und Übergangsbestimmungen
+## 8 Schluss- und Übergangsbestimmungen
 
 #### Art. 48
 
 **Übergangsbestimmung**
 
-Die aktuell vom Kanton verwalteten Forstreservefonds der Waldeigentümer werden innert einer Frist von sechs Monaten ab dem Inkrafttreten der vorliegenden Verordnung an ihre Eigentümer zurückerstattet.
+<sup>1</sup> Die aktuell vom Kanton verwalteten Forstreservefonds der Waldeigentümer werden innert einer Frist von sechs Monaten ab dem Inkrafttreten der vorliegenden Verordnung an ihre Eigentümer zurückerstattet.
 
 #### Art. 49
 
 **Aufhebung bisherigen Rechts**
 
-Mit Inkrafttreten dieser Verordnung werden aufgehoben:
+<sup>1</sup> Mit Inkrafttreten dieser Verordnung werden aufgehoben:
 
 - a) das Vollziehungsreglement zum Forstgesetz vom 11. Dezember 1985;
-
 - b) die Verordnung über den Waldbegriff vom 28. April 1999;
-
 - c) das Reglement betreffend die Benutzung des kantonalen Aufforstungsfonds vom 26. November 1943.
 
 #### Art. 50
 
 **Inkrafttreten**
 
-Die vorliegende Verordnung wird im Amtsblatt veröffentlicht, um am 1. Januar 2013 in Kraft zu treten.
+<sup>1</sup> Die vorliegende Verordnung wird im Amtsblatt veröffentlicht, um am 1. Januar 2013 in Kraft zu treten.
 
-So beschlossen im Staatsrat in Sitten, den 30. Januar 2013.
+## A1 Anhang 1 zu Artikel 46
 
-Die Präsidentin des Staatsrates: Esther Waeber-Kalbermatten Der Staatskanzler: Philipp Spörri
+#### Art. A1-1
 
-## Anhang
+**Liste der Ordnungsbussen**
 
-### Liste der Ordnungsbussen
+<sup>1</sup>
 
-**Betrag (CHF)**
+<table>
+<tr><th></th><th>Widerhandlungen</th><th>Betrag</th></tr>
+<tr><td>1</td><td>Unterlassung der von der Einwohnergemeinde, vom Departement, von der Dienstelle oder vom Revierförster angeordneten Pflegemassnahmen</td><td>Fr. 500</td></tr>
+<tr><td>2</td><td>Beschädigung von Waldbäumen oder Waldbestockungen</td><td>Fr. 200/Baum</td></tr>
+<tr><td>3</td><td>Unerlaubte Erstellung von Kleinbauten und Kleinanlagen im Wald</td><td>Fr. 50/m² Fr. 20/m'</td></tr>
+<tr><td>4</td><td>Unerlaubte Einzäunungen im Wald</td><td>Fr. 20/m'</td></tr>
+<tr><td>5</td><td>Zuwiderhandlungen gegen Feuerverbote im Wald</td><td>Fr. 500</td></tr>
+<tr><td>6</td><td>Verlassen von ungelöschtem Feuer im Wald oder am Waldrand</td><td>Fr. 500</td></tr>
+<tr><td>7</td><td>Unbewilligte waldschädliche Nebennutzungen gemäss den Bestimmungen über die nachteiligen Nutzungen</td><td>Fr. 100</td></tr>
+<tr><td>8</td><td>Beweidung ohne Bewilligung im Wald</td><td>Fr. 100</td></tr>
+<tr><td>9</td><td>Winterwanderungen, Skifahren, Schneeschuhlaufen, etc. in verbotenen Waldzonen</td><td>Fr. 100</td></tr>
+<tr><td>10</td><td>Nichtbefolgung von anderen Anordnungen, welche die Forstpolizei in Anwendung der gesetzlichen Bestimmungen erlassen hat</td><td>Fr. 200</td></tr>
+<tr><td>11</td><td>Unerlaubte Ablagerung oder Entnahme von Material und die Abfallbeseitigung im Wald</td><td>Fr. 200</td></tr>
+</table>
 
-### Widerhandlungen
-
-## Weitere Fussnoten
-
-- [1] Unterlassung der von der Einwohnergemeinde, vom 500.- Departement, von der Dienstelle oder vom Revierförster angeordneten Pflegemassnahmen
-- [2] Beschädigung von Waldbäumen oder Waldbestockungen 200.- / Baum
-- [3] Unerlaubte Erstellung von Kleinbauten und Kleinanlagen im 50.- / m2 Wald 20.- / m'
-- [4] Unerlaubte Einzäunungen im Wald 20.- / m'
-- [5] Zuwiderhandlungen gegen Feuerverbote im Wald 500.-
-- [6] Verlassen von ungelöschtem Feuer im Wald oder am 500.- Waldrand
-- [7] Unbewilligte waldschädliche Nebennutzungen gemäss den 100.- Bestimmungen über die nachteiligen Nutzungen
-- [8] Beweidung ohne Bewilligung im Wald 100.-
-- [9] Winterwanderungen, Skifahren, Schneeschuhlaufen, etc. in 100.- verbotenen Waldzonen
-- [10] Nichtbefolgung von anderen Anordnungen, welche die 200.- Forstpolizei in Anwendung der gesetzlichen Bestimmungen erlassen hat
-- [11] Unerlaubte Ablagerung oder Entnahme von Material und die 200.- Abfallbeseitigung im Wald
+CSW BO/Abl. 7/2013
