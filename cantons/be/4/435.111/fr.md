@@ -4,13 +4,13 @@ number: "435.111"
 title: "Ordonnance sur la formation professionnelle, la formation continue et l'orientation professionnelle"
 short: OFOP
 language: fr
-version: 2023-02-01
-valid_until: 2024-07-31
-version_adopted: 2023-01-25
+version: 2024-08-01
+valid_until: 2025-07-31
+version_adopted: 2024-06-19
 adopted: 2005-11-09
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/435.111"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2789/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3054/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2789/pdf_file"
 
 (OFOP)
 
-du 09.11.2005 (état au 01.02.2023)
+du 09.11.2005 (état au 01.08.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -132,7 +132,7 @@ arrête:
 
 **Compétence pour la partie francophone du canton**
 
-<sup>1</sup> Pour autant que les Sections de la formation en entreprise et des écoles professionnelles soient déclarées compétentes ci-après, la Section francophone est compétente pour le Jura bernois.
+<sup>1</sup> Ci-après, pour autant que ​la Section de la formation en entreprise ou la Section de la formation professionnelle en école et ​de la formation continue soient déclarées compétentes dans le domaine de la formation professionnelle initiale, la Section francophone de l’Office des écoles moyennes et de la formation professionnelle est compétente pour le Jura bernois.
 
 <sup>2</sup> La Section francophone assume ses tâches, en tout ou en partie, de manière décentralisée.
 
@@ -185,7 +185,7 @@ arrête:
 
 <sup>3</sup> Elle fixe le nombre de classes et de prestataires de formations transitoires dans la limite des moyens disponibles.
 
-<sup>4</sup> La Section des écoles professionnelles de l'Office des écoles moyennes et de la formation professionnelle fixe les zones de recrutement des formations transitoires.
+<sup>4</sup> La Section de la formation professionnelle en école et de la formation continue de l’Office des écoles moyennes et de la formation professionnelle fixe les zones de recrutement des formations transitoires.
 
 #### Art. 14
 
@@ -366,7 +366,7 @@ arrête:
 
 <sup>1</sup> L’Office des écoles moyennes et de la formation professionnelle soutient les mesures permettant de coordonner dans le temps les cours interentreprises avec l’enseignement dans les écoles professionnelles, afin de ne pas entraver celui-ci.
 
-<sup>2</sup> L’infrastructure de l’école professionnelle doit si possible être utilisée pour dispenser les cours interentreprises.
+<sup>2</sup> …
 
 #### Art. 33
 
@@ -388,6 +388,8 @@ arrête:
 
 <sup>3</sup> La Direction de l’instruction publique et de la culture définit les lieux d’implantation pour les différentes professions, après avoir entendu les organisations du monde du travail.
 
+<sup>4</sup> L’ouverture et la fermeture de sites annexes localisés à un autre endroit que le lieu d’implantation principal requièrent l’autorisation de l’Office des écoles moyennes et de la formation professionnelle.
+
 #### Art. 35
 
 **Plans d’études**
@@ -402,7 +404,7 @@ arrête:
 
 **Enseignement**
 
-<sup>1</sup> La Direction de l'instruction publique et de la culture règle par voie d'ordonnance les modalités de détail concernant l'enseignement dans les écoles professionnelles, en particulier le début de l'année scolaire, l'organisation de l'enseignement et des classes, ainsi que les cours facultatifs, les cours d'appui et les cours de culture générale étendue (cours CGE).
+<sup>1</sup> La Direction de l’instruction publique et de la culture règle par voie d’ordonnance les modalités de détail concernant l’enseignement dans les écoles professionnelles, en particulier le début de l’année scolaire, l’organisation de l’enseignement et des classes, les effectifs des classes, ainsi que les cours facultatifs, les cours d’appui et les cours de culture générale étendue (cours CGE).
 
 #### Art. 37
 
@@ -442,22 +444,22 @@ arrête:
 
 **Conseil et surveillance**
 
-<sup>1</sup> L’inspecteur des écoles professionnelles compétent ou l’inspectrice des écoles professionnelles compétente de l’Office des écoles moyennes et de la formation professionnelle conseille et surveille les écoles professionnelles.
+<sup>1</sup> Le service compétent de l’Office des écoles moyennes et de la formation professionnelle conseille et surveille les écoles professionnelles.
 
-<sup>2</sup> Il ou elle prépare la conclusion de conventions de prestations et des contrats de prestations avec les écoles et les institutions de la formation professionnelle et est responsable de la vérification périodique des objectifs.
+<sup>2</sup> Il prépare la conclusion de conventions de prestations et des contrats de prestations avec les écoles et les institutions de la formation professionnelle et est responsable de la vérification périodique des objectifs.
 
-<sup>3</sup> A titre d’autorité de surveillance, il ou elle a accès en tout temps aux écoles professionnelles et aux institutions et il ou elle est habilitée à consulter les dossiers tenus par les écoles professionnelles et les institutions.
+<sup>3</sup> A titre d’autorité de surveillance, il a accès en tout temps aux écoles professionnelles et aux institutions et est habilité à consulter les dossiers tenus par les écoles professionnelles et les institutions.
 
 #### Art. 40
 
-**Conseil d’école 1. Nomination, composition et organisation**
+**Conseil d’école 1. Constitution, nomination, composition et organisation**
 
-<sup>1</sup> La Direction de l’instruction publique et de la culture peut nommer un conseil d’école. La direction et le conseil d’école disposent d’un droit de proposition. L’institution d’un conseil d’école procède des critères suivants:
+<sup>1</sup> Le règlement de l’école peut prévoir un conseil d’école. L’institution d’un conseil d’école procède des critères suivants:
 
 - a intérêt d’un conseil d’école pour l’ancrage souhaité dans le monde du travail et
 - b intérêt d’un conseil d’école pour l’ancrage souhaité dans la région.
 
-<sup>2</sup> Le conseil d’école se compose de cinq à neuf membres nommés par la Direction de l’instruction publique et de la culture. En règle générale, ces membres représentent en majorité les organisations du monde du travail et la région. La représentation des hommes et des femmes doit être équilibrée. Les organisations du monde du travail et les communes-sièges disposent d’un droit de proposition.
+<sup>2</sup> Le conseil d’école se compose de cinq à neuf membres nommés par l'Office des écoles moyennes et de la formation professionnelle. En règle générale, ces membres représentent en majorité les organisations du monde du travail et la région. La représentation des hommes et des femmes doit être équilibrée. Les organisations du monde du travail et les communes-sièges disposent d’un droit de proposition.
 
 <sup>2a</sup> Le Conseil du Jura bernois a le droit de proposer en priorité un membre s'il s'agit d'une école ayant son siège dans le Jura bernois et le Conseil des affaires francophones de l'arrondissement de Biel/Bienne de même s'il s'agit d'une école proposant des filières pour les élèves francophones à Bienne.
 
@@ -473,10 +475,9 @@ arrête:
 
 <sup>1</sup> Le conseil d’école
 
-- a conseille la direction d’école pour l’orientation stratégique de l’école et dispose d’un droit de proposition;
-- b propose, pour les écoles cantonales, à l’Office des écoles moyennes et de la formation professionnelle l’engagement du directeur ou de la directrice de l’école;
-- c conseille la direction d’école pour les questions de personnel et le traitement de cas disciplinaires ou d’autres problèmes;
-- d assume les tâches prévues par la législation sur le statut du personnel enseignant;
+- a conseille la direction d’école pour l’orientation stratégique de l’école;
+- b siège avec un représentant ou une représentante au sein de l’organe chargé de nommer le directeur ou la directrice assumant la responsabilité générale d'une école professionnelle cantonale;
+- c–d …
 - e encourage et soutient les contacts entre l’école professionnelle et son environnement et
 - f soutient la direction d’école dans le recrutement d’entreprises de stage pour autant qu’elle en soit responsable
 
@@ -484,11 +485,11 @@ arrête:
 
 #### Art. 42
 
-**3. Commissions spécialisées**
+**Commissions spécialisées**
 
-<sup>1</sup> Dans les écoles professionnelles de grande dimension dotées de structures complexes, le règlement d’école peut prévoir des commissions spécialisées.
+<sup>1</sup> Dans les écoles professionnelles dotées de structures complexes, le règlement d’école peut prévoir des commissions spécialisées.
 
-<sup>2</sup> Les dispositions régissant la composition et l’organisation des conseils d’école s’appliquent par analogie.
+<sup>2</sup> Les dispositions régissant la nomination, la composition et l’organisation des conseils d’école s’appliquent par analogie.
 
 <sup>3</sup> Le règlement d’école définit les compétences et les tâches des commissions spécialisées.
 
@@ -558,10 +559,11 @@ arrête:
 
 <sup>2</sup> Son volume correspond aux trois quarts de celui du pool de direction.
 
-<sup>3</sup> Il est augmenté:
+<sup>3</sup> Il est augmenté
 
-- a d’un pourcentage de degré d’occupation équivalant à une demi-leçon par classe pour rétribuer la fonction de maîtrise de classe dans le cadre des formations professionnelles initiales duales,
-- b d’un pourcentage de degré d’occupation équivalant à une leçon entière par classe pour rétribuer la fonction de maîtrise de classe dans le cadre des formations à plein temps, et
+- a de cinq pour cent de degré d’occupation par classe pour rétribuer la fonction de maîtrise de classe, l'allocation prévue à l'article 36b OSE étant comptabilisée à part,
+- b …
+- b1 pour rétribuer le soutien apporté aux membres du corps enseignant en début de carrière ou reprenant l'activité d'enseignement et
 - c pour rétribuer l’accomplissement de tâches qui concernent toute l'école.
 
 #### Art. 47c
@@ -570,7 +572,7 @@ arrête:
 
 <sup>1</sup> Les ressources des pools sont employées en règle générale pour rémunérer des engagements régis par la législation sur le statut du corps enseignant.
 
-<sup>2</sup> Avec l’accord de la Section des écoles professionnelles de l’Office des écoles moyennes et de la formation professionnelle, elles peuvent être
+<sup>2</sup> Avec l’accord préalable de la Section de la formation professionnelle en école et de la formation continue de l’Office des écoles moyennes et de la formation professionnelle, elles peuvent être
 
 - a employées pour rémunérer des engagements régis par la législation sur le personnel ou
 - b transformées en ressources matérielles et utilisées comme telles.
@@ -585,8 +587,7 @@ arrête:
 
 - a les écoles professionnelles cantonales,
 - b les écoles professionnelles subventionnées,
-- c les écoles supérieures cantonales et
-- d les écoles supérieures subventionnées avec lesquelles le canton a conclu un contrat de délégation.
+- c–d …
 
 <sup>3</sup> Elle peut constituer des sous-conférences.
 
@@ -695,7 +696,7 @@ arrête:
 
 **8. Personnes en formation extracantonales**
 
-<sup>1</sup> La Section des écoles professionnelles de l’Office des écoles moyennes et de la formation professionnelle autorise des personnes qui disposent d’un contrat d’apprentissage conclu dans un autre canton ou dont le domicile légal en matière de bourses est situé hors du canton de Berne à fréquenter une école cantonale si leur canton de domicile donne une garantie de participation aux frais ou que le financement prévu à l’alinéa 3 est assuré d’une autre manière par la personne en formation. Les dispositions divergentes prévues par les conventions intercantonales sont réservées.
+<sup>1</sup> La Section de la formation professionnelle en école et de la formation continue de l’Office des écoles moyennes et de la formation professionnelle autorise des personnes qui disposent d’un contrat d’apprentissage conclu dans un autre canton ou dont le domicile légal en matière de bourses est situé hors du canton de Berne à fréquenter une école cantonale si leur canton de domicile donne une garantie de participation aux frais ou que le financement prévu à l’alinéa 3 est assuré d’une autre manière par la personne en formation. Les dispositions divergentes prévues par les conventions intercantonales sont réservées.
 
 <sup>2</sup> Les personnes en formation ayant conclu un contrat d’apprentissage bernois sont, indépendamment de leur domicile, considérées comme bernoises pour autant qu’elles ne suivent pas une formation à plein temps selon les articles 63 ou 64.
 
@@ -705,7 +706,7 @@ arrête:
 
 **9. Fréquentation d’une école extracantonale**
 
-<sup>1</sup> La Section des écoles professionnelles de l’Office des écoles moyennes et de la formation professionnelle statue d'office ou sur demande sur la fréquentation d'une école située en dehors du canton si
+<sup>1</sup> La Section de la formation professionnelle en école et de la formation continue de l’Office des écoles moyennes et de la formation professionnelle statue d’office ou sur demande sur la fréquentation d’une école située en dehors du canton si
 
 - a la profession d’apprentissage souhaitée n’est pas enseignée dans le canton de Berne;
 - b le surplus de personnes en formation nécessiterait l’ouverture d’une classe en sous-effectif ou
@@ -748,7 +749,7 @@ arrête:
 
 <sup>1</sup> Les écoles supérieures de commerce dispensent en collaboration avec les milieux économiques la formation à la pratique professionnelle, la formation scolaire et les contenus de formation des cours interentreprises.
 
-<sup>2</sup> L’admission peut se fonder sur une recommandation absolue d’un établissement de la scolarité obligatoire ou sur un examen permettant de vérifier que le candidat ou la candidate possède les connaissances scolaires requises.
+<sup>2</sup> L’admission peut se fonder sur une évaluation d’un établissement de la scolarité obligatoire ou sur un examen permettant de vérifier que le candidat ou la candidate possède les connaissances scolaires requises.
 
 #### Art. 64
 
@@ -797,9 +798,9 @@ arrête:
 
 **Admission, promotion et examen de maturité professionnelle**
 
-<sup>1</sup> Est admis en MP 1 quiconque dispose d'une recommandation absolue d'un établissement de la scolarité obligatoire ou a réussi un examen permettant de vérifier que le candidat ou la candidate possède les connaissances scolaires requises.
+<sup>1</sup> L’admission en MP 1 est subordonnée à une évaluation d’un établissement de la scolarité obligatoire, à une admission définitive à une filière gymnasiale ou à une filière d’ECG, à la fréquentation du niveau scolaire demandé au degré secondaire I ou à la réussite d’un examen permettant de vérifier que le candidat ou la candidate possède les connaissances scolaires requises.
 
-<sup>2</sup> Est admis en MP 2 quiconque a suivi avec succès un cours CGE ou a réussi un examen d'admission.
+<sup>2</sup> L’admission en MP 2 est subordonnée à la fréquentation réussie d’un cours CGE, à une évaluation à l’issue de la formation initiale ou à un examen d’admission.
 
 <sup>3</sup> La Direction de l'instruction publique et de la culture règle les détails concernant la procédure d'admission, la promotion, les dispenses et l'examen de maturité professionnelle par voie d'ordonnance.
 
@@ -807,9 +808,9 @@ arrête:
 
 **Lieu scolaire**
 
-<sup>1</sup> Le lieu scolaire pour suivre l'MP 2 peut être choisi librement. L’alinéa 2 est réservé.
+<sup>1</sup> Le lieu scolaire pour suivre la MP 2 peut être choisi librement. L’alinéa 2 est réservé.
 
-<sup>2</sup> La Section des écoles professionnelles de l’Office des écoles moyennes et de la formation professionnelle peut, pour de justes motifs, affecter les personnes en formation à un autre lieu scolaire. L’article 50, alinéa 2, lettres a et b sont applicables par analogie.
+<sup>2</sup> La Section de la formation professionnelle en école et de la formation continue de l’Office des écoles moyennes et de la formation professionnelle peut, pour de justes motifs, affecter les personnes en formation à un autre lieu scolaire. L’article 50, alinéa 2, lettres a et b s’applique par analogie.
 
 #### Art. 68b
 
@@ -845,7 +846,7 @@ arrête:
 
 <sup>1</sup> La CCMP se constitue elle-même.
 
-<sup>2</sup> La Section des écoles professionnelles de l’Office des écoles moyennes et de la formation professionnelle assure le secrétariat et prépare les dossiers de la CCMP.
+<sup>2</sup> Le service compétent de l’Office des écoles moyennes et de la formation professionnelle assure la direction du secrétariat et la préparation des dossiers.
 
 <sup>3</sup> La CCMP édicte un règlement interne.
 
@@ -1091,7 +1092,20 @@ arrête:
 
 **Droit applicable**
 
-<sup>1</sup> Les dispositions des articles 37 à 42, 45, 48, 49 et 54 à 58, valables pour les écoles professionnelles, s'appliquent par analogie aux écoles supérieures cantonales.
+<sup>1</sup> Les dispositions des articles 37 à 42, 45, 49 et 54 à 58, valables pour les écoles professionnelles, s’appliquent par analogie aux écoles supérieures cantonales.
+
+#### Art. 92a
+
+**Conférence des écoles supérieures**
+
+<sup>1</sup> La Conférence des écoles supérieures du canton de Berne défend les intérêts des écoles et est l’organe consultatif de l’Office des écoles moyennes et de la formation professionnelle.
+
+<sup>2</sup> Elle est composée des directions des écoles suivantes :
+
+- a les écoles supérieures cantonales et
+- b les écoles supérieures subventionnées avec lesquelles le canton a conclu un contrat de délégation.
+
+<sup>3</sup> Au surplus, l’article 48 est applicable par analogie.
 
 #### Art. 93
 
@@ -1116,9 +1130,9 @@ arrête:
 - c Technicien/ne dipl. ES Technique du bois (ES Bois Bienne) et
 - d Technicien/ne dipl. ES en génie mécanique/en systèmes industriels (Höhere Fachschule für Technik Mittelland).
 
-<sup>2</sup> Le canton couvre les coûts restants des filières préparant aux professions mentionnées en annexe à l'ordonnance du 23 octobre 2013 sur les soins hospitaliers (OSH)[^94a-1].
+<sup>2</sup> Le canton couvre les coûts restants des filières préparant aux professions de la santé non universitaires conformément à l’article 32 de l’ordonnance du 23 octobre 2013 sur les soins hospitaliers (OSH)[^94a-1].
 
-[^94a-1]: RSB 812.112
+[^94a-1]: RSB [812.112](https://www.belex.sites.be.ch/data/812.112/fr)
 
 #### Art. 94b
 
@@ -1222,7 +1236,7 @@ arrête:
 
 #### Art. 105
 
-<sup>1</sup> La Section de la formation continue et de la formation professionnelle supérieure de l’Office des écoles moyennes et de la formation professionnelle choisit les prestataires.
+<sup>1</sup> La Section de la formation professionnelle en école et de la formation continue de l’Office des écoles moyennes et de la formation professionnelle choisit les prestataires.
 
 <sup>2</sup> Pour faire son choix, elle tient compte en particulier des critères suivants:
 
@@ -1355,7 +1369,7 @@ arrête:
 
 **Contenu**
 
-<sup>1</sup> Les conventions et les contrats de prestations contiennent au moins les indications suivantes:
+<sup>1</sup> Les conventions de prestations et les contrats de prestations contiennent au moins les indications suivantes:
 
 - a les parties à la convention,
 - b les bases légales,
@@ -1367,8 +1381,11 @@ arrête:
 - h les ressources et les prestations propres,
 - i les dispositions concernant les degrés de couverture des coûts pour les prestataires cantonaux,
 - k les normes minimales en matière de qualité et d’évaluation,
-- l le contenu et l’étendue du reporting et du controlling et
-- m les modalités et l’étendue de la collecte de données.
+- l le contenu et l’étendue du reporting et du controlling,
+- m les modalités et l’étendue de la collecte de données,
+- n les modalités et l’étendue des prestations que la Direction de l’instruction publique et de la culture ou l’Office des écoles moyennes et de la formation professionnelle doivent fournir de manière centralisée,
+- o les modalités de la communication et
+- p les modalités concernant les conflits et les violations du contrat.
 
 #### Art. 116
 
@@ -1515,19 +1532,20 @@ arrête:
 
 <sup>3</sup> Pour les examens qui sont organisés par des tiers, une contribution forfaitaire aux coûts fixes et une contribution forfaitaire par candidat ou candidate est versée, comprenant les indemnités versées aux experts et aux expertes et le remboursement de leurs frais. Les contributions forfaitaires sont calculées de manière à ce qu’elles couvrent les coûts et à ce que la procédure ne revienne pas plus cher que si le canton fournissait lui-même la prestation.
 
-<sup>4</sup> Le matériel nécessaire et d’éventuels frais supplémentaires sont facturés en partie ou en totalité aux candidats et candidates qui ne sont pas détenteurs d’un contrat d’apprentissage. Le règlement de ces frais conditionne l’admission à l’examen.
+<sup>4</sup> Le matériel nécessaire et d’éventuels frais supplémentaires sont facturés en partie ou en totalité aux candidats et candidates qui ne sont pas détenteurs ou détentrices d’un contrat d’apprentissage.
 
 #### Art. 130
 
-**Autre procédure de qualification conformément à l’article 32 OFPr**
+**Autres procédures de qualification conformément à l’article 31 OFPr[^130-1]**
 
-<sup>1</sup> Les autres procédure de qualification sanctionnées par un CFC au sens de l'article 32 OFPr sont gratuites pour les personnes qui n'ont pas de CFC ni de diplôme d'école moyenne et qui ont leur domicile civil dans le canton de Berne. Les frais de matériel sont facturés.[^130-1]
+<sup>1</sup> Les autres procédures de qualification sanctionnées par un certificat fédéral de capacité au sens de l’article 31 OFPr[^130-2] sont gratuites pour les personnes qui ont leur domicile civil dans le canton de Berne. Les frais pour le matériel nécessaire et les frais supplémentaires éventuels sont entièrement ou partiellement facturés.
 
-<sup>2</sup> Les autres candidats et candidates prennent à leur charge au plus 60 pour cent des frais.
+<sup>2</sup> …
 
 <sup>3</sup> Si les procédures de validation sont conduites par des tiers, une contribution forfaitaire aux frais est versée. Le montant de cette contribution est calculé de manière à ce qu’elle couvre les coûts et à ce que la procédure ne revienne pas plus cher que si le canton fournissait lui-même la prestation.
 
-[^130-1]: Rectifié le 23.02.2022 par le ROB 22-016
+[^130-1]: RS [412.101](https://db.clex.ch/link/Bund/412.101/fr)
+[^130-2]: RS [412.101](https://db.clex.ch/link/Bund/412.101/fr)
 
 #### Art. 130a
 
@@ -1544,7 +1562,7 @@ arrête:
 
 <sup>4</sup> …
 
-<sup>3a</sup> La Section de la formation continue et de la formation professionnelle supérieure de l'Office des écoles moyennes et de la formation professionnelle statue sur demande.
+<sup>3a</sup> La Section de la formation professionnelle en école et de la formation continue de l’Office des écoles moyennes et de la formation professionnelle statue sur demande.
 
 #### Art. 130b
 
@@ -1606,8 +1624,14 @@ arrête:
 
 <sup>1</sup> Les émoluments prélevés pour la fréquentation
 
-- a d'une année scolaire de préparation professionnelle se montent à 1000 francs par an;
+- a d’une année scolaire de préparation professionnelle
+  - 1 se montent à 1000 francs par an pour une année scolaire à plein temps;
+  - 2 sont réduits au prorata du temps de formation pour une année scolaire à temps partiel;
+- a1 d’une solution transitoire en vue de la préparation à des formations initiales spécifiques
+  - 1 se montent à 500 francs par semestre pour les formations à plein temps;
+  - 2 sont réduits au prorata du temps de formation pour les formations à temps partiel;
 - b de cours d’écoles professionnelles destinés aux auditeurs et auditrices libres sont conformes au tarif des conventions intercantonales;
+- b1 de cours d’écoles professionnelles se montent à 300 francs par semestre pour les personnes en formation visées à l’article 32 OFPr qui ont un diplôme du degré secondaire II;
 - c d’un cours préparatoire ou d’une offre non encouragée proposés par un prestataire cantonal correspondent aux coûts complets;
 - d d'une filière d’une école supérieure cantonale ou d’une filière visée à l'article 94a, alinéa 1 correspondent aux coûts complets après déduction du forfait de subventionnement cantonal;
 - e d'une filière d’une école supérieure visée à l'article 94a, alinéa 2 ou à l'article 99, alinéa 2 se montent à 1500 francs par an;
@@ -1699,6 +1723,7 @@ arrête:
 - c les tâches, les responsabilités et les compétences des directions d’école,
 - d les modalités de détail concernant le lieu scolaire, les absences, les dispenses et l’évaluation des prestations dans les écoles professionnelles ainsi que la fréquentation d’établissements situés en dehors du canton,
 - e …
+- e1 l’admission et la promotion pour les écoles supérieures de commerce,
 - f l’admission, la promotion, les dispenses et les examens finaux pour la maturité professionnelle,
 - g les compétences dans le domaine des procédures de qualification ainsi que l’organisation et la conduite de ces dernières,
 - h les modalités de détail concernant la procédure de qualification en cas de formation acquise par des voies informelles,
@@ -1706,8 +1731,9 @@ arrête:
 - k les contenus et les groupes cibles de la formation continue ainsi que les conditions préalables au subventionnement et la procédure,
 - l les modalités de détail concernant l’offre de base et l’offre élargie de l’orientation professionnelle et personnelle,
 - m …
-- n les degrés de couverture des coûts et les indices concernant les cantines et les internats ainsi que
-- o les indemnités des experts et des expertes, des spécialistes ainsi que des présidents et des présidentes et
+- n les degrés de couverture des coûts et les indices concernant les cantines et les internats,
+- o les indemnités des experts et des expertes, des spécialistes ainsi que des présidents et des présidentes,
+- o1 les modalités de détail concernant la rétribution du soutien apporté aux membres du corps enseignant en début de carrière ou reprenant l’activité d’enseignement et
 - p les modalités de détail relatives aux cours préparatoires bénéficiant d'un encouragement particulier.
 
 ## 10 Dispositions transitoires

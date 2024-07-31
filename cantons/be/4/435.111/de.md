@@ -4,13 +4,13 @@ number: "435.111"
 title: "Verordnung über die Berufsbildung, die Weiterbildung und die Berufsberatung"
 short: BerV
 language: de
-version: 2023-02-01
-valid_until: 2024-07-31
-version_adopted: 2023-01-25
+version: 2024-08-01
+valid_until: 2025-07-31
+version_adopted: 2024-06-19
 adopted: 2005-11-09
 in_force: 2006-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/435.111"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2789/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3054/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2789/pdf_file"
 
 (BerV)
 
-vom 09.11.2005 (Stand 01.02.2023)
+vom 09.11.2005 (Stand 01.08.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -134,7 +134,7 @@ beschliesst:
 
 **Zuständigkeit für den französischsprachigen Kantonsteil**
 
-<sup>1</sup> Soweit nachfolgend die Abteilungen Betriebliche Bildung bzw. Berufsfachschulen für zuständig erklärt werden, ist für den Berner Jura die französischsprachige Abteilung zuständig.
+<sup>1</sup> Soweit nachfolgend im Bereich der Grundbildung die Abteilungen Betriebliche Bildung bzw. schulische Berufsbildung und Weiterbildung des Mittelschul- und Berufsbildungsamts für zuständig erklärt werden, ist für den Berner Jura die französischsprachige Abteilung zuständig.
 
 <sup>2</sup> Die französischsprachige Abteilung nimmt ihre Aufgaben ganz oder teilweise regional wahr.
 
@@ -187,7 +187,7 @@ beschliesst:
 
 <sup>3</sup> Sie bestimmt die Anzahl Klassen und Anbieter von Brückenangeboten im Rahmen der verfügbaren Mittel.
 
-<sup>4</sup> Die Abteilung Berufsfachschulen des Mittelschul- und Berufsbildungsamts legt die Einzugsgebiete der Brückenangebote fest.
+<sup>4</sup> Die Abteilung schulische Berufsbildung und Weiterbildung des Mittelschul- und Berufsbildungsamts legt die Einzugsgebiete der Brückenangebote fest.
 
 #### Art. 14
 
@@ -368,7 +368,7 @@ beschliesst:
 
 <sup>1</sup> Das Mittelschul- und Berufsbildungsamt unterstützt Massnahmen zur zeitlichen Koordination der überbetrieblichen Kurse mit dem Berufsfachschulunterricht, mit dem Ziel, dass dieser nicht beeinträchtigt wird.
 
-<sup>2</sup> Für die Durchführung der überbetrieblichen Kurse soll nach Möglichkeit die Infrastruktur der Berufsfachschule benutzt werden.
+<sup>2</sup> …
 
 #### Art. 33
 
@@ -390,6 +390,8 @@ beschliesst:
 
 <sup>3</sup> Die Bildungs- und Kulturdirektion bestimmt nach Anhörung der Organisationen der Arbeitswelt die Standorte für die einzelnen Lehrberufe.
 
+<sup>4</sup> Die Eröffnung oder Schliessung von Filialstandorten an anderen Orten als dem Hauptstandort erfordert die Bewilligung des Mittelschul- und Berufsbildungsamts.
+
 #### Art. 35
 
 **Lehrpläne**
@@ -404,7 +406,7 @@ beschliesst:
 
 **Unterricht**
 
-<sup>1</sup> Die Bildungs- und Kulturdirektion regelt durch Verordnung Näheres zum Unterricht an Berufsfachschulen, insbesondere zum Schuljahresbeginn, zur Unterrichts- und Klassenorganisation sowie zu Stütz- und Freifachkursen und den Kursen Erweiterte Allgemeinbildung (EA-Kurse).
+<sup>1</sup> Die Bildungs- und Kulturdirektion regelt durch Verordnung Näheres zum Unterricht an Berufsfachschulen, insbesondere zum Schuljahresbeginn, zur Unterrichts- und Klassenorganisation, zu Klassengrössen sowie zu Stütz- und Freifachkursen und den Kursen Erweiterte Allgemeinbildung (EA-Kurse).
 
 #### Art. 37
 
@@ -444,22 +446,22 @@ beschliesst:
 
 **Beratung und Aufsicht**
 
-<sup>1</sup> Die zuständige Berufsschulinspektorin oder der zuständige Berufsschulinspektor des Mittelschul- und Berufsbildungsamts berät und beaufsichtigt die Berufsfachschulen.
+<sup>1</sup> Die zuständige Stelle des Mittelschul- und Berufsbildungsamts berät und beaufsichtigt die Berufsfachschulen.
 
-<sup>2</sup> Sie oder er bereitet den Abschluss von Leistungsvereinbarungen und Leistungsverträgen mit den Schulen und Institutionen der Berufsbildung vor und ist für die periodische Zielüberprüfung verantwortlich.
+<sup>2</sup> Sie bereitet den Abschluss von Leistungsvereinbarungen und Leistungsverträgen mit den Schulen und Institutionen der Berufsbildung vor und ist für die periodische Zielüberprüfung verantwortlich.
 
-<sup>3</sup> Als Aufsichtsbehörde hat sie oder er jederzeit Zutritt zu den Berufsfachschulen und Institutionen und ist berechtigt, in die von den Berufsfachschulen und Institutionen geführten Akten Einsicht zu nehmen.
+<sup>3</sup> Als Aufsichtsbehörde hat sie jederzeit Zutritt zu den Berufsfachschulen und Institutionen und ist berechtigt, in die von den Berufsfachschulen und Institutionen geführten Akten Einsicht zu nehmen.
 
 #### Art. 40
 
-**Schulrat 1 Ernennung, Zusammensetzung und Organisation**
+**Schulrat 1 Einsetzung, Ernennung, Zusammensetzung und Organisation**
 
-<sup>1</sup> Die Bildungs- und Kulturdirektion kann einen Schulrat einsetzen. Die Schulleitung und der Schulrat haben ein Antragsrecht. Bei der Beurteilung über die Einsetzung eines Schulrats werden folgende Kriterien berücksichtigt:
+<sup>1</sup> Das Schulreglement kann einen Schulrat vorsehen. Bei der Beurteilung über die Einsetzung eines Schulrats werden folgende Kriterien berücksichtigt:
 
 - a Nutzen des Schulrats für die gewünschte Verankerung in der Arbeitswelt und
 - b Nutzen des Schulrats für die gewünschte Verankerung in der Region.
 
-<sup>2</sup> Der Schulrat setzt sich aus fünf bis neun Mitgliedern zusammen, die von der Bildungs- und Kulturdirektion ernannt werden. Die Mitglieder vertreten in der Regel mehrheitlich die Organisationen der Arbeitswelt sowie die Region. Die Geschlechter sollen ausgewogen vertreten sein. Die Organisationen der Arbeitswelt und die Standortgemeinden haben ein Vorschlagsrecht.
+<sup>2</sup> Der Schulrat setzt sich aus fünf bis neun Mitgliedern zusammen, die vom Mittelschul- und Berufsbildungsamt ernannt werden. Die Mitglieder vertreten in der Regel mehrheitlich die Organisationen der Arbeitswelt sowie die Region. Die Geschlechter sollen ausgewogen vertreten sein. Die Organisationen der Arbeitswelt und die Standortgemeinden haben ein Vorschlagsrecht.
 
 <sup>2a</sup> Der Bernjurassische Rat hat das Recht, vorgängig ein Mitglied vorzuschlagen, wenn es sich um eine bernjurassische Schule handelt; dasselbe gilt für den Rat für französischsprachige Angelegenheiten des Verwaltungskreises Biel/Bienne, wenn es sich um eine Bieler Schule mit französischsprachigen Bildungsangeboten handelt.
 
@@ -475,10 +477,9 @@ beschliesst:
 
 <sup>1</sup> Der Schulrat
 
-- a berät die Schulleitung in der strategischen Ausrichtung der Schule und hat ein Antragsrecht,
-- b beantragt bei kantonalen Schulen dem Mittelschul- und Berufsbildungsamt die Anstellung der Schulleitung,
-- c berät die Schulleitung in Personalfragen, bei der Behandlung von Disziplinarfällen sowie bei anderen Problemen,
-- d nimmt die Aufgaben gemäss der Lehreranstellungsgesetzgebung wahr,
+- a berät die Schulleitung in der strategischen Ausrichtung der Schule,
+- b nimmt mit einer Vertretung Einsitz in das Wahlgremium für die Besetzung der gesamtverantwortlichen Schulleitung einer kantonalen Berufsfachschule,
+- c–d …
 - e fördert und unterstützt den Kontakt zwischen der Berufsfachschule und ihrem Umfeld und
 - f unterstützt die Schulleitung bei der Rekrutierung von Praktikumsbetrieben, soweit die Schulleitung dafür verantwortlich ist.
 
@@ -486,11 +487,11 @@ beschliesst:
 
 #### Art. 42
 
-**3 Fachkommissionen**
+**Fachkommissionen**
 
-<sup>1</sup> An grossen Berufsfachschulen mit komplexen Strukturen kann das Schulreglement Fachkommissionen vorsehen.
+<sup>1</sup> An Berufsfachschulen mit komplexen Strukturen kann das Schulreglement Fachkommissionen vorsehen.
 
-<sup>2</sup> Die Bestimmungen zur Zusammensetzung und Organisation der Schulräte gilt sinngemäss.
+<sup>2</sup> Die Bestimmungen zur Ernennung, Zusammensetzung und Organisation der Schulräte gelten sinngemäss.
 
 <sup>3</sup> Das Schulreglement umschreibt die Kompetenzen und Aufgaben der Fachkommissionen.
 
@@ -560,10 +561,11 @@ beschliesst:
 
 <sup>2</sup> Der Pool für Spezialaufgaben beträgt drei Viertel des Schulleitungspools.
 
-<sup>3</sup> Er wird erhöht:
+<sup>3</sup> Er wird erhöht
 
-- a zur Abgeltung der Klassenleitung pro Klasse der dualen Grundbildung um die je einer halben Lektion entsprechenden Beschäftigungsgradprozente,
-- b zur Abgeltung der Kassenleitung pro Klasse der Vollzeitausbildung um die je einer Lektion entsprechenden Beschäftigungsgradprozente und
+- a zur Abgeltung der Tätigkeit als Klassenlehrkraft um fünf Beschäftigungsgradprozente pro Klasse, wobei die Zulage gemäss Artikel 36b LAV nicht darunter fällt,
+- b …
+- b1 zur Abgeltung der Unterstützung von berufseinsteigenden und wiedereinsteigenden Lehrkräften und
 - c zur Wahrnehmung von schulübergreifenden Aufgaben.
 
 #### Art. 47c
@@ -572,9 +574,9 @@ beschliesst:
 
 <sup>1</sup> Die Poolressourcen werden in der Regel für Anstellungen verwendet, die sich nach der Gesetzgebung über die Anstellung der Lehrkräfte richten.
 
-<sup>2</sup> Sie können mit Zustimmung der Abteilung Berufsfachschulen des Mittelschul- und Berufsbildungsamts
+<sup>2</sup> Sie können mit vorgängiger Zustimmung der Abteilung schulische Berufsbildung und Weiterbildung des Mittelschul- und Berufsbildungsamts
 
-- a für Anstellungen verwendet werden, die sich nach der Personalgesetzgebung richten oder
+- a für Anstellungen verwendet werden, die sich nach der Personalgesetzgebung richten, oder
 - b in Sachmittel umgewandelt und entsprechend verwendet werden.
 
 #### Art. 48
@@ -587,8 +589,7 @@ beschliesst:
 
 - a kantonaler Berufsfachschulen,
 - b subventionierter Berufsfachschulen,
-- c kantonaler höherer Fachschulen und
-- d subventionierter höherer Fachschulen, mit denen der Kanton einen Übertragungsvertrag abgeschlossen hat.
+- c–d …
 
 <sup>3</sup> Sie kann Unterkonferenzen bilden.
 
@@ -697,7 +698,7 @@ beschliesst:
 
 **8 Ausserkantonale Lernende**
 
-<sup>1</sup> Die Abteilung Berufsfachschulen des Mittelschul- und Berufsbildungsamts bewilligt Lernenden mit einem Lehrvertrag eines anderen Kantons oder mit stipendienrechtlichem Wohnsitz ausserhalb des Kantons Bern den Schulbesuch, wenn eine Kostengutsprache durch den Wohnsitzkanton vorliegt oder andernfalls die Finanzierung gemäss Absatz 3 durch den Lernenden sichergestellt ist. Vorbehalten bleiben anders lautende Bestimmungen von interkantonalen Abkommen.
+<sup>1</sup> Die Abteilung schulische Berufsbildung und Weiterbildung des Mittelschul- und Berufsbildungsamts bewilligt Lernenden mit einem Lehrvertrag eines anderen Kantons oder mit stipendienrechtlichem Wohnsitz ausserhalb des Kantons Bern den Schulbesuch, wenn eine Kostengutsprache durch den Wohnsitzkanton vorliegt oder andernfalls die Finanzierung gemäss Absatz 3 durch den Lernenden sichergestellt ist. Vorbehalten bleiben anders lautende Bestimmungen von interkantonalen Abkommen.
 
 <sup>2</sup> Lernende mit bernischem Lehrvertrag gelten unabhängig vom Wohnsitz als bernische Lernende, sofern sie nicht eine Vollzeitausbildung gemäss Artikel 63 oder 64 besuchen.
 
@@ -707,7 +708,7 @@ beschliesst:
 
 **9 Ausserkantonaler Schulbesuch**
 
-<sup>1</sup> Die Abteilung Berufsfachschulen des Mittelschul- und Berufsbildungsamts verfügt von Amtes wegen oder auf Gesuch hin den ausserkantonalen Schulbesuch, wenn
+<sup>1</sup> Die Abteilung schulische Berufsbildung und Weiterbildung des Mittelschul- und Berufsbildungsamts verfügt von Amtes wegen oder auf Gesuch hin den ausserkantonalen Schulbesuch, wenn
 
 - a im betreffenden Lehrberuf ein kantonales Angebot fehlt,
 - b überzählige Lernende die Eröffnung einer unterbesetzten Klasse erfordern würden oder
@@ -750,7 +751,7 @@ beschliesst:
 
 <sup>1</sup> Handelsmittelschulen vermitteln den Lernenden in Zusammenarbeit mit der Wirtschaft die Bildung in beruflicher Praxis, die schulische Bildung sowie die Bildungsinhalte der überbetrieblichen Kurse.
 
-<sup>2</sup> Die Aufnahme kann aufgrund einer unbedingten Empfehlung einer Volksschule oder mit einer Aufnahmeprüfung, in welcher die schulischen Voraussetzungen geprüft werden, erfolgen.
+<sup>2</sup> Die Aufnahme kann aufgrund einer Beurteilung einer Volksschule oder mit einer Aufnahmeprüfung, in welcher die schulischen Voraussetzungen geprüft werden, erfolgen.
 
 #### Art. 64
 
@@ -799,9 +800,9 @@ beschliesst:
 
 **Aufnahme, Promotion und Berufsmaturitätsprüfung**
 
-<sup>1</sup> Die Aufnahme in die BM 1 erfolgt aufgrund einer unbedingten Empfehlung einer Volksschule oder mit einer Aufnahmeprüfung, in welcher die schulischen Voraussetzungen geprüft werden.
+<sup>1</sup> Die Aufnahme in die BM 1 erfolgt aufgrund einer Beurteilung einer Volksschule, der definitiven Aufnahme in einen gymnasialen oder einen FMS-Bildungsgang, des besuchten Schulniveaus auf der Sekundarstufe I oder mit einer Aufnahmeprüfung, in welcher die schulischen Voraussetzungen geprüft werden.
 
-<sup>2</sup> Die Aufnahme in die BM 2 erfolgt aufgrund des erfolgreichen Absolvierens eines EA-Kurses oder mit einer Aufnahmeprüfung.
+<sup>2</sup> Die Aufnahme in die BM 2 erfolgt aufgrund der erfolgreichen Absolvierung eines EA-Kurses, einer Beurteilung in der Grundbildung oder mit einer Aufnahmeprüfung.
 
 <sup>3</sup> Die Bildungs- und Kulturdirektion regelt das Weitere zum Aufnahmeverfahren, die Promotion, die Dispensation und die Berufsmaturitätsprüfung durch Verordnung.
 
@@ -811,7 +812,7 @@ beschliesst:
 
 <sup>1</sup> Der Schulort für den Besuch der BM 2 kann frei gewählt werden. Vorbehalten bleibt Absatz 2.
 
-<sup>2</sup> Die Abteilung Berufsfachschulen des Mittelschul- und Berufsbildungsamts kann aus wichtigen Gründen Lernende einem anderen Schulort zuweisen. Artikel 50 Absatz 2 Buchstaben a und b gelten sinngemäss.
+<sup>2</sup> Die Abteilung schulische Berufsbildung und Weiterbildung des Mittelschul- und Berufsbildungsamts kann aus wichtigen Gründen Lernende einem anderen Schulort zuweisen. Artikel 50 Absatz 2 Buchstaben a und b gelten sinngemäss.
 
 #### Art. 68b
 
@@ -847,7 +848,7 @@ beschliesst:
 
 <sup>1</sup> Die KBMK konstituiert sich selbst.
 
-<sup>2</sup> Die Abteilung Berufsfachschulen des Mittelschul- und Berufsbildungsamts führt das Sekretariat und bereitet die Geschäfte der KBMK vor.
+<sup>2</sup> Die zuständige Stelle des Mittelschul- und Berufsbildungsamts stellt die Führung des Sekretariats und die Vorbereitung der Geschäfte sicher.
 
 <sup>3</sup> Die KBMK erlässt ein Geschäftsreglement.
 
@@ -1097,7 +1098,20 @@ beschliesst:
 
 **Anwendbares Recht**
 
-<sup>1</sup> Für die kantonalen höheren Fachschulen sind die für die Berufsfachschulen geltenden Bestimmungen von Artikel 37 bis 42, 45, 48 und 49 sowie 54 bis 58 sinngemäss anwendbar.
+<sup>1</sup> Für die kantonalen höheren Fachschulen sind die für die Berufsfachschulen geltenden Bestimmungen von Artikel 37 bis 42, 45 und 49 sowie 54 bis 58 sinngemäss anwendbar.
+
+#### Art. 92a
+
+**Konferenz der höheren Fachschulen**
+
+<sup>1</sup> Die Konferenz der höheren Fachschulen des Kantons Bern nimmt die Interessen der Schulen wahr und ist beratendes Organ des Mittelschul- und Berufsbildungsamts.
+
+<sup>2</sup> Sie setzt sich aus den Schulleitungen folgender Schulen zusammen:
+
+- a kantonaler höherer Fachschulen und
+- b subventionierter höherer Fachschulen, mit denen der Kanton einen Übertragungsvertrag abgeschlossen hat.
+
+<sup>3</sup> Im Übrigen ist Artikel 48 sinngemäss anwendbar.
 
 #### Art. 93
 
@@ -1124,9 +1138,9 @@ beschliesst:
 - c Techniker/in HF Holztechnik (Höhere Fachschule Holz Biel) und
 - d Techniker/in HF Maschinenbau/Systemtechnik (Höhere Fachschule für Technik Mittelland).
 
-<sup>2</sup> Bei Bildungsgängen für Berufe, die im Anhang der Spitalversorgungsverordnung vom 23. Oktober 2013 (SpVV)[^94a-1] aufgeführt sind, trägt der Kanton die verbleibenden Kosten.
+<sup>2</sup> Bei Bildungsgängen für nichtuniversitäre Gesundheitsberufe gemäss Artikel 32 der Spitalversorgungsverordnung vom 23. Oktober 2013 (SpVV)[^94a-1] trägt der Kanton die verbleibenden Kosten.
 
-[^94a-1]: BSG 812.112
+[^94a-1]: BSG [812.112](https://www.belex.sites.be.ch/data/812.112/de)
 
 #### Art. 94b
 
@@ -1232,7 +1246,7 @@ beschliesst:
 
 #### Art. 105
 
-<sup>1</sup> Die Abteilung Weiterbildung und Höhere Berufsbildung des Mittelschul- und Berufsbildungsamts wählt die Anbieter.
+<sup>1</sup> Die Abteilung schulische Berufsbildung und Weiterbildung des Mittelschul- und Berufsbildungsamts wählt die Anbieter.
 
 <sup>2</sup> Für die Wahl gelten folgende Kriterien:
 
@@ -1379,8 +1393,11 @@ beschliesst:
 - h Ressourcen und Eigenleistungen,
 - i Vorgaben zu den Kostendeckungsgraden bei kantonalen Anbietern,
 - k minimale Standards zur Qualität und Evaluation,
-- l Inhalt und Umfang des Reportings und des Controllings und
-- m Art und Umfang der Datenerhebung.
+- l Inhalt und Umfang des Reportings und des Controllings,
+- m Art und Umfang der Datenerhebung,
+- n Art und Umfang von Dienstleistungen, die zentral über die Bildungs- und Kulturdirektion bzw. das Mittelschul- und Berufsbildungsamt zu beziehen sind,
+- o Kommunikation und
+- p Regelungen im Umgang mit Konflikten und Leistungsstörungen.
 
 #### Art. 116
 
@@ -1527,19 +1544,17 @@ beschliesst:
 
 <sup>3</sup> Bei Prüfungen, welche von Dritten durchgeführt werden, wird ein Pauschalbeitrag an die Fixkosten sowie ein Pauschalbeitrag je Kandidatin und Kandidat ausgerichtet. Die Entschädigungen und Spesen der Expertinnen und Experten sind darin inbegriffen. Die Pauschalen werden so bemessen, dass sie die Kosten decken und das Verfahren nicht teurer zu stehen kommt, als wenn der Kanton die Leistung selber erbringen würde.
 
-<sup>4</sup> Kandidatinnen und Kandidaten ohne Lehrvertrag werden das erforderliche Material sowie allfällige zusätzliche Kosten ganz oder teilweise in Rechnung gestellt. Die Bezahlung der Kosten ist Voraussetzung für die Zulassung zur Prüfung.
+<sup>4</sup> Kandidatinnen und Kandidaten ohne Lehrvertrag werden das erforderliche Material sowie allfällige zusätzliche Kosten ganz oder teilweise in Rechnung gestellt.
 
 #### Art. 130
 
-**Andere Qualifikationsverfahren gemäss Artikel 32 BBV**
+**Andere Qualifikationsverfahren gemäss Artikel 31 BBV**
 
-<sup>1</sup> Die anderen Qualifikationsverfahren zum EFZ gemäss Artikel 32 BBV sind für Personen ohne EFZ oder Mittelschulabschluss mit zivilrechtlichem Wohnsitz im Kanton Bern unentgeltlich. Die Materialkosten werden in Rechnung gestellt.[^130-1]
+<sup>1</sup> Die anderen Qualifikationsverfahren zum eidgenössischen Fähigkeitszeugnis gemäss Artikel 31 BBV sind für Personen mit zivilrechtlichem Wohnsitz im Kanton Bern unentgeltlich. Die Kosten für das erforderliche Material sowie allfällige zusätzliche Kosten werden ganz oder teilweise in Rechnung gestellt.
 
-<sup>2</sup> Die übrigen Kandidatinnen und Kandidaten übernehmen höchstens 60 Prozent der Kosten.
+<sup>2</sup> …
 
 <sup>3</sup> Werden die Validierungsverfahren von Dritten durchgeführt, wird ein Pauschalbeitrag an die Kosten ausgerichtet. Die Pauschalen werden so bemessen, dass sie die Kosten decken und das Verfahren nicht teurer zu stehen kommt, als wenn der Kanton die Leistung selber erbringen würde.
-
-[^130-1]: Berichtigt am 23.02.2022 gemäss BAG 22-016
 
 #### Art. 130a
 
@@ -1556,7 +1571,7 @@ beschliesst:
 
 <sup>4</sup> …
 
-<sup>3a</sup> Die Abteilung Weiterbildung und Höhere Berufsbildung des Mittelschul- und Berufsbildungsamts verfügt auf entsprechendes Gesuch hin.
+<sup>3a</sup> Die Abteilung schulische Berufsbildung und Weiterbildung des Mittelschul- und Berufsbildungsamts verfügt auf entsprechendes Gesuch hin.
 
 #### Art. 130b
 
@@ -1618,8 +1633,14 @@ beschliesst:
 
 <sup>1</sup> Die Schul-, Kurs- oder Studiengebühren für den Besuch
 
-- a von berufsvorbereitenden Schuljahren betragen jährlich 1000 Franken,
+- a von berufsvorbereitenden Schuljahren
+  - 1 betragen für Vollzeitangebote jährlich 1000 Franken,
+  - 2 verringern sich für Teilzeitangebote proportional.
+- a1 von Brückenangeboten zur Vorbereitung auf bestimmte Grundbildungen
+  - 1 betragen für Vollzeitangebote pro Semester 500 Franken,
+  - 2 verringern sich für Teilzeitangebote proportional.
 - b des Berufsfachschulunterrichts für Hospitantinnen und Hospitanten richten sich nach dem Ansatz der interkantonalen Vereinbarungen,
+- b1 des Berufsfachschulunterrichts betragen für Lernende gemäss Artikel 32 BBV mit Abschluss auf der Sekundarstufe II 300 Franken pro Semester,
 - c eines vorbereitenden Kurses oder eines nicht geförderten Angebots kantonaler Anbieter entsprechen den vollen Kosten,
 - d eines Bildungsgangs an einer kantonalen höheren Fachschule oder eines Bildungsgangs gemäss Artikel 94a Absatz 1 entsprechen den vollen Kosten nach Abzug des Pauschalbeitrags des Kantons,
 - e eines Bildungsgangs an einer höheren Fachschule gemäss Artikel 94a Absatz 2 oder Artikel 99 Absatz 2 betragen jährlich 1500 Franken und
@@ -1715,6 +1736,7 @@ beschliesst:
 - c die Aufgaben, Verantwortungen und Kompetenzen der Schulleitungen,
 - d das Nähere zum Schulort sowie zu den Absenzen, zu den Dispensationen und zur Leistungsbeurteilung an Berufsfachschulen sowie zum ausserkantonalen Schulbesuch,
 - e …
+- e1 die Aufnahme und Promotion an Handelsmittelschulen,
 - f die Aufnahme, Promotion, Dispensation und Abschlussprüfungen der Berufsmaturität,
 - g die Zuständigkeit, Organisation und Durchführung der Qualifikationsverfahren,
 - h das Nähere zu den Qualifikationsverfahren bei nicht formal erworbener Bildung,
@@ -1722,8 +1744,9 @@ beschliesst:
 - k die Inhalte und Zielgruppen der Weiterbildung sowie die Beitragsvoraussetzung und das Verfahren,
 - l das Nähere zum Grundangebot und zum erweiterten Angebot der Berufs-, Studien- und Laufbahnberatung,
 - m …
-- n die Kostendeckungsgrade und Kennzahlen zu Mensen und Internaten sowie
-- o die Entschädigungen von Expertinnen und Experten, Fachpersonen und Präsidien und,
+- n die Kostendeckungsgrade und Kennzahlen zu Mensen und Internaten,
+- o die Entschädigungen von Expertinnen und Experten, Fachpersonen und Präsidien,
+- o1 das Nähere zur Abgeltung der Unterstützung von berufseinsteigenden und wiedereinsteigenden Lehrkräften sowie
 - p das Nähere zu den vorbereitenden Kursen mit besonderer Förderung.
 
 ## 10 Übergangsbestimmungen
