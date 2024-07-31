@@ -4,13 +4,12 @@ number: 516c
 title: Studienreglement über die Ausbildung der Pädagogischen Hochschule Luzern im Bereich der Berufsbildung
 short: PH-Berufsbildungsreglement
 language: de
-version: 2021-08-01
-valid_until: 2024-07-31
-version_adopted: 2021-06-01
+version: 2024-08-01
+version_adopted: 2024-04-26
 adopted: 2014-02-14
 in_force: 2014-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/516c"
-pdf: "https://srl.lu.ch/api/de/versions/3769/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4518/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3769/pdf_file"
 
 (PH-Berufsbildungsreglement)
 
-vom 14.02.2014 (Stand 01.08.2021)
+vom 14.02.2014 (Stand 01.08.2024)
 
 Der Rektor der Pädagogischen Hochschule Luzern,
 
@@ -54,7 +53,7 @@ beschliesst:
 <sup>3</sup> In jedem Studiengang wird eine Eignungsabklärung vorgenommen. Das Nähere wird in den Ausführungsbestimmungen geregelt.
 
 [^2-1]: Bundesgesetz über die Berufsbildung (Berufsbildungsgesetz, BBG) vom 13. Dezember 2002 (SR [412.10](https://db.clex.ch/link/Bund/412.10/de)); Verordnung über die Berufsbildung (Berufsbildungsverordnung, BBV) vom 19. November 2003 (SR [412.101](https://db.clex.ch/link/Bund/412.101/de)); Verordnung des WBF über Mindestvorschriften für die Anerkennung von Bildungsgängen und Nachdiplomstudien der höheren Fachschulen (MiVo-HF) vom 11. März 2005 (SR [412.101.61](https://db.clex.ch/link/Bund/412.101.61/de)); Verordnung über die eidgenössische Berufsmaturität (Berufsmaturitätsverordnung, BMV) vom 24. Juni 2009 (SR [412.103.1](https://db.clex.ch/link/Bund/412.103.1/de)). Auf diese Erlasse wird im Folgenden nicht mehr hingewiesen.
-[^2-2]: Rahmenlehrpläne für Berufsbildungsverantwortliche des Bundesamtes für Berufsbildung und Technologie (BBT) vom 1. Februar 2011 (neu: Staatssekretariat für Bildung, Forschung und Innovation, SBFI).
+[^2-2]: Rahmenlehrpläne für Berufsbildungsverantwortliche des Staatssekretariats für Bildung, Forschung und Innovation (SBFI) vom 1. März 2025.
 
 #### Art. 3
 
@@ -86,6 +85,12 @@ beschliesst:
 <sup>2</sup> Für die Abklärung der persönlichen Voraussetzungen der Bewerberinnen und Bewerber kann ein aktueller Auszug aus dem Strafregister verlangt werden. Bei Wohnsitz im Ausland ist eine gleichwertige Urkunde vorzulegen. Die Prorektorin oder der Prorektor Weiterbildung kann von den Bewerberinnen und Bewerbern zusätzliche Auskünfte und Unterlagen verlangen.
 
 <sup>3</sup> Die Aufnahme in einen Studiengang der PH Luzern wird verweigert, wenn die persönlichen Voraussetzungen fehlen.
+
+#### Art. 4b
+
+**Sprachennachweis**
+
+<sup>1</sup> Von Bewerberinnen und Bewerbern eines SBFI-anerkannten Studiengangs, deren Erstsprache nicht Deutsch ist, wird ein Nachweis der Sprachkompetenz in Deutsch mündlich und schriftlich, in der Regel auf dem Niveau C2 des Gemeinsamen europäischen Referenzrahmens für Sprache, verlangt. Bewerberinnen und Bewerber, welche die für die Aufnahme anerkannten Vorbildungsausweise an einer Schule mit der Unterrichtssprache Deutsch erworben haben, können davon ausgenommen werden.
 
 #### Art. 5
 
@@ -170,14 +175,12 @@ beschliesst:
 
 <sup>2</sup> Die Diplom- oder Zertifikatsurkunde wird von der Rektorin oder vom Rektor unterzeichnet. Sind andere anerkannte Hochschulen oder Bildungsinstitutionen an der Organisation und Durchführung eines Studiengangs beteiligt, kann ein gemeinsames Diplom oder Zertifikat ausgestellt werden. Es wird von der Rektorin oder vom Rektor der PH Luzern sowie von den zuständigen Organen der beteiligten Hochschulen oder Bildungsinstitutionen unterzeichnet.
 
-<sup>3</sup> Der mit dem Diplom oder Zertifikat verliehene Titel richtet sich nach den massgebenden Vorgaben des Bundes.[^13-1]
+<sup>3</sup> Der mit dem Diplom oder Zertifikat verliehene Titel richtet sich nach den massgebenden Vorgaben des Bundes.
 
 <sup>4</sup> Zusätzlich zum Diplom oder Zertifikat werden folgende Dokumente ausgestellt:
 
 - a. ein Diplom- oder Zertifikatszusatz, welcher den absolvierten Studiengang und die Ausbildungsziele näher beschreibt, sowie
 - b. ein Diplom- oder Zertifikatszusatz, welcher die Lern- und Leistungsdokumentation enthält.
-
-[^13-1]: Merkblatt Diplome von anerkannten Bildungsgängen des Bundesamtes für Berufsbildung und Technologie (BBT)
 
 ## 4 Organe
 
