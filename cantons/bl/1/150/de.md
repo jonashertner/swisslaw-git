@@ -4,13 +4,12 @@ number: "150"
 title: Gesetz über die Arbeitsverhältnisse der Mitarbeiterinnen und Mitarbeiter des Kantons
 short: Personalgesetz
 language: de
-version: 2024-01-01
-valid_until: 2024-07-31
-version_adopted: 2023-01-26
+version: 2024-08-01
+version_adopted: 2022-09-15
 adopted: 1997-09-25
 in_force: 1998-04-01
 url: "https://bl.clex.ch/app/de/texts_of_law/150"
-pdf: "https://bl.clex.ch/api/de/versions/3800/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3805/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3800/pdf_file"
 
 (Personalgesetz)
 
-Vom 25.09.1997 (Stand 01.01.2024)
+Vom 25.09.1997 (Stand 01.08.2024)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -853,8 +852,8 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Innert 10 Tagen kann Beschwerde erhoben werden:
 
-- a. beim Regierungsrat gegen Verfügungen der verwaltungsinternen Anstellungsbehörde, unter Vorbehalt von Abs. 2;
-- a.<sup>bis</sup> beim Schulrat gegen Verfügungen der Schulleitung als Anstellungsbehörde;
+- a. beim Regierungsrat gegen Verfügungen der verwaltungsinternen Anstellungsbehörde sowie der Schulleitungen der kantonalen Schulen als Anstellungsbehörde, unter Vorbehalt von Abs. 2;
+- a.<sup>bis</sup> beim Schulrat der kommunalen Schulen bzw. beim Gemeinderat, sofern sich die Einwohnergemeinde für ein Führungsmodell mit Schulrat entschieden hat, gegen Verfügungen der Schulleitung als Anstellungsbehörde;
 - b. beim Kantonsgericht gegen Verfügungen der gerichtlichen Anstellungsbehörde, der Aufsichtsstelle Datenschutz, der Finanzkontrolle und der Ombudsperson.
 
 <sup>2</sup> Die Anfechtbarkeit von Verfügungen des Regierungsrates als Anstellungsbehörde richtet sich nach der Verwaltungsprozessordnung (VPO)[^71-1].
