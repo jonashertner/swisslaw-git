@@ -1,270 +1,220 @@
 ---
 canton: LU
 number: 540a
-title: Reglement der Fakultät III für Rechtswissenschaft der Universität Luzern
-short: Fakultätsreglement
+title: Reglement der Rechtswissenschaftlichen Fakultät der Universität Luzern
+short: Fakultätsreglement RF
 language: de
-version: 2007-08-01
-valid_until: 2024-07-31
-version_adopted: 2007-01-15
+version: 2024-08-01
+version_adopted: 2024-06-26
 adopted: 2024-06-26
 in_force: 2024-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/540a"
-pdf: "https://srl.lu.ch/api/de/versions/2324/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4226/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Reglement der Fakultät III für Rechtswissenschaft der Universität Luzern
+# Reglement der Rechtswissenschaftlichen Fakultät der Universität Luzern
 
-(Fakultätsreglement)
+(Fakultätsreglement RF)
 
-vom 27.06.2001 (Stand 01.08.2007)
+vom 26.06.2024 (Stand 01.08.2024)
 
 Der Universitätsrat der Universität Luzern,
 
-auf Antrag des Senats der Universität Luzern, gestützt auf § 18 Absatz 2a des Statuts der Universität Luzern vom 12. Dezember 2001[^ingress-1],
+gestützt auf § 12 Absatz 2c des Statuts der Universität Luzern vom 13. Dezember 2023 (Universitätsstatut[^ingress-1]),
+
+auf Antrag des Senats,
 
 beschliesst:
 
 [^ingress-1]: SRL Nr. [539c](https://srl.lu.ch/data/539c/de)
 
-## 1 Allgemeines
+## 1 Aufgaben und Leitprinzipien
 
 #### § 1
 
-**Zweck und Gegenstand**
+**Aufgaben der Fakultät**
 
-<sup>1</sup> Dieses Reglement ordnet Aufgaben und Organisation der Fakultät III für Rechtswissenschaft der Universität Luzern (nachfolgend Fakultät).
+<sup>1</sup> Die Fakultät erfüllt im Bereich der Rechtswissenschaft die Aufgaben in Lehre, Forschung, Weiterbildung, Dienstleistung und Nachwuchsförderung gemäss § 20 des Universitätsstatuts[^1-1].
 
-<sup>2</sup> Es ist im Lichte des Universitätsgesetzes, des Leitbilds der Universität sowie des Leitbilds der Fakultät zu interpretieren.
+<sup>2</sup> Die Fakultät strebt in all ihren Aufgabenbereichen nach Exzellenz. Sie sorgt dafür, dass in allen Bereichen ihrer Tätigkeit, insbesondere in Forschung, Lehre, Weiterbildung und Nachwuchsförderung, die Qualität ermittelt, gesichert und verbessert wird.
+
+[^1-1]: SRL Nr. [539c](https://srl.lu.ch/data/539c/de)
 
 #### § 2
 
-**Aufgaben der Fakultät**
+**Leitprinzipien der Verwaltung**
 
-<sup>1</sup> Die Fakultät erfüllt Aufgaben in Lehre, Forschung und Dienstleistung im Bereiche der Rechtswissenschaft.
+<sup>1</sup> Die Fakultät richtet sich bei der Erfüllung ihrer organisatorischen Aufgaben an den folgenden Leitprinzipien aus:
 
-<sup>2</sup> Sie arbeitet dabei insbesondere mit den andern Fakultäten der Universität, mit den Fachhochschulen der Region sowie mit andern Fakultäten des In- und Auslands zusammen. Sie schliesst entsprechende Vereinbarungen ab.
+- a. Orientierung der Selbst- und Dekanatsverwaltung an den Bedürfnissen der Studierenden und des in Lehre und Forschung tätigen Personals,
+- b. Einrichtung schlanker Strukturen sowie flexibler Prozesse zur effizienten Erfüllung von Führungs- und Verwaltungsaufgaben,
+- c. gemeinsames und gleichmässig verteiltes Engagement der Professorinnen und Professoren in der Selbstverwaltung,
+- d. Transparenz der Prozesse und Aufgabenverteilung.
 
-<sup>3</sup> Sie kann sich zur Erfüllung ihrer Aufgaben in Lehre, Forschung und Dienstleistung in Institute, Seminare oder Fachbereiche und andere Organisationseinheiten gliedern; diese werden in besonderen Reglementen geordnet. Sie führt insbesondere ein Institut für juristische Grundlagenforschung sowie ein Institut für KMU- und Wirtschaftsrecht; diese Institute werden mit besonderen Rechtsgrundlagen geschaffen.
+## 2 Organisation der Fakultät
 
-<sup>4</sup> In allen Aufgabenbereichen strebt die Fakultät nach Exzellenz.
+### 2.1 Leitungsorgane der Fakultät
 
 #### § 3
 
-**Gruppierungen**
+**Fakultätsversammlung**
 
-<sup>1</sup> Im Hinblick auf Wahlen und Vertretungen in innerfakultären und universitären Organen gliedert sich die Fakultät in folgende Gruppierungen:
+<sup>1</sup> Die Fakultätsversammlung setzt sich aus folgenden Mitgliedern zusammen:
 
-- a. hauptamtliche Professorinnen und Professoren;
-- b. nebenamtliche Professorinnen und Professoren, ständige Gastprofessorinnen und Gastprofessoren, Assistenzprofessorinnen und Assistenzprofessoren sowie Lehrbeauftragte;
-- c. Assistentinnen und Assistenten;
-- d. Studentinnen und Studenten der Fakultät, welche in der studentischen Körperschaft organisiert sind;
-- e. administratives und technisches Personal.
+- a. Professorinnen und Professoren aufgrund einer Berufung sowie im Rahmen einer Weiterbeschäftigung über das ordentliche Pensionsalter hinaus,
+- b. Fakultätsmanagerin oder Fakultätsmanager,
+- c. eine Vertretung von höchstens zwei Personen aus dem Kreis der Professorinnen und Professoren aufgrund der Verleihung eines Titels und der Lehrbeauftragten,
+- d. eine Vertretung von zwei Personen aus dem Kreis der wissenschaftlichen Mitarbeiterinnen und Mitarbeiter,
+- e. eine Vertretung von zwei Personen aus dem Kreis der Studierenden,
+- f. eine Vertreterin oder ein Vertreter des administrativen, technischen und weiteren Personals.
 
-<sup>2</sup> Eine Doppelmitgliedschaft in mehreren Gruppierungen ist ausgeschlossen.
+<sup>2</sup> Alle Mitglieder der Fakultätsversammlung sind stimmberechtigt. Die Beschlussfassung richtet sich nach § 21 Absatz 3 des Universitätsstatuts[^3-1]. Bei Stimmengleichheit hat die Dekanin oder der Dekan den Stichentscheid.
 
-## 2 Organe der Fakultät
+<sup>3</sup> Die Fakultätsversammlung kann in dringlichen Fällen Zirkulationsbeschlüsse fassen.
 
-### 2.1 Gliederung
+<sup>4</sup> Die Fakultätsversammlung nimmt als oberstes Organ der Fakultät die in § 21 Absatz 4 des Universitätsstatuts[^3-2] festgelegten Aufgaben wahr. Der Fakultätsversammlung werden darüber hinaus folgende Aufgaben übertragen:
+
+- a. Änderung und Aufhebung von Weisungen und Richtlinien der Dekanin oder des Dekans oder von Kommissionen,
+- b. Erlass und Änderung von Wegleitungen betreffend die Zulassung zum Masterstudium unter Auflagen («Passerelle»),
+- c. Entscheid über die Errichtung und Aufhebung von Kommissionen der Fakultät sowie Wahl ihrer Vorsitzenden und Mitglieder,
+- d. Wahl der Fakultätsmanagerin oder des Fakultätsmanagers auf Antrag der Dekanin oder des Dekans,
+- e. Bestätigung der von der Dekanin oder vom Dekan ernannten Delegierten sowie von Vertreterinnen oder Vertretern in interfakultären Studiengängen,
+- f. Bestätigung der von den Fachbereichen ernannten Fachbereichsvorsitzenden,
+- g. Genehmigung der Aufnahme und des Ausschlusses von stimmberechtigten Mitgliedern für Institute, Zentren und Akademien sowie Genehmigung der Wahl von Leitungspersonen,
+- h. Entscheid über Gesuche zur Eröffnung von Habilitationsverfahren,
+- i. Entscheid über die Weiterführung von Wahlfächern im Masterprogramm, die nicht von genügend Studierenden absolviert werden; die Dekanin oder der Dekan regelt die Einzelheiten in einer Richtlinie,
+- j. Genehmigung der Annahme von Drittmitteln über mehr als 100 000 Franken mit Ausnahme von Mitteln des Schweizerischen Nationalfonds; die Fakultätsversammlung kann weitere Ausnahmen beschliessen,
+- k. Entscheid über den Abschluss von Verträgen über eine mehrjährige Zusammenarbeit mit anderen Rechtsfakultäten im In- und Ausland, unter Vorbehalt der Zuständigkeit der Rektorin oder des Rektors gemäss § 22 Absatz 4 des Universitätsstatuts; im Bereich der Studierendenmobilität entscheidet die Fakultätsversammlung, mit welchen Fakultäten Vereinbarungen abgeschlossen werden können.
+
+[^3-1]: SRL Nr. [539c](https://srl.lu.ch/data/539c/de)
+[^3-2]: SRL Nr. [539c](https://srl.lu.ch/data/539c/de)
 
 #### § 4
 
-<sup>1</sup> Organe der Fakultät sind:
+**Dekanin oder Dekan**
 
-- a. die Dekanin oder der Dekan;
-- b. die Dekanatsleitung;
-- c. die Fakultätsversammlung;
-- d. die Prüfungskommission und weitere von der Fakultätsversammlung eingesetzte ständige Kommissionen; diese Kommissionen organisieren sich selbst;
-- e. Institute sowie gegebenenfalls Seminare oder Fachbereiche und andere Organisationseinheiten;
-- f. der Beirat.
+<sup>1</sup> Als Dekanin oder Dekan können ordentliche und ausserordentliche Professorinnen und Professoren der Fakultät gewählt werden. Die Amtsdauer beträgt zwei Jahre. Die Wiederwahl ist möglich. Kann die Fakultätsversammlung das Dekansamt nicht besetzen, so bestimmt die Rektorin oder der Rektor die Dekanin oder den Dekan.
 
-### 2.2 Dekanin oder Dekan und Dekanatsleitung
+<sup>2</sup> Die Dekanin oder der Dekan ist im Umfang von 50 Stellenprozenten von der Lehre entlastet und erhält eine Funktionszulage gemäss kantonalem Personalrecht.
+
+<sup>3</sup> Sie oder er hat die strategische und operative Leitung der Fakultät inne, nimmt die in § 22 Absatz 2 des Universitätsstatuts[^4-1] festgelegten Aufgaben und Kompetenzen wahr und verantwortet die Umsetzung der Leistungsvereinbarung. Sie oder er erlässt Richtlinien, Weisungen, Merkblätter und Verfügungen zur Umsetzung der Erlasse der Fakultät und der Universität.
+
+<sup>4</sup> Sie oder er entscheidet letztinstanzlich in allen Geschäften im Zuständigkeitsbereich der Fakultät, die nicht einem übergeordneten Organ zugewiesen sind.
+
+[^4-1]: SRL Nr. [539c](https://srl.lu.ch/data/539c/de)
 
 #### § 5
 
-**Wahl und Amtsperiode**
+**Prodekanin oder Prodekan**
 
-<sup>1</sup> Die Dekanin oder der Dekan wird von der Fakultätsversammlung auf eine Amtsperiode von zwei Jahren gewählt. Wiederwahl ist möglich. Falls sich die amtierende Dekanin oder der amtierende Dekan zur Wiederwahl stellt und keine weitere Kandidatur angemeldet wird, gilt die Amtsinhaberin oder der Amtsinhaber in stiller Wahl als wiedergewählt.
+<sup>1</sup> Die Fakultätsversammlung wählt höchstens zwei Prodekaninnen oder Prodekane aus dem Kreis der Professorinnen und Professoren, die aufgrund einer Berufung ernannt worden sind. Die Amtsdauer beträgt zwei Jahre. Die Wiederwahl ist möglich. Kann die Fakultätsversammlung kein Prodekansamt besetzen, so bestimmt die Rektorin oder der Rektor mindestens eine Prodekanin oder einen Prodekan.
 
-<sup>2</sup> Die Fakultätsversammlung wählt zusätzlich eine Prodekanin oder einen Prodekan und ein bis zwei weitere Mitglieder der Dekanatsleitung aus dem Kreis der Professorenschaft. Deren Amtsdauer beträgt vier Jahre. Wiederwahl ist möglich.
+<sup>2</sup> Die Dekanin oder der Dekan bestimmt eine Prodekanin oder einen Prodekan als ihre oder seine Stellvertreterin oder ihren oder seinen Stellvertreter.
 
-#### § 5a
+<sup>3</sup> Die Dekanin oder der Dekan stellt der Rektorin oder dem Rektor bei Bedarf Antrag auf Gewährung einer Lehrentlastung oder Ausrichtung einer Funktionszulage für die Prodekaninnen oder Prodekane.
 
-**Dekanatsleitung**
-
-<sup>1</sup> Die Dekanatsleitung besteht aus der Dekanin oder dem Dekan, der Prodekanin oder dem Prodekan, einem oder zwei weiteren Professorinnen oder Professoren und der Fakultätsmanagerin oder dem Fakultätsmanager.
-
-<sup>2</sup> Die Prodekanin oder der Prodekan vertritt die Dekanin oder den Dekan im Falle der Verhinderung. Die weiteren Aufgaben der Prodekanin oder des Prodekans und der anderen Mitglieder der Dekanatsleitung sind in einer Richtlinie der Dekanin oder des Dekans zu umschreiben. Der Prodekanin oder dem Prodekan sowie dem oder den anderen Mitgliedern aus der Professorenschaft sind – entsprechend ihren Aufgaben – die von der Dekanin oder dem Dekan ernannten Delegierten zugeordnet.
-
-<sup>3</sup> Die Dekanatsleitung unterstützt und berät den Dekan insbesondere bei der Vorbereitung der Geschäfte der Fakultätsversammlung sowie bei wichtigen Entscheidungen, die in der Kompetenz des Dekans liegen.
-
-<sup>4</sup> Die Dekanin oder der Dekan ist gegenüber den Mitgliedern der Dekanatsleitung weisungsberechtigt.
-
-<sup>5</sup> Die Dekanin oder der Dekan ist von der Lehre zur Hälfte entlastet. Die Dekanin oder der Dekan entscheidet über eine angemessene Entlastung der Prodekanin oder des Prodekans und der anderen Mitglieder der Dekanatsleitung aus der Professorenschaft.
+<sup>4</sup> Die Fakultätsleitung bestimmt die Aufgabenbereiche ihrer Mitglieder und ordnet ihnen die entsprechenden Delegierten zu.
 
 #### § 6
 
-**Aufgaben und Zuständigkeiten**
+**Fakultätsmanagerin oder Fakultätsmanager**
 
-<sup>1</sup> Die Dekanin oder der Dekan führt die Fakultät und repräsentiert sie nach aussen. Sie oder er ist für die Umsetzung des Leitbilds verantwortlich.
+<sup>1</sup> Die Fakultätsversammlung wählt auf Antrag der Dekanin oder des Dekans eine Fakultätsmanagerin oder einen Fakultätsmanager. Sie oder er ist dem Dekan oder der Dekanin unterstellt.
 
-<sup>2</sup> In den Aufgaben- und Zuständigkeitsbereich der Dekanin oder des Dekans fallen insbesondere:
+<sup>2</sup> Die Fakultätsmanagerin oder der Fakultätsmanager berät und unterstützt die Dekanin oder den Dekan in organisatorischen, personellen, strategischen und operativen Angelegenheiten.
 
-- a. Konsultation der Fakultätsversammlung in wichtigen Fragen;
-- b. Anträge an die Fakultätsversammlung;
-- c. Durchführung der Beschlüsse der Fakultätsversammlung;
-- d. Ernennung von Delegierten und Beauftragten der Fakultät;
-- e. Erlass von Richtlinien und Weisungen zur Umsetzung des Leitbilds sowie der Reglemente und Ordnungen der Fakultät sowie Übertragung dieser Rechte an Delegierte unter Vorbehalt des Selbsteintrittsrechts;
-- f. Ernennung der Mitglieder des Beirats.
+<sup>3</sup> Ihr oder ihm obliegen insbesondere:
 
-<sup>3</sup> Die Dekanin oder der Dekan verfügt über einen Globalbetrag von drei bis fünf Prozent des Fakultätsbudgets für strategische und operative Bedürfnisse. Sie oder er verwendet den Globalbetrag insbesondere für:
+- a. die Koordination der Aufgaben der Fakultätsleitung im Auftrag der Dekanin oder des Dekans,
+- b. die Vorbereitung der Sitzungen der Fakultätsversammlung,
+- c. die Vorbereitung des Budgets, der Jahresrechnung und der Leistungsvereinbarung sowie die fakultäre Bedarfsplanung zuhanden der Dekanin oder des Dekans,
+- d. die Vorbereitung und Koordination der fakultären Berichterstattungen im Zusammenhang mit der Leistungsvereinbarung und der Qualitätssicherung zuhanden der Dekanin oder des Dekans,
+- e. die Kommunikation und das Studienmarketing,
+- f. die Planung des Angebots der Lehrveranstaltungen sowie der Prüfungssessionen im Hinblick auf die Umsetzung der Studien- und Prüfungsordnung zuhanden der Dekanin oder des Dekans,
+- g. die Studienberatung und die Studierendenadministration,
+- h. die Planung von studentischen Zusatzangeboten, insbesondere in den Bereichen Mobilität, Begabtenförderung und Karriereförderung,
+- i. weitere von der Dekanin oder dem Dekan übertragene Aufgaben.
 
-- a. Auszeichnung von Fakultätsmitgliedern für besondere Leistungen in Lehre und Forschung;
-- b. Anreize für Innovationen im Interesse der Fakultät;
-- c. Förderung des wissenschaftlichen Nachwuchses;
-- d. Förderung und Auszeichnung besonderer Leistungen von Studierenden;
-- e. Repräsentationsaufgaben.
-
-<sup>4</sup> Die Dekanin oder der Dekan ist zuständig für alle Fakultätsgeschäfte, die nicht andern Organen zugewiesen sind.
+<sup>4</sup> Zur Erfüllung dieser Aufgaben ist der Fakultätsmanagerin oder dem Fakultätsmanager eine Dekanatsverwaltung (Dekanat) unterstellt, die von ihr oder ihm geführt wird. Sie oder er bestimmt eine Stellvertretung aus dem Kreis der Dekanatsverwaltung.
 
 #### § 7
 
-**Fakultätsmanagerin oder Fakultätsmanager**
+**Fakultätsleitung**
 
-<sup>1</sup> Die Fakultätsmanagerin oder der Fakultätsmanager berät und unterstützt die Dekanin oder den Dekan in organisatorischen, personellen, strategischen und operativen Angelegenheiten.
+<sup>1</sup> Die Fakultätsleitung setzt sich gemäss § 23 des Universitätsstatuts[^7-1] aus den folgenden Leitungspersonen zusammen:
 
-<sup>2</sup> Ihr oder ihm obliegen insbesondere:
+- a. Dekanin oder Dekan,
+- b. Prodekaninnen und Prodekane,
+- c. Fakultätsmanagerin oder Fakultätsmanager.
 
-- a. die Leitung der technischen und administrativen Dienste der Fakultät;
-- b. das Studienmarketing;
-- c. die Vorbereitung der Sitzungen der Fakultätsversammlung;
-- d. die Vorbereitung des Budgets, der Jahresrechnung und des Tätigkeitsberichts sowie die fakultäre Bedarfsplanung zuhanden der Dekanin oder des Dekans;
-- e. die Planung des Angebots der Lehrveranstaltungen sowie der Prüfungssessionen im Hinblick auf die Umsetzung der Studien- und Prüfungsordnung zuhanden der Dekanin oder des Dekans bzw. der oder des Delegierten für Prüfungsfragen;
-- f. weitere von der Dekanin oder dem Dekan übertragene Aufgaben.
+<sup>2</sup> Die Fakultätsleitung
 
-### 2.3 Fakultätsversammlung
+- a. unterstützt die Dekanin oder den Dekan in der strategischen Planung und operativen Leitung der Fakultät,
+- b. erarbeitet Entscheidungsgrundlagen zuhanden der Dekanin oder des Dekans,
+- c. unterstützt und berät die Dekanin oder den Dekan bei der Vorbereitung der Geschäfte der Fakultätsversammlung,
+- d. erfüllt weitere Aufgaben.
+
+<sup>3</sup> Die Dekanin oder der Dekan kann zu den Sitzungen der Fakultätsleitung Delegierte und weitere Personen in beratender Funktion beiziehen.
+
+[^7-1]: SRL Nr. [539c](https://srl.lu.ch/data/539c/de)
+
+### 2.2 Weitere Organisationseinheiten der Fakultät
 
 #### § 8
 
-**Zusammensetzung**
+**Delegierte**
 
-<sup>1</sup> Der Fakultätsversammlung gehören als stimmberechtigte Mitglieder an:
+<sup>1</sup> Die Fakultätsleitung und das Dekanat werden bei der Erfüllung ihrer Aufgaben und der Weiterentwicklung der Fakultätsstrategie von Delegierten unterstützt.
 
-- a. alle hauptamtlichen Professorinnen und Professoren;
-- b. vier Vertreterinnen oder Vertreter der nebenamtlichen Professorinnen und Professoren, ständigen Gastprofessorinnen und Gastprofessoren, Assistenzprofessorinnen und Assistenzprofessoren, Privatdozentinnen und Privatdozenten sowie der anderen Lehrbeauftragten;
-- c. zwei Vertreterinnen oder Vertreter der Assistentinnen und Assistenten;
-- d. zwei Vertreterinnen oder Vertreter der Studentinnen und Studenten;
-- e. die Fakultätsmanagerin oder der Fakultätsmanager;
-- f. eine Vertreterin oder ein Vertreter des administrativen und technischen Personals.
+<sup>2</sup> Die Dekanin oder der Dekan ernennt die Delegierten und bezeichnet deren Aufgaben. Die Amtszeit der Delegierten beträgt vier Jahre. Die Wiederwahl ist möglich. Die Fakultätsversammlung kann Ausnahmen beschliessen.
 
-<sup>2</sup> Die Stimmen der in Absatz 1b bis d genannten Gruppierungen dürfen die Stimmen der in Absatz 1a genannten Gruppierung nicht übersteigen.
+<sup>3</sup> Die Delegierten arbeiten in ihren Aufgabenbereichen mit der Dekanatsverwaltung zusammen. Bei Meinungsverschiedenheiten entscheidet die Dekanin oder der Dekan.
 
-<sup>3</sup> …
-
-<sup>4</sup> An der Fakultätsversammlung können mit beratender Stimme teilnehmen: die nebenamtlichen Professorinnen und Professoren, die Assistenzprofessorinnen und Assistenzprofessoren, die ständigen Gastprofessorinnen und Gastprofessoren sowie die Privatdozentinnen und Privatdozenten, die nicht ihre Gruppierung vertreten.
-
-<sup>5</sup> Mit Zustimmung aller Gruppierungen können Abweichungen vom Vertretungsschlüssel nach Absatz 1 beschlossen werden.
-
-<sup>6</sup> Die Gruppierungen organisieren sich selbst und führen die Wahlen in die Fakultätsversammlung durch.
+<sup>4</sup> Die Delegierten erstatten der Dekanin oder dem Dekan regelmässig Bericht über ihre Tätigkeiten.
 
 #### § 9
 
-**Aufgaben und Zuständigkeiten**
+**Kommissionen**
 
-<sup>1</sup> Die Fakultätsversammlung berät die Dekanin oder den Dekan in wichtigen Fragen und trifft die ihr vorbehaltenen Entscheide, nämlich:
+<sup>1</sup> Die Fakultät kann zur Erfüllung ihrer Aufgaben Kommissionen errichten. Der Dekan oder die Dekanin ernennt die Vorsitzenden sowie die Vertreterinnen oder Vertreter aus der Fakultät.
 
-- a. Verabschiedung der Anträge an Senat und Universitätsrat, insbesondere betreffend:
-  - 1\. Schaffung, Besetzung, Umwandlung und Aufhebung von Professuren;
-  - 2\. Erteilung und Entzug der Venia docendi und der Verleihung des Professorentitels;
-  - 3\. Änderung dieses Reglements;
-  - 4\. Erlass und Änderung der Studien- und Prüfungsordnung;
-  - 5\. Schaffung und Aufhebung von Instituten, Seminaren oder Fachbereichen und anderen Organisationseinheiten;
-- b. Formulierung und Anpassung des Leitbilds der Fakultät;
-- c. Genehmigung des von der Dekanin oder vom Dekan erstellten Budgets, der Jahresrechnung und des Tätigkeitsberichts;
-- d. Formulierung und Anpassung der Wegleitung zur Studien- und Prüfungsordnung sowie des Musterstudienplans;
-- e. Erteilung von Lehraufträgen;
-- f. Einsetzung von ständigen Kommissionen sowie Wahl ihrer Mitglieder;
-- g. Wahl der Fakultätsvertretung in universitäre Kommissionen;
-- h. Wahl der Dekanin oder des Dekans sowie gegebenenfalls Wahl der Prodekanin oder des Prodekans;
-- i. Bestätigung der von der Dekanin oder vom Dekan ernannten Delegierten und Beauftragten der Fakultät sowie der Mitglieder des Beirats;
-- k. Aufhebung von Weisungen und Richtlinien der Dekanin oder des Dekans oder von Delegierten;
-- l. Verleihung von Ehrendoktoraten;
-- m. Abschluss von Drittmittelverträgen über Angelegenheiten, welche in die Zuständigkeit der Fakultätsversammlung fallen;
-- n. Abschluss von Drittmittelverträgen über mehr als 100 000 Franken, ausgenommen sind Mittel des Schweizerischen Nationalfonds; die Fakultätsversammlung kann weitere Ausnahmen beschliessen;
-- o. Abschluss von Verträgen über eine mehrjährige Zusammenarbeit mit anderen Rechtsfakultäten im In- und Ausland; bei Mobilitätsverträgen entscheidet die Fakultätsversammlung, mit welchen Fakultäten Vereinbarungen abgeschlossen werden können.
+<sup>2</sup> Die Amtsdauer der Mitglieder von ständigen Kommissionen beträgt vier Jahre. Die Wiederwahl ist möglich.
+
+<sup>3</sup> Die Kommissionen organisieren sich selbst und können in ihren Aufgabenbereichen Richtlinien erlassen.
+
+<sup>4</sup> Die Kommissionen erstatten dem Dekan oder der Dekanin regelmässig Bericht über ihre Tätigkeiten.
 
 #### § 10
 
-**Sitzungen**
+**Fachbereiche**
 
-<sup>1</sup> Die Fakultät führt Sitzungen nach Bedarf durch.
+<sup>1</sup> Die Fakultät ist zur Organisation und Durchführung der Lehre und Leistungsnachweise in folgende Fachbereiche gegliedert:
 
-<sup>2</sup> Die Dekanin oder der Dekan beruft die Sitzungen ein und leitet sie. Im Verhinderungsfall delegiert sie oder er Einberufung und Leitung.
+- 1\. Grundlagen des Rechts,
+- 2\. Privatrecht,
+- 3\. Öffentliches Recht,
+- 4\. Strafrecht.
 
-<sup>3</sup> Die Sitzungen werden protokolliert.
+<sup>2</sup> Die Fachbereiche setzen sich aus den Professuren der entsprechenden Rechtsgebiete zusammen und organisieren sich selbst. Doppelmitgliedschaften sind möglich. Kann der Fachbereich keinen Vorsitz ernennen, so bestimmt die Dekanin oder der Dekan den Vorsitz.
 
-<sup>4</sup> Die Fakultätsversammlung kann in dringlichen Fällen Zirkulationsbeschlüsse fassen.
+<sup>3</sup> Die Fachbereiche informieren die Fakultätsversammlung über die Einführung, Änderung und Aufhebung von Lehrveranstaltungen im Masterstudium.
 
 #### § 11
 
-**Beschlussfassung**
+**Institute, Zentren und Akademien**
 
-<sup>1</sup> Einer Mehrheit von zwei Dritteln der Stimmen bedürfen:
+<sup>1</sup> Die Fakultät kann zur Erfüllung ihrer Aufgaben in Forschung und Weiterbildung sowie im Bereich von Dienstleistung Institute, Zentren und Akademien errichten.
 
-- a. Änderung der §§ 5, 6 und 11 dieses Reglements;
-- b. Verleihung von Ehrendoktoraten;
-- c. Aufhebung von Richtlinien und Weisungen der Dekanin oder des Dekans oder von Delegierten.
+<sup>2</sup> Sie führt insbesondere ein Institut für juristische Grundlagenforschung sowie ein Institut für Wirtschaft und Regulierung.
 
-<sup>2</sup> Für Anträge auf Ernennung von Professorinnen und Professoren bedarf es ausser der Stimmenmehrheit der Mehrheit der Stimmen der hauptamtlichen Professorinnen und Professoren.
-
-<sup>3</sup> Die übrigen Beschlüsse werden mit Stimmenmehrheit der anwesenden Stimmberechtigten gefällt. Enthaltungen werden nicht mitgezählt.
-
-<sup>4</sup> Bei Stimmengleichheit hat die Dekanin oder der Dekan den Stichentscheid.
-
-<sup>5</sup> Ist die Zahl der hauptamtlichen Professorinnen und Professoren (§ 8 Abs. 1a) kleiner als die Zahl der in § 8 Absatz 1b bis d genannten Vertretungen, so bestimmt die Dekanin oder der Dekan die Zahl der Stimmen der genannten Gruppierungen.
-
-### 2.4 Prüfungskommission
+## 3. Schlussbestimmungen
 
 #### § 12
 
-<sup>1</sup> Der Prüfungskommission gehören alle Prüfenden an.
-
-<sup>2</sup> Sie nimmt die Aufgaben im Zusammenhang mit dem Prüfungswesen wahr. Sie kann einzelne Aufgaben einem Ausschuss übertragen.
-
-<sup>3</sup> Sie tagt unter dem Vorsitz der Dekanin oder des Dekans oder der Delegierten oder des Delegierten für Prüfungsfragen.
-
-<sup>4</sup> Der Ausschuss der Prüfungskommission besteht aus der Dekanin oder dem Dekan, der Prüfungsdelegierten oder dem Prüfungsdelegierten sowie den Vorsitzenden der Fachbereiche.
-
-### 2.5 Beirat
-
-#### § 13
-
-<sup>1</sup> Der Beirat berät die Dekanin oder den Dekan in strategischen Belangen von Lehre, Forschung und Dienstleistung.
-
-<sup>2</sup> Er tritt auf Einladung der Dekanin oder des Dekans zusammen.
-
-## 3 Schlussbestimmungen
-
-#### § 14
-
 **Wegleitung**
 
-<sup>1</sup> Die Fakultätsversammlung kann eine Wegleitung zu diesem Reglement formulieren.
+<sup>1</sup> Die Fakultätsversammlung kann eine Wegleitung zu diesem Reglement erlassen.
 
-#### § 15
-
-**Vorläufiges Leitbild; Anpassung an das Universitätsstatut**
-
-<sup>1</sup> Der Gründungsdekan formuliert das vorläufige Leitbild; die Fakultätsversammlung formuliert innert zweier Jahre das definitive Leitbild.
-
-<sup>2</sup> …
-
-#### § 16
-
-**Inkrafttreten**
-
-<sup>1</sup> Das Reglement tritt am 1. Oktober 2001 in Kraft. Es ist zu veröffentlichen.
-
-G 2001 246
+G 2024-033
