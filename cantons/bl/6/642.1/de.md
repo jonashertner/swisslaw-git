@@ -3,20 +3,19 @@ canton: BL
 number: "642.1"
 title: Dekret über die Sekundarschulkreise und Sekundarschulstandorte
 language: de
-version: 2010-08-01
-valid_until: 2024-07-31
-version_adopted: 2010-01-28
+version: 2024-08-01
+version_adopted: 2022-09-15
 adopted: 2010-01-28
 in_force: 2010-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/642.1"
-pdf: "https://bl.clex.ch/api/de/versions/3536/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3543/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Dekret über die Sekundarschulkreise und Sekundarschulstandorte
 
-Vom 28.01.2010 (Stand 01.08.2010)
+Vom 28.01.2010 (Stand 01.08.2024)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -66,9 +65,9 @@ beschliesst:
 
 #### § 3
 
-**Leitung und Aufsicht**
+**Leitung**
 
-<sup>1</sup> Jeder Sekundarschulstandort wird durch eine Schulleitung geleitet und je ein Schulrat nimmt die Aufsichtspflicht wahr.
+<sup>1</sup> Jeder Sekundarschulstandort wird durch eine Schulleitung geleitet.
 
 #### § 4
 
