@@ -4,11 +4,11 @@ title: "Verordnung vom 31. August 1983 über die obligatorische Arbeitslosenvers
 short: AVIV
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205"
 language: de
-version: 2024-01-01
+version: 2024-08-01
 adopted: 1983-08-31
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20240101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20240801/de/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20240801-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20240801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20240101/de"
 
 (Arbeitslosenversicherungsverordnung, AVIV)
 
-vom 31. August 1983 (Stand am 1. Januar 2024)
+vom 31. August 1983 (Stand am 1. August 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -1412,9 +1412,13 @@ Weicht der Lohn im letzten Beitragsmonat um mindestens 10 Prozent vom Durchschni
 
 #### Art. 57b
 
-[^57b-1]
+**Höchstdauer der Kurzarbeitsentschädigung**[^57b-1]
 
-[^57b-1]: Eingefügt durch Ziff. I der V vom 11. Febr. 2009 ([AS 2009 1027](https://fedlex.data.admin.ch/eli/oc/2009/158)). Fassung gemäss Ziff. I der V vom 1. Juli 2020, in Kraft vom 1. Sept. 2020 bis zum 30. Juni 2021 ([AS 2020 2875](https://fedlex.data.admin.ch/eli/oc/2020/524), [2021 382](https://fedlex.data.admin.ch/eli/oc/2021/382)).
+### (Art. 35 Abs. 2 AVIG)
+
+Die Höchstdauer der Kurzarbeitsentschädigung wird um sechs Abrechnungsperioden verlängert.
+
+[^57b-1]: Eingefügt durch Ziff. I der V vom 11. Febr. 2009 ([AS 2009 1027](https://fedlex.data.admin.ch/eli/oc/2009/158)). Fassung gemäss Ziff. I der V vom 19. Juni 2024, in Kraft vom 1. Aug. 2024 bis zum 31. Juli 2025 ([AS 2024 306](https://fedlex.data.admin.ch/eli/oc/2024/306)).
 
 #### Art. 58
 

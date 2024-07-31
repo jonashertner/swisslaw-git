@@ -4,11 +4,11 @@ title: "Ordonnance du 31 août 1983 sur l'assurance-chômage obligatoire et l'in
 short: OACI
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205"
 language: fr
-version: 2024-01-01
+version: 2024-08-01
 adopted: 1983-08-31
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20240101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20240801/fr/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20240801-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20240801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20240101/fr"
 
 (Ordonnance sur l’assurance-chômage, OACI)
 
-du 31 août 1983 (État le 1<sup>er</sup> janvier 2024)
+du 31 août 1983 (État le 1<sup>er</sup> août 2024)
 
 Le Conseil fédéral suisse,
 
@@ -325,7 +325,7 @@ Les montants affectés à la prévoyance professionnelle sont déduits des prest
 
 ### (art. 11*a* et 13 LACI)
 
-<sup>1</sup> Lorsque des prestations volontaires mensuelles ont été convenues pour une période déterminée, le montant maximum du gain annuel assuré visé à l’art. 3, al. 2, LACI est déduit de la somme de ces prestations mensuelles ’et le résultat est divisé par le nombre de mois convenu. Le montant qui en résulte est déduit de l’indemnité de chômage.
+<sup>1</sup> Lorsque des prestations volontaires mensuelles ont été convenues pour une période déterminée, le montant maximum du gain annuel assuré visé à l’art. 3, al. 2, LACI est déduit de la somme de ces prestations mensuelles et le résultat est divisé par le nombre de mois convenu. Le montant qui en résulte est déduit de l’indemnité de chômage.
 
 <sup>2</sup> Si aucune période n’a été fixée, le calcul visé à l’al. 1 est effectué sur la base du nombre de mois qui précèdent l’âge de référence fixé à l’art. 21, al. 1, de la loi fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants (LAVS)[^10d-2].[^10d-3]
 
@@ -1424,9 +1424,13 @@ Lorsque le salaire du dernier mois de cotisation s’écarte d’au moins 10 % d
 
 #### Art. 57b
 
-[^57b-1]
+**Durée maximum de l’indemnisation**[^57b-1]
 
-[^57b-1]: Introduit par le ch. I de l’O du 11 fév. 2009 ([RO 2009 1027](https://fedlex.data.admin.ch/eli/oc/2009/158)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> juil. 2020, en vigueur du 1<sup>er</sup> sept. 2020 au 30 juin 2021 ([RO 2020 2875](https://fedlex.data.admin.ch/eli/oc/2020/524); [2021 382](https://fedlex.data.admin.ch/eli/oc/2021/382)).
+### (art. 35, al. 2, LACI)
+
+La durée maximum de l’indemnisation en cas de réduction de l’horaire de travail est prolongée de six périodes de décompte.
+
+[^57b-1]: Introduit par le ch. I de l’O du 11 fév. 2009 ([RO 2009 1027](https://fedlex.data.admin.ch/eli/oc/2009/158)). Nouvelle teneur selon le ch. I de l’O du 19 juin 2024, en vigueur du 1<sup>er</sup> août 2024 au 31 juil. 2025 ([RO 2024 306](https://fedlex.data.admin.ch/eli/oc/2024/306)).
 
 #### Art. 58
 

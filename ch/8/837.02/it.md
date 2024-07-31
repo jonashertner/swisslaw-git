@@ -4,11 +4,11 @@ title: "Ordinanza del 31 agosto 1983 sull'assicurazione obbligatoria contro la d
 short: OADI
 eli: "https://fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205"
 language: it
-version: 2024-01-01
+version: 2024-08-01
 adopted: 1983-08-31
 in_force: 1984-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20240101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1983/1205_1205_1205/20240801/it/xml/fedlex-data-admin-ch-eli-cc-1983-1205_1205_1205-20240801-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20240801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1983/1205_1205_1205/20240101/it"
 
 (Ordinanza sull’assicurazione contro la disoccupazione, OADI[^t-1])
 
-del 31 agosto 1983 (Stato 1° gennaio 2024)
+del 31 agosto 1983 (Stato 1° agosto 2024)
 
 [^t-1]: Nuova abbreviazione giusta il n. I dell’O del 28 ago. 1991 in vigore dal 1° gen. 1992 ([RU 1991 2132](https://fedlex.data.admin.ch/eli/oc/1991/2132_2132_2132)). Di detta mod. è tenuto conto in tutto il presente testo.
 
@@ -1349,7 +1349,7 @@ Un settore d’esercizio è parificato ad un’azienda se costituisce un’unit�
 
 <sup>2</sup> Se il preannuncio di lavoro ridotto deve essere rinnovato in applicazione dell’articolo 36 capoverso 1 ultimo periodo LADI, si deve inoltrare una nuova domanda di autorizzazione.
 
-[^53a-1]: Introdotto dal n. I dell’O del 24 gen. 2024, in vigore dal 1° gen. 2024 (RU **20****24** 62).
+[^53a-1]: Introdotto dal n. I dell’O del 24 gen. 2024, in vigore dal 1° gen. 2024 ([RU 2024 62](https://fedlex.data.admin.ch/eli/oc/2024/62)).
 
 #### Art. 54
 
@@ -1420,9 +1420,13 @@ Se il salario dell’ultimo mese di contribuzione si scosta di almeno il 10 per 
 
 #### Art. 57b
 
-[^57b-1]
+**Durata massima dell’indennità per lavoro ridotto**[^57b-1]
 
-[^57b-1]: Introdotto dal n. I dell’O dell’11 feb. 2009 ([RU 2009 1027](https://fedlex.data.admin.ch/eli/oc/2009/158)). Nuovo testo giusta il n. I dell’O del 1° lug. 2020, in vigore dal 1° set. 2020 al 30 giu. 2021 ([RU 2020 2875](https://fedlex.data.admin.ch/eli/oc/2020/524), [2021 382](https://fedlex.data.admin.ch/eli/oc/2021/382)).
+### (art. 35 cpv. 2 LADI)
+
+La durata massima dell’indennità per lavoro ridotto è prolungata di sei periodi di conteggio.
+
+[^57b-1]: Introdotto dal n. I dell’O dell’11 feb. 2009 ([RU 2009 1027](https://fedlex.data.admin.ch/eli/oc/2009/158)). Nuovo testo giusta il n. I dell’O del 19 giu. 2024, in vigore dal 1° ago. 2024 al 31 lug. 2025 ([RU 2024 306](https://fedlex.data.admin.ch/eli/oc/2024/306)).
 
 #### Art. 58
 
