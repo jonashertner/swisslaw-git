@@ -4,13 +4,13 @@ number: "436.111.1"
 title: Ordonnance sur l’Université
 short: OUni
 language: fr
-version: 2023-01-01
-valid_until: 2024-07-31
-version_adopted: 2022-11-16
+version: 2024-08-01
+valid_until: 2025-12-31
+version_adopted: 2024-05-22
 adopted: 2012-09-12
 in_force: 2013-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/436.111.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2743/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3036/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2743/pdf_file"
 
 (OUni)
 
-du 12.09.2012 (état au 01.01.2023)
+du 12.09.2012 (état au 01.08.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -489,7 +489,7 @@ arrête:
 
 <sup>2a</sup> La direction de l’Université fixe les modalités de détail par voie de règlement.
 
-<sup>3</sup> Les étudiants et les étudiantes membres de l’Association des étudiants et des étudiantes (AEB) paient 21 francs supplémentaires.
+<sup>3</sup> Les étudiants et les étudiantes membres de l’Association des étudiants et des étudiantes paient 25 francs supplémentaires.
 
 #### Art. 41
 
@@ -497,7 +497,7 @@ arrête:
 
 <sup>1</sup> La taxe de mise en congé s’élève à 100 francs.
 
-<sup>2</sup> Les étudiants et étudiantes bénéficiant d’un congé et faisant partie de l’Association des étudiants et des étudiantes (AEB) s’acquittent par ailleurs de la taxe visée à l’article 40, alinéa 3.
+<sup>2</sup> Les étudiants et étudiantes bénéficiant d’un congé et faisant partie de l’Association des étudiants et des étudiantes s’acquittent par ailleurs de la taxe visée à l’article 40, alinéa 3.
 
 #### Art. 42
 
@@ -673,12 +673,8 @@ arrête:
 - a le recteur ou la rectrice,
 - b les vice-recteurs et les vice-rectrices,
 - c le directeur administratif ou la directrice administrative,
-- d les professeurs et les professeures ordinaires et extraordinaires,
-- e les professeurs assistants et les professeures assistantes avec prétitularisation conditionnelle,
-- f les professeurs assistants et les professeures assistantes,
-- g les enseignants assistants et les enseignantes assistantes avec prétitularisation conditionnelle,
-- h les chargés et les chargées de cours,
-- i les enseignants et les enseignantes invités.
+- d les membres du corps enseignant visés à l’article 49, alinéa 1, lettres a à g.
+- e–i …
 
 #### Art. 52b
 
@@ -863,6 +859,14 @@ arrête:
 <sup>1</sup> Les frais occasionnés aux collaborateurs et aux collaboratrices par l’accomplissement de leurs tâches leur sont remboursés.
 
 <sup>2</sup> La direction de l’Université fixe les modalités de détail par voie de règlement. Celui-ci est porté à la connaissance de la Direction de l’instruction publique et de la culture.
+
+#### Art. 59b
+
+**Enregistrement d’irrégularités**
+
+<sup>1</sup> Le Contrôle des finances enregistre les irrégularités qui lui sont signalées par les collaboratrices et les collaborateurs de l’Université.
+
+<sup>2</sup> Le droit de signaler les irrégularités et la protection des collaboratrices et des collaborateurs sont régis par l’article 50a LPers.
 
 ### 3.3 Tâches des différentes catégories de personnel et prescriptions particulières
 
@@ -1418,7 +1422,7 @@ arrête:
 
 <sup>1</sup> Si la personne désignée au poste de vice-recteur ou de vice-rectrice est déjà engagée à l’Université, elle est, pendant toute la durée de son mandat, dégagée à hauteur de 50 pour cent des obligations liées à la charge qu’elle occupait jusqu’à sa désignation.
 
-<sup>2</sup> Durant leur mandat, les vice-recteurs et les vice-rectrices perçoivent une indemnité de fonction de 12'500 francs par an.
+<sup>2</sup> Durant leur mandat, les vice-recteurs et les vice-rectrices perçoivent une indemnité de fonction de 18'000 francs par an.
 
 <sup>3</sup> Pour de justes motifs, le recteur ou la rectrice peut déterminer un autre pourcentage pour la fonction exercée au sein de la direction de l’Université. L’indemnité de fonction visée à l’alinéa 2 est adaptée en conséquence.
 
@@ -1677,7 +1681,7 @@ arrête:
 
 **Règlement**
 
-<sup>1</sup> Le sénat édicte un règlement sur la Commission de recours, en particulier sur son fonctionnement et son secrétariat.
+<sup>1</sup> Le sénat édicte un règlement sur la Commission de recours, en particulier sur son fonctionnement ainsi que sur l’indemnisation du président ou de la présidente et des autres membres.
 
 ## 8 Dispositions transitoires et dispositions finales
 
@@ -1762,6 +1766,20 @@ arrête:
 #### Art. T4-5
 
 <sup>1</sup> La direction de l’Université fixe, par voie de règlement, les adaptations nécessaires des rapports de travail existants au nouveau droit.
+
+## T5 Dispositions transitoires de la modification du 22.05.2024
+
+#### Art. T5-1
+
+**Taxe d’adhésion à l’Association des étudiants et des étudiantes**
+
+<sup>1</sup> La taxe d’adhésion à l’Association des étudiants et des étudiantes est prélevée selon le nouveau tarif à partir du semestre de printemps 2025.
+
+#### Art. T5-2
+
+**Personnes exemptées de l’entretien d’évaluation périodique**
+
+<sup>1</sup> La modification de l’article 52a, alinéa 4, lettre d est applicable avec effet rétroactif au 1<sup>er</sup> janvier 2024.
 
 ## A1
 

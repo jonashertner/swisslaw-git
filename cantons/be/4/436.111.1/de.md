@@ -4,13 +4,13 @@ number: "436.111.1"
 title: Verordnung über die Universität
 short: UniV
 language: de
-version: 2023-01-01
-valid_until: 2024-07-31
-version_adopted: 2022-11-16
+version: 2024-08-01
+valid_until: 2025-12-31
+version_adopted: 2024-05-22
 adopted: 2012-09-12
 in_force: 2013-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/436.111.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2743/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3036/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2743/pdf_file"
 
 (UniV)
 
-vom 12.09.2012 (Stand 01.01.2023)
+vom 12.09.2012 (Stand 01.08.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -489,7 +489,7 @@ beschliesst:
 
 <sup>2a</sup> Die Universitätsleitung regelt die Einzelheiten durch Reglement.
 
-<sup>3</sup> Studierende, die der Vereinigung der Studierenden (SUB) angehören, bezahlen zusätzlich 21 Franken.
+<sup>3</sup> Studierende, die der Vereinigung der Studierenden angehören, bezahlen zusätzlich 25 Franken.
 
 #### Art. 41
 
@@ -497,7 +497,7 @@ beschliesst:
 
 <sup>1</sup> Die Beurlaubungsgebühr beträgt 100 Franken.
 
-<sup>2</sup> Beurlaubte Studierende, die der SUB angehören, bezahlen zudem die Gebühr gemäss Artikel 40 Absatz 3.
+<sup>2</sup> Beurlaubte Studierende, die der Vereinigung der Studierenden angehören, bezahlen zudem die Gebühr gemäss Artikel 40 Absatz 3.
 
 #### Art. 42
 
@@ -662,7 +662,7 @@ beschliesst:
 
 **Durchführung des Mitarbeitergesprächs**
 
-<sup>1</sup> Die Vorgesetzten führen periodisch, aber mindestens jährlich, mit jeder Mitarbeiterin und jedem Mitarbeiter ein Mitarbeitergespräch im Sinne einer Standortbestimmung durch.
+<sup>1</sup> Die Vorgesetzten führen periodisch, aber mindestens jährlich, mit jeder Mitarbeiterin oder jedem Mitarbeiter ein Mitarbeitergespräch im Sinne einer Standortbestimmung durch.
 
 <sup>2</sup> Kernpunkte des Mitarbeitergesprächs sind die Zielvereinbarung, die Arbeitsbedingungen, das Arbeitsklima, die berufliche Entwicklung und die beruflichen Perspektiven sowie die Leistungs- und Verhaltensbeurteilung.
 
@@ -673,12 +673,8 @@ beschliesst:
 - a die Rektorin oder der Rektor,
 - b die Vizerektorinnen und Vizerektoren,
 - c die Verwaltungsdirektorin oder der Verwaltungsdirektor,
-- d die ordentlichen und ausserordentlichen Professorinnen und Professoren,
-- e die Assistenzprofessorinnen und Assistenzprofessoren mit Tenure Track,
-- f die Assistenzprofessorinnen und Assistenzprofessoren,
-- g die Assistenzdozentinnen und Assistenzdozenten mit Tenure Track,
-- h die Lehrbeauftragten,
-- i die Gastdozentinnen und Gastdozenten.
+- d die Dozentinnen und Dozenten gemäss Artikel 49 Absatz 1 Buchstaben a bis g.
+- e–i …
 
 #### Art. 52b
 
@@ -863,6 +859,14 @@ beschliesst:
 <sup>1</sup> Den Mitarbeiterinnen und Mitarbeitern werden Auslagen ersetzt, die bei der Aufgabenerfüllung entstanden sind.
 
 <sup>2</sup> Die Universitätsleitung regelt die Einzelheiten durch Reglement. Dieses wird der Bildungs- und Kulturdirektion zur Kenntnis gebracht.
+
+#### Art. 59b
+
+**Meldestelle Missstände**
+
+<sup>1</sup> Die Finanzkontrolle ist Meldestelle für die Mitarbeiterinnen und Mitarbeiter über Missstände an der Universität.
+
+<sup>2</sup> Das Melderecht bei Missständen und der Schutz von Mitarbeiterinnen und Mitarbeitern richtet sich nach Artikel 50a PG.
 
 ### 3.3 Aufgaben und besondere Vorschriften nach Kategorie
 
@@ -1418,7 +1422,7 @@ beschliesst:
 
 <sup>1</sup> Ist die Person, die zur Vizerektorin oder zum Vizerektor gewählt wird, bereits an der Universität angestellt, so ist sie während der Amtsperiode zu 50 Prozent von den Verpflichtungen aus dieser Anstellung entbunden.
 
-<sup>2</sup> Vizerektorinnen und Vizerektoren erhalten während der Amtsperiode eine Funktionszulage von 12'500 Franken pro Jahr.
+<sup>2</sup> Vizerektorinnen und Vizerektoren erhalten während der Amtsperiode eine Funktionszulage von 18'000 Franken pro Jahr.
 
 <sup>3</sup> Aus wichtigen Gründen kann die Rektorin oder der Rektor einen anderen Umfang für die Tätigkeit in der Universitätsleitung festlegen. Die Funktionszulage gemäss Absatz 2 wird angepasst.
 
@@ -1677,7 +1681,7 @@ beschliesst:
 
 **Reglement**
 
-<sup>1</sup> Der Senat erlässt ein Reglement über die Rekurskommission, insbesondere über deren Arbeitsweise und das Sekretariat.
+<sup>1</sup> Der Senat erlässt ein Reglement über die Rekurskommission, insbesondere über deren Arbeitsweise sowie die Entschädigung der Präsidentin oder des Präsidenten und der weiteren Mitglieder.
 
 ## 8 Übergangs- und Schlussbestimmungen
 
@@ -1762,6 +1766,20 @@ beschliesst:
 #### Art. T4-5
 
 <sup>1</sup> Die Universitätsleitung regelt die erforderlichen Anpassungen der bestehenden Arbeitsverhältnisse an das neue Recht durch Reglement.
+
+## T5 Übergangsbestimmungen der Änderung vom 22.05.2024
+
+#### Art. T5-1
+
+**Gebühr für die Mitgliedschaft in der Vereinigung der Studierenden**
+
+<sup>1</sup> Die Gebühr für die Mitgliedschaft in der Vereinigung der Studierenden wird erstmals für das Frühjahrssemester 2025 nach dem neuen Tarif erhoben.
+
+#### Art. T5-2
+
+**Ausnahmen von einem Mitarbeitergespräch**
+
+<sup>1</sup> Die Änderung von Artikel 52a Absatz 4 Buchstabe d ist rückwirkend auf den 1. Januar 2024 anwendbar.
 
 ## A1
 
