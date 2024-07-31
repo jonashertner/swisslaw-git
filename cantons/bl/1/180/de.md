@@ -4,13 +4,13 @@ number: "180"
 title: Gesetz über die Organisation und die Verwaltung der Gemeinden
 short: "Gemeindegesetz, GemG"
 language: de
-version: 2024-01-01
-valid_until: 2024-07-31
-version_adopted: 2023-09-14
+version: 2024-08-01
+valid_until: 2025-12-31
+version_adopted: 2022-09-15
 adopted: 1970-05-28
 in_force: 1972-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/180"
-pdf: "https://bl.clex.ch/api/de/versions/3781/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3783/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3781/pdf_file"
 
 (Gemeindegesetz, GemG)
 
-Vom 28.05.1970 (Stand 01.01.2024)
+Vom 28.05.1970 (Stand 01.08.2024)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -1349,6 +1349,8 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Aufsichtsinstanz über den Gemeinderat ist der Regierungsrat.
 
+<sup>2</sup> Sofern sich die Einwohnergemeinde für ein Führungsmodell mit Gemeinderat entschieden hat, ist die Bildungs-, Kultur- und Sportdirektion Aufsichtsinstanz über den Gemeinderat in Bezug auf alle Fragen des Bildungswesens.
+
 #### § 81
 
 **Strafverfahren vor dem Gemeinderat**
@@ -1527,13 +1529,20 @@ beschliesst:[^ingress-2]
 
 ### 3.3.1.5 Die übrigen Gemeindebehörden
 
+#### § 90a
+
+**Führungsmodell der kommunalen Schulen**
+
+<sup>1</sup> Sofern die Gemeindeversammlung die Aufgaben des Schulrats gemäss Bildungsgesetz vom 6. Juni 2002 an den Gemeinderat delegiert, legt die Gemeinde in der Gemeindeordnung das für die Primarstufe geltende Führungsmodell fest.
+
 #### § 91
 
 **Schulräte**
 
 <sup>1</sup> Die Gemeinde legt in der Gemeindeordnung fest:
 
-- a. die Anzahl ihrer Schulräte für Kindergarten, Primarschule und Musikschule;
+- a. die Anzahl ihrer Schulräte für die Primarstufe, sofern sich die Einwohnergemeinde nicht für ein Führungsmodell mit Gemeinderat entschieden hat;
+- a<sup>bis</sup>. die Anzahl ihrer Schulräte für die Musikschule;
 - b. die Zahl der Mitglieder sowie das Wahlorgan für die Schulräte gemäss Buchstabe a;
 - c. das Wahlorgan für die Mitglieder des Schulrates für die Sekundarschule.
 
