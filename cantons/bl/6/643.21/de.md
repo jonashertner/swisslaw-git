@@ -3,20 +3,19 @@ canton: BL
 number: "643.21"
 title: Verordnung über die Maturitätsprüfungen
 language: de
-version: 2022-01-01
-valid_until: 2024-07-31
-version_adopted: 2021-11-23
+version: 2024-08-01
+version_adopted: 2023-12-19
 adopted: 2005-07-05
 in_force: 2005-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/643.21"
-pdf: "https://bl.clex.ch/api/de/versions/3741/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3869/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Maturitätsprüfungen
 
-Vom 05.07.2005 (Stand 01.01.2022)
+Vom 05.07.2005 (Stand 01.08.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
@@ -50,7 +49,7 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 <sup>1</sup> Zugelassen werden Schülerinnen und Schüler, welche die beiden letzten Jahre regelmässig an einer Maturitätsschule und das letzte Jahr am prüfenden Gymnasium absolviert haben.
 
-<sup>2</sup> Die Schulleitungskonferenz der Gymnasien (Schulleitungskonferenz) kann in besonderen Fällen Ausnahmen bewilligen.
+<sup>2</sup> Die Hauptabteilung Berufs- und Mittelschulen der Dienststelle Berufsbildung, Mittelschulen und Hochschulen (Dienststelle BMH) kann in besonderen Fällen Ausnahmen bewilligen.
 
 <sup>3</sup> ...
 
@@ -66,9 +65,7 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 #### § 6
 
-**Aufsicht über die Prüfungen**
-
-<sup>1</sup> Der Schulrat des jeweiligen Gymnasiums beaufsichtigt die Prüfungen.
+**…**
 
 #### § 6a
 
@@ -171,7 +168,7 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 - 13\. Musik (nicht für die Profile M, Z);
 - 14\. Sport (nicht für die Profile M, Z).
 
-<sup>5</sup> Der Schulrat kann auf Antrag der Schulleitung das Angebot aufgrund der Anmeldezahlen und des Schulprogrammes reduzieren.
+<sup>5</sup> Die Schulleitung kann das Angebot aufgrund der Anmeldezahlen und des Schulprogramms reduzieren. Sie informiert den Schulrat darüber.
 
 <sup>6</sup> Voraussetzung für die Wahl eines Ergänzungsfachs ist eine Vorbildung im Umfang von mindestens 2 Jahreslektionen.
 
@@ -225,7 +222,7 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 <sup>1</sup> Die schriftlichen Prüfungen in den Grundlagen- und in den Schwerpunktfächern sind für die einzelnen Gymnasien identisch.
 
-<sup>2</sup> Der Schulrat kann Ausnahmen bewilligen.
+<sup>2</sup> Die Schulleitungskonferenz kann Ausnahmen bewilligen.
 
 <sup>3</sup> In den Ergänzungsfächern sind die schriftlichen Prüfungen eines Gymnasiums mindestens einheitlich bezüglich der geprüften Kompetenzen und deren Anforderungsniveaus.
 
