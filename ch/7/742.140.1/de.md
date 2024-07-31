@@ -3,18 +3,18 @@ sr: "742.140.1"
 title: Bundesbeschluss vom 21. Juni 2013 über den Ausbauschritt 2025 der Eisenbahninfrastruktur
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/108"
 language: de
-version: 2016-01-01
+version: 2024-08-01
 adopted: 2013-06-21
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/108/20160101/de/xml/fedlex-data-admin-ch-eli-cc-2015-108-20160101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/108/20160101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/108/20240801/de/xml/fedlex-data-admin-ch-eli-cc-2015-108-20240801-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/108/20240801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesbeschluss über den Ausbauschritt 2025 der Eisenbahninfrastruktur
 
-vom 21. Juni 2013 (Stand am 1. Januar 2016)
+vom 21. Juni 2013 (Stand am 1. August 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -37,7 +37,7 @@ Dieser umfasst folgende Massnahmen:
 - b. Knoten Genf: Kapazitätsausbau;
 - c. Lausanne-Bern: Beschleunigungsmassnahmen;
 - d. Ligerz–Twann: Kapazitätsausbau;
-- e. Basel Ost (1. Etappe), Ergolztal: Kapazitätsausbau; Pratteln: Entflechtung;
+- e.[^1-1] Basel Ost (1. Etappe), Ergolztal: Kapazitätsausbau; Pratteln: Fortsetzung der Planung für die Entflechtung;
 - f. Knoten Bern: Kapazitätsausbau;
 - g. Gümligen-Münsingen: Kapazitätsausbau;
 - h. Bern–Luzern: Leistungssteigerung;
@@ -63,6 +63,8 @@ Der Bundesrat legt der Bundesversammlung bis 2018 eine Botschaft für einen Ausb
 - e. verschiedene Einzelinvestitionen zur Optimierung des Knotenprinzips und der Taktfrequenz;
 - f. betriebliche Anlagen;
 - g. vorbereitende Planungsarbeiten für den nächsten Ausbauschritt und die Studien für Basel-Mittelland (3. Juradurchstich), die Neubaustrecke Axen, Lausanne-Bern sowie weitere Projekte.
+
+[^1-1]: Fassung gemäss Ziff. I 1 des BB vom 15. März 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 338](https://fedlex.data.admin.ch/eli/oc/2024/338); [BBl 2023 2061](https://fedlex.data.admin.ch/eli/fga/2023/2061)).
 
 #### Art. 2
 

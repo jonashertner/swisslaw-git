@@ -3,18 +3,18 @@ sr: "742.140.1"
 title: "Arrêté fédéral du 21 juin 2013 sur l'étape d'aménagement 2025 de l'infrastructure ferroviaire"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/108"
 language: fr
-version: 2016-01-01
+version: 2024-08-01
 adopted: 2013-06-21
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/108/20160101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-108-20160101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/108/20160101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/108/20240801/fr/xml/fedlex-data-admin-ch-eli-cc-2015-108-20240801-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/108/20240801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Arrêté fédéral sur l’étape d’aménagement 2025 de l’infrastructure ferroviaire
 
-du 21 juin 2013 (Etat le 1<sup>er</sup> janvier 2016)
+du 21 juin 2013 (État le 1<sup>er</sup> août 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -37,7 +37,7 @@ Elle comprend les mesures suivantes:
 - b. nœud de Genève: extension de capacité;
 - c. Lausanne–Berne: mesures d’accélération;
 - d. Gléresse–Douanne: extension de capacité;
-- e. Bâle Est (1<sup>re</sup> étape), Ergolztal: extension de capacité; Pratteln: désenchevêtrement;
+- e.[^1-1] Basel Est (1<sup>re</sup> étape), Ergolztal: extension de capacité; Pratteln: poursuite de la planification du désenchevêtrement;
 - f. nœud de Berne: extension de capacité;
 - g. Gümligen–Münsingen: extension de capacité;
 - h. Berne–Lucerne: augmentation des prestations;
@@ -63,6 +63,8 @@ Le Conseil fédéral soumet un message à l’Assemblée fédérale d’ici à 2
 - e. investissements particuliers destinés à optimiser le principe des noeuds et les cadences;
 - f. installations d’exploitation;
 - g. travaux préparatoires de planification pour la prochaine étape d’aménagement et études relatives au tronçon entre Bâle et le Mittelland (3<sup>e</sup> traversée du Jura), au nouveau tronçon de l’Axen, au tronçon Lausanne-Berne et à d’autres projets.
+
+[^1-1]: Nouvelle teneur selon le ch. I 1 de l’AF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 338](https://fedlex.data.admin.ch/eli/oc/2024/338); [FF 2023 2061](https://fedlex.data.admin.ch/eli/fga/2023/2061)).
 
 #### Art. 2
 

@@ -3,18 +3,18 @@ sr: "742.140.1"
 title: "Decreto federale del 21 giugno 2013 concernente la fase di ampliamento 2025 dell'infrastruttura ferroviaria"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/108"
 language: it
-version: 2016-01-01
+version: 2024-08-01
 adopted: 2013-06-21
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/108/20160101/it/xml/fedlex-data-admin-ch-eli-cc-2015-108-20160101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/108/20160101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/108/20240801/it/xml/fedlex-data-admin-ch-eli-cc-2015-108-20240801-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/108/20240801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Decreto federale concernente la fase di ampliamento 2025 dell’infrastruttura ferroviaria
 
-del 21 giugno 2013 (Stato 1° gennaio 2016)
+del 21 giugno 2013 (Stato 1° agosto 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -37,7 +37,7 @@ Tale fase comprende le seguenti misure:
 - b. nodo di Ginevra: potenziamento delle capacità;
 - c. Losanna–Berna: misure di accelerazione;
 - d. Ligerz–Twann: potenziamento delle capacità;
-- e. Basilea-Est (1<sup>a</sup> tappa), Ergolztal: potenziamento delle capacità; Pratteln: separazione dei flussi di traffico;
+- e.[^1-1] Basilea-Est (1<sup>a</sup> tappa), Ergolztal: potenziamento delle capacità; Pratteln: proseguimento della pianificazione della separazione dei flussi di traffico;
 - f. nodo di Berna: potenziamento delle capacità;
 - g. Gümligen–Münsigen: potenziamento delle capacità;
 - h. Berna–Lucerna: aumento delle prestazioni;
@@ -63,6 +63,8 @@ Il Consiglio federale sottopone all’Assemblea federale entro il 2018 un messag
 - e. diversi investimenti puntuali volti a ottimizzare il principio delle stazioni nodali e la frequenza delle corse;
 - f. impianti d’esercizio;
 - g. lavori di pianificazione preliminare in vista della prossima fase di ampliamento, nonché progettazioni per la tratta Basilea–Mittelland (terzo traforo del Giura), per la nuova tratta Axen, per la tratta Losanna–Berna e per ulteriori progetti.
+
+[^1-1]: Nuovo testo giusta il n. I 1 del DF del 15 mar. 2024, in vigore dal 1° ago. 2024 ([RU 2024 338](https://fedlex.data.admin.ch/eli/oc/2024/338); [FF 2023 2061](https://fedlex.data.admin.ch/eli/fga/2023/2061)).
 
 #### Art. 2
 
