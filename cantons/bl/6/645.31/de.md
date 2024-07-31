@@ -3,20 +3,19 @@ canton: BL
 number: "645.31"
 title: Verordnung über den Schulsozialdienst auf der Sekundarstufe I und II
 language: de
-version: 2022-01-01
-valid_until: 2024-07-31
-version_adopted: 2021-12-14
+version: 2024-08-01
+version_adopted: 2023-12-19
 adopted: 2004-03-16
 in_force: 2004-04-01
 url: "https://bl.clex.ch/app/de/texts_of_law/645.31"
-pdf: "https://bl.clex.ch/api/de/versions/3748/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3871/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Schulsozialdienst auf der Sekundarstufe I und II
 
-Vom 16.03.2004 (Stand 01.01.2022)
+Vom 16.03.2004 (Stand 01.08.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
@@ -43,7 +42,7 @@ Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
 
 <sup>1</sup> Der Schulsozialdienst kann von Kindern und Jugendlichen auch ohne Voranmeldung in Anspruch genommen werden.
 
-<sup>2</sup> Der Schulrat, die Schulleitung und die Lehrer und Lehrerinnen können minderjährige Schüler und Schülerinnen zu einem Erstgespräch zuweisen.
+<sup>2</sup> Die Schulleitung und die Lehrer und Lehrerinnen können minderjährige Schüler und Schülerinnen zu einem Erstgespräch zuweisen.
 
 <sup>3</sup> Eine weiterführende Beratung bedarf der Zustimmung der Schülerin oder des Schülers.
 
