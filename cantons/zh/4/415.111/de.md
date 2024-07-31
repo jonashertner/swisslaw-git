@@ -4,11 +4,11 @@ number: "415.111"
 title: Universitätsordnung der Universität Zürich (UniO)
 short: UniO
 language: de
-version: "2024-01-01"
-nachtrag: "123"
-valid_until: 2024-08-01
+version: "2024-08-01"
+nachtrag: "125"
+valid_until: 2025-01-01
 adopted: 1998-12-04
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_111-1998_12_04-1999_01_01-123.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_111-1998_12_04-1999_01_01-125.html"
 text: pdf
 ---
 
@@ -62,7 +62,7 @@ An der Universität gilt akademische Forschungs-, Lehr- und Lernfreiheit. Sie is
 
 **1**
 
-- 1\. 1. 24 - 123 § 5. <sup>1</sup> Die Wahrnehmung der ethischen Verantwortung in Forschung, Lehre und Dienstleistung obliegt in erster Linie den wissenschaftlich tätigen Personen.<sup>23</sup>
+- 1\. 7. 24 - 125 § 5. <sup>1</sup> Die Wahrnehmung der ethischen Verantwortung in Forschung, Lehre und Dienstleistung obliegt in erster Linie den wissenschaftlich tätigen Personen.<sup>23</sup>
 
 **Ethische Verantwortung**
 
@@ -136,7 +136,7 @@ An der Universität gilt akademische Forschungs-, Lehr- und Lernfreiheit. Sie is
 
 **3**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 24 - 125
 
 <sup>5</sup> Die Berufungskommission erarbeitet einen Einer- bis Dreiervorschlag und stellt einen begründeten Antrag an die Universitätsleitung. Für die Auswahl der Kandidatinnen und Kandidaten sind deren wissenschaftliche Leistungen in Forschung und Lehre sowie deren soziale Kompetenzen und Führungsqualitäten massgebend. Für klinisch tätige Professorinnen und Professoren sind zusätzlich ausgewiesene klinische Kompetenzen erforderlich. Den Anliegen der Gleichstellung ist Rechnung zu tragen.
 
@@ -202,7 +202,7 @@ An der Universität gilt akademische Forschungs-, Lehr- und Lernfreiheit. Sie is
 
 **5**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 24 - 125
 
 <sup>3</sup> Die Anstellung ist in der Regel unbefristet. Die Anstellungsbedingungen richten sich nach der Personalverordnung der Universität<sup>8</sup>.
 
@@ -278,7 +278,7 @@ An der Universität gilt akademische Forschungs-, Lehr- und Lernfreiheit. Sie is
 
 **7**
 
-- 1\. 1. 24 - 123 § 23.<sup>27</sup> <sup>1</sup> Der Verband der Studierenden der Universität Zürich (VSUZH) vertritt den Stand der Studierenden gegenüber den Universitätsorganen und der Öffentlichkeit und informiert sie über studentische und hochschulpolitische Angelegenheiten.
+- 1\. 7. 24 - 125 § 23.<sup>27</sup> <sup>1</sup> Der Verband der Studierenden der Universität Zürich (VSUZH) vertritt den Stand der Studierenden gegenüber den Universitätsorganen und der Öffentlichkeit und informiert sie über studentische und hochschulpolitische Angelegenheiten.
 
 **VSUZH**
 
@@ -338,7 +338,7 @@ An der Universität gilt akademische Forschungs-, Lehr- und Lernfreiheit. Sie is
 
 <sup>2</sup> Die Mitbestimmungsrechte können nur im Rahmen eines einzigen Standes ausgeübt werden.
 
-<sup>3</sup> Bei der Verleihung und beim Entzug bzw. der Aberkennung von akademischen Titeln und Graden sind die Delegierten der Stände nur dann stimmberechtigt, wenn sie den entsprechenden Titel oder Grad führen. Die Fakultäten können in ihren Organisationsreglementen Ausnahmen vorsehen.
+<sup>3</sup> Die Organisationsreglemente der Fakultäten können vorsehen, dass die Delegierten der Stände bei der Verleihung und dem Entzug von akademischen Titeln und Graden nur dann stimmberechtigt sind, wenn sie den entsprechenden Titel oder Grad führen.<sup>40</sup>
 
 <sup>4</sup> Delegierte des Standes des administrativen und technischen Personals haben kein Einsitz- und Stimmrecht in Berufungs- und Beförderungskommissionen.
 
@@ -350,7 +350,7 @@ An der Universität gilt akademische Forschungs-, Lehr- und Lernfreiheit. Sie is
 
 **9**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 24 - 125
 
 <sup>3</sup> Wenn die Zugehörigkeit zu mehr als einem Stand möglich ist, gelten folgende Grundsätze:
 
@@ -436,7 +436,7 @@ An der Universität gilt akademische Forschungs-, Lehr- und Lernfreiheit. Sie is
 
 **11**
 
-- 1\. 1. 24 - 123 § 32.<sup>35</sup> <sup>1</sup> Die Universität führt ein Finanzgefäss für die universitäre Forschungsförderung (UFO), aus dem ausgewählte Forschungsprojekte finanziert werden.
+- 1\. 7. 24 - 125 § 32.<sup>35</sup> <sup>1</sup> Die Universität führt ein Finanzgefäss für die universitäre Forschungsförderung (UFO), aus dem ausgewählte Forschungsprojekte finanziert werden.
 
 **Universitäre Forschungsförderung**
 
@@ -466,7 +466,7 @@ An der Universität gilt akademische Forschungs-, Lehr- und Lernfreiheit. Sie is
 
 <sup>2</sup> In Veröffentlichungen müssen alle Personen, die wissenschaftlich mitgearbeitet haben, nach Massgabe des Urheberrechts aufgeführt werden.
 
-<sup>3</sup> Die Angehörigen der Universität sind verpflichtet, von jedem selbstständigen wissenschaftlichen Werk, das sie während ihrer Tätigkeit an der Universität veröffentlichen, der Zentralbibliothek und der Instituts- oder zuständigen Fachbibliothek je ein Exemplar abzugeben.<sup>27</sup>
+<sup>3</sup> Die Angehörigen der Universität sind verpflichtet, von jedem selbstständigen wissenschaftlichen Werk, das sie während ihrer Tätigkeit an der Universität veröffentlichen, der Zentralbibliothek und der Universitätsbibliothek je ein Exemplar abzugeben.<sup>40</sup>
 
 <sup>4</sup> Die Fakultäten bestimmen die Anzahl und die Form von Pflichtexemplaren, die von Dissertationen und Habilitationsschriften abzugeben sind.
 
@@ -602,7 +602,7 @@ An der Universität gilt akademische Forschungs-, Lehr- und Lernfreiheit. Sie is
 
 **15**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 24 - 125
 
 ### 2. Abschnitt: Organisation und Aufgaben der gesamtuniversitären Organe und Gremien
 
@@ -698,7 +698,7 @@ Der Universitätsrat erlässt ein Organisationsreglement<sup>3</sup>.
 
 **17**
 
-- 1\. 1. 24 - 123 § 54.<sup>27</sup> <sup>1</sup> Der Universitätsrat leitet das Verfahren zur Wahl der Rektorin oder des Rektors, der Prorektorinnen und Prorektoren sowie der Direktorin oder des Direktors Universitäre Medizin. Er setzt die Findungskommission ein.
+- 1\. 7. 24 - 125 § 54.<sup>27</sup> <sup>1</sup> Der Universitätsrat leitet das Verfahren zur Wahl der Rektorin oder des Rektors, der Prorektorinnen und Prorektoren sowie der Direktorin oder des Direktors Universitäre Medizin. Er setzt die Findungskommission ein.
 
 **Wahl der Rektorin oder des Rektors, der Prorektorinnen und Prorektoren sowie der Direktorin oder des Direktors Universitäre Medizin**
 
@@ -762,7 +762,7 @@ Der Universitätsrat erlässt ein Organisationsreglement<sup>3</sup>.
 
 **19**
 
-- 1\. 1. 24 - 123
+- 1\. 7. 24 - 125
 
 <sup>3</sup> Der Universitätsleitung obliegen in abschliessender Kompetenz insbesondere folgende Aufgaben:
 
@@ -826,19 +826,17 @@ Der Universitätsrat erlässt ein Organisationsreglement<sup>3</sup>.
 
 - 4\. Genehmigung der Studienordnungen und der Habilitationsordnungen sowie der Verordnungen über die Titularprofessur<sup>11</sup> und über die Weiterbildungsstudiengänge der Fakultäten, 5.<sup>23</sup> Erteilung und Entzug der Venia Legendi sowie Verleihung, Verlängerung und Entzug der Titularprofessur und weiterer vom Universitätsrat bezeichneter akademischer Titel,
 
-- 6\. Bewilligung zur Weiterführung sowie Entzug des Professorentitels bei vorzeitigem Rücktritt, 7.<sup>22</sup> Delegation von Aufgaben an Kommissionen.
+- 6\. Bewilligung zur Weiterführung sowie Entzug des Professorentitels bei vorzeitigem Rücktritt.
 
-#### § 60
+7.<sup>41</sup>
 
 **Organisation**
 
-Die Erweiterte Universitätsleitung erlässt ein Organisationsreglement.
+§ 60. Die Erweiterte Universitätsleitung erlässt ein Organisationsreglement.
 
 **21**
 
-**Rekurskommission**
-
-- 1\. 1. 24 - 123 § 61. <sup>1</sup> Die Erweiterte Universitätsleitung wird von der Rektorin oder vom Rektor nach Bedarf oder auf Verlangen von drei Mitgliedern einberufen.
+- 1\. 7. 24 - 125 § 61. <sup>1</sup> Die Erweiterte Universitätsleitung wird von der Rektorin oder vom Rektor nach Bedarf oder auf Verlangen von drei Mitgliedern einberufen.
 
 **Sitzungen**
 
@@ -860,7 +858,7 @@ Die Erweiterte Universitätsleitung erlässt ein Organisationsreglement.
 
 ### F. Kommissionen<sup>23</sup>
 
-**Zusammensetzung, Amtsdauer und Rechenschaftspflicht**
+**Ständige Kommissionen40 a. Allgemeines**
 
 § 62 a.<sup>27</sup> <sup>1</sup> Die Universitätsleitung und die Erweiterte Universitätsleitung verfügen je über ständige Kommissionen. Die Kommissionen sind gegenüber dem jeweiligen Gremium rechenschaftspflichtig. Das Generalsekretariat publiziert die ständigen Kommissionen der Universitätsleitung und der Erweiterten Universitätsleitung.
 
@@ -868,91 +866,61 @@ Die Erweiterte Universitätsleitung erlässt ein Organisationsreglement.
 
 <sup>3</sup> Vertreterinnen und Vertreter der Stände sind gegenüber ihrem Stand rechenschaftspflichtig. Vertreterinnen und Vertreter der Fakultäten sind gegenüber ihrer Dekanin oder ihrem Dekan berichterstattungspflichtig.
 
-<sup>4</sup> Die Kommissionsmitglieder werden, sofern keine abweichende Regelung besteht, für eine Amtsdauer von zwei Jahren gewählt. Wiederwahl ist zulässig.
+<sup>4</sup> . . .<sup>41</sup>
 
-§ 63.<sup>27</sup> Zusammensetzung, Organisation und Aufgaben der Rekurskommission richten sich nach der Verordnung über Organisation und Verfahren der Rekurskommission der Zürcher Hochschulen<sup>5</sup>. § 64.<sup>27</sup> <sup>1</sup> Die Evaluationsstelle unterstützt die Universitätsorgane bei der Sicherung der Qualität der Aufgabenerfüllung durch regelmässige Evaluationen von Forschung, Lehre und Dienstleistungen, der Nachwuchsförderung sowie der Leitungs- und Verwaltungstätigkeit. Die Evaluationsresultate sind bei der Entscheidungsfindung zu berücksichtigen.
+§ 63.<sup>41</sup>
 
-**Evaluationsstelle**
+**b. Einsetzung**
 
-<sup>2</sup> Die Leitung der Evaluationsstelle obliegt einer oder mehreren wissenschaftlich qualifizierten Personen.
+§ 65.<sup>40</sup> <sup>1</sup> Die Universitätsleitung und die Erweiterte Universitätsleitung setzen die ständigen Kommissionen ein. Sie können diesen Aufgaben delegieren.
 
-<sup>3</sup> Zusammensetzung und Aufgaben der Evaluationsstelle richten sich nach dem Evaluationsreglement der Universität Zürich<sup>6</sup>.
+<sup>2</sup> Sie erlassen für die einzelnen Kommissionen jeweils eine Geschäftsordnung.
 
-#### § 65
+<sup>3</sup> Die Erweiterte Universitätsleitung setzt eine Gleichstellungskommission ein. Diese unterstützt die Universitäts-, Fakultäts- und Institutsorgane in ihren Bestrebungen zur Verwirklichung der Gleichstellung.
 
-**Gleichstellungskommission**
-
-<sup>1</sup> Die Gleichstellungskommission unterstützt die Universitäts-, Fakultäts- und Institutsorgane in ihren Bestrebungen zur Verwirklichung der Gleichstellung der Geschlechter.
-
-<sup>2</sup> Sie arbeitet zu diesem Zweck mit den zuständigen Instanzen der Universität, der Fakultäten und Institute zusammen und erhält dazu die notwendigen Informationen.
-
-<sup>3</sup> Sie stellt zuhanden der Universitätsleitung Antrag auf Anstellung und Entlassung der Gleichstellungsbeauftragten oder des Gleichstellungsbeauftragten.
-
-<sup>4</sup> In der Gleichstellungskommission sind die Fakultäten und die Stände durch mindestens je ein Mitglied vertreten.<sup>27</sup>
-
-<sup>5</sup> . . .<sup>36</sup>
-
-**Kommission Studium und Behinderung**
-
-§ 65 a.<sup>35</sup> <sup>1</sup> Die Kommission Studium und Behinderung unterstützt die Tätigkeit der Fachstelle Studium und Behinderung zur Realisierung der Gleichstellung der Universitätsangehörigen mit Behinderung.
-
-<sup>2</sup> Sie arbeitet zu diesem Zweck mit den für ihren Auftrag relevanten Organisationen zusammen und erhält dazu die notwendigen Informationen.
-
-<sup>3</sup> Die Kommission Studium und Behinderung setzt sich zusammen aus zehn Vertreterinnen und Vertretern der Universität sowie höchstens drei externen Mitgliedern.
-
-<sup>4</sup> Die Universitätsleitung erlässt eine Geschäftsordnung.
-
-**Ethikkommission**
-
-§ 66.<sup>27</sup> <sup>1</sup> Die Ethikkommission unterstützt die Angehörigen der Universität bei der Wahrnehmung ethischer Verantwortung in Forschung, Lehre und Dienstleistung.
-
-<sup>2</sup> In der Ethikkommission sind die Fakultäten und die Stände durch mindestens je ein Mitglied vertreten.
-
-<sup>3</sup> . . .<sup>36</sup>
-
-**23**
-
-- 1\. 1. 24 - 123 § 67.<sup>35</sup> <sup>1</sup> Die Forschungsförderungskommission entscheidet im Rahmen ihrer Zuständigkeit über Zusprachen aus Förderprogrammen des UFO.
-
-**Forschungsförderungskommission**
-
-<sup>2</sup> Die zuständige Prorektorin oder der zuständige Prorektor bestimmt die Förderprogramme des UFO, die in die Zuständigkeit der Forschungsförderungskommission fallen.
-
-<sup>3</sup> Die Forschungsförderungskommission kann strategische Anliegen im Zusammenhang mit der Förderung des wissenschaftlichen Nachwuchses diskutieren. Die Universitätsleitung kann der Forschungsförderungskommission weitere Aufgaben im Bereich der Forschungsförderung zuweisen.
-
-<sup>4</sup> In der Forschungsförderungskommission sind die Fakultäten und die Stände durch je zwei Mitglieder vertreten. Ein Mitglied der Universitätsleitung hat den Vorsitz.
-
-**Kommission Lehre und Studium**
-
-§ 68.<sup>35</sup> <sup>1</sup> Die Kommission Lehre und Studium behandelt Fragen im Zusammenhang mit der Lehre, der Zulassung zum Studium und der Studierendenadministration. Sie nimmt Stellung zu universitären Vorhaben im Bereich Lehre und Studium.
-
-<sup>2</sup> Sie befasst sich mit Fragen der Innovationsförderung in der Lehre und der Hochschuldidaktik und unterstützt die Universitätsleitung in der entsprechenden Zuteilung der Mittel.
-
-<sup>3</sup> Sie besteht aus höchstens fünfzehn Mitgliedern. Die Fakultäten und die Stände sind durch mindestens je ein Mitglied vertreten. Das für Lehre und Studium zuständige Mitglied des Fakultätsvorstands ist von Amtes wegen vertreten. Ein Mitglied der Universitätsleitung hat den Vorsitz.
-
-**Bibliotheksboard**
-
-§ 69.<sup>35</sup> <sup>1</sup> Das Bibliotheksboard stellt die strategische und finanzielle Steuerung der bibliothekarischen Versorgung der Universität Zürich sicher, die durch die Universitätsbibliothek (UB) Zürich und die Zentralbibliothek Zürich gemeinsam gewährleistet wird.
-
-<sup>2</sup> Im Bibliotheksboard sind die Fakultäten und die Stände durch je ein stimmberechtigtes Mitglied vertreten. Das Mitglied der Universitätsleitung, zu dessen Geschäftsbereich die UB gehört, hat den Vorsitz.
+§§ 65 a–69.<sup>41</sup>
 
 **Personalkommission**
 
 § 70.<sup>27</sup> Wahl, Zusammensetzung und Aufgaben der Personalkommission werden in der Personalverordnung der Universität Zürich<sup>8</sup> geregelt.
 
-§ 71.<sup>24</sup>
+**Disziplinarkommission**
+
+§ 71.<sup>24,</sup> <sup>39</sup> Wahl, Zusammensetzung und Aufgaben der Disziplinarkommission werden in der Disziplinarverordnung<sup>13</sup> geregelt.
 
 ### G. Universitätsverwaltung<sup>27</sup>
 
 § 72.<sup>24</sup>
 
-**Aufgaben**
+**Allgemeines40**
 
 § 73. <sup>1</sup> Die Universitätsverwaltung erbringt im Auftrag der Universitätsleitung zentrale Dienstleistungen für die Gesamtuniversität sowie für die Fakultäten und Institute.
 
 <sup>2</sup> Sie stellt den Führungsinstanzen der Universität die Informationen, Instrumente und Dienstleistungen, die für die Führung und Entwicklung der Universität erforderlich sind, stufengerecht zur Verfügung.
 
 <sup>3</sup> Sie stellt das Instrumentarium für die Bewirtschaftung der Ressourcen zur Verfügung. Zu den wichtigsten Bereichen gehören das Rechnungswesen, das Personalwesen, die Informatik, die Entwicklungs- und Finanzplanung sowie die Planung, Erstellung und Bewirtschaftung der räumlichen Infrastruktur.<sup>27</sup>
+
+**Universitätsbibliothek**
+
+§ 73 a.<sup>39</sup> <sup>1</sup> Die Universitätsbibliothek gewährleistet gemeinsam mit der Zentralbibliothek Zürich die bibliothekarische Versorgung der Universität.
+
+<sup>2</sup> Sie kann sich Bibliotheksverbünden anschliessen und in diesem Rahmen Daten, die sich auf ihre Benutzerinnen und Benutzer beziehen, anderen Bibliotheken bekannt geben oder gemeinsam mit anderen Bibliotheken in einer zentralen Benutzerdatenbank des Bibliotheksverbunds bearbeiten.
+
+<sup>3</sup> Die Universitätsleitung regelt die Einzelheiten in einem Benutzungsreglement.
+
+**23**
+
+- 1\. 7. 24 - 125
+
+### H. Evaluationsstelle<sup>39</sup>
+
+**Evaluationsstelle**
+
+§ 73 b.<sup>27,</sup> <sup>42</sup> <sup>1</sup> Die Evaluationsstelle unterstützt die Universitätsorgane bei der Sicherung der Qualität der Aufgabenerfüllung durch regelmässige Evaluationen von Forschung, Lehre und Dienstleistungen, der Nachwuchsförderung sowie der Leitungs- und Verwaltungstätigkeit. Die Evaluationsresultate sind bei der Entscheidungsfindung zu berücksichtigen.
+
+<sup>2</sup> Die Leitung der Evaluationsstelle obliegt einer oder mehreren wissenschaftlich qualifizierten Personen.
+
+<sup>3</sup> Zusammensetzung und Aufgaben der Evaluationsstelle richten sich nach dem Evaluationsreglement der Universität Zürich<sup>6</sup>.
 
 ### 3. Abschnitt: Organisation und Aufgaben der Fakultäten und Institute
 
@@ -979,10 +947,6 @@ Die Erweiterte Universitätsleitung erlässt ein Organisationsreglement.
 - 2\. Mitwirkung bei Berufungsverhandlungen,
 
 - 3\. Verantwortung für das Budget der Fakultät,
-
-**25**
-
-- 1\. 1. 24 - 123
 
 - 4\. Zuteilung der fakultären Räume und der sonstigen fakultären Infrastruktur,
 
@@ -1020,11 +984,11 @@ Die Erweiterte Universitätsleitung erlässt ein Organisationsreglement.
 
 <sup>2</sup> Die Universitätsleitung regelt in Absprache mit der Dekanin oder dem Dekan die jeweiligen Rahmenbedingungen zur Aufrechterhaltung ihres bzw. seines Forschungs- und Lehrbetriebs an der Universität.
 
-#### § 79
+**25**
+
+- 1\. 7. 24 - 125 § 79. <sup>1</sup> Die Fakultäten erlassen ein Organisationsreglement, das der Genehmigung durch die Erweiterte Universitätsleitung unterliegt.
 
 **Organisationsreglement**
-
-<sup>1</sup> Die Fakultäten erlassen ein Organisationsreglement, das der Genehmigung durch die Erweiterte Universitätsleitung unterliegt.
 
 <sup>2</sup> Das Organisationsreglement<sup>3</sup> bestimmt, welche Aufgaben den Organen und weiteren Gremien der Fakultät obliegen.<sup>27</sup>
 
@@ -1055,10 +1019,6 @@ Die Erweiterte Universitätsleitung erlässt ein Organisationsreglement.
 - 2\. Genehmigung der Studienordnungen und Habilitationsordnung sowie der Verordnungen über die Titularprofessur und über Weiterbildungsstudiengänge,
 
 - 3\. Erteilung, Änderung und Entzug der Venia Legendi,
-
-**27**
-
-- 1\. 1. 24 - 123
 
 - 4\. Ernennung zur Titularprofessorin oder zum Titularprofessor und zur klinischen Dozentin oder zum klinischen Dozenten sowie Verlängerung und Entzug der Titularprofessur,
 
@@ -1098,6 +1058,10 @@ Die Erweiterte Universitätsleitung erlässt ein Organisationsreglement.
 
 <sup>3</sup> Die Direktorin oder der Direktor Universitäre Medizin steht dem Direktorium vor. Das Direktorium entscheidet im Konsens. Kann keine Einigkeit erzielt werden, entscheidet die Direktorin oder der Direktor Universitäre Medizin.
 
+**27**
+
+- 1\. 7. 24 - 125
+
 <sup>4</sup> Das Direktorium ist insbesondere zuständig für die 1. Umsetzung der Dachstrategie Universitäre Medizin,
 
 - 2\. Entwicklung und Umsetzung der fakultären Strategie,
@@ -1131,10 +1095,6 @@ Die Erweiterte Universitätsleitung erlässt ein Organisationsreglement.
 <sup>2</sup> Der Fakultätsvorstand ist insbesondere zuständig für die 1. Anträge zur Entwicklungs- und Finanzplanung,
 
 - 2\. Anträge betreffend Zusammensetzung der Berufungskommissionen,
-
-**29**
-
-- 1\. 1. 24 - 123
 
 - 3\. Anträge betreffend Schaffung, Umwandlung und Aufhebung von Lehrstühlen,
 
@@ -1174,9 +1134,11 @@ Die Erweiterte Universitätsleitung erlässt ein Organisationsreglement.
 
 <sup>1</sup> Der Institutsvorsteherin oder dem Institutsvorsteher obliegt die Institutsleitung. Sie oder er verfügt über ein entsprechendes Weisungsrecht.
 
-<sup>2</sup> Der Mitbestimmung der Stände ist in der Institutsversammlung angemessen Rechnung zu tragen. Die Institutsordnung regelt die Einzelheiten.<sup>27</sup> § 82. <sup>1</sup> Den Instituten obliegt die Vorbereitung und Antragstellung zuhanden der Fakultät insbesondere in folgenden Bereichen:
+<sup>2</sup> Der Mitbestimmung der Stände ist in der Institutsversammlung angemessen Rechnung zu tragen. Die Institutsordnung regelt die Einzelheiten.<sup>27</sup>
 
 **Aufgaben**
+
+§ 82. <sup>1</sup> Den Instituten obliegt die Vorbereitung und Antragstellung zuhanden der Fakultät insbesondere in folgenden Bereichen:
 
 - 1\. Institutsbudget,
 
@@ -1185,6 +1147,10 @@ Die Erweiterte Universitätsleitung erlässt ein Organisationsreglement.
 - 3\. Umbenennung des Instituts,
 
 - 4\. Schaffung, Umwandlung und Aufhebung von Lehrstühlen,
+
+**29**
+
+- 1\. 7. 24 - 125
 
 - 5\. Schaffung, Umwandlung und Aufhebung von Instituten,
 
@@ -1218,11 +1184,11 @@ Die Erweiterte Universitätsleitung erlässt ein Organisationsreglement.
 
 <sup>3</sup> Die Leitung muss die Durchführung der Versammlung oder Sitzung auf schriftlichem Weg oder in elektronischer Form spätestens beim Versand der Traktanden schriftlich mitteilen oder elektronisch veröffentlichen.
 
-**31**
+[^h4AbschnittDurchf-1]: Fassung gemäss URB vom 7. Juli 2003 (OS 58, 187). In Kraft seit 1. September 2003.
 
-- 1\. 1. 24 - 123
+### 6. Teil: Schluss- und Übergangsbestimmungen
 
-### 6. Teil: Schluss- und Übergangsbestimmungen<sup>18</sup>
+[^h4AbschnittDurchf-1]
 
 #### § 83
 
@@ -1232,25 +1198,15 @@ Die Erweiterte Universitätsleitung erlässt ein Organisationsreglement.
 
 <sup>2</sup> Auf den Zeitpunkt des Inkrafttretens wird die Universitätsordnung vom 11. März 1920 aufgehoben.
 
-§ 84.<sup>24</sup>
+§ 84.<sup>24</sup> § 84 a.<sup>27</sup> <sup>1</sup> Privatdozierende, denen die Venia Legendi vor Inkrafttreten von § 12 a erteilt worden ist, haben bis höchstens drei Jahre nach Inkrafttreten dieser Bestimmung das Recht auf den Erhalt der PD-Entschädigung, sofern sie in diesem Zeitraum für die Universität Lehrleistungen erbringen und sofern die Entschädigung nicht im Rahmen einer anderen Anstellung an der Universität geregelt ist. Es besteht während dieser Zeit kein Anspruch auf Durchführung von Lehrveranstaltungen im Rahmen von Studienprogrammen.
 
 **Bisherige Privatdozentinnen und -dozenten sowie bisherige Titularprofessorinnen und -professoren**
-
-§ 84 a.<sup>27</sup> <sup>1</sup> Privatdozierende, denen die Venia Legendi vor Inkrafttreten von § 12 a erteilt worden ist, haben bis höchstens drei Jahre nach Inkrafttreten dieser Bestimmung das Recht auf den Erhalt der PD-Entschädigung, sofern sie in diesem Zeitraum für die Universität Lehrleistungen erbringen und sofern die Entschädigung nicht im Rahmen einer anderen Anstellung an der Universität geregelt ist. Es besteht während dieser Zeit kein Anspruch auf Durchführung von Lehrveranstaltungen im Rahmen von Studienprogrammen.
 
 <sup>2</sup> § 11 Abs. 3 gilt auch für Privatdozierende, denen die Venia Legendi vor Inkrafttreten dieser Bestimmung erteilt worden ist.
 
 <sup>3</sup> Titularprofessorinnen und -professoren, die vor dem 1. August 2017 ernannt worden sind, haben das Recht, den Titel bis 31. Juli 2023 weiterzuführen. Vorbehalten bleibt der Entzug des Titels aus wichtigen Gründen. Lehrleistungen und Entschädigung richten sich nach Abs. 1.
 
 § 85.<sup>32</sup>
-
-<sup>18</sup> Fassung gemäss URB vom 7. Juli 2003 (OS 58, 187). In Kraft seit 1. September 2003.
-
-<sup>19</sup> Eingefügt durch URB vom 27. Juni 2005 (OS 60, 448). In Kraft seit 1. Januar 2006.
-
-<sup>20</sup> Fassung gemäss URB vom 27. Juni 2005 (OS 60, 448). In Kraft seit 1. Januar 2006.
-
-<sup>21</sup> Fassung gemäss URB vom 29. Juni 2015 (OS 70, 307; ABl 2015-07-24). In Kraft seit 1. Oktober 2015.
 
 <sup>22</sup> Eingefügt durch URB vom 30. Januar 2017 (OS 72, 339; ABl 2017-03-03). In Kraft seit 1. August 2017.
 
@@ -1286,13 +1242,17 @@ Die Erweiterte Universitätsleitung erlässt ein Organisationsreglement.
 
 <sup>38</sup> Fassung gemäss URB vom 8. Mai 2023 (OS 78, 264; ABl 2023-05-19). In Kraft seit 1. Januar 2024.
 
-**33**
+<sup>39</sup> Eingefügt durch URB vom 25. März 2024 (OS 79, 201; ABl 2023-04-05). In Kraft seit 1. August 2024.
 
-- 1\. 1. 24 - 123
+<sup>40</sup> Fassung gemäss URB vom 25. März 2024 (OS 79, 201; ABl 2023-04-05). In Kraft seit 1. August 2024.
+
+<sup>41</sup> Aufgehoben durch URB vom 25. März 2024 (OS 79, 201; ABl 2023-04-05). In Kraft seit 1. August 2024.
+
+<sup>42</sup> Nummerierung gemäss URB vom 25. März 2024 (OS 79, 201; ABl 2023-04-05). In Kraft seit 1. August 2024.
 
 ## Weitere Fussnoten
 
-- [*] vetsuisse.ch/dokumente 1. 1. 24 - 123 13
+- [*] vetsuisse.ch/dokumente 1. 7. 24 - 125 13
 - [1] OS 55, 12.
 - [2] Vom Universitätsrat erlassen.
 - [3] LS 415.111.1.
@@ -1310,3 +1270,6 @@ Die Erweiterte Universitätsleitung erlässt ein Organisationsreglement.
 - [15] LS 415.431.
 - [16] SR 220.
 - [17] SR 818.101.24.
+- [19] Eingefügt durch URB vom 27. Juni 2005 (OS 60, 448). In Kraft seit 1. Januar 2006.
+- [20] Fassung gemäss URB vom 27. Juni 2005 (OS 60, 448). In Kraft seit 1. Januar 2006.
+- [21] Fassung gemäss URB vom 29. Juni 2015 (OS 70, 307; ABl 2015-07-24). In Kraft seit 1. Oktober 2015. 1. 7. 24 - 125 31
