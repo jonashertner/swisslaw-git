@@ -4,13 +4,12 @@ number: "815.120"
 title: Verordnung über die Betreuungsbeiträge in Kindertagesstätten und Tagesfamilien und die Leistungen an Eltern
 short: "Tagesbetreuungsbeitragsverordnung, TBV"
 language: de
-version: 2022-11-03
-valid_until: 2024-07-31
-version_adopted: 2022-10-25
+version: 2024-08-01
+version_adopted: 2024-01-16
 adopted: 2021-08-24
 in_force: 2022-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/815.120"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5668/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6117/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Kinderbetreuung
 
 (Tagesbetreuungsbeitragsverordnung, TBV)
 
-Vom 24. August 2021 (Stand 3. November 2022)
+Vom 24. August 2021 (Stand 1. August 2024)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -115,9 +114,27 @@ beschliesst:
 
 **Modellkosten und maximaler Betreuungsbeitrag**
 
-<sup>1</sup> Die Modellkosten für Kindertagesstätten mit Betreuungsbeiträgen betragen Fr. 2'499 pro Vollzeitplatz und Monat.
+<sup>1</sup> Die Modellkosten für Kindertagesstätten mit Betreuungsbeiträgen betragen Fr. 2'934 pro Vollzeitplatz und Monat.
 
-<sup>2</sup> Der maximale Betreuungsbeitrag beträgt Fr. 2'199 pro Vollzeitplatz und Monat. Übersteigt der Betreuungsbeitrag den Preis des Betreuungsplatzes, wird er im entsprechenden Umfang gekürzt.
+<sup>2</sup> Der maximale Betreuungsbeitrag pro Vollzeitplatz und Monat berechnet sich aufgrund folgender Formel:
+
+- a) bei einem Kind in Tagesbetreuung: Modellkosten – 150;
+- b) bei zwei Kindern in Tagesbetreuung: Modellkosten – 150 \* 0.8;
+- c) bei drei und mehr Kindern in Tagesbetreuung:
+  - 1\. bei den zwei ältesten Kindern: entsprechend lit. b,
+  - 2\. bei allen jüngeren Kindern: Modellkosten.
+
+#### § 8a
+
+**Mindestbeitrag**
+
+<sup>1</sup> Der Mindestbeitrag pro Vollzeitplatz und Monat berechnet sich aufgrund folgender Formel:
+
+- a) bei einem Kind in Tagesbetreuung: Modellkosten – 1'500;
+- b) bei zwei Kindern in Tagesbetreuung: Modellkosten – 1'500 \* 0.8;
+- c) bei drei und mehr Kindern in Tagesbetreuung:
+  - 1\. bei den zwei ältesten Kindern: entsprechend lit. b,
+  - 2\. bei allen jüngeren Kindern: Modellkosten.
 
 #### § 9
 
@@ -127,17 +144,23 @@ beschliesst:
 
 <sup>2</sup> Bis zu einem nach Abs. 1 berechneten Einkommen von Fr. 60'000 pro Jahr berechnen sich die Betreuungsbeiträge für die Vollzeitbetreuung pro Kind und Jahr aufgrund folgender Formel:
 
-- a) bei einem Kind in Tagesbetreuung: Modellkosten – 0.08 \* Einkommen gemäss Abs. 1;
-- b) bei zwei Kindern in Tagesbetreuung: Modellkosten – 0.08 \* Einkommen gemäss Abs. 1 \* 0.8;
-- c) bei drei und mehr Kindern in Tagesbetreuung: Modellkosten – 0.08 \* Einkommen gemäss Abs. 1 \* 0.7.
+- a) bei einem Kind in Tagesbetreuung: Modellkosten – 0.04 \* Einkommen gemäss Abs. 1;
+- b) bei zwei Kindern in Tagesbetreuung: Modellkosten – 0.04 \* Einkommen gemäss Abs. 1 \* 0.8;
+- c) bei drei und mehr Kindern in Tagesbetreuung:
+  - 1\. bei den zwei ältesten Kindern: entsprechend lit. b,
+  - 2\. bei allen jüngeren Kindern: Modellkosten.
 
 <sup>3</sup> Bei einem nach Abs. 1 berechneten Einkommen über Fr. 60'000 pro Jahr berechnen sich die Betreuungsbeiträge für die Vollzeitbetreuung pro Kind und Jahr aufgrund folgender Formel:
 
-- a) bei einem Kind in Tagesbetreuung: Modellkosten + 100 – (Einkommen gemäss Abs. 1 : 1'000 + 10)²;
-- b) bei zwei Kindern in Tagesbetreuung: Modellkosten + 80 – (Einkommen gemäss Abs. 1 : 1'000 + 10)² \* 0.8;
-- c) bei drei und mehr Kindern in Tagesbetreuung: Modellkosten + 70 – (Einkommen gemäss Abs. 1 : 1'000 + 10)² \* 0.7.
+- a) bei einem Kind in Tagesbetreuung: Modellkosten + 100 – (Einkommen gemäss Abs. 1 : 1'000 – 10)²;
+- b) bei zwei Kindern in Tagesbetreuung: Modellkosten + 80 – (Einkommen gemäss Abs. 1 : 1'000 – 10)² \* 0.8;
+- c) bei drei und mehr Kindern in Tagesbetreuung:
+  - 1\. bei den zwei ältesten Kindern: entsprechend lit. b,
+  - 2\. bei allen jüngeren Kindern: Modellkosten.
 
 <sup>4</sup> Bei Teilzeitbetreuung reduzieren sich die Betreuungsbeiträge prozentual entsprechend dem Belegungsumfang.
+
+<sup>5</sup> Übersteigt der Betreuungsbeitrag den Preis des Betreuungsplatzes, wird er im entsprechenden Umfang gekürzt.
 
 ### 3.2 Tagesfamilien mit Betreuungsbeiträgen
 
@@ -153,7 +176,7 @@ beschliesst:
 
 <sup>1</sup> Der Beitrag der Eltern pro Betreuungsstunde entspricht der Differenz aus den Modellkosten für Kindertagesstätten mit Betreuungsbeiträgen nach § 8 und den berechneten Betreuungsbeiträgen nach § 9 dividiert durch 2'147.
 
-<sup>2</sup> Der Beitrag der Eltern beträgt maximal Fr. 11 pro Betreuungsstunde.
+<sup>2</sup> Bei der Festlegung des Beitrags der Eltern nach Abs. 1 sind der maximale Betreuungsbeitrag nach § 8 Abs. 2 und der Mindestbeitrag nach § 8a sinngemäss anwendbar.
 
 ### 3.3 Härtefälle und Betreuung ausserhalb des Kantons
 
@@ -181,8 +204,8 @@ beschliesst:
 
 <sup>1</sup> Ein Zuschlag wird einer Kindertagesstätte mit Betreuungsbeiträgen gewährt für:
 
-- a) die Betreuung eines Kindes unter 18 Monaten in der Höhe von Fr. 800 pro Vollzeitplatz und Monat;
-- b) die Betreuung eines Kindes mit besonderem Betreuungsbedarf in der Höhe von Fr. 800 pro Vollzeitplatz und Monat;
+- a) die Betreuung eines Kindes unter 18 Monaten in der Höhe von Fr. 950 pro Vollzeitplatz und Monat;
+- b) die Betreuung eines Kindes mit besonderem Betreuungsbedarf in der Höhe von Fr. 950 pro Vollzeitplatz und Monat;
 - c) die Betreuung eines Kindes mit obligatorischer Deutschförderung während des Jahres vor dem Eintritt in den Kindergarten in der Höhe von Fr. 150 pro Monat.
 
 <sup>2</sup> Ein Zuschlag wird einer Kindertagesstätte mit Betreuungsbeiträgen gewährt für spezielle Betreuungszeiten.
