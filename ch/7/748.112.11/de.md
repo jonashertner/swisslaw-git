@@ -4,11 +4,11 @@ title: Verordnung vom 28. September 2007 über die Gebühren des Bundesamtes fü
 short: GebV-BAZL
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/720"
 language: de
-version: 2021-03-01
+version: 2024-08-01
 adopted: 2007-09-28
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/720/20210301/de/xml/fedlex-data-admin-ch-eli-cc-2007-720-20210301-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/720/20210301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/720/20240801/de/xml/fedlex-data-admin-ch-eli-cc-2007-720-20240801-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/720/20240801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/720/20210301/de"
 
 (GebV-BAZL)
 
-vom 28. September 2007 (Stand am 1. März 2021)
+vom 28. September 2007 (Stand am 1. August 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -116,7 +116,7 @@ Ist der Landesindex der Konsumentenpreise seit Inkrafttreten oder seit der letzt
 
 Als Auslagen gelten über die Kosten nach Artikel 6 AllgGebV[^9-1] hinaus:
 
-- a.[^9-2] ...
+- a.[^9-2] …
 - b. Kosten, die durch Beweiserhebung, besondere Prüfungen, wissenschaftliche Untersuchungen oder die Beschaffung von Unterlagen oder Material verursacht werden;
 - c. Kosten, die durch Evaluationen und Stellungnahmen von Gemeinde-, Kantons- oder Bundesinstanzen beim Vollzug des Luftfahrtrechts entstehen;
 - d. ausserordentliche Kosten für die Ausbildung von Inspektorinnen und Inspektoren des BAZL, namentlich für die Aufnahme besonderer Flugzeugmuster ins Luftfahrzeugregister;
@@ -780,7 +780,7 @@ Für die Registrierung und den Kompetenznachweis von Betreiber von unbemannten L
 [^38-5]: [SR 748.132.3](https://fedlex.data.admin.ch/eli/cc/2014/286)
 [^38-6]: Fassung gemäss Ziff. I der V vom 3. Febr. 2021, in Kraft seit 1. März 2021 ([AS 2021 83](https://fedlex.data.admin.ch/eli/oc/2021/83)).
 
-## 6. Abschnitt:**** Zulassung und Aufsicht im operationellen Flugbetrieb
+## 6. Abschnitt: Zulassung und Aufsicht im operationellen Flugbetrieb
 
 [^sec6-1]
 
@@ -861,7 +861,27 @@ Für die Bearbeitung eines Gesuchs um Erteilung, Erneuerung oder Änderung einer
 
 <sup>3</sup> Für Sondergenehmigungen, Zusatz- und Ausnahmebewilligungen sowie alle anderen Genehmigungen, Prüfungen oder Bewilligungen sowie deren Änderung, Einschränkung oder Entzug wird eine Gebühr ohne Gebührenrahmen nach Zeitaufwand erhoben.
 
-## 7. Abschnitt: ...
+## 6*a*. Abschnitt: Zertifizierung, Überwachung und Registrierung von Dienstanbietern im Bereich U-Space
+
+[^sec6a-1]
+
+[^sec6a-1]: Eingefügt durch Ziff. III der V vom 14. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 297](https://fedlex.data.admin.ch/eli/oc/2024/297)).
+
+#### Art. 44a
+
+<sup>1</sup> Für die Zertifizierung eines Anbieters von U-Space-Diensten und von Anbietern gemeinsamer Informationsdienste werden die Gebühren nach Zeitaufwand innerhalb der folgenden Gebührenrahmen bemessen:
+
+<table>
+<tr><th></th><th>Minimalgebühr Fr.</th><th>Maximalgebühr Fr.</th></tr>
+<tr><td>a. für die Erteilung</td><td>10 000.–</td><td>170 000.–</td></tr>
+<tr><td>b. für die Änderung, Einschränkung, Suspendierung oder den Entzug</td><td>100.–</td><td>50 000.–</td></tr>
+<tr><td>c. für die laufende Aufsicht (pro Dienstleistung)</td><td>500.–</td><td>50 000.–</td></tr>
+<tr><td>d. für ausserordentliche Inspektionen</td><td>500.–</td><td>50 000.–</td></tr>
+</table>
+
+<sup>2</sup> Für die Registrierung von Anbietern von U-Space-Diensten und von einzigen Anbietern gemeinsamer Informationsdienste wird eine Gebühr von 50 Franken erhoben.
+
+## 7. Abschnitt: …
 
 #### Art. 45
 
@@ -983,7 +1003,7 @@ Für alle anderen Verfügungen und Dienstleistungen im Zusammenhang mit der Aufs
 
 Die Verordnung vom 25. September 1989[^52-1] über die Gebühren des Bundesamtes für Zivilluftfahrt wird aufgehoben.
 
-[^52-1]: [[AS 1989 2216](https://fedlex.data.admin.ch/eli/oc/1989/2216_2216_2216), [1993 2749](https://fedlex.data.admin.ch/eli/oc/1993/2749_2749_2749), [1995 5219](https://fedlex.data.admin.ch/eli/oc/1995/5219_5219_5219), [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)Ziff. II 53, [2003 1195](https://fedlex.data.admin.ch/eli/oc/2003/206), [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 5]
+[^52-1]: [[AS 1989 2216](https://fedlex.data.admin.ch/eli/oc/1989/2216_2216_2216); [1993 2749](https://fedlex.data.admin.ch/eli/oc/1993/2749_2749_2749); [1995 5219](https://fedlex.data.admin.ch/eli/oc/1995/5219_5219_5219); [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)Ziff. II 53; [2003 1195](https://fedlex.data.admin.ch/eli/oc/2003/206); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 5]
 
 #### Art. 53
 

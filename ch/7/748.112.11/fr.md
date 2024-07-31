@@ -4,11 +4,11 @@ title: "Ordonnance du 28 septembre 2007 sur les émoluments de l'Office fédéra
 short: OEmol-OFAC
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/720"
 language: fr
-version: 2021-03-01
+version: 2024-08-01
 adopted: 2007-09-28
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/720/20210301/fr/xml/fedlex-data-admin-ch-eli-cc-2007-720-20210301-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/720/20210301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/720/20240801/fr/xml/fedlex-data-admin-ch-eli-cc-2007-720-20240801-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/720/20240801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/720/20210301/fr"
 
 (OEmol-OFAC)
 
-du 28 septembre 2007 (Etat le 1<sup>er</sup> mars 2021)
+du 28 septembre 2007 (État le 1<sup>er</sup> août 2024)
 
 Le Conseil fédéral suisse,
 
@@ -779,7 +779,7 @@ Les émoluments suivants sont perçus pour l’enregistrement et le certificat d
 [^38-5]: [RS 748.132.3](https://fedlex.data.admin.ch/eli/cc/2014/286)
 [^38-6]: Nouvelle teneur selon le ch. I de l’O du 3 fév. 2021, en vigueur depuis le 1<sup>er</sup> mars 2021 ([RO 2021 83](https://fedlex.data.admin.ch/eli/oc/2021/83)).
 
-## Section 6**** Certification et surveillance d’opérations de transport aérien
+## Section 6 Certification et surveillance d’opérations de transport aérien
 
 [^sec6-1]
 
@@ -842,7 +842,7 @@ Les émoluments relatifs au traitement d’une demande d’octroi, de renouvelle
 
 <sup>2</sup> Un émolument calculé en fonction du temps consacré et compris dans un cadre tarifaire allant de 100 à 20 000 francs est perçu pour la surveillance courante et pour les inspections extraordinaires.
 
-### <sup>3</sup> Un émolument calculé en fonction du temps consacré est perçu sans cadre tarifaire pour les autorisations spéciales, supplémentaires et exceptionnelles, pour les autres approbations, examens ou autorisations ainsi que pour leur modification, limitation ou retrait.
+<sup>3</sup> Un émolument calculé en fonction du temps consacré est perçu sans cadre tarifaire pour les autorisations spéciales, supplémentaires et exceptionnelles, pour les autres approbations, examens ou autorisations ainsi que pour leur modification, limitation ou retrait.
 
 #### Art. 44
 
@@ -859,6 +859,26 @@ Les émoluments relatifs au traitement d’une demande d’octroi, de renouvelle
 <sup>2</sup> Un émolument calculé en fonction du temps consacré et compris dans un cadre tarifaire allant de 100 à 20 000 francs est perçu pour la surveillance courante et pour les inspections extraordinaires.
 
 <sup>3</sup> Un émolument calculé en fonction du temps consacré est perçu sans cadre tarifaire pour les autorisations spéciales, supplémentaires et exceptionnelles, pour les autres approbations, examens ou autorisations ainsi que pour leur modification, limitation ou retrait.
+
+## Section 6*a* Certification, surveillance et enregistrement des prestataires de services concernant l’U-space
+
+[^sec6a-1]
+
+[^sec6a-1]: Introduite par le ch. III de l’O du 14 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 297](https://fedlex.data.admin.ch/eli/oc/2024/297)).
+
+#### Art. 44a
+
+<sup>1</sup> Les émoluments relatifs à la certification d’un prestataire de services U-space et des prestataires de services d’informations communes, calculés en fonction du temps consacré, sont compris dans le cadre tarifaire suivant:
+
+<table>
+<tr><th></th><th>Emolument minimal Fr.</th><th>Emolument maximal Fr.</th></tr>
+<tr><td>a. pour l’octroi</td><td>10 000.–</td><td>170 000.–</td></tr>
+<tr><td>b. pour la modification, la limitation, la suspension ou le retrait</td><td>100.–</td><td>50 000.–</td></tr>
+<tr><td>c. pour la surveillance courante (par prestation)</td><td>500.–</td><td>50 000.–</td></tr>
+<tr><td>d. pour les inspections extraordinaires</td><td>500.–</td><td>50 000.–</td></tr>
+</table>
+
+<sup>2</sup> Un émolument de 50 francs est perçu pour l’enregistrement des prestataires de services U-space et des prestataires uniques de services d’informations communes.
 
 ## Section 7 ...
 

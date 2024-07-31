@@ -4,11 +4,11 @@ title: "Ordinanza del 28 settembre 2007 sugli emolumenti dell'Ufficio federale d
 short: OEm-UFAC
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/720"
 language: it
-version: 2021-03-01
+version: 2024-08-01
 adopted: 2007-09-28
 in_force: 2008-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/720/20210301/it/xml/fedlex-data-admin-ch-eli-cc-2007-720-20210301-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/720/20210301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/720/20240801/it/xml/fedlex-data-admin-ch-eli-cc-2007-720-20240801-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/720/20240801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/720/20210301/it"
 
 (OEm-UFAC)
 
-del 28 settembre 2007 (Stato 1° marzo 2021) (Stato 1° marzo 2021)
+del 28 settembre 2007 (Stato 1° agosto 2024)
 
 Il Consiglio federale svizzero,
 
@@ -778,7 +778,7 @@ Per la registrazione e il certificato di attitudine degli operatori di aeromobil
 [^38-5]: [RS 748.132.3](https://fedlex.data.admin.ch/eli/cc/2014/286)
 [^38-6]: Nuovo testo giusta il n. I dell’O del 3 feb. 2021, in vigore dal 1° mar. 2021 ([RU 2021 83](https://fedlex.data.admin.ch/eli/oc/2021/83)).
 
-## Sezione 6:**** Certificazione e sorveglianza di operazioni di trasporto aereo
+## Sezione 6: Certificazione e sorveglianza di operazioni di trasporto aereo
 
 [^sec6-1]
 
@@ -858,6 +858,26 @@ Per il trattamento di una domanda per il rilascio, il rinnovo o la modifica di u
 <sup>2</sup> Per la vigilanza corrente e le ispezioni straordinarie è riscosso un emolumento secondo il tempo impiegato nei limiti di un quadro tariffario da 100 a 20 000 franchi.
 
 - [tab] <sup>3</sup> Per approvazioni speciali, autorizzazioni supplementari ed eccezionali, nonché per ogni altra approvazione, esame o autorizzazione e qualsiasi loro modifica, limitazione o ritiro, è riscosso un emolumento secondo il tempo impiegato, senza quadro tariffario.
+
+## Sezione 6*a*: Certificazione, sorveglianza e registrazione dei fornitori di servizi concernenti lo U-space
+
+[^sec6a-1]
+
+[^sec6a-1]: Introdotto dal n. III dell’O del 14 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 297](https://fedlex.data.admin.ch/eli/oc/2024/297)).
+
+#### Art. 44a
+
+<sup>1</sup> Per la certificazione di un fornitore di servizi U-space e dei fornitori di servizi comuni di informazione, gli emolumenti sono calcolati secondo il tempo impiegato nei limiti del quadro tariffario seguente:
+
+<table>
+<tr><th></th><th>Emolumento minimo Fr.</th><th>Emolumento massimo Fr.</th></tr>
+<tr><td>a. per il rilascio</td><td>10 000. –</td><td>170 000. –</td></tr>
+<tr><td>b. per la modifica, la limitazione, la sospensione o la revoca</td><td>100.–</td><td>50 000. –</td></tr>
+<tr><td>c. per la vigilanza corrente (per prestazione)</td><td>500.–</td><td>50 000. –</td></tr>
+<tr><td>d. per le ispezioni straordinarie</td><td>500.–</td><td>50 000. –</td></tr>
+</table>
+
+<sup>2</sup> Per la registrazione dei fornitori di servizi U-space e dei fornitori unici di servizi comuni di informazione è riscosso un emolumento di 50 franchi.
 
 ## Sezione 7: ...
 
