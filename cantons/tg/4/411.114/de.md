@@ -4,13 +4,13 @@ number: "411.114"
 title: Verordnung über die Rechtsstellung der Lehrpersonen an den Volksschulen
 short: RSV VS
 language: de
-version: 2024-01-01
-valid_until: 2024-07-31
-version_adopted: 2023-05-30
+version: 2024-08-01
+valid_until: 2024-12-31
+version_adopted: 2024-05-07
 adopted: 2005-01-25
 in_force: 2005-08-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/411.114"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2704/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2786/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ RSV VS
 
 (RSV VS)
 
-vom 25.01.2005 (Stand 01.01.2024)
+vom 25.01.2005 (Stand 01.08.2024)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -571,7 +571,7 @@ vom 25.01.2005 (Stand 01.01.2024)
 
 <sup>4</sup> Personen nach Abs. 2 und Abs. 2<sup>bis</sup> mit befristeten Anstellungen erhalten die volle Anrechnung pro 400 erteilte Lektionen, Personen nach Abs. 3 die hälftige Anrechnung pro 600 Arbeitsstunden.
 
-<sup>5</sup> Verschiedene Berufserfahrungen nach Abs. 2 bis Abs. 4 können nicht kumuliert werden, es gilt jeweils die höhere Anrechnung. Tätigkeiten während einer Erstausbildung werden nicht angerechnet.
+<sup>5</sup> Verschiedene Berufserfahrungen nach Abs. 2 bis Abs. 4 können nicht kumuliert werden, es gilt jeweils die höhere Anrechnung. Tätigkeiten während einer Erstausbildung werden nicht angerechnet. Besondere Fälle regelt das Departement durch Richtlinie.
 
 #### § 43a
 
