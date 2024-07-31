@@ -4,13 +4,12 @@ number: "432.211.10"
 title: Volksschuldirektionsverordnung
 short: VSDV
 language: de
-version: 2022-08-01
-valid_until: 2024-07-31
-version_adopted: 2022-06-22
+version: 2024-08-01
+version_adopted: 2024-04-23
 adopted: 2022-06-22
 in_force: 2022-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/432.211.10"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2616/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3033/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2616/pdf_file"
 
 (VSDV)
 
-vom 22.06.2022 (Stand 01.08.2022)
+vom 22.06.2022 (Stand 01.08.2024)
 
 Die Bildungs- und Kulturdirektion des Kantons Bern,
 
@@ -166,7 +165,7 @@ beschliesst:
 
 **Kostenbeitrag Psychomotorik und Logopädie, Höhe**
 
-<sup>1</sup> Der Kostenbeitrag für hochspezialisierte Psychomotorik und hochspezialisierte Logopädie beträgt pro Lektion pauschal 87 Franken.
+<sup>1</sup> Der Kostenbeitrag für hochspezialisierte Psychomotorik und hochspezialisierte Logopädie beträgt pro Lektion pauschal 89 Franken.
 
 <sup>2</sup> Werden die hochspezialisierte Psychomotorik und die hochspezialisierte Logopädie ausserhalb der Privatschule durchgeführt, kann das Amt für Kindergarten, Volksschule und Beratung für den übrigen Aufwand eine Pauschale von 16 Franken pro Lektion ausrichten.
 
@@ -174,7 +173,7 @@ beschliesst:
 
 **Kostenbeitrag heilpädagogische Unterstützung, Höhe**
 
-<sup>1</sup> Der Kostenbeitrag für heilpädagogische Unterstützung beträgt pro Lektion pauschal 87 Franken.
+<sup>1</sup> Der Kostenbeitrag für heilpädagogische Unterstützung beträgt pro Lektion pauschal 89 Franken.
 
 #### Art. 14
 

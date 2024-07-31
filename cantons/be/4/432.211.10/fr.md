@@ -4,13 +4,12 @@ number: "432.211.10"
 title: "Ordonnance de Direction sur l'école obligatoire"
 short: ODEO
 language: fr
-version: 2022-08-01
-valid_until: 2024-07-31
-version_adopted: 2022-06-22
+version: 2024-08-01
+version_adopted: 2024-04-23
 adopted: 2022-06-22
 in_force: 2022-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/432.211.10"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2616/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3033/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2616/pdf_file"
 
 (ODEO)
 
-du 22.06.2022 (état au 01.08.2022)
+du 22.06.2022 (état au 01.08.2024)
 
 La Direction de l'instruction publique et de la culture du canton de Berne,
 
@@ -166,7 +165,7 @@ arrête:
 
 **Subvention pour les interventions en psychomotricité et en logopédie, montant**
 
-<sup>1</sup> La subvention pour une intervention hautement spécialisée en psychomotricité ou en logopédie s'élève à un montant forfaitaire de 87 francs par leçon.
+<sup>1</sup> La subvention pour une intervention hautement spécialisée en psychomotricité ou en logopédie s'élève à un montant forfaitaire de 89 francs par leçon.
 
 <sup>2</sup> Si l'intervention hautement spécialisée en psychomotricité ou en logopédie a lieu en dehors de l'école privée, l'Office de l'école obligatoire et du conseil peut verser un montant forfaitaire de 16 francs par leçon au titre des autres charges.
 
@@ -174,7 +173,7 @@ arrête:
 
 **Subvention pour le soutien pédagogique spécialisé, montant**
 
-<sup>1</sup> La subvention pour le soutien pédagogique spécialisé s'élève à un montant forfaitaire de 87 francs par leçon.
+<sup>1</sup> La subvention pour le soutien pédagogique spécialisé s'élève à un montant forfaitaire de 89 francs par leçon.
 
 #### Art. 14
 
