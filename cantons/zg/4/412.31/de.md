@@ -4,13 +4,12 @@ number: "412.31"
 title: Gesetz über das Dienstverhältnis und die Besoldung der Lehrpersonen an den gemeindlichen Schulen
 short: Lehrpersonalgesetz
 language: de
-version: 2024-01-01
-valid_until: 2024-07-31
-version_adopted: 2022-10-27
+version: 2024-08-01
+version_adopted: 2024-01-25
 adopted: 1976-10-21
 in_force: 1977-01-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/412.31"
-pdf: "https://bgs.zg.ch/api/de/versions/2488/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2547/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,11 +18,11 @@ pdf: "https://bgs.zg.ch/api/de/versions/2488/pdf_file"
 
 (Lehrpersonalgesetz)
 
-Vom 21. Oktober 1976 (Stand 1. Januar 2024)
+Vom 21. Oktober 1976 (Stand 1. August 2024)
 
 Der Kantonsrat des Kantons Zug,
 
-gestützt auf § 41 Abs. 1 Bst. b der Kantonsverfassung[^ingress-1],
+gestützt auf § 41 Abs. 1 Bst. b der Verfassung des Kantons Zug (Kantonsverfassung, KV) vom 31. Januar 1894[^ingress-1],
 
 beschliesst:
 
@@ -64,11 +63,11 @@ beschliesst:
 
 #### § 4
 
-<sup>1</sup> Die Gesamtarbeitszeit umfasst die Unterrichtszeit gemäss § 6<sup>ter</sup> dieses Gesetzes sowie die vom Arbeitgeber festgelegte und die von der Lehrperson frei gestaltbare Arbeitszeit.
+<sup>1</sup> Die Gesamtarbeitszeit umfasst die Unterrichtszeit gemäss § 6<sup>ter</sup> dieses Gesetzes, die vom Arbeitgeber festgelegte und die von der Lehrperson frei gestaltbare Arbeitszeit. Inhaltlich richtet sie sich nach dem im Schulgesetz geregelten Auftrag der Lehrperson.
 
 <sup>2</sup> Die vom Arbeitgeber festgelegte Arbeitszeit beträgt maximal 150 Stunden pro Jahr; bei Teilpensen reduziert sie sich anteilsmässig.
 
-<sup>3</sup> Die Lehrpersonen sind verpflichtet, sich während der Sportwoche für Schullager oder Sporttage zur Verfügung zu stellen. Lehrpersonen, die im Verlaufe des Schuljahres das 50. Altersjahr erfüllt haben, sind dazu nicht mehr verpflichtet.
+<sup>3</sup> Die Lehrpersonen sind verpflichtet, sich während der Sportwoche für Schullager oder Sporttage und für die Ausführung der vom Arbeitgeber festgelegten Arbeiten zur Verfügung zu stellen. Lehrpersonen, die im Verlauf des Schuljahres das 50. Altersjahr erfüllt haben, sind dazu nicht mehr verpflichtet.
 
 #### § 5
 
@@ -167,7 +166,7 @@ beschliesst:
 - c) eine Lektion für Klassenlehrpersonen auf der Kindergarten-, Primar- und Sekundarstufe I für Arbeiten, die sich aus der integrativen Sonderschulung eines Kindes oder mehrerer Kinder in einer Klasse ergeben;
 - d) …
 
-<sup>5</sup> Die Direktion für Bildung und Kultur kann in Absprache mit den gemeindlichen Schulbehörden Lehrpersonen für die Übernahme von Aufgaben im Auftrag und auf Kosten des Kantons vom Unterricht entlasten. Für eine Freistellung vom Unterricht von einer Lektion während eines Schuljahres sind 50 Jahresarbeitsstunden zu leisten.
+<sup>5</sup> Die Direktion für Bildung und Kultur kann in Absprache mit den gemeindlichen Schulbehörden Lehrpersonen für die Übernahme von Aufgaben im Auftrag und auf Kosten des Kantons vom Unterricht entlasten. Für eine Freistellung vom Unterricht von einer Lektion während eines Schuljahres sind 58 Jahresarbeitsstunden zu leisten.
 
 #### § 7
 
@@ -286,9 +285,11 @@ beschliesst:
 - b) Lehrpersonen, welche in einer drei- oder mehrklassigen Abteilung auf einer Schulstufe unterrichten, mit Ausnahme der Lehrpersonen der Grund- oder Basisstufe: Fr. 2 605.–
 - c) …
 
+<sup>2</sup> Lehrpersonen, die von der Gemeinde innerhalb des Berufsauftrags vorgegebene Spezial- oder Zusatzfunktionen ausführen, können von dieser mit einer Zulage zum Jahresgehalt entschädigt werden.
+
 #### § 18
 
-<sup>1</sup> Der Regierungsrat erlässt Richtlinien über die subventionsberechtigten Tätigkeiten von Lehrpersonen für Schulleitungsaufgaben.
+<sup>1</sup> …
 
 #### § 19
 
