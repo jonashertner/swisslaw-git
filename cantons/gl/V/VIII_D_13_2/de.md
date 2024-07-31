@@ -4,13 +4,13 @@ number: VIII D/13/2
 title: "Verordnung über den Vollzug des Einführungsgesetzes zum Bundesgesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung"
 short: "Kantonale Ergänzungsleistungsverordnung, KELV"
 language: de
-version: 2023-01-01
-valid_until: 2024-07-31
-version_adopted: 2023-01-03
+version: 2024-08-01
+valid_until: 2025-01-31
+version_adopted: 2024-07-04
 adopted: 2007-11-27
 in_force: 2008-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-D.13.2"
-pdf: "https://gesetze.gl.ch/api/de/versions/2402/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2490/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2402/pdf_file"
 
 (Kantonale Ergänzungsleistungsverordnung, KELV)
 
-Vom 27.11.2007 (Stand 01.01.2023)
+Vom 27.11.2007 (Stand 01.08.2024)
 
 Der Regierungsrat,
 
@@ -339,10 +339,10 @@ verordnet:
 
 **Stationäre Unterbringung im Hospiz**
 
-<sup>1</sup> Die maximalen täglichen EL-Beiträge bei einem Aufenthalt im Hospiz des Alters- und Pflegeheims Salem sind:
+<sup>1</sup> Die maximalen täglichen EL-Beiträge bei einem Aufenthalt im Hospiz des Alters- und Pflegeheims Salem für die Zeit vom 1. August bis Ende 2024 betragen:
 
-- a. Pension — 130 Franken;
-- b. Betreuung, nicht kassenpflichtige Leistungen (N-KLV) — 60 Franken;
+- a. Pension — 157.85 Franken;
+- b. Betreuung, nicht kassenpflichtige Leistungen (N-KLV) — 64.80 Franken;
 - c. KLV (Pflege)
   - 1\. Stufe 1 — 4.75 Franken;
   - 2\. Stufe 2 — 22.60 Franken;
