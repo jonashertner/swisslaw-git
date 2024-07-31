@@ -3,20 +3,20 @@ canton: LU
 number: 800a
 title: Spitalgesetz
 language: de
-version: 2024-07-01
-valid_until: 2024-07-31
-version_adopted: 2024-03-18
+version: 2024-08-01
+valid_until: 2025-06-30
+version_adopted: 2024-05-06
 adopted: 2006-09-11
 in_force: 2007-07-01
 url: "https://srl.lu.ch/app/de/texts_of_law/800a"
-pdf: "https://srl.lu.ch/api/de/versions/4682/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4687/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Spitalgesetz
 
-vom 11.09.2006 (Stand 01.07.2024)
+vom 11.09.2006 (Stand 01.08.2024)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -254,7 +254,7 @@ beschliesst:
 
 <sup>1</sup> Die Unternehmen stellen im Rahmen der Leistungsaufträge und -vereinbarungen des Kantons Luzern für alle Kantonseinwohnerinnen und -einwohner die Spitalversorgung gemäss § 2 wirksam, zweckmässig und wirtschaftlich sicher.
 
-<sup>2</sup> Die Luzerner Kantonsspital AG bietet Leistungen der Akut- und der Rehabilitationsmedizin mit Spitalbetrieben in Luzern, Montana, Sursee und Wolhusen an, die Luzerner Psychiatrie AG Leistungen der Psychiatrie mit Spitalbetrieben in Luzern, Kriens und St. Urban (Gemeinde Pfaffnau).
+<sup>2</sup> Die Luzerner Kantonsspital AG bietet Leistungen der Akut- und der Rehabilitationsmedizin mit Spitalbetrieben in Luzern, Sursee und Wolhusen an, die Luzerner Psychiatrie AG Leistungen der Psychiatrie mit Spitalbetrieben in Luzern, Kriens und St. Urban (Gemeinde Pfaffnau).
 
 <sup>3</sup> Sie können
 
