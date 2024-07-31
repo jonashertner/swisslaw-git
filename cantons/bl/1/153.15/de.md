@@ -3,28 +3,28 @@ canton: BL
 number: "153.15"
 title: Verordnung über den Auslagenersatz
 language: de
-version: 2014-07-01
-valid_until: 2024-07-31
-version_adopted: 2014-07-08
+version: 2024-08-01
+version_adopted: 2024-02-06
 adopted: 1999-06-15
 in_force: 1999-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/153.15"
-pdf: "https://bl.clex.ch/api/de/versions/3726/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3891/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Auslagenersatz
 
-Vom 15.06.1999 (Stand 01.07.2014)
+Vom 15.06.1999 (Stand 01.08.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
-gestützt auf § 31 Abs. 1 Bst. a des Gesetzes über die Arbeitsverhältnisse der Mitarbeiterinnen und Mitarbeiter des Kantons (Personalgesetz) vom 25. September 1997[^ingress-1],
+gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1] und das Gesetz über die Arbeitsverhältnisse der Mitarbeiterinnen und Mitarbeiter des Kantons (Personalgesetz) vom 25. September 1997[^ingress-2],
 
 beschliesst:
 
-[^ingress-1]: [SGS 150](https://bl.clex.ch/data/150/de/art31)
+[^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art74)
+[^ingress-2]: [SGS 150](https://bl.clex.ch/data/150/de/art31)
 
 ## 1 Allgemeines
 
@@ -194,6 +194,34 @@ beschliesst:
 <sup>1</sup> Die Anstellungsbehörden können Mitarbeitenden, welche aufgrund ihrer Funktion keinen Feuerwehrdienst leisten dürfen, eine Entschädigung in Höhe der Feuerwehrersatzabgabe ausrichten.
 
 <sup>2</sup> Die Vergütung ist steuer- und sozialversicherungspflichtig.
+
+## 3a Auslagenersatz für schulspezifische Auslagen
+
+#### § 11d
+
+**Auslagenersatz für Arbeitswochen, Schullager, Klassenaustausch, Sprachaufenthalt und Bildungsreisen**
+
+<sup>1</sup> Für Arbeitswochen, Klassenaustausch und Sprachaufenthalt, die ausserhalb des eigenen Schulorts durchgeführt werden, wird höchstens 2 Lehrpersonen pro Klasse Auslagenersatz gewährt.
+
+<sup>2</sup> Für Schullager auf der Sekundarstufe II wird den Leiterinnen und Leitern (maximal 2 pro Klasse) ein Pauschalbetrag für Unterkunft und Verpflegung vergütet. Die Pauschale wird durch die Dienststelle Berufsbildung, Mittelschulen und Hochschulen festgelegt.
+
+<sup>3</sup> Für Bildungsreisen auf der Sekundarstufe II wird den höchstens 2 Lehrpersonen pro Klasse Auslagenersatz vergütet. Die Höhe des Auslagenersatzes wird durch die Dienststelle Berufsbildung, Mittelschulen und Hochschulen festgelegt.
+
+#### § 11e
+
+**Auslagenersatz für die Nutzung privater Informatikmittel**
+
+<sup>1</sup> Für die Nutzung privater Informatikmittel als Arbeitsinstrumente erhalten die Lehrpersonen der Sekundarstufen I und II pro Schuljahr einen Pauschalbeitrag.
+
+<sup>2</sup> Der Pauschalbeitrag beträgt pro Schuljahr:
+
+- a. bei einem Pensum von 51–100 % CHF 200.–;
+- b. bei einem Pensum von 15–50 % CHF 100.–;
+- c. bei einem Pensum von weniger als 15 % CHF 50.–.
+
+<sup>3</sup> Mitglieder der Schulleitungen der Sekundarstufen I und II erhalten für die Nutzung privater Mobilfunkgeräte einen Pauschalbeitrag von CHF 200.– pro Schuljahr. Davon ausgenommen sind Mitarbeiter und Mitarbeiterinnen, denen der Kanton ein entsprechendes Gerät zur Verfügung stellt.
+
+<sup>4</sup> Voraussetzungen für die Ausrichtung des Beitrags sind die Einhaltung der Mindestanforderungen für den Einsatz privater Geräte, welche durch das Steuergremium Schulinformatik (SGSI) erlassen werden, sowie die Unterzeichnung der entsprechenden Weisung.
 
 ## 4 Schlussbestimmungen
 
