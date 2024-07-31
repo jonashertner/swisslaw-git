@@ -4,182 +4,265 @@ number: "646.40"
 title: Verordnung über den Berufsauftrag und die Arbeitszeit von Lehrpersonen
 short: Vo AZ LP
 language: de
-version: 2022-08-01
-valid_until: 2024-07-31
-version_adopted: 2021-12-07
+version: 2024-08-01
+version_adopted: 2024-05-28
 adopted: 2024-02-06
 in_force: 2024-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/646.40"
-pdf: "https://bl.clex.ch/api/de/versions/3159/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3929/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Berufsauftrag und die Arbeitszeit von Lehrpersonen
 
-Vom 15.03.2005 (Stand 01.08.2022)
+(Vo AZ LP)
 
-Der Regierungsrat des Kantons Basel-Landschaft beschliesst:
+Vom 06.02.2024 (Stand 01.08.2024)
+
+Der Regierungsrat des Kantons Basel-Landschaft,
+
+gestützt auf § 74 Abs. 2 der Verfassung des Kantons Basel-Landschaft vom 17. Mai 1984[^ingress-1], das Bildungsgesetz vom 6. Juni 2002[^ingress-2] und das Dekret zum Personalgesetz vom 8. Juni 2000[^ingress-3],
+
+beschliesst:
+
+[^ingress-1]: [SGS 100](https://bl.clex.ch/data/100/de/art74)
+[^ingress-2]: [SGS 640](https://bl.clex.ch/data/640/de/art70)
+[^ingress-3]: [SGS 150.1](https://bl.clex.ch/data/150.1/de/art5)
+
+## 1 Allgemeine Bestimmungen
 
 #### § 1
 
 **Geltungsbereich**
 
-<sup>1</sup> Die Bestimmungen dieser Verordnung gelten für alle öffentlichen Schulen des Kantons und der Gemeinden.
+<sup>1</sup> Die Bestimmungen dieser Verordnung gelten für die Lehrpersonen aller öffentlichen Schulen des Kantons und der Gemeinden.
 
 #### § 2
 
-**Berufsauftrag, Bereiche**
+**Zweck**
 
-<sup>1</sup> Der Berufsauftrag der Lehrperson setzt sich aus folgenden Bereichen zusammen:
-
-- a. Unterrichten (Bereich A);
-- b. Vor- und Nachbereiten des Unterrichts (Bereich B);
-- c. Teamarbeit, Schulentwicklung und Schulverwaltung (Bereich C);
-- d. Eltern- und Schülerberatung, Klassenlehrerin / -lehrer (Bereich D),
-- e. Weiterbildung (Bereich E).
-
-<sup>2</sup> Das Vollpensum (Pflichtstunden) der einzelnen Schulstufen und -arten wird im Personaldekret vom 8. Juni 2000[^2-1] geregelt.
-
-<sup>3</sup> Die Bereiche A und B umfassen 85% der Jahresarbeitszeit. Abweichungen sind in begründeten Fällen aufgrund einer Vereinbarung zwischen Schulleitung und Lehrperson möglich.
-
-<sup>4</sup> Die Bereiche C, D und E umfassen 15% der Jahresarbeitszeit. Die Aufteilung wird individuell zwischen Schulleitung und Lehrperson vereinbart, jedoch sind mindestens 2% für die Weiterbildung zu reservieren.
-
-<sup>5</sup> Der Bereich C umfasst unter anderem die Teilnahme an Konferenzen, Konventen, Fachschaftssitzungen, Behördensitzungen, Absprachen mit anderen Lehrpersonen, Gemeinschaftsanlässen, Schulentwicklung und Evaluation.
-
-<sup>6</sup> …
-
-<sup>7</sup> Bei einem Unterrichtsausfall infolge Urlaub, Krankheit etc. von mehr als 1 Woche wird neben den Bereichen A und B, die Jahresarbeitszeit auch in den Bereichen C, D und E gekürzt.
-
-[^2-1]: GS 33.1248, SGS [150.1](https://bl.clex.ch/data/150.1/de)
+<sup>1</sup> Die Verordnung konkretisiert die gesetzlichen Rechte und Pflichten der Lehrpersonen hinsichtlich Berufsauftrag sowie Jahresarbeitszeit und quantifiziert die verschiedenen Aufgabenbereiche derselben.
 
 #### § 3
 
-**Spezialfunktionen**
+**Grundsätze**
 
-<sup>1</sup> Spezialfunktionen sind von Lehrpersonen ausserhalb des Berufsauftrags übernommene Aufgaben innerhalb des Schulbetriebs.
+<sup>1</sup> Die Schulleitung gewährleistet die Fürsorgepflicht des Arbeitgebers zum Gesundheitsschutz.
 
-<sup>2</sup> An den Schulen können folgende Spezialfunktionen eingerichtet werden:
+<sup>2</sup> Sie unterstützt die Lehrpersonen, sich vor Überlastung zu schützen.
 
-- a. Stundenplanordnerin / Stundenplanordner;
-- b. technischer ICT-Support (TICTS);
-- c. Bibliotheks- / Mediotheksbetreuerin / Bibliotheks- / Mediotheksbetreuer;
-- d. Materialverantwortliche / Materialverantwortlicher;
-- e. Konventsleitung;
-- f. pädagogischer ICT-Support (PICTS);
-- g. Laufbahnverantwortliche / Laufbahnverantwortlicher.
+<sup>3</sup> Sie sorgt mit einer Planung dafür, dass ihnen die Aufträge und Pensen gemäss dem Bedarf der Schule und den Grundsätzen des Schulprogramms in Bezug auf die Anforderungen ausgewogen zugewiesen werden. Nach Möglichkeit nutzt sie dabei die besonderen Fähigkeiten und Interessen der einzelnen Lehrpersonen zugunsten der Schule und der Lernenden.
 
-<sup>3</sup> Die Bildungs-, Kultur- und Sportdirektion kann weitere Spezialfunktionen definieren, sofern die Aufgaben folgende Kriterien erfüllen:
+<sup>4</sup> Bei der Gestaltung des Unterrichts innerhalb der kantonalen Lehrpläne und des Schulprogramms der einzelnen Schulen wird den Lehrpersonen ausdrücklich für die individuelle Arbeit und die Teamarbeit ein berufsfachlich und berufsethisch begründeter eigenverantwortlicher Freiraum gewährt und Vertrauen bei der Erfüllung der Jahresarbeitszeit entgegengebracht.
 
-- a. Sie sind in erheblichem Mass für den Schulbetrieb notwendig;
-- b. sie setzen eine Spezialkompetenz voraus;
-- c. sie sind mengenmässig in einem Normalpensum gemäss § 2 Absatz 1 nicht unterzubringen;
-- d. sie sind von einer Einzelperson effizienter zu bewältigen als von vielen Einzelnen.
+<sup>5</sup> Die Umsetzung des Berufsauftrags in der Jahresarbeitszeit ist primär Aufgabe der einzelnen Lehrpersonen in Absprache und gemäss Vereinbarung mit der Schulleitung.
 
-<sup>4</sup> Für Spezialfunktionen können die Schulleitungen Funktionsbeschreibungen aufgrund der kantonalen Vorgaben erlassen.
+<sup>6</sup> Die Lehrpersonen setzen ihre Aufgaben gemäss Lehrplan und Schulprogramm sowie den diesbezüglichen Vereinbarungen mit der Schulleitung in entsprechender Qualität und termingerecht um.
 
-<sup>5</sup> Die Schulleitungen setzen die Inhaberinnen / Inhaber von Spezialfunktionen gemäss den in § 2 Absatz 1 definierten Bereichen ein.
+## 2 Elemente des Berufsauftrags
 
 #### § 4
 
-**Jahresarbeitszeit (JAZ)**
+**Berufsauftrag**
 
-<sup>1</sup> Die Jahresarbeitszeit einer Lehrperson entspricht der jährlichen Sollarbeitszeit gemäss § 2 der Verordnung vom 4. Januar 2000[^4-1] zur Arbeitszeit.
-
-<sup>2</sup> Für das 1. Semester gilt die Sollarbeitszeit der Monate August bis Januar, für das 2. Semester diejenige der Monate Februar bis Juli.
-
-<sup>3</sup> Die Jahresarbeitszeit ist für Teilzeitarbeitende anteilmässig zu kürzen. Sollte die Beanspruchung den pro-rata-Anteil der Bereiche C, D und E übersteigen, so kann der Mehraufwand aus dem Schulpool vergütet werden.
-
-[^4-1]: GS 33.1033, SGS [153.11](https://bl.clex.ch/data/153.11/de)
+<sup>1</sup> Der Berufsauftrag besteht aus dem Grundauftrag (GA) und gegebenenfalls aus dem erweiterten Auftrag (EA).
 
 #### § 5
 
-**Mehrlektionen**
+**Grundauftrag (GA); Aufgabenbereiche**
 
-<sup>1</sup> Als Mehrlektionen gelten jene Lektionen, die auf Anordnung der Schulleitung über die Pflichtlektionen eines Vollpensums hinaus geleistet werden.
+<sup>1</sup> Der Grundauftrag umfasst folgende Aufgabenbereiche:
 
-<sup>2</sup> Mehrlektionen werden vergütet, wenn sie nicht kompensiert werden können.
+- a. Unterricht (Bereich A);
+- b. unterrichtsbezogene Aufgaben (Bereich B);
+- c. schulbezogene Aufgaben (Bereich C);
+- d. Beratung der Schülerinnen und Schüler und der Erziehungsberechtigten (Bereich D);
+- e. Personalentwicklung (Bereich E).
+
+<sup>2</sup> Den Aufgabenbereichen sind insbesondere folgende Tätigkeiten zugeordnet:
+
+- a. Unterricht und unterrichtsbezogene Aufgaben:
+  - 1\. Bereich A: Schülerinnen und Schüler bzw. Berufslernende unterrichten, beim gemeinsamen und selbstständigen Arbeiten und Lernen anleiten und begleiten, fördern und beurteilen, während der Unterrichtspausen stufenangemessen beaufsichtigen, Klassenveranstaltungen durchführen.
+  - 2\. Bereich B: Unterricht selbstständig und in Zusammenarbeit insbesondere im Klassen-, Jahrgangs- oder Fachschaftsteam planen, vorbereiten und nachbereiten sowie Planung von Klassenveranstaltungen.
+- b. Weitere Aufgaben:
+  - 1\. Bereich C: Mitwirkung an gemeinschaftlichen Aufgaben im Arbeitsfeld Schule inkl. Fachschaftsarbeit, Teilnahme an Schulkonventen, an Besprechungen mit der Schulleitung, an Schulanlässen und schulinternen Weiterbildungen, Mitwirkung bei der Schulprogrammarbeit und Qualitätsüberprüfung, Übernahme von Spezialfunktionen und Spezialaufgaben, sofern diese nicht dem Bereich EA1 zugeordnet sind, sowie Übernahme von organisatorischen bzw. pädagogischen Aufgaben für die Schule.
+  - 2\. Bereich D: Schülerinnen und Schüler, Berufslernende und Erziehungsberechtigte beraten, inkl. Vorbereitung und Durchführung der Standortgespräche, sowie Zusammenarbeit mit Erziehungsberechtigten, schulischen Fachstellen, Lehrbetrieben, überbetrieblichen Kursen (üK) und externen Diensten.
+  - 3\. Bereich E: Erweiterung von Wissen, Fähigkeiten und Fertigkeiten in fachlicher, methodisch-didaktischer, pädagogischer, psychologischer und schulorganisatorischer Hinsicht.
 
 #### § 6
 
-**Ferien und unterrichtsfreie Zeit**
+**Erweiterter Auftrag (EA)**
 
-<sup>1</sup> Die Lehrperson hat Anspruch auf Ferien gemäss Dekret vom 8. Juni 2000[^6-1] zum Personalgesetz (Personaldekret).
+<sup>1</sup> Beim erweiterten Auftrag handelt es sich um Aufgaben, welche Lehrpersonen ausserhalb des Grundauftrags im Auftrag der Schulleitung wahrnehmen und für deren Erfüllung die einzelne Schule zusätzliche Personalmittel entweder wiederkehrend oder zeitlich befristet erhält.
 
-<sup>2</sup> Die Ferien müssen während der unterrichtsfreien Zeit (Schulferien) bezogen werden.
+<sup>2</sup> Der erweiterte Auftrag umfasst folgende 2 Aufgabenbereiche:
 
-<sup>3</sup> Die während der Schulwochen über die vertraglich vereinbarte Arbeitszeit hinaus gehende, geleistete Arbeit wird während der unterrichtsfreien Zeit (Schulferien) kompensiert.
+- a. Bereich EA1: Spezialfunktionen oder zeitlich befristete Spezialaufgaben oder Aufgaben zugunsten der Schul-, Unterrichts- und Personalentwicklung innerhalb des Schulbetriebs, die nicht im Aufgabenbereich C erfüllt werden können.
+- b. Bereich EA2: Zusatzaufträge für die Planung, Umsetzung und Wirkungsüberprüfung von Schul-, Unterrichts- und Personalentwicklungsvorhaben im Auftrag des Trägers oder des Kantons mit zeitlich befristeten Zusatzmitteln.
 
-<sup>4</sup> Der Ferienanspruch gemäss Personaldekret wird von der Jahresarbeitszeit für die Berechnung des Berufsauftrags abgezogen.
+<sup>3</sup> Für die Übernahme von erweiterten Aufträgen in den Aufgabenbereichen EA1 oder EA2 kann die Schulleitung:
 
-[^6-1]: GS 33.1248, SGS [150.1](https://bl.clex.ch/data/150.1/de)
+- a. Lehrpersonen im Grundauftrag vom Unterricht entlasten;
+- b. deren Arbeitspensum bis auf maximal 100 Stellenprozente erhöhen;
+- c. im Rahmen der Lektionenbuchhaltung eine Zeitpauschale vereinbaren.
+
+<sup>4</sup> Die Übernahme von Kleinaufträgen kann auch ausbezahlt werden.
 
 #### § 7
 
-**Freie Wahl von Ort und Zeitpunkt der Arbeitserbringung**
+**Spezialfunktionen und Spezialaufgaben**
 
-<sup>1</sup> In der Wahl von Ort und Zeitpunkt der Arbeitserbringung in den Bereichen «Vor- und Nachbereiten des Unterrichts», «Eltern- und Schülerberatung» sowie «Weiterbildung» gemäss § 2 sind die Lehrpersonen grundsätzlich frei.
+<sup>1</sup> Spezialfunktionen und zeitlich befristete Spezialaufgaben sind zusätzliche Aufgaben, die für die Erfüllung des gesetzlichen Auftrags oder den Schulbetrieb notwendig sind.
+
+<sup>2</sup> Für folgende Spezialfunktionen gelten die kantonalen Vorgaben gemäss Beschreibung im Anhang 3:
+
+- a. Klassenleitung (alle Stufen);
+- b. Pädagogischer ICT Support (PICTS) (alle Stufen, befristet bis und mit SJ 2027/28);
+- c. Leitung Lehrpersonenkonvent (alle Stufen);
+- d. Stundenplanerin bzw. Stundenplaner (alle Stufen);
+- e. Unterricht Mehrjahrgangsklasse (Primarschule);
+- f. Laufbahnverantwortliche bzw. Laufbahnverantwortlicher (Sekundarstufe I);
+- g. Beauftragte bzw. Beauftragter Berufswegbereitung (BWB) (Sekundarstufe I und Sekundarstufe II Berufsfachschule);
+- h. schulinterne Begleitung Unterrichtende ohne Lehrdiplom (Sekundarstufe I);
+- i. schulinterne Begleitung Berufseinsteigende mit Lehrdiplom (Sekundarstufe I).
+
+<sup>3</sup> Die Schulen definieren weitere Spezialfunktionen und zeitlich befristete Spezialaufgaben mit Pflichtenheft und zugehöriger Ressourcierung im Schulprogramm.
+
+<sup>4</sup> Die Übernahme von Spezialfunktionen und -aufgaben wird durch die Schulleitung mit einzelnen Lehrpersonen unter Zuweisung der gemäss Anhang 3 vorgegebenen bzw. einer angemessenen Zeitpauschale entweder im Bereich C des Grundauftrags, im erweiterten Auftrag EA1 oder anteilsmässig in beiden Bereichen vereinbart.
+
+<sup>5</sup> Wird eine Spezialfunktion oder -aufgabe nicht von einer Lehrperson, sondern einer Mitarbeiterin oder einem Mitarbeiter der Schuladministration übernommen, erfolgt die Entschädigung gemäss der angestammten Lohneinreihung in einem zusätzlichen Arbeitspensum.
+
+<sup>6</sup> Mit Ausnahme der Klassenleitung werden die Spezialfunktionen und -aufgaben aus dem Schulpool ressourciert. Der Umfang des Schulpools ist in den jeweiligen Stufenverordnungen geregelt.
+
+## 3 Arbeitszeit
 
 #### § 8
 
-**Kontaktzeiten**
+**Jährliche Sollarbeitszeit**
 
-<sup>1</sup> Die Lehrperson ist verpflichtet, ausserhalb der Unterrichtszeiten angemessene, praktikable Kontaktzeiten für die Schülerinnen und Schüler und für die Erziehungsberechtigten einzurichten.
+<sup>1</sup> Die Jahresarbeitszeit einer Lehrperson entspricht der jährlichen Sollarbeitszeit gemäss § 2 der Verordnung zur Arbeitszeit vom 4. Januar 2000[^8-1].
+
+<sup>2</sup> Die Jahresarbeitszeit ist für Teilzeitarbeitende anteilmässig zu kürzen.
+
+[^8-1]: [SGS 153.11](https://bl.clex.ch/data/153.11/de)
 
 #### § 9
 
-**Präsenzzeiten**
+**Ferienanspruch**
 
-<sup>1</sup> Die Schulleitung kann nach Anhörung des Konvents der Lehrpersonen feste wöchentliche Präsenzzeiten für die Erfüllung gemeinschaftlicher Aufgaben ausserhalb der Unterrichtszeiten festlegen.
+<sup>1</sup> Die Lehrperson hat Anspruch auf Ferien gemäss Personaldekret vom 8. Juni 2000[^9-1].
 
-<sup>2</sup> Die Schulleitung kann in der unterrichtsfreien Zeit (Schulferien) in angemessener Art und Weise Präsenzzeiten für projektbezogene Schulentwicklung festlegen.
+<sup>2</sup> Den zusätzlichen altersbedingten Ferienanspruch alimentieren die Schulleitungen mit Mitteln aus dem C/D/E-Aufgabenbereich des Grundauftrags.
 
-<sup>3</sup> In begründeten Fällen kann die Schulleitung zusätzlich mit einzelnen Lehrpersonen individuelle Präsenzzeiten vereinbaren.
+<sup>3</sup> Die Ferien müssen während der unterrichtsfreien Arbeitszeit, in der Regel in den Schulferienwochen, bezogen werden.
 
-<sup>4</sup> Präsenzzeiten an Sonn- und Feiertagen sowie den weiteren vom Regierungsrat
-
-festgesetzten, bezahlten arbeitsfreien Tagen oder Halbtagen sind nicht zulässig. Präsenzzeiten an Samstagen (bei der 5-Tage-Woche) und abends nach 20 Uhr dürfen nur ausnahmsweise angeordnet werden.
+[^9-1]: [SGS 150.1](https://bl.clex.ch/data/150.1/de)
 
 #### § 10
 
-**Unterrichtsausfall**
+**Umrechnung von Lektionen in Arbeitsstunden**
 
-<sup>1</sup> Fällt wegen abwesenden Klassen Unterricht aus, so können die betroffenen Lehrpersonen im Rahmen ihrer Unterrichtsverpflichtung gemäss Stundenplan eingesetzt werden.
-
-<sup>2</sup> Bei kurzfristigem Ausfall von Lehrpersonen können parallel unterrichtende Lehrpersonen zur Betreuung von Klassen eingesetzt werden. Es besteht kein Anspruch auf Abgeltung. Spätestens nach 3 Schultagen ist eine Stellvertretung einzusetzen.
+<sup>1</sup> Für die Umrechnung einer Jahreslektion in Jahresarbeitszeit gilt folgender Umrechnungsfaktor: Jahresarbeitszeit / Anzahl Lektionen Unterrichtsverpflichtung.
 
 #### § 11
 
-**Arbeitszeiterfassung**
+**Verteilung der Jahresarbeitszeit im Grundauftrag und im erweiterten Auftrag**
 
-<sup>1</sup> Die Erfassung für die Tätigkeiten gemäss § 2 Absatz 1 Buchstaben c, d und e erfolgt mittels einfacher Agendaführung.
+<sup>1</sup> Die Verteilung der Jahresarbeitszeit auf die Aufgabenbereiche des Grundauftrags erfolgt gestützt auf die Vorgaben zur Unterrichtsverpflichtung (Bereich A) in § 5 Abs. 1 Personaldekret, konkretisiert im Anhang 1 dieser Verordnung.
 
-<sup>2</sup> Für die Erfassung können vorgängig Jahrespauschalen vereinbart werden.
+<sup>2</sup> Die Verteilung auf die Bereiche A/B und C/D/E richtet sich nach Anhang 2 dieser Verordnung.
 
-<sup>3</sup> Eine Erhöhung oder Reduktion von vorgängig vereinbarten Jahrespauschalen ist nur in begründeten Ausnahmefällen und nach Absprache mit der Schulleitung möglich. Die Lehrperson führt in diesem Fall eine Agenda zur Arbeitszeiterfassung.
+<sup>3</sup> Die Binnenverteilung der Jahresarbeitszeit auf die Aufgabenbereiche C/D/E wird individuell zwischen der Schulleitung und der Lehrperson vereinbart. Für bestimmte Arbeitsbereiche können im Schulprogramm Jahrespauschalen vorgesehen werden. Für den Bereich E der Personalentwicklung können die Lehrpersonen im Mehrjahresdurchschnitt mindestens 2 % beanspruchen.
+
+<sup>4</sup> Aufgaben im erweiterten Berufsauftrag EA1 und EA2 werden mit einer Zeitpauschale dem Pensum angerechnet.
+
+<sup>5</sup> Die Aufgaben in den Bereichen C/D/E, EA1 und EA2 des Berufsauftrags sind in Absprache zwischen Schulleitung und Lehrperson zu planen. Die Bildungs-, Kultur- und Sportdirektion (BKSD) stellt für diese Aufgabenplanung ein Planungsformular zu Verfügung. Es können auch schulspezifische Weiterentwicklungen davon genutzt werden, sofern sichergestellt ist, dass diese die kantonalen Vorgaben erfüllen und korrekt abbilden.
+
+<sup>6</sup> Übersteigt der Aufwand in den Bereichen C/D/E das jährlich zur Verfügung stehende Kontingent, kann die Schulleitung in Ausnahmefällen vorgängig Überzeit anordnen. Überzeit darf nur in den Lohnbändern 8 bis 28 angeordnet werden.
+
+<sup>7</sup> Die Überzeit in den Bereichen C/D/E ist im Folgejahr bei der Planung zu berücksichtigen und im Bereich C/D/E zu kompensieren. Eine Auszahlung ist nicht möglich.
 
 #### § 12
 
-**Absenzen**
+**Arbeitszeitdokumentation**
 
-<sup>1</sup> Bei geplanter Abwesenheit einer Lehrperson (wie z.B. Militär-, Zivildienst, Zivilschutz, Hochzeiten) ist die Schulleitung rechtzeitig zu informieren. Die Schulleitung entscheidet über zu treffende Regelungen.
+<sup>1</sup> Es gilt der Grundsatz der Vertrauensarbeitszeit.
 
-#### § 12a
+<sup>2</sup> Eine Arbeitszeitdokumentation wird auf Wunsch der Lehrperson vereinbart oder durch die Schulleitung angeordnet.
 
-**Übergangsbestimmung**
-
-<sup>1</sup> Auf der Basis der in § 2 Absatz 3 und 4 vorgesehenen prozentualen Aufteilung der Arbeitszeit auf die Bereiche des Berufsauftrages wird ab Schuljahr 2016/17 auf den Sekundarstufen I und II der C/D-Bereich um den A/B-Anteil einer Pflichtlektion verkleinert und der A/B-Bereich um denselben Anteil vergrössert.
-
-<sup>2</sup> Für die Ausübung der Kernfunktion als Klassenlehrperson gilt auf den Sekundarstufen I und II an Vollzeitschulen eine Arbeitszeitpauschale von 65 Stunden, an dualen Berufsfachschulen eine Arbeitszeitpauschale von 32,5 Stunden. Die Differenz zwischen dieser und dem für die Übernahme der Aufgabe als Klassenlehrperson angerechneten Lektionenanteil wird für Aufgaben in den Bereichen C, D und E verwendet.
-
-<sup>3</sup> Die Regelungen gemäss den Absätzen 1 und 2 gelten bis zur Inkraftsetzung der rechtlichen Grundlagen für den erneuerten Berufsauftrag der Lehrpersonen.
-
-<sup>4</sup> Legt die Bildungs-, Kultur- und Sportdirektion zusätzliche schulfreie Tage für 2 Wochen Weihnachtsferien fest, verwenden die Lehrpersonen die freiwerdende Arbeitszeit für weitere ihnen im Rahmen des Berufsauftrags übertragene Aufgaben, davon 2 Tage in der unterrichtsfreien Zeit für gemeinschaftliche Aufgaben der Schule.
+<sup>3</sup> Die BKSD stellt den Schulen ein Instrument für die Arbeitszeitdokumentation nach Aufgabenbereichen zur Verfügung.
 
 #### § 13
 
-**Inkrafttreten**
+**Lektionenbuchhaltung**
 
-<sup>1</sup> Diese Verordnung tritt am 1. August 2005 in Kraft.
+<sup>1</sup> Schulleitungen führen für jede Lehrperson eine Lektionenbuchhaltung zur Erfassung von vereinbarten Mehr- und Minderlektionen.
 
-GS 35.0491
+<sup>2</sup> Mehr- und Minderlektionen umfassen:
+
+- a. die im Voraus vereinbarte bzw. angeordnete erhöhte oder verringerte Unterrichtsverpflichtung;
+- b. die über die individuelle jährliche Sollarbeitszeit hinaus im Voraus schriftlich vereinbarte Arbeitszeit in den Bereichen EA1 und EA2 für die Erfüllung eines konkreten Auftrags;
+- c. Stellvertretungslektionen, die nicht ausbezahlt, sondern in die Lektionenbuchhaltung aufgenommen werden.
+
+<sup>3</sup> Der Saldo der Lektionenbuchhaltung darf den zeitlichen Gegenwert von plus resp. minus 4 Jahreslektionen nicht überschreiten.
+
+<sup>4</sup> Minderlektionen, die zu einem negativen Saldo in der Lektionenbuchhaltung führen, müssen zwischen Schulleitung und Lehrperson schriftlich vereinbart werden.
+
+<sup>5</sup> Mehr- und Minderlektionen werden in der Regel im Folgejahr zeitlich kompensiert.
+
+<sup>6</sup> Die Lektionenbuchhaltung der Lehrpersonen wird beim Schuljahreswechsel von der Schulleitung für das darauffolgende Schuljahr nachgeführt.
+
+<sup>7</sup> In der Lektionenbuchhaltung im Voraus vereinbarte Mehr- und Minderlektionen gemäss Abs. 2 Bst. a und b, die zu einer Pensenerhöhung oder -minderung während mindestens 3 Monaten führen, werden gleichbehandelt wie eine Vertragsanpassung.
+
+<sup>8</sup> Der Saldo der Lektionenbuchhaltung ist in der Regel zu kompensieren. Über eine Auszahlung entscheidet die Schulleitung auf Antrag der Lehrperson.
+
+<sup>9</sup> Weist die Lektionenbuchhaltung bei Stellenaustritt einen negativen Saldo aus, besteht eine Rückerstattungspflicht für die nicht geleisteten Lektionen an den Arbeitgeber.
+
+#### § 14
+
+**Stellvertretungen**
+
+<sup>1</sup> Stellvertretungslektionen werden als vereinbarte Mehrlektionen in der Lektionenbuchhaltung geführt. Sie können in Absprache zwischen Schulleitung und Lehrperson auch ausgezahlt werden.
+
+#### § 15
+
+**Absenzen**
+
+<sup>1</sup> Planbare Absenzen sind, wenn immer möglich, in die unterrichtsfreie Zeit zu legen.
+
+<sup>2</sup> Abwesenheiten infolge unbezahlten Urlaubs werden entsprechend dem Anteil Unterrichts- und unterrichtsfreier Zeit berücksichtigt und verrechnet.
+
+## 4 Arbeitsorganisation
+
+#### § 16
+
+**Arbeitsorganisation**
+
+<sup>1</sup> Die Schulleitungen können für alle Lehrpersonen ein Zeitgefäss im Umfang von 2 Tagen Arbeitszeit in der unterrichtsfreien Zeit für gemeinschaftliche Aufgaben der Schule festlegen. Die Festlegung erfolgt spätestens 12 Monate im Voraus.
+
+<sup>2</sup> Feste Formen und Zeitgefässe für die gemeinsamen Tätigkeiten in den Aufgabenbereichen B, C, D, EA1 und EA2 während der unterrichtsfreien Arbeitszeit inkl. Schulferien regelt das Schulprogramm. Die Festlegung erfolgt spätestens 12 Monate im Voraus.
+
+<sup>3</sup> Die Dienststellen haben die Möglichkeit, Zeitgefässe im Umfang von maximal 1 Woche Arbeitszeit während den Schulferien für schulübergreifende, koordinierende Aufgaben zur Erfüllung des Bildungsauftrags einzurichten. Die Festlegung erfolgt spätestens 18 Monate im Voraus.
+
+<sup>4</sup> Arbeitsverpflichtungen gemäss den Abs. 1 und 2 während den Schulferien dürfen insgesamt 2 Wochen pro Schuljahr nicht übersteigen.
+
+<sup>5</sup> In begründeten Fällen kann die Schulleitung zusätzlich mit einzelnen Lehrpersonen individuelle Präsenzarbeitszeiten vereinbaren.
+
+<sup>6</sup> Angeordnete Präsenzzeiten an Sonn- und Feiertagen sowie den weiteren vom Regierungsrat festgesetzten, bezahlten arbeitsfreien Tagen oder Halbtagen sind nicht zulässig. Präsenzzeiten an Samstagen (bei der 5-Tage-Woche) und abends nach 20 Uhr dürfen, ausser für Schulveranstaltungen und die Musikschulen, nicht angeordnet werden.
+
+#### § 17
+
+**Kontaktzeiten**
+
+<sup>1</sup> Die Lehrpersonen bieten den Schülerinnen und Schülern und den Erziehungsberechtigten ausserhalb der Unterrichtszeiten Kontaktzeiten an.
+
+#### § 18
+
+**Unterrichtsausfall**
+
+<sup>1</sup> Fällt wegen abwesender Klassen Unterricht aus, so können die Schulleitungen die betroffenen Lehrpersonen entweder im Rahmen ihrer Unterrichtsverpflichtung gemäss Stundenplan oder gemäss individueller Absprache einsetzen.
+
+<sup>2</sup> Bei kurzfristigem Ausfall von Lehrpersonen kann die Schulleitung gleichzeitig unterrichtende Lehrpersonen zur Betreuung von Schülerinnen und Schülern einsetzen. Es besteht kein Anspruch auf Anrechnung. Spätestens nach 3 Schultagen ist eine Stellvertretung einzusetzen.
+
+GS 2024.011
