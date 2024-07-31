@@ -1,825 +1,532 @@
 ---
 canton: VS
 number: "721.100"
-title: Verordnung über den Wasserbau
+title: Verordnung über die Naturgefahren und den Wasserbau
 short: VNGWB
 language: de
-version: 2011-07-01
-corrected: 2017-09-20
-version_adopted: 2011-06-22
+version: 2024-08-01
+version_adopted: 2024-07-17
 adopted: 2024-07-17
 in_force: 2024-08-01
 url: "https://lex.vs.ch/app/de/texts_of_law/721.100"
-pdf: "https://lex.vs.ch/api/de/versions/307/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/de/versions/3340/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über den Wasserbau
+# Verordnung über die Naturgefahren und den Wasserbau
 
-vom 5. Dezember 2007
+(VNGWB)
+
+vom 17.07.2024 (Stand 01.08.2024)
 
 Der Staatsrat des Kantons Wallis
 
-eingesehen den Artikel 57 Absatz 2 der Kantonsverfassung;
+eingesehen Artikel 57 Absatz 2 der Kantonsverfassung;
 
-eingesehen den Artikel 2 Absatz 3 und den Artikel 61 des Gesetzes über den Wasserbau vom 15. März 2007;
+eingesehen Artikel 65 Absatz 2 des Gesetzes über die Naturgefahren und den Wasserbau vom 10. Juni 2022 (GNGWB);
 
-auf Antrag des Departements für Verkehr, Bau und Umwelt,
+auf Antrag des für die Umwelt zuständigen Departements,
 
 verordnet:
 
-### 1. Abschnitt: Allgemeine Bestimmungen
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
-**Gegenstand**
+**Gegenstand und Geltungsbereich**
 
-Die Verordnung über den Wasserbau (nachstehend: Verordnung) enthält die Ausführungsbestimmungen betreffend das Gesetz über den Wasserbau (nachstehend: Gesetz), sofern diese in keinen diesbezüglichen Sondergesetzen enthalten sind.
+<sup>1</sup> Die Verordnung über die Naturgefahren und den Wasserbau (nachfolgend: Verordnung) enthält die Ausführungsbestimmungen betreffend das Gesetz über die Naturgefahren und den Wasserbau (nachfolgend: Gesetz), sofern diese nicht in der Spezialgesetzgebung enthalten sind.
+
+## 2 Zuständigkeiten
 
 #### Art. 2
 
-**Inventar der öffentlichen Oberflächengewässer**
+**Zuständige Verwaltungsstellen für die verschiedenen Naturgefahrenprozesse**
 
-<sup>1</sup> Die öffentlichen Oberflächengewässer, die dem Gesetz und der vorliegenden Verordnung unterliegen, sind in einem Inventar aufgeführt und in einem Plan dargestellt.
+<sup>1</sup> Die Dienststellen und Organisationen sind für die Naturgefahren wie folgt zuständig:
 
-<sup>2</sup> Die zeitweiligen geringfügigen im Waldareal gelegenen Wasserabflüsse, welche durch das Inventar nicht erfasst sind, werden durch das Forstrecht geregelt.
+- a) die Dienststelle, die mit den Naturgefahren, den Fliessgewässern und Seen beauftragt ist (nachfolgend: Dienststelle): hydrologische Gefahren, gravitative geologische Gefahren, Lawinen und Gletschergefahren (nachfolgend: gravitative Gefahren);
+- b) die Dienststelle, die mit der zivilen Sicherheit beauftragt ist, mit Unterstützung der für die Naturgefahren zuständigen Dienststelle: tektonische Gefahren (Erdbeben);
+- c) die Dienststelle, die für den Wald zuständig ist, mit Unterstützung der für die zivile Sicherheit zuständigen Dienststelle: Waldbrandgefahr;
+- d) die Dienststelle, die für die Landwirtschaft zuständig ist, mit Unterstützung der für die zivile Sicherheit zuständigen Dienststelle und der für die Umwelt zuständigen Dienststelle: Trockenheit;
+- e) die Dienststelle, die für das Gesundheitswesen zuständig ist: Hitze- und Kältewellen mit Auswirkungen auf die Bevölkerung und ihre Gesundheit;
+- f) die Dienststelle, die für das Grundwasser zuständig ist: Grundwasseraufstoss;
+- g) die Dienststelle, die für die Mobilität zuständig ist, mit Unterstützung der für die Naturgefahren zuständigen Dienststelle: alle Naturgefahren, die die öffentlichen kantonalen Verkehrswege im Sinne des Strassengesetzes betreffen;
+- h) die zuständigen Bundes- und Kantonsstellen, mit Unterstützung der Kantonspolizei: Übermittlung von meteorologischen Warnungen.
 
-<sup>3</sup> Das Inventar und der dazugehörige Plan werden von dem für die Gewässer zuständigen Departement nach Anhörung der betroffenen Gemeinden während 30 Tagen öffentlich aufgelegt. Die Veröffentlichung hat im Amtsblatt sowie in der betroffenen Standortgemeinde nach örtlicher Gepflogenheit zu erfolgen. Die ordnungsgemäss begründeten Einsprachen sind schriftlich an das Departement zu richten.
+<sup>2</sup> Bei der Planung und Ausarbeitung von Vorhaben in Zusammenhang mit dem integralen Risikomanagement von gravitativen Naturgefahren, die der Kanton finanziell unterstützt, gilt die Dienststelle als direkter Ansprechpartner für die Gemeinden, Eigentümer von Infrastrukturanlagen und Privateigentümer. Sie stellt die Koordination mit den anderen betroffenen Dienststellen und spezialisierten Behörden sicher.
 
-<sup>4</sup> Das Departement überweist das Inventar und den Plan sowie das allfällige Einsprachedossier mit einem erläuternden Bericht zwecks Genehmigung an den Staatsrat.
+<sup>3</sup> Wenn Naturgefahren Bereiche bedrohen, die in die Zuständigkeit verschiedener öffentlicher Körperschaften oder Eigentümer von Infrastrukturanlagen fallen, müssen sich diese koordinieren. Bei Bedarf oder auf ihr Verlangen kann diese Koordination durch die zuständigen Dienststellen sichergestellt werden.
 
-<sup>5</sup> Das Inventar und der Plan sind für die Behörden und die Privatpersonen nach Inkrafttreten des im Amtsblatt veröffentlichten Genehmigungsbeschlusses des Staatsrats verbindlich.
+<sup>4</sup> Falls Dritte, insbesondere Eigentümer von Infrastrukturanlagen, selbst bestimmte Wasserbaumassnahmen prüfen wollen, müssen sie bei den betreffenden Gemeinden eine Delegation im Sinne von Artikel 5 Absatz 3 des Gesetzes beantragen.
 
 #### Art. 3
 
-**Genfersee**
+**Übertragung von kantonalen Aufgaben**
 
-<sup>1</sup> Der Kanton ist für den Unterhalt und die Wasserbauprojekte, die den Genfersee auf seinem Gebiet betreffen, verantwortlich.
+<sup>1</sup> Die Übertragung von kantonalen Aufgaben an die Gemeinden oder an Dritte erfolgt mittels Leistungsvereinbarungen.
 
-<sup>2</sup> Er koordiniert seine Tätigkeiten mit denjenigen der französischen, der Waadtländer und der Genfer Behörden und berücksichtigt soweit als möglich die Interessen der Anrainergemeinden.
+<sup>2</sup> Die zuständige Dienststelle stellt die Aufsicht über die übertragenen Aufgaben sicher.
+
+<sup>3</sup> Die Gemeinden und beauftragte Dritte informieren den Kanton unverzüglich, wenn sie bei der Ausführung der übertragenen Aufgaben eine bedeutende Auffälligkeit feststellen.
 
 #### Art. 4
 
-**Rhone**
+**Übertragung von Gemeindeaufgaben**
 
-<sup>1</sup> Der Kanton ist für den Wasserbau der Rhone sowie ihren Unterhalt verantwortlich.
+<sup>1</sup> Gemeinden, die Aufgaben an Dritte übertragen, stellen die Aufsicht über die übertragenen Aufgaben sicher.
 
-<sup>2</sup> Bei der Ausführung seiner Aufgaben berücksichtigt er die Interessen der Anrainergemeinden.
-
-<sup>3</sup> Für den gemeinsamen Rhone-Abschnitt koordiniert er seine Tätigkeiten mit den Waadtländer Behörden.
+<sup>2</sup> Die zuständige Dienststelle muss informiert werden und der Übertragung zustimmen, falls die Übertragung Aufgaben betrifft, die über einfache und regelmässige Aufgaben hinausgehen, und wenn eine Subventionierung erwartet wird.
 
 #### Art. 5
 
-**Spezifische Begriffe**
+**Beziehungen zu Nachbarkantonen und Nachbarländern beim Wasserbau an Fliessgewässern und Seen**
 
-<sup>1</sup> Die spezifischen Begriffe sind in einem Glossar definiert, das im Anhang dieser Verordnung steht.
+<sup>1</sup> Die zuständige Behörde berücksichtigt bei der Ausführung von Unterhalts- und Wasserbaumassnahmen an der Rhone, dem Genfersee sowie den kommunalen Fliessgewässern und Seen die Interessen der Anrainergemeinden und -kantone sowie der Nachbarländer.
 
-<sup>2</sup> Sie betreffen namentlich den Unterhalt der Gewässer, das Vorhersage- und Warnsystem, das Schutzziel, die Restrisikobewirtschaftung, die potenziellen Überschwemmungsgebiete, die Retentionsflächen für die Minderung der Hochwasserspitzen, die Renaturierungsmassnahmen, den Flussbereich und den Gewässerraum, das Hochwasserbett und das Niederwasserbett, die aktiven Schutzmassnahmen, die passiven Schutzmassnahmen, die organisatorischen Massnahmen, die dringlichen Arbeiten und die zusätzlichen Schäden, die durch Wasserbaumassnahmen verursacht werden.
+<sup>2</sup> Der Kanton koordiniert seine Tätigkeiten auf dem gemeinsamen Flussabschnitt der Rhone mit den Waadtländer Behörden.
+
+<sup>3</sup> Der Kanton koordiniert seine Tätigkeiten am Genfersee mit denjenigen der französischen, der Waadtländer und der Genfer Behörden.
 
 #### Art. 6
 
-**Funktionen der Gewässer**
+**Zuständigkeiten für das kantonale Inventar der Fliessgewässer und Seen**
 
-Alle wasserbaulichen Massnahmen bezwecken die Erhaltung, Verbesserung oder Wiederherstellung der folgenden Funktionen:
+<sup>1</sup> Die dem Gesetz und dieser Verordnung unterstellten Fliessgewässer und Seen werden im kantonalen Inventar der Fliessgewässer und Seen erfasst. Die diesbezüglichen Pläne werden von der Dienststelle nachgeführt.
 
-- a) Sicherheitsfunktion: Sicherstellung des Schutzes von Personen, Tieren und erheblichen Sachwerten in differenzierter und nachhaltiger Weise;
+<sup>2</sup> Die Grundsätze, die bestimmend sind für die Klassierung der Fliessgewässer und Seen im kantonalen Inventar, bilden Gegenstand einer Richtlinie des Departements, welches für die Fliessgewässer und Seen sowie die Naturgefahren zuständig ist (nachfolgend: Departement).
 
-- b) Umweltfunktion: Erhalt, Verbesserung oder Wiederherstellung der Biotope für die Wasser- und Uferfauna und Wasser- und Uferflora, der Vernetzung der natürlichen Räume, der Wasserqualität und der Landschaftsqualität;
-
-- c) Sozioökonomische Funktion: Ermöglichung oder Integration der Entwicklung von touristischen oder Freizeitaktivitäten sowie der Nutzung der natürlichen Ressourcen im Zusammenhang mit dem Gewässer.
+## 3 Integrales Risikomanagement
 
 #### Art. 7
 
-**Projekte von geringer Bedeutung**
+**Integrales Risikomanagement, Handlungsbedarf**
 
-<sup>1</sup> Als Projekte von geringer Bedeutung gelten Arbeiten, welche die punktuelle Instandstellung eines Bauwerks oder eines Gewässers betreffen. Diese Arbeiten beziehen sich insbesondere auf die Instandstellung von Anrisszonen, die Behebung von Schäden (Ersatz von Blockwürfen oder von Blockrampen, Wiederherstellung von Schwellen, Instandstellung von Uferbereichen), die Unterfangung, die Schutzmassnahmen für bestehende Gebäude sowie die örtliche Stabilisierung von Böschungen.
+<sup>1</sup> Das integrale Risikomanagement umfasst die Risikoanalyse sowie die integrale Massnahmenplanung.
 
-<sup>2</sup> Arbeiten, die den vorherigen Zustand des Gewässers oder des Wasserbauwerks dadurch verändern, dass sie die Abfluss- und Umweltbedingungen erheblich beeinflussen, gelten als Wasserbau und unterliegen dem Plangenehmigungsverfahren.
+<sup>2</sup> Die Risikoanalyse ist ein Verfahren, mit dem Risiken identifiziert und in Bezug auf die Gefahr und das Schadensausmass quantifiziert werden.
 
-<sup>3</sup> Arbeiten, die ein Sicherheits-, Umwelt- oder Landschaftsdefizit im Gewässerraum verursachen oder erhöhen können, gelten als Wasserbau und unterliegen dem Plangenehmigungsverfahren.
+<sup>3</sup> Die integrale Massnahmenplanung besteht aus einer optimalen Massnahmenkombination von Prävention, Führung, Einsatz und baulichen Massnahmen, um die Risiken auf ein akzeptables und wirtschaftlich vertretbares Mass zu reduzieren
+
+<sup>4</sup> Der Handlungsbedarf wird auf Basis der Risikoanalyse und der Schutzziele ermittelt.
+
+<sup>5</sup> Im Falle einer erwiesenen Gefahr müssen die Gemeinden auf ihrem Gemeindegebiet das integrale Risikomanagement anwenden. Zumindest die Informationspflicht muss eingehalten werden.
 
 #### Art. 8
 
-**Projektänderungen**
+**Zuständigkeiten der Gemeinden ausserhalb der Bauzone**
 
-<sup>1</sup> Änderungen können sowohl an einem genehmigten Projekt als auch im Laufe der Arbeiten vorgenommen werden; sie müssen entweder durch neue technische Sachzwänge oder durch eine zusätzliche Optimierung der Sicherheits-, Umwelt- oder sozioökonomischen Funktion gerechtfertigt sein.
-
-<sup>2</sup> Bedeutende Änderungen eines genehmigten Projekts erfordern ein neues Plangenehmigungsverfahren.
-
-<sup>3</sup> Änderungen von geringer Bedeutung eines genehmigten Projekts sind Gegenstand einer persönlichen Anzeige der von den Änderungen direkt betroffenen natürlichen oder juristischen Personen.
-
-<sup>4</sup> Eine Änderung gilt als von geringer Bedeutung, wenn:
-
-- a) kein wichtiges Interesse der betroffenen Anrainer berührt ist;
-
-- b) die Hauptmerkmale des Projekts unverändert bleiben, d. h. namentlich das allgemeine Konzept, die Errichtung des Bauwerks oder die geplante Linienführung. Abweichungen können zugelassen werden.
-
-### 2. Abschnitt: Organisation
+<sup>1</sup> Ausserhalb der Bauzone nehmen die Gemeinden für die Schutzgüter, die laut ihrer Schutzziele definiert sind, eine Interessenabwägung vor, um den Handlungsbedarf zu ermitteln.
 
 #### Art. 9
 
-**Zuständigkeiten**
+**Schutzziele**
 
-<sup>1</sup> Der Staatsrat schliesst im Rahmen seiner finanziellen Kompetenzen die Programmvereinbarungen mit dem Bund ab.
-
-<sup>2</sup> Das Departement ist zuständig:
-
-- a) für die Genehmigung der vierjährlichen und jährlichen Planung des Unterhalts der kommunalen Gewässer.
-
-- b) für die Verhandlung der Programmvereinbarungen.
-
-<sup>3</sup> Die Dienststelle für Strassen- und Flussbau ist beauftragt:
-
-- a) mit der Ausarbeitung des Sachplans der Gewässer und der Wasserbaupläne für die Rhone und den Genfersee.
-
-- b) mit der Beratung und Unterstützung der Gemeinden bei der Ausarbeitung der kommunalen Wasserbaupläne und Ausführungsprojekte; sie achtet insbesondere auf die Einhaltung der gesetzlichen Grundlagen und der einschlägigen Normen.
-
-- c) mit der Erarbeitung der notwendigen Grundlagen für den Hochwasserschutz und die Renaturierung der Gewässer, insbesondere:
-
-- die Planung der Gefahrengrundlagen und der Wasserbau-Prioritäten nach Anhörung der Gemeinden;
-
-- die Vorschläge von Programmvereinbarungen;
-
-- das Controlling der Programmvereinbarungen im Einvernehmen mit dem Bund;
-
-- die Grundlagenprojekte, insbesondere im Bereich der Hochwasservorhersagen, der Alarmsysteme, der Messnetze und der geographischen Informationssysteme sowie für die Gefahrengrundlagenstudien, die in Zusammenarbeit mit dem Bund und den Forschungsinstituten durchgeführt werden;
-
-- d) mit der Zusammenarbeit mit der Dienststelle für Wald und Landschaft für die Bestimmung der Massnahmen betreffend die Bewaldung und die Ufervegetation im Gewässerraum.
-
-<sup>4</sup> Die Dienststelle für Raumplanung ist mit dem Genehmigungsverfahren des Sachplans der Gewässer beauftragt.
-
-<sup>5</sup> Der Verwaltungs- und Rechtsdienst des für den Wasserbau zuständigen Departements ist mit dem Genehmigungsverfahren für die Wasserbaupläne und die kantonalen und kommunalen Ausführungsprojekte beauftragt.
+<sup>1</sup> Für Objekte, deren Schutz im Zuständigkeitsbereich des Kantons liegt, und für die Bereiche, bei denen Schutzmassnahmen durch den Kanton subventioniert werden, legt das Departement Schutzziele fest, die von der Art des gefährdeten Objekts und dessen Gefährdung abhängen.
 
 #### Art. 10
 
-**Gemeindebehörde; Gemeindeverband**
+**Schutzbautenkataster**
 
-<sup>1</sup> Die Gemeindebehörde im Sinne des Gesetzes und der Verordnung ist der Gemeinderat. Er ist zuständig für:
+<sup>1</sup> Die Dienststelle erarbeitet und führt den Schutzbautenkataster derjenigen Schutzbauten nach, die sie mitfinanziert hat.
 
-- a) die Erstellung der Wasserbaupläne und der Ausführungsprojekte für die kommunalen Gewässer auf ihrem Gebiet;
-
-- b) den Unterhalt der auf ihrem Gebiet befindlichen kommunalen Gewässer sowie die vierjährliche und jährliche Planung des Unterhalts. Diese Planung wird dem Departement zur Genehmigung unterbreitet;
-
-- c) die Ergreifung Notmassnahmen bei Unwetter.
-
-<sup>2</sup> Bei der Erfüllung ihrer Aufgaben können die Gemeinden gemäss den Bestimmungen des Gemeindegesetzes zusammenarbeiten.
-
-<sup>3</sup> Falls der Staatsrat die Schaffung eines Gemeindeverbands zu verordnen hat, ist die Dienststelle für innere Angelegenheiten mit dem diesbezüglichen Verfahren beauftragt.
+<sup>2</sup> Betreffend die anderen Schutzbauten entscheidet die Dienststelle je nach deren Bedeutung, ob diese in den Schutzbautenkataster aufgenommen werden sollen. Die Dienststelle informiert gegebenenfalls deren Eigentümer.
 
 #### Art. 11
 
-**Übertragung des Unterhalts der kantonalen Gewässer**
+**Inhalt des Gefahrenkartendossiers**
 
-<sup>1</sup> Der Kanton kann folgende Unterhaltsarbeiten an kantonalen Gewässern an die Gemeinden übertragen oder Dritte damit beauftragen:
+<sup>1</sup> Das Gefahrenkartendossier enthält in der Beilage diejenigen Dokumente, die für die öffentliche Auflage der Gefahrenzonen erforderlich sind.
 
-- a) die Überprüfung des Zustands der Uferbereiche und der Dämme;
+<sup>2</sup> Die für die öffentliche Auflage der Gefahrenzonen erforderlichen Dokumente sind die Vorschriften und die Gefahrenzonenpläne
 
-- b) die Durchführung der laufenden Unterhaltsarbeiten (Pflegen der Vegetation, Entfernung von Schwebstoffen, Wiederaufstellen von Blöcken etc.).
+<sup>3</sup> Der Bericht zu der Gefahrenkarte beinhaltet ein Kapitel, in dem die von den Gefahrenzonen betroffenen Bauzonen und wichtigen Infrastrukturanlagen beschrieben sind.
 
-- c) die Ergreifung von Notmassnahmen bei Unwetter.
-
-<sup>2</sup> Die mit delegierten Aufgaben betrauten Gemeinden informieren den Kanton über:
-
-- a) den Zustand der Uferbereiche und der Dämme;
-
-- b) die jährlich und für vier Jahre vorgesehenen Arbeiten.
-
-<sup>3</sup> Im Falle der Feststellung einer erheblichen Anomalie informiert die Gemeinde unverzüglich den Kanton.
-
-<sup>4</sup> Die Übertragung von Unterhaltsarbeiten an die Gemeinden ist Gegenstand einer entsprechenden Entschädigung, die in einem Leistungsauftrag festgelegt wird.
-
-<sup>5</sup> Die Modalitäten werden in einem Entscheid des Staatsrats oder des Departements im Rahmen ihrer Finanzkompetenzen geregelt. Das Departement stellt die Aufsicht der delegierten Aufgaben sicher.
+<sup>4</sup> Die Gefahrenzonenpläne werden ausserhalb der Bauzone grundsätzlich im Massstab 1:5'000 oder 1:10'000, beziehungsweise 1:2'000 innerhalb der Bauzone erstellt.
 
 #### Art. 12
 
-**Übertragung des kommunalen Unterhalts**
+**Alarm- und Einsatzpläne**
 
-<sup>1</sup> Die Gemeinden können Dritte mit der Durchführung von laufenden Unterhaltsarbeiten an kommunalen Gewässern (Pflegen der Vegetation, Entfernung von Schwebstoffen, Wiederaufstellen von Blöcken etc.) beauftragen.
+<sup>1</sup> Die wesentlichen Dokumente der Alarm- und Einsatzpläne sind in den entsprechenden kantonalen und eidgenössischen Empfehlungen beschrieben.
 
-<sup>2</sup> Die Gemeinden überwachen regelmässig die übertragenen Arbeiten.
+<sup>2</sup> Mit Hilfe von Alarm- und Einsatzplänen können Schäden begrenzt werden. Priorität hat der Schutz von Personen, anschliessend folgt der Schutz von erheblichen Sachwerten und der Umwelt.
+
+<sup>3</sup> Der Alarm- und Einsatzplan wendet sich an alle Partnerorganisationen des Bevölkerungsschutzes. Zusätzlich zu seiner Erarbeitung müssen auch seine Anwendung und Umsetzung durch die Partnerorganisationen sichergestellt werden.
+
+<sup>4</sup> Der Alarm- und Einsatzplan wird von den zuständigen Behörden in Übereinstimmung mit den Richtlinien des Bundes vorrangig für alle Gefahrenprozesse erstellt, die eine gewisse Vorhersehbarkeit haben.
+
+<sup>5</sup> Für plötzlich auftretende Naturgefahren, für die die Reaktionszeit ungenügend ist, namentlich für Steinschlag und Gewitter, wird ein vereinfachter Alarm- und Einsatzplan empfohlen.
 
 #### Art. 13
 
-Richtlinien und Festlegung der Prioritäten für die Unterhaltsarbeiten
+**Gewässerraum der Fliessgewässer und Seen**
 
-<sup>1</sup> Der Kanton legt im Einvernehmen mit den Gemeinden die Prioritätenordnung für die Unterhaltsarbeiten fest.
+<sup>1</sup> Das Auflagedossier beinhaltet die Pläne, die Vorschriften und einen Bericht, der die technischen Elemente zusammenfasst, die für die Festlegung des Gewässerraums der Fliessgewässer und Seen verwendet worden sind.
 
-<sup>2</sup> Das Departement kann Richtlinien betreffend die Unterhaltsarbeiten erlassen.
+<sup>2</sup> Die Pläne des Dossiers werden ausserhalb der Bauzone grundsätzlich im Massstab 1:5'000 oder 1:10'000, beziehungsweise 1:2'000 innerhalb der Bauzone erstellt.
 
-### 3. Abschnitt: Gefahrenzonen
+<sup>3</sup> Die Anforderungen betreffend die Unterlagen der öffentlichen Auflage sind in Die Anforderungen betreffend die Unterlagen der öffentlichen Auflage sind in
+
+<sup>4</sup> Die Unterlagen für die öffentliche Auflage, die Bauten im Gewässerraum von Fliessgewässern und Seen betreffen, müssen die Begründung des Projekts gemäss den in der Eidgenössischen Gewässerschutzverordnung (Art. 41c GschV) beschriebenen Bedingungen enthalten.
 
 #### Art. 14
 
-**Definitionen**
+**Revitalisierung der Fliessgewässer und Seen**
 
-<sup>1</sup> Gefahrenzonen bilden Gegenstand von Plänen und Vorschriften, welche die Eigentumsbeschränkungen und die baulichen Anforderungen festlegen.
+<sup>1</sup> Die Eigentümer von Fliessgewässern und Seen müssen mit Unterstützung der Dienststelle die Revitalisierungsprojekte erarbeiten, die in der kantonalen Planung berücksichtigt oder auf regionaler Ebene bestimmt worden sind.
 
-<sup>2</sup> Als Gefahrenkarten gelten technische Dokumente, die als Grundlage für die Ausscheidung der Gefahrenzonen dienen. Sie werden in die Wasserbaupläne im Sinne von Artikel 14 des Gesetzes integriert.
+<sup>2</sup> Die Dienststelle überwacht die Umsetzung der Revitalisierungsprojekte durch die Eigentümer von Fliessgewässern und Seen, insbesondere für Projekte, die in der kantonalen Planung vorgesehen sind.
+
+<sup>3</sup> Sie legt zusammen mit den Eigentümern der Fliessgewässer und Seen sowie den betroffenen Dienststellen die Rahmenbedingungen für die Ausarbeitung der Projekte fest.
 
 #### Art. 15
 
-**Inhalt und Form der Pläne**
+**Wasserbaupläne der Fliessgewässer und Seen**
 
-<sup>1</sup> Die Pläne der Gefahrenzonen bezeichnen insbesondere:
+<sup>1</sup> Wenn die zuständigen Behörden beschlossen haben, einen Wasserbauplan gemäss Artikel 16 Absatz 3 des Gesetzes zu erstellen, dient dieser als Grundlage für Auflageprojekte.
 
-- a) die Art der Hochwassergefahr (Überschwemmungen, Murgänge, Erosionen, Anschwemmungen);
+<sup>2</sup> Die Wasserbaupläne für Fliessgewässer und Seen berücksichtigen in ausgewogener Weise die Sicherheits-, Umwelt- und sozioökonomischen Interessen in den jeweiligen Einzugsgebieten.
 
-- b) die Gefahrenstufen hoch, mittel, gering oder Restgefährdung, erstellt nach Intensität und Eintretenswahrscheinlichkeit. Die Gefahrenstufe kann in Berücksichtigung der Hochwasserablaufs- und Evakuierungszeit abgeändert werden.
+<sup>3</sup> Sie beinhalten hauptsächlich:
 
-- c) die wichtigsten schutzwürdigen Objekte, insbesondere die Wohn-, Industrie- und Gewerbezonen, die Infrastrukturen und empfindlichen Objekte (lebenswichtige Anlagen), die weiteren Zonen menschlicher Tätigkeit, die je nach dem wie sie sich mit den oben beschriebenen Gefahrenzonen überschneiden, geschützt werden müssen.
+- a) einen sektorübergreifenden technischen Bericht über die Gewässer und deren Bewirtschaftung im Einzugsgebiet;
+- b) ein Plandossier, aus dem insbesondere der Gewässerraum und die untersuchten Varianten hervorgehen;
+- c) die Begründung der Notwendigkeit der geplanten Massnahmen und der berücksichtigten Variante;
+- d) eine Übersicht über die vorhandenen Naturgefahren vor und nach den Massnahmen;
+- e) eine Analyse der Auswirkungen des Projektes auf die Umwelt und auf diejenigen Bereiche, die von der berücksichtigten Variante betroffen werden;
+- f) falls erforderlich, den Landbedarf sowie die Vorschläge zur Kompensation von landwirtschaftlichen Nutzflächen und von Fruchtfolgeflächen, zur Änderung von genehmigten Gewässerräumen und von Zonennutzungsplänen sowie der damit einhergehenden Bestimmungen
 
-<sup>2</sup> Die Gefahrenkarten werden ausserhalb der Bauzone grundsätzlich im Massstab 1:5'000 oder 1:10'000, bzw. 1:2'000 innerhalb der Bauzone erstellt.
+<sup>4</sup> IIm Bereich der Einmündungen sorgt der Kanton dafür, dass die Wasserbaumassnahmen der Seitengewässer und der Rhone koordiniert werden.
+
+<sup>5</sup> Wasserbaupläne werden grundsätzlich im Massstab 1:10'000, falls erforderlich im Massstab 1:5'000 erstellt.
+
+<sup>6</sup> Der Detaillierungsgrad der durchzuführenden Studien ist von den betroffenen Dienststellen von Fall zu Fall zu definieren, um den verschiedenen zu analysierenden Themenbereichen Rechnung zu tragen.
 
 #### Art. 16
 
-**Vorschriften**
+**Kontrolle und Unterhalt der Schutzbauten, Fliessgewässer und Seen**
 
-<sup>1</sup> Die Vorschriften legen die nötigen Anforderungen fest, um die Sicherheit von Personen, Tieren und bedeutenden Sachwerten zu gewährleisten.
+<sup>1</sup> Die gemäss Artikel 4 und 5 des Gesetzes verantwortlichen Behörden oder Dritte erarbeiten eine Planung für die Kontrolle und den Unterhalt der Schutzbauten, Fliessgewässer und Seen. Diese Planungen müssen die Anforderungen der geltenden Spezialgesetzgebungen berücksichtigen.
 
-<sup>2</sup> Innerhalb der Zonen mit erhöhter Gefahr wird keine Baute bewilligt. Die für die Gewässer zuständige kantonale Dienststelle legt in ihrer Vormeinung ausnahmsweise aufgrund eines Gutachtens für den gesamten Perimeter die Möglichkeiten und die Voraussetzungen für die Überbauung in diesem Perimeter fest.
+<sup>2</sup> Der Kanton erarbeitet eine Mehrjahresplanung für den Unterhalt der kantonalen Fliessgewässer und Seen.
 
-<sup>3</sup> In den Zonen mit mittlerer Gefahr wird für jeden Neubau, Umbau einer bestehenden Baute zwecks Vergrösserung der Wohnfläche oder Nutzungsänderung ein Gutachten eines spezialisierten Büros verlangt. Dieses Gutachten, das als Grundlage für die Erstellung der Vormeinung der für die Gewässer zuständigen kantonalen Dienststelle dient, schlägt entsprechend den möglichen Hochwassergefahren die baulichen Anforderungen vor.
+<sup>3</sup> Die Gemeinden erarbeiten eine Mehrjahresplanung für den Unterhalt der Fliessgewässer und Seen. Diese Planung wird jährlich erneuert.
 
-<sup>4</sup> In den Zonen mit geringer Gefahr oder mit Restgefährdung können fallweise Schutzmassnahmen (Verstärkung der Bauten, Verkehrsbeschränkungen usw.) verlangt werden.
-
-16bis <sup>1</sup> Sonderregelungen für die Überflutungsgefahr der Rhone
-
-<sup>1</sup> Es werden keine geplanten Bauten und Anlagen (Neubau, teilweiser oder totaler Umbau, teilweise oder totale Nutzungsänderung) in Zonen mit erheblicher Gefährdung bewilligt. Ausnahmsweise kann die im Bereich für Flussbau zuständige kantonale Dienststelle eine positive Vormeinung abgeben, wenn alle nachfolgenden Bedingungen erfüllt sind:
-
-- a) das Gebiet ist bereits als Bauzone ausgeschieden;
-
-- b) die Bauzone ist bereits weitgehend überbaut;
-
-- c) die geplanten Bauten und Anlagen führen nicht zu einer bedeutenden Erhöhung des Risikos;
-
-- d) die Gefahr besteht in einer statischen Überschwemmung;
-
-- e) die Standfestigkeit des Bauvorhabens ist durch entsprechende bauliche Massnahmen, auf der Grundlage eines Expertengutachtens, gewährleistet;
-
-- f) das Untergeschoss ist unbewohnbar;
-
-- g) eine oder mehrere Vorkehrungen zur Begrenzung von Sachschäden sind vorgesehen;
-
-- h) die Gemeinde verfügt über einen Alarmierungs- und Notfallplan, der durch die zuständige kantonale Fachstelle für gültig erklärt worden ist;
-
-- i) die Bauzonen befinden sich nach Vollendung der 3. Rhonekorrektion nicht mehr in der Zone mit erheblicher Gefährdung (gemäss generellem Projekt);
-
-- j) es besteht keine andere erhebliche natürliche Gefährdung für das Gebiet.
-
-<sup>2</sup> In den Zonen mit mittlerer Gefährdung kann die im Bereich von Flussbau zuständige kantonale Dienststelle für jeden Neubau, Umbau einer bestehenden Baute zwecks Vergrösserung der Wohnfläche oder Nutzungsänderung eine positive Vormeinung abgeben, wenn alle nachfolgenden Bedingungen erfüllt sind:
-
-- a) die Standfestigkeit des Bauvorhabens ist durch entsprechende bauliche Massnahmen, auf der Grundlage eines Expertengutachtens, gewährleistet;
-
-- b) das Untergeschoss ist unbewohnbar;
-
-- c) eine oder mehrere Vorkehrungen zur Begrenzung von Sachschäden sind vorgesehen.
-
-<sup>3</sup> In den Zonen mit geringer Gefährdung und mit Restgefährdung empfiehlt die im Bereich für Flussbau zuständige kantonale Dienststelle, eine oder mehrere Massnahmen zur Begrenzung von Sachschäden einzuplanen. In der Zone mit geringer Gefährdung bleibt das Untergeschoss unbewohnbar.
-
-<sup>4</sup> Die Bestimmungen des Gesetzes über die Organisation im Falle von Katastrophen und ausserordentlichen Lagen bleiben vorbehalten.
+<sup>4</sup> Die Dienststelle erarbeitet Empfehlungen, die für jeden Fachbereich die Aufgaben beschreiben, die beim Unterhalt der Schutzbauten, Fliessgewässer und Seen zu berücksichtigen sind. Die zuständige Behörde oder Dritte im Sinne der Artikel 4 und 5 des Gesetzes müssen diese berücksichtigen.
 
 #### Art. 17
 
-**Ausarbeitung der Projekte und Verfahren**
+**Präventionsmassnahmen und Entschädigungen von Wasserkraftanlagen**
 
-<sup>1</sup> Die zuständige Behörde erarbeitet die Projekte der Gefahrenzonen der Rhone und der kommunalen Gewässer nach den Richtlinien des Departments. Die Gemeinden, die von der Rhone betroffen sind, werden angehört.
+<sup>1</sup> Im Falle einer Hochwasservorhersage, die potenziell die Bevölkerung gefährden oder erhebliche Schäden verursachen könnte, trifft der Staatsrat, oder das kantonale Führungsorgan (KFO) in seinem Auftrag, in Zusammenarbeit mit den Betreibern der Wasserkraftanlagen die notwendigen Entscheidungen, um die Abflüsse in den Hauptfliessgewässern zu reduzieren, insbesondere durch die Durchführung der erforderlichen Wasserabgaben zwecks der vorsorglichen Schaffung von Hochwasserrückhaltevolumen oder für die Speicherung während der Hochwasserspitze in den grossen Stauanlagen.
 
-<sup>2</sup> Auf eine öffentliche Auflage kann verzichtet werden, falls es sich um Projekte von Gefahrenzonen von geringer Bedeutung oder geringfügigen Änderungen handelt, falls die betreffenden Eigentümer schriftlich ihr Einverständnis gegeben haben oder falls ihnen die Gelegenheit zur Einsprache eingeräumt wurde.
+<sup>2</sup> Der Staatsrat, oder das KFO in seinem Auftrag, kann von den Betreibern von Wasserkraftanlagen verlangen, dass sie ihm die Planung der geplanten Massnahmen vorlegen. Bei Bedarf kann ein anderer Betrieb angeordnet werden.
 
-<sup>3</sup> Die Gefahrenzonen werden bei jeder Änderung der Umstände, die Auswirkungen auf das Eigentumsrecht haben können, angepasst.
+<sup>3</sup> Die Auferlegung anderer betrieblicher Massnahmen als geplant erfolgt mittels polizeilicher Anordnung.
+
+<sup>4</sup> Die Berechnung des Schadensbetrags erfolgt durch einen Vergleich zwischen dem geplanten und dem aufgrund der polizeilichen Anordnung durchgeführten Programm. Die Unterschiede zwischen den Programmen sowie die Auswirkungen hiervon, insbesondere die definitiven Wasserstände sowie das abgeleitete Wasservolumen, werden detailliert untersucht, um die tatsächlichen Volumenverluste, die eine Auswirkung auf die Stromerzeugung haben, zu ermitteln. Diese Verluste werden auf Basis der Selbstkosten für die Stromerzeugung in der betreffenden Anlage entschädigt.
+
+<sup>5</sup> Wenn mittels einer polizeilichen Anordnung andere betriebliche Massnahmen angeordnet werden, ist eine Entschädigung in Betracht zu ziehen, sobald der wirtschaftliche Schaden mehr als 2 Prozent der durchschnittlichen Kosten für die Stromerzeugung in den letzten drei Jahren beträgt, die zu Lasten des Betreibers der Wasserkraftanlage gehen. Die Entschädigung erfolgt nur für die Überschreitung dieser 2 Prozent Schwelle.
+
+<sup>6</sup> Es werden keine Entschädigungen für den Verlust von Flexibilität oder für Strafen, die von Partnern der Produktionsgesellschaften oder von der für das Stromübertragungsnetz zuständigen nationalen Gesellschaft in Rechnung gestellt werden, gewährt.
+
+<sup>7</sup> Die effektiven Volumenverluste gelten als nicht nutzbare Wassermenge im Sinne von Artikel 22 Absatz 1 des Reglements betreffend die Ausführung des Gesetzes über die Nutzbarmachung der Wasserkräfte (RAkWRG).
+
+<sup>8</sup> Die Entschädigungen werden dem Fonds zur Deckung nicht versicherbarer Elementarschäden gemäss Artikel 69 des Gesetzes über die Nutzbarmachung der Wasserkräfte (kWRG) entnommen.
+
+<sup>9</sup> Um die Folgen einer polizeilichen Anordnung durch den Staatsrat oder das KFO abschätzen zu können, werden im Vorfeld einer Vereinbarung Verhandlungen in Anwesenheit der betroffenen Dienststellen, insbesondere der für die Energie, für die zivile Sicherheit und für die Naturgefahren zuständigen Dienststellen, sowie der Vertreter der Betreiber der Wasserkraftanlagen geführt, um das Verfahren für die polizeiliche Anordnung sowie die Methode und die Parameter für die Entschädigung festzulegen.
 
 #### Art. 18
 
-**Übergangszeit**
+**Organisatorische Massnahmen**
 
-<sup>1</sup> Bereits auf Grund der Gefahrenkarten kann die für die Baubewilligungen zuständige Behörde von Fall zu Fall von den Vorschriften der Bau- und Zonenreglemente der Gemeinden abweichen. Sie stützt sich auf die Stellungnahme der für die Gewässer zuständigen kantonalen Dienststelle. Die Regeln der Territorialverwaltung und die Vorschriften zu den geplanten Bauten im Gefahrenbereich der Rhone gemäss der Richtlinie des Departements bleiben vorbehalten.
+<sup>1</sup> Die organisatorischen Massnahmen umfassen hauptsächlich Systeme zur Vorhersage und Warnung, die Erstellung von Alarm- und Einsatzplänen sowie deren Umsetzung.
 
-<sup>2</sup> Eine allgemeine Abweichung benötigt die Ausscheidung einer Planungszone gemäss Artikel 15 des Gesetzes.
+<sup>2</sup> Im Falle einer ernsten, direkten und unmittelbar drohenden Gefahr, und in Anwendung von Artikel 11 Absatz 2 des Gesetzes, werden Personen auf Anordnung der zuständigen Behörden in Sicherheit gebracht.
 
-<sup>3</sup> Während der Dauer des Genehmigungsverfahrens von Gefahrenzonen kann die zuständige Behörde die Behandlung von Baugesuchen gemäss Artikel 20 des Gesetzes aussetzen, bis die Pläne und die Vorschriften in Kraft treten.
+<sup>3</sup> Für die Rhone und den Genfersee erstellt der Kanton durch die Dienststelle für jeden betroffenen Sektor Interventionsblätter zuhanden der für die zivile Sicherheit zuständigen Dienststelle. Diese leitet die Interventionsblätter an den Gemeindeführungsstab (GFS) oder den regionalen Führungsstab (RFS) derjenigen Gemeinden weiter, an welche die Intervention bei Hochwassergefahr der Rhone übertragen worden ist.
 
-<sup>4</sup> Die Möglichkeit, Planungszonen gemäss der Gesetzgebung über die Raumplanung auszuscheiden, um jegliche Änderung des Zonennutzungsplans der Gemeinde sicherzustellen, bleibt vorbehalten.
+<sup>4</sup> Die Koordination zwischen den beteiligten Stellen im Falle eines Einsatzes ist in den entsprechenden Koordinationsplänen beschrieben.
 
-### 4. Abschnitt: Wasserbau
+<sup>5</sup> Die Gemeinden, an die der Kanton die Intervention übertragen hat, überwachen mittels ihres GFS oder des RFS die Hochwasser an der Rhone und beschliessen die notwendigen Mittel zur Verringerung des Risikos.
 
 #### Art. 19
 
-**Passive Schutzmassnahmen**
+**Dringliche Massnahmen und Instandsetzungen**
 
-Die passiven Schutzmassnahmen gehören zum Raumplanungsrecht und betreffen insbesondere:
+<sup>1</sup> Als dringlichen Massnahmen gelten sofortige Sicherungsarbeiten und Studien, die während oder unmittelbar nach einem Ereignis getroffen werden müssen, um weitere Schäden zu vermeiden. Dringlichen Massnahmen können auch im Falle eines vorhersehbaren und unmittelbar bevorstehenden Ereignisses ergriffen werden. Die zuständigen Behörden melden diese so früh wie möglich der Stelle, die für die Durchführung des Subventionsverfahrens zuständig ist.
 
-- a) die Anpassung der Zonennutzungspläne unter Berücksichtigung des kantonalen -Sachplans der Gewässer bzw. des Wasserbauplans;
+<sup>2</sup> Die Instandsetzungen nach Artikel 30 Absätze 3 und 4 des Gesetzes werden soweit möglich auf der Grundlage von Ausführungsplänen ausgeführt. Wenn die Sicherheitsanforderungen oder der Umfang der Arbeiten oder die geografische oder meteorologische Situation dies nicht zulassen, können sie ohne Ausführungspläne umgesetzt werden. In jedem Fall ist ein Dossier über die ausgeführten Instandsetzungsarbeiten zu erstellen. Der Inhalt dieses Dossiers wird dem Umfang der Arbeiten angepasst.
 
-- b) die Festlegung entsprechender Vorschriften in den Bau- und Zonenreglementen.
+<sup>3</sup> Bei unmittelbar drohender Gefahr, sowie bei der Ausführung von dringlichen Massnahmen und für Instandsetzungsarbeiten, kann die gemäss Artikel 4 des Gesetzes für das integrale Risikomanagement zuständige Behörde auf dem Requisitionsweg jedes den Umständen nach erforderliche Mittel beschaffen.
+
+<sup>4</sup> Die Requisition hat zur Folge, dass die Behörde gegen Entschädigung frei über eine Sache oder ein Grundstück verfügen kann. Der Requisitionsentscheid ist endgültig und sofort vollstreckbar.
+
+<sup>5</sup> Für den Gebrauch, den Minderwert oder den Verlust des requirierten Gutes wird eine angemessene Entschädigung ausgerichtet. Das Verfahren für die Requisition sowie die Bestimmungen für die Entschädigung sind in Artikel 37-44 der Verordnung über den Bevölkerungsschutz und die Bewältigung von besonderen und ausserordentlichen Lagen (VBBAL) geregelt.
+
+<sup>6</sup> Das Genehmigungsdossier für dringliche Massnahmen und Instandsetzungen, deren Ausmass über die Wiederherstellung des Ausgangszustands hinausgehen und die nach Artikel 30 Absatz 5 des Gesetzes der Genehmigung durch den Staatsrat unterliegen, enthält unter anderem:
+
+- a) einen kurzen technischen Bericht mit einer Fotodokumentation;
+- b) einen Übersichtsplan mit dem Projektperimeter;
+- c) einen Situationsplan der ausgeführten Massnahmen;
+- d) Normalprofile, Längenprofile oder Typenprofile mit Angabe der Dimensionierungsgrössen;
+- e) Angaben zu enteigneten oder requirierten Gütern;
+- f) die Kosten der ausgeführten Massnahmen;
+- g) eine Analyse der Auswirkungen des Projektes auf die Umwelt.
+
+## 4 Bestimmungen für Bauvorhaben in Gefahrengebieten
 
 #### Art. 20
 
-**Organisatorische Massnahmen**
+**Richtlinie zu den Gefahrenprozessen**
 
-<sup>1</sup> Zu den organisatorischen Massnahmen zählen hauptsächlich die Hochwasservorhersage und -warnsysteme sowie die Erstellung von Notfallinterventionsplänen und deren Ausführung.
-
-<sup>2</sup> Der Kanton richtet eine wissenschaftliche Krisenzelle ein, die folgende Aufgaben hat:
-
-- a) auf die Ausarbeitung der erforderlichen Grundlagen für die Prävention und das Management von Krisensituationen in Zusammenhang mit Hochwassergefahren zu achten;
-
-- b) Sicherstellung der wissenschaftlichen und technischen Überwachung der Krise;
-
-- c) Abgabe von Vormeinungen an die Instanzen, die bei einem Ereignis reagieren müssen (Einsatzzentrale der Kantonspolizei, Katastrophenzelle des Kantons, Gemeinden) hinsichtlich Warnungen, Alarmierung oder Evakuierung; gegebenenfalls und bei Ereignissen höherer Gewalt wird diese Zelle in das kantonale Führungsorgan aufgenommen und übernimmt dort eine Beratungsaufgabe;
-
-- d) Bewirtschaftung der Wasserkraftwerke in Zusammenarbeit mit deren Betreibern, um die Abflussmengen in den wichtigsten Wasserläufen zu reduzieren; insbesondere durch Sicherstellung der Verlagerung des Wassers für die Freigabe von Hochwasserrückhaltevolumen in den wichtigsten Stauwerken.
-
-<sup>3</sup> Die organisatorischen Massnahmen, die sich auf die Rhone und den Genfersee beziehen, umfassen folgende Aufgaben:
-
-- a) der Kanton definiert den Gefahrenperimeter, beschreibt die Gefahrensituationen, stellt die allgemeine Überwachung der Krise sicher;
-
-- b) die Gemeinden erstellen ihre Notfallinterventionspläne, übernehmen bei Hochwassern die Überwachung, entscheiden über den Einsatz von Mitteln und führen die Krisenarbeiten durch;
-
-- c) der Kanton unterstützt die Gemeinden bei ihrer Aufgabe durch die Erstellung eines kantonalen Notfall-Interventionsplans und die Einrichtung einer Notfall-Interventionszelle Rhone (IZR), die hauptsächlich für die Zentralisierung der Informationen, die Koordination von mehrere Gemeinden betreffenden Massnahmen auf deren Anforderung und die Anweisung der Gemeinden, spezifische Massnahmen durchzuführen, verantwortlich ist.
-
-<sup>4</sup> Die Gemeinden erstellen den Notfall-Interventionsplan für die auf ihrem Gebiet befindlichen Gewässer.
-
-<sup>5</sup> Der kommunale Notfall-Interventionsplan umfasst namentlich:
-
-- a) die Gefahrensituation;
-
-- b) die Liste und den Situationsplan der Schwachstellen;
-
-- c) die Liste und den Situationsplan der Interventions- und Bewirtschaftungsstellen;
-
-- d) den Katalog der Bewirtschaftungs- und Interventionsmassnahmen;
-
-- e) die Evakuierungsperimeter;
-
-- f) die Liste der verantwortlichen Personen und ihrer Stellvertreter;
-
-- g) die Liste der verfügbaren Geräte und Baumaschinen.
+<sup>1</sup> Das Departement erlässt eine Richtlinie, in der die zu ergreifenden Massnahmen pro gravitativen Naturgefahrenprozess und Gefahrenstufe beschrieben werden.
 
 #### Art. 21
 
-**Kantonaler Sachplan der Gewässer**
+**Spezifische Definitionen für die hydrologischen Gefahren**
 
-<sup>1</sup> Der Staatsrat erarbeitet den Entwurf des kantonalen Sachplans der Gewässer unter Berücksichtigung der kantonalen Planung. Der Entwurf des Sachplans wird in jeder betroffenen Gemeinde während 30 Tagen öffentlich aufgelegt. Die Auflage ist im Amtsblatt anzuzeigen. Das Vernehmlassungsverfahren dauert 90 Tage ab Veröffentlichung der Auflegungsmitteilung. Innerhalb dieser Frist kann jeder bei der betreffenden Gemeinde schriftlich Stellung nehmen.
+<sup>1</sup> Bei den hydrologischen Gefahren unterscheidet man die Gefahren durch Überschwemmung, Murgang und Oberflächenabfluss.
 
-<sup>2</sup> Nach der öffentlichen Vernehmlassung beurteilt der Staatsrat die eingegangenen Bemerkungen, setzt die betroffenen Behörden von seinem Entscheid bezüglich der Stellungnahmen in Kenntnis, passt bei Bedarf den Sachplan an und verabschiedet ihn. Sobald er in Kraft getreten ist, wird besagter Plan in jeder betroffenen Gemeinde hinterlegt.
+<sup>2</sup> Im Falle einer erheblichen Gefährdung durch Überschwemmung ist der Prozess der Überschwemmung entscheidend dafür, ob eine Ausnahme in Bezug auf das Bauverbot gemäss Artikel 12 Absatz 2 des Gesetzes möglich ist. Man unterscheidet:
 
-<sup>3</sup> Das Verfahren für die Ausarbeitung des Sachplans der Gewässer gilt auch für seine Änderungen. Für geringfügige Änderungen kann der Staatsrat im Einverständnis der betroffenen Gemeinden das öffentliche Vernehmlassungsverfahren beschränken und die Frist auf 30 Tage herabsetzen.
+- a) die statische Überschwemmung, bei der das Produkt aus Fliessgeschwindigkeit und Fliesshöhe kleiner als 2 m²/s sowie die Fliessgeschwindigkeit kleiner als 1 m/s sind;
+- b) die dynamische Überschwemmung in allen anderen Fällen.
 
-<sup>4</sup> Die im Sachplan definierten Grundsätze müssen bei der Ausarbeitung der Wasserbaupläne oder der Ausführungsprojekte für die verschiedenen Gewässer beachtet werden.
+<sup>3</sup> Die Murganggefahr wird einer dynamischen Überschwemmung gleichgesetzt.
+
+<sup>4</sup> Die Gefahr durch Oberflächenabfluss muss für jedes Bauvorhaben, bei Umbauten und Erneuerungen sowie Zweckänderungen anhand der vom Bund erstellten Gefährdungskarten Oberflächenabfluss berücksichtigt werden. Im Rahmen einer örtlichen Untersuchung sind die entsprechenden Szenarien festzulegen.
 
 #### Art. 22
 
-**Wasserbauplan**
+**Ausnahmebedingungen für neue Bauten und Anlagen in Gefahrengebieten mit erheblicher Gefährdung**
 
-<sup>1</sup> Der Wasserbauplan setzt die im Sachplan Gewässer festgelegten Grundsätze um, wobei die Sicherheits-, Umwelt- und sozioökonomischen Interessen entlang dem Gewässer sowie die Elemente der Wasserbewirtschaftung des betroffenen Einzugsgebiets in ausgewogener Weise berücksichtigt werden.
+<sup>1</sup> In Gefahrengebieten mit erheblicher Gefährdung kann eine Ausnahme vom Bauverbot für neue Bauten und Anlagen gemacht werden, falls die nachfolgenden Bedingungen kumulativ erfüllt sind:
 
-<sup>2</sup> Er berücksichtigt die Gefahrenkarten und dient als Grundlage für die Ausarbeitung der Ausführungsprojekte.
+- a) es liegt ein Fachgutachten eines spezialisierten Büros für das gesamte gefährdete Gebiet vor, in dem
+  - 1\. nachgewiesen wird, dass die Baute oder Anlage standortgebunden ist, mit Ausnahme der Fälle, die einer erheblichen Gefährdung durch statische Überschwemmung ausgesetzt sind,
+  - 2\. aufgezeigt wird, dass das Bauvorhaben zu keiner signifikanten Zunahme der Risiken für Personen und erhebliche Sachwerte führt, oder mit Ausnahme der Fälle, die einer erheblichen Gefährdung durch statische Überschwemmung ausgesetzt sind, sich der Aufenthalt auf die nur gelegentliche Anwesenheit von Personen beschränkt,
+  - 3\. die notwendigen baulichen und organisatorischen Schutzmassnahmen definiert werden, um die Widerstandsfähigkeit der Baute sicher zu stellen und materielle Schäden zu begrenzen;
+- b) die Gemeinde oder der Gesuchsteller verfügen über einen Alarm- und Einsatzplan, der nach dem neusten Stand des Wissens und den entsprechenden Normen erstellt worden ist;
+- c) die Vorwarnzeit ist genügend, damit eine rechtzeitige Sicherung möglich ist (insbesondere die Evakuierung);
+- d) es besteht keine andere erhebliche Gefährdung durch Naturgefahren für das Gebiet.
 
-<sup>3</sup> Er wird im Massstab 1:10'000, nötigenfalls im Massstab 1:5'000 erstellt.
+<sup>2</sup> In Gebieten mit erheblicher Gefährdung durch Überschwemmung muss das Untergeschoss der Baute oder der Anlage unbewohnbar sein.
 
-<sup>4</sup> Neben den Anforderungen gemäss Artikel 14 Abs. 2 des Gesetzes enthält er folgende Elemente:
+<sup>3</sup> Das von der Dienststelle verlangte Fachgutachten muss Teil der Gesuchsunterlagen sein, die von der Dienststelle gemäss den Bestimmungen von Artikel 12 Absatz 1 des Gesetzes zu beurteilen sind.
 
-- a) die Tragweite des Projekts und die genaue Abgrenzung des Gewässerraums;
-
-- b) die Umweltdiagnose und eine Bewertung des vom Ausbau betroffenen Sektors sowie die regionalen Naturschutzkonzepte und die biologischen Netzwerke;
-
-- c) die Komponenten der Wasserbewirtschaftung des Einzugsgebiets, namentlich die Wasserfassungen, die Materialentnahme, die Spülungen und Entleerungen, die Rückgaben;
-
-- d) einen Vergleich der in Frage kommenden Ausbauvarianten auf der Grundlage der Projektziele;
-
-**allenfalls einen**
-
-- e) eine Umweltverträglichkeitsnotiz, Umweltverträglichkeitsbericht für die gewählte Variante.
+<sup>4</sup> Umbauten, Erneuerungen und Zweckänderungen sind in Artikel 12 Absatz 2 Buchstabe b des Gesetzes geregelt.
 
 #### Art. 23
 
-**Inhalt des Ausführungsprojekts**
+**Bedingungen für Bauvorhaben in Gefahrengebieten mit mittlerer Gefährdung**
 
-<sup>1</sup> Der technische Bericht beschreibt die wesentlichen Elemente des Wasserbauplans und präzisiert sie. Er enthält namentlich die Angaben (Beschreibungen, Karten und Pläne) betreffend:
+<sup>1</sup> In Gefahrengebieten mit mittlerer Gefährdung werden für Neubauten, Umbauten, Erneuerungen oder Zweckänderungen von Bauten der Bauwerksklasse III (Bauwerksklasse III gemäss SIA Norm 261), unabhängig des Naturgefahrenprozesses, die Bestimmungen von Artikel 22 der vorliegenden Verordnung analog angewandt.
 
-- a) die Ziele, den Auftrag und seine Grundlagen;
+<sup>2</sup> Die zu ergreifenden Massnahmen für alle anderen Vorhaben werden nach den Bestimmungen von Artikel 20 behandelt.
 
-- b) den aktuellen Zustand;
+<sup>3</sup> Falls die Dienststelle der Auffassung ist, dass ein Fachgutachten eines spezialisierten Büros notwendig ist, gilt es im Rahmen dieses Fachgutachtens:
 
-- c) die aktuelle Gefahrensituation und der Umweltzustand des Gewässers;
+- a) die Machbarkeit des Bauvorhabens aufzuzeigen;
+- b) bauliche und organisatorische Schutzmassnahmen zu definieren, die in Abhängigkeit der Ereignisszenarien notwendig sind, um das Risiko zu vermindern.
 
-- d) die Hochwasserschutzziele, die ökologischen und sozioökonomischen Ziele;
+<sup>4</sup> In Gefahrengebieten mit mittlerer Gefährdung durch Überschwemmungen oder Murgänge darf das Untergeschoss des Gebäudes nicht zu Wohnzwecken genutzt werden. Auf Antrag des Gesuchstellers kann die Dienststelle diese Nutzung ausnahmsweise auf der Grundlage eines Fachgutachtens, das zeigt, dass das Risiko vertretbar ist, genehmigen.
 
-- e) die vorgesehenen Massnahmen;
-
-- f) die Überlastfälle und die Art der Restrisikobewirtschaftung;
-
-- g) die Notfallplanung;
-
-- h) den Kostenvoranschlag;
-
-- i) eine Zusammenfassung.
-
-<sup>2</sup> Der Umweltverträglichkeitsbericht bzw. die Umweltverträglichkeitsnotiz wird gemäss den Richtlinien der Dienststelle für Umweltschutz auf der Grundlage des Ausführungsreglements der Bundesverordnung über die Umweltverträglichkeitsprüfung erstellt.
-
-<sup>3</sup> Das Plandossier enthält mindestens:
-
-- a) einen Übersichtsplan im Massstab 1:10'000 oder 1:50'000;
-
-- b) die Situationspläne für die vorgesehenen Massnahmen im Massstab 1:1'000 oder 1:2'000;
-
-- c) die Ausscheidung der potenziellen Überschwemmungszonen;
-
-- d) die Längs- und Querprofile mit den charakteristischen Wassertiefen. Das Dossier ist wenn nötig durch den Werkleitungsplan oder jeden anderen Plan zu ergänzen, der für das Verständnis und die Ausführung des Projekts notwendig ist.
+<sup>5</sup> Das von der Dienststelle verlangte Fachgutachten muss Teil der Gesuchsunterlagen sein, die von der Dienststelle gemäss den Bestimmungen von Artikel 12 Absatz 1 des Gesetzes zu beurteilen sind.
 
 #### Art. 24
 
-**Enteignungsplan**
+**Bedingungen für Bauvorhaben in Gefahrengebieten mit geringer Gefährdung oder Restgefährdung**
 
-<sup>1</sup> Der Enteignungsplan enthält alle Angaben über die vom Ausführungsprojekt betroffenen Parzellen.
+<sup>1</sup> In Gefahrengebieten mit geringer Gefährdung oder Restgefährdung können Neubauten, Umbauten, Erneuerungen oder Zweckänderungen von Bauten der Bauwerksklasse III (Bauwerksklasse III gemäss SIA Norm 261) von Fall zu Fall und abhängig vom Naturgefahrenprozess, auf der Grundlage von Bestimmungen, die in einer Richtlinie des Departements festgelegt sind, sowie auf Basis eines Fachgutachtens eines spezialisierten Büros genehmigt werden.
 
-<sup>2</sup> Die vom Projekt betroffenen Parzellen, ihre Eigentümer, ihre Flächen vor der Enteignung und die Grösse der zu enteignenden Flächen sind in einer Enteignungsliste anzuführen.
+<sup>2</sup> Für alle anderen Bauvorhaben kann die Dienststelle, abhängig vom Naturgefahrenprozess, ein Fachgutachten eines spezialisierten Büros verlangen oder Bedingungen formulieren, um materielle Schäden zu begrenzen.
 
-<sup>3</sup> Der Erwerb der für die Ausführung des Projekts notwendigen Rechte wird durch das Enteignungsgesetz geregelt.
+<sup>3</sup> Für alle Vorhaben werden die zu ergreifenden Massnahmen nach den Bestimmungen von Artikel 20 behandelt.
+
+<sup>4</sup> In Gefahrengebieten mit geringer Gefährdung oder Restgefährdung durch Überschwemmungen und Murgänge ist das Untergeschoss des Gebäudes unbewohnbar. Auf Antrag des Gesuchstellers kann die Dienststelle diese Nutzung ausnahmsweise auf der Grundlage eines Fachgutachtens, das zeigt, dass das Risiko vertretbar ist, genehmigen.
+
+<sup>5</sup> Das von der Dienststelle verlangte Fachgutachten muss Teil der Gesuchsunterlagen sein, die von der Dienststelle gemäss den Bestimmungen von Artikel 12 Absatz 1 des Gesetzes zu beurteilen sind.
+
+## 5 Verfahren
 
 #### Art. 25
 
-**Spezielle Dokumente**
+**Vorgängige Vernehmlassung**
 
-Für bedeutende oder besonders komplexe Bauprojekte oder für Projekte, die anderen Naturgefahren ausgesetzt sind, kann die zuständige Behörde weitere Dokumente oder Auskünfte verlangen, namentlich zusätzliche Exemplare, Angaben zum Arbeitsprogramm, zu den Sicherheitsmassnahmen und Garantien, Fotomontagen, Modelle, topografische Erhebungen und jede andere nützliche Information.
+<sup>1</sup> Die vorgängige Vernehmlassung erfolgt vor der öffentlichen Auflage der diesem Gesetz unterstellten Dossiers.
 
-### 5. Abschnitt: Sonderfälle
+<sup>2</sup> Das Instruktionsorgan entscheidet, ob eine vorgängige Vernehmlassung nochmals durchgeführt werden muss, wenn die öffentliche Auflage des Projektes nach der im Gesetz festgelegten Frist erfolgt.
+
+<sup>3</sup> Das Instruktionsorgan entscheidet, ob die öffentliche Auflage wiederholt werden muss, wenn das Verfahren der vorgängigen Vernehmlassung nicht eingehalten wurde.
 
 #### Art. 26
 
-**Vereinfachtes Verfahren; Inhalt des Dossiers**
+**Legitimation**
 
-Für das vereinfachte Verfahren enthält das Dossier namentlich:
+<sup>1</sup> Zur Einsprache berechtigt sind:
 
-- a) die Kurzbeschreibung der Ursachen und der ergriffenen Massnahmen;
+- a) Personen, die durch das Projekt unmittelbar in ihren eigenen schutzwürdigen Interessen betroffen sind;
+- b) jede andere natürliche oder juristische Person, die nach dem Gesetz zur Einsprache berechtigt ist.
 
-- b) den Kostenvoranschlag;
-
-- c) die Beschreibung der aktuellen Naturgefahren, der möglichen Schäden und der angestrebten Schutzstufen;
-
-- d) die Ergebnisse der Untersuchungen über die Notwendigkeit der Baumassnahmen und ihre Auswirkungen;
-
-- e) die Umweltverträglichkeitsnotiz;
-
-- f) eine synoptische Karte;
-
-- g) einen Situationsplan mit genauen Angaben über den betroffenen Perimeter;
-
-- h) grundlegende Skizzen und Musterpläne;
-
-- i) jede andere nützliche Information.
+## 6 Besonderheiten der Wasserbauprojekte an Fliessgewässern und Seen sowie der Schutzbautenprojekte
 
 #### Art. 27
 
-**Notfallinterventionen und Wiederinstandstellung**
+**Inhalt des Auflageprojektes**
 
-<sup>1</sup> Die Notfallarbeiten, die Wiederinstandstellungsarbeiten sowie die Entfernung von Schwemmholz und Geschiebe während oder nach einer Hochwasserereignis betreffen die Gewässerabschnitte, auf denen die Sicherheit gefährdende Schäden festgestellt wurden.
+<sup>1</sup> Das Auflageprojekt beinhaltet unter anderem folgende Dokumente:
 
-<sup>2</sup> Die Notfallintervention umfasst die organisatorischen Massnahmen und die dringenden Arbeiten, die im Laufe von Ereignissen durchgeführt werden, die Personen, Tiere oder Sachwerte gefährden.
+- a) einen technischen Bericht, der insbesondere Folgendes enthält:
+  - 1\. die Ausgangssituation des Projektes und die Annahmen, auf denen die vorgesehenen Massnahmen beruhen,
+  - 2\. das vorhandene Schadenpotenzial und die Risiken,
+  - 3\. die Dimensionierungsgrössen,
+  - 4\. die Massnahmenplanung,
+  - 5\. die Art der gewählten Massnahmen und deren Auswirkungen in Bezug auf die Gefahrensituation und das Risiko,
+  - 6\. die Analyse der Systemsicherheit im Überlastfall oder der Umgang mit Restrisiken,
+  - 7\. eine Analyse der Auswirkungen des Projektes auf die Umwelt, gemäss dem Ausführungsreglement der Bundesverordnung über die Umweltverträglichkeitsprüfung und den Empfehlungen der für die Umwelt zuständigen Dienststelle. Wenn ein Umweltverträglichkeitsbericht oder eine Umweltverträglichkeitsnotiz erstellt werden muss, wird ein separates Dokument erarbeitet,
+  - 8\. ein Kapitel zu den Mehrleistungen,
+  - 9\. die Unterhaltsorganisation und das Instandhaltungskonzept;
+- b) ein Plandossier: Übersichtskarte mit Projektperimeter, Situationsplan der geplanten Massnahmen, Normalprofile, Längenprofile oder Typenprofile mit Angabe der Dimensionierungsgrössen;
+- c) den Kostenvoranschlag und ein Beschrieb der Ausgestaltung der Finanzierung;
+- d) falls für die Projektumsetzung erforderlich: die Enteignungspläne und Unterlagen, die nach dem kantonalen Enteignungsgesetz sowie nach anderen koordinierten Verfahren erforderlich sind.
 
-<sup>3</sup> Die Aufgabenverteilung, die Art der Massnahmen und die Rolle der zuständigen Dienste sind für die Wiederinstandstellungsarbeiten die gleichen wie diejenigen für den Unterhalt.
+<sup>2</sup> Eine vollständige Beschreibung der Anforderungen an die verschiedenen Dokumente sind in den entsprechenden Leitfäden und Empfehlungen des Bundes zu finden.
 
-<sup>4</sup> Die Dossiers für die Wiederinstandstellungsarbeiten, Notfallinterventionen ausgenommen, werden nach den einschlägigen Richtlinien und Empfehlungen erstellt und gehen bei den betreffenden Dienststellen in die Vernehmlassung.
-
-<sup>5</sup> Bei dringlichen Massnahmen, die in ihren Auswirkungen über die Wiederherstellung des vorherigen Zustands hinausgehen und die vom Staatsrat zu genehmigen sind, enthält das Dossier namentlich:
-
-- a) einen kurzen technischen Bericht, mit einer Fotodokumentation,;
-
-- b) einen Übersichtsplan im Massstab 1:10'000 oder 1:50'000;
-
-- c) die Situationspläne für die durchgeführten Massnahmen im Massstab 1:1'000 oder 1:2'000;
-
-- d) Querprofile;
-
-- e) gegebenenfalls die erforderlichen Enteignungen;
-
-- f) die Kosten der Massnahmen;
-
-- g) eine Umweltdiagnose.
-
-### 6. Abschnitt: Finanzierung
+<sup>3</sup> Bauten, die in engem Zusammenhang mit den Wasserbau- und Unterhaltsmassnahmen entlang von Fliessgewässern und Seen sowie von Schutzbauten stehen, wie Landschaftsgestaltungen und Zugänge, sind Bestandteil des gemäss dem Gesetz öffentlich aufgelegten Projektes.
 
 #### Art. 28
 
-**Beiträge des Bundes und Ausführung**
+**Projektänderungen**
 
-<sup>1</sup> Die Gemeinden beteiligen sich an den vom Kanton untergenommenen Schritten zur Erlangung der Bundesbeiträge für die Studien, die Hochwasserschutz- und Renaturierungsmassnahmen wie folgt:
+<sup>1</sup> Projektänderungen können sich sowohl bei einem sich im Genehmigungsverfahren befindenden Projekt als auch bei einem genehmigten Projekt ergeben. Sie müssen entweder durch neue technische Sachzwänge oder durch eine Projektoptimierung begründet sein.
 
-- a) bei den kantonalen Gewässern bestimmt der Kanton nach Anhörung der betroffenen Gemeinden die Projekte und Massnahmen, die Gegenstand von Gesuchen an den Bund sein sollen.
+<sup>2</sup> Geringfügige Änderungen müssen den natürlichen und juristischen Personen, die von den Änderungen direkt betroffen sind, persönlich angezeigt werden.
 
-- b) bei den kommunalen Gewässern stellen die Gemeinden die Anträge an den Kanton. Der Kanton beschliesst aufgrund einer globalen Beurteilung und nach Anhörung der Gemeinden, welche Projekte und Massnahmen in die kantonale Planung aufgenommen werden, die Gegenstand eines Gesuches an den Bund bilden.
+<sup>3</sup> Eine Projektänderung gilt als geringfügig wenn:
 
-<sup>2</sup> Der Kanton erarbeitet mit den betroffenen Gemeinden ein Programm zur Umsetzung der zwischen dem Kanton und dem Bund vereinbarten Projekte und Massnahmen.
+- a) kein wichtiges Interesse der Anrainer betroffen ist;
+- b) die Änderung nur geringfügige Auswirkungen auf die Raumplanung und die Umwelt zur Folge hat, und
+- c) das allgemeine Konzept und die Hauptmerkmale des Projektes unverändert bleiben. Abweichungen in der Anordnung und der Linienführung eines Werkes oder einer Massnahme sind dabei zulässig.
 
-<sup>3</sup> Die Gemeinden und der Kanton arbeiten zusammen, um die mit dem Bund vereinbarten Ziele und Prioritäten umzusetzen.
+<sup>4</sup> Änderungen an temporären Anlagen, die für die Ausführung der Arbeiten erforderlich sind, namentlich Baupisten und Baustelleneinrichtungen, sind geringfügigen Änderungen gleichgestellt.
 
 #### Art. 29
 
-**Studien und anerkannte Arbeiten**
+**Projekte von geringer Bedeutung**
 
-Die anerkannten Arten von Studien und von Arbeiten für den Hochwasserschutz und die Renaturierung von Gewässern sind folgende:
+<sup>1</sup> Als Projekte von geringer Bedeutung gelten die Arbeiten, die die technischen, ökologischen und landschaftlichen Gegebenheiten eines Wasserlaufs oder eines Standorts nicht wesentlich beeinflussen. Dazu gehören insbesondere die Wiederherstellung einer Schutzbaute oder eines Wasserlaufs, die Instandsetzung beschädigter Schutzbauten, der Ersatz von Schutzbauten, lokale Böschungssicherungen (namentlich Blockwürfe, Holzkästen, Vernagelungen und Abdeckungen) sowie temporäre Schutzmassnahmen (Dreibeinböcke und Aufforstungen).
 
-- a) die kantonalen oder kommunalen Grundlagen für die Risikobewirtschaftung und die Renaturierung der Gewässer, d. h. namentlich der Sachplan der Gewässer, die Kataster der Gewässer, die Kataster der Hochwasser-Ereignisse und der Schutzbauten, die Gefahrenkarten, die Risikobeurteilung, die Einführung von Schutzstrategien, die Umwelterhebungen, die Studien der ökologischen Netzwerke, die Forschungsprojekte;
-
-- b) die Massnahmen, Studien und Projekte, die in den Programmvereinbarungen enthalten sind (kleine Wasserbauprojekte, Wiederinstandstellungen nach Unwettern, Ausräumung der Geschiebesammler, Ersatz oder Sanierung der vorhandenen Bauwerke, Erstellung, Unterhalt und Betrieb der Messstationen und der kantonalen oder kommunalen Alarmsysteme usw.);
-
-- c) die einzelnen Wasserbauprojekte, die Gegenstand spezifischer Entscheide bilden;
-
-- d) die laufenden Unterhaltsarbeiten.
+## 7 Finanzierung
 
 #### Art. 30
 
-Bedingungen für die Gewährung eines Kredits oder einer kantonalen Subvention
+**Zuständigkeiten**
 
-<sup>1</sup> Für die Massnahmen zur Verringerung der Risiken für Personen, Tiere und erhebliche Sachwerte können Kredite oder Subventionen gewährt werden. Diese Massnahmen betreffen insbesondere:
+<sup>1</sup> Die Dienststelle ist zuständig für die Durchführung des Subventionsverfahrens in Zusammenhang mit den gravitativen Naturgefahren und dem Wasserbau, mit Ausnahme der Rhone und des Genfersees.
 
-- a) die Wohn- und Arbeitsgebäude, die besonders empfindlichen Objekte, wie Schulen oder Spitäler, die industriellen oder gewerblichen Infrastrukturen, die Sportanlagen, die Campingplätze und die touristischen Infrastrukturen;
-
-- b) die Risikogebiete, die an vorhandene Verkehrswege (Kantonsstrassen, andere für den öffentlichen Verkehr zugängliche Strassen, Eisenbahnen, usw.) und vorhandene Leitungen (Gas, Wasser, Strom, Abwasserleitungen, usw.) angrenzen. Der Schutz der Anlagen selbst obliegt ihren Eigentümern;
-
-- c) die Flächen zur Reduktion von Hochwasserspitzen.
-
-<sup>2</sup> Für die Massnahmen zur Renaturierung der Gewässer können ebenfalls Kredite oder Subventionen gewährt werden.
-
-<sup>3</sup> In Anwendung des Gesetzes können keine Kredite oder Subventionen gewährt werden für:
-
-- a) Schutzmassnahmen, die ausschliesslich der Sicherung neuer Verkehrswege und Leitungen dienen;
-
-- b) Massnahmen, die auf Konzessionen oder andere Genehmigungen zurückgehen mit Ausnahme der öffentlichen Eisenbahnen;
-
-- c) Massnahmen zum Schutz von Bauten in Gefahrenzonen, in denen die Gefahr vor dem Bau bekannt war, mit Ausnahme von Bauten oder Infrastrukturen, deren Errichtung aufgrund ihrer Zweckbestimmung unumgänglich ist.
+<sup>2</sup> In Bezug auf finanzielle Verpflichtungen unterliegt die Dienststelle dem Gesetz über die Geschäftsführung und den Finanzhaushalt des Kantons und deren Kontrolle (FHG).
 
 #### Art. 31
 
-Finanzielle Beteiligung des Kantons am kommunalen Wasserbau Der Kanton beteiligt sich finanziell am kommunalen Wasserbau, sofern die folgenden obligatorischen Bedingungen erfüllt sind:
+**Grundsätze**
 
-- a) die vorgesehenen Arbeiten fallen in den Rahmen der kantonalen Planung, entsprechen den gesetzlichen Anforderungen und beachten in Bezug auf die Naturgefahren die Grundsätze des Wasserbaus und des kantonalen Richtplans;
+<sup>1</sup> Der Kanton wendet, abgesehen von Ausnahmefällen, dieselben Grundsätze und Regeln wie der Bund an, wenn es um Massnahmen geht, für die eine Subventionierung in Frage kommt.
 
-- b) die Massnahmen entsprechen den zwischen Bund und Kanton für die entsprechende Ausführungsperiode vereinbarten Zielen und Prioritäten;
+<sup>2</sup> Subventionen für Unterhaltsarbeiten werden nur gewährt, wenn die kantonalen Empfehlungen für Unterhaltsarbeiten befolgt werden.
 
-- c) die Gefahrengrundlagen sind erarbeitet;
+<sup>3</sup> Bei der Gesuchstellung für eine Subventionierung von Schutzmassnahmen verpflichtet sich der Antragsteller schriftlich, die Funktionsfähigkeit der Schutzbauten durch einen regelmässigen Unterhalt sicherzustellen.
 
-- d) ein integrales Risikomanagement ist ausgearbeitet;
+<sup>4</sup> Der Kanton unternimmt die notwendigen Schritte, um die Bundesbeiträge zu erhalten:
 
-- e) das Projekt sieht anerkannte Schutzsysteme vor, entspricht den technischen Normen, umfasst einen Vergleich von Varianten und die Analyse der Schwachstellen, zeigt auf, wie der (laufende und periodisch Unterhalt geregelt ist und beweist seine Effizienz im Überlastfall durch die Restrisikobewirtschaftung;
+- a) für die Rhone und den Genfersee legt die Dienststelle nach vorheriger Anhörung der betroffenen Gemeinden die Projekte und Massnahmen fest, die beim Bund eingereicht werden;
+- b) für Projekte und Massnahmen des integralen Risikomanagements sowie für Revitalisierungsprojekte an Fliessgewässern und Seen, für welche die Gemeinden oder Dritte zuständig sind, richten diese ihre Anträge an die Dienststelle. Diese prüft die Anträge und entscheidet anhand der Bestimmungen des Bundes, welche Projekte und Massnahmen in die kantonale Planung aufgenommen werden.
 
-- f) das Projekt trägt ausreichend den ökologischen, landschaftlichen und sozioökonomischen Aspekten Rechnung.
+<sup>5</sup> Alle subventionierten Arbeiten müssen vorgängig von der zuständigen kantonalen Behörde genehmigt werden, mit Ausnahme der dringlichen Massnahmen und Instandsetzungen.
 
 #### Art. 32
 
-**Feststellung der Priorität des Projekts**
+**Anspruchsberechtigte der Subventionierung**
 
-<sup>1</sup> Die Priorität des Projekts wird hauptsächlich entsprechend dem Gefahren- und Schadenpotenzial, der vollständigen Berücksichtigung der Risiken, der Verringerung des Risikos für Personen, Tiere und erhebliche Sachwerte und der Wirksamkeit des Projekts beurteilt. Die Wirksamkeit wird als Verhältnis zwischen der Verringerung der potenziellen Schäden und den Kosten der Massnahmen berechnet.
+<sup>1</sup> Subventionen werden in Übereinstimmung mit der kantonalen Gesetzgebung sowie den Bestimmungen und Richtlinien des Bundes gewährt.
 
-<sup>2</sup> Andere anwendbare Kriterien sind insbesondere:
+<sup>2</sup> Beim integralen Risikomanagement sind die Subventionen in erster Linie für Bauzonen und öffentliche Verkehrsinfrastrukturen bestimmt. Sie können auch für den Schutz von erheblichen Sachwerten gewährt werden.
 
-- a) der Umfang und die Qualität der Massnahmen und die Planung;
+<sup>3</sup> Beim integralen Risikomanagement gehören zu den hauptsächlichen Anspruchsberechtigten namentlich:
 
-- b) die vorgesehene Schutzstufe;
+- a) die Gemeinden;
+- b) die Unternehmungen des öffentlichen Verkehrs mit einem öffentlichen Transportauftrag des Bundesamts für Verkehr (BAV) für ihre Anlagen;
+- c) die Dienststelle, die für die Mobilität zuständig ist, die als subventionsberechtigter Dritter für die öffentlichen kantonalen Verkehrswege im Sinne des Strassengesetzes gilt;
+- d) die Unternehmungen der Energieerzeugung für ihre Produktionsanlagen;
+- e) der Kanton durch seine zuständigen Dienststellen für die Rhone und den Genfersee. Die Bestimmungen des Gesetzes über die Finanzierung der 3. Rhonekorrektion (GFinR3) bleiben vorbehalten;
+- f) der Kanton durch seine zuständigen Dienststellen für die Infrastrukturen und Anlagen, die sich in seinem Eigentum befinden.
 
-- c) die Realisierungsstufe der zwischen Bund und Kanton vereinbarten Ziele;
+<sup>4</sup> Bei Revitalisierungsmassnahmen gehören zu den hauptsächlichen Anspruchsberechtigten namentlich:
 
-- d) die Erreichung von ökologischen und sozioökonomischen Zielen.
+- a) die Gemeinden für die Fliessgewässer und Seen in kommunaler Zuständigkeit;
+- b) der Kanton für die Rhone und den Genfersee;
+- c) Dritte auf Delegation des Kantons oder der Gemeinden im Sinne von Artikel 5 Absatz 2 und 3 des Gesetzes.
 
 #### Art. 33
 
-**Subventionssatz für die Wasserbauprojekte**
+**Grenzen der Subventionierung**
 
-<sup>1</sup> Der Kanton unterstützt die von den Gemeinden oder Gemeindeverbänden ausgearbeiteten Wasserbauprojekte durch die Gewährung einer Subvention von:
+<sup>1</sup> Keine Subventionen werden gewährt an Massnahmen zum Schutz von:
 
-- a) 85 Prozent der anerkannten Kosten nach Abzug der Beiträge Dritter für die Projekte von erster Priorität, die ausserordentlich effizient und von besonderer Qualität sind; die kantonale Subvention schliesst die vom Bund erhaltenen Beiträge ein;
+- a) Gebäuden, Infrastrukturen und Anlagen, die:
+  - 1\. in bereits ausgeschiedenen Gefahrenzonen oder bekannten Gefahrengebieten erstellt worden sind, oder deren Bau hier geplant ist, und
+  - 2\. die nicht zwingend an diesen Standort gebunden sind;
+- b) Gebäuden und Anlagen, die hauptsächlich touristischen Zwecken dienen, wie Seilbahnen, Skilifte, Eisenbahnen, Skipisten, Wanderwege und Campingplätze, die sich ausserhalb des Siedlungsgebiets befinden.
 
-- b) 65 Prozent der anerkannten Kosten nach Abzug der Beiträge Dritter für Projekte von nachrangiger Priorität; die kantonale Subvention schliesst die vom Bund erhaltenen Beiträge ein.
-
-<sup>2</sup> Der Kanton kann für Projekte nachrangiger Priorität zusätzliche kumulative Subventionen in folgenden Fällen gewähren:
-
-- a) für Massnahmen zur Erreichung besonderer ökologischer Ziele kann eine zusätzliche Subvention von maximal zehn Prozent gewährt werden. Neben der Erhebung des aktuellen ökologischen Zustands, der Definition der erwarteten Ziele sowie der Definition von verhältnismässigen Massnahmen umfasst das Dossier:
-
-- eine detaillierte Analyse der Umweltdefizite,
-
-- die Beschreibung eines Referenzzustands,
-
-- die Einführung eines Leitkonzepts,
-
-- die Definition und Erhebung von Indikatoren für die Erfolgskontrolle,
-
-- ein Pflichtenheft für die Umweltbaubegleitung;
-
-- b) für Massnahmen, die mit der Bewirtschaftung von anderen Naturrisiken koordiniert sind, kann eine zusätzliche Subvention von maximal 5 Prozent gewährt werden;
-
-- c) für Massnahmen, die sich nach einem partizipativen Planungsverfahren gerichtet haben, kann eine zusätzliche Subvention von maximal 5 Prozent gewährt werden.
-
-<sup>3</sup> Der Kanton kann den Gemeinden eine ausserordentliche zusätzliche Finanzhilfe von maximal 10 Prozent für Arbeiten gewähren, die sie nicht ohne Gefährdung ihrer finanziellen Lage durchführen könnten.
-
-<sup>4</sup> die kantonale Subvention kann in Form einer Pauschale gewährt werden.
-
-<sup>5</sup> Der Staatsrat ist zuständig für die Definition der anrechenbaren Ausgaben, der Kriterien und der Berechnung der Prioritäten sowie der Bedingungen für die Gewährung von Subventionen und von ausserordentlichen zusätzlichen Hilfen.
+<sup>2</sup> Der Schutz von Gütern, die dem Bund gehören wird vom Kanton nicht subventioniert (namentlich Militäranlagen und Nationalstrassen).
 
 #### Art. 34
 
-**Subventionssatz für Projekte für den Gewässerunterhalt**
+**Subventionssatz**
 
-<sup>1</sup> Der Kanton beteiligt sich am Unterhalt der kommunalen Gewässer, sofern die folgenden obligatorischen Bedingungen erfüllt sind:
+<sup>1</sup> Das Departement bestimmt die Methode zur Festlegung der Höhe der Subventionssätze.
 
-- a) die vorgesehenen Arbeiten fallen in den Rahmen der kantonalen Planung und entsprechen den gesetzlichen Erfordernissen;
+<sup>2</sup> Der Subventionssatz wird, auf Vorschlag der Dienststelle, pro Projekt von derjenigen Behörde festgelegt, die gemäss den Bestimmungen der Verordnung betreffend die Delegation von finanziellen Kompetenzen des Staatsrates an die Departemente und Dienststellen zuständig ist
 
-- b) sie entsprechen den technischen Normen;
+<sup>3</sup> Der Subventionssatz kann um maximal 20 Prozent reduziert werden, wenn:
 
-- c) sie entsprechen den Umweltkriterien.
+- a) der Bau vor der Erstellung einer Gefahrenkarte erfolgte, und
+- b) dabei von einer offensichtlichen Gefahr ausgegangen werden konnte.
 
-<sup>2</sup> Die Unterhaltsarbeiten an den kommunalen Gewässern werden in Höhe von maximal 50 Prozent der anerkannten Kosten nach Abzug der Beteiligungen von Dritten subventioniert.
+<sup>4</sup> Der Subventionssatz für periodische Unterhaltsprojekte beträgt 70 Prozent.
 
-<sup>3</sup> Für den Fall, dass der Sicherheitsgewinn nicht erwiesen oder von geringer Bedeutung ist, kann die Subvention auf den minimalen Satz von 30 Prozent reduziert werden.
-
-<sup>4</sup> Die kantonale Subvention kann in Form einer Pauschale gewährt werden.
-
-<sup>5</sup> Der Staatsrat ist zuständig für die Bestimmung der Subventionssätze in den vom Gesetz festgesetzten Grenzen.
+<sup>5</sup> Der Subventionssatz für dringliche Massnahmen und Instandsetzungen beträgt 85 Prozent.
 
 #### Art. 35
 
-Subventionssatz für die Gefahrengrundlagen, die Messstationen und die kommunalen Warndienste Der Kanton beteiligt sich an der Finanzierung der Gefahrengrundlagen, der Messstationen und der Warndienste der Gemeinden oder Gemeindeverbänden in Höhe von 95 Prozent der restlichen anerkannten Kosten. Die kantonale Subvention schliesst die vom Bund erhaltenen Beiträge ein.
+**Besonderheiten in Bezug auf die Beitragshöhe**
+
+<sup>1</sup> Die zuständige Behörde ist bei der Festlegung der Höhe der Subvention nicht an die schriftlichen Vereinbarungen gebunden, die zwischen dem Antragsteller des Projekts und dem betroffenen Eigentümer gemäss dem kantonalen Enteignungsgesetz vereinbart worden sind, namentlich bei Grundstücken von geringem Wert wie Wald und Landwirtschaftsland.
+
+<sup>2</sup> Wenn Versicherungsleistungen für Schäden an Immobilien erbracht werden, müssen diese vom Betrag abgezogen werden, der für die Subventionierung anerkannt wird.
+
+## 8 Schlussbestimmungen
 
 #### Art. 36
 
-**Subventionssatz im Fall von Unwettern**
+<sup>1</sup> Das Departement erlässt Richtlinien betreffend:
 
-<sup>1</sup> Die unmittelbaren Sicherungs- und Ausräumungsarbeiten gelten als Projekte erster Priorität.
+- a) das kantonale Inventar der Fliessgewässer und Seen;
+- b) die Festlegung des Gewässerraums der Fliessgewässer und Seen;
+- c) die besonderen Bestimmungen für Bauvorhaben in Gefahrengebieten;
+- d) die Grundsätze für die Kostenverteilung unter den Projektbeteiligten und die Berechnungsmethoden für:
+  - 1\. die Kriterien zur Bestimmung der für die Subventionierung anerkannten Kosten, und
+  - 2\. die Kriterien für die Priorisierung der Projekte und die Berechnung der Beitragshöhe;
+- e) die Aufteilung der Beteiligungen der Gemeinden und allfälliger Nutzniesser im Rahmen des Wasserbaus am Genfersee sowie des Unterhalts der Rhone und des Genfersees.
 
-<sup>2</sup> Die anderen Massnahmen namentlich die Wiederinstandstellungen und die Folgeprojekte werden gemäss den Artikeln 29 und 30 beurteilt.
+## T1 Übergangsbestimmung
 
-#### Art. 37
+#### Art. T1-1
 
-**Beitrag von Dritten**
+<sup>1</sup> Diese Verordnung gilt ab ihrem Inkrafttreten. Jeder Entscheid, der nach Inkrafttreten der Verordnung getroffen wird, muss die vorliegende Verordnung anwenden.
 
-<sup>1</sup> Dritte können aufgerufen sein, auf der Grundlage des Nutzens und des Verursacherprinzips zur Finanzierung des Projekts beizutragen. Das sind namentlich:
+<sup>2</sup> Alle hängigen Subventionsgesuche, über die die zuständige Behörde bei Inkrafttreten dieser Verordnung noch nicht entschieden hat, unterstehen dem neuen Recht.
 
-- a) die Gemeinden des gleichen Einzugsgebiets;
-
-- b) Anspruchsberechtigte;
-
-- c) Gemeinwesen und juristische oder natürliche Personen, die Nutzniesser des Projekts sind;
-
-- d) die Gemeinwesen und die juristischen oder natürlichen Personen, deren Infrastrukturen zur Erstellung des Projekts führen oder es erschweren oder verhindern, dass es die Sicherheits- oder Umweltziele vollständig erreicht.
-
-<sup>2</sup> Mit Ausnahme von Spenden werden Beiträge Dritter, welche grösser oder gleich 10 Prozent der anerkannten Gesamtkosten sind, vor der Berechnung der Subventionen von den Ausgaben in Abzug gebracht.
-
-<sup>3</sup> Der Grosse Rat oder der Staatsrat bezeichnet mittels Beschluss und im Rahmen ihrer Finanzkompetenz die Dritten, die sich am Werk zu beteiligen haben.
-
-<sup>4</sup> Der Staatsrat setzt nach Einholung der Vormeinung der Rhone-Kommission den Kostenverteiler zwischen den Betroffenen in Berücksichtigung der jeweiligen Interessen fest. Einzig dieser Entscheid ist mit Verwaltungsgerichtsbeschwerde ans Kantonsgericht anfechtbar.
-
-### 7. Abschnitt: Diverse Bestimmungen
-
-#### Art. 38
-
-**Bauten in vorbehaltenen Planungszonen**
-
-<sup>1</sup> Jedes Baubewilligungsgesuch für einen Bau oder eine Anlage in den gemäss Artikel 15 des Gesetzes vorbehaltenen Planungszonen unterliegt den im kantonalen Sachplan bzw. im Wasserbauplan definierten raumplanerischen Bestimmungen. Innerhalb dieser Planungszonen darf nichts unternommen werden, was die Realisierung des Projekts erschweren oder Personen, Tiere oder erhebliche Sachwerte gefährden könnte.
-
-<sup>2</sup> Wenn der Sachplan nicht ausgearbeitet ist, muss jedes Baubewilligungsgesuch für einen Bau oder eine Anlage, die sich in einem Abstand von weniger als 50 m vom Gewässer befindet, Gegenstand einer begründeten Vormeinung der für die Gewässer zuständigen Dienststelle sein.
-
-<sup>3</sup> Der Abstand zum Gewässer wird ab dem äusseren Dammfuss oder, falls keiner vorhanden ist, ab der Böschungsoberkante gemessen.
-
-#### Art. 39
-
-**Kiesentnahmen in den Gewässern**
-
-<sup>1</sup> Bei der Nutzung von öffentlichem Eigentum ist für Bauten oder Einrichtungen von dauerhaftem Charakter eine Entnahmekonzession erforderlich.
-
-Die Konzession wird gewährt:
-
-- a) durch den Staatsrat für die Nutzung des kantonalen Gemeinguts, nach Anhörung der Standortgemeinde;
-
-- b) durch den Gemeinderat für die Nutzung des kommunalen Gemeinguts, mit Genehmigung des Staatsrats.
-
-<sup>2</sup> die Kiesentnahmen, die für einen Unterhalt für die Hochwassersicherheit oder für eine Wiederinstandstellung nach einem Unwetter vorgesehen sind, benötigen keine Entnahmekonzession; sie sind Gegenstand einer Baubewilligung, die durch den Staatsrat, beziehungsweise den Gemeinderat erteilt wird.
-
-<sup>3</sup> Eine angemessene Zone ist im Zonennutzungsplan auszuscheiden. Falls erforderlich, wird ein detaillierter Bauplan erarbeitet, der im Detail die Bodennutzung regelt und die besonderen Massnahmen für den Ausbau sowie die Bewirtschaftung und die Materialnutzung präzisiert. Die Grundsätze und das Vorgehen werden im kantonalen Richtplan festgelegt.
-
-<sup>4</sup> Die Baubewilligung wird erteilt, wenn das Gesuch gemäss Artikel 22 RPG zonenkonform ist. Bei Fehlen einer entsprechenden Zone, kann die Bewirtschaftung ausnahmsweise Gegenstand einer Bewilligung im Sinne von Artikels 24 RPG sein. In jedem Fall wird die Baubewilligung von der kantonalen Baukommission erteilt.
-
-<sup>5</sup> Die Richtlinien des Staatsrats betreffend die Bewirtschaftung von Stein- und Erdmaterial sind anwendbar.
-
-#### Art. 40
-
-Bewilligung der Wasserbaupolizei im Einflussperimeter der Gewässer
-
-<sup>1</sup> Das Departement erteilt die wasserbaupolizeiliche Bewilligung sofern:
-
-- a) die Gewässer, die Schutzbauten oder die Anlagen zur Verhinderung von Erdbewegungen nicht bedroht sind oder beeinträchtigt werden;
-
-- b) der notwendige Zugang zu den Gewässern nicht behindert wird;
-
-- c) der Abfluss der Gewässer in ihrem Bett nicht merklich beschleunigt oder verlangsamt wird;
-
-- d) die Wassermenge nicht erheblich geändert wird;
-
-- e) der Zu- und Abfluss der des Grundwassers nicht behindert wird;
-
-- f) die Gewässer nicht in die Erde verlegt oder überdeckt werden;
-
-- g) Teiche oder Seen nicht zugeschüttet werden.
-
-<sup>2</sup> Eine Ausnahme kann nur aus wichtigem Grund gewährt werden oder wenn kein überwiegendes Interesse entgegensteht.
-
-<sup>3</sup> Wenn ein Bau, für dessen Errichtung eine Ausnahmebewilligung erteilt wurde, die zukünftigen Kosten zulasten des Eigentümers des Gewässers erhöht, trägt der Begünstigte oder der Verursacher die zusätzlichen Kosten.
-
-<sup>4</sup> Die Bewilligung der Wasserpolizei kann an Bedingungen oder Auflagen geknüpft oder zeitlich begrenzt sein.
-
-### 8. Abschnitt: Schlussbestimmungen
-
-#### Art. 41
-
-**Ausführungsbestimmungen**
-
-Das Departement erlässt Richtlinien betreffend:
-
-- a) die besonderen Bestimmungen über das Inventar und den Plan der öffentlichen Oberflächengewässer, die dem Gesetz und der vorliegenden Verordnung unterliegen;
-
-- b) die Modalitäten der Delegierung der kantonalen Aufgaben;
-
-- c) die Unterhaltsarbeiten;
-
-- d) die Erstellung der Pläne und Vorschriften der Gefahrenzonen;
-
-- e) die zulässigen Abweichungen bei der Änderung von Projekten;
-
-- f) die Art der Zusammenarbeit zwischen der Dienststelle für Strassen- und Flussbau und der Dienststelle für Wald und Landschaft bei der Bestimmung der Massnahmen betreffend die Bestockungen und die Ufervegetation im Gewässerbereich;
-
-- g) die Anforderungen an Inhalt und Form der Pläne.
-
-#### Art. 42
-
-**Übergangsbestimmungen**
-
-Ausführungsprojekte, die vor dem Inkrafttreten des Gesetzes und der vorliegenden Verordnung öffentlich aufgelegt wurden, werden gemäss dem alten Recht ausgeführt.
-
-#### Art. 40
-
-**Inkrafttreten**
-
-Vorliegende Verordnung wird im Amtsblatt veröffentlicht und tritt gleichzeitig mit dem Gesetz in Kraft.
-
-So angenommen im Staatsrat in Sitten, den 5. Dezember 2007.
-
-Der Präsident des Staatsrats: Jean-Jacques Rey-Bellet Der Staatskanzler: Henri v. Roten
-
-### Titel und Änderungen Veröffentlichung Inkrafftreten
-
-**1.1.2008**
-
-GS/VS 2007, 269
-
-## Glossar
-
-Aktive Schutzmassnahmen Schutzmassnahmen, die hauptsächlich der Entwicklung des Naturereignisses entgegenwirken, um die Gefahr zu vermindern oder die Wahrscheinlichkeit ihres Auftretens zu beeinflussen. Die Massnahmen für den Gewässerunterhalt sowie der Bau und der Unterhalt der Schutzbauten, wie Hochwasser-Schutzdämme, Staudämme oder Rückhaltebecken sowie extensive Massnahmen im Einzugsgebiet wie Aufforstungen oder Entwässerungen gehören zu den aktiven Schutzmassnahmen.
-
-Bisse / Suone Gravitäre Bewässerungsanlagen, für die das Landwirtschaftsgesetz bzw. die Verordnung über die Landwirtschaft und die Entwicklung des ländlichen Raumes gelten. Neben ihrer landwirtschaftlichen Funktion haben die Suonen auch eine landschaftliche, touristische, Freizeit- und Erholungsfunktion. Durch Die Hochwasserschutzmassnahmen können Wasserbau massnahmen dazu führen, dass die Häufigkeit, der verur sachte Wasserstand oder die Dauer in einem zusätzliche Schäden möglichen Überschwemmungsgebiet erhöht werden, damit überwiegende Interessen in einem anderen Teil des Geländes geschützt werden. Die Erhöhung der Schäden in einem solchen Fall führt zu einer zusätzlichen Schadensumme, die entschädigt werden muss.
-
-Flussbereich Raum, welcher das Vorland und das Hauptgerinne, den Uferbereich, die Dämme
-
-einschliesst.
-
-Gefahrenkarte Karte, die nach wissenschaftlichen Kriterien und innerhalb eines Untersuchungsperimeters erstellt wird und detaillierte Aussagen macht über die Gefahrenart, die Gefahrenstufe und die voraussichtliche räumliche Ausdehnung der gefährlichen Prozesse.
-
-Gefahrenhinweiskarte Übersichtskarte, die nach wissenschaftlichen Kriterien erstellt wird und auf Gefahren hinweist, die erkannt und lokalisiert, aber nicht im Detail analysiert und bewertet sind. Gewässerraum Raum, der für die Erhaltung oder die Wiederherstellung der Funktionen des Gewässers und für die Durchführung der Ausbaumassnahmen notwendig ist.
-
-Hochwasserbett Maximales Bett eines Gewässers, in welchem der Abfluss bei hohen Wasserständen zeitweilig das Hauptgerinne übersteigt. Dies ist insbesondere beim grössten historisch beobachteten Hochwasser der Fall. Es handelt sich im Prinzip um das wenig geneigte Gelände zwischen dem Hauptgerinne und dem Damm, der während der Hochwasser
-
-überschwemmt ist.
-
-Notfallarbeiten Sicherungsmassnahmen, die unmittelbar nach einem Ereignis durchzuführen sind und namentlich die Räumung des Flussbetts oder die Instandsetzung der zerstörten oder beschädigten Schutzbauten umfassen.
-
-Organisatorische Planung der Notfallinterventionen , die für die Massnahmen Rettung von Personen und die Beschränkung von Schäden vorzusehen sind. Derartige Massnahmen umfassen die Überwachung der meteorologischen und hydrologischen Bedingungen, Rettungs- und Evakuierungspläne, die Zurverfügungstellung von Maschinen und Material, Schutzmassnahmen für Einzelobjekte (namentlich mobile Wände, Sandsackbarrieren) sowie Kommunikationsmittel im Krisenfall.
-
-Passive Schutzmassnahmen In der Hauptsache raumplanerischen Massnahmen im Sinne von Artikel 19. Potenzielle Abschnitte des Geländes welche mit Wasser Überschwemmungsgebiete und/oder mit Feststoffen bedeckt werden können, die aus dem Flussbett ausgetreten sind oder infolge des ungewöhnlichen Anstiegs des Wasserstands angestaut wurden. Derartige Räume können vollständig oder teilweise als Zonen für die Reduktion von Hochwasserspitzen reserviert werden.
-
-Referenzzustand Theoretisch idealer natürlicher Zustand eines Gewässers vor jedem menschlichen Eingriff, der als Leitbild für die Definition der
-
-Umweltziele dient.
-
-**Vorhersage- und Warnsysteme**
-
-Renaturierungsmassnahmen Sämtliche Massnahmen, die es gestatten, den Zustand und die natürlichen Funktionen eines Gewässers wiederherzustellen, das durch menschliche Eingriffe verändert wurde. Der Zweck der Renaturierung ist es, die Gewässer und ihre Landschaft zu schützen und wiederherzustellen, indem sie die Artenvielfalt unter dem Gesichtspunkt der nachhaltigen Entwicklung fördern.
-
-**Restrisikobewirtschaftung**
-
-Sämtliche organisatorischen und/oder strukturellen Massnahmen, die es gestatten, das nach der Durchführung der Schutzmassnahmen verbleibende Risiko auf ein Mindestmass zu reduzieren. Dank einer derartigen Bewirtschaftung können die Schäden im Falle einer Überlastung des Schutzsystems begrenzt werden.
-
-**Retentionsfläche für die Minderung der Hochwasserspitzen**
-
-Geländeabschnitte, die kein wichtiges Schutzziel aufweisen (keine Person oder keine wichtige Anlage ist stark bedroht und die wahrscheinliche schwache Häufigkeit der Überschwemmungen schadet der Landwirtschaft nicht übermässig) und als potenzieller Überschwemmungsraum erhalten werden, um erheblichere Schäden flussabwärts oder auf dem anderen Ufer zu vermeiden. Diese Flächen gestatten es, den Spitzenabfluss zu reduzieren, indem sie vorübergehend Hochwasservolumen aufnehmen.
-
-**Schutzziel**
-
-Mass der Sicherheit abhängig von der Bedeutung der zu schützenden Werte, der durch die Schutzmassnahmen erreicht werden soll.
-
-**Unterhalt der Gewässer**
-
-Sämtliche Massnahmen, die ergriffen werden, um die Abflusskapazität eines Gewässers und die Wirksamkeit der Schutzbauten zu erhalten. Dazu zählen insbesondere das Mähen und Entkrauten, das Pflegen der Ufervegetation, die Entfernung von Treibholz und Anschwemmungen, die Reparatur kleiner Schäden an Korrektionsbauten sofern der ursprüngliche Zustand nicht verändert wird und die Entleerung von Geschiebesammler. Im Rahmen des Möglichen werden bei den Unterhaltsarbeiten die ökologischen Werte und die natürlichen Funktionen der Gewässer beachtet.
-
-Sämtliche Vorkehrungen, die es gestatten, die im Falle eines plötzlichen Ereignisses oder einer drohenden Katastrophe vorbeugende zu ergreifenden Massnahmen zu ergreifen und die Mittel zur Vermeidung von, die es gestatten, Verlusten an Menschenleben und bedeutende Schäden zu bereitzustellen. Die Organisation der Interventionen auf der kommunalen und der kantonalen Ebene, die Evakuierung der Bevölkerung und die Errichtung mobiler Barrieren gehören zu derartigen Vorkehrungen. Sie können sich auf ein Beobachter- und Messnetz stützen.
-
-## Weitere Fussnoten
-
-- [1] Änderung vom 22. Juni 2011 Abl. Nr. 26/2011 1.7.2011
+CSW RO/AGS 2024-084
