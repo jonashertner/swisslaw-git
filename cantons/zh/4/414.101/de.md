@@ -4,30 +4,42 @@ number: "414.101"
 title: Verordnung zum Fachhochschulgesetz (VFaHG)
 short: VFaHG
 language: de
-nachtrag: "65"
-valid_until: 2024-08-01
+version: "2024-08-01"
+nachtrag: "126"
 adopted: 2009-04-08
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_101-2009_04_08-2009_08_01-065.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_101-2009_04_08-2009_08_01-126.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung zum Fachhochschulgesetz
+# Verordnung zum Fachhochschulgesetz (VFaHG)
 
-(vom 8. April 2009)<sup>1</sup>
+(vom 8. April 2009)[^t-2][^t-1]
 
 Der Regierungsrat,
 
-gestützt auf §§ 9, 20 und 22 des Fachhochschulgesetzes vom 2. April 2007<sup>2</sup>,
+gestützt auf §§ 9 Abs. 4, 16 a Abs. 2, 20 Abs. 1 und 22 Abs. 1 des Fachhochschulgesetzes vom 2. April 2007 (FaHG)[^t-3],[^t-4]
 
 beschliesst:
 
+[^t-1]: Fassung gemäss RRB vom 15. Mai 2024 (OS 79, 234; ABl 2023-05-31). In Kraft seit 1. August 2024.
+[^t-2]: OS 64, 162; Begründung siehe ABl 2009, 562.
+[^t-3]: LS 414.10.
+[^t-4]: Fassung gemäss RRB vom 22. Juni 2022 (OS 77, 485; ABl 2022-07-08). In Kraft seit 1. August 2024.
+
 ### 1. Abschnitt: Gegenstand
 
-#### § 1
+§ 1.[^h1AbschnittGegens-1] Diese Verordnung regelt a. die Stellung der Studierenden sowie der Auditorinnen und Auditoren an den staatlichen Hochschulen gemäss § 3 Abs. 1 lit. a–c FaHG[^h1AbschnittGegens-2],
 
-Diese Verordnung regelt die Stellung der Studierenden, Auditorinnen und Auditoren an den Hochschulen der Zürcher Fachhochschule (ZFH), die Vertretungen der Hochschulangehörigen und das Verfahren vor dem Fachhochschulrat sowie die Aufgaben der Bildungsdirektion.
+- b. die Vertretungen der Hochschulangehörigen,
+
+- c. das Verfahren vor dem Fachhochschulrat,
+
+- d. die Aufgaben der Bildungsdirektion.
+
+[^h1AbschnittGegens-1]: Fassung gemäss RRB vom 15. Mai 2024 (OS 79, 234; ABl 2023-05-31). In Kraft seit 1. August 2024.
+[^h1AbschnittGegens-2]: LS 414.10.
 
 ### 2. Abschnitt: Studierende
 
@@ -51,7 +63,7 @@ Diese Verordnung regelt die Stellung der Studierenden, Auditorinnen und Auditore
 
 **1**
 
-- 1\. 7. 09 - 65 § 4. <sup>1</sup> Die ordentlichen Studierenden sind berechtigt, die allgemeinen und die studiengangsspezifischen Einrichtungen sowie das Beratungs- und Betreuungsangebot der Hochschule zu benützen.
+1.10. 24 - 126 § 4. <sup>1</sup> Die ordentlichen Studierenden sind berechtigt, die allgemeinen und die studiengangsspezifischen Einrichtungen sowie das Beratungs- und Betreuungsangebot der Hochschule zu benützen.
 
 **Benützung der Einrichtungen und Beratungsangebote**
 
@@ -65,21 +77,19 @@ Diese Verordnung regelt die Stellung der Studierenden, Auditorinnen und Auditore
 
 Die Studierenden sind berechtigt, bei den von der Hochschulleitung bezeichneten Stellen schriftlich oder mündlich Vorschläge vorzubringen.
 
-#### § 6
+**Rechte an Immaterialgütern a. Gewinnbeteiligung**
 
-**Immaterialgüterrechte a. Gewinnbeteiligung**
+§ 6.[^5-1] <sup>1</sup> Die Hochschulleitung legt die Beteiligung der Studierenden am Gewinn aus der Verwertung von Rechten an Immaterialgütern gemäss § 22 Abs. 2 in Verbindung mit § 16 a FaHG fest.
 
-<sup>1</sup> Schaffen Studierende Immaterialgüter, legt die Hochschulleitung deren Gewinnbeteiligung fest.
+<sup>2</sup> Sie berücksichtigt dabei die Beanspruchung von Personal und Infrastruktur der Hochschule sowie weitere Kosten.
 
-<sup>2</sup> Sie berücksichtigt bei der Festlegung des Gewinnanteils die Beanspruchung der Infrastruktur der Hochschule sowie weitere Kosten im Zusammenhang mit der Entstehung, dem Schutz und der Verwertung der Immaterialgüter.
+**b. Übertragung und Abgabe**
 
-#### § 7
+§ 7.[^5-1] <sup>1</sup> Die Hochschulleitung kann eine Abgabe verlangen, wenn a. die Hochschule Studierenden Rechte an Immaterialgütern überträgt und b. die Studierenden diese verwerten.
 
-**b. Rechtsübertragung**
+<sup>2</sup> Die Hochschulleitung berücksichtigt dabei die Beanspruchung von Personal und Infrastruktur der Hochschule sowie weitere Kosten.
 
-<sup>1</sup> Studierende, denen die Hochschule das Nutzungsrecht an den von ihnen geschaffenen Immaterialgütern überträgt, leisten eine angemessene Abgabe.
-
-<sup>2</sup> Die Hochschulleitung legt die Abgabe fest. Sie berücksichtigt dabei die Beanspruchung der Infrastruktur der Hochschule sowie weitere Kosten im Zusammenhang mit der Entstehung des übertragenen Nutzungsrechts.
+[^5-1]: Fassung gemäss RRB vom 22. Juni 2022 (OS 77, 485; ABl 2022-07-08). In Kraft seit 1. August 2024.
 
 ### C. Disziplinarordnung
 
@@ -157,7 +167,7 @@ Bei schweren oder wiederholten Verfehlungen kann die Rektorin oder der Rektor bi
 
 **3**
 
-- 1\. 7. 09 - 65
+1.10. 24 - 126
 
 ### 3. Abschnitt: Auditorinnen und Auditoren
 
@@ -181,33 +191,22 @@ Auditorinnen und Auditoren sind Personen, die von der Hochschule zur Teilnahme a
 
 ### A. Vertretungen der Hochschulangehörigen
 
-#### § 17
-
-**Vertretungen**
-
-An den Sitzungen des Fachhochschulrates nimmt je eine Vertreterin oder ein Vertreter folgender Gruppen der Hochschulangehörigen mit beratender Stimme teil:
-
-- a. der Studierenden,
-
-- b. der Dozierenden und Lehrbeauftragten,
-
-- c. der Assistierenden und wissenschaftlichen Mitarbeitenden sowie des administrativen und technischen Personals.
-
-#### § 18
+§ 17.[^hAVertretungender-1]
 
 **Wahlausschüsse**
 
-<sup>1</sup> Jede Gruppe der Hochschulangehörigen bildet für die Wahl der Vertretung im Fachhochschulrat einen Wahlausschuss.
+§ 18.[^hAVertretungender-2] <sup>1</sup> Jede Gruppe der Hochschulangehörigen gemäss § 9 Abs. 3 lit. b FaHG bildet für die Wahl ihrer Vertretung im Fachhochschulrat einen Wahlausschuss.
 
 <sup>2</sup> Jede Hochschule entsendet in die einzelnen Wahlausschüsse gleich viele Delegierte. Diese werden wie folgt bestimmt:
 
-- a. vom Studierendenrat die Delegierten in den Wahlausschuss gemäss § 17 lit. a,
+- a. für die einzelnen Gruppen von Hochschulangehörigen gemäss § 9 Abs. 3 lit. b Ziff. 1–4 FaHG: von den der Hochschulversammlung angehörenden Personen der jeweiligen Gruppe,
 
-- b. von den der Hochschulversammlung angehörenden Dozierenden und Lehrbeauftragten die Delegierten in den Wahlausschuss gemäss § 17 lit. b und
-
-- c. von dem der Hochschulversammlung angehörenden übrigen Personal die Delegierten in den Wahlausschuss gemäss § 17 lit. c.
+- b. für die Studierenden: vom Studierendenrat.
 
 <sup>3</sup> Die Wahlausschüsse wählen die Vertreterin oder den Vertreter ihrer Gruppe im Fachhochschulrat sowie eine Stellvertreterin oder einen Stellvertreter.
+
+[^hAVertretungender-1]: Aufgehoben durch RRB vom 22. Juni 2022 (OS 77, 485; ABl 2022-07-08). In Kraft seit 1. August 2024.
+[^hAVertretungender-2]: Fassung gemäss RRB vom 22. Juni 2022 (OS 77, 485; ABl 2022-07-08). In Kraft seit 1. August 2024.
 
 #### § 19
 
@@ -253,17 +252,17 @@ Die Verhandlungen des Fachhochschulrates sind nicht öffentlich.
 
 ### 5. Abschnitt: Aufgaben der Bildungsdirektion
 
+[^h5AbschnittAufgab-1]: Fassung gemäss RRB vom 15. Mai 2024 (OS 79, 234; ABl 2023-05-31). In Kraft seit 1. August 2024.
+
 #### § 25
 
-**Aufgaben**
-
-<sup>1</sup> Die Bildungsdirektion koordiniert in Absprache mit der Rektorenkonferenz der ZFH operative Belange zwischen den Hochschulen und erfüllt Aufgaben im Verkehr mit Bund und Kantonen, insbesondere im finanziellen und administrativen Bereich.
+<sup>1</sup> Die Bildungsdirektion koordiniert in Absprache mit der Rektorenkonferenz der staatlichen Hochschulen gemäss § 3 Abs.1 lit. a–c FaHG operative Belange zwischen den Hochschulen und erfüllt Aufgaben im Verkehr mit Bund und Kantonen, insbesondere im finanziellen und administrativen Bereich.[^h5AbschnittAufgab-1]
 
 <sup>2</sup> Das Hochschulamt führt die Geschäftsstelle des Fachhochschulrates.
 
 **5**
 
-- 1\. 7. 09 - 65
+1.10. 24 - 126
 
 ### 6. Abschnitt: Schluss- und Übergangsbestimmungen
 
@@ -278,8 +277,3 @@ Disziplinarverstösse, die vor Inkrafttreten dieser Verordnung begangen wurden, 
 **Inkrafttreten**
 
 Diese Verordnung tritt am 1. August 2009 in Kraft.
-
-## Weitere Fussnoten
-
-- [1] OS 64, 162; Begründung siehe ABl 2009, 562.
-- [2] LS 414.10.
