@@ -4,11 +4,11 @@ title: "Ordonnance du 15 août 2018 sur l'entrée et l'octroi de visas (OEV)"
 short: OEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: fr
-version: 2024-06-11
+version: 2024-08-01
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20240611/fr/xml/fedlex-data-admin-ch-eli-cc-2018-493-20240611-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20240611/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20240801/fr/xml/fedlex-data-admin-ch-eli-cc-2018-493-20240801-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20240801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20240611/fr"
 
 (OEV)
 
-du 15 août 2018 (État le 11 juin 2024)
+du 15 août 2018 (État le 1<sup>er</sup> août 2024)
 
 Le Conseil fédéral suisse,
 
@@ -56,7 +56,8 @@ L’ordonnance régit également la compétence de conclure des traités interna
 - i.[^1-20] règlement (UE) 2021/1148[^1-21];
 - j.[^1-22] règlement (UE) 2021/1060[^1-23];
 - k.[^1-24] décision n<sup>o</sup> 1105/2011/UE[^1-25];
-- l.[^1-26] règlement (CE) n<sup>o</sup> 694/2003[^1-27].[^1-28]
+- l.[^1-26] règlement (CE) n<sup>o</sup> 694/2003[^1-27];
+- m.[^1-28] règlement (UE) 2016/399[^1-29].[^1-30]
 
 [^1-1]: Nouvelle teneur selon le ch. I de l’O du 15 sept. 2023, en vigueur depuis le 15 oct. 2023 ([RO 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
 [^1-2]: Règlement (UE) n<sup>o</sup> 514/2014 du Parlement européen et du Conseil du 16 avril 2014 portant dispositions générales applicables au Fonds «Asile, migration et intégration» et à l’instrument de soutien financier à la coopération policière, à la prévention et à la répression de la criminalité, ainsi qu’à la gestion des crises, version du JO L 150 du 20.5.2014, p. 112.
@@ -85,7 +86,9 @@ L’ordonnance régit également la compétence de conclure des traités interna
 [^1-25]: Décision n<sup>o</sup> 1105/2011/UE du Parlement européen et du Conseil du 25 octobre 2011 relative à la liste des documents de voyage permettant à leur titulaire le franchissement des frontières extérieures et susceptibles d’être revêtus d’un visa, et relative à l’instauration d’un dispositif pour établir cette liste, version du JO L 287 du 4.11.2011, p. 9.
 [^1-26]: Introduite par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 15 mai 2024 ([RO 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
 [^1-27]: Règlement (CE) n<sup>o</sup> 694/2003 du Conseil du 14 avril 2003 établissant des modèles uniformes pour le document facilitant le transit (DFT) et le document facilitant le transit ferroviaire (DFTF) prévus par le règlement (CE) n<sup>o</sup> 693/2003, JO L 99 du 17 avril 2003, p. 15; modifié en dernier lieu par le règlement (UE) 2023/2667, JO L, 2023/2667, 7.12.2023.
-[^1-28]: Nouvelle teneur selon le ch. I de l’O du 14 août 2019, en vigueur depuis le 2 fév. 2020 ([RO 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^1-28]: Introduite par le ch. I de l’O du 26 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 345](https://fedlex.data.admin.ch/eli/oc/2024/345)).
+[^1-29]: Règlement (UE) 2016/399 du Parlement européen et du Conseil du 9 mars 2016 concernant un code de l’Union relatif au régime de franchissement des frontières par les personnes (code frontières Schengen), JO L 77 du 23.3.2016, p. 1; modifié en dernier lieu par le règlement (UE) 2024/1717, JO L, 2024/1717, 20.06.2024.
+[^1-30]: Nouvelle teneur selon le ch. I de l’O du 14 août 2019, en vigueur depuis le 2 fév. 2020 ([RO 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 
 #### Art. 2
 
@@ -125,7 +128,7 @@ On entend par:
 
 **Conditions d’entrée pour un court séjour**
 
-<sup>1</sup> Les conditions d’entrée pour un court séjour sont régies par l’art. 6 du code frontières Schengen[^3-1].
+<sup>1</sup> Les conditions d’entrée pour un court séjour sont régies par l’art. 6 du code frontières Schengen[^3-1].[^3-2]
 
 <sup>2</sup> Les moyens de subsistance visés à l’art. 6, par. 1, let. c, du code frontières Schengen sont notamment réputés suffisants s’il est garanti que l’étranger ne fera pas appel à l’aide sociale pendant son séjour dans l’espace Schengen.
 
@@ -140,15 +143,16 @@ Peuvent être acceptés comme preuves de moyens de subsistance suffisants (art. 
 
 <sup>4</sup>
 
-Dans les limites de leurs compétences, le Département fédéral des affaires étrangères (DFAE) et le Secrétariat d’État aux migrations (SEM) peuvent, pour des motifs humanitaires, pour sauvegarder des intérêts nationaux ou en raison d’obligations internationales (art. 25 du code des visas[^3-2]), accorder l’entrée en Suisse pour un court séjour aux ressortissants de pays tiers qui:
+Dans les limites de leurs compétences, le Département fédéral des affaires étrangères (DFAE) et le Secrétariat d’État aux migrations (SEM) peuvent, pour des motifs humanitaires, pour sauvegarder des intérêts nationaux ou en raison d’obligations internationales (art. 25 du code des visas[^3-3]), accorder l’entrée en Suisse pour un court séjour aux ressortissants de pays tiers qui:
 
 - a. ne remplissent pas une ou plusieurs des conditions d’entrée (art. 6, par. 5, let. a et c, du code frontières Schengen), ou qui
 - b. ont fait l’objet d’une objection d’un ou plusieurs États Schengen dans le cadre de la consultation Schengen (art. 22 du code des visas).
 
 <sup>5</sup> Les personnes soumises à l’obligation de visa autorisées à entrer en Suisse en vertu de l’al. 4 reçoivent un visa dont la validité territoriale est limitée à la Suisse.
 
-[^3-1]: Règlement (UE) 2016/399 du Parlement européen et du Conseil du 9 mars 2016 établissant un code communautaire relatif au régime de franchissement des frontières par les personnes (code frontières Schengen), version du JO L 77 du 23.3.2016, p. 1.
-[^3-2]: Cf. note de bas de page relative à l’art. 1, al. 4, let. c.
+[^3-1]: Règlement (UE) 2016/399 du Parlement européen et du Conseil du 9 mars 2016 concernant un code de l’Union relatif au régime de franchissement des frontières par les personnes (code frontières Schengen), JO L 77 du 23.3.2016, p. 1; modifié en dernier lieu par le règlement (UE) 2017/458, JO L 74 du 18.3.2017, p. 1.
+[^3-2]: Nouvelle teneur selon le ch. I de l’O du 26 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 345](https://fedlex.data.admin.ch/eli/oc/2024/345)).
+[^3-3]: Cf. note de bas de page relative à l’art. 1, al. 4, let. c.
 
 #### Art. 4
 
@@ -777,16 +781,18 @@ Le SEM est compétent pour conclure des traités internationaux en vue de la rep
 
 Il est compétent pour conclure des traités internationaux en vue de la reprise d’actes d’exécution du Conseil du l’UE relatifs au code des visas, pour autant que ces traités soient de portée mineure au sens de l’art. 7*a* LOGA et pour autant que les actes d’exécution soient édictés sur la base des articles et paragraphes suivants du code des visas et qu’ils concernent les domaines suivants:
 
-- a. la suspension de l’application de la gratuité des visas ou des facilités concernant la production de documents justificatifs, les délais de traitement ou la délivrance de visas à entrées multiples à tous les ressortissants ou à certaines catégories de ressortissants d’un État tiers qui ne coopère pas suffisamment en matière de réadmission de personnes en séjour irrégulier (art. 25<sup>bis</sup>, par. 5, let. a);
-- b. l’augmentation progressive de l’émolument de visa si l’État tiers concerné continue de ne pas coopérer suffisamment (art. 25<sup>bis</sup>, par. 5, let. b);
-- c. l’octroi de facilités particulières à tous les ressortissants ou à certaines catégories de ressortissants d’un État tiers qui coopère suffisamment en matière de réadmission de personnes en séjour irrégulier (art. 25<sup>bis</sup>, par. 8).[^34b-6]
+- a.[^34b-6] la suspension de l’application de la gratuité des visas ou des facilités concernant la production de documents justificatifs, les délais de traitement ou la délivrance de visas à entrées multiples à tous les ressortissants ou à certaines catégories de ressortissants d’un État tiers qui ne coopère pas suffisamment en matière de réadmission de personnes en séjour irrégulier (art. 25<sup>bis</sup>, par. 5, let. a, et 6);
+- b.[^34b-7] l’augmentation progressive de l’émolument de visa si l’État tiers concerné continue de ne pas coopérer suffisamment (art. 25<sup>bis</sup>, par. 5, let. b, et 6);
+- c. l’octroi de facilités particulières à tous les ressortissants ou à certaines catégories de ressortissants d’un État tiers qui coopère suffisamment en matière de réadmission de personnes en séjour irrégulier (art. 25<sup>bis</sup>, par. 8).[^34b-8]
 
 [^34b-1]: Introduit par le ch. I de l’O du 14 août 2019, en vigueur depuis le 2 fév. 2020 ([RO 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 [^34b-2]: Cf. note de bas de page relative à l’art. 1, al. 4, let. c.
 [^34b-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^34b-4]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
 [^34b-5]: Introduite par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 15 mai 2024 ([RO 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
-[^34b-6]: Introduit par le ch. I de l’O du 14 fév. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 75](https://fedlex.data.admin.ch/eli/oc/2024/75)).
+[^34b-6]: Nouvelle teneur selon le ch. I de l’O du 26 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 345](https://fedlex.data.admin.ch/eli/oc/2024/345)).
+[^34b-7]: Nouvelle teneur selon le ch. I de l’O du 26 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 345](https://fedlex.data.admin.ch/eli/oc/2024/345)).
+[^34b-8]: Introduit par le ch. I de l’O du 14 fév. 2024, en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 75](https://fedlex.data.admin.ch/eli/oc/2024/75)).
 
 #### Art. 34c
 
@@ -914,6 +920,29 @@ Le SEM est compétent pour conclure des traités internationaux en vue de la rep
 [^34h-1]: Introduit par le ch. I de l’O du 10 avr. 2024, en vigueur depuis le 15 mai 2024 ([RO 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
 [^34h-2]: Cf. note de bas de page relative à l’art. 1, al. 4, let. l.
 [^34h-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
+#### Art. 34i
+
+**Conclusion de traités internationaux liés au règlement (UE) 2016/399**[^34i-1]
+
+<sup>1</sup>
+
+Le SEM est compétent pour conclure des traités internationaux en vue de la reprise d’actes d’exécution de la Commission européenne relatifs au règlement (UE) 2016/399[^34i-2], pour autant que ces traités soient de portée mineure au sens de l’art. 7*a* LOGA[^34i-3] et pour autant que les actes d’exécution soient édictés sur la base des articles et paragraphes suivants du règlement (UE) 2016/399 et qu’ils concernent les domaines suivants:
+
+- a. le modèle pour la notification de la réintroduction temporaire du contrôle aux frontières intérieures (art. 27, par. 6);
+- b. le modèle uniforme pour le rapport sur la réintroduction du contrôle aux frontières intérieures (art. 33, par. 4).
+
+<sup>2</sup>
+
+Il est compétent pour conclure des traités internationaux en vue de la reprise d’actes délégués de la Commission européenne relatifs au règlement (UE) 2016/399, pour autant que ces traités soient de portée mineure au sens de l’art. 7*a* LOGA et pour autant que les actes délégués soient édictés sur la base des articles et paragraphes suivants du règlement (UE) 2016/399 et qu’ils concernent les domaines suivants:
+
+- a. les mesures supplémentaires régissant la surveillance des frontières (art. 13, par. 5);
+- b. les modifications des annexes III, IV et VIII du règlement (UE) 2016/399 (art. 36, par. 1);
+- c. les ajouts, dans la partie B de l’annexe XI du règlement (UE) 2016/399, de catégories de personnes effectuant des déplacements essentiels (art. 36, par. 2).
+
+[^34i-1]: Introduit par le ch. I de l’O du 26 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 345](https://fedlex.data.admin.ch/eli/oc/2024/345)).
+[^34i-2]: Cf. note de bas de page relative à l’art. 1, al. 4, let. m.
+[^34i-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 
 #### Art. 35
 

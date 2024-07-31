@@ -4,11 +4,11 @@ title: Verordnung vom 15. August 2018 über die Einreise und die Visumerteilung 
 short: VEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: de
-version: 2024-06-11
+version: 2024-08-01
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20240611/de/xml/fedlex-data-admin-ch-eli-cc-2018-493-20240611-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20240611/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20240801/de/xml/fedlex-data-admin-ch-eli-cc-2018-493-20240801-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20240801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20240611/de"
 
 (VEV)
 
-vom 15. August 2018 (Stand am 11. Juni 2024)
+vom 15. August 2018 (Stand am 1. August 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -57,7 +57,8 @@ Die Verordnung regelt auch die Kompetenz zum Abschluss völkerrechtlicher Vertr�
 - i.[^1-20] Verordnung (EU) 2021/1148[^1-21];
 - j.[^1-22] Verordnung (EU) 2021/1060[^1-23];
 - k.[^1-24] Beschluss Nr. 1105/2011/EU[^1-25];
-- l.[^1-26] Verordnung (EG) Nr. 694/2003[^1-27].[^1-28]
+- l.[^1-26] Verordnung (EG) Nr. 694/2003[^1-27];
+- m.[^1-28] Verordnung (EU) 2016/399[^1-29].[^1-30]
 
 [^1-1]: Fassung gemäss Ziff. I der V vom 15. Sept. 2023, in Kraft seit 15. Okt. 2023 ([AS 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
 [^1-2]: Verordnung (EU) Nr. 514/2014 des Europäischen Parlaments und des Rates vom 16. April 2014 zur Festlegung allgemeiner Bestimmungen für den Asyl-, Migrations- und Integrationsfonds und das Instrument für die finanzielle Unterstützung der polizeilichen Zusammenarbeit, der Kriminalprävention und Kriminalitätsbekämpfung und des Krisenmanagements, Fassung gemäss ABl. L 150 vom 20.5.2014, S. 112.
@@ -86,7 +87,9 @@ Die Verordnung regelt auch die Kompetenz zum Abschluss völkerrechtlicher Vertr�
 [^1-25]: Beschluss Nr. 1105/2011/EU des Europäischen Parlaments und des Rates vom 25. Oktober 2011 über die Liste der visierfähigen Reisedokumente, die den Inhaber zum Überschreiten der Aussengrenzen berechtigen, und über die Schaffung eines Verfahrens zur Aufstellung dieser Liste, ABl. L 287 vom 4.11.2011, S. 9.
 [^1-26]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 15. Mai 2024 ([AS 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
 [^1-27]: Verordnung (EG) Nr. 694/2003 des Rates vom 14. April 2003 über einheitliche Formate von Dokumenten für den erleichterten Transit (FTD) und Dokumenten für den erleichterten Transit im Eisenbahnverkehr (FRTD) gemäss der Verordnung (EG) Nr. 693/2003, ABl. L 99 vom 17. April 2003, S. 15; zuletzt geändert durch Verordnung (EU) 2023/2667, ABl. L, 2023/2667, 7.12.2023.
-[^1-28]: Fassung gemäss Ziff. I der V vom 14. Aug. 2019, in Kraft seit 2. Febr. 2020 ([AS 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^1-28]: Eingefügt durch Ziff. I der V vom 26. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 345](https://fedlex.data.admin.ch/eli/oc/2024/345)).
+[^1-29]: Verordnung (EU) 2016/399 des Europäischen Parlaments und des Rates vom 9. März 2016 über einen Gemeinschaftskodex für das Überschreiten der Grenzen durch Personen (Schengener Grenzkodex), ABl. L 77 vom 23.3.2016, S. 1; zuletzt geändert durch Verordnung (EU) 2024/1717, ABl. L, 2024/1717, 20.06.2024.
+[^1-30]: Fassung gemäss Ziff. I der V vom 14. Aug. 2019, in Kraft seit 2. Febr. 2020 ([AS 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 
 #### Art. 2
 
@@ -126,7 +129,7 @@ In dieser Verordnung bedeuten:
 
 **Einreisevoraussetzungen für kurzfristige Aufenthalte**
 
-<sup>1</sup> Die Einreisevoraussetzungen für kurzfristige Aufenthalte richten sich nach Artikel 6 des Schengener Grenzkodex[^3-1].
+<sup>1</sup> Die Einreisevoraussetzungen für kurzfristige Aufenthalte richten sich nach Artikel 6 des Schengener Grenzkodex[^3-1].[^3-2]
 
 <sup>2</sup> Die Mittel zur Bestreitung des Lebensunterhalts im Sinne von Artikel 6 Absatz 1 Buchstabe c des Schengener Grenzkodex gelten insbesondere als ausreichend, wenn sichergestellt ist, dass während des Aufenthalts im Schengen-Raum keine Sozialhilfeleistungen bezogen werden.
 
@@ -141,15 +144,16 @@ Der Nachweis ausreichender Mittel zur Bestreitung des Lebensunterhalts (Art. 14�
 
 <sup>4</sup>
 
-Das Eidgenössische Departement für auswärtige Angelegenheiten (EDA) und das Staatssekretariat für Migration (SEM) können im Rahmen ihrer Zuständigkeiten aus humanitären Gründen oder zur Wahrung nationaler Interessen oder internationaler Verpflichtungen (Art. 25 des Visakodex[^3-2]) die Einreise in die Schweiz für einen kurzfristigen Aufenthalt bewilligen für Drittstaatsangehörige:
+Das Eidgenössische Departement für auswärtige Angelegenheiten (EDA) und das Staatssekretariat für Migration (SEM) können im Rahmen ihrer Zuständigkeiten aus humanitären Gründen oder zur Wahrung nationaler Interessen oder internationaler Verpflichtungen (Art. 25 des Visakodex[^3-3]) die Einreise in die Schweiz für einen kurzfristigen Aufenthalt bewilligen für Drittstaatsangehörige:
 
 - a. die eine oder mehrere Einreisevoraussetzungen nicht erfüllen (Art. 6 Abs. 5 Bst. a und c des Schengener Grenzkodex); oder
 - b. gegen die Einwände eines oder mehrerer Schengen-Staaten im Rahmen der Schengener Konsultation bestehen (Art. 22 des Visakodex).
 
 <sup>5</sup> Für Personen, die der Visumpflicht unterstehen und denen nach Absatz 4 die Einreise bewilligt wurde, wird ein Visum mit räumlich beschränkter Gültigkeit für die Schweiz ausgestellt.
 
-[^3-1]: Verordnung (EU) 2016/399 des Europäischen Parlaments und des Rates vom 9. März 2016 über einen Gemeinschaftskodex für das Überschreiten der Grenzen durch Personen (Schengener Grenzkodex), Fassung gemäss ABl. L 77 vom 23.3.2016, S. 1.
-[^3-2]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. c.
+[^3-1]: Verordnung (EU) 2016/399 des Europäischen Parlaments und des Rates vom 9. März 2016 über einen Gemeinschaftskodex für das Überschreiten der Grenzen durch Personen (Schengener Grenzkodex), ABl. L 77 vom 23.3.2016, S. 1; zuletzt geändert durch Verordnung (EU) 2017/458, ABl. L 74 vom 18.3.2017, S. 1.
+[^3-2]: Fassung gemäss Ziff. I der V vom 26. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 345](https://fedlex.data.admin.ch/eli/oc/2024/345)).
+[^3-3]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. c.
 
 #### Art. 4
 
@@ -779,16 +783,18 @@ Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur 
 
 Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten des Rates der EU zum Visakodex, sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG darstellen und sofern die Durchführungsrechtsakte gestützt auf die nachfolgend genannten Artikel und Absätze des Visakodex erlassen wurden und Folgendes regeln:
 
-- a. die Aussetzung der Anwendung der Gebührenfreiheit oder der Erleichterungen hinsichtlich der Vorlage von Belegen, der Behandlungsfristen oder der Ausstellung von Visa für die mehrfache Einreise für sämtliche Staatsangehörige oder bestimmte Kategorien von Staatsangehörigen eines bestimmten Drittstaates, der bei der Rückübernahme von illegal aufhältigen Personen nicht ausreichend kooperiert (Art. 25*a* Abs. 5 Bst. a);
-- b. die schrittweise Erhöhung der Visumgebühr bei fortbestehender unzureichender Kooperation des betroffenen Drittstaates (Art. 25*a* Abs. 5 Bst. b);
-- c. die Einräumung besonderer Erleichterungen für sämtliche Staatsangehörige oder bestimmte Kategorien von Staatsangehörigen eines bestimmten Drittstaates, der bei der Rückübernahme von illegal aufhältigen Personen ausreichend kooperiert (Art. 25*a* Abs. 8).[^34b-6]
+- a.[^34b-6] die Aussetzung der Anwendung der Gebührenfreiheit oder der Erleichterungen hinsichtlich der Vorlage von Belegen, der Behandlungsfristen oder der Ausstellung von Visa für die mehrfache Einreise für sämtliche Staatsangehörige oder bestimmte Kategorien von Staatsangehörigen eines bestimmten Drittstaates, der bei der Rückübernahme von illegal aufhältigen Personen nicht ausreichend kooperiert (Art. 25*a* Abs. 5 Bst. a und 6);
+- b.[^34b-7] die schrittweise Erhöhung der Visumgebühr bei fortbestehender unzureichender Kooperation des betroffenen Drittstaates (Art. 25*a* Abs. 5 Bst. b und 6);
+- c. die Einräumung besonderer Erleichterungen für sämtliche Staatsangehörige oder bestimmte Kategorien von Staatsangehörigen eines bestimmten Drittstaates, der bei der Rückübernahme von illegal aufhältigen Personen ausreichend kooperiert (Art. 25*a* Abs. 8).[^34b-8]
 
 [^34b-1]: Eingefügt durch Ziff. I der V vom 14. Aug. 2019, in Kraft seit 2. Febr. 2020 ([AS 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 [^34b-2]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. c.
 [^34b-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^34b-4]: Fassung gemäss Ziff. I der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
 [^34b-5]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 15. Mai 2024 ([AS 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
-[^34b-6]: Eingefügt durch Ziff. I der V vom 14. Febr. 2024, in Kraft seit 1. März 2024 ([AS 2024 75](https://fedlex.data.admin.ch/eli/oc/2024/75)).
+[^34b-6]: Fassung gemäss Ziff. I der V vom 26. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 345](https://fedlex.data.admin.ch/eli/oc/2024/345)).
+[^34b-7]: Fassung gemäss Ziff. I der V vom 26. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 345](https://fedlex.data.admin.ch/eli/oc/2024/345)).
+[^34b-8]: Eingefügt durch Ziff. I der V vom 14. Febr. 2024, in Kraft seit 1. März 2024 ([AS 2024 75](https://fedlex.data.admin.ch/eli/oc/2024/75)).
 
 #### Art. 34c
 
@@ -916,6 +922,29 @@ Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur 
 [^34h-1]: Eingefügt durch Ziff. I der V vom 10. April 2024, in Kraft seit 15. Mai 2024 ([AS 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
 [^34h-2]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. l.
 [^34h-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
+#### Art. 34i
+
+**Abschluss internationaler Verträge im Zusammenhang mit der Verordnung (EU) 2016/399**[^34i-1]
+
+<sup>1</sup>
+
+Das SEM ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von Durchführungsrechtsakten der Europäischen Kommission zur Verordnung (EU) 2016/399[^34i-2], sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG[^34i-3] darstellen und sofern die Durchführungsrechtsakte gestützt auf die nachfolgend genannten Artikel und Absätze der Verordnung (EU) 2016/399 erlassen wurden und Folgendes regeln:
+
+- a. das Muster für die Mitteilung über die vorübergehende Wiedereinführung von Grenzkontrollen an den Binnengrenzen (Art. 27 Abs. 6);
+- b. das einheitliche Format für den Bericht über die Wiedereinführung von Grenzkontrollen an den Binnengrenzen (Art. 33 Abs. 4).
+
+<sup>2</sup>
+
+Es ist zuständig für den Abschluss von völkerrechtlichen Verträgen zur Übernahme von delegierten Rechtsakten der Europäischen Kommission zur Verordnung (EU) 2016/399, sofern sie völkerrechtliche Verträge von beschränkter Tragweite im Sinne von Artikel 7*a* RVOG darstellen und sofern die delegierten Rechtsakte gestützt auf die nachfolgend genannten Artikel und Absätze der Verordnung (EU) 2016/399 erlassen wurden und Folgendes regeln:
+
+- a. zusätzliche Massnahmen zur Grenzüberwachung (Art. 13 Abs. 5);
+- b. Änderungen der Anhänge III, IV und VIII der Verordnung (EU) 2016/399 (Art. 36 Abs. 1);
+- c. Ergänzungen von Personenkategorien, denen unbedingt notwendige Reisen gestattet sind, in Anhang XI Teil B der Verordnung (EU) 2016/399 (Art. 36 Abs. 2).
+
+[^34i-1]: Eingefügt durch Ziff. I der V vom 26. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 345](https://fedlex.data.admin.ch/eli/oc/2024/345)).
+[^34i-2]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. m.
+[^34i-3]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 
 #### Art. 35
 
