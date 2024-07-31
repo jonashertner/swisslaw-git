@@ -1,235 +1,220 @@
 ---
 canton: VS
 number: "413.116"
-title: "Règlement de l'école de culture générale filière arts de la scène théâtre et de la maturité spécialisée artistique orientation arts de la scène théâtre du canton du Valais"
+title: "Règlement de la maturité spécialisée domaine \"musique et théâtre\" du canton du Valais"
 short: RMSMT
 language: fr
-version: 2015-09-01
-corrected: 2020-05-04
-version_adopted: 2016-09-14
+version: 2024-08-01
+version_adopted: 2024-06-19
 adopted: 2024-06-19
 in_force: 2024-08-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/413.116"
-pdf: "https://lex.vs.ch/api/fr/versions/510/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3333/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Règlement de l'école de culture générale filière arts de la scène théâtre et de la maturité spécialisée artistique orientation arts de la scène théâtre du canton du Valais
+# Règlement de la maturité spécialisée domaine "musique et théâtre" du canton du Valais
 
-du 14 septembre 2016
+(RMSMT)
+
+du 19.06.2024 (état 01.08.2024)
 
 Le Conseil d'Etat du canton du Valais
 
-vu la loi sur l'instruction publique du 4 juillet 1962;
+vu la loi sur l'instruction publique du 4 juillet 1962 (LIP);
 
-vu le règlement de la Conférence suisse des directeurs cantonaux de l'instruction publique (ci-après: CDIP) relatif à la reconnaissance des certificats délivrés par les écoles de culture générale du 12 juin 2003;
+vu la loi fédérale sur l'encouragement des hautes écoles et la coordination dans le domaine suisse des hautes écoles du 30 septembre 2011 (LEHE);
 
-vu le règlement de l'école de culture générale du 3 juin 2008;
+vu le règlement de la CDIP concernant la reconnaissance des certificats délivrés par les écoles de culture générale du 25 octobre 2018;
 
-vu la reconnaissance par la CDIP des écoles de culture générale du Valais du 26 juin 2009;
+vu le règlement de l'école de culture générale du 15 août 2021;
 
-sur la proposition du Département de la formation et de la sécurité,
+vu le règlement d'admission en Bachelor HES-SO du 26 mai 2011;
 
-arrête:[^t-1]
+vu le règlement d’admission en Bachelor dans le domaine Musique et Arts de la scène HES-SO du 26 mai 2011;
 
-[^t-1]: Dans le présent règlement, toute désignation de personne, de statut ou de fonction s'entend indifféremment au féminin et au masculin.
+sur la proposition du département en charge de la formation,
 
-### Section 1: Généralités
+ordonne:[^ingress-1]
+
+[^ingress-1]: Dans le présent règlement, toute désignation de personne, de statut ou de fonction s'entend indifféremment au féminin et au masculin.
+
+## 1 Généralités
 
 #### Art. 1
 
 **Champ d'application**
 
-<sup>1</sup> Le présent règlement définit les conditions d'admission et de promotion dans la filière social et théâtre de l'école de culture générale (ci-après: ECG) et dans l'année de maturité spécialisée artistique orientation arts de la scène - théâtre (ci-après: MSAT).
+<sup>1</sup> Le présent règlement définit les conditions d'admission et de promotion dans l'année de maturité spécialisée domaine "musique et théâtre" (ci-après: MS MT) du canton du Valais.
 
-<sup>2</sup> Il fixe les modalités de l'organisation et du déroulement de la filière ECG option social et théâtre ainsi que de la MSAT.
+<sup>2</sup> Il fixe les modalités de l'organisation et du déroulement de l'année.
 
 #### Art. 2
 
 **Définition**
 
-<sup>1</sup> La filière ECG option social et théâtre suivie de l'année de MSAT est une filière de l'enseignement secondaire du deuxième degré général, destinée à des élèves particulièrement doués pour les arts de la scène qui répondent aux conditions d'admission fixées à l'article 5 du présent règlement.
-
-<sup>2</sup> En plus de la formation scolaire nécessaire à l'obtention d'un certificat ECG, les élèves reçoivent une formation complémentaire et préprofessionnelle dans le domaine théâtral pendant la troisième année de l'ECG et l'année de MSAT.
-
-<sup>3</sup> Les deux heures d'histoire du théâtre de deuxième année de l'ECG sont données par un professeur de l'ECCG de Martigny; elles sont complétées par des rencontres avec des professions du théâtre (notamment metteur en scène, technicien, costumière) et par des spectacles.
-
-<sup>4</sup> La formation préprofessionnelle artistique théâtre est assurée par l'Ecole de théâtre de Martigny, en complément à la formation scolaire, et en collaboration avec l'ECCG de Martigny.
+<sup>1</sup> L'année de MS MT est une filière de l'enseignement secondaire du deuxième degré général.
 
 #### Art. 3
 
 **Objectifs**
 
-<sup>1</sup> Cette filière délivre un certificat «ECG option social et artistique», arts de la scène - théâtre selon le règlement cantonal de l'école de culture générale du 3 juin 2008 et un certificat de maturité spécialisée orientation artistique arts de la scène - théâtre reconnus par la Conférence suisse des directeurs cantonaux de l'instruction publique (CDIP).
+<sup>1</sup> L’année de MS MT permet l’obtention d’un certificat de maturité spécialisée domaine "musique et théâtre" reconnu par la Conférence suisse des directeurs cantonaux de l'instruction publique (ci-après: CDIP).
 
-<sup>2</sup> Le plan d'études, les programmes et les méthodes de travail reposent sur les objectifs fondamentaux suivants:
+<sup>2</sup> L'organisation de la MS MT repose sur les objectifs fondamentaux suivants:
 
-- a) permettre à des élèves particulièrement doués pour le théâtre et les arts de la scène d'accéder à la procédure d'admission à une Haute Ecole de théâtre ou à une autre école équivalente;
+- a) permettre aux étudiants de se préparer aux concours d’admission des hautes écoles dans les domaines Musique et Arts de la scène;
+- b) attester des connaissances, des savoir-faire et une aptitude générale en vue d’accéder à une formation de niveau HES dans les domaines Musique et Arts de la scène.
 
-- b) élargir le développement d'une culture générale orientée vers la compréhension des réalités actuelles, mettant en valeur le sens des relations humaines, la créativité et l'esprit d'initiative;
-
-- c) préparer les élèves à la formation dans une Haute Ecole de théâtre ou une autre école équivalente à travers l'approfondissement de connaissances scolaires et professionnelles spécifiques.
-
-<sup>3</sup> La MSAT favorise le développement de la personnalité de l'élève en renforçant ses compétences personnelles et sociales.
+<sup>3</sup> La MS MT favorise le développement de la personnalité de l'élève en renforçant ses compétences personnelles et artistiques.
 
 #### Art. 4
 
 **Etablissement reconnu**
 
-<sup>1</sup> L'Etat du Valais reconnaît le certificat ECG option social et artistique arts de la scène - théâtre ainsi que la maturité spécialisée artistique orientation arts de la scène - théâtre (MSAT) relevant de l'Ecole de commerce et de culture générale de Martigny.
+<sup>1</sup> L'Etat du Valais reconnaît le certificat de MS MT relevant de l'Ecole de commerce et de culture générale de Martigny.
 
 <sup>2</sup> Le Conseil d'Etat peut reconnaître d'autres établissements.
 
-### Section 2: Admission et organisation de la formation
+## 2 Admission et organisation de la formation
 
 #### Art. 5
 
-Admission dans la filière ECG option social et arts de la scène - théâtre L'admission à l'ECG option social et théâtre est possible aux conditions suivantes:
+**Admission**
 
-- a) avoir réussi la première année ECG;
+<sup>1</sup> L'admission à la MS MT est conditionnée par:
 
-- b) avoir transmis, en même temps que l'inscription, un dossier de motivation qui sera examiné par l'Ecole de théâtre de Martigny;
-
-- c) pour les candidats à la deuxième ECG: avoir réussi avec succès l'audition mise sur pied par l'Ecole de théâtre de Martigny au printemps précédent le début de l'année scolaire suivante.
+- a) l'obtention du certificat de culture générale (ci-après: certificat ECG) domaine "musique et théâtre";
+- b) la réussite du concours d’admission devant le jury ad hoc. Ce concours d’admission a lieu, en principe, au mois de mars de la 3<sup>e</sup> année d’école de culture générale (ci-après ECG).
 
 #### Art. 6
 
-Admission dans l'année de maturité spécialisée orientation théâtre L'admission dans l'année de MSAT est conditionnée par la réussite du certificat ECG artistique orientation arts de la scène - théâtre ou par une formation équivalente.
+**Contenu de la formation**
+
+<sup>1</sup> La MS MT comprend:
+
+- a) le certificat ECG domaine "musique et théâtre";
+- b) des cours et stages pratiques;
+- c) un travail de maturité spécialisée en lien avec le domaine des arts de la scène (musique ou théâtre) ou du cinéma.
 
 #### Art. 7
 
-Organisation et durée de la formation de la filière ECG arts de la scène - théâtre La MSAT comporte quatre années d'études organisées de la façon suivante:
+**Organisation de la formation**
 
-- a) première année: ECG en tronc commun dans n'importe quel établissement scolaire et réussite au printemps de l'audition placée sous la responsabilité de l'Ecole de théâtre de Martigny;
+<sup>1</sup> Les cours et stages pratiques comprennent au minimum 120 périodes d'enseignement durant l'année scolaire réparties comme suit:
 
-- b) deuxième année: programme ordinaire de l'ECG social et arts de la scène - théâtre de Martigny avec un complément de deux périodes d'enseignement spécifique au théâtre; cette note est reprise pour la certification comme branche à option;
+- a) cours et stages techniques;
+- b) cours et stages d’interprétation;
+- c) préparation aux concours d’admission dans les hautes écoles de de musique ou de théâtre.
 
-- c) troisième année: programme ordinaire de l'ECG social et arts de la scène - théâtre de Martigny et début de la formation dispensée par l'Ecole de théâtre de Martigny à raison de dix périodes hebdomadaires. En cas de réussite, l'élève obtient à l'issue de cette année de formation le certificat ECG option social et arts de la scène - théâtre;
+<sup>2</sup> Le travail de maturité spécialisée est réalisé dans le domaine des arts de la scène (musique ou théâtre) ou du cinéma. Il est présenté sous la forme d'un travail de recherche attestant de la capacité du candidat à mener une réflexion personnelle approfondie sur un domaine artistique. Il doit consister en un document écrit et être défendu oralement.
 
-- d) année de maturité: formation théâtrale dispensée par l'Ecole de théâtre de Martigny à raison de vingt périodes hebdomadaires et suivi du travail de maturité par l'ECG de Martigny.
+<sup>3</sup> Les modalités d'organisation des cours, des stages et du travail de maturité sont précisées dans les directives du département en charge de la formation (ci-après: le département) relatives à l'organisation de la MS MT.
 
-### Section 3: Certificat ECG artistique orientation arts de la scène - théâtre
+## 3 Certification
 
 #### Art. 8
 
-Réussite du certificat ECG artistique orientation arts de la scène - théâtre
+**Validation de la formation**
 
-<sup>1</sup> La réussite du certificat ECG artistique orientation arts de la scène - théâtre est régie par le règlement cantonal de l'école de culture générale du 3 juin 2008 et les examens organisés par l'Ecole de théâtre de Martigny doivent être réussis. L'obtention de ce certificat autorise l'élève à suivre l'année de MSAT.
+<sup>1</sup> Les stages pratiques sont validés par les jurys composés d’un professeur de l’ECG en collaboration avec au moins un représentant de l’école de théâtre ou de l’école de l’ Association des écoles de musique du Valais (ci-après: AEM-VS) concernée.
 
-<sup>2</sup> Un échec aux examens organisés par l'Ecole de théâtre mais la réussite des examens finaux répondant aux exigences de l'ECG option social autorise la certification dans cette option.
+<sup>2</sup> Le travail de maturité spécialisée est validé par l'ECG, en collaboration avec l’école de théâtre ou l’école de l’AEM-VS concernée.
 
-<sup>3</sup> En cas d'abandon de la formation théâtrale en cours d'année, les étudiants suivront les modules réguliers de la filière option social et pédagogie.
-
-### Section 4: Maturité spécialisée artistique orientation arts de la
-
-scène - théâtre (MSAT)
+<sup>3</sup> Les modalités de validation des cours, des stages pratiques et du travail de maturité spécialisée sont précisées dans les directives du département relatives à l'organisation de la MS MT.
 
 #### Art. 9
 
-Réussite de la maturité spécialisée artistique orientation arts de la scène - théâtre (MSAT) La MSAT est obtenue si l'étudiant réussit la formation théâtrale dispensée par l'école de théâtre et si le travail de maturité spécialisée exécuté, rendu dans les délais et défendu oralement, a obtenu au moins la mention «suffisant».
+**Obtention du titre**
+
+<sup>1</sup> La MS MT est obtenue si les cours, les stages pratiques ont été validés et si le travail de maturité spécialisée exécuté, rendu dans les délais et défendu oralement, a obtenu au moins la mention "suffisant".
 
 #### Art. 10
 
-**Inscription à la soutenance du travail de maturité**
+**Inscription à la soutenance du travail de maturité spécialisée**
 
-Les candidats doivent déposer auprès de la direction de leur école:
+<sup>1</sup> Les candidats doivent déposer auprès de la direction de leur école, conformément aux directives du département:
 
 - a) une demande écrite d'admission selon formulaire d'inscription officielle;
-
 - b) une attestation de paiement de la finance d'inscription.
 
 #### Art. 11
 
-Fraude ou plagiat dans le cadre du travail de maturité spécialisée Toute fraude est passible d'une sanction qui va de l'échec à la session de MSAT à la perte de tout droit à la maturité spécialisée.
+**Fraude ou plagiat dans le cadre du travail de maturité spécialisée**
+
+<sup>1</sup> Toute fraude ou plagiat est passible d'une sanction qui va de l'échec à la session de MS MT à la perte de tout droit à la maturité spécialisée.
 
 #### Art. 12
 
 **Présence de tiers**
 
-Seuls sont admis à assister à la soutenance du travail de maturité, le répondant ECG, l'expert, le répondant de l'Ecole de théâtre de Martigny, le directeur de l'établissement, l'inspecteur, les délégués du Département et de la CDIP.
+<sup>1</sup> Seuls sont admis à assister à la soutenance du travail de maturité spécialisée, le répondant ECG, l'expert, le directeur de l'établissement, l'inspecteur, les délégués du département et de la CDIP.
 
 #### Art. 13
 
 **Cas d'échec**
 
-<sup>1</sup> En cas d'échec à la formation à l'Ecole de théâtre de Martigny, l'année de maturité doit être refaite.
+<sup>1</sup> En cas de non-validation des cours, des stages, ceux-ci doivent être refaits, en principe l’année suivante.
 
-<sup>2</sup> En cas d'échec au travail de maturité, celui-ci doit être refait en principe dans l'année qui suit au plus tard.
+<sup>2</sup> En cas d'échec au travail de maturité spécialisée, celui-ci doit être refait.
 
-<sup>3</sup> Dans les deux cas ci-dessus, un deuxième échec est un échec définitif à la MSAT.
+<sup>3</sup> Dans les deux cas ci-dessus, un deuxième échec est un échec définitif à la MS MT.
 
 #### Art. 14
 
-**Indications figurant sur le certificat de maturité**
+**Indications figurant sur le certificat**
 
-Le certificat de MSAT, délivré par le Département, porte les indications suivantes:
+<sup>1</sup> Le certificat de MS MT, délivré par le département, porte les indications suivantes:
 
-- a) la dénomination de l'école et du canton où l'école a son siège;
+- a) la dénomination de l'école et du canton;
+- b) les données personnelles du titulaire du certificat;
+- c) la mention indiquant que le certificat de maturité spécialisée est reconnu à l'échelon national;
+- d) le nom du domaine professionnel choisi;
+- e) la validation et l'appréciation des disciplines de formation générale;
+- f) la validation et l'appréciation des disciplines en relation avec le domaine professionnel;
+- g) la validation du sujet et l'appréciation du travail personnel;
+- h) la validation et l'appréciation des prestations complémentaires;
+- i) le sujet et l'appréciation du travail de maturité spécialisée;
+- j) la signature de la direction de l'école et du département;
+- k) le lieu et la date.
 
-- b) la mention de l'option choisie;
-
-- c) les données personnelles du titulaire du certificat;
-
-- d) la mention de la reconnaissance à l'échelon national du certificat de MSAT;
-
-- e) les notes obtenues dans les branches du certificat ECG;
-
-- f) le sujet et l'appréciation du travail personnel;
-
-- g) le sujet et l'appréciation du travail de maturité;
-
-- h) la validation des stages pratiques;
-
-- i) la signature de la direction de l'école et de l'instance cantonale compétente;
-
-- j) le lieu et la date.
-
-### Section 5: Procédure de recours
+## 4 Procédure de recours
 
 #### Art. 15
 
 **Procédure**
 
-Les décisions prises en application du présent règlement sont soumises aux dispositions de la loi sur la procédure et la juridiction administratives (LPJA).
+<sup>1</sup> Les décisions prises en application du présent règlement sont soumises aux dispositions de la loi sur la procédure et la juridiction administratives (LPJA).
 
 #### Art. 16
 
 **Recours**
 
-<sup>1</sup> Les décisions du Département sont susceptibles de recours au Conseil d'Etat dans les trente jours ou, s'il s'agit d'une décision incidente (art. 41 al. 2 et 42 LPJA), dans les dix jours, dès sa notification.
+<sup>1</sup> Les décisions du département sont susceptibles de recours au Conseil d'Etat dans les 30 jours ou, s'il s'agit d'une décision incidente (art. 41 al. 2 et 42 LPJA), dans les 10 jours dès sa notification.
 
 <sup>2</sup> Peuvent notamment faire l'objet de recours les décisions concernant:
 
 - a) les sanctions en cas de fraude;
-
 - b) le refus de délivrer la maturité (échec);
+- c) la non validation des cours, des stages pratiques.
 
-- c) la non validation du stage spécifique.
-
-### Section 6: Dispositions finales
+## 5 Dispositions finales
 
 #### Art. 17
 
 **Cas non prévus**
 
-<sup>1</sup> Au surplus, les élèves sont soumis aux dispositions du règlement général concernant les établissements de l'enseignement secondaire du deuxième degré.
+<sup>1</sup> Au surplus, les élèves sont soumis aux dispositions du règlement général concernant les établissements de l'enseignement secondaire du deuxième degré ainsi qu'aux dispositions du département.
 
-<sup>2</sup> Tous les cas non prévus sont du ressort du Département.
+<sup>2</sup> Tous les cas non prévus sont du ressort du département.
+
+## 6 Dispositions transitoires
 
 #### Art. 18
 
-**Entrée en vigueur**
+**Dispositions transitoires**
 
-Le présent règlement entre en vigueur avec effet rétroactif au début de l'année scolaire 2015-2016.
+<sup>1</sup> Les élèves ayant débuté leur maturité spécialisée domaine "musique et théâtre" en 2023/2024 ou antérieurement restent soumis au règlement de l'école de culture générale filière arts de la scène théâtre et de la maturité spécialisée artistique orientation arts de la scène théâtre du canton du Valais du 14 septembre 2016.
 
-Ainsi adopté en Conseil d'Etat, à Sion, le 14 septembre 2016.
-
-La présidente du Conseil d'Etat: Esther Waeber-Kalbermatten Le chancelier d'Etat: Philipp Spörri
-
-**Entrée en**
-
-### Intitulé et modifications Publication
-
-vigueur Règlement de l'école de culture générale BO No 39/2016 01.09.2015 filière arts de la scène théâtre et de la maturité spécialisée artistique orientation arts de la scène théâtre du canton du Valais du 14 septembre 2016
+RCV RO/AGS 2024-072
