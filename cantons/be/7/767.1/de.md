@@ -4,13 +4,12 @@ number: "767.1"
 title: Gesetz über die Schifffahrt und die Besteuerung der Schiffe
 short: Schifffahrtsgesetz
 language: de
-version: 2021-04-01
-valid_until: 2024-07-31
-version_adopted: 2021-02-24
+version: 2024-08-01
+version_adopted: 2023-11-28
 adopted: 1990-02-19
 in_force: 1991-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/767.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2237/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3050/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2237/pdf_file"
 
 (Schifffahrtsgesetz)
 
-vom 19.02.1990 (Stand 01.04.2021)
+vom 19.02.1990 (Stand 01.08.2024)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -98,17 +97,23 @@ beschliesst:
 
 **Sicherstellung**
 
-<sup>1</sup> Die Schiffahrtsbehörde kann ein Schiff sicherstellen und nötigenfalls auswassern, wenn
+<sup>1</sup> Die Schifffahrtsbehörde kann ein Schiff sicherstellen und nötigenfalls auswassern, wenn
 
-- a das Schiff widerrechtlich eingewassert wurde oder vorschriftswidrig stilliegt, und
-- b die Halterin oder Eigentümerin, beziehungsweise der Halter oder Eigentümer der Aufforderung, den widerrechtlichen Zustand zu beseitigen, innert Monatsfrist nicht nachkommt.
+- a das Schiff widerrechtlich eingewassert wurde oder vorschriftswidrig stillliegt und
+- b die Halterin oder der Halter bzw. die Eigentümerin oder der Eigentümer der Aufforderung, den widerrechtlichen Zustand zu beseitigen, innert Monatsfrist nicht nachkommt.
 
 <sup>2</sup> Die Kantonspolizei kann ein Schiff sicherstellen und nötigenfalls auswassern, wenn
 
-- a das Schiff vorschriftswidrig stilliegt, und
+- a das Schiff vorschriftswidrig stillliegt und
 - b der Verkehr behindert wird.
 
-<sup>3</sup> Sicherstellung und Auswasserung erfolgen auf Kosten und Gefahr der Halterin oder Eigentümerin, beziehungsweise des Halters oder Eigentümers. Diese haften solidarisch.
+<sup>3</sup> Sicherstellung und Auswasserung erfolgen auf Kosten und Gefahr der Halterin oder des Halters bzw. der Eigentümerin oder des Eigentümers. Diese haften solidarisch.
+
+<sup>4</sup> Die Voraussetzungen zur Verwertung oder Vernichtung der von der Schifffahrtsbehörde oder der Kantonspolizei sichergestellten Schiffe und derer Bestandteile richten sich nach den Vorschriften des Polizeigesetzes vom 10. Februar 2019 (PolG)[^7-1].
+
+<sup>5</sup> Die Mitarbeiterinnen und Mitarbeiter der Schifffahrtsbehörde und der Kantonspolizei dürfen das Schiff zur Sicherstellung oder Verwertung ohne Einwilligung der berechtigten Person betreten und durchsuchen, soweit dies zur Erfüllung ihrer Aufgaben notwendig ist. Es ist ein Protokoll zu erstellen.
+
+[^7-1]: BSG [551.1](https://www.belex.sites.be.ch/data/551.1/de)
 
 #### Art. 8
 

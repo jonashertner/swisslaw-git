@@ -4,13 +4,12 @@ number: "767.1"
 title: "Loi sur la navigation et l'imposition des bateaux *"
 short: Loi sur la navigation
 language: fr
-version: 2021-04-01
-valid_until: 2024-07-31
-version_adopted: 2021-02-24
+version: 2024-08-01
+version_adopted: 2023-11-28
 adopted: 1990-02-19
 in_force: 1991-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/767.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2237/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3050/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2237/pdf_file"
 
 (Loi sur la navigation)
 
-du 19.02.1990 (état au 01.04.2021)
+du 19.02.1990 (état au 01.08.2024)
 
 Le Grand Conseil du canton de Berne,
 
@@ -109,6 +108,12 @@ arrête:
 - b lorsque la circulation est entravée.
 
 <sup>3</sup> La mise en fourrière et la mise à terre sont exécutées aux frais et aux risques et périls du détenteur ou de la détentrice ou du ou de la propriétaire. Ces derniers en répondent solidairement.
+
+<sup>4</sup> Les conditions auxquelles les bateaux mis en fourrière par l'autorité de la navigation ou par la Police cantonale et les éléments qui les composent peuvent être réalisés ou détruits sont régies par les prescriptions de la loi du 10 février 2019 sur la police (LPol)[^7-1].
+
+<sup>5</sup> Les collaboratrices et les collaborateurs de l'autorité de la navigation et de la Police cantonale peuvent pénétrer dans un bateau et le perquisitionner dans le cadre de sa mise en fourrière ou de sa réalisation sans l'accord de l'ayant droit, dans la mesure où cela est nécessaire à l'accomplissement de leurs tâches. Ils établissent un procès-verbal.
+
+[^7-1]: RSB [551.1](https://www.belex.sites.be.ch/data/551.1/fr)
 
 #### Art. 8
 
