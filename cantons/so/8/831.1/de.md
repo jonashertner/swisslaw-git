@@ -4,13 +4,13 @@ number: "831.1"
 title: Sozialgesetz
 short: SG
 language: de
-version: 2024-07-01
-valid_until: 2024-07-31
-version_adopted: 2024-05-15
+version: 2024-08-01
+valid_until: 2024-12-31
+version_adopted: 2023-11-08
 adopted: 2007-01-31
 in_force: 2008-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/831.1"
-pdf: "https://bgs.so.ch/api/de/versions/5468/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5469/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5468/pdf_file"
 
 (SG)
 
-Vom 31.01.2007 (Stand 01.07.2024)
+Vom 31.01.2007 (Stand 01.08.2024)
 
 Der Kantonsrat von Solothurn
 
@@ -1603,7 +1603,9 @@ beschliesst:
 
 **Ziel und Zweck**
 
-<sup>1</sup> Kanton und Einwohnergemeinden sorgen für Strukturen, die Familien unterstützen und den Zugang zu Angeboten der Frühen Förderung sicherstellen.
+<sup>1</sup> Kanton und Einwohnergemeinden sorgen für Strukturen, die Familien unterstützen und den Zugang zu Angeboten der frühen Förderung sicherstellen.
+
+<sup>2</sup> Als Angebote der frühen Förderung gelten sämtliche Angebote, die den Kindern im Vorschulalter und ihren Bezugspersonen offenstehen und die Lern- und Entwicklungsprozesse dieser Kinder unterstützen und ihnen ein sicheres und gesundes Aufwachsen ermöglichen.
 
 #### § 106
 
@@ -1621,16 +1623,35 @@ beschliesst:
 
 <sup>1</sup> Der Kanton bietet Eltern Bildungsmöglichkeiten, die sie in ihren Kompetenzen für die Familienarbeit stärken.
 
+#### § 106bisbis
+
+**Frühe Sprachförderung**
+
+<sup>1</sup> Für Kinder mit unzureichenden Deutschkenntnissen besteht spätestens ein Jahr vor dem obligatorischen Schuleintritt ein freiwilliges Angebot der frühen Sprachförderung. Die Einwohnergemeinden können mittels Verfügung Kinder mit unzureichenden Deutschkenntnissen gemäss Sprachstanderhebung spätestens im Jahr vor dem obligatorischen Schuleintrittsalter verpflichten, ein solches Angebot der frühen Sprachförderung zu besuchen.
+
+<sup>2</sup> Die Einwohnergemeinden sorgen für:
+
+- a) die Abklärung des sprachlichen Förderbedarfs, wobei die kantonalen Vorgaben zu beachten sind;
+- b) die Sicherstellung eines bedarfsgerechten Angebots der frühen Sprachförderung, wobei die Förderung in Spielgruppen oder im Rahmen von Angeboten der familienergänzenden Kinderbetreuung zu erfolgen hat.
+
+<sup>3</sup> Verzichten die Einwohnergemeinden auf eine Verpflichtung des Besuchs eines Angebots der frühen Förderung, können sie von den Erziehungsberechtigen einen ihrer finanziellen Leistungsfähigkeit entsprechenden Beitrag verlangen, soweit dadurch nicht in das Existenzminimum eingegriffen wird. Erfolgt der Besuch eines Angebots der frühen Sprachförderung auf Verfügung der Einwohnergemeinde, ist dieser Besuch durch die Einwohnergemeinde zu finanzieren.
+
+<sup>4</sup> Der Regierungsrat regelt die Einzelheiten zur Erhebung der Deutschkenntnisse in einer Verordnung.
+
+<sup>5</sup> Er führt nach drei Jahren seit Inkrafttreten der Bestimmungen zur frühen Sprachförderung eine Evaluation zu den Auswirkungen durch und erstellt im Anschluss einen entsprechenden Bericht.
+
 #### § 106ter
 
-**Koordination**
+**Koordination und Weiterentwicklung**
 
-<sup>1</sup> Der Kanton koordiniert die Entwicklung und die Angebote für Familien, der Frühen Förderung und der Elternbildung, indem er:
+<sup>1</sup> Der Kanton koordiniert die Angebote für Familien, der frühen Förderung und der Elternbildung und fördert deren Weiterentwicklung, indem er:
 
-- a) Gemeinden, öffentliche und private Institutionen fachlich berät;
-- b) Projekte unterstützt und fördert;
-- c) Angebote den Gemeinden bekannt macht und untereinander vernetzt;
-- d) die Entwicklung beobachtet, auswertet und darüber berichtet.
+- a) Einwohnergemeinden sowie öffentliche und private Institutionen fachlich berät;
+- b) Projekte und Massnahmen unterstützt;
+- c) Angebote den Einwohnergemeinden bekannt macht und untereinander vernetzt;
+- d) die Entwicklung auswertet und darüber berichtet.
+
+<sup>2</sup> Er beteiligt sich in angemessener Weise an den Qualitätsentwicklungskosten für die frühe Sprachförderung. Der Regierungsrat legt die Voraussetzungen und den Umfang der Beteiligung in einer Verordnung fest.
 
 #### § 107
 
@@ -1639,7 +1660,7 @@ beschliesst:
 <sup>1</sup> Die Gemeinden fördern familienergänzende Betreuungsangebote, indem sie insbesondere Hilfe leisten:
 
 - a) für familien- und schulergänzende Betreuungsangebote, wie Tagesschulen, Mittagstische, Aufgabenhilfe;
-- b) für familienergänzende Betreuungsangebote wie Spielgruppen, Kinderhorte und Kindertagesstätten.
+- b) für familienergänzende Betreuungsangebote, wie Kinderhorte und Kindertagesstätten.
 
 #### § 108
 
@@ -2615,6 +2636,12 @@ beschliesst:
 **Übergangsbestimmung zu den Änderungen vom 31. August 2021**
 
 <sup>1</sup> Einwohnergemeinden müssen innert zweier Jahre ab Inkrafttreten der Paragraphen 146<sup>bis</sup> und 146<sup>ter</sup> die nötigen Angebote der Prävention und Beratung aufgebaut haben.
+
+#### § 182
+
+**Übergangsbestimmung zu den Änderungen vom 8. November 2023**
+
+<sup>1</sup> Die Einwohnergemeinden haben innert zweier Jahre ab Inkrafttreten der Änderungen vom 8. November 2023 die frühe Sprachförderung sicherzustellen.
 
 Dieser Beschluss unterliegt dem fakultativen Referendum.
 
