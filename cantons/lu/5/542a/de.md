@@ -3,20 +3,20 @@ canton: LU
 number: 542a
 title: Studien- und Prüfungsordnung für die Bachelor- und Masterstufe der Kultur- und Sozialwissenschaftlichen Fakultät der Universität Luzern
 language: de
-version: 2022-08-01
-valid_until: 2024-07-31
-version_adopted: 2022-06-30
+version: 2024-08-01
+valid_until: 2025-07-31
+version_adopted: 2024-03-27
 adopted: 2016-06-29
 in_force: 2016-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/542a"
-pdf: "https://srl.lu.ch/api/de/versions/3950/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4222/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Studien- und Prüfungsordnung für die Bachelor- und Masterstufe der Kultur- und Sozialwissenschaftlichen Fakultät der Universität Luzern
 
-vom 29.06.2016 (Stand 01.08.2022)
+vom 29.06.2016 (Stand 01.08.2024)
 
 Der Universitätsrat der Universität Luzern,
 
@@ -45,7 +45,7 @@ beschliesst:
 
 **Studierende**
 
-<sup>1</sup> Die Studierendenkategorien sowie die jeweiligen Rechte und Pflichten entsprechen den Vorgaben des Universitätsstatuts[^2-1] der Universität Luzern, §§ 33–36.
+<sup>1</sup> Die Studierendenkategorien sowie die jeweiligen Rechte und Pflichten entsprechen den Vorgaben gemäss §§ 44ff. des Statuts der Universität Luzern (Universitätsstatut[^2-1]).
 
 [^2-1]: SRL Nr. [539c](https://srl.lu.ch/data/539c/de)
 
@@ -55,15 +55,15 @@ beschliesst:
 
 <sup>1</sup> Zur Ergänzung von Bachelor- und Masterstudienprogrammen anderer Fakultäten können an der Fakultät Nebenfachstudien (Minor) in einzelnen Fächern absolviert werden.
 
-<sup>2</sup> Ein Minor auf Bachelorstufe umfasst 60 Credits. Ein Minor auf Masterebene umfasst 30 Credits.
+<sup>2</sup> Auf Bachelorebene kann ein Minor 30 oder 60 Credits umfassen, auf Masterebene 30 Credits.
 
 #### § 4
 
 **Doppelstudium und Zweitstudium**
 
-<sup>1</sup> Besonders geeignete und motivierte Studierende können sich an der Fakultät parallel für zwei Studiengänge immatrikulieren (Doppelstudium). Es gelten die Bestimmungen der Richtlinien über das Doppelstudium sowie analog die Bestimmungen der universitären Richtlinien über die Doppelimmatrikulation an zwei verschiedenen Fakultäten.
+<sup>1</sup> Besonders geeignete und motivierte Studierende können sich an der Fakultät parallel für zwei Studiengänge immatrikulieren (Doppelstudium). Es gelten die Bestimmungen der Richtlinien über das Doppelstudium sowie analog die Bestimmungen der universitären Richtlinien über die Doppelimmatrikulation an zwei verschiedenen Fakultäten oder Universitäten.
 
-<sup>2</sup> Studierende, die bereits einen Bachelor- bzw. Masterabschluss vorweisen können, haben die Möglichkeit, ein zweites Bachelor- bzw. Masterstudium anzuhängen (Zweitstudium). Es gelten die Bestimmungen der Richtlinien über das Zweitstudium.
+<sup>2</sup> Studierende, die bereits einen Bachelor- bzw. Masterabschluss vorweisen können, haben die Möglichkeit, ein zweites Bachelor- bzw. Masterstudium zu absolvieren (Zweitstudium). Es gelten die Bestimmungen der Richtlinien über das Zweitstudium.
 
 #### § 5
 
@@ -89,7 +89,7 @@ beschliesst:
 <sup>1</sup> Die Fakultät achtet darauf, dass
 
 - a. die Dozentinnen und Dozenten Lehrformen einsetzen, welche dem jeweiligen Stand der Hochschuldidaktik und -pädagogik entsprechen,
-- b. die Dozentinnen und Dozenten sich in der Hochschuldidaktik und -pädagogik auf hohem Niveau bewegen.
+- b. die Dozentinnen und Dozenten sich im Bereich der Hochschuldidaktik und -pädagogik auf hohem Niveau bewegen und regelmässig weiterbilden.
 
 ## 2 Organe
 
@@ -128,7 +128,7 @@ beschliesst:
 
 **Bachelorstudium**
 
-<sup>1</sup> Zu einem Bachelorstudium wird nur zugelassen, wer die Bedingungen gemäss § 31 Universitätsstatut[^11-1] erfüllt oder über einen anerkannten Hochschulabschluss anderer Fachrichtungen verfügt.
+<sup>1</sup> Zu einem Bachelorstudium wird nur zugelassen, wer die Bedingungen gemäss § 44 des Universitätsstatuts[^11-1] erfüllt oder über einen anerkannten Hochschulabschluss anderer Fachrichtungen verfügt.
 
 [^11-1]: SRL Nr. [539c](https://srl.lu.ch/data/539c/de)
 
@@ -178,7 +178,7 @@ beschliesst:
 
 **Fächerstudiengänge**
 
-<sup>1</sup> Der Aufbau und die spezifischen Studienanforderungen der Fächerstudiengänge sowie spezifische Sprach- und Prüfungsanforderungen sind in Wegleitungen geregelt.
+<sup>1</sup> Der Aufbau und die spezifischen Studienanforderungen der Fächerstudiengänge sowie spezifische Sprach- und Prüfungsanforderungen sind in den Wegleitungen geregelt.
 
 <sup>2</sup> Studierende der Fächerstudiengänge können nur einen Major und einen Minor belegen. Major und Minor dürfen nicht identisch sein.
 
@@ -190,15 +190,15 @@ beschliesst:
 
 <sup>1</sup> Im Rahmen integrierter Studiengänge können fächerübergreifend organisierte Studienprogramme belegt werden.
 
-<sup>2</sup> Die spezifischen Studien-, Sprach- und Prüfungsanforderungen sind in Wegleitungen geregelt. Bei integrierten Studiengängen gelten in der Regel die Regelungen derjenigen Fakultät, welche die Lehrveranstaltung anbietet.
+<sup>2</sup> Die spezifischen Studien-, Sprach- und Prüfungsanforderungen sind in den Wegleitungen geregelt. Bei interfakultären Studiengängen gelten in der Regel die Regelungen derjenigen Fakultät, welche die Lehrveranstaltung anbietet.
 
 #### § 19
 
 **Informationskompetenz und universitäres Engagement**
 
-<sup>1</sup> Jeder Bachelorstudiengang beinhaltet den freiwilligen Bereich «universitäres Engagement», in dem bis zu 6 Credits im Rahmen der freien Studienleistungen erworben werden können. Interfakultäre Studiengänge können von dieser Regelung abweichen. Einzelheiten werden in den Wegleitungen geregelt.
+<sup>1</sup> Jeder Bachelorstudiengang beinhaltet den freiwilligen Bereich «universitäres Engagement», in dem bis zu 6 Credits im Rahmen der freien Studienleistungen erworben werden können. Integrierte Studiengänge können von dieser Regelung abweichen. Einzelheiten sind in den Wegleitungen geregelt.
 
-<sup>2</sup> Jeder Bachelorstudiengang beinhaltet zudem einen Bereich «Informationskompetenz», der von den Seminarleitungen bzw. Studiengangleitungen in enger Zusammenarbeit mit der Zentral- und Hochschulbibliothek koordiniert wird. Die Durchführung geschieht in geeigneter Form.
+<sup>2</sup> Jeder Bachelorstudiengang beinhaltet einen Bereich «Informationskompetenz», der von den Seminar- bzw. Studiengangleitungen in enger Zusammenarbeit mit der Zentral- und Hochschulbibliothek koordiniert wird. Die Durchführung erfolgt in geeigneter Form.
 
 ## 5 Masterstudiengänge
 
@@ -218,7 +218,7 @@ beschliesst:
 
 **Fächerstudiengänge**
 
-<sup>1</sup> Der Aufbau und die spezifischen Studienanforderungen der Fächerstudiengänge sowie spezifische Sprach- und Prüfungsanforderungen sind in Wegleitungen geregelt.
+<sup>1</sup> Der Aufbau und die spezifischen Studienanforderungen der Fächerstudiengänge sowie spezifische Sprach- und Prüfungsanforderungen sind in den Wegleitungen geregelt.
 
 <sup>2</sup> Studierende der Fächerstudiengänge können nur einen Major und einen Minor belegen. Major und Minor dürfen nicht identisch sein.
 
@@ -230,7 +230,7 @@ beschliesst:
 
 <sup>1</sup> Im Rahmen integrierter Masterstudiengänge können fächerübergreifend organisierte Studienprogramme belegt werden.
 
-<sup>2</sup> Die spezifischen Studien-, Sprach- und Prüfungsanforderungen sind in Wegleitungen geregelt. Bei integrierten Studiengängen gelten in der Regel die Regelungen derjenigen Fakultät, welche die Lehrveranstaltung anbietet.
+<sup>2</sup> Die spezifischen Studien-, Sprach- und Prüfungsanforderungen sind in den Wegleitungen geregelt. Bei interfakultären Studiengängen gelten in der Regel die Regelungen derjenigen Fakultät, welche die Lehrveranstaltung anbietet.
 
 #### § 24
 
@@ -252,7 +252,7 @@ beschliesst:
 
 **Universitäres Engagement**
 
-<sup>1</sup> Jeder Masterstudiengang beinhaltet den freiwilligen Bereich «universitäres Engagement», in dem bis zu 6 Credits im Rahmen der freien Studienleistungen erworben werden können. Interfakultäre Studiengänge können von dieser Regelung abweichen. Einzelheiten werden in den Wegleitungen geregelt.
+<sup>1</sup> Jeder Masterstudiengang beinhaltet den freiwilligen Bereich «universitäres Engagement», in dem bis zu 6 Credits im Rahmen der freien Studienleistungen erworben werden können. Integrierte Studiengänge können von dieser Regelung abweichen. Einzelheiten sind in den Wegleitungen geregelt.
 
 ## 6 Studienleistungen, Credits und Prüfungen
 
@@ -260,7 +260,7 @@ beschliesst:
 
 **Berechnung der Studienleistungen in Credits**
 
-<sup>1</sup> Die Fakultät berechnet die Studienleistungen in Credits gemäss dem European Credit Transfer and Accumulation System.
+<sup>1</sup> Die Fakultät berechnet die Studienleistungen in Credits gemäss dem European Credit Transfer and Accumulation System (ECTS).
 
 <sup>2</sup> Die Studienprogramme beruhen auf Studienleistungen von 30 Credits für die einzelnen Semester (bei Vollzeitstudium).
 
@@ -293,13 +293,14 @@ beschliesst:
 - e. Die Credit-Zuteilung für andere Arten von Lehrveranstaltungen und Studienleistungen (z.B. Kolloquien, Übungen, Sprachkurse, Exkursionen) wird an geeigneter Stelle bekannt gegeben oder (z.B. im Fall von Praktika und des Besuchs von Fachtagungen) in Absprache mit der betreffenden Fachprofessorin oder dem betreffenden Fachprofessor geklärt.
 - f. Der Besuch von Fachtagungen und Vortragsreihen wird einer Vorlesung gleichgesetzt, sofern eine entsprechende Bestätigung der Äquivalenz des Aufwands durch eine Dozentin oder einen Dozenten erfolgt.
 - g. Bachelorarbeit: 25 Credits
-- h. Masterarbeit: 30 Credits
+- h. Masterarbeit, Masterarbeit mit Verteidigung: 30 Credits
+- h<sup>bis</sup>. Verteidigung der Masterarbeit: 5 Credits
 - i. Mündliche Bachelorprüfung: 5 Credits
 - j. Schriftliche Bachelorprüfung: 5 Credits
 - k. Mündliche Masterprüfung: 10 Credits
 - l. Schriftliche Masterprüfung: 5 Credits
 
-<sup>2</sup> Diese Zuteilung gilt für alle Studiengänge der Fakultät, sofern sie nicht in eigenen Verordnungen geregelt sind. Die Creditzuteilung kann bei einzelnen Studienleistungen (Lehrveranstaltungen, Prüfungen und Abschlussarbeiten) abweichen und ist in den Wegleitungen geregelt.
+<sup>2</sup> Diese Zuteilung gilt für alle Studiengänge der Fakultät, sofern sie nicht in eigenen Verordnungen geregelt sind. Die Credit-Zuteilung kann bei einzelnen Studienleistungen (Lehrveranstaltungen, Prüfungen und Abschlussarbeiten) abweichen und ist in den Wegleitungen geregelt.
 
 #### § 31
 
@@ -357,7 +358,7 @@ beschliesst:
 
 <sup>3</sup> Eine Wiederholung einer nicht bestandenen Seminarveranstaltung ist möglich, sofern diese zu einem späteren Zeitpunkt noch einmal angeboten wird. Falls sie nicht angeboten wird, kann sie durch eine äquivalente Seminarveranstaltung, d. h. im Sinne der jeweiligen Wegleitungen, ersetzt werden.
 
-<sup>4</sup> Bei integrierten Studiengängen gelten in der Regel die Regelungen derjenigen Fakultät, welche die Lehrveranstaltung anbietet.
+<sup>4</sup> Bei interfakultären Studiengängen gelten in der Regel die Regelungen derjenigen Fakultät, welche die Lehrveranstaltung anbietet.
 
 #### § 35
 
@@ -369,7 +370,7 @@ beschliesst:
 
 <sup>2</sup> Weitere Gründe für einen Studienausschluss sind in den §§ 38 und 42 geregelt.
 
-<sup>3</sup> Bei interfakultären Studiengängen können abweichende Ausschlussregelungen in Wegleitungen festgelegt werden.
+<sup>3</sup> Bei interfakultären Studiengängen können abweichende Ausschlussregelungen in den Wegleitungen festgelegt werden.
 
 #### § 36
 
@@ -380,9 +381,13 @@ beschliesst:
 - a. andere als die zugelassenen Hilfsmittel mitzuführen und zu verwenden,
 - b. fremde Hilfe anzunehmen,
 - c. mit anderen Personen Informationen auszutauschen,
-- d. die Ruhe im Raum zu stören.
+- c<sup>bis</sup>. jedwede andere Täuschungsversuche zu unternehmen,
+- d. die Ruhe im Raum absichtlich zu stören,
+- e. weiterzuschreiben, nachdem durch die Prüfungsaufsicht das Ende der Prüfungszeit erklärt worden ist.
 
-<sup>2</sup> Unkorrektheiten haben das Nichtbestehen der Prüfung mit der Note «1» zur Folge.
+<sup>2</sup> Unkorrektheiten haben das Nichtbestehen der Prüfung mit der Note «1» zur Folge. Vorbehalten bleiben Sanktionen der Universität gemäss § 48 des Universitätsstatuts[^36-1].
+
+[^36-1]: SRL Nr. [539c](https://srl.lu.ch/data/539c/de)
 
 #### § 37
 
@@ -394,11 +399,15 @@ beschliesst:
 
 **Plagiate und Ghostwriting**
 
-<sup>1</sup> Wird eine Studienleistung nicht in allen Teilen selbständig erbracht oder werden geistige Leistungen anderer Personen nicht oder nicht ausreichend kenntlich gemacht, wird sie als endgültig nicht bestanden mit der Note «1» gewertet. Auch anderweitige Täuschungen im Rahmen des Studiums können vom Prüfungsausschuss geahndet werden.
+<sup>1</sup> Wird eine Studienleistung nicht in allen Teilen selbständig erbracht oder werden verwendete kreative Leistungen Dritter oder die Verwendung anderer Werkzeuge nicht oder nicht ausreichend kenntlich gemacht, wird sie als endgültig nicht bestanden mit der Note «1» gewertet. Auch anderweitige Täuschungen im Rahmen des Studiums können vom Prüfungsausschuss geahndet werden.
 
 <sup>2</sup> Bei wiederholter Unkorrektheit oder schwerer Zuwiderhandlung wird die Kandidatin oder der Kandidat von der betreffenden Studienrichtung oder den betreffenden Studienrichtungen endgültig ausgeschlossen.
 
 <sup>3</sup> Wird die Täuschung erst nach Beendigung des Studiums bekannt, kann der verliehene Grad entzogen werden.
+
+<sup>4</sup> Vorbehalten bleiben Sanktionen gemäss § 48 des Universitätsstatuts[^38-1].
+
+[^38-1]: SRL Nr. [539c](https://srl.lu.ch/data/539c/de)
 
 #### § 39
 
@@ -409,7 +418,7 @@ beschliesst:
 <sup>2</sup> Modalitäten:
 
 - a. Das Orientierungsgespräch findet in den Fächerstudiengängen im Major statt.
-- b. Die Modalitäten des Orientierungsgespräches für die integrierten Studiengänge sind in Wegleitungen geregelt.
+- b. Die Modalitäten des Orientierungsgespräches für die integrierten Studiengänge sind in den Wegleitungen geregelt.
 - c. Organisation und Überprüfung der Orientierungsgespräche regeln die einzelnen Seminare bzw. Studiengangleitungen.
 
 ## 7 Bachelor- und Masterverfahren
@@ -420,7 +429,7 @@ beschliesst:
 
 <sup>1</sup> Funktion: Das Bachelorverfahren bildet den Abschluss des Bachelorstudiums. Es gibt Auskunft darüber, ob alle für den Bachelorabschluss notwendigen inhaltlichen Kenntnisse, methodischen Fähigkeiten sowie generischen Kompetenzen erworben worden sind.
 
-<sup>2</sup> Prüfungsmodalitäten: Das Bachelorverfahren besteht aus einer schriftlichen Bachelorarbeit, der mündlichen Bachelorprüfung und der schriftlichen Bachelorprüfung. Die Prüfungsbestandteile für integrierte Studiengänge können in Wegleitungen abweichend geregelt werden. Zulassungsbedingungen, Anmeldeverfahren, Abläufe und die detaillierten Prüfungsleistungen sind in Wegleitungen geregelt.
+<sup>2</sup> Prüfungsmodalitäten: Das Bachelorverfahren besteht aus einer schriftlichen Bachelorarbeit, der mündlichen Bachelorprüfung und der schriftlichen Bachelorprüfung. Die Prüfungsbestandteile für integrierte Studiengänge können in den Wegleitungen abweichend geregelt werden. Zulassungsbedingungen, Anmeldeverfahren, Abläufe und die detaillierten Prüfungsleistungen sind in den Wegleitungen geregelt.
 
 #### § 41
 
@@ -428,7 +437,7 @@ beschliesst:
 
 <sup>1</sup> Funktion: Das Masterverfahren bildet den Abschluss des Masterstudiums. Es gibt Auskunft darüber, ob alle für den Masterabschluss notwendigen inhaltlichen Kenntnisse, methodischen Fähigkeiten sowie generischen Kompetenzen erworben worden sind.
 
-<sup>2</sup> Prüfungsmodalitäten: Das Masterverfahren in den Fächerstudiengängen besteht aus einer schriftlichen Masterarbeit, der mündlichen Masterprüfung und der schriftlichen Masterprüfung. Die Prüfungsbestandteile für integrierte, Joint-Degree- und Double-Degree-Studiengänge werden in den Wegleitungen geregelt. Zulassungsbedingungen, Anmeldeverfahren, Abläufe und die detaillierten Prüfungsleistungen werden in den Wegleitungen geregelt.
+<sup>2</sup> Prüfungsmodalitäten: Das Masterverfahren in den Fächerstudiengängen besteht aus einer schriftlichen Masterarbeit, der mündlichen Masterprüfung und der schriftlichen Masterprüfung. Die Prüfungsbestandteile für integrierte, Joint-Degree- und Double-Degree-Studiengänge sind in den Wegleitungen geregelt. Zulassungsbedingungen, Anmeldeverfahren, Abläufe und die detaillierten Prüfungsleistungen sind in den Wegleitungen geregelt.
 
 #### § 42
 
@@ -450,7 +459,7 @@ beschliesst:
 
 <sup>1</sup> Bachelor- und Masterprüfungen werden durch Professorinnen und Professoren oder durch Dozentinnen und Dozenten der Fakultät mit Habilitation oder äquivalentem Abschluss sowie bei Bachelorprüfungen auch von Promovierten abgenommen.
 
-<sup>2</sup> Andere Dozentinnen und Dozenten, die mindestens promoviert sind, können auf begründeten Antrag generell durch die Fakultätsversammlung oder im Einzelfall durch den Prüfungsausschuss zur Abnahme von Masterprüfungen ermächtigt werden.
+<sup>2</sup> Andere Dozentinnen und Dozenten mit Promotion oder höherer Qualifikation können auf begründeten Antrag generell durch die Fakultätsversammlung oder im Einzelfall durch den Prüfungsausschuss zur Abnahme von Masterprüfungen ermächtigt werden.
 
 <sup>3</sup> Die Prüferinnen und Prüfer setzen die Prüfungsnoten fest. Bei mündlichen Prüfungen sprechen sie sich mit den Beisitzerinnen oder Beisitzern ab.
 
@@ -458,7 +467,7 @@ beschliesst:
 
 **Beisitzerinnen und Beisitzer**
 
-<sup>1</sup> Mündliche Prüfungen finden in Anwesenheit einer Beisitzerin oder eines Beisitzers statt, die oder der mindestens einen kultur- oder sozialwissenschaftlichen Master-, Lizenziats- oder einen vergleichbaren Studienabschluss besitzt.
+<sup>1</sup> Mündliche Prüfungen finden in Anwesenheit einer Beisitzerin oder eines Beisitzers mit kultur- oder sozialwissenschaftlichem Studienabschluss oder höherer Qualifikation statt.
 
 <sup>2</sup> Der Verlauf der mündlichen Bachelor- und Masterprüfungen wird von Beisitzerinnen und Beisitzern in einem Protokoll festgehalten.
 
@@ -488,19 +497,20 @@ beschliesst:
   - 3\. mündliche Bachelorprüfung, zweifach gewichtet: 2/20
   - 4\. schriftliche oder zweite mündliche Bachelorprüfung, zweifach gewichtet: 2/20
 - a<sup>bis</sup>. Beim integrierten Studiengang Philosophy, Politics and Economics errechnet sich die Gesamtnote wie folgt:
-  - 1\. fünf benotete Seminararbeiten, jeweils einfach gewichtet: 5/19
-  - 2\. Bachelorarbeit, elffach gewichtet: 10/19
-  - 3\. mündliche Bachelorprüfung, zweifach gewichtet: 2/19
-  - 4\. schriftliche oder zweite mündliche Bachelorprüfung, zweifach gewichtet: 2/19
+  - 1\. fünf benotete Seminararbeiten, jeweils einfach gewichtet: 5/20
+  - 2\. Bachelorarbeit, elffach gewichtet: 11/20
+  - 3\. mündliche Bachelorprüfung, zweifach gewichtet: 2/20
+  - 4\. schriftliche oder zweite mündliche Bachelorprüfung, zweifach gewichtet: 2/20
 - b. Sind extern erbrachte Studienleistungen anzurechnen, legt der Prüfungsausschuss die Zusammensetzung der Gesamtnote fest.
 - b<sup>bis</sup>. Wird bei einem Fächerstudiengang der Major mit einem externen Minor ergänzt, so errechnet sich die Gesamtnote wie folgt:
   - 1\. vier benotete Seminararbeiten, jeweils einfach gewichtet: 4/20
   - 2\. Bachelorarbeit, zehnfach gewichtet: 10/20
   - 3\. mündliche Bachelorprüfung, zweifach gewichtet: 2/20
   - 4\. Note externer Minor, vierfach gewichtet: 4/20
-- b<sup>ter</sup>. Wird nur der Minor in Luzern studiert, so errechnet sich die Note für das Abschlusszeugnis wie folgt:
+- b<sup>ter</sup>. Wird nur der Minor im Umfang von 60 Credits an der Fakultät studiert, so errechnet sich die Note für das Abschlusszeugnis wie folgt:
   - 1\. zwei benotete Seminararbeiten, jeweils einfach gewichtet: 2/4
   - 2\. schriftliche Bachelorprüfung, zweifach gewichtet: 2/4
+- b<sup>quater</sup>. Wird nur der Minor im Umfang von 30 Credits an der Fakultät studiert, so errechnet sich die Note für das Abschlusszeugnis nach dem Durchschnitt der nach Credits gewichteten erbrachten benoteten Studienleistungen.
 
 <sup>2</sup> Masterabschluss:
 
@@ -515,23 +525,7 @@ beschliesst:
   - 2\. eine benotete Forschungsarbeit, zweifach gewichtet: 2/20
   - 3\. Masterarbeit, zehnfach gewichtet: 10/20
   - 4\. mündliche Masterprüfung, vierfach gewichtet: 4/20
-- b<sup>bis</sup>. Beim integrierten Studiengang Weltgesellschaft und Weltpolitik errechnet sich die Gesamtnote wie folgt, je nach Schwerpunktfächern und den Angaben auf dem Anmeldeformular zum Masterabschlussverfahren:
-  - 1\. Beide Schwerpunktfächer sind Fächer der KSF:
-  - 1\.1. zwei benotete Masterseminararbeiten, jeweils zweifach gewichtet: 4/20
-  - 1\.2. eine benotete Forschungsarbeit, zweifach gewichtet: 2/20
-  - 1\.3. Masterarbeit, zehnfach gewichtet: 10/20
-  - 1\.4. mündliche Masterprüfung, vierfach gewichtet: 4/20
-  - 2\. Masterarbeit im Schwerpunktfach Rechtswissenschaft:
-  - 2\.1. zwei benotete Masterseminararbeiten, jeweils zweifach gewichtet: 4/20
-  - 2\.2. eine benotete Forschungsarbeit, zweifach gewichtet: 2/20
-  - 2\.3. Masterarbeit, fünffach gewichtet: 5/20
-  - 2\.4. an der Rechtswissenschaftlichen Fakultät geleistete Veranstaltungen, fünffach gewichtet: 5/20
-  - 2\.5. mündliche Masterprüfung, vierfach gewichtet: 4/20
-  - 3\. Masterprüfung im Schwerpunktfach Rechtswissenschaft:
-  - 3\.1. zwei benotete Masterseminararbeiten, jeweils zweifach gewichtet: 4/20
-  - 3\.2. eine benotete Forschungsarbeit, zweifach gewichtet: 2/20
-  - 3\.3. Masterarbeit, zehnfach gewichtet: 10/20
-  - 3\.4. an der Rechtswissenschaftlichen Fakultät geleistete Veranstaltungen, vierfach gewichtet: 4/20
+- b<sup>bis</sup>. …
 - b<sup>ter</sup>. Beim integrierten Studiengang Global Studies errechnet sich die Gesamtnote wie folgt, je nach Schwerpunktfächern und den Angaben auf dem Anmeldeformular zum Masterabschlussverfahren:
   - 1\. Beide Schwerpunktfächer sind Fächer der KSF:
   - 1\.1. zwei benotete Masterseminararbeiten, jeweils dreifach gewichtet: 6/20
@@ -573,13 +567,18 @@ beschliesst:
   - 1\. zwei benotete Masterseminararbeiten, jeweils dreifach gewichtet: 6/20
   - 2\. Masterarbeit, zehnfach gewichtet: 10/20
   - 3\. mündliche Masterprüfung (Verteidigung), vierfach gewichtet: 4/20
+- d<sup>quater</sup>. Beim integrierten Studiengang Climate Politics, Economics, and Law errechnet sich die Gesamtnote nach dem Durchschnitt der nach Credits gewichteten erbrachten benoteten Studienleistungen der folgenden Teile, wobei die Berechnung des Notenschnitts exakt erfolgt. Das Ergebnis wird auf zwei Nachkommastellen gerundet:
+  - 1\. alle im Grundlagenteil erbrachten benoteten Studienleistungen
+  - 2\. alle im Vertiefungsteil erbrachten benoteten Studienleistungen
+  - 3\. Masterarbeit
+  - 4\. bei Vertiefung Politikwissenschaft Verteidigung der Masterarbeit
 - e. Bei Joint-Degree- und Double-Degree-Studiengängen wird die Zusammensetzung der Gesamtnote in den jeweiligen Verordnungen festgelegt.
 - e<sup>bis</sup>. Wird bei einem Fächerstudiengang der Major mit einem externen Minor ergänzt, so errechnet sich die Gesamtnote wie folgt:
   - 1\. zwei benotete Masterseminararbeiten, jeweils zweifach gewichtet: 4/21
   - 2\. Masterarbeit, zehnfach gewichtet: 10/21
   - 3\. mündliche Masterprüfung, vierfach gewichtet: 4/21
   - 4\. Note externer Minor, dreifach gewichtet: 3/21
-- e<sup>ter</sup>. Wird nur der Minor in Luzern studiert, so errechnet sich die Note für das Abschlusszeugnis wie folgt:
+- e<sup>ter</sup>. Wird der Minor im Umfang von 30 Credits an der Fakultät studiert, so errechnet sich die Note für das Abschlusszeugnis wie folgt:
   - 1\. eine benotete Masterseminararbeit, einfach gewichtet: 1/3
   - 2\. schriftliche Masterprüfung, zweifach gewichtet: 2/3
 - f. Sind extern erbrachte Studienleistungen anzurechnen, legt der Prüfungsausschuss die Zusammensetzung der Gesamtnote fest.
@@ -649,17 +648,19 @@ beschliesst:
 
 **Übergangsbestimmungen**
 
-<sup>1</sup> Vor dem 1. Oktober 2006 begonnene Studien werden bis und mit Ende Frühjahrssemester 2024 unter den Bestimmungen der Studien- und Prüfungsordnung der Fakultät II für Geisteswissenschaften vom 9. April 2003 weitergeführt und beendet. Ab Herbstsemester 2024 erfolgt ein automatischer Übertritt in die dann aktuellste Studien- und Prüfungsordnung. Zwischen dem 1. Oktober 2006 und dem Frühjahrssemester 2011 begonnene Studien werden bis und mit Ende Frühjahrssemester 2024 unter den Bestimmungen der Studien- und Prüfungsordnung der Fakultät II für Kultur- und Sozialwissenschaften vom 29. April 2009 weitergeführt und beendet. Ab Herbstsemester 2024 erfolgt ein automatischer Übertritt in die dann aktuellste Studien- und Prüfungsordnung.
+<sup>1</sup> Diese Studien- und Prüfungsordnung gilt für alle Studierenden, die ihr Studium bis und mit Frühjahrssemester 2012 begonnen haben.
 
-<sup>2</sup> Zwischen dem Herbstsemester 2011 und dem Frühjahrssemester 2012 begonnene Studien werden bis und mit Ende Frühjahrssemester 2024 unter den Bestimmungen der Studien- und Prüfungsordnung der Fakultät II für Kultur- und Sozialwissenschaften vom 26. Januar 2011 weitergeführt und beendet. Ab Herbstsemester 2024 erfolgt ein automatischer Übertritt in die dann aktuellste Studien- und Prüfungsordnung.
+<sup>2</sup> …
 
-<sup>3</sup> Zwischen dem Herbstsemester 2012 und dem Frühjahrssemester 2016 begonnene Studien werden bis und mit Ende Frühjahrssemester 2026 unter den Bestimmungen der Studien- und Prüfungsordnung der Fakultät II für Kultur- und Sozialwissenschaften vom 26. Januar 2011, inklusive Änderungen vom 25. April 2012, weitergeführt und beendet. Ab Herbstsemester 2026 erfolgt ein automatischer Übertritt in die dann aktuellste Studien- und Prüfungsordnung.
+<sup>3</sup> Zwischen dem Herbstsemester 2012 und dem Frühjahrssemester 2016 begonnene Studien werden bis und mit Ende Frühjahrssemester 2026 unter den Bestimmungen der Studien- und Prüfungsordnung der Fakultät für Kultur- und Sozialwissenschaften vom 26. Januar 2011, inklusive Änderungen vom 25. April 2012, unter Vorbehalt von Absatz 4<sup>quater</sup>, weitergeführt und beendet. Ab Herbstsemester 2026 erfolgt ein automatischer Übertritt in die dannzumal aktuellste Studien- und Prüfungsordnung.
 
-<sup>4</sup> Zwischen dem Herbstsemester 2016 und dem Frühjahrssemester 2022 begonnene Studien werden unter den Bestimmungen der Studien- und Prüfungsordnung für die Bachelor- und Masterstufe der Kultur- und Sozialwissenschaftlichen Fakultät vom 29. Juni 2016, inklusive Änderungen vom 27. März 2019 und 11. Mai 2020, weitergeführt und beendet.
+<sup>4</sup> Zwischen dem Herbstsemester 2016 und dem Frühjahrssemester 2024 begonnene Studien werden unter den Bestimmungen der Studien- und Prüfungsordnung für die Bachelor- und Masterstufe der Kultur- und Sozialwissenschaftlichen Fakultät in der Fassung vom 29. Juni 2016, inklusive Änderungen vom 28. Juni 2017, 25. April 2018, 27. März 2019, 11. Mai 2020, 6. Juli 2020 und 30. Juni 2022, unter Vorbehalt von Absatz 4<sup>quater</sup>, weitergeführt und beendet.
 
 <sup>4<sup>bis</sup></sup> …
 
 <sup>4<sup>ter</sup></sup> …
+
+<sup>4<sup>quater</sup></sup> § 2, § 4, § 7, § 8, § 11, § 18, § 19, § 23, § 27, § 30, § 34, § 36, § 38 und § 46 Absatz 1a<sup>bis</sup> dieser Studien- und Prüfungsordnung gelten für sämtliche Studierenden, unabhängig vom Beginn der Studien.
 
 <sup>5</sup> Teilzeitstudierenden können Ausnahmen erlaubt werden.
 
