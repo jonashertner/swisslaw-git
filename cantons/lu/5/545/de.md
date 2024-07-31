@@ -1,29 +1,31 @@
 ---
 canton: LU
 number: "545"
-title: Reglement der Wirtschaftswissenschaftlichen Fakultät der Universität Luzern
-short: Fakultätsreglement
+title: Organisationsreglement der Wirtschaftswissenschaftlichen Fakultät der Universität Luzern
+short: Fakultätsreglement WF
 language: de
-version: 2016-07-01
-valid_until: 2024-07-31
-version_adopted: 2016-04-16
+version: 2024-08-01
+valid_until: 2025-11-30
+version_adopted: 2024-06-26
 adopted: 2024-06-26
 in_force: 2024-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/545"
-pdf: "https://srl.lu.ch/api/de/versions/3025/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4238/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Reglement der Wirtschaftswissenschaftlichen Fakultät der Universität Luzern
+# Organisationsreglement der Wirtschaftswissenschaftlichen Fakultät der Universität Luzern
 
-(Fakultätsreglement)
+(Fakultätsreglement WF)
 
-vom 16.04.2016 (Stand 01.07.2016)
+vom 26.06.2024 (Stand 01.08.2024)
 
-Die Wirtschaftswissenschaftliche Fakultät der Universität Luzern,
+Der Universitätsrat der Universität Luzern,
 
-gestützt auf § 18 Absatz 2a des Statuts der Universität Luzern vom 12. Dezember 2001[^ingress-1],
+gestützt auf § 12 Absatz 2c des Statuts der Universität Luzern (Universitätsstatut[^ingress-1]) vom 13. Dezember 2023,
+
+auf Antrag des Senats,
 
 beschliesst:
 
@@ -37,123 +39,42 @@ beschliesst:
 
 <sup>1</sup> Dieses Reglement ordnet Aufgaben und Organisation der Wirtschaftswissenschaftlichen Fakultät der Universität Luzern (nachfolgend Fakultät).
 
-<sup>2</sup> Es ist im Lichte des Universitätsgesetzes[^1-1], des Leitbilds der Universität sowie des Leitbilds der Fakultät zu interpretieren.
+<sup>2</sup> Es ist im Lichte des Universitätsgesetzes[^1-1] sowie des Universitätsstatuts[^1-2] zu interpretieren.
 
 [^1-1]: SRL Nr. [539](https://srl.lu.ch/data/539/de)
+[^1-2]: SRL Nr. [539c](https://srl.lu.ch/data/539c/de)
 
 #### § 2
 
 **Aufgaben der Fakultät**
 
-<sup>1</sup> Die Fakultät erfüllt Aufgaben in Forschung, Lehre und Dienstleistung im Bereich der Wirtschaftswissenschaften und ist verantwortlich für Sicherstellung und Weiterentwicklung der Qualität in allen Bereichen.
+<sup>1</sup> Die Fakultät erfüllt im Bereich der Wirtschaftswissenschaften die Aufgaben in Forschung, Lehre, Weiterbildung, Dienstleistung und Nachwuchsförderung gemäss § 20 des Universitätsstatuts[^2-1] und ist verantwortlich für die Sicherstellung und die Weiterentwicklung der Qualität in allen Bereichen.
 
-<sup>2</sup> Sie bietet Studiengänge und Weiterbildungen an.
+<sup>2</sup> Die Fakultät strebt in all ihren Aufgabenbereichen nach Exzellenz. Sie sorgt dafür, dass in allen Bereichen ihrer Tätigkeit, insbesondere in Forschung, Lehre, Weiterbildung und Nachwuchsförderung, die Qualität ermittelt, gesichert und verbessert wird.
 
-<sup>3</sup> Sie fördert und unterstützt den wissenschaftlichen Nachwuchs.
-
-<sup>4</sup> Sie stellt Gleichstellung und Chancengleichheit sicher.
-
-<sup>5</sup> Sie arbeitet dabei insbesondere mit den anderen Fakultäten der Universität Luzern, mit der Fachhochschule Zentralschweiz (Hochschule Luzern) und der Pädagogischen Hochschule Luzern sowie mit anderen Fakultäten des In- und Auslands zusammen.
+[^2-1]: SRL Nr. [539c](https://srl.lu.ch/data/539c/de)
 
 ## 2 Organisation der Fakultät
 
+### 2.1 Fakultätsversammlung
+
 #### § 3
-
-**Gliederung**
-
-<sup>1</sup> Die Fakultät kann sich zur Erfüllung ihrer Aufgaben in Lehre, Forschung und Dienstleistung in Institute, Seminare oder Fachbereiche und andere Organisationseinheiten gliedern; diese können in besonderen Reglementen geordnet werden.
-
-#### § 4
-
-**Angehörige**
-
-<sup>1</sup> Der Fakultät gehören an:
-
-- a. ihre Professorinnen und Professoren,
-- b. ihre Privatdozentinnen und Privatdozenten,
-- c. ihre wissenschaftlichen Mitarbeiterinnen und Mitarbeiter,
-- d. ihre Lehr- und Forschungsbeauftragten,
-- e. ihre Studierenden,
-- f. ihre administrativen und technischen Mitarbeiterinnen und Mitarbeiter.
-
-#### § 5
-
-**Gruppierungen**
-
-<sup>1</sup> Im Hinblick auf Wahlen und Vertretungen in fakultären und universitären Organen gliedert sich die Fakultät in folgende Gruppierungen:
-
-- a. ordentliche und ausserordentliche Professorinnen und Professoren,
-- b. Assistenzprofessorinnen und Assistenzprofessoren sowie SNF-Förderprofessorinnen und -professoren,
-- c. Assistierende, Oberassistierende und Forschungsmitarbeitende,
-- d. die Studierenden der Fakultät, welche in einer von der Fakultät anerkannten studentischen Körperschaft organisiert sind,
-- e. administratives und technisches Personal.
-
-<sup>2</sup> Eine Doppelmitgliedschaft in den genannten Gruppierungen ist ausgeschlossen.
-
-#### § 6
-
-**Organe**
-
-<sup>1</sup> Organe der Fakultät sind:
-
-- a. die Fakultätsversammlung,
-- b. die Dekanin oder der Dekan,
-- c. ständige und nichtständige Kommissionen,
-- d. Institute sowie gegebenenfalls Seminare oder Fachbereiche und andere Organisationseinheiten.
-
-#### § 7
-
-**Schweigepflicht**
-
-<sup>1</sup> Die Sitzungen der Fakultätsorgane sind nicht öffentlich.
-
-<sup>2</sup> Die Teilnehmerinnen und Teilnehmer an den Sitzungen der Fakultätsorgane unterliegen der Schweigepflicht.
-
-<sup>3</sup> Von vorstehenden Bestimmungen bleibt unberührt, dass das Dekanat die Universitätsleitung oder dass einzelne Mitglieder die durch sie vertretene Gruppierung über Beschlüsse oder den Stand der Beratungen, nicht aber über die Beratungen selbst, unterrichten, es sei denn, dies wird ausdrücklich ausgeschlossen.
-
-#### § 8
-
-**Schlichtung**
-
-<sup>1</sup> Bei Unstimmigkeiten unter Mitgliedern der Fakultät kann die Dekanin oder der Dekan schlichtend tätig werden. In diesen Fällen kann sie oder er sich von Dritten unterstützen lassen.
-
-<sup>2</sup> Mit Beschwerden über die Amtsführung der Dekanin oder des Dekans kann sich jedes Fakultätsmitglied an die Fakultätsversammlung wenden. Übergeordnete Beschwerdeinstanz ist in diesen Fällen die Rektorin oder der Rektor.
-
-## 3 Fakultätsversammlung
-
-#### § 9
 
 **Aufgaben und Zuständigkeiten**
 
-<sup>1</sup> Die Fakultätsversammlung ist das oberste Organ für fakultäre Aufgaben.
-
-<sup>2</sup> Der Fakultätsversammlung obliegt die Antragstellung zuhanden der Universitätsleitung, des Senats bzw. des Universitätsrates insbesondere in folgenden Bereichen:
-
-- a. Entwicklungs- und Finanzplanung der Fakultät,
-- b. Schaffung, Umwandlung, Aufhebung und Umbenennung von Instituten, Seminaren und anderen Organisationseinheiten,
-- c. Berufung, Beförderung, Verstetigung und Entlassung von Professorinnen und Professoren,
-- d. Erteilung und Entzug der Lehrbefugnis (Venia Legendi),
-- e. Änderung dieses Reglements,
-- f. Erlass und Änderung der Studien- und Prüfungsordnung sowie der Promotionsordnung,
-- g. Regelung der universitären Weiterbildungsangebote der Fakultät,
-- h. Verleihung und Entzug von Honorar- und Titularprofessuren, ständigen Gastprofessuren und Seniorprofessuren.
-
-<sup>3</sup> Die Fakultätsversammlung ist abschliessend zuständig für:
+<sup>1</sup> Die Fakultätsversammlung nimmt als oberstes Organ der Fakultät die in § 21 Absatz 4 des Universitätsstatuts[^3-1] festgelegten Aufgaben wahr. Der Fakultätsversammlung werden darüber hinaus folgende Aufgaben übertragen:
 
 - a. Formulierung und Anpassung des Leitbilds der Fakultät,
-- b. Genehmigung des von der Dekanin oder vom Dekan erstellten Budgets,
-- c. Formulierung und Anpassung der Wegleitungen zur Studien- und Prüfungsordnung,
-- d. Reglemente ihrer Organisationseinheiten,
-- e. Einsetzung von ständigen oder nichtständigen Kommissionen sowie Wahl ihrer Mitglieder und Festlegung ihrer Aufgaben,
-- f. Wahl der Mitglieder von Berufungskommissionen sowie deren Präsidentinnen und Präsidenten,
-- g. Wahl oder Wahlvorschläge für Fakultätsvertretungen in universitäre Kommissionen,
-- h. Wahl der Dekanin oder des Dekans sowie der Prodekaninnen und Prodekane,
-- i. Durchführung von Promotions- und Habilitationsverfahren,
-- j. Verleihung von Ehrendoktoraten,
-- k. Abschluss von Drittmittelverträgen über mehr als 100 000 Franken; ausgenommen sind Mittel des Schweizerischen Nationalfonds,
-- l. Abschluss von Verträgen über eine mehrjährige Zusammenarbeit mit anderen Fakultäten im In- und Ausland.
+- b. Erlass der Reglemente ihrer Organisationseinheiten unter Vorbehalt der Zuständigkeit des Universitätsrates gemäss § 12 Absatz 2c des Universitätsstatuts[^3-2],
+- c. Wahl der Mitglieder von Berufungskommissionen sowie deren Vorsitzende bzw. Vorsitzenden in Übereinstimmung mit dem Berufungsreglement der Universität Luzern[^3-3],
+- d. Durchführung von Promotionsverfahren,
+- e. Verleihung und Entzug von nichtständigen Gastprofessuren.
 
-#### § 10
+[^3-1]: SRL Nr. [539c](https://srl.lu.ch/data/539c/de)
+[^3-2]: SRL Nr. [539c](https://srl.lu.ch/data/539c/de)
+[^3-3]: SRL Nr. [539d](https://srl.lu.ch/data/539d/de)
+
+#### § 4
 
 **Sitzungen**
 
@@ -163,150 +84,149 @@ beschliesst:
 
 <sup>3</sup> Die Sitzungen werden protokolliert. Die Protokolle werden den Mitgliedern der Fakultätsversammlung zugesandt.
 
-#### § 11
+#### § 5
 
-**Zusammensetzung**
+**Zusammensetzung und Stimmrechte**
 
-<sup>1</sup> Die Fakultätsversammlung setzt sich aus allen Inhaberinnen und Inhabern von Professuren der Fakultät gemäss § 5 Absatz 1a und b sowie aus von den Gruppierungen gewählten Vertreterinnen und Vertretern zusammen.
+<sup>1</sup> Die Fakultätsversammlung setzt sich aus folgenden Mitgliedern mit Stimmrecht zusammen:
 
-<sup>2</sup> Die Teilnahme an der Fakultätsversammlung ist für die Mitglieder Dienstpflicht.
+- a. Professorinnen und Professoren aufgrund einer Berufung,
+- b. einer Vertreterin oder einem Vertreter der wissenschaftlichen Mitarbeitenden,
+- c. einer Vertreterin oder einem Vertreter der Studierenden,
+- d. einer Vertreterin oder einem Vertreter des administrativen und technischen Personals.
 
-#### § 12
+<sup>2</sup> Die Fakultätsmanagerin oder der Fakultätsmanager ist Mitglied der Fakultätsversammlung mit beratender Stimme.
 
-**Stimmrechte und Einsitz**
-
-<sup>1</sup> In der Fakultätsversammlung sind folgende Gruppierungen und Vertretungen stimmberechtigt:
-
-- a. alle hauptamtlichen, das heisst ordentlichen und ausserordentlichen Professorinnen und Professoren,
-- b. alle Assistenzprofessorinnen und -professoren sowie SNF-Förderprofessorinnen und -professoren,
-- c. eine Vertreterin oder ein Vertreter der Assistierenden und Oberassistierenden,
-- d. eine Vertreterin oder ein Vertreter der Studierenden,
-- e. eine Vertreterin oder ein Vertreter des administrativen und technischen Personals.
-
-<sup>2</sup> Die Stimmen der in Absatz 1c bis e genannten Gruppierungen sowie weiterer Stimmberechtigter gemäss Absatz 5 dürfen die Stimmen der in Absatz 1a und b genannten Gruppierung nicht übersteigen.
-
-<sup>3</sup> Die Gruppierungen organisieren sich selbst und führen die Wahlen in die Fakultätsversammlung durch. Die Wahlperiode beginnt jeweils zu Beginn des Herbstsemesters und dauert mindestens ein Jahr. Wiederwahl ist möglich.
+<sup>3</sup> Die Fakultätsversammlung kann weiteren Personen das Stimmrecht ad personam zuerkennen.
 
 <sup>4</sup> Das Stimmrecht kann nur durch persönliche Teilnahme an der Abstimmung ausgeübt werden und ist nicht delegierbar.
 
-<sup>5</sup> Die Fakultätsversammlung kann weiteren Personen das Stimmrecht ad personam zuerkennen.
+<sup>5</sup> Die Gruppierungen organisieren sich selbst und führen die Wahlen in die Fakultätsversammlung durch.
 
-<sup>6</sup> Die Fakultätsmanagerin oder der Fakultätsmanager nimmt mit beratender Stimme teil.
+<sup>6</sup> Die Fakultätsversammlung kann weitere Personen zu den Sitzungen oder zu einzelnen Traktanden beiziehen.
 
-<sup>7</sup> Die Fakultätsversammlung kann weitere Personen zu den Sitzungen oder zu einzelnen Traktanden beiziehen.
-
-#### § 13
+#### § 6
 
 **Beschlussfassung**
 
-<sup>1</sup> Die Fakultätsversammlung beschliesst mit einfacher Mehrheit der abgegebenen Stimmen. Enthaltungen werden nicht mitgezählt.
+<sup>1</sup> Die Beschlussfassung richtet sich nach § 21 Absatz 3 des Universitätsstatuts[^6-1]. Stimmenthaltungen fallen ausser Betracht. Bei Stimmengleichheit hat die Dekanin oder der Dekan den Stichentscheid.
 
-<sup>2</sup> Die Fakultätsversammlung kann in dringlichen Fällen Zirkulationsbeschlüsse fassen.
+<sup>2</sup> Die Fakultätsversammlung kann in dringlichen Fällen Zirkulationsbeschlüsse fassen. Davon ausgenommen sind Personalgeschäfte.
 
-<sup>3</sup> Für Anträge auf Berufung, Beförderung, Verstetigung und Entlassung von Professorinnen und Professoren bedarf es zusätzlich zur Mehrheit aller abgegebenen Stimmen der Zweidrittelmehrheit der Stimmen aller anwesenden stimmberechtigten ordentlichen und ausserordentlichen Professorinnen und Professoren.
+<sup>3</sup> Bei Abstimmungen über Promotionen und Habilitationen dürfen nur diejenigen Stimmberechtigten mitwirken, die den entsprechenden akademischen Grad (oder Äquivalenz) erreicht haben.
 
-<sup>4</sup> Bei Abstimmungen über Promotionen und Habilitationen dürfen nur diejenigen Stimmberechtigten mitwirken, die den entsprechenden akademischen Grad (oder Äquivalenz) erreicht haben.
+<sup>4</sup> Abstimmungen und Wahlen erfolgen offen, es sei denn, mindestens ein Mitglied verlangt geheime Abstimmung. Die Wahl der Dekanin oder des Dekans sowie der Prodekanin oder des Prodekans erfolgt geheim, ebenso in der Regel Abstimmungen zu Personalgeschäften.
 
-<sup>5</sup> Abstimmungen erfolgen durch Handerheben, es sei denn mindestens ein Mitglied verlangt geheime Abstimmung.
+[^6-1]: SRL Nr. [539c](https://srl.lu.ch/data/539c/de)
 
-<sup>6</sup> Bei Stimmengleichheit hat die Dekanin oder der Dekan den Stichentscheid.
+### 2.2 Dekanin oder Dekan und Fakultätsleitung
 
-#### § 14
+#### § 7
 
-**Wahlen**
+**Fakultätsleitung**
 
-<sup>1</sup> Eine Wahl bedarf in den ersten beiden Wahlgängen einer Zweidrittelmehrheit der abgegebenen Stimmen. Ab dem dritten Wahlgang genügt die einfache Mehrheit der abgegebenen Stimmen.
+<sup>1</sup> Die Fakultätsleitung setzt sich gemäss § 23 des Universitätsstatuts[^7-1] aus den folgenden Leitungspersonen zusammen:
 
-<sup>2</sup> Wahlen erfolgen durch Handerheben, es sei denn ein Mitglied verlangt geheime Abstimmung.
+- a. der Dekanin oder dem Dekan,
+- b. den Prodekaninnen und Prodekanen,
+- c. der Fakultätsmanagerin oder dem Fakultätsmanager.
 
-<sup>3</sup> Die Wahl der Dekanin oder des Dekans sowie der Prodekaninnen und Prodekane erfolgt geheim.
+<sup>2</sup> Die Dekanin oder der Dekan kann zu den Sitzungen der Fakultätsleitung Delegierte und weitere Personen in beratender Funktion beiziehen.
 
-## 4 Dekanat
+<sup>3</sup> Die Fakultätsleitung
 
-#### § 15
+- a. unterstützt die Dekanin oder den Dekan in der strategischen Planung und operativen Leitung der Fakultät,
+- b. erarbeitet Entscheidungsgrundlagen zuhanden der Dekanin oder des Dekans,
+- c. unterstützt und berät die Dekanin oder den Dekan bei der Vorbereitung der Geschäfte der Fakultätsversammlung,
+- d. erfüllt weitere Aufgaben.
 
-**Zusammensetzung**
+[^7-1]: SRL Nr. [539c](https://srl.lu.ch/data/539c/de)
 
-<sup>1</sup> Die Dekanin oder der Dekan, die Prodekaninnen und Prodekane, die Fakultätsmanagerin oder der Fakultätsmanager sowie weitere Mitarbeiterinnen und Mitarbeiter bilden das Dekanat.
-
-<sup>2</sup> Die Dekanin oder der Dekan leitet das Dekanat.
-
-#### § 16
+#### § 8
 
 **Dekanin oder Dekan**
 
-<sup>1</sup> Die Dekanin oder der Dekan führt die Geschäfte der Fakultät und vertritt sie nach aussen. Sie oder er ist der Fakultätsversammlung rechenschaftspflichtig.
+<sup>1</sup> Die Dekanin oder der Dekan wird von der Fakultätsversammlung aus der Gruppe der ordentlichen und ausserordentlichen Professorinnen und Professoren in der Regel für eine Amtszeit von zwei Jahren gewählt. Die Wiederwahl ist möglich. Falls sich die amtierende Dekanin oder der amtierende Dekan zur Wiederwahl stellt und keine weitere Kandidatur angemeldet wird, gilt die Amtsinhaberin oder der Amtsinhaber in stiller Wahl als wiedergewählt.
 
-<sup>2</sup> Die Dekanin oder der Dekan wird von der Fakultätsversammlung aus der Gruppe der ordentlichen und ausserordentlichen Professorinnen und Professoren in der Regel auf eine Amtsperiode von zwei Jahren gewählt. Wiederwahl ist möglich. Falls sich die amtierende Dekanin oder der amtierende Dekan zur Wiederwahl stellt und keine weitere Kandidatur angemeldet wird, gilt die Amtsinhaberin oder der Amts- inhaber in stiller Wahl als wiedergewählt.
+<sup>2</sup> Die Dekanin oder der Dekan hat die strategische und operative Leitung der Fakultät inne, nimmt die in § 22 Absätze 2, 4 und 5 des Universitätsstatuts[^8-1] festgelegten Aufgaben und Kompetenzen wahr und verantwortet die Umsetzung der jährlichen Leistungsvereinbarung der Fakultät mit der Universität.
 
-<sup>3</sup> In den Aufgaben- und Zuständigkeitsbereich der Dekanin oder des Dekans fallen insbesondere:
+<sup>3</sup> Die Dekanin oder der Dekan entscheidet letztinstanzlich in allen Geschäften im Zuständigkeitsbereich der Fakultät, die nicht einem übergeordneten Organ zugewiesen sind.
 
-- a. Vorbereitung, Einberufung und Leitung von Sitzungen der Fakultätsversammlung,
-- b. Anträge an die Fakultätsversammlung,
-- c. Durchführung der Beschlüsse der Fakultätsversammlung,
-- d. Ernennung von Delegierten und Beauftragten der Fakultät,
-- e. Evaluation und Berichterstattung zuhanden universitärer und nichtuniversitärer Gremien und Organisationen,
-- f. Nachwuchsförderung,
-- g. Verhandlungsführung mit dem Rektorat und anderen universitären Gremien,
-- h. Erlass von Richtlinien und Weisungen zur Umsetzung des Leitbilds sowie der Reglemente und Ordnungen der Fakultät sowie Übertragung dieser Rechte an Delegierte unter Vorbehalt des Selbsteintrittsrechtes,
-- i. Erledigung aller Geschäfte der Fakultät, soweit sie keinem anderen Organ zugewiesen sind.
+<sup>4</sup> Die Dekanin oder der Dekan ist von der Lehre bis zur Hälfte entlastet.
 
-<sup>4</sup> Die Dekanin oder der Dekan verfügt über einen Globalbetrag von drei bis fünf Prozent des Fakultätsbudgets für strategische und operative Bedürfnisse. Sie oder er verwendet den Globalbetrag insbesondere für:
+[^8-1]: SRL Nr. [539c](https://srl.lu.ch/data/539c/de)
 
-- a. Auszeichnungen von Fakultätsmitgliedern für besondere Leistungen in Lehre und Forschung,
-- b. Anreize für Innovationen im Interesse der Fakultät,
-- c. Förderung des wissenschaftlichen Nachwuchses,
-- d. Repräsentationsaufgaben.
-
-<sup>5</sup> Die Dekanin oder der Dekan ist von der Lehre bis zur Hälfte entlastet.
-
-#### § 17
+#### § 9
 
 **Prodekaninnen und Prodekane**
 
-<sup>1</sup> Die Fakultätsversammlung wählt auf Vorschlag der Dekanin oder des Dekans aus der Gruppe der ordentlichen und ausserordentlichen Professorinnen und Professoren sowie der Assistenzprofessorinnen und -professoren Prodekaninnen und Prodekane. Die Amtsperiode beträgt in der Regel zwei Jahre. Wiederwahl ist möglich.
+<sup>1</sup> Die Fakultätsversammlung wählt auf Vorschlag der Dekanin oder des Dekans aus der Gruppe der Professorinnen und Professoren aufgrund einer Berufung maximal zwei Prodekaninnen und Prodekane. Die Amtszeit beträgt in der Regel zwei Jahre. Die Wiederwahl ist möglich.
 
 <sup>2</sup> Prodekaninnen oder Prodekane können die Dekanin oder den Dekan im Falle einer Verhinderung oder in ihrem oder seinem Auftrag in allen Angelegenheiten vertreten.
 
-<sup>3</sup> Den Prodekaninnen und Prodekanen können durch die Dekanin oder den Dekan spezifische Zuständigkeiten zugewiesen werden.
+<sup>3</sup> Den Prodekaninnen und Prodekanen können von der Dekanin oder vom Dekan spezifische Zuständigkeiten zugewiesen werden.
 
-#### § 18
+#### § 10
 
-**Fakultätsmanagerin oder -manager sowie Dekanatsadministration**
+**Fakultätsmanagerin oder Fakultätsmanager**
 
 <sup>1</sup> Die Fakultätsmanagerin oder der Fakultätsmanager berät und unterstützt die Dekanin oder den Dekan in organisatorischen, personellen, strategischen und operativen Angelegenheiten und ist der Dekanin oder dem Dekan direkt unterstellt.
 
 <sup>2</sup> Ihr oder ihm obliegen insbesondere:
 
-- a. die Leitung der technischen und administrativen Dienste der Fakultät,
-- b. das Studienmarketing,
-- c. die Vorbereitung der Sitzungen der Fakultätsversammlung,
-- d. die Vorbereitung des Budgets sowie die fakultäre Bedarfsplanung zuhanden der Dekanin oder des Dekans,
-- e. die Planung des Angebots der Lehrveranstaltungen sowie der Prüfungssessionen im Hinblick auf die Umsetzung der Studien- und Prüfungsordnung,
-- f. weitere von der Dekanin oder dem Dekan übertragene Aufgaben.
+- a. die Koordination der Aufgaben der Fakultätsleitung im Auftrag der Dekanin oder des Dekans,
+- b. die Vorbereitung der Sitzungen der Fakultätsversammlung,
+- c. die Vorbereitung des Budgets, der jährlichen Leistungsvereinbarung sowie die fakultäre Bedarfsplanung zuhanden der Dekanin oder des Dekans,
+- d. die Vorbereitung und Koordination der fakultären Berichterstattungen im Zusammenhang mit der Leistungsvereinbarung und der Qualitätssicherung zuhanden der Dekanin oder des Dekans,
+- e. die Kommunikation und das Studienmarketing,
+- f. die Planung des Angebots der Lehrveranstaltungen sowie der Prüfungssessionen im Hinblick auf die Umsetzung der Studien- und Prüfungsordnung,
+- g. die Studienberatung und die Studierendenadministration,
+- h. weitere von der Dekanin oder dem Dekan übertragene Aufgaben.
 
-## 5 Kommissionen
+<sup>3</sup> Zur Erfüllung dieser Aufgaben ist der Fakultätsmanagerin oder dem Fakultätsmanager eine Dekanatsverwaltung (Dekanat) unterstellt, die von ihr oder ihm geführt wird.
 
-#### § 19
+#### § 11
 
-**Ständige und nichtständige Kommissionen**
+**Delegierte**
 
-<sup>1</sup> Die Fakultätsversammlung kann zur Wahrnehmung besonderer Aufgaben ständige oder nichtständige Kommissionen einsetzen.
+<sup>1</sup> Die Dekanin oder der Dekan kann für bestimmte Aufgaben Professorinnen und Professoren als Delegierte ernennen. Sie oder er bezeichnet deren Aufgaben.
 
-<sup>2</sup> Den verschiedenen Gruppierungen der Fakultätsversammlung steht eine Vertretung in den Kommissionen zu.
+<sup>2</sup> Die Amtszeit der Delegierten beträgt vier Jahre. Die Fakultätsversammlung kann Ausnahmen beschliessen.
 
-<sup>3</sup> Im Falle von Abstimmungen beschliessen Kommissionen jeweils mit einfacher Mehrheit der abgegebenen Stimmen.
+<sup>3</sup> Die Delegierten arbeiten in ihren Aufgabenbereichen mit der Fakultätsleitung und dem Dekanat zusammen. Bei Meinungsverschiedenheiten entscheidet die Dekanin oder der Dekan.
 
-<sup>4</sup> Die Fakultätsversammlung weist den Kommissionen Aufgaben zu und nimmt Anträge und Tätigkeitsberichte entgegen. Sie kann für die Kommissionen Geschäftsordnungen erlassen.
+### 2.3 Weitere Organisationseinheiten
 
-## 6 Schlussbestimmungen
+#### § 12
 
-#### § 20
+**Kommissionen und weitere untergeordnete Organisationseinheiten**
 
-**Inkrafttreten**
+<sup>1</sup> Die Fakultät kann sich zur Erfüllung ihrer Aufgaben in Institute, Zentren und andere Organisationseinheiten gliedern; diese können in besonderen Reglementen geordnet werden.
 
-<sup>1</sup> Das Reglement tritt am 1. Juli 2016 in Kraft.[^20-1] Es ist zu veröffentlichen.
+<sup>2</sup> Die Fakultätsversammlung kann zur Wahrnehmung besonderer Aufgaben ständige oder nichtständige Kommissionen einsetzen.
 
-[^20-1]: Vom Senat genehmigt am 23. Mai 2016.
+<sup>3</sup> Die Amtszeit der Mitglieder von ständigen Kommissionen der Fakultät beträgt in der Regel vier Jahre. Die Wiederwahl ist möglich.
 
-G 2016 93
+<sup>4</sup> Die Kommissionen organisieren sich selbst und können in ihren Aufgabenbereichen Richtlinien erlassen.
+
+### 2.4 Verfahrensvorschriften
+
+#### § 13
+
+**Geheimhaltung**
+
+<sup>1</sup> Die Sitzungen der Fakultätsorgane sind nicht öffentlich.
+
+<sup>2</sup> Die Teilnehmerinnen und Teilnehmer an den Sitzungen der Fakultätsorgane unterliegen der Geheimhaltungspflicht.
+
+<sup>3</sup> Von vorstehenden Bestimmungen bleibt unberührt, dass die Fakultätsleitung die Universitätsleitung oder dass einzelne Mitglieder die durch sie vertretene Gruppierung über Beschlüsse oder den Stand der Beratungen, nicht aber über die Beratungen selbst, unterrichten, es sei denn, dies wird ausdrücklich ausgeschlossen.
+
+#### § 14
+
+**Schlichtung**
+
+<sup>1</sup> Bei Unstimmigkeiten unter Mitgliedern der Fakultät kann die Dekanin oder der Dekan schlichtend tätig werden. In diesen Fällen kann sie oder er sich von Dritten unterstützen lassen.
+
+<sup>2</sup> Mit Beschwerden über die Amtsführung der Dekanin oder des Dekans kann sich jedes Fakultätsmitglied an die Fakultätsversammlung wenden. Übergeordnete Beschwerdeinstanz ist in diesen Fällen die Rektorin oder der Rektor. Diese Beschwerdeverfahren sind formlos und unterstehen nicht dem Gesetz über die Verwaltungsrechtspflege des Kantons Luzern.
+
+G 2024-045
