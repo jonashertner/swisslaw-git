@@ -3,20 +3,20 @@ canton: AI
 number: "412.011"
 title: Standeskommissionsbeschluss zur Gymnasialverordnung
 language: de
-version: 2024-01-01
-valid_until: 2024-07-31
-version_adopted: 2023-12-19
+version: 2024-08-01
+valid_until: 2024-12-31
+version_adopted: 2024-11-19
 adopted: 2016-04-12
 in_force: 2016-04-12
 url: "https://ai.clex.ch/app/de/texts_of_law/412.011"
-pdf: "https://ai.clex.ch/api/de/versions/2255/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2325/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Standeskommissionsbeschluss zur Gymnasialverordnung
 
-vom 12.04.2016 (Stand 01.01.2024)
+vom 12.04.2016 (Stand 01.08.2024)
 
 Die Standeskommission des Kantons Appenzell I. Rh.,
 
@@ -132,7 +132,7 @@ beschliesst:
 
 **Schulleitungspensen**
 
-<sup>1</sup> Das Pensum der pädagogischen Schulleitung umfasst insgesamt höchstens 35 Lektionen (35/23), davon entfallen in der Regel 17 Lektionen auf den Rektor.
+<sup>1</sup> Das Pensum der pädagogischen Schulleitung umfasst insgesamt höchstens 39 Lektionen (39/23), davon entfallen in der Regel 17 Lektionen auf den Rektor.
 
 <sup>2</sup> Die Aufteilung auf die einzelnen Mitglieder wird durch das Departement vorgenommen.
 
