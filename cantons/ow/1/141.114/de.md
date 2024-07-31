@@ -3,20 +3,19 @@ canton: OW
 number: "141.114"
 title: Ausführungsbestimmungen über die Spesenentschädigungen und Zulagen im Staatsdienst
 language: de
-version: 2013-06-01
-valid_until: 2024-07-31
-version_adopted: 2013-04-30
+version: 2024-08-01
+version_adopted: 2024-04-30
 adopted: 2000-03-14
 in_force: 1999-07-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/141.114"
-pdf: "http://gdb.ow.ch/api/de/versions/765/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1877/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Spesenentschädigungen und Zulagen im Staatsdienst
 
-vom 14.03.2000 (Stand 01.06.2013)
+vom 14.03.2000 (Stand 01.08.2024)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -163,9 +162,9 @@ beschliesst:
 
 **Zulagen für Führungs- und Zusatzaufgaben**
 
-<sup>1</sup> Prorektoren und Prorektorinnen an der Kantonsschule und am Berufs- und Weiterbildungszentrum sowie Gruppenleiter und Gruppenleiterinnen bei der Kantonspolizei erhalten für ihre Führungsaufgabe (mit Verbleib in der angestammten Funktionsstufe) eine Zulage von Fr. 500.– monatlich.
+<sup>1</sup> Prorektoren und Prorektorinnen an der Kantonsschule und am Berufs- und Weiterbildungszentrum erhalten für ihre Führungsaufgabe (mit Verbleib in der angestammten Funktionsstufe) eine Zulage von Fr. 500.– monatlich.
 
-<sup>2</sup> Stellvertreter und Stellvertreterinnen der Gruppenleitung bei der Kriminal- sowie bei der Verkehrs- und Sicherheitspolizei erhalten (mit Verbleib in der angestammten Funktionsstufe) eine Zulage von Fr. 200.– monatlich.
+<sup>2</sup> Bei der Kantonspolizei erhalten (mit Verbleib in der angestammten Funktionsstufe) die Fachverantwortlichen in den Abteilungen, die Stellvertretungen der Gruppenleitungen und die Stellvertretung der Abteilungsleitung in der Kommandoabteilung eine Zulage von Fr. 200.– monatlich.
 
 <sup>3</sup> Bei Vakanzen in Führungspositionen oder Arbeitsausfall von Mitarbeitenden infolge Krankheit oder Unfall von mehr als einem Monat kann einem Mitarbeiter oder einer Mitarbeiterin durch den Departementsvorsteher oder die Departementsvorsteherin unter Einbezug des Personalamts eine befristete Zulage abgestuft bis höchstens Fr. 500.– pro Monat bewilligt werden.
 
@@ -226,8 +225,10 @@ geändert durch
 
 \- die Ausführungsbestimmungen über die Anpassung des Verordnungsrechts des Regierungsrats an die Justizreform im Bereich der Zivil- und Strafrechtspflege (Ausführungsbestimmungen zur Justizreform) vom 6. Dezember 2010, in Kraft seit 1. Januar 2011 (OGS 2010, 86 Ziff. 3),
 
-\- Nachtrag vom 28. Juni 2011, in Kraft seit 1. Januar 2012 (OGS 2011, 41)
+\- Nachtrag vom 28. Juni 2011, in Kraft seit 1. Januar 2012 (OGS 2011, 41),
 
-\- Nachtrag vom 30. April 2013, in Kraft seit 1. Juni 2013 (OGS 2013, 25 und 26)
+\- Nachtrag vom 30. April 2013, in Kraft seit 1. Juni 2013 (OGS 2013, 25 und 26),
+
+\- Nachtrag vom 30. April 2024, in Kraft seit 1. August 2024 (OGS 2024, 6)
 
 OGS 2000, 26
