@@ -4,13 +4,12 @@ number: "432.271.11"
 title: Direktionsverordnung über die einfachen sonderpädagogischen und unterstützenden Massnahmen im Regelschulangebot
 short: MRDV
 language: de
-version: 2022-08-01
-valid_until: 2024-07-31
-version_adopted: 2022-06-22
+version: 2024-08-01
+version_adopted: 2024-06-20
 adopted: 2008-08-30
 in_force: 2009-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/432.271.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2617/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3047/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2617/pdf_file"
 
 (MRDV)
 
-vom 30.08.2008 (Stand 01.08.2022)
+vom 30.08.2008 (Stand 01.08.2024)
 
 Die Bildungs- und Kulturdirektion des Kantons Bern,
 
@@ -207,9 +206,9 @@ beschliesst:
 
 **Besondere Klassen**
 
-<sup>1</sup> Vom Lektionenpool für die übrigen einfachen sonderpädagogischen und unterstützenden Massnahmen sowie die Integration Fremdsprachiger ist für die Bildung besonderer Klassen ein Anteil von höchstens 50% anzustreben.
+<sup>1</sup> Vom Lektionenpool für die übrigen einfachen sonderpädagogischen und unterstützenden Massnahmen sowie die Integration Fremdsprachiger ist für die Bildung besonderer Klassen ein Anteil von höchstens 47% anzustreben.
 
-<sup>2</sup> Die Klassenlehrerlektionen für die besonderen Klassen sind im zugewiesenen Anteil des Lektionenpools enthalten.
+<sup>2</sup> …
 
 #### Art. 21
 
@@ -217,8 +216,8 @@ beschliesst:
 
 <sup>1</sup> Vom Lektionenpool für die einfachen sonderpädagogischen und unterstützenden Massnahmen sowie die Integration Fremdsprachiger sind zudem zu verwenden:
 
-- a für die integrative Förderung mindestens 13% zuzüglich den nicht ausgeschöpften Anteil für besondere Klassen gemäss Artikel 20 Absatz 1,
-- b für Logopädie, Psychomotorik und Rhythmik mindestens 13%.
+- a für die integrative Förderung mindestens 12% zuzüglich den nicht ausgeschöpften Anteil für besondere Klassen gemäss Artikel 20 Absatz 1,
+- b für Logopädie, Psychomotorik und Rhythmik mindestens 19%.
 
 <sup>2</sup> Sind der Logopädie, der Psychomotorik oder der Rhythmik zu wenig Schülerinnen und Schüler zugewiesen, können die nicht verwendeten Lektionen der integrativen Förderung oder der Integration Fremdsprachiger zugeteilt werden.
 

@@ -4,13 +4,12 @@ number: "432.271.11"
 title: "Ordonnance de Direction régissant les mesures de pédagogie spécialisée ordinaires et les mesures de soutien relevant de l’offre ordinaire de l’école obligatoire *"
 short: ODMO
 language: fr
-version: 2022-08-01
-valid_until: 2024-07-31
-version_adopted: 2022-06-22
+version: 2024-08-01
+version_adopted: 2024-06-20
 adopted: 2008-08-30
 in_force: 2009-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/432.271.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2617/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3047/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2617/pdf_file"
 
 (ODMO)
 
-du 30.08.2008 (état au 01.08.2022)
+du 30.08.2008 (état au 01.08.2024)
 
 La Direction de l’instruction publique et de la culture du canton de Berne,
 
@@ -207,9 +206,9 @@ arrête:
 
 **Classes spéciales**
 
-<sup>1</sup> Il y a lieu de veiller à ne pas consacrer plus de la moitié du pool de leçons attribué aux autres mesures de pédagogie spécialisée ordinaires et aux mesures de soutien ainsi qu'à l'intégration des élèves allophones à la création de classes spéciales.
+<sup>1</sup> Il y a lieu de veiller à ne pas consacrer à la création de classes spéciales plus de 47 pour cent du pool de leçons attribué aux autres mesures de pédagogie spécialisée ordinaires et aux mesures de soutien, ainsi qu'à l'intégration des élèves allophones.
 
-<sup>2</sup> Les leçons attribuées au maître ou à la maîtresse de classe pour les classes spéciales sont comprises dans la part du pool de leçons attribuée aux classes spéciales.
+<sup>2</sup> …
 
 #### Art. 21
 
@@ -217,8 +216,8 @@ arrête:
 
 <sup>1</sup> Le pool de leçons attribué aux autres mesures de pédagogie spécialisée ordinaires et aux mesures de soutien ainsi qu'à l'intégration des élèves allophones est en outre réparti comme suit:
 
-- a soutien pédagogique ambulatoire: au moins treize pour cent, augmentés de la part non utilisée pour les classes spéciales conformément à l’article 20, alinéa 1,
-- b mesures de logopédie, de psychomotricité et de rythmique: au moins treize pour cent.
+- a soutien pédagogique ambulatoire: au moins 12 pour cent, augmentés de la part non utilisée pour les classes spéciales conformément à l’article 20, alinéa 1,
+- b mesures de logopédie, de psychomotricité et de rythmique: au moins 19 pour cent.
 
 <sup>2</sup> Si le nombre d’élèves admis aux mesures de logopédie, de psychomotricité ou de rythmique est insuffisant, les leçons non utilisées peuvent être attribuées au soutien pédagogique ambulatoire ou à l’intégration des élèves allophones.
 
