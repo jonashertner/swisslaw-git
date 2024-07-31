@@ -4,13 +4,13 @@ number: "175.11"
 title: Verordnung zum Verwaltungsverfahrensgesetz Basel-Landschaft
 short: Vo VwVG BL
 language: de
-version: 2018-01-01
-valid_until: 2024-07-31
-version_adopted: 2017-12-19
+version: 2024-08-01
+valid_until: 2025-06-30
+version_adopted: 2023-12-19
 adopted: 2004-11-30
 in_force: 2005-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/175.11"
-pdf: "https://bl.clex.ch/api/de/versions/3731/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3860/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3731/pdf_file"
 
 (Vo VwVG BL)
 
-Vom 30.11.2004 (Stand 01.01.2018)
+Vom 30.11.2004 (Stand 01.08.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -238,7 +238,10 @@ beschliesst:
 <sup>1</sup> Der Bildungs-, Kultur- und Sportdirektion obliegt die Verfahrensleitung bei Beschwerden gegen:
 
 - a. Verfügungen der Gemeindebehörden, die den sachlichen Zuständigkeitsbereich der Bildungs-, Kultur- und Sportdirektion betreffen;
-- b. Verfügungen der Schulräte, der Prüfungskonferenzen und der Prüfungskommissionen für die Lehrabschlussprüfungen, die gestützt auf die Berufsbildungsgesetzgebung oder die Personalgesetzgebung ergehen.
+- b. Verfügungen der Schulräte der kommunalen Schulen;
+- c. Verfügungen der Schulleitungen der kantonalen Schulen in personalrechtlichen Angelegenheiten und bei Schulausschlüssen;
+- d. Verfügungen der Schulräte der kantonalen Schulen bei schülerinnen- und schülerbezogenen bzw. lernendenbezogenen Angelegenheiten ausser bei Schulausschlüssen;
+- e. Verfügungen der Prüfungskommissionen für die Lehrabschlussprüfungen, die gestützt auf die Berufsbildungsgesetzgebung oder die Personalgesetzgebung ergehen.
 
 #### § 21
 
