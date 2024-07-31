@@ -4,13 +4,13 @@ number: "420.24"
 title: "Règlement relatif au personnel enseignant dépendant de la Direction de l'économie, de l'emploi et de la formation professionnelle"
 short: RPEns DEEF
 language: fr
-version: 2022-02-01
-valid_until: 2024-07-31
-version_adopted: 2022-03-04
+version: 2024-08-01
+valid_until: 2024-09-30
+version_adopted: 2024-10-01
 adopted: 2011-10-11
 in_force: 2011-09-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/420.24"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8019/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8053/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,17 +21,19 @@ Personnel enseignant de la DEEF – R
 
 (RPEns DEEF)
 
-du 11.10.2011 (version entrée en vigueur le 01.02.2022)
+du 11.10.2011 (version entrée en vigueur le 01.08.2024)
 
 Le Conseil d'Etat du canton de Fribourg
 
 Vu la loi fédérale du 13 décembre 2002 sur la formation professionnelle (LFPr) et son ordonnance du 19 novembre 2003 (OFPr);
 
+Vu l'article 13 de l'ordonnance du 11 septembre 2017 du DEFR concernant les conditions minimales de la reconnaissance des filières de formation et des études postdiplômes des écoles supérieures (OCM ES);
+
 Vu la loi du 13 décembre 2007 sur la formation professionnelle (LFP) et son règlement du 23 mars 2010 (RFP);
 
 Vu la loi du 17 octobre 2001 sur le personnel de l'Etat (LPers) et son règlement du 17 décembre 2002 (RPers);
 
-Sur la proposition de la Direction de l'économie et de l'emploi,
+Sur la proposition de la Direction de l'économie, de l'emploi et de la formation professionnelle,
 
 Arrête:
 
@@ -357,9 +359,9 @@ Arrête:
 
 <sup>2</sup> Pour répondre aux exigences des articles 45 et 46 LFPr et des articles 45 et 46 OFPr et aux besoins des Ecoles, l'enseignant ou l'enseignante pressenti-e pour accomplir la formation à la pédagogie professionnelle, en vue de l'obtention des qualifications requises, peut bénéficier d'une aide financière partielle de l'Etat durant sa formation.
 
-<sup>3</sup> Le financement de cette formation est octroyé sous forme d'une décharge et fait l'objet d'une convention entre l'autorité d'engagement et l'enseignant ou l'enseignante. Les dispositions de la réglementation relative à la formation continue du personnel de l'Etat sont en outre applicables, notamment celles qui sont liées à l'obligation de remboursement et du temps de redevance.
+<sup>3</sup> Le financement de cette formation comprend la prise en charge des frais de formation directs et indirects ainsi que l'octroi d'une décharge. Ce financement fait l'objet d'une convention entre l'autorité d'engagement et la personne engagée. Les dispositions de la réglementation sur la formation du personnel de l'Etat sont en outre applicables, notamment celles qui sont liées à l'obligation de remboursement et du temps de redevance.
 
-<sup>4</sup> La décharge octroyée pour l'ensemble de la formation comprend la finance d'inscription et des modules. Cette décharge est répartie au prorata du taux d'activité et selon les besoins en formation exigés par la législation fédérale, précisés à l'alinéa 2, dans le cadre d'une fourchette allant d'une unité d'enseignement par tranche de formation de 150 heures, au minimum, jusqu'à douze unités d'enseignement pour la formation de 1800 heures, au maximum.
+<sup>4</sup> La décharge est octroyée pour l'ensemble de la formation. Elle est accordée selon les besoins de formation exigés par la législation fédérale, précisés à l'alinéa 2. Les modalités relatives au calcul de cette décharge sont réglées dans une directive du Service.
 
 <sup>5</sup> L'attribution de la décharge est réglée par les directions des Ecoles, en accord avec le Service.
 
@@ -373,7 +375,7 @@ Arrête:
 
 <sup>2</sup> La rémunération est fixée dans une classe inférieure aux classes attribuées à la fonction, en application de l'article 87 LPers.
 
-<sup>3</sup> Dès le début du mois suivant l'obtention du titre pédagogique requis, la rémunération de l'enseignant ou de l'enseignante est fixée selon la fonction de référence de maître ou maîtresse professionnel-le.
+<sup>3</sup> Dès le début du mois suivant l'obtention du titre pédagogique requis, la rémunération du personnel enseignant est fixée selon la fonction de référence de maître ou maîtresse professionnel‑le ou enseignant ES ou enseignante ES. Des paliers sont octroyés pour les années d'enseignement effectuées durant la formation pédagogique, selon l'échelle d'expérience professionnelle.
 
 <sup>4</sup> …
 

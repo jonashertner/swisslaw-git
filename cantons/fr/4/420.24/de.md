@@ -4,13 +4,13 @@ number: "420.24"
 title: "Reglement für das Lehrpersonal, das der Volkswirtschafts- und Berufsbildungsdirektion untersteht"
 short: LPR VWBD
 language: de
-version: 2022-02-01
-valid_until: 2024-07-31
-version_adopted: 2022-03-04
+version: 2024-08-01
+valid_until: 2024-09-30
+version_adopted: 2024-10-01
 adopted: 2011-10-11
 in_force: 2011-09-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/420.24"
-pdf: "https://bdlf.fr.ch/api/de/versions/8019/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8053/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,17 +21,19 @@ Lehrpersonal der VWBD – R
 
 (LPR VWBD)
 
-vom 11.10.2011 (Fassung in Kraft getreten am 01.02.2022)
+vom 11.10.2011 (Fassung in Kraft getreten am 01.08.2024)
 
 Der Staatsrat des Kantons Freiburg
 
-gestützt auf das Bundesgesetz vom 13. Dezember 2002 über die Berufsbildung (BBG) und seine Verordnung vom 19. November 2003 (BBV);
+gestützt auf das Bundesgesetz vom 13. Dezember 2002 über die Berufsbildung (BBG) und die dazugehörige Verordnung vom 19. November 2003 (BBV);
+
+gestützt auf Artikel 13 der Verordnung vom 11. September 2017 des WBF über Mindestvorschriften für die Anerkennung von Bildungsgängen und Nachdiplomstudien der höheren Fachschulen (MiVo HF);
 
 gestützt auf das Gesetz vom 13. Dezember 2007 über die Berufsbildung (BBiG) und das dazugehörige Reglement vom 23. März 2010 (BBiR);
 
-gestützt auf das Gesetz vom 17. Oktober 2001 über das Staatspersonal (StPG) und das zugehörige Reglement vom 17. Dezember 2002 (StPR);
+gestützt auf das Gesetz vom 17. Oktober 2001 über das Staatspersonal (StPG) und das dazugehörige Reglement vom 17. Dezember 2002 (StPR);
 
-auf Antrag der Volkswirtschaftsdirektion,
+auf Antrag der Volkswirtschafts- und Berufsbildungsdirektion,
 
 beschliesst:
 
@@ -357,9 +359,9 @@ beschliesst:
 
 <sup>2</sup> Um den Artikeln 45 und 46 BBG und den Artikeln 45 und 46 BBV sowie den Bedürfnissen der Schulen gerecht zu werden, kann der Staat die Lehrpersonen, die eine berufspädagogische Ausbildung absolvieren müssen, um die verlangten Qualifikationen zu erwerben, für die Dauer ihrer Ausbildung teilweise finanziell unterstützen.
 
-<sup>3</sup> Die Finanzierung dieser Ausbildung erfolgt in Form einer Entlastung und ist Gegenstand einer Vereinbarung zwischen der Anstellungsbehörde und der Lehrperson. Im Übrigen gelten die gesetzlichen Regelungen über die Weiterbildung des Staatspersonals, insbesondere die Bestimmungen über die Rückzahlungspflicht und die zeitliche Bindung.
+<sup>3</sup> Die Finanzierung dieser Ausbildung beinhaltet die Übernahme der direkten und indirekten Ausbildungskosten und die Gewährung einer Entlastung. Diese Finanzierung ist Gegenstand einer Vereinbarung zwischen der Anstellungsbehörde und der angestellten Person. Im Übrigen gelten die gesetzlichen Regelungen über die Weiterbildung des Staatspersonals, insbesondere die Bestimmungen über die Rückzahlungspflicht und die zeitliche Bindung.
 
-<sup>4</sup> Die für die gesamte Ausbildung gewährte Entlastung umfasst die Anmeldegebühr und die Modulkosten. Die Entlastung richtet sich nach dem Beschäftigungsgrad und dem im Absatz 2 erwähnten Bildungsbedarf gemäss den Anforderungen der Bundesgesetzgebung und reicht von einer Unterrichtseinheit pro Bildungsabschnitt von 150 Lernstunden bis zu höchstens zwölf Unterrichtseinheiten für die gesamte Ausbildung von 1800 Lernstunden.
+<sup>4</sup> Die Entlastung wird für die gesamte Ausbildung gewährt. Die Entlastung richtet sich nach dem in Absatz 2 erwähnten Bildungsbedarf gemäss den Anforderungen der Bundesgesetzgebung. Die Modalitäten für die Berechnung der Entlastung werden in einer Weisung des Amts geregelt.
 
 <sup>5</sup> Die Zuteilung der Entlastung wird von den Schuldirektionen im Einvernehmen mit dem Amt geregelt.
 
@@ -373,7 +375,7 @@ beschliesst:
 
 <sup>2</sup> Das Gehalt wird gestützt auf Artikel 87 StPG unterhalb der Klassen festgesetzt, die der Funktion zugeordnet sind.
 
-<sup>3</sup> Mit Beginn des Monats, der auf den Erhalt des verlangten pädagogischen Bildungsabschlusses folgt, wird das Gehalt der Lehrperson innerhalb der Klassen festgesetzt, die der Funktion von Berufsfachschullehrerinnen und Berufsfachschullehrern zugeordnet sind.
+<sup>3</sup> Mit Beginn des Monats, der auf den Erhalt des verlangten pädagogischen Bildungsabschlusses folgt, wird das Gehalt der Lehrperson innerhalb der Klassen festgesetzt, die der Funktion von Berufsfachschullehrerinnen und Berufsfachschullehrern oder Lehrerinnen und Lehrern HF zugeordnet sind. Für die Unterrichtsjahre während der pädagogischen Bildung wird eine Stufenerhöhung nach der Weisung über die Anerkennung der bisherigen Berufspraxis, gewährt.
 
 <sup>4</sup> …
 
