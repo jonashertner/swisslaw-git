@@ -4,7 +4,7 @@ number: "419.01.2"
 title: RÈGLEMENT du 15.01.2014 d’application de la loi du 11 juin 2013 sur les hautes écoles vaudoises de type HES (RLHEV)
 short: RLHEV
 language: fr
-version: 2014-01-01
+version: 2024-08-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/419.01.2?id=100999ba-0d08-4635-a428-a16bd68c9446"
 ---
 
@@ -78,7 +78,7 @@ arrête
 
 <sup>2</sup> Le plan de développement définit :
 
-- a. les objectifs que la haute école se propose d'atteindre durant la période considérée et leurs conséquences financières ;
+- a. les objectifs que la haute école propose d'atteindre durant la période considérée et leurs conséquences, notamment financières ;
 - b. les indicateurs d'atteinte de ces objectifs ;
 
 <sup>3</sup> Le conseil professionnel se prononce sur le projet de plan de développement.
@@ -87,7 +87,7 @@ arrête
 
 <sup>5</sup> La direction transmet au département, dans un délai fixé par ce dernier en tenant compte du calendrier de la HES-SO, le plan de développement, avec le préavis du conseil représentatif.
 
-[^4-1]: Modif. 1 du 03.07.2024: Modification Al. 2, a; entrée en vigueur au 01.08.2024; Introduction Art. 14, Al. 1bis; entrée en vigueur au 01.08.2024; Introduction Art. 36a; entrée en vigueur au 01.08.2024; Introduction Art. 36b; entrée en vigueur au 01.08.2024; Introduction Art. 39, Al. 4-5; entrée en vigueur au 01.08.2024; Introduction Art. 40, Al. 2-3; entrée en vigueur au 01.08.2024; Introduction Art. 41a; entrée en vigueur au 01.08.2024; Introduction Art. 43, Al. 2bis; entrée en vigueur au 01.08.2024; Introduction Art. 44a; entrée en vigueur au 01.08.2024; Introduction Art. 50, Al. 2-7; entrée en vigueur au 01.08.2024; Introduction Art. 53a; entrée en vigueur au 01.08.2024
+[^4-1]: Modif. 1 du 03.07.2024: Modification Al. 2, a; entrée en vigueur au 01.08.2024
 
 #### Art. 6
 
@@ -115,12 +115,12 @@ arrête
 
 **Communauté de la haute école [^7-1]**
 
-<sup>1</sup> Sont aussi considérés comme membres de la communauté de la haute école :
+<sup>1</sup> Les intervenants extérieurs sont aussi considérés comme membres de la communauté de la haute école.
 
-- a. les professeurs HES invités ;
-- b. les intervenants extérieurs.
+- a. ...
+- b. ...
 
-[^7-1]: Modif. 1 du 03.07.2024: Modification Al. 1; entrée en vigueur au 01.08.2024; Abrogation Al. 1, a-b; entrée en vigueur au 01.08.2024; Introduction Art. 14, Al. 1bis; entrée en vigueur au 01.08.2024; Introduction Art. 36a; entrée en vigueur au 01.08.2024; Introduction Art. 36b; entrée en vigueur au 01.08.2024; Introduction Art. 39, Al. 4-5; entrée en vigueur au 01.08.2024; Introduction Art. 40, Al. 2-3; entrée en vigueur au 01.08.2024; Introduction Art. 41a; entrée en vigueur au 01.08.2024; Introduction Art. 43, Al. 2bis; entrée en vigueur au 01.08.2024; Introduction Art. 44a; entrée en vigueur au 01.08.2024; Introduction Art. 50, Al. 2-7; entrée en vigueur au 01.08.2024; Introduction Art. 53a; entrée en vigueur au 01.08.2024
+[^7-1]: Modif. 1 du 03.07.2024: Modification Al. 1; entrée en vigueur au 01.08.2024; Abrogation Al. 1, a-b; entrée en vigueur au 01.08.2024
 
 #### Art. 9
 
@@ -136,7 +136,7 @@ arrête
 
 [^9-1]: Modif. 1 du 03.07.2024: Modification ; entrée en vigueur au 01.08.2024
 
-## Chapitre II Structure et organes des hautes écoles
+## Chapitre II Organes des hautes écoles
 
 [^9-1]
 
@@ -164,9 +164,9 @@ arrête
 
 **Evaluation du directeur [^11-1]**
 
-<sup>1</sup> Une évaluation de l'activité du directeur par le département a lieu une année avant la fin de son mandat.
+<sup>1</sup> L'évaluation de l'activité du directeur par le département a lieu une année avant la fin de son mandat. Les modalités sont fixées dans une directive du département.
 
-[^11-1]: Modif. 1 du 03.07.2024: Modification Al. 1; entrée en vigueur au 01.08.2024; Introduction Art. 14, Al. 1bis; entrée en vigueur au 01.08.2024; Introduction Art. 36a; entrée en vigueur au 01.08.2024; Introduction Art. 36b; entrée en vigueur au 01.08.2024; Introduction Art. 39, Al. 4-5; entrée en vigueur au 01.08.2024; Introduction Art. 40, Al. 2-3; entrée en vigueur au 01.08.2024; Introduction Art. 41a; entrée en vigueur au 01.08.2024; Introduction Art. 43, Al. 2bis; entrée en vigueur au 01.08.2024; Introduction Art. 44a; entrée en vigueur au 01.08.2024; Introduction Art. 50, Al. 2-7; entrée en vigueur au 01.08.2024; Introduction Art. 53a; entrée en vigueur au 01.08.2024
+[^11-1]: Modif. 1 du 03.07.2024: Modification Al. 1; entrée en vigueur au 01.08.2024
 
 #### Art. 13
 
@@ -178,20 +178,21 @@ arrête
 
 <sup>3</sup> Le Conseil d'Etat et le directeur peuvent convenir d'une fin des rapports de travail avant l'échéance du contrat. Dans ce cas, ils passent une convention qui fixe les modalités.
 
-<sup>4</sup> Le préavis de la HES-SO, mentionné à l'article 22, alinéa 3 de la loi[^13-1] porte sur l'engagement du directeur. Il n'est pas exigé pour le renouvellement de l'engagement.
+<sup>4</sup> Le préavis de la HES-SO, mentionné à l'article 22, alinéa 3 de la loi porte sur l'engagement du directeur. Il n'est pas exigé pour un renouvellement de l'engagement ou pour un non renouvellement.
 
-[^12-1]: Modif. 1 du 03.07.2024: Modification Al. 4; entrée en vigueur au 01.08.2024; Introduction Art. 14, Al. 1bis; entrée en vigueur au 01.08.2024; Introduction Art. 36a; entrée en vigueur au 01.08.2024; Introduction Art. 36b; entrée en vigueur au 01.08.2024; Introduction Art. 39, Al. 4-5; entrée en vigueur au 01.08.2024; Introduction Art. 40, Al. 2-3; entrée en vigueur au 01.08.2024; Introduction Art. 41a; entrée en vigueur au 01.08.2024; Introduction Art. 43, Al. 2bis; entrée en vigueur au 01.08.2024; Introduction Art. 44a; entrée en vigueur au 01.08.2024; Introduction Art. 50, Al. 2-7; entrée en vigueur au 01.08.2024; Introduction Art. 53a; entrée en vigueur au 01.08.2024
-[^13-1]: Loi du 11.06.2013 sur les hautes écoles vaudoises de type HES ([BLV 419.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/419.01?id=e030fc86-077d-48b6-af1f-1fa5ce78f014))
+[^12-1]: Modif. 1 du 03.07.2024: Modification Al. 4; entrée en vigueur au 01.08.2024
 
 #### Art. 14
 
-**Engagement et renouvellement de l'engagement des autres membres de la direction [^13-2]**
+**Engagement et renouvellement de l'engagement des autres membres de la direction [^13-1]**
 
-<sup>1</sup> Le directeur propose les autres membres de sa direction au département. Ce dernier formule une proposition au Conseil d'Etat.
+<sup>1</sup> Le directeur propose l'engagement, le renouvellement ou le non renouvellement des autres membres de la direction, selon des modalités fixées par le département sous forme de directive. Ce dernier formule une proposition au Conseil d'Etat.
+
+<sup>1bis</sup> Pour les cas de renouvellement ou de non renouvellement, la proposition est soumise au Conseil d'Etat au plus tard huit mois avant la fin du mandat du titulaire.
 
 <sup>2</sup> Si le Conseil d'Etat entend refuser la proposition, il invite le département à lui en présenter une nouvelle.
 
-[^13-2]: Modif. 1 du 03.07.2024: Modification Al. 1; entrée en vigueur au 01.08.2024; Introduction Al. 1bis; entrée en vigueur au 01.08.2024; Introduction Art. 36a; entrée en vigueur au 01.08.2024; Introduction Art. 36b; entrée en vigueur au 01.08.2024; Introduction Art. 39, Al. 4-5; entrée en vigueur au 01.08.2024; Introduction Art. 40, Al. 2-3; entrée en vigueur au 01.08.2024; Introduction Art. 41a; entrée en vigueur au 01.08.2024; Introduction Art. 43, Al. 2bis; entrée en vigueur au 01.08.2024; Introduction Art. 44a; entrée en vigueur au 01.08.2024; Introduction Art. 50, Al. 2-7; entrée en vigueur au 01.08.2024; Introduction Art. 53a; entrée en vigueur au 01.08.2024
+[^13-1]: Modif. 1 du 03.07.2024: Modification Al. 1; entrée en vigueur au 01.08.2024; Introduction Al. 1bis; entrée en vigueur au 01.08.2024
 
 #### Art. 15
 
@@ -205,18 +206,17 @@ arrête
 
 #### Art. 16
 
-**Engagement et renouvellement de l'engagement des directeurs et des autres membres de la direction [^subsectionSoussectionII-1]**
+**Engagement et renouvellement de l'engagement du directeur et des autres membres de la direction [^subsectionSoussectionII-1]**
 
 <sup>1</sup> Le premier engagement et le renouvellement de l'engagement du directeur et des autres membres de la direction se déroulent conformément aux dispositions statutaires de la fondation.
 
 <sup>2</sup> Le premier engagement et le renouvellement de l'engagement du directeur sont soumis à l'accord préalable du département.
 
-<sup>3</sup> Le préavis de la HES-SO, mentionné à l'article 22, alinéa 3 de la loi[^16-1] , porte sur l'engagement du directeur. Il n'est pas exigé pour le renouvellement de l'engagement.
+<sup>3</sup> Le préavis de la HES-SO, mentionné à l'article 22, alinéa 3 de la loi, porte sur l'engagement du directeur. Il n'est pas exigé pour un renouvellement de l'engagement ou pour un non renouvellement.
 
 <sup>4</sup> En cas de démission du directeur en cours de mandat, l'autorité d'engagement en informe le département.
 
-[^subsectionSoussectionII-1]: Modif. 1 du 03.07.2024: Introduction Art. 14, Al. 1bis; entrée en vigueur au 01.08.2024; Modification tArt; entrée en vigueur au 01.08.2024; Modification Al. 3; entrée en vigueur au 01.08.2024; Introduction Art. 36a; entrée en vigueur au 01.08.2024; Introduction Art. 36b; entrée en vigueur au 01.08.2024; Introduction Art. 39, Al. 4-5; entrée en vigueur au 01.08.2024; Introduction Art. 40, Al. 2-3; entrée en vigueur au 01.08.2024; Introduction Art. 41a; entrée en vigueur au 01.08.2024; Introduction Art. 43, Al. 2bis; entrée en vigueur au 01.08.2024; Introduction Art. 44a; entrée en vigueur au 01.08.2024; Introduction Art. 50, Al. 2-7; entrée en vigueur au 01.08.2024; Introduction Art. 53a; entrée en vigueur au 01.08.2024
-[^16-1]: Loi du 11.06.2013 sur les hautes écoles vaudoises de type HES ([BLV 419.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/419.01?id=e030fc86-077d-48b6-af1f-1fa5ce78f014))
+[^subsectionSoussectionII-1]: Modif. 1 du 03.07.2024: Modification tArt; entrée en vigueur au 01.08.2024; Modification Al. 3; entrée en vigueur au 01.08.2024
 
 ### Sous-section III Statut du directeur et des autres membres de la direction
 
@@ -248,11 +248,11 @@ arrête
 
 **Activités accessoires [^19-1]**
 
-<sup>1</sup> Les activités accessoires sont exercées pour un tiers, pour le propre compte et sous la propre responsabilité du directeur et des autres membres de la direction.
+<sup>1</sup> Les activités accessoires du directeur et des autres membres de la direction sont exercées sous leur propre responsabilité.
 
-<sup>2</sup> L'autorité d'engagement peut interdire au directeur et aux autres membres de la direction l'exercice d'une activité accessoire notamment si elle est incompatible avec leur fonction.
+<sup>2</sup> L'autorité d'engagement peut interdire au directeur et aux autres membres de la direction l'exercice d'une activité accessoire si elle est incompatible avec leur fonction.
 
-[^19-1]: Modif. 1 du 03.07.2024: Introduction Art. 14, Al. 1bis; entrée en vigueur au 01.08.2024; Modification Al. 1-2; entrée en vigueur au 01.08.2024; Introduction Art. 36a; entrée en vigueur au 01.08.2024; Introduction Art. 36b; entrée en vigueur au 01.08.2024; Introduction Art. 39, Al. 4-5; entrée en vigueur au 01.08.2024; Introduction Art. 40, Al. 2-3; entrée en vigueur au 01.08.2024; Introduction Art. 41a; entrée en vigueur au 01.08.2024; Introduction Art. 43, Al. 2bis; entrée en vigueur au 01.08.2024; Introduction Art. 44a; entrée en vigueur au 01.08.2024; Introduction Art. 50, Al. 2-7; entrée en vigueur au 01.08.2024; Introduction Art. 53a; entrée en vigueur au 01.08.2024
+[^19-1]: Modif. 1 du 03.07.2024: Modification Al. 1-2; entrée en vigueur au 01.08.2024
 
 #### Art. 21
 
@@ -268,14 +268,13 @@ arrête
 
 **Composition [^sectionSectionII-1]**
 
-<sup>1</sup> Les sièges du conseil représentatif, dont le nombre est fixé par le règlement interne de chaque haute école, sont répartis de la manière suivante :
+<sup>1</sup> Les sièges du conseil représentatif, dont le nombre est fixé par le règlement interne de chaque haute école, sont répartis, entre les trois corps désignés aux lettres a à c, de la manière suivante :
 
-- a. membres du personnel d'enseignement et de recherche : 50%, en veillant à ce que chaque fonction présente dans la haute école et éligible selon l'article 27, alinéa 1 LHEV[^22-1] soit équitablement représentée ;
+- a. membres du personnel d'enseignement et de recherche : 50 %, en veillant, dans la mesure du possible, à ce que chaque fonction présente dans la haute école et éligible selon l'article 27, alinéa 1 de la loi soit équitablement représentée ;
 - b. membres du personnel administratif et technique : 20% ;
 - c. étudiants : 30%.
 
-[^sectionSectionII-1]: Modif. 1 du 03.07.2024: Introduction Art. 14, Al. 1bis; entrée en vigueur au 01.08.2024; Modification Al. 1; entrée en vigueur au 01.08.2024; Modification Al. 1, a; entrée en vigueur au 01.08.2024; Introduction Art. 36a; entrée en vigueur au 01.08.2024; Introduction Art. 36b; entrée en vigueur au 01.08.2024; Introduction Art. 39, Al. 4-5; entrée en vigueur au 01.08.2024; Introduction Art. 40, Al. 2-3; entrée en vigueur au 01.08.2024; Introduction Art. 41a; entrée en vigueur au 01.08.2024; Introduction Art. 43, Al. 2bis; entrée en vigueur au 01.08.2024; Introduction Art. 44a; entrée en vigueur au 01.08.2024; Introduction Art. 50, Al. 2-7; entrée en vigueur au 01.08.2024; Introduction Art. 53a; entrée en vigueur au 01.08.2024
-[^22-1]: Loi du 11.06.2013 sur les hautes écoles vaudoises de type HES ([BLV 419.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/419.01?id=e030fc86-077d-48b6-af1f-1fa5ce78f014))
+[^sectionSectionII-1]: Modif. 1 du 03.07.2024: Modification Al. 1; entrée en vigueur au 01.08.2024; Modification Al. 1, a; entrée en vigueur au 01.08.2024
 
 #### Art. 23
 
@@ -285,19 +284,19 @@ arrête
 
 #### Art. 24
 
-**Election séparée au sein de chaque groupe [^23-1]**
+**Élections [^23-1]**
 
-<sup>1</sup> Chacun des groupes admis à disposer de représentants au sein du conseil représentatif forme un collège électoral distinct.
+<sup>1</sup> Chacun des corps mentionnés à l'article 22 forme un collège électoral distinct.
 
-[^23-1]: Modif. 1 du 03.07.2024: Introduction Art. 14, Al. 1bis; entrée en vigueur au 01.08.2024; Modification tArt; entrée en vigueur au 01.08.2024; Modification Al. 1; entrée en vigueur au 01.08.2024; Introduction Art. 36a; entrée en vigueur au 01.08.2024; Introduction Art. 36b; entrée en vigueur au 01.08.2024; Introduction Art. 39, Al. 4-5; entrée en vigueur au 01.08.2024; Introduction Art. 40, Al. 2-3; entrée en vigueur au 01.08.2024; Introduction Art. 41a; entrée en vigueur au 01.08.2024; Introduction Art. 43, Al. 2bis; entrée en vigueur au 01.08.2024; Introduction Art. 44a; entrée en vigueur au 01.08.2024; Introduction Art. 50, Al. 2-7; entrée en vigueur au 01.08.2024; Introduction Art. 53a; entrée en vigueur au 01.08.2024
+[^23-1]: Modif. 1 du 03.07.2024: Modification tArt; entrée en vigueur au 01.08.2024; Modification Al. 1; entrée en vigueur au 01.08.2024
 
 #### Art. 25
 
 **Mode de scrutin [^24-1]**
 
-<sup>1</sup> Les élections ont lieu selon le système de la majorité simple au sein de chaque groupe, en un tour. En cas d'égalité, il est procédé par tirage au sort. Lorsque les candidats sont en nombre égal aux sièges, ils peuvent être élus tacitement.
+<sup>1</sup> Les élections ont lieu selon le système de la majorité simple au sein de chaque corps, en un tour. En cas d'égalité, il est procédé au tirage au sort. Lorsque les candidats sont en nombre inférieur ou égal aux sièges, ils peuvent être élus tacitement.
 
-[^24-1]: Modif. 1 du 03.07.2024: Introduction Art. 14, Al. 1bis; entrée en vigueur au 01.08.2024; Modification Al. 1; entrée en vigueur au 01.08.2024; Introduction Art. 36a; entrée en vigueur au 01.08.2024; Introduction Art. 36b; entrée en vigueur au 01.08.2024; Introduction Art. 39, Al. 4-5; entrée en vigueur au 01.08.2024; Introduction Art. 40, Al. 2-3; entrée en vigueur au 01.08.2024; Introduction Art. 41a; entrée en vigueur au 01.08.2024; Introduction Art. 43, Al. 2bis; entrée en vigueur au 01.08.2024; Introduction Art. 44a; entrée en vigueur au 01.08.2024; Introduction Art. 50, Al. 2-7; entrée en vigueur au 01.08.2024; Introduction Art. 53a; entrée en vigueur au 01.08.2024
+[^24-1]: Modif. 1 du 03.07.2024: Modification Al. 1; entrée en vigueur au 01.08.2024
 
 #### Art. 26
 
@@ -309,9 +308,9 @@ arrête
 
 **Entrée en fonction [^26-1]**
 
-<sup>1</sup> Le conseil représentatif se réunit en séance constitutive au plus tard trente jours après la publication du résultat des élections, sous la présidence du doyen d'âge de ses membres. Il élit son président en son sein à la majorité absolue des membres présents.
+<sup>1</sup> Le conseil représentatif se réunit en séance constitutive au plus tard trente jours après la publication du résultat des élections, sous la présidence du doyen d'âge de ses membres. Il élit son président en son sein à la majorité absolue des membres présents au premier tour et, si un second tour est nécessaire, à la majorité relative.
 
-[^26-1]: Modif. 1 du 03.07.2024: Introduction Art. 14, Al. 1bis; entrée en vigueur au 01.08.2024; Modification Al. 1; entrée en vigueur au 01.08.2024; Introduction Art. 36a; entrée en vigueur au 01.08.2024; Introduction Art. 36b; entrée en vigueur au 01.08.2024; Introduction Art. 39, Al. 4-5; entrée en vigueur au 01.08.2024; Introduction Art. 40, Al. 2-3; entrée en vigueur au 01.08.2024; Introduction Art. 41a; entrée en vigueur au 01.08.2024; Introduction Art. 43, Al. 2bis; entrée en vigueur au 01.08.2024; Introduction Art. 44a; entrée en vigueur au 01.08.2024; Introduction Art. 50, Al. 2-7; entrée en vigueur au 01.08.2024; Introduction Art. 53a; entrée en vigueur au 01.08.2024
+[^26-1]: Modif. 1 du 03.07.2024: Modification Al. 1; entrée en vigueur au 01.08.2024
 
 ## Chapitre III Conseil professionnel
 
@@ -347,22 +346,19 @@ arrête
 
 <sup>1</sup> Chaque haute école cantonale gère de manière autonome l'ensemble de son personnel en collaboration avec le service en charge du personnel de l'Etat.
 
-<sup>2</sup> Une convention conclue entre chaque haute école cantonale et l'Etat, représenté par le service en charge du personnel et le service en charge des hautes écoles[^30-1] , précise la délégation et la répartition des tâches en matière de gestion du personnel dans le but d'assurer le respect de la loi du 12 novembre 2001 sur le personnel de l'Etat de Vaud (ci-après : LPers)[^30-2] et ses règlements et directives d'application[^30-3] .
+<sup>2</sup> Une convention conclue entre chaque haute école cantonale et l'Etat, représenté par le service en charge du personnel et le service en charge des hautes écoles, précise la délégation et la répartition des tâches en matière de gestion du personnel dans le but d'assurer le respect de la loi du 12 novembre 2001 sur le personnel de l'Etat de Vaud (ci-après : LPers-VD), ses règlements et ses directives d'application.
 
-[^sectionSectionI-1]: Modif. 1 du 03.07.2024: Introduction Art. 14, Al. 1bis; entrée en vigueur au 01.08.2024; Modification Al. 2; entrée en vigueur au 01.08.2024; Introduction Art. 36a; entrée en vigueur au 01.08.2024; Introduction Art. 36b; entrée en vigueur au 01.08.2024; Introduction Art. 39, Al. 4-5; entrée en vigueur au 01.08.2024; Introduction Art. 40, Al. 2-3; entrée en vigueur au 01.08.2024; Introduction Art. 41a; entrée en vigueur au 01.08.2024; Introduction Art. 43, Al. 2bis; entrée en vigueur au 01.08.2024; Introduction Art. 44a; entrée en vigueur au 01.08.2024; Introduction Art. 50, Al. 2-7; entrée en vigueur au 01.08.2024; Introduction Art. 53a; entrée en vigueur au 01.08.2024
-[^30-1]: Direction générale de l'enseignement supérieur
-[^30-2]: Règlement du 09.12.2002 d'application de la loi du 12.11.2001 sur le personnel de l'Etat de Vaud ([BLV 172.31.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.31.1?id=6859cebf-d400-4969-b36d-0e936886b34c))
-[^30-3]: Règlement du 09.12.2002 d'application de la loi du 12.11.2001 sur le personnel de l'Etat de Vaud ([BLV 172.31.1](https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.31.1?id=6859cebf-d400-4969-b36d-0e936886b34c))
+[^sectionSectionI-1]: Modif. 1 du 03.07.2024: Modification Al. 2; entrée en vigueur au 01.08.2024
 
 #### Art. 31
 
-**b) Hautes écoles privées subventionnées [^30-4]**
+**b) Hautes écoles privées subventionnées [^30-1]**
 
 <sup>1</sup> Chaque haute école privée subventionnée gère l'ensemble de son personnel de manière autonome.
 
-<sup>2</sup> Elle veille à harmoniser les conditions de travail avec celles des hautes écoles cantonales, notamment quant au temps de travail, au salaire, aux vacances et aux différents types de congé.
+<sup>2</sup> Elle veille à harmoniser les conditions de travail avec celles des hautes écoles cantonales, notamment quant au temps de travail, au salaire, aux vacances et aux différents types de congés.
 
-[^30-4]: Modif. 1 du 03.07.2024: Introduction Art. 14, Al. 1bis; entrée en vigueur au 01.08.2024; Modification Al. 2; entrée en vigueur au 01.08.2024; Introduction Art. 36a; entrée en vigueur au 01.08.2024; Introduction Art. 36b; entrée en vigueur au 01.08.2024; Introduction Art. 39, Al. 4-5; entrée en vigueur au 01.08.2024; Introduction Art. 40, Al. 2-3; entrée en vigueur au 01.08.2024; Introduction Art. 41a; entrée en vigueur au 01.08.2024; Introduction Art. 43, Al. 2bis; entrée en vigueur au 01.08.2024; Introduction Art. 44a; entrée en vigueur au 01.08.2024; Introduction Art. 50, Al. 2-7; entrée en vigueur au 01.08.2024; Introduction Art. 53a; entrée en vigueur au 01.08.2024
+[^30-1]: Modif. 1 du 03.07.2024: Modification Al. 2; entrée en vigueur au 01.08.2024
 
 #### Art. 32
 
@@ -396,43 +392,62 @@ arrête
 
 **Principe [^subsectionSoussectionI-1]**
 
-<sup>1</sup> Les titres que la loi[^35-1] requiert pour l'engagement en qualité de professeur HES ordinaire, professeur HES associé, maître d'enseignement et adjoint scientifique ou artistique sont des conditions nécessaires mais non suffisantes.
+<sup>1</sup> Les titres que la loi requiert pour l'engagement en qualité de professeur HES ordinaire, professeur HES associé, professeur HES assistant, maître d'enseignement HES, chargé de cours HES, adjoint scientifique ou artistique HES et collaborateur scientifique ou artistique HES sont des conditions nécessaires mais non suffisantes.
 
-[^subsectionSoussectionI-1]: Modif. 1 du 03.07.2024: Introduction Art. 14, Al. 1bis; entrée en vigueur au 01.08.2024; Modification Al. 1; entrée en vigueur au 01.08.2024; Introduction Art. 36a; entrée en vigueur au 01.08.2024; Introduction Art. 36b; entrée en vigueur au 01.08.2024; Introduction Art. 39, Al. 4-5; entrée en vigueur au 01.08.2024; Introduction Art. 40, Al. 2-3; entrée en vigueur au 01.08.2024; Introduction Art. 41a; entrée en vigueur au 01.08.2024; Introduction Art. 43, Al. 2bis; entrée en vigueur au 01.08.2024; Introduction Art. 44a; entrée en vigueur au 01.08.2024; Introduction Art. 50, Al. 2-7; entrée en vigueur au 01.08.2024; Introduction Art. 53a; entrée en vigueur au 01.08.2024
-[^35-1]: Loi du 11.06.2013 sur les hautes écoles vaudoises de type HES ([BLV 419.01](https://prestations.vd.ch/pub/blv-publication/actes/consolide/419.01?id=e030fc86-077d-48b6-af1f-1fa5ce78f014))
+[^subsectionSoussectionI-1]: Modif. 1 du 03.07.2024: Modification Al. 1; entrée en vigueur au 01.08.2024
 
 #### Art. 36
 
-**Expérience professionnelle [^35-2]**
+**... [^35-1]**
 
-<sup>1</sup> Le maître d'enseignement doit pouvoir attester de deux ans au moins d'expérience professionnelle dans le domaine enseigné.
+<sup>1</sup> ...
 
-[^35-2]: Modif. 1 du 03.07.2024: Introduction Art. 14, Al. 1bis; entrée en vigueur au 01.08.2024; Abrogation tArt; entrée en vigueur au 01.08.2024; Abrogation Al. 1; entrée en vigueur au 01.08.2024; Introduction Art. 36a; entrée en vigueur au 01.08.2024; Introduction Art. 36b; entrée en vigueur au 01.08.2024; Introduction Art. 39, Al. 4-5; entrée en vigueur au 01.08.2024; Introduction Art. 40, Al. 2-3; entrée en vigueur au 01.08.2024; Introduction Art. 41a; entrée en vigueur au 01.08.2024; Introduction Art. 43, Al. 2bis; entrée en vigueur au 01.08.2024; Introduction Art. 44a; entrée en vigueur au 01.08.2024; Introduction Art. 50, Al. 2-7; entrée en vigueur au 01.08.2024; Introduction Art. 53a; entrée en vigueur au 01.08.2024
+[^35-1]: Modif. 1 du 03.07.2024: Abrogation tArt; entrée en vigueur au 01.08.2024; Abrogation Al. 1; entrée en vigueur au 01.08.2024
+
+#### Art. 36a
+
+**Salaire initial [^36-1]**
+
+<sup>1</sup> Les expériences professionnelles qui peuvent être prises en compte au sens de l'article 44, alinéa 4 de la loi sont :
+
+- a. les activités de recherche et de développement, ainsi que les mandats et les prestations de service, lorsqu'ils sont en lien avec le terrain professionnel ;
+- b. les activités d'enseignement de disciplines académiques.
+
+[^36-1]: Modif. 1 du 03.07.2024: Introduction Art. 36a; entrée en vigueur au 01.08.2024
+
+#### Art. 36b
+
+**Chargé de cours HES [^36a-1]**
+
+<sup>1</sup> Les activités d'enseignement des disciplines académiques exercées par le chargé de cours HES peuvent être comptabilisées comme expérience professionnelle ou artistique.
+
+<sup>2</sup> Le maintien de l'activité professionnelle ou artistique en lien avec le domaine d'enseignement est une condition de la continuation des rapports de travail. En cas de perte d'emploi, le chargé de cours HES dispose de deux ans pour retrouver une activité dans le domaine professionnel ou artistique.
+
+[^36a-1]: Modif. 1 du 03.07.2024: Introduction tArt; entrée en vigueur au 01.08.2024; Introduction Al. 1-2; entrée en vigueur au 01.08.2024; Introduction Art. 36b; entrée en vigueur au 01.08.2024
 
 #### Art. 37
 
-**Professeur HES invité [^36-1]**
+**Professeur HES invité [^36b-1]**
 
-<sup>1</sup> Peut être engagé comme professeur HES invité le professeur d'une autre haute école, appelé à assurer une suppléance dans la haute école ou à y enseigner temporairement.
+<sup>1</sup> ...
 
 <sup>2</sup> Le contrat d'engagement désigne la prestation à fournir et précise la durée de l'engagement.
 
-<sup>3</sup> La direction détermine les conditions d'engagement. Les conditions de résiliation sont celles prévues par la LPers[^37-1] .
+<sup>3</sup> La direction détermine les conditions d'engagement.
 
-[^36-1]: Modif. 1 du 03.07.2024: Introduction Art. 14, Al. 1bis; entrée en vigueur au 01.08.2024; Introduction Art. 36a; entrée en vigueur au 01.08.2024; Introduction Art. 36b; entrée en vigueur au 01.08.2024; Abrogation Al. 1; entrée en vigueur au 01.08.2024; Modification Al. 3; entrée en vigueur au 01.08.2024; Introduction Art. 39, Al. 4-5; entrée en vigueur au 01.08.2024; Introduction Art. 40, Al. 2-3; entrée en vigueur au 01.08.2024; Introduction Art. 41a; entrée en vigueur au 01.08.2024; Introduction Art. 43, Al. 2bis; entrée en vigueur au 01.08.2024; Introduction Art. 44a; entrée en vigueur au 01.08.2024; Introduction Art. 50, Al. 2-7; entrée en vigueur au 01.08.2024; Introduction Art. 53a; entrée en vigueur au 01.08.2024
-[^37-1]: Loi du 12.11.2001 sur le personnel de l'Etat de Vaud ([BLV 172.31](https://prestations.vd.ch/pub/blv-publication/actes/consolide/172.31?id=e938e89d-0adc-49e4-8d44-cca669bd6c98))
+[^36b-1]: Modif. 1 du 03.07.2024: Abrogation Al. 1; entrée en vigueur au 01.08.2024; Modification Al. 3; entrée en vigueur au 01.08.2024
 
 #### Art. 38
 
-**Intervenants extérieurs [^37-2]**
+**Intervenants extérieurs [^37-1]**
 
-<sup>1</sup> L'intervenant extérieur est appelée, en raison de ses compétences professionnelles particulières, à fournir une prestation d'enseignement ou de service de manière ponctuelle ou régulière.
+<sup>1</sup> L'intervenant extérieur est appelé, en raison de ses compétences professionnelles particulières, à fournir une prestation d'enseignement ou de service de manière ponctuelle ou régulière.
 
 <sup>2</sup> Le contrat d'engagement désigne la prestation à fournir ainsi que la durée de l'engagement.
 
 <sup>3</sup> La direction détermine les conditions d'engagement. Les conditions de résiliation sont celles prévues par le Code des obligations[^38-1] .
 
-[^37-2]: Modif. 1 du 03.07.2024: Introduction Art. 14, Al. 1bis; entrée en vigueur au 01.08.2024; Introduction Art. 36a; entrée en vigueur au 01.08.2024; Introduction Art. 36b; entrée en vigueur au 01.08.2024; Modification Al. 1; entrée en vigueur au 01.08.2024; Introduction Art. 39, Al. 4-5; entrée en vigueur au 01.08.2024; Introduction Art. 40, Al. 2-3; entrée en vigueur au 01.08.2024; Introduction Art. 41a; entrée en vigueur au 01.08.2024; Introduction Art. 43, Al. 2bis; entrée en vigueur au 01.08.2024; Introduction Art. 44a; entrée en vigueur au 01.08.2024; Introduction Art. 50, Al. 2-7; entrée en vigueur au 01.08.2024; Introduction Art. 53a; entrée en vigueur au 01.08.2024
+[^37-1]: Modif. 1 du 03.07.2024: Modification Al. 1; entrée en vigueur au 01.08.2024
 [^38-1]: [Code des obligations du 30 mars 1911, RS 220](https://www.admin.ch/opc/fr/classified-compilation/19110009/index.html)
 
 #### Art. 39
@@ -441,36 +456,52 @@ arrête
 
 *a) Principe*
 
-<sup>1</sup> Le professeur HES ordinaire accomplit en principe l'entier de son activité au sein de la haute école. Des exceptions sont possibles si la personne exerce en parallèle une fonction académique dans une institution partenaire.
+<sup>1</sup> Le taux d'activité du professeur HES ordinaire est en principe d'au moins 75%. Les exceptions sont réglées à l'article 40 du présent règlement.
 
-<sup>2</sup> Le taux d'activité du professeur HES associé est en principe d'au moins 50%.
+<sup>2</sup> Le taux d'activité du professeur HES associé est d'au moins 50%.
 
-<sup>3</sup> Le taux d'activité du maître d'enseignement et de l'adjoint scientifique ou artistique est d'au moins 20%.
+<sup>3</sup> Le taux d'activité du maître d'enseignement HES est d'au moins 20%.
 
-[^38-2]: Modif. 1 du 03.07.2024: Introduction Art. 14, Al. 1bis; entrée en vigueur au 01.08.2024; Introduction Art. 36a; entrée en vigueur au 01.08.2024; Introduction Art. 36b; entrée en vigueur au 01.08.2024; Modification Al. 1-3; entrée en vigueur au 01.08.2024; Introduction Al. 4-5; entrée en vigueur au 01.08.2024; Introduction Art. 40, Al. 2-3; entrée en vigueur au 01.08.2024; Introduction Art. 41a; entrée en vigueur au 01.08.2024; Introduction Art. 43, Al. 2bis; entrée en vigueur au 01.08.2024; Introduction Art. 44a; entrée en vigueur au 01.08.2024; Introduction Art. 50, Al. 2-7; entrée en vigueur au 01.08.2024; Introduction Art. 53a; entrée en vigueur au 01.08.2024
+<sup>4</sup> Le taux d'activité minimum du professeur HES assistant correspond à celui prévu pour la fonction visée.
+
+<sup>5</sup> Le taux d'activité du chargé de cours HES est au maximum de 50 %.
+
+[^38-2]: Modif. 1 du 03.07.2024: Modification Al. 1-3; entrée en vigueur au 01.08.2024; Introduction Al. 4-5; entrée en vigueur au 01.08.2024
 
 #### Art. 40
 
-**b) Réduction temporaire [^39-1]**
+**b) Exceptions [^39-1]**
 
-<sup>1</sup> Lorsque les besoins de la haute école le permettent, la direction peut accorder une réduction temporaire du taux d'activité d'un professeur HES ordinaire en dessous de 80%, notamment pour pouvoir concilier vie familiale et vie professionnelle. La réduction est soumise aux conditions suivantes :
+<sup>1</sup> Lorsque les besoins de la haute école le permettent, la direction peut, notamment pour tenir compte de la conciliation entre vie familiale et professionnelle :
 
-- a. la réduction du taux d'activité ne peut conduire à un taux d'activité inférieur à 50% ;
-- b. la durée de la réduction du taux d'activité ne peut en principe excéder six ans.
+- a. engager un professeur HES ordinaire à un taux inférieur à 75% ;
+- b. accorder une réduction temporaire ou permanente du taux d'activité du professeur HES ordinaire en dessous de 75%.
 
-[^39-1]: Modif. 1 du 03.07.2024: Introduction Art. 14, Al. 1bis; entrée en vigueur au 01.08.2024; Introduction Art. 36a; entrée en vigueur au 01.08.2024; Introduction Art. 36b; entrée en vigueur au 01.08.2024; Introduction Art. 39, Al. 4-5; entrée en vigueur au 01.08.2024; Modification tArt; entrée en vigueur au 01.08.2024; Modification Al. 1; entrée en vigueur au 01.08.2024; Modification Al. 1, a-b; entrée en vigueur au 01.08.2024; Introduction Al. 2-3; entrée en vigueur au 01.08.2024; Introduction Art. 41a; entrée en vigueur au 01.08.2024; Introduction Art. 43, Al. 2bis; entrée en vigueur au 01.08.2024; Introduction Art. 44a; entrée en vigueur au 01.08.2024; Introduction Art. 50, Al. 2-7; entrée en vigueur au 01.08.2024; Introduction Art. 53a; entrée en vigueur au 01.08.2024
+<sup>2</sup> Dans les deux cas prévus à l'alinéa 1, le taux ne peut être inférieur à 50%.
+
+<sup>3</sup> La direction peut également accorder à un professeur HES ordinaire une exception au taux d'activité fixé à l'article 39, alinéa 1 lorsque celui-ci exerce en parallèle une fonction académique dans une institution partenaire.
+
+[^39-1]: Modif. 1 du 03.07.2024: Modification tArt; entrée en vigueur au 01.08.2024; Modification Al. 1; entrée en vigueur au 01.08.2024; Modification Al. 1, a-b; entrée en vigueur au 01.08.2024; Introduction Al. 2-3; entrée en vigueur au 01.08.2024
 
 ### Sous-section II Rétribution et revenus d'activités accessoires
 
 #### Art. 41
 
-**Indemnités [^subsectionSoussectionII-2]**
+**Indemnités du professeur HES invité et de l'intervenant extérieur [^subsectionSoussectionII-2]**
 
 <sup>1</sup> Le professeur HES invité ainsi que l'intervenant extérieur engagés par une haute école cantonale sont rétribués sous la forme d'une indemnité selon des barèmes arrêtés par le Conseil d'Etat.
 
 <sup>2</sup> Ces barèmes s'appliquent par analogie aux indemnités versées au professeur HES invité ainsi qu'à l'intervenant extérieur engagés par une haute école privée subventionnée.
 
-[^subsectionSoussectionII-2]: Modif. 1 du 03.07.2024: Introduction Art. 14, Al. 1bis; entrée en vigueur au 01.08.2024; Introduction Art. 36a; entrée en vigueur au 01.08.2024; Introduction Art. 36b; entrée en vigueur au 01.08.2024; Introduction Art. 39, Al. 4-5; entrée en vigueur au 01.08.2024; Introduction Art. 40, Al. 2-3; entrée en vigueur au 01.08.2024; Modification tArt; entrée en vigueur au 01.08.2024; Introduction Art. 41a; entrée en vigueur au 01.08.2024; Introduction Art. 43, Al. 2bis; entrée en vigueur au 01.08.2024; Introduction Art. 44a; entrée en vigueur au 01.08.2024; Introduction Art. 50, Al. 2-7; entrée en vigueur au 01.08.2024; Introduction Art. 53a; entrée en vigueur au 01.08.2024
+[^subsectionSoussectionII-2]: Modif. 1 du 03.07.2024: Modification tArt; entrée en vigueur au 01.08.2024
+
+#### Art. 41a
+
+**Indemnités pour charge particulière [^41-1]**
+
+<sup>1</sup> La direction transmet annuellement au département la liste des indemnités pour charge particulière octroyées selon l'article 51 de la loi.
+
+[^41-1]: Modif. 1 du 03.07.2024: Introduction Art. 41a; entrée en vigueur au 01.08.2024
 
 #### Art. 42
 
@@ -488,15 +519,17 @@ arrête
 
 **Période probatoire [^subsectionSoussectionIII-1]**
 
-<sup>1</sup> Neuf mois avant le terme de la période probatoire, le professeur HES ordinaire, le professeur HES associé, le maître d'enseignement ainsi que l'adjoint scientifique ou artistique sont avisés par la direction qu'ils doivent lui remettre dans un délai de deux mois, un rapport portant sur leurs activités telles que décrites dans le cahier des charges.
+<sup>1</sup> Neuf mois avant le terme de la période probatoire, le professeur HES ordinaire, le professeur HES associé, le professeur HES assistant, le maître d'enseignement HES, le chargé de cours HES ainsi que l'adjoint scientifique ou artistique HES sont avisés par la direction qu'ils doivent lui remettre dans un délai de deux mois, un rapport portant sur leurs activités telles que décrites dans le cahier des charges.
 
 <sup>2</sup> Ce rapport sert à l'évaluation par la direction, laquelle peut déléguer cette tâche au responsable hiérarchique de la personne concernée. Suite à cette évaluation, la direction peut confirmer l'engagement ou y mettre fin.
+
+<sup>2bis</sup> Pour le professeur HES assistant, l'évaluation au terme de la période probatoire peut être assimilée à l'évaluation au sens de l'article 44a et conduire à la titularisation dans le poste visé.
 
 <sup>3</sup> Les critères précis de l'évaluation sont déterminés par l'autorité d'engagement et communiqués à l'avance à la personne concernée.
 
 <sup>4</sup> En cas de nécessité, la période probatoire peut être prolongée au maximum pour une année.
 
-[^subsectionSoussectionIII-1]: Modif. 1 du 03.07.2024: Introduction Art. 14, Al. 1bis; entrée en vigueur au 01.08.2024; Introduction Art. 36a; entrée en vigueur au 01.08.2024; Introduction Art. 36b; entrée en vigueur au 01.08.2024; Introduction Art. 39, Al. 4-5; entrée en vigueur au 01.08.2024; Introduction Art. 40, Al. 2-3; entrée en vigueur au 01.08.2024; Introduction Art. 41a; entrée en vigueur au 01.08.2024; Modification Al. 1; entrée en vigueur au 01.08.2024; Introduction Al. 2bis; entrée en vigueur au 01.08.2024; Introduction Art. 44a; entrée en vigueur au 01.08.2024; Introduction Art. 50, Al. 2-7; entrée en vigueur au 01.08.2024; Introduction Art. 53a; entrée en vigueur au 01.08.2024
+[^subsectionSoussectionIII-1]: Modif. 1 du 03.07.2024: Modification Al. 1; entrée en vigueur au 01.08.2024; Introduction Al. 2bis; entrée en vigueur au 01.08.2024
 
 #### Art. 44
 
@@ -509,6 +542,20 @@ arrête
 <sup>3</sup> Si elle envisage de ne pas renouveler l'engagement, la direction en informe la personne concernée et l'invite à se déterminer à ce sujet.
 
 <sup>4</sup> Les critères précis de l'évaluation sont déterminés par l'autorité d'engagement et communiqués à l'avance au professeur concerné.
+
+#### Art. 44a
+
+**Évaluation du professeur HES assistant en prétitularisation conditionnelle [^44-1]**
+
+<sup>1</sup> Au terme du neuvième semestre d'enseignement au plus tard, le professeur HES assistant est soumis à une procédure d'évaluation analogue à celle décrite à l'article 43 du présent règlement.
+
+<sup>2</sup> La direction peut conclure à la titularisation ou à la non-titularisation. Si la non-titularisation est envisagée, la direction en informe la personne concernée et l'invite à se déterminer à ce sujet.
+
+<sup>3</sup> En cas de non-titularisation, l'engagement est résilié, moyennant un préavis donné six mois à l'avance pour la fin de l'année académique.
+
+<sup>4</sup> Les critères précis de l'évaluation sont déterminés par l'autorité d'engagement et communiqués à l'avance à la personne concernée.
+
+[^44-1]: Modif. 1 du 03.07.2024: Introduction Art. 44a; entrée en vigueur au 01.08.2024
 
 #### Art. 45
 
@@ -534,9 +581,9 @@ arrête
 
 **Immatriculation [^46-1]**
 
-<sup>1</sup> L'immatriculation d'un étudiant à la HES-SO fait l'objet d'une décision de la haute école dans laquelle il souhaite suivre sa formation. Elle intervient au terme de la procédure d'admission et est effective au jour de la rentrée académique
+<sup>1</sup> L'immatriculation d'un étudiant à la HES-SO fait l'objet d'une décision de la haute école dans laquelle il souhaite suivre sa formation. Elle intervient au terme de la procédure d'admission et est effective au jour de la rentrée académique.
 
-[^46-1]: Modif. 1 du 03.07.2024: Introduction Art. 14, Al. 1bis; entrée en vigueur au 01.08.2024; Introduction Art. 36a; entrée en vigueur au 01.08.2024; Introduction Art. 36b; entrée en vigueur au 01.08.2024; Introduction Art. 39, Al. 4-5; entrée en vigueur au 01.08.2024; Introduction Art. 40, Al. 2-3; entrée en vigueur au 01.08.2024; Introduction Art. 41a; entrée en vigueur au 01.08.2024; Introduction Art. 43, Al. 2bis; entrée en vigueur au 01.08.2024; Introduction Art. 44a; entrée en vigueur au 01.08.2024; Modification Al. 1; entrée en vigueur au 01.08.2024; Introduction Art. 50, Al. 2-7; entrée en vigueur au 01.08.2024; Introduction Art. 53a; entrée en vigueur au 01.08.2024
+[^46-1]: Modif. 1 du 03.07.2024: Modification Al. 1; entrée en vigueur au 01.08.2024
 
 #### Art. 48
 
@@ -554,11 +601,23 @@ arrête
 
 #### Art. 50
 
-**Sanctions disciplinaires [^49-1]**
+**Procédure disciplinaire [^49-1]**
 
-<sup>1</sup> Les sanctions disciplinaires prises à l'encontre des étudiants, des auditeurs et des participants à la formation continue sont notifiées par écrit avec indication des motifs, de la voie et du délai de recours.
+<sup>1</sup> La direction peut, d'office ou sur dénonciation, ouvrir une enquête disciplinaire à l'encontre d'un étudiant, pour tout agissement passible de sanctions disciplinaires au sens de l'article 60 de la loi.
 
-[^49-1]: Modif. 1 du 03.07.2024: Introduction Art. 14, Al. 1bis; entrée en vigueur au 01.08.2024; Introduction Art. 36a; entrée en vigueur au 01.08.2024; Introduction Art. 36b; entrée en vigueur au 01.08.2024; Introduction Art. 39, Al. 4-5; entrée en vigueur au 01.08.2024; Introduction Art. 40, Al. 2-3; entrée en vigueur au 01.08.2024; Introduction Art. 41a; entrée en vigueur au 01.08.2024; Introduction Art. 43, Al. 2bis; entrée en vigueur au 01.08.2024; Introduction Art. 44a; entrée en vigueur au 01.08.2024; Modification tArt; entrée en vigueur au 01.08.2024; Modification Al. 1; entrée en vigueur au 01.08.2024; Introduction Al. 2-7; entrée en vigueur au 01.08.2024; Introduction Art. 53a; entrée en vigueur au 01.08.2024
+<sup>2</sup> La direction instruit l'enquête disciplinaire ou en charge une entité externe.
+
+<sup>3</sup> L'étudiant est entendu sur les faits qui lui sont reprochés.
+
+<sup>4</sup> La sanction disciplinaire prononcée par la direction est notifiée par écrit avec indication des motifs, de la voie et du délai de réclamation.
+
+<sup>5</sup> Lorsque la bonne marche de la haute école l'exige, la direction peut, après avoir entendu l'étudiant, prononcer des mesures provisionnelles pouvant aller jusqu'à l'exclusion temporaire durant la durée de la procédure disciplinaire.
+
+<sup>6</sup> En cas de péril en la demeure, des mesures provisionnelles urgentes peuvent être ordonnées sans audition préalable de l'étudiant.
+
+<sup>7</sup> Cette procédure s'applique par analogie aux auditeurs et aux participants à la formation continue ainsi qu'aux étudiants des cours préparatoires aux études HES.
+
+[^49-1]: Modif. 1 du 03.07.2024: Modification tArt; entrée en vigueur au 01.08.2024; Modification Al. 1; entrée en vigueur au 01.08.2024; Introduction Al. 2-7; entrée en vigueur au 01.08.2024
 
 #### Art. 51
 
@@ -581,6 +640,20 @@ arrête
 **Disposition transitoire**
 
 <sup>1</sup> Jusqu'à la mise en place des nouvelles fonctions d'enseignement et de recherche définies par la LHEV, les articles 43, 44, alinéa 2, 45 à 55 et 57 du règlement du 4 décembre 2003 sur la Haute école vaudoise restent applicables.
+
+#### Art. 53a
+
+**Dispositions transitoires de la modification du 3 juillet 2024 [^53-1]**
+
+<sup>1</sup> Les membres du personnel des hautes écoles engagés avant l'entrée en vigueur des modifications du 3 juillet 2024 restent soumis aux anciennes exigences requises à l'engagement.
+
+<sup>2</sup> Les taux d'activité minimum prévus à l'article 39 s'appliquent aux engagements et renouvellements postérieurs à l'entrée en vigueur des modifications du 3 juillet 2024.
+
+<sup>3</sup> Un professeur HES ordinaire engagé sur la base du taux minimal de 80% avant l'entrée en vigueur des modifications du 3 juillet 2024 peut demander une réduction de son taux à 75%.
+
+<sup>4</sup> Les procédures disciplinaires en cours devant les directions des hautes écoles lors de l'entrée en vigueur des modifications du 3 juillet 2024 se poursuivent selon le nouveau droit. Les actes de procédure ordonnés ou accomplis avant cette entrée en vigueur conservent leur validité.
+
+[^53-1]: Modif. 1 du 03.07.2024: Introduction tArt; entrée en vigueur au 01.08.2024; Introduction Al. 1-4; entrée en vigueur au 01.08.2024; Introduction Art. 53a; entrée en vigueur au 01.08.2024
 
 #### Art. 54
 
