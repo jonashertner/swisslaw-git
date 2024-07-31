@@ -4,13 +4,12 @@ number: "610.11"
 title: Landwirtschaftsverordnung
 short: LaV
 language: de
-version: 2022-01-01
-valid_until: 2024-07-31
-version_adopted: 2021-10-19
+version: 2024-08-01
+version_adopted: 2024-07-02
 adopted: 2002-09-17
 in_force: 2002-10-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/610.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3291/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3650/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3291/pdf_file"
 
 (LaV)
 
-vom 17.09.2002 (Stand 01.01.2022)
+vom 17.09.2002 (Stand 01.08.2024)
 
 Die Regierung des Kantons St.Gallen
 
@@ -522,7 +521,7 @@ als Verordnung:[^ingress-2]
 
 **Grundsatz**
 
-<sup>1</sup> Wein trägt die Bezeichnung «Kontrollierte Ursprungsbezeichnung St.Gallen» oder «AOC St.Gallen», wenn die Voraussetzungen für AOC-Wein erfüllt sind.
+<sup>1</sup> Wein, Schaumwein, Perlwein und Likörwein tragen die Bezeichnung «Kontrollierte Ursprungsbezeichnung St.Gallen» oder «AOC St.Gallen», wenn die Voraussetzungen für AOC-Wein erfüllt sind.
 
 #### Art. 35
 
@@ -565,10 +564,10 @@ als Verordnung:[^ingress-2]
 
 **e) zulässiges Verfahren der Weinherstellung[^39-1]**
 
-<sup>1</sup> AOC-Wein wird in einem zulässigen önologischen Verfahren nach Anhang 2 der Verordnung des EDI über alkoholische Getränke vom 29. November 2013[^39-2] und Anhang B<sup>bis</sup> zu diesem Erlass hergestellt.
+<sup>1</sup> AOC-Wein wird in einem zulässigen önologischen Verfahren nach Anhang 9 der Verordnung des EDI über Getränke vom 16. Dezember 2016[^39-2] und Anhang B<sup>bis</sup> zu diesem Erlass hergestellt.
 
 [^39-1]: Art. 21 Abs. 2 Bst. f der eidg Weinverordnung vom 14. November 2007, SR [916.140](https://db.clex.ch/link/Bund/916.140/de).
-[^39-2]: SR 817.022.110.
+[^39-2]: SR 817.022.12.
 
 #### Art. 40
 
@@ -594,9 +593,9 @@ als Verordnung:[^ingress-2]
 
 **2. Weisungen**
 
-<sup>1</sup> Der Kantonschemiker[^41-1] erlässt die für die analytische und organoleptische Prüfung des verkaufsfertigen Weins notwendigen Weisungen.
+<sup>1</sup> Die Kantonschemikerin oder der Kantonschemiker[^41-1] kann die für die analytische und organoleptische Prüfung des verkaufsfertigen Weins notwendigen Weisungen erlassen.
 
-[^41-1]: Art. 47 Abs. 2 der eidg Weinverordnung vom 14. November 2007, SR [916.140](https://db.clex.ch/link/Bund/916.140/de), und Art. 4 Bst. a LaV, sGS [610.11](https://www.gesetzessammlung.sg.ch/data/610.11/de).
+[^41-1]: Art. 62a der Verordnung des EDI über Getränke vom 16. Dezember 2016, SR [817.022.12](https://db.clex.ch/link/Bund/817.022.12/de), und Art. 4 Bst. a LaV, sGS [610.11](https://www.gesetzessammlung.sg.ch/data/610.11/de).
 
 #### Art. 41a
 
@@ -635,9 +634,9 @@ als Verordnung:[^ingress-2]
 <sup>1</sup> Der AOC-Degustationskommission gehören an:
 
 - a) die Leiterin oder der Leiter der Fachstelle für Weinbau als Vorsitzende oder Vorsitzender;
-- b) vier weitere Mitglieder, die vom Kantonschemiker[^42a-1] auf eine Amtsdauer von vier Jahren ernannt werden.
+- b) vier weitere Mitglieder, die von der Kantonschemikerin oder vom Kantonschemiker[^42a-1] auf eine Amtsdauer von vier Jahren ernannt werden.
 
-[^42a-1]: Art. 47 Abs. 2 der eidg Weinverordnung vom 14. November 2007, SR [916.140](https://db.clex.ch/link/Bund/916.140/de), und Art. 4 Bst. a LaV, sGS [610.11](https://www.gesetzessammlung.sg.ch/data/610.11/de).
+[^42a-1]: Art. 62a der Verordnung des EDI über Getränke vom 16. Dezember 2016, SR [817.022.12](https://db.clex.ch/link/Bund/817.022.12/de), und Art. 4 Bst. a LaV, sGS [610.11](https://www.gesetzessammlung.sg.ch/data/610.11/de).
 
 #### Art. 42b
 
@@ -645,9 +644,9 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Die AOC-Degustationskommission führt die Prüfung nach Art. 40 Abs. 3 dieses Erlasses durch.
 
-<sup>2</sup> Sie erstattet dem Kantonschemiker[^42b-1] Bericht über das Prüfungsergebnis.
+<sup>2</sup> Sie erstattet der Kantonschemikerin oder dem Kantonschemiker[^42b-1] Bericht über das Prüfungsergebnis.
 
-[^42b-1]: Art. 47 Abs. 2 der eidg Weinverordnung vom 14. November 2007, SR [916.140](https://db.clex.ch/link/Bund/916.140/de), und Art. 4 Bst. a LaV, sGS [610.11](https://www.gesetzessammlung.sg.ch/data/610.11/de).
+[^42b-1]: Art. 62a der Verordnung des EDI über Getränke vom 16. Dezember 2016, SR [817.022.12](https://db.clex.ch/link/Bund/817.022.12/de), und Art. 4 Bst. a LaV, sGS [610.11](https://www.gesetzessammlung.sg.ch/data/610.11/de).
 
 #### Art. 42c
 
