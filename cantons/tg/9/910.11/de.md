@@ -4,13 +4,12 @@ number: "910.11"
 title: Landwirtschaftsverordnung
 short: LwV
 language: de
-version: 2023-09-09
-valid_until: 2024-07-31
-version_adopted: 2023-09-05
+version: 2024-08-01
+version_adopted: 2024-06-11
 adopted: 2001-04-10
 in_force: 2001-05-01
 url: "https://www.rechtsbuch.tg.ch/app/de/texts_of_law/910.11"
-pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2695/pdf_file"
+pdf: "https://www.rechtsbuch.tg.ch/api/de/versions/2797/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons TG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ LwV
 
 (LwV)
 
-vom 10.04.2001 (Stand 09.09.2023)
+vom 10.04.2001 (Stand 01.08.2024)
 
 ## 1. Allgemeine Bestimmungen
 
@@ -428,7 +427,7 @@ vom 10.04.2001 (Stand 09.09.2023)
 
 <sup>1</sup> Als Anbaumethoden sind Stickelbau, Drahtbau und Terrassenanlagen zugelassen.
 
-<sup>2</sup> Weine mit kontrollierter Ursprungsbezeichnung dürfen maximal um 2.5 Volumenprozent auf maximal 15 Volumenprozent angereichert werden.
+<sup>2</sup> Weine mit kontrollierter Ursprungsbezeichnung dürfen maximal um 1.5 Volumenprozent auf maximal 15 Volumenprozent angereichert werden.
 
 <sup>3</sup> Der Gehalt an flüchtiger Essigsäure darf folgende Werte nicht überschreiten, wobei 1 Milliäquivalent 0.06 Gramm pro Liter flüchtiger Säure entspricht:
 
@@ -439,7 +438,9 @@ vom 10.04.2001 (Stand 09.09.2023)
 
 <sup>4</sup> Zur Bereitung von Weinen mit kontrollierter Ursprungsbezeichnung sind die Verfahren erlaubt, die im Anhang 9 der Verordnung des EDI über Getränke aufgelistet und in dessen Anlagen 1 bis 16 geregelt sind.
 
-<sup>5</sup> Die Süssung von Weinen mit kontrollierter Ursprungsbezeichnung ist zugelassen, wenn die Bedingungen nach Anlage 11 zu Anhang 9 der Verordnung des EDI über Getränke erfüllt sind.
+<sup>5</sup> Die Süssung von Weinen mit kontrollierter Ursprungsbezeichnung ist zugelassen, wenn die Bedingungen nach Anhang 9 der Verordnung des EDI über Getränke[^36c-1] erfüllt sind.
+
+[^36c-1]: SR [817.022.12](https://db.clex.ch/link/Bund/817.022.12/de)
 
 #### § 36d
 
