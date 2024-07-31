@@ -4,11 +4,11 @@ title: Ordonnance du 18 décembre 1995 sur le service de la navigation aérienne
 short: OSNA
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/595_595_595"
 language: fr
-version: 2023-11-01
+version: 2024-08-01
 adopted: 1995-12-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/595_595_595/20231101/fr/xml/fedlex-data-admin-ch-eli-cc-1996-595_595_595-20231101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/595_595_595/20231101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/595_595_595/20240801/fr/xml/fedlex-data-admin-ch-eli-cc-1996-595_595_595-20240801-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/595_595_595/20240801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,13 +17,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/595_595_595/20231101/fr"
 
 (OSNA)[^t-1]
 
-du 18 décembre 1995 (État le 1<sup>er</sup> novembre 2023)
+du 18 décembre 1995 (État le 1<sup>er</sup> août 2024)
 
 [^t-1]: [RO 1996 1647](https://fedlex.data.admin.ch/eli/oc/1996/_1647_)
 
 Le Conseil fédéral suisse,
 
-vu les art. 10a, al. 2, 40 à 40*g*, 49, 101*b*, 107*a*, al. 4, et 108a, al. 3, de la loi fédérale du 21 décembre 1948 sur l’aviation (LA)[^ingress-1], vu les art. 37*a* à 37*f* de la loi fédérale du 22 mars 1985 concernant l’utilisation de l’impôt sur les huiles minérales à affectation obligatoire et des autres moyens affectés à la circulation routière et au trafic aérien (LUMin)[^ingress-2], en exécution de la Convention du 7 décembre 1944 relative à l’aviation civile internationale (Convention de Chicago)[^ingress-3], en exécution de l’Accord multilatéral du 12 février 1981 relatif aux redevances de route[^ingress-4], en exécution de l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport aérien[^ingress-5], en particulier des règlements (CE) n<sup>o</sup> 549/2004[^ingress-6] et n<sup>o</sup> 550/2004[^ingress-7] et du règlement d’exécution (UE) n<sup>o</sup> 391/2013[^ingress-8] dans la version qui lie la Suisse en vertu du ch. 5 de l’annexe de l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport aérien,[^ingress-9]
+vu les art. 10*a*, al. 2, 40 à 40g, 49, 101*b*, 107*a*, al. 4, et 108*a*, al. 3, de la loi fédérale du 21 décembre 1948 sur l’aviation (LA)[^ingress-1], vu les art. 37*a* à 37*f* de la loi fédérale du 22 mars 1985 concernant l’utilisation de l’impôt sur les huiles minérales à affectation obligatoire et des autres moyens affectés à la circulation routière et au trafic aérien (LUMin)[^ingress-2], en exécution de la Convention du 7 décembre 1944 relative à l’aviation civile internationale (Convention de Chicago)[^ingress-3], en exécution de l’Accord multilatéral du 12 février 1981 relatif aux redevances de route[^ingress-4], en exécution de l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport aérien[^ingress-5], en particulier du règlement (CE) n<sup>o</sup> 549/2004[^ingress-6], du règlement n<sup>o</sup> 550/2004[^ingress-7], du règlement d’exécution (UE) n<sup>o</sup> 391/2013[^ingress-8] et du règlement d’exécution (UE) 2021/665[^ingress-9],[^ingress-10]
 
 arrête:
 
@@ -32,10 +32,11 @@ arrête:
 [^ingress-3]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
 [^ingress-4]: [RS 0.748.112.12](https://fedlex.data.admin.ch/eli/cc/1986/1588_1588_1588)
 [^ingress-5]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
-[^ingress-6]: Règlement (CE) n<sup>o</sup> 549/2004 du Parlement européen et du Conseil du 10 mars 2004 fixant le cadre pour la réalisation du ciel unique européen («règlement-cadre»).
-[^ingress-7]: Règlement (CE) n<sup>o</sup> 550/2004 du Parlement européen et du Conseil du 10 mars 2004 relatif à la fourniture de services de navigation aérienne dans le ciel unique européen («règlement sur la fourniture de services»).
-[^ingress-8]: Règlement d’exécution (UE) n<sup>o</sup> 391/2013 de la Commission du 3 mai 2013 établissant un système commun de tarification des services de navigation aérienne.
-[^ingress-9]: Nouvelle teneur selon le ch. I de l’O du 17 oct. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3869](https://fedlex.data.admin.ch/eli/oc/2018/613)).
+[^ingress-6]: Règlement (CE) n<sup>o</sup> 549/2004 du Parlement européen et du Conseil du 10 mars 2004 fixant le cadre pour la réalisation du ciel unique européen («règlement-cadre»), dans la version qui lie la Suisse en vertu du ch. 5 de l’annexe de l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^ingress-7]: Règlement (CE) n<sup>o</sup> 550/2004 du Parlement européen et du Conseil du 10 mars 2004 relatif à la fourniture de services de navigation aérienne dans le ciel unique européen («règlement sur la fourniture de services»), dans la version qui lie la Suisse en vertu du ch. 5 de l’annexe de l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^ingress-8]: Règlement d’exécution (UE) n° 391/2013 de la Commission du 3 mai 2013 établissant un système commun de tarification des services de navigation aérienne, dans la version qui lie la Suisse en vertu du ch. 5 de l’annexe de l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^ingress-9]: Règlement d’exécution (UE) 2021/665 de la Commission du 22 avril 2021 modifiant le règlement d’exécution (UE) 2017/373 en ce qui concerne les exigences applicables aux prestataires de services de gestion du trafic aérien/de services de navigation aérienne et aux autres fonctions de réseau de la gestion du trafic aérien dans l’espace aérien U-space désigné dans un espace aérien contrôlé, dans la version qui lie la Suisse en vertu du ch. 3 de l’annexe de l’Accord du 21 juin 1999 entre la Confédération suisse et la Communauté européenne sur le transport aérien ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^ingress-10]: Nouvelle teneur selon le ch. I de l’O du 14 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 297](https://fedlex.data.admin.ch/eli/oc/2024/297)).
 
 ## Chapitre 1 Dispositions générales
 
@@ -280,13 +281,13 @@ Skyguide finance ses tâches notamment au moyen:
 - a. des redevances qu’elle perçoit (art. 49 LA);
 - b. des indemnisations prévues par les conventions internationales;
 - c. des indemnisations de la Confédération pour les pertes de recettes à l’étranger (art. 12);
-- c<sup>bis</sup>.[^9-2] des contributions de la Confédération aux prestations liées à l’intégration des aéronefs civils sans occupants dans l’espace aérien (art. 12*a*);
+- c<sup>bis</sup>.[^9-2] des contributions de la Confédération aux prestations liées à l’U-space (art. 12*a*);
 - d. des indemnisations de la Confédération pour les vols exonérés de redevances (art. 34);
 - e. des indemnisations de la Confédération pour les vols militaires (art. 37);
 - f. des recettes provenant d’autres prestations.
 
 [^9-1]: Nouvelle teneur selon le ch. I de l’O du 29 juin 2011, en vigueur depuis le 1<sup>er</sup> août 2011 ([RO 2011 3503](https://fedlex.data.admin.ch/eli/oc/2011/473)).
-[^9-2]: Introduite par le ch. I de l’O du 16 fév. 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)).
+[^9-2]: Introduite par le ch. I de l’O du 16 fév. 2022 ([RO 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)). Nouvelle teneur selon le ch. I de l’O du 14 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 297](https://fedlex.data.admin.ch/eli/oc/2024/297)).
 
 ### Section 2 Délégation de la fourniture de services locaux de navigation aérienne
 
@@ -389,11 +390,11 @@ En application de l’art. 1, par. 5, du règlement d’exécution (UE) n<sup>o<
 
 #### Art. 12a
 
-**Prise en charge par la Confédération des coûts encourus par Skyguide liés à l’intégration des aéronefs civils sans occupants dans l’espace aérien**[^12a-1]
+**Prise en charge par la Confédération des coûts encourus par Skyguide liés à l’U-space[^12a-2]**[^12a-1]
 
-<sup>1</sup> La Confédération peut, dans le cadre des crédits approuvés, prendre à sa charge les coûts annuels encourus par Skyguide liés à l’intégration des aéronefs civils sans occupants dans l’espace aérien. Aux fins de l’établissement du budget, Skyguide communique à l’OFAC l’estimation des coûts prévisionnels de ces prestations.
+<sup>1</sup> La Confédération peut, dans le cadre des crédits approuvés, prendre à sa charge les coûts annuels encourus par Skyguide liés à l’U-space. Aux fins de l’établissement du budget, Skyguide communique à l’OFAC l’estimation des coûts prévisionnels de ces prestations.[^12a-3]
 
-<sup>2</sup> Une entreprise de révision soumise à la surveillance de l’État au sens de l’art. 7 LSR[^12a-2] et l’OFAC vérifient le montant effectif des coûts à la fin de chaque exercice comptable. Les coûts de la vérification sont supportés par Skyguide.
+<sup>2</sup> Une entreprise de révision soumise à la surveillance de l’État au sens de l’art. 7 LSR[^12a-4] et l’OFAC vérifient le montant effectif des coûts à la fin de chaque exercice comptable. Les coûts de la vérification sont supportés par Skyguide.
 
 <sup>3</sup> Lorsque, pour l’année considérée, la vérification montre que les indemnisations versées par la Confédération ont été plus élevées que les coûts effectifs, la différence est imputée à Skyguide l’année suivante.
 
@@ -404,7 +405,9 @@ En application de l’art. 1, par. 5, du règlement d’exécution (UE) n<sup>o<
 <sup>6</sup> L’OFAC réexamine au bout de trois ans si la Confédération doit continuer à prendre ces coûts à sa charge et, si oui, dans quelle proportion.
 
 [^12a-1]: Introduit par le ch. I de l’O du 16 fév. 2022, en vigueur depuis le 1<sup>er</sup> mai 2022 ([RO 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)).
-[^12a-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^12a-2]: Nouvelle teneur selon le ch. I de l’O du 14 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 297](https://fedlex.data.admin.ch/eli/oc/2024/297)).
+[^12a-3]: Nouvelle teneur selon le ch. I de l’O du 14 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 297](https://fedlex.data.admin.ch/eli/oc/2024/297)).
+[^12a-4]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 
 #### Art. 13
 
@@ -963,7 +966,7 @@ Annexe 1[^t-2]
 
 ## Tâches de la navigation aérienne incombant à Skyguide
 
-[^t-2]: Anciennement annexe unique. Introduite par le ch. II de l’O du 24 janv. 2001 ([RO 2001 514](https://fedlex.data.admin.ch/eli/oc/2001/104)). Nouvelle teneur selon le ch. II de l’O du 17 oct. 2018 ([RO 2018 3869](https://fedlex.data.admin.ch/eli/oc/2018/613)). Mise à jour par le ch. II de l’O du 16 fév. 2022 ([RO 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)) et l’annexe ch. 2 de l’O du 22 sept. 2023 sur l’aviation militaire, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
+[^t-2]: Anciennement annexe unique. Introduite par le ch. II de l’O du 24 janv. 2001 ([RO 2001 514](https://fedlex.data.admin.ch/eli/oc/2001/104)). Nouvelle teneur selon le ch. II de l’O du 17 oct. 2018 ([RO 2018 3869](https://fedlex.data.admin.ch/eli/oc/2018/613)). Mise à jour par le ch. II de l’O du 16 fév. 2022 ([RO 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)), l’annexe ch. 2 de l’O du 22 sept. 2023 sur l’aviation militaire ([RO 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)) et le ch. II de l’O du 14 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 297](https://fedlex.data.admin.ch/eli/oc/2024/297)).
 
 Les tâches de la navigation aérienne incombant à Skyguide comprennent:
 
@@ -983,11 +986,12 @@ Les tâches de la navigation aérienne incombant à Skyguide comprennent:
     - – coordination des vols qui requièrent une autorisation des services de la circulation aérienne aux termes de l’ordonnance du DETEC du 24 novembre 1994 sur les aéronefs de catégories spéciales[^annex1-lvlu1-1],
     - – coordination des tirs de l’armée et de la sécurité de navigation aérienne (Coordination des tirs et de la sécurité de navigation aérienne [COTSENA]);
 
-  - 1\.1.3 fourniture des données dynamiques relatives à l’espace aérien destinées à l’intégration des aéronefs sans occupants dans l’espace aérien.
+  - 1\.1.3 fourniture des données de reconfiguration dynamique des espaces aériens U-space.
 
 - 1\.2 Gestion des courants et de la capacité de trafic aérien.
 - 1\.3 Réception et gestion des plans de vol et rapports sur les services de circulation aérienne incluant les services en tant que bureau de piste des services de la circulation aérienne (ATS Reporting Office; ARO).
-- 1\.4 Coordination avec les prestataires de services destinés à l’intégration des aéronefs sans occupants dans l’espace aérien.
+- 1\.4 Coordination avec les prestataires de services U-space.
+- 1\.5 Fourniture du service d’authentification et d’autorisation lié à l’utilisation de l’U-space, incluant la délivrance du jeton d’autorisation pour les prestataires de services U-space.
 - *2.* *Service du contrôle de la circulation aérienne*
 - 2\.1
 
@@ -1047,7 +1051,7 @@ Les tâches de la navigation aérienne incombant à Skyguide comprennent:
 
   - 5\.3.1 fourniture des services de surveillance nécessaires pour les services du contrôle de la circulation aérienne visés au ch. 2 ci-dessus;
   - 5\.3.2 sur mandat des aérodromes, fourniture de services de surveillance spécifiques;
-  - 5\.3.3 fourniture des données de surveillance destinées à l’intégration des aéronefs sans occupants dans l’espace aérien.
+  - 5\.3.3 fourniture des données de surveillance liées au fonctionnement de l’U-space.
 
 - *6.* *Services d’information aéronautique, en particulier*
 - 6\.1 tenue, archivage et établissement de l’historique des données et informations aéronautiques de Suisse et des métadonnées afférentes;

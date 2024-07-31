@@ -4,11 +4,11 @@ title: Ordinanza del 18 dicembre 1995 concernente il servizio della sicurezza ae
 short: OSA
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/595_595_595"
 language: it
-version: 2023-11-01
+version: 2024-08-01
 adopted: 1995-12-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/595_595_595/20231101/it/xml/fedlex-data-admin-ch-eli-cc-1996-595_595_595-20231101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/595_595_595/20231101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/595_595_595/20240801/it/xml/fedlex-data-admin-ch-eli-cc-1996-595_595_595-20240801-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/595_595_595/20240801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,23 +17,24 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/595_595_595/20231101/it"
 
 (OSA)
 
-del 18 dicembre 1995 (Stato 1° novembre 2023)
+del 18 dicembre 1995 (Stato 1° agosto 2024)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 10*a* capoverso 2, 40–40*g*, 49, 101*b*, 107*a* capoverso 4 e 108*a* capoverso 3 della legge federale del 21 dicembre 1948[^ingress-1] sulla navigazione aerea (LNA); visti gli articoli 37*a*–37*f* della legge federale del 22 marzo 1985[^ingress-2] concernente l’utilizzazione dell’imposta sugli oli minerali a destinazione vincolata e di altri mezzi a destinazione vincolata per il traffico stradale e aereo (LUMin); in esecuzione della Convenzione del 7 dicembre 1944[^ingress-3] relativa all’aviazione civile internazionale (Convenzione di Chicago); in esecuzione dell’Accordo multilaterale del 12 febbraio 1981[^ingress-4] sulle tasse di rotta e dell’accordo del 21 giugno 1999[^ingress-5] tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo; in particolare del regolamento (CE) n. 549/2004[^ingress-6], del regolamento (CE) n. 550/2004[^ingress-7] e del regolamento di esecuzione (UE) n. 391/2013[^ingress-8] nella versione vincolante per la Svizzera secondo il numero 5 dell’allegato all’Accordo,[^ingress-9]
+visti gli articoli 10*a* capoverso 2, 40–40*g*, 49, 101*b*, 107*a* capoverso 4 e 108*a* capoverso 3 della legge federale del 21 dicembre 1948[^ingress-1] sulla navigazione aerea (LNA); visti gli articoli 37*a*–37*f* della legge federale del 22 marzo 1985[^ingress-2] concernente l’utilizzazione dell’imposta sugli oli minerali a destinazione vincolata e di altri mezzi a destinazione vincolata per il traffico stradale e aereo (LUMin); in esecuzione della Convenzione del 7 dicembre 1944[^ingress-3] relativa all’aviazione civile internazionale (Convenzione di Chicago); in esecuzione dell’Accordo multilaterale del 12 febbraio 1981[^ingress-4] sulle tasse di rotta; in esecuzione dell’Accordo del 21 giugno 1999[^ingress-5] tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo, in particolare del regolamento (CE) n. 549/2004[^ingress-6], del regolamento (CE) n. 550/2004[^ingress-7], del regolamento di esecuzione (UE) n. 391/2013[^ingress-8] e del regolamento di esecuzione (UE) 2021/665[^ingress-9],[^ingress-10]
 
 ordina:
 
-[^ingress-1]: RU **1996** 595 RS **748.0**
+[^ingress-1]: [RS 748.0](https://fedlex.data.admin.ch/eli/cc/1950/471_491_479)
 [^ingress-2]: [RS 725.116.2](https://fedlex.data.admin.ch/eli/cc/1985/834_834_834)
 [^ingress-3]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
 [^ingress-4]: [RS 0.748.112.12](https://fedlex.data.admin.ch/eli/cc/1986/1588_1588_1588)
 [^ingress-5]: [RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
-[^ingress-6]: Regolamento (CE) n. 549/2004 del Parlamento europeo e del Consiglio, del 10 marzo 2004, che stabilisce i principi generali per l’istituzione del cielo unico europeo («Regolamento quadro»).
-[^ingress-7]: Regolamento (CE) n. 50/2004 del Parlamento europeo e del Consiglio, del 10 marzo 2004, sulla fornitura di servizi di navigazione aerea nel cielo unico europeo («Regolamento sulla fornitura dei servizi»).
-[^ingress-8]: Regolamento di esecuzione (UE) n. 391/2013 della Commissione, del 3 maggio 2013, che istituisce un sistema di tariffazione comune per i servizi di navigazione aerea.
-[^ingress-9]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3869](https://fedlex.data.admin.ch/eli/oc/2018/613)).
+[^ingress-6]: Regolamento (CE) n. 549/2004 del Parlamento Europeo e del Consiglio, del10 marzo 2004, che stabilisce i principi generali per l’istituzione del cielo unico europeo («regolamento quadro»), nella versione vincolante per la Svizzera conformemente al numero 5 dell’allegato all’Accordo del 21 giugno 1999 tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^ingress-7]: Regolamento (CE) n. 550/2004 del Parlamento Europeo e del Consiglio, del 10 marzo 2004, sulla fornitura di servizi di navigazione aerea nel cielo unico europeo («regolamento sulla fornitura di servizi»), nella versione vincolante per la Svizzera conformemente al numero 5 dell’allegato all’Accordo del 21 giugno 1999 tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^ingress-8]: Regolamento di esecuzione (UE) n. 391/2013 della Commissione, del 3 maggio 2013, che istituisce un sistema di tariffazione comune per i servizi di navigazione aerea, nella versione vincolante per la Svizzera conformemente al numero 5 dell’allegato all’Accordo del 21 giugno 1999 tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^ingress-9]: Regolamento di esecuzione (UE) 2021/665 della Commissione, del 22 aprile 2021, che modifica il regolamento di esecuzione (UE) 2017/373 per quanto riguarda i requisiti per i fornitori di servizi di gestione del traffico aereo e di navigazione aerea e di altre funzioni della rete di gestione del traffico aereo nello spazio aereo U-space designato nello spazio aereo controllato, nella versione vincolante per la Svizzera conformemente al numero 3 dell’allegato all’Accordo del 21 giugno 1999 tra la Confederazione Svizzera e la Comunità europea sul trasporto aereo ([RS 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)).
+[^ingress-10]: Nuovo testo giusta il n. I dell’O del 14 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 297](https://fedlex.data.admin.ch/eli/oc/2024/297)).
 
 ## Capitolo 1[^chap1-1]: Disposizioni generali
 
@@ -221,7 +222,7 @@ Le conversazioni radiotelefoniche con Swiss Radar si tengono in inglese. Sono fa
 <sup>2</sup> D’intesa con la MAA e le Forze aeree e dopo aver sentito Skyguide, l’UFAC può in singoli casi obbligare temporaneamente quest’ultima a fornire altri servizi in materia di sicurezza aerea, designando il debitore dei costi.[^6-3]
 
 [^6-1]: Nuovo testo giusta il n. I dell’O del 17 ott. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3869](https://fedlex.data.admin.ch/eli/oc/2018/613)).
-[^6-2]: Questi documenti possono essere ordinati o ottenuti tramite abbonamento presso l’OACI.
+[^6-2]: Questi documenti possono essere ordinati o ottenuti tramite abbonamento presso l’OACI: [www.icao.int](https://www.icao.int/Pages/default.aspx)[www.icao.int](https://www.icao.int/Pages/default.aspx)
 [^6-3]: Nuovo testo giusta l’all. n. 2 dell’O del 22 set. 2023 sull’aviazione militare, in vigore dal 1° nov. 2023 ([RU 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
 
 #### Art. 6a
@@ -278,13 +279,13 @@ Skyguide finanzia i suoi compiti segnatamente per mezzo:
 - a. della riscossione di tasse (art. 49 LNA);
 - b. degli indennizzi previsti dalle convenzioni internazionali;
 - c. dei contributi della Confederazione per la copertura delle perdite di proventi all’estero (art. 12);
-- c<sup>bis</sup>.[^9-2] dei contributi della Confederazione per servizi nell’ambito dell’integrazione di aeromobili civili senza occupanti nello spazio aereo (art. 12*a*);
+- c<sup>bis</sup>.[^9-2] dei contributi della Confederazione per servizi nell’ambito dello U-space (art. 12*a*);
 - d. degli indennizzi della Confederazione per i voli esenti da tasse (art. 34);
 - e. degli indennizzi della Confederazione per i voli militari (art. 37);
 - f. degli introiti provenienti da altre prestazioni.
 
 [^9-1]: Nuovo testo giusta il n. I dell’O del 29 giu. 2011, in vigore dal 1° ago. 2011 ([RU 2011 3503](https://fedlex.data.admin.ch/eli/oc/2011/473)).
-[^9-2]: Introdotta dal n. I dell’O del 16 feb. 2022, in vigore dal 1° mag. 2022 ([RU 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)).
+[^9-2]: Introdotta dal n. I dell’O del 16 feb. 2022 ([RU 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)). Nuovo testo giusta il n. I dell’O del 14 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 297](https://fedlex.data.admin.ch/eli/oc/2024/297)).
 
 ### Sezione 2: Delega della fornitura di servizi della sicurezza aerea locali
 
@@ -340,7 +341,7 @@ La domanda dell’esercente dell’aerodromo o di Skyguide deve contenere i segu
 
 - [tab] L’Ufficio federale di meteorologia e climatologia (MeteoSvizzera) garantisce il servizio civile di meteorologia aeronautica secondo l’articolo 1 lettera m ed è autorità meteorologica (Meteorological Authority) ai sensi dell’allegato 3[^9c-1] alla Convenzione di Chicago. Il DATEC fissa le modalità d’intesa con il Dipartimento federale dell’interno.
 
-[^9c-1]: Questi documenti possono essere ordinati o richiesti in abbonamento presso l’OACI.
+[^9c-1]: Questi documenti possono essere ordinati o richiesti in abbonamento presso l’OACI: [www.icao.int](https://www.icao.int/Pages/default.aspx)
 
 ## Capitolo 3: Finanziamento del servizio della sicurezza aerea
 
@@ -387,11 +388,11 @@ In applicazione dell’articolo 1 paragrafo 5 del regolamento di esecuzione (UE)
 
 #### Art. 12a
 
-**Assunzione da parte della Confederazione dei costi di Skyguide nell’ambito dell’integrazione di aeromobili civili senza occupanti nello spazio aereo**[^12a-1]
+**Assunzione da parte della Confederazione dei costi di Skyguide nell’ambito dello U-space[^12a-2]**[^12a-1]
 
-<sup>1</sup> La Confederazione può indennizzare Skyguide, nei limiti dei crediti stanziati, per i costi annuali dovuti ai servizi nell’ambito dell’integrazione di aeromobili civili senza occupanti nello spazio aereo. Per l’allestimento del preventivo Skyguide comunica all’UFAC una stima dei costi presumibili di questi servizi.
+<sup>1</sup> La Confederazione può indennizzare Skyguide, nei limiti dei crediti stanziati, per i costi annuali dovuti ai servizi nell’ambito dello U-space. Per l’allestimento del preventivo Skyguide comunica all’UFAC una stima dei costi presumibili di questi servizi.[^12a-3]
 
-<sup>2</sup> Un’impresa di revisione sotto sorveglianza statale secondo l’articolo 7 LSR[^12a-2] e l’UFAC esaminano l’ammontare effettivo dei costi al termine dell’esercizio. I costi dell’esame sono a carico di Skyguide.
+<sup>2</sup> Un’impresa di revisione sotto sorveglianza statale secondo l’articolo 7 LSR[^12a-4] e l’UFAC esaminano l’ammontare effettivo dei costi al termine dell’esercizio. I costi dell’esame sono a carico di Skyguide.
 
 <sup>3</sup> Se dall’esame risulta che nell’anno considerato la Confederazione ha versato indennizzi più elevati dei costi effettivi, la differenza è addebitata a Skyguide nell’anno successivo.
 
@@ -402,7 +403,9 @@ In applicazione dell’articolo 1 paragrafo 5 del regolamento di esecuzione (UE)
 <sup>6</sup> L’UFAC verifica dopo tre anni se e in quale misura la Confederazione deve continuare a indennizzare i costi per questi servizi.
 
 [^12a-1]: Introdotto dal n. I dell’O del 16 feb. 2022, in vigore dal 1° mag. 2022 ([RU 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)).
-[^12a-2]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^12a-2]: Nuovo testo giusta il n. I dell’O del 14 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 297](https://fedlex.data.admin.ch/eli/oc/2024/297)).
+[^12a-3]: Nuovo testo giusta il n. I dell’O del 14 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 297](https://fedlex.data.admin.ch/eli/oc/2024/297)).
+[^12a-4]: [RS 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 
 #### Art. 13
 
@@ -555,7 +558,7 @@ Il finanziamento dei servizi per la sicurezza di avvicinamento e di decollo negl
 
 <sup>4</sup> Le tasse sono fissate e riscosse dall’organo responsabile del finanziamento conformemente all’articolo 27. Esso può delegare l’incasso a terzi.
 
-[^28-1]: Il documento può essere richiesto presso l’ Organizzazione dell’aviazione civile internazionale (Groupe de la vente des documents, 999, rue de l’Université, Montréal, Québec, Canada H3C 5H7; www.icao.int) oppure consultato gratuitamente presso l’UFAC.
+[^28-1]: Il documento può essere richiesto presso l’ Organizzazione dell’aviazione civile internazionale (Groupe de la vente des documents, 999, rue de l’Université, Montréal, Québec, Canada H3C 5H7; [www.icao.int](https://www.icao.int/Pages/default.aspx)) oppure consultato gratuitamente presso l’UFAC.
 
 #### Art. 29
 
@@ -694,7 +697,7 @@ La fissazione e l’approvazione delle tariffe delle tasse per gli aerodromi del
 
 [^35-1]: Nuovo testo giusta il n. I dell’O del 13 gen. 2016, in vigore dal 1° feb. 2016 ([RU 2016 313](https://fedlex.data.admin.ch/eli/oc/2016/44)).
 [^35-2]: Nuovo testo giusta il n. I dell’O del 13 gen. 2016, in vigore dal 1° feb. 2016 ([RU 2016 313](https://fedlex.data.admin.ch/eli/oc/2016/44)).
-[^35-3]: L’AIC può essere richiesta presso Skyguide ([www.skyguide.ch](http://www.skyguide.ch) oppure Casella postale 23, 8602 Wangen bei Dübendorf).
+[^35-3]: L’AIC può essere richiesta presso Skyguide ([www.skyguide.ch](http://www.skyguide.ch/) oppure Casella postale 23, 8602 Wangen bei Dübendorf).
 
 #### Art. 36
 
@@ -962,7 +965,7 @@ Allegato 1[^t-1]
 
 ## Compiti della sicurezza aerea affidati a Skyguide
 
-[^t-1]: Originario all. introdotto dal n. II dell’O del 24 gen. 2001 ([RU 2001 514](https://fedlex.data.admin.ch/eli/oc/2001/104)). Nuovo testo giusta il n. II dell’O del 17 ott. 2018 ([RU 2018 3869](https://fedlex.data.admin.ch/eli/oc/2018/613)). Aggiornato dal n. II dell’O del 16 feb. 2022 ([RU 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)) e dall’all. n. 2 dell’O del 22 set. 2023 sull’aviazione militare, in vigore dal 1° nov. 2023 ([RU 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
+[^t-1]: Originario all.. Introdotto dal n. II dell’O del 24 gen. 2001 ([RU 2001 514](https://fedlex.data.admin.ch/eli/oc/2001/104)). Nuovo testo giusta il n. II dell’O del 17 ott. 2018 ([RU 2018 3869](https://fedlex.data.admin.ch/eli/oc/2018/613)). Aggiornato dal n. II dell’O del 16 feb. 2022 ([RU 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)), dall’all. n. 2 dell’O del 22 set. 2023 sull’aviazione militare ([RU 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)) e dal n. II dell’O del 14 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 297](https://fedlex.data.admin.ch/eli/oc/2024/297)).
 
 I compiti della sicurezza aerea di Skyguide comprendono:
 
@@ -979,11 +982,12 @@ I compiti della sicurezza aerea di Skyguide comprendono:
     - – il coordinamento di voli che necessitano di un’autorizzazione del servizio della navigazione aerea conformemente all’ordinanza del DATEC del 24 novembre 1994[^annex1-lvlu1-1] sulle categorie speciali di aeromobili,
     - – il coordinamento tra i tiri dell’esercito e la sicurezza aerea (Koordination Schiessen Flugsicherung, KOSIF).
 
-  - 1\.1.3 Messa a disposizione dei dati dinamici sullo spazio aereo ai fini dell’integrazione degli aeromobili civili senza occupanti nello spazio aereo.
+  - 1\.1.3 Messa a disposizione dei dati di riconfigurazione dinamica degli spazi aerei U-space.
 
 - 1\.2 Gestione dei flussi e delle capacità del traffico aereo
 - 1\.3 Ricezione e gestione di piani di volo e di rapporti concernenti i servizi della navigazione aerea, compresi i servizi degli uffici di pista ATS (ATS Reporting Office; ARO).
-- 1\.4. Coordinamento e adeguamento con fornitori di servizi ai fini dell’integrazione degli aeromobili civili senza occupanti nello spazio aereo.
+- 1\.4 Coordinamento con fornitori di servizi U-space
+- 1\.5 Fornitura del servizio di autenticazione e di autorizzazione nell’ambito dell’utilizzo dello U-space, compreso il rilascio del token di autorizzazione per i fornitori di servizi U-space
 - *2.* *Servizi di controllo del traffico aereo*
 - 2\.1 Servizio di controllo dei voli in rotta
   - 2\.1.1 per i voli effettuati secondo le regole del volo strumentale nello spazio aereo delle classi C, D e E, compresi i voli strumentali sulla Low Flight Network (LFN);
@@ -1022,7 +1026,7 @@ I compiti della sicurezza aerea di Skyguide comprendono:
 - 5\.3 Servizio di sorveglianza
   - 5\.3.1 fornitura dei necessari servizi di sorveglianza per i servizi di controllo del traffico aereo secondo il n. 2;
   - 5\.3.2 servizi di sorveglianza specifici su richiesta degli aerodromi;
-  - 5\.3.3. messa a disposizione dei dati sulla sorveglianza ai fini dell’integrazione degli aeromobili civili senza occupanti nello spazio aereo.
+  - 5\.3.3 messa a disposizione dei dati sulla sorveglianza nell’ambito del funzionamento dello U-space.
 
 - *6.* *Servizi d’informazione aeronautica, in particolare*
 - 6\.1 gestione, archiviazione e storicizzazione di dati e informazioni aeronautici della Svizzera, compresi i relativi metadati;

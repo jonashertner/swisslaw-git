@@ -4,11 +4,11 @@ title: Verordnung vom 18. Dezember 1995 über den Flugsicherungsdienst (VFSD)
 short: VFSD
 eli: "https://fedlex.data.admin.ch/eli/cc/1996/595_595_595"
 language: de
-version: 2023-11-01
+version: 2024-08-01
 adopted: 1995-12-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/595_595_595/20231101/de/xml/fedlex-data-admin-ch-eli-cc-1996-595_595_595-20231101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1996/595_595_595/20231101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1996/595_595_595/20240801/de/xml/fedlex-data-admin-ch-eli-cc-1996-595_595_595-20240801-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1996/595_595_595/20240801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,11 +17,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1996/595_595_595/20231101/de"
 
 (VFSD)
 
-vom 18. Dezember 1995 (Stand am 1. November 2023)
+vom 18. Dezember 1995 (Stand am 1. August 2024)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 10*a* Absatz 2, 40–40*g*, 49, 101*b*, 107*a* Absatz 4 und 108*a* Absatz 3 des Luftfahrtgesetzes vom 21. Dezember 1948[^ingress-1] (LFG) und auf die Artikel 37*a*–37*f* des Bundesgesetzes vom 22. März 1985[^ingress-2] über die Verwendung der zweckgebundenen Mineralölsteuer und weiterer für den Strassen- und Luftverkehr zweckgebundener Mittel (MinVG), in Ausführung des Übereinkommens vom 7. Dezember 1944[^ingress-3] über die Internationale Zivilluftfahrt (Chicago-Übereinkommen), der Mehrseitigen Vereinbarung vom 12. Februar 1981[^ingress-4] über Flugsicherungs-Streckengebühren und des Abkommens vom 21. Juni 1999[^ingress-5] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr, insbesondere der Verordnung (EG) Nr. 549/2004[^ingress-6], der Verordnung (EG) Nr. 550/2004[^ingress-7] und der Durchführungsverordnung (EU) Nr. 391/2013[^ingress-8] in der für die Schweiz gemäss Ziffer 5 des Anhangs zum Abkommen jeweils verbindlichen Fassung,[^ingress-9]
+gestützt auf die Artikel 10*a* Absatz 2, 40–40*g*, 49, 101*b*, 107*a* Absatz 4 und 108*a* Absatz 3 des Luftfahrtgesetzes vom 21. Dezember 1948[^ingress-1] (LFG) und auf die Artikel 37*a*–37*f* des Bundesgesetzes vom 22. März 1985[^ingress-2] über die Verwendung der zweckgebundenen Mineralölsteuer und weiterer für den Strassen- und Luftverkehr zweckgebundener Mittel (MinVG), in Ausführung des Übereinkommens vom 7. Dezember 1944[^ingress-3] über die Internationale Zivilluftfahrt (Chicago-Übereinkommen), der Mehrseitigen Vereinbarung vom 12. Februar 1981[^ingress-4] über Flugsicherungs-Streckengebühren und des Abkommens vom 21. Juni 1999[^ingress-5] zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr,
+
+insbesondere der Verordnung (EG) Nr. 549/2004[^ingress-6], der Verordnung (EG) Nr. 550/2004[^ingress-7], der Durchführungsverordnung (EU) Nr. 391/2013[^ingress-8] und der Durchführungsverordnung (EU) 2021/665[^ingress-9],[^ingress-10]
 
 verordnet:
 
@@ -30,10 +32,11 @@ verordnet:
 [^ingress-3]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
 [^ingress-4]: [SR 0.748.112.12](https://fedlex.data.admin.ch/eli/cc/1986/1588_1588_1588)
 [^ingress-5]: [SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)
-[^ingress-6]: Verordnung (EG) Nr. 549/2004 des Europäischen Parlaments und des Rates vom 10. März 2004 zur Festlegung des Rahmens für die Schaffung eines einheitlichen europäischen Luftraums («Rahmenverordnung»).
-[^ingress-7]: Verordnung (EG) Nr. 50/2004 des Europäischen Parlaments und des Rates vom 10. März 2004 über die Erbringung von Flugsicherungsdiensten im einheitlichen europäischen Luftraum («Flugsicherungsdienste-Verordnung»).
-[^ingress-8]: Durchführungsverordnung (EU) Nr. 391/2013 der Kommission vom 3. Mai 2013 zur Festlegung einer gemeinsamen Gebührenregelung für Flugsicherungsdienste.
-[^ingress-9]: Fassung gemäss Ziff. I der V vom 17. Okt. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3869](https://fedlex.data.admin.ch/eli/oc/2018/613)).
+[^ingress-6]: Verordnung (EG) Nr. 549/2004 des Europäischen Parlaments und des Rates vom 10. März 2004 zur Festlegung des Rahmens für die Schaffung eines einheitlichen europäischen Luftraums («Rahmenverordnung»), in der für die Schweiz gemäss Ziffer 5 des Anhangs zum Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)) jeweils verbindlichen Fassung.
+[^ingress-7]: Verordnung (EG) Nr. 550/2004 des Europäischen Parlaments und des Rates vom 10. März 2004 über die Erbringung von Flugsicherungsdiensten im einheitlichen europäischen Luftraum («Flugsicherungsdienste-Verordnung»), in der für die Schweiz gemäss Ziffer 5 des Anhangs zum Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)) jeweils verbindlichen Fassung.
+[^ingress-8]: Durchführungsverordnung (EU) Nr. 390/2013 der Kommission vom 3. Mai 2013 zur Festlegung einer gemeinsamen Gebührenregelung für Flugsicherungsdienste, in der für die Schweiz gemäss Ziffer 5 des Anhangs zum Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)) jeweils verbindlichen Fassung.
+[^ingress-9]: Durchführungsverordnung (EU) 2021/665 der Kommission vom 22. April 2021 zur Änderung der Durchführungsverordnung (EU) 2017/373 der Kommission hinsichtlich der Anforderungen an Anbieter, die Flugverkehrsmanagementdienste/Flugsicherungsdienste und sonstige Netzfunktionen des Flugverkehrsmanagements in dem im kontrollierten Luftraum ausgewiesenen U-Space-Luftraum erbringen, in der für die Schweiz gemäss Ziffer 3 des Anhangs zum Abkommen vom 21. Juni 1999 zwischen der Schweizerischen Eidgenossenschaft und der Europäischen Gemeinschaft über den Luftverkehr ([SR 0.748.127.192.68](https://fedlex.data.admin.ch/eli/cc/2002/258)) jeweils verbindlichen Fassung.
+[^ingress-10]: Fassung gemäss Ziff. I der V vom 14. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 297](https://fedlex.data.admin.ch/eli/oc/2024/297)).
 
 ## 1. Kapitel[^chap1-1]: Allgemeine Bestimmungen
 
@@ -278,13 +281,13 @@ Die Skyguide finanziert ihre Aufgaben insbesondere durch:
 - a. die Erhebung von Gebühren (Art. 49 LFG);
 - b. die Abgeltung aus zwischenstaatlichen Vereinbarungen;
 - c. Beiträge des Bundes für Ertragsausfälle im Ausland (Art. 12):
-- c<sup>bis</sup>.[^9-2] Beiträge des Bundes für Dienstleistungen im Zusammenhang mit der Integration von zivilen unbemannten Luftfahrzeugen in den Luftraum (Art. 12*a*);
+- c<sup>bis</sup>.[^9-2] Beiträge des Bundes für Dienstleistungen im Zusammenhang mit dem U‑Space (Art. 12*a*);
 - d. die Abgeltung des Bundes für gebührenbefreite Flüge (Art. 34);
 - e. die Abgeltung des Bundes für militärische Flüge (Art. 37);
 - f. Einnahmen aus weiteren Dienstleistungen.
 
 [^9-1]: Fassung gemäss Ziff. I der V vom 29. Juni 2011, in Kraft seit 1. Aug. 2011 ([AS 2011 3503](https://fedlex.data.admin.ch/eli/oc/2011/473)).
-[^9-2]: Eingefügt durch Ziff. I der V vom 16. Febr. 2022, in Kraft seit 1. Mai 2022 ([AS 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)).
+[^9-2]: Eingefügt durch Ziff. I der V vom 16. Febr. 2022 ([AS 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)). Fassung gemäss Ziff. I der V vom 14. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 297](https://fedlex.data.admin.ch/eli/oc/2024/297)).
 
 ### 2. Abschnitt: Übertragung der Erbringung lokaler Flugsicherungsdienstleistungen
 
@@ -387,11 +390,11 @@ In Ausführung von Artikel 1 Absatz 5 der Durchführungsverordnung (EU) Nr. 391/
 
 #### Art. 12a
 
-**Deckung der Kosten von Skyguide im Zusammenhang mit der Integration von zivilen unbemannten Luftfahrzeugen in den Luftraum durch den Bund**[^12a-1]
+**Deckung der Kosten von Skyguide im Zusammenhang mit dem U-Space[^12a-2]**[^12a-1]
 
-<sup>1</sup> Der Bund kann die jährlichen Kosten der Skyguide für Dienstleistungen im Zusammenhang mit der Integration von zivilen unbemannten Luftfahrzeugen in den Luftraum im Rahmen der bewilligten Kredite übernehmen. Für die Erstellung des Voranschlages übermittelt die Skyguide dem BAZL eine Schätzung der voraussichtlichen Kosten für diese Dienstleistungen.
+<sup>1</sup> Der Bund kann die jährlichen Kosten der Skyguide für Dienstleistungen im Zusammenhang mit dem U-Space im Rahmen der bewilligten Kredite übernehmen. Für die Erstellung des Voranschlages übermittelt die Skyguide dem BAZL eine Schätzung der voraussichtlichen Kosten für diese Dienstleistungen.[^12a-3]
 
-<sup>2</sup> Ein staatlich beaufsichtigtes Revisionsunternehmen nach Artikel 7 RAG[^12a-2] und das BAZL prüfen die effektive Höhe der Kosten am Ende eines Rechnungsjahres. Die Skyguide trägt die Kosten für die Überprüfung.
+<sup>2</sup> Ein staatlich beaufsichtigtes Revisionsunternehmen nach Artikel 7 RAG[^12a-4] und das BAZL prüfen die effektive Höhe der Kosten am Ende eines Rechnungsjahres. Die Skyguide trägt die Kosten für die Überprüfung.
 
 <sup>3</sup> Zeigt die Überprüfung, dass im betreffenden Jahr die Zahlungen des Bundes höher ausgefallen sind als die effektiven Kosten, wird die Differenz der Skyguide im Folgejahr angerechnet.
 
@@ -402,7 +405,9 @@ In Ausführung von Artikel 1 Absatz 5 der Durchführungsverordnung (EU) Nr. 391/
 <sup>6</sup> Das BAZL prüft nach drei Jahren, ob und zu welchem Anteil der Bund die Kosten für diese Dienstleistungen weiterhin übernehmen soll.
 
 [^12a-1]: Eingefügt durch Ziff. I der V vom 16. Febr. 2022, in Kraft seit 1. Mai 2022 ([AS 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)).
-[^12a-2]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
+[^12a-2]: Fassung gemäss Ziff. I der V vom 14. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 297](https://fedlex.data.admin.ch/eli/oc/2024/297)).
+[^12a-3]: Fassung gemäss Ziff. I der V vom 14. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 297](https://fedlex.data.admin.ch/eli/oc/2024/297)).
+[^12a-4]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
 
 #### Art. 13
 
@@ -962,7 +967,7 @@ Anhang 1[^t-1]
 
 ## Flugsicherungsaufgaben der Skyguide
 
-[^t-1]: Ursprünglich: Anhang. Eingefügt durch Ziff. II der V vom 24. Jan. 2001 ([AS 2001 514](https://fedlex.data.admin.ch/eli/oc/2001/104)). Fassung gemäss Ziff. II der V vom 17. Okt. 2018 ([AS 2018 3869](https://fedlex.data.admin.ch/eli/oc/2018/613)). Bereinigt gemäss Ziff. II der V vom 16. Febr. 2022 ([AS 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)) und Anhang Ziff. 2 der V vom 22. Sept. 2023 über die Militärluftfahrt, in Kraft seit 1. Nov. 2023 ([AS 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)).
+[^t-1]: Ursprünglich: Anhang. Eingefügt durch Ziff. II der V vom 24. Jan. 2001 ([AS 2001 514](https://fedlex.data.admin.ch/eli/oc/2001/104)). Fassung gemäss Ziff. II der V vom 17. Okt. 2018 ([AS 2018 3869](https://fedlex.data.admin.ch/eli/oc/2018/613)). Bereinigt gemäss Ziff. II der V vom 16. Febr. 2022 ([AS 2022 231](https://fedlex.data.admin.ch/eli/oc/2022/231)), Anhang Ziff. 2 der V vom 22. Sept. 2023 über die Militärluftfahrt ([AS 2023 560](https://fedlex.data.admin.ch/eli/oc/2023/560)) und Ziff. II der V vom 14. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 297](https://fedlex.data.admin.ch/eli/oc/2024/297)).
 
 Die Flugsicherungsaufgaben der Skyguide umfassen:
 
@@ -979,11 +984,12 @@ Die Flugsicherungsaufgaben der Skyguide umfassen:
     - – die Koordination von Flügen, die gemäss der Verordnung des UVEK vom 24. November 1994[^annex1-lvlu1-1] über Luftfahrzeuge besonderer Kategorien eine Bewilligung des Flugverkehrsdienstes benötigen
     - – die Koordination zwischen dem Schiessbetrieb der Armee und der Flugsicherung (Koordination Schiessen Flugsicherung, KOSIF);
 
-  - 1\.1.3 Bereitstellung der dynamischen Luftraumdaten zuhanden der Integration der unbemannten Luftfahrzeuge in den Luftraum.
+  - 1\.1.3 Bereitstellung von Daten zur dynamischen Rekonfigurierung von U‑Space-Lufträumen.
 
 - 1\.2 Verkehrsfluss- und Verkehrskapazitäts-Management.
 - 1\.3 Entgegennahme und Bewirtschaftung von Flugplänen und Berichten bezüglich Flugverkehrsdiensten inklusive der Dienste als ATS-Meldestelle (ATS Reporting Office, ARO).
-- 1\.4 Koordination und Abstimmung mit Dienstleistern von Leistungen zuhanden der Integration der unbemannten Luftfahrzeuge in den Luftraum.
+- 1\.4 Koordination und Abstimmung mit Anbietern von U-Space-Diensten.
+- 1\.5 Bereitstellung des Authentifizierungs- und Autorisierungsdienstes im Zusammenhang mit der Bereitstellung von U-Space-Diensten, einschliesslich der Ausstellung des Autorisierungstokens für Anbieter von U-Space-Diensten.
 - *2.* *Flugverkehrskontrolldienste*
 - 2\.1 Streckenflugkontrolldienst
   - 2\.1.1 für die Flüge nach Instrumentenflugregeln im Luftraum der Klassen C, D und E inklusive die Instrumentenflüge auf dem Tief-Flug-Netzwerk (LFN),
@@ -1022,7 +1028,7 @@ Die Flugsicherungsaufgaben der Skyguide umfassen:
 - 5\.3 Überwachungsdienst
   - 5\.3.1 Erbringung der erforderlichen Überwachungsdienste für die Flugverkehrskontrolldienste nach Ziffer 2,
   - 5\.3.2 Im Auftrag der Flugplätze Erbringung von flugplatzspezifischen Überwachungsdiensten.,
-  - 5\.3.3 Bereitstellung der Überwachungsdaten zuhanden der Integration der unbemannten Luftfahrzeuge in den Luftraum.
+  - 5\.3.3 Bereitstellung der Überwachungsdaten im Zusammenhang mit dem Betrieb des U-Space.
 
 - *6.* *Luftfahrtinformationsdienste, insbesondere:*
 - 6\.1 Führen, archivieren und historisieren der Luftfahrtdaten und -informationen der Schweiz inklusive der zugehörigen Metadaten;
