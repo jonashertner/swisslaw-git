@@ -1,26 +1,26 @@
 ---
 canton: ZG
 number: "412.118"
-title: Kantonsratsbeschluss betreffend Integrationsklassen auf der Primarstufe für Kinder aus dem Asyl- und Flüchtlingsbereich
+title: Kantonsratsbeschluss betreffend Integrationsklassen auf der Primarstufe und Sekundarstufe I für Kinder und Jugendliche aus dem Asyl- und Flüchtlingsbereich
 language: de
-version: 2019-08-01
-valid_until: 2024-07-31
-version_adopted: 2019-06-27
+version: 2024-08-01
+valid_until: 2025-12-31
+version_adopted: 2024-01-25
 adopted: 2016-11-24
 in_force: 2016-08-01
 url: "https://bgs.zg.ch/app/de/texts_of_law/412.118"
-pdf: "https://bgs.zg.ch/api/de/versions/2938/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2939/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Kantonsratsbeschluss betreffend Integrationsklassen auf der Primarstufe für Kinder aus dem Asyl- und Flüchtlingsbereich
+# Kantonsratsbeschluss betreffend Integrationsklassen auf der Primarstufe und Sekundarstufe I für Kinder und Jugendliche aus dem Asyl- und Flüchtlingsbereich
 
-Vom 24. November 2016 (Stand 1. August 2019)
+Vom 24. November 2016 (Stand 1. August 2024)
 
 Der Kantonsrat des Kantons Zug,
 
-gestützt auf § 41 Abs. 1 Bst. b der Kantonsverfassung[^ingress-1],
+gestützt auf § 41 Abs. 1 Bst. b der Verfassung des Kantons Zug (Kantonsverfassung, KV) vom 31. Januar 1894[^ingress-1],
 
 beschliesst:
 
@@ -30,7 +30,7 @@ beschliesst:
 
 **Grundsatz**
 
-<sup>1</sup> Die Einwohnergemeinden finanzieren gemeinsam Integrationsklassen auf der Primarstufe für Kinder aus dem Asyl- und Flüchtlingsbereich.
+<sup>1</sup> Die Einwohnergemeinden finanzieren gemeinsam Integrationsklassen auf der Primarstufe sowie auf der Sekundarstufe I für Kinder und Jugendliche aus dem Asyl- und Flüchtlingsbereich.
 
 <sup>2</sup> Der Kanton beteiligt sich an den Kosten mittels der Normpauschale.
 
@@ -42,7 +42,11 @@ beschliesst:
 
 **Vergütung**
 
-<sup>1</sup> Für eine Integrationsklasse werden einer Standortgemeinde Fr. 25'000.- pro Monat vergütet.
+<sup>1</sup> Für eine Integrationsklasse der Primarstufe werden einer Standortgemeinde 28'000 Franken pro Monat vergütet.
+
+<sup>2</sup> Für eine Integrationsklasse der Sekundarstufe I werden einer Standortgemeinde 30'000 Franken pro Monat vergütet.
+
+<sup>3</sup> Der Lohnanteil (zwei Drittel der monatlichen Vergütung) wird entsprechend den Bestimmungen für das Staatspersonal der Teuerung angepasst.
 
 #### § 3
 
