@@ -4,13 +4,13 @@ number: "640.71"
 title: "Verordnung über die Spezielle Förderung, die Sonderschulung und die heilpädagogische Früherziehung"
 short: "Verordnung Sonderpädagogik, Vo SoPä"
 language: de
-version: 2024-01-01
-valid_until: 2024-07-31
-version_adopted: 2023-12-05
+version: 2024-08-01
+valid_until: 2024-12-31
+version_adopted: 2023-12-19
 adopted: 2021-06-22
 in_force: 2021-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/640.71"
-pdf: "https://bl.clex.ch/api/de/versions/3833/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3864/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3833/pdf_file"
 
 (Verordnung Sonderpädagogik, Vo SoPä)
 
-Vom 22.06.2021 (Stand 01.01.2024)
+Vom 22.06.2021 (Stand 01.08.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -380,7 +380,7 @@ beschliesst:
 
 <sup>2</sup> Bei Logopädie auf den Sekundarstufen I und II und der Integrativen Sonderschulung nimmt die Schulleitung vorgängig zum Entscheid Rücksprache mit der zuständigen Dienststelle bezüglich der Kostengutsprache.
 
-<sup>3</sup> Bei indiziertem Förderbedarf an einer Privatschule oder in einem Spezialangebot kann das Amt für Volksschulen, Hauptabteilung Sonderpädagogik, auf Antrag der Erziehungsberechtigten, der Empfehlung der abklärenden Fachstelle und unter Berücksichtigung der Ergebnisse des Fachkonvents eine Spezielle Förderung an einer Privatschule oder in einem Spezialangebot bewilligen. Eine Bewilligung kann dann erteilt werden, wenn alle Möglichkeiten der Speziellen Förderung an der öffentlichen Schule ausgeschöpft sind und auf der Primarstufe nach vorgängiger Rücksprache mit dem zuständigen Schulrat und Vorliegen der Kostengutsprache der Gemeinde.
+<sup>3</sup> Bei indiziertem Förderbedarf an einer Privatschule oder in einem Spezialangebot kann das Amt für Volksschulen, Hauptabteilung Sonderpädagogik, auf Antrag der Erziehungsberechtigten, der Empfehlung der abklärenden Fachstelle und unter Berücksichtigung der Ergebnisse des Fachkonvents eine Spezielle Förderung an einer Privatschule oder in einem Spezialangebot bewilligen. Eine Bewilligung kann dann erteilt werden, wenn alle Möglichkeiten der Speziellen Förderung an der öffentlichen Schule ausgeschöpft sind. Auf der Primarstufe bedarf es zudem der vorgängigen Rücksprache mit dem Schulrat und der Kostengutsprache der Gemeinde. Sofern die Gemeinde sich für ein Führungsmodell mit Gemeinderat entscheidet, ist mit diesem Rücksprache zu nehmen.
 
 <sup>4</sup> Eine gleichzeitige Zuweisung zu einer Privatschule in Kombination mit einer Heimunterbringung ist nicht möglich. Bei bestehender Heimunterbringung ist die Bewilligung einer Speziellen Förderung an einer Privatschule oder in einem Spezialangebot entsprechend den Vorgaben von Abs. 3 möglich.
 
