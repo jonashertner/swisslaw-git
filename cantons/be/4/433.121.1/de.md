@@ -4,13 +4,12 @@ number: "433.121.1"
 title: Mittelschuldirektionsverordnung
 short: MiSDV
 language: de
-version: 2023-08-01
-valid_until: 2024-07-31
-version_adopted: 2023-05-09
+version: 2024-08-01
+version_adopted: 2024-05-22
 adopted: 2017-06-16
 in_force: 2017-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/433.121.1"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2841/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3043/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2841/pdf_file"
 
 (MiSDV)
 
-vom 16.06.2017 (Stand 01.08.2023)
+vom 16.06.2017 (Stand 01.08.2024)
 
 Die Erziehungsdirektion des Kantons Bern,
 
@@ -1113,7 +1112,7 @@ beschliesst:
 
 **Definitive Aufnahme im französischsprachigen Kantonsteil**
 
-<sup>1</sup> Gemäss Artikel 76 Absätze 1 bis 4 aufgenommene Schülerinnen und Schüler treten definitiv in den FMS-Bildungsgang über, wenn die Leistungen am Ende des zweiten Semesters des dritten Jahrs der Sekundarstufe I den Anforderungen gemäss Artikel 76 Absätze 1 bis 3 genügen.
+<sup>1</sup> Schülerinnen und Schüler der "section moderne (section m)" und der "section préparant aux écoles de maturité (section p)", die in den FMS-Bildungsgang aufgenommen wurden, treten definitiv in den FMS-Bildungsgang über, wenn die Leistungen am Ende des zweiten Semesters des dritten Jahrs der Sekundarstufe I den Anforderungen gemäss Artikel 76 Absätze 1 bis 3 genügen.
 
 #### Art. 78
 
@@ -1588,6 +1587,8 @@ beschliesst:
 
 <sup>3–4</sup> …
 
+<sup>4a</sup> Werden aus zwingenden Gründen keine genügenden Präsenzzeiten erreicht, kann eine Kandidatin oder ein Kandidat dennoch zugelassen werden, wenn sie oder er entsprechende Zusatzleistungen erbringt.
+
 <sup>5</sup> Die Schulleitung entscheidet über die Zulassung.
 
 #### Art. 108
@@ -1934,13 +1935,23 @@ beschliesst:
 
 **Expertinnen und Experten**
 
-<sup>1</sup> Die Entschädigung der von der Prüfungskommission eingesetzten Expertinnen und Experten beträgt pro Kandidatin oder Kandidat 14 Franken für eine zweistündige Prüfung, 20 Franken für eine dreistündige Prüfung und 26 Franken für eine vierstündige Prüfung. Es wird mindestens der Betrag für acht Prüfungen ausgerichtet.
+<sup>1</sup> Die von der Prüfungskommission eingesetzten Expertinnen und Experten erhalten pro Kandidatin oder Kandidat folgende Entschädigung, wobei mindestens der Betrag für acht Kandidatinnen und Kandidaten ausgerichtet wird:
 
-<sup>2</sup> Die Entschädigung der Expertinnen und Experten beträgt für alle mündlich geprüften Fächer pro Kandidatin oder Kandidaten 18 Franken, wobei pro Prüfungshalbtag mindestens der Betrag für sechs Prüfungen ausgerichtet wird. Pro Schule wird mindestens die Entschädigung für acht Prüfungen ausgerichtet.
+- a 14 Franken für eine zweistündige Prüfung,
+- b 20 Franken für eine dreistündige Prüfung,
+- c 26 Franken für eine vierstündige Prüfung.
 
-<sup>3</sup> Die Entschädigung der Expertinnen und Experten für die Korrektur der Fachmaturitätsarbeit und die Teilnahme an der Fachmaturitätsprüfung in den Berufsfeldern Gesundheit oder Soziale Arbeit beträgt pauschal 250 Franken pro Kandidatin oder Kandidaten.
+<sup>2</sup> Sie erhalten pro Kandidatin oder Kandidat eine Entschädigung von 18 Franken für eine mündliche Prüfung, wobei für die Ausrichtung Folgendes gilt:
 
-<sup>3a</sup> Die Entschädigung der Expertinnen und Experten für die Korrektur einer gemäss Artikel 103 Absatz 3 nachgebesserten Fachmaturitätsarbeit oder die wiederholte Teilnahme an der Fachmaturitätsprüfung gemäss Artikel 110 Absatz 4 beträgt pauschal 90 Franken pro Kandidatin oder Kandidaten.
+- a pro Prüfungshalbtag mindestens der Betrag für sechs Kandidatinnen und Kandidaten,
+- b pro Schule, in der die Prüfung abgenommen wird, mindestens der Betrag für acht Kandidatinnen und Kandidaten.
+
+<sup>3</sup> Sie erhalten pro Kandidatin oder Kandidat folgende Entschädigung:
+
+- a 250 Franken für die Fachmaturitätsprüfung in den Berufsfeldern Gesundheit oder Soziale Arbeit (Korrektur der Fachmaturitätsarbeit und Teilnahme an Präsentation und Prüfungsgespräch),
+- b 180 Franken für eine nachgebesserte Fachmaturitätsprüfung in den Berufsfeldern Gesundheit oder Soziale Arbeit (Korrektur der nachgebesserten Fachmaturitätsarbeit und Teilnahme an Präsentation und Prüfungsgespräch).
+
+<sup>3a</sup> …
 
 <sup>4</sup> Für den Ersatz der Spesen gelten die Bestimmungen für das Kantonspersonal.
 
@@ -1979,6 +1990,35 @@ beschliesst:
 **Schulkommissionen**
 
 <sup>1</sup> Den Präsidentinnen und Präsidenten der Schulkommissionen werden die Taggelder und Spesen nach der Verordnung über die Taggelder und Reiseentschädigungen der Mitglieder staatlicher Kommissionen sowie eine Entschädigung von 900 Franken pro Jahr ausgerichtet.
+
+### 6.3 Abgeltung der Unterstützung von berufseinsteigenden und wiedereinsteigenden Lehrkräften
+
+#### Art. 142a
+
+**Berufseinsteigende und wiedereinsteigende Lehrkräfte**
+
+<sup>1</sup> Berufseinsteigende Lehrkräfte sind Lehrkräfte, die das erste Mal selbstständig unterrichten und für mindestens ein Semester angestellt worden sind.
+
+<sup>2</sup> Wiedereinsteigende Lehrkräfte sind Lehrkräfte, die nach einer Pause von mindestens zwei Jahren wieder in den Beruf einsteigen und für mindestens ein Semester angestellt worden sind.
+
+#### Art. 142b
+
+**Unterstützung**
+
+<sup>1</sup> Die Unterstützung von berufseinsteigenden und wiedereinsteigenden Lehrkräften kann im ersten Jahr des selbstständigen Unterrichts abgegolten werden.
+
+<sup>2</sup> Sie wird von Lehrkräften erbracht, die an derselben Schule unterrichten. Aus wichtigen Gründen kann sie von Lehrkräften erbracht werden, die an einer anderen Schule unterrichten.
+
+<sup>3</sup> Die Unterstützung wird in der Regel während eines Semesters abgegolten. In begründeten Fällen kann die Abgeltung um ein Semester verlängert werden.
+
+#### Art. 142c
+
+**Abgeltung**
+
+<sup>1</sup> Die Abgeltung der Unterstützung beträgt
+
+- a für die berufseinsteigende oder wiedereinsteigende Lehrkraft drei Beschäftigungsgradprozente,
+- b für die unterstützende Lehrkraft drei Beschäftigungsgradprozente pro unterstützte Lehrkraft.
 
 ## 7 Übergangs- und Schlussbestimmungen
 

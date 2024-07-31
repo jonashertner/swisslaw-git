@@ -4,13 +4,12 @@ number: "433.121.1"
 title: Ordonnance de Direction sur les écoles moyennes
 short: ODEM
 language: fr
-version: 2023-08-01
-valid_until: 2024-07-31
-version_adopted: 2023-05-09
+version: 2024-08-01
+version_adopted: 2024-05-22
 adopted: 2017-06-16
 in_force: 2017-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/433.121.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2841/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3043/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2841/pdf_file"
 
 (ODEM)
 
-du 16.06.2017 (état au 01.08.2023)
+du 16.06.2017 (état au 01.08.2024)
 
 La Direction de l’instruction publique du canton de Berne,
 
@@ -1113,7 +1112,7 @@ arrête:
 
 **Admission définitive dans la partie francophone du canton**
 
-<sup>1</sup> L’élève admis conformément à l’article 76, alinéas 1 à 4 est admis définitivement à la formation en ECG si ses prestations à la fin du deuxième semestre de la troisième année du degré secondaire I satisfont aux exigences définies à l’article 76, alinéas 1 à 3.
+<sup>1</sup> L’élève de la section moderne (section m) ou de la section préparant aux écoles de maturité (section p) admis à la formation en ECG est admis définitivement si ses prestations à la fin du deuxième semestre de la troisième année du degré secondaire I satisfont aux exigences définies à l’article 76, alinéas 1 à 3.
 
 #### Art. 78
 
@@ -1588,6 +1587,8 @@ arrête:
 
 <sup>3–4</sup> …
 
+<sup>4a</sup> Si, pour des motifs impérieux, le candidat ou la candidate n’a pas atteint le taux de présence requis, il ou elle peut tout de même être admise s’il ou si elle fournit des prestations complémentaires.
+
 <sup>5</sup> La direction d’école statue sur l’admission.
 
 #### Art. 108
@@ -1934,13 +1935,23 @@ arrête:
 
 **Experts et expertes**
 
-<sup>1</sup> L’indemnité des experts et des expertes mobilisés par la commission d’examen est de 14 francs par épreuve de deux heures, de 20 francs par épreuve de trois heures et de 26 francs par épreuve de quatre heures, par candidat ou candidate. Le montant versé est au moins égal au montant versé pour huit épreuves.
+<sup>1</sup> Les experts et les expertes mobilisés par la commission d’examen reçoivent les indemnités suivantes par candidat ou candidate, mais au moins le montant versé pour huit candidats ou candidates:
 
-<sup>2</sup> L’indemnité des experts et des expertes est de 18 francs par candidat ou candidate pour les épreuves orales, le montant versé par demi-journée d’examen étant au moins égal au montant versé pour six épreuves. Le montant versé par école est au moins égal au montant versé pour huit épreuves.
+- a 14 francs par épreuve de deux heures,
+- b 20 francs par épreuve de trois heures,
+- c 26 francs par épreuve de quatre heures.
 
-<sup>3</sup> L’indemnité forfaitaire des experts et des expertes pour la correction du travail de maturité spécialisée et pour la participation aux examens de maturité spécialisée de l’orientation Santé et de l’orientation Travail social est de 250 francs par candidat ou candidate.
+<sup>2</sup> Ils reçoivent une indemnité de 18 francs par candidat ou candidate pour une épreuve orale, en application des conditions suivantes:
 
-<sup>3a</sup> L’indemnité forfaitaire des experts et des expertes pour la correction d’un travail de maturité spécialisée retravaillé en vertu de l’article 103, alinéa 3 ou pour la participation aux examens de maturité spécialisée répétés en vertu de l’article 110, alinéa 4 est de 90 francs par candidat ou candidate.
+- a le montant versé par demi-journée d’examen correspond au moins au montant versé pour six candidats ou candidates,
+- b le montant versé par école qui organise les examens correspond au moins au montant versé pour huit candidats ou candidates.
+
+<sup>3</sup> Ils reçoivent l’indemnité suivante par candidat ou candidate:
+
+- a 250 francs pour les examens de maturité spécialisée de l’orientation Santé et de l’orientation Travail social (correction du travail de maturité spécialisée et participation à la présentation orale et à l’entretien consécutif),
+- b 180 francs pour les examens de maturité spécialisée retravaillés de l’orientation Santé et de l’orientation Travail social (correction du travail de maturité spécialisée retravaillé et participation à la présentation orale et à l’entretien consécutif).
+
+<sup>3a</sup> …
 
 <sup>4</sup> Le paiement des frais est régi par les dispositions applicables au personnel cantonal.
 
@@ -1979,6 +1990,35 @@ arrête:
 **Commissions scolaires**
 
 <sup>1</sup> Les présidents et présidentes des commissions scolaires perçoivent des indemnités journalières et un dédommagement de leurs frais conformément à l’ordonnance concernant les indemnités journalières et de déplacement des membres des commissions cantonales ainsi qu’une indemnité de 900 francs par année.
+
+### 6.3 Rétribution du soutien apporté aux membres du corps enseignant en début de carrière ou reprenant l’activité d’enseignement
+
+#### Art. 142a
+
+**Membres du corps enseignant en début de carrière ou reprenant l’activité d’enseignement**
+
+<sup>1</sup> Les membres du corps enseignant en début de carrière sont des personnes qui enseignent pour la première fois de manière autonome et qui sont engagées pour un semestre au minimum.
+
+<sup>2</sup> Les membres du corps enseignant reprenant l’activité d’enseignement sont des personnes qui reprennent l’activité d’enseignement après une pause d’au moins deux ans et qui sont engagées pour un semestre au minimum.
+
+#### Art. 142b
+
+**Soutien**
+
+<sup>1</sup> Le soutien apporté aux membres du corps enseignant en début de carrière ou reprenant l’activité d’enseignement peut être rétribué pendant la première année d’enseignement autonome.
+
+<sup>2</sup> Il est apporté par des membres du corps enseignant qui enseignent dans la même école. Pour de justes motifs, il peut être apporté par des membres du corps enseignant qui enseignent dans une autre école.
+
+<sup>3</sup> En règle générale, il est rétribué pendant un semestre. Dans des cas motivés, la rétribution peut être prolongée d’un semestre.
+
+#### Art. 142c
+
+**Rétribution**
+
+<sup>1</sup> Le soutien est rétribué à hauteur
+
+- a de trois pour cent de degré d’occupation pour les membres du corps enseignant en début de carrière ou reprenant l’activité d’enseignement,
+- b de trois pour cent de degré d’occupation par personne soutenue pour les personnes apportant leur soutien.
 
 ## 7 Dispositions transitoires et dispositions finales
 
