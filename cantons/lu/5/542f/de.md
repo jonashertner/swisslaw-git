@@ -1,23 +1,24 @@
 ---
 canton: LU
 number: 542f
-title: Reglement über den Master of Advanced Studies in Philosophy+Management an der Kultur- und Sozialwissenschaftlichen Fakultät der Universität Luzern
+title: Reglement über den Master of Advanced Studies in Philosophy + Management an der Kultur- und Sozialwissenschaftlichen Fakultät der Universität Luzern
 short: WBR UniLU MAS Philosophy + Management
 language: de
-version: 2023-08-01
-valid_until: 2024-07-31
-version_adopted: 2023-06-23
+version: 2024-08-01
+version_adopted: 2024-06-26
 adopted: 2008-01-23
 in_force: 2008-02-01
 url: "https://srl.lu.ch/app/de/texts_of_law/542f"
-pdf: "https://srl.lu.ch/api/de/versions/4101/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4230/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Reglement über den Master of Advanced Studies in Philosophy+Management an der Kultur- und Sozialwissenschaftlichen Fakultät der Universität Luzern
+# Reglement über den Master of Advanced Studies in Philosophy + Management an der Kultur- und Sozialwissenschaftlichen Fakultät der Universität Luzern
 
-vom 23.01.2008 (Stand 01.08.2023)
+(WBR UniLU MAS Philosophy + Management)
+
+vom 23.01.2008 (Stand 01.08.2024)
 
 Der Universitätsrat der Universität Luzern,
 
@@ -35,11 +36,11 @@ beschliesst:
 
 **Gegenstand**
 
-<sup>1</sup> Der Master of Advanced Studies in Philosophy+Management (MAS Philosophy+Management) befähigt Führungskräfte, ihre unternehmerischen Aufgaben im gesellschaftlichen, kulturellen und politischen Kontext zu beurteilen, und zielt darauf ab, die Handlungskompetenz aus philosophischer Reflexion heraus zu stärken.
+<sup>1</sup> Der Master of Advanced Studies in Philosophy + Management (MAS Philosophy + Management) befähigt Führungskräfte, ihre unternehmerischen Aufgaben im gesellschaftlichen, kulturellen und politischen Kontext zu beurteilen, und zielt darauf ab, die Handlungskompetenz aus philosophischer Reflexion heraus zu stärken.
 
-<sup>2</sup> Der erfolgreiche Abschluss des Studiengangs berechtigt zum Titel «Master of Advanced Studies in Philosophy+Management». Für Studierende, die Teile des Studiengangs besuchen, wird ein «Diploma of Advanced Studies in Philosophy+Management» (DAS Philosophy+Management) bzw. ein «Certificate in Philosophy+Management» (CAS Philosophy+Management) ausgestellt.
+<sup>2</sup> Der erfolgreiche Abschluss des Studiengangs berechtigt zum Titel «Master of Advanced Studies in Philosophy + Management». Für Studierende, die Teile des Studiengangs besuchen, wird ein «Diploma of Advanced Studies in Philosophy + Management» (DAS Philosophy + Management) bzw. ein «Certificate in Philosophy + Management» (CAS Philosophy + Management) ausgestellt.
 
-<sup>2<sup>bis</sup></sup> Einzelheiten können in einer oder mehreren Wegleitungen geregelt werden.
+<sup>2<sup>bis</sup></sup> Einzelheiten sind in einer oder mehreren Wegleitungen geregelt.
 
 <sup>3</sup> Soweit dieses Reglement keine Bestimmungen enthält, gilt das Rahmenreglement für die Weiterbildung an der Universität Luzern[^1-1].
 
@@ -49,7 +50,7 @@ beschliesst:
 
 **Organisation**
 
-<sup>1</sup> Der MAS Philosophy+Management wird im Auftrag der Kultur- und Sozialwissenschaftlichen Fakultät (nachfolgend Fakultät) und unter der Verantwortung einer unbefristeten Professur der Fakultät (wissenschaftliche Gesamtleitung) und einer Co-Leitung durchgeführt. Diese werden von der Fakultät eingesetzt und bilden gemeinsam die Studienleitung.
+<sup>1</sup> Der MAS Philosophy + Management wird im Auftrag der Kultur- und Sozialwissenschaftlichen Fakultät (nachfolgend Fakultät) und unter der Verantwortung einer unbefristeten Professur der Fakultät (wissenschaftliche Gesamtleitung) und einer Co-Leitung durchgeführt. Diese werden von der Fakultät eingesetzt und bilden gemeinsam die Studienleitung.
 
 <sup>2</sup> Zur Durchführung kann die Studienleitung Partnerschaften mit anderen Institutionen aus der akademischen Lehre und Forschung eingehen.
 
@@ -65,11 +66,13 @@ beschliesst:
 
 <sup>4</sup> Der Masterstudiengang wird mit einer Masterarbeit sowie einer mündlichen Prüfung abgeschlossen.
 
-<sup>5</sup> Der Studiengang ist in drei Phasen eingeteilt mit je verschiedenem inhaltlichem Schwerpunkt. Die inhaltlichen Schwerpunkte sind 1) Gesellschaft und Politik, 2) Arbeit und Exzellenz und 3) Führung und Selbstführung. Jede Studienphase umfasst drei Module, einen Methodenkurs sowie eine Qualifikationsarbeit. Eine Studienphase hat einen Umfang von insgesamt 15 ECTS-Punkten. Die Reihenfolge der Studienphasen ist frei wählbar. Der Studiengang ist nach Möglichkeit in einem Zeitraum von maximal fünf Jahren zu absolvieren.
+<sup>5</sup> Der Studiengang ist in drei Phasen eingeteilt mit je verschiedenem inhaltlichem Schwerpunkt. Die inhaltlichen Schwerpunkte sind 1) Gesellschaft und Politik, 2) Arbeit und Exzellenz und 3) Führung und Selbstführung. Jede Studienphase umfasst drei Module, einen Methodenkurs sowie eine Qualifikationsarbeit. Eine Studienphase hat einen Umfang von insgesamt 15 ECTS-Punkten. Die Reihenfolge der Studienphasen ist frei wählbar.
 
-<sup>6</sup> Der «CAS Diskurskompetenzen für Führungskräfte»[^3-1] kann, sofern er erfolgreich absolviert wurde, als eine alternative Studienphase für die Erlangung eines DAS Philosophy+Management wie auch eines MAS Philosophy+Management anerkannt werden.
+<sup>6</sup> Der «CAS Leadership & Excellence in Argumentation + Diskurs (LEAD)»[^3-1] oder ein Zertifikatslehrgang aus einem verwandten Fachgebiet einer anderen Fakultät oder Universität kann, sofern er erfolgreich absolviert wurde, als eine alternative Studienphase für die Erlangung eines DAS Philosophy + Management wie auch eines MAS Philosophy + Management anerkannt werden.
 
-<sup>7</sup> Teilnehmende des «CAS Diskurskompetenzen für Führungskräfte», die den Studiengang absolviert haben bzw. absolvieren, können bei der Studienleitung eine entsprechende Anerkennung beantragen.
+<sup>7</sup> Teilnehmende des «CAS Leadership & Excellence in Argumentation + Diskurs (LEAD)» oder eines Zertifikatslehrgangs aus einem verwandten Fachgebiet, die den entsprechenden Studiengang absolviert haben bzw. absolvieren, können bei der Studienleitung eine entsprechende Anerkennung beantragen.
+
+<sup>8</sup> Die alternativen Studienphasen anderer Fakultäten oder Universitäten gemäss Absatz 6 sind in einer Wegleitung geregelt. Die Anerkennung wird nach einheitlichen und transparenten Kriterien geprüft, die von der Studienleitung festgelegt werden. Über die Anerkennung und Anrechenbarkeit entscheidet die Studienleitung.
 
 [^3-1]: SRL Nr. [542q](https://srl.lu.ch/data/542q/de)
 
@@ -87,7 +90,7 @@ beschliesst:
 
 **Aufnahme**
 
-<sup>1</sup> In den MAS Philosophy+Management kann aufgenommen werden, wer über einen Abschluss einer universitären Hochschule, Fachhochschule oder pädagogischen Hochschule und Praxiserfahrung verfügt. Teilnehmende mit adäquatem Bildungs- und Erfahrungshintergrund können «sur dossier» aufgenommen werden.
+<sup>1</sup> In den MAS Philosophy + Management kann aufgenommen werden, wer über einen Abschluss einer universitären Hochschule, Fachhochschule oder pädagogischen Hochschule und Praxiserfahrung verfügt. Teilnehmende mit adäquatem Bildungs- und Erfahrungshintergrund können «sur dossier» aufgenommen werden.
 
 <sup>2</sup> Die Studienleitung entscheidet über die Aufnahme. Über die Äquivalenz von Abschlüssen entscheidet die Studienleitung aufgrund der Zulassungsrichtlinien der Universität Luzern nach Rücksprache mit den Studiendiensten.
 
@@ -115,13 +118,13 @@ beschliesst:
 
 **Certificate of Advanced Studies (CAS)**
 
-<sup>1</sup> Für den Erwerb eines «Certificate of Advanced Studies in Philosophy+Management» muss der erfolgreiche Abschluss einer Studienphase im Umfang von 15 ECTS-Punkten nachgewiesen werden. Der inhaltliche Schwerpunkt der jeweiligen Studienphase wird auf dem Zertifikat ausgewiesen.
+<sup>1</sup> Für den Erwerb eines «Certificate of Advanced Studies in Philosophy + Management» muss der erfolgreiche Abschluss einer Studienphase im Umfang von 15 ECTS-Punkten nachgewiesen werden. Der inhaltliche Schwerpunkt der jeweiligen Studienphase wird auf dem Zertifikat ausgewiesen.
 
 #### § 8
 
 **Diploma of Advanced Studies (DAS)**
 
-<sup>1</sup> Für den Erwerb eines «Diploma of Advanced Studies in Philosophy+Management» muss der erfolgreiche Abschluss zweier Studienphasen im Umfang von 30 ECTS-Punkten nachgewiesen werden. Die zwei inhaltlichen Schwerpunkte werden auf dem Diplom ausgewiesen.
+<sup>1</sup> Für den Erwerb eines «Diploma of Advanced Studies in Philosophy + Management» muss der erfolgreiche Abschluss zweier Studienphasen im Umfang von 30 ECTS-Punkten nachgewiesen werden. Die zwei inhaltlichen Schwerpunkte werden auf dem Diplom ausgewiesen.
 
 #### § 9
 
@@ -140,7 +143,18 @@ beschliesst:
 
 <sup>3</sup> Die Erzielung mehrerer Abschlüsse, welche auf denselben ECTS-Punkten beruhen, ist nicht möglich. Beim Erwerb eines DAS oder eines MAS wird das zuvor ausgestellte Zertifikat oder Diplom aberkannt. Allfällige bereits ausgestellte Abschlussdokumente werden eingezogen.
 
-## 3 Schlussbestimmungen
+## 3 Finanzen
+
+#### § 9a
+
+**Finanzielles**
+
+<sup>1</sup> Die Höhe der Honorare der Dozierenden wird von der Studienleitung im Einklang mit der durch den Universitätsrat verabschiedeten Richtlinie für Honorare im Bereich der Weiterbildung und bei wissenschaftlichen Tagungen an der Universität Luzern[^9a-1] definiert.
+
+<sup>2</sup> Die beanspruchten Querschnittsleistungen der Universität im Sinne von § 22 Absatz 4 des Rahmenreglements für die Weiterbildung an der Universität Luzern[^9a-2] werden durch eine Strukturkostenpauschale von 6 Prozent auf den eingenommenen Studiengebühren abgegolten.
+
+[^9a-1]: Beschluss des Universitätsrates vom 17. Dezember 2021
+[^9a-2]: SRL Nr. [539i](https://srl.lu.ch/data/539i/de)
 
 #### § 10
 
@@ -152,17 +166,21 @@ beschliesst:
 - b. zur Reinvestition in bestehende und künftige Weiterbildungsangebote,
 - c. für Forschungsprojekte im Zusammenhang mit der Weiterbildung.
 
+<sup>2</sup> Ein Defizit verbleibt nach Auflösung allfällig verfügbarer Rücklagen in der Rechnung der Fakultät.
+
+## 4 Schluss- und Übergangsbestimmungen
+
 #### § 11
 
 **Rechtspflege**
 
 <sup>1</sup> Gegen Verfügungen im Zusammenhang mit diesem Reglement kann nach den Bestimmungen des Verwaltungspflegegesetzes[^11-1] innert 30 Tagen beim Bildungs- und Kulturdepartement des Kantons Luzern schriftlich und begründet Beschwerde geführt werden.
 
-<sup>2</sup> Der restliche Ertragsüberschuss wird in der Rechnung der Fakultät ausgewiesen.
+<sup>2</sup> …
 
-<sup>3</sup> Ein Defizit verbleibt nach Auflösung allfällig verfügbarer Rücklagen in der Rechnung der Fakultät.
+<sup>3</sup> …
 
-<sup>4</sup> Mit externen Kooperationspartnern können abweichende Vereinbarungen getroffen werden.
+<sup>4</sup> …
 
 [^11-1]: SRL Nr. [40](https://srl.lu.ch/data/40/de)
 
