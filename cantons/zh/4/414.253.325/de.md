@@ -3,11 +3,11 @@ canton: ZH
 number: "414.253.325"
 title: "Studienordnung für den Masterstudiengang Real Estate & Facility Management an der Zürcher Hochschule für Angewandte Wissenschaften"
 language: de
-version: "2023-01-01"
-nachtrag: "119"
-valid_until: 2024-08-01
+version: "2024-08-01"
+nachtrag: "125"
+valid_until: 2025-01-24
 adopted: 2021-05-05
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_325-2021_05_05-2021_11_01-119.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_325-2021_05_05-2021_11_01-125.html"
 text: pdf
 ---
 
@@ -79,21 +79,21 @@ Die Module werden in deutscher oder englischer Sprache durchgeführt.
 
 **1**
 
-- 1\. 1. 23 - 119
+- 1\. 7. 24 - 125
 
 ### B. Zulassung zum Studium
 
-#### § 7
-
 **Voraussetzungen**
 
-Zum Masterstudium wird zugelassen, wer über einen Bachelorabschluss von 180 ECTS-Credits oder über einen gleichwertigen Hochschulabschluss im Fachbereich Facility Management, Immobilienmanagement oder Betriebsökonomie oder in einem verwandten Gebiet verfügt sowie die Eignungsabklärung besteht.
+§ 7.[^hBZulassungzumStu-1] Zum Masterstudium wird zugelassen, wer über einen Bachelorabschluss von 180 ECTS-Credits oder über einen gleichwertigen Hochschulabschluss im Fachbereich Facility Management, Immobilienmanagement oder Betriebsökonomie oder in einem verwandten Gebiet verfügt und mindestens die Abschlussnote 4,75 gemäss Schweizer Notensystem (6–1) erreicht hat. Die Studiengangleitung entscheidet über die Gleichwertigkeit der Abschlussnote ausländischer Abschlüsse.
+
+[^hBZulassungzumStu-1]: Fassung gemäss B vom 7. September 2023 (OS 79, 23; ABl 2023-12-01). In Kraft seit 1. August 2024.
 
 #### § 8
 
 **Eignungsabklärung a. Allgemein**
 
-<sup>1</sup> Die ZHAW führt für Bewerberinnen und Bewerber, welche die Zulassungsvoraussetzungen gemäss § 7 erfüllen, ein Verfahren zur Eignungsabklärung durch.
+<sup>1</sup> Bewerberinnen und Bewerber mit einem Bachelorabschluss oder einem gleichwertigen Hochschulabschluss in den Fachbereichen gemäss § 7, deren Abschlussnote weniger als 4,75 beträgt, müssen eine Eignungsabklärung absolvieren.[^hBZulassungzumStu-1]
 
 <sup>2</sup> In der Eignungsabklärung werden folgende Fähigkeiten überprüft:
 
@@ -145,6 +145,14 @@ Für Bewerberinnen und Bewerber, welche die Zulassungsbedingungen nicht vollstä
 
 <sup>2</sup> Eine erfolgreiche Nachbesserung wird mit der Note 4,0 oder dem Prädikat «bestanden» bewertet.
 
+**Nachprüfung**
+
+§ 12 a.[^12-1] <sup>1</sup> Für andere Formen von Leistungsnachweisen als schriftliche Arbeiten kann eine einmalige Nachprüfung angeboten werden, wenn a. der Leistungsnachweis mit einer Note zwischen 3,5 und 3,9 oder mit dem Prädikat «nicht bestanden (Nachprüfung möglich)» bewertet wurde und b. die Modulbeschreibung die Möglichkeit einer Nachprüfung vorsieht.
+
+<sup>2</sup> Eine erfolgreiche Nachprüfung wird mit der Note 4,0 oder dem Prädikat «bestanden» bewertet.
+
+[^12-1]: Eingefügt durch B vom 7. September 2023 (OS 79, 23; ABl 2023-12-01). In Kraft seit 1. August 2024.
+
 #### § 13
 
 **Wiederholung**
@@ -171,6 +179,10 @@ Wer ein Modul nicht besteht, muss alle Leistungsnachweise des Moduls wiederholen
 
 - b. die Masterarbeit bestanden ist.
 
+**3**
+
+- 1\. 7. 24 - 125
+
 **Abschlussnote**
 
 - 16\. <sup>1</sup> Die Abschlussnote errechnet sich aus dem Durchschnitt der Modulnoten aller besuchten oder angerechneten Pflicht- und Wahlpflichtmodule gemäss Anhang.
@@ -180,10 +192,6 @@ Wer ein Modul nicht besteht, muss alle Leistungsnachweise des Moduls wiederholen
 **Titel**
 
 § 17.[^hDStudienabschluss-1] Der Masterstudiengang wird mit dem Titel «Master of Science ZHAW in Real Estate & Facility Management mit Vertiefung in [gewählten Vertiefungsrichtung]» abgeschlossen.
-
-**3**
-
-- 1\. 1. 23 - 119
 
 [^hDStudienabschluss-1]: Fassung gemäss B vom 2. Juni 2022 (OS 77, 500; ABl 2022-08-19). In Kraft seit 1. Januar 2023.
 
@@ -201,7 +209,11 @@ Diese Studienordnung ersetzt die Studienordnung für den Masterstudiengang Facil
 
 Studierende, die ihr Studium unter der Studienordnung vom 24. März 2011 aufgenommen und dieses bis Ende Herbstsemester 2022/ 2023 nicht abgeschlossen haben, werden in die Studienordnung vom 5. Mai 2021 überführt.
 
+[^19-1]: Fassung gemäss B vom 7. September 2023 (OS 79, 23; ABl 2023-12-01). In Kraft seit 1. August 2024.
+
 ### Anhang zur Studienordnung für den Masterstudiengang Real Estate & Facility Management an der Zürcher Hochschule für Angewandte Wissenschaften
+
+[^19-1]
 
 Der Anhang zur Studienordnung für den Masterstudiengang Real Estate & Facility Management an der Zürcher Hochschule für Angewandte Wissenschaften wird weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Er kann bei der
 
@@ -211,4 +223,4 @@ bezogen oder unter www.zhaw.ch eingesehen werden.
 
 **5**
 
-- 1\. 1. 23 - 119
+- 1\. 7. 24 - 125
