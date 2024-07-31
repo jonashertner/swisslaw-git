@@ -4,34 +4,36 @@ number: "415.405.1"
 title: Rahmenverordnung über die Bachelor- und Masterstudiengänge an der Theologischen und Religionswissenschaftlichen Fakultät der Universität Zürich (RVO TRF)
 short: RVO TRF
 language: de
-version: "2022-08-01"
-nachtrag: "117"
-valid_until: 2024-07-25
+version: "2024-08-01"
+nachtrag: "126"
 adopted: 2018-08-27
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_405_1-2018_08_27-2019_08_01-117.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_405_1-2018_08_27-2019_08_01-126.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Rahmenverordnung über die Bachelor- und Masterstudiengänge an der Theologischen Fakultät der Universität Zürich (RVO ThF)
+# Rahmenverordnung über die Bachelor- und Masterstudiengänge an der Theologischen und Religionswissenschaftlichen Fakultät der Universität Zürich (RVO TRF)
 
-(vom 27. August 2018)[^t-1],[^t-2]
+(vom 27. August 2018)[^t-2],[^t-3][^t-1]
 
 Der Universitätsrat beschliesst:
 
-[^t-1]: OS 73, 487; Begründung siehe ABl 2018-09-14.
-[^t-2]: Inkrafttreten: 1. August 2019.
+[^t-1]: Fassung gemäss URB vom 21. Mai 2024 (OS 79, 257; ABl 2024-06-07). In Kraft seit 1. August 2024.
+[^t-2]: OS 73, 487; Begründung siehe ABl 2018-09-14.
+[^t-3]: Inkrafttreten: 1. August 2019.
 
 ### 1. Abschnitt: Allgemeine Bestimmungen
 
 ### A. Gegenstand und Geltungsbereich
 
+[^hAGegenstandundGe-1]: Fassung gemäss URB vom 21. Mai 2024 (OS 79, 257; ABl 2024-06-07). In Kraft seit 1. August 2024.
+
 #### § 1
 
 **Geltungsbereich**
 
-<sup>1</sup> Diese Rahmenverordnung regelt das Bachelor- und Masterstudium an der Theologischen Fakultät der Universität Zürich (UZH).
+<sup>1</sup> Diese Rahmenverordnung regelt das Bachelor- und Masterstudium an der Theologischen und Religionswissenschaftlichen Fakultät der Universität Zürich (UZH).[^hAGegenstandundGe-1]
 
 <sup>2</sup> Fakultätsübergreifende Studiengänge sowie hochschulübergreifende Double- und Joint-Degree-Studiengänge werden in separaten Rahmenverordnungen geregelt.
 
@@ -51,21 +53,23 @@ Einzelheiten werden in den Studienordnungen geregelt.
 
 <sup>2</sup> In allen anderen Bereichen gelten die Bestimmungen der das jeweilige Modul oder das jeweilige Minor-Studienprogramm anbietenden Fakultät.
 
+[^3-1]: Fassung gemäss URB vom 21. Mai 2024 (OS 79, 257; ABl 2024-06-07). In Kraft seit 1. August 2024.
+
 #### § 4
 
 **Studienangebot**
 
-<sup>1</sup> Die Fakultät bietet folgende Bachelorstudiengänge im Umfang von 180 ECTS Credits an:
+<sup>1</sup> Die Fakultät bietet folgende Bachelorstudiengänge im Umfang von 180 ECTS Credits an:[^3-1] – Bachelor of Theology,
 
-- Bachelor of Theology,
+- Bachelor of Arts in Religionswissenschaft,
 
-- Bachelor of Arts in Religionswissenschaft.
+- Bachelor of Arts in Religious Studies and Theology.
 
 <sup>2</sup> Die Fakultät bietet auf Bachelorstufe Minor-Studienprogramme im Umfang von 60 und 30 ECTS Credits für Studierende anderer Fakultäten an.
 
 **1**
 
-- 1\. 7. 22 - 117
+1.10. 24 - 126
 
 <sup>3</sup> Die Fakultät bietet folgende Masterstudiengänge im Umfang von 120 ECTS Credits an:
 
@@ -79,15 +83,17 @@ Einzelheiten werden in den Studienordnungen geregelt.
 
 <sup>4</sup> Die Fakultät bietet auf Masterstufe Minor-Studienprogramme im Umfang von 30 ECTS Credits für Studierende anderer Fakultäten an.
 
+[^4-1]: Fassung gemäss URB vom 21. Mai 2024 (OS 79, 257; ABl 2024-06-07). In Kraft seit 1. August 2024.
+
 #### § 5
 
 **Bezeichnung der Abschlüsse**
 
-<sup>1</sup> Die Fakultät verleiht für einen erfolgreich abgeschlossenen Bachelorstudiengang die Grade mit folgenden Bezeichnungen:
+<sup>1</sup> Die Fakultät verleiht für einen erfolgreich abgeschlossenen Bachelorstudiengang die Grade mit folgenden Bezeichnungen:[^4-1] – Bachelor of Theology UZH,
 
-- Bachelor of Theology UZH,
+- Bachelor of Arts UZH in Religionswissenschaft,
 
-- Bachelor of Arts UZH in Religionswissenschaft.
+- Bachelor of Arts UZH in Religious Studies and Theology.
 
 <sup>2</sup> Die Fakultät verleiht für einen erfolgreich abgeschlossenen Masterstudiengang die Grade mit folgenden Bezeichnungen:
 
@@ -151,17 +157,17 @@ Für die Zulassung zu den Studiengängen ist die Verordnung über die Zulassung 
 
 <sup>3</sup> Die Gewährung rückwirkender Massnahmen ist ausgeschlossen.
 
-#### § 10
-
 **Sprache**
 
-<sup>1</sup> Die Sprache der Lehrveranstaltungen auf Bachelorstufe ist grundsätzlich Deutsch. Einzelne Lehrveranstaltungen können auf Englisch oder Französisch erfolgen.
+§ 10.[^9-1] <sup>1</sup> Die Sprache der Lehrveranstaltungen auf Bachelorstufe ist grundsätzlich Deutsch oder Englisch. Einzelne Lehrveranstaltungen können in anderen Sprachen erfolgen.
 
-<sup>2</sup> Die Sprache der Lehrveranstaltungen auf Masterstufe ist grundsätzlich Deutsch. Einzelne Veranstaltungen können auf Englisch oder Französisch erfolgen.
+<sup>2</sup> Die Sprache der Lehrveranstaltungen auf Masterstufe ist grundsätzlich Deutsch oder Englisch. Einzelne Veranstaltungen können in anderen Sprachen erfolgen.
 
 <sup>3</sup> Die Leistungsnachweise werden grundsätzlich in derjenigen Sprache durchgeführt und erbracht, in der die betreffenden Lehrveranstaltungen durchgeführt werden.
 
 <sup>4</sup> Für einzelne Module können bestimmte Sprachkenntnisse vorausgesetzt werden.
+
+[^9-1]: Fassung gemäss URB vom 21. Mai 2024 (OS 79, 257; ABl 2024-06-07). In Kraft seit 1. August 2024.
 
 #### § 11
 
@@ -171,17 +177,21 @@ Für die Zulassung zu den Studiengängen ist die Verordnung über die Zulassung 
 
 <sup>2</sup> Die Studierenden treten der UZH mit Einreichung einer Arbeit das Urheberrecht ab, soweit es für Verwaltungshandlungen wie Plagiatserkennung oder Archivierung notwendig ist.
 
+**3**
+
+1.10. 24 - 126
+
 <sup>3</sup> Die Studierenden sind verpflichtet, vor der Veröffentlichung einer Arbeit die Studiendekanin oder den Studiendekan zu informieren.
 
 <sup>4</sup> Die Studiendekanin oder der Studiendekan kann die Veröffentlichung mit Auflagen versehen.
 
-**3**
-
-- 1\. 7. 22 - 117 § 12. Studentische Arbeiten können zum Zweck der Überprüfung auf Plagiate unter Einsatz entsprechender Software bearbeitet werden. Zu diesem Zweck können geeignete Dienstleister im In- oder Ausland beauftragt werden.
+#### § 12
 
 **Plagiatskontrolle**
 
-§§ 13 und 14.[^11-1]
+Studentische Arbeiten können zum Zweck der Überprüfung auf Plagiate unter Einsatz entsprechender Software bearbeitet werden. Zu diesem Zweck können geeignete Dienstleister im In- oder Ausland beauftragt werden.
+
+§§ 13 und 14.[^12-1]
 
 **Informationspflicht**
 
@@ -189,7 +199,7 @@ Für die Zulassung zu den Studiengängen ist die Verordnung über die Zulassung 
 
 <sup>2</sup> Die Studierenden sind verpflichtet, sich über sämtliche studienrelevante Belange, insbesondere über die für sie geltenden Erlasse und Fristen, selbstständig zu informieren.
 
-[^11-1]: Aufgehoben durch URB vom 28. Februar 2022 (OS 77, 213; ABl 2022-03-18). In Kraft seit 1. August 2022.
+[^12-1]: Aufgehoben durch URB vom 28. Februar 2022 (OS 77, 213; ABl 2022-03-18). In Kraft seit 1. August 2022.
 
 ### 2. Abschnitt: Module und ECTS Credits
 
@@ -275,15 +285,11 @@ Die Studiendekanin oder der Studiendekan bestimmt für sämtliche Module Modulve
 
 <sup>2</sup> Leistungsnachweise können aus mehreren Teilen bestehen. Die Studienordnungen legen fest, ob bei Teilleistungsnachweisen eine Kompensationsmöglichkeit besteht.
 
-#### § 23
-
-**Organisation und Modalitäten der Leistungsnachweise**
-
-<sup>1</sup> Die Modalitäten der Erbringung eines bestimmten Leistungsnachweises werden für alle Studierenden einheitlich festgelegt. Die Studienordnungen können besondere Regelungen für bestimmte Kategorien von Studierenden vorsehen.
-
 **5**
 
-- 1\. 7. 22 - 117
+1.10. 24 - 126 § 23. <sup>1</sup> Die Modalitäten der Erbringung eines bestimmten Leistungsnachweises werden für alle Studierenden einheitlich festgelegt. Die Studienordnungen können besondere Regelungen für bestimmte Kategorien von Studierenden vorsehen.
+
+**Organisation und Modalitäten der Leistungsnachweise**
 
 <sup>2</sup> Bei Leistungsnachweisen in Form einer mündlichen Prüfung ist eine Beisitzerin oder ein Beisitzer anwesend, die oder der über einen Studienabschluss mindestens auf Masterstufe verfügt. Es ist ein Protokoll zu führen.
 
@@ -361,17 +367,17 @@ Die Studiendekanin oder der Studiendekan bestimmt für sämtliche Module Modulve
 
 <sup>4</sup> Zur Verhinderung unlauteren Verhaltens kann die Studienkommission vorgängig geeignete Massnahmen treffen.
 
-#### § 31
+**7**
+
+1.10. 24 - 126 § 31. Zur Sicherstellung der Geheimhaltung der Prüfungsfragen können die Herausgabe der Prüfungsunterlagen eingeschränkt oder verweigert, die Herstellung von Kopien oder Abschriften untersagt und die Dauer der Einsichtnahme beschränkt werden.
+
+#### § 32
 
 **Akteneinsicht in Prüfungsunterlagen**
 
-Zur Sicherstellung der Geheimhaltung der Prüfungsfragen können die Herausgabe der Prüfungsunterlagen eingeschränkt oder verweigert, die Herstellung von Kopien oder Abschriften untersagt und die Dauer der Einsichtnahme beschränkt werden.
-
-**7**
-
-- 1\. 7. 22 - 117 § 32. <sup>1</sup> Nach Abschluss eines Semesters werden die bestandenen und nicht bestandenen Module in einem Leistungsausweis dokumentiert. Studienleistungen, die nicht an der UZH erbracht worden sind, werden gekennzeichnet.
-
 **Leistungsausweis**
+
+<sup>1</sup> Nach Abschluss eines Semesters werden die bestandenen und nicht bestandenen Module in einem Leistungsausweis dokumentiert. Studienleistungen, die nicht an der UZH erbracht worden sind, werden gekennzeichnet.
 
 <sup>2</sup> Der Leistungsausweis wird in deutscher Sprache ausgestellt. Es wird eine englische Übersetzung abgegeben.
 
@@ -461,13 +467,17 @@ Die Masterstudiengänge vermitteln den Studierenden vertiefte fachliche Kenntnis
 
 - Major-Studienprogramm im Umfang von 90 ECTS Credits in Kombination mit einem Minor-Studienprogramm im Umfang von 30 ECTS Credits.
 
-<sup>3</sup> Die Studienordnungen legen das Angebot und die Kombinationsmöglichkeiten sowie die möglichen Schwerpunkte der Studienprogramme fest.
-
 **9**
 
-- 1\. 7. 22 - 117 § 42. <sup>1</sup> Während des Masterstudiengangs ist im Mono- oder Major-Studienprogramm eine Masterarbeit im Umfang von mindestens 20 bis höchstens 30 ECTS Credits zu verfassen. Die Masterarbeit gilt als Pflichtmodul und wird benotet.
+1.10. 24 - 126
+
+<sup>3</sup> Die Studienordnungen legen das Angebot und die Kombinationsmöglichkeiten sowie die möglichen Schwerpunkte der Studienprogramme fest.
+
+#### § 42
 
 **Masterarbeit**
+
+<sup>1</sup> Während des Masterstudiengangs ist im Mono- oder Major-Studienprogramm eine Masterarbeit im Umfang von mindestens 20 bis höchstens 30 ECTS Credits zu verfassen. Die Masterarbeit gilt als Pflichtmodul und wird benotet.
 
 <sup>2</sup> Die Masterarbeit ist in deutscher oder englischer Sprache zu verfassen. Die Studienordnungen können Ausnahmen vorsehen.
 
@@ -543,19 +553,21 @@ Gleiche oder inhaltlich ähnliche Module bzw. Studienleistungen können nicht me
 
 <sup>2</sup> Die Anmeldung zum Studienabschluss kann frühestens für dasjenige Semester vorgenommen werden, nach dessen Ende alle gemäss Rahmenverordnung und Studienordnungen erforderlichen Voraussetzungen erfüllt sind.
 
-#### § 49
+**11**
+
+1.10. 24 - 126 § 49. <sup>1</sup> Der Bachelorgrad wird durch die Fakultät verliehen, wenn nach Massgabe der Rahmenverordnung und der Studienordnungen 180 ECTS Credits erworben worden sind. Davon muss mindestens die Hälfte der für das Major-Studienprogramm bzw. Mono-Studienprogramm erforderlichen Studienleistungen (in ECTS Credits) an der Theologischen und Religionswissenschaftlichen Fakultät der UZH erbracht worden sein.[^48-1]
 
 **Verleihung des Bachelorgrades**
 
-<sup>1</sup> Der Bachelorgrad wird durch die Fakultät verliehen, wenn nach Massgabe der Rahmenverordnung und der Studienordnungen 180 ECTS Credits erworben worden sind. Davon muss mindestens die Hälfte der für das Major-Studienprogramm bzw. Mono-Studienprogramm erforderlichen Studienleistungen (in ECTS Credits) an der Theologischen Fakultät der UZH erbracht worden sein.
-
 <sup>2</sup> Die Verleihung des Grades erfolgt durch die Aushändigung der unterzeichneten Diplomurkunde.
 
-**11**
+[^48-1]: Fassung gemäss URB vom 21. Mai 2024 (OS 79, 257; ABl 2024-06-07). In Kraft seit 1. August 2024.
 
-- 1\. 7. 22 - 117 § 50. <sup>1</sup> Der Mastergrad wird durch die Fakultät verliehen, wenn nach Massgabe der Rahmenverordnung und der Studienordnungen 120 ECTS Credits erworben worden sind. Davon muss mindestens die Hälfte der für das Major-Studienprogramm bzw. Mono-Studienprogramm erforderlichen Studienleistungen (in ECTS Credits) an der Theologischen Fakultät der UZH erbracht worden sein.
+#### § 50
 
 **Verleihung des Mastergrades**
+
+<sup>1</sup> Der Mastergrad wird durch die Fakultät verliehen, wenn nach Massgabe der Rahmenverordnung und der Studienordnungen 120 ECTS Credits erworben worden sind. Davon muss mindestens die Hälfte der für das Major-Studienprogramm bzw. Mono-Studienprogramm erforderlichen Studienleistungen (in ECTS Credits) an der Theologischen und Religionswissenschaftlichen Fakultät der UZH erbracht worden sein.[^48-1]
 
 <sup>2</sup> Die Verleihung des Grades erfolgt durch die Aushändigung der unterzeichneten Diplomurkunde.
 
@@ -617,6 +629,10 @@ Das Diploma Supplement ist eine standardisierte Erläuterung des Studienabschlus
 
 <sup>2</sup> Für den Rekurs zuständig ist die Rekurskommission der Zürcher Hochschulen.
 
+**13**
+
+1.10. 24 - 126
+
 ### 6. Abschnitt: Übergangsbestimmungen
 
 #### § 58
@@ -628,10 +644,6 @@ Das Diploma Supplement ist eine standardisierte Erläuterung des Studienabschlus
 - a. Die Studierenden werden dieser Rahmenverordnung unterstellt und in Studienprogramme gemäss dieser Rahmenverordnung überführt.
 
 - b. Ist eine Überführung in ein Studienprogramm gemäss dieser Rahmenverordnung zugunsten der Studierenden nicht möglich, so vereinbart das Dekanat mit den Studierenden in allgemeiner Form oder in individuellen Studienvereinbarungen den weiteren Verlauf des Studiums. Dabei gelten die in den Studienordnungen festgelegten Zeiträume und Fristen.
-
-**13**
-
-- 1\. 7. 22 - 117
 
 - c. Alle bereits absolvierten und anrechenbaren Leistungen werden unter Vorbehalt von § 45 angerechnet. Die noch zu erbringenden Leistungen werden für die Studierenden in allgemeiner Form bekannt gegeben oder in besonderen Fällen mit den Studierenden vereinbart.
 
