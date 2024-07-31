@@ -4,13 +4,13 @@ number: "436.911"
 title: Verordnung über die deutschsprachige Pädagogische Hochschule
 short: PHV
 language: de
-version: 2023-01-01
-valid_until: 2024-07-31
-version_adopted: 2022-11-16
+version: 2024-08-01
+valid_until: 2025-12-31
+version_adopted: 2024-05-22
 adopted: 2022-11-16
 in_force: 2023-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/436.911"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2724/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3037/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2724/pdf_file"
 
 (PHV)
 
-vom 16.11.2022 (Stand 01.01.2023)
+vom 16.11.2022 (Stand 01.08.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -267,6 +267,14 @@ beschliesst:
 <sup>1</sup> Der Schulrat regelt durch Reglement die Voraussetzungen, welche die Mitarbeiterinnen und Mitarbeiter der Pädagogischen Hochschule erfüllen müssen, um die Funktionsbezeichnung Professorin oder Professor führen zu dürfen. Das Reglement wird der Bildungs- und Kulturdirektion zur Kenntnis gebracht.
 
 <sup>2</sup> Das Recht, die Funktionsbezeichnung Professorin oder Professor zu führen, erlischt bei Aufgabe der Tätigkeit an der Pädagogischen Hochschule.
+
+#### Art. 24a
+
+**Meldestelle Missstände**
+
+<sup>1</sup> Die Finanzkontrolle ist Meldestelle für die Mitarbeiterinnen und Mitarbeiter über Missstände an der Pädagogischen Hochschule.
+
+<sup>2</sup> Das Melderecht bei Missständen und der Schutz von Mitarbeiterinnen und Mitarbeitern richtet sich nach Artikel 50a PG.
 
 ### 3.2 Dozentinnen und Dozenten
 
@@ -871,7 +879,9 @@ beschliesst:
 
 <sup>1</sup> Die Studiengebühr beträgt 750 Franken pro Semester.
 
-<sup>2</sup> Ausländische Studierende ohne Niederlassungsbewilligung zum Zeitpunkt der Aufnahme des Studiums bezahlen eine kostendeckende Studiengebühr, die sich nach dem Tarif der Interkantonalen Fachhochschulvereinbarung ab 2005 (FHV) vom 12. Juni 2003[^79-1] richtet; vorbehalten bleibt Absatz 3. Sobald eine Niederlassungsbewilligung vorliegt, wird ab dem darauffolgenden Semester die Gebühr gemäss Absatz 1 erhoben.
+<sup>1a</sup> Ausserkantonale Studierende, deren Wohnsitzkanton keine Studiengebühren gemäss der Interkantonalen Fachhochschulvereinbarung ab 2005 (FHV) vom 12. Juni 2003[^79-1] übernimmt, bezahlen eine kostendeckende Studiengebühr.
+
+<sup>2</sup> Ausländische Studierende ohne Niederlassungsbewilligung zum Zeitpunkt der Aufnahme des Studiums bezahlen eine kostendeckende Studiengebühr; vorbehalten bleibt Absatz 3. Sobald eine Niederlassungsbewilligung vorliegt, wird ab dem darauffolgenden Semester die Gebühr gemäss Absatz 1 erhoben.
 
 <sup>3</sup> Ausländische Studierende, die einen Studiengang belegen, dessen Abschluss ausschliesslich zum Unterrichten an Schulen in der Schweiz berechtigt, bezahlen die Gebühr gemäss Absatz 1.
 
@@ -1034,6 +1044,14 @@ beschliesst:
 **Inkrafttreten**
 
 <sup>1</sup> Diese Verordnung tritt am 1. Januar 2023 in Kraft.
+
+## T1 Übergangsbestimmung der Änderung vom 22.05.2024
+
+#### Art. T1-1
+
+**Studiengebühren für ausserkantonale Studierende**
+
+<sup>1</sup> Von ausserkantonalen Studierenden, die ihr Studium vor dem Inkrafttreten dieser Änderung aufgenommen haben und deren Wohnsitzkanton keine Studiengebühren gemäss FHV übernimmt, wird die Studiengebühr nach bisherigem Recht erhoben.
 
 Bern, 16. November 2022
 

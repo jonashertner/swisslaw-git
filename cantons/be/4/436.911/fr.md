@@ -4,13 +4,13 @@ number: "436.911"
 title: Ordonnance sur la Haute école pédagogique germanophone
 short: OHEP
 language: fr
-version: 2023-01-01
-valid_until: 2024-07-31
-version_adopted: 2022-11-16
+version: 2024-08-01
+valid_until: 2025-12-31
+version_adopted: 2024-05-22
 adopted: 2022-11-16
 in_force: 2023-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/436.911"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2724/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3037/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2724/pdf_file"
 
 (OHEP)
 
-du 16.11.2022 (état au 01.01.2023)
+du 16.11.2022 (état au 01.08.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -267,6 +267,14 @@ arrête:
 <sup>1</sup> Le conseil de l'école fixe, par voie de règlement, les conditions que les collaboratrices et les collaborateurs de la Haute école pédagogique doivent remplir pour avoir le droit d'être appelés professeure ou professeur. Le règlement est porté à la connaissance de la Direction de l'instruction publique et de la culture.
 
 <sup>2</sup> Le droit d'être appelée professeure ou professeur s'éteint à la cessation de l'activité dans la Haute école pédagogique.
+
+#### Art. 24a
+
+**Enregistrement d'irrégularités**
+
+<sup>1</sup> Le Contrôle des finances enregistre les irrégularités qui lui sont signalées par les collaboratrices et les collaborateurs de la Haute école pédagogique.
+
+<sup>2</sup> Le droit de signaler les irrégularités et la protection des collaboratrices et des collaborateurs sont régis par l'article 50a LPers.
 
 ### 3.2 Enseignantes et enseignants
 
@@ -871,7 +879,9 @@ arrête:
 
 <sup>1</sup> La taxe d'études s'élève à 750 francs par semestre.
 
-<sup>2</sup> Les étudiantes étrangères et les étudiants étrangers non titulaires d'un permis d’établissement au moment de l'admission aux études s'acquittent d'une taxe couvrant les coûts au tarif de l'accord intercantonal du 12 juin 2003 sur les hautes écoles spécialisées à partir de 2005 (AHES)[^79-1]; l'alinéa 3 est réservé. Une fois en possession d'un permis d'établissement, ces personnes s'acquittent de la taxe d'études prévue à l'alinéa 1 à partir du semestre qui suit l'obtention du permis.
+<sup>1a</sup> Les étudiantes et les étudiants extra-cantonaux dont le canton de domicile ne prend pas en charge les taxes d'études en vertu de l'accord intercantonal du 12 juin 2003 sur les hautes écoles spécialisées à partir de 2005 (AHES)[^79-1] s'acquittent d'une taxe d'études couvrant les coûts.
+
+<sup>2</sup> Les étudiantes étrangères et les étudiants étrangers non titulaires d'un permis d’établissement au moment de l'admission aux études s'acquittent d'une taxe d'études couvrant les coûts; l'alinéa 3 est réservé. Une fois en possession d'un permis d'établissement, elles et ils s'acquittent de la taxe d'études prévue à l'alinéa 1 à partir du semestre qui suit l'obtention du permis.
 
 <sup>3</sup> Les étudiantes étrangères et les étudiants étrangers inscrits dans une filière d'études dont le diplôme leur permet d'enseigner uniquement dans les écoles en Suisse s'acquittent de la taxe prévue à l'alinéa 1.
 
@@ -1034,6 +1044,14 @@ arrête:
 **Entrée en vigueur**
 
 <sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2023.
+
+## T1 Disposition transitoire de la modification du 22.05.2024
+
+#### Art. T1-1
+
+**Taxes d'études perçues auprès des étudiantes et des étudiants extra-cantonaux**
+
+<sup>1</sup> Sont prélevées selon l'ancien droit les taxes d'études perçues auprès des étudiantes et des étudiants extra-cantonaux qui ont commencé leurs études avant l'entrée en vigueur de la présente modification et dont le canton de domicile ne prend pas en charge les taxes d'études en vertu de l'AHES.
 
 Berne, le 16 novembre 2022
 
