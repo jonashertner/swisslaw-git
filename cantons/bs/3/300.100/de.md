@@ -4,13 +4,13 @@ number: "300.100"
 title: Gesundheitsgesetz
 short: GesG
 language: de
-version: 2024-07-01
-valid_until: 2024-07-31
-version_adopted: 2024-04-10
+version: 2024-08-01
+valid_until: 2024-12-31
+version_adopted: 2024-06-05
 adopted: 2011-09-21
 in_force: 2012-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/300.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6319/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6372/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Gesundheitsgesetz | Gesundheit
 
 (GesG)
 
-Vom 21. September 2011 (Stand 1. Juli 2024)
+Vom 21. September 2011 (Stand 1. August 2024)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -714,6 +714,45 @@ beschliesst:
 - g) Daten zur Erstbehandlung.
 
 <sup>3</sup> Die Bekanntgabe der Daten gemäss Abs. 2 setzt voraus, dass die betroffene Person am Früherkennungsprogramm teilgenommen und in eine Bekanntgabe ausdrücklich eingewilligt hat.
+
+### VII.10<sup>bis</sup>. Ausbildung im Bereich der Pflege
+
+#### § 60a
+
+**Förderung der Ausbildung[^60a-1]**
+
+<sup>1</sup> Der Kanton fördert die Ausbildung im Bereich der Pflege.
+
+<sup>2</sup> Er sorgt in Zusammenarbeit mit den Akteuren im Bereich der praktischen Ausbildung von Pflegefachpersonen (Organisationen, die Pflegefachpersonen beschäftigen, Spitäler und Pflegeheime) für die Bereitstellung von genügend Plätzen für die praktische Ausbildung zur Pflegefachfrau oder zum Pflegefachmann HF und zur Pflegefachfrau oder zum Pflegefachmann FH sowie zur Fachfrau oder zum Fachmann Gesundheit EFZ.
+
+<sup>3</sup> Er bestimmt für die Akteure im Bereich der praktischen Ausbildung von Pflegefachpersonen die anrechenbaren Leistungen. Er berücksichtigt dabei das Ergebnis der Berechnung der Ausbildungskapazitäten der Akteure im Bereich der praktischen Ausbildung von Pflegefachpersonen und das von ihnen erstellte Ausbildungskonzept.
+
+<sup>4</sup> Er gewährt den Akteuren im Bereich der praktischen Ausbildung von Pflegefachpersonen Beiträge für ihre Leistungen in der praktischen Ausbildung.
+
+<sup>5</sup> Er fördert eine bedarfsgerechte Erhöhung der Anzahl Ausbildungsabschlüsse in der Pflege an der höheren Fachschule. Zu diesem Zweck gewährt er der höheren Fachschule Beiträge.
+
+<sup>6</sup> Er gewährt Personen mit Wohnsitz im oder Anknüpfungspunkt an den Kanton zur Sicherung ihres Lebensunterhalts Ausbildungsbeiträge für die Ausbildung in Pflege HF oder in Pflege FH.
+
+<sup>7</sup> Er kann weitere Ausbildungen im Bereich der Pflege fördern, sofern hierfür ein ausgewiesener Bedarf besteht.
+
+<sup>8</sup> Der Regierungsrat regelt die Einzelheiten. Er erlässt insbesondere Vorschriften über die Zuständigkeiten, die Voraussetzungen und den Umfang der Beiträge sowie das Verfahren für deren Vergabe.
+
+[^60a-1]: §§ 60a und 60b gelten befristet bis 30. Juni 2032 (KB 08.06.2024)
+
+#### § 60b
+
+**Ausbildungspflicht[^60b-1]**
+
+<sup>1</sup> Die Akteure im Bereich der praktischen Ausbildung von Pflegefachpersonen sind verpflichtet, entsprechend ihren betrieblichen Möglichkeiten Plätze für die praktische Ausbildung zur Pflegefachfrau oder zum Pflegefachmann HF und zur Pflegefachfrau oder zum Pflegefachmann FH sowie zur Fachfrau oder zum Fachmann Gesundheit EFZ anzubieten.
+
+<sup>2</sup> Liegt die erbrachte Ausbildungsleistung der Akteure im Bereich der praktischen Ausbildung von Pflegefachpersonen unter der festgelegten Ausbildungsleistung, haben diese eine Ausgleichszahlung zu leisten. Die Höhe der Ausgleichszahlung bestimmt sich nach Massgabe der nicht erbrachten Ausbildungsleistung und entspricht höchstens dem dreifachen Betrag der Beiträge für praktische Ausbildungsleistungen gemäss § 60a Abs. 4, welche der Kanton bei der Erfüllung der Ausbildungspflicht leisten würde.
+
+<sup>3</sup> Der Regierungsrat regelt die Einzelheiten. Er erlässt insbesondere Vorschriften über:
+
+- a) Umfang und Modalitäten der Ausbildungspflicht sowie deren Ausnahmen;
+- b) Bemessung und Verwendung der Ausgleichszahlungen sowie Ausnahmen von der Pflicht zur Leistung einer Ausgleichszahlung.
+
+[^60b-1]: §§ 60a und 60b gelten befristet bis zum 30. Juni 2032 (KB 08.06.2024)
 
 ### VII.11. Auflagen und Bedingungen
 
