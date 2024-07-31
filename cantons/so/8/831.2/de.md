@@ -4,13 +4,13 @@ number: "831.2"
 title: Sozialverordnung
 short: SV
 language: de
-version: 2024-07-01
-valid_until: 2024-07-31
-version_adopted: 2024-06-18
+version: 2024-08-01
+valid_until: 2024-12-31
+version_adopted: 2024-06-11
 adopted: 2007-10-29
 in_force: 2008-01-01
 url: "https://bgs.so.ch/app/de/texts_of_law/831.2"
-pdf: "https://bgs.so.ch/api/de/versions/5460/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5461/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5460/pdf_file"
 
 (SV)
 
-Vom 29.10.2007 (Stand 01.07.2024)
+Vom 29.10.2007 (Stand 01.08.2024)
 
 Der Regierungsrat des Kantons Solothurn
 
@@ -914,6 +914,78 @@ beschliesst:
 
 ### 4.1. Familie, Kinder, Jugend und Alter
 
+#### § 79bis
+
+**Sprachstanderhebung, § 106<sup>bis</sup><sup>bis</sup> SG**
+
+<sup>1</sup> Die Einwohnergemeinden erheben im Hinblick auf eine mögliche Inanspruchnahme eines Angebots der frühen Sprachförderung jährlich in standardisierter Form die Deutschkenntnisse aller in der jeweiligen Einwohnergemeinde wohnhaften Kinder im betreffenden Alter. Die Sprachstanderhebung hat 18 Monate vor deren Einschulung mittels eines durch den Kanton zur Verfügung gestellten Fragebogens zu erfolgen.
+
+<sup>2</sup> Bei den während oder nach der regulären Durchführung der Sprachstanderhebung neu zugezogenen Kindern können die Einwohnergemeinden ebenfalls eine Sprachstanderhebung gemäss Absatz 1 durchführen, sofern die Kinder nicht älter als 48 Monate sind und die für die Nacherfassung festgelegte Frist nicht abgelaufen ist.
+
+<sup>3</sup> Die durch den Kanton mit der Auswertung der Fragebögen beauftragte externe Stelle stellt den Einwohnergemeinden die auszufüllenden Fragebögen zur Verfügung. Sie werden den Erziehungsberechtigten durch die Einwohnergemeinden zum Ausfüllen übermittelt. Die ausgefüllten Fragebögen werden der externen Stelle durch die Erziehungsberechtigten oder die Einwohnergemeinden zur Auswertung in pseudonymisierter Form zugestellt. Die Ergebnisse werden den Einwohnergemeinden übermittelt.
+
+<sup>4</sup> Ergibt die Auswertung einen Bedarf an Sprachförderung, empfehlen oder, sofern das selektive Obligatorium eingeführt worden ist, verfügen die Einwohnergemeinden den Besuch eines Angebots der frühen Sprachförderung. Der für die Beurteilung des Sprachförderbedarfs massgebende Wert wird durch den Kanton gestützt auf die fachliche Empfehlung der mit der Auswertung beauftragten Stelle vorgegeben.
+
+<sup>5</sup> Die Einwohnergemeinden bezeichnen eine kommunale Stelle, die für die Abwicklung der Sprachstanderhebungen und die damit verbundenen Aufgaben zuständig ist. In Fällen, in denen der Besuch eines Angebots der frühen Sprachförderung durch Verfügung angeordnet worden ist, überprüft sie zudem deren Einhaltung.
+
+<sup>6</sup> Die Kosten für den Fragebogen sowie dessen Auswertung werden vollumfänglich durch den Kanton getragen, sofern die Kinder nicht älter als 48 Monate sind und die für die Nacherfassung festgelegte Frist nicht abgelaufen ist.
+
+#### § 79ter
+
+**Zugriffsberechtigung und Aufbewahrung, § 106<sup>bis</sup><sup>bis</sup> SG**
+
+<sup>1</sup> Der Zugriff auf die im Rahmen der Sprachstanderhebung bearbeiteten Daten ist auf die durch die Einwohnergemeinde gemäss § 79<sup>bis</sup> Absatz 5 bezeichnete Stelle zu begrenzen.
+
+<sup>2</sup> Die im Rahmen der Sprachstanderhebung bearbeiteten Daten dürfen ausschliesslich zu folgenden Zwecken verwendet werden:
+
+- a) Abklärung des Sprachförderbedarfs;
+- b) Überprüfung der Einhaltung eines verfügten Angebotsbesuchs;
+- c) Evaluation durch den Kanton.
+
+<sup>3</sup> Sämtliche im Zusammenhang mit der Sprachstanderhebung bearbeiteten Daten sind nach drei Jahren seit deren Auswertung zu vernichten.
+
+#### § 79quater
+
+**Evaluation, § 106<sup>bis</sup><sup>bis</sup> SG**
+
+<sup>1</sup> Die Evaluation bezieht sich namentlich auf die Wirksamkeit des eingeführten Modells der frühen Sprachförderung. Evaluiert werden insbesondere die spezifischen kantonalen und kommunalen Rahmenbedingungen, die Aufgabenteilung und die konkrete Umsetzung der frühen Sprachförderung.
+
+<sup>2</sup> Die Einwohnergemeinden haben dem Kanton die für die Evaluation notwendigen Daten rechtzeitig zu übermitteln und an dieser bei Bedarf mitzuwirken.
+
+<sup>3</sup> Der Regierungsrat kann Dritte mit der Durchführung der Evaluation sowie der Erstellung des Evaluationsberichts beauftragen und das Departement zum Abschluss der entsprechenden Leistungsvereinbarung ermächtigen. Der Evaluationsbericht ist zu veröffentlichen.
+
+#### § 79quinquies
+
+**Beteiligung an den Qualitätsentwicklungskosten, § 106<sup>ter</sup> SG**
+
+<sup>1</sup> Für die Qualitätsentwicklung stellt der Kanton pro Einwohner oder Einwohnerin jährlich mindestens 50 Rappen der vom Bund gewährten Mittel zur Verfügung. Diese sollen wie folgt aufgeteilt werden:
+
+- a) maximal 90 Prozent der zur Verfügung stehenden Mittel für Massnahmen und Projekte, die zur Erhöhung der Qualität der Angebote der frühen Sprachförderung beitragen sowie für solche, welche deren Bedarfsgerechtigkeit und Zugänglichkeit optimieren sollen;
+- b) maximal 30 Prozent der zur Verfügung stehenden Mittel für Massnahmen und Projekte zur Optimierung der Durchführung der Sprachstanderhebung sowie für solche, die der Vernetzung und Förderung des Austauschs zentraler Akteure im Bereich der frühen Sprachförderung dienen sollen.
+
+<sup>2</sup> Eine Kostenbeteiligung erfolgt für Massnahmen und Projekte, welche die Voraussetzungen gemäss Absatz 3 erfüllen und massgeblich dazu beitragen:
+
+- a) die Durchführung der Sprachstanderhebung zu optimieren,
+- b) die Bedarfsgerechtigkeit und Zugänglichkeit der Angebote der frühen Sprachförderung zu verbessern,
+- c) die Struktur-, Prozess- und Orientierungsqualität der Angebote der frühen Sprachföderung zu erhöhen oder
+- d) die Vernetzung und den Austausch mit zentralen Akteuren der frühen Sprachförderung zu fördern.
+
+<sup>3</sup> Im Bereich der frühen Sprachförderung gewährt der Kanton Einwohnergemeinden, Anbietenden von Sprachförderangeboten und anderen in diesem Bereich tätigen Akteuren auf Gesuch hin Beiträge an die Qualitätsentwicklungskosten, sofern die nachfolgenden Voraussetzungen erfüllt sind:
+
+- a) Die pro Zielbereich jeweils zur Verfügung stehenden finanziellen Mittel sind nicht ausgeschöpft.
+- b) Die Massnahme oder das Projekt:
+  - 1\. trägt mindestens zu einem der Ziele nach Absatz 2 bei;
+  - 2\. ist politisch und konfessionell neutral sowie nichtdiskriminierend ausgestaltet;
+  - 3\. wirkt sich direkt oder indirekt für die im Kanton Solothurn wohnhaften Kinder im Vorschulalter aus.
+- c) Die durchführende Institution darf mit der Massnahme oder dem Projekt keine kommerziellen Absichten verfolgen.
+- d) Es werden die übrigen Anforderungen gemäss kantonaler Richtlinie erfüllt.
+
+<sup>4</sup> Die Gewährung von Beiträgen an Einwohnergemeinden setzt überdies voraus, dass diese eine angemessene Eigenbeteiligung nachweisen.
+
+<sup>5</sup> In begründeten Ausnahmefällen können auch Beiträge an Massnahmen und Projekte ausgerichtet werden, wenn die Voraussetzungen gemäss Absatz 3 nur teilweise erfüllt sind.
+
+<sup>6</sup> Das Departement regelt sowohl die Kriterien für die Festlegung der Höhe der Beteiligung als auch die Einzelheiten zur Gesuchsabwicklung, insbesondere das Verfahren zur Gesuchseinreichung und die einzureichenden Unterlagen, in einer Richtlinie. Es besteht kein Rechtsanspruch auf eine bestimmte Höhe der gewährten Beiträge. Sie werden in der Regel nur einmal pro Kalenderjahr gewährt und für maximal ein Jahr zugesprochen.
+
 #### § 80
 
 **Pflegekinder, § 110 SG**
@@ -1057,17 +1129,18 @@ beschliesst:
 
 #### § 91ter
 
-**Daten zur Abrechnung ambulanter Pflegeleistungen**
+**Daten zur Abrechnung ambulanter und stationärer Pflegeleistungen**
 
-<sup>1</sup> Die ambulanten Dienstleister stellen beim Einreichen der Abrechnungen über erbrachte Pflegeleistungen folgende Daten über die gepflegten Personen zu:
+<sup>1</sup> Ambulante Dienstleister und Heime stellen beim Einreichen der Abrechnungen über erbrachte Pflegeleistungen folgende Daten über die gepflegten Personen zu:
 
 - a) Name und Vorname;
 - a<sup>bis</sup>) Geburtsdatum;
+- a<sup>ter</sup>) Geschlecht;
 - b) Adresse am zivilrechtlichen Wohnsitz;
 - c) AHV-Nummer;
-- d) Anzahl verrechnete Stunden pro Leistungskategorie gemäss Verordnung des EDI über Leistungen in der obligatorischen Krankenpflegeversicherung (Krankenpflege-Leistungsverordnung, KLV) vom 29. September 1995[^91ter-1].
+- d) die Anzahl verrechnete Stunden pro Leistungskategorie gemäss Verordnung des EDI über Leistungen in der obligatorischen Krankenpflegeversicherung (Krankenpflege-Leistungsverordnung, KLV) vom 29. September 1995[^91ter-1] bei ambulanten Pflegeleistungen und die Anzahl Pflegetage unter Angabe der Pflegebedarfsstufe gemäss KLV bei stationären Pflegeleistungen.
 
-<sup>2</sup> Wurden für verrechnete Leistungen gemäss KLV vonseiten der Krankenversicherer keine Beiträge ausgerichtet, sind diese in der nächstmöglichen Abrechnung gegenüber dem Departement zu deklarieren. Dieses kann Kontrollen durchführen.
+<sup>2</sup> Wurden für verrechnete Leistungen gemäss KLV vonseiten der Krankenversicherer keine Beiträge ausgerichtet, sind diese spätestens in der nächstmöglichen Abrechnung gegenüber dem Departement zu deklarieren, damit dieses die bereits bezahlten Beiträge zurückverlangen oder mit künftigen Beiträgen verrechnen kann. Das Departement kann entsprechende Kontrollen durchführen.
 
 [^91ter-1]: SR [832.112.31](https://db.clex.ch/link/Bund/832.112.31/de).
 
@@ -1079,8 +1152,10 @@ beschliesst:
 
 - a) Name und Vorname;
 - a<sup>bis</sup>) Geburtsdatum;
+- a<sup>ter</sup>) Geschlecht;
 - b) Adresse am zivilrechtlichen Wohnsitz;
 - c) Adresse am Aufenthaltsort;
+- c<sup>bis</sup>) AHV-Nummer;
 - d) Zeitraum und voraussichtliche Dauer des Aufenthaltes;
 - e) ambulanter Dienstleister am Aufenthaltsort.
 
