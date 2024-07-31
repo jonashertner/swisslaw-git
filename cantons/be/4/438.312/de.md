@@ -4,13 +4,12 @@ number: "438.312"
 title: Verordnung über die Ausbildungsbeiträge
 short: ABV
 language: de
-version: 2021-11-01
-valid_until: 2024-07-31
-version_adopted: 2021-09-01
+version: 2024-08-01
+version_adopted: 2024-05-29
 adopted: 2006-04-05
 in_force: 2006-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/438.312"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2367/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3039/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2367/pdf_file"
 
 (ABV)
 
-vom 05.04.2006 (Stand 01.11.2021)
+vom 05.04.2006 (Stand 01.08.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -338,7 +337,7 @@ beschliesst:
 
 <sup>2</sup> Zusätzlich werden bei Auszubildenden, die im elterlichen Haushalt wohnen, notwendige Mehrkosten für Verpflegung ausserhalb der Wohnstätte im Rahmen des im Anhang aufgeführten Ansatzes angerechnet.
 
-<sup>3</sup> Bei allein erziehenden Auszubildenden können zudem die nötigen Kosten für die Fremdbetreuung der Kinder angerechnet werden. Die AAB legt entsprechend der individuellen Situation die anerkannten Kosten fest.
+<sup>3</sup> Bei Auszubildenden mit Kindern können zudem die nötigen Kosten für die Fremdbetreuung der eigenen Kinder angerechnet werden. Die AAB legt entsprechend der individuellen Situation die anerkannten Kosten fest.
 
 ## 6 Härtefälle
 
@@ -485,14 +484,14 @@ beschliesst:
 
 <table>
 <tr><th>Haushaltgrösse</th><th>pro Jahr</th></tr>
-<tr><td>1 Person</td><td>CHF 11'724 (wohnen die Auszubildenden in einer Wohngemeinschaft, einer Institution oder einem Internat, reduziert sich der Grundbedarf um 2'754 Franken)</td></tr>
-<tr><td>2 Personen</td><td>CHF 17'940</td></tr>
-<tr><td>3 Personen</td><td>CHF 21'816</td></tr>
-<tr><td>4 Personen</td><td>CHF 25'080</td></tr>
-<tr><td>5 Personen</td><td>CHF 28'368</td></tr>
-<tr><td>6 Personen</td><td>CHF 31'656</td></tr>
-<tr><td>7 Personen</td><td>CHF 34'944</td></tr>
-<tr><td>Pro weitere Person</td><td>CHF 3'288</td></tr>
+<tr><td>1 Person</td><td>CHF 12'072 (wohnen die Auszubildenden in einer Wohngemeinschaft, einer Institution oder einem Internat, reduziert sich der Grundbedarf um 2'838 Franken)</td></tr>
+<tr><td>2 Personen</td><td>CHF 18'468</td></tr>
+<tr><td>3 Personen</td><td>CHF 22'452</td></tr>
+<tr><td>4 Personen</td><td>CHF 25'836</td></tr>
+<tr><td>5 Personen</td><td>CHF 29'220</td></tr>
+<tr><td>6 Personen</td><td>CHF 31'668</td></tr>
+<tr><td>7 Personen</td><td>CHF 34'116</td></tr>
+<tr><td>Pro weitere Person</td><td>CHF 2'448</td></tr>
 </table>
 
 <sup>2</sup> Wohnkosten (Familienbudget):
@@ -520,7 +519,7 @@ Pro Person in Ausbildung und pro Jahr: CHF 2'400
 
 <sup>5</sup> Auswärtige Verpflegung (persönliches Budget):
 
-Ansatz pro Mahlzeit: CHF 7
+Ansatz pro Mahlzeit: CHF 10
 
 <sup>6</sup> Wohnkosten (persönliches Budget von Auszubildenden mit eigenem Haushalt):
 

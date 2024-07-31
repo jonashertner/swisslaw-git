@@ -4,13 +4,12 @@ number: "438.312"
 title: "Ordonnance sur l'octroi de subsides de formation"
 short: OSF
 language: fr
-version: 2021-11-01
-valid_until: 2024-07-31
-version_adopted: 2021-09-01
+version: 2024-08-01
+version_adopted: 2024-05-29
 adopted: 2006-04-05
 in_force: 2006-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/438.312"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2367/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3039/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2367/pdf_file"
 
 (OSF)
 
-du 05.04.2006 (état au 01.11.2021)
+du 05.04.2006 (état au 01.08.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -338,7 +337,7 @@ arrête:
 
 <sup>2</sup> Les personnes en formation qui vivent chez leurs parents voient également prises en compte les dépenses supplémentaires nécessaires pour les repas pris en dehors du domicile, dans les limites du tarif mentionné en annexe.
 
-<sup>3</sup> Pour les personnes en formation qui élèvent seules leurs enfants, les dépenses nécessaires à la prise en charge des enfants sont prises en compte en sus. La SSF détermine les frais reconnus en fonction de la situation individuelle de la personne en formation.
+<sup>3</sup> Pour les personnes en formation qui ont des enfants, les dépenses nécessaires à la prise en charge de ces enfants sont prises en compte en sus. La SSF détermine les frais reconnus en fonction de la situation individuelle de la personne en formation.
 
 ## 6 Cas de rigueur
 
@@ -485,14 +484,14 @@ arrête:
 
 <table>
 <tr><th>Taille du ménage</th><th>par année</th></tr>
-<tr><td>1 personne</td><td>CHF 11'724 (le forfait est réduit de CHF 2'754 lorsque la personne en formation habite en colocation, dans une institution ou en internat)</td></tr>
-<tr><td>2 personnes</td><td>CHF 17'940</td></tr>
-<tr><td>3 personnes</td><td>CHF 21'816</td></tr>
-<tr><td>4 personnes</td><td>CHF 25'080</td></tr>
-<tr><td>5 personnes</td><td>CHF 28'368</td></tr>
-<tr><td>6 personnes</td><td>CHF 31'656</td></tr>
-<tr><td>7 personnes</td><td>CHF 34'944</td></tr>
-<tr><td>Par personne supplémentaire</td><td>CHF 3'288</td></tr>
+<tr><td>1 personne</td><td>CHF 12'072 (le forfait est réduit de CHF 2'838 lorsque la personne en formation habite en colocation, dans une institution ou en internat)</td></tr>
+<tr><td>2 personnes</td><td>CHF 18'468</td></tr>
+<tr><td>3 personnes</td><td>CHF 22'452</td></tr>
+<tr><td>4 personnes</td><td>CHF 25'836</td></tr>
+<tr><td>5 personnes</td><td>CHF 29'220</td></tr>
+<tr><td>6 personnes</td><td>CHF 31'668</td></tr>
+<tr><td>7 personnes</td><td>CHF 34'116</td></tr>
+<tr><td>Par personne supplémentaire</td><td>CHF 2'448</td></tr>
 </table>
 
 <sup>2</sup> Frais de logement (budget de la famille):
@@ -520,7 +519,7 @@ Par personne en formation et par année: CHF 2'400
 
 <sup>5</sup> Frais de repas pris à l'extérieur (budget personnel):
 
-Tarif par repas: CHF 7
+Tarif par repas: CHF 10
 
 <sup>6</sup> Frais de logement (budget personnel des personnes en formation gérant un ménage individuel):
 
