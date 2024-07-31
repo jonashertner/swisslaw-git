@@ -4,13 +4,13 @@ number: 516b
 title: Studienreglement über die Weiterbildung der Pädagogischen Hochschule Luzern
 short: PH-Weiterbildungsreglement
 language: de
-version: 2021-08-01
-valid_until: 2024-07-31
-version_adopted: 2021-06-01
+version: 2024-08-01
+valid_until: 2026-07-31
+version_adopted: 2024-02-28
 adopted: 2013-09-20
 in_force: 2013-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/516b"
-pdf: "https://srl.lu.ch/api/de/versions/3768/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4219/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3768/pdf_file"
 
 (PH-Weiterbildungsreglement)
 
-vom 20.09.2013 (Stand 01.08.2021)
+vom 20.09.2013 (Stand 01.08.2024)
 
 Der Rektor der Pädagogischen Hochschule Luzern,
 
@@ -203,7 +203,7 @@ beschliesst:
 
 **Titel**
 
-<sup>1</sup> Der mit dem Diplom verliehene Titel richtet sich nach dem massgebenden Anerkennungsreglement, nach den massgebenden Richtlinien und Profilen sowie nach dem Titelreglement[^17-1] der EDK.
+<sup>1</sup> Der mit dem Diplom verliehene Titel richtet sich nach dem massgebenden Anerkennungsreglement, nach den massgebenden Richtlinien und Profilen sowie nach dem Titelreglement[^17-1] der EDK, sofern diese im Folgenden nicht ergänzt werden.
 
 <sup>2</sup> Die verliehenen Titel lauten
 
@@ -211,7 +211,9 @@ beschliesst:
 - b. für ein DAS: «Diploma of Advanced Studies Pädagogische Hochschule Luzern in (Bezeichnung der Richtung)» (Abkürzung: DAS PH Luzern)
 - c. für ein CAS: «Certificate of Advanced Studies Pädagogische Hochschule Luzern in (Bezeichnung der Richtung)» (Abkürzung: CAS PH Luzern)
 
-[^17-1]: Reglement über die Benennung der Diplome und der Weiterbildungsmaster im Bereich der Lehrerinnen- und Lehrerbildung im Rahmen der Bologna-Reform (Titelreglement) vom 28. Oktober 2005 ([Erlasssammlung der EDK](http://www.edk.ch) Ziff. 4.2.2.6.).
+<sup>3</sup> Sind an einem Weiterbildungsstudiengang, der nicht von der EDK anerkannt werden muss, andere anerkannte Hochschulen beteiligt und soll ein gemeinsamer Titel verliehen werden, können diese im Titel gemäss Absatz 2 zusätzlich zur PH Luzern genannt werden.
+
+[^17-1]: Reglement über die Benennung der Diplome und der Weiterbildungsmaster im Bereich der Lehrerinnen- und Lehrerbildung im Rahmen der Bologna-Reform (Titelreglement) vom 28. Oktober 2005 ([Erlasssammlung der EDK](http://www.edk.ch) Ziff. 4.2.2.6. Auf diesen Erlass wird im Folgenden nicht mehr hingewiesen.).
 
 ## 3 Weiterbildungskurse
 
