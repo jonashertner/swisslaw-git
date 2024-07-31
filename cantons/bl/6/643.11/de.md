@@ -3,20 +3,20 @@ canton: BL
 number: "643.11"
 title: Verordnung über das Gymnasium (Maturitätsschule und Fachmittelschule)
 language: de
-version: 2024-01-01
-valid_until: 2024-07-31
-version_adopted: 2023-12-05
+version: 2024-08-01
+valid_until: 2025-07-31
+version_adopted: 2024-02-06
 adopted: 2003-05-13
 in_force: 2003-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/643.11"
-pdf: "https://bl.clex.ch/api/de/versions/3834/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3895/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Gymnasium (Maturitätsschule und Fachmittelschule)
 
-Vom 13.05.2003 (Stand 01.01.2024)
+Vom 13.05.2003 (Stand 01.08.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -66,20 +66,16 @@ beschliesst:
 
 <sup>1</sup> Für die Bewilligung von Schuleinstellungen an einzelnen Tagen sind zuständig:
 
-- a. die Schulleitung bei ungewöhnlichen Witterungsverhältnissen im Einzugsgebiet der Schule;
-- b. der Schulrat bei Anlässen im Einzugsgebiet der Schule;
+- a. die Schulleitung bei ungewöhnlichen Witterungsverhältnissen sowie bei Anlässen im Einzugsgebiet der Schule;
+- b. …
 - c. die Bildungs-, Kultur- und Sportdirektion bei Anlässen von kantonaler und überkantonaler Bedeutung;
 - d. der kantonale Krisenstab in Katastrophensituationen.
 
+<sup>2</sup> Die Schulleitung meldet der Hauptabteilung Berufs- und Mittelschulen der Dienststelle Berufsbildung, Mittelschulen und Hochschulen (Dienststelle BMH) beabsichtigte Schuleinstellungen bei Anlässen im Einzugsgebiet der Schule.
+
 #### § 4a
 
-**Schuleinstellungen für die Umsetzung der Bildungsharmonisierung**
-
-<sup>1</sup> Für die Umsetzung der Bildungsharmonisierung stehen den Schulen bis und mit Schuljahr 2016/17 Schuleinstellungen von maximal 4 Unterrichtshalbtagen pro Schuljahr zur Verfügung.
-
-<sup>2</sup> Die Bildungs-, Kultur- und Sportdirektion kann Schuleinstellungen in Rücksprache mit der Schulleitungskonferenz in zeitlicher und inhaltlicher Hinsicht festlegen.
-
-<sup>3</sup> Für die Bewilligung der nicht von der Bildungs-, Kultur- und Sportdirektion festgelegten Schuleinstellungen ist der Schulrat auf Antrag der Schulleitung zuständig.
+**…**
 
 #### § 5
 
@@ -87,7 +83,7 @@ beschliesst:
 
 <sup>1</sup> Eine Lektion dauert 45 Minuten.
 
-<sup>2</sup> Eine Schulwoche dauert von Montag bis Freitag. Der Schulrat des einzelnen Gymnasiums kann generell oder für einzelne Anlässe eine abweichende Regelung beschliessen, wenn organisatorische oder räumliche Gründe dies erfordern.
+<sup>2</sup> Eine Schulwoche dauert von Montag bis Freitag. Die Schulleitung des einzelnen Gymnasiums kann generell oder für einzelne Anlässe eine abweichende Regelung beschliessen, wenn organisatorische oder räumliche Gründe dies erfordern.
 
 <sup>3</sup> Ausfallende Unterrichtszeit ist so weit als möglich vor- oder nachzuholen.
 
@@ -156,7 +152,7 @@ beschliesst:
 
 **Klassenbildung**
 
-<sup>1</sup> Die Hauptabteilung Mittelschulen der Dienststelle Berufsbildung, Mittelschulen und Hochschulen (Dienststelle BMH) koordiniert die Klassenbildung der Gymnasien und genehmigt deren Klassenbildungspläne.
+<sup>1</sup> Die Hauptabteilung Berufs- und Mittelschulen der Dienststelle BMH koordiniert die Klassenbildung der Gymnasien und genehmigt deren Klassenbildungspläne.
 
 <sup>2</sup> Sie berücksichtigt dabei die verfügbaren Kapazitäten, die kantonalen Klassenbildungsnormen sowie die Bestimmungen des Regionalen Schulabkommens vom 19. August 2008[^9-1], des Vertrags über das Regionale Gymnasium Laufental-Thierstein vom 27. November 2001[^9-2] und des Vertrags über die Aufnahme von Schülerinnen und Schülern des Kantons Aargau an basellandschaftlichen Gymnasien vom 2. Juni 1998[^9-3].
 
@@ -177,11 +173,11 @@ beschliesst:
 
 <sup>1</sup> Die Schülerinnen und Schüler haben Anspruch auf Zuteilung zu einem basellandschaftlichen Gymnasium (Maturitätsschule oder Fachmittelschule).
 
-<sup>2</sup> Sie haben unter Vorbehalt von § 8 Abs. 2 Anspruch auf Zuteilung zu einem gewünschten Maturitätsprofil (Maturitätsschule) bzw. Berufsfeld (Fachmittelschule).
+<sup>2</sup> Sie haben unter Vorbehalt von § 8 Abs. 2 Anspruch auf Zuteilung zu einem gewünschten Maturitätsprofil (Maturitätsschule) bzw. unter Vorbehalt von § 12a Abs. 3 zum gewünschten Berufsfeld (Fachmittelschule).
 
-<sup>3</sup> Den Wünschen der Schülerinnen und Schüler in Bezug auf den Schulort wird nach Möglichkeit im Rahmen der Klassenbildung gemäss § 9 entsprochen.
+<sup>3</sup> …
 
-<sup>4</sup> Die Hauptabteilung Mittelschulen der Dienststelle BMH teilt den Erziehungsberechtigten bzw. den volljährigen Schülerinnen und Schülern die Zuteilung schriftlich mit.
+<sup>4</sup> Die Schulleitung der aufnehmenden Schule teilt den Erziehungsberechtigten bzw. den volljährigen Schülerinnen und Schülern den Zuteilungsentscheid der Hauptabteilung Berufs- und Mittelschulen der Dienststelle BMH schriftlich und auf deren Begehren mittels Verfügung mit.
 
 #### § 11
 
@@ -271,99 +267,158 @@ beschliesst:
 
 <sup>1</sup> Die Schulen definieren im Schulprogramm ihre Leitsätze und Zielsetzungen und legen fest, wie sie diese innert einer bestimmten Zeit umsetzen wollen.
 
-<sup>2</sup> Das Schulprogramm enthält insbesondere:
+<sup>2</sup> Das Schulprogramm gibt neben den in den §§ 59, 60d und 82h des Bildungsgesetzes vom 6. Juni 2002[^14-1] vorgesehenen Bereichen insbesondere Auskunft über:
 
-- a. das pädagogische Konzept der Schule;
-- b. die Organisation der Schule;
-- c. die Regelung der Zusammenarbeit innerhalb der Schule sowie mit den Erziehungsberechtigten, den Behörden und anderen Schulen;
-- d. die Form der Mitsprache der Schülerinnen und Schüler;
+- a. …
+- b. …
+- c. die Klärung der Rollen, Kompetenzen und Zuständigkeiten in der Schule sowie die Form der Zusammenarbeit mit den Behörden und anderen Schulen;
+- d. …
 - e. die Massnahmen bezüglich Prävention und Gesundheitsförderung;
 - f. die Integration der ausländischen sowie der fremdsprachigen Schülerinnen und Schüler;
-- g. die Bereiche und die Durchführung der internen Evaluation;
+- g. die Bereiche der internen Evaluation;
 - h. die Fort- und Weiterbildung der Lehrerinnen und Lehrer;
 - i. das Vorgehen in Konfliktfällen;
-- j. den Einsatz der finanziellen Mittel;
+- j. …
 - k. die Massnahmen zur Förderung einer geschlechtergerechten Pädagogik und der Gleichstellung der Geschlechter;
-- l. das Medienkonzept;
+- l. das Medien-/ICT-Konzept;
 - m. das Konzept zur Begabungs- und Begabtenförderung.
 
-### 3.2 Interne Evaluation
+[^14-1]: [SGS 640](https://bl.clex.ch/data/640/de)
+
+### 3.2 Qualität und Aufsicht
+
+### 3.2.1. Qualitätsentwicklung und -sicherung
 
 #### § 15
 
-**Zielsetzung**
+**Auftrag und Umsetzung**
 
-<sup>1</sup> Die Schulen führen selber regelmässig eine interne Evaluation über die Qualität ihrer Arbeit durch, um Steuerungswissen für ihre weitere Entwicklung zu erhalten.
+<sup>1</sup> Die Qualitätsentwicklung und -sicherung richtet sich nach § 60a ff. des Bildungsgesetzes vom 6. Juni 2002[^15-1].
+
+[^15-1]: [SGS 640](https://bl.clex.ch/data/640/de)
 
 #### § 16
 
-**Inhalt**
+**Inhalt der internen Evaluation**
 
-<sup>1</sup> Die interne Evaluation nimmt insbesondere Bezug auf:
+<sup>1</sup> Die interne Evaluation auf der Ebene der Schule als Organisation hat zum Ziel, Grundlagen zur Verbesserung der Abläufe, der Strukturen und der Schulkultur zu erhalten und Rechenschaft zu geben. Sie umfasst insbesondere:
 
 - a. die Überprüfung des Schulprogramms und dessen Realisierung;
-- b. den Unterricht der Lehrerinnen und Lehrer;
+- b. …
 - c. die im Unterricht erzielten Schulleistungen der Schülerinnen und Schüler;
 - d. die Arbeit der Schulleitung.
 
+<sup>2</sup> Die interne Evaluation auf der Ebene des Unterrichts hat zum Ziel, Grundlagen zur Sicherung und Steigerung der Unterrichtsqualität der einzelnen Lehrerinnen und Lehrer zu erhalten.
+
 #### § 17
 
-**Durchführung**
+**Durchführung und Massnahmen**
 
-<sup>1</sup> Die Schülerinnen und Schüler, Erziehungsberechtigten, das nichtunterrichtende Schulpersonal, die Behörden und die abnehmenden Schulen und Institutionen werden in angemessener Form in die interne Evaluation einbezogen.
+<sup>1</sup> Die Schülerinnen und Schüler, die Lehrerinnen und Lehrer, die weiteren Mitarbeitenden im pädagogischen, administrativen und ergänzenden Bereich sowie die abnehmenden Schulen und Institutionen werden in angemessener Form in die interne Evaluation einbezogen.
 
-<sup>2</sup> Die Schulleitung führt die interne Evaluation im Auftrag des Schulrats durch.
+<sup>2</sup> …
 
-<sup>3</sup> Das System der internen Evaluation wird im Rahmen des Schulprogramms durch die Schulleitung in Zusammenarbeit mit dem Lehrerinnen- und Lehrerkonvent festgelegt.
+<sup>3</sup> …
 
-<sup>4</sup> Die Schulleitung wertet die Resultate der internen Evaluation zuhanden des Schulrats aus und setzt vom Schulrat beschlossene Massnahmen um.
+<sup>4</sup> Die Schulleitung wertet die Resultate auf Ebene der Schule als Organisation aus. Sie erarbeitet unter Mitwirkung des Schulrats die Massnahmen und unterbreitet sie diesem zur Genehmigung. Diese fliessen in die Schulentwicklungsplanung ein und werden der Hauptabteilung Berufs- und Mittelschulen der Dienststelle BMH zur Kenntnis gebracht.
 
-### 3.3 Externe Evaluation
+<sup>5</sup> Die Lehrerinnen und Lehrer reflektieren ihren Unterricht regelmässig unter Einbezug der Ergebnisse der internen Evaluation auf Ebene des Unterrichts und passen ihren Unterricht aufgrund der gewonnenen Erkenntnisse an.
+
+### 3.2.2. Aufsicht
+
+#### § 17a
+
+**Auftrag und Umsetzung**
+
+<sup>1</sup> Die Aufsicht richtet sich nach den §§ 61a und 61b des Bildungsgesetzes vom 6. Juni 2002[^17a-1].
+
+<sup>2</sup> Die Dienststelle BMH hat im Rahmen der Aufsicht insbesondere folgende Aufgaben:
+
+- a. Sie befragt die Schulen regelmässig zu massgeblichen, den kantonalen Bildungsauftrag betreffenden Bereichen.
+- b. Sie wertet die Ergebnisse der Befragungen zusammen mit vorliegenden Kennzahlen aus.
+- c. Sie kann zusätzlich die Einhaltung der Vorgaben des Bundes und des Kantons untersuchen, die mit der Erfüllung des Bildungsauftrags im Zusammenhang stehen.
+- d. Sie gibt periodisch Audits in Auftrag, die unter Einbezug der Beteiligten vor Ort ein Bild der Qualität der Arbeit an der Schule vermitteln. Sie zieht hierfür aussenstehende Expertinnen und Experten bei und kann Aufträge an Dritte erteilen.
+- e. Sie kann eine vertiefte Analyse in Auftrag geben, wenn die Funktion der Schule in einem oder mehreren Bereichen nicht gegeben oder gefährdet ist oder aber gefährdet sein könnte.
+
+[^17a-1]: [SGS 640](https://bl.clex.ch/data/640/de)
+
+#### § 17b
+
+**Massnahmen**
+
+<sup>1</sup> Die Schulleitung wertet die Ergebnisse der Aufsichtsprozesse aus. Sie erarbeitet unter Mitwirkung des Schulrats und unter Einbezug der Mitarbeitenden und gegebenenfalls nach Rücksprache mit der Hauptabteilung Berufs- und Mittelschule der Dienststelle BMH geeignete Massnahmen, um die Erkenntnisse und Anforderungen aus den Aufsichtsprozessen angemessen umzusetzen und unterbreitet sie der Dienststelle BMH.
+
+<sup>2</sup> Die von der Dienststelle BMH beschlossenen Massnahmen fliessen in die Schulentwicklungsplanung ein und werden bei Bedarf von dieser begleitet.
+
+#### § 17c
+
+**Inhalte der Befragungen im Rahmen der Aufsicht**
+
+<sup>1</sup> Die Dienststelle BMH führt die Befragungen im Rahmen der Aufsicht insbesondere zu folgenden Bereichen durch:
+
+- a. zu Schul- und Personalführung;
+- b. zum Schulprogramm, inklusive Schulentwicklungsplanung;
+- c. zur Qualitätsentwicklung und -sicherung.
+
+<sup>2</sup> Sie gibt den Schulen eine schriftliche Rückmeldung gegebenenfalls verbunden mit Handlungsempfehlungen.
+
+### 3.3
 
 #### § 18
 
-**Zielsetzung**
-
-<sup>1</sup> Die externe Evaluation ergänzt die interne Evaluation und wird auf diese abgestimmt.
-
-<sup>2</sup> Die externe Evaluation bezweckt insbesondere:
-
-- a. die Überprüfung und Bewertung des Verfahrens der internen Evaluation;
-- b. die Vermittlung einer fachlichen Aussensicht zu den vereinbarten Evaluationsbereichen;
-- c. die Vermittlung von Steuerungswissen für die Weiterentwicklung der Schule;
-- d. die Beschaffung von Steuerungswissen für die Weiterentwicklung des kantonalen Bildungssystems.
+**…**
 
 #### § 19
 
-**Inhalt**
-
-<sup>1</sup> Die externe Evaluation nimmt insbesondere Bezug auf:
-
-- a. die im Schulprogramm und den Lehrplänen gesetzten Lern- und Ausbildungsziele;
-- b. die Unterrichtsqualität;
-- c. die im Unterricht erreichten Schulleistungen der Schülerinnen und Schüler;
-- d. die stufenspezifischen Aspekte der Ausbildung der Schülerinnen und Schüler;
-- e. die Einhaltung der rechtlichen Bestimmungen und Vorgaben der Behörden;
-- f. die Verwendung der finanziellen Mittel;
-- g. die Integration der Genderthematik als Querschnittsaufgabe.
+**…**
 
 #### § 20
 
-**Durchführung**
-
-<sup>1</sup> Die Bildungs-, Kultur- und Sportdirektion ist für die regelmässige Durchführung der externen Evaluation verantwortlich und bestimmt die Evaluationsbereiche. Die Schulen haben das Recht, einen Evaluationsbereich selber festzulegen.
-
-<sup>2</sup> Die externe Evaluation wird von interdisziplinär zusammengesetzten Evaluationsteams durchgeführt, die vom Amt für Volksschulen eingesetzt werden.
-
-<sup>3</sup> Das Evaluationsteam legt in Absprache mit der Schulleitung den Ablauf der externen Evaluation fest.
-
-<sup>4</sup> Nach der Durchführung verfasst das Evaluationsteam zuhanden des Schulrats, der Schulleitung und der Evaluationsstelle einen Bericht, der seine Beobachtungen, eine Beurteilung und Empfehlungen zur Qualitätsentwicklung enthält. Die Evaluationsstelle und das Evaluationsteam haben kein Weisungsrecht gegenüber der Schule.
+**…**
 
 #### § 21
 
-**Evaluationsstelle**
+**…**
 
-<sup>1</sup> Für die Koordination der externen Evaluationen ist das Generalsekretariat der Bildungs-, Kultur- und Sportdirektion verantwortlich.
+## 3a Schulpool
+
+#### § 21a
+
+**Zweck**
+
+<sup>1</sup> Der Schulpool dient der Ressourcierung von kantonalen und schuleigenen Spezialfunktionen und -aufgaben, die von Lehrpersonen im erweiterten Berufsauftrag erbracht werden oder von Dritten übernommen werden.
+
+#### § 21b
+
+**Umfang**
+
+<sup>1</sup> Der Schulpool der Gymnasien wird durch die Trägerschaft wie folgt ressourciert:
+
+- a. Sockel CHF 5000.– und pro Klasse CHF 1'650.–;
+- b. Gesundheitsförderung: Sockel CHF 2'000.– und pro Klasse CHF 300.–;
+- c. Gesamtstundenplanlegung (wobei für die Berechnung die Klassen der beiden Semester zusammengezählt werden)
+  - 1\. für 1–9 Klassen 1 Lektion;
+  - 2\. für 10–29 Klassen 2 Lektionen;
+  - 3\. für 30–49 Klassen 3 Lektionen;
+  - 4\. für 50–69 Klassen 4 Lektionen;
+  - 5\. für 70–89 Klassen 5 Lektionen;
+  - 6\. für 90 und mehr Klassen 6 Lektionen.
+
+<sup>2</sup> Bis und mit Schuljahr 2027/28 stehen den Gymnasien für den pädagogischen ICT-Support (PICTS) folgende maximalen Vergütungen zur Verfügung:
+
+- a. PICTS-Initialisierung: 1/12 Lektion pro Klasse;
+- b. PICTS-Beratung: ¼ Lektion pro Klasse;
+- c. PICTS-Multiplikatorin bzw. PICTS-Multiplikator: ¼ Lektion pro PICTS-Multiplikatorin oder PICTS-Multiplikator, wobei je 10 Lehrpersonen 1 PICTS-Multiplikatorin oder PICTS-Multiplikator eingesetzt wird.
+
+<sup>3</sup> Vergütungen in Franken können in Lektionen umgerechnet werden. Dabei gilt für 1 Jahreslektion der Gegenwert von CHF 5'900.–.
+
+#### § 21c
+
+**Verteilung und Rechenschaft**
+
+<sup>1</sup> Die Schulleitung nimmt die Verteilung des Schulpools vor. Der Konvent ist vorgängig anzuhören.
+
+<sup>2</sup> Die Schulleitung legt gegenüber der Dienststelle Berufsbildung, Mittelschulen und Hochschulen und dem Schulrat jährlich Rechenschaft über die Verwendung der Mittel ab.
 
 ## 4 Schulbeteiligte
 
@@ -375,9 +430,9 @@ beschliesst:
 
 <sup>1</sup> Die Schülerinnen und Schüler können befristet vom Schulbesuch beurlaubt werden, wenn besondere Gründe vorliegen.
 
-<sup>2</sup> Die Schulleitung entscheidet darüber aufgrund eines schriftlichen Gesuchs der Erziehungsberechtigten bzw. der volljährigen Schülerinnen oder Schüler. Beurlaubungen von mehr als 2 Wochen bringt sie dem Schulrat zur Kenntnis.
+<sup>2</sup> Die Schulleitung entscheidet darüber aufgrund eines schriftlichen Gesuchs der Erziehungsberechtigten bzw. der volljährigen Schülerinnen oder Schüler.
 
-<sup>3</sup> Die Schulleitung sorgt in Absprache mit dem Lehrerinnen- und Lehrerkonvent für eine einheitliche Praxis innerhalb der Schule.
+<sup>3</sup> Die Schulleitung sorgt für eine einheitliche Praxis innerhalb der Schule.
 
 #### § 23
 
@@ -436,12 +491,16 @@ beschliesst:
 
 **Aufgaben des Lehrerinnen- und Lehrerkonvents**
 
-<sup>1</sup> Der Lehrerinnen- und Lehrerkonvent hat insbesondere folgende Aufgaben:
+<sup>1</sup> Die Aufgaben des Lehrerinnen- und Lehrerkonvents richten sich nach § 74 Abs. 2 des Bildungsgesetzes vom 6. Juni 2002[^29-1]. Zudem hat er folgende Aufgaben:
 
-- a. Er nimmt zuhanden des Schulrats Stellung zur Organisation der Schulleitung.
-- b. Er arbeitet unter der Federführung der Schulleitung das Schulprogramm und schulinterne Erlasse aus und überarbeitet diese regelmässig.
-- c. Er wählt die Lehrerinnen- und Lehrervertretung im Schulrat.
-- d. Er nimmt zu wichtigen Fragen der Schule Stellung.
+- a. Er nimmt zuhanden der Rektorin oder des Rektors Stellung zur Organisation der Schulleitung.
+- b. Er nimmt zu schulinternen Erlassen Stellung.
+- c. Er wählt die Lehrerinnen- und Lehrervertretung im Schulrat und seine Vertretung bei der Anstellung von Schulleitungsmitgliedern.
+- d. Er wählt seine Ansprechperson gegenüber der Amtlichen Kantonalkonferenz der Lehrerinnen und Lehrer.
+
+<sup>2</sup> Er bespricht seine Aufgabenerfüllung und die Beteiligung der Schulleitung an den Konventen vorgängig mit dieser.
+
+[^29-1]: [SGS 640](https://bl.clex.ch/data/640/de)
 
 #### § 30
 
@@ -454,8 +513,9 @@ beschliesst:
 - a. die Teilnahme und das Stimm- und Wahlrecht seiner Mitglieder;
 - b. weitere Rechte und Pflichten der Mitglieder;
 - c. die Leitung und das Protokoll;
-- d. den allfälligen Beizug weiterer Personen, insbesondere des nichtunterrichtenden Schulpersonals;
-- e. die Wahl der Lehrerinnen- und Lehrervertretung im Schulrat.
+- d. den allfälligen Beizug weiterer Personen, insbesondere des nicht unterrichtenden Schulpersonals;
+- e. die Wahl seiner Vertretung im Schulrat sowie im Anstellungsverfahren der Schulleitungsmitglieder; die Vertretung besteht aus höchstens 2 Personen;
+- f. die Wahl seiner Ansprechperson gegenüber der Amtlichen Kantonalkonferenz der Lehrerinnen und Lehrer.
 
 #### § 31
 
@@ -463,7 +523,7 @@ beschliesst:
 
 <sup>1</sup> Die Lehrerinnen und Lehrer der Gymnasien koordinieren ihre Aufgaben in Fachkonventen.
 
-## 5 Leitung und Aufsicht
+## 5 Leitung
 
 ### 5.1 Schulleitung
 
@@ -471,58 +531,33 @@ beschliesst:
 
 **Amtsauftrag**
 
-<sup>1</sup> Die Schulleitungen haben folgenden Auftrag:
+<sup>1</sup> Der Auftrag der Schulleitungen richtet sich nach den Bestimmungen des Bildungsgesetzes vom 6. Juni 2002[^32-1] sowie nach § 2 der Verordnung für die Schulleitungen und die Schulsekretariate vom 13. Mai 2003[^32-2].
 
-- a. Sie sind für die pädagogischen, personellen, organisatorischen und administrativen Belange ihrer Schulen zuständig.
-- b. Sie beteiligen die Lehrerinnen und Lehrer an wichtigen Entscheidungsprozessen ihrer Schulen.
-- c. Sie sorgen für eine altersgemässe Mitwirkung der Schülerinnen und Schüler an wichtigen Entscheidungsprozessen ihrer Schulen.
-- d. Sie gewährleisten die Mitwirkung der Erziehungsberechtigten am Entwicklungsprozess ihrer Schulen.
-- e. Sie arbeiten mit den kommunalen und kantonalen Stellen und Behörden zusammen.
-
-<sup>2</sup> Die Schulleitungen sind gegenüber den Lehrerinnen und Lehrern und dem nichtunterrichtenden Schulpersonal in personellen, organisatorischen und administrativen Fragen weisungsbefugt.
+<sup>2</sup> Die Schulleitungen sind gegenüber den Lehrerinnen und Lehrern und dem nicht unterrichtenden Schulpersonal in personellen, organisatorischen und administrativen Fragen weisungsbefugt.
 
 <sup>3</sup> Sie sind gegenüber ihren übergeordneten Behörden und Stellen in Angelegenheiten ihrer Schulen auskunftspflichtig.
 
+[^32-1]: [SGS 640](https://bl.clex.ch/data/640/de)
+[^32-2]: [SGS 647.12](https://bl.clex.ch/data/647.12/de)
+
 #### § 33
 
-**Organisation, Zusammensetzung, Konstituierung**
-
-<sup>1</sup> Die Organisation der Schulleitung wird auf Antrag der Schulleitung durch den Schulrat festgelegt. Sie ist vorgängig dem Lehrerinnen- und Lehrerkonvent zur Stellungnahme vorzulegen.
-
-<sup>2</sup> Bei einer mehrköpfigen Schulleitung bestimmt der Schulrat deren Vorsitz (Rektor/Rektorin). Co-Vorsitzende sind möglich.
-
-<sup>3</sup> …
-
-<sup>4</sup> Im Übrigen konstituiert sich die Schulleitung selbst.
+**…**
 
 #### § 34
 
 **Pflichtenheft**
 
-<sup>1</sup> Das Pflichtenheft der Schulleitung umfasst folgende Aufgaben:
+<sup>1</sup> Das Pflichtenheft der Schulleitungen richtet sich grundsätzlich nach den Bestimmungen des Bildungsgesetzes vom 6. Juni 2002[^34-1] sowie nach § 20 der Verordnung für die Schulleitungen und die Schulsekretariate vom 13. Mai 2003[^34-2].
 
-- a. Sie teilt den Lehrerinnen und Lehrern die Klassen, Pensen und Räume zu.
-- b. Sie genehmigt die Stundenpläne.
-- c. Sie besucht die Lehrerinnen und Lehrer im Unterricht.
-- d. Sie führt die Mitarbeiterinnen- und Mitarbeitergespräche durch und führt die Personalakten.
-- e. Sie sorgt in Konfliktfällen für einen korrekten Verfahrensablauf.
-- f. Sie arbeitet zusammen mit dem Lehrerinnen- und Lehrerkonvent das Schulprogramm und schulinterne Erlasse aus und hat dabei die Federführung.
-- g. Sie führt im Auftrag des Schulrats die interne Evaluation der Schule durch.
-- h. Sie setzt im Auftrag des Schulrats die Ergebnisse der internen und externen Evaluation um.
-- i. Sie zieht bei Bedarf Fachpersonen und ausgebildete Mentorinnen und Mentoren bei.
-- j. Sie bewilligt Reisen, Lager, Schulverlegungen und weiteren Spezialunterricht.
-- k. Sie kann den Besuch von Schulanlässen ausserhalb der Unterrichtszeit für obligatorisch erklären.
-- l. Sie berät die Schülerinnen und Schüler sowie die Erziehungsberechtigten in Schulfragen.
-- m. Sie sorgt zusammen mit den zuständigen Fachstellen für die Integration von Schülerinnen und Schülern mit Beeinträchtigungen und Behinderungen.
-- n. Sie kann Schülerinnen und Schüler bei ausserordentlichen Ereignissen und Anlässen beurlauben.
-- o. Sie sorgt in Absprache mit dem Lehrerinnen- und Lehrerkonvent für eine einheitliche Beurlaubungspraxis für Schülerinnen und Schüler innerhalb der Schule und spricht diese mit anderen Schulen im Einzugsgebiet ab.
-- p. Sie sorgt in Absprache mit dem Lehrerinnen- und Lehrerkonvent für eine einheitliche Disziplinarpraxis gegenüber Schülerinnen und Schülern.
-- q. Sie gewährleistet in Zusammenarbeit mit den Sekundarschulen die Einhaltung der Anforderungen für den Übertritt in die Maturitätsschule und die Fachmittelschule.
-- r. Sie erstellt zuhanden der vorgesetzten Instanzen das Budget und die Abrechnung der Schule und führt die Budgetkontrolle.
-- s. Sie leitet das Sekretariat der Schule.
-- t. Sie beantragt dem Schulrat die Ermahnung oder das Aussprechen einer Busse gegenüber den Erziehungsberechtigten.
+<sup>2</sup> Die Schulleitung hat zudem folgende Aufgaben:
 
-<sup>2</sup> Der Aufgabenkatalog kann nach den Bedürfnissen und Schulen ergänzt werden.
+- a. Sie kann den Besuch von Schulanlässen ausserhalb der Unterrichtszeit für obligatorisch erklären.
+
+<sup>3</sup> Der Aufgabenkatalog kann ergänzt werden und wird dem Bedarf entsprechend ressourciert.
+
+[^34-1]: [SGS 640](https://bl.clex.ch/data/640/de)
+[^34-2]: [SGS 647.12](https://bl.clex.ch/data/647.12/de)
 
 #### § 35
 
@@ -534,28 +569,30 @@ beschliesst:
 
 **Schulleitungskonferenz Gymnasien**
 
-<sup>1</sup> Die Mitglieder der Schulleitungen der Gymnasien bilden die Schulleitungskonferenz der Gymnasien.
+<sup>1</sup> Gemäss § 82e Abs. 1 des Bildungsgesetzes vom 6. Juni 2002[^35a-1] bilden die Rektorinnen und Rektoren der Gymnasien eine Schulleitungskonferenz. Bei Co-Rektoraten vertritt 1 Rektorin oder Rektor die Schule.
 
-<sup>2</sup> Die Schulleitungskonferenz berät und unterstützt die Hauptabteilungsleitung Mittelschulen der Dienststelle Berufsbildung, Mittelschulen und Hochschulen.
+<sup>2</sup> Die Schulleitungskonferenz untersteht der Hauptabteilung Berufs- und Mittelschulen der Dienststelle BMH.
 
-<sup>3</sup> Zu ihren Aufgaben gehören insbesondere:
+<sup>3</sup> Ihre Aufgaben richten sich nach § 82e Abs. 2 Bildungsgesetz[^35a-2].
 
-- a. die Behandlung der schulübergreifenden Geschäfte, insbesondere die Weiterentwicklung der Gymnasien in pädagogischen Belangen;
+<sup>4</sup> Ihr obliegen zudem insbesondere folgende Aufgaben:
+
+- a. die Weiterentwicklung der Gymnasien in pädagogischen und betrieblichen Belangen;
 - b. die Koordination der Klassen- und Kursbildung;
-- c. die Festlegung des Anmeldetermins für die aus der Sekundarschule eintretenden Schülerinnen und Schüler in Absprache mit dem Amt für Volksschulen;
-- d. die Absprache über die Aufnahme von Schülerinnen und Schülern in Spezialfällen;
-- e. die Koordination der Lehrpläne und des Unterrichtsbetriebs;
-- f. die Koordination der Beurlaubungspraxis für die Schülerinnen und Schüler und die Lehrerinnen und Lehrer;
-- g. die Festlegung der Termine der Abschlussprüfungen und Abschlussfeiern;
-- h. die Koordination der Abschlussprüfungen, insbesondere der Erlass von inhaltlichen und formalen Rahmenbedingungen zur Sicherstellung der Vergleichbarkeit und Qualität derselben;
-- i. die Konzeption der externen Evaluation der Gymnasien;
-- j. die Umsetzung der Anstellungspolitik im Bereich der Lehrkräfte und Schuldienstangestellten im Rahmen der kantonalen Vorgaben;
-- k. die Planung des Bedarfs und der Nutzung des Schulraums;
-- l. die regelmässige Konsultation der Interessenvertreter und Organe der Gymnasiallehrerinnen- und Gymnasiallehrer über ihre das Bildungsangebot betreffenden Absichten;
-- m. die Sicherstellung der Information der Öffentlichkeit über die Ausbildungen an den Gymnasien (Maturitätsschule und Fachmittelschule);
-- n. die Vertretung der Gymnasien in sie betreffenden Fragen auf regionaler und schweizerischer Ebene sowie gegenüber Zubringer- und Abnehmerschulen;
-- o. die Koordination der Bildungsgänge mit den Abteilungen P und E der Sekundarschulen;
-- p. die Festlegung des Kostendachs für Kostenbeiträge der Erziehungsberechtigten für Unterrichtsmittel, Schulveranstaltungen und Dienstleistungen.
+- c. die Koordination der Lehrpläne und des Unterrichtsbetriebs;
+- d. die Koordination der Beurlaubungspraxis für die Schülerinnen und Schüler und die Lehrerinnen und Lehrer;
+- e. die Festlegung der Termine sowie die Koordination und Durchführung der Abschlussprüfungen;
+- f. die Sicherstellung der Information der Öffentlichkeit über die Ausbildungen an den Gymnasien (Maturitätsschule und Fachmittelschule);
+- g. der Erlass verbindlicher Weisungen;
+- h. der Erlass einer Geschäftsordnung;
+- i. die Delegation in verschiedene Gremien und Arbeitsgruppen im Bildungsbereich.
+
+<sup>5</sup> Sie kann bei Bedarf Fachgruppen einsetzen.
+
+<sup>6</sup> Sie kann für pädagogische und betriebliche Koordinationsfragen Sitzungen ohne die Beteiligung der Hauptabteilung Berufs- und Mittelschulen der Dienststelle BMH abhalten.
+
+[^35a-1]: [SGS 640](https://bl.clex.ch/data/640/de)
+[^35a-2]: [SGS 640](https://bl.clex.ch/data/640/de)
 
 #### § 35b
 
@@ -563,9 +600,9 @@ beschliesst:
 
 <sup>1</sup> Die Leiterinnen oder Leiter der Fachmittelschulen bilden die Leitungskonferenz der Fachmittelschulen.
 
-<sup>2</sup> Die Leitung der Konferenz wird in 2-jährigem Turnus von einer Leiterin oder einem Leiter einer Fachmittelschule wahrgenommen.
+<sup>2</sup> Die Leitung der Konferenz wird in 4-jährigem Turnus von einer Leiterin oder einem Leiter einer Fachmittelschule wahrgenommen.
 
-<sup>3</sup> Die Leitungskonferenz der Fachmittelschulen berät und unterstützt die Hauptabteilungsleitung Mittelschulen der Dienstelle Berufsbildung, Mittelschulen und Hochschulen.
+<sup>3</sup> Die Leitungskonferenz der Fachmittelschulen berät und unterstützt die Hauptabteilungsleitung Berufs- und Mittelschulen der Dienstelle BMH.
 
 <sup>4</sup> Ihre Tätigkeiten richten sich nach den in § 35a vorgesehenen Aufgaben in Bezug auf die Fachmittelschulen, soweit diese nicht der Schulleitungskonferenz Gymnasien zugeordnet sind.
 
@@ -581,13 +618,11 @@ beschliesst:
 
 **Aufgaben**
 
-<sup>1</sup> Der Schulrat hat insbesondere folgende Aufgaben:
+<sup>1</sup> Die Aufgaben des Schulrats richten sich nach § 82i des Bildungsgesetzes vom 6. Juni 2002[^37-1].
 
-- a. Er nimmt die Jahresrechnung der Schule zur Kenntnis und verabschiedet die Budgetanträge zuhanden der Hauptabteilung Mittelschulen der Dienststelle BMH.
-- b. Er legt auf Antrag der Schulleitung deren Organisation fest.
-- c. Er unterstützt die Lehrkräfte in ihrem Auftrag.
+<sup>2</sup> …
 
-<sup>2</sup> Die Schulräte der Gymnasien können sich zur Koordination ihrer Aufgaben zu gemeinsamen Sitzungen treffen, die von der Präsidentin oder dem Präsidenten des Schulrats desjenigen Gymnasiums geleitet werden, das den Vorsitz der Schulleitungskonferenz innehat.
+[^37-1]: [SGS 640](https://bl.clex.ch/data/640/de)
 
 #### § 38
 
@@ -595,11 +630,7 @@ beschliesst:
 
 #### § 39
 
-**Unterrichtsbesuche**
-
-<sup>1</sup> Die Mitglieder des Schulrats können bei Lehrerinnen und Lehrern ihrer Schule nach vorheriger Absprache Unterrichtsbesuche durchzuführen.
-
-<sup>2</sup> Sie verschaffen sich dabei einen Einblick in die Arbeit der Schule und ihrer Lehrerinnen und Lehrer.
+**…**
 
 #### § 40
 
@@ -612,6 +643,26 @@ beschliesst:
 **Schülerinnen- und Schülervertretung**
 
 <sup>1</sup> Die Schülerinnen- und Schülervertretung im Schulrat besteht aus 1–2 Personen, die für eine Amtszeit von 1 Jahr gewählt werden. Eine Wiederwahl ist möglich.
+
+### 5.3. Dienststelle Berufsbildung, Mittelschulen und Hochschulen (Dienststelle BMH)
+
+#### § 41a
+
+**Aufgaben**
+
+<sup>1</sup> Die Hauptabteilung Berufs- und Mittelschulen der Dienststelle BMH hat in der Führung der Gymnasien die in § 82j des Bildungsgesetzes vom 2. Juni 2002[^41a-1] der Bildungs-, Kultur- und Sportdirektion zugeordneten Aufgaben.
+
+<sup>2</sup> Sie hat zudem insbesondere folgende Aufgaben:
+
+- a. die Steuerung der Gymnasien, insbesondere die Budgetierung in Zusammenarbeit mit dem Generalsekretariat der BKSD;
+- b. die inhaltliche Verantwortung und Mitwirkung bei der Aus- und Weiterbildung der Schulleitungen;
+- c. die Kontrolle der Einhaltung kantonaler Regelungen;
+- d. die Festlegung des Anmeldetermins für die aus der Sekundarschule eintretenden Schülerinnen und Schüler in Absprache mit dem Amt für Volksschulen;
+- e. den Erlass von Reglementen für die Gymnasien.
+
+<sup>3</sup> Über Ausnahmen in Bezug auf Regelungen in dieser Verordnung entscheidet die Dienststelle BMH auf Antrag der Schulleitung.
+
+[^41a-1]: [SGS 640](https://bl.clex.ch/data/640/de)
 
 ## 6 Disziplinarwesen
 
@@ -644,15 +695,14 @@ beschliesst:
 - a. Zusatzarbeit innerhalb oder, nach Absprache mit der Schülerin oder dem Schüler und bei Minderjährigen mit deren Erziehungsberechtigten, ausserhalb der Unterrichtszeit;
 - a<sup>bis</sup>. schriftliche Verwarnung zuhanden der Erziehungsberechtigten bzw. der volljährigen Schülerinnen oder Schüler;
 - b. befristeter Ausschluss von einzelnen Schulfächern;
-- c. Schulausschluss bis zu 10 Schultagen;
+- c. befristeter Schulausschluss bis zu 8 Wochen;
 - d. Versetzung in eine Parallelklasse oder in eine andere Schule;
-- e. Androhung des Antrags an den Schulrat auf definitiven Schulausschluss.
+- e. Androhung des unbefristeten Schulausschlusses;
+- f. unbefristeter Schulausschluss in Absprache mit der Hauptabteilung Berufs- und Mittelschulen der Dienststelle BMH.
 
 #### § 43a
 
-**Massnahmen des Schulrats**
-
-<sup>1</sup> Der Schulrat kann auf Antrag der Schulleitung einen definitiven Schulausschluss anordnen.
+**…**
 
 #### § 43b
 
@@ -666,9 +716,9 @@ beschliesst:
 
 **Rechtliches Gehör**
 
-<sup>1</sup> Jede Schülerin und jeder Schüler, gegen die oder den eine Massnahme gemäss § 42 Abs. 1 Bst. d–i, § 43 und § 43a vorgesehen ist, hat Anspruch darauf, vorher angehört zu werden. Die Anhörung erfolgt in der Regel mündlich.
+<sup>1</sup> Jede Schülerin und jeder Schüler, gegen die oder den eine Massnahme gemäss § 42 Abs. 1 Bst. d–i und § 43 vorgesehen ist, hat Anspruch darauf, vorher angehört zu werden. Die Anhörung erfolgt in der Regel mündlich.
 
-<sup>2</sup> Vor der Verfügung von Disziplinarmassnahmen durch die Schulleitung und den Schulrat gemäss § 43 Bst. b–e und § 43a sind bei minderjährigen Schülerinnen und Schülern auch die Erziehungsberechtigten anzuhören. Bei volljährigen Schülerinnen und Schülern werden die Eltern oder Inhaberinnen oder Inhaber eines vormundschaftlichen Mandats, das die persönliche Fürsorge umfasst, informiert.
+<sup>2</sup> Vor der Verfügung von Disziplinarmassnahmen durch die Schulleitung gemäss § 43 Bst. b–f sind bei minderjährigen Schülerinnen und Schülern auch die Erziehungsberechtigten anzuhören. Bei volljährigen Schülerinnen und Schülern werden die Eltern oder Inhaberinnen oder Inhaber einer Beistandschaft, die die persönliche Fürsorge umfasst, informiert.
 
 ## 7 Schlussbestimmungen
 
