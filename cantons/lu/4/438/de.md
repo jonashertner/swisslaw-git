@@ -3,20 +3,20 @@ canton: LU
 number: "438"
 title: "Reglement über die Aufnahme, die Promotion und die Abschlussprüfungen an den Fachmittelschulen des Kantons Luzern"
 language: de
-version: 2023-08-01
-valid_until: 2024-07-31
-version_adopted: 2023-06-13
+version: 2024-08-01
+valid_until: 2025-12-31
+version_adopted: 2023-09-19
 adopted: 2004-12-14
 in_force: 2004-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/438"
-pdf: "https://srl.lu.ch/api/de/versions/4110/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4217/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Aufnahme, die Promotion und die Abschlussprüfungen an den Fachmittelschulen des Kantons Luzern
 
-vom 14.12.2004 (Stand 01.08.2023)
+vom 14.12.2004 (Stand 01.08.2024)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -211,19 +211,30 @@ beschliesst:
 
 <sup>2</sup> Die Notenkonferenz entscheidet unter Würdigung der Gesamtleistungen über das Bestehen der Abschlüsse mit Fachmittelschulausweis und legt die Fachnoten der Fachmaturität fest.
 
-## 4 Aufnahme und Promotion
+## 4 Aufnahme
 
 #### § 16
 
 **Aufnahme**
 
-<sup>1</sup> Voraussetzungen für die Aufnahme in eine Fachmittelschule sind neben dem Abschluss der obligatorischen Schulzeit im laufenden Schuljahr
+<sup>1</sup> Voraussetzungen für die definitive Aufnahme in das erste Semester einer Fachmittelschule sind neben dem Abschluss der obligatorischen Schulzeit im laufenden Schuljahr
 
-- a. im getrennt geführten Sekundarschulmodell das Erzielen von mindestens drei Zeugnisnoten von mindestens 4,5 und maximal einer Zeugnisnote von mindestens 4 in allen Niveaufächern im Niveau A und im Fach Natur und Technik die Zeugnisnote von mindestens 4,5 im Anforderungsniveau A/B, und zwar im ersten Semester der 3. Klasse einer öffentlichen Sekundarschule im laufenden oder im vorangegangenen Schuljahr,
-- a<sup>bis</sup>. im kooperativen und im integriert geführten Sekundarschulmodell das Erzielen einer Zeugnisnote von mindestens 4,5 in mindestens drei Niveaufächern des Niveaus A, einer Zeugnisnote von mindestens 4,5 in einem Niveaufach im Niveau B und im Fach Natur und Technik die Zeugnisnote von mindestens 4,5 im Anforderungsniveau A/B, und zwar im ersten Semester der 3. Klasse einer öffentlichen Sekundarschule im laufenden oder im vorangegangenen Schuljahr
-- a<sup>ter</sup>. das Erzielen mindestens je der Zeugnisnote 4,5 in den Fächern Deutsch, Französisch, Englisch und Mathematik im ersten Semester der 3. Klasse eines Langzeitgymnasiums oder der 1. Klasse eine Kurzzeitgymnasiums oder
+- a. das Erzielen der Zeugnisnoten gemäss Absatz 1<sup>quater</sup> im zweiten Semester der 2. Klasse und im ersten Semester der 3. Klasse einer öffentlichen Sekundarschule im laufenden oder im vorangegangenen Schuljahr,
+- a<sup>bis</sup>. das Erzielen der Zeugnisnoten gemäss Absatz 1<sup>quater</sup> im zweiten Semester der 2. Klasse und im ersten Semester der 3. Klasse eines Langzeitgymnasiums,
+- a<sup>ter</sup>. das Erzielen der Zeugnisnoten gemäss Absatz 1<sup>quater</sup> im letzten Semester einer öffentlichen Sekundarschule vor Eintritt in ein Kurzzeitgymnasium und im ersten Semester der 1. Klasse eines Kurzzeitgymnasiums oder
 - b. …
-- c. das Bestehen einer Aufnahmeprüfung in den Fächern Deutsch, Französisch, Englisch und Mathematik.
+- c. das Bestehen der Aufnahmeprüfung in den Fächern Deutsch, Französisch, Englisch und Mathematik und das Erzielen der Zeugnisnoten gemäss Absatz 1<sup>quater</sup> im ersten Semester der 3. Klasse einer öffentlichen Sekundarschule oder eines Langzeitgymnasiums oder in der 1. Klasse eines Kurzzeitgymnasiums.
+
+<sup>1<sup>bis</sup></sup> Die Aufnahme erfolgt provisorisch, wenn in den Fällen nach Absatz 1a–a<sup>ter</sup> die Zeugnisnoten jeweils nur im ersten von beiden Semestern erreicht werden oder im Fall nach Absatz 1c nach dem Bestehen der Aufnahmeprüfung die Zeugnisnoten im folgenden Semester nicht erreicht werden. Provisorisch aufgenommene Lernende müssen am Ende des ersten Semesters die Voraussetzungen von § 18 erfüllen. Ansonsten werden sie vom Angebot ausgeschlossen.
+
+<sup>1<sup>ter</sup></sup> Der Prüfungsstoff der Aufnahmeprüfung richtet sich nach dem Inhalt des Lehrplans der öffentlichen Sekundarschule bis und mit dem letzten Semester vor der Aufnahmeprüfung.
+
+<sup>1<sup>quater</sup></sup> Für die Aufnahme gelten die folgenden Zeugnisnoten:
+
+- a. Im getrennt geführten Sekundarschulmodell sind für die Aufnahme mindestens drei Zeugnisnoten von mindestens 4,5 und maximal eine Zeugnisnote von mindestens 4 in den Niveaufächern im Niveau A Voraussetzung.
+- b. Im kooperativen und im integriert geführten Sekundarschulmodell sind für die Aufnahme eine Zeugnisnote von mindestens 4,5 in mindestens drei Niveaufächern des Niveaus A und eine Zeugnisnote von mindestens 4,5 in einem Niveaufach im Niveau B Voraussetzung.
+- c. In allen Sekundarschulmodellen ist für die Aufnahme die Zeugnisnote von mindestens 4,5 im Anforderungsniveau A/B im Fach Natur und Technik Voraussetzung.
+- d. Im Langzeit- und im Kurzzeitgymnasium ist in den Fächern Deutsch, Französisch, Englisch und Mathematik eine Zeugnisnote von mindestens 4,5 Voraussetzung.
 
 <sup>2</sup> ...
 
@@ -251,6 +262,8 @@ beschliesst:
 <sup>2</sup> In der Regel wird nur aufgenommen, wer zu Beginn des ersten Schuljahres das 18. Altersjahr noch nicht vollendet hat. Die Schulleitung kann Ausnahmen bewilligen.
 
 <sup>3</sup> Die Schulleitung kann die probeweise Aufnahme verfügen. Sie entscheidet in diesen Fällen nach einem Semester über die definitive Aufnahme.
+
+### 4a Promotion
 
 #### § 17
 
