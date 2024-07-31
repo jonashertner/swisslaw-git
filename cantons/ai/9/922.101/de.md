@@ -3,73 +3,65 @@ canton: AI
 number: "922.101"
 title: Standeskommissionsbeschluss über die Jagdprüfung
 language: de
-version: 2018-06-01
-corrected: 2019-02-15
-version_adopted: 2018-05-22
+version: 2024-08-01
+version_adopted: 2024-06-18
 adopted: 1997-09-09
 in_force: 1997-09-09
 url: "https://ai.clex.ch/app/de/texts_of_law/922.101"
-pdf: "https://ai.clex.ch/api/de/versions/1070/pdf_file"
-text: pdf
+pdf: "https://ai.clex.ch/api/de/versions/2292/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Standeskommissionsbeschluss über die Jagdprüfung
 
-vom 9. September 19971
+vom 09.09.1997 (Stand 01.08.2024)
 
 Die Standeskommission des Kantons Appenzell I. Rh.,
 
-gestützt auf Art. 1 Abs. 1 lit. b und Art. 44 der Verordnung zum Jagdgesetz vom 13. Juni 1989 (JaV),2
+gestützt auf Art. 1 Abs. 1 lit. b und Art. 44 der Verordnung zum Jagdgesetz vom 13. Juni 1989 (JaV),
 
 beschliesst:
 
-### I. Teil Organisation
+## I. Organisation
 
-#### Art. 13
+#### Art. 1
 
 **Grundsatz**
 
-Ein Jagdpatent kann nur an Bewerber\* erteilt werden, die sich über eine bestandene Jagdprüfung des Kantons Appenzell I. Rh. ausweisen können (Art. 8 JaV).
+<sup>1</sup> Ein Jagdpatent kann nur an Bewerber[^1-1] erteilt werden, die sich über eine bestandene Jagdprüfung des Kantons Appenzell I.Rh. ausweisen können (Art. 8 JaV).
 
-#### Art. 24
+[^1-1]: Die Verwendung der männlichen Bezeichnungen gilt sinngemäss für beide Geschlechter.
 
-**Prüfungskommission Prüfungsexperten**
+#### Art. 2
+
+**Prüfungskommission, Prüfungsexperten**
 
 <sup>1</sup> Aktive Prüfungsexperten und Ausbildner können nicht Mitglieder der Prüfungskommission sein.
 
 <sup>2</sup> Der Prüfungsexperte muss eine anerkannte Jagdprüfung absolviert haben und sich als aktiver Jäger ausweisen. Über Ausnahmen entscheidet die Jagdprüfungskommission.
 
-#### Art. 35
+#### Art. 3
 
 **Aufgaben**
 
 <sup>1</sup> Der Jagdprüfungskommission obliegt:
 
 - a) die Vorbereitung der Durchführung der alle drei Jahre stattfindenden Jagdprüfung;
-
 - b) die Wahl der Prüfungsexperten;
-
 - c) die Ausstellung des Fähigkeitsausweises;
-
 - d) die Anordnung von Nachprüfungen und Teilprüfungen;
-
 - e) die Beaufsichtigung der Prüfungen;
-
 - f) die Aufsicht über die Jungjägerausbildung;
-
 - g) die Prüfung des Ausbildungsprogrammes;
-
 - h) die Zulassung zur Jagdprüfung.
 
 <sup>2</sup> Dem kantonalen Patentjägerverein obliegt:
 
 - a) die Ausbildung der Jungjäger;
-
 - b) die Kontrolle der obligatorischen Hegestunden anhand eines Testatheftes.
 
-#### Art. 41
+#### Art. 4
 
 **Anmeldung**
 
@@ -77,7 +69,7 @@ Ein Jagdpatent kann nur an Bewerber\* erteilt werden, die sich über eine bestan
 
 <sup>2</sup> Die Anmeldefrist wird im amtlichen Publikationsorgan veröffentlicht.
 
-#### Art. 52
+#### Art. 5
 
 **Zulassung**
 
@@ -86,14 +78,12 @@ Ein Jagdpatent kann nur an Bewerber\* erteilt werden, die sich über eine bestan
 <sup>2</sup> Der Kandidat muss 150 Hegestunden obligatorisch geleistet haben. Als Hegestunden gelten:
 
 - a) Hegeeinsätze;
-
 - b) die praktische Ausbildung;
-
 - c) Mithilfe bei Wildzählungen, Jagdschiessen und Wildfütterung.
 
 <sup>3</sup> Der Hegeobmann entscheidet im Rahmen der Vorgaben gemäss Anhang über die Art der Einsätze.
 
-### II. Teil Prüfung
+## II. Prüfung
 
 #### Art. 6
 
@@ -104,23 +94,16 @@ Ein Jagdpatent kann nur an Bewerber\* erteilt werden, die sich über eine bestan
 <sup>2</sup> Der praktische Teil besteht aus:
 
 - a) der Waffenhandhabung;
-
 - b) der Schiessprüfung mit Kugel und Schrot;
-
 - c) dem Distanzenschätzen.
 
 <sup>3</sup> Der theoretische Teil besteht in der mündlichen und schriftlichen Befragung in folgenden Prüfungsfächern:
 
 - a) Jagdrecht;
-
 - b) Jagdkunde;
-
 - c) Wildkunde;
-
 - d) Jagdhunde;
-
 - e) Waffen und Munition;
-
 - f) Ökologische Zusammenhänge.
 
 <sup>4</sup> Die Beschreibung der Prüfungsfächer und die Bewertungskriterien sind im Anhang zu diesem Beschluss festgehalten.
@@ -137,25 +120,25 @@ Ein Jagdpatent kann nur an Bewerber\* erteilt werden, die sich über eine bestan
 
 <sup>3</sup> Wer die praktischen Fächer erfüllt und in allen schriftlichen und mündlichen Teilprüfungen genügend erreicht, erhält den Fähigkeitsausweis.
 
-#### Art. 81
+#### Art. 8
 
 **Wiederholen von Prüfungen**
 
 <sup>1</sup> Die praktische Prüfung erfolgt vor der theoretischen Prüfung. Zur theoretischen Prüfung wird nur zugelassen, wer die praktische Prüfung bestanden hat.
 
-<sup>2</sup> Im praktischen Prüfungsteil können die Schiessprüfungen und das Distanzenschätzen im gleichen Jahr einmal wiederholt werden.
+<sup>2</sup> Im praktischen Prüfungsteil können die Schiessprüfungen und das Distanzenschätzen innert 48 Stunden einmal wiederholt werden.
 
-<sup>3</sup> Wer das Prüfungsfach Waffenhandhabung nicht erfüllt, kann die ganze Prüfung erst nach drei Jahren wiederholen.
+<sup>3</sup> Wer das Prüfungsfach Waffenhandhabung und den praktischen Prüfungsteil nicht erfüllt, kann die ganze Prüfung erst nach drei Jahren wiederholen.
 
 <sup>4</sup> Wer in höchstens zwei mündlichen oder schriftlichen Teilprüfungen die Bewertung ungenügend hat, kann diese noch vor Jagdbeginn einmal wiederholen. Wer in mehr als zwei Teilprüfungen ungenügend ist, kann die ganze Prüfung erst nach drei Jahren wiederholen.
 
-<sup>5</sup> Besteht der Kandidat auch die Nachprüfung nicht, kann die Prüfung erst nachdrei Jahren wiederholt werden, wobei dann die gesamte Prüfung abzulegen ist.
+<sup>5</sup> Besteht der Kandidat auch die Nachprüfung nicht, kann die Prüfung erst nach drei Jahren wiederholt werden, wobei dann die gesamte Prüfung abzulegen ist.
 
 #### Art. 9
 
 **Ausschlussgründe**
 
-Macht sich ein Kandidat bei der Prüfung eines ungebührlichen oder unredlichen Verhaltens schuldig, insbesondere durch Benützung unerlaubter Hilfsmittel, so entscheidet die Prüfungskommission über den Ausschluss. In diesem Falle werden keine Gebühren zurückerstattet.
+<sup>1</sup> Macht sich ein Kandidat bei der Prüfung eines ungebührlichen oder unredlichen Verhaltens schuldig, insbesondere durch Benützung unerlaubter Hilfsmittel, so entscheidet die Prüfungskommission über den Ausschluss. In diesem Falle werden keine Gebühren zurückerstattet.
 
 #### Art. 10
 
@@ -165,196 +148,182 @@ Macht sich ein Kandidat bei der Prüfung eines ungebührlichen oder unredlichen 
 
 <sup>2</sup> Wer die Prüfung besteht, erhält einen Fähigkeitsausweis.
 
-#### Art. 111
+#### Art. 11
 
-**Gebühren**
+**…**
 
-<sup>1</sup> Für die Prüfung ist eine Gebühr von Fr. 200.— bis Fr. 1000.—, für eine Teilprüfung Fr. 200.— bis Fr. 500.— zu entrichten.
+#### Art. 12
 
-<sup>2</sup> Die Gebühr ist gleichzeitig mit der Anmeldung bei der Landesbuchhaltung einzuzahlen.
+**…**
 
-<sup>3</sup> Wird ein Kandidat zur Prüfung nicht zugelassen oder kann er aus entschuldbaren Gründen zur Prüfung nicht antreten, so kann die Gebühr ganz oder teilweise zurückerstattet werden.
-
-#### Art. 122
-
-#### Art. 133
+#### Art. 13
 
 **Inkrafttreten**
 
-Dieser Beschluss tritt nach Annahme durch die Standeskommission in Kraft.
+<sup>1</sup> Dieser Beschluss tritt nach Annahme durch die Standeskommission in Kraft.
 
-### Anhang zum Jagdprüfungsreglement1
+## A1. Anhang zum Jagdprüfungsreglement
 
-- 1\. Theoretischer Teil
+### A1.1 Theoretischer Teil
 
-**Jagdrecht**
+#### Art. A1-1
 
-Über Jagdrecht wird nach den eidgenössischen und kantonalen Gesetzen und Verordnungen, Reglementen und Vorschriften über die Jagd und den Tierschutz in folgenden Gebieten geprüft:
+**Jagdrecht, Jagdkunde, Wildkunde, Jagdhunde, Waffen, Munition, Ökologische Zusammenhänge**
 
-Jagdsystem (Patentjagd), jagdbares und geschütztes Wild, Jagdausweis, Jagdzeit, Jagdvergehen, Rechte und Pflichten der Jäger, Jagdschutz, Schutz des Grundbesitzes, Tier- und Naturschutz.
+<sup>1</sup> Über Jagdrecht wird nach den eidgenössischen und kantonalen Gesetzen und Verordnungen, Reglementen und Vorschriften über die Jagd und den Tierschutz in folgenden Gebieten geprüft:
 
-**Jagdkunde**
+- a) Jagdsystem (Patentjagd),
+- b) jagdbares und geschütztes Wild,
+- c) Jagdausweis,
+- d) Jagdzeit,
+- e) Jagdvergehen,
+- f) Rechte und Pflichten der Jäger,
+- g) Jagdschutz,
+- h) Schutz des Grundbesitzes,
+- i) Tier- und Naturschutz.
 
-Über Jagdkunde wird geprüft:
+<sup>2</sup> Über Jagdkunde wird geprüft:
 
-Jagdarten, Jagdausübung, Verhalten vor und nach dem Schuss, Wildfolge, Wildverwertung, Wildhege (Fütterung, Äsungspflanzen, Lecksteine), Wildschäden und deren Verhütung, jagdliches Brauchtum, weidmännisches Aufbrechen.
+- a) Jagdarten,
+- b) Jagdausübung,
+- c) Verhalten vor und nach dem Schuss,
+- d) Wildfolge,
+- e) Wildverwertung,
+- f) Wildhege (Fütterung, Äsungspflanzen, Lecksteine),
+- g) Wildschäden und deren Verhütung,
+- h) jagdliches Brauchtum,
+- i) weidmännisches Aufbrechen.
 
-**Wildkunde**
+<sup>3</sup> Über Wildkunde wird geprüft:
 
-Über Wildkunde wird geprüft:
+- a) Wildarten,
+- b) Lebensweise,
+- c) Fortpflanzungszeiten,
+- d) Erkennungsmerkmale des Wildes sowie Körperbau und Altersmerkmale,
+- e) Gebissbildung,
+- f) Fährten und Spurenkunde,
+- g) Wildkrankheiten,
+- h) Tierseuchen,
+- i) Fleischschau usw.
 
-Wildarten, Lebensweise, Fortpflanzungszeiten, Erkennungsmerkmale des Wildes sowie Körperbau und Altersmerkmale, Gebissbildung, Fährten und Spurenkunde, Wildkrankheiten, Tierseuchen, Fleischschau usw.
+<sup>4</sup> Über Haltung und Führung der Jagdhunde wird geprüft:
 
-**Jagdhunde**
+- a) Gebräuchliche Jagdhunderassen,
+- b) Haltung und Verwendung der Hunde,
+- c) Nachsuche mit dem Schweisshund,
+- d) Hundekrankheiten.
 
-Über Haltung und Führung der Jagdhunde wird geprüft:
+<sup>5</sup> Waffen, Munition:
 
-Gebräuchliche Jagdhunderassen, Haltung und Verwendung der Hunde, Nachsuche mit dem Schweisshund, Hundekrankheiten.
+- a) Waffenarten,
+- b) erlaubte und verbotene Jagdwaffen und Fanggeräte,
+- c) Munition,
+- d) Optik,
+- e) Schiesskunde,
+- f) Sicherheitsvorschriften.
 
-**Waffen, Munition**
+<sup>6</sup> Ökologische Zusammenhänge:
 
-Waffenarten, erlaubte und verbotene Jagdwaffen und Fanggeräte, Munition, Optik, Schiesskunde, Sicherheitsvorschriften.
+- a) Erhaltung des Lebensraumes,
+- b) Wechselbeziehungen zwischen Wild und Lebensraum,
+- c) Zusammenarbeit zwischen Landwirtschaft, Forstwirtschaft und Jagd.
 
-**Ökologische Zusammenhänge**
+### A1.2 Praktischer Teil
 
-Erhaltung des Lebensraumes, Wechselbeziehungen zwischen Wild und Lebensraum, Wildschadenverhütung, Zusammenarbeit zwischen Landwirtschaft, Forstwirtschaft und Jagd.
+#### Art. A1-2
 
-- 2\. Praktischer Teil
-
-Geprüft werden Kenntnisse über die Waffenhandhabung, nämlich:
+<sup>1</sup> Geprüft werden Kenntnisse über die Waffenhandhabung, nämlich:
 
 - a) an der Prüfung verwendete und im Kanton zugelassene Jagd- und Fangschusswaffen;
-
 - b) praktische Handhabung der Büchse, der Schrotflinte und der Fangschusswaffe einschliesslich Fangschussabgaben;
-
 - c) Anschlagsarten;
-
 - d) Bewegungen mit der Waffe im Freien;
-
 - e) mit der Waffe ersteigen und überwinden von Hindernissen im Gelände;
-
 - f) Sicherheitsfragen.
 
-Wer die Prüfung zur Waffenhandhabung bestanden hat, wird zu den Schiessprüfungen zugelassen.
+<sup>2</sup> Wer die Prüfung zur Waffenhandhabung bestanden hat, wird zu den Schiessprüfungen zugelassen.
 
-Das Kugelprogramm umfasst:
+<sup>3</sup> Das Kugelprogramm umfasst:
 
-- a) vier Schüsse auf Gamsscheibe DJV-4, stehender Gamsbock in 130m Entfernung, Stellung liegend, ohne Zeitbeschränkung.
+- a) vier Schüsse auf Gamsscheibe DJV-4, stehender Gamsbock links in 120m-150m Entfernung, Stellung liegend, ohne Zeitbeschränkung. Die Trefferaufnahme erfolgt nach der Abgabe des zweiten Schusses.
+- b) drei Schüsse auf Gamsscheibe DJV-4, stehender Gamsbock links in 120m-150m Entfernung, Stellung sitzend oder kniend angestrichen, ohne Zeitbeschränkung. Die Teffernaufnahme erfolgt nach der Abgabe des dritten Schusses.
 
-Die Trefferaufnahme erfolgt nach der Abgabe des zweiten Schusses.
+<sup>4</sup> Das Schrotprogramm umfasst zehn Durchgänge des laufenden Hasen unter folgenden Bedingungen:
 
-- b) drei Schüsse auf Gamsscheibe DJV-4, stehender Gamsbock in 130m Entfernung, Stellung sitzend oder kniend angestrichen, ohne Zeitbeschränkung. Die Trefferaufnahme erfolgt nach der Abgabe des dritten Schusses.
-
-Das Programm ist mit 6 Treffern (8, 9 oder 10 auf der Gamsscheibe DJV-4) bestanden.
-
-Das Schrotprogramm umfasst zehn Durchgänge des laufenden Hasen unter folgenden Bedingungen:
-
-- a) die Schrotpatronen mit Schrot 3.5mm Korngrösse sind auf dem Stand zu beziehen;
-
+- a) die Schrotpatronen mit Schrot 3.5 mm Korngrösse sind auf dem Stand zu beziehen;
 - b) bei mehrläufigen Waffen darf nur ein Lauf geladen werden;
+- c) der Hase ist vom Schützen auszulösen;
+- d) der Hase erscheint in der Standardeinstellung auf der Laufbahn von 6 m in 30 bis 35 m Entfernung während zwei bis drei Sekunden;
+- e) die Waffe darf erst nach Abrufen des Hasen in Anschlag genommen werden.
 
-- c) der Hase ist vom Schützen abzurufen;
-
-- d) der Hase erscheint in der Standardeinstellung auf der Laufbahn von 6m in 30 bis 35m Entfernung während zwei bis drei Sekunden;
-
-- e) die Waffe darf erst nach Abrufen des Hasen in Anschlag genommen werden. Das Programm ist mit sieben Treffern bestanden.
-
-Als Treffer gilt, wenn das mittlere oder das vordere Kippfeld umklappen.
-
-Bei den Schiessprogrammen dürfen nur Jagdwaffen und Kugelpatronen verwendet werden, die nach den Jagdvorschriften erlaubt sind.
-
-Nicht erlaubt sind:
+<sup>5</sup> Bei den Schiessprogrammen dürfen nur Jagdwaffen ab Kaliber 6.5 mm (Kugel) und Schrotflinten verwendet werden, die nach den Jagdvorschriften erlaubt sind. Nicht erlaubt sind:
 
 - a) Match-Waffen;
-
 - b) Probeschüsse;
-
 - c) Hilfsmittel wie Polsterungen, Schiessjacken, Schiessbrillen, Schiessmützen und -bänder oder spezielle Schiesshandschuhe;
-
 - d) Unterbrechungen der Schiessprogramme durch den Kandidaten.
 
-### Distanzenschätzen
+<sup>6</sup> Distanzenschätzen:
 
-Es werden geprüft: – 6 Distanzen zwischen 20 und 250m – Zeit: 15 Min.
+- a) Es werden geprüft:
+  - 1\. 6 Distanzen zwischen 20 und 250 Metern
+  - 2\. Zeit: 15 Min.
+- b) Bewertung:
+  - 1\. Abweichungen bis 10% = Note 6
+  - 2\. Abweichungen bis 15% = Note 5
+  - 3\. Abweichungen bis 20% = Note 4
+  - 4\. Abweichungen bis 25% = Note 3
+  - 5\. Abweichungen bis 30% = Note 2
+  - 6\. Abweichungen über 30% = Note 1
+- c) Die 6 Noten werden zusammengezählt und das arithmetische Mittel gebildet. Bestanden ist die Teilprüfung Distanzenschätzen, wenn die erreichte Durchschnittsnote 4 oder mehr beträgt.
 
-- Bewertung:
+### A1.3 Beschreibung und Anrechnung der Hegestunden
 
-Abweichungen bis 10% = Note 6
+#### Art. A1-3
 
-bis 15% = Note 5 bis 20% = Note 4 bis 25% = Note 3 bis 30% = Note 2 über 30% = Note 1 Die 6 Noten werden zusammengezählt und das arithmetische Mittel gebildet. Bestanden ist die Teilprüfung Distanzenschätzen, wenn die erreichte Durchschnittsnote 4 oder mehr beträgt.
+**Hegeeinsätze / Die praktische Ausbildung / Mithilfe Wildzählungen, Jagdschiessen und Wildfütterung**
 
-- 3\. Beschreibung und Anrechnung der Hegestunden
+<sup>1</sup> Hegeeinsätze: Verschiedene Hegeeinsätze gemäss Aufgebot Hegeobmann oder Jagdverwaltung: 81 Std.
 
-- a) Hegeeinsätze
+- 1\. Die Aufgebote zu den verschiedenen Hegeeinsätzen erfolgen schriftlich oder elektronisch, spätestens 5 Tage vor dem Einsatz.
+- 2\. Zur Erfüllung der diversen Hegeeinsätze von 81 Hegestunden ist ein Angebot von 100 Hegestunden bereit zu stellen.
+- 3\. Bei entschuldigtem und mit Arztzeugnis belegtem krankheits- oder unfallbedingtem Fernbleiben ist eine Ersatzmöglichkeit durch den Hegeobmann anzubieten.
 
-Hegeeinsätze  Verschiedene Hegeeinsätze 81 Std.
+<sup>2</sup> Die praktische Ausbildung:
 
-gemäss Aufgebot Hegeobmann oder Jagdverwaltung
+- 1\. Jagdhunde (8 Std.):
+  - a) Nachsuche
+  - b) Schweisshundeübung
+  - c) Praktische Ausbildung
+- 2\. Jagdkunde (8 Std.):
+  - a) Verhalten vor und nach dem Schuss
+  - b) Weidmännisches Aufbrechen
+  - c) Wildfolge
+  - d) Wildschäden und Verhütung
+  - e) Wildverwertung
+- 3\. Wildkunde (10 Std.):
+  - a) Ansprechen
+  - b) Fährten und Spuren
+  - c) Grenzbezeichnungen
+- 4\. Waffen und Munition (8 Std.):
+  - a) Praktische Handhabung und Umgang
+  - b) Sicherheit
+  - c) Schiessdemonstration
+- 5\. Ökologische Zusammenhänge (6 Std.)
+  - a) Äsungspflanzen
+- 6\. Die zuständigen Ausbildner legen zusammen mit den Jungjägern die Termine der praktischen Fachausbildung fest. Ersatzangebote sind nicht vorgesehen.
+- 7\. Bei entschuldigtem und mit Arztzeugnis belegtem krankheits- oder unfallbedingtem Fernbleiben ist eine Ersatzmöglichkeit durch den Hegeobmann anzubieten.
 
- Die Aufgebote zu den verschiedenen Hegeeinsätzen erfolgen schriftlich oder elektronisch, spätestens 5 Tage vor dem Einsatz.
+<sup>3</sup> Mithilfe Wildzählungen, Jagdschiessen
 
- Zur Erfüllung der diversen Hegeeinsätze von 81 Hegestunden ist ein Angebot von 100 Hegestunden bereit zu stellen.
+- 1\. Wildzählungen:
+  - a) Mithilfe bei Wildzählungen
+  - b) pro Jahr 5 Std. gemäss Aufgebot und Kontrolle Hegeobmann, insgesamt 15 Std.
+- 2\. Jagdschiessen:
+  - a) Unterhalt Jagdschiessstand
+  - b) Mithilfe Jagdschiessen
+  - c) pro Jahr 4 Std. gemäss Aufgebot und Kontrolle Standchef, insgesamt 12 Std.
+- 5\. Wer dem kurzfristigen Aufgebot zur Wildzählung nicht folgen kann, hat die Möglichkeit, diese Hegestunden beim Jagdschiessen oder – wenn möglich – bei den diversen Hegeeinsätzen zu erfüllen.
+- 6\. Bei entschuldigtem und mit Arztzeugnis belegtem krankheits- oder unfallbedingtem Fernbleiben ist eine Ersatzmöglichkeit durch den Hegeobmann anzubieten.
 
- Bei entschuldigtem und mit Arztzeugnis belegtem krankheits- oder unfallbedingtem Fernbleiben ist eine Ersatzmöglichkeit durch den Hegeobmann anzubieten.
-
-- b) Die praktische Ausbildung
-
-**8 Std.**
-
-Jagdhunde Nachsuche
-
-Schweisshundeübung
-
-Praktische Ausbildung
-
-**8 Std.**
-
-Jagdkunde Verhalten vor und nach dem Schuss Weidmännisches Aufbrechen Wildfolge Wildschäden und Verhütung Wildverwertung Wildkunde Ansprechen
-
-**10 Std.**
-
-Fährten und Spuren
-
-Grenzbezeichnungen
-
-**8 Std.**
-
-Waffen und Munition Praktische Handhabung und Umgang Sicherheit
-
-Schiessdemonstration
-
-**8 Std.**
-
-Ökologische Zusammen- Äsungspflanzen hänge
-
- Die zuständigen Ausbildner legen zusammen mit den Jungjägern die Termine der praktischen Fachausbildung fest. Ersatzangebote sind nicht vorgesehen.  Bei entschuldigtem und mit Arztzeugnis belegtem krankheits- oder unfallbedingtem Fernbleiben ist eine Ersatzmöglichkeit durch den Hegeobmann anzubieten.
-
-- c) Mithilfe Wildzählungen, Jagdschiessen
-
-Wildzählungen  Mithilfe bei Wildzählun- pro Jahr 5 Std. gemäss gen Hegeobmann, insgesamt 15 Std.
-
-**Aufgebot und Kontrolle**
-
-Jagdschiessen  Unterhalt Jagdschiess- pro Jahr 4 Std. gemäss stand  Mithilfe Jagdschiessen Standchef, insgesamt 12 Std.
-
-**Aufgebot und Kontrolle**
-
- Wer dem kurzfristigen Aufgebot zur Wildzählung nicht folgen kann, hat die Möglichkeit, diese Hegestunden beim Jagdschiessen oder - wenn möglich - bei den diversen Hegeeinsätzen zu erfüllen.
-
- Bei entschuldigtem und mit Arztzeugnis belegtem krankheits- oder unfallbedingtem Fernbleiben ist eine Ersatzmöglichkeit durch den Hegeobmann anzubieten.
-
-## Weitere Fussnoten
-
-- [1] Mit Revisionen vom 16. August 2004, 13. Mai 2008, 16. September 2014 und 22. Mai 2018.
-- [2] Ingress abgeändert durch StKB vom 16. August 2004.
-- [3] Abgeändert durch StKB vom 16. August 2004.
-- [4] Abgeändert durch StKB vom 22. Mai 2018 (Inkrafttreten: 1. Juni 2018).
-- [5] Abgeändert (Abs. 2) durch StKB vom 16. August 2004. Eingefügt (Abs. 1 lit. h) durch StKB vom 13. Mai 2008 (Inkrafttreten: 1. Juni 2008).
-- [*] Die Verwendung der männlichen Bezeichnungen gilt sinngemäss für beide Geschlechter.
-- [1] Abgeändert durch StKB vom 16. August 2004.
-- [2] Neue Fassung durch StKB vom 13. Mai 2008 (Inkrafttreten: 1. Juni 2008).
-- [1] Abgeändert (Abs. 3, 4 und 5) durch StKB vom 16. August 2004.
-- [1] Abgeändert (Abs. 1) durch StKB vom 16. August 2004.
-- [2] Aufgehoben durch StKB vom 16. August 2004.
-- [3] Abgeändert durch StKB vom 16. August 2004.
-- [1] Eingefügt (Ziff. 3) durch StKB vom 13. Mai 2008 (Inkrafttreten: 1. Juni 2008). Abgeändert (Ziff. 2) durch StKB vom 16. September 2014. Abgeändert durch StKB vom 22. Mai 2018 (Inkrafttreten: 1. Juni 2018).
+cGS -
