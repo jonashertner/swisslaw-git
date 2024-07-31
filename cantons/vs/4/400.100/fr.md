@@ -3,20 +3,19 @@ canton: VS
 number: "400.100"
 title: "Règlement concernant l'octroi de subventions diverses en vertu de la loi sur l'instruction publique"
 language: fr
-version: 2021-08-01
-valid_until: 2024-07-31
-version_adopted: 2021-09-01
+version: 2024-08-01
+version_adopted: 2024-10-16
 adopted: 1988-01-13
 in_force: 1988-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/400.100"
-pdf: "https://lex.vs.ch/api/fr/versions/2951/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3385/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Règlement concernant l'octroi de subventions diverses en vertu de la loi sur l'instruction publique
 
-du 13.01.1988 (état 01.08.2021)
+du 13.01.1988 (état 01.08.2024)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -70,7 +69,7 @@ arrête:
 
 **Directives**
 
-<sup>1</sup> Le versement de la subvention cantonale est subordonné au respect des directives en la matière émises par le Département.
+<sup>1</sup> Le versement de la subvention cantonale est subordonné au respect du règlement concernant la prise en charge des frais pour les ressources pédagogiques relatives à la scolarité obligatoire ou des directives en la matière émises par le Département.
 
 ## 2 Livres, appareils, instruments nécessaires à l’enseignement et matériel général d'enseignement
 

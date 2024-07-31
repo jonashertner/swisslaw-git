@@ -3,20 +3,19 @@ canton: VS
 number: "400.100"
 title: Reglement über die Gewährung von diversen Beiträgen aufgrund des Gesetzes über das öffentliche Unterrichtswesen
 language: de
-version: 2021-08-01
-valid_until: 2024-07-31
-version_adopted: 2021-09-01
+version: 2024-08-01
+version_adopted: 2024-10-16
 adopted: 1988-01-13
 in_force: 1988-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/400.100"
-pdf: "https://lex.vs.ch/api/de/versions/2951/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3385/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Gewährung von diversen Beiträgen aufgrund des Gesetzes über das öffentliche Unterrichtswesen
 
-vom 13.01.1988 (Stand 01.08.2021)
+vom 13.01.1988 (Stand 01.08.2024)
 
 Der Staatsrat des Kantons Wallis
 
@@ -70,7 +69,7 @@ beschliesst:
 
 **Weisungen und Richtlinien**
 
-<sup>1</sup> Die Einhaltung der sachbezüglichen Weisungen und Richtlinien des Departementes sind jeweils Voraussetzung zur Erlangung eines Kantonsbeitrages.
+<sup>1</sup> Die Einhaltung des Reglements über die Gewährung von diversen Beiträgen aufgrund des Gesetzes über das öffentliche Unterrichtswesen oder der sachbezüglichen Weisungen und Richtlinien des Departementes sind jeweils Voraussetzung zur Erlangung eines Kantonsbeitrages.
 
 ## 2 Für den Unterricht notwendige Lehrbücher, Apparate, Instrumente und allgemeines Unterrichtsmaterial
 
