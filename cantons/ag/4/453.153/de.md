@@ -4,13 +4,13 @@ number: "453.153"
 title: Verordnung über die Passerelle Berufsmaturität/Fachmaturität – universitäre Hochschulen
 short: Passerellenverordnung
 language: de
-version: 2024-07-01
-valid_until: 2024-07-31
-version_adopted: 2024-03-13
+version: 2024-08-01
+valid_until: 2026-07-31
+version_adopted: 2023-12-06
 adopted: 2007-05-02
 in_force: 2007-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/453.153"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3499/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3500/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3499/pdf_file"
 
 (Passerellenverordnung)
 
-Vom 02.05.2007 (Stand 01.07.2024)
+Vom 02.05.2007 (Stand 01.08.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -99,11 +99,24 @@ beschliesst:
 
 #### § 8
 
-**Zuständigkeiten betreffend Durchführung der Prüfungen**
+**Zuständigkeiten betreffend Organisation und Durchführung der Prüfungen**
 
-<sup>1</sup> Die Durchführung der Prüfung obliegt der Schulleitung.
+<sup>1</sup> Die Schulleitung ist insbesondere zuständig für die
 
-<sup>2</sup> Sie bezeichnet die Examinatorinnen und Examinatoren, die Expertinnen und Experten sowie die Redaktorinnen und Redaktoren der schriftlichen Prüfungsaufgaben.
+- a) Erstellung des Prüfungsprogramms,
+- b) Auswahl und den Einsatz der Expertinnen und Experten,
+- c) Überwachung des Prüfungsablaufs,
+- d) Ernennung der Redaktorinnen und Redaktoren der schriftlichen Prüfungsaufgaben.
+
+<sup>2</sup> …
+
+<sup>2<sup>bis</sup></sup> Die Ressortleiterinnen und Ressortleiter der Maturitätsprüfungskommission gemäss § 18 der Maturitätsverordnung sind in ihrem Ressort insbesondere zuständig für die
+
+- a) Sicherstellung der Einhaltung der Bestimmungen gemäss § 7 Abs. 1 im Zusammenhang mit den schriftlichen Prüfungen,
+- b) Genehmigung der Aufgaben für die schriftlichen Prüfungen,
+- c) Berichterstattung über den Verlauf der Prüfungen zuhanden der Maturitätsprüfungskommission.
+
+<sup>3</sup> Die Maturitätsprüfungskommission ist insbesondere zuständig für die Genehmigung der von der Schulleitung vorgeschlagenen Expertinnen und Experten.
 
 #### § 9
 
@@ -113,11 +126,13 @@ beschliesst:
 
 **Passerellenkonferenz**
 
-<sup>1</sup> Die Schulleitung legt anlässlich der Passerellenkonferenz die Prüfungsnoten fest und stellt dem Departement Bildung, Kultur und Sport Antrag auf Bestehen beziehungsweise Nichtbestehen der Prüfung.
+<sup>1</sup> Die Passerellenkonferenz erarbeitet die Grundlagen für die Bestehensentscheide zuhanden des Departements Bildung, Kultur und Sport.
 
-<sup>2</sup> Die Examinatorinnen und Examinatoren sowie die Expertinnen und Experten nehmen nach Bedarf an der Passerellenkonferenz mit beratender Stimme teil.
+<sup>2</sup> An den Sitzungen der Passerellenkonferenz nehmen die Expertinnen und Experten sowie die Lehrpersonen, welche die Prüfungen abgenommen haben, nach Bedarf mit beratender Stimme teil.
 
 <sup>3</sup> …
+
+<sup>3<sup>bis</sup></sup> Die Passerellenkonferenz setzt sich jeweils aus zwei Mitgliedern der Maturitätsprüfungskommission und einem Mitglied der Schulleitung zusammen.
 
 #### § 11
 
@@ -143,7 +158,13 @@ beschliesst:
 
 **…**
 
-## 6. Schlussbestimmung
+## 6. Übergangs- und Schlussbestimmungen
+
+#### § 15a
+
+**Übergangsbestimmung**
+
+<sup>1</sup> Für Studierende, die den Lehrgang vor dem Schuljahr 2024/25 begonnen haben, gelten die Bestimmungen des bisherigen Rechts.
 
 #### § 16
 
