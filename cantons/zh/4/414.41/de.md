@@ -4,11 +4,10 @@ number: "414.41"
 title: Gesetz über die Pädagogische Hochschule (PHG)
 short: PHG
 language: de
-version: "2023-08-01"
-nachtrag: "122"
-valid_until: 2024-08-01
+version: "2024-08-01"
+nachtrag: "126"
 adopted: 1999-10-25
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_41-1999_10_25-2002_07_01-122.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_41-1999_10_25-2002_07_01-126.html"
 text: pdf
 ---
 
@@ -36,15 +35,11 @@ beschliesst:
 
 <sup>3</sup> Die Aus- und Weiterbildung befähigt die Lehrkräfte, den Auszubildenden Wissen und Fertigkeiten zu vermitteln, sie als mündige und verantwortungsbewusste Persönlichkeiten zu fördern und auf ein lebenslanges Lernen vorzubereiten.
 
-#### § 2
-
 **Pädagogische Hochschule**
 
-<sup>1</sup> Der Kanton führt für die Aus- und Weiterbildung der Lehrkräfte eine Pädagogische Hochschule.
+§ 2.<sup>22</sup> <sup>1</sup> Der Kanton führt für die Aus- und Weiterbildung der Lehrkräfte eine Pädagogische Hochschule.
 
-<sup>2</sup> Die Pädagogische Hochschule ist eine Hochschule der Zürcher Fachhochschule.<sup>10</sup>
-
-<sup>3</sup> Enthält dieses Gesetz keine ausdrückliche Regelung, gilt das Fachhochschulgesetz<sup>5</sup>.
+<sup>2</sup> Enthält dieses Gesetz keine ausdrückliche Regelung, gilt das Fachhochschulgesetz<sup>5</sup>.
 
 #### § 3
 
@@ -54,11 +49,11 @@ beschliesst:
 
 <sup>2</sup> Die Pädagogische Hochschule vermittelt fachliche, pädagogische, didaktische sowie Beratungs- und Beurteilungskompetenzen. Sie fördert interdisziplinäres Wissen, kritische Urteilskraft, das Arbeiten im Team und die Entwicklung der Persönlichkeit.
 
+<sup>3</sup> Die Pädagogische Hochschule kann Aufgaben für die pädagogisch-didaktische Ausbildung von Lehrkräften an andern Hochschulen übernehmen.
+
 **1**
 
-1.10. 23 - 122
-
-<sup>3</sup> Die Pädagogische Hochschule kann Aufgaben für die pädagogisch-didaktische Ausbildung von Lehrkräften an andern Hochschulen übernehmen.
+1.10. 24 - 126
 
 <sup>4</sup> Die Pädagogische Hochschule kann auch Aufgaben im Bereich und in der Lehre der Erwachsenenbildung wahrnehmen.
 
@@ -128,11 +123,9 @@ Die Pädagogische Hochschule kann mit anderen Hochschulen sowie mit weiteren Ins
 
 <sup>4</sup> Die Zulassung zur Pädagogischen Hochschule berechtigt zum Besuch der entsprechenden fachwissenschaftlichen Ausbildung an der Universität.
 
-**3**
-
-1.10. 23 - 122 § 7 b.<sup>20</sup> Voraussetzungen für die Zulassung zum Studium für Quereinsteigende sind:
-
 **Studium für Quereinsteigende**
+
+§ 7 b.<sup>20</sup> Voraussetzungen für die Zulassung zum Studium für Quereinsteigende sind:
 
 - a. vollendetes 30. Altersjahr,
 
@@ -142,9 +135,11 @@ Die Pädagogische Hochschule kann mit anderen Hochschulen sowie mit weiteren Ins
 
 - d. erfolgreich abgeschlossenes Aufnahmeverfahren.
 
-**Lehrkräftemangel**
+**3**
 
-§ 7 c.<sup>16</sup> Besteht ein Mangel an Lehrkräften der Volksschule, kann der Regierungsrat vorübergehend abweichende Regelungen für die Zulassung zu den Studiengängen für Quereinsteigende festlegen.
+1.10. 24 - 126 § 7 c.<sup>16</sup> Besteht ein Mangel an Lehrkräften der Volksschule, kann der Regierungsrat vorübergehend abweichende Regelungen für die Zulassung zu den Studiengängen für Quereinsteigende festlegen.
+
+**Lehrkräftemangel**
 
 **Persönliche Voraussetzungen**
 
@@ -172,9 +167,11 @@ Die Pädagogische Hochschule kann mit anderen Hochschulen sowie mit weiteren Ins
 
 <sup>3</sup> Das Basisstudium dient insbesondere der Eignungsabklärung sowie dem Aufbau beruflicher Grundlagen und schliesst mit einer Prüfung ab. Das Diplomstudium vermittelt vertiefte Kenntnisse und Fähigkeiten.<sup>17</sup>
 
-<sup>4</sup> In den Studiengängen für Quereinsteigende wird die Ausbildung nach dem Basisstudium in der Regel mit einer Lehrtätigkeit an der Volksschule in Teilzeit verbunden.<sup>17</sup> § 9 a.<sup>16</sup> <sup>1</sup> Die Ausbildung für Lehrkräfte der Sekundarstufe I gliedert sich in ein Bachelor- und ein Masterstudium. Sie wird in der Regel als integrierter Studiengang geführt.
+<sup>4</sup> In den Studiengängen für Quereinsteigende wird die Ausbildung nach dem Basisstudium in der Regel mit einer Lehrtätigkeit an der Volksschule in Teilzeit verbunden.<sup>17</sup>
 
 **Besonderheiten für die Sekundarstufe I**
+
+§ 9 a.<sup>16</sup> <sup>1</sup> Die Ausbildung für Lehrkräfte der Sekundarstufe I gliedert sich in ein Bachelor- und ein Masterstudium. Sie wird in der Regel als integrierter Studiengang geführt.
 
 <sup>2</sup> Ein konsekutiver Masterstudiengang wird angeboten für Inhaberinnen und Inhaber a. eines Bachelorabschlusses für die Primarstufe,
 
@@ -216,13 +213,15 @@ Die Pädagogische Hochschule kann mit anderen Hochschulen sowie mit weiteren Ins
 
 <sup>4</sup> Sie kann im Einzelfall einer Person die Zulassung zu einer Unterrichtstätigkeit in einem Teilbereich erteilen, sofern sie die für diese Tätigkeit notwendigen Voraussetzungen erfüllt. Die Zulassung kann befristet und provisorisch erteilt sowie mit Auflagen und Bedingungen verbunden werden.<sup>15</sup>
 
-**5**
-
-1.10. 23 - 122 § 13.<sup>11</sup>
+§ 13.<sup>11</sup>
 
 **Berufseinführung**
 
 § 14. Die Pädagogische Hochschule sorgt für die Berufseinführung. Sie umfasst obligatorische und fakultative Teile.
+
+**5**
+
+1.10. 24 - 126
 
 ### C. Ausbildungsgänge
 
@@ -302,21 +301,11 @@ Der Regierungsrat erlässt für die Einführung des Gesetzes eine Übergangsordn
 
 Das Lehrerbildungsgesetz vom 24. September 1978 wird aufgehoben.
 
-**7**
-
-1.10. 23 - 122
-
 ### Übergangsbestimmung zur Änderung vom 28. November 2022
 
 (OS 78, 260)
 
 Studierende, die den Ausbildungsgang Kindergartenstufe vor Inkrafttreten dieser Änderung begonnen haben, schliessen diesen nach bisherigem Recht ab.
-
-<sup>1</sup> OS 56, 99.
-
-<sup>2</sup> In Kraft seit 1. Juli 2002 (OS 57, 233). § 24 in Kraft seit 12. Juli 2000 (OS 56, 167).
-
-<sup>3</sup> ABl 1998, 1107.
 
 <sup>4</sup> LS 410.4.
 
@@ -354,6 +343,11 @@ Studierende, die den Ausbildungsgang Kindergartenstufe vor Inkrafttreten dieser 
 
 <sup>21</sup> Aufgehoben durch G vom 28. November 2022 (OS 78, 260; ABl 2022-03-04). In Kraft seit 1. August 2023.
 
-**9**
+<sup>22</sup> Fassung gemäss FaHG vom 13. November 2023 (OS 79, 227; ABl 2021-09-24). In Kraft seit 1. August 2024.
 
-1.10. 23 - 122
+## Weitere Fussnoten
+
+- [1] OS 56, 99.
+- [2] In Kraft seit 1. Juli 2002 (OS 57, 233). § 24 in Kraft seit 12. Juli 2000 (OS 56,
+- [167] .
+- [3] ABl 1998, 1107. 1.10. 24 - 126 7
