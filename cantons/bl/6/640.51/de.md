@@ -3,20 +3,19 @@ canton: BL
 number: "640.51"
 title: Verordnung über die spezielle Förderung von sportbegabten Jugendlichen
 language: de
-version: 2022-01-01
-valid_until: 2024-07-31
-version_adopted: 2021-12-14
+version: 2024-08-01
+version_adopted: 2023-12-19
 adopted: 2004-08-31
 in_force: 2004-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/640.51"
-pdf: "https://bl.clex.ch/api/de/versions/3734/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3863/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die spezielle Förderung von sportbegabten Jugendlichen
 
-Vom 31.08.2004 (Stand 01.01.2022)
+Vom 31.08.2004 (Stand 01.08.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -106,13 +105,13 @@ beschliesst:
 
 <sup>2</sup> Sie werden gemäss Personalgesetzgebung auf der Basis von 42 Wochenstunden angestellt.
 
-<sup>3</sup> Anstellungsbehörde ist die Kommission.
+<sup>3</sup> Anstellungsbehörde ist die Schulleitung.
 
 #### § 6
 
 **Klassenlehrerinnen und -lehrer**
 
-<sup>1</sup> Die Kommission bestimmt die Klassenlehrerin oder den Klassenlehrer für die Sportklasse auf der Sekundarstufe I.
+<sup>1</sup> Die Schulleitung bestimmt die Klassenlehrerin oder den Klassenlehrer für die Sportklasse auf der Sekundarstufe I.
 
 <sup>2</sup> Für die Sportklassen der Sekundarstufe II bezeichnen die Schulleitungen der entsprechenden Schulen die Klassenlehrer und -lehrerinnen, welche je mit 1 zusätzlichen Jahreslektion für die Koordinationstätigkeiten entlastet werden.
 
@@ -146,7 +145,7 @@ beschliesst:
 
 - a. …
 - b. des Sportamts;
-- c. der Hauptabteilung Berufsbildung der Dienststelle Berufsbildung, Mittelschulen und Hochschulen;
+- c. der Hauptabteilung Berufs- und Mittelschulen der Dienststelle Berufsbildung, Mittelschulen und Hochschulen;
 - d. des Amts für Volksschulen;
 - e. der Schulleitungen der Schulen, an denen Sportklassen geführt werden;
 - f. …
@@ -234,6 +233,8 @@ beschliesst:
 - c. schriftliche Verwarnung zuhanden der Erziehungsberechtigten, der Sportverantwortlichen und der Schulbeteiligten;
 - d. Ausschluss aus der Leistungssportförderung, was einen Übertritt in eine Regelschulklasse zur Folge hat.
 
+<sup>2</sup> Gegen Entscheide gemäss Abs. 1 Bst. d kann Beschwerde beim Regierungsrat erhoben werden.
+
 #### § 10d
 
 **Verhältnismässigkeit**
@@ -250,7 +251,7 @@ beschliesst:
 
 <sup>1</sup> Die Kommission Leistungssportförderung sorgt in Absprache mit den Schulen, an welchen Sportklassen geführt werden, für eine einheitliche Disziplinarpraxis gegenüber Schülern und Schülerinnen der Leistungssportförderung Baselland.
 
-<sup>2</sup> Bei Disziplinarverstössen von Schülerinnen und Schülern mit einer Individuallösung sind die Lehrerinnen und Lehrer, die Schulleitung sowie der Schulrat der entsprechenden Schule für die Ergreifung von Massnahmen zuständig.
+<sup>2</sup> Bei Disziplinarverstössen von Schülerinnen und Schülern mit einer Individuallösung sind die Lehrerinnen und Lehrer, die Schulleitung sowie bei kommunalen Schulen der Schulrat oder, sofern sich die Gemeinde für die Schulführung durch den Gemeinderat entscheidet, der Gemeinderat der entsprechenden Schule für die Ergreifung von Massnahmen zuständig.
 
 #### § 10f
 
