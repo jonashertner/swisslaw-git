@@ -3,20 +3,20 @@ canton: LU
 number: "444"
 title: Reglement über die Berufsmaturität
 language: de
-version: 2023-08-01
-valid_until: 2024-07-31
-version_adopted: 2023-06-13
+version: 2024-08-01
+valid_until: 2025-12-31
+version_adopted: 2023-09-19
 adopted: 2013-07-02
 in_force: 2013-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/444"
-pdf: "https://srl.lu.ch/api/de/versions/4111/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4218/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Berufsmaturität
 
-vom 02.07.2013 (Stand 01.08.2023)
+vom 02.07.2013 (Stand 01.08.2024)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -147,30 +147,65 @@ beschliesst:
 
 #### § 12
 
-**Aufnahme in schulisch organisierte und in lehrbegleitende Angebote**
+**Aufnahme in ein schulisch organisiertes Angebot**
 
-<sup>1</sup> Die Aufnahme in ein schulisch organisiertes oder in ein lehrbegleitendes Angebot setzt ein bestandenes Aufnahmeverfahren voraus.
+<sup>1</sup> Die Aufnahme in ein schulisch organisiertes Angebot setzt ein bestandenes Aufnahmeverfahren voraus.
 
-<sup>1<sup>bis</sup></sup> Voraussetzung für die Aufnahme ist, unter Vorbehalt der Absätze 2<sup>bis</sup>–4<sup>bis</sup>,
+<sup>1<sup>bis</sup></sup> Voraussetzung für die definitive Aufnahme in das erste Semester ist, unter Vorbehalt der Absätze 2<sup>bis</sup>–4<sup>bis</sup>,
 
-- a. im getrennt geführten Sekundarschulmodell das Erzielen von mindestens drei Zeugnisnoten von mindestens 4,5 und maximal einer Zeugnisnote von mindestens 4 in allen Niveaufächern im Niveau A und im Fach Natur und Technik die Zeugnisnote von mindestens 4,5 im Anforderungsniveau A/B, und zwar im ersten Semester der 3. Klasse einer öffentlichen Sekundarschule im laufenden oder im vorangegangenen Schuljahr,
-- b. im kooperativen und im integriert geführten Sekundarschulmodell das Erzielen einer Zeugnisnote von mindestens 4,5 in mindestens drei Niveaufächern des Niveaus A, einer Zeugnisnote von mindesten 4,5 in einem Niveaufach im Niveau B und im Fach Natur und Technik die Zeugnisnote von mindestens 4,5 im Anforderungsniveau A/B, und zwar im ersten Semester der 3. Klasse einer öffentlichen Sekundarschule im laufenden oder im vorangegangenen Schuljahr,
-- b<sup>bis</sup>. das Erzielen mindestens je der Zeugnisnote 4,5 in den Fächern Deutsch, Französisch, Englisch und Mathematik im ersten Semester der 3. Klasse eines Langzeitgymnasiums oder der 1. Klasse eines Kurzzeitgymnasiums im laufenden oder im vorangegangenen Schuljahr oder
-- c. das Bestehen einer Aufnahmeprüfung in den Fächern Deutsch, Französisch, Englisch und Mathematik.
+- a. das Erzielen der Zeugnisnoten gemäss § 12b im zweiten Semester der 2. Klasse und im ersten Semester der 3. Klasse einer öffentlichen Sekundarschule im laufenden oder im vorangegangenen Schuljahr,
+- b. das Erzielen der Zeugnisnoten gemäss § 12b im zweiten Semester der 2. Klasse und im ersten Semester der 3. Klasse eines Langzeitgymnasiums,
+- b<sup>bis</sup>. das Erzielen der Zeugnisnoten gemäss § 12b im letzten Semester einer öffentlichen Sekundarschule vor Eintritt in ein Kurzzeitgymnasium und im ersten Semester der 1. Klasse eines Kurzzeitgymnasiums oder
+- c. das Bestehen der Aufnahmeprüfung in den Fächern Deutsch, Französisch, Englisch und Mathematik und das Erzielen der Zeugnisnoten gemäss § 12b im ersten Semester der 3. Klasse einer öffentlichen Sekundarschule oder eines Langzeitgymnasiums oder in der 1. Klasse eines Kurzzeitgymnasiums.
 
-<sup>2</sup> Der Prüfungsstoff der Aufnahmeprüfung richtet sich nach dem Lehrplan der Sekundarschule (5. Semester).
+<sup>1<sup>ter</sup></sup> Die Aufnahme erfolgt provisorisch, wenn in den Fällen nach Absatz 1<sup>bis</sup>a–b<sup>bis</sup> die Zeugnisnoten jeweils nur im ersten von beiden Semestern erreicht werden oder im Fall nach Absatz 1<sup>bis</sup>c nach dem Bestehen der Aufnahmeprüfung die Zeugnisnoten im folgenden Semester nicht erreicht werden. Provisorisch aufgenommene Lernende müssen am Ende des ersten Semesters die Voraussetzungen von § 15 Absatz 1 erfüllen. Ansonsten werden sie vom Angebot ausgeschlossen.
 
-<sup>2<sup>bis</sup></sup> In schulisch organisierte Angebote wird nur aufgenommen, wer zu Beginn des ersten Schuljahres das 18. Altersjahr noch nicht vollendet hat. Die Schulleitung kann Ausnahmen bewilligen.
+<sup>2</sup> Der Prüfungsstoff der Aufnahmeprüfung richtet sich nach dem Inhalt des Lehrplans der öffentlichen Sekundarschule bis und mit dem letzten Semester vor der Aufnahmeprüfung.
 
-<sup>3</sup> Berufsmaturitätsangebote mit der Ausrichtung Gestaltung und Kunst setzen zudem eine bestandene gestalterische Eignungsprüfung voraus. Die ersten zwei Semester nach Aufnahme in ein schulisch organisiertes Angebot gelten als Probezeit. Lernende werden definitiv aufgenommen, wenn am Ende des zweiten Semesters die Voraussetzungen von § 17 erfüllt sind.
+<sup>2<sup>bis</sup></sup> Aufgenommen wird nur, wer zu Beginn des ersten Schuljahres das 18. Altersjahr noch nicht vollendet hat. Die Schulleitung kann Ausnahmen bewilligen.
 
-<sup>4</sup> Für die Aufnahme in die Gesundheitsmittelschule ist ein Orientierungsjahr an einer Fachmittelschule oder eine gleichwertige Vorbildung zu absolvieren. Lernende von Fachmittelschulen müssen am Ende des Orientierungsjahres in der Regel definitiv promoviert sein. Über Ausnahmen entscheidet die Schulleitung. Sie kann die probeweise Aufnahme verfügen. Zusätzlich ist der Nachweis über einen Praktikumsplatz für das dritte Ausbildungsjahr erforderlich.
+<sup>3</sup> Die Aufnahme in die Fachklasse Grafik setzt zudem ein bestandenes gestalterisches Aufnahmeverfahren voraus. Die Aufnahme ist provisorisch. Die definitive Aufnahme hängt vom Bestehen einer Eignungsabklärung ab, welche gegen Ende des zweiten Semesters des ersten Schuljahres durchgeführt wird. Bei Nichtbestehen der Eignungsabklärung erfolgt der Ausschluss vom Angebot. Über Ausnahmen entscheidet die Schulleitung.
 
-<sup>4<sup>bis</sup></sup> Die Aufnahme in die Informatikmittelschule setzt ein bestandenes Aufnahmeverfahren sowie den Nachweis über praktische Erfahrung in einem Informatikbetrieb oder über eine gleichwertige Vorbildung voraus. Das erste Semester nach der Aufnahme gilt als Probezeit. Lernende werden definitiv aufgenommen, wenn am Ende des ersten Semesters die Voraussetzungen von § 17a erfüllt sind.
+<sup>4</sup> Für die Aufnahme in die Gesundheitsmittelschule ist ein Orientierungsjahr an einer Fachmittelschule oder eine gleichwertige Vorbildung zu absolvieren. Zusätzlich ist der Nachweis über einen Praktikumsplatz für das dritte Ausbildungsjahr erforderlich.
+
+<sup>4<sup>bis</sup></sup> Die Aufnahme in die Informatikmittelschule setzt ein bestandenes Aufnahmeverfahren sowie den Nachweis über praktische Erfahrung in einem Informatikbetrieb oder über eine gleichwertige Vorbildung voraus.
 
 <sup>5</sup> Die ausserordentliche Aufnahme ist probeweise möglich. Die Schulleitung entscheidet über ausserordentliche Aufnahmen. Sie entscheidet auch über die erste Promotion nach einer probeweisen Aufnahme. Im Übrigen gelten die Voraussetzungen und das Verfahren für die ordentliche Aufnahme sinngemäss.
 
-<sup>6</sup> Die Aufnahme in das lehrbegleitende Angebot mit vorgezogenem Berufsmaturitätsunterricht setzt das Erfüllen der Richtwerte für den Übertritt in ein Kurzzeitgymnasium im ersten Semester der 2. Klasse einer öffentlichen Sekundarschule im laufenden Schuljahr voraus.
+<sup>6</sup> …
+
+#### § 12a
+
+**Aufnahme in ein lehrbegleitendes Angebot**
+
+<sup>1</sup> Die Aufnahme in ein lehrbegleitendes Angebot setzt ein bestandenes Aufnahmeverfahren voraus.
+
+<sup>2</sup> Voraussetzung für die Aufnahme ist,
+
+- a. das Erzielen der Zeugnisnoten gemäss § 12b im ersten Semester der 3. Klasse einer öffentlichen Sekundarschule im laufenden oder im vorangegangenen Schuljahr,
+- b. das Erzielen der Zeugnisnoten gemäss § 12b im ersten Semester der 3. Klasse eines Langzeitgymnasiums,
+- c. das Erzielen der Zeugnisnoten gemäss § 12b im ersten Semester der 1. Klasse eines Kurzzeitgymnasiums oder
+- d. das Bestehen einer Aufnahmeprüfung in den Fächern Deutsch, Französisch, Englisch und Mathematik.
+
+<sup>3</sup> Der Prüfungsstoff der Aufnahmeprüfung richtet sich nach dem Inhalt des Lehrplans der öffentlichen Sekundarschule bis und mit dem letzten Semester vor der Aufnahmeprüfung.
+
+<sup>4</sup> Berufsmaturitätsangebote mit der Ausrichtung Gestaltung und Kunst setzen zudem eine bestandene gestalterische Eignungsprüfung voraus.
+
+<sup>5</sup> Die ausserordentliche Aufnahme ist probeweise möglich. Die Schulleitung entscheidet über ausserordentliche Aufnahmen. Sie entscheidet auch über die erste Promotion nach einer probeweisen Aufnahme. Im Übrigen gelten die Voraussetzungen und das Verfahren für die ordentliche Aufnahme sinngemäss.
+
+<sup>6</sup> Die Aufnahme in das lehrbegleitende Angebot mit vorgezogenem Berufsmaturitätsunterricht setzt das Erzielen der Zeugnisnoten für den Übertritt in ein Kurzzeitgymnasium im ersten Semester der 2. Klasse einer öffentlichen Sekundarschule im laufenden Schuljahr voraus.
+
+#### § 12b
+
+**Zeugnisnoten für die Aufnahme in schulisch organisierte und lehrbegleitende Angebote**
+
+<sup>1</sup> Im getrennt geführten Sekundarschulmodell sind für die Aufnahme mindestens drei Zeugnisnoten von mindestens 4,5 und maximal eine Zeugnisnote von mindestens 4 in den Niveaufächern im Niveau A Voraussetzung.
+
+<sup>2</sup> Im kooperativen und im integriert geführten Sekundarschulmodell sind für die Aufnahme eine Zeugnisnote von mindestens 4,5 in mindestens drei Niveaufächern des Niveaus A und eine Zeugnisnote von mindestens 4,5 in einem Niveaufach im Niveau B Voraussetzung.
+
+<sup>3</sup> In allen Sekundarschulmodellen ist für die Aufnahme die Zeugnisnote von mindestens 4,5 im Anforderungsniveau A/B im Fach Natur und Technik Voraussetzung.
+
+<sup>4</sup> Im Langzeit- und im Kurzzeitgymnasium ist in den Fächern Deutsch, Französisch, Englisch und Mathematik eine Zeugnisnote von mindestens 4,5 Voraussetzung.
 
 #### § 13
 
@@ -227,7 +262,7 @@ beschliesst:
 
 <sup>2</sup> …
 
-<sup>3</sup> Wer ein schulisch organisiertes Angebot besucht und die Voraussetzungen für die definitive Promotion nicht erfüllt, kann einmal provisorisch promoviert werden. Wer danach die Voraussetzungen für die definitive Promotion nicht erfüllt, kann einmal ein Unterrichtsjahr wiederholen oder wird vom Berufsmaturitätsangebot ausgeschlossen. Über den Umfang der Wiederholung entscheidet die Schulleitung.
+<sup>3</sup> Wer ein schulisch organisiertes Angebot besucht und die Voraussetzungen für die definitive Promotion nicht erfüllt, kann einmal provisorisch promoviert werden. Wer danach die Voraussetzungen für die definitive Promotion nicht erfüllt, kann einmal ein Unterrichtsjahr wiederholen oder wird vom Berufsmaturitätsangebot ausgeschlossen. Die Wiederholung des ersten Schuljahres ist in der Regel nicht möglich. Über Ausnahmen und den Umfang der Wiederholung entscheidet die Schulleitung.
 
 <sup>3<sup>bis</sup></sup> Wer ein lehrbegleitendes Angebot besucht und die Voraussetzungen für die definitive Promotion nicht erfüllt, kann einmal provisorisch promoviert werden. Wer danach die Voraussetzungen für die definitive Promotion nicht erfüllt, wird vom Berufsmaturitätsangebot ausgeschlossen.
 
@@ -245,7 +280,7 @@ beschliesst:
 - b. die Differenz der ungenügenden Noten zur Note 4 gesamthaft den Wert 2,5 nicht übersteigt und
 - c. nicht mehr als drei Noten ungenügend sind.
 
-<sup>2</sup> Die Wiederholung des ersten Schuljahres ist nur in begründeten Ausnahmefällen möglich. Die Schulleitung entscheidet über die Ausnahmen. Im Übrigen gilt § 15.
+<sup>2</sup> …
 
 [^16-1]: SR [412.103.1](https://db.clex.ch/link/Bund/412.103.1/de)
 
