@@ -3,20 +3,19 @@ canton: BL
 number: "645"
 title: Schulgesundheitsgesetz
 language: de
-version: 2019-08-01
-valid_until: 2024-07-31
-version_adopted: 2019-01-17
+version: 2024-08-01
+version_adopted: 2022-09-15
 adopted: 2019-01-17
 in_force: 2019-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/645"
-pdf: "https://bl.clex.ch/api/de/versions/3064/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3772/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Schulgesundheitsgesetz
 
-Vom 17.01.2019 (Stand 01.08.2019)
+Vom 17.01.2019 (Stand 01.08.2024)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -67,7 +66,7 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Die Schulgesundheitskommission wird vom Regierungsrat auf eine Amtsperiode von 4 Jahren gewählt.
 
-<sup>2</sup> Der Kommission gehören mindestens 2 Ärztinnen oder Ärzte, je 1 Vertreterin oder 1 Vertreter eines Schulrats, einer Schulleitung und der Gemeinden sowie je 1 Vertreterin oder 1 Vertreter der für das Gesundheitswesen und der für die Bildung zuständigen Direktion an.
+<sup>2</sup> Der Kommission gehören mindestens 2 Ärztinnen oder Ärzte, 2 Schulleitungsmitglieder sowie je 1 Vertreterin oder 1 Vertreter der für das Gesundheitswesen und der für die Bildung zuständigen Direktion an.
 
 <sup>3</sup> Die Kommission konstituiert sich selbst, wobei der Vorsitz von einer Ärztin oder einem Arzt übernommen wird.
 
@@ -84,15 +83,17 @@ beschliesst:[^ingress-2]
 
 #### § 6
 
-**Schulleitungen und Schulräte, Aufgaben**
+**Schulleitungen und vorgesetzte Stellen, Aufgaben**
 
 <sup>1</sup> Die Schulleitung trägt die Verantwortung für die Umsetzung der Vorgaben dieses Gesetzes an ihrer Schule.
 
 <sup>2</sup> Sie trifft insbesondere die notwendigen Massnahmen zur Sicherstellung angemessener hygienischer Verhältnisse in den Schulhäusern.
 
-<sup>3</sup> Der Schulrat kontrolliert die Umsetzung und schlägt der Direktion die Schulärztinnen und Schulärzte zur Wahl vor.
+<sup>2<sup>bis</sup></sup> Sie schlägt der Direktion die Schulärztinnen und Schulärzte zur Wahl vor.
 
-<sup>4</sup> In den privaten Heimen und den Privatschulen werden die Aufgaben der Schulleitung und des Schulrats sinngemäss von den entsprechenden Schulleitungen und Organen der Trägerschaft wahrgenommen.
+<sup>3</sup> Die der Schulleitung vorgesetzte Stelle kontrolliert die Umsetzung.
+
+<sup>4</sup> In den privaten Heimen und den Privatschulen werden die Aufgaben der Schulleitung und der vorgesetzten Stelle sinngemäss von den entsprechenden Schulleitungen und Organen der Trägerschaft wahrgenommen.
 
 #### § 7
 
@@ -100,7 +101,7 @@ beschliesst:[^ingress-2]
 
 <sup>1</sup> Jede Schule verfügt über mindestens 1 Schulärztin oder 1 Schularzt.
 
-<sup>2</sup> Die Schulärztinnen und Schulärzte werden von der Direktion auf Antrag des Schulrats gewählt.
+<sup>2</sup> Die Schulärztinnen und Schulärzte werden von der Direktion auf Antrag der Schulleitung gewählt.
 
 <sup>3</sup> Wählbar sind Ärztinnen und Ärzte mit Bewilligung zur Berufsausübung in eigener fachlicher Verantwortung im Kanton oder in einem Nachbarkanton.
 
@@ -190,10 +191,6 @@ beschliesst:[^ingress-2]
 
 #### § 15
 
-**Rechtspflege**
-
-<sup>1</sup> Gegen Verfügungen der Schulleitung kann innert 10 Tagen seit ihrer Eröffnung beim Schulrat Beschwerde erhoben werden.
-
-<sup>2</sup> Gegen Verfügungen und Entscheide der Direktion und des Schulrates kann innert 10 Tagen seit ihrer Eröffnung beim Regierungsrat Beschwerde erhoben werden.
+**…**
 
 GS 2019.037
