@@ -4,13 +4,12 @@ number: "311.1"
 title: Loi sur le droit pénal cantonal
 short: LDPén
 language: fr
-version: 2021-07-01
-valid_until: 2024-07-31
-version_adopted: 2021-03-07
+version: 2024-08-01
+version_adopted: 2023-11-28
 adopted: 2009-04-09
 in_force: 2011-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/311.1"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2288/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3049/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2288/pdf_file"
 
 (LDPén)
 
-du 09.04.2009 (état au 01.07.2021)
+du 09.04.2009 (état au 01.08.2024)
 
 Le Grand Conseil du canton de Berne,
 
@@ -129,6 +128,14 @@ arrête:
 #### Art. 13
 
 **…**
+
+#### Art. 13a
+
+**Remise de produits dangereux pour la santé à des mineurs**
+
+<sup>1</sup> Quiconque aura remis des produits du tabac, des produits à fumer à base de plantes, des cigarettes électroniques, des produits nicotiniques à usage oral sans tabac ou des spiritueux à une personne de moins de 18 ans sans être titulaire de l'autorité parentale sera puni de l'amende.
+
+<sup>2</sup> Quiconque aura remis des boissons alcoolisées à une personne de moins de 16 ans sans être titulaire de l'autorité parentale sera puni de l'amende.
 
 #### Art. 14
 
