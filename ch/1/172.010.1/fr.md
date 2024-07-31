@@ -4,11 +4,11 @@ title: "Ordonnance du 25 novembre 1998 sur l'organisation du gouvernement et de 
 short: OLOGA
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/170"
 language: fr
-version: 2024-02-01
+version: 2024-08-01
 adopted: 1998-11-25
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-1999-170-20240201-fr-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20240201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20240801/fr/xml/fedlex-data-admin-ch-eli-cc-1999-170-20240801-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20240801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20240201/fr"
 
 (OLOGA)
 
-du 25 novembre 1998 (État le 1<sup>er</sup> février 2024)
+du 25 novembre 1998 (État le 1<sup>er</sup> août 2024)
 
 Le Conseil fédéral suisse,
 
@@ -952,6 +952,8 @@ Ne sont pas soumis à l’exigence de la double signature:
 
 #### Art. 23
 
+**Compétences[^23-1]**
+
 <sup>1</sup> La Chancellerie fédérale est responsable, en collaboration avec les départements, de l’information de l’Assemblée fédérale, des cantons et du public portant sur les décisions et les intentions du Conseil fédéral, ainsi que sur les mesures qu’il prend. Elle assure la planification indispensable et élabore les principes régissant la politique de communication du Conseil fédéral.
 
 <sup>2</sup> Les départements et la Chancellerie fédérale répondent de l’information et de la communication dans leur domaine. Ils respectent la ligne générale de la politique de communication du Conseil fédéral. Ils règlent les tâches d’information qui incombent aux unités qui leur sont subordonnées.
@@ -961,6 +963,74 @@ Ne sont pas soumis à l’exigence de la double signature:
 <sup>4</sup> S’il y a lieu, le Conseil fédéral peut centraliser l’information et la communication auprès du président de la Confédération, de la Chancellerie fédérale, d’un département ou d’une unité administrative. L’organe désigné a le droit de donner des instructions.
 
 [^chap3-sec4-1]: Nouvelle teneur de la référence selon le ch. I de l’O du 21 août 2002, en vigueur depuis le 1<sup>er</sup> oct. 2002 ([RO 2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)).
+[^23-1]: Introduit par le ch. I de l’O du 19 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 313](https://fedlex.data.admin.ch/eli/oc/2024/313)).
+
+#### Art. 23a
+
+**Utilisation des médias sociaux**[^23a-1]
+
+<sup>1</sup>
+
+Les unités administratives peuvent gérer leur présence (profils) dans les médias sociaux pour proposer des informations si:
+
+- a. les contenus de leurs profils sont accessibles à toutes les personnes majeures habitant en Suisse;
+- b. elles peuvent rendre leurs profils et leurs contenus inaccessibles à tout moment.
+
+<sup>2</sup> Les informations proposées dans les médias sociaux doivent également être disponibles, dans leurs grandes lignes, par d’autres canaux que les unités administratives contrôlent elles-mêmes et qui sont librement accessibles à toute personne.
+
+<sup>3</sup> Sont réputées médias sociaux les plateformes électroniques qui servent à la communication avec le public et permettent aux utilisateurs de proposer eux-mêmes des contenus pour d’autres utilisateurs.
+
+[^23a-1]: Introduit par le ch. I de l’O du 19 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 313](https://fedlex.data.admin.ch/eli/oc/2024/313)).
+
+#### Art. 23b
+
+**Gestion de profils interactifs**[^23b-1]
+
+<sup>1</sup>
+
+Les unités administratives peuvent gérer des profils interactifs dans les médias sociaux si, sur ces profils:
+
+- a. toutes les personnes majeures habitant en Suisse peuvent poster des contributions;
+- b. les unités administratives peuvent réagir aux contributions des utilisateurs par leurs propres contributions, et que
+- c. les unités administratives peuvent masquer, effacer ou faire disparaître d’une autre manière les contributions d’utilisateurs.
+
+<sup>2</sup> Elles garantissent qu’elles peuvent être contactées au moyen de leurs profils.
+
+[^23b-1]: Introduit par le ch. I de l’O du 19 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 313](https://fedlex.data.admin.ch/eli/oc/2024/313)).
+
+#### Art. 23c
+
+**Modération des profils interactifs**[^23c-1]
+
+<sup>1</sup>
+
+Les unités administratives peuvent, sur leurs profils, faire disparaître des contributions:
+
+- a.
+
+  s’il existe des motifs concrets de croire qu’elles:
+
+  - 1\. incitent à commettre un délit ou un crime,
+  - 2\. incitent à la haine ou à la violence,
+  - 3\. ont des contenus portant atteinte à la personnalité ou à l’honneur, menaçants, discriminatoires, pornographiques ou représentant des actes de violence,
+  - 4\. incitent à des comportements qui portent gravement atteinte à la santé ou à la sécurité personnelle,
+  - 5\. contiennent de la publicité commerciale,
+  - 6\. sont générées automatiquement, ou
+
+- b.
+
+  si elles sont réitérées et:
+
+  - 1\. sont manifestement hors sujet, ou
+  - 2\. sont manifestement fausses sur le plan matériel et qu’il y a des motifs concrets de croire qu’elles servent à la désinformation.
+
+<sup>2</sup> Lorsque les contributions sont extraordinairement nombreuses, il est possible de les faire disparaître automatiquement pendant un certain temps.
+
+<sup>3</sup> L’unité administrative peut bloquer un utilisateur pendant deux ans au plus en cas d’infractions réitérées ou particulièrement graves.
+
+<sup>4</sup> Le blocage est levé après l’expiration du délai de blocage, si l’utilisateur le demande.
+
+[^23c-1]: Introduit par le ch. I de l’O du 19 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 313](https://fedlex.data.admin.ch/eli/oc/2024/313)).
 
 ### Section 5 Surveillance
 

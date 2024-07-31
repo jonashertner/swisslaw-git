@@ -4,11 +4,11 @@ title: Regierungs- und Verwaltungsorganisationsverordnung vom 25. November 1998 
 short: RVOV
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/170"
 language: de
-version: 2024-02-01
+version: 2024-08-01
 adopted: 1998-11-25
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20240201/de/xml/fedlex-data-admin-ch-eli-cc-1999-170-20240201-de-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20240201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20240801/de/xml/fedlex-data-admin-ch-eli-cc-1999-170-20240801-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20240801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20240201/de"
 
 (RVOV)
 
-vom 25. November 1998 (Stand am 1. Februar 2024)
+vom 25. November 1998 (Stand am 1. August 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -953,6 +953,8 @@ Vom Erfordernis der Doppelunterschrift ausgenommen sind:
 
 #### Art. 23
 
+**Zuständigkeiten[^23-1]**
+
 <sup>1</sup> Die Bundeskanzlei ist, in Zusammenarbeit mit den Departementen, zuständig für die Information der Bundesversammlung, der Kantone und der Öffentlichkeit über Entscheide, Absichten und Vorkehren des Bundesrates. Sie sorgt für die nötige Planung und erarbeitet die Grundsätze für die Kommunikationspolitik des Bundesrates.
 
 <sup>2</sup> Die Departemente und die Bundeskanzlei tragen die Verantwortung für die interne und externe Information und Kommunikation über ihre Geschäfte. Sie stellen diese in den Gesamtzusammenhang der Kommunikationspolitik des Bundesrates. Sie regeln die Informationsaufgaben der ihnen untergeordneten Einheiten.
@@ -962,6 +964,74 @@ Vom Erfordernis der Doppelunterschrift ausgenommen sind:
 <sup>4</sup> Bei Bedarf kann der Bundesrat die Information und Kommunikation bei der Bundespräsidentin oder dem Bundespräsidenten, bei der Bundeskanzlei, einem Departement oder einer anderen bezeichneten Stelle zentralisieren. Die bezeichnete Stelle erhält entsprechende Weisungsbefugnisse.
 
 [^chap3-sec4-1]: Fassung gemäss Ziff. I der V vom 21. Aug. 2002, in Kraft seit 1. Okt. 2002 ([AS 2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)).
+[^23-1]: Eingefügt durch Ziff. I der V vom 19. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 313](https://fedlex.data.admin.ch/eli/oc/2024/313)).
+
+#### Art. 23a
+
+**Nutzung sozialer Medien**[^23a-1]
+
+<sup>1</sup>
+
+Die Verwaltungseinheiten können in den sozialen Medien zur Bereitstellung von Informationen eigene Auftritte (Profile) betreiben, sofern:
+
+- a. die Inhalte dieser Profile allen in der Schweiz wohnhaften volljährigen Personen zugänglich sind;
+- b. sie ihre Profile und Inhalte jederzeit unzugänglich machen können.
+
+<sup>2</sup> Informationen, die in den sozialen Medien bereitgestellt werden, müssen in den Grundzügen auch über Kanäle verfügbar sein, die die Verwaltungseinheiten selber kontrollieren und die jeder Person frei zugänglich sind.
+
+<sup>3</sup> Als soziale Medien gelten dabei elektronische Plattformen, die der Kommunikation mit der Öffentlichkeit dienen und es Nutzerinnen und Nutzern ermöglichen, selbst Inhalte für andere Nutzerinnen und Nutzer bereitzustellen.
+
+[^23a-1]: Eingefügt durch Ziff. I der V vom 19. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 313](https://fedlex.data.admin.ch/eli/oc/2024/313)).
+
+#### Art. 23b
+
+**Betreiben interaktiver Profile**[^23b-1]
+
+<sup>1</sup>
+
+Die Verwaltungseinheiten können in den sozialen Medien Profile mit Interaktionsfunktion betreiben, sofern auf diesen Profilen:
+
+- a. alle in der Schweiz wohnhaften volljährigen Personen Beiträge einbringen können;
+- b. die Verwaltungseinheiten mit eigenen Beiträgen auf die Beiträge von Nutzerinnen und Nutzern reagieren können; und
+- c. die Verwaltungseinheiten Beiträge von Nutzerinnen und Nutzern verbergen, löschen oder anderweitig unterdrücken können.
+
+<sup>2</sup> Sie stellen sicher, dass sie über ihre Profile kontaktiert werden können.
+
+[^23b-1]: Eingefügt durch Ziff. I der V vom 19. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 313](https://fedlex.data.admin.ch/eli/oc/2024/313)).
+
+#### Art. 23c
+
+**Moderation interaktiver Profile**[^23c-1]
+
+<sup>1</sup>
+
+Die Verwaltungseinheiten können in ihren Profilen Beiträge unterdrücken, wenn:
+
+- a.
+
+  es konkrete Anhaltspunkte dafür gibt, dass diese:
+
+  - 1\. zu Vergehen oder Verbrechen aufrufen,
+  - 2\. zu Hass oder Gewalt aufrufen,
+  - 3\. persönlichkeitsverletzende, ehrverletzende, drohende, diskriminierende oder pornografische Inhalte oder Gewaltdarstellungen enthalten,
+  - 4\. zu einem Verhalten anregen, das die Gesundheit oder persönliche Sicherheit gravierend gefährdet,
+  - 5\. kommerzielle Werbung enthalten, oder
+  - 6\. maschinell erzeugt wurden; oder
+
+- b.
+
+  diese wiederholt angebracht werden und:
+
+  - 1\. offensichtlich sachfremd sind, oder
+  - 2\. offensichtlich inhaltlich falsch sind und es konkrete Anhaltspunkte dafür gibt, dass sie der Desinformation dienen.
+
+<sup>2</sup> Gehen ausserordentlich viele Beiträge ein, so kann das Unterdrücken von Beiträgen vorübergehend automatisiert vorgenommen werden.
+
+<sup>3</sup> Bei wiederholten oder besonders schweren Verstössen kann die Verwaltungseinheit Nutzerinnen und Nutzer für eine Dauer von maximal zwei Jahren blockieren.
+
+<sup>4</sup> Die Blockierung wird nach Ablauf der Blockierungsdauer aufgehoben, sofern die Nutzerin oder der Nutzer dies verlangt.
+
+[^23c-1]: Eingefügt durch Ziff. I der V vom 19. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 313](https://fedlex.data.admin.ch/eli/oc/2024/313)).
 
 ### 5. Abschnitt: Aufsicht
 

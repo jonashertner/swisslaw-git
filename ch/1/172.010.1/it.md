@@ -4,11 +4,11 @@ title: "Ordinanza del 25 novembre 1998 sull'organizzazione del Governo e dell'Am
 short: OLOGA
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/170"
 language: it
-version: 2024-02-01
+version: 2024-08-01
 adopted: 1998-11-25
 in_force: 1999-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20240201/it/xml/fedlex-data-admin-ch-eli-cc-1999-170-20240201-it-xml-10.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20240201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/170/20240801/it/xml/fedlex-data-admin-ch-eli-cc-1999-170-20240801-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20240801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/170/20240201/it"
 
 (OLOGA)
 
-del 25 novembre 1998 (Stato 1° febbraio 2024)
+del 25 novembre 1998 (Stato 1° agosto 2024)
 
 Il Consiglio federale svizzero,
 
@@ -952,6 +952,8 @@ Derogano dall’obbligo della doppia firma:
 
 #### Art. 23
 
+**Competenze[^23-1]**
+
 <sup>1</sup> La Cancelleria federale è competente, in collaborazione con i dipartimenti, per l’informazione dell’Assemblea federale, dei Cantoni e del pubblico su decisioni, intenzioni e provvedimenti del Consiglio federale. Provvede alla necessaria pianificazione ed elabora i principi per una politica di comunicazione del Consiglio federale.
 
 <sup>2</sup> I dipartimenti e la Cancelleria federale sono responsabili dell’informazione e della comunicazione interna ed esterna relativa ai loro affari. Vi provvedono tenendo conto del contesto globale della politica di comunicazione del Consiglio federale. Regolano i compiti d’informazione delle unità loro subordinate.
@@ -961,6 +963,70 @@ Derogano dall’obbligo della doppia firma:
 <sup>4</sup> In caso di necessità, il Consiglio federale può centralizzare l’informazione e la comunicazione presso il presidente della Confederazione, presso la Cancelleria federale, presso un dipartimento o presso un altro ente designato. L’ente designato ha corrispondenti competenze di emanare istruzioni.
 
 [^chap3-sec4-1]: Nuovo testo giusta il n. I dell’O del 21 ago. 2002, in vigore dal 1° ott. 2002 ([RU 2002 2827](https://fedlex.data.admin.ch/eli/oc/2002/416)).
+[^23-1]: Introdotta dal n. I dell’O del 19 giu. 2024, in vigore dal 1° ago. 2024 (RU **202****4** 313).
+
+#### Art. 23a
+
+**Uso dei media sociali**[^23a-1]
+
+<sup>1</sup>
+
+Le unità amministrative possono gestire propri profili nei media sociali allo scopo di diffondere informazioni se:
+
+- a. i contenuti di tali profili sono accessibili a tutte le persone maggiorenni residenti in Svizzera;
+- b. possono rendere inaccessibili in qualsiasi momento i loro profili e i contenuti.
+
+<sup>2</sup> Le informazioni diffuse nei media sociali devono essere disponibili in linea di principio anche attraverso canali controllati dalle unità amministrative stesse e liberamente accessibili a chiunque.
+
+<sup>3</sup> Sono considerati media sociali le piattaforme elettroniche utili alla comunicazione con il pubblico e che consentono agli utenti di condividere contenuti.
+
+[^23a-1]: Introdotto dal n. I dell’O del 19 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 313](https://fedlex.data.admin.ch/eli/oc/2024/313)).
+
+#### Art. 23b
+
+**Gestione di profili interattivi**[^23b-1]
+
+- [tab] <sup>1</sup> Le unità amministrative possono gestire nei media sociali profili con funzioni interattive se su tali profili:
+- a. tutte le persone maggiorenni residenti in Svizzera possono apportare contribuiti;
+- b. le unità amministrative possono reagire con contributi propri ai contributi degli utenti; e
+- c. le unità amministrative possono nascondere, cancellare o sopprimere in altro modo i contributi degli utenti.
+- [tab] <sup>2</sup> Esse garantiscono la possibilità di essere contattate attraverso i propri profili.
+
+[^23b-1]: Introdotto dal n. I dell’O del 19 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 313](https://fedlex.data.admin.ch/eli/oc/2024/313)).
+
+#### Art. 23c
+
+**Moderazione di profili interattivi**[^23c-1]
+
+<sup>1</sup>
+
+Le unità amministrative possono, sui loro profili, sopprimere contributi:
+
+- a.
+
+  se hanno motivi concreti per credere che:
+
+  - 1\. incitano a commettere delitti o crimini,
+  - 2\. incitano all’odio o alla violenza,
+  - 3\. ledono la personalità o l’onore, hanno carattere minatorio, discriminatorio o pornografico oppure rappresentano atti di cruda violenza,
+  - 4\. inducono a un comportamento gravemente pregiudizievole per la salute o la sicurezza personale,
+  - 5\. contengono pubblicità commerciale, oppure
+  - 6\. sono generati automaticamente; oppure
+
+- b.
+
+  che sono reiterati e:
+
+  - 1\. sono manifestamente inappropriati, oppure
+  - 2\. sono manifestamente falsi sul piano materiale e sussistono motivi concreti per ritenere che servono alla disinformazione.
+
+<sup>2</sup> Se sono straordinariamente numerosi, i contributi possono essere soppressi automaticamente per un determinato periodo di tempo.
+
+<sup>3</sup> In caso di violazioni reiterate o particolarmente gravi, l’unità amministrativa può bloccare un utente per una durata massima di due anni.
+
+<sup>4</sup> Allo scadere della durata prevista per il blocco, se l’utente lo richiede, il blocco è tolto.
+
+[^23c-1]: Introdotto dal n. I dell’O del 19 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 313](https://fedlex.data.admin.ch/eli/oc/2024/313)).
 
 ### Sezione 5: Vigilanza
 
