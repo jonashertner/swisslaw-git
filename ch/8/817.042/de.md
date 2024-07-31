@@ -4,11 +4,11 @@ title: Verordnung vom 27. Mai 2020 über den Vollzug der Lebensmittelgesetzgebun
 short: LMVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/460"
 language: de
-version: 2024-03-01
+version: 2024-08-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20240301/de/xml/fedlex-data-admin-ch-eli-cc-2020-460-20240301-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20240301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20240801/de/xml/fedlex-data-admin-ch-eli-cc-2020-460-20240801-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20240801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20240301/de"
 
 (LMVV)
 
-vom 27. Mai 2020 (Stand am 1. März 2024)
+vom 27. Mai 2020 (Stand am 1. August 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -1844,6 +1844,17 @@ Sendungen mit den nachfolgenden Lebensmitteln, die zum Zeitpunkt des Inkrafttret
 
 [^118d-1]: Eingefügt durch Ziff. I der V des BLV vom 7. Juli. 2023, in Kraft seit 1. Aug. 2023 ([AS 2023 380](https://fedlex.data.admin.ch/eli/oc/2023/380)).
 
+#### Art. 118e
+
+**Übergangsbestimmung zur Änderung vom 9. Juli 2024**[^118e-1]
+
+Sendungen mit den nachfolgenden Lebensmitteln, die zum Zeitpunkt des Inkrafttretens der Änderung vom 9. Juli 2024 bereits versendet wurden, dürfen bis zum 1. Oktober 2024 ohne amtliche Bescheinigung sowie ohne Ergebnisse von Probenahmen und Analysen eingeführt werden:
+
+- a. Gotu Kola (*Centella asiatica*) aus Sri Lanka;
+- b. Paprika der Gattung *Capsicum* aus Vietnam.
+
+[^118e-1]: Eingefügt durch Ziff. I der V des BLV vom 9. Juli 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 351](https://fedlex.data.admin.ch/eli/oc/2024/351)).
+
 #### Art. 119
 
 **Inkrafttreten**
@@ -1865,12 +1876,12 @@ Anhang 2[^t-1]
 
 ## Lebensmittel nicht tierischer Herkunft aus bestimmten Ländern, die vorübergehend verstärkten amtlichen Kontrollen nach den Artikeln 37−43 unterliegen
 
-[^t-1]: Bereinigt gemäss Ziff. I der V des BLV vom 13. Febr. 2024, in Kraft seit 1. März 2024 ([AS 2024 65](https://fedlex.data.admin.ch/eli/oc/2024/65)).
+[^t-1]: Bereinigt gemäss Ziff. II der V des BLV vom 9. Juli 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 351](https://fedlex.data.admin.ch/eli/oc/2024/351)).
 
 - 1\. Sämtliche Lebensmittel, die in Anhang I der Durchführungsverordnung (EU) 2019/1793[^annex2-lvlu1-1] aufgeführt sind.
 - 2\. Probenahme und Analytik richtet sich nach Anhang III der Durchführungsverordnung, falls in Anhang I der Durchführungsverordnung darauf verwiesen wird.
 
-[^annex2-lvlu1-1]: Durchführungsverordnung (EU) 2019/1793 vom 22. Oktober 2019 über die vorübergehende Verstärkung der amtlichen Kontrollen und über Sofortmassnahmen beim Eingang bestimmter Waren aus bestimmten Drittländern in die Union zur Durchführung der Verordnungen (EU) 2017/625 und (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnungen (EG) Nr. 669/2009, (EU) Nr. 884/2014, (EU) 2015/175, (EU) 2017/186 und (EU) 2018/1660 der Kommission, ABl. L 277 vom 29.10.2019, S. 89; zuletzt geändert durch Durchführungsverordnung (EU) 2024/286, ABl. L, 2024/286, 17.1.2024.
+[^annex2-lvlu1-1]: Durchführungsverordnung (EU) 2019/1793 vom 22. Oktober 2019 über die vorübergehende Verstärkung der amtlichen Kontrollen und über Sofortmassnahmen beim Eingang bestimmter Waren aus bestimmten Drittländern in die Union zur Durchführung der Verordnungen (EU) 2017/625 und (EG) Nr. 178/2002 des Europäischen Parlaments und des Rates und zur Aufhebung der Verordnungen (EG) Nr. 669/2009, (EU) Nr. 884/2014, (EU) 2015/175, (EU) 2017/186 und (EU) 2018/1660 der Kommission, ABl. L 277 vom 29.10.2019, S. 89; zuletzt geändert durch Durchführungsverordnung (EU) 2024/1662, ABl. L, 2024/1662, 12.6.2024.
 
 Anhang 3[^t-2]
 
