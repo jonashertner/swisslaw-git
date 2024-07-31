@@ -4,13 +4,13 @@ number: "922.103"
 title: Standeskommissionsbeschluss über die Steinwildjagd
 short: StKB Steinwild
 language: de
-version: 2022-02-08
-valid_until: 2024-07-31
-version_adopted: 2022-02-01
+version: 2024-08-01
+valid_until: 2025-06-30
+version_adopted: 2024-06-18
 adopted: 2022-02-01
 in_force: 2022-02-08
 url: "https://ai.clex.ch/app/de/texts_of_law/922.103"
-pdf: "https://ai.clex.ch/api/de/versions/2021/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2291/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2021/pdf_file"
 
 (StKB Steinwild)
 
-vom 01.02.2022 (Stand 08.02.2022)
+vom 01.02.2022 (Stand 01.08.2024)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
@@ -48,7 +48,7 @@ beschliesst:
 - c) Teilnahme an einer durch die Jagdverwaltung organisierten Feldbegehung im Alpstein im betreffenden Jagdjahr;
 - d) Keine Ausübung einer Steinwildjagd in den vorangehenden sechs Jahren im Kanton Appenzell I.Rh. Davon ausgenommen sind Bockabschüsse nach Art. 3 dieses Beschlusses.
 
-<sup>3</sup> Jagdberechtigte Jägerinnen und Jäger, die zur Steinwildjagd zugelassen werden, müssen im betreffenden Jahr kein zusätzliches Hoch- oder Niederwildjagdpatent lösen.
+<sup>3</sup> …
 
 #### Art. 3
 
