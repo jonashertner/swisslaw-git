@@ -4,20 +4,21 @@ number: "400.200"
 title: Règlement fixant les normes et directives concernant les constructions scolaires de la scolarité obligatoire
 short: RCS
 language: fr
-version: 2020-09-01
-corrected: 2021-10-01
-version_adopted: 2021-09-29
+version: 2024-08-01
+version_adopted: 2024-12-18
 adopted: 2005-03-23
 in_force: 2005-03-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/400.200"
-pdf: "https://lex.vs.ch/api/fr/versions/2714/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3425/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Règlement fixant les normes et directives concernant les constructions scolaires de la scolarité obligatoire
 
-du 23.03.2005 (état 01.09.2020)
+(RCS)
+
+du 23.03.2005 (état 01.08.2024)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -293,6 +294,56 @@ arrête[^ingress-1]:
 
 <sup>3</sup> Si les circonstances l'exigent, des locaux extrascolaires non subventionnés peuvent être inclus dans le programme de construction à condition qu'ils ne portent pas préjudice à l'école et à son environnement. On veillera en particulier à aménager des entrées distinctes afin d'établir clairement la séparation entre la partie scolaire et les locaux extrascolaires d'un même bâtiment.
 
+### 2.1a Infrastructure informatique et multimédia
+
+#### Art. 23a
+
+**Dispositions générales**
+
+<sup>1</sup> Chaque école doit disposer d'une infrastructure informatique et multimédia (ci-après: infrastructure) conforme aux standards requis pour atteindre les objectifs pédagogiques définis par les plans d'études.
+
+<sup>2</sup> L’infrastructure contient notamment un réseau informatique câblé, un réseau WiFi ainsi qu'une connexion internet sécurisée.
+
+<sup>3</sup> Le support technique de cette infrastructure doit être garanti par l'autorité compétente communale.
+
+#### Art. 23b
+
+**Réseau cablé et WiFi**
+
+<sup>1</sup> Chaque salle doit être équipée d'une connexion câblée au réseau de l'école avec en principe quatre prises. Ces connexions doivent permettre le raccordement d’ordinateurs et d’équipements de projection.
+
+<sup>2</sup> L'installation de connexions sans fil WiFi dans toutes les salles est obligatoire pour optimiser l'utilisation des appareils portables.
+
+<sup>3</sup> La mise en place du réseau Wi-Fi doit respecter des normes strictes, avec l'installation de bornes professionnelles adaptées aux conditions spécifiques de l'établissement.
+
+<sup>4</sup> L’optimisation des emplacements des antennes WiFi doit être faite sur la base d’un Site survey (analyse du bâtiment).
+
+#### Art. 23c
+
+**Accès à Internet et filtrage**
+
+<sup>1</sup> Toutes les salles de cours, salles des maîtres et locaux administratifs doivent disposer d'un accès Internet à très haut débit sécurisé.
+
+<sup>2</sup> L'école doit mettre en place un système de filtrage, d'authentification et de traçage des utilisateurs conforme à la législation en vigueur. Le réseau administratif doit protéger les données personnelles sensibles et celles liées au secret professionnel.
+
+<sup>3</sup> Une politique de filtrage est établie par le département.
+
+#### Art. 23d
+
+**Fiabilité et mise à jour de l'infrastructure**
+
+<sup>1</sup> L'infrastructure doit être fiable, robuste, et facilement utilisable.
+
+<sup>2</sup> Les équipements et logiciels doivent être régulièrement mis à jour pour répondre aux besoins pédagogiques et aux évolutions techniques.
+
+#### Art. 23e
+
+**Filtrage et sécurité des données**
+
+<sup>1</sup> L'école doit mettre en place un système de filtrage, d'authentification et de traçage des utilisateurs conforme à la législation en vigueur. Le réseau administratif doit protéger les données personnelles sensibles et celles liées au secret professionnel.
+
+<sup>2</sup> Une politique de filtrage est établie par le département.
+
 ### 2.2 Type de salles et aménagements
 
 #### Art. 24
@@ -343,11 +394,13 @@ arrête[^ingress-1]:
 
 <sup>1</sup> Les installations fixes (subventionnées) comprennent:
 
-- a) tableau et/ou écran de projection;
+- a) …
 - b) lavabo (eau chaude dans les classes nécessitant un nettoyage de matériel);
 - c) armoires de rangement;
 - d) …
 - e) panneaux d'exposition.
+
+<sup>1<sup>bis</sup></sup> Le règlement concernant la prise en charge des frais pour les ressources pédagogiques relatives à la scolarité obligatoire définit en particulier les outils numériques subventionnés.
 
 <sup>2</sup> Le mobilier (non subventionné) comprend:
 
@@ -459,7 +512,7 @@ arrête[^ingress-1]:
 
 <sup>1</sup> Les cas d'importance faible ou moyenne dont le devis total représente une dépense comprise entre 50'000 et 1'000'000 francs font l'objet de la procédure réduite décrite ci-après:
 
-- a) requête auprès du département avec justification des besoins et présentation du programme des travaux;
+- a) requête auprès du département avec justification des besoins et présentation du programme des travaux, à l'exception des projets s'étalant sur plusieurs années et dont le montant de la subvention dépasse 200'0000 francs, qui font l'objet d'une décision de principe du Conseil d'Etat;
 - b) décision de principe du département;
 - c) élaboration du projet et du coût définitif sur la base des propositions d'adjudication;
 - d) présentation du dossier en deux exemplaires au département;
@@ -537,7 +590,7 @@ arrête[^ingress-1]:
 
 **Approbation du décompte final**
 
-<sup>1</sup> Le décompte final de la subvention est arrêté par le Conseil d'Etat ou le département après contrôle et reconnaissance des travaux par le Service en charge des bâtiments (ci-après: SBMA).
+<sup>1</sup> Le décompte final de la subvention est arrêté par le Conseil d'Etat ou le département après contrôle et reconnaissance des travaux par le service en charge de l'immobilier (ci-après: SIP).
 
 <sup>2</sup> Conformément à l'article 11 alinéa 3 de l'ordonnance sur les subventions du 14 février 1996, les variations de "l'indice suisse des prix à la construction" sont prises en considérationet de la manière suivante:
 
@@ -594,6 +647,7 @@ arrête[^ingress-1]:
 - h) frais administratifs: première pierre, bouquet, inauguration, assurances, taxes, à l'exception des frais de concours (CFC 5);
 - i) mobilier, selon dispositions de l'article 26 alinéa 2 du présent règlement (CFC 9);
 - j) …
+- k) éléments soumis au règlement concernant la prise en charge des frais pour les ressources pédagogiques relatives à la scolarité obligatoire.
 
 #### Art. 45
 
@@ -643,13 +697,13 @@ arrête[^ingress-1]:
 
 <sup>5</sup> …
 
-<sup>6</sup> Le SBMA contrôle périodiquement (au moins tous les cinq ans, la première fois en 2010) la concordance du montant forfaitaire à l'unité avec le coût réel de construction en se basant sur les décomptes finaux de bâtiments récents. En cas de modification, sur proposition du département, le Conseil d'Etat décide des ajustements à apporter.
+<sup>6</sup> Le SIP contrôle périodiquement (au moins tous les 5 ans, la première fois en 2010) la concordance du montant forfaitaire à l'unité avec le coût réel de construction en se basant sur les décomptes finaux de bâtiments récents. En cas de modification, sur proposition du département, le Conseil d'Etat décide des ajustements à apporter.
 
 #### Art. 50
 
 **Transformations et réfections**
 
-<sup>1</sup> Les cas de transformation, de réfection ou de rénovation sont analysés par le SBMA sur la base de la durée de vie des éléments de construction selon le système en vigueur pour les bâtiments de l'Etat. Le montant maximal admis au subventionnement ne peut dépasser celui d'une construction neuve.
+<sup>1</sup> Les cas de transformation, de réfection ou de rénovation sont analysés par le SIP sur la base de la durée de vie des éléments de construction selon le système en vigueur pour les bâtiments de l'Etat. Le montant maximal admis au subventionnement ne peut dépasser celui d'une construction neuve.
 
 #### Art. 51
 
@@ -755,6 +809,6 @@ arrête[^ingress-1]:
 
 #### Art. T2-1
 
-<sup>1</sup> Tous les dossiers qui ont fait l'objet d'une décision de principe du département avant l'entrée en vigueur de la modification du 07.10.2020 sont traités sur la base des normes et directives en vigueur au 31 décembre 2020.
+<sup>1</sup> Tous les dossiers qui ont fait l'objet d'une décision de principe du département avant l'entrée en vigueur de la modification du 07.10.2020 sont traités sur la base des normes et directives en vigueur au 31 août 2020.
 
 RCV BO/Abl. 16/2005

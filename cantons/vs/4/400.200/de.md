@@ -4,20 +4,21 @@ number: "400.200"
 title: "Reglement zur Festlegung der Weisungen und Richtlinien über Schulhausbauten der obligatorischen Schule *"
 short: RSB
 language: de
-version: 2020-09-01
-corrected: 2021-10-01
-version_adopted: 2021-09-29
+version: 2024-08-01
+version_adopted: 2024-12-18
 adopted: 2005-03-23
 in_force: 2005-03-01
 url: "https://lex.vs.ch/app/de/texts_of_law/400.200"
-pdf: "https://lex.vs.ch/api/de/versions/2714/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3425/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement zur Festlegung der Weisungen und Richtlinien über Schulhausbauten der obligatorischen Schule
 
-vom 23.03.2005 (Stand 01.09.2020)
+(RSB)
+
+vom 23.03.2005 (Stand 01.08.2024)
 
 Der Staatsrat des Kantons Wallis
 
@@ -293,6 +294,56 @@ beschliesst[^ingress-1]:
 
 <sup>3</sup> Wenn besondere Umstände es verlangen, können Räumlichkeiten, die für schulfremde Zwecke bestimmt sind und nicht subventioniert werden, in das Raumprogramm aufgenommen werden. Sie dürfen weder dem Schulbetrieb noch dem schulischen Umfeld abträglich sein. Um eine klare Trennung zwischen Schulräumen und schulfremden Lokalen zu ermöglichen, sind besondere Zugänge zu erstellen.
 
+### 2.1a IT- und Multimedia-Infrastruktur
+
+#### Art. 23a
+
+**Allgemeine Bestimmungen**
+
+<sup>1</sup> Jede Schule muss über eine IT- und Multimedia-Infrastruktur (nachfolgend: Infrastruktur) verfügen, die den Standards zur Erreichung der in den Lehrplänen festgelegten pädagogischen Ziele entspricht.
+
+<sup>2</sup> Die Infrastruktur umfasst unter anderem ein LAN, ein WLAN sowie eine sichere Internetverbindung.
+
+<sup>3</sup> Der technische Support dieser Infrastruktur muss von der zuständigen kommunalen Behörde gewährleistet sein.
+
+#### Art. 23b
+
+**LAN und WLAN**
+
+<sup>1</sup> Jeder Raum muss über eine Kabelverbindung zum Schulnetzwerk mit grundsätzlich vier Steckdosen verfügen. Diese Verbindungen sind dazu bestimmt, Computer und Projektoren anzuschliessen
+
+<sup>2</sup> Die Einrichtung von Drahtlosverbindungen in allen Räumen ist erforderlich, um den Einsatz von mobilen Endgeräten zu optimieren.
+
+<sup>3</sup> Bei der Einrichtung des WLAN müssen strenge Standards eingehalten werden, wobei Access Points installiert werden müssen, die auf die spezifischen Bedingungen der Schule abgestimmt sind.
+
+<sup>4</sup> Die Optimierung der Standorte von WLAN-Antennen sollte auf der Grundlage eines Site Surveys (Gebäudeanalyse) erfolgen.
+
+#### Art. 23c
+
+**Internetzugang und Filter**
+
+<sup>1</sup> Alle Unterrichtsräume, Lehrerzimmer und Verwaltungsräume müssen über einen sicheren Highspeed-Internetzugang verfügen.
+
+<sup>2</sup> Die Schule muss ein System zur Filterung, Authentifizierung und Rückverfolgung der Nutzer einrichten, das der geltenden Gesetzgebung entspricht. Das Verwaltungsnetzwerk muss schützenswerte Personendaten und dem Berufsgeheimnis unterliegende Daten schützen.
+
+<sup>3</sup> Eine Filterpolitik wird vom Departement festgelegt.
+
+#### Art. 23d
+
+**Zuverlässigkeit und Unterhalt der Infrastruktur**
+
+<sup>1</sup> Die Infrastruktur muss zuverlässig, leistungsstark und benutzerfreundlich sein.
+
+<sup>2</sup> Die Hard- und Software muss regelmässig auf den neusten Stand gebracht werden, um mit dem pädagogischen Bedarf und der technischen Entwicklung mitzuhalten.
+
+#### Art. 23e
+
+**Filter und Datensicherheit**
+
+<sup>1</sup> Die Schule muss ein System zur Filterung, Authentifizierung und Rückverfolgung der Nutzerinnen und Nutzer einrichten, das der geltenden Gesetzgebung entspricht. Das Verwaltungsnetzwerk muss schützenswerte Personendaten und dem Berufsgeheimnis unterliegende Daten schützen.
+
+<sup>2</sup> Eine Filterpolitik wird vom Departement festgelegt.
+
 ### 2.2 Art der Räume und Einrichtungen
 
 #### Art. 24
@@ -343,11 +394,13 @@ beschliesst[^ingress-1]:
 
 <sup>1</sup> Die festen Einrichtungen (subventionsberechtigt) bestehen aus:
 
-- a) Wandtafel und/oder Leinwand;
+- a) …
 - b) Waschbecken (warmes Wasser in Räumen in denen man Material putzen muss);
 - c) Schränke;
 - d) …
 - e) Anschlagbretter.
+
+<sup>1<sup>bis</sup></sup> Im Reglement über die Kostenübernahme für pädagogische Ressourcen im Zusammenhang mit der obligatorischen Schulzeit sind in erster Linie subventionsberechtigte digitale Tools definiert.
 
 <sup>2</sup> Das Mobiliar (nicht subventionsberechtigt) besteht aus:
 
@@ -459,7 +512,7 @@ beschliesst[^ingress-1]:
 
 <sup>1</sup> Projekte von kleinem oder mittlerem Umfang mit einem Kostenvoranschlag zwischen 50'000 und 1'000'000 Franken werden mit folgendem verkürzten Verfahren behandelt:
 
-- a) Gesuch an das Departement mit Begründung der Bedürfnisse und Darlegung der vorgesehenen Bauarbeiten;
+- a) Gesuch an das Departement mit Begründung der Bedürfnisse und Darlegung der vorgesehenen Bauarbeiten, mit Ausnahme der Projekte, sie sich über mehrere Jahre erstrecken und deren Subvention 200'0000 Franken übersteigt, welche Gegenstand eines Grundsatzentscheids des Staatsrates bilden;
 - b) Grundsatzentscheid des Departements;
 - c) Ausarbeitung des Bauprojekts und der endgültigen Kosten gemäss Vergabeanträge;
 - d) Zustellung der Unterlagen in zwei Exemplaren an das Departement;
@@ -537,7 +590,7 @@ beschliesst[^ingress-1]:
 
 **Genehmigung der Schlussabrechnung**
 
-<sup>1</sup> Die Schlussabrechnung der Subvention wird vom Staatsrat oder dem Departement nach Kontrolle und Abnahme der Bauarbeiten durch die für den Hochbau zuständige Dienststelle (nachfolgend: DHDA) genehmigt.
+<sup>1</sup> Die Schlussabrechnung der Subvention wird vom Staatsrat oder dem Departement nach Kontrolle und Abnahme der Bauarbeiten durch die für die Immobilien zuständige Dienststelle (nachfolgend: DIB) genehmigt.
 
 <sup>2</sup> Gemäss Artikel 11 Absatz 3 der Subventionsverordnung vom 14. Februar 1996 sind die Veränderungen des schweizerischen Baupreisidex wie folgt zu berücksichtigen:
 
@@ -592,8 +645,9 @@ beschliesst[^ingress-1]:
 - f) feste oder mobile Bühneneinrichtungen (BKP 3);
 - g) Baukreditzinse (BKP 5);
 - h) Verwaltungskosten, Grundsteinlegung, Aufrichtefest, Einweihung, Versicherungen, Gebühren, mit Ausnahme der Wettbewerbskosten (BKP 5);
-- i) Mobiliar gemäss Artikel 26 Absatz 2 des vorliegenden Reglements (BKP 9).
+- i) Mobiliar gemäss Artikel 26 Absatz 2 des vorliegenden Reglements (BKP 9);
 - j) …
+- k) Elemente, die dem Reglement über die Kostenübernahme für pädagogische Ressourcen in Zusammenhang mit der obligatorischen Schulzeit unterstehen.
 
 #### Art. 45
 
@@ -643,13 +697,13 @@ beschliesst[^ingress-1]:
 
 <sup>5</sup> …
 
-<sup>6</sup> Die DHDA kontrolliert periodisch (mindestens alle fünf Jahre, das erste Mal im Jahr 2010) die Übereinstimmung des Pauschalbetrages pro Einheit mit den wirklichen Baukosten, indem es sich auf die Schlussabrechnungen von neueren Gebäuden stützt. Bei Abänderungen beschliesst der Staatsrat auf Antrag des Departements die vorzunehmenden Anpassungen.
+<sup>6</sup> Die DIB kontrolliert periodisch (mindestens alle 5 Jahre, das erste Mal im Jahr 2010) die Übereinstimmung des Pauschalbetrages pro Einheit mit den wirklichen Baukosten, indem es sich auf die Schlussabrechnungen von neueren Gebäuden stützt. Bei Abänderungen beschliesst der Staatsrat auf Antrag des Departements die vorzunehmenden Anpassungen.
 
 #### Art. 50
 
 **Umbauten und Ausbesserungen**
 
-<sup>1</sup> Umbauten, Ausbesserungen oder Renovationen werden aufgrund der Lebensdauer der Bauelemente gemäss dem einschlägigen System für staatliche Gebäude durch die DHDA untersucht. Der für die Subventionierung höchst zulässige Betrag darf jenen eines Neubaus nicht übersteigen.
+<sup>1</sup> Umbauten, Ausbesserungen oder Renovationen werden aufgrund der Lebensdauer der Bauelemente gemäss dem einschlägigen System für staatliche Gebäude durch die DIB untersucht. Der für die Subventionierung höchst zulässige Betrag darf jenen eines Neubaus nicht übersteigen.
 
 #### Art. 51
 
@@ -755,6 +809,6 @@ beschliesst[^ingress-1]:
 
 #### Art. T2-1
 
-<sup>1</sup> Alle Dossiers, die vor Inkrafttreten der Änderung vom 07.10.2020 Gegenstand eines Grundsatzentscheids des Departements waren, werden auf der Grundlage der am 31. Dezember 2020 geltenden Richtlinien behandelt.
+<sup>1</sup> Alle Dossiers, die vor Inkrafttreten der Änderung vom 07.10.2020 Gegenstand eines Grundsatzentscheids des Departements waren, werden auf der Grundlage der am 31. August 2020 geltenden Richtlinien behandelt.
 
 CSW BO/Abl. 16/2005
