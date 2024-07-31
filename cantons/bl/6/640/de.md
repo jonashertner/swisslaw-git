@@ -3,20 +3,20 @@ canton: BL
 number: "640"
 title: Bildungsgesetz
 language: de
-version: 2024-01-01
-valid_until: 2024-07-31
-version_adopted: 2023-01-26
+version: 2024-08-01
+valid_until: 2026-07-31
+version_adopted: 2023-11-16
 adopted: 2002-06-06
 in_force: 2003-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/640"
-pdf: "https://bl.clex.ch/api/de/versions/3817/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3880/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Bildungsgesetz
 
-Vom 06.06.2002 (Stand 01.01.2024)
+Vom 06.06.2002 (Stand 01.08.2024)
 
 Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
@@ -61,7 +61,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 **Begriffe**
 
-<sup>1</sup> Öffentliche Schulen sind Schulen, die von den Einwohnergemeinden oder vom Kanton getragen oder im Auftrage des Kantons geführt werden.
+<sup>1</sup> «Öffentliche Schulen» sind Schulen, die von den Einwohnergemeinden oder vom Kanton getragen oder im Auftrag des Kantons geführt werden. Die von den Einwohnergemeinden getragenen Schulen werden als «kommunale Schulen» und die vom Kanton getragen Schulen als «kantonale Schulen» bezeichnet.
 
 <sup>2</sup> Die Volksschule umfasst den Kindergarten, die Primarschule und die Sekundarschule sowie die darin enthaltenen Angebote der Speziellen Förderung und der Sonderschulung.
 
@@ -139,6 +139,11 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 <sup>2</sup> Die öffentlichen Schulen ermöglichen ihren fremdsprachigen Schülerinnen und Schülern den Besuch von Kursen zur Vermittlung der heimatlichen Sprache und Kultur. Sie stellen den nötigen Schulraum unentgeltlich zur Verfügung. Der Kursbesuch hat in der Regel ausserhalb der regulären Unterrichtszeit der Schülerinnen und Schüler zu erfolgen. Über Ausnahmen entscheidet die Schulleitung.
 
 <sup>3</sup> Kurse zur Vermittlung der heimatlichen Sprache und Kultur, welche in den Räumen der öffentlichen Schulen durchgeführt werden, bedürfen der Bewilligung der Bildungs-, Kultur- und Sportdirektion.
+
+<sup>3<sup>bis</sup></sup> Der Kanton macht fremdsprachigen Jugendlichen zur Vorbereitung auf die Sekundarstufe II ein Integrationsangebot mit dem Fokus auf den Erwerb ausreichender Sprachkenntnisse in Deutsch. Das Angebot richtet sich an 16- und 17-jährige Jugendliche, die:
+
+- a. aufgrund fehlender Deutschkenntnisse die grundlegenden Anforderungen für den Volksschulabschluss nicht erlangen können;
+- b. aufgrund ihres Alters nicht mehr in die Volksschule eintreten dürfen und aufgrund fehlender Deutschkenntnisse keinen Zugang zu den regulären Angeboten der Sekundarstufe II haben.
 
 <sup>4</sup> Das Nähere regelt die Verordnung.
 
@@ -340,7 +345,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 <sup>1</sup> Die Einwohnergemeinden und der Kanton haben als Schulträgerinnen bzw. als Schulträger folgende Aufgaben:
 
 - a. Sie legen das Einzugsgebiet ihrer Schulen und Schulhäuser fest.
-- b. Sie regeln die Wahl der Schulräte.
+- b. Sie regeln die Wahl der Mitglieder der Schulräte der kantonalen Schulen sowie der Mitglieder der Schulräte oder Schulkommissionen der kommunalen Schulen, sofern die Einwohnergemeinden solche Gremien einsetzen.
 - c. Sie errichten, unterhalten und finanzieren die Schulbauten und Schuleinrichtungen.
 - d. Sie kommen für das Schulmaterial auf.
 - e. Sie tragen die Lohnkosten aller Mitarbeiterinnen und Mitarbeiter der Schulen.
@@ -1068,12 +1073,13 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 - a. das pädagogische und organisatorische Konzept der Schule;
 - b. die Massnahmen zur Umsetzung der Förderung bei besonderem Bildungsbedarf;
-- c. die interne Evaluation;
+- c. die Qualitätsentwicklung und -sicherung;
+- c<sup>bis</sup>. die Schulentwicklungsplanung;
 - d. den Einsatz der im Rahmen des Budgets zugesprochenen Mittel;
 - e. die Form der Mitsprache der Schülerinnen und Schüler;
 - f. die Form der Zusammenarbeit mit den Erziehungsberechtigen und in der Berufsbildung mit allen beteiligten Bildungspartnern.
 
-<sup>3</sup> Das Schulprogramm wird auf Antrag der Schulleitung durch den Schulrat genehmigt.
+<sup>3</sup> Das Schulprogramm wird auf Antrag der Schulleitung durch den Schulrat genehmigt und der Öffentlichkeit zugänglich gemacht.
 
 <sup>4</sup> Das Nähere regelt die Verordnung.
 
@@ -1126,7 +1132,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 <sup>2</sup> Als berechtigte Stellen gelten:
 
 - a. die Mitarbeiterinnen und Mitarbeiter der kantonalen Schulen und der kommunalen Schulen;
-- b. die Mitglieder von Schulräten der kantonalen und der kommunalen Schulen;
+- b. die Schulräte bzw. bei den kommunalen Schulen die Gemeinderäte, sofern diese für die Schulführung eingesetzt werden;
 - c. die Mitarbeiterinnen und Mitarbeiter von Bildungseinrichtungen, die durch den Kanton oder die Gemeinden mit unterrichtsbezogenen Aufgaben an öffentlichen Schulen beauftragt sind;
 - d. die Mitarbeiterinnen und Mitarbeiter des Kantons und der Gemeinden mit Aufgaben an den Schulen;
 - e. die Dienststellen der Bildungs-, Kultur- und Sportdirektion;
@@ -1146,71 +1152,145 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 [^59d-1]: [SGS 162](https://bl.clex.ch/data/162/de/art9)
 
-### 3.2 Qualitätssicherung
+### 3.2 Qualität, Aufsicht und Monitoring
+
+### 3.2.1 Qualitätsentwicklung und -sicherung
 
 #### § 60
 
-**Durchführung und Zuständigkeiten**
+**…**
 
-<sup>1</sup> Die öffentlichen Schulen unterziehen sich regelmässig sowohl einer internen als auch einer externen Evaluation. Für alle Schülerinnen und Schüler bestimmter Schuljahre werden Leistungsmessungen durchgeführt.
+#### § 60a
 
-<sup>1<sup>bis</sup></sup> Die im Rahmen der Qualitätssicherung bearbeiteten Informationen sind nicht öffentlich zugänglich.
+**Grundlagen**
 
-<sup>2</sup> Der Schulrat ist für die Durchführung der internen Evaluation verantwortlich und gewährleistet die Umsetzung der daraus resultierenden Massnahmen.
+<sup>1</sup> Die Qualitätsentwicklung und -sicherung sind systematische, kontinuierliche und geleitete Prozesse, mit dem Ziel, die Qualität der Schule zu fördern.
 
-<sup>3</sup> Die Bildungs-, Kultur- und Sportdirektion ist zuständig für die Durchführung der externen Evaluation der öffentlichen Schulen und der Privatschulen, welche der Aufsicht des Kantons unterstellt sind oder im Auftrag der Trägerschaft Schülerinnen und Schüler aufnehmen. Sie zieht aussenstehende Expertinnen und Experten bei und kann Evaluationsaufträge an Dritte erteilen.
+<sup>2</sup> Die im Rahmen der Qualitätsentwicklung und -sicherung bearbeiteten Informationen sind nicht öffentlich zugänglich.
 
-<sup>4</sup> Die Umsetzung der aus der externen Evaluation resultierenden Massnahmen wird für das kantonale Bildungswesen durch die Bildungs-, Kultur- und Sportdirektion gewährleistet, für die einzelne Schule durch deren Schulrat.
+<sup>3</sup> Die Bildungs-, Kultur- und Sportdirektion stellt den Schulen Instrumente zur Verfügung, die die Erwartungen an die Qualität der Arbeit an den Schulen verdeutlichen.
 
-<sup>4<sup>bis</sup></sup> Die Bildungs-, Kultur- und Sportdirektion ist zuständig für die Durchführung der Leistungsmessungen.
+<sup>4</sup> Die Aufsicht, deren Audits und vertiefte Analysen des Kantons orientieren sich an diesen Instrumenten.
 
-<sup>4<sup>ter</sup></sup> Die Bildungs-, Kultur- und Sportdirektion stellt mit einer aussagekräftigen Berichterstattung zu den Massnahmen der Qualitätssicherung die Information der politischen Instanzen, Behörden und Öffentlichkeit im Hinblick auf die Qualitätsentwicklung des Bildungswesens sicher.
+#### § 60b
 
-<sup>5</sup> Das Nähere regelt die Verordnung.
+**Entwicklung der Schule als Organisation**
 
-#### § 61
+<sup>1</sup> Die Schulleitung sorgt für eine kontinuierliche Qualitätsentwicklung der Schule als Organisation sowie für die Aus- und Weiterbildung von Mitarbeitenden im Bereich des Qualitäts- und Projektmanagements.
+
+<sup>2</sup> Hierzu stellt die Bildungs-, Kultur- und Sportdirektion den Schulen bedarfsweise Begleit- und Weiterbildungsangebote zur Verfügung. Die Kosten gehen zulasten der Trägerschaft.
+
+<sup>3</sup> Das Nähere regelt die Verordnung.
+
+#### § 60c
+
+**Schulentwicklungsplanung**
+
+<sup>1</sup> Die Schulentwicklungsplanung bildet die mittel- und langfristige Umsetzungsplanung der Entwicklungsvorhaben zur Sicherstellung einer wirksamen und leistungsfähigen Bildungsversorgung der Schule ab.
+
+<sup>2</sup> Die Schulentwicklungsplanung erfolgt in den kommunalen Schulen im Rahmen der kantonalen Vorgaben und derjenigen der Trägerschaft. An den kantonalen Schulen erfolgt sie in Übereinstimmung mit der kantonalen Mehrjahresplanung.
+
+<sup>3</sup> Die Schulleitung setzt die Entwicklungsvorhaben aus der Schulentwicklungsplanung um.
+
+#### § 60d
 
 **Interne Evaluation**
 
-<sup>1</sup> Die Schulen sind frei in der Wahl der Evaluationsmethode. Sie legen im Schulprogramm die Kriterien fest, nach denen sie ihre Arbeit selber evaluieren.
+<sup>1</sup> Die öffentlichen Schulen führen regelmässig interne Evaluationen in Bezug auf die Schule als Organisation und den Unterricht durch. Diese werden durch die Schulleitung verantwortet.
 
-<sup>2</sup> Die Schulleitung wertet die Resultate der internen Evaluation zuhanden des Schulrats aus und setzt vom Schulrat beschlossene Massnahmen um.
+<sup>2</sup> Die Schulen sind frei in der Wahl der Verfahren und Instrumente. Sie legen diese im Schulprogramm fest.
 
 <sup>3</sup> Das Nähere regelt die Verordnung.
+
+#### § 60e
+
+**Massnahmen aus der internen Evaluation**
+
+<sup>1</sup> Die Schulleitung wertet die Resultate der internen Evaluation auf Ebene der Schule als Organisation aus.
+
+<sup>2</sup> Die Schulleitung erarbeitet unter Mitwirkung des Schulrats die Massnahmen und unterbreitet sie diesem zur Genehmigung. Diese fliessen in die Schulentwicklungsplanung ein und werden der Bildungs-, Kultur- und Sportdirektion zur Kenntnis gebracht.
+
+<sup>3</sup> Die Schulleitung berichtet dem Schulrat sowie der Bildungs-, Kultur- und Sportdirektion über die Umsetzung der Massnahmen.
+
+<sup>4</sup> Die Lehrerinnen und Lehrer reflektieren ihren Unterricht regelmässig und passen ihn entsprechend an.
+
+<sup>5</sup> Das Nähere regelt die Verordnung.
+
+#### § 60f
+
+**Leistungsmessungen**
+
+<sup>1</sup> Für alle Schülerinnen und Schüler bestimmter Schuljahre werden Leistungsmessungen durchgeführt.
+
+<sup>2</sup> Die Bildungs-, Kultur- und Sportdirektion ist zuständig für deren Durchführung. Sie kann diese Aufgabe ganz oder teilweise an Dritte übertragen.
+
+<sup>3</sup> Die Leistungsmessungen liefern Informationen über den jeweiligen Leistungsstand der Schülerinnen und Schüler. Die Ergebnisse werden im Hinblick auf die individuelle Förderung der Schülerinnen und Schüler und auf die Weiterentwicklung des Unterrichts, der Schule und des gesamten Schulsystems ausgewertet und verwendet.
+
+<sup>4</sup> Das Nähere regelt die Verordnung.
+
+#### § 61
+
+**…**
+
+### 3.2.2 Aufsicht
+
+#### § 61a
+
+**Geltungsbereich**
+
+<sup>1</sup> Die Bildungs-, Kultur- und Sportdirektion sichert mit der Aufsicht die Bildungsqualität der kommunalen und kantonalen Schulen, inklusive der Lehrbetriebe und überbetrieblichen Kurse in der Berufsbildung, der Privatschulen und weiteren Leistungserbringenden, die Bildungsangebote für den Kanton erbringen, sowie der von ihr bewilligten Privatschulen.
+
+<sup>2</sup> Die Bildungs-, Kultur- und Sportdirektion führt im Rahmen der Aufsicht insbesondere regelmässige Befragungen der Schulen durch, untersucht den Vollzug der für den Bildungsauftrag relevanten Vorgaben von Bund und Kanton und gibt periodisch Audits in Auftrag.
+
+<sup>3</sup> Die Bildungs-, Kultur- und Sportdirektion kann vertiefte Analysen in Auftrag geben, wenn das Funktionieren der Schule in Gefahr ist.
+
+<sup>4</sup> Die Bildungs-, Kultur- und Sportdirektion kann Audits und vertieften Analysen an Dritte übertragen.
+
+<sup>5</sup> Das Nähere regelt die Verordnung.
+
+#### § 61b
+
+**Massnahmen aufgrund der Erkenntnisse der Aufsichtsprozesse**
+
+<sup>1</sup> Die Schulleitung entwickelt unter Mitwirkung des Schulrats geeignete Massnahmen zur Umsetzung der Erkenntnisse aus den Aufsichtsprozessen.
+
+<sup>2</sup> In den kommunalen Schulen beschliesst der Schulrat über Massnahmen und gewährleistet deren Umsetzung.
+
+<sup>3</sup> In den kantonalen Schulen beschliesst die Bildungs-, Kultur- und Sportdirektion über Massnahmen. Diese fliessen in die Schulentwicklungsplanung ein.
+
+<sup>4</sup> Die Schulleitung kann bei der Trägerschaft eine Prozessberatung beantragen.
+
+<sup>5</sup> Die Bildungs-, Kultur- und Sportdirektion begleitet den Massnahmenvollzug in allen Fällen und interveniert bei Bedarf.
+
+<sup>6</sup> Das Nähere regelt die Verordnung.
 
 #### § 62
 
-**Externe Evaluation**
+**…**
 
-<sup>1</sup> Die externe Evaluation vermittelt der Bildungs-, Kultur- und Sportdirektion Steuerungswissen. Den Schulen gibt sie Aufschluss darüber:
-
-- a. wie ihre Arbeit in pädagogisch-fachlicher, personeller, organisatorischer und anderer Hinsicht beurteilt wird;
-- b. wo im Vergleich zu anderen Schulen innerhalb und ausserhalb des Kantons ihre Stärken und Schwächen liegen;
-- c. durch welche Massnahmen die Qualität ihrer Arbeit gezielt verbessert werden kann;
-- d. ob die vorgegebenen Lernziele erreicht werden.
-
-<sup>2</sup> Der Bericht über die externe Evaluation richtet sich an den Schulrat und an die Bildungs-, Kultur- und Sportdirektion.
-
-<sup>3</sup> Das Nähere regelt die Verordnung.
+### 3.2.3 Bildungsmonitoring und Berichterstattung
 
 #### § 62a
 
 **Bildungsmonitoring**
 
-<sup>1</sup> Die Entwicklungen und Leistungen der obligatorischen Schule werden regelmässig im Rahmen eines Bildungsmonitoring über das gesamte schweizerische Bildungssystem gemäss Art. 10 der Interkantonalen Vereinbarung über die Harmonisierung der obligatorischen Schule evaluiert.
+<sup>1</sup> Die Entwicklungen und Leistungen des gesamten Bildungswesens werden kontinuierlich mit einem Bildungsmonitoring datengestützt beobachtet, analysiert und die Ergebnisse der Öffentlichkeit vermittelt.
+
+<sup>2</sup> Das Bildungsmonitoring beinhaltet namentlich auch die Auswertung und Analyse der Laufbahndaten der Schülerinnen und Schüler vom Kindergarten bis zum Abschluss der Sekundarstufe II und der Tertiärstufe sowie die Leistungsmessungen über das Erreichen von Bildungszielen.
+
+<sup>3</sup> Das Nähere regelt die Verordnung.
+
+#### § 62abis
+
+**Berichterstattung**
+
+<sup>1</sup> Die Bildungs-, Kultur- und Sportdirektion stellt mit einer Berichterstattung zu den Ergebnissen des Bildungsmonitorings, zu den Massnahmen der Qualitätsentwicklung und -sicherung, sowie der Erkenntnisse aus der Aufsicht die Information der politischen Instanzen, Behörden und Öffentlichkeit im Hinblick auf die Qualitätsentwicklung des Bildungswesens sicher.
+
+<sup>2</sup> Der Regierungsrat unterbreitet dem Landrat alle 4 Jahre einen Bildungsbericht über die Qualität des Bildungswesens zur Stellungnahme.
 
 #### § 62b
 
-**Leistungsmessungen**
-
-<sup>1</sup> Die Leistungsmessungen liefern Informationen über den jeweiligen Leistungsstand der Schülerinnen und Schüler. Sie werden zur Leistungsbeurteilung verwendet.
-
-<sup>2</sup> Die Ergebnisse der Leistungsmessungen vermitteln:
-
-- a. der Bildungs-, Kultur- und Sportdirektion Wissen über die Wirksamkeit des Bildungssystems;
-- b. den Schulen Angaben für die interne und externe Evaluation.
-
-<sup>3</sup> Das Nähere regelt die Verordnung.
+**…**
 
 ### 3.3 Schulbeteiligte
 
@@ -1229,7 +1309,9 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>2</sup> In der Volksschule kann den Schülerinnen und Schülern in Sach- und Organisationsfragen ein Mitspracherecht eingeräumt werden. Ab der Sekundarstufe II besitzen sie in diesen Fragen ein Mitspracherecht.
 
-<sup>2<sup>bis</sup></sup> Die Schülerinnen und Schüler auf der Sekundarstufe II haben über ihre Vertretung im Schulrat ein Mitwirkungsrecht bei der Anstellung von Mitgliedern der Schulleitung.
+<sup>2<sup>bis</sup></sup> Die Schülerinnen und Schüler auf der Sekundarstufe II haben über eine Vertretung ein Mitbestimmungsrecht bei der Anstellung von Schulleitungsmitgliedern.
+
+<sup>2<sup>ter</sup></sup> Das Wahlverfahren für die Vertretung der Schülerinnen und Schüler der Sekundarstufe II im Anstellungsverfahren von Schulleitungsmitgliedern wird durch die Anstellungsbehörde definiert.
 
 <sup>3</sup> Das Nähere regelt die Verordnung.
 
@@ -1255,6 +1337,30 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 <sup>2</sup> Die Beratung und Beurteilung unterstützt ihre Lern- und Persönlichkeitsentwicklung und dient als Entscheidungsgrundlage für den Übertritt in nachfolgende Ausbildungsgänge.
 
 <sup>3</sup> Das Nähere regelt die Verordnung.
+
+#### § 65a
+
+**Ordnungswidriges Verhalten von Schülerinnen und Schülern**
+
+<sup>1</sup> Versäumen Schülerinnen und Schüler unentschuldigt den Unterricht oder verstossen sie vorsätzlich oder fahrlässig gegen Ordnung und Disziplin, ergreifen die Lehrerinnen und Lehrer, bei schweren Verstössen die Schulleitung, Massnahmen.
+
+<sup>2</sup> Bei den kommunalen Schulen kann der Schulrat auf Antrag der Schulleitung Schülerinnen und Schüler, die in schwerer Weise gegen Ordnung und Disziplin verstossen haben, aus der Schule ausschliessen.
+
+<sup>3</sup> Bei den kantonalen Schulen kann die Schulleitung in Absprache mit der Bildungs-, Kultur- und Sportdirektion Schülerinnen und Schüler, die in schwerer Weise gegen Ordnung und Disziplin verstossen haben, aus der Schule ausschliessen.
+
+<sup>4</sup> Bei den kommunalen Schulen hört der Schulrat bzw. bei den kantonalen Schulen die Schulleitung die Erziehungsberechtigten an, wenn er oder sie den Ausschluss von Schülerinnen und Schülern erwägt. Während der obligatorischen Schulpflicht müssen zudem die Bildungs-, Kultur- und Sportdirektion sowie vor einem unbefristeten Ausschluss die Kindes- und Erwachsenenschutzbehörde angehört werden. Der Ausschluss hebt die Schulpflicht nicht auf.
+
+<sup>5</sup> Das Nähere regelt die Verordnung.
+
+#### § 65b
+
+**Versetzung von Schülerinnen und Schülern**
+
+<sup>1</sup> Bei den kommunalen Schulen kann der Schulrat auf Antrag der Schulleitung bzw. bei kantonalen Schulen die Schulleitung Schülerinnen und Schüler im Einverständnis mit der Schulleitung der aufnehmenden Schule an eine andere Schule versetzen, wenn schwerwiegende Gründe vorliegen, die eine weitere Beschulung an der bisherigen Schule unzumutbar machen.
+
+<sup>2</sup> Bei den kommunalen Schulen hört der Schulrat bzw. bei den kantonalen Schulen die Schulleitung die Erziehungsberechtigten oder die volljährige Schülerin oder den volljährigen Schüler an.
+
+<sup>3</sup> Auf der Primarstufe ist bei Versetzung in eine andere Gemeinde vorgängig eine Kostengutsprache beim Gemeinderat der Wohngemeinde einzuholen.
 
 ### 3.3.2 Erziehungsberechtigte
 
@@ -1283,7 +1389,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>1</sup> Die Erziehungsberechtigten können von den Klassenlehrerinnen und Klassenlehrern ihrer Kinder die Durchführung von Elternabenden verlangen.
 
-<sup>2</sup> Sie haben das Recht, von der Schulleitung und vom Schulrat ihrer Kinder angehört zu werden und an diese Gremien Anträge zu stellen.
+<sup>2</sup> Sie haben das Recht, an kommunalen Schulen von der Schulleitung und vom Schulrat bzw. an kantonalen Schulen von der Schulleitung ihrer Kinder angehört zu werden und an diesen bzw. diese Anträge zu stellen. Wird die Schule vom Gemeinderat geführt, besteht kein Antragsrecht an diesen.
 
 <sup>3</sup> Organisationen der Erziehungsberechtigten können zu wichtigen Fragen und Erlassen im Bildungswesen zuhanden der zuständigen Behörde Stellung nehmen.
 
@@ -1300,7 +1406,10 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 - c. arbeiten mit den Lehrerinnen und Lehrern sowie der Schule ihrer Kinder zusammen und suchen bei hängigen Fragen den direkten Kontakt mit ihnen;
 - d. halten ihre Kinder an, die Regeln und Weisungen der Schule unter Berücksichtigung der Werte einer freiheitlichen, gleichberechtigten und solidarischen Gesellschaft einzuhalten und den Unterricht sowie die Schulveranstaltungen lückenlos zu besuchen.
 
-<sup>2</sup> Erziehungsberechtigte, die ihren Pflichten der Schule gegenüber nicht nachkommen, können vom Schulrat ermahnt oder mit Busse bis zu CHF 5'000.– bestraft werden.
+<sup>2</sup> Erziehungsberechtigte, die ihren Pflichten der Schule gegenüber nicht nachkommen, können:
+
+- a. an kommunalen Schulen vom Schulrat ermahnt oder mit Busse bis zu CHF 5'000.– bestraft werden;
+- b. an kantonalen Schulen von der Schulleitung ermahnt oder auf deren Antrag von der Bildungs-, Kultur- und Sportdirektion mit Busse bis zu CHF 5'000.– bestraft werden.
 
 <sup>3</sup> Das Nähere regelt die Verordnung.
 
@@ -1314,7 +1423,8 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 - a. sind bei der Gestaltung des Unterrichts innerhalb der Lehrpläne und des Schulprogramms frei;
 - b. haben Anspruch auf Achtung ihrer Persönlichkeit, ihrer Privatsphäre und ihrer beruflichen Fähigkeiten;
-- c. werden von der Schulleitung und dem Schulrat in ihrer Arbeit unterstützt und auf ihr Verlangen angehört;
+- c. werden von der Schulleitung in ihrer Arbeit unterstützt und auf ihr Verlangen angehört;
+- c<sup>bis</sup>. …
 - d. erhalten über sie persönlich betreffende Vorkommnisse von der Schulleitung direkt Mitteilung;
 - e. bestimmen unter Einhaltung der finanziellen Vorgaben selbst, welche unterrichtsleitenden bzw. empfohlenen fakultativen Lehrmittel aus der kantonalen Lehrmittelliste sie im Unterricht einsetzen.
 
@@ -1367,7 +1477,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 - b. Er beteiligt sich an der Ausarbeitung des Schulprogramms.
 - c. Er nimmt zu wichtigen Fragen der Schule und des Bildungswesens Stellung.
 - d. Er kann der Schulleitung Anträge stellen.
-- e. Er hat über seine Vertretung im Schulrat ein Mitwirkungsrecht bei der Anstellung von Mitgliedern der Schulleitung.
+- e. Er hat über eine Vertretung bei den kommunalen Schulen ein Mitwirkungsrecht und bei den kantonalen Schulen ein Mitbestimmungsrecht bei der Anstellung von Schulleitungsmitgliedern.
 
 <sup>3</sup> Die Lehrerinnen und Lehrer, die eine Klasse oder einzelne Schülerinnen und Schüler derselben unterrichten, bilden einen Klassenkonvent, in welchem über die Leistungsbeurteilung und Beförderungen sowie über Fragen der Klassengemeinschaft beraten und entschieden wird. Weitere unterstützende Fachpersonen können beigezogen werden.
 
@@ -1383,9 +1493,11 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>3</sup> Das Nähere regelt die Verordnung.
 
-### 3.4 Leitung und Aufsicht
+### 3.4 Leitung
 
-### 3.4.1 Schulleitung
+### 3.4.1 Leitung kommunaler Schulen
+
+### 3.4.1.1 Schulleitung
 
 #### § 76
 
@@ -1393,9 +1505,13 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>1</sup> Die Mitglieder der Schulleitung werden durch den Schulrat angestellt.
 
-<sup>2</sup> Besteht die Schulleitung aus mehreren Mitgliedern, sollen in ihr nach Möglichkeit beide Geschlechter vertreten sein. Das Nähere regelt die Verordnung.
+<sup>2</sup> In der Schulleitung sollen nach Möglichkeit beide Geschlechter vertreten sein.
 
 <sup>3</sup> Mindestens 1 Mitglied der Schulleitung besitzt die für eine unbefristete Anstellung an der Schule erforderliche Ausbildung.
+
+<sup>4</sup> Der Schulrat entscheidet nach Anhörung der Schulleitung, ob diese in einem Leitungsmodell mit 1 Rektorin oder Rektor sowie Konrektorinnen und Konrektoren organisiert wird oder ob keine Hierarchisierung der Schulleitung erfolgen soll.
+
+<sup>5</sup> Das Nähere regelt die Verordnung.
 
 #### § 77
 
@@ -1405,38 +1521,84 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 - a. Sie führt die Schule in pädagogischer, personeller, organisatorischer und administrativer Hinsicht.
 - b. Sie sorgt für die Verbindung von Schule und Öffentlichkeit.
-- c. Sie berät und beaufsichtigt die Lehrerinnen und Lehrer und beurteilt ihre Leistungen.
-- d. Sie nimmt die befristete Anstellung von Lehrerinnen und Lehrern vor und beantragt dem Schulrat die unbefristete Anstellung von Lehrerinnen und Lehrern.
-- e. Sie gewährleistet die schulinterne Fortbildung der Lehrerinnen und Lehrer.
+- c. Sie ist Anstellungsbehörde von Lehrerinnen und Lehrern sowie weiteren Mitarbeitenden im pädagogischen, administrativen und ergänzenden Bereich und berät, beaufsichtigt und beurteilt diese.
+- d. Sie nimmt vor der Auflösung von unbefristeten Anstellungsverhältnissen durch die Arbeitgeberin Rücksprache mit der Bildungs-, Kultur- und Sportdirektion.
+- e. Sie gewährleistet die schulinterne Fortbildung der Lehrerinnen und Lehrer und gegebenenfalls weiterer unterstützender Fachpersonen.
 - f. Sie ist Beschwerdeinstanz bei Entscheiden der Lehrerinnen und Lehrer sowie von Klassenkonventen.
-- g. Sie erarbeitet das Schulprogramm.
-- h. Sie sorgt für die Umsetzung der Ergebnisse der internen und externen Evaluation sowie – im Falle der Berufsfachschulen – der Massnahmen im Zusammenhang mit der lernortübergreifenden Qualitätssicherung und -entwicklung.
-- i. Sie trifft Entscheide innerhalb der Budgetvorgaben.
+- g. Sie erarbeitet das Schulprogramm unter Mitwirkung des Lehrerinnen- und Lehrerkonvents und des Schulrats.
+- h. Sie verantwortet die interne Evaluation der Schule als Organisation, erarbeitet unter Mitwirkung des Schulrats die Massnahmen und unterbreitet sie diesem zur Genehmigung. Die Massnahmen werden in die Schulentwicklungsplanung aufgenommen und der Bildungs-, Kultur- und Sportdirektion zur Kenntnis gebracht.
+- h<sup>bis</sup>. Sie entwickelt unter Mitwirkung des Schulrats geeignete Massnahmen zur Umsetzung der Erkenntnisse aus den Aufsichtsprozessen zuhanden des Schulrats.
+- h<sup>ter</sup>. Sie sorgt im Rahmen der Schulentwicklungsplanung für die Umsetzung der aus Evaluation und Aufsicht resultierenden und beschlossenen Massnahmen.
+- i. Sie erstellt das Budget und den Jahresabschluss zuhanden des Schulrats und trifft Entscheide innerhalb der Budgetvorgaben.
 - j. Sie wirkt bei der Anstellung neuer Schulleitungsmitglieder mit.
+- k. Sie kann eine Anzahl von Tagen festlegen, an denen Schülerinnen und Schüler ohne Angabe von Gründen dem Unterricht fernbleiben können.
+- l. Sie legt nach Anhörung des Lehrerinnen- und Lehrerkonvents die Schulleitungsorganisation fest und unterbreitet diese dem Schulrat zur Genehmigung.
 
-<sup>1<sup>bis</sup></sup> Die Schulleitung übernimmt Aufgaben im Bereich der familienergänzenden Kinderbetreuung, sofern die Gemeinde diese Aufgaben ganz oder teilweise an die Schule delegiert. Die Gemeinde muss dabei die zusätzlichen Aufgaben der Schulleitung, die Ressourcierung sowie die Unterstellung derselben regeln.
+<sup>1<sup>bis</sup></sup> Die Schulleitung übernimmt weitere Aufgaben in den Bereichen Bildung und familienergänzende Kinderbetreuung, sofern die Einwohnergemeinde diese Aufgaben ganz oder teilweise an die Schule delegiert. Die Einwohnergemeinde muss dabei die zusätzlichen Aufgaben der Schulleitung, die Bereitstellung der Mittel sowie die Unterstellung derselben regeln.
+
+<sup>1<sup>ter</sup></sup> Entscheidet sich der Schulrat für ein Leitungsmodell mit Rektorin oder Rektor, so hat diese oder dieser zudem insbesondere folgende Aufgaben:
+
+- a. Sie oder er trägt die Gesamtverantwortung für die Leitung und zeitgemässe Weiterentwicklung der Schule.
+- b. Sie oder er vertritt die Schule nach aussen.
+- c. Sie oder er führt, berät und beaufsichtigt die Konrektorinnen und Konrektoren der Schule.
+- d. Sie oder er legt unter Mitwirkung der Konrektorinnen und Konrektoren und nach Anhörung des Lehrerinnen- und Lehrerkonvents die Schulleitungsorganisation fest und unterbreitet diese dem Schulrat zur Genehmigung.
 
 <sup>2</sup> Das Nähere regelt die Verordnung.
 
 #### § 78
 
-**Beratung und Beurteilung**
+**Beratung**
 
-<sup>1</sup> Die Schulleitung wird durch den Schulrat beraten. Die Leistungen der Schulleitungsmitglieder werden durch den Schulrat regelmässig im Rahmen von Mitarbeiterinnen- und Mitarbeitergesprächen beurteilt.
+<sup>1</sup> Die Schulleitung wird durch den Schulrat beraten.
 
-<sup>2</sup> Zur Beurteilung des Unterrichts von Schulleitungsmitgliedern zieht er Fachpersonen bei.
+<sup>2</sup> …
 
-### 3.4.2 Schulrat
+#### § 78a
+
+**Beurteilung**
+
+<sup>1</sup> Die Leistungen der Schulleitungsmitglieder werden durch den Schulrat regelmässig im Rahmen von Mitarbeitendengesprächen beurteilt.
+
+<sup>2</sup> Entscheidet sich der Schulrat für ein Leitungsmodell mit Rektorin oder Rektor, wird diese oder dieser vom Schulrat und die Konrektorinnen und Konrektoren von der Rektorin oder dem Rektor beurteilt.
+
+<sup>3</sup> Zur Beurteilung des Unterrichts von Schulleitungsmitgliedern zieht er Fachpersonen bei.
+
+### 3.4.1.1a Schulleitungskonferenz
+
+#### § 78b
+
+**Zusammensetzung und Aufgaben**
+
+<sup>1</sup> Die Schulleitungen der Primarstufe und der Musikschulen bilden je 1 Schulleitungskonferenz.
+
+<sup>2</sup> Die Schulleitungskonferenzen haben insbesondere folgende Aufgaben und Rechte:
+
+- a. Sie beraten und unterstützen die zuständigen Stellen der Bildungs-, Kultur- und Sportdirektion in allen zentralen Fragen der jeweiligen Schulart und des Bildungswesens und bringen die Anliegen ihrer Schulart ein.
+- b. Sie koordinieren alle schulübergreifenden Geschäfte im Zuständigkeitsbereich der Schulleitungen.
+- c. Sie dienen der gegenseitigen Orientierung der Schulleitungen über geplante und laufende Aktivitäten der jeweiligen Schulart.
+- d. Sie werden bei bevorstehenden bildungspolitischen Entscheiden rechtzeitig konsultiert.
+- e. Sie nehmen zuhanden der Bildungs-, Kultur- und Sportdirektion zu allen die jeweilige Schulart betreffenden Erlassen Stellung.
+- f. Die Schulleitungskonferenz der Primarstufe pflegt den Kontakt zu den aufnehmenden Schulen und bezieht deren Anliegen ein.
+
+<sup>3</sup> Die Schulleitungskonferenzen werden von einem Vorstand geleitet und von der Bildungs-, Kultur- und Sportdirektion fachlich unterstützt. Diese ist im Vorstand mit beratender Stimme vertreten.
+
+<sup>4</sup> Die Vorstände werden hälftig von der Trägerschaft und der Bildungs-, Kultur- und Sportdirektion ressourciert. Die übrigen Kosten der Schulleitungskonferenzen gehen zulasten des Kantons.
+
+<sup>5</sup> Das Nähere regelt die Verordnung.
+
+### 3.4.2
+
+### 3.4.1.2 Schulrat
 
 #### § 79
 
 **Wahl**
 
-<sup>1</sup> Die Wahl der Schulräte der Volksschule (ohne Werkjahr) und der Musikschule richtet sich nach den Bestimmungen des Gemeindegesetzes.
+<sup>1</sup> Sieht die Gemeindeordnung einen Schulrat vor, so richtet sich die Wahl der Mitglieder der Schulräte der Primarstufe bzw. der Musikschule nach den Bestimmungen des Gemeindegesetzes.
 
-<sup>2</sup> Die Einwohnergemeinden bestimmen, ob für ihre Schulen je ein eigener Schulrat oder für mehrere Schulen ein gemeinsamer Schulrat gewählt wird. Führen mehrere Einwohnergemeinden eine Schule gemeinsam, bilden sie einen Kreisschulrat.
+<sup>2</sup> Führen mehrere Einwohnergemeinden eine Schule gemeinsam, bilden sie einen Kreisschulrat.
 
-<sup>3</sup> Die Wahl der Schulräte des Werkjahres und der Schulen der Sekundarstufe II erfolgt durch den Regierungsrat.
+<sup>3</sup> …
 
 <sup>4</sup> Lehrerinnen und Lehrer können nicht in den Schulrat der Schule, an der sie unterrichten, gewählt werden.
 
@@ -1448,9 +1610,9 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>2</sup> In die Schulräte des Kindergartens und der Primarschule delegiert der Gemeinderat der Trägergemeinde ein Mitglied aus seiner Mitte.
 
-<sup>3</sup> Der Regierungsrat legt die Mitgliederzahl der Schulräte der Sekundarschule (ohne Werkjahr) vor jeder Neuwahl für jeden Schulkreis fest, wobei die einzelnen Gemeinden nach ihrer Einwohnerzahl berücksichtigt werden. Dem Schulort steht ein Vorwegmandat zu.
+<sup>3</sup> …
 
-<sup>4</sup> Die Mitgliederzahl der Schulräte des Werkjahres und der Schulen der Sekundarstufe II legt die Verordnung fest.
+<sup>4</sup> …
 
 <sup>5</sup> Die Schulräte konstituieren sich selbst.
 
@@ -1462,9 +1624,9 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 - a. die Schulleitung;
 - b. eine Vertretung des Lehrerinnen und Lehrerkonvents;
-- c. ab der Sekundarstufe II eine Vertretung der Schülerinnen und Schüler.
+- c. …
 
-<sup>2</sup> Das Wahlverfahren für die Vertretung der Schülerinnen und Schüler der Sekundarstufe II bestimmt der Schulrat.
+<sup>2</sup> …
 
 <sup>3</sup> Das Nähere regelt die Verordnung.
 
@@ -1474,19 +1636,219 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>1</sup> Der Schulrat hat folgende Aufgaben:
 
-- a. Er bringt die Anliegen der Erziehungsberechtigten und der Trägerschaft in die Schule ein und vermittelt die Anliegen der Schule gegenüber der Trägerschaft und der Öffentlichkeit.
+- a. Er ist dafür besorgt, dass die Anliegen der Erziehungsberechtigten und der Öffentlichkeit eingebracht werden können.
 - b. Er ist Anstellungsbehörde der Schulleitung.
-- c. Er nimmt auf Antrag der Schulleitung die unbefristete Anstellung von Lehrerinnen und Lehrern vor.
-- d. Er genehmigt das Schulprogramm.
-- e. Er gewährleistet die Umsetzung der Evaluationsergebnisse.
-- f. Er kann eine Anzahl von Tagen festlegen, an denen Schülerinnen und Schüler ohne Angabe von Gründen dem Unterricht fernbleiben können.
-- g. Er ist Beschwerdeinstanz bei Entscheiden der Schulleitung.
+- c. Er wirkt bei der Erarbeitung des Schulprogramms mit und genehmigt dieses unter Einhaltung der Vorgaben des Bundes und des Kantons.
+- d. Er wirkt bei der Erarbeitung von Massnahmen zu den Erkenntnissen aus der internen Evaluation und der Aufsicht mit, beschliesst diese und gewährleistet deren Umsetzung.
+- e. Er kann eine vermittelnde Rolle für Anliegen aller Schulbeteiligten einnehmen und hierfür zu Gesprächen aufbieten.
+- f. Er ist Beschwerdeinstanz bei Entscheiden der Schulleitung.
+- g. Er beschliesst das Leitungsmodell der Schulleitung.
+- h. Er genehmigt die Organisation der Schulleitung.
+- i. Er unterstützt die Schulleitung bei der Erfüllung ihrer Arbeit.
+- j. Er ist gegenüber den Schulleitungen weisungsbefugt unter Sicherung der eigenverantwortlichen Gestaltungsspielräume der Schulen.
+- k. Er gewährleistet die Einhaltung der Vorgaben des Kantons, des Bundes und der Einwohnergemeinde.
+- l. Er lässt zeitlich befristet operative Eingriffe in die Schulführung vornehmen, wenn wichtige rechtliche Vorgaben nicht eingehalten werden, das Funktionieren der Schule gefährdet ist oder eine Krisensituation besteht.
+- m. Er verabschiedet das Budget und die Rechnung zuhanden des Gemeinderats. Sofern die Einwohnergemeinde an Stelle des Schulrats den Gemeinderat als Führungsgremium der Schule einsetzt, genehmigt dieser das Budget und die Rechnung.
+
+<sup>2</sup> Das Nähere regelt die Verordnung.
+
+### 3.4.1.3 Führungsmodelle
+
+#### § 82bis
+
+**Wahl des Führungsmodells**
+
+<sup>1</sup> Die Einwohnergemeinde kann die in diesem Gesetz vorgesehenen Aufgaben des Schulrats gemäss § 82 gesamthaft an den Gemeinderat übertragen. Bei einer Aufgabenübertragung kann sie zudem nach Massgabe ihrer Gemeindeordnung eine ständige Kommission zur Beratung des Gemeinderats einsetzen.
+
+<sup>2</sup> Bilden mehrere Einwohnergemeinden eine Kreisschule oder führen sie eine Musikschule, können sie die Aufgaben nicht an den Gemeinderat übertragen.
+
+#### § 82ter
+
+**Rahmenbedingungen bei Aufgabenübertragung**
+
+<sup>1</sup> Entscheidet sich die Einwohnergemeinde für die Schulführung durch den Gemeinderat, stellt dieser sicher, dass in wichtigen schulischen Belangen je eine Vertretung der Schulleitung und des Lehrerinnen- und Lehrerkonvents vorgängig zu Entscheiden beratend beigezogen werden.
+
+<sup>2</sup> Entscheidet sich die Einwohnergemeinde für ein Führungsmodell mit Gemeinderat, hat die Schulleitung ein Antragsrecht an den Gemeinderat und vertritt ihre Anträge bei Bedarf in den Gemeinderatssitzungen.
+
+<sup>3</sup> Entscheidet sich die Einwohnergemeinde für ein Führungsmodell mit beratender Kommission, stellt sie sicher, dass je eine Vertretung der Schulleitung und des Lehrerinnen- und Lehrerkonvents Einsitz haben.
+
+<sup>4</sup> Die Zuständigkeit für Budget und Rechnung kann bei Kreisschulen an eine gemeinderätliche Finanzkommission übertragen werden.
+
+### 3.4.3 Leitung kantonaler Schulen
+
+### 3.4.3.1 Schulleitung
+
+#### § 82a
+
+**Zusammensetzung, Anstellung**
+
+<sup>1</sup> Die Schulleitung besteht aus 1 Rektorin oder Rektor sowie Konrektorinnen und Konrektoren.
+
+<sup>2</sup> Co-Rektorate sind möglich.
+
+<sup>3</sup> In der Schulleitung sollen nach Möglichkeit beide Geschlechter vertreten sein.
+
+<sup>4</sup> Mindestens 1 Mitglied der Schulleitung besitzt die für eine unbefristete Anstellung an der Schule erforderliche Ausbildung.
+
+<sup>5</sup> Für den Anstellungsprozess der Rektorinnen und Rektoren sowie der Konrektorinnen und Konrektoren beruft die Bildungs-, Kultur- und Sportdirektion ein Wahlgremium ein. Diesem gehören nebst der Vertretung der Bildungs-, Kultur- und Sportdirektion eine Vertretung des Schulrats, eine Vertretung der Schulleitung, eine Vertretung des Lehrerinnen- und Lehrerkonvents sowie auf der Sekundarstufe II eine Vertretung der Schülerinnen und Schüler an.
+
+<sup>6</sup> Die Schulleitungsmitglieder werden auf der Basis des Entscheids des Wahlgremiums durch die Bildungs-, Kultur- und Sportdirektion angestellt. Jede Vertretung hat beim Wahlentscheid 1 Stimme. Bei Stimmengleichheit hat die Bildungs-, Kultur- und Sportdirektion den Stichentscheid.
+
+<sup>7</sup> Das Nähere regelt die Verordnung.
+
+#### § 82b
+
+**Aufgaben**
+
+<sup>1</sup> Die Schulleitung nimmt insbesondere folgende Aufgaben wahr:
+
+- a. Sie führt die Schule in pädagogischer, personeller, organisatorischer und administrativer Hinsicht.
+- b. Sie sorgt für die Verbindung von Schule und Öffentlichkeit.
+- c. Sie ist Anstellungsbehörde von Lehrerinnen und Lehrern sowie weiteren Mitarbeitenden im pädagogischen, administrativen und ergänzenden Bereich und berät, beaufsichtigt und beurteilt diese.
+- d. Sie nimmt vor der Auflösung von unbefristeten Anstellungsverhältnissen durch die Arbeitgeberin Rücksprache mit der Bildungs-, Kultur- und Sportdirektion.
+- e. Sie gewährleistet die schulinterne Fortbildung der Lehrerinnen und Lehrer und gegebenenfalls weiterer unterstützender Fachpersonen.
+- f. Sie ist Beschwerdeinstanz bei Entscheiden der Lehrerinnen und Lehrer sowie von Klassenkonventen.
+- g. Sie erarbeitet das Schulprogramm unter Mitwirkung des Lehrerinnen- und Lehrerkonvents und des Schulrats.
+- h. Sie verantwortet die interne Evaluation der Schule als Organisation, erarbeitet unter Mitwirkung des Schulrats die Massnahmen und unterbreitet sie diesem zur Genehmigung. Die Massnahmen werden in die Schulentwicklungsplanung aufgenommen und der Bildungs-, Kultur- und Sportdirektion zur Kenntnis gebracht.
+- i. Sie erarbeitet und berät mit dem Schulrat die aus den Rückmeldungen der Aufsicht resultierenden Massnahmen zuhanden der Bildungs-, Kultur- und Sportdirektion.
+- j. Sie sorgt im Rahmen der Schulentwicklungsplanung für die Umsetzung der aus Evaluation und Aufsicht resultierenden und beschlossenen Massnahmen sowie – im Falle der Berufsfachschulen – der Massnahmen im Zusammenhang mit der lernortübergreifenden Qualitätssicherung und -entwicklung.
+- k. Sie erstellt das Budget und den Jahresabschluss zuhanden der Bildungs-, Kultur- und Sportdirektion und trifft Entscheide innerhalb der Budgetvorgaben.
+- l. Sie bringt dem Schulrat die Verteilung der finanziellen Spielräume innerhalb des Jahresbudgets und des kantonalen Rahmens zur Kenntnis.
+- m. Sie übt ein Mitbestimmungsrecht bei der Anstellung neuer Schulleitungsmitglieder durch eine Vertretung im Wahlgremium aus.
+- n. Sie kann eine Anzahl von Tagen festlegen, an denen Schülerinnen und Schüler ohne Angabe von Gründen dem Unterricht fernbleiben können.
+
+<sup>2</sup> Die Rektorin oder der Rektor hat zudem insbesondere folgende Aufgaben:
+
+- a. Sie oder er trägt die Gesamtverantwortung für die Leitung und zeitgemässe Weiterentwicklung der Schule.
+- b. Sie oder er vertritt die Schule nach aussen.
+- c. Sie oder er führt, berät und beaufsichtigt die Konrektorinnen und Konrektoren an allen kantonalen Schulen.
+- d. Sie oder er legt unter Mitwirkung der Konrektorinnen und Konrektoren und nach Anhörung des Lehrerinnen- und Lehrerkonvents die Schulleitungsorganisation fest und unterbreitet diese der vorgesetzten Stelle der Bildungs-, Kultur- und Sportdirektion zur Genehmigung.
+
+<sup>3</sup> Das Nähere regelt die Verordnung.
+
+#### § 82c
+
+**Beratung**
+
+<sup>1</sup> Die Schulleitung wird durch den Schulrat und die Bildungs-, Kultur- und Sportdirektion beraten.
+
+#### § 82d
+
+**Beurteilung**
+
+<sup>1</sup> Die Leistungen der Rektorin oder des Rektors werden gemeinsam durch die Präsidentin oder den Präsidenten des Schulrats und die vorgesetzte Stelle der Bildungs-, Kultur- und Sportdirektion regelmässig im Rahmen von Mitarbeitendengesprächen beurteilt.
+
+<sup>2</sup> Die Leistungen der Konrektorinnen oder Konrektoren werden durch die Rektorin oder den Rektor regelmässig im Rahmen von Mitarbeitendengesprächen beurteilt.
+
+<sup>3</sup> Zur Beurteilung des Unterrichts können Fachpersonen beigezogen werden.
+
+### 3.4.3.2 Schulleitungskonferenz
+
+#### § 82e
+
+**Zusammensetzung und Aufgaben**
+
+<sup>1</sup> Die Rektorinnen und Rektoren der Sekundarschulen, der Berufsfachschulen und der Gymnasien bilden je 1 Schulleitungskonferenz. Die Konrektorinnen und Konrektoren werden mit Stimmrecht zu erweiterten Schulleitungskonferenzen eingeladen.
+
+<sup>2</sup> Die Schulleitungskonferenzen haben insbesondere folgende Aufgaben und Rechte:
+
+- a. Sie beraten und unterstützen die Bildungs-, Kultur- und Sportdirektion in allen zentralen Fragen der jeweiligen Schulart und des Bildungswesens und bringen die Anliegen ihrer Schulart ein.
+- b. Sie koordinieren alle schulübergreifenden Geschäfte im Zuständigkeitsbereich der Schulleitungen.
+- c. Sie dienen der gegenseitigen Orientierung der Schulleitungen über geplante und laufende Aktivitäten der jeweiligen Schulart.
+- d. Sie werden bei bevorstehenden bildungspolitischen Entscheiden rechtzeitig konsultiert.
+- e. Sie nehmen zuhanden der Bildungs-, Kultur- und Sportdirektion zu allen die jeweilige Schulart betreffenden Erlassen Stellung.
+- f. Sie pflegen den Kontakt zu den abgebenden und aufnehmenden Schulen bzw. Bildungsinstitutionen und beziehen ihre Anliegen ein.
+
+<sup>3</sup> Die Schulleitungskonferenzen unterstehen der Bildungs-, Kultur- und Sportdirektion.
+
+<sup>4</sup> Das Nähere regelt die Verordnung.
+
+### 3.4.3.3 Schulrat
+
+#### § 82f
+
+**Schulrat**
+
+<sup>1</sup> Die Wahl der Mitglieder der Schulräte der Schulen der Sekundarstufe I richtet sich nach den Bestimmungen des Gemeindegesetzes.
+
+<sup>2</sup> Die Wahl der Mitglieder der Schulräte der Sonderschulen und der Schulen der Sekundarstufe II erfolgt durch den Regierungsrat.
+
+<sup>3</sup> Lehrerinnen und Lehrer können nicht in den Schulrat der Schule, an der sie unterrichten, gewählt werden.
+
+#### § 82g
+
+**Mitgliederzahl, Konstituierung**
+
+<sup>1</sup> Der Regierungsrat legt die Mitgliederzahl der Schulräte der Schulen der Sekundarstufe I vor jeder Neuwahl für jeden Schulkreis fest, wobei die einzelnen Gemeinden nach ihrer Einwohnerzahl berücksichtigt werden. Dem Schulort steht ein Vorwegmandat zu.
+
+<sup>2</sup> Die Mitgliederzahl der Schulräte der Sonderschulen und der Schulen der Sekundarstufe II legt die Verordnung fest.
+
+<sup>3</sup> Die Schulräte konstituieren sich selbst.
+
+<sup>4</sup> Sie unterstehen der Aufsicht der Bildungs-, Kultur- und Sportdirektion.
+
+#### § 82h
+
+**Vertretungen mit beratender Stimme**
+
+<sup>1</sup> Dem Schulrat gehören mit beratender Stimme an:
+
+- a. eine Vertretung der Schulleitung;
+- b. eine Vertretung des Lehrerinnen- und Lehrerkonvents;
+- c. auf der Sekundarstufe II eine Vertretung der Schülerinnen und Schüler.
+
+<sup>2</sup> Die Bildungs-, Kultur- und Sportdirektion kann mit einer Vertretung mit beratender Stimme an den Sitzungen des Schulrats teilnehmen.
+
+<sup>3</sup> Das Wahlverfahren für die Vertretung der Schülerinnen und Schüler der Sekundarstufe II wird im Schulprogramm festgelegt.
+
+<sup>4</sup> Das Nähere regelt die Verordnung.
+
+#### § 82i
+
+**Aufgaben**
+
+<sup>1</sup> Der Schulrat hat folgende Aufgaben:
+
+- a. Er bringt Anliegen der Öffentlichkeit und der Erziehungsberechtigten sowie in der Berufsbildung Anliegen der Arbeitswelt in die Schule ein und vermittelt die Anliegen der Schule den Anspruchsgruppen.
+- b. Er nimmt eine vermittelnde Rolle für Anliegen aller Schulbeteiligten ein und kann diese hierfür zu Gesprächen aufbieten
+- c. Er ist Beschwerdeinstanz bei Entscheiden der Schulleitung in schülerinnen- und schülerbezogenen Angelegenheiten, ausser bei Schulausschlüssen.
+- d. Er übt ein Mitbestimmungsrecht bei der Anstellung neuer Schulleitungsmitglieder durch eine Vertretung im Wahlgremium aus.
+- e. Er beurteilt, vertreten durch die Präsidentin oder den Präsidenten, gemeinsam mit der vorgesetzten Stelle der Bildungs-, Kultur- und Sportdirektion die Rektorin oder den Rektor.
+- f. Er wirkt bei der Erarbeitung des Schulprogramms mit und genehmigt dieses unter Einhaltung der Vorgaben des Bundes und des Kantons.
+- g. Er nimmt das Budget hinsichtlich der Übereinstimmung mit den Vorgaben des Schulprogramms zur Kenntnis.
+- h. Er berät die Evaluationsergebnisse und die Erkenntnisse aus den Aufsichtsprozessen, erarbeitet gemeinsam mit der Schulleitung die daraus abgeleiteten Massnahmen und genehmigt die Massnahmen aus der internen Evaluation.
+
+<sup>2</sup> Der Schulrat kann zur Erfüllung seiner Aufgaben in Absprache mit der Schulleitung und den Lehrpersonen Unterrichtsbesuche machen.
+
+### 3.4.3.4 Bildungs-, Kultur- und Sportdirektion
+
+#### § 82j
+
+**Führungsaufgaben**
+
+<sup>1</sup> Die Bildungs-, Kultur- und Sportdirektion hat in der Führung der ihr zugeordneten kantonalen Schulen insbesondere folgende Aufgaben:
+
+- a. Sie stellt Rektorinnen und Rektoren sowie Konrektorinnen und Konrektoren aller kantonalen Schulen aufgrund des Beschlusses des Wahlgremiums an und beurteilt gemeinsam mit der Präsidentin oder dem Präsidenten des Schulrats die Leistungen der Rektorinnen und Rektoren im Mitarbeitendengespräch.
+- b. Sie genehmigt die Organisation der Schulleitung.
+- c. Sie unterstützt die Schulleitung und den Schulrat in der Erfüllung ihrer Aufgaben.
+- d. Sie ist gegenüber den Schulleitungen weisungsbefugt unter Sicherung der eigenverantwortlichen Gestaltungsspielräume der Schulen im Rahmen des Schulprogramms.
+- e. Sie gewährleistet die Einhaltung der Vorgaben von Bund und Kanton.
+- f. Sie kann zeitlich befristet operative Eingriffe in die Schulführung vornehmen, wenn wichtige rechtliche Vorgaben nicht eingehalten werden, das Funktionieren der Schule gefährdet ist oder eine Krisensituation besteht.
+- g. Sie genehmigt das Budget und die Rechnung hinsichtlich der Übereinstimmung mit den kantonalen Vorgaben.
+- h. Sie führt mit der Schulleitung jeder Schule jährliche Betriebsgespräche.
+- i. Sie beschliesst Massnahmen zur Umsetzung der Evaluationsergebnisse und der Erkenntnisse aus den Aufsichtsprozessen.
+
+<sup>2</sup> Das Nähere regelt die Verordnung.
+
+### 3.4.4 Konferenz der Schulratspräsidien bzw. der für die Bildung zuständigen Gemeinderäte
 
 #### § 83
 
 **Präsidentinnen- und Präsidentenkonferenz**
 
 <sup>1</sup> Die Präsidentinnen und Präsidenten der Schulräte der öffentlichen Schulen des Kantons und der Einwohnergemeinden bilden eine Konferenz.
+
+<sup>1<sup>bis</sup></sup> Sieht die Gemeindeordnung für die Führung der Primarstufe die Zuständigkeit beim Gemeinderat vor, so vertreten die für die Bildung zuständigen Gemeinderätinnen und -räte die Schule an der Konferenz.
 
 <sup>2</sup> Die Konferenz nimmt gegenüber der Bildungs-, Kultur- und Sportdirektion zu wichtigen Erlassen und Anliegen im Bildungswesen Stellung.
 
@@ -1516,7 +1878,7 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 - b. Er beschliesst die Stufenlehrpläne und die Stundentafeln der einzelnen Schularten und kann Ausnahmen hiervon bewilligen.
 - c. Er beschliesst die obligatorischen Lehrmittel der Volksschule.
 - d. Er beantragt dem Regierungsrat die Durchführung von Schulversuchen.
-- e. Er beantragt dem Regierungsrat die Durchführung von externen Evaluationen im Bildungswesen.
+- e. …
 - f. Er fördert und koordiniert das Berufsbildungswesen.
 - g. Er beantragt dem Regierungsrat die Einrichtung von beruflichen Grundschulen und Lehrwerkstätten.
 - h. Er wählt 9–11 Mitglieder in die Kommission für Qualifikationsverfahren der beruflichen Grundbildung.
@@ -1547,6 +1909,8 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 - e. Sie kann Fortbildungsprogramme für Lehrerinnen und Lehrer aller Schularten obligatorisch erklären.
 - f. Sie ist zuständig für alle gesetzlich nicht zugeordneten Aufgaben im kantonalen Bildungswesen.
 
+<sup>2</sup> Das Nähere regelt die Verordnung.
+
 #### § 88
 
 **Regierungsrat**
@@ -1559,6 +1923,10 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 - d. Er schliesst Verwaltungsvereinbarungen ab.
 - e. Er kann Ausbildungsverhältnisse, die nicht dem Bundesgesetz über die Berufsbildung unterstellt sind, ganz oder teilweise den Bestimmungen dieses Gesetzes unterstellen.
 - f. Er erlässt die Verordnungen über die einzelnen Schularten und über die Beurteilung, die Beförderung und die Übertritte der Schülerinnen und Schüler.
+- g. Er ist Beschwerdeinstanz bei Entscheiden:
+  - 1\. der Schulräte der kommunalen Schulen bzw. der Gemeinderäte, sofern die Einwohnergemeinde die Aufgaben des Schulrats an den Gemeinderat delegiert hat;
+  - 2\. der Schulräte der kantonalen Schulen für schülerinnen- und schülerbezogene Entscheide ausser Schulausschlüssen;
+  - 3\. der Schulleitungen der kantonalen Schulen für personalrechtliche Entscheide und Schulausschlüsse.
 
 #### § 89
 
@@ -1568,25 +1936,17 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 - a. Er genehmigt die Zielsetzungen von Bildungskonzepten, welche Inhalt und Gliederung des kantonalen Bildungssystems oder den bisherigen Bildungsauftrag einzelner Schularten grundlegend verändern.
 - b. Er beschliesst, ob vom Regierungsrat veranlasste Schulversuche in eine definitive Regelung überführt werden.
-- c. Er nimmt aufgrund eines diesbezüglichen Berichts des Regierungsrats alle 4 Jahre zur Qualität der öffentlichen Schulen im Kanton Stellung.
+- c. Er nimmt zum ihm gemäss § 62a<sup>bis</sup> Abs. 2 alle 4 Jahre vom Regierungsrat unterbreiteten Bildungsbericht über die Qualität des Bildungswesens im Kanton Stellung.
 - d. Er legt die Schulkreise und die Schulstandorte der Sekundarschule fest.[^89-1]
 - e. Er legt die Schulorte der vom Kanton geführten Schulen der Sekundarstufe II fest.
 
 [^89-1]: [SGS 642.1](https://bl.clex.ch/data/642.1/de)
 
-## 5 Disziplinar- und Beschwerdewesen
+## 5 Beschwerdewesen
 
 #### § 90
 
-**Ordnungswidriges Verhalten von Schülerinnen und Schülern**
-
-<sup>1</sup> Versäumen Schülerinnen und Schüler unentschuldigt den Unterricht oder verstossen sie vorsätzlich oder fahrlässig gegen Ordnung und Disziplin, ergreifen die Lehrerinnen und Lehrer, bei schweren Verstössen die Schulleitung, Massnahmen.
-
-<sup>2</sup> Der Schulrat kann auf Antrag der Schulleitung Schülerinnen und Schüler, die in schwerer Weise gegen Ordnung und Disziplin verstossen haben, aus der Schule ausschliessen.
-
-<sup>3</sup> Der Schulrat hört die Erziehungsberechtigten und die Kindes- und Erwachsenenschutzbehörde an, wenn er den Ausschluss von Schülerinnen und Schülern erwägt. Der Ausschluss hebt die Schulpflicht nicht auf.
-
-<sup>4</sup> Das Nähere regelt die Verordnung.
+**…**
 
 #### § 91
 
@@ -1594,11 +1954,27 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 <sup>1</sup> Gegen Verfügungen von Lehrerinnen und Lehrern sowie Klassenkonventen kann innert 10 Tagen seit ihrer Eröffnung bei der Schulleitung Beschwerde erhoben werden.
 
-<sup>2</sup> Gegen Verfügungen der Schulleitung kann innert 10 Tagen seit ihrer Eröffnung beim Schulrat Beschwerde erhoben werden.
+<sup>2</sup> Gegen Verfügungen der Schulleitungen der kommunalen Schulen kann innert 10 Tagen seit ihrer Eröffnung beim Schulrat oder dem Gemeinderat, sofern die Einwohnergemeinde die Aufgaben des Schulrats an diesen delegiert hat, Beschwerde erhoben werden.
 
-<sup>3</sup> Gegen Verfügungen und Entscheide der Bildungs-, Kultur- und Sportdirektion und des Schulrats kann innert 10 Tagen seit ihrer Eröffnung beim Regierungsrat Beschwerde erhoben werden.
+<sup>3</sup> Gegen Verfügungen und Entscheide folgender Behörden kann innert 10 Tagen seit ihrer Eröffnung beim Regierungsrat Beschwerde erhoben werden:
+
+- a. der Bildungs-, Kultur- und Sportdirektion;
+- b. bei den kommunalen Schulen der Schulräte bzw. der Gemeinderäte, sofern die Einwohnergemeinde die Aufgaben des Schulrats an den Gemeinderat delegiert hat;
+- c. bei den kantonalen Schulen der Schulräte für schülerinnen- und schülerbezogene Entscheide ausser Schulausschlüssen;
+- d. bei den kantonalen Schulen der Schulleitungen für personalrechtliche Entscheide und Schulausschlüsse.
 
 <sup>4</sup> Wird eine Disziplinarmassnahme gegen eine Schülerin oder einen Schüler verfügt, so haben weder der Lauf der Beschwerdefrist noch die Einreichung einer Beschwerde aufschiebende Wirkung, es sei denn, die Beschwerdeinstanz ordne diese Wirkung aus wichtigen Gründen ausdrücklich an.
+
+#### § 91a
+
+**Entscheide ohne Beschwerdemöglichkeit**
+
+<sup>1</sup> Gegen Entscheide von Lehrerinnen und Lehrern, Klassenkonventen, der Schulleitungen und bei den kommunalen Schulen der Schulräte bzw. der Gemeinderäte, sofern die Einwohnergemeinde die Aufgaben des Schulrats an den Gemeinderat delegiert hat, ist keine Beschwerdemöglichkeit gegeben, sofern sie folgende Sachverhalte betreffen:
+
+- a. Zuweisung in eine Klasse oder Wechsel einer Klasse innerhalb des Schulstandorts;
+- b. Disziplinarmassnahmen im Zuständigkeitsbereich der Lehrerinnen und Lehrer;
+- c. Ergebnis einer Beurteilung, darunter auch die Benotung mit der tiefsten Note, und Absenzeinträge, sofern diese keinen Einfluss auf das weitere schulische oder berufliche Fortkommen haben;
+- d. Ermahnungen gegenüber Erziehungsberechtigten.
 
 ## 6 Schullasten
 
@@ -1898,21 +2274,39 @@ Der Landrat des Kantons Basel-Landschaft beschliesst:[^ingress-1]
 
 **Schulräte**
 
-<sup>1</sup> Die bisherigen Schulpflegen und Aufsichtskommissionen werden mit Inkrafttreten des Bildungsgesetzes zu Schulräten.
+<sup>1</sup> Die bisherigen Schulräte der kantonalen Schulen sind mit Inkrafttreten der Änderung des Bildungsgesetzes vom 15. September 2022 zuständig für die Erfüllung der Aufgaben gemäss § 82i.
+
+<sup>1<sup>bis</sup></sup> Bei zum Zeitpunkt des Inkrafttretens der Änderungen des Bildungsgesetzes gemäss Abs. 1 hängigen Beschwerdeverfahren bei den Schulräten der kantonalen Schulen oder gegen deren Entscheide bleiben diese in Abweichung zu Abs. 1 bis zu deren rechtskräftigem Abschluss zuständig.
 
 <sup>2</sup> Die nächste 4-jährige Amtsperiode der Schulräte der kantonalen Schulen und der kommunalen Schulen beginnt am 1. August 2024. Sofern sich die Einwohnergemeinde für ein Führungsmodell ohne Schulrat entscheidet, endet die Amtsperiode der Schulräte mit Inkrafttreten des neuen Führungsmodells.
 
-<sup>3</sup> Die bisherigen Sekundarschulpflegen sind nach Inkrafttreten des Bildungsgesetzes als Schulräte für die aus den bisherigen Real- und Sekundarschulen neu gebildeten Sekundarschulen zuständig.
+<sup>3</sup> …
 
-<sup>4</sup> Die gemäss Schulgesetz vom 26. April 1979[^111-1] ausschliesslich für Realschulen zuständigen Schulpflegen werden mit Inkrafttreten des Bildungsgesetzes aufgelöst.
+<sup>4</sup> …
 
-[^111-1]: GS 27.169
+#### § 111a
+
+**Umsetzung der Führungsstrukturen gemäss Änderung des Bildungsgesetzes vom 15. September 2022 für die kantonalen Schulen**
+
+<sup>1</sup> Die Arbeitsverhältnisse mit vom Schulrat angestellten Mitarbeitenden werden mit Inkrafttreten der neuen Führungsstrukturen grundsätzlich von der neuen Anstellungsbehörde weitergeführt. Vorbehalten bleiben reguläre Austritte.
+
+<sup>2</sup> Die Schulleitungsmitglieder der Sekundarstufe I werden mit Inkrafttreten der neuen Führungsstrukturen von der Bildungs-, Kultur- und Sportdirektion angestellt. Dies beinhaltet auch den Entscheid über den Zeitpunkt der Hierarchisierung.
 
 #### § 111b
 
 **Schulführung der kommunalen Schulen gemäss Änderung des Bildungsgesetzes vom 15. September 2022 [LRV 2021/568]**
 
 <sup>1</sup> Die Einwohnergemeinden müssen den Entscheid der Gemeindeversammlung über das künftige Führungsmodell der Primarstufe gemäss § 185b Gemeindegesetz bis spätestens am 31. Juli 2025 mit den gegebenenfalls notwendigen Erlassanpassungen umsetzen.
+
+<sup>2</sup> Bis zum Inkrafttreten des neuen Führungsmodells gelten die Bestimmungen des Bildungsgesetzes in der Fassung vom 15. September 2022 (GS 2023.016 [LRV 2021/567]).
+
+<sup>3</sup> Für Einwohnergemeinden mit einem bestehenden Kreisschulvertrag sowie für die Musikschulen gelten die Bestimmungen des neuen Führungsmodells ab Inkrafttreten dieser Änderung des Bildungsgesetzes.
+
+<sup>4</sup> Entscheidet sich die Gemeindeversammlung gemäss § 185b Gemeindegesetz für ihre Primarstufe für das Führungsmodell Gemeinderat oder das Führungsmodell mit beratender Kommission, verlängert sich die Amtsdauer der Schulräte bis zum Inkrafttreten des neuen Führungsmodells, längstens bis zum 31. Juli 2025.
+
+<sup>5</sup> Entscheidet sich die Einwohnergemeinde für ein Führungsmodell ohne Schulrat, tritt der Gemeinderat bei hängigen Beschwerden an oder gegen den Schulrat ab dem Zeitpunkt des Inkrafttretens des neuen Führungsmodells an dessen Stelle.
+
+<sup>6</sup> Die Arbeitsverhältnisse mit vom Schulrat angestellten Mitarbeitenden werden mit Inkrafttreten des neuen Führungsmodells grundsätzlich von der neuen Anstellungsbehörde weitergeführt. Vorbehalten bleiben reguläre Austritte.
 
 #### § 112
 
