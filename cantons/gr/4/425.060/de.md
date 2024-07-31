@@ -4,13 +4,13 @@ number: "425.060"
 title: Verordnung über das Aufnahmeverfahren an den Mittelschulen
 short: AufnahmeV
 language: de
-version: 2018-08-01
-corrected: 2019-05-22
-version_adopted: 2018-06-19
+version: 2024-08-01
+valid_until: 2024-12-31
+version_adopted: 2024-04-29
 adopted: 2008-09-02
 in_force: 2008-09-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/425.060"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2904/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3428/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/2904/pdf_file"
 
 (AufnahmeV)
 
-Vom 02.09.2008 (Stand 01.08.2018)
+Vom 02.09.2008 (Stand 01.08.2024)
 
 Gestützt auf Art. 45 der Kantonsverfassung[^ingress-1] sowie Art. 19 des Mittelschulgesetzes[^ingress-2]
 
@@ -34,11 +34,13 @@ von der Regierung erlassen am 2. September 2008
 
 **Grundsatz**
 
-<sup>1</sup> Für den Eintritt in die Abteilung Gymnasium, Handels- oder Fachmittelschule einer Mittelschule ist sowohl für Bündner als auch für ausserkantonale Schülerinnen und Schüler ein Aufnahmeverfahren nach den Bestimmungen dieser Verordnung zu durchlaufen.
+<sup>1</sup> Für den Eintritt in die Abteilung Gymnasium, Handels-, Informatik- oder Fachmittelschule einer Mittelschule ist sowohl für Bündner als auch für ausserkantonale Schülerinnen und Schüler ein Aufnahmeverfahren nach den Bestimmungen dieser Verordnung zu durchlaufen.
 
-<sup>1<sup>bis</sup></sup> Als ausserkantonal gelten Schülerinnen und Schüler, welche die Voraussetzungen gemäss Artikel 16 Absatz 1 des Mittelschulgesetzes nicht erfüllen.
+<sup>1<sup>bis</sup></sup> Als ausserkantonal gelten Schülerinnen und Schüler, welche die Voraussetzungen gemäss Artikel 2 Absatz 3 des Gesetzes über die Mittelschulen im Kanton Graubünden[^1-1] nicht erfüllen.
 
 <sup>2</sup> Die privaten Mittelschulen können weitere Aufnahmevoraussetzungen festlegen, welche über jene dieser Verordnung hinausreichen.
+
+[^1-1]: BR [425.000](https://www.gr-lex.gr.ch/data/425.000/de)
 
 #### Art. 2
 
@@ -52,7 +54,7 @@ von der Regierung erlassen am 2. September 2008
 
 **Aufnahmeverfahren mit kantonaler Aufnahmeprüfung**
 
-<sup>1</sup> Für den Eintritt in die erste, dritte oder vierte Gymnasialklasse sowie in die erste Klasse der Handels- oder Fachmittelschule haben Bündner Schülerinnen und Schüler eine kantonale Aufnahmeprüfung zu bestehen.
+<sup>1</sup> Für den Eintritt in die erste oder dritte Gymnasialklasse sowie in die erste Klasse der Handels-, Informatik- oder Fachmittelschule haben Bündner Schülerinnen und Schüler eine kantonale Aufnahmeprüfung zu bestehen.
 
 #### Art. 4
 
@@ -60,10 +62,10 @@ von der Regierung erlassen am 2. September 2008
 
 <sup>1</sup> Mittelschulen können Schülerinnen und Schüler auf Schuljahresbeginn in eine Mittelschulabteilung ohne Ablegung einer kantonalen Aufnahmeprüfung aufnehmen:
 
-- 1\. beim Übertritt von einer Abteilung einer anderen Mittelschule im Kanton Graubünden oder ausserhalb des Kantons in dieselbe Abteilung, sofern die Voraussetzungen für die Fortsetzung der Ausbildung in dieser Abteilung an der abgebenden Schule gemäss den dort geltenden staatlichen Bestimmungen erfüllt sind und ausreichende Kenntnisse in mindestens einer Kantonssprache vorhanden sind;
+- 1\. beim Übertritt von einer Abteilung einer anderen Mittelschule im Kanton Graubünden oder ausserhalb des Kantons in dieselbe Abteilung, sofern die Voraussetzungen für die Fortsetzung der Ausbildung in dieser Abteilung an der abgebenden Schule gemäss den dort geltenden staatlichen Bestimmungen erfüllt sind und ausreichende Kenntnisse in derjenigen Kantonssprache vorhanden sind, welche in der Abteilung mehrheitlich als Unterrichtssprache verwendet wird, wobei der Promotionsstand an der abgebenden Schule bei der Einstufung zu berücksichtigen ist;
 - 2\. …
-- 3\. beim in der Regel unmittelbaren Eintritt gestützt auf ein ausserhalb des Kantons abschliessend bestandenes kantonal beziehungsweise staatlich anerkanntes gleichwertiges Aufnahmeverfahren in die Abteilung, sofern ausreichende Kenntnisse in mindestens einer Kantonssprache vorhanden sind;
-- 4\. beim Eintritt in die fünfte Gymnasialklasse unmittelbar nach Erlangen des Abschlusses an einer Handelsmittelschule mit Berufsmaturität, eines Abschlusses an einer Fachmittelschule oder einer Fachmaturität, wobei das Schwerpunktfach gemäss dem entsprechenden Abschluss zu wählen ist.
+- 3\. beim in der Regel unmittelbaren Eintritt gestützt auf ein ausserhalb des Kantons abschliessend bestandenes kantonal beziehungsweise staatlich anerkanntes gleichwertiges Aufnahmeverfahren in die Abteilung, sofern ausreichende Kenntnisse in derjenigen Kantonssprache vorhanden sind, welche in der Abteilung mehrheitlich als Unterrichtssprache verwendet wird;
+- 4\. beim Eintritt in die fünfte Gymnasialklasse unmittelbar nach Erlangen des Abschlusses an einer Handels- oder Informatikmittelschule mit Berufsmaturität, eines Abschlusses an einer Fachmittelschule oder einer Fachmaturität, wobei das Schwerpunktfach gemäss dem entsprechenden Abschluss zu wählen ist.
 
 <sup>2</sup> Eine Aufnahme nach Artikel 4 Absatz 1 ist ausgeschlossen für Schülerinnen und Schüler, welche im vorangehenden Schuljahr die kantonale Aufnahmeprüfung in die Abteilung nicht bestanden haben.
 
@@ -75,24 +77,52 @@ von der Regierung erlassen am 2. September 2008
 
 <sup>1</sup> Private Mittelschulen können ausserkantonale Schülerinnen und Schüler, bei denen die Voraussetzungen von Artikel 4 nicht erfüllt sind, nach schuleigenen Bestimmungen in eine Mittelschulabteilung aufnehmen, sofern:
 
-- 1\. die Erstsprache dieser Schülerinnen und Schüler eine Kantonssprache ist oder sie in einer Kantonssprache mindestens über Kenntnisse auf dem Niveau B1 gemäss gemeinsamem europäischem Referenzrahmen verfügen; und
+- 1\. die Erstsprache dieser Schülerinnen und Schüler eine Kantonssprache ist, die an der aufnehmenden Schule mehrheitlich als Unterrichtssprache verwendet wird, oder sie in dieser Kantonssprache mindestens über Kenntnisse auf dem Niveau B1 gemäss gemeinsamem europäischem Referenzrahmen verfügen; und
 - 2\. die Schülerinnen und Schüler zum Zeitpunkt der Aufnahme nicht mehr als zwei Jahre jünger oder älter sind als der Referenzjahrgang der Klassenstufe nach Bündner Schulsystem.
 
-<sup>2</sup> Mit dem Aufnahmeverfahren nach schuleigenen Bestimmungen wird insbesondere in den Fächern der kantonalen Aufnahmeprüfung schriftlich geprüft, ob die aufzunehmenden Schülerinnen und Schüler dem Unterricht in einer Mittelschulabteilung folgen können.
+<sup>2</sup> Mit dem Aufnahmeverfahren nach schuleigenen Bestimmungen wird insbesondere in den Fächern der kantonalen Aufnahmeprüfung nach den Vorgaben des Amts schriftlich geprüft, ob die aufzunehmenden Schülerinnen und Schüler dem Unterricht in einer Mittelschulabteilung folgen können.
 
 <sup>3</sup> Die schuleigenen Bestimmungen sind dem Amt zur Kenntnis zu bringen. Diesem ist auf Anfrage Einsicht in die Akten zu gewähren, die im Zusammenhang mit dem Aufnahmeverfahren stehen.
 
 <sup>4</sup> …
 
+<sup>5</sup> Private Mittelschulen melden dem Amt nach dessen Vorgaben Schülerinnen und Schüler, welche ein Aufnahmeverfahren nach schuleigenen Bestimmungen absolvieren.
+
+<sup>6</sup> Das Aufnahmeverfahren nach schuleigenen Bestimmungen in eine Abteilung einer Bündner Mittelschule kann ein Mal absolviert werden und muss spätestens vor Eintritt in das zweitletzte Ausbildungsjahr abgeschlossen sein.
+
 #### Art. 4b
 
-**2. Abschluss**
+**2. Aufnahmeverfahren vor dem Eintritt**
 
-<sup>1</sup> Das Aufnahmeverfahren muss spätestens im zweiten dem Eintritt folgenden Semester und spätestens vor Eintritt in das zweitletzte Ausbildungsjahr abgeschlossen sein.
+<sup>1</sup> Das Aufnahmeverfahren nach schuleigenen Bestimmungen kann frühestens zu Beginn des dritten dem Eintritt vorangehenden Semesters durchgeführt werden.
 
-<sup>2</sup> Die Schülerinnen und Schüler, welche nach schuleigenen Bestimmungen in eine Bündner Mittelschulabteilung aufgenommen wurden, unterliegen nach Abschluss des Aufnahmeverfahrens den geltenden kantonalen Promotionsbestimmungen.
+<sup>2</sup> Die Schülerinnen und Schüler, welche dieses Aufnahmeverfahren bestanden haben, können auf Beginn des Schuljahres in die private Mittelschule eintreten und unterliegen ab Eintritt den geltenden kantonalen Promotionsbestimmungen.
 
-<sup>3</sup> Schülerinnen und Schüler, welche das Aufnahmeverfahren nicht bestehen, haben die Mittelschule innert zehn Tagen zu verlassen. Das Aufnahmeverfahren kann im Kanton Graubünden einmal wiederholt werden.
+<sup>3</sup> …
+
+<sup>4</sup> Der Nachweis der Sprachkenntnisse gemäss Artikel 4a Absatz 1 Ziffer 1 muss vor dem Eintritt in die Bündner Mittelschule erbracht werden.
+
+#### Art. 4c
+
+**3. Aufnahmeverfahren nach dem Eintritt**
+
+<sup>1</sup> Das Aufnahmeverfahren nach schuleigenen Bestimmungen muss spätestens im zweiten nach dem Eintritt folgenden Semester abgeschlossen und der Nachweis der Sprachkenntnisse gemäss Artikel 4a Absatz 1 Ziffer 1 erbracht sein.
+
+<sup>2</sup> Die nach erfolgreichem Abschluss des Aufnahmeverfahrens aufgenommenen Schülerinnen und Schüler unterliegen den geltenden kantonalen Promotionsbestimmungen.
+
+<sup>3</sup> Schülerinnen und Schüler, welche das Aufnahmeverfahren nicht bestehen, haben die Mittelschule innert zehn Tagen zu verlassen.
+
+#### Art. 4d
+
+**4. Wiederholung der schriftlichen Prüfungen**
+
+<sup>1</sup> Schülerinnen und Schüler, welche die schriftlichen Prüfungen nicht bestehen, können diese innerhalb von zwei Monaten an derselben Mittelschule ein Mal wiederholen. Eine weitere Prüfungswiederholung ist nicht möglich.
+
+#### Art. 4e
+
+**5. Rechtsweg**
+
+<sup>1</sup> Nach Ausschöpfung des schulinternen Rechtsmittelverfahrens können Entscheide über nicht bestandene schriftliche Prüfungen und das nicht bestandene Aufnahmeverfahren innert zehn Tagen beim Verwaltungsgericht angefochten werden.
 
 ## 2. Organisation der kantonalen Aufnahmeprüfung
 
@@ -112,6 +142,8 @@ von der Regierung erlassen am 2. September 2008
 
 <sup>3</sup> Die Verantwortung zur fristgerechten Anmeldung liegt bei den Personen, welche die elterliche Sorge innehaben. Bei verspäteter Anmeldung ist eine Teilnahme an der kantonalen Aufnahmeprüfung ausgeschlossen.
 
+<sup>4</sup> Das Amt entscheidet auf Gesuch hin über die Gewährung des Nachteilsausgleichs bei der kantonalen Aufnahmeprüfung. Das Gesuch ist nach Vorgaben des Amts vor Ablauf der Anmeldefrist einzureichen.
+
 #### Art. 7
 
 **…**
@@ -123,8 +155,8 @@ von der Regierung erlassen am 2. September 2008
 <sup>1</sup> Zur kantonalen Aufnahmeprüfung zugelassen werden Bündner Schülerinnen und Schüler, welche fristgerecht angemeldet sind und nachweisen:
 
 - 1\. den unmittelbaren Besuch der Primarschule, in der Regel der sechsten Klasse, bei einer Prüfung in die erste Klasse des sechsjährigen Gymnasiums;
-- 2\. den Besuch der Sekundarschule, in der Regel der zweiten oder dritten Klasse, bei Prüfungen in die dritte Klasse des Gymnasiums sowie in die erste Klasse der Handels- oder Fachmittelschule;
-- 3\. den unmittelbaren Besuch der Handels- oder Fachmittelschule, in der Regel der ersten Klasse, bei einer Prüfung in die vierte Gymnasialklasse.
+- 2\. den Besuch der Sekundarstufe I, in der Regel der zweiten oder dritten Klasse, bei Prüfungen in die dritte Klasse des Gymnasiums sowie in die erste Klasse der Handels-, Informatik- oder Fachmittelschule.
+- 3\. …
 
 <sup>2</sup> Das Amt kann in Ausnahmefällen die Prüfungszulassung bei Abweichungen vom Regelfall bewilligen und legt das Anmeldeverfahren fest.
 
@@ -138,27 +170,27 @@ von der Regierung erlassen am 2. September 2008
 
 **Steuerungs- und Prüfungsgruppen**
 
-<sup>1</sup> Das Amt bestimmt eine Steuerungsgruppe, eine Prüfungsgruppe pro geprüftes Fach für die erste Gymnasialklasse und eine weitere Prüfungsgruppe pro geprüftes Fach für die dritte Gymnasialklasse sowie für die erste Klasse der Handels- und Fachmittelschule. Es legt die Leitung der Steuerungsgruppe und der Prüfungsgruppen fest.
+<sup>1</sup> Das Amt bestimmt eine Steuerungsgruppe, eine Prüfungsgruppe pro geprüftes Fach für die erste Gymnasialklasse und eine weitere Prüfungsgruppe pro geprüftes Fach für die dritte Gymnasialklasse sowie für die erste Klasse der Handels-, Informatik- und Fachmittelschule. Es legt die Leitung der Steuerungsgruppe und der Prüfungsgruppen fest.
 
-<sup>2</sup> Mitglieder der Steuerungsgruppe und der Prüfungsgruppen, welche nicht dem Lehrkörper der Bündner Kantonsschule angehören, werden nach den für nebenamtliche Mitarbeitende des Kantons geltenden Bestimmungen entschädigt.
+<sup>2</sup> Mitglieder der Steuerungsgruppe und der Prüfungsgruppen, welche nicht dem Lehrkörper der kantonalen Mittelschule am Standort Chur angehören, werden nach den für nebenamtliche Mitarbeitende des Kantons geltenden Bestimmungen entschädigt.
 
 #### Art. 9
 
 **Steuerungsgruppe**
 
-<sup>1</sup> Der Steuerungsgruppe gehören eine Vertretung der Inspektorate und je zwei Vertretungen der privaten Mittelschulen und des Amtes an.
+<sup>1</sup> Der Steuerungsgruppe gehören in der Regel eine Vertretung der Inspektorate und je zwei Vertretungen der privaten Mittelschulen und des Amtes an.
 
 <sup>2</sup> Die Steuerungsgruppe ist für die Vorbereitung, Durchführung und Evaluation der kantonalen Aufnahmeprüfungen verantwortlich. Sie regelt den Einsatz der Prüfungsgruppen, stellt die Übersetzung und die Verteilung der Prüfungsaufgaben sicher, bestimmt die Noten- und Punkteskala, organisiert die Korrektur sowie die Nachkorrektur und erstellt die Liste aller Kandidatinnen und Kandidaten. Sie verfügt über die Weisungsbefugnis gegenüber den Prüfungsgruppen und ihr obliegt die Berichterstattung an das Amt.
 
-<sup>3</sup> Die Steuerungsgruppe regelt in Absprache mit der aufnehmenden Schule die kantonale Aufnahmeprüfung in die vierte Gymnasialklasse.
+<sup>3</sup> …
 
 #### Art. 10
 
 **Prüfungsgruppen**
 
-<sup>1</sup> Die Prüfungsgruppe für die erste Gymnasialklasse setzt sich pro geprüftes Fach in der Regel aus zwei Lehrpersonen der Bündner Kantonsschule, zwei Lehrpersonen der privaten Mittelschulen und zwei Primarlehrpersonen zusammen.
+<sup>1</sup> Die Prüfungsgruppe für die erste Gymnasialklasse setzt sich pro geprüftes Fach in der Regel aus zwei Lehrpersonen der kantonalen Mittelschule am Standort Chur, zwei Lehrpersonen der privaten Mittelschulen und zwei Primarlehrpersonen zusammen.
 
-<sup>2</sup> Die Prüfungsgruppe für die dritte Gymnasialklasse sowie die erste Klasse der Handels- und Fachmittelschule setzt sich pro geprüftes Fach in der Regel aus zwei Lehrpersonen der Bündner Kantonsschule, zwei Lehrpersonen der privaten Mittelschulen und zwei Sekundarlehrpersonen zusammen.
+<sup>2</sup> Die Prüfungsgruppe für die dritte Gymnasialklasse sowie die erste Klasse der Handels-, Informatik- und Fachmittelschule setzt sich pro geprüftes Fach in der Regel aus zwei Lehrpersonen der kantonalen Mittelschule am Standort Chur, zwei Lehrpersonen der privaten Mittelschulen und zwei Sekundarlehrpersonen zusammen.
 
 <sup>3</sup> Die Prüfungsgruppen erarbeiten die Aufgabenstellungen mit verbindlichen Lösungen und Korrekturanweisungen und erstatten Bericht zuhanden der Steuerungsgruppe.
 
@@ -178,7 +210,7 @@ von der Regierung erlassen am 2. September 2008
 
 **Korrektur**
 
-<sup>1</sup> Die Korrektur der Prüfungen erfolgt für jedes Prüfungsfach gemeinsam an einem durch die Steuerungsgruppe bezeichneten Ort nach den Vorgaben der Prüfungsgruppen. Die Leitenden der Prüfungsgruppen übermitteln der Steuerungsgruppe die Prüfungsergebnisse als Grundlage für den Prüfungsentscheid.
+<sup>1</sup> Die Korrektur der Prüfungen erfolgt durch Fachlehrpersonen der Prüfungsstandorte für jedes Prüfungsfach gemeinsam an einem durch die Steuerungsgruppe bezeichneten Ort nach den Vorgaben der Prüfungsgruppen. Die Leitenden der Prüfungsgruppen übermitteln der Steuerungsgruppe die Prüfungsergebnisse als Grundlage für den Prüfungsentscheid.
 
 <sup>2</sup> An den Prüfungsstandorten nimmt die Prüfungsleitung die Prüfungsergebnisse zur Kenntnis und beantragt der Steuerungsgruppe allfällige Änderungen.
 
@@ -199,19 +231,40 @@ von der Regierung erlassen am 2. September 2008
 <sup>1</sup> Die Steuerungsgruppe berechnet die Übertrittsnote für die zur Aufnahmeprüfung Angemeldeten:
 
 - 1\. bei einer Teilnahme an der kantonalen Aufnahmeprüfung in die erste Gymnasialklasse unmittelbar aus der sechsten Primarklasse einer Schule im Geltungsbereich des Gesetzes für die Volksschulen des Kantons Graubünden;
-- 2\. bei einer Teilnahme an der kantonalen Aufnahmeprüfung in die dritte Gymnasialklasse beziehungsweise in die erste Klasse der Handels- oder Fachmittelschule unmittelbar aus der zweiten Sekundarklasse einer Schule im Geltungsbereich des Gesetzes für die Volksschulen des Kantons Graubünden.
+- 2\. bei einer Teilnahme an der kantonalen Aufnahmeprüfung in die dritte Gymnasialklasse beziehungsweise in die erste Klasse der Handels-, Informatik- oder Fachmittelschule unmittelbar aus der zweiten Sekundarklasse einer Schule im Geltungsbereich des Gesetzes für die Volksschulen des Kantons Graubünden.
+
+<sup>2</sup> Die Steuerungsgruppe entscheidet über Ausnahmen.
 
 #### Art. 16
 
 **2. aus der sechsten Primarklasse**
 
-<sup>1</sup> Die Übertrittsnote in die erste Gymnasialklasse berechnet sich anhand des ersten Semesterzeugnisses der sechsten Primarklasse als auf zwei Dezimalstellen gerundeter Durchschnitt der Noten im Fach Mathematik sowie des nicht gerundeten Durchschnitts der Noten in der Erstsprache und in der Zweitsprache.
+<sup>1</sup> Die Übertrittsnote in die erste Gymnasialklasse berechnet sich anhand des ersten Semesterzeugnisses der sechsten Primarklasse als auf zwei Dezimalstellen gerundeter Durchschnitt der Noten in:
+
+- 1\. Erstsprache;
+- 2\. Zweitsprache;
+- 3\. Englisch;
+- 4\. Arithmetik und Geometrie;
+- 5\. Natur, Mensch, Gesellschaft;
+- 6\. Bildnerisches Gestalten;
+- 7\. Musik;
+- 8\. Bewegung und Sport;
+- 9\. Medien und Informatik.
+
+<sup>2</sup> Als Zweitsprache gilt für Schülerinnen und Schüler zweisprachig geführter Schulen oder Klassen eine der beiden als Unterrichtssprache verwendeten Kantonssprachen.
 
 #### Art. 17
 
 **3. aus der zweiten Sekundarklasse**
 
-<sup>1</sup> Die Übertrittsnote in die dritte Gymnasialklasse beziehungsweise in die erste Klasse der Handels- oder Fachmittelschule berechnet sich anhand des ersten Semesterzeugnisses der zweiten Sekundarklasse als auf zwei Dezimalstellen gerundeter Durchschnitt der Noten in den Fächern Geografie, Geschichte, Natur und Technik sowie Bildnerisches Gestalten und in den Fachbereichen Musik sowie Bewegung und Sport.
+<sup>1</sup> Die Übertrittsnote in die dritte Gymnasialklasse beziehungsweise in die erste Klasse der Handels-, Informatik- oder Fachmittelschule berechnet sich anhand des ersten Semesterzeugnisses der zweiten Sekundarklasse als auf zwei Dezimalstellen gerundeter Durchschnitt der Noten in:
+
+- 1\. Geografie;
+- 2\. Geschichte;
+- 3\. Natur und Technik;
+- 4\. Bildnerisches Gestalten;
+- 5\. Musik;
+- 6\. Bewegung und Sport.
 
 ## 4. Gegenstand der kantonalen Aufnahmeprüfungen und Bewertung
 
@@ -222,11 +275,11 @@ von der Regierung erlassen am 2. September 2008
 <sup>1</sup> Es wird ausschliesslich schriftlich geprüft für die Zulassung in die:
 
 - 1\. erste Gymnasialklasse in der bei der Prüfungsanmeldung bezeichneten Erstsprache und in Mathematik;
-- 2\. dritte Gymnasialklasse, die erste Klasse der Handels- oder Fachmittelschule in der bei der Prüfungsanmeldung bezeichneten Erstsprache, in Englisch, in Arithmetik und Algebra sowie in Geometrie.
+- 2\. dritte Gymnasialklasse, die erste Klasse der Handels-, Informatik- oder Fachmittelschule in der bei der Prüfungsanmeldung bezeichneten Erstsprache, in Englisch, in Arithmetik und Algebra sowie in Geometrie.
 
 <sup>2</sup> …
 
-<sup>3</sup> Für die Zulassung in die vierte Gymnasialklasse wird in der bei der Prüfungsanmeldung bezeichneten Erstsprache, in Englisch, in Mathematik und in zwei weiteren durch das Amt auf Antrag der Schule zu bestimmenden Fächern geprüft.
+<sup>3</sup> …
 
 #### Art. 19
 
@@ -254,9 +307,9 @@ von der Regierung erlassen am 2. September 2008
 
 <sup>1</sup> Bestanden ist die kantonale Aufnahmeprüfung:
 
-- 1\. in die erste Gymnasialklasse, wenn der Prüfungsdurchschnitt den Wert von 4.5 erreicht und die Abweichungen der Prüfungsfachnoten von der Note 4 nach unten nicht mehr als 0.75 Notenpunkte betragen;
-- 2\. in die dritte Gymnasialklasse, wenn der Prüfungsdurchschnitt den Wert von 4.5 erreicht und die Abweichungen der Prüfungsfachnoten von der Note 4 nach unten nicht mehr als 1.5 Notenpunkte betragen;
-- 3\. in die vierte Gymnasialklasse sowie in die erste Klasse der Handels- und Fachmittelschule, wenn der Prüfungsdurchschnitt den Wert von 4 erreicht und die Abweichungen der Prüfungsfachnoten von der Note 4 nach unten nicht mehr als 1.5 Notenpunkte betragen.
+- 1\. in die erste Gymnasialklasse, wenn der Prüfungsdurchschnitt den Wert von 4,5 erreicht und die Abweichungen der Prüfungsfachnoten von der Note 4 nach unten nicht mehr als 0,75 Notenpunkte betragen;
+- 2\. in die dritte Gymnasialklasse, wenn der Prüfungsdurchschnitt den Wert von 4,5 erreicht und die Abweichungen der Prüfungsfachnoten von der Note 4 nach unten nicht mehr als 1,5 Notenpunkte betragen;
+- 3\. in die erste Klasse der Handels-, Informatik- und Fachmittelschule, wenn der Prüfungsdurchschnitt den Wert von 4 erreicht und die Abweichungen der Prüfungsfachnoten von der Note 4 nach unten nicht mehr als 1,5 Notenpunkte betragen.
 
 <sup>2</sup> …
 
@@ -270,7 +323,7 @@ von der Regierung erlassen am 2. September 2008
 
 <sup>1</sup> Die bestandene kantonale Aufnahmeprüfung berechtigt Bündner Schülerinnen und Schüler zum Eintritt in die Mittelschule ihrer Wahl und verpflichtet die Mittelschulen zur Aufnahme.
 
-<sup>2</sup> In die Bündner Kantonsschule können nur Bündner Schülerinnen und Schüler eintreten.
+<sup>2</sup> In die kantonale Mittelschule am Standort Chur können nur Bündner Schülerinnen und Schüler eintreten.
 
 #### Art. 24
 
@@ -282,11 +335,7 @@ von der Regierung erlassen am 2. September 2008
 
 #### Art. 25
 
-**Meldeerfordernis**
-
-<sup>1</sup> Die Mittelschule meldet dem Amt innert zehn Tagen nach dessen Vorgaben Eintritte, Übertritte, Austritte und von der Schulleitung bewilligte Beurlaubungen ab fünf Unterrichtstagen von Schülerinnen und Schülern.
-
-<sup>2</sup> Das Ein- und Austrittsdatum sowie die Dauer der Beurlaubung sind massgebend für die Berechnung des Kantonsbeitrages pro rata temporis für Bündner Schülerinnen und Schüler. Erfolgt die Eintrittsmeldung verspätet, wird der Kantonsbeitrag für die Zeit nach Eingang der Mutationsmeldung berechnet und vergütet.
+**…**
 
 ## 6. Schlussbestimmungen
 
@@ -310,9 +359,7 @@ von der Regierung erlassen am 2. September 2008
 
 #### Art. 28a
 
-**Übergangsbestimmungen**
-
-<sup>1</sup> Schülerinnen und Schüler, welche in den Schuljahren 2015/16 und 2016/17 provisorisch in eine private Mittelschule aufgenommen wurden, müssen für eine definitive Aufnahme bis zum Ende des Schuljahres 2017/18 das Aufnahmeverfahren nach den schuleigenen Bestimmungen bestehen.
+**…**
 
 #### Art. 29
 
