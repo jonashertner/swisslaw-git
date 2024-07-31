@@ -4,11 +4,11 @@ title: "Ordonnance du 16 janvier 1991 sur le service de l'emploi et la location 
 short: OSE
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/408_408_408"
 language: fr
-version: 2023-09-01
+version: 2024-08-01
 adopted: 1991-01-16
 in_force: 1991-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/408_408_408/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1991-408_408_408-20230901-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/408_408_408/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/408_408_408/20240801/fr/xml/fedlex-data-admin-ch-eli-cc-1991-408_408_408-20240801-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/408_408_408/20240801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/408_408_408/20230901/fr"
 
 (Ordonnance sur le service de l’emploi, OSE)
 
-du 16 janvier 1991 (État le 1<sup>er</sup> septembre 2023)
+du 16 janvier 1991 (État le 1<sup>er</sup> août 2024)
 
 Le Conseil fédéral suisse,
 
@@ -1003,9 +1003,15 @@ Ils sont tenus de communiquer les indications suivantes:[^53b-1]
 
 <sup>3</sup> …[^53b-5]
 
-<sup>4</sup> Le service public de l’emploi confirme la réception de la communication des postes vacants.
+<sup>4</sup>
 
-<sup>5</sup> Les employeurs peuvent publier ailleurs les emplois qu’ils sont tenus d’annoncer en vertu de l’al. 1 au plus tôt cinq jours ouvrés après la publication sur la plateforme du service public de l’emploi.[^53b-6]
+Le service public de l’emploi confirme la réception de la communication des postes vacants au moyen d’une attestation qui contient:
+
+- a. le nom et l’adresse de l’employeur;
+- b. le numéro d’identification de l’annonce du poste vacant;
+- c. la date à partir de laquelle l’annonce du poste vacant peut être publiée librement.[^53b-6]
+
+<sup>5</sup> Les employeurs peuvent publier ailleurs les emplois qu’ils sont tenus d’annoncer en vertu de l’al. 1 au plus tôt cinq jours ouvrés après la publication sur la plateforme du service public de l’emploi.[^53b-7]
 
 <sup>6</sup> Les collaborateurs du service public de l’emploi et les personnes inscrites en tant que demandeurs d’emploi auprès de ce service bénéficient d’un accès exclusif aux informations relatives aux postes vacants annoncés durant cinq jours ouvrables.
 
@@ -1014,7 +1020,8 @@ Ils sont tenus de communiquer les indications suivantes:[^53b-1]
 [^53b-3]: Nouvelle teneur selon l’annexe de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 [^53b-4]: Introduite par l’annexe de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 [^53b-5]: Abrogé par l’annexe de l’O du 26 mai 2021, avec effet au 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
-[^53b-6]: Nouvelle teneur selon l’annexe de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^53b-6]: Nouvelle teneur selon le ch. I de l’O du 26 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 333](https://fedlex.data.admin.ch/eli/oc/2024/333)).
+[^53b-7]: Nouvelle teneur selon l’annexe de l’O du 26 mai 2021, en vigueur depuis le 1<sup>er</sup> juil. 2021 ([RO 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 53c
 
@@ -1072,6 +1079,16 @@ Le DEFR détermine chaque année au cours du quatrième trimestre pour l’anné
 - b. les genres de profession dont le taux de chômage cantonal atteint ou dépasse la valeur seuil, si le DEFR a accepté une demande correspondante conformément à l’art. 53*e*.
 
 [^53f-1]: Introduit par le ch. I de l’O du 18 juin 2021, en vigueur depuis le 1<sup>er</sup> oct. 2021 ([RO 2021 402](https://fedlex.data.admin.ch/eli/oc/2021/402)).
+
+#### Art. 53g
+
+**Respect de l’obligation de communiquer les postes vacants**[^53g-1]
+
+<sup>1</sup> Les mesures visant à garantir le respect de l’obligation de communiquer les postes vacants relèvent de la compétence des cantons.
+
+<sup>2</sup> Ces mesures peuvent inclure la vérification du respect de l’obligation de communiquer les postes vacants au moyen de la confirmation de réception mentionnée à l’art. 53*b*, al. 4. Cette vérification peut s’effectuer, sur demande des cantons, par voie électronique via le système d’information servant au placement public (art. 35, al. 1, LSE).
+
+[^53g-1]: Introduit par le ch. I de l’O du 26 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 333](https://fedlex.data.admin.ch/eli/oc/2024/333)).
 
 ### Section 4 Formation et collaboration
 
@@ -1132,7 +1149,7 @@ Les autorités dont relève le marché du travail peuvent communiquer aux demand
 
 ### (art. 34*a* LSE)
 
-1 Un émolument est perçu dans les cas visés à l’art. 34a, al. 4, LSE, lorsque la communication de données nécessite de nombreuses copies ou autres reproductions ou des recherches particulières. L’ordonnance générale du 8 septembre 2004 sur les émoluments[^57a-2] est applicable.[^57a-3]
+<sup>1</sup> Un émolument est perçu dans les cas visés à l’art. 34a, al. 4, LSE, lorsque la communication de données nécessite de nombreuses copies ou autres reproductions ou des recherches particulières. L’ordonnance générale du 8 septembre 2004 sur les émoluments[^57a-2] est applicable.[^57a-3]
 
 <sup>2</sup> Un émolument couvrant les frais est perçu pour les publications au sens de l’art. 34*a*, al. 3, LSE.
 

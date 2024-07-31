@@ -4,20 +4,20 @@ title: "Ordinanza del 16 gennaio 1991 sul collocamento e il personale a prestito
 short: OC
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/408_408_408"
 language: it
-version: 2023-09-01
+version: 2024-08-01
 adopted: 1991-01-16
 in_force: 1991-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/408_408_408/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1991-408_408_408-20230901-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/408_408_408/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/408_408_408/20240801/it/xml/fedlex-data-admin-ch-eli-cc-1991-408_408_408-20240801-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/408_408_408/20240801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sul collocamento e il personale a prestito
 
-(Ordinanza sul collocamento; OC)
+(Ordinanza sul collocamento, OC)
 
-del 16 gennaio 1991 (Stato 1° settembre 2023)
+del 16 gennaio 1991 (Stato 1° agosto 2024)
 
 Il Consiglio federale svizzero,
 
@@ -800,7 +800,6 @@ Le disposizioni concernenti la durata del lavoro disciplinano:
 - c. le ore straordinarie, il lavoro a turni, il lavoro notturno e domenicale;
 - d. le vacanze, i giorni di congedo e festivi;
 - e. le assenze;
-
 - f. i periodi di riposo e le pause;
 - g. i tempi di spostamento e di attesa.
 
@@ -985,37 +984,39 @@ Il datore di lavoro sottoposto a tale obbligo deve comunicare al servizio pubbli
 
 <sup>1</sup> I datori di lavoro devono annunciare all’ufficio del servizio pubblico di collocamento competente per il loro territorio i posti vacanti nei generi di professioni di cui all’articolo 53*a* capoverso1.
 
-<sup>2</sup> Devono fornire i seguenti dati:
+<sup>2</sup>
 
-a. professione richiesta;
+Devono fornire i seguenti dati:
 
-b. attività, inclusi i requisiti specifici;
-
-c. luogo di lavoro;
-
-d. grado di occupazione;
-
-e. data di assunzione;
-
-f. tipo di rapporto di lavoro: a tempo determinato o indeterminato;
-
-g. indirizzo di contatto;
-
+- a. professione richiesta;
+- b. attività, inclusi i requisiti specifici;
+- c. luogo di lavoro;
+- d. grado di occupazione;
+- e. data di assunzione;
+- f. tipo di rapporto di lavoro: a tempo determinato o indeterminato;
+- g. indirizzo di contatto;
 - h.[^53b-1] nome del datore di lavoro;
 - i.[^53b-2] per i prestatori, nome dell’impresa acquisitrice.
 
 <sup>3</sup> ...[^53b-3]
 
-<sup>4</sup> Il servizio pubblico di collocamento conferma la ricezione degli annunci.
+<sup>4</sup>
 
-<sup>5</sup> I datori di lavoro possono pubblicare in altro modo i posti vacanti che sono tenuti ad annunciare secondo il capoverso 1 solo dopo cinque giorni lavorativi dalla pubblicazione sulla piattaforma del servizio pubblico di collocamento.[^53b-4]
+Il servizio pubblico di collocamento conferma la ricezione degli annunci dei posti vacanti mediante un attestato contenente:
+
+- a. nome e indirizzo del datore di lavoro;
+- b. numero di identificazione dell’annuncio;
+- c. data a partire dalla quale l’annuncio può essere pubblicato liberamente.[^53b-4]
+
+<sup>5</sup> I datori di lavoro possono pubblicare in altro modo i posti vacanti che sono tenuti ad annunciare secondo il capoverso 1 solo dopo cinque giorni lavorativi dalla pubblicazione sulla piattaforma del servizio pubblico di collocamento.[^53b-5]
 
 <sup>6</sup> Durante questi cinque giorni lavorativi hanno accesso alle informazioni sui posti vacanti annunciati soltanto i collaboratori del servizio pubblico di collocamento e le persone in cerca d’impiego ivi registrate.
 
 [^53b-1]: Nuovo testo giusta l’all. dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 [^53b-2]: Introdotta dall’all. dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 [^53b-3]: Abrogato dall’all. dell’O del 26 mag. 2021, con effetto dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
-[^53b-4]: Nuovo testo giusta l’all. dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^53b-4]: Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 333](https://fedlex.data.admin.ch/eli/oc/2024/333)).
+[^53b-5]: Nuovo testo giusta l’all. dell’O del 26 mag. 2021, in vigore dal 1° lug. 2021 ([RU 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 53c
 
@@ -1073,6 +1074,16 @@ Ogni anno, nel quarto trimestre, il DEFR fissa per l’anno successivo:
 - b. i generi di professioni nei quali il tasso di disoccupazione cantonale raggiunge o supera il valore soglia e per i quali il DEFR ha approvato la richiesta corrispondente secondo l’articolo 53*e*.
 
 [^53f-1]: Introdotto dal n. I dell’O del 18 giu. 2021, in vigore dal 1° ott. 2021 ([RU 2021 402](https://fedlex.data.admin.ch/eli/oc/2021/402)).
+
+#### Art. 53g
+
+**Adempimento dell’obbligo di annunciare i posti vacanti**[^53g-1]
+
+<sup>1</sup> Le misure volte a garantire l’adempimento dell’obbligo di annunciare i posti vacanti competono ai Cantoni.
+
+<sup>2</sup> Queste misure possono includere la verifica dell’adempimento dell’obbligo di annunciare i posti vacanti mediante la conferma di ricezione di cui all’articolo 53*b* capoverso 4. La verifica può essere effettuata, su richiesta dei Cantoni, per via elettronica tramite il sistema d’informazione per il collocamento pubblico (art. 35 cpv. 1 LC).
+
+[^53g-1]: Introdotto dal n. I dell’O del 26 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 333](https://fedlex.data.admin.ch/eli/oc/2024/333)).
 
 ### Sezione 4: Formazione e collaborazione
 

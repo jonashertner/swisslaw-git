@@ -4,11 +4,11 @@ title: "Verordnung vom 16. Januar 1991 über die Arbeitsvermittlung und den Pers
 short: AVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1991/408_408_408"
 language: de
-version: 2023-09-01
+version: 2024-08-01
 adopted: 1991-01-16
 in_force: 1991-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/408_408_408/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1991-408_408_408-20230901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1991/408_408_408/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1991/408_408_408/20240801/de/xml/fedlex-data-admin-ch-eli-cc-1991-408_408_408-20240801-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1991/408_408_408/20240801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1991/408_408_408/20230901/de"
 
 (Arbeitsvermittlungsverordnung, AVV)
 
-vom 16. Januar 1991 (Stand am 1. September 2023)
+vom 16. Januar 1991 (Stand am 1. August 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -1000,16 +1000,23 @@ Sie müssen die folgenden Angaben übermitteln:
 
 <sup>3</sup> …[^53b-3]
 
-<sup>4</sup> Die öffentliche Arbeitsvermittlung bestätigt den Eingang der Meldungen.
+<sup>4</sup>
 
-<sup>5</sup> Die Arbeitgeber dürfen die Stellen, die sie nach Absatz 1 melden müssen, frühestens nach Ablauf von fünf Arbeitstagen nach der Publikation auf der Plattform der öffentlichen Arbeitsvermittlung anderweitig ausschreiben.[^53b-4]
+Die öffentliche Arbeitsvermittlung bestätigt den Eingang der Meldungen über offene Stellen mit einer Bescheinigung; diese enthält:
+
+- a. den Namen und die Adresse des Arbeitgebers;
+- b. die Identifikationsnummer der Anzeige;
+- c. das Datum, ab welchem die Anzeige frei veröffentlicht werden kann.[^53b-4]
+
+<sup>5</sup> Die Arbeitgeber dürfen die Stellen, die sie nach Absatz 1 melden müssen, frühestens nach Ablauf von fünf Arbeitstagen nach der Publikation auf der Plattform der öffentlichen Arbeitsvermittlung anderweitig ausschreiben.[^53b-5]
 
 <sup>6</sup> Zugriff auf die gemeldeten Stelleninformationen haben während fünf Arbeitstagen einzig die Mitarbeitenden der öffentlichen Arbeitsvermittlung sowie Personen, die bei der öffentlichen Arbeitsvermittlung als Stellensuchende angemeldet sind.
 
 [^53b-1]: Fassung gemäss Anhang der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 [^53b-2]: Eingefügt durch Anhang der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 [^53b-3]: Aufgehoben durch Anhang der V vom 26. Mai 2021, mit Wirkung seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
-[^53b-4]: Fassung gemäss Anhang der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
+[^53b-4]: Fassung gemäss Ziff. I der V vom 26. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 333](https://fedlex.data.admin.ch/eli/oc/2024/333)).
+[^53b-5]: Fassung gemäss Anhang der V vom 26. Mai 2021, in Kraft seit 1. Juli 2021 ([AS 2021 339](https://fedlex.data.admin.ch/eli/oc/2021/339)).
 
 #### Art. 53c
 
@@ -1067,6 +1074,16 @@ Das WBF legt jährlich im vierten Quartal für das Folgejahr fest:
 - b. die Berufsarten, in denen die kantonale Arbeitslosenquote den Schwellenwert erreicht oder überschreitet und für die das WBF den entsprechenden Antrag nach Artikel 53*e* gutgeheissen hat.
 
 [^53f-1]: Eingefügt durch Ziff. I der V vom 18. Juni 2021, in Kraft seit 1. Okt. 2021 ([AS 2021 402](https://fedlex.data.admin.ch/eli/oc/2021/402)).
+
+#### Art. 53g
+
+**Einhaltung der Stellenmeldepflicht**[^53g-1]
+
+<sup>1</sup> Die Massnahmen zur Einhaltung der Stellenmeldepflicht fallen in die Zuständigkeit der Kantone.
+
+<sup>2</sup> Sie können die Überprüfung der Einhaltung der Stellenmeldepflicht mittels der Bescheinigung nach Artikel 53*b* Absatz 4 beinhalten. Die Überprüfung kann auf Verlangen der Kantone elektronisch über das Informationssystem der öffentlichen Arbeitsvermittlung (Art. 35 Abs. 1 AVG) erfolgen.
+
+[^53g-1]: Eingefügt durch Ziff. I der V vom 26. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 333](https://fedlex.data.admin.ch/eli/oc/2024/333)).
 
 ### 4. Abschnitt: Ausbildung und Zusammenarbeit
 
