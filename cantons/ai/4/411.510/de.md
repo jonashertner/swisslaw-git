@@ -4,163 +4,257 @@ number: "411.510"
 title: Verordnung über die gesundheitlichen Dienste in den Schulen
 short: VGD
 language: de
-version: 2016-12-05
-corrected: 2018-09-04
-version_adopted: 2016-12-05
+version: 2024-08-01
+version_adopted: 2024-06-24
 adopted: 2024-06-24
 in_force: 2024-08-01
 url: "https://ai.clex.ch/app/de/texts_of_law/411.510"
-pdf: "https://ai.clex.ch/api/de/versions/392/pdf_file"
-text: pdf
+pdf: "https://ai.clex.ch/api/de/versions/2290/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die gesundheitlichen Dienste in den Schulen
 
-vom 27. März 20001
+(VGD)
+
+vom 24.06.2024 (Stand 01.08.2024)
 
 Der Grosse Rat des Kantons Appenzell I.Rh.,
 
-gestützt auf Art. 27 Abs. 1 der Kantonsverfassung vom 24. Wintermonat 1872, Art. 73 des Schulgesetzes vom 25. April 2004, Art. 43 des Gesundheitsgesetzes vom 26. April 1998 sowie Art. 31 der Gymnasialverordnung vom 30. November 1998,2
+gestützt auf Art. 43 des Gesundheitsgesetzes vom 26. April 1998 (GesG),
 
 beschliesst:
 
-### I. Schulärztlicher Dienst
+## A. Allgemeine Bestimmungen
 
-#### Art. 13
+#### Art. 1
 
 **Geltungsbereich**
 
-<sup>1</sup> Dem schulärztlichen Dienst unterstehen die Schüler der öffentlichen Schulen, einschliesslich des Gymnasiums St.Antonius Appenzell.
+<sup>1</sup> Diese Verordnung regelt die Organisation, die Aufgaben und die Finanzierung der schulärztlichen und schulzahnärztlichen Dienste.
 
-<sup>2</sup> In den Privatschulen übernimmt der Träger der Schule die in dieser Verordnung auferlegten Pflichten und Rechte.
+<sup>2</sup> Behandlungen oder therapeutische Massnahmen sind nicht Bestandteil der schulärztlichen und schulzahnärztlichen Dienste. Dafür sind die Eltern verantwortlich.
+
+<sup>3</sup> Sie gilt für Schulen im Kanton, an denen die obligatorische Schulpflicht erfüllt werden kann, sowie für alle Schülerinnen und Schüler, welche hier die ordentliche Schulpflicht erfüllen.
+
+<sup>4</sup> Auch Schülerinnen und Schüler, welche die obligatorische Schulpflicht durch privaten Unterricht erfüllen, unterstehen dieser Verordnung. Das Erziehungsdepartement sorgt in diesen Fällen für die sinngemässe Anwendung und Einhaltung der nachfolgenden Bestimmungen dieser Verordnung.
 
 #### Art. 2
 
-**Wahl der Schulärzte und Aufsicht**
+**Schulbehörde**
 
-<sup>1</sup> Die Wahl der Schulärzte obliegt nach Rücksprache mit den Schulräten dem Gesundheits- und Sozialdepartement (nachfolgend Departement genannt). Wahlfähig sind Ärzte, die über eine Praxisbewilligung im Kanton Appenzell I.Rh. verfügen. Über Ausnahmen entscheidet das Departement.
+<sup>1</sup> Die in dieser Verordnung festgelegten Rechte und Pflichten der Schulbehörden werden bei Schulangeboten, die nicht von einer Schulgemeinde angeboten werden, durch folgende Organe wahrgenommen:
 
-<sup>2</sup> Die Schulärzte unterstehen der Aufsicht des Departements. Schulärzte, die ihren Amtspflichten nicht nachkommen, können nach vorheriger Verwarnung durch das Departement ihres Amtes enthoben werden.
+- a) beim Gymnasium St. Antonius durch das Erziehungsdepartement;
+- b) bei Privatschulen durch den Träger;
+- c) bei privater Beschulung durch das Erziehungsdepartement.
 
-#### Art. 34
+#### Art. 3
 
-**Beratung**
+**Zuständigkeit Schulbehörde**
 
-Der Schularzt ist der Berater von Schulrat, Lehrerschaft, Eltern bzw. Inhaber der elterlichen Sorge und Schülern in schulärztlichen Fragen.
+<sup>1</sup> Die Schulbehörde sorgt für schulärztliche und schulzahnärztliche Dienste für ihre Schule oder ihr schulisches Angebot. Sie kann Vollzugsaufgaben delegieren.
 
-#### Art. 41
+<sup>2</sup> Sie stellt sicher, dass alle Kinder gemäss den Vorgaben dieser Verordnung untersucht werden.
 
-Untersuchung <sup>1</sup>Der Schularzt hat jedes Jahr die neu eintretenden Schüler der ersten Primarklasse der Schüler innert den ersten drei Monaten des Schuljahres sowie alle Schüler der sechsten und achten Klasse im Laufe des Schuljahres zu untersuchen. Schüler, die aus einer anderen Schule übertreten und Zuzüger aus dem Ausland sind zu einer schulärztlichen Untersuchung aufzubieten, sofern sie nicht eine in diesem Artikel beschriebene Untersuchung nachweisen können.
+<sup>3</sup> Sie schlägt dem Gesundheits- und Sozialdepartement (nachfolgend Departement genannt) mindestens eine Person zur Wahl als Schulärztin oder Schularzt vor. Wahlfähig sind Haus- oder Kinderärztinnen und -ärzte mit einer Berufsausübungsbewilligung des Kantons.
 
-<sup>2</sup> Die schulärztlichen Massnahmen werden in Zusammenarbeit mit den Gesundheitsfachpersonen und in Absprache mit den Schulräten durch das Departement festgelegt.
+<sup>4</sup> Sie schlägt dem Departement mindestens eine Person zur Wahl als Schulzahnärztin oder Schulzahnarzt vor. Wahlfähig sind Zahnärztinnen und Zahnärzte mit einer Berufsausübungsbewilligung des Kantons.
 
-<sup>3</sup> Das Departement erlässt über Ziel und Zweck der Untersuchungen in den einzelnen Stufen Richtlinien.
+#### Art. 4
 
-<sup>4</sup> Eltern bzw. Inhaber der elterlichen Sorge von Schülern der sechsten und achten Klasse können ihre Kinder vom schulärztlichen Untersuch dispensieren lassen, wenn sie eine schriftliche Bestätigung des behandelnden Arztes bezüglich eines aktuellen ärztlichen Untersuchs vorlegen können.
+**Zuständigkeit Departement**
 
-<sup>5</sup> Eine spezialärztliche Augenuntersuchung im Kindergarten wird den Schulgemeinden empfohlen.
+<sup>1</sup> Das Departement legt Inhalt und Umfang der schulärztlichen und schulzahnärztlichen Untersuchungen fest.
+
+<sup>2</sup> Es kann den Schulbehörden nach Rücksprache mit dem Volksschulamt Weisungen zur Gesundheitsförderung und Prävention erteilen.
+
+<sup>3</sup> Es wählt auf Vorschlag der Schulbehörden die Schulärztinnen und Schulärzte sowie Schulzahnärztinnen und Schulzahnärzte.
+
+<sup>4</sup> Es übt die Aufsicht über die schulärztlichen und schulzahnärztlichen Dienste aus.
 
 #### Art. 5
 
-Untersuchungs- <sup>1</sup>Die schulärztlichen Befunde werden durch den Schularzt aufbewahrt.
+**Schweigepflicht**
 
-akten <sup>2</sup>Die schulärztliche Tätigkeit fällt unter die ärztliche Schweigepflicht. Das Hilfspersonal und die Lehrkräfte sind durch den Schularzt über die einschlägigen Bestimmungen zu orientieren.
+<sup>1</sup> Die Schulbehörden, die Lehrpersonen sowie Hilfspersonen des schulärztlichen sowie des schulzahnärztlichen Dienstes unterstehen für schützenswerte Daten, die ihnen im Zusammenhang mit dem schulärztlichen und schulzahnärztlichen Dienst zur Kenntnis gelangen, der Schweigepflicht.
 
 #### Art. 6
 
-Durchführung Die schulärztlichen Untersuchungen werden während oder ausserhalb der Unterder Untersu- richtszeit in den privaten Praxisräumen des Schularztes durchgeführt, mit oder ohne chungen Hilfe der Lehrkräfte.
+**Berichterstattung**
 
-#### Art. 72
+<sup>1</sup> Die Schulbehörde orientiert das Departement jährlich summarisch über die Durchführung der Vorsorgeuntersuchungen in den Schulen.
 
-Meldung der <sup>1</sup>Der Schularzt meldet festgestellte Krankheiten den Eltern bzw. dem Inhaber der Ergebnisse elterlichen Sorge oder in besonderen Fällen der Kindes- und Erwachsenenschutzbehörde. Er kann den Eltern bzw. dem Inhaber der elterlichen Sorge die Überweisung an den Schulpsychologischen Dienst beantragen. Ebenso ist er befugt, kranke Kinder vom Schulbesuch oder von einzelnen Fächern zu dispensieren.
+#### Art. 7
 
-<sup>2</sup> Der Schularzt meldet dem Departement jährlich summarisch die Ergebnisse der Untersuchungen.
+**Kosten**
 
-<sup>3</sup> Es ist Sache der Eltern bzw. des Inhabers der elterlichen Sorge, für die ärztliche Behandlung allenfalls festgestellter Krankheiten besorgt zu sein. Bei ansteckenden Krankheiten bleiben die eidgenössischen und kantonalen Vorschriften vorbehalten.
+<sup>1</sup> Allgemeinmedizinische Vorsorgeuntersuchungen werden von den Schulgemeinden oder von den übrigen Schulträgern nach einem vom Departement erlassenen Tarif entschädigt.
+
+<sup>2</sup> Die Kosten der spezialisierten Augenuntersuchung werden von den Schulgemeinden oder von den übrigen Schulträgern übernommen.
+
+<sup>3</sup> Schulzahnärztliche Vorsorgeuntersuchungen und prophylaktische Schulzahnpflegemassnahmen werden von den Schulgemeinden oder von den übrigen Schulträgern gemäss dem Schulzahnpflegetarif der Schweizerischen Zahnärztegesellschaft (SSO) oder dem Tarif gemäss Bundesgesetz über die Unfallversicherung vom 20. März 1981 (UVG) übernommen.
+
+## B. Schulärztlicher Dienst
+
+### I. Allgemeines
 
 #### Art. 8
 
-**Tarif**
+**Schulbehörden**
 
-Die Schulärzte werden von den Schulgemeinden bzw. den Schulträgern nach einem vom Departement erlassenen Tarif entschädigt.
-
-### II. Schulzahnärztlicher Dienst
+<sup>1</sup> Die Schulbehörde sorgt für die schulärztlichen Vorsorgeuntersuchungen und kann weitere gesundheitsfördernde oder präventive Massnahmen für die Schülerinnen und Schüler durchführen.
 
 #### Art. 9
 
-**Geltungsbereich**
+**Schulärztin oder Schularzt**
 
-<sup>1</sup> Der Schulzahnpflege unterstehen die Schüler der öffentlichen Schulen.
+<sup>1</sup> Die Schulärztin oder der Schularzt
 
-<sup>2</sup> In den Privatschulen übernimmt der Träger der Schule die in dieser Verordnung auferlegten Pflichten und Rechte.
+- a) berät auf Anfrage die Schulen zu schulrelevanten Gesundheitsthemen;
+- b) steht den Schulen bei Bedarf als Vertrauensärztin oder Vertrauensarzt zur Verfügung;
+- c) kann die Schulen bei Massnahmen der Gesundheitsförderung und Prävention unterstützen;
+- d) führt schulärztliche Untersuchungen durch;
+- e) untersucht auf Anordnung der Schulleitung bei konkretem Verdacht auf Kindesmisshandlung Schülerinnen und Schüler; die Zustimmung der Eltern hierfür ist nicht nötig.
 
 #### Art. 10
 
-**Aufgabe der Schulzahnpflege**
+**Lehrpersonen**
 
-Die Schulzahnpflege umfasst die Anleitung zur richtigen Ernährung und zweckmässigen Zahnpflege und die Untersuchung des Gebisses der Schüler.
+<sup>1</sup> Die Lehrpersonen wirken bei der Organisation und Durchführung von schulärztlichen Massnahmen mit.
+
+<sup>2</sup> Sie haben:
+
+- 1\. Beobachtungen an Schülerinnen und Schülern, die auf eine Krankheit oder ein körperliche Anomalie schliessen lassen, den Eltern und soweit nötig, der Schulleitung zu melden;
+- 2\. Wahrnehmungen über mögliche Kindswohlgefährdungen, wie abnormes psychisches Verhalten, schädigende Einflüsse aus dem sozialen Umfeld, Anzeichen auf Misshandlung oder Vernachlässigung der Schulleitung zu melden.
 
 #### Art. 11
 
-**Wahl des Schulzahnarztes und Aufsicht**
+**Kantonsärztin oder Kantonsarzt**
 
-Der schulzahnärztliche Dienst steht unter der Aufsicht des Departements. Dieses hat auch die Wahl des oder der Schulzahnärzte nach Rücksprache mit den Schulräten vorzunehmen. Wahlfähig sind Zahnärzte, die über eine Praxisbewilligung im Kanton Appenzell I.Rh. verfügen. Über Ausnahmen entscheidet das Departement.
+<sup>1</sup> Die Kantonsärztin oder der Kantonsarzt kann bei Bedarf die Schulärztinnen und Schulärzte beraten und die Schulen in Fragen der Schulgesundheit unterstützen.
+
+### II. Allgemeinmedizinische Vorsorgeuntersuchungen
 
 #### Art. 12
 
-**Schulzahnpflege**
+**Obligatorische Untersuchungen**
 
-<sup>1</sup> Der Klassenlehrer hat die Schüler nach Weisungen des Departementes über richtige Gebisshygiene aufzuklären sowie zur zweckmässigen und intensiven Zahnpflege anzuhalten und anzulernen.
+<sup>1</sup> Die Schülerinnen und Schüler werden im ersten Primarschuljahr sowie der zweiten Klasse der Oberstufe bis jeweils zum 31. Januar schulärztlich untersucht.
 
-<sup>2</sup> Das Departement kann zum Zweck der prophylaktischen Schulzahnpflege nach Rücksprache mit den Schulräten einen Dentalhygieniker oder einen anderen hierfür fachlich geeigneten Prophylaxeassistenten anstellen.
+<sup>2</sup> Für Schülerinnen und Schüler, die neu in den Kanton zuziehen und keine Vorsorgeuntersuchung gemäss Absatz 1 nachweisen können, kann die Schule eine entsprechende schulärztliche Untersuchung anordnen.
 
 #### Art. 13
 
-**Schulzahnpflegeheft**
+**Umfang**
 
-Beim Schuleintritt wird jedem Schüler durch die Schulgemeinde gratis ein Schulzahnpflegeheft abgegeben, in welches Untersuchungsergebnisse sowie Bemerkungen bezüglich der Mund- und Zahnpflege eingetragen werden. Das Schulzahnpflegeheft wird durch den Klassenlehrer bis zur Schulentlassung aufbewahrt.
+<sup>1</sup> Der Umfang der schulärztlichen Untersuchungen wird durch das Departement mit verbindlich zu benutzenden Untersuchungsformularen festgelegt.
 
-#### Art. 141
+<sup>2</sup> Das Departement stellt den Schulen die Untersuchungsformulare sowie weitere Informationsmaterialien zur Verfügung.
 
-Untersuchungen <sup>1</sup>Das Gebiss der Schüler wird in der ersten, dritten und sechsten Primarklasse un- und Behandlun- tersucht.
+#### Art. 14
 
-gen <sup>2</sup>Erweist sich eine Behandlung als notwendig, sind die Eltern bzw. der Inhaber der elterlichen Sorge mit einem Eintrag ins Zahnpflegeheft zu informieren.
+**Durchführung der Untersuchungen**
 
-<sup>3</sup> Die schulzahnärztlichen Untersuchungen werden während oder ausserhalb der Unterrichtszeit in den privaten Praxisräumen des Schulzahnarztes durchgeführt, mit Hilfe der Lehrkräfte.
+<sup>1</sup> Die Schulbehörden stellen die Durchführung der schulärztlichen Untersuchungen bei allen Schülerinnen und Schülern sicher. Sie können hierfür Reihenuntersuchungen durch die Schulärztin oder den Schularzt vorsehen oder sich mittels privatärztlicher Untersuchungen organisieren. Die Wahl der Organisationsform obliegt im Rahmen dieser Verordnung und in Absprache mit der Schulärztin oder dem Schularzt den Schulbehörden.
 
-<sup>4</sup> Die Schüler können vom schulzahnärztlichen Reihenuntersuch befreit werden, wenn sie eine schriftliche Bestätigung der Eltern bzw. des Inhabers der elterlichen Sorge oder einen Eintrag im Schulzahnpflegeheft durch den behandelnden Zahnarzt dem Klassenlehrer vorlegen.
+<sup>2</sup> Die Schulen informieren Schülerinnen und Schüler sowie die Eltern rechtzeitig über alle vorgesehenen Untersuchungen.
 
-#### Art. 152
+<sup>3</sup> Schulärztliche Untersuchungen können während oder ausserhalb der Unterrichtszeit durchgeführt werden.
 
-Kosten und Ent- <sup>1</sup>Der Schulzahnarzt wird nach dem Schulzahnpflegetarif der Schweizerischen schädigung Zahnärztegesellschaft (SSO) bzw. dem UVG-Tarif für seine Leistungen honoriert.
+#### Art. 15
 
-<sup>2</sup> Die Kosten des schulzahnärztlichen Dienstes übernehmen die Schulgemeinden.
+**Privatärztliche Untersuchungen**
 
-<sup>3</sup> Die Kosten der Zahnbehandlung gehen grundsätzlich zu Lasten der Eltern bzw. des Inhabers der elterlichen Sorge. Auf Antrag der Eltern können die Schulgemeinden an die Behandlungskosten einen Beitrag leisten, sofern die Voraussetzungen,
+<sup>1</sup> Eltern haben das Recht, die schulärztlichen Untersuche ihrer Kinder durch Privatärztinnen und -ärzte durchführen zu lassen. Die Schulen orientieren die Eltern frühzeitig über dieses Wahlrecht.
 
-welche von der Standeskommission erlassen werden, erfüllt sind.
+<sup>2</sup> Privatärztliche Untersuchungen sind innert der für den schulärztlichen Untersuch geltenden Fristen vorzunehmen. Wird die ärztliche Untersuchung nicht fristgerecht durchgeführt und ordentlich nachgewiesen, ordnet die Schulbehörde eine Untersuchung des Kindes durch die Schulärztin oder den Schularzt an.
 
-#### Art. 163
+<sup>3</sup> Privatärztliche Untersuchungen sind von Haus- und Kinderärztinnen und -ärzten mit einer schweizerischen Bewilligung zur Berufsausübung in eigener fachlicher Verantwortung durchzuführen.
 
-### III. Schlussbestimmung
+#### Art. 16
 
-#### Art. 174
+**Gutscheine**
+
+<sup>1</sup> Die Schulen sorgen dafür, dass Eltern, welche eine privatärztliche Untersuchung wünschen, frühzeitig einen Gutschein für eine kostenlose schulärztliche Untersuchung und das verbindlich zu verwendende Untersuchungsformular erhalten. Das Departement stellt den Schulen Muster-Gutscheine zur Verfügung.
+
+<sup>2</sup> Die Gutscheine für eine privatärztlich durchgeführte schulärztliche Vorsorgeuntersuchung der Kinder sind nur gültig innert der für den schulärztlichen Untersuch geltenden Fristen.
+
+<sup>3</sup> Die Privatärztin oder der Privatarzt rechnet den Gutschein bis spätestens Ende Februar zuhanden der zuständigen Schulbehörde ab.
+
+#### Art. 17
+
+**Untersuchungsergebnisse**
+
+<sup>1</sup> Die Schulärztinnen und Schulärzte sowie die Privatärztinnen und Privatärzte erfassen die Ergebnisse der obligatorischen Vorsorgeuntersuchungen gemäss Art. 12 im vorgegebenen Untersuchungsformular. Sie informieren die Eltern über den Umfang und die Ergebnisse der Untersuchungen. Sie können den Eltern die Überweisung an andere schulinterne Dienste vorschlagen und die Schule über Ergebnisse, die für die Schule und den Unterricht von Bedeutung sind, informieren.
+
+<sup>2</sup> Die Eltern informieren die Klassenlehrperson über Ergebnisse, die für die Schule und den Unterricht von Bedeutung sind.
+
+<sup>3</sup> Die Schulärztinnen und Schulärzte sowie Privatärztinnen und Privatärzte senden dem Departement Kopien der anonymisierten Untersuchungsformulare zu.
+
+<sup>4</sup> Die Schulärztinnen und Schulärzte sowie die Privatärztinnen und Privatärzte sind für die sichere Aufbewahrung der Untersuchungsformulare zuständig.
+
+### III. Spezialisierte Augenuntersuchung
 
 #### Art. 18
 
-Inkrafttreten Diese Verordnung tritt nach Annahme durch den Grossen Rat in Kraft.
+**Vorsorgeuntersuchung**
 
-## Weitere Fussnoten
+<sup>1</sup> Die Schulbehörden bieten im obligatorischen Kindergartenjahr den Schülerinnen und Schülern eine Reihenuntersuchung der Augen durch eine hierfür spezialisierte Fachperson an.
 
-- [1] Mit Revisionen vom 25. Oktober 2004, 20. November 2006, 1. Dezember 2014 und 5. Dezember 2016.
-- [2] Ingress abgeändert durch GrRB vom 25. Oktober 2004, 1. Dezember 2014 und 5. Dezember 2016.
-- [3] Abgeändert (Abs. 1) durch GrRB vom 5. Dezember 2016.
-- [4] Abgeändert durch GrRB vom 25. Oktober 2004.
-- [1] Abgeändert (Abs. 4) durch GrRB vom 20. November 2006 (Inkrafttreten: 1. Januar 2007). Abgeändert (Abs. 1 und 4) durch GrRB vom 5. Dezember 2016.
-- [2] Abgeändert (Abs. 1 und 3) durch GrRB vom 20. November 2006 (Inkrafttreten: 1. Januar 2007). Abgeändert (Abs. 1) durch GrRB vom 1. Dezember 2014.
-- [1] Abgeändert (Abs. 2 und 4) durch GrRB vom 20. November 2006 (Inkrafttreten: 1. Januar 2007).
-- [2] Abgeändert (Abs. 3) durch GrRB vom 20. November 2006 (Inkrafttreten: 1. Januar 2007).
-- [3] Aufgehoben durch GrRB vom 25. Oktober 2004.
-- [4] Aufgehoben durch GrRB vom 25. Oktober 2004.
+<sup>2</sup> Die Teilnahme für Schülerinnen und Schüler ist freiwillig, wird jedoch dringend empfohlen.
+
+#### Art. 19
+
+**Abwicklung**
+
+<sup>1</sup> Die Rahmenbedingungen der spezialisierten Augenuntersuchungen sind bezüglich Zuständigkeit für die Festlegung des Untersuchungsumfangs, die Verwendung des Untersuchungsformulars, die Pflichten zur Information sowie den Umgang mit den Untersuchungsergebnissen identisch wie bei den allgemeinmedizinischen Vorsorgeuntersuchungen.
+
+## C. Schulzahnärztlicher Dienst
+
+#### Art. 20
+
+**Schulzahnpflege**
+
+<sup>1</sup> Die Schulzahnpflege umfasst die Anleitung zur richtigen Ernährung und zweckmässigen Zahnpflege sowie die Untersuchung des Gebisses der Schülerinnen und Schüler.
+
+<sup>2</sup> Die Klassenlehrperson klärt die Schülerinnen und Schüler nach Weisungen des Departementes über Gebisshygiene auf, vermittelt ihnen die richtige Zahnpflege und hält sie zur steten Zahnpflege an.
+
+<sup>3</sup> Das Departement kann zum Zweck der prophylaktischen Schulzahnpflege nach Rücksprache mit den Schulbehörden eine Dentalhygienikerin oder einen Dentalhygieniker oder andere fachlich geeignete Phrophylaxefachleute anstellen.
+
+<sup>4</sup> Beim Schuleintritt wird allen Schülerinnen und Schülern gratis ein Schulzahnpflegeheft abgegeben, in welches Untersuchungsergebnisse sowie Bemerkungen bezüglich der Mund- und Zahnpflege eingetragen werden. Die Schule bewahrt das Schulzahnpflegeheft bis zur Schulentlassung auf.
+
+#### Art. 21
+
+**Untersuchungen und Behandlungen**
+
+<sup>1</sup> Das Gebiss der Schülerinnen und Schüler wird in der ersten, dritten und sechsten Primarschulklasse schulzahnärztlich untersucht.
+
+<sup>2</sup> Erweist sich eine Behandlung als notwendig, sind die Eltern darüber mit einem Eintrag ins Zahnpflegeheft zu informieren.
+
+<sup>3</sup> Die schulzahnärztlichen Untersuchungen werden während oder ausserhalb der Unterrichtszeit in den privaten Praxisräumen der Schulzahnärztin oder des Schulzahnarztes durchgeführt.
+
+<sup>4</sup> Die Schülerinnen und Schüler können vom schulzahnärztlichen Reihenuntersuch befreit werden, wenn sie eine schriftliche Bestätigung über den erfolgten Untersuch bei einem Zahnarzt oder einer Zahnärztin mit einer schweizerischen Bewilligung zur Berufsausübung in eigener fachlicher Verantwortung vorlegen.
+
+#### Art. 22
+
+**Kosten von Zahnbehandlungen**
+
+<sup>1</sup> Die Kosten von Zahnbehandlungen gehen zu Lasten der Eltern. Die Standeskommission kann Ausnahmen zu Lasten der Schulgemeinden regeln.
+
+## D. Schlussbestimmungen
+
+#### Art. 23
+
+**Ausführungsbestimmungen**
+
+<sup>1</sup> Die Standeskommission kann weitere Ausführungsbestimmungen erlassen.
+
+#### Art. 24
+
+**Inkrafttreten**
+
+<sup>1</sup> Diese Verordnung tritt auf den 1. August 2024 in Kraft.
+
+cGS 2024-17
