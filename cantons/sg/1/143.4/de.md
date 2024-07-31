@@ -4,13 +4,12 @@ number: "143.4"
 title: Ergänzende Verordnung über das Arbeitsverhältnis der Mittelschul-Lehrpersonen
 short: EVA-MS
 language: de
-version: 2024-01-01
-valid_until: 2024-07-31
-version_adopted: 2024-04-09
+version: 2024-08-01
+version_adopted: 2024-05-28
 adopted: 2004-06-15
 in_force: 2004-08-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/143.4"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3633/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3639/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3633/pdf_file"
 
 (EVA-MS)
 
-vom 15.06.2004 (Stand 01.01.2024)
+vom 15.06.2004 (Stand 01.08.2024)
 
 Die Regierung des Kantons St.Gallen
 
@@ -82,7 +81,7 @@ als Verordnung:[^ingress-2]
 
 **b) Zuständigkeit**
 
-<sup>1</sup> Das Amt für Mittelschulen reiht auf Antrag der Rektorin oder des Rektors die Lehrpersonen nach dem Anhang zu diesem Erlass ein.
+<sup>1</sup> Das Amt für Mittelschulen reiht auf Antrag der Rektorin oder des Rektors die Lehrpersonen nach dem Anhang zu diesem Erlass ein. Es kann Lehrpersonen mit langjähriger Berufserfahrung in eine andere Laufbahn einreihen.
 
 <sup>2</sup> Wer vor Abschluss der Ausbildung an einer nicht-st.gallischen staatlichen oder staatlich anerkannten Schule der Sekundarstufe II unterrichtet hat, wird eingereiht, wie wenn sie oder er vor abgeschlossener Ausbildung an einer staatlichen st.gallischen Mittelschule unterrichtet hätte.
 
@@ -90,15 +89,18 @@ als Verordnung:[^ingress-2]
 
 **c) Laufbahnjahre 1. Tätigkeiten**
 
-<sup>1</sup> Voll als Laufbahnjahr gemäss Anhang zu dieser Verordnung wird Unterricht an einer staatlichen oder staatlich anerkannten Schule der Sekundarstufe II nach abgeschlossener Ausbildung angerechnet.
+<sup>1</sup> Voll als Laufbahnjahr gemäss Anhang zu dieser Verordnung wird angerechnet:
+
+- a) Unterricht an einer staatlichen oder staatlich anerkannten Schule nach abgeschlossener Ausbildung;
+- b) andere Berufstätigkeit nach entsprechender abgeschlossener Ausbildung mit einem Beschäftigungsumfang von wenigstens 50 Prozent und mit Bezug zum Berufsauftrag.
 
 <sup>2</sup> Zur Hälfte als Laufbahnjahr wird angerechnet:
 
-- a) der übrige Unterricht auf einer anderen Schulstufe nach entsprechender abgeschlossener Ausbildung;
-- b) andere Berufstätigkeit nach entsprechender abgeschlossener Ausbildung mit einem Beschäftigungsumfang von wenigstens 50 Prozent und mit Bezug zum Berufsauftrag;
+- a) …
+- b) andere Berufstätigkeit nach entsprechender abgeschlossener Ausbildung mit einem Beschäftigungsumfang von wenigstens 50 Prozent ohne Bezug zum Berufsauftrag;
 - c) Erziehungsarbeit.
 
-<sup>3</sup> Zu einem Viertel als Laufbahnjahr wird eine andere Berufstätigkeit nach entsprechender abgeschlossener Ausbildung mit einem Beschäftigungsgrad von wenigstens 50 Prozent ohne Bezug zum Berufsauftrag angerechnet.
+<sup>3</sup> …
 
 #### Art. 8
 
@@ -140,11 +142,11 @@ als Verordnung:[^ingress-2]
 
 **b) fehlende Voraussetzungen**
 
-<sup>1</sup> Wer die Voraussetzungen von Art. 49 des Mittelschulgesetzes vom 12. Juni 1980[^12-1] nicht erfüllt, kann innerhalb einer Lohnklasse höchstens drei Mal befördert werden.
+<sup>1</sup> Wer die Voraussetzungen von Art. 49 des Mittelschulgesetzes vom 12. Juni 1980[^12-1] nicht erfüllt, kann innerhalb einer Laufbahn höchstens drei Mal befördert werden.
 
-<sup>2</sup> Der Wechsel der Lohnklasse ist ausgeschlossen.
+<sup>2</sup> …
 
-<sup>3</sup> Bei Erfüllung der Voraussetzungen erfolgt die Einreihung in den nächsthöheren Lohn der neuen Laufbahn.
+<sup>3</sup> Bei Erfüllung der Voraussetzungen erfolgt die Einreihung in den nächsthöheren Lohn der neuen Laufbahn. Ist die Lehrperson bereits in der Laufbahn 145 oder 143 gemäss Anhang zu diesem Erlass eingereiht, erfolgt keine Lohnerhöhung.
 
 [^12-1]: sGS [215.1](https://www.gesetzessammlung.sg.ch/data/215.1/de).
 
@@ -205,6 +207,10 @@ als Verordnung:[^ingress-2]
 
 <sup>1</sup> Bei einem Beschäftigungsgrad von 100 Prozent beträgt der erweiterte Auftrag 6 Stellenprozente. Bei einem geringeren Beschäftigungsgrad wird der Umfang des erweiterten Auftrags anteilmässig angepasst.
 
+<sup>2</sup> Bei neu angestellten Lehrpersonen ohne Berufserfahrung an einer Mittelschule wird der Umfang des erweiterten Auftrags in den ersten beiden Anstellungsjahren verdoppelt.
+
+<sup>3</sup> Das Amt für Mittelschulen kann in begründeten Fällen auf Antrag der Rektorin oder des Rektors den Umfang des erweiterten Auftrags anpassen.
+
 #### Art. 14d
 
 **d) besondere Aufträge**
@@ -214,6 +220,8 @@ als Verordnung:[^ingress-2]
 - a) je Schule: 80 Stellenprozente, der Kantonsschule am Burggraben St.Gallen 150 Stellenprozente;
 - a<sup>bis</sup>) je Klasse: 4 Stellenprozente;
 - b) je Schülerin und Schüler der obersten Klassen: 0,9 Stellenprozente;
+- c) je neu angestellte Lehrperson ohne Unterrichtserfahrung während des ersten Anstellungsjahres: 0,8 Stellenprozente;
+- d) je neu angestellte Lehrperson mit Unterrichtserfahrung während des ersten Anstellungsjahres: 0,4 Stellenprozente.
 
 <sup>2</sup> Der Rektorin oder dem Rektor stehen für die Ausübung von Leitungsfunktionen durch Lehrpersonen zudem zur Verfügung:
 
@@ -295,7 +303,7 @@ als Verordnung:[^ingress-2]
 
 **b) Amtspool**
 
-<sup>1</sup> Dem Amt für Mittelschulen steht für gesamtkantonale Aufträge oder besondere Fälle ein Amtspool im Umfang von 175 Stellenprozenten zur Verfügung.
+<sup>1</sup> Dem Amt für Mittelschulen steht für gesamtkantonale Aufträge oder besondere Fälle ein Amtspool zur Verfügung.
 
 ## III. Rektorin oder Rektor
 
@@ -328,6 +336,12 @@ als Verordnung:[^ingress-2]
 <sup>3</sup> Die Differenz zwischen dem Beschäftigungsgrad und den für die Unterrichtsverpflichtung eingesetzten Stellenprozenten wird auf die für die Ausübung von Schulleitungsfunktionen zur Verfügung stehende Summe der Stellenprozente nach Art. 14d Abs. 2 dieses Erlasses angerechnet.
 
 ## IV. Schlussbestimmungen
+
+#### Art. 21a
+
+**Übergangsbestimmung des VII. Nachtrags vom 28. Mai 2024**
+
+<sup>1</sup> Die Änderungen von Art. 7 nach dem VII. Nachtrag zu diesem Erlass werden angewendet auf Arbeitsverhältnisse, die ab 1. August 2024 oder später beginnen.
 
 #### Art. 22
 
