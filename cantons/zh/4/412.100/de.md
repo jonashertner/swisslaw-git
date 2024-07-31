@@ -4,11 +4,10 @@ number: "412.100"
 title: Volksschulgesetz (VSG)
 short: VSG
 language: de
-version: "2023-01-01"
-nachtrag: "119"
-valid_until: 2024-08-01
+version: "2024-08-01"
+nachtrag: "126"
 adopted: 2005-02-07
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-412_100-2005_02_07-2006_08_21-119.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-412_100-2005_02_07-2006_08_21-126.html"
 text: pdf
 ---
 
@@ -52,7 +51,7 @@ beschliesst:
 
 **1**
 
-- 1\. 1. 23 - 119
+1.10. 24 - 126
 
 <sup>2</sup> Kinder, die bis zum 31. Juli eines Jahres das vierte Altersjahr vollenden, werden auf Beginn des nächsten Schuljahres schulpflichtig. Die Schulpflicht dauert elf Jahre, längstens jedoch bis zum Abschluss der Volksschule.<sup>33</sup>
 
@@ -144,7 +143,7 @@ Der Anspruch auf den Schulbesuch gilt am Wohnort. Halten sich Schülerinnen und 
 
 **3**
 
-- 1\. 1. 23 - 119 § 11. <sup>1</sup> Der Unterricht ist am Schulort unentgeltlich. Wird der Unterricht ausserhalb des Schulortes besucht, kann von den Eltern oder der abgebenden Gemeinde ein Schulgeld erhoben werden.
+1.10. 24 - 126 § 11. <sup>1</sup> Der Unterricht ist am Schulort unentgeltlich. Wird der Unterricht ausserhalb des Schulortes besucht, kann von den Eltern oder der abgebenden Gemeinde ein Schulgeld erhoben werden.
 
 **Unentgeltlichkeit und Elternbeiträge**
 
@@ -240,7 +239,7 @@ Die Gemeinden bieten im Rahmen ihrer Möglichkeiten freiwilligen Schulsport an.
 
 **5**
 
-- 1\. 1. 23 - 119
+1.10. 24 - 126
 
 <sup>2</sup> Der Lehrplan umfasst die Lektionentafeln, welche die Unterrichtszeit und den Rahmen für deren Aufteilung auf die Fächer bestimmen.
 
@@ -328,7 +327,7 @@ Die Schulferien dauern für die Schülerinnen und Schüler höchstens 13 Wochen 
 
 **7**
 
-- 1\. 1. 23 - 119
+1.10. 24 - 126
 
 <sup>3</sup> Sie können Dritte mit dem Betrieb von Tagesstrukturen beauftragen.
 
@@ -362,9 +361,11 @@ Die Schulferien dauern für die Schülerinnen und Schüler höchstens 13 Wochen 
 
 <sup>6</sup> Von Gemeinden geführte Kinderhorte sind nicht bewilligungspflichtig.
 
-<sup>7</sup> Die Gemeinden melden der Direktion Name und Adresse der Kinderhorte auf ihrem Gebiet und deren Trägerschaft. § 30 d.<sup>55</sup> Die Verordnung regelt die Einzelheiten für die Erteilung der Bewilligung für den Betrieb eines Kinderhortes insbesondere mit Bezug auf a. Konzeption und Organisation des Kinderhortes,
+<sup>7</sup> Die Gemeinden melden der Direktion Name und Adresse der Kinderhorte auf ihrem Gebiet und deren Trägerschaft.
 
 **b. Bewilligungsvoraussetzungen**
+
+§ 30 d.<sup>55</sup> Die Verordnung regelt die Einzelheiten für die Erteilung der Bewilligung für den Betrieb eines Kinderhortes insbesondere mit Bezug auf a. Konzeption und Organisation des Kinderhortes,
 
 - b. Personalbestand,
 
@@ -386,7 +387,7 @@ Die Schulferien dauern für die Schülerinnen und Schüler höchstens 13 Wochen 
 
 **Beurteilung**
 
-<sup>1</sup> Die Schülerinnen und Schüler der Primar- und Sekundarstufe werden regelmässig beurteilt. Berücksichtigt werden insbesondere die Leistung, die Lernentwicklung und das Verhalten.
+<sup>1</sup> Die Schülerinnen und Schüler der Primar- und Sekundarstufe werden regelmässig beurteilt. Berücksichtigt werden insbesondere die Leistung, die Lernentwicklung und das Verhalten. Die Leistung wird im Semesterzeugnis durch Noten beurteilt. Bis und mit der ersten Klasse der Primarschule sowie bei sonderpädagogischen Massnahmen kann davon abgewichen werden.<sup>70</sup>
 
 <sup>2</sup> Die Schülerinnen und Schüler, die Integrative Förderung oder Therapien erhalten, werden auch durch die sonderpädagogischen Fachlehrpersonen beurteilt.
 
@@ -400,7 +401,7 @@ Die Schulferien dauern für die Schülerinnen und Schüler höchstens 13 Wochen 
 
 **9**
 
-- 1\. 1. 23 - 119
+1.10. 24 - 126
 
 <sup>3</sup> Schullaufbahnentscheide werden aufgrund einer Gesamtbeurteilung getroffen. Grundlage für die Gesamtbeurteilung bilden die Schulleistungen.
 
@@ -484,7 +485,7 @@ Die Schulferien dauern für die Schülerinnen und Schüler höchstens 13 Wochen 
 
 **11**
 
-- 1\. 1. 23 - 119 § 39.<sup>21</sup> Wird nach durchgeführter schulpsychologischer Abklärung unter den Beteiligten keine Einigung erzielt, entscheidet die Schulpflege. Sie berücksichtigt dabei das Kindeswohl und die Auswirkungen auf den Schulbetrieb.
+1.10. 24 - 126 § 39.<sup>21</sup> Wird nach durchgeführter schulpsychologischer Abklärung unter den Beteiligten keine Einigung erzielt, entscheidet die Schulpflege. Sie berücksichtigt dabei das Kindeswohl und die Auswirkungen auf den Schulbetrieb.
 
 **Beschluss**
 
@@ -576,9 +577,7 @@ Die Schulferien dauern für die Schülerinnen und Schüler höchstens 13 Wochen 
 
 **13**
 
-- 1\. 1. 23 - 119
-
-- 4\. Festlegen der Stundenpläne,
+1.10. 24 - 126 4. Festlegen der Stundenpläne,
 
 - 5\. Verwaltung der an die Schule zugeteilten Mittel,
 
@@ -670,9 +669,7 @@ Ist das Wohl einer Schülerin oder eines Schülers im Sinne von Art. 307 ZGB<sup
 
 **15**
 
-- 1\. 1. 23 - 119
-
-- 3\. Versetzung in eine andere Schule,
+1.10. 24 - 126 3. Versetzung in eine andere Schule,
 
 - 4\. Entlassung aus der Schulpflicht im letzten Schuljahr.
 
@@ -758,7 +755,7 @@ Die Eltern und Dritte, denen eine Schülerin oder ein Schüler anvertraut ist, s
 
 **17**
 
-- 1\. 1. 23 - 119 § 59.<sup>38</sup> <sup>1</sup> Die Delegiertenversammlung nimmt zu wichtigen schulischen Fragen Stellung, insbesondere:
+1.10. 24 - 126 § 59.<sup>38</sup> <sup>1</sup> Die Delegiertenversammlung nimmt zu wichtigen schulischen Fragen Stellung, insbesondere:
 
 **c. Aufgaben**
 
@@ -836,11 +833,9 @@ Für Fragen, die nur einen Teil der Lehrerschaft betreffen, kann die Direktion d
 
 **19**
 
-- 1\. 1. 23 - 119 § 64.<sup>64</sup> <sup>1</sup> Die Kosten der Sonderschulung umfassen die Kosten für
+1.10. 24 - 126 § 64.<sup>64</sup> <sup>1</sup> Die Kosten der Sonderschulung umfassen die Kosten für a. Unterricht,
 
 **Kosten der Sonderschulung a. Massgebende Kosten**
-
-- a. Unterricht,
 
 - b. Therapien,
 
@@ -928,7 +923,7 @@ Für Fragen, die nur einen Teil der Lehrerschaft betreffen, kann die Direktion d
 
 **21**
 
-- 1\. 1. 23 - 119 § 65 f.<sup>32,</sup> <sup>67</sup> Die Gemeinden tragen die Kosten.
+1.10. 24 - 126 § 65 f.<sup>32,</sup> <sup>67</sup> Die Gemeinden tragen die Kosten.
 
 **Kosten des Nachhilfeunterrichts**
 
@@ -1000,7 +995,7 @@ Für Fragen, die nur einen Teil der Lehrerschaft betreffen, kann die Direktion d
 
 **23**
 
-- 1\. 1. 23 - 119
+1.10. 24 - 126
 
 ### 4. Teil: Aufsicht, Rechtsschutz und Strafbestimmungen
 
@@ -1096,13 +1091,7 @@ Die nachfolgenden Gesetze werden wie folgt geändert: . . .<sup>17</sup> a. Das 
 
 **25**
 
-- 1\. 1. 23 - 119
-
-- d. Das Lehrerpersonalgesetz vom 10. Mai 1999<sup>8</sup>: . . .<sup>17</sup>
-
-- e. Das Mittelschulgesetz vom 13. Juni 1999<sup>12</sup>: . . .<sup>17</sup>
-
-- f. Das Gesetz über die Pädagogische Hochschule vom 25. Oktober 1999<sup>14</sup>: . . .<sup>17</sup>
+1.10. 24 - 126 d. Das Lehrerpersonalgesetz vom 10. Mai 1999<sup>8</sup>: . . .<sup>17</sup> e. Das Mittelschulgesetz vom 13. Juni 1999<sup>12</sup>: . . .<sup>17</sup> f. Das Gesetz über die Pädagogische Hochschule vom 25. Oktober 1999<sup>14</sup>: . . .<sup>17</sup>
 
 ### Übergangsbestimmungen zur Änderung vom 1. Oktober 2007
 
@@ -1184,7 +1173,7 @@ Als Stichtage für die Einschulung gemäss §§ 3 und 5 gelten:
 
 **27**
 
-- 1\. 1. 23 - 119
+1.10. 24 - 126
 
 <sup>25</sup> Eingefügt durch G vom 12. März 2007 (OS 63, 474; ABl 2006, 1). In Kraft seit 16. August 2008.
 
@@ -1270,7 +1259,7 @@ Als Stichtage für die Einschulung gemäss §§ 3 und 5 gelten:
 
 **29**
 
-- 1\. 1. 23 - 119
+1.10. 24 - 126
 
 <sup>66</sup> Nummerierung gemäss Kinder- und Jugendheimgesetz vom 27. November 2017 (OS 74, 322; ABl 2015-08-28). In Kraft seit 1. Januar 2022 (OS 76, 622).
 
@@ -1279,3 +1268,5 @@ Als Stichtage für die Einschulung gemäss §§ 3 und 5 gelten:
 <sup>68</sup> Fassung gemäss Musikschulgesetz vom 11. November 2019 (OS 77, 533; ABl 2018-11-09). In Kraft seit 1. Januar 2023.
 
 <sup>69</sup> Aufgehoben durch Musikschulgesetz vom 11. November 2019 (OS 77, 533; ABl 2018-11-09). In Kraft seit 1. Januar 2023.
+
+<sup>70</sup> Fassung gemäss G vom 26. Juni 2023 (OS 79, 219; ABl 2022-05-13). In Kraft seit 1. August 2024.
