@@ -4,13 +4,13 @@ number: "430.251.0"
 title: Ordonnance sur le statut du corps enseignant
 short: OSE
 language: fr
-version: 2024-01-01
-valid_until: 2024-07-31
-version_adopted: 2023-11-29
+version: 2024-08-01
+valid_until: 2025-07-31
+version_adopted: 2023-11-22
 adopted: 2007-03-28
 in_force: 2007-08-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/430.251.0"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2977/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/2978/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2977/pdf_file"
 
 (OSE)
 
-du 28.03.2007 (état au 01.01.2024)
+du 28.03.2007 (état au 01.08.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -450,7 +450,7 @@ arrête:
 
 **Disposition générale**
 
-<sup>1</sup> L’octroi de prestations en nature et d’indemnités communales, d’indemnités de fonction, d’allocations liées au marché de l’emploi ou de primes à la performance ou à l’innovation n’est pas autorisé. L’article 36a est réservé.
+<sup>1</sup> L’octroi de prestations en nature et d’indemnités communales, d’indemnités de fonction, d’allocations liées au marché de l’emploi ou de primes à la performance ou à l’innovation n’est pas autorisé. Les articles 36a et 36b sont réservés.
 
 #### Art. 36a
 
@@ -460,9 +460,17 @@ arrête:
 
 <sup>2</sup> L’allocation est fixée par les membres de la direction assumant la responsabilité générale de l’école et imputée au pool destiné aux tâches spéciales.
 
-<sup>3</sup> Elle s’élève à 500 francs par mois au maximum et n’est pas assujettie à la caisse de pension.
+<sup>3</sup> Elle s’élève à 500 francs par mois au maximum et est assujettie à la caisse de pension.
 
 <sup>4</sup> Elle est réduite ou supprimée lorsque les conditions de son attribution ont disparu en totalité ou en partie.
+
+#### Art. 36b
+
+**Allocation pour maîtrise de classe**
+
+<sup>1</sup> Une allocation mensuelle est versée pour rétribuer la fonction de maîtrise de classe.
+
+<sup>2</sup> L'allocation mensuelle s'élève à 300 francs par classe et est assujettie à la caisse de pension.
 
 #### Art. 37
 
@@ -540,11 +548,7 @@ arrête:
 
 #### Art. 45
 
-**Rétribution des maîtres et maîtresses de classe**
-
-<sup>1</sup> La fonction de maître ou de maîtresse de classe à l’école obligatoire est rétribuée par une leçon hebdomadaire.
-
-<sup>2</sup> La législation spéciale est applicable au corps enseignant des établissements du degré secondaire II et des écoles supérieures.
+**…**
 
 #### Art. 45a
 
@@ -933,7 +937,7 @@ arrête:
 
 #### Art. 80
 
-**Commissions d’examen des congés de formation 1 Composition**
+**Commissions des congés de formation 1 Composition**
 
 <sup>1</sup> La Direction de l’instruction publique et de la culture institue pour l’examen des congés de formation une commission pour la partie germanophone du canton et une autre pour la partie francophone du canton, qui se composent respectivement de cinq et sept membres.
 
@@ -1073,7 +1077,15 @@ arrête:
 
 <sup>1</sup> Pour l’accomplissement des tâches spéciales dans l’intérêt général de l’école, un pool destiné aux tâches spéciales exprimé en pourcentages de degré d’occupation est prévu.
 
-<sup>2</sup> Les prescriptions de calcul ainsi que les principes applicables à l’utilisation et à la répartition des ressources attribuées au pool destiné aux tâches spéciales sont fixés à l’annexe 4.
+<sup>1a</sup> Le pool destiné aux tâches spéciales est calculé en fonction du pool de direction.
+
+<sup>1b</sup> Il est augmenté
+
+- a pour rétribuer la fonction de maîtrise de classe, l'allocation prévue à l'article 36b étant comptabilisée à part;
+- b pour rétribuer le soutien apporté aux membres du corps enseignant en début de carrière ou reprenant l'activité d'enseignement;
+- c lorsque l'enseignement est dispensé dans l'autre langue nationale que la langue d'enseignement ou lorsque des échanges sont organisés avec des classes dont l'enseignement est dispensé dans une autre langue nationale.
+
+<sup>2</sup> Les autres prescriptions de calcul ainsi que les principes applicables à l’utilisation et à la répartition des ressources attribuées au pool destiné aux tâches spéciales sont fixés à l’annexe 4.
 
 <sup>3</sup> Le service désigné de la Direction de l’instruction publique et de la culture fixe le pool destiné aux tâches spéciales.
 

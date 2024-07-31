@@ -4,13 +4,13 @@ number: "430.251.0"
 title: Verordnung über die Anstellung der Lehrkräfte
 short: LAV
 language: de
-version: 2024-01-01
-valid_until: 2024-07-31
-version_adopted: 2023-11-29
+version: 2024-08-01
+valid_until: 2025-07-31
+version_adopted: 2023-11-22
 adopted: 2007-03-28
 in_force: 2007-08-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/430.251.0"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2977/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/2978/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2977/pdf_file"
 
 (LAV)
 
-vom 28.03.2007 (Stand 01.01.2024)
+vom 28.03.2007 (Stand 01.08.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -451,7 +451,7 @@ geführt werden,
 
 **Allgemeines**
 
-<sup>1</sup> Die Gewährung von Natural-, Gemeinde-, Funktions- und Arbeitsmarktzulagen sowie von Leistungs- und Innovationsprämien ist nicht zulässig. Vorbehalten bleibt Artikel 36a.
+<sup>1</sup> Die Gewährung von Natural-, Gemeinde-, Funktions- und Arbeitsmarktzulagen sowie von Leistungs- und Innovationsprämien ist nicht zulässig. Vorbehalten bleibt Artikel 36a und 36b.
 
 #### Art. 36a
 
@@ -461,9 +461,17 @@ geführt werden,
 
 <sup>2</sup> Die Zulage wird durch die gesamtverantwortlichen Schulleitungsmitglieder zulasten des Pools für Spezialaufgaben festgesetzt.
 
-<sup>3</sup> Sie beträgt pro Monat maximal 500 Franken und ist nicht pensionskassenpflichtig.
+<sup>3</sup> Sie beträgt pro Monat maximal 500 Franken und ist pensionskassenpflichtig.
 
 <sup>4</sup> Sie ist ganz oder teilweise aufzuheben, wenn die Voraussetzungen für ihre Ausrichtung ganz oder teilweise weggefallen sind.
+
+#### Art. 36b
+
+**Zulagen für Klassenlehrkräfte**
+
+<sup>1</sup> Zur Abgeltung der Tätigkeit als Klassenlehrkraft wird eine monatliche Zulage ausgerichtet.
+
+<sup>2</sup> Die monatliche Zulage beträgt 300 Franken pro Klasse und ist pensionskassenpflichtig.
 
 #### Art. 37
 
@@ -541,11 +549,7 @@ geführt werden,
 
 #### Art. 45
 
-**Abgeltung für Klassenlehrkräfte**
-
-<sup>1</sup> Die Tätigkeit als Klassenlehrkraft der Volksschule wird mit einer Lektion pro Woche abgegolten.
-
-<sup>2</sup> Für Lehrkräfte der Schulen der Sekundarstufe II und der höheren Fachschulen gilt die besondere Gesetzgebung.
+**…**
 
 #### Art. 45a
 
@@ -934,7 +938,7 @@ geführt werden,
 
 #### Art. 80
 
-**Kommissionen für die Beurteilung von Bildungsurlauben 1 Zusammensetzung**
+**Kommissionen für Bildungsurlaube 1 Zusammensetzung**
 
 <sup>1</sup> Die Bildungs- und Kulturdirektion ernennt für die Beurteilung von Bildungsurlauben je eine Kommission für den deutschsprachigen und für den französischsprachigen Kantonsteil, die aus fünf bzw. sieben Mitgliedern besteht.
 
@@ -1074,7 +1078,15 @@ geführt werden,
 
 <sup>1</sup> Für die Erfüllung von im Interesse der gesamten Schule liegenden Spezialaufgaben besteht ein Pool für Spezialaufgaben in Beschäftigungsgradprozenten.
 
-<sup>2</sup> Die Vorgaben zur Berechnung sowie die Grundsätze zur Nutzung und Verteilung der dem Pool für Spezialaufgaben zugewiesenen Ressourcen werden in Anhang 4 festgelegt.
+<sup>1a</sup> Der Pool für Spezialaufgaben berechnet sich in Abhängigkeit des Schulleitungspools.
+
+<sup>1b</sup> Er wird erhöht
+
+- a zur Abgeltung der Tätigkeit als Klassenlehrkraft, wobei die Zulage gemäss Artikel 36b nicht darunter fällt,
+- b zur Abgeltung der Unterstützung von berufseinsteigenden und wiedereinsteigenden Lehrkräften,
+- c für Unterricht in der anderen Landessprache als der Unterrichtssprache oder für einen Klassenaustausch in einer anderen Landessprache.
+
+<sup>2</sup> Die weiteren Vorgaben zur Berechnung sowie die Grundsätze zur Nutzung und Verteilung der dem Pool für Spezialaufgaben zugewiesenen Ressourcen werden in Anhang 4 festgelegt.
 
 <sup>3</sup> Die zuständige Stelle der Bildungs- und Kulturdirektion legt den Pool für Spezialaufgaben fest.
 
