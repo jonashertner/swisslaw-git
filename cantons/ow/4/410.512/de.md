@@ -3,20 +3,20 @@ canton: OW
 number: "410.512"
 title: Ausführungsbestimmungen über die Schulgesundheit
 language: de
-version: 2022-08-01
-valid_until: 2024-07-31
-version_adopted: 2022-06-07
+version: 2024-08-01
+valid_until: 2026-07-31
+version_adopted: 2024-06-04
 adopted: 2016-01-19
 in_force: 2016-02-01
 url: "http://gdb.ow.ch/app/de/texts_of_law/410.512"
-pdf: "http://gdb.ow.ch/api/de/versions/1588/pdf_file"
+pdf: "http://gdb.ow.ch/api/de/versions/1865/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons OW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Ausführungsbestimmungen über die Schulgesundheit
 
-vom 19.01.2016 (Stand 01.08.2022)
+vom 19.01.2016 (Stand 01.08.2024)
 
 Der Regierungsrat des Kantons Obwalden,
 
@@ -185,7 +185,7 @@ beschliesst:
 - b. Hörkontrolle im Kindergarten und in der Primarschule (Reihenuntersuch), pauschal pro Untersuch: — 12.–
 - c.–d. …
 - e. Visuskontrolle im Kindergarten oder bei Schuleintritt (Reihenuntersuch), pauschal pro Kind: — 17.85
-- f. Zahnärztlicher Untersuch (freie Zahnarztwahl), Zahnarzttarif UV/MV/IV Dentotar Position 4.0090 Mindestansatz, 41,5 Taxpunkte, Taxpunktwert Fr. 1.00; Wert des Gutscheins pro Kind: — 41.50
+- f. Zahnärztlicher Untersuch (freie Zahnarztwahl), Zahnarzttarif UV/MV/IV Dentotar Position 4.0090, 48.80 Taxpunkte, Taxpunktwert Fr. 1.00; Wert des Gutscheins pro Kind: — 48.80
 
 <sup>2</sup> Die Obwaldner Ärzte- bzw. Zahnärztegesellschaft werden bei Anpassungen zu den Tarifen und Taxen angehört.
 
@@ -193,7 +193,7 @@ beschliesst:
 
 Ursprüngliche Fundstelle: OGS 2016, 4
 
-Ursprüngliches Inkraftreten: 1. Februar 2016
+Ursprüngliches Inkrafttreten: 1. Februar 2016
 
 geändert durch:
 
@@ -201,6 +201,8 @@ geändert durch:
 
 \- Nachtrag vom 5. Februar 2019, in Kraft seit 1. Juli 2019 (OGS 2019, 15),
 
-\- Nachtrag vom 7. Juni 2022, in Kraft seit 1. August 2022 (OGS 2022, 17)
+\- Nachtrag vom 7. Juni 2022, in Kraft seit 1. August 2022 (OGS 2022, 17),
+
+\- Nachtrag vom 4. Juni 2024, in Kraft seit 1. August 2024 (OGS 2024, 9)
 
 OGS 2016, 4
