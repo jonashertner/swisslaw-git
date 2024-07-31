@@ -3,11 +3,11 @@ canton: ZH
 number: "414.253.411"
 title: "Studienordnung für die Bachelorstudiengänge Kommunikation und Medien, Mehrsprachige Kommunikation und Sprachliche Integration – Deutsch als Fremd- und Zweitsprache an der Zürcher Hochschule für Angewandte Wissenschaften"
 language: de
-version: "2023-08-01"
-nachtrag: "123"
-valid_until: 2024-08-01
+version: "2024-08-01"
+nachtrag: "125"
+valid_until: 2025-08-01
 adopted: 2009-06-04
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_411-2009_06_04-2009_08_01-123.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_253_411-2009_06_04-2009_08_01-125.html"
 text: pdf
 ---
 
@@ -59,7 +59,7 @@ Einzelheiten zu den Studiengängen, insbesondere zu den angebotenen Studienricht
 
 **1**
 
-1.10. 23 - 122 § 6. <sup>1</sup> Die Bachelorstudiengänge des Departements Angewandte Linguistik werden als Vollzeitstudium geführt. Sie können auch im Teilzeitstudium besucht werden.
+- 1\. 7. 24 - 125 § 6. <sup>1</sup> Die Bachelorstudiengänge des Departements Angewandte Linguistik werden als Vollzeitstudium geführt. Sie können auch im Teilzeitstudium besucht werden.
 
 **Studienform**
 
@@ -88,7 +88,7 @@ Einzelheiten zu den Studiengängen, insbesondere zu den angebotenen Studienricht
 
 § 9.[^hBZulassungzumStu-2]
 
-[^hBZulassungzumStu-1]: Fassung gemäss B vom 7. Juli 2022 (OS 77, 564; ABl 2022-10-28). In Kraft seit 1. Januar 2023.
+[^hBZulassungzumStu-1]: Fassung gemäss B vom 7. Juli 2022 (OS 77, 564; ABl 2022-10-28). In Kraft seit 1. Januar 2023. 1. 7. 24 - 125 7
 [^hBZulassungzumStu-2]: Aufgehoben durch B vom 24. September 2020 (OS 76, 7; ABl 2020-11-20). In Kraft seit 1. April 2021.
 [^hBZulassungzumStu-3]: Fassung gemäss B vom 24. September 2020 (OS 76, 7; ABl 2020-11-20). In Kraft seit 1. April 2021.
 
@@ -98,31 +98,34 @@ Einzelheiten zu den Studiengängen, insbesondere zu den angebotenen Studienricht
 
 **Gliederung**
 
-§ 10.[^hCAufbaudesStudiu-1] Die Studiengänge sind in eine Assessmentstufe und ein Hauptstudium gegliedert. Die Details zum Umfang der Assessmentstufe und des Hauptstudiums sind im Anhang zur Studienordnung geregelt.
+§ 10.[^hCAufbaudesStudiu-1] Die Studiengänge Mehrsprachige Kommunikation und Sprachliche Integration sind in eine Assessmentstufe und ein Hauptstudium gegliedert. Die Details zum Umfang der Assessmentstufe und des Hauptstudiums sind im Anhang zur Studienordnung geregelt.
 
 **Bestehen Assessmentstufe**
 
-§ 11.[^hCAufbaudesStudiu-1] Die Assessmentstufe ist bestanden, wenn a. die im Anhang vorgeschriebenen Module bzw. Modulgruppen der Assessmentstufe bestanden sind,
+§ 11.[^hCAufbaudesStudiu-2] Die Assessmentstufe ist bestanden, wenn a. die im Anhang vorgeschriebenen Module bzw. Modulgruppen der Assessmentstufe bestanden sind,
 
 - b. die im Anhang vorgeschriebene Anzahl ECTS-Credits erreicht sind.
 
 **Bestehen Hauptstudium**
 
-§ 12.[^hCAufbaudesStudiu-1] Das Hauptstudium ist bestanden, wenn a. die im Anhang vorgeschriebenen Module bzw. Modulgruppen des Hauptstudiums bestanden sind,
+§ 12.[^hCAufbaudesStudiu-2] Das Hauptstudium ist bestanden, wenn a. die im Anhang vorgeschriebenen Module bzw. Modulgruppen des Hauptstudiums bestanden sind,
 
 - b. die im Anhang vorgeschriebene Anzahl ECTS-Credits erreicht sind.
 
-[^hCAufbaudesStudiu-1]: Fassung gemäss B vom 24. September 2020 (OS 76, 7; ABl 2020-11-20). In Kraft seit 1. April 2021.
+[^hCAufbaudesStudiu-1]: Fassung gemäss B vom 14. Dezember 2023 (OS 79, 168; ABl 2024-02-16). In Kraft seit 1. August 2024.
+[^hCAufbaudesStudiu-2]: Fassung gemäss B vom 24. September 2020 (OS 76, 7; ABl 2020-11-20). In Kraft seit 1. April 2021.
 
 ### D. Prüfungen und andere Leistungsnachweise
 
-[^hCAufbaudesStudiu-1]
+[^hCAufbaudesStudiu-2]
+
+[^hDhCAufbaudesStudi-1]: Fassung gemäss B vom 14. Dezember 2023 (OS 79, 168; ABl 2024-02-16). In Kraft seit 1. August 2024.
 
 #### § 13
 
 **Bachelorarbeit a. Beginn**
 
-<sup>1</sup> Die Bachelorarbeit wird im dritten Studienjahr verfasst. Mit der Bachelorarbeit kann begonnen werden, wenn die Voraussetzungen gemäss Anhang erfüllt sind.
+<sup>1</sup> Die Bachelorarbeit wird frühestens im dritten Studienjahr verfasst. Mit der Bachelorarbeit kann begonnen werden, wenn die Voraussetzungen gemäss Anhang erfüllt sind.[^hDhCAufbaudesStudi-1]
 
 <sup>2</sup> Die Studiengangleitung kann Ausnahmen bewilligen.
 
@@ -134,12 +137,21 @@ Einzelheiten zu den Studiengängen, insbesondere zu den angebotenen Studienricht
 
 <sup>2</sup> Die Benotung erfolgt einvernehmlich mit den prüfenden Dozierenden. Kommt keine Einigung zustande, steht der Stichentscheid der oder dem prüfenden Dozierenden zu.[^14-1]
 
+**Nachprüfungen und Nachbesserungen**
+
+§ 14 a.[^14-2] <sup>1</sup> Für nicht bestandene Leistungsnachweise können Nachprüfungen und Nachbesserungen angeboten werden, wenn a. es die Modulbeschreibung vorsieht und b. der Leistungsnachweis mit einer Note zwischen 3,50 und 3,99 oder dem Prädikat «nicht bestanden» bewertet wurde.
+
+<sup>2</sup> Im Falle einer benoteten Nachbesserung kann höchstens die Note 4,00 erreicht werden.
+
+<sup>3</sup> Über Einzelheiten entscheidet die Studiengangleitung.
+
 **Wiederholung**
 
-§ 15.[^14-2] Wer ein Modul nicht besteht, muss die Leistungsnachweise des Moduls nach Massgabe des Anhangs wiederholen.
+§ 15.[^14-3] Wer ein Modul nicht besteht, muss die Leistungsnachweise des Moduls nach Massgabe des Anhangs wiederholen.
 
 [^14-1]: Fassung gemäss B vom 24. September 2020 (OS 76, 7; ABl 2020-11-20). In Kraft seit 1. April 2021.
-[^14-2]: Fassung gemäss B vom 20. März 2014 (OS 69, 285; ABl 2014-04-25). In Kraft seit 1. August 2014.
+[^14-2]: Eingefügt durch B vom 14. Dezember 2023 (OS 79, 168; ABl 2024-02-16). In Kraft seit 1. August 2024.
+[^14-3]: Fassung gemäss B vom 20. März 2014 (OS 69, 285; ABl 2014-04-25). In Kraft seit 1. August 2014.
 
 ### E. Studienabschluss und Bachelordiplom
 
@@ -167,31 +179,36 @@ Das Bachelordiplom wird erteilt, wenn a. die Assessmentstufe und das Hauptstudiu
 
 § 17 a.[^17-1] <sup>1</sup> Werden mehr Wahlpflichtmodule als nötig belegt, so gelten die überzähligen Wahlpflichtmodule als Wahlmodule.
 
+**3**
+
+- 1\. 7. 24 - 125
+
 <sup>2</sup> Der Anhang regelt:[^17-2] a. ob die Belegung von überzähligen Wahlpflichtmodulen möglich ist,
 
 - b. wie die Studierenden bei der Wahl der Module bestimmen, welche Wahlpflichtmodule überzählig sind.
 
 <sup>3</sup> Die überzähligen Wahlpflichtmodule werden nicht für die Berechnung der Abschlussnote herangezogen.
 
-**3**
+[^17-1]: Eingefügt durch B vom 9. Mai 2019 (OS 74, 496; ABl 2019-07-26). In Kraft seit 1. Oktober 2019.
+[^17-2]: Fassung gemäss B vom 7. Juli 2022 (OS 77, 564; ABl 2022-10-28). In Kraft seit 1. April 2023.
+[^17-3]: Fassung gemäss B vom 7. Juli 2022 (OS 77, 564; ABl 2022-10-28). In Kraft seit 1. Januar 2023. 1. 7. 24 - 125 7
+[^17-4]: Fassung gemäss B vom 2. März 2023 (OS 78, 257; ABl 2023-05-12). In Kraft seit 1. August 2023.
 
-1.10. 23 - 122 § 18. Die Bachelorstudiengänge werden mit folgenden Titeln abgeschlossen:[^17-3] a.[^17-4] Bachelor of Arts ZHAW in Kommunikation und Medien,
+#### § 18
 
 **Titel**
+
+Die Bachelorstudiengänge werden mit folgenden Titeln abgeschlossen:[^17-3] a.[^17-4] Bachelor of Arts ZHAW in Kommunikation und Medien,
 
 - b. Bachelor of Arts ZHAW in Mehrsprachiger Kommunikation mit Vertiefung in [gewählte Vertiefungsrichtung],
 
 - c. Bachelor of Arts ZHAW in Sprachlicher Integration – Deutsch als Fremd- und Zweitsprache.
 
-[^17-1]: Eingefügt durch B vom 9. Mai 2019 (OS 74, 496; ABl 2019-07-26). In Kraft seit 1. Oktober 2019.
-[^17-2]: Fassung gemäss B vom 7. Juli 2022 (OS 77, 564; ABl 2022-10-28). In Kraft seit 1. April 2023.
-[^17-3]: Fassung gemäss B vom 7. Juli 2022 (OS 77, 564; ABl 2022-10-28). In Kraft seit 1. Januar 2023.
-[^17-4]: Fassung gemäss B vom 2. März 2023 (OS 78, 257; ABl 2023-05-12). In Kraft seit 1. August 2023.
-[^17-5]: Fassung gemäss B vom 24. September 2020 (OS 76, 7; ABl 2020-11-20). In Kraft seit 1. April 2021.
+[^18-1]: Fassung gemäss B vom 24. September 2020 (OS 76, 7; ABl 2020-11-20). In Kraft seit 1. April 2021.
 
 ### F. Schlussbestimmung
 
-[^17-5]
+[^18-1]
 
 #### § 19
 
@@ -270,30 +287,61 @@ Studierende, die ihr Bachelorstudium vor dem Herbstsemester 2009/2010 aufgenomme
 
 § 26.[^hJÜbergangsbestimmu-1] <sup>1</sup> Studierende, die vor dem Herbstsemester 2024/2025 mit dem Studium im Studiengang Kommunikation begonnen haben, unterstehen bis und mit dem Frühlingssemester 2026 der Regelung nach der Änderung vom 7. Juli 2022 und schliessen mit dem Titel Bachelor of Arts ZHAW in Kommunikation mit Vertiefung in [gewählte Vertiefungsrichtung] ab.
 
-<sup>2</sup> Studierende des Studiengangs Kommunikation, die bis Ende des Frühlingssemesters 2026 das Studium nicht abgeschlossen haben, werden für das weitere Studium in den Studiengang Kommunikation und Medien übergeführt und der vorliegenden Studienordnung unterstellt.
-
 **5**
 
-1.10. 23 - 122
+- 1\. 7. 24 - 125
+
+<sup>2</sup> Studierende des Studiengangs Kommunikation, die bis Ende des Frühlingssemesters 2026 das Studium nicht abgeschlossen haben, werden für das weitere Studium in den Studiengang Kommunikation und Medien übergeführt und der vorliegenden Studienordnung unterstellt.
 
 <sup>3</sup> Die Studiengangleitung regelt die Anrechnung bereits erbrachter Leistungen.
 
 [^hJÜbergangsbestimmu-1]: Eingefügt durch B vom 2. März 2023 (OS 78, 257; ABl 2023-05-12). In Kraft seit 1. August 2023.
-[^hJÜbergangsbestimmu-2]: Fassung gemäss B vom 2. März 2023 (OS 78, 257; ABl 2023-05-12). In Kraft seit 1. August 2023.
+[^hJÜbergangsbestimmu-2]: Eingefügt durch B vom 14. Dezember 2023 (OS 79, 168; ABl 2024-02-16). In Kraft seit 1. August 2024.
+
+### K. Übergangsbestimmungen zur Änderung vom 14. Dezember 2023
+
+[^hJÜbergangsbestimmu-2]
+
+**Altrechtlicher Studiengang Angewandte Sprachen**
+
+§ 27.[^hKÜbergangsbestimmu-1] <sup>1</sup> Vollzeitstudierende, die vor dem Herbstsemester 2023/2024 mit dem Studium im Studiengang Angewandte Sprachen begonnen haben, unterstehen bis und mit Frühlingssemester 2025 der bisherigen Studienordnung und schliessen mit dem Titel Bachelor of Arts ZHAW in Angewandten Sprachen mit Vertiefung in [gewählte Vertiefungsrichtung] ab.
+
+<sup>2</sup> Vollzeitstudierende des Studiengangs Angewandte Sprachen, die bis Ende des Frühlingssemesters 2025 das Studium nicht abschliessen, werden ab Herbstsemester 2024/2025 in den Studiengang Mehrsprachige Kommunikation überführt und der vorliegenden Studienordnung unterstellt.
+
+<sup>3</sup> Teilzeitstudierende des Studiengangs Angewandte Sprachen, die im Herbstsemester 2022/2023 mit dem Studium begonnen haben, werden ab Herbstsemester 2024/2025 der vorliegenden Studienordnung unterstellt.
+
+<sup>4</sup> Teilzeitstudierende des Studiengangs Angewandte Sprachen, die vor dem Herbstsemester 2022/2023 mit dem Studium begonnen haben, werden ab Herbstsemester 2025/2026 der vorliegenden Studienordnung unterstellt.
+
+<sup>5</sup> Die Studiengangleitung regelt die Anrechnung bereits erbrachter Leistungen.
+
+**Altrechtlicher Studiengang Kommunikation**
+
+§ 28.[^hKÜbergangsbestimmu-1] <sup>1</sup> Vollzeitstudierende, die vor dem Herbstsemester 2024/2025 mit dem Studium im Studiengang Kommunikation begonnen haben, unterstehen bis und mit Frühlingssemester 2026 der bisherigen Studienordnung und schliessen mit dem Titel Bachelor of Arts ZHAW in Kommunikation mit Vertiefung in [gewählte Vertiefungsrichtung] ab.
+
+<sup>2</sup> Vollzeitstudierende des Studiengangs Kommunikation, die bis Ende des Frühlingssemesters 2026 das Studium nicht abgeschlossen haben, werden für das weitere Studium in den Studiengang Kommunikation und Medien überführt und der vorliegenden Studienordnung unterstellt.
+
+<sup>3</sup> Teilzeitstudierende des Studiengangs Kommunikation, die im Herbstsemester 2023/2024 mit dem Studium begonnen haben, werden ab Herbstsemester 2024/2025 der vorliegenden Studienordnung unterstellt.
+
+<sup>4</sup> Teilzeitstudierende des Studiengangs Kommunikation, die im Herbstsemester 2022/2023 mit dem Studium begonnen haben, werden ab Herbstsemester 2025/2026 der vorliegenden Studienordnung unterstellt.
+
+<sup>5</sup> Die Studiengangleitung regelt die Anrechnung bereits erbrachter Leistungen.
+
+[^hKÜbergangsbestimmu-1]: Eingefügt durch B vom 14. Dezember 2023 (OS 79, 168; ABl 2024-02-16). In Kraft seit 1. August 2024.
+[^hKÜbergangsbestimmu-2]: Fassung gemäss B vom 14. Dezember 2023 (OS 79, 168; ABl 2024-02-16). In Kraft seit 1. August 2024.
 
 ### Anhang zur Studienordnung für die Bachelorstudiengänge Kommunikation und Medien, Mehrsprachige Kommunikation und Sprachliche Integration – Deutsch als Fremd- und Zweitsprache an der Zürcher Hochschule für Angewandte Wissenschaften
 
-[^hJÜbergangsbestimmu-2]
+[^hKÜbergangsbestimmu-2]
 
 Der Anhang zur Studienordnung für die Bachelorstudiengänge Kommunikation und Medien, Mehrsprachige Kommunikation und Sprachliche Integration – Deutsch als Fremd- und Zweitsprache an der Zürcher Hochschule für Angewandte Wissenschaften wird weder in die Offizielle Gesetzessammlung (OS) noch in die Zürcher Loseblattsammlung (LS) aufgenommen. Er kann bei der
 
 Zürcher Hochschule für Angewandte Wissenschaften Ressort Bildung Gertrudstrasse 15 Postfach 8400 Winterthur
 
-bezogen oder unter www.zhaw.ch eingesehen werden.
+bezogen oder unter www.zhaw.ch eingesehen werden
 
-**7**
+**9**
 
-1.10. 23 - 122
+- 1\. 7. 24 - 125
 
 ## Weitere Fussnoten
 
