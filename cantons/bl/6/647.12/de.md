@@ -3,20 +3,20 @@ canton: BL
 number: "647.12"
 title: Verordnung für die Schulleitung und die Schulsekretariate
 language: de
-version: 2023-08-01
-valid_until: 2024-07-31
-version_adopted: 2023-01-17
+version: 2024-08-01
+valid_until: 2026-07-31
+version_adopted: 2023-12-19
 adopted: 2003-05-13
 in_force: 2003-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/647.12"
-pdf: "https://bl.clex.ch/api/de/versions/3515/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3872/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung für die Schulleitung und die Schulsekretariate
 
-Vom 13.05.2003 (Stand 01.08.2023)
+Vom 13.05.2003 (Stand 01.08.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -46,7 +46,7 @@ beschliesst:
 - d. sie gewährleisten die Mitwirkung der Erziehungsberechtigten am Entwicklungsprozess ihrer Schulen;
 - e. sie arbeiten mit den kommunalen und kantonalen Stellen und Behörden zusammen.
 
-<sup>2</sup> Die Schulleitungen sind gegenüber den Lehrerinnen und Lehrern und den Mitarbeiterinnen und Mitarbeitern der Schulsekretariate in personellen, pädagogischen, organisatorischen und administrativen Fragen weisungsberechtigt.
+<sup>2</sup> Die Schulleitungen sind gegenüber den Lehrerinnen und Lehrern und weiteren Mitarbeitenden der Schule im pädagogischen, administrativen und ergänzenden Bereich in personellen, pädagogischen, organisatorischen und administrativen Fragen weisungsberechtigt.
 
 <sup>3</sup> Sie sind gegenüber ihren übergeordneten Behörden und Stellen in Angelegenheiten ihrer Schulen auskunftspflichtig.
 
@@ -56,13 +56,13 @@ beschliesst:
 
 <sup>1</sup> Die kommunalen Schulen werden entweder in einem Schulleitungsmodell mit oder ohne Rektorat geführt.
 
-<sup>1a</sup> Entscheidet sich der Schulrat für ein Schulleitungsmodell mit Rektorat, legt die Rektorin oder der Rektor die Organisation der Schulleitung fest und unterbreitet sie dem Schulrat zur Genehmigung. Sie ist vorgängig den weiteren Schulleitungsmitgliedern und dem Lehrerinnen- und Lehrerkonvent zur Stellungnahme vorzulegen. Co-Rektorate sind möglich.
+<sup>1a</sup> Entscheidet sich die Anstellungsbehörde für ein Schulleitungsmodell mit Rektorat, legt die Rektorin oder der Rektor die Organisation der Schulleitung fest und unterbreitet sie der Anstellungsbehörde zur Genehmigung. Sie ist vorgängig den weiteren Schulleitungsmitgliedern und dem Lehrerinnen- und Lehrerkonvent zur Stellungnahme vorzulegen. Co-Rektorate sind möglich.
 
 <sup>1b</sup> Bei Schulleitungsmodellen ohne Rektorat legt die Schulleitung ihre Organisation gemeinsam fest. Im Übrigen gelten die Vorgaben gemäss Abs. 1a.
 
 <sup>1<sup>bis</sup></sup> Die Organisationsform soll so gewählt werden, dass die Aufgaben einer Schulleitung optimal erledigt, die Stellvertretung ohne Ressourcenerweiterung sichergestellt und die fachlichen Anforderungen erfüllt werden können.
 
-<sup>2</sup> Bei mehrköpfigen Schulleitungen ohne Rektorat bestimmt der Schulrat deren Vorsitz.
+<sup>2</sup> Bei mehrköpfigen Schulleitungen ohne Rektorat bestimmt die Anstellungsbehörde deren Vorsitz.
 
 <sup>3</sup> …
 
@@ -72,19 +72,21 @@ beschliesst:
 
 **Organisation, Zusammensetzung, Konstituierung bei kantonalen Schulen**
 
-<sup>1</sup> Die kantonalen Schulen werden entweder in einem Schulleitungsmodell mit oder ohne Rektorat geführt.
+<sup>1</sup> …
 
-<sup>2</sup> Auf der Sekundarstufe II gilt das Schulleitungsmodell mit Rektorat.
+<sup>2</sup> …
 
-<sup>3</sup> Auf der Sekundarstufe I entscheidet sich der Schulrat in Rücksprache mit dem Amt für Volksschulen für ein Schulleitungsmodell mit oder ohne Rektorat.
+<sup>3</sup> …
 
-<sup>4</sup> Bei Schulleitungsmodellen mit Rektorat legt die Rektorin oder der Rektor die Organisation der Schulleitung fest und unterbreitet sie dem Schulrat zur Genehmigung. Sie ist vorgängig den weiteren Schulleitungsmitgliedern und dem Lehrerinnen- und Lehrerkonvent zur Stellungnahme vorzulegen. Co-Rektorate auf der Sekundarstufe I sind möglich.
+<sup>4</sup> Die Organisation der Schulleitung wird durch die Rektorin oder den Rektor festgelegt. Sie oder er unterbreitet diese auf der Sekundarstufe I dem Amt für Volksschulen und auf der Sekundarstufe II der Hauptabteilung Berufs- und Mittelschulen der Dienststelle Berufsbildung, Mittelschulen und Hochschulen (Dienststelle BMH) zur Genehmigung. Die Organisation ist vorgängig den weiteren Schulleitungsmitgliedern und dem Lehrerinnen- und Lehrerkonvent zur Stellungnahme vorzulegen.
 
-<sup>5</sup> Bei Schulleitungsmodellen ohne Rektorat auf der Sekundarstufe I legt die Schulleitung ihre Organisation gemeinsam fest. Im Übrigen gelten die Vorgaben gemäss Abs. 4.
+<sup>5</sup> Bei Co-Rektoraten legen die Co-Rektorinnen bzw. Co-Rektoren die Organisation der Schulleitung gemeinsam fest und bestimmen eine Ansprechperson für die zuständige Stelle der Bildungs-, Kultur- und Sportdirektion (BKSD). Im Übrigen gelten die Bestimmungen gemäss Abs. 4.
+
+<sup>5<sup>bis</sup></sup> Bei Schulleitungen mit zwei Schulleitungsmitgliedern kann die zuständige Dienststelle auf Antrag der Schulleitungsmitglieder entscheiden, dass keine Hierarchisierung erfolgt. Wird die Schulleitung nicht hierarchisiert, legen die beiden Schulleitungsmitglieder die Organisation der Schulleitung gemeinsam fest und bestimmen eine Ansprechperson für die zuständige Stelle der BKSD. Im Übrigen gelten die Bestimmungen gemäss Abs. 4.
 
 <sup>6</sup> Die Organisation soll in jedem Fall so gewählt werden, dass die Aufgaben einer Schulleitung optimal erledigt, die Stellvertretung ohne Ressourcenerweiterung sichergestellt und die fachlichen Anforderungen erfüllt werden können.
 
-<sup>7</sup> Bei mehrköpfigen Schulleitungen ohne Rektorat bestimmt der Schulrat deren Vorsitz.
+<sup>7</sup> …
 
 <sup>8</sup> Im Übrigen konstituiert sich die Schulleitung selbst.
 
@@ -92,15 +94,46 @@ beschliesst:
 
 #### § 4
 
-**Anstellungsverfahren**
+**Anstellungsverfahren kommunale Schulen**
 
 <sup>1</sup> Offene Schulleitungsstellen sind öffentlich auszuschreiben.
 
-<sup>2</sup> Der Schulrat legt unter Mitwirkung der Schulleitung sowie der Vertretung des Lehrerinnen- und Lehrerkonvents und der Vertretung der Schülerinnen und Schüler der Sekundarstufe II im Schulrat den Ablauf des Auswahlverfahrens fest.
+<sup>2</sup> Die Anstellungsbehörde legt unter Mitwirkung der Schulleitung sowie der Vertretung des Lehrerinnen- und Lehrerkonvents den Ablauf des Auswahlverfahrens fest.
 
-<sup>3</sup> Die Schulleitung sowie die Vertretung des Lehrerinnen- und Lehrerkonvents und die Vertretung der Schülerinnen und Schüler der Sekundarstufe II im Schulrat können Empfehlungen zu den Anforderungskriterien und zu den Bewerberinnen und Bewerbern abgeben.
+<sup>3</sup> Die Mitwirkenden gemäss Abs. 2 können Empfehlungen zu den Anforderungskriterien und zu den Bewerberinnen und Bewerbern abgeben.
 
 <sup>4</sup> Alle Beteiligten am Auswahlverfahren und der abschliessenden Wahl des Schulleitungsmitglieds unterstehen der Schweigepflicht.
+
+#### § 4a
+
+**Anstellungsverfahren kantonale Schulen**
+
+<sup>1</sup> Ist eine Schulleitungsstelle neu zu besetzen, legt die Anstellungsbehörde den Ablauf des Auswahlverfahrens fest und beruft das Wahlgremium ein. Anstellungsbehörde für die Schulleitungsmitglieder ist:
+
+- a. auf der Sekundarstufe I das Amt für Volksschulen, Hauptabteilung Betrieb;
+- b. auf der Sekundarstufe II die Dienststelle BMH, Hauptabteilung Berufs- und Mittelschulen.
+
+<sup>2</sup> Das Wahlgremium besteht aus maximal je 2 Vertretungen der Anstellungsbehörde, des Schulrats, der Lehrerinnen und Lehrer sowie auf der Sekundarstufe II der Schülerinnen und Schüler. Die Schulleitung bestimmt die Anzahl ihrer Vertreterinnen und Vertreter selbst.
+
+<sup>3</sup> Die Anstellungsbehörde entwirft, bei Anstellungsverfahren für Konrektorinnen und Konrektoren in Absprache mit der Rektorin oder dem Rektor, bei Anstellungsverfahren für Rektorinnen und Rektoren in Absprache mit dem Schulratspräsidium, das Anforderungsprofil und nimmt hierzu Empfehlungen der Vertretungen des Wahlgremiums entgegen. Das Wahlgremium genehmigt das Anforderungsprofil.
+
+<sup>4</sup> Offene Schulleitungsstellen sind öffentlich auszuschreiben.
+
+<sup>5</sup> Die Anstellungsbehörde trifft bei Anstellungen von Konrektorinnen und Konrektoren zusammen mit der Rektorin oder dem Rektor, bei Anstellungen von Rektorinnen und Rektoren zusammen mit dem Schulratspräsidium und einer Vertretung der Schulleitung, eine Vorauswahl.
+
+<sup>6</sup> Das Wahlgremium führt unter der Leitung der Anstellungsbehörde die Erstrundengespräche durch. Es kann hierfür einen Ausschuss bilden. Im Ausschuss zwingend vertreten sind die an der Vorauswahl der Kandidatinnen und Kandidaten beteiligten Personen gemäss Abs. 5.
+
+<sup>7</sup> Das Wahlgremium bzw. der Ausschuss wertet die Erstrundengespräche aus und bestimmt, welche Kandidatinnen und Kandidaten im Verfahren verbleiben.
+
+<sup>8</sup> Die Anstellungsbehörde führt, bei Anstellungen von Konrektorinnen und Konrektoren zusammen mit der Rektorin oder dem Rektor, bei Anstellungen von Rektorinnen und Rektoren zusammen mit dem Schulratspräsidium und einer Vertretung der Schulleitung, die Zweitrundengespräche durch. Die Beteiligten legen gemeinsam fest, wer im Verfahren verbleibt.
+
+<sup>9</sup> Die Anstellungsbehörde holt über die verbleibenden Kandidatinnen und Kandidaten Referenzauskünfte ein und organisiert für die verbleibenden Kandidatinnen und Kandidaten Eignungsassessments.
+
+<sup>10</sup> Die Anstellungsbehörde wertet bei Anstellungen von Konrektorinnen und Konrektoren zusammen mit der Rektorin oder dem Rektor, bei Anstellungen von Rektorinnen und Rektoren zusammen mit dem Schulratspräsidium die Ergebnisse der Referenzen und der Eignungsassessments aus und unterbreitet dem Wahlgremium danach einen Wahlvorschlag. Die an den Zweitrundengesprächen Beteiligten können bei Bedarf zusätzliche Gespräche führen.
+
+<sup>11</sup> Die Anstellungsbehörde stellt nach Wahl durch das Wahlgremium das gewählte Schulleitungsmitglied an.
+
+<sup>12</sup> Alle Beteiligten am Auswahlverfahren unterstehen der Schweigepflicht.
 
 #### § 5
 
@@ -117,13 +150,13 @@ beschliesst:
 
 **Unterrichtstätigkeit von Schulleitungsmitgliedern**
 
-<sup>1</sup> Die Schulleitungsmitglieder erhalten für eine allfällige Unterrichtstätigkeit und ihre Schulleitungstätigkeit je einen Anstellungsvertrag.
+<sup>1</sup> Die Schulleitungsmitglieder erhalten für eine allfällige Unterrichtstätigkeit und ihre Schulleitungstätigkeit je einen Anstellungsvertrag. Die Anstellung erfolgt bei den kommunalen Schulen durch die Anstellungsbehörde der Schulleitungsmitglieder, bei den kantonalen Schulen durch die zuständige Dienststelle.
 
 <sup>2</sup> …
 
-<sup>3</sup> Schulleitungsmitglieder, die neben der Unterrichtstätigkeit zu mindestens 50 % als Schulleitungsmitglied tätig sind, werden für das gesamte Arbeitspensum in das für die entsprechende Funktion der Schulleitung vorgesehene Lohnband eingereiht, sofern sie ihre Unterrichtstätigkeit an einer Schule wahrnehmen, an der sie auch in der Schulleitung sind.
+<sup>3</sup> Schulleitungsmitglieder, die neben der Unterrichtstätigkeit zu mindestens 50 Stellenprozenten als Schulleitungsmitglied tätig sind, werden für das gesamte Arbeitspensum in das für die entsprechende Funktion der Schulleitung vorgesehene Lohnband eingereiht, sofern sie ihre Unterrichtstätigkeit an einer Schule wahrnehmen, an der sie auch in der Schulleitung sind. Vorbehalten bleibt ein Abzug aufgrund unvollständiger oder stufenfremder Ausbildungen.
 
-<sup>4</sup> Bei Co-Rektoraten erfolgt die Lohneinreihung für die Unterrichtstätigkeit nach Abs. 3 gemäss dem Lohnband von Konrektorinnen und Konrektoren.
+<sup>4</sup> Bei Co-Rektoraten erfolgt die Lohneinreihung für die Unterrichtstätigkeit nach Abs. 3 gemäss dem Lohnband von Konrektorinnen und Konrektoren. Abzüge gemäss Abs. 3 bleiben vorbehalten.
 
 <sup>5</sup> Liegen mehrere Verträge als Schulleitungsmitglied an unterschiedlichen Schulen des Kantons Basel-Landschaft vor, werden die Leitungspensen zusammengezählt. Die Summe gilt für die Lohneinreihung als 1 Pensum.
 
@@ -217,7 +250,9 @@ beschliesst:
 - g. Sissach — 255 %;
 - h. Liestal — 295 %.
 
-<sup>1<sup>bis</sup></sup> Bei einem Leitungsmodell mit Rektorat ist diese Funktion mit mindestens 60 % und maximal 100 % zu besetzen. Bei Co-Rektoraten können maximal 100 Stellenprozente auf die Funktion des Co-Rektorats aufgeteilt werden. Zusätzliche Anstellungsprozente als Konrektorin oder Konrektor im Rahmen der verfügbaren Stellenprozente für die Schulleitung sind möglich.
+<sup>1<sup>bis</sup></sup> Die Stelle der Rektorin oder des Rektors ist mit mindestens 60 % und maximal 100 % zu besetzen. Bei Co-Rektoraten können maximal 100 Stellenprozente auf die Funktion des Co-Rektorats aufgeteilt werden. Zusätzliche Anstellungsprozente als Konrektorin oder Konrektor im Rahmen der verfügbaren Stellenprozente für die Schulleitung sind möglich.
+
+<sup>1<sup>ter</sup></sup> Über Ausnahmen zum Mindestpensum von Rektorinnen und Rektoren entscheidet das Amt für Volksschulen.
 
 <sup>2</sup> Der Beschäftigungsgrad eines Schulleitungsmitglieds (inklusive allfälliger Unterrichtstätigkeit) darf nicht über 100 % liegen. Ein Schulleitungsmitglied kann sich in der Funktion als Lehrperson darüber hinaus Mehrlektionen weder anrechnen noch auszahlen lassen. Allfällig unterjährige Minder- oder Mehrlektionen müssen kompensiert werden. Mehrlektionen können nicht ausbezahlt werden.
 
@@ -235,9 +270,7 @@ beschliesst:
 
 #### § 14
 
-**Amtsauftrag**
-
-<sup>1</sup> …
+**…**
 
 #### § 15
 
@@ -249,19 +282,19 @@ beschliesst:
 
 <sup>1</sup> Den Schulen der Sekundarstufe II stehen für Schulleitungsaufgaben folgende Stellenprozente zur Verfügung:
 
-- a. Berufsfachschulen für Gesundheit Münchenstein — 240 %;
+- a. Berufsfachschulen Gesundheit Baselland — 240 %;
 - a<sup>bis</sup>. Berufsbildungszentrum Baselland — 480 %;
 - b. Berufsbildungszentrum Baselland für die Führung der Höheren Fachschule für Informations- und Kommunikationstechnologie (hf ict) — 30 %;
 - c. Gymnasien Muttenz, Münchenstein, Oberwil — je 295 %;
 - d. Gymnasium Liestal — 365 %;
 - e. Gymnasium Laufental-Thierstein — 225 %;
-- f. Hauptabteilung Berufsbildung der Dienststelle Berufsbildung, Mittelschulen und Hochschulen (BMH) für die besonderen Schulleitungsaufgaben — 100 %.
+- f. Hauptabteilung Berufs- und Mittelschulen der Dienststelle BMH für die besonderen Schulleitungsaufgaben — 100 %.
 
-<sup>1<sup>bis</sup></sup> Die Funktion der Rektorin oder des Rektors ist mit mindestens 60 % und maximal 100 % zu besetzen.
+<sup>1<sup>bis</sup></sup> Die Stelle der Rektorin oder des Rektors ist mit mindestens 60 % und maximal 100 % zu besetzen. Bei Co-Rektoraten können maximal 100 Stellenprozente auf die Funktion des Co-Rektorats aufgeteilt werden. Zusätzliche Anstellungsprozente als Konrektorin oder Konrektor im Rahmen der verfügbaren Stellenprozente für die Schulleitung sind möglich.
 
 <sup>1<sup>ter</sup></sup> Der Beschäftigungsgrad eines Schulleitungsmitglieds (inklusive allfälliger Unterrichtstätigkeit) darf nicht über 100 % liegen. Ein Schulleitungsmitglied kann sich in der Funktion als Lehrperson darüber hinaus Mehrlektionen weder anrechnen noch auszahlen lassen. Allfällig unterjährige Minder- oder Mehrlektionen müssen kompensiert werden. Mehrlektionen können nicht ausbezahlt werden.
 
-<sup>2</sup> Dem Gymnasium, dessen Rektorin oder Rektor die Hauptabteilung Mittelschulen der Dienststelle BMH leitet, stehen zusätzliche Personalressourcen im Umfang von maximal 70 % zur Verfügung. Diese können in der Schulleitung oder im administrativen Bereich eingesetzt werden.
+<sup>2</sup> Für die Schulleitungskonferenzen der Sekundarstufe II stehen insgesamt 50 Stellenprozente zur Verfügung. Davon entfallen 30 Stellenprozente auf den Vorstand der Schulleitungskonferenz der Gymnasien und 20 Stellenprozente auf die Schulleitungskonferenz der Berufsfachschulen.
 
 #### § 17
 
@@ -302,16 +335,16 @@ beschliesst:
 
 **Pflichtenheft**
 
-<sup>1</sup> Das Pflichtenheft der Schulleitung umfasst folgende Aufgaben:
+<sup>1</sup> Die Aufgaben der Schulleitung richten sich grundsätzlich nach den Bestimmungen des Bildungsgesetzes. Darüber hinaus umfasst das Pflichtenheft folgende Aufgaben:
 
 - a. Sie teilt den Lehrerinnen und Lehrern die Klassen, Pensen und Räume zu;
 - b. sie genehmigt die Stundenpläne;
 - c. sie besucht die Lehrerinnen und Lehrer im Unterricht;
-- d. sie führt die Mitarbeiterinnen- und Mitarbeitergespräche durch und führt die Personalakten;
+- d. sie führt die Personalakten;
 - e. sie sorgt in Konfliktfällen für einen korrekten Verfahrensablauf;
-- f. sie arbeitet zusammen mit dem Lehrerinnen- und Lehrerkonvent das Schulprogramm und schulinterne Erlasse aus und hat dabei die Federführung;
-- g. sie führt im Auftrag des Schulrates die interne Evaluation der Schule durch;
-- h. sie setzt im Auftrag des Schulrates die Ergebnisse der internen und externen Evaluation um;
+- f. sie arbeitet zusammen mit dem Lehrerinnen- und Lehrerkonvent schulinterne Erlasse aus und hat dabei die Federführung;
+- g. …
+- h. …
 - i. sie zieht bei Bedarf Fachpersonen und ausgebildete Mentorinnen und Mentoren bei;
 - j. sie bewilligt Reisen, Lager, Schulverlegungen und weiteren Spezialunterricht;
 - k. sie berät die Schülerinnen und Schüler sowie die Erziehungsberechtigten in Schulfragen;
@@ -319,9 +352,10 @@ beschliesst:
 - m. sie kann Schülerinnen und Schüler bei ausserordentlichen Ereignissen und Anlässen beurlauben;
 - n. sie sorgt in Absprache mit dem Lehrerinnen- und Lehrerkonvent für eine einheitliche Beurlaubungspraxis für Schülerinnen und Schüler innerhalb der Schule und spricht diese mit anderen Schulen im Einzugsgebiet ab;
 - o. sie sorgt in Absprache mit dem Lehrerinnen- und Lehrerkonvent für eine einheitliche Disziplinarpraxis gegenüber Schülerinnen und Schülern;
-- p. sie erstellt zuhanden der vorgesetzten Instanzen das Budget und die Abrechnung der Schule und führt die Budgetkontrolle;
+- p. …
 - q. sie leitet das Sekretariat der Schule;
-- r. sie beantragt dem Schulrat die Ermahnung oder das Aussprechen einer Busse gegenüber den Erziehungsberechtigten.
+- r. …
+- s. sie bestimmt ihre Vertretung im Schulrat, auf der Primarstufe sofern ein solcher besteht, sowie im Wahlgremium auf der Sekundarstufe I und II.
 
 <sup>2</sup> Der Aufgabenkatalog kann nach den Bedürfnissen der Schularten und Schulen ergänzt werden.
 
@@ -356,11 +390,7 @@ beschliesst:
 
 #### § 23
 
-**Unterrichtsbesuche durch Mitglieder des Schulrates**
-
-<sup>1</sup> Die Mitglieder des Schulrates können bei Lehrerinnen und Lehrern ihrer Schule nach vorheriger Absprache Unterrichtsbesuche durchzuführen.
-
-<sup>2</sup> Sie verschaffen sich dabei einen Einblick in die Arbeit der Schule und ihrer Lehrerinnen und Lehrer.
+**…**
 
 ## 6 Mitarbeiterinnen- und Mitarbeitergespräch
 
@@ -376,7 +406,7 @@ beschliesst:
 
 <sup>1</sup> Das Mitarbeiterinnen- und Mitarbeitergespräch mit den Mitarbeiterinnen und Mitarbeitern der Schulsekretariate wird gemäss der Personalgesetzgebung, welcher die betreffende Mitarbeiterin oder der betreffende Mitarbeiter unterstellt ist, durchgeführt.
 
-### 6.2 Mitarbeiterinnen- und Mitarbeitergespräch mit Lehrerinnen und Lehrern
+### 6.2
 
 #### § 26
 
@@ -400,15 +430,17 @@ beschliesst:
 
 #### § 31
 
-**Mitarbeiterinnen- und Mitarbeitergespräch mit Mitgliedern der Schulleitung**
+**Mitglieder der Schulleitung**
 
-<sup>1</sup> Das Mitarbeiterinnen- und Mitarbeitergespräch mit den Mitgliedern der Schulleitung wird von der Präsidentin oder dem Präsidenten oder einer Delegation des Schulrates durchgeführt.
+<sup>1</sup> An den kommunalen Schulen wird das Mitarbeitendengespräch mit der Rektorin oder dem Rektor bzw. den Co-Rektorinnen und Co-Rektoren bzw., wenn die Schulleitung nicht hierarchisiert ist, mit den Mitgliedern der Schulleitung von der Präsidentin oder dem Präsidenten des Schulrats oder, sofern die Einwohnergemeinde die Aufgabe des Schulrats an den Gemeinderat delegiert hat, vom zuständigen Mitglied des Gemeinderats oder von einer Delegation der Anstellungsbehörde durchgeführt.
 
-<sup>2</sup> Beim Leitungsmodell mit Rektorat wird das Mitarbeiterinnen- und Mitarbeitergespräch mit den Konrektorinnen resp. den Konrektoren durch die Rektorin resp. den Rektor geführt.
+<sup>1<sup>bis</sup></sup> An den kantonalen Schulen wird das Mitarbeitendengespräch mit der Rektorin oder dem Rektor bzw. den Co-Rektorinnen und Co-Rektoren bzw., wenn die Schulleitung nicht hierarchisiert ist, mit den Mitgliedern der Schulleitung von der vorgesetzten Stelle der BKSD zusammen mit der Schulratspräsidentin oder dem Schulratspräsidenten durchgeführt.
 
-<sup>3</sup> Dabei wird auf die Führungskompetenz der Schulleitungsmitglieder und bei gleichzeitiger Unterrichtstätigkeit auf die Beurteilung ihres Unterrichts eingegangen. Der Schulrat, die Rektorin oder der Rektor ohne pädagogische Ausbildung können für die Beurteilung der Unterrichtstätigkeit eine Fachperson beiziehen.
+<sup>2</sup> Beim Leitungsmodell mit Rektorat wird das Mitarbeitendengespräch mit den Konrektorinnen resp. den Konrektoren durch die Rektorin resp. den Rektor geführt.
 
-### 6.3 Konfliktfälle
+<sup>3</sup> Dabei wird auf die Führungskompetenz der Schulleitungsmitglieder und bei gleichzeitiger Unterrichtstätigkeit auf die Beurteilung ihres Unterrichts eingegangen. Die Anstellungsbehörde kann für die Beurteilung der Unterrichtstätigkeit eine Fachperson beiziehen.
+
+### 6.3
 
 #### § 32
 
@@ -418,13 +450,13 @@ beschliesst:
 
 #### § 32a
 
-**Primarstufe**
+**Kommunale Schulen**
 
-<sup>1</sup> Der Schulrat setzt auf Antrag der Schulleitung an den Schulen der Primarstufe Sekretäre und Sekretärinnen ein.
+<sup>1</sup> Die Schulleitung stellt an den kommunalen Schulen die Mitarbeitenden des Schulsekretariats ein, sofern das Sekretariat nicht von der Gemeindeverwaltung angestellt wird. In diesem Fall bezieht die Gemeindeverwaltung die Schulleitung in den Anstellungsprozess ein.
 
 <sup>2</sup> Die Lohnzahlung erfolgt durch die Gemeinde.
 
-<sup>3</sup> Das Sekretariat kann auf der Gemeindeverwaltung geführt werden.
+<sup>3</sup> …
 
 #### § 32b
 
@@ -446,7 +478,7 @@ beschliesst:
 
 **Sekundarstufe I**
 
-<sup>1</sup> Der Schulrat setzt auf Antrag der Schulleitung an den Schulen der Sekundarstufe I Sekretärinnen und Sekretäre ein.
+<sup>1</sup> Die Schulleitung setzt an den Schulen der Sekundarstufe I Sekretärinnen und Sekretäre ein.
 
 <sup>2</sup> Die Lohnzahlung erfolgt durch den Kanton.
 
@@ -480,7 +512,7 @@ beschliesst:
 
 **Befristete Umwandlung**
 
-<sup>1</sup> Bei speziellem Bedarf kann an den Volksschulen auf Antrag der Schulleitung beim Schulrat die Schulleitungszeit in Sekretariatszeit und umgekehrt umgewandelt werden. Der Umrechnungsfaktor erschliesst sich aus der Lohnbanddifferenz zwischen Schulleitung und Sekretariat. Die Umwandlung ist immer befristet und bedarf einer schriftlichen Anzeige mit Begründung an die Personalabteilung der BKSD.
+<sup>1</sup> Bei speziellem Bedarf kann auf der Primarstufe auf Antrag der Schulleitung bei der Anstellungsbehörde und auf den Sekundarstufen I und II auf Antrag der Schulleitung bei der zuständigen Dienststelle der BKSD die Schulleitungszeit in Sekretariatszeit umgewandelt werden. Der Umrechnungsfaktor erschliesst sich aus der Lohnbanddifferenz zwischen Schulleitung und Sekretariat. Die Umwandlung ist immer befristet und bedarf einer schriftlichen Anzeige mit Begründung an die Abteilung Personal der BKSD.
 
 ## 8 Schlussbestimmungen
 
