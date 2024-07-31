@@ -1,72 +1,75 @@
 ---
 canton: VS
 number: "413.111"
-title: Règlement de la maturité spécialisée option «social» du canton du Valais
+title: "Règlement de la maturité spécialisée domaine \"travail social\" du canton du Valais"
 short: RMSSo
 language: fr
-version: 2010-09-01
-corrected: 2017-07-05
-version_adopted: 2011-09-28
+version: 2024-08-01
+version_adopted: 2024-06-19
 adopted: 2011-09-28
 in_force: 2010-09-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/413.111"
-pdf: "https://lex.vs.ch/api/fr/versions/515/pdf_file"
-text: pdf
+pdf: "https://lex.vs.ch/api/fr/versions/3331/pdf_file"
 ---
 
-> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi. Le canton ne publie cette version qu’en PDF : le texte en est extrait, la structure déduite de la mise en page.
+> Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
-# Règlement de la maturité spécialisée option «social» du canton du Valais
+# Règlement de la maturité spécialisée domaine "travail social" du canton du Valais
 
-du 28 septembre 2011
+(RMSSo)
+
+du 28.09.2011 (état 01.08.2024)
 
 Le Conseil d'Etat du canton du Valais
 
-vu la loi sur l'instruction publique du 4 juillet 1962;
+vu la loi sur l'instruction publique du 4 juillet 1962 (LIP);
 
-vu le règlement de la CDIP relatif à la reconnaissance des certificats délivrés par les ecoles de culture générale du 12 juin 2003;
+vu la loi fédérale sur l'encouragement des hautes écoles et la coordination dans le domaine suisse des hautes écoles du 30 septembre 2011 (LEHE);
 
-vu le règlement de l’école de culture générale du 3 juin 2008;
+vu le règlement de la CDIP concernant la reconnaissance des certificats délivrés par les écoles de culture générale du 25 octobre 2018;
 
-vu la loi fédérale sur les Hautes écoles spécialisées du 6 octobre 1995, en particulier son article 5 dans la teneur du 17 décembre 2004;
+vu le règlement de l’école de culture générale du 15 août 2021;
 
-vu les directives d’admission dans le domaine du travail social HES-SO, version du 16 octobre 2008;
+vu le règlement d'admission en Bachelor HES-SO du 26 mai 2011;
 
-vu la reconnaissance par la CDIP des écoles de culture générale du Valais du 26 juin 2009;
+vu le règlement d'admission en Bachelor of Arts HES-SO en Travail social du 23 novembre 2021;
 
-sur la proposition du Département de l’éducation, de la culture et du sport (ci-après: Département),
+vu la reconnaissance par la CDIP des écoles de culture générale du Valais du 29 juin 2021;
 
-arrête:
+sur la proposition du département en charge de la formation,
 
-### Section 1: Généralités
+ordonne:[^ingress-1]
+
+[^ingress-1]: Dans le présent règlement, toute désignation de personne, de statut ou de fonction vise indifféremment l'homme ou la femme.
+
+## 1 Généralités
 
 #### Art. 1
 
-**Champ d’application**
+**Champ d'application**
 
-<sup>1</sup> Le présent règlement définit les conditions d'admission et de promotion dans l’année de maturité spécialisée orientation sociale (MS So) du canton du Valais.
+<sup>1</sup> Le présent règlement définit les conditions d'admission et de promotion dans l’année de maturité spécialisée domaine "travail social" (ci-après: MS So) du canton du Valais.
 
 <sup>2</sup> Il fixe les modalités de l'organisation et du déroulement de l'année.
 
-<sup>3</sup> Dans le présent règlement, toute désignation de personnes, de statut ou de fonction s’entend indifféremment au féminin et au masculin.
+<sup>3</sup> …
 
 #### Art. 2
 
 **Définition**
 
-L'année de MS So est une filière de l'enseignement secondaire du deuxième degré général.
+<sup>1</sup> L'année de MS So est une filière de l'enseignement secondaire du deuxième degré général.
 
 #### Art. 3
 
 **Objectifs**
 
-<sup>1</sup> Elle délivre un certificat de maturité spécialisée reconnu par la Conférence suisse des directeurs cantonaux de l'instruction publique (CDIP).
+<sup>1</sup> Elle délivre un certificat de maturité spécialisée reconnu par la Conférence suisse des directeurs cantonaux de l'instruction publique (ci-après: CDIP).
 
 <sup>2</sup> L’organisation de la MS So repose sur les objectifs fondamentaux suivants:
 
-- a) permettre aux étudiants d’avoir un accès direct à la HES SO Travail social;
-
-- b) attester des connaissances, des savoir-faire et une aptitude générale à accéder à une formation de niveau HES en travail social.
+- a) permettre aux étudiants d'avoir un accès direct à la HES-SO Travail social;
+- b) attester des connaissances, des savoir-faire et d'une aptitude générale à accéder à une formation de niveau HES en travail social.
 
 <sup>3</sup> La MS So favorise le développement de la personnalité de l’élève en renforçant ses compétences personnelles et sociales.
 
@@ -76,43 +79,35 @@ L'année de MS So est une filière de l'enseignement secondaire du deuxième deg
 
 <sup>1</sup> L'Etat du Valais reconnaît le certificat de MS So relevant:
 
-- a) de l’Oberwalliser Mittelschule St-Ursula à Brig-Glis;
-
-- b) de l’Ecole de commerce et de culture générale de Sierre;
-
-- c) de l’Ecole de commerce et de culture générale de Sion;
-
-- d) de l’Ecole de commerce et de culture générale de Martigny;
-
-- e) de l’Ecole de commerce et de culture générale de Monthey.
+- a) de l'Oberwalliser Mittelschule St-Ursula à Brig-Glis;
+- b) de l'Ecole de commerce et de culture générale de Sierre;
+- c) de l'Ecole de commerce et de culture générale de Sion;
+- d) de l'Ecole de commerce et de culture générale de Martigny;
+- e) de l'Ecole de commerce et de culture générale de Monthey.
 
 <sup>2</sup> Cette liste peut être modifiée par le Conseil d'Etat.
 
-### Section 2: Admission et organisation de la formation
+## 2 Admission et organisation de la formation
 
 #### Art. 5
 
 **Admission**
 
-L’admission à la MS So est conditionnée par:
+<sup>1</sup> L’admission à la MS So est conditionnée par:
 
-- a) l’obtention du certificat de culture générale en option «social»;
-
-- b) la validation par l’ECG de douze semaines de stages pratiques préalables;
-
-- c) l’obtention d’un contrat de stage de 20 semaines au moins dans le domaine social.
+- a) l'obtention du certificat de culture générale domaine "travail social";
+- b) la validation par l'ECG de 8 semaines de stages pratiques préalables;
+- c) l'obtention d'un contrat de stage de 24 semaines au moins dans le domaine social.
 
 #### Art. 6
 
 **Contenu de la formation**
 
-La MS So comprend:
+<sup>1</sup> La MS So comprend:
 
-- a) le certificat ECG, option «social»;
-
+- a) le certificat ECG, domaine "travail social";
 - b) des stages pratiques;
-
-- c) un travail de maturité en lien avec le domaine social.
+- c) un travail de maturité spécialisée en lien avec le domaine social.
 
 #### Art. 7
 
@@ -120,53 +115,72 @@ La MS So comprend:
 
 <sup>1</sup> Les stages pratiques comprennent 40 semaines de stage dont au minimum:
 
-- a) douze semaines de stages spécifiques ou non préalables à l’inscription en MS So dont six, en principe consécutives, après l’obtention du certificat de culture générale;
+- a) 8 semaines de stages spécifiques ou non préalables à l'inscription en MS So dont 6 semaines, en principe consécutives, après l'obtention du certificat de culture générale;
+- b) 24 semaines de stage dans le champ social placées sous la responsabilité de l'ECG;
+- c) 8 semaines d'expériences professionnelles spécifiques ou non, réalisées avant ou après l'entrée en MS So et attestées par l'employeur.
 
-- b) 20 semaines de stage dans le champ social placées sous la responsabilité de l’ECG;
+<sup>2</sup> Le travail de maturité spécialisée est réalisé dans le domaine social. Il est présenté sous la forme d’un rapport attestant de la capacité du candidat à mener une réflexion personnelle approfondie sur le stage spécifique effectué. Il doit consister en un document écrit et être défendu oralement.
 
-- c) huit semaines d’expériences professionnelles spécifiques ou non, réalisées avant ou après l’entrée en MS So et attestées par l’employeur.
+<sup>3</sup> Les modalités d’organisation des stages et du travail de maturité sont précisées dans les directives du département en charge de la formation (ci-après: le Département) relatives à l’organisation de la MS So.
 
-<sup>2</sup> Le travail de maturité est réalisé dans le domaine social. Il est présenté sous la forme d’un rapport attestant de la capacité du candidat à mener une réflexion personnelle approfondie sur le stage spécifique effectué. Il doit consister en un document écrit et être défendu oralement.
+#### Art. 7a
 
-<sup>3</sup> Les modalités d’organisation des stages et du travail de maturité sont précisées dans les directives relatives à l’organisation de la MS So.
+**Mention bilingue**
 
-### Section 3: Certification
+<sup>1</sup> L’admission à la filière bilingue de la MS So est soumise à l'une des conditions non-cumulatives suivantes:
+
+- a) l’obtention d’un certificat ECG bilingue français-allemand ou allemand-français domaine "travail social";
+- b) l’obtention d’un certificat ECG bilingue français-anglais domaine "travail social", ou
+- c) l’obtention d’un certificat de langue reconnu de niveau B2 dans la langue d’immersion.
+
+<sup>2</sup> Pour obtenir une MS So mention bilingue, l’étudiant doit attester au moins de 200 heures d’activités dans la langue d’immersion.
+
+<sup>3</sup> Peuvent entrer dans le calcul des 200 heures prévues à l'alinéa 2 du présent article:
+
+- a) le travail de maturité spécialisée compte pour 100 heures d’activité dans la langue d’immersion à condition d’être rédigé et défendu oralement dans cette langue ou pour 20 heures s'il est rédigé dans la langue première, mais présenté oralement dans la langue d’immersion;
+- b) la réalisation du stage spécifique lié au domaine professionnel dans la langue d'immersion (24 semaines). Le temps effectif de travail dans la langue d’immersion peut être comptabilisé;
+- c) la réalisation d’une expérience professionnelle spécifique ou non dans la langue d’immersion. Le temps effectif de travail, attesté par l’employeur, dans la langue d’immersion peut être comptabilisé.
+
+<sup>4</sup> Dans les activités concernées par l'enseignement par immersion, le niveau des objectifs et du contenu de la formation ainsi que celui des critères d'évaluation est maintenu.
+
+## 3 Certification
 
 #### Art. 8
 
 **Validation de la formation**
 
-<sup>1</sup> Les stages pratiques spécifiques de 20 semaines ou plus sont validés par l’ECG, en collaboration avec la HES filière travail social et l’établissement où a lieu le stage.
+<sup>1</sup> Les stages pratiques spécifiques de 24 semaines ou plus sont validés par l’ECG, en collaboration avec la HES filière travail social et l’établissement où a lieu le stage.
 
-<sup>2</sup> Le travail de maturité est validé par l’ECG, en collaboration avec la HES filière travail social.
+<sup>2</sup> Le travail de maturité spécialisée est validé par l’ECG, en collaboration avec la HES filière travail social.
 
-<sup>3</sup> Les modalités de validation des stages pratiques et du travail de maturité sont précisées dans les directives relatives à l’organisation de la MS So.
+<sup>3</sup> Les modalités de validation des stages pratiques et du travail de maturité sont précisées dans les directives du département relatives à l’organisation de la MS So.
 
 #### Art. 9
 
 **Obtention du titre**
 
-La MS So est obtenue si le stage spécifique a été validé et si le travail de maturité spécialisée exécuté, rendu dans les délais et défendu oralement, a obtenu au moins la mention «suffisant».
+<sup>1</sup> La MS So est obtenue si le stage spécifique a été validé et si le travail de maturité spécialisée exécuté, rendu dans les délais et défendu oralement, a obtenu au moins la mention "suffisant".
 
 #### Art. 10
 
-**Inscription à la soutenance du travail de maturité**
+**Inscription à la soutenance du travail de maturité spécialisée**
 
-Les candidats doivent déposer auprès de la direction de leur école, conformément aux directives du département:
+<sup>1</sup> Les candidats doivent déposer auprès de la direction de leur école, conformément aux directives du département:
 
-- a) une demande écrite d'admission selon formulaire d'inscription officielle;
-
-- b) une attestation de paiement de la finance d'inscription.
+- a) une demande écrite d'admission selon le formulaire d'inscription officielle;
+- b) une attestation du paiement de la finance d'inscription.
 
 #### Art. 11
 
-Fraude ou plagiat dans le cadre du travail de maturité spécialisée Toute fraude est passible d’une sanction qui va de l’échec à la session de MS So à la perte de tout droit à la maturité spécialisée.
+**Fraude ou plagiat dans le cadre du travail de maturité spécialisée**
+
+<sup>1</sup> Toute fraude ou plagiat est passible d’une sanction qui va de l’échec à la session de MS So à la perte de tout droit à la maturité spécialisée.
 
 #### Art. 12
 
 **Présence de tiers**
 
-Seuls sont admis à assister à la soutenance du travail de maturité, le répondant ECG, l'expert, le répondant de l’établissement de stage, le directeur de l'établissement, l'inspecteur, les délégués du département et de la CDIP.
+<sup>1</sup> Seuls sont admis à assister à la soutenance du travail de maturité, le répondant ECG, l'expert, le répondant de l’établissement de stage, le directeur de l'établissement, l'inspecteur, les délégués du département et de la CDIP.
 
 #### Art. 13
 
@@ -174,7 +188,7 @@ Seuls sont admis à assister à la soutenance du travail de maturité, le répon
 
 <sup>1</sup> En cas de non validation du stage spécifique, celui-ci doit être refait.
 
-<sup>2</sup> En cas d’échec au travail de maturité, celui-ci doit être refait dans le cadre d’un nouveau stage de 20 semaines effectives au minimum.
+<sup>2</sup> En cas d’échec au travail de maturité spécialisée, celui-ci doit être refait dans le cadre d’un nouveau stage de 24 semaines effectives au minimum.
 
 <sup>3</sup> Dans les deux cas ci-dessus, un deuxième échec est un échec définitif à la MS So.
 
@@ -182,66 +196,62 @@ Seuls sont admis à assister à la soutenance du travail de maturité, le répon
 
 **Indications figurant sur le certificat**
 
-Le certificat de MS So, délivré par le Département, porte les indications suivantes:
+<sup>1</sup> Le certificat de MS So, délivré par le département, porte les indications suivantes:
 
-- a) la dénomination de l'école et du canton où l'école a son siège,
-
-- b) la mention de l’option choisie,
-
-- c) les données personnelles du titulaire du certificat,
-
-- d) la mention de la reconnaissance à l’échelon national du certificat de MS So,
-
-- e) les notes obtenues dans les branches du certificat ECG,
-
-- f) le sujet et l’appréciation du travail personnel,
-
-- g) le sujet et l’appréciation du travail de maturité,
-
-- h) la validation des stages pratiques,
-
-- i) la signature de la direction de l'école et de l'instance cantonale compétente,
-
+- a) la dénomination de l'école et du canton;
+- b) la mention de l'option choisie;
+- c) les données personnelles du titulaire du certificat;
+- d) la mention indiquant que le certificat de maturité spécialisée est reconnu à l'échelon national;
+- d<sup>bis</sup>) le nom du domaine professionnel choisi;
+- e) la validation et l'appréciation des disciplines de formation générale;
+- e<sup>bis</sup>) la validation et l'appréciation des disciplines en relation avec le domaine professionnel;
+- f) la validation du sujet et l'appréciation du travail personnel;
+- g) le sujet et l'appréciation du travail de maturité spécialisée;
+- h) la validation des stages pratiques;
+- h<sup>bis</sup>) la validation et l'appréciation des prestations complémentaires;
+- i) la signature de la direction de l'école et du département;
 - j) le lieu et la date.
 
-### Section 4: Procédure de recours
+## 4 Procédure de recours
 
 #### Art. 15
 
 **Procédure**
 
-Les décisions prises en application du présent règlement sont soumises aux dispositions de la loi sur la procédure et la juridiction administratives (LPJA) du 6 octobre 1976.
+<sup>1</sup> Les décisions prises en application du présent règlement sont soumises aux dispositions de la loi sur la procédure et la juridiction administratives (LPJA).
 
 #### Art. 16
 
 **Recours**
 
-<sup>1</sup> Les décisions du Département sont susceptibles de recours au Conseil d'Etat dans les 30 jours ou, s’il s’agit d’une décision incidente (art. 41 al. 2 et 42 LPJA), dans les dix jours dès sa notification.
+<sup>1</sup> Les décisions du département sont susceptibles de recours au Conseil d'Etat dans les 30 jours ou, s’il s’agit d’une décision incidente (art. 41 al. 2 et 42 LPJA), dans les 10 jours dès sa notification.
 
 <sup>2</sup> Peuvent notamment faire l'objet de recours les décisions concernant:
 
 - a) les sanctions en cas de fraude;
-
 - b) le refus de délivrer la maturité (échec);
-
 - c) la non validation du stage spécifique.
 
-### Section 5: Dispositions finales
+## 5 Dispositions finales
 
 #### Art. 17
 
 **Cas non prévus**
 
-<sup>1</sup> Au surplus, les élèves sont soumis aux dispositions du règlement général concernant les établissements de l'enseignement secondaire du deuxième degré du 17 décembre 2003 ainsi qu'aux dispositions du Département.
+<sup>1</sup> Au surplus, les élèves sont soumis aux dispositions du règlement général concernant les établissements de l'enseignement secondaire du deuxième degré ainsi qu'aux dispositions du département.
 
-<sup>2</sup> Tous les cas non prévus sont du ressort du Département.
+<sup>2</sup> Tous les cas non prévus sont du ressort du département.
 
 #### Art. 18
 
 **Entrée en vigueur**
 
-Le présent règlement entre en vigueur avec effet rétroactif au début de l'année scolaire 2010/11.
+<sup>1</sup> Le présent règlement entre en vigueur avec effet rétroactif au début de l'année scolaire 2010-2011.
 
-Ainsi adopté en Conseil d’Etat, à Sion, le 28 septembre 2011.
+## T1 Disposition transitoire de la modification du 19 juin 2024
 
-Le président du Conseil d'Etat: Jacques Melly Le chancelier d'Etat: Philipp Spörri
+#### Art. T1-1
+
+<sup>1</sup> Les élèves ayant commencé leurs études avant l'année scolaire 2024/2025 et ayant redoublé leur année de maturité spécialisée sont soumis au présent règlement dans sa teneur au 1<sup>er</sup> août 2024 pour la suite de leur cursus.
+
+RCV BO/Abl. 46/2011
