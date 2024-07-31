@@ -4,13 +4,13 @@ number: "411.011"
 title: Standeskommissionsbeschluss zum Schulgesetz
 short: StKB SchG
 language: de
-version: 2023-08-01
-corrected: 2023-07-27
-version_adopted: 2023-06-20
+version: 2024-08-01
+valid_until: 2025-07-31
+version_adopted: 2024-06-18
 adopted: 2005-08-16
 in_force: 2005-08-01
 url: "https://ai.clex.ch/app/de/texts_of_law/411.011"
-pdf: "https://ai.clex.ch/api/de/versions/2227/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2293/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://ai.clex.ch/api/de/versions/2227/pdf_file"
 
 (StKB SchG)
 
-vom 16.08.2005 (Stand 01.08.2023)
+vom 16.08.2005 (Stand 01.08.2024)
 
 Die Standeskommission des Kantons Appenzell I.Rh.,
 
