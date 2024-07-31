@@ -4,13 +4,13 @@ number: "640.21"
 title: Verordnung über die schulische Laufbahn
 short: Laufbahnverordnung
 language: de
-version: 2023-08-01
-valid_until: 2024-07-31
-version_adopted: 2023-06-20
+version: 2024-08-01
+valid_until: 2025-07-31
+version_adopted: 2024-06-25
 adopted: 2013-06-11
 in_force: 2014-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/640.21"
-pdf: "https://bl.clex.ch/api/de/versions/3919/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3948/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3919/pdf_file"
 
 (Laufbahnverordnung)
 
-Vom 11.06.2013 (Stand 01.08.2023)
+Vom 11.06.2013 (Stand 01.08.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -88,7 +88,7 @@ beschliesst:
 
 **Formen der Beurteilung**
 
-<sup>1</sup> Die Leistungsbeurteilung beurteilt anhand der Bezugsnormen die Lernleistungen bzw. den Kompetenzstand der Schülerin oder des Schülers. In bezeichneten, schulischen Beurteilungssituationen bildet sie die Grundlage für das Zeugnis und den Beförderungsentscheid.
+<sup>1</sup> Die Leistungsbeurteilung misst anhand der Bezugsnormen die Lernleistungen bzw. den Kompetenzstand der Schülerin oder des Schülers. In bezeichneten, schulischen Beurteilungssituationen bildet sie die Grundlage für das Zeugnis und den Beförderungsentscheid.
 
 <sup>2</sup> Die Gesamtbeurteilung umfasst eine Gesamtwertung unter Einbezug des Lern-, Arbeits- und Sozialverhaltens, der Persönlichkeitsentwicklung und der persönlichen und situativen Lernvoraussetzungen im Hinblick auf die mutmassliche weitere Entwicklung der Schülerin oder des Schülers und die Anforderungen der weiterführenden Ausbildungen.
 
@@ -247,7 +247,7 @@ beschliesst:
 
 **Reglemente**
 
-<sup>1</sup> Auf Antrag des Amts für Volksschulen, der Hauptabteilung Mittelschulen und der Hauptabteilung Berufsbildung der Dienststelle Berufsbildung, Mittelschulen und Hochschulen (BMH) erlässt die Bildungs-, Kultur- und Sportdirektion Reglemente zur Leistungsbeurteilung, insbesondere über die Art, Durchführung und Gewichtung der Leistungserhebungen, je für die einzelnen Bereiche.
+<sup>1</sup> Auf Antrag des Amts für Volksschulen, der Hauptabteilung Berufs- und Mittelschulen und der Hauptabteilung Berufsbildung der Dienststelle Berufsbildung, Mittelschulen und Hochschulen (BMH) erlässt die Bildungs-, Kultur- und Sportdirektion Reglemente zur Leistungsbeurteilung, insbesondere über die Art, Durchführung und Gewichtung der Leistungserhebungen, je für die einzelnen Bereiche.
 
 ## 1.3 Individuelle Beurteilung
 
@@ -323,7 +323,7 @@ beschliesst:
 
 <sup>2</sup> In den beiden folgenden Schuljahren entscheidet der Klassenkonvent auf der Grundlage des Berichts zum Sprachstand Deutsch als Zweitsprache, ob das Zeugnis aufgrund einer Gesamtbeurteilung oder mittels Prädikaten und Noten erfolgt. Bei der Gesamtbeurteilung erfolgt diese gemäss Abs. 1.
 
-<sup>3</sup> Für den Übertritt an eine weiterführende Schule oder in die duale Berufsbildung gelten die allgemeinen Übertrittsbedingungen. Die Abs. 1 und 2 kommen nicht zur Anwendung.
+<sup>3</sup> Für den Übertritt an eine weiterführende Schule oder in die duale Berufsbildung mit Berufsmaturität gelten die allgemeinen Übertrittsbedingungen. Die Abs. 1 und 2 kommen in der Regel nicht zur Anwendung. Die Hauptabteilung Berufs- und Mittelschulen der Dienststelle BMH kann auf Empfehlung der Schulleitung der Sekundarstufe I aus triftigen Gründen Ausnahmen bewilligen. Sie teilt die Ausnahmebewilligung der aufnehmenden Schule mit.
 
 <sup>4</sup> Schülerinnen und Schüler am Gymnasium und an der Fachmittelschule, die gemäss dem Reglement über die Förderung zugezogener Schülerinnen und Schüler in den Sprachen Deutsch und Französisch einen Förderunterricht während maximal 2 Schuljahren besuchen, wird die Note des Fachs, in der Förderunterricht besucht wird, im Zeugnis nicht angerechnet. Der Vermerk im Zeugnis lautet «keine Anrechnung der Note gemäss § 23 Abs. 4».
 
@@ -335,7 +335,7 @@ beschliesst:
 
 <sup>1</sup> Die Schulleitung kann auf Antrag des Klassenkonvents aufgrund von vorübergehenden Umständen, welche die Schülerin oder den Schüler im Lernen erheblich behindern, nötigenfalls auf der Grundlage der Abklärung durch eine Fachstelle, von den Bestimmungen dieser Verordnung abweichen. Der Vermerk im Zeugnis lautet «Leistungsbeurteilung gemäss § 24 Abs. 1».
 
-<sup>2</sup> Beim Übertritt von der Primarstufe in die Sekundarstufe I und von der Sekundarstufe I in die Sekundarstufe II sowie im letzten Unterrichtsjahr eines Fachs kommt Abs. 1 nicht zur Anwendung.
+<sup>2</sup> Beim Übertritt von der Primarstufe in die Sekundarstufe I und von der Sekundarstufe I in die Sekundarstufe II sowie im letzten Unterrichtsjahr eines Fachs kommt Abs. 1 in der Regel nicht zur Anwendung. Die Schulleitung der abgebenden Schule kann aus triftigen Gründen Ausnahmen bewilligen. Der Vermerk im Zeugnis lautet «Leistungsbeurteilung gemäss § 24 Abs. 2».
 
 ## 2 Regelungen zu den einzelnen Schulstufen und Übertritte
 
@@ -371,11 +371,15 @@ beschliesst:
 
 <sup>1</sup> In der Mitte jeden Schuljahres führt die Klassenlehrerin oder der Klassenlehrer ein Standortgespräch mit den Erziehungsberechtigten auf der Grundlage der Leistungsbeurteilung, der Gesamtbeurteilung, der allgemeinen Lerndiagnostik und der Selbsteinschätzung durch.
 
+<sup>1<sup>bis</sup></sup> Ist das Erreichen der Grundanforderungen in den Fächern Deutsch und Mathematik bis Ende der 2. Klasse ernsthaft gefährdet, führt die Klassenlehrerin oder der Klassenlehrer Ende der 1. Klasse ein zusätzliches Standortgespräch mit den Erziehungsberechtigten durch.
+
 <sup>2</sup> In der 3. und in der 6. Klasse fliessen die Ergebnisse aus den Checks, in der 5. und 6. Klasse zudem die Überlegungen zur beruflichen Orientierung der Schülerin oder des Schülers, in das Standortgespräch mit ein.
 
 <sup>3</sup> Über das Gespräch wird eine Aktennotiz erstellt. Diese enthält Aussagen zur schulischen Leistung sowie eine Beurteilung des Lern-, Arbeits- und Sozialverhaltens. Das Amt für Volksschulen legt die Beurteilungskriterien fest.
 
-<sup>4</sup> In der 1. und 2. Klasse wird die Leistung in allen Fächern gemäss Anhang mit Prädikaten bewertet.
+<sup>3<sup>bis</sup></sup> Am Ende der 1. Klasse erstellt die Klassenlehrerin oder der Klassenlehrer einen ressourcenorientierten Lernbericht auf der Grundlage der Leistungsbeurteilung, der Gesamtbeurteilung und der allgemeinen Lerndiagnostik.
+
+<sup>4</sup> In der 2. Klasse wird die Leistung in allen Fächern gemäss Anhang mit Prädikaten bewertet.
 
 <sup>5</sup> In der 3. bis 6. Klasse wird die Leistung gemäss Anhang wie folgt bewertet:
 
@@ -388,13 +392,13 @@ beschliesst:
 
 **Zeugnis und Beförderungsentscheid**
 
-<sup>1</sup> Im Kindergarten erfolgt kein Beförderungsentscheid.
+<sup>1</sup> Im Kindergarten und in der 1. Klasse der Primarschule erfolgt kein Beförderungsentscheid.
 
 <sup>2</sup> In der Primarschule erfolgt der Entscheid über die Beförderung oder Nichtbeförderung jährlich Ende Schuljahr mit dem Zeugnis.
 
 #### § 30
 
-**Beförderung in der 1. und 2. Klasse der Primarschule**
+**Beförderung in der 2. Klasse der Primarschule**
 
 <sup>1</sup> Die Beförderung erfolgt, wenn die Schülerin oder der Schüler in den Fächern Deutsch und Mathematik die Grundanforderungen erfüllt hat.
 
@@ -450,11 +454,17 @@ beschliesst:
 
 <sup>1</sup> Die Klassenlehrerin oder der Klassenlehrer bespricht in der 6. Klasse der Primarschule mit den Erziehungsberechtigten im Rahmen des jährlichen Standortgesprächs den Übertritt und unterbreitet ihren oder seinen Vorschlag für die Zuweisung der Schülerin oder des Schülers zum Leistungszug A, E oder P der Sekundarstufe I aufgrund des Zwischenstands in der Leistungsbeurteilung in allen Fächern und der Gesamtbeurteilung.
 
-<sup>2</sup> Im Anschluss an das Gespräch händigt die Klassenlehrerin oder der Klassenlehrer den Erziehungsberechtigten den schriftlichen Zuweisungsvorschlag aus.
+<sup>1<sup>bis</sup></sup> Sie oder er kann bei laufenden Massnahmen der Integrativen Speziellen Förderung mit individuellen Lernzielen oder bei einer Beschulung in einer Kleinklasse nach Rücksprache mit der schulischen Heilpädagogin oder dem schulischen Heilpädagogen eine Empfehlung für die weitere Spezielle Förderung abgeben.
 
-<sup>3</sup> Sind die Erziehungsberechtigten mit dem Vorschlag einverstanden, erheben sie diesen mit ihrer Unterschrift zum Antrag an die Schulleitung der Primarstufe.
+<sup>1<sup>ter</sup></sup> Besteht zwischen der Leistungsbeurteilung und der Gesamtbeurteilung eine Diskrepanz, welche zu einer von der Leistungsbeurteilung abweichenden Zuweisungsempfehlung führt, unterbreitet die Klassenlehrerin oder der Klassenlehrer ihren bzw. seinen schriftlich begründeten Zuweisungsvorschlag vorgängig der Schulleitung zur Genehmigung.
 
-<sup>4</sup> Sind die Erziehungsberechtigten mit dem Vorschlag nicht einverstanden, melden sie das Kind zur Übertrittsprüfung an.
+<sup>2</sup> Im Anschluss an das Gespräch händigt die Klassenlehrerin oder der Klassenlehrer den Erziehungsberechtigten den schriftlichen Zuweisungsvorschlag inklusiv einer allfälligen Empfehlung zur Speziellen Förderung aus.
+
+<sup>3</sup> Sind die Erziehungsberechtigten mit dem Zuweisungsvorschlag einverstanden, erheben sie diesen mit ihrer Unterschrift zum Antrag an die Schulleitung der Primarstufe.
+
+<sup>4</sup> Sind die Erziehungsberechtigten mit dem Zuweisungsvorschlag nicht einverstanden, melden sie das Kind zur Übertrittprüfung an.
+
+<sup>5</sup> Sind die Erziehungsberechtigten mit den empfohlenen Massnahmen der Speziellen Förderung auf der Sekundarstufe I einverstanden, erheben sie diese mit ihrer Unterschrift zum Antrag an die Schulleitung der Sekundarstufe I.
 
 #### § 36
 
@@ -557,7 +567,7 @@ beschliesst:
 
 <sup>2</sup> Die freiwillige Wiederholung kann auf schriftliches Gesuch der Erziehungsberechtigten von der Schulleitung in der Regel auf Schuljahresbeginn bewilligt werden.
 
-<sup>3</sup> Die freiwillige Wiederholung der 3. Klasse ist nicht zulässig.
+<sup>3</sup> Die freiwillige Wiederholung der 3. Klasse ist nicht zulässig. Die Schulleitung kann Ausnahmen aufgrund von fehlenden sprachlichen Voraussetzungen im Sinne von § 23 Abs. 2 oder vorübergehenden Leistungsstörungen im Sinne von § 24 Abs. 1 bewilligen.
 
 #### § 45
 
@@ -565,13 +575,13 @@ beschliesst:
 
 <sup>1</sup> Die Schülerin oder der Schüler kann ohne Wiederholung in den Leistungszug mit den nächsthöheren Anforderungen übertreten, wenn folgende 3 Bedingungen erfüllt sind:
 
-- a. Empfehlung des Klassenkonvents aufgrund der Gesamtbeurteilung;
+- a. Empfehlung des Klassenkonvents aufgrund der Gesamtbeurteilung gemäss § 5 Abs. 2;
 - b. Durchschnitt aller promotionsrelevanten Fächer von mindestens 5.0;
 - c. in der 1. Klasse eine Punktesumme (Summe aller Zeugnisnoten) von mindestens 40 für die einfach zählenden Zeugnisnoten in den Fächern Französisch und Englisch sowie die doppelt zählenden Zeugnisnoten in den Fächern Deutsch, Mathematik und Biologie;
 - d. in der 2. Klasse eine Punktesumme (Summe aller Zeugnisnoten) von mindestens 40 für die einfach zählenden Zeugnisnoten in den Fächern Französisch, Englisch, Biologie und Chemie sowie die doppelt zählenden Zeugnisnoten in den Fächern Deutsch und Mathematik;
 - e. …
 
-<sup>2</sup> Die Schülerin oder der Schüler kann mit Wiederholung in den Leistungszug mit den nächsthöheren Anforderungen übertreten, wenn mindestens eine der Bedingungen gemäss Abs. 1 erfüllt ist.
+<sup>2</sup> Die Schülerin oder der Schüler kann mit Wiederholung in den Leistungszug mit den nächsthöheren Anforderungen übertreten, wenn mindestens 2 Bedingungen gemäss Abs. 1 erfüllt sind.
 
 <sup>3</sup> Der Wechsel des Leistungszugs erfolgt in der Regel jeweils auf Schuljahresbeginn.
 
@@ -618,23 +628,44 @@ beschliesst:
 
 <sup>1</sup> Der Übertritt in den schulischen Teil der beruflichen Grundbildung setzt das Durchlaufen der Sekundarstufe I und das Vorliegen eines von der Hauptabteilung Berufsbildung der Dienststelle BMH genehmigten Lehrvertrages voraus.
 
+#### § 48bis
+
+**Ein- und Übertritt in das Integrationsangebot zur Vorbereitung auf die Sekundarstufe II (IAV Sek II)**
+
+<sup>1</sup> Jugendliche können in das IAV Sek II aufgenommen werden, wenn:
+
+- a. sie 16- oder 17-jährig (Stichdatum: 31. Juli) sind und
+- b. sie fremdsprachig sind und noch nicht über einen Sprachstand in Deutsch von mindestens A2 gemäss GER (Gemeinsamer europäischer Referenzrahmen für Sprachen) verfügen und daher den Volksschulabschluss nicht erhalten.
+
+#### § 48ter
+
+**Zugangsverfahren**
+
+<sup>1</sup> Die Bewerbung für den Besuch des Integrationsangebots zur Vorbereitung auf die Sekundarstufe II erfolgt durch das Online-Tool der Hauptabteilung Berufsbildung der Dienststelle BMH, Koordinationsstelle Brückenangebote.
+
+<sup>2</sup> Die Koordinationsstelle Brückenangebote erlässt den Zulassungsentscheid.
+
 #### § 48a
 
 **Ein- und Übertritt in ein Brückenangebot**
 
-<sup>1</sup> Jugendliche können in das schulische oder das kombinierte Brückenangebotsprofil aufgenommen werden, wenn:
+<sup>1</sup> Jugendliche können in das schulische oder das kombinierte Brückenangebotsprofil aufgenommen werden, wenn sie:
 
-- a. sie die Sekundarschule im Leistungszug A oder E durchlaufen haben und bei Eintritt ins Brückenangebot noch nicht 20 Jahre alt sind;
-- b. sie die Sekundarschule im letzten Schuljahr regelmässig besucht haben;
-- c. sie belegen können, dass sie sich in mehreren ihrem schulischen Potenzial entsprechenden Berufen erfolglos um eine Lehrstelle bemüht haben.
+- a. die Sekundarschule im Leistungszug A oder E durchlaufen haben und bei Eintritt ins Brückenangebot noch nicht 20 Jahre alt sind;
+- b. die Sekundarschule im letzten Schuljahr regelmässig besucht haben;
+- c. belegen können, dass sie sich in mehreren ihrem schulischen Potenzial entsprechenden Berufen erfolglos um eine Lehrstelle bemüht haben.
 
-<sup>2</sup> Jugendliche können in das integrative Brückenangebotsprofil aufgenommen werden, wenn sie auf der Sekundarstufe I beschult worden sind und dort nicht mehr beschult werden können, aber nachweislich noch nicht über ausreichende Deutschkenntnisse verfügen. Weiter können sie aufgenommen werden, wenn:
+<sup>2</sup> Jugendliche können in das integrative Brückenangebotsprofil aufgenommen werden, wenn sie:
 
-- a. sie spät eingereist und bei Beginn des Brückenangebots noch nicht 25 Jahre alt sind;
-- b. sie über einen Sprachstand in Deutsch von mindestens A2 gemäss GER (Gemeinsamer europäischer Referenzrahmen für Sprachen) verfügen;
-- c. sie über schulische Grundlagen, insbesondere in Mathematik, die den Einstieg in ein Brückenangebot oder in eine berufliche Grundbildung ermöglichen, verfügen;
-- d. sie Lern- und Leistungsbereitschaft sowie Arbeitsmotivation mitbringen und
-- e. sie nicht mehr in die Volksschule eintreten können.
+- a. auf der Sekundarstufe I beschult worden sind und nicht mehr beschult werden können oder im Integrationsangebot zur Vorbereitung auf die Sekundarstufe II (IAV Sek II) beschult worden sind und
+- b. nachweislich über einen Sprachstand in Deutsch von mindestens A2 gemäss GER verfügen, aber noch nicht über ausreichende Deutschkenntnisse für eine duale Berufsbildung verfügen (B1 gemäss GER).
+
+<sup>2<sup>bis</sup></sup> Weiter können sie aufgenommen werden, wenn sie:
+
+- a. spät eingereist und bei Beginn des Brückenangebots noch nicht 25 Jahre alt sind;
+- b. über einen Sprachstand in Deutsch von mindestens A2 gemäss GER verfügen;
+- c. über schulische Grundlagen, insbesondere in Mathematik, die den Einstieg in ein Brückenangebot oder in eine berufliche Grundbildung ermöglichen, verfügen;
+- d. Lern- und Leistungsbereitschaft sowie Arbeitsmotivation mitbringen und sie nicht mehr in die Volksschule eintreten können.
 
 <sup>3</sup> In begründeten Fällen sind Ausnahmen möglich. Zur Klärung des Sachverhalts können der Schulpsychologische Dienst oder die Kinder- und Jugendpsychiatrie beigezogen werden.
 
@@ -642,19 +673,19 @@ beschliesst:
 
 **Zugangsverfahren**
 
-<sup>1</sup> Die Anmeldung für den Besuch eines Brückenangebots im schulischen oder kombinierten Profil erfolgt schriftlich in Form einer Bewerbung an die Hauptabteilung Berufsbildung der Dienststelle BMH, Koordinationsstelle Brückenangebote, bis zum Anmeldedatum für das darauffolgende Schuljahr.
+<sup>1</sup> Die Bewerbung für den Besuch eines Brückenangebots erfolgt durch das Online-Tool der Hauptabteilung Berufsbildung der Dienststelle BMH, Koordinationsstelle Brückenangebote, während dem Bewerbungszeitfenster für das darauffolgende Schuljahr.
 
-<sup>2</sup> Die Anmeldung für den Besuch eines Brückenangebots im integrativen Profil ist jederzeit und schriftlich in Form einer Bewerbung an die Koordinationsstelle Brückenangebote möglich.
+<sup>2</sup> Die Bewerbung für den Besuch eines Brückenangebotes im integrativen Profil ist unterjährig möglich und erfolgt durch das Online-Tool der Koordinationsstelle Brückenangebote.
 
-<sup>3</sup> Die Koordinationsstelle Brückenangebote bewilligt nach Rücksprache mit der Schulleitung der Brückenangebote die Aufnahme ins Brückenangebot.
+<sup>3</sup> Die Koordinationsstelle Brückenangebote prüft die Bewerbung individuell und erlässt den Zulassungsentscheid.
 
 <sup>4</sup> Sie kann für die Entscheidungsfindung kantonale Beratungsstellen wie den Schulpsychologischen Dienst oder die Kinder- und Jugendpsychiatrie beiziehen.
 
-<sup>5</sup> Sie kann die Aufnahme in ein Brückenangebot an Bedingungen knüpfen.
+<sup>5</sup> Sie kann die Zulassung in ein Brückenangebot an Bedingungen knüpfen.
 
-<sup>6</sup> Die Zuteilung in die einzelnen Profile ist Sache der Schulleitung des Zentrums für Brückenangebote.
+<sup>6</sup> Die Zuteilung in die einzelnen Brückenangebote ist Sache der Koordinationsstelle Brückenangebote und der Schulleitung des Zentrums für Brückenangebote.
 
-<sup>7</sup> Bei den Brückenangeboten, die von Berufsfachschulen und Betrieben gemeinsam geführt werden, wird ein Vorlehrvertrag abgeschlossen. Die Bestimmungen für die 2- bis 4-jährigen beruflichen Grundbildungen gelten sinngemäss.
+<sup>7</sup> Bei den kombinierten Brückenangeboten, die gemeinsam mit Betrieben geführt werden, wird ein Brückenpraktikumsvertrag abgeschlossen. Die Bestimmungen für die 2- bis 4-jährigen beruflichen Grundbildungen gelten sinngemäss.
 
 #### § 48c
 
@@ -725,7 +756,7 @@ beschliesst:
 
 <sup>3</sup> …
 
-<sup>4</sup> Werden die Bedingungen gemäss den Abs. 1 und 2 in beiden Zeugnissen der 3. Klasse der Sekundarschule erreicht, erfolgt die Aufnahme an die Maturitätsabteilung des Gymnasiums und die Fachmittelschule definitiv; werden sie nur in einem der Zeugnisse erreicht, erfolgt die Aufnahme provisorisch.
+<sup>4</sup> Werden die Bedingungen gemäss den Abs. 1 und 2 in beiden Zeugnissen der 3. Klasse der Sekundarschule erreicht, erfolgt die Aufnahme an die Maturitätsabteilung des Gymnasiums und die Fachmittelschule definitiv. Die Aufnahme erfolgt provisorisch, wenn am Ende des 1. Semesters im Zeugnis beide Bedingungen und am Ende des 2. Semesters eine Bedingung erreicht wird.
 
 <sup>5</sup> Die Aufnahme in die Berufsmaturitätsschule und die Wirtschaftsmittelschule erfolgt bei Erfüllung der Bedingungen gemäss Abs. 2 im 1. oder 2. Zeugnis definitiv.
 
@@ -749,7 +780,7 @@ beschliesst:
 
 <sup>2<sup>bis</sup></sup> Die Aufnahme in die Fachmittelschule und die Wirtschaftsmittelschule setzt zudem das vorgängige Absolvieren einer von der Bildungs-, Kultur- und Sportdirektion angebotenen, berufs- und schulwahlbezogenen Neigungs- und Eignungsabklärung voraus.
 
-<sup>3</sup> Werden die Bedingungen gemäss den Abs. 1 und 2 in beiden Zeugnissen der 3. Klasse der Sekundarschule erreicht, erfolgt die Aufnahme an die Maturitätsabteilung des Gymnasiums und die Fachmittelschule definitiv; werden sie nur in einem der Zeugnisse erreicht, erfolgt die Aufnahme provisorisch.
+<sup>3</sup> Werden die Bedingungen gemäss den Abs. 1 und 2 in beiden Zeugnissen der 3. Klasse der Sekundarschule erreicht, erfolgt die Aufnahme an die Maturitätsabteilung des Gymnasiums und die Fachmittelschule definitiv. Die Aufnahme erfolgt provisorisch, wenn am Ende des 1. Semesters im Zeugnis beide Bedingungen und am Ende des 2. Semesters eine Bedingung erreicht wird.
 
 <sup>4</sup> Die Aufnahme in die Berufsmaturitätsschule und die Wirtschaftsmittelschule erfolgt bei Erfüllung der Bedingungen gemäss Abs. 2 im 1. oder 2. Zeugnis definitiv.
 
@@ -769,11 +800,11 @@ beschliesst:
 
 <sup>1</sup> Der Übertritt in den schulischen Teil der beruflichen Grundbildung setzt das Durchlaufen der Sekundarstufe I und das Vorliegen eines von der Hauptabteilung Berufsbildung der Dienststelle BMH genehmigten Lehrvertrags voraus.
 
-<sup>2</sup> Der Übertritt in die weiterführenden Schulen richtet sich nach den Übertrittsvoraussetzungen für den Übertritt aus der Sekundarstufe I, namentlich für Absolventinnen und Absolventen des Leistungszugs E nach § 51. Sind diese nicht erfüllt, kann auf Empfehlung des Klassenkonvents und für die Aufnahme in die Fachmittel- und Wirtschaftsmittelschule nach Absolvieren einer von der Bildungs-, Kultur- und Sportdirektion angebotenen, berufs- und schulwahlbezogenen Neigungs- und Eignungsabklärung eine Aufnahme im Einzelfall nach Ermessen durch die Schulleitung der aufnehmenden Schule erfolgen.
+<sup>2</sup> Der Übertritt in die weiterführenden Schulen richtet sich nach den Übertrittsvoraussetzungen für den Übertritt aus der Sekundarstufe I, namentlich für Absolventinnen und Absolventen des Leistungszugs E nach § 51. Sind diese nicht erfüllt, kann auf Empfehlung des Klassenkonvents und der Schulleitung des Zentrums für Brückenangebote, dem Absolvieren einer von der Bildungs-, Kultur- und Sportdirektion angebotenen, berufs- und schulwahlbezogenen Neigungs- und Eignungsabklärung sowie dem Bestehen einer kantonalen Leistungsabklärung ein Übertritt in die Fachmittel- bzw. Wirtschaftsmittelschule durch die Hauptabteilung Mittelschulen und Berufsschulen bewilligt werden.
 
-<sup>3</sup> Lehnt die Schulleitung die Aufnahme in die weiterführende Schule gemäss Abs. 2 ab, kann sich die Schülerin oder der Schüler zur Übertrittsprüfung anmelden.
+<sup>3</sup> …
 
-<sup>4</sup> Der Übertritt in ein reguläres Bildungsangebot der Sekundarstufe II aus dem integrativen Profil erfolgt im Einzelfall nach Ermessen.
+<sup>4</sup> …
 
 <sup>5</sup> Die Lernenden der Brückenangebote erhalten am Ende des Brückenjahrs einen Leistungsnachweis über ihre fachlichen und überfachlichen Kompetenzen und allfällige weitere Kompetenznachweise.
 
@@ -797,7 +828,7 @@ beschliesst:
 
 <sup>1</sup> Die Leistung in den promotionsrelevanten Fächern gemäss Anhang wird in Form von Noten beurteilt. Die Leistung in Freifächern kann beurteilt werden.
 
-<sup>2</sup> Die Klassenlehrerin oder der Klassenlehrer führt in der Mitte jeden Schuljahres ein Standortgespräch mit den Erziehungsberechtigten beziehungsweise der volljährigen Schülerin oder dem volljährigen Schüler auf der Grundlage der Leistungsbeurteilung in den einzelnen Fächern durch.
+<sup>2</sup> Die Klassenlehrerin oder der Klassenlehrer führt in der Mitte jeden Schuljahres ein Standortgespräch mit den Erziehungsberechtigten beziehungsweise der volljährigen Schülerin oder dem volljährigen Schüler auf der Grundlage der Leistungsbeurteilung in den einzelnen Fächern durch. Im Standortgespräch wird zusätzlich die weitere Laufbahn thematisiert.
 
 <sup>3</sup> In Absprache mit der Schulleitung kann die Klassenlehrerin oder der Klassenlehrer das Standortgespräch an eine Stellvertretung delegieren.
 
@@ -933,9 +964,11 @@ beschliesst:
 
 <sup>1</sup> Die Schulleitungen der aufnehmenden Schulen entscheiden bei Übertritten, die weder durch diese Verordnung noch durch die Reglemente der Dienststellen bestimmt sind.
 
+<sup>1<sup>bis</sup></sup> Beim Übertritt aus einer Privatschule in die öffentliche Sekundarschule erfolgt der Entscheid aufgrund einer durch das Amt für Volksschulen durchgeführten Leistungsabklärung.
+
 <sup>2</sup> Ist voraussehbar, dass die Nachfrage nach Ausbildungsplätzen an der Wirtschaftsmittelschule das Angebot an Praktikumsplätzen im 4. Ausbildungsjahr übersteigen wird, kann die Bildungs-, Kultur- und Sportdirektion die Zulassung beschränken und vom Bestehen eines Eignungsverfahrens abhängig machen.
 
-<sup>3</sup> Die Hauptabteilungen Mittelschulen und Berufsbildung der Dienststelle BMH regeln je für ihren Bereich:
+<sup>3</sup> Die Hauptabteilung Berufs- und Mittelschulen der Dienststelle BMH regelt für ihren Bereich:
 
 - a. das Eignungsverfahren für die Aufnahme an die Wirtschaftsmittelschule im Falle einer Zulassungsbeschränkung gemäss Abs. 2;
 - b. die Übertritte aus ausserkantonalen Schulen;
