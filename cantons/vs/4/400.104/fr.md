@@ -4,20 +4,21 @@ number: "400.104"
 title: "Règlement concernant les modalités d'application de l'action sports de neige"
 short: RASN
 language: fr
-version: 2021-12-01
-valid_until: 2024-07-31
-version_adopted: 2021-12-22
+version: 2024-08-01
+version_adopted: 2025-04-09
 adopted: 2020-11-25
 in_force: 2020-12-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/400.104"
-pdf: "https://lex.vs.ch/api/fr/versions/3001/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3479/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
 
 # Règlement concernant les modalités d'application de l'action sports de neige
 
-du 25.11.2020 (état 01.12.2021)
+(RASN)
+
+du 25.11.2020 (état 01.08.2024)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -67,7 +68,7 @@ ordonne: [^ingress-1]
 
 <sup>3</sup> Les parents dont les enfants ne possèdent pas de matériel technique (skis/snowboard/skis de fond, bâtons, casque et chaussures) peuvent s’en procurer gratuitement dans les magasins de sport partenaires. Ces magasins se chargent de transmettre les factures des locations y relatives aux organisateurs.
 
-<sup>4</sup> Les organisateurs règlent les différentes factures (notamment les forfaits, le matériel technique, l'enseignement par une école de ski et les frais logistiques) et transmettent à la fondation les données des élèves ayant participé à l'action (notamment noms et prénoms, communes de domicile et communes de scolarisation) avec les justificatifs nécessaires (factures et preuves de paiement).
+<sup>4</sup> Les organisateurs règlent les différentes factures (notamment les forfaits, le matériel technique, l'enseignement par une école de ski et les frais logistiques) et valident, en principe pour le 30 avril de l'année scolaire en cours, les données des élèves ayant participé à l'action (notamment noms et prénoms, communes de domicile et communes de scolarisation) avec les justificatifs nécessaires (factures et preuves de paiement).
 
 <sup>5</sup> La fondation contrôle et traite de manière conforme à la loi sur l’information du public, la protection des données et l'archivage (LIPDA) les données transmises par les organisateurs et calcule sur cette base les montants des subventions cantonales. Le service en charge de la scolarité obligatoire les valide.
 
@@ -98,7 +99,8 @@ ordonne: [^ingress-1]
 <sup>1</sup> Le département verse aux communes de domicile des élèves les subventions cantonales suivantes:
 
 - a) un montant forfaitaire de 15 francs par sortie de sports de neige, mais au maximum 45 francs au total, octroyé pour l’année scolaire concernée, pour les frais de remontées mécaniques, de matériel technique et de logistique pour chaque élève ayant participé à l’action;
-- b) un montant forfaitaire d'au maximum 45 francs pour chaque élève ayant bénéficié de 12 heures d'enseignement de sports de neige dispensées par une école de ski partenaire.
+- b) un montant forfaitaire d'au maximum 45 francs pour chaque élève ayant bénéficié de 12 heures d'enseignement de sports de neige dispensées par une école de ski partenaire;
+- c) un montant forfaitaire d'au maximum 450 francs pour les élèves en situation de handicap nécessitant un encadrement individuel et ayant bénéficié de 12 heures d'enseignement de sports de neige.
 
 <sup>2</sup> La subvention cantonale prévue à l'alinéa 1 lettre b du présent article est versée au prorata temporis des heures d'enseignement de sport de neige effectuées.
 

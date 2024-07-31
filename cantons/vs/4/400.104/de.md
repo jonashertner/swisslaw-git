@@ -1,23 +1,24 @@
 ---
 canton: VS
 number: "400.104"
-title: Reglement über die Anwendungsmodalitäten der Aktion Schneesports
+title: "Reglement über die Anwendungsmodalitäten der Aktion Schneesports *"
 short: RASS
 language: de
-version: 2021-12-01
-valid_until: 2024-07-31
-version_adopted: 2021-12-22
+version: 2024-08-01
+version_adopted: 2025-04-09
 adopted: 2020-11-25
 in_force: 2020-12-01
 url: "https://lex.vs.ch/app/de/texts_of_law/400.104"
-pdf: "https://lex.vs.ch/api/de/versions/3001/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3479/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement über die Anwendungsmodalitäten der Aktion Schneesports
 
-vom 25.11.2020 (Stand 01.12.2021)
+(RASS)
+
+vom 25.11.2020 (Stand 01.08.2024)
 
 Der Staatsrat des Kantons Wallis
 
@@ -67,7 +68,7 @@ verordnet:[^ingress-1]
 
 <sup>3</sup> Eltern, deren Kinder über kein technisches Material (Skis/Snowboard/Langlaufskis, Stöcke, Helm und Schuhe) verfügen, können dieses kostenlos in den Partnersportgeschäften beziehen. Diese Geschäfte leiten die Rechnungen für das entsprechende Mietmaterial direkt an die Organisatoren weiter.
 
-<sup>4</sup> Die Organisatoren begleichen die verschiedenen Rechnungen (insbesondere für Skipässe, technisches Material, Unterricht durch eine Skischule und logistische Kosten) und übermitteln der Stiftung die Daten der an der Aktion teilnehmenden Schüler (insbesondere Namen und Vornamen, Wohnsitz- und Schulgemeinden) zusammen mit den erforderlichen Belegen (Rechnungen und Zahlungsbelege).
+<sup>4</sup> Die Organisatoren begleichen die verschiedenen Rechnungen (insbesondere für Skipässe, technisches Material, Unterricht durch eine Skischule und logistische Kosten) und validieren grundsätzlich bis zum 30. April des laufenden Schuljahres die Daten der Schüler, die an der Aktion teilgenommen haben (insbesondere Namen und Vornamen, Wohn- und Schulgemeinden) zusammen mit den erforderlichen Belegen (Rechnungen und Zahlungsbelege).
 
 <sup>5</sup> Die Stiftung prüft und bearbeitet die von den Organisatoren eingereichten Daten gemäss dem Gesetz über die Information der Öffentlichkeit, den Datenschutz und die Archivierung (GIDA) und berechnet auf dieser Grundlage die Höhe der kantonalen Subventionen. Diese werden von der für die obligatorische Schule zuständigen Dienststelle validiert.
 
@@ -98,7 +99,8 @@ verordnet:[^ingress-1]
 <sup>1</sup> Das Departement überweist den Wohngemeinden der Schüler folgende kantonale Subventionen:
 
 - a) einen Pauschalbetrag von 15 Franken pro Schneesportausflug, insgesamt aber maximal 45 Franken für das jeweilige Schuljahr für die Kosten im Zusammenhang mit Bergbahnen, technischem Material und Logistik pro Schüler, der an der Aktion teilgenommen hat;
-- b) einen Pauschalbetrag von maximal 45 Franken pro Schüler, der 12 Stunden Schneesportunterricht bei einer Partnerskischule erhalten hat.
+- b) einen Pauschalbetrag von maximal 45 Franken pro Schüler, der 12 Stunden Schneesportunterricht bei einer Partnerskischule erhalten hat;
+- c) einen Pauschalbetrag von maximal 450 Franken für Schüler mit Behinderung, die eine individuelle Betreuung benötigen und 12 Stunden Schneesportunterricht erhalten haben.
 
 <sup>2</sup> Die in Absatz 1 Buchstabe b dieses Artikels vorgesehene Subvention wird pro rata temporis für die besuchten Schneesportstunden überwiesen.
 
