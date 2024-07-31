@@ -3,20 +3,23 @@ canton: ZH
 number: "415.403.1"
 title: Verordnung über die Promotion an der Theologischen und Religionswissenschaftlichen Fakultät der Universität Zürich (Promotionsverordnung)
 language: de
-nachtrag: "69"
-valid_until: 2024-08-01
+version: "2024-08-01"
+nachtrag: "125"
 adopted: 2010-03-08
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_403_1-2010_03_08-2010_04_01-069.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_403_1-2010_03_08-2010_04_01-125.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung über die Promotion an der Theologischen Fakultät der Universität Zürich (Promotionsverordnung)
+# Verordnung über die Promotion an der Theologischen und Religionswissenschaftlichen Fakultät der Universität Zürich (Promotionsverordnung)
 
-(vom 8. März 2010)<sup>1</sup>
+(vom 8. März 2010)[^t-2][^t-1]
 
 Der Universitätsrat beschliesst:
+
+[^t-1]: Fassung gemäss URB vom 26. Februar 2024 (OS 79, 172; ABl 2024-03-01). In Kraft seit 1. August 2024.
+[^t-2]: OS 65, 161.
 
 ### I. Allgemeine Bestimmungen
 
@@ -52,9 +55,13 @@ Der Universitätsrat beschliesst:
 
 **1**
 
-- 1\. 7. 10 - 69
+- 1\. 7. 24 - 125
 
-### II. Zweck und Titel
+[^3-1]: Fassung gemäss URB vom 26. Februar 2024 (OS 79, 172; ABl 2024-03-01). In Kraft seit 1. August 2024.
+
+### II. Zweck und Grad
+
+[^3-1]
 
 #### § 4
 
@@ -62,13 +69,13 @@ Der Universitätsrat beschliesst:
 
 Die Promotion dient dem Nachweis der Fähigkeit der Kandidatin bzw. des Kandidaten, durch eine selbstständige wissenschaftliche Forschungsleistung Erkenntnisse zu gewinnen, die zur Entwicklung des Forschungsbereichs beitragen.
 
-#### § 5
+**Grad**
 
-**Titel**
+§ 5.[^4-1] <sup>1</sup> Die Fakultät verleiht für das Doktorat in Theologie den Grad einer Doktorin oder eines Doktors der Theologie (Dr. theol.; englisch: Doctor of Theology, PhD).
 
-<sup>1</sup> Die Fakultät verleiht für das Doktorat in Theologie den Titel einer Doktorin bzw. eines Doktors der Theologie (Dr. theol.; englisch: PhD).
+<sup>2</sup> Die Fakultät verleiht für das Doktorat in Religionswissenschaft den Grad einer Doktorin oder eines Doktors der Philosophie (Dr. phil.; englisch: Doctor of Philosophy; PhD).
 
-<sup>2</sup> Die Fakultät verleiht für das Doktorat in Religionswissenschaft den Titel einer Doktorin bzw. eines Doktors der Religionswissenschaft (Dr. sc. rel.; englisch: PhD).
+[^4-1]: Fassung gemäss URB vom 26. Februar 2024 (OS 79, 172; ABl 2024-03-01). In Kraft seit 1. August 2024.
 
 ### III. Zulassung zur Doktoratsstufe
 
@@ -110,35 +117,35 @@ Die Promotion dient dem Nachweis der Fähigkeit der Kandidatin bzw. des Kandidat
 
 <sup>2</sup> Umfang und Gegenstand der zu absolvierenden Module werden von den Fächern (Theologie, Religionswissenschaft) bzw. Disziplinen festgelegt und in der Doktoratsordnung geregelt.
 
-#### § 9
-
 **Dissertation**
 
-<sup>1</sup> Eine Dissertation besteht in der Regel aus einer Monografie. Über andere Formen entscheidet die Fakultätsversammlung. Sie kann diese Aufgabe an die zuständige Studienkommission delegieren.
+§ 9.[^8-1] <sup>1</sup> Eine Dissertation besteht in der Regel aus einer Monografie. An ihrer Stelle kann eine Sammlung veröffentlichter oder zur Veröffentlichung eingereichter Publikationen vorgelegt werden (kumulative Dissertation).
 
-<sup>2</sup> Die Dissertation kann in deutscher, französischer, italienischer oder englischer Sprache verfasst werden. Auf Antrag kann die Fakultät die Abfassung in einer anderen Sprache bewilligen.
+<sup>2</sup> Handelt es sich um eine kumulative Dissertation, ist zusätzlich eine nach thematischen Schwerpunkten gegliederte Übersicht (Synopse) einzureichen. Diese soll die Erkenntnisse der einzelnen Publikationen in einen grösseren Zusammenhang einordnen, ihre theoretische oder praktische Relevanz herausarbeiten und ihre Verortung innerhalb des Faches deutlich werden lassen.
 
-<sup>3</sup> Eine Arbeit, die bereits an einer Hochschule für die Erlangung eines akademischen Grades verwendet worden ist, kann nicht als Dissertation eingereicht werden.
+<sup>3</sup> Bei kumulativen Dissertationen sind Gemeinschaftspublikationen zulässig. In diesem Fall muss die erbrachte Eigenleistung erkenn- und nachweisbar sein. Falls diese nicht direkt aus den einzelnen Publikationen hervorgeht, muss dieser Nachweis in der einzureichenden Synopse erfolgen und von der hauptverantwortlichen Betreuungsperson bestätigt werden.
 
-#### § 10
+<sup>4</sup> Die Dissertation kann in deutscher, französischer, italienischer oder englischer Sprache verfasst werden. Auf Antrag kann die Fakultät die Abfassung in einer anderen Sprache bewilligen.
+
+<sup>5</sup> Eine Arbeit, die bereits an einer Hochschule für die Erlangung eines akademischen Grades verwendet worden ist, kann nicht als Dissertation eingereicht werden.
+
+**3**
+
+- 1\. 7. 24 - 125 § 10. <sup>1</sup> Die curricularen Anteile werden im Rahmen von Modulen absolviert. Leistungen werden gemäss dem European Credit Transfer and Accumulation System (ECTS) bemessen. Ein ECTS-Kreditpunkt entspricht einer durchschnittlichen Arbeitsleistung von 30 Stunden.
 
 **Module (curriculare Anteile) und ECTS-Kreditpunkte**
-
-<sup>1</sup> Die curricularen Anteile werden im Rahmen von Modulen absolviert. Leistungen werden gemäss dem European Credit Transfer and Accumulation System (ECTS) bemessen. Ein ECTS-Kreditpunkt entspricht einer durchschnittlichen Arbeitsleistung von 30 Stunden.
 
 <sup>2</sup> Für den erfolgreichen Abschluss der Doktoratsstufe sind mindestens 12 ECTS-Punkte zu erwerben. Für die Doktoratsprogramme gelten die besonderen Regelungen der §§ 23–27.
 
 <sup>3</sup> ECTS-Kreditpunkte können in universitären Modulen der Doktoratsstufe erworben werden.
-
-**3**
-
-- 1\. 7. 10 - 69
 
 <sup>4</sup> ECTS-Kreditpunkte können auch für die Teilnahme an anderen wissenschaftlichen Veranstaltungen vergeben werden, z.B. für die Teilnahme an Kongressen und Tagungen, Doktorierenden-Kollegs, interuniversitären Doktoratsprogrammen und -netzwerken, Summer Schools usw. Voraussetzung dafür ist, dass seitens der teilnehmenden Person ein aktiver und überprüfbarer Beitrag geleistet (Paper, Poster, Präsentation) und ein Bericht zuhanden der hauptverantwortlichen Betreuungsperson verfasst und von dieser abgenommen wird.
 
 <sup>5</sup> Im Rahmen des curricularen Anteils haben die Doktorierenden auch die Möglichkeit, ECTS-Kreditpunkte im Bereich überfachlicher Kompetenzen zu erwerben.
 
 <sup>6</sup> An einer anderen Universität auf der Doktoratsstufe erworbene ECTS-Kreditpunkte können von der Promotionskommission anerkannt und angerechnet werden, sofern sie gleichwertig sind.
+
+[^8-1]: Fassung gemäss URB vom 26. Februar 2024 (OS 79, 172; ABl 2024-03-01). In Kraft seit 1. August 2024.
 
 #### § 11
 
@@ -190,15 +197,11 @@ Die Promotion dient dem Nachweis der Fähigkeit der Kandidatin bzw. des Kandidat
 
 <sup>2</sup> Die Doktoratsvereinbarung kann bei Bedarf an veränderte Umstände angepasst werden.
 
-#### § 16
-
-**Vereinbarkeit von Anstellung und Doktorat**
-
-Bei Doktorierenden, die in einem Anstellungsverhältnis zur Universität Zürich oder einer ihrer Organisationseinheiten stehen, wird im betreffenden Pflichtenheft festgehalten, welche Aufgaben zu welchem Umfang für die Arbeitgeberin bzw. den Arbeitgeber zu leisten sind. Hierbei ist darauf zu achten, dass die Dissertation in der vereinbarten Zeit abgeschlossen werden kann.
-
 **5**
 
-- 1\. 7. 10 - 69
+- 1\. 7. 24 - 125 § 16. Bei Doktorierenden, die in einem Anstellungsverhältnis zur Universität Zürich oder einer ihrer Organisationseinheiten stehen, wird im betreffenden Pflichtenheft festgehalten, welche Aufgaben zu welchem Umfang für die Arbeitgeberin bzw. den Arbeitgeber zu leisten sind. Hierbei ist darauf zu achten, dass die Dissertation in der vereinbarten Zeit abgeschlossen werden kann.
+
+**Vereinbarkeit von Anstellung und Doktorat**
 
 ### VI. Doktoratsabschluss
 
@@ -216,11 +219,13 @@ Bei Doktorierenden, die in einem Anstellungsverhältnis zur Universität Zürich
 
 - c. der Lebenslauf,
 
-- d. der Nachweis der Immatrikulation als Doktorierende oder Doktorierender an der Universität Zürich gemäss Verordnung über die Zulassung zum Studium an der Universität (VZS)<sup>2</sup>,
+- d. der Nachweis der Immatrikulation als Doktorierende oder Doktorierender an der Universität Zürich gemäss Verordnung über die Zulassung zum Studium an der Universität (VZS)[^17-1],
 
 - e. der Nachweis über die erfolgreich erworbenen ECTS-Kreditpunkte gemäss § 10,
 
 - f. der Nachweis, dass allfällige Auflagen erfüllt sind.
+
+[^17-1]: LS 415.31.
 
 #### § 18
 
@@ -268,31 +273,35 @@ Bei Doktorierenden, die in einem Anstellungsverhältnis zur Universität Zürich
 
 <sup>4</sup> Das Promotionskolloquium dauert 60 Minuten. Auf Wunsch der Kandidatin bzw. des Kandidaten kann es als öffentliche Veranstaltung stattfinden.
 
+**7**
+
+- 1\. 7. 24 - 125
+
 <sup>5</sup> Am Promotionskolloquium nehmen mindestens vier habilitierte Fakultätsmitglieder oder auswärtige Fachpersonen einschliesslich der Mitglieder der Promotionskommission teil. Letztere müssen am Promotionskolloquium von Amtes wegen anwesend sein. Ausnahmen sind in der Doktoratsordnung geregelt. Die bzw. der Vorsitzende der Promotionskommission leitet das Kolloquium; eine Beisitzerin bzw. ein Beisitzer führt Protokoll.
 
 <sup>6</sup> Das Promotionskolloquium wird von der Promotionskommission mit «bestanden» («pass») oder «nicht bestanden» («fail») bewertet.
 
 <sup>7</sup> Ist das Promotionskolloquium nicht bestanden, kann es einmal wiederholt werden.
 
-**7**
-
-- 1\. 7. 10 - 69 § 21. <sup>1</sup> Sind die erforderlichen Leistungen erfolgreich erbracht, stellt die Promotionskommission zuhanden der Fakultätsversammlung Antrag auf Promotion und macht einen Vorschlag zu deren Gesamtbewertung.
+#### § 21
 
 **Promotion**
 
-<sup>2</sup> Die Fakultätsversammlung vollzieht die Promotion, indem sie zuerst über den Antrag abstimmt und dann in schriftlicher Abstimmung das definitive Prädikat der Promotion festlegt, das auf der Promotionsurkunde erscheint. Darüber hinaus kann sie Empfehlungen hinsichtlich der Publikation der Dissertation abgeben oder diese Aufgabe an die Promotionskommission delegieren.
+<sup>1</sup> Sind die erforderlichen Leistungen erfolgreich erbracht, stellt die Promotionskommission zuhanden der Fakultätsversammlung Antrag auf Promotion und macht einen Vorschlag zu deren Gesamtbewertung.
 
-#### § 22
+<sup>2</sup> Die Fakultätsversammlung vollzieht die Promotion, indem sie zuerst über den Antrag abstimmt und dann in schriftlicher Abstimmung das definitive Prädikat der Promotion festlegt, das auf der Promotionsurkunde erscheint. Darüber hinaus kann sie Empfehlungen hinsichtlich der Publikation der Dissertation abgeben oder diese Aufgabe an die Promotionskommission delegieren.
 
 **Publikation**
 
-<sup>1</sup> Die Promotion wird rechtsgültig, wenn innerhalb von zwei Jahren nach Promotionsbeschluss der Zentralbibliothek die Pflichtexemplare der genehmigten Dissertation abgeliefert werden. Einzelheiten bezüglich der Form und der Anzahl der Pflichtexemplare sind in der Doktoratsordnung geregelt.
+§ 22.[^21-1] <sup>1</sup> Die Promotion wird rechtsgültig, wenn die Dissertation innerhalb von zwei Jahren nach Promotionsbeschluss in das von der Universität Zürich zur Verfügung gestellte Repositorium aufgenommen wurde. Einzelheiten sind in der Doktoratsordnung geregelt.
 
-<sup>2</sup> Die Dekanin bzw. der Dekan kann auf begründetes Gesuch die Abgabefrist der Pflichtexemplare einmalig um maximal zwei Jahre verlängern. Wird diese Frist überschritten, erlischt der Anspruch auf den zu erwerbenden Doktoratsabschluss.
+<sup>2</sup> Die Dekanin oder der Dekan kann auf begründetes Gesuch die Abgabefrist einmalig um längstens zwei Jahre verlängern. Wird diese Frist überschritten, erlischt der Anspruch auf den zu erwerbenden Doktoratsabschluss.
 
-<sup>3</sup> Für substanzielle nachträgliche Änderungen, Ergänzungen oder Streichungen in der genehmigten Dissertation vor der Abgabe der Pflichtexemplare ist die Zustimmung der hauptverantwortlichen Betreuungsperson und der Dekanin bzw. des Dekans einzuholen.
+<sup>3</sup> Für substanzielle nachträgliche Änderungen, Ergänzungen oder Streichungen in der genehmigten Dissertation vor der Abgabe ist die Zustimmung der hauptverantwortlichen Betreuungsperson und der Dekanin oder des Dekans einzuholen.
 
-<sup>4</sup> Bis zur fristgemässen Abgabe der Pflichtexemplare ist die Führung des Doktortitels untersagt; es kann jedoch der Titel «Dr. des.» verwendet werden.
+<sup>4</sup> Nach der Publikation verleiht die Fakultät den Doktoratsgrad. Die Verleihung des Grads erfolgt durch Aushändigung der Abschlussdokumente und berechtigt zur Führung des Doktortitels.
+
+[^21-1]: Fassung gemäss URB vom 26. Februar 2024 (OS 79, 172; ABl 2024-03-01). In Kraft seit 1. August 2024.
 
 ### VII. Doktoratsprogramme
 
@@ -346,17 +355,21 @@ Sofern im Rahmen dieser Promotionsverordnung nicht anders geregelt, gelten für 
 
 **Abschlusszeugnis (Academic Record)**
 
-<sup>1</sup> Der Kandidatin bzw. dem Kandidaten wird ein Abschlusszeugnis (Academic Record) zugestellt. Dieses weist die Ergebnisse aller für den Doktoratsabschluss anerkannten oder angerechneten Module des Doktorats, deren Bewertung und die Anzahl erworbener ECTS-Kreditpunkte aus. Ferner werden mit entsprechenden Kennzeichnungen alle weiteren an der Universität Zürich bestandenen, aber nicht für den Doktoratsabschluss anerkannten oder angerechneten Module der Doktoratsstufe ausgewiesen. Bei Leistungsnachweisen, die nicht an der Universität Zürich erbracht worden sind, wird zusätzlich angegeben, an welcher Universität die Leistungsüberprüfung stattgefunden hat.
+<sup>1</sup> Der Kandidatin bzw. dem Kandidaten wird ein Abschlusszeugnis (Academic Record) zugestellt. Dieses weist die Ergebnisse aller für den Doktoratsabschluss anerkannten oder angerechneten Module des Doktorats, deren Bewertung und die Anzahl erworbener
+
+**9**
+
+- 1\. 7. 24 - 125 ECTS-Kreditpunkte aus. Ferner werden mit entsprechenden Kennzeichnungen alle weiteren an der Universität Zürich bestandenen, aber nicht für den Doktoratsabschluss anerkannten oder angerechneten Module der Doktoratsstufe ausgewiesen. Bei Leistungsnachweisen, die nicht an der Universität Zürich erbracht worden sind, wird zusätzlich angegeben, an welcher Universität die Leistungsüberprüfung stattgefunden hat.
 
 <sup>2</sup> Erfolgt die Promotion im Rahmen eines Doktoratsprogramms, wird dieses im Zeugnis namentlich ausgewiesen.
 
 <sup>3</sup> Das Abschlusszeugnis gilt als Ausweis über den bestandenen Doktoratsabschluss.
 
-**9**
-
-- 1\. 7. 10 - 69 § 29. Zu jeder Promotionsurkunde wird ein Diploma Supplement mit Angaben über die Doktoratsstufe bzw. das Doktoratsprogramm in deutscher und englischer Sprache ausgestellt.
+#### § 29
 
 **Diploma Supplement**
+
+Zu jeder Promotionsurkunde wird ein Diploma Supplement mit Angaben über die Doktoratsstufe bzw. das Doktoratsprogramm in deutscher und englischer Sprache ausgestellt.
 
 ### IX. Rechtsschutz
 
@@ -398,13 +411,21 @@ Den Promovierten steht nach Abschluss des Promotionsverfahrens das Akteneinsicht
 
 Diese Promotionsverordnung tritt am 1. April 2010 in Kraft. Sie ersetzt die Promotionsordnung der Theologischen Fakultät für das Doktorat in Theologie vom 30. August 2004 und die Promotionsordnung der Theologischen Fakultät für das Doktorat in Religionswissenschaft vom 30. August 2004.
 
-#### § 34
-
 **Übergangsbestimmungen**
 
-Promovierende, die vor Inkrafttreten dieser Promotionsverordnung mit ihrem Doktorat gemäss der Promotionsordnung für das Doktorat in Theologie vom 30. August 2004 oder der Promotionsordnung der Theologischen Fakultät für das Doktorat in Religionswissenschaft vom 30. August 2004 begonnen haben, können bis spätestens sechs Jahre nach Inkrafttreten dieser Promotionsverordnung nach alter Ordnung promovieren. In begründeten Fällen kann das Dekanat eine Verlängerung dieser Frist gewähren.
+§ 34.[^33-1] <sup>1</sup> Promovierende, die vor Inkrafttreten dieser Promotionsverordnung mit ihrem Doktorat gemäss der Promotionsordnung für das Doktorat in Theologie vom 30. August 2004 oder der Promotionsordnung der Theologischen Fakultät für das Doktorat in Religionswissenschaft vom 30. August 2004 begonnen haben, können bis spätestens sechs Jahre nach Inkrafttreten dieser Promotionsverordnung nach bisheriger Ordnung promovieren. In begründeten Fällen kann das Dekanat eine Verlängerung dieser Frist gewähren.
 
-## Weitere Fussnoten
+<sup>2</sup> Doktorierende, die vor Inkrafttreten der Änderung vom 26. Februar 2024 dieser Promotionsverordnung mit ihrem Doktorat in Theologie oder Religionswissenschaft begonnen haben, führen bis Ende des Frühjahrssemesters 2028 ihr Doktorat grundsätzlich unter den bisherigen Bestimmungen fort. Auf Anfang des Herbstsemesters 2028/2029 werden sie in das Doktorat nach der vorliegenden Promotionsverordnung übergeführt. Auf Antrag an das Dekanat kann der Übertritt bereits vorher erfolgen.
 
-- [1] OS 65, 161.
-- [2] LS 415.31. 1. 7. 10 - 69 11
+<sup>3</sup> Doktorierende, die vor Inkrafttreten der Änderung vom 26. Februar 2024 dieser Promotionsverorndung mit ihrem Doktorat in Religionswissenschaft gemäss der Promotionsverordnung über die fakultätsübergreifende Promotion in Religionswissenschaft an der Theologischen Fakultät und der Philosophischen Fakultät der Universität Zürich vom 15. November 2010 begonnen haben, führen ihr Doktorat grundsätzlich unter den bisherigen Bestimmungen fort. Sie können jedoch auf begründeten Antrag an die Dekanate der beiden Fakultäten in das Doktorat nach der vorliegenden Promotionsverordnung übertreten. Vorbehalten bleiben Abs. 3 und 4.
+
+**11**
+
+- 1\. 7. 24 - 125
+
+<sup>4</sup> Das Doktorat gemäss der Verordnung über die fakultätsübergreifende Promotion in Religionswissenschaft an der Theologischen Fakultät und der Philosophischen Fakultät der Universität Zürich vom 15. November 2010 wird auf Ende des Frühlingssemesters 2028 geschlossen. Kann das Doktorat bis zu diesem Zeitpunkt nicht abgeschlossen werden, erfolgt die Überführung in das Doktorat gemäss dieser Promotionsverordnung.
+
+<sup>5</sup> Die Modalitäten des Übertritts aus dem Doktorat gemäss der Verordnung über die fakultätsübergreifende Promotion in Religionswissenschaft an der Theologischen Fakultät und der Philosophischen Fakultät der Universität Zürich vom 15. November 2010[^33-2] in das Doktorat gemäss dieser Promotionsverordnung sind in einer Vereinbarung zu regeln.
+
+[^33-1]: Fassung gemäss URB vom 26. Februar 2024 (OS 79, 172; ABl 2024-03-01). In Kraft seit 1. August 2024.
+[^33-2]: Aufgehoben durch OS 79, 175. In Kraft seit 1. August 2024.
