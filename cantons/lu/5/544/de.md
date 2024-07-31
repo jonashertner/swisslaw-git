@@ -4,13 +4,13 @@ number: "544"
 title: "Verordnung über die Schul- und Studiengelder sowie die Gebühren an kantonalen Schulen, privaten Berufsfachschulen und den Hochschulen des Kantons Luzern"
 short: Schulgeldverordnung
 language: de
-version: 2023-08-01
-valid_until: 2024-07-31
-version_adopted: 2023-05-16
+version: 2024-08-01
+valid_until: 2025-07-31
+version_adopted: 2024-05-03
 adopted: 2015-03-03
 in_force: 2015-07-01
 url: "https://srl.lu.ch/app/de/texts_of_law/544"
-pdf: "https://srl.lu.ch/api/de/versions/4117/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4241/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4117/pdf_file"
 
 (Schulgeldverordnung)
 
-vom 03.03.2015 (Stand 01.08.2023)
+vom 03.03.2015 (Stand 01.08.2024)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -90,7 +90,7 @@ beschliesst:
   - 1\. obligatorischer Instrumental- oder Gesangsunterricht — unentgeltlich
   - 2\. freiwilliger Instrumental- oder Gesangsunterricht im Einzelunterricht (in begründeten Ausnahmefällen) — Fr. 900.–
   - 3\. freiwilliger Instrumental- oder Gesangsunterricht im Gruppenunterricht — Fr. 450.–
-- c.<sup>bis</sup> Freiwilliger Sprachkurs Niveau B2 — Fr. 200.–
+- c.<sup>bis</sup> Freiwillige Sprachkurse Niveau B2 und Niveau C2 — Fr. 200.–
 - d. Gebühren für Diplomerweiterungsstudien:
   - 1\. Studierende der Primar- oder der Sekundarstufe mit Wohnsitz im Kanton Luzern oder in einem Vereinbarungskanton — Fr. 650.–
   - 2\. Den übrigen Studierenden der Primar- oder der Sekundarstufe wird nebst der allgemeinen Studiengebühr eine Gebühr auferlegt, welche dem Beitrag der Vereinbarungskantone entspricht.
@@ -249,9 +249,9 @@ beschliesst:
 
 <sup>1</sup> Das Schulgeld für Lernende in Brückenangeboten beträgt pro Schuljahr:
 
-- a. bei Vollzeitunterricht — Fr. 465.–
-- b. bei einem Unterrichtsanteil von 50 Prozent und mehr — Fr. 350.–
-- c. bei einem Unterrichtsanteil von weniger als 50 Prozent — Fr. 175.–
+- a. ab 8 Schulhalbtagen pro Woche — Fr. 465.–
+- b. bei 4 bis 7 Schulhalbtagen pro Woche — Fr. 350.–
+- c. bei 1 bis 3 Schulhalbtagen pro Woche — Fr. 175.–
 
 ## 2 Prüfungs-, Diplom-, Zeugnis-, Zertifikats- und Bescheinigungsgebühren
 
@@ -273,7 +273,7 @@ beschliesst:
 - b. Pädagogische Hochschule Luzern:
   - 1\. Aufnahmeprüfung — Fr. 250.– (im Wiederholungsfall: Fr. 125.–)
   - 2\. Bachelor-Abschlussprüfung, Master-Abschlussprüfung Sekundarstufe I — Fr. 400.– (im Wiederholungsfall: Fr. 200.–)
-  - 3\. übrige Master-Abschlussprüfungen, Prüfung Erweiterungsdiplom, Diplomprüfung Sekundarstufe II - gymnasiale Bildung — Fr. 200.– (im Wiederholungsfall: Fr. 100.–)
+  - 3\. übrige Master-Abschlussprüfungen, Prüfung Erweiterungsdiplom, Diplomprüfung Sekundarstufe II - gymnasiale Bildung, Abschlussprüfungen Berufsbildung — Fr. 200.– (im Wiederholungsfall: Fr. 100.–)
 - c. Gymnasien und Maturitätsschule für Erwachsene:
   - 1\. Maturitätsprüfung — Fr. 250.–
   - 2\. Diplomprüfung — Fr. 250.–
