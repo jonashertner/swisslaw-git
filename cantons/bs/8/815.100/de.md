@@ -4,13 +4,13 @@ number: "815.100"
 title: Gesetz betreffend Tagesbetreuung von Kindern
 short: "Tagesbetreuungsgesetz, TBG"
 language: de
-version: 2023-01-01
-valid_until: 2024-07-31
-version_adopted: 2023-09-20
+version: 2024-08-01
+valid_until: 2024-12-31
+version_adopted: 2023-10-18
 adopted: 2019-05-08
 in_force: 2022-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/815.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6064/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6142/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Kinderbetreuung
 
 (Tagesbetreuungsgesetz, TBG)
 
-Vom 8. Mai 2019 (Stand 1. Januar 2023)
+Vom 8. Mai 2019 (Stand 1. August 2024)
 
 Der Grosse Rat des Kantons Basel-Stadt,
 
@@ -51,7 +51,7 @@ beschliesst:
 <sup>1</sup> Die folgenden Begriffe werden im Rahmen dieses Gesetzes gemäss den nachstehenden Definitionen verwendet:
 
 - a) «Eltern» sind die Erziehungsberechtigten von Kindern;
-- b) «Betreuungsbeiträge» sind individuelle, aufgrund der Einkommens- und Vermögensverhältnisse der Eltern berechnete Beiträge des Kantons und der Gemeinden an die Tagesbetreuung in Kindertagesstätten und Tagesfamilien mit Betreuungsbeiträgen;
+- b) «Betreuungsbeiträge» sind Beiträge des Kantons und der Gemeinden an die Tagesbetreuung in Kindertagesstätten und Tagesfamilien mit Betreuungsbeiträgen;
 - c) «Kindertagesstätten» sind Einrichtungen, in denen Kinder regelmässig tagsüber durch qualifizierte Fachpersonen und in geeigneten Räumlichkeiten betreut werden;
 - d) «Tagesfamilien» sind Familien, in denen Kinder gegen Entgelt und regelmässig in geeigneten Räumlichkeiten betreut werden;
 - e) «Tagesfamilienorganisationen» sind Trägerschaften, die Tagesfamilien suchen, deren Eignung abklären, vermitteln, begleiten und für die Abwicklung der administrativen und finanziellen Belange sorgen;
@@ -123,7 +123,9 @@ beschliesst:
 
 <sup>1</sup> Der Regierungsrat legt die Höhe der Betreuungsbeiträge fest.
 
-<sup>2</sup> Er sieht höhere Beiträge für Säuglinge, Kinder mit besonderem Betreuungsbedarf, Kinder mit Bedarf an früher Deutschförderung und Geschwister vor.
+<sup>1<sup>bis</sup></sup> Er sieht einen Mindestbeitrag vor, der allen Eltern von Kindern mit Wohnsitz im Kanton Basel-Stadt gewährt wird.
+
+<sup>2</sup> Er sieht höhere Beiträge für Säuglinge, Kinder mit besonderem Betreuungsbedarf, Kinder mit Bedarf an früher Deutschförderung und Geschwister vor. Ab dem dritten Kind entsprechen die Betreuungsbeiträge den Modellkosten.
 
 <sup>3</sup> Das zuständige Departement und die Gemeinden gewähren für spezielle Betreuungszeiten sowie befristet für Härtefälle zusätzliche Beiträge.
 
@@ -180,11 +182,13 @@ beschliesst:
 - c) eine Betreuung an fünf Tagen pro Woche bei maximal vier Wochen Betriebsferien pro Jahr anbieten;
 - d) in der Regel über mindestens zehn Betreuungsplätze verfügen;
 - e) im Rahmen ihrer Möglichkeiten Ausbildungsplätze anbieten;
-- f) ein angemessenes Verhältnis zwischen Praktikums- und Ausbildungsplätzen aufweisen;
-- g) die branchenüblichen Anstellungsbedingungen einhalten;
+- f) …
+- g) die branchenüblichen Anstellungsbedingungen einhalten, wobei sich die Entlöhnung des Betreuungspersonals nach den massgeblichen Lohnklassen für das Betreuungspersonal der Tagesstrukturen der Volksschulen zu richten hat;
 - h) Kinder mindestens während der Hälfte der anwesenden Zeit in deutscher Sprache betreuen;
 - i) ihren Betrieb langfristig finanzieren können und
 - j) einen nach § 18a gewährten Teuerungsausgleich ihren Mitarbeitenden weitergeben.
+
+<sup>1<sup>bis</sup></sup> Kindertagesstätten von Unternehmen können bei Bedarf die Aufnahme auf Kinder von Mitarbeitenden des Unternehmens beschränken.
 
 <sup>2</sup> Sie hat im Rahmen der Bewilligung in geeigneter Form nachzuweisen, dass sie diese Anforderungen erfüllt.
 
