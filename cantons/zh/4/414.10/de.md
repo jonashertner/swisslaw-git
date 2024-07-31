@@ -4,11 +4,10 @@ number: "414.10"
 title: Fachhochschulgesetz (FaHG)
 short: FaHG
 language: de
-version: "2022-11-01"
-nachtrag: "119"
-valid_until: 2024-08-01
+version: "2024-08-01"
+nachtrag: "126"
 adopted: 2007-04-02
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_10-2007_04_02-2007_08_01-119.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_10-2007_04_02-2007_08_01-126.html"
 text: pdf
 ---
 
@@ -31,17 +30,21 @@ beschliesst:
 
 **Geltungsbereich**
 
-§ 1.[^h1TeilGrundlagen-1] Dieses Gesetz gilt für die staatlichen und, soweit es dies ausdrücklich vorsieht, für die nichtstaatlichen Fachhochschulen im Kanton Zürich.
+§ 1.[^h1TeilGrundlagen-1] Dieses Gesetz gilt für die staatlichen Fachhochschulen (Hochschulen) im Kanton Zürich. Es gilt für die privaten Hochschulen und die weiteren Institutionen des Hochschulbereichs im Kanton, soweit es dies ausdrücklich vorsieht.
+
+[^h1TeilGrundlagen-1]: Fassung gemäss G vom 13. November 2023 (OS 79, 227; ABl 2021-09-24). In Kraft seit 1. August 2024.
+
+#### § 2
 
 **Zusammenarbeit im Hochschulbereich**
 
-§ 2.[^h1TeilGrundlagen-1] <sup>1</sup> Der Kanton fördert die schweizerische und regionale Zusammenarbeit im Hochschulbereich.
+<sup>1</sup> Der Kanton fördert die schweizerische und die internationale Zusammenarbeit im Hochschulbereich.[^h1TeilGrundlagen-1]
 
 <sup>2</sup> Er kann mit dem Bund, anderen Kantonen und anderen Schulträgern des öffentlichen und privaten Rechts Vereinbarungen über die Zusammenarbeit und Koordination abschliessen.
 
 **Hochschulen**
 
-§ 3.[^h1TeilGrundlagen-1] <sup>1</sup> Der Kanton führt unter der Bezeichnung Zürcher Fachhochschule (ZFH) folgende staatlichen Hochschulen:
+§ 3.[^2-1] <sup>1</sup> Der Kanton führt folgende staatlichen Hochschulen:
 
 - a. Zürcher Hochschule für Angewandte Wissenschaften (ZHAW),
 
@@ -51,25 +54,55 @@ beschliesst:
 
 <sup>2</sup> Die staatlichen Hochschulen sind öffentlichrechtliche Anstalten des Kantons mit eigener Rechtspersönlichkeit.
 
-<sup>3</sup> Der Kanton kann weitere Hochschulen errichten, bestehende Hochschulen zusammenlegen oder schliessen und Fachbereiche oder Studiengänge anderer staatlicher oder nichtstaatlicher Hochschulen in die ZFH integrieren.
+<sup>3</sup> Der Kanton kann a. weitere Hochschulen errichten,
+
+- b. bestehende Hochschulen zusammenlegen oder schliessen,
+
+- c. Fachbereiche oder Studiengänge anderer staatlicher oder privater Hochschulen oder weiterer Institutionen des Hochschulbereichs in die Hochschulen integrieren.
+
+**Zweck und Auftrag**
+
+§ 3 a.[^2-2] <sup>1</sup> Die Hochschulen bereiten durch praxisorientierte Studiengänge auf berufliche Tätigkeiten vor, welche die Anwendung wissenschaftlicher Erkenntnisse und Methoden oder gestalterische und künstlerische Fähigkeiten erfordern.
+
+<sup>2</sup> Sie ergänzen ihre Studiengänge durch Weiterbildungsangebote.
+
+**1**
+
+1.10. 24 - 126
+
+<sup>3</sup> Sie betreiben anwendungsorientierte Forschung und Entwicklung und erbringen Dienstleistungen für Dritte.
+
+<sup>4</sup> Sie verleihen Titel nach Massgabe des Bundesrechts und ihrer Studienordnungen.
+
+**Zusammenarbeit**
+
+§ 3 b.[^2-2] Die Hochschulen arbeiten mit anderen in- und ausländischen Bildungs- und Forschungseinrichtungen zusammen.
+
+**Diversität**
+
+§ 3 c.[^2-2] <sup>1</sup> Die Hochschulen fördern die Chancengerechtigkeit und Diversität.
+
+<sup>2</sup> Sie streben eine ausgewogene Vertretung der Geschlechter in allen Funktionen und Gremien an.
 
 **Freiheit und Verantwortung der Wissenschaft**
 
-§ 4.[^h1TeilGrundlagen-1] <sup>1</sup> Die Freiheit von Lehre und Forschung ist gewährleistet.
+§ 4.[^2-3] <sup>1</sup> Die Freiheit von Lehre und Forschung ist gewährleistet.
 
 <sup>2</sup> Wer lehrt oder forscht, beurteilt die eingesetzten Mittel und die möglichen Folgen der wissenschaftlichen Arbeit unter ethischen Gesichtspunkten und im Hinblick auf ihre möglichen Auswirkungen auf Mensch und Umwelt.
 
 <sup>3</sup> Die Hochschulen treffen entsprechende Vorkehrungen.
 
-**1**
+**Besondere Leistungen**
 
-- 1\. 1. 23 - 119 § 5.[^h1TeilGrundlagen-1] Die Hochschulen können für ihre Angehörigen soziale, kulturelle und gesundheitsfördernde Einrichtungen sowie Einrichtungen des Hochschulsports führen oder unterstützen.
+§ 5.[^2-1] <sup>1</sup> Die Hochschulen können zugunsten der Öffentlichkeit besondere wissenschaftliche und kulturelle Leistungen erbringen.
 
-**Ergänzende Leistungen**
+<sup>2</sup> Sie können für ihre Angehörigen soziale, kulturelle und gesundheitsfördernde Einrichtungen sowie Einrichtungen des Hochschulsports führen oder unterstützen.
+
+<sup>3</sup> Die ZHdK kann im Leistungsbereich Tanz gemäss § 28 Abs. 2 Wohneinrichtungen für Kinder und Jugendliche führen oder unterstützen.
 
 **Beteiligungen**
 
-§ 6.[^h1TeilGrundlagen-1] <sup>1</sup> Die Hochschulen können sich an juristischen Personen des öffentlichen und des privaten Rechts und an Gesellschaften beteiligen.
+§ 6.[^2-3] <sup>1</sup> Die Hochschulen können sich an juristischen Personen des öffentlichen und des privaten Rechts und an Gesellschaften beteiligen.
 
 <sup>2</sup> Sie dürfen in den verantwortlichen Organen dieser juristischen Personen und Gesellschaften keine Mehrheitsposition einnehmen, ausgenommen bei der Zusammenarbeit mit anderen Hochschulen.
 
@@ -83,7 +116,7 @@ beschliesst:
 
 **Bearbeitung von Personendaten**
 
-§ 6 a.[^h1TeilGrundlagen-2] <sup>1</sup> Die Hochschulen bearbeiten für die Erfüllung ihrer Aufgaben nach diesem Gesetz Daten, einschliesslich Personendaten und besonderer Personendaten von a. Studierenden,
+§ 6 a.[^2-4] <sup>1</sup> Die Hochschulen bearbeiten für die Erfüllung ihrer Aufgaben nach diesem Gesetz Daten, einschliesslich Personendaten und besonderer Personendaten von a. Studierenden,
 
 - b. Teilnehmenden an Weiterbildungsstudiengängen und -programmen,
 
@@ -103,15 +136,19 @@ beschliesst:
 
 **Aufbewahrungsfristen**
 
-§ 6 b.[^h1TeilGrundlagen-2] Der Fachhochschulrat kann von § 5 Abs. 2 des Gesetzes über die Information und den Datenschutz vom 12. Februar 2007[^h1TeilGrundlagen-3] abweichende Aufbewahrungsfristen festlegen für Personendaten und besondere Personendaten in a. Aus- und Weiterbildungsausweisen,
+§ 6 b.[^2-4] Der Fachhochschulrat kann von § 5 Abs. 2 des Gesetzes über die Information und den Datenschutz vom 12. Februar 2007[^2-5] abweichende Aufbewahrungsfristen festlegen für Personendaten und besondere Personendaten in a. Aus- und Weiterbildungsausweisen,
 
 - b. Abschlussarbeiten.
 
-[^h1TeilGrundlagen-1]: In Kraft seit 1. August 2007 (OS 62, 271).
-[^h1TeilGrundlagen-2]: Eingefügt durch G über die Anpassung der Gesetzgebung im Bereich der Bildungsdirektion an das Gesetz über die Information und den Datenschutz vom 24. August 2015 (OS 71, 9; ABl 2014-11-14). In Kraft seit 1. Januar 2017 (OS 71, 463; ABl 2016-10-14).
-[^h1TeilGrundlagen-3]: LS 170.4.
+[^2-1]: Fassung gemäss G vom 13. November 2023 (OS 79, 227; ABl 2021-09-24). In Kraft seit 1. August 2024.
+[^2-2]: Eingefügt durch G vom 13. November 2023 (OS 79, 227; ABl 2021-09-24). In Kraft seit 1. August 2024.
+[^2-3]: In Kraft seit 1. August 2007 (OS 62, 271).
+[^2-4]: Eingefügt durch G über die Anpassung der Gesetzgebung im Bereich der Bildungsdirektion an das Gesetz über die Information und den Datenschutz vom 24. August 2015 (OS 71, 9; ABl 2014-11-14). In Kraft seit 1. Januar 2017 (OS 71, 463; ABl 2016-10-14).
+[^2-5]: LS 170.4.
 
-### 2. Teil: Kantonale Behörden
+### 2. Teil: Organisation
+
+[^2-1]
 
 ### 1. Abschnitt: Kantonsrat und Regierungsrat
 
@@ -123,22 +160,19 @@ beschliesst:
 
 - b. legt die Hauptstandorte der Hochschulen fest,
 
-- c. beschliesst die Globalbudgets der Hochschulen und die weiteren Staatsleistungen,
+- c. beschliesst die Globalbudgets der Hochschulen und die weiteren Staatsleistungen, d.[^h1AbschnittKanton-2] genehmigt die Jahresberichte, e.[^h1AbschnittKanton-3] genehmigt die Wahl der Präsidentin oder des Präsidenten und der einzelnen Mitglieder des Fachhochschulrates.
 
-- d. genehmigt die Geschäftsberichte, e.[^h1AbschnittKanton-2] genehmigt die Wahl der Präsidentin oder des Präsidenten und der einzelnen Mitglieder des Fachhochschulrates.
+**3**
+
+1.10. 24 - 126 § 8.[^h1AbschnittKanton-1] <sup>1</sup> Der Regierungsrat übt die allgemeine Aufsicht über die Hochschulen aus.
 
 **Regierungsrat**
 
-§ 8.[^h1AbschnittKanton-1] <sup>1</sup> Der Regierungsrat übt die allgemeine Aufsicht über die Hochschulen aus.
-
-<sup>2</sup> Der Regierungsrat a. stellt dem Kantonsrat Antrag für Beschlüsse gemäss § 7 Abs. 2, b.[^h1AbschnittKanton-2] wählt die Präsidentin oder den Präsidenten und die weiteren Mitglieder des Fachhochschulrates und legt die Entschädigung fest,
-
-- c. ordnet Zulassungsbeschränkungen und Höchststudiendauern an,
-
-- d. trifft im Bereich der nichtstaatlichen Hochschulen die Entscheidungen gemäss §§ 34 f.
+<sup>2</sup> Der Regierungsrat a. stellt dem Kantonsrat Antrag für Beschlüsse gemäss § 7 Abs. 2, b.[^h1AbschnittKanton-3] wählt die Präsidentin oder den Präsidenten und die weiteren Mitglieder des Fachhochschulrates und legt die Entschädigung fest, c.[^h1AbschnittKanton-2] ordnet Zulassungsbeschränkungen an, d.[^h1AbschnittKanton-2] trifft im Bereich der privaten Hochschulen die Entscheidungen gemäss §§ 34 f.
 
 [^h1AbschnittKanton-1]: In Kraft seit 1. August 2007 (OS 62, 271).
-[^h1AbschnittKanton-2]: Fassung gemäss G vom 13. Juni 2022 (OS 77, 468; ABl 2021-09-24). In Kraft seit 1. November 2022. 1. 1. 23 - 119 13
+[^h1AbschnittKanton-2]: Fassung gemäss G vom 13. November 2023 (OS 79, 227; ABl 2021-09-24). In Kraft seit 1. August 2024.
+[^h1AbschnittKanton-3]: Fassung gemäss G vom 13. Juni 2022 (OS 77, 468; ABl 2021-09-24). In Kraft seit 1. November 2022.
 
 ### 2. Abschnitt: Fachhochschulrat
 
@@ -148,15 +182,19 @@ beschliesst:
 
 <sup>2</sup> Die Amtsdauer der gewählten Mitglieder beträgt vier Jahre. Die Wiederwahl ist zweimal möglich.
 
-**3**
-
-- 1\. 1. 23 - 119
-
 <sup>3</sup> An den Sitzungen des Fachhochschulrates nehmen mit beratender Stimme teil:
 
-- a. die Rektorinnen und Rektoren der Hochschulen,
+- a. die Rektorinnen und Rektoren der Hochschulen, b.[^h2AbschnittFachho-2] je eine Vertreterin oder ein Vertreter
 
-- b. je eine Vertreterin oder ein Vertreter der Studierenden, der Dozierenden und des übrigen Hochschulpersonals,
+- 1\. der Professorinnen und Professoren,
+
+- 2\. des Lehr- und Forschungspersonals,
+
+- 3\. der Assistierenden,
+
+- 4\. des administrativen und technischen Personals,
+
+- 5\. der Studierenden.
 
 - c. die Leiterin oder der Leiter des für den Fachhochschulbereich zuständigen Amtes.
 
@@ -164,42 +202,57 @@ beschliesst:
 
 **Funktion und Aufgaben**
 
-§ 10.[^h2AbschnittFachho-2] <sup>1</sup> Der Fachhochschulrat ist oberstes Organ der ZFH. Ihm obliegt die strategische Führung der Hochschulen.
+§ 10.[^h2AbschnittFachho-3] <sup>1</sup> Der Fachhochschulrat ist oberstes Organ des Hochschulbereichs. Er führt den Hochschulbereich strategisch und übt die Aufsicht über die Hochschulen aus.
 
-<sup>2</sup> Er stellt dem Regierungsrat Antrag für die Beschlüsse gemäss § 7 Abs. 2 lit. b und c sowie § 8 Abs. 2 lit. c und d. Für die Antragsstellung an den Regierungsrat gilt dessen Organisationsrecht.
+<sup>2</sup> Er stellt zuhanden des Regierungsrates Antrag a. zur Festlegung der Hauptstandorte der Hochschulen,
 
-<sup>3</sup> Der Fachhochschulrat a. legt Studienangebote und Strukturen der Hochschulen fest, insbesondere die Departemente und die Organisationseinheiten gleicher Stufe,
+- b. auf Verabschiedung der Jahresberichte,
 
-- b. beschliesst über Akkreditierungs- und Genehmigungsgesuche sowie über die Berichterstattung an die zuständigen Bundesbehörden,
+- c. auf Anordnung von Zulassungsbeschränkungen,
 
-- c. erlässt die Prüfungs- und Promotionsordnungen,
+- d. auf Entscheidungen im Bereich der privaten Hochschulen gemäss §§ 34 f.
 
-- d. verabschiedet die Entwicklungs- und Finanzpläne der Hochschulen,
+<sup>3</sup> Für die Antragstellung an den Regierungsrat gilt das Organisationsrecht des Regierungsrates.
 
-- e. entscheidet über die Verwendung der Rücklagen,
+<sup>4</sup> Der Fachhochschulrat a. genehmigt die Strategien der Hochschulen,
 
-- f. genehmigt die Hochschul- und Departementsordnungen,
+- b. legt das Studienangebot auf Bachelor- und Masterstufe abschliessend fest und bewilligt die Studiengänge,
 
-- g. genehmigt die Organisationsordnungen von Instituten sowie deren Gründung oder Auflösung,
+- c. erlässt die Rahmenordnungen für die Bachelor- und Masterstudiengänge, wobei er Höchststudiendauern anordnen kann,
 
-- h. beschliesst über die Integration von Fachbereichen oder Studiengängen in die ZFH gemäss § 3 Abs. 3,
+- d. erlässt eine Rahmenordnung für die Weiterbildungsstudiengänge,
 
-- i. wählt die Rektorinnen und Rektoren sowie deren Stellvertreterinnen und Stellvertreter auf eine Amtszeit von vier Jahren,
+- e. überwacht das System der Qualitätssicherung und Qualitätsentwicklung,
 
-- j. stellt die übrigen Mitglieder der Hochschulleitungen an,
+- f. verabschiedet die Entwicklungs- und Finanzpläne der Hochschulen,
 
-- k. verleiht Professorinnen- und Professorentitel,
+- g. legt die Gliederungseinheiten der Hochschulen fest, insbesondere die Departemente, Prorektorate und Organisationseinheiten gleicher Stufe, und genehmigt deren Ordnungen,
 
-- l. regelt die kantonalen Zulassungsvoraussetzungen,
+- h. genehmigt die Organisationsordnungen von Instituten sowie deren Gründung oder Auflösung,
 
-- m. erfüllt die weiteren Aufgaben gemäss diesem Gesetz.
+- i. beschliesst über die Integration von Fachbereichen oder Studiengängen in die Hochschulen gemäss § 3 Abs. 3,
 
-<sup>4</sup> Wiederwahl in den Fällen von lit. i ist zweimal möglich. In besonderen Fällen kann die Amtsdauer verlängert werden.
+- j. wählt die Rektorinnen und Rektoren sowie deren Stellvertreterinnen und Stellvertreter auf eine Amtsdauer von vier Jahren und entlässt sie,
 
-<sup>5</sup> Der Fachhochschulrat regelt seine Organisation und die Behandlung der ihm übertragenen Geschäfte.
+- k. ernennt und entlässt die weiteren Mitglieder der Hochschulleitungen,
+
+- l. genehmigt die Stellenplanung der Hochschulen für die Professuren und ernennt und entlässt die Professorinnen und Professoren,
+
+- m. regelt die kantonalen Zulassungsvoraussetzungen,
+
+- n. erfüllt die weiteren Aufgaben gemäss diesem Gesetz.
+
+<sup>5</sup> Wiederwahl der Rektorinnen und Rektoren sowie ihrer Stellvertreterinnen und Stellvertreter ist möglich.
+
+<sup>6</sup> Der Fachhochschulrat regelt seine Organisation und die Behandlung der ihm übertragenen Geschäfte.
+
+**5**
+
+1.10. 24 - 126
 
 [^h2AbschnittFachho-1]: In Kraft seit 1. Januar 2008 (OS 62, 271).
-[^h2AbschnittFachho-2]: In Kraft seit 1. August 2007 (OS 62, 271).
+[^h2AbschnittFachho-2]: Fassung gemäss G vom 22. Februar 2021 (OS 77, 470; ABl 2020-01-17). In Kraft seit 1. August 2024.
+[^h2AbschnittFachho-3]: Fassung gemäss G vom 13. November 2023 (OS 79, 227; ABl 2021-09-24). In Kraft seit 1. August 2024.
 
 ### 3. Abschnitt: Rektorenkonferenz
 
@@ -217,39 +270,73 @@ beschliesst:
 
 **Zusammensetzung**
 
-§ 12.[^hAHochschulpersonal-1] <sup>1</sup> Angehörige des Hochschulpersonals sind:
+§ 12.[^hAHochschulpersonal-1] <sup>1</sup> Das Hochschulpersonal setzt sich zusammen aus a. den Professorinnen und Professoren,
 
-- a. die Dozierenden,
+- b. dem Lehr- und Forschungspersonal,
 
-- b. die Lehrbeauftragten mit befristeter Anstellung,
+- c. den Assistierenden,
 
-- c. die Assistierenden und die wissenschaftlichen Mitarbeitenden,
-
-- d. das administrative und technische Personal.
+- d. dem administrativen und technischen Personal.
 
 <sup>2</sup> Der Regierungsrat kann weitere Personalkategorien bilden.
 
-<sup>3</sup> Zum Hochschulpersonal gehören auch die mit entsprechenden Aufgaben betrauten Mitarbeitenden, die privatrechtlich angestellt sind.
+<sup>3</sup> Die Verordnung regelt Aufgaben, Verantwortung, Kompetenzen, Schnittstellen und Übergänge der Personalkategorien gemäss Abs. 1 lit. a–c sowie innerhalb von Abs. 1 lit. b.
+
+<sup>4</sup> Zum Hochschulpersonal gehören auch die Mitarbeitenden, die privatrechtlich angestellt sind.
+
+**Qualifikationsstellen**
+
+§ 12 a.[^hAHochschulpersonal-2] <sup>1</sup> Zur Nachwuchsförderung können befristete Stellen (Qualifikationsstellen) geschaffen werden.
+
+<sup>2</sup> Inhaberinnen und Inhaber von Qualifikationsstellen gehören dem Lehr- und Forschungspersonal oder den Assistierenden an.
+
+<sup>3</sup> Inhaberinnen und Inhaber von Qualifikationsstellen für Professuren (Assistenzprofessorinnen und Assistenzprofessoren) gehören dem Lehr- und Forschungspersonal an.
+
+**Anforderungen**
+
+§ 12 b.[^hAHochschulpersonal-2] <sup>1</sup> Die Professorinnen und Professoren sowie das Lehr- und Forschungspersonal verfügen nebst einer abgeschlossenen Hochschulausbildung oder einem gleichwertigen Abschluss über Berufserfahrung.
+
+<sup>2</sup> Die Professorinnen und Professoren verfügen über mehrjährige Berufserfahrung, davon mindestens fünf Jahre einschlägige Praxis oder in einer gleichwertigen Tätigkeit.
+
+<sup>3</sup> Die Anstellungsbehörde kann ausnahmsweise vom Erfordernis eines Hochschulabschlusses oder der Berufserfahrung absehen, wenn die fachliche Eignung auf andere Weise nachgewiesen wird.
+
+<sup>4</sup> Die Professorinnen und Professoren sowie das Lehrpersonal müssen über eine methodisch-didaktische Qualifikation verfügen.
 
 **Aufgaben**
 
-§ 13.[^hAHochschulpersonal-1] <sup>1</sup> Die Dozierenden sowie die Lehrbeauftragten bilden den Lehrkörper und sind verantwortlich für Lehre, Weiterbildung, Forschung und Entwicklung sowie Dienstleistungen. Sie wirken bei administrativen Aufgaben mit.
+§ 13.[^hAHochschulpersonal-1] <sup>1</sup> Die Professorinnen und Professoren sowie das Lehr- und Forschungspersonal sind verantwortlich für Lehre, Forschung und Entwicklung, Weiterbildung sowie Dienstleistungen. Sie wirken bei organisatorischen Aufgaben mit.
 
-<sup>2</sup> Die Assistierenden und die wissenschaftlichen Mitarbeitenden bilden den Mittelbau und unterstützen den Lehrkörper in seinen Aufgaben.
+<sup>2</sup> Die Professorinnen und Professoren tragen die Hauptverantwortung für die Entwicklung ihres Fachgebiets.
 
-<sup>3</sup> Das administrative und technische Personal stellt den Betrieb sicher.
+<sup>3</sup> Die Assistierenden unterstützen die Professorinnen und Professoren sowie das Lehr- und Forschungspersonal in ihren Aufgaben.
+
+<sup>4</sup> Das administrative und technische Personal stellt den Betrieb sicher.
 
 **Rechtsstellung**
 
-§ 14.[^hAHochschulpersonal-1] <sup>1</sup> Das Hochschulpersonal untersteht dem Personalrecht der Staatsangestellten. Die Verordnung kann abweichende Bestimmungen vorsehen, soweit es die Verhältnisse an den Hochschulen erfordern.
+§ 14.[^hAHochschulpersonal-3] <sup>1</sup> Das Hochschulpersonal untersteht dem Personalrecht der Staatsangestellten. Die Verordnung kann abweichende Bestimmungen vorsehen, soweit es die Verhältnisse an den Hochschulen erfordern.
 
 <sup>2</sup> Das Hochschulpersonal hat ein Recht auf Mitwirkung.
 
 <sup>3</sup> Die Verordnung kann privatrechtliche Anstellungen vorsehen.
 
-**5**
+**Offenlegung von Interessenbindungen**
 
-- 1\. 1. 23 - 119 § 15.[^hAHochschulpersonal-1] Die Verordnung regelt:
+§ 14 a.[^hAHochschulpersonal-4] <sup>1</sup> Jedes Mitglied der Hochschulleitung sowie jede Professorin und jeder Professor unterrichtet die Hochschulleitung schriftlich über:
+
+- a. Tätigkeiten in Führungs- und Aufsichtsgremien kommunaler, kantonaler, schweizerischer und ausländischer Körperschaften, Gesellschaften, Anstalten und Stiftungen des privaten und öffentlichen Rechts,
+
+- b. dauernde Leitungs- und Beratungsfunktionen für kommunale, kantonale, schweizerische und ausländische Interessengruppen,
+
+- c. Mitwirkung in Kommissionen und anderen Organen des Bundes, des Kantons und der Gemeinden.
+
+<sup>2</sup> Änderungen sind zu Beginn jedes Kalenderjahres anzugeben. Das Berufsgeheimnis bleibt vorbehalten.
+
+<sup>3</sup> Der Fachhochschulrat regelt die Einzelheiten, insbesondere die Veröffentlichung der Angaben.
+
+**7**
+
+1.10. 24 - 126 § 15.[^hAHochschulpersonal-3] Die Verordnung regelt:
 
 **Nebentätigkeiten**
 
@@ -257,17 +344,20 @@ beschliesst:
 
 - b. die Abgaben für die Beanspruchung von Einrichtungen oder Personal der Hochschule bei Nebentätigkeiten.
 
-**Rechte an Immaterialgütern**
+**Rechte an Immaterialgütern a. Grundsatz**
 
-§ 16.[^hAHochschulpersonal-1] <sup>1</sup> Bei Erfindungen, Designs und urheberrechtlich geschützten Werken, die das Hochschulpersonal in Ausübung seiner dienstlichen Tätigkeit geschaffen hat, gelten folgende Regelungen:
+§ 16.[^hAHochschulpersonal-1] Die Hochschulen fördern die Entwicklung von Immaterialgütern und setzen sich für deren Schutz ein. Sie unterstützen die Verwertung der Immaterialgüterrechte.
 
-- a. Erfindungen und Designs stehen im Eigentum der Hochschule. Die Erfinderin oder der Erfinder ist angemessen am Gewinn zu beteiligen.
+**b. Einzelheiten**
 
-- b. Bei Computerprogrammen und anderen urheberrechtlich geschützten Werken liegen die ausschliesslichen Verwendungsbefugnisse bei der Hochschule. Die Urheberin oder der Urheber ist angemessen am Gewinn zu beteiligen.
+§ 16 a.[^hAHochschulpersonal-2] <sup>1</sup> Rechte an Immaterialgütern, insbesondere Urheber-, Design-, Marken- und Patentrechte, die in Ausübung dienstlicher Verpflichtungen geschaffen werden, gehören der Hochschule. Abweichende Vereinbarungen bleiben vorbehalten. Das Urheberpersönlichkeitsrecht bleibt gewahrt.
 
-<sup>2</sup> In besonderen Fällen sind abweichende Vereinbarungen zulässig.
+<sup>2</sup> Soweit die Hochschule aus der Verwertung von Rechten an Immaterialgütern einen Gewinn erzielt, ist das an ihrer Schaffung mitwirkende Hochschulpersonal angemessen zu beteiligen. Die Verordnung regelt die Einzelheiten.
 
-[^hAHochschulpersonal-1]: In Kraft seit 1. Januar 2008 (OS 62, 271).
+[^hAHochschulpersonal-1]: Fassung gemäss G vom 22. Februar 2021 (OS 77, 470; ABl 2020-01-17). In Kraft seit 1. August 2024.
+[^hAHochschulpersonal-2]: Eingefügt durch G vom 22. Februar 2021 (OS 77, 470; ABl 2020-01-17). In Kraft seit 1. August 2024.
+[^hAHochschulpersonal-3]: In Kraft seit 1. Januar 2008 (OS 62, 271).
+[^hAHochschulpersonal-4]: Eingefügt durch G vom 13. November 2023 (OS 79, 227; ABl 2021-09-24). In Kraft seit 1. August 2024.
 
 ### B. Studierende
 
@@ -275,7 +365,7 @@ beschliesst:
 
 § 17.[^hBStudierende-1] <sup>1</sup> Studienanwärterinnen und -anwärter werden zum Studium zugelassen, wenn sie die Zulassungsvoraussetzungen des Bundesrechts und des kantonalen Rechts erfüllen.
 
-<sup>2</sup> Eignungsabklärungen können als Zulassungsvoraussetzung für das Studium auf der Masterstufe und, sofern nach Bundesrecht zulässig, auf der Bachelorstufe durchgeführt werden. Die Abklärungen können ausserschulischen oder ausserkantonalen Stellen übertragen werden.
+<sup>2</sup> Eignungsabklärungen können als Zulassungsvoraussetzung für das Studium auf Bachelor- und Masterstufe sowie für Leistungsbereiche, die nicht der Hochschulstufe zuzurechnen sind, durchgeführt werden. Die Abklärungen können ausserschulischen oder ausserkantonalen Stellen übertragen werden.[^hBStudierende-2]
 
 **Zulassungsbeschränkungen**
 
@@ -287,15 +377,13 @@ beschliesst:
 
 <sup>4</sup> Der Regierungsrat kann die Zahl der ausländischen Studierenden, die zum Zeitpunkt der Erlangung des Hochschulzulassungsausweises ihren gesetzlichen Wohnsitz im Ausland hatten, beschränken.
 
-<sup>5</sup> Die Regelung gilt sinngemäss für Leistungsbereiche, die nicht der Hochschulstufe zuzurechnen sind.[^hBStudierende-2]
+<sup>5</sup> Die Regelung gilt sinngemäss für Leistungsbereiche, die nicht der Hochschulstufe zuzurechnen sind.[^hBStudierende-3]
 
 **Studiendauer und Studienform**
 
-§ 19.[^hBStudierende-1] <sup>1</sup> Auf der Bachelorstufe entspricht der Umfang der zu erbringenden Studienleistung einem Vollzeitstudium von drei Jahren, auf der Masterstufe einem solchen von eineinhalb bis zwei Jahren.
+§ 19.[^hBStudierende-2] <sup>1</sup> Die Hochschulen können ihre Studiengänge in verschiedenen Studienformen anbieten. Bezüglich Ausrichtung und Studiendauer richten sie sich nach dem Bundesrecht.
 
-<sup>2</sup> Die Verordnung regelt die Höchststudiendauern. Studierende, welche die Höchststudiendauer überschreiten, können ausgeschlossen werden.
-
-<sup>3</sup> Das Diplomstudium und das Nachdiplomstudium können als Vollzeit- oder Teilzeitstudium, als berufsbegleitendes Studium oder in anderer Form angeboten werden. Sie können in Ausbildungsblöcke mit Zwischenabschlüssen gegliedert werden.
+<sup>2</sup> Studierende, welche die Höchststudiendauer überschreiten, können ausgeschlossen werden.
 
 **Disziplinarordnung**
 
@@ -315,10 +403,12 @@ beschliesst:
 
 § 22.[^hBStudierende-1] <sup>1</sup> Die Verordnung regelt die Rechte und Pflichten der Studierenden sowie der Auditorinnen und Auditoren.
 
-<sup>2</sup> § 16 gilt auch für die Studierenden, falls die Erfindung, das Design, das Computerprogramm oder ein anderes urheberrechtlich geschütztes Werk im Rahmen des Studiums an einer Hochschule entstanden ist.
+<sup>2</sup> § 16 a gilt auch für Studierende, die Immaterialgüter im Rahmen ihres Studiums schaffen.[^hBStudierende-4]
 
 [^hBStudierende-1]: In Kraft seit 1. August 2007 (OS 62, 271).
-[^hBStudierende-2]: Eingefügt durch G vom 22. Oktober 2018 (OS 75, 109; ABl 2017-11-24). In Kraft seit 1. August 2020.
+[^hBStudierende-2]: Fassung gemäss G vom 13. November 2023 (OS 79, 227; ABl 2021-09-24). In Kraft seit 1. August 2024.
+[^hBStudierende-3]: Eingefügt durch G vom 22. Oktober 2018 (OS 75, 109; ABl 2017-11-24). In Kraft seit 1. August 2020. 1.10. 24 - 126 15
+[^hBStudierende-4]: Fassung gemäss G vom 22. Februar 2021 (OS 77, 470; ABl 2020-01-17). In Kraft seit 1. August 2024.
 
 ### 2. Abschnitt: Organe der Hochschulen
 
@@ -326,61 +416,78 @@ beschliesst:
 
 § 23.[^h2AbschnittOrgane-1] <sup>1</sup> Die Rektorin oder der Rektor leitet die Hochschule. Sie oder er führt den Vorsitz in der Hochschulleitung und vertritt die Hochschule gegen aussen.
 
-<sup>2</sup> Die Rektorin oder der Rektor a. beantragt dem Fachhochschulrat die Ernennung einer Stellvertreterin oder eines Stellvertreters aus dem Kreis der Departementsleiterinnen oder Departementsleiter,
+<sup>2</sup> Die Rektorin oder der Rektor[^h2AbschnittOrgane-2] a. führt die Mitglieder der Hochschulleitung,
 
-**7**
+- b. beantragt dem Fachhochschulrat die Ernennung einer Stellvertreterin oder eines Stellvertreters aus dem Kreis der Mitglieder der Hochschulleitung,
 
-- 1\. 1. 23 - 119
+- c. entscheidet endgültig, wenn sich die Mitglieder der Hochschulleitung über Anträge an übergeordnete Instanzen nicht einig sind,
 
-- b. entscheidet endgültig, wenn sich die Mitglieder der Hochschulleitung über Anträge an übergeordnete Instanzen nicht einig sind,
+**9**
 
-- c. entscheidet über die Zuteilung der Mittel im Rahmen des Globalbudgets,
+1.10. 24 - 126 d. beantragt das Globalbudget und die Jahresrechnung und entscheidet über die Zuteilung der Mittel im Rahmen des Globalbudgets,
 
-- d. ist für alle Belange der Hochschule zuständig, die keinem anderen Organ übertragen sind.
+- e. ist für alle Belange der Hochschule zuständig, die keinem anderen Organ übertragen sind.
 
 **Hochschulleitung**
 
-§ 24.[^h2AbschnittOrgane-1] <sup>1</sup> Die Hochschulleitung setzt sich zusammen aus a. der Rektorin oder dem Rektor,
+§ 24.[^h2AbschnittOrgane-2] <sup>1</sup> Die Hochschulleitung setzt sich zusammen aus a. der Rektorin oder dem Rektor,
 
-- b. den Departementsleiterinnen und Departementsleitern,
+- b. den Leiterinnen und Leitern der Departemente und Prorektorate,
 
-- c. der Verwaltungsdirektorin oder dem Verwaltungsdirektor.
+- c. der Verwaltungsdirektorin oder dem Verwaltungsdirektor,
 
-<sup>2</sup> Die Hochschulleitung a. verleiht Bachelor- und Masterdiplome sowie andere Diplome und Titel nach Massgabe der Prüfungs- und Promotionsordnungen,
+- d. den weiteren Mitgliedern gemäss § 10 Abs. 4 lit. k.
 
-- b. erlässt die Hochschulordnung sowie die Departements- und Institutsordnungen,
+<sup>2</sup> Die Hochschulleitung a. legt die Hochschulstrategie fest,
 
-- c. kann Beiräte schaffen,
+- b. erlässt die Hochschulordnung sowie weitere für die Führung bedeutsame Ordnungen, insbesondere die Departements-, Prorektorats- und Institutsordnungen,
 
-- d. sorgt für die Qualitätssicherung,
+- c. erlässt die Studienordnungen,
 
-- e. beantragt dem Fachhochschulrat das Globalbudget und den Entwicklungs- und Finanzplan,
+- d. verleiht Bachelor- und Masterdiplome sowie andere Diplome und Titel nach Massgabe der Studienordnungen,
 
-- f. koordiniert die Lehre, Weiterbildung, Forschung und Entwicklung sowie die Dienstleistungen,
+- e. kann Beiräte schaffen,
 
-- g. stellt das Personal an und nimmt die Personalführung wahr. Sie kann diese Aufgabe ganz oder teilweise an die Departementsleitungen delegieren.
+- f. sorgt für die Qualitätssicherung,
 
-**Departementsleitung**
+- g. beantragt dem Fachhochschulrat den Jahresbericht und den Entwicklungs- und Finanzplan,
 
-§ 25.[^h2AbschnittOrgane-1] <sup>1</sup> Die Departementsleiterinnen und Departementsleiter führen ihr Departement und vertreten es gegen aussen.
+- h. koordiniert die Lehre, Weiterbildung, Forschung und Entwicklung sowie die Dienstleistungen,
 
-<sup>2</sup> Sie bereiten die ihr Departement betreffenden Geschäfte zuhanden der Hochschulleitung vor und nehmen zu Fragen Stellung, die für das Departement oder die Hochschule von grundlegender Bedeutung sind.
+- i. stellt das Personal an, entlässt es und nimmt die Personalführung wahr, soweit diese Aufgaben nicht durch Gesetz oder Verordnung einem anderen Organ zugewiesen sind. Die Hochschulleitung kann diese Aufgaben ganz oder teilweise an einzelne Mitglieder der Hochschulleitung übertragen.
 
-<sup>3</sup> Sie führen in der Regel den Titel einer Direktorin oder eines Direktors.
+<sup>3</sup> Der Fachhochschulrat legt die Bezeichnungen für die Mitglieder der Hochschulleitung fest.
 
-**Hochschulversammlung**
+**Leitung der Departemente und Prorektorate**
 
-§ 26.[^h2AbschnittOrgane-1] <sup>1</sup> Die Hochschulversammlung setzt sich zusammen aus Delegierten a. der Dozierenden und Lehrbeauftragten,
+§ 25.[^h2AbschnittOrgane-2] <sup>1</sup> Die Leiterinnen und Leiter der Departemente und der Prorektorate führen ihre Organisationseinheiten und vertreten sie nach aussen.
 
-- b. der Assistierenden und wissenschaftlichen Mitarbeitenden sowie des administrativen und technischen Personals,
+<sup>2</sup> Sie bereiten die ihre Organisationseinheit betreffenden Geschäfte zuhanden der Hochschulleitung vor und nehmen zu Fragen Stellung, die für ihre Organisationseinheit oder die Hochschule von grundlegender Bedeutung sind.
 
-- c. der Studierenden.
+**Mitwirkungsorgane a. Hochschulversammlung**
 
-<sup>2</sup> Die Hochschulversammlung nimmt zu Fragen Stellung, die für die Hochschule von grundlegender Bedeutung sind, insbesondere zur Besetzung der Hochschulleitung.
+§ 26.[^h2AbschnittOrgane-3] <sup>1</sup> Die Hochschulversammlung setzt sich zusammen aus Delegierten a. der Professorinnen und Professoren,
+
+- b. des Lehr- und Forschungspersonals,
+
+- c. der Assistierenden,
+
+- d. des administrativen und technischen Personals,
+
+- e. der Studierenden.
+
+<sup>2</sup> Die Hochschulversammlung nimmt zu Fragen Stellung, die für die Hochschule von grundlegender Bedeutung sind.
 
 <sup>3</sup> Der Fachhochschulrat regelt die Einzelheiten.
 
+**b. Weitere Mitwirkungsorgane**
+
+§ 26 a.[^h2AbschnittOrgane-4] Die Hochschulleitung kann Mitwirkungsorgane auf Stufe Departement vorsehen.
+
 [^h2AbschnittOrgane-1]: In Kraft seit 1. Januar 2008 (OS 62, 271).
+[^h2AbschnittOrgane-2]: Fassung gemäss G vom 13. November 2023 (OS 79, 227; ABl 2021-09-24). In Kraft seit 1. August 2024.
+[^h2AbschnittOrgane-3]: Fassung gemäss G vom 22. Februar 2021 (OS 77, 470; ABl 2020-01-17). In Kraft seit 1. August 2024.
+[^h2AbschnittOrgane-4]: Eingefügt durch G vom 22. Februar 2021 (OS 77, 470; ABl 2020-01-17). In Kraft seit 1. August 2024.
 
 ### 3. Abschnitt: Finanzen
 
@@ -402,6 +509,10 @@ beschliesst:
 
 § 29.[^h3AbschnittFinanz-1] <sup>1</sup> Die finanzielle Unterstützung der Hochschulen durch Dritte und die Erbringung von Dienstleistungen zugunsten Dritter dürfen die Freiheit und Verantwortung von Lehre und Forschung nicht gefährden.
 
+**11**
+
+1.10. 24 - 126
+
 <sup>2</sup> Die Verordnung regelt die Grundsätze für den Einsatz von Drittmitteln und für die Erbringung von Dienstleistungen zugunsten Dritter.
 
 **Gebühren a. Ordentliche Gebühren**
@@ -414,11 +525,9 @@ beschliesst:
 
 - c. Prüfungsgebühren von Fr. 150 bis Fr. 500,
 
-- d. Gebühren für Eignungsabklärungen von Fr. 600 bis Fr. 1200.
+- d. Gebühren für Eignungsabklärungen von Fr. 600 bis Fr. 1200. e.[^h3AbschnittFinanz-2] Gebühren für die Benutzung des Angebots einer Einrichtung des Hochschulsports von Fr. 25 bis Fr. 100 pro Semester, f.[^h3AbschnittFinanz-2] Gebühren für Vorbildungsangebote der ZHdK pro Studienjahr: für Hochschulstufe Vollzeit: Fr. 8000 bis Fr. 14 000 für Hochschulstufe Teilzeit: anteilmässig reduzierte Gebühr für Vollzeit für Berufsbildung: Fr. 2000 bis Fr. 3500.
 
-**9**
-
-- 1\. 1. 23 - 119 e.[^h3AbschnittFinanz-2] Gebühren für die Benutzung des Angebots einer Einrichtung des Hochschulsports von Fr. 25 bis Fr. 100 pro Semester, f.[^h3AbschnittFinanz-2] Gebühren für Vorbildungsangebote der ZHdK pro Studienjahr: für Hochschulstufe Vollzeit: Fr. 8000 bis Fr. 14 000 für Hochschulstufe Teilzeit: anteilmässig reduzierte Gebühr für Vollzeit für Berufsbildung: Fr. 2000 bis Fr. 3500.
+g.[^h3AbschnittFinanz-6] Gebühren für Wohneinrichtungen für Kinder und Jugendliche pro Studienjahr von Fr. 10 000 bis Fr. 40 000.
 
 <sup>2</sup> Der Regierungsrat kann den Gebührenrahmen der Teuerung anpassen.
 
@@ -428,7 +537,7 @@ beschliesst:
 
 **b. Zusätzliche Gebühr**
 
-§ 31.[^h3AbschnittFinanz-6] <sup>1</sup> Der Regierungsrat verlangt von Studierenden mit stipendienrechtlichem Wohnsitz ausserhalb des Kantons eine zusätzliche Gebühr, sofern sich der entsprechende Wohnsitzkanton nicht im Rahmen einer Vereinbarung an den Kosten der Hochschulen beteiligt. Die Höhe der Gebühr darf die Beitragssätze der Vereinbarung nicht überschreiten.
+§ 31.[^h3AbschnittFinanz-7] <sup>1</sup> Der Regierungsrat verlangt von Studierenden mit stipendienrechtlichem Wohnsitz ausserhalb des Kantons eine zusätzliche Gebühr, sofern sich der entsprechende Wohnsitzkanton nicht im Rahmen einer Vereinbarung an den Kosten der Hochschulen beteiligt. Die Höhe der Gebühr darf die Beitragssätze der Vereinbarung nicht überschreiten.
 
 <sup>2</sup> Diese Regelung gilt für ausländische Studierende und für Absolvierende der Leistungsbereiche gemäss § 28 Abs. 2 sinngemäss.
 
@@ -461,27 +570,35 @@ beschliesst:
 <sup>2</sup> Die Verordnung kann Abweichungen davon vorsehen, soweit es die Verhältnisse an den Hochschulen erfordern.
 
 [^h3AbschnittFinanz-1]: In Kraft seit 1. August 2007 (OS 62, 271).
-[^h3AbschnittFinanz-2]: Eingefügt durch G vom 22. Oktober 2018 (OS 75, 109; ABl 2017-11-24). In Kraft seit 1. August 2020.
+[^h3AbschnittFinanz-2]: Eingefügt durch G vom 22. Oktober 2018 (OS 75, 109; ABl 2017-11-24). In Kraft seit 1. August 2020. 1.10. 24 - 126 15
 [^h3AbschnittFinanz-3]: LS 172.1.
 [^h3AbschnittFinanz-4]: Fassung gemäss G über die Organisation des Regierungsrates und der kantonalen Verwaltung vom 2. November 2015 (OS 71, 153; ABl 2015-03-27). In Kraft seit 1. Januar 2018.
 [^h3AbschnittFinanz-5]: In Kraft seit 1. Januar 2008 (OS 62, 271).
-[^h3AbschnittFinanz-6]: Fassung gemäss G vom 22. Oktober 2018 (OS 75, 109; ABl 2017-11-24). In Kraft seit 1. August 2020.
+[^h3AbschnittFinanz-6]: Eingefügt durch G vom 13. November 2023 (OS 79, 227; ABl 2021-09-24). In Kraft seit 1. August 2024.
+[^h3AbschnittFinanz-7]: Fassung gemäss G vom 22. Oktober 2018 (OS 75, 109; ABl 2017-11-24). In Kraft seit 1. August 2020.
+[^h3AbschnittFinanz-8]: Fassung gemäss G vom 13. November 2023 (OS 79, 227; ABl 2021-09-24). In Kraft seit 1. August 2024.
 
-### 4. Teil: Nichtstaatliche Hochschulen
+### 4. Teil: Private Hochschulen
 
-**Anerkennung**
+[^h3AbschnittFinanz-8]
 
-§ 34.[^h4TeilNichtstaatl-1] <sup>1</sup> Der Regierungsrat kann Hochschulen, Fachbereiche oder Studiengänge nichtstaatlicher Trägerschaften anerkennen, wenn sie einem öffentlichen Bedürfnis entsprechen und die qualitativen Anforderungen für eine Akkreditierung nach Bundesrecht erfüllen.
+**Anerkennungen**
 
-<sup>2</sup> Er kann mit nichtstaatlichen Trägerschaften vereinbaren, dass sie einzelne Fachbereiche oder Studiengänge der ZFH führen.
+§ 34.[^h4TeilPrivateHoc-1] <sup>1</sup> Der Regierungsrat kann Hochschulen, weitere Institutionen des Hochschulbereichs, Fachbereiche oder Studiengänge privater Trägerschaften anerkennen, wenn sie einem öffentlichen Bedürfnis entsprechen und die Anforderungen für eine Akkreditierung nach Bundesrecht erfüllen.
+
+<sup>2</sup> Er kann mit privaten Trägerschaften vereinbaren, dass sie einzelne Fachbereiche oder Studiengänge der staatlichen Hochschulen führen.
 
 **Subventionen**
 
-§ 35.[^h4TeilNichtstaatl-1] <sup>1</sup> Der Regierungsrat kann an die Kosten der gemäss § 34 anerkannten Hochschulen, Fachbereiche oder Studiengänge und anderen vom Bund genehmigten Hochschulen nichtstaatlicher Trägerschaften Subventionen bis zu 80% der anrechenbaren Kosten leisten, wenn die Ausbildungsmöglichkeiten vom Kanton nicht oder nicht in einem ausreichenden Mass angeboten oder unterstützt werden.
+§ 35.[^h4TeilPrivateHoc-1] <sup>1</sup> Der Regierungsrat kann an die Kosten der gemäss § 34 anerkannten Hochschulen, weiteren Institutionen des Hochschulbereichs, Fachbereiche oder Studiengänge und anderen vom Bund genehmigten Hochschulen privater Trägerschaften Subventionen bis zu 80% der anrechenbaren Kosten leisten, wenn die Ausbildungsmöglichkeiten vom Kanton nicht oder nicht in einem ausreichenden Mass angeboten oder unterstützt werden.
 
-<sup>2</sup> Die finanzielle Unterstützung kann mit Bedingungen und Auflagen verbunden werden. Insbesondere kann dieses Gesetz auf Hochschulen, Fachbereiche oder Studiengänge als teilweise oder ganz anwendbar erklärt werden.
+<sup>2</sup> Die finanzielle Unterstützung kann mit Bedingungen und Auflagen verbunden werden. Insbesondere kann dieses Gesetz auf Hochschulen, weitere Institutionen des Hochschulbereichs, Fachbereiche oder Studiengänge als teilweise oder ganz anwendbar erklärt werden.
 
-[^h4TeilNichtstaatl-1]: In Kraft seit 1. August 2007 (OS 62, 271).
+**13**
+
+1.10. 24 - 126
+
+[^h4TeilPrivateHoc-1]: Fassung gemäss G vom 13. November 2023 (OS 79, 227; ABl 2021-09-24). In Kraft seit 1. August 2024.
 
 ### 5. Teil: Rechtsschutz und Titelschutz
 
@@ -489,17 +606,13 @@ beschliesst:
 
 § 36.[^h5TeilRechtsschut-1] <sup>1</sup> Anordnungen des Fachhochschulrates können gemäss Verwaltungsrechtspflegegesetz vom 24. Mai 1959[^h5TeilRechtsschut-2] mit Beschwerde beim Verwaltungsgericht angefochten werden.[^h5TeilRechtsschut-3]
 
-<sup>2</sup> Anordnungen staatlicher Hochschulen können mit Rekurs bei der Rekurskommission der Zürcher Hochschulen angefochten werden. Die Verordnung bezeichnet die Entscheide nichtstaatlicher Schulen, die dem Rekurs an die Rekurskommission unterliegen.
+<sup>2</sup> Anordnungen staatlicher Hochschulen können mit Rekurs bei der Rekurskommission der Zürcher Hochschulen angefochten werden. Die Verordnung bezeichnet die Entscheide privater Hochschulen, die dem Rekurs an die Rekurskommission unterliegen.[^h5TeilRechtsschut-4]
 
 <sup>3</sup> Verfügungen über das Ergebnis von Prüfungen und Promotionen werden auf Rechtsverletzungen einschliesslich Verletzung von Verfahrensvorschriften überprüft. Die Rüge der Unangemessenheit ist ausgeschlossen.
 
-**11**
-
-- 1\. 1. 23 - 119
-
 <sup>4</sup> Entscheide der Rekurskommission unterliegen nach Massgabe des Verwaltungsrechtspflegegesetzes[^h5TeilRechtsschut-2] der Beschwerde an das Verwaltungsgericht.
 
-**Titelentzug**
+**Titelschutz22**
 
 § 37.[^h5TeilRechtsschut-1] <sup>1</sup> Ein zu Unrecht verliehener Titel wird durch die Instanz entzogen, die ihn verliehen hat.
 
@@ -508,6 +621,7 @@ beschliesst:
 [^h5TeilRechtsschut-1]: In Kraft seit 1. August 2007 (OS 62, 271).
 [^h5TeilRechtsschut-2]: LS 175.2.
 [^h5TeilRechtsschut-3]: Fassung gemäss G über die Anpassung des kantonalen Verwaltungsverfahrensrechts vom 22. März 2010 (OS 65, 390; ABl 2009, 801). In Kraft seit 1. Juli 2010.
+[^h5TeilRechtsschut-4]: Fassung gemäss G vom 13. November 2023 (OS 79, 227; ABl 2021-09-24). In Kraft seit 1. August 2024.
 
 ### 6. Teil: Schluss- und Übergangsbestimmungen
 
@@ -537,11 +651,11 @@ beschliesst:
 
 § 40.[^h6TeilSchlussun-3] Das Fachhochschulgesetz vom 27. September 1998 wird aufgehoben.
 
-**Änderung bis-**
+**Änderung bisherigen Rechts**
 
 § 41.[^h6TeilSchlussun-4] Die nachfolgenden Gesetze werden wie folgt geändert:
 
-- a. Das Gesetz über die Pädagogische Hochschule (PHG) vom herigen Rechts 25. Oktober 1999[^h6TeilSchlussun-5]: . . .[^h6TeilSchlussun-6]
+- a. Das Gesetz über die Pädagogische Hochschule (PHG) vom 25. Oktober 1999[^h6TeilSchlussun-5]: . . .[^h6TeilSchlussun-6]
 
 - b. Das Universitätsgesetz (UniG) vom 15. März 1998[^h6TeilSchlussun-7]: . . .[^h6TeilSchlussun-6]
 
