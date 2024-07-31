@@ -4,11 +4,11 @@ title: "Ordonnance du 23 mai 2012 sur l'encouragement du sport et de l'activité
 short: OESp
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/461"
 language: fr
-version: 2023-03-01
+version: 2024-08-01
 adopted: 2012-05-23
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20230301/fr/xml/fedlex-data-admin-ch-eli-cc-2012-461-20230301-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20230301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20240801/fr/xml/fedlex-data-admin-ch-eli-cc-2012-461-20240801-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20240801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20230301/fr"
 
 (Ordonnance sur l’encouragement du sport, OESp)
 
-du 23 mai 2012 (État le 1<sup>er</sup> mars 2023)
+du 23 mai 2012 (État le 1<sup>er</sup> août 2024)
 
 Le Conseil fédéral suisse,
 
@@ -1284,17 +1284,17 @@ L’OFSPO peut, en complément des statistiques de l’Office fédéral de la st
 
 #### Art. 72
 
-**Manifestations et congrès sportifs internationaux**
+**Manifestations et congrès sportifs internationaux uniques[^72-1]**
 
 <sup>1</sup>
 
-La Confédération peut participer aux frais de candidature et d’organisation d’une manifestation sportive internationale si les conditions suivantes sont remplies:
+La Confédération peut participer aux frais de candidature et d’organisation d’une manifestation sportive internationale unique si les conditions suivantes sont remplies:[^72-2]
 
 - a. le sport concerné revêt une importance particulière en Suisse ou la manifestation revêt une importance particulière pour l’économie suisse;
 - b. il s’agit d’un événement d’envergure européenne ou mondiale qui n’a pas lieu régulièrement en Suisse;
 - c. il s’agit d’un événement qui ne s’inscrit pas dans les séries de compétitions disputées régulièrement;
 - d. l’organisation de la manifestation sportive est attribuée par une fédération internationale ou un organisateur international sur la base d’une candidature;
-- e. des mesures d’encouragement particulières au sens de l’art. 72*a*, al. 1, sont prises en lien avec la manifestation concernée.[^72-1]
+- e. des mesures d’encouragement particulières au sens de l’art. 72*a*, al. 1, sont prises en lien avec la manifestation concernée.[^72-3]
 
 <sup>2</sup> La participation s’élève au maximum à la moitié du montant imputable alloué conjointement par les cantons et les communes à la manifestation. Le DDPS fixe le montant imputable.
 
@@ -1311,7 +1311,9 @@ Le montant de la participation dépend:
 
 <sup>5</sup> L’al. 1, let. a et b ainsi que les al. 2 et 3 sont applicables par analogie au soutien des congrès de sport internationaux.
 
-[^72-1]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 810](https://fedlex.data.admin.ch/eli/oc/2022/810)).
+[^72-1]: Nouvelle teneur selon le ch. I de l’O du 19 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 304](https://fedlex.data.admin.ch/eli/oc/2024/304)).
+[^72-2]: Nouvelle teneur selon le ch. I de l’O du 19 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 304](https://fedlex.data.admin.ch/eli/oc/2024/304)).
+[^72-3]: Nouvelle teneur selon le ch. I de l’O du 2 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 810](https://fedlex.data.admin.ch/eli/oc/2022/810)).
 
 #### Art. 72a
 
@@ -1345,6 +1347,31 @@ Le montant de la participation de la Confédération dépend:
 <sup>8</sup> Elle établit une comptabilité distincte concernant la mise en œuvre des mesures. Elle rend compte à l’OFSPO de leur mise en œuvre et de leur effet.
 
 [^72a-1]: Introduit par le ch. I de l’O du 2 déc. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 810](https://fedlex.data.admin.ch/eli/oc/2022/810)).
+
+#### Art. 72a<sup>bis</sup>
+
+**Manifestations sportives internationales récurrentes**[^72abis-1]
+
+<sup>1</sup>
+
+La Confédération peut participer aux frais d’organisation d’une manifestation sportive internationale récurrente si les conditions suivantes sont réunies:
+
+- a. le sport concerné revêt une importance particulière en Suisse ou la manifestation revêt une importance particulière pour l’économie suisse;
+- b. la manifestation est un événement d’envergure européenne ou mondiale;
+- c. l’organisation de la manifestation est attribuée dans le cadre d’une série de compétitions ou il s’agit d’une manifestation au format unique, pour autant que la série de compétitions ou la manifestation au format unique ait lieu en Suisse régulièrement;
+- d. la manifestation fait partie de la stratégie d’encouragement de la fédération sportive nationale concernée.
+
+<sup>2</sup>
+
+La participation maximale correspond au plus faible des montants suivants:
+
+- a. le défaut de couverture de la manifestation prévu au budget;
+- b. 10 % des moyens financiers alloués par l’Assemblée fédérale pour soutenir les manifestations sportives internationales récurrentes durant l’année concernée;
+- c. la moitié de la contribution financière conjointe des cantons et des communes prévue au budget de la manifestation.
+
+<sup>3</sup> Le DDPS fixe le montant de la participation effective conformément à l’al. 2.
+
+[^72abis-1]: Introduit par le ch. I de l’O du 19 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 304](https://fedlex.data.admin.ch/eli/oc/2024/304)).
 
 #### Art. 72b
 

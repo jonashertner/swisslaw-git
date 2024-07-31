@@ -4,11 +4,11 @@ title: "Ordinanza del 23 maggio 2012 sulla promozione dello sport e dell'attivit
 short: OPSpo
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/461"
 language: it
-version: 2023-03-01
+version: 2024-08-01
 adopted: 2012-05-23
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20230301/it/xml/fedlex-data-admin-ch-eli-cc-2012-461-20230301-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20230301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20240801/it/xml/fedlex-data-admin-ch-eli-cc-2012-461-20240801-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20240801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20230301/it"
 
 (Ordinanza sulla promozione dello sport, OPSpo)
 
-del 23 maggio 2012 (Stato 1° marzo 2023)
+del 23 maggio 2012 (Stato 1° agosto 2024)
 
 Il Consiglio federale svizzero,
 
@@ -1286,14 +1286,17 @@ A complemento delle statistiche dell’Ufficio federale di statistica l’UFSPO 
 
 #### Art. 72
 
-**Manifestazioni e congressi sportivi internazionali**
+**Manifestazioni e congressi sportivi internazionali a carattere unico[^72-1]**
 
-- [tab] <sup>1</sup> La Confederazione può partecipare alle spese per la candidatura o l’organizzazione di una manifestazione sportiva internazionale, se:
+<sup>1</sup>
+
+La Confederazione può partecipare alle spese per la candidatura o l’organizzazione di una manifestazione sportiva internazionale a carattere unico se:[^72-2]
+
 - a. la disciplina sportiva in questione è particolarmente importante in Svizzera o la manifestazione è particolarmente rilevante per la piazza svizzera;
 - b. si tratta di un evento di importanza europea o mondiale che non si tiene regolarmente in Svizzera;
 - c. si tratta di un evento che non rientra nelle competizioni che si svolgono a scadenze regolari;
 - d. l’organizzazione della manifestazione sportiva è assegnata da una federazione internazionale o da un organizzatore internazionale sulla base di una procedura di candidatura; e
-- e. sono adottate misure di promozione particolari secondo l’articolo 72*a* capoverso 1 in relazione all’organizzazione della manifestazione.[^72-1]
+- e. sono adottate misure di promozione particolari secondo l’articolo 72*a* capoverso 1 in relazione all’organizzazione della manifestazione.[^72-3]
 
 <sup>2</sup> Il contributo ammonta al massimo alla metà dell’importo computabile concesso complessivamente alla manifestazione dai Cantoni e dai Comuni. Il DDPS stabilisce l’importo computabile.
 
@@ -1310,7 +1313,9 @@ L’ammontare dell’importo si fonda su:
 
 <sup>5</sup> Per il sostegno ai congressi internazionali dedicati allo sport sono applicabili per analogia i capoversi 1 lettere a e b nonché 2 e 3.
 
-[^72-1]: Nuovo testo giusta il n. I dell’O del 2 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 810](https://fedlex.data.admin.ch/eli/oc/2022/810)).
+[^72-1]: Nuovo testo giusta il n. I dell’O del 19 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 304](https://fedlex.data.admin.ch/eli/oc/2024/304)).
+[^72-2]: Nuovo testo giusta il n. I dell’O del 19 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 304](https://fedlex.data.admin.ch/eli/oc/2024/304)).
+[^72-3]: Nuovo testo giusta il n. I dell’O del 2 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 810](https://fedlex.data.admin.ch/eli/oc/2022/810)).
 
 #### Art. 72a
 
@@ -1344,6 +1349,31 @@ Il contributo della Confederazione si fonda su:
 <sup>8</sup> Essa tiene una contabilità separata per quanto concerne l’attuazione delle misure. Riferisce all’UFSPO in merito all’attuazione e all’efficacia delle misure.
 
 [^72a-1]: Introdotto dal n. I dell’O del 2 dic. 2022, in vigore dal 1° gen. 2023 ([RU 2022 810](https://fedlex.data.admin.ch/eli/oc/2022/810)).
+
+#### Art. 72a<sup>bis</sup>
+
+**Manifestazioni sportive internazionali ricorrenti**[^72abis-1]
+
+<sup>1</sup>
+
+La Confederazione può partecipare alle spese per l’organizzazione di manifestazioni sportive internazionali ricorrenti se:
+
+- a. la disciplina sportiva in questione è particolarmente importante in Svizzera o la manifestazione è particolarmente rilevante per la piazza svizzera;
+- b. la manifestazione è un evento di importanza europea o mondiale;
+- c. l’organizzazione della manifestazione è assegnata nel quadro di una serie di competizioni o se si tratta di una manifestazione con un formato unico nel suo genere, nella misura in cui la serie di competizioni o la manifestazione con un formato unico nel suo genere si svolgano regolarmente in Svizzera; e
+- d. la manifestazione si integra nel programma di promozione della federazione sportiva nazionale competente.
+
+<sup>2</sup>
+
+Il contributo massimo corrisponde al più esiguo dei seguenti importi:
+
+- a. la lacuna di copertura preventivata della manifestazione;
+- b. il 10 per cento delle risorse finanziarie approvate dall’Assemblea federale a sostegno delle manifestazioni sportive internazionali ricorrenti per l’anno in questione;
+- c. la metà del contributo finanziario preventivato concesso complessivamente alla manifestazione dai Cantoni e dai Comuni.
+
+<sup>3</sup> Il DDPS stabilisce l’importo effettivo nel rispetto del capoverso 2.
+
+[^72abis-1]: Introdotto dal n. I dell’O del 19 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 304](https://fedlex.data.admin.ch/eli/oc/2024/304)).
 
 #### Art. 72b
 
@@ -1760,12 +1790,6 @@ Gli accordi di cui all’articolo 83 capoverso 2 sono validi fino al 31 dicembre
 [^83c-1]
 
 [^83c-1]: Introdotto dal n. I dell’O del 3 apr. 2020 ([RU 2020 1513](https://fedlex.data.admin.ch/eli/oc/2020/303)). Abrogato dal n. I dell’O del 30 mar. 2022, con effetto dal 1° dic. 2022 ([RU 2022 217](https://fedlex.data.admin.ch/eli/oc/2022/217)).
-
-### Capitolo 1*a*: Doping
-
-[^tit6-chap1a-1]
-
-[^tit6-chap1a-1]: Introdotto dal n. I dell’O del 25 gen. 2023, in vigore dal 1° mar. 2023 ([RU 2023 57](https://fedlex.data.admin.ch/eli/oc/2023/57)).
 
 #### Art. 83d
 

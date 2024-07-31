@@ -4,11 +4,11 @@ title: "Verordnung vom 23. Mai 2012 über die Förderung von Sport und Bewegung 
 short: SpoFöV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/461"
 language: de
-version: 2023-03-01
+version: 2024-08-01
 adopted: 2012-05-23
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20230301/de/xml/fedlex-data-admin-ch-eli-cc-2012-461-20230301-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20230301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/461/20240801/de/xml/fedlex-data-admin-ch-eli-cc-2012-461-20240801-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20240801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/461/20230301/de"
 
 (Sportförderungsverordnung, SpoFöV)
 
-vom 23. Mai 2012 (Stand am 1. März 2023)
+vom 23. Mai 2012 (Stand am 1. August 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -1286,17 +1286,17 @@ Das BASPO kann in Ergänzung zu den Statistiken des Bundesamts für Statistik sp
 
 #### Art. 72
 
-**Internationale Sportanlässe und -kongresse**
+**Einmalige internationale Sportanlässe und -kongresse[^72-1]**
 
 <sup>1</sup>
 
-Der Bund kann sich an den Kosten der Kandidatur oder der Durchführung eines internationalen Sportanlasses beteiligen, wenn:
+Der Bund kann sich an den Kosten der Kandidatur oder der Durchführung eines einmaligen internationalen Sportanlasses beteiligen, wenn:[^72-2]
 
 - a. der betreffenden Sportart in der Schweiz oder dem Anlass für den Standort Schweiz eine besondere Bedeutung zukommt;
 - b. es sich um ein Ereignis von europäischer oder weltweiter Bedeutung handelt, das nicht regelmässig in der Schweiz durchgeführt wird;
 - c. es sich um ein Ereignis ausserhalb von regelmässig stattfindenden Wettkampfserien handelt;
 - d. die Durchführung des Sportanlasses aufgrund einer Bewerbung durch einen internationalen Verband oder einen internationalen Organisator vergeben wird; und
-- e. im Zusammenhang mit der Durchführung des Anlasses besondere Förder-massnahmen nach Artikel 72*a* Absatz 1 getroffen werden.[^72-1]
+- e. im Zusammenhang mit der Durchführung des Anlasses besondere Förder-massnahmen nach Artikel 72*a* Absatz 1 getroffen werden.[^72-3]
 
 <sup>2</sup> Der Beitrag beträgt höchstens die Hälfte des anrechenbaren Betrags, den Kantone und Gemeinden zusammen an den Anlass leisten. Das VBS legt den anrechenbaren Betrag fest.
 
@@ -1313,7 +1313,9 @@ Die Höhe des Beitrags richtet sich nach:
 
 <sup>5</sup> Für die Unterstützung von internationalen Sportkongressen gelten die Absätze 1 Buchstaben a und b sowie 2 und 3 sinngemäss.
 
-[^72-1]: Fassung gemäss Ziff. I der V vom 2. Dez. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 810](https://fedlex.data.admin.ch/eli/oc/2022/810)).
+[^72-1]: Fassung gemäss Ziff. I der V vom 19. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 304](https://fedlex.data.admin.ch/eli/oc/2024/304)).
+[^72-2]: Fassung gemäss Ziff. I der V vom 19. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 304](https://fedlex.data.admin.ch/eli/oc/2024/304)).
+[^72-3]: Fassung gemäss Ziff. I der V vom 2. Dez. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 810](https://fedlex.data.admin.ch/eli/oc/2022/810)).
 
 #### Art. 72a
 
@@ -1347,6 +1349,31 @@ Der Beitrag des Bundes richtet sich nach:
 <sup>8</sup> Er führt betreffend die Umsetzung der Massnahmen eine separate Rechnung. Er erstattet dem BASPO Bericht über die Umsetzung und die Wirkung der Massnahmen.
 
 [^72a-1]: Eingefügt durch Ziff. I der V vom 2. Dez. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 810](https://fedlex.data.admin.ch/eli/oc/2022/810)).
+
+#### Art. 72a<sup>bis</sup>
+
+**Wiederkehrende internationale Sportanlässe**[^72abis-1]
+
+<sup>1</sup>
+
+Der Bund kann sich an den Kosten der Durchführung von wiederkehrenden internationalen Sportanlässen beteiligen, wenn:
+
+- a. der betreffenden Sportart in der Schweiz oder dem Anlass für den Standort Schweiz eine besondere Bedeutung zukommt;
+- b. der Anlass ein Ereignis von europäischer oder weltweiter Bedeutung ist;
+- c. die Durchführung des Anlasses als Teil einer Wettkampfserie vergeben wird oder es sich um ein einzigartiges Format eines Anlasses handelt, sofern die Wettkampfserie oder der Anlass von einzigartigem Format regelmässig in der Schweiz durchgeführt wird; und
+- d. der Anlass Bestandteil der Förderstrategie des zuständigen nationalen Sportverbandes ist.
+
+<sup>2</sup>
+
+Der Höchstbeitrag entspricht dem kleinsten der folgenden Beträge:
+
+- a. budgetierte Deckungslücke des Anlasses;
+- b. 10 Prozent der von der Bundesversammlung zur Unterstützung von wiederkehrenden internationalen Sportanlässen für das betreffende Jahr bewilligten finanziellen Mitteln;
+- c. die Hälfte des budgetierten finanziellen Beitrags, den Kantone und Gemeinden zusammen an den Anlass leisten.
+
+<sup>3</sup> Das VBS legt unter Einhaltung von Absatz 2 den effektiven Beitrag fest.
+
+[^72abis-1]: Eingefügt durch Ziff. I der V vom 19. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 304](https://fedlex.data.admin.ch/eli/oc/2024/304)).
 
 #### Art. 72b
 
