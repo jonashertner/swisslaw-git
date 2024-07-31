@@ -4,13 +4,12 @@ number: "175"
 title: Verwaltungsverfahrensgesetz Basel-Landschaft
 short: VwVG BL
 language: de
-version: 2024-01-01
-valid_until: 2024-07-31
-version_adopted: 2023-01-26
+version: 2024-08-01
+version_adopted: 2022-09-15
 adopted: 1988-06-13
 in_force: 1989-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/175"
-pdf: "https://bl.clex.ch/api/de/versions/3905/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3909/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bl.clex.ch/api/de/versions/3905/pdf_file"
 
 (VwVG BL)
 
-Vom 13.06.1988 (Stand 01.01.2024)
+Vom 13.06.1988 (Stand 01.08.2024)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -420,7 +419,8 @@ zu schaffen oder zu erhalten.
 
 - a. erstinstanzliche Verfügungen;
 - b. Verfügungen letztinstanzlicher Gemeindebehörden;
-- c. Verfügungen der Schulräte des Kantons und der Einwohnergemeinden;
+- b<sup>bis</sup>. Verfügungen der Schulräte der kommunalen Schulen, sofern sich die Einwohnergemeinde für ein Führungsmodell mit Schulrat entschieden hat
+- c. Verfügungen letztinstanzlicher Schulbehörden der kantonalen Schulen;
 - d. ...
 
 <sup>2</sup> Ist eine Verfügung durch Einsprache anfechtbar, unterliegt erst der Einspracheentscheid der Beschwerde.
@@ -454,13 +454,16 @@ zu schaffen oder zu erhalten.
 - c. Verfügungen kantonaler Kommissionen,
 - d. Verfügungen der Direktionen,
 - e. Verfügungen kantonaler Dienststellen und ihrer Ämter,
-- f. Verfügungen der übrigen Verwaltungsbehörden.
+- f. Verfügungen der übrigen Verwaltungsbehörden,
+- g. Verfügungen der Schulräte der kommunalen Schulen,
+- h. Verfügungen der Schulräte der kantonalen Schulen bei schülerinnen- und schülerbezogenen Entscheiden ausser Schulausschlüssen,
+- i. Verfügungen der Schulleitungen der kantonalen Schulen bei personalrechtlichen Entscheiden und Schulausschlüssen.
 
 <sup>2</sup> Unter Vorbehalt von Abs. 3 sind abweichende Vorschriften in anderen Erlassen, welche die Direktionen als Beschwerdeinstanz vorsehen, unbeachtlich.
 
 <sup>3</sup> Der Regierungsrat kann durch Verordnung seine Entscheidkompetenz für bestimmte Sachgebiete, in denen der Weiterzug an das Kantonsgericht möglich ist, an eine Direktion delegieren, sofern diese nicht erstinstanzlich verfügt hat.
 
-<sup>4</sup> Untere Beschwerdeinstanzen sind die Schulräte des Kantons und der Einwohnergemeinden. Ihre Verfügungen können an den Regierungsrat weitergezogen werden.
+<sup>4</sup> Untere Beschwerdeinstanzen sind die Schulräte der kommunalen Schulen, sofern sich die Einwohnergemeinde für ein Führungsmodell mit Schulrat entschieden hat, sowie die Schulräte bzw. die Schulleitungen der kantonalen Schulen. Verfügen sie als letztinstanzliche Schulbehörde, können ihre Verfügungen an den Regierungsrat weitergezogen werden.
 
 <sup>5</sup> Vorbehalten bleiben abweichende Vorschriften in anderen Erlassen, die Rekurskommissionen oder Verwaltungsbehörden als besondere Beschwerdeinstanzen oder Gerichte als einzige Beschwerdeinstanz vorsehen.
 
