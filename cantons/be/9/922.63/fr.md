@@ -4,13 +4,13 @@ number: "922.63"
 title: Ordonnance sur la protection de la faune sauvage
 short: OPFS
 language: fr
-version: 2023-03-01
-valid_until: 2024-07-31
-version_adopted: 2022-09-07
+version: 2024-08-01
+valid_until: 2024-11-30
+version_adopted: 2023-12-13
 adopted: 2003-02-26
 in_force: 2003-05-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/922.63"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2709/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3012/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2709/pdf_file"
 
 (OPFS)
 
-du 26.02.2003 (état au 01.03.2023)
+du 26.02.2003 (état au 01.08.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -211,7 +211,7 @@ arrête:
 
 #### Art. 12
 
-<sup>1</sup> S'il s'agit d'animaux sauvages indigènes ou allogènes, le Service vétérinaire cantonal statue, sur proposition de l'Inspection de la chasse, sur les autorisations concernant la déten-tion d'animaux sauvages à des fins privées ou lucratives.
+<sup>1</sup> S'il s'agit d'animaux sauvages indigènes ou allogènes, l'Office des affaires vétérinaires statue, sur proposition de l'Inspection de la chasse, sur les autorisations concernant la détention d'animaux sauvages à des fins privées ou lucratives.
 
 ## 4 Procédure d'autorisation
 

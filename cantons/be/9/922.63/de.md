@@ -4,13 +4,13 @@ number: "922.63"
 title: Verordnung über den Wildtierschutz
 short: WTSchV
 language: de
-version: 2023-03-01
-valid_until: 2024-07-31
-version_adopted: 2022-09-07
+version: 2024-08-01
+valid_until: 2024-11-30
+version_adopted: 2023-12-13
 adopted: 2003-02-26
 in_force: 2003-05-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/922.63"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2709/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3012/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2709/pdf_file"
 
 (WTSchV)
 
-vom 26.02.2003 (Stand 01.03.2023)
+vom 26.02.2003 (Stand 01.08.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -211,7 +211,7 @@ beschliesst:
 
 #### Art. 12
 
-<sup>1</sup> Soweit es sich um einheimische oder wild vorkommende Wildtiere handelt, entscheidet der kantonale Veterinärdienst auf Antrag des Jagdinspektorates über die Bewilligung von privaten und gewerbsmässigen Wildtierhaltungen.
+<sup>1</sup> Soweit es sich um einheimische oder wild vorkommende Wildtiere handelt, entscheidet das Amt für Veterinärwesen auf Antrag des Jagdinspektorats über die Bewilligung von privaten und gewerbsmässigen Wildtierhaltungen.
 
 ## 4 Bewilligungsverfahren
 
