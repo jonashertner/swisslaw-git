@@ -4,11 +4,11 @@ title: "Ordonnance du 26 mai 2021 sur les systèmes d’information gérés par 
 short: OSI-AC
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/337"
 language: fr
-version: 2023-09-01
+version: 2024-08-01
 adopted: 2021-05-26
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/337/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2021-337-20230901-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/337/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/337/20240801/fr/xml/fedlex-data-admin-ch-eli-cc-2021-337-20240801-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/337/20240801/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,17 +17,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/337/20230901/fr"
 
 (Ordonnance sur les systèmes d’information AC, OSI-AC)
 
-du 26 mai 2021 (État le 1<sup>er</sup> septembre 2023)
+du 26 mai 2021 (État le 1<sup>er</sup> août 2024)
 
 Le Conseil fédéral suisse,
 
-vu les art. 96*c*, al. 3, et 109 de la loi du 25 juin 1982 sur l’assurance-chômage (LACI)[^ingress-1], vu les art. 35, al. 5, et 41, al. 1, de la loi fédérale du 6 octobre 1989 sur le service de l’emploi et la location de services (LSE)[^ingress-2], vu l’art. 25, al. 1, de la loi du 9 octobre 1992 sur la statistique fédérale[^ingress-3],
+vu les art. 96c, al. 3, et 109 de la loi du 25 juin 1982 sur l’assurance-chômage (LACI)[^ingress-1], vu les art. 35, al. 5, et 41, al. 1, de la loi fédérale du 6 octobre 1989 sur le service de l’emploi et la location de services (LSE)[^ingress-2], vu l’art. 25, al. 1, de la loi du 9 octobre 1992 sur la statistique fédérale[^ingress-3], vu l’art 21*a*, al. 1, de la loi fédérale du 16 décembre 2005 sur les étrangers et l’intégration (LEI)[^ingress-4],[^ingress-5]
 
 arrête:
 
 [^ingress-1]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 [^ingress-2]: [RS 823.11](https://fedlex.data.admin.ch/eli/cc/1991/392_392_392)
 [^ingress-3]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^ingress-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^ingress-5]: Nouvelle teneur selon l’annexe de l’O du 26 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 333](https://fedlex.data.admin.ch/eli/oc/2024/333)).
 
 ## Section 1 Dispositions générales
 
@@ -140,8 +142,10 @@ Le système d’information servant au placement public au sens de l’art. 83, 
 - b. la collaboration des organes de l’assurance-chômage et du service public de l’emploi avec les placeurs privés et les employeurs;
 - c. la collaboration des organes de l’assurance-chômage et du service public de l’emploi avec la Direction consulaire du Département fédéral des affaires étrangères pour l’accomplissement des tâches prévues à l’art. 25, al. 1 et 2, LSE;
 - d. la coordination et la collaboration interinstitutionnelle des organes de l’assurance-chômage et du service public de l’emploi avec les organes des assurances sociales et de l’aide sociale;
-- e. la collaboration des organes de l’assurance-chômage et du service de l’emploi avec les autorités chargées de contrôler le respect de l’obligation d’annoncer les postes vacants au sens de l’art. 35, al. 3, let. k, LSE;
+- e.[^10-1] la collaboration des organes du service de l’emploi avec les autorités chargées de contrôler le respect de l’obligation de communiquer les postes vacants au sens de l’art. 21*a* LEI;
 - f. l’observation du marché du travail et la statistique du marché du travail.
+
+[^10-1]: Nouvelle teneur selon l’annexe de l’O du 26 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 333](https://fedlex.data.admin.ch/eli/oc/2024/333)).
 
 #### Art. 11
 
@@ -398,11 +402,13 @@ Légendes
 <tr><td>3.4.1 Données de paiement</td><td>–</td><td>–</td><td>–</td><td>–</td><td>T</td><td>–</td><td>T</td><td>T</td><td>T</td><td>T</td></tr>
 </table>
 
-Annexe 2
+Annexe 2[^t-2]
 
 (art. 11)
 
 ## Système d’information servant au placement public (art. 83, al. 1<sup>bis</sup>, let. b, LACI): données et droits d’accès
+
+[^t-2]: Mise à jour par l’annexe de l’O du 26 juin 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 333](https://fedlex.data.admin.ch/eli/oc/2024/333)).
 
 ## 1. Abréviations
 
@@ -456,18 +462,21 @@ Légendes:
 </table>
 
 <table>
-<tr><th></th><th>ACt</th><th>AS dans le cadre de la CII</th><th>AI dans le cadre de CII</th><th>DC</th><th>AC</th></tr>
-<tr><td>Entreprises</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Nom, adresse, téléphone, télécopie, courriel, adresse Internet, branche, statut de la société, no de référence</td><td>T</td><td>P</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>Données REE (numéro, adresse, téléphone, forme juridique, taille de l’entreprise, statut économique, langue de travail), données du registre du commerce</td><td>T</td><td>P</td><td>T</td><td>T</td><td>–</td></tr>
-<tr><td>Interlocuteur (fonction, position, langue, adresse, téléphone, fax, courriel)</td><td>T</td><td>P</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>Accord de collaboration, activité commerciale, heures auxquelles l’entreprise est atteignable</td><td>T</td><td>P</td><td>T</td><td>T</td><td>–</td></tr>
-<tr><td>Groupe de professions employées</td><td>T</td><td>P</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>Marche des affaires (période, postes, postes repourvus via l’ORP, indemnités en cas de RHT et INTEMP, nombre de demandeurs d’emploi occupés, subventions)</td><td>T</td><td>P</td><td>T</td><td>T</td><td>–</td></tr>
-<tr><td>Postes mis au concours, assignations, annonce et retrait de postes (motif, date), description des postes, conditions de travail (date d’entrée, taux d’activité, salaire, lieu de travail), activité, exigences des postes (qualifications, expérience, niveau de formation, diplôme), connaissances linguistiques requises, interlocuteur</td><td>T</td><td>P</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>Résultats des mises en relation</td><td>T</td><td>–</td><td>T</td><td>T</td><td>–</td></tr>
-<tr><td>Début, durée et montant du droit aux prestations d’assurance, autorités et personnes compétentes, secteur d’exploitation, nombre de travailleurs concernés</td><td>T</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><th></th><th colspan="2">ACt</th><th colspan="2">AS dans le cadre de la CII</th><th colspan="2">AI dans le cadre de CII</th><th>DC</th><th colspan="2">AC</th></tr>
+<tr><td>Entreprises</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td></td><td colspan="2"></td></tr>
+<tr><td colspan="2">Nom, adresse, téléphone, télécopie, courriel, adresse Internet, branche, statut de la société, no de référence</td><td colspan="2">T</td><td colspan="2">P</td><td>T</td><td colspan="2">T</td><td>–</td></tr>
+<tr><td colspan="2">Données REE (numéro, adresse, téléphone, forme juridique, taille de l’entreprise, statut économique, langue de travail), données du registre du commerce</td><td colspan="2">T</td><td colspan="2">P</td><td>T</td><td colspan="2">T</td><td>–</td></tr>
+<tr><td colspan="2">Interlocuteur (fonction, position, langue, adresse, téléphone, fax, courriel)</td><td colspan="2">T</td><td colspan="2">P</td><td>T</td><td colspan="2">T</td><td>–</td></tr>
+<tr><td colspan="2">Accord de collaboration, activité commerciale, heures auxquelles l’entreprise est atteignable</td><td colspan="2">T</td><td colspan="2">P</td><td>T</td><td colspan="2">T</td><td>–</td></tr>
+<tr><td colspan="2">Groupe de professions employées</td><td colspan="2">T</td><td colspan="2">P</td><td>T</td><td colspan="2">T</td><td>–</td></tr>
+<tr><td colspan="2">Marche des affaires (période, postes, postes repourvus via l’ORP, indemnités en cas de RHT et INTEMP, nombre de demandeurs d’emploi occupés, subventions)</td><td colspan="2">T</td><td colspan="2">P</td><td>T</td><td colspan="2">T</td><td>–</td></tr>
+<tr><td colspan="2">Postes mis au concours, assignations, annonce et retrait de postes (motif, date), description des postes, conditions de travail (date d’entrée, durée, taux d’activité, salaire, lieu de travail), activité, exigences des postes (qualifications, expérience, niveau de formation, diplôme), connaissances linguistiques requises, interlocuteur</td><td colspan="2">T</td><td colspan="2">P</td><td>T</td><td colspan="2">T</td><td>–</td></tr>
+<tr><td colspan="2">Confirmation de réception visée à l’art. 53*b*, al. 4, de l’ordonnance du 16 janvier 1991 sur le service de l’emploi[^annex2-lvl1-lvl2-1] (nom et adresse de l’entreprise)</td><td colspan="2">–</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>T</td></tr>
+<tr><td colspan="2">Résultats des mises en relation</td><td colspan="2">T</td><td colspan="2">–</td><td>T</td><td colspan="2">T</td><td>–</td></tr>
+<tr><td colspan="2">Début, durée et montant du droit aux prestations d’assurance, autorités et personnes compétentes, secteur d’exploitation, nombre de travailleurs concernés</td><td colspan="2">T</td><td colspan="2">–</td><td>–</td><td colspan="2">–</td><td>–</td></tr>
 </table>
+
+[^annex2-lvl1-lvl2-1]: [RS 823.111](https://fedlex.data.admin.ch/eli/cc/1991/408_408_408)
 
 Annexe 3
 

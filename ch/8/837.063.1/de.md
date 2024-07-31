@@ -4,11 +4,11 @@ title: "Verordnung vom 26. Mai 2021 für die von der Ausgleichsstelle der Arbeit
 short: ALV-IsV
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/337"
 language: de
-version: 2023-09-01
+version: 2024-08-01
 adopted: 2021-05-26
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/337/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2021-337-20230901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/337/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/337/20240801/de/xml/fedlex-data-admin-ch-eli-cc-2021-337-20240801-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/337/20240801/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,17 +17,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/337/20230901/de"
 
 (ALV-Informationssystemeverordnung, ALV-IsV)
 
-vom 26. Mai 2021 (Stand am 1. September 2023)
+vom 26. Mai 2021 (Stand am 1. August 2024)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 96c Absatz 3 und 109 des Arbeitslosenversicherungsgesetzes vom 25. Juni 1982[^ingress-1] (AVIG), auf die Artikel 35 Absatz 5 und 41 Absatz 1 des Arbeitsvermittlungsgesetzes vom 6. Oktober 1989[^ingress-2] (AVG) und auf Artikel 25 Absatz 1 des Bundesstatistikgesetzes vom 9. Oktober 1992[^ingress-3],
+gestützt auf die Artikel 96c Absatz 3 und 109 des Arbeitslosenversicherungsgesetzes vom 25. Juni 1982[^ingress-1] (AVIG), auf die Artikel 35 Absatz 5 und 41 Absatz 1 des Arbeitsvermittlungsgesetzes vom 6. Oktober 1989[^ingress-2] (AVG), auf Artikel 25 Absatz 1 des Bundesstatistikgesetzes vom 9. Oktober 1992[^ingress-3] und auf Artikel 21*a* Absatz 1 des Ausländer- und Integrationsgesetzes vom 16. Dezember 2005[^ingress-4] (AIG),[^ingress-5]
 
 verordnet:
 
 [^ingress-1]: [SR 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 [^ingress-2]: [SR 823.11](https://fedlex.data.admin.ch/eli/cc/1991/392_392_392)
 [^ingress-3]: [SR 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^ingress-4]: [SR 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^ingress-5]: Fassung gemäss Anhang der V vom 26. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 333](https://fedlex.data.admin.ch/eli/oc/2024/333)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -140,8 +142,10 @@ Das Informationssystem für die öffentliche Arbeitsvermittlung nach Artikel 83 
 - b. der Zusammenarbeit der Organe der Arbeitslosenversicherung und der öffentlichen Arbeitsvermittlung mit den privaten Arbeitsvermittlern und den Arbeitgebern;
 - c. der Zusammenarbeit der Organe der Arbeitslosenversicherung und der öffentlichen Arbeitsvermittlung mit der Konsularischen Direktion des Eidgenössischen Departements für auswärtige Angelegenheiten für die Erfüllung der in Artikel 25 Absätze 1 und 2 AVG vorgesehenen Aufgaben;
 - d. der Koordination und der interinstitutionellen Zusammenarbeit der Organe der Arbeitslosenversicherung und der öffentlichen Arbeitsvermittlung mit den Organen der Sozialversicherungen und Sozialhilfe;
-- e. der Zusammenarbeit der Organe der Arbeitslosenversicherung und der öffentlichen Arbeitsvermittlung mit den nach Artikel 35 Absatz 3 Buchstabe k AVG eingesetzten Behörden zur Kontrolle der Einhaltung der Stellenmeldepflicht;
+- e.[^10-1] der Zusammenarbeit der Organe der öffentlichen Arbeitsvermittlung mit den nach Artikel 21*a* AIG eingesetzten Behörden zur Kontrolle der Einhaltung der Stellenmeldepflicht;
 - f. der Arbeitsmarktbeobachtung und der Arbeitsmarktstatistik.
+
+[^10-1]: Fassung gemäss Anhang der V vom 26. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 333](https://fedlex.data.admin.ch/eli/oc/2024/333)).
 
 #### Art. 11
 
@@ -396,11 +400,13 @@ Legende
 <tr><td>3.4.1 Auszahlungsdaten</td><td>–</td><td colspan="2">–</td><td>–</td><td>–</td><td colspan="2">B</td><td>–</td><td>B</td><td>B</td><td colspan="2">B</td><td>B</td></tr>
 </table>
 
-Anhang 2
+Anhang 2[^t-2]
 
 (Art. 11)
 
-## Informationssystem für die öffentliche Arbeitsvermittlung (Art. 83 Abs. 1<sup>bis</sup> Bst. b AVIG): Daten und Zugriffsrechte
+## Informationssystem für die öffentliche Arbeitsvermittlung (Art. 83 Abs. 1<sup>bis</sup> Bst. b AVIG): Daten und Zugangsrechte
+
+[^t-2]: Bereinigt gemäss Anhang der V vom 26. Juni 2024, in Kraft seit 1. Aug. 2024 ([AS 2024 333](https://fedlex.data.admin.ch/eli/oc/2024/333)).
 
 ### 1 Abkürzungen
 
@@ -456,20 +462,25 @@ Legende:
 </table>
 
 <table>
-<tr><th></th><th>KAST</th><th>SH im Rahmen der IIZ</th><th>IV im Rahmen der IIZ</th><th>KD</th><th>KB</th></tr>
-<tr><td>Unternehmen</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Name, Adresse, Telefonnummer, Fax, E-Mail-Adresse, Webadresse, Branche, Unternehmensstatus, Verweiser-Nummer</td><td>A</td><td>F</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>BUR-Daten (BUR-Nummer, Adresse, Telefonnummer, Rechtsform, Betriebsgrösse, Wirtschaftsstatus, Arbeitssprache), Handelsregisterdaten</td><td>A</td><td>F</td><td>A</td><td>A</td><td>–</td></tr>
-<tr><td>Kontaktpersonen (Funktion, Stellung, Sprache, Adresse, Telefonnummer, Fax, E-Mail-Adresse)</td><td>A</td><td>F</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Vereinbarung zur Zusammenarbeit, Geschäftstätigkeit, Erreichbarkeit</td><td>A</td><td>F</td><td>A</td><td>A</td><td>–</td></tr>
-<tr><td>Beschäftigte Berufsgruppen</td><td>A</td><td>F</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Geschäftsgang (Zeitraum, Stellen, durch RAV besetzte Stellen, KAE, SWE, Anzahl beschäftigte Stellensuchende, Zuschüsse)</td><td>A</td><td>F</td><td>A</td><td>A</td><td>-</td></tr>
-<tr><td>Ausgeschriebene Stellen, Zuweisungen, Stellenmeldung, Stellenabmeldung (Grund, Datum), Stellenbezeichnung, Arbeitsbedingungen (Antritt, Dauer, Beschäftigungsgrad, Lohn, Örtlichkeit), Tätigkeit, Stellenanforderungen (Qualifikation, Erfahrung, Ausbildungsniveau, Abschluss), erforderliche Sprachkenntnisse, Kontaktperson, Zuweisungen</td><td>A</td><td>F</td><td>A</td><td>A</td><td>A</td></tr>
-<tr><td>Matchingresultate</td><td>A</td><td>–</td><td>A</td><td>A</td><td>–</td></tr>
-<tr><td>Beginn, Dauer und Höhe des Anspruchs auf Versicherungsleistungen, zuständige Amtsstellen und -personen, Betriebsabteilung, Anzahl der betroffenen Arbeitnehmerinnen und Arbeitnehmer</td><td>A</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
+<tr><th></th><th>KAST</th><th colspan="3">SH im Rahmen der IIZ</th><th colspan="2">IV im Rahmen der IIZ</th><th colspan="2">KD</th><th colspan="2">KB</th></tr>
+<tr><td>Unternehmen</td><td colspan="2"></td><td colspan="2"></td><td colspan="2"></td><td colspan="3"></td><td></td></tr>
+<tr><td>Name, Adresse, Telefonnummer, Fax, E-Mail-Adresse, Webadresse, Branche, Unternehmensstatus, Verweiser-Nummer</td><td colspan="2">A</td><td colspan="2">F</td><td colspan="2">A</td><td colspan="3">A</td><td>–</td></tr>
+<tr><td>BUR-Daten (BUR-Nummer, Adresse, Telefonnummer, Rechtsform, Betriebsgrösse, Wirtschaftsstatus, Arbeitssprache), Handelsregisterdaten</td><td colspan="2">A</td><td colspan="2">F</td><td colspan="2">A</td><td colspan="3">A</td><td>–</td></tr>
+<tr><td>Kontaktpersonen (Funktion, Stellung, Sprache, Adresse, Telefonnummer, Fax, E-Mail-Adresse)</td><td colspan="2">A</td><td colspan="2">F</td><td colspan="2">A</td><td colspan="3">A</td><td>–</td></tr>
+<tr><td>Vereinbarung zur Zusammenarbeit, Geschäftstätigkeit, Erreichbarkeit</td><td colspan="2">A</td><td colspan="2">F</td><td colspan="2">A</td><td colspan="3">A</td><td>–</td></tr>
+<tr><td>Beschäftigte Berufsgruppen</td><td colspan="2">A</td><td colspan="2">F</td><td colspan="2">A</td><td colspan="3">A</td><td>–</td></tr>
+<tr><td>Geschäftsgang (Zeitraum, Stellen, durch RAV besetzte Stellen, KAE, SWE, Anzahl beschäftigte Stellensuchende, Zuschüsse)</td><td colspan="2">A</td><td colspan="2">F</td><td colspan="2">A</td><td colspan="3">A</td><td>–</td></tr>
+<tr><td>Ausgeschriebene Stellen, Zuweisungen, Stellenmeldung, Stellenabmeldung (Grund, Datum), Stellenbezeichnung, Arbeitsbedingungen (Antritt, Dauer, Beschäftigungsgrad, Lohn, Örtlichkeit), Tätigkeit, Stellenanforderungen (Qualifikation, Erfahrung, Ausbildungsniveau, Abschluss), erforderliche Sprachkenntnisse, Kontaktperson</td><td colspan="2">A</td><td colspan="2">F</td><td colspan="2">A</td><td colspan="3">A</td><td>–</td></tr>
+<tr><td>Bestätigung des Eingangs der Meldungen nach Art. 53*b* Abs. 4 der Arbeitsvermittlungsverordnung vom 16. Januar 1991[^annex2-lvlu1-lvl2-1] (Name und Adresse des Unternehmens)</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="3">–</td><td>A</td></tr>
+<tr><td>Matchingresultate</td><td colspan="2">A</td><td colspan="2">–</td><td colspan="2">A</td><td colspan="3">A</td><td>–</td></tr>
+<tr><td>Beginn, Dauer und Höhe des Anspruchs auf Versicherungsleistungen, zuständige Amtsstellen und -personen, Betriebsabteilung, Anzahl der betroffenen Arbeitnehmerinnen und Arbeitnehmer</td><td colspan="2">A</td><td colspan="2">–</td><td colspan="2">–</td><td colspan="3">–</td><td>–</td></tr>
 </table>
 
-*Anhang 3* (Art. 20 und 25)
+[^annex2-lvlu1-lvl2-1]: [SR 823.111](https://fedlex.data.admin.ch/eli/cc/1991/408_408_408)
+
+Anhang 3
+
+(Art. 20 und 25)
 
 ## Zugangsplattform für elektronische Dienstleistungen und Plattform der öffentlichen Arbeitsvermittlung (Art. 83 Abs. 1<sup>bis</sup> Bst. d und e AVIG): Funktionen und Zugriffsrechte
 

@@ -4,11 +4,11 @@ title: "Ordinanza del 26 maggio 2021 sui sistemi d’informazione gestiti dall�
 short: OSI-AC
 eli: "https://fedlex.data.admin.ch/eli/cc/2021/337"
 language: it
-version: 2023-09-01
+version: 2024-08-01
 adopted: 2021-05-26
 in_force: 2021-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/337/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2021-337-20230901-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2021/337/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2021/337/20240801/it/xml/fedlex-data-admin-ch-eli-cc-2021-337-20240801-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2021/337/20240801/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,17 +17,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/2021/337/20230901/it"
 
 (Ordinanza sui sistemi d’informazione AD, OSI-AD)
 
-del 26 maggio 202 (Stato 1° settembre 2023)
+del 26 maggio 202 (Stato 1° agosto 2024)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 96*c* capoverso 3 e 109 della legge del 25 giugno 1982[^ingress-1] sull’assicurazione contro la disoccupazione (LADI); visti gli articoli 35 capoverso 5 e 41 capoverso 1 della legge del 6 ottobre 1989[^ingress-2] sul collocamento (LC); visto l’articolo 25 capoverso 1 della legge del 9 ottobre 1992[^ingress-3] sulla statistica federale,
+visti gli articoli 96*c* capoverso 3 e 109 della legge del 25 giugno 1982[^ingress-1] sull’assicurazione contro la disoccupazione (LADI); visti gli articoli 35 capoverso 5 e 41 capoverso 1 della legge del 6 ottobre 1989[^ingress-2] sul collocamento (LC); visto l’articolo 25 capoverso 1 della legge del 9 ottobre 1992[^ingress-3] sulla statistica federale; visto l’articolo 21*a* capoverso 1 della legge federale del 16 dicembre 2005[^ingress-4] sugli stranieri e la loro integrazione (LStrI),[^ingress-5]
 
 ordina:
 
 [^ingress-1]: [RS 837.0](https://fedlex.data.admin.ch/eli/cc/1982/2184_2184_2184)
 [^ingress-2]: [RS 823.11](https://fedlex.data.admin.ch/eli/cc/1991/392_392_392)
 [^ingress-3]: [RS 431.01](https://fedlex.data.admin.ch/eli/cc/1993/2080_2080_2080)
+[^ingress-4]: [RS 142.20](https://fedlex.data.admin.ch/eli/cc/2007/758)
+[^ingress-5]: Nuovo testo giusta l’all. dell’O del 26 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 333](https://fedlex.data.admin.ch/eli/oc/2024/333)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -139,8 +141,10 @@ Il sistema d’informazione per il collocamento pubblico di cui all’articolo 8
 - b. la collaborazione degli organi dell’assicurazione contro la disoccupazione e del servizio pubblico di collocamento con i collocatori privati e i datori di lavoro;
 - c. la collaborazione degli organi dell’assicurazione contro la disoccupazione e del servizio pubblico di collocamento con la Direzione consolare del Dipartimento federale degli affari esteri per l’adempimento dei compiti di cui all’articolo 25 capoversi 1 e 2 LC;
 - d. il coordinamento e la collaborazione interistituzionale degli organi dell’assicurazione contro la disoccupazione e del servizio pubblico di collocamento con gli organi delle assicurazioni sociali e dell’assistenza sociale;
-- e. la collaborazione degli organi dell’assicurazione contro la disoccupazione e del servizio pubblico di collocamento con le autorità incaricate di controllare l’adempimento dell’obbligo di annunciare i posti vacanti menzionate all’articolo 35 capoverso 3 lettera k LC;
+- e.[^10-1] la collaborazione degli organi del servizio pubblico di collocamento con le autorità incaricate di controllare l’adempimento dell’obbligo di annunciare i posti vacanti secondo l’articolo 21*a* LStrI;
 - f. l’osservazione del mercato del lavoro e la statistica del mercato del lavoro.
+
+[^10-1]: Nuovo testo giusta l’all. dell’O del 26 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 333](https://fedlex.data.admin.ch/eli/oc/2024/333)).
 
 #### Art. 11
 
@@ -297,7 +301,7 @@ Allegato 1[^t-1]
 
 ## Sistema d’informazione per il pagamento delle prestazioni dell’assicurazione contro la disoccupazione (art. 83 cpv. 1<sup>bis</sup> lett. a LADI): dati e diritti di accesso
 
-[^t-1]: Aggornato dall’all. n. II 42 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
+[^t-1]: Aggiornato dall’all. n. II 42 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 800](https://fedlex.data.admin.ch/eli/oc/2021/800)).
 
 ### 1. Abbreviazioni
 
@@ -392,11 +396,13 @@ Legenda:
 <tr><td>3.4.1 Dati di pagamento</td><td>–</td><td>–</td><td>–</td><td>–</td><td colspan="5">T</td><td>–</td><td>T</td><td>T</td><td>T</td><td colspan="5">T</td></tr>
 </table>
 
-Allegato 2
+Allegato 2[^t-2]
 
 (art. 11)
 
 ## Sistema d’informazione per il collocamento pubblico (art. 83 cpv. 1<sup>bis</sup> lett. b LADI): dati e diritti d’accesso
+
+[^t-2]: Aggiornato dall’all. dell’O del 26 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 333](https://fedlex.data.admin.ch/eli/oc/2024/333)).
 
 ## 1. Abbreviazioni
 
@@ -453,16 +459,19 @@ Legenda:
 <table>
 <tr><th></th><th>SC</th><th>AS nel quadro della CII</th><th>AI nel quadro della CII</th><th>DC</th><th>AC</th></tr>
 <tr><td>Imprese</td><td></td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Nome, indirizzo, numero di telefono, numero di fax, indirizzo e-mail, sito Internet, settore, stato dell’impresa, numero di rimando</td><td>T</td><td>C</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>Dati RIS (numero RIS, indirizzo, numero di telefono, forma giuridica, dimensione dell’impresa, situazione economica, lingua di lavoro), dati del registro di commercio</td><td>T</td><td>C</td><td>T</td><td>T</td><td>-</td></tr>
-<tr><td>Persone di contatto (funzione, posizione, lingua, indirizzo, numero di telefono, numero di fax, indirizzo e-mail)</td><td>T</td><td>C</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>Accordo di collaborazione, attività, raggiungibilità</td><td>T</td><td>C</td><td>T</td><td>T</td><td>-</td></tr>
-<tr><td>Categorie professionali impiegate</td><td>T</td><td>C</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>Andamento degli affari (periodo, posti, posti occupati dall’URC, ILR, IPI, numero di persone in cerca d’impiego occupate, assegni)</td><td>T</td><td>C</td><td>T</td><td>T</td><td>-</td></tr>
-<tr><td>Posti a concorso, assegnazioni, offerte d’impiego, ritiro delle offerte (motivo, data), descrizione dei posti, condizioni di lavoro (data di inizio, durata, tasso di occupazione, salario, luogo), attività, requisiti (qualifiche, esperienza, livello formativo, titolo di studio), conoscenze linguistiche richieste, persona di contatto, assegnazioni</td><td>T</td><td>C</td><td>T</td><td>T</td><td>T</td></tr>
-<tr><td>Risultati del *matching*</td><td>T</td><td>-</td><td>T</td><td>T</td><td>-</td></tr>
-<tr><td>Diritto alle prestazioni dell’assicurazione (inizio, durata e ammontare), servizi e persone competenti, settore d’esercizio, numero di lavoratori interessati</td><td>T</td><td>-</td><td>-</td><td>-</td><td>-</td></tr>
+<tr><td>Nome, indirizzo, numero di telefono, numero di fax, indirizzo e-mail, sito Internet, settore, stato dell’impresa, numero di rimando</td><td>T</td><td>C</td><td>T</td><td>T</td><td>–</td></tr>
+<tr><td>Dati RIS (numero RIS, indirizzo, numero di telefono, forma giuridica, dimensione dell’impresa, situazione economica, lingua di lavoro), dati del registro di commercio</td><td>T</td><td>C</td><td>T</td><td>T</td><td>–</td></tr>
+<tr><td>Persone di contatto (funzione, posizione, lingua, indirizzo, numero di telefono, numero di fax, indirizzo e-mail)</td><td>T</td><td>C</td><td>T</td><td>T</td><td>–</td></tr>
+<tr><td>Accordo di collaborazione, attività, raggiungibilità</td><td>T</td><td>C</td><td>T</td><td>T</td><td>–</td></tr>
+<tr><td>Categorie professionali impiegate</td><td>T</td><td>C</td><td>T</td><td>T</td><td>–</td></tr>
+<tr><td>Andamento degli affari (periodo, posti, posti occupati dall’URC, ILR, IPI, numero di persone in cerca d’impiego occupate, assegni)</td><td>T</td><td>C</td><td>T</td><td>T</td><td>–</td></tr>
+<tr><td>Posti a concorso, assegnazioni, offerte d’impiego, ritiro delle offerte (motivo, data), descrizione dei posti, condizioni di lavoro (data di inizio, durata, tasso di occupazione, salario, luogo), attività, requisiti (qualifiche, esperienza, livello formativo, titolo di studio), conoscenze linguistiche richieste, persona di contatto</td><td>T</td><td>C</td><td>T</td><td>T</td><td>–</td></tr>
+<tr><td>Conferma di ricezione di cui all’articolo 53*b* capoverso 4 dell’ordinanza del 16 gennaio 1991[^annex2-lvl1-lvl2-1] sul collocamento (nome e indirizzo dell’impresa)</td><td>–</td><td>–</td><td>–</td><td>–</td><td>T</td></tr>
+<tr><td>Risultati del *matching*</td><td>T</td><td>–</td><td>T</td><td>T</td><td>–</td></tr>
+<tr><td>Diritto alle prestazioni dell’assicurazione (inizio, durata e ammontare), servizie persone competenti, settore d’esercizio, numero di lavoratori interessati</td><td>T</td><td>–</td><td>–</td><td>–</td><td>–</td></tr>
 </table>
+
+[^annex2-lvl1-lvl2-1]: [RS 823.111](https://fedlex.data.admin.ch/eli/cc/1991/408_408_408)
 
 Allegato 3
 
