@@ -4,446 +4,526 @@ number: "415.451"
 title: Organisationsreglement der Philosophischen Fakultät der Universität Zürich (OrgR PhF)
 short: OrgR PhF
 language: de
-nachtrag: "89"
-valid_until: 2024-08-01
+nachtrag: "126"
+valid_until: 2025-08-01
 adopted: 2023-12-01
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_451-2013_12_03-2014_01_01-089.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_451-2023_12_01-2024_08_01-126.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Organisationsreglement der Philosophischen Fakultät der Universität Zürich
+# Organisationsreglement der Philosophischen Fakultät der Universität Zürich (OrgR PhF)
 
-(vom 3. Dezember 2013)<sup>1,</sup> <sup>2</sup>
+(vom 1. Dezember 2023)<sup>1,</sup> <sup>2</sup>
 
-Die Erweiterte Universitätsleitung beschliesst:
+Die Fakultätsversammlung,
+
+gestützt auf § 34 Abs. 3 Ziff. 3 des Universitätsgesetzes vom 15. März 1998 (UniG)<sup>3</sup> und § 79 der Universitätsordnung der Universität Zürich vom 4. Dezember 1998 (UniO)<sup>4</sup>,
+
+beschliesst:
 
 ### 1. Teil: Fakultätsorgane und weitere fakultäre Gremien
 
-### 1. Abschnitt: Fakultätsversammlung
+### 1. Abschnitt: Allgemeine Bestimmungen
 
 #### § 1
 
-**Zusammensetzung**
+**Regelungsbereich**
 
-<sup>1</sup> Die Fakultätsversammlung setzt sich zusammen aus der Gesamtheit der ordentlichen und ausserordentlichen Professorinnen und Professoren, den Professorinnen und Professoren ad personam, den Assistenzprofessorinnen und -professoren sowie den Förderungsprofessorinnen und -professoren.
-
-<sup>2</sup> Dazu kommt eine Anzahl von Delegierten jedes Standes, die 5% der Anzahl der Professorinnen und der Professoren entspricht, mindestens aber je zwei Delegierte.
+Dieses Reglement regelt gestützt auf das Universitätsgesetz und die Universitätsordnung der Universität Zürich die Organisation der Philosophischen Fakultät der Universität Zürich sowie die Aufgaben ihrer Organe und weiteren fakultären Gremien.
 
 #### § 2
 
-**Zuständigkeiten**
+**Organe**
 
-<sup>1</sup> Der Fakultätsversammlung obliegt die Antragstellung zuhanden der Universitätsleitung in folgenden Bereichen:
+Die Organe der Fakultät sind:
 
-- 1\. Entwicklungs- und Finanzplanung der Fakultät,
-
-- 2\. Schaffung, Umwandlung, Aufhebung und Umbenennung von Lehrstühlen, Instituten und anderen Organisationseinheiten,
-
-- 3\. Vereinbarungen über fakultätsübergreifende Zusammenschlüsse.
-
-<sup>2</sup> Sie stellt Antrag zuhanden der Erweiterten Universitätsleitung auf:
-
-- 1\. Erlass und Änderung der Habilitations- und der Promotionsverordnungen sowie der Rahmenverordnungen,
-
-- 2\. Erteilung und Entzug der Venia Legendi,
-
-- 3\. Verleihung des Titels einer Professorin oder eines Professors an Privatdozentinnen und -dozenten,
-
-- 4\. Bewilligung zur Weiterführung des Titels einer Professorin oder eines Professors bei vorzeitigem Rücktritt,
-
-- 5\. Verleihung von anderen akademischen Titeln,
-
-- 6\. Genehmigung des Organisationsreglements der Fakultät.
-
-**1**
-
-- 1\. 7. 15 - 89
-
-<sup>3</sup> Sie ist abschliessend zuständig für 1. die Wahl der Dekanin oder des Dekans, der Studiendekanin oder des Studiendekans und der Prodekaninnen oder Prodekane,
-
-- 2\. die Zuteilung der Aufgaben und Zuständigkeiten der Prodekaninnen oder Prodekane,
-
-- 3\. die Wahl der Mitglieder des Fakultätsausschusses und der Studienkonferenz,
-
-- 4\. die Genehmigung der Geschäftsordnung der Studienkonferenz,
-
-- 5\. die Verleihung des Doktortitels und anderer akademischer Grade nach Massgabe der Prüfungs- und Promotionsordnungen,
-
-- 6\. die Verleihung von Auszeichnungen und Preisen unter Vorbehalt universitärer Regelungen,
-
-- 7\. die Einsetzung und Auflösung ständiger und nichtständiger Fakultätskommissionen und Genehmigung ihrer Pflichtenhefte,
-
-- 8\. die Wahl der Mitglieder der Fakultätskommissionen und ihrer Präsidentinnen oder Präsidenten mit Ausnahme der Berufungskommissionen,
-
-- 9\. die Wahl der Delegierten der Fakultät in gesamtuniversitäre und ausseruniversitäre Gremien,
-
-- 10\. die Wahl der Delegierten der Fakultät für besondere Aufgaben,
-
-- 11\. den Erlass von Richtlinien und Reglementen,
-
-- 12\. den Neuerlass der Studien- und Doktoratsordnung,
-
-- 13\. die Regelung der universitären Weiterbildung,
-
-- 14\. die Regelung der Lehrveranstaltungen.
-
-<sup>4</sup> Sie kann Zuständigkeiten auf Dauer oder temporär an den Fakultätsausschuss, an die Studienkonferenz oder an den Fakultätsvorstand delegieren.
-
-### 2. Abschnitt: Leitung der Fakultät
+die Fakultätsversammlung, der Fakultätsausschuss, der Fakultätsvorstand, die Dekanin oder der Dekan.
 
 #### § 3
 
-**Dekanin oder Dekan**
+**Stellung der Seminare**
 
-<sup>1</sup> Die Dekanin oder der Dekan leitet die Fakultät und vertritt sie gegen aussen.
+Die Seminare der Fakultät sind Instituten gleichgestellt. Die Bestimmungen des übergeordneten Rechts über die Institute sind auf die Seminare vollumfänglich anwendbar.
 
-<sup>2</sup> Ihr oder ihm obliegt die Antragstellung zuhanden der Universitätsleitung in folgenden Bereichen:
+### 2. Abschnitt: Fakultätsversammlung, Fakultätsausschuss, Fakultäts-
 
-- 1\. Fakultätsbudget, konsolidiert aus den Budgets der Institute und weiterer Organisationseinheiten,
+vorstand
 
-- 2\. Festsetzung und Änderung von Stellenplänen.
+### A. Fakultätsversammlung
 
-<sup>3</sup> Die Dekanin oder der Dekan ist verantwortlich für die Vorbereitung und Antragstellung zuhanden der Fakultätsversammlung in folgenden Bereichen:
-
-- 1\. Schaffung, Umwandlung, Aufhebung und Umbenennung von Lehrstühlen, Instituten und weiteren Organisationseinheiten,
-
-- 2\. Entwicklungs- und Finanzplanung der Fakultät,
-
-- 3\. Erlass von Richtlinien und Reglementen, insoweit sie nicht in die Zuständigkeit der Studiendekanin oder des Studiendekans oder des Fakultätsvorstands fallen,
-
-- 4\. Wahl der Mitglieder der Fakultätskommissionen und ihrer Präsidentinnen oder Präsidenten,
-
-- 5\. Wahl der Delegierten der Fakultät in gesamtuniversitäre und ausseruniversitäre Gremien,
-
-- 6\. Wahl der Delegierten der Fakultät für besondere Aufgaben.
-
-<sup>4</sup> Die Dekanin oder der Dekan ist insbesondere zuständig für die 1. Vorbereitung, Einberufung und Leitung von Sitzungen der Fakultätsversammlung,
-
-- 2\. Aufsicht über die Institute,
-
-- 3\. Stellungnahme zu den Institutsordnungen vor Antragstellung an die Universitätsleitung,
-
-- 4\. Zuweisung von Ressourcen an die Institute und weitere Organisationseinheiten,
-
-- 5\. Zuweisung von Ressourcen aus dem Fakultäts-Pool an Institute und weitere Organisationseinheiten,
-
-- 6\. jährliche Berichterstattung,
-
-- 7\. Aufsicht über das Lehrangebot,
-
-- 8\. Nachwuchsförderung,
-
-- 9\. Förderung der tatsächlichen Gleichstellung der Geschlechter,
-
-- 10\. Festsetzung der Pflichtenhefte der ständigen und nichtständigen Kommissionen,
-
-- 11\. Verwaltung der finanziellen Mittel der Fakultät.
-
-<sup>5</sup> Die Dekanin oder der Dekan nimmt die ihr oder ihm durch andere universitäre Erlasse übertragenen Kompetenzen wahr und ist für alle Angelegenheiten der Fakultät zuständig, die keinem anderen Organ übertragen sind.
-
-**3**
-
-- 1\. 7. 15 - 89 § 4. Die Studiendekanin oder der Studiendekan ist für die reglementarischen und organisatorischen Angelegenheiten des Studiums einschliesslich der Doktoratsstufe zuständig, insbesondere für folgende Bereiche:
-
-**Studiendekanin oder Studiendekan**
-
-- 1\. Vorbereitung von Erlassen zuhanden der Fakultätsversammlung oder des Fakultätsvorstands,
-
-- 2\. Organisation des Prüfungswesens,
-
-- 3\. Entscheidung über Zulassungs- und Anerkennungs- bzw. Anrechnungsgesuche,
-
-- 4\. Stellungnahme zu Rekursen zuhanden der Rekurskommission,
-
-- 5\. Gewährleistung der Information und Aufsicht über Beratung der Studierenden in Fragen des programmübergreifenden Studiums,
-
-- 6\. Aufsicht über die Studienfachberatung,
-
-- 7\. Einhaltung der Studienordnung,
-
-- 8\. Qualitätssicherung in der Lehre in Zusammenarbeit mit den Studienprogrammdirektionen.
-
-#### § 5
-
-**Prodekaninnen oder Prodekane, Studiendekanin oder Studiendekan**
-
-<sup>1</sup> Die Dekanin oder der Dekan wird durch die Studiendekanin oder den Studiendekan sowie die Prodekaninnen oder Prodekane unterstützt. Sie oder er kann sich durch die Studiendekanin bzw. den Studiendekan oder die Prodekaninnen oder Prodekane vertreten lassen.
-
-<sup>2</sup> Den Prodekaninnen oder Prodekanen können Zuständigkeiten zugeteilt werden.
-
-#### § 6
-
-**Fakultätsvorstand**
-
-<sup>1</sup> Die Dekanin oder der Dekan, die Studiendekanin oder der Studiendekan und die Prodekaninnen oder Prodekane bilden den Fakultätsvorstand. Der Vorstand soll die Fächergruppen repräsentieren.
-
-<sup>2</sup> Der Fakultätsvorstand beantragt bei der Universitätsleitung die Zusammensetzung von Berufungskommissionen.
-
-<sup>3</sup> Der Fakultätsvorstand ist in dringenden Fällen im Einverständnis mit der Universitätsleitung zuständig für die Einleitung von Direktberufungsverfahren.
-
-<sup>4</sup> Der Fakultätsvorstand unterstützt und berät die Dekanin oder den Dekan insbesondere bei der Erstellung des Entwicklungs- und Finanzplans und des Fakultätsbudgets sowie der Verteilung der Ressourcen.
-
-<sup>5</sup> Der Fakultätsvorstand erlässt Ausführungsbestimmungen zu den Reglementen im Rahmen seiner Zuständigkeit.
-
-<sup>6</sup> Der Fakultätsvorstand beschliesst über die Anträge des Fakultätsausschusses auf Einführung oder Aufhebung von Studienprogrammen. Die Mitglieder der Fakultätsversammlung können Antrag auf Diskussion und Entscheidung des Geschäfts stellen.
-
-<sup>7</sup> Der Fakultätsvorstand entscheidet bei Plagiaten über den Entzug von Titeln und akademischen Graden.
-
-#### § 7
-
-**Wahl, Amtsdauer und Amtsantritt des Fakultätsvorstands**
-
-<sup>1</sup> Die Dekanin oder der Dekan wird durch die Fakultätsversammlung auf eine Amtsdauer von vier Jahren gewählt. Wiederwahl für zwei Jahre ist zulässig.
-
-<sup>2</sup> Die Studiendekanin oder der Studiendekan sowie die Prodekaninnen oder Prodekane werden auf Antrag der Dekanin oder des Dekans durch die Fakultätsversammlung auf eine Amtszeit von vier Jahren gewählt. Wiederwahl ist zulässig.
-
-<sup>3</sup> Die Dekanin oder der Dekan sowie die Studiendekanin oder der Studiendekan und die Prodekaninnen und Prodekane treten das Amt jeweils am 1. August an.
-
-#### § 8
-
-**Ablösung der Dekanin oder des Dekans**
-
-<sup>1</sup> Spätestens zwei Semester vor Ablauf der Amtszeit gibt die Dekanin oder der Dekan bekannt, ob sie oder er sich für eine Wiederwahl zur Verfügung stellt.
-
-<sup>2</sup> Stellt sich die Dekanin oder der Dekan für die Wiederwahl nicht mehr zur Verfügung, schlägt der Fakultätsvorstand Kandidatinnen und Kandidaten zur Wahl vor. Daneben ist jedes stimmberechtigte Mitglied der Fakultät vorschlagsberechtigt.
-
-#### § 9
-
-**Ersatzwahl der Dekanin oder des Dekans vor Ablauf der Amtszeit**
-
-<sup>1</sup> Bei vorzeitigem Rücktritt oder dauernder Verhinderung an der Amtsausübung der Dekanin oder des Dekans hat eine Ersatzwahl zu erfolgen.
-
-<sup>2</sup> Die Ersatzwahl kann unterbleiben, sofern innert sechs Monaten ordentliche Neuwahlen durchzuführen sind. In diesem Fall führt eine vom Fakultätsvorstand zu bestimmende Stellvertreterin oder ein Stellvertreter der Dekanin oder des Dekans die Geschäfte weiter.
-
-#### § 10
-
-**Freistellung**
-
-<sup>1</sup> Während ihrer Amtsdauer werden die Dekanin oder der Dekan sowie die Studiendekanin oder der Studiendekan und die Prodekaninnen oder Prodekane in angemessenem Rahmen von Verpflichtungen in Forschung, Lehre und Dienstleistungen freigestellt.
-
-<sup>2</sup> Die Universitätsleitung entscheidet über den Umfang der Freistellung.
-
-**5**
-
-- 1\. 7. 15 - 89 § 11. <sup>1</sup> Der Fakultätsvorstand sowie seine Mitarbeitenden bilden das Dekanat.
-
-**Dekanat**
-
-<sup>2</sup> Die Dekanin oder der Dekan leitet das Dekanat.
-
-### 3. Abschnitt: Fakultätsausschuss
-
-#### § 12
+#### § 4
 
 **Zusammensetzung**
 
-<sup>1</sup> Der Fakultätsausschuss setzt sich zusammen aus der Dekanin oder dem Dekan sowie aus 14 Professorinnen oder Professoren aus den vier Fächergruppen der Fakultät. Dazu kommt je eine Delegierte oder ein Delegierter jedes Standes. Die Prodekaninnen und Prodekane nehmen bei Bedarf mit beratender Stimme an den Sitzungen teil.
+<sup>1</sup> Die Fakultätsversammlung setzt sich zusammen aus der Gesamtheit der Professorenschaft.
 
-<sup>2</sup> Die 14 Professorinnen oder Professoren werden von der Fakultätsversammlung auf Vorschlag der vier Fächergruppen auf zwei Jahre in den Fakultätsausschuss gewählt. Wiederwahl ist möglich. Bei der Wahl sind die Delegierten der Stände in der Fakultätsversammlung nicht wahlberechtigt.
+**1**
 
-#### § 13
+1.10. 24 - 126
 
-**Zuständigkeiten**
+<sup>2</sup> Dazu kommt eine Anzahl von Delegierten jedes Standes, die 5% der Anzahl der Professorinnen und der Professoren entspricht, mindestens aber je zwei Delegierten.
+
+<sup>3</sup> Die Fakultätsversammlung kann weitere Personen, die ihr nicht angehören, mit beratender Stimme an ihren Sitzungen teilnehmen lassen.
+
+#### § 5
+
+**Zuständigkeit**
+
+<sup>1</sup> Der Fakultätsversammlung obliegt die Antragstellung zuhanden der Universitätsleitung in folgenden Bereichen:
+
+- 1\. Schaffung, Wiederbesetzung, Umwandlung und Aufhebung von Lehrstühlen, Instituten und Seminaren sowie anderen Organisationseinheiten,
+
+- 2\. Genehmigung von Vereinbarungen über fakultätsübergreifende Zusammenschlüsse.
+
+<sup>2</sup> Ihr obliegt die Antragstellung zuhanden der Erweiterten Universitätsleitung in folgenden Bereichen:
+
+- 1\. Erlass der Rahmenverordnungen für das Studium und der Promotionsverordnungen,
+
+- 2\. Erteilung und Entzug der Venia Legendi,
+
+- 3\. Ernennung zur Titularprofessorin oder zum Titularprofessor, Verlängerung der Titularprofessur sowie Entzug des Titels der Titularprofessorin oder des Titularprofessors,
+
+- 4\. Genehmigung von Erlassen, soweit das übergeordnete Recht die Antragstellung durch die Fakultätsversammlung vorsieht.
+
+<sup>3</sup> Sie ist abschliessend zuständig für:
+
+- 1\. die Wahl der Dekanin oder des Dekans, der Studiendekanin oder des Studiendekans sowie der Prodekaninnen und Prodekane,
+
+- 2\. die Verleihung und den Entzug des Doktorgrads und anderer akademischer Grade nach Massgabe der Rahmenverordnungen für das Studium oder der Promotionsverordnungen,
+
+- 3\. die Verleihung von Auszeichnungen und Preisen unter Vorbehalt universitärer Regelungen,
+
+- 4\. die Einsetzung und Auflösung ständiger und nichtständiger fakultärer Kommissionen,
+
+- 5\. die Wahl der Mitglieder der ständigen und nichtständigen fakultären Kommissionen,
+
+- 6\. die Wahl oder Nominierung der Delegierten der Fakultät in gesamtuniversitäre und ausseruniversitäre Ämter und Kommissionen,
+
+- 7\. die Wahl der Delegierten der Fakultät für besondere Aufgaben,
+
+- 8\. den Erlass des Organisationsreglements der Fakultät, der Verordnung über die Titularprofessur, der Habilitationsordnung, der Studienordnungen und der Verordnungen über die Weiterbildungsstudiengänge, jeweils unter Vorbehalt der Genehmigung durch die Erweiterte Universitätsleitung,
+
+- 9\. den Erlass der Doktoratsordnung.
+
+#### § 6
+
+**Delegation**
+
+<sup>1</sup> Die Fakultätsversammlung kann ihre Zuständigkeiten delegieren.
+
+<sup>2</sup> Nicht delegiert werden können die in übergeordneten Erlassen enthaltenen Zuständigkeiten der Fakultätsversammlung.
+
+<sup>3</sup> Eine delegierte Zuständigkeit kann von der Fakultätsversammlung jederzeit entzogen werden.
+
+### B. Fakultätsausschuss
+
+#### § 7
+
+**Zusammensetzung**
+
+<sup>1</sup> Der Fakultätsausschuss setzt sich zusammen aus:
+
+- 1\. der Dekanin oder dem Dekan,
+
+- 2\. den Vorsteherinnen und Vorstehern der Institute und Seminare,
+
+- 3\. je zwei Delegierten der Stände.
+
+<sup>2</sup> Die Prodekaninnen und Prodekane sowie die Studiendekanin oder der Studiendekan nehmen bei Bedarf mit beratender Stimme an den Sitzungen teil.
+
+#### § 8
+
+**Zuständigkeit**
 
 <sup>1</sup> Der Fakultätsausschuss unterstützt und berät die Dekanin oder den Dekan bei strategisch wichtigen Geschäften wie:
 
 - 1\. Entwicklungs- und Finanzplanung,
 
-- 2\. langfristige strategische Planung in Lehre und Forschung,
+- 2\. langfristige strategische Planung und Massnahmen in Forschung und Lehre.
 
-- 3\. Anträge aus den Instituten und Seminaren über einschneidende strukturelle Massnahmen in Forschung und Lehre.
+<sup>2</sup> Er nimmt zuhanden der Universitätsleitung Stellung zu:
 
-<sup>2</sup> Der Fakultätsausschuss nimmt zuhanden der Universitätsleitung Stellung zu den Anträgen der Berufungs- und Beförderungskommissionen.
+- 1\. Anträgen der Berufungs- und Beförderungskommissionen,
 
-<sup>3</sup> Der Fakultätsausschuss bewilligt Gastprofessuren.
+- 2\. Anträgen von Professorinnen und Professoren auf privatrechtliche Wiederanstellung nach Erreichen der Altersgrenze.
 
-<sup>4</sup> Dem Fakultätsausschuss können von der Fakultätsversammlung weitere Aufgaben übertragen werden.
+<sup>3</sup> Er bewilligt Gastprofessuren.
 
-<sup>5</sup> Die Fakultät regelt die Form der Repräsentation.
+**3**
 
-### 4. Abschnitt: Studienkonferenz
+1.10. 24 - 126
 
-#### § 14
+### C. Fakultätsvorstand
+
+#### § 9
 
 **Zusammensetzung**
 
-Die Studienkonferenz setzt sich zusammen aus der Studiendekanin oder dem Studiendekan, je zwei Vertreterinnen oder Vertretern der Fächergruppen aus dem Personenkreis gemäss § 1 Abs. 1 sowie aus je einer Vertreterin oder einem Vertreter jedes Standes. Zur Beratung können die zuständigen Mitarbeitenden des Studiendekanats zugezogen werden. Die Fakultät regelt die Form der Repräsentation.
+<sup>1</sup> Der Fakultätsvorstand setzt sich zusammen aus:
+
+- 1\. der Dekanin oder dem Dekan,
+
+- 2\. der Studiendekanin oder dem Studiendekan,
+
+- 3\. den Prodekaninnen und Prodekanen.
+
+<sup>2</sup> Der Fakultätsvorstand sowie seine Mitarbeitenden bilden das Dekanat.
+
+#### § 10
+
+**Zuständigkeit**
+
+Der Fakultätsvorstand 1. beantragt bei der Universitätsleitung die Einsetzung und die weitere Zusammensetzung von Berufungs- und Beförderungskommissionen,
+
+- 2\. setzt auf Vorschlag der zuständigen Prodekanin oder des Prodekans Habilitationskommissionen ein,
+
+- 3\. leitet in begründeten Fällen mit Bewilligung der Universitätsleitung Direktberufungsverfahren ein,
+
+- 4\. unterstützt und berät die Dekanin oder den Dekan bei ihren oder seinen Geschäften, insbesondere bei der Erstellung des Entwicklungs- und Finanzplans und der Verteilung der Ressourcen.
+
+### 3. Abschnitt: Amt der Dekanin oder des Dekans, der Studiendekanin
+
+oder des Studiendekans, der Prodekaninnen
+
+und Prodekane
+
+### A. Allgemeine Bestimmungen
+
+#### § 11
+
+**Wahl, Amtsdauer und Amtsantritt**
+
+<sup>1</sup> Die Dekanin oder der Dekan, die Studiendekanin oder der Studiendekan sowie die Prodekaninnen und Prodekane werden von der Fakultätsversammlung auf eine Amtsdauer von vier Jahren in ihr Amt gewählt. Wiederwahl ist möglich.
+
+<sup>2</sup> Der Amtsantritt erfolgt jeweils am 1. August.
+
+#### § 12
+
+**Freistellung**
+
+<sup>1</sup> Während ihrer Amtsdauer werden die Dekanin oder der Dekan, die Studiendekanin oder der Studiendekan sowie die Prodekaninnen und Prodekane in angemessenem Rahmen von Verpflichtungen in Forschung, Lehre und Dienstleistungen freigestellt.
+
+<sup>2</sup> Die Universitätsleitung entscheidet über den Umfang der Freistellung.
+
+#### § 13
+
+**Gemeinsame Ausübung eines Amtes in Ko-Leitung**
+
+<sup>1</sup> Mit Ausnahme des Amtes der Dekanin oder des Dekans kann jedes Amt von höchstens zwei Personen gemeinsam in Ko-Leitung ausgeübt werden.
+
+<sup>2</sup> Voraussetzung für eine Ko-Leitung ist, dass beide Personen die für die Führung des Amtes erforderlichen formellen Voraussetzungen erfüllen.
+
+<sup>3</sup> Die Ko-Leitungspersonen sind je einzeln zur Ausübung der Befugnisse berechtigt, die mit dem jeweiligen Amt verbunden sind. Die interne Aufgabenzuteilung innerhalb einer Ko-Leitung erfolgt durch die Dekanin oder den Dekan.
+
+<sup>4</sup> Alle im Zusammenhang mit der Wahl und Ausübung eines Amtes stehenden Regelungen sind auf Ko-Leitungen sinngemäss anwendbar, sofern 1. dieses Reglement keine eigene Regelung für Ko-Leitungen enthält und 2. sich der Regelungsgehalt nicht auf das Amt der Dekanin oder des Dekans bezieht.
+
+#### § 14
+
+**Stellvertretung**
+
+<sup>1</sup> Die Stellvertretung einer Ko-Leitungsperson erfolgt durch die jeweils andere Ko-Leitungsperson.
+
+<sup>2</sup> Ist eine Stellvertretung durch die Ko-Leitungsperson nicht möglich oder ist keine Ko-Leitungsperson vorhanden, bestimmt der Fakultätsvorstand eine Stellvertretung aus seinen Reihen.
+
+### B. Dekanin oder Dekan
 
 #### § 15
 
-**Zuständigkeiten**
+**Funktion**
 
-<sup>1</sup> Die Studienkonferenz bereitet unter der Leitung der Studiendekanin oder des Studiendekans zuhanden der Fakultätsversammlung Reglemente, die den Studienbetrieb anbelangen, vor und berät den Fakultätsvorstand bezüglich Ausführungsbestimmungen für diesen Bereich.
+<sup>1</sup> Die Dekanin oder der Dekan 1. leitet die Fakultät und vertritt sie gegen aussen,
 
-<sup>2</sup> Die Studienkonferenz beschliesst über Anträge auf Änderung der Studienordnung.
+- 2\. übt die Aufsicht über die Organisationseinheiten der Fakultät aus,
 
-<sup>3</sup> Die Studienkonferenz entscheidet abschliessend über Anträge der Studiendekanin oder des Studiendekans bezüglich ausserordentlicher Gesuche, Anerkennungs- bzw. Anrechnungsfragen und Anträgen auf Zulassung.
+- 3\. leitet das Dekanat.
 
-<sup>4</sup> Die Studienkonferenz erwahrt die Bachelor- und Masterabschlüsse.
+<sup>2</sup> Sie oder er wird unterstützt durch 1. die Studiendekanin oder den Studiendekan,
 
-### 5. Abschnitt: Studienprogrammdirektionen und Prüfungsdelegierte
+- 2\. die Prodekaninnen und Prodekane und kann sich von diesen vertreten lassen, wenn sie oder er in der Amtsausübung verhindert ist.
 
-#### § 16
+**5**
 
-**Studienprogrammdirektorinnen und -direktoren sowie Prüfungsdelegierte**
+1.10. 24 - 126 § 16. <sup>1</sup> Die Dekanin oder der Dekan erfüllt die ihr oder ihm zugewiesenen Aufgaben und Verantwortlichkeiten insbesondere gemäss Universitätsgesetz, Universitätsordnung der Universität Zürich, Finanzhandbuch der Universität Zürich\* und Personalverordnung der Universität Zürich vom 29. September 2014<sup>5</sup>.
 
-<sup>1</sup> Die Zuständigkeit für die Studienprogramme wird in den Instituten, Seminaren und Kuratorien von den Studienprogrammdirektionen wahrgenommen. Sie werden unterstützt von einer Studienprogrammkoordinatorin oder einem -koordinator bzw. einer oder einem Prüfungsdelegierten.
+**Zuständigkeit**
 
-<sup>2</sup> Die Studienprogrammdirektion übt die Aufsicht über die Qualität und Entwicklung der Lehre in den Studienprogrammen aus.
+<sup>2</sup> Sie oder er ist insbesondere zuständig für:
 
-<sup>3</sup> Die Studienprogrammdirektorin oder der Studienprogrammdirektor ist Mitglied des Personenkreises gemäss § 1 Abs. 1; sie oder er wird von der Institutsversammlung auf vier Jahre gewählt.
+- 1\. die Strategische Ausrichtung der Fakultät,
 
-<sup>4</sup> Die Studienprogrammkoordinatorin oder der -koordinator sowie die oder der Prüfungsdelegierte werden von der Vorsteherin oder dem Vorsteher des Seminars bzw. der Direktion des Instituts, dem sie zugeordnet sind, eingesetzt. Die Funktion der oder des Prüfungsdelegierten ist in der Rahmenverordnung geregelt.
+- 2\. die Finanzen der Fakultät und Zuteilung des Raumguts,
+
+- 3\. die Gesamtleitung der Berufungs- und Professurengeschäfte auf Ebene der Fakultät,
+
+- 4\. die Führung der Professorinnen und Professoren im Rahmen der universitären Vorgaben,
+
+- 5\. die Zuteilung der Aufgaben und Zuständigkeiten an die Prodekaninnen und Prodekane,
+
+- 6\. die Vorbereitung, Einberufung und Leitung von Sitzungen der Fakultätsversammlung, des Fakultätsausschusses sowie des Fakultätsvorstands.
+
+<sup>3</sup> Die Dekanin oder der Dekan ist für alle Angelegenheiten der Fakultät zuständig, die keinem anderen Organ übertragen sind.
+
+<sup>4</sup> Sie oder er kann Aufgaben delegieren, soweit dies das übergeordnete Recht zulässt.
 
 #### § 17
 
-**Kuratorium**
+**Findungskommission**
 
-Für Studienprogramme, die nicht allein einem Institut oder Seminar zuzuordnen sind, übernimmt ein Kuratorium die Funktion der Institutsversammlung.
+<sup>1</sup> Für die Vorbereitung der Wahl der Dekanin oder des Dekans setzt die Fakultät eine Findungskommission gemäss den Vorgaben der Universitätsordnung ein.
 
-### 6. Abschnitt: Kommissionen
+<sup>2</sup> Jedes stimmberechtigte Mitglied der Fakultät ist zuhanden der Findungskommission vorschlagsberechtigt.
 
 #### § 18
 
-**Ständige und nichtständige Kommissionen**
+**Wiederwahl**
 
-<sup>1</sup> Für wichtige Aufgaben werden ständige Kommissionen eingesetzt.
+<sup>1</sup> Spätestens drei Semester vor Ablauf der Amtsdauer gibt die Dekanin oder der Dekan bekannt, ob sie oder er sich für eine Wiederwahl zur Verfügung stellt.
 
-<sup>2</sup> Zur Erfüllung befristeter besonderer Aufträge können nichtständige Kommissionen eingesetzt werden, z. B. Berufungskommissionen.
+<sup>2</sup> Bei einer Wiederwahl kann die Fakultät im Einvernehmen mit der Universitätsleitung auf die Einsetzung einer Findungskommission verzichten.
+
+<sup>3</sup> Wird auf eine Findungskommission verzichtet, ist jedes stimmberechtigte Mitglied der Fakultät zuhanden der Fakultätsversammlung vorschlagsberechtigt.
+
+#### § 19
+
+**Ersatzwahl**
+
+<sup>1</sup> Bei vorzeitigem Rücktritt vor Ablauf der Amtsdauer oder dauernder Verhinderung an der Amtsausübung der Dekanin oder des Dekans hat eine Ersatzwahl zu erfolgen.
+
+<sup>2</sup> Die Ersatzwahl kann unterbleiben, sofern innert sechs Monaten ordentliche Neuwahlen durchzuführen sind. In diesem Fall führt eine vom Fakultätsvorstand bestimmte Stellvertretung die Geschäfte der Dekanin oder des Dekans weiter.
+
+### C. Studiendekanin oder Studiendekan
+
+#### § 20
+
+**Studiendekanin oder Studiendekan**
+
+<sup>1</sup> Die Studiendekanin oder der Studiendekan ist zuständig für Lehre und Studium auf Bachelor- und Masterstufe.
+
+<sup>2</sup> Sie oder er ist in diesem Bereich insbesondere zuständig für:
+
+- 1\. die Entwicklung und Umsetzung der Strategien der Fakultät,
+
+- 2\. das Erarbeiten von Erlassen zuhanden der Fakultätsversammlung,
+
+- 3\. die Erfüllung der ihr oder ihm in den Rahmenverordnungen für das Studium oder in den Studienordnungen zugewiesenen Aufgaben,
+
+- 4\. die Gewährleistung der Information der Studierenden,
+
+- 5\. die Gewährleistung der Studienberatung,
+
+- 6\. die Qualitätssicherung in Zusammenarbeit mit den Studienprogrammdirektionen.
+
+#### § 21
+
+**Antrag zur Wahl**
+
+Die Studiendekanin oder der Studiendekan wird auf Antrag der designierten Dekanin oder des designierten Dekans gewählt.
+
+### D. Prodekaninnen und Prodekane
+
+#### § 22
+
+**Prodekaninnen und Prodekane**
+
+<sup>1</sup> Die Dekanin oder der Dekan wird durch mindestens zwei Prodekaninnen oder Prodekane in der Erfüllung der fakultären Aufgaben unterstützt. Diese sollen gemeinsam mit den anderen Vorstandsmitgliedern die fachliche Breite der Fakultät repräsentieren.
+
+<sup>2</sup> Die Zuteilung der Aufgabenbereiche erfolgt durch die Dekanin oder den Dekan.
+
+<sup>3</sup> Eine Prodekanin oder ein Prodekan leitet die Graduiertenschule.
+
+#### § 23
+
+**Antrag zur Wahl**
+
+Die Prodekaninnen und Prodekane werden auf Antrag der designierten Dekanin oder des designierten Dekans gewählt.
 
 **7**
 
-- 1\. 7. 15 - 89
+1.10. 24 - 126
 
-<sup>3</sup> Jeder Stand entsendet je eine Delegierte oder einen Delegierten in die verschiedenen ständigen und nichtständigen Kommissionen. Ausgenommen sind die Beförderungskommissionen und die Kommissionen zur Begutachtung von Habilitationsleistungen.
+### 4. Abschnitt: Studienprogrammdirektorinnen und -direktoren sowie Modulverantwortliche
+
+#### § 24
+
+**Studienprogrammdirektorinnen und -direktoren**
+
+<sup>1</sup> Die Studienprogrammdirektorinnen und -direktoren sind zuständig für die Entwicklung und Umsetzung der Lehre innerhalb der einzelnen Studienprogramme. Sie üben die Aufsicht über die Qualität und die Entwicklung der Studienprogramme aus.
+
+<sup>2</sup> Die Studienprogrammdirektorin oder der Studienprogrammdirektor gehört der Professorenschaft an.
+
+<sup>3</sup> Sie oder er wird von der Instituts- oder Seminarversammlung für eine Amtsdauer von vier Jahren gewählt. Wiederwahl ist möglich.
+
+<sup>4</sup> Ist ein Studienprogramm mehreren Instituten oder Seminaren zugeordnet, erfolgt die Wahl durch ein Kuratorium. Das Kuratorium repräsentiert die Instituts- oder Seminarversammlung und übernimmt deren Funktion.
+
+#### § 25
+
+**Modulverantwortliche**
+
+Die Zuständigkeit der Modulverantwortlichen wird in den Rahmenverordnungen für das Studium und den Studienordnungen geregelt.
+
+### 5. Abschnitt: Kommissionen
+
+#### § 26
+
+**Ständige und nichtständige Kommissionen**
+
+<sup>1</sup> Für wichtige und kontinuierliche Aufgaben können ständige Kommissionen eingesetzt werden. Ihre Zuständigkeiten und Aufgaben werden in Geschäftsordnungen geregelt, die der Genehmigung durch die Fakultätsversammlung unterliegen.
+
+<sup>2</sup> Zur Begutachtung von Habilitationsleistungen und zur Erfüllung befristeter besonderer Aufgaben können nichtständige Kommissionen eingesetzt werden.
+
+<sup>3</sup> Jeder Stand entsendet grundsätzlich eine Delegierte oder einen Delegierten in die ständigen und nichtständigen Kommissionen. In begründeten Fällen kann die Entsendung von mehreren Delegierten eines Standes vorgesehen werden.
+
+<sup>4</sup> Von der grundsätzlichen Regelung gemäss Abs. 3 ausgenommen sind Kommissionen zur Begutachtung von Habilitationsleistungen.
+
+#### § 27
+
+**Studienkommission**
+
+<sup>1</sup> Die Fakultätsversammlung setzt eine Studienkommission als ständige Kommission ein.
+
+<sup>2</sup> Die Studienkommission gewährleistet insbesondere den regelmässigen Austausch zwischen dem Dekanat und den Studienprogrammdirektorinnen und -direktoren.
+
+#### § 28
+
+**Berufungs- und Beförderungskommissionen**
+
+Berufungs- und Beförderungskommissionen werden nach den Vorgaben der Universitätsordnung eingesetzt.
 
 ### 2. Teil: Verfahrensvorschriften
 
 ### 1. Abschnitt: Sitzungen
 
-#### § 19
+#### § 29
 
-**Ordentliche Sitzungen**
+**Durchführung**
 
-Die Fakultätsversammlung und der Fakultätsausschuss treten mindestens dreimal im Semester zusammen.
+<sup>1</sup> Die Fakultätsversammlung und der Fakultätsausschuss treten mindestens dreimal im Semester zusammen.
 
-#### § 20
+<sup>2</sup> Die oder der Vorsitzende kann anordnen, dass die Sitzung in elektronischer Form durchgeführt wird. Die Art der Durchführung der Sitzung muss mit der Einladung bekannt gegeben werden.
 
-**Einberufungen**
+<sup>3</sup> Anwesenheitsquoren und Teilnahmepflichten gelten unter den Bedingungen von Abs. 2 sinngemäss.
 
-Einladungen und Tagesordnung für die Fakultätsversammlung und den Fakultätsausschuss werden in der Regel sieben Tage vor dem Sitzungsdatum auf elektronischem Weg bekannt gegeben.
+<sup>4</sup> Der Fakultätsvorstand legt seine Verfahren selbst fest.
 
-#### § 21
+#### § 30
+
+**Einberufung**
+
+Die Traktandenlisten und Sitzungsunterlagen für die Fakultätsversammlung und den Fakultätsausschuss werden in der Regel sieben Tage vor dem Sitzungsdatum auf elektronischem Weg bekannt gegeben.
+
+#### § 31
 
 **Traktanden**
 
 <sup>1</sup> Anträge auf Behandlung eines Traktandums in der Fakultätsversammlung und im Fakultätsausschuss sind der Dekanin oder dem Dekan bis spätestens zehn Tage vor der Sitzung schriftlich einzureichen.
 
-<sup>2</sup> Nicht traktandierte Geschäfte können bei Beginn einer Sitzung in die Traktandenliste aufgenommen werden, wenn sich mindestens drei Viertel der Anwesenden für die Traktandierung aussprechen.
+<sup>2</sup> Nicht traktandierte oder zu spät eingereichte Geschäfte können bei Beginn einer Sitzung in die Traktandenliste aufgenommen werden, wenn sich mindestens drei Viertel der Anwesenden für die Traktandierung aussprechen.
 
-#### § 22
+#### § 32
 
 **Protokoll**
 
-Über die Sitzungen der Fakultätsversammlung und des Fakultätsausschusses wird ein Protokoll geführt. Die Protokolle werden in der Regel sieben Tage vor der nächsten Sitzung auf elektronischem Weg verfügbar gemacht. Allfällige Anträge auf Änderung eines Protokolls können bis zu Beginn der nächsten Sitzung vorgebracht werden.
+<sup>1</sup> Über die Sitzungen der Fakultätsversammlung und des Fakultätsausschusses wird ein Protokoll geführt.
+
+<sup>2</sup> Die Protokolle werden in der Regel sieben Tage vor der nächsten Sitzung auf elektronischem Weg verfügbar gemacht.
+
+<sup>3</sup> Allfällige Anträge auf Änderung eines Protokolls können bis zu Beginn der nächsten Sitzung vorgebracht werden.
+
+**9**
+
+1.10. 24 - 126
 
 ### 2. Abschnitt: Abstimmungen und Wahlen
 
-#### § 23
+#### § 33
 
 **Abstimmungen**
 
-<sup>1</sup> Die Fakultätsversammlung, der Fakultätsvorstand, der Fakultätsausschuss, die Studienkonferenz und die Kommissionen beschliessen mit einfacher Mehrheit der abgegebenen Stimmen.
+<sup>1</sup> Die Fakultätsversammlung, der Fakultätsvorstand, der Fakultätsausschuss und die Kommissionen beschliessen mit einfacher Mehrheit der abgegebenen Stimmen.
 
-<sup>2</sup> Bei Beratungen von Prüfungsleistungen unter Einschluss der Promotionen und Habilitationen wirken neben den Professorinnen und Professoren die Delegierten der Studierenden, des Mittelbaus und der Privatdozentinnen und -dozenten mit, bei der Beschlussfassung nur dann, wenn sie die entsprechende Prüfung abgelegt haben.
+<sup>2</sup> Die oder der Vorsitzende stimmt mit; bei Stimmengleichheit hat sie oder er den Stichentscheid.
 
-<sup>3</sup> Die oder der Vorsitzende stimmt mit; bei Stimmengleichheit hat sie oder er den Stichentscheid.
+<sup>3</sup> Abstimmungen erfolgen offen, wenn nicht ein Viertel der anwesenden Mitglieder eine geheime Abstimmung verlangt.
 
-<sup>4</sup> Abstimmungen erfolgen durch Handerheben, wenn nicht ein Viertel der anwesenden Mitglieder eine geheime Abstimmung verlangt.
+<sup>4</sup> Abstimmungen betreffend Erteilung und Entzug der Venia Legendi sowie über Verleihung, Verlängerung und Entzug der Titularprofessur erfolgen geheim.
 
-<sup>5</sup> Über Habilitationsvorträge erfolgt eine geheime Abstimmung.
-
-#### § 24
+#### § 34
 
 **Wahlen**
 
 <sup>1</sup> Eine Wahl bedarf des absoluten Mehrs der abgegebenen Stimmen.
 
-<sup>2</sup> Wird im zweiten Wahlgang das absolute Mehr nicht erreicht, so genügt im dritten Wahlgang das relative Mehr der abgegebenen Stimmen.
+<sup>2</sup> Wird im zweiten Wahlgang das absolute Mehr nicht erreicht, genügt im dritten Wahlgang das relative Mehr der abgegebenen Stimmen.
 
-<sup>3</sup> Wahlen erfolgen durch Handerheben, wenn nicht ein Viertel der anwesenden Mitglieder eine geheime Wahl verlangt.
+<sup>3</sup> Wahlen erfolgen offen, wenn nicht ein Viertel der anwesenden Mitglieder eine geheime Wahl verlangt.
 
-<sup>4</sup> Die Wahl der Dekanin oder des Dekans sowie der Studiendekanin oder des Studiendekans und der Prodekaninnen oder Prodekane ist geheim.
+<sup>4</sup> Die Wahl der Dekanin oder des Dekans, der Studiendekanin oder des Studiendekans sowie der Prodekaninnen und Prodekane erfolgt geheim.
 
-#### § 25
+#### § 35
+
+**Wahlen für Ko-Leitungen**
+
+Für die Besetzung eines Amtes in Ko-Leitung stellen sich die beiden Personen, die sich für die Ko-Leitung zur Verfügung stellen, in Abhängigkeit voneinander zur Wahl und werden gemeinsam gewählt. Im Übrigen gilt § 34.
+
+#### § 36
+
+**Zirkularverfahren**
+
+<sup>1</sup> Die Vorsitzenden der Organe und Kommissionen der Fakultät können Geschäfte einem Zirkularverfahren unterstellen, soweit dies im Einklang mit übergeordnetem Recht steht. Dieses kann auf elektronischem Weg durchgeführt werden.
+
+<sup>2</sup> Wird ein Zirkularverfahren angeordnet, kann jedes Mitglied innert dreier Arbeitstage nach Ankündigung des Zirkularverfahrens der oder dem Vorsitzenden mitteilen, dass es die Behandlung des Geschäfts an einer Sitzung wünscht. In diesem Fall wird das Zirkularverfahren abgebrochen und das Geschäft für eine Sitzung traktandiert.
+
+<sup>3</sup> Im Übrigen gelten §§ 33–35 sinngemäss.
+
+#### § 37
 
 **Anwesenheitspflicht**
 
-Die Teilnahme an den Sitzungen der Fakultätsversammlung, des Fakultätsvorstands, des Fakultätsausschusses und der Studienkonferenz ist für die Mitglieder Amtspflicht.
+Die Anwesenheit an den Sitzungen der Organe und Kommissionen ist für die Mitglieder Amtspflicht.
 
-### 3. Abschnitt: Schweigepflicht, Informationsrecht und Archivierung
+### 3. Abschnitt: Geheimhaltungspflicht, Informationsrecht
 
-#### § 26
+und Archivierung
 
-**Schweigepflicht**
+**Geheimhaltungspflicht**
 
-<sup>1</sup> Die Mitglieder der Fakultätsgremien unterstehen der Schweigepflicht in Bezug auf:
+§ 38. <sup>1</sup> Die Mitglieder der Organe und weiteren fakultären Gremien unterstehen der Geheimhaltungspflicht in Bezug auf:
 
-- 1\. Berufung, Beförderung und Entlassung von Professorinnen und Professoren, soweit einzelne Tatbestände oder Beschlüsse während des Verfahrens von der Dekanin oder dem Dekan oder dem in der Sache zuständigen Fakultätsgremium zur Wahrung des Persönlichkeitsschutzes der Schweigepflicht unterstellt werden,
+- 1\. Berufung, Beförderung und Entlassung von Professorinnen und Professoren,
 
-- 2\. Erteilung und Entzug der Venia Legendi sowie der Titularprofessur,
+- 2\. Erteilung und Entzug der Venia Legendi sowie Erteilung, Verlängerung und Entzug der Titularprofessur,
 
-- 3\. individuelle Leistungen beim Doktorat und bei Prüfungen,
+- 3\. individuelle Leistungen im Studium auf Bachelor- und Masterstufe, im Doktorat sowie bei Weiterbildungsstudiengängen,
 
-- 4\. Stellungnahmen und Abstimmungsverhalten anderer Mitglieder,
-
-- 5\. Geschäfte, die von der Dekanin oder dem Dekan oder dem in der Sache zuständigen Fakultätsgremium der Schweigepflicht unterstellt werden.
+- 4\. Geschäfte, die von der Dekanin oder dem Dekan oder dem in der Sache zuständigen Fakultätsgremium der Geheimhaltungspflicht unterstellt werden.
 
 <sup>2</sup> Eine namentliche Nennung ist überdies auch im Zusammenhang mit anderen Geschäften zu unterlassen, wenn sie geeignet wäre, das Ansehen der oder des Betroffenen herabzusetzen.
 
-<sup>3</sup> Die Bindung an die Schweigepflicht besteht auch nach dem Ausscheiden aus dem Amt.
+<sup>3</sup> Die Bindung an die Geheimhaltungspflicht besteht auch nach dem Ausscheiden aus dem Amt.
 
-**9**
-
-- 1\. 7. 15 - 89 § 27. <sup>1</sup> Die Dekanin oder der Dekan darf, wo es geboten erscheint, die Mitglieder der Fakultätsversammlung und Dritte über Geschäfte informieren, die der Schweigepflicht nach § 26 unterliegen.
+#### § 39
 
 **Informationsrecht**
 
+<sup>1</sup> Die Dekanin oder der Dekan darf die Mitglieder der Fakultätsversammlung und Dritte über Geschäfte informieren, die der Geheimhaltungspflicht nach § 38 unterliegen, soweit die Information als geboten erscheint.
+
 <sup>2</sup> Unter den gleichen Voraussetzungen darf sie oder er andere Personen ermächtigen, Informationen weiterzugeben.
 
-#### § 28
-
-**Archivierung**
-
-Das Dekanat bewahrt die Sitzungsakten der Fakultätsgremien, die Dossiers über Dozierende und Studierende sowie wichtige Korrespondenz während zehn Jahren auf. Anschliessend übergibt es die Akten dem Universitätsarchiv.
-
-### Anhang
-
-### Fächergruppen gemäss § 14
-
-### Fächergruppe 1: Philosophie, Altertums-, Kultur- und Kunstwissenschaft
-
-Archäologie, Institut für Asien-Orient-Institut Filmwissenschaft, Seminar für Griechische und Lateinische Philologie der Antike, des Mittelalters und der Neuzeit, Seminar für Historisches Seminar Kunsthistorisches Institut Musikwissenschaftliches Institut Philosophisches Seminar
-
-### Fächergruppe 2: Neuere Philologien
-
-Computerlinguistik, Institut für Deutsches Seminar Englisches Seminar Romanisches Seminar Slavisches Seminar Vergleichende Sprachwissenschaft, Institut für
-
-### Fächergruppe 3: Psychologie und Erziehungswissenschaft
-
-Erziehungswissenschaft, Institut für Psychologisches Institut
-
-### Fächergruppe 4: Sozialwissenschaften
-
-Politikwissenschaft, Institut für Publizistikwissenschaft und Medienforschung, Institut für Sozialanthropologie und Empirische Kulturwissenschaft, Institut für Soziologisches Institut
+<sup>3</sup> Vorbehältlich einer Geheimhaltungspflicht, dürfen die Delegierten der Stände die Angehörigen ihres jeweiligen Standes mündlich oder schriftlich über die in den Organen oder weiteren fakultären Gremien zu beratenden Traktanden sowie über die gefällten und protokollierten Beschlüsse informieren. Dabei dürfen sie die Stimmenverhältnisse, die wesentlichen Anträge und die während der Sitzung vertretenen hauptsächlichen Ansichten, aber keine Personen oder Namen nennen.
 
 **11**
 
-- 1\. 7. 15 - 89
+**Archivierung**
+
+1.10. 24 - 126 § 40. Das Dekanat bewahrt Akten für einen Zeitraum von zehn Jahren auf. Danach werden die Akten dem Universitätsarchiv übergeben.
 
 ## Weitere Fussnoten
 
-- [1] OS 70, 128; Begründung siehe ABl 2015-03-20.
-- [2] Inkrafttreten: 1. Januar 2014.
+- [*] Finanzhandbuch der Universität Zürich vom 13. April 2021
+- [1] OS 79, 260; Begründung siehe ABl 2024-05-31. Von der Erweiterten Universitätsleitung genehmigt am 21. Mai 2024.
+- [2] Inkrafttreten: 1. August 2024.
+- [3] LS 415.11.
+- [4] LS 415.111.
+- [5] LS 415.21.
