@@ -4,7 +4,7 @@ number: "419.01"
 title: LOI du 11.06.2013 sur les hautes écoles vaudoises de type HES (LHEV)
 short: LHEV
 language: fr
-version: 2015-01-01
+version: 2024-08-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/419.01?id=e030fc86-077d-48b6-af1f-1fa5ce78f014"
 ---
 
@@ -41,10 +41,10 @@ décrète
 - b. la Haute école d'art et de design de Lausanne – ECAL ;
 - c. la Haute école d'ingénierie et de gestion du canton de Vaud – HEIG-VD ;
 - d. la Haute école de la santé La Source – HEdS La Source ;
-- e. la Haute école de travail social et de la santé – EESP ;
+- e. la Haute école de travail social et de la santé Lausanne – HETSL.
 - f. la Haute école de Musique Vaud Valais Fribourg – HEMU.
 
-[^chapterChapitreI-1]: Modif. 1 du 16.01.2024: Modification Al. 1, e; entrée en vigueur au 01.08.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.08.2024; Introduction Art. 27, Al. 1, bbis,cbis,dbis; entrée en vigueur au 01.08.2024; Introduction Art. 35, Al. 1, bbis,cbis,cter,dbis; entrée en vigueur au 01.08.2024; Introduction Art. 35, Al. 2bis; entrée en vigueur au 01.08.2024; Introduction Art. 36, Al. 5-7; entrée en vigueur au 01.08.2024; Introduction Art. 37, Al. 3-5; entrée en vigueur au 01.08.2024; Introduction Art. 37a; entrée en vigueur au 01.08.2024; Introduction Art. 38, Al. 3-4; entrée en vigueur au 01.08.2024; Introduction Art. 38a; entrée en vigueur au 01.08.2024; Introduction Art. 38b; entrée en vigueur au 01.08.2024; Introduction Art. 39, Al. 3; entrée en vigueur au 01.08.2024; Introduction Art. 39a; entrée en vigueur au 01.08.2024; Introduction Art. 40, Al. 3; entrée en vigueur au 01.08.2024; Introduction Art. 42, Al. 1bis,2bis,2ter; entrée en vigueur au 01.08.2024; Introduction Art. 42a; entrée en vigueur au 01.08.2024; Introduction Art. 44, Al. 2-4; entrée en vigueur au 01.08.2024; Introduction Art. 51a; entrée en vigueur au 01.08.2024; Introduction Art. 53, Al. 2; entrée en vigueur au 01.08.2024
+[^chapterChapitreI-1]: Modif. 1 du 16.01.2024: Modification Al. 1, e; entrée en vigueur au 01.08.2024
 
 #### Art. 2
 
@@ -62,11 +62,11 @@ décrète
 
 **Statut juridique des hautes écoles privées subventionnées [^2-1]**
 
-<sup>1</sup> La Haute école de la santé La Source – HEdS La Source, la Haute école de travail social et de la santé – EESP et la Haute école de Musique Vaud Valais Fribourg - HEMU sont organisées sous forme de fondations. Leurs statuts sont soumis à l'approbation du département.
+<sup>1</sup> La Haute école de la santé La Source – HEdS La Source, la Haute école de travail social et de la santé Lausanne – HETSL et la Haute école de Musique Vaud Valais Fribourg - HEMU sont organisées sous forme de fondations. Leurs statuts sont soumis à l'approbation du département.
 
 <sup>2</sup> Elles sont liées au département par une convention.
 
-[^2-1]: Modif. 1 du 16.01.2024: Modification Al. 1; entrée en vigueur au 01.08.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.08.2024; Introduction Art. 27, Al. 1, bbis,cbis,dbis; entrée en vigueur au 01.08.2024; Introduction Art. 35, Al. 1, bbis,cbis,cter,dbis; entrée en vigueur au 01.08.2024; Introduction Art. 35, Al. 2bis; entrée en vigueur au 01.08.2024; Introduction Art. 36, Al. 5-7; entrée en vigueur au 01.08.2024; Introduction Art. 37, Al. 3-5; entrée en vigueur au 01.08.2024; Introduction Art. 37a; entrée en vigueur au 01.08.2024; Introduction Art. 38, Al. 3-4; entrée en vigueur au 01.08.2024; Introduction Art. 38a; entrée en vigueur au 01.08.2024; Introduction Art. 38b; entrée en vigueur au 01.08.2024; Introduction Art. 39, Al. 3; entrée en vigueur au 01.08.2024; Introduction Art. 39a; entrée en vigueur au 01.08.2024; Introduction Art. 40, Al. 3; entrée en vigueur au 01.08.2024; Introduction Art. 42, Al. 1bis,2bis,2ter; entrée en vigueur au 01.08.2024; Introduction Art. 42a; entrée en vigueur au 01.08.2024; Introduction Art. 44, Al. 2-4; entrée en vigueur au 01.08.2024; Introduction Art. 51a; entrée en vigueur au 01.08.2024; Introduction Art. 53, Al. 2; entrée en vigueur au 01.08.2024
+[^2-1]: Modif. 1 du 16.01.2024: Modification Al. 1; entrée en vigueur au 01.08.2024
 
 #### Art. 4
 
@@ -206,13 +206,13 @@ décrète
 
 **Structure [^chapterChapitreIII-1]**
 
-<sup>1</sup> Chaque haute école est structurée en départements, en sections, en unités, en filières ou en instituts.
+<sup>1</sup> Chaque haute école est structurée notamment en départements, en sections, en unités, en filières ou en instituts.
 
 <sup>2</sup> La structure de chaque haute école est précisée dans un règlement interne, lequel est soumis à l'approbation du département.
 
 <sup>3</sup> Le département peut favoriser la création de structures communes à plusieurs hautes écoles.
 
-[^chapterChapitreIII-1]: Modif. 1 du 16.01.2024: Modification Al. 1; entrée en vigueur au 01.08.2024; Introduction Art. 26, Al. 2; entrée en vigueur au 01.08.2024; Introduction Art. 27, Al. 1, bbis,cbis,dbis; entrée en vigueur au 01.08.2024; Introduction Art. 35, Al. 1, bbis,cbis,cter,dbis; entrée en vigueur au 01.08.2024; Introduction Art. 35, Al. 2bis; entrée en vigueur au 01.08.2024; Introduction Art. 36, Al. 5-7; entrée en vigueur au 01.08.2024; Introduction Art. 37, Al. 3-5; entrée en vigueur au 01.08.2024; Introduction Art. 37a; entrée en vigueur au 01.08.2024; Introduction Art. 38, Al. 3-4; entrée en vigueur au 01.08.2024; Introduction Art. 38a; entrée en vigueur au 01.08.2024; Introduction Art. 38b; entrée en vigueur au 01.08.2024; Introduction Art. 39, Al. 3; entrée en vigueur au 01.08.2024; Introduction Art. 39a; entrée en vigueur au 01.08.2024; Introduction Art. 40, Al. 3; entrée en vigueur au 01.08.2024; Introduction Art. 42, Al. 1bis,2bis,2ter; entrée en vigueur au 01.08.2024; Introduction Art. 42a; entrée en vigueur au 01.08.2024; Introduction Art. 44, Al. 2-4; entrée en vigueur au 01.08.2024; Introduction Art. 51a; entrée en vigueur au 01.08.2024; Introduction Art. 53, Al. 2; entrée en vigueur au 01.08.2024
+[^chapterChapitreIII-1]: Modif. 1 du 16.01.2024: Modification Al. 1; entrée en vigueur au 01.08.2024
 
 #### Art. 20
 
@@ -289,24 +289,27 @@ décrète
 - l. négocier et conclure des accords de collaboration avec des tiers au sens de l'article 13 de la présente loi ;
 - m. statuer notamment sur les admissions, les échecs et réussites de modules, les demandes de prolongation de la durée des études, l'octroi de titres HES et les exmatriculations ;
 - n. prononcer les sanctions disciplinaires ;
-- o. décider de l'ouverture et de la fermeture de filières de formation continue non financées par la HES-SO et répondre de leur qualité ;
+- o. décider de l'ouverture et de la fermeture des formations continues non financées par la HES-SO et répondre de leur qualité ;
 - p. établir chaque année un rapport d'activité à l'intention du département ;
 - q. répondre aux propositions et interpellations du Conseil représentatif et, cas échéant, y donner les suites requises.
 
-[^25-1]: Modif. 1 du 16.01.2024: Modification Al. 1, o; entrée en vigueur au 01.08.2024; Introduction Al. 2; entrée en vigueur au 01.08.2024; Introduction Art. 27, Al. 1, bbis,cbis,dbis; entrée en vigueur au 01.08.2024; Introduction Art. 35, Al. 1, bbis,cbis,cter,dbis; entrée en vigueur au 01.08.2024; Introduction Art. 35, Al. 2bis; entrée en vigueur au 01.08.2024; Introduction Art. 36, Al. 5-7; entrée en vigueur au 01.08.2024; Introduction Art. 37, Al. 3-5; entrée en vigueur au 01.08.2024; Introduction Art. 37a; entrée en vigueur au 01.08.2024; Introduction Art. 38, Al. 3-4; entrée en vigueur au 01.08.2024; Introduction Art. 38a; entrée en vigueur au 01.08.2024; Introduction Art. 38b; entrée en vigueur au 01.08.2024; Introduction Art. 39, Al. 3; entrée en vigueur au 01.08.2024; Introduction Art. 39a; entrée en vigueur au 01.08.2024; Introduction Art. 40, Al. 3; entrée en vigueur au 01.08.2024; Introduction Art. 42, Al. 1bis,2bis,2ter; entrée en vigueur au 01.08.2024; Introduction Art. 42a; entrée en vigueur au 01.08.2024; Introduction Art. 44, Al. 2-4; entrée en vigueur au 01.08.2024; Introduction Art. 51a; entrée en vigueur au 01.08.2024; Introduction Art. 53, Al. 2; entrée en vigueur au 01.08.2024
+<sup>2</sup> La direction peut déléguer à l'un de ses membres les compétences prévues aux lettres m et n de l'alinéa 1.
+
+[^25-1]: Modif. 1 du 16.01.2024: Modification Al. 1, o; entrée en vigueur au 01.08.2024; Introduction Al. 2; entrée en vigueur au 01.08.2024
 
 #### Art. 27
 
 **Conseil représentatif de la haute école [^26-1]**
 
-*a) Composition et organisation*
-
 <sup>1</sup> Le conseil représentatif de chaque haute école est composé de représentants des :
 
 - a. professeurs HES ordinaires ;
 - b. professeurs HES associés ;
-- c. maîtres d'enseignement ;
-- d. adjoints scientifiques ou artistiques ;
+- bbis. professeurs HES assistants ;
+- c. maître d'enseignement HES ;
+- cbis. chargés de cours HES ;
+- d. adjoints scientifiques ou artistiques HES ;
+- dbis. collaborateurs scientifiques ou artistiques HES ;
 - e. assistants HES ;
 - f. membres du personnel administratif et technique ;
 - g. étudiants.
@@ -319,7 +322,7 @@ décrète
 
 <sup>5</sup> Le conseil de chaque haute école s'organise lui-même.
 
-[^26-1]: Modif. 1 du 16.01.2024: Introduction Art. 26, Al. 2; entrée en vigueur au 01.08.2024; Modification tArt; entrée en vigueur au 01.08.2024; Introduction Al. 1, bbis; entrée en vigueur au 01.08.2024; Modification Al. 1, c; entrée en vigueur au 01.08.2024; Introduction Al. 1, cbis; entrée en vigueur au 01.08.2024; Modification Al. 1, d; entrée en vigueur au 01.08.2024; Introduction Al. 1, dbis; entrée en vigueur au 01.08.2024; Introduction Art. 35, Al. 1, bbis,cbis,cter,dbis; entrée en vigueur au 01.08.2024; Introduction Art. 35, Al. 2bis; entrée en vigueur au 01.08.2024; Introduction Art. 36, Al. 5-7; entrée en vigueur au 01.08.2024; Introduction Art. 37, Al. 3-5; entrée en vigueur au 01.08.2024; Introduction Art. 37a; entrée en vigueur au 01.08.2024; Introduction Art. 38, Al. 3-4; entrée en vigueur au 01.08.2024; Introduction Art. 38a; entrée en vigueur au 01.08.2024; Introduction Art. 38b; entrée en vigueur au 01.08.2024; Introduction Art. 39, Al. 3; entrée en vigueur au 01.08.2024; Introduction Art. 39a; entrée en vigueur au 01.08.2024; Introduction Art. 40, Al. 3; entrée en vigueur au 01.08.2024; Introduction Art. 42, Al. 1bis,2bis,2ter; entrée en vigueur au 01.08.2024; Introduction Art. 42a; entrée en vigueur au 01.08.2024; Introduction Art. 44, Al. 2-4; entrée en vigueur au 01.08.2024; Introduction Art. 51a; entrée en vigueur au 01.08.2024; Introduction Art. 53, Al. 2; entrée en vigueur au 01.08.2024
+[^26-1]: Modif. 1 du 16.01.2024: Modification tArt; entrée en vigueur au 01.08.2024; Introduction Al. 1, bbis; entrée en vigueur au 01.08.2024; Modification Al. 1, c; entrée en vigueur au 01.08.2024; Introduction Al. 1, cbis; entrée en vigueur au 01.08.2024; Modification Al. 1, d; entrée en vigueur au 01.08.2024; Introduction Al. 1, dbis; entrée en vigueur au 01.08.2024
 
 #### Art. 28
 
@@ -405,69 +408,151 @@ décrète
 
 - a. les professeurs HES ordinaires ;
 - b. les professeurs HES associés ;
-- c. les maîtres d'enseignement ;
-- d. les adjoints scientifiques ou artistiques ;
+- bbis. les professeurs HES assistants ;
+- c. les maîtres d'enseignement HES ;
+- cbis. les chargés de cours HES ;
+- cter. les professeurs HES invités ;
+- d. les adjoints scientifiques ou artistiques HES ;
+- dbis. les collaborateurs scientifiques ou artistiques HES ;
 - e. les assistants HES.
 
-<sup>2</sup> Participent en outre à l'enseignement des professeurs HES invités et des intervenants extérieurs, dont le règlement définit les fonctions et précise les conditions d'engagement et de résiliation.
+<sup>2</sup> Participent en outre à l'enseignement des intervenants extérieurs, dont le règlement définit la fonction et précise les conditions d'engagement et de résiliation.
 
-<sup>3</sup> Les professeurs et les maîtres mentionnés à l'alinéa 1, lettres a, b et c ci-dessus disposent ou acquièrent des qualifications didactiques.
+<sup>2bis</sup> Les conditions d'engagement des professeurs HES invités sont définies dans le règlement.
 
-[^subsectionSoussectionI-1]: Modif. 1 du 16.01.2024: Introduction Art. 26, Al. 2; entrée en vigueur au 01.08.2024; Introduction Art. 27, Al. 1, bbis,cbis,dbis; entrée en vigueur au 01.08.2024; Introduction Al. 1, bbis; entrée en vigueur au 01.08.2024; Modification Al. 1, c; entrée en vigueur au 01.08.2024; Introduction Al. 1, cbis,cter; entrée en vigueur au 01.08.2024; Modification Al. 1, d; entrée en vigueur au 01.08.2024; Introduction Al. 1, dbis; entrée en vigueur au 01.08.2024; Modification Al. 2; entrée en vigueur au 01.08.2024; Introduction Al. 2bis; entrée en vigueur au 01.08.2024; Abrogation Al. 3; entrée en vigueur au 01.08.2024; Introduction Art. 36, Al. 5-7; entrée en vigueur au 01.08.2024; Introduction Art. 37, Al. 3-5; entrée en vigueur au 01.08.2024; Introduction Art. 37a; entrée en vigueur au 01.08.2024; Introduction Art. 38, Al. 3-4; entrée en vigueur au 01.08.2024; Introduction Art. 38a; entrée en vigueur au 01.08.2024; Introduction Art. 38b; entrée en vigueur au 01.08.2024; Introduction Art. 39, Al. 3; entrée en vigueur au 01.08.2024; Introduction Art. 39a; entrée en vigueur au 01.08.2024; Introduction Art. 40, Al. 3; entrée en vigueur au 01.08.2024; Introduction Art. 42, Al. 1bis,2bis,2ter; entrée en vigueur au 01.08.2024; Introduction Art. 42a; entrée en vigueur au 01.08.2024; Introduction Art. 44, Al. 2-4; entrée en vigueur au 01.08.2024; Introduction Art. 51a; entrée en vigueur au 01.08.2024; Introduction Art. 53, Al. 2; entrée en vigueur au 01.08.2024
+<sup>3</sup> ...
+
+[^subsectionSoussectionI-1]: Modif. 1 du 16.01.2024: Introduction Al. 1, bbis; entrée en vigueur au 01.08.2024; Modification Al. 1, c; entrée en vigueur au 01.08.2024; Introduction Al. 1, cbis,cter; entrée en vigueur au 01.08.2024; Modification Al. 1, d; entrée en vigueur au 01.08.2024; Introduction Al. 1, dbis; entrée en vigueur au 01.08.2024; Modification Al. 2; entrée en vigueur au 01.08.2024; Introduction Al. 2bis; entrée en vigueur au 01.08.2024; Abrogation Al. 3; entrée en vigueur au 01.08.2024
 
 #### Art. 36
 
 **Professeur HES ordinaire [^35-1]**
 
-<sup>1</sup> Le professeur HES ordinaire dispense et supervise l'enseignement. Il conduit des activités de recherche appliquée, de développement et de service. Il assume les tâches d'organisation et de gestion liées aux missions de la haute école. Il peut co-diriger des thèses de doctorat.
+<sup>1</sup> Le professeur HES ordinaire dispense et supervise l'enseignement. Il conduit des activités de recherche appliquée et de développement ainsi que de prestations de service. Il assume les tâches d'organisation et de gestion liées aux missions de la haute école. Il peut se voir confier la direction d'une structure au sens de l'article 19.
 
-<sup>2</sup> Le professeur HES ordinaire est porteur d'un doctorat et justifie d'une expérience professionnelle d'au moins cinq ans en lien avec le domaine enseigné.
+<sup>2</sup> Le professeur HES ordinaire est porteur d'un doctorat ou au bénéfice d'un master et d'une expérience de conduite de recherche significative jugée équivalente par l'autorité d'engagement.
 
-<sup>3</sup> L'autorité d'engagement peut admettre qu'une expérience professionnelle comprenant une part de recherche ou d'innovation significative répond à l'exigence du titre de docteur.
+<sup>3</sup> ...
 
-<sup>4</sup> Le taux d'activité du professeur HES ordinaire est d'au moins 80 %. L'autorité d'engagement peut autoriser temporairement un taux d'activité inférieur. Le règlement en fixe les modalités.
+<sup>4</sup> ...
 
-[^35-1]: Modif. 1 du 16.01.2024: Introduction Art. 26, Al. 2; entrée en vigueur au 01.08.2024; Introduction Art. 27, Al. 1, bbis,cbis,dbis; entrée en vigueur au 01.08.2024; Introduction Art. 35, Al. 1, bbis,cbis,cter,dbis; entrée en vigueur au 01.08.2024; Introduction Art. 35, Al. 2bis; entrée en vigueur au 01.08.2024; Modification Al. 1-2; entrée en vigueur au 01.08.2024; Abrogation Al. 3-4; entrée en vigueur au 01.08.2024; Introduction Al. 5-7; entrée en vigueur au 01.08.2024; Introduction Art. 37, Al. 3-5; entrée en vigueur au 01.08.2024; Introduction Art. 37a; entrée en vigueur au 01.08.2024; Introduction Art. 38, Al. 3-4; entrée en vigueur au 01.08.2024; Introduction Art. 38a; entrée en vigueur au 01.08.2024; Introduction Art. 38b; entrée en vigueur au 01.08.2024; Introduction Art. 39, Al. 3; entrée en vigueur au 01.08.2024; Introduction Art. 39a; entrée en vigueur au 01.08.2024; Introduction Art. 40, Al. 3; entrée en vigueur au 01.08.2024; Introduction Art. 42, Al. 1bis,2bis,2ter; entrée en vigueur au 01.08.2024; Introduction Art. 42a; entrée en vigueur au 01.08.2024; Introduction Art. 44, Al. 2-4; entrée en vigueur au 01.08.2024; Introduction Art. 51a; entrée en vigueur au 01.08.2024; Introduction Art. 53, Al. 2; entrée en vigueur au 01.08.2024
+<sup>5</sup> Il justifie d'une expérience professionnelle ou artistique d'au moins cinq ans en lien avec le domaine enseigné.
+
+<sup>6</sup> Il fait preuve de compétences avérées en conduite de projets de recherche.
+
+<sup>7</sup> Il bénéficie de qualifications didactiques attestées, qui peuvent être acquises dans un délai de trois ans dès l'engagement.
+
+[^35-1]: Modif. 1 du 16.01.2024: Modification Al. 1-2; entrée en vigueur au 01.08.2024; Abrogation Al. 3-4; entrée en vigueur au 01.08.2024; Introduction Al. 5-7; entrée en vigueur au 01.08.2024
 
 #### Art. 37
 
 **Professeur HES associé [^36-1]**
 
-<sup>1</sup> Le professeur HES associé dispense un enseignement. Il réalise des activités de recherche appliquée, de développement et de service. Il participe aux tâches d'organisation liées aux missions de la haute école. Il peut se voir confier la supervision d'une filière.
+<sup>1</sup> Le professeur HES associé dispense un enseignement. Il réalise des activités de recherche appliquée et de développement, ainsi que de prestations de service. Il participe aux tâches d'organisation liées aux missions de la haute école. Il peut se voir confier la responsabilité d'une filière ou d'une structure analogue à une filière.
 
-<sup>2</sup> Le professeur HES associé est porteur d'un master et justifie d'une expérience professionnelle d'au moins cinq ans en lien avec le domaine enseigné.
+<sup>2</sup> Le professeur HES associé est porteur d'un master ou d'un titre jugé équivalent.
 
-[^36-1]: Modif. 1 du 16.01.2024: Introduction Art. 26, Al. 2; entrée en vigueur au 01.08.2024; Introduction Art. 27, Al. 1, bbis,cbis,dbis; entrée en vigueur au 01.08.2024; Introduction Art. 35, Al. 1, bbis,cbis,cter,dbis; entrée en vigueur au 01.08.2024; Introduction Art. 35, Al. 2bis; entrée en vigueur au 01.08.2024; Introduction Art. 36, Al. 5-7; entrée en vigueur au 01.08.2024; Modification Al. 1-2; entrée en vigueur au 01.08.2024; Introduction Al. 3-5; entrée en vigueur au 01.08.2024; Introduction Art. 37a; entrée en vigueur au 01.08.2024; Introduction Art. 38, Al. 3-4; entrée en vigueur au 01.08.2024; Introduction Art. 38a; entrée en vigueur au 01.08.2024; Introduction Art. 38b; entrée en vigueur au 01.08.2024; Introduction Art. 39, Al. 3; entrée en vigueur au 01.08.2024; Introduction Art. 39a; entrée en vigueur au 01.08.2024; Introduction Art. 40, Al. 3; entrée en vigueur au 01.08.2024; Introduction Art. 42, Al. 1bis,2bis,2ter; entrée en vigueur au 01.08.2024; Introduction Art. 42a; entrée en vigueur au 01.08.2024; Introduction Art. 44, Al. 2-4; entrée en vigueur au 01.08.2024; Introduction Art. 51a; entrée en vigueur au 01.08.2024; Introduction Art. 53, Al. 2; entrée en vigueur au 01.08.2024
+<sup>3</sup> Il justifie d'une expérience professionnelle ou artistique d'au moins cinq ans en lien avec le domaine enseigné.
+
+<sup>4</sup> Il fait preuve de compétences avérées en matière de recherche, de développement ou de prestations de service.
+
+<sup>5</sup> Il bénéficie de qualifications didactiques attestées, qui peuvent être acquises dans un délai de trois ans dès l'engagement.
+
+[^36-1]: Modif. 1 du 16.01.2024: Modification Al. 1-2; entrée en vigueur au 01.08.2024; Introduction Al. 3-5; entrée en vigueur au 01.08.2024
+
+#### Art. 37a
+
+**Professeur HES assistant [^37-1]**
+
+<sup>1</sup> Le professeur HES assistant dispense un enseignement, réalise des activités de recherche appliquée et de développement ainsi que de prestations de service. Il participe aux tâches d'organisation liées aux missions de la haute école.
+
+<sup>2</sup> Le professeur HES assistant est porteur du titre exigé pour la fonction visée.
+
+<sup>3</sup> Il justifie d'une expérience professionnelle ou artistique d'au moins cinq ans en lien avec le domaine enseigné.
+
+<sup>4</sup> Il dispose d'une première expérience en matière de recherche.
+
+<sup>5</sup> Le professeur HES assistant bénéficie de qualifications didactiques attestées, qui peuvent être acquises dans un délai de trois ans dès l'engagement.
+
+<sup>6</sup> La fonction de professeur HES assistant est exclusivement utilisée pour la prétitularisation conditionnelle. Un poste de professeur HES assistant est ouvert seulement si un poste de professeur HES ordinaire ou de professeur HES associé est disponible à l'issue de l'engagement.
+
+<sup>7</sup> La procédure conduisant à la titularisation est définie dans le règlement.
+
+[^37-1]: Modif. 1 du 16.01.2024: Introduction Art. 37a; entrée en vigueur au 01.08.2024
 
 #### Art. 38
 
-**Maître d'enseignement [^37-1]**
+**Maître d'enseignement HES [^37a-1]**
 
-<sup>1</sup> Le maître d'enseignement dispense un enseignement et encadre les étudiants. Il peut participer à des activités de recherche appliquée, de développement ou de service.
+<sup>1</sup> Le maître d'enseignement HES dispense un enseignement et encadre les étudiants. Il peut participer à des activités de recherche appliquée et de développement ainsi que de prestations de service.
 
-<sup>2</sup> Le maître d'enseignement est porteur d'un titre d'une haute école ou d'un titre jugé équivalent. Il justifie d'une expérience professionnelle.
+<sup>2</sup> Le maître d'enseignement HES est porteur en principe d'un master ou d'un titre jugé équivalent.
 
-[^37-1]: Modif. 1 du 16.01.2024: Introduction Art. 26, Al. 2; entrée en vigueur au 01.08.2024; Introduction Art. 27, Al. 1, bbis,cbis,dbis; entrée en vigueur au 01.08.2024; Introduction Art. 35, Al. 1, bbis,cbis,cter,dbis; entrée en vigueur au 01.08.2024; Introduction Art. 35, Al. 2bis; entrée en vigueur au 01.08.2024; Introduction Art. 36, Al. 5-7; entrée en vigueur au 01.08.2024; Introduction Art. 37, Al. 3-5; entrée en vigueur au 01.08.2024; Introduction Art. 37a; entrée en vigueur au 01.08.2024; Modification tArt; entrée en vigueur au 01.08.2024; Modification Al. 1-2; entrée en vigueur au 01.08.2024; Introduction Al. 3-4; entrée en vigueur au 01.08.2024; Introduction Art. 38a; entrée en vigueur au 01.08.2024; Introduction Art. 38b; entrée en vigueur au 01.08.2024; Introduction Art. 39, Al. 3; entrée en vigueur au 01.08.2024; Introduction Art. 39a; entrée en vigueur au 01.08.2024; Introduction Art. 40, Al. 3; entrée en vigueur au 01.08.2024; Introduction Art. 42, Al. 1bis,2bis,2ter; entrée en vigueur au 01.08.2024; Introduction Art. 42a; entrée en vigueur au 01.08.2024; Introduction Art. 44, Al. 2-4; entrée en vigueur au 01.08.2024; Introduction Art. 51a; entrée en vigueur au 01.08.2024; Introduction Art. 53, Al. 2; entrée en vigueur au 01.08.2024
+<sup>3</sup> Il justifie d'une expérience professionnelle ou artistique d'au moins cinq ans.
+
+<sup>4</sup> Il bénéficie de qualifications didactiques attestées, qui peuvent être acquises dans un délai de trois ans dès l'engagement.
+
+[^37a-1]: Modif. 1 du 16.01.2024: Modification tArt; entrée en vigueur au 01.08.2024; Modification Al. 1-2; entrée en vigueur au 01.08.2024; Introduction Al. 3-4; entrée en vigueur au 01.08.2024
+
+#### Art. 38a
+
+**Chargé de cours HES [^38-1]**
+
+<sup>1</sup> Le chargé de cours HES dispense un enseignement dans un domaine en lien avec sa pratique professionnelle. Il peut assumer des tâches liées aux autres missions de la haute école.
+
+<sup>2</sup> Le chargé de cours HES est porteur d'un titre d'une haute école ou d'un titre jugé équivalent.
+
+<sup>3</sup> Il justifie d'une expérience professionnelle ou artistique d'au moins cinq ans dans son domaine de compétence. Cette expérience doit être acquise hors de l'enseignement, sous réserve de cas particuliers précisés dans le règlement.
+
+<sup>4</sup> Le chargé de cours HES poursuit son activité professionnelle ou artistique parallèlement à sa charge d'enseignement, sous réserve des dispositions particulières du règlement.
+
+[^38-1]: Modif. 1 du 16.01.2024: Introduction Art. 38a; entrée en vigueur au 01.08.2024
+
+#### Art. 38b
+
+**Professeur HES invité [^38a-1]**
+
+<sup>1</sup> Le professeur HES invité dispense un enseignement ou réalise des activités de recherche appliquée et de développement ; ces deux missions peuvent être combinées.
+
+<sup>2</sup> Le professeur HES invité exerce une fonction professorale dans une institution autre que la HES-SO, ou est une personnalité éminente dont l'apport pour l'enseignement ou la recherche appliquée et le développement est jugé significatif par l'autorité d'engagement.
+
+[^38a-1]: Modif. 1 du 16.01.2024: Introduction Art. 38b; entrée en vigueur au 01.08.2024
 
 #### Art. 39
 
-**Adjoint scientifique ou artistique [^38-1]**
+**Adjoint scientifique ou artistique HES [^38b-1]**
 
-<sup>1</sup> L'adjoint scientifique ou artistique réalise des activités de recherche appliquée, de développement ou de service. Il peut participer à des tâches liées à l'enseignement.
+<sup>1</sup> L'adjoint scientifique ou artistique HES participe ou réalise des activités de recherche appliquée et de développement ou de prestations de service. Il peut assumer des tâches liées à l'enseignement.
 
-<sup>2</sup> L'adjoint scientifique ou artistique est porteur d'un titre d'une haute école ou d'un titre jugé équivalent, et justifie généralement d'une expérience professionnelle d'au moins cinq ans dans un milieu professionnel différent de l'enseignement.
+<sup>2</sup> L'adjoint scientifique ou artistique HES est porteur d'un master ou d'un titre jugé équivalent.
 
-[^38-1]: Modif. 1 du 16.01.2024: Introduction Art. 26, Al. 2; entrée en vigueur au 01.08.2024; Introduction Art. 27, Al. 1, bbis,cbis,dbis; entrée en vigueur au 01.08.2024; Introduction Art. 35, Al. 1, bbis,cbis,cter,dbis; entrée en vigueur au 01.08.2024; Introduction Art. 35, Al. 2bis; entrée en vigueur au 01.08.2024; Introduction Art. 36, Al. 5-7; entrée en vigueur au 01.08.2024; Introduction Art. 37, Al. 3-5; entrée en vigueur au 01.08.2024; Introduction Art. 37a; entrée en vigueur au 01.08.2024; Introduction Art. 38, Al. 3-4; entrée en vigueur au 01.08.2024; Introduction Art. 38a; entrée en vigueur au 01.08.2024; Introduction Art. 38b; entrée en vigueur au 01.08.2024; Modification tArt; entrée en vigueur au 01.08.2024; Modification Al. 1-2; entrée en vigueur au 01.08.2024; Introduction Al. 3; entrée en vigueur au 01.08.2024; Introduction Art. 39a; entrée en vigueur au 01.08.2024; Introduction Art. 40, Al. 3; entrée en vigueur au 01.08.2024; Introduction Art. 42, Al. 1bis,2bis,2ter; entrée en vigueur au 01.08.2024; Introduction Art. 42a; entrée en vigueur au 01.08.2024; Introduction Art. 44, Al. 2-4; entrée en vigueur au 01.08.2024; Introduction Art. 51a; entrée en vigueur au 01.08.2024; Introduction Art. 53, Al. 2; entrée en vigueur au 01.08.2024
+<sup>3</sup> Il justifie d'une expérience professionnelle ou artistique d'au moins cinq ans et a participé ou conduit des projets de recherche ou des mandats.
+
+[^38b-1]: Modif. 1 du 16.01.2024: Modification tArt; entrée en vigueur au 01.08.2024; Modification Al. 1-2; entrée en vigueur au 01.08.2024; Introduction Al. 3; entrée en vigueur au 01.08.2024
+
+#### Art. 39a
+
+**Collaborateur scientifique ou artistique HES [^39-1]**
+
+<sup>1</sup> Le collaborateur scientifique ou artistique HES participe à un ou des projets spécifiques en matière de recherche appliquée et de développement ou de prestations de service. Il peut assumer des tâches liées à l'enseignement.
+
+<sup>2</sup> Le collaborateur scientifique ou artistique HES est porteur d'un titre d'une haute école ou d'un titre jugé équivalent.
+
+<sup>3</sup> Il justifie en principe d'une première expérience professionnelle ou artistique.
+
+[^39-1]: Modif. 1 du 16.01.2024: Introduction tArt; entrée en vigueur au 01.08.2024; Introduction Al. 1-3; entrée en vigueur au 01.08.2024; Introduction Art. 39a; entrée en vigueur au 01.08.2024
 
 #### Art. 40
 
-**Assistant HES [^39-1]**
+**Assistant HES [^39a-1]**
 
-<sup>1</sup> L'assistant HES participe aux activités d'enseignement, de recherche appliquée, de développement ou de service sous la responsabilité d'un professeur HES ordinaire, d'un professeur HES associé ou d'un adjoint scientifique ou artistique.
+<sup>1</sup> L'assistant HES participe aux activités d'enseignement, de recherche appliquée et de développement ou de prestations de service sous la responsabilité d'un professeur HES ordinaire, d'un professeur HES associé, d'un professeur HES assistant, d'un maître d'enseignement HES ou d'un adjoint scientifique ou artistique HES.
 
 <sup>2</sup> Il peut consacrer une partie de son temps d'engagement à compléter sa formation par un master ou un doctorat. Le règlement fixe les modalités.
 
-[^39-1]: Modif. 1 du 16.01.2024: Introduction Art. 26, Al. 2; entrée en vigueur au 01.08.2024; Introduction Art. 27, Al. 1, bbis,cbis,dbis; entrée en vigueur au 01.08.2024; Introduction Art. 35, Al. 1, bbis,cbis,cter,dbis; entrée en vigueur au 01.08.2024; Introduction Art. 35, Al. 2bis; entrée en vigueur au 01.08.2024; Introduction Art. 36, Al. 5-7; entrée en vigueur au 01.08.2024; Introduction Art. 37, Al. 3-5; entrée en vigueur au 01.08.2024; Introduction Art. 37a; entrée en vigueur au 01.08.2024; Introduction Art. 38, Al. 3-4; entrée en vigueur au 01.08.2024; Introduction Art. 38a; entrée en vigueur au 01.08.2024; Introduction Art. 38b; entrée en vigueur au 01.08.2024; Introduction Art. 39, Al. 3; entrée en vigueur au 01.08.2024; Introduction Art. 39a; entrée en vigueur au 01.08.2024; Modification Al. 1; entrée en vigueur au 01.08.2024; Introduction Al. 3; entrée en vigueur au 01.08.2024; Introduction Art. 42, Al. 1bis,2bis,2ter; entrée en vigueur au 01.08.2024; Introduction Art. 42a; entrée en vigueur au 01.08.2024; Introduction Art. 44, Al. 2-4; entrée en vigueur au 01.08.2024; Introduction Art. 51a; entrée en vigueur au 01.08.2024; Introduction Art. 53, Al. 2; entrée en vigueur au 01.08.2024
+<sup>3</sup> L'assistant HES est titulaire d'un titre d'une haute école ou d'un titre jugé équivalent.
+
+[^39a-1]: Modif. 1 du 16.01.2024: Modification Al. 1; entrée en vigueur au 01.08.2024; Introduction Al. 3; entrée en vigueur au 01.08.2024
 
 #### Art. 41
 
@@ -487,11 +572,28 @@ décrète
 
 <sup>1</sup> Le professeur HES ordinaire et le professeur HES associé sont engagés pour une période de six ans, renouvelable.
 
-<sup>2</sup> Le maître d'enseignement et l'adjoint scientifique ou artistique sont engagés pour une durée indéterminée.
+<sup>1bis</sup> Le professeur HES assistant est engagé pour une durée maximale de six ans, le contrat pouvant être en tout temps remplacé par un contrat de professeur HES ordinaire ou de professeur HES associé selon la fonction visée à l'engagement.
+
+<sup>2</sup> Le maître d'enseignement HES, le chargé de cours HES et l'adjoint scientifique ou artistique HES sont engagés pour une durée indéterminée.
+
+<sup>2bis</sup> Le professeur HES invité est engagé pour une durée maximale d'une année.
+
+<sup>2ter</sup> Le collaborateur scientifique ou artistique HES est engagé pour une durée déterminée qui correspond à la durée du ou des projets.
 
 <sup>3</sup> L'assistant HES est engagé pour une période d'une année, renouvelable. La durée totale de l'engagement ne peut excéder cinq ans.
 
-[^subsectionSoussectionII-1]: Modif. 1 du 16.01.2024: Introduction Art. 26, Al. 2; entrée en vigueur au 01.08.2024; Introduction Art. 27, Al. 1, bbis,cbis,dbis; entrée en vigueur au 01.08.2024; Introduction Art. 35, Al. 1, bbis,cbis,cter,dbis; entrée en vigueur au 01.08.2024; Introduction Art. 35, Al. 2bis; entrée en vigueur au 01.08.2024; Introduction Art. 36, Al. 5-7; entrée en vigueur au 01.08.2024; Introduction Art. 37, Al. 3-5; entrée en vigueur au 01.08.2024; Introduction Art. 37a; entrée en vigueur au 01.08.2024; Introduction Art. 38, Al. 3-4; entrée en vigueur au 01.08.2024; Introduction Art. 38a; entrée en vigueur au 01.08.2024; Introduction Art. 38b; entrée en vigueur au 01.08.2024; Introduction Art. 39, Al. 3; entrée en vigueur au 01.08.2024; Introduction Art. 39a; entrée en vigueur au 01.08.2024; Introduction Art. 40, Al. 3; entrée en vigueur au 01.08.2024; Introduction Al. 1bis; entrée en vigueur au 01.08.2024; Modification Al. 2; entrée en vigueur au 01.08.2024; Introduction Al. 2bis,2ter; entrée en vigueur au 01.08.2024; Introduction Art. 42a; entrée en vigueur au 01.08.2024; Introduction Art. 44, Al. 2-4; entrée en vigueur au 01.08.2024; Introduction Art. 51a; entrée en vigueur au 01.08.2024; Introduction Art. 53, Al. 2; entrée en vigueur au 01.08.2024
+[^subsectionSoussectionII-1]: Modif. 1 du 16.01.2024: Introduction Al. 1bis; entrée en vigueur au 01.08.2024; Modification Al. 2; entrée en vigueur au 01.08.2024; Introduction Al. 2bis,2ter; entrée en vigueur au 01.08.2024
+
+#### Art. 42a
+
+**Taux d'activité [^42-1]**
+
+<sup>1</sup> Le règlement précise les taux d'activité du professeur HES ordinaire, du professeur HES associé, du professeur HES assistant, du maître d'enseignement HES et du chargé de cours HES.
+
+<sup>2</sup> Le règlement sur les assistants des hautes écoles cantonales vaudoises de type HES (RA-HEV)[^42a-1] régit le taux d'activité des assistants HES.
+
+[^42-1]: Modif. 1 du 16.01.2024: Introduction tArt; entrée en vigueur au 01.08.2024; Introduction Al. 1-2; entrée en vigueur au 01.08.2024; Introduction Art. 42a; entrée en vigueur au 01.08.2024
+[^42a-1]: Règlement du 01.04.2015 sur les assistants des hautes écoles cantonales vaudoises de type HES ([BLV 419.01.5](https://prestations.vd.ch/pub/blv-publication/actes/consolide/419.01.5?id=1e8fcce1-4338-4318-8b96-d51168534d80))
 
 #### Art. 43
 
@@ -505,7 +607,13 @@ décrète
 
 <sup>1</sup> La direction fixe le salaire initial du personnel d'enseignement et de recherche dans le respect du barème du Conseil d'Etat.
 
-[^43-1]: Modif. 1 du 16.01.2024: Introduction Art. 26, Al. 2; entrée en vigueur au 01.08.2024; Introduction Art. 27, Al. 1, bbis,cbis,dbis; entrée en vigueur au 01.08.2024; Introduction Art. 35, Al. 1, bbis,cbis,cter,dbis; entrée en vigueur au 01.08.2024; Introduction Art. 35, Al. 2bis; entrée en vigueur au 01.08.2024; Introduction Art. 36, Al. 5-7; entrée en vigueur au 01.08.2024; Introduction Art. 37, Al. 3-5; entrée en vigueur au 01.08.2024; Introduction Art. 37a; entrée en vigueur au 01.08.2024; Introduction Art. 38, Al. 3-4; entrée en vigueur au 01.08.2024; Introduction Art. 38a; entrée en vigueur au 01.08.2024; Introduction Art. 38b; entrée en vigueur au 01.08.2024; Introduction Art. 39, Al. 3; entrée en vigueur au 01.08.2024; Introduction Art. 39a; entrée en vigueur au 01.08.2024; Introduction Art. 40, Al. 3; entrée en vigueur au 01.08.2024; Introduction Art. 42, Al. 1bis,2bis,2ter; entrée en vigueur au 01.08.2024; Introduction Art. 42a; entrée en vigueur au 01.08.2024; Introduction Al. 2-4; entrée en vigueur au 01.08.2024; Introduction Art. 51a; entrée en vigueur au 01.08.2024; Introduction Art. 53, Al. 2; entrée en vigueur au 01.08.2024
+<sup>2</sup> Lors de la fixation du salaire initial, l'expérience professionnelle ou artistique est comptabilisée à partir du premier titre professionnalisant du domaine concerné.
+
+<sup>3</sup> Cette expérience doit en principe avoir été réalisée hors du milieu académique.
+
+<sup>4</sup> Les cas particuliers sont régis par le règlement.
+
+[^43-1]: Modif. 1 du 16.01.2024: Introduction Al. 2-4; entrée en vigueur au 01.08.2024
 
 #### Art. 45
 
@@ -513,11 +621,11 @@ décrète
 
 <sup>1</sup> Les deux premières années qui suivent le premier engagement du professeur HES ordinaire et du professeur HES associé sont considérées comme période probatoire, durant laquelle l'engagement peut être résilié de part et d'autre, moyennant un préavis donné six mois à l'avance pour la fin de l'année académique.
 
-<sup>2</sup> Les deux premières années qui suivent l'engagement du maître d'enseignement et de l'adjoint scientifique ou artistique sont considérées comme période probatoire, durant laquelle l'engagement peut être résilié de part et d'autre, moyennant un préavis donné six mois à l'avance pour la fin de l'année académique.
+<sup>2</sup> Les deux premières années qui suivent l'engagement du professeur HES assistant, du maître d'enseignement HES, du chargé de cours HES et de l'adjoint scientifique ou artistique HES sont considérées comme période probatoire, durant laquelle l'engagement peut être résilié de part et d'autre, moyennant un préavis donné six mois à l'avance pour la fin de l'année académique.
 
 <sup>3</sup> La période probatoire fait l'objet d'une évaluation dont les modalités sont fixées par le règlement.
 
-[^44-1]: Modif. 1 du 16.01.2024: Introduction Art. 26, Al. 2; entrée en vigueur au 01.08.2024; Introduction Art. 27, Al. 1, bbis,cbis,dbis; entrée en vigueur au 01.08.2024; Introduction Art. 35, Al. 1, bbis,cbis,cter,dbis; entrée en vigueur au 01.08.2024; Introduction Art. 35, Al. 2bis; entrée en vigueur au 01.08.2024; Introduction Art. 36, Al. 5-7; entrée en vigueur au 01.08.2024; Introduction Art. 37, Al. 3-5; entrée en vigueur au 01.08.2024; Introduction Art. 37a; entrée en vigueur au 01.08.2024; Introduction Art. 38, Al. 3-4; entrée en vigueur au 01.08.2024; Introduction Art. 38a; entrée en vigueur au 01.08.2024; Introduction Art. 38b; entrée en vigueur au 01.08.2024; Introduction Art. 39, Al. 3; entrée en vigueur au 01.08.2024; Introduction Art. 39a; entrée en vigueur au 01.08.2024; Introduction Art. 40, Al. 3; entrée en vigueur au 01.08.2024; Introduction Art. 42, Al. 1bis,2bis,2ter; entrée en vigueur au 01.08.2024; Introduction Art. 42a; entrée en vigueur au 01.08.2024; Introduction Art. 44, Al. 2-4; entrée en vigueur au 01.08.2024; Modification Al. 2; entrée en vigueur au 01.08.2024; Introduction Art. 51a; entrée en vigueur au 01.08.2024; Introduction Art. 53, Al. 2; entrée en vigueur au 01.08.2024
+[^44-1]: Modif. 1 du 16.01.2024: Modification Al. 2; entrée en vigueur au 01.08.2024
 
 #### Art. 46
 
@@ -525,11 +633,11 @@ décrète
 
 <sup>1</sup> Le renouvellement périodique des contrats d'engagement des professeurs HES ordinaires et des professeurs HES associés est précédé d'une évaluation de l'activité de ces derniers.
 
-<sup>2</sup> La direction peut en tout temps demander une évaluation d'un professeur HES ordinaire ou d'un professeur HES associé.
+<sup>2</sup> La direction peut en tout temps demander une évaluation d'un professeur HES ordinaire, d'un professeur HES associé ou d'un professeur HES assistant.
 
 <sup>3</sup> La procédure d'évaluation est définie par le règlement.
 
-[^45-1]: Modif. 1 du 16.01.2024: Introduction Art. 26, Al. 2; entrée en vigueur au 01.08.2024; Introduction Art. 27, Al. 1, bbis,cbis,dbis; entrée en vigueur au 01.08.2024; Introduction Art. 35, Al. 1, bbis,cbis,cter,dbis; entrée en vigueur au 01.08.2024; Introduction Art. 35, Al. 2bis; entrée en vigueur au 01.08.2024; Introduction Art. 36, Al. 5-7; entrée en vigueur au 01.08.2024; Introduction Art. 37, Al. 3-5; entrée en vigueur au 01.08.2024; Introduction Art. 37a; entrée en vigueur au 01.08.2024; Introduction Art. 38, Al. 3-4; entrée en vigueur au 01.08.2024; Introduction Art. 38a; entrée en vigueur au 01.08.2024; Introduction Art. 38b; entrée en vigueur au 01.08.2024; Introduction Art. 39, Al. 3; entrée en vigueur au 01.08.2024; Introduction Art. 39a; entrée en vigueur au 01.08.2024; Introduction Art. 40, Al. 3; entrée en vigueur au 01.08.2024; Introduction Art. 42, Al. 1bis,2bis,2ter; entrée en vigueur au 01.08.2024; Introduction Art. 42a; entrée en vigueur au 01.08.2024; Introduction Art. 44, Al. 2-4; entrée en vigueur au 01.08.2024; Modification Al. 2; entrée en vigueur au 01.08.2024; Introduction Art. 51a; entrée en vigueur au 01.08.2024; Introduction Art. 53, Al. 2; entrée en vigueur au 01.08.2024
+[^45-1]: Modif. 1 du 16.01.2024: Modification Al. 2; entrée en vigueur au 01.08.2024
 
 #### Art. 47
 
@@ -549,13 +657,13 @@ décrète
 
 **Démission [^48-1]**
 
-<sup>1</sup> Les professeurs HES, les professeurs HES associés et les maîtres d'enseignement donnent leur démission pour la fin d'une année académique, exceptionnellement pour la fin d'un semestre.
+<sup>1</sup> Les professeurs HES ordinaires, les professeurs HES associés, les professeurs HES assistants, les maîtres d'enseignement HES et les chargés de cours HES donnent leur démission pour la fin d'une année académique, exceptionnellement pour la fin d'un semestre.
 
 <sup>2</sup> La lettre de démission est adressée à l'autorité d'engagement au moins six mois à l'avance.
 
-<sup>3</sup> Les professeurs HES ordinaires, les professeurs HES associés et les maîtres d'enseignement sont tenus d'administrer les examens de la session qui suit la fin de leur enseignement. Aucune indemnité n'est due de ce chef.
+<sup>3</sup> Les professeurs HES ordinaires, les professeurs HES associés, les professeurs HES assistants, les maîtres d'enseignement HES et les chargés de cours HES sont tenus d'administrer les examens de la session qui suit la fin de leur enseignement. Aucune indemnité n'est due de ce chef.
 
-[^48-1]: Modif. 1 du 16.01.2024: Introduction Art. 26, Al. 2; entrée en vigueur au 01.08.2024; Introduction Art. 27, Al. 1, bbis,cbis,dbis; entrée en vigueur au 01.08.2024; Introduction Art. 35, Al. 1, bbis,cbis,cter,dbis; entrée en vigueur au 01.08.2024; Introduction Art. 35, Al. 2bis; entrée en vigueur au 01.08.2024; Introduction Art. 36, Al. 5-7; entrée en vigueur au 01.08.2024; Introduction Art. 37, Al. 3-5; entrée en vigueur au 01.08.2024; Introduction Art. 37a; entrée en vigueur au 01.08.2024; Introduction Art. 38, Al. 3-4; entrée en vigueur au 01.08.2024; Introduction Art. 38a; entrée en vigueur au 01.08.2024; Introduction Art. 38b; entrée en vigueur au 01.08.2024; Introduction Art. 39, Al. 3; entrée en vigueur au 01.08.2024; Introduction Art. 39a; entrée en vigueur au 01.08.2024; Introduction Art. 40, Al. 3; entrée en vigueur au 01.08.2024; Introduction Art. 42, Al. 1bis,2bis,2ter; entrée en vigueur au 01.08.2024; Introduction Art. 42a; entrée en vigueur au 01.08.2024; Introduction Art. 44, Al. 2-4; entrée en vigueur au 01.08.2024; Modification Al. 1,3; entrée en vigueur au 01.08.2024; Introduction Art. 51a; entrée en vigueur au 01.08.2024; Introduction Art. 53, Al. 2; entrée en vigueur au 01.08.2024
+[^48-1]: Modif. 1 du 16.01.2024: Modification Al. 1,3; entrée en vigueur au 01.08.2024
 
 ### Sous-section III Dispositions diverses
 
@@ -569,9 +677,17 @@ décrète
 
 **Charge particulière [^50-1]**
 
-<sup>1</sup> Le professeur HES ordinaire qui assume la direction d'un département, d'une filière ou d'un institut et le professeur associé qui assume la supervision d'une filière peuvent bénéficier d'une indemnité dont le montant est fixé par le Conseil d'Etat.
+<sup>1</sup> Le professeur HES ordinaire qui assume la direction d'une structure au sens de l'art. 19 et le professeur HES associé qui assume la responsabilité d'une filière ou d'une structure analogue à une filière, bénéficient d'une indemnité dont le montant est fixé par le Conseil d'Etat.
 
-[^50-1]: Modif. 1 du 16.01.2024: Introduction Art. 26, Al. 2; entrée en vigueur au 01.08.2024; Introduction Art. 27, Al. 1, bbis,cbis,dbis; entrée en vigueur au 01.08.2024; Introduction Art. 35, Al. 1, bbis,cbis,cter,dbis; entrée en vigueur au 01.08.2024; Introduction Art. 35, Al. 2bis; entrée en vigueur au 01.08.2024; Introduction Art. 36, Al. 5-7; entrée en vigueur au 01.08.2024; Introduction Art. 37, Al. 3-5; entrée en vigueur au 01.08.2024; Introduction Art. 37a; entrée en vigueur au 01.08.2024; Introduction Art. 38, Al. 3-4; entrée en vigueur au 01.08.2024; Introduction Art. 38a; entrée en vigueur au 01.08.2024; Introduction Art. 38b; entrée en vigueur au 01.08.2024; Introduction Art. 39, Al. 3; entrée en vigueur au 01.08.2024; Introduction Art. 39a; entrée en vigueur au 01.08.2024; Introduction Art. 40, Al. 3; entrée en vigueur au 01.08.2024; Introduction Art. 42, Al. 1bis,2bis,2ter; entrée en vigueur au 01.08.2024; Introduction Art. 42a; entrée en vigueur au 01.08.2024; Introduction Art. 44, Al. 2-4; entrée en vigueur au 01.08.2024; Modification Al. 1; entrée en vigueur au 01.08.2024; Introduction Art. 51a; entrée en vigueur au 01.08.2024; Introduction Art. 53, Al. 2; entrée en vigueur au 01.08.2024
+[^50-1]: Modif. 1 du 16.01.2024: Modification Al. 1; entrée en vigueur au 01.08.2024
+
+#### Art. 51a
+
+**Co-direction de thèse [^51-1]**
+
+<sup>1</sup> Les membres du personnel d'enseignement et de recherche titulaires d'un doctorat, à l'exception des assistants HES, peuvent co-diriger des thèses en collaboration avec des institutions universitaires.
+
+[^51-1]: Modif. 1 du 16.01.2024: Introduction Art. 51a; entrée en vigueur au 01.08.2024
 
 #### Art. 52
 
@@ -587,9 +703,11 @@ décrète
 
 **Professeur HES honoraire [^52-1]**
 
-<sup>1</sup> Le titre de professeur HES honoraire peut être conféré par l'autorité d'engagement à un professeur HES ordinaire qui cesse son enseignement après dix ans d'activité au moins.
+<sup>1</sup> Le titre de professeur HES honoraire peut être conféré par l'autorité d'engagement à un professeur HES ordinaire ou à un professeur HES associé qui quitte ses fonctions après dix ans d'activité au moins.
 
-[^52-1]: Modif. 1 du 16.01.2024: Introduction Art. 26, Al. 2; entrée en vigueur au 01.08.2024; Introduction Art. 27, Al. 1, bbis,cbis,dbis; entrée en vigueur au 01.08.2024; Introduction Art. 35, Al. 1, bbis,cbis,cter,dbis; entrée en vigueur au 01.08.2024; Introduction Art. 35, Al. 2bis; entrée en vigueur au 01.08.2024; Introduction Art. 36, Al. 5-7; entrée en vigueur au 01.08.2024; Introduction Art. 37, Al. 3-5; entrée en vigueur au 01.08.2024; Introduction Art. 37a; entrée en vigueur au 01.08.2024; Introduction Art. 38, Al. 3-4; entrée en vigueur au 01.08.2024; Introduction Art. 38a; entrée en vigueur au 01.08.2024; Introduction Art. 38b; entrée en vigueur au 01.08.2024; Introduction Art. 39, Al. 3; entrée en vigueur au 01.08.2024; Introduction Art. 39a; entrée en vigueur au 01.08.2024; Introduction Art. 40, Al. 3; entrée en vigueur au 01.08.2024; Introduction Art. 42, Al. 1bis,2bis,2ter; entrée en vigueur au 01.08.2024; Introduction Art. 42a; entrée en vigueur au 01.08.2024; Introduction Art. 44, Al. 2-4; entrée en vigueur au 01.08.2024; Introduction Art. 51a; entrée en vigueur au 01.08.2024; Modification Al. 1; entrée en vigueur au 01.08.2024; Introduction Al. 2; entrée en vigueur au 01.08.2024
+<sup>2</sup> L'autorité d'engagement définit par voie de directive les droits et devoirs du professeur HES honoraire.
+
+[^52-1]: Modif. 1 du 16.01.2024: Modification Al. 1; entrée en vigueur au 01.08.2024; Introduction Al. 2; entrée en vigueur au 01.08.2024
 
 ## Chapitre V Etudiants et études HES
 
