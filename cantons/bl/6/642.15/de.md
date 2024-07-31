@@ -3,20 +3,19 @@ canton: BL
 number: "642.15"
 title: Verordnung über den Mittagstisch an der Sekundarschule
 language: de
-version: 2020-08-01
-valid_until: 2024-07-31
-version_adopted: 2020-09-15
+version: 2024-08-01
+version_adopted: 2023-12-19
 adopted: 2008-07-01
 in_force: 2008-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/642.15"
-pdf: "https://bl.clex.ch/api/de/versions/3745/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3867/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über den Mittagstisch an der Sekundarschule
 
-Vom 01.07.2008 (Stand 01.08.2020)
+Vom 01.07.2008 (Stand 01.08.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -61,7 +60,7 @@ beschliesst:
 
 <sup>2</sup> …
 
-<sup>3</sup> Die BKSD regelt das Controlling und die Berichterstattung.
+<sup>3</sup> Sie regelt das Controlling und die Berichterstattung.
 
 #### § 5
 
@@ -71,7 +70,7 @@ beschliesst:
 
 **Aufgaben des Schulrats**
 
-<sup>1</sup> Der Schulrat genehmigt das von der Schulleitung erarbeitete Konzept für den Mittagstisch.
+<sup>1</sup> Die Schule regelt das Konzept für den Mittagstisch im Schulprogramm.
 
 <sup>2</sup> …
 
