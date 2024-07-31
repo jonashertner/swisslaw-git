@@ -4,13 +4,13 @@ number: "732.11"
 title: Strassenverordnung
 short: StrV
 language: de
-version: 2021-10-01
-valid_until: 2024-07-31
-version_adopted: 2021-06-29
+version: 2024-08-01
+valid_until: 2025-12-31
+version_adopted: 2024-06-11
 adopted: 1988-11-22
 in_force: 1989-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/732.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3241/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3647/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3241/pdf_file"
 
 (StrV)
 
-vom 22.11.1988 (Stand 01.10.2021)
+vom 22.11.1988 (Stand 01.08.2024)
 
 Landammann und Regierungsrat des Kantons St.Gallen
 
@@ -70,7 +70,9 @@ als Verordnung:[^ingress-2]
 
 **Bewilligungen von Veranstaltungen**
 
-<sup>1</sup> Das Sicherheits- und Justizdepartement bewilligt politische Veranstaltungen auf öffentlichen Strassen, das Polizeikommando die übrigen Veranstaltungen wie Festumzüge und Radwanderungen. Sie hören vor der Bewilligung die zuständige Strassenaufsichtsbehörde an.
+<sup>1</sup> Das Polizeikommando bewilligt Veranstaltungen auf Kantonsstrassen. Es hört vor der Bewilligung die Strassenaufsichtsbehörde an.
+
+<sup>1<sup>bis</sup></sup> Die Gemeindebehörde bewilligt Veranstaltungen auf Gemeindestrassen.
 
 <sup>2</sup> Für die Bewilligung von Veranstaltungen auf dem Gebiet der Stadt St.Gallen sind die Gemeindebehörden zuständig.
 
