@@ -3,11 +3,10 @@ canton: ZH
 number: "413.252.4"
 title: Prüfungsreglement für die Fachmittelschulen des Kantons Zürich
 language: de
-version: "2023-08-01"
-nachtrag: "121"
-valid_until: 2024-08-01
+version: "2024-08-01"
+nachtrag: "125"
 adopted: 2007-06-04
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_252_4-2007_06_04-2007_08_20-121.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-413_252_4-2007_06_04-2007_08_20-125.html"
 text: pdf
 ---
 
@@ -63,7 +62,7 @@ Der Bildungsrat beschliesst:
 
 **1**
 
-- 1\. 7. 23 - 121 § 3.<sup>11</sup> Die Noten für den Erwerb des Fachmittelschulausweises setzen sich aus Erfahrungsnoten der Fächer oder Fachbereiche und in den Fächern, in denen eine Abschlussprüfung abgelegt wird, aus dem arithmetischen Mittel aus Erfahrungsnote und Prüfungsnote zusammen.
+- 1\. 7. 24 - 125 § 3.<sup>11</sup> Die Noten für den Erwerb des Fachmittelschulausweises setzen sich aus Erfahrungsnoten der Fächer oder Fachbereiche und in den Fächern, in denen eine Abschlussprüfung abgelegt wird, aus dem arithmetischen Mittel aus Erfahrungsnote und Prüfungsnote zusammen.
 
 **Noten**
 
@@ -159,7 +158,7 @@ Der Entscheid über das Bestehen der Prüfung wird auf Antrag der Rektorin oder 
 
 **3**
 
-- 1\. 7. 23 - 121 § 16. <sup>1</sup> Die Benützung unerlaubter Hilfsmittel während der Prüfungen sowie jede andere Unredlichkeit kann den Ausschluss von der entsprechenden Prüfung, die Verweigerung der Erteilung oder Ungültigkeitserklärung des Fachmittelschulausweises zur Folge haben. Über den Ausschluss entscheidet die Schulleitung, über die Verweigerung oder Ungültigkeitserklärung des Fachmittelschulausweises die Schulkommission. Die Prüfung gilt in diesen Fällen als nicht bestanden.
+- 1\. 7. 24 - 125 § 16. <sup>1</sup> Die Benützung unerlaubter Hilfsmittel während der Prüfungen sowie jede andere Unredlichkeit kann den Ausschluss von der entsprechenden Prüfung, die Verweigerung der Erteilung oder Ungültigkeitserklärung des Fachmittelschulausweises zur Folge haben. Über den Ausschluss entscheidet die Schulleitung, über die Verweigerung oder Ungültigkeitserklärung des Fachmittelschulausweises die Schulkommission. Die Prüfung gilt in diesen Fällen als nicht bestanden.
 
 **Unregelmässigkeiten**
 
@@ -237,9 +236,7 @@ Der Entscheid über die Erteilung des Fachmaturitätszeugnisses wird auf Antrag 
 
 **5**
 
-**Voraussetzung zur Erlangung der Fachmaturität im Berufsfeld Pädagogik**
-
-- 1\. 7. 23 - 121 § 22. Die nicht rechtzeitige Abgabe der Fachmaturitätsarbeit, das Nichtbeenden der praktischen Leistungen oder die Benützung unerlaubter Hilfsmittel kann die Nichtabnahme der Fachmaturitätsarbeit, die Nichtbenotung der praktischen Leistungen oder die Ungültigkeitserklärung der Fachmaturität zur Folge haben. Über die Nichtabnahme der Fachmaturitätsarbeit und die Nichtbeurteilung der praktischen Leistungen entscheidet die Schulleitung, über die Ungültigkeitserklärung der Fachmaturität die Schulkommission.
+- 1\. 7. 24 - 125 § 22. Die nicht rechtzeitige Abgabe der Fachmaturitätsarbeit, das Nichtbeenden der praktischen Leistungen oder die Benützung unerlaubter Hilfsmittel kann die Nichtabnahme der Fachmaturitätsarbeit, die Nichtbenotung der praktischen Leistungen oder die Ungültigkeitserklärung der Fachmaturität zur Folge haben. Über die Nichtabnahme der Fachmaturitätsarbeit und die Nichtbeurteilung der praktischen Leistungen entscheidet die Schulleitung, über die Ungültigkeitserklärung der Fachmaturität die Schulkommission.
 
 #### § 23
 
@@ -271,7 +268,11 @@ Das Fachmaturitätszeugnis umfasst:
 
 ### II. Berufsfeld Pädagogik<sup>5</sup>
 
-§ 27.<sup>11</sup> Zur Erlangung der Fachmaturität im Berufsfeld Pädagogik müssen zusätzlich zu den Voraussetzungen gemäss § 18 Abs. 1 die Voraussetzungen in den Richtlinien über die zusätzlichen Leistungen für die Fachmaturität im Berufsfeld Pädagogik vom 25. Oktober 2018 der EDK unter Vorbehalt der nachfolgenden Bestimmungen erfüllt sein. § 27 a.<sup>11</sup> Der Lehrgang zur Fachmaturität Pädagogik dauert zwei Semester.
+**Voraussetzung zur Erlangung der Fachmaturität im Berufsfeld Pädagogik**
+
+§ 27.<sup>11</sup> <sup>1</sup> Zur Erlangung der Fachmaturität im Berufsfeld Pädagogik müssen zusätzlich zu den Voraussetzungen gemäss § 18 Abs. 1 die Voraussetzungen in den Richtlinien über die zusätzlichen Leistungen für die Fachmaturität im Berufsfeld Pädagogik vom 25. Oktober 2018 der EDK unter Vorbehalt der nachfolgenden Bestimmungen erfüllt sein.
+
+<sup>2</sup> Die Erlangung der Fachmaturität im Berufsfeld Pädagogik setzt den Nachweis eines Praktikums von mindestens sechs Wochen Dauer auf Kindergarten- oder Primarstufe voraus. Das Praktikum ist in der Regel an einer öffentlichen Schule zu absolvieren.<sup>13</sup> § 27 a.<sup>11</sup> Der Lehrgang zur Fachmaturität Pädagogik dauert zwei Semester.
 
 **Dauer des Lehrgangs**
 
@@ -321,7 +322,7 @@ Das Fachmaturitätszeugnis umfasst:
 
 **7**
 
-- 1\. 7. 23 - 121 § 27 i.<sup>8</sup> Prüfungsfach Unterrichtsfach Prüfungsteile und Dauer
+- 1\. 7. 24 - 125 § 27 i.<sup>8</sup> Prüfungsfach Unterrichtsfach Prüfungsteile und Dauer
 
 **Prüfungsfächer, -teile und -dauer**
 
@@ -393,7 +394,7 @@ Dieses Reglement tritt auf Schuljahresbeginn 2007/2008 (20. August 2007) in Kraf
 
 **9**
 
-- 1\. 7. 23 - 121
+- 1\. 7. 24 - 125
 
 ### Übergangsbestimmung zur Änderung vom 6. März 2023
 
@@ -424,3 +425,5 @@ Für Schülerinnen und Schüler, die die Ausbildung vor dem Schuljahr 2023/2024 
 <sup>11</sup> Fassung gemäss Beschluss des Bildungsrates vom 6. März 2023 (OS 78, 151; ABl 2023-03-10). In Kraft seit 1. August 2023.
 
 <sup>12</sup> Aufgehoben durch Beschluss des Bildungsrates vom 6. März 2023 (OS 78, 151; ABl 2023-03-10). In Kraft seit 1. August 2023.
+
+<sup>13</sup> Eingefügt durch Beschluss des Bildungsrates vom 6. März 2023 (OS 78, 151; ABl 2023-03-10). In Kraft seit 1. August 2024.
