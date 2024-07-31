@@ -4,13 +4,13 @@ number: "740.025"
 title: Verordnung über den Jagdbetrieb
 short: Jagdbetriebsvorschriften; JBV
 language: de
-version: 2023-08-01
-valid_until: 2024-07-31
-version_adopted: 2023-06-27
+version: 2024-08-01
+valid_until: 2025-07-31
+version_adopted: 2024-06-25
 adopted: 2023-06-27
 in_force: 2023-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/740.025"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3330/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3447/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3330/pdf_file"
 
 (Jagdbetriebsvorschriften; JBV)
 
-Vom 27.06.2023 (Stand 01.08.2023)
+Vom 27.06.2023 (Stand 01.08.2024)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1], Art. 19, Art. 28 und Art. 38 des kantonalen Jagdgesetzes[^ingress-2] sowie Art. 34 Abs. 2 des kantonalen Waldgesetzes[^ingress-3]
 
@@ -71,7 +71,7 @@ von der Regierung erlassen am 27. Juni 2023
 
 **4. Technische Hilfsmittel**
 
-<sup>1</sup> Das Mittragen und die Verwendung von Restlichtverstärker- und Wärmebild-Vorsatzgeräten sowie Drohnen auf der Jagd sind verboten.
+<sup>1</sup> Das Mittragen und die Verwendung von Nachtsicht- und Wärmebild-Vorsatzgeräten, Nachtsicht- und Wärmebild-Nachsatzgeräten, Nachtsicht- und Wärmebild-Zielfernrohren sowie Drohnen auf der Jagd sind verboten.
 
 <sup>2</sup> Das Aufstellen und die Verwendung von Fotofallen, Bewegungsmeldern, Infrarotsensoren, Lichtschranken und Überwachungskameras auf der Jagd beziehungsweise zu jagdlichen Zwecken sind verboten.
 
@@ -113,18 +113,19 @@ von der Regierung erlassen am 27. Juni 2023
 
 <sup>3</sup> Die nachfolgenden Parkplätze sind vom Parkverbot ausgenommen:
 
-- a) Jagdbezirk I: Lukmanierpass (300 m nördlich der Staumauer); Medel/Lucmagn (Brücke Fuorns); Laus (Hettas); Schlans (oberhalb Dorf); Dardin (Schulhaus);
+- a) Jagdbezirk I: Lukmanierpass (300 m nördlich der Staumauer); Medel/Lucmagn (Brücke Fuorns); Laus (Hettas); Surrein (Hasenschiessstand); S. Benedetg (alte Kapelle); Schlans (oberhalb Dorf); Dardin (Schulhaus);
 - b) Jagdbezirk II: Zervreila (Parkplatz Restaurant); Lunschania (Parkplatz Kantonsstrasse Galerie Schöntobel); Peiden (Peiden Bad); Arezen (Fatscha); Valendas (Oberdutjen); Valendas (Bild); Ilanz (Tischinas); Ilanz (Mulin da Pitasch); Ruschein (Pt. 1229); Vattiz (Davos Munts);
-- c) Jagdbezirk III: Safien-Camana (bir Saga, Pt. 1643); Safien-Egschi (am Stauwehr Egschi); Safien-Neukirch (Treuschbach); Safien-Acla; Ausserglas; Präz (Beginn Präzer Alpweg); Rongellen (Eggawald); Thusis (Jagdstand Übernolla); Sils i.D. (ehemaliger RhB-Bahnhof); Scharans (beim Schützenhaus); Pignia (Vitali); Wergenstein (Lavanos); Avers-Juppa (Parkplatz Ponylift); nur während der Hochjagd: Scharans (Waldstrasse zum alten Schin, Pt. 995)[^11-1]; Sils i.D. (Versasca);
+- c) Jagdbezirk III: Safien-Camana (Bir Saga, Pt. 1643); Safien-Egschi (am Stauwehr Egschi); Safien-Neukirch (Treuschbach); Safien-Acla; Ausserglas; Präz (Beginn Präzer Alpweg); Rongellen (Eggawald); Thusis (Jagdstand Übernolla); Sils i.D. (ehemaliger RhB-Bahnhof); Scharans (beim Schützenhaus); Pignia (Vitali); Wergenstein (Lavanos); Avers-Juppa (Parkplatz Ponylift); nur während der Hochjagd: Scharans (Waldstrasse zum alten Schin, Pt. 995)[^11-1]; Sils i.D. (Versasca); Andeer (Parsagna); Ferrera (Plan Davains);
 - d) Jagdbezirk IV: San Bernardino (Du Lac); San Bernardino (Cantina Toscano, Campingplatz); Mesocco (Parkplatz Ausfahrt A13 Mesocco-Sud); Sorte; Soazza (Ponte di Vigna, 2'736'680/1'134'075); die letzten vier Tage der Hochjagd: Rossa (Valbella, 2'730'170/1'140'517); Rossa (Alp de Cascinarsa, 2'728'817/1'137'679); Mesocco (Siu Sot, 2'738'665/1'137'914); Mesocco (Panieru, 2'738'604/1'140'333); Arvigo (Zanella, 2'727'583/1'127'624); Soazza (Bec, 2'735'050/1'134'870); San Vittore (Folcetta, 2'727'751/1'124'339); Lostallo (La Pala, 2'737'534/1'131'096); Lostallo (2'736'800/1'129'900); Roveredo (Diga Roggiasca, 2'733'470/1'118'259); Roveredo (Vif, Bivio Monti di Laura, 2'730'548/1'119'820); Braggio (Motta della vacca, 2'730'128/1'130'173); S. Maria i.C. (Bedolì, 2'731'554/1'126'723); S. Maria i.C. (Viderla, 2'732'260/1'127'141);
-- e) Jagdbezirk V/VI: Dischma (Kiesgrube Chintsch Hus); Parkplatz Schmelzboden; Jenisberg; Bergün (Parkplatz Latscherstrasse Wasserfassung ALK Ava da Tuors); Vaz/Obervaz (Parkplatz Höhe Sporz); Parkplatz Mutten-Stafel; Parkplatz Bahnhof Solis; Solis (Parkplatz Muttenstrasse, Holzlagerplatz vor Tunnelportal Muttnertobel Nord); Lantsch/Lenz (Parkplatz Biathlonarena); Bivio, (Parkplatz Tua, Sportanlagen AG); Bivio (Julierpassstrasse, Parkplatz La Veduta); Marmorera (Parkplatz Galerie Marmorerasee); Rona-Mulegns (Parkplatz Abzweigung Nascharegnas); Cunter (Burvagn Parkplatz Salzsilo);
-- f) Jagdbezirk VII: Bever (Parkplatz Deponie, Pt. 1693); Pontresina (Seiler);
-- g) Jagdbezirk VIII-1: Maloja (Capolago, 2'774'205/1'142'362), Maloja (Kulm, 2'773'481/1'140'946); Bondo (Crot Alt, 2'762'593/1'133'428);
-- h) Jagdbezirk VIII-2: La Rösa; Sfazù; Pozzolascio (Parkplatz Restaurant);
-- i) Jagdbezirk IX: Zernez (Deponie Tantermozza); Ardez (Verzweigung Sur En – Val Sampuoir);
-- j) Jagdbezirk X: S-charl (Parkplatz); Sent (Kurhaus Val Sinestra); Tarasp (Nairs Chasa Carola); Tarasp (Sguendel Sura); Fimbertal (Parkplatz bei der Landesgrenze)[^11-2]; San Niclà (Jägerparkplatz); Bargia (Ausfahrt Ramosch Ost); Ramosch (Ruinas Serviezel); Sclamischot (Parkplatz Schützenhaus); Tschlin (Zavranza); Parkplatz Vinadi; Parkplatz Pfandshof;
-- k) Jagdbezirk XI: Ascharina (Parkplatz Gasthaus Bellawiese); Pany (Talstation Skilift); Fideris (Strahlegg); Jenaz (in der Au); Furna (Börtji); Furna ("Sattlerparkplatz"); Seewis (Parkplatz Ganda); Conters (Eierloch); Klosters Dorf, Schlappinstrasse Ober Ganda;
-- l) Jagdbezirk XII: Chur (Zivilschutzanlage Meiersboden); Langwies (Gemeindeparkplatz Werkhof); Churwalden (Passugg, Abzweigung Polenweg); Mastrils (Saga); Bonaduz (Bot Mulins); Domat/Ems (Saletg); Domat/Ems (Golfplatz); Felsberg (Hinder d'Wingert); die letzten vier Tage der Hochjagd: Bonaduz (Sigl Ault auf der Höhe Abzweigung Scardanal – Sculms, 2'746'166/1'184'816).
+- e) Jagdbezirk V: Davos Dischma (Parkplatz Kiesgrube Chintsch Hus); Davos Frauenkirch (Parkplatz Kraftwerk Sandachere); Davos Monstein (Parkplatz Schmelzboden); Jenisberg (Parkplatz Jenisbergerstrasse); Filisur (Parkplatz Holzplatz Frevgias – Abzweigung Selastrasse); Bergün (Parkplatz Latscherstrasse Wasserfassung ALK);
+- f) Jagdbezirk VI: Lantsch/Lenz (Parkplatz Biathlonarena); Vaz/Obervaz (Parkplatz Höhe Sporz); Solis (Parkplatz Bahnhof Solis); Obersolis (Parkplatz Holzlagerplatz Muttnerstrasse vor Nordportal Muttnertobel); Mutten (Parkplatz Stafel); Cunter (Parkplatz Salzsilo Burvagn); Rona-Mulegns (Parkplatz Abzweigung Nascharegnas); Marmorera (Parkplatz Galerie Lai da Marmorera); Bivio (Parkplatz Tua Sportanlagen AG); Bivio (Parkplatz Julierpassstrasse, La Veduta);
+- g) Jagdbezirk VII: Bever (Parkplatz Deponie, Pt. 1693); Pontresina (Seiler);
+- h) Jagdbezirk VIII-1: Maloja (Capolago, 2'774'205/1'142'362), Maloja (Kulm, 2'773'481/1'140'946); Bondo (Crot Alt, 2'762'593/1'133'428);
+- i) Jagdbezirk VIII-2: La Rösa; Sfazù; Pozzolascio (Parkplatz Restaurant); Cologna (Abzweigung Cansumè – Balegna); Privilasco (Abzweigung Cavaglia – Cadera); Somaino (Abzweigung Curvera – Mulinell); Miralago (2'805'090/1'128'060);
+- j) Jagdbezirk IX: Zernez (Deponie Tantermozza); Ardez (Abzweigung Sur En – Val Sampuoir);
+- k) Jagdbezirk X: S-charl (Parkplatz); Sent (Kurhaus Val Sinestra); Tarasp (Nairs Chasa Carola); Tarasp (Sguendel Sura); Fimbertal (Parkplatz bei der Landesgrenze)[^11-2]; San Niclà (Jägerparkplatz); Bargia (Ausfahrt Ramosch Ost); Ramosch (Ruinas Serviezel); Sclamischot (Parkplatz Schützenhaus); Tschlin (Zavranza); Parkplatz Vinadi; Parkplatz Pfandshof;
+- l) Jagdbezirk XI: Ascharina (Parkplatz Gasthaus Bellawiese); St. Antönien (Parkplatz P4, Sand); Gadenstätt (Bushaltestelle); Pany (Talstation Skilift); Fideris (Strahlegg); Fideris (Schwinbodä); Jenaz (in der Au); Furna (Börtji); Furna ("Sattlerparkplatz"); Grüsch (Eishalle); Seewis (Parkplatz Ganda); Schiers (Kieswerk Schraubach); Pusserein (Ober Pusserein); Schuders (Parkplatz Dorfeingang); Conters (Eierloch); Klosters Dorf, Schlappinstrasse Ober Ganda;
+- m) Jagdbezirk XII: Chur (Zivilschutzanlage Meiersboden); Langwies (Gemeindeparkplatz Werkhof); Churwalden (Passugg, Abzweigung Polenweg); Mastrils (Saga); Bonaduz (Bot Mulins); Domat/Ems (Saletg); Domat/Ems (Golfplatz); Felsberg (Hinder d'Wingert); Trin (Coma); die letzten vier Tage der Hochjagd: Bonaduz (Sigl Ault auf der Höhe Abzweigung Scardanal – Sculms, 2'746'166/1'184'816).
 
 [^11-1]: Darf zur Ausübung der Hochjagd mit Motorfahrzeugen gebührenfrei befahren werden.
 [^11-2]: Jägerinnen und Jäger, welche das Fimbertal befahren, müssen sich vorgängig bei der Wildhut des Jagdbezirks X melden.
@@ -185,9 +186,11 @@ von der Regierung erlassen am 27. Juni 2023
 
 #### Art. 19
 
-**Abgabe der Nachsucheprotokolle**
+**Nachsuchen und Abgabe der Nachsucheprotokolle**
 
-<sup>1</sup> Die Nachsucheprotokolle sind innert sieben Tagen nach Ende der betreffenden Jagdart der zuständigen Wildhüter-Bezirkschefin oder dem zuständigen Wildhüter-Bezirkschef abzugeben.
+<sup>1</sup> Nachsuchen müssen der zuständigen Wildhut gemeldet werden. Auf der Nieder-, Sonder- und Passjagd ist die Wildhut vor dem Aufbieten des Schweisshundegespanns zu informieren.
+
+<sup>2</sup> Die Nachsucheprotokolle sind vollständig ausgefüllt innert sieben Tagen nach Ende der betreffenden Jagdart der zuständigen Wildhüter-Bezirkschefin oder dem zuständigen Wildhüter-Bezirkschef abzugeben.
 
 #### Art. 20
 
@@ -255,11 +258,11 @@ von der Regierung erlassen am 27. Juni 2023
 
 **Jagdzeiten**
 
-<sup>1</sup> Die Hochjagd 2023 wird in zwei Phasen durchgeführt. Sie dauert vom 2. bis und mit 10. September 2023 sowie vom 19. bis und mit 30. September 2023. Vom 11. bis und mit 18. September 2023 wird die Jagd unterbrochen.
+<sup>1</sup> Die Hochjagd 2024 wird in zwei Phasen durchgeführt. Sie dauert vom 2. bis und mit 8. September 2024 sowie vom 16. bis und mit 29. September 2024. Vom 9. bis und mit 15. September 2024 wird die Jagd unterbrochen.
 
 <sup>2</sup> Hirsche, Rehe, Wildschweine, Murmeltiere, Füchse, Dachse, Waschbären und Marderhunde dürfen während der ganzen Jagdzeit bejagt werden.
 
-<sup>3</sup> Gämsen sind vom 2. bis und mit 10. September 2023 und vom 19. bis und mit 26. September 2023 jagdbar. In den Jagdbezirken I Vorderrhein und II Glenner sowie in Teilen der Jagdbezirke III Hinterrhein – Heinzenberg und IV Moesa (Sektoren C02 – C07, D01, D03 – D10) sind weibliche Gämsen oberhalb der geltenden Höhenlimite nur bis und mit 22. September 2023 jagdbar.
+<sup>3</sup> Gämsen sind vom 2. bis und mit 8. September 2024 und vom 16. bis und mit 25. September 2024 jagdbar. Im Jagdbezirk I Vorderrhein sind weibliche Gämsen oberhalb der geltenden Höhenlimite nur bis und mit 21. September 2024 jagdbar.
 
 #### Art. 28
 
@@ -267,9 +270,9 @@ von der Regierung erlassen am 27. Juni 2023
 
 <sup>1</sup> Es gelten folgende Schusszeiten:
 
-- a) vom 2. bis und mit 10. September 2023 von 6.00 Uhr bis 20.30 Uhr;
-- b) vom 19. bis und mit 26. September 2023 von 6.30 Uhr bis 20.00 Uhr;
-- c) vom 27. bis und mit 30. September 2023 von 6.30 Uhr bis 19.45 Uhr.
+- a) vom 2. bis und mit 8. September 2024 von 6.00 Uhr bis 20.30 Uhr;
+- b) vom 16. bis und mit 26. September 2024 von 6.30 Uhr bis 20.00 Uhr;
+- c) vom 27. bis und mit 29. September 2024 von 6.30 Uhr bis 19.45 Uhr.
 
 ### 2.2. Hirschwild
 
@@ -289,7 +292,7 @@ von der Regierung erlassen am 27. Juni 2023
 
 <sup>1</sup> Alle ein- und beidseitigen Kronenhirsche sind während der ganzen Hochjagd unabhängig von der Stangenlänge in frischem Zustand der Wildhut vorzuweisen.
 
-<sup>2</sup> Vom 6. bis und mit 8. September 2023 ist auch der beidseitige Kronenhirsch mit einer Stangenlänge von 60 cm und mehr jagdbar. An diesen Tagen darf jede Jägerin und jeder Jäger insgesamt nur einen ein- oder beidseitigen Kronenhirsch mit einer Stangenlänge von 60 cm und mehr erlegen.
+<sup>2</sup> Vom 5. bis und mit 7. September 2024 ist auch der beidseitige Kronenhirsch mit einer Stangenlänge von 60 cm und mehr jagdbar. An diesen Tagen darf jede Jägerin und jeder Jäger insgesamt nur einen ein- oder beidseitigen Kronenhirsch mit einer Stangenlänge von 60 cm und mehr erlegen.
 
 <sup>3</sup> Ein beidseitiger Kronenhirsch liegt vor, wenn der Hirsch an beiden Stangen drei oder mehr Enden über der Mittelsprosse aufweist. Ein einseitiger Kronenhirsch liegt vor, wenn der Hirsch an einer Stange drei oder mehr Enden über der Mittelsprosse aufweist.
 
@@ -305,7 +308,7 @@ von der Regierung erlassen am 27. Juni 2023
 
 <sup>2</sup> Für die Beurteilung der Jagdbarkeit von Hirschspiessern gilt das Mass der kürzeren Stange.
 
-<sup>3</sup> Vom 29. bis und mit 30. September 2023 ist der Hirschspiesser unabhängig von der Stangenlänge jagdbar, bei einem Gesamtkontingent von einem Hirschspiesser pro Jägerin oder Jäger.
+<sup>3</sup> Vom 28. bis und mit 29. September 2024 ist der Hirschspiesser unabhängig von der Stangenlänge jagdbar, bei einem Gesamtkontingent von einem Hirschspiesser pro Jägerin oder Jäger.
 
 #### Art. 32
 
@@ -426,7 +429,7 @@ von der Regierung erlassen am 27. Juni 2023
 
 <sup>2</sup> Falls die Abschusszahlen während der Hochjagd nicht erfüllt werden beziehungsweise die Jagd ungenügend ausgeübt wird, erfolgen die fehlenden Abschüsse durch die Wildhut.
 
-<sup>3</sup> Die Höhenlimiten sowie die in Gebieten mit Schwerpunktbejagung und forstlichen Problemen geltenden Vorschriften sind im Anhang 5 aufgeführt.
+<sup>3</sup> Die Höhenlimiten, die in Gebieten mit Schwerpunktbejagung und forstlichen Problemen geltenden Vorschriften sowie die Gebiete mit Verlängerung der Gämsjagd sind im Anhang 5 aufgeführt.
 
 ### 2.3.3. Kontingente
 
@@ -528,11 +531,11 @@ von der Regierung erlassen am 27. Juni 2023
 
 <sup>2</sup> Erlegte Tiere können während der Hochjagd vorgewiesen werden. In diesem Fall müssen die Trophäen und Unterkiefer dieser Tiere nicht mehr abgegeben werden.
 
-<sup>3</sup> Nach der Hochjagd sind die vollständigen Unterkiefer erlegter Hirsche, Rehe und Gämsen sowie die Trophäen erlegter Rehe und Gämsen ausgekocht und sauber gereinigt in der Zeit vom 20. Oktober bis 28. Oktober 2023 der für den Abschussort zuständigen Wildhut vorzuweisen.
+<sup>3</sup> Nach der Hochjagd sind die vollständigen Unterkiefer erlegter Hirsche, Rehe und Gämsen sowie die Trophäen erlegter Rehe und Gämsen ausgekocht und sauber gereinigt in der Zeit vom 21. Oktober bis 1. November 2024 der für den Abschussort zuständigen Wildhut vorzuweisen.
 
 <sup>4</sup> Das Amt organisiert in dieser Zeit regionale Annahmestellen. Ort und Zeit der Vorweisung werden durch das Amt bekanntgegeben.
 
-<sup>5</sup> Im Verhinderungsfalle muss das Untersuchungsmaterial bis spätestens 2. November 2023 eingeschrieben der für den Abschussort zuständigen Wildhut zugestellt werden.
+<sup>5</sup> …
 
 <sup>6</sup> Für die Beschriftung der Unterkiefer und Trophäen sind die amtlichen Etiketten zu verwenden und vollständig auszufüllen.
 
@@ -556,7 +559,7 @@ von der Regierung erlassen am 27. Juni 2023
 
 **Zeitraum und Dauer der Jagden**
 
-<sup>1</sup> Die Sonderjagden auf Hirsch-, Reh- und Schwarzwild finden in der Zeit vom 28. Oktober bis und mit 17. Dezember 2023 statt. Innerhalb einer Region können Beginn, Unterbruch und Ende nach Gebieten gestaffelt erfolgen.
+<sup>1</sup> Die Sonderjagden auf Hirsch-, Reh- und Schwarzwild finden in der Zeit vom 2. November bis und mit 18. Dezember 2024 statt. Innerhalb einer Region können Beginn, Unterbruch und Ende nach Gebieten gestaffelt erfolgen. Das Departement kann die Sonderjagd auf Schwarzwild bei Bedarf und beschränkt auf landwirtschaftliche Flächen zusätzlich vom 1. Juli bis 31. August anordnen.
 
 <sup>2</sup> Die Jagd beginnt an einem Mittwoch oder Samstag. Sie endet für das Hirsch- beziehungsweise Rehwild mit der Erfüllung des Abschussplans. Gegebenenfalls kann die Jagd bereits nach einem einzigen Tag abgeschlossen werden. Das Departement kann die Sonderjagd auf Wildschweine in einzelnen Regionen unabhängig von der Erfüllung der Abschusspläne für Hirsch- und Rehwild anordnen.
 
@@ -568,10 +571,10 @@ von der Regierung erlassen am 27. Juni 2023
 
 <sup>1</sup> Die Jagden werden jeweils am Mittwoch, Samstag und Sonntag durchgeführt. Die Schusszeiten werden wie folgt festgelegt:
 
-- a) 28. Oktober 2023 von 07.15 Uhr bis 14.00 Uhr;
-- b) vom 29. Oktober bis 15. November 2023 von 06.30 Uhr bis 14.00 Uhr;
-- c) vom 16. bis 30. November 2023 von 06.45 Uhr bis 14.00 Uhr;
-- d) vom 1. bis 17. Dezember 2023 von 07.00 Uhr bis 14.00 Uhr.
+- a) vom 2. bis 15. November 2024 von 06.30 Uhr bis 14.00 Uhr;
+- b) vom 16. bis 30. November 2024 von 06.45 Uhr bis 14.00 Uhr;
+- c) vom 1. bis 18. Dezember 2024 von 07.00 Uhr bis 14.00 Uhr.
+- d) …
 
 #### Art. 58
 
@@ -587,10 +590,10 @@ von der Regierung erlassen am 27. Juni 2023
 
 <sup>5</sup> Die Jägerinnen und Jäger haben die Region anzugeben, in der sie die Sonderjagd ausüben wollen.
 
-<sup>6</sup> In den Grossregionen Surselva und Mittelbünden sowie in den Regionen Dreibündenstein, Heinzenberg, Hinterrhein und Schanfigg sind die Jägerinnen und Jäger während der Sonderjagd nur noch in einer Teilregion jagdberechtigt. Sie müssen sich bei der Anmeldung für die bevorzugte Teilregion entscheiden:
+<sup>6</sup> In den Grossregionen Surselva und Mittelbünden sowie in den Regionen Dreibündenstein, Heinzenberg, Hinterrhein und Schanfigg sind die Jägerinnen und Jäger während der Sonderjagd nur in einer Teilregion jagdberechtigt. Sie müssen sich bei der Anmeldung für die bevorzugte Teilregion entscheiden:
 
 - a) Hirschregion Surselva: Jagdbezirk I Sursassiala, I Sutsassiala, II Nord oder II Süd;
-- b) Hirschregion Heinzenberg: Areal Nolla (inkl. Alpen Verdus und Carnusa des Sektors C06) oder Teilregion Safien – Bonaduz (inkl. Sektor C06 ohne Alpen Verdus und Carnusa);
+- b) Hirschregion Heinzenberg: Areal Nolla (inkl. Alpen Verdus und Carnusa des Sektors C06), Areal Safien (inkl. Sektor C06 ohne Alpen Verdus und Carnusa) oder Areal Bonaduz;
 - c) Hirschregion Dreibündenstein: Areal Domleschg Nord, Domleschg Süd oder Areal Chur – Ems – Churwalden;
 - d) Hirschregion Hinterrhein: Areal Schams oder Teilregion Rheinwald/Ferrera – Avers;
 - e) Hirschregion Mittelbünden: Areal Davos (ohne Wiesen), Gemeinde Bergün Filisur, Albulatal – Brienz – Obervaz (ohne Gemeinde Bergün Filisur) oder Areal Surses;
@@ -707,6 +710,13 @@ von der Regierung erlassen am 27. Juni 2023
 - c) für zweijährige und ältere weibliche Hirsche — Fr. 4.–/kg
 - d) kranke und verletzte Tiere, die nicht verwertbar sind — keine Gebühr
 
+<sup>2</sup> Liegt die quantitative Erfüllung des kantonalen Abschussplans nach der Hochjagd unter 70 Prozent, beträgt die Abschussgebühr:
+
+- a) für Kälber — Fr. 1.–/kg
+- b) für einjährige Hirsche — Fr. 2.–/kg
+- c) für zweijährige und ältere weibliche Hirsche — Fr. 2.–/kg
+- d) kranke und verletzte Tiere, die nicht verwertbar sind — keine Gebühr
+
 ### 3.3. Rehwild
 
 #### Art. 69
@@ -771,13 +781,13 @@ von der Regierung erlassen am 27. Juni 2023
 
 **Jagd- und Schusszeiten**
 
-<sup>1</sup> Die Steinwildjagd wird in der Zeit vom 5. Oktober bis und mit 5. November durchgeführt. In einigen Kolonien erfolgt eine gestaffelte Zulassung oder wird die Jagd für mehrere Tage unterbrochen.
+<sup>1</sup> Die Steinwildjagd wird in der Zeit vom 5. Oktober bis und mit 8. November durchgeführt. In einigen Kolonien erfolgt eine gestaffelte Zulassung oder wird die Jagd für mehrere Tage unterbrochen.
 
 <sup>2</sup> Es gelten folgende Schusszeiten:
 
-- a) vom 5. bis 15. Oktober 2023 von 07.00 Uhr bis 19.30 Uhr;
-- b) vom 16. bis 28. Oktober 2023 von 07.15 Uhr bis 19.00 Uhr;
-- c) vom 29. Oktober bis 5. November 2023 von 06.30 Uhr bis 17.30 Uhr.
+- a) vom 5. bis 15. Oktober 2024 von 07.00 Uhr bis 19.30 Uhr;
+- b) vom 16. bis 28. Oktober 2024 von 07.15 Uhr bis 19.00 Uhr;
+- c) vom 29. Oktober bis 8. November 2024 von 06.30 Uhr bis 17.30 Uhr.
 
 #### Art. 77
 
@@ -801,9 +811,7 @@ von der Regierung erlassen am 27. Juni 2023
 
 **Abschussplan**
 
-<sup>1</sup> Im Abschussplan wird nach Steinwildkolonien die Anzahl weiblicher und männlicher Tiere festgelegt, die den Beständen zu entnehmen ist. Bei den männlichen Tieren ist der Plan zusätzlich nach Altersklassen aufgeschlüsselt. Der vom Bundesamt für Umwelt genehmigte Abschussplan 2023[^78-1] ist im Anhang 8 aufgeführt.
-
-[^78-1]: genehmigt am 30. April 2023
+<sup>1</sup> Im Abschussplan wird nach Steinwildkolonien die Anzahl weiblicher und männlicher Tiere festgelegt, die den Beständen zu entnehmen ist. Bei den männlichen Tieren ist der Plan zusätzlich nach Altersklassen aufgeschlüsselt. Der Abschussplan 2024 ist im Anhang 8 aufgeführt.
 
 #### Art. 79
 
@@ -841,10 +849,10 @@ von der Regierung erlassen am 27. Juni 2023
 
 <sup>2</sup> Es gelten folgende Schusszeiten:
 
-- a) vom 1. bis 15. Oktober 2023 von 07.00 Uhr bis 19.30 Uhr;
-- b) vom 16. bis 28. Oktober 2023 von 07.15 Uhr bis 19.00 Uhr;
-- c) vom 29. Oktober bis 15. November 2023 von 06.30 Uhr bis 17.30 Uhr;
-- d) vom 16. bis 30. November 2023 von 06.45 Uhr bis 17.30 Uhr.
+- a) vom 1. bis 15. Oktober 2024 von 07.00 Uhr bis 19.30 Uhr;
+- b) vom 16. bis 28. Oktober 2024 von 07.15 Uhr bis 19.00 Uhr;
+- c) vom 29. Oktober bis 15. November 2024 von 06.30 Uhr bis 17.30 Uhr;
+- d) vom 16. bis 30. November 2024 von 06.45 Uhr bis 17.30 Uhr.
 
 #### Art. 83
 
@@ -856,7 +864,7 @@ von der Regierung erlassen am 27. Juni 2023
 
 **Örtliche Einschränkungen**
 
-<sup>1</sup> Vom 1. Oktober bis und mit 6. Oktober 2023 sowie vom 22. Oktober bis und mit 31. Oktober 2023 dürfen Füchse, Dachse, Edel- und Steinmarder sowie Waschbären, Marderhunde und Bisamratten in den Jagdbezirken I, II, III, V, VI, X, XI und XII ohne zeitliche Einschränkungen bejagt werden.
+<sup>1</sup> Vom 10. Oktober bis und mit 24. Oktober 2024 dürfen Füchse, Dachse, Edel- und Steinmarder sowie Waschbären, Marderhunde und Bisamratten in den Jagdbezirken I, II, III, V, VI, X, XI und XII ohne zeitliche Einschränkungen bejagt werden.
 
 <sup>2</sup> Die Jagdbezirke entsprechen der Einteilung gemäss Anhang 4.
 
@@ -880,7 +888,7 @@ von der Regierung erlassen am 27. Juni 2023
 
 **Zeitliche Einschränkung, Kontingent**
 
-<sup>1</sup> Vom 21. November bis und mit 30. November 2023 dürfen Hasen nicht bejagt werden.
+<sup>1</sup> Vom 21. November bis und mit 30. November 2024 dürfen Hasen nicht bejagt werden.
 
 <sup>2</sup> Jede Jägerin und jeder Jäger darf insgesamt acht Hasen, am gleichen Tag jedoch höchstens zwei Hasen erlegen.
 
@@ -936,7 +944,7 @@ von der Regierung erlassen am 27. Juni 2023
 
 **Jagd- und Schusszeiten**
 
-<sup>1</sup> Die Passjagd dauert vom 1. November 2023 bis und mit 29. Februar 2024 mit einer Unterbrechung an Weihnachten (24. Dezember bis und mit 26. Dezember). Die Passjagd darf von 17.30 Uhr bis 06.30 Uhr ausgeübt werden.
+<sup>1</sup> Die Passjagd dauert vom 1. November 2024 bis und mit 28. Februar 2025 mit einer Unterbrechung an Weihnachten (24. Dezember bis und mit 26. Dezember). Die Passjagd darf von 17.30 Uhr bis 06.30 Uhr ausgeübt werden.
 
 #### Art. 93
 
@@ -948,7 +956,7 @@ von der Regierung erlassen am 27. Juni 2023
 
 **Jagdbares Wild, zeitliche und örtliche Einschränkung**
 
-<sup>1</sup> Erlegt werden dürfen: Füchse (bis 29. Februar 2024), Dachse (bis 15. Januar 2024), Edel- und Steinmarder (bis 15. Februar 2024), Marderhunde, Waschbären und Bisamratten (bis 29. Februar 2024).
+<sup>1</sup> Erlegt werden dürfen: Füchse (bis 28. Februar 2025), Dachse (bis 15. Januar 2025), Edel- und Steinmarder (bis 15. Februar 2025), Marderhunde, Waschbären und Bisamratten (bis 28. Februar 2025).
 
 <sup>2</sup> In rechtskräftig ausgeschiedenen Wildruhezonen ist die Passjagd verboten. In Gebieten mit ständigem Wolfsvorkommen kann die Wildhut Passorte aufheben oder verbieten, sofern kein angemessener Abstand zum Siedlungsgebiet eingehalten wird.
 
