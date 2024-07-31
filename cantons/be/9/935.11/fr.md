@@ -4,13 +4,12 @@ number: "935.11"
 title: "Loi sur l'hôtellerie et la restauration"
 short: LHR
 language: fr
-version: 2021-07-01
-valid_until: 2024-07-31
-version_adopted: 2021-03-07
+version: 2024-08-01
+version_adopted: 2023-11-28
 adopted: 1993-11-11
 in_force: 1994-07-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/935.11"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2291/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3052/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2291/pdf_file"
 
 (LHR)
 
-du 11.11.1993 (état au 01.07.2021)
+du 11.11.1993 (état au 01.08.2024)
 
 Le Grand Conseil du canton de Berne,
 
@@ -361,7 +360,9 @@ arrête:
 
 <sup>2</sup> Les documents sont conservés en bon ordre pendant au moins cinq ans et mis à la disposition des organes de contrôle à tout moment pour consultation.
 
-<sup>3</sup> Les prescriptions fédérales sur la déclaration d'arrivée des étrangers sont réservées.
+<sup>3</sup> Au surplus, l'article 129 de la loi du 10 février 2019 sur la police (LPol)[^24-1] s'applique. Les prescriptions fédérales sur la déclaration d'arrivée des étrangers sont réservées.
+
+[^24-1]: RSB [551.1](https://www.belex.sites.be.ch/data/551.1/fr)
 
 #### Art. 25
 

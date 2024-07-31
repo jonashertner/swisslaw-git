@@ -4,13 +4,12 @@ number: "935.11"
 title: Gastgewerbegesetz
 short: GGG
 language: de
-version: 2021-07-01
-valid_until: 2024-07-31
-version_adopted: 2021-03-07
+version: 2024-08-01
+version_adopted: 2023-11-28
 adopted: 1993-11-11
 in_force: 1994-07-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/935.11"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2291/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3052/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2291/pdf_file"
 
 (GGG)
 
-vom 11.11.1993 (Stand 01.07.2021)
+vom 11.11.1993 (Stand 01.08.2024)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -361,7 +360,9 @@ beschliesst:
 
 <sup>2</sup> Die Unterlagen sind mindestens fünf Jahre geordnet aufzubewahren und den Kontrollorganen jederzeit zur Einsichtnahme zur Verfügung zu stellen.
 
-<sup>3</sup> Die eidgenössischen Vorschriften über die Anmeldung von Ausländerinnen und Ausländern bleiben vorbehalten.
+<sup>3</sup> Im Übrigen gilt Artikel 129 des Polizeigesetzes vom 10. Februar 2019 (PolG)[^24-1]. Die eidgenössischen Vorschriften über die Anmeldung von Ausländerinnen und Ausländern bleiben vorbehalten.
+
+[^24-1]: BSG [551.1](https://www.belex.sites.be.ch/data/551.1/de)
 
 #### Art. 25
 
