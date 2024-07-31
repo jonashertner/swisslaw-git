@@ -5,11 +5,12 @@ title: Ergänzende Verordnung über das Arbeitsverhältnis der Mittelschul-Lehrp
 short: EVA-MS
 language: de
 version: 2024-08-01
+corrected: 2024-06-17
 version_adopted: 2024-05-28
 adopted: 2004-06-15
 in_force: 2004-08-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/143.4"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3639/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3634/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -81,7 +82,7 @@ als Verordnung:[^ingress-2]
 
 **b) Zuständigkeit**
 
-<sup>1</sup> Das Amt für Mittelschulen reiht auf Antrag der Rektorin oder des Rektors die Lehrpersonen nach dem Anhang zu diesem Erlass ein. Es kann Lehrpersonen mit langjähriger Berufserfahrung in eine andere Laufbahn einreihen.
+<sup>1</sup> Das Amt für Mittelschulen reiht auf Antrag der Rektorin oder des Rektors die Lehrpersonen nach dem Anhang zu diesem Erlass ein.
 
 <sup>2</sup> Wer vor Abschluss der Ausbildung an einer nicht-st.gallischen staatlichen oder staatlich anerkannten Schule der Sekundarstufe II unterrichtet hat, wird eingereiht, wie wenn sie oder er vor abgeschlossener Ausbildung an einer staatlichen st.gallischen Mittelschule unterrichtet hätte.
 
@@ -89,18 +90,15 @@ als Verordnung:[^ingress-2]
 
 **c) Laufbahnjahre 1. Tätigkeiten**
 
-<sup>1</sup> Voll als Laufbahnjahr gemäss Anhang zu dieser Verordnung wird angerechnet:
-
-- a) Unterricht an einer staatlichen oder staatlich anerkannten Schule nach abgeschlossener Ausbildung;
-- b) andere Berufstätigkeit nach entsprechender abgeschlossener Ausbildung mit einem Beschäftigungsumfang von wenigstens 50 Prozent und mit Bezug zum Berufsauftrag.
+<sup>1</sup> Voll als Laufbahnjahr gemäss Anhang zu dieser Verordnung wird Unterricht an einer staatlichen oder staatlich anerkannten Schule der Sekundarstufe II nach abgeschlossener Ausbildung angerechnet.
 
 <sup>2</sup> Zur Hälfte als Laufbahnjahr wird angerechnet:
 
-- a) …
-- b) andere Berufstätigkeit nach entsprechender abgeschlossener Ausbildung mit einem Beschäftigungsumfang von wenigstens 50 Prozent ohne Bezug zum Berufsauftrag;
+- a) der übrige Unterricht auf einer anderen Schulstufe nach entsprechender abgeschlossener Ausbildung;
+- b) andere Berufstätigkeit nach entsprechender abgeschlossener Ausbildung mit einem Beschäftigungsumfang von wenigstens 50 Prozent und mit Bezug zum Berufsauftrag;
 - c) Erziehungsarbeit.
 
-<sup>3</sup> …
+<sup>3</sup> Zu einem Viertel als Laufbahnjahr wird eine andere Berufstätigkeit nach entsprechender abgeschlossener Ausbildung mit einem Beschäftigungsgrad von wenigstens 50 Prozent ohne Bezug zum Berufsauftrag angerechnet.
 
 #### Art. 8
 
@@ -142,11 +140,11 @@ als Verordnung:[^ingress-2]
 
 **b) fehlende Voraussetzungen**
 
-<sup>1</sup> Wer die Voraussetzungen von Art. 49 des Mittelschulgesetzes vom 12. Juni 1980[^12-1] nicht erfüllt, kann innerhalb einer Laufbahn höchstens drei Mal befördert werden.
+<sup>1</sup> Wer die Voraussetzungen von Art. 49 des Mittelschulgesetzes vom 12. Juni 1980[^12-1] nicht erfüllt, kann innerhalb einer Lohnklasse höchstens drei Mal befördert werden.
 
-<sup>2</sup> …
+<sup>2</sup> Der Wechsel der Lohnklasse ist ausgeschlossen.
 
-<sup>3</sup> Bei Erfüllung der Voraussetzungen erfolgt die Einreihung in den nächsthöheren Lohn der neuen Laufbahn. Ist die Lehrperson bereits in der Laufbahn 145 oder 143 gemäss Anhang zu diesem Erlass eingereiht, erfolgt keine Lohnerhöhung.
+<sup>3</sup> Bei Erfüllung der Voraussetzungen erfolgt die Einreihung in den nächsthöheren Lohn der neuen Laufbahn.
 
 [^12-1]: sGS [215.1](https://www.gesetzessammlung.sg.ch/data/215.1/de).
 
@@ -206,10 +204,6 @@ als Verordnung:[^ingress-2]
 **c) erweiterter Auftrag**
 
 <sup>1</sup> Bei einem Beschäftigungsgrad von 100 Prozent beträgt der erweiterte Auftrag 6 Stellenprozente. Bei einem geringeren Beschäftigungsgrad wird der Umfang des erweiterten Auftrags anteilmässig angepasst.
-
-<sup>2</sup> Bei neu angestellten Lehrpersonen ohne Berufserfahrung an einer Mittelschule wird der Umfang des erweiterten Auftrags in den ersten beiden Anstellungsjahren verdoppelt.
-
-<sup>3</sup> Das Amt für Mittelschulen kann in begründeten Fällen auf Antrag der Rektorin oder des Rektors den Umfang des erweiterten Auftrags anpassen.
 
 #### Art. 14d
 
@@ -336,12 +330,6 @@ als Verordnung:[^ingress-2]
 <sup>3</sup> Die Differenz zwischen dem Beschäftigungsgrad und den für die Unterrichtsverpflichtung eingesetzten Stellenprozenten wird auf die für die Ausübung von Schulleitungsfunktionen zur Verfügung stehende Summe der Stellenprozente nach Art. 14d Abs. 2 dieses Erlasses angerechnet.
 
 ## IV. Schlussbestimmungen
-
-#### Art. 21a
-
-**Übergangsbestimmung des VII. Nachtrags vom 28. Mai 2024**
-
-<sup>1</sup> Die Änderungen von Art. 7 nach dem VII. Nachtrag zu diesem Erlass werden angewendet auf Arbeitsverhältnisse, die ab 1. August 2024 oder später beginnen.
 
 #### Art. 22
 
