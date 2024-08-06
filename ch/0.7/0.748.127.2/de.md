@@ -3,11 +3,11 @@ sr: "0.748.127.2"
 title: Mehrseitiges Abkommen vom 30. April 1956 über die Verkehrsrechte für Beförderungen im nicht regelmässigen Luftverkehr in Europa
 eli: "https://fedlex.data.admin.ch/eli/cc/1957/481_481_499"
 language: de
-version: 2019-11-14
+version: 2024-08-07
 adopted: 1956-04-30
 in_force: 1957-08-21
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1957/481_481_499/20191114/de/xml/fedlex-data-admin-ch-eli-cc-1957-481_481_499-20191114-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1957/481_481_499/20191114/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1957/481_481_499/20240807/de/xml/fedlex-data-admin-ch-eli-cc-1957-481_481_499-20240807-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1957/481_481_499/20240807/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -24,7 +24,7 @@ Von der Bundesversammlung genehmigt am 4. März 1957[^t-1]
 
 In Kraft getreten am 23. Juli 1957
 
-(Stand am 14. November 2019)
+(Stand am 7. August 2024)
 
 [^t-1]: Achter Gegenstand des BB vom 4. März 1957 ([AS 1957 425](https://fedlex.data.admin.ch/eli/oc/1957/425_425_443))
 
@@ -143,9 +143,9 @@ Der Generalsekretär der Internationalen Zivilluftfahrtorganisation wird dem Pr�
 
 Dieses Abkommen findet auf alle Gebiete im Mutterland der Vertragsstaaten Anwendung. Ausgenommen sind die entfernten Inseln im Atlantischen Ozean und die Inseln mit halb‑souveränem Status, für die jeder Vertragsstaat bei der Hinterlegung seiner Ratifikations‑ oder Beitrittsurkunde erklären kann, dass dieses Abkommen keine Anwendung finde.
 
-*Zu Urkund dessen* haben die gehörig ermächtigten Unterzeichneten im Namen ihrer Regierung ihre Unterschrift hingesetzt. Geschehen zu Paris, am dreissigsten Tag des Monats April des Jahres eintausendneunhundertsechsundfünfzig, in zweifacher Ausfertigung, in englischer, französischer und spanischer Sprache, welche in gleicher Weise gültig sind. Dieses Abkommen wird bei der Internationalen Zivilluftfahrtorganisation hinterlegt, welche davon entsprechende beglaubigte Abschriften allen Mitgliedstaaten der Organisation zustellen wird.
+*Zu Urkund dessen* haben die gehörig ermächtigten Unterzeichneten im Namen ihrer Regierung ihre Unterschrift hingesetzt. Geschehen zu Paris, am dreissigsten Tag des Monats April des Jahres eintausendneunhundertsechsundfünfzig, in zweifacher Ausfertigung, in englischer, französischer und spanischer Sprache, welche in gleicher Weise gültig sind. Dieses Abkommen wird bei der Internationalen Zivilluftfahrtorganisation hinterlegt, welche davon entsprechende beglaubigte Abschriften allen Mitgliedstaaten der Organisation zustellen wird. (Es folgen die Unterschriften)
 
-Geltungsbereich am 14. November 2019**[^t-2]**
+Geltungsbereich am 7. August 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th colspan="2">Inkrafttreten</th><th></th></tr>
@@ -160,7 +160,7 @@ Geltungsbereich am 14. November 2019**[^t-2]**
 <tr><td>Kroatien</td><td>2. Juli</td><td>1999 B</td><td colspan="2">2. Oktober</td><td>1999</td></tr>
 <tr><td>Luxemburg</td><td>23. Dezember</td><td>1963</td><td colspan="2">23. März</td><td>1964</td></tr>
 <tr><td>Moldau</td><td>23. Dezember</td><td>1998 B</td><td colspan="2">23. März</td><td>1999</td></tr>
-<tr><td>Monaco</td><td>19. Januar</td><td>2017 B</td><td colspan="2">19. Januar</td><td>2017</td></tr>
+<tr><td>Monaco</td><td>19. Januar</td><td>2017 B</td><td colspan="2">19. April</td><td>2017</td></tr>
 <tr><td>Niederlande <sup>a</sup></td><td>20. Januar</td><td>1958</td><td colspan="2">20. April</td><td>1958</td></tr>
 <tr><td>Norwegen</td><td>5. August</td><td>1957</td><td colspan="2">5. November</td><td>1957</td></tr>
 <tr><td>Österreich</td><td>21. Mai</td><td>1957</td><td colspan="2">21. August</td><td>1957</td></tr>
@@ -168,7 +168,7 @@ Geltungsbereich am 14. November 2019**[^t-2]**
 <tr><td>San Marino</td><td>17. Mai</td><td>2016 B</td><td colspan="2">17. August</td><td>2016</td></tr>
 <tr><td>Schweden</td><td>13. August</td><td>1957</td><td colspan="2">13. November</td><td>1957</td></tr>
 <tr><td>Schweiz</td><td>2. April</td><td>1957</td><td colspan="2">21. August</td><td>1957</td></tr>
-<tr><td>Serbien</td><td>21. März</td><td>2017 B</td><td colspan="2">21. März</td><td>2017</td></tr>
+<tr><td>Serbien</td><td>21. März</td><td>2017 B</td><td colspan="2">21. Juni</td><td>2017</td></tr>
 <tr><td>Spanien</td><td>30. Mai</td><td>1957</td><td colspan="2">30. August</td><td>1957</td></tr>
 <tr><td>Türkei</td><td>4. November</td><td>1958</td><td colspan="2">4. Februar</td><td>1959</td></tr>
 <tr><td>Ungarn</td><td>16. November</td><td>1993 B</td><td colspan="2">14. Februar</td><td>1994</td></tr>
@@ -179,4 +179,4 @@ Geltungsbereich am 14. November 2019**[^t-2]**
 <tr><td colspan="6"><sup>b</sup> Das Abk. gilt nur für das portugiesische Mutterland unter Ausschluss der Inseln Madeira und Azoren.</td></tr>
 </table>
 
-[^t-2]: [AS 1972 1586](https://fedlex.data.admin.ch/eli/oc/1972/1586_1619_1791), [2009 2549](https://fedlex.data.admin.ch/eli/oc/2009/326), [2013 2665](https://fedlex.data.admin.ch/eli/oc/2013/540)und [2019 3789](https://fedlex.data.admin.ch/eli/oc/2019/688). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1972 1586](https://fedlex.data.admin.ch/eli/oc/1972/1586_1619_1791); [2009 2549](https://fedlex.data.admin.ch/eli/oc/2009/326); [2013 2665](https://fedlex.data.admin.ch/eli/oc/2013/540); [2019 3789](https://fedlex.data.admin.ch/eli/oc/2019/688); [2024 406](https://fedlex.data.admin.ch/eli/oc/2024/406). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse: veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

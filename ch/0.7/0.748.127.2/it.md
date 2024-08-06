@@ -3,11 +3,11 @@ sr: "0.748.127.2"
 title: Accordo multilaterale del 30 aprile 1956 concernente i diritti commerciali per i trasporti aerei non regolari in Europa
 eli: "https://fedlex.data.admin.ch/eli/cc/1957/481_481_499"
 language: it
-version: 2019-11-14
+version: 2024-08-07
 adopted: 1956-04-30
 in_force: 1957-08-21
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1957/481_481_499/20191114/it/xml/fedlex-data-admin-ch-eli-cc-1957-481_481_499-20191114-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1957/481_481_499/20191114/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1957/481_481_499/20240807/it/xml/fedlex-data-admin-ch-eli-cc-1957-481_481_499-20240807-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1957/481_481_499/20240807/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conchiuso a Parigi il 30 aprile 1956 Approvato dall’Assemblea federale il 4 marzo 1957[^t-1] Entrato in vigore il 23 luglio 1957
 
-(Stato 14 novembre 2019)
+(Stato 7 agosto 2024)
 
 [^t-1]: DF del 4 mar. 1957 ([RU 1957 443](https://fedlex.data.admin.ch/eli/oc/1957/425_425_443)).
 
@@ -141,40 +141,42 @@ Il segretario generale dell’Organizzazione della navigazione aerea civile inte
 
 Il presente accordo è applicabile a tutti i territori metropolitani degli Stati contraenti, a eccezione delle isole lontane nell’Oceano Atlantico e delle isole il cui statuto è semi-indipendente rispetto alle quali ciascuno Stato contraente può dichiarare, all’atto del deposito del suo strumento di ratificazione del suo strumento di adesione, che il presente accordo non è applicabile.
 
-*In fede di che,* i sottoscritti, debitamente autorizzati, hanno apposto la firma a nome del loro Governo. Fatto a Parigi, il trentesimo giorno del mese di aprile dell’anno millenovecentocinquantasei, in doppio esemplare, nella lingua inglese, francese e spagnuola, ciascuno di questi testi facendo parimente fede. Il presente accordo sarà depositato presso l’Organizzazione della navigazione aerea civile internazionale, che dovrà inviarne copie certificate conformi a tutti gli Stati membri dell’Organizzazione. *(Seguono le firme)*
+*In fede di che,* i sottoscritti, debitamente autorizzati, hanno apposto la firma a nome del loro Governo. Fatto a Parigi, il trentesimo giorno del mese di aprile dell’anno millenovecentocinquantasei, in doppio esemplare, nella lingua inglese, francese e spagnuola, ciascuno di questi testi facendo parimente fede. Il presente accordo sarà depositato presso l’Organizzazione della navigazione aerea civile internazionale, che dovrà inviarne copie certificate conformi a tutti gli Stati membri dell’Organizzazione.
 
-Campo d’applicazione il 14 novembre 2019**[^t-2]**
+(Seguono le firme)
+
+Campo d’applicazione il 7 agosto 2024[^t-2]
 
 <table>
-<tr><th colspan="2">Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th colspan="4"></th></tr>
-<tr><td colspan="2">Austria</td><td>21 maggio</td><td>1957</td><td>21 agosto</td><td colspan="4">1957</td></tr>
-<tr><td colspan="2">Belgio</td><td>22 aprile</td><td>1960</td><td>22 luglio</td><td colspan="4">1960</td></tr>
-<tr><td colspan="2">Croazia</td><td>2 luglio</td><td>1999 A</td><td>2 ottobre</td><td colspan="4">1999</td></tr>
-<tr><td colspan="2">Danimarca</td><td>12 settembre</td><td>1957</td><td>12 dicembre</td><td colspan="4">1957</td></tr>
-<tr><td colspan="2">Estonia</td><td>4 aprile</td><td>2001 A</td><td>4 luglio</td><td colspan="4">2001</td></tr>
-<tr><td colspan="2">Finlandia</td><td>6 novembre</td><td>1957</td><td>6 febbraio</td><td colspan="4">1958</td></tr>
-<tr><td colspan="2">Francia</td><td>5 giugno</td><td>1957</td><td>5 settembre</td><td colspan="4">1957</td></tr>
-<tr><td colspan="2">Germania</td><td>11 settembre</td><td>1959</td><td>11 dicembre</td><td colspan="4">1959</td></tr>
-<tr><td colspan="2">Irlanda</td><td>2 agosto</td><td>1961</td><td>2 novembre</td><td colspan="4">1961</td></tr>
-<tr><td colspan="2">Islanda</td><td>25 settembre</td><td>1961</td><td>25 dicembre</td><td colspan="4">1961</td></tr>
-<tr><td colspan="2">Lussemburgo</td><td>23 dicembre</td><td>1963</td><td>23 marzo</td><td colspan="4">1964</td></tr>
-<tr><td colspan="2">Moldova</td><td>23 dicembre</td><td>1998 A</td><td>23 marzo</td><td colspan="4">1999</td></tr>
-<tr><td colspan="2">Monaco</td><td>19 gennaio</td><td>2017 A</td><td>19 gennaio</td><td colspan="4">2017</td></tr>
-<tr><td colspan="2">Norvegia</td><td>5 agosto</td><td>1957</td><td>5 novembre</td><td colspan="4">1957</td></tr>
-<tr><td colspan="2">Paesi Bassi <sup>a</sup></td><td>20 gennaio</td><td>1958</td><td>20 aprile</td><td colspan="4">1958</td></tr>
-<tr><td colspan="2">Portogallo <sup>b</sup></td><td>17 ottobre</td><td>1958</td><td>17 gennaio</td><td colspan="4">1959</td></tr>
-<tr><td colspan="2">Regno Unito</td><td>11 gennaio</td><td>1960 A</td><td>11 aprile</td><td colspan="4">1960</td></tr>
-<tr><td colspan="2">Isola di Man</td><td>11 gennaio</td><td>1960</td><td>11 aprile</td><td colspan="4">1960</td></tr>
-<tr><td colspan="2">Isole del Canale</td><td>11 gennaio</td><td>1960</td><td>11 aprile</td><td colspan="4">1960</td></tr>
-<tr><td colspan="2">San Marino</td><td>17 maggio</td><td>2016 A</td><td>17 agosto</td><td colspan="4">2016</td></tr>
-<tr><td colspan="2">Serbia</td><td>21 marzo</td><td>2017 A</td><td>21 marzo</td><td colspan="4">2017</td></tr>
-<tr><td colspan="2">Spagna</td><td>30 maggio</td><td>1957</td><td>30 agosto</td><td colspan="4">1957</td></tr>
-<tr><td colspan="2">Svezia</td><td>13 agosto</td><td>1957</td><td>13 novembre</td><td colspan="4">1957</td></tr>
-<tr><td colspan="2">Svizzera</td><td>2 aprile</td><td>1957</td><td>21 agosto</td><td colspan="4">1957</td></tr>
-<tr><td colspan="2">Turchia</td><td>4 novembre</td><td>1958</td><td>4 febbraio</td><td colspan="4">1959</td></tr>
-<tr><td colspan="2">Ungheria</td><td>16 novembre</td><td>1993 A</td><td>14 febbraio</td><td colspan="4">1994</td></tr>
-<tr><td><sup>a</sup></td><td colspan="5">Per il Regno in Europa.</td><td></td><td></td><td></td></tr>
-<tr><td><sup>b</sup></td><td colspan="5">L’Acc. s’applica unicamente al territorio metropolitano, ad esclusione delle isole adiacenti di Madera e delle Azzorre.</td><td></td><td></td><td></td></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Austria</td><td>21 maggio</td><td>1957</td><td>21 agosto</td><td>1957</td></tr>
+<tr><td>Belgio</td><td>22 aprile</td><td>1960</td><td>22 luglio</td><td>1960</td></tr>
+<tr><td>Croazia</td><td>2 luglio</td><td>1999 A</td><td>2 ottobre</td><td>1999</td></tr>
+<tr><td>Danimarca</td><td>12 settembre</td><td>1957</td><td>12 dicembre</td><td>1957</td></tr>
+<tr><td>Estonia</td><td>4 aprile</td><td>2001 A</td><td>4 luglio</td><td>2001</td></tr>
+<tr><td>Finlandia</td><td>6 novembre</td><td>1957</td><td>6 febbraio</td><td>1958</td></tr>
+<tr><td>Francia</td><td>5 giugno</td><td>1957</td><td>5 settembre</td><td>1957</td></tr>
+<tr><td>Germania</td><td>11 settembre</td><td>1959</td><td>11 dicembre</td><td>1959</td></tr>
+<tr><td>Irlanda</td><td>2 agosto</td><td>1961</td><td>2 novembre</td><td>1961</td></tr>
+<tr><td>Islanda</td><td>25 settembre</td><td>1961</td><td>25 dicembre</td><td>1961</td></tr>
+<tr><td>Lussemburgo</td><td>23 dicembre</td><td>1963</td><td>23 marzo</td><td>1964</td></tr>
+<tr><td>Moldova</td><td>23 dicembre</td><td>1998 A</td><td>23 marzo</td><td>1999</td></tr>
+<tr><td>Monaco</td><td>19 gennaio</td><td>2017 A</td><td>19 aprile</td><td>2017</td></tr>
+<tr><td>Norvegia</td><td>5 agosto</td><td>1957</td><td>5 novembre</td><td>1957</td></tr>
+<tr><td>Paesi Bassi <sup>a</sup></td><td>20 gennaio</td><td>1958</td><td>20 aprile</td><td>1958</td></tr>
+<tr><td>Portogallo <sup>b</sup></td><td>17 ottobre</td><td>1958</td><td>17 gennaio</td><td>1959</td></tr>
+<tr><td>Regno Unito</td><td>11 gennaio</td><td>1960 A</td><td>11 aprile</td><td>1960</td></tr>
+<tr><td>Isola di Man</td><td>11 gennaio</td><td>1960</td><td>11 aprile</td><td>1960</td></tr>
+<tr><td>Isole del Canale</td><td>11 gennaio</td><td>1960</td><td>11 aprile</td><td>1960</td></tr>
+<tr><td>San Marino</td><td>17 maggio</td><td>2016 A</td><td>17 agosto</td><td>2016</td></tr>
+<tr><td>Serbia</td><td>21 marzo</td><td>2017 A</td><td>21 giugno</td><td>2017</td></tr>
+<tr><td>Spagna</td><td>30 maggio</td><td>1957</td><td>30 agosto</td><td>1957</td></tr>
+<tr><td>Svezia</td><td>13 agosto</td><td>1957</td><td>13 novembre</td><td>1957</td></tr>
+<tr><td>Svizzera</td><td>2 aprile</td><td>1957</td><td>21 agosto</td><td>1957</td></tr>
+<tr><td>Turchia</td><td>4 novembre</td><td>1958</td><td>4 febbraio</td><td>1959</td></tr>
+<tr><td>Ungheria</td><td>16 novembre</td><td>1993 A</td><td>14 febbraio</td><td>1994</td></tr>
+<tr><td colspan="5"><sup>a</sup> Per il Regno in Europa.</td></tr>
+<tr><td colspan="5"><sup>b</sup> L’Acc. s’applica unicamente al territorio metropolitano, ad esclusione delle isole adiacenti di Madera e delle Azzorre.</td></tr>
 </table>
 
-[^t-2]: [RU 1972 1791](https://fedlex.data.admin.ch/eli/oc/1972/1586_1619_1791), [2009 2549](https://fedlex.data.admin.ch/eli/oc/2009/326), [2013 2665](https://fedlex.data.admin.ch/eli/oc/2013/540), **2019** 3798. Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1972 1791](https://fedlex.data.admin.ch/eli/oc/1972/1586_1619_1791); [2009 2549](https://fedlex.data.admin.ch/eli/oc/2009/326); [2013 2665](https://fedlex.data.admin.ch/eli/oc/2013/540); [2019 3789](https://fedlex.data.admin.ch/eli/oc/2019/688); [2024 406](https://fedlex.data.admin.ch/eli/oc/2024/406). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

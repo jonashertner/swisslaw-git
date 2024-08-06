@@ -3,11 +3,11 @@ sr: "0.748.127.2"
 title: Accord multilatéral du 30 avril 1956 sur les droits commerciaux pour les transports aériens non réguliers en Europe
 eli: "https://fedlex.data.admin.ch/eli/cc/1957/481_481_499"
 language: fr
-version: 2019-11-14
+version: 2024-08-07
 adopted: 1956-04-30
 in_force: 1957-08-21
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1957/481_481_499/20191114/fr/xml/fedlex-data-admin-ch-eli-cc-1957-481_481_499-20191114-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1957/481_481_499/20191114/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1957/481_481_499/20240807/fr/xml/fedlex-data-admin-ch-eli-cc-1957-481_481_499-20240807-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1957/481_481_499/20240807/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,13 +18,9 @@ RO **1957** 481; FF **1956** II 534 881
 
 Texte original
 
-Conclu à Paris le 30 avril 1956
+Conclu à Paris le 30 avril 1956 Approuvé par l’Assemblée fédérale le 4 mars 1957[^t-1] Entré en vigueur le 23 juillet 1957
 
-Approuvé par l’Assemblée fédérale le 4 mars 1957[^t-1]
-
-Entré en vigueur le 23 juillet 1957
-
-(Etat le 14 novembre 2019)
+(État le 7 août 2024)
 
 [^t-1]: AF du 4 mars 1957 ([RO 1957 425](https://fedlex.data.admin.ch/eli/oc/1957/425_425_443))
 
@@ -36,7 +32,7 @@ considérant comme satisfaisant le régime que les dispositions de l’al. 1 de 
 
 désireux d’aboutir à un accord plus étendu au sujet du droit que l’al. 2 de l’art. 5 de la Convention accorde à leurs aéronefs commerciaux d’embarquer ou de débarquer des passagers, des marchandises ou du courrier lorsque ces aéronefs effectuent des transports internationaux contre rémunération ou en exécution d’un contrat de location ou d’affrètement en dehors des services aériens internationaux réguliers,
 
-ont conclu le présent Accord à cette fin.
+ont conclu le présent Accord à cette fin:
 
 [^ingress-1]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
 
@@ -145,9 +141,9 @@ Le Secrétaire général de l’Organisation de l’Aviation civile internationa
 
 Le présent Accord s’applique à tous les territoires métropolitains des États contractants, à l’exception des îles éloignées dans l’Océan Atlantique et des îles dont le statut est semi‑indépendant et à l’égard desquelles tout État contractant peut déclarer, lors du dépôt de son instrument de ratification ou de son instrument d’adhésion, que le présent Accord ne s’applique pas.
 
-*En foi de quoi,* les soussignés, dûment autorisés, ont apposé leur signature au nom de leur gouvernement. Fait à Paris, le trentième jour du mois d’avril de l’année mil neuf cent cinquante‑six, en double exemplaire, en anglais, français et espagnol, chacun de ces textes faisant également foi. Le présent Accord sera déposé auprès de l’Organisation de l’Aviation civile internationale, qui devra en envoyer des copies certifiées conformes à tous les États membres de l’Organisation.
+*En foi de quoi,* les soussignés, dûment autorisés, ont apposé leur signature au nom de leur gouvernement. Fait à Paris, le trentième jour du mois d’avril de l’année mil neuf cent cinquante‑six, en double exemplaire, en anglais, français et espagnol, chacun de ces textes faisant également foi. Le présent Accord sera déposé auprès de l’Organisation de l’Aviation civile internationale, qui devra en envoyer des copies certifiées conformes à tous les États membres de l’Organisation. *(Suivent les signatures)*
 
-Champ d’application le 14 novembre 2019**[^t-2]**
+Champ d’application le 7 août 2024[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -165,19 +161,19 @@ Champ d’application le 14 novembre 2019**[^t-2]**
 <tr><td>Islande</td><td>25 septembre</td><td>1961</td><td>25 décembre</td><td>1961</td></tr>
 <tr><td>Luxembourg</td><td>23 décembre</td><td>1963</td><td>23 mars</td><td>1964</td></tr>
 <tr><td>Moldova</td><td>23 décembre</td><td>1998 A</td><td>23 mars</td><td>1999</td></tr>
-<tr><td>Monaco</td><td>19 janvier</td><td>2017 A</td><td>19 janvier</td><td>2017</td></tr>
+<tr><td>Monaco</td><td>19 janvier</td><td>2017 A</td><td>19 avril</td><td>2017</td></tr>
 <tr><td>Norvège</td><td>5 août</td><td>1957</td><td>5 novembre</td><td>1957</td></tr>
 <tr><td>Pays-Bas <sup>a</sup></td><td>20 janvier</td><td>1958</td><td>20 avril</td><td>1958</td></tr>
 <tr><td>Portugal <sup>b</sup></td><td>17 octobre</td><td>1958</td><td>17 janvier</td><td>1959</td></tr>
 <tr><td>Royaume-Uni</td><td>11 janvier</td><td>1960 A</td><td>11 avril</td><td>1960</td></tr>
-<tr><td>[tab] Île de Man</td><td>11 janvier</td><td>1960</td><td>11 avril</td><td>1960</td></tr>
-<tr><td>[tab] Îles de la Manche</td><td>11 janvier</td><td>1960</td><td>11 avril</td><td>1960</td></tr>
+<tr><td>Île de Man</td><td>11 janvier</td><td>1960</td><td>11 avril</td><td>1960</td></tr>
+<tr><td>Îles de la Manche</td><td>11 janvier</td><td>1960</td><td>11 avril</td><td>1960</td></tr>
 <tr><td>Saint-Marin</td><td>17 mai</td><td>2016 A</td><td>17 août</td><td>2016</td></tr>
-<tr><td>Serbie</td><td>21 mars</td><td>2017 A</td><td>21 mars</td><td>2017</td></tr>
+<tr><td>Serbie</td><td>21 mars</td><td>2017 A</td><td>21 juin</td><td>2017</td></tr>
 <tr><td>Suède</td><td>13 août</td><td>1957</td><td>13 novembre</td><td>1957</td></tr>
 <tr><td>Suisse</td><td>2 avril</td><td>1957</td><td>21 août</td><td>1957</td></tr>
 <tr><td>Turquie</td><td>4 novembre</td><td>1958</td><td>4 février</td><td>1959</td></tr>
 <tr><td colspan="5"><sup>a</sup> Pour le Royaume en Europe. b L’accord ne vaut que pour le territoire de la métropole, sans les îles adjacentes de Madère et des Açores</td></tr>
 </table>
 
-[^t-2]: [RO 1972 1619](https://fedlex.data.admin.ch/eli/oc/1972/1586_1619_1791), [2009 2549](https://fedlex.data.admin.ch/eli/oc/2009/326), [2013 2665](https://fedlex.data.admin.ch/eli/oc/2013/540), [2019 3789](https://fedlex.data.admin.ch/eli/oc/2019/688). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1972 1619](https://fedlex.data.admin.ch/eli/oc/1972/1586_1619_1791); [2009 2549](https://fedlex.data.admin.ch/eli/oc/2009/326); [2013 2665](https://fedlex.data.admin.ch/eli/oc/2013/540); [2019 3789](https://fedlex.data.admin.ch/eli/oc/2019/688); [2024 406](https://fedlex.data.admin.ch/eli/oc/2024/406)Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
