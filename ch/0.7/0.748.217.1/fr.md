@@ -3,33 +3,30 @@ sr: "0.748.217.1"
 title: Convention du 19 juin 1948 relative à la reconnaissance internationale des droits sur aéronef
 eli: "https://fedlex.data.admin.ch/eli/cc/1960/1268_1324_1322"
 language: fr
-version: 2019-08-07
+version: 2024-08-07
 adopted: 1948-06-19
 in_force: 1961-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1960/1268_1324_1322/20190807/fr/xml/fedlex-data-admin-ch-eli-cc-1960-1268_1324_1322-20190807-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1960/1268_1324_1322/20190807/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1960/1268_1324_1322/20240807/fr/xml/fedlex-data-admin-ch-eli-cc-1960-1268_1324_1322-20240807-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1960/1268_1324_1322/20240807/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Convention relative à la reconnaissance internationale des droits sur aéronef
 
-[^t-1]ro Texte original
+RO **1960** 1324; FF **1959** I 433
 
-Conclue à Genève, le 19 juin 1948
+Texte original
 
-Approuvé par l’Assemblée fédérale le 22 septembre 1959[^t-2]
+Conclue à Genève, le 19 juin 1948 Approuvé par l’Assemblée fédérale le 22 septembre 1959[^t-1] Entrée en vigueur pour la Suisse le 1<sup>er</sup> janvier 1961
 
-Entrée en vigueur pour la Suisse le 1<sup>er</sup> janvier 1961
+(État le 7 août 2024)
 
-(Etat le 7 août 2019)
-
-[^t-1]: [RO 1960 1324](https://fedlex.data.admin.ch/eli/oc/1960/1268_1324_1322); [FF 1959 I 433](https://fedlex.data.admin.ch/eli/fga/1959/1_433_433_)
-[^t-2]: AF du 22 sept. 1959 ([RO 1960 1323](https://fedlex.data.admin.ch/eli/oc/1960/1267_1323_1321))
+[^t-1]: AF du 22 sept. 1959 ([RO 1960 1323](https://fedlex.data.admin.ch/eli/oc/1960/1267_1323_1321))
 
 Considérant que la Conférence de l’Aviation Civile Internationale, réunie à Chicago aux mois de novembre et décembre 1944, a recommandé l’adoption à une date rapprochée d’une Convention concernant le transfert de propriété d’aéronefs,
 
-Considérant qu’il est hautement désirable, dans l’intérêt de l’expansion future de l’aviation civile internationale, que des droits sur aéronef soient internationalement reconnus,
+considérant qu’il est hautement désirable, dans l’intérêt de l’expansion future de l’aviation civile internationale, que des droits sur aéronef soient internationalement reconnus,
 
 Les Soussignés, dûment autorisés, sont convenus, au nom de leurs Gouvernements respectifs, des dispositions suivantes:
 
@@ -146,7 +143,7 @@ Sauf dans le cas de vente forcée poursuivie conformément aux dispositions de l
 
 <sup>2</sup>
 
-Toutefois, les États contractants appliquent aux aéronefs immatriculés sur leur territoire :
+Toutefois, les États contractants appliquent aux aéronefs immatriculés sur leur territoire:
 
 - a. Les dispositions des Articles II, III, IX, et
 - b. Les dispositions de l’Article IV, sauf si le sauvetage ou les opérations conservatoires ont pris fin sur leur propre territoire.
@@ -221,7 +218,7 @@ La présente Convention reste ouverte à la signature jusqu’à ce qu’elle en
 
 *En foi de quoi,* les Plénipotentiaires soussignés, dûment autorisés, ont signé la présente Convention. Fait à Genève le dix‑neuvième jour du mois de juin de l’an mil neuf cent quarante‑huit, en français, anglais et espagnol, chacun de ces textes faisant également foi. La présente Convention sera déposée dans les archives de l’Organisation de l’aviation civile internationale où, conformément à l’Article XVIII, elle restera ouverte à la signature. (Suivent les signatures)
 
-Champ d’application le 7 août 2019**[^t-3]**
+Champ d’application le 7 août 2024[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -240,9 +237,9 @@ Champ d’application le 7 août 2019**[^t-3]**
 <tr><td>Brésil</td><td>3 juillet</td><td>1953</td><td>1<sup>er</sup> octobre</td><td>1953</td></tr>
 <tr><td>Cameroun</td><td>23 juillet</td><td>1969 A</td><td>21 octobre</td><td>1969</td></tr>
 <tr><td>Chili</td><td>19 décembre</td><td>1955</td><td>18 mars</td><td>1956</td></tr>
-<tr><td>Chine<sup>\*</sup></td><td>28 avril</td><td>2000 A</td><td>27 juillet</td><td>2000</td></tr>
-<tr><td>[tab] Macao <sup>a</sup></td><td>9 décembre</td><td>1999</td><td>20 décembre</td><td>1999</td></tr>
-<tr><td>Colombie</td><td>8 septembre</td><td>2006</td><td>7 décembre</td><td>2006</td></tr>
+<tr><td>Chine\*</td><td>28 avril</td><td>2000 A</td><td>27 août</td><td>2000</td></tr>
+<tr><td>Macao <sup>a</sup></td><td>9 décembre</td><td>1999</td><td>20 décembre</td><td>1999</td></tr>
+<tr><td>Colombie</td><td>8 septembre</td><td>2006</td><td>6 décembre</td><td>2006</td></tr>
 <tr><td>Congo (Brazzaville)</td><td>3 mai</td><td>1982 A</td><td>1<sup>er</sup> août</td><td>1982</td></tr>
 <tr><td>Côte d’Ivoire</td><td>23 août</td><td>1965 A</td><td>21 novembre</td><td>1965</td></tr>
 <tr><td>Croatie</td><td>5 octobre</td><td>1993 A</td><td>3 janvier</td><td>1994</td></tr>
@@ -252,7 +249,7 @@ Champ d’application le 7 août 2019**[^t-3]**
 <tr><td>El Salvador</td><td>14 août</td><td>1958 A</td><td>12 novembre</td><td>1958</td></tr>
 <tr><td>Équateur</td><td>14 juillet</td><td>1958 A</td><td>12 octobre</td><td>1958</td></tr>
 <tr><td>Estonie</td><td>31 décembre</td><td>1993 A</td><td>31 mars</td><td>1994</td></tr>
-<tr><td>États-Unis<sup>\*\*</sup></td><td>6 septembre</td><td>1949</td><td>17 septembre</td><td>1953</td></tr>
+<tr><td>États-Unis\*\*</td><td>6 septembre</td><td>1949</td><td>17 septembre</td><td>1953</td></tr>
 <tr><td>Éthiopie</td><td>7 juin</td><td>1979 A</td><td>5 septembre</td><td>1979</td></tr>
 <tr><td>France</td><td>27 février</td><td>1964</td><td>27 mai</td><td>1964</td></tr>
 <tr><td>Gabon</td><td>14 janvier</td><td>1970 A</td><td>14 avril</td><td>1970</td></tr>
@@ -269,7 +266,7 @@ Champ d’application le 7 août 2019**[^t-3]**
 <tr><td>Italie</td><td>6 décembre</td><td>1960</td><td>6 mars</td><td>1961</td></tr>
 <tr><td>Kenya</td><td>15 janvier</td><td>1997 A</td><td>15 avril</td><td>1997</td></tr>
 <tr><td>Kirghizistan</td><td>28 février</td><td>2000 A</td><td>28 mai</td><td>2000</td></tr>
-<tr><td>Koweït<sup>\*</sup></td><td>27 novembre</td><td>1979 A</td><td>25 février</td><td>1980</td></tr>
+<tr><td>Koweït\*</td><td>27 novembre</td><td>1979 A</td><td>25 février</td><td>1980</td></tr>
 <tr><td>Laos</td><td>4 juin</td><td>1956 A</td><td>2 septembre</td><td>1956</td></tr>
 <tr><td>Liban</td><td>11 avril</td><td>1969 A</td><td>10 juillet</td><td>1969</td></tr>
 <tr><td>Libye</td><td>5 mars</td><td>1973 A</td><td>4 juin</td><td>1973</td></tr>
@@ -281,7 +278,7 @@ Champ d’application le 7 août 2019**[^t-3]**
 <tr><td>Maroc</td><td>13 décembre</td><td>1993 A</td><td>13 mars</td><td>1994</td></tr>
 <tr><td>Maurice</td><td>17 avril</td><td>1991 A</td><td>16 juillet</td><td>1991</td></tr>
 <tr><td>Mauritanie</td><td>23 juillet</td><td>1962 A</td><td>21 octobre</td><td>1962</td></tr>
-<tr><td>Mexique<sup>\*</sup></td><td>5 avril</td><td>1950</td><td>17 septembre</td><td>1953</td></tr>
+<tr><td>Mexique\*</td><td>5 avril</td><td>1950</td><td>17 septembre</td><td>1953</td></tr>
 <tr><td>Monaco</td><td>14 décembre</td><td>1994 A</td><td>14 mars</td><td>1995</td></tr>
 <tr><td>Niger</td><td>27 décembre</td><td>1962 A</td><td>27 mars</td><td>1963</td></tr>
 <tr><td>Nigéria</td><td>10 mai</td><td>2002 A</td><td>8 août</td><td>2002</td></tr>
@@ -292,7 +289,7 @@ Champ d’application le 7 août 2019**[^t-3]**
 <tr><td>Pakistan</td><td>19 juin</td><td>1953</td><td>17 septembre</td><td>1953</td></tr>
 <tr><td>Panama</td><td>26 octobre</td><td>1998 A</td><td>24 janvier</td><td>1999</td></tr>
 <tr><td>Paraguay</td><td>26 septembre</td><td>1969 A</td><td>25 décembre</td><td>1969</td></tr>
-<tr><td>Pays-Bas<sup>\*</sup></td><td>1<sup>er</sup> septembre</td><td>1959</td><td>30 novembre</td><td>1959</td></tr>
+<tr><td>Pays-Bas\*</td><td>1<sup>er</sup> septembre</td><td>1959</td><td>30 novembre</td><td>1959</td></tr>
 <tr><td>Aruba</td><td>31 mars</td><td>1988 A</td><td>29 juin</td><td>1988</td></tr>
 <tr><td>Curaçao</td><td>31 mars</td><td>1988 A</td><td>29 juin</td><td>1988</td></tr>
 <tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>31 mars</td><td>1988 A</td><td>29 juin</td><td>1988</td></tr>
@@ -309,7 +306,7 @@ Champ d’application le 7 août 2019**[^t-3]**
 <tr><td>Seychelles</td><td>16 janvier</td><td>1979 A</td><td>16 avril</td><td>1979</td></tr>
 <tr><td>Slovénie</td><td>9 avril</td><td>1997 A</td><td>8 juillet</td><td>1997</td></tr>
 <tr><td>Sri Lanka</td><td>24 janvier</td><td>1994 A</td><td>24 avril</td><td>1994</td></tr>
-<tr><td>Suède<sup>\*</sup></td><td>16 novembre</td><td>1955</td><td>14 février</td><td>1956</td></tr>
+<tr><td>Suède\*</td><td>16 novembre</td><td>1955</td><td>14 février</td><td>1956</td></tr>
 <tr><td>Suisse</td><td>3 octobre</td><td>1960</td><td>1<sup>er</sup> janvier</td><td>1961</td></tr>
 <tr><td>Suriname</td><td>27 mars</td><td>2003 A</td><td>25 juin</td><td>2003</td></tr>
 <tr><td>Tadjikistan</td><td>20 mars</td><td>1996 A</td><td>18 juin</td><td>1996</td></tr>
@@ -321,7 +318,7 @@ Champ d’application le 7 août 2019**[^t-3]**
 <tr><td>Uruguay</td><td>21 août</td><td>1985 A</td><td>19 novembre</td><td>1985</td></tr>
 <tr><td>Vietnam</td><td>18 juin</td><td>1997 A</td><td>16 septembre</td><td>1997</td></tr>
 <tr><td>Zimbabwe</td><td>6 février</td><td>1987 A</td><td>7 mai</td><td>1987</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation Internationale de l’Aviation Civile (OACI): www.icao.int/ &gt; Français &gt; Recueil des traités &gt; Current lists of parties to multilateral air law treaties ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 12 mars 1986 au 19 déc. 1999, la Convention était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. À partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 9 déc. 1999, la Convention est également applicable à la RAS Macao à partir du 20 déc. 1999.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation Internationale de l’Aviation Civile (OACI): [www.icao.int](https://www.icao.int/secretariat/legal/Lists/traites%20de%20droit/AllItems.aspx) &gt; Français &gt; Au sujet de l’OACI &gt; Direction des affaires juridiques et des relations extérieures &gt; Recueil des traités &gt; Liste actualisée des parties aux traités de droit aérien ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 12 mars 1986 au 19 déc. 1999, la Convention était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. À partir du 20 déc. 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 9 déc. 1999, la Convention est également applicable à la RAS Macao à partir du 20 déc. 1999.</td></tr>
 </table>
 
-[^t-3]: [RO 1972 1621](https://fedlex.data.admin.ch/eli/oc/1972/1588_1621_1793), [1976 1861](https://fedlex.data.admin.ch/eli/oc/1976/1861_1861_1861), [1981 1440](https://fedlex.data.admin.ch/eli/oc/1981/1440_1440_1440), [1986 903](https://fedlex.data.admin.ch/eli/oc/1986/903_903_903), [1989 860](https://fedlex.data.admin.ch/eli/oc/1989/860_860_860), [2005 1607](https://fedlex.data.admin.ch/eli/oc/2005/250), [2009 77](https://fedlex.data.admin.ch/eli/oc/2009/17), [2019 2543](https://fedlex.data.admin.ch/eli/oc/2019/469). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (http://www.dfae.admin.ch/traites).
+[^t-2]: [RO 1972 1621](https://fedlex.data.admin.ch/eli/oc/1972/1588_1621_1793); [1976 1861](https://fedlex.data.admin.ch/eli/oc/1976/1861_1861_1861); [1981 1440](https://fedlex.data.admin.ch/eli/oc/1981/1440_1440_1440); [1986 903](https://fedlex.data.admin.ch/eli/oc/1986/903_903_903); [1989 860](https://fedlex.data.admin.ch/eli/oc/1989/860_860_860); [2005 1607](https://fedlex.data.admin.ch/eli/oc/2005/250); [2009 77](https://fedlex.data.admin.ch/eli/oc/2009/17); [2019 2543](https://fedlex.data.admin.ch/eli/oc/2019/469); [2024 407](https://fedlex.data.admin.ch/eli/oc/2024/407). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

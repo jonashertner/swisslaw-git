@@ -3,31 +3,26 @@ sr: "0.748.217.1"
 title: Convenzione del 19 giugno 1948 concernente il riconoscimento internazionale dei diritti sugli aeromobili
 eli: "https://fedlex.data.admin.ch/eli/cc/1960/1268_1324_1322"
 language: it
-version: 2019-08-07
+version: 2024-08-07
 adopted: 1948-06-19
 in_force: 1961-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1960/1268_1324_1322/20190807/it/xml/fedlex-data-admin-ch-eli-cc-1960-1268_1324_1322-20190807-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1960/1268_1324_1322/20190807/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1960/1268_1324_1322/20240807/it/xml/fedlex-data-admin-ch-eli-cc-1960-1268_1324_1322-20240807-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1960/1268_1324_1322/20240807/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Convenzione concernente il riconoscimento internazionale dei diritti sugli aeromobili
 
-0.748.217.1 (Stato 7 agosto 2019)?[^t-1]?
+RU **1960** 1322; FF **1959** 177
 
 Traduzione
 
-Conchiusa a Ginevra il 19 giugno 1948
+Conchiusa a Ginevra il 19 giugno 1948 Approvata dall’Assemblea federale il 22 settembre 1959[^t-1] Entrata in vigore per la Svizzera il 1° gennaio 1961
 
-Approvata dall’Assemblea federale il 22 settembre 1959[^t-2]
+(Stato 7 agosto 2024)
 
-Entrata in vigore per la Svizzera il 1° gennaio 1961
-
-(Stato 7 agosto 2019)
-
-[^t-1]: [RU 1960 1322](https://fedlex.data.admin.ch/eli/oc/1960/1268_1324_1322); FF **1959** 177
-[^t-2]: [RU 1960 1321](https://fedlex.data.admin.ch/eli/oc/1960/1267_1323_1321)
+[^t-1]: [RU 1960 1321](https://fedlex.data.admin.ch/eli/oc/1960/1267_1323_1321)
 
 Considerando che la Conferenza dell’Aviazione civile internazionale riunita a Chicago nei mesi di novembre e dicembre 1944, ha raccomandato di adottare al più presto una convenzione concernente il trasferimento di proprietà di aeromobili,
 
@@ -226,7 +221,7 @@ La presente convenzione resta aperta alla firma fino a quando entrerà in vigore
 
 (Seguono le firme)
 
-Campo d’applicazione il 7 agosto 2019**[^t-3]**
+Campo d’applicazione il 7 agosto 2024[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -245,9 +240,9 @@ Campo d’applicazione il 7 agosto 2019**[^t-3]**
 <tr><td>Ceca, Repubblica</td><td>24 agosto</td><td>1998 A</td><td>22 novembre</td><td>1998</td></tr>
 <tr><td>Ciad</td><td>14 febbraio</td><td>1974 A</td><td>15 maggio</td><td>1974</td></tr>
 <tr><td>Cile</td><td>19 dicembre</td><td>1955</td><td>18 marzo</td><td>1956</td></tr>
-<tr><td>Cina<sup>\*</sup></td><td>28 aprile</td><td>2000 A</td><td>27 luglio</td><td>2000</td></tr>
+<tr><td>Cina\*</td><td>28 aprile</td><td>2000 A</td><td>27 agosto</td><td>2000</td></tr>
 <tr><td>[tab] Macao <sup>a</sup></td><td>9 dicembre</td><td>1999</td><td>20 dicembre</td><td>1999</td></tr>
-<tr><td>Colombia</td><td>8 settembre</td><td>2006</td><td>7 dicembre</td><td>2006</td></tr>
+<tr><td>Colombia</td><td>8 settembre</td><td>2006</td><td>6 dicembre</td><td>2006</td></tr>
 <tr><td>Congo (Brazzaville)</td><td>3 maggio</td><td>1982 A</td><td>1° agosto</td><td>1982</td></tr>
 <tr><td>Côte d’Ivoire</td><td>23 agosto</td><td>1965 A</td><td>21 novembre</td><td>1965</td></tr>
 <tr><td>Croazia</td><td>5 ottobre</td><td>1993 A</td><td>3 gennaio</td><td>1994</td></tr>
@@ -292,7 +287,7 @@ Campo d’applicazione il 7 agosto 2019**[^t-3]**
 <tr><td>Nigeria</td><td>10 maggio</td><td>2002 A</td><td>8 agosto</td><td>2002</td></tr>
 <tr><td>Norvegia</td><td>5 marzo</td><td>1954</td><td>3 giugno</td><td>1954</td></tr>
 <tr><td>Oman</td><td>19 marzo</td><td>1992 A</td><td>17 giugno</td><td>1992</td></tr>
-<tr><td>Paesi Bassi</td><td>1<sup>°</sup> settembre</td><td>1959</td><td>30 novembre</td><td>1959</td></tr>
+<tr><td>Paesi Bassi</td><td>1° settembre</td><td>1959</td><td>30 novembre</td><td>1959</td></tr>
 <tr><td>Aruba</td><td>31 marzo</td><td>1988 A</td><td>29 giugno</td><td>1988</td></tr>
 <tr><td>Curaçao</td><td>31 marzo</td><td>1988 A</td><td>29 giugno</td><td>1988</td></tr>
 <tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>31 marzo</td><td>1988 A</td><td>29 giugno</td><td>1988</td></tr>
@@ -326,10 +321,10 @@ Campo d’applicazione il 7 agosto 2019**[^t-3]**
 <tr><td>Uzbekistan</td><td>8 maggio</td><td>1997 A</td><td>6 agosto</td><td>1997</td></tr>
 <tr><td>Vietnam</td><td>18 giugno</td><td>1997 A</td><td>16 settembre</td><td>1997</td></tr>
 <tr><td>Zimbabwe</td><td>6 febbraio</td><td>1987 A</td><td>7 maggio</td><td>1987</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni ed obiezioni, non sono pubblicate nella RU. I testi in inglese e francese possono essere consultati al sito dell’Organisation Internationale de l’Aviation Civile (OACI): www.icao.int/ &gt; Français &gt; Recueil des traités &gt; Current lists of parties to multilateral air law treaties, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, dichiarazioni ed obiezioni, non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione internazionale dell’aviazione civile: [www.icao.int](https://www.icao.int/secretariat/legal/Lists/traites%20de%20droit/AllItems.aspx) &gt; Français &gt; Au sujet de l’OACI &gt; Direction des affaires juridiques et des relations extérieures &gt; Recueil des traités &gt; Liste actualisée des parties aux traités de droit aérien oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Dal 12 mar. 1986 al 19 dic. 1999, la Conv. era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Dal 20 dic. 1999, Macao è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 9 dic. 1999, la Conv. è applicabile anche alla RAS Macao dal 20 dic. 1999.</td></tr>
 </table>
 
 - [tab]
 
-[^t-3]: [RU 1972 1793](https://fedlex.data.admin.ch/eli/oc/1972/1588_1621_1793), [1976 1861](https://fedlex.data.admin.ch/eli/oc/1976/1861_1861_1861), [1981 1440](https://fedlex.data.admin.ch/eli/oc/1981/1440_1440_1440), [1986 903](https://fedlex.data.admin.ch/eli/oc/1986/903_903_903), [1989 860](https://fedlex.data.admin.ch/eli/oc/1989/860_860_860), [2005 1607](https://fedlex.data.admin.ch/eli/oc/2005/250), [2009 77](https://fedlex.data.admin.ch/eli/oc/2009/17)e [2019 2543](https://fedlex.data.admin.ch/eli/oc/2019/469). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1972 1793](https://fedlex.data.admin.ch/eli/oc/1972/1588_1621_1793); [1976 1861](https://fedlex.data.admin.ch/eli/oc/1976/1861_1861_1861); [1981 1440](https://fedlex.data.admin.ch/eli/oc/1981/1440_1440_1440); [1986 903](https://fedlex.data.admin.ch/eli/oc/1986/903_903_903); [1989 860](https://fedlex.data.admin.ch/eli/oc/1989/860_860_860); [2005 1607](https://fedlex.data.admin.ch/eli/oc/2005/250); [2009 77](https://fedlex.data.admin.ch/eli/oc/2009/17); [2019 2543](https://fedlex.data.admin.ch/eli/oc/2019/469); [2024 407](https://fedlex.data.admin.ch/eli/oc/2024/407). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

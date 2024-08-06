@@ -3,25 +3,26 @@ sr: "0.748.217.1"
 title: Abkommen vom 19. Juni 1948 über die internationale Anerkennung von Rechten an Luftfahrzeugen
 eli: "https://fedlex.data.admin.ch/eli/cc/1960/1268_1324_1322"
 language: de
-version: 2019-08-07
+version: 2024-08-07
 adopted: 1948-06-19
 in_force: 1961-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1960/1268_1324_1322/20190807/de/xml/fedlex-data-admin-ch-eli-cc-1960-1268_1324_1322-20190807-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1960/1268_1324_1322/20190807/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1960/1268_1324_1322/20240807/de/xml/fedlex-data-admin-ch-eli-cc-1960-1268_1324_1322-20240807-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1960/1268_1324_1322/20240807/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Abkommen über die internationale Anerkennung von Rechten an Luftfahrzeugen
 
-[^t-1]as Übersetzung
+AS **1960** 1268; BBl **1959** I 433
 
-Abgeschlossen in Genf am 19. Juni 1948 Von der Bundesversammlung genehmigt am 22. September 1959[^t-2] In Kraft getreten für die Schweiz am 1. Januar 1961
+Übersetzung
 
-(Stand am 7. August 2019)
+Abgeschlossen in Genf am 19. Juni 1948 Von der Bundesversammlung genehmigt am 22. September 1959[^t-1] In Kraft getreten für die Schweiz am 1. Januar 1961
 
-[^t-1]: [AS 1960 1268](https://fedlex.data.admin.ch/eli/oc/1960/1268_1324_1322); [BBl 1959 I 433](https://fedlex.data.admin.ch/eli/fga/1959/1_433_433_)
-[^t-2]: [AS 1960 1267](https://fedlex.data.admin.ch/eli/oc/1960/1267_1323_1321)
+(Stand am 7. August 2024)
+
+[^t-1]: [AS 1960 1267](https://fedlex.data.admin.ch/eli/oc/1960/1267_1323_1321)
 
 In der Erwägung, dass die Konferenz über die internationale Zivilluftfahrt im November und Dezember 1944 in Chicago die baldige Annahme eines Abkommens über die Übertragung von Rechten an Luftfahrzeugen empfohlen hat,
 
@@ -218,7 +219,7 @@ Dieses Abkommen steht bis zu dem Zeitpunkt, an dem es nach Artikel XX in Kraft t
 
 *Zu Urkund dessen* haben die mit gehöriger Vollmacht versehenen unterzeichneten‑ Bevollmächtigten dieses Abkommen unterzeichnet. Geschehen zu Genf am neunzehnten Juni nennzehnhundertachtundvierzig in englischer, französischer und spanischer Sprache; jede Fassung ist in gleichem Masse verbindlich. Dieses Abkommen wird im Archiv der Internationalen Zivilluftfahrtorganisation hinterlegt werden; es liegt dort nach Artikel XVIII zur Zeichnung auf. (Es folgen die Unterschriften)
 
-Geltungsbereich am 7. August 2019**[^t-3]**
+Geltungsbereich am 7. August 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th colspan="2"></th></tr>
@@ -236,7 +237,7 @@ Geltungsbereich am 7. August 2019**[^t-3]**
 <tr><td>Bosnien und Herzegowina</td><td>7. März</td><td>1995 N</td><td>6. März</td><td colspan="2">1992</td></tr>
 <tr><td>Brasilien</td><td>3. Juli</td><td>1953</td><td>1. Oktober</td><td colspan="2">1953</td></tr>
 <tr><td>Chile</td><td>19. Dezember</td><td>1955</td><td>18. März</td><td colspan="2">1956</td></tr>
-<tr><td>China\*</td><td>28. April</td><td>2000 B</td><td>27. Juli</td><td colspan="2">2000</td></tr>
+<tr><td>China\*</td><td>28. April</td><td>2000 B</td><td>27. August</td><td colspan="2">2000</td></tr>
 <tr><td>[tab] Macau <sup>a</sup></td><td>9. Dezember</td><td>1999</td><td>20. Dezember</td><td colspan="2">1999</td></tr>
 <tr><td>Côte d’Ivoire</td><td>23. August</td><td>1965 B</td><td>21. November</td><td colspan="2">1965</td></tr>
 <tr><td>Dänemark</td><td>18. Januar</td><td>1963</td><td>18. April</td><td colspan="2">1963</td></tr>
@@ -260,7 +261,7 @@ Geltungsbereich am 7. August 2019**[^t-3]**
 <tr><td>Katar</td><td>20. April</td><td>2007 B</td><td>19. Juli</td><td colspan="2">2007</td></tr>
 <tr><td>Kenia</td><td>15. Januar</td><td>1997 B</td><td>15. April</td><td colspan="2">1997</td></tr>
 <tr><td>Kirgisistan</td><td>28. Februar</td><td>2000 B</td><td>28. Mai</td><td colspan="2">2000</td></tr>
-<tr><td>Kolumbien</td><td>8. September</td><td>2006</td><td>7. Dezember</td><td colspan="2">2006</td></tr>
+<tr><td>Kolumbien</td><td>8. September</td><td>2006</td><td>6. Dezember</td><td colspan="2">2006</td></tr>
 <tr><td>Kongo (Brazzaville)</td><td>3. Mai</td><td>1982 B</td><td>1. August</td><td colspan="2">1982</td></tr>
 <tr><td>Kroatien</td><td>5. Oktober</td><td>1993 B</td><td>3. Januar</td><td colspan="2">1994</td></tr>
 <tr><td>Kuba</td><td>20. Juni</td><td>1961</td><td>18. September</td><td colspan="2">1961</td></tr>
@@ -319,8 +320,8 @@ Geltungsbereich am 7. August 2019**[^t-3]**
 <tr><td>Vietnam</td><td>18. Juni</td><td>1997 B</td><td>16. September</td><td colspan="2">1997</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>2. Juni</td><td>1969 B</td><td>31. August</td><td colspan="2">1969</td></tr>
 <tr><td colspan="5">\* Vorbehalte und Erklärungen.</td></tr>
-<tr><td colspan="5">\*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Zivilluftfahrtsorganisation: www.icao.int/ &gt; Français &gt; Recueil des traités &gt; Current lists of parties to multilateral air law treaties eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite (Internationale Zivilluftfahrtorganisation: [www.icao.int](https://www.icao.int/secretariat/legal/Lists/traites%20de%20droit/AllItems.aspx) &gt; Français &gt; Au sujet de l’OACI &gt; Direction des affaires juridiques et des relations extérieures &gt; Recueil des traités &gt; Liste actualisée des parties aux traités de droit aérien oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Vom 12. März 1986 bis zum 19. Dez. 1999 war das Übereink. auf Grund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dez. 1999 bildet Macau eine besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 9. Dez. 1999 ist das Übereink. seit dem 20. Dez. 1999 auch in der SAR Macau anwendbar.</td></tr>
 </table>
 
-[^t-3]: [AS 1972 1588](https://fedlex.data.admin.ch/eli/oc/1972/1588_1621_1793), [1976 1861](https://fedlex.data.admin.ch/eli/oc/1976/1861_1861_1861), [1981 1440](https://fedlex.data.admin.ch/eli/oc/1981/1440_1440_1440), [1986 903](https://fedlex.data.admin.ch/eli/oc/1986/903_903_903), [1989 860](https://fedlex.data.admin.ch/eli/oc/1989/860_860_860), [2005 1607](https://fedlex.data.admin.ch/eli/oc/2005/250), [2009 77](https://fedlex.data.admin.ch/eli/oc/2009/17), [2019 2543](https://fedlex.data.admin.ch/eli/oc/2019/469). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1972 1588](https://fedlex.data.admin.ch/eli/oc/1972/1588_1621_1793); [1976 1861](https://fedlex.data.admin.ch/eli/oc/1976/1861_1861_1861); [1981 1440](https://fedlex.data.admin.ch/eli/oc/1981/1440_1440_1440); [1986 903](https://fedlex.data.admin.ch/eli/oc/1986/903_903_903); [1989 860](https://fedlex.data.admin.ch/eli/oc/1989/860_860_860); [2005 1607](https://fedlex.data.admin.ch/eli/oc/2005/250); [2009 77](https://fedlex.data.admin.ch/eli/oc/2009/17); [2019 2543](https://fedlex.data.admin.ch/eli/oc/2019/469); [2024 407](https://fedlex.data.admin.ch/eli/oc/2024/407). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
