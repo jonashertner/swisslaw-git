@@ -5,30 +5,30 @@ title: Verordnung über das Staatsarchiv und die Archivierung der Verwaltungsakt
 short: Archivverordnung
 language: de
 version: 2020-01-01
+corrected: 2024-08-07
 version_adopted: 2019-09-10
 adopted: 1994-02-08
 in_force: 1994-02-15
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/172.301"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1857/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/6/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung über das Staatsarchiv und die Archivierung der Verwaltungsakten
+# Verordnung über das Staatsarchiv und die Archivierung der Verwaltungsakten (Archivverordnung)
 
-(Archivverordnung)
-
-Vom 08.02.1994 (Stand 01.01.2020)
+vom 8. Februar 1994
 
 Der Regierungsrat des Kantons Schaffhausen,
 
-gestützt auf Art. 4 Abs. 1 des Organisationsgesetzes vom 18. Februar 1985[^ingress-1],
+gestützt auf Art. 4 Abs.1 des Organisationsgesetzes vom 18. Februar 1985[^t-1],
 
-beschliesst:
+verordnet:
 
-[^ingress-1]: SHR [172.100](https://rechtsbuch.sh.ch/data/172.100/de).
+[^t-1]: SHR 172.100.
 
-## 1 Grundsätze
+### I. Grundsätze
 
 #### § 1
 
@@ -38,9 +38,11 @@ beschliesst:
 
 <sup>2</sup> Sie gilt für:
 
-- a) die Registraturen der Dienststellen und Anstalten der kantonalen Verwaltung
-- b) die Registraturen des Grossen Rates und des Regierungsrates
-- c) das Staatsarchiv
+- a) die Registraturen der Dienststellen und Anstalten der kantonalen Verwaltung;
+
+- b) die Registraturen des Grossen Rates und des Regierungsrates;
+
+- c) das Staatsarchiv.
 
 <sup>3</sup> Für die Schaffhauser Kantonalbank gilt nur § 14 Abs. 3.
 
@@ -50,9 +52,11 @@ beschliesst:
 
 **Verwaltungsakten**
 
-<sup>1</sup> Als Verwaltungsakten gelten alle Schrift-, Bild- und Tonträger sowie elektronischen und anderen Informationsträger, die aus der Behörden- und Verwaltungstätigkeit hervorgegangen sind oder mit ihr im Zusammenhang stehen.
+Als Verwaltungsakten gelten alle Schrift-, Bild- und Tonträger sowie elektronischen und anderen Informationsträger, die aus der Behörden- und Verwaltungstätigkeit hervorgegangen sind oder mit ihr im Zusammenhang stehen.
 
-## 2 Registraturen der Dienststellen und Anstalten
+Amtsblatt 1994 S. 163; Rechtsbuch 1964, Nr. 9k.
+
+### II. Registraturen der Dienststellen und Anstalten
 
 #### § 3
 
@@ -70,7 +74,7 @@ beschliesst:
 
 **Verantwortliche Person**
 
-<sup>1</sup> Die Dienststellen und Anstalten bezeichnen eine für die Registratur verantwortliche Person.
+Die Dienststellen und Anstalten bezeichnen eine für die Registratur verantwortliche Person.
 
 #### § 5
 
@@ -90,7 +94,7 @@ beschliesst:
 
 **Aufbewahrung und Erschliessung**
 
-<sup>1</sup> Die Akten werden in den Registraturen der Verwaltungsstellen und Anstalten so lange aufbewahrt, als sie für die laufende Verwaltungstätigkeit benötigt werden, in der Regel jedoch mindestens zehn Jahre.
+<sup>1</sup> Die Akten werden in den Registraturen der Verwaltungsstellen und Anstalten so lange aufbewahrt, als sie für die laufende Verwaltungstätigkeit benötigt werden, in der Regel jedoch mindestens zehn Jahre .
 
 <sup>2</sup> Die Akten werden durch geeignete Verzeichnisse, Karteien und dergleichen erschlossen.
 
@@ -106,7 +110,7 @@ beschliesst:
 
 <sup>4</sup> Akten, die vom Staatsarchiv nicht übernommen werden, sind unter Wahrung des Datenschutzes zu beseitigen.
 
-## 3 Akten des Regierungsrates und des Grossen Rates
+### III. Akten des Regierungsrates und des Grossen Rates
 
 #### § 8
 
@@ -132,18 +136,21 @@ beschliesst:
 
 **Weitere Ablieferungspflichten**
 
-<sup>1</sup> Die Departemente, Dienststellen und Anstalten sind dafür besorgt, dass von den folgenden Dokumenten ein Exemplar der Staatskanzlei abgegeben wird:
+Die Departemente, Dienststellen und Anstalten sind dafür besorgt, dass von den folgenden Dokumenten ein Exemplar der Staatskanzlei abgegeben wird:
 
-- a) Verträge und Vereinbarungen
-- b) Konzessionen
-- c) Rechtsgutachten
-- d) Verwaltungsgerichtsentscheide
+- a) Verträge und Vereinbarungen;
+
+- b) Konzessionen;
+
+- c) Rechtsgutachten;
+
+- d) Verwaltungsgerichtsentscheide.
 
 #### § 11
 
 **Anwendbares Recht**
 
-<sup>1</sup> Im Übrigen gelten für die Regierungsratsakten die Bestimmungen des 2. Abschnittes.
+Im übrigen gelten für die Regierungsratsakten die Bestimmungen des II. Abschnittes.
 
 #### § 12
 
@@ -153,20 +160,25 @@ beschliesst:
 
 <sup>2</sup> Akten, die noch für die laufenden Ratsgeschäfte benötigt werden, verbleiben bei der Sekretärin oder dem Sekretär des Grossen Rates.
 
-## 4 Staatsarchiv
+### IV. Staatsarchiv
 
 #### § 13
 
 **Aufgaben**
 
-<sup>1</sup> Das Staatsarchiv erfüllt die folgenden Aufgaben:
+Das Staatsarchiv erfüllt die folgenden Aufgaben:
 
-- a) Es sammelt und sichert die aus der Tätigkeit der Behörden, Dienststellen, selbständigen und unselbständigen Anstalten des Kantons sowie der Gerichte hervorgegangenen Verwaltungsakten von dauerndem Wert
-- b) es sammelt in Ergänzung dazu und in Abstimmung mit den Archiven der Gemeinden und den öffentlichen Bibliotheken auch wichtiges nichtbehördliches Quellenmaterial zur Geschichte des Kantons Schaffhausen, seiner Gemeinden sowie seiner Bürgerinnen und Bürger und Einwohnerinnen und Einwohner
-- c) es erschliesst seine Bestände durch die nötigen Hilfsmittel (Findbücher, Kataloge, Handbibliothek) und Einrichtungen
-- d) es erteilt aufgrund seiner Bestände und im Rahmen seiner personellen Möglichkeiten Auskünfte und erstattet Gutachten
-- e) es berät und unterstützt die Dienststellen und Anstalten bei der Erstellung der Registraturpläne und der Führung der Registraturen
-- f) es fördert das Verständnis für die Geschichte des Kantons und für die Erhaltung von historisch wichtigen Dokumenten durch eigene Forschungs- und Informationstätigkeit und durch die Unterstützung der Forschungstätigkeit Dritter
+- a) Es sammelt und sichert die aus der Tätigkeit der Behörden, Dienststellen, selbständigen und unselbständigen Anstalten des Kantons sowie der Gerichte hervorgegangenen Verwaltungsakten von dauerndem Wert;
+
+- b) es sammelt in Ergänzung dazu und in Abstimmung mit den Archiven der Gemeinden und den öffentlichen Bibliotheken auch wichtiges nichtbehördliches Quellenmaterial zur Geschichte des Kantons Schaffhausen, seiner Gemeinden sowie seiner Bürgerinnen und Bürger und Einwohnerinnen und Einwohner;
+
+- c) es erschliesst seine Bestände durch die nötigen Hilfsmittel (Findbücher, Kataloge, Handbibliothek) und Einrichtungen;
+
+- d) es erteilt aufgrund seiner Bestände und im Rahmen seiner personellen Möglichkeiten Auskünfte und erstattet Gutachten;
+
+- e) es berät und unterstützt die Dienststellen und Anstalten bei der Erstellung der Registraturpläne und der Führung der Registraturen;
+
+- f) es fördert das Verständnis für die Geschichte des Kantons und für die Erhaltung von historisch wichtigen Dokumenten durch eigene Forschungs- und Informationstätigkeit und durch die Unterstützung der Forschungstätigkeit Dritter.
 
 #### § 14
 
@@ -186,9 +198,11 @@ beschliesst:
 
 <sup>1</sup> Das Staatsarchiv trifft geeignete Massnahmen für die Erhaltung und Sicherung des Archivgutes.
 
-<sup>1<sup>bis</sup></sup> Die Aufbewahrung und Sicherung von Daten im Zusammenhang mit der elektronischen Langzeitarchivierung kann vom Staatsarchiv innerhalb oder ausserhalb des Kantons Schaffhausen, aber in der Schweiz, vorgenommen werden.
+<sup>1bis</sup> Die Aufbewahrung und Sicherung von Daten im Zusammenhang mit der elektronischen Langzeitarchivierung kann vom Staatsarchiv innerhalb oder ausserhalb des Kantons Schaffhausen, aber in der Schweiz, vorgenommen werden.[^15-1]
 
 <sup>2</sup> Besonders wertvolle oder gefährdete Dokumente sichert es durch Aufnahme auf Mikrofilmen oder anderen geeigneten Informationsträgern, die räumlich getrennt von den Originalen aufbewahrt werden.
+
+[^15-1]: Fassung gemäss RRB vom 10. September, in Kraft getreten am 1. Januar 2020 (Amtsblatt 2019, S. 2111).
 
 #### § 16
 
@@ -238,11 +252,12 @@ beschliesst:
 
 <sup>3</sup> Die Gebühren richten sich sinngemäss nach den Bestimmungen der Verwaltungsgebührenverordnung vom 16. Oktober 1973[^20-1].
 
-<sup>4</sup> Für Forschungs- oder Gutachtensaufträge stellt das Staatsarchiv je nach Schwierigkeitsgrad und nach der Bedeutung des Auftrages für die eigene Forschungstätigkeit des Archivs einem Stundenansatz von Fr. 100.00 bis Fr. 200.00 in Rechnung. Die Staatskanzlei passt den Gebührenrahmen an, wenn sich der Landesindex der Konsumentenpreise seit Erlass dieser Verordnung oder seit der letzten Anpassung um mehr als 5% verändert hat; Berechnungsgrundlage ist der Indexstand Dezember 1993 bei 100.4 Punkten.
+<sup>4</sup> Für Forschungs- oder Gutachtensaufträge stellt das Staatsarchiv je nach Schwierigkeitsgrad und nach der Bedeutung des Auftrages für die eigene Forschungstätigkeit des Archivs einem Stundenansatz von 100 bis 200 Franken in Rechnung. Die Staatskanzlei[^20-2] passt den Gebührenrahmen an, wenn sich der Landesindex der Konsumentenpreise seit Erlass dieser Verordnung oder seit der letzten Anpassung um mehr als 5% verändert hat; Berechnungsgrundlage ist der Indexstand Dezember 1993 bei 100,4 Punkten.
 
-[^20-1]: SHR [172.201](https://rechtsbuch.sh.ch/data/172.201/de).
+[^20-1]: SHR 172.201.
+[^20-2]: Fassung gemäss V vom 3. Januar 2001, in Kraft getreten am 1. Januar 2001 (Amtsblatt 2001, S. 68).
 
-## 5 Schlussbestimmungen
+### V. Schlussbestimmungen
 
 #### § 21
 
@@ -256,10 +271,11 @@ beschliesst:
 
 **Änderung bisherigen Rechts**
 
-<sup>1</sup> Die nachstehenden Erlasse werden aufgehoben:
+Die nachstehenden Erlasse werden aufgehoben:
 
-- a) die Verordnung über die Organisation und Geschäftsführung der Staatskanzlei und des Staatsarchivs vom 2. März 1881
-- b) die Weisung des Regierungsrates betreffend die Regierungsratsakten vom 23. April 1969
+- a) die Verordnung über die Organisation und Geschäftsführung der Staatskanzlei und des Staatsarchivs vom 2. März 1881.
+
+- b) die Weisung des Regierungsrates betreffend die Regierungsratsakten vom 23. April 1969.
 
 #### § 23
 
@@ -269,6 +285,6 @@ beschliesst:
 
 <sup>2</sup> Sie ist im Amtsblatt zu veröffentlichen[^23-1] und in die kantonale Gesetzessammlung aufzunehmen.
 
-[^23-1]: Amtsblatt 1994, S. 163.
+Fussnoten:
 
-Abl. 1994, S. 163
+[^23-1]: Amtsblatt 1994, S.163.
