@@ -3,11 +3,11 @@ sr: "0.748.710.21"
 title: Protocollo addizionale del 10 settembre 2010 alla Convenzione per la repressione della cattura illecita di aeromobili
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/42"
 language: it
-version: 2019-10-29
+version: 2024-08-08
 adopted: 2010-09-10
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/42/20191029/it/xml/fedlex-data-admin-ch-eli-cc-2018-42-20191029-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/42/20191029/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/42/20240808/it/xml/fedlex-data-admin-ch-eli-cc-2018-42-20240808-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/42/20240808/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2018** 259; FF **2013** 7331
 
 Traduzione
 
-Concluso a Pechino il 10 settembre 2010
+Concluso a Pechino il 10 settembre 2010 Approvato dall’Assemblea federale il 20 giugno 2014[^t-1] Strumento di adesione depositato dalla Svizzera l’11 dicembre 2014 Entrato in vigore per la Svizzera il 1° gennaio 2018
 
-Approvato dall’Assemblea federale il 20 giugno 2014[^t-1]
-
-Strumento di adesione depositato dalla Svizzera l’11 dicembre 2014
-
-Entrato in vigore per la Svizzera il 1° gennaio 2018
-
-(Stato 29 ottobre 2019)
+(Stato 8 agosto 2024)
 
 [^t-1]: Art. 1 cpv. 1 lett. b del DF del 20 giu. 2014 ([RU 2018 257](https://fedlex.data.admin.ch/eli/oc/2018/41)).
 
@@ -293,46 +287,64 @@ Il depositario informerà sollecitamente tutti gli Stati Parte al presente Proto
 
 *In fede di che* i plenipotenziari sottoscritti, debitamente autorizzati, hanno firmato il presente Protocollo. Fatto a Pechino il 10 settembre 2010, nelle lingue francese, inglese, araba, cinese, spagnola e russa, tutti i testi facenti ugualmente fede dopo la verifica da parte del Segretariato della Conferenza, sotto l’egida del Presidente della Conferenza, entro novanta giorni da tale data per quanto concerne la concordanza dei testi tra loro. Il presente Protocollo sarà depositato negli archivi dell’Organizzazione dell’aviazione civile internazionale e copie conformi autentiche della stessa verranno trasmesse dal depositario a tutti gli Stati Parte al presente Protocollo. (Seguono le firme)
 
-Campo d’applicazione il 29 ottobre 2019**[^t-2]**
+Campo d’applicazione l’8 agosto 2024[^t-2]
 
 <table>
-<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th colspan="2">Entrata in vigore</th><th></th></tr>
-<tr><td>Bahrein</td><td>26 ottobre</td><td>2017 A</td><td>1° gennaio</td><td colspan="2">2018</td></tr>
-<tr><td>Benin</td><td>27 ottobre</td><td>2017</td><td>1° gennaio</td><td colspan="2">2018</td></tr>
-<tr><td>Burkina Faso</td><td>24 settembre</td><td>2019</td><td>1° novembre</td><td colspan="2">2019</td></tr>
-<tr><td>Ceca, Repubblica\*</td><td>2 luglio</td><td>2013</td><td>1° gennaio</td><td colspan="2">2018</td></tr>
-<tr><td>Cipro\*</td><td>28 marzo</td><td>2019</td><td>1° maggio</td><td colspan="2">2019</td></tr>
-<tr><td>Congo (Brazzaville)</td><td>1° ottobre</td><td>2014 A</td><td>1° gennaio</td><td colspan="2">2018</td></tr>
-<tr><td>Côte d’Ivoire\*</td><td>20 marzo</td><td>2015 A</td><td>1° gennaio</td><td colspan="2">2018</td></tr>
-<tr><td>Cuba\*</td><td>20 dicembre</td><td>2012 A</td><td>1° gennaio</td><td colspan="2">2018</td></tr>
-<tr><td>Dominicana, Repubblica</td><td>22 marzo</td><td>2013</td><td>1° gennaio</td><td colspan="2">2018</td></tr>
-<tr><td>Eswatini</td><td>23 novembre</td><td>2016 A</td><td>1° gennaio</td><td colspan="2">2018</td></tr>
-<tr><td>Francia</td><td>15 dicembre</td><td>2016</td><td>1° gennaio</td><td colspan="2">2018</td></tr>
-<tr><td>Gabon</td><td>24 settembre</td><td>2019 A</td><td>1° novembre</td><td colspan="2">2019</td></tr>
-<tr><td>Gambia</td><td>30 novembre</td><td>2015</td><td>1° gennaio</td><td colspan="2">2018</td></tr>
-<tr><td>Ghana</td><td>4 giugno</td><td>2018 A</td><td>1° agosto</td><td colspan="2">2018</td></tr>
-<tr><td>Guyana</td><td>26 febbraio</td><td>2013 A</td><td>1° gennaio</td><td colspan="2">2018</td></tr>
-<tr><td>India</td><td>30 gennaio</td><td>2019</td><td>1° marzo</td><td colspan="2">2019</td></tr>
-<tr><td>Kazakistan</td><td>14 febbraio</td><td>2019 A</td><td>1° aprile</td><td colspan="2">2019</td></tr>
-<tr><td>Kuwait</td><td>28 luglio</td><td>2014 A</td><td>1° gennaio</td><td colspan="2">2018</td></tr>
-<tr><td>Mali</td><td>14 novembre</td><td>2012</td><td>1° gennaio</td><td colspan="2">2018</td></tr>
-<tr><td>Malta</td><td>26 settembre</td><td>2016 A</td><td>1° gennaio</td><td colspan="2">2018</td></tr>
-<tr><td>Mozambico</td><td>17 agosto</td><td>2016 A</td><td>1° gennaio</td><td colspan="2">2018</td></tr>
-<tr><td>Myanmar</td><td>20 marzo</td><td>2013 A</td><td>1° gennaio</td><td colspan="2">2018</td></tr>
-<tr><td>Paesi Bassi\*</td><td>17 marzo</td><td>2016</td><td>1° gennaio</td><td colspan="2">2018</td></tr>
-<tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)\*</td><td>17 marzo</td><td>2016</td><td>1° gennaio</td><td colspan="2">2018</td></tr>
-<tr><td>Panama</td><td>9 ottobre</td><td>2015</td><td>1° gennaio</td><td colspan="2">2018</td></tr>
-<tr><td>Paraguay</td><td>3 agosto</td><td>2018</td><td>1° ottobre</td><td colspan="2">2018</td></tr>
-<tr><td>Portogallo</td><td>22 gennaio</td><td>2019</td><td>1° marzo</td><td colspan="2">2019</td></tr>
-<tr><td>Romania</td><td>22 giugno</td><td>2018</td><td>1° agosto</td><td colspan="2">2018</td></tr>
-<tr><td>Saint Lucia\*</td><td>12 settembre</td><td>2012</td><td>1° gennaio</td><td colspan="2">2018</td></tr>
-<tr><td>Sierra Leone</td><td>25 novembre</td><td>2015</td><td>1° gennaio</td><td colspan="2">2018</td></tr>
-<tr><td>Svezia\*</td><td>12 luglio</td><td>2018 A</td><td>1° settembre</td><td colspan="2">2018</td></tr>
-<tr><td>Svizzera</td><td>11 dicembre</td><td>2014 A</td><td>1° gennaio</td><td colspan="2">2018</td></tr>
-<tr><td>Turchia\*</td><td>31 maggio</td><td>2018</td><td>1° luglio</td><td colspan="2">2018</td></tr>
-<tr><td>Turkmenistan</td><td>17 giugno</td><td>2019 A</td><td>1° agosto</td><td colspan="2">2019</td></tr>
-<tr><td>Uganda</td><td>28 novembre</td><td>2017</td><td>1° gennaio</td><td colspan="2">2018</td></tr>
-<tr><td colspan="6">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’ Organizzazione dell’aviazione civile internazionale: www.icao.int/ &gt; Français &gt; Recueil des traités &gt; Current lists of parties to multilateral air law treaties oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Bahrein</td><td>26 ottobre</td><td>2017 A</td><td>1° gennaio</td><td>2018</td></tr>
+<tr><td>Angola</td><td>11 dicembre</td><td>2023</td><td>1° febbraio</td><td>2024</td></tr>
+<tr><td>Arabia Saudita\*</td><td>10 giugno</td><td>2021</td><td>1° agosto</td><td>2021</td></tr>
+<tr><td>Benin</td><td>27 ottobre</td><td>2017</td><td>1° gennaio</td><td>2018</td></tr>
+<tr><td>Botswana</td><td>30 aprile</td><td>2021 A</td><td>1° giugno</td><td>2021</td></tr>
+<tr><td>Burkina Faso</td><td>24 settembre</td><td>2019</td><td>1° novembre</td><td>2019</td></tr>
+<tr><td>Capo Verde</td><td>17 gennaio</td><td>2022 A</td><td>1° marzo</td><td>2022</td></tr>
+<tr><td>Ceca, Repubblica\*</td><td>2 luglio</td><td>2013</td><td>1° gennaio</td><td>2018</td></tr>
+<tr><td>Cina <sup>a</sup></td><td>27 ottobre</td><td>2023</td><td>1° dicembre</td><td>2023</td></tr>
+<tr><td>Cipro\*</td><td>28 marzo</td><td>2019</td><td>1° maggio</td><td>2019</td></tr>
+<tr><td>Congo (Brazzaville)</td><td>1° ottobre</td><td>2014 A</td><td>1° gennaio</td><td>2018</td></tr>
+<tr><td>Côte d’Ivoire\*</td><td>20 marzo</td><td>2015 A</td><td>1° gennaio</td><td>2018</td></tr>
+<tr><td>Cuba\*</td><td>20 dicembre</td><td>2012 A</td><td>1° gennaio</td><td>2018</td></tr>
+<tr><td>Dominicana, Repubblica</td><td>22 marzo</td><td>2013</td><td>1° gennaio</td><td>2018</td></tr>
+<tr><td>Eswatini</td><td>23 novembre</td><td>2016 A</td><td>1° gennaio</td><td>2018</td></tr>
+<tr><td>Finlandia\*</td><td>28 giugno</td><td>2021 A</td><td>1° agosto</td><td>2021</td></tr>
+<tr><td>Francia</td><td>15 dicembre</td><td>2016</td><td>1° gennaio</td><td>2018</td></tr>
+<tr><td>Gabon</td><td>24 settembre</td><td>2019 A</td><td>1° novembre</td><td>2019</td></tr>
+<tr><td>Gambia</td><td>30 novembre</td><td>2015</td><td>1° gennaio</td><td>2018</td></tr>
+<tr><td>Germania\*</td><td>21 marzo</td><td>2022</td><td>1° maggio</td><td>2022</td></tr>
+<tr><td>Ghana</td><td>4 giugno</td><td>2018 A</td><td>1° agosto</td><td>2018</td></tr>
+<tr><td>Guyana</td><td>26 febbraio</td><td>2013 A</td><td>1° gennaio</td><td>2018</td></tr>
+<tr><td>Honduras</td><td>23 agosto</td><td>2021 A</td><td>1° ottobre</td><td>2021</td></tr>
+<tr><td>India</td><td>30 gennaio</td><td>2019</td><td>1° marzo</td><td>2019</td></tr>
+<tr><td>Kazakistan</td><td>14 febbraio</td><td>2019 A</td><td>1° aprile</td><td>2019</td></tr>
+<tr><td>Kuwait</td><td>28 luglio</td><td>2014 A</td><td>1° gennaio</td><td>2018</td></tr>
+<tr><td>Lussemburgo</td><td>19 novembre</td><td>2021 A</td><td>1° gennaio</td><td>2022</td></tr>
+<tr><td>Mali</td><td>14 novembre</td><td>2012</td><td>1° gennaio</td><td>2018</td></tr>
+<tr><td>Malta</td><td>26 settembre</td><td>2016 A</td><td>1° gennaio</td><td>2018</td></tr>
+<tr><td>Mongolia</td><td>3 luglio</td><td>2024</td><td>1° settembre</td><td>2024</td></tr>
+<tr><td>Mozambico</td><td>17 agosto</td><td>2016 A</td><td>1° gennaio</td><td>2018</td></tr>
+<tr><td>Myanmar</td><td>20 marzo</td><td>2013 A</td><td>1° gennaio</td><td>2018</td></tr>
+<tr><td>Oman</td><td>15 agosto</td><td>2023 A</td><td>1° ottobre</td><td>2023</td></tr>
+<tr><td>Paesi Bassi\*</td><td>17 marzo</td><td>2016</td><td>1° gennaio</td><td>2018</td></tr>
+<tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)\*</td><td>17 marzo</td><td>2016</td><td>1° gennaio</td><td>2018</td></tr>
+<tr><td>Panama</td><td>9 ottobre</td><td>2015</td><td>1° gennaio</td><td>2018</td></tr>
+<tr><td>Paraguay</td><td>3 agosto</td><td>2018</td><td>1° ottobre</td><td>2018</td></tr>
+<tr><td>Portogallo</td><td>22 gennaio</td><td>2019</td><td>1° marzo</td><td>2019</td></tr>
+<tr><td>Romania</td><td>22 giugno</td><td>2018</td><td>1° agosto</td><td>2018</td></tr>
+<tr><td>Ruanda</td><td>9 dicembre</td><td>2021 A</td><td>1° febbraio</td><td>2022</td></tr>
+<tr><td>Russia</td><td>6 ottobre</td><td>2022 A</td><td>1° dicembre</td><td>2022</td></tr>
+<tr><td>Saint Lucia\*</td><td>12 settembre</td><td>2012</td><td>1° gennaio</td><td>2018</td></tr>
+<tr><td>Seychelles</td><td>15 dicembre</td><td>2021 A</td><td>1° febbraio</td><td>2022</td></tr>
+<tr><td>Sierra Leone</td><td>25 novembre</td><td>2015</td><td>1° gennaio</td><td>2018</td></tr>
+<tr><td>Singapore\*</td><td>20 luglio</td><td>2022 A</td><td>1° settembre</td><td>2022</td></tr>
+<tr><td>Slovacchia\*</td><td>30 novembre</td><td>2023 A</td><td>1° gennaio</td><td>2024</td></tr>
+<tr><td>Svezia\*</td><td>12 luglio</td><td>2018 A</td><td>1° settembre</td><td>2018</td></tr>
+<tr><td>Svizzera</td><td>11 dicembre</td><td>2014 A</td><td>1° gennaio</td><td>2018</td></tr>
+<tr><td>Tunisia\*</td><td>2 aprile</td><td>2024 A</td><td>1° giugno</td><td>2024</td></tr>
+<tr><td>Turchia\*</td><td>31 maggio</td><td>2018</td><td>1° luglio</td><td>2018</td></tr>
+<tr><td>Turkmenistan</td><td>17 giugno</td><td>2019 A</td><td>1° agosto</td><td>2019</td></tr>
+<tr><td>Uganda</td><td>28 novembre</td><td>2017</td><td>1° gennaio</td><td>2018</td></tr>
+<tr><td>Uruguay\*</td><td>13 marzo</td><td>2024 A</td><td>1° maggio</td><td>2024</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione dell’aviazione civile internazionale: [www.icao.int](https://www.icao.int/secretariat/legal/Lists/traites%20de%20droit/AllItems.aspx) &gt; Français &gt; Au sujet de l’OACI &gt; Direction des affaires juridiques et des relations extérieures &gt; Recueil des traités &gt; Liste actualisée des parties aux traités de droit aérien oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Non si applica alle Regioni amministrative speciali di Hong Kong e Macao. [tab]</td></tr>
 </table>
 
-[^t-2]: [RU 2018 259](https://fedlex.data.admin.ch/eli/oc/2018/42), [2019 1195](https://fedlex.data.admin.ch/eli/oc/2019/219)e [3517](https://fedlex.data.admin.ch/eli/oc/2019/643). Una versione aggiornata del campo d’applicazione è pubblicata sul Sito Internet del DFAE (www.dfae.admin.ch/trattati
+[^t-2]: [RU 2018 259](https://fedlex.data.admin.ch/eli/oc/2018/42); [2019 1195](https://fedlex.data.admin.ch/eli/oc/2019/219), [3517](https://fedlex.data.admin.ch/eli/oc/2019/643); [2024 409](https://fedlex.data.admin.ch/eli/oc/2024/409). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

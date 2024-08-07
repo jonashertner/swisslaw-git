@@ -3,11 +3,11 @@ sr: "0.748.710.21"
 title: Zusatzprotokoll vom 10. September 2010 zum Übereinkommen zur Bekämpfung der widerrechtlichen Inbesitznahme von Luftfahrzeugen
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/42"
 language: de
-version: 2019-10-29
+version: 2024-08-08
 adopted: 2010-09-10
 in_force: 2018-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/42/20191029/de/xml/fedlex-data-admin-ch-eli-cc-2018-42-20191029-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/42/20191029/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/42/20240808/de/xml/fedlex-data-admin-ch-eli-cc-2018-42-20240808-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/42/20240808/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 11. Dezember 2014
 
 In Kraft getreten für die Schweiz am 1. Januar 2018
 
-(Stand am 29. Oktober 2019)
+(Stand am 8. August 2024)
 
 [^t-1]: Art. 1 Abs. 1 Bst. b des BB vom 20. Juni 2014 ([AS 2018 257](https://fedlex.data.admin.ch/eli/oc/2018/41))
 
@@ -293,46 +293,64 @@ Der Verwahrer unterrichtet unverzüglich alle Vertragsstaaten dieses Protokolls 
 
 *Zu Urkund dessen* haben die unterzeichneten, gehörig befugten Bevollmächtigten dieses Protokoll unterschrieben. Geschehen zu Peking am 10. September 2010 in arabischer, chinesischer, englischer, französischer, russischer und spanischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist; diese Verbindlichkeit tritt ein, sobald das Sekretariat der Konferenz im Auftrag des Präsidenten der Konferenz binnen neunzig Tagen ab diesem Zeitpunkt bestätigt hat, dass die Wortlaute übereinstimmen. Dieses Protokoll wird im Archiv der Internationalen Zivilluftfahrt-Organisation hinterlegt; beglaubigte Abschriften werden allen Vertragsstaaten des Protokolls vom Verwahrer übermittelt. (Es folgen die Unterschriften)
 
-Geltungsbereich am 29. Oktober 2019**[^t-2]**
+Geltungsbereich am 8. August 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th colspan="2">Ratifikation Beitritt (B)</th><th></th><th colspan="2">Inkrafttreten</th></tr>
+<tr><td>Angola</td><td>11. Dezember</td><td colspan="2">2023</td><td>1. Februar</td><td>2024</td></tr>
 <tr><td>Bahrain</td><td>26. Oktober</td><td colspan="2">2017 B</td><td>1. Januar</td><td>2018</td></tr>
 <tr><td>Benin</td><td>27. Oktober</td><td colspan="2">2017</td><td>1. Januar</td><td>2018</td></tr>
+<tr><td>Botsuana</td><td>30. April</td><td colspan="2">2021 B</td><td>1. Juni</td><td>2021</td></tr>
 <tr><td>Burkina Faso</td><td>24. September</td><td colspan="2">2019</td><td>1. November</td><td>2019</td></tr>
+<tr><td>China <sup>a</sup></td><td>27. Oktober</td><td colspan="2">2023</td><td>1. Dezember</td><td>2023</td></tr>
 <tr><td>Côte d’Ivoire\*</td><td>20. März</td><td colspan="2">2015 B</td><td>1. Januar</td><td>2018</td></tr>
+<tr><td>Deutschland\*</td><td>21. März</td><td colspan="2">2022</td><td>1. Mai</td><td>2022</td></tr>
 <tr><td>Dominikanische Republik</td><td>22. März</td><td colspan="2">2013</td><td>1. Januar</td><td>2018</td></tr>
 <tr><td>Eswatini</td><td>23. November</td><td colspan="2">2016 B</td><td>1. Januar</td><td>2018</td></tr>
+<tr><td>Finnland\*</td><td>28. Juni</td><td colspan="2">2021 B</td><td>1. August</td><td>2021</td></tr>
 <tr><td>Frankreich</td><td>15. Dezember</td><td colspan="2">2016</td><td>1. Januar</td><td>2018</td></tr>
 <tr><td>Gabun</td><td>24. September</td><td colspan="2">2019 B</td><td>1. November</td><td>2019</td></tr>
 <tr><td>Gambia</td><td>30. November</td><td colspan="2">2015</td><td>1. Januar</td><td>2018</td></tr>
-<tr><td>Ghana</td><td>4. Juni</td><td colspan="2">2018 B</td><td>1. August</td><td>2018</td></tr>
+<tr><td>Ghana</td><td>4. Juni</td><td colspan="2">2018</td><td>1. August</td><td>2018</td></tr>
 <tr><td>Guyana</td><td>26. Februar</td><td colspan="2">2013 B</td><td>1. Januar</td><td>2018</td></tr>
+<tr><td>Honduras</td><td>23. August</td><td colspan="2">2021 B</td><td>1. Oktober</td><td>2021</td></tr>
 <tr><td>Indien</td><td>30. Januar</td><td colspan="2">2019</td><td>1. März</td><td>2019</td></tr>
+<tr><td>Kap Verde</td><td>17. Januar</td><td colspan="2">2022 B</td><td>1. März</td><td>2022</td></tr>
 <tr><td>Kasachstan</td><td>14. Februar</td><td colspan="2">2019 B</td><td>1. April</td><td>2019</td></tr>
 <tr><td>Kongo (Brazzaville)</td><td>1. Oktober</td><td colspan="2">2014 B</td><td>1. Januar</td><td>2018</td></tr>
 <tr><td>Kuba\*</td><td>20. Dezember</td><td colspan="2">2012 B</td><td>1. Januar</td><td>2018</td></tr>
 <tr><td>Kuwait</td><td>28. Juli</td><td colspan="2">2014 B</td><td>1. Januar</td><td>2018</td></tr>
+<tr><td>Luxemburg</td><td>19. November</td><td colspan="2">2021 B</td><td>1. Januar</td><td>2022</td></tr>
 <tr><td>Mali</td><td>14. November</td><td colspan="2">2012</td><td>1. Januar</td><td>2018</td></tr>
-<tr><td>Malta</td><td>26. September</td><td colspan="2">2016 B</td><td>1. Januar</td><td>2018</td></tr>
+<tr><td>Malta</td><td>26. September</td><td colspan="2">2016</td><td>1. Januar</td><td>2018</td></tr>
+<tr><td>Mongolei</td><td>3. Juli</td><td colspan="2">2024</td><td>1. September</td><td>2024</td></tr>
 <tr><td>Mosambik</td><td>17. August</td><td colspan="2">2016 B</td><td>1. Januar</td><td>2018</td></tr>
 <tr><td>Myanmar</td><td>20. März</td><td colspan="2">2013 B</td><td>1. Januar</td><td>2018</td></tr>
 <tr><td>Niederlande\*</td><td>17. März</td><td colspan="2">2016</td><td>1. Januar</td><td>2018</td></tr>
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)\*</td><td>17. März</td><td colspan="2">2016</td><td>1. Januar</td><td>2018</td></tr>
+<tr><td>Oman</td><td>15. August</td><td colspan="2">2023 B</td><td>1. Oktober</td><td>2023</td></tr>
 <tr><td>Panama</td><td>9. Oktober</td><td colspan="2">2015</td><td>1. Januar</td><td>2018</td></tr>
 <tr><td>Paraguay</td><td>3. August</td><td colspan="2">2018</td><td>1. Oktober</td><td>2018</td></tr>
 <tr><td>Portugal</td><td>22. Januar</td><td colspan="2">2019</td><td>1. März</td><td>2019</td></tr>
+<tr><td>Ruanda</td><td>9. Dezember</td><td colspan="2">2021 B</td><td>1. Februar</td><td>2022</td></tr>
 <tr><td>Rumänien</td><td>22. Juni</td><td colspan="2">2018</td><td>1. August</td><td>2018</td></tr>
+<tr><td>Russland</td><td>6. Oktober</td><td colspan="2">2022 B</td><td>1. Dezember</td><td>2022</td></tr>
+<tr><td>Saudi-Arabien\*</td><td>10. Juni</td><td colspan="2">2021</td><td>1. August</td><td>2021</td></tr>
 <tr><td>Schweden\*</td><td>12. Juli</td><td colspan="2">2018 B</td><td>1. September</td><td>2018</td></tr>
 <tr><td>Schweiz</td><td>11. Dezember</td><td colspan="2">2014 B</td><td>1. Januar</td><td>2018</td></tr>
+<tr><td>Seychellen</td><td>15. Dezember</td><td colspan="2">2021 B</td><td>1. Februar</td><td>2022</td></tr>
 <tr><td>Sierra Leone</td><td>25. November</td><td colspan="2">2015</td><td>1. Januar</td><td>2018</td></tr>
+<tr><td>Singapur\*</td><td>20. Juli</td><td colspan="2">2022 B</td><td>1. September</td><td>2022</td></tr>
+<tr><td>Slowakei\*</td><td>30. November</td><td colspan="2">2023 B</td><td>1. Januar</td><td>2024</td></tr>
 <tr><td>St. Lucia\*</td><td>12. September</td><td colspan="2">2012</td><td>1. Januar</td><td>2018</td></tr>
 <tr><td>Tschechische Republik\*</td><td>2. Juli</td><td colspan="2">2013</td><td>1. Januar</td><td>2018</td></tr>
+<tr><td>Tunesien\*</td><td>2. April</td><td colspan="2">2024 B</td><td>1. Juni</td><td>2024</td></tr>
 <tr><td>Türkei\*</td><td>31. Mai</td><td colspan="2">2018</td><td>1. Juli</td><td>2018</td></tr>
 <tr><td>Turkmenistan</td><td>17. Juni</td><td colspan="2">2019 B</td><td>1. August</td><td>2019</td></tr>
 <tr><td>Uganda</td><td>28. November</td><td colspan="2">2017</td><td>1. Januar</td><td>2018</td></tr>
+<tr><td>Uruguay\*</td><td>13. März</td><td colspan="2">2024 B</td><td>1. Mai</td><td>2024</td></tr>
 <tr><td>Zypern\*</td><td>28. März</td><td colspan="2">2019</td><td>1. Mai</td><td>2019</td></tr>
-<tr><td colspan="6">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Internationale Zivilluftfahrtorganisation: www.icao.int/ &gt; Français &gt; Recueil des traités &gt; Current lists of parties to multilateral air law treaties oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="6">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Internationalen Zivilluftfahrtorganisation: [www.icao.int](https://www.icao.int/secretariat/legal/Lists/traites%20de%20droit/AllItems.aspx) &gt; Français &gt; Au sujet de l’OACI &gt; Direction des affaires juridiques et des relations extérieures &gt; Recueil des traités &gt; Liste actualisée des parties aux traités de droit aérien eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Nicht anwendbar auf die Sonderverwaltungsregionen Hongkong und Macao.</td></tr>
 </table>
 
-[^t-2]: [AS 2018 259](https://fedlex.data.admin.ch/eli/oc/2018/42), [2019 1195](https://fedlex.data.admin.ch/eli/oc/2019/219)und [3517](https://fedlex.data.admin.ch/eli/oc/2019/643). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2018 259](https://fedlex.data.admin.ch/eli/oc/2018/42); [2019 1195](https://fedlex.data.admin.ch/eli/oc/2019/219), [3517](https://fedlex.data.admin.ch/eli/oc/2019/643); [2024 409](https://fedlex.data.admin.ch/eli/oc/2024/409). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
