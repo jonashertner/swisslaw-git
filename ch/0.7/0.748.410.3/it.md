@@ -3,11 +3,11 @@ sr: "0.748.410.3"
 title: "Protocollo aggiuntivo n. 1 del 25 settembre 1975 che modifica la Convenzione per l'unificazione di alcune norme relative al trasporto aereo internazionale firmata a Varsavia il 12 ottobre 1929"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/20"
 language: it
-version: 2019-08-14
+version: 2024-08-08
 adopted: 1975-09-25
 in_force: 1996-02-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/20/20190814/it/xml/fedlex-data-admin-ch-eli-cc-2003-20-20190814-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/20/20190814/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/20/20240808/it/xml/fedlex-data-admin-ch-eli-cc-2003-20-20240808-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/20/20240808/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,15 +20,9 @@ Traduzione
 
 che modifica la Convenzione per l’unificazione di alcune norme relative al trasporto aereo internazionale firmata a Varsavia il 12 ottobre 1929
 
-Concluso a Montreal il 25 settembre 1975
+Concluso a Montreal il 25 settembre 1975 Approvato dall’Assemblea federale il 9 giugno 1987[^t-1] Ratificato dalla Svizzera con strumento depositato il 9 dicembre 1987 Entrato in vigore per la Svizzera il 15 febbraio 1996
 
-Approvato dall’Assemblea federale il 9 giugno 1987[^t-1]
-
-Ratificato dalla Svizzera con strumento depositato il 9 dicembre 1987
-
-Entrato in vigore per la Svizzera il 15 febbraio 1996
-
-(Stato 14 agosto 2019)
+(Stato 8 agosto 2024)
 
 [^t-1]: Art. 1 cpv.1 lett. a del DF del 9 giu. 1987 ([RU 2003 156](https://fedlex.data.admin.ch/eli/oc/2003/19)).
 
@@ -130,7 +124,7 @@ Sino al 1<sup>o</sup> gennaio 1976, il presente Protocollo resterà aperto alla 
 
 (Seguono le firme)
 
-Campo d’applicazione il 14 agosto 2019**[^t-2]**
+Campo d’applicazione l’8 agosto 2024[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -144,7 +138,7 @@ Campo d’applicazione il 14 agosto 2019**[^t-2]**
 <tr><td>Cipro</td><td>10 novembre</td><td>1992</td><td>15 febbraio</td><td>1996</td></tr>
 <tr><td>Colombia</td><td>20 maggio</td><td>1982</td><td>15 febbraio</td><td>1996</td></tr>
 <tr><td>Croazia</td><td>14 luglio</td><td>1993 S</td><td>15 febbraio</td><td>1996</td></tr>
-<tr><td>Cuba\*</td><td>21 aprile</td><td>1998 A</td><td>20 luglio</td><td>1998</td></tr>
+<tr><td>Cuba\*</td><td>24 aprile</td><td>1998 A</td><td>20 luglio</td><td>1998</td></tr>
 <tr><td>Danimarca</td><td>29 giugno</td><td>1983</td><td>15 febbraio</td><td>1996</td></tr>
 <tr><td>Egitto</td><td>17 novembre</td><td>1978</td><td>15 febbraio</td><td>1996</td></tr>
 <tr><td>Estonia</td><td>16 marzo</td><td>1998 A</td><td>14 giugno</td><td>1998</td></tr>
@@ -206,7 +200,7 @@ Campo d’applicazione il 14 agosto 2019**[^t-2]**
 <tr><td>Tunisia</td><td>28 maggio</td><td>1985</td><td>15 febbraio</td><td>1996</td></tr>
 <tr><td>Uzbekistan</td><td>27 febbraio</td><td>1997 A</td><td>28 maggio</td><td>1997</td></tr>
 <tr><td>Venezuela</td><td>14 luglio</td><td>1978</td><td>15 febbraio</td><td>1996</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni, non sono pubblicate nella RU. Il testo delle stesse può essere consultato sul sito Internet dell’Organisation Internationale de l’Aviation Civile (OACI): www.icao.int/ &gt; Français &gt; Recueil des traités &gt; Current lists of parties to multilateral air law treaties, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione dell’aviazione civile internazionale: [www.icao.int](https://www.icao.int/secretariat/legal/Lists/traites%20de%20droit/AllItems.aspx) &gt; Français &gt; Au sujet de l’OACI &gt; Direction des affaires juridiques et des relations extérieures &gt; Recueil des traités &gt; Liste actualisée des parties aux traités de droit aérien oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. [tab]</td></tr>
 </table>
 
-[^t-2]: [RU 2003 157](https://fedlex.data.admin.ch/eli/oc/2003/20), [2007 4415](https://fedlex.data.admin.ch/eli/oc/2007/610), [2012 389](https://fedlex.data.admin.ch/eli/oc/2012/35)e [2019 2649](https://fedlex.data.admin.ch/eli/oc/2019/495). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2003 157](https://fedlex.data.admin.ch/eli/oc/2003/20); [2007 4415](https://fedlex.data.admin.ch/eli/oc/2007/610); [2012 389](https://fedlex.data.admin.ch/eli/oc/2012/35); [2019 2649](https://fedlex.data.admin.ch/eli/oc/2019/495); [2024 408](https://fedlex.data.admin.ch/eli/oc/2024/408). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

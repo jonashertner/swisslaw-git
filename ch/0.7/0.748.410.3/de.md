@@ -3,11 +3,11 @@ sr: "0.748.410.3"
 title: Zusatzprotokoll Nr. 1 vom 25. September 1975 zur Änderung des am 12. Oktober 1929 in Warschau unterzeichneten Abkommens zur Vereinheitlichung von Regeln über die Beförderung im internationalen Luftverkehr
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/20"
 language: de
-version: 2019-08-14
+version: 2024-08-08
 adopted: 1975-09-25
 in_force: 1996-02-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/20/20190814/de/xml/fedlex-data-admin-ch-eli-cc-2003-20-20190814-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/20/20190814/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/20/20240808/de/xml/fedlex-data-admin-ch-eli-cc-2003-20-20240808-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/20/20240808/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 9. Dezember 1987
 
 In Kraft getreten für die Schweiz am 15. Februar 1996
 
-(Stand am 14. August 2019)
+(Stand am 8. August 2024)
 
 [^t-1]: Art. 1 Abs. 1 Bst. a des BB vom 9. Juni 1987 ([AS 2003 156](https://fedlex.data.admin.ch/eli/oc/2003/19))
 
@@ -126,7 +126,7 @@ Dieses Protokoll liegt bis zum 1. Januar 1976 am Sitz der Internationalen Zivill
 
 *Zu Urkund dessen* haben die unterzeichneten gehörig befugten Bevollmächtigten dieses Protokoll unterschrieben. Geschehen zu Montreal am 25. September 1975 in vier verbindlichen Wortlauten in englischer, französischer, russischer und spanischer Sprache. Bei Abweichungen ist der Wortlaut in französischer Sprache, in der auch das Warschauer Abkommen vom 12. Oktober 1929 abgefasst worden ist, massgebend. (Es folgen die Unterschriften)
 
-Geltungsbereich am 14. August 2019**[^t-2]**
+Geltungsbereich am 8. August 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -157,7 +157,7 @@ Geltungsbereich am 14. August 2019**[^t-2]**
 <tr><td>Kenia</td><td>6. Juli</td><td>1999 B</td><td>4. Oktober</td><td>1999</td></tr>
 <tr><td>Kolumbien</td><td>20. Mai</td><td>1982</td><td>15. Februar</td><td>1996</td></tr>
 <tr><td>Kroatien</td><td>14. Juli</td><td>1993 N</td><td>15. Februar</td><td>1996</td></tr>
-<tr><td>Kuba\*</td><td>21. April</td><td>1998 B</td><td>20. Juli</td><td>1998</td></tr>
+<tr><td>Kuba\*</td><td>24. April</td><td>1998 B</td><td>20. Juli</td><td>1998</td></tr>
 <tr><td>Kuwait</td><td>8. November</td><td>1996</td><td>6. Februar</td><td>1997</td></tr>
 <tr><td>Libanon</td><td>4. August</td><td>2000 B</td><td>2. November</td><td>2000</td></tr>
 <tr><td>Marokko</td><td>26. September</td><td>2012</td><td>25. Dezember</td><td>2012</td></tr>
@@ -202,7 +202,7 @@ Geltungsbereich am 14. August 2019**[^t-2]**
 <tr><td>St. Helena und Ascension</td><td>5. Juli</td><td>1984</td><td>15. Februar</td><td>1996</td></tr>
 <tr><td>Turks- und Caicosinseln</td><td>5. Juli</td><td>1984</td><td>15. Februar</td><td>1996</td></tr>
 <tr><td>Zypern</td><td>10. November</td><td>1992</td><td>15. Februar</td><td>1996</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die französischen und englischen Texte können auf der Internet-Seite der Internationale Zivilluftfahrtorganisation: www.icao.int/ &gt; Français &gt; Recueil des traités &gt; Current lists of parties to multilateral air law treaties oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Internationalen Zivilluftfahrtorganisation: [www.icao.int](https://www.icao.int/secretariat/legal/Lists/traites%20de%20droit/AllItems.aspx) &gt; Français &gt; Au sujet de l’OACI &gt; Direction des affaires juridiques et des relations extérieures &gt; Recueil des traités &gt; Liste actualisée des parties aux traités de droit aérien oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 2003 157](https://fedlex.data.admin.ch/eli/oc/2003/20), [2007 4415](https://fedlex.data.admin.ch/eli/oc/2007/610), [2012 389](https://fedlex.data.admin.ch/eli/oc/2012/35), [2019 2649](https://fedlex.data.admin.ch/eli/oc/2019/495). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2003 157](https://fedlex.data.admin.ch/eli/oc/2003/20); [2007 4415](https://fedlex.data.admin.ch/eli/oc/2007/610); [2012 389](https://fedlex.data.admin.ch/eli/oc/2012/35); [2019 2649](https://fedlex.data.admin.ch/eli/oc/2019/495); [2024 408](https://fedlex.data.admin.ch/eli/oc/2024/408). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

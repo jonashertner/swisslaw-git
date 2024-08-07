@@ -3,11 +3,11 @@ sr: "0.748.410.3"
 title: "Protocole additionnel n<sup>o</sup> 1 du 25 septembre 1975 portant modification de la Convention pour l'unification de certaines règles relatives au transport aérien international signée à Varsovie le 12 octobre 1929"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/20"
 language: fr
-version: 2019-08-14
+version: 2024-08-08
 adopted: 1975-09-25
 in_force: 1996-02-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/20/20190814/fr/xml/fedlex-data-admin-ch-eli-cc-2003-20-20190814-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/20/20190814/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/20/20240808/fr/xml/fedlex-data-admin-ch-eli-cc-2003-20-20240808-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/20/20240808/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,15 +18,9 @@ RO **2003** 157; FF **1986** III 769
 
 Texte original
 
-Conclu à Montréal le 25 septembre 1975
+Conclu à Montréal le 25 septembre 1975 Approuvé par l’Assemblé fédéral le 9 juin 1987[^t-1] Ratification déposée par la Suisse le 9 décembre 1987 Entré en vigueur pour la Suisse le 15 février 1996
 
-Approuvé par l’Assemblé fédéral le 9 juin 1987[^t-1]
-
-Ratification déposée par la Suisse le 9 décembre 1987
-
-Entré en vigueur pour la Suisse le 15 février 1996
-
-(Etat le 14 août 2019)
+(État le 8 août 2024)
 
 [^t-1]: Art. 1 al. 1 let. a de l’AF du 9 juin 1987 ([RO 2003 156](https://fedlex.data.admin.ch/eli/oc/2003/19))
 
@@ -126,7 +120,7 @@ Le présent Protocole restera ouvert à la signature au siège de l’Organisati
 
 *En foi de quoi* les Plénipotentiaires soussignés, dûment autorisés, ont signé le présent Protocole. Fait à Montréal le vingt-cinquième jour du mois de septembre de l’année 1975, en quatre textes authentiques rédigés dans les langues française, anglaise, espagnole et russe. En cas de divergence, le texte en langue française, langue dans laquelle la Convention de Varsovie du 12 octobre 1929 avait été rédigée, fera foi. (Suivent les signatures)
 
-Champ d’application le 14 août 2019**[^t-2]**
+Champ d’application le 8 août 2024[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -140,7 +134,7 @@ Champ d’application le 14 août 2019**[^t-2]**
 <tr><td>Chypre</td><td>10 novembre</td><td>1992</td><td>15 février</td><td>1996</td></tr>
 <tr><td>Colombie</td><td>20 mai</td><td>1982</td><td>15 février</td><td>1996</td></tr>
 <tr><td>Croatie</td><td>14 juillet</td><td>1993 S</td><td>15 février</td><td>1996</td></tr>
-<tr><td>Cuba\*</td><td>21 avril</td><td>1998 A</td><td>20 juillet</td><td>1998</td></tr>
+<tr><td>Cuba\*</td><td>24 avril</td><td>1998 A</td><td>20 juillet</td><td>1998</td></tr>
 <tr><td>Danemark</td><td>29 juin</td><td>1983</td><td>15 février</td><td>1996</td></tr>
 <tr><td>Égypte</td><td>17 novembre</td><td>1978</td><td>15 février</td><td>1996</td></tr>
 <tr><td>Espagne</td><td>8 janvier</td><td>1985</td><td>15 février</td><td>1996</td></tr>
@@ -202,7 +196,7 @@ Champ d’application le 14 août 2019**[^t-2]**
 <tr><td>Togo</td><td>5 mai</td><td>1987</td><td>15 février</td><td>1996</td></tr>
 <tr><td>Tunisie</td><td>28 mai</td><td>1985</td><td>15 février</td><td>1996</td></tr>
 <tr><td>Venezuela</td><td>14 juillet</td><td>1978</td><td>15 février</td><td>1996</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation Internationale de l’Aviation Civile (OACI): www.icao.int/ &gt; Français &gt; Recueil des traités &gt; Current lists of parties to multilateral air law treaties ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations Les réserves et déclarations ne sont pas publiées au RO. . Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation Internationale de l’Aviation Civile (OACI): [www.icao.int](https://www.icao.int/secretariat/legal/Lists/traites%20de%20droit/AllItems.aspx) &gt; Français &gt; Au sujet de l’OACI &gt; Direction des affaires juridiques et des relations extérieures &gt; Recueil des traités &gt; Liste actualisée des parties aux traités de droit aérien ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 2003 157](https://fedlex.data.admin.ch/eli/oc/2003/20), [2007 4415](https://fedlex.data.admin.ch/eli/oc/2007/610), [2012 389](https://fedlex.data.admin.ch/eli/oc/2012/35), [2019 2649](https://fedlex.data.admin.ch/eli/oc/2019/495). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2003 157](https://fedlex.data.admin.ch/eli/oc/2003/20); [2007 4415](https://fedlex.data.admin.ch/eli/oc/2007/610); [2012 389](https://fedlex.data.admin.ch/eli/oc/2012/35); [2019 2649](https://fedlex.data.admin.ch/eli/oc/2019/495); [2024 408](https://fedlex.data.admin.ch/eli/oc/2024/408)Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
