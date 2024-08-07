@@ -3,11 +3,11 @@ sr: "0.748.710.5"
 title: "Convention du 10 septembre 2010 sur la répression des actes illicites dirigés contre l'aviation civile internationale"
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/487"
 language: fr
-version: 2022-02-02
+version: 2024-08-08
 adopted: 2010-09-10
 in_force: 2018-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/487/20220202/fr/xml/fedlex-data-admin-ch-eli-cc-2018-487-20220202-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/487/20220202/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/487/20240808/fr/xml/fedlex-data-admin-ch-eli-cc-2018-487-20240808-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/487/20240808/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,15 +18,9 @@ RO **2018** 3059; FF **2013** 7653
 
 Texte original
 
-Conclue à Pékin le 10 septembre 2010
+Conclue à Pékin le 10 septembre 2010 Approuvée par l’Assemblée fédérale le 20 juin 2014[^t-1] Instrument d’adhésion déposé par la Suisse le 11 décembre 2014 Entrée en vigueur pour la Suisse le 1<sup>er</sup> juillet 2018
 
-Approuvée par l’Assemblée fédérale le 20 juin 2014[^t-1]
-
-Instrument d’adhésion déposé par la Suisse le 11 décembre 2014
-
-Entrée en vigueur pour la Suisse le 1<sup>er</sup> juillet 2018
-
-(Etat le 2 février 2022)
+(État le 8 août 2024)
 
 [^t-1]: Art. 1 al. 1 let. a de l’AF du 20 juin 2018 ([RO 2018 257](https://fedlex.data.admin.ch/eli/oc/2018/41))
 
@@ -335,15 +329,18 @@ Le dépositaire informera rapidement tous les États parties à la présente Con
 
 *En foi de quoi* les plénipotentiaires soussignés, dûment autorisés, ont signé la présente Convention. Fait à Pékin le 10 septembre 2010 en langues française, anglaise, arabe, chinoise, espagnole et russe, tous les textes faisant également foi après la vérification effectuée par le Secrétariat de la Conférence, sous l’autorité du Président de la Conférence, dans les quatre-vingt-dix jours suivant cette date, pour ce qui est de la concordance des textes entre eux. La présente Convention sera déposée aux archives de l’Organisation de l’aviation civile internationale, et le dépositaire en transmettra des copies certifiées conformes à tous les États contractants à la présente Convention. (Suivent les signatures)
 
-Champ d’application le 2 février 2022**[^t-2]**
+Champ d’application le 8 août 2024[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Allemagne\* \*\*</td><td>21 mars</td><td>2022</td><td>1<sup>er</sup> mai</td><td>2022</td></tr>
 <tr><td>Angola</td><td>11 juin</td><td>2013 A</td><td>1<sup>er</sup> juillet</td><td>2018</td></tr>
 <tr><td>Bahreïn\*</td><td>26 octobre</td><td>2017 A</td><td>1<sup>er</sup> juillet</td><td>2018</td></tr>
 <tr><td>Bénin</td><td>27 octobre</td><td>2017</td><td>1<sup>er</sup> juillet</td><td>2018</td></tr>
 <tr><td>Botswana</td><td>30 avril</td><td>2021 A</td><td>1<sup>er</sup> juin</td><td>2021</td></tr>
 <tr><td>Burkina Faso</td><td>24 septembre</td><td>2019</td><td>1<sup>er</sup> novembre</td><td>2019</td></tr>
+<tr><td>Cap-Vert</td><td>17 janvier</td><td>2022 A</td><td>1<sup>er</sup> mars</td><td>2022</td></tr>
+<tr><td>Chine\* <sup>a</sup></td><td>18 août</td><td>2023</td><td>1<sup>er</sup> octobre</td><td>2023</td></tr>
 <tr><td>Chypre</td><td>28 mars</td><td>2019</td><td>1<sup>er</sup> mai</td><td>2019</td></tr>
 <tr><td>Congo (Brazzaville)</td><td>24 septembre</td><td>2019 A</td><td>1<sup>er</sup> novembre</td><td>2019</td></tr>
 <tr><td>Côte d’Ivoire\*</td><td>20 mars</td><td>2015</td><td>1<sup>er</sup> juillet</td><td>2018</td></tr>
@@ -361,8 +358,10 @@ Champ d’application le 2 février 2022**[^t-2]**
 <tr><td>Luxembourg</td><td>19 novembre</td><td>2021 A</td><td>1<sup>er</sup> janvier</td><td>2022</td></tr>
 <tr><td>Mali</td><td>14 novembre</td><td>2012</td><td>1<sup>er</sup> juillet</td><td>2018</td></tr>
 <tr><td>Malte</td><td>26 septembre</td><td>2016 A</td><td>1<sup>er</sup> juillet</td><td>2018</td></tr>
+<tr><td>Mongolie</td><td>3 juillet</td><td>2024</td><td>1<sup>er</sup> septembre</td><td>2024</td></tr>
 <tr><td>Mozambique</td><td>17 août</td><td>2016 A</td><td>1<sup>er</sup> juillet</td><td>2018</td></tr>
 <tr><td>Myanmar</td><td>20 mars</td><td>2013 A</td><td>1<sup>er</sup> juillet</td><td>2018</td></tr>
+<tr><td>Oman</td><td>27 janvier</td><td>2023 A</td><td>1<sup>er</sup> mars</td><td>2023</td></tr>
 <tr><td>Ouganda</td><td>28 novembre</td><td>2017</td><td>1<sup>er</sup> juillet</td><td>2018</td></tr>
 <tr><td>Panama</td><td>9 octobre</td><td>2015</td><td>1<sup>er</sup> juillet</td><td>2018</td></tr>
 <tr><td>Paraguay</td><td>3 août</td><td>2018</td><td>1<sup>er</sup> octobre</td><td>2018</td></tr>
@@ -372,15 +371,19 @@ Champ d’application le 2 février 2022**[^t-2]**
 <tr><td>République dominicaine</td><td>27 novembre</td><td>2012</td><td>1<sup>er</sup> juillet</td><td>2018</td></tr>
 <tr><td>République tchèque\*</td><td>2 juillet</td><td>2013</td><td>1<sup>er</sup> juillet</td><td>2018</td></tr>
 <tr><td>Roumanie</td><td>22 juin</td><td>2018</td><td>1<sup>er</sup> août</td><td>2018</td></tr>
+<tr><td>Russie\*</td><td>6 octobre</td><td>2022 A</td><td>1<sup>er</sup> décembre</td><td>2022</td></tr>
 <tr><td>Rwanda</td><td>9 décembre</td><td>2021 A</td><td>1<sup>er</sup> février</td><td>2022</td></tr>
 <tr><td>Sainte-Lucie\*</td><td>12 septembre</td><td>2012</td><td>1<sup>er</sup> juillet</td><td>2018</td></tr>
 <tr><td>Sierra Leone</td><td>25 novembre</td><td>2015</td><td>1<sup>er</sup> juillet</td><td>2018</td></tr>
+<tr><td>Singapour\*</td><td>20 juillet</td><td>2022 A</td><td>1<sup>er</sup> septembre</td><td>2022</td></tr>
+<tr><td>Slovaquie\*</td><td>30 novembre</td><td>2023 A</td><td>1<sup>er</sup> janvier</td><td>2024</td></tr>
 <tr><td>Suède\*</td><td>12 juillet</td><td>2018 A</td><td>1<sup>er</sup> septembre</td><td>2018</td></tr>
 <tr><td>Suisse</td><td>11 décembre</td><td>2014 A</td><td>1<sup>er</sup> juillet</td><td>2018</td></tr>
+<tr><td>Tunisie\*</td><td>2 avril</td><td>2024 A</td><td>1<sup>er</sup> juin</td><td>2024</td></tr>
 <tr><td>Turkménistan</td><td>17 juin</td><td>2019 A</td><td>1<sup>er</sup> août</td><td>2019</td></tr>
 <tr><td>Turquie\*</td><td>31 mai</td><td>2018</td><td>1<sup>er</sup> juillet</td><td>2018</td></tr>
 <tr><td>Uruguay</td><td>5 décembre</td><td>2019 A</td><td>1<sup>er</sup> février</td><td>2020</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation Internationale de l’Aviation Civile (OACI): www.icao.int/ &gt; Français &gt; Recueil des traités &gt; Current lists of parties to multilateral air law treaties ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation Internationale de l’Aviation Civile (OACI): [www.icao.int](https://www.icao.int/secretariat/legal/Lists/traites%20de%20droit/AllItems.aspx) &gt; Français &gt; Au sujet de l’OACI &gt; Direction des affaires juridiques et des relations extérieures &gt; Recueil des traités &gt; Liste actualisée des parties aux traités de droit aérien ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Ne s’applique pas aux régions administratives spéciales de Hong Kong et Macao.</td></tr>
 </table>
 
-[^t-2]: [RO 2018 3059](https://fedlex.data.admin.ch/eli/oc/2018/487); [2020 3781](https://fedlex.data.admin.ch/eli/oc/2020/689); [2022 64](https://fedlex.data.admin.ch/eli/oc/2022/64). Une version du champ d'application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante : www.fedlex.admin.ch/fr/treaty.
+[^t-2]: [RO 2018 3059](https://fedlex.data.admin.ch/eli/oc/2018/487); [2020 3781](https://fedlex.data.admin.ch/eli/oc/2020/689); [2022 64](https://fedlex.data.admin.ch/eli/oc/2022/64); [2024 410](https://fedlex.data.admin.ch/eli/oc/2024/410). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
