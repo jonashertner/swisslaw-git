@@ -3,11 +3,11 @@ sr: "0.360.136.1"
 title: "Accord du 5 avril 2022 entre la Confédération suisse et la République fédérale d'Allemagne relatif à la coopération transfrontalière en matière policière et judiciaire (Accord entre la Suisse et l’Allemagne en matière de police)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/170"
 language: fr
-version: 2024-05-01
+version: 2024-08-09
 adopted: 2022-04-05
 in_force: 2024-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/170/20240501/fr/xml/fedlex-data-admin-ch-eli-cc-2024-170-20240501-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/170/20240501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/170/20240809/fr/xml/fedlex-data-admin-ch-eli-cc-2024-170-20240809-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/170/20240809/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -22,7 +22,7 @@ Traduction
 
 Conclu le 5 avril 2022 Instruments de ratification échangés le 27 mars 2024 Entré en vigueur le 1<sup>er</sup> mai 2024
 
-(État le 1<sup>er</sup> mai 2024)
+(État le 9 août 2024)
 
 La Confédération suisse et la République fédérale d’Allemagne
 
@@ -972,3 +972,17 @@ Fait à Berlin, le 5 avril 2022, en deux originaux rédigés tous deux en langue
 
 [^64-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
 [^64-2]: [[RO 2003 1026](https://fedlex.data.admin.ch/eli/oc/2003/184)]
+
+## Services compétents selon l’art. 52 de l’Accord
+
+[^lvlu8-1]
+
+[^lvlu8-1]: Communication du 9 août 2024 ([RO 2024 439](https://fedlex.data.admin.ch/eli/oc/2024/439)).
+
+Suisse
+
+Les autorités compétentes mentionnées à l’art. 52 de l’Accord sont l’Office fédéral des routes (OFROU) pour la mise en œuvre technique de l’échange automatisé de données relatives à des véhicules et à leurs détenteurs, les ministères publics cantonaux ou, dans certains cantons, la police cantonale pour l’exécution des amendes passées en force et les polices cantonales et les polices municipales pour toutes les autres mesures visées au chap. VI.
+
+Allemagne
+
+Les autorités compétentes mentionnées à l’art. 52 de l’Accord sont l’Office fédéral de la justice et l’Office fédéral des véhicules à moteur.

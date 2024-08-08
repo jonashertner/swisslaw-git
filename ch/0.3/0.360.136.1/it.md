@@ -3,11 +3,11 @@ sr: "0.360.136.1"
 title: Accordo del 5 aprile 2022 tra la Confederazione Svizzera e la Repubblica federale di Germania sulla cooperazione transfrontaliera in materia di polizia e giudiziaria (Accordo di polizia tra Svizzera e Germania)
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/170"
 language: it
-version: 2024-05-01
+version: 2024-08-09
 adopted: 2022-04-05
 in_force: 2024-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/170/20240501/it/xml/fedlex-data-admin-ch-eli-cc-2024-170-20240501-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/170/20240501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/170/20240809/it/xml/fedlex-data-admin-ch-eli-cc-2024-170-20240809-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/170/20240809/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -22,7 +22,7 @@ Traduzione
 
 Concluso il 5 aprile 2022 Strumenti di ratificazione scambiati il 27 marzo 2024 Entrato in vigore il 1° maggio 2024
 
-(Stato 1° maggio 2024)
+(Stato 9 agosto 2024)
 
 La Confederazione Svizzera e la Repubblica federale di Germania,
 
@@ -970,3 +970,17 @@ Fatto a Berlino il 5 aprile 2022 in due originali in lingua tedesca.
 
 [^64-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
 [^64-2]: [[RU 2003 1026](https://fedlex.data.admin.ch/eli/oc/2003/184)]
+
+## Servizi competenti secondo l’articolo 52 dell’Accordo
+
+[^lvlu8-1]
+
+[^lvlu8-1]: Comunicazione del 9 ago. 2024 ([RU 2024 439](https://fedlex.data.admin.ch/eli/oc/2024/439)).
+
+Svizzera
+
+Quali autorità competenti ai sensi dell’articolo 52 dell’Accordo sono designati l’Ufficio federale delle strade (USTRA) per l’attuazione tecnica dello scambio automatico di dati relativi a veicoli e detentori, i pubblici ministeri dei Cantoni oppure in alcuni Cantoni le polizie cantonali per l’esecuzione di multe passate in giudicato e le polizie cantonali e comunali per tutte le altre misure di attuazione secondo il capitolo VI.
+
+Germania
+
+Quali autorità competenti ai sensi dell’articolo 52 dell’Accordo sono designati l’Ufficio federale di giustizia e l’Autorità federale dei trasporti automobilistici.

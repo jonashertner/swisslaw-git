@@ -3,11 +3,11 @@ sr: "0.360.136.1"
 title: Vertrag vom 5. April 2022 zwischen der Schweizerischen Eidgenossenschaft und der Bundesrepublik Deutschland über die grenzüberschreitende polizeiliche und justizielle Zusammenarbeit (Schweizerisch-deutscher Polizeivertrag)
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/170"
 language: de
-version: 2024-05-01
+version: 2024-08-09
 adopted: 2022-04-05
 in_force: 2024-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/170/20240501/de/xml/fedlex-data-admin-ch-eli-cc-2024-170-20240501-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/170/20240501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/170/20240809/de/xml/fedlex-data-admin-ch-eli-cc-2024-170-20240809-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/170/20240809/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -22,7 +22,7 @@ Originaltext
 
 Abgeschlossen am 5. April 2022 Ratifikationsurkunden ausgetauscht am 27. März 2024 In Kraft getreten am 1. Mai 2024
 
-(Stand am 1. Mai 2024)
+(Stand am 9. August 2024)
 
 Die Schweizerische Eidgenossenschaft und die Bundesrepublik Deutschland,
 
@@ -976,3 +976,17 @@ Geschehen zu Berlin am 5. April 2022 in zwei Urschriften, beide in deutscher Spr
 
 [^64-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
 [^64-2]: [[AS 2003 1026](https://fedlex.data.admin.ch/eli/oc/2003/184)]
+
+## Zuständige Stellen gemäss Artikel 52 des Vertrages
+
+[^lvlu8-1]
+
+[^lvlu8-1]: Mitteilung vom 9. Aug. 2024 ([AS 2024 439](https://fedlex.data.admin.ch/eli/oc/2024/439)).
+
+Schweiz
+
+Als zuständige Behörden im Sinne von Art. 52 des Vertrages werden das Bundesamt für Strassen (ASTRA) für die technische Umsetzung des automatischen Austauschs von Fahrzeug- und Halterdaten, die Staatsanwaltschaften der Kantone bzw. in einigen Kantonen die Kantonspolizeien für die Durchsetzung rechtskräftiger Bussen und die Kantons- und Stadtpolizeien für alle übrigen Umsetzungsmassnahmen gemäss Kapitel VI bestimmt.
+
+Deutschland
+
+Als zuständige Behörde im Sinne von Artikel 52 des Vertrages werden das Bundesamt für Justiz (BfJ) und das Kraftfahrt-Bundesamt (KBA) bestimmt.
