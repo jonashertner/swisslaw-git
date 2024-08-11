@@ -4,24 +4,24 @@ number: "413.820"
 title: Verordnung betreffend die Maturitätsprüfungen im Kanton Basel-Stadt
 short: "Maturitätsprüfungsverordnung, MPV"
 language: de
-version: 2017-12-21
-valid_until: 2024-08-11
-version_adopted: 2017-12-12
+version: 2024-08-12
+valid_until: 2027-08-15
+version_adopted: 2024-02-27
 adopted: 2000-03-28
 in_force: 1999-08-09
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/413.820"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4307/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6164/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung betreffend die Maturitätsprüfungen im Kanton Basel-Stadt
 
-Maturitätsprüfungsverordnung | Mittelschulen
+Mittelschulen
 
 (Maturitätsprüfungsverordnung, MPV)
 
-Vom 28. März 2000 (Stand 21. Dezember 2017)
+Vom 28. März 2000 (Stand 12. August 2024)
 
 Der Regierungsrat des Kantons Basel-Stadt
 
@@ -94,12 +94,12 @@ erlässt, gestützt auf das Reglement über die Anerkennung von gymnasialen Matu
 
 **Anforderungen an Lehrpersonen des Maturitätslehrgangs**
 
-<sup>1</sup> Während der letzten vier Jahre des Maturitätslehrganges, der zu einer schweizerisch anerkannten Maturität führt, ist der Unterricht von Lehrpersonen zu erteilen,
+<sup>1</sup> Während der letzten vier Jahre des Maturitätslehrganges, der zu einer schweizerisch anerkannten Maturität führt, ist der Unterricht von Lehrpersonen zu erteilen:
 
 - a) die über ein von der Schweizerischen Konferenz der Kantonalen Erziehungsdirektorinnen und -direktoren (EDK) anerkanntes Diplom für das höhere Lehramt im entsprechenden Fach oder
 - b) über ein von der EDK als gleichwertig anerkanntes Diplom verfügen.
-- c) deren Abschluss von der Schweizerischen Konferenz der Kantonalen Erziehungsdirektorinnen und -direktoren (EDK) als dem Basler Oberlehramt, dem höheren Lehramt resp. dem Lehrdiplom für Maturitätsschulen im entsprechenden Fach definitiv als gleichwertig anerkannt wird.
-- d) deren Abschluss von der Schweizerischen Konferenz der Kantonalen Erziehungsdirektorinnen und -direktoren (EDK) als dem Basler Oberlehramt, dem höheren Lehramt resp. dem Lehrdiplom für Maturitätsschulen im entsprechenden Fach provisorisch als gleichwertig anerkannt wird, sofern sie in einem Immersionsprojekt unterrichten.
+- c) …
+- d) …
 
 <sup>2</sup> Über begründete Ausnahmen entscheidet die Leitung Mittelschulen und Berufsbildung.
 
@@ -270,13 +270,13 @@ erlässt, gestützt auf das Reglement über die Anerkennung von gymnasialen Matu
 
 **Maturitätsnote in der Maturaarbeit**
 
-<sup>1</sup> Die Maturitätsnote in der Maturaarbeit wird aufgrund der schriftlichen Arbeit oder des Produkts samt Begleittext sowie deren mündlicher Präsentation mit je einer Note gesetzt.
+<sup>1</sup> Die Maturitätsnote in der Maturaarbeit wird aufgrund der schriftlichen Arbeit oder des Produkts samt Begleittext sowie deren mündlicher Präsentation und Fachgespräch mit je einer Note gesetzt.
 
 <sup>2</sup> Bei der Bewertung der schriftlichen Arbeit oder des Produkts samt Begleittext sind der Arbeitsprozess und das Arbeitsergebnis zu berücksichtigen.
 
 <sup>3</sup> Die Bewertung erfolgt in ganzen und halben Noten.
 
-<sup>4</sup> Für die Gesamtnote der Maturaarbeit wird die Note für die schriftliche Arbeit oder das Produkt samt Begleittext zu ⅔ und die Note für die mündliche Präsentation zu ⅓ gewichtet.
+<sup>4</sup> Für die Gesamtnote der Maturaarbeit wird die Note für die schriftliche Arbeit oder das Produkt samt Begleittext und die Note für die mündliche Präsentation und Fachgespräch mit je 50 Prozent gewichtet.
 
 <sup>5</sup> Ergibt die Berechnung einer Bewertung ein arithmetisches Mittel mit ,25 oder besser, so wird auf die nächste halbe Note und ergibt sie ein arithmetisches Mittel mit ,75 oder besser, wird sie auf die nächste ganze Note aufgerundet.
 
@@ -442,5 +442,11 @@ erlässt, gestützt auf das Reglement über die Anerkennung von gymnasialen Matu
 <sup>5</sup> Diese Verordnung ist zu publizieren; sie wird rückwirkend auf den Beginn des Schuljahres 1999/2000 wirksam.[^40-1]
 
 [^40-1]: Wirksam seit 9. 8. 1999, publiziert am 1. 4. 2000.
+
+#### § 40a
+
+**Übergangsbestimmung zur Änderung betreffend § 17 Abs. 1 und 4**
+
+<sup>1</sup> Für Schülerinnen und Schüler, die die Maturitätsprüfungen vor dem Schuljahr 2025/2026 ablegen, gilt diese Verordnung in der Fassung vom 12. Dezember 2017.
 
 KB 01.04.2000
