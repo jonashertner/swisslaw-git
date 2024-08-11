@@ -3,13 +3,13 @@ canton: BS
 number: "411.300"
 title: Verordnung über die Volksschulleitung
 language: de
-version: 2017-08-14
-valid_until: 2024-08-11
-version_adopted: 2017-04-11
+version: 2024-08-12
+valid_until: 2025-08-10
+version_adopted: 2024-01-09
 adopted: 2012-06-26
 in_force: 2012-08-13
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/411.300"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4156/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6400/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4156/pdf_file"
 
 Volksschulleitung: Verordnung | Behörden/Personal
 
-Vom 26. Juni 2012 (Stand 14. August 2017)
+Vom 26. Juni 2012 (Stand 12. August 2024)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -94,7 +94,7 @@ beschliesst:
 
 <sup>1</sup> Die Leitung Volksschulen entscheidet nach Beratung in der Volksschulleitungskonferenz über:
 
-- a) die Festlegung und Beurteilung der Wahlfächer in der Volksschule;
+- a) die Festlegung und Beurteilung der Freifächer in der Volksschule;
 - b) die Prüfungsinhalte der Aufnahmeprüfungen und die Durchführung der Aufnahmeprüfungen und Leistungstests.
 
 #### § 9
