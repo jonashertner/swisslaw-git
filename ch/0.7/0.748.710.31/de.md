@@ -3,25 +3,26 @@ sr: "0.748.710.31"
 title: "Protokoll vom 24. Februar 1988 zur Bekämpfung widerrechtlicher gewalttätiger Handlungen auf Flughäfen, die der internationalen Zivilluftfahrt dienen, in Ergänzung des am 23. September 1971 in Montreal beschlossenen Übereinkommens zur Bekämpfung widerrechtlicher Handlungen gegen die Sicherheit der Zivilluftfahrt"
 eli: "https://fedlex.data.admin.ch/eli/cc/1990/1935_1935_1935"
 language: de
-version: 2020-09-01
+version: 2024-08-12
 adopted: 1988-02-24
 in_force: 1990-11-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/1935_1935_1935/20200901/de/xml/fedlex-data-admin-ch-eli-cc-1990-1935_1935_1935-20200901-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1990/1935_1935_1935/20200901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1990/1935_1935_1935/20240812/de/xml/fedlex-data-admin-ch-eli-cc-1990-1935_1935_1935-20240812-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1990/1935_1935_1935/20240812/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Protokoll zur Bekämpfung widerrechtlicher gewalttätiger Handlungen auf Flughäfen, die der internationalen Zivilluftfahrt dienen, in Ergänzung des am 23. September 1971 in Montreal beschlossenen Übereinkommens zur Bekämpfung widerrechtlicher Handlungen gegen die Sicherheit der Zivilluftfahrt
 
-[^t-1]as Übersetzung
+AS **1990** 1935; BBl **1989** III 425
 
-Abgeschlossen in Montreal am 24. Februar 1988 Von der Bundesversammlung genehmigt am 18. Juni 1990[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 9. Oktober 1990 In Kraft getreten für die Schweiz am 8. November 1990
+Übersetzung
 
-(Stand am 1. September 2020)
+Abgeschlossen in Montreal am 24. Februar 1988 Von der Bundesversammlung genehmigt am 18. Juni 1990[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 9. Oktober 1990 In Kraft getreten für die Schweiz am 8. November 1990
 
-[^t-1]: [AS 1990 1935](https://fedlex.data.admin.ch/eli/oc/1990/1935_1935_1935); [BBl 1989 III 425](https://fedlex.data.admin.ch/eli/fga/1989/3_425_418_375)
-[^t-2]: [AS 1990 1934](https://fedlex.data.admin.ch/eli/oc/1990/1934_1934_1934)
+(Stand am 12. August 2024)
+
+[^t-1]: [AS 1990 1934](https://fedlex.data.admin.ch/eli/oc/1990/1934_1934_1934)
 
 Die Vertragsstaaten dieses Protokolls,
 
@@ -43,7 +44,7 @@ Dieses Protokoll ergänzt das am 23. September 1971 in Montreal beschlossene Üb
 
 **und **III****
 
-...[^II-1]
+…[^II-1]
 
 [^II-1]: Die Änderungen können unter [AS 1990 1935](https://fedlex.data.admin.ch/eli/oc/1990/1935_1935_1935)konsultiert werden.
 
@@ -97,7 +98,7 @@ Dieses Protokoll liegt am 24. Februar 1988 in Montreal für die Teilnehmerstaate
 
 *Zu Urkund dessen* haben die unterzeichneten, hierzu von ihren Regierungen gehörig befugten Bevollmächtigten dieses Protokoll unterschrieben. Geschehen zu Montreal am 24. Februar 1988 in vier Urschriften, jede in vier verbindlichen Wortlauten in englischer, französischer, russischer und spanischer Sprache. (Es folgen die Unterschriften)
 
-Geltungsbereich am 1. September 2020**[^t-3]**
+Geltungsbereich am 12. August 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th colspan="2"></th></tr>
@@ -133,7 +134,6 @@ Geltungsbereich am 1. September 2020**[^t-3]**
 <tr><td>China\*</td><td>5. März</td><td>1999</td><td colspan="2">4. April</td><td>1999</td></tr>
 <tr><td>Hongkong</td><td>18. Juni</td><td>1997</td><td colspan="2">1. Juli</td><td>1997</td></tr>
 <tr><td>Macau</td><td>19. September</td><td>2002</td><td>19. September</td><td colspan="2">2002</td></tr>
-<tr><td>Cook-Inseln</td><td>14. April</td><td>2005 B</td><td colspan="2">14. Mai</td><td>2005</td></tr>
 <tr><td>Costa Rica</td><td>22. April</td><td>2003</td><td colspan="2">22. Mai</td><td>2003</td></tr>
 <tr><td>Côte d’Ivoire</td><td>13. April</td><td>2012</td><td>13. Mai</td><td colspan="2">2012</td></tr>
 <tr><td>Dänemark</td><td>23. November</td><td>1989</td><td colspan="2">23. Dezember</td><td>1989</td></tr>
@@ -206,22 +206,23 @@ Geltungsbereich am 1. September 2020**[^t-3]**
 <tr><td>Mauritius</td><td>17. August</td><td>1989</td><td colspan="2">16. September</td><td>1989</td></tr>
 <tr><td>Mexiko</td><td>11. Oktober</td><td>1990</td><td colspan="2">10. November</td><td>1990</td></tr>
 <tr><td>Mikronesien</td><td>19. März</td><td>2003 B</td><td colspan="2">18. April</td><td>2003</td></tr>
-<tr><td>Moldau</td><td>20. Juni</td><td>1997 B</td><td colspan="2">20. Juli</td><td>1997</td></tr>
+<tr><td>Moldau</td><td>20. Juni</td><td>1997 B</td><td colspan="2">27. Juli</td><td>1997</td></tr>
 <tr><td>Monaco</td><td>22. Dezember</td><td>1993 B</td><td colspan="2">21. Januar</td><td>1994</td></tr>
 <tr><td>Mongolei</td><td>22. September</td><td>1999 B</td><td colspan="2">22. Oktober</td><td>1999</td></tr>
 <tr><td>Montenegro</td><td>9. Januar</td><td>2007 N</td><td colspan="2">3. Juni</td><td>2006</td></tr>
 <tr><td>Mosambik</td><td>16. Januar</td><td>2003 B</td><td colspan="2">15. Februar</td><td>2003</td></tr>
-<tr><td>Myanmar</td><td>20. Mai</td><td>1996 B</td><td colspan="2">21. Juni</td><td>1996</td></tr>
+<tr><td>Myanmar</td><td>22. Mai</td><td>1996 B</td><td colspan="2">21. Juni</td><td>1996</td></tr>
 <tr><td>Namibia</td><td>4. November</td><td>2005 B</td><td colspan="2">4. Dezember</td><td>2005</td></tr>
 <tr><td>Nauru</td><td>19. August</td><td>2005 B</td><td colspan="2">18. September</td><td>2005</td></tr>
 <tr><td>Neuseeland</td><td>2. August</td><td>1999</td><td colspan="2">1. September</td><td>1999</td></tr>
+<tr><td>Cook-Inseln</td><td>14. April</td><td>2005 B</td><td colspan="2">14. Mai</td><td>2005</td></tr>
+<tr><td>Niue</td><td>30. September</td><td>2009 B</td><td colspan="2">30. Oktober</td><td>2009</td></tr>
 <tr><td>Nicaragua</td><td>23. April</td><td>2002 B</td><td colspan="2">23. Mai</td><td>2002</td></tr>
 <tr><td>Niederlande\*</td><td>11. Juli</td><td>1995</td><td colspan="2">10. August</td><td>1995</td></tr>
 <tr><td>Aruba\*</td><td>12. Dezember</td><td>2005</td><td colspan="2">12. Dezember</td><td>2005</td></tr>
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)\*</td><td>10. Oktober</td><td>2010</td><td colspan="2">10. Oktober</td><td>2010</td></tr>
 <tr><td>Niger</td><td>23. Dezember</td><td>2008</td><td colspan="2">22. Januar</td><td>2009</td></tr>
 <tr><td>Nigeria</td><td>25. März</td><td>2003 B</td><td colspan="2">24. April</td><td>2003</td></tr>
-<tr><td>Niue</td><td>30. September</td><td>2009 B</td><td colspan="2">30. Oktober</td><td>2009</td></tr>
 <tr><td>Nordmazedonien</td><td>4. Januar</td><td>1995 N</td><td colspan="2">17. September</td><td>1991</td></tr>
 <tr><td>Norwegen</td><td>29. Mai</td><td>1990</td><td colspan="2">28. Juni</td><td>1990</td></tr>
 <tr><td>Oman</td><td>27. November</td><td>1992 B</td><td colspan="2">27. Dezember</td><td>1992</td></tr>
@@ -240,7 +241,6 @@ Geltungsbereich am 1. September 2020**[^t-3]**
 <tr><td>Russland</td><td>31. März</td><td>1989</td><td colspan="2">6. August</td><td>1989</td></tr>
 <tr><td>São Tomé und Príncipe</td><td>8. Mai</td><td>2006 B</td><td colspan="2">7. Juni</td><td>2006</td></tr>
 <tr><td>Samoa</td><td>9. Juli</td><td>1998 B</td><td colspan="2">8. August</td><td>1998</td></tr>
-<tr><td>San Marino</td><td>20. Januar</td><td>2015 B</td><td>20. Februar</td><td colspan="2">2015</td></tr>
 <tr><td>Saudi-Arabien</td><td>21. Februar</td><td>1989</td><td colspan="2">6. August</td><td>1989</td></tr>
 <tr><td>Schweden</td><td>26. Juli</td><td>1990</td><td colspan="2">25. August</td><td>1990</td></tr>
 <tr><td>Schweiz</td><td>9. Oktober</td><td>1990</td><td colspan="2">8. November</td><td>1990</td></tr>
@@ -260,7 +260,7 @@ Geltungsbereich am 1. September 2020**[^t-3]**
 <tr><td>Sudan</td><td>15. Mai</td><td>2000</td><td colspan="2">14. Juni</td><td>2000</td></tr>
 <tr><td>Suriname</td><td>27. März</td><td>2003 B</td><td colspan="2">26. April</td><td>2003</td></tr>
 <tr><td>Syrien</td><td>18. Juli</td><td>2002 B</td><td colspan="2">17. August</td><td>2002</td></tr>
-<tr><td>Tadschikistan</td><td>29. Februar</td><td>1996 B</td><td colspan="2">30. Juni</td><td>1996</td></tr>
+<tr><td>Tadschikistan</td><td>29. Februar</td><td>1996 B</td><td colspan="2">30. März</td><td>1996</td></tr>
 <tr><td>Tansania</td><td>9. März</td><td>2004</td><td colspan="2">8. April</td><td>2004</td></tr>
 <tr><td>Thailand</td><td>14. Mai</td><td>1996 B</td><td colspan="2">13. Juni</td><td>1996</td></tr>
 <tr><td>Togo</td><td>9. Februar</td><td>1990</td><td colspan="2">11. März</td><td>1990</td></tr>
@@ -284,7 +284,7 @@ Geltungsbereich am 1. September 2020**[^t-3]**
 <tr><td>Vietnam</td><td>25. August</td><td>1999 B</td><td colspan="2">24. September</td><td>1999</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>1. Juli</td><td>1991 B</td><td colspan="2">31. Juli</td><td>1991</td></tr>
 <tr><td>Zypern</td><td>23. April</td><td>2002 B</td><td colspan="2">23. Mai</td><td>2002</td></tr>
-<tr><td colspan="6">\* Vorbehalte und Erklärungen Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Internationalen Zivilluftfahrtorganisation: www.icao.int/ &gt; Français &gt; Recueil des traités &gt; Current lists of parties to multilateral air law treaties oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="6">\* Vorbehalte und Erklärungen Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Internationalen Zivilluftfahrtorganisation: [www.icao.int/](https://www.icao.int/secretariat/legal/Lists/traites%20de%20droit/AllItems.aspx) &gt; Français &gt; Au sujet de l'OACI &gt; Direction des affaires juridiques et des relations extérieures &gt; Recueil des traités &gt; Liste actualisée des parties aux traités de droit aérien eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-3]: [AS 1990 1935](https://fedlex.data.admin.ch/eli/oc/1990/1935_1935_1935), [1991 2337](https://fedlex.data.admin.ch/eli/oc/1991/2337_2337_2337), [2004 1627](https://fedlex.data.admin.ch/eli/oc/2004/198), [2005 1613](https://fedlex.data.admin.ch/eli/oc/2005/253)[5003](https://fedlex.data.admin.ch/eli/oc/2005/687), [2006 2971](https://fedlex.data.admin.ch/eli/oc/2006/455), [2008 3979](https://fedlex.data.admin.ch/eli/oc/2008/541), [2010 3381](https://fedlex.data.admin.ch/eli/oc/2010/461), [2013 2727](https://fedlex.data.admin.ch/eli/oc/2013/562), [2016 989](https://fedlex.data.admin.ch/eli/oc/2016/176), [2020 3777](https://fedlex.data.admin.ch/eli/oc/2020/687). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1990 1935](https://fedlex.data.admin.ch/eli/oc/1990/1935_1935_1935); [1991 2337](https://fedlex.data.admin.ch/eli/oc/1991/2337_2337_2337); [2004 1627](https://fedlex.data.admin.ch/eli/oc/2004/198); [2005 1613](https://fedlex.data.admin.ch/eli/oc/2005/253), [5003](https://fedlex.data.admin.ch/eli/oc/2005/687); [2006 2971](https://fedlex.data.admin.ch/eli/oc/2006/455); [2008 3979](https://fedlex.data.admin.ch/eli/oc/2008/541); [2010 3381](https://fedlex.data.admin.ch/eli/oc/2010/461); [2013 2727](https://fedlex.data.admin.ch/eli/oc/2013/562); [2016 989](https://fedlex.data.admin.ch/eli/oc/2016/176); [2020 3777](https://fedlex.data.admin.ch/eli/oc/2020/687); [2024 427](https://fedlex.data.admin.ch/eli/oc/2024/427). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty.](https://www.fedlex.admin.ch/de/treaty.)
