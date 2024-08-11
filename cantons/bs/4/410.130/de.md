@@ -4,13 +4,12 @@ number: "410.130"
 title: "Verordnung über den Schulbesuch, die Absenzen, Dispensationen und Disziplinarmassnahmen"
 short: Absenzen- und Disziplinarverordnung
 language: de
-version: 2020-07-01
-valid_until: 2024-08-11
-version_adopted: 2020-05-05
+version: 2024-08-12
+version_adopted: 2024-01-09
 adopted: 2014-05-20
 in_force: 2014-08-18
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/410.130"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5979/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6401/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Absenzen- und Disziplinarverordnung | Schulen
 
 (Absenzen- und Disziplinarverordnung)
 
-Vom 20. Mai 2014 (Stand 1. Juli 2020)
+Vom 20. Mai 2014 (Stand 12. August 2024)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -94,7 +93,7 @@ beschliesst:
 
 **Schulbesuchspflicht**
 
-<sup>1</sup> Die Schülerinnen, Schüler und Lernenden sind verpflichtet, alle Pflicht- und Wahlpflichtfächer, alle Wahlfächer, für die sie angemeldet sind, sowie alle obligatorischen Schulanlässe zu besuchen.
+<sup>1</sup> Die Schülerinnen, Schüler und Lernenden sind verpflichtet, alle Pflicht- und Wahlpflichtfächer, alle Freifächer, für die sie angemeldet sind, sowie alle obligatorischen Schulanlässe zu besuchen.
 
 ## IV. Absenzen
 
@@ -350,7 +349,7 @@ beschliesst:
 - b) schriftliche Verwarnung unter gleichzeitiger Benachrichtigung der Erziehungsberechtigten;
 - c) Arbeitseinsatz für die Schule;
 - d) gemeinnützige Arbeitsleistung;
-- e) Ausschluss von Wahlfächern;
+- e) Ausschluss von Freifächern;
 - f) befristeter Ausschluss von einzelnen Pflicht- und Wahlpflichtfächern;
 - g) Wegweisung von der Schule für höchstens fünf Tage; es gelten die Weisungen der Schulleitung. Die Erziehungsberechtigten sind zu benachrichtigen. In den Volksschulen muss die Schulleitung für angemessene Beschäftigungsmassnahmen sorgen und die Betreuung klären;
 - h) Versetzung in eine andere Klasse.
