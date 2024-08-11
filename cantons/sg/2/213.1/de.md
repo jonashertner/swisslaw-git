@@ -4,13 +4,13 @@ number: "213.1"
 title: Volksschulgesetz
 short: VSG
 language: de
-version: 2023-03-01
-corrected: 2023-08-21
+version: 2024-08-12
+valid_until: 2024-08-31
 version_adopted: 2023-01-24
 adopted: 1983-01-13
 in_force: 1983-04-16
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/213.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3533/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3535/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3533/pdf_file"
 
 (VSG)
 
-vom 13.01.1983 (Stand 01.03.2023)
+vom 13.01.1983 (Stand 12.08.2024)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -250,15 +250,32 @@ als Gesetz:[^ingress-3]
 
 <sup>2</sup> Der Rat kann von den Eltern einen Beitrag an die Kosten verlangen.
 
+#### Art. 19ter
+
+**Schulergänzende Betreuung**
+
+<sup>1</sup> Der Schulträger bietet für die Schülerinnen und Schüler in Kindergarten und Primarschule bedarfsgerecht eine schulergänzende Betreuung an, soweit nicht die politische Gemeinde diese Aufgabe erfüllt. Das Angebot umfasst wenigstens:
+
+- a) die Zeitspanne von Montag bis Freitag von 7 bis 18 Uhr;
+- b) die Schulwochen und acht Wochen der Schulferien.
+
+<sup>2</sup> Der Schulträger erstellt ein Qualitätskonzept.
+
+<sup>3</sup> Der Besuch der schulergänzenden Betreuung ist für Schülerinnen und Schüler freiwillig.
+
+<sup>4</sup> Der Schulträger kann von den Eltern einen Beitrag an die Kosten verlangen.
+
 #### Art. 20
 
 **Zusätzliche Angebote**
 
 <sup>1</sup> Der Schulträger sorgt für:
 
-- a) den Transport von Schülerinnen und Schülern mit unzumutbarem Schulweg. Hat die politische Gemeinde oder der Schulträger einen Mittagstisch eingerichtet, besteht kein Anspruch auf einen Transport vor dem Mittag nach Hause und nach dem Mittag zur Schule zurück;
+- a) den Transport von Schülerinnen und Schülern mit unzumutbarem Schulweg. Kein Anspruch auf einen Transport besteht:
+  - 1\. vor dem Mittag nach Hause und nach dem Mittag zur Schule zurück, wenn die politische Gemeinde oder der Schulträger einen Mittagstisch eingerichtet hat;
+  - 2\. von Zuhause zum schulergänzenden Betreuungsangebot und von diesem nach Hause;
 - b) …
-- c) die Betreuung der Schülerinnen und der Schüler während Mittagstisch und Wartezeiten.
+- c) die Betreuung der Schülerinnen und Schüler während Mittagstisch und Wartezeiten.
 
 #### Art. 20bis
 
@@ -1423,9 +1440,12 @@ als Gesetz:[^ingress-3]
 
 <sup>2</sup> Eine Rekursstelle Volksschule besteht aus fünf nebenamtlich tätigen Mitgliedern. Wenigstens ein Mitglied verfügt über ein juristisches Studium mit Lizentiats- oder Master-Abschluss nach Art. 7 Abs. 1 Bst. a des eidgenössischen Anwaltsgesetzes vom 23. Juni 2000[^110bis-1].
 
+<sup>2<sup>bis</sup></sup> Die Amtsdauer beginnt am 1. September des Jahres, in dem die kantonale Amtsdauer nach dem Gesetz über die Amtsdauer vom 8. Januar 2004[^110bis-2] beginnt, und beträgt vier Jahre.
+
 <sup>3</sup> Die Amtszeit endet spätestens mit Vollendung des 70. Altersjahres.
 
 [^110bis-1]: SR [935.61](https://db.clex.ch/link/Bund/935.61/de).
+[^110bis-2]: sGS [117.1](https://www.gesetzessammlung.sg.ch/data/117.1/de).
 
 #### Art. 110ter
 
