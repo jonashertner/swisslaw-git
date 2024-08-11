@@ -3,13 +3,13 @@ canton: BS
 number: "410.100"
 title: Schulgesetz
 language: de
-version: 2024-03-01
-valid_until: 2024-08-11
-version_adopted: 2023-12-13
+version: 2024-08-12
+valid_until: 2026-08-09
+version_adopted: 2024-09-18
 adopted: 1929-04-04
 in_force: 1929-10-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/410.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6221/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6481/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6221/pdf_file"
 
 Schulen
 
-Vom 4. April 1929 (Stand 1. März 2024)
+Vom 4. April 1929 (Stand 12. August 2024)
 
 Der Grosse Rat des Kantons Basel-Stadt
 
@@ -579,7 +579,11 @@ beschliesst in Ausführung der §§ 12 und 13 der Kantonsverfassung vom 2. Dezem
 - c) Schulische Heilpädagogik;
 - d) Logopädie;
 - e) Psychomotorik;
-- f) Einführungsklassen.
+- f) Einführungsklassen;
+- g) Heilpädagogisch geführte klassenübergreifende Fördergruppen;
+- h) Heilpädagogisch geführte Förderklassen;
+- i) Interventionsangebote (Lerninseln);
+- j) Klassen, die von einer zusätzlichen Lehr - oder Fachperson unterstützt werden.
 
 <sup>2</sup> Der Förderbedarf wird durch das zuständige pädagogische Team der Schule festgestellt.
 
@@ -732,15 +736,15 @@ beschliesst in Ausführung der §§ 12 und 13 der Kantonsverfassung vom 2. Dezem
 
 #### § 73
 
-**Unterrichtszeit und Tagesstrukturen in der Volksschule**
+**Unterrichtszeit der Volksschule**
 
-<sup>1</sup> Am Vormittag erfolgt der Unterricht in der Volksschule im Rahmen von Blockzeiten.
+<sup>1</sup> Der Unterricht in der Volksschule erfolgt am Vormittag im Rahmen von Blockzeiten.
 
-<sup>2</sup> Ergänzend zu den Unterrichtszeiten gewährleistet die Schulleitung in der Volksschule ein bedarfsgerechtes, nach pädagogischen Grundsätzen geführtes Betreuungsangebot (Tagesstrukturen).
+<sup>2</sup> …
 
-<sup>3</sup> Bei der Festlegung der Zeitorganisation von Unterricht und Tagesstrukturen werden die Bedürfnisse der Kinder und Familien berücksichtigt.
+<sup>3</sup> …
 
-<sup>4</sup> Die Betreuungsleistung in den Tagesstrukturen kann von privaten Institutionen erbracht werden.
+<sup>4</sup> …
 
 #### § 74
 
@@ -761,7 +765,7 @@ beschliesst in Ausführung der §§ 12 und 13 der Kantonsverfassung vom 2. Dezem
 - g) die Förderangebote, verstärkten Massnahmen und Fördermassnahmen vor der Einschulung (§§ 63b, 64 und 64a)
 - h) die Unterrichtslektionen (§ 67a)
 - i) die Klassengrössen (§ 67b)
-- j) die Tagesstrukturen (§§ 73 und 75 Abs. 5)
+- j) die Tagesstrukturen und Ferienangebote (§§ 77b-j)
 - k) die Abgabe der Lehrmittel und Verbrauchsmaterialien (§ 75 Abs. 3)
 - k<sup>bis</sup>) den von den öffentlichrechtlich und kantonal anerkannten Kirchen und Religionsgemeinschaften verantworteten Religionsunterricht (§ 77 Abs. 3)
 - l) die Schulräte (§ 79a)
@@ -792,7 +796,7 @@ beschliesst in Ausführung der §§ 12 und 13 der Kantonsverfassung vom 2. Dezem
 
 <sup>4</sup> …
 
-<sup>5</sup> Die Erziehungsberechtigten beteiligen sich entsprechend ihrer finanziellen Leistungskraft an den Kosten für die Tagesstrukturen. Der Regierungsrat legt die Höhe und die Berechnungsmodalitäten der Beiträge fest.
+<sup>5</sup> …
 
 #### § 76
 
@@ -817,6 +821,93 @@ beschliesst in Ausführung der §§ 12 und 13 der Kantonsverfassung vom 2. Dezem
 #### § 77a
 
 **…**
+
+## II<sup>bis</sup>. Tagesstrukturen und Ferienangebote
+
+#### § 77b
+
+**Tagesstrukturen**
+
+<sup>1</sup> Kanton und Gemeinden stellen für die Schülerinnen und Schüler der Volksschulen bedarfsgerechte, nach pädagogischen Grundsätzen geführte, den Unterricht ergänzende schuleigene und schulexterne Tagesstrukturen bereit.
+
+<sup>2</sup> Bei der Ausgestaltung der Angebote sind die Bedürfnisse der Kinder und Erziehungsberechtigten zu berücksichtigen.
+
+<sup>3</sup> Die Angebote umfassen auf der Primarstufe vor und nach dem Unterricht Betreuung und an den Sekundarschulen nach dem Unterricht einen beaufsichtigten Aufenthalt und Aktivitäten.
+
+#### § 77c
+
+**Ferienangebote**
+
+<sup>1</sup> Kanton und Gemeinden stellen für alle Schülerinnen und Schüler mit Aufenthalt im Kanton, die eine Schule der Primarstufe besuchen, bedarfsgerechte Ferienangebote bereit.
+
+<sup>2</sup> Die Angebote umfassen Betreuung und Aktivitäten während mindestens zwölf Schulferienwochen.
+
+#### § 77d
+
+**Anforderungen**
+
+<sup>1</sup> Die Angebote erfüllen folgende Anforderungen:
+
+- a) sie basieren auf einem vom zuständigen Departement oder der zuständigen Stelle der Gemeinden genehmigten betrieblichen und pädagogischen Konzept;
+- b) sie verfügen über Leitungs- und Betreuungspersonal mit der ihrer Funktion entsprechenden fachlichen und persönlichen Eignung;
+- c) sie bieten eine ausgewogene und gesunde Verpflegung an;
+- d) der Betreuungsschlüssel und die Räumlichkeiten entsprechen den Bedürfnissen der Schülerinnen und Schüler;
+- e) sie werden konfessionell und politisch neutral geführt.
+
+#### § 77e
+
+**Verantwortung**
+
+<sup>1</sup> Die Verantwortung für die schuleigenen Tagesstrukturen obliegt der jeweiligen Schulleitung.
+
+<sup>2</sup> Die Verantwortung für die vom Kanton und den Gemeinden bereitgestellten schulexternen Tagesstrukturen und Ferienangebote obliegt der zuständigen Stelle des zuständigen Departements beziehungsweise der zuständigen Stelle der Gemeinden.
+
+<sup>3</sup> Die Gesamtverantwortung für die Tagesstrukturen und Ferienangebote trägt das zuständige Departement.
+
+#### § 77f
+
+**Private Anbieterinnen und Anbieter**
+
+<sup>1</sup> Die für die Angebote zuständigen Stellen können private Anbieterinnen und Anbieter mittels Leistungsvereinbarung mit der Führung von Tagesstrukturen und der Durchführung von Ferienangeboten beauftragen.
+
+<sup>2</sup> Die Leistungsvereinbarung regelt insbesondere:
+
+- a) die Organisation und den Betrieb des Angebots;
+- b) die Art, den Umfang und die Qualität der zu erbringenden Leistungen sowie deren Abgeltung;
+- c) das Rechnungswesen und Controlling;
+- d) die Verantwortlichkeiten, insbesondere die Aufsicht durch das zuständige Departement oder die zuständige Stelle der Gemeinden.
+
+<sup>3</sup> Der Kanton oder die Gemeinden können beauftragten privaten Anbieterinnen und Anbietern Investitionsbeiträge gewähren.
+
+#### § 77g
+
+**Qualitätssicherung und Weiterentwicklung**
+
+<sup>1</sup> Die für die Angebote zuständigen Stellen gewährleisten die Qualität der Angebote und sorgen für deren Weiterentwicklung.
+
+#### § 77h
+
+**Zusammenarbeit**
+
+<sup>1</sup> Die Schul- und Tagesstrukturleitungen, die Lehr-, Fach- und Betreuungspersonen sowie die Betreuungspersonen und Erziehungsberechtigten arbeiten zusammen.
+
+<sup>2</sup> Sie informieren sich gegenseitig über Belange, die für die Betreuung und Förderung der Schülerinnen und Schüler relevant sind.
+
+#### § 77i
+
+**Datenbearbeitung**
+
+<sup>1</sup> Die für die Angebote zuständigen und mit deren Durchführung beauftragten Stellen können zur Erfüllung ihrer Aufgaben Personendaten und besondere Personendaten von Schülerinnen und Schülern bearbeiten und untereinander austauschen.
+
+#### § 77j
+
+**Kostenbeteiligung**
+
+<sup>1</sup> Die Erziehungsberechtigten beteiligen sich entsprechend ihrer finanziellen Leistungsfähigkeit an den Kosten des von ihrem Kind besuchten Angebots.
+
+<sup>2</sup> In Härtefällen kann auf eine Beitragserhebung verzichtet werden.
+
+<sup>3</sup> Der Regierungsrat legt die Berechnungsmodalitäten und die Höhe der Beiträge fest. Die Gemeinden können von der Höhe abweichende Beiträge festlegen.
 
 ## III. Schulbehörden, Schulaufsicht
 
@@ -870,11 +961,11 @@ beschliesst in Ausführung der §§ 12 und 13 der Kantonsverfassung vom 2. Dezem
 
 **Zusammensetzung der Schulräte**
 
-<sup>1</sup> Der Schulrat besteht grundsätzlich aus sechs Mitgliedern und einer Präsidentin oder einem Präsidenten. Er setzt sich wie folgt zusammen:
+<sup>1</sup> Der Schulrat besteht grundsätzlich aus sieben Mitgliedern und einer Präsidentin oder einem Präsidenten. Er setzt sich wie folgt zusammen:
 
 - a) eine schulexterne Präsidentin oder ein schulexterner Präsident. Sie bzw. er wird vom Regierungsrat gewählt.
 - b) vier schulexterne Mitglieder: zwei vom Elternrat gewählte Vertretungen der Erziehungsberechtigten und zwei auf Vorschlag der politischen Parteien vom Regierungsrat gewählte Vertretungen der Gesellschaft.
-- c) zwei schulinterne Mitglieder: eine Vertretung der Schulleitung und eine von der Schulkonferenz gewählte Vertretung der Lehr- und Fachpersonen.
+- c) drei schulinterne Mitglieder: eine Vertretung der Schulleitung, eine von der Schulkonferenz gewählte Vertretung der Lehr- und Fachpersonen und eine Vertretung der schuleigenen Tagesstruktur.
 
 <sup>2</sup> Die Schülerschaft einer Sekundarschule kann zwei Vertretungen aus ihrem Kreis als zusätzliche schulinterne Mitglieder wählen.
 
