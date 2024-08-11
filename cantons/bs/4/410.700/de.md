@@ -4,13 +4,13 @@ number: "410.700"
 title: Verordnung über die Beurteilung und die Schullaufbahnentscheide der Schülerinnen und Schüler der Volksschule und der weiterführenden Schulen
 short: "Schullaufbahnverordnung, SLV"
 language: de
-version: 2024-06-29
-valid_until: 2024-08-11
-version_adopted: 2022-12-13
+version: 2024-08-12
+valid_until: 2025-01-15
+version_adopted: 2024-01-09
 adopted: 2012-09-11
 in_force: 2013-08-12
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/410.700"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6482/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6483/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Schulen
 
 (Schullaufbahnverordnung, SLV)
 
-Vom 11. September 2012 (Stand 29. Juni 2024)
+Vom 11. September 2012 (Stand 12. August 2024)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -327,12 +327,14 @@ beschliesst:
 
 <sup>1</sup> Ab dem 2. Schuljahr erhalten die Schülerinnen und Schüler am Ende jedes Schuljahres ein Zeugnis.
 
-<sup>2</sup> Zusätzlich zum Zeugnis am Schuljahresende erhalten die Schülerinnen und Schüler am Ende des ersten Semesters des 8. – 11. Schuljahres sowie in der FMS, WMS, IMS und BM ein Zeugnis.
+<sup>2</sup> Zusätzlich zum Zeugnis am Schuljahresende erhalten die Schülerinnen und Schüler am Ende des ersten Semesters des 8. – 11. Schuljahres sowie in der WMS, IMS und BM ein Zeugnis.
 
 - a) …
 - b) …
 
 <sup>3</sup> In den Brückenangeboten erhalten die Schülerinnen und Schüler am Ende des ersten und zweiten Trimesters, im Brückenangebot integratives Profil des 12. Schuljahres am Ende des zweiten Trimesters, ein Zwischenzeugnis.
+
+<sup>4</sup> In der FMS erhalten die Schülerinnen und Schüler am Ende des ersten Semesters des 12. Schuljahres ein Zwischenzeugnis.
 
 #### § 26
 
@@ -348,7 +350,7 @@ beschliesst:
 
 **Sachkompetenz im Zeugnis**
 
-<sup>1</sup> Für die Pflicht- und Wahlpflichtfächer legt der Erziehungsrat, für die Wahlfächer die Volksschulleitung oder die Leitung Mittelschulen und Berufsbildung fest, ob die Sachkompetenz im Zeugnis beurteilt wird.
+<sup>1</sup> Für die Pflicht- und Wahlpflichtfächer legt der Erziehungsrat, für die Freifächer die Volksschulleitung oder die Leitung Mittelschulen und Berufsbildung fest, ob die Sachkompetenz im Zeugnis beurteilt wird.
 
 <sup>2</sup> In der BM wird die Sachkompetenz für alle unterrichteten Fächer im Zeugnis beurteilt.
 
@@ -362,13 +364,13 @@ beschliesst:
 
 #### § 28
 
-**Pflichtfächer, Wahlpflichtfächer und Wahlfächer**
+**Pflichtfächer, Wahlpflichtfächer und Freifächer**
 
 <sup>1</sup> Pflichtfächer sind Fächer, die besucht werden müssen.
 
 <sup>2</sup> Wahlpflichtfächer sind in Gruppen geordnete Fächer, von denen eine bestimmte Auswahl besucht werden muss.
 
-<sup>3</sup> Wahlfächer sind Fächer, die freiwillig besucht werden können.
+<sup>3</sup> Freifächer sind Fächer, die freiwillig besucht werden können.
 
 #### § 29
 
@@ -386,7 +388,7 @@ beschliesst:
 
 <sup>1</sup> Die zuständige Lehrperson beurteilt die Sachkompetenz in den Fachbereichen oder Fächern auf der Grundlage der während der massgeblichen Beurteilungsperiode erstellten Beurteilungsbelege (§ 21).
 
-<sup>2</sup> Das Gewicht eines einzelnen Beurteilungsbelegs muss kleiner sein als 50 %.
+<sup>2</sup> Das Gewicht eines einzelnen Beurteilungsbelegs muss kleiner sein als 50 %. In Fächern mit nur einer Jahreslektion kann das Gewicht eines Beurteilungsbelegs auch 50 % betragen.
 
 <sup>3</sup> Erfolgt die Beurteilung der Sachkompetenz durch eine Kombination von verschiedenen Beurteilungsformen, hat die zuständige Lehrperson eine Gesamtbeurteilung vorzunehmen.
 
@@ -402,7 +404,7 @@ beschliesst:
 
 <sup>1</sup> Für die Beurteilung der Sachkompetenz werden die folgenden Prädikate verwendet: «hohe Anforderungen erreicht», «mittlere Anforderungen erreicht», «Grundanforderungen erreicht» und «Grundanforderungen nicht erreicht».
 
-<sup>2</sup> Die Teilnahme an den Schwerpunktfächern Bildung und Praxis sowie den Wahlpflichtfächern in den Brückenangeboten, den Wahlfächern und den zusätzlichen Angeboten wird durch den Eintrag «besucht» bestätigt.
+<sup>2</sup> Die Teilnahme an den Schwerpunktfächern Bildung und Praxis sowie den Wahlpflichtfächern in den Brückenangeboten, den Freifächern und den zusätzlichen Angeboten wird durch den Eintrag «besucht» bestätigt.
 
 #### § 33
 
@@ -420,7 +422,7 @@ beschliesst:
 
 **Lernbericht**
 
-<sup>1</sup> Vom 1. – 14. Schuljahr erhalten die Schülerinnen und Schüler in den Volksschulen, den Gymnasien und den Brückenangeboten einen Lernbericht.
+<sup>1</sup> In den Volksschulen, den Brückenangeboten, vom 12. – 14. Schuljahr in den Gymnasien und vom 13. – 14. Schuljahr in der FMS erhalten die Schülerinnen und Schüler einen Lernbericht.
 
 <sup>2</sup> Im 1. Schuljahr wird der Lernbericht am Ende des Schuljahres, vom 2. – 14. Schuljahr am Ende des ersten Semesters ausgestellt.
 
@@ -590,13 +592,13 @@ beschliesst:
 
 #### § 46
 
-**Beförderung in der FMS, IMS, WMS und BM**
+**Beförderung in der IMS, WMS und BM**
 
 <sup>1</sup> In der FMS, IMS und BM werden die Schülerinnen und Schüler in das nächste Semester befördert, wenn im Zeugnis die folgenden Voraussetzungen erfüllt sind:
 
 - a) der Durchschnitt der Zeugnisnoten aller Beförderungsfächer, in der BM aller unterrichteten Fächer, ergibt mindestens 4,0;
 - b) die Summe aller Notenabweichungen von 4,0 nach unten übersteigt nicht den Wert 2;
-- c) in der FMS sind nicht mehr als drei Noten, in der IMS und BM nicht mehr als zwei Noten unter 4,0;
+- c) in der IMS und BM sind nicht mehr als zwei Noten unter 4,0;
 - d) in der IMS wird im Fach Informatik mindestens die Note 4,0 erreicht.
 
 <sup>1<sup>bis</sup></sup> In der WMS werden die Schülerinnen und Schüler in das nächste Semester befördert, wenn im Zeugnis die folgenden Voraussetzungen erfüllt sind:
@@ -609,31 +611,53 @@ beschliesst:
 
 <sup>1<sup>ter</sup></sup> Schülerinnen und Schüler der BM, die die Ausbildung nach der beruflichen Grundbildung absolvieren (BM 2), müssen zusätzlich bis zu dem von der Schulleitung festgelegten Stichtag pro Unterrichtsfach mindestens 80 % der Unterrichtslektionen des Semesters besucht haben.
 
-<sup>1<sup>quater</sup></sup> Schülerinnen und Schüler der FMS werden in das 14. Schuljahr befördert, wenn sie das berufsfeldbezogene Praktikum des 13. Schuljahres erfolgreich absolviert haben.
+<sup>1<sup>quater</sup></sup> …
 
-<sup>2</sup> Schülerinnen und Schüler, welche die Voraussetzungen nach den Abs. 1 – 1<sup>bis</sup> nicht erfüllen, werden provisorisch in das nächste Semester befördert. Davon ausgenommen sind Schülerinnen und Schüler, die provisorisch in die FMS übergetreten sind (§ 48) und Schülerinnen und Schüler der BM, die die Ausbildung nach der beruflichen Grundbildung in einem Jahr absolvieren (BM 2 Vollzeit) (§ 50).
+<sup>2</sup> Schülerinnen und Schüler, welche die Voraussetzungen nach den Abs. 1 – 1<sup>bis</sup> nicht erfüllen, werden provisorisch in das nächste Semester befördert. Davon ausgenommen sind Schülerinnen und Schüler der BM, die die Ausbildung nach der beruflichen Grundbildung in einem Jahr absolvieren (BM 2 Vollzeit) (§ 50).
 
 <sup>3</sup> Im Zeugnis wird «befördert» oder «provisorisch befördert» eingetragen.
+
+#### § 46a
+
+**Beförderung in der FMS**
+
+<sup>1</sup> In der FMS werden die Schülerinnen und Schüler in das nächste Schuljahr befördert, wenn im Zeugnis die folgenden Voraussetzungen erfüllt sind:
+
+- a) der Durchschnitt der Zeugnisnoten aller Beförderungsfächer ergibt mindestens 4,0;
+- b) die Summe aller Notenabweichungen von 4,0 nach unten übersteigt nicht den Wert 2;
+- c) nicht mehr als drei Noten liegen unter 4,0.
+
+<sup>2</sup> Die Schülerinnen und Schüler werden in das 14. Schuljahr befördert, wenn sie zusätzlich zur Beförderung nach Abs. 1 das berufsfeldbezogene Praktikum des 13. Schuljahres erfüllt haben.
+
+<sup>3</sup> Im Zeugnis wird «befördert» eingetragen.
 
 #### § 47
 
 **Aufnahme in eine Fachrichtung an der FMS nach der 1. Klasse**
 
-<sup>1</sup> Für die Aufnahme in eine Fachrichtung an der FMS nach der 1. Klasse gelten zusätzlich zur Beförderung nach § 46 die Zulassungskriterien nach dem Anhang I § 2 zu dieser Verordnung.
+<sup>1</sup> Für die Aufnahme in eine Fachrichtung an der FMS nach der 1. Klasse gelten zusätzlich zur Beförderung nach § 46a Abs. 1 im Zwischenzeugnis am Ende des ersten Semesters der 1. Klasse die Zulassungskriterien gemäss Anhang I § 2.
 
 #### § 48
 
 **Nichtbeförderung in und Austritt aus der FMS von provisorisch übergetretenen Schülerinnen und Schülern nach dem ersten Semester des 12. Schuljahres**
 
-<sup>1</sup> Schülerinnen und Schüler, die provisorisch in die FMS übergetreten sind, werden nicht befördert und müssen aus der Schule austreten, wenn im Zeugnis nach dem ersten Semester des 12. Schuljahres die Voraussetzungen nach § 46 Abs. 1 nicht erfüllt sind. Vorbehalten bleibt eine ausserordentliche Beförderung nach § 52.
+<sup>1</sup> Schülerinnen und Schüler, die provisorisch in die FMS übergetreten sind, werden nicht befördert und müssen aus der Schule austreten, wenn im Zwischenzeugnis nach dem ersten Semester des 12. Schuljahres die Voraussetzungen nach § 46a Abs. 1 nicht erfüllt sind. Vorbehalten bleibt eine ausserordentliche Beförderung nach § 52.
 
 <sup>2</sup> Im Zeugnis wird «Austritt nach § 48 SLV» eingetragen.
 
+#### § 48a
+
+**Nichtbeförderung in der FMS am Ende des 12. – 14. Schuljahres**
+
+<sup>1</sup> Sind die Voraussetzungen nach § 46a nicht erfüllt, werden die Schülerinnen und Schüler nicht befördert.
+
+<sup>2</sup> In das Zeugnis wird «nicht befördert» eingetragen.
+
 #### § 49
 
-**Nichtbeförderung in der FMS, IMS, WMS und BM (BM 1) vom 12. bis 15. Schuljahr**
+**Nichtbeförderung in der IMS, WMS und BM (BM 1) vom 12. – 15. Schuljahr**
 
-<sup>1</sup> Schülerinnen und Schüler der FMS, IMS und WMS, die nach einer provisorischen Beförderung im vorhergehenden Semester die Voraussetzungen nach § 46 Abs. 1 nicht erfüllen, werden nicht befördert. Vorbehalten bleibt eine ausserordentliche Wiederholung eines Unterrichtsjahres oder eine ausserordentliche Beförderung nach § 52. In das Zeugnis wird «nicht befördert» eingetragen.
+<sup>1</sup> Schülerinnen und Schüler der IMS und WMS, die nach einer provisorischen Beförderung im vorhergehenden Semester die Voraussetzungen nach § 46 Abs. 1 nicht erfüllen, werden nicht befördert. Vorbehalten bleibt eine ausserordentliche Wiederholung eines Unterrichtsjahres oder eine ausserordentliche Beförderung nach § 52. In das Zeugnis wird «nicht befördert» eingetragen.
 
 <sup>2</sup> Schülerinnen und Schüler der BM für die lehrbegleitende Ausbildung (BM 1), die nach einer provisorischen Beförderung in der BM die Voraussetzungen nach § 46 Abs. 1 nicht erfüllen, werden nicht befördert und müssen aus der Schule austreten. Vorbehalten bleibt eine ausserordentliche Wiederholung eines Unterrichtsjahres oder eine ausserordentliche Beförderung nach § 52. In das Zeugnis wird «Austritt nach § 49 Abs. 2 SLV» eingetragen.
 
@@ -663,7 +687,7 @@ beschliesst:
 
 **Ausserordentliche Wiederholung eines Unterrichtsjahres oder ausserordentliche Beförderung in den weiterführenden Schulen**
 
-<sup>1</sup> Sind die Voraussetzungen für eine Nichtbeförderung nach den §§ 44, 45, 48, 49 und 50 gegeben, können Schülerinnen und Schüler ausnahmsweise das vorausgehende Unterrichtsjahr wiederholen oder in das nächste Unterrichtsjahr befördert werden, wenn mit der Wiederholung oder der Beförderung die Schülerinnen und Schüler im Hinblick auf die weitere Schullaufbahn eine bessere Entwicklungsperspektive haben und einer der folgenden Gründe für die ungenügenden Leistungen vorliegt:
+<sup>1</sup> Sind die Voraussetzungen für eine Nichtbeförderung nach den §§ 44, 45, 48, 48a, 49 und 50 gegeben, können Schülerinnen und Schüler ausnahmsweise das vorausgehende Unterrichtsjahr wiederholen oder in das nächste Unterrichtsjahr befördert werden, wenn mit der Wiederholung oder der Beförderung die Schülerinnen und Schüler im Hinblick auf die weitere Schullaufbahn eine bessere Entwicklungsperspektive haben und einer der folgenden Gründe für die ungenügenden Leistungen vorliegt:
 
 - a) unregelmässiger Bildungsgang, insbesondere aufgrund einer längeren Krankheit oder eines häufigen Wechsels des Schulsystems;
 - b) einschneidende persönliche Umstände, die bei den Schülerinnen und Schülern zu einem Leistungsabfall geführt haben.
@@ -754,7 +778,7 @@ Die Summe der dreifach gezählten Zeugnisnoten in den Fächern Deutsch, Mathemat
 
 <sup>1</sup> Die Schülerinnen und Schüler können in einen Leistungszug mit höheren Anforderungen wechseln, wenn im Zeugnis die folgende Voraussetzung erfüllt ist:
 
-Der Durchschnitt der Zeugnisnoten aller Pflicht- und Wahlpflichtfächer ergibt mindestens 5,25.
+Der Durchschnitt der Zeugnisnoten aller Pflicht- und Wahlpflichtfächer ausgenommen das Fach Medien und Informatik ergibt mindestens 5,25.
 
 <sup>2</sup> In das Zeugnis wird «Wechsel in E-Zug möglich» oder «Wechsel in P-Zug möglich» eingetragen.
 
@@ -778,6 +802,8 @@ Der Durchschnitt der Zeugnisnoten aller Pflicht- und Wahlpflichtfächer ergibt m
 
 - a) Die doppelte Summe der Notenabweichungen aller Pflicht- und Wahlpflichtfächer von 4,0 nach unten übersteigt die Summe aller Notenabweichungen von 4,0 nach oben; oder
 - b) In den Pflicht- und Wahlpflichtfächern liegen mehr als drei Noten unter 4,0.
+
+<sup>1<sup>bis</sup></sup> Bei den Pflicht- und Wahlpflichtfächern gemäss Abs. 1 wird das Fach Medien und Informatik nicht berücksichtigt.
 
 <sup>2</sup> In das Zeugnis wird «Wechsel in E-Zug» oder «Wechsel in A-Zug» eingetragen.
 
@@ -1010,7 +1036,7 @@ Der Durchschnitt der Zeugnisnoten aller Pflicht- und Wahlpflichtfächer ergibt m
 <sup>3</sup> Anschliessend an die Besprechungen der Zeugnisklassenkonferenz:
 
 - a) setzen die Fachlehrpersonen die Zeugnisfachnoten für die Beurteilung nach § 30 und bei einer Einschätzung die Zeugnisprädikate nach § 31 fest;
-- b) beschliesst die Zeugnisklassenkonferenz über die Beförderung nach den §§ 40, 43 und 46, die Nichtbeförderungen nach den §§ 44 – 45 und 48 – 50, die Berechtigungen für den Übertritt in einen Leistungszug der Sekundarschule nach den §§ 56 – 58, den Wechsel eines Leistungszugs nach den § 60 und § 63 oder die Berechtigung für den Übertritt in eine weiterführende Schule nach den §§ 69 – 70 sowie die Empfehlungen für eine ausserordentliche Wiederholung eines Schuljahres nach § 41, einen ausserordentlichen Übertritt in die Sekundarschule, einen ausserordentlichen Wechsel oder Verbleib in der Sekundarschule nach § 41a, eine ausserordentliche Wiederholung eines Unterrichtsjahres oder eine ausserordentliche Beförderung nach § 52, für das Überspringen eines Schuljahres nach § 53, im Gymnasium für den Übertritt in die FMS, IMS und WMS nach § 44 oder in der FMS oder WMS für den Übertritt in das Gymnasium nach § 11.
+- b) beschliesst die Zeugnisklassenkonferenz über die Beförderung nach den §§ 40, 43, 46 und 46a, die Nichtbeförderungen nach den §§ 44, 45, 48, 48a, 49 und 50 die Berechtigungen für den Übertritt in einen Leistungszug der Sekundarschule nach den §§ 56 – 58, den Wechsel eines Leistungszugs nach den § 60 und § 63 oder die Berechtigung für den Übertritt in eine weiterführende Schule nach den §§ 69 – 70 sowie die Empfehlungen für eine ausserordentliche Wiederholung eines Schuljahres nach § 41, einen ausserordentlichen Übertritt in die Sekundarschule, einen ausserordentlichen Wechsel oder Verbleib in der Sekundarschule nach § 41a, eine ausserordentliche Wiederholung eines Unterrichtsjahres oder eine ausserordentliche Beförderung nach § 52, für das Überspringen eines Schuljahres nach § 53 oder in der FMS oder WMS für den Übertritt in das Gymnasium nach § 11.
 
 <sup>4</sup> Die Zeugnisklassenkonferenz beschliesst mit Mehrheitsbeschluss. Jede an der Zeugnisklassenkonferenz anwesende Lehrperson hat eine Stimme. Bei Stimmengleichheit hat die Schulleitung den Stichentscheid.
 
@@ -1196,6 +1222,20 @@ Der Durchschnitt der Zeugnisnoten aller Pflicht- und Wahlpflichtfächer ergibt m
 [^99-16]: SG 413.715.
 [^99-17]: SG 413.740.
 
+#### § 100
+
+**Übergangsregelung zur Einführung der Jahrespromotion an der FMS auf Beginn des Schuljahres 2024/25**
+
+<sup>1</sup> Für Schülerinnen und Schüler, die den Fachmittelschulausweis bis zum Ende des Schuljahres 2025/26 erwerben, gelten die bisherigen Bestimmungen mit Semesterpromotion.
+
+<sup>2</sup> Schülerinnen und Schüler der 2. Klasse, die im Schuljahr 2024/25 am Ende des ersten Semesters nicht befördert werden und das Unterrichtsjahr gemäss § 51 wiederholen, treten in das zweite Semester der 1. Klasse ein. Am Ende der 1. Klasse erhalten sie einen Lernbericht. Mit Beginn des Schuljahres 2025/26 treten sie in die 2. Klasse über und wiederholen das Unterrichtsjahr nach den neuen Bestimmungen mit Jahrespromotion.
+
+<sup>3</sup> Schülerinnen und Schüler der 2. Klasse, die im Schuljahr 2024/25 am Ende des zweiten Semesters nicht befördert werden und das Unterrichtsjahr gemäss § 51 wiederholen, treten auf Beginn des Schuljahres 2025/26 in die 2. Klasse ein und wiederholen das Unterrichtsjahr nach den neuen Bestimmungen mit Jahrespromotion.
+
+<sup>4</sup> Schülerinnen und Schüler der 3. Klasse, die im Schuljahr 2025/26 am Ende des ersten Semesters nicht befördert werden und das Unterrichtsjahr gemäss § 51 wiederholen, treten in das zweite Semester der 2. Klasse ein. Am Ende der 2. Klasse erhalten sie einen Lernbericht. Mit Beginn des Schuljahres 2026/27 treten sie in die 3. Klasse über und wiederholen das Unterrichtsjahr nach den neuen Bestimmungen mit Jahrespromotion.
+
+<sup>5</sup> Schülerinnen und Schüler der 3. Klasse, die im Schuljahr 2025/26 die Voraussetzungen zum Erhalt des Fachmittelschulausweises nicht erfüllen und das Unterrichtsjahr wiederholen, treten auf Beginn des Schuljahres 2026/27 in die 3. Klasse ein und wiederholen das Unterrichtsjahr nach den neuen Bestimmungen mit Jahrespromotion.
+
 *Schlussbestimmung*
 
 Diese Verordnung ist zu publizieren. Sie wird, abgesehen von § 4 Abs. 2, wirksam
@@ -1210,7 +1250,7 @@ c) für die weiterführenden Schulen auf Beginn des Schuljahres 2018/19 am 13. A
 
 KB 15.09.2012
 
-[^footer-1]: Schlussbestimmung lit. a geändert durch RRB vom 8. 7. 2014 (wirksam seit 13. 7. 2014.
+[^footer-1]: Schlussbestimmung: lit. a geändert durch RRB vom 8. 7. 2014 (wirksam seit 13. 7. 2014).
 
 ## Weitere Fussnoten
 
