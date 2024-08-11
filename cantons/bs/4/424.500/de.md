@@ -1,27 +1,26 @@
 ---
 canton: BS
 number: "424.500"
-title: Verordnung betreffend den Passerelle-Lehrgang und die Ergänzungsprüfungen für die Zulassung von Inhaberinnen und Inhabern eines eidgenössischen Berufsmaturitätszeugnisses oder eines gesamtschweizerisch anerkannten Fachmaturitätszeugnisses zu den universitären Hochschulen
+title: Verordnung betreffend den Passerelle-Lehrgang und die Ergänzungsprüfungen für die Zulassung von Inhabenden eines eidgenössischen Berufsmaturitätszeugnisses oder eines gesamtschweizerisch anerkannten Fachmaturitätszeugnisses zu den universitären Hochschulen
 short: Passerelleverordnung
 language: de
-version: 2017-07-13
-valid_until: 2024-08-11
-version_adopted: 2017-07-04
+version: 2024-08-12
+version_adopted: 2024-06-04
 adopted: 2011-06-21
 in_force: 2011-08-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/424.500"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4208/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6299/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung betreffend den Passerelle-Lehrgang und die Ergänzungsprüfungen für die Zulassung von Inhaberinnen und Inhabern eines eidgenössischen Berufsmaturitätszeugnisses oder eines gesamtschweizerisch anerkannten Fachmaturitätszeugnisses zu den universitären Hochschulen
+# Verordnung betreffend den Passerelle-Lehrgang und die Ergänzungsprüfungen für die Zulassung von Inhabenden eines eidgenössischen Berufsmaturitätszeugnisses oder eines gesamtschweizerisch anerkannten Fachmaturitätszeugnisses zu den universitären Hochschulen
 
-Passarelleverordnung | Berufsmaturitäten
+Berufsmaturitäten
 
 (Passerelleverordnung)
 
-Vom 21. Juni 2011 (Stand 13. Juli 2017)
+Vom 21. Juni 2011 (Stand 12. August 2024)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -135,7 +134,9 @@ beschliesst:
 
 **Zulassung**
 
-<sup>1</sup> Zu den Ergänzungsprüfungen am GKG werden Studierende zugelassen, welche den ganzen Passerelle-Lehrgang am GKG absolviert und den Unterricht regelmässig besucht haben.
+<sup>1</sup> Zu den Ergänzungsprüfungen am GKG werden Studierende zugelassen, welche den ganzen Passerelle-Lehrgang am GKG absolviert und in jedem Fach mindestens 80 % des Unterrichts besucht haben.
+
+<sup>2</sup> Die Schulleitung entscheidet über die Zulassung zu den Ergänzungsprüfungen.
 
 #### § 14
 
