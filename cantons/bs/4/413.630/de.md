@@ -4,13 +4,13 @@ number: "413.630"
 title: Verordnung über die Abschlüsse an der Fachmaturitätsschule Basel-Stadt
 short: Abschlussverordnung FMS
 language: de
-version: 2023-08-14
-valid_until: 2024-08-11
+version: 2024-08-12
+valid_until: 2025-04-23
 version_adopted: 2021-05-25
 adopted: 2005-04-05
 in_force: 2005-08-15
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/413.630"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5516/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5517/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Abschlussverordnung FMS | Mittelschulen
 
 (Abschlussverordnung FMS)
 
-Vom 5. April 2005 (Stand 14. August 2023)
+Vom 5. April 2005 (Stand 12. August 2024)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -252,11 +252,13 @@ beschliesst:
 
 #### § 21
 
-<sup>1</sup> Das Fachmaturitätszeugnis erhält, wer kumulativ
+**Bestehen der Fachmaturität**
 
-- a) die Bedingungen zur Erteilung des Fachmittelschulausweises erfüllt
-- b) die gemäss Reglement über die Anerkennung der Abschlüsse von Fachmittelschulen vom 12. Juni 2003 zusätzlichen praktischen Leistungen bzw. die ergänzte Allgemeinbildung erfolgreich nachgewiesen und
-- c) im schriftlichen/praktischen Teil sowie in der Präsentation der Fachmaturitätsarbeit jeweils mindestens die Bewertung genügend erhalten hat.
+<sup>1</sup> Das Fachmaturitätszeugnis wird erteilt, wenn:
+
+- a) die Bedingungen zur Erteilung des Fachmittelschulausweises erfüllt sind,
+- b) die gemäss Art. 24 des Reglements über die Anerkennung der Abschlüsse von Fachmittelschulen vom 25. Oktober 2018 für das gewählte Berufsfeld zusätzliche Leistungen mindestens mit genügend bewertet wurden und
+- c) der schriftliche/praktische Teil sowie die Präsentation der Fachmaturitätsarbeit jeweils mindestens mit genügend bewertet wurden.
 
 #### § 22
 
