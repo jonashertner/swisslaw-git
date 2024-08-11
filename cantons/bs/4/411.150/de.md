@@ -3,22 +3,21 @@ canton: BS
 number: "411.150"
 title: Verordnung betreffend die Tätigkeit der Schulräte der Volksschulen
 language: de
-version: 2019-12-26
-valid_until: 2024-08-11
-version_adopted: 2019-12-17
+version: 2024-08-12
+version_adopted: 2024-06-18
 adopted: 2008-12-23
 in_force: 2009-08-10
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/411.150"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4740/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6324/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung betreffend die Tätigkeit der Schulräte der Volksschulen
 
-Schulräte der Volksschulen: Verordnung | Behörden / Personal
+Schulen: Behörden / Personal
 
-Vom 23. Dezember 2008 (Stand 26. Dezember 2019)
+Vom 23. Dezember 2008 (Stand 12. August 2024)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -73,9 +72,9 @@ beschliesst:
 
 <sup>1</sup> Betroffene Personen und Organisationen können bei die Schule betreffenden Konflikten die Präsidentin oder den Präsidenten um Vermittlung ersuchen.
 
-<sup>2</sup> Um Vermittlung ersuchen können
+<sup>2</sup> Um Vermittlung ersuchen können:
 
-- a) schulinterne und schulexterne Personen wie Schülerinnen und Schüler, Lehr- und Fachpersonen, Mitglieder der Schulleitung, Erziehungsberechtigte, Anwohnerinnen und Anwohner;
+- a) schulinterne und schulexterne Personen wie Schülerinnen und Schüler, Lehr- und Fachpersonen, Mitglieder der Schulleitung, die Tagesstrukturleitung, Erziehungsberechtigte, Anwohnende;
 - b) Organisationen, welche die betroffenen Personen oder deren Interessen vertreten, wie der Schülerinnen- und Schülerrat, die Schulkonferenz, der Elternrat oder der Quartierverein.
 
 <sup>3</sup> Um eine Vermittlung kann ersucht werden, wenn die betroffenen Personen oder Organisationen zuvor erfolglos direkt eine Lösung gesucht haben.
@@ -179,7 +178,7 @@ beschliesst:
 
 **Berichterstattung**
 
-<sup>1</sup> Die Vertretungen der Elternschaft, der Lehr- und Fachpersonen, der Schulleitung und der Schülerschaft informieren ihre eigene Gruppierung. Der Schulrat beschliesst über die Art und Weise der Information.
+<sup>1</sup> Die Vertretungen der Elternschaft, der Lehr- und Fachpersonen, der Schulleitung, der Tagesstruktur und der Schülerschaft informieren ihre eigene Gruppierung. Der Schulrat beschliesst über die Art und Weise der Information.
 
 <sup>2</sup> Die Information ist nicht zulässig, wenn ihr ein Gesetz oder überwiegende öffentliche oder private Interessen entgegenstehen. Insbesondere die Vermittlung gemäss § 3 Abs. 1 ist vertraulich zu behandeln.
 
@@ -189,11 +188,11 @@ beschliesst:
 
 **Zusammensetzung**
 
-<sup>1</sup> Der Schulrat besteht gemäss § 79b Schulgesetz grundsätzlich aus sieben Personen:
+<sup>1</sup> Der Schulrat besteht gemäss § 79b Schulgesetz grundsätzlich aus acht Personen:
 
-- a) die Präsidentin bzw. der Präsident
-- b) vier schulexterne Mitglieder mit zwei Vertretungen der Erziehungsberechtigten und zwei Vertretungen der Gesellschaft
-- c) zwei schulinterne Mitglieder mit einer Vertretung der Schulleitung und einer Vertretung der Lehr- und Fachpersonen.
+- a) dem Präsidium;
+- b) vier schulexternen Mitgliedern mit zwei Vertretungen der Erziehungsberechtigten und zwei Vertretungen der Gesellschaft;
+- c) drei schulinternen Mitgliedern mit einer Vertretung der Schulleitung, einer Vertretung der Lehr- und Fachpersonen und einer Vertretung der schuleigenen Tagesstruktur.
 
 <sup>2</sup> In den Sekundarschulen kann der Schulrat mit zwei Vertretungen der Schülerschaft aus zwei zusätzlichen schulinternen Mitgliedern bestehen.
 
@@ -239,6 +238,8 @@ beschliesst:
 
 <sup>2</sup> Die Schulkonferenz wählt die Vertretung und Ersatzvertretung der Lehr- und Fachpersonen. Gewählt ist jeweils die Kandidatin oder der Kandidat, die oder der am meisten Stimmen auf sich vereinigt (relatives Mehr).
 
+<sup>2<sup>bis</sup></sup> Die Tagesstrukturleitung bestimmt die Vertretung der Tagesstruktur. Sie bezieht dabei vorgängig die Mitarbeitenden der Tagesstruktur ein.
+
 <sup>3</sup> Die Schülerschaft einer Sekundarschule, wenn vorhanden der Schülerinnen- und Schülerrat, kann zwei Vertretungen aus ihrem Kreis wählen.
 
 #### § 20
@@ -257,7 +258,7 @@ beschliesst:
 
 <sup>2</sup> Die Entschädigung wird gekürzt oder entfällt, wenn nicht eine angemessene Anzahl von Sitzungen besucht wurde.
 
-<sup>3</sup> Die Vertretungen der Lehr- und Fachpersonen, der Schulleitung und der Schülerschaft erhalten keine Entschädigung.
+<sup>3</sup> Die Vertretungen der Schulleitung, der Lehr- und Fachpersonen, der Tagesstruktur sowie der Schülerschaft erhalten keine Entschädigung.
 
 ## V. Zusammenarbeit mit anderen Stellen
 
