@@ -3,22 +3,21 @@ canton: BS
 number: "413.825"
 title: Reglement für die Maturaarbeit an den Gymnasien im Kanton Basel-Stadt
 language: de
-version: 2017-12-25
-valid_until: 2024-08-11
-version_adopted: 2017-11-27
+version: 2024-08-12
+version_adopted: 2024-03-05
 adopted: 2008-07-11
 in_force: 2008-08-11
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/413.825"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4330/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6167/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement für die Maturaarbeit an den Gymnasien im Kanton Basel-Stadt
 
-Maturaarbeit: Reglement | Mittelschulen
+Mittelschulen
 
-Vom 11. Juli 2008 (Stand 25. Dezember 2017)
+Vom 11. Juli 2008 (Stand 12. August 2024)
 
 Das Erziehungsdepartement des Kantons Basel-Stadt,
 
@@ -62,9 +61,9 @@ beschliesst:
 
 – Sowohl das Thema einer wissenschaftlichen als auch einer produktebezogenen Maturaarbeit muss präzise sein. Dies kann mit einem ausführlichen Titel, einer genauen Fragestellung, einer These oder einer Zielformulierung geschehen. Bei einer produktebezogenen Maturaarbeit müssen vor allem Absicht und Ziel der Maturaarbeit klar definiert werden.
 
-– Das Thema muss schriftlich dokumentiert und mündlich präsentiert werden können.
+– Das Thema muss schriftlich dokumentiert und mündlich präsentiert werden können. Bei einer produktebezogenen Maturaarbeit müssen vor allem Absicht und Ziel der Maturaarbeit klar definiert werden.
 
-– Es muss sich eine Betreuerin oder ein Betreuer gemäss § 10 finden lassen.
+– Für die Betreuung der Maturaarbeit muss sich eine Lehrperson gemäss § 10 finden lassen.
 
 #### § 3
 
@@ -81,6 +80,8 @@ beschliesst:
 <sup>1</sup> Zur Maturaarbeit gehören Eigenbeiträge wie beispielsweise eigene Untersuchungen, Interpretationen, Experimente, Befragungen, Texte, musikalische oder gestalterische Produkte
 
 <sup>2</sup> Die Ergebnisse und Quellen müssen in einem sorgfältig redigierten Text in einer korrekten und verständlichen Sprache dokumentiert sein. Maturaarbeiten können in einer an der entsprechenden Schule unterrichteten Fremdsprache verfasst werden. In diesem Falle muss das Thema einen Bezug zu dieser Sprache oder deren Sprachraum haben. Die Sprache des Textes wird von den Schülerinnen und Schülern in Absprache mit einer schulinternen Lehrperson gemäss § 10 festgelegt.
+
+<sup>3</sup> Der Arbeit wird eine Eigenständigkeitserklärung beigelegt.
 
 #### § 5
 
@@ -132,11 +133,13 @@ beschliesst:
 
 #### § 11
 
-**Präsentation**
+**Präsentation und Fachgespräch**
 
-<sup>1</sup> Bei der mündlichen Präsentation geht es um die Fähigkeit der Schülerinnen und Schüler, Thesen und Erkenntnisse darzulegen und sie zu vertreten sowie die Vorgehensweise und die angewandten Methoden zu reflektieren. Die mündliche Präsentation erfolgt im Rahmen eines Fachgespräches, das von der Betreuerin oder dem Betreuer im Beisein einer Koreferentin oder einem Koreferenten geleitet wird.
+<sup>1</sup> Bei der mündlichen Präsentation und im anschliessenden Fachgespräch geht es um die Fähigkeit der Schülerinnen und Schüler, die Thesen und Erkenntnisse darzulegen und sie zu vertreten sowie die Vorgehensweise und die angewandten Methoden zu reflektieren.
 
-<sup>2</sup> Die mündliche Präsentation dauert bei Einzelarbeiten etwa 15 Minuten, bei Gruppenarbeiten etwa 10 Minuten pro Person. Es ist darauf zu achten, dass sich alle Mitglieder einer Gruppe an der Präsentation gleichwertig beteiligen.
+<sup>1<sup>bis</sup></sup> Das Fachgespräch wird durch die betreuende Lehrperson im Beisein einer koreferierenden Person geführt.
+
+<sup>2</sup> Die mündliche Präsentation und das Fachgespräch dauern bei Einzelarbeiten mindestens 20 bis maximal 30 Minuten und bei Gruppenarbeiten 30 Minuten, wovon mindestens die Hälfte aus dem Fachgespräch besteht. Bei Gruppenarbeiten ist darauf zu achten, dass sich alle Mitglieder einer Gruppe an der Präsentation und am Fachgespräch gleichwertig beteiligen.
 
 #### § 12
 
@@ -171,6 +174,12 @@ beschliesst:
 **Übergangsbestimmung**
 
 <sup>1</sup> Für Schülerinnen und Schüler, die die Maturitätsprüfungen vor dem Schuljahr 2011/2012 ablegen, gilt das bisherige Recht.
+
+#### § 15a
+
+**Übergangsbestimmung zur Änderung betreffend §§ 2, 4 Abs. 3 und 11**
+
+<sup>1</sup> Für Schülerinnen und Schüler, die die Maturitätsprüfungen vor dem Schuljahr 2025/2026 ablegen, gilt dieses Reglement in der Fassung vom 27. November 2017.
 
 #### § 16
 
