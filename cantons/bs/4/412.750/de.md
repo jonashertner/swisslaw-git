@@ -4,13 +4,13 @@ number: "412.750"
 title: Verordnung über die Schulung und Förderung von Schülerinnen und Schülern mit besonderem Bildungsbedarf sowie die Spitalschulung
 short: "Sonderpädagogik- und Spitalschulverordnung, SPSSV"
 language: de
-version: 2020-08-10
-valid_until: 2024-08-11
-version_adopted: 2019-12-10
+version: 2024-08-12
+valid_until: 2026-08-09
+version_adopted: 2025-01-28
 adopted: 2010-12-21
 in_force: 2011-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/412.750"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5978/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6551/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Sonderpädagogik: Verordnung | Kindergärten / Primarschulen / Förderangebote
 
 (Sonderpädagogik- und Spitalschulverordnung, SPSSV)
 
-Vom 21. Dezember 2010 (Stand 10. August 2020)
+Vom 21. Dezember 2010 (Stand 12. August 2024)
 
 Der Regierungsrat,
 
@@ -74,9 +74,13 @@ beschliesst:
 - c) Schulische Heilpädagogik;
 - d) Logopädie;
 - e) Psychomotorik;
-- f) Einführungsklassen.
+- f) Einführungsklassen;
+- g) Heilpädagogisch geführte klassenübergreifende Fördergruppen;
+- h) Heilpädagogisch geführte Förderklassen;
+- i) Interventionsangebote (Lerninseln);
+- j) Klassen, die von einer zusätzlichen Lehr- oder Fachperson unterstützt werden.
 
-<sup>2</sup> In der Sekundarschule werden nur die Förderangebote nach Abs. 1 lit. a–c, in den weiterführenden Schulen nur die Förderangebote nach Abs. 1 lit. a–b angeboten.
+<sup>2</sup> In der Sekundarschule werden nur die Förderangebote nach Abs. 1 lit. a–c sowie die Förderangebote nach Abs. 1 lit. i und j, in den weiterführenden Schulen nur die Förderangebote nach Abs. 1 lit. a–b angeboten.
 
 <sup>3</sup> Die Förderangebote umfassen auch die Beratung der Schülerin oder des Schülers, der Erziehungsberechtigten, der Lehrpersonen und der Schulleitung.
 
@@ -114,7 +118,7 @@ beschliesst:
 
 <sup>1</sup> Die Schülerinnen und Schüler können durch die Förderung der gesamten Klasse, innerhalb einer Gruppe oder wo nötig auch einzeln gefördert werden.
 
-<sup>2</sup> Die Förderung übernehmen Fach- oder Lehrpersonen. Sie können von Assistenzpersonen mit Qualifikation oder von Praktikantinnen und Praktikanten unterstützt werden.
+<sup>2</sup> Die Förderung übernehmen Fach- oder Lehrpersonen. Sie können von Assistenzpersonen mit Qualifikation oder von Praktikumspersonen sowie von sozialpädagogischen Fachpersonen unterstützt werden.
 
 <sup>3</sup> Bei der Wahl der Förderform und der für die Förderung zuständigen Personen berücksichtigt die Schulleitung die Vorschläge der pädagogischen Teams und die der Schule insgesamt für Förderangebote zur Verfügung stehenden Ressourcen.
 
