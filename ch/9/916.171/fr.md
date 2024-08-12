@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> novembre 2023 sur la mise en circulation de
 short: OEng
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/711"
 language: fr
-version: 2024-01-01
+version: 2024-08-13
 adopted: 2023-11-01
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/711/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2023-711-20240101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/711/20240813/fr/xml/fedlex-data-admin-ch-eli-cc-2023-711-20240813-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20240813/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20240101/fr"
 
 (Ordonnance sur les engrais, OEng)
 
-du 1<sup>er</sup> novembre 2023 (État le 1<sup>er</sup> janvier 2024)
+du 1<sup>er</sup> novembre 2023 (État le 13 août 2024)
 
 Le Conseil fédéral suisse,
 
@@ -339,15 +339,16 @@ L’enregistrement doit contenir au moins les données et documents ci-après:
 - c. la dénomination commerciale de l’engrais;
 - d. la PFC qui correspond à la fonction qui est attribuée à l’engrais;
 - e. la ou les CMC qui entrent dans la composition, ainsi que les noms des matières premières;
-- f. les teneurs en éléments fertilisants et les propriétés de l’engrais confirmées par une analyse; celle-ci est facultative pour les engrais inorganiques (PFC 1.C) et les mélanges d’engrais (PFC 7) composés d’engrais inorganiques, qui sont exclusivement constitués de matières premières dont la teneur en éléments nutritifs est clairement établie;
-- g. la classification et l’étiquetage de l’engrais au sens des art. 6, 7 et 10 à 15*a* OChim[^19-1];
+- f.[^19-1] les teneurs en éléments fertilisants et les propriétés de l’engrais confirmées par une analyse; celle-ci est facultative pour les engrais inorganiques (PFC 1.C) et les combinaisons d’engrais (PFC 7) composés d’engrais inorganiques, qui sont exclusivement constitués de matières premières dont la teneur en éléments fertilisants est clairement établie;
+- g. la classification et l’étiquetage de l’engrais au sens des art. 6, 7 et 10 à 15*a* OChim[^19-2];
 - h. l’usage prévu;
 - i. le mode d’emploi;
 - j. une étiquette conforme aux prescriptions du chap. 4.
 
 <sup>2</sup> Lorsque l’engrais est soumis à communication conformément aux art. 48 à 54 OChim, les données y relatives doivent être enregistrées dans le registre des produits.
 
-[^19-1]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
+[^19-1]: Erratum du 13 août 2024 ([RO 2024 411](https://fedlex.data.admin.ch/eli/oc/2024/411)).
+[^19-2]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
 
 ### Section 4 Engrais soumis à autorisation
 
@@ -744,11 +745,13 @@ L’identifiant unique de formulation (UFI) au sens de l’art. 15*a* OChim[^44-
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2024.
 
-Annexe 1
+Annexe 1[^t-1]
 
 (art. 14, al. 1, 20, al. 1, let. a, et 30, al. 3)
 
 ## Catégories fonctionnelles de produits (PFC)
+
+[^t-1]: Mise à jour par l’erratum du 13 août 2024 ([RO 2024 411](https://fedlex.data.admin.ch/eli/oc/2024/411)).
 
 Les PFC 1 à 7 correspondent à celles définies dans l’annexe I du règlement (UE) 2019/1009[^annex1-lvlu1-1]. Les PFC à partir du ch. 100 sont propres à la législation suisse sur les engrais.
 
@@ -925,7 +928,8 @@ Lorsqu’un engrais organique solide contient plusieurs éléments fertilisants 
 - a. 1 % d’azote total (N);
 - b. 1 % d’anhydride phosphorique (P<sub>2</sub>O<sub>5</sub>), ou
 - c. 1 % de potasse (K<sub>2</sub>O).
-- [tab] La somme de ces teneurs en éléments fertilisants doit être d’au moins 4 %.
+
+La somme de ces teneurs en éléments fertilisants doit être d’au moins 4 %.
 
 <sup>3</sup> La teneur en pourcentage de masse en carbone organique (C<sub>org</sub>) d’un engrais organique solide doit être d’au moins 15%.
 
@@ -946,7 +950,8 @@ Lorsqu’un engrais organique liquide contient plusieurs éléments fertilisants
 - a. 1 % d’azote total (N);
 - b. 1 % d’anhydride phosphorique total (P<sub>2</sub>O<sub>5</sub>), ou
 - c. 1 % de potasse totale (K<sub>2</sub>O).
-- [tab] La somme de ces teneurs en éléments fertilisants doit être d’au moins 3 %.
+
+La somme de ces teneurs en éléments fertilisants doit être d’au moins 3 %.
 
 <sup>3</sup> La teneur en pourcentage de masse en carbone organique (C<sub>org</sub>) d’un engrais organique liquide doit être d’au moins 5 %.
 
@@ -990,7 +995,8 @@ Lorsqu’un engrais organo-minéral solide contient plusieurs éléments fertili
 - a. 2 % d’azote total (N), dont 0,5 % est sous forme d’azote organique (N<sub>org</sub>);
 - b. 2 % d’anhydride phosphorique total (P<sub>2</sub>O<sub>5</sub>), ou
 - c. 2 % de potasse totale (K<sub>2</sub>O).
-- [tab] La somme de ces teneurs en éléments fertilisants doit être d’au moins 8 %.
+
+La somme de ces teneurs en éléments fertilisants doit être d’au moins 8 %.
 
 <sup>3</sup> La teneur en pourcentage de masse en carbone organique (C<sub>org</sub>) d’un engrais organo-minéral solide doit être d’au moins 7,5 %.
 
@@ -1013,7 +1019,8 @@ Lorsqu’un engrais organo-minéral liquide contient plusieurs éléments fertil
 - a. 2 % d’azote total (N), dont 0,5 % est sous forme d’azote organique (N<sub>org</sub>);
 - b. 2 % d’anhydride phosphorique total (P<sub>2</sub>O<sub>5</sub>), ou
 - c. 2 % de potasse totale (K<sub>2</sub>O).
-- [tab] La somme de ces teneurs en éléments fertilisants doit être d’au moins 6 %.
+
+La somme de ces teneurs en éléments fertilisants doit être d’au moins 6 %.
 
 <sup>3</sup> La teneur en pourcentage de masse en carbone organique (C<sub>org</sub>) d’un engrais organo-minéral liquide doit être d’au moins 3 %.
 
@@ -1073,9 +1080,10 @@ Un engrais inorganique solide à macroéléments se présente sous forme solide.
 - e. 9 % d’oxyde de calcium total (CaO);
 - f. 10 % d’anhydride sulfurique total (SO<sub>3</sub>), ou
 - g. 1 % d’oxyde de sodium total (Na<sub>2</sub>O).
-- [tab] Toutefois, la teneur en oxyde de sodium (Na<sub>2</sub>O) ne doit pas dépasser 40 %.
 
-<sup>3</sup> Lorsqu’un engrais inorganique solide simple à macroélément ne contient qu’un seul macroélément déclaré [azote (N), phosphore (P), potassium (K), calcium (Ca), magnésium (Mg), sodium (Na), soufre (S)] et qu’il contient un ou plusieurs macroéléments secondaires déclarés [calcium (Ca), magnésium (Mg), sodium (Na), soufre (S)]:
+Toutefois, la teneur en oxyde de sodium (Na<sub>2</sub>O) ne doit pas dépasser 40 %.
+
+<sup>3</sup> Lorsqu’un engrais inorganique solide simple à macroélément ne contient qu’un seul macroélément majeur déclaré [azote (N), phosphore (P), potassium (K)] et qu’il contient un ou plusieurs macroéléments secondaires déclarés [calcium (Ca), magnésium (Mg), sodium (Na), soufre (S)]:
 
 - a.
 
@@ -1093,8 +1101,10 @@ Un engrais inorganique solide à macroéléments se présente sous forme solide.
   - 2\. 1,5 % d’oxyde de calcium total (CaO),
   - 3\. 1,5 % d’anhydride sulfurique total (SO<sub>3</sub>), ou
   - 4\. 1 % d’oxyde de sodium total (Na<sub>2</sub>O).
-  - [tab] Toutefois, la teneur en oxyde de sodium (Na<sub>2</sub>O) ne doit pas dépasser 40 %.
-  - [tab] La somme de toutes les teneurs en macroéléments primaires et secondaires déclarés doit être d’au moins 18 %.
+
+Toutefois, la teneur en oxyde de sodium (Na<sub>2</sub>O) ne doit pas dépasser 40 %.
+
+La somme de toutes les teneurs en macroéléments primaires et secondaires déclarés doit être d’au moins 18 %.
 
 ### PFC 1(C)(I)(a)(ii): Engrais inorganique solide composé à macroéléments
 
@@ -1112,8 +1122,10 @@ Un engrais inorganique solide à macroéléments se présente sous forme solide.
 - e. 1,5 % d’oxyde de calcium total (CaO);
 - f. 1,5 % d’anhydride sulfurique total (SO<sub>3</sub>), ou
 - g. 1 % d’oxyde de sodium total (Na<sub>2</sub>O).
-- [tab] Toutefois, la teneur en oxyde de sodium (Na<sub>2</sub>O) ne doit pas dépasser 40 %.
-- [tab] La somme de toutes les teneurs en macroéléments déclarés doit être d’au moins 18 %.
+
+Toutefois, la teneur en oxyde de sodium (Na<sub>2</sub>O) ne doit pas dépasser 40 %.
+
+La somme de toutes les teneurs en macroéléments déclarés doit être d’au moins 18 %.
 
 ### PFC 1(C)(I)(a)(i-ii)(A): Engrais inorganique solide simple ou composé à base de nitrate d’ammonium à forte teneur en azote
 
@@ -1161,7 +1173,8 @@ Un engrais inorganique liquide à macroéléments se présente sous forme liquid
 - e. 6 % d’oxyde de calcium total (CaO);
 - f. 5 % d’anhydride sulfurique total (SO<sub>3</sub>), ou
 - g. 1 % d’oxyde de sodium total (Na<sub>2</sub>O).
-- [tab] Toutefois, la teneur en oxyde de sodium (Na<sub>2</sub>O) ne doit pas dépasser 40 %.
+
+Toutefois, la teneur en oxyde de sodium (Na<sub>2</sub>O) ne doit pas dépasser 40 %.
 
 <sup>3</sup> Lorsqu’un engrais inorganique liquide simple à macroéléments ne contient qu’un seul macroélément déclaré [azote (N), phosphore (P), potassium (K), calcium (Ca), magnésium (Mg), sodium (Na), soufre (S)] et qu’il contient un ou plusieurs macroéléments secondaires déclarés [calcium (Ca), magnésium (Mg), sodium (Na), soufre (S)]:
 
@@ -1181,8 +1194,10 @@ Un engrais inorganique liquide à macroéléments se présente sous forme liquid
   - 2\. 0,75 % d’oxyde de calcium total (CaO),
   - 3\. 0,75 % d’anhydride sulfurique total (SO<sub>3</sub>), ou
   - 4\. 0,5 % d’oxyde de sodium total (Na<sub>2</sub>O).
-  - [tab] Toutefois, la teneur en oxyde de sodium (Na<sub>2</sub>O) ne doit pas dépasser 20 %.
-  - [tab] La somme de toutes les teneurs en macroéléments primaires et secondaires déclarés doit être d’au moins 7 %.
+
+Toutefois, la teneur en oxyde de sodium (Na<sub>2</sub>O) ne doit pas dépasser 20 %.
+
+La somme de toutes les teneurs en macroéléments primaires et secondaires déclarés doit être d’au moins 7 %.
 
 ### PFC 1(C)(I)(b)(ii): Engrais inorganique liquide composé à macroéléments
 
@@ -1200,8 +1215,10 @@ Un engrais inorganique liquide à macroéléments se présente sous forme liquid
 - e. 0,75 % d’oxyde de calcium total (CaO);
 - f. 0,75 % d’anhydride sulfurique total (SO<sub>3</sub>), ou
 - g. 0,5 % d’oxyde de sodium total (Na<sub>2</sub>O).
-- [tab] Toutefois, la teneur en oxyde de sodium (Na<sub>2</sub>O) ne doit pas dépasser 20 %.
-- [tab] La somme de toutes les teneurs en macroéléments déclarés doit être d’au moins 7 %.
+
+Toutefois, la teneur en oxyde de sodium (Na<sub>2</sub>O) ne doit pas dépasser 20 %.
+
+La somme de toutes les teneurs en macroéléments déclarés doit être d’au moins 7 %.
 
 ### PFC 1(C)(II): Engrais inorganique à oligo-éléments
 
@@ -1667,11 +1684,13 @@ Un engrais constitué en tout ou en partie de matière de grande pureté valoris
 
 Un engrais peut contenir un engrais de ferme si les prescriptions de qualité définies à l’annexe 2.6 ORRChim sont respectées.
 
-Annexe 3
+Annexe 3[^t-2]
 
 (art. 31, al. 1)
 
 ## Exigences en matière d’étiquetage
+
+[^t-2]: Mise à jour par l’erratum du 13 août 2024 ([RO 2024 411](https://fedlex.data.admin.ch/eli/oc/2024/411)).
 
 ### 1 Exigences générales en matière d’étiquetage
 
@@ -1809,6 +1828,7 @@ Les informations suivantes doivent être fournies:
     - – azote (N) total
     - – quantité minimale d’azote organique (N<sub>org</sub>), suivie d’une description de l’origine de la matière organique utilisée
     - – azote sous forme d’azote nitrique
+    - – azote sous forme d’azote ammoniacal
     - – azote sous forme d’azote uréique,
 
   - 2\.
@@ -2057,7 +2077,7 @@ Les informations suivantes doivent être fournies:
 
 <sup>1</sup> L’étiquette mentionne la typologie pertinente telle qu’elle figure à l’al. 2, PFC 1(C)(II)(a), ch. 3 de l’annexe 1.
 
-<sup>2</sup> La teneur totale en oligo-éléments est exprimée en % en masse,
+<sup>2</sup> La teneur totale en oligo-éléments est exprimée en % en masse:
 
 - a. uniquement la teneur soluble dans l’eau lorsque l’oligo-élément est totalement soluble dans l’eau;
 - b. la teneur totale et la teneur soluble dans l’eau lorsque la teneur soluble en cet oligo-élément est au moins égale au quart de la teneur totale en cet oligo-élément;
@@ -2194,11 +2214,11 @@ Les informations suivantes doivent être fournies:
 - c. conductivité électrique;
 - d. quantité.
 
-<sup>3</sup> Les prescriptions en matière d’étiquetage des al. 1 et 2 ne s’appliquent pas aux engrais de ferme provenant d’une exploitation pratiquant l’élevage d’animaux et qui sont remis directement aux utilisateurs finaux professionnels selon l’OSIAgr[^annex3-lvlu1-lvl2-lvlu19-1]. Les données de base pour la fumure éditées par Agroscope font office de mode d’emploi.
+<sup>3</sup> Les prescriptions en matière d’étiquetage des al. 1 et 2 ne s’appliquent pas aux engrais de ferme provenant d’une exploitation pratiquant l’élevage d’animaux et qui sont remis directement aux utilisateurs finaux professionnels selon l’OSIAgr[^annex3-lvlu1-lvl2-lvlu8-1]. Les données de base pour la fumure éditées par Agroscope font office de mode d’emploi.
 
 <sup>4</sup> Lors de la remise d’engrais de ferme en sacs, le mode d’emploi doit prendre en considération les recommandations de fumure applicables aux acheteurs concernés.
 
-[^annex3-lvlu1-lvl2-lvlu19-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
+[^annex3-lvlu1-lvl2-lvlu8-1]: [RS 919.117.71](https://fedlex.data.admin.ch/eli/cc/2013/733)
 
 ### PFC 101: Engrais de recyclage
 
@@ -2211,9 +2231,9 @@ Les informations suivantes doivent être fournies:
 
 <sup>2</sup> Si le compost ou les digestats sont remis en sacs, le poids et les indications requises à l’al. 1 doivent figurer sur les sacs. L’inscription sur les sacs est considérée comme le bulletin de livraison.
 
-<sup>3</sup> Lors de la remise de compost et de digestats, les instructions concernant l’usage prévu doivent respecter la quantité autorisée conformément à l’ORRChim[^annex3-lvlu1-lvl2-lvlu20-1].
+<sup>3</sup> Lors de la remise de compost et de digestats, les instructions concernant l’usage prévu doivent respecter la quantité autorisée conformément à l’ORRChim[^annex3-lvlu1-lvl2-lvlu9-1].
 
-[^annex3-lvlu1-lvl2-lvlu20-1]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
+[^annex3-lvlu1-lvl2-lvlu9-1]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
 
 ### PFC 103: Autres engrais
 

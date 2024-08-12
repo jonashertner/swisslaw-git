@@ -4,11 +4,11 @@ title: "Ordinanza del 1° novembre 2023 sulla messa in commercio di concimi (Ord
 short: OCon
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/711"
 language: it
-version: 2024-01-01
+version: 2024-08-13
 adopted: 2023-11-01
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/711/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2023-711-20240101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/711/20240813/it/xml/fedlex-data-admin-ch-eli-cc-2023-711-20240813-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20240813/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20240101/it"
 
 (Ordinanza sui concimi, OCon)
 
-del 1° novembre 2023 (Stato 1° gennaio 2024)
+del 1° novembre 2023 (Stato 13 agosto 2024)
 
 Il Consiglio federale svizzero,
 
@@ -744,11 +744,13 @@ L’identificatore unico di formula (UFI) secondo l’articolo 15*a* OPChim[^44-
 
 La presente ordinanza entra in vigore il 1° gennaio 2024.
 
-Allegato 1
+Allegato 1[^t-1]
 
 (art. 14 cpv.1, 20 cpv. 1 lett. a e 30 cpv. 3)
 
 ## Categorie funzionali del prodotto (PFC)
+
+[^t-1]: Aggiornato dalla correzione del 13 ago. 2024 ([RU 2024 411](https://fedlex.data.admin.ch/eli/oc/2024/411)).
 
 Le PFC da 1 a 7 corrispondono a quelle definite nell’allegato I del regolamento (UE) 2019/1009[^annex1-lvlu1-1]. Le PFC a partire dal numero 100 sono specifiche della legislazione svizzera sui concimi.
 
@@ -925,7 +927,8 @@ Se il concime organico solido contiene più di una sostanza nutritiva principale
 - a. l’1 per cento di azoto (N) totale;
 - b. l’1 per cento di anidride fosforica (P<sub>2</sub>O<sub>5</sub>); o
 - c. l’1 per cento di ossido di potassio (K<sub>2</sub>O).
-- [tab] La somma dei tenori di tali sostanze nutritive deve essere almeno il 4 per cento.
+
+La somma dei tenori di tali sostanze nutritive deve essere almeno il 4 per cento.
 
 <sup>3</sup> Il tenore in massa di carbonio organico (C<sub>org</sub>) di un concime organico solido deve essere almeno il 15 per cento.
 
@@ -946,7 +949,8 @@ Se il concime organico liquido contiene più di una sostanza nutritiva principal
 - a. l’1 per cento di azoto (N) totale;
 - b. l’1 per cento di anidride fosforica (P<sub>2</sub>O<sub>5</sub>) totale; o
 - c. l’1 per cento di ossido di potassio (K<sub>2</sub>O) totale.
-- [tab] La somma dei tenori di tali sostanze nutritive deve essere almeno il 3 per cento.
+
+La somma dei tenori di tali sostanze nutritive deve essere almeno il 3 per cento.
 
 <sup>3</sup> Il tenore in massa di carbonio organico (C<sub>org</sub>) di un concime organico liquido deve essere almeno il 5 per cento.
 
@@ -990,7 +994,8 @@ Se il concime organo-minerale solido contiene più di una sostanza nutritiva pri
 - a. il 2 per cento di azoto (N) totale, di cui lo 0,5 per cento deve essere azoto organico (N<sub>org</sub>);
 - b. il 2 per cento di anidride fosforica (P<sub>2</sub>O<sub>5</sub>) totale; o
 - c. il 2 per cento di ossido di potassio (K<sub>2</sub>O) totale.
-- [tab] La somma dei tenori di tali sostanze nutritive deve essere almeno l’8 per cento.
+
+La somma dei tenori di tali sostanze nutritive deve essere almeno l’8 per cento.
 
 <sup>3</sup> Il tenore in massa di carbonio organico (C<sub>org</sub>) di un concime organo-minerale solido deve essere almeno il 7,5 per cento.
 
@@ -1013,7 +1018,8 @@ Se il concime organo-minerale liquido contiene più di una sostanza nutritiva pr
 - a. il 2 per cento di azoto (N) totale, di cui lo 0,5 per cento deve essere azoto organico (N<sub>org</sub>);
 - b. il 2 per cento di anidride fosforica (P<sub>2</sub>O<sub>5</sub>) totale; o
 - c. il 2 per cento di ossido di potassio (K<sub>2</sub>O) totale.
-- [tab] La somma dei tenori di tali sostanze nutritive deve essere almeno il 6 per cento.
+
+La somma dei tenori di tali sostanze nutritive deve essere almeno il 6 per cento.
 
 <sup>3</sup> Il tenore in massa di carbonio organico (C<sub>org</sub>) di un concime organo-minerale liquido deve essere almeno il 3 per cento.
 
@@ -1073,9 +1079,10 @@ Un concime inorganico solido a base di macroelementi deve essere in forma solida
 - e. il 9 per cento di ossido di calcio (CaO) totale;
 - f. il 10 per cento di anidride solforica (SO<sub>3</sub>) totale; o
 - g. l’1 per cento di ossido di sodio (Na<sub>2</sub>O) totale.
-- [tab] Tuttavia, il tenore di ossido di sodio (Na<sub>2</sub>O) non deve superare il 40 per cento.
 
-<sup>3</sup> Se il concime inorganico solido semplice a base di macroelementi contiene un solo macroelemento dichiarato [azoto (N), fosforo (P), potassio (K), calcio (Ca), magnesio (Mg), sodio (Na), zolfo (S)] e uno o più macroelementi secondari dichiarati [calcio (Ca), magnesio (Mg), sodio (Na), zolfo (S)]:
+Tuttavia, il tenore di ossido di sodio (Na<sub>2</sub>O) non deve superare il 40 per cento.
+
+<sup>3</sup> Se il concime inorganico solido semplice a base di macroelementi contiene un solo macroelemento principale dichiarato [azoto (N), fosforo (P), potassio (K)] e uno o più macroelementi secondari dichiarati [calcio (Ca), magnesio (Mg), sodio (Na), zolfo (S)]:
 
 - a.
 
@@ -1094,8 +1101,9 @@ Un concime inorganico solido a base di macroelementi deve essere in forma solida
   - 3\. l’1,5 per cento di anidride solforica (SO<sub>3</sub>) totale, o
   - 4\. l’1 per cento di ossido di sodio (Na<sub>2</sub>O) totale.
 
-- Tuttavia, il tenore di ossido di sodio (Na<sub>2</sub>O) non deve superare il 40 per cento in massa.
-  - [tab] La somma dei tenori dei macroelementi principali e secondari dichiarati deve essere almeno il 18 per cento.
+Tuttavia, il tenore di ossido di sodio (Na<sub>2</sub>O) non deve superare il 40 per cento in massa.
+
+La somma dei tenori dei macroelementi principali e secondari dichiarati deve essere almeno il 18 per cento.
 
 ### PFC 1(C)(I)(a)(ii): Concime inorganico solido composto a base di macroelementi
 
@@ -1113,8 +1121,10 @@ Un concime inorganico solido a base di macroelementi deve essere in forma solida
 - e. l’1,5 per cento di ossido di calcio (CaO) totale;
 - f. l’1,5 per cento di anidride solforica (SO<sub>3</sub>) totale; o
 - g. l’1 per cento di ossido di sodio (Na<sub>2</sub>O) totale.
-- [tab] Tuttavia, il tenore di ossido di sodio (Na<sub>2</sub>O) non deve superare il 40 per cento.
-- [tab] La somma dei tenori dei macroelementi dichiarati deve essere almeno il 18 per cento.
+
+Tuttavia, il tenore di ossido di sodio (Na<sub>2</sub>O) non deve superare il 40 per cento.
+
+La somma dei tenori dei macroelementi dichiarati deve essere almeno il 18 per cento.
 
 ### PFC 1(C)(I)(a)(i-ii)(A): Concime inorganico solido, semplice o composto, a base di nitrato di ammonio ad elevato tenore di azoto
 
@@ -1130,7 +1140,8 @@ Un concime inorganico solido a base di macroelementi deve essere in forma solida
 
 - a. dopo cinque cicli termici di cui al punto 4.3 del modulo A1 della parte II dell’allegato IV del regolamento (UE) 2009/1009;
 - b. in due prove di resistenza alla detonazione di cui al punto 4.4 del modulo A1 della parte II dell’allegato IV del regolamento (UE) 2009/1009,
-- la compressione subita da uno o più cilindri di sostegno in piombo risulti inferiore al 5 per cento.
+
+la compressione subita da uno o più cilindri di sostegno in piombo risulti inferiore al 5 per cento.
 
 <sup>6</sup> Il tenore in massa di materiale combustibile espresso in carbonio (C) non deve superare:
 
@@ -1161,7 +1172,8 @@ Un concime inorganico liquido a base di macroelementi deve essere in forma liqui
 - e. il 6 per cento di ossido di calcio (CaO) totale;
 - f. il 5 per cento di anidride solforica (SO<sub>3</sub>) totale; o
 - g. l’1 per cento di ossido di sodio (Na<sub>2</sub>O) totale.
-- [tab] Tuttavia, il tenore di ossido di sodio (Na<sub>2</sub>O) non deve superare il 40 per cento.
+
+Tuttavia, il tenore di ossido di sodio (Na<sub>2</sub>O) non deve superare il 40 per cento.
 
 <sup>3</sup> Se il concime inorganico liquido semplice a base di macroelementi contiene un solo macroelemento dichiarato [azoto (N), fosforo (P), potassio (K), calcio (Ca), magnesio (Mg), sodio (Na), zolfo (S)] e uno o più macroelementi secondari dichiarati [calcio (Ca), magnesio (Mg), sodio (Na), zolfo (S)]:
 
@@ -1181,8 +1193,10 @@ Un concime inorganico liquido a base di macroelementi deve essere in forma liqui
   - 2\. lo 0,75 per cento di ossido di calcio (CaO) totale,
   - 3\. lo 0,75 per cento di anidride solforica (SO<sub>3</sub>) totale, o
   - 4\. lo 0,5 per cento di ossido di sodio (Na2O) totale.
-  - [tab] Tuttavia, il tenore di ossido di sodio (Na<sub>2</sub>O) non deve superare il 20 per cento.
-  - [tab] La somma dei tenori dei macroelementi principali e secondari dichiarati deve essere almeno il 7 per cento.
+
+Tuttavia, il tenore di ossido di sodio (Na<sub>2</sub>O) non deve superare il 20 per cento.
+
+La somma dei tenori dei macroelementi principali e secondari dichiarati deve essere almeno il 7 per cento.
 
 ### PFC 1(C)(I)(b)(ii): Concime inorganico liquido composto a base di macroelementi
 
@@ -1200,8 +1214,10 @@ Un concime inorganico liquido a base di macroelementi deve essere in forma liqui
 - e. lo 0,75 per cento di ossido di calcio (CaO) totale;
 - f. lo 0,75 per cento di anidride solforica (SO<sub>3</sub>) totale; o
 - g. lo 0,5 per cento di ossido di sodio (Na<sub>2</sub>O) totale.
-- [tab] Tuttavia, il tenore di ossido di sodio (Na<sub>2</sub>O) non deve superare il 20 per cento.
-- [tab] La somma dei tenori dei macroelementi dichiarati deve essere almeno il 7 per cento.
+
+Tuttavia, il tenore di ossido di sodio (Na<sub>2</sub>O) non deve superare il 20 per cento.
+
+La somma dei tenori dei macroelementi dichiarati deve essere almeno il 7 per cento.
 
 ### PFC 1(C)(II): Concime inorganico a base di microelementi
 
@@ -1667,11 +1683,13 @@ Un concime costituito o in parte costituito da materiali di elevata purezza recu
 
 Un concime può contenere un concime aziendale se i requisiti di qualità ai sensi dell’allegato 2.6 ORRPChim sono soddisfatti.
 
-Allegato 3
+Allegato 3[^t-2]
 
 (art. 31 cpv. 1)
 
 ## Prescrizioni di etichettatura
+
+[^t-2]: Aggiornato dalla correzione del 13 ago. 2024 ([RU 2024 411](https://fedlex.data.admin.ch/eli/oc/2024/411)).
 
 ### 1 Prescrizioni generali di etichettatura
 
@@ -1808,6 +1826,7 @@ Devono essere fornite le seguenti informazioni:
     - – azoto (N) totale
     - – quantitativo minimo di azoto organico (N<sub>org</sub>), seguito da una descrizione dell’origine della sostanza organica utilizzata
     - – azoto sotto forma nitrica
+    - – azoto sotto forma ammoniacale
     - – azoto sotto forma ureica,
 
   - 2\.

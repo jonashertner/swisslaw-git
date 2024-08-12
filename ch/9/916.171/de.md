@@ -4,11 +4,11 @@ title: "Verordnung vom 1. November 2023 über das Inverkehrbringen von Düngern 
 short: DüV
 eli: "https://fedlex.data.admin.ch/eli/cc/2023/711"
 language: de
-version: 2024-01-01
+version: 2024-08-13
 adopted: 2023-11-01
 in_force: 2024-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/711/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2023-711-20240101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2023/711/20240813/de/xml/fedlex-data-admin-ch-eli-cc-2023-711-20240813-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20240813/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2023/711/20240101/de"
 
 (Düngerverordnung, DüV)
 
-vom 1. November 2023 (Stand am 1. Januar 2024)
+vom 1. November 2023 (Stand am 13. August 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -744,11 +744,13 @@ Der eindeutige Rezepturidentifikator (UFI) nach Artikel 15*a* ChemV[^44-1] muss 
 
 Diese Verordnung tritt am 1. Januar 2024 in Kraft.
 
-Anhang 1
+Anhang 1[^t-1]
 
 (Art. 14 Abs. 1, 20 Abs. 1 Bst. a und 30 Abs. 3)
 
 ## Produktfunktionskategorien (PFC)
+
+[^t-1]: Bereinigt gemäss Berichtigung vom 13. Aug. 2024 ([AS 2024 411](https://fedlex.data.admin.ch/eli/oc/2024/411)).
 
 Die PFC 1–7 entsprechen den in Anhang I der Verordnung (EU) 2019/1009[^annex1-lvlu1-1] festgelegten Kategorien. Die PFC ab Ziffer 100 entsprechen der Schweizer Düngergesetzgebung.
 
@@ -925,7 +927,8 @@ Enthält ein fester organischer Dünger mehr als einen deklarierten Primärnähr
 - a. 1 % Gesamtstickstoff (N);
 - b. 1 % Phosphorpentoxid (P<sub>2</sub>O<sub>5</sub>); oder
 - c. 1 % Kali (K<sub>2</sub>O).
-- [tab] Die Summe der Nährstoffgehalte muss einen Massenanteil von mindestens 4 % aufweisen.
+
+Die Summe der Nährstoffgehalte muss einen Massenanteil von mindestens 4 % aufweisen.
 
 <sup>3</sup> Der Gehalt an organischem Kohlenstoff (C<sub>org</sub>) eines festen organischen Düngers muss in Massenprozent ausgedrückt mindestens 15 % betragen.
 
@@ -946,7 +949,8 @@ Enthält ein flüssiger organischer Dünger mehr als einen deklarierten Primärn
 - a. 1 % Gesamtstickstoff (N);
 - b. 1 % Gesamtphosphorpentoxid (P<sub>2</sub>O<sub>5</sub>); oder
 - c. 1 % Gesamtkali (K<sub>2</sub>O).
-- [tab] Die Summe der Nährstoffgehalte muss einen Massenanteil von mindestens 3 % aufweisen.
+
+Die Summe der Nährstoffgehalte muss einen Massenanteil von mindestens 3 % aufweisen.
 
 <sup>3</sup> Der Gehalt an organischem Kohlenstoff (C<sub>org</sub>) eines flüssigen organischen Düngers muss in Massenprozent ausgedrückt mindestens 5 % betragen.
 
@@ -990,7 +994,8 @@ Enthält ein fester organisch-mineralischer Dünger mehr als einen deklarierten 
 - a. 2 % Gesamtstickstoff (N), davon 0,5 % organischer Stickstoff (N<sub>org</sub>);
 - b. 2 % Gesamtphosphorpentoxid (P<sub>2</sub>O<sub>5</sub>); oder
 - c. 2 % Gesamtkali (K<sub>2</sub>O).
-- [tab] Die Summe der Nährstoffgehalte muss einen Massenanteil von mindestens 8 % aufweisen.
+
+Die Summe der Nährstoffgehalte muss einen Massenanteil von mindestens 8 % aufweisen.
 
 <sup>3</sup> Der Gehalt an organischem Kohlenstoff (C<sub>org</sub>) eines festen organisch-mineralischen Düngers muss in Massenprozent ausgedrückt mindestens 7,5 % betragen.
 
@@ -1013,7 +1018,8 @@ Enthält ein flüssiger organisch-mineralischer Dünger mehr als einen deklarier
 - a. 2 % Gesamtstickstoff (N), davon 0,5 % organischer Stickstoff (N<sub>org</sub>);
 - b. 2 % Gesamtphosphorpentoxid (P<sub>2</sub>O<sub>5</sub>); oder
 - c. 2 % Gesamtkali (K<sub>2</sub>O).
-- [tab] Die Summe der Nährstoffgehalte muss einen Massenanteil von mindestens 6 % aufweisen.
+
+Die Summe der Nährstoffgehalte muss einen Massenanteil von mindestens 6 % aufweisen.
 
 <sup>3</sup> Der Gehalt an organischem Kohlenstoff (C<sub>org</sub>) eines flüssigen organisch-mineralischen Düngers muss in Massenprozent ausgedrückt mindestens 3 % betragen.
 
@@ -1073,9 +1079,10 @@ Ein fester anorganischer Makronährstoff-Dünger hat eine feste Form.
 - e. 9 % Gesamtcalciumoxid (CaO);
 - f. 10 % Gesamtschwefeltrioxid (SO<sub>3</sub>); oder
 - g. 1 % Gesamtnatriumoxid (Na<sub>2</sub>O).
-- [tab] Der Gesamtgehalt an Natriumoxid (Na<sub>2</sub>O) darf jedoch 40 % nicht überschreiten.
 
-<sup>3</sup> Enthält ein fester anorganischer Einnährstoff-Makronährstoff-Dünger nur einen deklarierten Makronährstoff [Stickstoff (N), Phosphor (P), Kalium (K), Calcium (Ca), Magnesium (Mg), Natrium (Na), Schwefel (S)], und einen oder mehrere deklarierte Sekundär-Makronährstoffe [Calcium (Ca), Magnesium (Mg), Natrium (Na), Schwefel(S)]:
+Der Gesamtgehalt an Natriumoxid (Na<sub>2</sub>O) darf jedoch 40 % nicht überschreiten.
+
+<sup>3</sup> Enthält ein fester anorganischer Einnährstoff-Makronährstoff-Dünger nur einen deklarierten Primär-Makronährstoff [Stickstoff (N), Phosphor (P), Kalium (K)], und einen oder mehrere deklarierte Sekundär-Makronährstoffe [Calcium (Ca), Magnesium (Mg), Natrium (Na), Schwefel (S)]:
 
 - a.
 
@@ -1094,8 +1101,9 @@ Ein fester anorganischer Makronährstoff-Dünger hat eine feste Form.
   - 3\. 1,5 % Gesamtschwefeltrioxid (SO<sub>3</sub>), oder
   - 4\. 1 % Gesamtnatriumoxid (Na<sub>2</sub>O).
 
-- Der Gesamtgehalt an Natriumoxid (Na<sub>2</sub>O) darf jedoch 40 % nicht überschreiten.
-- [tab] Die Summe aller deklarierten Primär- und Sekundär-Makronährstoffgehalte muss einen Massenanteil von mindestens 18 % aufweisen.
+Der Gesamtgehalt an Natriumoxid (Na<sub>2</sub>O) darf jedoch 40 % nicht überschreiten.
+
+Die Summe aller deklarierten Primär- und Sekundär-Makronährstoffgehalte muss einen Massenanteil von mindestens 18 % aufweisen.
 
 ### PFC 1(C)(I)(a)(ii): Fester anorganischer Mehrnährstoff-Makronährstoff-Dünger
 
@@ -1113,8 +1121,10 @@ Ein fester anorganischer Makronährstoff-Dünger hat eine feste Form.
 - e. 1,5 % Gesamtcalciumoxid (CaO);
 - f. 1,5 % Gesamtschwefeltrioxid (SO<sub>3</sub>); oder
 - g. 1 % Gesamtnatriumoxid (Na<sub>2</sub>O).
-- [tab] Der Gesamtgehalt an Natriumoxid (Na<sub>2</sub>O) darf jedoch 40 % nicht überschreiten.
-- [tab] Die Summe aller deklarierten Makronährstoffgehalte muss einen Massenanteil von mindestens 18 % aufweisen.
+
+Der Gesamtgehalt an Natriumoxid (Na<sub>2</sub>O) darf jedoch 40 % nicht überschreiten.
+
+Die Summe aller deklarierten Makronährstoffgehalte muss einen Massenanteil von mindestens 18 % aufweisen.
 
 ### PFC 1(C)(I)(a)(i-ii)(A): Fester anorganischer Ein- oder Mehrnährstoff-Makronährstoff-Ammoniumnitrat-Dünger mit hohem Stickstoffgehalt
 
@@ -1162,7 +1172,8 @@ Ein flüssiger anorganischer Makronährstoff-Dünger hat eine flüssige Form.
 - e. 6 % Gesamtcalciumoxid (CaO);
 - f. 5 % Gesamtschwefeltrioxid (SO<sub>3</sub>); oder
 - g. 1 % Gesamtnatriumoxid (Na<sub>2</sub>O).
-- [tab] Der Gesamtgehalt an Natriumoxid (Na<sub>2</sub>O) darf jedoch 40 % nicht überschreiten.
+
+Der Gesamtgehalt an Natriumoxid (Na<sub>2</sub>O) darf jedoch 40 % nicht überschreiten.
 
 <sup>3</sup> Enthält ein flüssiger anorganischer Einnährstoff-Makronährstoff-Dünger nur einen deklarierten Makronährstoff [Stickstoff (N), Phosphor (P), Kalium (K), Calcium (Ca), Magnesium (Mg), Natrium (Na), Schwefel (S)], und einen oder mehrere deklarierte Sekundär-Makronährstoffe [Calcium (Ca), Magnesium (Mg), Natrium (Na), Schwefel(S)]:
 
@@ -1183,8 +1194,9 @@ Ein flüssiger anorganischer Makronährstoff-Dünger hat eine flüssige Form.
   - 3\. 0,75 % Gesamtschwefeltrioxid (SO<sub>3</sub>), oder
   - 4\. 0,5 % Gesamtnatriumoxid (Na<sub>2</sub>O).
 
-- Der Gesamtgehalt an Natriumoxid (Na<sub>2</sub>O) darf jedoch 20 % nicht überschreiten.
-- Die Summe aller deklarierten Primär- und Sekundär-Makronährstoffgehalte muss einen Massenanteil von mindestens 7 % aufweisen.
+Der Gesamtgehalt an Natriumoxid (Na<sub>2</sub>O) darf jedoch 20 % nicht überschreiten.
+
+Die Summe aller deklarierten Primär- und Sekundär-Makronährstoffgehalte muss einen Massenanteil von mindestens 7 % aufweisen.
 
 ### PFC 1(C)(I)(b)(ii): Flüssiger anorganischer Mehrnährstoff-Makronährstoff-Dünger
 
@@ -1202,8 +1214,10 @@ Ein flüssiger anorganischer Makronährstoff-Dünger hat eine flüssige Form.
 - e. 0,75 % Gesamtcalciumoxid (CaO);
 - f. 0,75 % Gesamtschwefeltrioxid (SO<sub>3</sub>); oder
 - g. 0,5 % Gesamtnatriumoxid (Na<sub>2</sub>O).
-- [tab] Der Gesamtgehalt an Natriumoxid (Na<sub>2</sub>O) darf jedoch 20 % nicht überschreiten.
-- [tab] Die Summe aller deklarierten Makronährstoffgehalte muss einen Massenanteil von mindestens 7 % aufweisen.
+
+Der Gesamtgehalt an Natriumoxid (Na<sub>2</sub>O) darf jedoch 20 % nicht überschreiten.
+
+Die Summe aller deklarierten Makronährstoffgehalte muss einen Massenanteil von mindestens 7 % aufweisen.
 
 ### PFC 1(C)(II): Anorganischer Spurennährstoff-Dünger
 
@@ -1633,7 +1647,7 @@ Ein Dünger, der ganz oder teilweise aus Nebenprodukten im Sinne von Artikel 5 d
 
 <sup>3</sup> Ein Dünger, der ganz oder teilweise aus CMC 12 besteht, ist bewilligungspflichtig.
 
-**CMC 13:** **Durch thermische Oxidation gewonnene Materialien** **und deren Folgeprodukte**
+### CMC 13: Durch thermische Oxidation gewonnene Materialien und deren Folgeprodukte
 
 <sup>1</sup> Ein Dünger darf durch thermische Oxidation gewonnene Materialien und deren Folgeprodukte enthalten, die folgende Voraussetzungen erfüllen:
 
@@ -1669,11 +1683,13 @@ Ein Dünger, der ganz oder teilweise aus zurückgewonnenen hochreinen Materialie
 
 Ein Dünger darf einen Hofdünger enthalten, wenn die Qualitätsvorschriften nach Anhang 2.6 ChemRRV eingehalten werden.
 
-Anhang 3
+Anhang 3[^t-2]
 
 (Art. 31 Abs. 1)
 
 ## Kennzeichnungsanforderungen
+
+[^t-2]: Bereinigt gemäss Berichtigung vom 13. Aug. 2024 ([AS 2024 411](https://fedlex.data.admin.ch/eli/oc/2024/411)).
 
 ### 1 Allgemeine Kennzeichnungsanforderungen
 
@@ -1811,6 +1827,7 @@ Folgende Angaben sind zu machen:
     - – Gesamtstickstoff (N)
     - – Mindestmenge an organischem Stickstoff (N<sub>org</sub>), gefolgt von einer Beschreibung des Ursprungs des verwendeten organischen Materials
     - – Stickstoff in Form von Nitratstickstoff
+    - – Stickstoff in Form von Ammoniumstickstoff
     - – Stickstoff in Form von Harnstoffstickstoff,
 
   - 2\.
