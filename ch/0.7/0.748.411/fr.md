@@ -3,11 +3,11 @@ sr: "0.748.411"
 title: "Convention du 28 mai 1999 pour l'unification de certaines règles relatives au transport aérien international"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/566"
 language: fr
-version: 2023-06-21
+version: 2024-08-13
 adopted: 1999-05-28
 in_force: 2005-09-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/566/20230621/fr/xml/fedlex-data-admin-ch-eli-cc-2005-566-20230621-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/566/20230621/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/566/20240813/fr/xml/fedlex-data-admin-ch-eli-cc-2005-566-20240813-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/566/20240813/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 7 juillet 2005
 
 Entrée en vigueur pour la Suisse le 5 septembre 2005
 
-(État le 21 juin 2023)
+(État le 13 août 2024)
 
 [^t-1]: [RO 2005 4393](https://fedlex.data.admin.ch/eli/oc/2005/565)
 
@@ -603,7 +603,7 @@ Aucune réserve ne peut être admise à la présente Convention, si ce n’est q
 
 *En foi de quoi,* les plénipotentiaires soussignés, dûment autorisés, ont signé la présente Convention. Fait à Montréal le 28<sup>e</sup> jour du mois de mai de l’an mil neuf cent quatre-vingt-dix-neuf dans les langues française, anglaise, arabe, chinoise, espagnole et russe, tous les textes faisant également foi. La présente Convention restera déposée aux archives de l’Organisation de l’aviation civile internationale, et le dépositaire en transmettra des copies certifiées conformes à tous les États parties à la Convention de Varsovie, au Protocole de La Haye, à la Convention de Guadalajara, au Protocole de Guatemala et aux Protocoles de Montréal. (Suivent les signatures)
 
-Champ d’application le 21 juin 2023[^t-2]
+Champ d’application le 13 août 2024[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -626,13 +626,13 @@ Champ d’application le 21 juin 2023[^t-2]
 <tr><td>Bosnie et Herzégovine</td><td>9 mars</td><td>2007 A</td><td>8 mai</td><td>2007</td></tr>
 <tr><td>Botswana</td><td>28 mars</td><td>2001 A</td><td>4 novembre</td><td>2003</td></tr>
 <tr><td>Brésil</td><td>19 mai</td><td>2006</td><td>18 juillet</td><td>2006</td></tr>
-<tr><td>Brunéi<sup>\*</sup></td><td>18 mars</td><td>2020 A</td><td>17 mai</td><td>2020</td></tr>
+<tr><td>Brunéi\*</td><td>18 mars</td><td>2020 A</td><td>17 mai</td><td>2020</td></tr>
 <tr><td>Bulgarie</td><td>10 novembre</td><td>2003 A</td><td>9 janvier</td><td>2004</td></tr>
 <tr><td>Burkina Faso</td><td>25 juin</td><td>2013</td><td>24 août</td><td>2013</td></tr>
 <tr><td>Cameroun</td><td>5 septembre</td><td>2003</td><td>4 novembre</td><td>2003</td></tr>
 <tr><td>Canada\*</td><td>19 novembre</td><td>2002</td><td>4 novembre</td><td>2003</td></tr>
 <tr><td>Cap-Vert</td><td>23 août</td><td>2004 A</td><td>22 octobre</td><td>2004</td></tr>
-<tr><td>Chili<sup>\*</sup></td><td>19 mars</td><td>2009</td><td>18 mai</td><td>2009</td></tr>
+<tr><td>Chili\*</td><td>19 mars</td><td>2009</td><td>18 mai</td><td>2009</td></tr>
 <tr><td>Chine <sup>a</sup></td><td>1<sup>er</sup> juin</td><td>2005</td><td>31 juillet</td><td>2005</td></tr>
 <tr><td>[tab] Macao</td><td>1<sup>er</sup> juin</td><td>2005</td><td>31 juillet</td><td>2005</td></tr>
 <tr><td>Chypre</td><td>20 novembre</td><td>2002 A</td><td>4 novembre</td><td>2003</td></tr>
@@ -662,12 +662,11 @@ Champ d’application le 21 juin 2023[^t-2]
 <tr><td>Géorgie</td><td>20 décembre</td><td>2010 A</td><td>18 février</td><td>2011</td></tr>
 <tr><td>Ghana</td><td>4 juin</td><td>2018</td><td>3 août</td><td>2018</td></tr>
 <tr><td>Grèce</td><td>22 juillet</td><td>2002</td><td>4 novembre</td><td>2003</td></tr>
-<tr><td>Guatemala<sup>\*</sup></td><td>7 juin</td><td>2016 A</td><td>6 août</td><td>2016</td></tr>
+<tr><td>Guatemala\*</td><td>7 juin</td><td>2016 A</td><td>6 août</td><td>2016</td></tr>
 <tr><td>Guinée équatoriale</td><td>18 septembre</td><td>2015</td><td>17 novembre</td><td>2015</td></tr>
 <tr><td>Guyana</td><td>23 décembre</td><td>2014 A</td><td>21 février</td><td>2015</td></tr>
 <tr><td>Honduras</td><td>25 novembre</td><td>2015 A</td><td>24 janvier</td><td>2016</td></tr>
 <tr><td>Hongrie</td><td>8 novembre</td><td>2004 A</td><td>7 janvier</td><td>2005</td></tr>
-<tr><td>Îles Cook</td><td>22 mai</td><td>2007 A</td><td>21 juillet</td><td>2007</td></tr>
 <tr><td>Inde</td><td>1<sup>er</sup> mai</td><td>2009 A</td><td>30 juin</td><td>2009</td></tr>
 <tr><td>Indonésie</td><td>20 mars</td><td>2017 A</td><td>19 mai</td><td>2017</td></tr>
 <tr><td>Irlande</td><td>29 avril</td><td>2004</td><td>28 juin</td><td>2004</td></tr>
@@ -705,6 +704,7 @@ Champ d’application le 21 juin 2023[^t-2]
 <tr><td>Nigéria</td><td>10 mai</td><td>2002</td><td>4 novembre</td><td>2003</td></tr>
 <tr><td>Norvège</td><td>29 avril</td><td>2004 A</td><td>28 juin</td><td>2004</td></tr>
 <tr><td>Nouvelle-Zélande</td><td>18 novembre</td><td>2002</td><td>4 novembre</td><td>2003</td></tr>
+<tr><td>Îles Cook</td><td>22 mai</td><td>2007 A</td><td>21 juillet</td><td>2007</td></tr>
 <tr><td>[tab] Tokelau</td><td>18 novembre</td><td>2002</td><td>4 novembre</td><td>2003</td></tr>
 <tr><td>Oman</td><td>28 mai</td><td>2007 A</td><td>27 juillet</td><td>2007</td></tr>
 <tr><td>Ouganda</td><td>28 novembre</td><td>2017 A</td><td>27 janvier</td><td>2018</td></tr>
@@ -722,7 +722,7 @@ Champ d’application le 21 juin 2023[^t-2]
 <tr><td>République tchèque\*</td><td>16 novembre</td><td>2000</td><td>4 novembre</td><td>2003</td></tr>
 <tr><td>Roumanie</td><td>20 mars</td><td>2001</td><td>4 novembre</td><td>2003</td></tr>
 <tr><td>Royaume-Uni</td><td>29 avril</td><td>2004</td><td>28 juin</td><td>2004</td></tr>
-<tr><td>Russie<sup>\*</sup></td><td>22 juin</td><td>2017 A</td><td>21 août</td><td>2017</td></tr>
+<tr><td>Russie\*</td><td>22 juin</td><td>2017 A</td><td>21 août</td><td>2017</td></tr>
 <tr><td>Rwanda</td><td>20 octobre</td><td>2015 A</td><td>19 décembre</td><td>2015</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>29 mars</td><td>2004 A</td><td>28 mai</td><td>2004</td></tr>
 <tr><td>Sénégal</td><td>7 septembre</td><td>2016</td><td>6 novembre</td><td>2016</td></tr>
@@ -737,10 +737,10 @@ Champ d’application le 21 juin 2023[^t-2]
 <tr><td>Suède</td><td>29 avril</td><td>2004</td><td>28 juin</td><td>2004</td></tr>
 <tr><td>Suisse</td><td>7 juillet</td><td>2005</td><td>5 septembre</td><td>2005</td></tr>
 <tr><td>Syrie</td><td>18 juillet</td><td>2002 A</td><td>4 novembre</td><td>2003</td></tr>
-<tr><td>Togo\*</td><td>27 septembre</td><td>2016</td><td>26 novembre</td><td>2016</td></tr>
 <tr><td>Tanzanie</td><td>11 février</td><td>2003 A</td><td>4 novembre</td><td>2003</td></tr>
 <tr><td>Tchad</td><td>12 juillet</td><td>2017 A</td><td>10 septembre</td><td>2017</td></tr>
-<tr><td>Thaïlande<sup>\*</sup></td><td>3 août</td><td>2017 A</td><td>2 octobre</td><td>2017</td></tr>
+<tr><td>Thaïlande\*</td><td>3 août</td><td>2017 A</td><td>2 octobre</td><td>2017</td></tr>
+<tr><td>Togo\*</td><td>27 septembre</td><td>2016</td><td>26 novembre</td><td>2016</td></tr>
 <tr><td>Tonga</td><td>20 novembre</td><td>2003 A</td><td>19 janvier</td><td>2004</td></tr>
 <tr><td>Tunisie</td><td>21 septembre</td><td>2018 A</td><td>20 novembre</td><td>2018</td></tr>
 <tr><td>Turquie\*</td><td>25 janvier</td><td>2011</td><td>26 mars</td><td>2011</td></tr>
@@ -749,7 +749,7 @@ Champ d’application le 21 juin 2023[^t-2]
 <tr><td>Uruguay</td><td>4 février</td><td>2008</td><td>4 avril</td><td>2008</td></tr>
 <tr><td>Vanuatu</td><td>9 novembre</td><td>2005 A</td><td>8 janvier</td><td>2006</td></tr>
 <tr><td>Vietnam</td><td>27 septembre</td><td>2018 A</td><td>26 novembre</td><td>2018</td></tr>
-<tr><td colspan="5">\* [tab] Réserves et déclarations. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation Internationale de l’Aviation Civile (OACI): [www.icao.int](http://www.icao.int) &gt; Français &gt; Recueil des traités &gt; Current lists of parties to multilateral air law treaties ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas à la Région administrative spéciale (RAS) Hong Kong. <sup>b</sup> La Convention ne s’applique pas aux Îles Féroé.</td></tr>
+<tr><td colspan="5">\* [tab] Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation Internationale de l’Aviation Civile (OACI): [www.icao.int](http://www.icao.int) &gt; Français &gt; Au sujet de l’OACI &gt; Direction des affaires juridiques et des relations extérieures &gt; Recueil des traités &gt; Listes actualisées des parties aux traités de droit aérien ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas à la Région administrative spéciale (RAS) Hong Kong. <sup>b</sup> La Convention ne s’applique pas aux Îles Féroé.</td></tr>
 </table>
 
-[^t-2]: [RO 2005 4395](https://fedlex.data.admin.ch/eli/oc/2005/566); [2006 3357](https://fedlex.data.admin.ch/eli/oc/2006/528); [2007 5431](https://fedlex.data.admin.ch/eli/oc/2007/755); [2008 1649](https://fedlex.data.admin.ch/eli/oc/2008/239); [2009 3717](https://fedlex.data.admin.ch/eli/oc/2009/469); [2010 63](https://fedlex.data.admin.ch/eli/oc/2010/19); [2011 4321](https://fedlex.data.admin.ch/eli/oc/2011/586); [2014 2389](https://fedlex.data.admin.ch/eli/oc/2014/412); [2015 5993](https://fedlex.data.admin.ch/eli/oc/2015/930); [2017 507](https://fedlex.data.admin.ch/eli/oc/2017/87), [6009](https://fedlex.data.admin.ch/eli/oc/2017/659); [2018 5399](https://fedlex.data.admin.ch/eli/oc/2018/814); [2023 322](https://fedlex.data.admin.ch/eli/oc/2023/322). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty%20).
+[^t-2]: [RO 2005 4395](https://fedlex.data.admin.ch/eli/oc/2005/566); [2006 3357](https://fedlex.data.admin.ch/eli/oc/2006/528); [2007 5431](https://fedlex.data.admin.ch/eli/oc/2007/755); [2008 1649](https://fedlex.data.admin.ch/eli/oc/2008/239); [2009 3717](https://fedlex.data.admin.ch/eli/oc/2009/469); [2010 63](https://fedlex.data.admin.ch/eli/oc/2010/19); [2011 4321](https://fedlex.data.admin.ch/eli/oc/2011/586); [2014 2389](https://fedlex.data.admin.ch/eli/oc/2014/412); [2015 5993](https://fedlex.data.admin.ch/eli/oc/2015/930); [2017 507](https://fedlex.data.admin.ch/eli/oc/2017/87), [6009](https://fedlex.data.admin.ch/eli/oc/2017/659); [2018 5399](https://fedlex.data.admin.ch/eli/oc/2018/814); [2023 322](https://fedlex.data.admin.ch/eli/oc/2023/322); [2024 417](https://fedlex.data.admin.ch/eli/oc/2024/417). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

@@ -3,11 +3,11 @@ sr: "0.748.411"
 title: Übereinkommen vom 28. Mai 1999 zur Vereinheitlichung bestimmter Vorschriften über die Beförderung im internationalen Luftverkehr
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/566"
 language: de
-version: 2023-06-21
+version: 2024-08-13
 adopted: 1999-05-28
 in_force: 2005-09-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/566/20230621/de/xml/fedlex-data-admin-ch-eli-cc-2005-566-20230621-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/566/20230621/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/566/20240813/de/xml/fedlex-data-admin-ch-eli-cc-2005-566-20240813-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/566/20240813/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 7. Juli 2005
 
 Inkrafttreten für die Schweiz am 5. September 2005
 
-(Stand am 21. Juni 2023)
+(Stand am 13. August 2024)
 
 [^t-1]: [AS 2005 4393](https://fedlex.data.admin.ch/eli/oc/2005/565)
 
@@ -595,7 +595,7 @@ Zu diesem Übereinkommen dürfen keine Vorbehalte angebracht werden; allerdings 
 
 *Zu Urkund dessen* haben die unterzeichneten, hierzu gehörig befugten Bevollmächtigten dieses Übereinkommen unterschrieben. Geschehen zu Montreal am 28. Mai 1999 in arabischer, chinesischer, englischer, französischer, russischer und spanischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist. Dieses Übereinkommen wird im Archiv der Internationalen Zivilluftfahrt-Organisation hinterlegt; beglaubigte Abschriften werden vom Depositar allen Vertragsstaaten dieses Übereinkommens sowie allen Vertragsstaaten des Warschauer Abkommens, des Haager Protokolls, des Abkommens von Guadalajara, des Protokolls von Guatemala-Stadt und der Protokolle von Montreal übermittelt. (Es folgen die Unterschriften)
 
-Geltungsbereich am 21. Juni 2023[^t-2]
+Geltungsbereich am 13. August 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -623,7 +623,6 @@ Geltungsbereich am 21. Juni 2023[^t-2]
 <tr><td>Chile<sup>\*</sup></td><td>19. März</td><td>2009</td><td>18. Mai</td><td>2009</td></tr>
 <tr><td>China <sup>a</sup></td><td>1. Juni</td><td>2005</td><td>31. Juli</td><td>2005</td></tr>
 <tr><td>Macau</td><td>1. Juni</td><td>2005</td><td>31. Juli</td><td>2005</td></tr>
-<tr><td>Cook-Inseln</td><td>22. Mai</td><td>2007 B</td><td>21. Juli</td><td>2007</td></tr>
 <tr><td>Costa Rica</td><td>9. Juni</td><td>2011</td><td>8. August</td><td>2011</td></tr>
 <tr><td>Côte d’Ivoire</td><td>4. Februar</td><td>2015</td><td>5. April</td><td>2015</td></tr>
 <tr><td>Dänemark <sup>b</sup></td><td>29. April</td><td>2004</td><td>28. Juni</td><td>2004</td></tr>
@@ -687,6 +686,7 @@ Geltungsbereich am 21. Juni 2023[^t-2]
 <tr><td>Namibia</td><td>27. September</td><td>2001</td><td>4. November</td><td>2003</td></tr>
 <tr><td>Nepal\*</td><td>16. Oktober</td><td>2018 B</td><td>15. Dezember</td><td>2018</td></tr>
 <tr><td>Neuseeland</td><td>18. November</td><td>2002</td><td>4. November</td><td>2003</td></tr>
+<tr><td>Cook-Inseln</td><td>22. Mai</td><td>2007 B</td><td>21. Juli</td><td>2007</td></tr>
 <tr><td>Tokelau</td><td>18. November</td><td>2002</td><td>4. November</td><td>2003</td></tr>
 <tr><td>Nicaragua</td><td>6. September</td><td>2022 B</td><td>5. November</td><td>2022</td></tr>
 <tr><td>Niederlande\*</td><td>29. April</td><td>2004</td><td>28. Juni</td><td>2004</td></tr>
@@ -741,7 +741,7 @@ Geltungsbereich am 21. Juni 2023[^t-2]
 <tr><td>Vereinigtes Königreich</td><td>29. April</td><td>2004</td><td>28. Juni</td><td>2004</td></tr>
 <tr><td>Vietnam</td><td>27. September</td><td>2018 B</td><td>26. November</td><td>2018</td></tr>
 <tr><td>Zypern</td><td>20. November</td><td>2002 B</td><td>4. November</td><td>2003</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die französischen und englischen Texte können auf der Internetseite der Internationalen Zivilluftfahrtorganisation: [www.icao.int](http://www.icao.int/) &gt; Français &gt; Recueil des traités &gt; Current lists of parties to multilateral air law treaties oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereink. gilt nicht für die Besondere Verwaltungsregion (SAR) Hong Kong. <sup>b</sup> Das Übereink. gilt nicht für die Färöer.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Internationalen Zivilluftfahrtorganisation: [https://www.icao.int/](https://www.icao.int/secretariat/legal/Lists/traites%20de%20droit/AllItems.aspx) &gt; Français &gt; Au sujet de l’OACI &gt; Direction des affaires juridiques et des relations extérieures &gt; Recueil des traités &gt; Liste actualisée des parties aux traités de droit aérien eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereink. gilt nicht für die Besondere Verwaltungsregion (SAR) Hong Kong. <sup>b</sup> Das Übereink. gilt nicht für die Färöer.</td></tr>
 </table>
 
-[^t-2]: [AS 2005 4395](https://fedlex.data.admin.ch/eli/oc/2005/566), [2006 3357](https://fedlex.data.admin.ch/eli/oc/2006/528), [2007 5431](https://fedlex.data.admin.ch/eli/oc/2007/755), [2008 1649](https://fedlex.data.admin.ch/eli/oc/2008/239), [2009 3717](https://fedlex.data.admin.ch/eli/oc/2009/469), [2010 63](https://fedlex.data.admin.ch/eli/oc/2010/19), [2011 4321](https://fedlex.data.admin.ch/eli/oc/2011/586), [2014 2389](https://fedlex.data.admin.ch/eli/oc/2014/412), [2015 5993](https://fedlex.data.admin.ch/eli/oc/2015/930), [2017 507](https://fedlex.data.admin.ch/eli/oc/2017/87)[6009](https://fedlex.data.admin.ch/eli/oc/2017/659), [2018 5399](https://fedlex.data.admin.ch/eli/oc/2018/814); [2023 322](https://fedlex.data.admin.ch/eli/oc/2023/322). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-2]: [AS 2005 4395](https://fedlex.data.admin.ch/eli/oc/2005/566); [2006 3357](https://fedlex.data.admin.ch/eli/oc/2006/528); [2007 5431](https://fedlex.data.admin.ch/eli/oc/2007/755); [2008 1649](https://fedlex.data.admin.ch/eli/oc/2008/239); [2009 3717](https://fedlex.data.admin.ch/eli/oc/2009/469); [2010 63](https://fedlex.data.admin.ch/eli/oc/2010/19); [2011 4321](https://fedlex.data.admin.ch/eli/oc/2011/586); [2014 2389](https://fedlex.data.admin.ch/eli/oc/2014/412); [2015 5993](https://fedlex.data.admin.ch/eli/oc/2015/930); [2017 507](https://fedlex.data.admin.ch/eli/oc/2017/87), [6009](https://fedlex.data.admin.ch/eli/oc/2017/659); [2018 5399](https://fedlex.data.admin.ch/eli/oc/2018/814); [2023 322](https://fedlex.data.admin.ch/eli/oc/2023/322); [2024 417](https://fedlex.data.admin.ch/eli/oc/2024/417). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

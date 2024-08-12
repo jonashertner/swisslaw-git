@@ -3,11 +3,11 @@ sr: "0.748.411"
 title: "Convenzione del 28 maggio 1999 per l'unificazione di alcune norme sul trasporto aereo internazionale"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/566"
 language: it
-version: 2023-06-21
+version: 2024-08-13
 adopted: 1999-05-28
 in_force: 2005-09-05
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/566/20230621/it/xml/fedlex-data-admin-ch-eli-cc-2005-566-20230621-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/566/20230621/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/566/20240813/it/xml/fedlex-data-admin-ch-eli-cc-2005-566-20240813-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/566/20240813/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a Montreal il 28 maggio 1999 Approvata dall’Assemblea federale il 17 dicembre 2004[^t-1] Ratificata tramite strumenti depositati dalla Svizzera il 7 luglio 2005 Entrata in vigore per la Svizzera il 5 settembre 2005
 
-(Stato 21 giugno 2023)
+(Stato 13 agosto 2024)
 
 [^t-1]: [RU 2005 4393](https://fedlex.data.admin.ch/eli/oc/2005/565)
 
@@ -599,7 +599,7 @@ Nessuna riserva potrà essere formulata alla presente Convenzione, tuttavia uno 
 
 (Seguono le firme)
 
-Campo d’applicazione il 21 giugno 2023[^t-2]
+Campo d’applicazione il 13 agosto 2024[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -670,7 +670,6 @@ Campo d’applicazione il 21 giugno 2023[^t-2]
 <tr><td>Indonesia</td><td>20 marzo</td><td>2017 A</td><td>19 maggio</td><td>2017</td></tr>
 <tr><td>Irlanda</td><td>29 aprile</td><td>2004</td><td>28 giugno</td><td>2004</td></tr>
 <tr><td>Islanda</td><td>17 giugno</td><td>2004</td><td>16 agosto</td><td>2004</td></tr>
-<tr><td>Isole Cook</td><td>22 maggio</td><td>2007 A</td><td>21 luglio</td><td>2007</td></tr>
 <tr><td>Israele\*</td><td>19 gennaio</td><td>2011 A</td><td>20 marzo</td><td>2011</td></tr>
 <tr><td>Italia</td><td>29 aprile</td><td>2004</td><td>28 giugno</td><td>2004</td></tr>
 <tr><td>Kazakistan</td><td>2 luglio</td><td>2015 A</td><td>31 agosto</td><td>2015</td></tr>
@@ -701,6 +700,7 @@ Campo d’applicazione il 21 giugno 2023[^t-2]
 <tr><td>Nigeria</td><td>10 maggio</td><td>2002</td><td>4 novembre</td><td>2003</td></tr>
 <tr><td>Norvegia</td><td>29 aprile</td><td>2004 A</td><td>28 giugno</td><td>2004</td></tr>
 <tr><td>Nuova Zelanda</td><td>18 novembre</td><td>2002</td><td>4 novembre</td><td>2003</td></tr>
+<tr><td>Isole Cook</td><td>22 maggio</td><td>2007 A</td><td>21 luglio</td><td>2007</td></tr>
 <tr><td>Tokelau</td><td>18 novembre</td><td>2002</td><td>4 novembre</td><td>2003</td></tr>
 <tr><td>Oman</td><td>28 maggio</td><td>2007 A</td><td>27 luglio</td><td>2007</td></tr>
 <tr><td>Paesi Bassi\*</td><td>29 aprile</td><td>2004</td><td>28 giugno</td><td>2004</td></tr>
@@ -745,9 +745,9 @@ Campo d’applicazione il 21 giugno 2023[^t-2]
 <tr><td>Uruguay</td><td>4 febbraio</td><td>2008</td><td>4 aprile</td><td>2008</td></tr>
 <tr><td>Vanuatu</td><td>9 novembre</td><td>2005 A</td><td>8 gennaio</td><td>2006</td></tr>
 <tr><td>Vietnam</td><td>27 settembre</td><td>2018 A</td><td>26 novembre</td><td>2018</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. I testi, in francese e inglese, possono essere consultati sul sito Internet dell’Organizzazione internazionale dell’aviazione civile (OACI): [www.icao.int/secretariat/legal/Pages/FR/TreatyCollection\_FR.aspx](https://www.icao.int/secretariat/legal/Pages/FR/TreatyCollection_FR.aspx). oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet dell’ Organizzazione dell’aviazione civile internazionale (OACI): www.icao.int &gt; Français &gt; Au sujet de l'OACI &gt; Direction des affaires juridiques et des relations extérieures &gt; Recueil des traités &gt; Liste actualisée des parties aux traités de droit aérien oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> La Conv. non vale per la Regione amministrativa speciale (RAS) Hong Kong.</td></tr>
 <tr><td colspan="5"><sup>b</sup> La Conv. non vale per le Isole Féroé.</td></tr>
 </table>
 
-[^t-2]: [RU 2005 4395](https://fedlex.data.admin.ch/eli/oc/2005/566); [2006 3357](https://fedlex.data.admin.ch/eli/oc/2006/528); [2007 5431](https://fedlex.data.admin.ch/eli/oc/2007/755); [2008 1649](https://fedlex.data.admin.ch/eli/oc/2008/239); [2009 3717](https://fedlex.data.admin.ch/eli/oc/2009/469); [2010 63](https://fedlex.data.admin.ch/eli/oc/2010/19); [2011 4321](https://fedlex.data.admin.ch/eli/oc/2011/586); [2014 2389](https://fedlex.data.admin.ch/eli/oc/2014/412); [2015 5993](https://fedlex.data.admin.ch/eli/oc/2015/930); [2017 507](https://fedlex.data.admin.ch/eli/oc/2017/87), [6009](https://fedlex.data.admin.ch/eli/oc/2017/659); [2018 5399](https://fedlex.data.admin.ch/eli/oc/2018/814); [2023 322](https://fedlex.data.admin.ch/eli/oc/2023/322). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» (www.fedlex.admin.ch/it/treaty).
+[^t-2]: [RU 2005 4395](https://fedlex.data.admin.ch/eli/oc/2005/566); [2006 3357](https://fedlex.data.admin.ch/eli/oc/2006/528); [2007 5431](https://fedlex.data.admin.ch/eli/oc/2007/755); [2008 1649](https://fedlex.data.admin.ch/eli/oc/2008/239); [2009 3717](https://fedlex.data.admin.ch/eli/oc/2009/469); [2010 63](https://fedlex.data.admin.ch/eli/oc/2010/19); [2011 4321](https://fedlex.data.admin.ch/eli/oc/2011/586); [2014 2389](https://fedlex.data.admin.ch/eli/oc/2014/412); [2015 5993](https://fedlex.data.admin.ch/eli/oc/2015/930); [2017 507](https://fedlex.data.admin.ch/eli/oc/2017/87), [6009](https://fedlex.data.admin.ch/eli/oc/2017/659); [2018 5399](https://fedlex.data.admin.ch/eli/oc/2018/814); [2023 322](https://fedlex.data.admin.ch/eli/oc/2023/322); [2024 417](https://fedlex.data.admin.ch/eli/oc/2024/417). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
