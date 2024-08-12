@@ -3,11 +3,11 @@ sr: "0.748.710.4"
 title: Übereinkommen vom 1. März 1991 über die Markierung von Plastiksprengstoffen zum Zweck des Aufspürens (mit Anhang)
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/532"
 language: de
-version: 2020-09-02
+version: 2024-08-13
 adopted: 1991-03-01
 in_force: 1998-06-21
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/532/20200902/de/xml/fedlex-data-admin-ch-eli-cc-2002-532-20200902-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/532/20200902/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/532/20240813/de/xml/fedlex-data-admin-ch-eli-cc-2002-532-20240813-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/532/20240813/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,11 +16,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/532/20200902/de"
 
 AS **2002** 3546; BBl **1993** IV 372
 
-Übersetzung*[^t-1]*
+Übersetzung[^t-1]
 
 Abgeschlossen in Montreal am 1. März 1991 Von der Bundesversammlung genehmigt am 14. Juni 1994[^t-2] Ratifikationsurkunde von der Schweiz hinterlegt am 3. April 1995 In Kraft getreten für die Schweiz am 21. Juni 1998
 
-(Stand am 2. September 2020)
+(Stand am 13. August 2024)
 
 [^t-1]: Gemeinsame Übersetzung der Schweiz, der Bundesrepublik Deutschland und Österreichs.
 [^t-2]: [AS 2002 3545](https://fedlex.data.admin.ch/eli/oc/2002/531)
@@ -215,7 +215,7 @@ Ein Markierungsstoff ist jeder der in der folgenden Tabelle aufgeführten Stoffe
 
 Jeder Sprengstoff, der als Ergebnis seiner üblichen Herstellung einen der aufgeführten Markierungsstoffe in der erforderlichen Mindestkonzentration oder darüber enthält, gilt als markiert.
 
-Geltungsbereich am 2. September 2020**[^t-3]**
+Geltungsbereich am 13. August 2024[^t-3]
 
 <table>
 <tr><th colspan="2">Vertragsstaaten</th><th colspan="2">Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th colspan="2"></th><th>Inkrafttreten</th><th colspan="2"></th></tr>
@@ -251,14 +251,14 @@ Geltungsbereich am 2. September 2020**[^t-3]**
 <tr><td>Côte d’Ivoire <sup>a</sup></td><td colspan="2">13. Oktober</td><td colspan="2">2015</td><td colspan="2">12. Dezember</td><td colspan="2">2015</td></tr>
 <tr><td>Dänemark <sup>a</sup> <sup>d</sup></td><td colspan="2">5. Oktober</td><td colspan="2">1998</td><td colspan="2">4. Dezember</td><td colspan="2">1998</td></tr>
 <tr><td>Deutschland <sup>b</sup></td><td colspan="2">17. Dezember</td><td colspan="2">1998</td><td colspan="2">15. Februar</td><td colspan="2">1999</td></tr>
-<tr><td>Dominikanische Republik <sup>a</sup></td><td colspan="2">9. Mai</td><td colspan="2">2011 B</td><td colspan="2">7. Juli</td><td colspan="2">2011</td></tr>
+<tr><td>Dominikanische Republik <sup>a</sup></td><td colspan="2">9. Mai</td><td colspan="2">2011 B</td><td colspan="2">8. Juli</td><td colspan="2">2011</td></tr>
 <tr><td>Dschibuti <sup>a</sup></td><td colspan="2">11. Juni</td><td colspan="2">2004 B</td><td colspan="2">10. August</td><td colspan="2">2004</td></tr>
 <tr><td>Ecuador <sup>a</sup></td><td colspan="2">15. Dezember</td><td colspan="2">1995</td><td colspan="2">21. Juni</td><td colspan="2">1998</td></tr>
 <tr><td>El Salvador <sup>a</sup></td><td colspan="2">18. Februar</td><td colspan="2">2000 B</td><td colspan="2">18. April</td><td colspan="2">2000</td></tr>
 <tr><td>Eritrea <sup>a</sup></td><td colspan="2">1. Dezember</td><td colspan="2">1994 B</td><td colspan="2">21. Juni</td><td colspan="2">1998</td></tr>
 <tr><td>Estland <sup>a</sup></td><td colspan="2">5. März</td><td colspan="2">1996 B</td><td colspan="2">21. Juni</td><td colspan="2">1998</td></tr>
 <tr><td>Eswatini <sup>a</sup></td><td colspan="2">13. Mai</td><td colspan="2">2003 B</td><td colspan="2">12. Juli</td><td colspan="2">2003</td></tr>
-<tr><td>Fidschi <sup>a</sup></td><td colspan="2">11. Juli</td><td colspan="2">2008 B</td><td colspan="2">10. September</td><td colspan="2">2008</td></tr>
+<tr><td>Fidschi <sup>a</sup></td><td colspan="2">11. Juli</td><td colspan="2">2008 B</td><td colspan="2">9. September</td><td colspan="2">2008</td></tr>
 <tr><td>Finnland <sup>b</sup></td><td colspan="2">5. Dezember</td><td colspan="2">2001</td><td colspan="2">3. Februar</td><td colspan="2">2002</td></tr>
 <tr><td>Frankreich <sup>b</sup></td><td colspan="2">21. Mai</td><td colspan="2">1997</td><td colspan="2">21. Juni</td><td colspan="2">1998</td></tr>
 <tr><td>Gabun <sup>a</sup></td><td colspan="2">28. April</td><td colspan="2">2017</td><td colspan="2">27. Juni</td><td colspan="2">2017</td></tr>
@@ -309,7 +309,7 @@ Geltungsbereich am 2. September 2020**[^t-3]**
 <tr><td>Malta <sup>a</sup></td><td colspan="2">15. November</td><td colspan="2">1994 B</td><td colspan="2">21. Juni</td><td>1998</td></tr>
 <tr><td>Marokko <sup>a</sup></td><td colspan="2">26. Mai</td><td colspan="2">1999 B</td><td colspan="2">25. Juli</td><td>1999</td></tr>
 <tr><td>Marshallinseln <sup>a</sup></td><td colspan="2">6. Februar</td><td colspan="2">2003 B</td><td colspan="2">7. April</td><td colspan="2">2003</td></tr>
-<tr><td>Mauretanien <sup>a</sup></td><td colspan="2">24. Mai</td><td colspan="2">2011 B</td><td colspan="2">22. Juli</td><td colspan="2">2011</td></tr>
+<tr><td>Mauretanien <sup>a</sup></td><td colspan="2">24. Mai</td><td colspan="2">2011 B</td><td colspan="2">23. Juli</td><td colspan="2">2011</td></tr>
 <tr><td>Mexiko <sup>a</sup></td><td colspan="2">9. April</td><td colspan="2">1992</td><td colspan="2">21. Juni</td><td>1998</td></tr>
 <tr><td>Moldau <sup>a</sup></td><td colspan="2">1. Dezember</td><td colspan="2">1997 B</td><td colspan="2">21. Juni</td><td>1998</td></tr>
 <tr><td>Monaco <sup>a</sup></td><td colspan="2">14. Mai</td><td colspan="2">1998 B</td><td colspan="2">13. Juli</td><td>1998</td></tr>
@@ -318,13 +318,13 @@ Geltungsbereich am 2. September 2020**[^t-3]**
 <tr><td>Myanmar\* <sup>a</sup></td><td colspan="2">1. September</td><td colspan="2">2004 B</td><td colspan="2">31. Oktober</td><td colspan="2">2004</td></tr>
 <tr><td>Nauru <sup>a</sup></td><td colspan="2">3. April</td><td colspan="2">2006 B</td><td colspan="2">2. Juni</td><td colspan="2">2006</td></tr>
 <tr><td>Neuseeland <sup>a</sup> <sup>e</sup></td><td colspan="2">19. Dezember</td><td colspan="2">2003</td><td colspan="2">17. Februar</td><td colspan="2">2004</td></tr>
+<tr><td>Niue <sup>a</sup></td><td colspan="2">1. Dezember</td><td colspan="2">2009 B</td><td colspan="2">30. Januar</td><td colspan="2">2010</td></tr>
 <tr><td>Nicaragua <sup>a</sup></td><td colspan="2">10. Januar</td><td colspan="2">2006</td><td colspan="2">11. März</td><td colspan="2">2006</td></tr>
 <tr><td>Niederlande <sup>a</sup> <sup>f</sup></td><td colspan="2">4. Mai</td><td colspan="2">1998</td><td colspan="2">3. Juli</td><td>1998</td></tr>
 <tr><td>Aruba</td><td colspan="2">30. November</td><td colspan="2">2005</td><td colspan="2">30. November</td><td colspan="2">2005</td></tr>
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td colspan="2">10. Oktober</td><td colspan="2">2010</td><td colspan="2">10. Oktober</td><td colspan="2">2010</td></tr>
 <tr><td>Niger <sup>a</sup></td><td colspan="2">6. März</td><td colspan="2">2009 B</td><td colspan="2">6. Mai</td><td colspan="2">2009</td></tr>
 <tr><td>Nigeria <sup>a</sup></td><td colspan="2">10. Mai</td><td colspan="2">2002 B</td><td colspan="2">9. Juli</td><td colspan="2">2002</td></tr>
-<tr><td>Niue <sup>a</sup></td><td colspan="2">1. Dezember</td><td colspan="2">2009 B</td><td colspan="2">30. Januar</td><td colspan="2">2010</td></tr>
 <tr><td>Nordmazedonien <sup>a</sup></td><td colspan="2">21. September</td><td colspan="2">1998 B</td><td colspan="2">20. November</td><td>1998</td></tr>
 <tr><td>Norwegen <sup>b</sup></td><td colspan="2">9. Juli</td><td colspan="2">1992</td><td colspan="2">21. Juni</td><td>1998</td></tr>
 <tr><td>Oman <sup>a</sup></td><td colspan="2">13. Dezember</td><td colspan="2">2001 B</td><td colspan="2">11. Februar</td><td>2002</td></tr>
@@ -332,7 +332,7 @@ Geltungsbereich am 2. September 2020**[^t-3]**
 <tr><td>Palau <sup>a</sup></td><td colspan="2">30. November</td><td colspan="2">2001 B</td><td colspan="2">29. Januar</td><td>2002</td></tr>
 <tr><td>Panama <sup>a</sup></td><td colspan="2">12. April</td><td colspan="2">1996 B</td><td colspan="2">21. Juni</td><td>1998</td></tr>
 <tr><td>Paraguay <sup>a</sup></td><td colspan="2">15. Oktober</td><td colspan="2">2004 B</td><td colspan="2">14. Dezember</td><td>2004</td></tr>
-<tr><td>Peru\* <sup>a</sup></td><td colspan="2">7. Februar</td><td colspan="2">1996</td><td colspan="2">21. Juni</td><td colspan="2">1998</td></tr>
+<tr><td>Peru\* <sup>a</sup></td><td colspan="2">7. Februar</td><td colspan="2">1996 B</td><td colspan="2">21. Juni</td><td colspan="2">1998</td></tr>
 <tr><td>Philippinen <sup>a</sup></td><td colspan="2">17. Dezember</td><td colspan="2">2003</td><td colspan="2">15. Februar</td><td colspan="2">2004</td></tr>
 <tr><td>Polen <sup>b</sup></td><td colspan="2">26. September</td><td colspan="2">2006 B</td><td colspan="2">25. November</td><td colspan="2">2006</td></tr>
 <tr><td>Portugal <sup>a</sup></td><td colspan="2">9. Oktober</td><td colspan="2">2002 B</td><td colspan="2">8. Dezember</td><td colspan="2">2002</td></tr>
@@ -386,7 +386,7 @@ Geltungsbereich am 2. September 2020**[^t-3]**
 <tr><td>Kaimaninseln</td><td colspan="2">31. August</td><td colspan="2">1999</td><td colspan="2">30. Oktober</td><td>1999</td></tr>
 <tr><td>Montserrat</td><td colspan="2">31. August</td><td colspan="2">1999</td><td colspan="2">30. Oktober</td><td>1999</td></tr>
 <tr><td>Zypern <sup>a</sup></td><td colspan="2">20. September</td><td colspan="2">2002 B</td><td colspan="2">19. November</td><td colspan="2">2002</td></tr>
-<tr><td colspan="9">\* Vorbehalte und Erklärungen Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Internationalen Zivilluftfahrtorganisation: www.icao.int/ &gt; Français &gt; Recueil des traités &gt; Current lists of parties to multilateral air law treaties oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Dieser Vertragsstaat erklärt gemäss Artikel XIII Absatz 2 des Übereink., dass er nicht ein Herstellerstaat ist. <sup>b</sup> Dieser Vertragsstaat erklärt gemäss Artikel XIII Absatz 2 des Übereink., dass er ein Herstellerstaat ist. <sup>c</sup> Aufgrund einer Erklärung der Volksrepublik China vom 22. März 2001 ist das Übereink. seit dem 1. Juli 1997 auf die Besondere Verwaltungsregion (SAR) Hongkong anwendbar. <sup>d</sup> Das Übereink. gilt nicht für die Färöer. <sup>e</sup> Das Übereink. gilt nicht für Tokelau. <sup>f</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="9">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Internationalen Zivilluftfahrtorganisation: [www.icao.int](https://www.icao.int) &gt; Français &gt; Au sujet de l’OACI &gt; Direction des affaires juridiques et des relations extérieures &gt; Recueil des traités &gt; Liste actualisée des parties aux traités de droit aérien eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Dieser Vertragsstaat erklärt gemäss Artikel XIII Absatz 2 des Übereink., dass er nicht ein Herstellerstaat ist. <sup>b</sup> Dieser Vertragsstaat erklärt gemäss Artikel XIII Absatz 2 des Übereink., dass er ein Herstellerstaat ist. <sup>c</sup> Aufgrund einer Erklärung der Volksrepublik China vom 22. März 2001 ist das Übereink. seit dem 1. Juli 1997 auf die Besondere Verwaltungsregion (SAR) Hongkong anwendbar. <sup>d</sup> Das Übereink. gilt nicht für die Färöer. <sup>e</sup> Das Übereink. gilt nicht für Tokelau. <sup>f</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-3]: [AS 2002 3546](https://fedlex.data.admin.ch/eli/oc/2002/532), [2004 1183](https://fedlex.data.admin.ch/eli/oc/2004/138), [2005 1615](https://fedlex.data.admin.ch/eli/oc/2005/254)[5005](https://fedlex.data.admin.ch/eli/oc/2005/688), [2006 3581](https://fedlex.data.admin.ch/eli/oc/2006/554), [2008 21](https://fedlex.data.admin.ch/eli/oc/2008/8), [2009 2551](https://fedlex.data.admin.ch/eli/oc/2009/327), [2012 395](https://fedlex.data.admin.ch/eli/oc/2012/38), [2015 5995](https://fedlex.data.admin.ch/eli/oc/2015/931), [2020 3779](https://fedlex.data.admin.ch/eli/oc/2020/688). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-3]: [AS 2002 3546](https://fedlex.data.admin.ch/eli/oc/2002/532); [2004 1183](https://fedlex.data.admin.ch/eli/oc/2004/138); [2005 1615](https://fedlex.data.admin.ch/eli/oc/2005/254), [5005](https://fedlex.data.admin.ch/eli/oc/2005/688); [2006 3581](https://fedlex.data.admin.ch/eli/oc/2006/554); [2008 21](https://fedlex.data.admin.ch/eli/oc/2008/8); [2009 2551](https://fedlex.data.admin.ch/eli/oc/2009/327); [2012 395](https://fedlex.data.admin.ch/eli/oc/2012/38); [2015 5995](https://fedlex.data.admin.ch/eli/oc/2015/931); [2020 3779](https://fedlex.data.admin.ch/eli/oc/2020/688); [2024 418](https://fedlex.data.admin.ch/eli/oc/2024/418). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

@@ -3,11 +3,11 @@ sr: "0.748.710.4"
 title: "Convention du 1<sup>er</sup> mars 1991 sur le marquage des explosifs plastiques et en feuilles aux fins de détection (avec annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/532"
 language: fr
-version: 2020-09-02
+version: 2024-08-13
 adopted: 1991-03-01
 in_force: 1998-06-21
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/532/20200902/fr/xml/fedlex-data-admin-ch-eli-cc-2002-532-20200902-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/532/20200902/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/532/20240813/fr/xml/fedlex-data-admin-ch-eli-cc-2002-532-20240813-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/532/20240813/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 3 avril 1995
 
 Entrée en vigueur pour la Suisse le 21 juin 1998
 
-(Etat le 2 septembre 2020)
+(État le 13 août 2024)
 
 [^t-1]: [RO 2002 3545](https://fedlex.data.admin.ch/eli/oc/2002/531)
 
@@ -179,7 +179,7 @@ Le dépositaire notifie sans retard à tous les signataires et États parties:
 
 <sup>2.</sup> La dénonciation prendra effet cent quatre-vingt jours après la date à laquelle la notification aura été reçue par le dépositaire.
 
-*En foi de q**uoi,* les Plénipotentiaires soussignés, dûment autorisés, ont signé la présente Convention. Fait à Montréal, le premier jour du mois de mars de l’an mil neuf cent quatre-vingt-onze, en un exemplaire original comprenant cinq textes faisant également foi, rédigés dans les langues française, anglaise, espagnole, russe et arabe. (Suivent les signatures)
+*En foi de quoi,* les Plénipotentiaires soussignés, dûment autorisés, ont signé la présente Convention. Fait à Montréal, le premier jour du mois de mars de l’an mil neuf cent quatre-vingt-onze, en un exemplaire original comprenant cinq textes faisant également foi, rédigés dans les langues française, anglaise, espagnole, russe et arabe. (Suivent les signatures)
 
 Annexe technique
 
@@ -219,7 +219,7 @@ Un agent de détection est une des substances énumérées dans le tableau ci-ap
 
 Tout explosif qui, de par sa composition naturelle, contient un des agents de détection désignés à une concentration égale ou supérieure à la concentration minimale requise, est considéré comme étant marqué.
 
-Champ d’application le 2 septembre 2020**[^t-2]**
+Champ d’application le 13 août 2024[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th colspan="2"></th></tr>
@@ -256,7 +256,7 @@ Champ d’application le 2 septembre 2020**[^t-2]**
 <tr><td>Cap-Vert <sup>a</sup></td><td>4 novembre</td><td>2002 A</td><td>3 janvier</td><td colspan="2">2003</td></tr>
 <tr><td>Chili <sup>a</sup></td><td>2 août</td><td>2000</td><td>1<sup>er</sup> octobre</td><td colspan="2">2000</td></tr>
 <tr><td>Chine</td><td></td><td></td><td></td><td colspan="2"></td></tr>
-<tr><td>[tab] Hong Kong <sup>a</sup> <sup>c</sup></td><td>22 mars</td><td>2001</td><td>1<sup>er</sup> juillet</td><td colspan="2">1997</td></tr>
+<tr><td>Hong Kong <sup>a</sup> <sup>c</sup></td><td>22 mars</td><td>2001</td><td>1<sup>er</sup> juillet</td><td colspan="2">1997</td></tr>
 <tr><td>Chypre <sup>a</sup></td><td>20 septembre</td><td>2002 A</td><td>19 novembre</td><td colspan="2">2002</td></tr>
 <tr><td>Colombie\* <sup>a</sup></td><td>30 septembre</td><td>2013</td><td>29 novembre</td><td colspan="2">2013</td></tr>
 <tr><td>Congo (Brazzaville) <sup>a</sup></td><td>5 février</td><td>2015</td><td>6 avril</td><td colspan="2">2015</td></tr>
@@ -276,7 +276,7 @@ Champ d’application le 2 septembre 2020**[^t-2]**
 <tr><td>Estonie <sup>a</sup></td><td>5 mars</td><td>1996 A</td><td>21 juin</td><td colspan="2">1998</td></tr>
 <tr><td>Eswatini <sup>a</sup></td><td>13 mai</td><td>2003 A</td><td>12 juillet</td><td colspan="2">2003</td></tr>
 <tr><td>États-Unis <sup>b</sup></td><td>9 avril</td><td>1997</td><td>21 juin</td><td colspan="2">1998</td></tr>
-<tr><td>Fidji <sup>a</sup></td><td>11 juillet</td><td>2008 A</td><td>10 septembre</td><td colspan="2">2008</td></tr>
+<tr><td>Fidji <sup>a</sup></td><td>11 juillet</td><td>2008 A</td><td>9 septembre</td><td colspan="2">2008</td></tr>
 <tr><td>Finlande <sup>b</sup></td><td>5 décembre</td><td>2001</td><td>3 février</td><td colspan="2">2002</td></tr>
 <tr><td>France <sup>b</sup></td><td>21 mai</td><td>1997</td><td>21 juin</td><td colspan="2">1998</td></tr>
 <tr><td>Gabon <sup>a</sup></td><td>28 avril</td><td>2017</td><td>27 juin</td><td colspan="2">2017</td></tr>
@@ -319,7 +319,7 @@ Champ d’application le 2 septembre 2020**[^t-2]**
 <tr><td>Mali <sup>a</sup></td><td>28 septembre</td><td>2000</td><td>27 novembre</td><td colspan="2">2000</td></tr>
 <tr><td>Malte <sup>a</sup></td><td>15 novembre</td><td>1994 A</td><td>21 juin</td><td colspan="2">1998</td></tr>
 <tr><td>Maroc <sup>a</sup></td><td>26 mai</td><td>1999 A</td><td>25 juillet</td><td colspan="2">1999</td></tr>
-<tr><td>Mauritanie <sup>a</sup></td><td>24 mai</td><td>2011 A</td><td>22 juillet</td><td colspan="2">2011</td></tr>
+<tr><td>Mauritanie <sup>a</sup></td><td>24 mai</td><td>2011 A</td><td>23 juillet</td><td colspan="2">2011</td></tr>
 <tr><td>Mexique <sup>a</sup></td><td>9 avril</td><td>1992</td><td>21 juin</td><td colspan="2">1998</td></tr>
 <tr><td>Moldova <sup>a</sup></td><td>1<sup>er</sup> décembre</td><td>1997 A</td><td>21 juin</td><td colspan="2">1998</td></tr>
 <tr><td>Monaco <sup>a</sup></td><td>14 mai</td><td>1998 A</td><td>13 juillet</td><td colspan="2">1998</td></tr>
@@ -330,9 +330,9 @@ Champ d’application le 2 septembre 2020**[^t-2]**
 <tr><td>Nicaragua <sup>a</sup></td><td>10 janvier</td><td>2006</td><td>11 mars</td><td colspan="2">2006</td></tr>
 <tr><td>Niger <sup>a</sup></td><td>6 mars</td><td>2009 A</td><td>6 mai</td><td colspan="2">2009</td></tr>
 <tr><td>Nigéria <sup>a</sup></td><td>10 mai</td><td>2002 A</td><td>9 juillet</td><td colspan="2">2002</td></tr>
-<tr><td>Nioué <sup>a</sup></td><td>1<sup>er</sup> décembre</td><td>2009 A</td><td>30 janvier</td><td colspan="2">2010</td></tr>
 <tr><td>Norvège <sup>b</sup></td><td>9 juillet</td><td>1992</td><td>21 juin</td><td colspan="2">1998</td></tr>
 <tr><td>Nouvelle-Zélande <sup>a</sup> <sup>e</sup></td><td>19 décembre</td><td>2003</td><td>17 février</td><td colspan="2">2004</td></tr>
+<tr><td>Nioué <sup>a</sup></td><td>1<sup>er</sup> décembre</td><td>2009 A</td><td>30 janvier</td><td colspan="2">2010</td></tr>
 <tr><td>Oman <sup>a</sup></td><td>13 décembre</td><td>2001 A</td><td>11 février</td><td colspan="2">2002</td></tr>
 <tr><td>Ouganda <sup>a</sup></td><td>2 juillet</td><td>2004 A</td><td>31 août</td><td colspan="2">2004</td></tr>
 <tr><td>Ouzbékistan <sup>a</sup></td><td>9 juin</td><td>1999 A</td><td>8 août</td><td colspan="2">1999</td></tr>
@@ -342,12 +342,12 @@ Champ d’application le 2 septembre 2020**[^t-2]**
 <tr><td>Pays-Bas <sup>a</sup> <sup>f</sup></td><td>4 mai</td><td>1998</td><td>3 juillet</td><td colspan="2">1998</td></tr>
 <tr><td>Aruba</td><td>30 novembre</td><td>2005</td><td>30 novembre</td><td colspan="2">2005</td></tr>
 <tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>10 octobre</td><td>2010</td><td>10 octobre</td><td colspan="2">2010</td></tr>
-<tr><td>Pérou\*</td><td>7 février</td><td>1996</td><td>21 juin</td><td colspan="2">1998</td></tr>
+<tr><td>Pérou\* <sup>a</sup></td><td>7 février</td><td>1996</td><td>21 juin</td><td colspan="2">1998</td></tr>
 <tr><td>Philippines <sup>a</sup></td><td>17 décembre</td><td>2003</td><td>15 février</td><td colspan="2">2004</td></tr>
 <tr><td>Pologne <sup>b</sup></td><td>26 septembre</td><td>2006 A</td><td>25 novembre</td><td colspan="2">2006</td></tr>
 <tr><td>Portugal <sup>a</sup></td><td>9 octobre</td><td>2002 A</td><td>8 décembre</td><td colspan="2">2002</td></tr>
 <tr><td>Qatar <sup>a</sup></td><td>9 novembre</td><td>1998 A</td><td>8 janvier</td><td colspan="2">1999</td></tr>
-<tr><td>République dominicaine <sup>a</sup></td><td>9 mai</td><td>2011 A</td><td>7 juillet</td><td colspan="2">2011</td></tr>
+<tr><td>République dominicaine <sup>a</sup></td><td>9 mai</td><td>2011 A</td><td>8 juillet</td><td colspan="2">2011</td></tr>
 <tr><td>République tchèque <sup>b</sup></td><td>25 mars</td><td>1993 S</td><td>21 juin</td><td colspan="2">1998</td></tr>
 <tr><td>Roumanie <sup>a</sup></td><td>21 septembre</td><td>1998 A</td><td>20 novembre</td><td colspan="2">1998</td></tr>
 <tr><td>Royaume-Uni <sup>b</sup></td><td>28 avril</td><td>1997</td><td>21 juin</td><td colspan="2">1998</td></tr>
@@ -389,8 +389,8 @@ Champ d’application le 2 septembre 2020**[^t-2]**
 <tr><td>Uruguay <sup>a</sup></td><td>14 juin</td><td>2001 A</td><td>13 août</td><td colspan="2">2001</td></tr>
 <tr><td>Vanuatu <sup>a</sup></td><td>25 janvier</td><td>2006 A</td><td>26 mars</td><td colspan="2">2006</td></tr>
 <tr><td>Yémen\* <sup>a</sup></td><td>4 juillet</td><td>2007 A</td><td>2 septembre</td><td colspan="2">2007</td></tr>
-<tr><td>Zambie <sup>b</sup></td><td>31 mai</td><td>1995 A</td><td>21 juin</td><td colspan="2">1998</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation Internationale de l’Aviation Civile (OACI): www.icao.int/ &gt; Français &gt; Recueil des traités &gt; Current lists of parties to multilateral air law treaties ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Cet État partie déclare, conformément au par. 2 de l’art. XIII de la Convention, qu’il n’est pas un État producteur. <sup>b</sup> Cet État partie déclare, conformément au par. 2 de l’art. XIII de la Convention, qu’il est un État producteur. <sup>c</sup> En vertu d’une déclaration de la République populaire de Chine du 22 mars 2001, la convention est applicable à la Région administrative spéciale (RAS) de Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>d</sup> La Convention n'est pas applicable aux Îles Féroé. <sup>e</sup> La Convention n'est pas applicable aux Tokélaou. <sup>f</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td>Zambie <sup>a</sup></td><td>31 mai</td><td>1995 A</td><td>21 juin</td><td colspan="2">1998</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation Internationale de l’Aviation Civile (OACI): [www.icao.int](https://www.icao.int/) &gt; Français &gt; Au sujet de l’OACI &gt; Direction des affaires juridiques et des relations extérieures &gt; Recueil des traités &gt; Liste actualisée des parties aux traités de droit aérien ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Cet État partie déclare, conformément au par. 2 de l’art. XIII de la Convention, qu’il n’est pas un État producteur. <sup>b</sup> Cet État partie déclare, conformément au par. 2 de l’art. XIII de la Convention, qu’il est un État producteur. <sup>c</sup> En vertu d’une déclaration de la République populaire de Chine du 22 mars 2001, la convention est applicable à la Région administrative spéciale (RAS) de Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>d</sup> La Convention n’est pas applicable aux Îles Féroé. <sup>e</sup> La Convention n’est pas applicable aux Tokélaou. <sup>f</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-2]: RO **2002** 3555, [2004 1183](https://fedlex.data.admin.ch/eli/oc/2004/138), [2005 1615](https://fedlex.data.admin.ch/eli/oc/2005/254)[5005](https://fedlex.data.admin.ch/eli/oc/2005/688), [2006 3581](https://fedlex.data.admin.ch/eli/oc/2006/554), [2008 21](https://fedlex.data.admin.ch/eli/oc/2008/8), [2009 2551](https://fedlex.data.admin.ch/eli/oc/2009/327), [2012 395](https://fedlex.data.admin.ch/eli/oc/2012/38), [2015 5995](https://fedlex.data.admin.ch/eli/oc/2015/931), [2020 3779](https://fedlex.data.admin.ch/eli/oc/2020/688). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2002 3546](https://fedlex.data.admin.ch/eli/oc/2002/532); [2004 1183](https://fedlex.data.admin.ch/eli/oc/2004/138); [2005 1615](https://fedlex.data.admin.ch/eli/oc/2005/254), [5005](https://fedlex.data.admin.ch/eli/oc/2005/688); [2006 3581](https://fedlex.data.admin.ch/eli/oc/2006/554); [2008 21](https://fedlex.data.admin.ch/eli/oc/2008/8); [2009 2551](https://fedlex.data.admin.ch/eli/oc/2009/327); [2012 395](https://fedlex.data.admin.ch/eli/oc/2012/38); [2015 5995](https://fedlex.data.admin.ch/eli/oc/2015/931); [2020 3779](https://fedlex.data.admin.ch/eli/oc/2020/688); [2024 418](https://fedlex.data.admin.ch/eli/oc/2024/418). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
