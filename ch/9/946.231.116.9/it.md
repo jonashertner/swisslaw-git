@@ -3,18 +3,18 @@ sr: "946.231.116.9"
 title: Ordinanza del 16 marzo 2022 che istituisce provvedimenti nei confronti della Bielorussia
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/172"
 language: it
-version: 2024-03-22
+version: 2024-08-14
 adopted: 2022-03-16
 in_force: 2022-03-16
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20240322/it/xml/fedlex-data-admin-ch-eli-cc-2022-172-20240322-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20240322/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/172/20240814/it/xml/fedlex-data-admin-ch-eli-cc-2022-172-20240814-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/172/20240814/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Bielorussia
 
-del 16 marzo 2022 (Stato 22 marzo 2024)
+del 16 marzo 2022 (Stato 14 agosto 2024)
 
 Il Consiglio federale svizzero,
 
@@ -882,8 +882,8 @@ Allegato 13[^t-3]
 
 [^annex13-lvlu1-1]
 
-[^t-3]: Aggiornato dal n. I delle O del DEFR del 10 giu. 2022 ([RU 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)), del 15 nov. 2022 ([RU 2022 679](https://fedlex.data.admin.ch/eli/oc/2022/679)), del 14 ago. 2023 ([RU 2023 449](https://fedlex.data.admin.ch/eli/oc/2023/449)) e del 21 mar. 2024, in vigore dal 22 mar. 2024 alle ore 18.00 ([RU 2024 122](https://fedlex.data.admin.ch/eli/oc/2024/122)).
-[^annex13-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/122](https://fedlex.data.admin.ch/eli/oc/2024/122) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-3]: Aggiornato dal n. I delle O del DEFR del 10 giu. 2022 ([RU 2022 346](https://fedlex.data.admin.ch/eli/oc/2022/346)), del 15 nov. 2022 ([RU 2022 679](https://fedlex.data.admin.ch/eli/oc/2022/679)), del 14 ago. 2023 ([RU 2023 449](https://fedlex.data.admin.ch/eli/oc/2023/449)), del 21 mar. 2024 ([RU 2024 122](https://fedlex.data.admin.ch/eli/oc/2024/122)) e del 13 ago. 2024, in vigore dal 14 ago. 2024 alle ore 18.00 ([RU 2024 413](https://fedlex.data.admin.ch/eli/oc/2024/413)).
+[^annex13-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/413](https://fedlex.data.admin.ch/eli/oc/2024/413) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 14
 
