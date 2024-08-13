@@ -3,16 +3,16 @@ sr: "0.748.410"
 title: "Convention du 12 octobre 1929 pour l'unification de certaines règles relatives au transport aérien international (avec prot. add.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/50/438_450_499"
 language: fr
-version: 2019-08-14
+version: 2024-08-14
 adopted: 1929-10-12
 in_force: 1934-08-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/438_450_499/20190814/fr/xml/fedlex-data-admin-ch-eli-cc-50-438_450_499-20190814-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/50/438_450_499/20190814/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/438_450_499/20240814/fr/xml/fedlex-data-admin-ch-eli-cc-50-438_450_499-20240814-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/50/438_450_499/20240814/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Convention pour l’unification de certaines règles relatives au transport aérien international****
+# Convention pour l’unification de certaines règles relatives au transport aérien international
 
 RS **13** 656; FF **1933** II 907[^t-1]
 
@@ -20,7 +20,7 @@ Texte original
 
 Conclue à Varsovie le 12 octobre 1929 Approuvée par l’Assemblée fédérale le 22 mars 1934[^t-2] Ratification déposée par la Suisse le 9 mai 1934 Entrée en vigueur pour la Suisse le 7 août 1934
 
-(Etat le 14 août 2019)
+(État le 14 août 2024)
 
 [^t-1]: Les Am. du 28 sept. 1955 ([RS 0.748.410.1](https://fedlex.data.admin.ch/eli/cc/1963/665_664_685); [RO 1963 685](https://fedlex.data.admin.ch/eli/oc/1963/689_685_709)) et du 25 sept. 1975 ([RS 0.748.410.3](https://fedlex.data.admin.ch/eli/cc/2003/20)**/.6**; [RO 2003 157](https://fedlex.data.admin.ch/eli/oc/2003/20)[164](https://fedlex.data.admin.ch/eli/oc/2003/21)[172](https://fedlex.data.admin.ch/eli/oc/2003/23)) sont insérés dans ce texte, mais ils sont applicables uniquement pour les États les ayant ratifiés. Voir en conséquence leur propre champ d’application.
 [^t-2]: RO **50** 449
@@ -94,7 +94,7 @@ Dans le transport de bagages enregistrés, un bulletin de bagages doit être dé
 
 [^4-1]: Nouvelle teneur selon l’art. IV let. a et b du Prot. du 28 sept. 1955, approuvé par l’Ass. féd. le 20 sept. 1962, en vigueur pour la Suisse depuis le 1<sup>er</sup> août 1963 ([RO 1963 664](https://fedlex.data.admin.ch/eli/oc/1963/665_664_685); [FF 1962 I 1449](https://fedlex.data.admin.ch/eli/fga/1962/1_1401_1449_)).
 
-### Section III**** Documentation relative aux marchandises
+### Section III Documentation relative aux marchandises
 
 [^chapII-secIII-1]
 
@@ -441,7 +441,7 @@ Les Hautes Parties Contractantes se réservent le droit de déclarer au moment d
 
 Fait à Varsovie le 12 octobre 1929 (Suivent les signatures)
 
-Champ d’application le 14 août 2019**[^t-3]**
+Champ d’application le 14 août 2024[^t-3]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -507,6 +507,7 @@ Champ d’application le 14 août 2019**[^t-3]**
 <tr><td>Guinée équatoriale</td><td>20 décembre</td><td>1988 A</td><td>19 mars</td><td>1989</td></tr>
 <tr><td>Honduras</td><td>27 juin</td><td>1994 A</td><td>25 septembre</td><td>1994</td></tr>
 <tr><td>Hongrie</td><td>29 mai</td><td>1936</td><td>27 août</td><td>1936</td></tr>
+<tr><td>Îles Salomon</td><td>9 septembre</td><td>1981 S</td><td>7 juillet</td><td>1978</td></tr>
 <tr><td>Inde</td><td>29 janvier</td><td>1970 S</td><td>15 août</td><td>1947</td></tr>
 <tr><td>Indonésie</td><td>2 février</td><td>1952 S</td><td>27 décembre</td><td>1949</td></tr>
 <tr><td>Iran</td><td>8 juillet</td><td>1975 A</td><td>6 octobre</td><td>1975</td></tr>
@@ -524,7 +525,7 @@ Champ d’application le 14 août 2019**[^t-3]**
 <tr><td>Lesotho</td><td>29 avril</td><td>1975 S</td><td>4 octobre</td><td>1966</td></tr>
 <tr><td>Lettonie</td><td>15 novembre</td><td>1932</td><td>13 février</td><td>1933</td></tr>
 <tr><td>Liban</td><td>10 février</td><td>1962 S</td><td>26 novembre</td><td>1941</td></tr>
-<tr><td>Libéria</td><td>30 juin</td><td>1942 A</td><td>28 septembre</td><td>1942</td></tr>
+<tr><td>Libéria</td><td>2 mai</td><td>1942 A</td><td>31 juillet</td><td>1942</td></tr>
 <tr><td>Libye</td><td>16 mai</td><td>1969 A</td><td>14 août</td><td>1969</td></tr>
 <tr><td>Liechtenstein</td><td>9 mai</td><td>1934 A</td><td>7 août</td><td>1934</td></tr>
 <tr><td>Luxembourg</td><td>7 octobre</td><td>1949</td><td>5 janvier</td><td>1950</td></tr>
@@ -535,7 +536,7 @@ Champ d’application le 14 août 2019**[^t-3]**
 <tr><td>Maldives</td><td>13 octobre</td><td>1995 A</td><td>11 janvier</td><td>1996</td></tr>
 <tr><td>Mali</td><td>26 janvier</td><td>1961 A</td><td>26 avril</td><td>1961</td></tr>
 <tr><td>Malte</td><td>27 janvier</td><td>1986 S</td><td>21 septembre</td><td>1964</td></tr>
-<tr><td>Maroc</td><td>8 janvier</td><td>1958 A</td><td>8 avril</td><td>1958</td></tr>
+<tr><td>Maroc</td><td>5 janvier</td><td>1958 A</td><td>5 avril</td><td>1958</td></tr>
 <tr><td>Maurice</td><td>17 octobre</td><td>1989 A</td><td>15 janvier</td><td>1990</td></tr>
 <tr><td>Mauritanie</td><td>6 août</td><td>1962 A</td><td>4 novembre</td><td>1962</td></tr>
 <tr><td>Mexique</td><td>14 février</td><td>1933</td><td>15 mai</td><td>1933</td></tr>
@@ -566,7 +567,7 @@ Champ d’application le 14 août 2019**[^t-3]**
 <tr><td>Philippines\*</td><td>9 novembre</td><td>1950 A</td><td>7 février</td><td>1951</td></tr>
 <tr><td>Pologne</td><td>15 novembre</td><td>1932</td><td>13 février</td><td>1933</td></tr>
 <tr><td>Portugal</td><td>20 mars</td><td>1947 A</td><td>18 juin</td><td>1947</td></tr>
-<tr><td>Qatar\*</td><td>22 décembre</td><td>1986 A</td><td>22 mars</td><td>1987</td></tr>
+<tr><td>Qatar</td><td>22 décembre</td><td>1986 A</td><td>22 mars</td><td>1987</td></tr>
 <tr><td>République dominicaine</td><td>25 février</td><td>1972 A</td><td>25 mai</td><td>1972</td></tr>
 <tr><td>République tchèque</td><td>29 novembre</td><td>1994 S</td><td>1<sup>er</sup> janvier</td><td>1993</td></tr>
 <tr><td>Roumanie</td><td>8 juillet</td><td>1931</td><td>13 février</td><td>1933</td></tr>
@@ -583,7 +584,6 @@ Champ d’application le 14 août 2019**[^t-3]**
 <tr><td>Russie</td><td>20 août</td><td>1934</td><td>18 novembre</td><td>1934</td></tr>
 <tr><td>Rwanda</td><td>1<sup>er</sup> décembre</td><td>1964 S</td><td>1<sup>er</sup> juillet</td><td>1962</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>3 décembre</td><td>2001 S</td><td>27 octobre</td><td>1979</td></tr>
-<tr><td>Salomon, Îles</td><td>9 septembre</td><td>1981 S</td><td>7 juillet</td><td>1978</td></tr>
 <tr><td>Samoa</td><td>16 octobre</td><td>1963 S</td><td>1<sup>er</sup> janvier</td><td>1962</td></tr>
 <tr><td>Sénégal</td><td>19 juin</td><td>1964 A</td><td>17 septembre</td><td>1964</td></tr>
 <tr><td>Serbie</td><td>18 juillet</td><td>2001 S</td><td>27 avril</td><td>1992</td></tr>
@@ -598,7 +598,6 @@ Champ d’application le 14 août 2019**[^t-3]**
 <tr><td>Suisse</td><td>9 mai</td><td>1934</td><td>7 août</td><td>1934</td></tr>
 <tr><td>Suriname</td><td>30 juin</td><td>2003 A</td><td>28 septembre</td><td>2003</td></tr>
 <tr><td>Syrie</td><td>13 avril</td><td>1964 S</td><td>28 septembre</td><td>1961</td></tr>
-<tr><td>Tadjikistan</td><td>3 février</td><td>1994 A</td><td>4 mai</td><td>1994</td></tr>
 <tr><td>Tanzanie</td><td>7 avril</td><td>1965 A</td><td>6 juillet</td><td>1965</td></tr>
 <tr><td>Togo</td><td>2 juillet</td><td>1980</td><td>30 septembre</td><td>1980</td></tr>
 <tr><td>Tonga</td><td>31 janvier</td><td>1977 S</td><td>4 juin</td><td>1970</td></tr>
@@ -614,7 +613,7 @@ Champ d’application le 14 août 2019**[^t-3]**
 <tr><td>Yémen</td><td>6 mai</td><td>1982 A</td><td>4 août</td><td>1982</td></tr>
 <tr><td>Zambie</td><td>25 mars</td><td>1970 S</td><td>24 octobre</td><td>1964</td></tr>
 <tr><td>Zimbabwe</td><td>27 octobre</td><td>1980 S</td><td>18 avril</td><td>1980</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation Internationale de l’Aviation Civile (OACI): www.icao.int/ &gt; Français &gt; Recueil des traités &gt; Current lists of parties to multilateral air law treaties ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 3 déc. 1934 au 30 juin 1997, la conv. était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 16 juin 1997, la conv. est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>b</sup> En vertu de la déclaration de la République populaire de Chine du 8 oct. 1999, la conv. est applicable à la Région administrative spéciale (RAS) de Macao à partir du 20 déc. 1999.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation Internationale de l’Aviation Civile (OACI): [www.icao.int](http://www.icao.int) &gt; Français &gt; Au sujet de l'OACI &gt; Direction des affaires juridiques et des relations extérieures &gt; Recueil des traités &gt; Liste actualisée des parties aux traités de droit aérien ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 3 déc. 1934 au 30 juin 1997, la conv. était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 16 juin 1997, la conv. est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>b</sup> En vertu de la déclaration de la République populaire de Chine du 8 oct. 1999, la conv. est applicable à la Région administrative spéciale (RAS) de Macao à partir du 20 déc. 1999.</td></tr>
 </table>
 
-[^t-3]: [RO 1971 1824](https://fedlex.data.admin.ch/eli/oc/1971/1819_1824_1824), **1976** 797, [1978 494](https://fedlex.data.admin.ch/eli/oc/1978/494_494_494), [1981 1629](https://fedlex.data.admin.ch/eli/oc/1981/1629_1629_1629), [1983 235](https://fedlex.data.admin.ch/eli/oc/1983/235_235_235), [1986 904](https://fedlex.data.admin.ch/eli/oc/1986/904_904_904), [1987 1158](https://fedlex.data.admin.ch/eli/oc/1987/1158_1158_1158), [1989 861](https://fedlex.data.admin.ch/eli/oc/1989/861_861_861), [2004 1305](https://fedlex.data.admin.ch/eli/oc/2004/156), [2007 4205](https://fedlex.data.admin.ch/eli/oc/2007/560), [2019 2703](https://fedlex.data.admin.ch/eli/oc/2019/509). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.eda.admin.ch/eda/fr/home/topics/intla/intrea/dbstv.html).
+[^t-3]: [RO 1971 1824](https://fedlex.data.admin.ch/eli/oc/1971/1819_1824_1824); [1976 497](https://fedlex.data.admin.ch/eli/oc/1976/497_497_497); [1978 494](https://fedlex.data.admin.ch/eli/oc/1978/494_494_494); [1981 1629](https://fedlex.data.admin.ch/eli/oc/1981/1629_1629_1629); [1983 235](https://fedlex.data.admin.ch/eli/oc/1983/235_235_235); [1986 904](https://fedlex.data.admin.ch/eli/oc/1986/904_904_904); [1987 1158](https://fedlex.data.admin.ch/eli/oc/1987/1158_1158_1158); [1989 861](https://fedlex.data.admin.ch/eli/oc/1989/861_861_861); [2004 1305](https://fedlex.data.admin.ch/eli/oc/2004/156); [2007 4205](https://fedlex.data.admin.ch/eli/oc/2007/560); [2019 2703](https://fedlex.data.admin.ch/eli/oc/2019/509); [2024 419](https://fedlex.data.admin.ch/eli/oc/2024/419). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

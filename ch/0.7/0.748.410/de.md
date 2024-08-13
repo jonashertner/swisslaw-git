@@ -3,22 +3,22 @@ sr: "0.748.410"
 title: Abkommen vom 12. Oktober 1929 zur Vereinheitlichung von Regeln über die Beförderung im internationalen Luftverkehr (mit Zusatzprotokoll)
 eli: "https://fedlex.data.admin.ch/eli/cc/50/438_450_499"
 language: de
-version: 2019-08-14
+version: 2024-08-14
 adopted: 1929-10-12
 in_force: 1934-08-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/438_450_499/20190814/de/xml/fedlex-data-admin-ch-eli-cc-50-438_450_499-20190814-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/50/438_450_499/20190814/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/438_450_499/20240814/de/xml/fedlex-data-admin-ch-eli-cc-50-438_450_499-20240814-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/50/438_450_499/20240814/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Abkommen zur Vereinheitlichung von Regeln über die Beförderung im internationalen Luftverkehr****
+# Abkommen zur Vereinheitlichung von Regeln über die Beförderung im internationalen Luftverkehr
 
 Übersetzung[^t-1]
 
 Abgeschlossen in Warschau am 12. Oktober 1929 Von der Bundesversammlung genehmigt am 22. März 1934[^t-2] Ratifikationsurkunde von der Schweiz hinterlegt am 9. Mai 1934 In Kraft getreten für die Schweiz am 7. August 1934
 
-(Stand am 14. August 2019)
+(Stand am 14. August 2024)
 
 [^t-1]: Die Änd. vom 28. Sept. 1955 ([SR 0.748.410.1](https://fedlex.data.admin.ch/eli/cc/1963/665_664_685); [AS 1963 665](https://fedlex.data.admin.ch/eli/oc/1963/665_664_685)) und 25. Sept. 1975 ([SR 0.748.410.3](https://fedlex.data.admin.ch/eli/cc/2003/20)/**.6**; [AS 2003 157](https://fedlex.data.admin.ch/eli/oc/2003/20)[164](https://fedlex.data.admin.ch/eli/oc/2003/21)[172](https://fedlex.data.admin.ch/eli/oc/2003/23)) sind im vorliegenden Text eingebaut, gelten aber nur im Verhältnis zu jenen Staaten, die ihnen beigetreten sind. Siehe deshalb ihre eigenen Geltungsbereiche.
 [^t-2]: AS **50** 437
@@ -92,7 +92,7 @@ Bei der Beförderung von aufgegebenem Reisegepäck ist ein Fluggepäckschein aus
 
 [^4-1]: Fassung gemäss Art. IV Bst. a und b des Prot. vom 28. Sept. 1955, von der BVers genehmigt am 20. Sept. 1962 und in Kraft für die Schweiz seit 1. Aug. 1963 ([AS 1963 665](https://fedlex.data.admin.ch/eli/oc/1963/665_664_685); [BBl 1962 I 1401](https://fedlex.data.admin.ch/eli/fga/1962/1_1401_1449_)).
 
-### 3. Abschnitt:**** Güterbeförderungsscheine
+### 3. Abschnitt: Güterbeförderungsscheine
 
 [^chapII-secIII-1]
 
@@ -441,7 +441,7 @@ Die Hohen Vertragschliessenden Teile behalten sich das Recht vor, bei der Ratifi
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 14. August 2019**[^t-3]**
+Geltungsbereich am 14. August 2024[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -504,7 +504,7 @@ Geltungsbereich am 14. August 2019**[^t-3]**
 <tr><td>Kamerun</td><td>21. August</td><td>1961 N</td><td>1. Januar</td><td>1960</td></tr>
 <tr><td>Kanada\*</td><td>10. Juni</td><td>1947 B</td><td>8. September</td><td>1947</td></tr>
 <tr><td>Kap Verde</td><td>7. Februar</td><td>2002 B</td><td>8. Mai</td><td>2002</td></tr>
-<tr><td>Katar\*</td><td>22. Dezember</td><td>1986 B</td><td>22. März</td><td>1987</td></tr>
+<tr><td>Katar</td><td>22. Dezember</td><td>1986 B</td><td>22. März</td><td>1987</td></tr>
 <tr><td>Kenia</td><td>7. Oktober</td><td>1964 B</td><td>12. Dezember</td><td>1963</td></tr>
 <tr><td>Kirgisistan</td><td>9. Februar</td><td>2000 B</td><td>9. Mai</td><td>2000</td></tr>
 <tr><td>Kolumbien</td><td>15. August</td><td>1966 B</td><td>13. November</td><td>1966</td></tr>
@@ -519,7 +519,7 @@ Geltungsbereich am 14. August 2019**[^t-3]**
 <tr><td>Lesotho</td><td>29. April</td><td>1975 N</td><td>4. Oktober</td><td>1966</td></tr>
 <tr><td>Lettland</td><td>15. November</td><td>1932</td><td>13. Februar</td><td>1933</td></tr>
 <tr><td>Libanon</td><td>10. Februar</td><td>1962 N</td><td>26. November</td><td>1941</td></tr>
-<tr><td>Liberia</td><td>30. Juni</td><td>1942 B</td><td>28. September</td><td>1942</td></tr>
+<tr><td>Liberia</td><td>2. Mai</td><td>1942 B</td><td>31. Juli</td><td>1942</td></tr>
 <tr><td>Libyen</td><td>16. Mai</td><td>1969 B</td><td>14. August</td><td>1969</td></tr>
 <tr><td>Liechtenstein</td><td>9. Mai</td><td>1934 B</td><td>7. August</td><td>1934</td></tr>
 <tr><td>Luxemburg</td><td>7. Oktober</td><td>1949</td><td>5. Januar</td><td>1950</td></tr>
@@ -529,7 +529,7 @@ Geltungsbereich am 14. August 2019**[^t-3]**
 <tr><td>Malediven</td><td>13. Oktober</td><td>1995 B</td><td>11. Januar</td><td>1996</td></tr>
 <tr><td>Mali</td><td>26. Januar</td><td>1961 B</td><td>26. April</td><td>1961</td></tr>
 <tr><td>Malta</td><td>27. Januar</td><td>1986 N</td><td>21. September</td><td>1964</td></tr>
-<tr><td>Marokko</td><td>8. Januar</td><td>1958 B</td><td>8. April</td><td>1958</td></tr>
+<tr><td>Marokko</td><td>5. Januar</td><td>1958 B</td><td>5. April</td><td>1958</td></tr>
 <tr><td>Mauretanien</td><td>6. August</td><td>1962 B</td><td>4. November</td><td>1962</td></tr>
 <tr><td>Mauritius</td><td>17. Oktober</td><td>1989 B</td><td>15. Januar</td><td>1990</td></tr>
 <tr><td>Mexiko</td><td>14. Februar</td><td>1933</td><td>15. Mai</td><td>1933</td></tr>
@@ -584,7 +584,6 @@ Geltungsbereich am 14. August 2019**[^t-3]**
 <tr><td>Sudan</td><td>11. Februar</td><td>1975 B</td><td>12. Mai</td><td>1975</td></tr>
 <tr><td>Suriname</td><td>30. Juni</td><td>2003 B</td><td>28. September</td><td>2003</td></tr>
 <tr><td>Syrien</td><td>13. April</td><td>1964 N</td><td>28. September</td><td>1961</td></tr>
-<tr><td>Tadschikistan</td><td>3. Februar</td><td>1994 B</td><td>4. Mai</td><td>1994</td></tr>
 <tr><td>Tansania</td><td>7. April</td><td>1965 B</td><td>6. Juli</td><td>1965</td></tr>
 <tr><td>Togo</td><td>2. Juli</td><td>1980</td><td>30. September</td><td>1980</td></tr>
 <tr><td>Tonga</td><td>31. Januar</td><td>1977 N</td><td>4. Juni</td><td>1970</td></tr>
@@ -614,9 +613,9 @@ Geltungsbereich am 14. August 2019**[^t-3]**
 <tr><td>Turks- und Caicosinseln</td><td>3. Dezember</td><td>1934</td><td>3. März</td><td>1935</td></tr>
 <tr><td>Vietnam</td><td>11. Oktober</td><td>1982 B</td><td>9. Januar</td><td>1983</td></tr>
 <tr><td>Zypern</td><td>23. April</td><td>1963 N</td><td>16. August</td><td>1960</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Internationale Zivilluftfahrtorganisation: www.icao.int/ &gt; Français &gt; Recueil des traités &gt; Current lists of parties to multilateral air law treaties oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Internationalen Zivilluftfahrtorganisation: www.icao.int &gt; Français &gt; Au sujet de l’OACI &gt; Direction des affaires juridiques et des relations extérieures &gt; Recueil des traités &gt; Liste actualisée des parties aux traités de droit aérien eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Bis zum 30. Juni 1997 war das Übereinkommen auf Grund einer Ausdehnungserklärungs des Vereinigten Königreichs in Hongkong anwendbar. Seit 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chi-nesischen Erklärung vom 16. Juni 1997 ist das Übereinkommen seit 1. Juli 1997 auch in der SAR Hongkong anwendbar.</td></tr>
 <tr><td colspan="5"><sup>b</sup> Auf Grund der Volksrepublik China vom 8. Oktober 1999 ist das Übereinkommen seit dem 20. Dezember 1999 auf die Besondere Verwaltungsregion (SAR) Macau anwendbar.</td></tr>
 </table>
 
-[^t-3]: [AS 1971 1819](https://fedlex.data.admin.ch/eli/oc/1971/1819_1824_1824), [1976 497](https://fedlex.data.admin.ch/eli/oc/1976/497_497_497), [1978 494](https://fedlex.data.admin.ch/eli/oc/1978/494_494_494), [1981 1629](https://fedlex.data.admin.ch/eli/oc/1981/1629_1629_1629), [1983 235](https://fedlex.data.admin.ch/eli/oc/1983/235_235_235), [1986 904](https://fedlex.data.admin.ch/eli/oc/1986/904_904_904), [1987 1158](https://fedlex.data.admin.ch/eli/oc/1987/1158_1158_1158), [1989 861](https://fedlex.data.admin.ch/eli/oc/1989/861_861_861), [2004 1305](https://fedlex.data.admin.ch/eli/oc/2004/156)**2007** 4005, [2019 2703](https://fedlex.data.admin.ch/eli/oc/2019/509). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-3]: [AS 1971 1819](https://fedlex.data.admin.ch/eli/oc/1971/1819_1824_1824); [1976 497](https://fedlex.data.admin.ch/eli/oc/1976/497_497_497); [1978 494](https://fedlex.data.admin.ch/eli/oc/1978/494_494_494); [1981 1629](https://fedlex.data.admin.ch/eli/oc/1981/1629_1629_1629); [1983 235](https://fedlex.data.admin.ch/eli/oc/1983/235_235_235); [1986 904](https://fedlex.data.admin.ch/eli/oc/1986/904_904_904); [1987 1158](https://fedlex.data.admin.ch/eli/oc/1987/1158_1158_1158); [1989 861](https://fedlex.data.admin.ch/eli/oc/1989/861_861_861); [2004 1305](https://fedlex.data.admin.ch/eli/oc/2004/156); [2007 4205](https://fedlex.data.admin.ch/eli/oc/2007/560); [2019 2703](https://fedlex.data.admin.ch/eli/oc/2019/509); [2024 419](https://fedlex.data.admin.ch/eli/oc/2024/419). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

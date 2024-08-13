@@ -3,34 +3,27 @@ sr: "0.748.410"
 title: "Convenzione del 12 ottobre 1929 per l'unificazione di alcune norme sul trasporto aereo internazionale (con Protocollo add.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/50/438_450_499"
 language: it
-version: 2019-08-14
+version: 2024-08-14
 adopted: 1929-10-12
 in_force: 1934-08-07
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/438_450_499/20190814/it/xml/fedlex-data-admin-ch-eli-cc-50-438_450_499-20190814-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/50/438_450_499/20190814/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/50/438_450_499/20240814/it/xml/fedlex-data-admin-ch-eli-cc-50-438_450_499-20240814-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/50/438_450_499/20240814/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Convenzione per l’unificazione di alcune norme sul trasporto aereo internazionale****
+# Convenzione per l’unificazione di alcune norme sul trasporto aereo internazionale
 
-0.748.410 (Stato 14 agosto 2019)?[^t-2]?[^t-1]
+CS **13** 605; FF **1933** II 895 ted. 907 franc.[^t-1]
 
 Traduzione
 
-Conchiusa a Varsavia il 12 ottobre 1929
+Conchiusa a Varsavia il 12 ottobre 1929 Approvata dall’Assemblea federale il 22 marzo 1934[^t-2] Ratificazione depositata dalla Svizzera il 9 maggio 1934 Entrata in vigore per la Svizzera il 7 agosto 1934
 
-Approvata dall’Assemblea federale il 22 marzo[^t-3]
-
-Ratificazione depositata dalla Svizzera il 9 maggio 1934
-
-Entrata in vigore per la Svizzera il 7 agosto 1934
-
-(Stato 14 agosto 2019)
+(Stato 14 agosto 2024)
 
 [^t-1]: Le mod. del 28 set. 1955 ([RS 0.748.410.1](https://fedlex.data.admin.ch/eli/cc/1963/665_664_685); [RU 1963 685](https://fedlex.data.admin.ch/eli/oc/1963/665_664_685)) e del 25 set. 1975 (RS **0****.748.410.3/.6**; [RU 2003 157](https://fedlex.data.admin.ch/eli/oc/2003/20)[164](https://fedlex.data.admin.ch/eli/oc/2003/21)[172](https://fedlex.data.admin.ch/eli/oc/2003/23)) sono introdotte nel presente testo. Le stesse valgono comunque unicamente nei rapporti con gli Stati parte. Vedi pertanto gli specifici campi d’applicazione.
-[^t-2]: CS **13** 605; FF **1933** II 895 ted. 907 franc.
-[^t-3]: RU **1950** 497
+[^t-2]: RU **1950** 497
 
 Il Presidente del Reich germanico, il Presidente della Repubblica d’Austria, Sua Maestà il Re dei Belgi, il Presidente degli Stati Uniti del Brasile, Sua Maestà il Re dei Bulgari, il Presidente del Governo nazionalista della Repubblica di Cina, Sua Maestà il Re di Danimarca e d’Islanda, Sua Maestà il Re d’Egitto, Sua Maestà il Re di Spagna, il Capo di Stato della Repubblica di Estonia, il Presidente della Repubblica di Finlandia, il Presidente della Repubblica Francese, Sua Maestà il Re di Gran Bretagna, d’Irlanda e dei Territori Britannici d’Oltre Mare, Imperatore delle Indie, il Presidente della Repubblica Ellenica, Sua Altezza Serenissima il Reggente il Regno d’Ungheria, Sua Maestà il Re d’Italia, Sua Maestà l’Imperatore del Giappone, il Presidente della Repubblica di Lettonia, Sua Altezza Reale la Granduchessa di Lussemburgo, il Presidente degli Stati Uniti del Messico, Sua Maestà il Re di Norvegia, Sua Maestà la Regina dei Paesi Bassi, il Presidente della Repubblica di Polonia, Sua Maestà il Re di Rumenia, Sua Maestà il Re di Svezia, il Consiglio federale svizzero, il Presidente della Repubblica Cecoslovacca, il Comitato Centrale Esecutivo dell’Unione delle Repubbliche Socialiste dei Sovieti, il Presidente degli Stati Uniti del Venezuela, Sua Maestà il Re di Jugoslavia;
 
@@ -102,7 +95,7 @@ Nel trasporto dei bagagli registrati, è rilasciato uno scontrino di bagaglio, i
 
 [^4-1]: Nuovo testo giusta l’art. IV lett. a e b del Prot. d’emendamento del 28 set. 1955, approvato dall’AF il 20 set. 1962 ed in vigore per la Svizzera dal 1° ago. 1963 ([RU 1963 685](https://fedlex.data.admin.ch/eli/oc/1963/665_664_685); FF **1962** I 1401 ted. 1449 franc.).
 
-### Sezione III:**** Documenti relativi alle merci
+### Sezione III: Documenti relativi alle merci
 
 [^chapII-secIII-1]
 
@@ -447,13 +440,13 @@ Ad Art. 2
 
 Le alte Parti contraenti si riservano il diritto di dichiarare, al momento della ratifica o dell’adesione, che l’art. 2, cpv. 1, della presente Convenzione, non si applicherà ai trasporti internazionali aerei direttamente effettuati dallo Stato, dalle sue colonie, dai suoi protettorati, dai territori sotto mandato o da qualsiasi altro territorio sotto la sua sovranità, dominio o autorità.[^lvlu6-1]
 
-Fatto a Varsavia il 12 ottobre 1929.
-
-(*Seguono le firme*)
+*Fatto a Varsavia* il 12 ottobre 1929.
 
 [^lvlu6-1]: Il CF svizzero non intende fare uso di questo diritto (art. 2 del DF del 22 mar. 1934 (RU **50** 497)).
 
-Campo d’applicazione il 14 agosto 2019**[^t-4]**
+(Seguono le firme)
+
+Campo d’applicazione il 14 agosto 2024[^t-3]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -510,7 +503,6 @@ Campo d’applicazione il 14 agosto 2019**[^t-4]**
 <tr><td>Filippine<sup>\*</sup></td><td>9 novembre</td><td>1950 A</td><td>7 febbraio</td><td>1951</td></tr>
 <tr><td>Finlandia</td><td>3 luglio</td><td>1937</td><td>1° ottobre</td><td>1937</td></tr>
 <tr><td>Francia</td><td>15 novembre</td><td>1932</td><td>13 febbraio</td><td>1933</td></tr>
-<tr><td>Colonie, i paesi protetti e i territori dipendenti dal Ministero francese delle colonie</td><td>15 novembre</td><td>1932</td><td>13 febbraio</td><td>1933</td></tr>
 <tr><td>Gabon</td><td>15 febbraio</td><td>1969 A</td><td>16 maggio</td><td>1969</td></tr>
 <tr><td>Germania</td><td>30 settembre</td><td>1933</td><td>29 dicembre</td><td>1933</td></tr>
 <tr><td>Ghana</td><td>11 agosto</td><td>1997 A</td><td>9 novembre</td><td>1997</td></tr>
@@ -536,7 +528,7 @@ Campo d’applicazione il 14 agosto 2019**[^t-4]**
 <tr><td>Lesotho</td><td>29 aprile</td><td>1975 S</td><td>4 ottobre</td><td>1966</td></tr>
 <tr><td>Lettonia</td><td>15 novembre</td><td>1932</td><td>13 febbraio</td><td>1933</td></tr>
 <tr><td>Libano</td><td>10 febbraio</td><td>1962 S</td><td>26 novembre</td><td>1941</td></tr>
-<tr><td>Liberia</td><td>30 giugno</td><td>1942 A</td><td>28 settembre</td><td>1942</td></tr>
+<tr><td>Liberia</td><td>2 maggio</td><td>1942 A</td><td>31 luglio</td><td>1942</td></tr>
 <tr><td>Libia</td><td>16 maggio</td><td>1969 A</td><td>14 agosto</td><td>1969</td></tr>
 <tr><td>Liechtenstein</td><td>9 maggio</td><td>1934 A</td><td>7 agosto</td><td>1934</td></tr>
 <tr><td>Lussemburgo</td><td>7 ottobre</td><td>1949</td><td>5 gennaio</td><td>1950</td></tr>
@@ -547,7 +539,7 @@ Campo d’applicazione il 14 agosto 2019**[^t-4]**
 <tr><td>Maldive</td><td>13 ottobre</td><td>1995 A</td><td>11 gennaio</td><td>1996</td></tr>
 <tr><td>Mali</td><td>26 gennaio</td><td>1961 A</td><td>26 aprile</td><td>1961</td></tr>
 <tr><td>Malta</td><td>27 gennaio</td><td>1986 S</td><td>21 settembre</td><td>1964</td></tr>
-<tr><td>Marocco</td><td>8 gennaio</td><td>1958 A</td><td>8 aprile</td><td>1958</td></tr>
+<tr><td>Marocco</td><td>5 gennaio</td><td>1958 A</td><td>5 aprile</td><td>1958</td></tr>
 <tr><td>Mauritania</td><td>6 agosto</td><td>1962 A</td><td>4 novembre</td><td>1962</td></tr>
 <tr><td>Maurizio</td><td>17 ottobre</td><td>1989 A</td><td>15 gennaio</td><td>1990</td></tr>
 <tr><td>Messico</td><td>14 febbraio</td><td>1933</td><td>15 maggio</td><td>1933</td></tr>
@@ -575,7 +567,7 @@ Campo d’applicazione il 14 agosto 2019**[^t-4]**
 <tr><td>Perù</td><td>5 luglio</td><td>1988 A</td><td>3 ottobre</td><td>1988</td></tr>
 <tr><td>Polonia</td><td>15 novembre</td><td>1932</td><td>13 febbraio</td><td>1933</td></tr>
 <tr><td>Portogallo</td><td>20 marzo</td><td>1947 A</td><td>18 giugno</td><td>1947</td></tr>
-<tr><td>Qatar<sup>\*</sup></td><td>22 dicembre</td><td>1986 A</td><td>22 marzo</td><td>1987</td></tr>
+<tr><td>Qatar</td><td>22 dicembre</td><td>1986 A</td><td>22 marzo</td><td>1987</td></tr>
 <tr><td>Regno Unito<sup>\*</sup></td><td>14 febbraio</td><td>1933</td><td>15 maggio</td><td>1933</td></tr>
 <tr><td>Akrotiri e Dhekelia</td><td>3 dicembre</td><td>1934</td><td>3 marzo</td><td>1935</td></tr>
 <tr><td>Bermuda</td><td>3 dicembre</td><td>1934</td><td>3 marzo</td><td>1935</td></tr>
@@ -608,7 +600,6 @@ Campo d’applicazione il 14 agosto 2019**[^t-4]**
 <tr><td>Suriname</td><td>30 giugno</td><td>2003 A</td><td>28 settembre</td><td>2003</td></tr>
 <tr><td>Svezia</td><td>3 luglio</td><td>1937</td><td>1° ottobre</td><td>1937</td></tr>
 <tr><td>Svizzera</td><td>9 maggio</td><td>1934</td><td>7 agosto</td><td>1934</td></tr>
-<tr><td>Tagikistan</td><td>3 febbraio</td><td>1994 A</td><td>4 maggio</td><td>1994</td></tr>
 <tr><td>Tanzania</td><td>7 aprile</td><td>1965 A</td><td>6 luglio</td><td>1965</td></tr>
 <tr><td>Togo</td><td>2 luglio</td><td>1980</td><td>30 settembre</td><td>1980</td></tr>
 <tr><td>Tonga</td><td>31 gennaio</td><td>1977 S</td><td>4 giugno</td><td>1970</td></tr>
@@ -627,9 +618,9 @@ Campo d’applicazione il 14 agosto 2019**[^t-4]**
 <tr><td>Yemen</td><td>6 maggio</td><td>1982 A</td><td>4 agosto</td><td>1982</td></tr>
 <tr><td>Zambia</td><td>25 marzo</td><td>1970 S</td><td>24 ottobre</td><td>1964</td></tr>
 <tr><td>Zimbabwe</td><td>27 ottobre</td><td>1980 S</td><td>18 aprile</td><td>1980</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Riserve e dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet dell’Organizzazione dell’aviazione civile internazionale: www.icao.int/ &gt; Français &gt; Recueil des traités &gt; Current lists of parties to multilateral air law treaties oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Riserve e dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet dell’ Organizzazione dell’aviazione civile internazionale (OACI): www.icao.int &gt; Français &gt; Au sujet de l'OACI &gt; Direction des affaires juridiques et des relations extérieures &gt; Recueil des traités &gt; Liste actualisée des parties aux traités de droit aérien oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Fino al 30 giu. 1997, la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1°lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 16 giu. 1997, la Conv. è applicabile anche alla RAS Hong Kong dal 1° lug. 1997.</td></tr>
 <tr><td colspan="5"><sup>b</sup> In base a una dichiarazione della Repubblica Popolare Cinese del 8 ott. 1999, la Conv. è applicabile dal 20 dic. 1999 alla Regione amministrativa speciale (RAS) di Macao.</td></tr>
 </table>
 
-[^t-4]: [RU 1971 1824](https://fedlex.data.admin.ch/eli/oc/1971/1819_1824_1824), [1976 497](https://fedlex.data.admin.ch/eli/oc/1976/497_497_497), [1978 494](https://fedlex.data.admin.ch/eli/oc/1978/494_494_494), [1981 1629](https://fedlex.data.admin.ch/eli/oc/1981/1629_1629_1629), [1983 235](https://fedlex.data.admin.ch/eli/oc/1983/235_235_235), [1986 904](https://fedlex.data.admin.ch/eli/oc/1986/904_904_904), [1987 1158](https://fedlex.data.admin.ch/eli/oc/1987/1158_1158_1158), [1989 861](https://fedlex.data.admin.ch/eli/oc/1989/861_861_861), [2004 1305](https://fedlex.data.admin.ch/eli/oc/2004/156), **2007** 4005 e [2019 2703](https://fedlex.data.admin.ch/eli/oc/2019/509). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-3]: [RU 1971 1824](https://fedlex.data.admin.ch/eli/oc/1971/1819_1824_1824); [1976 497](https://fedlex.data.admin.ch/eli/oc/1976/497_497_497); [1978 494](https://fedlex.data.admin.ch/eli/oc/1978/494_494_494); [1981 1629](https://fedlex.data.admin.ch/eli/oc/1981/1629_1629_1629); [1983 235](https://fedlex.data.admin.ch/eli/oc/1983/235_235_235); [1986 904](https://fedlex.data.admin.ch/eli/oc/1986/904_904_904); [1987 1158](https://fedlex.data.admin.ch/eli/oc/1987/1158_1158_1158); [1989 861](https://fedlex.data.admin.ch/eli/oc/1989/861_861_861); [2004 1305](https://fedlex.data.admin.ch/eli/oc/2004/156); [2007 4205](https://fedlex.data.admin.ch/eli/oc/2007/560); [2019 2703](https://fedlex.data.admin.ch/eli/oc/2019/509); [2024 419](https://fedlex.data.admin.ch/eli/oc/2024/419). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
