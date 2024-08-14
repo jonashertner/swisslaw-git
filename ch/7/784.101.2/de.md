@@ -4,11 +4,11 @@ title: Verordnung vom 25. November 2015 über Fernmeldeanlagen (FAV)
 short: FAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/24"
 language: de
-version: 2024-01-15
+version: 2024-08-15
 adopted: 2015-11-25
 in_force: 2016-06-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20240115/de/xml/fedlex-data-admin-ch-eli-cc-2016-24-20240115-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20240115/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20240815/de/xml/fedlex-data-admin-ch-eli-cc-2016-24-20240815-de-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20240815/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20240115/de"
 
 (FAV)
 
-vom 25. November 2015 (Stand am 15. Januar 2024)
+vom 25. November 2015 (Stand am 15. August 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -93,7 +93,8 @@ Eine Importeurin oder eine Händlerin ist einer Herstellerin gleichzusetzen, wen
 
 - a. eine Fernmeldeanlage unter ihrem eigenen Namen oder ihrer eigenen Handelsmarke in Verkehr bringt; oder
 - b. eine bereits auf dem Markt befindliche Anlage so verändert, dass die Konformität mit dieser Verordnung beeinträchtigt werden kann.
-- [tab] <sup>9</sup> Die Reparatur einer Fernmeldeanlage ist dem Betreiben gleichzusetzen.
+
+<sup>9</sup> Die Reparatur einer Fernmeldeanlage ist dem Betreiben gleichzusetzen.
 
 [^2-1]: Eingefügt durch Ziff. I der V vom 18. Nov. 2020, in Kraft seit 16. Juli 2021 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
 [^2-2]: [SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
@@ -797,7 +798,7 @@ Die Verordnung vom 14. Juni 2002[^42-1] über Fernmeldeanlagen wird aufgehoben.
 
 **Änderung weiterer Rechtsakte**
 
-<sup>1</sup> und <sup>2</sup> …[^43-1]
+<sup>1 und <sup>2</sup></sup> …[^43-1]
 
 [^43-1]: Die Änderungen können unter [AS 2016 179](https://fedlex.data.admin.ch/eli/oc/2016/24)konsultiert werden.
 
@@ -829,12 +830,13 @@ Bis zum 12. Juni 2017 dürfen Funkanlagen, die nicht der vorliegenden Verordnung
 
 **Übergangsbestimmung zur Änderung vom 23. November 2023**[^44a-1]
 
-Funkanlagen, welche die Anforderungen nach den Artikeln 7 Absatz 2<sup>bis</sup>, 19 Absätze 2 Buchstabe d und 3 sowie 24*a* nicht erfüllen, dürfen auf dem Markt bis zum folgenden Zeitpunkt bereitgestellt werden:
+Funkanlagen, welche die Anforderungen nach den Artikeln 7 Absatz 2<sup>bis</sup>, 19 Absätze 2 Buchstabe d und 3 sowie 24*a* nicht erfüllen, dürfen bis zum folgenden Zeitpunkt in Verkehr gebracht werden:[^44a-2]
 
 - a. Laptops: bis 27. April 2026;
 - b. übrige Funkanlagen: bis 27. Dezember 2024.
 
 [^44a-1]: Eingefügt durch Ziff. I der V vom 22. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)). Berichtigung vom 15. Jan. 2024 ([AS 2024 22](https://fedlex.data.admin.ch/eli/oc/2024/22)).
+[^44a-2]: Berichtigung vom 15. Aug. 2024 ([AS 2024 415](https://fedlex.data.admin.ch/eli/oc/2024/415)).
 
 #### Art. 45
 
@@ -856,14 +858,14 @@ Anhang 1[^t-1]
 - 1\.1 Das schweizerische Konformitätskennzeichen setzt sich aus zwei grossen lateinischen Buchstaben «C» und «H» zusammen: «CH». Die Buchstaben müssen in einer Ellipse angebracht werden; die Hauptachse der Ellipse ist horizontal.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20240115/de/xml/image/image1.png)</td><td>Mindestgrössen: Höhe der Ellipse Breite der Ellipse Höhe der Buchstaben Breite der Buchstaben Durchmesser des Strichs</td><td>7,2 mm 11 mm 5 mm 2,5 mm 0,6 mm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20240815/de/xml/image/image1.png)</td><td>Mindestgrössen: Höhe der Ellipse Breite der Ellipse Höhe der Buchstaben Breite der Buchstaben Durchmesser des Strichs</td><td>7,2 mm 11 mm 5 mm 2,5 mm 0,6 mm</td></tr>
 </table>
 
 - 1\.2 Bei einer Verkleinerung oder Vergrösserung des Konformitätskennzeichens müssen seine Proportionen beibehalten werden.
 - **2.** **Ausländisches Konformitätskennzeichen**
 - 2\.1 Zugelassen ist das Konformitätskennzeichen, das in Anhang II der Verordnung (EG) Nr. 765/2008[^annex1-lvlu1-1] festgelegt ist. Die Illustration dient Informationszwecken.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20240115/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20240815/de/xml/image/image2.png)
 
 - 2\.2 Beim Anbringen dieses Konformitätskennzeichens müssen die allgemeinen Grundsätze, die in Artikel 30 der Verordnung (EG) Nr. 765/2008 definiert werden, respektiert werden.
 - **3.** Die Mindestgrössen des Konformitätskennzeichens können aufgrund der geringen Grösse der Funkanlage reduziert werden, sofern es sichtbar und leserlich bleibt.

@@ -4,11 +4,11 @@ title: Ordonnance du 25 novembre 2015 sur les installations de télécommunicati
 short: OIT
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/24"
 language: fr
-version: 2024-01-15
+version: 2024-08-15
 adopted: 2015-11-25
 in_force: 2016-06-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20240115/fr/xml/fedlex-data-admin-ch-eli-cc-2016-24-20240115-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20240115/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20240815/fr/xml/fedlex-data-admin-ch-eli-cc-2016-24-20240815-fr-xml-10.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20240815/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20240115/fr"
 
 (OIT)
 
-du 25 novembre 2015 (État le 15 janvier 2024)
+du 25 novembre 2015 (État le 15 août 2024)
 
 Le Conseil fédéral suisse,
 
@@ -794,7 +794,7 @@ L’ordonnance du 14 juin 2002 sur les installations de télécommunication[^42-
 
 **Modification d’autres actes**
 
-<sup>1</sup> et <sup>2</sup> …[^43-1]
+<sup>1 et <sup>2</sup></sup> …[^43-1]
 
 [^43-1]: Les mod. peuvent être consultées au [RO 2016 179](https://fedlex.data.admin.ch/eli/oc/2016/24).
 
@@ -826,12 +826,13 @@ Peuvent encore être mises sur le marché jusqu’au 12 juin 2017 les installati
 
 **Disposition transitoire relative à la modification du 23 novembre 2023**[^44a-1]
 
-Les installations de radiocommunication qui ne satisfont pas aux exigences fixées aux art. 7, al. 2<sup>bis</sup>, 19, al. 2, let. d, et 3, et 24*a* peuvent être mises à disposition sur le marché jusqu’aux dates suivantes:
+Les installations de radiocommunication qui ne satisfont pas aux exigences fixées aux art. 7, al. 2<sup>bis</sup>, 19, al. 2, let. d, et 3, et 24*a* peuvent être mises sur le marché jusqu’aux dates suivantes:[^44a-2]
 
 - a. ordinateurs portables: 27 avril 2026;
 - b. autres installations de radiocommunication: 27 décembre 2024.
 
 [^44a-1]: Introduit par le ch. I de l’O du 22 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)). Erratum du 15 janv. 2024 ([RO 2024 22](https://fedlex.data.admin.ch/eli/oc/2024/22)).
+[^44a-2]: Erratum du 15 août 2024 ([RO 2024 415](https://fedlex.data.admin.ch/eli/oc/2024/415)).
 
 #### Art. 45
 
@@ -851,14 +852,14 @@ Annexe 1
 - 1\.1 La marque de conformité suisse se compose des deux grandes lettres latines «C» et «H» accolées: «CH». Les lettres doivent être appliquées dans une forme elliptique, l’axe principal de l’ellipse étant horizontal.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20240115/fr/xml/image/image1.png)</td><td>Dimensions minimales: Hauteur de l’ellipse Largeur de l’ellipse Hauteur des lettres Largeur des lettres Épaisseur du trait</td><td>7,2 mm 11 mm 5 mm 2,5 mm 0,6 mm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20240815/fr/xml/image/image1.png)</td><td>Dimensions minimales: Hauteur de l’ellipse Largeur de l’ellipse Hauteur des lettres Largeur des lettres Épaisseur du trait</td><td>7,2 mm 11 mm 5 mm 2,5 mm 0,6 mm</td></tr>
 </table>
 
 - 1\.2 En cas de réduction ou d’agrandissement de la marque de conformité, les proportions de celle-ci doivent être respectées.
 - **2.** **Marque de conformité étrangère**
 - 2\.1 Est admise la marque de conformité définie à l’annexe II du règlement (CE) n<sup>o</sup> 765/2008[^annex1-lvlu1-1]. L’illustration a un caractère informatif.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20240115/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20240815/fr/xml/image/image2.png)
 
 - 2\.2 L’apposition de cette marque de conformité doit respecter les principes généraux définis à l’art. 30 du règlement (CE) n<sup>o</sup> 765/2008.
 - **3.** Les dimensions minimales de la marque de conformité peuvent être réduites en raison de la petite taille de l’installation de radiocommunication pour autant que la marque de conformité reste visible et lisible.

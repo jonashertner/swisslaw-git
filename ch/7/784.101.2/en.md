@@ -4,11 +4,11 @@ title: Ordinance of 25 November 2015 on Telecommunications Installations (FAV)
 short: FAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/24"
 language: en
-version: 2024-01-15
+version: 2024-08-15
 adopted: 2015-11-25
 in_force: 2016-06-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20240115/en/xml/fedlex-data-admin-ch-eli-cc-2016-24-20240115-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20240115/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20240815/en/xml/fedlex-data-admin-ch-eli-cc-2016-24-20240815-en-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/24/20240815/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (TIO)
 
-of 25 November 2015 (Status as of 15 January 2024)
+of 25 November 2015 (Status as of 15 August 2024)
 
 The Swiss Federal Council,
 
@@ -72,7 +72,7 @@ In this Ordinance:
 - m. *authorised representative* means any natural person or legal entity established in Switzerland that has received a written mandate from a manufacturer to act on its behalf in relation to specified tasks;
 - n. *importer* means any natural person or legal entity established in Switzerland that places a telecommunications installation from a third country on the Swiss market;
 - o. *distributor* means any natural person or legal entity in the supply chain, other than the manufacturer or the importer, who makes a telecommunications installation available on the market;
-- [tab] o<sup>bis</sup>.[^2-1] *fulfilment**-service provider* means any natural person or legal entity that, in the course of a business activity, offers any two of the following services: warehousing, packaging, addressing and shipping of products, without being the owner of such products; not included are postal services under Article 2 letter a of the Postal Services Act of 17 December 2010[^2-2] and any other services involving the movement of goods;
+- o<sup>bis</sup>.[^2-1] *fulfilment**-service provider* means any natural person or legal entity that, in the course of a business activity, offers any two of the following services: warehousing, packaging, addressing and shipping of products, without being the owner of such products; not included are postal services under Article 2 letter a of the Postal Services Act of 17 December 2010[^2-2] and any other services involving the movement of goods;
 - p.[^2-3] *economic operator* means any manufacturer, authorised representative, importer, distributor, fulfilment service provider or any other natural person or legal entity that is subject to obligations connected with manufacturing products, making products available on the market or putting products into service;
 - p<sup>bis</sup>.[^2-4] *information society service provider* means any natural person or legal entity that offers an information society service, i.e. any service normally provided for a consideration, at a distance, electronically and at the individual request of a recipient;
 - p. *economic operators* means the manufacturer, the authorised representative, the importer and the distributor;
@@ -96,7 +96,8 @@ An importer or a distributor is equivalent to a manufacturer if it:
 
 - a. places a telecommunications installation on the market under its name or its own trade mark; or
 - b. modifies an installation already placed on the market in such a way that compliance with this Ordinance may be affected.
-- [tab] <sup>9</sup> The repair of a telecommunications installation is equivalent to its operation.
+
+<sup>9</sup> The repair of a telecommunications installation is equivalent to its operation.
 
 [^2-1]: Inserted by No I of the O of 18 Nov. 2020, in force since 16 July 2021 ([AS 2020 6213](https://fedlex.data.admin.ch/eli/oc/2020/1023)).
 [^2-2]: [SR 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
@@ -535,11 +536,12 @@ The following are exempted from the provisions in Chapter 2:
 
 **Authorisation for economic operators[^27-1]**
 
-<sup>1</sup> Any person wishing to
+<sup>1</sup> must first obtain authorisation from OFCOM.[^27-2]
+
+Any person wishing to:
 
 - a. import radio equipment in accordance with Article 6 paragraph 2 or make such equipment available on the market in accordance with Article 26 paragraph 1; or
 - b. manufacture devices causing interference in accordance with Article 32*b* FMG,
-- [tab] must first obtain authorisation from OFCOM.[^27-2]
 
 <sup>1bis</sup> OFCOM may make authorisation subject to terms and conditions. It shall issue the required administrative regulations.[^27-3]
 
@@ -831,12 +833,13 @@ Until 12 June 2017, radio equipment that does not comply with this Ordinance may
 
 **Transitional provision to the Amendment of 23 November 2023**[^44a-1]
 
-Radio equipment that does not meet the requirements of Articles 7 paragraph 2<sup>bis</sup>, 19 paragraphs 2 letter d and 3 and 24*a* may be made available on the market until the following dates:
+Radio equipment that does not meet the requirements of Articles 7 paragraph 2<sup>bis</sup>, 19 paragraphs 2 letter d and 3 and 24*a* may be placed on the market until the following dates:[^44a-2]
 
 - a. laptops: until 27 April 2026;
 - b. other radio equipment: until 27 December 2024.
 
 [^44a-1]: Inserted by No I of the O of 22 Nov. 2023, in force since 1 Jan. 2024 ([AS 2023 720](https://fedlex.data.admin.ch/eli/oc/2023/720)). Correction of 15 Jan. 2024 ([AS 2024 22](https://fedlex.data.admin.ch/eli/oc/2024/22)).
+[^44a-2]: Correction of 15 Aug. 2024 ([AS 2024 415](https://fedlex.data.admin.ch/eli/oc/2024/415)).
 
 #### Art. 45
 
@@ -858,14 +861,14 @@ Annex 1[^t-1]
 - 1\.1 The Swiss conformity marking comprises the two Latin capital letters «C» and «H» together as «CH». The letters must be appear within an elliptical shape; the main axis of the ellipse is horizontal.
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20240115/en/xml/image/image1.png)</td><td>Minimum dimensions: Height of the ellipse Width of the ellipse Height of the letters Width of the letters Diameter of the line</td><td>7.2 mm 11 mm 5 mm 2.5 mm 0.6 mm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20240815/en/xml/image/image1.png)</td><td>Minimum dimensions: Height of the ellipse Width of the ellipse Height of the letters Width of the letters Diameter of the line</td><td>7.2 mm 11 mm 5 mm 2.5 mm 0.6 mm</td></tr>
 </table>
 
 - 1\.2 In the case of any reduction in size or enlargement of the conformity marking, these proportions must be retained.
 - **2.** **Foreign conformity marking**
 - 2\.1 The use of the conformity marking set out in Annex II to Regulation (EC) No 765/2008[^annex1-lvlu1-1] is permitted. The illustration below is for information purposes only.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20240115/en/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/24/20240815/en/xml/image/image2.png)
 
 - 2\.2 When affixing this conformity marking, the general principles set out in Article 30 of Regulation (EC) No 765/2008 must be respected.
 - **3.** The minimum dimensions of the conformity marking may be reduced because of the small size of the radio equipment provided it remains visible and legible.
@@ -935,7 +938,7 @@ Annex 3
 - 2\.1 The manufacturer shall take all the measures required to ensure that the production process and its monitoring guarantee the conformity of the manufactured radio equipment with the type described in the type examination certificate and with the applicable requirements of this Ordinance.
 - 2\.2 The manufacturer shall take appropriate account of any changes in the radio equipment design or characteristics and changes in the harmonised standards or in other technical specifications by reference to which conformity of the radio equipment is declared.
 - **3** **Conformity marking and declaration of conformity**
-- 3\.1 The manufacturer shall affix the conformity marking to each individual item of radio equipment that is in conformity with the type described in the type examination certificate and satisfies the applicable requirements of this Ordinance
+- 3\.1 The manufacturer shall affix the conformity marking to each individual item of radio equipment that is in conformity with the type described in the type examination certificate and satisfies the applicable requirements of this Ordinance.
 - 3\.2 The manufacturer shall issue a written declaration of conformity for each radio equipment model in accordance with Annex 5.
 - **4** **Authorised representative**
 - 4\.1 The manufacturer’s obligations mentioned in point 4 may be fulfilled by its authorised representative on the manufacturer’s behalf and under its responsibility provided such obligations are specified in a mandate.
