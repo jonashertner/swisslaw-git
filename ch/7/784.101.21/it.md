@@ -4,11 +4,11 @@ title: "Ordinanza dell'UFCOM sugli impianti di telecomunicazione (OOIT)"
 short: OOIT
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/307"
 language: it
-version: 2024-01-15
+version: 2024-08-15
 adopted: 2016-05-26
 in_force: 2016-06-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240115/it/xml/fedlex-data-admin-ch-eli-cc-2016-307-20240115-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20240115/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240815/it/xml/fedlex-data-admin-ch-eli-cc-2016-307-20240815-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20240815/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/307/20240115/it"
 
 (OOIT)
 
-del 26 maggio 2016 (Stato 15 gennaio 2024)
+del 26 maggio 2016 (Stato 15 agosto 2024)
 
 L’Ufficio federale delle comunicazioni (UFCOM),
 
@@ -186,9 +186,9 @@ Gli impianti di radiocomunicazione che sono sottoposti ai requisiti essenziali s
 
 **Disposizione transitoria relativa alla modifica del 1° gennaio 2024**[^10c-1]
 
-Gli impianti di radiocomunicazione che sono sottoposti alle specifiche tecniche di cui all’articolo 7 capoverso 2<sup>bis</sup> in combinato disposto con l’allegato 7 numeri 1.1–1.12, e che tuttavia non le adempiono, possono essere messi a disposizione sul mercato fino al 27 dicembre 2024 e gli impianti di radiocomunicazione di cui al numero 1.13 fino al 27 aprile 2026.
+Gli impianti di radiocomunicazione che sono sottoposti alle specifiche tecniche di cui all’articolo 7 capoverso 2<sup>bis</sup> in combinato disposto con l’allegato 7 numeri 1.1–1.12, e che tuttavia non le adempiono, possono essere immessi in commercio fino al 27 dicembre 2024 e gli impianti di radiocomunicazione di cui al numero 1.13 fino al 27 aprile 2026.
 
-[^10c-1]: Introdotto dal n. I dell’O dell’UFCOM del 23 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 721](https://fedlex.data.admin.ch/eli/oc/2023/721)). Correzione del 15 gen. 2024 ([RU 2024 23](https://fedlex.data.admin.ch/eli/oc/2024/23)).
+[^10c-1]: Introdotto dal n. I dell’O dell’UFCOM del 23 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 721](https://fedlex.data.admin.ch/eli/oc/2023/721)). Correzione del 15 ago. 2024 ([RU 2024 416](https://fedlex.data.admin.ch/eli/oc/2024/416)).
 
 #### Art. 11
 
@@ -350,9 +350,10 @@ Allegato 4[^t-3]
 
 - 4\.1 Di regola, l’omologazione è rilasciata per una durata indeterminata.
 - 4\.2 Si estingue in particolare:
-- a. tramite la revoca di cui al numero 4*a*;
-- b. una volta superata la durata di validità, nel caso essa sia limitata;
-- c. con il decesso del titolare o, trattandosi di una persona giuridica, all’atto di scioglimento di quest’ultima.
+  - a. tramite la revoca di cui al numero 4*a*;
+  - b. una volta superata la durata di validità, nel caso essa sia limitata;
+  - c. con il decesso del titolare o, trattandosi di una persona giuridica, all’atto di scioglimento di quest’ultima.
+
 - 4\.3 L’UFCOM stabilisce se l’estinzione dell’omologazione ai sensi del numero 4.2 lettere a e c si ripercuote sugli impianti di radiocomunicazione che sono già offerti, immessi in commercio, fabbricati o messi in esercizio. Nella sua analisi tiene in debita considerazione i rischi nonché la necessità di proteggere gli investimenti delle autorità coinvolte.
 
 ### 4*a* Revoca dell’omologazione
@@ -408,7 +409,7 @@ Allegato 6[^t-5]
 
 <sup>2</sup> Include il seguente simbolo:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240115/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240815/it/xml/image/image1.png)
 
 <sup>3</sup> Per un impianto di radiocomunicazione recante il marchio di conformità svizzero secondo l’allegato 1 numero 1 OIT riporta, sotto o accanto al simbolo di cui al capoverso 2, l’abbreviazione della Svizzera (CH).
 
@@ -426,13 +427,13 @@ Allegato 6[^t-5]
 <sup>7</sup> Esempio a carattere informativo:
 
 <table>
-<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240115/it/xml/image/image1.png)</td></tr>
+<tr><td colspan="3">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240815/it/xml/image/image1.png)</td></tr>
 <tr><td>CH</td><td>FR</td><td>ES</td></tr>
 <tr><td>IT</td><td>DK</td><td>DE</td></tr>
 </table>
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240115/it/xml/image/image1.png)</td><td>CH</td><td>IT</td><td>DE</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240815/it/xml/image/image1.png)</td><td>CH</td><td>IT</td><td>DE</td></tr>
 </table>
 
 [^annex6-lvlu1-1]: Regolamento di esecuzione (UE) 2017/1354 della Commissione, del 20 luglio 2017, che specifica le modalità di presentazione delle informazioni di cui all’articolo 10, paragrafo 10, della direttiva 2014/53/UE del Parlamento europeo e del Consiglio, versione GU L 190 del 21.7.2017, pag. 7.
@@ -482,15 +483,15 @@ Allegato 7[^t-6]
 
 ### 4 Pittogramma
 
-\1. Il pittogramma deve presentarsi nei formati seguenti e comprendere il simbolo seguente
+\1. Il pittogramma deve presentarsi nei formati seguenti e comprendere il simbolo seguente:
 
 - a. per gli impianti di radiocomunicazione offerti in combinazione con un dispositivo di ricarica:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240115/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240815/it/xml/image/image2.png)
 
 - b. per gli impianti di radiocomunicazione offerti senza un dispositivo di ricarica:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240115/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240815/it/xml/image/image3.png)
 
 \2. Il pittogramma può variare nell’aspetto, ad esempio può essere di colori diversi, avere forma vuota o piena, linee di spessore differente, purché rimanga visibile e leggibile. In caso di riduzione o di ingrandimento del pittogramma, devono essere mantenute le proporzioni indicate nei simboli di cui al punto 1. La dimensione «a» deve essere superiore o pari a 7 mm, indipendentemente dalla variazione.
 
@@ -498,7 +499,7 @@ Allegato 7[^t-6]
 
 \1. L’etichetta deve presentare il formato seguente e contenere il simbolo seguente:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240115/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/307/20240815/it/xml/image/image4.png)
 
 \2. Le lettere XX sono sostituite dalla cifra corrispondente alla potenza minima richiesta dall’apparecchiatura radio per la ricarica, che determina la potenza minima che un dispositivo di ricarica deve fornire per caricare l’apparecchiatura radio. Le lettere YY sono sostituite dalla cifra corrispondente alla potenza massima richiesta dall’apparecchiatura radio per raggiungere la massima velocità di ricarica, che determina la potenza minima che un dispositivo di ricarica deve fornire per raggiungere tale massima velocità di ricarica. La dicitura USB PD (USB Power Delivery) figura se l’apparecchiatura radio supporta tale protocollo di comunicazione per la ricarica.
 
