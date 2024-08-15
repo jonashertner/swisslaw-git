@@ -3,18 +3,18 @@ sr: "946.231.143.6"
 title: "Ordinanza dell' 11 novembre 2015 che istituisce provvedimenti nei confronti della Repubblica Islamica dell'Iran"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/15"
 language: it
-version: 2024-04-30
+version: 2024-08-16
 adopted: 2015-11-11
 in_force: 2016-01-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20240430/it/xml/fedlex-data-admin-ch-eli-cc-2016-15-20240430-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20240430/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/15/20240816/it/xml/fedlex-data-admin-ch-eli-cc-2016-15-20240816-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/15/20240816/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Repubblica Islamica dell’Iran
 
-dell’11 novembre 2015 (Stato 30 aprile 2024)
+dell’11 novembre 2015 (Stato 16 agosto 2024)
 
 Il Consiglio federale svizzero,
 
@@ -735,8 +735,8 @@ Allegato 6[^t-4]
 
 [^annex6-lvlu1-1]
 
-[^t-4]: Nuovo testo giusta il n. I delle O del DEFR del 27 gen. 2016 ([RU 2016 383](https://fedlex.data.admin.ch/eli/oc/2016/57)) del 17 mag. 2016 ([RU 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), del 31 ott. 2016 ([RU 2016 3699](https://fedlex.data.admin.ch/eli/oc/2016/623)), del 26 gen. 2017 ([RU 2017 243](https://fedlex.data.admin.ch/eli/oc/2017/59)), del 19 giu. 2018 ([RU 2018 2421](https://fedlex.data.admin.ch/eli/oc/2018/349)), del 17 giu. 2019 ([RU 2019 1893](https://fedlex.data.admin.ch/eli/oc/2019/346)), del 29 nov. 2019 ([RU 2019 4093](https://fedlex.data.admin.ch/eli/oc/2019/714)), del 6 lug. 2020 ([RU 2020 2831](https://fedlex.data.admin.ch/eli/oc/2020/515)), del 26 nov. 2020 ([RU 2020 4933](https://fedlex.data.admin.ch/eli/oc/2020/878)), del 17 ago. 2021 ([RU 2021 491](https://fedlex.data.admin.ch/eli/oc/2021/491)), del 2 ago. 2022 ([RU 2022 435](https://fedlex.data.admin.ch/eli/oc/2022/435)), del 10 mag. 2023 ([RU 2023 227](https://fedlex.data.admin.ch/eli/oc/2023/227)) e del 25 ott. 2023, in vigore dal 26 ott. 2023 alle 18.00 ([RU 2023 606](https://fedlex.data.admin.ch/eli/oc/2023/606)).
-[^annex6-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2023/606](https://fedlex.data.admin.ch/eli/oc/2023/606) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-4]: Aggiornato dal n. I delle O del DEFR del 27 gen. 2016 ([RU 2016 383](https://fedlex.data.admin.ch/eli/oc/2016/57)), del 17 mag. 2016 ([RU 2016 1477](https://fedlex.data.admin.ch/eli/oc/2016/281)), del 31 ott. 2016 ([RU 2016 3699](https://fedlex.data.admin.ch/eli/oc/2016/623)), del 26 gen. 2017 ([RU 2017 243](https://fedlex.data.admin.ch/eli/oc/2017/59)), del 19 giu. 2018 ([RU 2018 2421](https://fedlex.data.admin.ch/eli/oc/2018/349)), del 17 giu. 2019 ([RU 2019 1893](https://fedlex.data.admin.ch/eli/oc/2019/346)), del 29 nov. 2019 ([RU 2019 4093](https://fedlex.data.admin.ch/eli/oc/2019/714)), del 6 lug. 2020 ([RU 2020 2831](https://fedlex.data.admin.ch/eli/oc/2020/515)), del 26 nov. 2020 ([RU 2020 4933](https://fedlex.data.admin.ch/eli/oc/2020/878)), del 17 ago. 2021 ([RU 2021 491](https://fedlex.data.admin.ch/eli/oc/2021/491)), del 2 ago. 2022 ([RU 2022 435](https://fedlex.data.admin.ch/eli/oc/2022/435)), del 10 mag. 2023 ([RU 2023 227](https://fedlex.data.admin.ch/eli/oc/2023/227)), del 25 ott. 2023 ([RU 2023 606](https://fedlex.data.admin.ch/eli/oc/2023/606)) e del 15 ago. 2024, in vigore dal 16 ago. 2024 alle 18.00 (RU **202****4** 422).
+[^annex6-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/422](https://fedlex.data.admin.ch/eli/oc/2024/422) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 6a[^t-5]
 
