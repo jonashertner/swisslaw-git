@@ -3,18 +3,18 @@ sr: "946.231.149.82"
 title: "Ordonnance du 30 mars 2011 instituant des mesures à l'encontre de la Libye"
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/203"
 language: fr
-version: 2024-03-15
+version: 2024-08-16
 adopted: 2011-03-30
 in_force: 2011-03-31
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/203/20240315/fr/xml/fedlex-data-admin-ch-eli-cc-2011-203-20240315-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/203/20240315/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/203/20240816/fr/xml/fedlex-data-admin-ch-eli-cc-2011-203-20240816-fr-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/203/20240816/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la Libye
 
-du 30 mars 2011 (État le 15 mars 2024)
+du 30 mars 2011 (État le 16 août 2024)
 
 Le Conseil fédéral suisse,
 
@@ -334,8 +334,8 @@ Annexe 3[^t-2]
 
 [^annex3-lvlu1-1]
 
-[^t-2]: Mise à jour par le ch. I 16 de l’O du 19 déc. 2012 ([RO 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)) et le ch. I des O du DEFR du 20 mars 2013 ([RO 2013 957](https://fedlex.data.admin.ch/eli/oc/2013/198)), du 14 juin 2013 ([RO 2013 2073](https://fedlex.data.admin.ch/eli/oc/2013/432)), du 19 fév. 2014 ([RO 2014 541](https://fedlex.data.admin.ch/eli/oc/2014/107)), du 24 mars 2015 ([RO 2015 985](https://fedlex.data.admin.ch/eli/oc/2015/182)), du 27 août 2015 ([RO 2015 2971](https://fedlex.data.admin.ch/eli/oc/2015/563)), du 5 fév. 2016 ([RO 2016 477](https://fedlex.data.admin.ch/eli/oc/2016/80)), du 8 mai 2017 ([RO 2017 2805](https://fedlex.data.admin.ch/eli/oc/2017/287)), du 15 août 2018 ([RO 2018 3023](https://fedlex.data.admin.ch/eli/oc/2018/471)), du 21 août 2019 ([RO 2019 2629](https://fedlex.data.admin.ch/eli/oc/2019/489)), du 12 août 2020 ([RO 2020 3551](https://fedlex.data.admin.ch/eli/oc/2020/627)), du 5 oct. 2020 ([RO 2020 3969](https://fedlex.data.admin.ch/eli/oc/2020/736)), du 14 oct. 2020 ([RO 2020 4155](https://fedlex.data.admin.ch/eli/oc/2020/760)), du 27 oct. 2020 ([RO 2020 4519](https://fedlex.data.admin.ch/eli/oc/2020/796)), du 19 avr. 2021 ([RO 2021 228](https://fedlex.data.admin.ch/eli/oc/2021/228)), du 5 mai 2021 ([RO 2021 264](https://fedlex.data.admin.ch/eli/oc/2021/264)), du 12 août 2021 ([RO 2021 485](https://fedlex.data.admin.ch/eli/oc/2021/485)), du 23 nov. 2021 ([RO 2021 745](https://fedlex.data.admin.ch/eli/oc/2021/745)), du 13 janv. 2022 ([RO 2022 6](https://fedlex.data.admin.ch/eli/oc/2022/6)), du 23 janv. 2023 ([RO 2023 24](https://fedlex.data.admin.ch/eli/oc/2023/24)) et du 27 nov. 2023, en vigueur depuis le 28 nov. 2023 à 18 heures ([RO 2023 691](https://fedlex.data.admin.ch/eli/oc/2023/691)).
-[^annex3-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/691](https://fedlex.data.admin.ch/eli/oc/2023/691) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-2]: Mise à jour par le ch. I 16 de l’O du 19 déc. 2012 ([RO 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)) et le ch. I des O du DEFR du 20 mars 2013 ([RO 2013 957](https://fedlex.data.admin.ch/eli/oc/2013/198)), du 14 juin 2013 ([RO 2013 2073](https://fedlex.data.admin.ch/eli/oc/2013/432)), du 19 fév. 2014 ([RO 2014 541](https://fedlex.data.admin.ch/eli/oc/2014/107)), du 24 mars 2015 ([RO 2015 985](https://fedlex.data.admin.ch/eli/oc/2015/182)), du 27 août 2015 ([RO 2015 2971](https://fedlex.data.admin.ch/eli/oc/2015/563)), du 5 fév. 2016 ([RO 2016 477](https://fedlex.data.admin.ch/eli/oc/2016/80)), du 8 mai 2017 ([RO 2017 2805](https://fedlex.data.admin.ch/eli/oc/2017/287)), du 15 août 2018 ([RO 2018 3023](https://fedlex.data.admin.ch/eli/oc/2018/471)), du 21 août 2019 ([RO 2019 2629](https://fedlex.data.admin.ch/eli/oc/2019/489)), du 12 août 2020 ([RO 2020 3551](https://fedlex.data.admin.ch/eli/oc/2020/627)), du 5 oct. 2020 ([RO 2020 3969](https://fedlex.data.admin.ch/eli/oc/2020/736)), du 14 oct. 2020 ([RO 2020 4155](https://fedlex.data.admin.ch/eli/oc/2020/760)), du 27 oct. 2020 ([RO 2020 4519](https://fedlex.data.admin.ch/eli/oc/2020/796)), du 19 avr. 2021 ([RO 2021 228](https://fedlex.data.admin.ch/eli/oc/2021/228)), du 5 mai 2021 ([RO 2021 264](https://fedlex.data.admin.ch/eli/oc/2021/264)), du 12 août 2021 ([RO 2021 485](https://fedlex.data.admin.ch/eli/oc/2021/485)), du 23 nov. 2021 ([RO 2021 745](https://fedlex.data.admin.ch/eli/oc/2021/745)), du 13 janv. 2022 ([RO 2022 6](https://fedlex.data.admin.ch/eli/oc/2022/6)), du 23 janv. 2023 ([RO 2023 24](https://fedlex.data.admin.ch/eli/oc/2023/24)), du 27 nov. 2023 ([RO 2023 691](https://fedlex.data.admin.ch/eli/oc/2023/691)) et du 15 août 2024, en vigueur depuis le 16 août 2024 à 18 heures ([RO 2024 423](https://fedlex.data.admin.ch/eli/oc/2024/423)).
+[^annex3-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/423](https://fedlex.data.admin.ch/eli/oc/2024/423) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 4[^t-3]
 
@@ -343,16 +343,19 @@ Annexe 4[^t-3]
 
 ## Personnes physiques visées par l’interdiction d’entrée et de transit
 
-[^t-3]: Nouvelle teneur selon le ch. I 13 de l’O du 4 mars 2016 sur la reprise automatique des listes de sanctions du Conseil de sécurité des Nations Unies, en vigueur depuis le 4 mars 2016 ([RO 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
+[^annex4-lvlu1-1]
+
+[^t-3]: Nouvelle teneur selon le ch. I 13 de l’O du 4 mars 2016 sur la reprise automatique des listes de sanctions du Conseil de sécurité des Nations Unies, en vigueur depuis le 4 mars 2016 ([RO 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)). Mise à jour par le ch. I de l’O du DEFR du 15 août 2024, en vigueur depuis le 16 août 2024 à 18 heures ([RO 2024 423](https://fedlex.data.admin.ch/eli/oc/2024/423))
+[^annex4-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/423](https://fedlex.data.admin.ch/eli/oc/2024/423) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 **Remarque**
 
-\1. La présente annexe correspond aux listes des personnes physiques, entreprises et entités désignées par le Conseil de sécurité des Nations Unies ou par son comité compétent[^annex4-lvlu1-1].
+\1. La présente annexe correspond aux listes des personnes physiques, entreprises et entités désignées par le Conseil de sécurité des Nations Unies ou par son comité compétent[^annex4-lvlu1-2].
 
-\2. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par les Nations Unies[^annex4-lvlu1-2].
+\2. En règle générale, les listes sont saisies par le SECO dans la banque de données SESAM (SECO Sanctions Management) le jour ouvré qui suit leur communication par les Nations Unies[^annex4-lvlu1-3].
 
-[^annex4-lvlu1-1]: La liste peut être consultée Internet, à l’adresse suivante: [www.un.org/fr/sc](https://www.un.org/securitycouncil/fr) &gt; Organes subsidiaires &gt; Sanctions &gt; Comité du Conseil concernant la Libye &gt; Matériaux relatifs à la liste de sanctions.
-[^annex4-lvlu1-2]: La banque de données SESAM est librement accessible Internet: [www.seco.admin.ch](https://www.seco.admin.ch/) &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
+[^annex4-lvlu1-2]: La liste peut être consultée Internet, à l’adresse suivante: [www.un.org/fr/sc](https://www.un.org/securitycouncil/fr) &gt; Organes subsidiaires &gt; Sanctions &gt; Comité du Conseil concernant la Libye &gt; Matériaux relatifs à la liste de sanctions.
+[^annex4-lvlu1-3]: La banque de données SESAM est librement accessible Internet: [www.seco.admin.ch](https://www.seco.admin.ch/) &gt; Economie extérieure et Coopération économique &gt; Contrôles à l’exportation et sanctions &gt; Sanctions / Embargos. Une version imprimée de la liste peut être commandée auprès du SECO, secteur Sanctions, Holzikofenweg 36, 3003 Berne.
 
 Annexe 5[^t-4]
 
@@ -362,5 +365,5 @@ Annexe 5[^t-4]
 
 [^annex5-lvlu1-1]
 
-[^t-4]: Mise à jour par le ch. I 16 de l’O du 19 déc. 2012 ([RO 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)) et le ch. I des O du DEFR du 14 juin 2013 ([RO 2013 2073](https://fedlex.data.admin.ch/eli/oc/2013/432)), du 24 mars 2015 ([RO 2015 985](https://fedlex.data.admin.ch/eli/oc/2015/182)), du 27 août 2015 ([RO 2015 2971](https://fedlex.data.admin.ch/eli/oc/2015/563)), du 5 fév. 2016 ([RO 2016 477](https://fedlex.data.admin.ch/eli/oc/2016/80)), du 8 mai 2017 ([RO 2017 2805](https://fedlex.data.admin.ch/eli/oc/2017/287)), du 15 août 2018 ([RO 2018 3023](https://fedlex.data.admin.ch/eli/oc/2018/471)), du 21 août 2019 ([RO 2019 2629](https://fedlex.data.admin.ch/eli/oc/2019/489)), du 12 août 2020 ([RO 2020 3551](https://fedlex.data.admin.ch/eli/oc/2020/627)), du 5 oct. 2020 ([RO 2020 3969](https://fedlex.data.admin.ch/eli/oc/2020/736)), du 14 oct. 2020 ([RO 2020 4155](https://fedlex.data.admin.ch/eli/oc/2020/760)), du 27 oct. 2020 ([RO 2020 4519](https://fedlex.data.admin.ch/eli/oc/2020/796)), du 19 avr. 2021 ([RO 2021 228](https://fedlex.data.admin.ch/eli/oc/2021/228)), du 5 mai 2021 ([RO 2021 264](https://fedlex.data.admin.ch/eli/oc/2021/264)) du 12 août 2021 ([RO 2021 485](https://fedlex.data.admin.ch/eli/oc/2021/485)), du 23 nov. 2021 ([RO 2021 745](https://fedlex.data.admin.ch/eli/oc/2021/745)), du 13 janv. 2022 ([RO 2022 6](https://fedlex.data.admin.ch/eli/oc/2022/6)), du 23 janv. 2023 ([RO 2023 24](https://fedlex.data.admin.ch/eli/oc/2023/24)) et du 27 nov. 2023, en vigueur depuis le 28 nov. 2023 à 18 heures ([RO 2023 691](https://fedlex.data.admin.ch/eli/oc/2023/691)).
-[^annex5-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/691](https://fedlex.data.admin.ch/eli/oc/2023/691) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-4]: Mise à jour par le ch. I 16 de l’O du 19 déc. 2012 ([RO 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)) et le ch. I des O du DEFR du 14 juin 2013 ([RO 2013 2073](https://fedlex.data.admin.ch/eli/oc/2013/432)), du 24 mars 2015 ([RO 2015 985](https://fedlex.data.admin.ch/eli/oc/2015/182)), du 27 août 2015 ([RO 2015 2971](https://fedlex.data.admin.ch/eli/oc/2015/563)), du 5 fév. 2016 ([RO 2016 477](https://fedlex.data.admin.ch/eli/oc/2016/80)), du 8 mai 2017 ([RO 2017 2805](https://fedlex.data.admin.ch/eli/oc/2017/287)), du 15 août 2018 ([RO 2018 3023](https://fedlex.data.admin.ch/eli/oc/2018/471)), du 21 août 2019 ([RO 2019 2629](https://fedlex.data.admin.ch/eli/oc/2019/489)), du 12 août 2020 ([RO 2020 3551](https://fedlex.data.admin.ch/eli/oc/2020/627)), du 5 oct. 2020 ([RO 2020 3969](https://fedlex.data.admin.ch/eli/oc/2020/736)), du 14 oct. 2020 ([RO 2020 4155](https://fedlex.data.admin.ch/eli/oc/2020/760)), du 27 oct. 2020 ([RO 2020 4519](https://fedlex.data.admin.ch/eli/oc/2020/796)), du 19 avr. 2021 ([RO 2021 228](https://fedlex.data.admin.ch/eli/oc/2021/228)), du 5 mai 2021 ([RO 2021 264](https://fedlex.data.admin.ch/eli/oc/2021/264)) du 12 août 2021 ([RO 2021 485](https://fedlex.data.admin.ch/eli/oc/2021/485)), du 23 nov. 2021 ([RO 2021 745](https://fedlex.data.admin.ch/eli/oc/2021/745)), du 13 janv. 2022 ([RO 2022 6](https://fedlex.data.admin.ch/eli/oc/2022/6)), du 23 janv. 2023 ([RO 2023 24](https://fedlex.data.admin.ch/eli/oc/2023/24)), du 27 nov. 2023 ([RO 2023 691](https://fedlex.data.admin.ch/eli/oc/2023/691)) et du 15 août 2024, en vigueur depuis le 16 août 2024 à 18 heures ([RO 2024 423](https://fedlex.data.admin.ch/eli/oc/2024/423)).
+[^annex5-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/423](https://fedlex.data.admin.ch/eli/oc/2024/423) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.

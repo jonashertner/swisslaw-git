@@ -3,18 +3,18 @@ sr: "946.231.149.82"
 title: Ordinanza del 30 marzo 2011 che istituisce provvedimenti nei confronti della Libia
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/203"
 language: it
-version: 2024-03-15
+version: 2024-08-16
 adopted: 2011-03-30
 in_force: 2011-03-31
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/203/20240315/it/xml/fedlex-data-admin-ch-eli-cc-2011-203-20240315-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/203/20240315/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/203/20240816/it/xml/fedlex-data-admin-ch-eli-cc-2011-203-20240816-it-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/203/20240816/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Libia
 
-del 30 marzo 2011 (Stato 15 marzo 2024)
+del 30 marzo 2011 (Stato 16 agosto 2024)
 
 Il Consiglio federale svizzero,
 
@@ -48,7 +48,7 @@ La Segreteria di Stato dell’economia (SECO) può, d’intesa con i competenti 
 
 <sup>6</sup> L’esportazione temporanea di indumenti di protezione, inclusi i giubbotti antiproiettile e i caschi, destinati ad un uso individuale da parte del personale delle Nazioni Unite, dell’Unione europea o della Confederazione, dei rappresentanti dei media e del personale umanitario è esclusa dai divieti di cui ai capoversi 1–3.
 
-[^1-1]: Nuova espressione giusta il n. I 10 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^1-1]: Nuova espressione giusta la cifra I n. 10 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 2
 
@@ -88,10 +88,10 @@ La SECO può eccezionalmente autorizzare prelievi da conti bloccati, trasferimen
 
 <sup>5</sup> La SECO autorizza le deroghe di cui al capoverso 4 d’intesa con gli uffici competenti del DFAE e del Dipartimento federale delle finanze e, se del caso, previa notifica al comitato competente del Consiglio di sicurezza delle Nazioni Unite e in conformità delle decisioni di tale comitato.[^2-4]
 
-[^2-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2011, in vigore dal 27 ott. 2011 ([RU 2011 4857](https://fedlex.data.admin.ch/eli/oc/2011/692)).
-[^2-2]: Nuovo testo giusta il n. I 10 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
-[^2-3]: Introdotto dal n. I 10 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
-[^2-4]: Introdotto dal n. I 10 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2011, in vigore dal 27 ott. 2011 ([RU 2011 4857](https://fedlex.data.admin.ch/eli/oc/2011/692)).
+[^2-2]: Nuovo testo giusta la cifra I n. 10 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^2-3]: Introdotto dalla cifra I n. 10 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
+[^2-4]: Introdotto dalla cifra I n. 10 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)).
 
 #### Art. 3
 
@@ -128,7 +128,7 @@ La SEM può concedere deroghe alle persone fisiche di cui all’allegato 5:
 
 [^5-1]
 
-[^5-1]: Abrogato dal n. I dell’O del 26 ott. 2011, con effetto dal 27 ott. 2011 ([RU 2011 4857](https://fedlex.data.admin.ch/eli/oc/2011/692)).
+[^5-1]: Abrogato dalla cifra I dell’O del 26 ott. 2011, con effetto dal 27 ott. 2011 ([RU 2011 4857](https://fedlex.data.admin.ch/eli/oc/2011/692)).
 
 #### Art. 6
 
@@ -158,7 +158,7 @@ La SEM può concedere deroghe alle persone fisiche di cui all’allegato 5:
 
 <sup>5</sup> Su indicazione della SECO, le autorità competenti adottano i provvedimenti necessari al blocco delle risorse economiche, ad esempio la menzione nel registro fondiario di un divieto di disporre dei beni, oppure il pignoramento o il suggellamento di beni di lusso.
 
-[^7-1]: Abrogato dal n. I dell’O del 26 ott. 2011, con effetto dal 27 ott. 2011 ([RU 2011 4857](https://fedlex.data.admin.ch/eli/oc/2011/692)).
+[^7-1]: Abrogato dalla cifra I dell’O del 26 ott. 2011, con effetto dal 27 ott. 2011 ([RU 2011 4857](https://fedlex.data.admin.ch/eli/oc/2011/692)).
 [^7-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)).
 
 #### Art. 8
@@ -181,13 +181,13 @@ La SEM può concedere deroghe alle persone fisiche di cui all’allegato 5:
 
 <sup>3</sup> Le infrazioni di cui agli articoli 9 e 10 LEmb sono perseguite e giudicate dalla SECO; essa può ordinare sequestri o confische.
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 26 ott. 2011, in vigore dal 27 ott. 2011 ([RU 2011 4857](https://fedlex.data.admin.ch/eli/oc/2011/692)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 26 ott. 2011, in vigore dal 27 ott. 2011 ([RU 2011 4857](https://fedlex.data.admin.ch/eli/oc/2011/692)).
 
 ## Sezione 3: Recepimento automatico di liste, pubblicazione e disposizioni finali
 
 [^sec3-1]
 
-[^sec3-1]: Nuovo testo giusta il n. I 13 dell’O del 4 mar. 2016 sul recepimento automatico delle liste di sanzioni del Consiglio di sicurezza delle Nazioni Unite, in vigore dal 4 mar. 2016 ([RU 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
+[^sec3-1]: Nuovo testo giusta la cifra I n. 13 dell’O del 4 mar. 2016 sul recepimento automatico delle liste di sanzioni del Consiglio di sicurezza delle Nazioni Unite, in vigore dal 4 mar. 2016 ([RU 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
 
 #### Art. 9a
 
@@ -195,7 +195,7 @@ La SEM può concedere deroghe alle persone fisiche di cui all’allegato 5:
 
 Le liste delle persone fisiche, imprese e organizzazioni, emanate o aggiornate dal Consiglio di sicurezza delle Nazioni Unite ovvero dal comitato competente del Consiglio di sicurezza delle Nazioni Unite (allegati 2 e 4), sono recepite automaticamente.
 
-[^9a-1]: Introdotto dal n. I 16 dell’O del 19 dic. 2012 sulla modifica della pubblicazione degli allegati alle ordinanze sugli embarghi ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)). Nuovo testo giusta il n. I 13 dell’O del 4 mar. 2016 sul recepimento automatico delle liste di sanzioni del Consiglio di sicurezza delle Nazioni Unite, in vigore dal 4 mar. 2016 ([RU 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
+[^9a-1]: Introdotto dalla cifra I n. 16 dell’O del 19 dic. 2012 sulla modifica della pubblicazione degli allegati alle ordinanze sugli embarghi ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)). Nuovo testo giusta la cifra I n. 13 dell’O del 4 mar. 2016 sul recepimento automatico delle liste di sanzioni del Consiglio di sicurezza delle Nazioni Unite, in vigore dal 4 mar. 2016 ([RU 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
 
 #### Art. 9b
 
@@ -203,7 +203,7 @@ Le liste delle persone fisiche, imprese e organizzazioni, emanate o aggiornate d
 
 Le voci secondo gli allegati 2–5 non sono pubblicate né nella Raccolta ufficiale delle leggi federali (RU) né nella Raccolta sistematica del diritto federale (RS).
 
-[^9b-1]: Introdotto dal n. I 13 dell’O del 4 mar. 2016 sul recepimento automatico delle liste di sanzioni del Consiglio di sicurezza delle Nazioni Unite, in vigore dal 4 mar. 2016 ([RU 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
+[^9b-1]: Introdotto dalla cifra I n. 13 dell’O del 4 mar. 2016 sul recepimento automatico delle liste di sanzioni del Consiglio di sicurezza delle Nazioni Unite, in vigore dal 4 mar. 2016 ([RU 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
 
 #### Art. 10
 
@@ -317,7 +317,7 @@ Allegato 2[^t-1]
 
 [^annex2-lvlu1-1]
 
-[^t-1]: Nuovo testo giusta il n. I 13 dell’O del 4 mar. 2016 sul recepimento automatico delle liste di sanzioni del Consiglio di sicurezza delle Nazioni Unite, in vigore dal 4 mar. 2016 ([RU 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
+[^t-1]: Nuovo testo giusta la cifra I n. 13 dell’O del 4 mar. 2016 sul recepimento automatico delle liste di sanzioni del Consiglio di sicurezza delle Nazioni Unite, in vigore dal 4 mar. 2016 ([RU 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
 [^annex2-lvlu1-1]: Non pubblicato nella RU. È possibile ordinare il contenuto dell’all. presso il settore Sanzioni della SECO, Holzikofenweg 36, 3003 Berna oppure consultarli al seguente indirizzo Internet: www.seco.admin.ch &gt; Temi &gt; Politica economica esterna &gt; Sanzioni / Embarghi.
 
 **Nota bene**
@@ -337,8 +337,8 @@ Allegato 3[^t-2]
 
 [^annex3-lvlu1-1]
 
-[^t-2]: Aggiornato dal n. 16 dell’O del 11 dic. 2012 ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)), dai n. l delle O del DEFR del 20 mar. 2013 (RU **2012** 957), del 14 giu. 2013 ([RU 2013 2073](https://fedlex.data.admin.ch/eli/oc/2013/432)), del 19 feb. 2014 ([RU 2014 541](https://fedlex.data.admin.ch/eli/oc/2014/107)), del 24 mar. 2015 ([RU 2015 985](https://fedlex.data.admin.ch/eli/oc/2015/182)), del 27 ago. 2015 ([RU 2015 2971](https://fedlex.data.admin.ch/eli/oc/2015/563)), del 5 feb. 2016 ([RU 2016 477](https://fedlex.data.admin.ch/eli/oc/2016/80)), dell’8 mag. 2017 ([RU 2017 2805](https://fedlex.data.admin.ch/eli/oc/2017/287)), del 15 ago. 2018 ([RU 2018 3023](https://fedlex.data.admin.ch/eli/oc/2018/471)), del 21 ago. 2019 ([RU 2019 2629](https://fedlex.data.admin.ch/eli/oc/2019/489)), del 12 ago. 2020 ([RU 2020 3551](https://fedlex.data.admin.ch/eli/oc/2020/627)), del 5 ott. 2020 ([RU 2020 3969](https://fedlex.data.admin.ch/eli/oc/2020/736)), del 14 ott. 2020 ([RU 2020 4155](https://fedlex.data.admin.ch/eli/oc/2020/760)), del 27 ott. 2020 ([RU 2020 4519](https://fedlex.data.admin.ch/eli/oc/2020/796)), del 19 apr. 2021 ([RU 2021 228](https://fedlex.data.admin.ch/eli/oc/2021/228)), del 5 mag. 2021 ([RU 2021 264](https://fedlex.data.admin.ch/eli/oc/2021/264)), del 12 ago. 2021 ([RU 2021 485](https://fedlex.data.admin.ch/eli/oc/2021/485)), del 23 nov. 2021 ([RU 2021 745](https://fedlex.data.admin.ch/eli/oc/2021/745)), del 13 gen. 2022 ([RU 2022 6](https://fedlex.data.admin.ch/eli/oc/2022/6)), del 23 gen. 2023 ([RU 2023 24](https://fedlex.data.admin.ch/eli/oc/2023/24)) e del 27 nov. 2023, in vigore dal 28 nov. 2023 alle ore 18.00 ([RU 2023 691](https://fedlex.data.admin.ch/eli/oc/2023/691)).
-[^annex3-lvlu1-1]: Il contenuto dei presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2023/691](https://fedlex.data.admin.ch/eli/oc/2023/691) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-2]: Aggiornato dal n. 16 dell’O del 11 dic. 2012 ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)), dai n. l delle O del DEFR del 20 mar. 2013 (RU **2012** 957), del 14 giu. 2013 ([RU 2013 2073](https://fedlex.data.admin.ch/eli/oc/2013/432)), del 19 feb. 2014 ([RU 2014 541](https://fedlex.data.admin.ch/eli/oc/2014/107)), del 24 mar. 2015 ([RU 2015 985](https://fedlex.data.admin.ch/eli/oc/2015/182)), del 27 ago. 2015 ([RU 2015 2971](https://fedlex.data.admin.ch/eli/oc/2015/563)), del 5 feb. 2016 ([RU 2016 477](https://fedlex.data.admin.ch/eli/oc/2016/80)), dell’8 mag. 2017 ([RU 2017 2805](https://fedlex.data.admin.ch/eli/oc/2017/287)), del 15 ago. 2018 ([RU 2018 3023](https://fedlex.data.admin.ch/eli/oc/2018/471)), del 21 ago. 2019 ([RU 2019 2629](https://fedlex.data.admin.ch/eli/oc/2019/489)), del 12 ago. 2020 ([RU 2020 3551](https://fedlex.data.admin.ch/eli/oc/2020/627)), del 5 ott. 2020 ([RU 2020 3969](https://fedlex.data.admin.ch/eli/oc/2020/736)), del 14 ott. 2020 ([RU 2020 4155](https://fedlex.data.admin.ch/eli/oc/2020/760)), del 27 ott. 2020 ([RU 2020 4519](https://fedlex.data.admin.ch/eli/oc/2020/796)), del 19 apr. 2021 ([RU 2021 228](https://fedlex.data.admin.ch/eli/oc/2021/228)), del 5 mag. 2021 ([RU 2021 264](https://fedlex.data.admin.ch/eli/oc/2021/264)), del 12 ago. 2021 ([RU 2021 485](https://fedlex.data.admin.ch/eli/oc/2021/485)), del 23 nov. 2021 ([RU 2021 745](https://fedlex.data.admin.ch/eli/oc/2021/745)), del 13 gen. 2022 ([RU 2022 6](https://fedlex.data.admin.ch/eli/oc/2022/6)), del 23 gen. 2023 ([RU 2023 24](https://fedlex.data.admin.ch/eli/oc/2023/24)), del 27 nov. 2023 ([RU 2023 691](https://fedlex.data.admin.ch/eli/oc/2023/691)) e del 15 ago. 2024, in vigore dal 16 ago. 2024 alle ore 18.00 ([RU 2024 423](https://fedlex.data.admin.ch/eli/oc/2024/423)).
+[^annex3-lvlu1-1]: Il contenuto dei presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/423](https://fedlex.data.admin.ch/eli/oc/2024/423) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 4[^t-3]
 
@@ -346,7 +346,7 @@ Allegato 4[^t-3]
 
 ## Persone fisiche soggette al divieto di entrata e di transito
 
-[^t-3]: Nuovo testo giusta il n. I 13 dell’O del 4 mar. 2016 sul recepimento automatico delle liste di sanzioni del Consiglio di sicurezza delle Nazioni Unite, in vigore dal 4 mar. 2016 ([RU 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
+[^t-3]: Nuovo testo giusta la cifra I n. 13 dell’O del 4 mar. 2016 sul recepimento automatico delle liste di sanzioni del Consiglio di sicurezza delle Nazioni Unite ([RU 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)). Aggiornato dalla cifra I dell’O del DEFR del 15 ago. 2024, in vigore dal 16 ago. 2024 alle ore 18.00 ([RU 2024 423](https://fedlex.data.admin.ch/eli/oc/2024/423)).
 
 **Nota bene**
 
@@ -355,7 +355,7 @@ Allegato 4[^t-3]
 \2. In generale, la SECO inserisce le liste nella banca dati SESAM (SECO Sanctions Management) il giorno feriale successivo al comunicato delle Nazioni Unite[^annex4-lvlu1-2].
 
 [^annex4-lvlu1-1]: La lista è consultabile ai seguenti indirizzi Internet: [www.un.org/en/sc/](http://www.un.org/en/sc/) &gt; Subsidiary Organs &gt; Sanctions &gt; Libya Sanctions Committee &gt; Sanctions List Materials.
-[^annex4-lvlu1-2]: La banca dati SESAM è liberamente accessibile su Internet: [www.seco.admin.ch](http://www.seco.admin.ch) &gt; Politica economica esterna e cooperazione economica &gt; Controlli all’esportazione e sanzioni &gt; Sanzioni / Embarghi. È possibile ordinare la lista in formato cartaceo a: SECO, settore Sanzioni, Holzikofenweg 36, 3003 Berna.
+[^annex4-lvlu1-2]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/423](https://fedlex.data.admin.ch/eli/oc/2024/423) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 5[^t-4]
 
@@ -365,5 +365,5 @@ Allegato 5[^t-4]
 
 [^annex5-lvlu1-1]
 
-[^t-4]: Agg Aggiornato dal n. 16 dell’O del 11 dic. 2012 ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)), dai n. l delle O del DEFR del 14 giu. 2013 ([RU 2013 2073](https://fedlex.data.admin.ch/eli/oc/2013/432)), del 24 mar. 2015 ([RU 2015 985](https://fedlex.data.admin.ch/eli/oc/2015/182)), del 27 ago. 2015 ([RU 2015 2971](https://fedlex.data.admin.ch/eli/oc/2015/563)), del 5 feb. 2016 ([RU 2016 477](https://fedlex.data.admin.ch/eli/oc/2016/80)), dell’8 mag. 2017 ([RU 2017 2805](https://fedlex.data.admin.ch/eli/oc/2017/287)), del 15 ago. 2018 ([RU 2018 3023](https://fedlex.data.admin.ch/eli/oc/2018/471)), del 21 ago. 2019 ([RU 2019 2629](https://fedlex.data.admin.ch/eli/oc/2019/489)), del 12 ago. 2020 ([RU 2020 3551](https://fedlex.data.admin.ch/eli/oc/2020/627)), del 5 ott. 2020 ([RU 2020 3969](https://fedlex.data.admin.ch/eli/oc/2020/736)), del 14 ott. 2020 ([RU 2020 4155](https://fedlex.data.admin.ch/eli/oc/2020/760)), del 27 ott. 2020 ([RU 2020 4519](https://fedlex.data.admin.ch/eli/oc/2020/796)), del 19 apr. 2021 ([RU 2021 228](https://fedlex.data.admin.ch/eli/oc/2021/228)), del 5 mag. 2021 ([RU 2021 264](https://fedlex.data.admin.ch/eli/oc/2021/264)), del 12 ago. 2021 ([RU 2021 485](https://fedlex.data.admin.ch/eli/oc/2021/485)), del 23 nov. 2021 ([RU 2021 745](https://fedlex.data.admin.ch/eli/oc/2021/745)), del 13 gen. 2022 ([RU 2022 6](https://fedlex.data.admin.ch/eli/oc/2022/6)), del 23 gen. 2023 ([RU 2023 24](https://fedlex.data.admin.ch/eli/oc/2023/24)) e del 27 nov. 2023, in vigore dal 28 nov. 2023 alle ore 18.00 ([RU 2023 691](https://fedlex.data.admin.ch/eli/oc/2023/691)).
-[^annex5-lvlu1-1]: Il contenuto dei presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2023/691](https://fedlex.data.admin.ch/eli/oc/2023/691) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-4]: Aggiornato dal n. 16 dell’O del 11 dic. 2012 ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)), dai n. l delle O del DEFR del 14 giu. 2013 ([RU 2013 2073](https://fedlex.data.admin.ch/eli/oc/2013/432)), del 24 mar. 2015 ([RU 2015 985](https://fedlex.data.admin.ch/eli/oc/2015/182)), del 27 ago. 2015 ([RU 2015 2971](https://fedlex.data.admin.ch/eli/oc/2015/563)), del 5 feb. 2016 ([RU 2016 477](https://fedlex.data.admin.ch/eli/oc/2016/80)), dell’8 mag. 2017 ([RU 2017 2805](https://fedlex.data.admin.ch/eli/oc/2017/287)), del 15 ago. 2018 ([RU 2018 3023](https://fedlex.data.admin.ch/eli/oc/2018/471)), del 21 ago. 2019 ([RU 2019 2629](https://fedlex.data.admin.ch/eli/oc/2019/489)), del 12 ago. 2020 ([RU 2020 3551](https://fedlex.data.admin.ch/eli/oc/2020/627)), del 5 ott. 2020 ([RU 2020 3969](https://fedlex.data.admin.ch/eli/oc/2020/736)), del 14 ott. 2020 ([RU 2020 4155](https://fedlex.data.admin.ch/eli/oc/2020/760)), del 27 ott. 2020 ([RU 2020 4519](https://fedlex.data.admin.ch/eli/oc/2020/796)), del 19 apr. 2021 ([RU 2021 228](https://fedlex.data.admin.ch/eli/oc/2021/228)), del 5 mag. 2021 ([RU 2021 264](https://fedlex.data.admin.ch/eli/oc/2021/264)), del 12 ago. 2021 ([RU 2021 485](https://fedlex.data.admin.ch/eli/oc/2021/485)), del 23 nov. 2021 ([RU 2021 745](https://fedlex.data.admin.ch/eli/oc/2021/745)), del 13 gen. 2022 ([RU 2022 6](https://fedlex.data.admin.ch/eli/oc/2022/6)), del 23 gen. 2023 ([RU 2023 24](https://fedlex.data.admin.ch/eli/oc/2023/24)), del 27 nov. 2023 ([RU 2023 691](https://fedlex.data.admin.ch/eli/oc/2023/691)) e del 15 ago. 2024, in vigore dal 16 ago. 2024 alle ore 18.00 ([RU 2024 423](https://fedlex.data.admin.ch/eli/oc/2024/423)).
+[^annex5-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/423](https://fedlex.data.admin.ch/eli/oc/2024/423) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.

@@ -3,18 +3,18 @@ sr: "946.231.149.82"
 title: Verordnung vom 30. März 2011 über Massnahmen gegenüber Libyen
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/203"
 language: de
-version: 2024-03-15
+version: 2024-08-16
 adopted: 2011-03-30
 in_force: 2011-03-31
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/203/20240315/de/xml/fedlex-data-admin-ch-eli-cc-2011-203-20240315-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/203/20240315/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/203/20240816/de/xml/fedlex-data-admin-ch-eli-cc-2011-203-20240816-de-xml-9.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/203/20240816/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen gegenüber Libyen
 
-vom 30. März 2011 (Stand am 15. März 2024)
+vom 30. März 2011 (Stand am 16. August 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -291,12 +291,13 @@ Anhang 1
   - 11\.3 Daumenschellen und Daumenschrauben, einschliesslich gezackter Daumenschellen.
 
 - 12 Tragbare Elektroschockgeräte, einschliesslich Elektroschock-Schlagstöcken, Elektroschock-Schilden, Elektroschockern (Paralysern) und Elektroschock-Pfeilwaffen, die eine Leerlaufspannung von mehr als 10 000 Volt haben und die nicht von Ziffer 1 des Anhangs 5 GKV erfasst werden. Nicht erfasst sind einzelne Elektroschockgeräte, wenn diese zum persönlichen Schutz mitgeführt werden.
-- 13 Substanzen zur Bekämpfung von Ausschreitungen und Unruhen oder zum Selbstschutz sowie dazugehörige tragbare Ausbringungsausrüstung,
+- 13
 
-  wie folgt:
+  Substanzen zur Bekämpfung von Ausschreitungen und Unruhen oder zum Selbstschutz sowie dazugehörige tragbare Ausbringungsausrüstung, wie folgt:
 
-  - 13\.1 tragbare Geräte zur Bekämpfung von Ausschreitungen und Unruhen oder zum Selbstschutz durch Verabreichung oder Verbreitung einer handlungsunfähig machenden chemischen Substanz, die nicht von Ziffer 1 des Anhangs 5 GKV erfasst werden.Nicht erfasst sind einzelne tragbare Geräte mit oder ohne chemische Substanz, wenn diese zum persönlichen Schutz mitgeführt werden.
-  - 13\.2 Pelargonsäurevanillylamid (Nonivamid, PAVA) (CAS-Nr. 2444-46-4);
+  - 13\.1 tragbare Geräte zur Bekämpfung von Ausschreitungen und Unruhen oder zum Selbstschutz durch Verabreichung oder Verbreitung einer handlungsunfähig machenden chemischen Substanz, die nicht von Ziffer 1 des Anhangs 5 GKV erfasst werden.
+  - Nicht erfasst sind einzelne tragbare Geräte mit oder ohne chemische Substanz, wenn diese zum persönlichen Schutz mitgeführt werden.
+  - 13\.2 Pelargonsäurevanillylamid (Nonivamid, PAVA) (CAS-Nr. 2444-46-4).
   - 13\.3 Oleoresin Capsicum (OC) (CAS-Nr. 8023-77-6).
 
 - 14 Ausrüstung, besonders konstruiert für die Herstellung der in dieser Liste aufgeführten Güter.
@@ -331,8 +332,8 @@ Anhang 3[^t-2]
 
 [^annex3-lvlu1-1]
 
-[^t-2]: Bereinigt gemäss Ziff. I 16 der V vom 19. Dez. 2012 ([AS 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)), Ziff. I der V des WBF vom 20. März 2013 ([AS 2013 957](https://fedlex.data.admin.ch/eli/oc/2013/198)), vom 14. Juni 2013 ([AS 2013 2073](https://fedlex.data.admin.ch/eli/oc/2013/432)), vom 19. Febr. 2014 ([AS 2014 541](https://fedlex.data.admin.ch/eli/oc/2014/107)), vom 24. März 2015 ([AS 2015 985](https://fedlex.data.admin.ch/eli/oc/2015/182)), vom 27. Aug. 2015 ([AS 2015 2971](https://fedlex.data.admin.ch/eli/oc/2015/563)), vom 5. Febr. 2016 ([AS 2016 477](https://fedlex.data.admin.ch/eli/oc/2016/80)), vom 8. Mai 2017 ([AS 2017 2805](https://fedlex.data.admin.ch/eli/oc/2017/287)), vom 15. Aug. 2018 ([AS 2018 3023](https://fedlex.data.admin.ch/eli/oc/2018/471)), vom 21. Aug. 2019 ([AS 2019 2629](https://fedlex.data.admin.ch/eli/oc/2019/489)), vom 12. Aug. 2020 ([AS 2020 3551](https://fedlex.data.admin.ch/eli/oc/2020/627)), vom 5. Okt. 2020 ([AS 2020 3969](https://fedlex.data.admin.ch/eli/oc/2020/736)), vom 14. Okt. 2020 ([AS 2020 4155](https://fedlex.data.admin.ch/eli/oc/2020/760)), vom 27. Okt. 2020 ([AS 2020 4519](https://fedlex.data.admin.ch/eli/oc/2020/796)), vom 19. April 2021 ([AS 2021 228](https://fedlex.data.admin.ch/eli/oc/2021/228)), vom 5. Mai 2021 ([AS 2021 264](https://fedlex.data.admin.ch/eli/oc/2021/264)), vom 12. Aug. 2021 ([AS 2021 485](https://fedlex.data.admin.ch/eli/oc/2021/485)), vom 23. Nov. 2021 ([AS 2021 745](https://fedlex.data.admin.ch/eli/oc/2021/745)), vom 13. Jan. 2022 ([AS 2022 6](https://fedlex.data.admin.ch/eli/oc/2022/6)), vom 23. Jan. 2023 ([AS 2023 24](https://fedlex.data.admin.ch/eli/oc/2023/24)) und vom 27. Nov. 2023, in Kraft seit 28. Nov. 2023 um 18.00 Uhr ([AS 2023 691](https://fedlex.data.admin.ch/eli/oc/2023/691)).
-[^annex3-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2023/691](https://fedlex.data.admin.ch/eli/oc/2023/691) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-2]: Bereinigt gemäss Ziff. I 16 der V vom 19. Dez. 2012 ([AS 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)), Ziff. I der V des WBF vom 20. März 2013 ([AS 2013 957](https://fedlex.data.admin.ch/eli/oc/2013/198)), vom 14. Juni 2013 ([AS 2013 2073](https://fedlex.data.admin.ch/eli/oc/2013/432)), vom 19. Febr. 2014 ([AS 2014 541](https://fedlex.data.admin.ch/eli/oc/2014/107)), vom 24. März 2015 ([AS 2015 985](https://fedlex.data.admin.ch/eli/oc/2015/182)), vom 27. Aug. 2015 ([AS 2015 2971](https://fedlex.data.admin.ch/eli/oc/2015/563)), vom 5. Febr. 2016 ([AS 2016 477](https://fedlex.data.admin.ch/eli/oc/2016/80)), vom 8. Mai 2017 ([AS 2017 2805](https://fedlex.data.admin.ch/eli/oc/2017/287)), vom 15. Aug. 2018 ([AS 2018 3023](https://fedlex.data.admin.ch/eli/oc/2018/471)), vom 21. Aug. 2019 ([AS 2019 2629](https://fedlex.data.admin.ch/eli/oc/2019/489)), vom 12. Aug. 2020 ([AS 2020 3551](https://fedlex.data.admin.ch/eli/oc/2020/627)), vom 5. Okt. 2020 ([AS 2020 3969](https://fedlex.data.admin.ch/eli/oc/2020/736)), vom 14. Okt. 2020 ([AS 2020 4155](https://fedlex.data.admin.ch/eli/oc/2020/760)), vom 27. Okt. 2020 ([AS 2020 4519](https://fedlex.data.admin.ch/eli/oc/2020/796)), vom 19. April 2021 ([AS 2021 228](https://fedlex.data.admin.ch/eli/oc/2021/228)), vom 5. Mai 2021 ([AS 2021 264](https://fedlex.data.admin.ch/eli/oc/2021/264)), vom 12. Aug. 2021 ([AS 2021 485](https://fedlex.data.admin.ch/eli/oc/2021/485)), vom 23. Nov. 2021 ([AS 2021 745](https://fedlex.data.admin.ch/eli/oc/2021/745)), vom 13. Jan. 2022 ([AS 2022 6](https://fedlex.data.admin.ch/eli/oc/2022/6)), vom 23. Jan. 2023 ([AS 2023 24](https://fedlex.data.admin.ch/eli/oc/2023/24)), vom 27. Nov. 2023 ([AS 2023 691](https://fedlex.data.admin.ch/eli/oc/2023/691)) und vom 15. Aug. 2024, in Kraft seit 16. Aug. 2024 um 18.00 Uhr ([AS 2024 423](https://fedlex.data.admin.ch/eli/oc/2024/423)).
+[^annex3-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/423](https://fedlex.data.admin.ch/eli/oc/2024/423) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 4[^t-3]
 
@@ -340,16 +341,19 @@ Anhang 4[^t-3]
 
 ## Natürliche Personen, gegen die sich das Ein- und Durchreiseverbot richtet
 
-[^t-3]: Fassung gemäss Ziff. I 13 der V vom 4. März 2016 über die automatische Übernahme von Sanktionslisten des Sicherheitsrats der Vereinten Nationen, in Kraft seit 4. März 2016 ([AS 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
+[^annex4-lvlu1-1]
+
+[^t-3]: Fassung gemäss Ziff. I 13 der V vom 4. März 2016 über die automatische Übernahme von Sanktionslisten des Sicherheitsrats der Vereinten Nationen ([AS 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)). Bereinigt gemäss Ziff. I der V des WBF vom 15. Aug. 2024, in Kraft seit 16. Aug. 2024 um 18.00 Uhr ([AS 2024 423](https://fedlex.data.admin.ch/eli/oc/2024/423)).
+[^annex4-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/423](https://fedlex.data.admin.ch/eli/oc/2024/423) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 **Anmerkung**
 
-\1. Dieser Anhang entspricht den Listen der vom Sicherheitsrat der Vereinten Nationen bzw. der vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bezeichneten natürlichen Personen.[^annex4-lvlu1-1]
+\1. Dieser Anhang entspricht den Listen der vom Sicherheitsrat der Vereinten Nationen bzw. der vom zuständigen Komitee des Sicherheitsrats der Vereinten Nationen bezeichneten natürlichen Personen.[^annex4-lvlu1-2]
 
-\2. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen.[^annex4-lvlu1-2]
+\2. Die Listen werden vom SECO in der Regel einen Werktag nach der Mitteilung durch die Vereinten Nationen in die Datenbank SESAM (SECO Sanctions Management) aufgenommen.[^annex4-lvlu1-3]
 
-[^annex4-lvlu1-1]: Die Liste ist im Internet unter folgender Adresse abrufbar: [https://www.un.org/securitycouncil/](https://www.un.org/securitycouncil/) &gt; Sanctions &gt; Libya Sanctions Committee &gt; Sanctions List Materials.
-[^annex4-lvlu1-2]: Die Datenbank SESAM ist im Internet frei zugänglich unter: www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos. Ein Ausdruck der Liste kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden.
+[^annex4-lvlu1-2]: Die Liste ist im Internet unter folgender Adresse abrufbar: [https://www.un.org/securitycouncil/](https://www.un.org/securitycouncil/) &gt; Sanctions &gt; Libya Sanctions Committee &gt; Sanctions List Materials.
+[^annex4-lvlu1-3]: Die Datenbank SESAM ist im Internet frei zugänglich unter: www.seco.admin.ch &gt; Aussenwirtschaft & Wirtschaftliche Zusammenarbeit &gt; Exportkontrollen und Sanktionen &gt; Sanktionen/Embargos. Ein Ausdruck der Liste kann beim SECO, Ressort Sanktionen, Holzikofenweg 36, 3003 Bern, bestellt werden.
 
 Anhang 5[^t-4]
 
@@ -359,5 +363,5 @@ Anhang 5[^t-4]
 
 [^annex5-lvlu1-1]
 
-[^t-4]: Bereinigt gemäss Ziff. I 16 der V vom 19. Dez. 2012 ([AS 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)), Ziff. I der V des WBF vom 14. Juni 2013 ([AS 2013 2073](https://fedlex.data.admin.ch/eli/oc/2013/432)), vom 24. März 2015 ([AS 2015 985](https://fedlex.data.admin.ch/eli/oc/2015/182)), vom 27. Aug. 2015 ([AS 2015 2971](https://fedlex.data.admin.ch/eli/oc/2015/563)), vom 5. Febr. 2016 ([AS 2016 477](https://fedlex.data.admin.ch/eli/oc/2016/80)), vom 8. Mai 2017 ([AS 2017 2805](https://fedlex.data.admin.ch/eli/oc/2017/287)), vom 15. Aug. 2018 ([AS 2018 3023](https://fedlex.data.admin.ch/eli/oc/2018/471)), vom 21. Aug. 2019 ([AS 2019 2629](https://fedlex.data.admin.ch/eli/oc/2019/489)), vom 12. Aug. 2020 ([AS 2020 3551](https://fedlex.data.admin.ch/eli/oc/2020/627)), vom 5. Okt. 2020 ([AS 2020 3969](https://fedlex.data.admin.ch/eli/oc/2020/736)), vom 14. Okt. 2020 ([AS 2020 4155](https://fedlex.data.admin.ch/eli/oc/2020/760)), vom 27. Okt. 2020 ([AS 2020 4519](https://fedlex.data.admin.ch/eli/oc/2020/796)), vom 19. April 2021 ([AS 2021 228](https://fedlex.data.admin.ch/eli/oc/2021/228)), vom 5. Mai 2021 ([AS 2021 264](https://fedlex.data.admin.ch/eli/oc/2021/264)), vom 12. Aug. 2021 ([AS 2021 485](https://fedlex.data.admin.ch/eli/oc/2021/485)), vom 23. Nov. 2021 ([AS 2021 745](https://fedlex.data.admin.ch/eli/oc/2021/745)), vom 13. Jan. 2022 ([AS 2022 6](https://fedlex.data.admin.ch/eli/oc/2022/6)), vom 23. Jan. 2023 ([AS 2023 24](https://fedlex.data.admin.ch/eli/oc/2023/24)) und vom 27. Nov. 2023, in Kraft seit 28. Nov. 2023 um 18.00 Uhr ([AS 2023 691](https://fedlex.data.admin.ch/eli/oc/2023/691)).
-[^annex5-lvlu1-1]: Der Inhalt dieser Anhänge wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2023/691](https://fedlex.data.admin.ch/eli/oc/2023/691) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-4]: Bereinigt gemäss Ziff. I 16 der V vom 19. Dez. 2012 ([AS 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)), Ziff. I der V des WBF vom 14. Juni 2013 ([AS 2013 2073](https://fedlex.data.admin.ch/eli/oc/2013/432)), vom 24. März 2015 ([AS 2015 985](https://fedlex.data.admin.ch/eli/oc/2015/182)), vom 27. Aug. 2015 ([AS 2015 2971](https://fedlex.data.admin.ch/eli/oc/2015/563)), vom 5. Febr. 2016 ([AS 2016 477](https://fedlex.data.admin.ch/eli/oc/2016/80)), vom 8. Mai 2017 ([AS 2017 2805](https://fedlex.data.admin.ch/eli/oc/2017/287)), vom 15. Aug. 2018 ([AS 2018 3023](https://fedlex.data.admin.ch/eli/oc/2018/471)), vom 21. Aug. 2019 ([AS 2019 2629](https://fedlex.data.admin.ch/eli/oc/2019/489)), vom 12. Aug. 2020 ([AS 2020 3551](https://fedlex.data.admin.ch/eli/oc/2020/627)), vom 5. Okt. 2020 ([AS 2020 3969](https://fedlex.data.admin.ch/eli/oc/2020/736)), vom 14. Okt. 2020 ([AS 2020 4155](https://fedlex.data.admin.ch/eli/oc/2020/760)), vom 27. Okt. 2020 ([AS 2020 4519](https://fedlex.data.admin.ch/eli/oc/2020/796)), vom 19. April 2021 ([AS 2021 228](https://fedlex.data.admin.ch/eli/oc/2021/228)), vom 5. Mai 2021 ([AS 2021 264](https://fedlex.data.admin.ch/eli/oc/2021/264)), vom 12. Aug. 2021 ([AS 2021 485](https://fedlex.data.admin.ch/eli/oc/2021/485)), vom 23. Nov. 2021 ([AS 2021 745](https://fedlex.data.admin.ch/eli/oc/2021/745)), vom 13. Jan. 2022 ([AS 2022 6](https://fedlex.data.admin.ch/eli/oc/2022/6)), vom 23. Jan. 2023 ([AS 2023 24](https://fedlex.data.admin.ch/eli/oc/2023/24)), vom 27. Nov. 2023 ([AS 2023 691](https://fedlex.data.admin.ch/eli/oc/2023/691)) und vom 15. Aug. 2024, in Kraft seit 16. Aug. 2024 um 18.00 Uhr ([AS 2024 423](https://fedlex.data.admin.ch/eli/oc/2024/423)).
+[^annex5-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/423](https://fedlex.data.admin.ch/eli/oc/2024/423) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
