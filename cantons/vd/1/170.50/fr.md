@@ -1,28 +1,24 @@
 ---
 canton: VD
 number: "170.50"
-title: ARRÊTÉ du 03.07.2024 de mise en vigueur
+title: ARRÊTÉ du 14.08.2024 de mise en vigueur
 language: fr
-version: 2024-07-09
-url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=b852f7a3-66ae-4fe8-aa2c-1ff442f2aaa2"
+version: 2024-08-20
+url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/170.50?id=abb92a9a-36f3-4334-89f4-99643faf2957"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VD. Seule la publication officielle du canton fait foi.
 
 # ARRÊTÉ de mise en vigueur
 
-du 3 juillet 2024
+du 14 août 2024
 
 LE CONSEIL D'ÉTAT DU CANTON DE VAUD
 
-vu le préavis de la Direction générale des affaires institutionnelles et des communes
+vu le préavis de la Direction des affaires institutionnelles et des communes
 
 arrête
 
 #### Art. 1
 
-<sup>1</sup> Les lois ci-après du 21 novembre 2023, publiées dans la "Feuille des avis officiels du Canton de Vaud" du 15 décembre 2023, entrent en vigueur avec effet au 15 juillet 2024 :
-
-- 1\. loi du 21 novembre 2023 modifiant celle du 6 décembre 1988 sur les procédés de réclame (BLV 943.11) ;
-- 2\. loi du 21 novembre 2023 modifiant celle du 31 mai 2005 sur l'exercice des activités économiques (BLV 930.01) ;
-- 3\. loi du 21 novembre 2023 modifiant celle du 23 juin 2009 sur l'interdiction de fumer dans les lieux publics (BLV 800.02).
+<sup>1</sup> L'article 6 de la loi du 14 juin 2022 sur les marchés publics (BLV 726.01) publiée dans la "Feuille des avis officiels du Canton de Vaud" du 28 juin 2022, entre en vigueur avec effet au 1er janvier 2023.
