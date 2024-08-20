@@ -3,11 +3,11 @@ sr: "0.232.121.4"
 title: Genfer Akte vom 2. Juli 1999 des Haager Abkommens über die internationale Eintragung gewerblicher Muster und Modelle
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/98"
 language: de
-version: 2022-09-20
+version: 2024-08-21
 adopted: 1999-07-02
 in_force: 2003-12-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/98/20220920/de/xml/fedlex-data-admin-ch-eli-cc-2004-98-20220920-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/98/20220920/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/98/20240821/de/xml/fedlex-data-admin-ch-eli-cc-2004-98-20240821-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/98/20240821/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 11. September 2002
 
 In Kraft getreten für die Schweiz am 23. Dezember 2003
 
-(Stand am 20. September 2022)
+(Stand am 21. August 2024)
 
 [^t-1]: [AS 2004 839](https://fedlex.data.admin.ch/eli/oc/2004/97)
 
@@ -70,9 +70,9 @@ Im Sinne dieses Abkommens bedeutet:
 
 [^1-1]: [SR 0.232.121.2](https://fedlex.data.admin.ch/eli/cc/1984/889_889_889)
 [^1-2]: [SR 0.232.04](https://fedlex.data.admin.ch/eli/cc/1970/620_620_620)
-[^1-3]: [BS **11** 1045; [AS 1971 266](https://fedlex.data.admin.ch/eli/oc/1971/266_270_270), [1975 1599](https://fedlex.data.admin.ch/eli/oc/1975/1599_1598_1598), [1984 886](https://fedlex.data.admin.ch/eli/oc/1984/886_886_886), [1987 587](https://fedlex.data.admin.ch/eli/oc/1987/587_587_587), [2004 3885](https://fedlex.data.admin.ch/eli/oc/2004/540), [2009 3635](https://fedlex.data.admin.ch/eli/oc/2009/453). [AS 2010 403](https://fedlex.data.admin.ch/eli/oc/2010/47)]
+[^1-3]: [BS **11** 1045; [AS 1971 266](https://fedlex.data.admin.ch/eli/oc/1971/266_270_270); [1975 1599](https://fedlex.data.admin.ch/eli/oc/1975/1599_1598_1598); [1984 886](https://fedlex.data.admin.ch/eli/oc/1984/886_886_886); [1987 587](https://fedlex.data.admin.ch/eli/oc/1987/587_587_587); [2004 3885](https://fedlex.data.admin.ch/eli/oc/2004/540); [2009 3635](https://fedlex.data.admin.ch/eli/oc/2009/453). [AS 2010 403](https://fedlex.data.admin.ch/eli/oc/2010/47)]
 [^1-4]: [SR 0.232.121.2](https://fedlex.data.admin.ch/eli/cc/1984/889_889_889)
-[^1-5]: [[AS 1962 1555](https://fedlex.data.admin.ch/eli/oc/1962/1555_1613_1635), [1975 1599](https://fedlex.data.admin.ch/eli/oc/1975/1599_1598_1598), [1975 1797](https://fedlex.data.admin.ch/eli/oc/1975/1797_1797_1797), [1977 225](https://fedlex.data.admin.ch/eli/oc/1977/225_225_225), [1979 157](https://fedlex.data.admin.ch/eli/oc/1979/157_157_157). [AS 2010 405](https://fedlex.data.admin.ch/eli/oc/2010/48)]
+[^1-5]: [[AS 1962 1555](https://fedlex.data.admin.ch/eli/oc/1962/1555_1613_1635); [1975 1599](https://fedlex.data.admin.ch/eli/oc/1975/1599_1598_1598); [1975 1797](https://fedlex.data.admin.ch/eli/oc/1975/1797_1797_1797); [1977 225](https://fedlex.data.admin.ch/eli/oc/1977/225_225_225); [1979 157](https://fedlex.data.admin.ch/eli/oc/1979/157_157_157). [AS 2010 405](https://fedlex.data.admin.ch/eli/oc/2010/48)]
 [^1-6]: [SR 0.232.121.12](https://fedlex.data.admin.ch/eli/cc/1975/1599_1598_1598)
 [^1-7]: [SR 0.232.01](https://fedlex.data.admin.ch/eli/cc/45/243_255_253)
 
@@ -618,7 +618,7 @@ Der Generaldirektor ist Verwahrer dieses Abkommens.
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 20. September 2022[^t-2]
+Geltungsbereich am 21. August 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -631,6 +631,7 @@ Geltungsbereich am 20. September 2022[^t-2]
 <tr><td>Belize</td><td>9. November</td><td>2018 B</td><td>9. Februar</td><td>2019</td></tr>
 <tr><td>Bosnien und Herzegowina</td><td>24. September</td><td>2008 B</td><td>24. Dezember</td><td>2008</td></tr>
 <tr><td>Botsuana</td><td>5. September</td><td>2006 B</td><td>5. Dezember</td><td>2006</td></tr>
+<tr><td>Brasilien</td><td>13. Februar</td><td>2023 B</td><td>1. August</td><td>2023</td></tr>
 <tr><td>Brunei</td><td>24. September</td><td>2013 B</td><td>24. Dezember</td><td>2013</td></tr>
 <tr><td>Bulgarien</td><td>7. Juli</td><td>2008</td><td>7. Oktober</td><td>2008</td></tr>
 <tr><td>China <sup>a</sup></td><td>5. Februar</td><td>2022 B</td><td>5. Mai</td><td>2022</td></tr>
@@ -645,8 +646,10 @@ Geltungsbereich am 20. September 2022[^t-2]
 <tr><td>Überseeische Departemente und Gebiete</td><td>18. Dezember</td><td>2006</td><td>18. März</td><td>2007</td></tr>
 <tr><td>Georgien</td><td>6. Mai</td><td>2003</td><td>23. Dezember</td><td>2003</td></tr>
 <tr><td>Ghana</td><td>16. Juni</td><td>2008 B</td><td>16. September</td><td>2008</td></tr>
+<tr><td>Griechenland</td><td>13. November</td><td>2023</td><td>13. Februar</td><td>2024</td></tr>
 <tr><td>Island</td><td>6. Juli</td><td>2001 B</td><td>23. Dezember</td><td>2003</td></tr>
 <tr><td>Israel</td><td>3. Oktober</td><td>2019 B</td><td>3. Januar</td><td>2020</td></tr>
+<tr><td>Italien</td><td>14. Dezember</td><td>2023</td><td>14. März</td><td>2024</td></tr>
 <tr><td>Jamaika</td><td>10. November</td><td>2021 B</td><td>10. Februar</td><td>2022</td></tr>
 <tr><td>Japan</td><td>13. Februar</td><td>2015 B</td><td>13. Mai</td><td>2015</td></tr>
 <tr><td>Kambodscha</td><td>25. November</td><td>2016 B</td><td>25. Februar</td><td>2017</td></tr>
@@ -660,6 +663,7 @@ Geltungsbereich am 20. September 2022[^t-2]
 <tr><td>Litauen</td><td>26. Juni</td><td>2008 B</td><td>26. September</td><td>2008</td></tr>
 <tr><td>Luxemburg\*</td><td>3. September</td><td>2013 B</td><td>18. Dezember</td><td>2018</td></tr>
 <tr><td>Marokko</td><td>22. April</td><td>2022 B</td><td>22. Juli</td><td>2022</td></tr>
+<tr><td>Mauritius</td><td>6. Februar</td><td>2023 B</td><td>6. Mai</td><td>2023</td></tr>
 <tr><td>Mexiko</td><td>6. März</td><td>2020 B</td><td>6. Juni</td><td>2020</td></tr>
 <tr><td>Moldau\*</td><td>19. Dezember</td><td>2001</td><td>23. Dezember</td><td>2003</td></tr>
 <tr><td>Monaco</td><td>9. März</td><td>2011</td><td>9. Juni</td><td>2011</td></tr>
@@ -683,6 +687,7 @@ Geltungsbereich am 20. September 2022[^t-2]
 <tr><td>Singapur</td><td>17. Januar</td><td>2005 B</td><td>17. April</td><td>2005</td></tr>
 <tr><td>Slowenien</td><td>8. Mai</td><td>2002</td><td>23. Dezember</td><td>2003</td></tr>
 <tr><td>Spanien\*</td><td>23. September</td><td>2003</td><td>23. Dezember</td><td>2003</td></tr>
+<tr><td>St. Kitts und Nevis</td><td>8. Juli</td><td>2024 B</td><td>8. Oktober</td><td>2024</td></tr>
 <tr><td>Suriname</td><td>10. Juni</td><td>2020 B</td><td>10. September</td><td>2020</td></tr>
 <tr><td>Syrien</td><td>7. Februar</td><td>2008 B</td><td>7. Mai</td><td>2008</td></tr>
 <tr><td>Tadschikistan</td><td>21. Dezember</td><td>2011 B</td><td>21. März</td><td>2012</td></tr>
@@ -697,7 +702,7 @@ Geltungsbereich am 20. September 2022[^t-2]
 <tr><td>Vereinigte Staaten</td><td>13. Februar</td><td>2015</td><td>13. Mai</td><td>2015</td></tr>
 <tr><td>Vietnam</td><td>30. September</td><td>2019 B</td><td>30. Dezember</td><td>2019</td></tr>
 <tr><td colspan="5">\* Vorbehalte und Erklärungen.</td></tr>
-<tr><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Weltorganisation für geistiges Eigentum: www.wipo.int/ &gt; Français &gt; Savoirs &gt; Traités administrés par l’OMPI eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Die Genfer Akte gilt nicht für Hongkong und Macao.</td></tr>
+<tr><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Weltorganisation für geistiges Eigentum: www.wipo.int/ &gt; Français &gt; Trouver et decouvrir &gt; Traités administrés par l’OMPI eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Die Genfer Akte gilt nicht für Hongkong und Macao.</td></tr>
 </table>
 
-[^t-2]: [AS 2004 841](https://fedlex.data.admin.ch/eli/oc/2004/98); [2005 3565](https://fedlex.data.admin.ch/eli/oc/2005/514); [2007 3841](https://fedlex.data.admin.ch/eli/oc/2007/498); [2008 4051](https://fedlex.data.admin.ch/eli/oc/2008/556); [2009 3153](https://fedlex.data.admin.ch/eli/oc/2009/393); [2011 2969](https://fedlex.data.admin.ch/eli/oc/2011/386); [2014 965](https://fedlex.data.admin.ch/eli/oc/2014/215); [2016 3413](https://fedlex.data.admin.ch/eli/oc/2016/574); [2019 2187](https://fedlex.data.admin.ch/eli/oc/2019/405); [2020 3685](https://fedlex.data.admin.ch/eli/oc/2020/669); [2022 530](https://fedlex.data.admin.ch/eli/oc/2022/530). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht https://www.fedlex.admin.ch/de/treaty
+[^t-2]: [AS 2004 841](https://fedlex.data.admin.ch/eli/oc/2004/98); [2005 3565](https://fedlex.data.admin.ch/eli/oc/2005/514); [2007 3841](https://fedlex.data.admin.ch/eli/oc/2007/498); [2008 4051](https://fedlex.data.admin.ch/eli/oc/2008/556); [2009 3153](https://fedlex.data.admin.ch/eli/oc/2009/393); [2011 2969](https://fedlex.data.admin.ch/eli/oc/2011/386); [2014 965](https://fedlex.data.admin.ch/eli/oc/2014/215); [2016 3413](https://fedlex.data.admin.ch/eli/oc/2016/574); [2019 2187](https://fedlex.data.admin.ch/eli/oc/2019/405); [2020 3685](https://fedlex.data.admin.ch/eli/oc/2020/669); [2022 530](https://fedlex.data.admin.ch/eli/oc/2022/530); [2024 443](https://fedlex.data.admin.ch/eli/oc/2024/443). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
