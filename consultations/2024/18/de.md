@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Änderung der Verordnung über die Transplantation von menschlichen Organen, Geweben und Zellen (Transplantationsverordnung)"
 document: Vernehmlassungsvorlage
 language: de

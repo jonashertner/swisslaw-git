@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifica dell’ordinanza concernente il trapianto di organi, tessuti e cellule umani (ordinanza sui trapianti)"
 document: Progetto posto in consultazione
 language: it
