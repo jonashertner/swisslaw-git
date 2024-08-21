@@ -4,13 +4,12 @@ number: "310.120"
 title: Verordnung über die Fachpersonen und Betriebe im Gesundheitswesen
 short: Bewilligungsverordnung
 language: de
-version: 2020-03-01
-valid_until: 2024-08-21
-version_adopted: 2020-02-18
+version: 2024-08-22
+version_adopted: 2024-08-13
 adopted: 2011-12-06
 in_force: 2012-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/310.120"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6233/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6382/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Bewilligungsverordnung | Medizinalpersonen / Komplementärmedizin
 
 (Bewilligungsverordnung)
 
-Vom 6. Dezember 2011 (Stand 1. März 2020)
+Vom 6. Dezember 2011 (Stand 22. August 2024)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -390,12 +389,12 @@ beschliesst:
 
 **Eingeschränkte Stellvertretung in Apotheken**
 
-<sup>1</sup> Für die Stellvertretung in Apotheken kann auf die Anforderungen an die praktische Weiterbildung gemäss § 35 Abs. 1 verzichtet werden, sofern folgende Nachweise alternativ erbracht werden:
+<sup>1</sup> Für die Stellvertretung in Apotheken kann auf die Anforderung eines eidgenössischen Weiterbildungstitels verzichtet werden, sofern folgende Nachweise alternativ erbracht werden:
 
 - a) Nachweis der Tätigkeit in einer öffentlichen Apotheke von mindestens sechs Monaten in einem Pensum von 100 Stellenprozenten;
 - b) Nachweis der Tätigkeit in der Apotheke, für welche die Bewilligung erteilt wird, von mindestens drei Monaten in einem Pensum von 100 Stellenprozenten.
 
-<sup>2</sup> Die Bewilligung berechtigt zu Vertretungen während maximal zwanzig Stunden pro Woche sowie während maximal vier Wochen pro Jahr.
+<sup>2</sup> Die Bewilligung berechtigt zu Vertretungen während maximal zwanzig Stunden pro Woche sowie während maximal sechs Wochen pro Jahr.
 
 <sup>3</sup> Pro Apotheke wird in der Regel eine Vertretung bewilligt.
 
