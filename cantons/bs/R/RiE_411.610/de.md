@@ -4,13 +4,13 @@ number: RiE 411.610
 title: Reglement für die Schulen der Gemeinden Bettingen und Riehen
 short: Schulreglement
 language: de
-version: 2022-01-01
-valid_until: 2024-08-21
-version_adopted: 2021-12-14
+version: 2024-08-22
+valid_until: 2025-04-16
+version_adopted: 2024-08-13
 adopted: 2009-06-16
 in_force: 2009-08-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/RiE%20411.610"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5391/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6379/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Schulreglement | Riehen: Einwohnergemeinde
 
 (Schulreglement)
 
-Vom 16. Juni 2009 (Stand 1. Januar 2022)
+Vom 16. Juni 2009 (Stand 22. August 2024)
 
 Der Gemeinderat Riehen
 
@@ -167,21 +167,15 @@ erlässt gestützt auf die Ordnung für die Schulen der Gemeinden Bettingen und 
 
 <sup>1</sup> Jeder Schulrat setzt sich wie folgt zusammen:
 
-a) eine schulexterne Präsidentin oder ein schulexterner Präsident;
-
-b) drei bis sechs schulexterne Mitglieder:
-
-– ein oder zwei vom Elternrat gewählte Elterndelegierte, deren Kinder die betreffende Schule besuchen;
-
-– zwei oder drei an Schulfragen interessierte Personen;
-
-– eine Delegierte oder ein Delegierter der Gemeindeversammlung Bettingen bzw. der zuständigen Sachkommission des Einwohnerrats Riehen, sofern diese eine Delegation vornehmen;
-
-c) zwei schulinterne Mitglieder:
-
-– eine Vertretung der Schulleitung;
-
-– eine Vertretung der Lehrpersonen.
+- a) eine schulexterne Präsidentin oder ein schulexterner Präsident;
+- b) drei bis sechs schulexterne Mitglieder:
+  - 1\. ein oder zwei vom Elternrat gewählte Elterndelegierte, deren Kinder die betreffende Schule besuchen,
+  - 2\. zwei oder drei an Schulfragen interessierte Personen,
+  - 3\. eine delegierte Person der Gemeindeversammlung Bettingen bzw. der zuständigen Sachkommission des Einwohnerrats Riehen, sofern diese eine Delegation vornehmen;
+- c) drei schulinterne Mitglieder:
+  - 1\. eine Vertretung der Schulleitung,
+  - 2\. eine Vertretung der Lehrpersonen,
+  - 3\. eine Vertretung der Tagesstrukturen.
 
 <sup>2</sup> Der Elternrat ernennt die Elterndelegierten für den Schulrat gemäss den kantonalen Bestimmungen. Elterndelegierte können bis Ende der vierjährigen Amtsperiode im Amt bleiben, auch wenn ihre Kinder die betreffende Schule nicht mehr besuchen.
 
@@ -201,7 +195,7 @@ c) zwei schulinterne Mitglieder:
 
 #### § 10c
 
-**Richtlinie zu den Aufgaben der Schulräte**
+**Weisung zu den Aufgaben der Schulräte**
 
 <sup>1</sup> Die zuständige Abteilungsleitung erlässt eine Weisung betreffend Sitzungen des Schulrats, Vermittlungsverfahren und Unterrichtsbesuche.
 
@@ -474,7 +468,7 @@ c) zwei schulinterne Mitglieder:
 
 **Personal der Gemeindeschulen**
 
-<sup>1</sup> Für die Erhebung, Aufbewahrung und Vernichtung von Personendaten der Lehrpersonen, Fachpersonen sowie der Mitarbeiterinnen und Mitarbeiter der Schulverwaltung gilt § 5a der Personalordnung.
+<sup>1</sup> Für die Erhebung, Aufbewahrung und Vernichtung von Personendaten der Lehrpersonen, Fachpersonen sowie der Mitarbeitenden der Schulverwaltung gilt § 5a des Personalreglements.
 
 #### § 36
 
@@ -482,9 +476,14 @@ c) zwei schulinterne Mitglieder:
 
 <sup>1</sup> Personendaten der Schülerinnen und Schüler bzw. deren Eltern dürfen nur bearbeitet werden, wenn die Bearbeitung gesetzlich vorgesehen oder dies für die Aufgabenerfüllung der Schule notwendig ist.
 
+<sup>1<sup>bis</sup></sup> Besondere Personendaten der Schülerinnen und Schüler dürfen insbesondere im Zusammenhang mit der Förderung und Integration von Schülerinnen und Schülern, Platzierungen in der Kriseninterventionsstelle oder im Zusammenhang mit Gefährdungsmeldungen bearbeitet werden.
+
 <sup>2</sup> Die Personendaten sind grundsätzlich bei den betroffenen Schülerinnen und Schülern oder Eltern zu erheben und dürfen nur zu schulischen Zwecken verwendet werden. Sofern dies für die Aufgabenerfüllung notwendig ist, können Daten auch beim Erziehungsdepartement erhoben werden.
 
-<sup>3</sup> Die Verwaltungsleiterin oder der Verwaltungsleiter erlässt gemeinsam mit der Abteilungsleitung und in Absprache mit der Datenschutzberaterin oder dem Datenschutzberater der Gemeinde Richtlinien über die Datenbearbeitung, insbesondere bei Leistungstests. Die Schulleitungen erlassen gemeinsam eine Richtlinie zur Datenbearbeitung der Personendaten in den Dossiers der Schülerinnen und Schüler.
+<sup>3</sup> Die Verwaltungsleiterin oder der Verwaltungsleiter regelt gemeinsam mit der Abteilungsleitung und nach Rücksprache mit den Schulleitungen jeweils in einer Richtlinie:
+
+- a) die Datenbearbeitung im Zusammenhang mit Leistungstests sowie
+- b) die datenschutzrechtlichen Vorgaben für das elektronische Dossier der Schülerinnen und Schüler, insbesondere die Zugriffsberechtigungen, die Aufbewahrung und die Löschung von Personendaten.
 
 #### § 37
 
