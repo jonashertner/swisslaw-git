@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordinanza sulle misure tese a ridurre il prelievo di energia elettrica da parte degli impianti centralizzati di depurazione delle acque di scarico comunali
 document: Progetto posto in consultazione
 language: it

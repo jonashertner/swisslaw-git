@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnung über Massnahmen zur Senkung des Bezugs von elektrischer Energie durch zentrale Abwasserreinigungsanlagen für kommunales Abwasser
 document: Vernehmlassungsvorlage
 language: de

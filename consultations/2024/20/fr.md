@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordonnance sur les mesures visant à réduire le soutirage d’énergie électrique par les stations centrales d’épuration des eaux usées communales
 document: Projet mis en consultation
 language: fr
