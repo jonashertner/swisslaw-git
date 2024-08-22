@@ -4,11 +4,11 @@ title: "Ordonnance du 15 août 2018 sur l'entrée et l'octroi de visas (OEV)"
 short: OEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: fr
-version: 2024-08-01
+version: 2024-08-23
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20240801/fr/xml/fedlex-data-admin-ch-eli-cc-2018-493-20240801-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20240801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20240823/fr/xml/fedlex-data-admin-ch-eli-cc-2018-493-20240823-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20240823/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20240801/fr"
 
 (OEV)
 
-du 15 août 2018 (État le 1<sup>er</sup> août 2024)
+du 15 août 2018 (État le 23 août 2024)
 
 Le Conseil fédéral suisse,
 
@@ -312,10 +312,10 @@ Conformément à l’art. 3, par. 5, du code des visas, les personnes suivantes 
 
   les ressortissants d’un État qui n’est membre ni de l’UE ni de l’AELE titulaires de l’un des titres de séjour suivants:
 
-  - 1\. titre de séjour en cours de validité délivré par Andorre, le Canada, les États-Unis, le Japon ou Saint-Marin, conformément à l’annexe V du code des visas, et garantissant à son titulaire un droit de réadmission inconditionnel,
+  - 1\.[^10-3] titre de séjour en cours de validité délivré par Andorre, le Canada, les États-Unis, le Japon, le Royaume-Uni ou Saint-Marin conformément à l’annexe V du code des visas, et garantissant à son titulaire un droit de réadmission inconditionnel,
   - 2\. titre de séjour en cours de validité pour un pays ou territoire d’outre-mer des Pays-Bas (Aruba, Curaçao, Sint Maarten, Bonaire, Sint Eustatius et Saba);
 
-- c.[^10-3]
+- c.[^10-4]
 
   les ressortissants d’un État qui n’est membre ni de l’UE ni de l’AELE titulaires d’un visa valable pour l’un des États ci-après:
 
@@ -323,20 +323,23 @@ Conformément à l’art. 3, par. 5, du code des visas, les personnes suivantes 
   - 2\. Canada, États-Unis ou Japon,
   - 3\. pays ou territoire d’outre-mer des Pays-Bas (Aruba, Curaçao, Sint Maarten, Bonaire, Sint Eustatius et Saba);
 
-- d. les membres de la famille de ressortissants d’un État membre de l’UE visés à l’annexe I, art. 3, de l’Accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres, d’autre part, sur la libre circulation des personnes (accord sur la libre circulation des personnes)[^10-4];
+- d.[^10-5] les membres de la famille de ressortissants d’un État membre de l’UE visés à l’annexe I, art. 3, de l’Accord du 21 juin 1999 entre la Confédération suisse, d’une part, et la Communauté européenne et ses États membres sur la libre circulation des personnes (accord sur la libre circulation des personnes)[^10-6], d’autre part, et les membres de la famille de ressortissants britanniques qui sont bénéficiaires de l’Accord du 25 février 2019 entre la Confédération suisse et le Royaume-Uni de Grande-Bretagne et d’Irlande du Nord relatif aux droits des citoyens à la suite du retrait du Royaume-Uni de l’Union européenne et de la fin de l’applicabilité de l’accord sur la libre circulation des personnes[^10-7];
 - e. les titulaires d’un passeport diplomatique valable et reconnu délivré par l’un des États mentionnés à l’al. 2;
-- f. les membres d’équipage des avions qui sont ressortissants d’un État partie à la Convention du 7 décembre 1944 relative à l’aviation civile internationale[^10-5].
+- f. les membres d’équipage des avions qui sont ressortissants d’un État partie à la Convention du 7 décembre 1944 relative à l’aviation civile internationale[^10-8].
 
-<sup>4bis</sup> Si les personnes visées à l’al. 4, let. c, effectuent leur voyage de retour après l’expiration de leur visa, l’exemption de l’obligation de visa n’est applicable que s’ils reviennent de l’État qui l’a délivré.[^10-6]
+<sup>4bis</sup> Si les personnes visées à l’al. 4, let. c, effectuent leur voyage de retour après l’expiration de leur visa, l’exemption de l’obligation de visa n’est applicable que s’ils reviennent de l’État qui l’a délivré.[^10-9]
 
 <sup>5</sup> Les passagers d’aéronefs libérés de l’obligation de visa en vertu des art. 8 et 9 sont également libérés de l’obligation de visa de transit aéroportuaire.
 
 [^10-1]: Cf. note de bas de page relative à l’art. 1, al. 4, let. c.
 [^10-2]: Nouvelle teneur selon le ch. I de l’O du 14 août 2019, en vigueur depuis le 2 fév. 2020 ([RO 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
-[^10-3]: Nouvelle teneur selon le ch. I de l’O du 14 août 2019, en vigueur depuis le 2 fév. 2020 ([RO 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
-[^10-4]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^10-5]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
-[^10-6]: Introduit par le ch. I de l’O du 14 août 2019, en vigueur depuis le 2 fév. 2020 ([RO 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^10-3]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 23 août 2024 ([RO 2024 434](https://fedlex.data.admin.ch/eli/oc/2024/434)).
+[^10-4]: Nouvelle teneur selon le ch. I de l’O du 14 août 2019, en vigueur depuis le 2 fév. 2020 ([RO 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^10-5]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 23 août 2024 ([RO 2024 434](https://fedlex.data.admin.ch/eli/oc/2024/434)).
+[^10-6]: [RS 0.142.112.681](https://www.fedlex.admin.ch/eli/cc/2002/243/fr)
+[^10-7]: [RS 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
+[^10-8]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^10-9]: Introduit par le ch. I de l’O du 14 août 2019, en vigueur depuis le 2 fév. 2020 ([RO 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 
 ## Section 3 Visa de court séjour et visa de transit aéroportuaire
 
@@ -1392,6 +1395,6 @@ Annexe 5[^t-4]
 
 ## Actes d’exécution et actes délégués de la Commission européenne portant suspension temporaire de l’exemption de visa pour les séjours de courte durée fondés sur le règlement (UE) 2018/1806
 
-[^t-4]: Introduite par le ch. II de l’O du 10 juin 2022 ([RO 2022 344](https://fedlex.data.admin.ch/eli/oc/2022/344)). Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> fév. 2023, en vigueur depuis le 4 fév. 2023 ([RO 2023 44](https://fedlex.data.admin.ch/eli/oc/2023/44)).
+[^t-4]: Introduite par le ch. II de l’O du 10 juin 2022 ([RO 2022 344](https://fedlex.data.admin.ch/eli/oc/2022/344)). Nouvelle teneur selon le ch. II de l’O du 21 août 2024, en vigueur depuis le 23 août 2024 ([RO 2024 434](https://fedlex.data.admin.ch/eli/oc/2024/434)).
 
-Règlement délégué (UE) 2023/222 de la Commission du 1<sup>er</sup> décembre 2022 relatif à la suspension temporaire de l’exemption de l’obligation de visa à l’égard de tous les ressortissants du Vanuatu, JO L 32 du 3.2.2023, p. 1.
+Règlement délégué (UE) 2024/2059 de la Commission du 31 mai 2024 modifiant le règlement (UE) 2018/1806 en ce qui concerne la prolongation de la suspension temporaire de l’exemption de l’obligation de visa à l’égard des ressortissants du Vanuatu, JO L, 2024/2059, *2.08.2024*

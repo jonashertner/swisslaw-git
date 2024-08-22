@@ -4,11 +4,11 @@ title: Verordnung vom 15. August 2018 über die Einreise und die Visumerteilung 
 short: VEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: de
-version: 2024-08-01
+version: 2024-08-23
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20240801/de/xml/fedlex-data-admin-ch-eli-cc-2018-493-20240801-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20240801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20240823/de/xml/fedlex-data-admin-ch-eli-cc-2018-493-20240823-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20240823/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20240801/de"
 
 (VEV)
 
-vom 15. August 2018 (Stand am 1. August 2024)
+vom 15. August 2018 (Stand am 23. August 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -313,10 +313,10 @@ Gestützt auf Artikel 3 Absatz 5 des Visakodex sind folgende Personen von der Vi
 
   Staatsangehörige von Nichtmitgliedstaaten der EU und der EFTA, die über einen der folgenden Aufenthaltstitel verfügen:
 
-  - 1\. einen von Andorra, Japan, Kanada, San Marino oder den Vereinigten Staaten ausgestellten gültigen Aufenthaltstitel nach Anhang V des Visakodex, der die vorbehaltlose Rückübernahme der Inhaberin oder des Inhabers garantiert,
+  - 1\.[^10-3] einen von Andorra, Japan, Kanada, San Marino, dem Vereinigten Königreich oder den Vereinigten Staaten ausgestellten gültigen Aufenthaltstitel nach Anhang V des Visakodex, der die vorbehaltlose Rückübernahme der Inhaberin oder des Inhabers garantiert,
   - 2\. einen gültigen Aufenthaltstitel für ein überseeisches Land oder Gebiet der Niederlande: Aruba, Curaçao, Sint Maarten, Bonaire, Sint Eustatius und Saba;
 
-- c.[^10-3]
+- c.[^10-4]
 
   Staatsangehörige von Nichtmitgliedstaaten der EU und der EFTA, die über ein gültiges Visum der folgenden Staaten verfügen:
 
@@ -324,20 +324,23 @@ Gestützt auf Artikel 3 Absatz 5 des Visakodex sind folgende Personen von der Vi
   - 2\. von Japan, Kanada oder den Vereinigten Staaten,
   - 3\. eines überseeischen Landes oder Gebietes der Niederlande: Aruba, Curaçao, Sint Maarten, Bonaire, Sint Eustatius und Saba;
 
-- d. Familienangehörige von Staatsangehörigen eines EU-Mitgliedstaates nach Anhang I Artikel 3 des Abkommens vom 21. Juni 1999[^10-4] zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit (Freizügigkeitsabkommen);
+- d.[^10-5] Familienangehörige von Staatsangehörigen eines EU-Mitgliedstaates nach Anhang I Artikel 3 des Abkommens vom 21. Juni 1999[^10-6] zwischen der Schweizerischen Eidgenossenschaft einerseits und der Europäischen Gemeinschaft und ihren Mitgliedstaaten andererseits über die Freizügigkeit (Freizügigkeitsabkommen) oder Familienangehörige von Staatsangehörigen des Vereinigten Königreichs, die Begünstigte des Abkommens vom 25. Februar 2019[^10-7] zwischen der Schweizerischen Eidgenossenschaft und dem Vereinigten Königreich von Grossbritannien und Nordirland über die Rechte der Bürgerinnen und Bürger infolge des Austritts des Vereinigten Königreichs aus der Europäischen Union und des Wegfalls des Freizügigkeitsabkommens sind;
 - e. Inhaberinnen und Inhaber eines anerkannten und gültigen Diplomatenpasses, der von einem der in Absatz 2 genannten Staaten ausgestellt wurde;
-- f. Flugbesatzungsmitglieder, die Staatsangehörige eines Vertragsstaats des Übereinkommens vom 7. Dezember 1944[^10-5] über die internationale Zivilluftfahrt sind.
+- f. Flugbesatzungsmitglieder, die Staatsangehörige eines Vertragsstaats des Übereinkommens vom 7. Dezember 1944[^10-8] über die internationale Zivilluftfahrt sind.
 
-<sup>4bis</sup> Treten die Staatsangehörigen nach Absatz 4 Buchstabe c die Rückreise nach Ablauf des Visums an, so gilt die Befreiung von der Visumpflicht nur, wenn sie aus dem Staat zurückkehren, der das Visum erteilt hat.[^10-6]
+<sup>4bis</sup> Treten die Staatsangehörigen nach Absatz 4 Buchstabe c die Rückreise nach Ablauf des Visums an, so gilt die Befreiung von der Visumpflicht nur, wenn sie aus dem Staat zurückkehren, der das Visum erteilt hat.[^10-9]
 
 <sup>5</sup> Flugpassagiere, die von der Visumpflicht nach den Artikeln 8 und 9 befreit sind, sind ebenfalls von der Visumpflicht für den Flughafentransit befreit.
 
 [^10-1]: Siehe Fussnote zu Art. 1 Abs. 4 Bst. c.
 [^10-2]: Fassung gemäss Ziff. I der V vom 14. Aug. 2019, in Kraft seit 2. Febr. 2020 ([AS 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
-[^10-3]: Fassung gemäss Ziff. I der V vom 14. Aug. 2019, in Kraft seit 2. Febr. 2020 ([AS 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
-[^10-4]: [SR 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^10-5]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
-[^10-6]: Eingefügt durch Ziff. I der V vom 14. Aug. 2019, in Kraft seit 2. Febr. 2020 ([AS 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^10-3]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 23. Aug. 2024 ([AS 2024 434](https://fedlex.data.admin.ch/eli/oc/2024/434)).
+[^10-4]: Fassung gemäss Ziff. I der V vom 14. Aug. 2019, in Kraft seit 2. Febr. 2020 ([AS 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^10-5]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 23. Aug. 2024 ([AS 2024 434](https://fedlex.data.admin.ch/eli/oc/2024/434)).
+[^10-6]: [[SR 0.142.112.681](https://www.fedlex.admin.ch/eli/cc/2002/243/fr)](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^10-7]: [SR 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
+[^10-8]: [SR 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^10-9]: Eingefügt durch Ziff. I der V vom 14. Aug. 2019, in Kraft seit 2. Febr. 2020 ([AS 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 
 ## 3. Abschnitt: Visa für kurzfristige Aufenthalte und Visa für den Flughafentransit
 
@@ -1394,6 +1397,6 @@ Anhang 5[^t-4]
 
 ## Durchführungsrechtsakte und delegierte Rechtsakte der Europäischen Kommission zur vorübergehenden Aussetzung der Befreiung von der Visumpflicht für den kurzfristigen Aufenthalt, die gestützt auf die Verordnung (EU) 2018/1806 erlassen wurden
 
-[^t-4]: Eingefügt durch Ziff. II der V vom 10. Juni 2022 ([AS 2022 344](https://fedlex.data.admin.ch/eli/oc/2022/344)). Fassung gemäss Ziff. I der V vom 1. Febr. 2023, in Kraft seit 4. Febr. 2023 ([AS 2023 44](https://fedlex.data.admin.ch/eli/oc/2023/44)).
+[^t-4]: Eingefügt durch Ziff. II der V vom 10. Juni 2022 ([AS 2022 344](https://fedlex.data.admin.ch/eli/oc/2022/344)). Fassung gemäss Ziff. II der V vom 21. Aug. 2024, in Kraft seit 23. Aug. 2024 ([AS 2024 434](https://fedlex.data.admin.ch/eli/oc/2024/434)).
 
-Delegierte Verordnung (EU) 2023/222 der Kommission vom 1. Dezember 2022 über die vorübergehende Aussetzung der Befreiung von der Visumpflicht für alle Staatsangehörige Vanuatus, ABl L 32 vom 3.2.2023, S. 1
+Delegierte Verordnung (EU) 2024/2059 der Kommission vom 31. Mai 2024 zur Änderung der Verordnung (EU) 2018/1806 im Hinblick auf die Verlängerung der vorübergehenden Aussetzung der Befreiung von der Visumpflicht für Staatsangehörige Vanuatus, Fassung gemäss ABl, L 2024/2059, *2.8.2024*

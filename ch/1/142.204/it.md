@@ -4,11 +4,11 @@ title: "Ordinanza del 15 agosto 2018 concernente l'entrata e il rilascio del vis
 short: OEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: it
-version: 2024-08-01
+version: 2024-08-23
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20240801/it/xml/fedlex-data-admin-ch-eli-cc-2018-493-20240801-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20240801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20240823/it/xml/fedlex-data-admin-ch-eli-cc-2018-493-20240823-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20240823/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20240801/it"
 
 (OEV)
 
-del 15 agosto 2018 (Stato 1° agosto 2024)
+del 15 agosto 2018 (Stato 23 agosto 2024)
 
 Il Consiglio federale svizzero,
 
@@ -313,10 +313,10 @@ In virtù dell’articolo 3 paragrafo 5 del codice dei visti, le seguenti person
 
   i cittadini di uno Stato non membro dell’UE o dell’AELS in possesso di uno dei seguenti titoli di soggiorno:
 
-  - 1\. titolo di soggiorno valido rilasciato da Andorra, Canada, Giappone, San Marino o Stati Uniti d’America, secondo l’allegato V del codice dei visti, che garantisca la riammissione incondizionata del titolare,
+  - 1\.[^10-3] titolo di soggiorno valido rilasciato da Andorra, Canada, Giappone, San Marino, Regno Unito o Stati Uniti d’America, secondo l’allegato V del codice dei visti, che garantisca la riammissione incondizionata del titolare,
   - 2\. titolo di soggiorno valido per un Paese o territorio d’oltremare dei Paesi Bassi: Aruba, Curaçao, Sint Maarten, Bonaire, Sint Eustatius e Saba;
 
-- c.[^10-3]
+- c.[^10-4]
 
   i cittadini di uno Stato non membro dell’UE o dell’AELS in possesso di un visto valido per uno degli Stati seguenti:
 
@@ -324,20 +324,23 @@ In virtù dell’articolo 3 paragrafo 5 del codice dei visti, le seguenti person
   - 2\. Canada, Giappone o Stati Uniti d’America,
   - 3\. un Paese o territorio d’oltremare dei Paesi Bassi: Aruba, Curaçao, Sint Maarten, Bonaire, Sint Eustatius e Saba;
 
-- d. i familiari di cittadini di uno Stato membro dell’UE di cui all’articolo 3 dell’allegato I dell’Accordo del 21 giugno 1999[^10-4] tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone (Accordo sulla libera circolazione delle persone);
+- d.[^10-5] i familiari di cittadini di uno Stato membro dell’UE di cui all’articolo 3 dell’allegato I dell’Accordo del 21 giugno 1999[^10-6] tra la Confederazione Svizzera, da una parte, e la Comunità europea ed i suoi Stati membri, dall’altra, sulla libera circolazione delle persone (Accordo sulla libera circolazione delle persone) e i familiari di cittadini del Regno Unito che beneficiano dell’Accordo del 25 febbraio 2019[^10-7] tra la Confederazione Svizzera e il Regno Unito di Gran Bretagna e Irlanda del Nord sui diritti dei cittadini in seguito al recesso del Regno Unito dall’Unione europea e dall’Accordo sulla libera circolazione delle persone;
 - e. i titolari di un passaporto diplomatico riconosciuto e valido rilasciato da uno degli Stati menzionati nel capoverso 2;
-- f. i membri dell’equipaggio di aerei che sono cittadini di una parte contraente alla convenzione del 7 dicembre 1944[^10-5] relativa all’aviazione civile internazionale.
+- f. i membri dell’equipaggio di aerei che sono cittadini di una parte contraente alla convenzione del 7 dicembre 1944[^10-8] relativa all’aviazione civile internazionale.
 
-<sup>4bis</sup> Per i cittadini di cui al capoverso 4 lettera c che effettuano il viaggio di ritorno dopo la scadenza del visto, l’esenzione dall’obbligo del visto è applicabile soltanto se essi rientrano nel loro Paese partendo dallo Stato che ha rilasciato il visto.[^10-6]
+<sup>4bis</sup> Per i cittadini di cui al capoverso 4 lettera c che effettuano il viaggio di ritorno dopo la scadenza del visto, l’esenzione dall’obbligo del visto è applicabile soltanto se essi rientrano nel loro Paese partendo dallo Stato che ha rilasciato il visto.[^10-9]
 
 <sup>5</sup> I passeggeri di aeromobili esentati dall’obbligo del visto in virtù degli articoli 8 e 9 sono parimenti esentati dall’obbligo del visto di transito aeroportuale.
 
 [^10-1]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. c.
 [^10-2]: Nuovo testo giusta il n. I dell’O del 14 ago. 2019, in vigore dal 2 feb. 2020 ([RU 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
-[^10-3]: Nuovo testo giusta il n. I dell’O del 14 ago. 2019, in vigore dal 2 feb. 2020 ([RU 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
-[^10-4]: [RS 0.142.112.681](https://fedlex.data.admin.ch/eli/cc/2002/243)
-[^10-5]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
-[^10-6]: Introdotto dal n. I dell’O del 14 ago. 2019, in vigore dal 2 feb. 2020 ([RU 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^10-3]: Nuovo testo giusta il n. I dell’O del 21 ago. 2024, in vigore dal 23 ago. 2024 ([RU 2024 434](https://fedlex.data.admin.ch/eli/oc/2024/434)).
+[^10-4]: Nuovo testo giusta il n. I dell’O del 14 ago. 2019, in vigore dal 2 feb. 2020 ([RU 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^10-5]: Nuovo testo giusta il n. I dell’O del 21 ago. 2024, in vigore dal 23 ago. 2024 ([RU 2024 434](https://fedlex.data.admin.ch/eli/oc/2024/434)).
+[^10-6]: [[RS 0.142.112.681](https://www.fedlex.admin.ch/eli/cc/2002/243/fr)](https://fedlex.data.admin.ch/eli/cc/2002/243)
+[^10-7]: [RS 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
+[^10-8]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
+[^10-9]: Introdotto dal n. I dell’O del 14 ago. 2019, in vigore dal 2 feb. 2020 ([RU 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 
 ## Sezione 3: Visto per soggiorni di breve durata e visto di transito aeroportuale
 
@@ -1393,6 +1396,6 @@ Allegato 5[^t-4]
 
 ## Atti di esecuzione e atti delegati della Commissione europea per sospendere in via temporanea l’esenzione dall’obbligo del visto per soggiorni di breve durata, emanati in virtù del regolamento (UE) 2018/1806
 
-[^t-4]: Introdotto dal n. II dell’O del 10 giu. 2022 ([RU 2022 344](https://fedlex.data.admin.ch/eli/oc/2022/344)). Nuovo testo giusta il n. I dell’O del 1° feb. 2023, in vigore dal 4 feb. 2023 ([RU 2023 44](https://fedlex.data.admin.ch/eli/oc/2023/44)).
+[^t-4]: Introdotto dal n. II dell’O del 10 giu. 2022 ([RU 2022 344](https://fedlex.data.admin.ch/eli/oc/2022/344)). Nuovo testo giusta il n. II dell’O del 21 ago. 2024, in vigore dal 23 ago. 2024 ([RU 2024 434](https://fedlex.data.admin.ch/eli/oc/2024/434)).
 
-Regolamento delegato (UE) 2023/222 della Commissione del 1° dicembre 2022 sulla sospensione temporanea dell’esenzione dall’obbligo del visto per tutti i cittadini di Vanuatu, GU L 32 del 3. 2. 2023, pag. 1.
+Regolamento delegato (UE) 2024/2059 della Commissione del 31 maggio 2024 che modifica il regolamento (UE) 2018/1806 per quanto riguarda la proroga della sospensione temporanea dell’esenzione dall’obbligo del visto per i cittadini di Vanuatu, versione della GU L 2024/2059, *2.08.2024*
