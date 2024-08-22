@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Bundesgesetz über die Ausländerinnen und Ausländer und über die Integration (Ausländer- und Integrationsgesetz, AIG) (Anpassung der Wartefrist beim Familiennachzug von vorläufig Aufgenommenen)"
 document: Vernehmlassungsvorlage
 language: de

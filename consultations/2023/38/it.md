@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica della legge federale sugli stranieri e la loro integrazione (LEI) (Adeguamento del periodo di attesa per il ricongiungimento familiare delle persone ammesse provvisoriamente)
 document: Progetto posto in consultazione
 language: it

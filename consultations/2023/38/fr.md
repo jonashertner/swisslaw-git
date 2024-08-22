@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de la loi fédérale sur les étrangers et l’intégration (LEI) (Adaptation du délai d’attente pour le regroupement familial des personnes admises à titre provisoire)
 document: Projet mis en consultation
 language: fr
