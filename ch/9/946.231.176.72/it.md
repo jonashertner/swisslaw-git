@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2024-07-09
+version: 2024-08-27
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20240709/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20240709-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20240709/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20240827/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20240827-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20240827/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 9 luglio 2024)
+del 4 marzo 2022 (Stato 27 agosto 2024)
 
 Il Consiglio federale svizzero,
 
@@ -717,7 +717,7 @@ Il divieto di cui al capoverso 1 non si applica:
   agli acquisti nella Federazione Russa necessari per:
 
   - 1\. l’esercizio delle funzioni di rappresentanze diplomatiche e consolari della Svizzera e dei suoi partner o di organizzazioni internazionali nella Federazione Russa che godono di immunità conformemente al diritto internazionale, oppure
-  - 2\. l’uso personale da parte di cittadini svizzeri, di cittadini di uno Stato membro dello SEE o dei loro familiari più stretti;
+  - 2\.[^14c-7] l’uso personale da parte di cittadini svizzeri, di cittadini di uno Stato membro dello SEE, di persone fisiche titolari di un permesso di soggiorno temporaneo o permanente in Svizzera o dei loro familiari più stretti;
 
 - b.
 
@@ -725,9 +725,9 @@ Il divieto di cui al capoverso 1 non si applica:
 
   - 1\. effetti personali destinati a uso personale da parte delle persone fisiche che entrano in Svizzera o dei loro familiari più stretti che li accompagnano, purché siano appartenenti a tali persone e non siano destinati alla vendita,
   - 2\. autoveicoli della voce di tariffa doganale 8703 non destinati alla vendita, importati in Svizzera esclusivamente per uso personale e di proprietà di cittadini svizzeri o di cittadini uno Stato membro del SEE o dei loro familiari più stretti residenti nella Federazione Russa,
-  - 3\. autoveicoli della voce di tariffa doganale 8703 che dispongono di una targa di immatricolazione di un veicolo diplomatico e sono necessari per il funzionamento delle rappresentanze diplomatiche e consolari o delle organizzazioni internazionali che godono di immunità conformemente al diritto internazionale, o per l’uso personale da parte del loro personale e dei loro familiari più stretti.[^14c-7]
+  - 3\. autoveicoli della voce di tariffa doganale 8703 che dispongono di una targa di immatricolazione di un veicolo diplomatico e sono necessari per il funzionamento delle rappresentanze diplomatiche e consolari o delle organizzazioni internazionali che godono di immunità conformemente al diritto internazionale, o per l’uso personale da parte del loro personale e dei loro familiari più stretti.[^14c-8]
 
-<sup>6</sup> La SECO può autorizzare deroghe ai divieti di cui ai capoversi 1 e 2 se ciò è necessario per la costituzione, la gestione, la manutenzione, l’approvvigionamento e il ritrattamento del combustibile e la sicurezza delle capacità nucleari a uso civile, nonché la continuazione della progettazione, della costruzione e dell’attivazione necessaria per il completamento degli impianti nucleari civili, la fornitura di materiale precursore per la produzione di radioisotopi medici e applicazioni mediche analoghe, o di tecnologie critiche per il controllo delle radiazioni ambientali, e la cooperazione nucleare per fini civili, in particolare nel settore della ricerca e dello sviluppo.[^14c-8]
+<sup>6</sup> La SECO può autorizzare deroghe ai divieti di cui ai capoversi 1 e 2 se ciò è necessario per la costituzione, la gestione, la manutenzione, l’approvvigionamento e il ritrattamento del combustibile e la sicurezza delle capacità nucleari a uso civile, nonché la continuazione della progettazione, della costruzione e dell’attivazione necessaria per il completamento degli impianti nucleari civili, la fornitura di materiale precursore per la produzione di radioisotopi medici e applicazioni mediche analoghe, o di tecnologie critiche per il controllo delle radiazioni ambientali, e la cooperazione nucleare per fini civili, in particolare nel settore della ricerca e dello sviluppo.[^14c-9]
 
 [^14c-1]: Introdotto dal n. I dell’O del 27 apr. 2022, in vigore dal 27 apr. 2022 alle ore 18.00, cpv. 3 vigore dal 29 lug. 2022 ([RU 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 [^14c-2]: Nuovo testo giusta il n. I dell’O del 29 giu. 2022, in vigore dal 29 giu. 2022 alle ore 18.00 ([RU 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
@@ -735,8 +735,9 @@ Il divieto di cui al capoverso 1 non si applica:
 [^14c-4]: Nuovo testo giusta il n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 [^14c-5]: Introdotta dal n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 [^14c-6]: Introdotto dal n. I dell’O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Nuovo testo giusta il n. I dell’O del 29 mar. 2023, in vigore dal 29 mar. 2023 alle ore 20.00 ([RU 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^14c-7]: Introdotto dal n. I dell’O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^14c-8]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^14c-7]: Nuovo testo giusta il n. I dell’O del 21 ago. 2024, in vigore dal 27 ago. 2024 ([RU 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
+[^14c-8]: Introdotto dal n. I dell’O del 23 nov. 2022 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^14c-9]: Introdotto dal n. I dell’O del 23 nov. 2022, in vigore dal 23 nov. 2022 alle ore 18.00 ([RU 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 
 #### Art. 14d
 
@@ -777,11 +778,28 @@ Il divieto di cui al capoverso 1 non si applica:
 
 <sup>6</sup> I divieti di cui ai capoversi 1–4 non si applicano ai prodotti con diamanti di cui all’allegato 27*a* numero 3 destinati all’uso personale delle persone fisiche che entrano in Svizzera o dei loro familiari più stretti che li accompagnano, purché siano appartenenti a tali persone e non siano destinati alla vendita.
 
+<sup>6bis</sup>
+
+I divieti di cui ai capoversi 1, 3 e 4 non si applicano se all’atto dell’importazione viene provato e indicato sulla dichiarazione doganale che:
+
+- a. si tratta di beni delle voci di tariffa doganale 7102 10 00, 7102 31 00 e 7104 21 00: questi beni erano fisicamente presenti in Svizzera o nell’Unione europea prima dell’entrata in vigore del rispettivo divieto e sono stati successivamente esportati in un Paese terzo diverso dalla Federazione Russa;
+- b. si tratta di beni delle voci di tariffa doganale 7102 39 00 e 7104 91 00 e di beni di cui di cui all’allegato *27a* numero 3: questi beni erano fisicamente situati, sono stati lavorati o fabbricati in un Paese terzo diverso dalla Federazione Russa prima dell’entrata in vigore del rispettivo divieto.[^14e-2]
+
+<sup>6ter</sup>
+
+Il divieto di cui al capoverso 5 non si applica ai prodotti con diamanti di cui all’allegato *27a* numero 3 fabbricati prima del 1° settembre 2024, se tali prodotti:
+
+- a. sono stati temporaneamente importati in Svizzera da un Paese o territorio terzo diverso dalla Federazione Russa o sono stati reimportati in Svizzera dopo l’esportazione temporanea dalla Svizzera in un Paese o territorio terzo diverso dalla Federazione Russa; e
+- b. all’atto dell’importazione in Svizzera o dell’esportazione dalla Svizzera sono stati vincolati al regime doganale di ammissione temporanea, perfezionamento attivo o perfezionamento passivo.[^14e-3]
+
 <sup>7</sup> La SECO può autorizzare deroghe ai divieti di cui ai capoversi 1–4 per l’importazione, il transito o il trasporto di beni culturali in prestito nel contesto della cooperazione culturale ufficiale con la Federazione Russa.
 
-<sup>8</sup> All’atto dell’importazione dei beni di cui ai capoversi 3 e 4 deve essere apportata una prova che fornisca informazioni sull’origine dei diamanti lavorati nel Paese terzo e dei diamanti contenuti nei prodotti con diamanti. La prova deve essere indicata sulla dichiarazione doganale.
+<sup>8</sup> All’atto dell’importazione dei beni di cui ai capoversi 3 e 4 deve essere apportata una prova che fornisca informazioni sull’origine dei diamanti lavorati nel Paese terzo. La prova deve essere indicata sulla dichiarazione doganale.[^14e-4]
 
 [^14e-1]: Introdotto dal n. I dell’O del 25 gen. 2023 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024, cpv. 4 dal 1° mar. 2024, cpv. 3 dal 1° set. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^14e-2]: Introdotto dal n. I dell’O del 21 ago. 2024, in vigore dal 27 ago. 2024 ([RU 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
+[^14e-3]: Introdotto dal n. I dell’O del 21 ago. 2024, in vigore dal 27 ago. 2024 ([RU 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
+[^14e-4]: Nuovo testo giusta il n. I dell’O del 21 ago. 2024, in vigore dal 27 ago. 2024 ([RU 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
 
 #### Art. 14f
 
@@ -1652,7 +1670,7 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 
 <sup>1</sup>
 
-La SECO può autorizzare fino al 30 giugno 2024 deroghe ai divieti di cui agli articoli 4, 5, 9, 9a, 9b, 10, 11, 11*a* e 14*b* per la vendita, la fornitura, il transito o il trasporto dei beni e delle tecnologie elencati nei corrispondenti allegati 1, 3, 4, 5, 16, 18, 19 e 23 e dei beni di cui all’allegato 2 OBDI[^30a-1] nonché la vendita, la cessione in licenza o il trasferimento in altro modo di diritti di proprietà intellettuale o di segreti commerciali, così come il riconoscimento di diritti di accesso o di riutilizzo di materiale o informazioni in relazione ai beni e alle tecnologie di cui sopra, che sono tutelati da diritti di proprietà intellettuale o che costituiscono segreti commerciali, a condizione che:[^30a-2]
+La SECO può autorizzare fino al 31 dicembre 2024 deroghe ai divieti di cui agli articoli 4, 5, 9, 9*a*, 9*b*, 10, 11, 11*a* e 14*b* per la vendita, la fornitura, il transito o il trasporto dei beni e delle tecnologie elencati nei corrispondenti allegati 1, 3, 4, 5, 16, 18, 19 e 23 e dei beni di cui all’allegato 2 OBDI[^30a-1] nonché la vendita, la cessione in licenza o il trasferimento in altro modo di diritti di proprietà intellettuale o di segreti commerciali, così come il riconoscimento di diritti di accesso o di riutilizzo di materiale o informazioni in relazione ai beni e alle tecnologie di cui sopra, che sono tutelati da diritti di proprietà intellettuale o che costituiscono segreti commerciali, a condizione che:[^30a-2]
 
 - a. tali attività siano strettamente necessarie per disinvestire dalla Federazione Russa o per liquidare attività commerciali nella Federazione Russa;
 - b.
@@ -1670,7 +1688,7 @@ La SECO può autorizzare fino al 30 giugno 2024 deroghe ai divieti di cui agli a
 
 <sup>2bis</sup>
 
-La SECO può autorizzare fino al 30 settembre 2024 deroghe ai divieti di cui all’articolo 11 per la vendita, la fornitura, il transito o il trasporto dei beni elencati nell’allegato 5, a condizione che tali attività siano strettamente necessarie per disinvestire da una joint venture:[^30a-3]
+La SECO può autorizzare fino al 31 dicembre 2024 deroghe ai divieti di cui all’articolo 11 per la vendita, la fornitura, il transito o il trasporto dei beni elencati nell’allegato 5, a condizione che tali attività siano strettamente necessarie per disinvestire da una joint venture:[^30a-3]
 
 - a. che gestisce un’infrastruttura di gasdotti tra la Federazione Russa e Paesi terzi;
 - b. che è stata costituita o registrata secondo il diritto svizzero o secondo il diritto di uno Stato membro dello SEE prima del 3 marzo 2022; e
@@ -1678,7 +1696,7 @@ La SECO può autorizzare fino al 30 settembre 2024 deroghe ai divieti di cui all
 
 <sup>3</sup>
 
-La SECO può autorizzare deroghe ai divieti di cui agli articoli 14*a* e 14*c* per l’importazione, il transito e il trasporto dei beni di cui agli allegati 17 e 20 fino al 30 giugno 2024, a condizione che:[^30a-5]
+La SECO può autorizzare deroghe ai divieti di cui agli articoli 14*a* e 14*c* per l’importazione, il transito e il trasporto dei beni di cui agli allegati 17 e 20 fino al 31 dicembre 2024, a condizione che:[^30a-5]
 
 - a. tali attività siano strettamente necessarie per disinvestire dalla Federazione Russa o per liquidare attività commerciali nella Federazione Russa;
 - b.
@@ -1693,10 +1711,10 @@ La SECO può autorizzare deroghe ai divieti di cui agli articoli 14*a* e 14*c* p
 - c. i beni interessati si trovassero fisicamente nella Federazione Russa prima dell’entrata in vigore dei divieti di cui agli articoli 14*a* e 14*c* relativi a tali beni.
 
 [^30a-1]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
-[^30a-2]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^30a-3]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^30a-2]: Nuovo testo giusta il n. I dell’O del 21 ago. 2024, in vigore dal 27 ago. 2024 ([RU 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
+[^30a-3]: Nuovo testo giusta il n. I dell’O del 21 ago. 2024, in vigore dal 27 ago. 2024 ([RU 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
 [^30a-4]: Introdotto dal n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^30a-5]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^30a-5]: Nuovo testo giusta il n. I dell’O del 21 ago. 2024, in vigore dal 27 ago. 2024 ([RU 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
 
 #### Art. 30b
 
@@ -1712,19 +1730,20 @@ D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare
 
 <sup>1</sup>
 
-D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare fino al 31 luglio 2024 deroghe ai divieti concernenti i servizi e i software di cui all’articolo 28*e*, a condizione che:
+D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare fino al 31 dicembre 2024 deroghe ai divieti concernenti i servizi e i software di cui all’articolo 28*e*, a condizione che:[^30c-2]
 
 - a. tali servizi o i software siano strettamente necessari per disinvestire dalla Federazione Russa o per liquidare attività commerciali nella Federazione Russa; e
-- b. i servizi o i software siano forniti a esclusivo beneficio delle persone giuridiche, delle organizzazioni o degli organismi risultanti dal disinvestimento.[^30c-2]
+- b. i servizi o i software siano forniti a esclusivo beneficio delle persone giuridiche, delle organizzazioni o degli organismi risultanti dal disinvestimento.[^30c-3]
 
-<sup>2</sup> La SECO rifiuta la domanda di deroga di cui al capoverso 1 se ha motivi sufficienti per ritenere che i servizi o i software possano essere destinati, direttamente o indirettamente, al governo della Federazione Russa, a utenti finali militari o a un uso finale militare nella Federazione Russa.[^30c-3]
+<sup>2</sup> La SECO rifiuta la domanda di deroga di cui al capoverso 1 se ha motivi sufficienti per ritenere che i servizi o i software possano essere destinati, direttamente o indirettamente, al governo della Federazione Russa, a utenti finali militari o a un uso finale militare nella Federazione Russa.[^30c-4]
 
-<sup>3</sup> D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare fino al 31 marzo 2024 deroghe al divieto di cui all’articolo 28*e* capoverso 1<sup>bis</sup> per servizi nel settore della consulenza giuridica, a condizione che tali servizi siano necessari per legge per il perfezionamento della vendita o della cessione di diritti di proprietà detenuti direttamente o indirettamente da una persona giuridica, un’organizzazione o un organismo stabiliti nella Federazione Russa in una persona giuridica, un’organizzazione o un organismo stabiliti in uno Stato membro dello SEE o in Svizzera.[^30c-4]
+<sup>3</sup> D’intesa con i servizi competenti del DFAE e del DFF, la SECO può autorizzare fino al 31 marzo 2024 deroghe al divieto di cui all’articolo 28*e* capoverso 1<sup>bis</sup> per servizi nel settore della consulenza giuridica, a condizione che tali servizi siano necessari per legge per il perfezionamento della vendita o della cessione di diritti di proprietà detenuti direttamente o indirettamente da una persona giuridica, un’organizzazione o un organismo stabiliti nella Federazione Russa in una persona giuridica, un’organizzazione o un organismo stabiliti in uno Stato membro dello SEE o in Svizzera.[^30c-5]
 
 [^30c-1]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^30c-2]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^30c-2]: Nuovo testo giusta il n. I dell’O del 21 ago. 2024, in vigore dal 27 ago. 2024 ([RU 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
 [^30c-3]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^30c-4]: Introdotto dal n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^30c-4]: Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^30c-5]: Introdotto dal n. I dell’O del 16 ago. 2023, in vigore dal 16 ago. 2023 alle ore 18.00 ([RU 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 
 ## Sezione 4*b*: Deroghe per beni e servizi in relazione con il Consorzio per l’oleodotto del Caspio
 

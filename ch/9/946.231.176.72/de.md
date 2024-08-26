@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Verordnung vom 4. März 2022 über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: de
-version: 2024-07-09
+version: 2024-08-27
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20240709/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20240709-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20240709/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20240827/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20240827-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20240827/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 
-vom 4. März 2022 (Stand am 9. Juli 2024)
+vom 4. März 2022 (Stand am 27. August 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -718,7 +718,7 @@ Das Verbot nach Absatz 1 gilt nicht für:
   Käufe in der Russischen Föderation, die erforderlich sind für:
 
   - 1\. die amtliche Tätigkeit diplomatischer oder konsularischer Vertretungen der Schweiz oder ihrer Partner in der Russischen Föderation oder internationaler Organisationen, die nach dem Völkerrecht Immunität geniessen, oder
-  - 2\. den persönlichen Gebrauch durch Schweizer Staatsangehörige, Staatsangehörige eines EWR-Mitgliedstaats oder ihre unmittelbaren Familienangehörigen;
+  - 2\.[^14c-7] den persönlichen Gebrauch durch Schweizer Staatsangehörige, Staatsangehörige eines EWR-Mitgliedstaats, natürliche Personen, die über einen befristeten oder unbefristeten Aufenthaltstitel der Schweiz verfügen, oder ihre unmittelbaren Familienangehörigen;
 
 - b.
 
@@ -726,9 +726,9 @@ Das Verbot nach Absatz 1 gilt nicht für:
 
   - 1\. persönlichen Gegenständen, die für den persönlichen Gebrauch von in die Schweiz einreisenden natürlichen Personen oder von mit ihnen reisenden unmittelbaren Familienangehörigen bestimmt sind, sich im Eigentum der betreffenden Personen befinden und nicht zum Verkauf bestimmt sind,
   - 2\. Fahrzeugen der Zolltarifnummer 8703, die nicht für den Verkauf bestimmt sind, ausschliesslich zum persönlichen Gebrauch in die Schweiz eingeführt werden und sich im Eigentum von Schweizer Staatsangehörigen oder Staatsangehörigen eines EWR-Mitgliedstaats oder von ihren unmittelbaren Familienangehörigen befinden, die ihren Wohnsitz in der Russischen Föderation haben,
-  - 3\. Fahrzeugen der Zolltarifnummer 8703, die über ein Diplomatenkennzeichen verfügen und für die Arbeit diplomatischer und konsularischer Vertretungen oder internationaler Organisationen, die nach dem Völkerrecht Immunität geniessen, oder für den persönlichen Gebrauch ihres Personals und ihrer unmittelbaren Familienangehörigen erforderlich sind.[^14c-7]
+  - 3\. Fahrzeugen der Zolltarifnummer 8703, die über ein Diplomatenkennzeichen verfügen und für die Arbeit diplomatischer und konsularischer Vertretungen oder internationaler Organisationen, die nach dem Völkerrecht Immunität geniessen, oder für den persönlichen Gebrauch ihres Personals und ihrer unmittelbaren Familienangehörigen erforderlich sind.[^14c-8]
 
-<sup>6</sup> Das SECO kann Ausnahmen von den Verboten nach den Absätzen 1 und 2 bewilligen, sofern dies erforderlich ist für die Einrichtung und den Betrieb ziviler nuklearer Kapazitäten, ihre Instandhaltung, ihre Versorgung mit und die Wiederaufbereitung von Brennelementen und ihre Sicherheit und die Weiterführung der Planung, des Baus und die Abnahmetests für die Indienststellung ziviler Atomanlagen, die Lieferung von Ausgangsstoffen zur Herstellung medizinischer Radioisotope und ähnlicher medizinischer Anwendungen oder kritischer Technologien zur radiologischen Umweltüberwachung sowie für die zivile nukleare Zusammenarbeit, insbesondere im Bereich Forschung und Entwicklung.[^14c-8]
+<sup>6</sup> Das SECO kann Ausnahmen von den Verboten nach den Absätzen 1 und 2 bewilligen, sofern dies erforderlich ist für die Einrichtung und den Betrieb ziviler nuklearer Kapazitäten, ihre Instandhaltung, ihre Versorgung mit und die Wiederaufbereitung von Brennelementen und ihre Sicherheit und die Weiterführung der Planung, des Baus und die Abnahmetests für die Indienststellung ziviler Atomanlagen, die Lieferung von Ausgangsstoffen zur Herstellung medizinischer Radioisotope und ähnlicher medizinischer Anwendungen oder kritischer Technologien zur radiologischen Umweltüberwachung sowie für die zivile nukleare Zusammenarbeit, insbesondere im Bereich Forschung und Entwicklung.[^14c-9]
 
 [^14c-1]: Eingefügt durch Ziff. I der V vom 27. April 2022, in Kraft seit 27. April 2022 um 18.00 Uhr ([AS 2022 260](https://fedlex.data.admin.ch/eli/oc/2022/260)).
 [^14c-2]: Fassung gemäss Ziff. I der V vom 29. Juni 2022, in Kraft seit 29. Juni 2022 um 18.00 Uhr ([AS 2022 381](https://fedlex.data.admin.ch/eli/oc/2022/381)).
@@ -736,8 +736,9 @@ Das Verbot nach Absatz 1 gilt nicht für:
 [^14c-4]: Fassung gemäss Ziff. I der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 [^14c-5]: Eingefügt durch Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. Febr. 2024 ([AS 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
 [^14c-6]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022 ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Fassung gemäss Ziff. I der V vom 29. März 2023, in Kraft seit 29. März 2023 um 20.00 Uhr ([AS 2023 168](https://fedlex.data.admin.ch/eli/oc/2023/168)).
-[^14c-7]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022 ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. Febr. 2024 ([AS 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^14c-8]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
+[^14c-7]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 27. Aug. 2024 ([AS 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
+[^14c-8]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022 ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)). Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. Febr. 2024 ([AS 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^14c-9]: Eingefügt durch Ziff. I der V vom 23. Nov. 2022, in Kraft seit 23. Nov. 2022 um 18.00 Uhr ([AS 2022 708](https://fedlex.data.admin.ch/eli/oc/2022/708)).
 
 #### Art. 14d
 
@@ -777,11 +778,28 @@ Das Verbot nach Absatz 1 gilt nicht für:
 
 <sup>6</sup> Die Verbote nach den Absätzen 1–4 gelten nicht für Erzeugnisse mit Diamanten gemäss Anhang 27*a* Ziffer 3, die für den persönlichen Gebrauch von in die Schweiz einreisenden natürlichen Personen oder von mit ihnen reisenden unmittelbaren Familienangehörigen bestimmt sind, sich im Eigentum der betreffenden Personen befinden und nicht zum Verkauf bestimmt sind.
 
+<sup>6bis</sup>
+
+Die Verbote nach den Absätzen 1, 3 und 4 gelten nicht, sofern bei der Einfuhr Folgendes nachgewiesen und bei der Zollanmeldung angegeben wird:
+
+- a. falls es sich um Güter der Zolltarifnummern 7102 10 00, 7102 31 00 und 7104 21 00 handelt: dass sich die Güter vor dem Geltungsbeginn des jeweiligen Verbots physisch in der Schweiz oder der Europäischen Union befanden und sie anschliessend in ein anderes Drittland als die Russische Föderation ausgeführt wurden;
+- b. falls es sich um Güter der Zolltarifnummern 7102 39 00 und 7104 91 00 sowie Gütern gemäss Anhang 27*a* Ziffer 3 handelt: dass sich die Güter vor dem Geltungsbeginn des jeweiligen Verbots physisch in einem anderen Drittstaat als der Russischen Föderation befanden, dort verarbeitet oder hergestellt wurden.[^14e-2]
+
+<sup>6ter</sup>
+
+Das Verbot nach Absatz 5 gilt nicht für Erzeugnisse mit Diamanten gemäss Anhang 27*a* Ziffer 3, die vor dem 1. September 2024 hergestellt wurden, wenn diese Erzeugnisse:
+
+- a. aus einem anderen Drittstaat oder Gebiet als der Russischen Föderation vorübergehend in die Schweiz eingeführt oder nach vorübergehender Ausfuhr aus der Schweiz in einen anderen Drittstaat oder ein anderes Gebiet als die Russische Föderation wieder in die Schweiz eingeführt wurden; und
+- b. bei der Einfuhr in die Schweiz oder der Ausfuhr aus der Schweiz in das Zollverfahren der vorübergehenden Verwendung, der aktiven Veredelung oder der passiven Veredelung angemeldet wurden.[^14e-3]
+
 <sup>7</sup> Das SECO kann für die Einfuhr, die Durchfuhr oder den Transport von Kulturgütern Ausnahmen von den Verboten nach den Absätzen 1–4 bewilligen, wenn es sich dabei um Leihgaben im Rahmen der offiziellen kulturellen Zusammenarbeit mit der Russischen Föderation handelt.
 
-<sup>8</sup> Bei der Einfuhr von Gütern nach den Absätzen 3 und 4 muss ein Nachweis vorliegen, der Auskunft über den Ursprung der im Drittstaat verarbeiteten Diamanten und Diamanten in Erzeugnissen mit Diamanten gibt. Dieser Nachweis muss bei der Zollanmeldung angegeben werden.
+<sup>8</sup> Bei der Einfuhr von Gütern nach den Absätzen 3 und 4 muss ein Nachweis vorliegen, der Auskunft über den Ursprung der im Drittstaat verarbeiteten Diamanten gibt. Dieser Nachweis muss bei der Zollanmeldung angegeben werden.[^14e-4]
 
 [^14e-1]: Eingefügt durch Ziff. I der V vom 25. Jan. 2023 ([AS 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. Febr. 2024, Abs. 4 in Kraft seit 1. März 2024, Abs. 3 in Kraft seit 1. Sept. 2024 ([AS 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^14e-2]: Eingefügt durch Ziff. I der V vom 21. Aug. 2024, in Kraft seit 27. Aug. 2024 ([AS 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
+[^14e-3]: Eingefügt durch Ziff. I der V vom 21. Aug. 2024, in Kraft seit 27. Aug. 2024 ([AS 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
+[^14e-4]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 27. Aug. 2024 ([AS 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
 
 #### Art. 14f
 
@@ -1653,7 +1671,7 @@ Es ist verboten, Forderungen zu erfüllen, wenn sie auf einen Vertrag oder ein G
 
 <sup>1</sup>
 
-Das SECO kann bis zum 30. Juni 2024 Ausnahmen von den Verboten nach den Artikeln 4, 5, 9, 9*a*, 9*b*, 10, 11, 11*a* und 14*b* bewilligen betreffend den Verkauf, die Lieferung, die Durchfuhr oder den Transport von in den entsprechenden Anhängen 1, 3, 4, 5, 16, 18, 19 und 23 aufgeführten Gütern und Technologien und von Gütern nach Anhang 2 GKV[^30a-1] sowie den Verkauf, die Lizenzierung oder anderweitige Übertragung von Rechten des geistigen Eigentums oder Geschäftsgeheimnissen sowie die Gewährung von Rechten auf Zugang zu oder auf die Weiterverwendung von Materialien oder Informationen im Zusammenhang mit diesen Gütern und Technologien, die durch Rechte des geistigen Eigentums geschützt sind oder Geschäftsgeheimnisse darstellen, sofern:[^30a-2]
+Das SECO kann bis zum 31. Dezember 2024 Ausnahmen von den Verboten nach den Artikeln 4, 5, 9, 9*a*, 9*b*, 10, 11, 11*a* und 14*b* bewilligen betreffend den Verkauf, die Lieferung, die Durchfuhr oder den Transport von in den entsprechenden Anhängen 1, 3, 4, 5, 16, 18, 19 und 23 aufgeführten Gütern und Technologien und von Gütern nach Anhang 2 GKV[^30a-1] sowie den Verkauf, die Lizenzierung oder anderweitige Übertragung von Rechten des geistigen Eigentums oder Geschäftsgeheimnissen sowie die Gewährung von Rechten auf Zugang zu oder auf die Weiterverwendung von Materialien oder Informationen im Zusammenhang mit diesen Gütern und Technologien, die durch Rechte des geistigen Eigentums geschützt sind oder Geschäftsgeheimnisse darstellen, sofern:[^30a-2]
 
 - a. die genannten Tätigkeiten für den Abzug von Investitionen aus der Russischen Föderation oder den Abschluss von Geschäftstätigkeiten in der Russischen Föderation unbedingt erforderlich sind;
 - b.
@@ -1671,7 +1689,7 @@ Das SECO kann bis zum 30. Juni 2024 Ausnahmen von den Verboten nach den Artikeln
 
 <sup>2bis</sup>
 
-Es kann bis zum 30. September 2024 Ausnahmen von den Verboten nach Artikel 11 bewilligen betreffend den Verkauf, die Lieferung, die Durchfuhr oder den Transport von in Anhang 5 aufgeführten Gütern, sofern diese Tätigkeiten unbedingt erforderlich sind für den Abzug von Investitionen aus einem Joint Venture, das:[^30a-3]
+Es kann bis zum 31. Dezember 2024 Ausnahmen von den Verboten nach Artikel 11 bewilligen betreffend den Verkauf, die Lieferung, die Durchfuhr oder den Transport von in Anhang 5 aufgeführten Gütern, sofern diese Tätigkeiten unbedingt erforderlich sind für den Abzug von Investitionen aus einem Joint Venture, das:[^30a-3]
 
 - a. eine Gasinfrastruktur zwischen der Russischen Föderation und Drittländern betreibt;
 - b. vor dem 3. März 2022 nach Schweizer Recht oder dem Recht eines EWR-Mitgliedstaats gegründet oder eingetragen wurde; und
@@ -1679,7 +1697,7 @@ Es kann bis zum 30. September 2024 Ausnahmen von den Verboten nach Artikel 11 be
 
 <sup>3</sup>
 
-Es kann Ausnahmen von den Verboten nach den Artikeln 14*a* und 14*c* betreffend die Einfuhr, die Durchfuhr und den Transport von in den Anhängen 17 und 20 aufgeführten Gütern bis zum 30. Juni 2024 bewilligen, sofern:[^30a-5]
+Es kann Ausnahmen von den Verboten nach den Artikeln 14*a* und 14*c* betreffend die Einfuhr, die Durchfuhr und den Transport von in den Anhängen 17 und 20 aufgeführten Gütern bis zum 31. Dezember 2024 bewilligen, sofern:[^30a-5]
 
 - a. die genannten Tätigkeiten für den Abzug von Investitionen aus der Russischen Föderation oder den Abschluss von Geschäftstätigkeiten in der Russischen Föderation unbedingt erforderlich sind;
 - b.
@@ -1694,10 +1712,10 @@ Es kann Ausnahmen von den Verboten nach den Artikeln 14*a* und 14*c* betreffend 
 - c. sich die betreffenden Güter physisch in der Russischen Föderation befanden, bevor die jeweiligen Verbote nach den Artikeln 14*a* und 14*c* für diese Güter in Kraft getreten sind.
 
 [^30a-1]: [SR 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
-[^30a-2]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. Febr. 2024 ([AS 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^30a-3]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. Febr. 2024 ([AS 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^30a-2]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 27. Aug. 2024 ([AS 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
+[^30a-3]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 27. Aug. 2024 ([AS 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
 [^30a-4]: Eingefügt durch Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
-[^30a-5]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. Febr. 2024 ([AS 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^30a-5]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 27. Aug. 2024 ([AS 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
 
 #### Art. 30b
 
@@ -1713,19 +1731,20 @@ Das SECO kann nach Rücksprache mit den zuständigen Stellen des EDA und des EFD
 
 <sup>1</sup>
 
-Das SECO kann bis zum 31. Juli 2024 nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten betreffend Dienstleistungen und Software nach Artikel 28*e* bewilligen, sofern:
+Das SECO kann bis zum 31. Dezember 2024 nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen von den Verboten betreffend Dienstleistungen und Software nach Artikel 28*e* bewilligen, sofern:[^30c-2]
 
 - a. die Dienstleistungen oder die Software für den Abzug von Investitionen aus der Russischen Föderation oder den Abschluss von Geschäftstätigkeiten in der Russischen Föderation unbedingt erforderlich sind; und
-- b. die Dienstleistungen oder die Software ausschliesslich zugunsten der aus dem Abzug von Investitionen hervorgehenden juristischen Personen, Organisationen oder Einrichtungen erbracht werden.[^30c-2]
+- b. die Dienstleistungen oder die Software ausschliesslich zugunsten der aus dem Abzug von Investitionen hervorgehenden juristischen Personen, Organisationen oder Einrichtungen erbracht werden.[^30c-3]
 
-<sup>2</sup> Es lehnt das Gesuch um Bewilligung einer Ausnahme nach Absatz 1 ab, wenn es hinreichende Gründe zur Annahme hat, dass die Dienstleistungen oder die Software mittelbar oder unmittelbar für die Regierung der Russischen Föderation, militärische Endnutzerinnen und Endnutzer oder eine militärische Endverwendung in der Russischen Föderation bestimmt sein könnten.[^30c-3]
+<sup>2</sup> Es lehnt das Gesuch um Bewilligung einer Ausnahme nach Absatz 1 ab, wenn es hinreichende Gründe zur Annahme hat, dass die Dienstleistungen oder die Software mittelbar oder unmittelbar für die Regierung der Russischen Föderation, militärische Endnutzerinnen und Endnutzer oder eine militärische Endverwendung in der Russischen Föderation bestimmt sein könnten.[^30c-4]
 
-<sup>3</sup> Es kann bis zum 31. März 2024 nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen vom Verbot nach Artikel 28*e* Absatz 1<sup>bis</sup> betreffend Dienstleistungen im Bereich Rechtsberatung bewilligen, sofern diese Dienstleistungen rechtlich erforderlich sind für den Abschluss des Verkaufs oder der Übertragung von Anteilen an einer in einem EWR-Mitgliedstaat oder der Schweiz niedergelassenen juristischen Person, Organisation oder Einrichtung, die von einer in der Russischen Föderation niedergelassenen juristischen Person, Organisation oder Einrichtung unmittelbar oder mittelbar gehalten werden.[^30c-4]
+<sup>3</sup> Es kann bis zum 31. März 2024 nach Rücksprache mit den zuständigen Stellen des EDA und des EFD Ausnahmen vom Verbot nach Artikel 28*e* Absatz 1<sup>bis</sup> betreffend Dienstleistungen im Bereich Rechtsberatung bewilligen, sofern diese Dienstleistungen rechtlich erforderlich sind für den Abschluss des Verkaufs oder der Übertragung von Anteilen an einer in einem EWR-Mitgliedstaat oder der Schweiz niedergelassenen juristischen Person, Organisation oder Einrichtung, die von einer in der Russischen Föderation niedergelassenen juristischen Person, Organisation oder Einrichtung unmittelbar oder mittelbar gehalten werden.[^30c-5]
 
 [^30c-1]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. Febr. 2024 ([AS 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^30c-2]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. Febr. 2024 ([AS 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^30c-2]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 27. Aug. 2024 ([AS 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
 [^30c-3]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. Febr. 2024 ([AS 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^30c-4]: Eingefügt durch Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
+[^30c-4]: Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. Febr. 2024 ([AS 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^30c-5]: Eingefügt durch Ziff. I der V vom 16. Aug. 2023, in Kraft seit 16. Aug. 2023 um 18.00 Uhr ([AS 2023 452](https://fedlex.data.admin.ch/eli/oc/2023/452)).
 
 ## 4*b*. Abschnitt: Ausnahmebewilligungen für Güter und Dienstleistungen im Zusammenhang mit dem Kaspischen Pipeline-Konsortium
 
