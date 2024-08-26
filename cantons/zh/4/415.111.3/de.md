@@ -4,10 +4,11 @@ number: "415.111.3"
 title: Organisationsreglement der Erweiterten Universitätsleitung (OrgR EUL)
 short: OrgR EUL
 language: de
-nachtrag: "119"
-valid_until: 2024-08-26
+version: "2024-08-01"
+nachtrag: "126"
+valid_until: 2026-10-01
 adopted: 2022-05-17
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_111_3-2022_05_17-2022_08_01-119.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_111_3-2022_05_17-2022_08_01-126.html"
 text: pdf
 ---
 
@@ -58,7 +59,7 @@ beschliesst:
 
 **1**
 
-1.10. 22 - 118 § 4. <sup>1</sup> Die EUL berät und beschliesst anhand einer Traktandenliste.
+1.10. 24 - 126 § 4. <sup>1</sup> Die EUL berät und beschliesst anhand einer Traktandenliste.
 
 **Traktandierung**
 
@@ -120,23 +121,13 @@ beschliesst:
 
 <sup>3</sup> Die Anträge sind ausreichend frühzeitig einzureichen, damit sie von der Universitätsleitung vorberaten oder zur Kenntnis genommen werden können, sofern dies noch nicht erfolgt ist, und die ordnungsgemässe Traktandierung gewährleistet ist.
 
-#### § 9
-
-**Stimmberechtigung bei Geschäften zu akademischen Titeln und Graden**
-
-<sup>1</sup> Die Delegierten der Stände und die Verwaltungsdirektorinnen und -direktoren sind bei der Beschlussfassung über Erteilung und Entzug der Venia Legendi sowie über Verleihung, Verlängerung und Entzug der Titularprofessur und der weiteren vom Universitätsrat bezeichneten akademischen Titel nur dann stimmberechtigt, wenn sie a. den Titel einer Professorin oder eines Professors oder einer Titularprofessorin oder eines Titularprofessors führen,
-
-- b. einen der vom Universitätsrat bezeichneten Titel führen,
-
-- c. oder über die Venia Legendi verfügen.
-
-<sup>2</sup> Bei der Beschlussfassung über die Bewilligung zur Weiterführung und zum Entzug des Professorinnen- oder Professorentitels bei vorzeitigem Rücktritt sind die Delegierten der Stände und die Verwaltungsdirektorinnen und -direktoren stimmberechtigt.
-
-#### § 10
+§ 9.[^8-1]
 
 **Beschlussfähigkeit**
 
-Die EUL ist beschlussfähig, wenn mindestens die Hälfte der stimmberechtigten Mitglieder anwesend ist.
+§ 10. Die EUL ist beschlussfähig, wenn mindestens die Hälfte der stimmberechtigten Mitglieder anwesend ist.
+
+[^8-1]: Aufgehoben durch die Erweiterte Universitätsleitung mit Beschluss vom 25. Juni 2024 (OS 79, 287; ABl 2024-07-05). In Kraft seit 1. August 2024. 1.10. 24 - 126 5
 
 #### § 11
 
@@ -148,11 +139,13 @@ Die EUL ist beschlussfähig, wenn mindestens die Hälfte der stimmberechtigten M
 
 <sup>3</sup> Die Bestimmungen der Verordnung über die Verleihung der Würde eines Ehrendoktorats durch die Erweiterte Universitätsleitung vom 2. Oktober 2017[^11-1] bleiben vorbehalten.
 
-**3**
+[^11-1]: LS 415.114.
 
-1.10. 22 - 118 § 12. <sup>1</sup> Die Rektorin oder der Rektor kann der EUL Beschlüsse im Zirkularverfahren unterbreiten. Dieses wird per E-Mail geführt.
+#### § 12
 
 **Zirkularverfahren**
+
+<sup>1</sup> Die Rektorin oder der Rektor kann der EUL Beschlüsse im Zirkularverfahren unterbreiten. Dieses wird per E-Mail geführt.
 
 <sup>2</sup> Die Beschlussfassung über die Erteilung der Venia Legendi sowie über Verleihung und Verlängerung der Titularprofessur und der weiteren vom Universitätsrat bezeichneten akademischen Titel erfolgt in der Regel im Zirkularverfahren.
 
@@ -160,16 +153,15 @@ Die EUL ist beschlussfähig, wenn mindestens die Hälfte der stimmberechtigten M
 
 <sup>4</sup> Die Frist nach Abs. 3 beträgt mindestens fünf Arbeitstage.
 
-[^11-1]: LS 415.114. 1.10. 22 - 118 5
-[^11-2]: LS 175.2.
+**3**
 
-#### § 13
+1.10. 24 - 126 § 13. Die Mitglieder der EUL treten in den Ausstand, wenn sie in der Sache persönlich befangen erscheinen. Es gilt § 5 a des Verwaltungsrechtspflegegesetzes vom 24. Mai 1959[^12-1].
 
-**Ausstand**
-
-Die Mitglieder der EUL treten in den Ausstand, wenn sie in der Sache persönlich befangen erscheinen. Es gilt § 5 a des Verwaltungsrechtspflegegesetzes vom 24. Mai 1959[^11-2].
+[^12-1]: LS 175.2.
 
 #### § 14
+
+**Ausstand**
 
 **Informationsrecht**
 
