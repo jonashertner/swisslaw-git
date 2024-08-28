@@ -3,13 +3,12 @@ canton: BS
 number: "257.120"
 title: "Verordnung über die Zusammensetzung, Organisation und Befugnisse der Staatsanwaltschaft"
 language: de
-version: 2020-11-01
-valid_until: 2024-08-28
-version_adopted: 2020-10-13
+version: 2024-08-29
+version_adopted: 2024-08-20
 adopted: 2016-06-28
 in_force: 2016-07-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/257.120"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6276/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6386/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6276/pdf_file"
 
 Staatsanwaltschaft: Verordnung | Strafprozess · Rechtshilfe · Opferhilfe
 
-Vom 28. Juni 2016 (Stand 1. November 2020)
+Vom 28. Juni 2016 (Stand 29. August 2024)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -114,7 +113,7 @@ beschliesst:
 
 #### § 5
 
-<sup>1</sup> Der Stab umfasst das Sekretariat, die Ressorts Personelles und Logistik, Kasse und Rechnungswesen, Information und Kommunikation, Aus- und Weiterbildung sowie Informatik.
+<sup>1</sup> Der Stab umfasst das Sekretariat, die Ressorts Personelles, Finanzen, Kommunikation, Aus- und Weiterbildung, Informatik sowie Dienste.
 
 ## 5. Die Leitenden Staatsanwältinnen und Leitenden Staatsanwälte, die Leitende Jugendanwältin oder der Leitende Jugendanwalt
 
@@ -194,46 +193,47 @@ beschliesst:
 
 **Organisation**
 
-<sup>1</sup> Der Kriminalpolizei steht eine Leitende Staatsanwältin oder ein Leitender Staatsanwalt vor. Ihr beziehungsweise ihm sind die nötige Anzahl Staatsanwältinnen und Staatsanwälte zugewiesene.
+<sup>1</sup> Der Kriminalpolizei steht eine Leitende Staatsanwältin oder ein Leitender Staatsanwalt vor. Ihr beziehungsweise ihm ist die nötige Anzahl Staatsanwältinnen und Staatsanwälte zugewiesen.
 
 <sup>2</sup> Die Kriminalpolizei umfasst:
 
 - 1\. die Leitung,
-- 2\. der Stab,
-- 3\. das Büro für Datenverarbeitung,
-- 4\. die Kriminaltechnische Abteilung,
-- 5\. das oder die Dezernate,
-- 6\. die Fachgruppen,
-- 7\. die kriminalpolizeiliche Analysestelle und
+- 2\. den Stab,
+- 3\. die Innenfahndung,
+- 4\. die Forensik,
+- 5\. die Dezernate mit ihren Fachbereichen,
+- 6\. …
+- 7\. die Ausbildungsgruppe,
+- 7<sup>bis</sup>. den kantonalen Nachrichtendienst,
 - 8\. das der Kriminalpolizei im Rahmen der Kantonalen Krisenorganisation zur Auftragserfüllung zugewiesene Personal.
 
 #### § 12
 
 **Kriminalkommissärinnen und Kriminalkommissäre**
 
-<sup>1</sup> Kriminalkommissärinnen und Kriminalkommissäre führen in den ihnen zugewiesenen Verfahren unter der Leitung der zuständigen Staatsanwältin oder des zuständigen Staatsanwalts mit dem ihnen in der Fachgruppe oder im Pikett unterstellten Detektivpersonal die ersten polizeilichen Ermittlungen sowie Untersuchungen durch.
+<sup>1</sup> Kriminalkommissärinnen und Kriminalkommissäre führen in den ihnen zugewiesenen Verfahren unter der Leitung der zuständigen Staatsanwältin oder des zuständigen Staatsanwalts mit dem ihnen im Fachbereich oder im Pikett unterstellten Detektivpersonal die ersten polizeilichen Ermittlungen sowie Untersuchungen durch.
 
-<sup>2</sup> Sie sind für Führung, Einsatz und Ausbildung ihrer Fachgruppe verantwortlich.
+<sup>2</sup> Sie sind für Führung, Einsatz und Ausbildung ihres Fachbereichs verantwortlich.
 
 #### § 13
 
 **Detektivpersonal**
 
-<sup>1</sup> Detektivwachtmeisterinnen und Detektivwachtmeister, Detektivkorporalinnen und Detektivkorporale, Detektivinnen und Detektive sowie zugeteilte Polizistinnen und Polizisten arbeiten gemäss Weisungen der vorgesetzten Kriminalkommissärinnen und Kriminalkommissäre in den Fachgruppen oder der Pikettleitung im Pikett.
+<sup>1</sup> Detektivwachtmeisterinnen und Detektivwachtmeister inklusive solche mit besonderen Aufgaben, Detektivkorporalinnen und Detektivkorporale, Detektivinnen und Detektive sowie zugeteilte Polizistinnen und Polizisten arbeiten gemäss Weisungen der vorgesetzten Kriminalkommissärinnen und Kriminalkommissäre in den Fachbereichen oder der Pikettleitung im Pikett.
 
 #### § 14
 
-**Büro für Datenverarbeitung**
+**Innenfahndung**
 
-<sup>1</sup> Das Büro für Datenverarbeitung bewirtschaftet die kriminalpolizeilich relevanten Personen- und Sachdaten.
+<sup>1</sup> Die Innenfahndung bewirtschaftet die kriminalpolizeilich relevanten Personen- und Sachdaten.
 
-<sup>2</sup> Es führt die Geschäftskontrolle der Staatsanwaltschaft und bewirtschaftet das Aktenarchiv sowie die Betäubungsmittelasservate.
+<sup>2</sup> …
 
 #### § 15
 
-**Kriminaltechnische Abteilung**
+**Forensik**
 
-<sup>1</sup> Die kriminaltechnische Abteilung unterstützt die Abklärung des Sachverhaltes im Vorverfahren durch den Einsatz von technischen, daktyloskopischen sowie fotografischen Mitteln und verwaltet die Spurenasservate. Sie umfasst die Fachbereiche und das Sekretariat.
+<sup>1</sup> Die Forensik unterstützt die Abklärung des Sachverhaltes im Vorverfahren durch den Einsatz von technischen, daktyloskopischen sowie fotografischen Mitteln und verwaltet die Spurenasservate. Sie umfasst die Fachbereiche und das Sekretariat.
 
 ## 10. Allgemeine Abteilung
 
