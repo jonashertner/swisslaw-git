@@ -4,12 +4,12 @@ number: "805.110"
 title: "Beschluss über die Festsetzung der fakturierbaren Kosten und der Restbeiträge der öffentlichen Hand für die Alters- und Pflegeheime, die Wartebetten in den Spitälern und die Hospize für Palliative Care"
 language: de
 version: 2024-05-01
-valid_until: 2024-12-31
+corrected: 2024-08-30
 version_adopted: 2024-08-28
 adopted: 2026-01-21
 in_force: 2026-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/805.110"
-pdf: "https://lex.vs.ch/api/de/versions/3346/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3323/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -130,7 +130,7 @@ beschliesst:
 
 **Tagespauschale 2024 für Hospize für Palliative Care**
 
-<sup>1</sup> Für die Hospize für Palliative Care belaufen sich die fakturierbaren Kosten auf 685 Franken pro Pflegetag. Dieser Betrag beinhaltet auch die Restfinanzierung der Pflege gemäss KVG sowie die spezifische Subventionierung der Pflegeheimen.
+<sup>1</sup> Für die Hospize für Palliative Care belaufen sich die fakturierbaren Kosten auf 655 Franken pro Pflegetag. Dieser Betrag beinhaltet auch die Restfinanzierung der Pflege gemäss KVG sowie die spezifische Subventionierung der Pflegeheimen.
 
 #### Art. 5
 

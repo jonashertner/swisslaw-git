@@ -4,12 +4,12 @@ number: "805.110"
 title: "Arrêté fixant les coûts facturables et les contributions résiduelles des pouvoirs publics pour les établissements médico-sociaux, les lits d’attente hospitaliers et les hospices de soins palliatifs"
 language: fr
 version: 2024-05-01
-valid_until: 2024-12-31
+corrected: 2024-08-30
 version_adopted: 2024-08-28
 adopted: 2026-01-21
 in_force: 2026-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/805.110"
-pdf: "https://lex.vs.ch/api/fr/versions/3346/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3323/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -130,7 +130,7 @@ arrête:
 
 **Forfait journalier 2024 pour les maisons de soins palliatifs**
 
-<sup>1</sup> Pour les maisons de soins palliatifs, les coûts facturables s'élèvent à 685 francs par journée de soins. Ce montant inclut également le financement résiduel des soins selon la LAMal, de même que le subventionnement spécifique aux EMS.
+<sup>1</sup> Pour les maisons de soins palliatifs, les coûts facturables s'élèvent à 655 francs par journée de soins. Ce montant inclut également le financement résiduel des soins selon la LAMal, de même que le subventionnement spécifique aux EMS.
 
 #### Art. 5
 
