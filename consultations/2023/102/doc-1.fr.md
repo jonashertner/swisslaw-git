@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "2e étape de mise en œuvre de l’initiative populaire «Pour des soins infirmiers forts (initiative sur les soins infirmiers)»: création d’une loi fédérale sur les conditions de travail dans les soins et modification de la loi fédérale sur les professions de la santé"
 document: Projet mis en consultation
 language: fr

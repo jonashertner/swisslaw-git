@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Seconda tappa per l’attuazione dell’iniziativa popolare «Per cure infermieristiche forti (Iniziativa sulle cure infermieristiche)»: legge federale sulle condizioni di lavoro nelle cure infermieristiche e modifica della legge federale sulle professioni sanitarie"
 document: Progetto posto in consultazione-2
 language: it

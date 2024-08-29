@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "2. Etappe zur Umsetzung der Volksinitiative «Für eine starke Pflege (Pflegeinitiative)»: Bundesgesetz über Arbeitsbedingungen in der Pflege und Änderung des Bundesgesetzes über die Gesundheitsberufe"
 document: Vernehmlassungsvorlage
 language: de
