@@ -4,13 +4,13 @@ number: "152.11"
 title: Vollzugsverordnung zum Gesetz über die Organisation des Regierungsrates und der Verwaltung
 short: "Regierungsratsverordnung, RRV"
 language: de
-version: 2023-12-01
-valid_until: 2024-08-31
-version_adopted: 2023-10-24
+version: 2024-09-01
+valid_until: 2026-04-30
+version_adopted: 2024-06-25
 adopted: 1998-07-07
 in_force: 1998-07-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/152.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/1379/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1380/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1379/pdf_file"
 
 (Regierungsratsverordnung, RRV)
 
-vom 07.07.1998 (Stand 01.12.2023)
+vom 07.07.1998 (Stand 01.09.2024)
 
 Der Regierungsrat von Nidwalden,
 
@@ -597,7 +597,7 @@ beschliesst:
   - 10\. Salzregal
   - 11\. Telefon , Drucksachen- und Materialzentrale
   - 12\. Mobiliar, Maschinen und Geräte
-  - 13\. Pflegefinanzierung (Beitragsleistungen)
+  - 13\. …
   - 14\. Lohnadministration
   - 15\. Staatshaftung
 - c. Steueramt
@@ -871,7 +871,7 @@ beschliesst:
   - 2\. Vollzug der Krankenversicherungs , Gesundheits- und Spitalgesetzgebung
   - 3\. Spitalplanung und Spitalversorgung
   - 4\. Berufe und Institutionen im Gesundheitswesen
-  - 5\. Pflegefinanzierung (Information der Bevölkerung, Pflegetaxe und Controlling)
+  - 5\. Pflegefinanzierung
   - 6\. Patientenrechte und ‑pflichten
   - 7\. Krankheitsbekämpfung
   - 8\. Kontrolle und Inverkehrbringen der Heilmittel
