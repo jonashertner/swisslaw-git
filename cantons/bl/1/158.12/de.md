@@ -3,20 +3,20 @@ canton: BL
 number: "158.12"
 title: Verordnung über die Vergütungen für die Inhaberinnen und Inhaber von Nebenämtern und für die Mitglieder von kantonalen Arbeitsgruppen
 language: de
-version: 2024-08-01
-valid_until: 2024-08-31
-version_adopted: 2023-12-19
+version: 2024-09-01
+valid_until: 2025-12-31
+version_adopted: 2024-03-19
 adopted: 2010-03-23
 in_force: 2010-04-01
 url: "https://bl.clex.ch/app/de/texts_of_law/158.12"
-pdf: "https://bl.clex.ch/api/de/versions/3859/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3912/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Vergütungen für die Inhaberinnen und Inhaber von Nebenämtern und für die Mitglieder von kantonalen Arbeitsgruppen
 
-Vom 23.03.2010 (Stand 01.08.2024)
+Vom 23.03.2010 (Stand 01.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -415,6 +415,19 @@ beschliesst:
 <sup>1</sup> Die Präsidentin oder der Präsident der Fachkommission Aufsicht über die Staatsanwaltschaft und die Jugendanwaltschaft erhält für Sitzungen, Aktenstudium sowie alle anderen Verrichtungen im Rahmen ihrer oder seiner Tätigkeit eine Vergütung von CHF 120.– pro Stunde.
 
 <sup>2</sup> Die Mitglieder der Fachkommission Aufsicht über die Staatsanwaltschaft und die Jugendanwaltschaft erhalten für Sitzungen, Aktenstudium sowie alle anderen Verrichtungen im Rahmen ihrer Tätigkeit eine Vergütung von CHF 80.– pro Stunde.
+
+#### § 30b
+
+**Kantonaler Führungsstab**
+
+<sup>1</sup> Für die dauernd bestehende Einsatzbereitschaft wird den Mitgliedern des Kantonalen Führungsstabs eine Pauschalentschädigung von je CHF 500.– jährlich ausbezahlt.
+
+<sup>2</sup> Die Vergütung der Mitglieder des Kantonalen Führungsstabs beträgt CHF 35.– pro Stunde.
+
+<sup>3</sup> Kantonsangestellte können nach Rücksprache mit der oder dem Vorgesetzten die nebenamtliche Tätigkeit beim Kantonalen Führungsstab entweder:
+
+- a. während der Arbeitszeit leisten und sich den effektiven Zeitaufwand an ihre Arbeitszeit anrechnen lassen oder
+- b. ausserhalb der Arbeitszeit leisten und die volle Vergütung nach Abs. 2 beziehen.
 
 #### § 31
 
