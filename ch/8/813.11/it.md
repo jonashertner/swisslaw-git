@@ -4,11 +4,11 @@ title: "Ordinanza del 5 giugno 2015 sulla protezione contro le sostanze e i prep
 short: OPChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/366"
 language: it
-version: 2024-01-01
+version: 2024-09-01
 adopted: 2015-06-05
 in_force: 2015-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2015-366-20240101-it-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/366/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240901/it/xml/fedlex-data-admin-ch-eli-cc-2015-366-20240901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/366/20240901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/366/20240101/it"
 
 (Ordinanza sui prodotti chimici, OPChim)
 
-del 5 giugno 2015 (Stato 1° gennaio 2024)
+del 5 giugno 2015 (Stato 1° settembre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -243,7 +243,7 @@ La classificazione ha luogo:
 
 **Classificazione di preparati**
 
-<sup>1</sup> Il fabbricante di un preparato procede alla classificazione secondo gli articoli 6–15 del regolamento UE-CLP[^7-1].
+Il fabbricante di un preparato procede alla classificazione secondo gli articoli 6–15 del regolamento UE-CLP[^7-1].
 
 [^7-1]: Cfr. nota a piè di pagina relativa all’art. 2 cpv. 4.
 
@@ -1130,7 +1130,7 @@ Sono esentati dall’obbligo di annuncio secondo il presente capitolo:
   - 3\. sono immessi sul mercato in quantità inferiori a 100 kg all’anno;
 
 - b.[^54-2] le sostanze e i preparati immessi sul mercato esclusivamente per scopi di analisi, ricerca o sviluppo;
-- [tab] b<sup>bis</sup>.[^54-3] le sostanze immesse sul mercato esclusivamente per scopi di formazione;
+- b<sup>bis</sup>.[^54-3] le sostanze immesse sul mercato esclusivamente per scopi di formazione;
 - c. le sostanze e i preparati impiegati esclusivamente nelle derrate alimentari, negli agenti terapeutici e negli alimenti per animali;
 - d.[^54-4] ...
 - e. gli esplosivi e i pezzi pirotecnici che sottostanno all’obbligo d’autorizzazione secondo l’ordinanza del 27 novembre 2000[^54-5] sugli esplosivi;
@@ -1151,7 +1151,12 @@ Sono esentati dall’obbligo di annuncio secondo il presente capitolo:
   - 1\. sono rispettati i requisiti di cui all’articolo 25 paragrafo 8 del regolamento UE-CLP[^54-10], oppure se
   - 2\. le possibili sostanze coloranti pericolose per la salute nella concentrazione massima nella quale sono aggiunte alla miscela sono indicate nell’annuncio del colore di base; in questo caso il prodotto va etichettato con l’UFI del colore di base;
 
-- m.[^54-11] il calcestruzzo fresco e preconfezionato, il gesso e il cemento conformi alle formule standard di cui all’allegato VIII parte D del regolamento UE-CLP e provvisti dell’UFI prescritto dall’organo di notifica. <sup>2</sup> Non sono esentati dall’obbligo di annuncio secondo il presente capitolo:
+- m.[^54-11] il calcestruzzo fresco e preconfezionato, il gesso e il cemento conformi alle formule standard di cui all’allegato VIII parte D del regolamento UE-CLP e provvisti dell’UFI prescritto dall’organo di notifica.
+
+<sup>2</sup>
+
+Non sono esentati dall’obbligo di annuncio secondo il presente capitolo:
+
 - a. i prodotti intermedi di cui al capoverso 1 lettera a che si presentano sotto forma di monomeri e sono sostanze nuove;
 - b. i preparati di cui al capoverso 1 lettere b, c, h, i e j provvisti di un UFI.[^54-12]
 
@@ -1705,7 +1710,6 @@ D’intesa con l’UFAM e la SECO, l’UFSP adegua i seguenti allegati:
   - 3\. definisce la versione determinante dell’allegato II del regolamento UE-REACH[^84-5];
 
 - b. allegato 3 (elenco delle sostanze candidate): prende in considerazione le modifiche dell’«elenco di sostanze candidate all’eventuale inclusione nell’allegato XIV del regolamento (CE) n. 1907/2006» secondo l’articolo 59 paragrafo 1 del regolamento UE-REACH;
-
 - c. allegato 4: prende in considerazione le modifiche agli allegati III e VII–XI del regolamento UE-REACH;
 - d.[^84-6] allegato 7: prende in considerazione gli sviluppi europei.
 
@@ -1988,29 +1992,29 @@ Là dove la presente ordinanza rimanda a disposizioni del regolamento UE-REACH o
 
 Allegato 2[^t-2]
 
-(art. 2 cpv. 5, 3, 6 cpv. 2 e 4, 14 cpv. 1 lett. b, 20 cpv. 1, 43 cpv. 1, 84 lett. a)
+(art. 2 cpv. 5, 3, 6 cpv. 2 e 4, 14 cpv. 1 lett. b, 20 cpv. 1, 43 cpv. 1 e 84 lett. a)
 
 ## Elenco delle prescrizioni tecniche determinanti
 
-[^t-2]: Nuovo testo giusta il n. I cpv. 1 dell’O dell’UFSP del 1° nov. 2016 ([RU 2016 4041](https://fedlex.data.admin.ch/eli/oc/2016/670)). Aggiornato dai n. I delle O dell’UFSP del 5 feb. 2018 ([RU 2018 707](https://fedlex.data.admin.ch/eli/oc/2018/85)), del 31 ott. 2018 ([RU 2018 4063](https://fedlex.data.admin.ch/eli/oc/2018/657)), del 23 mag. 2019 ([RU 2019 1923](https://fedlex.data.admin.ch/eli/oc/2019/353)), del 21 feb. 2020 ([RU 2020 727](https://fedlex.data.admin.ch/eli/oc/2020/134)), dall’all. n. 1 dell’O del 18 nov. 2020 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), dai n. I delle O dell’UFSP del 19 nov. 2020 ([RU 2020 5293](https://fedlex.data.admin.ch/eli/oc/2020/915)), del 4 ago. 2021 ([RU 2021 487](https://fedlex.data.admin.ch/eli/oc/2021/487)) del 9 ago. 2022 ([RU 2022 444](https://fedlex.data.admin.ch/eli/oc/2022/444)) e del 5 set. 2023, in vigore dal 1° ott. 2023 ([RU 2023 517](https://fedlex.data.admin.ch/eli/oc/2023/517)).
+[^t-2]: Nuovo testo giusta il n. I cpv. 1 dell’O dell’UFSP del 1° nov. 2016 ([RU 2016 4041](https://fedlex.data.admin.ch/eli/oc/2016/670)). Aggiornato dai n. I delle O dell’UFSP del 5 feb. 2018 ([RU 2018 707](https://fedlex.data.admin.ch/eli/oc/2018/85)), del 31 ott. 2018 ([RU 2018 4063](https://fedlex.data.admin.ch/eli/oc/2018/657)), del 23 mag. 2019 ([RU 2019 1923](https://fedlex.data.admin.ch/eli/oc/2019/353)), del 21 feb. 2020 ([RU 2020 727](https://fedlex.data.admin.ch/eli/oc/2020/134)), dall’all. n. 1 dell’O del 18 nov. 2020 ([RU 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)), dai n. I delle O dell’UFSP del 19 nov. 2020 ([RU 2020 5293](https://fedlex.data.admin.ch/eli/oc/2020/915)), del 4 ago. 2021 ([RU 2021 487](https://fedlex.data.admin.ch/eli/oc/2021/487)), del 9 ago. 2022 ([RU 2022 444](https://fedlex.data.admin.ch/eli/oc/2022/444)), del 5 set. 2023 ([RU 2023 517](https://fedlex.data.admin.ch/eli/oc/2023/517)) e del 22 lug. 2024, in vigore dal 1° set. 2024 ([RU 2024 404](https://fedlex.data.admin.ch/eli/oc/2024/404)).
 
 ### [1](https://www.fedlex.admin.ch/eli/cc/2015/366/it) [Prescrizioni tecniche per la classificazione, l’etichettatura e l’imballaggio di sostanze e preparati](https://www.fedlex.admin.ch/eli/cc/2015/366/it)
 
-Alla classificazione, all’etichettatura e all’imballaggio di sostanze e preparati si applicano gli allegati I–VII del regolamento UE-CLP[^annex2-lvlu1-lvl1-1].
+Alla classificazione, all’etichettatura e all’imballaggio di sostanze e preparati si applicano gli allegati I–VII del regolamento UE‑CLP[^annex2-lvlu1-lvl1-1].
 
-[^annex2-lvlu1-lvl1-1]: Regolamento (CE) n. 1272/2008 del Parlamento europeo e del Consiglio, del 16 dicembre 2008, relativo alla classificazione, all’etichettatura e all’imballaggio delle sostanze e delle miscele che modifica e abroga le direttive 67/548/CEE e 1999/45/CE e che reca modifica al regolamento (CE) n. 1907/2006, GU L 353 del 31.12.2008, pag. 1; modificato da ultimo dal regolamento delegato (UE) 2023/1435, GU L 176 dell’11.7.2023, pag. 6; è eccettuata la modifica introdotta dal regolamento delegato (UE) 2023/707, GU L 93 del 31.3.2023, pag. 7.
+[^annex2-lvlu1-lvl1-1]: Regolamento (CE) n. 1272/2008 del Parlamento europeo e del Consiglio, del 16 dicembre 2008, relativo alla classificazione, all’etichettatura e all’imballaggio delle sostanze e delle miscele che modifica e abroga le direttive 67/548/CEE e 1999/45/CE e che reca modifica al regolamento (CE) n. 1907/2006, GU L 353 del 31.12.2008, pag. 1; modificato da ultimo dal regolamento delegato (UE) 2024/197, GU L, 2024/197, 5.1.2024.
 
 ### 2 Metodi di prova delle proprietà di sostanze e preparati
 
 Per determinare le proprietà di sostanze e preparati è necessario eseguire esami:
 
 - a. secondo i metodi di prova stabiliti nel regolamento (CE) n. 440/2008[^annex2-lvlu1-lvl2-1];
-- b. secondo le linee guida sui test per prodotti chimici dell’OCSE (OECD Guidelines for the Testing of Chemicals) nella versione del 30 giugno 2022[^annex2-lvlu1-lvl2-2]; oppure
-- c. secondo i metodi di prova del manuale delle Nazioni Unite sui test e i criteri per la classificazione dei pericoli fisici (*UN Manual of Tests and Criteria*)[^annex2-lvlu1-lvl2-3].
+- b. secondo le linee guida dell’OCSE sui test per prodotti chimici («OECD Guidelines for the Testing of Chemicals») nella versione del 25 giugno 2024[^annex2-lvlu1-lvl2-2]; oppure
+- c. secondo i metodi di prova del manuale delle Nazioni Unite sui test e i criteri per la classificazione dei pericoli fisici («UN Manual of Tests and Criteria»)[^annex2-lvlu1-lvl2-3].
 
-[^annex2-lvlu1-lvl2-1]: Regolamento (CE) n. 440/2008 della Commissione, del 30 maggio 2008, che istituisce dei metodi di prova ai sensi del regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio concernente la registrazione, la valutazione, l’autorizzazione e la restrizione delle sostanze chimiche (REACH), GU L 142 del 31.5.2008, pag. 1; modificato da ultimo dal regolamento (UE) 2019/1390, GU L 247 del 26.9.2019, pag. 1.
-[^annex2-lvlu1-lvl2-2]: Le linee guida dell’OCSE sui test per i prodotti chimici possono essere consultate gratuitamente all’indirizzo: [www.oecd.org/fr/securitechimique/essais/lignesdirectricesdelocdepourlesessaisdeproduitschimiques.htm](https://www.oecd.org/fr/securitechimique/essais/lignesdirectricesdelocdepourlesessaisdeproduitschimiques.htm)l.
-[^annex2-lvlu1-lvl2-3]: Il manuale (seventh revised edition 2019 e amendment 1 2021) è disponibile gratuitamente sul sito Internet delle Nazioni Unite al seguente indirizzo: [www.unece.org/trans/danger/publi/manual/rev7/manrev7-files\_e.html](http://www.unece.org/trans/danger/publi/manual/rev7/manrev7-files_e.html).
+[^annex2-lvlu1-lvl2-1]: Regolamento (CE) n. 440/2008 della Commissione, del 30 maggio 2008, che istituisce dei metodi di prova ai sensi del regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio concernente la registrazione, la valutazione, l’autorizzazione e la restrizione delle sostanze chimiche (REACH), GU L 142 del 31.5.2008, pag. 1; modificato da ultimo dal regolamento (UE) 2023/464, GU L 68 del 6.3.2023, pag. 37.
+[^annex2-lvlu1-lvl2-2]: Le linee guida dell’OCSE sui test per i prodotti chimici possono essere consultate gratuitamente all’indirizzo: [www.oecd-ilibrary.org/environment/oecd-guidelines-for-the-testing-of-chemicals\_72d77764-en](https://www.oecd-ilibrary.org/environment/oecd-guidelines-for-the-testing-of-chemicals_72d77764-en).
+[^annex2-lvlu1-lvl2-3]: Il manuale («eighth revised edition 2023») è disponibile gratuitamente sul sito Internet delle Nazioni Unite al seguente indirizzo: [www.unece.org/transport/standards/transport/dangerous-goods/un-manual-tests-and-criteria-rev8-2023](https://unece.org/transport/standards/transport/dangerous-goods/un-manual-tests-and-criteria-rev8-2023).
 
 ### 3 Requisiti per la scheda di dati di sicurezza
 
@@ -2100,6 +2104,17 @@ Le sostanze elencate nel regolamento delegato (UE) 2023/1435[^annex2-lvlu1-lvl14
 
 [^annex2-lvlu1-lvl14-1]: Regolamento delegato (UE) 2023/1435 della Commissione, del 2 maggio 2023, che modifica il regolamento (CE) n. 1272/2008 del Parlamento europeo e del Consiglio relativo alla classificazione, all’etichettatura e all’imballaggio delle sostanze e delle miscele per quanto riguarda la modifica delle voci dell’allegato VI, parte 3, dell’acido 2-etilesanoico e suoi sali; dell’acido borico; del triossido di diboro; dell’eptaossido di tetraboro e disodio, idrato; del tetraborato di disodio, anidro; dell’acido ortoborico, sale sodico; del tetraborato di disodio decaidrato e del tetraborato di disodio pentaidrato, versione della GU L 176 dell’11.7.2023, pag. 6.
 
+### 15 Disposizione transitoria della modifica del 22 luglio 2024
+
+15.1 Le sostanze che non adempiono i requisiti del regolamento delegato (UE) 2023/707[^annex2-lvlu1-lvl15-1] (ATP Nuove classi di pericoli) possono essere fornite fino al 31 ottobre 2026.
+
+15.2 I preparati che non adempiono i requisiti del regolamento delegato (UE) 2023/707 (ATP Nuove classi di pericoli) possono essere forniti fino al 30 aprile 2028.
+
+15.3 Le sostanze elencate nel regolamento delegato (UE) 2024/197[^annex2-lvlu1-lvl15-2] (21° ATP) e i preparati che le contengono, la cui classificazione ed etichettatura non adempiono i requisiti del suddetto regolamento, possono essere forniti fino al 31 agosto 2025.
+
+[^annex2-lvlu1-lvl15-1]: Regolamento delegato (UE) 2023/707 della Commissione del 19 dicembre 2022 che modifica il regolamento (CE) n. 1272/2008 per quanto riguarda i criteri e le classi di pericolo per la classificazione, l’etichettatura e l’imballaggio delle sostanze e delle miscele, versione della GU L 93 del 31.3.2023, pag. 7.
+[^annex2-lvlu1-lvl15-2]: Regolamento delegato (UE) 2024/197 della Commissione, del 19 ottobre 2023, che modifica il regolamento (CE) n. 1272/2008 per quanto riguarda la classificazione e l’etichettatura armonizzate di determinate sostanze, versione della GU L, 2024/197, 5.1.2024.
+
 Allegato 3[^t-3]
 
 (art. 5 cpv. 2 e 3, 19 lett. c e d, 70 cpv. 1 e 84 lett. b)
@@ -2108,8 +2123,8 @@ Allegato 3[^t-3]
 
 [^annex3-lvlu1-1]
 
-[^t-3]: Nuovo testo giusta il n. I dell’O dell’UFSP del 9 ago. 2022 ([RU 2022 444](https://fedlex.data.admin.ch/eli/oc/2022/444)). Aggiornato dal n. I dell’O dell’UFSP del 5 set. 2023, in vigore dal 1° ott. 2023 ([RU 2023 517](https://fedlex.data.admin.ch/eli/oc/2023/517)).
-[^annex3-lvlu1-1]: Il contenuto delll’ all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2023/517](https://fedlex.data.admin.ch/eli/oc/2023/517) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando. Fa stato la versione del 1° ott. 2023, che contiene 233 sostanze e gruppi di sostanze.
+[^t-3]: Nuovo testo giusta il n. I dell’O dell’UFSP del 9 ago. 2022 ([RU 2022 444](https://fedlex.data.admin.ch/eli/oc/2022/444)). Aggiornato dal n. I dell’O dell’UFSP del 5 set. 2023 ([RU 2023 517](https://fedlex.data.admin.ch/eli/oc/2023/517)) e del 22 lug. 2024, in vigore dal 1° set. 2024 ([RU 2024 404](https://fedlex.data.admin.ch/eli/oc/2024/404))..
+[^annex3-lvlu1-1]: Il contenuto del presente allegato è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/404](https://fedlex.data.admin.ch/eli/oc/2024/404)&gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando. Fa stato la versione del 1° settembre 2024, che contiene 240 sostanze e gruppi di sostanze.
 
 Allegato 4[^t-4]
 
@@ -2271,10 +2286,10 @@ Allegato 5[^t-5]
 ### 1.1 Gruppo 1
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/it/xml/image/image1.png) in combinazione con</td><td>H300[^annex5-lvlu1-lvl1-lvl11-1]: Letale se ingerito, o H310: Letale a contatto con la pelle, o H330: Letale se inalato, o combinazioni delle suddette indicazioni di pericolo</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/it/xml/image/image2.png)</td><td></td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240901/it/xml/image/image1.png) in combinazione con</td><td>H300[^annex5-lvlu1-lvl1-lvl11-1]: Letale se ingerito, o H310: Letale a contatto con la pelle, o H330: Letale se inalato, o combinazioni delle suddette indicazioni di pericolo</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240901/it/xml/image/image2.png)</td><td></td></tr>
 <tr><td>c.</td><td colspan="2">Sostanze e preparati secondo l’allegato 1.10 ORRPChim[^annex5-lvlu1-lvl1-lvl11-2] etichettati con:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/it/xml/image/image3.png) in combinazione con</td><td>H340: Può provocare alterazioni genetiche, o H350: Può provocare il cancro (*se inalato*), o H360: Può nuocere alla fertilità / al feto</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240901/it/xml/image/image3.png) in combinazione con</td><td>H340: Può provocare alterazioni genetiche, o H350: Può provocare il cancro (*se inalato*), o H360: Può nuocere alla fertilità / al feto</td></tr>
 </table>
 
 [^annex5-lvlu1-lvl1-lvl11-1]: Il numero della frase H non deve figurare nell’etichettatura.
@@ -2283,12 +2298,12 @@ Allegato 5[^t-5]
 ### 1.2 Gruppo 2
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/it/xml/image/image1.png) in combinazione con</td><td>H301: Tossico se ingerito, o H311: Tossico a contatto con la pelle, o H331: Tossico se inalato, o combinazioni delle suddette indicazioni di pericolo</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/it/xml/image/image3.png) in combinazione con</td><td>H370: Provoca danni agli organi, o H372: Provoca danni agli organi in caso di esposizione prolungata o ripetuta</td></tr>
-<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/it/xml/image/image4.png) in combinazione con</td><td>H314: Provoca gravi ustioni cutanee e gravi lesioni oculari. (Non sono considerati preparati del gruppo 2 quelli classificati come «Skin Corr. 1C» unicamente per il loro tenore di acido lattico [n. CAS 79-33-4] e sulla cui etichetta figura obbligatoriamente il codice H314.)</td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240901/it/xml/image/image1.png) in combinazione con</td><td>H301: Tossico se ingerito, o H311: Tossico a contatto con la pelle, o H331: Tossico se inalato, o combinazioni delle suddette indicazioni di pericolo</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240901/it/xml/image/image3.png) in combinazione con</td><td>H370: Provoca danni agli organi, o H372: Provoca danni agli organi in caso di esposizione prolungata o ripetuta</td></tr>
+<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240901/it/xml/image/image4.png) in combinazione con</td><td>H314: Provoca gravi ustioni cutanee e gravi lesioni oculari. (Non sono considerati preparati del gruppo 2 quelli classificati come «Skin Corr. 1C» unicamente per il loro tenore di acido lattico [n. CAS 79-33-4] e sulla cui etichetta figura obbligatoriamente il codice H314.)</td></tr>
 <tr><td>d.</td><td colspan="2">Recipiente con una capacità superiore a 1 kg etichettato con:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/it/xml/image/image5.png) in combinazione con</td><td>soltanto per le sostanze e i preparati che essendo classificati come «Aquatic Chronic 1» devono recare sull’etichetta la frase H410: «Molto tossico per gli organismi acquatici con effetti di lunga durata»</td></tr>
-<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/it/xml/image/image6.png) in combinazione con</td><td>H250: Spontaneamente infiammabile all’aria, o H260: A contatto con l’acqua libera gas infiammabili che possono infiammarsi spontaneamente, o H261: A contatto con l’acqua libera gas infiammabili</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240901/it/xml/image/image5.png) in combinazione con</td><td>soltanto per le sostanze e i preparati che essendo classificati come «Aquatic Chronic 1» devono recare sull’etichetta la frase H410: «Molto tossico per gli organismi acquatici con effetti di lunga durata»</td></tr>
+<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240901/it/xml/image/image6.png) in combinazione con</td><td>H250: Spontaneamente infiammabile all’aria, o H260: A contatto con l’acqua libera gas infiammabili che possono infiammarsi spontaneamente, o H261: A contatto con l’acqua libera gas infiammabili</td></tr>
 <tr><td>f.</td><td></td><td>H230: Esplosivo anche in assenza di aria, o H231: Esplosivo anche in assenza di aria in caso di alta pressione e/o alta temperatura, o EUH019: Può formare perossidi esplosivi, o EUH029: A contatto con l’acqua libera un gas tossico, o EUH031: A contatto con acidi libera un gas tossico, o EUH032: A contatto con acidi libera un gas altamente tossico</td></tr>
 </table>
 
@@ -2297,10 +2312,10 @@ Allegato 5[^t-5]
 ### 2.1 Gruppo 1
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/it/xml/image/image7.png) in combinazione con</td><td>R28[^annex5-lvlu1-lvl2-lvl21-1]: Molto tossico per ingestione, o R27: Molto tossico a contatto con la pelle, o R26: Molto tossico per inalazione, o combinazioni delle suddette frasi R.</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/it/xml/image/image8.png)</td><td></td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240901/it/xml/image/image7.png) in combinazione con</td><td>R28[^annex5-lvlu1-lvl2-lvl21-1]: Molto tossico per ingestione, o R27: Molto tossico a contatto con la pelle, o R26: Molto tossico per inalazione, o combinazioni delle suddette frasi R.</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240901/it/xml/image/image8.png)</td><td></td></tr>
 <tr><td>c.</td><td colspan="2">Sostanze e preparati secondo l’allegato 1.10 ORRPChim etichettati con:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/it/xml/image/image7.png) in combinazione con</td><td>R46: Può provocare alterazioni genetiche ereditarie, o R45: Può provocare il cancro, o R49: Può provocare il cancro per inalazione, o R60: Può nuocere alla fertilità, o R61: Può nuocere al feto</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240901/it/xml/image/image7.png) in combinazione con</td><td>R46: Può provocare alterazioni genetiche ereditarie, o R45: Può provocare il cancro, o R49: Può provocare il cancro per inalazione, o R60: Può nuocere alla fertilità, o R61: Può nuocere al feto</td></tr>
 </table>
 
 [^annex5-lvlu1-lvl2-lvl21-1]: Il numero della frase R non deve figurare nell’etichettatura.
@@ -2308,12 +2323,12 @@ Allegato 5[^t-5]
 ### 2.2 Gruppo 2
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/it/xml/image/image7.png) in combinazione con</td><td>R25: Tossico per ingestione, o R24: Tossico a contatto con la pelle, o R23: Tossico per inalazione, o combinazioni delle suddette frasi R</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/it/xml/image/image7.png) in combinazione con</td><td>R39: Pericolo di effetti irreversibili molto gravi, o R48: Pericolo di gravi danni per la salute in caso di esposizione prolungata</td></tr>
-<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/it/xml/image/image9.png) in combinazione con</td><td>R35: Provoca gravi ustioni, o R34: Provoca ustioni</td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240901/it/xml/image/image7.png) in combinazione con</td><td>R25: Tossico per ingestione, o R24: Tossico a contatto con la pelle, o R23: Tossico per inalazione, o combinazioni delle suddette frasi R</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240901/it/xml/image/image7.png) in combinazione con</td><td>R39: Pericolo di effetti irreversibili molto gravi, o R48: Pericolo di gravi danni per la salute in caso di esposizione prolungata</td></tr>
+<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240901/it/xml/image/image9.png) in combinazione con</td><td>R35: Provoca gravi ustioni, o R34: Provoca ustioni</td></tr>
 <tr><td>d.</td><td colspan="2">Recipiente con una capacità superiore a 1 kg etichettato con:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/it/xml/image/image10.png) in combinazione con</td><td>R50/53: Molto tossico per gli organismi acquatici, a lungo termine può provocare effetti negativi per l’ambiente acquatico</td></tr>
-<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240101/it/xml/image/image11.png) in combinazione con</td><td>R17: Spontaneamente infiammabile all’aria, o R15: A contatto con l’acqua libera gas estremamente infiammabili</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240901/it/xml/image/image10.png) in combinazione con</td><td>R50/53: Molto tossico per gli organismi acquatici, a lungo termine può provocare effetti negativi per l’ambiente acquatico</td></tr>
+<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240901/it/xml/image/image11.png) in combinazione con</td><td>R17: Spontaneamente infiammabile all’aria, o R15: A contatto con l’acqua libera gas estremamente infiammabili</td></tr>
 <tr><td>f.</td><td></td><td>R6: Esplosivo a contatto o senza contatto con l’aria, o R19: Può formare perossidi esplosivi, o R29: A contatto con l’acqua libera gas tossici, o R31: A contatto con acidi libera gas tossici, o R32: A contatto con acidi libera gas molto tossici</td></tr>
 </table>
 
