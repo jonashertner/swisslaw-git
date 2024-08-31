@@ -4,20 +4,20 @@ number: "145.11"
 title: Dienstordnung der Sicherheitsdirektion
 short: Do SID
 language: de
-version: 2023-10-01
-valid_until: 2024-08-31
-version_adopted: 2023-08-15
+version: 2024-09-01
+valid_until: 2024-12-31
+version_adopted: 2024-06-25
 adopted: 2024-12-17
 in_force: 2025-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/145.11"
-pdf: "https://bl.clex.ch/api/de/versions/3686/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3945/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Dienstordnung der Sicherheitsdirektion
 
-Vom 23.10.1984 (Stand 01.10.2023)
+Vom 23.10.1984 (Stand 01.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -51,7 +51,8 @@ beschliesst:
   - 10\. Zivilstandswesen,
   - 11\. Integrationsfragen,
   - 12\. Kindesschutz- und Familienfragen,
-  - 13\. Entbindungen vom Amtsgeheimnis für Dienststellenleitungen und Mitarbeitende der Sicherheitsdirektion.
+  - 13\. Entbindungen vom Amtsgeheimnis für Dienststellenleitungen und Mitarbeitende der Sicherheitsdirektion,
+  - 14\. frühe Sprachförderung.
 - b. Im Bereich öffentliche Sicherheit:
   - 1\. Sicherheits-, Kriminal- und Verkehrspolizei,
   - 2\. Motorfahrzeugkontrolle,
