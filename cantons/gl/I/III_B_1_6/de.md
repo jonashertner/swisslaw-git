@@ -4,13 +4,12 @@ number: III B/1/6
 title: Verordnung über die Kindes- und Erwachsenenschutzbehörde
 short: VO KESB
 language: de
-version: 2019-07-01
-valid_until: 2024-08-31
-version_adopted: 2019-06-18
+version: 2024-09-01
+version_adopted: 2024-08-13
 adopted: 2012-11-20
 in_force: 2013-01-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/III-B.1.6"
-pdf: "https://gesetze.gl.ch/api/de/versions/2092/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2493/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2092/pdf_file"
 
 (VO KESB)
 
-Vom 20.11.2012 (Stand 01.07.2019)
+Vom 20.11.2012 (Stand 01.09.2024)
 
 Der Regierungsrat,
 
@@ -46,7 +45,9 @@ verordnet:
 - e. die Entschädigung der Beistände und der Vorsorgebeauftragten;
 - f. die Fachstelle Erbschaft.
 
-<sup>2</sup> Die KESB ist die nach Artikel 13 Absatz 4 des Bundesgesetzes über die Transplantation von Organen, Geweben und Zellen zuständige Instanz.
+<sup>2</sup> Die KESB ist die nach Artikel 13 Absatz 4 des Transplantationsgesetzes[^1-1] zuständige Instanz.
+
+[^1-1]: SR 810.21
 
 #### Art. 2
 
@@ -70,13 +71,13 @@ verordnet:
 
 **Traktandenliste, Besetzung, Aktenauflage**
 
-<sup>1</sup> Die Anträge sind bis spätestens fünf Tage vor der nächsten Sitzung beim Sekretariat der KESB einzureichen.
+<sup>1</sup> Die Anträge sind bis spätestens fünf Tage vor der nächsten Sitzung bei der protokollführenden Person einzureichen.
 
 <sup>2</sup> Der Präsident bestimmt die Traktandenliste und die Besetzung. Die Traktandenliste ist mindestens vier Tage vor dem Sitzungstermin zur Verfügung zu stellen.
 
 <sup>3</sup> In besonderen Fällen kann die KESB zu Beginn ihrer Sitzung mit einfachem Mehr über die Ergänzung der Traktandenliste mit zusätzlichen Geschäften beschliessen.
 
-<sup>4</sup> Die Akten zu den Sitzungsgeschäften liegen in den Räumlichkeiten der KESB zur Sitzungsvorbereitung auf.
+<sup>4</sup> Die Akten zu den Sitzungsgeschäften werden elektronisch zur Verfügung gestellt.
 
 #### Art. 5
 
@@ -89,6 +90,12 @@ verordnet:
 <sup>2</sup> Sie kann ihre Beschlüsse auf dem Zirkulationsweg treffen. Zirkularbeschlüsse sind als solche zu bezeichnen und bedürfen der Einstimmigkeit. Fehlt diese oder verlangt ein Mitglied die Beratung, ist der Beschluss an einer Sitzung zu behandeln.
 
 <sup>3</sup> Die Mitteilung der Beschlüsse erfolgt durch schriftliche Zustellung. Die KESB kann im Einzelfall die mündliche Eröffnung beschliessen.
+
+#### Art. 5a
+
+**Öffentliche Bekanntmachung**
+
+<sup>1</sup> Kann eine Zustellung wegen unbekannten Aufenthaltes oder aus einem anderen Grund nicht erfolgen, so kann die KESB ihren Beschluss im Amtsblatt veröffentlichen.
 
 #### Art. 6
 
@@ -136,7 +143,7 @@ verordnet:
 
 **Anhörung**
 
-<sup>1</sup> Die erste Einladung zu einer persönlichen Anhörung gemäss Artikel 447 Absatz 1 ZGB[^9-1] erfolgt formlos und ohne Androhung von Säumnisfolgen.
+<sup>1</sup> Die erste Einladung zu einer persönlichen Anhörung gemäss Artikel 447 Absatz 1 des Schweizerischen Zivilgesetzbuches (ZGB)[^9-1] erfolgt formlos und ohne Androhung von Säumnisfolgen.
 
 <sup>2</sup> Die Anhörung erfolgt durch ein Mitglied der KESB. Dieses kann die Anhörung in einfachen Fällen an einen Mitarbeitenden der unterstützenden Dienste delegieren.
 
@@ -189,7 +196,7 @@ verordnet:
 
 <sup>1</sup> Die KESB legt die Entschädigung und den Spesenersatz der Mandatsträger mit der Abnahme des Rechenschaftsberichtes fest.
 
-<sup>1a</sup> Sie kann den Mandatsträgern dafür vor Ablauf der Berichtsperiode Akontozahlungen vergüten.
+<sup>1a</sup> Innerhalb der Berichtsperiode kann eine Akontozahlung nach Ablauf eines Jahres für höchstens zwölf Monate ausgezahlt werden.
 
 <sup>2</sup> Die Kosten für die Entschädigung und den Spesenersatz werden dem verwalteten Vermögen der betreuten Person belastet.
 
@@ -201,7 +208,7 @@ verordnet:
 
 <sup>4</sup> …
 
-<sup>5</sup> Bei minderjährigen Personen trägt der Staat diese Kosten. Bei Ermahnungen oder Weisungen nach Artikel 307 Absatz 3 ZGB oder Massnahmen nach Artikel 308 Absatz 2 ZGB (betreffend Vaterschaft, persönlicher Verkehr) werden sie den Eltern indessen je hälftig auferlegt. Im Falle klarer Verletzung von Mitwirkungspflichten eines Elternteiles, können diesem die gesamten Kosten auferlegt werden.
+<sup>5</sup> Bei minderjährigen Personen trägt der Staat diese Kosten. Bei Ermahnungen oder Weisungen nach Artikel 307 Absatz 3 ZGB oder Massnahmen nach Artikel 308 Absatz 2 ZGB (betreffend Vaterschaft, persönlicher Verkehr) können sie den Eltern indessen je hälftig auferlegt werden. Im Falle klarer Verletzung von Mitwirkungspflichten eines Elternteiles, können diesem die gesamten Kosten auferlegt werden.
 
 #### Art. 15
 
@@ -249,6 +256,8 @@ verordnet:
 
 <sup>2</sup> Für Reisen werden die Fahrspesen für die Bahn 2. Klasse vergütet. Bei Benützung eines privaten Motorfahrzeugs werden 0.70 Franken pro Kilometer vergütet.
 
+<sup>2a</sup> Beistandspersonen mit ausserkantonalem Wohn- oder Geschäftssitz werden Reisespesen ab der Kantonsgrenze verrechnet. Ausgenommen sind Mandate, bei welchen sowohl die Beistandsperson wie auch die betreute Person ausserhalb des Kantons ihren Wohn- oder Geschäftssitz haben.
+
 <sup>3</sup> Übersteigen die Spesen 300 Franken pro Jahr, ist dies der KESB umgehend anzuzeigen. Andernfalls erfolgt nur in begründeten Ausnahmefällen eine Entschädigung.
 
 ## 6. Weitere Regelungen
@@ -272,5 +281,15 @@ verordnet:
 #### Art. 20
 
 **…**
+
+#### Art. 21
+
+**Datenbearbeitung**
+
+<sup>1</sup> Die Verknüpfung der Software der KESB und der Fachstelle Erbschaft mit der kantonalen Datenplattform der Einwohnerregister zur Erfassung und Aktualisierung der Daten mittels automatischem Zugriffs- und Abgleichverfahren ist zulässig.
+
+<sup>2</sup> Der automatische Zugriff und Abgleich umfasst die Personendaten der Merkmalsgruppen 1–6 gemäss Anhang 1 der Verordnung zum Betrieb einer kantonalen Datenplattform gemäss dem Einführungsgesetz zum Registerharmonisierungsgesetz[^21-1].
+
+[^21-1]: GS [I C/21/3](https://gesetze.gl.ch/data/I-C.21.3/de)
 
 SBE XII/5
