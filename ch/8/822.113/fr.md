@@ -4,11 +4,11 @@ title: Ordonnance 3 du 18 août 1993 relative à la loi sur le travail (OLT 3) (
 short: OLT 3
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2553_2553_2553"
 language: fr
-version: 2015-10-01
+version: 2024-09-01
 adopted: 1993-08-18
 in_force: 1993-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2553_2553_2553/20151001/fr/xml/fedlex-data-admin-ch-eli-cc-1993-2553_2553_2553-20151001-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2553_2553_2553/20151001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2553_2553_2553/20240901/fr/xml/fedlex-data-admin-ch-eli-cc-1993-2553_2553_2553-20240901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2553_2553_2553/20240901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/2553_2553_2553/20151001/fr"
 
 (Protection de la santé)[^t-1]
 
-du 18 août 1993 (État le 1<sup>er</sup> octobre 2015)
+du 18 août 1993 (État le 1<sup>er</sup> septembre 2024)
 
 [^t-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> avr. 2015, en vigueur depuis le 1<sup>er</sup> oct. 2015 ([RO 2015 1079](https://fedlex.data.admin.ch/eli/oc/2015/214)).
 
@@ -294,6 +294,28 @@ Les postes de travail et les équipements doivent être conçus et aménagés co
 <sup>4</sup> Les postes de travail doivent être aménagés de façon à ce que les installations d’exploitation ou les dépôts voisins ne soient pas préjudiciables à la santé des travailleurs; à cet effet, il conviendra de prendre des mesures appropriées telles que l’installation de parois de protection ou l’aménagement des postes de travail dans des locaux séparés.
 
 <sup>5</sup> Les travailleurs doivent pouvoir bénéficier de la vue sur l’extérieur depuis leur poste de travail permanent. Dans les locaux sans fenêtres en façade, l’aménagement de postes de travail permanents n’est autorisé que si des mesures particulières de construction ou d’organisation garantissent que les exigences en matière de protection de la santé sont globalement respectées.
+
+### Section 3*a* Utilisation prudente de produits chimiques
+
+[^chap2-sec3a-1]
+
+[^chap2-sec3a-1]: Introduite par le ch. II de l’O du 19 juin 2024, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 316](https://fedlex.data.admin.ch/eli/oc/2024/316)).
+
+#### Art. 24a
+
+<sup>1</sup> L’employeur tient un inventaire des substances et des préparations utilisées dans son entreprise conformément à la loi du 15 décembre 2000 sur les produits chimiques[^24a-1] (produits chimiques) et effectue une évaluation des dangers et des risques liés aux activités exercées avec ces produits chimiques. À cette fin, il peut utiliser volontairement le système d’information et de documentation prévu à l’art. 85, al. 1, let. g, de l’ordonnance 1 du 10 mai 2000 relative à la loi sur le travail[^24a-2].
+
+<sup>2</sup>
+
+Il prend toutes les mesures appropriées, nécessaires et raisonnablement exigibles, en fonction de l’état de la technique, pour garantir dans son entreprise une utilisation prudente des produits chimiques ainsi que la protection des travailleurs. Pour ce faire, il procède dans l’ordre de priorité suivant (principe STOP):
+
+- a. substituer les produits chimiques dangereux;
+- b. prendre des mesures techniques;
+- c. prendre des mesures organisationnelles;
+- d. mettre à disposition des équipements de protection individuelle.
+
+[^24a-1]: [RS 813.1](https://fedlex.data.admin.ch/eli/cc/2004/724)
+[^24a-2]: [RS 822.111](https://fedlex.data.admin.ch/eli/cc/2000/243)
 
 ### Section 4 Charges
 

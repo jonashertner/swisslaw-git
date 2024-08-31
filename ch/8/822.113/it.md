@@ -4,11 +4,11 @@ title: Ordinanza 3 del 18 agosto 1993 concernente la legge sul lavoro (OLL 3) (T
 short: OLL 3
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2553_2553_2553"
 language: it
-version: 2015-10-01
+version: 2024-09-01
 adopted: 1993-08-18
 in_force: 1993-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2553_2553_2553/20151001/it/xml/fedlex-data-admin-ch-eli-cc-1993-2553_2553_2553-20151001-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2553_2553_2553/20151001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2553_2553_2553/20240901/it/xml/fedlex-data-admin-ch-eli-cc-1993-2553_2553_2553-20240901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2553_2553_2553/20240901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/2553_2553_2553/20151001/it"
 
 (Tutela della salute)[^t-1]
 
-del 18 agosto 1993 (Stato 1° ottobre 2015)
+del 18 agosto 1993 (Stato 1° settembre 2024)
 
 [^t-1]: Nuovo testo giusta il n. I dell’O del 1° apr. 2015, in vigore dal 1° ott. 2015 ([RU 2015 1079](https://fedlex.data.admin.ch/eli/oc/2015/214)).
 
@@ -292,6 +292,28 @@ I posti e le attrezzature di lavoro vanno concepiti ed installati secondo princi
 <sup>4</sup> I posti di lavoro vanno strutturati, mediante provvedimenti appropriati quali pareti protettive o isolamento in locali separati, in modo da proteggere i lavoratori da effetti nocivi alla salute provocati da impianti d’esercizio o depositi vicini.
 
 <sup>5</sup> I posti di lavoro permanenti vanno istituiti in locali con vista sull’esterno. I locali senza finestre esterne possono essere adibiti a posti di lavoro soltanto qualora mediante particolari provvedimenti edilizi ed organizzativi sia assicurato, nell’insieme, l’adempimento delle esigenze di tutela della salute.
+
+### Sezione 3*a*: Utilizzazione corretta dei prodotti chimici
+
+[^chap2-sec3a-1]
+
+[^chap2-sec3a-1]: Introdotta dal n. II dell’O del 19 giu. 2024, in vigore dal 1° set. 2024 ([RU 2024 316](https://fedlex.data.admin.ch/eli/oc/2024/316)).
+
+#### Art. 24a
+
+<sup>1</sup> Il datore di lavoro deve tenere un elenco delle sostanze e dei preparati secondo la legge del 15 dicembre 2000[^24a-1] sui prodotti chimici utilizzati nella sua azienda (prodotti chimici) ed eseguire una valutazione dei pericoli e dei rischi correlati alle attività svolte con tali prodotti. A tal fine può utilizzare il sistema di informazione e di documentazione di cui all’articolo 85 capoverso 1 lettera g dell’ordinanza 1 del 10 maggio 2000[^24a-2] concernente la legge sul lavoro; l’utilizzazione è facoltativa.
+
+<sup>2</sup>
+
+Deve adottare secondo lo stato della tecnica tutte le misure idonee, necessarie e ragionevoli per garantire nella sua azienda l’utilizzazione corretta dei prodotti chimici nonché la protezione dei lavoratori. A tal fine procede secondo il seguente ordine di priorità (principio STOP):
+
+- a. sostituire i prodotti chimici pericolosi;
+- b. adottare misure tecniche;
+- c. adottare misure organizzative;
+- d. mettere a disposizione dispositivi di protezione individuale.
+
+[^24a-1]: [RS 813.1](https://fedlex.data.admin.ch/eli/cc/2004/724)
+[^24a-2]: [RS 822.111](https://fedlex.data.admin.ch/eli/cc/2000/243)
 
 ### Sezione 4: Pesi
 

@@ -4,11 +4,11 @@ title: Verordnung 3 vom 18. August 1993 zum Arbeitsgesetz (ArGV 3) (Gesundheitss
 short: ArGV 3
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/2553_2553_2553"
 language: de
-version: 2015-10-01
+version: 2024-09-01
 adopted: 1993-08-18
 in_force: 1993-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2553_2553_2553/20151001/de/xml/fedlex-data-admin-ch-eli-cc-1993-2553_2553_2553-20151001-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/2553_2553_2553/20151001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/2553_2553_2553/20240901/de/xml/fedlex-data-admin-ch-eli-cc-1993-2553_2553_2553-20240901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/2553_2553_2553/20240901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1993/2553_2553_2553/20151001/de"
 
 (Gesundheitsschutz)[^t-1]
 
-vom 18. August 1993 (Stand am 1. Oktober 2015)
+vom 18. August 1993 (Stand am 1. September 2024)
 
 [^t-1]: Fassung gemäss Ziff. I der V vom 1. April 2015, in Kraft seit 1. Okt. 2015 ([AS 2015 1079](https://fedlex.data.admin.ch/eli/oc/2015/214)).
 
@@ -303,6 +303,28 @@ Arbeitsplätze und Arbeitsmittel sind nach ergonomischen Gesichtspunkten zu gest
 
 <sup>5</sup> Von ständigen Arbeitsplätzen aus muss die Sicht ins Freie vorhanden sein. In Räumen ohne Fassadenfenster sind ständige Arbeitsplätze nur zulässig, wenn durch besondere bauliche oder organisatorische Massnahmen sichergestellt ist, dass den Anforderungen des Gesundheitsschutzes insgesamt Genüge getan ist.
 
+### 3*a*. Abschnitt: Sorgfältiger Umgang mit Chemikalien
+
+[^chap2-sec3a-1]
+
+[^chap2-sec3a-1]: Eingefügt durch Ziff. II der V vom 19. Juni 2024, in Kraft seit 1. Sept. 2024 ([AS 2024 316](https://fedlex.data.admin.ch/eli/oc/2024/316)).
+
+#### Art. 24a
+
+<sup>1</sup> Der Arbeitgeber muss ein Verzeichnis der in seinem Betrieb verwendeten Stoffe und Zubereitungen nach dem Chemikaliengesetz vom 15. Dezember 2000[^24a-1] (Chemikalien) führen und eine Gefährdungs- und Risikobeurteilung der damit ausgeführten Tätigkeiten vornehmen. Dazu kann er das Informations- und Dokumentationssystem nach Artikel 85 Absatz 1 Buchstabe g der Verordnung 1 vom 10. Mai 2000[^24a-2] zum Arbeitsgesetz nutzen; die Nutzung ist freiwillig.
+
+<sup>2</sup>
+
+Er muss gemäss dem Stand der Technik alle geeigneten, erforderlichen und zumutbaren Massnahmen treffen, um in seinem Betrieb den sorgfältigen Umgang mit Chemikalien sowie den Schutz der Arbeitnehmer zu gewährleisten. Dabei geht er in der folgenden Reihenfolge (STOP-Prinzip) vor:
+
+- a. gefährliche Chemikalien substituieren;
+- b. technische Massnahmen treffen;
+- c. organisatorische Massnahmen treffen;
+- d. persönliche Schutzausrüstung zur Verfügung stellen.
+
+[^24a-1]: [SR 813.1](https://fedlex.data.admin.ch/eli/cc/2004/724)
+[^24a-2]: [SR 822.111](https://fedlex.data.admin.ch/eli/cc/2000/243)
+
 ### 4. Abschnitt: Lasten
 
 #### Art. 25
@@ -482,4 +504,4 @@ Die Behörden können auf schriftlichen Antrag des Arbeitgebers im Einzelfall Au
 
 <sup>2</sup> Diese Verordnung tritt am 1. Oktober 1993 in Kraft.
 
-[^41-1]: [[AS 1969 561](https://fedlex.data.admin.ch/eli/oc/1969/561_569_567), [1983 1968](https://fedlex.data.admin.ch/eli/oc/1983/1968_1968_1968)Art. 107 Bst. a]
+[^41-1]: [[AS 1969 561](https://fedlex.data.admin.ch/eli/oc/1969/561_569_567); [1983 1968](https://fedlex.data.admin.ch/eli/oc/1983/1968_1968_1968)Art. 107 Bst. a]
