@@ -4,11 +4,11 @@ title: "Regolamento del 31 agosto 2010 sull'organizzazione del Tribunale penale 
 short: ROTPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/825"
 language: it
-version: 2023-06-01
+version: 2024-09-01
 adopted: 2010-08-31
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/825/20230601/it/xml/fedlex-data-admin-ch-eli-cc-2010-825-20230601-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/825/20230601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/825/20240901/it/xml/fedlex-data-admin-ch-eli-cc-2010-825-20240901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/825/20240901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/825/20230601/it"
 
 (Regolamento sull’organizzazione del TPF, ROTPF)
 
-del 31 agosto 2010 (Stato 1° giugno 2023)
+del 31 agosto 2010 (Stato 1° settembre 2024)
 
 Il Tribunale penale federale (TPF),
 
@@ -108,11 +108,14 @@ La Corte plenaria è inoltre competente per:
 
 <sup>1</sup> La composizione della Commissione amministrativa è disciplinata dall’articolo 54 capoverso 1 LOAP.
 
-<sup>2</sup> La rappresentanza in caso d’impedimento o ricusa di un membro della Commissione amministrativa è disciplinata dall’articolo 52 capoverso 4 LOAP.
+<sup>2</sup> La rappresentanza in caso d’impedimento del presidente della Commissione amministrativa è disciplinata dall’articolo 52 capoverso 4 LOAP. In caso d’impedimento di un altro membro della Commissione amministrativa, la rappresentanza è assicurata dal giudice con la maggiore anzianità di servizio; se vi sono più giudici con la stessa anzianità di servizio, dal più anziano tra di loro.[^4-1]
 
-<sup>3</sup> Il presidente del Tribunale penale federale, o chi lo rappresenta conformemente all’articolo 52 capoversi 3 e 4 LOAP, presiede la Commissione amministrativa.
+<sup>3</sup> Il presidente del Tribunale penale federale o chi lo rappresenta presiede la Commissione amministrativa (art. 52 cpv. 3 e 4 LOAP).[^4-2]
 
 <sup>4</sup> Il segretario generale partecipa alle sedute della Commissione amministrativa con voto consultivo (art. 54 cpv. 2 LOAP).
+
+[^4-1]: Nuovo testo giusta il n. I dell’O del TPF del 22 lug. 2024, in vigore dal 1° set. 2024 (RU **20****24** 384).
+[^4-2]: Nuovo testo giusta il n. I dell’O del TPF del 22 lug. 2024, in vigore dal 1° set. 2024 ([RU 2024 384](https://fedlex.data.admin.ch/eli/oc/2024/384)).
 
 #### Art. 5
 
@@ -342,12 +345,12 @@ Secondo l’articolo 33 LOAP, il Tribunale penale federale si compone di:
 
 <sup>2</sup> ...[^19-3]
 
-<sup>3</sup> La Corte dei reclami penali giudica nella composizione di tre giudici, nella misura in cui non è competente la direzione della procedura (art. 395 CPP[^19-4] e 38 LOAP). Essa può prendere decisioni mediante circolazione degli atti in caso d’unanimità e se nessun membro né il cancelliere del collegio giudicante chiede la seduta di discussione.
+<sup>3</sup> La Corte dei reclami penali giudica nella composizione di tre giudici, nella misura in cui non è competente la direzione del procedimento. Essa può prendere decisioni mediante circolazione degli atti in caso d’unanimità e se nessun membro né il cancelliere del collegio giudicante chiede la seduta di discussione.[^19-4]
 
 [^19-1]: Abrogato dal n. I dell’O del TPF del 21 ago. 2018, con effetto dal 1° gen. 2019 ([RU 2018 4575](https://fedlex.data.admin.ch/eli/oc/2018/718)).
 [^19-2]: Nuovo testo giusta il n. I dell’O del 23 ago. 2011, in vigore dal 1° gen. 2012 ([RU 2011 4495](https://fedlex.data.admin.ch/eli/oc/2011/623)).
 [^19-3]: Abrogato dal n. I dell’O del 23 ago. 2011, con effetto dal 1° gen. 2012 ([RU 2011 4495](https://fedlex.data.admin.ch/eli/oc/2011/623)).
-[^19-4]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^19-4]: Nuovo testo giusta il n. I dell’O del TPF del 22 lug. 2024, in vigore dal 1° set. 2024 ([RU 2024 384](https://fedlex.data.admin.ch/eli/oc/2024/384)).
 
 ### Sezione 4: Compiti della Corte d’appello
 
@@ -359,9 +362,11 @@ Secondo l’articolo 33 LOAP, il Tribunale penale federale si compone di:
 
 <sup>1</sup> La Corte d’appello giudica gli appelli e le domande di revisione (art. 38*a* LOAP).
 
-<sup>2</sup> Essa giudica nella composizione di tre giudici, salvo che la legge attribuisca tale competenza a chi dirige il procedimento (art. 38*b* LOAP).
+<sup>2</sup> Essa giudica nella composizione di tre giudici, salvo che la legge attribuisca tale competenza a chi dirige il procedimento.[^19a-1]
 
 <sup>3</sup> Una decisione presa non durante il dibattimento o in assenza di un dibattimento può essere adottata mediante circolazione degli atti in caso di unanimità e se nessun membro né il cancelliere del collegio giudicante chiede la seduta di discussione.
+
+[^19a-1]: Nuovo testo giusta il n. I dell’O del TPF del 22 lug. 2024, in vigore dal 1° set. 2024 ([RU 2024 384](https://fedlex.data.admin.ch/eli/oc/2024/384)).
 
 ## Titolo 2: Funzionamento del Tribunale
 

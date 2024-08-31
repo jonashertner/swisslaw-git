@@ -4,11 +4,11 @@ title: "Règlement du 31 août 2010 sur l'organisation du Tribunal pénal fédé
 short: ROTPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/825"
 language: fr
-version: 2023-06-01
+version: 2024-09-01
 adopted: 2010-08-31
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/825/20230601/fr/xml/fedlex-data-admin-ch-eli-cc-2010-825-20230601-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/825/20230601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/825/20240901/fr/xml/fedlex-data-admin-ch-eli-cc-2010-825-20240901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/825/20240901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/825/20230601/fr"
 
 (Règlement sur l’organisation du TPF, ROTPF)
 
-du 31 août 2010 (État le 1<sup>er</sup> juin 2023)
+du 31 août 2010 (État le 1<sup>er</sup> septembre 2024)
 
 Le Tribunal pénal fédéral (TPF),
 
@@ -75,7 +75,7 @@ Relèvent également de sa compétence:
 
 **Préparation des nominations et de la constitution des cours**[^3a-1]
 
-<sup>1</sup> La Commission administrative fixe un délai pour les candidatures en vue de l’affectation à une cour, à la présidence des cours, à la Commission administrative et pour la pproposition à l’Assemblée fédérale. Une candidature est traitée sur un pied d’égalité qu’une proposition faite par un autre membre du tribunal.
+<sup>1</sup> La Commission administrative fixe un délai pour les candidatures en vue de l’affectation à une cour, à la présidence des cours, à la Commission administrative et pour la proposition à l’Assemblée fédérale. Une candidature est traitée sur un pied d’égalité qu’une proposition faite par un autre membre du tribunal.
 
 <sup>2</sup> Les candidatures annoncées sont immédiatement portées à la connaissance de la Cour plénière. Une candidature est possible jusqu’à la séance plénière préparatoire des juges au sens de l’al. 4.
 
@@ -108,11 +108,14 @@ Relèvent également de sa compétence:
 
 <sup>1</sup> La composition de la Commission administrative est réglée par l’art. 54, al. 1, LOAP.
 
-<sup>2</sup> En cas d’empêchement ou de récusation d’un membre de la Commission administrative, son remplacement est réglé par l’art. 52, al. 4, LOAP.
+<sup>2</sup> En cas d’empêchement du président de la Commission administrative, son remplacement est réglé par l’art. 52, al. 4, LOAP. En cas d’empêchement d’un autre membre de la Commission administrative, son remplacement est assuré par le doyen de fonction et, à ancienneté égale, par le doyen d’âge.[^4-1]
 
-<sup>3</sup> Le président du Tribunal pénal fédéral, ou son remplaçant au sens de l’art. 52, al. 3 et 4, LOAP, préside la Commission administrative.
+<sup>3</sup> Le président du Tribunal pénal fédéral ou son remplaçant préside la Commission administrative (art. 52, al. 3 et 4, LOAP).[^4-2]
 
 <sup>4</sup> Le secrétaire général participe aux séances de la Commission administrative avec voix consultative (art. 54, al. 2, LOAP).
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du TPF du 22 juil. 2024, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 384](https://fedlex.data.admin.ch/eli/oc/2024/384)).
+[^4-2]: Nouvelle teneur selon le ch. I de l’O du TPF du 22 juil. 2024, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 384](https://fedlex.data.admin.ch/eli/oc/2024/384)).
 
 #### Art. 5
 
@@ -153,7 +156,7 @@ La Commission administrative est également chargée:
 
 #### Art. 7
 
-**Election de la présidence**
+**Élection de la présidence**
 
 L’élection de la présidence et son remplacement sont réglés par l’art. 52, al. 1 et 2, LOAP.
 
@@ -340,14 +343,14 @@ Conformément à l’art. 33 LOAP, le Tribunal pénal fédéral se compose:
 
 <sup>1</sup> La Cour des plaintes accomplit les tâches qui lui incombent en vertu des art. 37 et 65, al. 3, LOAP ou d’autres lois fédérales.[^19-2]
 
-<sup>2</sup> ...[^19-3]
+<sup>2</sup> …[^19-3]
 
-<sup>3</sup> La Cour des plaintes statue à trois juges sauf si la direction de la procédure est compétente (art. 395 CPP[^19-4] et 38 LOAP). Elle peut statuer par voie de circulation s’il y a unanimité et que ni un juge, ni le greffier de la composition n’a requis de délibération.
+<sup>3</sup> La Cour des plaintes statue à trois juges sauf si la direction de la procédure est compétente. Elle peut statuer par voie de circulation s’il y a unanimité et que ni un juge, ni le greffier de la composition n’a requis de délibération.[^19-4]
 
 [^19-1]: Abrogé par le ch. I de l’O du TPF du 21 août 2018, avec effet au 1<sup>er</sup> janv. 2019 ([RO 2018 4575](https://fedlex.data.admin.ch/eli/oc/2018/718)).
 [^19-2]: Nouvelle teneur selon le ch. I de l’O du 23 août 2011, en vigueur depuis le 1<sup>er</sup> janv. 2012 ([RO 2011 4495](https://fedlex.data.admin.ch/eli/oc/2011/623)).
 [^19-3]: Abrogé par le ch. I de l’O du 23 août 2011, avec effet au 1<sup>er</sup> janv. 2012 ([RO 2011 4495](https://fedlex.data.admin.ch/eli/oc/2011/623)).
-[^19-4]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^19-4]: Nouvelle teneur selon le ch. I de l’O du TPF du 22 juil. 2024, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 384](https://fedlex.data.admin.ch/eli/oc/2024/384)).
 
 ### Section 4 Tâches de la Cour d’appel
 
@@ -359,9 +362,11 @@ Conformément à l’art. 33 LOAP, le Tribunal pénal fédéral se compose:
 
 <sup>1</sup> La Cour d’appel statue sur les appels et les demandes de révision (art. 38*a* LOAP).
 
-<sup>2</sup> Elle statue à trois juges, sauf si la loi en attribue la compétence à la direction de la procédure (art. 38*b* LOAP).
+<sup>2</sup> Elle statue à trois juges, sauf si la loi en attribue la compétence à la direction de la procédure.[^19a-1]
 
 <sup>3</sup> Une décision rendue hors débats ou en absence de débats, peut être prononcée par voie de circulation si elle est prise à l’unanimité et que ni un juge, ni le greffier de la cour appelée à statuer n’a requis de délibération.
+
+[^19a-1]: Nouvelle teneur selon le ch. I de l’O du TPF du 22 juil. 2024, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 384](https://fedlex.data.admin.ch/eli/oc/2024/384)).
 
 ## Titre 2 Fonctionnement du tribunal
 

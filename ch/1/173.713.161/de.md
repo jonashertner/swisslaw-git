@@ -4,11 +4,11 @@ title: "Organisationsreglement vom 31. August 2010 für das Bundesstrafgericht (
 short: BStGerOR
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/825"
 language: de
-version: 2023-06-01
+version: 2024-09-01
 adopted: 2010-08-31
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/825/20230601/de/xml/fedlex-data-admin-ch-eli-cc-2010-825-20230601-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/825/20230601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/825/20240901/de/xml/fedlex-data-admin-ch-eli-cc-2010-825-20240901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/825/20240901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/825/20230601/de"
 
 (Organisationsreglement BStGer, BStGerOR)[^t-1]
 
-vom 31. August 2010 (Stand am 1. Juni 2023)
+vom 31. August 2010 (Stand am 1. September 2024)
 
 [^t-1]: [AS 2011 633](https://fedlex.data.admin.ch/eli/oc/2011/96)
 
@@ -110,11 +110,13 @@ Das Gesamtgericht ist ausserdem zuständig für:
 
 <sup>1</sup> Die Zusammensetzung der Verwaltungskommission bestimmt sich nach Artikel 54 Absatz 1 StBOG.
 
-<sup>2</sup> Bei Verhinderung oder Ausstand eines Mitglieds der Verwaltungskommission richtet sich dessen Vertretung nach Artikel 52 Absatz 4 StBOG.
+<sup>2</sup> Bei Verhinderung des Präsidenten oder der Präsidentin der Verwaltungskommission richtet sich dessen oder deren Vertretung nach Artikel 52 Absatz 4 StBOG. Ist ein anderes Mitglied der Verwaltungskommission verhindert, so wird dieses durch den Richter oder die Richterin mit dem höchsten Dienstalter vertreten; bei gleichem Dienstalter ist das höhere Lebensalter massgebend.[^4-1]
 
 <sup>3</sup> Den Vorsitz der Verwaltungskommission führt der Präsident oder die Präsidentin des Bundesstrafgerichts bzw. dessen oder deren Vertretung im Sinne von Artikel 52 Absätze 3 und 4 StBOG.
 
 <sup>4</sup> Der Generalsekretär oder die Generalsekretärin nimmt an den Sitzungen der Verwaltungskommission mit beratender Stimme teil (Art. 54 Abs. 2 StBOG).
+
+[^4-1]: Fassung gemäss Ziff. I der V des BStGer vom 22. Juli 2024, in Kraft seit 1. Sept. 2024 (AS **20****24** 384).
 
 #### Art. 5
 
@@ -344,12 +346,12 @@ Das Bundesstrafgericht besteht gemäss Artikel 33 StBOG aus:
 
 <sup>2</sup> …[^19-3]
 
-<sup>3</sup> Die Beschwerdekammer entscheidet in der Besetzung mit drei Richtern oder Richterinnen, soweit nicht die Verfahrensleitung zuständig ist (Art. 395 StPO[^19-4] bzw. Art. 38 StBOG). Sie kann auf dem Zirkulationsweg entscheiden, wenn sich Einstimmigkeit ergibt und weder ein Mitglied noch der Gerichtsschreiber oder die Gerichtsschreiberin des Spruchkörpers die Beratung verlangt.
+<sup>3</sup> Die Beschwerdekammer entscheidet in der Besetzung mit drei Richtern oder Richterinnen, soweit nicht die Verfahrensleitung zuständig ist. Sie kann auf dem Zirkulationsweg entscheiden, wenn sich Einstimmigkeit ergibt und weder ein Mitglied noch der Gerichtsschreiber oder die Gerichtsschreiberin des Spruchkörpers die Beratung verlangt.[^19-4]
 
 [^19-1]: Aufgehoben durch Ziff. I der V des BStGer vom 21. Aug. 2018, mit Wirkung seit 1. Jan. 2019 ([AS 2018 4575](https://fedlex.data.admin.ch/eli/oc/2018/718)).
 [^19-2]: Fassung gemäss Ziff. I der V vom 23. Aug. 2011, in Kraft seit 1. Jan. 2012 ([AS 2011 4495](https://fedlex.data.admin.ch/eli/oc/2011/623)).
 [^19-3]: Aufgehoben durch Ziff. I der V vom 23. Aug. 2011, mit Wirkung seit 1. Jan. 2012 ([AS 2011 4495](https://fedlex.data.admin.ch/eli/oc/2011/623)).
-[^19-4]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^19-4]: Fassung gemäss Ziff. I der V des BStGer vom 22. Juli 2024, in Kraft seit 1. Sept. 2024 ([AS 2024 384](https://fedlex.data.admin.ch/eli/oc/2024/384)).
 
 ### 4. Abschnitt: Aufgaben der Berufungskammer
 
@@ -361,9 +363,11 @@ Das Bundesstrafgericht besteht gemäss Artikel 33 StBOG aus:
 
 <sup>1</sup> Die Berufungskammer entscheidet über Berufungen und Revisionsgesuche (Art. 38*a* StBOG).
 
-<sup>2</sup> Sie entscheidet in der Besetzung mit drei Richtern oder Richterinnen, soweit nicht die Verfahrensleitung zuständig ist (Art. 38*b* StBOG).
+<sup>2</sup> Sie entscheidet in der Besetzung mit drei Richtern oder Richterinnen, soweit nicht die Verfahrensleitung zuständig ist.[^19a-1]
 
 <sup>3</sup> Entscheide, die nicht während der Hauptverhandlungen getroffen werden oder auf die keine Verhandlung folgt, können auf dem Zirkulationsweg erfolgen, wenn sich Einstimmigkeit ergibt und weder ein Mitglied noch der Gerichtsschreiber oder die Gerichtsschreiberin des Spruchkörpers eine Beratung verlangen.
+
+[^19a-1]: Fassung gemäss Ziff. I der V des BStGer vom 22. Juli 2024, in Kraft seit 1. Sept. 2024 ([AS 2024 384](https://fedlex.data.admin.ch/eli/oc/2024/384)).
 
 ## 2. Titel: Gerichtsbetrieb
 
