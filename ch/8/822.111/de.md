@@ -4,11 +4,11 @@ title: Verordnung 1 vom 10. Mai 2000 zum Arbeitsgesetz (ArGV 1)
 short: ArGV 1
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/243"
 language: de
-version: 2024-04-01
+version: 2024-09-01
 adopted: 2000-05-10
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/243/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2000-243-20240401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20240401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/243/20240901/de/xml/fedlex-data-admin-ch-eli-cc-2000-243-20240901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20240901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20240401/de"
 
 (ArGV 1)
 
-vom 10. Mai 2000 (Stand am 1. April 2024)
+vom 10. Mai 2000 (Stand am 1. September 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -25,9 +25,9 @@ gestützt auf Artikel 40 des Arbeitsgesetzes vom 13. März 1964 (Gesetz, ArG)[^i
 
 verordnet:
 
-[^ingress-1]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
-[^ingress-2]: [SR 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^ingress-3]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^ingress-1]: [SR 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
+[^ingress-2]: [SR 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^ingress-3]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^ingress-4]: Fassung gemäss Anhang 2 Ziff. II 110 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## 1. Kapitel: Geltungsbereich
@@ -782,7 +782,7 @@ Die Gesuche sind schriftlich einzureichen und hinreichend zu begründen. Sie mü
 - h. die Zustimmung Dritter, wenn von Gesetz oder Verordnung vorgesehen.
 
 [^41-1]: Fassung gemäss Ziff. I der V vom 2. Febr. 2022, in Kraft seit 1. April 2022 ([AS 2022 100](https://fedlex.data.admin.ch/eli/oc/2022/100)).
-[^41-2]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^41-2]: [SR 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 
 #### Art. 42
 
@@ -865,8 +865,8 @@ Die medizinische Untersuchung und Beratung ist obligatorisch für Jugendliche, d
 <sup>5</sup> Bei bedingter Eignung werden die untersuchenden Ärzte und Ärztinnen von ihrem ärztlichen Berufsgeheimnis gegenüber dem Arbeitgeber soweit entbunden, als der betroffene Arbeitnehmer oder die betroffene Arbeitnehmerin, nachdem sie oder er über das Ergebnis der Untersuchung informiert wurde, in die Weiterleitung von Informationen einwilligt und es für das Treffen von Massnahmen im Betrieb notwendig ist.
 
 [^45-1]: Fassung gemäss Ziff. I der V vom 18. Sept. 2020, in Kraft seit 1. Nov. 2020 ([AS 2020 4135](https://fedlex.data.admin.ch/eli/oc/2020/754)).
-[^45-2]: [SR 832.30](https://fedlex.data.admin.ch/eli/cc/1983/1968_1968_1968)
-[^45-3]: [SR 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^45-2]: [SR 832.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10209)
+[^45-3]: [SR 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
 
 ### 2. Abschnitt: Weitere Massnahmen
 
@@ -971,8 +971,8 @@ Das Ergebnis der Risikobeurteilung ist schriftlich festzuhalten, ebenso die vom 
 
 <sup>4</sup> Der Arbeitgeber hat dafür zu sorgen, dass Frauen mit beschwerlichen und gefährlichen Arbeiten über die mit der Schwangerschaft und der Mutterschaft in Zusammenhang stehenden Gefahren und Massnahmen rechtzeitig, umfassend und angemessen informiert sowie angeleitet werden.
 
-[^63-1]: [SR 832.30](https://fedlex.data.admin.ch/eli/cc/1983/1968_1968_1968)
-[^63-2]: [SR 822.113](https://fedlex.data.admin.ch/eli/cc/1993/2553_2553_2553)
+[^63-1]: [SR 832.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10209)
+[^63-2]: [SR 822.113](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9894)
 
 ### 3. Abschnitt: Beschäftigungseinschränkungen und -verbote
 
@@ -1033,7 +1033,7 @@ Frauen dürfen nicht für Untertagearbeiten in Bergwerken beschäftigt werden, a
 
 <sup>2</sup> Wird die Betriebsordnung vom Arbeitgeber erlassen, so ist der Entwurf im Betrieb gut sichtbar anzuschlagen oder den Arbeitnehmern und Arbeitnehmerinnen auszuhändigen. Innert vier Wochen können die Arbeitnehmer oder Arbeitnehmerinnen schriftlich dazu Stellung nehmen oder sie sind vom Arbeitgeber mündlich anzuhören.
 
-[^67-1]: [SR 822.14](https://fedlex.data.admin.ch/eli/cc/1994/1037_1037_1037)
+[^67-1]: [SR 822.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9904)
 
 #### Art. 68
 
@@ -1209,7 +1209,7 @@ Das SECO ist die Fachstelle des Bundes für den Arbeitnehmerschutz. Es hat namen
 <sup>4</sup> Für Gesuche, Bewilligungen und Genehmigungen kann das SECO einheitliche Formulare vorschreiben.
 
 [^75-1]: Fassung gemäss Ziff. I der V vom 24. April 2002, in Kraft seit 1. Juni 2002 ([AS 2002 1347](https://fedlex.data.admin.ch/eli/oc/2002/200)).
-[^75-2]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^75-2]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 76
 
@@ -1371,7 +1371,8 @@ Das SECO führt im Rahmen seiner Aufsichts- und Vollzugstätigkeiten ein automat
 - c. die arbeitsrechtliche Datenbank, die allgemeine Informationen zum öffentlichen und privaten Arbeitsrecht enthält;
 - d. die Vollzugsdatenbank der Eidgenössischen Koordinationskommission für Arbeitssicherheit (EKAS), die Daten aus der Inspektionstätigkeit der Durchführungsorgane des Gesetzes und des UVG enthält;
 - e. die Betriebsbesuche;
-- f. die Adressverwaltung.
+- f. die Adressverwaltung;
+- g.[^85-2] die Erfüllung der Aufgaben nach Artikel 24*a* der Verordnung 3 vom 18. August 1993[^85-3] zum Arbeitsgesetz.
 
 <sup>2</sup>
 
@@ -1389,9 +1390,30 @@ Das System kann außerdem enthalten:
 - a. Pläne, Planbeschreibungen, Plangenehmigungen und Betriebsbewilligungen im Rahmen der Verfahren nach Artikel 7 Absatz 4 des Gesetzes;
 - b. Protokolle über Betriebsbesuche;
 - c. den Grund des Eintrags;
-- d. Verfügungen, Risikobeurteilungen, Gutachten, Anzeigen und Strafurteile.
+- d. Verfügungen, Risikobeurteilungen, Gutachten, Anzeigen und Strafurteile;
+- e.[^85-4]
+
+  im Zusammenhang mit Stoffen und Zubereitungen (Chemikalien) nach dem Chemikaliengesetz vom 15. Dezember 2000[^85-5] (ChemG):
+
+  - 1\. eine Liste der im Betrieb gelagerten und verwendeten Chemikalien, einschliesslich der damit ausgeführten Tätigkeiten, sowie die Namen der Arbeitnehmer und Arbeitnehmerinnen, welche diese Tätigkeiten ausführen,
+  - 2\. Informationen zu den Vorgaben für den Umgang mit den im Betrieb verwendeten Chemikalien, zu den von ihnen ausgehenden Gefährdungen und Risiken sowie zu Expositionen gegenüber diesen Chemikalien, zu den zu treffenden und getroffenen Schutzmassnahmen, insbesondere betreffend meldepflichtige Chemikalien nach Artikel 48 der Chemikalienverordnung vom 5. Juni 2015[^85-6] (ChemV) sowie betreffend Verbote nach Anhang 1.17 der Chemikalien-Risikoreduktions-Verordnung vom 18. Mai 2005[^85-7],
+  - 3\.
+
+    die folgenden nicht vertraulichen Daten aus dem Register über Stoffe und Zubereitungen nach Artikel 27 ChemG, die automatisiert abgerufen werden können:
+
+    - – Daten nach Artikel 73 Absatz 5 ChemV
+    - – Daten nach Artikel 34 Absatz 1 der Biozidprodukteverordnung vom 18. Mai 2005[^85-8]
+    - – Daten nach Artikel 52 Absatz 3 der Pflanzenschutzmittelverordnung vom 12. Mai 2010[^85-9].
 
 [^85-1]: Fassung gemäss Ziff. I der V vom 6. Mai 2009, in Kraft seit 1. Juni 2009 ([AS 2009 2399](https://fedlex.data.admin.ch/eli/oc/2009/292)).
+[^85-2]: Eingefügt durch Ziff. I der V vom 19. Juni 2024, in Kraft seit 1. Sept. 2024 ([AS 2024 316](https://fedlex.data.admin.ch/eli/oc/2024/316)).
+[^85-3]: [SR 822.113](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9894)
+[^85-4]: Eingefügt durch Ziff. I der V vom 19. Juni 2024, in Kraft seit 1. Sept. 2024 ([AS 2024 316](https://fedlex.data.admin.ch/eli/oc/2024/316)).
+[^85-5]: [SR 813.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9395)
+[^85-6]: [SR 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
+[^85-7]: [SR 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
+[^85-8]: [SR 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
+[^85-9]: [SR 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
 
 #### Art. 86
 
@@ -1585,7 +1607,7 @@ Nacht- und Sonntagsarbeit, um im Auftrag von Behörden folgende Arbeiten, die ni
 - – Vortriebs-, Ausbau- und Sicherungsarbeiten an bestehenden und neuen Tunnels, Galerien und Stollen;
 - – Tiefenbohrungen.
 
-[^annexu1-lvlu1-lvl14-1]: [SR 822.112](https://fedlex.data.admin.ch/eli/cc/2000/244)
+[^annexu1-lvlu1-lvl14-1]: [SR 822.112](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9891)
 
 ### 15. Uhrenindustrie
 

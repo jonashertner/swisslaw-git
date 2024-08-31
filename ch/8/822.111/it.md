@@ -4,11 +4,11 @@ title: Ordinanza 1 del 10 maggio 2000 concernente la legge sul lavoro (OLL 1)
 short: OLL 1
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/243"
 language: it
-version: 2024-04-01
+version: 2024-09-01
 adopted: 2000-05-10
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/243/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2000-243-20240401-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20240401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/243/20240901/it/xml/fedlex-data-admin-ch-eli-cc-2000-243-20240901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20240901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/243/20240401/it"
 
 (OLL 1)
 
-del 10 maggio 2000 (Stato 1° aprile 2024)
+del 10 maggio 2000 (Stato 1° settembre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -25,9 +25,9 @@ visto l’articolo 40 della legge del 13 marzo 1964[^ingress-1] sul lavoro (legg
 
 ordina:
 
-[^ingress-1]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
-[^ingress-2]: [RS 832.20](https://fedlex.data.admin.ch/eli/cc/1982/1676_1676_1676)
-[^ingress-3]: [RS 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^ingress-1]: [RS 822.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9884)
+[^ingress-2]: [RS 832.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10190)
+[^ingress-3]: [RS 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^ingress-4]: Nuovo testo giusta l’all. 2 n. II 110 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 
 ## Capitolo 1: Campo d’applicazione
@@ -781,7 +781,7 @@ La domanda deve essere presentata per scritto ed essere sufficientemente motivat
 - h. l’assenso di terzi, sempreché sia previsto dalla legge o da un’ordinanza.
 
 [^41-1]: Nuovo testo giusta il n. I dell’O del 2 feb. 2022, in vigore dal 1° apr. 2022 ([RU 2022 100](https://fedlex.data.admin.ch/eli/oc/2022/100)).
-[^41-2]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^41-2]: [RS 822.115](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9896)
 
 #### Art. 42
 
@@ -864,8 +864,8 @@ La visita medica e la consulenza sono obbligatorie per i giovani che svolgono, r
 <sup>5</sup> Se il lavoratore è considerato idoneo a talune condizioni, i medici incaricati della visita sono svincolati dal segreto professionale nei confronti del datore di lavoro qualora sia necessario per adottare misure nell’azienda e sempreché, dopo essere venuto a conoscenza dell’esito della visita, il lavoratore in questione acconsenta alla trasmissione di informazioni al datore di lavoro.
 
 [^45-1]: Nuovo testo giusta il n. I dell’O del 18 set. 2020, in vigore dal 1° nov. 2020 ([RU 2020 4135](https://fedlex.data.admin.ch/eli/oc/2020/754)).
-[^45-2]: [RS 832.30](https://fedlex.data.admin.ch/eli/cc/1983/1968_1968_1968)
-[^45-3]: [RS 741.51](https://fedlex.data.admin.ch/eli/cc/1976/2423_2423_2423)
+[^45-2]: [RS 832.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10209)
+[^45-3]: [RS 741.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8668)
 
 ### Sezione 2: Ulteriori misure
 
@@ -970,8 +970,8 @@ Il risultato della valutazione dei rischi e le misure di protezione proposte dag
 
 <sup>4</sup> Il datore di lavoro deve provvedere a informare e istruire, in modo tempestivo, esauriente e adeguato, le donne che svolgono lavori gravosi e pericolosi sui pericoli e i provvedimenti connessi con la gravidanza e la maternità.
 
-[^63-1]: [RS 832.30](https://fedlex.data.admin.ch/eli/cc/1983/1968_1968_1968)
-[^63-2]: [RS 822.113](https://fedlex.data.admin.ch/eli/cc/1993/2553_2553_2553)
+[^63-1]: [RS 832.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10209)
+[^63-2]: [RS 822.113](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9894)
 
 ### Sezione 3: Restrizioni e divieti di occupazione
 
@@ -1032,7 +1032,7 @@ Se non è possibile un trasferimento giusta l’articolo 64 capoverso 3, la donn
 
 <sup>2</sup> Se il regolamento aziendale è emanato dal datore di lavoro, un esemplare è affisso nell’azienda in luogo ben visibile o è distribuito ai lavoratori. Entro quattro settimane, i lavoratori possono esprimere per scritto il loro parere o devono essere ascoltati personalmente dal datore di lavoro.
 
-[^67-1]: [RS 822.14](https://fedlex.data.admin.ch/eli/cc/1994/1037_1037_1037)
+[^67-1]: [RS 822.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9904)
 
 #### Art. 68
 
@@ -1208,7 +1208,7 @@ La SECO è il servizio della Confederazione preposto alla protezione dei lavorat
 <sup>4</sup> La SECO può prescrivere moduli uniformi per domande, permessi e approvazioni.
 
 [^75-1]: Nuovo testo giusta il n. I dell’O del 24 apr. 2002, in vigore dal 1° giu. 2002 ([RU 2002 1347](https://fedlex.data.admin.ch/eli/oc/2002/200)).
-[^75-2]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+[^75-2]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
 
 #### Art. 76
 
@@ -1370,7 +1370,8 @@ La SECO, nell’ambito della sua attività di vigilanza e di esecuzione, gestisc
 - c. la banca dati inerente al diritto del lavoro, che contiene informazioni generali sul diritto pubblico e privato del lavoro;
 - d. la banca dati inerente all’esecuzione, gestita dalla Commissione federale di coordinamento per la sicurezza sul lavoro (CFSL), che contiene in particolare dati sull’attività d’ispezione degli organi d’esecuzione della legge e della LAINF;
 - e. le ispezioni alle aziende;
-- f. la gestione degli indirizzi.
+- f. la gestione degli indirizzi;
+- g.[^85-2] l’adempimento dei compiti secondo l’articolo 24*a* dell’ordinanza 3 del 18 agosto 1993[^85-3] concernente la legge sul lavoro.
 
 <sup>2</sup>
 
@@ -1388,9 +1389,30 @@ Il sistema può inoltre contenere:
 - a. i piani, le descrizioni dei piani, le approvazioni dei piani e i permessi d’esercizio nell’ambito della procedura di cui all’articolo 7 capoverso 4 della legge;
 - b. i verbali delle ispezioni delle aziende;
 - c. il motivo dell’iscrizione;
-- d. le decisioni, le valutazioni dei rischi, le perizie, le denunce e le sentenze penali.
+- d. le decisioni, le valutazioni dei rischi, le perizie, le denunce e le sentenze penali;
+- e.[^85-4]
+
+  in relazione alle sostanze e ai preparati (prodotti chimici) secondo la legge del 15 dicembre 2000[^85-5] sui prodotti chimici (LPChim):
+
+  - 1\. una lista dei prodotti chimici depositati e impiegati nell’azienda, comprese le attività che implicano tali prodotti, nonché i nomi dei lavoratori che svolgono tali attività,
+  - 2\. le informazioni sulle disposizioni per l’utilizzazione dei prodotti chimici impiegati nell’azienda, sui pericoli e sui rischi che essi comportano, sull’esposizione a tali prodotti, sulle misure di protezione adottate e da adottare, in particolare concernenti i prodotti chimici assoggettati all’obbligo di annuncio di cui all’articolo 48 dell’ordinanza del 5 giugno 2015[^85-6] sui prodotti chimici (OPChim) nonché i divieti secondo l’allegato 1.17 dell’ordinanza del 18 maggio 2005[^85-7] sulla riduzione dei rischi inerenti ai prodotti chimici,
+  - 3\.
+
+    i seguenti dati non confidenziali provenienti dal registro delle sostanze e dei preparati di cui all’articolo 27 LPChim che possono essere richiamati in modo automatizzato:
+
+    - – i dati secondo l’articolo 73 capoverso 5 OPChim
+    - – i dati secondo l’articolo 34 capoverso 1 dell’ordinanza del 18 maggio 2005[^85-8] sui biocidi
+    - – i dati secondo l’articolo 52 capoverso 3 dell’ordinanza del 12 maggio 2010[^85-9] sui prodotti fitosanitari.
 
 [^85-1]: Nuovo testo giusta il n. I dell’O del 6 mag. 2009, in vigore dal 1° giu. 2009 ([RU 2009 2399](https://fedlex.data.admin.ch/eli/oc/2009/292)).
+[^85-2]: Introdotta dal n. I dell’O del 19 giu. 2024, in vigore dal 1° set. 2024 ([RU 2024 316](https://fedlex.data.admin.ch/eli/oc/2024/316)).
+[^85-3]: [RS 822.113](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9894)
+[^85-4]: Introdotta dal n. I dell’O del 19 giu. 2024, in vigore dal 1° set. 2024 ([RU 2024 316](https://fedlex.data.admin.ch/eli/oc/2024/316)).
+[^85-5]: [RS 813.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9395)
+[^85-6]: [RS 813.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9396)
+[^85-7]: [RS 814.81](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9592)
+[^85-8]: [RS 813.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9400)
+[^85-9]: [RS 916.161](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10643)
 
 #### Art. 86
 
@@ -1584,7 +1606,7 @@ lavoro notturno e domenicale per effettuare, su mandato delle autorità, i segue
 - – lavori di avanzamento, di sistemazione e di sicurezza a gallerie e cunicoli in fase di costruzione o esistenti;
 - – trivellazioni in profondità.
 
-[^annexu1-lvlu1-lvl14-1]: [RS 822.112](https://fedlex.data.admin.ch/eli/cc/2000/244)
+[^annexu1-lvlu1-lvl14-1]: [RS 822.112](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9891)
 
 ### 15. Orologeria:
 
