@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 26. September 2014 betreffend die Aufsicht über die so
 short: KVAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/839"
 language: de
-version: 2024-03-01
+version: 2024-09-01
 adopted: 2014-09-26
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/839/20240301/de/xml/fedlex-data-admin-ch-eli-cc-2015-839-20240301-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/839/20240301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/839/20240901/de/xml/fedlex-data-admin-ch-eli-cc-2015-839-20240901-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/839/20240901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/839/20240301/de"
 
 (Krankenversicherungsaufsichtsgesetz, KVAG)
 
-vom 26. September 2014 (Stand am 1. März 2024)
+vom 26. September 2014 (Stand am 1. September 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -278,7 +278,40 @@ Die Rückerstattung erfolgt in der Form einer Rückvergütung des Versicherers a
 
 <sup>2</sup> Der Versicherer weist in seiner Jahresrechnung den Aufwand für Werbung und Vermittlerprovisionen gesondert aus.
 
-<sup>3</sup> Die Versicherer können eine Vereinbarung abschliessen, in welcher die Telefonwerbung, den Verzicht auf Leistungen der Call Centers und die Einschränkung der Entschädigung der Vermittlertätigkeit geregelt wird.
+<sup>3</sup> …[^19-1]
+
+[^19-1]: Aufgehoben durch Ziff. I 1 des BG vom 16. Dez. 2022 über die Regulierung der Versicherungsvermittlertätigkeit, mit Wirkung seit 1. Sept. 2024 ([AS 2024 424](https://fedlex.data.admin.ch/eli/oc/2024/424); [BBl 2021 1478](https://fedlex.data.admin.ch/eli/fga/2021/1478)).
+
+### 1*a*. Abschnitt: Regulierung der Vermittlertätigkeit
+
+[^chap3-sec1a-1]
+
+[^chap3-sec1a-1]: Eingefügt durch Ziff. I 1 des BG vom 16. Dez. 2022 über die Regulierung der Versicherungsvermittlertätigkeit, in Kraft seit 1. Sept. 2024 ([AS 2024 424](https://fedlex.data.admin.ch/eli/oc/2024/424); [BBl 2021 1478](https://fedlex.data.admin.ch/eli/fga/2021/1478)).
+
+#### Art. 19a
+
+**Versicherungsvermittlerinnen und -vermittler**
+
+Versicherungsvermittlerinnen und -vermittler sind, unabhängig von ihrer Bezeichnung, Personen, die im Interesse eines oder mehrerer Versicherer gegen Entschädigung Versicherten den Beitritt zu einem Versicherer vorschlagen oder ermöglichen.
+
+#### Art. 19b
+
+**Vereinbarung zwischen Versicherern**
+
+<sup>1</sup>
+
+Die Versicherer können eine Vereinbarung abschliessen, in der Folgendes geregelt wird:
+
+- a. die Telefonwerbung;
+- b. der Verzicht auf Leistungen der Call-Center;
+- c. das Verbot der Telefonwerbung bei Personen, die nie bei ihnen versichert waren oder seit längerer Zeit nicht mehr versichert sind;
+- d. die Ausbildung der Versicherungsvermittlerinnen und -vermittler;
+- e. die Einschränkung der Entschädigung der Tätigkeit der Versicherungsvermittlerinnen und -vermittler;
+- f. die Erstellung und die Unterzeichnung von Beratungsprotokollen.
+
+<sup>2</sup> Auf Gesuch von Versicherern, die zusammen mindestens 66 Prozent der Versicherten vertreten, kann der Bundesrat die Regelungen der Punkte nach Absatz 1 Buchstaben c–f auf dem Verordnungsweg allgemeinverbindlich erklären. Die Regelungen müssen der Gesetzgebung entsprechen und die Höhe der Entschädigung nach Absatz 1 Buchstabe e muss nach betriebswirtschaftlichen Regeln festgelegt werden. Vor der Allgemeinverbindlichkeitserklärung hört der Bundesrat die Versicherer an.
+
+<sup>3</sup> Der Bundesrat legt in der Verordnung nach Absatz 2 die Verstösse gegen die verbindlich erklärten Regelungen fest.
 
 ### 2. Abschnitt: Unternehmensführung und Revision
 
@@ -564,6 +597,17 @@ Die Aufsichtsbehörde kann insbesondere:
 [^38-1]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^38-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 
+#### Art. 38a
+
+**Massnahmen bei Missachtung der Regulierung der Vermittlertätigkeit**[^38a-1]
+
+Missachtet ein Versicherer eine nach Artikel 19*b* Absatz 2 verbindlich erklärte Regelung, so kann die Aufsichtsbehörde ihm für die Dauer von höchstens einem Jahr:
+
+- a. die Entschädigung von Versicherungsvermittlerinnen und -vermittlern verbieten, an die er nicht durch einen Arbeitsvertrag gebunden ist;
+- b. eine Einschränkung seiner Kosten für das Akquirieren neuer Versicherter anordnen.
+
+[^38a-1]: Eingefügt durch Ziff. I 1 des BG vom 16. Dez. 2022 über die Regulierung der Versicherungsvermittlertätigkeit, in Kraft seit 1. Sept. 2024 ([AS 2024 424](https://fedlex.data.admin.ch/eli/oc/2024/424); [BBl 2021 1478](https://fedlex.data.admin.ch/eli/fga/2021/1478)).
+
 #### Art. 39
 
 **Von der Aufsichtsbehörde beauftragte Person**
@@ -763,14 +807,17 @@ Mit Busse bis zu 100 000 Franken wird bestraft, wer vorsätzlich:
 - d. Vorschriften über die Leistungsvergütung nach Artikel 34 Absatz 1 KVG verletzt;
 - e. Vorschriften über die Kostenbeteiligung nach Artikel 64 KVG verletzt;
 - f. Vorschriften über die Prämien der Versicherten nach den Artikeln 61–63 KVG verletzt;
-- g. den Geschäftsbericht nicht innerhalb der gesetzlichen Frist einreicht.
+- g. den Geschäftsbericht nicht innerhalb der gesetzlichen Frist einreicht;
+- h.[^54-3] eine Widerhandlung gegen einen nach Artikel 19*b* Absatz 3 festgelegten Verstoss begeht.
 
-<sup>4</sup> Wer in den Fällen nach Absatz 3 Buchstaben b–f fahrlässig handelt, wird mit Busse bis zu 20 000 Franken bestraft.
+<sup>4</sup> Wer in den Fällen nach Absatz 3 Buchstaben b–f und h fahrlässig handelt, wird mit Busse bis zu 20 000 Franken bestraft.[^54-4]
 
 <sup>5</sup> Haben die Aufsichtsbehörde oder beauftragte Personen Auskünfte unter Mitwirkung einer Person erlangt, so dürfen diese in einem Strafverfahren gegen dieselbe Person nur verwendet werden, wenn die Person zustimmt oder die Auskünfte auch ohne ihre Mitwirkung hätten erlangt werden können.
 
 [^54-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^54-2]: [SR 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^54-3]: Eingefügt durch Ziff. I 1 des BG vom 16. Dez. 2022 über die Regulierung der Versicherungsvermittlertätigkeit, in Kraft seit 1. Sept. 2024 ([AS 2024 424](https://fedlex.data.admin.ch/eli/oc/2024/424); [BBl 2021 1478](https://fedlex.data.admin.ch/eli/fga/2021/1478)).
+[^54-4]: Fassung gemäss Ziff. I 1 des BG vom 16. Dez. 2022 über die Regulierung der Versicherungsvermittlertätigkeit, in Kraft seit 1. Sept. 2024 ([AS 2024 424](https://fedlex.data.admin.ch/eli/oc/2024/424); [BBl 2021 1478](https://fedlex.data.admin.ch/eli/fga/2021/1478)).
 
 #### Art. 55
 

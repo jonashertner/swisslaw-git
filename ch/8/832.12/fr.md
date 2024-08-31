@@ -4,11 +4,11 @@ title: "Loi fédérale du 26 septembre 2014 sur la surveillance de l'assurance-m
 short: LSAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/839"
 language: fr
-version: 2024-03-01
+version: 2024-09-01
 adopted: 2014-09-26
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/839/20240301/fr/xml/fedlex-data-admin-ch-eli-cc-2015-839-20240301-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/839/20240301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/839/20240901/fr/xml/fedlex-data-admin-ch-eli-cc-2015-839-20240901-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/839/20240901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/839/20240301/fr"
 
 (Loi sur la surveillance de l’assurance-maladie, LSAMal)[^t-1]
 
-du 26 septembre 2014 (État le 1<sup>er</sup> mars 2024)
+du 26 septembre 2014 (État le 1<sup>er</sup> septembre 2024)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -280,7 +280,40 @@ Le remboursement prend la forme d’une ristourne accordée par l’assureur aux
 
 <sup>2</sup> Dans ses comptes annuels, l’assureur atteste de manière séparée les dépenses de publicité et les commissions versées aux intermédiaires.
 
-<sup>3</sup> Les assureurs peuvent conclure un accord visant à régler le démarchage téléphonique, l’abandon des services fournis par des centres d’appels et la limitation de l’indemnisation des intermédiaires.
+<sup>3</sup> …[^19-1]
+
+[^19-1]: Abrogé par le ch. I 1 de la LF du 16 déc. 2022 sur la réglementation de l’activité des intermédiaires d’assurance, avec effet au 1<sup>er</sup> sept. 2024 ([RO 2024 424](https://fedlex.data.admin.ch/eli/oc/2024/424); [FF 2021 1478](https://fedlex.data.admin.ch/eli/fga/2021/1478)).
+
+### Section 1*a* Réglementation de l’activité des intermédiaires d’assurance
+
+[^chap3-sec1a-1]
+
+[^chap3-sec1a-1]: Introduite par le ch. I 1 de la LF du 16 déc. 2022 sur la réglementation de l’activité des intermédiaires d’assurance, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 424](https://fedlex.data.admin.ch/eli/oc/2024/424); [FF 2021 1478](https://fedlex.data.admin.ch/eli/fga/2021/1478)).
+
+#### Art. 19a
+
+**Intermédiaires d’assurance**
+
+Par intermédiaire d’assurance, on entend toute personne qui, quelle que soit sa désignation, agit dans l’intérêt d’un ou plusieurs assureurs contre rémunération en proposant ou permettant l’affiliation d’assurés.
+
+#### Art. 19b
+
+**Accord entre assureurs**
+
+<sup>1</sup>
+
+Les assureurs peuvent conclure un accord visant à réglementer:
+
+- a. le démarchage téléphonique;
+- b. la renonciation aux services fournis par des centres d’appels;
+- c. l’interdiction du démarchage téléphonique des personnes qui n’ont jamais été assurées auprès d’eux ou qui ne le sont plus depuis un certain temps;
+- d. la formation des intermédiaires d’assurance;
+- e. la limitation de la rémunération de l’activité d’intermédiaire d’assurance;
+- f. l’établissement et la signature des procès-verbaux des entretiens de conseil.
+
+<sup>2</sup> À la demande d’assureurs représentant au moins 66 % des assurés, le Conseil fédéral peut, par voie d’ordonnance, donner force obligatoire générale à la réglementation des points visés à l’al. 1, let. c à f. La réglementation doit être conforme à la législation et le montant de la rémunération visée à l’al. 1, let. e, doit être fixé selon les règles applicables en économie d’entreprise. Avant la déclaration de force obligatoire, le Conseil fédéral auditionne les assureurs.
+
+<sup>3</sup> Le Conseil fédéral détermine dans l’ordonnance visée à l’al. 2 les infractions pénales à la réglementation qui a force obligatoire.
 
 ### Section 2 Gestion d’entreprise et révision
 
@@ -566,6 +599,17 @@ L’autorité de surveillance peut notamment:
 [^38-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^38-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 
+#### Art. 38a
+
+**Mesures en cas de non-respect de la réglementation de l’activité des intermédiaires d’assurance**[^38a-1]
+
+Lorsqu’un assureur ne respecte pas une réglementation qui a force obligatoire en vertu de l’art. 19*b*, al. 2, l’autorité de surveillance peut prendre les mesures suivantes pour un an au maximum:
+
+- a. lui interdire la rémunération des intermédiaires d’assurance avec lesquels il n’est pas lié par un contrat de travail;
+- b. ordonner une limitation des frais de prospection de nouveaux assurés.
+
+[^38a-1]: Introduit par le ch. I 1 de la LF du 16 déc. 2022 sur la réglementation de l’activité des intermédiaires d’assurance, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 424](https://fedlex.data.admin.ch/eli/oc/2024/424); [FF 2021 1478](https://fedlex.data.admin.ch/eli/fga/2021/1478)).
+
 #### Art. 39
 
 **Délégué de l’autorité de surveillance**
@@ -765,14 +809,17 @@ Est puni d’une amende de 100 000 francs au plus quiconque, intentionnellement:
 - d. viole les prescriptions relatives au remboursement des prestations au sens de l’art. 34, al. 1, LAMal;
 - e. viole les prescriptions relatives à la participation aux coûts au sens de l’art. 64 LAMal;
 - f. viole les prescriptions relatives aux primes des assurés au sens des art. 61 à 63 LAMal;
-- g. ne présente pas le rapport de gestion dans le délai fixé par la loi.
+- g. ne présente pas le rapport de gestion dans le délai fixé par la loi;
+- h.[^54-3] commet une infraction visée à l’art. 19*b*, al. 3.
 
-<sup>4</sup> Si l’auteur agit par négligence dans les cas visés à l’al. 3, let. b à f, il est puni d’une amende de 20 000 francs au plus.
+<sup>4</sup> Si l’auteur agit par négligence dans les cas visés à l’al. 3, let. b à f et h, il est puni d’une amende de 20 000 francs au plus.[^54-4]
 
 <sup>5</sup> Les renseignements que l’autorité de surveillance ou la personne mandatée a obtenus grâce à la collaboration d’une personne ne peuvent être utilisés contre celle-ci dans une procédure pénale que si la personne concernée donne son consentement ou que ces renseignements auraient pu être obtenus sans sa collaboration.
 
 [^54-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^54-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^54-3]: Introduite par le ch. I 1 de la LF du 16 déc. 2022 sur la réglementation de l’activité des intermédiaires d’assurance, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 424](https://fedlex.data.admin.ch/eli/oc/2024/424); [FF 2021 1478](https://fedlex.data.admin.ch/eli/fga/2021/1478)).
+[^54-4]: Nouvelle teneur selon le ch. I 1 de la LF du 16 déc. 2022 sur la réglementation de l’activité des intermédiaires d’assurance, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 424](https://fedlex.data.admin.ch/eli/oc/2024/424); [FF 2021 1478](https://fedlex.data.admin.ch/eli/fga/2021/1478)).
 
 #### Art. 55
 

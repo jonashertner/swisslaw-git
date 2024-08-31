@@ -4,11 +4,11 @@ title: "Legge federale del 26 settembre 2014 concernente la vigilanza sull'assic
 short: LVAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/839"
 language: it
-version: 2024-03-01
+version: 2024-09-01
 adopted: 2014-09-26
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/839/20240301/it/xml/fedlex-data-admin-ch-eli-cc-2015-839-20240301-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/839/20240301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/839/20240901/it/xml/fedlex-data-admin-ch-eli-cc-2015-839-20240901-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/839/20240901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/839/20240301/it"
 
 (Legge sulla vigilanza sull’assicurazione malattie, LVAMal)
 
-del 26 settembre 2014 (Stato 1° marzo 2024)
+del 26 settembre 2014 (Stato 1° settembre 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -278,7 +278,40 @@ La restituzione avviene sotto forma di rimborso concesso dall’assicuratore all
 
 <sup>2</sup> L’assicuratore indica separatamente nel conto annuale i costi per la pubblicità e le provvigioni degli intermediari.
 
-<sup>3</sup> Gli assicuratori possono concludere un accordo che disciplini la pubblicità telefonica, la rinuncia alle prestazioni dei call center e la fissazione di limiti all’indennizzo dell’attività degli intermediari.
+<sup>3</sup> ...[^19-1]
+
+[^19-1]: Abrogato dal n. I 1 della LF del 16 dic. 2022 che disciplina l’attività degli intermediari assicurativi, con effetto dal 1° set. 2024 ([RU 2024 424](https://fedlex.data.admin.ch/eli/oc/2024/424); [FF 2021 1478](https://fedlex.data.admin.ch/eli/fga/2021/1478)).
+
+### Sezione 1*a*: Disciplinamento dell’attività degli intermediari assicurativi
+
+[^chap3-sec1a-1]
+
+[^chap3-sec1a-1]: Introdotta dal n. I 1 della LF del 16 dic. 2022che disciplina l’attività degli intermediari assicurativi , in vigore dal 1° set. 2024 ([RU 2024 424](https://fedlex.data.admin.ch/eli/oc/2024/424); [FF 2021 1478](https://fedlex.data.admin.ch/eli/fga/2021/1478)).
+
+#### Art. 19a
+
+**Intermediari assicurativi**
+
+Gli intermediari assicurativi sono, indipendentemente dalla loro designazione, persone che dietro compenso agiscono nell’interesse di uno o più assicuratori proponendo o permettendo l’affiliazione di assicurati.
+
+#### Art. 19b
+
+**Accordo tra assicuratori**
+
+<sup>1</sup>
+
+Gli assicuratori possono concludere un accordo che disciplini:
+
+- a. la pubblicità telefonica;
+- b. la rinuncia alle prestazioni dei call center;
+- c. il divieto di pubblicità telefonica rivolta alle persone che non sono mai state assicurate presso di loro o che non lo sono più da tempo;
+- d. la formazione degli intermediari assicurativi;
+- e. la limitazione della rimunerazione dell’attività degli intermediari assicurativi;
+- f. la redazione e la firma di un verbale per i colloqui di consulenza.
+
+<sup>2</sup> Su richiesta degli assicuratori che rappresentano insieme almeno il 66 per cento degli assicurati, il Consiglio federale può, per via di ordinanza, conferire carattere obbligatorio generale al disciplinamento dei punti di cui al capoverso 1 lettere c–f. Il disciplinamento dev’essere conforme alla legislazione e l’importo della rimunerazione di cui al capoverso 1 lettera e dev’essere stabilito secondo le regole dell’economia. Prima di conferire il carattere di obbligatorietà il Consiglio federale sente gli assicuratori.
+
+<sup>3</sup> Il Consiglio federale determina nell’ordinanza di cui al capoverso 2 le infrazioni penali al disciplinamento a cui è stato conferito carattere obbligatorio.
 
 ### Sezione 2: Gestione aziendale e revisione
 
@@ -564,6 +597,17 @@ Essa può in particolare:
 [^38-1]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^38-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
 
+#### Art. 38a
+
+**Provvedimenti in caso di mancato rispetto del disciplinamento dell’attività degli intermediari assicurativi**[^38a-1]
+
+Se un assicuratore non rispetta un disciplinamento a cui è stato conferito carattere obbligatorio secondo l’articolo 19*b* capoverso 2, l’autorità di vigilanza può, per al massimo un anno:
+
+- a. vietargli di rimunerare gli intermediari assicurativi ai quali non è legato da un contratto di lavoro;
+- b. ordinare una limitazione delle spese per l’acquisizione di nuovi assicurati.
+
+[^38a-1]: Introdotto dal n. I 1 della LF del 16 dic. 2022 che disciplina l’attività degli intermediari assicurativi, in vigore dal 1° set. 2024 ([RU 2024 424](https://fedlex.data.admin.ch/eli/oc/2024/424); [FF 2021 1478](https://fedlex.data.admin.ch/eli/fga/2021/1478)).
+
 #### Art. 39
 
 **Persona incaricata dall’autorità di vigilanza**
@@ -763,14 +807,17 @@ L’istituzione comune assume, attingendo dal fondo per i casi d’insolvenza, l
 - d. viola le prescrizioni concernenti il rimborso delle prestazioni secondo l’articolo 34 capoverso 1 LAMal;
 - e. viola le prescrizioni concernenti la partecipazione ai costi secondo l’articolo 64 LAMal;
 - f. viola le prescrizioni concernenti i premi degli assicurati secondo gli articoli 61–63 LAMal;
-- g. non presenta la relazione sulla gestione entro il termine legale.
+- g. non presenta la relazione sulla gestione entro il termine legale;
+- h.[^54-3] commette un’infrazione ai sensi dell’articolo 19*b* capoverso 3.
 
-<sup>4</sup> Chi ha agito per negligenza nei casi di cui al capoverso 3 lettere b–f è punito con la multa sino a 20 000 franchi.
+<sup>4</sup> Chi ha agito per negligenza nei casi di cui al capoverso 3 lettere b–f ed h è punito con la multa sino a 20 000 franchi.[^54-4]
 
 <sup>5</sup> Le informazioni che l’autorità di vigilanza o la persona incaricata ha ottenuto grazie alla collaborazione di una persona possono essere utilizzate contro tale persona nell’ambito di un procedimento penale soltanto con il suo consenso o se sarebbe stato possibile ottenere tali informazioni anche senza la sua collaborazione.
 
 [^54-1]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 [^54-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^54-3]: Introdotta dal n. I 1 della LF del 16 dic. 2022 che disciplina l’attività degli intermediari assicurativi, in vigore dal 1° set. 2024 ([RU 2024 424](https://fedlex.data.admin.ch/eli/oc/2024/424); [FF 2021 1478](https://fedlex.data.admin.ch/eli/fga/2021/1478)).
+[^54-4]: Nuovo testo giusta il n. I 1 della LF del 16 dic. 2022 che disciplina l’attività degli intermediari assicurativi, in vigore dal 1° set. 2024 ([RU 2024 424](https://fedlex.data.admin.ch/eli/oc/2024/424); [FF 2021 1478](https://fedlex.data.admin.ch/eli/fga/2021/1478)).
 
 #### Art. 55
 
