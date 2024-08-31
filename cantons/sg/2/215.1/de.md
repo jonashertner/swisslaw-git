@@ -4,13 +4,13 @@ number: "215.1"
 title: Mittelschulgesetz
 short: MSG
 language: de
-version: 2024-01-01
-valid_until: 2024-08-31
-version_adopted: 2023-08-08
+version: 2024-09-01
+valid_until: 2026-09-30
+version_adopted: 2024-06-25
 adopted: 1980-06-12
 in_force: 1981-08-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/215.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3543/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3655/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3543/pdf_file"
 
 (MSG)
 
-vom 12.06.1980 (Stand 01.01.2024)
+vom 12.06.1980 (Stand 01.09.2024)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -652,6 +652,14 @@ als Gesetz:[^ingress-3]
 #### Art. 69
 
 **…**
+
+#### Art. 69bis
+
+**Gesundheitspolizeiliche Massnahmen**
+
+<sup>1</sup> Im Fall einer besonderen oder ausserordentlichen Lage nach [Art. 6](https://db.clex.ch/link/Bund/818.101/de) oder [7](https://db.clex.ch/link/Bund/818.101/de) des eidgenössischen Epidemiengesetzes vom 28. September 2012[^69bis-1] ordnet die Regierung befristete und gesamtkantonal geltende gesundheitspolizeiliche Massnahmen in den Mittelschulen zur Abwehr und Bekämpfung übertragbarer Krankheiten und anderer Gefährdungen der Gesundheit an.
+
+[^69bis-1]: SR [818.101](https://db.clex.ch/link/Bund/818.101/de).
 
 ### 2. Bildungsrat
 
