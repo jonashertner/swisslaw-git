@@ -4,13 +4,13 @@ number: "773.200"
 title: Energiegesetz des Kantons Aargau
 short: EnergieG
 language: de
-version: 2024-07-01
-valid_until: 2024-08-31
-version_adopted: 2023-09-19
+version: 2024-09-01
+valid_until: 2025-03-31
+version_adopted: 2020-09-08
 adopted: 2012-01-17
 in_force: 2012-09-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/773.200"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3467/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3591/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3467/pdf_file"
 
 (EnergieG)
 
-Vom 17.01.2012 (Stand 01.07.2024)
+Vom 17.01.2012 (Stand 01.09.2024)
 
 Der Grosse Rat des Kantons Aargau,
 
@@ -399,6 +399,8 @@ beschliesst:
 <sup>1</sup> Der Regierungsrat übt alle dem Kanton zustehenden Aktionärsrechte aus.
 
 <sup>2</sup> Für Statutenänderungen, die das Stimmrecht des Kantons verkleinern, holt der Regierungsrat die Zustimmung des Grossen Rats ein.
+
+<sup>3</sup> Der Regierungsrat setzt sich im Rahmen seiner Stimmrechte dafür ein, dass die Wasserkraftwerke sowie die Netze in öffentlicher schweizerischer Hand verbleiben.
 
 ## 10. Vollzug
 
