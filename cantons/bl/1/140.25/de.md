@@ -3,20 +3,20 @@ canton: BL
 number: "140.25"
 title: Verordnung über die Zuständigkeit für die Genehmigung von Gemeindenormen
 language: de
-version: 2023-07-01
-valid_until: 2024-08-31
-version_adopted: 2023-05-30
+version: 2024-09-01
+valid_until: 2026-05-31
+version_adopted: 2024-06-25
 adopted: 2017-10-24
 in_force: 2018-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/140.25"
-pdf: "https://bl.clex.ch/api/de/versions/3609/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3944/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Zuständigkeit für die Genehmigung von Gemeindenormen
 
-Vom 24.10.2017 (Stand 01.07.2023)
+Vom 24.10.2017 (Stand 01.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -116,7 +116,8 @@ beschliesst:
 - e. Reklamen,
 - f. Parkieren,
 - g. Einbürgerung,
-- h. Stiftungsaufsicht.
+- h. Stiftungsaufsicht,
+- i. frühe Sprachförderung.
 
 #### § 7
 
