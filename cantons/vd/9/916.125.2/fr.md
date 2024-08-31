@@ -4,7 +4,7 @@ number: "916.125.2"
 title: RÈGLEMENT du 27.05.2009 sur les vins vaudois (RVV)
 short: RVV
 language: fr
-version: 2024-01-01
+version: 2024-09-01
 url: "https://prestations.vd.ch/pub/blv-publication/actes/consolide/916.125.2?id=b58c3698-5558-41cf-beba-72e8ff39a804"
 ---
 
@@ -876,6 +876,42 @@ Chasselas 15,7 (64° Oe) Autres blancs 17,0 (70° Oe) Pinot noir 18,2 (75° Oe) 
 <sup>2</sup> La mention « Grande réserve » n'est pas admise.
 
 [^58-2]: Modif. 8 du 13.01.2021: Introduction tArt; entrée en vigueur au 01.02.2021; Introduction Al. 1-2; entrée en vigueur au 01.02.2021; Introduction Art. 58a; entrée en vigueur au 01.02.2021
+[^58a-1]: Modif. 10 du 28.08.2024: Introduction ; entrée en vigueur au 01.09.2024
+
+## Titre Va Comité de direction de l'Office des vins vaudois
+
+[^58a-1]
+
+#### Art. 58b
+
+**Composition [^titleTitreVa-1]**
+
+<sup>1</sup> Le comité de direction de l'Office des vins vaudois est composé de cinq à neuf membres au maximum dont :
+
+- a. des représentants des régions viticoles, des producteurs et des encaveurs du canton ;
+- b. un représentant de Vaud Promotion ;
+- c. des spécialistes, notamment en matière de vente, de distribution et de marketing ;
+- d. un représentant de l'État, avec voix consultative.
+
+[^titleTitreVa-1]: Modif. 10 du 28.08.2024: Introduction Art. 58b; entrée en vigueur au 01.09.2024
+
+#### Art. 58c
+
+**Organisation [^58b-1]**
+
+<sup>1</sup> Le Conseil d'État nomme les membres du comité et désigne le président pour un mandat de deux ans, renouvelable.
+
+<sup>2</sup> Les articles 54a, alinéas 2 et 3 et 56 de la loi sur l'organisation du Conseil d'État s'appliquent par analogie.
+
+[^58b-1]: Modif. 10 du 28.08.2024: Introduction tArt; entrée en vigueur au 01.09.2024; Introduction Al. 1-2; entrée en vigueur au 01.09.2024; Introduction Art. 58c; entrée en vigueur au 01.09.2024
+
+#### Art. 58d
+
+**Rétribution [^58c-1]**
+
+<sup>1</sup> L'article 57 de la loi sur l'organisation du Conseil d'État s'applique par analogie.
+
+[^58c-1]: Modif. 10 du 28.08.2024: Introduction Art. 58d; entrée en vigueur au 01.09.2024
 
 ## Titre VI DISPOSITIONS PÉNALES, TRANSITOIRES, ABROGATOIRES ET FINALES
 
@@ -927,6 +963,6 @@ Annexes [^62-1]
 
 1
 
-[Liste des cépages\_2018](https://prestations.vd.ch/pub/blv-publication/api/actes/b58c3698-5558-41cf-beba-72e8ff39a804/annexes/1?dmev=01.01.2024)
+[Liste des cépages\_2018](https://prestations.vd.ch/pub/blv-publication/api/actes/b58c3698-5558-41cf-beba-72e8ff39a804/annexes/1?dmev=01.09.2024)
 
 [^62-1]: Modif. 3 du 20.03.2013: Modification Ann; entrée en vigueur au 01.08.2012 · Modif. 4 du 28.06.2013: Modification Ann; entrée en vigueur au 01.07.2013 · Modif. 7 du 13.07.2018: Modification Ann; entrée en vigueur au 13.07.2018
