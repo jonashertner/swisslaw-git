@@ -4,13 +4,13 @@ number: 520b
 title: "Statut der Hochschule Luzern, FH Zentralschweiz"
 short: FHZ-Statut
 language: de
-version: 2024-01-01
-valid_until: 2024-08-31
-version_adopted: 2023-06-13
+version: 2024-09-01
+valid_until: 2025-12-31
+version_adopted: 2024-08-27
 adopted: 2021-08-26
 in_force: 2021-09-01
 url: "https://srl.lu.ch/app/de/texts_of_law/520b"
-pdf: "https://srl.lu.ch/api/de/versions/4155/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4259/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4155/pdf_file"
 
 (FHZ-Statut)
 
-vom 26.08.2021 (Stand 01.01.2024)
+vom 26.08.2021 (Stand 01.09.2024)
 
 Der Fachhochschulrat,
 
@@ -138,7 +138,7 @@ beschliesst:
 - b. die Zusammenarbeit mit anderen Hochschulen und Institutionen und den Austausch von Wissen und Technologie mit der Wissenschaft, der Gesellschaft, der Wirtschaft und der Kultur zu fördern,
 - c. die Hochschule Luzern in kantonalen, interkantonalen, nationalen und internationalen Gremien zu vertreten,
 - d. die interdisziplinäre Zusammenarbeit unter den Departementen sowie die Koordination ihrer Tätigkeiten zu fördern,
-- e. die Departemente, Finanzen und Services, die Stabsdienste des Rektorats und die Abteilungen Marketing und Kommunikation sowie Hochschulentwicklung und ‑dienste zu führen,
+- e. die Departemente, Finanzen und Services, das Generalsekretariat und die Abteilungen Marketing und Kommunikation sowie Hochschulentwicklung und ‑dienste zu führen,
 - f. die Personalentwicklung der Mitarbeitenden zu gewährleisten,
 - g. die Geschäfte des Fachhochschulrates vorzubereiten und dessen Sekretariat zu führen,
 - h. den Vorsitz der Hochschulleitung auszuüben,
@@ -151,11 +151,11 @@ beschliesst:
 
 #### Art. 13
 
-**Stabsdienste des Rektorates**
+**Generalsekretariat**
 
-<sup>1</sup> Die Stabsdienste des Rektorates unterstützen die Rektorin oder den Rektor bei allen Aufgaben, sofern diese nicht anderen Organen oder Personen übertragen sind. Die Rektorin oder der Rektor kann Aufgaben an die Stabsdienste delegieren und weitere Personen beratend beiziehen.
+<sup>1</sup> Das Generalsekretariat unterstützt die Rektorin oder den Rektor bei allen Aufgaben, sofern diese nicht anderen Organen oder Personen übertragen sind. Die Rektorin oder der Rektor kann Aufgaben an das Generalsekretariat delegieren und weitere Personen beratend beiziehen.
 
-<sup>2</sup> Die Stabsdienste erbringen zudem zwecks Einhaltung geltenden Rechts und von Vorgaben von Bund und Kantonen sowie zur Qualitätssicherung und Qualitätsentwicklung der Hochschule Luzern Dienstleistungen für Organe und Führungspersonen der Hochschule Luzern.
+<sup>2</sup> Das Generalsekretariat erbringt zudem zwecks Einhaltung geltenden Rechts und von Vorgaben von Bund und Kantonen sowie zur Qualitätssicherung und Qualitätsentwicklung der Hochschule Luzern Dienstleistungen für Organe und Führungspersonen der Hochschule Luzern.
 
 #### Art. 14
 
@@ -334,6 +334,28 @@ beschliesst:
 
 <sup>1</sup> Die Mitglieder der Beiräte werden von den Departementen entschädigt. Die Höhe der Entschädigung wird von der Hochschulleitung bestimmt.
 
+### 2.8 Weitere Organisationseinheiten
+
+#### Art. 28a
+
+**Ombudsstelle**
+
+<sup>1</sup> Die Hochschule Luzern unterhält eine Ombudsstelle, die von mehreren vom Fachhochschulrat gewählten Vertrauenspersonen geführt wird.
+
+<sup>2</sup> Mitarbeitende, Studierende und Weiterbildungsteilnehmende der Hochschule Luzern können sich in Konfliktsituationen mit Hochschulangehörigen an die Ombudsstelle wenden und diese um Vermittlung ersuchen.
+
+<sup>3</sup> Die Ombudsstelle berät die an sie gelangenden Angehörigen der Hochschule Luzern und strebt eine einvernehmliche Regelung an.
+
+<sup>4</sup> Der Fachhochschulrat regelt die Einzelheiten der Ombudsstelle in einem Reglement.
+
+#### Art. 28b
+
+**Meldestelle**
+
+<sup>1</sup> Die Hochschule Luzern unterhält eine von ihr unabhängige Meldestelle für Hinweise betreffend vermutete oder tatsächliche Verstösse gegen Gesetze und Verordnungen oder andere Unregelmässigkeiten sowie Mängel und Risiken, welche die Hochschule Luzern oder deren Angehörige betreffen.
+
+<sup>2</sup> Der Fachhochschulrat regelt die Einzelheiten zu den Zuständigkeiten und zum Verfahren.
+
 ## 3 Angehörige der Hochschule Luzern
 
 ### 3.1 Allgemeines
@@ -384,7 +406,7 @@ beschliesst:
 
 **Mitwirkungskommissionen**
 
-<sup>1</sup> Die Mitwirkungskommissionen vertreten die Anliegen und Interessen der Mitarbeitenden eines Departementes sowie von Rektorat und Services. Rektorat und Services umfasst die Mitarbeitenden von Finanzen und Services, der Stabsdienste des Rektorats und der Abteilungen Marketing und Kommunikation sowie Hochschulentwicklung und ‑dienste.
+<sup>1</sup> Die Mitwirkungskommissionen vertreten die Anliegen und Interessen der Mitarbeitenden eines Departementes sowie von Rektorat und Services. Rektorat und Services umfasst die Mitarbeitenden von Finanzen und Services, des Generalsekretariats und der Abteilungen Marketing und Kommunikation sowie Hochschulentwicklung und ‑dienste.
 
 <sup>2</sup> Pro Departement sowie für Rektorat und Services wird je eine Mitwirkungskommission eingesetzt, die sich aus mindestens fünf Vertreterinnen und Vertretern aller Mitarbeitendenkategorien zusammensetzt. Im Übrigen organisieren sich die Mitwirkungskommissionen nach gleichen Grundsätzen selber. Die Organisationsreglemente sind von der Direktorin oder vom Direktor zu genehmigen.
 
@@ -461,7 +483,7 @@ beschliesst:
 
 <sup>1</sup> Die Tätigkeit von Studierenden in den Mitwirkungsorganen wird monetär oder mit Credits entschädigt.
 
-<sup>2</sup> Der Rektor bestimmt die Art und den Umfang der Entschädigung für das Präsidium und die Mitglieder des Studierendenrates.
+<sup>2</sup> Die Rektorin oder der Rektor bestimmt die Art und den Umfang der Entschädigung für das Präsidium und die Mitglieder des Studierendenrates.
 
 <sup>3</sup> Die Departemente bestimmen die Art und den Umfang der Entschädigung für das Präsidium und die Mitglieder der Studierendenvertretungen.
 
