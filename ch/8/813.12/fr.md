@@ -4,11 +4,11 @@ title: "Ordonnance du 18 mai 2005 concernant la mise sur le marché et l'utilisa
 short: OPBio
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/468"
 language: fr
-version: 2024-06-15
+version: 2024-09-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20240615/fr/xml/fedlex-data-admin-ch-eli-cc-2005-468-20240615-fr-xml-7.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20240615/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20240901/fr/xml/fedlex-data-admin-ch-eli-cc-2005-468-20240901-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20240901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20240615/fr"
 
 (Ordonnance sur les produits biocides, OPBio)
 
-du 18 mai 2005 (État le 15 juin 2024)
+du 18 mai 2005 (État le 1<sup>er</sup> septembre 2024)
 
 Le Conseil fédéral suisse,
 
@@ -1870,9 +1870,10 @@ La publicité pour un produit biocide doit contenir les mentions suivantes, bien
 
 **Organe de réception des notifications et comité de pilotage**[^51-1]
 
-L’organe de réception des notifications et le comité de pilotage sont réglés à l’art. 77 OChim.
+L’organe de réception des notifications et le comité de pilotage sont réglés à l’art. 77 OChim[^51-2].
 
 [^51-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2020, en vigueur depuis le 15 déc. 2020 ([RO 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
+[^51-2]: [[RO 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)[805](https://fedlex.data.admin.ch/eli/oc/2009/132), [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752), [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724)[6659](https://fedlex.data.admin.ch/eli/oc/2012/804), [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23)[2673](https://fedlex.data.admin.ch/eli/oc/2013/544)[3041](https://fedlex.data.admin.ch/eli/oc/2013/594)ch. I 3, [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)annexe 11 ch. 1 [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [RO 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)art. 91]. Voir actuellement l’O du 5 juin 2015 ([RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
 
 #### Art. 52
 
@@ -2154,8 +2155,8 @@ Annexe 1[^t-1]
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OFSP du 4 août 2021, en vigueur depuis le 1<sup>er</sup> sept. 2021 ([RO 2021 488](https://fedlex.data.admin.ch/eli/oc/2021/488)).
-[^annex1-lvlu1-1]: Le contenu de la liste des substances actives qui se prêtent à la procédure simplifiée n’est pas publié dans le RO. La liste peut être consultée gratuitement sous [www.anmeldestelle.admin.ch](http://www.anmeldestelle.admin.ch) &gt; Thèmes &gt; Législation sur les produits chimiques et guides d’application &gt; Législation sur les produits chimiques &gt; Ordonnance sur les produits biocides &gt; Annexe 1. La version en vigueur est celle du 1<sup>er</sup> septembre 2021.
+[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OFSP du 22 juil. 2024, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 405](https://fedlex.data.admin.ch/eli/oc/2024/405)).
+[^annex1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/405](https://fedlex.data.admin.ch/eli/oc/2024/405) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi. La liste des substances actives qui se prêtent à la procédure simplifiée a effet dans la version du 1<sup>er</sup> septembre 2024.
 
 Annexe 2[^t-2]
 
@@ -2165,8 +2166,8 @@ Annexe 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nouvelle teneur selon le ch. I de l’O de l’OFSP du 7 mai 2024, en vigueur depuis le 15 juin 2024 ([RO 2024 211](https://fedlex.data.admin.ch/eli/oc/2024/211)).
-[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/211](https://fedlex.data.admin.ch/eli/oc/2024/211) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi. La liste de l’Union des substances actives approuvées a effet dans la version du 15 juin 2024.
+[^t-2]: Nouvelle teneur selon le ch. I de l’O de l’OFSP du 22 juil. 2024, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 405](https://fedlex.data.admin.ch/eli/oc/2024/405)).
+[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/405](https://fedlex.data.admin.ch/eli/oc/2024/405) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi. La liste de l’Union des substances actives approuvées a effet dans la version du 1<sup>er</sup> septembre 2024.
 
 Annexe 3[^t-3]
 

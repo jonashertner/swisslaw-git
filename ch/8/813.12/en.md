@@ -4,11 +4,11 @@ title: "Ordinance of 18 May 2005 on the Placing on the Market and Handling of Bi
 short: OBP
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/468"
 language: en
-version: 2024-06-15
+version: 2024-09-01
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20240615/en/xml/fedlex-data-admin-ch-eli-cc-2005-468-20240615-en-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20240615/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/468/20240901/en/xml/fedlex-data-admin-ch-eli-cc-2005-468-20240901-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/468/20240901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Ordinance on Biocidal Products, OBP)
 
-of 18 May 2005 (Status as of 15 June 2024)
+of 18 May 2005 (Status as of 1 September 2024)
 
 The Swiss Federal Council,
 
@@ -47,7 +47,8 @@ This Ordinance regulates:
   - 1\. the types of authorisation, including the recognition of authorisations of a Member State of the European Union (EU) or the European Free Trade Association (EFTA) and of Union authorisations, and including parallel trade in biocidal products,
   - 2\. the authorisation procedures,
   - 3\. the protection and use of owners’ data from previous applications for the benefit of subsequent applicants,
-  - 4\. classification, packaging, labelling and the safety data sheet;
+
+- 4\. classification, packaging, labelling and the safety data sheet;
 
 - b. particular aspects of the handling of biocidal products and treated articles.
 
@@ -74,7 +75,7 @@ This Ordinance does not apply to:
 
 <sup>4</sup> For imported biocidal products and treated articles that are simply relabelled and exported otherwise unmodified, Articles 42 and 45 apply.[^1a-6]
 
-<sup>5</sup> For biocidal products and treated articles that are exported and which contain hazardous substances or preparations, the PIC Ordinance of 10 November 2004[^1a-7] applies.[^1a-8]
+- [tab] <sup>5</sup> For biocidal products and treated articles that are exported and which contain hazardous substances or preparations, the PIC Ordinance of 10 November 2004[^1a-7] applies.[^1a-8]
 
 [^1a-1]: Inserted by No I of the O of 20 June 2014, in force since 15 July 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
 [^1a-2]: [SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
@@ -690,8 +691,7 @@ A biocidal product shall be granted authorisation A<sub>N</sub> provided the app
 
 - a. no unacceptable effects on humans, animals or the environment are to be expected from it or its residues; and
 - b. in the case of a wood preservative or a disinfectant: it is sufficiently effective.
-
-<sup>2</sup> It shall only be authorised for placing on the market for use by the general public if it has none of the properties mentioned in Article 11*d*.[^13-2]
+- [tab] <sup>2</sup> It shall only be authorised for placing on the market for use by the general public if it has none of the properties mentioned in Article 11*d*.[^13-2]
 
 [^13-1]: Amended by No I of the O of 18 Nov. 2020, in force since 15 Dec. 2020 ([AS 2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)).
 [^13-2]: Inserted by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
@@ -712,8 +712,7 @@ A biocidal product shall be considered identical to the reference product if the
 - b. The products are identical in specification and content in respect of the active substances and the type of formulation.
 - c. The products are identical in respect of the non-active substances present.
 - d. The products are either the same or equivalent in packaging size, material or form, in terms of the potential adverse impact on human health, animal health or the environment.
-
-<sup>3</sup> The authorisation for parallel trade shall contain the same conditions for placing on the market and use as in the authorisation for the reference product.[^13a-2]
+- [tab] <sup>3</sup> The authorisation for parallel trade shall contain the same conditions for placing on the market and use as in the authorisation for the reference product.[^13a-2]
 
 [^13a-1]: Inserted by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
 [^13a-2]: Inserted by No I of the O of 31 Jan. 2018, in force since 1 March 2018 ([AS 2018 817](https://fedlex.data.admin.ch/eli/oc/2018/103)).
@@ -1709,9 +1708,8 @@ The documentation shall include as a minimum:
 
 <sup>3</sup> The manufacturer shall store production batch samples.
 
-<sup>4</sup> The documentation and the samples must be retained in accordance with Article 45 paragraph 2 of the ChemO[^40a-2].[^40a-3]
-
-<sup>5</sup> Safety data sheets must be retained in accordance with Article 23 ChemO.[^40a-4]
+- [tab] <sup>4</sup> The documentation and the samples must be retained in accordance with Article 45 paragraph 2 of the ChemO[^40a-2].[^40a-3]
+- [tab] <sup>5</sup> Safety data sheets must be retained in accordance with Article 23 ChemO.[^40a-4]
 
 [^40a-1]: Inserted by No I of the O of 28 Feb. 2007 ([AS 2007 851](https://fedlex.data.admin.ch/eli/oc/2007/153)). Amended by No I of the O of 20 June 2014, in force since 15 July 2014 ([AS 2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)).
 [^40a-2]: [[AS 2005 2721](https://fedlex.data.admin.ch/eli/oc/2005/466); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73), [805](https://fedlex.data.admin.ch/eli/oc/2009/132); [2010 5223](https://fedlex.data.admin.ch/eli/oc/2010/750); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752); [2012 6103](https://fedlex.data.admin.ch/eli/oc/2012/724), [6659](https://fedlex.data.admin.ch/eli/oc/2012/804); [2013 201](https://fedlex.data.admin.ch/eli/oc/2013/23), [2673](https://fedlex.data.admin.ch/eli/oc/2013/544), [3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 3; [2014 2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 1, [3857](https://fedlex.data.admin.ch/eli/oc/2014/661). [AS 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Art. 91]. See now: the O of 5 June 2015 ([SR 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)).
@@ -2160,8 +2158,8 @@ Annex 1[^t-1]
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Amended by No I of the FOPH O of 4 Aug. 2021, in force since 1 Sept. 2021 ([AS 2021 488](https://fedlex.data.admin.ch/eli/oc/2021/488)).
-[^annex1-lvlu1-1]: The list of active substances suitable for the simplified procedure is not published in the Official Compilation. The list may be viewed free of charge at www.anmeldestelle.admin.ch &gt; Topics &gt; Chemicals Legislation and Guidelines &gt; Chemicals Legislation &gt; Ordinance on Biocidal Products &gt; Annex 1. The version of 1 Sept. 2021 applies.
+[^t-1]: Amended by No I of the FOPH O of 22 July 2024, in force since 1 Sept. 2024 ([AS 2024 405](https://fedlex.data.admin.ch/eli/oc/2024/405)).
+[^annex1-lvlu1-1]: Only a reference to the content of this Annex is published in the AS and SR. The content can be accessed at: [https://fedlex.data.admin.ch/eli/oc/2024/405](https://fedlex.data.admin.ch/eli/oc/2024/405) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung durch Verweis eines Textteils. The version of the list of active substances suitable for the simplified procedure of 1 Sept. 2024 applies.
 
 Annex 2[^t-2]
 
@@ -2171,8 +2169,8 @@ Annex 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Amended by No I of the FOPH O of 7 May 2024, in force since 15 June 2024 ([AS 2024 211](https://fedlex.data.admin.ch/eli/oc/2024/211)).
-[^annex2-lvlu1-1]: The content of this Annex is only published in the AS or the SR by reference. It is available at: https://fedlex.data.admin.ch/eli/oc/2024/211 &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung durch Verweis eines Textteils. The Union list of approved active substances applies in its version of 15 June 2024.
+[^t-2]: Amended by No I of the FOPH O of 22 July 2024, in force since 1 Sept. 2024 ([AS 2024 405](https://fedlex.data.admin.ch/eli/oc/2024/405)).
+[^annex2-lvlu1-1]: Only a reference to the content of this Annex is published in the AS or the SR. It is available at: https://fedlex.data.admin.ch/eli/oc/2024/405 &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung durch Verweis eines Textteils. The Union list of approved active substances applies in its version of 1 September 2024.
 
 Annex 3[^t-3]
 
