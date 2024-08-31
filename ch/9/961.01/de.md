@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 17. Dezember 2004 betreffend die Aufsicht über Versich
 short: VAG
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/734"
 language: de
-version: 2024-01-01
+version: 2024-09-01
 adopted: 2004-12-17
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/734/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2005-734-20240101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/734/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/734/20240901/de/xml/fedlex-data-admin-ch-eli-cc-2005-734-20240901-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/734/20240901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/734/20240101/de"
 
 (Versicherungsaufsichtsgesetz, VAG)
 
-vom 17. Dezember 2004 (Stand am 1. Januar 2024)
+vom 17. Dezember 2004 (Stand am 1. September 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 82 Absatz 1, 98 Absatz 3, 117 Absatz 1 und 122 Absatz 
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2003 3789](https://fedlex.data.admin.ch/eli/fga/2003/577)
 
 ## 1. Kapitel: Gegenstand, Zweck und Geltungsbereich
@@ -350,7 +350,7 @@ Versicherungsunternehmen, welche die direkte Lebensversicherung betreiben, dürf
 
 Wer den Versicherungszweig der Motorfahrzeug-Haftpflicht betreiben will, muss dem Nationalen Versicherungsbüro und dem Nationalen Garantiefonds nach den Artikeln 74 und 76 des Strassenverkehrsgesetzes vom 19. Dezember 1958[^13-1] beitreten.
 
-[^13-1]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^13-1]: [SR 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
 
 #### Art. 14
 
@@ -590,7 +590,7 @@ Die FINMA kann:
 <sup>5</sup> Die Aufsichtsbehörde kann unter den Voraussetzungen nach Absatz 3 die Anwendung der vom Bundesrat anerkannten Standards zur Rechnungslegung im Bereich der Versicherungen einschränken.
 
 [^26-1]: Fassung gemäss Anhang Ziff. 9 des BG vom 23. Dez. 2011 (Rechnungslegungsrecht), in Kraft seit 1. Jan. 2013 ([AS 2012 6679](https://fedlex.data.admin.ch/eli/oc/2012/810); [BBl 2008 1589](https://fedlex.data.admin.ch/eli/fga/2008/416)).
-[^26-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^26-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^26-3]: Fassung gemäss Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [BBl 2020 8967](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 ### 5. Abschnitt: Prüfung
@@ -616,9 +616,9 @@ Das Versicherungsunternehmen richtet ein wirksames internes Kontrollsystem ein, 
 <sup>2</sup> Das Versicherungsunternehmen muss seine Jahresrechnung und gegebenenfalls seine Konzernrechnung von einem staatlich beaufsichtigten Revisionsunternehmen nach den Grundsätzen der ordentlichen Revision des OR[^28-4] prüfen lassen.[^28-5]
 
 [^28-1]: Fassung gemäss Anhang Ziff. 9 des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^28-2]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^28-3]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
-[^28-4]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^28-2]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^28-3]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
+[^28-4]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^28-5]: Fassung gemäss Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [BBl 2020 8967](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 #### Art. 29
@@ -656,7 +656,7 @@ Die Prüfgesellschaft meldet der FINMA unverzüglich, wenn sie Folgendes festste
 
 <sup>4</sup> Die Bestimmungen nach Absatz 1 bleiben in jedem Fall anwendbar, wenn aus dem Geschäft mit professionellen Versicherungsnehmern Ansprüche aus Pflichtversicherungen zugunsten nicht professioneller Versicherungsnehmerinnen und -nehmer resultieren könnten. Bei der Versicherung von Risiken der beruflichen Vorsorge ist zudem in jedem Fall ein gebundenes Vermögen zu stellen.
 
-[^30a-1]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^30a-1]: [SR 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 #### Art. 30b
 
@@ -674,7 +674,7 @@ Ein Versicherungsunternehmen, das die Erleichterungen nach Artikel 30*a* in Ansp
 
 <sup>3</sup> Bei Verletzung dieser Informationspflicht gilt Artikel 3*a* VVG[^30c-1] sinngemäss.
 
-[^30c-1]: [SR 221.229.1](https://fedlex.data.admin.ch/eli/cc/24/719_735_717)
+[^30c-1]: [SR 221.229.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5912)
 
 #### Art. 30d
 
@@ -761,11 +761,26 @@ Der Bundesrat erlässt Bestimmungen über:
 
 #### Art. 31a
 
-**Vereinbarung zwischen Versicherungsunternehmen**[^31a-1]
+**Regulierung der Vermittlertätigkeit im Bereich der Zusatzversicherung zur sozialen Krankenversicherung**[^31a-1]
 
-Die Versicherungsunternehmen können eine Vereinbarung abschliessen, in welcher die Telefonwerbung, den Verzicht auf Leistungen der Call Centers und die Einschränkung der Entschädigung der Vermittlertätigkeit geregelt wird.
+<sup>1</sup>
 
-[^31a-1]: Eingefügt durch Anhang Ziff. 3 des Krankenversicherungsaufsichtsgesetzes vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [BBl 2012 1941](https://fedlex.data.admin.ch/eli/fga/2012/352)).
+Die Versicherungsunternehmen können im Bereich der Zusatzversicherung zur sozialen Krankenversicherung eine Vereinbarung abschliessen, in der Folgendes geregelt wird:
+
+- a. die Telefonwerbung;
+- b. der Verzicht auf Leistungen der Call-Center;
+- c. das Verbot der Telefonwerbung bei Personen, die nie bei ihnen versichert waren oder seit längerer Zeit nicht mehr versichert sind;
+- d. die Ausbildung der Versicherungsvermittlerinnen und -vermittler;
+- e. die Einschränkung der Entschädigung der Tätigkeit der Versicherungsvermittlerinnen und -vermittler;
+- f. die Erstellung und Unterzeichnung von Beratungsprotokollen.
+
+<sup>2</sup> Auf Gesuch von Versicherungsunternehmen, die zusammen mindestens 66 Prozent der Prämien der Versicherten vertreten, kann der Bundesrat die Regelungen der Punkte nach Absatz 1 Buchstaben c–f auf dem Verordnungsweg allgemeinverbindlich erklären. Die Regelungen müssen der Gesetzgebung entsprechen und die Höhe der Entschädigung nach Absatz 1 Buchstabe e muss nach betriebswirtschaftlichen Regeln festgelegt werden. Vor der Allgemeinverbindlichkeitserklärung hört der Bundesrat die Versicherungsunternehmen an.
+
+<sup>3</sup> Der Bundesrat legt in der Verordnung nach Absatz 2 die Verstösse gegen die verbindlich erklärten Regelungen fest.
+
+<sup>4</sup> Die Vorschriften zum Missbrauchsschutz bleiben vorbehalten.
+
+[^31a-1]: Eingefügt durch Anhang Ziff. 3 des Krankenversicherungsaufsichtsgesetzes vom 26. Sept. 2014 ([AS 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [BBl 2012 1941](https://fedlex.data.admin.ch/eli/fga/2012/352)). Fassung gemäss Ziff. I 2 des BG vom 16. Dez. 2022 über die Regulierung der Versicherungsvermittlertätigkeit, in Kraft seit 1. Sept. 2024 ([AS 2024 424](https://fedlex.data.admin.ch/eli/oc/2024/424); [BBl 2021 1478](https://fedlex.data.admin.ch/eli/fga/2021/1478)).
 
 #### Art. 32
 
@@ -811,7 +826,7 @@ Er kann:
 
 Versicherungseinrichtungen, welche die Motorfahrzeug-Haftpflichtversicherung betreiben, müssen der FINMA Namen und Adresse des von ihnen in jedem Staat des Europäischen Wirtschaftsraums benannten Schadenregulierungsbeauftragten nach Artikel 79*b* des Strassenverkehrsgesetzes vom 19. Dezember 1958[^34-1] bekannt geben.
 
-[^34-1]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^34-1]: [SR 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
 
 #### Art. 35
 
@@ -884,7 +899,11 @@ Der Bundesrat erlässt Vorschriften über:
 
 **Prüfung der genehmigungspflichtigen Tarife**
 
-Die FINMA prüft im Genehmigungsverfahren auf Grund der von den Versicherungsunternehmen vorgelegten Tarifberechnungen, ob sich die vorgesehenen Prämien in einem Rahmen halten, der einerseits die Solvenz der einzelnen Versicherungseinrichtungen und anderseits den Schutz der Versicherten vor Missbrauch gewährleistet. Artikel 33 Absatz 3 bleibt vorbehalten.
+<sup>1</sup> Die FINMA prüft im Genehmigungsverfahren auf Grund der von den Versicherungsunternehmen vorgelegten Tarifberechnungen, ob sich die vorgesehenen Prämien in einem Rahmen halten, der einerseits die Solvenz der einzelnen Versicherungseinrichtungen und anderseits den Schutz der Versicherten vor Missbrauch gewährleistet. Artikel 33 Absatz 3 bleibt vorbehalten.
+
+<sup>2</sup> Missachtet ein Versicherungsunternehmen eine nach Artikel 31*a* Absatz 2 verbindlich erklärte Regelung, so kann die FINMA die Genehmigung von Tarifen verweigern, die Anpassung von bestehenden Tarifen verfügen und sichernde Massnahmen nach Artikel 51 ergreifen.[^38-1]
+
+[^38-1]: Eingefügt durch Ziff. I 2 des BG vom 16. Dez. 2022 über die Regulierung der Versicherungsvermittlertätigkeit, in Kraft seit 1. Sept. 2024 ([AS 2024 424](https://fedlex.data.admin.ch/eli/oc/2024/424); [BBl 2021 1478](https://fedlex.data.admin.ch/eli/fga/2021/1478)).
 
 #### Art. 39
 
@@ -934,7 +953,7 @@ Die Angaben umfassen insbesondere:
 
 <sup>3</sup> Umfasst eine qualifizierte Lebensversicherung ein Finanzinstrument nach Artikel 3 Buchstabe a des Finanzdienstleistungsgesetzes vom 15. Juni 2018[^39c-1] (FIDLEG), so sind im Basisinformationsblatt für die qualifizierte Lebensversicherung die wesentlichen Angaben zum betreffenden Finanzinstrument zu machen. Sofern der Versicherungsnehmerin oder dem Versicherungsnehmer das Basisinformationsblatt für das Finanzinstrument zur Verfügung steht, kann auf dieses verwiesen werden. Ebenso kann auf Dokumente nach ausländischem Recht verwiesen werden, die dem Basisinformationsblatt nach Artikel 59 Absatz 2 FIDLEG gleichwertig sind.
 
-[^39c-1]: [SR 950.1](https://fedlex.data.admin.ch/eli/cc/2019/758)
+[^39c-1]: [SR 950.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11500)
 
 #### Art. 39d
 
@@ -1060,8 +1079,8 @@ Nicht ins Register eingetragen werden ungebundene Versicherungsvermittlerinnen u
 
 <sup>5</sup> Die FINMA kann in begründeten Fällen Ausnahmen von der Voraussetzung nach Absatz 2 Buchstabe a gewähren.
 
-[^41-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
-[^41-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^41-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
+[^41-2]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 42
 
@@ -1168,7 +1187,7 @@ Die FINMA hat folgende Aufgaben:
 <sup>3</sup> Der Bundesrat erlässt Ausführungsbestimmungen über die einzelnen Aufgaben.
 
 [^46-1]: Fassung gemäss Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [BBl 2020 8967](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
-[^46-2]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^46-2]: [SR 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
 [^46-3]: Fassung gemäss Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [BBl 2020 8967](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 [^46-4]: Aufgehoben durch Anhang Ziff. 9 des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), mit Wirkung seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
 
@@ -1181,7 +1200,7 @@ Die FINMA hat folgende Aufgaben:
 <sup>2</sup> Gliedert ein Versicherungsunternehmen wesentliche Funktionen auf andere natürliche oder juristische Personen aus, so unterstehen diese der Auskunfts- und Meldepflicht nach Artikel 29 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007[^47-2].
 
 [^47-1]: Fassung gemäss Anhang Ziff. 18 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
-[^47-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^47-2]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 48
 
@@ -1238,7 +1257,7 @@ Sie kann insbesondere:
 [^51-3]: Eingefügt durch Anhang Ziff. 5 des BG vom 18. März 2011 (Sicherung der Einlagen), in Kraft seit 1. Sept. 2011 ([AS 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [BBl 2010 3993](https://fedlex.data.admin.ch/eli/fga/2010/655)).
 [^51-4]: Eingefügt durch Anhang Ziff. 5 des BG vom 18. März 2011 (Sicherung der Einlagen) ([AS 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [BBl 2010 3993](https://fedlex.data.admin.ch/eli/fga/2010/655)). Fassung gemäss Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [BBl 2020 8967](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 [^51-5]: Eingefügt durch Anhang Ziff. 5 des BG vom 18. März 2011 (Sicherung der Einlagen) ([AS 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [BBl 2010 3993](https://fedlex.data.admin.ch/eli/fga/2010/655)). Fassung gemäss Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [BBl 2020 8967](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
-[^51-6]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^51-6]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^51-7]: Eingefügt durch Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [BBl 2020 8967](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
 #### Art. 51a
@@ -1272,8 +1291,8 @@ Fremdkapitalinstrumente, die von der FINMA als risikoabsorbierende Kapitalinstru
 <sup>7</sup> Die Anordnungen der FINMA umfassen sämtliche Vermögenswerte des Versicherungsunternehmens mit Aktiven und Passiven, ob sie sich nun im In- oder im Ausland befinden, sowie Vertragsverhältnisse.
 
 [^51a-1]: Eingefügt durch Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [BBl 2020 8967](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
-[^51a-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^51a-3]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^51a-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^51a-3]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 #### Art. 51b
 
@@ -1345,7 +1364,7 @@ Der Sanierungsplan stellt dar, wie die Insolvenzgefahr des Versicherungsunterneh
 
 <sup>4</sup> Bei Übertragungen nach Artikel 52*b* Absatz 1 Buchstabe a ist die Erhebung von kantonalen und kommunalen Handänderungsabgaben ausgeschlossen. Kostendeckende Gebühren bleiben vorbehalten.
 
-[^52c-1]: [SR 221.301](https://fedlex.data.admin.ch/eli/cc/2004/320)
+[^52c-1]: [SR 221.301](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5917)
 
 #### Art. 52d
 
@@ -1382,7 +1401,7 @@ Die Wandlung von Fremd- in Eigenkapital und die Reduktion von Forderungen sind i
 
 <sup>5</sup> Besteht nach der Wandlung eine qualifizierte Beteiligung gemäss Artikel 21 Absatz 2, so ist der Anteil der Stimmen, der 10 Prozent übersteigt, bis zur Beurteilung der qualifizierten Beteiligung durch die FINMA suspendiert.
 
-[^52d-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^52d-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 52e
 
@@ -1510,8 +1529,8 @@ Die FINMA genehmigt den Sanierungsplan, wenn er namentlich:
 
 <sup>6</sup> Für die Geltendmachung von Verantwortlichkeitsansprüchen nach den Artikeln 752–760 OR[^52m-2] gelten die Absätze 1–3 sinngemäss.
 
-[^52m-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^52m-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^52m-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^52m-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 
 ### 2*b*. Abschnitt: Versicherungskonkurs
 
@@ -1540,7 +1559,7 @@ Die FINMA genehmigt den Sanierungsplan, wenn er namentlich:
 <sup>3</sup> Sie kann das Verfahren näher regeln.[^54-4]
 
 [^54-1]: Fassung gemäss Anhang Ziff. 5 des BG vom 18. März 2011 (Sicherung der Einlagen), in Kraft seit 1. Sept. 2011 ([AS 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [BBl 2010 3993](https://fedlex.data.admin.ch/eli/fga/2010/655)).
-[^54-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^54-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^54-3]: Fassung gemäss Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [BBl 2020 8967](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 [^54-4]: Fassung gemäss Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [BBl 2020 8967](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
@@ -1553,7 +1572,7 @@ Die FINMA genehmigt den Sanierungsplan, wenn er namentlich:
 <sup>2</sup> Forderungen nach Absatz 1, die sich mittels der Bücher des Versicherungsunternehmens feststellen lassen, gelten als angemeldet.
 
 [^54a-1]: Eingefügt durch Anhang Ziff. 5 des BG vom 18. März 2011 (Sicherung der Einlagen) ([AS 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [BBl 2010 3993](https://fedlex.data.admin.ch/eli/fga/2010/655)). Fassung gemäss Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [BBl 2020 8967](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
-[^54a-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^54a-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 54a<sup>bis</sup>
 
@@ -1614,7 +1633,7 @@ Verbindlichkeiten, welche das Versicherungsunternehmen während der Dauer der Ma
 <sup>3</sup> Die FINMA trifft die nötigen Anordnungen zur Schliessung des Verfahrens. Sie macht die Schliessung öffentlich bekannt.
 
 [^54c-1]: Eingefügt durch Anhang Ziff. 5 des BG vom 18. März 2011 (Sicherung der Einlagen), in Kraft seit 1. Sept. 2011 ([AS 2011 3919](https://fedlex.data.admin.ch/eli/oc/2011/559); [BBl 2010 3993](https://fedlex.data.admin.ch/eli/fga/2010/655)).
-[^54c-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^54c-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^54c-3]: Fassung gemäss Anhang Ziff. II 19 des Finanzinstitutsgesetzes vom 15. Juni 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 5247](https://fedlex.data.admin.ch/eli/oc/2018/801), [2019 4631](https://fedlex.data.admin.ch/eli/oc/2019/762); [BBl 2015 8901](https://fedlex.data.admin.ch/eli/fga/2015/2141)).
 [^54c-4]: Fassung gemäss Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [BBl 2020 8967](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
 
@@ -1651,8 +1670,8 @@ In den Verfahren nach Artikel 51*a* Absatz 1 können die Gläubigerinnen und Gl�
 <sup>3</sup> Die Beschwerde nach Artikel 17 SchKG[^54e-3] ist in diesen Verfahren ausgeschlossen.
 
 [^54e-1]: Eingefügt durch Anhang Ziff. 15 des Finanzmarktinfrastrukturgesetzes vom 19. Juni 2015 ([AS 2015 5339](https://fedlex.data.admin.ch/eli/oc/2015/853); [BBl 2014 7483](https://fedlex.data.admin.ch/eli/fga/2014/1633)). Fassung gemäss Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [BBl 2020 8967](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
-[^54e-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^54e-3]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^54e-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^54e-3]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 54f
 
@@ -1663,7 +1682,7 @@ In den Verfahren nach Artikel 51*a* Absatz 1 können die Gläubigerinnen und Gl�
 <sup>2</sup> Der Fristenlauf für eine Beschwerde gegen die Genehmigung des Sanierungsplans beginnt am Tag nach der öffentlichen Bekanntgabe der Grundzüge des Sanierungsplans. Der Fristenlauf für eine Beschwerde gegen die Genehmigung der Verteilungsliste und der Schlussrechnung beginnt am Tag nach der Publikation der Genehmigung.
 
 [^54f-1]: Eingefügt durch Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [BBl 2020 8967](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
-[^54f-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^54f-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 54g
 
@@ -1685,7 +1704,7 @@ Beschwerden in den Verfahren nach Artikel 51*a* Absatz 1 haben keine aufschieben
 Soweit dem Nationalen Garantiefonds aus der Insolvenz eines Versicherungsunternehmens Aufgaben nach Artikel 76 Absatz 4 Buchstabe b des Strassenverkehrsgesetzes vom 19. Dezember 1958[^54h-2] erwachsen, kommt ihm im Verfahren nach Artikel 51*a* Absatz 1 des vorliegenden Gesetzes eine Gläubigerstellung zur Wahrung seiner Interessen zu.
 
 [^54h-1]: Eingefügt durch Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [BBl 2020 8967](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
-[^54h-2]: [SR 741.01](https://fedlex.data.admin.ch/eli/cc/1959/679_705_685)
+[^54h-2]: [SR 741.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8613)
 
 #### Art. 54i
 
@@ -1709,8 +1728,8 @@ Sie kann das in der Schweiz belegene Vermögen ohne Durchführung eines inländi
 <sup>6</sup> Im Übrigen sind die Artikel 166–175 IPRG massgebend.
 
 [^54i-1]: Eingefügt durch Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [BBl 2020 8967](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
-[^54i-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^54i-3]: [SR 291](https://fedlex.data.admin.ch/eli/cc/1988/1776_1776_1776)
+[^54i-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^54i-3]: [SR 291](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6186)
 
 #### Art. 54j
 
@@ -1752,7 +1771,7 @@ Für ausländische Unternehmen gelten die Werte des gebundenen Vermögens sowie 
 
 <sup>3</sup> Weist das Versicherungsunternehmen nicht innerhalb von 14 Tagen nach Eingang des Pfandverwertungsbegehrens nach, dass es den Gläubiger oder die Gläubigerin vollständig befriedigt hat, so teilt die FINMA nach Anhören des Versicherungsunternehmens dem Betreibungsamt mit, welche Werte des gebundenen Vermögens und einer etwaigen Kaution zur Verwertung freigegeben werden.
 
-[^58-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^58-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 59
 
@@ -1793,7 +1812,7 @@ Der Abwicklungsplan muss Angaben enthalten über:
 <sup>3</sup> Nach Entzug der Bewilligung darf ein Versicherungsunternehmen keine neuen Versicherungsverträge abschliessen; bestehende Versicherungsverträge dürfen weder verlängert noch in Bezug auf den Deckungsumfang erweitert werden.
 
 [^61-1]: Fassung gemäss Anhang Ziff. 18 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007, in Kraft seit 1. Jan. 2009 ([AS 2008 5207](https://fedlex.data.admin.ch/eli/oc/2008/736)[5205](https://fedlex.data.admin.ch/eli/oc/2008/735); [BBl 2006 2829](https://fedlex.data.admin.ch/eli/fga/2006/303)).
-[^61-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^61-2]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 62
 
@@ -1889,8 +1908,8 @@ Die FINMA kann Vorschriften zur Überwachung gruppeninterner Vorgänge und grupp
 Versicherungsgruppen haben eine von der Eidgenössischen Revisionsaufsichtsbehörde nach Artikel 9*a* Absatz 1 des Revisionsaufsichtsgesetzes vom 16. Dezember 2005[^70-2] zugelassene Prüfgesellschaft mit einer Prüfung nach Artikel 24 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007[^70-3] zu beauftragen. Artikel 28 gilt sinngemäss.
 
 [^70-1]: Fassung gemäss Anhang Ziff. 9 des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^70-2]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^70-3]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^70-2]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^70-3]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 71
 
@@ -1899,7 +1918,7 @@ Versicherungsgruppen haben eine von der Eidgenössischen Revisionsaufsichtsbehö
 Gehören Versicherungsunternehmen Versicherungsgruppen an, so gilt die Auskunfts- und Meldepflicht nach Artikel 29 FINMAG[^71-2] für alle Unternehmen der Gruppe.
 
 [^71-1]: Fassung gemäss Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [BBl 2020 8967](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
-[^71-2]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^71-2]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 71<sup>bis</sup>
 
@@ -1988,8 +2007,8 @@ Die FINMA kann Vorschriften zur Überwachung konglomeratsinterner Vorgänge und 
 Versicherungskonglomerate haben eine von der Eidgenössischen Revisionsaufsichtsbehörde nach Artikel 9*a* Absatz 1 des Revisionsaufsichtsgesetzes vom 16. Dezember 2005[^78-2] zugelassene Prüfgesellschaft mit einer Prüfung nach Artikel 24 des Finanzmarktaufsichtsgesetzes vom 22. Juni 2007[^78-3] zu beauftragen. Artikel 28 gilt sinngemäss.
 
 [^78-1]: Fassung gemäss Anhang Ziff. 9 des BG vom 20. Juni 2014 (Bündelung der Aufsicht über Revisionsunternehmen und Prüfgesellschaften), in Kraft seit 1. Jan. 2015 ([AS 2014 4073](https://fedlex.data.admin.ch/eli/oc/2014/685); [BBl 2013 6857](https://fedlex.data.admin.ch/eli/fga/2013/1303)).
-[^78-2]: [SR 221.302](https://fedlex.data.admin.ch/eli/cc/2007/533)
-[^78-3]: [SR 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
+[^78-2]: [SR 221.302](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5919)
+[^78-3]: [SR 956.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11614)
 
 #### Art. 79
 
@@ -2058,7 +2077,7 @@ Gehören Versicherungsunternehmen Versicherungskonglomeraten an, so gilt die Aus
 <sup>3</sup> Beschwerden gegen Verfügungen über Tarife haben keine aufschiebende Wirkung.
 
 [^84-1]: Fassung gemäss Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [BBl 2020 8967](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
-[^84-2]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^84-2]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 85
 
@@ -2066,7 +2085,7 @@ Gehören Versicherungsunternehmen Versicherungskonglomeraten an, so gilt die Aus
 
 <sup>1</sup> Privatrechtliche Streitigkeiten zwischen Versicherungsunternehmen oder zwischen Versicherungsunternehmen und Versicherten entscheidet das Gericht.
 
-<sup>2</sup> und <sup>3</sup> …[^85-1]
+<sup>2 und <sup>3</sup></sup> …[^85-1]
 
 [^85-1]: Aufgehoben gemäss Anhang 1 Ziff. II 31 der Zivilprozessordnung vom 19. Dez. 2008, mit Wirkung seit 1. Jan. 2011 ([AS 2010 1739](https://fedlex.data.admin.ch/eli/oc/2010/262); [BBl 2006 7221](https://fedlex.data.admin.ch/eli/fga/2006/914)).
 
@@ -2084,9 +2103,13 @@ Mit Busse bis zu 100 000 Franken wird bestraft, wer vorsätzlich:
 - b. eine der Mitteilungspflichten nach Artikel 21 verletzt;
 - c. eine der Informationspflichten nach den Artikeln 14*a* Absatz 2, 45, 45*a* Absatz 2 und 45*b* verletzt.
 
-<sup>2</sup> Wer fahrlässig handelt, wird mit Busse bis zu 50 000 Franken bestraft.
+<sup>1bis</sup> Mit Busse bis zu 100 000 Franken wird bestraft, wer vorsätzlich im Bereich der Zusatzversicherung zur sozialen Krankenversicherung eine Widerhandlung gegen einen nach Artikel 31*a* Absatz 3 festgelegten Verstoss begeht.[^86-2]
+
+<sup>2</sup> Wer in den Fällen nach den Absätzen 1 und 1<sup>bis</sup> fahrlässig handelt, wird mit Busse bis zu 50 000 Franken bestraft.[^86-3]
 
 [^86-1]: Fassung gemäss Ziff. I des BG vom 18. März 2022, in Kraft seit 1. Jan. 2024 ([AS 2023 355](https://fedlex.data.admin.ch/eli/oc/2023/355); [BBl 2020 8967](https://fedlex.data.admin.ch/eli/fga/2020/2421)).
+[^86-2]: Eingefügt durch Ziff. I 2 des BG vom 16. Dez. 2022 über die Regulierung der Versicherungsvermittlertätigkeit, in Kraft seit 1. Sept. 2024 ([AS 2024 424](https://fedlex.data.admin.ch/eli/oc/2024/424); [BBl 2021 1478](https://fedlex.data.admin.ch/eli/fga/2021/1478)).
+[^86-3]: Fassung gemäss Ziff. II des BG vom 16. Dez. 2022 über die Regulierung der Versicherungsvermittlertätigkeit, in Kraft seit 1. Sept. 2024 ([AS 2024 424](https://fedlex.data.admin.ch/eli/oc/2024/424); [BBl 2021 1478](https://fedlex.data.admin.ch/eli/fga/2021/1478)).
 
 #### Art. 87
 
