@@ -4,11 +4,11 @@ title: "Verordnung vom 10. September 2008 über den Umgang mit Organismen in der
 short: FrSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/614"
 language: de
-version: 2023-01-01
+version: 2024-09-01
 adopted: 2008-09-10
 in_force: 2008-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/614/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2008-614-20230101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/614/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/614/20240901/de/xml/fedlex-data-admin-ch-eli-cc-2008-614-20240901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/614/20240901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/614/20230101/de"
 
 (Freisetzungsverordnung, FrSV)
 
-vom 10. September 2008 (Stand am 1. Januar 2023)
+vom 10. September 2008 (Stand am 1. September 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -253,7 +253,7 @@ Wer gentechnisch veränderte Organismen oder Erzeugnisse, die aus solchen herges
 
 **Kennzeichnung der gentechnisch veränderten Organismen**
 
-- [tab] <sup>1</sup> Wer gentechnisch veränderte Organismen in Verkehr bringt, muss diese für die Abnehmerin oder den Abnehmer gut wahrnehmbar mit dem Hinweis «gentechnisch verändert» oder «genetisch verändert» kennzeichnen.
+<sup>1</sup> Wer gentechnisch veränderte Organismen in Verkehr bringt, muss diese für die Abnehmerin oder den Abnehmer gut wahrnehmbar mit dem Hinweis «gentechnisch verändert» oder «genetisch verändert» kennzeichnen.
 
 <sup>2</sup>
 
@@ -392,18 +392,21 @@ Der Umgang mit gebietsfremden Organismen in der Umwelt muss so erfolgen, dass da
 - b. die Organismen sich in der Umwelt nicht unkontrolliert verbreiten und vermehren können;
 - c. die Populationen geschützter Organismen, insbesondere solcher, die in den Roten Listen aufgeführt sind, oder für das betroffene Ökosystem wichtiger Organismen, insbesondere solcher, die für das Wachstum und die Vermehrung von Pflanzen wichtig sind, nicht beeinträchtigt werden;
 - d. keine Art von Nichtzielorganismen in ihrem Bestand gefährdet werden kann;
-- a. der Stoffhaushalt der Umwelt nicht schwerwiegend oder dauerhaft beeinträchtigt wird;
-- b. wichtige Funktionen des betroffenen Ökosystems, insbesondere die Fruchtbarkeit des Bodens, nicht schwerwiegend oder dauerhaft beeinträchtigt werden.
+- e. der Stoffhaushalt der Umwelt nicht schwerwiegend oder dauerhaft beeinträchtigt wird;
+- f. wichtige Funktionen des betroffenen Ökosystems, insbesondere die Fruchtbarkeit des Bodens, nicht schwerwiegend oder dauerhaft beeinträchtigt werden.
 
-<sup>2</sup> Mit invasiven gebietsfremden Organismen nach Anhang 2 darf in der Umwelt nicht direkt umgegangen werden; ausgenommen sind Massnahmen, die deren Bekämpfung dienen. Das BAFU kann im Einzelfall eine Ausnahmebewilligung für den direkten Umgang in der Umwelt erteilen, wenn die Gesuchstellerin oder der Gesuchsteller nachweist, dass sie oder er alle erforderlichen Massnahmen zur Einhaltung von Absatz 1 ergriffen hat.[^15-1]
+<sup>2</sup> Mit invasiven gebietsfremden Organismen nach Anhang 2.1 darf in der Umwelt nicht direkt umgegangen werden; ausgenommen sind Massnahmen, die deren Bekämpfung dienen. Das BAFU kann im Einzelfall eine Ausnahmebewilligung für den direkten Umgang in der Umwelt erteilen, wenn die Gesuchstellerin oder der Gesuchsteller nachweist, dass sie oder er alle erforderlichen Massnahmen zur Einhaltung von Absatz 1 ergriffen hat.[^15-1]
 
-<sup>3</sup> Abgetragener Boden, der mit invasiven gebietsfremden Organismen nach Anhang 2 belastet ist, muss am Entnahmeort verwertet oder so entsorgt werden, dass eine Weiterverbreitung dieser Organismen ausgeschlossen ist.[^15-2]
+<sup>2bis</sup> Invasive gebietsfremde Organismen nach Anhang 2.2 dürfen nicht für den direkten Umgang in der Umwelt in Verkehr gebracht werden.[^15-2]
 
-<sup>4</sup> Vorbehalten bleiben die Regelungen der Wald-, Fischerei- und Jagdgesetzgebung.[^15-3]
+<sup>3</sup> Abgetragener Boden, der mit invasiven gebietsfremden Organismen nach Anhang 2.1 belastet ist, muss am Entnahmeort verwertet oder so entsorgt werden, dass eine Weiterverbreitung dieser Organismen ausgeschlossen ist.[^15-3]
 
-[^15-1]: Fassung gemäss Anhang 8 Ziff. 3 der Pflanzengesundheitsverordnung vom 31. Okt. 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
-[^15-2]: Fassung gemäss Anhang 6 Ziff. 12 der Abfallverordnung vom 4. Dez. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)).
-[^15-3]: Fassung gemäss Anhang 5 Ziff. 10 der Einschliessungsverordnung vom 9. Mai 2012, in Kraft seit 1. Juni 2012 ([AS 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
+<sup>4</sup> Vorbehalten bleiben die Regelungen der Wald-, Fischerei- und Jagdgesetzgebung.[^15-4]
+
+[^15-1]: Fassung gemäss Ziff. I der V vom 1. März 2024, in Kraft seit 1. Sept. 2024 ([AS 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
+[^15-2]: Eingefügt durch Ziff. I der V vom 1. März 2024, in Kraft seit 1. Sept. 2024 ([AS 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
+[^15-3]: Fassung gemäss Ziff. I der V vom 1. März 2024, in Kraft seit 1. Sept. 2024 ([AS 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
+[^15-4]: Fassung gemäss Anhang 5 Ziff. 10 der Einschliessungsverordnung vom 9. Mai 2012, in Kraft seit 1. Juni 2012 ([AS 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
 
 #### Art. 16
 
@@ -507,14 +510,21 @@ Das Gesuch muss insbesondere folgende Unterlagen enthalten:
 
 - a. Angaben zum Ziel und zum Kontext des Versuchs;
 - b. ein technisches Dossier mit den Angaben nach Anhang 3.1;
-- c. die Ergebnisse früherer Versuche, insbesondere:
-- 1\. Ergebnisse von Vorversuchen im geschlossenen System, die der Abklärung der biologischen Sicherheit dienten,
+- c.
+
+  die Ergebnisse früherer Versuche, insbesondere:
+
+  - 1\. Ergebnisse von Vorversuchen im geschlossenen System, die der Abklärung der biologischen Sicherheit dienten,
   - 2\. Daten, Ergebnisse und Beurteilungen von Freisetzungsversuchen, die mit den gleichen Organismen unter vergleichbaren klimatischen Bedingungen und bei vergleichbarer Fauna und Flora durchgeführt wurden;
 
 - d. die Risikoermittlung und -bewertung nach Anhang 4;
-- e. einen Überwachungsplan, mit dem die Gesuchstellerin oder der Gesuchsteller überprüfen wird, ob die Annahmen der Risikoermittlung und -bewertung nach Anhang 4 zutreffen und ob die Schutzmassnahmen zur Einhaltung der Anforderungen nach den Artikeln 12 und 13 ausreichen, und der mindestens folgende Angaben umfasst:
-- 1\. Art, Spezifität, Empfindlichkeit und Verlässlichkeit der Methoden,
-- 2\. Dauer und Häufigkeit der Überwachung;
+- e.
+
+  einen Überwachungsplan, mit dem die Gesuchstellerin oder der Gesuchsteller überprüfen wird, ob die Annahmen der Risikoermittlung und -bewertung nach Anhang 4 zutreffen und ob die Schutzmassnahmen zur Einhaltung der Anforderungen nach den Artikeln 12 und 13 ausreichen, und der mindestens folgende Angaben umfasst:
+
+  - 1\. Art, Spezifität, Empfindlichkeit und Verlässlichkeit der Methoden,
+  - 2\. Dauer und Häufigkeit der Überwachung;
+
 - f. Angaben darüber, ob die Öffentlichkeit über den geplanten Freisetzungsversuch informiert wird;
 - g. den Nachweis, dass die Sicherstellungspflichten erfüllt sind.
 
@@ -541,14 +551,21 @@ Das Gesuch muss insbesondere folgende Unterlagen enthalten:
 
 - a. Angaben zum Ziel und zum Kontext des Versuchs;
 - b. ein technisches Dossier mit den Angaben nach Anhang 3.3;
-- c. die Ergebnisse früherer Versuche, insbesondere:
-- 1\. Ergebnisse von Vorversuchen im geschlossenen System, die der Abklärung der biologischen Sicherheit dienten,
+- c.
+
+  die Ergebnisse früherer Versuche, insbesondere:
+
+  - 1\. Ergebnisse von Vorversuchen im geschlossenen System, die der Abklärung der biologischen Sicherheit dienten,
   - 2\. Daten, Ergebnisse und Beurteilungen von Freisetzungsversuchen, die mit den gleichen Organismen unter vergleichbaren klimatischen Bedingungen und bei vergleichbarer Fauna und Flora durchgeführt wurden;
 
 - d. die Risikoermittlung und -bewertung nach Anhang 4;
-- e. einen Überwachungsplan, mit dem die Gesuchstellerin oder der Gesuchsteller überprüfen wird, ob die Annahmen der Risikoermittlung und -bewertung nach Anhang 4 zutreffen und ob die Schutzmassnahmen zur Einhaltung der Anforderungen nach den Artikeln 15 und 16 ausreichen, und der mindestens folgende Angaben umfasst:
-- 1\. Art, Spezifität, Empfindlichkeit und Verlässlichkeit der Methoden,
-- 2\. Dauer und Häufigkeit der Überwachung;
+- e.
+
+  einen Überwachungsplan, mit dem die Gesuchstellerin oder der Gesuchsteller überprüfen wird, ob die Annahmen der Risikoermittlung und -bewertung nach Anhang 4 zutreffen und ob die Schutzmassnahmen zur Einhaltung der Anforderungen nach den Artikeln 15 und 16 ausreichen, und der mindestens folgende Angaben umfasst:
+
+  - 1\. Art, Spezifität, Empfindlichkeit und Verlässlichkeit der Methoden,
+  - 2\. Dauer und Häufigkeit der Überwachung;
+
 - f. Angaben darüber, ob die Öffentlichkeit über den geplanten Freisetzungsversuch informiert wird.
 
 <sup>3</sup> In der Dokumentation der Ergebnisse früherer Versuche nach Absatz 2 Buchstabe c Ziffer 2 kann auf Daten oder Ergebnisse einer anderen Gesuchstellerin oder eines anderen Gesuchstellers verwiesen werden, sofern diese oder dieser schriftlich zugestimmt hat.
@@ -572,7 +589,8 @@ Ein vereinfachtes Bewilligungsverfahren kann für Freisetzungsversuche mit gente
 
 - a. bereits ein Freisetzungsversuch mit vergleichbaren möglichen Gefährdungen und Beeinträchtigungen in der Schweiz bewilligt wurde, insbesondere wenn die gleichen Organismen betroffen sind;
 - b. diese aus einer Kreuzung zweier bereits für das Inverkehrbringen zur direkten Verwendung in der Umwelt bewilligter Organismen hervorgegangen sind und gezeigt werden kann, dass die Summe der Eigenschaften der Kreuzung sich nicht von der Summe der Eigenschaften der bewilligten Organismen unterscheidet.
-- [tab] <sup>2</sup> Für ein vereinfachtes Bewilligungsverfahren müssen mindestens die Unterlagen nach Artikel 19 Absatz 2 Buchstaben a, d, e und h beziehungsweise nach Artikel 20 Absatz 2 Buchstaben a, d, e und g oder Artikel 21 Absatz 2 Buchstaben a, d und e eingereicht werden.
+
+<sup>2</sup> Für ein vereinfachtes Bewilligungsverfahren müssen mindestens die Unterlagen nach Artikel 19 Absatz 2 Buchstaben a, d, e und h beziehungsweise nach Artikel 20 Absatz 2 Buchstaben a, d, e und g oder Artikel 21 Absatz 2 Buchstaben a, d und e eingereicht werden.
 
 #### Art. 23
 
@@ -647,7 +665,7 @@ Die Bewilligung nach Artikel 25 wird, je nach Produkt, von einer der folgenden B
 [^26-5]: [SR 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
 [^26-6]: Fassung gemäss Anhang Ziff. 2 der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 [^26-7]: [SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
-[^26-8]: [SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+[^26-8]: [[AS 2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105); [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)Anhang Ziff. 3, [4793](https://fedlex.data.admin.ch/eli/oc/2003/703)Ziff. I 7, [4923](https://fedlex.data.admin.ch/eli/oc/2003/727); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 18; [2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835); [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 12; [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)Anhang Ziff. 3; [2011 2403](https://fedlex.data.admin.ch/eli/oc/2011/348), [2699](https://fedlex.data.admin.ch/eli/oc/2011/372)Anhang 8 Ziff. II 3; [2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724); [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Anhang 6 Ziff. 7; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)Anhang Ziff. 8; [2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681); [2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)Anhang Ziff. 4; [2021 686](https://fedlex.data.admin.ch/eli/oc/2021/686); [2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)Anhang Ziff. 2. [AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)]. Siehe heute: die V vom 1. November 2023 ([SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)).
 [^26-9]: [[AS 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287), [2748](https://fedlex.data.admin.ch/eli/oc/1999/442)Anhang 5 Ziff. 6; [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)Ziff. II 14; [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653); [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729); [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107), [2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 19, [5555](https://fedlex.data.admin.ch/eli/oc/2005/755); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 70; [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 14; [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344); [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [AS 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)Art. 77]. Siehe heute: die V vom 26. Okt. 2011 ([SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)).
 [^26-10]: Aufgehoben durch Anhang Ziff. 3 der V vom 23. Nov. 2022, mit Wirkung seit 1. Jan. 2023 ([AS 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
 [^26-11]: Aufgehoben durch Anhang 8 Ziff. 3 der Pflanzengesundheitsverordnung vom 31. Okt. 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
@@ -713,9 +731,13 @@ Das Gesuch muss insbesondere folgende Angaben enthalten:
 - b. die Ergebnisse früherer Untersuchungen mit den gleichen Organismen betreffend Gefährdungen oder Beeinträchtigungen des Menschen oder der Umwelt, insbesondere solche Untersuchungen in geschlossenen Systemen und allenfalls im Freiland;
 - c. soweit verfügbar, allfällige Bewilligungen und Beurteilungen schweizerischer und ausländischer Behörden zu Freisetzungsversuchen und zum Inverkehrbringen bezüglich der gleichen Organismen;
 - d. eine Risikoermittlung und -bewertung nach Anhang 4;
-- e. einen Überwachungsplan, mit dem die Gesuchstellerin oder der Gesuchsteller überprüfen wird, ob die Annahmen der Risikoermittlung und -bewertung nach Anhang 4 zutreffen und ob die Schutzmassnahmen zur Einhaltung der Anforderungen nach den Artikeln 12 und 13 ausreichen, und der mindestens folgende Angaben umfasst:
-- 1\. Art, Spezifität, Empfindlichkeit und Verlässlichkeit der Methoden,
-- 2\. Dauer und Häufigkeit der Überwachung;
+- e.
+
+  einen Überwachungsplan, mit dem die Gesuchstellerin oder der Gesuchsteller überprüfen wird, ob die Annahmen der Risikoermittlung und -bewertung nach Anhang 4 zutreffen und ob die Schutzmassnahmen zur Einhaltung der Anforderungen nach den Artikeln 12 und 13 ausreichen, und der mindestens folgende Angaben umfasst:
+
+  - 1\. Art, Spezifität, Empfindlichkeit und Verlässlichkeit der Methoden,
+  - 2\. Dauer und Häufigkeit der Überwachung;
+
 - f. einen Vorschlag für die Information der Abnehmerinnen und Abnehmer (Art. 5) sowie für die allfällige Verpackung der Organismen;
 - g. den Nachweis, dass die Sicherstellungspflichten erfüllt sind;
 - h.[^29-1] für Organismen, die genutzte genetische Ressourcen sind oder deren Entwicklung auf genutzten genetischen Ressourcen oder auf sich darauf beziehendem traditionellem Wissen basiert, die Registernummer gemäss Artikel 4 Absatz 3 oder 8 Absatz 5 der Nagoya-Verordnung vom 11. Dezember 2015[^29-2].
@@ -739,9 +761,13 @@ Das Gesuch muss insbesondere folgende Angaben enthalten:
 - b. die Ergebnisse früherer Untersuchungen mit den gleichen Organismen betreffend Gefährdungen oder Beeinträchtigungen des Menschen oder der Umwelt, insbesondere solche Untersuchungen in geschlossenen Systemen und allenfalls im Freiland;
 - c. soweit verfügbar, allfällige Bewilligungen und Beurteilungen schweizerischer und ausländischer Behörden zu Freisetzungsversuchen und zum Inverkehrbringen bezüglich der gleichen Organismen;
 - d. eine Risikoermittlung und -bewertung nach Anhang 4;
-- e. einen Überwachungsplan, mit dem die Gesuchstellerin oder der Gesuchsteller überprüfen wird, ob die Annahmen der Risikoermittlung und -bewertung nach Anhang 4 zutreffen und ob die Schutzmassnahmen zur Einhaltung der Anforderungen nach den Artikeln 15 und 16 ausreichen, und der mindestens folgende Angaben umfasst:
-- 1\. Art, Spezifität, Empfindlichkeit und Verlässlichkeit der Methoden,
-- 2\. Dauer und Häufigkeit der Überwachung;
+- e.
+
+  einen Überwachungsplan, mit dem die Gesuchstellerin oder der Gesuchsteller überprüfen wird, ob die Annahmen der Risikoermittlung und -bewertung nach Anhang 4 zutreffen und ob die Schutzmassnahmen zur Einhaltung der Anforderungen nach den Artikeln 15 und 16 ausreichen, und der mindestens folgende Angaben umfasst:
+
+  - 1\. Art, Spezifität, Empfindlichkeit und Verlässlichkeit der Methoden,
+  - 2\. Dauer und Häufigkeit der Überwachung;
+
 - f. einen Vorschlag für die Information der Abnehmerinnen und Abnehmer (Art. 5) sowie für die allfällige Verpackung der Organismen;
 - g.[^30-1] für Organismen, die genutzte genetische Ressourcen sind oder deren Entwicklung auf genutzten genetischen Ressourcen oder auf sich darauf beziehendem traditionellem Wissen basiert, die Registernummer gemäss Artikel 4 Absatz 3 oder 8 Absatz 5 der Nagoya-Verordnung vom 11. Dezember 2015[^30-2].
 
@@ -1056,7 +1082,7 @@ Die nachträgliche Kontrolle (Marktüberwachung) wird durchgeführt:
 [^47-3]: [SR 921.01](https://fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538)
 [^47-4]: [SR 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
 [^47-5]: [[AS 2005 3035](https://fedlex.data.admin.ch/eli/oc/2005/481), [4097](https://fedlex.data.admin.ch/eli/oc/2005/541), [5211](https://fedlex.data.admin.ch/eli/oc/2005/719); [2006 4851](https://fedlex.data.admin.ch/eli/oc/2006/750); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152)Ziff. III, [1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 54, [1843](https://fedlex.data.admin.ch/eli/oc/2007/268), [4541](https://fedlex.data.admin.ch/eli/oc/2007/641), [6291](https://fedlex.data.admin.ch/eli/oc/2007/834); [2008 2155](https://fedlex.data.admin.ch/eli/oc/2008/310), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 11, [5271](https://fedlex.data.admin.ch/eli/oc/2008/742); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)Anhang Ziff. 3, [2845](https://fedlex.data.admin.ch/eli/oc/2009/373); [2010 2101](https://fedlex.data.admin.ch/eli/oc/2010/278), [3845](https://fedlex.data.admin.ch/eli/oc/2010/551). [AS 2010 2331](https://fedlex.data.admin.ch/eli/oc/2010/340)Art. 84]. Siehe heute: die V vom 12. Mai 2010 ([SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)).
-[^47-6]: [SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+[^47-6]: [[AS 2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105); [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)Anhang Ziff. 3, [4793](https://fedlex.data.admin.ch/eli/oc/2003/703)Ziff. I 7, [4923](https://fedlex.data.admin.ch/eli/oc/2003/727); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 18; [2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835); [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 12; [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)Anhang Ziff. 3; [2011 2403](https://fedlex.data.admin.ch/eli/oc/2011/348), [2699](https://fedlex.data.admin.ch/eli/oc/2011/372)Anhang 8 Ziff. II 3; [2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724); [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Anhang 6 Ziff. 7; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)Anhang Ziff. 8; [2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681); [2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)Anhang Ziff. 4; [2021 686](https://fedlex.data.admin.ch/eli/oc/2021/686); [2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)Anhang Ziff. 2. [AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)]. Siehe heute: die V vom 1. November 2023 ([SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)).
 [^47-7]: [[AS 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287), [2748](https://fedlex.data.admin.ch/eli/oc/1999/442)Anhang 5 Ziff. 6; [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)Ziff. II 14; [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653); [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729); [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107), [2695](https://fedlex.data.admin.ch/eli/oc/2005/464)Ziff. II 19, [5555](https://fedlex.data.admin.ch/eli/oc/2005/755); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)Ziff. IV 70; [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Anhang 5 Ziff. 14; [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344); [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [AS 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)Art. 77]. Siehe heute: die V vom 26. Okt. 2011 ([SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)).
 [^47-8]: Aufgehoben durch Anhang 8 Ziff. 3 der Pflanzengesundheitsverordnung vom 31. Okt. 2018, mit Wirkung seit 1. Jan. 2020 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
 [^47-9]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
@@ -1074,6 +1100,7 @@ Sie kontrollieren anhand von Stichproben oder auf Ersuchen des BAFU insbesondere
 - a. die Vorschriften über die Information der Abnehmerinnen und Abnehmer (Art. 5) eingehalten werden;
 - b. das Inverkehrbringen gentechnisch veränderter oder pathogener Organismen bewilligt ist;
 - c. der Umgang mit bestimmten Organismen nicht verboten ist;
+- c<sup>bis</sup>.[^48-1] das Inverkehrbringen bestimmter Organismen nicht verboten ist;
 - d. die mit der Bewilligung für das Inverkehrbringen verknüpften Bedingungen und Auflagen eingehalten werden;
 - e. gentechnisch veränderte Organismen richtig gekennzeichnet sind (Art. 10);
 - f. die vom BAFU nach Absatz 4 angeordneten Massnahmen befolgt werden.
@@ -1085,6 +1112,20 @@ Sie kontrollieren anhand von Stichproben oder auf Ersuchen des BAFU insbesondere
 <sup>5</sup> Die für die Kontrollen erforderlichen Proben, Nachweismittel und -methoden sind den zuständigen Behörden zur Verfügung zu stellen.
 
 <sup>6</sup> Ergibt die Kontrolle, dass Bestimmungen dieser Verordnung verletzt werden, so muss die verantwortliche Person die Kosten der Kontrolle tragen. Die kontrollierende Behörde stellt ihr die Rechnung direkt zu.
+
+[^48-1]: Eingefügt durch Ziff. I der V vom 1. März 2024, in Kraft seit 1. Sept. 2024 ([AS 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
+
+#### Art. 48a
+
+**Vollzug durch das Bundesamt für Zoll und Grenzsicherheit bei verbotenen invasiven gebietsfremden Organismen**[^48a-1]
+
+<sup>1</sup> Das Bundesamt für Zoll und Grenzsicherheit (BAZG) überwacht, ob bei der Einfuhr von Organismen die Pflichten nach Artikel 15 Absätze 2 und 2<sup>bis</sup> eingehalten werden; es führt zu diesem Zweck in Absprache mit dem BAFU zeitlich befristete physische Kontrollen durch.
+
+<sup>2</sup> Stellt es eine Widerhandlung fest oder hat es einen entsprechenden Verdacht, so kann das BAZG die Waren vorläufig sicherstellen; es informiert das BAFU, welches über das weitere Vorgehen entscheidet. Ordnet das BAFU die Einziehung an, so weist das BAZG die anmeldepflichtige Person darauf hin, dass die Waren anstelle der Einziehung vor Ort entsorgt werden können.
+
+<sup>3</sup> Das BAZG übermittelt dem BAFU die für den Vollzug von Artikel 15 Absätze 2 und 2<sup>bis</sup> notwendigen Daten.
+
+[^48a-1]: Eingefügt durch Ziff. I der V vom 1. März 2024, in Kraft seit 1. Sept. 2024 ([AS 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
 
 ### 3. Abschnitt: Überwachung der Sorgfaltspflicht
 
@@ -1234,9 +1275,11 @@ Wer den Behörden Gesuchsunterlagen einreicht, muss:
 
 #### Art. 59
 
-**Änderung der Listen von Anhang 2**
+**Änderung der Listen der Anhänge 2.1 und 2.2**[^59-1]
 
-Das UVEK passt nach Anhörung der betroffenen Bundesstellen sowie der betroffenen Kreise die Listen von Anhang 2 an, wenn es zu neuen Erkenntnissen über die Invasivität gebietsfremder Organismen gelangt.
+Das UVEK passt nach Anhörung der betroffenen Bundesstellen, der Kantone sowie der weiteren betroffenen Kreise die Listen der Anhänge 2.1 und 2.2 an, wenn es zu neuen Erkenntnissen über die Invasivität gebietsfremder Organismen gelangt.
+
+[^59-1]: Fassung gemäss Ziff. I der V vom 1. März 2024, in Kraft seit 1. Sept. 2024 ([AS 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
 
 ## 5. Kapitel: Schlussbestimmungen
 
@@ -1289,27 +1332,40 @@ Anhang 1
 - e. natürliche Prozesse wie Konjugation, Transduktion oder Transformation;
 - f. Veränderung des Ploidie-Niveaus, einschliesslich der Aneuploidie, und Elimination von Chromosomen.
 
-Anhang 2
+Anhang 2.1[^t-1]
 
 (Art. 15 Abs. 2)
 
-## Verbotene invasive gebietsfremde Organismen
+## Für den direkten Umgang in der Umwelt verbotene invasive gebietsfremde Organismen
+
+[^t-1]: Ursprünglich: Anhang 2. Bereinigt gemäss Ziff. II Abs. 1 der V vom 1. März 2024, in Kraft seit 1. Sept. 2024 ([AS 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
 
 ### 1 Pflanzen
 
 <table>
-<tr><td>Wissenschaftlicher Name</td><td></td><td>Deutscher Name</td><td></td><td>Nom français</td><td></td><td>Nome italiano</td></tr>
-<tr><td>*Ambrosia artemisiifolia*</td><td></td><td>Aufrechte Ambrosie, Beifussblättriges Traubenkraut</td><td></td><td>Ambroisie à feuilles d’armoise, Ambroisie élevée</td><td></td><td>Ambrosia con foglie di artemisia</td></tr>
-<tr><td>*Crassula helmsii*</td><td></td><td>Nadelkraut</td><td></td><td>Orpin de Helms</td><td></td><td>Erba grassa di Helms</td></tr>
-<tr><td>*Elodea nuttalli*</td><td></td><td>Nuttalls Wasserpest</td><td></td><td>Elodée de Nuttall</td><td></td><td>Peste d’acqua di Nuttall</td></tr>
-<tr><td>*Heracleum mantegazzianum*</td><td></td><td>Riesenbärenklau</td><td></td><td>Berce du Caucase, Berce de Mantegazzi</td><td></td><td>Panace di Mantegazzi</td></tr>
-<tr><td>*Hydrocotyle ranunculoides*</td><td></td><td>Grosser Wassernabel</td><td></td><td>Hydrocotyle fausse-renoncule</td><td></td><td>Soldinella reniforme</td></tr>
-<tr><td>*Impatiens glandulifera*</td><td></td><td>Drüsiges Springkraut</td><td></td><td>Impatiente glanduleuse</td><td></td><td>Balsamina ghiandalosa</td></tr>
-<tr><td>*Ludwigia spp. (L. grandiflora, L. peploides)*</td><td></td><td>Südamerikanische Heusenkräuter</td><td></td><td>Jussies sudaméricaines</td><td></td><td>Porracchie sudamericane</td></tr>
-<tr><td>*Reynoutria spp. (Fallopia spp., Polygonum polystachyum, P. cuspidatum)*</td><td></td><td>Asiatische Staudenknöteriche inkl. Hybride</td><td></td><td>Renouées asiatiques, hybrides incl.</td><td></td><td>Poligoni asiatici, incl. ibridi</td></tr>
-<tr><td>*Rhus typhina*</td><td></td><td>Essigbaum</td><td></td><td>Sumac</td><td></td><td>Sommacco maggiore</td></tr>
-<tr><td>*Senecio inaequidens*</td><td></td><td>Schmalblättriges Greiskraut</td><td></td><td>Séneçon du Cap</td><td></td><td>Senecione sudafricano</td></tr>
-<tr><td>*Solidago spp. (S.canadensis, S. gigantea, S. nemoralis; ohne S. virgaurea)*</td><td></td><td>Amerikanische Goldruten inkl. Hybride</td><td></td><td>Solidages américains, Verges d’or américaines, hybrides incl.</td><td></td><td>Verghe d’oro americane, incl. ibridi</td></tr>
+<tr><th>Wissenschaftlicher Name</th><th>Deutscher Name</th><th>Nom français</th><th>Nome italiano</th></tr>
+<tr><td>*Ailanthus altissima*</td><td>Götterbaum</td><td>Ailante</td><td>Ailanto</td></tr>
+<tr><td>*Ambrosia spp.* *(A. artemisiifolia,* *A. confertiflora*, *A. psilostachya, A. trifida*)</td><td>Ambrosien, Traubenkräuter</td><td>Ambroisies</td><td>Ambrosie</td></tr>
+<tr><td>*Asclepias syriaca*</td><td>Syrische Seidenpflanze</td><td>Asclépiade de Syrie</td><td>Albero della seta</td></tr>
+<tr><td>*Cabomba* *caroliniana*</td><td>Karolina-Haarnixe</td><td>Cabomba, Evantail de Caroline</td><td>Cabomba della Carolina</td></tr>
+<tr><td>*Celastrus* *orbiculatus*</td><td>Rundblättriger Baumwürger</td><td>Bourreau des arbres asiatique</td><td>Celastro</td></tr>
+<tr><td>*Crassula helmsii*</td><td>Nadelkraut</td><td>Orpin de Helms</td><td>Erba grassa di Helms</td></tr>
+<tr><td>*Elodea spp.* *(E. candensis,* *E. densa, E. nuttalli)*</td><td>Wasserpest</td><td>Elodée</td><td>Peste d’acqua</td></tr>
+<tr><td>*Heracleum* *mantegazzianum*</td><td>Riesenbärenklau</td><td>Berce du Caucase, Berce de Mantegazzi</td><td>Panace di Mantegazzi</td></tr>
+<tr><td>*Humulus japonicus*</td><td>Japanischer Hopfen</td><td>Houblon du Japon</td><td>Luppolo giapponese</td></tr>
+<tr><td>*Hydrocotyle* *ranunculoides*</td><td>Grosser Wassernabel</td><td>Hydrocotyle fausse-renoncule</td><td>Soldinella reniforme</td></tr>
+<tr><td>*Impatiens* *glandulifera*</td><td>Drüsiges Springkraut</td><td>Impatiente glanduleuse</td><td>Balsamina ghiandalosa</td></tr>
+<tr><td>*Lagarosiphon major*</td><td>Schmalrohr</td><td>Grand lagarosiphon</td><td>Peste d’acqua arcuata</td></tr>
+<tr><td>*Ludwigia spp. (L. grandiflora, L. peploides,* *L. x kentiana)*</td><td>Südamerikanische Heusenkräuter inkl. Hybride</td><td>Jussies sudaméricaines hybrides incl.</td><td>Porracchie sudamericane incl. ibridi</td></tr>
+<tr><td>*Myriophyllum* spp. (*M. aquaticum,* *M. heterophyllum,* *ausser* *einheimische Arten)*</td><td>Tausendblätter</td><td>Myriophylles</td><td>Miriofilli</td></tr>
+<tr><td>*Pueraria lobata*</td><td>Kopoubohne</td><td>Puéraire hérissée</td><td>Kudzu</td></tr>
+<tr><td>*Reynoutria spp.* *(Fallopia* *spp.,* *Polygonum* *polystachyum**,* *P. cuspidatum, P. perfoliatum)*</td><td>Asiatische Knöteriche inkl. Hybride</td><td>Renouées asiatiques hybrides incl.</td><td>Poligoni asiatici incl. ibridi</td></tr>
+<tr><td>*Rhus typhina*</td><td>Essigbaum</td><td>Sumac</td><td>Sommacco maggiore</td></tr>
+<tr><td>*Salvinia molesta*</td><td>Lästiger Schwimmfarn</td><td>Salvinie géante</td><td>Erba pesce gigante</td></tr>
+<tr><td>*Senecio inaequidens*</td><td>Schmalblättriges Greiskraut</td><td>Séneçon du Cap</td><td>Senecione sudafricano</td></tr>
+<tr><td>*Sicyos angulatus*</td><td>Haargurke</td><td>Sicyos anguleux</td><td>Sicios angoloso</td></tr>
+<tr><td>*Solidago spp.* *(S. canadensis, S. gigantea, S. graminifolia; ohne S. virgaurea)*</td><td>Amerikanische Goldruten inkl. Hybride</td><td>Solidages américains, Verges d’or américaines, hybrides incl.</td><td>Verghe d’oro americane, incl. ibridi</td></tr>
+<tr><td>*Toxicodendron* *radicans*</td><td>Kletternder Giftsumach</td><td>Arbre à la gale</td><td>Edera velenosa</td></tr>
 </table>
 
 ### 2 Tiere
@@ -1319,6 +1375,49 @@ Anhang 2
 <tr><td>*Harmonia axyridis*</td><td></td><td>Asiatischer Marienkäfer</td><td></td><td>Coccinelle asiatique</td><td></td><td>Coccinella asiatica</td></tr>
 <tr><td>*Trachemys scripta elegans*</td><td></td><td>Rotwangen-Schmuckschildkröte</td><td></td><td>Tortue de Floride</td><td></td><td>Tartaruga dalle orecchie rosse</td></tr>
 <tr><td>*Rana catesbeiana*</td><td></td><td>Amerikanischer Ochsenfrosch</td><td></td><td>Grenouille taureau</td><td></td><td>Rana toro</td></tr>
+</table>
+
+Anhang 2.2[^t-2]
+
+(Art. 15 Abs. 2<sup>bis</sup>)
+
+## Für das Inverkehrbringen für den direkten Umgang in der Umwelt verbotene invasive gebietsfremde Organismen
+
+[^t-2]: Eingefügt durch Ziff. II Abs. 2 der V vom 1. März 2024, in Kraft seit 1. Sept. 2024 ([AS 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
+
+<table>
+<tr><th>Wissenschaftlicher Name</th><th>Deutscher Name</th><th>Nom français</th><th>Nome italiano</th></tr>
+<tr><td>*Acacia dealbata*</td><td>Falsche Mimose</td><td>Mimosa blanchâtre</td><td>Mimosa</td></tr>
+<tr><td>*Amorpha fruticosa*</td><td>Bastardindigo</td><td>Amorphe buissonnante</td><td>Indaco bastardo</td></tr>
+<tr><td>*Artemisia* *verlotiorum*</td><td>Verlotscher Beifuss</td><td>Armoise des frères Verlot</td><td>Assenzio dei fratelli Verlot</td></tr>
+<tr><td>*Aster novi-belgii aggr.* *(A. ×salignus,* *A. ×versicolor,* *A. lanceo-latus, A. novi-belgii,* *A. parviflorus)*</td><td>Neubelgische Aster (Weiden-Aster, Gescheckte Aster, Lanzettblättrige Aster, Neubelgische Aster, Tradescants Aster)</td><td>Aster de la Nouvelle-Belgique (Aster à feuilles de saule, Aster versicolore, Aster lancéolé, Aster de la Nouvelle-Belgique, Aster de Tradescant)</td><td>Astro americano (Astro a foglie di salice, Astro cangiante, Astro lanceolato, Astro americano, Astro di Tradescant)</td></tr>
+<tr><td>*Azolla filiculoides*</td><td>Grosser Algenfarn</td><td>Azolla fausse filicule</td><td>Azolla maggiore</td></tr>
+<tr><td>*Broussonetia* *papyrifera*</td><td>Papiermaulbeerbaum</td><td>Mûrier à papier</td><td>Gelso da carta</td></tr>
+<tr><td>*Buddleja davidii*</td><td>Schmetterlingsstrauch</td><td>Buddléia de David</td><td>Buddleja</td></tr>
+<tr><td>*Bunias orientalis*</td><td>Glattes Zackenschötchen</td><td>Bunias d’Orient</td><td>Cascellore orientale</td></tr>
+<tr><td>*Cornus sericea*</td><td>Seidiger Hornstrauch</td><td>Cornouiller soyeux</td><td>Corniolo serico</td></tr>
+<tr><td>*Cotoneaster* *horizontalis*</td><td>Korallenstrauch</td><td>Cotonéaster horizontal</td><td>Cotognastro orizzontale</td></tr>
+<tr><td>*Echinocystis lobata*</td><td>Stachelgurke, Igelgurke</td><td>Concombre sauvage, C. piquant</td><td>Sicios lobata</td></tr>
+<tr><td>*Erigeron annuus*</td><td>Einjähriges Berufkraut</td><td>Vergerette annuelle</td><td>Cespica annua</td></tr>
+<tr><td>*Galega officinalis*</td><td>Geissraute</td><td>Galéga officinal</td><td>Capraggine comune</td></tr>
+<tr><td>*Glyceria striata*</td><td>Gestreiftes Süssgras</td><td>Glycérie striée</td><td>Gramignone striato</td></tr>
+<tr><td>*Lonicera henryi*</td><td>Henrys Geissblatt</td><td>Chèvrefeuille de Henry</td><td>Caprifoglio di Henry</td></tr>
+<tr><td>*Lonicera japonica*</td><td>Japanisches Geissblatt</td><td>Chèvrefeuille du Japon</td><td>Caprifoglio giapponese</td></tr>
+<tr><td>*Lupinus polyphyllus*</td><td>Vielblättrige Lupine</td><td>Lupin à folioles nombreuses</td><td>Lupino fogliuto</td></tr>
+<tr><td>*Oenanthe javanica*</td><td>Wasserfenchel, Japanische Petersilie</td><td>Persil japonais</td><td>Finocchio acquatico di Giava</td></tr>
+<tr><td>*Parthenocissus* *quinquefolia* *aggr. (P. inserta,* *P. quinquefolia)*</td><td>Fünffingerige - / Gewöhnliche Jungfernrebe</td><td>Vigne vierge à cinq folioles / - commune</td><td>Vite del Canadà comune / Vite del Canadà domestica</td></tr>
+<tr><td>*Paulownia* *tomentosa*</td><td>Blauglockenbaum</td><td>Paulownia</td><td>Paulownia</td></tr>
+<tr><td>*Pennisetum setaceum*</td><td>Afrikanisches Lampenputzergras</td><td>Herbe aux écouvillons, Herbe fontaine</td><td>Penniseto allungato</td></tr>
+<tr><td>*Phyllostachys aurea*</td><td>Gold-Bambus</td><td>Bambou moyen</td><td>Bambù dorato</td></tr>
+<tr><td>*Prunus laurocerasus*</td><td>Kirschlorbeer</td><td>Laurier-cerise</td><td>Lauroceraso</td></tr>
+<tr><td>*Prunus serotina*</td><td>Herbst-Traubenkirsche</td><td>Merisier tardif</td><td>Pruno autunnale</td></tr>
+<tr><td>*Pseudosasa japonica*</td><td>Japanischer Bambus</td><td>Bambou du Japon</td><td>Pseudosasa giapponese</td></tr>
+<tr><td>*Rubus armeniacus*</td><td>Armenische Brombeere</td><td>Ronce d’Arménie</td><td>Rovo d’Armenia</td></tr>
+<tr><td>*Rubus phoenicolasius*</td><td>Rotborstige Himbeere</td><td>Framboisier du Japon</td><td>Lampone del Giappone</td></tr>
+<tr><td>*Sagittaria latifolia*</td><td>Breitblättriges Pfeilkraut</td><td>Sagittaire à larges feuilles</td><td>Sagittaria americana</td></tr>
+<tr><td>*Sedum spurium*</td><td>Kaukasus-Fettkraut</td><td>Orpin bâtard</td><td>Borracina caucasica</td></tr>
+<tr><td>*Sedum stoloniferum*</td><td>Ausläuferbildendes Fettkraut</td><td>Orpin stolonifère</td><td>Borracina stolonifera</td></tr>
+<tr><td>*Trachycarpus* *fortunei*</td><td>Chinesische Hanfpalme, Fortunes Hanfpalme</td><td>Palmier chanvre</td><td>Palma di Fortune</td></tr>
 </table>
 
 Anhang 3
@@ -1331,63 +1430,72 @@ Anhang 3.1
 
 ## Bewilligungsgesuche für Freisetzungsversuche mit pathogenen Organismen
 
-<table>
-<tr><td>1</td><td>Allgemeine Informationen</td></tr>
-<tr><td>11</td><td>Name und Adresse der Gesuchstellerin oder des Gesuchstellers (Unternehmen oder Institut);</td></tr>
-<tr><td>12</td><td>Name, Qualifikation und Erfahrung der verantwortlichen Wissenschaftlerinnen und Wissenschaftler.</td></tr>
-<tr><td>2</td><td>Bezeichnung und Charakterisierung der Organismen</td></tr>
-<tr><td>21</td><td>Wissenschaftliche Bezeichnung und sonstige Namen;</td></tr>
-<tr><td>22</td><td>taxonomische Daten, einschliesslich Subspezies, Stamm oder Biotyp;</td></tr>
-<tr><td>23</td><td>phänotypische und genetische Marker sowie Beschreibung der Möglichkeiten zur eindeutigen Identifikation der Organismen in der Umwelt;</td></tr>
-<tr><td>24</td><td>Methoden zur Aufzucht und Herstellung der Organismen;</td></tr>
-<tr><td>25</td><td>genaue Quelle und Reinheit der für den Versuch vorgesehenen Stämme und Kulturen;</td></tr>
-<tr><td>26</td><td>Regionen, in denen die Organismen bereits absichtlich oder unabsichtlich freigesetzt wurden, sowie die dabei gemachten Erfahrungen;</td></tr>
-<tr><td>27</td><td>Biologie und Ökologie:</td></tr>
-<tr><td>271</td><td>Art der Pathogenität, Wirtsorganismen;</td></tr>
-<tr><td>272</td><td>Toxine und andere umweltgefährdende Metaboliten;</td></tr>
-<tr><td>273</td><td>Resistenz bzw. Empfindlichkeit gegen Antibiotika, Fungizide sowie andere Agenzien;</td></tr>
-<tr><td>274</td><td>geografische Verbreitung und natürlicher Lebensraum;</td></tr>
-<tr><td>275</td><td>Persistenz und Vermehrung unter den schweizerischen Verhältnissen;</td></tr>
-<tr><td>276</td><td>Mobilität;</td></tr>
-<tr><td>277</td><td>Beteiligung an Umweltprozessen.</td></tr>
-<tr><td>3</td><td>Durchführung des Freisetzungsversuchs</td></tr>
-<tr><td>31</td><td>Beschreibung des Freisetzungsversuchs einschliesslich der Methoden und der Menge freizusetzender Organismen;</td></tr>
-<tr><td>32</td><td>Zeitplan;</td></tr>
-<tr><td>33</td><td>Eingriffe am Versuchsgelände vor, während und nach dem Freisetzungsversuch;</td></tr>
-<tr><td>34</td><td>Massnahmen zum Schutz der Beschäftigten während des Freisetzungsversuchs;</td></tr>
-<tr><td>35</td><td>Verfahren zur Inaktivierung der Organismen nach Abschluss des Versuchs.</td></tr>
-<tr><td>4</td><td>Ort des Freisetzungsversuchs</td></tr>
-<tr><td>41</td><td>geografische Lage, Grösse des Versuchsgeländes und Beschreibung der näheren Umgebung;</td></tr>
-<tr><td>42</td><td>klimatische, geologische und pedologische Eigenschaften des Versuchsgeländes und der näheren Umgebung;</td></tr>
-<tr><td>43</td><td>Flora und Fauna einschliesslich Nutzpflanzen, Nutztiere und wandernder Arten;</td></tr>
-<tr><td>44</td><td>Beschreibung des Ökosystems.</td></tr>
-<tr><td>5</td><td>Mögliche Einwirkungen</td></tr>
-<tr><td>51</td><td>Einwirkungen auf Mensch und Tier, insbesondere Gefahren für ihre Gesundheit (z. B. allergene, pathogene oder toxische Wirkung, Hautreizung);</td></tr>
-<tr><td>52</td><td>Einwirkungen auf die Umwelt und die biologische Vielfalt:</td></tr>
-<tr><td>521</td><td>Einwirkungen auf Umweltprozesse oder wichtige Funktionen des Bodens;</td></tr>
-<tr><td>522</td><td>Potenzial zur Festsetzung und Ausbreitung am Freisetzungsort;</td></tr>
-<tr><td>523</td><td>erwartete ökologische Rolle am Freisetzungsort, Identifizierung und Beschreibung der Zielorganismen, Folgen der Einwirkungen auf die Zielorganismen;</td></tr>
-<tr><td>524</td><td>einheimische Feinde der Zielorganismen am Freisetzungsort, die von der Einwirkung indirekt betroffen sein könnten;</td></tr>
-<tr><td>525</td><td>mögliche direkte und indirekte Einwirkungen auf Nichtzielorganismen;</td></tr>
-<tr><td>526</td><td>mögliche Konkurrenzierung oder Verdrängung einheimischer Arten;</td></tr>
-<tr><td>527</td><td>Potenzial zur Hybridisierung mit einheimischen Stämmen oder Biotypen;</td></tr>
-<tr><td>528</td><td>Einwirkungen auf Pflanzen;</td></tr>
-<tr><td>529</td><td>andere möglicherweise bedeutsame Einwirkungen.</td></tr>
-<tr><td>6</td><td>Sicherheitsmassnahmen</td></tr>
-<tr><td>61</td><td>Vorsorgemassnahmen:</td></tr>
-<tr><td>611</td><td>Methoden und Verfahren zur Vermeidung oder Minimierung der Ausbreitung der Organismen ausserhalb des Versuchsgeländes;</td></tr>
-<tr><td>612</td><td>Methoden und Verfahren zum Schutz des Geländes vor dem Betreten durch Unbefugte;</td></tr>
-<tr><td>613</td><td>Methoden und Verfahren zum Schutz gegen das Eindringen anderer Organismen;</td></tr>
-<tr><td>62</td><td>Abfallentsorgung:</td></tr>
-<tr><td>621</td><td>Art und Menge der erzeugten Abfälle;</td></tr>
-<tr><td>622</td><td>mögliche Gefahren;</td></tr>
-<tr><td>623</td><td>Beschreibung des geplanten Entsorgungsverfahrens;</td></tr>
-<tr><td>63</td><td>Notfallpläne:</td></tr>
-<tr><td>631</td><td>Methoden und Verfahren zur Kontrolle der Organismen für den Fall einer unerwarteten Ausbreitung;</td></tr>
-<tr><td>632</td><td>Methoden zur Dekontaminierung der betroffenen Geländeabschnitte;</td></tr>
-<tr><td>633</td><td>Methoden zur Beseitigung oder Behandlung von Pflanzen, Tieren, Böden usw., die von der Ausbreitung der Organismen betroffen sind;</td></tr>
-<tr><td>634</td><td>Pläne zum Schutz von Menschen und Tieren sowie der Umwelt und der biologischen Vielfalt im Fall des Auftretens unerwünschter Einwirkungen.</td></tr>
-</table>
+### 1 Allgemeine Informationen
+
+- 11 Name und Adresse der Gesuchstellerin oder des Gesuchstellers (Unternehmen oder Institut);
+- 12 Name, Qualifikation und Erfahrung der verantwortlichen Wissenschaftlerinnen und Wissenschaftler.
+
+### 2 Bezeichnung und Charakterisierung der Organismen
+
+- 21 Wissenschaftliche Bezeichnung und sonstige Namen;
+- 22 taxonomische Daten, einschliesslich Subspezies, Stamm oder Biotyp;
+- 23 phänotypische und genetische Marker sowie Beschreibung der Möglichkeiten zur eindeutigen Identifikation der Organismen in der Umwelt;
+- 24 Methoden zur Aufzucht und Herstellung der Organismen;
+- 25 genaue Quelle und Reinheit der für den Versuch vorgesehenen Stämme und Kulturen;
+- 26 Regionen, in denen die Organismen bereits absichtlich oder unabsichtlich freigesetzt wurden, sowie die dabei gemachten Erfahrungen;
+- 27 Biologie und Ökologie:
+- 271 Art der Pathogenität, Wirtsorganismen;
+- 272 Toxine und andere umweltgefährdende Metaboliten;
+- 273 Resistenz bzw. Empfindlichkeit gegen Antibiotika, Fungizide sowie andere Agenzien;
+- 274 geografische Verbreitung und natürlicher Lebensraum;
+- 275 Persistenz und Vermehrung unter den schweizerischen Verhältnissen;
+- 276 Mobilität;
+- 277 Beteiligung an Umweltprozessen.
+
+### 3 Durchführung des Freisetzungsversuchs
+
+- 31 Beschreibung des Freisetzungsversuchs einschliesslich der Methoden und der Menge freizusetzender Organismen;
+- 32 Zeitplan;
+- 33 Eingriffe am Versuchsgelände vor, während und nach dem Freisetzungsversuch;
+- 34 Massnahmen zum Schutz der Beschäftigten während des Freisetzungsversuchs;
+- 35 Verfahren zur Inaktivierung der Organismen nach Abschluss des Versuchs.
+
+### 4 Ort des Freisetzungsversuchs
+
+- 41 geografische Lage, Grösse des Versuchsgeländes und Beschreibung der näheren Umgebung;
+- 42 klimatische, geologische und pedologische Eigenschaften des Versuchsgeländes und der näheren Umgebung;
+- 43 Flora und Fauna einschliesslich Nutzpflanzen, Nutztiere und wandernder Arten;
+- 44 Beschreibung des Ökosystems.
+
+### 5 Mögliche Einwirkungen
+
+- 51 Einwirkungen auf Mensch und Tier, insbesondere Gefahren für ihre Gesundheit (z. B. allergene, pathogene oder toxische Wirkung, Hautreizung);
+- 52 Einwirkungen auf die Umwelt und die biologische Vielfalt:
+- 521 Einwirkungen auf Umweltprozesse oder wichtige Funktionen des Bodens;
+- 522 Potenzial zur Festsetzung und Ausbreitung am Freisetzungsort;
+- 523 erwartete ökologische Rolle am Freisetzungsort, Identifizierung und Beschreibung der Zielorganismen, Folgen der Einwirkungen auf die Zielorganismen;
+- 524 einheimische Feinde der Zielorganismen am Freisetzungsort, die von der Einwirkung indirekt betroffen sein könnten;
+- 525 mögliche direkte und indirekte Einwirkungen auf Nichtzielorganismen;
+- 526 mögliche Konkurrenzierung oder Verdrängung einheimischer Arten;
+- 527 Potenzial zur Hybridisierung mit einheimischen Stämmen oder Biotypen;
+- 528 Einwirkungen auf Pflanzen;
+- 529 andere möglicherweise bedeutsame Einwirkungen.
+
+### 6 Sicherheitsmassnahmen
+
+- 61 Vorsorgemassnahmen:
+- 611 Methoden und Verfahren zur Vermeidung oder Minimierung der Ausbreitung der Organismen ausserhalb des Versuchsgeländes;
+- 612 Methoden und Verfahren zum Schutz des Geländes vor dem Betreten durch Unbefugte;
+- 613 Methoden und Verfahren zum Schutz gegen das Eindringen anderer Organismen;
+- 62 Abfallentsorgung:
+- 621 Art und Menge der erzeugten Abfälle;
+- 622 mögliche Gefahren;
+- 623 Beschreibung des geplanten Entsorgungsverfahrens;
+- 63 Notfallpläne:
+- 631 Methoden und Verfahren zur Kontrolle der Organismen für den Fall einer unerwarteten Ausbreitung;
+- 632 Methoden zur Dekontaminierung der betroffenen Geländeabschnitte;
+- 633 Methoden zur Beseitigung oder Behandlung von Pflanzen, Tieren, Böden usw., die von der Ausbreitung der Organismen betroffen sind;
+- 634 Pläne zum Schutz von Menschen und Tieren sowie der Umwelt und der biologischen Vielfalt im Fall des Auftretens unerwünschter Einwirkungen.
 
 Anhang 3.2
 
@@ -1395,51 +1503,56 @@ Anhang 3.2
 
 ## Bewilligungsgesuche für das Inverkehrbringen pathogener Organismen
 
-<table>
-<tr><td>1</td><td>Allgemeine Informationen</td></tr>
-<tr><td>11</td><td>Name und Adresse der Gesuchstellerin oder des Gesuchstellers (Unternehmen oder Institut);</td></tr>
-<tr><td>12</td><td>Beschreibung der Art und des Umfangs der vorgesehenen Verwendungen;</td></tr>
-<tr><td>13</td><td>Beschreibung der geografischen Gebiete und Umweltbereiche, in denen die Organismen verwendet werden sollen.</td></tr>
-<tr><td>2</td><td>Bezeichnung und Charakterisierung der Organismen</td></tr>
-<tr><td>21</td><td>Wissenschaftliche Bezeichnung und sonstige Namen;</td></tr>
-<tr><td>22</td><td>taxonomische Daten, einschliesslich Subspezies, Stamm oder Biotyp;</td></tr>
-<tr><td>23</td><td>phänotypische und genetische Marker sowie Beschreibung der Möglichkeiten zur eindeutigen Identifikation der Organismen in der Umwelt;</td></tr>
-<tr><td>24</td><td>Methoden zur Aufzucht und Herstellung der Organismen;</td></tr>
-<tr><td>25</td><td>genaue Quelle und Reinheit der für das Inverkehrbringen vorgesehenen Stämme und Kulturen;</td></tr>
-<tr><td>26</td><td>Regionen, in denen die Organismen bereits absichtlich oder unabsichtlich freigesetzt wurden, bzw. Länder, in denen sie bereits in Verkehr gebracht werden, sowie die dabei gemachten Erfahrungen;</td></tr>
-<tr><td>27</td><td>Biologie und Ökologie:</td></tr>
-<tr><td>271</td><td>Art der Pathogenität, Wirtsorganismen;</td></tr>
-<tr><td>272</td><td>Toxine und andere umweltgefährdende Metaboliten;</td></tr>
-<tr><td>273</td><td>Resistenz bzw. Empfindlichkeit gegen Antibiotika, Fungizide sowie andere Agenzien;</td></tr>
-<tr><td>274</td><td>geografische Verbreitung und natürlicher Lebensraum;</td></tr>
-<tr><td>275</td><td>Persistenz und Vermehrung unter den schweizerischen Verhältnissen;</td></tr>
-<tr><td>276</td><td>Mobilität;</td></tr>
-<tr><td>277</td><td>Beteiligung an Umweltprozessen.</td></tr>
-<tr><td>3</td><td>Mögliche Einwirkungen</td></tr>
-<tr><td>31</td><td>Einwirkungen auf Mensch und Tier, insbesondere Gefahren für ihre Gesundheit (z.B. allergene, pathogene oder toxische Wirkung, Hautreizung);</td></tr>
-<tr><td>32</td><td>Einwirkungen auf die Umwelt und die biologische Vielfalt:</td></tr>
-<tr><td>321</td><td>Einwirkungen auf Umweltprozesse oder wichtige Funktionen des Bodens;</td></tr>
-<tr><td>322</td><td>Potenzial zur Festsetzung und Ausbreitung über den Verwendungsort hinaus;</td></tr>
-<tr><td>323</td><td>erwartete ökologische Rolle am Verwendungsort, Einwirkungen auf Zielorganismen, Biologie und Verbreitung der Zielorganismen;</td></tr>
-<tr><td>324</td><td>einheimische Feinde der Zielorganismen am Verwendungsort;</td></tr>
-<tr><td>325</td><td>mögliche direkte und indirekte Einwirkungen auf Nichtzielorganismen;</td></tr>
-<tr><td>326</td><td>mögliche Konkurrenzierung oder Verdrängung einheimischer Arten;</td></tr>
-<tr><td>327</td><td>Potenzial zur Hybridisierung mit einheimischen Stämmen oder Biotypen;</td></tr>
-<tr><td>328</td><td>Einwirkungen auf Pflanzen;</td></tr>
-<tr><td>329</td><td>andere möglicherweise bedeutsame Einwirkungen.</td></tr>
-<tr><td>4</td><td>Sicherheitsmassnahmen</td></tr>
-<tr><td>41</td><td>Vorsorgemassnahmen:</td></tr>
-<tr><td></td><td>Methoden und Verfahren zur Vermeidung und Minimierung der Ausbreitung der Organismen ausserhalb des Verwendungsbereichs;</td></tr>
-<tr><td>42</td><td>Abfallentsorgung:</td></tr>
-<tr><td>421</td><td>Art und Menge der beim direkten Umgang in der Umwelt erzeugten Abfälle;</td></tr>
-<tr><td>422</td><td>mögliche Gefahren;</td></tr>
-<tr><td>423</td><td>bestimmungsgemässe Entsorgung durch die Verwenderin oder den Verwender;</td></tr>
-<tr><td>43</td><td>Notfallpläne:</td></tr>
-<tr><td>431</td><td>Methoden und Verfahren zur Kontrolle der Organismen für den Fall einer unerwarteten Ausbreitung;</td></tr>
-<tr><td>432</td><td>Methoden zur Dekontaminierung betroffener Lebensräume;</td></tr>
-<tr><td>433</td><td>Methoden zur Beseitigung oder Behandlung von Pflanzen, Tieren, Böden usw., die von der unerwünschten Ausbreitung der Organismen betroffen sind;</td></tr>
-<tr><td>434</td><td>Pläne zum Schutz von Menschen und Tieren sowie der Umwelt und der biologischen Vielfalt im Fall des Auftretens unerwünschter Einwirkungen.</td></tr>
-</table>
+### 1 Allgemeine Informationen
+
+- 11 Name und Adresse der Gesuchstellerin oder des Gesuchstellers (Unternehmen oder Institut);
+- 12 Beschreibung der Art und des Umfangs der vorgesehenen Verwendungen;
+- 13 Beschreibung der geografischen Gebiete und Umweltbereiche, in denen die Organismen verwendet werden sollen.
+
+### 2 Bezeichnung und Charakterisierung der Organismen
+
+- 21 Wissenschaftliche Bezeichnung und sonstige Namen;
+- 22 taxonomische Daten, einschliesslich Subspezies, Stamm oder Biotyp;
+- 23 phänotypische und genetische Marker sowie Beschreibung der Möglichkeiten zur eindeutigen Identifikation der Organismen in der Umwelt;
+- 24 Methoden zur Aufzucht und Herstellung der Organismen;
+- 25 genaue Quelle und Reinheit der für das Inverkehrbringen vorgesehenen Stämme und Kulturen;
+- 26 Regionen, in denen die Organismen bereits absichtlich oder unabsichtlich freigesetzt wurden, bzw. Länder, in denen sie bereits in Verkehr gebracht werden, sowie die dabei gemachten Erfahrungen;
+- 27 Biologie und Ökologie:
+- 271 Art der Pathogenität, Wirtsorganismen;
+- 272 Toxine und andere umweltgefährdende Metaboliten;
+- 273 Resistenz bzw. Empfindlichkeit gegen Antibiotika, Fungizide sowie andere Agenzien;
+- 274 geografische Verbreitung und natürlicher Lebensraum;
+- 275 Persistenz und Vermehrung unter den schweizerischen Verhältnissen;
+- 276 Mobilität;
+- 277 Beteiligung an Umweltprozessen.
+
+### 3 Mögliche Einwirkungen
+
+- 31 Einwirkungen auf Mensch und Tier, insbesondere Gefahren für ihre Gesundheit (z.B. allergene, pathogene oder toxische Wirkung, Hautreizung);
+- 32 Einwirkungen auf die Umwelt und die biologische Vielfalt:
+- 321 Einwirkungen auf Umweltprozesse oder wichtige Funktionen des Bodens;
+- 322 Potenzial zur Festsetzung und Ausbreitung über den Verwendungsort hinaus;
+- 323 erwartete ökologische Rolle am Verwendungsort, Einwirkungen auf Zielorganismen, Biologie und Verbreitung der Zielorganismen;
+- 324 einheimische Feinde der Zielorganismen am Verwendungsort;
+- 325 mögliche direkte und indirekte Einwirkungen auf Nichtzielorganismen;
+- 326 mögliche Konkurrenzierung oder Verdrängung einheimischer Arten;
+- 327 Potenzial zur Hybridisierung mit einheimischen Stämmen oder Biotypen;
+- 328 Einwirkungen auf Pflanzen;
+- 329 andere möglicherweise bedeutsame Einwirkungen.
+
+### 4 Sicherheitsmassnahmen
+
+- 41 Vorsorgemassnahmen:
+- Methoden und Verfahren zur Vermeidung und Minimierung der Ausbreitung der Organismen ausserhalb des Verwendungsbereichs;
+- 42 Abfallentsorgung:
+- 421 Art und Menge der beim direkten Umgang in der Umwelt erzeugten Abfälle;
+- 422 mögliche Gefahren;
+- 423 bestimmungsgemässe Entsorgung durch die Verwenderin oder den Verwender;
+- 43 Notfallpläne:
+- 431 Methoden und Verfahren zur Kontrolle der Organismen für den Fall einer unerwarteten Ausbreitung;
+- 432 Methoden zur Dekontaminierung betroffener Lebensräume;
+- 433 Methoden zur Beseitigung oder Behandlung von Pflanzen, Tieren, Böden usw., die von der unerwünschten Ausbreitung der Organismen betroffen sind;
+- 434 Pläne zum Schutz von Menschen und Tieren sowie der Umwelt und der biologischen Vielfalt im Fall des Auftretens unerwünschter Einwirkungen.
 
 Anhang 3.3
 
@@ -1447,65 +1560,74 @@ Anhang 3.3
 
 ## Bewilligungsgesuche für Freisetzungsversuche mit gebietsfremden wirbellosen Kleintieren (Arthropoden, Anneliden, Nematoden, Plathelminthen)
 
-<table>
-<tr><td>1</td><td>Allgemeine Informationen</td></tr>
-<tr><td>11</td><td>Name und Adresse der Gesuchstellerin oder des Gesuchstellers (Unternehmen oder Institut);</td></tr>
-<tr><td>12</td><td>Name, Qualifikation und Erfahrung der verantwortlichen Wissenschaftlerinnen und Wissenschaftler.</td></tr>
-<tr><td>2</td><td>Bezeichnung und Charakterisierung der Organismen</td></tr>
-<tr><td>21</td><td>Wissenschaftliche Bezeichnung und sonstige Namen;</td></tr>
-<tr><td>22</td><td>taxonomische Daten, einschliesslich Subspezies, Stamm oder Biotyp;</td></tr>
-<tr><td>23</td><td>Bestätigung der taxonomischen Daten durch eine anerkannte wissenschaftliche Autorität sowie Name und Adresse der Institution, bei der Referenztiere archiviert werden;</td></tr>
-<tr><td>24</td><td>phänotypische und genetische Marker sowie Beschreibung der Möglichkeiten zur eindeutigen Identifikation der Organismen in der Umwelt;</td></tr>
-<tr><td>25</td><td>Methoden zur Aufzucht und Herstellung der Organismen;</td></tr>
-<tr><td>26</td><td>genaue Quelle und Reinheit der für den Versuch vorgesehenen Stämme und Biotypen, zudem Name und Adresse der Organisation, welche die Tiere züchtet, sowie genaue Angaben zum Ort (Längen- und Breitengrad, Höhe, Habitat, Wirte) und zur Jahreszeit der Feldsammlung;</td></tr>
-<tr><td>27</td><td>Regionen, in denen die Organismen bereits absichtlich oder unabsichtlich freigesetzt wurden, sowie die dabei gemachten Erfahrungen;</td></tr>
-<tr><td>28</td><td>Biologie und Ökologie:</td></tr>
-<tr><td>281</td><td>natürliche Verbreitung der Organismen;</td></tr>
-<tr><td>282</td><td>Rolle und Bedeutung der Organismen im ursprünglichen Ökosystem;</td></tr>
-<tr><td>283</td><td>Beschreibung der Biologie, insbesondere der Fortpflanzung, der Generationsdauer, der Wege der biologischen Verbreitung, der Wirts-, Habitats- und Klimaansprüche der Organismen sowie des möglichen Wirtskreises;</td></tr>
-<tr><td>284</td><td>Beschreibung der als Wirte getesteten Organismen sowie Methoden zur Untersuchung der Wirtsspezifität;</td></tr>
-<tr><td>285</td><td>Beschreibung der möglichen assoziierten Organismen (natürliche Feinde, Pathogene, Kommensalen) und Methoden, diese zu eliminieren;</td></tr>
-<tr><td>286</td><td>besondere Resistenzen bzw. Empfindlichkeiten (Kälte, Trockenheit, Pflanzenschutzmittel usw.);</td></tr>
-<tr><td>287</td><td>derzeitige geografische Verbreitung;</td></tr>
-<tr><td>288</td><td>Persistenz und Vermehrung unter den schweizerischen Verhältnissen;</td></tr>
-<tr><td>289</td><td>Hinweise auf invasives Verhalten in anderen Gebieten durch die Organismen selbst oder durch nahe verwandte Organismen.</td></tr>
-<tr><td>3</td><td>Durchführung des Freisetzungsversuchs</td></tr>
-<tr><td>31</td><td>Beschreibung des Freisetzungsversuchs einschliesslich der Methoden und der Menge freizusetzender Organismen;</td></tr>
-<tr><td>32</td><td>Zeitplan;</td></tr>
-<tr><td>33</td><td>Eingriffe am Versuchsgelände vor, während und nach dem Freisetzungsversuch;</td></tr>
-<tr><td>34</td><td>Verfahren zur Inaktivierung der Organismen nach Abschluss des Versuchs.</td></tr>
-<tr><td>4</td><td>Ort des Freisetzungsversuchs</td></tr>
-<tr><td>41</td><td>geografische Lage, Grösse des Versuchsgeländes und Beschreibung der näheren Umgebung;</td></tr>
-<tr><td>42</td><td>klimatische, geologische und pedologische Eigenschaften des Versuchsgeländes und der näheren Umgebung;</td></tr>
-<tr><td>43</td><td>Flora und Fauna einschliesslich Nutzpflanzen, Nutztiere und wandernder Arten;</td></tr>
-<tr><td>44</td><td>Beschreibung des Ökosystems.</td></tr>
-<tr><td>5</td><td>Mögliche Einwirkungen</td></tr>
-<tr><td>51</td><td>Einwirkungen auf Mensch und Tier, insbesondere Gefahren für ihre Gesundheit (z.B. allergene oder toxische Einwirkung, Hautreizung, Übertragung von Krankheiten);</td></tr>
-<tr><td>52</td><td>Einwirkungen auf die Umwelt und die biologische Vielfalt:</td></tr>
-<tr><td>521</td><td>Einwirkungen auf Umweltprozesse oder wichtige Funktionen des Bodens;</td></tr>
-<tr><td>522</td><td>Potenzial zur Festsetzung und Ausbreitung am Freisetzungsort;</td></tr>
-<tr><td>523</td><td>erwartete ökologische Rolle am Freisetzungsort, Identifizierung und Beschreibung der Zielorganismen, Folgen der Einwirkungen auf die Zielorganismen;</td></tr>
-<tr><td>524</td><td>einheimische Feinde der Zielorganismen am Freisetzungsort, die von der Einwirkung indirekt betroffen sein könnten;</td></tr>
-<tr><td>525</td><td>mögliche direkte und indirekte Einwirkungen auf Nichtzielorganismen;</td></tr>
-<tr><td>526</td><td>mögliche Konkurrenzierung oder Verdrängung einheimischer Arten;</td></tr>
-<tr><td>527</td><td>Potenzial zur Hybridisierung mit einheimischen Stämmen oder Biotypen;</td></tr>
-<tr><td>528</td><td>Einwirkungen auf Pflanzen;</td></tr>
-<tr><td>529</td><td>andere möglicherweise bedeutsame Einwirkungen.</td></tr>
-<tr><td>6</td><td>Sicherheitsmassnahmen</td></tr>
-<tr><td>61</td><td>Vorsorgemassnahmen:</td></tr>
-<tr><td></td><td>Methoden und Verfahren zur Vermeidung oder Minimierung der Ausbreitung der Organismen ausserhalb des Versuchsgeländes;</td></tr>
-<tr><td>612</td><td>Methoden und Verfahren zum Schutz des Geländes vor dem Betreten durch Unbefugte;</td></tr>
-<tr><td>613</td><td>Methoden und Verfahren zum Schutz gegen das Eindringen anderer Organismen;</td></tr>
-<tr><td>62</td><td>Abfallentsorgung:</td></tr>
-<tr><td>621</td><td>Art und Menge der erzeugten Abfälle;</td></tr>
-<tr><td>622</td><td>mögliche Gefahren;</td></tr>
-<tr><td>623</td><td>Beschreibung des geplanten Entsorgungsverfahrens;</td></tr>
-<tr><td>63</td><td>Notfallpläne:</td></tr>
-<tr><td>631</td><td>Methoden und Verfahren zur Kontrolle der Organismen für den Fall einer unerwarteten Ausbreitung;</td></tr>
-<tr><td>632</td><td>Methoden zur Dekontaminierung der betroffenen Geländeabschnitte;</td></tr>
-<tr><td>633</td><td>Methoden zur Beseitigung oder Behandlung von Pflanzen, Tieren, Böden usw., die von der Ausbreitung der Organismen betroffen sind;</td></tr>
-<tr><td>634</td><td>Pläne zum Schutz von Menschen und Tieren sowie der Umwelt und der biologischen Vielfalt im Fall des Auftretens unerwünschter Einwirkungen.</td></tr>
-</table>
+### 1 Allgemeine Informationen
+
+- 11 Name und Adresse der Gesuchstellerin oder des Gesuchstellers (Unternehmen oder Institut);
+- 12 Name, Qualifikation und Erfahrung der verantwortlichen Wissenschaftlerinnen und Wissenschaftler.
+
+### 2 Bezeichnung und Charakterisierung der Organismen
+
+- 21 Wissenschaftliche Bezeichnung und sonstige Namen;
+- 22 taxonomische Daten, einschliesslich Subspezies, Stamm oder Biotyp;
+- 23 Bestätigung der taxonomischen Daten durch eine anerkannte wissenschaftliche Autorität sowie Name und Adresse der Institution, bei der Referenztiere archiviert werden;
+- 24 phänotypische und genetische Marker sowie Beschreibung der Möglichkeiten zur eindeutigen Identifikation der Organismen in der Umwelt;
+- 25 Methoden zur Aufzucht und Herstellung der Organismen;
+- 26 genaue Quelle und Reinheit der für den Versuch vorgesehenen Stämme und Biotypen, zudem Name und Adresse der Organisation, welche die Tiere züchtet, sowie genaue Angaben zum Ort (Längen- und Breitengrad, Höhe, Habitat, Wirte) und zur Jahreszeit der Feldsammlung;
+- 27 Regionen, in denen die Organismen bereits absichtlich oder unabsichtlich freigesetzt wurden, sowie die dabei gemachten Erfahrungen;
+- 28 Biologie und Ökologie:
+- 281 natürliche Verbreitung der Organismen;
+- 282 Rolle und Bedeutung der Organismen im ursprünglichen Ökosystem;
+- 283 Beschreibung der Biologie, insbesondere der Fortpflanzung, der Generationsdauer, der Wege der biologischen Verbreitung, der Wirts-, Habitats- und Klimaansprüche der Organismen sowie des möglichen Wirtskreises;
+- 284 Beschreibung der als Wirte getesteten Organismen sowie Methoden zur Untersuchung der Wirtsspezifität;
+- 285 Beschreibung der möglichen assoziierten Organismen (natürliche Feinde, Pathogene, Kommensalen) und Methoden, diese zu eliminieren;
+- 286 besondere Resistenzen bzw. Empfindlichkeiten (Kälte, Trockenheit, Pflanzenschutzmittel usw.);
+- 287 derzeitige geografische Verbreitung;
+- 288 Persistenz und Vermehrung unter den schweizerischen Verhältnissen;
+- 289 Hinweise auf invasives Verhalten in anderen Gebieten durch die Organismen selbst oder durch nahe verwandte Organismen.
+
+### 3 Durchführung des Freisetzungsversuchs
+
+- 31 Beschreibung des Freisetzungsversuchs einschliesslich der Methoden und der Menge freizusetzender Organismen;
+- 32 Zeitplan;
+- 33 Eingriffe am Versuchsgelände vor, während und nach dem Freisetzungsversuch;
+- 34 Verfahren zur Inaktivierung der Organismen nach Abschluss des Versuchs.
+
+### 4 Ort des Freisetzungsversuchs
+
+- 41 geografische Lage, Grösse des Versuchsgeländes und Beschreibung der näheren Umgebung;
+- 42 klimatische, geologische und pedologische Eigenschaften des Versuchsgeländes und der näheren Umgebung;
+- 43 Flora und Fauna einschliesslich Nutzpflanzen, Nutztiere und wandernder Arten;
+- 44 Beschreibung des Ökosystems.
+
+### 5 Mögliche Einwirkungen
+
+- 51 Einwirkungen auf Mensch und Tier, insbesondere Gefahren für ihre Gesundheit (z.B. allergene oder toxische Einwirkung, Hautreizung, Übertragung von Krankheiten);
+- 52 Einwirkungen auf die Umwelt und die biologische Vielfalt:
+- 521 Einwirkungen auf Umweltprozesse oder wichtige Funktionen des Bodens;
+- 522 Potenzial zur Festsetzung und Ausbreitung am Freisetzungsort;
+- 523 erwartete ökologische Rolle am Freisetzungsort, Identifizierung und Beschreibung der Zielorganismen, Folgen der Einwirkungen auf die Zielorganismen;
+- 524 einheimische Feinde der Zielorganismen am Freisetzungsort, die von der Einwirkung indirekt betroffen sein könnten;
+- 525 mögliche direkte und indirekte Einwirkungen auf Nichtzielorganismen;
+- 526 mögliche Konkurrenzierung oder Verdrängung einheimischer Arten;
+- 527 Potenzial zur Hybridisierung mit einheimischen Stämmen oder Biotypen;
+- 528 Einwirkungen auf Pflanzen;
+- 529 andere möglicherweise bedeutsame Einwirkungen.
+
+### 6 Sicherheitsmassnahmen
+
+- 61 Vorsorgemassnahmen:
+- 611 Methoden und Verfahren zur Vermeidung oder Minimierung der Ausbreitung der Organismen ausserhalb des Versuchsgeländes;
+- 612 Methoden und Verfahren zum Schutz des Geländes vor dem Betreten durch Unbefugte;
+- 613 Methoden und Verfahren zum Schutz gegen das Eindringen anderer Organismen;
+- 62 Abfallentsorgung:
+- 621 Art und Menge der erzeugten Abfälle;
+- 622 mögliche Gefahren;
+- 623 Beschreibung des geplanten Entsorgungsverfahrens;
+- 63 Notfallpläne:
+- 631 Methoden und Verfahren zur Kontrolle der Organismen für den Fall einer unerwarteten Ausbreitung;
+- 632 Methoden zur Dekontaminierung der betroffenen Geländeabschnitte;
+- 633 Methoden zur Beseitigung oder Behandlung von Pflanzen, Tieren, Böden usw., die von der Ausbreitung der Organismen betroffen sind;
+- 634 Pläne zum Schutz von Menschen und Tieren sowie der Umwelt und der biologischen Vielfalt im Fall des Auftretens unerwünschter Einwirkungen.
 
 Anhang 3.4
 
@@ -1513,54 +1635,59 @@ Anhang 3.4
 
 ## Bewilligungsgesuche für das Inverkehrbringen gebietsfremder wirbelloser Kleintiere (Arthropoden, Anneliden, Nematoden, Plathelminthen)
 
-<table>
-<tr><td>1</td><td>Allgemeine Informationen</td></tr>
-<tr><td>11</td><td>Name und Adresse der Gesuchstellerin oder des Gesuchstellers (Unternehmen oder Institut);</td></tr>
-<tr><td>12</td><td>Beschreibung der Art und des Umfangs der vorgesehenen Verwendungen;</td></tr>
-<tr><td>13</td><td>Beschreibung der geografischen Gebiete und Umweltbereiche, in denen die Organismen verwendet werden sollen.</td></tr>
-<tr><td>2</td><td>Bezeichnung und Charakterisierung der Organismen</td></tr>
-<tr><td>21</td><td>Wissenschaftliche Bezeichnung und sonstige Namen;</td></tr>
-<tr><td>22</td><td>taxonomische Daten, einschliesslich Subspezies, Stamm oder Biotyp;</td></tr>
-<tr><td>23</td><td>Bestätigung der taxonomischen Daten durch eine anerkannte wissenschaftliche Autorität sowie Name und Adresse der Institution, bei der Referenztiere archiviert werden;</td></tr>
-<tr><td>24</td><td>phänotypische und genetische Marker sowie Beschreibung der Möglichkeiten zur eindeutigen Identifikation der Organismen in der Umwelt;</td></tr>
-<tr><td>25</td><td>Methoden zur Aufzucht und Herstellung der Organismen;</td></tr>
-<tr><td>26</td><td>genaue Quelle und Reinheit der für das Inverkehrbringen vorgesehenen Stämme und Biotypen, zudem Name und Adresse der Organisation, welche die Tiere züchtet, sowie genaue Angaben zum Ort (Längen- und Breitengrad, Höhe, Habitat, Wirte) und zur Jahreszeit der Feldsammlung;</td></tr>
-<tr><td>27</td><td>Regionen, in denen die Organismen bereits absichtlich oder unabsichtlich freigesetzt wurden, bzw. Länder, in denen sie bereits in Verkehr gebracht werden, sowie die dabei gemachten Erfahrungen;</td></tr>
-<tr><td>28</td><td>Biologie und Ökologie:</td></tr>
-<tr><td>281</td><td>natürliche Verbreitung der Organismen;</td></tr>
-<tr><td>282</td><td>Rolle und Bedeutung der Organismen im ursprünglichen Ökosystem;</td></tr>
-<tr><td>283</td><td>Beschreibung der Biologie, insbesondere der Fortpflanzung, der Generationsdauer, der Wege der biologischen Verbreitung, der Wirts-, Habitats- und Klimaansprüche sowie des möglichen Wirtskreises;</td></tr>
-<tr><td>284</td><td>Beschreibung der als Wirte getesteten Organismen sowie Methoden zur Untersuchung der Wirtsspezifität;</td></tr>
-<tr><td>285</td><td>Beschreibung der möglichen assoziierten Organismen (natürliche Feinde, Pathogene, Kommensalen) und Methoden, diese zu eliminieren;</td></tr>
-<tr><td>286</td><td>besondere Resistenzen bzw. Empfindlichkeiten (Kälte, Trockenheit, Pflanzenschutzmittel usw.);</td></tr>
-<tr><td>287</td><td>derzeitige geografische Verbreitung;</td></tr>
-<tr><td>288</td><td>Persistenz und Vermehrung unter den schweizerischen Verhältnissen;</td></tr>
-<tr><td>289</td><td>Hinweise auf invasives Verhalten in anderen Gebieten durch die Organismen selbst oder durch nahe verwandte Organismen.</td></tr>
-<tr><td>3</td><td>Mögliche Einwirkungen</td></tr>
-<tr><td>31</td><td>Einwirkungen auf Mensch und Tier, insbesondere Gefahren für ihre Gesundheit (z.B. allergene oder toxische Einwirkung, Hautreizung, Übertragung von Krankheiten);</td></tr>
-<tr><td>32</td><td>Einwirkungen auf die Umwelt und die biologische Vielfalt:</td></tr>
-<tr><td>321</td><td>Einwirkungen auf Umweltprozesse oder wichtige Funktionen des Bodens;</td></tr>
-<tr><td>322</td><td>Potenzial zur Festsetzung und Ausbreitung über den Verwendungsort hinaus;</td></tr>
-<tr><td>323</td><td>erwartete ökologische Rolle am Verwendungsort, Identifizierung und Beschreibung der Zielorganismen, Folgen der Einwirkungen auf die Zielorganismen;</td></tr>
-<tr><td>324</td><td>einheimische Feinde der Zielorganismen am Verwendungsort, die von der Einwirkung indirekt betroffen sein könnten;</td></tr>
-<tr><td>325</td><td>mögliche direkte und indirekte Einwirkungen auf Nichtzielorganismen;</td></tr>
-<tr><td>326</td><td>mögliche Konkurrenzierung oder Verdrängung einheimischer Arten;</td></tr>
-<tr><td>327</td><td>Potenzial zur Hybridisierung mit einheimischen Stämmen oder Biotypen;</td></tr>
-<tr><td>328</td><td>Einwirkungen auf Pflanzen;</td></tr>
-<tr><td>329</td><td>andere möglicherweise bedeutsame Einwirkungen.</td></tr>
-<tr><td>4</td><td>Sicherheitsmassnahmen</td></tr>
-<tr><td>41</td><td>Vorsorgemassnahmen:</td></tr>
-<tr><td></td><td>Methoden und Verfahren zur Vermeidung oder Minimierung der Ausbreitung der Organismen ausserhalb des Verwendungsbereichs;</td></tr>
-<tr><td>42</td><td>Abfallentsorgung:</td></tr>
-<tr><td>421</td><td>Art und Menge der beim direkten Umgang in der Umwelt erzeugten Abfälle;</td></tr>
-<tr><td>422</td><td>mögliche Gefahren;</td></tr>
-<tr><td>423</td><td>bestimmungsgemässe Entsorgung durch die Verwenderin oder den Verwender;</td></tr>
-<tr><td>43</td><td>Notfallpläne:</td></tr>
-<tr><td>431</td><td>Methoden und Verfahren zur Kontrolle der Organismen für den Fall einer unerwarteten Ausbreitung;</td></tr>
-<tr><td>432</td><td>Methoden zur Dekontaminierung betroffener Lebensräume;</td></tr>
-<tr><td>433</td><td>Methoden zur Beseitigung oder Behandlung von Pflanzen, Tieren, Böden usw., die von der unerwünschten Ausbreitung der Organismen betroffen sind;</td></tr>
-<tr><td>434</td><td>Pläne zum Schutz von Menschen und Tieren sowie der Umwelt und der biologischen Vielfalt im Fall des Auftretens unerwünschter Einwirkungen.</td></tr>
-</table>
+### 1 Allgemeine Informationen
+
+- 11 Name und Adresse der Gesuchstellerin oder des Gesuchstellers (Unternehmen oder Institut);
+- 12 Beschreibung der Art und des Umfangs der vorgesehenen Verwendungen;
+- 13 Beschreibung der geografischen Gebiete und Umweltbereiche, in denen die Organismen verwendet werden sollen.
+
+### 2 Bezeichnung und Charakterisierung der Organismen
+
+- 21 Wissenschaftliche Bezeichnung und sonstige Namen;
+- 22 taxonomische Daten, einschliesslich Subspezies, Stamm oder Biotyp;
+- 23 Bestätigung der taxonomischen Daten durch eine anerkannte wissenschaftliche Autorität sowie Name und Adresse der Institution, bei der Referenztiere archiviert werden;
+- 24 phänotypische und genetische Marker sowie Beschreibung der Möglichkeiten zur eindeutigen Identifikation der Organismen in der Umwelt;
+- 25 Methoden zur Aufzucht und Herstellung der Organismen;
+- 26 genaue Quelle und Reinheit der für das Inverkehrbringen vorgesehenen Stämme und Biotypen, zudem Name und Adresse der Organisation, welche die Tiere züchtet, sowie genaue Angaben zum Ort (Längen- und Breitengrad, Höhe, Habitat, Wirte) und zur Jahreszeit der Feldsammlung;
+- 27 Regionen, in denen die Organismen bereits absichtlich oder unabsichtlich freigesetzt wurden, bzw. Länder, in denen sie bereits in Verkehr gebracht werden, sowie die dabei gemachten Erfahrungen;
+- 28 Biologie und Ökologie:
+- 281 natürliche Verbreitung der Organismen;
+- 282 Rolle und Bedeutung der Organismen im ursprünglichen Ökosystem;
+- 283 Beschreibung der Biologie, insbesondere der Fortpflanzung, der Generationsdauer, der Wege der biologischen Verbreitung, der Wirts-, Habitats- und Klimaansprüche sowie des möglichen Wirtskreises;
+- 284 Beschreibung der als Wirte getesteten Organismen sowie Methoden zur Untersuchung der Wirtsspezifität;
+- 285 Beschreibung der möglichen assoziierten Organismen (natürliche Feinde, Pathogene, Kommensalen) und Methoden, diese zu eliminieren;
+- 286 besondere Resistenzen bzw. Empfindlichkeiten (Kälte, Trockenheit, Pflanzenschutzmittel usw.);
+- 287 derzeitige geografische Verbreitung;
+- 288 Persistenz und Vermehrung unter den schweizerischen Verhältnissen;
+- 289 Hinweise auf invasives Verhalten in anderen Gebieten durch die Organismen selbst oder durch nahe verwandte Organismen.
+
+### 3 Mögliche Einwirkungen
+
+- 31 Einwirkungen auf Mensch und Tier, insbesondere Gefahren für ihre Gesundheit (z.B. allergene oder toxische Einwirkung, Hautreizung, Übertragung von Krankheiten);
+- 32 Einwirkungen auf die Umwelt und die biologische Vielfalt:
+- 321 Einwirkungen auf Umweltprozesse oder wichtige Funktionen des Bodens;
+- 322 Potenzial zur Festsetzung und Ausbreitung über den Verwendungsort hinaus;
+- 323 erwartete ökologische Rolle am Verwendungsort, Identifizierung und Beschreibung der Zielorganismen, Folgen der Einwirkungen auf die Zielorganismen;
+- 324 einheimische Feinde der Zielorganismen am Verwendungsort, die von der Einwirkung indirekt betroffen sein könnten;
+- 325 mögliche direkte und indirekte Einwirkungen auf Nichtzielorganismen;
+- 326 mögliche Konkurrenzierung oder Verdrängung einheimischer Arten;
+- 327 Potenzial zur Hybridisierung mit einheimischen Stämmen oder Biotypen;
+- 328 Einwirkungen auf Pflanzen;
+- 329 andere möglicherweise bedeutsame Einwirkungen.
+
+### 4 Sicherheitsmassnahmen
+
+- 41 Vorsorgemassnahmen:
+- Methoden und Verfahren zur Vermeidung oder Minimierung der Ausbreitung der Organismen ausserhalb des Verwendungsbereichs;
+- 42 Abfallentsorgung:
+- 421 Art und Menge der beim direkten Umgang in der Umwelt erzeugten Abfälle;
+- 422 mögliche Gefahren;
+- 423 bestimmungsgemässe Entsorgung durch die Verwenderin oder den Verwender;
+- 43 Notfallpläne:
+- 431 Methoden und Verfahren zur Kontrolle der Organismen für den Fall einer unerwarteten Ausbreitung;
+- 432 Methoden zur Dekontaminierung betroffener Lebensräume;
+- 433 Methoden zur Beseitigung oder Behandlung von Pflanzen, Tieren, Böden usw., die von der unerwünschten Ausbreitung der Organismen betroffen sind;
+- 434 Pläne zum Schutz von Menschen und Tieren sowie der Umwelt und der biologischen Vielfalt im Fall des Auftretens unerwünschter Einwirkungen.
 
 Anhang 4
 
@@ -1572,9 +1699,8 @@ Anhang 4
 
 <sup>1</sup> Das Ziel der Risikoermittlung besteht darin, für den konkreten Fall eines Umgangs mit Organismen in der Umwelt Folgen zu ermitteln und abzuschätzen für:
 
-Mensch, Tier und Umwelt sowie die biologische Vielfalt und deren nachhaltige Nutzung;
-
-im Fall von gentechnisch veränderten Organismen die langfristige Erhaltung der Produktion von Erzeugnissen ohne gentechnisch veränderte Organismen.
+- a. Mensch, Tier und Umwelt sowie die biologische Vielfalt und deren nachhaltige Nutzung;
+- b. im Fall von gentechnisch veränderten Organismen die langfristige Erhaltung der Produktion von Erzeugnissen ohne gentechnisch veränderte Organismen.
 
 <sup>2</sup> In der Risikobewertung ist die Tragbarkeit des Risikos zu bewerten.
 
@@ -1582,7 +1708,7 @@ im Fall von gentechnisch veränderten Organismen die langfristige Erhaltung der 
 
 ### 2 Gefahrenidentifikation und Risikoermittlung
 
-2.1 Gefahrenidentifikation
+### 2.1 Gefahrenidentifikation
 
 <sup>1</sup> Das Potenzial von Organismen, beim Umgang in der Umwelt die beiden Schutzziele nach Ziffer 1 Absatz 1 zu beeinträchtigen, ist zu ermitteln. Dabei sind insbesondere zu berücksichtigen:
 
@@ -1594,7 +1720,7 @@ im Fall von gentechnisch veränderten Organismen die langfristige Erhaltung der 
 
 <sup>2</sup> Grundlage für diese Ermittlung sind die Angaben nach den Artikeln 19, 20 oder 21 bzw. 28, 29 oder 30.
 
-2.2 Risikoermittlung
+### 2.2 Risikoermittlung
 
 <sup>1</sup> Das Risiko wird bestimmt durch das Ausmass der möglichen Schädigungen der unter Ziffer 1 Absatz 1 genannten Schutzziele und der Wahrscheinlichkeit, mit der die Schädigungen eintreten.
 
@@ -1606,24 +1732,27 @@ im Fall von gentechnisch veränderten Organismen die langfristige Erhaltung der 
 - d. *Beeinträchtigung anderer Organismen (Nichtzielorganismen):* die Art der direkten Einwirkungen (z. B. durch toxische Genprodukte) oder der indirekten Einwirkungen (z. B. durch eine Änderung der Bodenbewirtschaftung) sowie die Dauer (akut, chronisch) und die Schwere der Einwirkungen sind anzugeben;
 - e. *Gefährdung von Stoffkreisläufen*: die Art der Veränderung von Schad- und Nährstoffen im Boden oder im Wasser sowie der Grad der Veränderung sind anzugeben und im Hinblick auf die Störung wichtiger Funktionen des Ökosystems (Stickstofffixierung, Bodenatmung usw.) zu beurteilen;
 - f. *Resistenzentwicklung*: die Art der Resistenzentwicklung, die Konsequenzen für Bekämpfungsstrategien und die ökologischen Auswirkungen der alternativen Bekämpfungsstrategien sind anzugeben.
-- [tab] <sup>3</sup> Im Fall von gentechnisch veränderten Organismen sind zum Schutz der Produktion von Erzeugnissen ohne gentechnisch veränderte Organismen mindestens folgende Schadensszenarien zu prüfen:
+
+<sup>3</sup> Im Fall von gentechnisch veränderten Organismen sind zum Schutz der Produktion von Erzeugnissen ohne gentechnisch veränderte Organismen mindestens folgende Schadensszenarien zu prüfen:
+
 - a. *Verunreinigung von Produktionsflächen durch vertikalen Gentransfer:* der Gentransfer durch sexuelle Rekombination (z. B. Mechanismen der Auskreuzung, Pollenflugdistanzen, mögliche Kreuzungspartner innerhalb der kultivierten oder genutzten Arten, Fertilität der Nachkommen und ihre Selektionsvorteile) sind anzugeben;
 - b. *Verunreinigungen von Erzeugnissen ohne gentechnisch veränderte Organismen durch den Einsatz von Geräten:* der Einsatz von Geräten zum Ausbringen bzw. zum Bearbeiten der Organismen (z. B. Saat- oder Erntemaschinen), die gewöhnliche Anwendungspraxis (z. B. eigene bzw. von Genossenschaften geliehene Maschinen) sowie Reinigungsverfahren sind anzugeben;
 - c. *Verunreinigung von Erzeugnissen ohne gentechnisch veränderte Organismen durch unbeabsichtigte Verluste:* mögliche Wege des Entweichens (z. B. Durchwuchs, Abdrift bei Pflanzenschutzmitteln, Transportverluste) sowie die Etablierung und Ausbreitung der Organismen (z. B. Voraussetzungen für eine Etablierung in der Umwelt, Entwicklung der Populationsdichte) sind anzugeben;
 - d. *Verunreinigung von Erzeugnissen ohne gentechnisch veränderte Organismen bei der Verarbeitung:* die üblichen Verarbeitungswege, -schritte und ‑orte, an denen Vermischungen und Verwechslungen stattfinden können, sind anzugeben.
-- [tab] <sup>4</sup> Für alle Schadensszenarien ist die Wahrscheinlichkeit, dass bei einem Umgang in der Umwelt Schäden auftreten, zu ermitteln.
+
+<sup>4</sup> Für alle Schadensszenarien ist die Wahrscheinlichkeit, dass bei einem Umgang in der Umwelt Schäden auftreten, zu ermitteln.
 
 <sup>5</sup> Die Angaben sind so weit als möglich zu quantifizieren.
 
 ### 3 Risikobewertung und Risikomanagement
 
-3.1 Beurteilung der Sicherheitsmassnahmen
+### 3.1 Beurteilung der Sicherheitsmassnahmen
 
 <sup>1</sup> Aufgrund der Risikoermittlung sind die möglichen Sicherheitsmassnahmen zu ermitteln; dabei ist ihre Wirksamkeit im Hinblick auf eine Reduktion des Risikos zu beurteilen.
 
 <sup>2</sup> Stehen mehrere gleichwertige Sicherheitsmassnahmen zur Verfügung, so ist die Wahl der vorgeschlagenen Sicherheitsmassnahmen zu begründen.
 
-3.2 Bewertung des Risikos
+### 3.2 Bewertung des Risikos
 
 <sup>1</sup> Das Risiko des geplanten Umgangs in der Umwelt ist aufgrund von Art, Schwere und Wahrscheinlichkeit möglicher Schäden und unter Berücksichtigung der geplanten Sicherheitsmassnahmen auf seine Tragbarkeit zu prüfen.
 

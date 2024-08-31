@@ -4,11 +4,11 @@ title: "Ordinanza del 10 settembre 2008 sull'utilizzazione di organismi nell'amb
 short: OEDA
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/614"
 language: it
-version: 2023-01-01
+version: 2024-09-01
 adopted: 2008-09-10
 in_force: 2008-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/614/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2008-614-20230101-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/614/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/614/20240901/it/xml/fedlex-data-admin-ch-eli-cc-2008-614-20240901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/614/20240901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/614/20230101/it"
 
 (Ordinanza sull’emissione deliberata nell’ambiente, OEDA)
 
-del 10 settembre 2008 (Stato 1° gennaio 2023)
+del 10 settembre 2008 (Stato 1° settembre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -27,7 +27,7 @@ ordina:
 
 [^ingress-1]: [RS 814.01](https://fedlex.data.admin.ch/eli/cc/1984/1122_1122_1122)
 [^ingress-2]: [RS 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
-[^ingress-3]: [[RU 1974 1071](https://fedlex.data.admin.ch/eli/oc/1974/1071_1071_1071), [1985 1992](https://fedlex.data.admin.ch/eli/oc/1985/1992_1992_1992)n. I 2, [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)n. II 405, [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)all. n. 5, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. III 2, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)all. n. 6, [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)all. n. 7, [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)all. n. II 3, [2005 2293](https://fedlex.data.admin.ch/eli/oc/2005/388), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 95 [4137](https://fedlex.data.admin.ch/eli/oc/2006/608), [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)n. II 34, [2012 7281](https://fedlex.data.admin.ch/eli/oc/2012/890). [RU 2015 1435](https://fedlex.data.admin.ch/eli/oc/2015/297)art. 85 n.1]. Vedi ora la L del 28 set. 2012 ([RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)).
+[^ingress-3]: [[RU 1974 1071](https://fedlex.data.admin.ch/eli/oc/1974/1071_1071_1071); [1985 1992](https://fedlex.data.admin.ch/eli/oc/1985/1992_1992_1992)n. I 2; [1991 362](https://fedlex.data.admin.ch/eli/oc/1991/362_362_362)n. II 405; [1997 1155](https://fedlex.data.admin.ch/eli/oc/1997/1155_1155_1155)all. n. 5; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)n. III 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)all. n. 6; [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)all. n. 7; [2004 4763](https://fedlex.data.admin.ch/eli/oc/2004/724)all. n. II 3; [2005 2293](https://fedlex.data.admin.ch/eli/oc/2005/388); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 95, [4137](https://fedlex.data.admin.ch/eli/oc/2006/608); [2008 3437](https://fedlex.data.admin.ch/eli/oc/2008/447)n. II 34; [2012 7281](https://fedlex.data.admin.ch/eli/oc/2012/890). [RU 2015 1435](https://fedlex.data.admin.ch/eli/oc/2015/297)art. 85 n.1]. Vedi ora la L del 28 set. 2012 ([RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)).
 [^ingress-4]: [RS 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
 
 ## Capitolo 1: Disposizioni generali
@@ -70,7 +70,7 @@ La presente ordinanza non si applica all’utilizzazione di organismi:
 [^2-1]: [RS 814.912](https://fedlex.data.admin.ch/eli/cc/2012/329)
 [^2-2]: Nuovo testo giusta l’all. 5 n. 10 dell’O del 9 mag. 2012 sull’impiego confinato, in vigore dal 1° giu. 2012 ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
 [^2-3]: [RS 832.321](https://fedlex.data.admin.ch/eli/cc/1999/445)
-[^2-4]: [[[RU 2005 3035](http://intranet.admin.ch/ch/i/as/2005/3035.pdf)](https://fedlex.data.admin.ch/eli/oc/2005/481)[4097](https://fedlex.data.admin.ch/eli/oc/2005/541)[5211](https://fedlex.data.admin.ch/eli/oc/2005/719), [2006 4851](https://fedlex.data.admin.ch/eli/oc/2006/750), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152)n. III [1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 54 [1843](https://fedlex.data.admin.ch/eli/oc/2007/268)[4541](https://fedlex.data.admin.ch/eli/oc/2007/641)[6291](https://fedlex.data.admin.ch/eli/oc/2007/834), [2008 2155](https://fedlex.data.admin.ch/eli/oc/2008/310)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 11 [5271](https://fedlex.data.admin.ch/eli/oc/2008/742), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)all. n. 3 [2845](https://fedlex.data.admin.ch/eli/oc/2009/373), [2010 2101](https://fedlex.data.admin.ch/eli/oc/2010/278). [RU 2010 2331](https://fedlex.data.admin.ch/eli/oc/2010/340)art. 84]. Vedi ora l’O del 12 mag. 2010 ([RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)).
+[^2-4]: [[[RU 2005 3035](http://intranet.admin.ch/ch/i/as/2005/3035.pdf)](https://fedlex.data.admin.ch/eli/oc/2005/481), [4097](https://fedlex.data.admin.ch/eli/oc/2005/541), [5211](https://fedlex.data.admin.ch/eli/oc/2005/719); [2006 4851](https://fedlex.data.admin.ch/eli/oc/2006/750); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152)n. III, [1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 54, [1843](https://fedlex.data.admin.ch/eli/oc/2007/268), [4541](https://fedlex.data.admin.ch/eli/oc/2007/641), [6291](https://fedlex.data.admin.ch/eli/oc/2007/834); [2008 2155](https://fedlex.data.admin.ch/eli/oc/2008/310), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 11, [5271](https://fedlex.data.admin.ch/eli/oc/2008/742); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)all. n. 3, [2845](https://fedlex.data.admin.ch/eli/oc/2009/373); [2010 2101](https://fedlex.data.admin.ch/eli/oc/2010/278). [RU 2010 2331](https://fedlex.data.admin.ch/eli/oc/2010/340)art. 84]. Vedi ora l’O del 12 mag. 2010 ([RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)).
 [^2-5]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
 [^2-6]: Nuovo testo giusta l’all. 8 n. 3 dell’O del 31 ott. 2018 sulla salute dei vegetali, in vigore dal 1° gen. 2020 ([RU 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
 [^2-7]: [RS 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
@@ -395,15 +395,18 @@ L’utilizzazione nell’ambiente di organismi alloctoni deve avvenire in modo t
 - e. non pregiudicare in maniera grave o duratura l’equilibrio delle sostanze nell’ambiente;
 - f. non pregiudicare in maniera grave o duratura funzioni importanti dell’ecosistema interessato, in particolare la fertilità del suolo.
 
-<sup>2</sup> Gli organismi alloctoni invasivi secondo l’allegato 2 non possono essere utilizzati direttamente nell’ambiente; fanno eccezione le misure intese a combattere tali organismi. Nel singolo caso, l’UFAM può concedere una deroga per l’utilizzazione diretta se il richiedente prova che ha adottato tutte le misure necessarie per adempiere quanto disposto dal capoverso 1.[^15-1]
+<sup>2</sup> Gli organismi alloctoni invasivi secondo l’allegato 2.1 non possono essere utilizzati direttamente nell’ambiente; fanno eccezione le misure intese a combattere tali organismi. Nel singolo caso, l’UFAM può concedere una deroga per l’utilizzazione diretta se il richiedente prova che ha adottato tutte le misure necessarie per adempiere quanto disposto dal capoverso 1.[^15-1]
 
-<sup>3</sup> Se è inquinato da organismi alloctoni invasivi di cui all’allegato 2, il suolo asportato deve essere riciclato o smaltito nel luogo in cui viene prelevato in modo tale da escludere l’ulteriore diffusione di tali organismi.[^15-2]
+<sup>2bis</sup> Gli organismi alloctoni invasivi secondo l’allegato 2.2 non possono essere messi in commercio ai fini dell’utilizzazione diretta nell’ambiente.[^15-2]
 
-<sup>4</sup> Sono fatte salve le disposizioni della legislazione sulle foreste, sulla caccia e sulla pesca.[^15-3]
+<sup>3</sup> Se è inquinato da organismi alloctoni invasivi di cui all’allegato 2.1, il suolo asportato deve essere riciclato o smaltito nel luogo in cui viene prelevato in modo tale da escludere l’ulteriore diffusione di tali organismi.[^15-3]
 
-[^15-1]: Nuovo testo giusta l’all. 8 n. 3 dell’O del 31 ott. 2018 sulla salute dei vegetali, in vigore dal 1° gen. 2020 ([RU 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
-[^15-2]: Nuovo testo giusta l’all. 6 n. 12 dell’O del 4 dic. 2015 sui rifiuti, in vigore dal 1° gen. 2016 ([RU 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)).
-[^15-3]: Nuovo testo giusta l’all. 5 n. 10 dell’O del 9 mag. 2012 sull’impiego confinato, in vigore dal 1° giu. 2012 ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
+<sup>4</sup> Sono fatte salve le disposizioni della legislazione sulle foreste, sulla caccia e sulla pesca.[^15-4]
+
+[^15-1]: Nuovo testo giusta il n. I dell’O del 1° mar. 2024, in vigore dal 1° set. 2024 ([RU 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
+[^15-2]: Introdotto dal n. I dell’O del 1° mar. 2024, in vigore dal 1° set. 2024 ([RU 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
+[^15-3]: Nuovo testo giusta il n. I dell’O del 1° mar. 2024, in vigore dal 1° set. 2024 ([RU 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
+[^15-4]: Nuovo testo giusta l’all. 5 n. 10 dell’O del 9 mag. 2012 sull’impiego confinato, in vigore dal 1° giu. 2012 ([RU 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
 
 #### Art. 16
 
@@ -657,13 +660,13 @@ A seconda del prodotto, l’autorizzazione di cui all’articolo 25 è rilasciat
 
 [^26-1]: [RS 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588). Il rimando è stato adeguato in applicazione dell'art. 12 cpv. 2 della L del 18 giu. 2004 sul-le pubblicazioni ufficiali ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) con effetto dal 1° gen. 2019. Di detto adeguamento è tenuto conto in tutto il presente testo.
 [^26-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2014. Di detta mod. è tenuto conto in tutto il presente testo.
-[^26-3]: [[RU 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746), [2006 4909](https://fedlex.data.admin.ch/eli/oc/2006/765), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 47, [2008 789](https://fedlex.data.admin.ch/eli/oc/2008/195)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 8 [5167](https://fedlex.data.admin.ch/eli/oc/2008/722)[6025](https://fedlex.data.admin.ch/eli/oc/2008/833), [2009 1611](https://fedlex.data.admin.ch/eli/oc/2009/233), [2010 4611](https://fedlex.data.admin.ch/eli/oc/2010/668), [2011 5273](https://fedlex.data.admin.ch/eli/oc/2011/761)art. 37 [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)all. 2 n. II 3, [2012 4713](https://fedlex.data.admin.ch/eli/oc/2012/572)[6809](https://fedlex.data.admin.ch/eli/oc/2012/824), [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 7 [3669](https://fedlex.data.admin.ch/eli/oc/2013/684), [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)all. 3 n. II 4 [2073](https://fedlex.data.admin.ch/eli/oc/2014/357)all. 11 n. 3, [2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)all. n. II 2, [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)all. n. 5. [RU 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)art. 94 ]. Vedi ora l’O del 16 dic. 2016 ([RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)).
+[^26-3]: [[RU 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746); [2006 4909](https://fedlex.data.admin.ch/eli/oc/2006/765); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 47; [2008 789](https://fedlex.data.admin.ch/eli/oc/2008/195), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 8, [5167](https://fedlex.data.admin.ch/eli/oc/2008/722), [6025](https://fedlex.data.admin.ch/eli/oc/2008/833); [2009 1611](https://fedlex.data.admin.ch/eli/oc/2009/233); [2010 4611](https://fedlex.data.admin.ch/eli/oc/2010/668); [2011 5273](https://fedlex.data.admin.ch/eli/oc/2011/761)art. 37, [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)all. 2 n. II 3; [2012 4713](https://fedlex.data.admin.ch/eli/oc/2012/572), [6809](https://fedlex.data.admin.ch/eli/oc/2012/824); [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 7, [3669](https://fedlex.data.admin.ch/eli/oc/2013/684); [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)all. 3 n. II 4, [2073](https://fedlex.data.admin.ch/eli/oc/2014/357)all. 11 n. 3; [2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)all. n. II 2; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)all. n. 5. [RU 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)art. 94 ]. Vedi ora l’O del 16 dic. 2016 ([RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)).
 [^26-4]: Nuovo testo giusta l’all. 8 n. 3 dell’O del 31 ott. 2018 sulla salute dei vegetali, in vigore dal 1° gen. 2020 ([RU 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
 [^26-5]: [RS 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
 [^26-6]: Nuovo testo giusta l’all. n. 2 dell’O del 17 nov. 2021, in vigore dal 1° gen. 2022 ([RU 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 [^26-7]: [RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
-[^26-8]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
-[^26-9]: [[[RU 1999 1780](http://intranet.admin.ch/ch/i/as/1999/1780.pdf)](https://fedlex.data.admin.ch/eli/oc/1999/287)[2748](https://fedlex.data.admin.ch/eli/oc/1999/442)all. 5 n. 6, [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)II 14, [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653), [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729), [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107)[2695](https://fedlex.data.admin.ch/eli/oc/2005/464)II [19](https://fedlex.data.admin.ch/eli/oc/2005/7)[5555](https://fedlex.data.admin.ch/eli/oc/2005/755), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)IV 70, [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 14, [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344), [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [RU 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)art. 77]. Vedi ora l’O del 26 ott. 2011 ([RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)).
+[^26-8]: [[RU 2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105); [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)all. n. 3, [4793](https://fedlex.data.admin.ch/eli/oc/2003/703)n. I 7, [4923](https://fedlex.data.admin.ch/eli/oc/2003/727); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)n. II 18; [2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835); [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 12; [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)all. n. 3; [2011 2403](https://fedlex.data.admin.ch/eli/oc/2011/348), [2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 n. II 3; [2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724); [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)all. 6 n. 7; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)all. n. 8; [2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681); [2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)all. n. 4; [2021 686](https://fedlex.data.admin.ch/eli/oc/2021/686); [2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)all. n. 2. [RU 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)all. 5 n. I]. Vedi ora l’O del 1° nov. 2023 ([RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)).
+[^26-9]: [[[RU 1999 1780](http://intranet.admin.ch/ch/i/as/1999/1780.pdf)](https://fedlex.data.admin.ch/eli/oc/1999/287), [2748](https://fedlex.data.admin.ch/eli/oc/1999/442)all. 5 n. 6; [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)II 14; [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653); [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729); [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107), [2695](https://fedlex.data.admin.ch/eli/oc/2005/464)II [19](https://fedlex.data.admin.ch/eli/oc/2005/7), [5555](https://fedlex.data.admin.ch/eli/oc/2005/755); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)IV 70; [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 14; [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344); [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [RU 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)art. 77]. Vedi ora l’O del 26 ott. 2011 ([RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)).
 [^26-10]: Abrogata dall’all. n. 3 dell’O del 23 nov. 2022, con effetto dal 1° gen. 2023 ([RU 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
 [^26-11]: Abrogata dall’all. 8 n. 3 dell’O del 31 ott. 2018 sulla salute dei vegetali, con effetto dal 1° gen. 2020 ([RU 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
 [^26-12]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
@@ -679,8 +682,8 @@ Non necessita di un’autorizzazione la messa in commercio di:
 - c. derrate alimentari, sempre che siano soddisfatte le condizioni di cui all’articolo 23 dell’ordinanza del 23 novembre 2005[^27-3] sulle derrate alimentari e gli oggetti d’uso.
 
 [^27-1]: [RS 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
-[^27-2]: [[[RU 1999 1780](http://intranet.admin.ch/ch/i/as/1999/1780.pdf)](https://fedlex.data.admin.ch/eli/oc/1999/287)[2748](https://fedlex.data.admin.ch/eli/oc/1999/442)all. 5 n. 6, [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)II 14, [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653), [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729), [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107)[2695](https://fedlex.data.admin.ch/eli/oc/2005/464)II [19](https://fedlex.data.admin.ch/eli/oc/2005/7)[5555](https://fedlex.data.admin.ch/eli/oc/2005/755), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)IV 70, [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 14, [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344), [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [RU 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)art. 77]. Vedi ora l’O del 26 ott. 2011 ([RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)).
-[^27-3]: [[RU 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746), [2006 4909](https://fedlex.data.admin.ch/eli/oc/2006/765), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 47, [2008 789](https://fedlex.data.admin.ch/eli/oc/2008/195)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 8 [5167](https://fedlex.data.admin.ch/eli/oc/2008/722)[6025](https://fedlex.data.admin.ch/eli/oc/2008/833), [2009 1611](https://fedlex.data.admin.ch/eli/oc/2009/233), [2010 4611](https://fedlex.data.admin.ch/eli/oc/2010/668), [2011 5273](https://fedlex.data.admin.ch/eli/oc/2011/761)art. 37 [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)all. 2 n. II 3, [2012 4713](https://fedlex.data.admin.ch/eli/oc/2012/572)[6809](https://fedlex.data.admin.ch/eli/oc/2012/824), [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 7 [3669](https://fedlex.data.admin.ch/eli/oc/2013/684), [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)all. 3 n. II 4 [2073](https://fedlex.data.admin.ch/eli/oc/2014/357)all. 11 n. 3, [2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)all. n. II 2, [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)all. n. 5. [RU 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)art. 94 ]. Vedi ora l’O del 16 dic. 2016 ([RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)).
+[^27-2]: [[[RU 1999 1780](http://intranet.admin.ch/ch/i/as/1999/1780.pdf)](https://fedlex.data.admin.ch/eli/oc/1999/287), [2748](https://fedlex.data.admin.ch/eli/oc/1999/442)all. 5 n. 6; [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)II 14; [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653); [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729); [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107), [2695](https://fedlex.data.admin.ch/eli/oc/2005/464)II [19](https://fedlex.data.admin.ch/eli/oc/2005/7), [5555](https://fedlex.data.admin.ch/eli/oc/2005/755); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)IV 70; [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 14; [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344); [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [RU 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)art. 77]. Vedi ora l’O del 26 ott. 2011 ([RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)).
+[^27-3]: [[RU 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746); [2006 4909](https://fedlex.data.admin.ch/eli/oc/2006/765); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 47; [2008 789](https://fedlex.data.admin.ch/eli/oc/2008/195), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 8, [5167](https://fedlex.data.admin.ch/eli/oc/2008/722)[6025](https://fedlex.data.admin.ch/eli/oc/2008/833); [2009 1611](https://fedlex.data.admin.ch/eli/oc/2009/233); [2010 4611](https://fedlex.data.admin.ch/eli/oc/2010/668); [2011 5273](https://fedlex.data.admin.ch/eli/oc/2011/761)art. 37, [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)all. 2 n. II 3; [2012 4713](https://fedlex.data.admin.ch/eli/oc/2012/572), [6809](https://fedlex.data.admin.ch/eli/oc/2012/824); [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)n. I 7, [3669](https://fedlex.data.admin.ch/eli/oc/2013/684); [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)all. 3 n. II 4, [2073](https://fedlex.data.admin.ch/eli/oc/2014/357)all. 11 n. 3; [2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)all. n. II 2; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)all. n. 5. [RU 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)art. 94 ]. Vedi ora l’O del 16 dic. 2016 ([RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)).
 
 #### Art. 28
 
@@ -1075,12 +1078,12 @@ Il controllo successivo (sorveglianza del mercato) è effettuato:
 <sup>4</sup> Se dal controllo emerge che sono state violate le disposizioni della presente ordinanza, la persona responsabile deve farsi carico dei costi del controllo.
 
 [^47-1]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^47-2]: [[RU 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469), [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)all. n. 3, [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)all. n. 5, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)all. n. 5, [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143), [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)all. n. 6, [2004 3553](https://fedlex.data.admin.ch/eli/oc/2004/480), [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 94 [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)n. II, [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194), [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)n. I 2.8, [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)all. 1 n. 3. [RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)all. I]. Vedi ora la LF del 20 giu. 2014 ([RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
+[^47-2]: [[RU 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)all. n. 3; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)all. n. 5; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)all. n. 5; [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143); [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)all. n. 6; [2004 3553](https://fedlex.data.admin.ch/eli/oc/2004/480); [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 94, [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)n. II; [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)n. I 2.8; [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)all. 1 n. 3. [RU 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)all. I]. Vedi ora la LF del 20 giu. 2014 ([RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
 [^47-3]: [RS 921.01](https://fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538)
 [^47-4]: [RS 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
-[^47-5]: [[[RU 2005 3035](http://intranet.admin.ch/ch/i/as/2005/3035.pdf)](https://fedlex.data.admin.ch/eli/oc/2005/481)[4097](https://fedlex.data.admin.ch/eli/oc/2005/541)[5211](https://fedlex.data.admin.ch/eli/oc/2005/719), [2006 4851](https://fedlex.data.admin.ch/eli/oc/2006/750), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152)n. III [1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 54 [1843](https://fedlex.data.admin.ch/eli/oc/2007/268)[4541](https://fedlex.data.admin.ch/eli/oc/2007/641)[6291](https://fedlex.data.admin.ch/eli/oc/2007/834), [2008 2155](https://fedlex.data.admin.ch/eli/oc/2008/310)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 11 [5271](https://fedlex.data.admin.ch/eli/oc/2008/742), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)all. n. 3 [2845](https://fedlex.data.admin.ch/eli/oc/2009/373), [2010 2101](https://fedlex.data.admin.ch/eli/oc/2010/278). [RU 2010 2331](https://fedlex.data.admin.ch/eli/oc/2010/340)art. 84]. Vedi ora l’O del 12 mag. 2010 ([RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)).
-[^47-6]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
-[^47-7]: [[[RU 1999 1780](http://intranet.admin.ch/ch/i/as/1999/1780.pdf)](https://fedlex.data.admin.ch/eli/oc/1999/287)[2748](https://fedlex.data.admin.ch/eli/oc/1999/442)all. 5 n. 6, [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)II 14, [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653), [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729), [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107)[2695](https://fedlex.data.admin.ch/eli/oc/2005/464)II [19](https://fedlex.data.admin.ch/eli/oc/2005/7)[5555](https://fedlex.data.admin.ch/eli/oc/2005/755), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)IV 70, [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 14, [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344), [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [RU 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)art. 77]. Vedi ora l’O del 26 ott. 2011 ([RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)).
+[^47-5]: [[[RU 2005 3035](http://intranet.admin.ch/ch/i/as/2005/3035.pdf)](https://fedlex.data.admin.ch/eli/oc/2005/481), [4097](https://fedlex.data.admin.ch/eli/oc/2005/541), [5211](https://fedlex.data.admin.ch/eli/oc/2005/719); [2006 4851](https://fedlex.data.admin.ch/eli/oc/2006/750); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152)n. III, [1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 54, [1843](https://fedlex.data.admin.ch/eli/oc/2007/268), [4541](https://fedlex.data.admin.ch/eli/oc/2007/641)[6291](https://fedlex.data.admin.ch/eli/oc/2007/834); [2008 2155](https://fedlex.data.admin.ch/eli/oc/2008/310), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 11, [5271](https://fedlex.data.admin.ch/eli/oc/2008/742); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)all. n. 3, [2845](https://fedlex.data.admin.ch/eli/oc/2009/373); [2010 2101](https://fedlex.data.admin.ch/eli/oc/2010/278). [RU 2010 2331](https://fedlex.data.admin.ch/eli/oc/2010/340)art. 84]. Vedi ora l’O del 12 mag. 2010 ([RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)).
+[^47-6]: [[RU 2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105); [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)all. n. 3, [4793](https://fedlex.data.admin.ch/eli/oc/2003/703)n. I 7, [4923](https://fedlex.data.admin.ch/eli/oc/2003/727); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)n. II 18; [2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835); [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 12; [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)all. n. 3; [2011 2403](https://fedlex.data.admin.ch/eli/oc/2011/348), [2699](https://fedlex.data.admin.ch/eli/oc/2011/372)all. 8 n. II 3; [2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724); [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)all. 6 n. 7; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)all. n. 8; [2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681); [2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)all. n. 4; [2021 686](https://fedlex.data.admin.ch/eli/oc/2021/686); [2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)all. n. 2. [RU 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)all. 5 n. I]. Vedi ora l’O del 1° nov. 2023 ([RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)).
+[^47-7]: [[[RU 1999 1780](http://intranet.admin.ch/ch/i/as/1999/1780.pdf)](https://fedlex.data.admin.ch/eli/oc/1999/287), [2748](https://fedlex.data.admin.ch/eli/oc/1999/442)all. 5 n. 6; [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)II 14; [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653); [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729); [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107), [2695](https://fedlex.data.admin.ch/eli/oc/2005/464)II [19](https://fedlex.data.admin.ch/eli/oc/2005/7), [5555](https://fedlex.data.admin.ch/eli/oc/2005/755); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)IV 70; [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476), [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)all. 5 n. 14; [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344); [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [RU 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)art. 77]. Vedi ora l’O del 26 ott. 2011 ([RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)).
 [^47-8]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
 [^47-9]: Abrogata dall’all. 8 n. 3 dell’O del 31 ott. 2018 sulla salute dei vegetali, con effetto dal 1° gen. 2020 ([RU 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
 [^47-10]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
@@ -1098,6 +1101,7 @@ I Cantoni controllano, sulla base di campioni o su richiesta dell’UFAM, in par
 - a. sono rispettate le prescrizioni sull’informazione degli acquirenti (art. 5);
 - b. la messa in commercio di organismi geneticamente modificati o patogeni è autorizzata;
 - c. l’utilizzazione di determinati organismi non è vietata;
+- c<sup>bis</sup>.[^48-1] la messa in commercio di determinati organismi non è vietata;
 - d. sono rispettati gli oneri e le condizioni connessi all’autorizzazione per la messa in commercio;
 - e. gli organismi geneticamente modificati sono etichettati correttamente (art. 10);
 - f. sono osservate le misure ordinate dall’UFAM secondo il capoverso 4.
@@ -1109,6 +1113,20 @@ I Cantoni controllano, sulla base di campioni o su richiesta dell’UFAM, in par
 <sup>5</sup> I campioni, i mezzi e i metodi di rilevazione necessari al controllo devono essere messi a disposizione delle autorità competenti.
 
 <sup>6</sup> Se dal controllo emerge che sono violate le disposizioni della presente ordinanza, la persona responsabile deve farsi carico delle spese del controllo. L’autorità incaricata del controllo le presenta direttamente la fattura.
+
+[^48-1]: Introdotta dal n. I dell’O del 1° mar. 2024, in vigore dal 1° set. 2024 ([RU 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
+
+#### Art. 48a
+
+**Esecuzione da parte dell*’*Ufficio federale della dogana e della sicurezza dei confini in materia di organismi alloctoni invasivi vietati**[^48a-1]
+
+<sup>1</sup> L’Ufficio federale della dogana e della sicurezza dei confini (UDSC) sorveglia l’osservanza degli obblighi di cui all’articolo 15 capoversi 2 e 2<sup>bis</sup> al momento dell’importazione di organismi; a tal fine effettua, d’intesa con l’UFAM, controlli fisici limitati nel tempo.
+
+<sup>2</sup> Se constata o sospetta un’infrazione, l’UDSC può mettere provvisoriamente al sicuro la merce; ne informa l’UFAM, che decide sul seguito della procedura. Se l’UFAM ordina la confisca, l’UDSC informa la persona soggetta all’obbligo di dichiarazione della possibilità di smaltire sul posto la merce per la quale è stata ordinata la confisca.
+
+<sup>3</sup> L’UDSC trasmette all’UFAM i dati necessari per l’esecuzione dell’articolo 15 capoversi 2 e 2<sup>bis</sup>.
+
+[^48a-1]: Introdotto dal n. I dell’O del 1° mar. 2024, in vigore dal 1° set. 2024 ([RU 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
 
 ### Sezione 3: Sorveglianza dell’obbligo di diligenza
 
@@ -1258,9 +1276,11 @@ Chi inoltra alle autorità documenti relativi alla domanda deve:
 
 #### Art. 59
 
-**Modifica degli elenchi di cui all’allegato 2**
+**Modifica degli elenchi di cui agli allegati 2.1 e 2.2**[^59-1]
 
-Dopo aver consultato i servizi federali e gli ambienti interessati, il DATEC aggiorna gli elenchi di cui all’allegato 2 ogni qualvolta giunge a nuove conoscenze sull’invasività degli organismi alloctoni.
+Dopo aver consultato i servizi federali, i Cantoni e gli altri ambienti interessati, il DATEC aggiorna gli elenchi di cui agli allegati 2.1 e 2.2 ogni qualvolta giunge a nuove conoscenze sull’invasività degli organismi alloctoni.
+
+[^59-1]: Nuovo testo giusta il n. I dell’O del 1° mar. 2024, in vigore dal 1° set. 2024 ([RU 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
 
 ## Capitolo 5: Disposizioni finali
 
@@ -1270,7 +1290,7 @@ Dopo aver consultato i servizi federali e gli ambienti interessati, il DATEC agg
 
 L’ordinanza del 25 agosto 1999[^60-1] sull’emissione deliberata nell’ambiente è abrogata.
 
-[^60-1]: [[RU 1999 2748](https://fedlex.data.admin.ch/eli/oc/1999/442), [2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105)all. n. 4 [1191](https://fedlex.data.admin.ch/eli/oc/2001/174)art. 51 n. 2 [3294](https://fedlex.data.admin.ch/eli/oc/2001/490)n. II 9, [2003 4793](https://fedlex.data.admin.ch/eli/oc/2003/703)n. I 2, [2004 4801](https://fedlex.data.admin.ch/eli/oc/2004/726)art. 14, [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107)n. II [2603](https://fedlex.data.admin.ch/eli/oc/2005/449)art. 8 n. 1 [2695](https://fedlex.data.admin.ch/eli/oc/2005/464)n. II 14 [3035](https://fedlex.data.admin.ch/eli/oc/2005/481)art. 69 n. 2, [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 81]
+[^60-1]: [[RU 1999 2748](https://fedlex.data.admin.ch/eli/oc/1999/442); [2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105)all. n. 4, [1191](https://fedlex.data.admin.ch/eli/oc/2001/174)art. 51 n. 2, [3294](https://fedlex.data.admin.ch/eli/oc/2001/490)n. II 9; [2003 4793](https://fedlex.data.admin.ch/eli/oc/2003/703)n. I 2; [2004 4801](https://fedlex.data.admin.ch/eli/oc/2004/726)art. 14; [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107)n. II, [2603](https://fedlex.data.admin.ch/eli/oc/2005/449)art. 8 n. 1, [2695](https://fedlex.data.admin.ch/eli/oc/2005/464)n. II 14, [3035](https://fedlex.data.admin.ch/eli/oc/2005/481)art. 69 n. 2; [2006 4705](https://fedlex.data.admin.ch/eli/oc/2006/725)n. II 81]
 
 #### Art. 61
 
@@ -1313,27 +1333,40 @@ Allegato 1
 - e. i processi naturali come la coniugazione, la trasduzione o la lavorazione;
 - f. il cambiamento del grado di ploidia, compresa l’aneuploidia, e l’eliminazione di cromosomi.
 
-Allegato 2
+Allegato 2.1[^t-1]
 
 (art. 15 cpv. 2)
 
-## Organismi alloctoni invasivi vietati
+## Organismi alloctoni invasivi la cui utilizzazione diretta nell’ambiente è vietata
+
+[^t-1]: Originario all. 2. Aggiornato dal n. II cpv. 1 dell’O del 1° mar. 2024, in vigore dal 1° set. 2024 ([RU 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
 
 ### 1 Flora
 
 <table>
-<tr><td>Nome scientifico</td><td>Nome tedesco</td><td>Nome francese</td><td>Nome italiano</td></tr>
-<tr><td>Ambrosia artemisiifolia</td><td>Aufrechte Ambrosie, Beifussblättriges Traubenkraut</td><td>Ambroisie à feuilles d’armoise, Ambroisie élevée</td><td>Ambrosia con foglie di artemisia</td></tr>
+<tr><th>Nome scientifico</th><th>Nome tedesco</th><th>Nome francese</th><th>Nome italiano</th></tr>
+<tr><td>Ailanthus altissima</td><td>Götterbaum</td><td>Ailante</td><td>Ailanto</td></tr>
+<tr><td>Ambrosia spp. (A. artemisiifolia, A. confertiflora, A. psilostachya, A. trifida)</td><td>Ambrosien, Traubenkräuter</td><td>Ambroisies</td><td>Ambrosia</td></tr>
+<tr><td>Asclepias syriaca</td><td>Syrische Seidenpflanze</td><td>Asclépiade de Syrie</td><td>Albero della seta</td></tr>
+<tr><td>Cabomba caroliniana</td><td>Karolina-Haarnixe</td><td>Cabomba, Evantail de Caroline</td><td>Cabomba della Carolina</td></tr>
+<tr><td>Celastrus orbiculatus</td><td>Rundblättriger Baumwürger</td><td>Bourreau des arbres asiatique</td><td>Celastro</td></tr>
 <tr><td>Crassula helmsii</td><td>Nadelkraut</td><td>Orpin de Helms</td><td>Erba grassa di Helms</td></tr>
-<tr><td>Elodea nuttalli</td><td>Nuttalls Wasserpest</td><td>Elodée de Nuttall</td><td>Peste d’acqua di Nuttall</td></tr>
+<tr><td>Elodea spp. (E. candensis, E. densa, E. nuttalli)</td><td>Wasserpest</td><td>Elodée</td><td>Peste d’acqua</td></tr>
 <tr><td>Heracleum mantegazzianum</td><td>Riesenbärenklau</td><td>Berce du Caucase, Berce de Mantegazzi</td><td>Panace di Mantegazzi</td></tr>
-<tr><td>Hydrocotyle ranunculoides</td><td>Grosser Wassernabel</td><td>Hydrocotyle fausse-renoncule</td><td>Soldinella reniforme</td></tr>
+<tr><td>Humulus japonicus</td><td>Japanischer Hopfen</td><td>Houblon du Japon</td><td>Luppolo giapponese</td></tr>
+<tr><td>Hydrocotyle ranunculoides</td><td>Grosser Wassernabel</td><td>Hydrocotyle fausse‑renoncule</td><td>Soldinella reniforme</td></tr>
 <tr><td>Impatiens glandulifera</td><td>Drüsiges Springkraut</td><td>Impatiente glanduleuse</td><td>Balsamina ghiandalosa</td></tr>
-<tr><td>Ludwigia spp. (L. grandiflora, L. peploides)</td><td>Südamerikanische Heusenkräuter</td><td>Jussies sudaméricaines</td><td>Porracchie sudamericane</td></tr>
-<tr><td>Reynoutria spp. (Fallopia spp., Polygonum polystachyum, P. cuspidatum)</td><td>Asiatische Staudenknöteriche inkl. Hybride</td><td>Renouées asiatiques, hybrides incl.</td><td>Poligoni asiatici, incl. ibridi</td></tr>
+<tr><td>Lagarosiphon major</td><td>Schmalrohr</td><td>Grand lagarosiphon</td><td>Peste d’acqua arcuata</td></tr>
+<tr><td>Ludwigia spp. (L. grandiflora, L. peploides, L. x kentiana)</td><td>Südamerikanische Heusenkräuter inkl. Hybride</td><td>Jussies sudaméricaines hybrides incl.</td><td>Porracchie sudamericane incl. ibridi</td></tr>
+<tr><td>Myriophyllum spp. (M. aquaticum, M. heterophyllum, senza specie indigene)</td><td>Tausendblätter</td><td>Myriophylles</td><td>Miriofilli</td></tr>
+<tr><td>Pueraria lobata</td><td>Kopoubohne</td><td>Puéraire hérissée</td><td>Kudzu</td></tr>
+<tr><td>Reynoutria spp. (Fallopia spp., Polygonum polystachyum, P. cuspidatum, P. perfoliatum)</td><td>Asiatische Knöteriche inkl. Hybride</td><td>Renouées asiatiques hybrides incl.</td><td>Poligoni asiatici incl. ibridi</td></tr>
 <tr><td>Rhus typhina</td><td>Essigbaum</td><td>Sumac</td><td>Sommacco maggiore</td></tr>
+<tr><td>Salvinia molesta</td><td>Lästiger Schwimmfarn</td><td>Salvinie géante</td><td>Erba pesce gigante</td></tr>
 <tr><td>Senecio inaequidens</td><td>Schmalblättriges Greiskraut</td><td>Séneçon du Cap</td><td>Senecione sudafricano</td></tr>
-<tr><td>Solidago spp. (S. canadensis, S. gigantea, S. nemoralis; senza S. virgaurea)</td><td>Amerikanische Goldruten inkl. Hybride</td><td>Solidages américains, Verges d’or américaines, hybrides incl.</td><td>Verghe d’oro americane, inclusi ibridi</td></tr>
+<tr><td>Sicyos angulatus</td><td>Haargurke</td><td>Sicyos anguleux</td><td>Sicios angoloso</td></tr>
+<tr><td>Solidago spp. (S. canadensis, S. gigantea, S. graminifolia; senza S. virgaurea)</td><td>Amerikanische Goldruten inkl. Hybride</td><td>Solidages américains, Verges d’or américaines hybrides incl.</td><td>Verghe d’oro americane incl. ibridi</td></tr>
+<tr><td>Toxicodendron radicans</td><td>Kletternder Giftsumach</td><td>Arbre à la gale</td><td>Edera velenosa</td></tr>
 </table>
 
 ### 2 Fauna
@@ -1343,6 +1376,49 @@ Allegato 2
 <tr><td>Harmonia axyridis</td><td>Asiatischer Marienkäfer</td><td>Coccinelle asiatique</td><td>Coccinella asiatica</td></tr>
 <tr><td>Trachemys scripta elegans</td><td>Rotwangen-Schmuckschildkröte</td><td>Tortue de Floride</td><td>Tartaruga dalle orecchie rosse</td></tr>
 <tr><td>Rana catesbeiana</td><td>Amerikanischer Ochsenfrosch</td><td>Grenouille taureau</td><td>Rana toro</td></tr>
+</table>
+
+Allegato 2.2[^t-2]
+
+(art. 15 cpv. 2<sup>bis</sup>)
+
+## Organismi alloctoni invasivi la cui messa in commercio ai fini dell’utilizzazione diretta nell’ambiente è vietata
+
+[^t-2]: Introdotto dal n. II cpv. 2 dell’O del 1° mar. 2024, in vigore dal 1° set. 2024 ([RU 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
+
+<table>
+<tr><th>Nome scientifico</th><th>Nome tedesco</th><th>Nome francese</th><th>Nome italiano</th></tr>
+<tr><td>Acacia dealbata</td><td>Falsche Mimose</td><td>Mimosa blanchâtre</td><td>Mimosa</td></tr>
+<tr><td>Amorpha fruticosa</td><td>Bastardindigo</td><td>Amorphe buissonnante</td><td>Indaco bastardo</td></tr>
+<tr><td>Artemisia verlotiorum</td><td>Verlotscher Beifuss</td><td>Armoise des frères Verlot</td><td>Assenzio dei fratelli Verlot</td></tr>
+<tr><td>Aster novi-belgii aggr. (Aster ×salignus, A. ×versicolor, A. lanceo-latus, A. novi-belgii, A. parviflorus)</td><td>Neubelgische Aster (Weiden-Aster, Gescheckte Aster, Lanzettblättrige Aster, Neubelgische Aster, Tradescants Aster)</td><td>Aster de la Nouvelle-Belgique (Aster à feuilles de saule, Aster versicolore, Aster lancéolé, Aster de la Nouvelle-Belgique, Aster de Tradescant)</td><td>Astro americano (Astro a foglie di salice, Astro cangiante, Astro lanceolato, Astro americano, Astro di Tradescant)</td></tr>
+<tr><td>Azolla filiculoides</td><td>Grosser Algenfarn</td><td>Azolla fausse filicule</td><td>Azolla maggiore</td></tr>
+<tr><td>Broussonetia papyrifera</td><td>Papiermaulbeerbaum</td><td>Mûrier à papier</td><td>Gelso da carta</td></tr>
+<tr><td>Buddleja davidii</td><td>Schmetterlingsstrauch</td><td>Buddléia de David</td><td>Buddleja</td></tr>
+<tr><td>Bunias orientalis</td><td>Glattes Zackenschötchen</td><td>Bunias d’Orient</td><td>Cascellore orientale</td></tr>
+<tr><td>Cornus sericea</td><td>Seidiger Hornstrauch</td><td>Cornouiller soyeux</td><td>Corniolo serico</td></tr>
+<tr><td>Cotoneaster horizontalis</td><td>Korallenstrauch</td><td>Cotonéaster horizontal</td><td>Cotognastro orizzontale</td></tr>
+<tr><td>Echinocystis lobata</td><td>Stachelgurke, Igelgurke</td><td>Concombre sauvage, C. piquant</td><td>Sicios lobata</td></tr>
+<tr><td>Erigeron annuus</td><td>Einjähriges Berufkraut</td><td>Vergerette annuelle</td><td>Cespica annua</td></tr>
+<tr><td>Galega officinalis</td><td>Geissraute</td><td>Galéga officinal</td><td>Capraggine comune</td></tr>
+<tr><td>Glyceria striata</td><td>Gestreiftes Süssgras</td><td>Glycérie striée</td><td>Gramignone striato</td></tr>
+<tr><td>Lonicera henryi</td><td>Henrys Geissblatt</td><td>Chèvrefeuille de Henry</td><td>Caprifoglio di Henry</td></tr>
+<tr><td>Lonicera japonica</td><td>Japanisches Geissblatt</td><td>Chèvrefeuille du Japon</td><td>Caprifoglio giapponese</td></tr>
+<tr><td>Lupinus polyphyllus</td><td>Vielblättrige Lupine</td><td>Lupin à folioles nombreuses</td><td>Lupino fogliuto</td></tr>
+<tr><td>Oenanthe javanica</td><td>Wasserfenchel, Japanische Petersilie</td><td>Persil japonais</td><td>Finocchio acquatico di Giava</td></tr>
+<tr><td>Parthenocissus quinquefolia aggr. (P. inserta, P. quinquefolia)</td><td>Fünffingerige - / Gewöhnliche Jungfernrebe</td><td>Vigne vierge à cinq folioles / - commune</td><td>Vite del Canada comune / Vite del Canada domestica</td></tr>
+<tr><td>Paulownia tomentosa</td><td>Blauglockenbaum</td><td>Paulownia</td><td>Paulownia</td></tr>
+<tr><td>Pennisetum setaceum</td><td>Afrikanisches Lampenputzergras</td><td>Herbe aux écouvillons, Herbe fontaine</td><td>Penniseto allungato</td></tr>
+<tr><td>Phyllostachys aurea</td><td>Gold-Bambus</td><td>Bambou moyen</td><td>Bambù dorato</td></tr>
+<tr><td>Prunus laurocerasus</td><td>Kirschlorbeer</td><td>Laurier-cerise</td><td>Lauroceraso</td></tr>
+<tr><td>Prunus serotina</td><td>Herbst-Traubenkirsche</td><td>Merisier tardif</td><td>Pruno autunnale</td></tr>
+<tr><td>Pseudosasa japonica</td><td>Japanischer Bambus</td><td>Bambou du Japon</td><td>Pseudosasa giapponese</td></tr>
+<tr><td>Rubus armeniacus</td><td>Armenische Brombeere</td><td>Ronce d’Arménie</td><td>Rovo d’Armenia</td></tr>
+<tr><td>Rubus phoenicolasius</td><td>Rotborstige Himbeere</td><td>Framboisier du Japon</td><td>Lampone giapponese</td></tr>
+<tr><td>Sagittaria latifolia</td><td>Breitblättriges Pfeilkraut</td><td>Sagittaire à larges feuilles</td><td>Sagittaria americana</td></tr>
+<tr><td>Sedum spurium</td><td>Kaukasus-Fettkraut</td><td>Orpin bâtard</td><td>Borracina caucasica</td></tr>
+<tr><td>Sedum stoloniferum</td><td>Ausläuferbildendes Fettkraut</td><td>Orpin stolonifère</td><td>Borracina stolonifera</td></tr>
+<tr><td>Trachycarpus fortunei</td><td>Chinesische Hanfpalme, Fortunes Hanfpalme</td><td>Palmier chanvre</td><td>Palma di Fortune</td></tr>
 </table>
 
 Allegato 3
@@ -1487,40 +1563,27 @@ Allegato 3.3
 
 ### 1 Informazioni generali
 
-11 Nome e indirizzo del richiedente (impresa o istituto);
-
-12 nome, qualifica ed esperienza dei responsabili scientifici.
+- 11 Nome e indirizzo del richiedente (impresa o istituto);
+- 12 nome, qualifica ed esperienza dei responsabili scientifici.
 
 ### 2 Designazione ed etichettatura degli organismi
 
-21 Denominazione scientifica e altri nomi;
-
-22 dati tassonomici, incluse le sottospecie, il ceppo o il biotipo;
-
+- 21 Denominazione scientifica e altri nomi;
+- 22 dati tassonomici, incluse le sottospecie, il ceppo o il biotipo;
 - 23 conferma dei dati tassonomici da parte di un’autorità scientifica riconosciuta, nonché nome e indirizzo dell’istituzione che archivia gli animali di riferimento;
 - 24 marcatori fenotipici e genetici, nonché descrizione delle possibilità per l’identificazione univoca degli organismi nell’ambiente;
-
-25 metodi di coltura e di produzione degli organismi;
-
+- 25 metodi di coltura e di produzione degli organismi;
 - 26 fonte e purezza dei ceppi e dei biotipi selezionati per l’emissione sperimentale, nome e indirizzo dell’organizzazione che alleva gli animali e indicazioni precise sul luogo (longitudine e latitudine, altezza, spazio vitale, ospiti) e sulla stagione della raccolta sul campo;
 - 27 regioni in cui l’emissione sperimentale degli organismi ha già avuto luogo intenzionalmente o involontariamente, nonché esperienze fatte al riguardo.
-
-28 Biologia ed ecologia:
-
-281 diffusione naturale degli organismi;
-
-282 ruolo e importanza degli organismi nell’ecosistema originario;
-
+- 28 Biologia ed ecologia:
+- 281 diffusione naturale degli organismi;
+- 282 ruolo e importanza degli organismi nell’ecosistema originario;
 - 283 descrizione della biologia, in particolare della riproduzione, del tempo di generazione, delle vie di diffusione biologica, delle esigenze degli organismi in materia di ospiti, spazio vitale e clima nonché della cerchia di ospiti possibile;
 - 284 descrizione degli organismi testati quali ospiti e metodi di analisi della specificità dell’ospite;
 - 285 descrizione di possibili organismi associati (nemici naturali, patogeni, commensali) e metodi per eliminarli;
-
-286 particolari resistenze e sensibilità (freddo, siccità, prodotti fitosanitari ecc.);
-
-287 diffusione geografica attuale;
-
-288 persistenza e riproduzione alle condizioni presenti in Svizzera;
-
+- 286 particolari resistenze e sensibilità (freddo, siccità, prodotti fitosanitari ecc.);
+- 287 diffusione geografica attuale;
+- 288 persistenza e riproduzione alle condizioni presenti in Svizzera;
 - 289 indicazioni sul comportamento invasivo in altre zone da parte degli stessi organismi o di organismi strettamente imparentati.
 
 ### 3 Effettuazione dell’emissione sperimentale
@@ -1615,24 +1678,15 @@ Allegato 3.4
 
 ### 4 Misure di sicurezza
 
-41 Misure preventive:
-
+- 41 Misure preventive:
 - metodi e procedure per impedire o ridurre al minimo la diffusione degli organismi al di fuori del settore d’impiego.
-
-42 Smaltimento dei rifiuti:
-
-421 tipo e quantità di rifiuti prodotti nell’utilizzazione diretta nell’ambiente;
-
-422 possibili pericoli;
-
-423 smaltimento da parte dell’utente conformemente alle disposizioni.
-
-43 Piani d’emergenza:
-
+- 42 Smaltimento dei rifiuti:
+- 421 tipo e quantità di rifiuti prodotti nell’utilizzazione diretta nell’ambiente;
+- 422 possibili pericoli;
+- 423 smaltimento da parte dell’utente conformemente alle disposizioni.
+- 43 Piani d’emergenza:
 - 431 metodi e procedure per il controllo degli organismi in caso di diffusione imprevista;
-
-432 metodi per la decontaminazione di spazi vitali colpiti;
-
+- 432 metodi per la decontaminazione di spazi vitali colpiti;
 - 433 metodi di eliminazione o trattamento di piante, animali, suoli ecc. esposti alla diffusione indesiderata degli organismi;
 - 434 piani per la protezione dell’uomo, degli animali, dell’ambiente e della diversità biologica in caso di effetti indesiderati.
 
@@ -1718,8 +1772,6 @@ Allegato 5
 (art. 61)
 
 ## Modifica del diritto vigente
-
-Le ordinanze qui appresso sono modificate come segue:
 
 ...[^annex5-lvlu1-1]
 

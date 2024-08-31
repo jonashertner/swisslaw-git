@@ -4,11 +4,11 @@ title: "Ordinance of 10 September 2008 on the Handling of Organisms in the Envir
 short: RO
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/614"
 language: en
-version: 2023-01-01
+version: 2024-09-01
 adopted: 2008-09-10
 in_force: 2008-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/614/20230101/en/xml/fedlex-data-admin-ch-eli-cc-2008-614-20230101-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/614/20230101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/614/20240901/en/xml/fedlex-data-admin-ch-eli-cc-2008-614-20240901-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/614/20240901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Release Ordinance, RO)
 
-of 10 September 2008 (Status as of 1 January 2023)
+of 10 September 2008 (Status as of 1 September 2024)
 
 The Swiss Federal Council,
 
@@ -54,12 +54,12 @@ ordains:
 
 <sup>4</sup>
 
-The marketing of pathogenic organisms:
+Putting pathogenic organisms into circulation is regulated by:
 
-- a. for application as plant protection products in agriculture is regulated by the Plant Protection Products Ordinance of 18 May 2005[^2-4];
-- b. for application as biocidal products, the Biocidal Products Ordinance of 18 May 2005[^2-5].
+- a. the Plant Protection Products Ordinance of 18 May 2005[^2-4], where the organisms are used as plant protection products in agriculture
+- b. the Biocidal Products Ordinance of 18 May 2005[^2-5],where the organisms are used as biocidal products,
 
-<sup>5</sup> For the marketing of alien insects, mites and nematodes for use as plant protection products in agriculture as well as for experimental releases of such organisms, the Ordinance of 18 May 2005 on Plant Protection Products applies.
+<sup>5</sup> Putting alien insects, mites and nematodes in circulation for use as plant protection products in agriculture, and the experimental release of such organisms is governed by the Ordinance of 18 May 2005 on Plant Protection Products.
 
 <sup>6</sup>
 
@@ -100,11 +100,11 @@ In this Ordinance:
 
 - g.[^3-4] *…*
 - h. *invasive alien organisms* means alien organisms of which it is known or must be assumed that they will spread in Switzerland and could achieve such a high population density that biological diversity or its sustainable use could be harmed or human beings, animals and the environment could be endangered;
-- i. *handling of organisms in the environment* means any deliberate activity using organisms that takes place outside a contained system, in particular culturing, processing, multiplication, modification, experimental release, marketing, transport, storage or disposal;
+- i. *handling of organisms in the environment* means any deliberate activity using organisms that takes place outside a contained system, in particular culturing, processing, multiplication, modification, experimental release, putting into circulation, transport, storage or disposal;
 - j. *direct handling of organisms in the environment* means handling organisms in the environment, not including the handling of therapeutic products, foodstuffs and animal feedstuffs;
-- k. *marketing* means the transfer of organisms to third parties in Switzerland for use in the environment, in particular by sale, exchange, giving as a gift, renting, lending or sending on approval, as well as their import for the use in the environment.
+- k. *putting into circulation* means the transfer of organisms to third parties in Switzerland for use in the environment, in particular by sale, exchange, giving as a gift, renting, lending or sending on approval, as well as their import for the use in the environment.
 
-<sup>2</sup> Transfer of organisms in order to carry out an experimental release does not count as marketing.
+<sup>2</sup> Transfer of organisms in order to carry out an experimental release is not regarded as putting organisms into circulation.
 
 [^3-1]: Amended by Annex 5 No 10 of the Containment Ordinance of 9 May 2012, in force since 1 June 2012 ([AS 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
 [^3-2]: Amended by Annex 5 No 10 of the Containment Ordinance of 9 May 2012, in force since 1 June 2012 ([AS 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
@@ -117,11 +117,11 @@ In this Ordinance:
 
 #### Art. 4
 
-**Self-supervision for marketing**
+**Self-supervision for putting organisms into circulation**
 
 <sup>1</sup>
 
-Any person who intends to market organisms for use in the environment must first:
+Any person who intends to put organisms into circulation for use in the environment must first:
 
 - a. assess the possible hazards and harm caused by the organisms, their metabolic products and wastes to human beings, animals or the environment as well as to biological diversity or the sustainable use thereof; and
 - b. arrive at a justifiable conclusion that no such hazards and harm are to be expected.
@@ -137,7 +137,7 @@ The assessment referred to in paragraph 1 letter a must in particular consider:
 
 **Informing the recipients**
 
-Any person marketing organisms for use in the environment must:
+Any person putting organisms into circulation for use in the environment must:
 
 - a. inform the recipient of the identity of the organisms, their metabolic products and wastes, as well as of their properties in relation to public health and the environment;
 - b. instruct the recipient in such a way that handling the organisms in the environment in accordance with the regulations and the instructions will not endanger human beings, animals or the environment, or harm biological diversity or the sustainable use thereof;
@@ -149,7 +149,7 @@ Any person marketing organisms for use in the environment must:
 
 <sup>1</sup>
 
-Any person handling organisms in the environment in ways other than marketing must take all due care to ensure that organisms, their metabolic and waste products:
+Any person handling organisms in the environment in ways other than putting them into circulation must take all due care to ensure that organisms, their metabolic and waste products:
 
 - a. cannot endanger human beings, animals or the environment;
 - b. do not harm biological diversity or its sustainable use.
@@ -198,7 +198,7 @@ Habitats and landscapes that are particularly sensitive or worthy of protection 
 
 - a. areas that are designated nature reserves, on the basis of federal or cantonal law;
 - b. surface waters and a strip 3 m wide along or around them;
-- c.[^8-1] subterranean waters and catchment areas S1 and, for microorganisms, catchment areas S2 und S<sub>h</sub> of groundwater protection zones;
+- c.[^8-1] subterranean waters and catchment areas S1 and, for microorganisms, catchment areas S2 and S<sub>h</sub> of groundwater protection zones;
 - d. forests;
 - e. protected areas in accordance with Article 11 of the Hunting Act of 20 June 1986[^8-2];
 - f. areas under landscape protection in accordance with federal or cantonal law.
@@ -223,7 +223,7 @@ Any person who handles genetically modified organisms directly in the environmen
 
 <sup>3</sup>
 
-Any person who markets genetically modified organisms must have an appropriate quality control system, which ensures, in particular, that:
+Any person who puts genetically modified organisms into circulation must have an appropriate quality control system, which ensures, in particular, that:
 
 - a. weak points at which mixtures or confusions could occur are recognised;
 - b. the required technical, organisational and staffing measures to prevent mixtures are established and enforced;
@@ -233,7 +233,7 @@ Any person who markets genetically modified organisms must have an appropriate q
 
 <sup>4</sup>
 
-Any person who markets genetically modified organisms or products made from such organisms must:
+Any person who puts genetically modified organisms or products made from such organisms into circulation must:
 
 - a. provide written information of the corresponding unique identifier, in accordance with the Annex to the Commission Regulation (EC) No 65/2004 of 14 January 2004[^9-1] establishing a system for the development and assignment of unique identifiers for genetically modified organisms, or, if this is lacking, the identity of the organisms, giving the essential characteristics, if the organisms and products require labelling in accordance with Article 10;
 - b. provide the name and address of the person from whom further information can be obtained;
@@ -241,7 +241,7 @@ Any person who markets genetically modified organisms or products made from such
 
 <sup>5</sup>
 
-Any person who markets genetically modified organisms or products made from such organisms must keep the following details for five years:
+Any person who puts genetically modified organisms or products made from such organisms into circulation must keep the following details for five years:
 
 - a. the information in accordance with paragraph 4;
 - b. the name and address of the recipient, but not those of the consumers;
@@ -255,7 +255,7 @@ Any person who markets genetically modified organisms or products made from such
 
 **Labelling of genetically modified organisms**
 
-<sup>1</sup> Any person who markets genetically modified organisms must inform the recipient of the nature of the organisms through an easily recognisable label, with the note «genetically modified».
+<sup>1</sup> Any person who puts genetically modified organisms into circulation must inform the recipient of the nature of the organisms through an easily recognisable label, with the note «genetically modified».
 
 <sup>2</sup>
 
@@ -272,18 +272,18 @@ Labelling may be waived for mixtures, articles and products that contain genetic
 
 **Liability guarantee for genetically modified organisms**
 
-<sup>1</sup> Any person who intends to release genetically modified organisms that require a licence for experimental purposes (Art. 17) must guarantee sufficient financial reserves for determining, preventing or correcting possible hazards or impairments caused by genetically modified organisms.
+<sup>1</sup> Any person who intends to release genetically modified organisms that require authorisation for experimental purposes (Art. 17) must guarantee sufficient financial reserves for determining, preventing or correcting possible hazards or impairments caused by genetically modified organisms.
 
 <sup>2</sup>
 
-Any person who intends to release genetically modified organisms that require a licence for experimental purposes must guarantee legal liability:
+Any person who intends to release genetically modified organisms that require authorisation for experimental purposes must guarantee legal liability:
 
 - a. of 10 million Swiss francs to cover damage to persons or property (Art. 30 GTA); and
 - b. of 1 million Swiss francs to cover damage to the environment (Art. 31 GTA).
 
 <sup>3</sup>
 
-Any person who intends to market organisms for direct handling in the environment for the first time must guarantee legal liability:
+Any person who intends to put organisms into circulation for direct handling in the environment for the first time must guarantee legal liability:
 
 - a. of 20 million Swiss francs to cover damage to persons or property (Art. 30 GTA); and
 - b. of 2 million Swiss francs to cover damage to the environment (Art. 31 GTA).
@@ -343,18 +343,18 @@ The handling of pathogenic organisms in the environment must be carried out in s
 
 **Liability guarantee for pathogenic organisms**
 
-<sup>1</sup> Any person who intends to release pathogenic organisms that require a licence for experimental purposes (Art. 17) must guarantee sufficient financial reserves for determining, preventing or correcting possible hazards or impairments caused by such organisms.
+<sup>1</sup> Any person who intends to release pathogenic organisms that require authorisation for experimental purposes (Art. 17) must guarantee sufficient financial reserves for determining, preventing or correcting possible hazards or impairments caused by such organisms.
 
 <sup>2</sup>
 
-Any person who intends to release pathogenic organisms that require a licence for experimental purposes must guarantee legal liability:
+Any person who intends to release pathogenic organisms that require authorisation for experimental purposes must guarantee legal liability:
 
 - a. of 1 million Swiss francs to cover damage to persons or property (Art. 59*a*<sup>bis</sup> para. 1 EPA); and
 - b. of 100,000 Swiss francs to cover damage to the environment (Art. 59*a*<sup>bis</sup> para. 9 EPA).
 
 <sup>3</sup>
 
-Any person who intends to market such organisms for direct handling in the environment for the first time must guarantee legal liability:
+Any person who intends to put such organisms into circulation for direct handling in the environment for the first time must guarantee legal liability:
 
 - a. of 2 million Swiss francs to cover damage to persons or property (Art. 59*a*<sup>bis</sup> para. 1 EPA); and
 - b. of 200,000 Swiss francs to cover damage to the environment (Art. 59*a*<sup>bis</sup> para. 9 EPA).
@@ -397,15 +397,18 @@ The handling of alien organisms in the environment must be carried out in such a
 - e. the material balance of the environment is not severely or permanently harmed;
 - f. important functions of the ecosystem in question, in particular the fertility of the soil, are not severely or permanently harmed.
 
-<sup>2</sup> Invasive alien organisms in accordance with Annex 2 may not be handled directly in the environment, other than in the case of measures to control them. The FOEN may in exceptional cases grant a licence for direct handling in the environment if the applicant can prove that he or she has taken all the measures required to observe paragraph 1.[^15-1]
+<sup>2</sup> Invasive alien organisms in accordance with Annex 2.1 may not be handled directly in the environment, other than in the case of measures to control them. The FOEN may in exceptional cases grant authorisation for direct handling in the environment if the applicant can prove that he or she has taken all the measures required to observe paragraph 1.[^15-1]
 
-<sup>3</sup> Soil that has been removed that is contaminated with invasive alien organisms in accordance with Annex 2 must be used only at the place of excavation or disposed of so as to prevent the spread of such organisms.[^15-2]
+<sup>2bis</sup> Invasive alien organisms in accordance with Annex 2.2 may not be put into circulation for direct handling in the environment.[^15-2]
 
-<sup>4</sup> The provisions in the legislation on forests, hunting and fishing are reserved.[^15-3]
+<sup>3</sup> Soil that has been removed that is contaminated with invasive alien organisms in accordance with Annex 2.1 must be used only at the place of excavation or disposed of so as to prevent the spread of such organisms.[^15-3]
 
-[^15-1]: Amended by Annex 8 No 3 of the Plant Health Ordinance of 31 Oct. 2018, in force since 1 Jan. 2020 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
-[^15-2]: Amended by Annex 6 No 12 of the Waste Management Ordinance of 4 Dec. 2015, in force since 1 Jan. 2016 ([AS 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)).
-[^15-3]: Amended by Annex 5 No 10 of the Containment Ordinance of 9 May 2012, in force since 1 June 2012 ([AS 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
+<sup>4</sup> The provisions in the legislation on forests, hunting and fishing are reserved.[^15-4]
+
+[^15-1]: Amended by No I of the O of 1 March 2024, in force since 1 Sept. 2024 ([AS 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
+[^15-2]: Inserted by No I of the O of 1 March 2024, in force since 1 Sept. 2024 ([AS 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
+[^15-3]: Amended by No I of the O of 1 March 2024, in force since 1 Sept. 2024 ([AS 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
+[^15-4]: Amended by Annex 5 No 10 of the Containment Ordinance of 9 May 2012, in force since 1 June 2012 ([AS 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
 
 #### Art. 16
 
@@ -423,7 +426,7 @@ The handling of alien organisms in the environment must be carried out in such a
 
 **Licensing requirement**[^17-1]
 
-Any person who intends to release the following organisms for experimental purposes shall require a licence from the FOEN:
+Any person who intends to release the following organisms for experimental purposes shall require authorisation from the FOEN:
 
 - a. genetically modified organisms;
 - b. pathogenic organisms;
@@ -435,22 +438,22 @@ Any person who intends to release the following organisms for experimental purpo
 
 **Exceptions from the licensing requirement**
 
-<sup>1</sup> A licence is not required for experimental releases involving genetically modified organisms, if they are authorised for a particular direct application in the environment in accordance with Article 25 and if the experimental release aims to gather further information for the same application.
+<sup>1</sup> Authorisation is not required for experimental releases involving genetically modified organisms, if they are authorised for a particular direct application in the environment in accordance with Article 25 and if the experimental release aims to gather further information for the same application.
 
 <sup>2</sup>
 
-A licence is not required for experimental releases involving pathogenic organisms if they:
+Authorisation is not required for experimental releases involving pathogenic organisms if they:
 
 - a. are authorised for a particular direct application in the environment in accordance with Article 25; or
 - b. are not alien and are not pathogenic to human beings or vertebrates.
 
-<sup>3</sup> A licence is not required for experimental releases involving alien small invertebrates if they are authorised for a particular direct application in the environment in accordance with Article 25.
+<sup>3</sup> Authorisation is not required for experimental releases involving alien small invertebrates if they are authorised for a particular direct application in the environment in accordance with Article 25.
 
 #### Art. 19
 
-**Licence applications for experimental releases of genetically modified organisms**
+**Applications for authorisation for experimental releases of genetically modified organisms**
 
-<sup>1</sup> The licence application for an experimental release of genetically modified organisms must contain all the required information to prove that the experimental release cannot contravene the requirements of Articles 7–9 and 11.
+<sup>1</sup> The application for authorisation for an experimental release of genetically modified organisms must contain all the required information to prove that the experimental release cannot contravene the requirements of Articles 7–9 and 11.
 
 <sup>2</sup>
 
@@ -464,7 +467,7 @@ The application must contain the following documents, in particular:
   - 2\. reasons why the information sought cannot be obtained through experiments in contained systems,
   - 3\. a presentation of the anticipated new scientific results in terms of the impacts on human beings, animals or the environment, biological diversity and the sustainable use thereof and the efficacy of safety measures which can be gained thanks to the experiment;
 
-- b. a technical dossier with the information in accordance with Annexes IIIA or IIIB and IV of the Directive 2001/18/EC of the European Parliament and of the Council of 12 March 2001[^19-1] on the deliberate release into the environment of genetically modified organisms and repealing Council Directive 90/220/EEC, but without details of the monitoring plans;
+- b. a technical dossier with the information in accordance with Annexes IIIA or IIIB of Directive 2001/18/EC of the European Parliament and of the Council of 12 March 2001[^19-1] on the deliberate release into the environment of genetically modified organisms and repealing Council Directive 90/220/EEC, but without details of the monitoring plans;
 - c.
 
   the results of previous experiments, in particular:
@@ -499,9 +502,9 @@ A single application may be submitted if an experimental release is being carrie
 
 #### Art. 20
 
-**Licence applications for experimental releases of pathogenic organisms**
+**Applications for authorisation for experimental releases of pathogenic organisms**
 
-<sup>1</sup> The licence application for an experimental release of pathogenic organisms must contain all the required information to prove that the experimental release cannot contravene the requirements of Articles 12–14.
+<sup>1</sup> The application for authorisation for an experimental release of pathogenic organisms must contain all the required information to prove that the experimental release cannot contravene the requirements of Articles 12–14.
 
 <sup>2</sup>
 
@@ -540,9 +543,9 @@ A single application may be submitted if an experimental release is being carrie
 
 #### Art. 21
 
-**Licence applications for experimental releases of alien small invertebrates**
+**Applications for authorisation for experimental releases of alien small invertebrates**
 
-<sup>1</sup> The licence application for an experimental release of alien small invertebrates must contain all the required information to prove that the experimental release cannot contravene the requirements of Articles 15 and 16.
+<sup>1</sup> The application for authorisation for an experimental release of alien small invertebrates must contain all the required information to prove that the experimental release cannot contravene the requirements of Articles 15 and 16.
 
 <sup>2</sup>
 
@@ -587,7 +590,7 @@ A single application may be submitted if an experimental release is being carrie
 The applicant may request a simplified licensing procedure for experimental releases of genetically modified organisms, pathogenic organisms or alien small invertebrates if:
 
 - a. an experimental release with comparable possible hazards and harm has been authorised in Switzerland, in particular, if it involves the same organisms;
-- b. these organisms originate from the crossing of two organisms that have already been authorised for marketing for direct use in the environment, and it can be shown that the sum of the properties of the crossing do not differ from the sum of the properties of the authorised organisms.
+- b. these organisms originate from the crossing of two organisms that have already been authorised for being put into circulation for direct use in the environment, and it can be shown that the sum of the properties of the crossing do not differ from the sum of the properties of the authorised organisms.
 - [tab] <sup>2</sup> For a simplified licensing procedure, at least the documents in accordance with Article 19 paragraph 2 letters a, d, e and h or in accordance with Article 20 paragraph 2 letters a, d, e and g or Article 21 paragraph 2 letters a, d and e must be submitted.
 
 #### Art. 23
@@ -596,12 +599,12 @@ The applicant may request a simplified licensing procedure for experimental rele
 
 <sup>1</sup>
 
-The applicant or licence holder must inform the FOEN without delay about:
+The applicant or authorisation holder must inform the FOEN without delay about:
 
 - a. new findings and observations that might require a reassessment of the risk;
 - b. changes to the experimental conditions and the monitoring plan.
 
-<sup>2</sup> The applicant or licence holder must examine the measures listed in the licence and, if the observance of the requirements in accordance with Articles 7–9, 12 and 13 or 15 and 16 is directly and seriously endangered, take the additional measures required.
+<sup>2</sup> The applicant or authorisation holder must examine the measures listed in the authorisation and, if the observance of the requirements in accordance with Articles 7–9, 12 and 13 or 15 and 16 is directly and seriously endangered, take the additional measures required.
 
 <sup>3</sup> The FOEN shall inform the specialist agencies concerned (Art. 37 para. 1).
 
@@ -611,23 +614,23 @@ The applicant or licence holder must inform the FOEN without delay about:
 
 <sup>1</sup>
 
-The licence holder must submit a report to the FOEN within 4 months of completion of the experimental release. The FOEN may extend the deadline upon reasonable request. The report shall be publicly accessible and shall encompass, in particular, the following details:
+The authorisation holder must submit a report to the FOEN within 4 months of completion of the experimental release. The FOEN may extend the deadline upon reasonable request. The report shall be publicly accessible and shall encompass, in particular, the following details:
 
 - a. the actual course of the experimental release;
 - b. description of the deviations from the planned course of the experiment and their evaluation in terms of a hazard to human beings, animals or the environment or an impairment of biological diversity and the sustainable use thereof;
 - c. results and conclusions of the monitoring.
 
-<sup>2</sup> The applicant or licence holder must submit to the FOEN as soon as possible the rest of the results and findings of the experiment. If these are published in a scientific organ, a copy of the article must be submitted to the FOEN on its publication.
+<sup>2</sup> The applicant or authorisation holder must submit to the FOEN as soon as possible the rest of the results and findings of the experiment. If these are published in a scientific organ, a copy of the article must be submitted to the FOEN on its publication.
 
 <sup>3</sup> The FOEN shall inform the specialist agencies (Art. 37 para. 1).
 
-### Section 2 Marketing
+### Section 2 Putting Organisms into Circulation
 
 #### Art. 25
 
 **Licensing requirement**[^25-1]
 
-Any person who intends to market the following organisms for use in the environment either for the first time or for a new use shall require a licence from the FOEN:
+Any person who intends to put the following organisms into circulation for use in the environment either for the first time or for a new use shall require authorisation from the FOEN:
 
 - a. genetically modified organisms;
 - b. pathogenic organisms;
@@ -639,7 +642,7 @@ Any person who intends to market the following organisms for use in the environm
 
 **Applicable licensing procedure**
 
-The licence in accordance with Article 25 shall be issued by one of the following authorities, in accordance with the product, as part of the applicable licensing procedure:
+Authorisation in accordance with Article 25 shall be issued by one of the following authorities, in accordance with the product, as part of the applicable licensing procedure:
 
 <table>
 <tr><th>Application</th><th colspan="3">Competent authority</th><th colspan="4">Applicable licensing procedure</th></tr>
@@ -656,15 +659,15 @@ The licence in accordance with Article 25 shall be issued by one of the followin
 <tr><td colspan="2">k. all other uses</td><td colspan="4">FOEN</td><td>Release Ordinance of 10 September 2008</td></tr>
 </table>
 
-[^26-1]: [SR 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588).The reference as been modified as of 1 Jan. 2019 pursuant to Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). The change has been made throughout the text.
+[^26-1]: [SR 812.212.21](https://fedlex.data.admin.ch/eli/cc/2018/588).The reference has been modified as of 1 Jan. 2019 pursuant to Art. 12 para. 2 of the Publications Act of 18 June 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)). The change has been made throughout the text.
 [^26-2]: The name of this administrative unit was changed in application of Art. 16 para. 3 of the Publications Ordinance of 17 Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) on 1 Jan. 2014. The change has been made throughout the text.
 [^26-3]: [[AS 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746); [2006 4909](https://fedlex.data.admin.ch/eli/oc/2006/765); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Annex 4 No 47; [2008 789](https://fedlex.data.admin.ch/eli/oc/2008/195)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Annex 5 No 8 [5167](https://fedlex.data.admin.ch/eli/oc/2008/722)[6025](https://fedlex.data.admin.ch/eli/oc/2008/833); [2009 1611](https://fedlex.data.admin.ch/eli/oc/2009/233); [2010 4611](https://fedlex.data.admin.ch/eli/oc/2010/668); [2011 5273](https://fedlex.data.admin.ch/eli/oc/2011/761)Art. 37 [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)Annex 2 No II 3; [2012 4713](https://fedlex.data.admin.ch/eli/oc/2012/572)[6809](https://fedlex.data.admin.ch/eli/oc/2012/824); [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 7 [3669](https://fedlex.data.admin.ch/eli/oc/2013/684); [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)Annex 3 No II 4 [2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 3; [2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)Annex No II 2; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)Annex No 5. [AS 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)Art. 94para. 1]. See now the O of 16 Dec. 2016 ([SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)).
 [^26-4]: Amended by Annex 5 No 10 of the Containment Ordinance of 9 May 2012, in force since 1 June 2012 ([AS 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
 [^26-5]: [SR 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
 [^26-6]: Amended by Annex No 2 of the O of 17 Nov. 2021, in force since 1 Jan. 2022 ([AS 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 [^26-7]: [SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
-[^26-8]: [SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
-[^26-9]: [[AS 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287)[2748](https://fedlex.data.admin.ch/eli/oc/1999/442)Annex 5 No 6, [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)No II 14, [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653), [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729), [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107)[2695](https://fedlex.data.admin.ch/eli/oc/2005/464)No II 19 [5555](https://fedlex.data.admin.ch/eli/oc/2005/755), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)No IV 70, [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Annex 5 Ziff. 14, [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344), [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [AS 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)Art. 77]. See now: Ordinance of 26 October 2011 ([SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)).
+[^26-8]: [[AS 2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105); [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)Annex No 3, [4793](https://fedlex.data.admin.ch/eli/oc/2003/703)No I 7, [4923](https://fedlex.data.admin.ch/eli/oc/2003/727); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)No II 18; [2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835); [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Annex 5 No 12; [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)Annex No 3; [2011 2403](https://fedlex.data.admin.ch/eli/oc/2011/348), [2699](https://fedlex.data.admin.ch/eli/oc/2011/372)Annex 8 No II 3; [2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724); [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)Annex 6 No 7; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)Annex No 8; [2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681); [2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)Annex No 4; [2021 686](https://fedlex.data.admin.ch/eli/oc/2021/686); [2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)Annex No 2. [AS 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)]. See now: O of 1. Nov. 2023 ([SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)).
+[^26-9]: [[AS 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287)[2748](https://fedlex.data.admin.ch/eli/oc/1999/442)Annex 5 No 6, [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)No II 14, [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653), [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729), [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107)[2695](https://fedlex.data.admin.ch/eli/oc/2005/464)No II 19 [5555](https://fedlex.data.admin.ch/eli/oc/2005/755), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)No IV 70, [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Annex 5 No 14, [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344), [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [AS 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)Art. 77]. See now: O of 26 Oct. 2011 ([SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)).
 [^26-10]: Repealed by Annex No 3 of the O of 23 Nov. 2022, with effect from 1 Jan. 2023 ([AS 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
 [^26-11]: Repealed by Annex 8 No 3 of the Plant Health Ordinance of 31 Oct. 2018, with effect since 1 Jan. 2020 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
 [^26-12]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
@@ -673,21 +676,21 @@ The licence in accordance with Article 25 shall be issued by one of the followin
 
 **Exceptions from the licensing requirement**
 
-A licence is not required for marketing:
+Authorisation is not required for putting the following into circulation:
 
 - a. plant reproductive material in accordance with Article 14*a* of the Seeds Ordinance of 7 December 1998[^27-1];
 - b. animal feedstuffs in accordance with Article 21*b* Feedstuffs Ordinance of 26 May 1999[^27-2];
 - c. foodstuffs, if the requirements of Article 23 of the Foodstuffs and Utility Articles Ordinance of 23 November 2005[^27-3] have been fulfilled.
 
 [^27-1]: [SR 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
-[^27-2]: [[AS 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287); [2748](https://fedlex.data.admin.ch/eli/oc/1999/442)Annex 5 No 6; [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)No II 14; [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653); [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729); [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107); [2695](https://fedlex.data.admin.ch/eli/oc/2005/464)No II 19; [5555](https://fedlex.data.admin.ch/eli/oc/2005/755); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)No IV 70; [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476); [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Annex 5 No 14; [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344); [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [AS 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)Art. 77]. See now: Ordinance of 26 October 2011 ([SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)).
-[^27-3]: [[AS 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746); [2006 4909](https://fedlex.data.admin.ch/eli/oc/2006/765); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Annex 4 No 47; [2008 789](https://fedlex.data.admin.ch/eli/oc/2008/195)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Annex 5 No 8 [5167](https://fedlex.data.admin.ch/eli/oc/2008/722)[6025](https://fedlex.data.admin.ch/eli/oc/2008/833); [2009 1611](https://fedlex.data.admin.ch/eli/oc/2009/233); [2010 4611](https://fedlex.data.admin.ch/eli/oc/2010/668); [2011 5273](https://fedlex.data.admin.ch/eli/oc/2011/761)Art. 37 [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)Annex 2 No II 3; [2012 4713](https://fedlex.data.admin.ch/eli/oc/2012/572)[6809](https://fedlex.data.admin.ch/eli/oc/2012/824); [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 7 [3669](https://fedlex.data.admin.ch/eli/oc/2013/684); [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)Annex 3 No II 4 [2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 3; [2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)Annex No II 2; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)Annex No 5. [AS 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)Art. 94para. 1]. See now the O of 16 Dez. 2016 ([SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)).
+[^27-2]: [[AS 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287); [2748](https://fedlex.data.admin.ch/eli/oc/1999/442)Annex 5 No 6; [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)No II 14; [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653); [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729); [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107); [2695](https://fedlex.data.admin.ch/eli/oc/2005/464)No II 19; [5555](https://fedlex.data.admin.ch/eli/oc/2005/755); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)No IV 70; [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476); [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Annex 5 No 14; [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344); [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [AS 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)Art. 77]. See now: O of 26 Oct. 2011 ([SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)).
+[^27-3]: [[AS 2005 5451](https://fedlex.data.admin.ch/eli/oc/2005/746); [2006 4909](https://fedlex.data.admin.ch/eli/oc/2006/765); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Annex 4 No 47; [2008 789](https://fedlex.data.admin.ch/eli/oc/2008/195)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Annex 5 No 8 [5167](https://fedlex.data.admin.ch/eli/oc/2008/722)[6025](https://fedlex.data.admin.ch/eli/oc/2008/833); [2009 1611](https://fedlex.data.admin.ch/eli/oc/2009/233); [2010 4611](https://fedlex.data.admin.ch/eli/oc/2010/668); [2011 5273](https://fedlex.data.admin.ch/eli/oc/2011/761)Art. 37 [5803](https://fedlex.data.admin.ch/eli/oc/2011/803)Annex 2 No II 3; [2012 4713](https://fedlex.data.admin.ch/eli/oc/2012/572)[6809](https://fedlex.data.admin.ch/eli/oc/2012/824); [2013 3041](https://fedlex.data.admin.ch/eli/oc/2013/594)No I 7 [3669](https://fedlex.data.admin.ch/eli/oc/2013/684); [2014 1691](https://fedlex.data.admin.ch/eli/oc/2014/325)Annex 3 No II 4 [2073](https://fedlex.data.admin.ch/eli/oc/2014/357)Annex 11 No 3; [2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)Annex No II 2; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)Annex No 5. [AS 2017 283](https://fedlex.data.admin.ch/eli/oc/2017/63)Art. 94para. 1]. See now the O of 16 Dec. 2016 ([SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)).
 
 #### Art. 28
 
-**Licence applications for marketing genetically modified organisms**
+**Applications for authorisation to put genetically modified organisms into circulation**
 
-<sup>1</sup> The licence application for placing genetically modified organisms on the market, which must be submitted as part of the applicable licensing procedure in accordance with Article 26, must contain all the required information to prove that the handling of the organisms cannot contravene the requirements of Articles 7–11.
+<sup>1</sup> The application for authorisation to put genetically modified organisms into circulation, which must be submitted as part of the applicable licensing procedure in accordance with Article 26, must contain all the required information to prove that the handling of the organisms cannot contravene the requirements of Articles 7–11.
 
 <sup>2</sup>
 
@@ -695,7 +698,7 @@ The application must contain the following documents, in particular:
 
 - a. a technical dossier with the information in accordance with Annexes IIIA or IIIB and IV of the Directive 2001/18/EC of the European Parliament and of the Council of 12 March 2001[^28-1] on the deliberate release into the environment of genetically modified organisms and repealing Council Directive 90/220/EEC;
 - b. the results of previous experiments using the same organisms concerning hazards to human beings or the environment, or impairments caused to the same, in particular, experiments in contained systems or, possibly, field trials;
-- c. if available, any licences and evaluations from Swiss and foreign authorities for experimental releases and marketing of the same organisms;
+- c. if available, any authorisations and evaluations from Swiss and foreign authorities for the experimental release and putting into circulation of the same organisms;
 - d. a risk determination and assessment in accordance with Annex 4;
 - e.
 
@@ -717,9 +720,9 @@ The application must contain the following documents, in particular:
 
 #### Art. 29
 
-**Licence applications for marketing pathogenic organisms**
+**Applications for authorisation to put pathogenic organisms into circulation**
 
-<sup>1</sup> The licence application for placing pathogenic organisms on the market, which must be submitted as part of the applicable licensing procedure in accordance with Article 26, must contain all the required information to prove that the handling of the organisms cannot contravene the requirements of Articles 12–14.
+<sup>1</sup> The application for authorisation to put pathogenic organisms into circulation, which must be submitted as part of the applicable licensing procedure in accordance with Article 26, must contain all the required information to prove that the handling of the organisms cannot contravene the requirements of Articles 12–14.
 
 <sup>2</sup>
 
@@ -727,7 +730,7 @@ The application must contain the following documents, in particular:
 
 - a. a technical dossier with the information in accordance with Annex 3.2;
 - b. the results of previous experiments using the same organisms concerning hazards to human beings or the environment, or impairments caused to the same, in particular, experiments in contained systems or field trials;
-- c. if available, any licences and evaluations from Swiss and foreign authorities for experimental releases and marketing of the same organisms;
+- c. if available, any authorisations and evaluations from Swiss and foreign authorities for the experimental release and putting into circulation of the same organisms;
 - d. a risk determination and assessment in accordance with Annex 4;
 - e.
 
@@ -747,9 +750,9 @@ The application must contain the following documents, in particular:
 
 #### Art. 30
 
-**Licence applications for marketing alien small invertebrates**
+**Applications for authorisation to put alien small invertebrates into circulation**
 
-<sup>1</sup> The licence application for placing alien small invertebrates on the market, which must be submitted as part of the applicable licensing procedure in accordance with Article 26, must contain all the required information to prove that the handling of the organisms cannot contravene the requirements of Articles 15 and 16.
+<sup>1</sup> The application for authorisation to put alien small invertebrates into circulation, which must be submitted as part of the applicable licensing procedure in accordance with Article 26, must contain all the required information to prove that the handling of the organisms cannot contravene the requirements of Articles 15 and 16.
 
 <sup>2</sup>
 
@@ -757,7 +760,7 @@ The application must contain the following documents, in particular:
 
 - a. a technical dossier with the information in accordance with Annex 3.4;
 - b. the results of previous experiments using the same organisms concerning hazards to human beings or the environment, or impairments caused to the same, in particular, experiments in contained systems or, possibly, field trials;
-- c. if available, any licences and evaluations from Swiss and foreign authorities for experimental releases and marketing of the same organisms;
+- c. if available, any authorisations and evaluations from Swiss and foreign authorities for the experimental release and putting into circulation of the same organisms;
 - d. a risk determination and assessment in accordance with Annex 4;
 - e.
 
@@ -778,9 +781,9 @@ The application must contain the following documents, in particular:
 
 **New findings**
 
-<sup>1</sup> The applicant or the licence holder must inform the licensing authority without delay of new findings or observations that might require a reassessment of the risk.
+<sup>1</sup> The applicant or the authorisation holder must inform the licensing authority without delay of new findings or observations that might require a reassessment of the risk.
 
-<sup>2</sup> At the same time, the licence holder must examine the measures given in the licence and, if adherence to any of the requirements of Articles 7–9, 12 and 13 or 15 and 16 is directly and seriously endangered, take the additional measures required.
+<sup>2</sup> At the same time, the authorisation holder must examine the measures given in the authorisation and, if adherence to any of the requirements of Articles 7–9, 12 and 13 or 15 and 16 is directly and seriously endangered, take the additional measures required.
 
 <sup>3</sup> The FOEN shall inform the specialist agencies (Art. 43 para. 1).
 
@@ -790,7 +793,7 @@ The application must contain the following documents, in particular:
 
 <sup>1</sup>
 
-Any person who releases directly in the environment genetically modified organisms that are authorised for marketing must notify the FOEN by two weeks after the release at the latest of:
+Any person who releases directly in the environment genetically modified organisms that are authorised for being put into circulation must notify the FOEN by two weeks after the release at the latest of:
 
 - a. his or her name and address;
 - b. the unique identifier of the genetically modified organisms, in accordance with the Annex to the Commission Regulation (EC) No 65/2004 of 14 January 2004[^32-1] establishing a system for the development and assignment of unique identifiers for genetically modified organisms, or, if this is lacking, the identity of the organisms, giving the essential characteristics;
@@ -808,15 +811,15 @@ Any person who releases directly in the environment genetically modified organis
 
 **Residence, business premises**
 
-<sup>1</sup> Any person who applies to release organisms for experimental purposes or to place them on the market must have a residence or business premises in Switzerland.
+<sup>1</sup> Any person who applies to release organisms for experimental purposes or to put them into circulation must have a residence or business premises in Switzerland.
 
-<sup>2</sup> In relation to the placing on the market of foodstuffs, the provisions of the legislation on foodstuffs are reserved.
+<sup>2</sup> In relation to putting foodstuffs into circulation, the provisions of the legislation on foodstuffs are reserved.
 
 #### Art. 34
 
 **Number of copies of application**
 
-<sup>1</sup> The licence application should be submitted in the required number of copies. For experimental releases, the application should also be submitted in the official language of the local community where the experimental release will take place.
+<sup>1</sup> The application for authorisation should be submitted in the required number of copies. For experimental releases, the application should also be submitted in the official language of the local community where the experimental release will take place.
 
 <sup>2</sup> Further copies in the required number should be submitted for public information purposes; these must contain at least the details in accordance with Article 54 paragraph 4.
 
@@ -824,9 +827,9 @@ Any person who releases directly in the environment genetically modified organis
 
 **Legal succession**
 
-<sup>1</sup> The legal successor of the holder of a licence for experimental releases or marketing in accordance with Article 26 letters c and k, must request transfer of the licence from the FOEN.
+<sup>1</sup> The legal successor of the holder of authorisation for experimental release or putting into circulation in accordance with Article 26 letters c and k must request transfer of authorisation from the FOEN.
 
-<sup>2</sup> The licence shall be transferred once the conditions for the licence have been fulfilled.
+<sup>2</sup> Authorisation shall be transferred once the conditions for authorisation have been fulfilled.
 
 ## Chapter 4 Responsibilities of the Authorities
 
@@ -875,7 +878,7 @@ The FOEN shall examine the application. Concomitantly with announcement of the r
 
 #### Art. 38
 
-**Issue of a licence**
+**Issue of authorisation**
 
 <sup>1</sup>
 
@@ -895,11 +898,11 @@ The FOEN shall authorise the experimental release, taking into consideration the
 
 <sup>2</sup>
 
-The FOEN shall make the licence subject to conditions and stipulations necessary for protecting human beings, the environment, biological diversity and the sustainable use thereof. It may in particular:
+The FOEN shall make authorisation subject to conditions and stipulations necessary for protecting human beings, the environment, biological diversity and the sustainable use thereof. It may in particular:
 
 - a. demand that the site of the experimental release be marked, fenced in or specially secured;
-- b. order that, in addition to the monitoring plan (Art. 19 para. 2 letter e, 20 para. 2 letter e, or 21 para. 2 letter e), the site of the experimental release and surroundings be kept under observation during and after the experimental release, and that samples be taken and tested, all at the expense of the applicant;
-- c. order that the carrying out of and monitoring of the experimental release be inspected by a support group (Art. 41 para. 2) at the applicant’s expense;
+- b. order that, in addition to the monitoring plan (Art. 19 para. 2 let. e, 20 para. 2 let. e, or 21 para. 2 let. e), the site of the experimental release and surroundings be kept under observation during and after the experimental release, and that samples be taken and tested, all at the expense of the applicant;
+- c. order that the carrying out of and monitoring of the experimental release be inspected by a supervisory group (Art. 41 para. 2) at the applicant’s expense;
 - d. demand interim reports;
 - e. demand that the samples, detection methods and materials required for monitoring be made available free of charge.
 
@@ -922,13 +925,13 @@ It may in particular:
 
 **New findings**
 
-<sup>1</sup> If any of the specialist agencies involved in the procedure (Art. 37 para. 1) comes into possession of new findings on the risks posed by the experimental release after issue of the licence, it shall inform the FOEN.
+<sup>1</sup> If any of the specialist agencies involved in the procedure (Art. 37 para. 1) comes into possession of new findings on the risks posed by the experimental release after issue of authorisation, it shall inform the FOEN.
 
 <sup>2</sup>
 
 In the case of information in accordance with paragraph 1 and Article 23, the FOEN shall, with the consent of the federal agencies involved in the procedure, prescribe appropriate measures. In particular, it may require that:
 
-- a. the risk determination and assessment (Art. 19 para. 2 letter d, 20 para. 2 letter d, or 21 para. 2 letter d) be carried out again;
+- a. the risk determination and assessment (Art. 19 para. 2 let. d, 20 para. 2 let. d, or 21 para. 2 let. d) be carried out again;
 - b. the conditions of the experimental release be changed;
 - c. the experimental release be interrupted or if necessary terminated and, as far as possible, the original conditions restored.
 
@@ -942,17 +945,17 @@ In the case of information in accordance with paragraph 1 and Article 23, the FO
 
 <sup>2</sup>
 
-For this purpose, it may appoint a support group with representatives, in particular, of the canton in which the experimental release is taking place. The support group:
+For this purpose, it may appoint a supervisory group with representatives, in particular, of the canton in which the experimental release is taking place. The supervisory group:
 
-- a. shall monitor the carrying out of the experimental release by spot checks at the site and examine, in particular, adherence to the conditions and stipulations associated with the licence; in particular it shall have unannounced access to the site of the experimental release, it may take samples, and it may view all documents;
-- b. shall inform the FOEN without delay about deviations from the conditions and stipulations associated with the licence or about other observations and findings relevant to safety;
+- a. shall monitor the carrying out of the experimental release by spot checks at the site and examine, in particular, adherence to the conditions and stipulations associated with authorisation; in particular it shall have unannounced access to the site of the experimental release, it may take samples, and it may view all documents;
+- b. shall inform the FOEN without delay about deviations from the conditions and stipulations associated with authorisation or about other observations and findings relevant to safety;
 - c. may, with the agreement of the FOEN, provide public information about its mandate and planned procedure;
 - d. shall keep records of its activities as well as its observations and findings;
 - e. shall, after conclusion of the experiment, draw up a report of the results of the monitoring and transmit it to the FOEN.
 
 <sup>3</sup> The FOEN shall inform the specialist agencies and the applicant of the monitoring results.
 
-### Section 2 Marketing
+### Section 2 Putting Organisms into Circulation
 
 #### Art. 42
 
@@ -986,14 +989,14 @@ The licensing authority in accordance with Article 26 shall examine the applicat
 
 #### Art. 44
 
-**Issue of a licence**
+**Authorisation**
 
 <sup>1</sup>
 
-The licensing authority shall authorise marketing, taking into consideration the statements received from the parties and the specialist agencies, if the assessment of the application leads to the conclusion that:
+The licensing authority shall authorise putting the organisms into circulation, taking into consideration the statements received from the parties and the specialist agencies, if the assessment of the application leads to the conclusion that:
 
 - a. the requirements of the applicable licensing procedure have been fulfilled;
-- b. marketing cannot endanger human beings, animals and the environment or harm biological diversity and the sustainable use thereof (Art. 7 and 8, 12 and 13, or 15 and 16);
+- b. putting the organisms into circulation cannot endanger human beings, animals and the environment or harm biological diversity and the sustainable use thereof (Art. 7 and 8, 12 and 13, or 15 and 16);
 - c.
 
   in the case of genetically modified organisms, additionally:
@@ -1001,17 +1004,17 @@ The licensing authority shall authorise marketing, taking into consideration the
   - 1\. production that does not use genetically modified organisms (Art. 9) and consumers’ freedom of choice are not impaired,
   - 2\. the assessment of the application, in particular based on the evaluation of interests in accordance with Article 8 GTA, leads to the conclusion that the genetic modification has not failed to respect the dignity of living beings in the animals or plants used;
 
-- d. marketing is permissible under the laws enforced by the FOPH and FOEN, and if applicable the FSVO and FOAG, and these offices therefore approve marketing;
+- d. putting the organisms into circulation is permissible under the laws enforced by the FOPH and FOEN, and if applicable the FSVO and FOAG, and these offices therefore approve putting the organisms into circulation;
 - e.[^44-1] in respect of organisms that are used genetic resources or whose development is based on used genetic resources or on traditional knowledge based thereon, the duty to register in terms of Article 4 or 8 paragraph 3 of the Nagoya Ordinance of 11 December 2015[^44-2] has been complied with.
 
 <sup>2</sup>
 
-The licensing authority may make the licence subject to conditions, and may in particular:
+The licensing authority may make authorisation subject to conditions, and may in particular:
 
 - a. limit the use of the organisms or permit the use only under certain conditions;
 - b. demand, at the applicant’s expense, further investigations in addition to the monitoring plan (Art. 28 para. 2 letter e 29 para. 2 letter e and 30 para. 2 letter e) to identify possible delayed consequences for human beings, animals or the environment, for biological diversity and the sustainable use thereof, or for the protection of production that does not use genetically modified organisms; and the production of a report.
 
-<sup>3</sup> A licence is valid for up to 10 years. It may be extended for a further 10 years maximum if the competent authority and the specialist agencies, taking into account possible new findings, conclude that the conditions given in paragraph 1 continue to be met.
+<sup>3</sup> Authorisation is valid for up to 10 years. It may be extended for a further 10 years maximum if the competent authority and the specialist agencies, taking into account possible new findings, conclude that the conditions given in paragraph 1 continue to be met.
 
 [^44-1]: Inserted by Annex No 4 of the Nagoya Ordinance of 11 Dec. 2015, in force since 1 Feb. 2016 ([AS 2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)).
 [^44-2]: [SR 451.61](https://fedlex.data.admin.ch/eli/cc/2016/39)
@@ -1020,33 +1023,33 @@ The licensing authority may make the licence subject to conditions, and may in p
 
 **New findings**
 
-<sup>1</sup> If one of the specialist agencies involved in the procedure comes into possession of new findings about the risks posed by the marketing, it shall inform the licensing authority.
+<sup>1</sup> If one of the specialist agencies involved in the procedure comes into possession of new findings about the risks posed by the putting the organisms into circulation, it shall inform the licensing authority.
 
 <sup>2</sup>
 
-The specialist agencies whose agreement is necessary for the issue of a licence may demand that the licensing authority, in particular:
+The specialist agencies whose agreement is necessary for the issue of authorisation may demand that the licensing authority, in particular:
 
-- a. change the conditions imposed for the marketing;
-- b. if necessary, prohibit the marketing temporarily or indefinitely;
-- c. in serious cases, order the return of organisms placed on the market.
+- a. change the conditions imposed for the putting the organisms into circulation;
+- b. if necessary, prohibit putting the organisms into circulation temporarily or indefinitely;
+- c. in serious cases, order the return of organisms put into circulation.
 
-<sup>3</sup> If the licensing authority comes into possession of such new findings or if such new findings are reported by the applicant or licence holder (Art. 31), it shall order the necessary measures after consulting the SECB and the ECNH, and with the agreement of the federal agencies involved in the procedure. No consultation is required for precautionary measures if the risk is imminent. The licensing authority shall inform without delay the specialist agencies about the new findings and the measures taken.
+<sup>3</sup> If the licensing authority comes into possession of such new findings or if such new findings are reported by the applicant or authorisation holder (Art. 31), it shall order the necessary measures after consulting the SECB and the ECNH, and with the agreement of the federal agencies involved in the procedure. No consultation is required for precautionary measures if the risk is imminent. The licensing authority shall inform without delay the specialist agencies about the new findings and the measures taken.
 
 #### Art. 46
 
 **Monitoring of self-supervision**
 
-<sup>1</sup> For organisms that may be marketed without a licence, the FOEN may demand evidence from the distributor that he or she is exercising self-supervision, together with documentation, if there is reason to believe that organisms placed on the market could endanger human beings, animals or the environment, or could harm biological diversity or the sustainable use thereof. It shall give the distributor sufficient time to respond. The FOEN shall consult further federal agencies as required.
+<sup>1</sup> For organisms that may be put into circulation without authorisation, the FOEN may demand evidence from the distributor that he or she is exercising self-supervision, together with documentation, if there is reason to believe that organisms put into circulation could endanger human beings, animals or the environment, or could harm biological diversity or the sustainable use thereof. It shall give the distributor sufficient time to respond. The FOEN shall consult further federal agencies as required.
 
 <sup>2</sup>
 
 The FOEN may:
 
-- a. demand that the person marketing the organisms repeat the self-supervision within a certain period and, if necessary, supplement or amend it;
+- a. demand that the person responsible for putting the organisms into circulation repeat the self-supervision within a certain period and, if necessary, supplement or amend it;
 - b. prescribe the form and the content of the information supplied to recipients, in particular the details of the organisms’ properties and the recommendations and instructions for their handling in the environment;
-- c. demand that the person marketing the organisms remove inappropriate or misleading labelling or information.
+- c. demand that the person responsible for putting the organisms into circulation remove inappropriate or misleading labelling or information.
 
-<sup>3</sup> If the distributor does not comply with the demands within the deadline set, the FOEN may then prohibit marketing of the organisms in question.
+<sup>3</sup> If the distributor does not comply with the demands within the deadline set, the FOEN may then prohibit putting the organisms in question into circulation.
 
 <sup>4</sup> The FOEN shall inform the cantons of the measures prescribed.
 
@@ -1079,9 +1082,9 @@ Subsequent monitoring (supervising the market) shall be carried out:
 [^47-2]: [[AS 1995 1469](https://fedlex.data.admin.ch/eli/oc/1995/1469_1469_1469); [1996 1725](https://fedlex.data.admin.ch/eli/oc/1996/1725_1725_1725)Annex No 3; [1998 3033](https://fedlex.data.admin.ch/eli/oc/1998/3033_3033_3033)Annex No 5; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Annex No 5; [2002 775](https://fedlex.data.admin.ch/eli/oc/2002/143); [2003 4803](https://fedlex.data.admin.ch/eli/oc/2003/705)Annex No 6; [2005 971](https://fedlex.data.admin.ch/eli/oc/2005/106); [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 94 [2363](https://fedlex.data.admin.ch/eli/oc/2006/364)No II; [2008 785](https://fedlex.data.admin.ch/eli/oc/2008/194); [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)No I 2.8; [2013 3095](https://fedlex.data.admin.ch/eli/oc/2013/600)Annex 1 No 3. [AS 2017 249](https://fedlex.data.admin.ch/eli/oc/2017/62)Annex No I]. See now: the FA of 20 June 2014 ([SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)).
 [^47-3]: [SR 921.01](https://fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538)
 [^47-4]: [SR 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
-[^47-5]: [[AS 2005 3035](https://fedlex.data.admin.ch/eli/oc/2005/481); [4097](https://fedlex.data.admin.ch/eli/oc/2005/541); [5211](https://fedlex.data.admin.ch/eli/oc/2005/719); [2006 4851](https://fedlex.data.admin.ch/eli/oc/2006/750); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152)No III; [1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Annex 4 No 54; [1843](https://fedlex.data.admin.ch/eli/oc/2007/268)[4541](https://fedlex.data.admin.ch/eli/oc/2007/641); [6291](https://fedlex.data.admin.ch/eli/oc/2007/834); [2008 2155](https://fedlex.data.admin.ch/eli/oc/2008/310); [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Annex 5 No 11; [5271](https://fedlex.data.admin.ch/eli/oc/2008/742); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)Annex No 3; [2845](https://fedlex.data.admin.ch/eli/oc/2009/373); [2010 2101](https://fedlex.data.admin.ch/eli/oc/2010/278); [3845](https://fedlex.data.admin.ch/eli/oc/2010/551). [AS 2010 2331](https://fedlex.data.admin.ch/eli/oc/2010/340)Art. 84]. See now: Ordinance of 12 May 2010 ([SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)).
+[^47-5]: [[AS 2005 3035](https://fedlex.data.admin.ch/eli/oc/2005/481); [4097](https://fedlex.data.admin.ch/eli/oc/2005/541); [5211](https://fedlex.data.admin.ch/eli/oc/2005/719); [2006 4851](https://fedlex.data.admin.ch/eli/oc/2006/750); [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152)No III; [1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Annex 4 No 54; [1843](https://fedlex.data.admin.ch/eli/oc/2007/268)[4541](https://fedlex.data.admin.ch/eli/oc/2007/641); [6291](https://fedlex.data.admin.ch/eli/oc/2007/834); [2008 2155](https://fedlex.data.admin.ch/eli/oc/2008/310); [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Annex 5 No 11; [5271](https://fedlex.data.admin.ch/eli/oc/2008/742); [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)Annex No 3; [2845](https://fedlex.data.admin.ch/eli/oc/2009/373); [2010 2101](https://fedlex.data.admin.ch/eli/oc/2010/278); [3845](https://fedlex.data.admin.ch/eli/oc/2010/551). [AS 2010 2331](https://fedlex.data.admin.ch/eli/oc/2010/340)Art. 84]. See now: O of 12 May 2010 ([SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)).
 [^47-6]: [SR 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
-[^47-7]: [[AS 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287); [2748](https://fedlex.data.admin.ch/eli/oc/1999/442)Annex 5 No 6; [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)No II 14; [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653); [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729); [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107); [2695](https://fedlex.data.admin.ch/eli/oc/2005/464)No II 19; [5555](https://fedlex.data.admin.ch/eli/oc/2005/755); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)No IV 70; [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476); [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Annex 5 No 14; [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344); [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [AS 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)Art. 77]. See now: Ordinance of 26 October 2011 ([SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)).
+[^47-7]: [[AS 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287); [2748](https://fedlex.data.admin.ch/eli/oc/1999/442)Annex 5 No 6; [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)No II 14; [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653); [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729); [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107); [2695](https://fedlex.data.admin.ch/eli/oc/2005/464)No II 19; [5555](https://fedlex.data.admin.ch/eli/oc/2005/755); [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)No IV 70; [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476); [4377](https://fedlex.data.admin.ch/eli/oc/2008/614)Annex 5 No 14; [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344); [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [AS 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)Art. 77]. See now: O of 26 Oct. 2011 ([SR 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)).
 [^47-8]: Repealed by Annex 8 No 3 of the Plant Health Ordinance of 31 Oct. 2018, with effect from 1 Jan. 2020 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
 [^47-9]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
 
@@ -1089,26 +1092,41 @@ Subsequent monitoring (supervising the market) shall be carried out:
 
 **Subsequent monitoring (supervising the market) in accordance with this Ordinance**
 
-<sup>1</sup> The cantons are responsible for subsequent monitoring (supervising the market) of organisms placed on the market which are not subject to the controls stipulated by Article 47.
+<sup>1</sup> The cantons are responsible for subsequent monitoring (supervising the market) of organisms put into circulation which are not subject to the controls stipulated by Article 47.
 
 <sup>2</sup>
 
 The cantonal authorities shall monitor by spot checks or at the request of the FOEN, in particular, whether:
 
 - a. the regulations regarding the informing of recipients (Art. 5) are being observed;
-- b. the marketing of genetically modified or pathogenic organisms has been authorised;
+- b. the putting of genetically modified or pathogenic organisms into circulation has been authorised;
 - c. the handling of particular organisms is not prohibited;
-- d. the conditions and stipulations linked to the issue of the marketing licence are being observed;
+- c<sup>bis</sup>.[^48-1] the putting of specific organisms into circulation is not prohibited;
+- d. the conditions and stipulations linked to the authorisation for putting the organisms into circulation are being observed;
 - e. genetically modified organisms are correctly labelled (Art. 10);
 - f. the measures prescribed by the FOEN in accordance with paragraph 4 are being implemented.
 
 <sup>3</sup> If the monitoring shows that the provisions of paragraph 2 letters b-f are being contravened, the canton in which the distributor is resident or has business premises shall prescribe the necessary measures and inform the FOEN and the other cantons.
 
-<sup>4</sup> If the monitoring shows that provisions of this Ordinance concerning marketing are being contravened, the canton shall inform the FOEN. The FOEN shall conduct the necessary investigations, and prescribe the necessary measures. If the organisms in question may be placed on the market without a licence, Article 46 applies.
+<sup>4</sup> If the monitoring shows that provisions of this Ordinance on putting organisms into circulation are being contravened, the canton shall inform the FOEN. The FOEN shall conduct the necessary investigations, and prescribe the necessary measures. If the organisms in question may be put into circulation without authorisation, Article 46 applies.
 
 <sup>5</sup> The samples, detection methods and materials required for monitoring shall be made available to the competent authorities.
 
 <sup>6</sup> If the monitoring shows that requirements in this Ordinance are being contravened, the persons responsible shall pay the costs of the monitoring. The monitoring authorities shall issue an invoice directly to these persons.
+
+[^48-1]: Inserted by No I of the O of 1 March 2024, in force since 1 Sept. 2024 ([AS 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
+
+#### Art. 48a
+
+**Enforcement by the Federal Office for Customs and Border Security in relation to prohibited invasive alien organisms**[^48a-1]
+
+<sup>1</sup> The Federal Office for Customs and Border Security (FOCBS) shall monitor whether the import of organisms complies with the obligations in Article 15 paragraphs 2 and 2<sup>bis</sup>; to this end it shall in consultation with the FOEN conduct physical checks for limited periods of time.
+
+<sup>2</sup> If it detects or suspects an offence, the FOCBS may seize the goods temporarily; it shall inform the FOEN, which shall decide on how to proceed. If the FOEN orders the forfeiture of the goods, the FOCBS shall advise the person required to declare the goods that the goods may be disposed of at their current location rather than being forfeited.
+
+<sup>3</sup> The FOCBS shall provide the FOEN with the data required to enforce Article 15 paragraphs 2 and 2<sup>bis</sup>.
+
+[^48a-1]: Inserted by No I of the O of 1 March 2024, in force since 1 Sept. 2024 ([AS 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
 
 ### Section 3 Monitoring the Duty of Care
 
@@ -1176,12 +1194,12 @@ If the analysis of the data and observations produces indications of damage or i
 
 <sup>1</sup>
 
-If scientific investigations lead to the conclusion that it may be assumed with sufficient probability that there is a causal connection between damage to human beings, animals or the environment or impairments of biological diversity and the sustainable use thereof and the presence of pathogenic, alien or genetically modified organisms or their transgenic material, the licence holder shall bear the costs:
+If scientific investigations lead to the conclusion that it may be assumed with sufficient probability that there is a causal connection between damage to human beings, animals or the environment or impairments of biological diversity and the sustainable use thereof and the presence of pathogenic, alien or genetically modified organisms or their transgenic material, the authorisation holder shall bear the costs:
 
 - a. of determining the damage, the impairment and the causal connection;
 - b. of the prevention and remediation of the damage and the impairment.
 
-<sup>2</sup> The costs in accordance with paragraph 1 shall also be borne by persons who carry out experimental releases that are not subject to a licence or who place organisms not subject to a licence on the market, if it can be shown with sufficient probability that they have caused the damage.
+<sup>2</sup> The costs in accordance with paragraph 1 shall also be borne by persons who carry out experimental releases that are not subject to authorisation or who put organisms not subject to authorisation into circulation, if it can be shown with sufficient probability that they have caused the damage.
 
 ### Section 5 Accessibility of Information
 
@@ -1199,11 +1217,11 @@ If scientific investigations lead to the conclusion that it may be assumed with 
 
 The following information shall in every case be made public:
 
-- a. the names and addresses of those responsible for the experimental release or the marketing;
+- a. the names and addresses of those responsible for the experimental release or for putting the organisms into circulation;
 - b. a general description of the organisms and their properties;
-- c. the aim of the experimental release or the use of the organisms to be placed on the market;
+- c. the aim of the experimental release or the use of the organisms being put into circulation;
 - d. the site of the experimental release;
-- e. the site where genetically modified organisms authorised for marketing are directly released (Art. 32 para. 1 letter c);
+- e. the site where genetically modified organisms authorised for being put into circulation are directly released (Art. 32 para. 1 letter c);
 - f. methods and plans for monitoring the genetically modified or pathogenic organisms in the environment and emergency measures;
 - g. a summary of the risk determination and assessment in accordance with Annex 4;
 - h. the report in accordance with Article 24 paragraph 1, in which the FOEN has determined correctness and completeness.
@@ -1229,9 +1247,9 @@ Any person submitting documents to the authorities must:
 
 <sup>1</sup> The FOEN shall maintain a register of all authorised experimental releases. The register shall record whether, when, where, by whom and with what an experimental release was carried out.
 
-<sup>2</sup> It shall also maintain a register of genetically modified organisms authorised for marketing. The federal and cantonal authorities responsible for enforcing this Ordinance shall provide the necessary information.
+<sup>2</sup> It shall also maintain a register of genetically modified organisms authorised for being put into circulation. The federal and cantonal authorities responsible for enforcing this Ordinance shall provide the necessary information.
 
-<sup>3</sup> It shall maintain a register of genetically modified organisms authorised for marketing that are released directly (Art. 32); the register shall record what, when, where and for what purpose the release was carried out.
+<sup>3</sup> It shall maintain a register of genetically modified organisms authorised for being put into circulation that are released directly (Art. 32); the register shall record what, when, where and for what purpose the release was carried out.
 
 <sup>4</sup> The registers shall contain no confidential information and shall be publicly accessible via automated information and communication services. They may be published in full or in part.
 
@@ -1258,9 +1276,11 @@ Any person submitting documents to the authorities must:
 
 #### Art. 59
 
-**Modification of the lists in Annex2**
+**Modification of the lists in Annexes2.1 and 2.2**[^59-1]
 
-DETEC shall modify the lists in Annex 2 after consulting the federal agencies concerned and the stakeholders if it comes into possession of new findings about the invasiveness of alien organisms.
+The DETEC shall modify the lists in Annex 2.1 and 2.2 after consulting the federal agencies concerned, the cantons and other stakeholders concerned if it comes into possession of new findings about the invasiveness of alien organisms.
+
+[^59-1]: Amended by No I of the O of 1 March 2024, in force since 1 Sept. 2024 ([AS 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
 
 ## Chapter 5 Final Provisions
 
@@ -1294,7 +1314,7 @@ Annex 1
 
 (Art. 3 letter d)
 
-## Definition of Gene Technology Methods
+## Definition of gene technology methods
 
 <sup>1</sup> Gene technology methods means, in particular:
 
@@ -1313,49 +1333,103 @@ Annex 1
 - e. natural processes such as conjugation, transduction and transformation;
 - f. changes in ploidy level, including aneuploidy and the elimination of chromosomes.
 
-Annex 2
+Annex 2.1[^t-1]
 
 (Art. 15 para. 2)
 
-## Prohibited Invasive Alien Organisms
+## Invasive alien organisms whose direct handling in the environment is prohibited
 
-### 1 Plants
+[^t-1]: Originally: Annex 2. Revised by No II para. 1 of the O of 1 March 2024, in force since 1 Sept. 2024 ([AS 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
+
+### 1 Plant
 
 <table>
-<tr><th>Scientific name</th><th>Deutscher Name</th><th>English name</th><th>Nom français</th><th>Nome italiano</th></tr>
-<tr><td>Ambrosia artemisiifolia</td><td>Aufrechte Ambrosie, Beifussblättriges Traubenkraut</td><td>Common ragweed, Roman ragweed</td><td>Ambroisie à feuilles d’armoise, Ambroisie élevée</td><td>Ambrosia con foglie di artemisia</td></tr>
-<tr><td>Crassula helmsii</td><td>Nadelkraut</td><td>Cockayne, New Zealand pigmyweed, Australian swamp stonecrop</td><td>Orpin de Helms</td><td>Erba grassa di Helms</td></tr>
-<tr><td>Elodea nuttallii</td><td>Nuttalls Wasserpest</td><td>Planch St John, Nuttall’s waterweed</td><td>Elodée de Nuttall</td><td>Peste d’acqua di Nuttall</td></tr>
-<tr><td>Heracleum mantegazzianum</td><td>Riesenbärenklau</td><td>Giant hogweed, Giant cow parsnip</td><td>Berce du Caucase, Berce de Mantegazzi</td><td>Panace di Mantegazzi</td></tr>
-<tr><td>Hydrocotyle ranunculoides</td><td>Grosser Wassernabel</td><td>Floating marshpennywort, Water pennywort</td><td>Hydrocotyle fausse-renoncule</td><td>Soldinella reniforme</td></tr>
-<tr><td>Impatiens glandulifera</td><td>Drüsiges Springkraut</td><td>Himalayan balsam, ornamental jewelweed, Policeman’s helmet, Indian touch-me-not</td><td>Impatiente glanduleuse</td><td>Balsamina ghiandalosa</td></tr>
-<tr><td>Ludwigia spp. (L. grandiflora, L. peploides)</td><td>Südamerikanische Heusenkräuter</td><td>South American water primroses</td><td>Jussies sudaméricaines</td><td>Porracchie sudamericane</td></tr>
-<tr><td>Reynoutria spp. (Fallopia spp., Polygonum polystachyum, P. cuspidatum)</td><td>Asiatische Staudenknöteriche inkl. Hybride</td><td>Asian knotweeds incl. hybrids</td><td>Renouées asiatiques, hybrides incl.</td><td>Poligono asiatici, incl. ibridi</td></tr>
-<tr><td>Rhus typhina</td><td>Essigbaum</td><td>Staghorn sumac</td><td>Sumac</td><td>Sommacco maggiore</td></tr>
-<tr><td>Senecio inaequidens</td><td>Schmalblättriges Greiskraut</td><td>Narrow-leaved ragwort</td><td>Séneçon du Cap</td><td>Senecione sudafricano</td></tr>
-<tr><td>Solidago spp. (S.canadensis, S. gigantea, S. nemoralis; ohne S. virgaurea)</td><td>Amerikanische Goldruten inkl. Hybride</td><td>American goldenrod incl. hybrids</td><td>Solidages américains, Verges d’or américaines, hybrides incl.</td><td>Verge d’oro americane, incl. ibridi</td></tr>
+<tr><th>Scientific name</th><th>English name</th><th>German name</th><th>French name</th><th>Italian name</th></tr>
+<tr><td>*Ailanthus altissima*</td><td>Ailanthus, tree of heaven</td><td>Götterbaum</td><td>Ailante</td><td>Ailanto</td></tr>
+<tr><td>*Ambrosia spp.* *(A. artemisiifolia,* *A. confertiflora*, *A. psilostachya, A. trifida*)</td><td>Common ragweed, Roman ragweed</td><td>Ambrosien, Traubenkräuter</td><td>Ambroisies</td><td>Ambrosie</td></tr>
+<tr><td>*Asclepias syriaca*</td><td>Common milkweed</td><td>Syrische Seidenpflanze</td><td>Asclépiade de Syrie</td><td>Albero della seta</td></tr>
+<tr><td>*Cabomba* *caroliniana*</td><td>Carolina fanwort</td><td>Karolina-Haarnixe</td><td>Cabomba, Evantail de Caroline</td><td>Cabomba della Carolina</td></tr>
+<tr><td>*Celastrus* *orbiculatus*</td><td>Oriental bittersweet</td><td>Rundblättriger Baumwürger</td><td>Bourreau des arbres asiatique</td><td>Celastro</td></tr>
+<tr><td>*Crassula helmsii*</td><td>Cockayne, New Zealand pigmyweed, Australian swamp stonecrop</td><td>Nadelkraut</td><td>Orpin de Helms</td><td>Erba grassa di Helms</td></tr>
+<tr><td>*Elodea spp.* *(E. candensis,* *E. densa, E. nuttalli)*</td><td>Planch St John, Nuttall’s waterweed</td><td>Wasserpest</td><td>Elodée</td><td>Peste d’acqua</td></tr>
+<tr><td>*Heracleum* *mantegazzianum*</td><td>Giant hogweed, Giant cow parsnip</td><td>Riesenbärenklau</td><td>Berce du Caucase, Berce de Mantegazzi</td><td>Panace di Mantegazzi</td></tr>
+<tr><td>*Humulus japonicus*</td><td>Japanese hop</td><td>Japanischer Hopfen</td><td>Houblon du Japon</td><td>Luppolo giapponese</td></tr>
+<tr><td>*Hydrocotyle* *ranunculoides*</td><td>Floating marshpennywort, Water pennywort</td><td>Grosser Wassernabel</td><td>Hydrocotyle fausse-renoncule</td><td>Soldinella reniforme</td></tr>
+<tr><td>*Impatiens* *glandulifera*</td><td>Himalayan balsam, ornamental jewelweed, Policeman’s helmet, Indian touch-me-not</td><td>Drüsiges Springkraut</td><td>Impatiente glanduleuse</td><td>Balsamina ghiandalosa</td></tr>
+<tr><td>*Lagarosiphon major*</td><td>Curly waterweed, African elodea</td><td>Schmalrohr</td><td>Grand lagarosiphon</td><td>Peste d’acqua arcuata</td></tr>
+<tr><td>*Ludwigia spp. (L. grandiflora, L. peploides,* *L. x kentiana)*</td><td>Floating primrose willow, South American water primroses</td><td>Südamerikanische Heusenkräuter inkl. Hybride</td><td>Jussies sudaméricaines hybrides incl.</td><td>Porracchie sudamericane incl. ibridi</td></tr>
+<tr><td>*Myriophyllum* spp. (*M. aquaticum,* *M. heterophyllum,* *ausser* *einheimische Arten)*</td><td>Water milfoil</td><td>Tausendblätter</td><td>Myriophylles</td><td>Miriofilli</td></tr>
+<tr><td>*Pueraria lobata*</td><td>East Asian arrowroot</td><td>Kopoubohne</td><td>Puéraire hérissée</td><td>Kudzu</td></tr>
+<tr><td>*Reynoutria spp.* *(Fallopia* *spp.,* *Polygonum* *polystachyum**,* *P. cuspidatum, P. perfoliatum)*</td><td>Asian knotweed incl. hybrids</td><td>Asiatische Knöteriche inkl. Hybride</td><td>Renouées asiatiques hybrides incl.</td><td>Poligoni asiatici incl. ibridi</td></tr>
+<tr><td>*Rhus typhina*</td><td>Staghorn sumac</td><td>Essigbaum</td><td>Sumac</td><td>Sommacco maggiore</td></tr>
+<tr><td>*Salvinia molesta*</td><td>Giant salvinia</td><td>Lästiger Schwimmfarn</td><td>Salvinie géante</td><td>Erba pesce gigante</td></tr>
+<tr><td>*Senecio inaequidens*</td><td>Narrow-leaved ragwort</td><td>Schmalblättriges Greiskraut</td><td>Séneçon du Cap</td><td>Senecione sudafricano</td></tr>
+<tr><td>*Sicyos angulatus*</td><td>Oneseed bur cucumber</td><td>Haargurke</td><td>Sicyos anguleux</td><td>Sicios angoloso</td></tr>
+<tr><td>*Solidago spp.* *(S. canadensis, S. gigantea, S. graminifolia; ohne S. virgaurea)*</td><td>American goldenrod incl. hybrids</td><td>Amerikanische Goldruten inkl. Hybride</td><td>Solidages américains, Verges d’or américaines, hybrides incl.</td><td>Verghe d’oro americane, incl. ibridi</td></tr>
+<tr><td>*Toxicodendron* *radicans*</td><td>Eastern poison ivy</td><td>Kletternder Giftsumach</td><td>Arbre à la gale</td><td>Edera velenosa</td></tr>
 </table>
 
 ### 2 Animals
 
 <table>
-<tr><td>Scientific name</td><td>Deutscher Name</td><td>English name</td><td>Nom français</td><td>Nome italiano</td></tr>
-<tr><td>Harmonia axyridis</td><td>Asiatischer Marienkäfer</td><td>Asian ladybeetle, harlequin ladybird</td><td>Coccinelle asiatique</td><td>Coccinella asiatica</td></tr>
-<tr><td>Trachemys scripta elegans</td><td>Rotwangen-Schmuckschildkröte</td><td>Red-eared slider</td><td>Tortue de Floride</td><td>Tartarugha dalle orecchie rosse</td></tr>
-<tr><td>Rana catesbeiana</td><td>Amerikanischer Ochsenfrosch</td><td>North American bullfrog</td><td>Grenouille taureau</td><td>Rana toro</td></tr>
+<tr><td>Scientific name</td><td></td><td>German name</td><td></td><td>French name</td><td></td><td>Italian name</td></tr>
+<tr><td>*Harmonia axyridis*</td><td></td><td>Asian ladybeetle, harlequin ladybird</td><td></td><td>Coccinelle asiatique</td><td></td><td>Coccinella asiatica</td></tr>
+<tr><td>*Trachemys scripta elegans*</td><td></td><td>Red-eared slider</td><td></td><td>Tortue de Floride</td><td></td><td>Tartaruga dalle orecchie rosse</td></tr>
+<tr><td>*Rana catesbeiana*</td><td></td><td>North American bullfrog</td><td></td><td>Grenouille taureau</td><td></td><td>Rana toro</td></tr>
 </table>
 
-- [tab]
+Annex 2.2[^t-2]
+
+(Art. 15 para. 2<sup>bis</sup>)
+
+## Invasive alien organisms that may not be put into circulation for direct handling in the environment
+
+[^t-2]: Inserted by No II para. 2 of the O of 1 March 2024, in force since 1 Sept. 2024 ([AS 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
+
+<table>
+<tr><th>Scientific name</th><th>English name</th><th>German name</th><th>French name</th><th>Italian name</th></tr>
+<tr><td>*Acacia dealbata*</td><td>Silver wattle, mimosa</td><td>Falsche Mimose</td><td>Mimosa blanchâtre</td><td>Mimosa</td></tr>
+<tr><td>*Amorpha fruticosa*</td><td>Desert false indigo, bastard indigobush</td><td>Bastardindigo</td><td>Amorphe buissonnante</td><td>Indaco bastardo</td></tr>
+<tr><td>*Artemisia* *verlotiorum*</td><td>Chinese mugwort</td><td>Verlotscher Beifuss</td><td>Armoise des frères Verlot</td><td>Assenzio dei fratelli Verlot</td></tr>
+<tr><td>*Aster novi-belgii aggr.* *(A. ×salignus,* *A. ×versicolor,* *A. lanceo-latus, A. novi-belgii,* *A. parviflorus)*</td><td>New York aster</td><td>Neubelgische Aster (Weiden-Aster, Gescheckte Aster, Lanzettblättrige Aster, Neubelgische Aster, Tradescants Aster)</td><td>Aster de la Nouvelle-Belgique (Aster à feuilles de saule, Aster versicolore, Aster lancéolé, Aster de la Nouvelle-Belgique, Aster de Tradescant)</td><td>Astro americano (Astro a foglie di salice, Astro cangiante, Astro lanceolato, Astro americano, Astro di Tradescant)</td></tr>
+<tr><td>*Azolla filiculoides*</td><td>Water fern</td><td>Grosser Algenfarn</td><td>Azolla fausse filicule</td><td>Azolla maggiore</td></tr>
+<tr><td>*Broussonetia* *papyrifera*</td><td>Paper mulberry</td><td>Papiermaulbeerbaum</td><td>Mûrier à papier</td><td>Gelso da carta</td></tr>
+<tr><td>*Buddleja davidii*</td><td>Summer lilac, butterfly bush</td><td>Schmetterlingsstrauch</td><td>Buddléia de David</td><td>Buddleja</td></tr>
+<tr><td>*Bunias orientalis*</td><td>Turkish warty cabbage</td><td>Glattes Zackenschötchen</td><td>Bunias d’Orient</td><td>Cascellore orientale</td></tr>
+<tr><td>*Cornus sericea*</td><td>Red osier</td><td>Seidiger Hornstrauch</td><td>Cornouiller soyeux</td><td>Corniolo serico</td></tr>
+<tr><td>*Cotoneaster* *horizontalis*</td><td>Wall cotoneaster, rock cotoneaster</td><td>Korallenstrauch</td><td>Cotonéaster horizontal</td><td>Cotognastro orizzontale</td></tr>
+<tr><td>*Echinocystis lobata*</td><td>Wild cucumber, prickly cucumber</td><td>Stachelgurke, Igelgurke</td><td>Concombre sauvage, C. piquant</td><td>Sicios lobata</td></tr>
+<tr><td>*Erigeron annuus*</td><td>Annual fleabane, daisy fleabane</td><td>Einjähriges Berufkraut</td><td>Vergerette annuelle</td><td>Cespica annua</td></tr>
+<tr><td>*Galega officinalis*</td><td>Galega, goat’s-rue</td><td>Geissraute</td><td>Galéga officinal</td><td>Capraggine comune</td></tr>
+<tr><td>*Glyceria striata*</td><td>Fowl mannagrass, ridged glyceria</td><td>Gestreiftes Süssgras</td><td>Glycérie striée</td><td>Gramignone striato</td></tr>
+<tr><td>*Lonicera henryi*</td><td>Fragrant grove honeysuckle, vine honeysuckle</td><td>Henrys Geissblatt</td><td>Chèvrefeuille de Henry</td><td>Caprifoglio di Henry</td></tr>
+<tr><td>*Lonicera japonica*</td><td>Japanese honeysuckle</td><td>Japanisches Geissblatt</td><td>Chèvrefeuille du Japon</td><td>Caprifoglio giapponese</td></tr>
+<tr><td>*Lupinus polyphyllus*</td><td>Large-leaved lupin</td><td>Vielblättrige Lupine</td><td>Lupin à folioles nombreuses</td><td>Lupino fogliuto</td></tr>
+<tr><td>*Oenanthe javanica*</td><td>Java waterdropwort, Japanese parsley</td><td>Wasserfenchel, Japanische Petersilie</td><td>Persil japonais</td><td>Finocchio acquatico di Giava</td></tr>
+<tr><td>*Parthenocissus* *quinquefolia* *aggr. (P. inserta,* *P. quinquefolia)*</td><td>Virginia creeper, five-leaved ivy</td><td>Fünffingerige - / Gewöhnliche Jungfernrebe</td><td>Vigne vierge à cinq folioles / - commune</td><td>Vite del Canadà comune / Vite del Canadà domestica</td></tr>
+<tr><td>*Paulownia* *tomentosa*</td><td>Princess tree, empress tree</td><td>Blauglockenbaum</td><td>Paulownia</td><td>Paulownia</td></tr>
+<tr><td>*Pennisetum setaceum*</td><td>Crimson fountaingrass</td><td>Afrikanisches Lampenputzergras</td><td>Herbe aux écouvillons, Herbe fontaine</td><td>Penniseto allungato</td></tr>
+<tr><td>*Phyllostachys aurea*</td><td>Fishpole bamboo, golden bamboo</td><td>Gold-Bambus</td><td>Bambou moyen</td><td>Bambù dorato</td></tr>
+<tr><td>*Prunus laurocerasus*</td><td>Cherry laurel, common laurel</td><td>Kirschlorbeer</td><td>Laurier-cerise</td><td>Lauroceraso</td></tr>
+<tr><td>*Prunus serotina*</td><td>Black cherry</td><td>Herbst-Traubenkirsche</td><td>Merisier tardif</td><td>Pruno autunnale</td></tr>
+<tr><td>*Pseudosasa japonica*</td><td>Arrow bamboo, metake</td><td>Japanischer Bambus</td><td>Bambou du Japon</td><td>Pseudosasa giapponese</td></tr>
+<tr><td>*Rubus armeniacus*</td><td>Armenian blackberry, Himalayan blackberry</td><td>Armenische Brombeere</td><td>Ronce d’Arménie</td><td>Rovo d’Armenia</td></tr>
+<tr><td>*Rubus phoenicolasius*</td><td>Japanese wineberry, wine raspberry, dewberry</td><td>Rotborstige Himbeere</td><td>Framboisier du Japon</td><td>Lampone del Giappone</td></tr>
+<tr><td>*Sagittaria latifolia*</td><td>Broadleaf arrowhead, Indian potato</td><td>Breitblättriges Pfeilkraut</td><td>Sagittaire à larges feuilles</td><td>Sagittaria americana</td></tr>
+<tr><td>*Sedum spurium*</td><td>Caucasian stonecrop, two-row stonecrop</td><td>Kaukasus-Fettkraut</td><td>Orpin bâtard</td><td>Borracina caucasica</td></tr>
+<tr><td>*Sedum stoloniferum*</td><td>Lesser-Caucasian stonecrop</td><td>Ausläuferbildendes Fettkraut</td><td>Orpin stolonifère</td><td>Borracina stolonifera</td></tr>
+<tr><td>*Trachycarpus* *fortunei*</td><td>Chinese windmill palm</td><td>Chinesische Hanfpalme, Fortunes Hanfpalme</td><td>Palmier chanvre</td><td>Palma di Fortune</td></tr>
+</table>
 
 Annex 3
 
-## Information for Licence Applications concerning Pathogenic and Alien Organisms
+## Information for applications for authorisation concerning pathogenic and alien organisms
 
 Annex 3.1
 
 (Art. 20)
 
-## Licence Applications for Releases of Pathogenic Organisms for Experimental Purposes
+## Applications for authorisation for releases of pathogenic organisms for experimental purposes
 
 ### 1 General information
 
@@ -1471,7 +1545,7 @@ Annex 3.2
 
 (Art. 29)
 
-## Licence Application for Placing Pathogenic Organisms on the Market
+## Application for authorisation to put pathogenic organisms into circulation
 
 ### 1 General information
 
@@ -1491,9 +1565,9 @@ Annex 3.2
 
 24 Methods of culturing and producing the organisms;
 
-25 Precise source and purity of the strains and cultures intended for marketing;
+25 Precise source and purity of the strains and cultures intended for being put into circulation;
 
-26 Regions in which the organisms have already been deliberately or accidentally released and experience gained;
+26 Regions in which the organisms have already been deliberately or accidentally released or countries in which they have already been put into circulation and experience gained;
 
 27 Biology and ecology:
 
@@ -1563,7 +1637,7 @@ Annex 3.3
 
 (Art. 21)
 
-## Licence Application for Experimental Releases of Alien Invertebrates (arthropods, annelids, nematodes, platyhelminths)
+## Application for authorisation for experimental releases of alien invertebrates (arthropods, annelids, nematodes, platyhelminths)
 
 ### 1 General information
 
@@ -1683,7 +1757,7 @@ Annex 3.4
 
 (Art. 30)
 
-## Licence Application for Placing Alien Invertebrates (arthropods, annelids, nematodes, platyhelminths) on the Market
+## Application for authorisation to put alien invertebrates (arthropods, annelids, nematodes, platyhelminths) into circulation
 
 ### 1 General information
 
@@ -1705,9 +1779,9 @@ Annex 3.4
 
 25 Methods of culturing and producing the organisms;
 
-26 Precise source and purity of the strains and biotypes intended for the experiment, as well as name and address of the organisation that breeds the animals and precise information about the site (longitude and latitude, height above sea level, habitat, hosts) and seasons of field collection;
+26 Precise source and purity of the strains and biotypes intended for being put into circulation, as well as name and address of the organisation that breeds the animals and precise information about the site (longitude and latitude, height above sea level, habitat, hosts) and seasons of field collection;
 
-27 Regions in which the organisms have already been deliberately or accidentally released, or countries in which they are already marketed, and experience gained;
+27 Regions in which the organisms have already been deliberately or accidentally released, or countries in which they have already been put into circulation, and experience gained;
 
 28 Biology and ecology:
 
@@ -1781,7 +1855,7 @@ Annex 4
 
 (Art. 19, 20, 21, 28, 29 and 30)
 
-## Determination and Assessment of Risk
+## Determination and assessment of risk
 
 ### 1 Purpose and procedure
 
@@ -1846,22 +1920,18 @@ in the case of genetically modified organisms, the long-term preservation of pro
 
 <sup>3</sup> When assessing justifiability, the following should be considered:
 
-the precautionary principle in accordance with Article 2 GTA and Article 1 paragraph 2 EPA;
-
-the effectiveness of the safety measures determined in accordance with Number 3.1;
-
-other risks within the meaning of Article 6 paragraph 4 GTA and Article 8 EPA;
-
-whether damage could be reversed;
-
-that the greater the extent of possible damage, the smaller the probability of its occurrence must be.
+- a. the precautionary principle in accordance with Article 2 GTA and Article 1 paragraph 2 EPA;
+- b. the effectiveness of the safety measures determined in accordance with Number 3.1;
+- c. other risks within the meaning of Article 6 paragraph 4 GTA and Article 8 EPA;
+- d. whether damage could be reversed;
+- e. that the greater the extent of possible damage, the smaller the probability of its occurrence must be.
 
 Annex 5
 
 (Art. 61)
 
-## Amendments to existing Ordinances
+## Amendments to existing ordinances
 
-…[^annex5-lvlu1-1]
+…[^annexu1-lvlu1-1]
 
-[^annex5-lvlu1-1]: The amendments may be consulted under [AS 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614).
+[^annexu1-lvlu1-1]: The amendments may be consulted under [AS 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614).

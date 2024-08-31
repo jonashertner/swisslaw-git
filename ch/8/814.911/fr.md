@@ -4,11 +4,11 @@ title: "Ordonnance du 10 septembre 2008 sur l'utilisation d'organismes dans l'en
 short: ODE
 eli: "https://fedlex.data.admin.ch/eli/cc/2008/614"
 language: fr
-version: 2023-01-01
+version: 2024-09-01
 adopted: 2008-09-10
 in_force: 2008-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/614/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2008-614-20230101-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2008/614/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2008/614/20240901/fr/xml/fedlex-data-admin-ch-eli-cc-2008-614-20240901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2008/614/20240901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2008/614/20230101/fr"
 
 (Ordonnance sur la dissémination dans l’environnement, ODE)
 
-du 10 septembre 2008 (État le 1<sup>er</sup> janvier 2023)
+du 10 septembre 2008 (État le 1<sup>er</sup> septembre 2024)
 
 Le Conseil fédéral suisse,
 
@@ -396,15 +396,18 @@ Les organismes exotiques doivent être utilisés dans l’environnement de mani�
 - e. que l’équilibre des composantes de l’environnement ne soit pas perturbé gravement ou durablement;
 - f. que les fonctions importantes de l’écosystème touché, en particulier la fertilité du sol, ne soient pas perturbées gravement ou durablement.
 
-<sup>2</sup> Les organismes exotiques envahissants au sens de l’annexe 2 ne doivent pas être utilisés directement dans l’environnement; sont exceptées les mesures de lutte contre ces organismes. L’OFEV peut accorder, au cas par cas, des dérogations pour l’utilisation directe dans l’environnement si le requérant prouve qu’il a pris toutes les mesures requises pour respecter les exigences de l’al. 1.[^15-1]
+<sup>2</sup> Les organismes exotiques envahissants au sens de l’annexe 2.1 ne doivent pas être utilisés directement dans l’environnement; sont exceptées les mesures de lutte contre ces organismes. L’OFEV peut accorder, au cas par cas, des dérogations pour l’utilisation directe dans l’environnement si le requérant prouve qu’il a pris toutes les mesures requises pour respecter les exigences de l’al. 1.[^15-1]
 
-<sup>3</sup> Le sol décapé qui est contaminé par des organismes exotiques envahissants au sens de l’annexe 2 doit être valorisé au lieu d’enlèvement ou éliminé de manière à exclure toute nouvelle propagation de ces organismes.[^15-2]
+<sup>2bis</sup> Les organismes exotiques envahissants au sens de l’annexe 2.2 ne doivent pas être mis en circulation à des fins d’utilisation directe dans l’environnement.[^15-2]
 
-<sup>4</sup> Les dispositions de la législation sur les forêts, la pêche et la chasse sont réservées.[^15-3]
+<sup>3</sup> Le sol décapé qui est contaminé par des organismes exotiques envahissants au sens de l’annexe 2.1 doit être valorisé au lieu d’enlèvement ou éliminé de manière à exclure toute nouvelle propagation de ces organismes.[^15-3]
 
-[^15-1]: Nouvelle teneur selon l’annexe 8 ch. 3 de l’O du 31 oct. 2018 sur la santé des végétaux, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
-[^15-2]: Nouvelle teneur selon l’annexe 6 ch. 12 de l’O du 4 déc. 2015 sur les déchets, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5699](https://fedlex.data.admin.ch/eli/oc/2015/891)).
-[^15-3]: Nouvelle teneur selon l’annexe 5 ch. 10 de l’O du 9 mai 2012 sur l’utilisation confinée, en vigueur depuis le 1<sup>er</sup> juin 2012 ([RO 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
+<sup>4</sup> Les dispositions de la législation sur les forêts, la pêche et la chasse sont réservées.[^15-4]
+
+[^15-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mars 2024, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
+[^15-2]: Introduit par le ch. I de l’O du 1<sup>er</sup> mars 2024, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
+[^15-3]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mars 2024, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
+[^15-4]: Nouvelle teneur selon l’annexe 5 ch. 10 de l’O du 9 mai 2012 sur l’utilisation confinée, en vigueur depuis le 1<sup>er</sup> juin 2012 ([RO 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329)).
 
 #### Art. 16
 
@@ -664,7 +667,7 @@ L’autorisation au sens de l’art. 25 est délivrée par l’un des services f
 [^26-6]: [RS 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
 [^26-7]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
 [^26-8]: [RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
-[^26-9]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+[^26-9]: [[RO 2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105); [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)annexe ch. 3, [4793](https://fedlex.data.admin.ch/eli/oc/2003/703)ch. I 7, [4923](https://fedlex.data.admin.ch/eli/oc/2003/727); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)ch. II 18; [2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835); [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)annexe 5 ch. 12; [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)annexe ch. 3; [2011 2403](https://fedlex.data.admin.ch/eli/oc/2011/348), [2699](https://fedlex.data.admin.ch/eli/oc/2011/372)annexe 8 ch. II 3; [2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724); [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)annexe 6 ch. 7; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)annexe ch. 8; [2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681); [2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)annexe ch. 4; [2021 686](https://fedlex.data.admin.ch/eli/oc/2021/686); [2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)annexe ch. 2. [RO 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)annexe 5 ch. I]. Voir actuellement l’O du 1<sup>er</sup> nov. 2023 ([RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)).
 [^26-10]: **[**[RO 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287)[2748](https://fedlex.data.admin.ch/eli/oc/1999/442)annexe 5 ch. 6, [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)ch. II 14, [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653), [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729), [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107)[2695](https://fedlex.data.admin.ch/eli/oc/2005/464)ch. II 19, [5555](https://fedlex.data.admin.ch/eli/oc/2005/755), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)ch. IV 70, [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)annexe 5 ch. 14, [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344), [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [RO 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)art. 77]. Voir actuellement l’O du 26 oct. 2011 ([RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)).
 [^26-11]: Abrogée par l’annexe ch. 3 de l’O du 23 nov. 2022, avec effet au 1<sup>er</sup> janv. 2023 ([RO 2022 723](https://fedlex.data.admin.ch/eli/oc/2022/723)).
 [^26-12]: Abrogée par l’annexe 8 ch. 3 de l’O du 31 oct. 2018 sur la santé des végétaux, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
@@ -1083,7 +1086,7 @@ Le contrôle ultérieur (surveillance du marché) est effectué:
 [^47-3]: [RS 921.01](https://fedlex.data.admin.ch/eli/cc/1992/2538_2538_2538)
 [^47-4]: [RS 916.151](https://fedlex.data.admin.ch/eli/cc/1999/51)
 [^47-5]: **[**[RO 2005 3035](https://fedlex.data.admin.ch/eli/oc/2005/481)[4097](https://fedlex.data.admin.ch/eli/oc/2005/541)[4479](https://fedlex.data.admin.ch/eli/oc/2005/579)[5211](https://fedlex.data.admin.ch/eli/oc/2005/719), [2006 4851](https://fedlex.data.admin.ch/eli/oc/2006/750), [2007 821](https://fedlex.data.admin.ch/eli/oc/2007/152)ch. III [1469](https://fedlex.data.admin.ch/eli/oc/2007/250)annexe 4 ch. 54 [4541](https://fedlex.data.admin.ch/eli/oc/2007/641)[6291](https://fedlex.data.admin.ch/eli/oc/2007/834), [2008 2155](https://fedlex.data.admin.ch/eli/oc/2008/310)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)annexe 5 ch. 11 [5271](https://fedlex.data.admin.ch/eli/oc/2008/742), [2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)annexe ch. 3 [2845](https://fedlex.data.admin.ch/eli/oc/2009/373). [RO 2010 2331](https://fedlex.data.admin.ch/eli/oc/2010/340)art. 84]. Voir actuellement l’O du 12 mai 2010 ([RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)).
-[^47-6]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+[^47-6]: [[RO 2001 522](https://fedlex.data.admin.ch/eli/oc/2001/105); [2003 940](https://fedlex.data.admin.ch/eli/oc/2003/171)annexe ch. 3, [4793](https://fedlex.data.admin.ch/eli/oc/2003/703)ch. I 7, [4923](https://fedlex.data.admin.ch/eli/oc/2003/727); [2005 2695](https://fedlex.data.admin.ch/eli/oc/2005/464)ch. II 18; [2007 6295](https://fedlex.data.admin.ch/eli/oc/2007/835); [2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614)annexe 5 ch. 12; [2010 2631](https://fedlex.data.admin.ch/eli/oc/2010/350)annexe ch. 3; [2011 2403](https://fedlex.data.admin.ch/eli/oc/2011/348), [2699](https://fedlex.data.admin.ch/eli/oc/2011/372)annexe 8 ch. II 3; [2013 3971](https://fedlex.data.admin.ch/eli/oc/2013/724); [2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)annexe 6 ch. 7; [2016 277](https://fedlex.data.admin.ch/eli/oc/2016/39)annexe ch. 8; [2018 4205](https://fedlex.data.admin.ch/eli/oc/2018/681); [2020 5125](https://fedlex.data.admin.ch/eli/oc/2020/891)annexe ch. 4; [2021 686](https://fedlex.data.admin.ch/eli/oc/2021/686); [2022 265](https://fedlex.data.admin.ch/eli/oc/2022/265)annexe ch. 2. [RO 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)annexe 5 ch. I]. Voir actuellement l’O du 1<sup>er</sup> nov. 2023 ([RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)).
 [^47-7]: **[**[RO 1999 1780](https://fedlex.data.admin.ch/eli/oc/1999/287)[2748](https://fedlex.data.admin.ch/eli/oc/1999/442)annexe 5 ch. 6, [2001 3294](https://fedlex.data.admin.ch/eli/oc/2001/490)ch. II 14, [2002 4065](https://fedlex.data.admin.ch/eli/oc/2002/653), [2003 4927](https://fedlex.data.admin.ch/eli/oc/2003/729), [2005 973](https://fedlex.data.admin.ch/eli/oc/2005/107)[2695](https://fedlex.data.admin.ch/eli/oc/2005/464)ch. II 19, [5555](https://fedlex.data.admin.ch/eli/oc/2005/755), [2007 4477](https://fedlex.data.admin.ch/eli/oc/2007/633)ch. IV 70, [2008 3655](https://fedlex.data.admin.ch/eli/oc/2008/476)[4377](https://fedlex.data.admin.ch/eli/oc/2008/614)annexe 5 ch. 14, [2009 2599](https://fedlex.data.admin.ch/eli/oc/2009/344), [2011 2405](https://fedlex.data.admin.ch/eli/oc/2011/349). [RO 2011 5409](https://fedlex.data.admin.ch/eli/oc/2011/772)art. 77]. Voir actuellement l’O du 26 oct. 2011 ([RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)).
 [^47-8]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
 [^47-9]: Abrogée par l’annexe 8 ch. 3 de l’O du 31 oct. 2018 sur la santé des végétaux, avec effet au 1<sup>er</sup> janv. 2020 ([RO 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
@@ -1102,6 +1105,7 @@ Ils contrôlent, par sondages ou sur demande de l’OFEV, notamment si:
 - a. les prescriptions relatives à l’information de l’acquéreur (art. 5) sont respectées;
 - b. la mise en circulation d’organismes génétiquement modifiés ou pathogènes est autorisée;
 - c. l’utilisation de certains organismes n’est pas interdite;
+- c<sup>bis</sup>.[^48-1] la mise en circulation de certains organismes n’est pas interdite;
 - d. les conditions et les charges fixées dans l’autorisation de mise en circulation sont respectées;
 - e. les organismes génétiquement modifiés sont désignés correctement (art. 10);
 - f. les mesures ordonnées par l’OFEV au sens de l’al. 4 sont observées.
@@ -1113,6 +1117,20 @@ Ils contrôlent, par sondages ou sur demande de l’OFEV, notamment si:
 <sup>5</sup> Les échantillons ainsi que les moyens et les méthodes de détection nécessaires aux contrôles doivent être mis à la disposition des autorités compétentes.
 
 <sup>6</sup> Si le contrôle indique que des dispositions de la présente ordonnance sont violées, le responsable doit supporter les frais du contrôle. L’autorité chargée du contrôle lui envoie directement la facture.
+
+[^48-1]: Introduite par le ch. I de l’O du 1<sup>er</sup> mars 2024, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
+
+#### Art. 48a
+
+**Tâches d’exécution de l’Office fédéral de la douane et de la sécurité des frontières en matière d’organismes exotiques envahissants interdits**[^48a-1]
+
+<sup>1</sup> L’Office fédéral de la douane et de la sécurité des frontières (OFDF) surveille, lors de l’importation d’organismes, le respect des obligations au sens de l’art. 15, al. 2 et 2<sup>bis</sup>; il effectue à cette fin des contrôles physiques limités dans le temps en accord avec l’OFEV.
+
+<sup>2</sup> S’il constate ou soupçonne une infraction, l’OFDF peut provisoirement mettre les marchandises en sûreté; il en informe l’OFEV, qui décide de la suite de la procédure. Si l’OFEV ordonne la confiscation, l’OFDF informe la personne assujettie à l’obligation de déclarer qu’il est possible d’éliminer sur place les marchandises pour lesquelles la confiscation est ordonnée.
+
+<sup>3</sup> L’OFDF transmet à l’OFEV les données nécessaires à l’exécution de l’art. 15, al. 2 et 2<sup>bis</sup>.
+
+[^48a-1]: Introduit par le ch. I de l’O du 1<sup>er</sup> mars 2024, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
 
 ### Section 3 Surveillance du devoir de diligence
 
@@ -1262,9 +1280,11 @@ Quiconque soumet aux autorités des documents relatifs à la demande est tenu de
 
 #### Art. 59
 
-**Modification des listes de l’annexe 2**
+**Modification des listes des annexes 2.1 et 2.2**[^59-1]
 
-Après avoir pris l’avis des services fédéraux et des milieux concernés, le DETEC adapte les listes de l’annexe 2 s’il prend connaissance de nouveaux éléments concernant l’invasivité des organismes exotiques.
+Après avoir pris l’avis des services fédéraux, des cantons et des autres milieux concernés, le DETEC adapte les listes des annexes 2.1 et 2.2 s’il prend connaissance de nouveaux éléments concernant l’invasivité des organismes exotiques.
+
+[^59-1]: Nouvelle teneur selon le ch. I de l’O du 1<sup>er</sup> mars 2024, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
 
 ## Chapitre 5 Dispositions finales
 
@@ -1317,27 +1337,40 @@ Annexe 1
 - e. les processus naturels comme la conjugaison, la transduction ou la transformation;
 - f. la modification du degré de ploïdie, aneuploïdie comprise, et l’élimination de chromosomes.
 
-Annexe 2
+Annexe 2.1[^t-1]
 
 (art. 15, al. 2)
 
-## Organismes exotiques envahissants interdits
+## Organismes exotiques envahissants dont l’utilisation directe dans l’environnement est interdite
+
+[^t-1]: Anciennement annexe 2. Mise à jour par le ch. II al. 1 de l’O du 1<sup>er</sup> mars 2024, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
 
 ### 1 Plantes
 
 <table>
-<tr><td>Nom scientifique</td><td>Deutscher Name</td><td>Nom français</td><td>Nome italiano</td></tr>
-<tr><td>Ambrosia artemisiifolia</td><td>Aufrechte Ambrosie, Beifussblättriges Traubenkraut</td><td>Ambroisie à feuilles d’armoise, Ambroisie élevée</td><td>Ambrosia con foglie di artemisia</td></tr>
-<tr><td>Crassula helmsii</td><td>Nadelkraut</td><td>Orpin de Helms</td><td>Erba grassa di Helms</td></tr>
-<tr><td>Elodea nuttalli</td><td>Nuttalls Wasserpest</td><td>Élodée de Nuttall</td><td>Peste d’acqua di Nuttall</td></tr>
-<tr><td>Heracleum mantegazzianum</td><td>Riesenbärenklau</td><td>Berce du Caucase, Berce de Mantegazzi</td><td>Panace di Mantegazzi</td></tr>
-<tr><td>Hydrocotyle ranunculoides</td><td>Grosser Wassernabel</td><td>Hydrocotyle fausse-renoncule</td><td>Soldinella reniforme</td></tr>
-<tr><td>Impatiens glandulifera</td><td>Drüsiges Springkraut</td><td>Impatiente glanduleuse</td><td>Balsamina ghiandalosa</td></tr>
-<tr><td>Ludwigia spp. (L. grandiflora, L. peploides)</td><td>Südamerikanische Heusenkräuter</td><td>Jussies sudaméricaines</td><td>Porracchie sudamericane</td></tr>
-<tr><td>Reynoutria spp. (Fallopia spp., Polygonum polystachyum, P. cuspidatum)</td><td>Asiatische Staudenknöteriche inkl. Hybride</td><td>Renouées asiatiques, hybrides incl.</td><td>Poligoni asiatici, incl. ibridi</td></tr>
-<tr><td>Rhus typhina</td><td>Essigbaum</td><td>Sumac</td><td>Sommacco maggiore</td></tr>
-<tr><td>Senecio inaequidens</td><td>Schmalblättriges Greiskraut</td><td>Séneçon du Cap</td><td>Senecione sudafricano</td></tr>
-<tr><td>Solidago spp. (S. canadensis, S. gigantea, S. nemoralis; senza S. virgaurea)</td><td>Amerikanische Goldruten inkl. Hybride</td><td>Solidages américains, Verges d’or américaines, hybrides incl.</td><td>Verghe d’oro americane, inclusi ibridi</td></tr>
+<tr><th>Nom scientifique</th><th>Deutscher Name</th><th>Nom français</th><th>Nome italiano</th></tr>
+<tr><td>*Ailanthus altissima*</td><td>Götterbaum</td><td>Ailante</td><td>Ailanto</td></tr>
+<tr><td>*Ambrosia spp.* *(A. artemisiifolia,* *A. confertiflora*, *A. psilostachya, A. trifida*)</td><td>Ambrosien, Traubenkräuter</td><td>Ambroisies</td><td>Ambrosie</td></tr>
+<tr><td>*Asclepias syriaca*</td><td>Syrische Seidenpflanze</td><td>Asclépiade de Syrie</td><td>Albero della seta</td></tr>
+<tr><td>*Cabomba* *caroliniana*</td><td>Karolina-Haarnixe</td><td>Cabomba, Evantail de Caroline</td><td>Cabomba della Carolina</td></tr>
+<tr><td>*Celastrus* *orbiculatus*</td><td>Rundblättriger Baumwürger</td><td>Bourreau des arbres asiatique</td><td>Celastro</td></tr>
+<tr><td>*Crassula helmsii*</td><td>Nadelkraut</td><td>Orpin de Helms</td><td>Erba grassa di Helms</td></tr>
+<tr><td>*Elodea spp.* *(E. candensis,* *E. densa, E. nuttalli)*</td><td>Wasserpest</td><td>Elodée</td><td>Peste d’acqua</td></tr>
+<tr><td>*Heracleum* *mantegazzianum*</td><td>Riesenbärenklau</td><td>Berce du Caucase, Berce de Mantegazzi</td><td>Panace di Mantegazzi</td></tr>
+<tr><td>*Humulus japonicus*</td><td>Japanischer Hopfen</td><td>Houblon du Japon</td><td>Luppolo giapponese</td></tr>
+<tr><td>*Hydrocotyle* *ranunculoides*</td><td>Grosser Wassernabel</td><td>Hydrocotyle fausse-renoncule</td><td>Soldinella reniforme</td></tr>
+<tr><td>*Impatiens* *glandulifera*</td><td>Drüsiges Springkraut</td><td>Impatiente glanduleuse</td><td>Balsamina ghiandalosa</td></tr>
+<tr><td>*Lagarosiphon major*</td><td>Schmalrohr</td><td>Grand lagarosiphon</td><td>Peste d’acqua arcuata</td></tr>
+<tr><td>*Ludwigia spp.* *(L. grandiflora, L. peploides,* *L. x kentiana)*</td><td>Südamerikanische Heusenkräuter inkl. Hybride</td><td>Jussies sudaméricaines hybrides incl.</td><td>Porracchie sudamericane incl. ibridi</td></tr>
+<tr><td>*Myriophyllum* spp. (*M. aquaticum, M. heterophyllum,* *exceptées* *les espèces indigènes)*</td><td>Tausendblätter</td><td>Myriophylles</td><td>Miriofilli</td></tr>
+<tr><td>*Pueraria lobata*</td><td>Kopoubohne</td><td>Puéraire hérissée</td><td>Kudzu</td></tr>
+<tr><td>*Reynoutria spp.* *(Fallopia* *spp.,* *Polygonum* *polystachyum**,* *P. cuspidatum,* *P. perfoliatum)*</td><td>Asiatische Knöteriche inkl. Hybride</td><td>Renouées asiatiques hybrides incl.</td><td>Poligoni asiatici incl. ibridi</td></tr>
+<tr><td>*Rhus typhina*</td><td>Essigbaum</td><td>Sumac</td><td>Sommacco maggiore</td></tr>
+<tr><td>*Salvinia molesta*</td><td>Lästiger Schwimmfarn</td><td>Salvinie géante</td><td>Erba pesce gigante</td></tr>
+<tr><td>*Senecio inaequidens*</td><td>Schmalblättriges Greiskraut</td><td>Séneçon du Cap</td><td>Senecione sudafricano</td></tr>
+<tr><td>*Sicyos angulatus*</td><td>Haargurke</td><td>Sicyos anguleux</td><td>Sicios angoloso</td></tr>
+<tr><td>*Solidago spp.* *(S. canadensis**,* *S. gigantea,* *S. graminifolia;* *exceptée* *S. virgaurea)*</td><td>Amerikanische Goldruten inkl. Hybride</td><td>Solidages américains, Verges d’or américaines hybrides incl.</td><td>Verghe d’oro americane incl. ibridi</td></tr>
+<tr><td>*Toxicodendron* *radicans*</td><td>Kletternder Giftsumach</td><td>Arbre à la gale</td><td>Edera velenosa</td></tr>
 </table>
 
 ### 2 Animaux
@@ -1347,6 +1380,49 @@ Annexe 2
 <tr><td>*Harmonia axyridis*</td><td>Asiatischer Marienkäfer</td><td>Coccinelle asiatique</td><td>Coccinella asiatica</td></tr>
 <tr><td>*Trachemys scripta elegans*</td><td>Rotwangen-Schmuckschildkröte</td><td>Tortue de Floride</td><td>Tartaruga dalle orecchie rosse</td></tr>
 <tr><td>*Rana catesbeiana*</td><td>Amerikanischer Ochsenfrosch</td><td>Grenouille taureau</td><td>Rana toro</td></tr>
+</table>
+
+Annexe 2.2[^t-2]
+
+(art. 15, al. 2<sup>bis</sup>)
+
+## Organismes exotiques envahissants dont la mise en circulation à des fins d’utilisation directe dans l’environnement est interdite
+
+[^t-2]: Introduite par le ch. II al. 2 de l’O du 1<sup>er</sup> mars 2024, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
+
+<table>
+<tr><th>Nom scientifique</th><th>Deutscher Name</th><th>Nom français</th><th>Nome italiano</th></tr>
+<tr><td>*Acacia dealbata*</td><td>Falsche Mimose</td><td>Mimosa blanchâtre</td><td>Mimosa</td></tr>
+<tr><td>*Amorpha fruticosa*</td><td>Bastardindigo</td><td>Amorphe buissonnante</td><td>Indaco bastardo</td></tr>
+<tr><td>*Artemisia* *verlotiorum*</td><td>Verlotscher Beifuss</td><td>Armoise des frères Verlot</td><td>Assenzio dei fratelli Verlot</td></tr>
+<tr><td>*Aster novi-belgii aggr.* *(Aster ×salignus, A. ×versicolor, A. lanceolatus,* *A. novi**‑belgii, A. parviflorus**)*</td><td>Neubelgische Aster (Weiden-Aster, Gescheckte Aster, Lanzettblättrige Aster, Neubelgische Aster, Tradescants Aster)</td><td>Aster de la Nouvelle-Belgique (Aster à feuilles de saule, Aster versicolore, Aster lancéolé, Aster de la Nouvelle-Belgique, Aster de Tradescant)</td><td>Astro americano (Astro a foglie di salice, Astro cangiante, Astro lanceolato, Astro americano, Astro di Tradescant)</td></tr>
+<tr><td>*Azolla filiculoides*</td><td>Grosser Algenfarn</td><td>Azolla fausse filicule</td><td>Azolla maggiore</td></tr>
+<tr><td>*Broussonetia* *papyrifera*</td><td>Papiermaulbeerbaum</td><td>Mûrier à papier</td><td>Gelso da carta</td></tr>
+<tr><td>*Buddleja davidii*</td><td>Schmetterlingsstrauch</td><td>Buddléia de David</td><td>Buddleja</td></tr>
+<tr><td>*Bunias orientalis*</td><td>Glattes Zackenschötchen</td><td>Bunias d’Orient</td><td>Cascellore orientale</td></tr>
+<tr><td>*Cornus sericea*</td><td>Seidiger Hornstrauch</td><td>Cornouiller soyeux</td><td>Corniolo serico</td></tr>
+<tr><td>*Cotoneaster* *horizontalis*</td><td>Korallenstrauch</td><td>Cotonéaster horizontal</td><td>Cotognastro orizzontale</td></tr>
+<tr><td>*Echinocystis lobata*</td><td>Stachelgurke, Igelgurke</td><td>Concombre sauvage, C. piquant</td><td>Sicios lobata</td></tr>
+<tr><td>*Erigeron annuus*</td><td>Einjähriges Berufkraut</td><td>Vergerette annuelle</td><td>Cespica annua</td></tr>
+<tr><td>*Galega officinalis*</td><td>Geissraute</td><td>Galéga officinal</td><td>Capraggine comune</td></tr>
+<tr><td>*Glyceria striata*</td><td>Gestreiftes Süssgras</td><td>Glycérie striée</td><td>Gramignone striato</td></tr>
+<tr><td>*Lonicera henryi*</td><td>Henrys Geissblatt</td><td>Chèvrefeuille de Henry</td><td>Caprifoglio di Henry</td></tr>
+<tr><td>*Lonicera japonica*</td><td>Japanisches Geissblatt</td><td>Chèvrefeuille du Japon</td><td>Caprifoglio giapponese</td></tr>
+<tr><td>*Lupinus polyphyllus*</td><td>Vielblättrige Lupine</td><td>Lupin à folioles nombreuses</td><td>Lupino fogliuto</td></tr>
+<tr><td>*Oenanthe javanica*</td><td>Wasserfenchel, Japanische Petersilie</td><td>Persil japonais</td><td>Finocchio acquatico di Giava</td></tr>
+<tr><td>*Parthenocissus* *quinquefolia* *aggr. (P.* *inserta,* *P. quinquefolia)*</td><td>Fünffingerige - / Gewöhnliche Jungfernrebe</td><td>Vigne vierge à cinq folioles / - commune</td><td>Vite del Canadà comune / Vite del Canadà domestica</td></tr>
+<tr><td>*Paulownia tomentosa*</td><td>Blauglockenbaum</td><td>Paulownia</td><td>Paulownia</td></tr>
+<tr><td>*Pennisetum setaceum*</td><td>Afrikanisches Lampenputzergras</td><td>Herbe aux écouvillons, Herbe fontaine</td><td>Penniseto allungato</td></tr>
+<tr><td>*Phyllostachys aurea*</td><td>Gold-Bambus</td><td>Bambou moyen</td><td>Bambù dorato</td></tr>
+<tr><td>*Prunus laurocerasus*</td><td>Kirschlorbeer</td><td>Laurier-cerise</td><td>Lauroceraso</td></tr>
+<tr><td>*Prunus serotina*</td><td>Herbst-Traubenkirsche</td><td>Merisier tardif</td><td>Pruno autunnale</td></tr>
+<tr><td>*Pseudosasa japonica*</td><td>Japanischer Bambus</td><td>Bambou du Japon</td><td>Pseudosasa giapponese</td></tr>
+<tr><td>*Rubus armeniacus*</td><td>Armenische Brombeere</td><td>Ronce d’Arménie</td><td>Rovo d’Armenia</td></tr>
+<tr><td>*Rubus phoenicolasius*</td><td>Rotborstige Himbeere</td><td>Framboisier du Japon</td><td>Lampone del Giappone</td></tr>
+<tr><td>*Sagittaria latifolia*</td><td>Breitblättriges Pfeilkraut</td><td>Sagittaire à larges feuilles</td><td>Sagittaria americana</td></tr>
+<tr><td>*Sedum spurium*</td><td>Kaukasus-Fettkraut</td><td>Orpin bâtard</td><td>Borracina caucasica</td></tr>
+<tr><td>*Sedum stoloniferum*</td><td>Ausläuferbildendes Fettkraut</td><td>Orpin stolonifère</td><td>Borracina stolonifera</td></tr>
+<tr><td>*Trachycarpus fortunei*</td><td>Chinesische Hanfpalme, Fortunes Hanfpalme</td><td>Palmier chanvre</td><td>Palma di Fortune</td></tr>
 </table>
 
 Annexe 3
@@ -1396,7 +1472,7 @@ Annexe 3.1
 - 43 Flore et faune, y compris les plantes et les animaux utiles ainsi que les espèces migratrices
 - 44 Description de l’écosystème
 
-5 Effets potentiels
+### 5 Effets potentiels
 
 - 51 Effets sur l’être humain et les animaux, en particulier risques pour leur santé (p. ex. effet allergène, pathogène ou toxique, irritation de la peau)
 - 52 Effets sur l’environnement et la diversité biologique:
@@ -1703,4 +1779,4 @@ Annexe 5
 
 …[^annex5-lvlu1-1]
 
-[^annex5-lvlu1-1]: Les mod. peuvent être consultées au [RO 2012 2777](https://fedlex.data.admin.ch/eli/oc/2012/329).
+[^annex5-lvlu1-1]: Les mod. peuvent être consultées au [RO 2008 4377](https://fedlex.data.admin.ch/eli/oc/2008/614).
