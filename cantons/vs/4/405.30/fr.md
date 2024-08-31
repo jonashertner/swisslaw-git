@@ -4,13 +4,13 @@ number: "405.30"
 title: "Ordonnance concernant le traitement du personnel de la scolarité obligatoire et de l'enseignement secondaire du deuxième degré général et professionnel"
 short: OTSO
 language: fr
-version: 2023-01-01
-corrected: 2024-01-02
-version_adopted: 2022-11-30
+version: 2024-09-01
+valid_until: 2024-12-31
+version_adopted: 2024-05-08
 adopted: 2012-06-20
 in_force: 2012-09-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/405.30"
-pdf: "https://lex.vs.ch/api/fr/versions/3171/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3314/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3171/pdf_file"
 
 (OTSO)
 
-du 20.06.2012 (état 01.01.2023)
+du 20.06.2012 (état 01.09.2024)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -219,13 +219,13 @@ ordonne:[^ingress-1]
 
 <sup>4</sup> Si l'activité selon l'état nominatif et le nombre de périodes du jour où le droit s'exerce se situe entre trois et cinq périodes:
 
-- a) sur le lieu de travail: — l'enseignante peut prendre une période pour allaiter son enfant; cette période est considérée comme un congé payé; les périodes d'allaitement supplémentaires sont considérées comme des congés non payés;
-- b) hors du lieu de travail: — l'enseignante peut s'absenter pendant une période de son lieu de travail; seule la moitié de la période est considérée comme un congé payé; l'autre moitié fait l'objet d'un congé non payé, ainsi que les périodes d'absence supplémentaires.
+- a) sur le lieu de travail: l'enseignante peut prendre une période pour allaiter son enfant; cette période est considérée comme un congé payé; les périodes d'allaitement supplémentaires sont considérées comme des congés non payés;
+- b) hors du lieu de travail: l'enseignante peut s'absenter pendant une période de son lieu de travail; seule la moitié de la période est considérée comme un congé payé; l'autre moitié fait l'objet d'un congé non payé, ainsi que les périodes d'absence supplémentaires.
 
 <sup>5</sup> Si l'activité selon l'état nominatif et le nombre de périodes du jour où le droit s'exerce atteint au moins six périodes:
 
-- a) sur le lieu de travail: — l'enseignante peut prendre une période pour allaiter son enfant; cette période est considérée comme un congé payé; les périodes d'allaitement supplémentaires sont considérées comme des congés non payés;
-- b) hors du lieu de travail: — l'enseignante peut s'absenter jusqu'à deux périodes de son lieu de travail; seule la moitié de ce temps est considérée comme un congé payé; l'autre moitié fait l'objet d'un congé non payé, ainsi que les périodes d'absence supplémentaires.
+- a) sur le lieu de travail: l'enseignante peut prendre une période pour allaiter son enfant; cette période est considérée comme un congé payé; les périodes d'allaitement supplémentaires sont considérées comme des congés non payés;
+- b) hors du lieu de travail: l'enseignante peut s'absenter jusqu'à deux périodes de son lieu de travail; seule la moitié de ce temps est considérée comme un congé payé; l'autre moitié fait l'objet d'un congé non payé, ainsi que les périodes d'absence supplémentaires.
 
 <sup>6</sup> Si l'enseignante cesse l'allaitement de son enfant avant la fin de la première année de ce dernier, elle reprend son activité telle que définie dans son état nominatif.
 
@@ -726,15 +726,26 @@ ordonne:[^ingress-1]
 
 <sup>2</sup> Il bénéficie des dispositions des articles 40 à 42 de la présente ordonnance.
 
+<sup>2<sup>bis</sup></sup> Pour les chargés de cours dont l’horaire hebdomadaire à plein temps n’est pas de 23 périodes, le tarif horaire est calculé proportionnellement.
+
 ## 6 Enseignement primaire
 
 #### Art. 49
 
 **Remplaçants**
 
-<sup>1</sup> Les tarifs des périodes de remplacement sont définis dans l'annexe de la présente ordonnance.
+<sup>1</sup> …
 
 <sup>2</sup> S'il dispose des titres et diplômes requis pour l’enseignement qu’il dispense, le remplaçant perçoit un traitement correspondant aux 90 pour cent de la classe de traitement usuelle (y compris la part du 13<sup>e</sup> salaire, parts d'expérience et droit aux vacances) attribuée à un enseignant diplômé engagé à l'année. Dans le cas contraire, le traitement d'un remplaçant non diplômé correspond aux 60 pour cent de la classe de traitement usuelle attribuée à un enseignant diplômé engagé à l'année.
+
+<sup>2<sup>bis</sup></sup> Si le remplaçant est en dernière année de formation dans une Haute Ecole Pédagogique, il perçoit un traitement correspondant aux 80 pour cent de la classe de traitement usuelle attribuée à un enseignant diplômé engagé à l’année.
+
+<sup>2<sup>ter</sup></sup> Si le remplaçant est au bénéfice d’un diplôme pour enseigner dans le Secondaire du premier degré et/ou du deuxième degré, il perçoit un traitement correspondant aux 80 pour cent de la classe de traitement usuelle attribuée à un enseignant diplômé dans le primaire engagé à l’année.
+
+<table>
+<tr><th>Degré scolaire/Titre</th><th>Titre reconnu pour l’enseignement primaire</th><th>En troisième année de formation HEP-VS</th><th>Titre reconnu dans l’enseignement du Secondaire du premier ou du deuxième degré</th><th>Non diplômé, y compris les étudiants en première et deuxième année de formation à la HEP-VS</th></tr>
+<tr><td>Primaire (1H-8H)</td><td>90 pour cent de la classe de traitement usuelle</td><td>80 pour cent de la classe de traitement usuelle</td><td>80 pour cent de la classe de traitement usuelle</td><td>60 pour cent de la classe de traitement usuelle</td></tr>
+</table>
 
 <sup>3</sup> Si la durée du même remplacement en cours d'année scolaire est égale ou supérieure à 19 semaines effectives, le remplaçant reçoit le traitement fixé par la loi sur le traitement du personnel de la scolarité obligatoire et de l’enseignement secondaire du deuxième degré général et professionnel du 14 septembre 2011. Le calcul rectificatif se fait à la fin du remplacement.
 
@@ -750,9 +761,16 @@ ordonne:[^ingress-1]
 
 **Remplaçants**
 
-<sup>1</sup> Les tarifs des périodes de remplacement sont définis dans l'annexe de la présente ordonnance.
+<sup>1</sup> …
 
 <sup>2</sup> S'il dispose des titres et diplômes requis pour l’enseignement qu’il dispense, le remplaçant perçoit un traitement correspondant aux 90 pour cent de la classe de traitement usuelle (y compris la part du 13<sup>e</sup> salaire, parts d'expérience et droit aux vacances) attribuée à un enseignant diplômé engagé à l'année. Dans le cas contraire, le traitement d'un remplaçant non diplômé correspond aux 60 pour cent de la classe de traitement usuelle attribuée à un enseignant diplômé engagé à l'année.
+
+<sup>2<sup>bis</sup></sup> Le traitement des remplaçants pour les situations qui ne sont pas mentionnées dans l’alinéa 2 est défini dans le tableau ci-dessous.
+
+<table>
+<tr><th>Degré scolaire/Titre</th><th>Titre requis dans une branche enseignable/Avec formation pédagogique reconnue</th><th>Titre requis sans branche enseignable/ Avec Formation pédagogique reconnue OU Titre reconnu pour l’enseignement dans un autre degré d'enseignement</th><th>Titre requis dans une branche enseignable /Pas de formation pédagogique</th><th>Titre requis sans branche enseignable/Pas de formation pédagogique</th><th>Non diplômé ou titre inférieur au titre requis/Pas de formation pédagogique</th></tr>
+<tr><td>Enseignement du Secondaire du premier degré</td><td>90 pour cent de la classe de traitement usuelle</td><td>80 pour cent de la classe de traitement usuelle</td><td>80 pour cent de la classe de traitement usuelle</td><td>70 pour cent de la classe de traitement usuelle</td><td>60 pour cent de la classe de traitement usuelle</td></tr>
+</table>
 
 <sup>3</sup> En principe, les décharges (titulaires, activités parascolaires et culturelles, etc.) accordées aux maîtres remplacés ne sont pas payées aux remplaçants. Dans les cas particuliers, à la demande de la direction, le Service compétent décide si ces périodes de décharge leur sont partiellement ou totalement rétribuées.
 
@@ -780,11 +798,20 @@ ordonne:[^ingress-1]
 
 **Remplaçants**
 
-<sup>1</sup> Les tarifs des périodes de remplacement sont définis dans l'annexe de la présente ordonnance.
+<sup>1</sup> …
 
 <sup>2</sup> S'il dispose des titres et diplômes requis pour l’enseignement qu’il dispense, le remplaçant perçoit un traitement correspondant aux 90 pour cent de la classe de traitement usuelle attribuée à un enseignant diplômé engagé à l'année (y compris la part du 13<sup>e</sup> salaire, parts d'expérience et droit aux vacances). Dans le cas contraire, le traitement d'un remplaçant non diplômé correspond aux 60 pour cent de la classe de traitement usuelle (y compris la part du 13<sup>e</sup> salaire, parts d'expérience et droit aux vacances) attribuée à un enseignant diplômé engagé à l'année.
 
-<sup>3</sup> En principe, les décharges accordées aux maîtres remplacés ne sont pas payées aux remplaçants. Dans les cas particuliers, à la demande de la direction, le Service de l'enseignement ou le Service de la formation et de l'orientation professionnelle décide si ces périodes de décharge sont partiellement ou totalement rétribuées.
+<sup>2<sup>bis</sup></sup> Le traitement des remplaçants pour les situations qui ne sont pas mentionnées dans l’alinéa 2 est défini dans le tableau ci-dessous.
+
+<table>
+<tr><th>Degré scolaire/Titre</th><th>Titre requis dans une branche enseignable/Avec formation pédagogique reconnue</th><th>Titre requis sans branche enseignable/ Avec Formation pédagogique reconnue OU Titre reconnu pour l’enseignement dans un autre degré d'enseignement</th><th>Titre requis dans une branche enseignable /Pas de formation pédagogique</th><th>Titre requis sans branche enseignable/Pas de formation pédagogique</th><th>Non diplômé ou titre inférieur au titre requis/Pas de formation pédagogique</th></tr>
+<tr><td>Enseignement du Secondaire du deuxième degré général et professionnel</td><td>90 pour cent de la classe de traitement usuelle</td><td>80 pour cent de la classe de traitement usuelle</td><td>80 pour cent de la classe de traitement usuelle</td><td>70 pour cent de la classe de traitement usuelle</td><td>60 pour cent de la classe de traitement usuelle</td></tr>
+</table>
+
+<sup>2<sup>ter</sup></sup> Pour les remplaçants dont l’horaire hebdomadaire à plein temps n’est pas de 23 périodes, le tarif horaire est calculé proportionnellement.
+
+<sup>3</sup> En principe, les décharges accordées aux maîtres remplacés ne sont pas payées aux remplaçants. Dans les cas particuliers, à la demande de la direction, le Service de l'enseignement ou le Service de la formation professionnelle décide si ces périodes de décharge sont partiellement ou totalement rétribuées.
 
 <sup>4</sup> Les enseignants des écoles secondaires du deuxième degré engagés pour un programme à temps partiel, mais régulier pendant toute l'année scolaire, sont rétribués sur la base de leur traitement pour les périodes de remplacement effectuées dans l'école où ils sont engagés. Toutefois, si leur horaire régulier d'enseignement est supérieur ou égal à 20 périodes par semaine, ils ne reçoivent aucune rémunération pour les six premières périodes effectuées au cours d'un semestre. S'il est supérieur ou égal à douze périodes et inférieur à 20 périodes par semaine, ils ne reçoivent aucune rémunération pour les trois premières périodes effectuées au cours d'un semestre.
 

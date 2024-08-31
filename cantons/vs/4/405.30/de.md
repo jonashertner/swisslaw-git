@@ -4,13 +4,13 @@ number: "405.30"
 title: Verordnung über die Besoldung des Personals der obligatorischen Schulzeit und der allgemeinen Mittelschule und Berufsfachschule
 short: VBOS
 language: de
-version: 2023-01-01
-corrected: 2024-01-02
-version_adopted: 2022-11-30
+version: 2024-09-01
+valid_until: 2024-12-31
+version_adopted: 2024-05-08
 adopted: 2012-06-20
 in_force: 2012-09-01
 url: "https://lex.vs.ch/app/de/texts_of_law/405.30"
-pdf: "https://lex.vs.ch/api/de/versions/3171/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3314/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3171/pdf_file"
 
 (VBOS)
 
-vom 20.06.2012 (Stand 01.01.2023)
+vom 20.06.2012 (Stand 01.09.2024)
 
 Der Staatsrat des Kantons Wallis
 
@@ -219,13 +219,13 @@ verordnet:[^ingress-1]
 
 <sup>4</sup> Beträgt die Tätigkeit gemäss Lehrermeldung und die Anzahl Lektionen am Tag, an dem das Recht beansprucht wird, zwischen drei und fünf Lektionen:
 
-- a) am Arbeitsort: — Die Lehrerin hat Anspruch auf eine Lektion zum Stillen ihres Kindes; diese Lektion gilt als bezahlter Urlaub; zusätzliche Lektionen zum Stillen des Kindes gelten als unbezahlter Urlaub;
-- b) abseits des Arbeitsortes: — Die Lehrerin kann sich für eine Lektion von ihrem Arbeitsort entfernen; nur die Hälfte dieser Zeit gilt als bezahlter Urlaub; die andere Hälfte gilt, ebenso wie zusätzliche Abwesenheiten, als unbezahlter Urlaub.
+- a) am Arbeitsort: die Lehrerin hat Anspruch auf eine Lektion zum Stillen ihres Kindes; diese Lektion gilt als bezahlter Urlaub; zusätzliche Lektionen zum Stillen des Kindes gelten als unbezahlter Urlaub;
+- b) abseits des Arbeitsortes: die Lehrerin kann sich für eine Lektion von ihrem Arbeitsort entfernen; nur die Hälfte dieser Zeit gilt als bezahlter Urlaub; die andere Hälfte gilt, ebenso wie zusätzliche Abwesenheiten, als unbezahlter Urlaub.
 
 <sup>5</sup> Beträgt die Tätigkeit gemäss Lehrermeldung und die Anzahl Lektionen am Tag, an dem das Recht beansprucht wird, mindestens sechs Lektionen:
 
-- a) am Arbeitsort: — Die Lehrerin kann bis zu zwei Lektionen zum Stillen ihres Kindes nehmen; diese Lektionen gelten als bezahlter Urlaub; zusätzliche Lektionen zum Stillen des Kindes gelten als unbezahlter Urlaub;
-- b) abseits des Arbeitsortes: — Die Lehrerin kann sich für bis zu zwei Lektionen von ihrem Arbeitsort entfernen; nur die Hälfte dieser Zeit gilt als bezahlter Urlaub; die andere Hälfte gilt, ebenso wie zusätzliche Abwesenheiten, als unbezahlter Urlaub.
+- a) am Arbeitsort: die Lehrerin kann bis zu zwei Lektionen zum Stillen ihres Kindes nehmen; diese Lektionen gelten als bezahlter Urlaub; zusätzliche Lektionen zum Stillen des Kindes gelten als unbezahlter Urlaub;
+- b) abseits des Arbeitsortes: die Lehrerin kann sich für bis zu zwei Lektionen von ihrem Arbeitsort entfernen; nur die Hälfte dieser Zeit gilt als bezahlter Urlaub; die andere Hälfte gilt, ebenso wie zusätzliche Abwesenheiten, als unbezahlter Urlaub.
 
 <sup>6</sup> Wenn die Lehrerin vor Ende des ersten Lebensjahres des Kindes das Stillen einstellt, nimmt sie ihre Tätigkeit gemäss ihrer Lehrermeldung wieder auf.
 
@@ -720,11 +720,13 @@ verordnet:[^ingress-1]
 
 #### Art. 48
 
-**Besoldung der Lehrbeaufragten nach Lektionen**
+**Besoldung der Lehrbeauftragten nach Lektionen**
 
 <sup>1</sup> Bei einzelnen Einsätzen an einer Berufsfachschule wird der Lehrbeauftragte im Stundentarif entschädigt, der auf jener Lohnklasse (inkl. 13. Monatslohn, Erfahrungsanteil und Ferienanspruch) basiert, die seinen Qualifikationen entspricht.
 
 <sup>2</sup> Weiter gelten die Bestimmungen von Artikel 40 bis 42 der vorliegenden Verordnung.
+
+<sup>2<sup>bis</sup></sup> Für Lehrbeauftragte, deren Vollzeitwochenpensum nicht 23 Lektionen beträgt, wird der Stundentarif anteilig berechnet.
 
 ## 6 Primarschulunterricht
 
@@ -732,9 +734,18 @@ verordnet:[^ingress-1]
 
 **Stellvertreter**
 
-<sup>1</sup> Die Lektionentarife der Stellvertreter werden im Anhang der vorliegenden Verordnung präzisiert.
+<sup>1</sup> …
 
 <sup>2</sup> Stellvertreter, die im Besitz der erforderlichen Titel und Diplome sind, erhalten 90 Prozent der Besoldung jener Besoldungsklasse (einschliesslich Anteil 13. Monatslohn, Erfahrungsanteil und Ferienanspruch), die einer Lehrperson mit einer Jahresanstellung zugeteilt wird. Die Besoldung einer nicht diplomierten Lehrperson entspricht 60 Prozent jener Besoldungsklasse, die einer diplomierten Lehrperson mit einer Jahresanstellung zugeteilt wird.
+
+<sup>2<sup>bis</sup></sup> Befindet sich der Stellvertreter im letzten Studienjahr einer Pädagogischen Hochschule, erhält er 80 Prozent der Besoldung jener Besoldungsklasse, die einer diplomierten Lehrperson mit einer Jahresanstellung zugeteilt wird.
+
+<sup>2<sup>ter</sup></sup> Verfügt der Stellvertreter über ein Lehrdiplom für die Sekundarstufe I und/oder II, erhält er 80 Prozent der Besoldung jener Besoldungsklasse, die einer diplomierten Lehrperson auf Primarstufe mit einer Jahresanstellung zugeteilt wird.
+
+<table>
+<tr><th>Schulstufe/Titel</th><th>Anerkanntes Lehrdiplom für die Primarstufe</th><th>Studierende im dritten Studienjahr der PH-VS</th><th>Anerkanntes Lehrdiplom für die Sekundarstufe I oder II</th><th>Lehrpersonen ohne Diplom, einschliesslich Studierende im ersten und zweiten Studienjahr der PH-VS</th></tr>
+<tr><td>Primarstufe (1H bis 8H)</td><td>90 Prozent der Besoldungsklasse</td><td>80 Prozent der Besoldungsklasse</td><td>80 Prozent der Besoldungsklasse</td><td>60 Prozent der Besoldungsklasse</td></tr>
+</table>
 
 <sup>3</sup> Dauert eine und dieselbe Stellvertretung innerhalb eines Schuljahres 19 effektive Wochen oder mehr, erhält der Stellvertreter die in der Verordnung oder im Gesetz über die Besoldung des Lehrpersonals der obligatorischen Schulzeit und der allgemeinen Mittelschule und Berufsfachschule vom 14. September 2011 festgelegte Besoldung. Die definitive Abrechnung erfolgt am Ende der Stellvertretung.
 
@@ -750,9 +761,16 @@ verordnet:[^ingress-1]
 
 **Stellvertreter**
 
-<sup>1</sup> Die Lektionentarife der Stellvertreter werden im Anhang der vorliegenden Verordnung präzisiert.
+<sup>1</sup> …
 
 <sup>2</sup> Stellvertreter, die im Besitz der erforderlichen Titel und Diplome sind, erhalten 90 Prozent der Besoldung jener Besoldungsklasse (einschliesslich Anteil 13. Monatslohn, Erfahrungsanteil und Ferienanspruch), die einer Lehrperson mit einer Jahresanstellung zugeteilt wird. Die Besoldung einer nicht diplomierten Lehrperson entspricht 60 Prozent jener Besoldungsklasse, die einer diplomierten Lehrperson mit einer Jahresanstellung zugeteilt wird.
+
+<sup>2<sup>bis</sup></sup> Die Besoldung von Stellvertretern für Situationen, die nicht in Absatz 2 erwähnt werden, ist in der folgenden Tabelle festgelegt.
+
+<table>
+<tr><th>Schulstufe/ Titel</th><th>Erforderlicher Abschluss in einem Unterrichtsfach / Mit anerkannter pädagogischer Ausbildung</th><th>Erforderlicher Abschluss ohne Unterrichtsfach / Mit anerkannter pädagogischer Ausbildung ODER Anerkanntes Lehrdiplom in einer anderen Unterrichtsstufe</th><th>Erforderlicher Abschluss in einem Unterrichtsfach / Keine pädagogische Ausbildung</th><th>Erforderlicher Abschluss ohne Unterrichtsfach / Keine pädagogische Ausbildung</th><th>Nicht diplomiert oder tieferer Abschluss als der verlangte Titel / Keine pädagogische Ausbildung</th></tr>
+<tr><td>Sekundarstufe I</td><td>90 Prozent der Besoldungsklasse</td><td>80 Prozent der Besoldungsklasse</td><td>80 Prozent der Besoldungsklasse</td><td>70 Prozent der Besoldungsklasse</td><td>60 Prozent der Besoldungsklasse</td></tr>
+</table>
 
 <sup>3</sup> Im Prinzip wird die Lektionenentlastung (Klassenlehrer, ausserschulische und kulturelle Tätigkeiten usw.), die einer zu vertretenden Lehrperson bewilligt wurde, dem Stellvertreter nicht bezahlt. In Sonderfällen kann die zuständige Dienststelle auf Gesuch der Direktion entscheiden, ob diese Unterrichtslektionen zur Entlastung teilweise oder vollständig entschädigt werden.
 
@@ -780,9 +798,18 @@ verordnet:[^ingress-1]
 
 **Stellvertreter**
 
-<sup>1</sup> Die Lektionentarife der Stellvertreter werden im Anhang der vorliegenden Verordnung präzisiert.
+<sup>1</sup> …
 
 <sup>2</sup> Stellvertreter, die im Besitz der erforderlichen Titel und Diplome sind, erhalten 90 Prozent der Besoldung jener Besoldungsklasse (einschliesslich Anteil 13. Monatslohn, Erfahrungsanteil und Ferienanspruch), die einer Lehrperson mit einer Jahresanstellung zugeteilt wird. Ist dies nicht der Fall, entspricht die Besoldung eines nicht-diplomierten Stellvertreters 60 Prozent der Besoldung jener Besoldungsklasse (einschliesslich Anteil 13. Monatslohn, Erfahrungsanteil und Ferienanspruch), die einer Lehrperson mit einer Jahresanstellung zugeteilt wird.
+
+<sup>2<sup>bis</sup></sup> Die Besoldung von Stellvertretern für Fälle, die nicht in Absatz 2 erwähnt werden, ist in der folgenden Tabelle festgelegt.
+
+<table>
+<tr><th>Schulstufe/Titel</th><th>Erforderlicher Abschluss in einem Unterrichtsfach / Mit anerkannter pädagogischer Ausbildung</th><th>Erforderlicher Abschluss ohne Unterrichtsfach / Mit anerkannter pädagogischer Ausbildung ODER Anerkanntes Lehrdiplom in einer anderen Uterrichtsstufe</th><th>Erforderlicher Titel in einem Unterrichtsfach / Keine pädagogische Ausbildung</th><th>Erforderlicher Titel ohne Unterrichtsfach / Keine pädagogische Ausbildung</th><th>Nicht diplomiert oder tieferer Abschluss als der verlangte Titel / Keine pädagogische Ausbildung</th></tr>
+<tr><td>Allgemeine Mittelschule und Berufsfachschule</td><td>90 Prozent der Besoldungsklasse</td><td>80 Prozent der Besoldungsklasse</td><td>80 Prozent der Besoldungsklasse</td><td>70 Prozent der Besoldungsklasse</td><td>60 Prozent der Besoldungsklasse</td></tr>
+</table>
+
+<sup>2<sup>ter</sup></sup> Für Stellvertreter, deren Vollzeitwochenpensum nicht 23 Lektionen beträgt, wird der Stundentarif anteilig berechnet.
 
 <sup>3</sup> Im Prinzip wird die Lektionenentlastung, die einer zu vertretenden Lehrkraft bewilligt wurde, dem Stellvertreter nicht bezahlt. In Sonderfällen kann die Dienststelle für Unterrichtswesen oder die Dienststelle für Berufsbildung auf Gesuch der Direktion entscheiden, ob diese Unterrichtslektionen zur Entlastung teilweise oder vollständig entschädigt werden.
 
