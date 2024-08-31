@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordonnance du 4 mars 2022 instituant des mesures en lien avec la situation en Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: fr
-version: 2024-08-27
+version: 2024-09-01
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20240827/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20240827-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20240827/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20240901/fr/xml/fedlex-data-admin-ch-eli-cc-2022-151-20240901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20240901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures en lien avec la situation en Ukraine
 
-du 4 mars 2022 (État le 27 août 2024)
+du 4 mars 2022 (État le 1<sup>er</sup> septembre 2024)
 
 Le Conseil fédéral suisse,
 
@@ -767,7 +767,7 @@ L’interdiction prévue à l’al. 1 ne s’applique pas:
 
 <sup>2</sup> L’achat de diamants et de produits avec des diamants visés à l’annexe 27*a* de toute origine qui ont transité par la Fédération de Russie ainsi que l’importation, le transit et le transport de ces biens en Suisse et par la Suisse sont interdits.
 
-<sup>3</sup> …
+<sup>3</sup> L’achat de diamants visés à l’annexe 27*a*, ch. 1 et 2, qui ont été transformés dans un État tiers, consistant en des diamants originaires ou provenant de la Fédération de Russie et ayant un poids égal ou supérieur à 0,5 carat ou 0,1 gramme par diamant ou intégrant de tels diamants ainsi que l’importation, le transit et le transport de ces biens en Suisse et par la Suisse sont interdits.[^14e-2]
 
 <sup>4</sup> L’achat de diamants visés à l’annexe 27*a*, ch. 1, qui ont été transformés dans un État tiers, consistant en des diamants originaires ou provenant de la Fédération de Russie et ayant un poids égal ou supérieur à 1,0 carat par diamant ainsi que l’importation, le transit et le transport de ces biens en Suisse et par la Suisse sont interdits.
 
@@ -780,23 +780,24 @@ L’interdiction prévue à l’al. 1 ne s’applique pas:
 Les interdictions prévues aux al. 1, 3 et 4 ne s’appliquent pas lorsqu’il est prouvé lors de l’importation et indiqué lors de la déclaration en douane que:
 
 - a. s’il s’agit de biens des positions tarifaires 7102 10 00, 7102 31 00 et 7104 21 00, ces biens se trouvaient physiquement en Suisse ou dans l’Union européenne avant la date d’applicabilité de l’interdiction correspondante et ont ensuite été exportés vers un pays tiers autre que la Fédération de Russie;
-- b. s’il s’agit de biens des positions tarifaires 7102 39 00 et 7104 91 00 et de biens visés à l’annexe 27*a*, ch. 3, ces biens se trouvaient physiquement dans un pays tiers autre que la Fédération de Russie ou y ont été transformés ou fabriqués avant la date d’applicabilité de l’interdiction correspondante.[^14e-2]
+- b. s’il s’agit de biens des positions tarifaires 7102 39 00 et 7104 91 00 et de biens visés à l’annexe 27*a*, ch. 3, ces biens se trouvaient physiquement dans un pays tiers autre que la Fédération de Russie ou y ont été transformés ou fabriqués avant la date d’applicabilité de l’interdiction correspondante.[^14e-3]
 
 <sup>6ter</sup>
 
 L’interdiction prévue à l’al. 5 ne s’applique pas aux produits avec des diamants visés à l’annexe 27*a*, ch. 3, fabriqués avant le 1<sup>er</sup> septembre 2024 si ces produits:
 
 - a. ont été importés temporairement en Suisse en provenance de tout pays tiers ou territoire autre que la Fédération de Russie ou ont été réimportés en Suisse après une exportation temporaire depuis la Suisse vers un pays tiers ou territoire autre que la Fédération de Russie, et
-- b. ont été placés sous le régime douanier de l’admission temporaire, du perfectionnement actif ou du perfectionnement passif lors de leur entrée en Suisse ou de leur sortie de la Suisse.[^14e-3]
+- b. ont été placés sous le régime douanier de l’admission temporaire, du perfectionnement actif ou du perfectionnement passif lors de leur entrée en Suisse ou de leur sortie de la Suisse.[^14e-4]
 
 <sup>7</sup> Le SECO peut autoriser des dérogations aux interdictions prévues aux al. 1 à 4 pour l’importation, le transit ou le transport de biens culturels qui sont prêtés dans le cadre d’une coopération culturelle officielle avec la Fédération de Russie.
 
-<sup>8</sup> Lors de l’importation de biens visés aux al. 3 et 4, une preuve doit être fournie informant de l’origine des diamants transformés dans l’État tiers. Cette preuve doit être mentionnée dans la déclaration en douane.[^14e-4]
+<sup>8</sup> Lors de l’importation de biens visés aux al. 3 et 4, une preuve doit être fournie informant de l’origine des diamants transformés dans l’État tiers. Cette preuve doit être mentionnée dans la déclaration en douane.[^14e-5]
 
-[^14e-1]: Introduit par le ch. I de l’O du 25 janv. 2023 ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024, sous réserve de l’al. 4 en vigueur depuis le 1<sup>er</sup> mars 2024 et de l’al. 3 en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^14e-2]: Introduit par le ch. I de l’O du 21 août 2024, en vigueur depuis le 27 août 2024 ([RO 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
+[^14e-1]: Introduit par le ch. I de l’O du 25 janv. 2023 ([RO 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Nouvelle teneur selon le ch. I de l’O du 31 janv. 2024, en vigueur depuis le 1<sup>er</sup> fév. 2024, sous réserve de l’al. 4 en vigueur depuis le 1<sup>er</sup> mars 2024 ([RO 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^14e-2]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
 [^14e-3]: Introduit par le ch. I de l’O du 21 août 2024, en vigueur depuis le 27 août 2024 ([RO 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
-[^14e-4]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 27 août 2024 ([RO 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
+[^14e-4]: Introduit par le ch. I de l’O du 21 août 2024, en vigueur depuis le 27 août 2024 ([RO 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
+[^14e-5]: Nouvelle teneur selon le ch. I de l’O du 21 août 2024, en vigueur depuis le 27 août 2024 ([RO 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
 
 #### Art. 14f
 

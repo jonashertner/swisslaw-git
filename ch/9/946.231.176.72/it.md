@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Ordinanza del 4 marzo 2022 che istituisce provvedimenti in relazione alla situazione in Ucraina
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: it
-version: 2024-08-27
+version: 2024-09-01
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20240827/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20240827-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20240827/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20240901/it/xml/fedlex-data-admin-ch-eli-cc-2022-151-20240901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20240901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti in relazione alla situazione in Ucraina
 
-del 4 marzo 2022 (Stato 27 agosto 2024)
+del 4 marzo 2022 (Stato 1° settembre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -568,7 +568,7 @@ I divieti di cui ai capoversi 1 e 2 non si applicano:
 
 <sup>1</sup> Sono vietati gli scambi, l’intermediazione e il trasporto, incluso il trasbordo da nave a nave, di petrolio greggio e di prodotti petroliferi di cui all’allegato 24 originari della Federazione Russa o provenienti dalla Federazione Russa con o verso Stati al di fuori della Svizzera e dello SEE.
 
-Sono vietati la vendita, il trasporto e il transito di prodotti petroliferi della voce di tariffa doganale 2710 ottenuti da petrolio greggio originario della Federazione Russa o proveniente dalla Federazione Russa importato in Bulgaria dopo il 5 dicembre 2022.[^12b-2]
+<sup>1bis</sup> Sono vietati la vendita, il trasporto e il transito di prodotti petroliferi della voce di tariffa doganale 2710 ottenuti da petrolio greggio originario della Federazione Russa o proveniente dalla Federazione Russa importato in Bulgaria dopo il 5 dicembre 2022.[^12b-2]
 
 <sup>2</sup> Sono vietati la fornitura di assistenza tecnica, di servizi di intermediazione e di servizi finanziari nonché la concessione di mezzi finanziari in relazione con le attività di cui al capoverso 1.
 
@@ -770,7 +770,7 @@ Il divieto di cui al capoverso 1 non si applica:
 
 <sup>2</sup> Sono vietati l’acquisto di diamanti e prodotti con diamanti di cui all’allegato 27*a* di qualsiasi origine che sono transitati attraverso la Federazione Russa nonché l’importazione, il transito e il trasporto di tali beni in e attraverso la Svizzera.
 
-<sup>3</sup> ...
+<sup>3</sup> Sono vietati l’acquisto di diamanti di cui all’allegato *27a* numeri 1 e 2 lavorati in un Paese terzo, contenenti o costituiti da diamanti originari della Federazione Russa o provenienti dalla Federazione Russa di peso pari o superiore a 0,5 carati o 0,1 grammi cadauno, nonché l’importazione, il transito e il trasporto di tali beni in e attraverso la Svizzera.[^14e-2]
 
 <sup>4</sup> Sono vietati l’acquisto di diamanti di cui all’allegato 27*a* numero 1 trasformati in un Paese terzo, costituiti da diamanti provenienti dalla Federazione Russa o originari della Federazione Russa di peso pari o superiore a 1,0 carati cadauno nonché l’importazione, il transito e il trasporto di tali beni in e attraverso la Svizzera.
 
@@ -783,23 +783,24 @@ Il divieto di cui al capoverso 1 non si applica:
 I divieti di cui ai capoversi 1, 3 e 4 non si applicano se all’atto dell’importazione viene provato e indicato sulla dichiarazione doganale che:
 
 - a. si tratta di beni delle voci di tariffa doganale 7102 10 00, 7102 31 00 e 7104 21 00: questi beni erano fisicamente presenti in Svizzera o nell’Unione europea prima dell’entrata in vigore del rispettivo divieto e sono stati successivamente esportati in un Paese terzo diverso dalla Federazione Russa;
-- b. si tratta di beni delle voci di tariffa doganale 7102 39 00 e 7104 91 00 e di beni di cui di cui all’allegato *27a* numero 3: questi beni erano fisicamente situati, sono stati lavorati o fabbricati in un Paese terzo diverso dalla Federazione Russa prima dell’entrata in vigore del rispettivo divieto.[^14e-2]
+- b. si tratta di beni delle voci di tariffa doganale 7102 39 00 e 7104 91 00 e di beni di cui di cui all’allegato *27a* numero 3: questi beni erano fisicamente situati, sono stati lavorati o fabbricati in un Paese terzo diverso dalla Federazione Russa prima dell’entrata in vigore del rispettivo divieto.[^14e-3]
 
 <sup>6ter</sup>
 
 Il divieto di cui al capoverso 5 non si applica ai prodotti con diamanti di cui all’allegato *27a* numero 3 fabbricati prima del 1° settembre 2024, se tali prodotti:
 
 - a. sono stati temporaneamente importati in Svizzera da un Paese o territorio terzo diverso dalla Federazione Russa o sono stati reimportati in Svizzera dopo l’esportazione temporanea dalla Svizzera in un Paese o territorio terzo diverso dalla Federazione Russa; e
-- b. all’atto dell’importazione in Svizzera o dell’esportazione dalla Svizzera sono stati vincolati al regime doganale di ammissione temporanea, perfezionamento attivo o perfezionamento passivo.[^14e-3]
+- b. all’atto dell’importazione in Svizzera o dell’esportazione dalla Svizzera sono stati vincolati al regime doganale di ammissione temporanea, perfezionamento attivo o perfezionamento passivo.[^14e-4]
 
 <sup>7</sup> La SECO può autorizzare deroghe ai divieti di cui ai capoversi 1–4 per l’importazione, il transito o il trasporto di beni culturali in prestito nel contesto della cooperazione culturale ufficiale con la Federazione Russa.
 
-<sup>8</sup> All’atto dell’importazione dei beni di cui ai capoversi 3 e 4 deve essere apportata una prova che fornisca informazioni sull’origine dei diamanti lavorati nel Paese terzo. La prova deve essere indicata sulla dichiarazione doganale.[^14e-4]
+<sup>8</sup> All’atto dell’importazione dei beni di cui ai capoversi 3 e 4 deve essere apportata una prova che fornisca informazioni sull’origine dei diamanti lavorati nel Paese terzo. La prova deve essere indicata sulla dichiarazione doganale.[^14e-5]
 
-[^14e-1]: Introdotto dal n. I dell’O del 25 gen. 2023 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024, cpv. 4 dal 1° mar. 2024, cpv. 3 dal 1° set. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^14e-2]: Introdotto dal n. I dell’O del 21 ago. 2024, in vigore dal 27 ago. 2024 ([RU 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
+[^14e-1]: Introdotto dal n. I dell’O del 25 gen. 2023 ([RU 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Nuovo testo giusta il n. I dell’O del 31 gen. 2024, in vigore dal 1° feb. 2024, cpv. 4 dal 1° mar. 2024 dal 1° mar. 2024 ([RU 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^14e-2]: Nuovo testo giusta il n. I dell’O del 21 ago. 2024, in vigore dal 1° set. 2024 ([RU 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
 [^14e-3]: Introdotto dal n. I dell’O del 21 ago. 2024, in vigore dal 27 ago. 2024 ([RU 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
-[^14e-4]: Nuovo testo giusta il n. I dell’O del 21 ago. 2024, in vigore dal 27 ago. 2024 ([RU 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
+[^14e-4]: Introdotto dal n. I dell’O del 21 ago. 2024, in vigore dal 27 ago. 2024 ([RU 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
+[^14e-5]: Nuovo testo giusta il n. I dell’O del 21 ago. 2024, in vigore dal 27 ago. 2024 ([RU 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
 
 #### Art. 14f
 

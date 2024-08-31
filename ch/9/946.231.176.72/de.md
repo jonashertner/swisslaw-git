@@ -3,18 +3,18 @@ sr: "946.231.176.72"
 title: Verordnung vom 4. März 2022 über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/151"
 language: de
-version: 2024-08-27
+version: 2024-09-01
 adopted: 2022-03-04
 in_force: 2022-03-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20240827/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20240827-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20240827/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/151/20240901/de/xml/fedlex-data-admin-ch-eli-cc-2022-151-20240901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/151/20240901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über Massnahmen im Zusammenhang mit der Situation in der Ukraine
 
-vom 4. März 2022 (Stand am 27. August 2024)
+vom 4. März 2022 (Stand am 1. September 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -770,7 +770,7 @@ Das Verbot nach Absatz 1 gilt nicht für:
 
 <sup>2</sup> Der Kauf von Diamanten und Erzeugnissen mit Diamanten gemäss Anhang 27*a* jeglichen Ursprungs, die durch die Russische Föderation durchgeführt wurden, und die Einfuhr, die Durchfuhr und der Transport dieser Güter in und durch die Schweiz sind verboten.
 
-<sup>3</sup> …
+<sup>3</sup> Der Kauf von Diamanten nach Anhang 27*a* Ziffern 1 und 2, die in einem Drittstaat verarbeitet wurden, aus Diamanten aus der Russischen Föderation oder mit Ursprung in der Russischen Föderation bestehen oder solche enthalten und ein Gewicht von mindestens 0,5 Karat oder 0,1 Gramm pro Diamant aufweisen, und die Einfuhr, die Durchfuhr und der Transport dieser Güter in und durch die Schweiz sind verboten.[^14e-2]
 
 <sup>4</sup> Der Kauf von Diamanten gemäss Anhang 27*a* Ziffer 1, die in einem Drittstaat verarbeitet wurden, aus Diamanten aus der Russischen Föderation oder mit Ursprung in der Russischen Föderation bestehen und ein Gewicht von mindestens 1,0 Karat pro Diamant aufweisen, und die Einfuhr, die Durchfuhr und der Transport dieser Güter in und durch die Schweiz sind verboten.
 
@@ -783,23 +783,24 @@ Das Verbot nach Absatz 1 gilt nicht für:
 Die Verbote nach den Absätzen 1, 3 und 4 gelten nicht, sofern bei der Einfuhr Folgendes nachgewiesen und bei der Zollanmeldung angegeben wird:
 
 - a. falls es sich um Güter der Zolltarifnummern 7102 10 00, 7102 31 00 und 7104 21 00 handelt: dass sich die Güter vor dem Geltungsbeginn des jeweiligen Verbots physisch in der Schweiz oder der Europäischen Union befanden und sie anschliessend in ein anderes Drittland als die Russische Föderation ausgeführt wurden;
-- b. falls es sich um Güter der Zolltarifnummern 7102 39 00 und 7104 91 00 sowie Gütern gemäss Anhang 27*a* Ziffer 3 handelt: dass sich die Güter vor dem Geltungsbeginn des jeweiligen Verbots physisch in einem anderen Drittstaat als der Russischen Föderation befanden, dort verarbeitet oder hergestellt wurden.[^14e-2]
+- b. falls es sich um Güter der Zolltarifnummern 7102 39 00 und 7104 91 00 sowie Gütern gemäss Anhang 27*a* Ziffer 3 handelt: dass sich die Güter vor dem Geltungsbeginn des jeweiligen Verbots physisch in einem anderen Drittstaat als der Russischen Föderation befanden, dort verarbeitet oder hergestellt wurden.[^14e-3]
 
 <sup>6ter</sup>
 
 Das Verbot nach Absatz 5 gilt nicht für Erzeugnisse mit Diamanten gemäss Anhang 27*a* Ziffer 3, die vor dem 1. September 2024 hergestellt wurden, wenn diese Erzeugnisse:
 
 - a. aus einem anderen Drittstaat oder Gebiet als der Russischen Föderation vorübergehend in die Schweiz eingeführt oder nach vorübergehender Ausfuhr aus der Schweiz in einen anderen Drittstaat oder ein anderes Gebiet als die Russische Föderation wieder in die Schweiz eingeführt wurden; und
-- b. bei der Einfuhr in die Schweiz oder der Ausfuhr aus der Schweiz in das Zollverfahren der vorübergehenden Verwendung, der aktiven Veredelung oder der passiven Veredelung angemeldet wurden.[^14e-3]
+- b. bei der Einfuhr in die Schweiz oder der Ausfuhr aus der Schweiz in das Zollverfahren der vorübergehenden Verwendung, der aktiven Veredelung oder der passiven Veredelung angemeldet wurden.[^14e-4]
 
 <sup>7</sup> Das SECO kann für die Einfuhr, die Durchfuhr oder den Transport von Kulturgütern Ausnahmen von den Verboten nach den Absätzen 1–4 bewilligen, wenn es sich dabei um Leihgaben im Rahmen der offiziellen kulturellen Zusammenarbeit mit der Russischen Föderation handelt.
 
-<sup>8</sup> Bei der Einfuhr von Gütern nach den Absätzen 3 und 4 muss ein Nachweis vorliegen, der Auskunft über den Ursprung der im Drittstaat verarbeiteten Diamanten gibt. Dieser Nachweis muss bei der Zollanmeldung angegeben werden.[^14e-4]
+<sup>8</sup> Bei der Einfuhr von Gütern nach den Absätzen 3 und 4 muss ein Nachweis vorliegen, der Auskunft über den Ursprung der im Drittstaat verarbeiteten Diamanten gibt. Dieser Nachweis muss bei der Zollanmeldung angegeben werden.[^14e-5]
 
-[^14e-1]: Eingefügt durch Ziff. I der V vom 25. Jan. 2023 ([AS 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. Febr. 2024, Abs. 4 in Kraft seit 1. März 2024, Abs. 3 in Kraft seit 1. Sept. 2024 ([AS 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
-[^14e-2]: Eingefügt durch Ziff. I der V vom 21. Aug. 2024, in Kraft seit 27. Aug. 2024 ([AS 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
+[^14e-1]: Eingefügt durch Ziff. I der V vom 25. Jan. 2023 ([AS 2023 31](https://fedlex.data.admin.ch/eli/oc/2023/31)). Fassung gemäss Ziff. I der V vom 31. Jan. 2024, in Kraft seit 1. Febr. 2024, Abs. 4 in Kraft seit 1. März 2024 ([AS 2024 51](https://fedlex.data.admin.ch/eli/oc/2024/51)).
+[^14e-2]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Sept. 2024 ([AS 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
 [^14e-3]: Eingefügt durch Ziff. I der V vom 21. Aug. 2024, in Kraft seit 27. Aug. 2024 ([AS 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
-[^14e-4]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 27. Aug. 2024 ([AS 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
+[^14e-4]: Eingefügt durch Ziff. I der V vom 21. Aug. 2024, in Kraft seit 27. Aug. 2024 ([AS 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
+[^14e-5]: Fassung gemäss Ziff. I der V vom 21. Aug. 2024, in Kraft seit 27. Aug. 2024 ([AS 2024 433](https://fedlex.data.admin.ch/eli/oc/2024/433)).
 
 #### Art. 14f
 
