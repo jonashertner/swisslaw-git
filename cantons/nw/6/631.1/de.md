@@ -4,35 +4,34 @@ number: "631.1"
 title: Gesetz über die Gewässer
 short: "Gewässergesetz, GewG"
 language: de
-version: 2020-11-01
-corrected: 2024-02-05
-version_adopted: 2020-02-12
+version: 2024-09-01
+version_adopted: 2024-05-29
 adopted: 2020-02-12
 in_force: 2020-11-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/631.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/434/pdf_file"
-text: pdf
+pdf: "https://gesetze.nw.ch/api/de/versions/1429/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Gesetz über die Gewässer (Gewässergesetz, GewG)
+# Gesetz über die Gewässer
 
-vom 12. Februar 2020[^t-1]
+(Gewässergesetz, GewG)
+
+vom 12.02.2020 (Stand 01.09.2024)
 
 Der Landrat von Nidwalden,
 
-gestützt auf Art. 60 der Kantonsverfassung, in Ausführung von Art. 12 des Bundesgesetzes vom 21. Juni 1991 über den Wasserbau[^t-2], Art. 75 des Bundesgesetzes vom 22. Dezember 1916 über die Nutzbarmachung der Wasserkräfte (Wasserrechtsgesetz, WRG)[^t-3], Art. 45 des Bundesgesetzes vom 24. Januar 1991 über den Schutz der Gewässer (Gewässerschutzgesetz, GSchG)[^t-4] und Art. 664 des Schweizerischen Zivilgesetzbuches (ZGB)[^t-5],
+gestützt auf Art. 60 der Kantonsverfassung, in Ausführung von Art. 12 des Bundesgesetzes vom 21. Juni 1991 über den Wasserbau[^ingress-1], Art. 75 des Bundesgesetzes vom 22. Dezember 1916 über die Nutzbarmachung der Wasserkräfte (Wasserrechtsgesetz, WRG)[^ingress-2], Art. 45 des Bundesgesetzes vom 24. Januar 1991 über den Schutz der Gewässer (Gewässerschutzgesetz, GSchG)[^ingress-3] und Art. 664 des Schweizerischen Zivilgesetzbuches (ZGB)[^ingress-4],
 
 beschliesst:
 
-[^t-1]: A 2020, 327, 2029; vom Bund genehmigt am 20. August 2020; in Kraft seit 1. November 2020
-[^t-2]: SR 721.100
-[^t-3]: SR 721.80
-[^t-4]: SR 814.20
-[^t-5]: SR 220
+[^ingress-1]: SR 721.100
+[^ingress-2]: SR 721.80
+[^ingress-3]: SR 814.20
+[^ingress-4]: SR 220
 
-### I. ALLGEMEINE BESTIMMUNGEN
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
@@ -41,11 +40,8 @@ beschliesst:
 <sup>1</sup> Dieses Gesetz regelt:
 
 - 1\. den Hochwasserschutz, die Revitalisierung und den Unterhalt der Gewässer;
-
 - 2\. den Schutz der Gewässer;
-
 - 3\. die Nutzung der Gewässer;
-
 - 4\. die Wasserversorgung.
 
 <sup>2</sup> Vorbehalten bleiben die Regelungen der Spezialgesetzgebung, insbesondere die Gesetzgebungen über die Binnenschifffahrt[^1-1] und die Fischerei[^1-2].
@@ -59,16 +55,12 @@ beschliesst:
 
 **Zweck**
 
-Dieses Gesetz bezweckt den nachhaltigen Umgang mit Gewässern, insbesondere:
+<sup>1</sup> Dieses Gesetz bezweckt den nachhaltigen Umgang mit Gewässern, insbesondere:
 
 - 1\. den Schutz von Menschen, Tieren und erheblichen Sachwerten vor schädlichen Auswirkungen der Gewässer;
-
 - 2\. die Gewässer natürlich zu erhalten oder naturnah zu gestalten;
-
 - 3\. den Schutz der Gewässer vor nachteiligen Einwirkungen;
-
 - 4\. die Regelung der Nutzung der Gewässer;
-
 - 5\. die Sicherstellung der Versorgung der Menschen, Tiere und Pflanzen mit Wasser in hinreichender Qualität und Menge.
 
 #### Art. 3
@@ -81,9 +73,7 @@ Dieses Gesetz bezweckt den nachhaltigen Umgang mit Gewässern, insbesondere:
 
 #### Art. 4
 
-**Öffentliche Gewässer**
-
-- 1\. Grundsatz
+**Öffentliche Gewässer 1. Grundsatz**
 
 <sup>1</sup> Die ober- und unterirdischen Gewässer sind grundsätzlich öffentlich.
 
@@ -95,34 +85,31 @@ Dieses Gesetz bezweckt den nachhaltigen Umgang mit Gewässern, insbesondere:
 
 #### Art. 5
 
-**2. Ausnahmen**
+**2. Ausnahmen a) Quellen**
 
-- a) Quellen Quellen sind privat, wenn:
+<sup>1</sup> Quellen sind privat, wenn:
 
 - 1\. deren oberirdischer Wasserlauf kein Gerinne zu bilden vermag; und
-
 - 2\. sie eine mittlere Ergiebigkeit von weniger als 300 Litern pro Minute aufweisen.
 
-#### Art. 6 b
+#### Art. 6
 
-**) Nachweis privater Gewässer**
+**b) Nachweis privater Gewässer**
 
-<sup>1</sup> Gewässer sind privat, wenn der Nachweis gemäss Art. 664 Abs. 2 ZGB[^6b-1] erbracht werden kann. Es können auch nur Teile des Gewässers privat sein.
+<sup>1</sup> Gewässer sind privat, wenn der Nachweis gemäss Art. 664 Abs. 2 ZGB[^6-1] erbracht werden kann. Es können auch nur Teile des Gewässers privat sein.
 
 <sup>2</sup> Der Nachweis gilt höchstens im Umfang der bisherigen rechtmässigen Nutzung.
 
 <sup>3</sup> Für den Nachweis muss glaubhaft gemacht werden, dass:
 
-- 1\. das Gewässer bereits vor dem Inkrafttreten des Gesetzes vom 30. April 1967 über die Rechte am Wasser (Wasserrechtsgesetz, WRG)[^6b-2] ununterbrochen privat genutzt wurde;
-
+- 1\. das Gewässer bereits vor dem Inkrafttreten des Gesetzes vom 30. April 1967 über die Rechte am Wasser (Wasserrechtsgesetz, WRG)[^6-2] ununterbrochen privat genutzt wurde;
 - 2\. diese private Nutzung gemäss dem Wasserrechtsgesetz vom 30. April 1967 weiterhin ohne Bewilligung beziehungsweise Verleihung zulässig war; und
-
 - 3\. eine Dienstbarkeit im Grundbuch eingetragen ist, sofern sich das genutzte Gewässer auf einem fremden Grundstück befindet.
 
 <sup>4</sup> Bei Quellen gilt der Nachweis alternativ zu Abs. 3 als erbracht, wenn die Dienstbarkeit gemäss Art. 704 Abs. 2 ZGB vor dem Inkrafttreten des Wasserrechtsgesetzes vom 30. April 1967 im Grundbuch eingetragen wurde.
 
-[^6b-1]: SR 220
-[^6b-2]: A 1967, 563; vom Bundesrat genehmigt am 29. Februar 1968; Inkrafttreten am 1. Januar 1968
+[^6-1]: SR 210
+[^6-2]: A 1967, 563; vom Bundesrat genehmigt am 29. Februar 1968; Inkrafttreten am 1. Januar 1968
 
 #### Art. 7
 
@@ -139,7 +126,6 @@ Dieses Gesetz bezweckt den nachhaltigen Umgang mit Gewässern, insbesondere:
 <sup>1</sup> Der Kanton führt:
 
 - 1\. einen Kataster über die Gewässer;
-
 - 2\. ein Verzeichnis über die Wasserrechte.
 
 <sup>2</sup> Gewässerkataster und Wasserrechtsverzeichnis haben keine Rechtsverbindlichkeit.
@@ -173,9 +159,7 @@ Dieses Gesetz bezweckt den nachhaltigen Umgang mit Gewässern, insbesondere:
 <sup>1</sup> Personen mit rechtlicher oder tatsächlicher Herrschaft über Grundstücke und Anlagen haben den Konzessions-, Bewilligungs- oder Aufsichtsbehörden beziehungsweise den von ihnen beauftragten Stellen:
 
 - 1\. jederzeit Zugang zu ihren Grundstücken und Anlagen zu gewähren;
-
 - 2\. erforderliche Auskünfte zu erteilen und Unterlagen auszuhändigen;
-
 - 3\. Untersuchungen oder Planungsarbeiten auf dem Grundstück sowie in und um Anlagen zu dulden.
 
 <sup>2</sup> Sie haben den Personen, die gemäss Art. 19 ff. für den Wasserbau zuständig sind, zur Wahrnehmung ihrer gesetzlichen Aufgaben Zugang zu ihren Grundstücken zu gewähren.
@@ -201,7 +185,6 @@ Dieses Gesetz bezweckt den nachhaltigen Umgang mit Gewässern, insbesondere:
 <sup>2</sup> Im Weiteren gelten insbesondere die Vorschriften:
 
 - 1\. des Gemeindegesetzes[^13-1] über die Aufsicht;
-
 - 2\. des Verwaltungsrechtspflegegesetzes[^13-2] über die Ersatzvornahme.
 
 [^13-1]: NG 171.1
@@ -211,7 +194,7 @@ Dieses Gesetz bezweckt den nachhaltigen Umgang mit Gewässern, insbesondere:
 
 **Sicherheitsleistung**
 
-Zur Sicherstellung der im Rahmen einer Bewilligung oder Konzession festgelegten Bedingungen und Auflagen kann die anordnende Instanz eine angemessene Sicherheitsleistung verlangen.
+<sup>1</sup> Zur Sicherstellung der im Rahmen einer Bewilligung oder Konzession festgelegten Bedingungen und Auflagen kann die anordnende Instanz eine angemessene Sicherheitsleistung verlangen.
 
 #### Art. 15
 
@@ -222,28 +205,26 @@ Zur Sicherstellung der im Rahmen einer Bewilligung oder Konzession festgelegten 
 <sup>2</sup> Das Enteignungsrecht umfasst:
 
 - 1\. die Gegenstände nach der kantonalen Enteignungsgesetzgebung[^15-2];
-
 - 2\. entgegenstehende private und öffentliche Nutzungsrechte.
 
-<sup>3</sup> Soweit nicht eidgenössische Enteignungsvorschriften anwendbar sind, richtet sich die Enteignung nach dem Gesetz über die Enteignung (Kantonales Enteignungsgesetz, kEntG)[^15-2]; Art. 10 und 18 des Bundesgesetzes über die Enteignung[^15-3] kommen dabei zwingend zur Anwendung.
+<sup>3</sup> Soweit nicht eidgenössische Enteignungsvorschriften anwendbar sind, richtet sich die Enteignung nach dem Gesetz über die Enteignung (Kantonales Enteignungsgesetz, kEntG)[^15-3]; Art. 10 und 18 des Bundesgesetzes über die Enteignung[^15-4] kommen dabei zwingend zur Anwendung.
 
 [^15-1]: SR 721.80
 [^15-2]: NG 266.1
-[^15-3]: SR 711
+[^15-3]: NG 266.1
+[^15-4]: SR 711
 
 #### Art. 16
 
-**Ersatz und Abgeltung bei Beeinträchtigungen von**
-
-### Gewässern
+**Ersatz und Abgeltung bei Beeinträchtigungen von Gewässern**
 
 <sup>1</sup> Wird bei Massnahmen an Gewässern eine zusätzliche Beeinträchtigung von Lebensräumen nicht verhindert, hat die Verursacherin oder der Verursacher für gleichwertigen Ersatz zu sorgen.
 
-<sup>2</sup> Ist ein gleichwertiger Ersatz nicht möglich, ist eine zweckgebundene Abgeltung gemäss Art. 26 Abs. 2 des Naturschutzgesetzes (NSchG)[^hGewässern-1] zu leisten.
+<sup>2</sup> Ist ein gleichwertiger Ersatz nicht möglich, ist eine zweckgebundene Abgeltung gemäss Art. 26 Abs. 2 des Naturschutzgesetzes (NSchG)[^16-1] zu leisten.
 
 <sup>3</sup> Die Bewilligungsinstanz entscheidet über die Ersatzmassnahmen und die Abgeltung. Dieser Entscheid bedarf der Zustimmung des Kantons.
 
-[^hGewässern-1]: NG 331.1
+[^16-1]: NG 331.1
 
 #### Art. 17
 
@@ -253,9 +234,9 @@ Zur Sicherstellung der im Rahmen einer Bewilligung oder Konzession festgelegten 
 
 <sup>2</sup> Die Kosten für die Anmerkung hat diejenige Person zu tragen, welche das Verfahren, in dem die Eigentumsbeschränkung verfügt oder vereinbart wurde, verursacht hat.
 
-### II. WASSERBAU
+## 2 Wasserbau
 
-### A. Allgemeine Bestimmungen
+### 2.1 Allgemeine Bestimmungen
 
 #### Art. 18
 
@@ -264,100 +245,76 @@ Zur Sicherstellung der im Rahmen einer Bewilligung oder Konzession festgelegten 
 <sup>1</sup> Die Bestimmungen zum Wasserbau bezwecken:
 
 - 1\. die Risiken, die von Gewässern ausgehen, zu mindern (Hochwasserschutz);
-
 - 2\. die natürlichen Funktionen der Gewässer zu erhalten oder wiederherzustellen (Revitalisierung);
-
 - 3\. den Unterhalt der Gewässer sicherzustellen.
 
 <sup>2</sup> Der Wasserbau umfasst planerische, organisatorische, betriebliche und bauliche Massnahmen.
 
 #### Art. 19
 
-**Zuständigkeit**
+**Zuständigkeit 1. Grundsatz**
 
-### 1. Grundsatz
-
-Die Anstösserinnen und Anstösser an Gewässer sind für den Wasserbau zuständig (Wasserbaupflicht), soweit nicht Nutzungsberechtigte, die Gemeinden oder der Kanton:
+<sup>1</sup> Die Anstösserinnen und Anstösser an Gewässer sind für den Wasserbau zuständig (Wasserbaupflicht), soweit nicht Nutzungsberechtigte, die Gemeinden oder der Kanton:
 
 - 1\. für bestimmte Gewässer wasserbaupflichtig sind; oder
-
 - 2\. für bestimmte Aufgaben zuständig sind.
 
 #### Art. 20
 
-**2. Gemeinden**
+**2. Gemeinden a) Wasserbaupflicht**
 
-- a) Wasserbaupflicht Die Gemeinden sind wasserbaupflichtig für diejenigen Gewässer oder Gewässerabschnitte, bei denen:
+<sup>1</sup> Die Gemeinden sind wasserbaupflichtig für diejenigen Gewässer oder Gewässerabschnitte, bei denen:
 
 - 1\. ein erhebliches Schutzdefizit besteht und ein allfälliger Schaden grossflächig auftritt;
-
 - 2\. das Schadenpotential erheblich ist und mehrheitlich abseits der Grundstücke der Anstösserinnen und Anstösser besteht;
-
 - 3\. sie bauliche Massnahmen vor Inkrafttreten dieses Gesetzes umgesetzt haben; oder
-
 - 4\. die Gemeindeversammlung die Übernahme der Wasserbaupflicht beschliesst.
 
-#### Art. 21 b
+#### Art. 21
 
-**) Zuständigkeiten für bestimmte Aufgaben**
+**b) Zuständigkeiten für bestimmte Aufgaben**
 
-Die Gemeinden sind ungeachtet der Wasserbaupflicht zuständig für:
+<sup>1</sup> Die Gemeinden sind ungeachtet der Wasserbaupflicht zuständig für:
 
 - 1\. die Mitwirkung bei der Grundlagenerhebung;
-
 - 2\. raumplanerische Massnahmen;
-
 - 3\. Revitalisierungen, soweit diese nicht durch Private im Rahmen von Projekten an Gewässern erfolgen oder nicht der Kanton wasserbaupflichtig ist;
-
 - 4\. die Notfallplanungen und Notfalleinsätze;
-
 - 5\. die Überwachung der Gewässer und die Anordnung der nötigen Massnahmen, insbesondere bei drohender Gefahr.
 
 #### Art. 22
 
-**3. Kanton**
+**3. Kanton a) Wasserbaupflicht**
 
-- a) Wasserbaupflicht Der Kanton ist wasserbaupflichtig für:
+<sup>1</sup> Der Kanton ist wasserbaupflichtig für:
 
 - 1\. die Engelbergeraa;
-
 - 2\. die Einmündungen in die Engelbergeraa aus:
+  - a) dem Buoholzbach;
+  - b) dem Rotihaltengraben;
+  - c) dem Steinibach.
 
-- a) dem Buoholzbach;
+#### Art. 23
 
-- b) dem Rotihaltengraben;
-
-- c) dem Steinibach.
-
-#### Art. 23 b
-
-**) Zuständigkeiten für bestimmte Aufgaben**
+**b) Zuständigkeiten für bestimmte Aufgaben**
 
 <sup>1</sup> Der Kanton ist ungeachtet der Wasserbaupflicht zuständig für:
 
 - 1\. die Erstellung und die Nachführung der Grundlagen und der übergeordneten Gefahrenbeurteilung;
-
 - 2\. die Erstellung kantonsweiter Risikobeurteilungen;
-
 - 3\. die Notfallplanung Engelbergeraa und die Koordination aller Notfallplanungen;
-
 - 4\. den Erlass von Richtlinien;
-
 - 5\. die Beratung im Wasserbau;
-
 - 6\. die Wirkungskontrollen bei Wasserbauprojekten.
 
 <sup>2</sup> Er ist beim Vierwaldstättersee zuständig für:
 
 - 1\. die Seeregulierung;
-
 - 2\. die Geschiebeentnahme und Revitalisierung bei den Deltas;
-
 - 3\. die Räumung von Schwemmgut und Verkrautungen im offenen See, welche die Schifffahrt gefährden;
-
 - 4\. die Säuberung abgelegener natürlicher Ufer von Abfällen.
 
-### B. Wasserbauliche Massnahmen
+### 2.2 Wasserbauliche Massnahmen
 
 #### Art. 24
 
@@ -368,18 +325,13 @@ Die Gemeinden sind ungeachtet der Wasserbaupflicht zuständig für:
 <sup>2</sup> Die wasserbaulichen Massnahmen sind nach folgenden Prioritäten umzusetzen:
 
 - 1\. Unterhalt der Gewässer;
-
 - 2\. raumplanerische Massnahmen;
-
 - 3\. organisatorische Massnahmen;
-
 - 4\. bauliche Massnahmen.
 
 #### Art. 25
 
-**Gefahren- und Risikobeurteilung**
-
-### 1. übergeordnete Gefahrenbeurteilung
+**Gefahren- und Risikobeurteilung 1. übergeordnete Gefahrenbeurteilung**
 
 <sup>1</sup> Der Kanton erarbeitet unter Mitwirkung der Gemeinden für Gebiete, die von Hochwasser bedroht sind (Gefahrengebiete), eine behördenverbindliche, übergeordnete Gefahrenbeurteilung; sie wird durch die Fachkommission Naturgefahren erlassen und bedarf der Genehmigung des Regierungsrates.
 
@@ -397,30 +349,23 @@ Die Gemeinden sind ungeachtet der Wasserbaupflicht zuständig für:
 
 **3. Risikobeurteilung**
 
-Auf der Grundlage der übergeordneten Gefahrenbeurteilung und der Schutzziele sind Risikobeurteilungen im Hinblick auf die Massnahmenplanung zu erstellen.
+<sup>1</sup> Auf der Grundlage der übergeordneten Gefahrenbeurteilung und der Schutzziele sind Risikobeurteilungen im Hinblick auf die Massnahmenplanung zu erstellen.
 
 #### Art. 28
 
-**Erhaltung und Aufwertung von Seeufern und**
-
-### Seegebieten
+**Erhaltung und Aufwertung von Seeufern und Seegebieten**
 
 <sup>1</sup> Wertvolle Ufer und Seegebiete dürfen nicht beeinträchtigt werden, sofern das öffentliche Interesse nicht Eingriffe erfordert; als wertvoll gelten insbesondere:
 
 - 1\. Flachwassergebiete;
-
 - 2\. Fluss- und Bacheinmündungen;
-
 - 3\. natürliche Uferabschnitte;
-
 - 4\. Uferabschnitte und Seegebiete mit grossem Aufwertungspotenzial.
 
 <sup>2</sup> Erneuerungen bestehender Seeuferbefestigungen sind unter Berücksichtigung des vorhandenen Aufwertungspotenzials möglichst naturnah auszuführen. Dabei sind insbesondere zu beachten:
 
 - 1\. die Eingliederung in die Landschaft;
-
 - 2\. die Reduktion der Ufererosion;
-
 - 3\. die Förderung der standortgerechten Ufervegetation.
 
 #### Art. 29
@@ -432,16 +377,13 @@ Auf der Grundlage der übergeordneten Gefahrenbeurteilung und der Schutzziele si
 <sup>2</sup> Auf die Öffnung kann mit Zustimmung der Direktion verzichtet werden, wenn dies:
 
 - 1\. aus Gründen des Hochwasserschutzes oder der Siedlungsentwässerung nicht erforderlich ist; und
-
 - 2\. für die Natur und Landschaft im Verhältnis zum Aufwand nur einen geringen Nutzen bringt.
 
 <sup>3</sup> Mit Zustimmung der Direktion kann auf die Öffnung verzichtet werden, wenn dies gestützt auf einen Sondernutzungsplan, der beim Inkrafttreten dieses Gesetzes bereits genehmigt war, nicht umsetzbar ist.
 
 #### Art. 30
 
-**Gewässerunterhalt**
-
-### 1. Grundsatz
+**Gewässerunterhalt 1. Grundsatz**
 
 <sup>1</sup> Die Wasserbaupflichtigen sorgen für die Ausführung der Unterhaltsmassnahmen am Gerinne, Ufer und Delta sowie an Bauten und Anlagen des Wasserbaus.
 
@@ -455,19 +397,15 @@ Auf der Grundlage der übergeordneten Gefahrenbeurteilung und der Schutzziele si
 
 **2. Vernachlässigung des Unterhalts**
 
-Die Direktion beziehungsweise der Gemeinderat hat einzuschreiten, wenn der Unterhalt von Gewässern durch die Gemeinde beziehungsweise die privaten Wasserbaupflichtigen auf eine Weise vernachlässigt wird, die:
+<sup>1</sup> Die Direktion beziehungsweise der Gemeinderat hat einzuschreiten, wenn der Unterhalt von Gewässern durch die Gemeinde beziehungsweise die privaten Wasserbaupflichtigen auf eine Weise vernachlässigt wird, die:
 
 - 1\. eine Gefährdung von Menschen, Tieren oder erheblichen Sachwerten zur Folge haben kann;
-
 - 2\. künftige wasserbauliche Massnahmen erschwert; oder
-
 - 3\. die Erhaltung des natürlichen Ufers gefährdet.
 
 #### Art. 32
 
-**Raumplanerische Massnahmen**
-
-### 1. Grundsatz
+**Raumplanerische Massnahmen 1. Grundsatz**
 
 <sup>1</sup> Die Gemeinden und der Kanton sorgen dafür, dass Hochwasserrisiken und die Beeinträchtigung von Gewässern möglichst vermieden werden.
 
@@ -479,9 +417,7 @@ Die Direktion beziehungsweise der Gemeinderat hat einzuschreiten, wenn der Unter
 
 #### Art. 33
 
-**2. Gewässerraum**
-
-- a) allgemein
+**2. Gewässerraum a) allgemein**
 
 <sup>1</sup> Die Ausscheidung und zulässige Nutzung des Gewässerraums richtet sich nach den Vorschriften der Bundesgesetzgebung über den Gewässerschutz[^33-1] und den Wasserbau[^33-2].
 
@@ -493,43 +429,38 @@ Die Direktion beziehungsweise der Gemeinderat hat einzuschreiten, wenn der Unter
 [^33-2]: SR 721.100
 [^33-3]: NG 611.1
 
-#### Art. 34 b
+#### Art. 34
 
-**) Uferlinie Seen**
+**b) Uferlinie Seen**
 
-<sup>1</sup> Die Uferlinie des Vierwaldstädtersees ergibt sich aus seiner horizontalen Begrenzung bei einem Wasserstand von 434.00 m.ü.M.
+<sup>1</sup> Die Uferlinie des Vierwaldstättersees ergibt sich aus seiner horizontalen Begrenzung bei einem Wasserstand von 434.00 m.ü.M.
 
 <sup>2</sup> Die Direktion legt die Uferlinie bei den übrigen Seen gestützt auf den regelmässig wiederkehrenden höchsten Wasserstand im Einzelfall fest.
 
 <sup>3</sup> Bei der Revitalisierung von Seeufern wird die Uferlinie an die veränderten Verhältnisse angepasst; seeseitig bleibt der Gewässerraum jedoch durch die Uferlinie vor der Revitalisierung begrenzt.
 
-#### Art. 35 c
+#### Art. 35
 
-**) Festlegung bei Verbauung oder Korrektion eines**
-
-### Gewässers
+**c) Festlegung bei Verbauung oder Korrektion eines Gewässers**
 
 <sup>1</sup> Bei der Verbauung oder der Korrektion eines Gewässers hat die Bewilligungsinstanz den Gewässerraum festzulegen, wenn:
 
 - 1\. die Festlegung eines solchen gemäss Bundesrecht erforderlich ist und keine Gewässerraumzone ausgeschieden ist; oder
-
 - 2\. der Gewässerraum abweichend von der Gewässerraumzone festgelegt werden soll.
 
 <sup>2</sup> Die Festlegung der Gewässerräume bedarf der Zustimmung der Direktion.
 
-#### Art. 36 d
+#### Art. 36
 
-**) Bauten und Anlagen im Gewässerraum**
+**d) Bauten und Anlagen im Gewässerraum**
 
-Die für die Bewilligung zuständige Instanz erteilt gestützt auf die Bundesgesetzgebung über den Gewässerschutz[^36d-1] Ausnahmenbewilligungen für Bauten und Anlagen im Gewässerraum; sie bedürfen der Genehmigung der Direktion.
+<sup>1</sup> Die für die Bewilligung zuständige Instanz erteilt gestützt auf die Bundesgesetzgebung über den Gewässerschutz[^36-1] Ausnahmenbewilligungen für Bauten und Anlagen im Gewässerraum; sie bedürfen der Zustimmung der Direktion.
 
-[^36d-1]: SR 814.20
+[^36-1]: SR 814.20
 
 #### Art. 37
 
-**3. Abflusswege**
-
-- a) allgemein
+**3. Abflusswege a) allgemein**
 
 <sup>1</sup> Als Abflusswege gelten die gemäss Planungs- und Baugesetzgebung[^37-1] festgelegten Abflusswegzonen; vorbehalten bleibt Art. 38.
 
@@ -537,16 +468,13 @@ Die für die Bewilligung zuständige Instanz erteilt gestützt auf die Bundesges
 
 [^37-1]: NG 611.1
 
-#### Art. 38 b
+#### Art. 38
 
-**) Festlegung bei Verbauung oder Korrektion eines**
-
-### Gewässers
+**b) Festlegung bei Verbauung oder Korrektion eines Gewässers**
 
 <sup>1</sup> In Sondernutzungsplanungsverfahren, Wasserbauverfahren und Baubewilligungsverfahren können die Abflusswege festgelegt werden, wenn:
 
 - 1\. kein Gewässerraum festzulegen ist und keine Abflusswegzone ausgeschieden ist; oder
-
 - 2\. die Abflusswege abweichend von der Abflusswegzone festgelegt werden sollen.
 
 <sup>2</sup> Die Festlegung der Abflusswege bedarf der Zustimmung der Direktion.
@@ -566,15 +494,12 @@ Die für die Bewilligung zuständige Instanz erteilt gestützt auf die Bundesges
 <sup>1</sup> Die Wasserbaupflichtigen haben bauliche Massnahmen vorzunehmen, wenn:
 
 - 1\. der Gewässerunterhalt, raumplanerische Massnahmen, der Objektschutz sowie die Notfallplanung nicht ausreichen; und
-
 - 2\. erhebliche Schutzdefizite oder ökologische Defizite bestehen.
 
 <sup>2</sup> Bauliche Massnahmen müssen nachhaltig sein; sie sind so zu erstellen, dass sie insbesondere:
 
 - 1\. Hochwasserereignisse bis zum festgelegten Schutzziel bewältigen;
-
 - 2\. im Überlastfall ein möglichst geringer Schaden entsteht; und
-
 - 3\. die natürlichen Funktionen des Gewässers möglichst beibehalten oder wiederhergestellt werden.
 
 #### Art. 41
@@ -587,7 +512,7 @@ Die für die Bewilligung zuständige Instanz erteilt gestützt auf die Bundesges
 
 <sup>3</sup> Beschwerden gegen die Anordnung von Sofortmassnahmen haben keine aufschiebende Wirkung.
 
-### C. Verfahren bei Projekten an Gewässern
+### 2.3 Verfahren bei Projekten an Gewässern
 
 #### Art. 42
 
@@ -601,9 +526,7 @@ Die für die Bewilligung zuständige Instanz erteilt gestützt auf die Bundesges
 
 #### Art. 43
 
-**Massgebliches Bewilligungsverfahren**
-
-### 1. Wasserbauverfahren
+**Massgebliches Bewilligungsverfahren 1. Wasserbauverfahren**
 
 <sup>1</sup> Bezweckt ein Projekt an Gewässern hauptsächlich den Hochwasserschutz, die Revitalisierung oder den Gewässerunterhalt (Wasserbauprojekt), ist das gesamte Projekt im Rahmen eines kantonalen beziehungsweise kommunalen Wasserbauverfahrens gemäss Art. 45 ff. zu beurteilen.
 
@@ -619,14 +542,11 @@ Die für die Bewilligung zuständige Instanz erteilt gestützt auf die Bundesges
 
 #### Art. 45
 
-**Wasserbauverfahren**
+**Wasserbauverfahren 1. Zuständigkeit**
 
-### 1. Zuständigkeit
-
-Für die Durchführung des Wasserbauverfahrens ist zuständig:
+<sup>1</sup> Für die Durchführung des Wasserbauverfahrens ist zuständig:
 
 - 1\. die Direktion bei Wasserbauprojekten, bei denen der Kanton wasserbaupflichtig ist;
-
 - 2\. der Gemeinderat bei Wasserbauprojekten an allen übrigen Gewässern.
 
 #### Art. 46
@@ -669,25 +589,24 @@ Für die Durchführung des Wasserbauverfahrens ist zuständig:
 
 **6. Sonderbewilligungen**
 
-Die gemäss Spezialgesetzgebung erforderlichen Bewilligungen für Bauten oder Anlagen, die nicht dem Wasserbau dienen, sind durch die Direktion beziehungsweise den Gemeinderat bei den zuständigen Instanzen einzuholen.
+<sup>1</sup> Die gemäss Spezialgesetzgebung erforderlichen Bewilligungen für Bauten oder Anlagen, die nicht dem Wasserbau dienen, sind durch die Direktion beziehungsweise den Gemeinderat bei den zuständigen Instanzen einzuholen.
 
 #### Art. 51
 
 **7. Entscheid, Genehmigung**
 
-<sup>1</sup> Die Direktion beziehungsweise der Gemeinderat entscheidet gleichzeitig über das Wasserbaugesuch und die nicht erledigten öffentlichrechtlichen Einwendungen; mit privatrechtlichen Vorbringen sind die Parteien an das Zivilgericht zu verweisen.
+<sup>1</sup> Die Direktion beziehungsweise der Gemeinderat entscheidet gleichzeitig über das Wasserbaugesuch und die nicht erledigten öffentlich-rechtlichen Einwendungen; mit privatrechtlichen Vorbringen sind die Parteien an das Zivilgericht zu verweisen.
 
 <sup>2</sup> Wasserbauprojekte sind zu genehmigen durch:
 
 - 1\. die Direktion bei kommunalen und privaten Wasserbauprojekten;
-
 - 2\. den Regierungsrat bei kantonalen Wasserbauprojekten.
 
 <sup>3</sup> Die Genehmigungsinstanz kann Auflagen und Bedingungen anordnen.
 
 <sup>4</sup> Sie eröffnet alle Entscheide gemeinsam.
 
-<sup>5</sup> Kantonale Wasserbauprojekte mit beitragsberechtigten Bruttokosten unter Fr. 100'000.- benötigen keine Genehmigung. Die Direktion eröffnet alle Entscheide gemeinsam.
+<sup>5</sup> Kantonale Wasserbauprojekte mit beitragsberechtigten Bruttokosten unter Fr. 100'000.– benötigen keine Genehmigung. Die Direktion eröffnet alle Entscheide gemeinsam.
 
 #### Art. 52
 
@@ -707,15 +626,14 @@ Die gemäss Spezialgesetzgebung erforderlichen Bewilligungen für Bauten oder An
 
 <sup>2</sup> Für den Kreditbeschluss für die Ausführung kantonaler Wasserbauprojekte ist unabhängig der verfassungsmässigen Finanzkompetenz zuständig:
 
-- 1\. der Regierungsrat bis Fr. 1‘000‘000.-;
-
-- 2\. der Landrat über Fr. 1‘000‘000.-.
+- 1\. der Regierungsrat bis Fr. 1'000'000.–;
+- 2\. der Landrat über Fr. 1'000'000.–.
 
 #### Art. 54
 
 **10. Landerwerb**
 
-Das für den Wasserbau an öffentlichen Gewässern erforderliche private Land ist im Landumlegungs- oder Enteignungsverfahren zu erwerben, wenn ein freihändiger Erwerb ausser Betracht fällt.
+<sup>1</sup> Das für den Wasserbau an öffentlichen Gewässern erforderliche private Land ist im Landumlegungs- oder Enteignungsverfahren zu erwerben, wenn ein freihändiger Erwerb ausser Betracht fällt.
 
 #### Art. 55
 
@@ -726,14 +644,13 @@ Das für den Wasserbau an öffentlichen Gewässern erforderliche private Land is
 <sup>2</sup> Mit der wasserbaulichen Bewilligung wird geprüft, ob:
 
 - 1\. der Hochwasserschutz beziehungsweise die Revitalisierung hinreichend gewährleistet wird; und
-
 - 2\. der Eingriff in das Gewässer notwendig und verhältnismässig ist.
 
 <sup>3</sup> Für die wasserbauliche Bewilligung ist unter den Voraussetzungen gemäss Art. 47 eine Gefahren- und Risikobeurteilung einzureichen.
 
-### D. Finanzielle Bestimmungen
+### 2.4 Finanzielle Bestimmungen
 
-### 1. Kostentragung
+### 2.4.1 Kostentragung
 
 #### Art. 56
 
@@ -777,9 +694,9 @@ Das für den Wasserbau an öffentlichen Gewässern erforderliche private Land is
 
 **Wirkungskontrollen**
 
-Der Kanton trägt die Kosten der Wirkungskontrollen bei Wasserbauprojekten soweit diese nicht durch Bundesbeiträge abgedeckt sind.
+<sup>1</sup> Der Kanton trägt die Kosten der Wirkungskontrollen bei Wasserbauprojekten soweit diese nicht durch Bundesbeiträge abgedeckt sind.
 
-- 2\. Beiträge an Wasserbaumassnahmen
+### 2.4.2 Beiträge an Wasserbaumassnahmen
 
 #### Art. 61
 
@@ -788,16 +705,14 @@ Der Kanton trägt die Kosten der Wirkungskontrollen bei Wasserbauprojekten sowei
 <sup>1</sup> An die gemäss Bundesrecht beitragsberechtigten Kosten von Wasserbaumassnahmen leisten Beiträge:
 
 - 1\. der Bund nach den Bundesvorschriften;
-
 - 2\. der Kanton an Wasserbaumassnahmen der Gemeinden und Dritter;
-
 - 3\. die Gemeinden an Wasserbaumassnahmen Dritter.
 
 <sup>2</sup> Der Kanton leistet gemäss Art. 69 Beiträge an die Kosten infolge raumplanerischer Massnahmen, die der Bund nicht als beitragsberechtigte Kosten anerkennt.
 
 <sup>3</sup> Der Regierungsrat ist unabhängig der verfassungsmässigen Finanzkompetenz zuständig, die Kredite für kantonale Beiträge zu bewilligen; vorbehalten bleiben Rahmenkredite des Landrates gemäss Art. 75 Abs. 2 des Gesetzes über den Finanzhaushalt des Kantons (Finanzhaushaltgesetz, kFHG)[^61-1].
 
-<sup>4</sup> Die Beiträge sind im Rahmen der bewilligten Kredite durch den Regierungsrat beziehungsweise bei Wasserbauprojekten mit beitragsberechtigten Bruttokosten unter Fr. 100'000.- durch die Direktion festzulegen.
+<sup>4</sup> Die Beiträge sind im Rahmen der bewilligten Kredite durch den Regierungsrat beziehungsweise bei Wasserbauprojekten mit beitragsberechtigten Bruttokosten unter Fr. 100'000.– durch die Direktion festzulegen.
 
 <sup>5</sup> Auf Beiträge des Kantons besteht kein Rechtsanspruch.
 
@@ -807,9 +722,7 @@ Der Kanton trägt die Kosten der Wirkungskontrollen bei Wasserbauprojekten sowei
 
 #### Art. 62
 
-**Beiträge an beitragsberechtigte Kosten**
-
-### 1. Voraussetzungen
+**Beiträge an beitragsberechtigte Kosten 1. Voraussetzungen**
 
 <sup>1</sup> Kantonale und kommunale Beiträge werden nur gewährt, sofern die Mindestanforderungen von Bund und Kanton erfüllt sind; vorbehalten bleiben abweichende Bestimmungen dieses Gesetzes.
 
@@ -825,41 +738,35 @@ Der Kanton trägt die Kosten der Wirkungskontrollen bei Wasserbauprojekten sowei
 
 #### Art. 64
 
-**3. Höhe**
-
-- a) Grundsatz
+**3. Höhe a) Grundsatz**
 
 <sup>1</sup> Der Kanton gewährt zusätzlich zu den Bundesbeiträgen einen Grundbeitrag von 25 Prozent der beitragsberechtigten Kosten.
 
 <sup>2</sup> Dieser Grundbeitrag wird gekürzt, wenn der Bund seine Beiträge erhöht, weil ausserordentliche Schutzmassnahmen zu einer erheblichen Belastung des Kantons führen (Schwerfinanzierbarkeitszuschlag). Die Kürzung des kantonalen Grundbeitrags erfolgt im Umfang der Hälfte des Schwerfinanzierbarkeitszuschlags.
 
-<sup>3</sup> Bei Projekten, welche Hochwasserschutzmassnahmen umfassen, kann der kantonale Grundbeitrag mit einem Beitrag für qualitative Mehrleistungen ergänzt werden. An Projekte mit beitragsberechtigten Bruttokosten unter Fr. 100'000.- werden keine Mehrleistungen abgegolten.
+<sup>3</sup> Bei Projekten, welche Hochwasserschutzmassnahmen umfassen, kann der kantonale Grundbeitrag mit einem Beitrag für qualitative Mehrleistungen ergänzt werden. An Projekte mit beitragsberechtigten Bruttokosten unter Fr. 100'000.– werden keine Mehrleistungen abgegolten.
 
 <sup>4</sup> Der Kanton macht seinen Beitrag bei Wasserbaumassnahmen Dritter von der Leistung eines mindestens gleich hohen Grundbeitrages der Gemeinde abhängig.
 
 <sup>5</sup> Der Grundanteil des Dritten umfasst die beitragsberechtigten Kosten abzüglich der Grundbeiträge von Bund, Kanton und Gemeinden; er vermindert sich gemäss Art. 66 Abs. 2 durch Mehrleistungen.
 
-#### Art. 65 b
+#### Art. 65
 
-**) Beitrag für Mehrleistungen**
+**b) Beitrag für Mehrleistungen**
 
 <sup>1</sup> Die Höhe des Beitrages für qualitative Mehrleistungen richtet sich, sofern nicht vom Bund festgelegt, nach folgenden Kriterien:
 
 - 1\. dem Anteil der Zielerfüllung der Programmvereinbarung mit dem Bund;
-
 - 2\. der Wirtschaftlichkeit der Wasserbaumassnahme;
-
 - 3\. der Berücksichtigung des integralen Risikomanagements;
-
 - 4\. der Optimierung der technischen Aspekte;
-
 - 5\. der Erfüllung ökologischer und sozialer Aspekte.
 
 <sup>2</sup> Die Direktion führt die Kriterien zur Bemessung der Beiträge in einer Richtlinie aus.
 
-#### Art. 66 c
+#### Art. 66
 
-**) Begrenzung**
+**c) Begrenzung**
 
 <sup>1</sup> Die Beiträge von Bund und Kanton an die Kosten von Wasserbaumassnahmen der Gemeinden sind auf höchstens 90 Prozent der beitragsberechtigten Kosten begrenzt.
 
@@ -901,19 +808,17 @@ Der Kanton trägt die Kosten der Wirkungskontrollen bei Wasserbauprojekten sowei
 
 <sup>4</sup> Beiträge werden nur gewährt, wenn sie kostenwirksamer als bauliche Massnahmen sind und die Projektziele hinreichend erfüllen.
 
-### III. GEWÄSSERSCHUTZ
+## 3 Gewässerschutz
 
-### A. Allgemeine Bestimmungen
+### 3.1 Allgemeine Bestimmungen
 
 #### Art. 70
 
-**Zuständigkeiten**
+**Zuständigkeiten 1. Vollzug**
 
-### 1. Vollzug
+<sup>1</sup> Der Vollzug der Gewässerschutzgesetzgebung erfolgt unter Vorbehalt von Art. 48 GSchG[^70-1] durch den Kanton, soweit dieser nicht den Gemeinden übertragen ist.
 
-Der Vollzug der Gewässerschutzgesetzgebung erfolgt unter Vorbehalt von Art. 48 GSchG[^h1Vollzug-1] durch den Kanton, soweit dieser nicht den Gemeinden übertragen ist.
-
-[^h1Vollzug-1]: SR 814.20
+[^70-1]: SR 814.20
 
 #### Art. 71
 
@@ -924,14 +829,10 @@ Der Vollzug der Gewässerschutzgesetzgebung erfolgt unter Vorbehalt von Art. 48 
 <sup>2</sup> Der Kanton erteilt gewässerschutzrechtliche Bewilligungen für die Erstellung und Änderung:
 
 - 1\. von Bauten und Anlagen ausserhalb der Bauzonen;
-
 - 2\. von Bauten und Anlagen, bei denen Industrieabwasser gemäss Anhang 3.2 der eidgenössischen Gewässerschutzverordnung (GSchV)[^71-1] oder anderes nicht kommunales, verschmutztes Abwasser gemäss Anhang 3.3 GSchV anfällt;
-
 - 3\. von Anlagen, in denen nicht verschmutztes Abwasser konzentriert ober- oder unterirdisch versickert wird;
-
 - 4\. von Anlagen zur Nutzung von Erdwärme;
-
-- 5\. von Bauten und Anlagen in Grundwasserschutzzonen und -arealen sowie für Grabungen, Erdbewegungen und ähnliche Arbeiten in diesen Gebieten.
+- 5\. von Bauten und Anlagen in Grundwasserschutzzonen und ‑arealen sowie für Grabungen, Erdbewegungen und ähnliche Arbeiten in diesen Gebieten.
 
 [^71-1]: SR 814.201
 
@@ -953,31 +854,28 @@ Der Vollzug der Gewässerschutzgesetzgebung erfolgt unter Vorbehalt von Art. 48 
 
 <sup>2</sup> Die Direktion kann zum Vollzug der gewässerschutzrechtlichen Vorschriften weitere Richtlinien erlassen.
 
-### B. Planerischer Schutz
+### 3.2 Planerischer Schutz
 
 #### Art. 74
 
 **Grundsatz**
 
-Als planerische Schutzmassnahmen gelten:
+<sup>1</sup> Als planerische Schutzmassnahmen gelten:
 
 - 1\. die behördenverbindlichen Gewässerschutzbereiche;
-
-- 2\. die grundeigentümerverbindlichen Grundwasserschutzzonen und -areale.
+- 2\. die grundeigentümerverbindlichen Grundwasserschutzzonen und ‑areale.
 
 #### Art. 75
 
 **Gewässerschutzbereiche**
 
-Der Regierungsrat teilt das Kantonsgebiet nach der Gefährdung der ober- und unterirdischen Gewässer in besonders gefährdete und übrige Gewässerschutzbereiche ein.
+<sup>1</sup> Der Regierungsrat teilt das Kantonsgebiet nach der Gefährdung der ober- und unterirdischen Gewässer in besonders gefährdete und übrige Gewässerschutzbereiche ein.
 
 #### Art. 76
 
-**Grundwasserschutzzonen**
+**Grundwasserschutzzonen 1. Zuständigkeit**
 
-### 1. Zuständigkeit
-
-Der Gemeinderat legt zum Schutz der im öffentlichen Interesse liegenden, bestehenden oder geplanten Grundwasserfassungen und -anreicherungsanlagen Grundwasserschutzzonen und die entsprechenden Schutzmassnahmen fest.
+<sup>1</sup> Der Gemeinderat legt zum Schutz der im öffentlichen Interesse liegenden, bestehenden oder geplanten Grundwasserfassungen und ‑anreicherungsanlagen Grundwasserschutzzonen und die entsprechenden Schutzmassnahmen fest.
 
 #### Art. 77
 
@@ -986,7 +884,6 @@ Der Gemeinderat legt zum Schutz der im öffentlichen Interesse liegenden, besteh
 <sup>1</sup> Der Gemeinderat legt während 30 Tagen öffentlich auf:
 
 - 1\. den Plan mit den Grundwasserschutzzonen; und
-
 - 2\. die Schutzmassnahmen.
 
 <sup>2</sup> Die Auflage ist unter Hinweis auf die Einwendungsmöglichkeit zu veröffentlichen.
@@ -1005,15 +902,13 @@ Der Gemeinderat legt zum Schutz der im öffentlichen Interesse liegenden, besteh
 
 **4. Kosten**
 
-Die Inhaberin oder der Inhaber einer Grundwasserfassung oder einer Anreicherungsanlage trägt die Kosten der Zonenausscheidung.
+<sup>1</sup> Die Inhaberin oder der Inhaber einer Grundwasserfassung oder einer Anreicherungsanlage trägt die Kosten der Zonenausscheidung.
 
 #### Art. 80
 
-**Grundwasserschutzareale**
+**Grundwasserschutzareale 1. Grundsatz**
 
-### 1. Grundsatz
-
-Der Regierungsrat legt nach Anhörung der Gemeinden die Grundwasserschutzareale und die entsprechenden Schutzmassnahmen fest, die für die künftige Nutzung und Anreicherung von Grundwasservorkommen von Bedeutung sind.
+<sup>1</sup> Der Regierungsrat legt nach Anhörung der Gemeinden die Grundwasserschutzareale und die entsprechenden Schutzmassnahmen fest, die für die künftige Nutzung und Anreicherung von Grundwasservorkommen von Bedeutung sind.
 
 #### Art. 81
 
@@ -1022,7 +917,6 @@ Der Regierungsrat legt nach Anhörung der Gemeinden die Grundwasserschutzareale 
 <sup>1</sup> Die Direktion legt während 30 Tagen öffentlich auf:
 
 - 1\. den Plan mit den Grundwasserschutzarealen; und
-
 - 2\. die Schutzmassnahmen.
 
 <sup>2</sup> Die Auflage ist unter Hinweis auf die Einwendungsmöglichkeit zu veröffentlichen.
@@ -1031,13 +925,11 @@ Der Regierungsrat legt nach Anhörung der Gemeinden die Grundwasserschutzareale 
 
 <sup>4</sup> Der Regierungsrat entscheidet gleichzeitig über den Plan und die Schutzmassnahmen sowie die nicht erledigten öffentlich-rechtlichen Einwendungen; mit privatrechtlichen Vorbringen sind die Parteien an das Zivilgericht zu verweisen.
 
-### C. Siedlungsentwässerung
+### 3.3 Siedlungsentwässerung
 
 #### Art. 82
 
-**Entwässerungsplanung**
-
-### 1. Erstellung, Genehmigung
+**Entwässerungsplanung 1. Erstellung, Genehmigung**
 
 <sup>1</sup> Die Gemeinden erstellen einen behördenverbindlichen generellen Entwässerungsplan (GEP); sie stimmen ihre Planung aufeinander ab.
 
@@ -1055,14 +947,11 @@ Der Regierungsrat legt nach Anhörung der Gemeinden die Grundwasserschutzareale 
 
 #### Art. 84
 
-**Abwasserentsorgung**
+**Abwasserentsorgung 1. Grundsatz**
 
-### 1. Grundsatz
-
-Die Gemeinden sorgen nach Massgabe des Entwässerungsplanes auf ihrem Gemeindegebiet für:
+<sup>1</sup> Die Gemeinden sorgen nach Massgabe des Entwässerungsplanes auf ihrem Gemeindegebiet für:
 
 - 1\. die Versickerung oder Ableitung von nicht verschmutztem Abwasser;
-
 - 2\. die Sammlung, Ableitung und Reinigung von verschmutztem Abwasser.
 
 #### Art. 85
@@ -1071,7 +960,7 @@ Die Gemeinden sorgen nach Massgabe des Entwässerungsplanes auf ihrem Gemeindege
 
 <sup>1</sup> Die Gemeinden haben innerhalb des Bereichs öffentlicher Kanalisationen die für die Ableitung von nicht verschmutztem Abwasser notwendigen Entwässerungssysteme zu erstellen, betreiben, unterhalten, sanieren und zu erneuern.
 
-<sup>2</sup> Die Grundeigentümerinnen und Grundeigentümer nach Massgabe des Entwässerungsplanes die Versickerungsanlagen oder sorgen für die gedrosselte Einleitung in Entwässerungssysteme oder Gewässer.
+<sup>2</sup> Die Grundeigentümerinnen und Grundeigentümer sorgen nach Massgabe des Entwässerungsplanes für die Versickerungsanlagen oder die gedrosselte Einleitung in Entwässerungssysteme oder Gewässer.
 
 #### Art. 86
 
@@ -1082,7 +971,6 @@ Die Gemeinden sorgen nach Massgabe des Entwässerungsplanes auf ihrem Gemeindege
 <sup>2</sup> Die Grundeigentümerinnen und Grundeigentümer haben nach Massgabe des Entwässerungsplanes für den Bau, den Betrieb, den fachgerechten Unterhalt, die Sanierung und die Erneuerung zu sorgen von:
 
 - 1\. Zuleitungen zur öffentlichen Kanalisation innerhalb des Bereichs öffentlicher Kanalisationen;
-
 - 2\. Abwasseranlagen ausserhalb des Bereichs öffentlicher Kanalisationen.
 
 #### Art. 87
@@ -1092,7 +980,6 @@ Die Gemeinden sorgen nach Massgabe des Entwässerungsplanes auf ihrem Gemeindege
 <sup>1</sup> Die Gemeinde erteilt nach Massgabe des Entwässerungsplanes die Bewilligung zum Anschluss an:
 
 - 1\. die Entwässerungssysteme zur Ableitung von nicht verschmutztem Abwasser;
-
 - 2\. die öffentliche Kanalisation für verschmutztes Abwasser.
 
 <sup>2</sup> Sie legt im Rahmen der Bewilligung die bautechnischen Bedingungen und Auflagen sowie die maximal zulässigen Einleitmengen fest.
@@ -1158,7 +1045,7 @@ Die Gemeinden sorgen nach Massgabe des Entwässerungsplanes auf ihrem Gemeindege
 
 <sup>2</sup> Der Regierungsrat legt den erforderlichen Inhalt in einer Verordnung fest.
 
-### D. Umgang mit wassergefährdenden Flüssigkeiten
+### 3.4 Umgang mit wassergefährdenden Flüssigkeiten
 
 #### Art. 94
 
@@ -1170,7 +1057,7 @@ Die Gemeinden sorgen nach Massgabe des Entwässerungsplanes auf ihrem Gemeindege
 
 <sup>3</sup> Der Kanton führt einen Kataster der bewilligungs- und meldepflichtigen Tankanlagen.
 
-### E. Schadendienst und Gefahrenabwehr
+### 3.5 Schadendienst und Gefahrenabwehr
 
 #### Art. 95
 
@@ -1202,9 +1089,9 @@ Die Gemeinden sorgen nach Massgabe des Entwässerungsplanes auf ihrem Gemeindege
 
 <sup>2</sup> Können diese nicht ermittelt werden oder sind sie zahlungsunfähig, gehen die ungedeckten Kosten zu Lasten der Gemeinde; die ungedeckten Kosten bei Ereignissen auf National- und Kantonsstrassen gehen zu Lasten der Strasseneigentümerin beziehungsweise des Strasseneigentümers.
 
-### IV. GEWÄSSERNUTZUNG
+## 4 Gewässernutzung
 
-### A. Freie Nutzung
+### 4.1 Freie Nutzung
 
 #### Art. 98
 
@@ -1213,12 +1100,9 @@ Die Gemeinden sorgen nach Massgabe des Entwässerungsplanes auf ihrem Gemeindege
 <sup>1</sup> Öffentliche Gewässer dürfen frei genutzt werden:
 
 - 1\. zum Wasserbezug bis zu insgesamt 50 Litern pro Minute zum privaten Eigengebrauch, sofern die Gewässerschutzgesetzgebung eingehalten wird;
-
 - 2\. zum Tränken, Baden und dergleichen;
-
 - 3\. zum Bezug von Material für den privaten Eigengebrauch, sofern dies keine nachteiligen Einwirkungen auf das Gewässer zur Folge hat;
-
-- 4\. für Kleinstanlagen wie Badetreppen und dergleichen, die dem Seezugang dienen und weniger als 1 m<sup>2</sup> Seegebiet beanspruchen.
+- 4\. für Kleinstanlagen wie Badetreppen und dergleichen, die dem Seezugang dienen und weniger als 1 m 2 Seegebiet beanspruchen.
 
 <sup>2</sup> Der Wasserbezug ist dem Amt vorgängig zu melden.
 
@@ -1232,7 +1116,7 @@ Die Gemeinden sorgen nach Massgabe des Entwässerungsplanes auf ihrem Gemeindege
 
 <sup>2</sup> Sie legt im Bedarfsfall die Zuteilung der Nutzungsberechtigung fest.
 
-### B. Konzessionspflichtige Nutzung
+### 4.2 Konzessionspflichtige Nutzung
 
 #### Art. 100
 
@@ -1246,9 +1130,7 @@ Die Gemeinden sorgen nach Massgabe des Entwässerungsplanes auf ihrem Gemeindege
 
 #### Art. 101
 
-**Nutzung von Seegebiet**
-
-### 1. Grundsatz
+**Nutzung von Seegebiet 1. Grundsatz**
 
 <sup>1</sup> Im Seegebiet über öffentlichem Grund sind nur Nutzungen im öffentlichen Interesse zulässig; der Regierungsrat kann in einer Verordnung Ausnahmen regeln.
 
@@ -1276,13 +1158,11 @@ Die Gemeinden sorgen nach Massgabe des Entwässerungsplanes auf ihrem Gemeindege
 
 [^103-1]: NG 611.1
 
-### C. Vorzugsrechte
+### 4.3 Vorzugsrechte
 
 #### Art. 104
 
-**Vorzugsrechte von Kanton und Gemeinden**
-
-### 1. Grundsätze
+**Vorzugsrechte von Kanton und Gemeinden 1. Grundsätze**
 
 <sup>1</sup> Dem Kanton steht das Vorzugsrecht zur Nutzung der öffentlichen Gewässer zu; die Konzessionsbehörde entscheidet für den Kanton und seine selbständigen öffentlich-rechtlichen Anstalten über die Ausübung.
 
@@ -1300,19 +1180,17 @@ Die Gemeinden sorgen nach Massgabe des Entwässerungsplanes auf ihrem Gemeindege
 
 <sup>3</sup> Besteht bereits eine Konzession, bleibt diese bis zum Entscheid über das Vorzugsrecht in Kraft.
 
-### D. Konzessionsverfahren
+### 4.4 Konzessionsverfahren
 
 #### Art. 106
 
 **Zuständigkeit**
 
-Der Regierungsrat legt in einer Verordnung die Zuständigkeit für die Erteilung der Konzessionen fest.
+<sup>1</sup> Der Regierungsrat legt in einer Verordnung die Zuständigkeit für die Erteilung der Konzessionen fest.
 
 #### Art. 107
 
-**Verfahren**
-
-### 1. Projektierungsbewilligung
+**Verfahren 1. Projektierungsbewilligung**
 
 <sup>1</sup> Der Regierungsrat legt in einer Verordnung fest, welche konzessionspflichtigen Nutzungen vor der Einreichung des Konzessionsgesuches einer befristeten Projektierungsbewilligung bedürfen; aus dieser erwächst kein Anspruch auf eine Konzessionserteilung.
 
@@ -1321,30 +1199,26 @@ Der Regierungsrat legt in einer Verordnung die Zuständigkeit für die Erteilung
 <sup>3</sup> Die Projektierungsbewilligung kann nur erteilt werden, wenn:
 
 - 1\. die nachgesuchte Nutzung nicht dem öffentlichen Interesse widerspricht;
-
 - 2\. für die nachgesuchte Nutzung nicht bereits eine andere Projektierungsbewilligung erteilt worden ist; und
-
 - 3\. weder der Kanton noch die Gemeinde zu diesem Zeitpunkt ein Vorzugsrecht geltend machen.
 
-<sup>4</sup> Mehrere Projektierungsbewilligungen können erteilt werden, wenn die Übertragung des Gewässernutzungsrechts der Ausschreibungspflicht gemäss der Binnenmarktgesetzgebung[^h1Projektierungsbew-1] unterliegt und mehrere Bewerberinnen oder Bewerber die Ausschreibungskriterien erfüllen.
+<sup>4</sup> Mehrere Projektierungsbewilligungen können erteilt werden, wenn die Übertragung des Gewässernutzungsrechts der Ausschreibungspflicht gemäss der Binnenmarktgesetzgebung[^107-1] unterliegt und mehrere Bewerberinnen oder Bewerber die Ausschreibungskriterien erfüllen.
 
 <sup>5</sup> Macht der Kanton oder die Gemeinde das Vorzugsrecht erst nach Erteilung der Projektierungsbewilligung geltend, sind die angefallenen Kosten abzugelten.
 
-[^h1Projektierungsbew-1]: NG 654.2
+[^107-1]: NG 654.2
 
 #### Art. 108
 
-**2. Konzessionsgesuch**
-
-- a) Inhalt
+**2. Konzessionsgesuch a) Inhalt**
 
 <sup>1</sup> Im Konzessionsgesuch sind Art und Umfang der Nutzung und deren Anlagen zu dokumentieren.
 
 <sup>2</sup> Der Regierungsrat regelt in einer Verordnung, welche Unterlagen dem Gesuch beizulegen sind.
 
-#### Art. 109 b
+#### Art. 109
 
-**) Einreichung**
+**b) Einreichung**
 
 <sup>1</sup> Das Konzessionsgesuch ist bei der Standortgemeinde einzureichen; sie prüft, ob gleichzeitig ein kommunales Bewilligungsverfahren zur Errichtung oder Änderung von Bauten und Anlagen durchzuführen ist.
 
@@ -1352,29 +1226,28 @@ Der Regierungsrat legt in einer Verordnung die Zuständigkeit für die Erteilung
 
 <sup>3</sup> Bei Projekten, bei denen ein kommunales Bewilligungsverfahren erforderlich ist, wird das Konzessionsgesuch der Direktion zur formellen Überprüfung weitergeleitet.
 
-#### Art. 110 c
+#### Art. 110
 
-**) Prüfung des Konzessionsgesuchs**
+**c) Prüfung des Konzessionsgesuchs**
 
 <sup>1</sup> Die Direktion prüft das Konzessionsgesuch mit den Beilagen auf Vollständigkeit und Richtigkeit.
 
 <sup>2</sup> Sie setzt der Gesuchstellerin oder dem Gesuchsteller eine Frist zur Behebung der Mängel an, wenn Gesuch und Unterlagen nicht den gesetzlichen Bestimmungen entsprechen.
 
-#### Art. 111 d
+#### Art. 111
 
-**) mehrere Gesuche**
+**d) mehrere Gesuche**
 
 <sup>1</sup> Liegen für die Nutzung eines Gewässers mehrere Gesuche vor, ist jene gesuchstellende Person vorzuziehen, deren Projekt für das Gemeinwohl den grössten Nutzen verspricht.
 
 <sup>2</sup> Die Konzessionsbehörde kann eine gemeinsame Nutzung verfügen, wenn:
 
 - 1\. mehrere gesuchstellende Personen auf die Nutzung desselben Gewässers angewiesen sind; oder
-
 - 2\. bei getrennten Anlagen erhebliche gegenseitige Beeinträchtigungen, unwirtschaftliche Nutzungen des Gewässers oder andere wesentliche Nachteile vorauszusehen sind.
 
-<sup>3</sup> Die Art. 32-37 WRG[^111d-1] sind auf die nicht der Kraftgewinnung dienenden Gewässernutzungen sinngemäss anwendbar.
+<sup>3</sup> Die Art. 32–37 WRG[^111-1] sind auf die nicht der Kraftgewinnung dienenden Gewässernutzungen sinngemäss anwendbar.
 
-[^111d-1]: SR 721.80
+[^111-1]: SR 721.80
 
 #### Art. 112
 
@@ -1383,7 +1256,6 @@ Der Regierungsrat legt in einer Verordnung die Zuständigkeit für die Erteilung
 <sup>1</sup> Zuständig für die Auflage ist:
 
 - 1\. die Direktion bei Projekten, bei denen nicht gleichzeitig ein Bewilligungsverfahren zur Errichtung oder Änderung von Bauten und Anlagen durchzuführen ist;
-
 - 2\. die Bewilligungsbehörde bei Projekten, bei denen gleichzeitig ein Bewilligungsverfahren durchzuführen ist.
 
 <sup>2</sup> Das Konzessionsgesuch ist in den Standortgemeinden, gleichzeitig mit einem allfälligen Baugesuch, während 20 Tagen öffentlich aufzulegen und unter Hinweis auf die Möglichkeit zur Einwendung zu veröffentlichen.
@@ -1402,7 +1274,7 @@ Der Regierungsrat legt in einer Verordnung die Zuständigkeit für die Erteilung
 
 **5. Gutachten**
 
-Die Konzessionsbehörde kann auf Kosten der gesuchstellenden Person Gutachten einholen, sofern dies erforderlich ist.
+<sup>1</sup> Die Konzessionsbehörde kann auf Kosten der gesuchstellenden Person Gutachten einholen, sofern dies erforderlich ist.
 
 #### Art. 115
 
@@ -1424,13 +1296,13 @@ Die Konzessionsbehörde kann auf Kosten der gesuchstellenden Person Gutachten ei
 
 <sup>2</sup> Wassernutzungsanlagen dürfen nicht in Betrieb gesetzt werden, bevor sie durch das Amt abgenommen worden sind.
 
-### E. Konzession
+### 4.5 Konzession
 
 #### Art. 117
 
 **Inhalt**
 
-Der Regierungsrat legt in einer Verordnung den Inhalt der Konzession fest; vorbehalten bleiben die Vorgaben des eidgenössischen Wasserrechtsgesetzes[^117-1].
+<sup>1</sup> Der Regierungsrat legt in einer Verordnung den Inhalt der Konzession fest; vorbehalten bleiben die Vorgaben des eidgenössischen Wasserrechtsgesetzes[^117-1].
 
 [^117-1]: SR 721.80
 
@@ -1487,7 +1359,6 @@ Der Regierungsrat legt in einer Verordnung den Inhalt der Konzession fest; vorbe
 <sup>3</sup> Die Konzession kann abgeändert werden:
 
 - 1\. zur Wahrung wichtiger öffentlicher Interessen; oder
-
 - 2\. beim Vorliegen wichtiger Bedürfnisse einer anderen Person, wenn diese auf die Nutzung angewiesen ist und dies gesamthaft im öffentlichen Interesse liegt.
 
 #### Art. 123
@@ -1500,16 +1371,13 @@ Der Regierungsrat legt in einer Verordnung den Inhalt der Konzession fest; vorbe
 
 #### Art. 124
 
-**Beendigung**
-
-### 1. Erlöschen, Verwirkung
+**Beendigung 1. Erlöschen, Verwirkung**
 
 <sup>1</sup> Die Konzession erlischt mit dem Ablauf ihrer Dauer oder durch Verzicht der Inhaberin oder des Inhabers.
 
 <sup>2</sup> Sie kann von der Konzessionsbehörde nach Ansetzung einer Frist als verwirkt erklärt werden, wenn die Inhaberin oder der Inhaber:
 
 - 1\. während mehr als zwei Jahren von den Rechten keinen Gebrauch macht oder den Bau beziehungsweise Betrieb ohne fremdes Verschulden unterbricht; oder
-
 - 2\. wichtige Pflichten trotz Mahnung verletzt.
 
 #### Art. 125
@@ -1519,9 +1387,7 @@ Der Regierungsrat legt in einer Verordnung den Inhalt der Konzession fest; vorbe
 <sup>1</sup> Die Konzessionsbehörde bestimmt in der Konzession:
 
 - 1\. welchen Zustand die berechtigte Person nach der Beendigung der Konzession herzustellen hat;
-
 - 2\. welchen Zustand die Bauten und Anlagen, an denen ein Heimfallrecht besteht, nach der Beendigung der Konzession aufweisen müssen;
-
 - 3\. welche Sicherungsarbeiten vorzunehmen sind.
 
 <sup>2</sup> Kann auf die berechtigte Person nicht mehr zurückgegriffen werden, hat die Grundeigentümerin oder der Grundeigentümer auf eigene Kosten die angeordneten Massnahmen umzusetzen.
@@ -1538,7 +1404,7 @@ Der Regierungsrat legt in einer Verordnung den Inhalt der Konzession fest; vorbe
 
 <sup>4</sup> Für die Wasserkraftnutzung und Speicheranlagen richtet sich die Regelung des Heimfalls nach dem Bundesrecht.
 
-### F. Massnahmen bei ausserordentlichen Situationen
+### 4.6 Massnahmen bei ausserordentlichen Situationen
 
 #### Art. 127
 
@@ -1552,7 +1418,7 @@ Der Regierungsrat legt in einer Verordnung den Inhalt der Konzession fest; vorbe
 
 **Hochwasser**
 
-Bei Hochwasser hat die berechtigte Person ihre Wassernutzungsanlagen zur Verhütung von Schäden zur Verfügung zu stellen, soweit dies ohne erhebliche Schädigung oder Gefährdung möglich ist.
+<sup>1</sup> Bei Hochwasser hat die berechtigte Person ihre Wassernutzungsanlagen zur Verhütung von Schäden zur Verfügung zu stellen, soweit dies ohne erhebliche Schädigung oder Gefährdung möglich ist.
 
 #### Art. 129
 
@@ -1566,9 +1432,9 @@ Bei Hochwasser hat die berechtigte Person ihre Wassernutzungsanlagen zur Verhüt
 
 **Löscheinrichtungen, Löschwasserbezug**
 
-Die Schadendienste sind befugt, entschädigungslos bei Nutzungsanlagen auf eigene Kosten Löscheinrichtungen zu erstellen und im Brandfall oder für Übungen Wasser zu beziehen.
+<sup>1</sup> Die Schadendienste sind befugt, entschädigungslos bei Nutzungsanlagen auf eigene Kosten Löscheinrichtungen zu erstellen und im Brandfall oder für Übungen Wasser zu beziehen.
 
-### G. Finanzielles
+### 4.7 Finanzielles
 
 #### Art. 131
 
@@ -1577,7 +1443,6 @@ Die Schadendienste sind befugt, entschädigungslos bei Nutzungsanlagen auf eigen
 <sup>1</sup> Zusätzlich zu den amtlichen Kosten werden in Konzessionsverfahren erhoben:
 
 - 1\. einmalige Konzessionsgebühren für die Erteilung des Nutzungsrechtes; und
-
 - 2\. jährlich wiederkehrende Konzessionsgebühren für die Nutzung des Rechts, wie Wasserzinsen oder Nutzungsentschädigungen.
 
 <sup>2</sup> Die Ansätze richten sich nach dem Anhang. Die Konzessionsgebühren sind innerhalb des vorgegebenen Rahmens festzulegen und bemessen sich insbesondere nach der Bedeutung der Gewässernutzung und der Wirtschaftlichkeit des Berechtigten.
@@ -1594,9 +1459,9 @@ Die Schadendienste sind befugt, entschädigungslos bei Nutzungsanlagen auf eigen
 
 <sup>3</sup> Wasserversorgungsorganisationen sind insoweit von der Konzessionsgebührenpflicht befreit, als die Wassernutzung zur Trink- und Löschwasserversorgung von Gebieten im Kanton Nidwalden dient.
 
-### V. WASSERVERSORGUNG
+## 5 Wasserversorgung
 
-### A. Öffentliche Wasserversorgung
+### 5.1 Öffentliche Wasserversorgung
 
 #### Art. 133
 
@@ -1612,10 +1477,9 @@ Die Schadendienste sind befugt, entschädigungslos bei Nutzungsanlagen auf eigen
 
 **Versorgungsgebiete**
 
-Der Gemeinderat legt die Versorgungsgebiete der öffentlichen Wasserversorgungsorganisationen fest; diese bestehen insbesondere aus:
+<sup>1</sup> Der Gemeinderat legt die Versorgungsgebiete der öffentlichen Wasserversorgungsorganisationen fest; diese bestehen insbesondere aus:
 
 - 1\. Bauzonen; und
-
 - 2\. weiteren Gebieten, in welchen der Anschluss an das Netz der öffentlichen Wasserversorgungsorganisation zweckmässig und zumutbar ist.
 
 #### Art. 135
@@ -1662,7 +1526,7 @@ Der Gemeinderat legt die Versorgungsgebiete der öffentlichen Wasserversorgungso
 
 <sup>3</sup> Der Regierungsrat regelt den erforderlichen Inhalt des Reglements in einer Verordnung.
 
-### B. Pflichten der Wasserversorgungsorganisationen
+### 5.2 Pflichten der Wasserversorgungsorganisationen
 
 #### Art. 139
 
@@ -1683,15 +1547,12 @@ Der Gemeinderat legt die Versorgungsgebiete der öffentlichen Wasserversorgungso
 <sup>1</sup> Wasserversorgungsorganisationen können verpflichtet werden:
 
 - 1\. Wasserversorgungsanlagen gemeinsam zu erstellen und zu betreiben, wenn dies zumutbar ist und sich dadurch die Einwirkungen auf die Gewässer reduzieren oder sich erhebliche wirtschaftliche Vorteile ergeben;
-
 - 2\. andere Wasserversorgungsorganisationen kostendeckend mit Wasser zu beliefern;
-
 - 3\. ihre Anlagen im Interesse anderer Wasserversorgungsorganisationen gegen volle Entschädigung zu erweitern.
 
 <sup>2</sup> Die Verpflichtung kann angeordnet werden durch:
 
 - 1\. den Gemeinderat gegenüber den Wasserversorgungsorganisationen innerhalb des Gemeindegebietes;
-
 - 2\. den Regierungsrat in den übrigen Fällen.
 
 <sup>3</sup> Die Beteiligten haben die Verteilung der Kosten in einer Vereinbarung zu regeln; im Streitfall entscheidet die anordnende Instanz.
@@ -1707,14 +1568,11 @@ Der Gemeinderat legt die Versorgungsgebiete der öffentlichen Wasserversorgungso
 <sup>3</sup> Sie sorgen für einen sparsamen Wasserverbrauch, indem sie insbesondere:
 
 - 1\. systematische Leckortungen durchführen und Leckstellen beheben;
-
 - 2\. Massnahmen zur Verminderung der Verbrauchsspitzen treffen;
-
 - 3\. wassersparende Massnahmen bei Wassermangel anordnen;
-
 - 4\. Wasserbezügerinnen und Wasserbezüger in geeigneter Weise informieren.
 
-### C. Pflichten der Wasserbezügerinnen und Wasserbezüger
+### 5.3 Pflichten der Wasserbezügerinnen und Wasserbezüger
 
 #### Art. 142
 
@@ -1725,24 +1583,23 @@ Der Gemeinderat legt die Versorgungsgebiete der öffentlichen Wasserversorgungso
 <sup>2</sup> Keine Anschluss- und Bezugspflicht besteht:
 
 - 1\. für Gebäude, die hinreichend mit Löschwasser versorgt sind und im Zeitpunkt der Erschliessung bereits aus anderen Anlagen hinreichend mit Trinkwasser versorgt werden, das den Anforderungen der Lebensmittelgesetzgebung[^142-1] genügt;
-
 - 2\. für Brauchwasser.
 
 [^142-1]: SR 817.0
 
-### VI. VOLLZUGS- UND RECHTSSCHUTZBESTIMMUNGEN
+## 6 Vollzugs- und Rechtsschutzbestimmungen
 
 #### Art. 143
 
 **Vollzug**
 
-Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Bestimmungen in einer Verordnung.
+<sup>1</sup> Der Regierungsrat erlässt die zum Vollzug dieses Gesetzes erforderlichen Bestimmungen in einer Verordnung.
 
 #### Art. 144
 
 **Behördenbeschwerde**
 
-Die zuständige Direktion kann gegen Verfügungen und Entscheide von Gemeinden, öffentlich-rechtlichen Anstalten und beauftragten Privaten das erstinstanzliche Rechtsmittel des kantonalen Rechts ergreifen.
+<sup>1</sup> Die zuständige Direktion kann gegen Verfügungen und Entscheide von Gemeinden, öffentlich-rechtlichen Anstalten und beauftragten Privaten das erstinstanzliche Rechtsmittel des kantonalen Rechts ergreifen.
 
 #### Art. 145
 
@@ -1758,7 +1615,7 @@ Die zuständige Direktion kann gegen Verfügungen und Entscheide von Gemeinden, 
 
 [^145-1]: NG 265.1
 
-### VII. STRAFBESTIMMUNGEN
+## 7 Strafbestimmungen
 
 #### Art. 146
 
@@ -1769,32 +1626,20 @@ Die zuständige Direktion kann gegen Verfügungen und Entscheide von Gemeinden, 
 <sup>2</sup> Strafbar macht sich insbesondere, wer:
 
 - 1\. den Pflichten gemäss Art. 11 nach Ablauf einer angesetzten Frist nicht nachkommt;
-
 - 2\. wertvolle Ufer und Seegebiete zerstört oder beeinträchtigt;
-
 - 3\. der Wasserbaupflicht, insbesondere dem Unterhalt an Gewässern, nach Ablauf einer angesetzten Frist nicht nachkommt;
-
 - 4\. Bauten und Anlagen ohne gewässerschutzrechtliche Bewilligung gemäss Art. 71 Abs. 2 erstellt oder ändert;
-
 - 5\. gegen Schutzmassnahmen in Grundwasserschutzzonen und Grundwasserschutzarealen verstösst;
-
 - 6\. ohne Bewilligung Anschlüsse an die Entwässerungssysteme oder an die öffentliche Kanalisation erstellt;
-
 - 7\. Tankanlagen ohne gültige Vignette oder mit offensichtlichen Mängeln befüllt;
-
 - 8\. als Verursacherin oder Verursacher die Meldepflicht gemäss Art. 96 Abs. 1 verletzt;
-
 - 9\. vorsätzlich als Verursacherin oder Verursacher die zur Vermeidung, Eindämmung oder Behebung eines Schadens erforderlichen und zumutbaren Massnahmen gemäss Art. 96 Abs. 2 vernachlässigt;
-
 - 10\. Gewässer nutzt, ohne über die erforderliche Konzession zu verfügen;
-
 - 11\. vorsätzlich der Meldepflicht bei Wasserbezug gemäss Art. 98 nicht nachkommt;
-
 - 12\. Anordnungen zum Anschluss an die öffentliche Wasserversorgung nicht befolgt;
-
 - 13\. angeordneten Massnahmen bei Wassermangel zuwiderhandelt.
 
-<sup>3</sup> Mit Busse bis Fr. 100'000.- wird bestraft, wer Abwasser, das einer Vorbehandlung unterzogen werden muss, ohne Bewilligung in eine öffentliche Kanalisation, in eine Kläranlage oder in ein Gewässer einleitet oder versickern lässt.
+<sup>3</sup> Mit Busse bis Fr. 100'000.– wird bestraft, wer Abwasser, das einer Vorbehandlung unterzogen werden muss, ohne Bewilligung in eine öffentliche Kanalisation, in eine Kläranlage oder in ein Gewässer einleitet oder versickern lässt.
 
 #### Art. 147
 
@@ -1808,13 +1653,13 @@ Die zuständige Direktion kann gegen Verfügungen und Entscheide von Gemeinden, 
 
 **Verjährung**
 
-Die Strafverfolgung verjährt fünf Jahre nach der letzten strafbaren Handlung.
+<sup>1</sup> Die Strafverfolgung verjährt fünf Jahre nach der letzten strafbaren Handlung.
 
 #### Art. 149
 
 **Anzeigepflicht**
 
-Die Vollzugsinstanzen sind zur Strafanzeige verpflichtet, wenn die Widerhandlung nicht geringfügig ist.
+<sup>1</sup> Die Vollzugsinstanzen sind zur Strafanzeige verpflichtet, wenn die Widerhandlung nicht geringfügig ist.
 
 #### Art. 150
 
@@ -1824,20 +1669,17 @@ Die Vollzugsinstanzen sind zur Strafanzeige verpflichtet, wenn die Widerhandlung
 
 <sup>2</sup> Die Vollzugsinstanzen können im Strafverfahren Parteirechte ausüben.
 
-### VIII. ÜBERGANGS- UND SCHLUSSBESTIMMUNGEN
+## 8 Übergangs- und Schlussbestimmungen
 
 #### Art. 151
 
-**Übergangsbestimmungen**
-
-### 1. Grundsatz
+**Übergangsbestimmungen 1. Grundsatz**
 
 <sup>1</sup> In Verfahren, die beim Inkrafttreten dieses Gesetzes hängig sind, ist das neue Recht anwendbar.
 
 <sup>2</sup> Das bisherige Recht ist anwendbar:
 
 - 1\. in Verfahren, bei denen bereits eine öffentliche Auflage mit Einwendungsmöglichkeit erfolgt ist;
-
 - 2\. in Rechtsmittelverfahren zu Entscheiden nach bisherigem Recht, die noch nicht in Rechtskraft erwachsen sind.
 
 #### Art. 152
@@ -1848,7 +1690,7 @@ Die Vollzugsinstanzen sind zur Strafanzeige verpflichtet, wenn die Widerhandlung
 
 <sup>2</sup> Diese Stelle hat die Frist zur Meldung zu veröffentlichen und den eingetragenen Personen mitzuteilen.
 
-<sup>3</sup> Die Direktion entscheidet über den Bestand der gemeldeten öffentlichrechtlichen Nutzungsrechte.
+<sup>3</sup> Die Direktion entscheidet über den Bestand der gemeldeten öffentlich-rechtlichen Nutzungsrechte.
 
 <sup>4</sup> Öffentlich-rechtliche Nutzungsrechte, für die keine Urkunde besteht, erlöschen, wenn sie nicht binnen der Frist gemeldet werden und keine wohlerworbene Rechte darstellen. Für die verspätete Anmeldung anderer Nutzungsrechte können die Kosten für den entstandenen Mehraufwand in Konzessionsverfahren oder dergleichen überbunden werden.
 
@@ -1858,19 +1700,17 @@ Die Vollzugsinstanzen sind zur Strafanzeige verpflichtet, wenn die Widerhandlung
 
 **3. Wasserbau**
 
-Die neuen finanziellen Bestimmungen zum Wasserbau gemäss Art. 56 ff. sind in allen Verfahren anwendbar, in denen der Kanton über die Kostentragung noch nicht mittels Verfügung entschieden hat.
+<sup>1</sup> Die neuen finanziellen Bestimmungen zum Wasserbau gemäss Art. 56 ff. sind in allen Verfahren anwendbar, in denen der Kanton über die Kostentragung noch nicht mittels Verfügung entschieden hat.
 
 #### Art. 154
 
 **4. Gewässerschutz**
 
-Die Gemeinden haben binnen dreier Jahre seit Inkrafttreten dieses Gesetzes ihre Reglemente über die Siedlungsentwässerung anzupassen und den Anlagenkataster gemäss Art. 88 binnen fünf Jahren zu erstellen.
+<sup>1</sup> Die Gemeinden haben binnen dreier Jahre seit Inkrafttreten dieses Gesetzes ihre Reglemente über die Siedlungsentwässerung anzupassen und den Anlagenkataster gemäss Art. 88 binnen fünf Jahren zu erstellen.
 
 #### Art. 155
 
-**5. Gewässernutzung**
-
-- a) neue konzessionspflichtige Nutzungen, Meldepflicht
+**5. Gewässernutzung a) neue konzessionspflichtige Nutzungen, Meldepflicht**
 
 <sup>1</sup> Für konzessionspflichtige Nutzungen von Gewässern, die gemäss dem Gesetz vom 30. April 1967 über die Rechte am Wasser (Wasserrechtsgesetz, WRG)[^155-1] ohne Verleihung oder Bewilligung zulässig waren, sind die Konzessionsgesuche binnen eines Jahres seit Inkrafttreten dieses Gesetzes einzureichen.
 
@@ -1880,132 +1720,121 @@ Die Gemeinden haben binnen dreier Jahre seit Inkrafttreten dieses Gesetzes ihre 
 
 [^155-1]: A 1967, 563; vom Bundesrat genehmigt am 29. Februar 1968; Inkrafttreten am 1. Januar 1968
 
-#### Art. 156 b
+#### Art. 156
 
-**) ehehafte Rechte**
+**b) ehehafte Rechte**
 
 <sup>1</sup> Konzessionspflichtige Nutzungen von öffentlichen Gewässern, die gestützt auf ein ehehaftes Recht ausgeübt werden, sind binnen eines Jahres seit Inkrafttreten dieses Gesetzes bei der zuständigen kantonalen Stelle zu melden.
 
 <sup>2</sup> Die berechtigten Personen haben das ehehafte Recht in eine Konzession überführen zu lassen, wenn:
 
 - 1\. sie das ehehafte Recht nicht oder nicht für die gesamte Nutzung nachweisen können;
-
 - 2\. die Amortisationsdauer jeder zulässigen Investition zur Gewässernutzung abgelaufen ist;
-
 - 3\. für die Gewässernutzung zusätzlich Investitionen getätigt werden oder Bewilligungen notwendig sind; oder
-
 - 4\. die Gewässernutzung ausgeweitet oder nach einem Unterbruch von mehr als fünf Jahren wieder ausgeübt werden soll.
 
 <sup>3</sup> Die zuständige kantonale Stelle hat Personen, deren ehehaften Rechte ihr bekannt sind, schriftlich über die Pflicht und den spätesten Zeitpunkt zur Überführung zu informieren.
 
 <sup>4</sup> Personen, die ehehafte Rechte in Konzessionen überführen lassen müssen, haben bei der erstmaligen Konzessionserteilung ein Vorzugsrecht.
 
-#### Art. 157 c
+#### Art. 157
 
-**) Konzessionsgebühren**
+**c) Konzessionsgebühren**
 
 <sup>1</sup> Die neuen Bestimmungen zu den Konzessionsgebühren gemäss Art. 131 f. sind in allen hängigen Verfahren anwendbar, in denen der Kanton noch nicht über die Konzession entschieden hat.
 
-<sup>2</sup> Für konzessionspflichtige Nutzungen von Gewässern, die gemäss dem Gesetz vom 30. April 1967 über die Rechte am Wasser (Wasserrechtsgesetz, WRG)[^157c-1] ohne Verleihung oder Bewilligung zulässig waren, sind für die erste Konzessionsdauer keine Konzessionsgebühren zu entrichten.
+<sup>2</sup> Für konzessionspflichtige Nutzungen von Gewässern, die gemäss dem Gesetz vom 30. April 1967 über die Rechte am Wasser (Wasserrechtsgesetz, WRG)[^157-1] ohne Verleihung oder Bewilligung zulässig waren, sind für die erste Konzessionsdauer keine Konzessionsgebühren zu entrichten.
 
 <sup>3</sup> Bei der Überführung ehehafter Rechte in Konzessionen können die Konzessionsgebühren herabgesetzt werden, wenn deren Zahlung für die betroffene Person eine besondere Härte darstellt oder unter dem Gesichtspunkt der Rechtsgleichheit unzumutbar erscheint.
 
-[^157c-1]: A 1967, 563; vom Bundesrat genehmigt am 29. Februar 1968; Inkrafttreten am 1. Januar 1968
+[^157-1]: A 1967, 563; vom Bundesrat genehmigt am 29. Februar 1968; Inkrafttreten am 1. Januar 1968
 
-#### Art. 158 d
+#### Art. 158
 
-**) altrechtliche Verleihungen und Bewilligungen**
+**d) altrechtliche Verleihungen und Bewilligungen**
 
-<sup>1</sup> Die beim Inkrafttreten dieses Gesetzes bestehenden Verleihungen und Bewilligungen gemäss dem Gesetz vom 30. April 1967 über die Rechte am Wasser (Wasserrechtsgesetz, WRG)[^158d-1] bleiben bis zu deren Ablauf bestehen.
+<sup>1</sup> Die beim Inkrafttreten dieses Gesetzes bestehenden Verleihungen und Bewilligungen gemäss dem Gesetz vom 30. April 1967 über die Rechte am Wasser (Wasserrechtsgesetz, WRG)[^158-1] bleiben bis zu deren Ablauf bestehen.
 
 <sup>2</sup> Die Erneuerung von Konzessionen, die den zulässigen Umfang gemäss diesem Gesetz überschreiten, kann ausnahmsweise im Umfang der altrechtlichen Verleihung oder Bewilligung erfolgen, wenn dies keinen wesentlichen öffentlichen Interessen widerspricht.
 
 <sup>3</sup> Die Vorschriften dieses Gesetzes zu den Konzessionen finden auf die bestehenden Verleihungen und Bewilligungen Anwendung, wenn der Inhalt der Verleihung oder Bewilligung dies zulässt und kein Eingriff in wohlerworbene Rechte erfolgt.
 
-[^158d-1]: A 1967, 563; vom Bundesrat genehmigt am 29. Februar 1968; Inkrafttreten am 1. Januar 1968
+[^158-1]: A 1967, 563; vom Bundesrat genehmigt am 29. Februar 1968; Inkrafttreten am 1. Januar 1968
 
 #### Art. 159
 
 **6. Wasserversorgung**
 
-Die öffentlichen Wasserversorgungsorganisationen haben seit Inkrafttreten dieses Gesetzes:
+<sup>1</sup> Die öffentlichen Wasserversorgungsorganisationen haben seit Inkrafttreten dieses Gesetzes:
 
 - 1\. ihre Reglemente über die Wasserversorgung binnen dreier Jahre anzupassen;
-
 - 2\. einen generellen Wasserversorgungsplan dem Gemeinderat binnen dreier Jahre zur Genehmigung einzureichen;
-
 - 3\. einen Anlagenkataster binnen fünf Jahren zu erstellen.
 
 #### Art. 160
 
-**Schlussbestimmungen**
+**Schlussbestimmungen 1. Änderung bisherigen Rechts a) Einführungsgesetz zum Zivilgesetzbuch**
 
-### 1. Änderung bisherigen Rechts
+<sup>1</sup> Das Gesetz vom 24. April 1988 über die Einführung des Schweizerischen Zivilgesetzbuches (Einführungsgesetz zum Zivilgesetzbuch, EG ZGB)[^160-1] wird wie folgt geändert: …
 
-- a) Einführungsgesetz zum Zivilgesetzbuch
+[^160-1]: NG 211.1
 
-Das Gesetz vom 24. April 1988 über die Einführung des Schweizerischen Zivilgesetzbuches (Einführungsgesetz zum Zivilgesetzbuch, EG ZGB)[^h1Änderungbisherig-1] wird wie folgt geändert: …
+#### Art. 161
 
-[^h1Änderungbisherig-1]: NG 211.1
+**b) Verwaltungsrechtspflegegesetz**
 
-#### Art. 161 b
+<sup>1</sup> Das Gesetz vom 8. Februar 1985 über das Verwaltungsverfahren und die Verwaltungsrechtspflege (Verwaltungsrechtspflegegesetz, VRG)[^161-1] wird wie folgt geändert: …
 
-**) Verwaltungsrechtspflegegesetz**
+[^161-1]: NG 265.1
 
-Das Gesetz vom 8. Februar 1985 über das Verwaltungsverfahren und die Verwaltungsrechtspflege (Verwaltungsrechtspflegegesetz, VRG)[^161b-1] wird wie folgt geändert: …
+#### Art. 162
 
-[^161b-1]: NG 265.1
+**c) Gebührengesetz**
 
-#### Art. 162 c
+<sup>1</sup> Das Gesetz vom 27. Juni 2001 über die amtlichen Kosten (Gebührengesetz, GebG)[^162-1] wird wie folgt geändert: …
 
-**) Gebührengesetz**
+[^162-1]: NG 265.5
 
-Das Gesetz vom 27. Juni 2001 über die amtlichen Kosten (Gebührengesetz, GebG)[^162c-1] wird wie folgt geändert: …
+#### Art. 163
 
-[^162c-1]: NG 265.5
+**d) Planungs- und Baugesetz**
 
-#### Art. 163 d
+<sup>1</sup> Das Gesetz vom 21. Mai 2014 über die Raumplanung und das öffentliche Baurecht (Planungs- und Baugesetz, PBG)[^163-1] wird wie folgt geändert: …
 
-**) Planungs- und Baugesetz**
+[^163-1]: NG 611.1
 
-Das Gesetz vom 21. Mai 2014 über die Raumplanung und das öffentliche Baurecht (Planungs- und Baugesetz, PBG)[^163d-1] wird wie folgt geändert: …
+#### Art. 164
 
-[^163d-1]: NG 611.1
+**e) Elektrizitätswerkgesetz**
 
-#### Art. 164 e
+<sup>1</sup> Das Gesetz vom 27. März 2013 über das Kantonale Elektrizitätswerk Nidwalden (Elektrizitätswerkgesetz, EWNG)[^164-1] wird wie folgt geändert: …
 
-**) Elektrizitätswerkgesetz**
+[^164-1]: NG 642.1
 
-Das Gesetz vom 27. März 2013 über das Kantonale Elektrizitätswerk Nidwalden (Elektrizitätswerkgesetz, EWNG)[^164e-1] wird wie folgt geändert: …
+#### Art. 165
 
-[^164e-1]: NG 642.1
+**f) Kantonales Binnenschifffahrtsgesetz**
 
-#### Art. 165 f
+<sup>1</sup> Das Einführungsgesetz vom 23. Februar 2000 zum Bundesgesetz über die Binnenschifffahrt (Kantonales Binnenschifffahrtsgesetz, kBSG)[^165-1] wird wie folgt geändert: …
 
-**) Kantonales Binnenschifffahrtsgesetz**
+[^165-1]: NG 654.1
 
-Das Einführungsgesetz vom 23. Februar 2000 zum Bundesgesetz über die Binnenschifffahrt (Kantonales Binnenschifffahrtsgesetz, kBSG)[^165f-1] wird wie folgt geändert: …
+#### Art. 166
 
-[^165f-1]: NG 654.1
+**g) Kantonales Waldgesetz**
 
-#### Art. 166 g
+<sup>1</sup> Das Einführungsgesetz vom 11. März 1998 zum Bundesgesetz über den Wald (Kantonales Waldgesetz, kWaG)[^166-1] wird wie folgt geändert: …
 
-**) Kantonales Waldgesetz**
-
-Das Einführungsgesetz vom 11. März 1998 zum Bundesgesetz über den Wald (Kantonales Waldgesetz, kWaG)[^166g-1] wird wie folgt geändert: …
-
-[^166g-1]: NG 831.1
+[^166-1]: NG 831.1
 
 #### Art. 167
 
 **2. Aufhebung bisherigen Rechts**
 
-Die folgenden Erlasse werden aufgehoben:
+<sup>1</sup> Die folgenden Erlasse werden aufgehoben:
 
 - 1\. das Gesetz vom 30. April 1967 über die Rechte am Wasser (Wasserrechtsgesetz, WRG)[^167-1];
-
 - 2\. die Vollziehungsverordnung vom 6. Juli 1968 zum Gesetz über die Rechte am Wasser (Wasserrechtsverordnung)[^167-2];
-
 - 3\. das Einführungsgesetz vom 1. April 2009 zum Bundesgesetz über den Schutz der Gewässer (Kantonales Gewässerschutzgesetz, kGSchG)[^167-3].
 
 [^167-1]: A 1967, 563; vom Bundesrat genehmigt am 29. Februar 1968; Inkrafttreten am 1. Januar 1968
@@ -2020,55 +1849,33 @@ Die folgenden Erlasse werden aufgehoben:
 
 <sup>2</sup> Der Regierungsrat legt den Zeitpunkt des Inkrafttretens fest.
 
-### KONZESSIONSGEBÜHREN
+## A1 Anhang 1: Konzessionsgebühren
 
-### A. Einmalige Konzessionsgebühren (Art. 131 Abs. 1 Ziff. 1)
+### A1.1 Einmalige Konzessionsgebühren (Art. 131 Abs. 1 Ziff. 1)
+
+#### Art. A1-1
 
 <sup>1</sup> Die Konzessionsbehörde erhebt eine einmalige Konzessionsgebühr; sie beträgt:
 
-**Fr.**
-
-Fr.
-
-**150.- 20'000.-**
-
-- 1\. Fortleitung von Gewässern über die Kantonsgrenze
-
-**150.- bis 20'000.-**
-
-- 2\. Entnahme von Material aus Gewässern, Einbringen von Material in Gewässer
-
-- 3\. Benützung von Gewässern für Hafenanlagen, Schiffsstandplätze, Bootshäuser, Badeflösse, Bojen und dergleichen
-
-**150.- bis 20'000.-**
-
-- 4\. Erstellung und Erneuerung von Bauten und Anlagen in und an Seen wie Stege, Pfähle, Treppen, Uferschutzmauern, Stützmauern und dergleichen
-
-**150.- bis 20‘000.-**
-
-- 5\. Nutzung der Wasserkraft eines Gewässers beziehungsweise des aus einem Gewässer abgeleiteten Wassers, je Bruttoleistung in kW
-
-**20.- bis 100.- 150.- bis 20'000.-**
-
-- 6\. Wasserbezug aus einem Gewässer
-
-- 7\. Errichtung und Betrieb von Anlagen jeder Art, bei denen Wasser aus Gewässern zu Kühlzwecken oder zur Gewinnung von Wärme verwendet wird
-
-**200.-**
-
-- Grundgebühr
-
-- zuzüglich je Kilowatt installierte Verdampferleistung (bei Wasser 10 °C / Wasser 35 °C)
-
-**2.-**
+- 1\. Fortleitung von Gewässern über die Kantonsgrenze: — Fr. 150.– bis 20'000.–
+- 2\. Entnahme von Material aus Gewässern, Einbringen von Material in Gewässer: — Fr. 150.– bis 20'000.–
+- 3\. Benützung von Gewässern für Hafenanlagen, Schiffsstandplätze, Bootshäuser, Badeflösse, Bojen und dergleichen: — Fr. 150.– bis 20'000.–
+- 4\. Erstellung und Erneuerung von Bauten und Anlagen in und an Seen wie Stege, Pfähle, Treppen, Uferschutzmauern, Stützmauern und dergleichen: — Fr. 150.– bis 20'000.–
+- 5\. Nutzung der Wasserkraft eines Gewässers beziehungsweise des aus einem Gewässer abgeleiteten Wassers, je Bruttoleistung in kW: — Fr. 20.– bis 100.–
+- 6\. Wasserbezug aus einem Gewässer: — Fr. 150.– bis 20'000.–
+- 7\. Errichtung und Betrieb von Anlagen jeder Art, bei denen Wasser aus Gewässern zu Kühlzwecken oder zur Gewinnung von Wärme verwendet wird:
+  - a) Grundgebühr: — Fr. 200.–
+  - b) zuzüglich je Kilowatt installierte Verdampferleistung (bei Wasser 10°C / Wasser 35°C): — Fr. 2.–
 
 <sup>2</sup> Für alle anderen Konzessionen wird die einmalige Konzessionsgebühr durch die Konzessionsbehörde nach den besonderen Verhältnissen von Fall zu Fall festgesetzt.
 
 <sup>3</sup> Bei der Erneuerung einer Konzession richtet sich die einmalige Konzession nach dem vorstehenden Tarif.
 
-### B. Wiederkehrende Konzessionsgebühren (Art. 131 Abs. 1 Ziff. 2)
+### A1.2 Wiederkehrende Konzessionsgebühren (Art. 131 Abs. 1 Ziff. 2)
 
-### 1. Wasserzinsen
+#### Art. A1-2
+
+**Wasserzinsen**
 
 <sup>1</sup> Die Konzessionsbehörde erhebt für Wasserbezüge einen jährlichen Wasserzins; er beträgt 1 bis 10 Rappen je Kubikmeter des während eines Jahres bezogenen Wassers.
 
@@ -2076,69 +1883,36 @@ Fr.
 
 <sup>3</sup> Wird für den Wasserbezug keine Pumpe verwendet, ist die bezogene Wassermenge auf andere sachgemässe Weise zu berechnen.
 
-- 2\. Nutzungsentschädigungen
+#### Art. A1-3
+
+**Nutzungsentschädigungen**
 
 <sup>1</sup> Wenn kein Wasserzins zu entrichten ist, erhebt die Konzessionsbehörde eine jährlich zu entrichtende Nutzungsentschädigung; sie beträgt:
 
-**Fr.**
-
-Fr.
-
-- 1\. für die Fortleitung von Gewässern über die Kantonsgrenze, je Kubikmeter
-
-**-.05 bis -.20**
-
-**4.- bis 8.-**
-
-- 2\. für die Entnahme von Material aus Gewässern, je Kubikmeter
-
+- 1\. für die Fortleitung von Gewässern über die Kantonsgrenze, je Kubikmeter: — Fr. –.05 bis –.20
+- 2\. für die Entnahme von Material aus Gewässern, je Kubikmeter: — Fr. 4.– bis 8.–
 - 3\. für die Benützung von Gewässern über öffentlichem Grund:
-
-**6.50 bis 9.-**
-
-**40.- bis 60.-**
-
-**120.- bis 200.-**
-
-**4.- bis 6.-**
-
-**2.- bis 3.- 230.- bis 350.-**
-
-**50.- bis 70.-**
-
-**3.- bis 7.-**
-
-**40.- bis 60.-**
-
-**4.**
-
-**5.50 bis 7.50**
-
-**40.- bis 60.-**
-
-**120.- bis 170.-**
-
-**2.50 bis 3.50**
-
-**1.50 bis 2.50 230.- bis 350.-**
-
-3.1 Seegebiet allgemein (Hafenanlagen, Schiffsstandplätze, Bootshäuser, Badeflösse, Stege, Pfähle, Treppen, Mauern usw.), je m<sup>2</sup> Zuschlag für kurzfristige Schiffsanlegemöglichkeit, sofern nicht über Fläche verrechnet Zuschlag für Standplatz, sofern nicht über Fläche verrechnet 3.2 Nauen- und Bootsstandplätze für industrielle und gewerbliche Nutzungen, Anlegeplätze für Gastbetriebe, je m<sup>2</sup> 3.3 Temporäre Anlegeplätze für Nauen, je m<sup>2</sup> 3.4 Boje mit Bootsstandplatz 3.5 Boje oder Einzelpfahl ohne Bootsstandplatz 3.6 Hinterfüllungen zur Befestigung von Ufermauern bzw. zur Sicherung von Landparzellen, je m<sup>2</sup> Mindestansatz für Benützung von Gewässern über öffentlichem Grund für die Benützung von Gewässern über privatem Grund:
-
-**50.- bis 70.-**
-
-**2.- bis 5.-**
-
-**40.- bis 60.-**
-
-4.1 Seegebiet allgemein (Hafenanlagen, Schiffsstandplätze, Bootshäuser, Badeflösse, Stege, Pfähle, Treppen, Mauern usw.), je m<sup>2</sup> Zuschlag für kurzfristige Schiffsanlegemöglichkeit, sofern nicht über Fläche verrechnet Zuschlag für Standplatz, sofern nicht über Fläche verrechnet 4.2 Nauen- und Bootsstandplätze für industrielle und gewerbliche Nutzungen, Anlegeplätze für Gastbetriebe, je m<sup>2</sup> 4.3 Temporäre Anlegeplätze für Nauen, je m<sup>2</sup> 4.4 Boje mit Bootsstandplatz 4.4 Boje oder Einzelpfahl ohne Bootsstandplatz 4.5 Hinterfüllungen zur Befestigung von Ufermauern bzw. zur Sicherung von Landparzellen, je m<sup>2</sup> Mindestansatz für Benützung von Gewässern über privatem Grund Errichtung und der Betrieb von Anlagen jeder Art, bei denen Wasser aus Gewässern zu Kühlzwecken oder zur Gewinnung von Wärme verwendet wird, je Kilowatt installierte Verdampferleistung (bei Wasser 10 °C / Wasser 35 °C)
-
-**5.**
-
-**3.- bis 8.-**
+  - 3\.1 Seegebiet allgemein (Hafenanlagen, Schiffsstandplätze, Bootshäuser, Badeflösse, Stege, Pfähle, Treppen, Mauern usw.), je m²: — Fr. 6.50 bis 9.–
+  - 3\.1a Zuschlag für kurzfristige Schiffsanlegemöglichkeit, sofern nicht über Fläche verrechnet: — Fr. 40.– bis 60.–
+  - 3\.1b Zuschlag für Standplatz, sofern nicht über Fläche verrechnet: — Fr. 120.– bis 200.–
+  - 3\.2 Nauen- und Bootsstandplätze für industrielle und gewerbliche Nutzungen, Anlegeplätze für Gastbetriebe, je m²: — Fr. 4.– bis 6.–
+  - 3\.3 Temporäre Anlegeplätze für Nauen, je m²: — Fr. 2.– bis 3.–
+  - 3\.4 Boje mit Bootsstandplatz: — Fr. 230.– bis 350.–
+  - 3\.5 Boje oder Einzelpfahl ohne Bootsstandplatz: — Fr. 50.– bis 70.–
+  - 3\.6 Hinterfüllungen zur Befestigung von Ufermauern bzw. zur Sicherung von Landparzellen, je m²: — Fr. 3.– bis 7.–
+  - 3\.7 Mindestansatz für Benützung von Gewässern über öffentlichem Grund: — Fr. 40.– bis 60.–
+- 4\. für die Benützung von Gewässern über privatem Grund:
+  - 4\.1 Seegebiet allgemein (Hafenanlagen, Schiffsstandplätze, Bootshäuser, Badeflösse, Stege, Pfähle, Treppen, Mauern usw.), je m²: — Fr. 5.50 bis 7.50
+  - 4\.1a Zuschlag für kurzfristige Schiffsanlegemöglichkeit, sofern nicht über Fläche verrechnet — Fr. 40.– bis 60.–
+  - 4\.1b Zuschlag für Standplatz, sofern nicht über Fläche verrechnet: — Fr. 120.– bis 170.–
+  - 4\.2 Nauen- und Bootsstandplätze für industrielle und gewerbliche Nutzungen, Anlegeplätze für Gastbetriebe, je m²: — Fr. 2.50 bis 3.50
+  - 4\.3 Temporäre Anlegeplätze für Nauen, je m²: — Fr. 1.50 bis 2.50
+  - 4\.4 Boje mit Bootsstandplatz: — Fr. 230.– bis 350.–
+  - 4\.5 Boje oder Einzelpfahl ohne Bootsstandplatz: — Fr. 50.– bis 70.–
+  - 4\.6 Hinterfüllungen zur Befestigung von Ufermauern bzw. zur Sicherung von Landparzellen, je m²: — Fr. 2.– bis 5.–
+  - 4\.7 Mindestansatz für Benützung von Gewässern über privatem Grund: — Fr. 40.– bis 60.–
+- 5\. Errichtung und der Betrieb von Anlagen jeder Art, bei denen Wasser aus Gewässern zu Kühlzwecken oder zur Gewinnung von Wärme verwendet wird, je Kilowatt installierte Verdampferleistung (bei Wasser 10°C / Wasser 35°C): — Fr. 3.– bis 8.–
 
 <sup>2</sup> Für die übrigen konzessionspflichtigen Gewässernutzungen sowie in Sonderfällen setzt die Konzessionsbehörde die jährlich zu entrichtenden Nutzungsentschädigungen von Fall zu Fall fest.
 
-## Weitere Fussnoten
-
-- [22] NG 631.1
-- [26] NG 651.2
+A 2020, 327, 2029
