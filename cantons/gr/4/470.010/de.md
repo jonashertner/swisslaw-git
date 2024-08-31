@@ -4,13 +4,12 @@ number: "470.010"
 title: Verordnung über die Förderung von Sport und Bewegung
 short: Sportförderungsverordnung
 language: de
-version: 2022-07-01
-valid_until: 2024-08-31
-version_adopted: 2022-06-07
+version: 2024-09-01
+version_adopted: 2024-08-20
 adopted: 2015-07-07
 in_force: 2015-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/470.010"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3252/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3824/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3252/pdf_file"
 
 (Sportförderungsverordnung)
 
-Vom 07.07.2015 (Stand 01.07.2022)
+Vom 07.07.2015 (Stand 01.09.2024)
 
 Gestützt auf Art. 45 der Kantonsverfassung[^ingress-1]
 
@@ -33,7 +32,7 @@ von der Regierung erlassen am 7. Juli 2015
 
 **Zuständigkeit**
 
-<sup>1</sup> Das Erziehungs-, Kultur- und Umweltschutzdepartement (Departement) sorgt für die Umsetzung des Sportförderungsgesetzes und übt alle Befugnisse aus, die keiner anderen Behörde oder Verwaltungseinheit übertragen sind. Kantonale Dienststelle ist das Amt für Volksschule und Sport (Amt).
+<sup>1</sup> Das Departement für Bildung, Umwelt und Kultur (Departement) sorgt für die Umsetzung des Sportförderungsgesetzes und übt alle Befugnisse aus, die keiner anderen Behörde oder Verwaltungseinheit übertragen sind. Kantonale Dienststelle ist das Amt für Volksschule und Sport (Amt).
 
 <sup>2</sup> Für die Bewegungsförderung im Bereich Gesundheitsförderung ist das Departement für Justiz, Sicherheit und Gesundheit zuständig.
 
@@ -110,9 +109,9 @@ von der Regierung erlassen am 7. Juli 2015
 
 **Ausgabenkompetenz**
 
-<sup>1</sup> Über die Ausrichtung von Beiträgen bis 50 000 Franken entscheidet das Departement.
+<sup>1</sup> Über die Ausrichtung von Beiträgen bis 100 000 Franken entscheidet das Departement.
 
-<sup>2</sup> Über die Ausrichtung der jährlichen Pauschalbeiträge sowie von Beiträgen über 50 000 Franken entscheidet die Regierung.
+<sup>2</sup> Über die Ausrichtung der jährlichen Pauschalbeiträge sowie von Beiträgen über 100 000 Franken entscheidet die Regierung.
 
 #### Art. 11
 

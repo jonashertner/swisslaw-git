@@ -4,13 +4,12 @@ number: "470.010"
 title: Ordinaziun davart la promoziun dal sport e dal moviment
 short: ordinaziun da promoziun dal sport
 language: rm
-version: 2022-07-01
-valid_until: 2024-08-31
-version_adopted: 2022-06-07
+version: 2024-09-01
+version_adopted: 2024-08-20
 adopted: 2015-07-07
 in_force: 2015-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/470.010"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3252/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3824/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3252/pdf_file"
 
 (ordinaziun da promoziun dal sport)
 
-dals 07-07-2015 (versiun dals 01-07-2022)
+dals 07-07-2015 (versiun dals 01-09-2024)
 
 sa basond sin l'art. 45 da la constituziun chantunala[^ingress-1]
 
@@ -33,7 +32,7 @@ relaschada da la regenza ils 7 da fanadur 2015
 
 **Cumpetenza**
 
-<sup>1</sup> Il departament d'educaziun, cultura e protecziun da l'ambient (departament) procura per l'execuziun da la lescha da promoziun dal sport ed exequescha tut las cumpetenzas che n'èn betg vegnidas transferidas ad in'autra autoritad u ad in'autra unitad administrativa. Il post da servetsch chantunal è l'uffizi per la scola populara ed il sport (uffizi).
+<sup>1</sup> Il Departament da furmaziun, ambient e cultura (departament) procura per l'execuziun da la Lescha da promoziun dal sport ed exequescha tut las cumpetenzas che n'èn betg vegnidas transferidas ad in'autra autoritad u ad in'autra unitad administrativa. Il post da servetsch chantunal è l'Uffizi per la scola populara ed il sport (uffizi).
 
 <sup>2</sup> Per la promoziun dal moviment en il sectur da la promoziun da la sanadad è cumpetent il departament da giustia, segirezza e sanadad.
 
@@ -110,9 +109,9 @@ relaschada da la regenza ils 7 da fanadur 2015
 
 **Cumpetenza d'expensas**
 
-<sup>1</sup> Davart il pajament da contribuziuns fin a 50 000 francs decida il departament.
+<sup>1</sup> Davart il pajament da contribuziuns fin a 100 000 francs decida il departament.
 
-<sup>2</sup> Davart il pajament da las contribuziuns pauschalas annualas e da contribuziuns da passa 50 000 francs decida la regenza.
+<sup>2</sup> Davart il pajament da las contribuziuns pauschalas annualas sco er da contribuziuns da passa 100 000 francs decida la Regenza.
 
 #### Art. 11
 

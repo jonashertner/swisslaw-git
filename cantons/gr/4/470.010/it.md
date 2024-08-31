@@ -4,13 +4,12 @@ number: "470.010"
 title: "Ordinanza sulla promozione dello sport e dell'attività fisica"
 short: Ordinanza sulla promozione dello sport
 language: it
-version: 2022-07-01
-valid_until: 2024-08-31
-version_adopted: 2022-06-07
+version: 2024-09-01
+version_adopted: 2024-08-20
 adopted: 2015-07-07
 in_force: 2015-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/470.010"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3252/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3824/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3252/pdf_file"
 
 (Ordinanza sulla promozione dello sport)
 
-del 07.07.2015 (stato 01.07.2022)
+del 07.07.2015 (stato 01.09.2024)
 
 emanata dal Governo il 7 luglio 2015
 
@@ -33,7 +32,7 @@ visto l'art. 45 della Costituzione cantonale[^ingress-1]
 
 **Competenza**
 
-<sup>1</sup> Il Dipartimento dell'educazione, cultura e protezione dell'ambiente (Dipartimento) provvede all'attuazione della legge sulla promozione dello sport ed esercita tutte le competenze non attribuite a un'altra autorità o unità amministrativa. Il servizio cantonale è l'Ufficio per la scuola popolare e lo sport (Ufficio).
+<sup>1</sup> Il Dipartimento formazione, ambiente e cultura (Dipartimento) provvede all'attuazione della legge sulla promozione dello sport ed esercita tutte le competenze non attribuite a un'altra autorità o unità amministrativa. Il servizio cantonale è l'Ufficio per la scuola popolare e lo sport (Ufficio).
 
 <sup>2</sup> La competenza per la promozione del movimento nel settore della promozione della salute spetta al Dipartimento di giustizia, sicurezza e sanità.
 
@@ -110,9 +109,9 @@ visto l'art. 45 della Costituzione cantonale[^ingress-1]
 
 **Competenza per le spese**
 
-<sup>1</sup> Il Dipartimento decide in merito all'erogazione di contributi fino a 50 000 franchi.
+<sup>1</sup> Il Dipartimento decide in merito all'erogazione di contributi fino a 100 000 franchi.
 
-<sup>2</sup> Il Governo decide in merito all'erogazione di contributi forfetari annui nonché di contributi superiori a 50 000 franchi.
+<sup>2</sup> Il Governo decide in merito all'erogazione di contributi forfetari annui nonché di contributi superiori a 100 000 franchi.
 
 #### Art. 11
 
