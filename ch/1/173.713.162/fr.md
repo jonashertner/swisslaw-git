@@ -4,11 +4,11 @@ title: "Règlement du Tribunal pénal fédéral du 31 août 2010 sur les frais, 
 short: RFPPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/826"
 language: fr
-version: 2019-12-01
+version: 2024-09-01
 adopted: 2010-08-31
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/826/20191201/fr/xml/fedlex-data-admin-ch-eli-cc-2010-826-20191201-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/826/20191201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/826/20240901/fr/xml/fedlex-data-admin-ch-eli-cc-2010-826-20240901-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/826/20240901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/826/20191201/fr"
 
 (RFPPF)
 
-du 31 août 2010 (État le 1<sup>er</sup> décembre 2019)
+du 31 août 2010 (État le 1<sup>er</sup> septembre 2024)
 
 Le Tribunal pénal fédéral (TPF),
 
@@ -282,37 +282,80 @@ Seuls les frais effectifs sont remboursés. Le remboursement des frais ne peut c
 
 Les personnes appelées à donner des renseignements ou d’autres tiers qui sont concernés par des mesures d’administration des preuves ont droit à l’indemnité qui est allouée aux témoins.
 
-### Section 4 Indemnités allouées aux experts ainsi qu’aux interprètes et traducteurs
+### Section 4 Indemnités allouées aux experts
+
+[^chap2-sec4-1]
+
+[^chap2-sec4-1]: Nouvelle teneur selon le ch. I de l’O du TPF du 22 juil. 2024, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 385](https://fedlex.data.admin.ch/eli/oc/2024/385)).
 
 #### Art. 19
 
-**Indemnités allouées aux experts**
+**…[^19-1]**
 
 <sup>1</sup> En règle générale, les experts sont indemnisés en fonction des prestations occasionnées par l’exécution de leur mandat. Le tarif appliqué est fonction des connaissances nécessaires ainsi que de la difficulté que présente l’exécution du mandat; les experts qui exercent leur activité à titre indépendant sont généralement indemnisés selon les tarifs de la branche à laquelle ils appartiennent ou selon convention. En règle générale, le montant de l’indemnité est fixé sur la base de la note d’honoraires adressée par l’expert.
 
 <sup>2</sup> Avant de confier un mandat d’expertise, la direction de la procédure peut demander un devis.
 
-<sup>3</sup> Si la facture semble surfaite, la direction de la procédure peut réduire le montant de l’indemnité. Les négligences de l’expert sont réglées par l’art. 191 CPP[^19-1].
+<sup>3</sup> Si la facture semble surfaite, la direction de la procédure peut réduire le montant de l’indemnité. Les négligences de l’expert sont réglées par l’art. 191 CPP[^19-2].
 
 <sup>4</sup> Sauf convention contraire, les tarifs fixés à l’art. 13 s’appliquent par analogie au remboursement des frais de voyage et de repas ainsi qu’aux autres débours des experts.
 
 <sup>5</sup> Les honoraires et débours s’entendent hors TVA.
 
-[^19-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^19-1]: Abrogé par le ch. I de l’O du TPF du 22 juil. 2024, avec effet au 1<sup>er</sup> sept. 2024 ([RO 2024 385](https://fedlex.data.admin.ch/eli/oc/2024/385)).
+[^19-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+
+### Section 4*a* Indemnités allouées aux interprètes et aux traducteurs
+
+[^chap2-sec4a-1]
+
+[^chap2-sec4a-1]: Introduit par le ch. I de l’O du TPF du 22 juil. 2024, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 385](https://fedlex.data.admin.ch/eli/oc/2024/385)).
 
 #### Art. 20
 
-**Indemnités allouées aux interprètes et aux traducteurs**
+**Indemnités allouées aux interprètes et aux traducteurs**[^20-1]
 
-<sup>1</sup> En règle générale, les interprètes sont indemnisés à raison de 80 à 120 francs par heure et les traducteurs selon leur note d’honoraires, mais au maximum selon le tarif applicable aux prestations fournies par des traducteurs ou réviseurs mandatés par l’administration générale de la Confédération[^20-1]. Le tarif appliqué est fonction des connaissances linguistiques et techniques de l’interprète ou du traducteur (diplôme professionnel, licence en langues, formation équivalente ou expérience professionnelle équivalente).
+<sup>1</sup> En règle générale, les interprètes et les traducteurs sont indemnisés selon les prix du marché, mais au maximum à hauteur de 130 francs par heure pour les interprètes et de 140 francs par page standard pour les traducteurs. Une page standard comprend 1 800 caractères espaces comprises; le texte source est déterminant.
 
-<sup>2</sup> Si la facture semble surfaite, notamment parce que l’interprète ou le traducteur ne s’est pas acquitté correctement de son mandat ou n’a pas respecté le délai fixé, la direction de la procédure peut réduire le montant de l’indemnité.
+<sup>2</sup> Le tarif appliqué dépend en particulier des connaissances linguistiques et techniques de l’interprète ou du traducteur, notamment attestées par un diplôme professionnel, une licence en langues, une formation équivalente ou une expérience professionnelle équivalente.
 
-<sup>3</sup> Sauf convention contraire, les tarifs fixés à l’art. 17 s’appliquent par analogie au remboursement des frais de voyage et de repas ainsi qu’aux autres débours des interprètes et traducteurs.
+<sup>3</sup> Le temps de déplacement est indemnisé à hauteur de la moitié du taux horaire fixé à l’al. 1, le temps d’attente est indemnisé intégralement.
 
-<sup>4</sup> Les indemnités s’entendent hors TVA.
+[^20-1]: Nouvelle teneur selon le ch. I de l’O du TPF du 22 juil. 2024, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 385](https://fedlex.data.admin.ch/eli/oc/2024/385)).
 
-[^20-1]: Annexe aux Instructions de la ChF sur le recours à des traducteurs ou réviseurs privés: www.bk.admin.ch &gt; Thèmes &gt; Langues.
+#### Art. 20a
+
+**Indemnité forfaitaire**[^20a-1]
+
+<sup>1</sup> Dans des cas particuliers, une indemnisation forfaitaire peut être convenue.
+
+<sup>2</sup> Sont notamment considérées comme des cas particuliers les procédures de longue durée comportant plusieurs jours de débats et des interruptions prévisibles ou des jours de réserve.
+
+<sup>3</sup> Lorsqu’elle fixe l’indemnité forfaitaire, la direction de la procédure tient compte des taux prévus à l’art. 20 et du temps de travail estimé.
+
+[^20a-1]: Introduit par le ch. I de l’O du TPF du 22 juil. 2024, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 385](https://fedlex.data.admin.ch/eli/oc/2024/385)).
+
+#### Art. 20b
+
+**Annulation, report ou réduction de l’intervention**[^20b-1]
+
+<sup>1</sup> Lorsque les débats de la cause durent une journée et que l’intervention de l’interprète est annulée ou reportée moins de 2 jours ouvrables avant la date prévue, une indemnité forfaitaire de 200 francs par jour est allouée à l’interprète et les frais inévitables qu’il a engagés sont remboursés.
+
+<sup>2</sup> En cas d’annulation ou de réduction importante de l’intervention de l’interprète à court terme, lorsque les débats se déroulent sur plusieurs jours, l’indemnité est fixée par la direction de la procédure selon son appréciation.
+
+[^20b-1]: Introduit par le ch. I de l’O du TPF du 22 juil. 2024, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 385](https://fedlex.data.admin.ch/eli/oc/2024/385)).
+
+#### Art. 20c
+
+**Calcul**[^20c-1]
+
+<sup>1</sup> Si la facture semble surfaite, notamment parce que l’interprète ou le traducteur ne s’est pas acquitté correctement de son mandat ou n’a pas respecté le délai fixé, la direction de la procédure peut réduire le montant de l’indemnité.
+
+<sup>2</sup> Sauf convention contraire, les règles fixées à l’art. 17 s’appliquent par analogie au remboursement des frais de voyage et de repas et aux autres débours.
+
+<sup>3</sup> Les indemnités s’entendent hors TVA.
+
+[^20c-1]: Introduit par le ch. I de l’O du TPF du 22 juil. 2024, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 385](https://fedlex.data.admin.ch/eli/oc/2024/385)).
 
 ## Chapitre 3 Dispositions finales
 

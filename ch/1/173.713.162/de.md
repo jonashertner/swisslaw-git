@@ -4,11 +4,11 @@ title: "Reglement des Bundesstrafgerichts vom 31. August 2010 über die Kosten, 
 short: BStKR
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/826"
 language: de
-version: 2019-12-01
+version: 2024-09-01
 adopted: 2010-08-31
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/826/20191201/de/xml/fedlex-data-admin-ch-eli-cc-2010-826-20191201-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/826/20191201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/826/20240901/de/xml/fedlex-data-admin-ch-eli-cc-2010-826-20240901-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/826/20240901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/826/20191201/de"
 
 (BStKR)
 
-vom 31. August 2010 (Stand am 1. Dezember 2019)
+vom 31. August 2010 (Stand am 1. September 2024)
 
 Das Bundesstrafgericht (BStGer),
 
@@ -282,37 +282,80 @@ Die Spesen werden aufgrund der tatsächlichen Kosten vergütet. Es werden höchs
 
 Auskunftspersonen oder andere Drittpersonen, die von Beweismassnahmen betroffen sind, werden wie Zeuginnen und Zeugen entschädigt.
 
-### 4. Abschnitt: Entschädigung an Sachverständige, Übersetzerinnen, Übersetzer, Dolmetscherinnen und Dolmetscher
+### 4. Abschnitt: Entschädigung an Sachverständige
+
+[^chap2-sec4-1]
+
+[^chap2-sec4-1]: Fassung gemäss Ziff. I der V des BStGer vom 22. Juli 2024, in Kraft seit 1. Sept. 2024 (AS **20****24** 385).
 
 #### Art. 19
 
-**Entschädigung an Sachverständige**
+**…[^19-1]**
 
 <sup>1</sup> Sachverständige werden grundsätzlich nach Aufwand entschädigt. Der Ansatz richtet sich nach den erforderlichen Fachkenntnissen und der Schwierigkeit der Auftragserfüllung, bei freiberuflich tätigen Sachverständigen in der Regel nach den üblichen Ansätzen der jeweiligen Branche oder nach Vereinbarung. Die Entschädigung wird in der Regel aufgrund der von der sachverständigen Person eingereichten Honorarnote festgesetzt.
 
 <sup>2</sup> Die Verfahrensleitung kann vor Erteilung des Gutachterauftrags einen Kostenvoranschlag verlangen.
 
-<sup>3</sup> Erscheint die Rechnung als übersetzt, so kann die Verfahrensleitung die Entschädigung herabsetzen. Pflichtversäumnisse der sachverständigen Person werden gemäss Artikel 191 StPO[^19-1] sanktioniert.
+<sup>3</sup> Erscheint die Rechnung als übersetzt, so kann die Verfahrensleitung die Entschädigung herabsetzen. Pflichtversäumnisse der sachverständigen Person werden gemäss Artikel 191 StPO[^19-2] sanktioniert.
 
 <sup>4</sup> Für Reise- und Verpflegungsentschädigung und für weitere Auslagen der Sachverständigen gelten sinngemäss die Ansätze gemäss Artikel 13, soweit nichts anderes vereinbart wird.
 
 <sup>5</sup> Die Honorare und Auslagen verstehen sich exklusive Mehrwertsteuer.
 
-[^19-1]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^19-1]: Aufgehoben durch Ziff. I der V des BStGer vom 22. Juli 2024, mit Wirkung seit 1. Sept. 2024 ([AS 2024 385](https://fedlex.data.admin.ch/eli/oc/2024/385)).
+[^19-2]: [SR 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+
+### 4*a*. Abschnitt: Entschädigung an Dolmetscherinnen, Dolmetscher, Übersetzerinnen und Übersetzer
+
+[^chap2-sec4a-1]
+
+[^chap2-sec4a-1]: Eingefügt durch Ziff. I der V des BStGer vom 22. Juli 2024, in Kraft seit 1. Sept. 2024 ([AS 2024 385](https://fedlex.data.admin.ch/eli/oc/2024/385)).
 
 #### Art. 20
 
-**Entschädigung an Dolmetscherinnen, Dolmetscher, Übersetzerinnen und Übersetzer**
+**Grundsatz**[^20-1]
 
-<sup>1</sup> Dolmetscherinnen und Dolmetscher werden in der Regel mit 80–120 Franken pro Stunde entschädigt; die Entschädigung der Übersetzerinnen und Übersetzern richtet sich nach ihrer Honorarnote, wobei die Ansätze für von der Bundesverwaltung beauftragte Übersetzerinnen und Übersetzer sowie Revisorinnen und Revisoren nicht überschritten werden dürfen[^20-1]. Der Ansatz richtet sich nach den Sprach- und Fachkenntnissen (namentlich Berufsdiplom, Sprachlizentiat, gleichwertige Ausbildung oder vergleichbare berufliche Erfahrung).
+<sup>1</sup> Dolmetscherinnen und Dolmetscher sowie Übersetzerinnen und Übersetzer werden in der Regel nach Marktpreisen entschädigt, aber höchstens mit 130 Franken pro Stunde für Dolmetscherinnen und Dolmetscher und 140 Franken pro Standardseite für Übersetzerinnen und Übersetzer. Eine Standardseite umfasst 1 800 Zeichen einschliesslich Leerschläge; massgeblich ist der Ausgangstext.
 
-<sup>2</sup> Erscheint die Rechnung als übersetzt, namentlich wenn der Auftrag nicht korrekt oder nicht rechtzeitig ausgeführt worden ist, so kann die Verfahrensleitung die Entschädigung herabsetzen.
+<sup>2</sup> Bei der Festlegung des Ansatzes werden insbesondere die Sprach- und Fachkenntnisse berücksichtigt, namentlich das Vorliegen eines Berufsdiploms, Sprachlizentiats, einer gleichwertigen Ausbildung oder vergleichbarer beruflicher Erfahrung.
 
-<sup>3</sup> Für Reise- und Verpflegungsentschädigung und für weitere Auslagen gelten sinngemäss die Ansätze gemäss Artikel 17, soweit nichts anderes vereinbart wird.
+<sup>3</sup> Reisezeit wird zum halben Stundenansatz gemäss Absatz 1 entschädigt; Wartezeit wird voll entschädigt.
 
-<sup>4</sup> Die Entschädigungen verstehen sich exklusive Mehrwertsteuer.
+[^20-1]: Fassung gemäss Ziff. I der V des BStGer vom 22. Juli 2024, in Kraft seit 1. Sept. 2024 ([AS 2024 385](https://fedlex.data.admin.ch/eli/oc/2024/385)).
 
-[^20-1]: Anhang zu den Weisungen der Bundeskanzlei über den Beizug privater Übersetzerinnen und Übersetzer sowie Revisorinnen und Revisoren (www.bk.admin.ch/themen/lang/04919/04933/index.html?lang=de)
+#### Art. 20a
+
+**Pauschalentschädigung**[^20a-1]
+
+<sup>1</sup> In besonderen Fällen kann eine Pauschalentschädigung vereinbart werden.
+
+<sup>2</sup> Als besondere Fälle gelten namentlich Verfahren von langer Dauer mit vielen Verhandlungstagen und vorhersehbaren Unterbrüchen oder Reservetagen.
+
+<sup>3</sup> Bei der Festsetzung der Pauschalentschädigung berücksichtigt die Verfahrensleitung die Entschädigungsansätze gemäss Artikel 20 sowie den geschätzten Zeitaufwand.
+
+[^20a-1]: Eingefügt durch Ziff. I der V des BStGer vom 22. Juli 2024, in Kraft seit 1. Sept. 2024 ([AS 2024 385](https://fedlex.data.admin.ch/eli/oc/2024/385)).
+
+#### Art. 20b
+
+**Absage, Verschiebung oder Verkürzung des Einsatzes**[^20b-1]
+
+<sup>1</sup> Wird der Einsatz einer Dolmetscherin oder eines Dolmetschers einer eintägigen Verhandlung weniger als 2 Werktage vor dem geplanten Datum abgesagt oder verschoben, wird der Dolmetscherin oder dem Dolmetscher eine Pauschalentschädigung von 200 Franken pro Tag ausgerichtet und allfällige unvermeidbar angefallene Kosten werden zurückerstattet.
+
+<sup>2</sup> Bei mehrtägigen Verhandlungen kann bei kurzfristigem Ausfall oder wesentlicher Verkürzung des Dolmetschereinsatzes eine Entschädigung nach Ermessen zugesprochen werden.
+
+[^20b-1]: Eingefügt durch Ziff. I der V des BStGer vom 22. Juli 2024, in Kraft seit 1. Sept. 2024 ([AS 2024 385](https://fedlex.data.admin.ch/eli/oc/2024/385)).
+
+#### Art. 20c
+
+**Bemessung**[^20c-1]
+
+<sup>1</sup> Erscheint die Rechnung als übersetzt, namentlich wenn der Auftrag nicht korrekt oder nicht rechtzeitig ausgeführt worden ist, so kann die Verfahrensleitung die Entschädigung herabsetzen.
+
+<sup>2</sup> Für Reise- und Verpflegungsentschädigung und für weitere Auslagen gelten sinngemäss die Ansätze nach Artikel 17, soweit nichts anderes vereinbart wird.
+
+<sup>3</sup> Die Entschädigungen verstehen sich exklusive Mehrwertsteuer.
+
+[^20c-1]: Eingefügt durch Ziff. I der V des BStGer vom 22. Juli 2024, in Kraft seit 1. Sept. 2024 ([AS 2024 385](https://fedlex.data.admin.ch/eli/oc/2024/385)).
 
 ## 3. Kapitel: Schlussbestimmungen
 

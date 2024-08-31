@@ -4,11 +4,11 @@ title: "Regolamento del Tribunale penale federale del 31 agosto 2010 sulle spese
 short: RSPPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/826"
 language: it
-version: 2019-12-01
+version: 2024-09-01
 adopted: 2010-08-31
 in_force: 2011-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/826/20191201/it/xml/fedlex-data-admin-ch-eli-cc-2010-826-20191201-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/826/20191201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/826/20240901/it/xml/fedlex-data-admin-ch-eli-cc-2010-826-20240901-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/826/20240901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/826/20191201/it"
 
 (RSPPF)
 
-del 31 agosto 2010 (Stato 1° dicembre 2019)
+del 31 agosto 2010 (Stato 1° settembre 2024)
 
 Il Tribunale penale federale (TPF),
 
@@ -282,37 +282,80 @@ Le spese sono rimborsate secondo i costi effettivi. Sono rimborsati al massimo:
 
 Le persone informate sui fatti o altri terzi che sono toccati da misure probatorie hanno diritto alla stessa indennità dei testimoni.
 
-### Sezione 4: Indennità a periti, traduttori e interpreti
+### Sezione 4: Indennità a periti
+
+[^chap2-sec4-1]
+
+[^chap2-sec4-1]: Nuovo testo giusta il n. I dell’O del TPF del 22 lug. 2024, in vigore dal 1° set. 2024 (RU **20****24** 385).
 
 #### Art. 19
 
-**Indennità ai periti**
+**... [^19-1]**
 
 <sup>1</sup> In linea di massima, i periti sono indennizzati in funzione delle prestazioni fornite. La tariffa è calcolata in base alle necessarie conoscenze professionali e alla difficoltà d’esecuzione; nel caso di periti liberi professionisti, l’indennità è calcolata di regola secondo le tariffe in uso nella rispettiva associazione professionale o secondo convenzione. Di regola, l’indennità è fissata in base all’onorario presentato dal perito.
 
 <sup>2</sup> Prima di incaricare il perito, chi dirige il procedimento può chiedere un preventivo.
 
-<sup>3</sup> Se la fattura risulta eccessiva, chi dirige il procedimento può ridurre l’indennità. Le inadempienze del perito sono disciplinate dall’articolo 191 CPP[^19-1].
+<sup>3</sup> Se la fattura risulta eccessiva, chi dirige il procedimento può ridurre l’indennità. Le inadempienze del perito sono disciplinate dall’articolo 191 CPP[^19-2].
 
 <sup>4</sup> Per le indennità di trasferta e di vitto nonché per le altre spese dei periti, si applicano per analogia, salvo convenzione contraria, le tariffe dell’articolo 13.
 
 <sup>5</sup> Gli onorari e le spese si intendono IVA esclusa.
 
-[^19-1]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+[^19-1]: Abrogata dal n. I dell’O del TPF del 22 lug. 2024, con effetto dal 1° set. 2024 ([RU 2024 385](https://fedlex.data.admin.ch/eli/oc/2024/385)).
+[^19-2]: [RS 312.0](https://fedlex.data.admin.ch/eli/cc/2010/267)
+
+### Sezione 4*a*: Indennità a interpreti e traduttori
+
+[^chap2-sec4a-1]
+
+[^chap2-sec4a-1]: Introdotto dal n. I dell’O del TPF del 22 lug. 2024, in vigore dal 1° set. 2024 ([RU 2024 385](https://fedlex.data.admin.ch/eli/oc/2024/385)).
 
 #### Art. 20
 
-**Indennità a interpreti e traduttori**
+**Principio**[^20-1]
 
-<sup>1</sup> Di regola, l’indennità per gli interpreti oscilla tra 80 e 120 franchi all’ora e i traduttori sono indennizzati secondo la loro nota di onorario, ma al massimo secondo la tariffa applicabile alle prestazioni fornite da traduttori o revisori incaricati dall’Amministrazione federale[^20-1]. La tariffa è calcolata in funzione delle necessarie conoscenze linguistiche e professionali (segnatamente diploma professionale, laurea in lingue, formazione o esperienza professionale equivalenti).
+<sup>1</sup> Di regola, l’indennità per gli interpreti e i traduttori si basa sui prezzi di mercato ma ammonta al massimo a 130 franchi all’ora per gli interpreti e a 140 franchi per pagina standard per i traduttori. Una pagina standard è composta di 1800 caratteri (spazi inclusi); determinante per il calcolo è il testo di partenza.
 
-<sup>2</sup> Se la fattura risulta eccessiva, segnatamente se il mandato non è stato eseguito correttamente o entro i termini prefissati, chi dirige il procedimento può ridurre l’indennità.
+<sup>2</sup> Per determinare la tariffa sono considerate, in particolare, le conoscenze linguistiche e professionali, attestate segnatamente da un diploma professionale, da una laurea in lingue, da una formazione o da esperienza professionale equivalenti.
 
-<sup>3</sup> Per le indennità di trasferta e di vitto nonché per le altre spese degli interpreti e traduttori si applicano per analogia, salvo convenzione contraria, le tariffe di cui all’articolo 17.
+<sup>3</sup> Il tempo di viaggio è compensato alla metà della tariffa oraria in conformità al capoverso 1; il tempo di attesa è compensato per intero.
 
-<sup>4</sup> Le indennità si intendono IVA esclusa.
+[^20-1]: Nuovo testo giusta il n. I dell’O del TPF del 22 lug. 2024, in vigore dal 1° set. 2024 ([RU 2024 385](https://fedlex.data.admin.ch/eli/oc/2024/385)).
 
-[^20-1]: Allegato alle istruzioni della Cancelleria federale concernenti i mandati a traduttori e revisori privati: www.bk.admin.ch/themen/lang
+#### Art. 20a
+
+**Indennità forfettaria**[^20a-1]
+
+<sup>1</sup> In casi particolari può essere concordata un’indennità forfettaria.
+
+<sup>2</sup> Sono considerati casi particolari i procedimenti di lunga durata che comportano diversi giorni di dibattimenti e interruzioni prevedibili o giorni di riserva.
+
+<sup>3</sup> Nel determinare l’indennità forfettaria, chi dirige il procedimento prende in considerazione le tariffe di cui all’articolo 20 nonché il tempo di lavoro necessario stimato.
+
+[^20a-1]: Introdotto dal n. I dell’O del TPF del 22 lug. 2024, in vigore dal 1° set. 2024 ([RU 2024 385](https://fedlex.data.admin.ch/eli/oc/2024/385)).
+
+#### Art. 20b
+
+**Annullamento, rinvio o riduzione del mandato**[^20b-1]
+
+<sup>1</sup> Se i dibattimenti della causa durano un giorno e il mandato dell’interprete viene annullato o rinviato meno di due giorni lavorativi prima della data prevista, all’interprete è corrisposta un’indennità forfettaria di 200 franchi al giorno e saranno rimborsate le spese inevitabili da lui sostenute.
+
+<sup>2</sup> Se i dibattimenti si svolgono su più giorni, in caso di annullamento o riduzione importante del mandato dell’interprete con breve preavviso, il compenso è stabilito da chi dirige il procedimento secondo il suo apprezzamento.
+
+[^20b-1]: Introdotto dal n. I dell’O del TPF del 22 lug. 2024, in vigore dal 1° set. 2024 ([RU 2024 385](https://fedlex.data.admin.ch/eli/oc/2024/385)).
+
+#### Art. 20c
+
+**Calcolo**[^20c-1]
+
+<sup>1</sup> Se la fattura risulta eccessiva, segnatamente se il mandato non è stato eseguito correttamente o entro i termini prefissati, chi dirige il procedimento può ridurre l’indennità.
+
+<sup>2</sup> Per le indennità di trasferta e di vitto nonché per le altre spese degli interpreti e traduttori si applicano per analogia, salvo convenzione contraria, le tariffe secondo l’articolo 17.
+
+<sup>3</sup> Le indennità si intendono IVA esclusa.
+
+[^20c-1]: Introdotto dal n. I dell’O del TPF del 22 lug. 2024, in vigore dal 1° set. 2024 ([RU 2024 385](https://fedlex.data.admin.ch/eli/oc/2024/385)).
 
 ## Capitolo 3: Disposizioni finali
 
