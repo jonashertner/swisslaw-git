@@ -4,13 +4,13 @@ number: "850.402"
 title: "Reglement über die verschiedenen Einrichtungen für die Jugend *"
 short: RüvEJ
 language: de
-version: 2023-09-01
-valid_until: 2024-08-31
-version_adopted: 2023-11-08
+version: 2024-09-01
+valid_until: 2026-08-31
+version_adopted: 2024-08-21
 adopted: 2001-05-09
 in_force: 2001-06-01
 url: "https://lex.vs.ch/app/de/texts_of_law/850.402"
-pdf: "https://lex.vs.ch/api/de/versions/3241/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3344/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3241/pdf_file"
 
 (RüvEJ)
 
-vom 09.05.2001 (Stand 01.09.2023)
+vom 09.05.2001 (Stand 01.09.2024)
 
 Der Staatsrat des Kantons Wallis
 
@@ -154,9 +154,9 @@ beschliesst:
 
 <sup>1</sup> Um beschlussfähig zu sein, muss mindestens eine Mehrheit der Mitglieder (50% + 1) anwesend sein.
 
-<sup>2</sup> Bei Abstimmungen gilt das Mehrheitsprinzip der anwesenden Mitglieder. Bei Stimmengleichheit steht der Präsidentin oder dem Präsidenten der Stichentscheid zu.
+<sup>2</sup> Bei Abstimmungen und Wahlen gilt das Mehrheitsprinzip der anwesenden Mitglieder. Bei Stimmengleichheit steht der Präsidentin oder dem Präsidenten der Stichentscheid zu.
 
-<sup>3</sup> Die Wahlen erfolgen in geheimer Abstimmung mit einfacher Mehrheit. Bei Stimmengleichheit entscheidet das Los.
+<sup>3</sup> …
 
 #### Art. 4g
 

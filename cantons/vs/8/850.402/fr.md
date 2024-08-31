@@ -4,13 +4,13 @@ number: "850.402"
 title: Règlement sur les différentes structures en faveur de la jeunesse
 short: RDSJe
 language: fr
-version: 2023-09-01
-valid_until: 2024-08-31
-version_adopted: 2023-11-08
+version: 2024-09-01
+valid_until: 2026-08-31
+version_adopted: 2024-08-21
 adopted: 2001-05-09
 in_force: 2001-06-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/850.402"
-pdf: "https://lex.vs.ch/api/fr/versions/3241/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3344/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3241/pdf_file"
 
 (RDSJe)
 
-du 09.05.2001 (état 01.09.2023)
+du 09.05.2001 (état 01.09.2024)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -154,9 +154,9 @@ arrête:
 
 <sup>1</sup> Pour délibérer valablement, une majorité de membres au moins (50% + 1) doit être présente.
 
-<sup>2</sup> Les votes ont lieu à la majorité des membres présents. En cas d’égalité, la voix du président est prépondérante.
+<sup>2</sup> Les votes et les élections ont lieu à la majorité des membres présents. En cas d’égalité, la voix du président est prépondérante.
 
-<sup>3</sup> Les élections se font à bulletins secrets, à la majorité simple. En cas d’égalité des voix, le sort décide.
+<sup>3</sup> …
 
 #### Art. 4g
 
