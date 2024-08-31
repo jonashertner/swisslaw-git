@@ -2,24 +2,21 @@
 canton: LU
 number: 520c
 title: "Personalverordnung der Hochschule Luzern, FH Zentralschweiz"
-short: PVo-HSLU
 language: de
-version: 2021-10-01
-valid_until: 2024-08-31
-version_adopted: 2021-10-01
+version: 2024-09-01
+valid_until: 2025-12-31
+version_adopted: 2023-07-05
 adopted: 2023-07-05
 in_force: 2024-09-01
 url: "https://srl.lu.ch/app/de/texts_of_law/520c"
-pdf: "https://srl.lu.ch/api/de/versions/4036/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4248/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Personalverordnung der Hochschule Luzern, FH Zentralschweiz
 
-(PVo-HSLU)
-
-vom 06.07.2016 (Stand 01.10.2021)
+vom 05.07.2023 (Stand 01.09.2024)
 
 Der Konkordatsrat der Fachhochschule Zentralschweiz,
 
@@ -35,15 +32,35 @@ beschliesst:
 
 **Geltungsbereich**
 
-<sup>1</sup> Dieser Personalverordnung unterstehen die Dozierenden sowie die Assistierenden und wissenschaftlichen Mitarbeitenden der Hochschule Luzern.
+<sup>1</sup> Diese Personalverordnung ordnet das Arbeitsverhältnis der Mitarbeitenden der Hochschule Luzern.
 
-<sup>2</sup> Die Artikel 2–7, 12–14, 17–19, 21, 21a, 23 und 23a gelten zusätzlich für die technischen und administrativen Mitarbeitenden.
+<sup>2</sup> Soweit diese Verordnung keine abweichenden Vorschriften enthält, ist das Personalrecht des Kantons Luzern anwendbar.
 
 #### Art. 2
 
-**Verhältnis zum kantonalen Personalrecht**
+**Mitarbeitende**
 
-<sup>1</sup> Soweit diese Verordnung keine abweichenden Vorschriften enthält, ist das Personalrecht des Kantons Luzern anwendbar.
+<sup>1</sup> Das Personal der Hochschule setzt sich zusammen aus
+
+- a. den Dozierenden mit den
+  - 1\. Professorinnen und Professoren,
+  - 2\. künstlerischen Professorinnen und künstlerischen Professoren,
+  - 3\. Dozierenden erweitertes Profil, Profil Lehre und Profil Forschung,
+  - 4\. Leitungsfunktionen Departement (Direktorin und Direktor, Vizedirektorin und Vizedirektor, Institutsleiterin und Institutsleiter, Abteilungsleiterin und Abteilungsleiter),
+- b. den assistierenden und wissenschaftlichen Mitarbeitenden mit den
+  - 1\. Senior wissenschaftlichen Mitarbeitenden,
+  - 2\. wissenschaftlichen Mitarbeitenden,
+  - 3\. Mitarbeitenden Fachinfrastruktur,
+  - 4\. Assistierenden,
+  - 5\. Hilfsassistierenden,
+- c. den administrativen und technischen Mitarbeitenden mit den
+  - 1\. administrativen Mitarbeitenden,
+  - 2\. Mitarbeitenden Hausdienst,
+  - 3\. Reinigungspersonal.
+
+<sup>2</sup> Die in dieser Verordnung verwendete Bezeichnung «Professorinnen und Professoren» gilt nicht für das Profil «künstlerische Professorinnen und künstlerische Professoren». Die künstlerischen Professorinnen und künstlerischen Professoren werden ausdrücklich als solche genannt.
+
+<sup>3</sup> Soweit in dieser Verordnung die Bezeichnung «Dozierende» gewählt wird, sind alle Profile nach Absatz 1a miteingeschlossen.
 
 ## 2 Zuständigkeiten
 
@@ -61,8 +78,10 @@ beschliesst:
 
 - a. der Fachhochschulrat für die Rektorin oder den Rektor,
 - b. der Fachhochschulrat für die Direktorinnen oder Direktoren auf Antrag der Rektorin oder des Rektors,
-- c. die Direktorin oder der Direktor für die Vizedirektorinnen oder Vizedirektoren der Departemente der Hochschule Luzern, vorbehältlich der Zustimmung durch die Rektorin oder den Rektor sowie
-- d. die Mitglieder der Fachhochschulleitung für die Mitarbeitenden ihres Zuständigkeitsbereichs.
+- c. die Direktorin oder der Direktor für die Vizedirektorinnen oder Vizedirektoren der Departemente der Hochschule Luzern, vorbehältlich der Zustimmung der Rektorin oder des Rektors sowie
+- d. die Mitglieder der Fachhochschulleitung mit Stimmrecht[^4-1] für die Mitarbeitenden ihres Zuständigkeitsbereichs.
+
+[^4-1]: Gemäss Statut der Hochschule Luzern, FH Zentralschweiz (FHZ-Statut) vom 26.8.2021, SRL Nr. [520b](https://srl.lu.ch/data/520b/de)
 
 #### Art. 5
 
@@ -101,21 +120,15 @@ beschliesst:
 
 #### Art. 8
 
-**Dozierende mit befristeter Anstellung**
-
-<sup>1</sup> Die Befristung der Arbeitsverhältnisse von hauptamtlichen Dozierenden ist grundsätzlich für längstens drei Jahre in Folge zulässig. Falls das Arbeitsverhältnis nach Ablauf dieser Zeitdauer verlängert wird, hat es die Wirkung eines unbefristeten Arbeitsverhältnisses.
-
-<sup>2</sup> Bei längeren Abwesenheiten einer oder eines Dozierenden infolge Urlaubs oder Arbeitsunfähigkeit kann das befristete Arbeitsverhältnis im gegenseitigen Einvernehmen um höchstens zwei Jahre verlängert werden.
-
-#### Art. 9
-
 **Assistierende und wissenschaftliche Mitarbeitende**
 
-<sup>1</sup> Assistierende und wissenschaftliche Mitarbeitende mit befristeter Anstellung werden bis zu maximal fünf Jahren angestellt. Falls das Arbeitsverhältnis nach Ablauf dieser Zeitdauer verlängert wird, hat es die Wirkung eines unbefristeten Arbeitsverhältnisses.
+<sup>1</sup> Assistierende und wissenschaftliche Mitarbeitende mit befristeter Anstellung werden bis zu maximal fünf Jahren angestellt.
+
+<sup>2</sup> Eine Verlängerung ist nach einer Funktionsänderung möglich, wobei die Anstellungsdauer insgesamt auf maximal acht Jahre befristet ist. Falls das Arbeitsverhältnis nach Ablauf dieser Zeitdauer verlängert wird, hat es die Wirkung eines unbefristeten Arbeitsverhältnisses.
 
 ### 3.3 Bandbreitenverträge für Dozierende
 
-#### Art. 10
+#### Art. 9
 
 <sup>1</sup> Aus schulorganisatorischen Gründen können Dozierende mit einem variablen Pensum angestellt werden (Bandbreitenvertrag). Die Bandbreite beträgt im Normalfall maximal 20 Prozent des Pensums. In begründeten Fällen kann auch bei kleineren Pensen eine Bandbreite von maximal 20 Stellenprozenten vereinbart werden.
 
@@ -123,17 +136,53 @@ beschliesst:
 
 <sup>3</sup> Auf Verlangen der oder des Mitarbeitenden erfolgt die Lohnanpassung erst auf Ende des dritten Monats nach Mitteilung. Die bezahlten, aber nicht geleisteten Arbeitsstunden werden als Minusstunden erfasst und können durch zusätzliche Aufträge oder in der Pensenplanung des folgenden Studienjahres wieder ausgeglichen werden.
 
-### 3.4 Dozierende Nicht-Fachhochschulbereich
+### 3.4 Besoldungen Dozierende
+
+#### Art. 10
+
+**Zuordnung der Profile**
+
+<sup>1</sup> Die Profile der Dozierenden (Funktionen) werden gemäss Anhang 1 Lohnklassen zugeordnet. Anhang 1 enthält auch die Umschreibung der Profile.
 
 #### Art. 11
 
-<sup>1</sup> Die Lehrpensen sowie die Lohneinreihung der Dozierenden im Nicht-Fachhochschul-bereich werden in den Ausführungsbestimmungen zum Personalrecht der Hochschule Luzern geregelt. Die Lohneinreihung erfolgt dabei im Rahmen der Lohnklassen 22–26 der Besoldungsordnung für die Lehrpersonen und Fachpersonen der schulischen Dienste des Kantons Luzern vom 2. Mai 2005[^11-1].
+**Einreihung und Einstufung**
 
-[^11-1]: SRL Nr. [74](https://srl.lu.ch/data/74/de)
+<sup>1</sup> Die Dozierenden werden bei der Einreihung in die im Anhang 1 in den Profilen angegebene Lohnklasse und innerhalb der Lohnklasse in eine Lohnstufe eingeteilt.
 
-### 3.5 Beendigung
+<sup>2</sup> Bei der Einreihung in eine Lohnstufe werden die berufliche Qualifikation und die berufliche Erfahrung sowie die Lage auf dem Arbeitsmarkt und der interne Quervergleich berücksichtigt.
 
 #### Art. 12
+
+**Lohnzuschlag**
+
+<sup>1</sup> Dozierenden mit gesamtpauschalierter Arbeitszeit nach Artikel 20, mit Ausnahme der Direktorinnen und Direktoren, kann ein Lohnzuschlag von bis zu 6 Prozent des Lohnes zugesprochen werden.
+
+<sup>2</sup> Mit dem Lohnzuschlag kann die Wettbewerbssituation und die Gewinnung von Fachkräften mit Praxiserfahrung und grossem Renommée in der Wissenschaftscommunity und die ausserordentlich erfolgreiche Akquise von Drittmitteln berücksichtigt werden.
+
+<sup>3</sup> Der Lohnzuschlag kann befristet oder unbefristet zugesprochen werden. Er wird im Rahmen der gewährten generellen Lohnanpassungen periodisch angepasst. Der Lohnzuschlag gilt als Lohnbestandteil im engeren Sinn und ist bei der Pensionskasse als anrechenbarer Jahresverdienst versichert.
+
+### 3.5 Funktionszulagen
+
+#### Art. 13
+
+<sup>1</sup> Funktionszulagen gemäss anwendbarer Besoldungsverordnung[^13-1] werden den Mitarbeitenden für die Dauer der zusätzlichen Arbeiten bzw. der erweiterten Verantwortung zugesprochen.
+
+[^13-1]: SRL Nr. [73a](https://srl.lu.ch/data/73a/de), SRL Nr. [75](https://srl.lu.ch/data/75/de)
+
+### 3.6 Dozierende Nicht-Fachhochschulbereich
+
+#### Art. 14
+
+**Dozierende Nicht-Fachhochschulbereich**
+
+<sup>1</sup> Die Lehrpensen sowie die Lohneinreihung der Dozierenden im Nicht-Fachhochschulbereich werden in den Ausführungsbestimmungen zum Personalrecht der Hochschule Luzern geregelt. Die Lohneinreihung erfolgt dabei im Rahmen der Lohnklassen 22—26 der Besoldungsordnung für die Lehrpersonen und Fachpersonen der schulischen Dienste des Kantons Luzern vom 2. Mai 2005[^14-1].
+
+[^14-1]: SRL Nr. [74](https://srl.lu.ch/data/74/de)
+
+### 3.7 Beendigung
+
+#### Art. 15
 
 **Beendigung aus Altersgründen**
 
@@ -147,9 +196,9 @@ beschliesst:
 
 ## 4 Arbeitszeit
 
-### 4.1 Assistierende sowie wissenschaftliche, technische und administrative Mitarbeitende
+### 4.1 Assistierende und wissenschaftliche Mitarbeitende sowie technische und administrative Mitarbeitende
 
-#### Art. 13
+#### Art. 16
 
 **Arbeitszeitsaldo**
 
@@ -161,7 +210,7 @@ beschliesst:
 
 <sup>4</sup> Der negative Arbeitszeitsaldo darf bei einem Vollzeitpensum Ende Kalenderjahr 30 Stunden nicht überschreiten.
 
-#### Art. 14
+#### Art. 17
 
 **Ausgleich des Arbeitszeitsaldos**
 
@@ -171,7 +220,7 @@ beschliesst:
 
 <sup>3</sup> Die Vergütung eines positiven Arbeitszeitsaldos für Mitarbeitende bis und mit Lohnklasse 13 ist ausnahmsweise in begründeten Fällen möglich.
 
-<sup>4</sup> Mitarbeitenden ab Lohnklasse 14 kann vom maximal übertragbaren positiven Arbeitszeitsaldo gemäss Artikel 13 Absatz 3 bei einem Vollzeitpensum eine Auszahlung von maximal 150 Stunden pro Kalenderjahr bewilligt werden, wenn eine zeitliche Kompensation nicht möglich ist. Bei der Beendigung des Arbeitsverhältnisses kann von dieser Regelung abgewichen werden. Die Auszahlung muss von der zuständigen Direktorin oder dem zuständigen Direktor bzw. von der Rektorin oder dem Rektor bewilligt werden.
+<sup>4</sup> Mitarbeitenden ab Lohnklasse 14 kann vom maximal übertragbaren positiven Arbeitszeitsaldo gemäss Artikel 16 Absatz 3 bei einem Vollzeitpensum eine Auszahlung von maximal 150 Stunden pro Kalenderjahr bewilligt werden, wenn eine zeitliche Kompensation nicht möglich ist. Bei der Beendigung des Arbeitsverhältnisses kann von dieser Regelung abgewichen werden. Die Auszahlung muss von der zuständigen Direktorin oder dem zuständigen Direktor bzw. von der Rektorin oder dem Rektor bewilligt werden.
 
 <sup>5</sup> Die Mitglieder der Fachhochschulleitung haben keinen Anspruch auf Vergütung des positiven Arbeitszeitsaldos.
 
@@ -179,7 +228,7 @@ beschliesst:
 
 ### 4.2 Dozierende
 
-#### Art. 15
+#### Art. 18
 
 **Arbeitszeitsaldo**
 
@@ -189,7 +238,7 @@ beschliesst:
 
 <sup>3</sup> Der negative Arbeitszeitsaldo darf bei einem Vollzeitpensum Ende Studienjahr 200 Stunden nicht überschreiten.
 
-#### Art. 16
+#### Art. 19
 
 **Ausgleich des Arbeitszeitsaldos**
 
@@ -197,15 +246,19 @@ beschliesst:
 
 <sup>2</sup> Ein negativer Arbeitszeitsaldo ist innerhalb eines Jahres zu kompensieren, soweit er bei einem Vollzeitpensum 200 Stunden übersteigt. In begründeten Fällen können Ausnahmen oder eine entsprechende Lohnkürzung bewilligt werden.
 
-<sup>3</sup> Vom maximal übertragbaren positiven Arbeitszeitsaldo gemäss Artikel 15 Absatz 2 kann bei einem Vollzeitpensum eine Auszahlung von maximal 150 Stunden pro Studienjahr bewilligt werden, wenn eine zeitliche Kompensation nicht möglich ist. Bei der Beendigung des Arbeitsverhältnisses kann von dieser Regelung abgewichen werden. Die Auszahlung muss von der zuständigen Direktorin bzw. dem zuständigen Direktor bewilligt werden.
+<sup>3</sup> Vom maximal übertragbaren positiven Arbeitszeitsaldo gemäss Artikel 18 Absatz 2 kann bei einem Vollzeitpensum eine Auszahlung von maximal 150 Stunden pro Studienjahr bewilligt werden, wenn eine zeitliche Kompensation nicht möglich ist. Bei der Beendigung des Arbeitsverhältnisses sowie bei einem Wechsel in das Arbeitszeitmodell gemäss Artikel 20 kann von dieser Regelung abgewichen werden. Die Auszahlung muss von der zuständigen Direktorin bzw. dem zuständigen Direktor bewilligt werden.
 
-<sup>4</sup> Die Mitglieder der Fachhochschulleitung haben keinen Anspruch auf Vergütung des positiven Arbeitszeitsaldos.
+<sup>4</sup> Ein negativer Arbeitszeitsaldo führt spätestens im Zeitpunkt der Beendigung des Arbeitsverhältnisses zu einer Besoldungsrückforderung. In begründeten Fällen können Ausnahmen bewilligt werden.
 
-<sup>5</sup> Ein negativer Arbeitszeitsaldo führt spätestens im Zeitpunkt der Beendigung des Arbeitsverhältnisses zu einer Besoldungsrückforderung. In begründeten Fällen können Ausnahmen bewilligt werden.
+#### Art. 20
+
+**Gesamtpauschalierte Arbeitszeit**
+
+<sup>1</sup> Für Professorinnen und Professoren, Direktorinnen und Direktoren, Vizedirektorinnen und -direktoren, Institutsleiterinnen und -leiter und Abteilungsleiterinnen und -leiter gilt gesamtpauschalierte Arbeitszeit. Artikel 18 und 19 finden keine Anwendung.
 
 ## 5 Verschiedene Bestimmungen
 
-#### Art. 17
+#### Art. 21
 
 **Lohnfortzahlung bei Krankheit**
 
@@ -213,27 +266,19 @@ beschliesst:
 
 <sup>2</sup> Die Fachhochschulleitung entscheidet über die Verwendung der Sozialversicherungsprämien, die zufolge Leistungen der Krankentaggeldversicherung den Sozialversicherungen nicht geschuldet sind.
 
-#### Art. 18
+#### Art. 22
 
 **Mitarbeitende nach Erfüllung des 65. Altersjahres**
 
 <sup>1</sup> Die Fortzahlung der Besoldung bei Arbeitsunfähigkeit dauert für Mitarbeitende nach Erfüllung des 65. Altersjahres während einer allfälligen Probezeit einen Monat und danach maximal 120 Kalendertage.
 
-#### Art. 19
-
-**Vaterschaftsurlaub**
-
-<sup>1</sup> Der Mitarbeiter hat bei der Geburt eines eigenen Kindes Anspruch auf einen besoldeten Vaterschaftsurlaub von zwei Wochen, welcher innert acht Wochen nach der Geburt bezogen werden muss.
-
-#### Art. 20
+#### Art. 23
 
 **Professorentitel**
 
-<sup>1</sup> Der Fachhochschulrat kann Dozierenden auf Antrag der Rektorin oder des Rektors den Titel einer Professorin oder eines Professors verleihen. Ein Anspruch auf die Titelverleihung besteht nicht.
+<sup>1</sup> Der Fachhochschulrat kann Dozierenden den Titel einer Professorin oder eines Professors der Hochschule Luzern verleihen. Er legt die Voraussetzungen für die Erlangung, den Entzug und das Erlöschen des Titels fest und regelt das Verfahren.
 
-<sup>2</sup> Der Fachhochschulrat legt die Voraussetzungen für die Verleihung, den Entzug und das Erlöschen des Titels fest und regelt das Verfahren.
-
-#### Art. 21
+#### Art. 24
 
 **Geistiges Eigentum**
 
@@ -243,34 +288,24 @@ beschliesst:
 
 <sup>3</sup> Die Mitarbeitenden sind verpflichtet, auf geistiges Eigentum Dritter, welches sie im Rahmen ihrer Tätigkeit verwenden, hinzuweisen.
 
-#### Art. 21a
-
-**Massnahmen zum Schutz der Mitarbeitenden im Zusammenhang mit COVID-19**
-
-<sup>1</sup> Die Fachhochschulleitung kann für Mitarbeitende im Zusammenhang mit der Bekämpfung der Covid-19-Epidemie die Teilnahme an repetitiven Pool-Tests anordnen. Die vorgesetzte Person oder die zuständige HR-verantwortliche Person darf die Teilnahme überprüfen. Das Ergebnis der Überprüfung darf einzig zur Umsetzung von angemessenen Schutzmassnahmen verwendet werden.
-
-<sup>2</sup> Für Mitarbeitende, welche in zertifikatspflichtigen Lehrveranstaltungen tätig sind, kann die Fachhochschulleitung das Vorliegen eines gültigen Covid-Zertifikats (3G: «getestet», «geimpft», «genesen») anordnen. Allfällige Testkosten werden übernommen. Die Überprüfung der Zertifikate darf an Dritte delegiert werden. Wenn möglich ist das datenminimierte Zertifikat ohne Gesundheitsdaten («Zertifikat Light») zu benutzen.
-
 ## 6 Schlussbestimmungen
 
-#### Art. 22
+#### Art. 25
 
 **Übergangsbestimmung für befristete Arbeitsverhältnisse**
 
-<sup>1</sup> Anstellungsverhältnisse aus der Zeit vor Inkrafttreten dieser Verordnung sind an die gemäss Artikel 8 und 9 geltende Höchstdauer von befristeten Arbeitsverhältnissen anrechenbar.
+<sup>1</sup> Anstellungsverhältnisse aus der Zeit vor Inkrafttreten dieser Verordnung sind an die gemäss Artikel 8 geltende Höchstdauer von befristeten Arbeitsverhältnissen anrechenbar.
 
-#### Art. 23
+#### Art. 26
 
 **Übergangsbestimmung zur Arbeitszeit**
 
-<sup>1</sup> Ist im Zeitpunkt des Inkrafttretens der Artikel 13 und 15 die Höchstgrenze des übertragbaren positiven Arbeitszeitsaldos überschritten, muss der Abbau oder Ausgleich auf das zulässige Maximum für Assistierende, wissenschaftliche, technische und administrative Mitarbeitende bis spätestens 31. Dezember 2017 und für Dozierende bis spätestens 31. August 2018 erfolgen.
+<sup>1</sup> Dozierenden, die aufgrund des neuen Rechts in das Arbeitszeitmodell mit gesamtpauschalierter Arbeitszeit wechseln, wird der per 31. August 2024 bestehende positive Arbeitszeitsaldo (maximal 350 Stunden bei einem Vollzeitpensum) entweder vergütet oder sie können diesen innerhalb von fünf Jahren bis spätestens am 31. August 2029 zeitlich kompensieren.
 
-#### Art. 23a
+#### Art. 27
 
-**Befristung Massnahmen zum Schutz der Mitarbeitenden im Zusammenhang mit COVID-19**
+**Besoldungsbesitzstand für Dozierende**
 
-<sup>1</sup> Artikel 21a tritt am 1. Oktober 2021 in Kraft und gilt längstens bis zum 24. Januar 2022. Wird die Zertifikatspflicht für Arbeitnehmerinnen und Arbeitnehmer nach Artikel 25 Absätze 2<sup>bis</sup> und 2<sup>ter</sup> der Covid-19-Verordnung besondere Lage[^23a-1] vom Bundesrat früher aufgehoben, entfällt Artikel 21a auf denselben früheren Zeitpunkt.
+<sup>1</sup> Die Dozierenden in einem unbefristeten Arbeitsverhältnis erhalten nach neuem Recht per 1. September 2024 bei gleichem Beschäftigungsgrad mindestens den Betrag, der ihrer Besoldungseinreihung des Monats August 2024 entspricht.
 
-[^23a-1]: SR [818.101.26](https://db.clex.ch/link/Bund/818.101.26/de)
-
-G 2016 161
+G 2023-076
