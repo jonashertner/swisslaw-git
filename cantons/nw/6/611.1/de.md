@@ -4,13 +4,13 @@ number: "611.1"
 title: Gesetz über die Raumplanung und das öffentliche Baurecht
 short: "Planungs- und Baugesetz, PBG"
 language: de
-version: 2023-01-01
-corrected: 2023-02-21
-version_adopted: 2022-09-28
+version: 2024-09-01
+valid_until: 2024-12-31
+version_adopted: 2024-05-29
 adopted: 2014-05-21
 in_force: 2015-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/611.1"
-pdf: "https://gesetze.nw.ch/api/de/versions/1103/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1298/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1103/pdf_file"
 
 (Planungs- und Baugesetz, PBG)[^t-1]
 
-vom 21.05.2014 (Stand 01.01.2023)
+vom 21.05.2014 (Stand 01.09.2024)
 
 Der Landrat von Nidwalden,
 
@@ -81,7 +81,7 @@ beschliesst:
   - a) 3 m Gesamthöhe;
   - b) 4 m Gebäudelänge; und
   - c) 9 m² anrechenbare Gebäudefläche;
-- 2\. allseitig offene freistehende Gebäude wie Überdachungen, Fahr-zeugunterstände und dergleichen mit folgenden Höchstmassen:
+- 2\. allseitig offene freistehende Gebäude wie Überdachungen, Fahrzeugunterstände und dergleichen mit folgenden Höchstmassen:
   - a) 3 m Gesamthöhe; und
   - b) 30 m² überdachte Fläche.
 
@@ -92,7 +92,7 @@ beschliesst:
 <sup>4</sup> Als vorspringender Gebäudeteil gilt ein Gebäudeteil, der:
 
 - 1\. höchstens 1.3 m über die Fassadenflucht hinausragt;
-- 2\. höchstens eine Ausdehnung von 40 Prozent des zugehörigen Fas-sadenabschnitts aufweist; und
+- 2\. höchstens eine Ausdehnung von 40 Prozent des zugehörigen Fassadenabschnitts aufweist; und
 - 3\. nicht in den minimalen Grenzabstand von 3 m gemäss Art. 110 Abs. 2 beziehungsweise in die speziellen Grenzabstände gemäss Art. 111 hineinragt.
 
 [^3-1]: www.bpuk.ch
@@ -1005,7 +1005,7 @@ beschliesst:
 
 <sup>2</sup> Die Ausscheidung der Gewässerraumzone und die in ihr zulässige Nutzung richten sich nach den Vorschriften zum Gewässerraum[^69-2].
 
-<sup>3</sup> Bei Verbauung oder Korrektion eines Gewässers kann der Gewässerraum unter Beachtung der Wasserrechtsgesetzgebung[^69-3] mit Zustimmung der Direktion abweichend von der Gewässerraumzone festgelegt werden.
+<sup>3</sup> Die Festlegung des Gewässerraums richtet sich nach der Gewässergesetzgebung[^69-3], wenn dieser bei Verbauung oder Korrektion eines Gewässers abweichend von der Gewässerraumzone festzulegen ist.
 
 [^69-1]: SR 814.20
 [^69-2]: SR 814.20, NG 631.1
@@ -1013,18 +1013,7 @@ beschliesst:
 
 #### Art. 69a
 
-**►Zone für dicht überbautes Gebiet im Gewässerraum◄**
-
-<sup>1</sup> Die Zone für dicht überbautes Gebiet im Gewässerraum überlagert Gewässerraumzonen beziehungsweise Gewässerräume.
-
-<sup>2</sup> Sind die bundesrechtlichen Voraussetzungen erfüllt, können in dieser Zone unter Vorbehalt der Genehmigung durch die Direktion:
-
-- 1\. die Breite der Gewässerräume im Rahmen eines Verfahrens zur Bewilligung von Bauten und Anlagen gestützt auf Art. 41a Abs. 4 oder Art. 41b Abs. 3 der eidgenössischen Gewässerschutzverordnung (GSchV)[^69a-1] reduziert werden;
-- 2\. Ausnahmebewilligungen gemäss Art. 41c Abs. 1 lit. a GSchV erteilt werden.
-
-<sup>3</sup> Die von der Gewässerraumzone abweichende Festlegung der Gewässerräume bei der Verbauung oder Korrektion eines Gewässers bleibt vorbehalten.
-
-[^69a-1]: SR 814.201
+**…**
 
 #### Art. 69b
 
@@ -1047,7 +1036,7 @@ beschliesst:
 
 <sup>3</sup> Die Bestimmungen zur Abflusswegzone schränken die zulässige landwirtschaftliche Bewirtschaftung nicht weiter ein.
 
-<sup>4</sup> In Sondernutzungsplanungsverfahren, Wasserbauverfahren gemäss der Wasserrechtsgesetzgebung[^69c-1] und Baubewilligungsverfahren können die Abflusswege mit Zustimmung der Direktion abweichend von der Abflusswegzone festgelegt werden.
+<sup>4</sup> Die Festlegung der Abflusswege richtet sich nach der Gewässergesetzgebung[^69c-1], wenn sie bei Verbauung oder Korrektion eines Gewässers abweichend von der Abflusswegzone festzulegen sind.
 
 [^69c-1]: NG 631.1
 
@@ -1667,7 +1656,7 @@ beschliesst:
 
 - 1\. dem Fahrbahnrand einschliesslich Radstreifen beim Strassenabstand;
 - 2\. der Stockgrenze beim Waldabstand;
-- 3\. der Grenze der Gewässerraumzone oder der Grenze des Gewässerraums bei Fehlen einer Gewässerraumzone beim Gewässerraumabstand;
+- 3\. …
 - 4\. der näher gelegenen Bahnschiene beim Bauabstand gegenüber Bahnlinien.
 
 [^118-1]: Abs. 1 Ziff. 3 bereits in Kraft
@@ -1705,29 +1694,20 @@ beschliesst:
 - 1\. die Erhaltung des Waldes und seiner Funktionen nicht gefährdet ist; und
 - 2\. die Grundeigentümerin oder der Grundeigentümer mit der Walde igentümerin oder dem Waldeigentümer eine Vereinbarung über die dauerhafte Waldrandpflege und über die Mehrkosten für die Holzerei getroffen hat; die Vereinbarung ist im Grundbuch anzumerken.
 
-#### Art. 121
+#### Art. 121–122
 
-**Gewässerraumabstand 1. Grundsätze**
-
-<sup>1</sup> Der Gewässerraumabstand beträgt für oberirdische Bauten und Anlagen 3 m.
-
-<sup>2</sup> Kein Gewässerraumabstand ist erforderlich für die übrigen Bauten und Erschliessungsanlagen, insbesondere Strassen, Wege und Abstellplätze, wenn der Zugang zum Gewässer für Unterhalt, Intervention und Hochwasserschutz nicht eingeschränkt wird.
-
-#### Art. 122
-
-**2. Ausnahmen**
-
-<sup>1</sup> Für Bauten und Anlagen, die auf einen Standort am oder über dem Gewässer angewiesen sind, kann die Baubewilligungsbehörde die Herabsetzung oder Aufhebung des Gewässerraumabstandes bewilligen; diese Bewilligung bedarf der Genehmigung der Direktion.
-
-<sup>2</sup> Die Baubewilligungsbehörde erteilt Ausnahmebewilligungen für Bauten und Anlagen im Gewässerraum; sie bedürfen der Genehmigung der Direktion.
+**…**
 
 #### Art. 122a
 
 **Gewässerabstand**
 
-<sup>1</sup> Ist weder ein Gewässerraum noch ein Abflussweg beziehungsweise eine entsprechende Zone festgelegt, beträgt der von abflussverändernden Bauten freizuhaltende Abstand 7 m vom Gewässerrand; vorbehalten bleiben abweichende bundesrechtliche Bestimmungen.
+<sup>1</sup> Ist weder ein Gewässerraum noch ein Abflussweg beziehungsweise eine entsprechende Zone festgelegt, gilt ein Gewässerabstand von 7 m vom Gewässerrand.
 
-<sup>2</sup> Die Baubewilligungsbehörde kann gemäss Art. 122 Abs. 1 Ausnahmen bewilligen.
+<sup>2</sup> Bauten und Anlagen innerhalb des Gewässerabstands sind nur zulässig, wenn:
+
+- 1\. die Gewässerfunktionen nicht wesentlich beeinträchtigt werden; und
+- 2\. die Direktion die Zustimmung erteilt.
 
 #### Art. 123
 
@@ -2404,6 +2384,30 @@ beschliesst:
 <sup>2</sup> Die Gemeinde hat den Zonenplan im Rahmen der nächsten ordentlichen Nutzungsplanungsrevision an die tatsächlichen Verhältnisse anzupassen.
 
 [^177c-1]: NG 611.1
+
+#### Art. 177d
+
+**Übergangsbestimmung zur Änderung vom 29. Mai 2024 1. Grundsatz**
+
+<sup>1</sup> Die Bestimmungen zum Gewässerraumabstand gemäss Art. 118, 121 und 122 der letzten vor der Änderung vom 29. Mai 2024 geltenden Fassung gelten, bis der Regierungsrat diesen Abstand für nicht mehr anwendbar erklärt.
+
+<sup>2</sup> Der Regierungsrat entscheidet gemeindeweise und veröffentlicht die Entscheide im Amtsblatt.
+
+<sup>3</sup> Er erklärt die Nichtanwendbarkeit der bisherigen Art. 118 Ziff. 3, Art. 121 und Art. 122, wenn die Gewässerräume in der jeweiligen Gemeinde im Grundsatz bundesrechtskonform im Sinne der Gewässerschutzgesetzgebung[^177d-1] festgelegt sind.
+
+[^177d-1]: SR 841.20
+
+#### Art. 177e
+
+**2. Ausnahmen**
+
+<sup>1</sup> Sind für Bauten und Anlagen die Übergangsbestimmungen zur Änderung vom 4. Mai 2011 der eidgenössischen Gewässerschutzverordnung (GSchV)[^177e-1] anwendbar, gilt kein Gewässerraumabstand.
+
+<sup>2</sup> Bei Nutzungsplanungsverfahren und Projekten, welche der Genehmigung des Regierungsrates bedürfen, kann dieser für die betroffenen Gewässer den Gewässerraumabstand ganz oder teilweise für nicht mehr anwendbar erklären. Der Regierungsrat entscheidet im Genehmigungsentscheid sinngemäss nach Art. 177d Abs. 3.
+
+<sup>3</sup> Die Ausnahmebestimmungen sind auch auf Verfahren anwendbar, die beim Inkrafttreten der Änderung vom 29. Mai 2024 bereits hängig sind.
+
+[^177e-1]: SR 814.201
 
 #### Art. 178
 
