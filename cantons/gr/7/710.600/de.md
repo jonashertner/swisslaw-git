@@ -2,24 +2,23 @@
 canton: GR
 number: "710.600"
 title: Reglement für die Ausrichtung von Beiträgen aus der Spezialfinanzierung Landeslotterie
-short: Landeslotterie-Reglement; LLR
+short: "Landeslotterie-Reglement, LLR"
 language: de
-version: 2018-01-01
-corrected: 2018-01-10
-version_adopted: 2017-12-04
+version: 2024-09-01
+version_adopted: 2024-08-20
 adopted: 1998-03-17
 in_force: 1998-01-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/710.600"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/2840/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3853/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglement für die Ausrichtung von Beiträgen aus der Spezialfinanzierung Landeslotterie
 
-(Landeslotterie-Reglement; LLR)
+(Landeslotterie-Reglement, LLR)
 
-Vom 17.03.1998 (Stand 01.01.2018)
+Vom 17.03.1998 (Stand 01.09.2024)
 
 Gestützt auf die Interkantonale Vereinbarung betreffend die gemeinsame Durchführung von Lotterien vom 26. Mai 1937/18. Januar 1944/4. September 1976 sowie Art. 34<sup>bis</sup> des Gesetzes über den Finanzhaushalt des Kantons Graubünden vom 20. März 1988[^ingress-1]
 
@@ -51,7 +50,7 @@ von der Regierung erlassen am 17. März 1998
 
 **Aufsicht, Budget, Auszahlung**
 
-<sup>1</sup> Die Spezialfinanzierung Landeslotterie steht unter der Aufsicht des Erziehungs-, Kultur- und Umweltschutzdepartementes (Departement) und der Oberaufsicht der Regierung.
+<sup>1</sup> Die Spezialfinanzierung Landeslotterie steht unter der Aufsicht des Departements für Bildung, Umwelt und Kultur (Departement) und der Oberaufsicht der Regierung.
 
 <sup>2</sup> Das Departement ist zuständig für die Budgetierung und Überwachung des Vermögensbestandes sowie die Auszahlung der Beiträge.
 
@@ -132,7 +131,7 @@ von der Regierung erlassen am 17. März 1998
 
 **Entscheid 1. Kulturelles und wissenschaftliches Schaffen**
 
-<sup>1</sup> Beiträge an das kulturelle und wissenschaftliche Schaffen bis 50 000 Franken gewährt das Departement.
+<sup>1</sup> Beiträge an das kulturelle und wissenschaftliche Schaffen bis 100 000 Franken gewährt das Departement.
 
 <sup>2</sup> Die Gewährung darüber hinausgehender Beiträge fällt in die Zuständigkeit der Regierung.
 
@@ -142,7 +141,7 @@ von der Regierung erlassen am 17. März 1998
 
 <sup>1</sup> Über die Verwendung der übrigen Mittel aus der Spezialfinanzierung Landeslotterie entscheidet die Regierung auf Antrag des Departementes.
 
-<sup>2</sup> Das Departement kann im Einzelfall Beiträge bis 50 000 Franken gewähren.
+<sup>2</sup> Das Departement kann im Einzelfall Beiträge bis 100 000 Franken gewähren.
 
 #### Art. 14
 

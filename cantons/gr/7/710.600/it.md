@@ -4,13 +4,12 @@ number: "710.600"
 title: "Regolamento concernente l'erogazione di sussidi dal finanziamento speciale lotteria intercantonale *"
 short: "Regolamento sulla lotteria, RFL"
 language: it
-version: 2018-01-01
-corrected: 2018-01-10
-version_adopted: 2017-12-04
+version: 2024-09-01
+version_adopted: 2024-08-20
 adopted: 1998-03-17
 in_force: 1998-01-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/710.600"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/2840/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3853/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/2840/pdf_file"
 
 (Regolamento sulla lotteria, RFL)
 
-del 17.03.1998 (stato 01.01.2018)
+del 17.03.1998 (stato 01.09.2024)
 
 emanato dal Governo il 17 marzo 1998
 
@@ -51,7 +50,7 @@ in virtù dell'Accordo intercantonale concernente l'esecuzione collettiva delle 
 
 **Vigilanza, preventivo, versamento**
 
-<sup>1</sup> Il finanziamento speciale lotteria intercantonale è soggetto alla vigilanza del Dipartimento dell'educazione, cultura e protezione dell'ambiente (Dipartimento) e all'alta vigilanza del Governo.
+<sup>1</sup> Il finanziamento speciale lotteria intercantonale è soggetto alla vigilanza del Dipartimento formazione, ambiente e cultura (Dipartimento) e all'alta vigilanza del Governo.
 
 <sup>2</sup> Il Dipartimento è competente della stesura del preventivo e del controllo del patrimonio, nonché del pagamento dei contributi.
 
@@ -132,7 +131,7 @@ in virtù dell'Accordo intercantonale concernente l'esecuzione collettiva delle 
 
 **Decisione 1. Operato culturale e scientifico**
 
-<sup>1</sup> Il Dipartimento concede sussidi a opere culturali e scientifiche fino a 50 000 franchi.
+<sup>1</sup> Il Dipartimento concede sussidi a opere culturali e scientifiche fino a 100 000 franchi.
 
 <sup>2</sup> La concessione di sussidi che superano questi importi rientra nella competenza del Governo.
 
@@ -142,7 +141,7 @@ in virtù dell'Accordo intercantonale concernente l'esecuzione collettiva delle 
 
 <sup>1</sup> Il Governo decide, su proposta del Dipartimento, in merito all'impiego delle ulteriori risorse dal finanziamento speciale lotteria intercantonale.
 
-<sup>2</sup> In singoli casi il Dipartimento può concedere sussidi fino a franchi 50 000.
+<sup>2</sup> In singoli casi il Dipartimento può concedere sussidi fino a 100 000 franchi.
 
 #### Art. 14
 

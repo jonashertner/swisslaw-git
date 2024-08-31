@@ -2,24 +2,23 @@
 canton: GR
 number: "710.600"
 title: "Reglament per pajar contribuziuns or da la finanziaziun speziala \"lottaria naziunala\" *"
-short: reglament davart la lottaria naziunala; RLN
+short: "reglament davart la lottaria naziunala, RLN"
 language: rm
-version: 2018-01-01
-corrected: 2018-01-10
-version_adopted: 2017-12-04
+version: 2024-09-01
+version_adopted: 2024-08-20
 adopted: 1998-03-17
 in_force: 1998-01-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/710.600"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/2840/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3853/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Reglament per pajar contribuziuns or da la finanziaziun speziala "lottaria naziunala"
 
-(reglament davart la lottaria naziunala; RLN)
+(reglament davart la lottaria naziunala, RLN)
 
-dals 17-03-1998 (versiun dals 01-01-2018)
+dals 17-03-1998 (versiun dals 01-09-2024)
 
 Sa basond sin la cunvegna interchantunala dals 26 da matg 1937 / 18 da schaner 1944 / 4 da settember 1976 davart l'execuziun collectiva da lottarias sco er sin l'art. 34<sup>bis</sup> da la lescha dals 20 da mars 1988[^ingress-1] davart las finanzas dal chantun Grischun
 
@@ -51,7 +50,7 @@ relaschà da la regenza ils 17 da mars 1998
 
 **Surveglianza, budget, pajament**
 
-<sup>1</sup> La finanziaziun speziala "lottaria naziunala" stat sut la surveglianza dal departament d'educaziun, cultura e protecziun da l'ambient (departament) e sut la surveglianza suprema da la regenza.
+<sup>1</sup> La finanziaziun speziala "lottaria naziunala" stat sut la surveglianza dal Departament da furmaziun, ambient e cultura (departament) e sut la surveglianza suprema da la Regenza.
 
 <sup>2</sup> Il departament è cumpetent per la budgetaziun e per la surveglianza da l'effectiv da facultad sco er per il pajament da las contribuziuns.
 
@@ -132,7 +131,7 @@ relaschà da la regenza ils 17 da mars 1998
 
 **Decisiun 1. Lavur culturala e scientifica**
 
-<sup>1</sup> Contribuziuns a la lavur culturala e scientifica da fin a 50 000 francs conceda il departament.
+<sup>1</sup> Contribuziuns fin a 100 000 francs a favur da la lavur culturala e scientifica conceda il departament.
 
 <sup>2</sup> Per conceder contribuziuns che surpassan quella summa è cumpetenta la regenza.
 
@@ -142,7 +141,7 @@ relaschà da la regenza ils 17 da mars 1998
 
 <sup>1</sup> Davart l'utilisaziun dals ulteriurs meds finanzials da la finanziaziun speziala "lottaria naziunala" decida la regenza sin proposta dal departament.
 
-<sup>2</sup> En il singul cas po il departament conceder contribuziuns fin 50 000 francs.
+<sup>2</sup> En il singul cas po il departament conceder contribuziuns fin a 100 000 francs.
 
 #### Art. 14
 
