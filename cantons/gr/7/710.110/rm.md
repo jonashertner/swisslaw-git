@@ -4,13 +4,13 @@ number: "710.110"
 title: Ordinaziun da finanzas dal chantun Grischun
 short: OFC
 language: rm
-version: 2020-09-01
-corrected: 2022-01-01
-version_adopted: 2020-08-11
+version: 2024-09-01
+valid_until: 2024-12-31
+version_adopted: 2024-08-20
 adopted: 2012-09-25
 in_force: 2012-12-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/710.110"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3070/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3458/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3070/pdf_file"
 
 (OFC)
 
-dals 25-09-2012 (versiun dals 01-09-2020)
+dals 25-09-2012 (versiun dals 01-09-2024)
 
 sa basond sin l'art. 45 al. 1 da la constituziun chantunala[^ingress-1],
 
@@ -62,7 +62,7 @@ relaschada da la regenza ils 25 da settember 2012
 
 <sup>2</sup> Ina gulivaziun a vista mesauna cumpiglia in ciclus da conjunctura sur la durada da 4 fin 8 onns.
 
-<sup>3</sup> Cun fixar il budget ed ils pes da taglia ston vegnir resguardads il svilup economic e l'agen chapital libramain disponibel. Plinavant sto vegnir resguardada la divergenza probabla en cumparegliaziun cun il resultat che vegn spetgà per il quint.
+<sup>3</sup> Cun fixar il budget ed ils pes da taglia ston vegnir resguardads il svilup economic e l'agen chapital libramain disponibel. Plinavant sto vegnir resguardada la divergenza probabla dal resultat dal quint che vegn spetgà; quai resguardond las posiziuns da correctura budgetadas pauschalmain en tschertas gruppas d'expensas e da retgavs.
 
 #### Art. 2b
 
@@ -70,12 +70,12 @@ relaschada da la regenza ils 25 da settember 2012
 
 <sup>1</sup> L'agen chapital disponibel cumpiglia l'agen chapital lià ad in intent e l'agen chapital libramain disponibel.
 
-<sup>2</sup> L'agen chapital lià ad in intent cumpiglia las obligaziuns ed ils pajaments anticipads envers las finanziaziuns spezialas en l'agen chapital sco er las prefinanziaziuns da projects gronds.
+<sup>2</sup> L'agen chapital lià ad in intent cumpiglia las obligaziuns ed ils pajaments anticipads envers las finanziaziuns spezialas en l'agen chapital sco er las prefinanziaziuns tenor l'artitgel 24.
 
-<sup>3</sup> L'agen chapital libramain disponibel stat a disposiziun per cuvrir ils surplis d'expensas dal quint economic tenor l'artitgel 2a alinea 1 e per furmar las prefinanziaziuns da projects gronds tenor l'artitgel 24. El correspunda al surpli da bilantscha minus:
+<sup>3</sup> L'agen chapital libramain disponibel stat a disposiziun per cuvrir ils surplis d'expensas dal quint economic tenor l'artitgel 2a alinea 1 e per furmar las prefinanziaziuns tenor l'artitgel 24. El correspunda al surpli da bilantscha minus:
 
 - a) la facultad administrativa senza ils emprests finanziads da la confederaziun, numnadamain ils emprests tenor la nova politica regiunala, ils emprests a l'associaziun grischuna per credits a l'agricultura sco er ils emprests or dals credits d'investiziun da l'economia forestala;
-- b) las aczias ed ils certificats da participaziun en la facultad finanziala, che vegnan segnads per interess politic.
+- b) las aczias ed ils certificats da participaziun en la facultad finanziala, che vegnan tegnids per interess politic.
 
 #### Art. 3
 
@@ -88,7 +88,7 @@ relaschada da la regenza ils 25 da settember 2012
 - a) las prestaziuns vegnan structuradas tenor products e tenor gruppas da products e cumplettadas cun las finamiras appartegnentas e cun ils indicaturs appartegnents;
 - b) las finamiras ed ils indicaturs concretiseschan ils effects prescrits dal cussegl grond per las gruppas da products ed adempleschan las presc-ripziuns essenzialas da quellas.
 
-<sup>3</sup> Ils departaments fan periodicamain cunvegnas da prestaziun cun lur posts da servetsch.
+<sup>3</sup> Ils departaments fan cunvegnas da prestaziun cun lur posts da servetsch.
 
 <sup>4</sup> La cumbinaziun da plirs onns tranter las finanzas e las prestaziuns vegn fatga en il plan d'incumbensas e da finanzas integrà (PIFI).
 
@@ -96,13 +96,13 @@ relaschada da la regenza ils 25 da settember 2012
 
 **Credits singuls**
 
-<sup>1</sup> Cumplementarmain als credits singuls tenor l'artitgel 36 alinea 2 da la lescha da finanzas[^4-1] ston cunzunt ils suandants contos vegnir manads sco credits singuls:
+<sup>1</sup> Cumplementarmain als credits singuls tenor l'artitgel 15 alinea 2 e l'artitgel 36 alinea 2 da la Lescha da finanzas[^4-1] ston cunzunt ils suandants contos vegnir manads sco credits singuls:
 
 - a) ils contos en il rom da cunvegnas da program cun la confederaziun;
 - b) las scuntradas internas tranter per l'ina las finanziaziuns spezialas, ils quints spezials sco er las dretgiras chantunalas e per l'autra las autras rubricas da quint;
-- c) ils contos cun imports che na pon betg vegnir influenzads dals posts da servetsch;
+- c) ils contos cun imports considerabels che na pon betg vegnir influenzads dals posts da servetsch;
 - d) ils contos cun imports che n'han betg in connex direct cun l'incarica da prestaziun dals posts da servetsch;
-- e) ils contos cun imports senza basa giuridica per ademplir ina incumbensa constituziunala tenor l'artitgel 33 alinea 1 da la lescha da finanzas.
+- e) ils contos cun imports senza basa giuridica per ademplir ina incumbensa constituziunala tenor l'artitgel 33 alinea 1 litera a da la Lescha da finanzas.
 
 [^4-1]: DG [710.100](https://www.gr-lex.gr.ch/data/710.100/rm)
 
@@ -140,9 +140,9 @@ relaschada da la regenza ils 25 da settember 2012
 
 **3. clausula concernent il stadi dals pretschs**
 
-<sup>1</sup> Sch'il credit d'impegn cuntegna ina clausula concernent il stadi dals pretschs, s'augmenta u sa reducescha el a norma da l'index dals pretschs che furma la basa per il conclus da credit.
+<sup>1</sup> Sch'il credit d'impegn cuntegna ina clausula concernent il stadi dals pretschs, s'augmenta u sa reducescha el fin a la surdada da l'incarica en la dimensiun da la midada da l'index e suenter la surdada da l'incarica tenor la regulaziun contractuala.
 
-<sup>2</sup> Sch'i vegn concludì in credit net cun ina clausula concernent il stadi dals pretschs, s'augmenta u sa reducescha el a norma da la midada dal credit brut, nun che las entradas correspundentas sajan indexadas.
+<sup>2</sup> …
 
 <sup>3</sup> La chareschia vegn calculada per la perioda tranter il mument da la calculaziun dal preventiv dals custs (basa da pretsch dal credit d'impegn) e la surdada da l'incarica sin fundament dal stadi da l'index ch'è inditgà en il conclus.
 
@@ -157,7 +157,7 @@ relaschada da la regenza ils 25 da settember 2012
 - a) per in'expensa unica ch'è suttamessa al referendum da finanzas; u
 - b) per in'expensa unica liada a favur d'in project chantunal da plirs onns cun in basegn da credit da probablamain pli che 1 milliun francs en almain 1 dals 3 onns dal plan da finanzas.
 
-<sup>2</sup> Credits d'impegn e credits supplementars ston vegnir dumandads tar il cussegl grond cun ina missiva separada, sch'els surpassan 10 milliuns francs. En ils ulteriurs cas pon els er vegnir dumandads cun la missiva tar il budget u tar il quint annual, ma la regenza sto approvar il project ordavant.
+<sup>2</sup> Credits d'impegn e credits supplementars ston vegnir dumandads al Cussegl grond cun ina missiva separada, sch'els surpassan 10 milliuns francs. En ils ulteriurs cas pon els er vegnir dumandads cun la missiva tar il budget u tar il quint annual; en quest cas sto la Regenza approvar ordavant il project e la procedura.
 
 <sup>3</sup> En cas urgents po la regenza dumandar senza missiva tar la cumissiun da gestiun per mauns dal cussegl grond in credit supplementar che n'è betg suttamess al referendum da finanzas.
 
@@ -177,7 +177,14 @@ relaschada da la regenza ils 25 da settember 2012
 
 <sup>1</sup> Approvaziuns da surpassaments da credits, da credits posteriurs e da transferiments da credits ston vegnir dumandadas tar l'instanza cumpetenta avant mintga obligaziun u prestaziun che n'è betg garantida tras in credit. Las obligaziuns dastgan vegnir surpigliadas pir suenter l'approvaziun.
 
-<sup>2</sup> Credits posteriurs vegnan per regla dumandads mo, sch'ina necessitad ed urgenza speziala è cumprovada. Sche pussaivel ston ils credits posteriurs vegnir cumpensads. Credits posteriurs sin donn e cust dal quint economic pon vegnir cumpensads mo cun distgargias dal quint economic e credits posteriurs sin donn e cust dal quint d'investiziun mo cun distgargias dal quint d'investiziun.
+<sup>2</sup> Credits posteriurs vegnan per regla dumandads mo, sch'ina necessitad ed urgenza speziala è cumprovada.
+
+<sup>3</sup> Sche pussaivel ston ils credits posteriurs vegnir cumpensads. Credits posteriurs sin donn e cust dal quint economic pon vegnir cumpensads mo cun distgargias dal quint economic e credits posteriurs sin donn e cust dal quint d'investiziun mo cun distgargias dal quint d'investiziun.
+
+<sup>4</sup> Ina cumpensaziun tenor l'alinea 3 na sto betg vegnir examinada per:
+
+- a) dumondas per credits posteriurs necessaris pervia da retardaments da projects d'investiziun; sco er
+- b) cunvegnas da program cun la Confederaziun en la dimensiun da credits che n'èn betg vegnids duvrads ils onns precedents.
 
 #### Art. 12
 
@@ -203,12 +210,14 @@ relaschada da la regenza ils 25 da settember 2012
 
 <sup>1</sup> La dumonda da conceder in surpassament dal credit u in credit posteriur sto cuntegnair almain las suandantas infurmaziuns:
 
-- a) la necessitad objectiva respectivamain las consequenzas d'ina renunzia ad in augment dal credit;
-- b) l'urgenza temporala;
+- a) la necessitad respectivamain las consequenzas d'ina renunzia ad in augment dal credit;
+- b) l'urgenza;
 - c) la derivaziun da la dimensiun necessaria dal credit;
 - d) l'imprevisibladad dals custs supplementars e dals retgavs pli pitschens;
 - e) las pussaivladads da cumpensaziun examinadas e proponidas;
 - f) l'influenza sin il basegn da credits durant ils onns suandants.
+
+<sup>1<sup>bis</sup></sup> Las dumondas en il senn da l'artitgel 11 alinea 4 per l'utilisaziun da credits che n'èn betg vegnids duvrads ils onns precedents pervia da retardaments da projects d'investiziun sco er las cunvegnas da program cun la Confederaziun ston sulettamain preschentar ils fatgs ed explitgar la derivaziun da la dimensiun dal credit.
 
 <sup>2</sup> Il departament da finanzas e vischnancas suttametta a la regenza las dumondas da conceder credits posteriurs e las dumondas da conceder surpassaments da credits che ston vegnir approvadas da la regenza.
 
@@ -232,13 +241,13 @@ relaschada da la regenza ils 25 da settember 2012
 
 **Transferiments da custs da persunal**
 
-<sup>1</sup> En il senn da l'artitgel 20 alinea 3 litera d da la lescha da finanzas pon ils departaments duvrar ils respargns da salari sco er las prestaziuns supplementaras da l'assicuranza da persunal, che resultan pervia da plazzas vacantas e pervia d'absenzas dal servetsch, per transferiments tranter ils budgets globals dals posts da servetsch.
+<sup>1</sup> En il senn da l'artitgel 20 alinea 3 litera d da la Lescha da finanzas pon ils departaments duvrar ils respargns da salari sco er las prestaziuns supplementaras da l'assicuranza da persunal, che resultan pervia da plazzas vacantas e pervia d'absenzas dal servetsch, per transferiments tranter ils budgets globals dals posts da servetsch senza effects sin las finanzas.
 
 #### Art. 16
 
 **Transferiment da credits singuls**
 
-<sup>1</sup> Transferiments da credits en il senn da l'artitgel 21 alinea 1 litera d da la lescha da finanzas entaifer il quint d'investiziun per la renovaziun da las vias naziunalas, da las vias chantunalas e da las vias da colliaziun pon vegnir permess tras l'uffizi da construcziun bassa fin 300 000 francs pro cas e tras il departament tar passa 300 000 francs pro cas.
+<sup>1</sup> Transferiments da credits en il senn da l'artitgel 21 alinea 1 litera d da la Lescha da finanzas entaifer il quint d'investiziun per la renovaziun da las vias naziunalas e chantunalas pon vegnir permess – per unitad – fin 300 000 francs tras l'Uffizi da construcziun bassa e sur 300 000 francs tras il departament.
 
 <sup>2</sup> Transferiments da credits en il senn da l'artitgel 21 alinea 1 litera d da la lescha da finanzas tranter contos da contribuziuns dal medem num en il quint economic ed en il quint d'investiziun pon vegnir approvads tras il post da servetsch cumpetent fin 50 000 francs pro cas e tras il departament tar passa 50 000 francs pro cas.
 
@@ -312,7 +321,7 @@ relaschada da la regenza ils 25 da settember 2012
 
 **Prefinanziaziuns**
 
-<sup>1</sup> La furmaziun da prefinanziaziuns (reservas) basegna in conclus separà dal cussegl grond. Ella sto vegnir restrenschida a projects gronds. En cas da projects gia approvads po il conclus vegnir dumandà cun la missiva tar il budget u tar il quint annual. Senza project approvà sto il conclus vegnir dumandà cun ina missiva separada.
+<sup>1</sup> La furmaziun da prefinanziaziuns basegna in conclus dal Cussegl grond en il rom d'ina missiva separada. Ella sto vegnir restrenschida a projects gronds.
 
 <sup>2</sup> Prefinanziaziuns furmadas ston vegnir cumprovadas avertamain e ston vegnir duvradas confurm a lur intent. Ellas ston vegnir liquidadas a favur dal quint economic, uschespert che las premissas daventan obsoletas.
 
@@ -368,13 +377,15 @@ relaschada da la regenza ils 25 da settember 2012
 - a) per construcziuns autas tenor la durada d'utilisaziun supponida per l'entir edifizi, dentant almain 2,5 pertschient;
 - b) per ulteriuras investiziuns materialas ed immaterialas 20 pertschient.
 
+<sup>4</sup> Eventualas investiziuns prefinanziadas vegnan amortisadas a 100 pertschient.
+
 #### Art. 29
 
 **Rectificaziuns da la valur**
 
-<sup>1</sup> Sch'i vegn constatada ina reducziun duraivla da la valur d'ina posiziun da la facultad finanziala u administrativa, vegn rectifitgada sia valur bilantschada.
+<sup>1</sup> Sch'ina reducziun da la valur è previsibla tar ina posiziun da la facultad finanziala u administrativa, vegn rectifitgada sia valur bilantschada.
 
-<sup>2</sup> Ina reducziun da la valur è duraivla, sch'i sto vegnir supponì cun gronda probabilitad che la valur bilantschada na sa laschia betg pli cuntanscher il proxim temp, ubain, sche la posiziun ha pers dal tuttafatg u per part sia valur pervia da destrucziun, pervia d'inveteraziun u pervia da circumstanzas sumegliantas, respectivamain sch'ella na po betg pli vegnir duvrada en la dimensiun d'enfin ussa.
+<sup>2</sup> …
 
 <sup>3</sup> Sch'igl è avant maun ina ristga da perdita en connex cun las pretensiuns, sto vegnir furmà in delcredere. Posiziuns essenzialas en connex cun pretensiuns vegnan valitadas separadamain. Las valurs da las ulteriuras posiziuns pon vegnir rectifitgadas pauschalmain. La tariffa da la rectificaziun pauschala da la valur importa per regla maximalmain 5 pertschient.
 
@@ -492,9 +503,13 @@ relaschada da la regenza ils 25 da settember 2012
 
 **Procedura da cunrapport**
 
-<sup>1</sup> Las fatschentas novas, las respostas ad intervenziuns parlamentaras sco er ils projects da consultaziun che han consequenzas considerablas per las finanzas dal chantun u da las vischnancas sco er las dumondas fundamentalas davart l'applicaziun dal dretg da finanzas e davart la regulaziun da las cumpetenzas ch'èn relevantas per las finanzas ston vegnir suttamess al departament da finanzas e vischnancas per l'examinaziun preliminara avant che prender il conclus. Exceptadas da quai èn fatschentas en il rom da la realisaziun ordinaria dal budget.
+<sup>1</sup> Fatschentas relevantas tenor il dretg da finanzas u fatschentas da la Regenza, respostas ad intervenziuns parlamentaras sco er projects da consultaziun cun effects substanzials sin las finanzas dal chantun u da las vischnancas sto il departament suttametter avant il conclus da la Regenza al Departament da finanzas e vischnancas per in'examinaziun preliminara. Exceptadas da la procedura da cunrapport èn las fatschentas en il rom da la realisaziun dal budget.
 
-<sup>2</sup> Per la procedura da cunrapport ston per regla vegnir concedidas 2 emnas al departament da finanzas e vischnancas ed en connex cun missivas 4 emnas.
+<sup>2</sup> Per la procedura da cunrapport ston per regla vegnir concedidas al Departament da finanzas e vischnancas 2 emnas ed en connex cun projects da consultaziun e cun missivas al Cussegl grond 4 emnas.
+
+<sup>3</sup> Il cunrapport vegn agiuntà a las actas da dumonda tar la fatschenta da la Regenza.
+
+<sup>4</sup> Il Departament da finanzas e vischnancas sto dal rest vegnir consultà en connex cun dumondas fundamentalas davart l'applicaziun dal dretg da finanzas ed en connex cun la nova regulaziun da cumpetenzas finanzialas impurtantas.
 
 #### Art. 39
 
@@ -557,11 +572,11 @@ relaschada da la regenza ils 25 da settember 2012
 
 <sup>1</sup> La cumpetenza d'expensas è il dretg da surpigliar obligaziuns finanzialas en il rom dals credits tenor il budget, ch'èn vegnids approvads. Ella tutga a la regenza, nun ch'ella saja vegnida delegada ad in'obligaziun concreta tras ils alineas qua sutvart, tras in relasch giuridic u en il cas singul tras in conclus da la regenza.
 
-<sup>2</sup> Ils departaments concludan obligaziuns unicas fin a 300 000 francs per unitad ed obligaziuns periodicas annualas sur 3 onns e dapli fin a 100 000 francs per unitad e per onn. Obligaziuns ch'èn indispensablas per il cumbat cunter donns pon ils departaments concluder senza limita d'import.
+<sup>2</sup> Ils departaments concludan obligaziuns unicas fin a 500 000 francs per unitad ed obligaziuns periodicas annualas sur 3 onns e dapli fin a 200 000 francs per unitad e per onn. Obligaziuns ch'èn indispensablas per il cumbat cunter donns, pon ils departaments concluder senza limita d'import.
 
-<sup>3</sup> Ils posts da servetsch concludan obligaziuns unicas fin a 50 000 francs per unitad ed obligaziuns periodicas annualas sur 3 onns e dapli fin a 20 000 francs per unitad e per onn. Senza limitas d'import èn els cumpetents per obligaziuns, per las qualas els n'èn betg obligads da dumandar in credit posteriur tenor l'artitgel 20 alinea 3 litera a e litera b da la lescha da finanzas.
+<sup>3</sup> Ils posts da servetsch concludan obligaziuns unicas fin a 100 000 francs per unitad ed obligaziuns periodicas annualas sur 3 onns e dapli fin a 40 000 francs per unitad e per onn. Senza limitas d'import èn els cumpetents per obligaziuns, per las qualas els n'èn betg obligads da dumandar in credit posteriur tenor l'artitgel 20 alinea 3 litera a e litera b da la Lescha da finanzas.
 
-<sup>4</sup> Senza disposiziuns divergentas valan a partir dal stgalim dal departament las cumpetenzas tenor l'alinea 3 er per ils contos da bilantscha. Per expensas da la finanziaziun speziala vias sa redubleschan las contribuziuns.
+<sup>4</sup> Senza disposiziuns divergentas valan a partir dal stgalim dal departament las cumpetenzas tenor l'alinea 3 er per ils contos da bilantscha. Per expensas da la finanziaziun speziala Vias sa redubleschan las contribuziuns. Per expensas en il rom da cunvegnas da program da la Regenza cun la Confederaziun èn ils posts da servetsch cumpetents fin a las limitas tenor l'alinea 2 ed ils departaments senza limitas d'import.
 
 <sup>5</sup> Sch'ina obligaziun ch'è vegnida approvada oriundamain vegn surpassada per maximalmain 10 pertschient, sa drizza la cumpetenza d'approvar l'obligaziun supplementara tenor l'alinea 2 fin l'alinea 4. Autramain èn decisivas las expensas totalas inclusiv l'obligaziun supplementara per fixar la cumpetenza.
 
@@ -617,11 +632,11 @@ relaschada da la regenza ils 25 da settember 2012
 
 **Persunas autorisadas**
 
-<sup>1</sup> Las manadras ed ils manaders dals posts da servetsch sco er lur substitutas e lur substituts han il dretg da far expensas en lur sectur. Ils departaments pon conceder questa autorisaziun dal tuttafatg u per part er ad autras collavuraturas ed ad auters collavuraturs.
+<sup>1</sup> Las manadras ed ils manaders dals posts da servetsch sco er lur substitutas e lur substituts han il dretg da far expensas en lur sectur. Las manadras ed ils manaders dals posts da servetsch sco er lur substitutas e lur substituts sco er las persunas che han il dretg da far expensas tenor l'alinea 2 per ils departaments respectivamain per la Chanzlia chantunala pon conceder questa autorisaziun dal tuttafatg u per part er ad autras collavuraturas ed ad auters collavuraturs.
 
-<sup>2</sup> Las scheffas ed ils schefs dals departaments, las secretarias ed ils secretaris dals departaments sco er la direcziun da la chanzlia han il dretg da far expensas per il departament respectivamain per la chanzlia chantunala sco er per tut ils posts da servetsch e per tut ils secturs ch'èn suttamess ad ellas ed ad els.
+<sup>2</sup> Las scheffas ed ils schefs dals departaments, las secretarias generalas ed ils secretaris generals sco er la chanceliera u il chancelier han il dretg da far expensas per il departament respectivamain per la Chanzlia chantunala sco er per tut ils posts da servetsch e per tut ils secturs ch'èn suttamess ad ellas ed ad els. Ils departaments respectivamain la Chanzlia chantunala pon conceder questa autorisaziun dal tuttafatg u per part er ad autras collavuraturas ed ad auters collavuraturs.
 
-<sup>3</sup> Tgi che vegn favurisà tras in'expensa, n'ha betg il dretg da far l'expensa e da dar l'instrucziun en quest cas. Tgi che ha approvà in'expensa u tgi che ha empustà sulet ina prestaziun, n'ha betg il dretg da dar l'instrucziun en quest cas.
+<sup>3</sup> Tgi che vegn favurisà tras in'expensa, n'ha betg il dretg da far l'expensa e da dar l'instrucziun en quest cas.
 
 <sup>4</sup> …
 
@@ -639,9 +654,9 @@ relaschada da la regenza ils 25 da settember 2012
 
 **Quittanzas da cudeschaziuns**
 
-<sup>1</sup> Mintga mussament d'in pajament pretenda las suttascripziuns da duas persunas. El sto cuntegnair, ultra da la conferma da la correctadad materiala e calculatorica, la suttascripziun d'ina persuna che ha il dretg da dar instrucziuns. Questa persuna conferma cun sia suttascripziun che l'expensa è vegnida approvada ordavant correctamain. Sche l'import approvà sa chatta sur la limita tenor l'artitgel 44, sto vegnir inditgada la basa da delegaziun correspundenta.
+<sup>1</sup> Mintga mussament d'in pajament pretenda la suttascripziun u l'approvaziun electronica da duas persunas. Ultra da la conferma da la correctadad materiala e calculatorica sto il mussament cuntegnair la suttascripziun u l'approvaziun electronica d'ina persuna che ha il dretg da dar instrucziuns. Questa persuna conferma cun sia suttascripziun u cun sia approvaziun electronica che l'expensa è vegnida approvada ordavant correctamain. Sche l'import approvà sa chatta sur la limita tenor l'artitgel 44, sto vegnir inditgada la basa da delegaziun correspundenta.
 
-<sup>2</sup> Mussaments d'entradas basegnan da princip la suttascripziun d'ina persuna che ha il dretg da dar instrucziuns.
+<sup>2</sup> Mussaments d'entradas basegnan da princip la suttascripziun u l'approvaziun electronica d'ina persuna che ha il dretg da dar instrucziuns.
 
 <sup>3</sup> Il mussament electronic ha il medem status sco il mussament sin palpiri.
 

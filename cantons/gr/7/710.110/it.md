@@ -4,13 +4,13 @@ number: "710.110"
 title: Ordinanza sulla gestione finanziaria cantonale
 short: OGFC
 language: it
-version: 2020-09-01
-corrected: 2022-01-01
-version_adopted: 2020-08-11
+version: 2024-09-01
+valid_until: 2024-12-31
+version_adopted: 2024-08-20
 adopted: 2012-09-25
 in_force: 2012-12-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/710.110"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3070/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3458/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3070/pdf_file"
 
 (OGFC)
 
-del 25.09.2012 (stato 01.09.2020)
+del 25.09.2012 (stato 01.09.2024)
 
 emanata dal Governo il 25 settembre 2012
 
@@ -62,7 +62,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1],
 
 <sup>2</sup> Ai fini dell'equilibrio di bilancio a medio termine si prende a riferimento un ciclo congiunturale di durata compresa tra quattro e otto anni.
 
-<sup>3</sup> In sede di determinazione del preventivo e dei tassi fiscali occorre tenere conto dello sviluppo economico e del capitale proprio liberamente disponibile. Inoltre occorre considerare il presunto scostamento rispetto al risultato contabile atteso.
+<sup>3</sup> In sede di determinazione del preventivo e dei tassi fiscali occorre tenere conto dello sviluppo economico e del capitale proprio liberamente disponibile. Inoltre occorre considerare il presunto scostamento rispetto al risultato contabile atteso, tenendo conto delle posizioni di correzione inserite in modo forfetario nel preventivo in gruppi di spese e di ricavi selezionati.
 
 #### Art. 2b
 
@@ -70,12 +70,12 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1],
 
 <sup>1</sup> Il capitale proprio disponibile comprende il capitale proprio a destinazione vincolata e quello liberamente disponibile.
 
-<sup>2</sup> Il capitale proprio a destinazione vincolata comprende impegni e anticipi per finanziamenti speciali nel capitale proprio nonché i prefinanziamenti di grandi progetti.
+<sup>2</sup> Il capitale proprio a destinazione vincolata comprende impegni e anticipi per finanziamenti speciali nel capitale proprio nonché prefinanziamenti conformemente all'articolo 24.
 
-<sup>3</sup> Il capitale proprio liberamente disponibile è a disposizione per la copertura di eccedenze di spesa nel conto economico conformemente all'articolo 2a capoverso 1 e per la costituzione di prefinanziamenti di grandi progetti conformemente all'articolo 24. Esso corrisponde all'eccedenza di bilancio al netto:
+<sup>3</sup> Il capitale proprio liberamente disponibile è a disposizione per la copertura di eccedenze di spesa nel conto economico conformemente all'articolo 2a capoverso 1 e per la costituzione di prefinanziamenti conformemente all'articolo 24. Esso corrisponde all'eccedenza di bilancio al netto:
 
 - a) dei beni amministrativi senza i mutui finanziati dalla Confederazione, ossia mutui conformemente alla nuova politica regionale, mutui alla Cooperativa grigionese di credito agrario nonché mutui da crediti di investimento forestali;
-- b) delle azioni e delle quote di partecipazione nei beni patrimoniali detenute per ragioni di interesse politico.
+- b) delle azioni e delle quote di partecipazione nei beni patrimoniali detenute nell'interesse politico.
 
 #### Art. 3
 
@@ -88,7 +88,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1],
 - a) le prestazioni vengono strutturate secondo prodotti e gruppi di prodotti e completate con i relativi obiettivi e indicatori;
 - b) gli obiettivi e gli indicatori concretizzano gli effetti dei gruppi di prodotti stabiliti dal Gran Consiglio e coincidono con le relative prescrizioni essenziali.
 
-<sup>3</sup> I dipartimenti stipulano periodicamente con i propri servizi degli accordi di prestazioni.
+<sup>3</sup> I dipartimenti stipulano degli accordi di prestazioni con i propri servizi.
 
 <sup>4</sup> Il vincolo pluriennale di finanze e prestazioni avviene nel piano dei compiti e delle finanze integrato (PCFI).
 
@@ -96,13 +96,13 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1],
 
 **Crediti individuali**
 
-<sup>1</sup> Quale complemento ai crediti individuali conformemente all'articolo 36 capoverso 2 della legge sulla gestione finanziaria[^4-1] vanno tenuti in particolare i seguenti conti quali crediti individuali:
+<sup>1</sup> Quale complemento ai crediti individuali conformemente all'articolo 15 capoverso 2 e all'articolo 36 capoverso 2 della legge sulla gestione finanziaria[^4-1] vanno tenuti in particolare i seguenti conti quali crediti individuali:
 
 - a) conti nel quadro di accordi di programma con la Confederazione;
 - b) compensazioni interne tra i finanziamenti speciali, i conti speciali, nonché i tribunali cantonali da un lato e altre rubriche dei conti dall'altro;
-- c) conti con importi non influenzabili dai servizi;
+- c) conti con importi non influenzabili dai servizi e significativi in termini di importo;
 - d) conti con importi senza relazione diretta con il mandato di prestazioni dei servizi;
-- e) conti con importi senza base giuridica per l'adempimento di un compito costituzionale conformemente all'articolo 33 capoverso 1 della legge sulla gestione finanziaria.
+- e) conti con importi senza base giuridica per l'adempimento di un compito costituzionale conformemente all'articolo 33 capoverso 1 lettera a della legge sulla gestione finanziaria.
 
 [^4-1]: CSC [710.100](https://www.gr-lex.gr.ch/data/710.100/it)
 
@@ -140,9 +140,9 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1],
 
 **3. Clausola del livello dei prezzi**
 
-<sup>1</sup> Se il credito d'impegno contiene una clausola del livello dei prezzi, esso aumenta o diminuisce in rapporto all'indice dei prezzi alla base del decreto di concessione del credito.
+<sup>1</sup> Se il credito d'impegno contiene una clausola del livello dei prezzi, esso aumenta o diminuisce fino all'aggiudicazione della commessa in proporzione alla variazione dell'indice e dopo l'aggiudicazione della commessa secondo la regolamentazione contrattuale.
 
-<sup>2</sup> Se viene deciso un credito netto con una clausola del livello dei prezzi, esso aumenta o diminuisce in proporzione alla variazione del credito lordo, purché le entrate non siano indicizzate.
+<sup>2</sup> …
 
 <sup>3</sup> Il calcolo del rincaro avviene per il periodo fra la data del calcolo del preventivo (base di prezzo del credito d'impegno) e quella dell'aggiudicazione dei lavori sulla base dello stato dell'indice indicato nel decreto.
 
@@ -157,7 +157,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1],
 - a) per una spesa una tantum soggetta a referendum finanziario; oppure
 - b) per una spesa una tantum vincolata per un progetto cantonale di durata pluriennale con una necessità di crediti per un importo presumibilmente superiore a un milione di franchi in almeno uno dei tre anni del piano finanziario.
 
-<sup>2</sup> Se superano l'importo di dieci milioni di franchi, i crediti d'impegno e i crediti aggiuntivi vanno richiesti al Gran Consiglio con un messaggio separato. Negli altri casi possono anche essere richiesti con il messaggio sul preventivo o sul conto annuale, il Governo deve però approvare previamente il progetto.
+<sup>2</sup> Se superano l'importo di dieci milioni di franchi, i crediti d'impegno e i crediti aggiuntivi vanno richiesti al Gran Consiglio con un messaggio separato. Negli altri casi possono anche essere richiesti con il messaggio sul preventivo o sul conto annuale, il Governo deve però approvare previamente il progetto e la procedura.
 
 <sup>3</sup> In casi urgenti, il Governo può chiedere senza messaggio alla Commissione della gestione, all'attenzione del Gran Consiglio, un credito aggiuntivo non soggetto a referendum finanziario.
 
@@ -177,7 +177,14 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1],
 
 <sup>1</sup> Approvazioni per superamenti di credito, crediti suppletivi e trasferimenti di crediti devono essere richieste all'autorità competente prima di ogni impegno o prestazione non coperta da crediti. Gli impegni possono essere assunti solo dopo l'approvazione.
 
-<sup>2</sup> I crediti suppletivi vengono di regola richiesti soltanto se è dimostrata una particolare necessità e urgenza. Se possibile, i crediti suppletivi devono essere compensati. I crediti suppletivi a carico del conto economico possono essere compensati solo attraverso sgravi del conto economico e crediti suppletivi a carico del conto degli investimenti possono essere compensati solo attraverso sgravi del conto degli investimenti.
+<sup>2</sup> I crediti suppletivi vengono di regola richiesti soltanto se è dimostrata una particolare necessità e urgenza.
+
+<sup>3</sup> Se possibile, i crediti suppletivi devono essere compensati. I crediti suppletivi a carico del conto economico possono essere compensati solo attraverso sgravi del conto economico e crediti suppletivi a carico del conto degli investimenti possono essere compensati solo attraverso sgravi del conto degli investimenti.
+
+<sup>4</sup> Non occorre prendere in esame una compensazione conformemente al capoverso 3 per:
+
+- a) richieste di credito suppletivo necessarie a seguito di ritardi in progetti d'investimento; nonché
+- b) accordi di programma con la Confederazione nella misura di crediti non utilizzati negli anni precedenti.
 
 #### Art. 12
 
@@ -203,12 +210,14 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1],
 
 <sup>1</sup> La richiesta per un sorpasso di credito o per un credito suppletivo deve contenere almeno le informazioni seguenti:
 
-- a) necessità oggettiva e conseguenze di una rinuncia all'aumento del credito;
+- a) necessità e conseguenze di una rinuncia all'aumento del credito;
 - b) urgenza;
 - c) calcolo dell'entità necessaria del credito;
 - d) imprevedibilità delle spese supplementari e dei minori ricavi;
 - e) possibilità di compensazione esaminate e proposte;
 - f) influsso sulla necessità di crediti negli anni successivi.
+
+<sup>1<sup>bis</sup></sup> Le richieste ai sensi dell'articolo 11 capoverso 4 per l'utilizzo di crediti non sfruttati negli anni precedenti a seguito di ritardi in progetti d'investimento nonché di accordi di programma con la Confederazione devono esclusivamente esporre la fattispecie e derivare l'entità del credito.
 
 <sup>2</sup> Le richieste di credito suppletivo e le richieste di sorpassi di credito che vanno approvate dal Governo vengono presentate al Governo dal Dipartimento delle finanze e dei comuni.
 
@@ -232,13 +241,13 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1],
 
 **Trasferimenti di spese per il personale**
 
-<sup>1</sup> Ai sensi dell'articolo 20 capoverso 3 lettera d della legge sulla gestione finanziaria, i dipartimenti possono impiegare risparmi sullo stipendio, nonché prestazioni supplementari dell'assicurazione del personale dovute a posti vacanti e ad assenze per ragioni di servizio per trasferimenti tra i preventivi globali dei servizi.
+<sup>1</sup> Ai sensi dell'articolo 20 capoverso 3 lettera d della legge sulla gestione finanziaria, i dipartimenti possono impiegare risparmi sullo stipendio, nonché prestazioni supplementari dell'assicurazione del personale dovute a posti vacanti e ad assenze per ragioni di servizio per trasferimenti neutrali dal profilo dei costi tra preventivi globali dei servizi.
 
 #### Art. 16
 
 **Trasferimento di crediti individuali**
 
-<sup>1</sup> Trasferimenti di crediti ai sensi dell'articolo 21 capoverso 1 lettera d della legge sulla gestione finanziaria all'interno del conto degli investimenti per l'ampliamento di strade nazionali, cantonali e di collegamento possono venire approvati dall'Ufficio tecnico per un importo fino a 300 000 franchi per unità e dal Dipartimento per un importo superiore a 300 000 franchi per unità.
+<sup>1</sup> Trasferimenti di crediti ai sensi dell'articolo 21 capoverso 1 lettera d della legge sulla gestione finanziaria all'interno del conto degli investimenti per l'ampliamento di strade nazionali e cantonali possono venire approvati dall'Ufficio tecnico per un importo fino a 300 000 franchi per unità e dal Dipartimento per un importo superiore a 300 000 franchi per unità.
 
 <sup>2</sup> Trasferimenti di crediti ai sensi dell'articolo 21 capoverso 1 lettera d della legge sulla gestione finanziaria tra voci di sussidio identiche del conto economico e del conto degli investimenti possono venire approvati dal servizio competente per un importo fino a 50 000 franchi per unità e dal Dipartimento per un importo superiore a 50 000 franchi per unità.
 
@@ -312,7 +321,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1],
 
 **Prefinanziamenti**
 
-<sup>1</sup> La costituzione di prefinanziamenti (riserve) necessita di una decisione separata del Gran Consiglio. Essa va limitata a progetti di grande portata. In caso di progetti già approvati, la decisione può essere chiesta con il messaggio sul preventivo o sul conto annuale. In assenza di un progetto approvato, la decisione deve essere chiesta con un messaggio separato.
+<sup>1</sup> La costituzione di prefinanziamenti necessita di una decisione del Gran Consiglio nel quadro di un messaggio separato. Essa va limitata a progetti di grande portata.
 
 <sup>2</sup> I prefinanziamenti costituiti devono essere dichiarati in modo chiaro ed essere utilizzati conformemente alla loro destinazione. Essi vanno sciolti a favore del conto economico non appena vengono meno i presupposti.
 
@@ -368,13 +377,15 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1],
 - a) per opere edili secondo la durata di utilizzo ipotizzata dell'intero fabbricato, tuttavia almeno il 2,5 per cento;
 - b) per altri investimenti materiali e investimenti immateriali il 20 per cento.
 
+<sup>4</sup> Eventuali investimenti prefinanziati vengono ammortizzati nella misura del 100 per cento.
+
 #### Art. 29
 
 **Rettifiche del valore**
 
-<sup>1</sup> Se per una posizione dei beni patrimoniali o amministrativi è prevedibile una riduzione permanente del valore, il suo valore a bilancio viene rettificato.
+<sup>1</sup> Se per una posizione dei beni patrimoniali o amministrativi è prevedibile una riduzione del valore, il suo valore a bilancio viene rettificato.
 
-<sup>2</sup> Una riduzione del valore è permanente se con ogni probabilità si deve supporre che il valore a bilancio non potrà più essere raggiunto in tempi prevedibili, oppure se a seguito di distruzione, invecchiamento o circostanze simili la posizione ha perso del tutto o in parte il valore o questa non può più essere sfruttata nella misura precedente.
+<sup>2</sup> …
 
 <sup>3</sup> Se per i crediti vi è un rischio di perdita, va costituito un delcredere. Le posizioni rilevanti nei crediti vengono valutate singolarmente. Il valore delle posizioni rimanenti può essere rettificato in modo forfetario. L'aliquota forfetaria di rettifica del valore di norma ammonta al massimo al cinque per cento.
 
@@ -492,9 +503,13 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1],
 
 **Procedura di corapporto**
 
-<sup>1</sup> Nuovi affari, risposte a interventi parlamentari, nonché documentazione di consultazione con notevoli ripercussioni sulla gestione finanziaria del Cantone o dei comuni, nonché questioni di fondo in merito all'applicazione del diritto cantonale sulla gestione finanziaria vanno trasmessi per esame preliminare al Dipartimento delle finanze e dei comuni prima della decisione. Sono fatti salvi affari nell'ambito dell'esecuzione del preventivo.
+<sup>1</sup> Affari rilevanti in materia di diritto finanziario o affari del Governo, risposte a interventi parlamentari nonché documentazione di consultazione con notevoli ripercussioni sulla gestione finanziaria del Cantone o dei comuni vanno trasmessi dal dipartimento richiedente al Dipartimento delle finanze e dei comuni per esame preliminare prima del decreto governativo. Sono esclusi dalla procedura di corapporto affari nell'ambito dell'esecuzione del preventivo.
 
-<sup>2</sup> Per la procedura di corapporto devono essere di regola concesse al Dipartimento delle finanze e dei comuni due settimane, in combinazione con messaggi quattro settimane.
+<sup>2</sup> Per la procedura di corapporto devono essere di regola concesse al Dipartimento delle finanze e dei comuni due settimane, in combinazione con documentazione in consultazione e messaggi a destinazione del Gran Consiglio quattro settimane.
+
+<sup>3</sup> Il corapporto viene aggiunto agli atti della richiesta relativi all'affare del Governo.
+
+<sup>4</sup> Il Dipartimento delle finanze e dei comuni deve inoltre essere consultato per questioni di fondo relative all'applicazione del diritto sulla gestione finanziaria e in caso di nuova disciplina di competenze finanziarie considerevoli.
 
 #### Art. 39
 
@@ -557,11 +572,11 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1],
 
 <sup>1</sup> La competenza in materia di uscite è il diritto di contrarre impegni finanziari nel quadro di crediti di preventivo approvati. Essa spetta al Governo nella misura in cui per un impegno concreto non venga delegata dai capoversi seguenti, da un atto normativo o, nel caso singolo, da un decreto governativo.
 
-<sup>2</sup> I dipartimenti decidono impegni una tantum fino a 300 000 franchi per unità e impegni annuali ricorrenti per un periodo di tre anni e oltre fino a 100 000 franchi per unità e anno. I dipartimenti possono decidere impegni indispensabili per la protezione contro i danni senza limiti di importo.
+<sup>2</sup> I dipartimenti decidono impegni una tantum fino a 500 000 franchi per unità e impegni annuali ricorrenti per un periodo di tre anni e oltre fino a 200 000 franchi per unità e anno. I dipartimenti possono decidere impegni indispensabili per la protezione contro i danni senza limiti di importo.
 
-<sup>3</sup> I servizi decidono impegni una tantum fino a 50 000 franchi per unità e impegni annuali ricorrenti per un periodo di tre anni e oltre fino a 20 000 franchi per unità e anno. Essi sono competenti senza limiti di importo per gli impegni per i quali non è necessario un credito suppletivo conformemente all'articolo 20 capoverso 3 lettera a e lettera b della legge sulla gestione finanziaria.
+<sup>3</sup> I servizi decidono impegni una tantum fino a 100 000 franchi per unità e impegni annuali ricorrenti per un periodo di tre anni e oltre fino a 40 000 franchi per unità e anno. Essi sono competenti senza limiti di importo per gli impegni per i quali non è necessario un credito suppletivo conformemente all'articolo 20 capoverso 3 lettera a e lettera b della legge sulla gestione finanziaria.
 
-<sup>4</sup> Senza disposizioni di altro tenore, a partire dal livello dei dipartimenti le competenze conformemente al capoverso 3 valgono anche per i conti di bilancio. Per uscite del finanziamento speciale strade questi importi raddoppiano.
+<sup>4</sup> Senza disposizioni di altro tenore, a partire dal livello dei dipartimenti le competenze conformemente al capoverso 3 valgono anche per i conti di bilancio. Per uscite del finanziamento speciale strade questi importi raddoppiano. I servizi sono competenti per uscite nel quadro di accordi di programma tra il Governo e la Confederazione fino ai limiti conformemente al capoverso 2 e i dipartimenti sono competenti senza limiti di importo.
 
 <sup>5</sup> Se un impegno originariamente approvato viene superato di al massimo il 10 per cento, la competenza per l'autorizzazione dell'impegno aggiuntivo si determina in base a quanto previsto dal capoverso 2 fino al capoverso 4. Altrimenti per la determinazione della competenza sono determinanti le uscite complessive incluso l'impegno aggiuntivo.
 
@@ -617,11 +632,11 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1],
 
 **Persone aventi diritto**
 
-<sup>1</sup> I responsabili dei servizi e i loro supplenti hanno diritto di autorizzare delle uscite per il loro settore. I dipartimenti possono concedere del tutto o in parte questo diritto anche ad altri collaboratori.
+<sup>1</sup> I responsabili dei servizi e i loro supplenti hanno diritto di autorizzare delle uscite per il loro settore. I responsabili dei servizi e i loro supplenti nonché le persone che hanno diritto di autorizzare delle uscite per i dipartimenti e la Cancelleria dello Stato conformemente al capoverso 2 possono concedere del tutto o in parte questo diritto anche ad altri collaboratori.
 
-<sup>2</sup> I direttori dei dipartimenti, i segretari di concetto e il Cancelliere hanno il diritto di autorizzare delle uscite per il dipartimento rispettivamente per la Cancelleria dello Stato, nonché per tutti i servizi e i settori loro subordinati.
+<sup>2</sup> I direttori dei dipartimenti, i segretari generali e il Cancelliere hanno il diritto di autorizzare delle uscite per il dipartimento rispettivamente per la Cancelleria dello Stato, nonché per tutti i servizi e i settori loro subordinati. I dipartimenti rispettivamente la Cancelleria dello Stato possono concedere del tutto o in parte questo diritto anche ad altri collaboratori.
 
-<sup>3</sup> Chi viene favorito da un'uscita, non ha in questo caso il diritto di autorizzare l'uscita e di impartire istruzioni. Chi approva un'uscita o chi da solo ha ordinato una prestazione, non ha in questo caso il diritto di impartire istruzioni.
+<sup>3</sup> Chi viene favorito da un'uscita, non ha in questo caso il diritto di autorizzare l'uscita e di impartire istruzioni.
 
 <sup>4</sup> …
 
@@ -639,9 +654,9 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1],
 
 **Documenti giustificativi**
 
-<sup>1</sup> Ogni documento giustificativo del versamento richiede la firma di due persone. Oltre ad attestare la correttezza materiale e aritmetica, esso deve essere provvisto della firma di una persona avente diritto di impartire istruzioni. Con la sua firma questa persona conferma che l'uscita è stata previamente approvata in modo corretto. Se l'importo approvato è superiore al limite conformemente all'articolo 44, va indicata la corrispondente base di delega.
+<sup>1</sup> Ogni documento giustificativo del versamento richiede la firma o l'approvazione elettronica di due persone. Oltre ad attestare la correttezza materiale e aritmetica, esso deve essere provvisto della firma o dell'approvazione elettronica di una persona avente diritto di impartire istruzioni. Con la sua firma o approvazione elettronica questa persona conferma che l'uscita è stata previamente approvata in modo corretto. Se l'importo approvato è superiore al limite conformemente all'articolo 44, va indicata la corrispondente base di delega.
 
-<sup>2</sup> I documenti giustificativi di entrate necessitano di principio della firma di una persona avente diritto di impartire istruzioni.
+<sup>2</sup> I documenti giustificativi di entrate necessitano di principio della firma o dell'approvazione elettronica di una persona avente diritto di impartire istruzioni.
 
 <sup>3</sup> Il documento giustificativo elettronico è equiparato al documento giustificativo cartaceo.
 

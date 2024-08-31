@@ -4,13 +4,13 @@ number: "710.110"
 title: Verordnung über den kantonalen Finanzhaushalt
 short: FHV
 language: de
-version: 2020-09-01
-corrected: 2022-01-01
-version_adopted: 2020-08-11
+version: 2024-09-01
+valid_until: 2024-12-31
+version_adopted: 2024-08-20
 adopted: 2012-09-25
 in_force: 2012-12-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/710.110"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3070/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3458/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3070/pdf_file"
 
 (FHV)
 
-Vom 25.09.2012 (Stand 01.09.2020)
+Vom 25.09.2012 (Stand 01.09.2024)
 
 Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung[^ingress-1]
 
@@ -62,7 +62,7 @@ von der Regierung erlassen am 25. September 2012
 
 <sup>2</sup> Ein mittelfristiger Ausgleich erfasst einen Konjunkturzyklus über die Dauer von vier bis acht Jahren.
 
-<sup>3</sup> Bei der Festlegung des Budgets und der Steuerfüsse ist auf die Wirtschaftsentwicklung und auf das frei verfügbare Eigenkapital Rücksicht zu nehmen. Zudem ist die mutmassliche Abweichung zum erwarteten Rechnungsergebnis zu berücksichtigen.
+<sup>3</sup> Bei der Festlegung des Budgets und der Steuerfüsse ist auf die Wirtschaftsentwicklung und auf das frei verfügbare Eigenkapital Rücksicht zu nehmen. Zudem ist die mutmassliche Abweichung zum erwarteten Rechnungsergebnis zu berücksichtigen; dies unter Beachtung von pauschal budgetierten Korrekturpositionen in ausgewählten Aufwand- und Ertragsgruppen.
 
 #### Art. 2b
 
@@ -70,12 +70,12 @@ von der Regierung erlassen am 25. September 2012
 
 <sup>1</sup> Das verfügbare Eigenkapital umfasst das zweckgebundene und das frei verfügbare Eigenkapital.
 
-<sup>2</sup> Das zweckgebundene Eigenkapital umfasst Verpflichtungen und Vorschüsse gegenüber den Spezialfinanzierungen im Eigenkapital sowie die Vorfinanzierungen von Grossprojekten.
+<sup>2</sup> Das zweckgebundene Eigenkapital umfasst Verpflichtungen und Vorschüsse gegenüber den Spezialfinanzierungen im Eigenkapital sowie Vorfinanzierungen gemäss Artikel 24.
 
-<sup>3</sup> Das frei verfügbare Eigenkapital steht zur Deckung von Aufwandüberschüssen der Erfolgsrechnung gemäss Artikel 2a Absatz 1 und für die Bildung von Vorfinanzierungen von Grossprojekten gemäss Artikel 24 zur Verfügung. Es entspricht dem Bilanzüberschuss abzüglich:
+<sup>3</sup> Das frei verfügbare Eigenkapital steht zur Deckung von Aufwandüberschüssen der Erfolgsrechnung gemäss Artikel 2a Absatz 1 und für die Bildung von Vorfinanzierungen gemäss Artikel 24 zur Verfügung. Es entspricht dem Bilanzüberschuss abzüglich:
 
 - a) des Verwaltungsvermögens ohne die bundesfinanzierten Darlehen, nämlich Darlehen gemäss Neuer Regionalpolitik, Darlehen an die Landwirtschaftliche Kreditgenossenschaft Graubünden sowie Darlehen aus forstwirtschaftlichen Investitionskrediten;
-- b) der Aktien und Anteilscheine im Finanzvermögen, welche aus politischem Interesse gehalten werden.
+- b) der Aktien und Anteilscheine im Finanzvermögen, welche im politischen Interesse gehalten werden.
 
 #### Art. 3
 
@@ -88,7 +88,7 @@ von der Regierung erlassen am 25. September 2012
 - a) Die Leistungen werden nach Produkten und Produktgruppen gegliedert und mit dazugehörigen Zielen und Indikatoren ergänzt;
 - b) Die Ziele und Indikatoren konkretisieren die vom Grossen Rat vorgegebenen Wirkungen der Produktgruppen und decken deren wesentlichen Vorgaben ab.
 
-<sup>3</sup> Die Departemente schliessen periodisch mit ihren Dienststellen Leistungsvereinbarungen ab.
+<sup>3</sup> Die Departemente schliessen mit ihren Dienststellen Leistungsvereinbarungen ab.
 
 <sup>4</sup> Die mehrjährige Verknüpfung der Finanzen und Leistungen erfolgt im integrierten Aufgaben- und Finanzplan (IAFP).
 
@@ -96,13 +96,13 @@ von der Regierung erlassen am 25. September 2012
 
 **Einzelkredite**
 
-<sup>1</sup> Ergänzend zu den Einzelkrediten gemäss Artikel 36 Absatz 2 des Finanzhaushaltsgesetzes[^4-1] sind insbesondere folgende Konten als Einzelkredite zu führen:
+<sup>1</sup> Ergänzend zu den Einzelkrediten gemäss Artikel 15 Absatz 2 und Artikel 36 Absatz 2 des Finanzhaushaltsgesetzes[^4-1] sind insbesondere folgende Konten als Einzelkredite zu führen:
 
 - a) Konten im Rahmen von Programmvereinbarungen mit dem Bund;
 - b) Interne Verrechnungen zwischen Spezialfinanzierungen, den Sonderrechnungen sowie den kantonalen Gerichten einerseits und anderen Rechnungsrubriken andererseits;
-- c) Konten mit Beträgen, die von den Dienststellen nicht beeinflussbar sind;
+- c) Konten mit Beträgen, die von den Dienststellen nicht beeinflussbar und betragsmässig wesentlich sind;
 - d) Konten mit Beträgen, die nicht im unmittelbaren Zusammenhang mit dem Leistungsauftrag der Dienststellen stehen;
-- e) Konten mit Beträgen ohne Rechtsgrundlage zur Erfüllung einer verfassungsmässigen Aufgabe gemäss Artikel 33 Absatz 1 des Finanzhaushaltsgesetzes.
+- e) Konten mit Beträgen ohne Rechtsgrundlage zur Erfüllung einer verfassungsmässigen Aufgabe gemäss Artikel 33 Absatz 1 Litera a des Finanzhaushaltsgesetzes.
 
 [^4-1]: BR [710.100](https://www.gr-lex.gr.ch/data/710.100/de)
 
@@ -140,9 +140,9 @@ von der Regierung erlassen am 25. September 2012
 
 **3. Preisstandklausel**
 
-<sup>1</sup> Enthält der Verpflichtungskredit eine Preisstandklausel, erhöht oder vermindert er sich nach Massgabe des dem Kreditbeschluss zugrunde gelegten Preisindexes.
+<sup>1</sup> Enthält der Verpflichtungskredit eine Preisstandklausel, erhöht oder vermindert er sich bis zur Auftragsvergabe im Ausmass der Indexveränderung und nach der Auftragsvergabe gemäss der vertraglichen Regelung.
 
-<sup>2</sup> Wird ein Nettokredit mit einer Preisstandklausel beschlossen, erhöht oder vermindert er sich nach Massgabe der Bruttokredit-Veränderung, sofern die Einnahmen nicht indexiert sind.
+<sup>2</sup> …
 
 <sup>3</sup> Die Teuerungsberechnung erfolgt für die Zeitspanne zwischen dem Zeitpunkt der Berechnung des Kostenvoranschlages (Preisbasis des Verpflichtungskredites) und der Auftragsvergabe aufgrund des im Beschluss angegebenen Indexstandes.
 
@@ -157,7 +157,7 @@ von der Regierung erlassen am 25. September 2012
 - a) für eine einmalige Ausgabe, die dem Finanzreferendum untersteht; oder
 - b) für eine gebundene einmalige Ausgabe für ein mehrjähriges kantonales Vorhaben mit einem Kreditbedarf von voraussichtlich mehr als einer Million Franken in mindestens einem der drei Finanzplanjahre.
 
-<sup>2</sup> Verpflichtungs- und Zusatzkredite sind dem Grossen Rat mit separater Botschaft zu beantragen, wenn sie zehn Millionen Franken übersteigen. In den übrigen Fällen können sie auch mit der Botschaft zum Budget oder zur Jahresrechnung beantragt werden, wobei die Regierung dem Vorhaben vorgängig zustimmen muss.
+<sup>2</sup> Verpflichtungs- und Zusatzkredite sind dem Grossen Rat mit separater Botschaft zu beantragen, wenn sie zehn Millionen Franken übersteigen. In den übrigen Fällen können sie auch mit der Botschaft zum Budget oder zur Jahresrechnung beantragt werden, wobei die Regierung dem Vorhaben und Vorgehen vorgängig zustimmen muss.
 
 <sup>3</sup> In dringenden Fällen kann die Regierung einen Zusatzkredit, der nicht dem Finanzreferendum untersteht, der Geschäftsprüfungskommission zuhanden des Grossen Rates ohne Botschaft beantragen.
 
@@ -177,7 +177,14 @@ von der Regierung erlassen am 25. September 2012
 
 <sup>1</sup> Genehmigungen für Kreditüberschreitungen, Nachtragskredite und Kreditumlagerungen sind vor jeder kreditmässig nicht gedeckten Verpflichtung oder Leistung bei der zuständigen Instanz zu beantragen. Die Verpflichtungen dürfen erst nach der Genehmigung eingegangen werden.
 
-<sup>2</sup> Nachtragskredite werden in der Regel nur beantragt, wenn eine besondere Notwendigkeit und Dringlichkeit ausgewiesen ist. Wenn möglich sind Nachtragskredite zu kompensieren. Nachtragskredite zu Lasten der Erfolgsrechnung können dabei nur durch Entlastungen der Erfolgsrechnung und Nachtragskredite zu Lasten der Investitionsrechnung nur durch Entlastungen der Investitionsrechnung kompensiert werden.
+<sup>2</sup> Nachtragskredite werden in der Regel nur beantragt, wenn eine besondere Notwendigkeit und Dringlichkeit ausgewiesen ist.
+
+<sup>3</sup> Wenn möglich sind Nachtragskredite zu kompensieren. Nachtragskredite zu Lasten der Erfolgsrechnung können dabei nur durch Entlastungen der Erfolgsrechnung und Nachtragskredite zu Lasten der Investitionsrechnung nur durch Entlastungen der Investitionsrechnung kompensiert werden.
+
+<sup>4</sup> Keine Kompensation gemäss Absatz 3 muss geprüft werden für:
+
+- a) notwendige Nachtragskreditanträge infolge von Verzögerungen von Investitionsprojekten; sowie
+- b) Programmvereinbarungen mit dem Bund im Umfang von nicht beanspruchten Krediten in den Vorjahren.
 
 #### Art. 12
 
@@ -203,12 +210,14 @@ von der Regierung erlassen am 25. September 2012
 
 <sup>1</sup> Der Antrag für eine Kreditüberschreitung oder einen Nachtragskredit muss mindestens folgende Informationen beinhalten:
 
-- a) sachliche Notwendigkeit beziehungsweise Konsequenzen eines Verzichts auf die Krediterhöhung;
-- b) zeitliche Dringlichkeit;
+- a) Notwendigkeit beziehungsweise Konsequenzen eines Verzichts auf die Krediterhöhung;
+- b) Dringlichkeit;
 - c) Herleitung des erforderlichen Kreditumfanges;
 - d) Unvorhersehbarkeit der Mehraufwendungen und Mindererträge;
 - e) geprüfte und vorgeschlagene Kompensationsmöglichkeiten;
 - f) Einfluss auf den Kreditbedarf in den Folgejahren.
+
+<sup>1<sup>bis</sup></sup> Anträge im Sinne von Artikel 11 Absatz 4 für die Verwendung von nicht beanspruchten Krediten aus den Vorjahren infolge von Verzögerungen von Investitionsprojekten sowie Programmvereinbarungen mit dem Bund haben ausschliesslich den Sachverhalt darzulegen und den Kreditumfang herzuleiten.
 
 <sup>2</sup> Die Nachtragskreditanträge und die von der Regierung zu genehmigenden Kreditüberschreitungsanträge werden vom Departement für Finanzen und Gemeinden der Regierung vorgelegt.
 
@@ -232,13 +241,13 @@ von der Regierung erlassen am 25. September 2012
 
 **Umlagerungen von Personalaufwendungen**
 
-<sup>1</sup> Die Departemente können im Sinne von Artikel 20 Absatz 3 Litera d des Finanzhaushaltsgesetzes Lohneinsparungen sowie zusätzliche Personalversicherungsleistungen aufgrund von Vakanzen und Dienstabwesenheiten für Umlagerungen zwischen Globalbudgets der Dienststellen verwenden.
+<sup>1</sup> Die Departemente können im Sinne von Artikel 20 Absatz 3 Litera d des Finanzhaushaltsgesetzes Lohneinsparungen sowie zusätzliche Personalversicherungsleistungen aufgrund von Vakanzen und Dienstabwesenheiten für haushaltsneutrale Umlagerungen zwischen Globalbudgets der Dienststellen verwenden.
 
 #### Art. 16
 
 **Umlagerung von Einzelkrediten**
 
-<sup>1</sup> Kreditumlagerungen im Sinne von Artikel 21 Absatz 1 Litera d des Finanzhaushaltsgesetzes innerhalb der Investitionsrechnung für den Ausbau der National-, Kantons- und Verbindungsstrassen können – pro Einheit – bis 300 000 Franken durch das Tiefbauamt und über 300 000 Franken durch das Departement genehmigt werden.
+<sup>1</sup> Kreditumlagerungen im Sinne von Artikel 21 Absatz 1 Litera d des Finanzhaushaltsgesetzes innerhalb der Investitionsrechnung für den Ausbau der National- und Kantonsstrassen können – pro Einheit – bis 300 000 Franken durch das Tiefbauamt und über 300 000 Franken durch das Departement genehmigt werden.
 
 <sup>2</sup> Kreditumlagerungen im Sinne von Artikel 21 Absatz 1 Litera d des Finanzhaushaltsgesetzes zwischen gleich lautenden Beitragskonten der Erfolgsrechnung und der Investitionsrechnung können – pro Einheit – bis 50 000 Franken durch die zuständige Dienststelle und über 50 000 Franken durch das Departement genehmigt werden.
 
@@ -312,7 +321,7 @@ von der Regierung erlassen am 25. September 2012
 
 **Vorfinanzierungen**
 
-<sup>1</sup> Die Bildung von Vorfinanzierungen (Reserven) benötigt einen separaten Beschluss des Grossen Rates. Sie ist auf Grossprojekte zu beschränken. Der Beschluss kann bei bereits genehmigten Vorhaben mit der Botschaft zum Budget oder zur Jahresrechnung beantragt werden. Ohne genehmigtes Vorhaben ist der Beschluss mit einer separaten Botschaft zu beantragen.
+<sup>1</sup> Die Bildung von Vorfinanzierungen benötigt einen Beschluss des Grossen Rates im Rahmen einer separaten Botschaft. Sie ist auf Grossprojekte zu beschränken.
 
 <sup>2</sup> Gebildete Vorfinanzierungen sind offen auszuweisen und bestimmungsgemäss zu verwenden. Sie sind zugunsten der Erfolgsrechnung aufzulösen, sobald die Voraussetzungen hinfällig sind.
 
@@ -368,13 +377,15 @@ von der Regierung erlassen am 25. September 2012
 - a) für Hochbauten nach der angenommenen Nutzungsdauer für das Gesamtgebäude, mindestens aber 2,5 Prozent;
 - b) für übrige Sachanlagen und immaterielle Anlagen 20 Prozent.
 
+<sup>4</sup> Allfällig vorfinanzierte Investitionen werden zu 100 Prozent abgeschrieben.
+
 #### Art. 29
 
 **Wertberichtigungen**
 
-<sup>1</sup> Ist bei einer Position des Finanz- oder des Verwaltungsvermögens eine dauerhafte Wertminderung absehbar, wird deren bilanzierter Wert berichtigt.
+<sup>1</sup> Ist bei einer Position des Finanz- oder des Verwaltungsvermögens eine Wertminderung absehbar, wird deren bilanzierter Wert berichtigt.
 
-<sup>2</sup> Dauerhaft ist die Wertminderung dann, wenn aller Voraussicht nach angenommen werden muss, dass der bilanzierte Wert auf absehbare Zeit nicht mehr erreicht werden kann, oder dann, wenn die Position durch Zerstörung, Alterung oder ähnliche Umstände den Wert teilweise oder ganz verloren hat beziehungsweise sie nicht mehr im bisherigen Ausmass genutzt werden kann.
+<sup>2</sup> …
 
 <sup>3</sup> Liegt bei den Forderungen ein Verlustrisiko vor, ist ein Delkredere zu bilden. Wesentliche Positionen bei Forderungen werden einzeln bewertet. Die übrigen Positionen können pauschal wertberichtigt werden. Der pauschale Wertberichtigungssatz beträgt in der Regel maximal fünf Prozent.
 
@@ -492,9 +503,13 @@ von der Regierung erlassen am 25. September 2012
 
 **Mitberichtsverfahren**
 
-<sup>1</sup> Neue Geschäfte, Antworten auf parlamentarische Vorstösse sowie Vernehmlassungsvorlagen mit namhaften Auswirkungen auf den Finanzhaushalt des Kantons oder der Gemeinden sowie grundsätzliche Fragen zur Anwendung des Finanzhaushaltsrechts und zur Regelung von finanziell relevanten Kompetenzen sind vor dem Beschluss dem Departement für Finanzen und Gemeinden für eine Vorprüfung zuzustellen. Davon ausgenommen sind Geschäfte im Rahmen des Budgetvollzugs.
+<sup>1</sup> Finanzrechtlich relevante Geschäfte oder Geschäfte der Regierung, Antworten auf parlamentarische Vorstösse sowie Vernehmlassungsvorlagen mit namhaften Auswirkungen auf den Finanzhaushalt des Kantons oder der Gemeinden sind durch das antragstellende Departement vor dem Regierungsbeschluss dem Departement für Finanzen und Gemeinden für eine Vorprüfung zuzustellen. Vom Mitberichtsverfahren ausgenommen sind Geschäfte im Rahmen des Budgetvollzugs.
 
-<sup>2</sup> Für das Mitberichtsverfahren sind dem Departement für Finanzen und Gemeinden in der Regel zwei Wochen, im Zusammenhang mit Botschaften vier Wochen einzuräumen.
+<sup>2</sup> Für das Mitberichtsverfahren sind dem Departement für Finanzen und Gemeinden in der Regel zwei Wochen, im Zusammenhang mit Vernehmlassungsvorlagen und Botschaften an den Grossen Rat vier Wochen einzuräumen.
+
+<sup>3</sup> Der Mitbericht wird den Antragsakten zum Geschäft der Regierung beigefügt.
+
+<sup>4</sup> Das Departement für Finanzen und Gemeinden ist im Übrigen bei grundsätzlichen Fragen zur Anwendung des Finanzhaushaltsrechts und bei der Neuregelung von namhaften Finanzkompetenzen zu konsultieren.
 
 #### Art. 39
 
@@ -557,11 +572,11 @@ von der Regierung erlassen am 25. September 2012
 
 <sup>1</sup> Die Ausgabenkompetenz ist das Recht, im Rahmen der genehmigten Budgetkredite finanzielle Verpflichtungen einzugehen. Sie steht der Regierung zu, soweit sie nicht durch die nachstehenden Absätze, durch Rechtserlass oder im Einzelfall durch Regierungsbeschluss für eine konkrete Verpflichtung delegiert ist.
 
-<sup>2</sup> Die Departemente beschliessen einmalige Verpflichtungen bis 300 000 Franken pro Einheit und jährlich wiederkehrende Verpflichtungen über drei und mehr Jahre bis 100 000 Franken pro Einheit und Jahr. Verpflichtungen, die zur Schadenabwehr unerlässlich sind, können die Departemente ohne Betragslimite beschliessen.
+<sup>2</sup> Die Departemente beschliessen einmalige Verpflichtungen bis 500 000 Franken pro Einheit und jährlich wiederkehrende Verpflichtungen über drei und mehr Jahre bis 200 000 Franken pro Einheit und Jahr. Verpflichtungen, die zur Schadenabwehr unerlässlich sind, können die Departemente ohne Betragslimite beschliessen.
 
-<sup>3</sup> Die Dienststellen beschliessen einmalige Verpflichtungen bis 50 000 Franken pro Einheit und jährlich wiederkehrende Verpflichtungen über drei und mehr Jahre bis 20 000 Franken pro Einheit und Jahr. Sie sind ohne Betragslimiten zuständig für nachtragskreditbefreite Verpflichtungen gemäss Artikel 20 Absatz 3 Litera a und Litera b des Finanzhaushaltsgesetzes.
+<sup>3</sup> Die Dienststellen beschliessen einmalige Verpflichtungen bis 100 000 Franken pro Einheit und jährlich wiederkehrende Verpflichtungen über drei und mehr Jahre bis 40 000 Franken pro Einheit und Jahr. Sie sind ohne Betragslimiten zuständig für nachtragskreditbefreite Verpflichtungen gemäss Artikel 20 Absatz 3 Litera a und Litera b des Finanzhaushaltsgesetzes.
 
-<sup>4</sup> Ohne anderslautende Bestimmungen ab der Stufe der Departemente gelten die Kompetenzen gemäss Absatz 3 auch für Bilanzkonten. Für Ausgaben der Spezialfinanzierung Strassen verdoppeln sich die Beträge.
+<sup>4</sup> Ohne anderslautende Bestimmungen ab der Stufe der Departemente gelten die Kompetenzen gemäss Absatz 3 auch für Bilanzkonten. Für Ausgaben der Spezialfinanzierung Strassen verdoppeln sich die Beträge. Für Ausgaben im Rahmen von Programmvereinbarungen der Regierung mit dem Bund sind die Dienststellen bis zu den Limiten gemäss Absatz 2 und die Departemente ohne Betragslimiten zuständig.
 
 <sup>5</sup> Wird eine ursprünglich genehmigte Verpflichtung bis höchstens zehn Prozent überschritten, bestimmt sich die Zuständigkeit zur Genehmigung der Zusatzverpflichtung nach Absatz 2 bis Absatz 4. Ansonsten sind die Gesamtausgaben inklusive der Zusatzverpflichtung für die Bestimmung der Zuständigkeit massgebend.
 
@@ -617,11 +632,11 @@ von der Regierung erlassen am 25. September 2012
 
 **Berechtigte Personen**
 
-<sup>1</sup> Die Dienststellenleitenden und Stellvertretenden sind für ihren Bereich ausgabenberechtigt. Die Departemente können diese Berechtigung ganz oder teilweise auch anderen Mitarbeitenden gewähren.
+<sup>1</sup> Die Dienststellenleitenden und Stellvertretenden sind für ihren Bereich ausgabenberechtigt. Die Dienststellenleitenden und Stellvertretenden sowie die für die Departemente beziehungsweise für die Standeskanzlei ausgabenberechtigten Personen gemäss Absatz 2 können diese Berechtigung ganz oder teilweise auch anderen Mitarbeitenden gewähren.
 
-<sup>2</sup> Die Departementsvorstehenden, die Departementssekretärinnen und Departementssekretäre sowie die Kanzleidirektion sind für das Departement beziehungsweise die Standeskanzlei sowie für alle ihnen unterstellten Dienststellen und Bereiche ausgabenberechtigt.
+<sup>2</sup> Die Departementsvorstehenden, die Generalsekretärinnen und Generalsekretäre sowie die Kanzleidirektorin oder der Kanzleidirektor sind für das Departement beziehungsweise für die Standeskanzlei sowie für alle ihnen unterstellten Dienststellen und Bereiche ausgabenberechtigt. Die Departemente beziehungsweise die Standeskanzlei können diese Berechtigung ganz oder teilweise auch anderen Mitarbeitenden gewähren.
 
-<sup>3</sup> Wer durch eine Ausgabe begünstigt wird, ist für diesen Fall nicht ausgaben- und anweisungsberechtigt. Wer eine Ausgabe genehmigt oder eine Leistung alleine bestellt hat, ist für diesen Fall nicht anweisungsberechtigt.
+<sup>3</sup> Wer durch eine Ausgabe begünstigt wird, ist für diesen Fall nicht ausgaben- und anweisungsberechtigt.
 
 <sup>4</sup> …
 
@@ -639,9 +654,9 @@ von der Regierung erlassen am 25. September 2012
 
 **Buchungsbelege**
 
-<sup>1</sup> Jeder Auszahlungsbeleg erfordert die Unterschriften von zwei Personen. Er muss neben der Bestätigung der materiellen und rechnerischen Richtigkeit die Unterschrift einer anweisungsberechtigten Person tragen. Diese bestätigt mit ihrer Unterschrift, dass die Ausgabe vorgängig korrekt genehmigt worden ist. Liegt der genehmigte Betrag über der Limite gemäss Artikel 44, ist die entsprechende Delegationsgrundlage anzugeben.
+<sup>1</sup> Jeder Auszahlungsbeleg erfordert die Unterschrift oder elektronische Genehmigung von zwei Personen. Er muss neben der Bestätigung der materiellen und rechnerischen Richtigkeit die Unterschrift oder elektronische Genehmigung einer anweisungsberechtigten Person tragen. Diese bestätigt mit ihrer Unterschrift oder elektronischen Genehmigung, dass die Ausgabe vorgängig korrekt genehmigt worden ist. Liegt der genehmigte Betrag über der Limite gemäss Artikel 44, ist die entsprechende Delegationsgrundlage anzugeben.
 
-<sup>2</sup> Einnahmenbelege bedürfen grundsätzlich der Unterschrift einer anweisungsberechtigten Person.
+<sup>2</sup> Einnahmenbelege bedürfen grundsätzlich der Unterschrift oder der elektronischen Genehmigung einer anweisungsberechtigten Person.
 
 <sup>3</sup> Der elektronische Beleg ist dem Beleg in Papierform gleichgestellt.
 
