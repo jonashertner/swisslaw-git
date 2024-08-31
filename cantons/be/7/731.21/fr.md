@@ -4,13 +4,12 @@ number: "731.21"
 title: Ordonnance concernant l’accord intercantonal sur les marchés publics
 short: OAIMP
 language: fr
-version: 2024-01-01
-valid_until: 2024-08-31
-version_adopted: 2023-10-25
+version: 2024-09-01
+version_adopted: 2024-08-28
 adopted: 2021-11-17
 in_force: 2022-02-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/731.21"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2894/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3059/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2894/pdf_file"
 
 (OAIMP)
 
-du 17.11.2021 (état au 01.01.2024)
+du 17.11.2021 (état au 01.09.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -115,6 +114,57 @@ arrête:
 <sup>3</sup> L'adjudicateur peut demander d'autres justificatifs compte tenu du marché concret.
 
 <sup>4</sup> Les soumissionnaires peuvent demander au Bureau central de coordination des achats (BCCA) d’établir un certificat attestant qu’ils ont fourni les justificatifs requis à l’annexe 1. Ces justificatifs doivent être remis, et le certificat doit être établi, sous forme numérique. Celui-ci est valable jusqu'à la limite de validité de l'un des justificatifs conformément à l'annexe 1.
+
+## 2a Contrôles de l'égalité salariale
+
+#### Art. 7a
+
+**Déroulement des contrôles de l'égalité salariale**
+
+<sup>1</sup> Le Bureau de l'égalité entre la femme et l'homme (BEFH) procède à des contrôles de l'égalité salariale entre femmes et hommes, afin de s'assurer qu'elle est respectée. Il peut en confier la réalisation à un tiers.
+
+<sup>2</sup> Les soumissionnaires à contrôler sont sélectionnés par échantillonnage aléatoire parmi les adjudications publiées.
+
+<sup>3</sup> Jusqu'à fin 2028, les soumissionnaires à contrôler sont sélectionnés parmi les adjudications du canton. À partir de 2029, après évaluation des contrôles de l'égalité salariale, le BEFH peut les sélectionner parmi les adjudications attribuées par tout service adjudicateur relevant de l'AIMP.
+
+<sup>4</sup> Les contrôles de l'égalité salariale sont réalisés avec « Logib », l'outil d'analyse standard de la Confédération.
+
+#### Art. 7b
+
+**Respect de la valeur limite**
+
+<sup>1</sup> Si le contrôle de l'égalité salariale établit que la valeur limite définie dans « Logib » n'est pas dépassée, le BEFH confirme au soumissionnaire qu'il respecte les exigences d'égalité salariale entre femmes et hommes.
+
+#### Art. 7c
+
+**Dépassement de la valeur limite**
+
+<sup>1</sup> Si le contrôle de l'égalité salariale établit que la valeur limite définie dans « Logib » est dépassée ou s'il ne peut pas être mené à bien faute de coopération suffisante du soumissionnaire, le BEFH impartit un délai adéquat à ce dernier pour prendre des mesures correctives et apporter la preuve qualifiée qu'il respecte l'égalité salariale. À cet effet, le soumissionnaire doit faire réaliser une nouvelle analyse de ses données salariales avec « Logib » par une spécialiste reconnue ou un spécialiste reconnu par le BEFH.
+
+<sup>2</sup> Si le soumissionnaire apporte la preuve qualifiée dans le délai imparti, le BEFH lui confirme qu'il respecte les exigences d'égalité salariale entre femmes et hommes.
+
+<sup>3</sup> Le résultat du contrôle de l'égalité salariale n'est pas satisfaisant dans l'un ou l'autre des cas suivants:
+
+- a le soumissionnaire n'agit pas dans le délai prévu à l'alinéa 1;
+- b la nouvelle analyse des données salariales n'est pas réalisée conformément à l'alinéa 1;
+- c la nouvelle analyse des données établit à nouveau un dépassement de la valeur limite définie dans « Logib ».
+
+<sup>4</sup> Si le résultat du contrôle de l'égalité salariale réalisé auprès d'un soumissionnaire n'est pas satisfaisant, l'adjudicateur arrête des mesures conformément aux articles 44 et 45 AIMP.
+
+<sup>5</sup> L'adjudicateur informe le BEFH des mesures arrêtées.
+
+#### Art. 7d
+
+**Information au sujet des contrôles de l'égalité salariale**
+
+<sup>1</sup> Le BEFH informe les adjudicateurs et le BCCA
+
+- a des contrôles de l'égalité salariale engagés,
+- b des preuves qualifiées exigées en cas de dépassement de la valeur limite,
+- c des contrôles de l'égalité salariale terminés et
+- d des résultats des contrôles.
+
+<sup>2</sup> Les autorités informent le public des contrôles et de leurs résultats de manière générale.
 
 ## 3 Procédure d'adjudication
 
@@ -349,7 +399,7 @@ arrête:
 <tr><td>3</td><td>Assujettissement à l’impôt (y compris la taxe sur la valeur ajoutée)</td><td>Tous les soumissionnaires</td><td>Pas de créances fiscales échues de la Confédération, des cantons ou des communes</td><td>Attestations: 1. des autorités fiscales du siège social de l’entreprise et 2. des autorités fédérales compétentes pour la TVA</td><td>1 an</td></tr>
 <tr><td>4</td><td>Stabilité financière</td><td>Tous les soumissionnaires</td><td>Pas de procédure de saisie ou de faillite en cours ; pas d’actes de défaut de biens non encore prescrits</td><td>Extrait du registre des poursuites</td><td>1 an</td></tr>
 <tr><td>5</td><td>Travail au noir</td><td>Tous les soumissionnaires</td><td>Respect des obligations en matière d’annonce et d’autorisation prévues dans la loi fédérale du 17 juin 2005 sur le travail au noir (LTN)[^A11-1]</td><td>1. Déclaration spontanée sur le formulaire du BCCA, 2. Le soumissionnaire ne figure pas sur la liste du Secrétariat d’Etat à l’économie (www.seco.admin.ch) des employeurs faisant l’objet d’une décision entrée en force d’exclusion des marchés publics selon l’article 13 LTN.</td><td>Date de l'offre</td></tr>
-<tr><td>6</td><td>Egalité salariale entre femmes et hommes</td><td>a. Employeurs ayant l’obligation d’effectuer une analyse de l’égalité des salaires en vertu des articles 13a et 13b de la loi fédérale du 24 mars 1995 sur l’égalité entre femmes et hommes (loi sur l’égalité, LEg)[^A11-2]</td><td>L'égalité salariale est garantie. Une analyse de l'égalité salariale, réalisée avec l'outil d'analyse standard de la Confédération «Logib», doit montrer que le seuil de tolérance n'est pas dépassé.</td><td>1. Analyse de l’égalité des salaires conformément aux articles 13a ss LEg et 2. Justificatif de vérification de l’analyse si cette vérification est nécessaire en vertu de l’article 13d LEg ou 3. Attestation de contrôle d’un organe de l’Etat conformément à l’article 13b LEg.</td><td>Conformément à l'article 13a, alinéas 2 et 3 LEg ou à l'article 13b, lettre c LEg</td></tr>
+<tr><td>6</td><td>Egalité salariale entre femmes et hommes</td><td>a. Employeurs ayant l’obligation d’effectuer une analyse de l’égalité des salaires en vertu des articles 13a et 13b de la loi fédérale du 24 mars 1995 sur l’égalité entre femmes et hommes (loi sur l’égalité, LEg)[^A11-2]</td><td>L'égalité salariale est garantie. Une analyse de l'égalité salariale, réalisée avec l'outil d'analyse standard de la Confédération « Logib », doit montrer que la valeur limite n'est pas dépassée.</td><td>1. Analyse de l’égalité des salaires conformément aux articles 13a ss LEg et 2. Compte rendu de la vérification de l'analyse de l'égalité des salaires par un organe indépendant en vertu de l’article 13d LEg ou 3. Attestation de contrôle d’un organe de l’Etat conformément à l’article 13b LEg, à l'article 7b OAIMP ou à l'article 7c, alinéa 2 OAIMP.</td><td>Conformément à l'article 13a, alinéas 2 et 3 LEg ou à l'article 13b, lettre c LEg</td></tr>
 <tr><td></td><td></td><td>b. Autres soumissionnaires</td><td>L'égalité salariale est garantie.</td><td>Déclaration spontanée sur le formulaire du BCCA</td><td>Date de l'offre</td></tr>
 <tr><td>7</td><td>Autres conditions de participation ou obligations des soumissionnaires prévues par la loi</td><td>Tous les soumissionnaires</td><td>Selon le formulaire de déclaration spontanée du BCCA</td><td>Déclaration spontanée sur le formulaire du BCCA</td><td>Date de l'offre</td></tr>
 </table>

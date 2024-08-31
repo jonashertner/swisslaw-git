@@ -4,13 +4,12 @@ number: "731.21"
 title: Verordnung zur Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen
 short: IVöBV
 language: de
-version: 2024-01-01
-valid_until: 2024-08-31
-version_adopted: 2023-10-25
+version: 2024-09-01
+version_adopted: 2024-08-28
 adopted: 2021-11-17
 in_force: 2022-02-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/731.21"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2894/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3059/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2894/pdf_file"
 
 (IVöBV)
 
-vom 17.11.2021 (Stand 01.01.2024)
+vom 17.11.2021 (Stand 01.09.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -115,6 +114,57 @@ beschliesst:
 <sup>3</sup> Der Auftraggeber kann unter Berücksichtigung des konkreten Auftrags weitere Nachweise einfordern.
 
 <sup>4</sup> Anbieter können bei der Zentralen Koordinationsstelle Beschaffung (ZKB) ein Zertifikat über das Erbringen der Nachweise gemäss Anhang 1 beziehen. Die Nachweise sind in digitaler Form einzureichen, und das Zertifikat wird in digitaler Form ausgestellt. Es gilt bis zum Erreichen des Höchstalters eines der Nachweise gemäss Anhang 1.
+
+## 2a Lohngleichheitskontrollen
+
+#### Art. 7a
+
+**Durchführung von Lohngleichheitskontrollen**
+
+<sup>1</sup> Zur Sicherstellung der Gleichbehandlung von Frau und Mann in Bezug auf die Lohngleichheit führt die Fachstelle für die Gleichstellung von Frauen und Männern (FGS) Lohngleichheitskontrollen durch. Die FGS kann Dritte mit der Durchführung der Lohngleichheitskontrollen beauftragen.
+
+<sup>2</sup> Die Auswahl der zu kontrollierenden Anbieter erfolgt nach dem Zufallsprinzip aus den veröffentlichten Zuschlägen.
+
+<sup>3</sup> Bis und mit dem Jahr 2028 erfolgt die Auswahl aus den Zuschlägen des Kantons. Ab dem Jahr 2029 kann die FGS nach einer Evaluation der Lohngleichheitskontrollen die zu kontrollierenden Anbieter aus den Zuschlägen aller der IVöB unterstehenden Auftraggeber auswählen.
+
+<sup>4</sup> Für die Lohngleichheitskontrollen wird das Standard-Analyse-Tool «Logib» des Bundes verwendet.
+
+#### Art. 7b
+
+**Einhaltung des Grenzwerts**
+
+<sup>1</sup> Ergibt die Lohngleichheitskontrolle keine Überschreitung des Grenzwerts gemäss «Logib», bestätigt die FGS dem Anbieter, dass er die Anforderungen an die Lohngleichheit von Frau und Mann einhält.
+
+#### Art. 7c
+
+**Überschreitung des Grenzwerts**
+
+<sup>1</sup> Ergibt die Lohngleichheitskontrolle eine Überschreitung des Grenzwerts gemäss «Logib» oder muss die Überprüfung aufgrund der ungenügenden Mitwirkung des Anbieters abgebrochen werden, setzt die FGS dem Anbieter eine angemessene Frist für Korrekturmassnahmen sowie für die Einreichung eines qualifizierten Nachweises über die Einhaltung der Lohngleichheit. Dazu muss er die Analyse der Lohndaten mit «Logib» durch eine von der FGS anerkannte Fachperson erneut durchführen.
+
+<sup>2</sup> Erbringt der Anbieter den qualifizierten Nachweis fristgerecht, bestätigt ihm die FGS, dass er die Anforderungen an die Lohngleichheit von Frau und Mann einhält.
+
+<sup>3</sup> Die Lohngleichheitskontrolle ist nicht bestanden, wenn
+
+- a der Anbieter die Frist gemäss Absatz 1 ungenutzt verstreichen lässt,
+- b die erneute Analyse der Lohndaten nicht gemäss Absatz 1 durchgeführt worden ist oder
+- c sie weiterhin eine Überschreitung des Grenzwerts gemäss «Logib» aufzeigt.
+
+<sup>4</sup> Besteht ein Anbieter die Lohngleichheitskontrolle nicht, entscheidet der Auftraggeber über Massnahmen gemäss Artikel 44 und 45 IVöB.
+
+<sup>5</sup> Der Auftraggeber informiert die FGS über die getroffenen Massnahmen.
+
+#### Art. 7d
+
+**Information über die Lohngleichheitskontrollen**
+
+<sup>1</sup> Die FGS informiert die Auftraggeber und die ZKB über
+
+- a die eingeleiteten Lohngleichheitskontrollen,
+- b die Einforderung von qualifizierten Nachweisen infolge der Überschreitung des Grenzwerts,
+- c die abgeschlossenen Lohngleichheitskontrollen sowie
+- d die Kontrollergebnisse.
+
+<sup>2</sup> Die Behörden informieren die Öffentlichkeit in allgemeiner Weise über die Kontrollen und deren Ergebnisse.
 
 ## 3 Vergabeverfahren
 
@@ -349,7 +399,7 @@ beschliesst:
 <tr><td>3</td><td>Steuerpflicht einschliesslich Mehrwertsteuerpflicht</td><td>Alle Anbieter</td><td>Keine fälligen Steuerforderungen des Bundes, der Kantone und der Gemeinden.</td><td>Bestätigungen: 1. der Steuerbehörde am Geschäftssitz, 2. der für die Mehrwertsteuer zuständigen Bundesbehörde.</td><td>1 Jahr</td></tr>
 <tr><td>4</td><td>Finanzielle Stabilität</td><td>Alle Anbieter</td><td>Kein laufendes Pfändungs- oder Konkursverfahren und keine nicht verjährten Verlustscheine.</td><td>Auszug aus dem Betreibungsregister</td><td>1 Jahr</td></tr>
 <tr><td>5</td><td>Keine Schwarzarbeit</td><td>Alle Anbieter</td><td>Einhalten der Melde- und Bewilligungspflichten nach dem Bundesgesetz vom 17. Juni 2005 über Massnahmen zur Bekämpfung der Schwarzarbeit (Bundesgesetz gegen die Schwarzarbeit, BGSA)[^A11-1].</td><td>1. Selbstdeklaration auf dem Formular der ZKB, 2. der Anbieter ist auf der Liste der rechtskräftig sanktionierten Arbeitgeberinnen und Arbeitgeber gemäss Art. 13 BGSA des Staatssekretariates für Wirtschaft (www.seco.admin.ch) nicht verzeichnet.</td><td>Datum des Angebots</td></tr>
-<tr><td>6</td><td>Lohngleichheit für Frauen und Männer</td><td>a. Arbeitgeberinnen und Arbeitgeber, die gemäss Art. 13a und 13b des Bundesgesetzes vom 24. März 1995 über die Gleichstellung von Frau und Mann (Gleichstellungsgesetz, GlG)[^A11-2] zur Durchführung einer Lohngleichheitsanalyse verpflichtet sind</td><td>Die Lohngleichheit ist gewährleistet. Bei einer Lohngleichheitsanalyse mit dem Standard Analyse-Tool des Bundes «Logib» darf die Analyse nicht ergeben, dass die Toleranzschwelle überschritten ist.</td><td>1. Lohngleichheitsanalyse gemäss Art. 13a ff. GlG und 2. wenn gemäss Art. 13d GlG die Überprüfung der Lohngleichheitsanalyse erforderlich ist, der Bericht der unabhängigen Stelle darüber; oder 3. Kontrollbestätigung einer staatlichen Stelle gemäss Art. 13b GlG.</td><td>Gemäss Art. 13a Abs. 2 und 3 GlG bzw. Art. 13b Bst. c GlG</td></tr>
+<tr><td>6</td><td>Lohngleichheit für Frauen und Männer</td><td>a. Arbeitgeberinnen und Arbeitgeber, die gemäss Art. 13a und 13b des Bundesgesetzes vom 24. März 1995 über die Gleichstellung von Frau und Mann (Gleichstellungsgesetz, GlG)[^A11-2] zur Durchführung einer Lohngleichheitsanalyse verpflichtet sind</td><td>Die Lohngleichheit ist gewährleistet. Bei einer Lohngleichheitsanalyse mit dem Standard Analyse-Tool des Bundes «Logib» darf die Analyse nicht ergeben, dass der Grenzwert überschritten ist.</td><td>1. Lohngleichheitsanalyse gemäss Art. 13a ff. GlG und 2. wenn gemäss Art. 13d GlG die Überprüfung der Lohngleichheitsanalyse erforderlich ist, der Bericht der unabhängigen Stelle darüber; oder 3. Kontrollbestätigung einer staatlichen Stelle gemäss Art. 13b GlG, Art. 7b IVöBV oder Art. 7c Abs. 2 IVöBV.</td><td>Gemäss Art. 13a Abs. 2 und 3 GlG bzw. Art. 13b Bst. c GlG</td></tr>
 <tr><td></td><td></td><td>b. Andere Anbieter</td><td>Die Lohngleichheit ist gewährleistet.</td><td>Selbstdeklaration auf dem Formular der ZKB</td><td>Datum des Angebots</td></tr>
 <tr><td>7</td><td>Weitere gesetzliche Teilnahmevoraussetzungen oder Verpflichtungen des Anbieters</td><td>Alle Anbieter</td><td>Gemäss dem Selbstdeklarationsformular der ZKB</td><td>Selbstdeklaration auf dem Formular der ZKB</td><td>Datum des Angebots</td></tr>
 </table>
