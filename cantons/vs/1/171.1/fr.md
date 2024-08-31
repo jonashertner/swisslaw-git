@@ -4,13 +4,12 @@ number: "171.1"
 title: "Loi sur l'organisation des Conseils et les rapports entre les pouvoirs"
 short: LOCRP
 language: fr
-version: 2023-01-01
-valid_until: 2024-08-31
-version_adopted: 2022-03-10
+version: 2024-09-01
+version_adopted: 2024-05-16
 adopted: 1996-03-28
 in_force: 1997-03-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/171.1"
-pdf: "https://lex.vs.ch/api/fr/versions/3357/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3358/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3357/pdf_file"
 
 (LOCRP)
 
-du 28.03.1996 (état 01.01.2023)
+du 28.03.1996 (état 01.09.2024)
 
 Le Grand Conseil du canton du Valais
 
@@ -1186,6 +1185,8 @@ ordonne:
 <sup>2</sup> Le bureau décide, après avoir entendu le Conseil d'Etat, si l'intervention doit être traitée d'urgence.
 
 <sup>3</sup> Si l'urgence est décidée, l'intervention est traitée durant la même session.
+
+<sup>4</sup> Si l'urgence est refusée, l'intervention est classée.
 
 #### Art. 107
 

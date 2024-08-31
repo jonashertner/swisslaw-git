@@ -4,13 +4,12 @@ number: "171.1"
 title: Gesetz über die Organisation der Räte und die Beziehungen zwischen den Gewalten
 short: GORBG
 language: de
-version: 2023-01-01
-valid_until: 2024-08-31
-version_adopted: 2022-03-10
+version: 2024-09-01
+version_adopted: 2024-05-16
 adopted: 1996-03-28
 in_force: 1997-03-01
 url: "https://lex.vs.ch/app/de/texts_of_law/171.1"
-pdf: "https://lex.vs.ch/api/de/versions/3357/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3358/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3357/pdf_file"
 
 (GORBG)
 
-vom 28.03.1996 (Stand 01.01.2023)
+vom 28.03.1996 (Stand 01.09.2024)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -1186,6 +1185,8 @@ verordnet:
 <sup>2</sup> Das Büro entscheidet nach Anhören des Staatsrates, ob der Vorstoss als dringlich zu behandeln ist.
 
 <sup>3</sup> Ist Dringlichkeit beschlossen, wird der Vorstoss in der gleichen Session behandelt.
+
+<sup>4</sup> Wird die Dringlichkeit nicht anerkannt, wird der Vorstoss abgeschrieben.
 
 #### Art. 107
 
