@@ -4,13 +4,13 @@ number: "170.140"
 title: Regolamento organico del Gran Consiglio
 short: ROGC
 language: it
-version: 2023-10-01
-valid_until: 2024-08-31
-version_adopted: 2022-06-14
+version: 2024-09-01
+valid_until: 2024-12-31
+version_adopted: 2024-08-30
 adopted: 2005-12-08
 in_force: 2006-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/170.140"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3313/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3467/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3313/pdf_file"
 
 (ROGC)
 
-del 08.12.2005 (stato 01.10.2023)
+del 08.12.2005 (stato 01.09.2024)
 
 Il Gran Consiglio del Cantone dei Grigioni[^ingress-1],
 
@@ -528,6 +528,12 @@ decide:
 <sup>2</sup> Oltre all'indennità per spese di viaggio conformemente al capoverso 1, ai deputati in Gran Consiglio viene corrisposta un'indennità per tempo di trasferta dello stesso ammontare.
 
 <sup>3</sup> Ai granconsiglieri che viaggiano come passeggeri in un'automobile condivisa viene corrisposta un'indennità per tempo di trasferta pari all'indennità per chilometro conformemente al capoverso 1.
+
+#### Art. 40a
+
+**Forfetaria per l'informatica**
+
+<sup>1</sup> I membri del Gran Consiglio ricevono un indennizzo forfetario di 300 franchi per anno di carica quale contributo per le loro spese informatiche.
 
 ### 2.6.2. Commissioni
 

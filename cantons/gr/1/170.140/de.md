@@ -4,13 +4,13 @@ number: "170.140"
 title: Geschäftsordnung des Grossen Rates
 short: GGO
 language: de
-version: 2023-10-01
-valid_until: 2024-08-31
-version_adopted: 2022-06-14
+version: 2024-09-01
+valid_until: 2024-12-31
+version_adopted: 2024-08-30
 adopted: 2005-12-08
 in_force: 2006-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/170.140"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3313/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3467/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3313/pdf_file"
 
 (GGO)
 
-Vom 08.12.2005 (Stand 01.10.2023)
+Vom 08.12.2005 (Stand 01.09.2024)
 
 Der Grosse Rat des Kantons Graubünden[^ingress-1],
 
@@ -528,6 +528,12 @@ beschliesst:
 <sup>2</sup> Die Mitglieder des Grossen Rates erhalten zusätzlich zur Reisekostenentschädigung gemäss Absatz 1 eine Reisezeitentschädigung in gleicher Höhe.
 
 <sup>3</sup> Die Mitfahrerinnen und Mitfahrer in einer Fahrgemeinschaft erhalten eine Reisezeitentschädigung in der Höhe der Kilometerentschädigung gemäss Absatz 1.
+
+#### Art. 40a
+
+**Informatikpauschale**
+
+<sup>1</sup> Die Mitglieder des Grossen Rates erhalten eine pauschale Entschädigung von 300 Franken je Amtsjahr als Beitrag an ihre Informatikauslagen.
 
 ### 2.6.2. Kommissionen
 

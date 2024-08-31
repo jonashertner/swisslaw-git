@@ -4,13 +4,13 @@ number: "170.140"
 title: Urden da gestiun dal cussegl grond
 short: UGCG
 language: rm
-version: 2023-10-01
-valid_until: 2024-08-31
-version_adopted: 2022-06-14
+version: 2024-09-01
+valid_until: 2024-12-31
+version_adopted: 2024-08-30
 adopted: 2005-12-08
 in_force: 2006-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/170.140"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3313/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3467/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3313/pdf_file"
 
 (UGCG)
 
-dals 08-12-2005 (versiun dals 01-10-2023)
+dals 08-12-2005 (versiun dals 01-09-2024)
 
 Il cussegl grond dal chantun Grischun[^ingress-1],
 
@@ -530,6 +530,12 @@ concluda:
 <sup>2</sup> Ultra da l'indemnisaziun dals custs da viadi tenor l'alinea 1 survegnan las commembras ed ils commembers dal cussegl grond ina indemnisaziun dal temp da viadi en la medema autezza.
 
 <sup>3</sup> Tgi che viagescha sco passagiera u passagier en ina cuminanza da viadi survegn ina indemnisaziun dal temp da viadi en l'autezza da l'indemnisaziun per kilometer tenor l'alinea 1.
+
+#### Art. 40a
+
+**Pauschala per l'informatica**
+
+<sup>1</sup> Las commembras ed ils commembers dal Cussegl grond survegnan ina indemnisaziun pauschala da 300 francs per onn d'uffizi sco contribuziun a lur expensas d'informatica.
 
 ### 2.6.2. Cumissiuns
 
