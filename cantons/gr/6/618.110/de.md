@@ -2,38 +2,39 @@
 canton: GR
 number: "618.110"
 title: Verordnung zum Einführungsgesetz zur Ausländer- und Asylgesetzgebung
-short: RVzEGzAAG)
+short: RVzEGzAAG
 language: de
-version: 2012-12-01
-corrected: 2014-10-26
-version_adopted: 2012-09-25
+version: 2024-09-01
+version_adopted: 2024-08-20
 adopted: 2009-06-30
 in_force: 2009-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/618.110"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/1584/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3849/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung zum Einführungsgesetz zur Ausländer- und Asylgesetzgebung (RVzEGzAAG)
+# Verordnung zum Einführungsgesetz zur Ausländer- und Asylgesetzgebung
 
-Gestützt auf Art. 45 der Kantonsverfassung[^t-1]
+(RVzEGzAAG)
+
+Vom 30.06.2009 (Stand 01.09.2024)
+
+Gestützt auf Art. 45 der Kantonsverfassung[^ingress-1]
 
 von der Regierung erlassen am 30. Juni 2009
 
-I. Zuständigkeiten
+[^ingress-1]: BR [110.100](https://www.gr-lex.gr.ch/data/110.100/de)
 
-[^t-1]: BR 110.100
-[^t-2]: Fassung gemäss Teilrevision der Regierungs- und Verwaltungsorganisationsverordnung, BR 170.310; am 1. November 2012 in Kraft getreten.
+## 1. Zuständigkeiten
 
 #### Art. 1
 
-**Amt für Migration und Zivilrecht 1. Grundsatz 3)**[^t-2]
+**Amt für Migration und Zivilrecht 1. Grundsatz**
 
-Das Amt für Migration und Zivilrecht Graubünden (Amt) ist die zuständige Dienststelle im Sinne des Einführungsgesetzes zur Ausländer- und Asylgesetzgebung des Bundes[^1-1] und dessen Gesetzgebung, sofern die Aufgaben nicht ausdrücklich einer anderen Dienststelle zugewiesen werden.
+<sup>1</sup> Das Amt für Migration und Zivilrecht Graubünden (Amt) ist die zuständige Dienststelle im Sinne des Einführungsgesetzes zur Ausländer- und Asylgesetzgebung des Bundes[^1-1] und dessen Gesetzgebung, sofern die Aufgaben nicht ausdrücklich einer anderen Dienststelle zugewiesen werden.
 
-[^1-1]: BR 618.100 01.12.2012 1
+[^1-1]: BR [618.100](https://www.gr-lex.gr.ch/data/618.100/de)
 
 #### Art. 2
 
@@ -47,10 +48,10 @@ Das Amt für Migration und Zivilrecht Graubünden (Amt) ist die zuständige Dien
 
 **3. Fachstelle Integration**
 
-<sup>1</sup> Das Amt führt eine Fachstelle Integration, welche a) die Regierung in Integrationsfragen berät;
+<sup>1</sup> Das Amt führt eine Fachstelle Integration, welche:
 
+- a) die Regierung in Integrationsfragen berät;
 - b) die Integrationsaufgaben des Amtes und der kantonalen Integrationsstrategie umsetzt;
-
 - c) die kantonalen Behörden und die Gemeinden bei der Umsetzung ihrer Integrationsaufgaben berät und unterstützt.
 
 <sup>2</sup> Die Fachstelle ist Anlaufstelle für Integrationsfragen von Migrantinnen und Migranten, kantonalen und kommunalen Behörden, im Integrationsbereich tätigen Institutionen sowie Dritten.
@@ -59,21 +60,21 @@ Das Amt für Migration und Zivilrecht Graubünden (Amt) ist die zuständige Dien
 
 **4. Rückkehrberatungsstelle**
 
-Das Amt führt eine Rückkehrberatungsstelle, welche a) die Rückkehrberatung durchführt;
+<sup>1</sup> Das Amt führt eine Rückkehrberatungsstelle, welche:
 
+- a) die Rückkehrberatung durchführt;
 - b) die finanzielle Rückkehrhilfe des Kantons ausrichtet;
-
 - c) Antrag um finanzielle Rückkehrhilfe des Bundes stellt.
 
 #### Art. 5
 
 **Arbeitsmarktbehörde**
 
-<sup>1</sup> Das Kantonale Amt für Industrie, Gewerbe und Arbeit ist die zuständige Arbeitsmarktbehörde.
+<sup>1</sup> Das Amt für Arbeit ist die zuständige Arbeitsmarktbehörde.
 
 <sup>2</sup> Die Arbeitsmarktbehörde kann dem Amt mit Vereinbarung Aufgaben ganz oder teilweise übertragen.
 
-### II. Verfahren um Erteilung von Bewilligungen zum Aufenthalt
+## 2. Verfahren um Erteilung von Bewilligungen zum Aufenthalt
 
 #### Art. 6
 
@@ -95,7 +96,7 @@ Das Amt führt eine Rückkehrberatungsstelle, welche a) die Rückkehrberatung du
 
 **Arbeitsmarktliche Überprüfung**
 
-Das Amt leitet Gesuche, bei denen eine arbeitsmarktliche Prüfung notwendig ist, der Arbeitsmarktbehörde weiter.
+<sup>1</sup> Das Amt leitet Gesuche, bei denen eine arbeitsmarktliche Prüfung notwendig ist, der Arbeitsmarktbehörde weiter.
 
 #### Art. 9
 
@@ -105,17 +106,13 @@ Das Amt leitet Gesuche, bei denen eine arbeitsmarktliche Prüfung notwendig ist,
 
 <sup>2</sup> Sie händigen die Ausweise den ausländischen Personen aus und sind in der Regel für das Inkasso besorgt.
 
-### III. Pflichten im Ausländerbereich
+## 3. Pflichten im Ausländerbereich
 
 #### Art. 10
 
 **Rückforderung 1. Gegenstand**
 
-<sup>1</sup> Als Kosten der öffentlichen Hand gemäss Artikel 7 des Gesetzes gelten sämtliche Aufwendungen von kantonalen und kommunalen Behörden so-
-
-**2**
-
-01.12.2012 wie privatrechtlichen Institutionen und juristischen Personen, die in Ausübung einer öffentlichrechtlichen Aufgabe entstanden sind.
+<sup>1</sup> Als Kosten der öffentlichen Hand gemäss Artikel 7 des Gesetzes gelten sämtliche Aufwendungen von kantonalen und kommunalen Behörden sowie privatrechtlichen Institutionen und juristischen Personen, die in Ausübung einer öffentlichrechtlichen Aufgabe entstanden sind.
 
 <sup>2</sup> Privatrechtliche Kosten, die nicht auf einem gesetzlichen Auftrag beruhen, können nicht eingefordert werden.
 
@@ -131,13 +128,13 @@ Das Amt leitet Gesuche, bei denen eine arbeitsmarktliche Prüfung notwendig ist,
 
 **Akteneinsicht und Auskunftspflicht 1. Arbeitgeber**
 
-Die Arbeitgeber sind verpflichtet, auf Begehren hin Einsicht in die Arbeitsverträge und die Lohnbuchhaltung von ausländischen Personen zu gewähren und auf Anfrage hin Auskünfte zu erteilen.
+<sup>1</sup> Die Arbeitgeber sind verpflichtet, auf Begehren hin Einsicht in die Arbeitsverträge und die Lohnbuchhaltung von ausländischen Personen zu gewähren und auf Anfrage hin Auskünfte zu erteilen.
 
 #### Art. 13
 
 **2. Sozialbehörden**
 
-Die zuständigen Sozialbehörden haben bei einem Verfahren um Erteilung, Verlängerung oder Widerruf einer Bewilligung zum Aufenthalt vollständige Akteneinsicht zu gewähren und nachgesuchte Auskünfte zu erteilen.
+<sup>1</sup> Die zuständigen Sozialbehörden haben bei einem Verfahren um Erteilung, Verlängerung oder Widerruf einer Bewilligung zum Aufenthalt vollständige Akteneinsicht zu gewähren und nachgesuchte Auskünfte zu erteilen.
 
 #### Art. 14
 
@@ -147,9 +144,9 @@ Die zuständigen Sozialbehörden haben bei einem Verfahren um Erteilung, Verlän
 
 <sup>2</sup> Kantonale und kommunale Behörden melden dem Amt sämtliche Verstösse gegen die Ausländer- und Asylgesetzgebung.
 
-### IV. Integration
+## 4. Integration
 
-- 1\. AUFGABEN DES KANTONS UND DER GEMEINDEN
+### 4.1. Aufgaben des Kantons und der Gemeinden
 
 #### Art. 15
 
@@ -159,9 +156,7 @@ Die zuständigen Sozialbehörden haben bei einem Verfahren um Erteilung, Verlän
 
 <sup>2</sup> Diese setzt sich zusammen aus Vertreterinnen und Vertretern von Dienststellen, die in ihrem Aufgabenbereich von Migrationsfragen betroffen sind, Vertreterinnen und Vertretern von Gemeinden sowie anderen im Integrationsbereich tätigen Institutionen.
 
-<sup>3</sup> ...[^15-1]
-
-[^15-1]: Aufgehoben gemäss RB vom 23. März 2010; am 1. April 2010 in Kraft getreten. 01.12.2012 3
+<sup>3</sup> …
 
 #### Art. 16
 
@@ -183,7 +178,7 @@ Die zuständigen Sozialbehörden haben bei einem Verfahren um Erteilung, Verlän
 
 **2. Subsidiäre Integrationsförderung**
 
-Das Amt bezieht die Gemeinden bei der Koordination der Integrationsprojekte und -massnahmen ausserhalb der Regelstrukturen bei Bedarf mit ein.
+<sup>1</sup> Das Amt bezieht die Gemeinden bei der Koordination der Integrationsprojekte und -massnahmen ausserhalb der Regelstrukturen bei Bedarf mit ein.
 
 #### Art. 19
 
@@ -209,10 +204,6 @@ Das Amt bezieht die Gemeinden bei der Koordination der Integrationsprojekte und 
 
 <sup>2</sup> Kantonale Behörden und Gemeinden können bei fachspezifischen Aus- und Weiterbildungsveranstaltungen das Amt um Unterstützung ersuchen.
 
-**4**
-
-01.12.2012
-
 #### Art. 22
 
 **Zusammenarbeit**
@@ -231,9 +222,9 @@ Das Amt bezieht die Gemeinden bei der Koordination der Integrationsprojekte und 
 
 <sup>3</sup> Das Amt ist über abgeschlossene weiterführende Vereinbarungen zur Integration in Kenntnis zu setzen.
 
-- 2\. INTEGRATIONSFÖRDERUNG DER STÄNDIGEN AUSLÄNDISCHEN WOHNBEVÖLKERUNG
+[^23-1]: SR [142.20](https://db.clex.ch/link/Bund/142.20/de)
 
-[^23-1]: SR 142.20 01.12.2012 5
+### 4.2. Integrationsförderung der ständigen ausländischen Wohnbevölkerung
 
 #### Art. 24
 
@@ -241,7 +232,7 @@ Das Amt bezieht die Gemeinden bei der Koordination der Integrationsprojekte und 
 
 <sup>1</sup> Die kantonalen Behörden und die Gemeinden fördern die Integration über die Regelstrukturen, insbesondere in den Bereichen Bildung, Arbeit und soziale Sicherheit. Sie stellen Angebote bereit, um allen Anspruchsberechtigten ungeachtet ihrer Herkunft chancengleichen Zugang zum gesellschaftlichen, wirtschaftlichen und kulturellen Leben zu ermöglichen.
 
-<sup>2</sup> Gemeinden, welche die erforderlichen Integrationsmassnahmen zur sprachlichen Förderung von Kindern und Jugendlichen im Rahmen der Regelstrukturen der Grundschule nicht gemäss den Richtlinien des Erziehungs-, Kultur- und Umweltschutzdepartements bereitgestellt haben, können vom Amt für Berufsbildung zur Übernahme der Kosten von Sprachkursen im Hinblick auf die berufliche Integration verpflichtet werden.
+<sup>2</sup> Gemeinden, welche die erforderlichen Integrationsmassnahmen zur sprachlichen Förderung von Kindern und Jugendlichen im Rahmen der Regelstrukturen der Grundschule nicht gemäss den Richtlinien des Departements für Bildung, Umwelt und Kultur bereitgestellt haben, können vom Amt für Berufsbildung zur Übernahme der Kosten von Sprachkursen im Hinblick auf die berufliche Integration verpflichtet werden.
 
 #### Art. 25
 
@@ -251,9 +242,7 @@ Das Amt bezieht die Gemeinden bei der Koordination der Integrationsprojekte und 
 
 <sup>2</sup> Im Sinne einer Anschubfinanzierung können zeitlich befristet finanzielle Beiträge an Integrationsmassnahmen gewährt werden, sofern die Regelstrukturen den spezifischen Bedürfnissen nicht genügend Rechnung tragen. Bei ausgewiesenem Bedarf sind die erforderlichen Kosten für solche Integrationsmassnahmen spätestens nach fünf Jahren von den Regelstrukturen zu übernehmen.
 
-<sup>3</sup> ...[^25-1]
-
-[^25-1]: Aufgehoben gemäss VO über die Anpassung von regierungsrätlichen Verordnungen im Zusammenhang mit der Einführung des HRM2; mit RB vom 25. September 2012 auf den 1. Dezember 2012 in Kraft gesetzt. 6 01.12.2012
+<sup>3</sup> …
 
 #### Art. 26
 
@@ -261,7 +250,7 @@ Das Amt bezieht die Gemeinden bei der Koordination der Integrationsprojekte und 
 
 <sup>1</sup> Das Amt erstellt unter Berücksichtigung der Bundesvorgaben und der kantonalen Bedürfnisse ein Integrationsprogramm. Dieses beinhaltet insbesondere die Ausrichtung und Zielsetzung der Integrationsförderung sowie die Indikatoren für die Messung der Zielerreichung.
 
-<sup>2</sup> Basierend auf dem Integrationsprogramm schliesst das Departement für Justiz, Sicherheit und Gesundheit (Departement) mit dem zuständigen Bundesamt eine Programmvereinbarung ab.
+<sup>2</sup> Basierend auf dem Integrationsprogramm kann das Departement für Justiz, Sicherheit und Gesundheit (Departement) mit dem zuständigen Bundesamt eine Programmvereinbarung abschliessen.
 
 <sup>3</sup> Das Amt ist zuständig für die Umsetzung des Integrationsprogramms.
 
@@ -279,9 +268,9 @@ Das Amt bezieht die Gemeinden bei der Koordination der Integrationsprojekte und 
 
 **3. Zusicherungs- und Auszahlungskompetenzen**
 
-<sup>1</sup> Das Amt kann an Integrationsprojekte oder -massnahmen einmalige finanzielle Beiträge bis 100 000 Franken und jährlich wiederkehrende Beiträge bis 50 000 Franken gewähren.
+<sup>1</sup> …
 
-<sup>2</sup> Die Bewilligung von höheren einmaligen oder jährlich wiederkehrenden Beiträgen richtet sich nach Artikel 51 Finanzverordnung.
+<sup>2</sup> Die Bewilligung von finanziellen Beiträgen an Integrationsprojekte oder -massnahmen richtet sich nach Artikel 44 der Verordnung über den kantonalen Finanzhaushalt.
 
 <sup>3</sup> Bei einmaligen oder wiederkehrenden finanziellen Beiträgen über 30 000 Franken bedarf es einer Leistungsvereinbarung. Bei tieferen finanziellen Beiträgen können nach Ermessen des Amtes Leistungsvereinbarungen abgeschlossen werden.
 
@@ -309,18 +298,16 @@ Das Amt bezieht die Gemeinden bei der Koordination der Integrationsprojekte und 
 
 **6. Modalitäten der Auszahlung**
 
-<sup>1</sup> Finanzielle Beiträge bis 5 000 Franken werden im Zeitpunkt der Gewährung ausbezahlt.
+<sup>1</sup> Finanzielle Beiträge bis 5000 Franken werden im Zeitpunkt der Gewährung ausbezahlt.
 
-<sup>2</sup> Einmalige finanzielle Beiträge über 5 000 Franken werden grundsätzlich wie folgt ausbezahlt:
+<sup>2</sup> Einmalige finanzielle Beiträge über 5000 Franken werden grundsätzlich wie folgt ausbezahlt:
 
 - a) 80 Prozent im Zeitpunkt der Gewährung oder im ersten Quartal des folgenden Geschäftsjahres;
-
 - b) den Rest nach Genehmigung des Schlussberichtes und der Schlussabrechnung.
 
-<sup>3</sup> Wiederkehrende finanzielle Beiträge über 5 000 Franken werden wie folgt ausbezahlt:
+<sup>3</sup> Wiederkehrende finanzielle Beiträge über 5000 Franken werden wie folgt ausbezahlt:
 
 - a) 80 Prozent im Zeitpunkt der Gewährung und im ersten Quartal des folgenden Geschäftsjahres;
-
 - b) den Rest nach Genehmigung des Zwischen- oder Schlussberichtes sowie der Jahres- oder Schlussabrechung.
 
 #### Art. 32
@@ -331,9 +318,7 @@ Das Amt bezieht die Gemeinden bei der Koordination der Integrationsprojekte und 
 
 <sup>2</sup> Für die Bestimmung der Einwohnerzahl ist die jährliche Statistik der ständigen Wohnbevölkerung per 31. Dezember des Bundesamtes für Statistik massgeblich.
 
-**7**
-
-01.12.2012 3. INTEGRATIONSFÖRDERUNG VON VORLÄUFIG AUFGENOMMENEN PERSONEN UND FLÜCHTLINGEN
+### 4.3. Integrationsförderung von vorläufig aufgenommenen Personen und Flüchtlingen
 
 #### Art. 33
 
@@ -345,17 +330,15 @@ Das Amt bezieht die Gemeinden bei der Koordination der Integrationsprojekte und 
 
 <sup>3</sup> Das Amt überprüft die eingeleiteten Integrationsprojekte und -massnahmen auf deren Wirksamkeit und Nachhaltigkeit.
 
-<sup>4</sup> ...[^33-1]
-
-[^33-1]: Aufgehoben gemäss VO über die Anpassung von regierungsrätlichen Verordnungen im Zusammenhang mit der Einführung des HRM2; mit RB vom 25. September 2012 auf den 1. Dezember 2012 in Kraft gesetzt. 8 01.12.2012
+<sup>4</sup> …
 
 #### Art. 34
 
 **Kooperation**
 
-Die vom Integrationskonzept für anerkannte Flüchtlinge und vorläufig aufgenommene Personen betroffenen kantonalen und kommunalen Behörden sind verpflichtet, mit dem Amt zu kooperieren, die angeforderten Dokumente herauszugeben und deren Anträge umzusetzen.
+<sup>1</sup> Die vom Integrationskonzept für anerkannte Flüchtlinge und vorläufig aufgenommene Personen betroffenen kantonalen und kommunalen Behörden sind verpflichtet, mit dem Amt zu kooperieren, die angeforderten Dokumente herauszugeben und deren Anträge umzusetzen.
 
-### V. Unterbringung und Betreuung von Personen des Asylbereichs
+## 5. Unterbringung und Betreuung von Personen des Asylbereichs
 
 #### Art. 35
 
@@ -365,13 +348,10 @@ Die vom Integrationskonzept für anerkannte Flüchtlinge und vorläufig aufgenom
 
 <sup>2</sup> Für die Unterbringung werden folgende Kategorien von Kollektivzentren betrieben:
 
-- a. Erstaufnahmezentren
-
-- b. Transitzentren
-
-- c. Ausreisezentren
-
-- d. Minimalzentren
+- a) Erstaufnahmezentren
+- b) Transitzentren
+- c) Ausreisezentren
+- d) Minimalzentren
 
 <sup>3</sup> Asylsuchende mit hängigem Verfahren, vorläufig aufgenommene Personen, die sich weniger als sieben Jahre in der Schweiz aufhalten, sowie Schutzbedürftige werden in der Regel in Erstaufnahmezentren, Transitzentren oder Minimalzentren untergebracht, sofern sie wirtschaftlich unselbständig sind.
 
@@ -381,7 +361,7 @@ Die vom Integrationskonzept für anerkannte Flüchtlinge und vorläufig aufgenom
 
 **2. Kosten**
 
-Der Kanton finanziert die Kosten für den Betrieb der Kollektivzentren und die Betreuung in den Kollektivzentren.
+<sup>1</sup> Der Kanton finanziert die Kosten für den Betrieb der Kollektivzentren und die Betreuung in den Kollektivzentren.
 
 #### Art. 37
 
@@ -395,17 +375,15 @@ Der Kanton finanziert die Kosten für den Betrieb der Kollektivzentren und die B
 
 <sup>4</sup> Gesuche um einen finanziellen Ausgleich sind mit den erforderlichen Unterlagen beim Amt einzureichen.
 
-[^37-1]: Aufgehoben gemäss VO über die Anpassung von regierungsrätlichen Verordnungen im Zusammenhang mit der Einführung des HRM2; mit RB vom 25. September 2012 auf den 1. Dezember 2012 in Kraft gesetzt. 01.12.2012 9
-
 #### Art. 38
 
-[^37-1]
+**…**
 
 #### Art. 39
 
 **Unterbringung, Betreuung und Unterstützung durch die Gemeinden 1.Grundsatz**
 
-Für die Unterbringung, Betreuung und finanzielle Unterstützung von vorläufig aufgenommenen Personen mit einem über siebenjährigen Aufenthalt, von anerkannten Flüchtlingen und von ausländischen Personen ausserhalb des Asylrechts sind die Gemeinden zuständig.
+<sup>1</sup> Für die Unterbringung, Betreuung und finanzielle Unterstützung von vorläufig aufgenommenen Personen mit einem über siebenjährigen Aufenthalt, von anerkannten Flüchtlingen und von ausländischen Personen ausserhalb des Asylrechts sind die Gemeinden zuständig.
 
 #### Art. 40
 
@@ -423,7 +401,7 @@ Für die Unterbringung, Betreuung und finanzielle Unterstützung von vorläufig 
 
 <sup>2</sup> Die Kosten für die Kollektivkrankenversicherung werden durch den Kanton getragen.
 
-### VI. Ausreise- und Vollzugskosten sowie Rückkehrhilfe
+## 6. Ausreise- und Vollzugskosten sowie Rückkehrhilfe
 
 #### Art. 42
 
@@ -451,7 +429,7 @@ Für die Unterbringung, Betreuung und finanzielle Unterstützung von vorläufig 
 
 **2. Gegenstand**
 
-Die Rückkehrhilfe beinhaltet die Ausrichtung von finanziellen oder materiellen Leistungen, wie beispielsweise die Übernahme der Ausreise- und Vollzugskosten oder die Abgabe von lebenswichtigen Medikamenten.
+<sup>1</sup> Die Rückkehrhilfe beinhaltet die Ausrichtung von finanziellen oder materiellen Leistungen, wie beispielsweise die Übernahme der Ausreise- und Vollzugskosten oder die Abgabe von lebenswichtigen Medikamenten.
 
 #### Art. 45
 
@@ -469,17 +447,13 @@ Die Rückkehrhilfe beinhaltet die Ausrichtung von finanziellen oder materiellen 
 
 <sup>1</sup> Das Amt entscheidet nach freiem Ermessen über die Gewährung von Rückkehrhilfe.
 
-**10**
-
-01.12.2012
-
 <sup>2</sup> Das Verfahren um Gewährung und Ausrichtung der kantonalen Rückkehrhilfe richtet sich sinngemäss nach den Vorschriften des Bundes über die Rückkehrhilfe.
 
 #### Art. 47
 
 **5. Rückforderung**
 
-Ausländische Personen, die nach der Ausrichtung von Rückkehrhilfe nicht ausreisen oder wieder in die Schweiz einreisen, haben die ausgerichteten Leistungen zurückzuerstatten.
+<sup>1</sup> Ausländische Personen, die nach der Ausrichtung von Rückkehrhilfe nicht ausreisen oder wieder in die Schweiz einreisen, haben die ausgerichteten Leistungen zurückzuerstatten.
 
 #### Art. 48
 
@@ -489,74 +463,18 @@ Ausländische Personen, die nach der Ausrichtung von Rückkehrhilfe nicht ausrei
 
 <sup>2</sup> Die ausländischen Personen haben keinen Anspruch auf eine Antragstellung für die Ausrichtung einer bundesrechtlichen Rückkehrhilfe.
 
-### VII. Schlussbestimmungen
+## 7. Schlussbestimmungen
 
 #### Art. 49
 
-**Aufhebung und Änderung von Erlassen**
+**Aufhebung und Änderung von Erlassen[^49-1]**
 
-Die nachfolgenden Erlasse werden wie folgt geändert beziehungsweise aufgehoben:
+[^49-1]: Änderungen bisherigen Rechts werden nicht aufgeführt.
 
-### 1. Regierungs- und Verwaltungsorganisationsverordnung (BR 170.310)
-
-### Anhang 1 Ziffer I.2.B
-
-- b)Ausländerrecht
-
-- Fremdenpolizei
-
-- Integration
-
-- Asylwesen
-
-- 2\. Ausführungsbestimmungen zur Vollziehungsver-
-
-ordnung zur Ausländer- und Asylgesetzgebung
-
-### (BR 618.120)
-
-### Titel und Ingress
-
-## Verordnung über den Finanzbedarf bei Familiennachzügen von Personen aus Drittstaaten
-
-Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung
-
-**11**
-
-01.12.2012
-
-#### Art. 1
-
-**Gegenstand**
-
-Für die Bemessung der ausreichenden finanziellen Mittel im Rahmen des Familiennachzuges gestützt auf das Bundesgesetz über die Ausländerinnen und Ausländer werden die nachfolgenden Bestimmungen erlassen.
-
-**3.**
-
-### Gebührentarif zum Bundesgesetz über Aufenthalt und Niederlassung der Ausländer (BR 618.150)
-
-### Titel und Ingress
-
-## Gebührentarif zur Ausländer- und Asylgesetzgebung
-
-Gestützt auf Art. 45 Abs. 1 der Kantonsverfassung
-
-**4.**
-
-### Verordnung über die Zulassung ausländischer Arbeitskräfte (BR 618.200)
-
-### Aufgehoben
-
-**Art.**
-
-50 Diese Verordnung tritt auf den 1. August 2009 in Kraft.
+#### Art. 50
 
 **Inkraftsetzung**
 
-**12**
+<sup>1</sup> Diese Verordnung tritt auf den 1. August 2009 in Kraft.
 
-01.12.2012
-
-## Weitere Fussnoten
-
-- [3] Fassung gemäss Teilrevision der Regierungs- und Verwaltungsorganisationsverordnung, BR 170.310; am 1. November 2012 in Kraft getreten.
+-

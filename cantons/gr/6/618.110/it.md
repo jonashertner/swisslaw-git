@@ -4,37 +4,37 @@ number: "618.110"
 title: "Ordinanza relativa alla legge d'applicazione della legislazione federale sugli stranieri e sull'asilo"
 short: OLAdLSA
 language: it
-version: 2012-12-01
-corrected: 2014-10-26
-version_adopted: 2012-09-25
+version: 2024-09-01
+version_adopted: 2024-08-20
 adopted: 2009-06-30
 in_force: 2009-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/618.110"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/1584/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3849/pdf_file"
 ---
 
-> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone. Il Cantone pubblica questa versione solo in PDF: il testo ne è estratto, la struttura dedotta dall’impaginazione.
+> Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
 
-# Ordinanza relativa alla legge d'applicazione della legislazione federale sugli stranieri e sull'asilo (OLAdLSA)
+# Ordinanza relativa alla legge d'applicazione della legislazione federale sugli stranieri e sull'asilo
+
+(OLAdLSA)
+
+del 30.06.2009 (stato 01.09.2024)
 
 emanata dal Governo il 30 giugno 2009
 
-visto l'art. 45 della Costituzione cantonale[^t-1]
+visto l'art. 45 della Costituzione cantonale[^ingress-1]
 
-I. Competenze
+[^ingress-1]: CSC [110.100](https://www.gr-lex.gr.ch/data/110.100/it)
 
-[^t-1]: CSC 110.100
-[^t-2]: Testo giusta revisione parziale dell'ordinanza sull'organizzazione del Governo e dell'Amministrazione, CSC 170.310; entrato in vigore il 1° novembre 2012
+## 1. Competenze
 
 #### Art. 1
 
-**Ufficio della migrazione e del diritto civile[^1-2] 1. Principio**[^t-2]
+**Ufficio della migrazione e del diritto civile 1. Principio**
 
-L'Ufficio della migrazione e del diritto civile dei Grigioni (Ufficio) è il servizio responsabile ai sensi della legge d'applicazione della legislazione federale sugli stranieri e sull'asilo[^1-1] e della relativa legislazione, per quanto i compiti non vengano assegnati esplicitamente a un altro servizio.
+<sup>1</sup> L'Ufficio della migrazione e del diritto civile dei Grigioni (Ufficio) è il servizio responsabile ai sensi della legge d'applicazione della legislazione federale sugli stranieri e sull'asilo[^1-1] e della relativa legislazione, per quanto i compiti non vengano assegnati esplicitamente a un altro servizio.
 
-[^1-1]: CSC 618.100 1.12.2012 1
-[^1-2]: Testo giusta revisione parziale dell'ordinanza sull'organizzazione del Governo e dell'Amministrazione, CSC 170.310; entrato in vigore il 1° novembre 2012
+[^1-1]: CSC [618.100](https://www.gr-lex.gr.ch/data/618.100/it)
 
 #### Art. 2
 
@@ -42,7 +42,7 @@ L'Ufficio della migrazione e del diritto civile dei Grigioni (Ufficio) è il ser
 
 <sup>1</sup> L'Ufficio funge da interlocutore cantonale per Confederazione, Cantoni e comuni in materia di integrazione e razzismo.
 
-Esso attua l'obbligo di informazione nei confronti dell'Ufficio federale 2 competente.
+<sup>2</sup> Esso attua l'obbligo di informazione nei confronti dell'Ufficio federale competente.
 
 #### Art. 3
 
@@ -51,9 +51,7 @@ Esso attua l'obbligo di informazione nei confronti dell'Ufficio federale 2 compe
 <sup>1</sup> L'Ufficio gestisce un Servizio specializzato per l'integrazione che:
 
 - a) offre consulenza al Governo in materia di integrazione;
-
 - b) attua i compiti di integrazione dell'Ufficio e della strategia di integrazione cantonale;
-
 - c) offre consulenza e sostiene le autorità cantonali e i comuni nell'attuazione dei loro compiti di integrazione.
 
 <sup>2</sup> Il Servizio specializzato è l'interlocutore per le domande in materia di integrazione di migranti, autorità cantonali e comunali, istituti attivi nel settore dell'integrazione, nonché di terzi.
@@ -62,23 +60,21 @@ Esso attua l'obbligo di informazione nei confronti dell'Ufficio federale 2 compe
 
 **4. Consultorio per il ritorno**
 
-L'Ufficio gestisce un Consultorio per il ritorno che:
+<sup>1</sup> L'Ufficio gestisce un Consultorio per il ritorno che:
 
 - a) effettua la consulenza per il ritorno;
-
 - b) versa l'aiuto finanziario al ritorno del Cantone;
-
 - c) presenta la richiesta di aiuto finanziario al ritorno della Confederazione.
 
 #### Art. 5
 
 **Autorità preposta al mercato del lavoro**
 
-<sup>1</sup> L'Ufficio cantonale per l'industria, arti e mestieri e lavoro è l'autorità preposta al mercato del lavoro.
+<sup>1</sup> L'Ufficio del lavoro è l'autorità preposta al mercato del lavoro.
 
 <sup>2</sup> Con degli accordi l'autorità preposta al mercato del lavoro può delegare completamente o parzialmente dei compiti all'Ufficio.
 
-### II. Procedura di rilascio di permessi di soggiorno
+## 2. Procedura di rilascio di permessi di soggiorno
 
 #### Art. 6
 
@@ -100,7 +96,7 @@ L'Ufficio gestisce un Consultorio per il ritorno che:
 
 **Verifica relativa alle condizioni del mercato del lavoro**
 
-L'Ufficio inoltra all'autorità preposta al mercato del lavoro le domande che necessitano di un esame relativo alle condizioni del mercato del lavoro.
+<sup>1</sup> L'Ufficio inoltra all'autorità preposta al mercato del lavoro le domande che necessitano di un esame relativo alle condizioni del mercato del lavoro.
 
 #### Art. 9
 
@@ -110,17 +106,13 @@ L'Ufficio inoltra all'autorità preposta al mercato del lavoro le domande che ne
 
 <sup>2</sup> Essi forniscono i documenti di legittimazione agli stranieri e si occupano di regola dell'incasso.
 
-### III. Obblighi nel settore degli stranieri
+## 3. Obblighi nel settore degli stranieri
 
 #### Art. 10
 
 **Richiesta di rimborso 1. Oggetto**
 
-<sup>1</sup> Conformemente all'articolo 7 della legge, tra le spese dell'ente pubblico rientrano tutte le spese delle autorità cantonali e comunali, come pure
-
-**2**
-
-1.12.2012 delle istituzioni di diritto privato e delle persone giuridiche, risultate dallo svolgimento di un compito di diritto pubblico.
+<sup>1</sup> Conformemente all'articolo 7 della legge, tra le spese dell'ente pubblico rientrano tutte le spese delle autorità cantonali e comunali, come pure delle istituzioni di diritto privato e delle persone giuridiche, risultate dallo svolgimento di un compito di diritto pubblico.
 
 <sup>2</sup> Le spese di diritto privato, che non si fondano su un mandato legislativo, non possono essere rimborsate.
 
@@ -136,13 +128,13 @@ L'Ufficio inoltra all'autorità preposta al mercato del lavoro le domande che ne
 
 **Esame degli atti e obbligo di informazione 1. Datore di lavoro**
 
-Su richiesta, i datori di lavoro sono tenuti ad accordare l'esame dei contratti di lavoro e della contabilità degli stipendi degli stranieri, e, se richiesto, sono tenuti a fornire informazioni.
+<sup>1</sup> Su richiesta, i datori di lavoro sono tenuti ad accordare l'esame dei contratti di lavoro e della contabilità degli stipendi degli stranieri, e, se richiesto, sono tenuti a fornire informazioni.
 
 #### Art. 13
 
 **2. Autorità sociali**
 
-Nel caso di una procedura di rilascio, proroga o revoca di un permesso di soggiorno, le autorità sociali competenti devono accordare l'esame completo degli atti e devono e fornire le informazioni richieste.
+<sup>1</sup> Nel caso di una procedura di rilascio, proroga o revoca di un permesso di soggiorno, le autorità sociali competenti devono accordare l'esame completo degli atti e devono e fornire le informazioni richieste.
 
 #### Art. 14
 
@@ -152,9 +144,9 @@ Nel caso di una procedura di rilascio, proroga o revoca di un permesso di soggio
 
 <sup>2</sup> Le autorità cantonali e comunali notificano all'Ufficio tutte le infrazioni alla legislazione federale sugli stranieri e sull'asilo.
 
-### IV. Integrazione
+## 4. Integrazione
 
-- 1\. COMPITI DEL CANTONE E DEI COMUNI
+### 4.1. Compiti del Cantone e dei Comuni
 
 #### Art. 15
 
@@ -164,9 +156,7 @@ Nel caso di una procedura di rilascio, proroga o revoca di un permesso di soggio
 
 <sup>2</sup> Essa si compone di rappresentanti dei servizi interessati nel loro settore di competenza da questioni relative alla migrazione e di rappresentanti dei comuni, nonché di altri istituti attivi nel campo dell'integrazione.
 
-<sup>3</sup> ...[^15-1]
-
-[^15-1]: Abrogazione giusta DG del 23 marzo 2010; entrata in vigore il 1° aprile 2010 1.12.2012 3
+<sup>3</sup> …
 
 #### Art. 16
 
@@ -188,7 +178,7 @@ Nel caso di una procedura di rilascio, proroga o revoca di un permesso di soggio
 
 **2. Promozione dell'integrazione sussidiaria**
 
-All'occorrenza, l'Ufficio coinvolge i comuni nel coordinamento dei progetti e delle misure di integrazione esterni alle strutture ordinarie.
+<sup>1</sup> All'occorrenza, l'Ufficio coinvolge i comuni nel coordinamento dei progetti e delle misure di integrazione esterni alle strutture ordinarie.
 
 #### Art. 19
 
@@ -214,10 +204,6 @@ All'occorrenza, l'Ufficio coinvolge i comuni nel coordinamento dei progetti e de
 
 <sup>2</sup> Le autorità cantonali e i comuni possono chiedere il sostegno dell'Ufficio in caso di incontri di formazione e di perfezionamento specialistici.
 
-**4**
-
-1.12.2012
-
 #### Art. 22
 
 **Collaborazione**
@@ -236,13 +222,9 @@ All'occorrenza, l'Ufficio coinvolge i comuni nel coordinamento dei progetti e de
 
 <sup>3</sup> L'Ufficio deve essere informato degli accordi di integrazione più ampi conclusi.
 
-- 2\. PROMOZIONE DELL'INTEGRAZIONE DELLA
+[^23-1]: RS [142.20](https://db.clex.ch/link/Bund/142.20/it)
 
-POPOLAZIONE RESIDENTE PERMANENTE
-
-STRANIERA
-
-[^23-1]: RS 142.20 1.12.2012 5
+### 4.2. Promozione dell'integrazione della popolazione residente permanente straniera
 
 #### Art. 24
 
@@ -250,7 +232,7 @@ STRANIERA
 
 <sup>1</sup> Le autorità cantonali e i comuni promuovono l'integrazione tramite le strutture ordinarie, in particolare nei settori della formazione, del lavoro e della sicurezza sociale. Essi mettono a disposizione delle offerte per permettere a tutti gli aventi diritto, indipendentemente dalla loro origine, di accedere in misura uguale alla vita sociale, economica e culturale.
 
-<sup>2</sup> I comuni che nell'ambito delle strutture ordinarie della scuola dell'obbligo non hanno messo a disposizione le misure di integrazione necessarie alla pomozione linguistica di bambini e di giovani conformemente alle direttive del Dipartimento dell'educazione, cultura e protezione dell'ambiente, possono essere chiamati dall'Ufficio della formazione professionale a sostenere le spese dei corsi di lingua in vista dell'integrazione professionale.
+<sup>2</sup> I comuni che nell'ambito delle strutture ordinarie della scuola dell'obbligo non hanno messo a disposizione le misure di integrazione necessarie alla pomozione linguistica di bambini e di giovani conformemente alle direttive del Dipartimento formazione, ambiente e cultura, possono essere chiamati dall'Ufficio della formazione professionale a sostenere le spese dei corsi di lingua in vista dell'integrazione professionale.
 
 #### Art. 25
 
@@ -260,9 +242,7 @@ STRANIERA
 
 <sup>2</sup> Ai sensi di un finanziamento iniziale possono essere stanziati contributi finanziari limitati nel tempo a favore di misure di integrazione, qualora le strutture ordinarie non tengano sufficientemente conto delle esigenze specifiche. In caso di bisogno comprovato, al più tardi dopo cinque anni le strutture ordinarie devono assumersi le spese necessarie a tali misure di integrazione.
 
-<sup>3</sup> ...[^25-1]
-
-[^25-1]: Abrogazione giusta ordinanza sull'adeguamento di ordinanze governative in relazione all'introduzione del MCA2; posta in vigore il 1° dicembre 2012 con DG del 25 settembre 2012 6 1.12.2012
+<sup>3</sup> …
 
 #### Art. 26
 
@@ -270,7 +250,7 @@ STRANIERA
 
 <sup>1</sup> L'Ufficio allestisce un programma di integrazione in considerazione delle direttive della Confederazione e delle necessità cantonali. Il programma contiene in particolare l'orientamento e l'obiettivo della promozione dell'integrazione, nonché gli indicatori per determinare il raggiungimento degli obiettivi.
 
-<sup>2</sup> Sulla base del programma di integrazione, il Dipartimento di giustizia, sicurezza e sanità (Dipartimento) conclude un accordo di programma con l'Ufficio federale competente.
+<sup>2</sup> Sulla base del programma di integrazione, il Dipartimento di giustizia, sicurezza e sanità (Dipartimento) può stipulare un accordo di programma con l'Ufficio federale competente.
 
 <sup>3</sup> L'Ufficio è responsabile dell'attuazione del programma di integrazione.
 
@@ -288,9 +268,9 @@ STRANIERA
 
 **3. Competenze per la garanzia e il versamento**
 
-L'Ufficio può stanziare contributi finanziari una tantum fino a 100 000 franchi, nonché contributi annuali fino a 50 000 franchi a progetti o misure di integrazione.
+<sup>1</sup> …
 
-<sup>2</sup> L'autorizzazione di contributi una tantum o annuali superiori si conforma all'articolo 51 dell'ordinanza sulla gestione finanziaria.
+<sup>2</sup> L'autorizzazione di contributi finanziari a favore di progetti o misure di integrazione si conforma all'articolo 44 dell'ordinanza sulla gestione finanziaria cantonale.
 
 <sup>3</sup> In caso di contributi finanziari una tantum o ricorrenti che superano i 30 000 franchi, è necessario un accordo di prestazioni. In caso di contributi finanziari inferiori possono essere conclusi accordi di prestazioni a discrezione dell'Ufficio.
 
@@ -318,23 +298,17 @@ L'Ufficio può stanziare contributi finanziari una tantum fino a 100 000 franchi
 
 **6. Modalità di versamento**
 
-<sup>1</sup> I contributi finanziari fino a 5 000 franchi vengono versati al momento della concessione.
+<sup>1</sup> I contributi finanziari fino a 5000 franchi vengono versati al momento della concessione.
 
-<sup>2</sup> I contributi finanziari una tantum che superano i 5 000 franchi vengono di principio versati come segue:
+<sup>2</sup> I contributi finanziari una tantum che superano i 5000 franchi vengono di principio versati come segue:
 
 - a) l'80 percento al momento della concessione o nel primo trimestre dell'anno d'esercizio seguente;
-
 - b) il resto dopo l'approvazione del rapporto finale e del conteggio finale.
 
 <sup>3</sup> I contributi finanziari ricorrenti che superano i 5 000 franchi vengono versati come segue:
 
 - a) l'80 percento al momento della concessione e nel primo trimestre dell'anno d'esercizio seguente;
-
 - b) il resto dopo l'approvazione del rapporto intermedio o finale e del conteggio annuale o finale.
-
-**7**
-
-1.12.2012
 
 #### Art. 32
 
@@ -344,7 +318,7 @@ L'Ufficio può stanziare contributi finanziari una tantum fino a 100 000 franchi
 
 <sup>2</sup> Per la determinazione del numero di abitanti fa stato la statistica annuale della popolazione residente permanente al 31 dicembre, dell'Ufficio federale di statistica.
 
-- 3\. PROMOZIONE DELL'INTEGRAZIONE DI PERSONE AMMESSE PROVVISORIAMENTE E DI RIFUGIATI
+### 4.3. promozione dell'integrazione di persone ammesse provvisoriamente e di rifugiati
 
 #### Art. 33
 
@@ -356,17 +330,15 @@ L'Ufficio può stanziare contributi finanziari una tantum fino a 100 000 franchi
 
 <sup>3</sup> L'Ufficio esamina l'efficacia e la continuità dei progetti e delle misure d'integrazione adottati.
 
-<sup>4</sup> ...[^33-1]
-
-[^33-1]: Abrogazione giusta ordinanza sull'adeguamento di ordinanze governative in relazione all'introduzione del MCA2; posta in vigore il 1° dicembre 2012 con DG del 25 settembre 2012 8 1.12.2012
+<sup>4</sup> …
 
 #### Art. 34
 
 **Collaborazione**
 
-Le autorità cantonali e comunali interessate dal programma d'integrazione per rifugiati riconosciuti e persone ammesse provvisoriamente devono collaborare con l'Ufficio, consegnare i documenti pretesi e attuare le richieste contenutevi.
+<sup>1</sup> Le autorità cantonali e comunali interessate dal programma d'integrazione per rifugiati riconosciuti e persone ammesse provvisoriamente devono collaborare con l'Ufficio, consegnare i documenti pretesi e attuare le richieste contenutevi.
 
-### V. Alloggio e assistenza di persone del settore dell'asilo
+## 5. Alloggio e assistenza di persone del settore dell'asilo
 
 #### Art. 35
 
@@ -377,11 +349,8 @@ Le autorità cantonali e comunali interessate dal programma d'integrazione per r
 <sup>2</sup> Per l'alloggio vengono gestite le seguenti categorie di centri collettivi:
 
 - a) centri di prima accoglienza
-
 - b) centri di transito
-
 - c) centri di partenza
-
 - d) centri di assistenza minima
 
 <sup>3</sup> I richiedenti l'asilo con procedura pendente, le persone ammesse provvisoriamente che si trovano in Svizzera da meno di sette anni, come pure le persone bisognose di protezione vengono di regola ospitati in centri di prima accoglienza, centri di transito o centri di assistenza minima, se non risultano indipendenti dal punto di vista finanziario.
@@ -392,7 +361,7 @@ Le autorità cantonali e comunali interessate dal programma d'integrazione per r
 
 **2. Spese**
 
-Il Cantone finanzia le spese per l'esercizio dei centri collettivi e per l'assistenza al loro interno.
+<sup>1</sup> Il Cantone finanzia le spese per l'esercizio dei centri collettivi e per l'assistenza al loro interno.
 
 #### Art. 37
 
@@ -406,17 +375,15 @@ Il Cantone finanzia le spese per l'esercizio dei centri collettivi e per l'assis
 
 <sup>4</sup> Le domande di compensazione finanziaria vanno inoltrate all'Ufficio con la documentazione necessaria.
 
-[^37-1]: Abrogazione giusta ordinanza sull'adeguamento di ordinanze governative in relazione all'introduzione del MCA2; posta in vigore il 1° dicembre 2012 con DG del 25 settembre 2012 1.12.2012 9
-
 #### Art. 38
 
-[^37-1]
+**…**
 
 #### Art. 39
 
-**Alloggio, assistenza e sostegno da parte dei comuni 1. Principio**
+**Alloggio, assi-stenza e sostegno da parte dei comuni 1. Principio**
 
-I comuni sono responsabili dell'alloggio, dell'assistenza e del sostegno finanziario di persone ammesse provvisoriamente che soggiornano da oltre sette anni, di rifugiati riconosciuti e di stranieri estranei al diritto in materia di asilo.
+<sup>1</sup> I comuni sono responsabili dell'alloggio, dell'assistenza e del sostegno finanziario di persone ammesse provvisoriamente che soggiornano da oltre sette anni, di rifugiati riconosciuti e di stranieri estranei al diritto in materia di asilo.
 
 #### Art. 40
 
@@ -434,9 +401,7 @@ I comuni sono responsabili dell'alloggio, dell'assistenza e del sostegno finanzi
 
 <sup>2</sup> Le spese per l'assicurazione malattie collettiva vengono assunte dal Cantone.
 
-### VI. Spese di partenza e di esecuzione, nonché aiuto al
-
-ritorno
+## 6. Spese di partenza e di esecuzione, nonché aiuto al ritorno
 
 #### Art. 42
 
@@ -464,7 +429,7 @@ ritorno
 
 **2. Oggetto**
 
-L'aiuto al ritorno include l'assegnazione di prestazioni finanziarie o materiali, come ad esempio l'assunzione delle spese di partenza e di esecuzione o la distribuzione di medicamenti di importanza vitale.
+<sup>1</sup> L'aiuto al ritorno include l'assegnazione di prestazioni finanziarie o materiali, come ad esempio l'assunzione delle spese di partenza e di esecuzione o la distribuzione di medicamenti di importanza vitale.
 
 #### Art. 45
 
@@ -473,10 +438,6 @@ L'aiuto al ritorno include l'assegnazione di prestazioni finanziarie o materiali
 <sup>1</sup> Se conformemente alla legislazione sull'asilo la Confederazione, a causa del comportamento personale di uno straniero, rifiuta l'aiuto al ritorno del diritto federale, l'aiuto cantonale al ritorno è di regola escluso.
 
 <sup>2</sup> Un comportamento abusivo e il rifiuto dell'obbligo di collaborazione portano all'esclusione dall'aiuto al ritorno.
-
-**10**
-
-1.12.2012
 
 <sup>3</sup> L'aiuto al ritorno decade se lo straniero senza un valido motivo non lascia regolarmente il paese. È escluso ogni ulteriore aiuto al ritorno.
 
@@ -492,7 +453,7 @@ L'aiuto al ritorno include l'assegnazione di prestazioni finanziarie o materiali
 
 **5. Rimborso**
 
-Gli stranieri che dopo l'assegnazione dell'aiuto al ritorno non lasciano la Svizzera o vi fanno ritorno, devono restituire le prestazioni ricevute.
+<sup>1</sup> Gli stranieri che dopo l'assegnazione dell'aiuto al ritorno non lasciano la Svizzera o vi fanno ritorno, devono restituire le prestazioni ricevute.
 
 #### Art. 48
 
@@ -502,66 +463,18 @@ Gli stranieri che dopo l'assegnazione dell'aiuto al ritorno non lasciano la Sviz
 
 <sup>2</sup> Gli stranieri non hanno un diritto alla presentazione di richieste per la prestazione di un aiuto al ritorno del diritto federale.
 
-### VII. Disposizioni finali
+## 7. Disposizioni finali
 
 #### Art. 49
 
-**Abrogazione e modifica di atti normativi**
+**Abrogazione e modifica di atti normativi[^49-1]**
 
-I seguenti atti normativi sono modificati come segue o sono stati abrogati:
-
-### 1. Ordinanza sull'organizzazione del Governo e
-
-dell'Amministrazione (CSC 170.310)
-
-### Appendice 1 numero I.2.B
-
-- b) Diritto degli stranieri
-
-- polizia degli stranieri
-
-- integrazione
-
-- asilo
-
-**11**
-
-**12**
-
-1.12.2012 2. Disposizioni esecutive dell'ordinanza d'esecuzione della legislazione federale sugli stranieri e sull'asilo (CSC
-
-### 618.120)
-
-### Titolo e preambolo
-
-### Ordinanza sul fabbisogno finanziario nell'ambito dei ricongiungimenti familiari di persone di Stati terzi
-
-visto l'art. 45 cpv. 1 della Costituzione cantonale
-
-1.12.2012
-
-#### Art. 1
-
-Oggetto Per la determinazione dei mezzi finanziari sufficienti nell'ambito del ricongiungimento familiare in virtù della legge federale sugli stranieri, vengono emanate le seguenti disposizioni.
-
-- 3\. Tariffa in relazione alla legge federale concernente la dimora e il domicilio degli stranieri (CSC 618.150)
-
-### Titolo e preambolo
-
-### Tariffa in relazione alla legislazione federale sugli stranieri e sull'asilo
-
-visto l'art. 45 cpv. 1 della Costituzione cantonale
-
-- 4\. Ordinanza concernente l'ammissione di lavoratori stranieri (CSC 618.200)
-
-### Abrogata
+[^49-1]: Le modifiche del diritto previgente non vengono indicate.
 
 #### Art. 50
 
 **Entrata in vigore**
 
-La presente ordinanza entra in vigore il 1° agosto 2009.
+<sup>1</sup> La presente ordinanza entra in vigore il 1° agosto 2009.
 
-**13**
-
-1.12.2012
+-

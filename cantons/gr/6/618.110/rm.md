@@ -4,36 +4,37 @@ number: "618.110"
 title: "Ordinaziun tar la lescha introductiva tar la legislaziun davart las persunas estras e davart ils fatgs d'asil"
 short: OtLItLEA
 language: rm
-version: 2012-12-01
-corrected: 2014-10-26
-version_adopted: 2012-09-25
+version: 2024-09-01
+version_adopted: 2024-08-20
 adopted: 2009-06-30
 in_force: 2009-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/618.110"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/1584/pdf_file"
-text: pdf
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3849/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Ordinaziun tar la lescha introductiva tar la legislaziun davart las persunas estras e davart ils fatgs d'asil (OtLItLEA)
+# Ordinaziun tar la lescha introductiva tar la legislaziun davart las persunas estras e davart ils fatgs d'asil
 
-sa basond sin l'art. 45 da la constituziun chantunala[^t-1]
+(OtLItLEA)
+
+dals 30-06-2009 (versiun dals 01-09-2024)
+
+sa basond sin l'art. 45 da la constituziun chantunala[^ingress-1]
 
 relaschada da la regenza ils 30 da zercladur 2009
 
-I. Cumpetenzas
+[^ingress-1]: DG [110.100](https://www.gr-lex.gr.ch/data/110.100/rm)
 
-[^t-1]: DG 110.100
-[^t-2]: versiun tenor la revisiun parziala da l'ordinaziun davart l'organisaziun da la regenza e da l'administraziun, DG 170.310; entrada en vigur il 1. da november 2012
+## 1. Cumpetenzas
 
 #### Art. 1
 
-**Uffizi da migraziun e da dretg civil 1. princip 3)**[^t-2]
+**Uffizi da migraziun e da dretg civil 1. princip**
 
-L'uffizi da migraziun e da dretg civil dal Grischun (uffizi) è il post da servetsch cumpetent en il senn da la lescha introductiva tar la legislaziun federala davart las persunas estras e davart ils fatgs d'asil[^1-1] e da la legislaziun respectiva, uschenavant che las incumbensas na vegnan betg expressivamain attribuidas ad in auter post da servetsch.
+<sup>1</sup> L'uffizi da migraziun e da dretg civil dal Grischun (uffizi) è il post da servetsch cumpetent en il senn da la lescha introductiva tar la legislaziun federala davart las persunas estras e davart ils fatgs d'asil[^1-1] e da la legislaziun respectiva, uschenavant che las incumbensas na vegnan betg expressivamain attribuidas ad in auter post da servetsch.
 
-[^1-1]: DG 618.100 1-12-2012 1
+[^1-1]: DG [618.100](https://www.gr-lex.gr.ch/data/618.100/rm)
 
 #### Art. 2
 
@@ -50,9 +51,7 @@ L'uffizi da migraziun e da dretg civil dal Grischun (uffizi) è il post da serve
 <sup>1</sup> L'uffizi maina in post spezialisà per l'integraziun, il qual:
 
 - a) cusseglia la regenza en dumondas concernent l'integraziun;
-
 - b) realisescha las incumbensas d'integraziun da l'uffizi e da la strategia chantunala d'integraziun;
-
 - c) cusseglia e sustegna l'autoritad chantunala e las vischnancas tar la realisaziun da lur incumbensas d'integraziun.
 
 <sup>2</sup> Il post spezialisà è il post da contact per dumondas concernent l'integraziun da migrantas e da migrants, d'autoritads chantunalas e communalas, d'instituziuns che lavuran en il sectur d'integraziun sco er da terzas persunas.
@@ -61,23 +60,21 @@ L'uffizi da migraziun e da dretg civil dal Grischun (uffizi) è il post da serve
 
 **4. post da cussegliaziun per il return**
 
-L'uffizi maina in post da cussegliaziun per il return, il qual:
+<sup>1</sup> L'uffizi maina in post da cussegliaziun per il return, il qual:
 
 - a) realisescha la cussegliaziun per il return;
-
 - b) paja l'agid finanzial chantunal per il return;
-
 - c) fa la dumonda a la confederaziun per l'agid finanzial per il return.
 
 #### Art. 5
 
 **Autoritad dal martgà da lavur**
 
-<sup>1</sup> L'uffizi chantunal per industria, mastergn e lavur è l'autoritad cumpetenta per il martgà da lavur.
+<sup>1</sup> L'Uffizi da lavur è l'autoritad cumpetenta per il martgà da lavur.
 
 <sup>2</sup> Tras ina cunvegna po l'autoritad dal martgà da lavur delegar totalmain u parzialmain incumbensas a l'uffizi.
 
-### II. Procedura per conceder permissiuns da dimora
+## 2. Procedura per conceder permissiuns da dimora
 
 #### Art. 6
 
@@ -99,7 +96,7 @@ L'uffizi maina in post da cussegliaziun per il return, il qual:
 
 **Examinaziun en connex cun il martgà da lavur**
 
-L'uffizi trametta vinavant a l'autoritad dal martgà da lavur las dumondas che ston vegnir examinadas en quai che reguarda il martgà da lavur.
+<sup>1</sup> L'uffizi trametta vinavant a l'autoritad dal martgà da lavur las dumondas che ston vegnir examinadas en quai che reguarda il martgà da lavur.
 
 #### Art. 9
 
@@ -109,11 +106,7 @@ L'uffizi trametta vinavant a l'autoritad dal martgà da lavur las dumondas che s
 
 <sup>2</sup> Ellas consegnan ils documents a las persunas estras ed èn per regla cumpetentas per l'incassament.
 
-**2**
-
-1-12-2012
-
-### III. Obligaziuns en il sectur da las persunas estras
+## 3. Obligaziuns en il sectur da las persunas estras
 
 #### Art. 10
 
@@ -135,13 +128,13 @@ L'uffizi trametta vinavant a l'autoritad dal martgà da lavur las dumondas che s
 
 **Obligaziun da dar invista da las actas e da dar infurmaziuns 1. patruna u patrun**
 
-Sin dumonda èn las patrunas ed ils patruns obligads da dar invista dals contracts da lavur e da la contabilitad dals salaris da persunas estras sco er da dar infurmaziuns.
+<sup>1</sup> Sin dumonda èn las patrunas ed ils patruns obligads da dar invista dals contracts da lavur e da la contabilitad dals salaris da persunas estras sco er da dar infurmaziuns.
 
 #### Art. 13
 
 **2. autoritads socialas**
 
-En cas d'ina procedura per conceder, per prolungar u per revocar ina permissiun da dimora ston las autoritads socialas cumpetentas dar invista cumplaina da las actas e dar las infurmaziuns dumandadas.
+<sup>1</sup> En cas d'ina procedura per conceder, per prolungar u per revocar ina permissiun da dimora ston las autoritads socialas cumpetentas dar invista cumplaina da las actas e dar las infurmaziuns dumandadas.
 
 #### Art. 14
 
@@ -151,9 +144,9 @@ En cas d'ina procedura per conceder, per prolungar u per revocar ina permissiun 
 
 <sup>2</sup> Las autoritads chantunalas e communalas annunzian a l'uffizi tut las cuntravenziuns cunter la legislaziun davart las persunas estras e davart ils fatgs d'asil.
 
-### IV. Integraziun
+## 4. Integraziun
 
-- 1\. INCUMBENSAS DAL CHANTUN E DA LAS VISCHNANCAS
+### 4.1. Incumbensas dal chantun e da las vischnancas
 
 #### Art. 15
 
@@ -161,15 +154,9 @@ En cas d'ina procedura per conceder, per prolungar u per revocar ina permissiun 
 
 <sup>1</sup> La regenza installescha ina cumissiun d'integraziun che fixescha la direcziun strategica da la promoziun chantunala da l'integraziun. La cumissiun vegn presidiada da l'uffizi.
 
-<sup>2</sup> Questa cumissiun sa cumpona da represchentantas e da represchentants da posts da servetsch ch'èn pertutgads en lur champ d'incumbensas da
+<sup>2</sup> Questa cumissiun sa cumpona da represchentantas e da represchentants da posts da servetsch ch'èn pertutgads en lur champ d'incumbensas da dumondas da migraziun, da represchentantas e da represchentants da vischnancas sco er d'autras instituziuns ch'èn activas en il sectur d'integraziun.
 
-**3**
-
-1-12-2012 dumondas da migraziun, da represchentantas e da represchentants da vischnancas sco er d'autras instituziuns ch'èn activas en il sectur d'integraziun.
-
-<sup>3</sup> ...[^15-1]
-
-[^15-1]: abolì tenor CR dals 23 da mars 2010; entrà en vigur il 1. d'avrigl 2010 4 1-12-2012
+<sup>3</sup> …
 
 #### Art. 16
 
@@ -191,7 +178,7 @@ En cas d'ina procedura per conceder, per prolungar u per revocar ina permissiun 
 
 **2. promoziun subsidiara da l'integraziun**
 
-En cas da basegn integrescha l'uffizi las vischnancas per coordinar ils projects e las mesiras d'integraziun ordaifer las structuras regularas.
+<sup>1</sup> En cas da basegn integrescha l'uffizi las vischnancas per coordinar ils projects e las mesiras d'integraziun ordaifer las structuras regularas.
 
 #### Art. 19
 
@@ -235,9 +222,9 @@ En cas da basegn integrescha l'uffizi las vischnancas per coordinar ils projects
 
 <sup>3</sup> L'uffizi sto vegnir infurmà davart cunvegnas pli extendidas d'integraziun ch'èn vegnidas fatgas.
 
-- 2\. PROMOZIUN DA L'INTEGRAZIUN DA LA POPULAZIUN ESTRA RESIDENTA PERMANENTA
+[^23-1]: CS [142.20](https://db.clex.ch/link/Bund/142.20/rm)
 
-[^23-1]: CS 142.20 1-12-2012 5
+### 4.2. Promoziun da l'integraziun da la populaziun estra residenta permanenta
 
 #### Art. 24
 
@@ -245,7 +232,7 @@ En cas da basegn integrescha l'uffizi las vischnancas per coordinar ils projects
 
 <sup>1</sup> Las autoritads chantunalas e las vischnancas promovan l'integraziun sur las structuras regularas, en spezial en ils secturs da la furmaziun, da la lavur e da la segirezza sociala. Ellas mettan a disposiziun purschidas per pussibilitar a tut las persunas che han il dretg da survegnir prestaziuns – independentamain da lur derivanza – las medemas schanzas tar l'access a la vita sociala, economica e culturala.
 
-<sup>2</sup> Las vischnancas che n'han betg mess a disposiziun las mesiras d'integraziun ch'èn necessarias per la promoziun linguistica d'uffants e da giuvenils en il rom da las structuras regularas da la scola obligatorica tenor las directivas dal departament d'educaziun, cultura e protecziun da l'ambient, pon vegnir obligadas da l'uffizi per la furmaziun professiunala da surpigliar ils custs per ils curs da lingua che resultan en vista a l'integraziun professiunala.
+<sup>2</sup> Las vischnancas che n'han betg mess a disposiziun las mesiras d'integraziun ch'èn necessarias per la promoziun linguistica d'uffants e da giuvenils en il rom da las structuras regularas da la scola obligatorica tenor las directivas dal Departament da furmaziun, ambient e cultura, pon vegnir obligadas da l'Uffizi per la furmaziun professiunala da surpigliar ils custs per ils curs da lingua che resultan en vista a l'integraziun professiunala.
 
 #### Art. 25
 
@@ -255,9 +242,7 @@ En cas da basegn integrescha l'uffizi las vischnancas per coordinar ils projects
 
 <sup>2</sup> En il senn d'ina finanziaziun da partenza pon vegnir concedidas contribuziuns finanzialas temporaras a mesiras d'integraziun, uschenavant che las structuras regularas na tegnan betg quint suffizientamain dals basegns specifics. En cas d'in basegn cumprovà ston ils custs ch'èn necessaris per talas mesiras d'integraziun vegnir surpigliads il pli tard suenter 5 onns da las structuras regularas.
 
-<sup>3</sup> ...[^25-1]
-
-[^25-1]: abolì tenor l'ordinaziun davart l'adattaziun d'ordinaziuns da la regenza en connex cun l'introducziun dal MAC2; mess en vigur cun CR dals 25 da settember 2012 per il 1. da december 2012 6 1-12-2012
+<sup>3</sup> …
 
 #### Art. 26
 
@@ -265,7 +250,7 @@ En cas da basegn integrescha l'uffizi las vischnancas per coordinar ils projects
 
 <sup>1</sup> Resguardond las prescripziuns federalas ed ils basegns chantunals elavura l'uffizi in program d'integraziun. Quel cuntegna en spezial la direcziun e las finamiras da la promoziun da l'integraziun sco er ils indicaturs che mesiran, sche las finamiras èn vegnidas cuntanschidas.
 
-<sup>2</sup> Sa basond sin il program d'integraziun fa il departament da giustia, segirezza e sanadad (departament) ina cunvegna da program cun l'uffizi federal cumpetent.
+<sup>2</sup> Sa basond sin il program d'integraziun po il Departament da giustia, segirezza e sanadad (departament) far ina cunvegna da program cun l'uffizi federal cumpetent.
 
 <sup>3</sup> L'uffizi è cumpetent per realisar il program d'integraziun.
 
@@ -283,9 +268,9 @@ En cas da basegn integrescha l'uffizi las vischnancas per coordinar ils projects
 
 **3. cumpetenzas da concessiun e da pajament**
 
-<sup>1</sup> L'uffizi po conceder contribuziuns finanzialas unicas fin 100 000 francs e contribuziuns periodicas annualas fin 50 000 francs a projects u a mesiras d'integraziun.
+<sup>1</sup> …
 
-<sup>2</sup> La concessiun da contribuziuns unicas pli autas u da contribuziuns periodicas annualas sa drizza tenor l'artitgel 51 da l'ordinaziun davart las finanzas.
+<sup>2</sup> La concessiun da contribuziuns finanzialas a projects u a mesiras d'integraziun sa drizza tenor l'artitgel 44 da l'Ordinaziun da finanzas dal chantun Grischun.
 
 <sup>3</sup> En cas da contribuziuns finanzialas unicas u periodicas da passa 30 000 francs dovri ina cunvegna da prestaziun. En cas da contribuziuns finanzialas pli bassas pon vegnir fatgas cunvegnas da prestaziun tenor l'appreziar da l'uffizi.
 
@@ -315,21 +300,15 @@ En cas da basegn integrescha l'uffizi las vischnancas per coordinar ils projects
 
 <sup>1</sup> Contribuziuns finanzialas fin 5 000 francs vegnan pajadas il mument da la concessiun.
 
-<sup>2</sup> Contribuziuns finanzialas unicas da passa 5 000 francs vegnan pajadas da princip sco suonda:
+<sup>2</sup> Contribuziuns finanzialas unicas da passa 5000 francs vegnan pajadas da princip sco suonda:
 
 - a) 80 pertschient il mument da la concessiun u durant l'emprim quartal da l'onn da gestiun che suonda;
-
 - b) il rest suenter l'approvaziun dal rapport final e dal quint final.
 
 <sup>3</sup> Contribuziuns finanzialas periodicas da passa 5 000 francs vegnan pajadas sco suonda:
 
 - a) 80 pertschient il mument da la concessiun u durant l'emprim quartal da l'onn da gestiun che suonda;
-
 - b) il rest suenter l'approvaziun dal rapport intermediar u final sco er dal quint annual u final.
-
-**7**
-
-1-12-2012
 
 #### Art. 32
 
@@ -339,11 +318,7 @@ En cas da basegn integrescha l'uffizi las vischnancas per coordinar ils projects
 
 <sup>2</sup> Per determinar il dumber da las abitantas e dals abitants è decisiva la statistica annuala davart la populaziun residenta permanenta da l'uffizi federal da statistica per ils 31 da december.
 
-- 3\. PROMOZIUN DA L'INTEGRAZIUN DA PERSUNAS
-
-ADMESSAS PROVISORICAMAIN SCO ER DA
-
-FUGITIVAS E DA FUGITIVS
+### 4.3. Promoziun Da l'integraziun Da Persunas Admessas Provisoricamain Sco Er Da Fugitivas E Da Fugitivs
 
 #### Art. 33
 
@@ -355,17 +330,15 @@ FUGITIVAS E DA FUGITIVS
 
 <sup>3</sup> L'uffizi examinescha ils projects u las mesiras d'integraziun ch'èn vegnids iniziads areguard lur efficacitad ed areguard lur persistenza.
 
-<sup>4</sup> ...[^33-1]
-
-[^33-1]: abolì tenor l'ordinaziun davart l'adattaziun d'ordinaziuns da la regenza en connex cun l'introducziun dal MAC2; mess en vigur cun CR dals 25 da settember 2012 per il 1. da december 2012 8 1-12-2012
+<sup>4</sup> …
 
 #### Art. 34
 
 **Cooperaziun**
 
-Las autoritads chantunalas e communalas ch'èn pertutgadas dal concept d'integraziun per fugitivas e per fugitivs renconuschids e per persunas admessas provisoricamain èn obligadas da cooperar cun l'uffizi, da preschentar ils documents dumandads e da realisar sias propostas.
+<sup>1</sup> Las autoritads chantunalas e communalas ch'èn pertutgadas dal concept d'integraziun per fugitivas e per fugitivs renconuschids e per persunas admessas provisoricamain èn obligadas da cooperar cun l'uffizi, da preschentar ils documents dumandads e da realisar sias propostas.
 
-### V. Collocaziun ed assistenza da persunas dal sectur d'asil
+## 5. Collocaziun ed assistenza da persunas dal sectur d'asil
 
 #### Art. 35
 
@@ -376,11 +349,8 @@ Las autoritads chantunalas e communalas ch'èn pertutgadas dal concept d'integra
 <sup>2</sup> Per la collocaziun vegnan manadas las suandantas categorias da centers collectivs:
 
 - a) centers per l'emprima registraziun;
-
 - b) centers transitorics;
-
 - c) centers d'expulsiun;
-
 - d) centers minimals.
 
 <sup>3</sup> Requirentas e requirents d'asil cun ina procedura pendenta, persunas admessas provisoricamain che na sa trategnan anc betg 7 onns en Svizra sco er persunas che basegnan protecziun vegnan per regla collocads en centers per l'emprima registraziun, en centers transitorics u en centers minimals, sch'ellas e sch'els èn economicamain dependents.
@@ -391,7 +361,7 @@ Las autoritads chantunalas e communalas ch'èn pertutgadas dal concept d'integra
 
 **2. custs**
 
-Il chantun finanziescha ils custs che resultan da la gestiun dals centers collectivs e da l'assistenza en ils centers collectivs.
+<sup>1</sup> Il chantun finanziescha ils custs che resultan da la gestiun dals centers collectivs e da l'assistenza en ils centers collectivs.
 
 #### Art. 37
 
@@ -405,17 +375,15 @@ Il chantun finanziescha ils custs che resultan da la gestiun dals centers collec
 
 <sup>4</sup> Dumondas per ina gulivaziun finanziala ston vegnir inoltradas a l'uffizi ensemen cun ils documents necessaris.
 
-[^37-1]: abolì tenor l'ordinaziun davart l'adattaziun d'ordinaziuns da la regenza en connex cun l'introducziun dal MAC2; mess en vigur cun CR dals 25 da settember 2012 per il 1. da december 2012 1-12-2012 9
-
 #### Art. 38
 
-[^37-1]
+**…**
 
 #### Art. 39
 
 **Collocaziun, assistenza e sustegn tras las vischnancas 1. princip**
 
-Per la collocaziun, per l'assistenza e per il sustegn finanzial da persunas admessas provisoricamain che sa trategnan dapi passa 7 onns en Svizra, da fugitivas e da fugitivs renconuschids sco er da persunas estras ordaifer il sectur d'asil èn cumpetentas las vischnancas.
+<sup>1</sup> Per la collocaziun, per l'assistenza e per il sustegn finanzial da persunas admessas provisoricamain che sa trategnan dapi passa 7 onns en Svizra, da fugitivas e da fugitivs renconuschids sco er da persunas estras ordaifer il sectur d'asil èn cumpetentas las vischnancas.
 
 #### Art. 40
 
@@ -433,9 +401,7 @@ Per la collocaziun, per l'assistenza e per il sustegn finanzial da persunas adme
 
 <sup>2</sup> Ils custs per l'assicuranza da malsauns collectiva vegnan surpigliads dal chantun.
 
-### VI. Custs per la partenza da la Svizra e custs d'execuziun
-
-sco er agid per il return
+## 6. Custs per la partenza da la Svizra e custs d'execuziun sco er agid per il return
 
 #### Art. 42
 
@@ -463,13 +429,7 @@ sco er agid per il return
 
 **2. object**
 
-L'agid per il return cuntegna la concessiun da pajaments finanzials u da prestaziuns materialas, sco per exempel la surpigliada dals custs per la
-
-**10**
-
-**11**
-
-1-12-2012 partenza da la Svizra ed ils custs d'execuziun u la consegna da medicaments essenzials.
+<sup>1</sup> L'agid per il return cuntegna la concessiun da pajaments finanzials u da prestaziuns materialas, sco per exempel la surpigliada dals custs per la partenza da la Svizra ed ils custs d'execuziun u la consegna da medicaments essenzials.
 
 #### Art. 45
 
@@ -493,7 +453,7 @@ L'agid per il return cuntegna la concessiun da pajaments finanzials u da prestaz
 
 **5. restituziun**
 
-Persunas estras che na partan betg da la Svizra u che turnan en Svizra suenter il pajament da l'agid per il return, ston restituir las prestaziuns concedidas.
+<sup>1</sup> Persunas estras che na partan betg da la Svizra u che turnan en Svizra suenter il pajament da l'agid per il return, ston restituir las prestaziuns concedidas.
 
 #### Art. 48
 
@@ -503,84 +463,18 @@ Persunas estras che na partan betg da la Svizra u che turnan en Svizra suenter i
 
 <sup>2</sup> Las persunas estras n'han nagin dretg da far ina dumonda per survegnir in agid federal per il return.
 
-1-12-2012
+## 7. Disposiziuns finalas
 
-**VII.**
+#### Art. 49
 
-### Disposiziuns finalas
+**Aboliziun e midada da relaschs[^49-1]**
 
-**Art.**
-
-49 Ils relaschs qua sutvart vegnan midads sco suonda respectivamain abolids:
-
-**Aboliziun e midada da relaschs**
-
-**1.**
-
-### Ordinaziun davart l'organisaziun da la regenza e da
-
-l'administraziun (DG 170.310)
-
-### Agiunta 1 cifra I.2.B
-
-- b) dretg da persunas estras
-
-- polizia da persunas estras
-
-- integraziun
-
-- fatgs d'asil
-
-**2.**
-
-### Disposiziuns executivas tar l'ordinaziun executiva tar la
-
-legislaziun davart ils esters ed ils fatgs d'asil
-
-### (DG 618.120)
-
-### Titel ed ingress
-
-## Ordinaziun davart il basegn finanzial da persunas da terzs stadis en cas da la reuniun da la famiglia
-
-sa basond sin l'art. 45 al. 1 da la constituziun chantunala
-
-#### Art. 1
-
-**Object**
-
-Las suandantas disposiziuns vegnan relaschadas per calcular ils meds finanzials necessaris en il rom da la reuniun da la famiglia sin basa da la lescha federala davart las persunas estras.
-
-**12**
-
-1-12-2012
-
-### 3. Tariffa da taxas tar la lescha federala davart la dimora
-
-ed il domicil dals esters (DG 618.150)
-
-### Titel ed ingress
-
-## Tariffa da taxas tar la legislaziun davart las persunas estras e davart ils fatgs d'asil
-
-sa basond sin l'art. 45 al. 1 da la constituziun chantunala
-
-- 4\. Ordinaziun davart l'admissiun da forzas da lavur estras
-
-### (DG 618.200)
-
-abolì
+[^49-1]: Las midadas dal dretg vertent na vegnan betg inditgadas.
 
 #### Art. 50
 
 **Entrada en vigur**
 
-Questa ordinaziun entra en vigur il 1. d'avust 2009.
+<sup>1</sup> Questa ordinaziun entra en vigur il 1. d'avust 2009.
 
-**13**
-
-1-12-2012
-
-## Weitere Fussnoten
-
-- [3] versiun tenor la revisiun parziala da l'ordinaziun davart l'organisaziun da la regenza e da l'administraziun, DG 170.310; entrada en vigur il 1. da november 2012
+-
