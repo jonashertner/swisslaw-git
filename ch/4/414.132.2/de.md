@@ -3,11 +3,11 @@ sr: "414.132.2"
 title: Verordnung der ETH Lausanne vom 30. Juni 2015 über die Kontrolle des Bachelor- und des Masterstudiums (Studienkontrollverordnung ETHL)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/476"
 language: de
-version: 2023-09-01
+version: 2024-09-01
 adopted: 2015-06-30
 in_force: 2016-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/476/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2015-476-20230901-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/476/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/476/20240901/de/xml/fedlex-data-admin-ch-eli-cc-2015-476-20240901-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/476/20240901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/476/20230901/de"
 
 (Studienkontrollverordnung ETHL)
 
-vom 30. Juni 2015 (Stand am 1. September 2023)
+vom 30. Juni 2015 (Stand am 1. September 2024)
 
 Die Schulleitung der Eidgenössischen Technischen Hochschule Lausanne (Schulleitung ETHL),
 
@@ -324,9 +324,10 @@ Das Vollzugsreglement oder das Verzeichnis der Lehrveranstaltungen legt fest, in
 
 <sup>1</sup> Die erforderlichen Kreditpunkte für die Bachelor- und die Masterstufe müssen gemäss dieser Verordnung, der Ausbildungsverordnung ETHL vom 14. Juni 2004[^26-1] und dem Vollzugsreglement erworben werden.
 
-<sup>2</sup> Auf der Bachelorstufe müssen die Studierenden in einem Zeitraum von zwei Jahren mindestens 60 Kreditpunkte erzielen.
+<sup>2</sup> …[^26-2]
 
 [^26-1]: [SR 414.132.3](https://fedlex.data.admin.ch/eli/cc/2004/653)
+[^26-2]: Aufgehoben durch Ziff. I der V der Schulleitung ETHL vom 17. Juli 2024, mit Wirkung seit 1. Sept. 2024 ([AS 2024 396](https://fedlex.data.admin.ch/eli/oc/2024/396)).
 
 #### Art. 27
 
@@ -376,11 +377,12 @@ Studierende können bedingt zur Masterarbeit zugelassen werden, sofern:
 
 <sup>2bis</sup> Die Masterarbeit muss innerhalb der von der ETHL vorgegebenen Frist eingereicht werden. Wird die Masterarbeit nicht fristgerecht eingereicht, so gilt sie als nicht bestanden.[^30-1]
 
-<sup>3</sup> Die Prüfung der Masterarbeit besteht aus der Bewertung durch den Dozenten oder die Dozentin, der oder die die Masterarbeit betreut hat, und durch einen Prüfungsexperten oder eine Prüfungsexpertin, der oder die vom Dozenten oder von der Dozentin nach Absprache mit dem Vorsteher oder der Vorsteherin der Sektion bestimmt wird:
+<sup>3</sup>
 
-a. der Masterarbeit; und
+Die Prüfung der Masterarbeit besteht aus der Bewertung durch den Dozenten oder die Dozentin, der oder die die Masterarbeit betreut hat, und durch einen Prüfungsexperten oder eine Prüfungsexpertin, der oder die vom Dozenten oder von der Dozentin nach Absprache mit dem Vorsteher oder der Vorsteherin der Sektion bestimmt wird:
 
-b. einer Verteidigung vor dem Dozenten oder der Dozentin und dem Prüfungsexperten oder der Prüfungsexpertin.[^30-2]
+- a. der Masterarbeit; und
+- b. einer Verteidigung vor dem Dozenten oder der Dozentin und dem Prüfungsexperten oder der Prüfungsexpertin.[^30-2]
 
 <sup>3bis</sup> Einzig der Dozent oder die Dozentin kann weitere Personen zur Verteidigung einladen; diese wirken nicht an der Bewertung mit. [^30-3]
 
@@ -403,11 +405,12 @@ b. einer Verteidigung vor dem Dozenten oder der Dozentin und dem Prüfungsexpert
 
 **Wiederholung**
 
-<sup>1</sup> Bei Nichtbestehen kann unter Einhaltung der in der Ausbildungsverordnung ETHL vom 14. Juni 2004[^32-1] festgelegten Fristen eine neue Masterarbeit vorgelegt werden.
+<sup>1</sup> Bei Nichtbestehen muss zwingend im darauffolgenden Semester und unter Einhaltung der in der Ausbildungsverordnung ETHL vom 14. Juni 2004[^32-1] festgelegten Fristen eine neue Masterarbeit vorgelegt werden.[^32-2]
 
 <sup>2</sup> Ein zweiter nicht erfolgreicher Abschluss führt zum definitiven Ausschluss.
 
 [^32-1]: [SR 414.132.3](https://fedlex.data.admin.ch/eli/cc/2004/653)
+[^32-2]: Fassung gemäss Ziff. I der V der Schulleitung ETHL vom 17. Juli 2024, in Kraft seit 1. Sept. 2024 ([AS 2024 396](https://fedlex.data.admin.ch/eli/oc/2024/396)).
 
 ## 5. Kapitel: Schlussbestimmungen
 

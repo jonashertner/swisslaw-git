@@ -3,11 +3,11 @@ sr: "414.132.2"
 title: Ordinanza del 30 giugno 2015 sulla verifica degli studi che portano al bachelor e al master presso il Politecnico federale di Losanna (Ordinanza sulla verifica degli studi al PFL)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/476"
 language: it
-version: 2023-09-01
+version: 2024-09-01
 adopted: 2015-06-30
 in_force: 2016-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/476/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2015-476-20230901-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/476/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/476/20240901/it/xml/fedlex-data-admin-ch-eli-cc-2015-476-20240901-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/476/20240901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/476/20230901/it"
 
 (Ordinanza sulla verifica degli studi al PFL)
 
-del 30 giugno 2015 (Stato 1° settembre 2023)
+del 30 giugno 2015 (Stato 1° settembre 2024)
 
 La Direzione del Politecnico federale di Losanna (Direzione del PFL),
 
@@ -107,7 +107,7 @@ Un blocco è considerato superato se:
 
 <sup>3</sup> Un gruppo è considerato superato se sono stati acquisiti i crediti previsti per le discipline che lo compongono; non è ammessa la compensazione tra i voti delle discipline del gruppo.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O della Direzione del PFL, del 20 ago. 2019, in vigore dal 15 set. 2019 ([RU 2019 2641](https://fedlex.data.admin.ch/eli/oc/2019/492)).
+[^6-1]: Nuovo testo giusta il n. I dell’O della Direzione del PFL del 20 ago. 2019, in vigore dal 15 set. 2019 ([RU 2019 2641](https://fedlex.data.admin.ch/eli/oc/2019/492)).
 
 #### Art. 7
 
@@ -190,7 +190,7 @@ Gli insegnanti svolgono in particolare i seguenti compiti:
 
 <sup>2</sup> Qualora gli insegnanti fossero impossibilitati a svolgere i loro compiti, il direttore di sezione designa dei sostituti.
 
-[^13-1]: Nuovo testo giusta il n. I dell’O della Direzione del PFL, del 27 lug. 2023, in vigore dal 1° set. 2023 ([RU 2023 447](https://fedlex.data.admin.ch/eli/oc/2023/447)).
+[^13-1]: Nuovo testo giusta il n. I dell’O della Direzione del PFL del 27 lug. 2023, in vigore dal 1° set. 2023 ([RU 2023 447](https://fedlex.data.admin.ch/eli/oc/2023/447)).
 
 #### Art. 14
 
@@ -220,7 +220,7 @@ Per le discipline di semestre possono essere istituite commissioni di valutazion
 
 <sup>2</sup> La conferenza d’esame si pronuncia sui casi particolari in base alle disposizioni legali.
 
-[^17-1]: Nuovo testo giusta il n. I dell’O della Direzione del PFL, del 27 lug. 2023, in vigore dal 1° set. 2023 ([RU 2023 447](https://fedlex.data.admin.ch/eli/oc/2023/447)).
+[^17-1]: Nuovo testo giusta il n. I dell’O della Direzione del PFL del 27 lug. 2023, in vigore dal 1° set. 2023 ([RU 2023 447](https://fedlex.data.admin.ch/eli/oc/2023/447)).
 
 #### Art. 18
 
@@ -301,8 +301,8 @@ Superano il ciclo propedeutico gli studenti che, conformemente al piano di studi
 <sup>4</sup> In caso di assenza giustificata ai sensi dell’articolo 10, la scuola valuta se sia ragionevole esigere che gli studenti completino il ciclo propedeutico nella sessione ordinaria corrispondente dell’anno successivo o se si debba considerare l’assenza come non superamento.
 
 [^23-1]: [RS 414.132.3](https://fedlex.data.admin.ch/eli/cc/2004/653)
-[^23-2]: Introdotto dal n. I dell’O della Direzione del PFL, del 20 ago. 2019, in vigore dal 1° giu. 2019 ([RU 2019 2641](https://fedlex.data.admin.ch/eli/oc/2019/492)).
-[^23-3]: Nuovo testo giusta il n. I dell’O della Direzione del PFL, del 20 ago. 2019, in vigore dal 15 set. 2019 ([RU 2019 2641](https://fedlex.data.admin.ch/eli/oc/2019/492)).
+[^23-2]: Introdotto dal n. I dell’O della Direzione del PFL del 20 ago. 2019, in vigore dal 1° giu. 2019 ([RU 2019 2641](https://fedlex.data.admin.ch/eli/oc/2019/492)).
+[^23-3]: Nuovo testo giusta il n. I dell’O della Direzione del PFL del 20 ago. 2019, in vigore dal 15 set. 2019 ([RU 2019 2641](https://fedlex.data.admin.ch/eli/oc/2019/492)).
 
 ## Capitolo 3: Esami del ciclo bachelor e del ciclo master
 
@@ -324,9 +324,10 @@ Il regolamento di applicazione o la scheda dei corsi definisce le discipline di 
 
 <sup>1</sup> I crediti richiesti per il ciclo bachelor e per il ciclo master devono essere acquisiti in conformità alla presente ordinanza, all’ordinanza del 14 giugno 2004[^26-1] sulla formazione al PFL e al regolamento di applicazione.
 
-<sup>2</sup> Nel ciclo bachelor devono essere acquisiti almeno 60 crediti nell’arco di due anni.
+<sup>2</sup> ...[^26-2]
 
 [^26-1]: [RS 414.132.3](https://fedlex.data.admin.ch/eli/cc/2004/653)
+[^26-2]: Abrogato dal n. I dell’O della Direzione del PFL del 17 lug. 2024, con effetto dal 1° set. 2024 ([RU 2024 396](https://fedlex.data.admin.ch/eli/oc/2024/396)).
 
 #### Art. 27
 
@@ -387,10 +388,10 @@ L’esame del progetto di master consiste nella valutazione da parte dell’inse
 
 <sup>4</sup> Se la qualità redazionale del progetto di master è giudicata insufficiente, l’insegnante può esigere dallo studente che siano apportati i dovuti miglioramenti entro due settimane dalla discussione.[^30-4]
 
-[^30-1]: Introdotto dal n. I dell’O della Direzione del PFL, del 27 lug. 2023, in vigore dal 1° set. 2023 ([RU 2023 447](https://fedlex.data.admin.ch/eli/oc/2023/447)).
-[^30-2]: Nuovo testo giusta il n. I dell’O della Direzione del PFL, del 27 lug. 2023, in vigore dal 1° set. 2023 ([RU 2023 447](https://fedlex.data.admin.ch/eli/oc/2023/447)).
-[^30-3]: Introdotto dal n. I dell’O della Direzione del PFL, del 27 lug. 2023, in vigore dal 1° set. 2023 ([RU 2023 447](https://fedlex.data.admin.ch/eli/oc/2023/447)).
-[^30-4]: Nuovo testo giusta il n. I dell’O della Direzione del PFL, del 27 lug. 2023, in vigore dal 1° set. 2023 ([RU 2023 447](https://fedlex.data.admin.ch/eli/oc/2023/447)).
+[^30-1]: Introdotto dal n. I dell’O della Direzione del PFL del 27 lug. 2023, in vigore dal 1° set. 2023 ([RU 2023 447](https://fedlex.data.admin.ch/eli/oc/2023/447)).
+[^30-2]: Nuovo testo giusta il n. I dell’O della Direzione del PFL del 27 lug. 2023, in vigore dal 1° set. 2023 ([RU 2023 447](https://fedlex.data.admin.ch/eli/oc/2023/447)).
+[^30-3]: Introdotto dal n. I dell’O della Direzione del PFL del 27 lug. 2023, in vigore dal 1° set. 2023 ([RU 2023 447](https://fedlex.data.admin.ch/eli/oc/2023/447)).
+[^30-4]: Nuovo testo giusta il n. I dell’O della Direzione del PFL del 27 lug. 2023, in vigore dal 1° set. 2023 ([RU 2023 447](https://fedlex.data.admin.ch/eli/oc/2023/447)).
 
 #### Art. 31
 
@@ -404,11 +405,12 @@ L’esame del progetto di master consiste nella valutazione da parte dell’inse
 
 **Ripetizione**
 
-<sup>1</sup> In caso di non superamento può essere presentato un nuovo progetto di master entro la durata massima prevista dall’ordinanza del 14 giugno 2004[^32-1] sulla formazione al PFL.
+<sup>1</sup> In caso di non superamento è obbligatorio presentare un nuovo progetto di master nel semestre successivo ed entro la durata massima prevista dall’ordinanza del 14 giugno 2004[^32-1] sulla formazione al PFL.[^32-2]
 
 <sup>2</sup> Un secondo non superamento comporta l’esclusione definitiva.
 
 [^32-1]: [RS 414.132.3](https://fedlex.data.admin.ch/eli/cc/2004/653)
+[^32-2]: Nuovo testo giusta il n. I dell’O della Direzione del PFL del 17 lug. 2024, in vigore dal 1° set. 2024 ([RU 2024 396](https://fedlex.data.admin.ch/eli/oc/2024/396)).
 
 ## Capitolo 5: Disposizioni finali
 

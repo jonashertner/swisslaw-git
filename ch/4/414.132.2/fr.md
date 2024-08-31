@@ -3,11 +3,11 @@ sr: "414.132.2"
 title: "Ordonnance du 30 juin 2015 sur le contrôle des études menant au bachelor et au master à l'École polytechnique fédérale de Lausanne (Ordonnance sur le contrôle des études à l'EPFL)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/476"
 language: fr
-version: 2023-09-01
+version: 2024-09-01
 adopted: 2015-06-30
 in_force: 2016-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/476/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2015-476-20230901-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/476/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/476/20240901/fr/xml/fedlex-data-admin-ch-eli-cc-2015-476-20240901-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/476/20240901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/476/20230901/fr"
 
 (Ordonnance sur le contrôle des études à l’EPFL)
 
-du 30 juin 2015 (État le 1<sup>er</sup> septembre 2023)
+du 30 juin 2015 (État le 1<sup>er</sup> septembre 2024)
 
 La Direction de l’École polytechnique fédérale de Lausanne (Direction de l’EPFL),
 
@@ -325,9 +325,10 @@ Le règlement d’application ou la fiche de cours définit les branches dont l�
 
 <sup>1</sup> Les crédits requis du cycle bachelor et du cycle master doivent être acquis conformément à la présente ordonnance, à l’ordonnance du 14 juin 2004 sur la formation à l’EPFL[^26-1] et au règlement d’application.
 
-<sup>2</sup> Dans le cycle bachelor, 60 crédits au moins doivent être acquis par tranche de deux ans.
+<sup>2</sup> …[^26-2]
 
 [^26-1]: [RS 414.132.3](https://fedlex.data.admin.ch/eli/cc/2004/653)
+[^26-2]: Abrogé par le ch. I de l’O de la Direction de l’EPFL du 17 juil. 2024, avec effet au 1<sup>er</sup> sept. 2024 ([RO 2024 396](https://fedlex.data.admin.ch/eli/oc/2024/396)).
 
 #### Art. 27
 
@@ -405,11 +406,12 @@ L’examen du projet de master consiste en l’évaluation, par l’enseignant q
 
 **Répétition**
 
-<sup>1</sup> En cas d’échec, un nouveau projet de master peut être présenté dans le respect de la durée maximale prévue par l’ordonnance du 14 juin 2004 sur la formation à l’EPFL[^32-1].
+<sup>1</sup> En cas d’échec, un nouveau projet de master doit être présenté impérativement au semestre qui suit et dans le respect de la durée maximale prévue par l’ordonnance du 14 juin 2004 sur la formation à l’EPFL[^32-1].[^32-2]
 
 <sup>2</sup> Un second échec constitue un échec définitif.
 
 [^32-1]: [RS 414.132.3](https://fedlex.data.admin.ch/eli/cc/2004/653)
+[^32-2]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 17 juil. 2024, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 396](https://fedlex.data.admin.ch/eli/oc/2024/396)).
 
 ## Chapitre 5 Dispositions finales
 
