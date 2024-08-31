@@ -3,18 +3,18 @@ sr: "414.110.422.3"
 title: "Ordonnance du 8 mai 1995 concernant l'admission à l'École polytechnique fédérale de Lausanne"
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/449"
 language: fr
-version: 2023-11-01
+version: 2024-09-01
 adopted: 1995-05-08
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/449/20231101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-449-20231101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/449/20231101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/449/20240901/fr/xml/fedlex-data-admin-ch-eli-cc-1999-449-20240901-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/449/20240901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance concernant l’admission à l’École polytechnique fédérale de Lausanne
 
-du 8 mai 1995 (État le 1<sup>er</sup> novembre 2023)
+du 8 mai 1995 (État le 1<sup>er</sup> septembre 2024)
 
 La Direction de l’École polytechnique fédérale de Lausanne (EPFL),
 
@@ -166,26 +166,27 @@ Quiconque ne remplit pas les conditions des art. 1 à 5 ne peut être admis au p
 <tr><td>3. physique</td><td>6</td></tr>
 <tr><td>4. informatique et calcul scientifique (ICS)</td><td>4</td></tr>
 <tr><td>5. chimie</td><td>3</td></tr>
-<tr><td>b. groupe 2:</td><td></td></tr>
-<tr><td>6. biologie</td><td>1</td></tr>
-<tr><td>7. français</td><td>1</td></tr>
-<tr><td>8. allemand, italien, anglais ou espagnol (au choix)</td><td>1</td></tr>
-<tr><td>9. histoire</td><td>1</td></tr>
-<tr><td>10. géographie</td><td>1 [^8-1]</td></tr>
+<tr><td>b.[^8-1] groupe 2:</td><td></td></tr>
+<tr><td>6. biologie</td><td>3</td></tr>
+<tr><td>7. français</td><td>3</td></tr>
+<tr><td>8. allemand, italien, anglais ou espagnol (au choix)</td><td>3</td></tr>
+<tr><td>9. histoire</td><td>3</td></tr>
+<tr><td>10. géographie</td><td>3 .[^8-2]</td></tr>
 </table>
 
-<sup>2</sup> Si le candidat prouve qu’il a, dans certaines branches du groupe 2, des connaissances correspondant au niveau d’une maturité fédérale, le délégué à la formation[^8-2] peut le dispenser des examens correspondants.[^8-3]
+<sup>2</sup> Si le candidat prouve qu’il a, dans certaines branches du groupe 2, des connaissances correspondant au niveau d’une maturité fédérale, le délégué à la formation[^8-3] peut le dispenser des examens correspondants.[^8-4]
 
-<sup>3</sup> La matière des examens doit remplir les objectifs des disciplines conformément à l’art. 9 de l’ordonnance du 7 décembre 1998 sur l’examen suisse de maturité[^8-4].[^8-5]
+<sup>3</sup> La matière des examens doit remplir les objectifs des disciplines conformément à l’art. 9 de l’ordonnance du 7 décembre 1998 sur l’examen suisse de maturité[^8-5].[^8-6]
 
-<sup>4</sup> …[^8-6]
+<sup>4</sup> …[^8-7]
 
-[^8-1]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 20 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 789](https://fedlex.data.admin.ch/eli/oc/2020/145)).
-[^8-2]: Nouvelle expression selon le ch. I de l’O de la Direction de l’EPFL du 22 mai 2006, en vigueur depuis le 23 oct. 2006 ([[RO 2006 5335](http://www.admin.ch/ch/f/as/2006/5335.pdf)](https://fedlex.data.admin.ch/eli/oc/2006/808)). Il a été tenu compte de cette mod. dans tout le texte.
-[^8-3]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 16 avril 2012, en vigueur depuis le 1<sup>er</sup> août 2012 ([RO 2012 3777](https://fedlex.data.admin.ch/eli/oc/2012/433)).
-[^8-4]: [RS 413.12](https://fedlex.data.admin.ch/eli/cc/1999/210)
-[^8-5]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 15 juil. 2013, en vigueur depuis le 1<sup>er</sup> déc. 2013 ([RO 2013 3255](https://fedlex.data.admin.ch/eli/oc/2013/622)).
-[^8-6]: Introduit par le ch. I de l’O de la direction de l’EPFL du 1<sup>er</sup> mars 2002 ([RO 2002 1763](https://fedlex.data.admin.ch/eli/oc/2002/266)). Abrogé par le ch. I de l’O de la Direction de l’EPFL du 20 fév. 2020, avec effet au 1<sup>er</sup> avr. 2020 ([RO 2020 789](https://fedlex.data.admin.ch/eli/oc/2020/145)).
+[^8-1]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 17 juil. 2024, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 395](https://fedlex.data.admin.ch/eli/oc/2024/395)).
+[^8-2]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 20 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 789](https://fedlex.data.admin.ch/eli/oc/2020/145)).
+[^8-3]: Nouvelle expression selon le ch. I de l’O de la Direction de l’EPFL du 22 mai 2006, en vigueur depuis le 23 oct. 2006 ([[RO 2006 5335](http://www.admin.ch/ch/f/as/2006/5335.pdf)](https://fedlex.data.admin.ch/eli/oc/2006/808)). Il a été tenu compte de cette mod. dans tout le texte.
+[^8-4]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 16 avril 2012, en vigueur depuis le 1<sup>er</sup> août 2012 ([RO 2012 3777](https://fedlex.data.admin.ch/eli/oc/2012/433)).
+[^8-5]: [RS 413.12](https://fedlex.data.admin.ch/eli/cc/1999/210)
+[^8-6]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 15 juil. 2013, en vigueur depuis le 1<sup>er</sup> déc. 2013 ([RO 2013 3255](https://fedlex.data.admin.ch/eli/oc/2013/622)).
+[^8-7]: Introduit par le ch. I de l’O de la direction de l’EPFL du 1<sup>er</sup> mars 2002 ([RO 2002 1763](https://fedlex.data.admin.ch/eli/oc/2002/266)). Abrogé par le ch. I de l’O de la Direction de l’EPFL du 20 fév. 2020, avec effet au 1<sup>er</sup> avr. 2020 ([RO 2020 789](https://fedlex.data.admin.ch/eli/oc/2020/145)).
 
 ### Section 4 Admission à la formation menant au bachelor après des semestres effectués dans une haute école et admission à la formation menant au master
 
@@ -394,7 +395,7 @@ En cas d’absence ou d’abandon sans excuse valable, le candidat est considér
 <sup>3</sup> Le groupe de branches 2 mentionné à l’art. 8, al. 1, ne peut être présenté que si l’ensemble des notes obtenues dans le groupe de branches 1 atteint la moyenne exigée. Le résultat demeure acquis lors d’une nouvelle tentative.[^22-3]
 
 [^22-1]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 20 fév. 2020, en vigueur depuis le 1<sup>er</sup> avr. 2020 ([RO 2020 789](https://fedlex.data.admin.ch/eli/oc/2020/145)).
-[^22-2]: Abrogé par le ch. I de l’O de la Direction de l’EPFL du 1<sup>er</sup> mars 2002 ([RO 2002 1763](https://fedlex.data.admin.ch/eli/oc/2002/266)). Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 22 mai 2006, en vigueur depuis le 23 oct. 2006 ([RO 2006 5335](https://fedlex.data.admin.ch/eli/oc/2006/808)).
+[^22-2]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 22 mai 2006, en vigueur depuis le 23 oct. 2006 ([RO 2006 5335](https://fedlex.data.admin.ch/eli/oc/2006/808)).
 [^22-3]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 16 avril 2012, en vigueur depuis le 1<sup>er</sup> août 2012 ([RO 2012 3777](https://fedlex.data.admin.ch/eli/oc/2012/433)).
 
 #### Art. 23

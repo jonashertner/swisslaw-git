@@ -3,18 +3,18 @@ sr: "414.110.422.3"
 title: Verordnung vom 8. Mai 1995 über die Zulassung zur Eidgenössischen Technischen Hochschule Lausanne
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/449"
 language: de
-version: 2023-11-01
+version: 2024-09-01
 adopted: 1995-05-08
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/449/20231101/de/xml/fedlex-data-admin-ch-eli-cc-1999-449-20231101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/449/20231101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/449/20240901/de/xml/fedlex-data-admin-ch-eli-cc-1999-449-20240901-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/449/20240901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung über die Zulassung zur Eidgenössischen Technischen Hochschule Lausanne
 
-vom 8. Mai 1995 (Stand am 1. November 2023)
+vom 8. Mai 1995 (Stand am 1. September 2024)
 
 Die Schulleitung der Eidgenössischen Technischen Hochschule Lausanne (ETHL),
 
@@ -157,7 +157,7 @@ Wer keine der Voraussetzungen nach den Artikeln 1–5 erfüllt, kann nach Besteh
 
 **Fächer, Notengewicht und Prüfungsstoff**
 
-<sup>1</sup> Die umfassende Aufnahmeprüfung ist in folgenden elf Fächern abzulegen:
+<sup>1</sup> Die umfassende Aufnahmeprüfung ist in folgenden zehn Fächern abzulegen:[^8-1]
 
 <table>
 <tr><th></th><th>Koeffizienten</th></tr>
@@ -167,26 +167,28 @@ Wer keine der Voraussetzungen nach den Artikeln 1–5 erfüllt, kann nach Besteh
 <tr><td>3. Physik</td><td>6</td></tr>
 <tr><td>4. Informatik und wissenschaftliches Rechnen (IWR)</td><td>4</td></tr>
 <tr><td>5. Chemie</td><td>3</td></tr>
-<tr><td>b. Gruppe 2:</td><td></td></tr>
-<tr><td>6. Biologie</td><td>1</td></tr>
-<tr><td>7. Französisch</td><td>1</td></tr>
-<tr><td>8. Deutsch, Italienisch, Englisch oder Spanisch (wahlweise)</td><td>1</td></tr>
-<tr><td>9. Geschichte</td><td>1</td></tr>
-<tr><td>10. Geografie</td><td>1 .[^8-1]</td></tr>
+<tr><td>b.[^8-2] Gruppe 2:</td><td></td></tr>
+<tr><td>6. Biologie</td><td>3</td></tr>
+<tr><td>7. Französisch</td><td>3</td></tr>
+<tr><td>8. Deutsch, Italienisch, Englisch oder Spanisch (wahlweise)</td><td>3</td></tr>
+<tr><td>9. Geschichte</td><td>3</td></tr>
+<tr><td>10. Geografie</td><td>3 .[^8-3]</td></tr>
 </table>
 
-<sup>2</sup> Weist der Kandidat bzw. die Kandidatin in einzelnen Fächern der Gruppe 2 Kenntnisse vor, die dem Niveau einer eidgenössischen Maturität entsprechen, so kann der oder die Bildungsbeauftragte[^8-2] die entsprechenden Prüfungen erlassen.[^8-3]
+<sup>2</sup> Weist der Kandidat bzw. die Kandidatin in einzelnen Fächern der Gruppe 2 Kenntnisse vor, die dem Niveau einer eidgenössischen Maturität entsprechen, so kann der oder die Bildungsbeauftragte[^8-4] die entsprechenden Prüfungen erlassen.[^8-5]
 
-<sup>3</sup> Der Prüfungsstoff muss den Prüfungszielen der einzelnen Fächer gemäss Artikel 9 der Verordnung vom 7. Dezember 1998[^8-4] über die schweizerische Maturitätsprüfung entsprechen.[^8-5]
+<sup>3</sup> Der Prüfungsstoff muss den Prüfungszielen der einzelnen Fächer gemäss Artikel 9 der Verordnung vom 7. Dezember 1998[^8-6] über die schweizerische Maturitätsprüfung entsprechen.[^8-7]
 
-<sup>4</sup> …[^8-6]
+<sup>4</sup> …[^8-8]
 
-[^8-1]: Fassung gemäss Ziff. I der V der Schulleitung ETHL vom 20. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 789](https://fedlex.data.admin.ch/eli/oc/2020/145)).
-[^8-2]: Ausdruck gemäss Ziff. I der V der Schulleitung ETHL vom 22. Mai 2006, in Kraft seit 23. Okt. 2006 ([AS 2006 5335](https://fedlex.data.admin.ch/eli/oc/2006/808)). Diese Änd. ist im ganzen Erlass berücksichtigt.
-[^8-3]: Fassung gemäss Ziff. I der V der Schulleitung ETHL vom 16. April 2012, in Kraft seit 1. Aug. 2012 ([AS 2012 3777](https://fedlex.data.admin.ch/eli/oc/2012/433)).
-[^8-4]: [SR 413.12](https://fedlex.data.admin.ch/eli/cc/1999/210)
-[^8-5]: Fassung gemäss Ziff. I der V der Schulleitung ETHL vom 15. Juli 2013, in Kraft seit 1. Dez. 2013 ([AS 2013 3255](https://fedlex.data.admin.ch/eli/oc/2013/622)).
-[^8-6]: Eingefügt durch Ziff. I der V der Schulleitung ETHL vom 1. März 2002 ([AS 2002 1763](https://fedlex.data.admin.ch/eli/oc/2002/266)). Aufgehoben durch Ziff. I der V der Schulleitung ETHL vom 20. Febr. 2020, mit Wirkung seit 1. April 2020 ([AS 2020 789](https://fedlex.data.admin.ch/eli/oc/2020/145)).
+[^8-1]: Fassung gemäss Ziff. I der V der Schulleitung ETHL vom 17. Juli 2024, in Kraft seit 1. Sept. 2024 ([AS 2024 395](https://fedlex.data.admin.ch/eli/oc/2024/395)).
+[^8-2]: Fassung gemäss Ziff. I der V der Schulleitung ETHL vom 17. Juli 2024, in Kraft seit 1. Sept. 2024 (AS **202****4** 395).
+[^8-3]: Fassung gemäss Ziff. I der V der Schulleitung ETHL vom 20. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 789](https://fedlex.data.admin.ch/eli/oc/2020/145)).
+[^8-4]: Ausdruck gemäss Ziff. I der V der Schulleitung ETHL vom 22. Mai 2006, in Kraft seit 23. Okt. 2006 ([AS 2006 5335](https://fedlex.data.admin.ch/eli/oc/2006/808)). Diese Änd. ist im ganzen Erlass berücksichtigt.
+[^8-5]: Fassung gemäss Ziff. I der V der Schulleitung ETHL vom 16. April 2012, in Kraft seit 1. Aug. 2012 ([AS 2012 3777](https://fedlex.data.admin.ch/eli/oc/2012/433)).
+[^8-6]: [SR 413.12](https://fedlex.data.admin.ch/eli/cc/1999/210)
+[^8-7]: Fassung gemäss Ziff. I der V der Schulleitung ETHL vom 15. Juli 2013, in Kraft seit 1. Dez. 2013 ([AS 2013 3255](https://fedlex.data.admin.ch/eli/oc/2013/622)).
+[^8-8]: Eingefügt durch Ziff. I der V der Schulleitung ETHL vom 1. März 2002 ([AS 2002 1763](https://fedlex.data.admin.ch/eli/oc/2002/266)). Aufgehoben durch Ziff. I der V der Schulleitung ETHL vom 20. Febr. 2020, mit Wirkung seit 1. April 2020 ([AS 2020 789](https://fedlex.data.admin.ch/eli/oc/2020/145)).
 
 ### 4. Abschnitt: Zulassung zum Bachelorstudium nach vorgängig an einer Hochschule besuchten Semestern und Zulassung zum Masterstudium
 

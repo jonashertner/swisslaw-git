@@ -3,18 +3,18 @@ sr: "414.110.422.3"
 title: "Ordinanza dell' 8 maggio 1995 sull'ammissione al Politecnico federale di Losanna"
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/449"
 language: it
-version: 2023-11-01
+version: 2024-09-01
 adopted: 1995-05-08
 in_force: 1995-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/449/20231101/it/xml/fedlex-data-admin-ch-eli-cc-1999-449-20231101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/449/20231101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/449/20240901/it/xml/fedlex-data-admin-ch-eli-cc-1999-449-20240901-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/449/20240901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza sull’ammissione al Politecnico federale di Losanna
 
-dell’8 maggio 1995 (Stato 1° novembre 2023)
+dell’8 maggio 1995 (Stato 1° settembre 2024)
 
 La Direzione del Politecnico federale di Losanna (PFL),
 
@@ -167,11 +167,11 @@ Coloro che non soddisfano le condizioni di cui agli articoli 1–5 possono esser
 <tr><td>4. informatica e calcolo scientifico (ICS)</td><td>4</td></tr>
 <tr><td>5. chimica</td><td>3</td></tr>
 <tr><td>b. Gruppo 2:</td><td></td></tr>
-<tr><td>6. biologia</td><td>1</td></tr>
-<tr><td>7. francese</td><td>1</td></tr>
-<tr><td>8. tedesco, italiano, inglese o spagnolo (a scelta)</td><td>1</td></tr>
-<tr><td>9. storia</td><td>1</td></tr>
-<tr><td>10. geografia</td><td>1 [^8-1]</td></tr>
+<tr><td>6. biologia</td><td>3</td></tr>
+<tr><td>7. francese</td><td>3</td></tr>
+<tr><td>8. tedesco, italiano, inglese o spagnolo (a scelta)</td><td>3</td></tr>
+<tr><td>9. storia</td><td>3</td></tr>
+<tr><td>10. geografia</td><td>3 [^8-1]</td></tr>
 </table>
 
 <sup>2</sup> Nel caso in cui un candidato può provare di avere conoscenze che corrispondono al livello di una maturità federale in alcune delle discipline del gruppo 2, il delegato alla formazione[^8-2] può dispensarlo dagli esami corrispondenti.[^8-3]
@@ -180,7 +180,7 @@ Coloro che non soddisfano le condizioni di cui agli articoli 1–5 possono esser
 
 <sup>4</sup> ...[^8-6]
 
-[^8-1]: Nuovo testo giusta il n. I dell’O della Direzione del PFL del 20 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 789](https://fedlex.data.admin.ch/eli/oc/2020/145)).
+[^8-1]: Nuovo testo giusta il n. I dell’O della Direzione del PFL del 17 lug. 2024, in vigore dal 1° set. 2024 ([RU 2024 398](https://fedlex.data.admin.ch/eli/oc/2024/398)).
 [^8-2]: Nuova espr. giusta il n. I dell’O della Direzione del PFL del 22 mag. 2006, in vigore dal 23 ott. 2006 ([RU 2006 5335](https://fedlex.data.admin.ch/eli/oc/2006/808)). Di detta mod. é tenuto conto in tutto il presente testo.
 [^8-3]: Nuovo testo giusta il n. I dell’O della Direzione del PFL del 16 apr. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3777](https://fedlex.data.admin.ch/eli/oc/2012/433)).
 [^8-4]: [RS 413.12](https://fedlex.data.admin.ch/eli/cc/1999/210)
@@ -279,11 +279,11 @@ L’ordinanza sulla formazione continua al PFL del 27 giugno 2005[^14-2] e l’o
 [^14-2]: [RS 414.134.2](https://fedlex.data.admin.ch/eli/cc/2005/553)
 [^14-3]: [RS 414.133.2](https://fedlex.data.admin.ch/eli/cc/1999/300)
 
-## Sezione 6: Corso di preparazione CMS
+### Sezione 6: Corso di preparazione CMS
 
-[^chap2-1]
+[^chap1-sec6-1]
 
-[^chap2-1]: Introdotta dal n. I dell’O della Direzione del PFL del 20 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 789](https://fedlex.data.admin.ch/eli/oc/2020/145)).
+[^chap1-sec6-1]: Introdotta dal n. I dell’O della Direzione del PFL del 20 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 789](https://fedlex.data.admin.ch/eli/oc/2020/145)).
 
 #### Art. 14a
 
@@ -394,7 +394,7 @@ In caso di assenza o di abbandono senza una ragione valida, l’esame risulta no
 <sup>3</sup> Le discipline del gruppo 2 di cui all’articolo 8 capoverso 1 possono essere presentate soltanto se i voti ottenuti in tutte le discipline del gruppo 1 raggiungono la media richiesta. Il risultato resta acquisito anche per un nuovo tentativo.[^22-3]
 
 [^22-1]: Nuovo testo giusta il n. I dell’O della Direzione del PFL del 20 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 789](https://fedlex.data.admin.ch/eli/oc/2020/145)).
-[^22-2]: Abrogato dal n. I dell’O della Direzione del PFL del 1° mar. 2002 ([RU 2002 1763](https://fedlex.data.admin.ch/eli/oc/2002/266)). Nuovo testo giusta il n. I dell’O della Direzione del PFL del 22 mag. 2006, in vigore dal 23 ott. 2006 ([RU 2006 5335](https://fedlex.data.admin.ch/eli/oc/2006/808)).
+[^22-2]: Nuovo testo giusta il n. I dell’O della Direzione del PFL del 22 mag. 2006, in vigore dal 23 ott. 2006 ([RU 2006 5335](https://fedlex.data.admin.ch/eli/oc/2006/808)).
 [^22-3]: Nuovo testo giusta il n. I dell’O della Direzione del PFL del 16 apr. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3777](https://fedlex.data.admin.ch/eli/oc/2012/433)).
 
 #### Art. 23
