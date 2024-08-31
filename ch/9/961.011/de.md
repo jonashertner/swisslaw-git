@@ -4,11 +4,11 @@ title: "Verordnung vom 9. November 2005 über die Beaufsichtigung von privaten V
 short: AVO
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/735"
 language: de
-version: 2024-01-01
+version: 2024-09-01
 adopted: 2005-11-09
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2005-735-20240101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/735/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20240901/de/xml/fedlex-data-admin-ch-eli-cc-2005-735-20240901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/735/20240901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/735/20240101/de"
 
 (Aufsichtsverordnung, AVO)
 
-vom 9. November 2005 (Stand am 1. Januar 2024)
+vom 9. November 2005 (Stand am 1. September 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -189,13 +189,18 @@ Versicherungsunternehmen, welche Versicherungsprodukte entwickeln und direkt ver
 
 ### (Art. 2 Abs. 2 Bst. f und Abs. 4 Bst. c VAG)
 
+<sup>1</sup>
+
 Nicht der Aufsicht untersteht eine Versicherungsvermittlungstätigkeit, wenn:
 
 - a. die jährliche Versicherungsprämie für die vermittelte Versicherung den Betrag von 600 Franken, ohne Steuern, nicht übersteigt;
 - b. die vermittelte Versicherung eine untergeordnete Leistung zur Lieferung eines Produkts oder zur Erbringung einer Dienstleistung durch einen beliebigen Anbieter ist; und
 - c. die Versicherungsvermittlung als Nebentätigkeit erfolgt.
 
+<sup>2</sup> Absatz 1 gilt nicht für die Zusatzversicherung zur sozialen Krankenversicherung.[^1h-2]
+
 [^1h-1]: Eingefügt durch Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^1h-2]: Eingefügt durch Ziff. I 2 der V vom 14. Aug. 2024 über die Regulierung der Versicherungsvermittlertätigkeit, in Kraft seit 1. Sept. 2024 ([AS 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
 
 #### Art. 2
 
@@ -1352,9 +1357,11 @@ Versicherungstechnische Rückstellungen sind:
 
 ### (Art. 16 VAG)
 
-**Art. 69**a
+#### Art. 69a
 
-<sup>1</sup> Versicherungsunternehmen müssen ihre Vermögenswerte nach dem Grundsatz der unternehmerischen Vorsicht anlegen und dabei folgende Anforderungen einhalten:
+<sup>1</sup>
+
+Versicherungsunternehmen müssen ihre Vermögenswerte nach dem Grundsatz der unternehmerischen Vorsicht anlegen und dabei folgende Anforderungen einhalten:
 
 - a. Sie dürfen ausschliesslich in Vermögenswerte und Instrumente investieren, deren Risiken sie hinreichend beurteilen, bewerten, überwachen, steuern und in ihre Berichterstattung einbeziehen können.
 - b. Sie müssen ihre Vermögenswerte so anlegen, dass Sicherheit, Qualität, Liquidität und Rentabilität des Portfolios als Ganzes sichergestellt werden. Die Belegenheit der Vermögenswerte muss die Verfügbarkeit gewährleisten.
@@ -1371,7 +1378,9 @@ Versicherungstechnische Rückstellungen sind:
 - f. Sie müssen Anlagen in angemessener Weise so mischen und streuen, dass eine übermässige Abhängigkeit von einer Anlageklasse, einem Vermögenswert, einem Emittenten, einer Unternehmensgruppe, einem Markt, einer geographischen Region sowie eine übermässige Risikokonzentration im Portfolio insgesamt vermieden wird.
 - g. Die Verwendung derivativer Finanzinstrumente ist nur zulässig, sofern diese zur Verringerung von Risiken oder zur effizienten Bewirtschaftung der Kapitalanlagen dienen; unzulässig sind Geschäfte, bei denen entsprechende Wertpapierbestände nicht vorhanden sind (Leerverkäufe).
 
-<sup>2</sup> Werden Anlagen für Lebensversicherungsverträge getätigt, bei denen das Anlagerisiko von der Versicherungsnehmerin oder dem Versicherungsnehmer getragen wird, so gelten Absatz 1 Buchstaben a–d sowie die folgenden Bestimmungen:
+<sup>2</sup>
+
+Werden Anlagen für Lebensversicherungsverträge getätigt, bei denen das Anlagerisiko von der Versicherungsnehmerin oder dem Versicherungsnehmer getragen wird, so gelten Absatz 1 Buchstaben a–d sowie die folgenden Bestimmungen:
 
 - a. Soweit Leistungen aus einem Vertrag direkt an den Wert von Anteilen an kollektiven Kapitalanlagen oder an im internen Anlagebestand gehaltenen Vermögenswerten gebunden sind, müssen die entsprechenden versicherungstechnischen Rückstellungen so genau wie möglich durch die betreffenden Anteile oder, sofern für den Anlagebestand keine Anteile gebildet wurden, durch die betreffenden Vermögenswerte gedeckt werden.
 - b. Soweit Leistungen aus einem Vertrag direkt an einen Index oder an einen anderen als die in Buchstabe a genannten Bezugswerte gebunden sind, müssen die entsprechenden versicherungstechnischen Rückstellungen so genau wie möglich durch die Vermögenswerte abbildet werden, auf denen der Index oder der Bezugswert beruht. Wenn keine Anteile gebildet werden, sind die Rückstellungen durch Vermögenswerte mit angemessener Sicherheit und Realisierbarkeit abzubilden, die so genau wie möglich denjenigen Werten entsprechen, auf denen der jeweilige Referenzwert beruht.
@@ -2251,8 +2260,6 @@ Sie kann Abweichungen von den Artikeln 959*a* Absätze 1 und 2, 959*b* Absätze 
 **Bewilligungsgesuch**
 
 ### (Art. 30*e* VAG)
-
-<sup>1</sup>
 
 Das Bewilligungsgesuch muss folgende Angaben und Unterlagen über die Versicherungszweckgesellschaft enthalten:
 
@@ -3516,7 +3523,7 @@ Der Anspruchsberechtigte trägt folgenden Selbstbehalt:
 
 ### (Art. 35 Abs. 3 VAG)
 
-**Art. 181**a
+#### Art. 181a
 
 Die FINMA berücksichtigt in der Aufsicht über die Rückversicherung hinsichtlich Organisation, Geschäftsplan, Unternehmensführung und Auslagerung die geringe Schutzbedürftigkeit und die Besonderheiten des Geschäftsmodells in der Rückversicherung, insbesondere deren Internationalität sowie den erhöhten Bedarf an Diversifizierung.
 
@@ -3822,6 +3829,34 @@ Für die Aufsicht notwendig sind Kennzahlen und Informationen, die es der FINMA 
 
 Wenn sich bei den Informationen nach Artikel 45 Absatz 1 VAG Änderungen ergeben, muss die Versicherungsvermittlerin oder der Versicherungsvermittler die Kundinnen und Kunden beim nächsten Kundenkontakt darüber informieren.
 
+## 6. Kapitel: Versicherungsvermittlertätigkeit im Bereich der Zusatzversicherung zur sozialen Krankenversicherung
+
+[^chap6-1]
+
+[^chap6-1]: Eingefügt durch Ziff. I 2 der V vom 14. Aug. 2024 über die Regulierung der Versicherungsvermittlertätigkeit, in Kraft seit 1. Sept. 2024 ([AS 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
+
+#### Art. 190d
+
+**Vereinbarung zwischen Versicherungsunternehmen**
+
+<sup>1</sup> Schliessen Versicherungsunternehmen eine Vereinbarung nach Artikel 31*a* Absatz 1 VAG ab, so stellen sie diese der FINMA zu und veröffentlichen sie.
+
+<sup>2</sup> Sie melden der FINMA jede Änderung der Vereinbarung neun Monate vor dem Inkrafttreten der Änderung. Eine Kündigung der Vereinbarung melden sie ihr umgehend.
+
+#### Art. 190e
+
+**Allgemeinverbindlichkeit von Regelungen der Vereinbarung zwischen Versicherungsunternehmen**
+
+Die in Anhang 7 aufgeführten Regelungen der Branchenvereinbarung zwischen Santésuisse und Curafutura vom 22. März 2024[^190e-1] betreffend die Qualität der Beratung und die Entschädigung an die Vermittler in der Kundenwerbung sind für sämtliche Versicherungsunternehmen, die im Bereich der Zusatzversicherung zur sozialen Krankenversicherung tätig sind, allgemeinverbindlich.
+
+[^190e-1]: Die Vereinbarung kann kostenlos eingesehen werden unter www.santesuisse.ch/fuer-versicherte/dienstleistungen/meldeformular-telefonwerbung und curafutura.ch/themen/krankenversicherung/vermittler/.
+
+#### Art. 190f
+
+**Verstösse gegen allgemeinverbindliche Regelungen**
+
+Nach Artikel 86 Absatz 1<sup>bis</sup> oder 2 VAG wird bestraft, wer gegen Regelungen nach Artikel 190*e* verstösst.
+
 ## 8. Titel: Versicherungsgruppen und Versicherungskonglomerate
 
 ### 1. Kapitel: Versicherungsgruppen
@@ -3974,7 +4009,7 @@ Die Versicherungsgruppe muss über ein Informationssystem verfügen, das für di
 
 Die FINMA bezeichnet diejenigen Versicherungsgruppen, welche als international tätig gelten, und macht dies öffentlich. Sie stützt sich hierfür auf die Kriterien gemäss den *Insurance Core Principles and Common Framework for the Supervision of Internationally Active Insurance Groups* vom November 2019[^197e-1] der Internationalen Vereinigung der Versicherungsaufsichtsbehörden.
 
-[^197e-1]: Abrufbar unter www.iaisweb.org.
+[^197e-1]: Abrufbar unter: www.iaisweb.org.
 
 ### 3. Abschnitt: Solvabilität
 
@@ -4170,7 +4205,7 @@ Die Artikel 191–203*a* betreffend die Versicherungsgruppen finden auf die Vers
 
 **Übergangsbestimmungen**
 
-<sup>1</sup> und <sup>2</sup> …[^216-1]
+<sup>1 und <sup>2</sup></sup> …[^216-1]
 
 <sup>3</sup> Ein allfälliger Bestand an Bewertungsreserven nach Artikel 37 Absatz 2 Buchstabe c auf festverzinslichen Wertpapieren darf mit folgender Einschränkung während höchstens fünf Jahren nach Inkrafttreten weiterhin angerechnet werden: Anrechenbar während der Übergangsfrist ist der niedrigste Wert aus dem Bestand der Bewertungsreserven am letzten Bilanzstichtag vor Inkrafttreten und aus den Beständen aus den Folgebewertungen jeweils am Jahresende.
 
@@ -4187,10 +4222,6 @@ In Bezug auf das Zielkapital (Art. 41–46) und das risikotragende Kapital (Art.
 <sup>6</sup> Das Versicherungsunternehmen dokumentiert die Versicherungsnehmer und die Versicherungsnehmerinnen spätestens bei der ersten nach Inkrafttreten gebotenen Information nach Artikel 130 Buchstabe e durch einen Nachtrag zum Vertrag über die Einzelheiten der Überschussausschüttung nach Artikel 130. Der Nachtrag muss mit den Angaben im Geschäftsplan übereinstimmen.
 
 <sup>7–9</sup> …[^216-5]
-
-<sup>8</sup> Das Übertrittsrecht nach Artikel 156 muss den Versicherten der bei Inkrafttreten bereits geschlossenen Bestände spätestens zwei Jahre nach Inkrafttreten gewährt werden.
-
-<sup>9</sup> Versicherungsunternehmen, die im Zeitpunkt des Inkrafttretens bereits über eine Bewilligung zum Geschäftsbetrieb verfügen, haben der FINMA innert zwei Jahren nach Inkrafttreten einen neuen Geschäftsplan zur Genehmigung einzureichen. Änderungen des bestehenden Geschäftsplans nach Artikel 5 VAG sind erst nach Einreichung des neuen Geschäftsplanes bekannt zu geben.
 
 <sup>10</sup> Die nicht zum Betrieb der Lebensversicherung ermächtigten Versicherungs- unternehmen, die im Zeitpunkt des Inkrafttretens über Versicherungen mit beschränk- ten Leistungen bei Unfall, Krankheit und Invalidität wie namentlich die Abonnenten- versicherung verfügen, in denen die Ausrichtung eines Sterbegeldes eingeschlossen ist, dürfen diese Sterbegeldvereinbarung nur noch bis zum Ablauf des Vertrages oder bis zum Eintritt des Versicherungsfalles weiterführen. Für die anerkannten Krankenkassen bleibt Artikel 14 der Verordnung vom 27. Juni 1995[^216-6] über die Krankenversicherung vorbehalten.
 
@@ -4253,6 +4284,15 @@ Versicherungsunternehmen können unter folgenden Voraussetzungen während drei J
 
 [^216c-1]: Eingefügt durch Ziff. I der V vom 2. Juni 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
+#### Art. 216d
+
+**Übergangsbestimmung zur Änderung vom 14. August 2024**[^216d-1]
+
+Für Anträge auf Abschluss einer Zusatzversicherung zur sozialen Krankenversicherung, die bis zum 31. Dezember 2024 beim Versicherungsunternehmen eintreffen, darf die Tätigkeit der Versicherungsvermittlerinnen und -vermittler, die über einen Einzelarbeitsvertrag nach Artikel 319 OR[^216d-2] an das Versicherungsunternehmen gebunden sind, bis zum 31. Januar 2025 nach bisherigem Recht entschädigt werden.
+
+[^216d-1]: Eingefügt durch Ziff. I 2 der V vom 14. Aug. 2024 über die Regulierung der Versicherungsvermittlertätigkeit, in Kraft seit 1. Sept. 2024 ([AS 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
+[^216d-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
 #### Art. 217
 
 **Aufhebung bisherigen Rechts**
@@ -4301,23 +4341,26 @@ Anhang 1[^t-1]
 
 - A1 Kollektivlebensversicherung im Rahmen der beruflichen Vorsorge
 - A2 Anteilgebundene Lebensversicherung
-- A2.1 Fondsanteilgebundene Kapitalversicherung mit Todesfall- oder Invaliditätsschutz
-- A2.2 Fondsanteilgebundene Kapitalversicherung mit Todesfall- oder Invaliditätsschutz sowie Erlebensfallgarantie
-- A2.3 Fondsanteilgebundene Rentenversicherung
-- A2.4 An interne Anlagebestände oder andere Bezugswerte gebundene Lebensversicherung mit Todesfall- oder Invaliditätsschutz
-- A2.5 An interne Anlagebestände oder andere Bezugswerte gebundene Lebensversicherung mit Todesfall- oder Invaliditätsschutz sowie Erlebensfallgarantie
-- A2.6 An interne Anlagebestände oder andere Bezugswerte gebundene Rentenversicherung
+  - A2.1 Fondsanteilgebundene Kapitalversicherung mit Todesfall- oder Invaliditätsschutz
+  - A2.2 Fondsanteilgebundene Kapitalversicherung mit Todesfall- oder Invaliditätsschutz sowie Erlebensfallgarantie
+  - A2.3 Fondsanteilgebundene Rentenversicherung
+  - A2.4 An interne Anlagebestände oder andere Bezugswerte gebundene Lebensversicherung mit Todesfall- oder Invaliditätsschutz
+  - A2.5 An interne Anlagebestände oder andere Bezugswerte gebundene Lebensversicherung mit Todesfall- oder Invaliditätsschutz sowie Erlebensfallgarantie
+  - A2.6 An interne Anlagebestände oder andere Bezugswerte gebundene Rentenversicherung
+
 - A3 Sonstige Lebensversicherung
-- A3.1 Einzelkapitalversicherung auf den Todes- und Erlebensfall
-- A3.2 Einzelrentenversicherung
-- A3.3 Sonstige Einzellebensversicherung
-- A3.4 Kollektivlebensversicherung ausserhalb der beruflichen Vorsorge
+  - A3.1 Einzelkapitalversicherung auf den Todes- und Erlebensfall
+  - A3.2 Einzelrentenversicherung
+  - A3.3 Sonstige Einzellebensversicherung
+  - A3.4 Kollektivlebensversicherung ausserhalb der beruflichen Vorsorge
+
 - A4 Unfallversicherung
 - A5 Krankenversicherung
 - A6 Kapitalisationsgeschäfte
-- A6.1 Fondsanteilgebundene Kapitalisationsgeschäfte
-- A6.2 An interne Anlagebestände gebundene Kapitalisationsgeschäfte
-- A6.3 Sonstige Kapitalisationsgeschäfte
+  - A6.1 Fondsanteilgebundene Kapitalisationsgeschäfte
+  - A6.2 An interne Anlagebestände gebundene Kapitalisationsgeschäfte
+  - A6.3 Sonstige Kapitalisationsgeschäfte
+
 - A7 Tontinengeschäfte
 
 ### B. Schadenversicherung
@@ -4440,15 +4483,15 @@ Anhang 3[^t-3]
 
 Für eine Eintrittswahrscheinlichkeit *u* ∈ (0,1) ist das *u*-Quantil *q**<sub>u</sub>* *(X)* einer Zufallsvariablen *X* (Verluste mit negativem Vorzeichen) unter dem Wahrscheinlichkeitsmass *P* definiert als
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20240101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20240901/de/xml/image/image1.png)
 
 Der Expected Shortfall *ES**<sub>α</sub>* *[X]* einer Zufallsvariablen *X* bei einer Eintrittswahrscheinlichkeit *α* ∈ (0,1) (typischerweise klein) ist definiert als
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20240101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20240901/de/xml/image/image2.png)
 
 Falls die Verteilung von *X* stetig ist, so ist der Expected Shortfall *ES**<sub>α</sub>* *[X]* gegeben durch den bedingten Erwartungswert
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20240101/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20240901/de/xml/image/image3.png)
 
 Anhang 4[^t-4]
 
@@ -4537,3 +4580,77 @@ Anhang 6[^t-6]
 - 3\.9 Angaben über weitere Mandate, Nebenbeschäftigungen und Arbeitsverhältnisse;
 - 3\.10 Nachweis der erforderlichen Ausbildung und Erklärung, die erforderliche Weiterbildung zu leisten;
 - 3\.11 Angaben und Bestätigung vom Arbeitgeber, mit dem das Anstellungsverhältnis besteht.
+
+Anhang 7[^t-7]
+
+(Art. 190*e*)
+
+## Allgemeinverbindliche Regelungen der Branchenvereinbarung
+
+[^t-7]: Eingefügt durch Ziff. I 2 der V vom 14. Aug. 2024 über die Regulierung der Versicherungsvermittlertätigkeit, in Kraft seit 1. Sept. 2024 ([AS 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
+
+Folgende Bestimmungen der Vereinbarung zwischen Santésuisse und Curafutura vom 22. März 2024[^annex7-lvlu1-1] betreffend die Qualität der Beratung und die Entschädigung an die Vermittler in der Kundenwerbung sind allgemeinverbindlich:
+
+### 1. Verbot der Telefonwerbung bei Personen, die nie bei einem Versicherungsunternehmen versichert waren oder seit längerer Zeit nicht mehr versichert sind (Art. 31*a* Abs. 1 Bst. c VAG)
+
+[^annex7-lvlu1-1]: Die Vereinbarung kann kostenlos eingesehen werden unter www.santesuisse.ch/fuer-versicherte/dienstleistungen/meldeformular-telefonwerbung und curafutura.ch/themen/krankenversicherung/vermittler/.
+
+Ziff. 6 Punkt 4:
+
+- [Die Versicherungsunternehmen verpflichten sich,] «auf telefonische Kaltakquise durch eigene Mitarbeitende oder externe Partner zu verzichten. Dabei werden unter Kaltakquise Erstansprachen potentieller Kunden verstanden, zu denen keine Geschäftsbeziehung besteht bzw. die länger als 36 Monate keine Kunden mehr sind, die vom Opting-out Gebrauch gemacht haben oder bei denen der Kontakt nicht auf eine Empfehlung einer dem potentiellen Kunden bekannten Drittperson entstanden ist.»
+
+### 2. Entschädigung der Tätigkeit der Versicherungsvermittlerinnen und ‑vermittler (Art. 31*a* Abs. 1 Bst. e VAG)
+
+Ziff. 5.4:
+
+- *«*5.4 *Entschädigung*
+  - 5\.4.1 Die Entschädigung im Sinne der Branchenvereinbarung ist definiert als alle abschlussbezogenen geldwerten Leistungen an Vermittler für Versicherungsvermittlung.
+  - 5\.4.2
+
+    Als abschlussbezogene geldwerte Leistungen gelten insbesondere:
+
+    - 5\.4.2.1 Nettoprovisionen (inkl. Provisionsstorni);
+    - 5\.4.2.2 Courtagen, Kommissionen, Rabatte oder sonstige vermögenswerte Vorteile, die sich auf den Abschluss beziehen, auch wenn sie zeitlich verzögert ausbezahlt werden und/oder periodisch entrichtet werden;
+    - 5\.4.2.3 Kosten für eingekaufte Leads (Kontaktadressen, Termine); ausgenommen davon sind von Versicherungsunternehmen (inkl. deren Tochtergesellschaften) selbst generierte Leads zur Verwendung im eigenen Vertrieb (gebundene Versicherungsvermittler);
+    - 5\.4.2.4 Fixlohnkosten (abschlussrelevanter Anteil inkl. Sozialversicherungsbeiträge und Steuern);
+    - 5\.4.2.5 Abschlusserfolgsabhängige Kosten wie Boni sowie jegliche Form von Entschädigungen aus Zusatzvereinbarungen.
+
+  - 5\.4.3 Variable Entschädigungen sind abschlussbezogene geldwerte Leistungen gemäss Ziff. 5.4.2 ohne Fixlohnkosten (5.4.2.4).
+  - 5\.4.4 Abschlussbezogene geldwerte Leistungen an Vermittler im Zusammenhang mit deren Betreuung (z. B. Einladung zu Events, Mittagessen und Weihnachtsgeschenke in sozial üblichem Rahmen) sind im Rahmen der Compliance-Regelung eines jeden Versicherers erlaubt und intern zu regeln. Diese sind nicht Bestandteil der Entschädigung.»
+
+Ziff. 8.2 erster Absatz:
+
+- «8.2 *Beratungsprotokolle*
+- Die Versicherer verpflichten sich, von den Vermittlern eingereichte Versicherungsanträge nur dann zu entschädigen, wenn diese von einem Beratungsprotokoll begleitet sind, welches den definierten Mindeststandards entspricht.»
+
+Ziff. 9.1.2:
+
+- «VVG
+- Für die maximale Entschädigung von Produkten im Krankenzusatzversicherungsbereich (VVG) gilt eine Obergrenze von 16 Nettomonatsprämien (fakturierte Prämie) pro Abschluss.»
+
+Ziff. 9.2:
+
+- «9.2 *Rückforderung der Entschädigung (Storno)*
+-
+
+  Für die Rückforderung der Entschädigung betreffend sämtliche Produkte gelten folgende Bedingungen unabhängig vom Start der Versicherung (per 1.1. oder unterjährig):
+
+  - a) Bei einer Vertragsdauer zwischen null bis und mit 365 Tagen muss die Entschädigung vom Vermittler zu 100 % zurückerstattet werden.
+  - b) Bei einer Vertragsdauer zwischen 366 und 730 Tagen bezahlt der Vermittler mindestens 50 % der erhaltenen Entschädigung zurück.
+  - c) Ab dem 731. Tag entscheidet jeder Versicherer über die Höhe individuell.
+
+- Schaltjahre sind entsprechend zu berücksichtigen. Bei Todesfall einer versicherten Person innerhalb der Fristen mit Rückerstattung kann der Versicherer auf die Rückforderung ganz oder teilweise verzichten.»
+
+### 3. Erstellung und Unterzeichnung von Beratungsprotokollen (Art. 31*a* Abs. 1 Bst. f VAG)
+
+Ziff. 8.2 zweiter Absatz:
+
+-
+
+  Das Beratungsprotokoll umfasst mindestens:
+
+  - – Datum der Beratung;
+  - – Namen des oder der Kunden und Beratungsperson(en);
+  - – Bestätigung, dass der Beratungstermin, der zum Antrag geführt hat, nicht aufgrund einer telefonischen Kaltakquise zustande gekommen ist;
+  - – Bestätigung der Informationen gemäss Art. 45 VAG;
+  - – Zustimmung des Kunden oder der Kundin sowie der Beratungsperson/en bzw. des verantwortlichen digitalen Betreibers entweder mittels Originalunterschrift oder durch Bestätigung in digitaler Form.»

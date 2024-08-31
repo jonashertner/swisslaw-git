@@ -4,11 +4,11 @@ title: "Ordonnance du 9 novembre 2005 sur la surveillance des entreprises d'assu
 short: OS
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/735"
 language: fr
-version: 2024-01-01
+version: 2024-09-01
 adopted: 2005-11-09
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2005-735-20240101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/735/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20240901/fr/xml/fedlex-data-admin-ch-eli-cc-2005-735-20240901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/735/20240901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/735/20240101/fr"
 
 (Ordonnance sur la surveillance, OS)
 
-du 9 novembre 2005 (État le 1<sup>er</sup> janvier 2024)
+du 9 novembre 2005 (État le 1<sup>er</sup> septembre 2024)
 
 Le Conseil fédéral suisse,
 
@@ -189,13 +189,18 @@ Les entreprises d’assurances qui développent des produits d’assurance et le
 
 ### (art. 2, al. 2, let. f, et 4, let. c, LSA)
 
+<sup>1</sup>
+
 L’activité des intermédiaires d’assurance n’est pas soumise à la surveillance lorsqu’elle répond aux conditions suivantes:
 
 - a. la prime annuelle pour l’assurance procurée ne dépasse pas 600 francs hors impôts;
 - b. l’assurance procurée est une prestation subordonnée à la livraison d’un produit ou à la fourniture d’un service par un prestataire quelconque;
 - c. l’intermédiation d’assurance constitue une activité accessoire.
 
+<sup>2</sup> L’al. 1 ne s’applique pas à l’assurance complémentaire à l’assurance-maladie sociale.[^1h-2]
+
 [^1h-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^1h-2]: Introduit par le ch. I 2 de l’O du 14 août 2024 sur la réglementation de l’activité des intermédiaires d’assurance, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
 
 #### Art. 2
 
@@ -2253,8 +2258,6 @@ Elle peut prévoir des dérogations aux art. 959*a*, al. 1 et 2, 959*b*, al. 2 e
 
 ### (art. 30*e* LSA)
 
-<sup>1</sup>
-
 La demande d’agrément doit contenir les informations et documents suivants relatifs à l’entité ad hoc d’assurance:
 
 - a. les statuts;
@@ -3434,7 +3437,7 @@ Sont exclus de l’assurance des dommages dus à des événements naturels:
 L’ayant droit supporte les franchises suivantes:
 
 - a. dans l’assurance de l’inventaire du ménage, 500 francs par événement;
-- b. dans l’assurance de l’inventaire agricole, 10 % de l’indemnité due par événement, mais 1000 francs au minimum et 10 0000 francs au maximum;
+- b. dans l’assurance de l’inventaire agricole, 10 % de l’indemnité due par événement, mais 1000 francs au minimum et 10 000 francs au maximum;
 - c. dans l’assurance des autres objets mobiliers, 10 % de l’indemnité due par événement, mais 2500 francs au minimum et 50 000 francs au maximum;
 - d.
 
@@ -3825,6 +3828,34 @@ Sont nécessaires à la surveillance les indicateurs et les informations qui per
 
 Lorsque les informations prévues à l’art. 45, al. 1, LSA sont modifiées, l’intermédiaire d’assurance est tenu d’en informer les clients lors de son prochain contact avec eux.
 
+## Chapitre 6 Activité des intermédiaires d’assurance dans le domaine de l’assurance complémentaire à l’assurance-maladie sociale
+
+[^chap6-1]
+
+[^chap6-1]: Introduit par le ch. I 2 de l’O du 14 août 2024 sur la réglementation de l’activité des intermédiaires d’assurance, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
+
+#### Art. 190d
+
+**Accord entre entreprises d’assurance**
+
+<sup>1</sup> Si des entreprises d’assurance concluent un accord au sens de l’art. 31*a*, al. 1, LSA, elles le transmettent à la FINMA et le publient.
+
+<sup>2</sup> Elles communiquent toute modification de l’accord à la FINMA neuf mois avant l’entrée en vigueur de la modification. Elles lui communiquent sans délai la résiliation de l’accord.
+
+#### Art. 190e
+
+**Force obligatoire générale de dispositions de l’accord entre entreprises d’assurance**
+
+Les dispositions de l’accord de branche du 22 mars 2024 entre santésuisse et curafutura concernant la qualité du conseil et l’indemnisation des intermédiaires lors de la prospection de nouveaux clients[^190e-1] mentionnées dans l’annexe 7 ont force obligatoire générale pour toutes les entreprises d’assurance actives dans l’assurance complémentaire à l’assurance-maladie sociale.
+
+[^190e-1]: L’accord de branche peut être consulté gratuitement aux adresses suivantes: [www.santesuisse.ch/fr/pour-les-assures/prestations/demarchage-telephonique-declaration](https://www.santesuisse.ch/fr/pour-les-assures/prestations/demarchage-telephonique-declaration) et [curafutura.ch/fr/themes/assurance-maladie/intermediaires](https://curafutura.ch/fr/themes/assurance-maladie/intermediaires).
+
+#### Art. 190f
+
+**Infractions à des dispositions qui ont force obligatoire générale**
+
+Est puni conformément à l’art. 86, al. 1<sup>bis</sup>, ou 2, LSA quiconque enfreint des dispositions visées à l’art. 190*e*.
+
 ## Titre 8 Groupes et conglomérats d’assurance
 
 ### Chapitre 1 Groupes d’assurance
@@ -3975,7 +4006,7 @@ Le groupe d’assurance doit disposer d’un système d’information qui fourni
 
 ### (art. 67 LSA)
 
-La FINMA désigne les groupes d’assurance réputés exercer une activité internationale et publie leurs noms. Elle s’appuie pour cela sur les critères découlant des *Insurance Core Principles and Common Framework for the Supervision of Internationally Active Insurance Groups* de novembre 2019[^197e-1] élaborés par l’Association internationale des contrôleurs d’assurance.
+La FINMA désigne les groupes d’assurance réputés exercer une activité internationale et publie leurs noms. Elle s’appuie pour cela sur les critères découlant des *Insurance Core Principles and Common Framework for the Supervision of Internationally* *Active Insurance Groups* de novembre 2019[^197e-1] élaborés par l’Association internationale des contrôleurs d’assurance.
 
 [^197e-1]: Consultables à l’adresse [www.iaisweb.org](http://www.iaisweb.org)
 
@@ -4173,7 +4204,7 @@ Les art. 191 à 203*a* relatifs aux groupes d’assurance s’appliquent par ana
 
 **Dispositions transitoires**
 
-<sup>1</sup> et <sup>2</sup> …[^216-1]
+<sup>1 et <sup>2</sup></sup> …[^216-1]
 
 <sup>3</sup> D’éventuelles réserves d’évaluation selon l’art. 37, al. 2, let. c, constituées sur des papiers-valeurs à taux d’intérêt fixe peuvent être prises en compte pendant cinq dans les limites suivantes: ne peut être prise en compte pendant la période transitoire que la valeur la plus basse des réserves d’évaluation lors de la dernière clôture des comptes avant l’entrée en vigueur de la présente ordonnance ou de lors de l’évaluation suivante à la fin de l’exercice.
 
@@ -4189,11 +4220,11 @@ Concernant le capital cible (art. 41 à 46) et le capital porteur de risques (ar
 
 <sup>6</sup> Au plus tard lors de la première information annuelle qui aura lieu après l’entrée en vigueur de la présente ordonnance en application de l’art. 130, let. e, l’entreprise d’assurance fournit aux preneurs d’assurance un avenant au contrat, contenant les détails de la participation aux excédents selon l’art. 130. Cet avenant doit correspondre aux données contenues dans le plan d’exploitation.
 
-<sup>7</sup> à <sup>9</sup> …[^216-5]
+<sup>7 à <sup>9</sup></sup> …[^216-5]
 
 <sup>10</sup> Les entreprises d’assurance qui ne sont pas autorisées à exploiter des affaires d’assurance sur la vie et qui, à la date de l’entrée en vigueur de la présente ordonnance, avaient inclus le paiement d’une indemnité de décès dans des couvertures d’assurance avec des prestations limitées en cas d’accident, de maladie ou d’invalidité, comme par exemple l’assurance par abonnement à un périodique, peuvent maintenir cet arrangement concernant l’indemnité de décès jusqu’à l’échéance du contrat ou jusqu’à la survenance du cas d’assurance. Pour les caisses-maladie reconnues, l’art. 14 de l’ordonnance du 27 juin 1995 sur l’assurance-maladie[^216-6] est réservé.
 
-<sup>11</sup> à <sup>15</sup> …[^216-7]
+<sup>11 à <sup>15</sup></sup> …[^216-7]
 
 <sup>16</sup> Les art. 175 et 176, al. 2, s’appliquent aux contrats d’assurance en cours au moment de l’entrée en vigueur de la modification du 18 octobre 2006 et à ceux qui sont conclus après cette date.[^216-8]
 
@@ -4251,6 +4282,15 @@ Pendant trois ans à compter de l’entrée en vigueur de la présente modificat
 <sup>8</sup> Les entreprises d’assurance doivent fournir des informations spécifiques aux produits dans le cadre de l’assurance sur la vie non qualifiée (art. 129*a*) et de l’assurance sur la vie qualifiée (art. 129*b*) un an après l’entrée en vigueur de la présente ordonnance.
 
 [^216c-1]: Introduit par le ch. I de l’O du 2 juin 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+
+#### Art. 216d
+
+**Disposition transitoire relative à la modification du 14 août 2024**[^216d-1]
+
+Pour les propositions relatives à la conclusion d’une assurance complémentaire à l’assurance-maladie sociale reçues par l’entreprise d’assurance jusqu’au 31 décembre 2024, l’activité des intermédiaires d’assurance liés à l’entreprise d’assurance par un contrat individuel de travail au sens de l’art. 319 CO[^216d-2] peut être rémunérée conformément à l’ancien droit jusqu’au 31 janvier 2025.
+
+[^216d-1]: Introduit par le ch. I 2 de l’O du 14 août 2024 sur la réglementation de l’activité des intermédiaires d’assurance, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
+[^216d-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 #### Art. 217
 
@@ -4442,15 +4482,15 @@ Annexe 3[^t-3]
 
 Pour une probabilité de survenance *u* ∈ (0,1), le *u* – quantile *q**<sub>u</sub>* *(X)* d’une variable aléatoire *X* (signe négatif pour les pertes) avec la mesure de probabilité *P* est défini comme
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20240101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20240901/fr/xml/image/image1.png)
 
 L’expected shortfall *ES**<sub>α</sub>* *[X]* d’une variable aléatoire *X* pour une probabilité de survenance *α* ∈ (0,1) (typiquement faible) est défini comme
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20240101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20240901/fr/xml/image/image2.png)
 
 Si la répartition de *X* est continue, l’expected shortfall *ES**<sub>α</sub>* *[X]* est donné par l’espérance mathématique conditionnelle
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20240101/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20240901/fr/xml/image/image3.png)
 
 Annexe 4[^t-4]
 
@@ -4539,3 +4579,77 @@ Annexe 6[^t-6]
 - 3\.9 Informations sur d’autres mandats, activités accessoires et contrats de travail
 - 3\.10 Attestation de la formation requise et déclaration attestant de la disposition à suivre la formation continue requise
 - 3\.11 Informations et confirmation fournies par l’employeur avec lequel le contrat de travail est conclu
+
+Annexe 7[^t-7]
+
+(art. 190*e*)
+
+## Dispositions ayant force obligatoire générale de l’accord de branche
+
+[^t-7]: Introduite par le ch. I 2 de l’O du 14 août 2024 sur la réglementation de l’activité des intermédiaires d’assurance, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
+
+Les dispositions suivantes de l’accord de branche du 22 mars 2024 entre santésuisse et curafutura concernant la qualité du conseil et l’indemnisation des intermédiaires lors de la prospection de nouveaux clients[^annex7-lvlu1-1] ont force obligatoire générale:
+
+### 1. Interdiction du démarchage téléphonique des personnes qui n’ont jamais été assurées auprès d’une entreprise d’assurance ou qui ne le sont plus depuis un certain temps (art. 31*a*, al. 1, let. c, LSA)
+
+[^annex7-lvlu1-1]: L’accord de branche peut être consulté gratuitement aux adresses suivantes: [www.santesuisse.ch/fr/pour-les-assures/prestations/demarchage-telephonique-declaration](https://www.santesuisse.ch/fr/pour-les-assures/prestations/demarchage-telephonique-declaration) et [curafutura.ch/fr/themes/assurance-maladie/intermediaires](https://curafutura.ch/fr/themes/assurance-maladie/intermediaires).
+
+Ch. 6, point 4:
+
+- [Les entreprises d’assurance s’engagent] «à renoncer à toute prospection téléphonique à froid, qu’elle soit réalisée par leurs propres collaborateurs ou par des partenaires externes. On entend par prospection à froid les premiers contacts établis avec des clients potentiels avec lesquels il n’existe aucune relation de clientèle ou qui ne sont plus clients depuis plus de 36 mois, qui ont fait usage de l’opting-out ou pour lesquels le contact ne découle pas d’une recommandation d’un tiers connu du client potentiel.»
+
+### 2. Rémunération de l’activité d’intermédiaire d’assurance (art. 31*a*, al. 1, let. e, LSA)
+
+Ch. 5.4:
+
+- «5.4 *Indemnisation*
+  - 5\.4.1 L’indemnisation au sens de l’accord de branche est définie comme l’ensemble des prestations pécuniaires liées aux conclusions, qui sont versées aux intermédiaires effectuant une activité d’intermédiation en assurance.
+  - 5\.4.2
+
+    Sont notamment considérés comme étant des prestations pécuniaires liées aux conclusions:
+
+    - 5\.4.2.1 les commissions nettes (y compris les annulations de commissions);
+    - 5\.4.2.2 les courtages, commissions, rabais ou autres avantages financiers liés à la conclusion du contrat, même lorsqu’ils sont versés de manière différée et/ou payés périodiquement;
+    - 5\.4.2.3 les coûts des prospects achetés (adresses de contact, rendez-vous) à l’exception des prospects générés par les entreprises d’assurance elles-mêmes (y compris leurs filiales) pour leur propre usage commercial (intermédiaires liés);
+    - 5\.4.2.4 les coûts salariaux fixes (part représentative de la conclusion du contrat, incluant les cotisations sociales et les impôts);
+    - 5\.4.2.5 les coûts liés au résultat des conclusions, tels que les gratifications ainsi que toute forme d’indemnisations convenues dans les accords additionnels.
+
+  - 5\.4.3 Les indemnisations variables sont des prestations pécuniaires liées aux conclusions au sens du chiffre 5.4.2, hors coûts salariaux fixes.
+  - 5\.4.4 Les prestations pécuniaires liées aux conclusions pour les intermédiaires dans le cadre de leur suivi (p. ex. invitations à des événements, repas de midi et cadeaux de Noël dans les proportions habituelles) sont autorisées conformément au règlement de compliance propre à chaque assureur et doivent faire l’objet d’un règlement interne. Ces prestations ne font pas partie de l’indemnisation.»
+
+Ch. 8.2, 1<sup>er</sup> par.:
+
+- «8.2 *Compte-rendu de l’entretien-conseil*
+- Les assureurs s’engagent à n’indemniser les propositions d’assurance transmises par les intermédiaires que si elles s’accompagnent d’un compte-rendu de l’entretien-conseil, lequel doit correspondre aux normes minimales prédéfinies.»
+
+Ch. 9.1.2:
+
+- «LCA
+- Une limite supérieure de 16 primes mensuelles nettes (prime facturée) par conclusion est appliquée pour l’indemnisation maximale de produits dans le domaine de l’assurance-maladie complémentaire (LCA).»
+
+Ch. 9.2:
+
+- «9.2 *Remboursement de l’indemnisation (annulation)*
+-
+
+  S’agissant du remboursement de l’indemnisation pour tous les produits, les conditions suivantes s’appliquent indépendamment de la date de début de l’assurance (au 1<sup>er</sup> janvier ou en cours d’année):
+
+  - a) si le contrat a duré entre 0 et 365 jours, l’intermédiaire doit rembourser l’intégralité de l’indemnisation;
+  - b) si le contrat a duré entre 366 et 730 jours, l’intermédiaire doit rembourser au moins 50 % de l’indemnisation perçue;
+  - c) à partir du 731<sup>e</sup> jour, chaque assureur peut fixer lui-même le niveau du remboursement.
+
+- Les années bissextiles doivent être prises en compte en conséquence. En cas de décès d’une personne assurée pendant les délais donnant lieu à remboursement, l’assureur peut renoncer à tout ou partie de ce dernier.»
+
+### 3. Établissement et signature d’un procès-verbal pour les entretiens de conseil (art. 31*a*, al. 1, let. f, LSA)
+
+Ch. 8.2, 2<sup>e</sup> par.:
+
+-
+
+  «Le compte-rendu de l’entretien-conseil mentionne a minima:
+
+  - – la date de l’entretien-conseil;
+  - – les noms du ou des clients et du ou des conseillers;
+  - – la confirmation que la date du rendez-vous de conseil, qui a débouché sur la proposition, n’a pas été fixée lors d’une prospection téléphonique à froid;
+  - – la confirmation des informations selon l’art. 45 LSA;
+  - – l’accord du client ainsi que celui du conseiller ou de l’opérateur numérique responsable, soit par une signature originale, soit par une confirmation sous forme numérique.»

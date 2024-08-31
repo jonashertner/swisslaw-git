@@ -4,11 +4,11 @@ title: "Ordinanza del 9 novembre 2005 sulla sorveglianza delle imprese di assicu
 short: OS
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/735"
 language: it
-version: 2024-01-01
+version: 2024-09-01
 adopted: 2005-11-09
 in_force: 2006-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2005-735-20240101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/735/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20240901/it/xml/fedlex-data-admin-ch-eli-cc-2005-735-20240901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/735/20240901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/735/20240101/it"
 
 (Ordinanza sulla sorveglianza, OS)
 
-del 9 novembre 2005 (Stato 1° gennaio 2024)
+del 9 novembre 2005 (Stato 1° settembre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -189,13 +189,18 @@ Le imprese di assicurazione che sviluppano e vendono direttamente prodotti assic
 
 ### (art. 2 cpv. 2 lett. f e cpv. 4 lett. c LSA)
 
+<sup>1</sup>
+
 Un’attività di intermediazione non sottostà a sorveglianza se:
 
 - a. il premio assicurativo annuo per l’assicurazione intermediata non supera l’importo di 600 franchi al netto di tasse;
 - b. l’assicurazione intermediata è una prestazione secondaria alla fornitura di un prodotto o di un servizio da parte di un qualsiasi offerente; e
 - c. l’intermediazione assicurativa è svolta come attività accessoria.
 
+<sup>2</sup> Il capoverso 1 non è applicabile all’assicurazione complementare all’assicurazione sociale malattie.[^1h-2]
+
 [^1h-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
+[^1h-2]: Introdotto dal n. I 2 dell’O del 14 ago. 2024 che disciplina l’attività degli intermediari assicurativi, in vigore dal 1° set. 2024 ([RU 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
 
 #### Art. 2
 
@@ -576,13 +581,13 @@ Il SST determina la dotazione in capitale (solvibilità) di cui un’impresa di 
 
 <sup>2</sup> Gli assicurati non subiscono perdite sulle loro pretese garantite ai sensi del capoverso 1 se, al termine dei 12 mesi, l’impresa di assicurazione dispone di elementi patrimoniali sufficienti per adempiere regolarmente, a partire da quel momento, gli impegni esistenti derivanti dai contratti di assicurazione senza stipulare nuovi contratti, nel rispetto costante del livello di protezione del SST.
 
-#### Art. 22
+#### Art. 22a–22c
 
-***a*– **22***c* [^22-1]**
+[^22a22c-1]
 
 *Abrogati*
 
-[^22-1]: Introdotti dal n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2025 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^22a22c-1]: Introdotti dal n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2025 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 #### Art. 23
 
@@ -649,7 +654,8 @@ I modelli di valutazione per determinare il valore conforme al mercato degli att
 
 - a. sono riconosciuti dalla matematica finanziaria;
 - b. si orientano per quanto possibile a grandezze di mercato osservabili.
-- [tab] <sup>2</sup> Devono essere integrati nei processi interni dell’impresa di assicurazione.
+
+<sup>2</sup> Devono essere integrati nei processi interni dell’impresa di assicurazione.
 
 #### Art. 29
 
@@ -1070,13 +1076,13 @@ La FINMA autorizza un’impresa di assicurazione a utilizzare un modello interno
 [^50a-1]: Introdotto dal n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 [^50a-2]: [RS 956.1](https://fedlex.data.admin.ch/eli/cc/2008/736)
 
-#### Art. 50
+#### Art. 50b–50f
 
-***b*– **50***f*[^50-1]**
+[^50b50f-1]
 
 *Abrogati*
 
-[^50-1]: Introdotti dal n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
+[^50b50f-1]: Introdotti dal n. I dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
 ### Capitolo 9: Misure e interventi
 
@@ -1512,7 +1518,8 @@ L’impresa di assicurazione dispone di:
 - b. un regolamento d’investimento che garantisce l’osservanza dei principi per gli investimenti di cui all’articolo 76;
 - c. misure organizzative che assicurano che le persone incaricate dell’amministrazione e del controllo dispongono delle conoscenze necessarie per questi compiti;
 - d. una gestione del rischio adeguata al volume degli affari e alla complessità degli investimenti.
-- [tab] <sup>2</sup> La direzione stabilisce la strategia d’investimento e la presenta al consiglio d’amministrazione per approvazione.
+
+<sup>2</sup> La direzione stabilisce la strategia d’investimento e la presenta al consiglio d’amministrazione per approvazione.
 
 #### Art. 79
 
@@ -2914,26 +2921,33 @@ Nel contratto d’assicurazione collettivo e nei contratti individuali ad esso l
 
 <sup>1</sup> Per la parte fuori della previdenza professionale le imprese di assicurazione creano un fondo delle eccedenze. Tale fondo è una voce di bilancio attuariale per la messa a disposizione delle quote di eccedenze spettanti agli stipulanti.
 
-- [tab] <sup>2</sup> Nel fondo delle eccedenze viene tesaurizzata l’eccedenza conseguita nel corso di un esercizio e attribuita al collettivo di assicurati.
-- [tab] <sup>3</sup> Le quote di eccedenze destinate agli stipulanti possono essere prelevate solamente dal fondo delle eccedenze.
-- [tab] <sup>4</sup> Annualmente, almeno il 20 per cento delle eccedenze accumulate nel fondo delle eccedenze deve essere prelevato e distribuito agli stipulanti.
-- [tab] <sup>5</sup> Gli importi mancanti possono essere prelevati dal fondo delle eccedenze unicamente se i redditi dell’impresa di assicurazione non sono sufficienti alla costituzione delle riserve attuariali secondo il piano d’esercizio.
+<sup>2</sup> Nel fondo delle eccedenze viene tesaurizzata l’eccedenza conseguita nel corso di un esercizio e attribuita al collettivo di assicurati.
+
+<sup>3</sup> Le quote di eccedenze destinate agli stipulanti possono essere prelevate solamente dal fondo delle eccedenze.
+
+<sup>4</sup> Annualmente, almeno il 20 per cento delle eccedenze accumulate nel fondo delle eccedenze deve essere prelevato e distribuito agli stipulanti.
+
+<sup>5</sup> Gli importi mancanti possono essere prelevati dal fondo delle eccedenze unicamente se i redditi dell’impresa di assicurazione non sono sufficienti alla costituzione delle riserve attuariali secondo il piano d’esercizio.
 
 #### Art. 137
 
 **Assegnazione delle quote di eccedenze**
 
-- [tab] <sup>1</sup> L’assegnazione delle eccedenze deve avvenire secondo metodi attuariali riconosciuti ed evitando disparità di trattamento abusive.
-- [tab] <sup>2</sup> Non appena sono assegnate al singolo stipulante, le quote di partecipazione alle eccedenze sono considerate dovute. Esse devono essere distribuite agli aventi diritto conformemente alle regolamentazioni contrattuali, oppure, qualora fosse stato convenuto l’accumulo con interessi delle quote di eccedenze, esposte in una posizione di bilancio attuariale, appositamente creata.
-- [tab] <sup>3</sup> Il sistema di partecipazione alle eccedenze non può essere modificato a svantaggio dello stipulante durante la decorrenza del contratto.
+<sup>1</sup> L’assegnazione delle eccedenze deve avvenire secondo metodi attuariali riconosciuti ed evitando disparità di trattamento abusive.
+
+<sup>2</sup> Non appena sono assegnate al singolo stipulante, le quote di partecipazione alle eccedenze sono considerate dovute. Esse devono essere distribuite agli aventi diritto conformemente alle regolamentazioni contrattuali, oppure, qualora fosse stato convenuto l’accumulo con interessi delle quote di eccedenze, esposte in una posizione di bilancio attuariale, appositamente creata.
+
+<sup>3</sup> Il sistema di partecipazione alle eccedenze non può essere modificato a svantaggio dello stipulante durante la decorrenza del contratto.
 
 #### Art. 138
 
 **Eccedenza finale**
 
-- [tab] <sup>1</sup> Se il contratto di assicurazione sulla vita prevede una quota di eccedenze finale, bisogna costituire a questo effetto una riserva individuale distinta che deve essere alimentata annualmente. La quota di eccedenze finale non può derivare soltanto dal reddito alla scadenza del contratto.
-  - [tab] <sup>2</sup> La quota di riserve per la quota di eccedenze finale che diviene libera a seguito di scioglimento totale o parziale del contratto di assicurazione sulla vita prima della sua scadenza a causa di decesso o riscatto deve essere accreditata al fondo delle eccedenze, a meno che non venga versata allo stipulante.
-  - [tab] <sup>3</sup> Se la quota di eccedenze finale è la componente eccedentaria più importante del contratto, l’impresa di assicurazione deve assicurare contrattualmente allo stipulante che in caso di decesso o di riscatto riceverà una parte adeguata della quota di eccedenze finale cumulata.
+<sup>1</sup> Se il contratto di assicurazione sulla vita prevede una quota di eccedenze finale, bisogna costituire a questo effetto una riserva individuale distinta che deve essere alimentata annualmente. La quota di eccedenze finale non può derivare soltanto dal reddito alla scadenza del contratto.
+
+<sup>2</sup> La quota di riserve per la quota di eccedenze finale che diviene libera a seguito di scioglimento totale o parziale del contratto di assicurazione sulla vita prima della sua scadenza a causa di decesso o riscatto deve essere accreditata al fondo delle eccedenze, a meno che non venga versata allo stipulante.
+
+<sup>3</sup> Se la quota di eccedenze finale è la componente eccedentaria più importante del contratto, l’impresa di assicurazione deve assicurare contrattualmente allo stipulante che in caso di decesso o di riscatto riceverà una parte adeguata della quota di eccedenze finale cumulata.
 
 ### Capitolo 3: Disposizioni speciali per le assicurazioni della previdenza professionale
 
@@ -3059,7 +3073,8 @@ Se le componenti di risparmio corrispondono al 6 per cento o più della riserva 
 
 - a.[^147-3] il 4 per cento della componente di risparmio in favore dell’impresa di assicurazione;
 - b. il 90 per cento del risultato a favore degli stipulanti e il 10 per cento a favore dell’impresa di assicurazione. Per risultato è da intendere il saldo totale positivo conformemente all’articolo 149 capoversi 1 e 3 dedotta la costituzione di riserve prevista dal piano d’esercizio secondo l’articolo 149 capoverso 1 lettera a.
-- [tab] <sup>3</sup> Se necessita di fondi propri supplementari per soddisfare i requisiti in materia di solvibilità oppure se la quota della differenza tra la somma delle componenti e la quota di distribuzione attribuita al capitale proprio è in sproporzione all’attribuzione al fondo delle eccedenze, l’impresa di assicurazione ne deve dare comunicazione alla FINMA. Quest’ultima può, su domanda o d’ufficio, prevedere un disciplinamento che deroghi ai capoversi 1 e 2.
+
+<sup>3</sup> Se necessita di fondi propri supplementari per soddisfare i requisiti in materia di solvibilità oppure se la quota della differenza tra la somma delle componenti e la quota di distribuzione attribuita al capitale proprio è in sproporzione all’attribuzione al fondo delle eccedenze, l’impresa di assicurazione ne deve dare comunicazione alla FINMA. Quest’ultima può, su domanda o d’ufficio, prevedere un disciplinamento che deroghi ai capoversi 1 e 2.
 
 <sup>4</sup> La quota di distribuzione e la prova dell’utilizzazione devono essere sottoposte per approvazione.
 
@@ -3106,8 +3121,6 @@ Il saldo totale positivo è utilizzato conformemente al piano d’esercizio dell
 #### Art. 150
 
 **Procedura in caso di saldo totale negativo**
-
-<sup>1</sup>
 
 In caso di saldo totale negativo bisogna adottare, nell’ordine, i seguenti provvedimenti fino alla copertura del disavanzo:
 
@@ -3822,6 +3835,34 @@ Per la sorveglianza sono necessari gli indicatori e le informazioni che consento
 
 Se nelle informazioni di cui all’articolo 45 capoverso 1 LSA sopravvengono modifiche, l’intermediario assicurativo deve informarne i clienti in occasione del prossimo contatto.
 
+## Capitolo 6: Attività degli intermediari assicurativi nel settore dell’assicurazione complementare all’assicurazione sociale malattie
+
+[^chap6-1]
+
+[^chap6-1]: Introdotto dal n. I 2 dell’O del 14 ago. 2024 che disciplina l’attività degli intermediari assicurativi in vigore dal 1° set. 2024 ([RU 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
+
+#### Art. 190d
+
+**Accordo tra imprese di assicurazione**
+
+<sup>1</sup> Se le imprese di assicurazione concludono un accordo secondo l’articolo 31*a* capoverso 1 LSA, lo trasmettono alla FINMA e lo pubblicano.
+
+<sup>2</sup> Comunicano alla FINMA qualsiasi modifica dell’accordo nove mesi prima dell’entrata in vigore della modifica. Le comunicano immediatamente la risoluzione dell’accordo.
+
+#### Art. 190e
+
+**Carattere obbligatorio generale delle disposizioni dell’accordo tra imprese di assicurazione**
+
+Le disposizioni dell’accordo settoriale del 22 marzo 2024[^190e-1] concluso tra santésuisse e curafutura concernente la qualità della consulenza e le indennità versate agli intermediari per l’acquisizione di clienti menzionate nell’allegato 7 hanno carattere obbligatorio generale per tutte le imprese di assicurazione attive nell’assicurazione complementare all’assicurazione sociale malattie.
+
+[^190e-1]: L’accordo settoriale è consultabile gratuitamente ai seguenti indirizzi: [www.santesuisse.ch/fr/pour-les-assures/prestations/demarchage-telephonique-declaration](http://www.santesuisse.ch/fr/pour-les-assures/prestations/demarchage-telephonique-declaration) e [curafutura.ch/it/themen/krankenversicherung/vermittler/](http://curafutura.ch/it/themen/krankenversicherung/vermittler/)
+
+#### Art. 190f
+
+**Infrazioni alle disposizioni aventi carattere obbligatorio generale**
+
+È punito conformemente all’articolo 86 capoverso 1<sup>bis</sup> o 2 LSA chiunque commette un’infrazione alle disposizioni di cui all’articolo 190*e*.
+
 ## Titolo ottavo: Gruppi assicurativi e conglomerati assicurativi
 
 ### Capitolo 1: Gruppi assicurativi
@@ -3972,7 +4013,7 @@ Il gruppo assicurativo deve disporre di un sistema d’informazione capace di fo
 
 ### (art. 67 LSA)
 
-La FINMA designa i gruppi assicurativi attivi a livello internazionale e lo rende noto pubblicamente. A tal fine si basa su criteri desunti dagli *Insurance Core Principles* *and Common Framework for the Supervision of Internationally Active Insurance Groups* del novembre 2019[^197e-1] definiti dall’Associazione internazionale degli organi di vigilanza nel settore assicurativo.
+La FINMA designa i gruppi assicurativi attivi a livello internazionale e lo rende noto pubblicamente. A tal fine si basa su criteri desunti dagli *Insurance Core Principles and Common Framework for the Supervision of Internationally Active Insurance Groups* del novembre 2019[^197e-1] definiti dall’Associazione internazionale degli organi di vigilanza nel settore assicurativo.
 
 [^197e-1]: Consultabili sul sito www.iaisweb.org.
 
@@ -4170,7 +4211,7 @@ Gli articoli 191–203*a* relativi ai gruppi assicurativi sono applicabili per a
 
 **Disposizioni transitorie**
 
-<sup>1</sup> e <sup>2</sup> …[^216-1]
+<sup>1 e <sup>2</sup></sup> …[^216-1]
 
 <sup>3</sup> Eventuali riserve di valutazione secondo l’articolo 37 capoverso 2 lettera c su titoli a tasso di interesse fisso possono essere computate al massimo durante cinque anni dall’entrata in vigore con la seguente limitazione: computabile durante il periodo transitorio è il valore più basso della riserva di valutazione all’ultimo giorno di chiusura dei conti prima dell’entrata in vigore e quello delle riserve di valutazione successive alla fine dell’anno.
 
@@ -4186,11 +4227,11 @@ Con riferimento al capitale previsto (art. 41–46) e al capitale sopportante i 
 
 <sup>6</sup> Al più tardi in occasione della prima informazione annua che avrà luogo dopo l’entrata in vigore, l’impresa di assicurazione fornisce allo stipulante, in applicazione dell’articolo 130 lettera e, un’aggiunta al contratto contenente i dettagli della distribuzione delle eccedenze secondo l’articolo 130. L’aggiunta deve essere conforme con le indicazioni contenute nel piano d’esercizio.
 
-<sup>7</sup> a <sup>9</sup> …[^216-5]
+<sup>7 a <sup>9</sup></sup> …[^216-5]
 
 <sup>10</sup> Le imprese di assicurazione non autorizzate a esercitare l’assicurazione sulla vita che, all’entrata in vigore, includono un’indennità di decesso nelle assicurazioni a prestazioni limitate in caso d’infortunio, malattia e invalidità, come l’assicurazione connessa con l’abbonamento a un periodico, possono continuare a offrire questa indennità di decesso solo fino alla scadenza del contratto o fino alla sopravvenienza dell’evento assicurato. Per le casse malati riconosciute è fatto salvo l’articolo 14 dell’ordinanza del 27 giugno 1995[^216-6] sull’assicurazione malattie.
 
-<sup>11</sup> a <sup>15</sup> …[^216-7]
+<sup>11 a <sup>15</sup></sup> …[^216-7]
 
 <sup>16</sup> Gli articoli 175 e 176 si applicano a tutti i contratti d’assicurazione in corso dal momento dell’entrata in vigore della presente modifica del 18 ottobre 2006 e a tutti quelli conclusi dopo questa data.[^216-8]
 
@@ -4249,6 +4290,15 @@ Per tre anni dall’entrata in vigore della presente modifica, le imprese di ass
 
 [^216c-1]: Introdotto dal n. I dell’O del 2 giu. 2023, in vigore dal 1° gen. 2024 ([RU 2023 356](https://fedlex.data.admin.ch/eli/oc/2023/356)).
 
+#### Art. 216d
+
+**Disposizione transitoria della modifica del 14 agosto 2024**[^216d-1]
+
+Per le proposte relative alla conclusione di un’assicurazione complementare all’assicurazione sociale malattie ricevute dall’impresa di assicurazione entro il 31 dicembre 2024, l’attività degli intermediari assicurativi legati all’impresa di assicurazione mediante un contratto individuale di lavoro ai sensi dell’articolo 319 CO[^216d-2] può essere rimunerata secondo il diritto anteriore sino al 31 gennaio 2025.
+
+[^216d-1]: Introdotto dal n. I 2 dell’O del 14 ago. 2024 che disciplina l’attività degli intermediari assicurativi, in vigore dal 1° set. 2024 ([RU 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
+[^216d-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
 #### Art. 217
 
 **Diritto previgente: abrogazione**
@@ -4289,34 +4339,37 @@ Allegato 1[^t-1]
 
 (art. 3 cpv. 1)
 
+## Rami assicurativi
+
 [^t-1]: Aggiornato dal n. II cpv. 1 dell’O del 25 mar. 2015, in vigore dal 1° lug. 2015 ([RU 2015 1147](https://fedlex.data.admin.ch/eli/oc/2015/233)).
 
-Allegato 1: Rami assicurativi
-
-## A. Assicurazione sulla vita
+### A. Assicurazione sulla vita
 
 - A1 Assicurazione collettiva sulla vita nel quadro della previdenza professionale
 - A2 Assicurazione sulla vita vincolata a partecipazioni
-- A2.1 Assicurazione di capitali legata a quote di fondi con copertura in caso di decesso o d’invalidità
-- A2.2 Assicurazione di capitali legata a quote di fondi con copertura in caso di decesso o d’invalidità nonché garanzia in caso sopravvivenza
-- A2.3 Assicurazione di rendita legata a quote di fondi
-- A2.4 Assicurazione sulla vita con copertura in caso di decesso vincolata a un portafoglio di investimenti interno o ad altri valori di riferimento
-- A2.5 Assicurazione sulla vita con copertura in caso di decesso o d’invalidità nonché garanzia in caso di sopravvivenza vincolata a un portafoglio di investimenti interno o ad altri valori di riferimento
-- A2.6 Assicurazione di rendita vincolata a un portafoglio di investimenti interno o ad altri valori di riferimento
+  - A2.1 Assicurazione di capitali legata a quote di fondi con copertura in caso di decesso o d’invalidità
+  - A2.2 Assicurazione di capitali legata a quote di fondi con copertura in caso di decesso o d’invalidità nonché garanzia in caso sopravvivenza
+  - A2.3 Assicurazione di rendita legata a quote di fondi
+  - A2.4 Assicurazione sulla vita con copertura in caso di decesso vincolata a un portafoglio di investimenti interno o ad altri valori di riferimento
+  - A2.5 Assicurazione sulla vita con copertura in caso di decesso o d’invalidità nonché garanzia in caso di sopravvivenza vincolata a un portafoglio di investimenti interno o ad altri valori di riferimento
+  - A2.6 Assicurazione di rendita vincolata a un portafoglio di investimenti interno o ad altri valori di riferimento
+
 - A3 Altre assicurazioni sulla vita
-- A3.1 Assicurazione individuale di capitale in caso di decesso e in caso di sopravvivenza
-- A3.2 Assicurazione individuale di rendita
-- A3.3 Altre assicurazioni individuali sulla vita
-- A3.4 Assicurazione collettiva sulla vita al di fuori della previdenza professionale
+  - A3.1 Assicurazione individuale di capitale in caso di decesso e in caso di sopravvivenza
+  - A3.2 Assicurazione individuale di rendita
+  - A3.3 Altre assicurazioni individuali sulla vita
+  - A3.4 Assicurazione collettiva sulla vita al di fuori della previdenza professionale
+
 - A4 Assicurazione contro gli infortuni
 - A5 Assicurazione contro le malattie
 - A6 Operazioni di capitalizzazione
-- A6.1 Operazioni di capitalizzazione legate a quote di fondi
-- A6.2 Operazioni di capitalizzazione vincolate a un portafoglio di investimenti interno
-- A6.3 Altre operazioni di capitalizzazione
+  - A6.1 Operazioni di capitalizzazione legate a quote di fondi
+  - A6.2 Operazioni di capitalizzazione vincolate a un portafoglio di investimenti interno
+  - A6.3 Altre operazioni di capitalizzazione
+
 - A7 Operazioni tontinarie
 
-## B. Assicurazione contro i danni
+### B. Assicurazione contro i danni
 
 - B1 Infortuni (compresi gli infortuni sul lavoro e le malattie professionali)
   - – prestazioni forfettarie
@@ -4403,7 +4456,7 @@ Allegato 1: Rami assicurativi
 - B18 Prestazioni di assistenza per turisti
 - Assistenza alle persone in difficoltà nel corso di spostamenti o di assenza dal domicilio o dal luogo di residenza
 
-## C. Riassicurazione
+### C. Riassicurazione
 
 - C1 Riassicurazione da parte di imprese di assicurazione che esercitano esclusivamente l’attività riassicurativa
 - C2 Riassicurazione in tutti i rami assicurativi da parte di imprese di assicurazione che esercitano l’assicurazione contro i danni
@@ -4436,15 +4489,15 @@ Allegato 3[^t-3]
 
 Per un livello di probabilità *u* ∈ (0,1) il quantile *u* *q**<sub>u</sub>* *(X)* di una variabile aleatoria *X* (perdite di segno negativo) inferiore al grado di probabilità *P* è definito come
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20240101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20240901/it/xml/image/image1.png)
 
 L’expected shortfall *ES**<sub>α</sub>* *[X]* di una variabile aleatoria *X* con un livello di probabilità che si verifichi l’evento *α* ∈ (0,1) (generalmente esiguo) è definita come
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20240101/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20240901/it/xml/image/image2.png)
 
 Se la distribuzione di *X* è continua, l’expected shortfall *ES**<sub>α</sub>* *[X]* è data dal valore atteso condizionato
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20240101/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/735/20240901/it/xml/image/image3.png)
 
 Allegato 4[^t-4]
 
@@ -4533,9 +4586,77 @@ Allegato 6[^t-6]
 - 3\.9 Indicazioni su altri mandati, occupazioni accessorie e rapporti di lavoro
 - 3\.10 Prova della formazione richiesta e dichiarazione della disponibilità a svolgere la formazione continua richiesta
 - 3\.11 Indicazioni e conferma del datore di lavoro con cui sussiste un rapporto di lavoro
-- [tab]
-- [tab]
-- [tab]
-- [tab]
-- [tab]
-- [tab]
+
+Allegato 7[^t-7]
+
+(art. 190*e*)
+
+## Disposizioni aventi carattere obbligatorio generale dell’accordo settoriale
+
+[^t-7]: Introdotto dal n. I 2 dell’O del 14 ago. 2024 che disciplina l’attività degli intermediari assicurativi, in vigore dal 1° set, 2024 ([RU 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
+
+Le disposizioni seguenti dell’accordo settoriale del 22 marzo 2024[^annex7-lvlu1-1] concluso tra santésuisse e curafutura concernente la qualità della consulenza e le indennità versate agli intermediari per l’acquisizione di clienti hanno carattere obbligatorio generale:
+
+### 1. Divieto di pubblicità telefonica rivolta alle persone che non sono mai state assicurate presso un’impresa di assicurazione o che non lo sono più da tempo (art. 31*a* cpv. 1 lett. c LSA)
+
+[^annex7-lvlu1-1]: L’accordo settoriale è consultabile gratuitamente ai seguenti indirizzi: [www.santesuisse.ch/fr/pour-les-assures/prestations/demarchage-telephonique-declaration](http://www.santesuisse.ch/fr/pour-les-assures/prestations/demarchage-telephonique-declaration) e [curafutura.ch/it/themen/krankenversicherung/vermittler/](http://curafutura.ch/it/themen/krankenversicherung/vermittler/)
+
+N. 6, punto 4:
+
+- [Le imprese di assicurazione si impegnano a] «rinunciare alle acquisizioni telefoniche a freddo da parte di propri collaboratori o partner esterni. Per acquisizioni telefoniche a freddo si intendono i primi contatti stabiliti con potenziali clienti, con i quali non esiste alcuna relazione commerciale o che non sono più clienti da oltre 36 mesi, che hanno fatto uso dell’opting-out o per i quali il contatto non scaturisce da una raccomandazione di una persona terza nota al cliente potenziale.»
+
+### 2. Rimunerazione dell’attività degli intermediari assicurativi (art. 31*a* cpv. 1 lett. e LSA)
+
+N. 5.4:
+
+- «5.4 *Indennità*
+  - 5\.4.1 L’indennità ai sensi dell’accordo settoriale è definita come l’insieme delle prestazioni pecuniarie correlate alle stipulazioni versate agli intermediari per la loro attività di intermediazione assicurativa.
+  - 5\.4.2
+
+    Sono considerati prestazioni pecuniarie correlate alle stipulazioni in particolare:
+
+    - 5\.4.2.1 provvigioni nette (compresi gli storni delle provvigioni);
+    - 5\.4.2.2 courtage, commissioni, ribassi o altri vantaggi finanziari correlati alla stipulazione anche se effettuati con pagamento differito e/o corrisposti periodicamente;
+    - 5\.4.2.3 costi per l’acquisizione di lead (indirizzi di contatto, appuntamenti); fanno eccezione i lead generati dall’azienda assicurativa stessa (comprese le loro società affiliate) per proprio uso commerciale (intermediari vincolati);
+    - 5\.4.2.4 costi salariali fissi (parte rilevante per la stipulazione, compresi contributi per le assicurazioni sociali e imposte);
+    - 5\.4.2.5 costi correlati all’esito della stipulazione, quali bonus e tutte le forme di indennità convenute negli accordi aggiuntivi.
+
+  - 5\.4.3 Le indennità variabili sono prestazioni pecuniarie correlate alle stipulazioni ai sensi del punto 5.4.2 senza costi salariali fissi.
+  - 5\.4.4 Le prestazioni pecuniarie correlate alle stipulazioni per gli intermediari nel quadro della loro attività di assistenza (p. es. inviti a eventi, pranzi o regali di Natale nei limiti socialmente opportuni) sono consentite nel quadro del regolamento di compliance di ciascun assicuratore e vanno disciplinate in un regolamento interno. Queste non fanno parte delle indennità.»
+
+N. 8.2, primo paragrafo:
+
+- «8.2 *Verbali di consulenza*
+- Gli assicuratori remunerano le proposte di assicurazione presentate dagli intermediari soltanto se accompagnate da un verbale di consulenza che soddisfi gli standard minimi definiti.»
+
+N. 9.1.2:
+
+- «LCA
+- Per l’indennità massima concernente i prodotti nel settore dell’assicurazione malattie complementare (LCA) si applica un tetto massimo di 16 premi mensili netti (premio fatturato) per stipulazione.»
+
+N. 9.2:
+
+- «9.2 *Restituzione dell’indennità (storno)*
+-
+
+  Per la restituzione dell’indennità concernente tutti i prodotti si applicano le seguenti condizioni, a prescindere dall’inizio dell’assicurazione (al 1° gennaio o nel corso dell’anno):
+
+  - a) se la durata del contratto è compresa tra 0 e 365 giorni, l’intermediario restituisce il 100 % dell’indennità;
+  - b) se la durata del contratto è compresa tra 366 e 730 giorni, l’intermediario restituisce almeno il 50 % dell’indennità;
+  - c) a partire dal 731° giorno, ogni assicuratore decide in autonomia l’importo dell’indennità da restituire.
+
+- Per il computo si tiene conto degli anni bisestili. In caso di decesso di una persona assicurata entro i termini che prevedono una restituzione, l’assicuratore può rinunciare interamente o in parte a detta restituzione.»
+
+### 3. Redazione e firma di un verbale per i colloqui di consulenza (art. 31*a* cpv. 1 lett. f LSA)
+
+N. 8.2, secondo paragrafo:
+
+-
+
+  «Il verbale di consulenza comprende perlomeno:
+
+  - **–** la data della consulenza;
+  - **–** il nome del cliente o dei clienti nonché del consulente o dei consulenti;
+  - **–** la conferma che l’appuntamento per la consulenza che ha portato alla proposta non è stato fissato a seguito di un’acquisizione telefonica a freddo;
+  - **–** la conferma delle informazioni ai sensi dell’art. 45 della LSA;
+  - **–** il consenso del/della cliente nonché del consulente o dei consulenti rispettivamente dell’operatore digitale responsabile per mezzo di firma originale o conferma in forma digitale.»
