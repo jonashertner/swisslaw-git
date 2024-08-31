@@ -4,13 +4,12 @@ number: "213.1"
 title: Volksschulgesetz
 short: VSG
 language: de
-version: 2024-08-12
-valid_until: 2024-08-31
-version_adopted: 2023-01-24
+version: 2024-09-01
+version_adopted: 2024-06-25
 adopted: 1983-01-13
 in_force: 1983-04-16
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/213.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3535/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3654/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3535/pdf_file"
 
 (VSG)
 
-vom 13.01.1983 (Stand 12.08.2024)
+vom 13.01.1983 (Stand 01.09.2024)
 
 Der Grosse Rat des Kantons St.Gallen
 
@@ -1339,6 +1338,14 @@ als Gesetz:[^ingress-3]
 
 - a) die Herausgabe von Lehrmitteln;
 - b) den Schulbesuch.
+
+#### Art. 99bis
+
+**Gesundheitspolizeiliche Massnahmen**
+
+<sup>1</sup> Im Fall einer besonderen oder ausserordentlichen Lage nach [Art. 6](https://db.clex.ch/link/Bund/818.101/de) oder [7](https://db.clex.ch/link/Bund/818.101/de) des eidgenössischen Epidemiengesetzes vom 28. September 2012[^99bis-1] ordnet die Regierung befristete und gesamtkantonal geltende gesundheitspolizeiliche Massnahmen in der Volksschule zur Abwehr und Bekämpfung übertragbarer Krankheiten und anderer Gefährdungen der Gesundheit an.
+
+[^99bis-1]: SR [818.101](https://db.clex.ch/link/Bund/818.101/de).
 
 ### 2. Bildungsrat
 
