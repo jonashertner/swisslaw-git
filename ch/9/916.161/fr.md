@@ -4,11 +4,11 @@ title: "Ordonnance du 12 mai 2010 sur la mise en circulation des produits phytos
 short: OPPh
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/340"
 language: fr
-version: 2024-07-01
+version: 2024-09-01
 adopted: 2010-05-12
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2010-340-20240701-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20240901/fr/xml/fedlex-data-admin-ch-eli-cc-2010-340-20240901-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20240901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20240701/fr"
 
 (Ordonnance sur les produits phytosanitaires, OPPh)
 
-du 12 mai 2010 (État le 1<sup>er</sup> juillet 2024)
+du 12 mai 2010 (État le 1<sup>er</sup> septembre 2024)
 
 Le Conseil fédéral suisse,
 
@@ -532,7 +532,7 @@ Sous réserve de l’art. 34, un produit phytosanitaire ne peut être autorisé 
 
 Un produit phytosanitaire n’est autorisé en outre que:
 
-- a. s’il ne contient pas d’organismes considérés comme des organismes exotiques envahissants au sens de l’art. 3, let. h, ODE[^17-10] ou figurant à l’annexe 2 de l’ODE;
+- a.[^17-10] s’il ne contient pas d’organismes considérés comme des organismes exotiques envahissants au sens de l’art. 3, let. h, ODE ou figurant aux annexes 2.1 et 2.2 ODE;
 - b. si l’identité et les caractéristiques biologiques des micro-organismes et des macro-organismes qu’il contient sont suffisamment connues;
 - c. s’il ne contient pas de mélange de substances actives destinées à lutter contre des groupes différents d’organismes nuisibles tels que des insectes, des champignons ou des mauvaises herbes.
 
@@ -553,7 +553,7 @@ Un produit phytosanitaire n’est autorisé en outre que:
 [^17-7]: Nouvelle teneur selon le ch. I de l’O du 16 nov. 2022, en vigueur depuis le 1<sup>er</sup> janv. 2023 ([RO 2022 784](https://fedlex.data.admin.ch/eli/oc/2022/784)).
 [^17-8]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^17-9]: Nouvelle teneur selon le ch. I de l’O du 17 nov. 2021, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
-[^17-10]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^17-10]: Nouvelle teneur selon l’annexe ch. 2 de l’O du 1<sup>er</sup> mars 2024, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
 
 #### Art. 18
 

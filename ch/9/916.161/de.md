@@ -4,11 +4,11 @@ title: "Verordnung vom 12. Mai 2010 über das Inverkehrbringen von Pflanzenschut
 short: PSMV
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/340"
 language: de
-version: 2024-07-01
+version: 2024-09-01
 adopted: 2010-05-12
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2010-340-20240701-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/340/20240901/de/xml/fedlex-data-admin-ch-eli-cc-2010-340-20240901-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20240901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/340/20240701/de"
 
 (Pflanzenschutzmittelverordnung, PSMV)
 
-vom 12. Mai 2010 (Stand am 1. Juli 2024)
+vom 12. Mai 2010 (Stand am 1. September 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -532,7 +532,7 @@ Unter Vorbehalt von Artikel 34 wird ein Pflanzenschutzmittel nur bewilligt, wenn
 
 Ein Pflanzenschutzmittel wird zudem nur bewilligt, wenn:
 
-- a. es keine Organismen enthält, die als invasive gebietsfremde Organismen nach Artikel 3 Buchstabe h FrSV[^17-10] gelten oder die in Anhang 2 FrSV aufgeführt sind;
+- a.[^17-10] es keine Organismen enthält, die als invasive gebietsfremde Organismen nach Artikel 3 Buchstabe h FrSV gelten oder die in den Anhängen 2.1 und 2.2 FrSV aufgeführt sind;
 - b. die Identität und die biologischen Eigenschaften der in ihm enthaltenen Mikro- und Makroorganismen hinreichend bekannt sind;
 - c. es nicht eine Mischung von Wirkstoffen für die Bekämpfung unterschiedlicher Gruppen von Schadorganismen, wie Insekten, Pilze oder Unkraut, enthält.
 
@@ -553,7 +553,7 @@ Ein Pflanzenschutzmittel wird zudem nur bewilligt, wenn:
 [^17-7]: Fassung gemäss Ziff. I der V vom 16. Nov. 2022, in Kraft seit 1. Jan. 2023 ([AS 2022 784](https://fedlex.data.admin.ch/eli/oc/2022/784)).
 [^17-8]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^17-9]: Fassung gemäss Ziff. I der V vom 17. Nov. 2021, in Kraft seit 1. Jan. 2022 ([AS 2021 760](https://fedlex.data.admin.ch/eli/oc/2021/760)).
-[^17-10]: [SR 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+[^17-10]: Fassung gemäss Anhang Ziff. 2 der V vom 1. März 2024, in Kraft seit 1. Sept. 2024 ([AS 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
 
 #### Art. 18
 
