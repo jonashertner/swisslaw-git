@@ -4,11 +4,11 @@ title: "Ordinance of 9 May 2012 on Handling Organisms in Contained Systems (Cont
 short: ContainO
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/329"
 language: en
-version: 2022-05-26
+version: 2024-09-01
 adopted: 2012-05-09
 in_force: 2012-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/329/20220526/en/xml/fedlex-data-admin-ch-eli-cc-2012-329-20220526-en-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/329/20220526/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/329/20240901/en/xml/fedlex-data-admin-ch-eli-cc-2012-329-20240901-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/329/20240901/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Containment Ordinance, ContainO)
 
-of 9 May 2012 (Status as of 26 May 2022)
+of 9 May 2012 (Status as of 1 September 2024)
 
 The Swiss Federal Council,
 
@@ -132,8 +132,8 @@ The following organisms must be handled only in contained systems unless they ma
   organisms subject to a containment obligation:
 
   - 1\. alien small invertebrates,
-  - 2\. invasive alien organisms as defined in Annex 2 of the Release Ordinance, and
-  - 3\. harmful organisms that are considered particularly dangerous in accordance with the Ordinance issued by the Federal Department of Economic Affairs, Education and Research and the Federal Department of the Environment, Transport, Energy and Communications based on Articles 4 paragraph 3, 24 paragraph 2 and 29 paragraph 2 of the Plant Health Ordinance of 31 October 2018[^5-5], and organisms that are considered potential quarantine organisms in accordance with the Ordinance issued by the Federal Office for Agriculture (FOAG) and the Federal Office for the Environment (FOEN) based on Article 5 paragraph 2 of the Plant Health Ordinance.
+  - 2\.[^5-5] invasive alien organisms as defined in Annex 2.1 of the Release Ordinance, and
+  - 3\. harmful organisms that are considered particularly dangerous in accordance with the Ordinance issued by the Federal Department of Economic Affairs, Education and Research and the Federal Department of the Environment, Transport, Energy and Communications based on Articles 4 paragraph 3, 24 paragraph 2 and 29 paragraph 2 of the Plant Health Ordinance of 31 October 2018[^5-6], and organisms that are considered potential quarantine organisms in accordance with the Ordinance issued by the Federal Office for Agriculture (FOAG) and the Federal Office for the Environment (FOEN) based on Article 5 paragraph 2 of the Plant Health Ordinance.
 
 <sup>2</sup> Any person who handles organisms in contained systems must first determine and assess the risk of the occurrence of the organisms (allocate the organisms to a group) and thereafter determine and assess the risk due to the planned activities with the organisms (classify the activities).
 
@@ -143,7 +143,8 @@ The following organisms must be handled only in contained systems unless they ma
 [^5-2]: [SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
 [^5-3]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
 [^5-4]: Amended by Annex 8 No 4 of the Plant Health Ordinance of 31 Oct. 2018, in force since 1 Jan. 2020 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
-[^5-5]: [SR 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
+[^5-5]: Amended by Annex No 1 of the O of 1 March 2024, in force since 1 Sept. 2024 ([AS 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
+[^5-6]: [SR 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
 
 #### Art. 5a
 

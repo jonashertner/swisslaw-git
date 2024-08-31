@@ -4,11 +4,11 @@ title: "Verordnung vom 9. Mai 2012 über den Umgang mit Organismen in geschlosse
 short: ESV
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/329"
 language: de
-version: 2022-05-26
+version: 2024-09-01
 adopted: 2012-05-09
 in_force: 2012-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/329/20220526/de/xml/fedlex-data-admin-ch-eli-cc-2012-329-20220526-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/329/20220526/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/329/20240901/de/xml/fedlex-data-admin-ch-eli-cc-2012-329-20240901-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/329/20240901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/329/20220526/de"
 
 (Einschliessungsverordnung, ESV)
 
-vom 9. Mai 2012 (Stand am 26. Mai 2022)
+vom 9. Mai 2012 (Stand am 1. September 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -127,8 +127,8 @@ Der Umgang mit folgenden Organismen muss in geschlossenen Systemen erfolgen, aus
   einschliessungspflichtige gebietsfremde Organismen:
 
   - 1\. gebietsfremde wirbellose Kleintiere,
-  - 2\. invasive gebietsfremde Organismen nach Anhang 2 der Freisetzungsverordnung, und
-  - 3\. Organismen, die nach der Verordnung, die das Eidgenössische Departement für Wirtschaft, Bildung und Forschung und das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation gestützt auf die Artikel 4 Absatz 3, 24 Absatz 2 und 29 Absatz 2 der Pflanzengesundheitsverordnung vom 31. Oktober 2018[^5-5] erlassen haben, als besonders gefährliche Schadorganismen gelten, und Organismen, die nach der Verordnung, die das Bundesamt für Landwirtschaft (BLW) beziehungsweise das Bundesamt für Umwelt (BAFU) gestützt auf Artikel 5 Absatz 2 der Pflanzengesundheitsverordnung erlassen haben, als potenzielle Quarantäneorganismen gelten.
+  - 2\.[^5-5] invasive gebietsfremde Organismen nach Anhang 2.1 der Freisetzungsverordnung, und
+  - 3\. Organismen, die nach der Verordnung, die das Eidgenössische Departement für Wirtschaft, Bildung und Forschung und das Eidgenössische Departement für Umwelt, Verkehr, Energie und Kommunikation gestützt auf die Artikel 4 Absatz 3, 24 Absatz 2 und 29 Absatz 2 der Pflanzengesundheitsverordnung vom 31. Oktober 2018[^5-6] erlassen haben, als besonders gefährliche Schadorganismen gelten, und Organismen, die nach der Verordnung, die das Bundesamt für Landwirtschaft (BLW) beziehungsweise das Bundesamt für Umwelt (BAFU) gestützt auf Artikel 5 Absatz 2 der Pflanzengesundheitsverordnung erlassen haben, als potenzielle Quarantäneorganismen gelten.
 
 <sup>2</sup> Wer mit Organismen in geschlossenen Systemen umgeht, muss vorher das Risiko, das vom Vorkommen der Organismen ausgeht, ermitteln und bewerten (Gruppierung der Organismen) und anschliessend das Risiko der geplanten Tätigkeiten mit den Organismen ermitteln und bewerten (Klassierung der Tätigkeiten).
 
@@ -138,7 +138,8 @@ Der Umgang mit folgenden Organismen muss in geschlossenen Systemen erfolgen, aus
 [^5-2]: [SR 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
 [^5-3]: [SR 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
 [^5-4]: Fassung gemäss Anhang 8 Ziff. 4 der Pflanzengesundheitsverordnung vom 31. Okt. 2018, in Kraft seit 1. Jan. 2020 ([AS 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
-[^5-5]: [SR 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
+[^5-5]: Fassung gemäss Anhang Ziff. 1 der V vom 1. März 2024, in Kraft seit 1. Sept. 2024 ([AS 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
+[^5-6]: [SR 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
 
 #### Art. 5a
 

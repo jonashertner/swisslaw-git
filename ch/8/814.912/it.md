@@ -4,11 +4,11 @@ title: "Ordinanza del 9 maggio 2012 sull'utilizzazione di organismi in sistemi c
 short: OIConf
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/329"
 language: it
-version: 2022-05-26
+version: 2024-09-01
 adopted: 2012-05-09
 in_force: 2012-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/329/20220526/it/xml/fedlex-data-admin-ch-eli-cc-2012-329-20220526-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/329/20220526/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/329/20240901/it/xml/fedlex-data-admin-ch-eli-cc-2012-329-20240901-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/329/20240901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/329/20220526/it"
 
 (Ordinanza sull’impiego confinato, OIConf)
 
-del 9 maggio 2012 (Stato 26 maggio 2022)
+del 9 maggio 2012 (Stato 1° settembre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -110,7 +110,7 @@ Chi utilizza organismi in sistemi chiusi deve impiegare la dovuta diligenza affi
 
 <sup>2</sup> Devono essere rispettate le relative prescrizioni, nonché le istruzioni e le raccomandazioni del fornitore.
 
-- [tab] <sup>3</sup> Il rispetto dell’obbligo di diligenza va documentato in modo trasparente. La documentazione va conservata per dieci anni a decorrere dal termine dell’attività e, su richiesta, messa a disposizione delle autorità esecutive.
+<sup>3</sup> Il rispetto dell’obbligo di diligenza va documentato in modo trasparente. La documentazione va conservata per dieci anni a decorrere dal termine dell’attività e, su richiesta, messa a disposizione delle autorità esecutive.
 
 #### Art. 5
 
@@ -127,17 +127,19 @@ L’utilizzazione dei seguenti organismi deve avvenire in sistemi chiusi, salvo 
   organismi alloctoni soggetti a impiego confinato:
 
   - 1\. piccoli invertebrati alloctoni,
-  - 2\. organismi alloctoni invasivi secondo l’allegato 2 dell’ordinanza sull’emissione deliberata nell’ambiente,
+  - 2\.[^5-5] organismi alloctoni invasivi di cui all’allegato 2.1 dell’ordinanza sull’emissione deliberata nell’ambiente, e
+  - 3\. organismi che, secondo l’ordinanza emanata dal Dipartimento federale dell’economia, della formazione e della ricerca e dal Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni in virtù degli articoli 4 capoverso 3, 24 capoverso 2 e 29 capoverso 2 dell’ordinanza del 31 ottobre 2018[^5-6] sulla salute dei vegetali, sono considerati organismi nocivi particolarmente pericolosi e organismi che, secondo l’ordinanza emanata dall’Ufficio federale dell’agricoltura (UFAG) o dall’Ufficio federale dell’ambiente (UFAM) in virtù dell’articolo 5 capoverso 2 dell’ordinanza sulla salute dei vegetali, sono considerati organismi da quarantena potenziali.
 
-- 3\. organismi che, secondo l’ordinanza emanata dal Dipartimento federale dell’economia, della formazione e della ricerca e dal Dipartimento federale dell’ambiente, dei trasporti, dell’energia e delle comunicazioni in virtù degli articoli 4 capoverso 3, 24 capoverso 2 e 29 capoverso 2 dell’ordinanza del 31 ottobre 2018[^5-5] sulla salute dei vegetali, sono considerati organismi nocivi particolarmente pericolosi e organismi che, secondo l’ordinanza emanata dall’Ufficio federale dell’agricoltura (UFAG) o dall’Ufficio federale dell’ambiente (UFAM) in virtù dell’articolo 5 capoverso 2 dell’ordinanza sulla salute dei vegetali, sono considerati organismi da quarantena potenziali.
-- [tab] <sup>2</sup> Chi utilizza organismi in sistemi chiusi deve determinare e valutare dapprima il rischio rappresentato dalla presenza di tali organismi (classificazione degli organismi) e successivamente il rischio delle attività previste con gli organismi (classificazione delle attività).
-- [tab] <sup>3</sup> Chi utilizza animali e piante geneticamente modificati in sistemi chiusi deve dapprima assicurarsi, mediante una ponderazione degli interessi secondo l’articolo 8 LIG sull’ingegneria genetica, che la dignità della creatura non sia lesa.
+<sup>2</sup> Chi utilizza organismi in sistemi chiusi deve determinare e valutare dapprima il rischio rappresentato dalla presenza di tali organismi (classificazione degli organismi) e successivamente il rischio delle attività previste con gli organismi (classificazione delle attività).
+
+<sup>3</sup> Chi utilizza animali e piante geneticamente modificati in sistemi chiusi deve dapprima assicurarsi, mediante una ponderazione degli interessi secondo l’articolo 8 LIG sull’ingegneria genetica, che la dignità della creatura non sia lesa.
 
 [^5-1]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
 [^5-2]: [RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
 [^5-3]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
 [^5-4]: Nuovo testo giusta il n. 4 dell’all. 8 all’O del 31 ott. 2018 sulla salute dei vegetali, in vigore dal 1° gen. 2020 ([RU 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
-[^5-5]: [RS 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
+[^5-5]: Nuovo testo giusta l’all. n. 1 dell’O del 1° mar. 2024, in vigore dal 1° set. 2024 ([RU 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
+[^5-6]: [RS 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
 
 #### Art. 5a
 
@@ -197,7 +199,8 @@ Per valutare il rischio determinato, l’attività prevista va attribuita a una 
 - b. classe 2: attività che presenta un rischio esiguo;
 - c. classe 3: attività che presenta un rischio moderato;
 - d. classe 4: attività che presenta un rischio elevato.
-- [tab] <sup>3</sup> In caso di modifica dell’attività o di nuove conoscenze essenziali occorre determinare e valutare nuovamente il rischio.
+
+<sup>3</sup> In caso di modifica dell’attività o di nuove conoscenze essenziali occorre determinare e valutare nuovamente il rischio.
 
 <sup>4</sup> Per le attività nell’ambito delle quali i lavoratori possono essere esposti a microrganismi è possibile combinare la determinazione e la valutazione del rischio secondo la presente ordinanza con la valutazione del rischio secondo gli articoli 5–7 dell’ordinanza del 25 agosto 1999[^7-1] sulla protezione dei lavoratori dal pericolo derivante da microrganismi.
 

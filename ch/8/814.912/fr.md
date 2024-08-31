@@ -4,11 +4,11 @@ title: "Ordonnance du 9 mai 2012 sur l'utilisation des organismes en milieu conf
 short: OUC
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/329"
 language: fr
-version: 2022-05-26
+version: 2024-09-01
 adopted: 2012-05-09
 in_force: 2012-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/329/20220526/fr/xml/fedlex-data-admin-ch-eli-cc-2012-329-20220526-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/329/20220526/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/329/20240901/fr/xml/fedlex-data-admin-ch-eli-cc-2012-329-20240901-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/329/20240901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/329/20220526/fr"
 
 (Ordonnance sur l’utilisation confinée, OUC)
 
-du 9 mai 2012 (État le 26 mai 2022)
+du 9 mai 2012 (État le 1<sup>er</sup> septembre 2024)
 
 *Le Conseil fédéral suisse,*
 
@@ -127,8 +127,8 @@ Les organismes suivants doivent être utilisés en milieu confiné sauf s’ils 
   organismes exotiques soumis au confinement obligatoire:
 
   - 1\. petits invertébrés exotiques,
-  - 2\. organismes exotiques envahissants au sens de l’annexe 2 de l’ordonnance sur la dissémination dans l’environnement, et
-  - 3\. organismes qui sont considérés comme des organismes nuisibles particulièrement dangereux au sens de l’ordonnance édictée par le Département fédéral de l’économie, de la formation et de la recherche et par le Département fédéral de l’environnement, des transports, de l’énergie et de la communication en vertu des art. 4, al. 3, 24, al. 2, et 29, al. 2, de l’ordonnance du 31 octobre 2018 sur la santé des végétaux[^5-5], et organismes qui sont considérés comme des organismes de quarantaine potentiels au sens de l’ordonnance édictée par l’Office fédéral de l’agriculture (OFAG) ou par l’Office fédéral de l’environnement (OFEV) en vertu de l’art. 5, al. 2, de l’ordonnance sur la santé des végétaux.
+  - 2\.[^5-5] organismes exotiques envahissants au sens de l’annexe 2.1 de l’ordonnance sur la dissémination dans l’environnement, et
+  - 3\. organismes qui sont considérés comme des organismes nuisibles particulièrement dangereux au sens de l’ordonnance édictée par le Département fédéral de l’économie, de la formation et de la recherche et par le Département fédéral de l’environnement, des transports, de l’énergie et de la communication en vertu des art. 4, al. 3, 24, al. 2, et 29, al. 2, de l’ordonnance du 31 octobre 2018 sur la santé des végétaux[^5-6], et organismes qui sont considérés comme des organismes de quarantaine potentiels au sens de l’ordonnance édictée par l’Office fédéral de l’agriculture (OFAG) ou par l’Office fédéral de l’environnement (OFEV) en vertu de l’art. 5, al. 2, de l’ordonnance sur la santé des végétaux.
 
 <sup>2</sup> Quiconque utilise des organismes en milieu confiné est tenu d’étudier et d’évaluer au préalable le risque lié à la présence de ces organismes (attribution des organismes à des groupes), puis d’étudier et d’évaluer le risque présenté par les activités prévues impliquant des organismes (classification des activités).
 
@@ -138,7 +138,8 @@ Les organismes suivants doivent être utilisés en milieu confiné sauf s’ils 
 [^5-2]: [RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
 [^5-3]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
 [^5-4]: Nouvelle teneur selon l’annexe 8 ch. 4 de l’O du 31 oct. 2018 sur la santé des végétaux, en vigueur depuis le 1<sup>er</sup> janv. 2020 ([RO 2018 4209](https://fedlex.data.admin.ch/eli/oc/2018/682)).
-[^5-5]: [RS 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
+[^5-5]: Nouvelle teneur selon l’annexe ch. 1 de l’O du 1<sup>er</sup> mars 2024, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 116](https://fedlex.data.admin.ch/eli/oc/2024/116)).
+[^5-6]: [RS 916.20](https://fedlex.data.admin.ch/eli/cc/2018/682)
 
 #### Art. 5a
 
@@ -739,25 +740,25 @@ Annexe 2.1[^t-1]
 
 <sup>1</sup> Lors de l’évaluation du risque, il faut se fonder en principe sur les effets des organismes sur l’être humain, les animaux et les plantes sains.
 
-<sup>2</sup> Le risque doit être considéré comme nul ou négligeable (groupe 1)
+<sup>2</sup> Le risque doit être considéré comme nul ou négligeable (groupe 1):
 
 - a. s’il est improbable qu’un organisme provoque une maladie chez l’être humain, les animaux ou les plantes ou qu’il cause d’autres dommages à l’environnement ou à la diversité biologique et à l’utilisation durable de ses éléments, et
 - b. que ces dommages ne sont pas graves.
 
-<sup>3</sup> Le risque doit être considéré comme faible (groupe 2)
+<sup>3</sup> Le risque doit être considéré comme faible (groupe 2):
 
 - a. si un organisme peut provoquer une maladie chez l’être humain, les animaux ou les plantes ou causer d’autres dommages à l’environnement ou à la diversité biologique et à l’utilisation durable de ses éléments;
 - b. que cette maladie ou ces dommages sont rarement graves;
 - c. qu’une propagation de cet organisme est improbable, et
 - d. qu’il existe normalement des mesures préventives ou thérapeutiques permettant de lutter efficacement contre cette maladie ou ces dommages.
 
-<sup>4</sup> Le risque doit être considéré comme modéré (groupe 3)
+<sup>4</sup> Le risque doit être considéré comme modéré (groupe 3):
 
 - a. si un organisme peut provoquer une maladie grave chez l’être humain, les animaux ou les plantes ou causer d’autres dommages graves à l’environnement ou à la diversité biologique et à l’utilisation durable de ses éléments;
 - b. qu’une propagation de cet organisme est probable, et
 - c. qu’il existe normalement des mesures préventives ou thérapeutiques permettant de lutter efficacement contre cette maladie ou ces dommages.
 
-<sup>5</sup> Le risque doit être considéré comme élevé (groupe 4)
+<sup>5</sup> Le risque doit être considéré comme élevé (groupe 4):
 
 - a. si un organisme provoque une maladie grave chez l’être humain, les animaux ou les plantes ou cause d’autres dommages graves et irréversibles à l’environnement ou à la diversité biologique et à l’utilisation durable de ses éléments;
 - b. qu’une propagation de cet organisme est très probable, et
