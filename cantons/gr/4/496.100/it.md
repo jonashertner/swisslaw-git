@@ -4,13 +4,12 @@ number: "496.100"
 title: Ordinanza cantonale sulla protezione della natura e del paesaggio
 short: OCNP
 language: it
-version: 2023-11-01
-valid_until: 2024-08-31
-version_adopted: 2023-10-24
+version: 2024-09-01
+version_adopted: 2024-08-20
 adopted: 2011-04-18
 in_force: 2011-05-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/496.100"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3342/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3827/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/it/versions/3342/pdf_file"
 
 (OCNP)
 
-del 18.04.2011 (stato 01.11.2023)
+del 18.04.2011 (stato 01.09.2024)
 
 emanata dal Governo il 18 aprile 2011
 
@@ -33,14 +32,14 @@ visto l'art. 45 della Costituzione cantonale[^ingress-1]
 
 **Competenza**
 
-<sup>1</sup> Il Dipartimento competente per la protezione della natura e del paesaggio è il Dipartimento dell'educazione, cultura e protezione dell'ambiente (Dipartimento).
+<sup>1</sup> Il Dipartimento competente per la protezione della natura e del paesaggio è il Dipartimento formazione, ambiente e cultura (Dipartimento).
 
 <sup>2</sup> I servizi specializzati sono:
 
-- a) per i settori protezione del paesaggio e protezione della natura l'Ufficio per la natura e l'ambiente;
+- a) per i settori protezione del paesaggio e protezione della natura l'Ufficio dell'ambiente;
 - b) per i settori conservazione dei monumenti storici e archeologia l'Ufficio della cultura.
 
-<sup>3</sup> L'Ufficio per la natura e l'ambiente e l'Ufficio per l'agricoltura e la geoinformazione definiscono le direttive e le istruzioni per progetti di interconnessione e contratti di gestione. Nel settore della protezione dei biotopi e delle specie, secondo il diritto federale l'Ufficio per la natura e l'ambiente è competente per le direttive contenutistiche e la verifica della loro attuazione all'interno dei progetti di interconnessione. In questo settore esso procede alla verifica a campione di contratti di gestione delle superfici per la promozione della biodiversità del livello qualitativo 2 e dell'interconnessione ed è competente per il controllo dell'efficacia in relazione a queste misure.
+<sup>3</sup> L'Ufficio dell'ambiente e l'Ufficio per l'agricoltura e la geoinformazione definiscono le direttive e le istruzioni per progetti di interconnessione e contratti di gestione. Nel settore della protezione dei biotopi e delle specie, secondo il diritto federale l'Ufficio dell'ambiente è competente per le direttive contenutistiche e la verifica della loro attuazione all'interno dei progetti di interconnessione. In questo settore esso procede alla verifica a campione di contratti di gestione delle superfici per la promozione della biodiversità del livello qualitativo 2 e dell'interconnessione ed è competente per il controllo dell'efficacia in relazione a queste misure.
 
 #### Art. 2
 
@@ -238,15 +237,15 @@ visto l'art. 45 della Costituzione cantonale[^ingress-1]
 
 **Esame della domanda**
 
-<sup>1</sup> I competenti servizi specializzati sottopongono le domande di sussidio che superano i 200 000 franchi alla Commissione cantonale per la protezione della natura e del paesaggio. Fanno eccezione le domande di sussidio nel settore della protezione del paesaggio e della natura concernenti mezzi federali e cantonali da accordi di programma.
+<sup>1</sup> I competenti servizi specializzati sottopongono le domande di sussidio che superano i 200 000 franchi alla Commissione cantonale per la protezione della natura e del paesaggio. Fanno eccezione i sussidi nel quadro di accordi di programma con la Confederazione. Accordi di questo tipo devono sempre essere presentati per esame alla Commissione prima dell'approvazione.
 
 #### Art. 21
 
 **Competenza**
 
-<sup>1</sup> I competenti servizi specializzati possono concedere sussidi fino a 50 000 franchi per domanda.
+<sup>1</sup> …
 
-<sup>2</sup> Sussidi fino a 300 000 franchi per domanda vengono concessi dal Dipartimento dell'educazione, cultura e protezione dell'ambiente.
+<sup>2</sup> Sussidi fino a 300 000 franchi per domanda vengono concessi dal Dipartimento formazione, ambiente e cultura.
 
 <sup>3</sup> La concessione di sussidi che superano questi importi rientra nella competenza del Governo.
 
@@ -417,5 +416,113 @@ visto l'art. 45 della Costituzione cantonale[^ingress-1]
 <sup>1</sup> La presente ordinanza entra in vigore insieme alla legge cantonale sulla protezione della natura e del paesaggio[^36-1].
 
 [^36-1]: 1° maggio 2011
+
+## A1 Appendice 1: Siepi e boschetti campestri (art. 9)
+
+#### Art. A1-1
+
+**Misurare correttamente siepi e boschetti campestri**
+
+<sup>1</sup> Le siepi e i boschetti campestri sono costituiti dalla superficie boscata, incluso il limite del bosco. La superficie boscata viene determinata dalla linea che collega i centri dei tronchi delle piante esterne, dal centro dei polloni se si tratta di cespugli; il limite del cespuglio viene determinato dal perimetro della superficie boscata. Se la distanza tra le superfici boscate è inferiore ai 10 m, esse vengono considerate come un'unica superficie.
+
+<sup>2</sup> La zona-cuscinetto ai sensi dell'articolo 14 capoverso 2 lettera d dell'ordinanza federale sulla protezione della natura e del paesaggio (RS [451.1](https://db.clex.ch/link/Bund/451.1/it)) viene determinata a partire dal perimetro del limite del bosco. Di regola essa è larga 5 m.
+
+<sup>3</sup> Figura:
+
+#### Art. A1-2
+
+**Compensazione in natura**
+
+<sup>1</sup> In caso di compensazione di siepi e boschetti campestri bisogna prestare attenzione a una superficie sufficiente per il limite del bosco largo 2 m.
+
+<sup>2</sup> Le sostituzioni di siepi vanno effettuate con cespugli e singoli alberi indigeni e adeguati all'ubicazione. Vanno impiegate specie diverse di alberi e cespugli. La quota di ce-spugli con aculei deve corrispondere ad almeno il 20 percento dei boschetti.
+
+## A2 Appendice 2: Piante e animali protetti a livello cantonale (art. 10)
+
+#### Art. A2-1
+
+<sup>1</sup> Elenco delle piante protette a livello cantonale:
+
+<table>
+<tr><th>Nome scientifico</th><th>italiano</th></tr>
+<tr><td>Anthericum liliago</td><td>Lilioasfodelo maggiore</td></tr>
+<tr><td>Asplenium adulterinum</td><td>Asplenio ibrido</td></tr>
+<tr><td>Asplenium cuneifolium</td><td>Asplenio del serpentino</td></tr>
+<tr><td>Campanula thyrsoides</td><td>Campanula gialla</td></tr>
+<tr><td>Cortusa matthioli L.</td><td>Cortusa di Mattioli</td></tr>
+<tr><td>Cyclamen purpurascens Mill.</td><td>Ciclamino delle Alpi</td></tr>
+<tr><td>Daphne Mezereum L.</td><td>Dafne mezereo</td></tr>
+<tr><td>Draba ladina</td><td>Draba ladina</td></tr>
+<tr><td>Eriophorum spp.</td><td>Eriofori, tutte le specie</td></tr>
+<tr><td>Gentiana asclepiadea</td><td>Genziana asclepiade</td></tr>
+<tr><td>Gentiana prostrata</td><td>Genziana a dieci punte</td></tr>
+<tr><td>Helleborus viridis</td><td>Elleboro verde</td></tr>
+<tr><td>Leontopodium alpinum</td><td>Stella alpina</td></tr>
+<tr><td>Lomatogonium carinthiacum</td><td>Genzianella di Carinzia</td></tr>
+<tr><td>Silene flos-jovis (L.) Clairv.</td><td>Crotonella fior di Giove</td></tr>
+<tr><td>Menyanthes trifoliata</td><td>Trifoglio fibrino</td></tr>
+<tr><td>Pinguicula, tutte le specie</td><td>Erbe unte</td></tr>
+<tr><td>Primula Auricula L.</td><td>Primula auricola</td></tr>
+<tr><td>Narcissus, specie bianche</td><td>Narcisi, specie bianche</td></tr>
+<tr><td>Pulsatilla montana Rchb.</td><td>Anemone montana (violetto-rosso)</td></tr>
+<tr><td>Ranunculus pygmaeus</td><td>Ranuncolo pigmeo</td></tr>
+<tr><td>Saxifraga cernua</td><td>Sassifraga incurvata</td></tr>
+<tr><td>Scilla bifolia</td><td>Scilla silvestre</td></tr>
+<tr><td>Stipa, tutte le specie</td><td>Stipa</td></tr>
+<tr><td>Swertia perennis</td><td>Genzianella stellata</td></tr>
+<tr><td>Trientalis europaea L.</td><td>Trientale europea</td></tr>
+</table>
+
+<sup>2</sup> Elenco degli animali protetti a livello cantonale:
+
+<table>
+<tr><th>Nome scientifico</th><th>italiano</th></tr>
+<tr><td>Coenonympha tullia</td><td>Coenonympha tullia</td></tr>
+<tr><td>Erinaceidae</td><td>Istrice</td></tr>
+<tr><td>Helix pomatia</td><td>Chiocciola</td></tr>
+</table>
+
+## A3 Appendice 3: elenco delle multe in caso di contravvenzioni alle disposizioni sulla protezione dei funghi e delle piante (art. 30 cpv. 2)
+
+#### Art. A3-1
+
+<sup>1</sup> Contravvenzioni alle disposizioni sulla protezione dei funghi:
+
+- a) Raccolta di funghi in aree di protezione dei funghi: — fr. 400.00
+- b) Raccolta di funghi durante il periodo in cui vige il divieto: — fr. 200.00
+- c) Superamento della quantità ammessa:
+  - 1\. fino a 0.5 kg: — fr. 50.00
+  - 2\. fino a 1 kg: — fr. 100.00
+  - 3\. fino a 2 kg: — fr. 200.00
+  - 4\. fino a 3 kg: — fr. 300.00
+  - 5\. fino a 4 kg: — fr. 400.00
+  - 6\. fino a 5 kg: — fr. 500.00
+  - 7\. In caso di superamento della limitazione quantitativa di oltre 5 kg, gli organi re-sponsabili avviano la procedura penale dinanzi alle autorità amministrative
+- d) Raccolta in gruppi di oltre 3 persone, ciascuno: — fr. 100.00
+- e) Utilizzo di rastrelli, zappe e altri arnesi: — fr. 200.00
+- f) Distruzione volontaria di funghi: — fr. 200.00
+
+<sup>2</sup> Contravvenzioni alle disposizioni di protezione delle piante:
+
+- a) Cogliere, scavare e strappare senza autorizzazione non più di cinque piante in zone di protezione della flora (art. 21 cpv. 1 LCNP, CSC [496.000](https://www.gr-lex.gr.ch/data/496.000/it)): — fr. 400.00
+- b) Raccogliere, dissotterrare, sradicare, trasportare, offrire in vendita, vendere, ac-quistare o distruggere senza autorizzazione non più di cinque piante selvatiche conformemente all'appendice 2: — fr. 400.00
+
+<sup>3</sup> Se è soddisfatta più di una fattispecie, le multe vengono cumulate.
+
+## A4 Appendice 4: Requisiti minimi per i moduli (art. 34)
+
+#### Art. A4-1
+
+**Moduli delle multe**
+
+<sup>1</sup> I moduli delle multe devono contenere almeno le indicazioni seguenti:
+
+- a) cognome, nome, data di nascita e domicilio dell'autore
+- b) tipo, ora e luogo dell'infrazione, nonché i relativi numeri dell'elenco delle multe
+- c) importo della multa
+- d) indicazione che in caso di mancato pagamento della multa entro 30 giorni sarà avviata la procedura penale dinanzi alle autorità amministrative
+- e) termine di riflessione
+- f) data del rilascio del modulo della multa
+- g) firma dell'organo di vigilanza
 
 -

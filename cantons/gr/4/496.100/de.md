@@ -4,13 +4,12 @@ number: "496.100"
 title: Kantonale Natur- und Heimatschutzverordnung
 short: KNHV
 language: de
-version: 2023-11-01
-valid_until: 2024-08-31
-version_adopted: 2023-10-24
+version: 2024-09-01
+version_adopted: 2024-08-20
 adopted: 2011-04-18
 in_force: 2011-05-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/496.100"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3342/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3827/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gr-lex.gr.ch/api/de/versions/3342/pdf_file"
 
 (KNHV)
 
-Vom 18.04.2011 (Stand 01.11.2023)
+Vom 18.04.2011 (Stand 01.09.2024)
 
 Gestützt auf Art. 45 der Kantonsverfassung[^ingress-1]
 
@@ -33,14 +32,14 @@ von der Regierung erlassen am 18. April 2011
 
 **Zuständigkeit**
 
-<sup>1</sup> Zuständiges Departement für den Natur- und Heimatschutz ist das Erziehungs-, Kultur- und Umweltschutzdepartement (Departement).
+<sup>1</sup> Zuständiges Departement für den Natur- und Heimatschutz ist das Departement für Bildung, Umwelt und Kultur (Departement).
 
 <sup>2</sup> Zuständige Fachstellen sind:
 
-- a) für die Bereiche Landschafts- und Naturschutz das Amt für Natur und Umwelt;
+- a) für die Bereiche Landschafts- und Naturschutz das Amt für Umwelt;
 - b) für die Bereiche Denkmalschutz und Archäologie das Amt für Kultur.
 
-<sup>3</sup> Das Amt für Natur und Umwelt und das Amt für Landwirtschaft und Geoinformation legen die Richtlinien und Anleitungen für Vernetzungsprojekte und Bewirtschaftungsverträge fest. Das Amt für Natur und Umwelt ist im Bereich des Biotop- und Artenschutzes nach Bundesrecht für die inhaltlichen Vorgaben und die Überprüfung ihrer Umsetzung in den Vernetzungsprojekten zuständig. Es prüft in diesem Bereich die Bewirtschaftungsverträge der Biodiversitätsförderflächen der Qualitätsstufe 2 und der Vernetzung mittels Stichproben und ist bei diesen Massnahmen für die Wirkungskontrolle zuständig.
+<sup>3</sup> Das Amt für Umwelt und das Amt für Landwirtschaft und Geoinformation legen die Richtlinien und Anleitungen für Vernetzungsprojekte und Bewirtschaftungsverträge fest. Das Amt für Umwelt ist im Bereich des Biotop- und Artenschutzes nach Bundesrecht für die inhaltlichen Vorgaben und die Überprüfung ihrer Umsetzung in den Vernetzungsprojekten zuständig. Es prüft in diesem Bereich die Bewirtschaftungsverträge der Biodiversitätsförderflächen der Qualitätsstufe 2 und der Vernetzung mittels Stichproben und ist bei diesen Massnahmen für die Wirkungskontrolle zuständig.
 
 #### Art. 2
 
@@ -238,15 +237,15 @@ von der Regierung erlassen am 18. April 2011
 
 **Begutachtung**
 
-<sup>1</sup> Die zuständigen Fachstellen unterbreiten Beitragsgesuche von über 200 000 Franken der kantonalen Natur- und Heimatschutzkommission. Davon ausgenommen sind Beitragsgesuche im Bereich des Landschafts- und Naturschutzes, welche Bundes- und Kantonsmittel aus Programmvereinbarungen betreffen.
+<sup>1</sup> Die zuständigen Fachstellen unterbreiten Beitragsgesuche von über 200 000 Franken der kantonalen Natur- und Heimatschutzkommission. Davon ausgenommen sind Beiträge im Rahmen von Programmvereinbarungen mit dem Bund. Derartige Vereinbarungen sind der Kommission jeweils vor der Genehmigung zur Begutachtung vorzulegen.
 
 #### Art. 21
 
 **Zuständigkeit**
 
-<sup>1</sup> Die zuständigen Fachstellen sind für die Gewährung von Beiträgen bis 50 000 Franken je Gesuch zuständig.
+<sup>1</sup> …
 
-<sup>2</sup> Beiträge bis 300 000 Franken je Gesuch gewährt das Erziehungs-, Kultur- und Umweltschutzdepartement.
+<sup>2</sup> Beiträge bis 300 000 Franken je Gesuch gewährt das Departement für Bildung, Umwelt und Kultur .
 
 <sup>3</sup> Die Gewährung darüber hinaus gehender Beiträge fällt in die Zuständigkeit der Regierung.
 
@@ -417,5 +416,113 @@ von der Regierung erlassen am 18. April 2011
 <sup>1</sup> Diese Verordnung tritt zusammen mit dem Kantonalen Natur- und Heimatschutzgesetz (KNHG) in Kraft[^36-1].
 
 [^36-1]: 1. Mai 2011
+
+## A1 Anhang 1: Hecken und Feldgehölze (Art. 9)
+
+#### Art. A1-1
+
+**Hecken und Feldgehölze richtig messen**
+
+<sup>1</sup> Hecken und Feldgehölze bestehen aus der bestockten Fläche inklusive Heckensaum. Die bestockte Fläche wird von der Verbindungslinie von Stockmitte zu Stockmitte der äussersten Bäume oder bei Sträuchern vom Zentrum der Stockausschläge und der Heckensaum vom Perimeter der bestockten Fläche aus eingemessen. Besteht zwischen bestockten Flächen ein Abstand von weniger als 10 m, gelten die Flächen als eine Fläche.
+
+<sup>2</sup> Die Pufferzone im Sinne von Artikel 14 Absatz 2 Litera d der Eidgenössischen Verordnung über den Natur- und Heimatschutz (SR [451.1](https://db.clex.ch/link/Bund/451.1/de)) wird vom Perimeter des Heckensaumes aus eingemessen. Sie hat in der Regel eine Breite von 5 m.
+
+<sup>3</sup> Skizze:
+
+#### Art. A1-2
+
+**Realersatz**
+
+<sup>1</sup> Beim Ersatz von Hecken und Feldgehölzen ist darauf zu achten, dass genügend Fläche für den 2 m breiten Heckensaum zur Verfügung steht.
+
+<sup>2</sup> Ersatzpflanzungen von Hecken sind mit einheimischen und standortgerechten Sträuchern und einzelnen Bäumen vorzunehmen. Es sind verschiedene Strauch- und Baumarten zu verwenden. Der Anteil an Dornen tragenden Sträuchern muss mindestens 20 Prozent der Gehölze ausmachen.
+
+## A2 Anhang 2: Kantonal geschützte Pflanzen und Tiere (Art. 10)
+
+#### Art. A2-1
+
+<sup>1</sup> Liste der kantonal geschützten Pflanzen:
+
+<table>
+<tr><th>wissenschaftlich</th><th>deutsch</th></tr>
+<tr><td>Anthericum liliago</td><td>Graslilien</td></tr>
+<tr><td>Asplenium adulterinum</td><td>Braungrünstieliger Streifenfarn</td></tr>
+<tr><td>Asplenium cuneifolium</td><td>Keilblättriger Streifenfarn</td></tr>
+<tr><td>Campanula thyrsoides</td><td>Straussblütige Glockenblume</td></tr>
+<tr><td>Cortusa matthioli L.</td><td>Mattioliprimel</td></tr>
+<tr><td>Cyclamen purpurascens Mill.</td><td>Hasenöhrli, Cyclamen</td></tr>
+<tr><td>Daphne Mezereum L.</td><td>Seidelbast</td></tr>
+<tr><td>Draba ladina</td><td>Ladiner Hungerblümchen</td></tr>
+<tr><td>Eriophorum spp.</td><td>Wollgräser, alle Arten</td></tr>
+<tr><td>Gentiana asclepiadea</td><td>Schwalbenwurzenzian</td></tr>
+<tr><td>Gentiana prostrata</td><td>Niederliegender EnzianSchwalbenwurzenzian</td></tr>
+<tr><td>Helleborus viridis</td><td>Grüne Nieswurz</td></tr>
+<tr><td>Leontopodium alpinum</td><td>Edelweiss</td></tr>
+<tr><td>Lomatogonium carinthiacum</td><td>Saumnarbe</td></tr>
+<tr><td>Silene flos-jovis (L.) Clairv.</td><td>Jupiters Lichtnelke</td></tr>
+<tr><td>Menyanthes trifoliata</td><td>Fieberklee</td></tr>
+<tr><td>Pinguicula, alle Arten</td><td>Fettblätter</td></tr>
+<tr><td>Primula Auricula L.</td><td>Aurikel</td></tr>
+<tr><td>Narcissus, weisse Arten</td><td>Narzisse, weisse Arten</td></tr>
+<tr><td>Pulsatilla montana Rchb.</td><td>Berg-Anemone (dunkelviolett)</td></tr>
+<tr><td>Ranunculus pygmaeus</td><td>Zwerg-Hahnenfuss</td></tr>
+<tr><td>Saxifraga cernua</td><td>Arktischer Knöllchensteinbrech</td></tr>
+<tr><td>Scilla bifolia</td><td>Zweiblättriger Blaustern</td></tr>
+<tr><td>Stipa, alle Arten</td><td>Federgras</td></tr>
+<tr><td>Swertia perennis</td><td>Moorenzian</td></tr>
+<tr><td>Trientalis europaea L.</td><td>Siebenstern</td></tr>
+</table>
+
+<sup>2</sup> Liste der kantonal geschützten Tiere:
+
+<table>
+<tr><th>wissenschaftlich</th><th>deutsch</th></tr>
+<tr><td>Coenonympha tullia</td><td>Grosses Wiesenvögelchen</td></tr>
+<tr><td>Erinaceidae</td><td>Igel</td></tr>
+<tr><td>Helix pomatia</td><td>Weinbergschnecke</td></tr>
+</table>
+
+## A3 Anhang 3: Bussenliste bei Übertretungen der Pilz- und Pflanzenschutzbestimmungen (Art. 30 Abs. 2)
+
+#### Art. A3-1
+
+<sup>1</sup> Übertretungen der Pilzschutzbestimmungen:
+
+- a) Pilzsammeln in Pilzschutzgebieten: — Fr. 400.00
+- b) Pilzsammeln während der Schonzeit: — Fr. 200.00
+- c) Überschreitung der zulässigen Menge:
+  - 1\. bis 0.5 kg: — Fr. 50.00
+  - 2\. bis 1 kg: — Fr. 100.00
+  - 3\. bis 2 kg: — Fr. 200.00
+  - 4\. bis 3 kg: — Fr. 300.00
+  - 5\. bis 4 kg: — Fr. 400.00
+  - 6\. bis 5 kg: — Fr. 500.00
+  - 7\. Bei einer Überschreitung der Mengenbeschränkung um über 5 kg leiten die Ordnungsorgane das Strafverfahren vor Verwaltungsbehörden ein
+- d) Sammeln in Gruppen von mehr als 3 Personen, je Person: — Fr. 100.00
+- e) Gebrauch von Rechen, Hacken und anderen Geräten: — Fr. 200.00
+- f) Mutwilliges Zerstören von Pilzen: — Fr. 200.00
+
+<sup>2</sup> Übertretungen der Pflanzenschutzbestimmungen:
+
+- a) Unberechtigtes Pflücken, Ausgraben und Ausreissen von nicht mehr als fünf Pflanzen in Pflanzenschutzgebieten (Art. 21 Abs. 1 KNHG, BR [496.000](https://www.gr-lex.gr.ch/data/496.000/de)): — Fr. 400.00
+- b) Unberechtigtes Pflücken, Ausgraben, Ausreissen, Wegführen, Anbieten, Verkaufen, Kaufen oder Vernichten von nicht mehr als fünf wild lebenden Pflanzen gemäss Anhang 2: — Fr. 100.00
+
+<sup>3</sup> Bei Erfüllung mehrerer Tatbestände werden die Bussen kumuliert.
+
+## A4 Anhang 4: Mindestanforderungen für Formulare (Art. 34)
+
+#### Art. A4-1
+
+**Bussenformulare**
+
+<sup>1</sup> Die Bussenformulare müssen mindestens folgende Angaben enthalten:
+
+- a) Name, Vorname, Geburtsdatum und Wohnort der Täterin oder des Täters
+- b) Art, Zeit und Ort der Widerhandlung sowie die einschlägigen Ziffern der Bussenliste
+- c) den Bussenbetrag
+- d) den Hinweis, dass das Strafverfahren vor Verwaltungsbehörden durchgeführt wird, sofern die Busse nicht innert 30 Tagen bezahlt wird
+- e) die Dauer der Bedenkfrist
+- f) das Datum der Abgabe des Bussenformulars
+- g) die Unterschrift des Aufsichtsorgans
 
 -
