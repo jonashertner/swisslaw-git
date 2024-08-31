@@ -4,13 +4,13 @@ number: "731.22"
 title: Ordonnance sur l’organisation des marchés publics
 short: OOMP
 language: fr
-version: 2023-01-01
-valid_until: 2024-08-31
-version_adopted: 2022-11-16
+version: 2024-09-01
+valid_until: 2025-06-30
+version_adopted: 2024-08-28
 adopted: 2014-11-05
 in_force: 2015-01-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/731.22"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/2737/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3060/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/2737/pdf_file"
 
 (OOMP)
 
-du 05.11.2014 (état au 01.01.2023)
+du 05.11.2014 (état au 01.09.2024)
 
 Le Conseil-exécutif du canton de Berne,
 
@@ -293,6 +293,15 @@ arrête:
 - c de la gestion des produits, si aucun autre service ne peut s'en charger;
 - d d'une définition claire et transparente des compétences et des processus, ainsi que d'un système de contrôle interne approprié;
 - e de la représentation du canton dans la coopération intercantonale, dans leur domaine de compétence.
+
+#### Art. 20a
+
+**Bureau de l'égalité entre la femme et l'homme (BEFH)**
+
+<sup>1</sup> Le BEFH est en particulier chargé des tâches suivantes:
+
+- a Il procède à des contrôles de l'égalité salariale conformément aux articles 7a et suivants OAIMP.
+- b Il s'occupe de l'assurance qualité et de l'évaluation des contrôles de l'égalité salariale.
 
 #### Art. 21
 

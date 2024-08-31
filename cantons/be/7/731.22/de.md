@@ -4,13 +4,13 @@ number: "731.22"
 title: Verordnung über die Organisation des öffentlichen Beschaffungswesens
 short: OÖBV
 language: de
-version: 2023-01-01
-valid_until: 2024-08-31
-version_adopted: 2022-11-16
+version: 2024-09-01
+valid_until: 2025-06-30
+version_adopted: 2024-08-28
 adopted: 2014-11-05
 in_force: 2015-01-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/731.22"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/2737/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3060/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/2737/pdf_file"
 
 (OÖBV)
 
-vom 05.11.2014 (Stand 01.01.2023)
+vom 05.11.2014 (Stand 01.09.2024)
 
 Der Regierungsrat des Kantons Bern,
 
@@ -293,6 +293,15 @@ beschliesst:
 - c für das Produktmanagement, wenn dieses nicht durch eine andere Stelle wahrgenommen werden kann,
 - d für klare und transparente Kompetenzen und Abläufe sowie ein angemessenes internes Kontrollsystem,
 - e für die Vertretung des Kantons in der interkantonalen Zusammenarbeit in ihrem Aufgabenbereich.
+
+#### Art. 20a
+
+**Fachstelle für die Gleichstellung von Frauen und Männern (FGS)**
+
+<sup>1</sup> Die FGS hat insbesondere folgende Aufgaben:
+
+- a Sie führt Lohngleichheitskontrollen gemäss Artikel 7a ff. IVöBV durch.
+- b Sie sorgt für die Qualitätssicherung und die Evaluation der Lohngleichheitskontrollen.
 
 #### Art. 21
 
