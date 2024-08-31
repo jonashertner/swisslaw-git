@@ -3,20 +3,20 @@ canton: LU
 number: "521"
 title: "Studienordnung für die Ausbildung an der Hochschule Luzern, FH Zentralschweiz"
 language: de
-version: 2024-01-01
-valid_until: 2024-08-31
-version_adopted: 2023-08-31
+version: 2024-09-01
+valid_until: 2025-08-31
+version_adopted: 2024-08-27
 adopted: 2014-06-13
 in_force: 2014-09-01
 url: "https://srl.lu.ch/app/de/texts_of_law/521"
-pdf: "https://srl.lu.ch/api/de/versions/4156/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4261/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Studienordnung für die Ausbildung an der Hochschule Luzern, FH Zentralschweiz
 
-vom 13.06.2014 (Stand 01.01.2024)
+vom 13.06.2014 (Stand 01.09.2024)
 
 Der Fachhochschulrat der Hochschule Luzern,
 
@@ -609,6 +609,7 @@ beschliesst:
   - 1\. für den Bachelor of Science in Business Administration: eine eidgenössisch anerkannte Berufsmaturität mit Ausrichtung Wirtschaft und Dienstleistungen in Verbindung mit einer kaufmännischen Grundbildung,
   - 2\. für den Bachelor of Science in Business Psychology: eine eidgenössisch anerkannte Berufsmaturität in Verbindung mit einer beruflichen Grundbildung,
   - 3\. für den Bachelor of Science in Mobility, Data Science and Economics: eine eidgenössisch anerkannte Berufsmaturität in Verbindung mit einer beruflichen Grundbildung,
+  - 4\. für den Bachelor of Science in International Sustainable Tourism: eine eidgenössisch anerkannte Berufsmaturität in Verbindung mit einer beruflichen Grundbildung,
 - b. eine eidgenössisch anerkannte Berufsmaturität ohne Grundbildung im jeweiligen Fachbereich und mindestens ein Jahr Arbeitserfahrung in einem der Studienrichtung verwandten Beruf,
 - c. eine anerkannte gymnasiale Maturität und mindestens ein Jahr Arbeitserfahrung in einem der Studienrichtung verwandten Beruf,
 - d. eine eidgenössisch anerkannte Fachmaturität und mindestens ein Jahr Arbeitserfahrung in einem der Studienrichtung verwandten Beruf,
@@ -690,7 +691,7 @@ beschliesst:
 
 #### Art. A2a-5
 
-**Bachelor International IT Management**
+**Bachelor International IT Management, Bachelor Immersive Technologies**
 
 <sup>1</sup> Als Zulassungsvoraussetzungen für das erste Studienjahr der Bachelor-Ausbildung gelten:
 
@@ -701,7 +702,7 @@ beschliesst:
 - e. ein bereichsspezifisches Diplom einer anerkannten höheren Fachschule,
 - f. eine andere gleichwertige Ausbildung auf Sekundarstufe II und mindestens ein Jahr Arbeitserfahrung in einem dem Studiengang verwandten Beruf,
 - g. ein anerkannter, den Unterabsätzen a–f entsprechender ausländischer Studienberechtigungsausweis und mindestens ein Jahr Arbeitserfahrung in einem dem Studiengang verwandten Beruf,
-- h. sowie ein international anerkanntes Sprachdiplom in englischer Sprache auf mindestens Niveau B2 gemäss dem «Common European Framework of Reference for Languages» (CEFR).
+- h. sowie ein international anerkanntes Sprachdiplom oder eine Eignungsabklärung in englischer Sprache auf mindestens Niveau B2 gemäss dem «Common European Framework of Reference for Languages» (CEFR).
 
 <sup>2</sup> Bei ausländischen Studierenden kann zusätzlich ein persönliches Interview zur Eignungsabklärung durchgeführt werden.
 
@@ -711,7 +712,7 @@ beschliesst:
 
 #### Art. A3-1
 
-**Zulassungsvoraussetzungen**
+**Bachelor in Sozialer Arbeit**
 
 <sup>1</sup> Als Zulassungsvoraussetzungen für das erste Studienjahr der Bachelor-Ausbildung gelten:
 
@@ -722,19 +723,45 @@ beschliesst:
 - e. das Bestehen eines Äquivalenzverfahrens, wodurch die Bewerberinnen und Bewerber nachweisen, dass sie fehlende formale Aufnahmequalifikationen durch materielle Leistungen kompensieren,
 - f. und in jedem Fall das Bestehen einer schulinternen Eignungsabklärung.
 
-<sup>2</sup> In Ergänzung zu den Voraussetzungen gemäss a bis e wird von Bewerberinnen und Bewerbern nicht deutscher Muttersprache, welche die Grundausbildung ausserhalb des deutschsprachigen Raums abgeschlossen haben, ein anerkanntes Sprachdiplom in Deutsch auf Niveau C1 (Goethe-Zertifikat) vorausgesetzt.
+<sup>2</sup> In Ergänzung zu den Voraussetzungen gemäss a–e wird von Bewerberinnen und Bewerbern nicht deutscher Muttersprache, welche die Grundausbildung ausserhalb des deutschsprachigen Raums abgeschlossen haben, ein anerkanntes Sprachdiplom in Deutsch auf Niveau C1 (Goethe-Zertifikat) vorausgesetzt.
+
+<sup>3</sup> Mit Ausnahme der bereichsspezifischen Vorbildungen (Berufsmaturität Gesundheit/Soziales, anerkannte Fachmaturität für das Berufsfeld Soziale Arbeit oder Diplom einer höheren Fachschule im Bereich Soziale Arbeit) muss in jedem Fall der Nachweis einer mindestens einjährigen qualifizierten Arbeitspraxis erbracht werden.
+
+<sup>4</sup> Eignungsabklärung: Die Zulassung zur Bachelor-Ausbildung an der Hochschule Luzern – Soziale Arbeit setzt zusätzlich das erfolgreiche Bestehen einer schulinternen Eignungsabklärung voraus, in der geklärt wird, ob Bewerberinnen und Bewerber für das Berufsfeld persönlich geeignet sind.
 
 #### Art. A3-2
 
-**Arbeitspraxis**
+**Bachelor in Pflege**
 
-<sup>1</sup> Mit Ausnahme der bereichsspezifischen Vorbildungen (Berufsmaturität Gesundheit/Soziales, anerkannte Fachmaturität für das Berufsfeld soziale Arbeit oder Diplom einer höheren Fachschule im Bereich soziale Arbeit) muss in jedem Fall der Nachweis einer mindestens einjährigen qualifizierten Arbeitspraxis erbracht werden.
+<sup>1</sup> Als Zulassungsvoraussetzungen für das erste Studienjahr der Bachelor-Ausbildung gelten:
+
+- a. eine anerkannte Berufsmaturität,
+- b. eine anerkannte gymnasiale Maturität,
+- c. ein anerkannter Fachmaturitätsabschluss für das Berufsfeld Gesundheit,
+- d. ein Ausbildungsabschluss, der mit der Berufsmaturität oder mit der gymnasialen Maturität vergleichbar ist,
+- e. und in jedem Fall das Bestehen einer schulinternen Eignungsabklärung.
+
+<sup>2</sup> In Ergänzung zu den Voraussetzungen gemäss a–e müssen Bewerberinnen und Bewerber nicht deutscher Muttersprache, welche die Grundausbildung ausserhalb des deutschsprachigen Raums abgeschlossen haben, einen Nachweis guter Deutschkenntnisse (mindestens Niveau C1) erbringen.
+
+<sup>3</sup> Mit Ausnahme der bereichsspezifischen Vorbildungen (Berufsmaturität Gesundheit/Soziales, anerkannte Fachmaturität für das Berufsfeld Gesundheit oder Diplom) muss in jedem Fall der Nachweis einer mindestens einjährigen qualifizierten Arbeitswelterfahrung erbracht werden, die vor, während und/oder nach dem Studium erlangt werden kann. Der Nachweis der Arbeitswelterfahrung ist Bedingung für die Aushändigung des Diploms.
 
 #### Art. A3-3
 
-**Eignungsprüfung**
+**Bachelor in Pflege für dipl. Pflegefachpersonen**
 
-<sup>1</sup> Die zu bestehende Eignungsabklärung besteht aus einem Einzelgespräch, einem Gruppenelement und einer schriftlichen Einzelarbeit.
+<sup>1</sup> Als Zulassungsvoraussetzungen für das erste Studienjahr der Bachelor-Ausbildung gelten:
+
+- a. ein Pflegeabschluss auf Tertiärstufe (Abschluss auf Stufe höhere Fachschule oder äquivalenter Abschluss),
+- b. eine anerkannte Berufsmaturiät,
+- c. eine anerkannte gymnasiale Maturität,
+- d. ein anerkannter Fachmaturitätsabschluss für das Berufsfeld Pflege,
+- e. ein Ausbildungsabschluss, der mit der Berufsmaturität oder mit der gymnasialen Maturität vergleichbar ist.
+
+<sup>2</sup> Personen ohne Maturität nach den Unterabsätzen b–e müssen über gute Mathematikkenntnisse verfügen (Niveau Berufsmaturität Gesundheit) und zusätzlich den Nachweis von ausreichenden Englischkenntnissen (mindestens Niveau B1) erbringen.
+
+<sup>3</sup> In Ergänzung zu den Voraussetzungen gemäss a–e müssen Bewerberinnen und Bewerber nicht deutscher Muttersprache, welche die Grundausbildung ausserhalb des deutschsprachigen Raums abgeschlossen haben, einen Nachweis guter Deutschkenntnisse (Niveau C1) erbringen.
+
+<sup>4</sup> Es kann eine Eignungsabklärung stattfinden. Das Abklärungsverfahren wird durch das Departement festgelegt.
 
 ## A4 Anhang 4: Voraussetzungen für die Zulassung zur Bachelor-Ausbildung an der Hochschule Luzern – Design Film Kunst
 
