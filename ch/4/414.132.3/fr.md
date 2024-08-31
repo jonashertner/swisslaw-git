@@ -3,11 +3,11 @@ sr: "414.132.3"
 title: "Ordonnance du 14 juin 2004 sur la formation menant au bachelor et au master de l'École polytechnique fédérale de Lausanne (Ordonnance sur la formation à l'EPFL)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/653"
 language: fr
-version: 2022-09-01
+version: 2024-09-01
 adopted: 2004-06-14
 in_force: 2004-10-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/653/20220901/fr/xml/fedlex-data-admin-ch-eli-cc-2004-653-20220901-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/653/20220901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/653/20240901/fr/xml/fedlex-data-admin-ch-eli-cc-2004-653-20240901-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/653/20240901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/653/20220901/fr"
 
 (Ordonnance sur la formation à l’EPFL)
 
-du 14 juin 2004 (Etat le 1<sup>er</sup> septembre 2022)
+du 14 juin 2004 (État le 1<sup>er</sup> septembre 2024)
 
 La Direction de l’École polytechnique fédérale de Lausanne (EPFL),
 
@@ -55,7 +55,7 @@ L’EPFL décerne les titres suivants dans ses domaines d’études (sections ou
 - a. le bachelor;
 - b. le master.
 
-<sup>2</sup> Les titres sont munis du sceau de l’EPFL et mentionnent le nom du titulaire. Ils sont signés par le président de l’EPFL, par le vice-président académique et par le directeur de section. Ils sont accompagnés du «diploma supplement» décrivant le niveau, le contexte, le contenu et le statut des études accomplies avec succès. Les titres mentionnent le domaine d’études et, pour le master, la désignation professionnelle du titulaire, ainsi qu’une éventuelle orientation particulière.[^3-2]
+<sup>2</sup> Les titres sont munis du sceau de l’EPFL et mentionnent le nom du titulaire. Ils portent la signature du président de l’EPFL, du vice-président académique et du directeur de section. Ils sont accompagnés du «diploma supplement» décrivant le niveau, le contexte, le contenu et le statut des études accomplies avec succès. Les titres mentionnent le domaine d’études et, pour le master, la désignation professionnelle du titulaire, ainsi qu’une éventuelle orientation particulière.[^3-2]
 
 <sup>3</sup> …[^3-3]
 
@@ -68,7 +68,7 @@ L’EPFL décerne les titres suivants dans ses domaines d’études (sections ou
 <sup>7</sup> L’EPFL décerne également le titre de docteur ès sciences (ou Ph. D.) et d’autres titres correspondant à la formation continue. Ces titres font l’objet d’ordonnances spécifiques.
 
 [^3-1]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 12 juin 2006, en vigueur depuis le 23 oct. 2006 ([RO 2006 3307](https://fedlex.data.admin.ch/eli/oc/2006/511)).
-[^3-2]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 28 juil. 2022, en vigueur depuis le 1<sup>er</sup> sept. 2022 ([RO 2022 441](https://fedlex.data.admin.ch/eli/oc/2022/441)).
+[^3-2]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 17 juil. 2024, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 397](https://fedlex.data.admin.ch/eli/oc/2024/397)).
 [^3-3]: Abrogé par le ch. I de l’O de la Direction de l’EPFL du 30 juin 2015, avec effet au 1<sup>er</sup> sept. 2016 ([RO 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
 
 #### Art. 4
@@ -176,12 +176,15 @@ Le master est composé de deux étapes successives de formation:
 
 <sup>1</sup> Le projet de master s’étend sur un semestre et sa réussite permet d’acquérir 30 crédits ECTS.
 
-<sup>2</sup> Le projet de master doit être réussi dans le délai d’un an après la réussite du cycle master ou, le cas échéant, après l’admission conditionnelle (art. 29, al. 3, de l’ordonnance du 30 juin 2015 sur le contrôle des études à l’EPFL[^11-2]).
+<sup>1bis</sup> Il doit être entamé au plus tard un an après la réussite du cycle master.[^11-2]
+
+<sup>2</sup> Il doit être réussi au plus tard trois ans après l’entrée au cycle master de 60 crédits ECTS, et au plus tard quatre ans après l’entrée au cycle master de 90 crédits ECTS.[^11-3]
 
 <sup>3</sup> La réussite du cycle master est la condition pour entamer le projet de master. L’art. 29, al. 3, de l’ordonnance du 30 juin 2015 sur le contrôle des études à l’EPFL est réservé; s’il s’applique, la réussite du projet de master implique la réussite préalable du cycle master.
 
 [^11-1]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 30 juin 2015, en vigueur depuis le 1<sup>er</sup> sept. 2016 ([RO 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
-[^11-2]: [RS 414.132.2](https://fedlex.data.admin.ch/eli/cc/2015/476)
+[^11-2]: Introduit par le ch. I de l’O de la Direction de l’EPFL du 17 juil. 2024, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 397](https://fedlex.data.admin.ch/eli/oc/2024/397)).
+[^11-3]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 17 juil. 2024, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 397](https://fedlex.data.admin.ch/eli/oc/2024/397)).
 
 ## Section 4 Durées de formation
 

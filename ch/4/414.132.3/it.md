@@ -3,11 +3,11 @@ sr: "414.132.3"
 title: Ordinanza del 14 giugno 2004 sulla formazione che porta al bachelor e al master presso il Politecnico federale di Losanna (Ordinanza sulla formazione al PFL)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/653"
 language: it
-version: 2022-09-01
+version: 2024-09-01
 adopted: 2004-06-14
 in_force: 2004-10-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/653/20220901/it/xml/fedlex-data-admin-ch-eli-cc-2004-653-20220901-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/653/20220901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/653/20240901/it/xml/fedlex-data-admin-ch-eli-cc-2004-653-20240901-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/653/20240901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/653/20220901/it"
 
 (Ordinanza sulla formazione al PFL)
 
-del 14 giugno 2004 (Stato 1° settembre 2022) (Stato 1° settembre 2022)
+del 14 giugno 2004 (Stato 1° settembre 2024)
 
 La Direzione del Politecnico federale di Losanna (PFL),
 
@@ -55,7 +55,7 @@ Nei suoi campi di studio (sezioni o campi) il PFL rilascia i titoli seguenti:[^3
 - a. il bachelor;
 - b. il master.
 
-<sup>2</sup> I titoli sono muniti del sigillo del PFL e recano il nome del titolare. Sono firmati dal presidente del PFL, dal vicepresidente per gli affari accademici e dal direttore di sezione. Sono accompagnati dal «diploma supplement» nel quale sono specificati il livello, il contesto, il contenuto e lo statuto degli studi portati a termine con successo. Nei titoli è indicato il campo di studio e, per il master, la designazione professionale del titolare come pure un eventuale indirizzo particolare [^3-2]
+<sup>2</sup> I titoli sono muniti del sigillo del PFL e recano il nome del titolare. Recano la firma del presidente del PFL, del vicepresidente per gli affari accademici e del direttore di sezione. Sono accompagnati dal «diploma supplement» nel quale sono specificati il livello, il contesto, il contenuto e lo statuto degli studi portati a termine con successo. Nei titoli è indicato il campo di studio e, per il master, la designazione professionale del titolare come pure un eventuale indirizzo particolare.[^3-2]
 
 <sup>3</sup> ...[^3-3]
 
@@ -68,7 +68,7 @@ Nei suoi campi di studio (sezioni o campi) il PFL rilascia i titoli seguenti:[^3
 <sup>7</sup> Il PFL conferisce anche il titolo di dottore in scienze (o Ph.D.) e altri titoli propri della formazione continua. Questi titoli sono oggetto di ordinanze specifiche.
 
 [^3-1]: Nuovo testo giusta il n. I dell’O della Direzione del PFL del 12 giu. 2006, in vigore dal 23 ott. 2006 ([RU 2006 3307](https://fedlex.data.admin.ch/eli/oc/2006/511)).
-[^3-2]: Nuovo testo giusta il n. I dell’O della Direzione del PFL del 28 lug. 2022, in vigore dal 1° set. 2022 ([RU 2022 441](https://fedlex.data.admin.ch/eli/oc/2022/441)).
+[^3-2]: Nuovo testo giusta il n. I dell’O della Direzione del PFL del 17 lug. 2024, in vigore dal 1° set. 2024 ([RU 2024 397](https://fedlex.data.admin.ch/eli/oc/2024/397)).
 [^3-3]: Abrogato dal n. I dell’O della Direzione del PFL del 30 giu. 2015, con effetto dal 1° set. 2016 ([RU 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
 
 #### Art. 4
@@ -176,12 +176,15 @@ Il master si suddivide in due tappe formative:
 
 <sup>1</sup> Il progetto di master si articola su un semestre e permette di acquisire 30 crediti ECTS.
 
-<sup>2</sup> Il progetto di master deve essere portato a termine entro un anno dal superamento del ciclo di master o dall’ammissione con riserva (art. 29 cpv. 3 dell’ordinanza del 30 giugno 2015[^11-2] sulla verifica degli studi al PFL).
+<sup>1bis</sup> Deve essere iniziato al più tardi entro un anno dal superamento del ciclo di master.[^11-2]
+
+<sup>2</sup> Deve essere portato a termine al più tardi entro tre anni dal passaggio al ciclo di master di 60 crediti ECTS e al più tardi entro quattro anni dal passaggio al ciclo di master di 90 crediti ECTS.[^11-3]
 
 <sup>3</sup> Per avviare il progetto di master è necessario dapprima portare a termine con successo il ciclo master. È fatto salvo l’articolo 29 capoverso 3 dell’ordinanza del 30 giugno 2015 sulla verifica degli studi al PFL; in caso di applicazione di tale articolo, il superamento del ciclo master è condizione essenziale per concludere con successo il progetto di master.
 
 [^11-1]: Nuovo testo giusta il n. I dell’O della Direzione del PFL del 30 giu. 2015, in vigore dal 1° set. 2016 ([RU 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
-[^11-2]: [RS 414.132.2](https://fedlex.data.admin.ch/eli/cc/2015/476)
+[^11-2]: Introdotto dal n. I dell’O della Direzione del PFL del 17 lug. 2024, in vigore dal 1° set. 2024 ([RU 2024 397](https://fedlex.data.admin.ch/eli/oc/2024/397)).
+[^11-3]: Nuovo testo giusta il n. I dell’O della Direzione del PFL del 17 lug. 2024, in vigore dal 1° set. 2024 ([RU 2024 397](https://fedlex.data.admin.ch/eli/oc/2024/397)).
 
 ## Sezione 4: Durata della formazione
 

@@ -3,11 +3,11 @@ sr: "414.132.3"
 title: Verordnung der ETH Lausanne vom 14. Juni 2004 über das Bachelor- und das Masterstudium (Ausbildungsverordnung ETHL)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/653"
 language: de
-version: 2022-09-01
+version: 2024-09-01
 adopted: 2004-06-14
 in_force: 2004-10-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/653/20220901/de/xml/fedlex-data-admin-ch-eli-cc-2004-653-20220901-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/653/20220901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/653/20240901/de/xml/fedlex-data-admin-ch-eli-cc-2004-653-20240901-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/653/20240901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/653/20220901/de"
 
 (Ausbildungsverordnung ETHL)
 
-vom 14. Juni 2004 (Stand am 1. September 2022)
+vom 14. Juni 2004 (Stand am 1. September 2024)
 
 Die Schulleitung der Eidgenössischen Technischen Hochschule Lausanne (ETHL),
 
@@ -55,7 +55,7 @@ Die ETHL verleiht in ihren Lehrgebieten (Sektionen oder Lehrgebieten) die folgen
 - a. Bachelor;
 - b. Master.
 
-<sup>2</sup> Die Urkunde trägt das Siegel der ETHL und den Namen des Inhabers oder der Inhaberin. Sie ist unterschrieben vom Präsidenten oder von der Präsidentin der ETHL, vom Vizepräsidenten oder von der Vizepräsidentin für akademische Angelegenheiten und vom Vorsteher oder von der Vorsteherin der Sektion. Sie wird ergänzt durch das «Diploma Supplement», das Auskunft gibt über Stufe, Einbettung, Inhalt und Status des erfolgreich absolvierten Studiengangs. Die Urkunde nennt das Fachgebiet und für den Master die Berufsbezeichnung des Inhabers oder der Inhaberin sowie gegebenenfalls die besondere thematische Ausrichtung.[^3-2]
+<sup>2</sup> Die Urkunde trägt das Siegel der ETHL und den Namen des Inhabers oder der Inhaberin. Sie trägt die Unterschrift des Präsidenten oder der Präsidentin der ETHL, des Vizepräsidenten oder der Vizepräsidentin für akademische Angelegenheiten und des Vorstehers oder der Vorsteherin der Sektion. Sie wird ergänzt durch das «Diploma Supplement», das Auskunft gibt über Stufe, Einbettung, Inhalt und Status des erfolgreich absolvierten Studiengangs. Die Urkunde nennt das Fachgebiet und für den Master die Berufsbezeichnung des Inhabers oder der Inhaberin sowie gegebenenfalls die besondere thematische Ausrichtung.[^3-2]
 
 <sup>3</sup> …[^3-3]
 
@@ -68,7 +68,7 @@ Die ETHL verleiht in ihren Lehrgebieten (Sektionen oder Lehrgebieten) die folgen
 <sup>7</sup> Die ETHL verleiht den Titel Doktor oder Doktorin der Wissenschaften (Dr. sc. oder Ph. D.) sowie andere, weiterbildungsspezifische Titel. Diese Titel werden in besonderen Verordnungen geregelt.
 
 [^3-1]: Fassung gemäss Ziff. I der V der ETHL-Schulleitung vom 12. Juni 2006, in Kraft seit 23. Okt. 2006 ([AS 2006 3307](https://fedlex.data.admin.ch/eli/oc/2006/511)).
-[^3-2]: Fassung gemäss Ziff. I der V der ETHL-Schulleitung vom 28. Juli 2022, in Kraft seit 1. Sept. 2022 ([AS 2022 441](https://fedlex.data.admin.ch/eli/oc/2022/441)).
+[^3-2]: Fassung gemäss Ziff. I der V der ETHL-Schulleitung vom 17. Juli 2024, in Kraft seit 1. Sept. 2024 ([AS 2024 397](https://fedlex.data.admin.ch/eli/oc/2024/397)).
 [^3-3]: Aufgehoben durch Ziff. I der V der ETHL-Schulleitung vom 30. Juni 2015, mit Wirkung seit 1. Sept. 2016 ([AS 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
 
 #### Art. 4
@@ -176,12 +176,15 @@ Das Masterprogramm besteht aus zwei aufeinander folgenden Abschnitten:
 
 <sup>1</sup> Die Masterarbeit dauert ein Semester; wer sie erfolgreich abschliesst, erwirbt 30 ECTS-Kreditpunkte.
 
-<sup>2</sup> Die Masterarbeit muss innerhalb eines Jahres nach bestandener Masterstufe oder gegebenenfalls nach der bedingten Zulassung (Art. 29 Abs. 3 der Studienkontrollverordnung ETHL vom 30. Juni 2015[^11-2]) erfolgreich abgeschlossen werden.
+<sup>1bis</sup> Sie muss spätestens ein Jahr nach bestandener Masterstufe angefangen werden.[^11-2]
+
+<sup>2</sup> Sie muss spätestens drei Jahre nach Eintritt in die Masterstufe mit 60 ECTS-Kreditpunkten und spätestens vier Jahre nach Eintritt in die Masterstufe mit 90 ECTS-Kreditpunkten erfolgreich abgeschlossen werden.[^11-3]
 
 <sup>3</sup> Die bestandene Masterstufe ist Voraussetzung für die Inangriffnahme der Masterarbeit. Artikel 29 Absatz 3 der Studienkontrollverordnung ETHL vom 30. Juni 2015 bleibt vorbehalten; ist dieser anwendbar, so kann die Masterarbeit nur dann erfolgreiche abgeschlossen werden, wenn zuvor die Masterstufe bestanden ist.
 
 [^11-1]: Fassung gemäss Ziff. I der V der ETHL-Schulleitung vom 30. Juni 2015, in Kraft seit 1. Sept. 2016 ([AS 2015 2539](https://fedlex.data.admin.ch/eli/oc/2015/478)).
-[^11-2]: [SR 414.132.2](https://fedlex.data.admin.ch/eli/cc/2015/476)
+[^11-2]: Eingefügt durch Ziff. I der V der ETHL-Schulleitung vom 17. Juli 2024, in Kraft seit 1. Sept. 2024 ([AS 2024 397](https://fedlex.data.admin.ch/eli/oc/2024/397)).
+[^11-3]: Fassung gemäss Ziff. I der V der ETHL-Schulleitung vom 17. Juli 2024, in Kraft seit 1. Sept. 2024 ([AS 2024 397](https://fedlex.data.admin.ch/eli/oc/2024/397)).
 
 ## 4. Abschnitt: Studiendauer
 
