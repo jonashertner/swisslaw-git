@@ -4,11 +4,11 @@ title: "Ordinanza del 18 novembre 2015 concernente la vigilanza sull'assicurazio
 short: OVAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/840"
 language: it
-version: 2024-07-01
+version: 2024-09-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/840/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2015-840-20240701-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20240701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/840/20240901/it/xml/fedlex-data-admin-ch-eli-cc-2015-840-20240901-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20240901/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20240701/it"
 
 (Ordinanza sulla vigilanza sull’assicurazione malattie, OVAMal)
 
-del 18 novembre 2015 (Stato 1° luglio 2024)
+del 18 novembre 2015 (Stato 1° settembre 2024)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 2 capoverso 2, 14 capoverso 2, 17 capoverso 4, 20 capoversi 2 e 4, 22 capoverso 2, 24 capoverso 4, 32 e 57 della legge del 26 settembre 2014[^ingress-1] sulla vigilanza sull’assicurazione malattie (LVAMal),
+visti gli articoli 2 capoverso 2, 14 capoverso 2, 17 capoverso 4, 19*b* capoversi 2 e 3, 20 capoversi 2 e 4, 22 capoverso 2, 24 capoverso 4, 32 e 57 della legge del 26 settembre 2014[^ingress-1] sulla vigilanza sull’assicurazione malattie (LVAMal),[^ingress-2]
 
 ordina:
 
 [^ingress-1]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^ingress-2]: Nuovo testo giusta il n. I 1 dell’O del 14 ago. 2024 che disciplina l’attività degli intermediari assicurativi, in vigore dal 1° set. 2024 ([RU 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
 
 ## Capitolo 1: Definizioni
 
@@ -472,13 +473,45 @@ I costi amministrativi dell’assicurazione malattie sono ripartiti secondo gli 
 
 #### Art. 35
 
-**Attività d’intermediario e costi della pubblicità**
+**Costi della pubblicità[^35-1]**
 
-<sup>1</sup> È considerata attività d’intermediario ai sensi dell’articolo 19 LVAMal qualsiasi attività mediante la quale, dietro compenso, vengono messe a disposizione dell’assicuratore competenze oppure servizi volti a facilitare o permettere l’affiliazione di assicurati.
+<sup>1</sup> ... [^35-2]
 
 <sup>2</sup> Sono considerati costi della pubblicità segnatamente tutte le spese per l’acquisizione di assicurati, indipendentemente dal canale e dal mezzo pubblicitario utilizzati.
 
-<sup>3</sup> Se gli assicuratori concludono un accordo secondo l’articolo 19 capoverso 3 LVAMal, lo trasmettono all’autorità di vigilanza.
+<sup>3</sup> ...[^35-3]
+
+[^35-1]: Nuovo testo giusta il n. I 1 dell’O del 14 ago. 2024 che disciplina l’attività degli intermediari assicurativi, in vigore dal 1° set. 2024 ([RU 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
+[^35-2]: Abrogato dal n. I 1 dell’O del 14 ago. 2024 che disciplina l’attività degli intermediari assicurativi, con effetto dal 1° set. 2024 ([RU 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
+[^35-3]: Abrogato dal n. I 1 dell’O del 14 ago. 2024 che disciplina l’attività degli intermediari assicurativi, con effetto dal 1° set. 2024 ([RU 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
+
+## Capitolo 3*a*: Attività degli intermediari assicurativi
+
+[^chap3a-1]
+
+[^chap3a-1]: Introdotto dal n. I 1 dell’O del 14 ago. 2024 che disciplina l’attività degli intermediari assicurativi, in vigore dal 1° set. 2024 ([RU 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
+
+#### Art. 35a
+
+**Accordo tra assicuratori**
+
+<sup>1</sup> Se gli assicuratori concludono un accordo secondo l’articolo 19*b* capoverso 1 LVAMal, lo trasmettono all’autorità di vigilanza e lo pubblicano.
+
+<sup>2</sup> Comunicano qualsiasi modifica dell’accordo all’autorità di vigilanza nove mesi prima dell’entrata in vigore della modifica. Le comunicano immediatamente la risoluzione dell’accordo.
+
+#### Art. 35b
+
+**Carattere obbligatorio generale delle disposizioni dell’accordo tra assicuratori**
+
+Le disposizioni dell’accordo settoriale del 22 marzo 2024[^35b-1] concluso tra santésuisse e curafutura concernente la qualità della consulenza e le indennità versate agli intermediari per l’acquisizione di clienti menzionate nell’allegato 2 hanno carattere obbligatorio generale per tutti gli assicuratori.
+
+[^35b-1]: L’accordo settoriale è consultabile gratuitamente ai seguenti indirizzi: [www.santesuisse.ch/fr/pour-les-assures/prestations/demarchage-telephonique-declaration](http://www.santesuisse.ch/fr/pour-les-assures/prestations/demarchage-telephonique-declaration) e [curafutura.ch/it/themen/krankenversicherung/vermittler/](http://curafutura.ch/it/themen/krankenversicherung/vermittler/)
+
+#### Art. 35c
+
+**Infrazioni alle disposizioni aventi carattere obbligatorio generale**
+
+È punito conformemente all’articolo 54 capoverso 3 lettera h o 4 LVAMal chiunque commette un’infrazione alle disposizioni di cui all’articolo 35*b*.
 
 ## Capitolo 4: Gestione aziendale e revisione
 
@@ -674,7 +707,7 @@ Sono considerati non rischiosi:
 
 <sup>4</sup> L’assicuratore pubblica la relazione sulla gestione entro il 30 giugno dell’anno successivo all’esercizio cui si riferisce.
 
-[^50-1]: Le raccomandazioni possono essere consultate gratuitamente od ottenute a pagamento presso: Verlag SKV, Hans-Huber-Strasse 4, 8002 Zurigo; www.verlagskv.ch.
+[^50-1]: Le raccomandazioni possono essere consultate gratuitamente od ottenute a pagamento presso: Verlag SKV, Hans-Huber-Strasse 4, 8002 Zurigo; [www.verlagskv.ch](https://verlagskv.ch/)
 [^50-2]: Nuovo testo giusta il n. I dell’O del 14 apr. 2021, in vigore dal 1° giu. 2021 ([RU 2021 254](https://fedlex.data.admin.ch/eli/oc/2021/254)).
 [^50-3]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 [^50-4]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
@@ -689,7 +722,7 @@ Sono considerati non rischiosi:
 
 <sup>3</sup> L’assicuratore trasmette il conto annuale secondo il diritto in materia di vigilanza all’autorità di vigilanza entro il 31 marzo dell’anno successivo all’esercizio cui si riferisce.
 
-[^51-1]: Le raccomandazioni possono essere richieste, a pagamento, a: Verlag SKV, Hans-Huber-Strasse 4, 8002 Zurigo ([www.verlagskv.ch](https://verlagskv.ch/)).
+[^51-1]: Le raccomandazioni possono essere consultate gratuitamente od ottenute a pagamento presso: Verlag SKV, Hans-Huber-Strasse 4, 8002 Zurigo; [www.verlagskv.ch](https://verlagskv.ch/)
 
 #### Art. 52
 
@@ -731,7 +764,7 @@ L’ufficio di revisione esterno allestisce ogni anno:
 
 <sup>2</sup> Esso trasmette i suoi rapporti all’autorità di vigilanza e all’ufficio di revisione interno.
 
-[^54-1]: Le raccomandazioni possono essere richieste, a pagamento, a: Verlag SKV, Hans-Huber-Strasse 4, 8002 Zurigo ([www.verlagskv.ch](https://verlagskv.ch/)).
+[^54-1]: Le raccomandazioni possono essere consultate gratuitamente od ottenute a pagamento presso: Verlag SKV, Hans-Huber-Strasse 4, 8002 Zurigo; [www.verlagskv.ch](https://verlagskv.ch/)
 [^54-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 ## Capitolo 5: Riassicurazione
@@ -998,6 +1031,15 @@ Prima del termine di cui al capoverso 4, gli assicuratori le cui riserve non rag
 [^73-1]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
 [^73-2]: [RU 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)
 
+#### Art. 73a
+
+**Disposizione transitoria della modifica del 14 agosto 2024**[^73a-1]
+
+Per i formulari d’affiliazione ricevuti dall’assicuratore entro il 31 dicembre 2024, l’attività degli intermediari assicurativi legati all’assicuratore mediante un contratto individuale di lavoro ai sensi dell’articolo 319 CO[^73a-2] può essere rimunerata secondo il diritto anteriore sino al 31 gennaio 2025.
+
+[^73a-1]: Introdotto dal n. I 1 dell’O del 14 ago. 2024 che disciplina l’attività degli intermediari assicurativi, in vigore dal 1° set. 2024, in vigore dal 1° set. 2024 ([RU 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
+[^73a-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
 #### Art. 74
 
 **Entrata in vigore**
@@ -1017,14 +1059,88 @@ Allegato 1[^t-1]
 
 Allegato 2[^t-2]
 
+(art. 35*b*)
+
+## Disposizioni aventi carattere obbligatorio generale dell’accordo settoriale
+
+[^t-2]: Introdotto dal n. I 1 dell’O del 14 ago. 2024 che disciplina l’attività degli intermediari assicurativi, in vigore dal 1° set. 2024, in vigore dal 1° set. 2024 ([RU 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
+
+Le disposizioni seguenti dell’accordo settoriale del 22 marzo 2024[^annex2-lvlu1-1] concluso tra santésuisse e curafutura concernente la qualità della consulenza e le indennità versate agli intermediari per l’acquisizione di clienti hanno carattere obbligatorio generale:
+
+### 1. Divieto di pubblicità telefonica rivolta alle persone che non sono mai state assicurate presso un assicuratore o che non lo sono più da tempo (art. 19*b* cpv. 1 lett. c LVAMal)
+
+[^annex2-lvlu1-1]: L’accordo settoriale è consultabile gratuitamente ai seguenti indirizzi: [www.santesuisse.ch/fr/pour-les-assures/prestations/demarchage-telephonique-declaration](http://www.santesuisse.ch/fr/pour-les-assures/prestations/demarchage-telephonique-declaration) e [curafutura.ch/it/themen/krankenversicherung/vermittler/](http://curafutura.ch/it/themen/krankenversicherung/vermittler/)
+
+N. 6, punto 4:
+
+- [Gli assicuratori si impegnano a] «rinunciare alle acquisizioni telefoniche a freddo da parte dei propri collaboratori o partner esterni. Per acquisizioni telefoniche a freddo si intendono i primi contatti stabiliti con potenziali clienti, con i quali non esiste alcuna relazione commerciale o che non sono più clienti da oltre 36 mesi, che hanno fatto uso dell’opting-out o per i quali il contatto non scaturisce da una raccomandazione di una persona terza nota al cliente potenziale.»
+
+### 2. Rimunerazione dell’attività degli intermediari assicurativi (art. 19*b* cpv. 1 lett. e LVAMal)
+
+N. 5.4:
+
+- «5.4 *Indennità*
+  - 5\.4.1 L’indennità ai sensi dell’accordo settoriale è definita come l’insieme delle prestazioni pecuniarie correlate alle stipulazioni versate agli intermediari per la loro attività di intermediazione assicurativa.
+  - 5\.4.2
+
+    Sono considerati prestazioni pecuniarie correlate alle stipulazioni in particolare:
+
+    - 5\.4.2.1 provvigioni nette (compresi gli storni delle provvigioni);
+    - 5\.4.2.2 courtage, commissioni, ribassi o altri vantaggi finanziari correlati alla stipulazione anche se effettuati con pagamento differito e/o corrisposti periodicamente;
+    - 5\.4.2.3 costi per l’acquisizione di lead (indirizzi di contatto, appuntamenti); fanno eccezione i lead generati dall’azienda assicurativa stessa (comprese le loro società affiliate) per proprio uso commerciale (intermediari vincolati);
+    - 5\.4.2.4 costi salariali fissi (parte rilevante per la stipulazione, compresi contributi per le assicurazioni sociali e imposte);
+    - 5\.4.2.5 costi correlati all’esito della stipulazione, quali bonus e tutte le forme di indennità convenute negli accordi aggiuntivi.
+
+  - 5\.4.3 Le indennità variabili sono prestazioni pecuniarie correlate alle stipulazioni ai sensi del punto 5.4.2 senza costi salariali fissi.
+  - 5\.4.4 Le prestazioni pecuniarie correlate alle stipulazioni per gli intermediari nel quadro della loro attività di assistenza (p. es. inviti a eventi, pranzi o regali di Natale nei limiti socialmente opportuni) sono consentite nel quadro del regolamento di compliance di ciascun assicuratore e vanno disciplinate in un regolamento interno. Queste non fanno parte delle indennità.»
+
+N. 8.2, primo paragrafo:
+
+- «8.2 *Verbali di consulenza*
+- Gli assicuratori remunerano le proposte di assicurazione presentate dagli intermediari soltanto se accompagnate da un verbale di consulenza che soddisfi gli standard minimi definiti.»
+
+N. 9.1.1:
+
+- «LAMal
+- Per l’indennità variabile massima concernente i prodotti secondo l’assicurazione obbligatoria delle cure medico-sanitarie (LAMal) si applica un tetto massimo di CHF 70.00 per persona assicurata.»
+
+N. 9.2:
+
+- «9.2 *Restituzione dell’indennità (storno)*
+-
+
+  Per la restituzione dell’indennità concernente tutti i prodotti si applicano le seguenti condizioni, a prescindere dall’inizio dell’assicurazione (al 1° gennaio o nel corso dell’anno):
+
+  - a) se la durata del contratto è compresa tra 0 e 365 giorni, l’intermediario restituisce il 100 % dell’indennità;
+  - b) se la durata del contratto è compresa tra 366 e 730 giorni, l’intermediario restituisce almeno il 50 % dell’indennità;
+  - c) a partire dal 731° giorno, ogni assicuratore decide in autonomia l’importo dell’indennità da restituire.
+
+- Per il computo si tiene conto degli anni bisestili. In caso di decesso di una persona assicurata entro i termini che prevedono una restituzione, l’assicuratore può rinunciare interamente o in parte a detta restituzione.»
+
+### 3. Redazione e firma di un verbale per i colloqui di consulenza (art. 19*b* cpv. 1 lett. f LVAMal)
+
+N. 8.2, secondo paragrafo, punti 1–3 e 5:
+
+-
+
+  «Il verbale di consulenza comprende perlomeno:
+
+  - **–** la data della consulenza;
+  - **–** il nome del cliente o dei clienti nonché del consulente o dei consulenti;
+  - **–** la conferma che l’appuntamento per la consulenza che ha portato alla proposta non è stato fissato a seguito di un’acquisizione telefonica a freddo;
+  - **–** […]
+  - **–** il consenso del/della cliente nonché del consulente o dei consulenti rispettivamente dell’operatore digitale responsabile per mezzo di firma originale o conferma in forma digitale.»
+
+Allegato 3[^t-3]
+
 (art. 72)
 
 ## Modifica di altri atti normativi
 
-[^t-2]: Originario allegato.
+[^t-3]: Originario all., in seguito all. 2.
 
 Le seguenti ordinanze sono modificate come segue:
 
-...[^annex2-lvlu1-1]
+...[^annex3-lvlu1-1]
 
-[^annex2-lvlu1-1]: Le mod. possono essere consultate alla [RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840).
+[^annex3-lvlu1-1]: Le mod. possono essere consultate alla [RU 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840).

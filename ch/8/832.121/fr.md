@@ -4,11 +4,11 @@ title: "Ordonnance du 18 novembre 2015 sur la surveillance de l'assurance-maladi
 short: OSAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/840"
 language: fr
-version: 2024-07-01
+version: 2024-09-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/840/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2015-840-20240701-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/840/20240901/fr/xml/fedlex-data-admin-ch-eli-cc-2015-840-20240901-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20240901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20240701/fr"
 
 (Ordonnance sur la surveillance de l’assurance-maladie, OSAMal)
 
-du 18 novembre 2015 (État le 1<sup>er</sup> juillet 2024)
+du 18 novembre 2015 (État le 1<sup>er</sup> septembre 2024)
 
 Le Conseil fédéral suisse,
 
-vu les art. 2, al. 2, 14, al. 2, 17, al. 4, 20, al. 2 et 4, 22, al. 2, 24, al. 4, 32 et 57 de la loi fédérale du 26 septembre 2014 sur la surveillance de l’assurance-maladie sociale (LSAMal)[^ingress-1],
+vu les art. 2, al. 2, 14, al. 2, 17, al. 4, 19*b*, al. 2 et 3, 20, al. 2 et 4, 22, al. 2, 24, al. 4, 32 et 57 de la loi du 26 septembre 2014 sur la surveillance de l’assurance-maladie (LSAMal)[^ingress-1],[^ingress-2]
 
 arrête:
 
 [^ingress-1]: [RS 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^ingress-2]: Nouvelle teneur selon le ch. I 1 de l’O du 14 août 2024 sur la réglementation de l’activité des intermédiaires d’assurance, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
 
 ## Chapitre 1 Définitions
 
@@ -472,13 +473,45 @@ Les frais d’administration afférents à l’assurance-maladie sont répartis 
 
 #### Art. 35
 
-**Activité d’intermédiaire et dépenses de publicité**
+**Dépenses de publicité[^35-1]**
 
-<sup>1</sup> Est une activité d’intermédiaire au sens de l’art. 19 LSAMal toute activité par laquelle une personne met ses compétences ou ses services à la disposition de l’assureur contre rémunération dans le but de faciliter ou de permettre l’affiliation d’assurés.
+<sup>1</sup> …[^35-2]
 
 <sup>2</sup> Font notamment partie des dépenses de publicité toutes les dépenses liées à la prospection d’assurés, quels que soient le canal et le moyen utilisés.
 
-<sup>3</sup> Si les assureurs concluent un accord au sens de l’art. 19, al. 3, LSAMal, ils le communiquent à l’autorité de surveillance.
+<sup>3</sup> …[^35-3]
+
+[^35-1]: Nouvelle teneur selon le ch. I 1 de l’O du 14 août 2024 sur la réglementation de l’activité des intermédiaires d’assurance, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
+[^35-2]: Abrogé par le ch. I 1 de l’O du 14 août 2024 sur la réglementation de l’activité des intermédiaires d’assurance, avec effet au 1<sup>er</sup> sept. 2024 ([RO 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
+[^35-3]: Abrogé par le ch. I 1 de l’O du 14 août 2024 sur la réglementation de l’activité des intermédiaires d’assurance, avec effet au 1<sup>er</sup> sept. 2024 ([RO 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
+
+## Chapitre 3*a* Activité des intermédiaires d’assurance
+
+[^chap3a-1]
+
+[^chap3a-1]: Introduit par le ch. I 1 de l’O du 14 août 2024 sur la réglementation de l’activité des intermédiaires d’assurance, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
+
+#### Art. 35a
+
+**Accord entre assureurs**
+
+<sup>1</sup> Si des assureurs concluent un accord au sens de l’art. 19*b*, al. 1, LSAMal, ils le transmettent à l’autorité de surveillance et le publient.
+
+<sup>2</sup> Ils communiquent toute modification de l’accord à l’autorité de surveillance neuf mois avant l’entrée en vigueur de la modification. Ils lui communiquent sans délai la résiliation de l’accord.
+
+#### Art. 35b
+
+**Force obligatoire générale de dispositions de l’accord entre assureurs**
+
+Les dispositions de l’accord de branche du 22 mars 2024 entre santésuisse et curafutura concernant la qualité du conseil et l’indemnisation des intermédiaires lors de la prospection de nouveaux clients[^35b-1] mentionnées à l’annexe 2 ont force obligatoire générale pour tous les assureurs.
+
+[^35b-1]: L’accord de branche peut être consulté gratuitement aux adresses suivantes: [www.santesuisse.ch/fr/pour-les-assures/prestations/demarchage-telephonique-declaration](https://www.santesuisse.ch/fr/pour-les-assures/prestations/demarchage-telephonique-declaration) et [curafutura.ch/fr/themes/assurance-maladie/intermediaires](https://curafutura.ch/fr/themes/assurance-maladie/intermediaires).
+
+#### Art. 35c
+
+**Infractions à des dispositions qui ont force obligatoire générale**
+
+Est puni conformément à l’art. 54, al. 3, let. h, ou 4, LSAMal quiconque enfreint des dispositions visées à l’art. 35*b*.
 
 ## Chapitre 4 Gestion d’entreprise et révision
 
@@ -695,7 +728,7 @@ Les placements suivants ne sont pas considérés comme risqués:
 
 **Organe de révision externe**
 
-<sup>1</sup> Les dispositions du code des obligations[^52-1] relatives à l’organe de révision des sociétés anonymes s’appliquent lorsque ni la LSAMal, ni la présente ordonnance ou les instructions de l’autorité de surveillance ne contiennent de prescriptions particulières pour les assureurs.
+<sup>1</sup> Les dispositions du code des obligations (CO)[^52-1] relatives à l’organe de révision des sociétés anonymes s’appliquent lorsque ni la LSAMal, ni la présente ordonnance ou les instructions de l’autorité de surveillance ne contiennent de prescriptions particulières pour les assureurs.[^52-2]
 
 <sup>2</sup> La responsabilité de l’organe de révision externe est régie par le droit de la société anonyme.
 
@@ -704,6 +737,7 @@ Les placements suivants ne sont pas considérés comme risqués:
 <sup>4</sup> Lorsqu’un assureur désigne un nouvel organe de révision externe, il en informe l’autorité de surveillance.
 
 [^52-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^52-2]: Nouvelle teneur selon le ch. I 1 de l’O du 14 août 2024 sur la réglementation de l’activité des intermédiaires d’assurance, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
 
 #### Art. 53
 
@@ -726,13 +760,14 @@ Les placements suivants ne sont pas considérés comme risqués:
 L’organe de révision externe établit chaque année les rapports suivants:
 
 - a. un rapport sur les comptes annuels conformément aux dispositions de la Fondation pour les recommandations relatives à la présentation des comptes[^54-1];
-- b. un rapport détaillé adressé à l’organe d’administration, établi conformément aux dispositions du code des obligations[^54-2] et aux exigences de l’autorité de surveillance;
+- b.[^54-2] un rapport détaillé adressé à l’organe d’administration, établi conformément aux dispositions du CO[^54-3] et aux exigences de l’autorité de surveillance;
 - c. un rapport sur les comptes annuels relevant du droit de la surveillance, établi conformément aux instructions de l’autorité de surveillance.
 
 <sup>2</sup> Il remet ses rapports à l’autorité de surveillance et à l’organe de révision interne.
 
 [^54-1]: Les recommandations peuvent être obtenues contre paiement auprès des Editions SKV, Hans-Huber-Strasse 4, 8002 Zurich ([www.verlagskv.ch](http://www.verlagskv.ch)).
-[^54-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^54-2]: Nouvelle teneur selon le ch. I 1 de l’O du 14 août 2024 sur la réglementation de l’activité des intermédiaires d’assurance, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
+[^54-3]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 ## Chapitre 5 Réassurance
 
@@ -998,6 +1033,15 @@ Avant la date visée à l’al. 4, les assureurs dont les réserves n’atteigne
 [^73-1]: [RS 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
 [^73-2]: [RO 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)
 
+#### Art. 73a
+
+**Disposition transitoire relative à la modification du 14 août 2024**[^73a-1]
+
+Pour les formulaires d’affiliation reçus par l’assureur jusqu’au 31 décembre 2024, l’activité des intermédiaires d’assurance liés à l’assureur par un contrat individuel de travail au sens de l’art. 319 CO[^73a-2] peut être rémunérée conformément à l’ancien droit jusqu’au 31 janvier 2025.
+
+[^73a-1]: Introduit par le ch. I 1 de l’O du 14 août 2024 sur la réglementation de l’activité des intermédiaires d’assurance, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
+[^73a-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
 #### Art. 74
 
 **Entrée en vigueur**
@@ -1017,14 +1061,88 @@ Annexe 1[^t-1]
 
 Annexe 2[^t-2]
 
+(art. 35*b*)
+
+## Dispositions ayant force obligatoire générale de l’accord de branche
+
+[^t-2]: Introduite par le ch. I 1 de l’O du 14 août 2024 sur la réglementation de l’activité des intermédiaires d’assurance, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
+
+Les dispositions suivantes de l’accord de branche du 22 mars 2024 entre santésuisse et curafutura concernant la qualité du conseil et l’indemnisation des intermédiaires lors de la prospection de nouveaux clients[^annex2-lvlu1-1] ont force obligatoire générale:
+
+### 1. Interdiction du démarchage téléphonique des personnes qui n’ont jamais été assurées auprès d’un assureur ou qui ne le sont plus depuis un certain temps (art. 19*b*, al. 1, let. c, LSAMal)
+
+[^annex2-lvlu1-1]: L’accord de branche peut être consulté gratuitement aux adresses suivantes: [www.santesuisse.ch/fr/pour-les-assures/prestations/demarchage-telephonique-declaration](https://www.santesuisse.ch/fr/pour-les-assures/prestations/demarchage-telephonique-declaration) et [curafutura.ch/fr/themes/assurance-maladie/intermediaires](https://curafutura.ch/fr/themes/assurance-maladie/intermediaires).
+
+Ch. 6, point 4:
+
+- [Les assureurs s’engagent] «à renoncer à toute prospection téléphonique à froid, qu’elle soit réalisée par leurs propres collaborateurs ou par des partenaires externes. On entend par prospection à froid les premiers contacts établis avec des clients potentiels avec lesquels il n’existe aucune relation de clientèle ou qui ne sont plus clients depuis plus de 36 mois, qui ont fait usage de l’opting-out ou pour lesquels le contact ne découle pas d’une recommandation d’un tiers connu du client potentiel.»
+
+### 2. Rémunération de l’activité d’intermédiaire d’assurance (art. 19*b*, al. 1, let. e, LSAMal)
+
+Ch. 5.4:
+
+- «5.4 *Indemnisation*
+  - 5\.4.1 L’indemnisation au sens de l’accord de branche est définie comme l’ensemble des prestations pécuniaires liées aux conclusions, qui sont versées aux intermédiaires effectuant une activité d’intermédiation en assurance.
+  - 5\.4.2
+
+    Sont notamment considérés comme étant des prestations pécuniaires liées aux conclusions:
+
+    - 5\.4.2.1 les commissions nettes (y compris les annulations de commissions);
+    - 5\.4.2.2 les courtages, commissions, rabais ou autres avantages financiers liés à la conclusion du contrat, même lorsqu’ils sont versés de manière différée et/ou payés périodiquement;
+    - 5\.4.2.3 les coûts des prospects achetés (adresses de contact, rendez-vous) à l’exception des prospects générés par les entreprises d’assurance elles-mêmes (y compris leurs filiales) pour leur propre usage commercial (intermédiaires liés);
+    - 5\.4.2.4 les coûts salariaux fixes (part représentative de la conclusion du contrat, incluant les cotisations sociales et les impôts);
+    - 5\.4.2.5 les coûts liés au résultat des conclusions, tels que les gratifications ainsi que toute forme d’indemnisations convenues dans les accords additionnels.
+
+  - 5\.4.3 Les indemnisations variables sont des prestations pécuniaires liées aux conclusions au sens du chiffre 5.4.2, hors coûts salariaux fixes.
+  - 5\.4.4 Les prestations pécuniaires liées aux conclusions pour les intermédiaires dans le cadre de leur suivi (p. ex. invitations à des événements, repas de midi et cadeaux de Noël dans les proportions habituelles) sont autorisées conformément au règlement de compliance propre à chaque assureur et doivent faire l’objet d’un règlement interne. Ces prestations ne font pas partie de l’indemnisation.»
+
+Ch. 8.2, 1<sup>er</sup> par.:
+
+- «8.2 *Compte-rendu de l’entretien-conseil*
+- Les assureurs s’engagent à n’indemniser les propositions d’assurance transmises par les intermédiaires que si elles s’accompagnent d’un compte-rendu de l’entretien-conseil, lequel doit correspondre aux normes minimales prédéfinies.»
+
+Ch. 9.1.1:
+
+- «LAMal
+- Une limite supérieure de 70,00 CHF par personne assurée est appliquée pour l’indemnisation variable maximale de produits selon la loi sur l’assurance obligatoire des soins (LAMal).»
+
+Ch. 9.2:
+
+- «9.2 *Remboursement* *de l’indemnisation (annulation)*
+-
+
+  S’agissant du remboursement de l’indemnisation pour tous les produits, les conditions suivantes s’appliquent indépendamment de la date de début de l’assurance (au 1<sup>er</sup> janvier ou en cours d’année):
+
+  - a) si le contrat a duré entre 0 et 365 jours, l’intermédiaire doit rembourser l’intégralité de l’indemnisation;
+  - b) si le contrat a duré entre 366 et 730 jours, l’intermédiaire doit rembourser au moins 50 % de l’indemnisation perçue;
+  - c) à partir du 731<sup>e</sup> jour, chaque assureur peut fixer lui-même le niveau du remboursement.
+
+- Les années bissextiles doivent être prises en compte en conséquence. En cas de décès d’une personne assurée pendant les délais donnant lieu à remboursement, l’assureur peut renoncer à tout ou partie de ce dernier.»
+
+### 3. Établissement et signature d’un procès-verbal pour les entretiens de conseil (art. 19*b*, al. 1, let. f, LSAMal)
+
+Ch. 8.2, 2<sup>e</sup> par., points 1 à 3 et 5:
+
+-
+
+  «Le compte-rendu de l’entretien-conseil mentionne a minima:
+
+  - – la date de l**’**entretien-conseil;
+  - – les noms du ou des clients et du ou des conseillers;
+  - – la confirmation que la date du rendez-vous de conseil, qui a débouché sur la proposition, n**’**a pas été fixée lors d**’**une prospection téléphonique à froid;
+  - […]
+  - – l’accord du client ainsi que celui du conseiller ou de l**’**opérateur numérique responsable, soit par une signature originale, soit par une confirmation sous forme numérique.»
+
+Annexe 3[^t-3]
+
 (art. 72)
 
 ## Modification d’autres actes
 
-[^t-2]: Anciennement annexe.
+[^t-3]: Anciennement annexe, puis annexe 2.
 
 Les ordonnances mentionnées ci-après sont modifiées comme suit:
 
-...[^annex2-lvlu1-1]
+…[^annex3-lvlu1-1]
 
-[^annex2-lvlu1-1]: Les mod. peuvent être consultées au [RO 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840).
+[^annex3-lvlu1-1]: Les mod. peuvent être consultées au [RO 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840).

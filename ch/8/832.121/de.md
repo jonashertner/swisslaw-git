@@ -4,11 +4,11 @@ title: "Verordnung vom 18. November 2015 betreffend die Aufsicht über die sozia
 short: KVAV
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/840"
 language: de
-version: 2024-07-01
+version: 2024-09-01
 adopted: 2015-11-18
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/840/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2015-840-20240701-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/840/20240901/de/xml/fedlex-data-admin-ch-eli-cc-2015-840-20240901-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20240901/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,15 +17,16 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/840/20240701/de"
 
 (Krankenversicherungsaufsichtsverordnung, KVAV)
 
-vom 18. November 2015 (Stand am 1. Juli 2024)
+vom 18. November 2015 (Stand am 1. September 2024)
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 2 Absatz 2, 14 Absatz 2, 17 Absatz 4, 20 Absätze 2 und 4, 22 Absatz 2, 24 Absatz 4, 32 und 57 des Krankenversicherungsaufsichtsgesetzes vom 26. September 2014[^ingress-1] (KVAG),
+gestützt auf die Artikel 2 Absatz 2, 14 Absatz 2, 17 Absatz 4, 19*b* Absätze 2 und 3, 20 Absätze 2 und 4, 22 Absatz 2, 24 Absatz 4, 32 und 57 des Krankenversicherungsaufsichtsgesetzes vom 26. September 2014[^ingress-1] (KVAG),[^ingress-2]
 
 verordnet:
 
 [^ingress-1]: [SR 832.12](https://fedlex.data.admin.ch/eli/cc/2015/839)
+[^ingress-2]: Fassung gemäss Ziff. I 1 der V vom 14. Aug. 2024 über die Regulierung der Versicherungsvermittlertätigkeit, in Kraft seit 1. Sept. 2024 ([AS 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
 
 ## 1. Kapitel: Begriffe
 
@@ -472,13 +473,45 @@ Die Verwaltungskosten der Krankenversicherung werden entsprechend dem tatsächli
 
 #### Art. 35
 
-**Vermittlertätigkeit und Werbekosten**
+**Werbekosten[^35-1]**
 
-<sup>1</sup> Eine Vermittlertätigkeit im Sinne von Artikel 19 KVAG ist jede Tätigkeit, bei der dem Versicherer Kompetenzen oder Dienste gegen Entgelt zur Verfügung gestellt werden, mit dem Ziel, den Beitritt von Versicherten zu erleichtern oder zu ermöglichen.
+<sup>1</sup> …[^35-2]
 
 <sup>2</sup> Als Werbekosten gelten namentlich alle Aufwendungen für die Akquisition von Versicherten, unabhängig vom gewählten Werbekanal und Werbemittel.
 
-<sup>3</sup> Schliessen die Versicherer eine Vereinbarung nach Artikel 19 Absatz 3 KVAG ab, so stellen sie diese der Aufsichtsbehörde zu.
+<sup>3</sup> …[^35-3]
+
+[^35-1]: Fassung gemäss Ziff. I 1 der V vom 14. Aug. 2024 über die Regulierung der Versicherungsvermittlertätigkeit, in Kraft seit 1. Sept. 2024 ([AS 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
+[^35-2]: Aufgehoben durch Ziff. I 1 der V vom 14. Aug. 2024 über die Regulierung der Versicherungsvermittlertätigkeit, mit Wirkung seit 1. Sept. 2024 ([AS 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
+[^35-3]: Aufgehoben durch Ziff. I 1 der V vom 14. Aug. 2024 über die Regulierung der Versicherungsvermittlertätigkeit, mit Wirkung seit 1. Sept. 2024 ([AS 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
+
+## 3*a*. Kapitel: Versicherungsvermittlertätigkeit
+
+[^chap3a-1]
+
+[^chap3a-1]: Eingefügt durch Ziff. I 1 der V vom 14. Aug. 2024 über die Regulierung der Versicherungsvermittlertätigkeit, in Kraft seit 1. Sept. 2024 ([AS 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
+
+#### Art. 35a
+
+**Vereinbarung zwischen Versicherern**
+
+<sup>1</sup> Schliessen Versicherer eine Vereinbarung nach Artikel 19*b* Absatz 1 KVAG ab, so stellen sie diese der Aufsichtsbehörde zu und veröffentlichen sie.
+
+<sup>2</sup> Sie melden der Aufsichtsbehörde jede Änderung der Vereinbarung neun Monate vor dem Inkrafttreten der Änderung. Eine Kündigung der Vereinbarung melden sie ihr umgehend.
+
+#### Art. 35b
+
+**Allgemeinverbindlichkeit von Regelungen der Vereinbarung zwischen Versicherern**
+
+Die im Anhang 2 aufgeführten Regelungen der Branchenvereinbarung zwischen Santésuisse und Curafutura vom 22. März 2024[^35b-1] betreffend die Qualität der Beratung und die Entschädigung an die Vermittler in der Kundenwerbung sind für sämtliche Versicherer allgemeinverbindlich.
+
+[^35b-1]: Die Vereinbarung kann kostenlos eingesehen werden unter www.santesuisse.ch/fuer-versicherte/dienstleistungen/meldeformular-telefonwerbung und curafutura.ch/themen/krankenversicherung/vermittler/.
+
+#### Art. 35c
+
+**Verstösse gegen allgemeinverbindliche Regelungen**
+
+Nach Artikel 54 Absatz 3 Buchstabe h oder 4 KVAG wird bestraft, wer gegen Regelungen nach Artikel 35*b* verstösst.
 
 ## 4. Kapitel: Unternehmensführung und Revision
 
@@ -998,6 +1031,15 @@ Vor dem Zeitpunkt nach Absatz 4 müssen Versicherer, deren Reserven die Mindesth
 [^73-1]: [SR 832.102](https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867)
 [^73-2]: [AS 2006 1717](https://fedlex.data.admin.ch/eli/oc/2006/269)
 
+#### Art. 73a
+
+**Übergangsbestimmung zur Änderung vom 14. August 2024**[^73a-1]
+
+Für Beitrittsformulare, die bis zum 31. Dezember 2024 beim Versicherer eintreffen, darf die Tätigkeit der Versicherungsvermittlerinnen und -vermittler, die über einen Einzelarbeitsvertrag nach Artikel 319 OR[^73a-2] an den Versicherer gebunden sind, bis zum 31. Januar 2025 nach bisherigem Recht entschädigt werden.
+
+[^73a-1]: Eingefügt durch Ziff. I 1 der V vom 14. Aug. 2024 über die Regulierung der Versicherungsvermittlertätigkeit, in Kraft seit 1. Sept. 2024 ([AS 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
+[^73a-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+
 #### Art. 74
 
 **Inkrafttreten**
@@ -1013,18 +1055,92 @@ Anhang 1[^t-1]
 [^annex1-lvlu1-1]
 
 [^t-1]: Eingefügt durch Ziff. II der V vom 14. April 2021, in Kraft seit 1. Juni 2021 ([AS 2021 254](https://fedlex.data.admin.ch/eli/oc/2021/254)).
-[^annex1-lvlu1-1]: Die Berechnungsformel für die Standardabweichung wird nach Art. 5 Abs. 1 Bst. c des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) in der AS nicht veröffentlicht. Sie kann unter [www.bag.admin.ch](https://www.bag.admin.ch) &gt; Versicherungen &gt; Krankenversicherung eingesehen werden.
+[^annex1-lvlu1-1]: Die Berechnungsformel für die Standardabweichung wird nach Art. 5 Abs. 1 Bst. c des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) in der AS nicht veröffentlicht. Sie kann unter: [www.bag.admin.ch](https://www.bag.admin.ch) &gt; Versicherungen &gt; Krankenversicherung eingesehen werden.
 
 Anhang 2[^t-2]
+
+(Art. 35*b*)
+
+## Allgemeinverbindliche Regelungen der Branchenvereinbarung
+
+[^t-2]: Eingefügt durch Ziff. I 1 der V vom 14. Aug. 2024 über die Regulierung der Versicherungsvermittlertätigkeit, in Kraft seit 1. Sept. 2024 ([AS 2024 425](https://fedlex.data.admin.ch/eli/oc/2024/425)).
+
+Folgende Bestimmungen der Vereinbarung zwischen Santésuisse und Curafutura vom 22. März 2024[^annex2-lvlu1-1] betreffend die Qualität der Beratung und die Entschädigung an die Vermittler in der Kundenwerbung sind allgemeinverbindlich:
+
+### 1. Verbot der Telefonwerbung bei Personen, die nie bei einem Versicherer versichert waren oder seit längerer Zeit nicht mehr versichert sind (Art. 19*b* Abs. 1 Bst. c KVAG)
+
+[^annex2-lvlu1-1]: Die Vereinbarung kann kostenlos eingesehen werden unter www.santesuisse.ch/fuer-versicherte/dienstleistungen/meldeformular-telefonwerbung und curafutura.ch/themen/krankenversicherung/vermittler/.
+
+Ziff. 6 Punkt 4:
+
+- [Die Versicherer verpflichten sich,] «auf telefonische Kaltakquise durch eigene Mitarbeitende oder externe Partner zu verzichten. Dabei werden unter Kaltakquise Erstansprachen potentieller Kunden verstanden, zu denen keine Geschäftsbeziehung besteht bzw. die länger als 36 Monate keine Kunden mehr sind, die vom Opting-out Gebrauch gemacht haben oder bei denen der Kontakt nicht auf eine Empfehlung einer dem potentiellen Kunden bekannten Drittperson entstanden ist.»
+
+### 2. Entschädigung der Tätigkeit der Versicherungsvermittlerinnen und ‑vermittler (Art. 19*b* Abs. 1 Bst. e KVAG)
+
+Ziff. 5.4:
+
+- «5.4 *Entschädigung*
+  - 5\.4.1 Die Entschädigung im Sinne der Branchenvereinbarung ist definiert als alle abschlussbezogenen geldwerten Leistungen an Vermittler für Versicherungsvermittlung.
+  - 5\.4.2
+
+    Als abschlussbezogene geldwerte Leistungen gelten insbesondere:
+
+    - 5\.4.2.1 Nettoprovisionen (inkl. Provisionsstorni);
+    - 5\.4.2.2 Courtagen, Kommissionen, Rabatte oder sonstige vermögenswerte Vorteile, die sich auf den Abschluss beziehen, auch wenn sie zeitlich verzögert ausbezahlt werden und/oder periodisch entrichtet werden;
+    - 5\.4.2.3 Kosten für eingekaufte Leads (Kontaktadressen, Termine); ausgenommen davon sind von Versicherungsunternehmen (inkl. deren Tochtergesellschaften) selbst generierte Leads zur Verwendung im eigenen Vertrieb (gebundene Versicherungsvermittler);
+    - 5\.4.2.4 Fixlohnkosten (abschlussrelevanter Anteil inkl. Sozialversicherungsbeiträge und Steuern);
+    - 5\.4.2.5 Abschlusserfolgsabhängige Kosten wie Boni sowie jegliche Form von Entschädigungen aus Zusatzvereinbarungen.
+
+  - 5\.4.3 Variable Entschädigungen sind abschlussbezogene geldwerte Leistungen gemäss Ziff. 5.4.2 ohne Fixlohnkosten (5.4.2.4).
+  - 5\.4.4 Abschlussbezogene geldwerte Leistungen an Vermittler im Zusammenhang mit deren Betreuung (z. B. Einladung zu Events, Mittagessen und Weihnachtsgeschenke in sozial üblichem Rahmen) sind im Rahmen der Compliance-Regelung eines jeden Versicherers erlaubt und intern zu regeln. Diese sind nicht Bestandteil der Entschädigung.»
+
+Ziff. 8.2 erster Absatz:
+
+- «8.2 *Beratungsprotokolle*
+- Die Versicherer verpflichten sich, von den Vermittlern eingereichte Versicherungsanträge nur dann zu entschädigen, wenn diese von einem Beratungsprotokoll begleitet sind, welches den definierten Mindeststandards entspricht.»
+
+Ziff. 9.1.1:
+
+- «KVG
+- Für die maximale variable Entschädigung von Produkten im obligatorischen Krankenpflegeversicherungsbereich (KVG) gilt die Obergrenze von CHF 70.00 pro versicherte Person.»
+
+Ziff. 9.2:
+
+- «9.2 *Rückforderung* *der Entschädigung (Storno)*
+-
+
+  Für die Rückforderung der Entschädigung betreffend sämtliche Produkte gelten *folgende* Bedingungen unabhängig vom Start der Versicherung (per 1.1. oder unterjährig):
+
+  - a) Bei einer Vertragsdauer zwischen null bis und mit 365 Tagen muss die Entschädigung vom Vermittler zu 100 % zurückerstattet werden.
+  - b) Bei einer Vertragsdauer zwischen 366 und 730 Tagen bezahlt der Vermittler mindestens 50 % der erhaltenen Entschädigung zurück.
+  - c) Ab dem 731. Tag entscheidet jeder Versicherer über die Höhe individuell.
+
+- Schaltjahre sind entsprechend zu berücksichtigen. Bei Todesfall einer versicherten Person innerhalb der Fristen mit Rückerstattung kann der Versicherer auf die Rückforderung ganz oder teilweise verzichten.»
+
+### 3. Erstellung und Unterzeichnung von Beratungsprotokollen (Art. 19*b* Abs. 1 Bst. f KVAG)
+
+Ziff. 8.2 zweiter Absatz Punkte 1–3 und 5:
+
+-
+
+  «Das Beratungsprotokoll umfasst mindestens:
+
+  - – Datum der Beratung;
+  - – Namen des oder der Kunden und Beratungsperson(en);
+  - – Bestätigung, dass der Beratungstermin, der zum Antrag geführt hat, nicht aufgrund einer telefonischen Kaltakquise zustande gekommen ist;
+  - – […]
+  - – Zustimmung des Kunden oder der Kundin sowie der Beratungsperson/en bzw. des verantwortlichen digitalen Betreibers entweder mittels Originalunterschrift oder durch Bestätigung in digitaler Form.»
+
+Anhang 3[^t-3]
 
 (Art. 72)
 
 ## Änderung anderer Erlasse
 
-[^t-2]: Ursprünglich: Anhang.
+[^t-3]: Ursprünglich: Anhang, dann Anhang 2.
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-…[^annex2-lvlu1-1]
+…[^annex3-lvlu1-1]
 
-[^annex2-lvlu1-1]: Die Änderungen können unter [AS 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)konsultiert werden.
+[^annex3-lvlu1-1]: Die Änderungen können unter [AS 2015 5165](https://fedlex.data.admin.ch/eli/oc/2015/840)konsultiert werden.
