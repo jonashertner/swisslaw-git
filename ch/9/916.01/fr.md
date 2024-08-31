@@ -4,11 +4,11 @@ title: "Ordonnance du 26 octobre 2011 sur l'importation de produits agricoles (O
 short: OIAgr
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/770"
 language: fr
-version: 2024-08-01
+version: 2024-09-01
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20240801/fr/xml/fedlex-data-admin-ch-eli-cc-2011-770-20240801-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20240801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20240901/fr/xml/fedlex-data-admin-ch-eli-cc-2011-770-20240901-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20240901/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20240801/fr"
 
 (Ordonnance sur les importations agricoles, OIAgr)
 
-du 26 octobre 2011 (État le 1<sup>er</sup> août 2024)
+du 26 octobre 2011 (État le 1<sup>er</sup> septembre 2024)
 
 Le Conseil fédéral suisse,
 
@@ -2391,10 +2391,8 @@ Les importations des voyageurs sont réglées à l’art. 47.
 
 Dispositions spécifiques: la répartition des contingents tarifaires est réglée aux art. 28 à 33 et la détermination des droits de douane pour les numéros tarifaires concernés aux art. 4 et 6. Les numéros tarifaires du chap. 12 du tarif douanier ne sont soumis à aucune disposition spécifique.
 
-**[1]** **Seuls les droits de douanes qui dérogent au tarif général sont indiqués.** **Le tarif d’usage publié sur www.tares.ch contient d’autres droits de douane applicables.**
-
-[15-1] Le droit de douane est fixé selon l’art. 6.
-
+- **[1]** **Seuls les droits de douanes qui dérogent au tarif général sont indiqués.** **Le tarif d’usage publié sur www.tares.ch contient d’autres droits de douane applicables.**
+- [15-1] Le droit de douane est fixé selon l’art. 6.
 - [15-2] Ce numéro tarifaire est soumis au régime du PGI à partir de 20 kg brut, conformément aux dispositions de la LAP.
 
 <table>
@@ -2754,7 +2752,7 @@ Annexe 2[^t-2]
 
 ## Droits de douane applicables aux marchés des semences des céréales, des aliments pour animaux, des oléagineux, des marchandises dont les sous-produits de transformation servent à l’alimentation des animaux et des céréales secondaires pour l’alimentation humaine
 
-[^t-2]: Nouvelle teneur selon le ch. I de l’O de l’OFAG du 22 juil. 2024, en vigueur depuis le 1<sup>er</sup> août 2024 ([RO 2024 393](https://fedlex.data.admin.ch/eli/oc/2024/393)).
+[^t-2]: Nouvelle teneur selon le ch. I de l’O de l’OFAG du 20 août 2024, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 449](https://fedlex.data.admin.ch/eli/oc/2024/449)).
 
 <table>
 <tr><th>Numéro tarifaire</th><th>Droit de douane par 100 kg brut **(**CHF)</th><th></th><th>Numéro tarifaire</th><th>Droit de douane par 100 kg brut **(**CHF)</th><th></th><th>Numéro tarifaire</th><th>Droit de douane par 100 kg brut **(**CHF)</th><th></th><th>Numéro tarifaire</th><th>Droit de douane par 100 kg brut **(**CHF)</th><th></th></tr>
@@ -2778,8 +2776,8 @@ Annexe 2[^t-2]
 <tr><td>0901.9011</td><td>0.00</td><td></td><td>1001.1100</td><td>11.90</td><td></td><td>1001.1931</td><td>14.00</td><td></td><td>1001.1939</td><td>13.00</td><td></td></tr>
 <tr><td>1001.1940</td><td>1.30</td><td></td><td>1001.9100</td><td>40.00</td><td></td><td>1001.9931</td><td>14.00</td><td></td><td>1001.9939</td><td>13.00</td><td></td></tr>
 <tr><td>1001.9940</td><td>1.30</td><td></td><td>1002.1000</td><td>55.00</td><td></td><td>1002.9031</td><td>14.00</td><td></td><td>1002.9039</td><td>12.00</td><td></td></tr>
-<tr><td>1002.9040</td><td>1.20</td><td></td><td>1003.1000</td><td>51.50</td><td></td><td>1003.9020</td><td>6.50</td><td></td><td>1003.9030</td><td>0.40</td><td></td></tr>
-<tr><td>1003.9041</td><td>3.00</td><td></td><td>1003.9051</td><td>14.00</td><td></td><td>1003.9059</td><td>13.00</td><td></td><td>1003.9060</td><td>1.95</td><td></td></tr>
+<tr><td>1002.9040</td><td>1.20</td><td></td><td>1003.1000</td><td>51.50</td><td></td><td>1003.9020</td><td>6.00</td><td>\*</td><td>1003.9030</td><td>0.35</td><td>\*</td></tr>
+<tr><td>1003.9041</td><td>2.75</td><td>\*</td><td>1003.9051</td><td>14.00</td><td></td><td>1003.9059</td><td>12.00</td><td>\*</td><td>1003.9060</td><td>1.80</td><td>\*</td></tr>
 <tr><td>1004.1000</td><td>42.00</td><td></td><td>1004.9021</td><td>0.00</td><td></td><td>1004.9031</td><td>14.00</td><td></td><td>1004.9039</td><td>0.00</td><td></td></tr>
 <tr><td>1004.9040</td><td>0.00</td><td></td><td>1005.1000</td><td>43.00</td><td></td><td>1005.9021</td><td>2.50</td><td></td><td>1005.9031</td><td>14.00</td><td></td></tr>
 <tr><td>1005.9039</td><td>10.00</td><td></td><td>1005.9040</td><td>1.00</td><td></td><td>1006.1021</td><td>14.00</td><td></td><td>1006.1029</td><td>0.00</td><td></td></tr>
@@ -2796,10 +2794,10 @@ Annexe 2[^t-2]
 <tr><td>1103.1112</td><td>23.00</td><td></td><td>1103.1192</td><td>21.00</td><td></td><td>1103.1320</td><td>17.00</td><td></td><td>1103.1390</td><td>25.00</td><td></td></tr>
 <tr><td>1103.1912</td><td>21.00</td><td></td><td>1103.1922</td><td>14.00</td><td></td><td>1103.1929</td><td>20.00</td><td></td><td>1103.1932</td><td>3.00</td><td></td></tr>
 <tr><td>1103.1993</td><td>21.00</td><td></td><td>1103.2012</td><td>20.00</td><td></td><td>1103.2022</td><td>18.00</td><td></td><td>1103.2092</td><td>20.00</td><td></td></tr>
-<tr><td>1104.1220</td><td>15.00</td><td></td><td>1104.1290</td><td>20.00</td><td></td><td>1104.1912</td><td>21.00</td><td></td><td>1104.1922</td><td>22.00</td><td></td></tr>
-<tr><td>1104.1929</td><td>24.30</td><td></td><td>1104.1993</td><td>21.00</td><td></td><td>1104.2220</td><td>20.00</td><td></td><td>1104.2230</td><td>14.00</td><td></td></tr>
+<tr><td>1104.1220</td><td>15.00</td><td></td><td>1104.1290</td><td>20.00</td><td></td><td>1104.1912</td><td>21.00</td><td></td><td>1104.1922</td><td>21.00</td><td>\*</td></tr>
+<tr><td>1104.1929</td><td>23.95</td><td>\*</td><td>1104.1993</td><td>21.00</td><td></td><td>1104.2220</td><td>20.00</td><td></td><td>1104.2230</td><td>14.00</td><td></td></tr>
 <tr><td>1104.2320</td><td>0.00</td><td></td><td>1104.2390</td><td>26.95</td><td></td><td>1104.2912</td><td>21.00</td><td></td><td>1104.2923</td><td>1.00</td><td></td></tr>
-<tr><td>1104.2932</td><td>24.30</td><td></td><td>1104.2933</td><td>21.00</td><td></td><td>1104.2993</td><td>19.00</td><td></td><td>1104.3070</td><td>0.00</td><td></td></tr>
+<tr><td>1104.2932</td><td>23.95</td><td>\*</td><td>1104.2933</td><td>20.00</td><td>\*</td><td>1104.2993</td><td>19.00</td><td></td><td>1104.3070</td><td>0.00</td><td></td></tr>
 <tr><td>1104.3081</td><td>0.00</td><td></td><td>1104.3093</td><td>5.00</td><td></td><td>1105.1021</td><td>0.00</td><td></td><td>1105.2021</td><td>0.00</td><td></td></tr>
 <tr><td>1106.1010</td><td>5.00</td><td></td><td>1106.2010</td><td>0.00</td><td></td><td>1106.3010</td><td>12.00</td><td></td><td>1107.1013</td><td>0.00</td><td></td></tr>
 <tr><td>1107.1094</td><td>0.00</td><td></td><td>1107.2013</td><td>0.00</td><td></td><td>1107.2094</td><td>0.00</td><td></td><td>1108.1120</td><td>0.00</td><td></td></tr>
@@ -2812,11 +2810,11 @@ Annexe 2[^t-2]
 <tr><td>1202.4227</td><td>0.10</td><td></td><td>1203.0010</td><td>0.00</td><td></td><td>1203.0021</td><td>0.10</td><td></td><td>1203.0023</td><td>78.70</td><td></td></tr>
 <tr><td>1203.0024</td><td>73.30</td><td></td><td>1203.0026</td><td>0.10</td><td></td><td>1203.0027</td><td>0.10</td><td></td><td>1204.0010</td><td>0.00</td><td></td></tr>
 <tr><td>1204.0021</td><td>0.10</td><td></td><td>1204.0023</td><td>47.55</td><td></td><td>1204.0024</td><td>40.75</td><td></td><td>1204.0026</td><td>0.10</td><td></td></tr>
-<tr><td>1204.0027</td><td>0.10</td><td></td><td>1205.1010</td><td>3.00</td><td>\*</td><td>1205.1021</td><td>0.10</td><td></td><td>1205.1023</td><td>50.25</td><td></td></tr>
-<tr><td>1205.1024</td><td>43.45</td><td></td><td>1205.1026</td><td>0.10</td><td></td><td>1205.1027</td><td>0.10</td><td></td><td>1205.1040</td><td>3.00</td><td>\*</td></tr>
+<tr><td>1204.0027</td><td>0.10</td><td></td><td>1205.1010</td><td>3.00</td><td></td><td>1205.1021</td><td>0.10</td><td></td><td>1205.1023</td><td>50.25</td><td></td></tr>
+<tr><td>1205.1024</td><td>43.45</td><td></td><td>1205.1026</td><td>0.10</td><td></td><td>1205.1027</td><td>0.10</td><td></td><td>1205.1040</td><td>3.00</td><td></td></tr>
 <tr><td>1205.1051</td><td>0.10</td><td></td><td>1205.1053</td><td>57.05</td><td></td><td>1205.1054</td><td>50.25</td><td></td><td>1205.1056</td><td>0.10</td><td></td></tr>
-<tr><td>1205.1057</td><td>0.10</td><td></td><td>1205.9010</td><td>3.00</td><td>\*</td><td>1205.9021</td><td>0.10</td><td></td><td>1205.9023</td><td>50.25</td><td></td></tr>
-<tr><td>1205.9024</td><td>43.45</td><td></td><td>1205.9026</td><td>0.10</td><td></td><td>1205.9027</td><td>0.10</td><td></td><td>1205.9040</td><td>3.00</td><td>\*</td></tr>
+<tr><td>1205.1057</td><td>0.10</td><td></td><td>1205.9010</td><td>3.00</td><td></td><td>1205.9021</td><td>0.10</td><td></td><td>1205.9023</td><td>50.25</td><td></td></tr>
+<tr><td>1205.9024</td><td>43.45</td><td></td><td>1205.9026</td><td>0.10</td><td></td><td>1205.9027</td><td>0.10</td><td></td><td>1205.9040</td><td>3.00</td><td></td></tr>
 <tr><td>1205.9051</td><td>0.10</td><td></td><td>1205.9053</td><td>57.05</td><td></td><td>1205.9054</td><td>50.25</td><td></td><td>1205.9056</td><td>0.10</td><td></td></tr>
 <tr><td>1205.9057</td><td>0.10</td><td></td><td>1206.0010</td><td>0.00</td><td></td><td>1206.0021</td><td>0.10</td><td></td><td>1206.0023</td><td>55.40</td><td></td></tr>
 <tr><td>1206.0024</td><td>47.10</td><td></td><td>1206.0026</td><td>0.10</td><td></td><td>1206.0027</td><td>0.10</td><td></td><td>1206.0040</td><td>2.00</td><td></td></tr>
@@ -2836,7 +2834,7 @@ Annexe 2[^t-2]
 <tr><td>1207.9117</td><td>0.10</td><td></td><td>1207.9921</td><td>0.00</td><td></td><td>1207.9922</td><td>0.10</td><td></td><td>1207.9923</td><td>47.55</td><td></td></tr>
 <tr><td>1207.9924</td><td>40.75</td><td></td><td>1207.9925</td><td>0.10</td><td></td><td>1207.9926</td><td>0.10</td><td></td><td>1207.9981</td><td>0.00</td><td></td></tr>
 <tr><td>1207.9983</td><td>0.10</td><td></td><td>1207.9984</td><td>68.25</td><td></td><td>1207.9985</td><td>61.45</td><td></td><td>1207.9986</td><td>0.10</td><td></td></tr>
-<tr><td>1207.9987</td><td>0.10</td><td></td><td>1208.1010</td><td>0.00</td><td></td><td>1208.9010</td><td>0.00</td><td></td><td>1209.1010</td><td>0.00</td><td></td></tr>
+<tr><td>1207.9987</td><td>0.10</td><td></td><td>1208.1010</td><td>1.00</td><td>\*</td><td>1208.9010</td><td>1.00</td><td>\*</td><td>1209.1010</td><td>0.00</td><td></td></tr>
 <tr><td>1209.2911</td><td>0.00</td><td></td><td>1209.2912</td><td>0.00</td><td></td><td>1209.9911</td><td>0.00</td><td></td><td>1209.9912</td><td>0.00</td><td></td></tr>
 <tr><td>1209.9991</td><td>0.00</td><td></td><td>1212.2910</td><td>0.00</td><td></td><td>1212.9110</td><td>0.00</td><td></td><td>1212.9291</td><td>0.00</td><td></td></tr>
 <tr><td>1212.9310</td><td>0.00</td><td></td><td>1212.9410</td><td>0.00</td><td></td><td>1212.9920</td><td>0.00</td><td></td><td>1213.0091</td><td>0.00</td><td></td></tr>
@@ -2864,13 +2862,13 @@ Annexe 2[^t-2]
 <tr><td>2102.2011</td><td>0.00</td><td></td><td>2102.2021</td><td>0.00</td><td></td><td>2103.3011</td><td>0.00</td><td></td><td>2301.1011</td><td>0.00</td><td></td></tr>
 <tr><td>2301.1019</td><td>0.00</td><td></td><td>2301.2010</td><td>0.00</td><td></td><td>2302.1010</td><td>21.00</td><td></td><td>2302.3020</td><td>10.00</td><td></td></tr>
 <tr><td>2302.4030</td><td>11.00</td><td></td><td>2302.4091</td><td>11.00</td><td></td><td>2302.5010</td><td>0.00</td><td></td><td>2303.1011</td><td>0.00</td><td></td></tr>
-<tr><td>2303.1012</td><td>0.00</td><td></td><td>2303.1018</td><td>0.00</td><td></td><td>2303.2010</td><td>0.00</td><td></td><td>2303.3010</td><td>0.00</td><td></td></tr>
+<tr><td>2303.1012</td><td>0.00</td><td></td><td>2303.1018</td><td>0.00</td><td></td><td>2303.2010</td><td>2.00</td><td>\*</td><td>2303.3010</td><td>0.00</td><td></td></tr>
 <tr><td>2304.0010</td><td>0.00</td><td></td><td>2305.0010</td><td>0.00</td><td></td><td>2306.1010</td><td>0.00</td><td></td><td>2306.2010</td><td>0.00</td><td></td></tr>
 <tr><td>2306.3010</td><td>0.00</td><td></td><td>2306.4110</td><td>0.00</td><td></td><td>2306.4910</td><td>0.00</td><td></td><td>2306.5010</td><td>0.00</td><td></td></tr>
 <tr><td>2306.6010</td><td>0.00</td><td></td><td>2306.9011</td><td>0.00</td><td></td><td>2306.9021</td><td>0.00</td><td></td><td>2308.0020</td><td>0.00</td><td></td></tr>
 <tr><td>2308.0030</td><td>0.00</td><td></td><td>2308.0040</td><td>0.00</td><td></td><td>2308.0050</td><td>0.00</td><td></td><td>2308.0060</td><td>0.00</td><td></td></tr>
-<tr><td>2309.9011</td><td>7.75</td><td></td><td>2309.9041</td><td>0.00</td><td></td><td>2309.9081</td><td>162.35</td><td></td><td>2309.9082</td><td>7.75</td><td></td></tr>
-<tr><td>2309.9089</td><td>7.75</td><td></td><td>3505.1010</td><td>0.00</td><td></td><td>3505.2010</td><td>0.00</td><td></td><td>3809.1010</td><td>0.00</td><td></td></tr>
+<tr><td>2309.9011</td><td>7.60</td><td>\*</td><td>2309.9041</td><td>0.00</td><td></td><td>2309.9081</td><td>162.35</td><td></td><td>2309.9082</td><td>7.60</td><td>\*</td></tr>
+<tr><td>2309.9089</td><td>7.60</td><td>\*</td><td>3505.1010</td><td>0.00</td><td></td><td>3505.2010</td><td>0.00</td><td></td><td>3809.1010</td><td>0.00</td><td></td></tr>
 <tr><td>3823.1110</td><td>0.00</td><td></td><td>3823.1210</td><td>0.00</td><td></td><td>3823.1910</td><td>0.00</td><td></td><td></td><td></td><td></td></tr>
 <tr><td colspan="12">**[1]** Les droits de douane peuvent s’écarter du tarif général. Les droits de douane modifiés sont signalés par un astérisque («\*»).</td></tr>
 </table>
@@ -2881,7 +2879,7 @@ Annexe 3[^t-3]
 
 ## Contingents tarifaires et contingents tarifaires partiels
 
-[^t-3]: Mise à jour par le ch. II de l’O du 18 oct. 2017 ([RO 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), le ch. I de l’O du 18 oct. 2017 ([RO 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), le ch. II de l’O du 31 oct. 2018 ([RO 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), l’annexe 2 ch. 2 de l’O du 26 août 2020 ([RO 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), le ch. II al. 1 de l’O du 11 nov. 2020 ([RO 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), l’annexe 3 ch. 14 de l’O du 30 juin 2021 modifiant le tarif des douanes ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), le ch. I de l’O du 17 sept. 2021 ([RO 2021 571](https://fedlex.data.admin.ch/eli/oc/2021/571)), erratum du 18 oct. 2021 ([RO 2021 617](https://fedlex.data.admin.ch/eli/oc/2021/617)), le ch. I de l’O de l’OFAG du 3 fév. 2022 ([RO 2022 70](https://fedlex.data.admin.ch/eli/oc/2022/70)), le ch. I al. 1 de l’O du 30 mars 2022 ([RO 2022 215](https://fedlex.data.admin.ch/eli/oc/2022/215)), le ch. I de l’O de l’OFAG du 14 juin 2022 ([RO 2022 365](https://fedlex.data.admin.ch/eli/oc/2022/365)), le ch. I al. 1 de l’O du 10 juin 2022 ([RO 2022 372](https://fedlex.data.admin.ch/eli/oc/2022/372)), le ch. I des O de l’OFAG du 9 août 2022 ([RO 2022 447](https://fedlex.data.admin.ch/eli/oc/2022/447)), du 26 sept. 2022 ([RO 2022 557](https://fedlex.data.admin.ch/eli/oc/2022/557)), le ch. II de l’O de l’OFAG du 23 sept. 2022 ([RO 2022 558](https://fedlex.data.admin.ch/eli/oc/2022/558)), le ch. I des O de l’OFAG du 5 déc. 2022 ([RO 2022 851](https://fedlex.data.admin.ch/eli/oc/2022/851)), du 9 janv. 2023 ([RO 2023 14](https://fedlex.data.admin.ch/eli/oc/2023/14)), du 9 fév. 2023 ([RO 2023 80](https://fedlex.data.admin.ch/eli/oc/2023/80)), du 11 avr. 2023 ([RO 2023 187](https://fedlex.data.admin.ch/eli/oc/2023/187)), du 13 juil. 2023 ([RO 2023 407](https://fedlex.data.admin.ch/eli/oc/2023/407)) et du 15 sept. 2023 ([RO 2023 525](https://fedlex.data.admin.ch/eli/oc/2023/525)), du 21 sept. 2023 ([RO 2023 558](https://fedlex.data.admin.ch/eli/oc/2023/558)), du 28 sept. 2023 ([RO 2023 574](https://fedlex.data.admin.ch/eli/oc/2023/574)), du 16 oct. 2023 ([RO 2023 600](https://fedlex.data.admin.ch/eli/oc/2023/600)), du 16 oct. 2023([RO 2023 599](https://fedlex.data.admin.ch/eli/oc/2023/599)), du 10 janv. 2024 ([RO 2024 35](https://fedlex.data.admin.ch/eli/oc/2024/35)), du 18 mars 2024 ([RO 2024 124](https://fedlex.data.admin.ch/eli/oc/2024/124)) et du 15 avr. 2024, en vigueur depuis le 1<sup>er</sup> mai 2024 ([RO 2024 171](https://fedlex.data.admin.ch/eli/oc/2024/171)).
+[^t-3]: Mise à jour par le ch. II de l’O du 18 oct. 2017 ([RO 2017 6107](https://fedlex.data.admin.ch/eli/oc/2017/673)), le ch. I de l’O du 18 oct. 2017 ([RO 2017 6113](https://fedlex.data.admin.ch/eli/oc/2017/674)), le ch. II de l’O du 31 oct. 2018 ([RO 2018 4191](https://fedlex.data.admin.ch/eli/oc/2018/678)), l’annexe 2 ch. 2 de l’O du 26 août 2020 ([RO 2020 3749](https://fedlex.data.admin.ch/eli/oc/2020/680)), le ch. II al. 1 de l’O du 11 nov. 2020 ([RO 2020 5521](https://fedlex.data.admin.ch/eli/oc/2020/959)), l’annexe 3 ch. 14 de l’O du 30 juin 2021 modifiant le tarif des douanes ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)), erratum du 18 oct. 2021 ([RO 2021 617](https://fedlex.data.admin.ch/eli/oc/2021/617)), le ch. I al. 1 de l’O du 30 mars 2022 ([RO 2022 215](https://fedlex.data.admin.ch/eli/oc/2022/215)), le ch. I de l’O de l’OFAG du 14 juin 2022 ([RO 2022 365](https://fedlex.data.admin.ch/eli/oc/2022/365)), le ch. I al. 1 de l’O du 10 juin 2022 ([RO 2022 372](https://fedlex.data.admin.ch/eli/oc/2022/372)), le ch. I des O de l’OFAG du 9 août 2022 ([RO 2022 447](https://fedlex.data.admin.ch/eli/oc/2022/447)), du 26 sept. 2022 ([RO 2022 557](https://fedlex.data.admin.ch/eli/oc/2022/557)), le ch. I des O de l’OFAG du 5 déc. 2022 ([RO 2022 851](https://fedlex.data.admin.ch/eli/oc/2022/851)), du 28 sept. 2023 ([RO 2023 574](https://fedlex.data.admin.ch/eli/oc/2023/574)), du 16 oct. 2023 ([RO 2023 599](https://fedlex.data.admin.ch/eli/oc/2023/599)), du 10 janv. 2024 ([RO 2024 35](https://fedlex.data.admin.ch/eli/oc/2024/35)), du 18 mars 2024 ([RO 2024 124](https://fedlex.data.admin.ch/eli/oc/2024/124)), du 15 avr. 2024 ([RO 2024 171](https://fedlex.data.admin.ch/eli/oc/2024/171)), le ch. I de l’O du 14 août 2024 ([RO 2024 420](https://fedlex.data.admin.ch/eli/oc/2024/420)) et le ch. I de l’O de l’OFAG du 30 juil 2024, en vigueur depuis le 1<sup>er</sup> sept. 2024 ([RO 2024 440](https://fedlex.data.admin.ch/eli/oc/2024/440)).
 
 ### 1. Marché des équidés
 
@@ -2976,7 +2974,7 @@ Annexe 3[^t-3]
 <tr><th>Numéro du contingent tarifaire **[1]**</th><th>Désignation de la marchandise **[1]**</th><th>Contingent tarifaire (en tonnes) **[1]**</th></tr>
 <tr><td>09</td><td>Œufs d’oiseaux, en coquille, dont:</td><td>33 735</td></tr>
 <tr><td>09.1</td><td>Œufs de consommation</td><td>**17 428**</td></tr>
-<tr><td>09.1.1</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2023: du 1<sup>er</sup> octobre au 31 décembre 2023</td><td colspan="3">**5500**</td></tr>
+<tr><td>09.1.1</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2024: du 1<sup>er</sup> septembre au 31 décembre 2024</td><td colspan="3">**7500**</td></tr>
 <tr><td>09.2</td><td>Œufs de fabrication destinés à l’industrie alimentaire</td><td>**16 307**</td></tr>
 <tr><td>10</td><td>Produits d’œufs séchés</td><td>977 **[2]**</td></tr>
 <tr><td>11</td><td>Produits d’œufs autres que séchés</td><td>6866 **[2]**</td></tr>
@@ -2995,21 +2993,22 @@ Annexe 3[^t-3]
 ### 7. Marché des pommes de terre et produits à base de pomme de terre
 
 <table>
-<tr><th>Numéro du contingent tarifaire</th><th>Désignation de la marchandise</th><th>Contingent tarifaire (en tonnes)</th></tr>
-<tr><th>**[1]**</th><th>**[1]**</th><th>**[1]**</th></tr>
-<tr><th>14</th><th>Pommes de terre et produits à base de pommes de terre, en équivalents de pommes de terre, dont:</th><th>23 750</th></tr>
-<tr><th>14.1 14.1.1</th><th>Pommes de terre de semence Augmentation temporaire du contingent tarifaire partiel pour 2024: du 1<sup>er</sup> janvier au 31 décembre 2024</th><th>4000 5000</th></tr>
-<tr><th>14.2</th><th>Pommes de terre destinées à la transformation</th><th>9250</th></tr>
-<tr><th>14.2.1</th><th>Augmentation temporaire du contingent tarifaire partiel pour 2024: du 1<sup>er</sup> janvier au 30 juin 2024</th><th>10 000</th></tr>
-<tr><td>14.2.2</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2024: du 1<sup>er</sup> février au 30 juin 2024</td><td>25 000</td></tr>
-<tr><td>14.2.3</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2024: du 1<sup>er</sup> avril au 31 juillet 2024</td><td>12 000</td></tr>
-<tr><th>14.3</th><th>Pommes de terre de table</th><th>6500</th></tr>
-<tr><td>14.3.1</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2024: du 1<sup>er</sup> février au 15 juillet 2024</td><td>20 000</td></tr>
-<tr><td>14.3.2</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2024: du 1<sup>er</sup> mai au 31 juillet 2024</td><td>5000</td></tr>
-<tr><th>14.4</th><th>Produits de pommes de terre, dont:</th><th>4000</th></tr>
-<tr><th>14.4.1</th><th>Catégorie de marchandises produits semi-finis</th><th>1000</th></tr>
-<tr><th>14.4.2</th><th>Catégorie de marchandises produits finis</th><th>3000</th></tr>
-<tr><td colspan="3">**[1]** **Les indications qui dérogent au tarif général sont imprimées en caractère** **gras. L’importation à partir de zones franches conformément au règlement du 22 décembre 1933 concernant les importations en Suisse des produits des zones franches (RS** ***0.631.256.934.953*****) n’est pas imputée au contingent tarifaire à attribuer.**</td></tr>
+<tr><th colspan="2">Numéro du contingent tarifaire</th><th>Désignation de la marchandise</th><th colspan="2">Contingent tarifaire (en tonnes)</th></tr>
+<tr><th colspan="2">**[1]**</th><th>**[1]**</th><th colspan="2">**[1]**</th></tr>
+<tr><th colspan="2">14</th><th>Pommes de terre et produits à base de pommes de terre, en équivalents de pommes de terre, dont:</th><th colspan="2">23 750</th></tr>
+<tr><th colspan="2">14.1 14.1.1</th><th>Pommes de terre de semence Augmentation temporaire du contingent tarifaire partiel pour 2024: du 1<sup>er</sup> janvier au 31 décembre 2024</th><th colspan="2">4000 5000</th></tr>
+<tr><th colspan="2">14.2</th><th>Pommes de terre destinées à la transformation</th><th colspan="2">9250</th></tr>
+<tr><th colspan="2">14.2.1</th><th>Augmentation temporaire du contingent tarifaire partiel pour 2024: du 1<sup>er</sup> janvier au 30 juin 2024</th><th colspan="2">10 000</th></tr>
+<tr><td colspan="2">14.2.2</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2024: du 1<sup>er</sup> février au 30 juin 2024</td><td colspan="2">25 000</td></tr>
+<tr><td colspan="2">14.2.3</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2024: du 1<sup>er</sup> avril au 31 juillet 2024</td><td colspan="2">12 000</td></tr>
+<tr><td>14.2.4</td><td colspan="3">Augmentation temporaire du contingent tarifaire partiel pour 2024: du 1<sup>er</sup> septembre au 31 décembre 2024</td><td>**15 000**</td></tr>
+<tr><th colspan="2">14.3</th><th>Pommes de terre de table</th><th colspan="2">6500</th></tr>
+<tr><td colspan="2">14.3.1</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2024: du 1<sup>er</sup> février au 15 juillet 2024</td><td colspan="2">20 000</td></tr>
+<tr><td colspan="2">14.3.2</td><td>Augmentation temporaire du contingent tarifaire partiel pour 2024: du 1<sup>er</sup> mai au 31 juillet 2024</td><td colspan="2">5000</td></tr>
+<tr><th colspan="2">14.4</th><th>Produits de pommes de terre, dont:</th><th colspan="2">4000</th></tr>
+<tr><th colspan="2">14.4.1</th><th>Catégorie de marchandises produits semi-finis</th><th colspan="2">1000</th></tr>
+<tr><th colspan="2">14.4.2</th><th>Catégorie de marchandises produits finis</th><th colspan="2">3000</th></tr>
+<tr><td colspan="5">**[1]** **Les indications qui dérogent au tarif général sont imprimées en caractère** **gras. L’importation à partir de zones franches conformément au règlement du 22 décembre 1933 concernant les importations en Suisse des produits des zones franches (RS** ***0.631.256.934.953*****) n’est pas imputée au contingent tarifaire à attribuer.**</td></tr>
 </table>
 
 ### 8. Marché des légumes frais
