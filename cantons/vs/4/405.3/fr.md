@@ -4,13 +4,12 @@ number: "405.3"
 title: "Loi sur le traitement du personnel de la scolarité obligatoire et de l'enseignement secondaire du deuxième degré général et professionnel"
 short: LTSO
 language: fr
-version: 2022-09-01
-valid_until: 2024-08-31
-version_adopted: 2022-05-12
+version: 2024-09-01
+version_adopted: 2024-03-15
 adopted: 2011-09-14
 in_force: 2012-09-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/405.3"
-pdf: "https://lex.vs.ch/api/fr/versions/3071/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3343/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3071/pdf_file"
 
 (LTSO)
 
-du 14.09.2011 (état 01.09.2022)
+du 14.09.2011 (état 01.09.2024)
 
 Le Grand Conseil du canton du Valais
 
@@ -388,15 +387,25 @@ ordonne:
 
 <sup>1</sup> La durée de la période d’enseignement est égale à 45 minutes.
 
-### 2.2 Enseignement de l'école enfantine et primaire
+### 2.2 Enseignement de l'école primaire
 
 #### Art. 29
 
 **Nombre de périodes d'enseignement**
 
-<sup>1</sup> En principe, le temps d’enseignement face aux élèves correspond à 33 périodes/semaine.
+<sup>1</sup> Le temps d’enseignement face aux élèves correspond à 30 périodes/semaine.
 
-<sup>2</sup> Les enseignants, dont l’horaire hebdomadaire des élèves est inférieur au leur (école enfantine, 1-2 primaire), sont tenus de remplir les activités complémentaires qui leur sont confiées par la direction pour obtenir un temps équivalent d’enseignement face aux élèves. S’ils renoncent à ces activités complémentaires, leur traitement est réduit en proportion.
+<sup>2</sup> Les enseignants, dont l’horaire hebdomadaire des élèves est inférieur au leur, sont tenus de remplir les activités complémentaires qui leur sont confiées par la direction pour obtenir un temps équivalent d’enseignement face aux élèves. S’ils renoncent à ces activités complémentaires, leur traitement est réduit en proportion.
+
+#### Art. 29a
+
+**Moyenne pluriannuelle**
+
+<sup>1</sup> Le Département peut, sur demande expresse de la direction, autoriser la diminution ou l’augmentation de 2 périodes hebdomadaires au maximum de l’horaire d’enseignement d’un enseignant diplômé et employé à plein temps, sans influence sur son traitement.
+
+<sup>2</sup> La moyenne pluriannuelle doit être rétablie dans les 3 années scolaires suivantes. Les écarts par rapport à cette moyenne, découlant de circonstances particulières, ne donnent toutefois droit à aucune prestation financière.
+
+<sup>3</sup> Le Département est compétent pour autoriser, dans les cas tout à fait particuliers, une application plus souple de la moyenne pluriannuelle.
 
 ### 2.3 Enseignement du secondaire du premier degré
 
@@ -404,7 +413,7 @@ ordonne:
 
 **Nombre de périodes d'enseignement**
 
-<sup>1</sup> En principe, le temps d’enseignement face aux élèves correspond à 26 périodes/semaine.
+<sup>1</sup> Le temps d’enseignement face aux élèves correspond à 25 périodes/semaine.
 
 #### Art. 31
 
@@ -577,6 +586,12 @@ ordonne:
 #### Art. T1-1
 
 <sup>1</sup> Lorsqu'une décision d'engagement ou de changement de fonction entraînant une augmentation salariale du personnel enseignant pour l'année scolaire 2022/2023 prévoit une réduction de salaire initial au sens de l'article 3a de la présente loi, cette réduction devient caduque au moment de l'entrée en vigueur de la modification du 12 mai 2022.
+
+## T2 Disposition transitoire de la modification du 15 mars 2024
+
+#### Art. T2-2
+
+<sup>1</sup> Afin de pallier une pénurie de personnel enseignant, le Conseil d'Etat peut assouplir les exigences de titre/diplôme du personnel enseignant dans un délai de 5 ans dès l'entrée en vigueur de cette modification.
 
 ## A1 Annexe 1 à l'article 2
 

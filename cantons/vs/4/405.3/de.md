@@ -4,13 +4,12 @@ number: "405.3"
 title: Gesetz über die Besoldung des Personals der obligatorischen Schulzeit und der allgemeinen Mittelschule und Berufsfachschule
 short: GBOS
 language: de
-version: 2022-09-01
-valid_until: 2024-08-31
-version_adopted: 2022-05-12
+version: 2024-09-01
+version_adopted: 2024-03-15
 adopted: 2011-09-14
 in_force: 2012-09-01
 url: "https://lex.vs.ch/app/de/texts_of_law/405.3"
-pdf: "https://lex.vs.ch/api/de/versions/3071/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3343/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3071/pdf_file"
 
 (GBOS)
 
-vom 14.09.2011 (Stand 01.09.2022)
+vom 14.09.2011 (Stand 01.09.2024)
 
 Der Grosse Rat des Kantons Wallis
 
@@ -388,15 +387,25 @@ verordnet:
 
 <sup>1</sup> Eine Unterrichtslektion dauert 45 Minuten.
 
-### 2.2 Kindergarten- und Primarstufe
+### 2.2 Primarstufe
 
 #### Art. 29
 
 **Anzahl Unterrichtslektionen**
 
-<sup>1</sup> Grundsätzlich entspricht die Unterrichtszeit in Anwesenheit der Schüler 33 wöchentlichen Unterrichtslektionen.
+<sup>1</sup> Die Unterrichtszeit in Anwesenheit der Schüler entspricht 30 wöchentlichen Unterrichtslektionen.
 
-<sup>2</sup> Lehrpersonen, deren wöchentlicher Stundenplan über jenem der Schüler liegt (Kindergarten, 1.-2. Primarschule), müssen Zusatztätigkeiten wahrnehmen, die ihnen von der Schuldirektion anvertraut werden, um eine Äquivalenz der Unterrichtszeit in Anwesenheit der Schüler zu erlangen. Falls eine Lehrperson auf die Zusatztätigkeiten verzichtet, wird ihr Gehalt entsprechend gekürzt.
+<sup>2</sup> Lehrpersonen, deren wöchentlicher Stundenplan über jenem der Schüler liegt, müssen Zusatztätigkeiten wahrnehmen, die ihnen von der Schuldirektion anvertraut werden, um eine Äquivalenz der Unterrichtszeit in Anwesenheit der Schüler zu erlangen. Falls eine Lehrperson auf die Zusatztätigkeiten verzichtet, wird ihr Gehalt entsprechend gekürzt.
+
+#### Art. 29a
+
+**Mehrjahresdurchschnitt**
+
+<sup>1</sup> Auf ausdrückliches Gesuch der Schuldirektion hin kann das Departement für eine diplomierte vollamtliche Lehrperson die Herabsetzung oder die Erhöhung der wöchentlichen Unterrichtszeit um maximal 2 wöchentliche Unterrichtslektionen bewilligen, ohne dass dies einen Einfluss auf die Besoldung hat.
+
+<sup>2</sup> Der Mehrjahresdurchschnitt muss innerhalb der 3 folgenden Schuljahre wiederhergestellt werden. Die Abweichungen von diesem Durchschnitt, die von besonderen Umständen herrühren, geben jedoch kein Anrecht auf eine finanzielle Entschädigung.
+
+<sup>3</sup> In ganz besonderen Fällen kann das Departement eine flexiblere Anwendung des Mehrjahresdurchschnitts bewilligen.
 
 ### 2.3 Sekundarstufe I
 
@@ -404,7 +413,7 @@ verordnet:
 
 **Anzahl Unterrichtslektionen**
 
-<sup>1</sup> Grundsätzlich entspricht die Unterrichtszeit in Anwesenheit der Schüler 26 wöchentlichen Unterrichtslektionen.
+<sup>1</sup> Die Unterrichtszeit in Anwesenheit der Schüler entspricht 25 wöchentlichen Unterrichtslektionen.
 
 #### Art. 31
 
@@ -577,6 +586,12 @@ verordnet:
 #### Art. T1-1
 
 <sup>1</sup> Sieht eine Anstellungsverfügung oder ein Entscheid über einen Funktionswechsel, der eine Lohnerhöhung des Lehrpersonals für das Schuljahr 2022/2023 zur Folge hat, eine Kürzung des Anfangslohns im Sinne von Artikel 3a des vorliegenden Gesetzes vor, so wird diese Kürzung mit dem Inkrafttreten der Änderung vom 12. Mai 2022 hinfällig.
+
+## T2 Übergangsbestimmung von der Änderung vom 15. März 2024
+
+#### Art. T2-2
+
+<sup>1</sup> Um einem Lehrkräftemangel entgegenzuwirken, kann der Staatsrat innerhalb von 5 Jahren nach Inkrafttreten dieser Änderung die Anforderungen an die Titel/Diplome des Lehrpersonals lockern.
 
 ## A1 Anhang 1 zu Artikel 2
 
