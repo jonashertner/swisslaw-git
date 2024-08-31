@@ -4,13 +4,12 @@ number: "231.1"
 title: Einführungsgesetz zur Bundesgesetzgebung über die Berufsbildung
 short: EG-BB
 language: de
-version: 2020-06-01
-valid_until: 2024-08-31
-version_adopted: 2018-11-25
+version: 2024-09-01
+version_adopted: 2024-06-25
 adopted: 2007-09-23
 in_force: 2008-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/231.1"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2924/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3656/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2924/pdf_file"
 
 (EG-BB)
 
-vom 23.09.2007 (Stand 01.06.2020)
+vom 23.09.2007 (Stand 01.09.2024)
 
 Der Kantonsrat des Kantons St.Gallen
 
@@ -305,6 +304,10 @@ als Gesetz:[^ingress-3]
 
 - a) Aufgabenerfüllung und Berichterstattung durch die Berufsfachschulkommission;
 - b) welche Zuständigkeiten die Berufsfachschulkommission durch Reglement der Schulleitung übertragen kann.
+
+<sup>2</sup> Im Fall einer besonderen oder ausserordentlichen Lage nach [Art. 6](https://db.clex.ch/link/Bund/818.101/de) oder [7](https://db.clex.ch/link/Bund/818.101/de) des eidgenössischen Epidemiengesetzes vom 28. September 2012[^18a-1] ordnet die Regierung befristete und gesamtkantonal geltende gesundheitspolizeiliche Massnahmen in der Berufsfachschule zur Abwehr und Bekämpfung übertragbarer Krankheiten und anderer Gefährdungen der Gesundheit an.
+
+[^18a-1]: SR [818.101](https://db.clex.ch/link/Bund/818.101/de).
 
 #### Art. 19
 
