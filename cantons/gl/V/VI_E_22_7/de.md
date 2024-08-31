@@ -4,13 +4,12 @@ number: VI E/22/7
 title: Verordnung über die Wildruhezonen
 short: "Wildruhezonenverordnung, WrZV"
 language: de
-version: 2023-08-01
-valid_until: 2024-08-31
-version_adopted: 2023-07-06
+version: 2024-09-01
+version_adopted: 2024-08-13
 adopted: 2016-10-25
 in_force: 2017-07-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VI-E.22.7"
-pdf: "https://gesetze.gl.ch/api/de/versions/2442/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2491/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2442/pdf_file"
 
 (Wildruhezonenverordnung, WrZV)
 
-Vom 25.10.2016 (Stand 01.08.2023)
+Vom 25.10.2016 (Stand 01.09.2024)
 
 Der Regierungsrat,
 
@@ -71,8 +70,8 @@ erlässt:
 
 <table>
 <tr><th>Wildruhezonen</th><th>Zeitraum</th></tr>
-<tr><td>1–9</td><td>21. Dezember bis 31. März</td></tr>
-<tr><td>10–17, 33</td><td>21. Dezember bis 30. April</td></tr>
+<tr><td>1–9, 33</td><td>21. Dezember bis 31. März</td></tr>
+<tr><td>10–17</td><td>21. Dezember bis 30. April</td></tr>
 <tr><td>18–27</td><td>21. Dezember bis 30. Juni</td></tr>
 <tr><td>28, 29</td><td>1. April bis 30. Juni</td></tr>
 <tr><td>30–32</td><td>1. September bis 31. Oktober</td></tr>
