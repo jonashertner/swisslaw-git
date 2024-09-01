@@ -1,0 +1,128 @@
+---
+status: "beschlossen, noch nicht in Kraft"
+reference: AS 2024 459
+title: Verordnung vom 28. August 2024 über die Projektorganisation für das Länderprogramm Ukraine
+language: de
+adopted: 2024-08-28
+published: 2024-09-02
+in_force: ["2024-10-01"]
+url: "https://www.fedlex.admin.ch/eli/oc/2024/459/de"
+---
+
+> Nicht amtliche Wiedergabe aus der Amtlichen Sammlung (AS). Der Erlass ist veröffentlicht, aber noch nicht in Kraft; massgebend ist die Veröffentlichung in der AS (Art. 15 PublG, SR 170.512).
+
+# Verordnung über die Projektorganisation für das Länderprogramm Ukraine
+
+vom 28. August 2024
+
+Der Schweizerische Bundesrat,
+
+gestützt auf die Artikel 47 Absatz 2 und 56 des Regierungs- und Verwaltungsorganisationsgesetzes vom 21. März 1997[^ingress-1] (RVOG),
+
+verordnet:
+
+[^ingress-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
+
+#### Art. 1
+
+**Projektorganisation**
+
+<sup>1</sup> Zur Ausarbeitung und Umsetzung des Länderprogramms Ukraine besteht eine überdepartementale Projektorganisation.
+
+<sup>2</sup>
+
+Die Projektorganisation greift zurück auf die bestehenden Prozesse und Strukturen und das bestehende Fachwissen folgender Verwaltungseinheiten:
+
+- a. Direktion für Entwicklung und Zusammenarbeit (DEZA);
+- b. Abteilung Frieden und Menschenrechte im Staatssekretariat des Eidgenössischen Departements für auswärtige Angelegenheiten (AFM);
+- c. Staatssekretariat für Wirtschaft (SECO).
+
+#### Art. 2
+
+**Steuerungsgruppe**
+
+<sup>1</sup> Eine Steuerungsgruppe ist das oberste strategische Leitungsorgan der Projektorganisation.
+
+<sup>2</sup> Sie besteht aus den Departementsvorstehern oder Departementsvorsteherinnen des Eidgenössischen Departements für auswärtige Angelegenheiten (EDA) und des Eidgenössischen Departements für Wirtschaft, Bildung und Forschung (WBF). Bei Uneinigkeit entscheidet der Bundesrat.
+
+<sup>3</sup>
+
+Die folgenden Personen nehmen mit beratender Stimme an den Sitzungen der Steuerungsgruppe teil:
+
+- a. der Staatssekretär oder die Staatssekretärin des SECO;
+- b. die Generalsekretäre oder Generalsekretärinnen des EDA und des WBF;
+- c. der Direktor oder die Direktorin der DEZA;
+- d. der Abteilungsleiter oder die Abteilungsleiterin der AFM;
+- e. der oder die Delegierte des Bundesrates für die Ukraine.
+
+#### Art. 3
+
+**Delegierter oder Delegierte**
+
+<sup>1</sup> Die Projektorganisation wird von einem oder einer Delegierten des Bundesrates für die Ukraine geleitet.
+
+<sup>2</sup> Der oder die Delegierte ist direkt den Departementsvorstehern oder Departementsvorsteherinnen des EDA und des WBF unterstellt.
+
+<sup>3</sup> Er oder sie hat Zugang zu sämtlichen vertraulich und geheim klassifizierten Informationen betreffend die Ukraine.
+
+<sup>4</sup> Er oder sie ist administrativ dem Generalsekretariat des EDA angegliedert. Der Bundesrat ist zuständig für die Begründung, Änderung und Beendigung des Arbeitsverhältnisses.
+
+#### Art. 4
+
+**Konsultativgremium**
+
+<sup>1</sup> Die Steuerungsgruppe und der oder die Delegierte werden bei der Ausarbeitung und Umsetzung des Länderprogramms Ukraine durch ein Konsultativgremium aus Verwaltungsmitarbeitenden und externen Personen beraten.
+
+<sup>2</sup> Die Departementsvorsteher oder Departementsvorsteherinnen des EDA und des WBF bestimmen die Zusammensetzung des Konsultativgremiums. Bei Uneinigkeit entscheidet der Bundesrat.
+
+#### Art. 5
+
+**Zusammenarbeit**
+
+<sup>1</sup> Der oder die Delegierte kann die Schweiz im Auftrag des Bundesrates betreffend die Unterstützung der Ukraine auf internationalen Konferenzen vertreten.
+
+<sup>2</sup> Er oder sie kann den Bundesrat betreffend die Unterstützung der Ukraine in den parlamentarischen Kommissionen, gegenüber kantonalen Amtsstellen und vor der Öffentlichkeit vertreten.
+
+<sup>3</sup> Er oder sie ist zusammen mit dem SECO für die Koordination mit dem Schweizer Privatsektor zuständig.
+
+#### Art. 6
+
+**Personelle Ressourcen**
+
+<sup>1</sup> Die zuständigen Stellen des SECO, der DEZA und der AFM stellen der Projektorganisation die für die Ausarbeitung und Umsetzung des Länderprogramms Ukraine benötigten personellen Ressourcen zur Verfügung.
+
+<sup>2</sup> Die zur Verfügung gestellten Mitarbeitenden sind dem oder der Delegierten für alle Tätigkeiten mit Bezug zum Länderprogramm Ukraine fachlich unterstellt.
+
+#### Art. 7
+
+**Finanzierung**
+
+<sup>1</sup> Der oder die Delegierte verfügt im Rahmen der von der Bundesversammlung beschlossenen Voranschlags- und Verpflichtungskredite über die für die Ukraine bestimmten Mitteln des SECO und des EDA. Er oder sie holt vorgängig deren Einverständnis ein.
+
+<sup>2</sup> Kreditverschiebungen zwischen den departementsspezifischen Kreditlinien richten sich nach den jeweiligen Bundesbeschlüssen zum Voranschlag.
+
+<sup>3</sup> Der oder die Delegierte kann Vorhaben im Umfang von bis zu 10 Millionen Franken bewilligen. Die Anforderungen des Finanzhaushaltsgesetzes vom 7. Oktober 2005[^7-1] und der Finanzhaushaltsverordnung vom 5. April 2006[^7-2] bleiben vorbehalten.
+
+<sup>4</sup> Für Vorhaben über 10 Millionen Franken gelten die Vorgaben nach den Anhängen 1 und 2 der Verordnung vom 12. Dezember 1977[^7-3] über die internationale Entwicklungszusammenarbeit und humanitäre Hilfe, ausser dass diese Vorhaben keiner Zustimmung des Eidgenössischen Finanzdepartements bedürfen.
+
+[^7-1]: [SR 611.0](https://fedlex.data.admin.ch/eli/cc/2006/227)
+[^7-2]: [SR 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)
+[^7-3]: [SR 974.01](https://fedlex.data.admin.ch/eli/cc/1978/25_25_25)
+
+#### Art. 8
+
+**Berichterstattung**
+
+<sup>1</sup> Der oder die Delegierte erstattet dem Bundesrat jährlich Bericht über die Ausarbeitung und Umsetzung des Länderprogramms Ukraine.
+
+<sup>2</sup> Er oder sie zeigt dem Bundesrat nach acht Jahren auf, wie der Übergang von der Projektorganisation in die ordentlichen Strukturen erfolgt.
+
+#### Art. 9
+
+**Inkrafttreten und Geltungsdauer**
+
+Diese Verordnung tritt am 1. Oktober 2024 in Kraft und gilt bis zum 30. September 2036.
+
+<table>
+<tr><td>28. August 2024</td><td>Im Namen des Schweizerischen Bundesrates Die Bundespräsidentin: Viola Amherd Der Bundeskanzler: Viktor Rossi</td></tr>
+</table>
