@@ -4,13 +4,13 @@ number: "837.211"
 title: Verordnung zum Gesetz zum Bundesgesetz über die Krankenversicherung
 short: V KVGG
 language: de
-version: 2024-05-01
-valid_until: 2024-09-01
-version_adopted: 2024-03-27
+version: 2024-09-02
+valid_until: 2025-08-31
+version_adopted: 2024-08-28
 adopted: 2016-03-16
 in_force: 2016-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/837.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3426/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3656/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3426/pdf_file"
 
 (V KVGG)
 
-Vom 16.03.2016 (Stand 01.05.2024)
+Vom 16.03.2016 (Stand 02.09.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -76,7 +76,7 @@ beschliesst:
 
 <sup>3</sup> Zur Ermittlung der anspruchsberechtigten Personen hat die SVA Aargau gemäss § 10 Abs. 5 KVGG Zugriff auf Steuerdaten, bei denen die Summe von steuerbarem Einkommen und 20 % des steuerbaren Vermögens die folgenden Beträge nicht überschreitet:
 
-- a) Tarif A — Fr. 40'000.–
+- a) Tarif A — Fr. 44'000.–
 - b) Tarif B — Fr. 140'000.–
 
 #### § 6
