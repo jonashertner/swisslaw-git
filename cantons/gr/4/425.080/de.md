@@ -5,12 +5,12 @@ title: Verordnung über Beitragszahlungen und Gebühren im Mittelschulwesen des 
 short: MSBGV
 language: de
 version: 2024-08-01
-valid_until: 2026-06-30
+corrected: 2024-09-03
 version_adopted: 2024-09-03
 adopted: 2019-07-02
 in_force: 2019-08-01
 url: "https://www.gr-lex.gr.ch/app/de/texts_of_law/425.080"
-pdf: "https://www.gr-lex.gr.ch/api/de/versions/3469/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/de/versions/3429/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -79,13 +79,13 @@ von der Regierung erlassen am 2. Juli 2019
 
 #### Art. 7
 
-**Qualitätsentwicklung und Qualitätssicherung**
+**Qualitätssicherung**
 
-<sup>1</sup> Die Mittelschulen betreiben ein System der Qualitätsentwicklung und Qualitätssicherung nach den Vorgaben der Regierung und lassen dieses in regelmässigen Abständen durch eine von der Regierung bezeichnete externe Fachstelle evaluieren.
+<sup>1</sup> Die Mittelschulen sind verpflichtet, ein von der Regierung bestimmtes externes Qualitätszertifikat zu erwerben.
 
-<sup>2</sup> Der Kanton kann die Kosten für die externen Evaluationen übernehmen.
+<sup>2</sup> Die Regierung kann einen Beitrag an die Kosten für die Zertifizierung der Mittelschulen leisten.
 
-<sup>3</sup> Das Amt erlässt Vorgaben zur Durchführung der externen Evaluationen.
+<sup>3</sup> Die Mittelschulen gewähren dem Amt Einsicht in die Berichte der Evaluations- und der Zertifizierungsstelle.
 
 #### Art. 8
 
@@ -171,7 +171,7 @@ von der Regierung erlassen am 2. Juli 2019
 - b) Beschreibung des Ausbildungs- und Sprachkonzepts;
 - c) Wertschöpfungsprognose.
 
-<sup>3</sup> Die Berichterstattung an das Amt erfolgt gemäss den Vorgaben des für die entsprechende Abrechnungsperiode erteilten Leistungsauftrags.
+<sup>3</sup> Die Berichterstattung an das Amt erfolgt jährlich bis 31. Oktober gemäss den Vorgaben des für die entsprechende Abrechnungsperiode erteilten Leistungsauftrags.
 
 #### Art. 16
 
@@ -270,7 +270,7 @@ von der Regierung erlassen am 2. Juli 2019
 
 **Finanzielle Notlage 1. Definition**
 
-<sup>1</sup> Als finanzielle Notlage gilt für eine Aktiengesellschaft der Tatbestand des Kapitalverlusts gemäss Artikel 725a Absatz 1 des Bundesgesetzes betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches (Fünfter Teil: Obligationenrecht).
+<sup>1</sup> Als finanzielle Notlage gilt für eine Aktiengesellschaft der Tatbestand des Kapitalverlusts gemäss Artikel 725 Absatz 1 des Bundesgesetzes betreffend die Ergänzung des Schweizerischen Zivilgesetzbuches (Fünfter Teil: Obligationenrecht).
 
 <sup>2</sup> Als finanzielle Notlage gilt für eine Stiftung der Tatbestand der Feststellung einer Überschuldung durch die Revisionsstelle gemäss Artikel 84a Absatz 2 des Schweizerischen Zivilgesetzbuches.
 

@@ -5,12 +5,12 @@ title: Ordinaziun davart pajaments da contribuziuns e taxas en ils fatgs da scol
 short: OCTSM
 language: rm
 version: 2024-08-01
-valid_until: 2026-06-30
+corrected: 2024-09-03
 version_adopted: 2024-09-03
 adopted: 2019-07-02
 in_force: 2019-08-01
 url: "https://www.gr-lex.gr.ch/app/rm/texts_of_law/425.080"
-pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3469/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/rm/versions/3429/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -85,13 +85,13 @@ relaschada da la regenza ils 2 da fanadur 2019
 
 #### Art. 7
 
-**Svilup da la qualitad e garanzia da la qualitad**
+**Garanzia da la qualitad**
 
-<sup>1</sup> Las scolas medias han in sistem per il svilup da la qualitad e per la garanzia da la qualitad tenor las prescripziuns da la Regenza e laschan evaluar quel en intervals regulars tras in post spezialisà extern designà da la Regenza.
+<sup>1</sup> Las scolas medias èn obligadas d'acquistar in certificat da qualitad extern determinà da la regenza.
 
-<sup>2</sup> Il chantun po surpigliar ils custs per l'evaluaziun externa.
+<sup>2</sup> La regenza po pajar ina contribuziun als custs per la certificaziun da las scolas medias.
 
-<sup>3</sup> L'uffizi relascha prescripziuns per realisar las evaluaziuns externas.
+<sup>3</sup> Las scolas medias concedan a l'uffizi invista dals rapports dal post d'evaluaziun e da certificaziun.
 
 #### Art. 8
 
@@ -179,7 +179,7 @@ relaschada da la regenza ils 2 da fanadur 2019
 - b) descripziun dal concept da scolaziun e dal concept linguistic;
 - c) prognosa da la valurisaziun.
 
-<sup>3</sup> Il rapport sto vegnir tramess a l'uffizi tenor las prescripziuns da l'incarica da prestaziun ch'è vegnida concedida per la perioda da rendaquint correspundenta.
+<sup>3</sup> Il rapport sto vegnir tramess a l'uffizi mintga onn fin ils 31 d'october tenor las prescripziuns da l'incarica da prestaziun ch'è vegnida concedida per la perioda da rendaquint correspundenta.
 
 [^15-1]: DG [425.100](https://www.gr-lex.gr.ch/data/425.100/rm)
 
@@ -284,7 +284,7 @@ relaschada da la regenza ils 2 da fanadur 2019
 
 **Situaziun finanziala d'urgenza 1. definiziun**
 
-<sup>1</sup> Sco situaziun finanziala d'urgenza vala per ina societad anonima il causal da la perdita da chapital tenor l'artitgel 725a alinea 1 da la Lescha federala davart la cumplettaziun dal Cudesch civil svizzer (Tschintgavla part: Dretg d'obligaziuns)[^26-1].
+<sup>1</sup> Sco situaziun finanziala d'urgenza vala per ina societad anonima il causal da la perdita da chapital tenor l'artitgel 725 alinea 1 da la lescha federala davart la cumplettaziun dal cudesch civil svizzer (tschintgavla part: dretg d'obligaziuns)[^26-1].
 
 <sup>2</sup> Sco situaziun finanziala d'urgenza vala per ina fundaziun il causal da la constataziun d'ina surdebitaziun tras il post da revisiun tenor l'artitgel 84a alinea 2 dal cudesch civil svizzer[^26-2].
 

@@ -5,12 +5,12 @@ title: Ordinanza concernente il pagamento di contributi e gli emolumenti nel set
 short: OCESMS
 language: it
 version: 2024-08-01
-valid_until: 2026-06-30
+corrected: 2024-09-03
 version_adopted: 2024-09-03
 adopted: 2019-07-02
 in_force: 2019-08-01
 url: "https://www.gr-lex.gr.ch/app/it/texts_of_law/425.080"
-pdf: "https://www.gr-lex.gr.ch/api/it/versions/3469/pdf_file"
+pdf: "https://www.gr-lex.gr.ch/api/it/versions/3429/pdf_file"
 ---
 
 > Riproduzione non ufficiale della raccolta sistematica del Cantone GR. Fa stato la pubblicazione ufficiale del Cantone.
@@ -79,13 +79,13 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 #### Art. 7
 
-**Sviluppo della qualità e garanzia della qualità**
+**Garanzia della qualità**
 
-<sup>1</sup> Le scuole medie superiori gestiscono un sistema di sviluppo della qualità e garanzia della qualità secondo le direttive del Governo e lo fanno valutare a cadenza regolare da un servizio specializzato esterno definito dal Governo.
+<sup>1</sup> Le scuole medie superiori sono tenute a conseguire un certificato di qualità esterno stabilito dal Governo.
 
-<sup>2</sup> Il Cantone può farsi carico dei costi per le valutazioni esterne.
+<sup>2</sup> Il Governo può concedere un contributo per i costi di certificazione delle scuole medie superiori.
 
-<sup>3</sup> L'Ufficio emana direttive relative allo svolgimento delle valutazioni esterne.
+<sup>3</sup> Le scuole medie superiori permettono all'Ufficio di prendere visione dei rapporti dell'organo di valutazione e di quello di certificazione.
 
 #### Art. 8
 
@@ -171,7 +171,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 - b) descrizione della strategia formativa e sulle lingue;
 - c) previsione relativa al valore aggiunto.
 
-<sup>3</sup> Il rapporto all'Ufficio deve essere presentato conformemente alle direttive contenute nel mandato di prestazioni conferito per il corrispondente periodo di conteggio.
+<sup>3</sup> Il rapporto all'Ufficio deve essere presentato ogni anno entro il 31 ottobre conformemente alle direttive contenute nel mandato di prestazioni conferito per il corrispondente periodo di conteggio.
 
 #### Art. 16
 
@@ -270,7 +270,7 @@ visto l'art. 45 cpv. 1 della Costituzione cantonale[^ingress-1]
 
 **Situazione di difficoltà finanziaria 1. Definizione**
 
-<sup>1</sup> Per una società anonima è considerata situazione di difficoltà finanziaria la fattispecie della perdita di capitale conformemente all'articolo 725a capoverso 1 della legge federale di complemento del Codice civile svizzero (Libro quinto: Diritto delle obbligazioni).
+<sup>1</sup> Per una società anonima è considerata situazione di difficoltà finanziaria la fattispecie della perdita di capitale conformemente all'articolo 725 capoverso 1 della legge federale di complemento del Codice civile svizzero (Libro quinto: Diritto delle obbligazioni).
 
 <sup>2</sup> Per una fondazione è considerata situazione di difficoltà finanziaria la fattispecie della constatazione di un'eccedenza di debiti da parte dell'ufficio di revisione conformemente all'articolo 84a capoverso 2 del Codice civile svizzero.
 
