@@ -3,11 +3,11 @@ sr: "0.951.951.4"
 title: Accordo monetario del 19 giugno 1980 tra la Confederazione Svizzera e il Principato del Liechtenstein (con All. e scambio di note)
 eli: "https://fedlex.data.admin.ch/eli/cc/1981/1715_1715_1715"
 language: it
-version: 2024-04-10
+version: 2024-09-04
 adopted: 1980-06-19
 in_force: 1981-11-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/1715_1715_1715/20240410/it/xml/fedlex-data-admin-ch-eli-cc-1981-1715_1715_1715-20240410-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1981/1715_1715_1715/20240410/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1981/1715_1715_1715/20240904/it/xml/fedlex-data-admin-ch-eli-cc-1981-1715_1715_1715-20240904-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1981/1715_1715_1715/20240904/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conchiuso il 19 giugno 1980 Approvato dall’Assemblea federale il 16 giugno 1981[^t-1] Ratificato con strumenti scambiati il 26 ottobre 1981 Entrato in vigore il 25 novembre 1981
 
-(Stato 10 aprile 2024)
+(Stato 4 settembre 2024)
 
 [^t-1]: [RU 1981 1714](https://fedlex.data.admin.ch/eli/oc/1981/1714_1714_1714)
 
@@ -224,4 +224,4 @@ Allegato[^t-2]
 <tr><td>Allegato I</td><td>– Elenco degli atti normativi federali, applicabili al Principato del Liechtenstein</td></tr>
 </table>
 
-[^t-2]: L’all. è stato aggiornato dal 3 nov. 1998 regolarmente e dal 21 giu. 2005 semestralmente, l’ultima volta il 10 apr. 2024 (stato: 31 dic. 2023). Questo all. aggiornato non è pubblicato nella RU ([RU 2020 4565](https://fedlex.data.admin.ch/eli/oc/2020/808); [2021 647](https://fedlex.data.admin.ch/eli/oc/2021/647), [713](https://fedlex.data.admin.ch/eli/oc/2021/713); [2022 212](https://fedlex.data.admin.ch/eli/oc/2022/212), [629](https://fedlex.data.admin.ch/eli/oc/2022/629); [2023 229](https://fedlex.data.admin.ch/eli/oc/2023/229), [626](https://fedlex.data.admin.ch/eli/oc/2023/626); [2024 165](https://fedlex.data.admin.ch/eli/oc/2024/165)), ma può essere consultato sul sito Internet: www.gesetze.li &gt; [LR-Nr. 170.551.95](https://www.gesetze.li/chrono/2024154000)
+[^t-2]: L’all. è stato aggiornato dal 3 nov. 1998 regolarmente e dal 21 giu. 2005 semestralmente, l’ultima volta il 4 set. 2024 (stato: 30 giugno 2024). Questo all. aggiornato non è pubblicato nella RU ([RU 2020 4565](https://fedlex.data.admin.ch/eli/oc/2020/808); [2021 647](https://fedlex.data.admin.ch/eli/oc/2021/647), [713](https://fedlex.data.admin.ch/eli/oc/2021/713); [2022 212](https://fedlex.data.admin.ch/eli/oc/2022/212), [629](https://fedlex.data.admin.ch/eli/oc/2022/629); [2023 229](https://fedlex.data.admin.ch/eli/oc/2023/229), [626](https://fedlex.data.admin.ch/eli/oc/2023/626); [2024 165](https://fedlex.data.admin.ch/eli/oc/2024/165), [499](https://fedlex.data.admin.ch/eli/oc/2024/499)), ma può essere consultato sul sito Internet: www.gesetze.li &gt; Suchen &gt; [LR-Nr. 170.551.95](https://www.gesetze.li/chrono/2024326000)
