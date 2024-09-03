@@ -3,11 +3,11 @@ sr: "0.748.095.14"
 title: Notenaustausch vom 27. Januar 2003 zwischen der Schweiz und Liechtenstein betreffend die Zusammenarbeit der schweizerischen und der liechtensteinischen Behörden im Bereich der Zivilluftfahrt (mit Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/487"
 language: de
-version: 2024-04-10
+version: 2024-09-04
 adopted: 2003-01-27
 in_force: 2003-01-27
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/487/20240410/de/xml/fedlex-data-admin-ch-eli-cc-2003-487-20240410-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/487/20240410/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/487/20240904/de/xml/fedlex-data-admin-ch-eli-cc-2003-487-20240904-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/487/20240904/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -18,7 +18,7 @@ AS **2003** 3431
 
 In Kraft getreten am 27. Januar 2003
 
-(Stand am 10. April 2024)
+(Stand am 4. September 2024)
 
 Originaltext
 
@@ -95,4 +95,4 @@ Anlagen[^t-5]
 <tr><td>Anlage II</td><td>– Liste der Staatsverträge, die im Fürstentum Liechtenstein anwendbar sind.</td></tr>
 </table>
 
-[^t-5]: Die Anlagen I und II sind seit dem dem 27. Januar 2003 halbjährlich, letztmals auf den 10. April 2024 (Stand: 31. Dez. 2023), bereinigt worden sind. Diese Anlagen werden in der AS nicht publiziert ([AS 2020 4561](https://fedlex.data.admin.ch/eli/oc/2020/806); [2021 638](https://fedlex.data.admin.ch/eli/oc/2021/638), [712](https://fedlex.data.admin.ch/eli/oc/2021/712); [2022 211](https://fedlex.data.admin.ch/eli/oc/2022/211), [628](https://fedlex.data.admin.ch/eli/oc/2022/628); [2023 224](https://fedlex.data.admin.ch/eli/oc/2023/224), [625](https://fedlex.data.admin.ch/eli/oc/2023/625); [2024 176](https://fedlex.data.admin.ch/eli/oc/2024/176)). Die bereinigten Anlagen können auf der Internetseite www.gesetze.li &gt; LR-Nr. 170.551.748 konsultiert werden.
+[^t-5]: Die Anlagen I und II sind seit dem dem 27. Januar 2003 halbjährlich, letztmals auf den 4. September 2024 (Stand: 30. Juni 2024), bereinigt worden sind. Diese Anlagen werden in der AS nicht publiziert ([AS 2020 4561](https://fedlex.data.admin.ch/eli/oc/2020/806); [2021 638](https://fedlex.data.admin.ch/eli/oc/2021/638), [712](https://fedlex.data.admin.ch/eli/oc/2021/712); [2022 211](https://fedlex.data.admin.ch/eli/oc/2022/211), [628](https://fedlex.data.admin.ch/eli/oc/2022/628); [2023 224](https://fedlex.data.admin.ch/eli/oc/2023/224), [625](https://fedlex.data.admin.ch/eli/oc/2023/625); [2024 176](https://fedlex.data.admin.ch/eli/oc/2024/176), [497](https://fedlex.data.admin.ch/eli/oc/2024/497)). Die bereinigten Anlagen können auf der Internetseite: [www.gesetze.li](http://www.gesetze.li) &gt; LR-Nr. 170.551.748 konsultiert werden.
