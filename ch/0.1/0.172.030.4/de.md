@@ -3,11 +3,11 @@ sr: "0.172.030.4"
 title: Übereinkommen vom 5. Oktober 1961 zur Befreiung ausländischer öffentlicher Urkunden von der Beglaubigung (mit Anlage und Verzeichnissen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1973/348_347_349"
 language: de
-version: 2021-07-06
+version: 2024-09-04
 adopted: 1961-10-05
 in_force: 1973-03-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/348_347_349/20210706/de/xml/fedlex-data-admin-ch-eli-cc-1973-348_347_349-20210706-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1973/348_347_349/20210706/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1973/348_347_349/20240904/de/xml/fedlex-data-admin-ch-eli-cc-1973-348_347_349-20240904-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1973/348_347_349/20240904/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1973** 348; BBl **1971** II 405
 
 Abgeschlossen in Den Haag am 5. Oktober 1961 Von der Bundesversammlung genehmigt am 27. April 1972[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 10. Januar 1973 In Kraft getreten für die Schweiz am 11. März 1973
 
-(Stand am 6. Juli 2021)
+(Stand am 4. September 2024)
 
 [^t-1]: Art. 1 Abs. 1 des BB vom 27. April 1972 ([AS 1973 347](https://fedlex.data.admin.ch/eli/oc/1973/347_346_348))
 
@@ -171,7 +171,7 @@ Die Apostille soll die Form eines Quadrats mit Seiten von mindestens 9 Zentimete
 
 [^annexu1-lvlu2-1]
 
-[^annexu1-lvlu2-1]: [AS 2018 1257](https://fedlex.data.admin.ch/eli/oc/2018/205)
+[^annexu1-lvlu2-1]: Aktualisiert am 4. Sept. 2024 ([AS 2024 487](https://fedlex.data.admin.ch/eli/oc/2024/487)).
 
 ### A. Behörde der Eidgenossenschaft:
 
@@ -185,72 +185,79 @@ Gurtengasse 5
 
 Tel. +41 58 462 37 69
 
-Fax +41 58 463 19 16
+Email: legalisation@bk.admin.ch
 
 ### B. Kantonale Behörden:
 
-www.bk.admin.ch/bk/de/home/service/legalisationen.html
+[www.bk.admin.ch/bk/de/home/service/legalisationen.html](http://www.bk.admin.ch/bk/de/home/service/legalisationen.html)
 
-## Übersicht über die ausländischen Behörden, die in den einzelnen Vertragsstaaten zuständig sind, die Apostille nach Artikel 3 Absatz 1 des Übereinkommens auszustellen****
+## Übersicht über die ausländischen Behörden, die in den einzelnen Vertragsstaaten zuständig sind, die Apostille nach Artikel 3 Absatz 1 des Übereinkommens auszustellen
 
 [^annexu1-lvlu3-1]
 
-[^annexu1-lvlu3-1]: Die Übersicht über die ausländischen Behörden wird weder in der AS noch der SR veröffentlicht (s. [AS 2011 4609](https://fedlex.data.admin.ch/eli/oc/2011/657)). Die französische und englische Übersicht kann auf der Internetseite der Haager Konferenz: http://hcch.e-vision.nl/index\_fr.php?act=conventions.authorities&cid=41 eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.
+[^annexu1-lvlu3-1]: Die Übersicht über die ausländischen Behörden wird in der AS nicht publiziert. Sie kann auf der Internetseite des Depositars: [https://treatydatabase.overheid.nl/en/Treaty/Details/009051\_du.html](https://treatydatabase.overheid.nl/en/Treaty/Details/009051_du.html) eingesehen werden.
 
-Geltungsbereich am 6. Juli 2021**[^t-2]**
+Geltungsbereich am 4. September 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
-<tr><td>Albanien <sup>a</sup></td><td>3. September</td><td>2003 B</td><td>9. Mai</td><td>2004</td></tr>
+<tr><td>Albanien</td><td>3. September</td><td>2003 B</td><td>9. Mai</td><td>2004</td></tr>
 <tr><td>Andorra</td><td>15. April</td><td>1996 B</td><td>31. Dezember</td><td>1996</td></tr>
-<tr><td>Antigua und Barbuda</td><td>17. Mai</td><td>1985 N</td><td>1. November</td><td>1981</td></tr>
+<tr><td>Antigua und Barbuda</td><td>1. Mai</td><td>1985 N</td><td>1. November</td><td>1981</td></tr>
 <tr><td>Argentinien\*</td><td>8. Mai</td><td>1987 B</td><td>18. Februar</td><td>1988</td></tr>
 <tr><td>Armenien</td><td>19. November</td><td>1993 B</td><td>14. August</td><td>1994</td></tr>
-<tr><td>Aserbaidschan <sup>b</sup></td><td>13. Mai</td><td>2004 B</td><td>2. März</td><td>2005</td></tr>
-<tr><td>Australien\*</td><td>11. Juli</td><td>1994 B</td><td>16. März</td><td>1995</td></tr>
+<tr><td>Aserbaidschan</td><td>13. Mai</td><td>2004 B</td><td>2. März</td><td>2005</td></tr>
+<tr><td>Australien</td><td>11. Juli</td><td>1994 B</td><td>16. März</td><td>1995</td></tr>
+<tr><td>Ashmore- und Cartier-Inseln</td><td>11. Juli</td><td>1994</td><td>16. März</td><td>1995</td></tr>
+<tr><td>Australisches Antarktis- Territorium</td><td>11. Juli</td><td>1994</td><td>16. März</td><td>1995</td></tr>
+<tr><td>Kokos-Inseln</td><td>11. Juli</td><td>1994</td><td>16. März</td><td>1995</td></tr>
+<tr><td>Korallensee-Territorium</td><td>11. Juli</td><td>1994</td><td>16. März</td><td>1995</td></tr>
+<tr><td>Norfolk-Insel</td><td>11. Juli</td><td>1994</td><td>16. März</td><td>1995</td></tr>
+<tr><td>Territorium der Insel Heard und der McDonald-Inseln</td><td>11. Juli</td><td>1994</td><td>16. März</td><td>1995</td></tr>
+<tr><td>Weihnachts-Insel</td><td>11. Juli</td><td>1994</td><td>16. März</td><td>1995</td></tr>
 <tr><td>Bahamas</td><td>10. Mai</td><td>1976 N</td><td>10. Juli</td><td>1973</td></tr>
 <tr><td>Bahrain\*</td><td>10. April</td><td>2013 B</td><td>31. Dezember</td><td>2013</td></tr>
+<tr><td>Bangladesch</td><td>29. Juli</td><td>2024 B</td><td>30. März</td><td>2025</td></tr>
 <tr><td>Barbados</td><td>30. August</td><td>1995 N</td><td>30. November</td><td>1966</td></tr>
-<tr><td>Belarus</td><td>16. Juni</td><td>1992 N</td><td>31. Mai</td><td>1992</td></tr>
+<tr><td>Belarus\*</td><td>16. Juni</td><td>1992 N</td><td>31. Mai</td><td>1992</td></tr>
 <tr><td>Belgien</td><td>11. Dezember</td><td>1975</td><td>9. Februar</td><td>1976</td></tr>
 <tr><td>Belize</td><td>17. Juli</td><td>1992 B</td><td>11. April</td><td>1993</td></tr>
 <tr><td>Bolivien</td><td>6. September</td><td>2017 B</td><td>7. Mai</td><td>2018</td></tr>
-<tr><td>Bosnien und Herzegowina\*</td><td>1. Oktober</td><td>1993 N</td><td>6. März</td><td>1992</td></tr>
+<tr><td>Bosnien und Herzegowina\*</td><td>23. August</td><td>1993 N</td><td>6. März</td><td>1992</td></tr>
 <tr><td>Botsuana</td><td>16. September</td><td>1968 N</td><td>30. September</td><td>1966</td></tr>
 <tr><td>Brasilien\*</td><td>2. Dezember</td><td>2015 B</td><td>14. August</td><td>2016</td></tr>
 <tr><td>Brunei</td><td>23. Februar</td><td>1987 B</td><td>3. Dezember</td><td>1987</td></tr>
 <tr><td>Bulgarien</td><td>1. August</td><td>2000 B</td><td>29. April</td><td>2001</td></tr>
-<tr><td>Burundi <sup>c</sup></td><td>10. Juni</td><td>2014 B</td><td>13. Februar</td><td>2015</td></tr>
-<tr><td>Chile</td><td>16. Dezember</td><td>2015 B</td><td>30. August</td><td>2016</td></tr>
-<tr><td>China\*</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Hongkong <sup>d</sup> \*</td><td>12. Juni</td><td>1985</td><td>1. Juli</td><td>1997</td></tr>
-<tr><td>Macau <sup>e</sup></td><td>10. Dezember</td><td>1999</td><td>20. Dezember</td><td>1999</td></tr>
+<tr><td>Burundi</td><td>10. Juni</td><td>2014 B</td><td>13. Februar</td><td>2015</td></tr>
+<tr><td>Chile\*</td><td>16. Dezember</td><td>2015 B</td><td>30. August</td><td>2016</td></tr>
+<tr><td>China\*</td><td>8. März</td><td>2023 B</td><td>7. November</td><td>2023</td></tr>
+<tr><td>Hongkong\*</td><td>16. Juni</td><td>1997</td><td>1. Juli</td><td>1997</td></tr>
+<tr><td>Macau</td><td>10. Dezember</td><td>1999</td><td>20. Dezember</td><td>1999</td></tr>
 <tr><td>Cook-Inseln</td><td>13. Juli</td><td>2004 B</td><td>30. April</td><td>2005</td></tr>
 <tr><td>Costa Rica</td><td>6. April</td><td>2011 B</td><td>14. Dezember</td><td>2011</td></tr>
-<tr><td>Dänemark <sup>f</sup></td><td>30. Oktober</td><td>2006</td><td>29. Dezember</td><td>2006</td></tr>
-<tr><td>Deutschland\*</td><td>15. Dezember</td><td>1965</td><td>13. Februar</td><td>1966</td></tr>
+<tr><td>Deutschland\* \*\*</td><td>15. Dezember</td><td>1965</td><td>13. Februar</td><td>1966</td></tr>
 <tr><td>Dominica</td><td>22. Oktober</td><td>2002 N</td><td>3. November</td><td>1978</td></tr>
-<tr><td>Dominikanische Republik <sup>g</sup></td><td>12. Dezember</td><td>2008 B</td><td>30. August</td><td>2009</td></tr>
+<tr><td>Dominikanische Republik</td><td>12. Dezember</td><td>2008 B</td><td>30. August</td><td>2009</td></tr>
+<tr><td>Dänemark <sup>a</sup></td><td>30. Oktober</td><td>2006</td><td>29. Dezember</td><td>2006</td></tr>
+<tr><td>Färöer</td><td>14. Oktober</td><td>2021</td><td>13. Dezember</td><td>2021</td></tr>
 <tr><td>Ecuador\*</td><td>2. Juli</td><td>2004 B</td><td>2. April</td><td>2005</td></tr>
 <tr><td>El Salvador</td><td>14. September</td><td>1995 B</td><td>31. Mai</td><td>1996</td></tr>
 <tr><td>Estland\*</td><td>11. Dezember</td><td>2000 B</td><td>30. September</td><td>2001</td></tr>
-<tr><td>Eswatini</td><td>17. Juli</td><td>1978 N</td><td>6. September</td><td>1968</td></tr>
+<tr><td>Eswatini</td><td>3. Juli</td><td>1978 N</td><td>6. September</td><td>1968</td></tr>
 <tr><td>Fidschi</td><td>29. März</td><td>1971 N</td><td>10. Oktober</td><td>1970</td></tr>
 <tr><td>Finnland\*</td><td>27. Juni</td><td>1985</td><td>26. August</td><td>1985</td></tr>
-<tr><td>Frankreich\*</td><td>25. November</td><td>1964</td><td>24. Januar</td><td>1965</td></tr>
-<tr><td>Französische Süd- und Antarktisgebiete</td><td>25. November</td><td>1964</td><td>24. Januar</td><td>1965</td></tr>
+<tr><td>Frankreich\* \*\*</td><td>25. November</td><td>1964</td><td>24. Januar</td><td>1965</td></tr>
 <tr><td>Französisch Guyana</td><td>25. November</td><td>1964</td><td>24. Januar</td><td>1965</td></tr>
 <tr><td>Französisch Polynesien</td><td>25. November</td><td>1964</td><td>24. Januar</td><td>1965</td></tr>
+<tr><td>Französische Süd- und Antarktisgebiete</td><td>25. November</td><td>1964</td><td>24. Januar</td><td>1965</td></tr>
 <tr><td>Guadeloupe</td><td>25. November</td><td>1964</td><td>24. Januar</td><td>1965</td></tr>
-<tr><td>Komoren <sup>h</sup></td><td>25. November</td><td>1964 B</td><td>24. Januar</td><td>1965</td></tr>
 <tr><td>Martinique</td><td>25. November</td><td>1964</td><td>24. Januar</td><td>1965</td></tr>
 <tr><td>Mayotte</td><td>25. November</td><td>1964</td><td>24. Januar</td><td>1965</td></tr>
 <tr><td>Neukaledonien</td><td>25. November</td><td>1964</td><td>24. Januar</td><td>1965</td></tr>
 <tr><td>Réunion</td><td>25. November</td><td>1964</td><td>24. Januar</td><td>1965</td></tr>
 <tr><td>Saint-Barthélemy</td><td>25. November</td><td>1964</td><td>24. Januar</td><td>1965</td></tr>
-<tr><td>Saint-Martin</td><td>25. November</td><td>1964</td><td>24. Januar</td><td>1965</td></tr>
+<tr><td>St. Martin</td><td>25. November</td><td>1964</td><td>24. Januar</td><td>1965</td></tr>
 <tr><td>St. Pierre und Miquelon</td><td>25. November</td><td>1964</td><td>24. Januar</td><td>1965</td></tr>
-<tr><td>Territorium Französische Somaliküste (auch Französisches Afar- und Issa-Territorium oder Dschibuti) <sup>h</sup></td><td>25. November</td><td>1964 B</td><td>24. Januar</td><td>1965</td></tr>
 <tr><td>Wallis und Futuna</td><td>25. November</td><td>1964</td><td>24. Januar</td><td>1965</td></tr>
 <tr><td>Georgien\*</td><td>21. August</td><td>2006 B</td><td>14. Mai</td><td>2007</td></tr>
 <tr><td>Grenada</td><td>17. Juli</td><td>2001 B</td><td>7. April</td><td>2002</td></tr>
@@ -258,118 +265,118 @@ Geltungsbereich am 6. Juli 2021**[^t-2]**
 <tr><td>Guatemala\*</td><td>19. Januar</td><td>2017 B</td><td>18. September</td><td>2017</td></tr>
 <tr><td>Guyana</td><td>30. Juli</td><td>2018 B</td><td>18. April</td><td>2019</td></tr>
 <tr><td>Honduras</td><td>20. Januar</td><td>2004 B</td><td>30. September</td><td>2004</td></tr>
-<tr><td>Indien <sup>i</sup></td><td>26. Oktober</td><td>2004 B</td><td>14. Juli</td><td>2005</td></tr>
+<tr><td>Indien</td><td>26. Oktober</td><td>2004 B</td><td>14. Juni</td><td>2005</td></tr>
+<tr><td>Indonesien\*</td><td>5. Oktober</td><td>2021 B</td><td>4. Juni</td><td>2022</td></tr>
 <tr><td>Irland</td><td>8. Januar</td><td>1999</td><td>9. März</td><td>1999</td></tr>
 <tr><td>Island</td><td>28. September</td><td>2004</td><td>27. November</td><td>2004</td></tr>
 <tr><td>Israel</td><td>11. November</td><td>1977 B</td><td>14. August</td><td>1978</td></tr>
 <tr><td>Italien</td><td>13. Dezember</td><td>1977</td><td>11. Februar</td><td>1978</td></tr>
 <tr><td>Jamaika</td><td>2. November</td><td>2020 B</td><td>3. Juli</td><td>2021</td></tr>
 <tr><td>Japan</td><td>28. Mai</td><td>1970</td><td>27. Juli</td><td>1970</td></tr>
+<tr><td>Kanada</td><td>12. Mai</td><td>2023 B</td><td>11. Januar</td><td>2024</td></tr>
 <tr><td>Kap Verde</td><td>7. Mai</td><td>2009 B</td><td>13. Februar</td><td>2010</td></tr>
 <tr><td>Kasachstan\*</td><td>5. April</td><td>2000 B</td><td>30. Januar</td><td>2001</td></tr>
-<tr><td>Kirgisistan <sup>j</sup></td><td>15. November</td><td>2010 B</td><td>31. Juli</td><td>2011</td></tr>
+<tr><td>Kirgisistan</td><td>15. November</td><td>2010 B</td><td>31. Juli</td><td>2011</td></tr>
 <tr><td>Kolumbien\*</td><td>27. April</td><td>2000 B</td><td>30. Januar</td><td>2001</td></tr>
 <tr><td>Korea (Süd-)</td><td>25. Oktober</td><td>2006 B</td><td>14. Juli</td><td>2007</td></tr>
-<tr><td>Kosovo\* <sup>k</sup></td><td>6. November</td><td>2015 B</td><td>14. Juli</td><td>2016</td></tr>
-<tr><td>Kroatien</td><td>23. April</td><td>1993 N</td><td>7. Oktober</td><td>1991</td></tr>
+<tr><td>Kosovo\*</td><td>6. November</td><td>2015 B</td><td>14. Juli</td><td>2016</td></tr>
+<tr><td>Kroatien</td><td>23. April</td><td>1993 N</td><td>8. Oktober</td><td>1991</td></tr>
 <tr><td>Lesotho</td><td>24. April</td><td>1972 N</td><td>4. Oktober</td><td>1966</td></tr>
-<tr><td>Lettland</td><td>11. Mai</td><td>1995 B</td><td>30. Januar</td><td>1996</td></tr>
-<tr><td>Liberia <sup>l</sup></td><td>24. Mai</td><td>1995 B</td><td>8. Februar</td><td>1996</td></tr>
+<tr><td>Lettland\*</td><td>11. Mai</td><td>1995 B</td><td>30. Januar</td><td>1996</td></tr>
+<tr><td>Liberia</td><td>24. Mai</td><td>1995 B</td><td>8. Februar</td><td>1996</td></tr>
 <tr><td>Liechtenstein</td><td>19. Juli</td><td>1972</td><td>17. September</td><td>1972</td></tr>
 <tr><td>Litauen\*</td><td>5. November</td><td>1996 B</td><td>19. Juli</td><td>1997</td></tr>
 <tr><td>Luxemburg</td><td>4. April</td><td>1979</td><td>3. Juni</td><td>1979</td></tr>
-<tr><td>Malawi</td><td>24. Februar</td><td>1967 B</td><td>2. Dezember</td><td>1967</td></tr>
-<tr><td>Malta</td><td>12. Juni</td><td>1967 B</td><td>3. März</td><td>1968</td></tr>
+<tr><td>Malawi</td><td>24. Februar</td><td>1967 B</td><td>1. Dezember</td><td>1967</td></tr>
+<tr><td>Malta</td><td>12. Juni</td><td>1967 B</td><td>2. März</td><td>1968</td></tr>
+<tr><td>Marokko</td><td>27. November</td><td>2015 B</td><td>14. August</td><td>2016</td></tr>
 <tr><td>Marshallinseln</td><td>18. November</td><td>1991 B</td><td>14. August</td><td>1992</td></tr>
-<tr><td>Marokko <sup>m</sup></td><td>27. November</td><td>2015 B</td><td>14. August</td><td>2016</td></tr>
 <tr><td>Mauritius</td><td>20. Dezember</td><td>1968 N</td><td>12. März</td><td>1968</td></tr>
 <tr><td>Mexiko</td><td>1. Dezember</td><td>1994 B</td><td>14. August</td><td>1995</td></tr>
-<tr><td>Moldau <sup>n</sup></td><td>19. Juni</td><td>2006 B</td><td>16. März</td><td>2007</td></tr>
-<tr><td>Monaco</td><td>24. April</td><td>2002 B</td><td>1. November</td><td>2002</td></tr>
-<tr><td>Mongolei <sup>o</sup></td><td>2. April</td><td>2009 B</td><td>31. Dezember</td><td>2009</td></tr>
+<tr><td>Moldau</td><td>19. Juni</td><td>2006 B</td><td>16. März</td><td>2007</td></tr>
+<tr><td>Monaco</td><td>24. April</td><td>2002 B</td><td>31. Dezember</td><td>2002</td></tr>
+<tr><td>Mongolei</td><td>2. April</td><td>2009 B</td><td>31. Dezember</td><td>2009</td></tr>
 <tr><td>Montenegro</td><td>30. Januar</td><td>2007 N</td><td>3. Juni</td><td>2006</td></tr>
 <tr><td>Namibia</td><td>25. April</td><td>2000 B</td><td>30. Januar</td><td>2001</td></tr>
-<tr><td>Neuseeland\*</td><td>7. Februar</td><td>2001 B</td><td>22. November</td><td>2001</td></tr>
+<tr><td>Neuseeland <sup>b</sup></td><td>7. Februar</td><td>2001 B</td><td>22. November</td><td>2001</td></tr>
 <tr><td>Nicaragua</td><td>7. September</td><td>2012 B</td><td>14. Mai</td><td>2013</td></tr>
-<tr><td>Niederlande</td><td>9. August</td><td>1965</td><td>8. Oktober</td><td>1965</td></tr>
-<tr><td>Aruba</td><td>1. März</td><td>1967 B</td><td>30. April</td><td>1967</td></tr>
-<tr><td>Curaçao</td><td>1. März</td><td>1967 B</td><td>30. April</td><td>1967</td></tr>
-<tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>1. März</td><td>1967 B</td><td>30. April</td><td>1967</td></tr>
-<tr><td>Sint Maarten</td><td>1. März</td><td>1967 B</td><td>30. April</td><td>1967</td></tr>
+<tr><td>Niederlande\*\*</td><td>9. August</td><td>1965</td><td>8. Oktober</td><td>1965</td></tr>
+<tr><td>Aruba</td><td>1. März</td><td>1967</td><td>30. April</td><td>1967</td></tr>
+<tr><td>Curaçao</td><td>1. März</td><td>1967</td><td>30. April</td><td>1967</td></tr>
+<tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>1. März</td><td>1967</td><td>30. April</td><td>1967</td></tr>
+<tr><td>Sint Maarten</td><td>1. März</td><td>1967</td><td>30. April</td><td>1967</td></tr>
 <tr><td>Niue</td><td>10. Juni</td><td>1998 B</td><td>2. März</td><td>1999</td></tr>
-<tr><td>Nordmazedonien</td><td>23. September</td><td>1993 N</td><td>17. September</td><td>1991</td></tr>
+<tr><td>Nordmazedonien</td><td>23. September</td><td>1993 N</td><td>17. November</td><td>1991</td></tr>
 <tr><td>Norwegen</td><td>30. Mai</td><td>1983</td><td>29. Juli</td><td>1983</td></tr>
 <tr><td>Oman\*</td><td>12. Mai</td><td>2011 B</td><td>30. Januar</td><td>2012</td></tr>
 <tr><td>Österreich\*</td><td>14. November</td><td>1967</td><td>13. Januar</td><td>1968</td></tr>
+<tr><td>Pakistan\*</td><td>8. Juli</td><td>2022 B</td><td>9. März</td><td>2023</td></tr>
 <tr><td>Palau</td><td>17. Oktober</td><td>2019 B</td><td>23. Juni</td><td>2020</td></tr>
 <tr><td>Panama</td><td>30. Oktober</td><td>1990 B</td><td>4. August</td><td>1991</td></tr>
-<tr><td>Paraguay <sup>p</sup></td><td>10. Dezember</td><td>2013 B</td><td>30. August</td><td>2014</td></tr>
-<tr><td>Peru <sup>q</sup></td><td>13. Januar</td><td>2010 B</td><td>30. September</td><td>2010</td></tr>
-<tr><td>Philippinen\* <sup>r</sup></td><td>12. September</td><td>2018 B</td><td>14. Mai</td><td>2019</td></tr>
-<tr><td>Polen</td><td>17. November</td><td>2004 B</td><td>14. August</td><td>2005</td></tr>
+<tr><td>Paraguay</td><td>10. Dezember</td><td>2013 B</td><td>30. August</td><td>2014</td></tr>
+<tr><td>Peru</td><td>13. Januar</td><td>2010 B</td><td>30. September</td><td>2010</td></tr>
+<tr><td>Philippinen\*</td><td>12. September</td><td>2018 B</td><td>14. Mai</td><td>2019</td></tr>
+<tr><td>Polen\*</td><td>17. November</td><td>2004 B</td><td>14. August</td><td>2005</td></tr>
 <tr><td>Portugal\*</td><td>6. Dezember</td><td>1968</td><td>4. Februar</td><td>1969</td></tr>
+<tr><td>Portugiesische Gebiete</td><td>22. Oktober</td><td>1969</td><td>21. Dezember</td><td>1969</td></tr>
+<tr><td>Ruanda\*</td><td>6. Oktober</td><td>2023 B</td><td>5. Juni</td><td>2024</td></tr>
 <tr><td>Rumänien\*</td><td>7. Juni</td><td>2000 B</td><td>16. März</td><td>2001</td></tr>
 <tr><td>Russland\*</td><td>4. September</td><td>1991 B</td><td>31. Mai</td><td>1992</td></tr>
 <tr><td>Samoa</td><td>18. Januar</td><td>1999 B</td><td>13. September</td><td>1999</td></tr>
 <tr><td>San Marino</td><td>26. Mai</td><td>1994 B</td><td>13. Februar</td><td>1995</td></tr>
-<tr><td>São Tomé und Príncipe</td><td>19. Dezember</td><td>2007 B</td><td>13. September</td><td>2008</td></tr>
+<tr><td>Saudi-Arabien</td><td>8. April</td><td>2022 B</td><td>7. Dezember</td><td>2022</td></tr>
 <tr><td>Schweden</td><td>2. März</td><td>1999</td><td>1. Mai</td><td>1999</td></tr>
 <tr><td>Schweiz\*</td><td>10. Januar</td><td>1973</td><td>11. März</td><td>1973</td></tr>
+<tr><td>Senegal</td><td>13. Juli</td><td>2022 B</td><td>23. März</td><td>2023</td></tr>
 <tr><td>Serbien\*</td><td>26. April</td><td>2001 N</td><td>24. Januar</td><td>1965</td></tr>
 <tr><td>Seychellen</td><td>9. Juni</td><td>1978 B</td><td>31. März</td><td>1979</td></tr>
+<tr><td>Singapur</td><td>18. Januar</td><td>2021 B</td><td>16. September</td><td>2021</td></tr>
 <tr><td>Slowakei</td><td>6. Juni</td><td>2001 B</td><td>18. Februar</td><td>2002</td></tr>
 <tr><td>Slowenien</td><td>8. Juni</td><td>1992 N</td><td>25. Juni</td><td>1991</td></tr>
 <tr><td>Spanien\*</td><td>27. Juli</td><td>1978</td><td>25. September</td><td>1978</td></tr>
 <tr><td>St. Kitts und Nevis</td><td>26. Februar</td><td>1994 B</td><td>14. Dezember</td><td>1994</td></tr>
-<tr><td>St. Lucia</td><td>5. Dezember</td><td>2001 B</td><td>7. April</td><td>2002</td></tr>
-<tr><td>St. Vincent und die Grenadinen</td><td>2. Mai</td><td>2002 N</td><td>25. April</td><td>1965</td></tr>
+<tr><td>St. Lucia</td><td>5. Dezember</td><td>2001 B</td><td>31. Juli</td><td>2002</td></tr>
+<tr><td>St. Vincent und die Grenadinen</td><td>2. Mai</td><td>2002 N</td><td>27. Oktober</td><td>1979</td></tr>
+<tr><td>Suriname</td><td>29. Oktober</td><td>1976 N</td><td>25. November</td><td>1975</td></tr>
+<tr><td>São Tomé und Príncipe</td><td>19. Dezember</td><td>2007 B</td><td>13. September</td><td>2008</td></tr>
 <tr><td>Südafrika</td><td>3. August</td><td>1994 B</td><td>30. April</td><td>1995</td></tr>
-<tr><td>Suriname</td><td>11. November</td><td>1976 N</td><td>25. November</td><td>1975</td></tr>
-<tr><td>Tadschikistan <sup>s</sup></td><td>20. Februar</td><td>2015 B</td><td>31. Oktober</td><td>2015</td></tr>
+<tr><td>Tadschikistan</td><td>20. Februar</td><td>2015 B</td><td>31. Oktober</td><td>2015</td></tr>
 <tr><td>Tonga\*</td><td>28. Oktober</td><td>1971 N</td><td>4. Juni</td><td>1970</td></tr>
 <tr><td>Trinidad und Tobago</td><td>28. Oktober</td><td>1999 B</td><td>14. Juli</td><td>2000</td></tr>
 <tr><td>Tschechische Republik</td><td>23. Juni</td><td>1998 B</td><td>16. März</td><td>1999</td></tr>
-<tr><td>Tunesien <sup>t</sup></td><td>10. Juli</td><td>2017 B</td><td>30. März</td><td>2018</td></tr>
+<tr><td>Tunesien</td><td>10. Juli</td><td>2017 B</td><td>30. März</td><td>2018</td></tr>
 <tr><td>Türkei</td><td>31. Juli</td><td>1985</td><td>29. September</td><td>1985</td></tr>
 <tr><td>Ukraine\*</td><td>2. April</td><td>2003 B</td><td>22. Dezember</td><td>2003</td></tr>
 <tr><td>Ungarn\*</td><td>18. April</td><td>1972 B</td><td>18. Januar</td><td>1973</td></tr>
 <tr><td>Uruguay</td><td>9. Februar</td><td>2012 B</td><td>14. Oktober</td><td>2012</td></tr>
-<tr><td>Usbekistan <sup>u</sup></td><td>25. Juli</td><td>2011 B</td><td>15. April</td><td>2012</td></tr>
+<tr><td>Usbekistan</td><td>25. Juli</td><td>2011 B</td><td>15. April</td><td>2012</td></tr>
 <tr><td>Vanuatu</td><td>1. August</td><td>2008 N</td><td>30. Juli</td><td>1980</td></tr>
 <tr><td>Venezuela</td><td>1. Juli</td><td>1998 B</td><td>16. März</td><td>1999</td></tr>
 <tr><td>Vereinigte Staaten\*</td><td>24. Dezember</td><td>1980 B</td><td>15. Oktober</td><td>1981</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>21. August</td><td>1964</td><td>24. Januar</td><td>1965</td></tr>
-<tr><td>Anguilla</td><td>24. Februar</td><td>1965 B</td><td>25. April</td><td>1965</td></tr>
-<tr><td>Bermudas</td><td>24. Februar</td><td>1965 B</td><td>25. April</td><td>1965</td></tr>
-<tr><td>Britische Jungferninseln</td><td>24. Februar</td><td>1965 B</td><td>25. April</td><td>1965</td></tr>
-<tr><td>Britische Salomon-Inseln <sup>h</sup></td><td>24. Februar</td><td>1965 B</td><td>25. April</td><td>1965</td></tr>
-<tr><td>Britisches Antarktis-Territorium</td><td>24. Februar</td><td>1965 B</td><td>25. April</td><td>1965</td></tr>
-<tr><td>Britisch-Guayana <sup>h</sup></td><td>24. Februar</td><td>1965 B</td><td>25. April</td><td>1965</td></tr>
-<tr><td>Falklandinseln</td><td>24. Februar</td><td>1965 B</td><td>25. April</td><td>1965</td></tr>
-<tr><td>Gibraltar <sup>v</sup></td><td>24. Februar</td><td>1965 B</td><td>25. April</td><td>1965</td></tr>
-<tr><td>Gilbert- und Ellice-Inseln <sup>h</sup></td><td>24. Februar</td><td>1965 B</td><td>25. April</td><td>1965</td></tr>
-<tr><td>Guernsey</td><td>21. August</td><td>1964 B</td><td>24. Januar</td><td>1965</td></tr>
-<tr><td>Insel Man</td><td>21. August</td><td>1964 B</td><td>24. Januar</td><td>1965</td></tr>
-<tr><td>Jersey</td><td>21. August</td><td>1964 B</td><td>24. Januar</td><td>1965</td></tr>
-<tr><td>Kaimaninseln</td><td>24. Februar</td><td>1965 B</td><td>25. April</td><td>1965</td></tr>
-<tr><td>Montserrat</td><td>24. Februar</td><td>1965 B</td><td>25. April</td><td>1965</td></tr>
-<tr><td>St. Helena und Nebengebiete (Ascension und Tristan da Cunha)</td><td>24. Februar</td><td>1965 B</td><td>25. April</td><td>1965</td></tr>
-<tr><td>Süd-Rhodesien <sup>h</sup></td><td>24. Februar</td><td>1965 B</td><td>25. April</td><td>1965</td></tr>
-<tr><td>Turks- und Caicosinseln</td><td>24. Februar</td><td>1965 B</td><td>25. April</td><td>1965</td></tr>
+<tr><td>Anguilla</td><td>24. Februar</td><td>1965</td><td>25. April</td><td>1965</td></tr>
+<tr><td>Bermudas</td><td>24. Februar</td><td>1965</td><td>25. April</td><td>1965</td></tr>
+<tr><td>Britische Jungferninseln</td><td>24. Februar</td><td>1965</td><td>25. April</td><td>1965</td></tr>
+<tr><td>Britisches Antarktis-Territorium</td><td>24. Februar</td><td>1965</td><td>25. April</td><td>1965</td></tr>
+<tr><td>Falklandinseln</td><td>24. Februar</td><td>1965</td><td>25. April</td><td>1965</td></tr>
+<tr><td>Gibraltar</td><td>24. Februar</td><td>1965</td><td>25. April</td><td>1965</td></tr>
+<tr><td>Guernsey</td><td>21. August</td><td>1964</td><td>24. Januar</td><td>1965</td></tr>
+<tr><td>Insel Man</td><td>21. August</td><td>1964</td><td>24. Januar</td><td>1965</td></tr>
+<tr><td>Jersey</td><td>21. August</td><td>1964</td><td>24. Januar</td><td>1965</td></tr>
+<tr><td>Kaimaninseln</td><td>24. Februar</td><td>1965</td><td>25. April</td><td>1965</td></tr>
+<tr><td>Montserrat</td><td>24. Februar</td><td>1965</td><td>25. April</td><td>1965</td></tr>
+<tr><td>St. Helena und Nebengebiete (Ascension und Tristan da Cunha)</td><td>24. Februar</td><td>1965</td><td>25. April</td><td>1965</td></tr>
+<tr><td>Turks- und Caicosinseln</td><td>24. Februar</td><td>1965</td><td>25. April</td><td>1965</td></tr>
 <tr><td>Zypern</td><td>26. Juli</td><td>1972 B</td><td>30. April</td><td>1973</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Haager Konferenz: www.hcch.net/de/instruments/conventions/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Der Beitritt Albaniens wurde durch Griechenland nicht angenommen. <sup>b</sup> Der Beitritt Aserbaidschans wurde durch Deutschland nicht angenommen. <sup>c</sup> Der Beitritt Burundis wurde durch Deutschland, Österreich, Polen und Tschechische Republik nicht angenommen.</td></tr>
-<tr><td colspan="5"><sup>d</sup> Vom 25. April 1965 bis zum 30. Juni 1997 war das Übereinkommen aufgrund einer Ausdehnungserklärung Grossbritanniens in Hong Kong anwendbar. Seit dem 1. Juli 1997 bildet Hong Kong eine besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 12. Juni 1985 ist das Übereinkommen seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar. <sup>e</sup> Vom 4. Februar 1969 bis zum 19. Dezember 1999 war das Übereinkommen auf Grund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dezember 1999 bildet Macau eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 10. Dezember 1999 ist das Übereinkommen seit dem 20. Dezember 1999 auch in der SAR Macau anwendbar.</td></tr>
-<tr><td colspan="5"><sup>f</sup> Das Übereinkommen gilt nicht für die Färöer-Insel und Grönland. <sup>g</sup> Der Beitritt der Dominikanischen Republik wurde durch Deutschland und Österreich nicht angenommen. <sup>h</sup> Dieses Land ist unabhängig geworden. Es wurde keine Erklärung zu der Frage abgegeben, ob das Übereinkommen auch weiterhin in Kraft bleibt. Datum der Unabhängigkeitserklärung: Frankreich-Komoren wurde zur Komoren (6. Juli 1975); Frankreich-Territorium Französische Somaliküste (auch Französisches Afar- und Issa-Territorium oder Dschibuti) wurde zu Dschibuti (27. Juni 1977); Britisch-Guyana wurde zur Republik Guyana (26. Mai 1966); die britischen Salomon-Inseln wurden zu den Salomon-Inseln (7. Juli 1978); die Gilbert- und Ellice- Inseln wurden zur Republik Kiribati (12. Juli 1979) beziehungsweise zu Tuvalu (1. Oktober 1978); Süd-Rhodesien wurde zur Republik Zimbabwe (18. April 1980).</td></tr>
-<tr><td colspan="5"><sup>i</sup> Der Beitritt Indiens wurde durch Deutschland nicht angenommen. <sup>j</sup> Der Beitritt Kirgisistans wurde durch Belgien, Deutschland, Österreich und Griechenland nicht angenommen. <sup>k</sup> Der Beitritt Kosovos wurde durch Deutschland, Argentinien, Armenien, Österreich, Aserbaidschan, Belarus, Brasilien, Chile, China (Hong Kong und Macao), Zypern, Georgien, Griechenland, Indien, Israel, Mauritius, Mexiko, Moldau, Namibia, Nicaragua, Usbekistan, Paraguay, Peru, Polen, Rumänien, Serbien, Slowakei, Ukraine, Venezuela und Vereinigte Staaten nicht angenommen. <sup>l</sup> Der Beitritt Liberias wurde durch Belgien und Deutschland nicht angenommen. <sup>m</sup> Der Beitritt Marokkos wurde durch Deutschland nicht angenommen. <sup>n</sup> Der Beitritt Moldaus wurde durch Deutschland nicht angenommen. <sup>o</sup> Der Beitritt der Mongolei wurde durch Österreich, Belgien, Deutschland, Finnland und Griechenland nicht angenommen. <sup>p</sup> Der Beitritt Paraguays wurde durch Deutschland nicht angenommen. <sup>q</sup> Der Beitritt Perus wurde durch Griechenland nicht angenommen. <sup>r</sup> Der Beitritt der Philippinen wurde durch Österreich, Deutschland, Finnland und Griechenland nicht angenommen. <sup>s</sup> Der Beitritt Tadschikistans wurde durch Österreich, Belgien und Deutschland nicht angenommen. <sup>t</sup> Der Beitritt Tunesiens wurde durch Belgien, Deutschland, Griechenland und Österreich nicht angenommen. <sup>u</sup> Der Beitritt Usbekistans wurde durch Belgien, Deutschland, Österreich und Griechenland nicht angenommen. <sup>v</sup> Der Beitritt Gibraltars wurde durch Spanien nicht angenommen.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die englischen Texte können auf der Internetseite des Depositars, des Ministeriums für Auswärtige Angelegenheiten des Königreichs der Niederlande: [https://treatydatabase.overheid.nl/en/Treaty/Details/009051.html](https://treatydatabase.overheid.nl/en/Treaty/Details/009051.html) eingesehen oder bei der Direktion für Völkerrecht (DV), Sektion Staatsverträge, 3003 Bern, bezogen werden. Die Einsprüche gegen Beitritte von Staaten gemäss Art. 12 Abs. 2 des Übereinkommens werden in der AS nicht publiziert. Sie können auf der Internetseite des Depositars: [https://treatydatabase.overheid.nl/en/Treaty/Details/009051\_db.html](https://treatydatabase.overheid.nl/en/Treaty/Details/009051_db.html) eingesehen werden. <sup>a</sup> Das Übereinkommen gilt nicht für Grönland. <sup>b</sup> Das Übereinkommen gilt nicht für Tokelau. [tab]</td></tr>
 </table>
 
-[^t-2]: [AS 1973 348](https://fedlex.data.admin.ch/eli/oc/1973/348_347_349); [1976 477](https://fedlex.data.admin.ch/eli/oc/1976/477_477_477); [1977 765](https://fedlex.data.admin.ch/eli/oc/1977/765_765_765); [1978 210](https://fedlex.data.admin.ch/eli/oc/1978/210_210_210), [1718](https://fedlex.data.admin.ch/eli/oc/1978/1718_1718_1718); [1980 669](https://fedlex.data.admin.ch/eli/oc/1980/669_669_669); [1982 154](https://fedlex.data.admin.ch/eli/oc/1982/154_154_154); [1983 1175](https://fedlex.data.admin.ch/eli/oc/1983/1175_1175_1175); [1986 175](https://fedlex.data.admin.ch/eli/oc/1986/175_175_175); [1987 317](https://fedlex.data.admin.ch/eli/oc/1987/317_317_317); [1988 1177](https://fedlex.data.admin.ch/eli/oc/1988/1177_1177_1177); [1993 973](https://fedlex.data.admin.ch/eli/oc/1993/973_973_973); [1998 2318](https://fedlex.data.admin.ch/eli/oc/1998/2318_2318_2318); [2003 2401](https://fedlex.data.admin.ch/eli/oc/2003/346); [2006 619](https://fedlex.data.admin.ch/eli/oc/2006/87); [2007 3345](https://fedlex.data.admin.ch/eli/oc/2007/404); [2010 783](https://fedlex.data.admin.ch/eli/oc/2010/119); [2011 4609](https://fedlex.data.admin.ch/eli/oc/2011/657); [2013 1235](https://fedlex.data.admin.ch/eli/oc/2013/271); [2015 2121](https://fedlex.data.admin.ch/eli/oc/2015/391); [2016 2615](https://fedlex.data.admin.ch/eli/oc/2016/410); [2018 1257](https://fedlex.data.admin.ch/eli/oc/2018/205); [2019 1135](https://fedlex.data.admin.ch/eli/oc/2019/215)und [2021 443](https://fedlex.data.admin.ch/eli/oc/2021/443). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht (https://www.fedlex.admin.ch/de/treaty).
+[^t-2]: [AS 2024 487](https://fedlex.data.admin.ch/eli/oc/2024/487). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Erklärung
 
-Schweiz**[^t-3]**
+Schweiz[^t-3]
 
-Am 12. Juni 2018 teilte die Schweiz mit, dass sie nur solche Dokumente als authentisch anerkennen wird, für die von den vom Kosovo angeforderten zuständigen Behörden gemäss den Bestimmungen von Artikel 6 des Übereinkommens eine Apostille ausgestellt wurde.
+Am 12. Juni 2018 teilte die Schweiz unter Bezugnahme auf eine Erklärung Serbiens vom 29. Mai 2017 mit, dass sie in Bezug auf öffentliche Urkunden, die auf dem Gebiet des Kosovo ausgestellt werden, nur solche Urkunden als authentisch anerkennen wird, für die von den vom Kosovo benannten zuständigen Behörden gemäss den Bestimmungen von Art. 6 des Übereinkommens eine Apostille ausgestellt wurde.
 
 [^t-3]: [AS 2019 1135](https://fedlex.data.admin.ch/eli/oc/2019/215)
