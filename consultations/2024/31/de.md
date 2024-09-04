@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Verordnung über die Krisenorganisation der Bundesverwaltung (KOBV)
 document: Vernehmlassungsvorlage
 language: de

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ordonnance sur l’organisation de crise de l’administration fédérale (OCAF)
 document: Projet mis en consultation
 language: fr
