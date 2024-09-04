@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de la loi fédérale sur le matériel de guerre (LFMG)
 document: Projet mis en consultation
 language: fr
