@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification du règlement sur l’assurance-vieillesse et survivants (Perception des cotisations AVS – revenu de minime importance et intérêts moratoires)
 document: Projet mis en consultation
 language: fr

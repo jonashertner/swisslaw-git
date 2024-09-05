@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung der Verordnung über die Alters- und Hinterlassenenversicherung (Erhebung von AHV-Beiträgen – geringfügiges Einkommen und Verzugszinsen)
 document: Vernehmlassungsvorlage
 language: de
