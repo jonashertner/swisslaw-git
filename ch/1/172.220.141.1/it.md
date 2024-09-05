@@ -4,11 +4,11 @@ title: Regolamento di previdenza del 15 giugno 2007 per gli impiegati e i benefi
 short: RPIC
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/190"
 language: it
-version: 2024-02-07
+version: 2024-09-06
 adopted: 2007-06-15
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/190/20240207/it/xml/fedlex-data-admin-ch-eli-cc-2012-190-20240207-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20240207/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/190/20240906/it/xml/fedlex-data-admin-ch-eli-cc-2012-190-20240906-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20240906/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20240207/it"
 
 (RPIC)
 
-del 15 giugno 2007 (Stato 7 febbraio 2024)
+del 15 giugno 2007 (Stato 6 settembre 2024)
 
 L’organo paritetico della Cassa di previdenza della Confederazione (OPC),
 
@@ -707,8 +707,8 @@ Sono dedotti dall’avere di vecchiaia:
 L’avere di risparmio speciale è composto:
 
 - a. dai contributi volontari di risparmio ai sensi dell’articolo 25;
-- [tab] a<sup>bis</sup>.[^36a-3] dai contributi supplementari di risparmio del datore di lavoro secondo l’allegato 6*a* cifra I;
-- [tab] a<sup>ter</sup>.[^36a-4] dall’accredito unico ai sensi dell’articolo 9 OPPCPers;
+- a<sup>bis</sup>.[^36a-3] dai contributi supplementari di risparmio del datore di lavoro secondo l’allegato 6*a* cifra I;
+- a<sup>ter</sup>.[^36a-4] dall’accredito unico ai sensi dell’articolo 9 OPPCPers;
 - b. dai riscatti accreditati ai sensi dell’articolo 32 capoverso 2<sup>bis</sup>;
 - b<sup>bis</sup>.[^36a-5] dai riacquisti dopo un divorzio, ai sensi dell’articolo 100 capoverso 2 terzo periodo, sempreché non siano accreditati all’avere di vecchiaia;
 - c. dai rimborsi dei prelievi anticipati per la proprietà d’abitazioni e dai versamenti provenienti dal ricavo della realizzazione di pegni su averi di previdenza, se non sono accreditati all’avere di vecchiaia;
@@ -921,7 +921,7 @@ Al decesso della persona assicurata o del beneficiario della rendita, il convive
 
 <sup>2</sup> Il diritto alla rendita per conviventi sussiste soltanto se la convivenza è stata comunicata per scritto a PUBLICA sotto forma di contratto di convivenza. Tale contratto, debitamente firmato da entrambi i conviventi, deve essere inoltrato a PUBLICA in originale quando entrambi sono ancora in vita.
 
-<sup>3</sup> La convivenza ai sensi della presente disposizione è un’unione domestica analoga al matrimonio di persone non coniugate, di sesso diverso o identico, senza legami di parentela, la cui unione non è registrata secondo la LUD. Per convivenza si intende anche un’unione domestica analoga al matrimonio di persone affini, tra le quali non sussiste alcun impedimento al matrimonio.
+<sup>3</sup> La convivenza ai sensi della presente disposizione è un’unione domestica analoga al matrimonio di persone non coniugate, di sesso diverso o identico, senza legami di parentela, la cui unione non è registrata secondo la LUD. Per convivenza si intende anche un’unione domestica analoga al matrimonio di persone affini, tra le quali non sussiste alcun impedimento al matrimonio.[^45-2]
 
 <sup>4</sup> Il diritto alla rendita per conviventi nasce con il decesso della personaassicurata o del beneficiario di rendita, al più presto il giorno successivo a quello in cui cessa il diritto dell’assicurato defunto allo stipendio, al godimento ulteriore dello stipendio, alla rendita di vecchiaia o di invalidità. Il diritto deve essere fatto valere al più tardi entro sei mesi dal decesso della persona assicurata o del beneficiario della rendita.
 
@@ -946,6 +946,7 @@ Il diritto si estingue:
 <sup>8</sup> Se l’accertamento delle condizioni al diritto suscita dubbi, segnatamente se vengono fatti valere simultaneamente diritti in virtù dell’articolo 49 (capitale garantito in caso di decesso), PUBLICA può erogare le prestazioni soltanto quando gli accertamenti sono ultimati. Non è dovuto un interesse per l’erogazione posticipata delle prestazioni.
 
 [^45-1]: Nuovo testo giusta la Dec. dell’OPC del 5 nov. 2008, approvata dal CF il 14 gen. 2009, in vigore dal 1° feb. 2009 ([FF 2009 2287](https://fedlex.data.admin.ch/eli/fga/2009/530)).
+[^45-2]: La correzione del 6 set. 2024 concerne soltanto il testo francese ([RU 2024 484](https://fedlex.data.admin.ch/eli/oc/2024/484)).
 
 #### Art. 46
 
@@ -1167,9 +1168,13 @@ In caso di invalidità parziale l’avente diritto può disporre di un avere di 
 
 <sup>3</sup> In caso di decesso un avere di risparmio speciale è versato conformemente all’articolo 43 capoverso 2.
 
-**Art. 56**[^55-2] Entità del diritto a una rendita di invalidità
+[^55-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
 
-<sup>1</sup> L’entità della rendita di invalidità dipende dal grado d’invalidità ai sensi della LAI[^55-3] e corrisponde a una quota percentuale dell’intera rendita di invalidità:
+#### Art. 56
+
+**Entità del diritto a una rendita di invalidità**[^56-1]
+
+<sup>1</sup> L’entità della rendita di invalidità dipende dal grado d’invalidità ai sensi della LAI[^56-2] e corrisponde a una quota percentuale dell’intera rendita di invalidità:
 
 <table>
 <tr><th>Grado d’invalidità ai sensi della LAI</th><th>Entità della rendita di invalidità</th></tr>
@@ -1188,12 +1193,11 @@ In caso di invalidità parziale l’avente diritto può disporre di un avere di 
 <tr><td>70–100 %</td><td>100 %</td></tr>
 </table>
 
-<sup>2</sup> L’adeguamento dell’entità della rendita di invalidità presuppone una modificazione del grado d’invalidità ai sensi della LAI di almeno cinque punti percentuali (art. 17 cpv. 1 lett. a LPGA[^55-4]); è fatto salvo l’articolo 52*b* capoversi 1 e 2.
+<sup>2</sup> L’adeguamento dell’entità della rendita di invalidità presuppone una modificazione del grado d’invalidità ai sensi della LAI di almeno cinque punti percentuali (art. 17 cpv. 1 lett. a LPGA[^56-3]); è fatto salvo l’articolo 52*b* capoversi 1 e 2.
 
-[^55-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 26 giu. 2012, approvata dal CF il 15 mar. 2013, in vigore dal 1° gen. 2013 ([RU 2013 979](https://fedlex.data.admin.ch/eli/oc/2013/208)).
-[^55-2]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
-[^55-3]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^55-4]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^56-1]: Nuovo testo giusta il n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
+[^56-2]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^56-3]: [RS 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
 
 #### Art. 57
 
@@ -2172,7 +2176,8 @@ Per le donne della generazione di transizione, l’età di riferimento per stabi
 - c. 64 anni e sei mesi per le donne nate nel 1962;
 - d. 64 anni e nove mesi per le donne nate nel 1963;
 - e. 65 anni per le donne nate nel 1964 o successivamente.
-- [tab] <sup>2</sup> Alle disposizioni rimanenti si applica l’età di 65 anni quale età di riferimento per le donne.
+
+<sup>2</sup> Alle disposizioni rimanenti si applica l’età di 65 anni quale età di riferimento per le donne.
 
 [^108n-1]: Introdotto dal n. I della Dec. dell’OPC del 7 ago. e 27 nov. 2023, approvata dal CF il 29 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 774](https://fedlex.data.admin.ch/eli/oc/2023/774)).
 
@@ -2198,23 +2203,19 @@ Allegato 3 Tassi di conversione
 
 Allegato 4 Rendita transitoria
 
-I. Riduzione a vita immediata della rendita mensile di vecchiaia all’inizio dell’ottenimento di una rendita transitoria
-
-II. Riscatto della riduzione della rendita mensile di vecchiaia in caso di riduzione a vita immediata
+- I. Riduzione a vita immediata della rendita mensile di vecchiaia all’inizio dell’ottenimento di una rendita transitoria
+- II. Riscatto della riduzione della rendita mensile di vecchiaia in caso di riduzione a vita immediata
 
 Allegato 5 Rendita transitoria
 
-I. Riduzione a vita della rendita mensile di vecchiaia a partire dal raggiungimento dell’età di riferimento in caso di ottenimento della rendita transitoria
-
-II. Riduzione della rendita per superstiti
+- I. Riduzione a vita della rendita mensile di vecchiaia a partire dal raggiungimento dell’età di riferimento in caso di ottenimento della rendita transitoria
+- II. Riduzione della rendita per superstiti
 
 Allegato 6 Rendita transitoria
 
-I. Riduzione a vita della rendita mensile di vecchiaia insorta tra il 1° luglio 2008 e il 30 giugno 2012 a partire dal raggiungimento dell’età di riferimento a causa dell’ottenimento di una rendita transitoria
-
-II. Riduzione a vita della rendita mensile di vecchiaia insorta tra il 1° luglio 2012 e il 31 dicembre 2014 a partire dal raggiungimento dell’età di riferimento a causa dell’ottenimento di una rendita transitoria
-
-III. Riduzione a vita della rendita mensile di vecchiaia insorta tra il 1° gennaio 2015 e il 31 dicembre 2018 a partire dal raggiungimento dell’età di riferimento a causa dell’ottenimento di una rendita transitoria
+- I. Riduzione a vita della rendita mensile di vecchiaia insorta tra il 1° luglio 2008 e il 30 giugno 2012 a partire dal raggiungimento dell’età di riferimento a causa dell’ottenimento di una rendita transitoria
+- II. Riduzione a vita della rendita mensile di vecchiaia insorta tra il 1° luglio 2012 e il 31 dicembre 2014 a partire dal raggiungimento dell’età di riferimento a causa dell’ottenimento di una rendita transitoria
+- III. Riduzione a vita della rendita mensile di vecchiaia insorta tra il 1° gennaio 2015 e il 31 dicembre 2018 a partire dal raggiungimento dell’età di riferimento a causa dell’ottenimento di una rendita transitoria
 
 Allegato 6*a* Piani previdenziali per le persone appartenenti a particolari categorie di personale
 

@@ -4,11 +4,11 @@ title: Vorsorgereglement vom 15. Juni 2007 für die Angestellten und die Rentenb
 short: VRAB
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/190"
 language: de
-version: 2024-02-07
+version: 2024-09-06
 adopted: 2007-06-15
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/190/20240207/de/xml/fedlex-data-admin-ch-eli-cc-2012-190-20240207-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20240207/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/190/20240906/de/xml/fedlex-data-admin-ch-eli-cc-2012-190-20240906-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20240906/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20240207/de"
 
 (VRAB)
 
-vom 15. Juni 2007 (Stand am 7. Februar 2024)
+vom 15. Juni 2007 (Stand am 6. September 2024)
 
 Das paritätische Organ des Vorsorgewerks Bund (POB),
 
@@ -921,7 +921,7 @@ Beim Tod der versicherten oder rentenbeziehenden Person hat die überlebende Leb
 
 <sup>2</sup> Der Anspruch auf eine Lebenspartnerrente besteht nur, wenn die Lebenspartnerschaft PUBLICA in Form eines Lebenspartnervertrages schriftlich gemeldet worden ist. Dieser von beiden Lebenspartnern unterzeichnete Lebenspartnervertrag ist im Original und zu Lebzeiten der beiden Lebenspartner PUBLICA zuzustellen.
 
-<sup>3</sup> Eine Lebenspartnerschaft im Sinne dieser Bestimmung ist eine eheähnliche Lebensgemeinschaft von nicht verheirateten Personen unterschiedlichen oder gleichen Geschlechts, die untereinander nicht verwandt sind und deren Partnerschaft nicht gemäss dem PartG eingetragen ist. Als Lebenspartnerschaft gilt auch eine eheähnliche Lebensgemeinschaft von verwandten Personen, zwischen denen kein Ehehindernis besteht.
+<sup>3</sup> Eine Lebenspartnerschaft im Sinne dieser Bestimmung ist eine eheähnliche Lebensgemeinschaft von nicht verheirateten Personen unterschiedlichen oder gleichen Geschlechts, die untereinander nicht verwandt sind und deren Partnerschaft nicht gemäss dem PartG eingetragen ist. Als Lebenspartnerschaft gilt auch eine eheähnliche Lebensgemeinschaft von verwandten Personen, zwischen denen kein Ehehindernis besteht.[^45-2]
 
 <sup>4</sup> Der Anspruch auf die Lebenspartnerrente beginnt mit dem Tod der versicherten oder rentenbeziehenden Person, frühestens aber nach dem Tag, an dem der Anspruch der verstorbenen Person auf Lohn, Lohnnachgenuss, Alters- oder Invalidenrente aufhört. Der Anspruch ist bis spätestens sechs Monate nach dem Tod der versicherten oder rentenbeziehenden Person geltend zu machen.
 
@@ -946,6 +946,7 @@ Der Anspruch erlischt:
 <sup>8</sup> Ergeben sich bei der Abklärung der Anspruchsvoraussetzungen Zweifel, namentlich wenn gleichzeitig Ansprüche gemäss Artikel 49 (Todesfallkapital) geltend gemacht werden, darf PUBLICA Leistungen erst erbringen, wenn die Abklärungen abgeschlossen sind. Zins für aufgeschobene Leistungsausrichtung ist nicht geschuldet.
 
 [^45-1]: Fassung gemäss Beschluss des POB vom 5. Nov. 2008, vom BR genehmigt am 14. Jan. 2009, in Kraft seit 1. Febr. 2009 ([BBl 2009 2721](https://fedlex.data.admin.ch/eli/fga/2009/530)).
+[^45-2]: Die Berichtigung vom 6. Sept. 2024 betrifft nur den französischen Text ([AS 2024 484](https://fedlex.data.admin.ch/eli/oc/2024/484)).
 
 #### Art. 46
 
@@ -3014,72 +3015,38 @@ Anhang 7[^t-8]
 
 [^t-8]: Fassung gemäss Ziff. II des Beschlusses des POB vom 21. Juni 2011, vom BR genehmigt am 19. Okt. 2011 ([AS 2012 2069](https://fedlex.data.admin.ch/eli/oc/2012/275)). Bereinigt gemäss Ziff. II Abs. 2 des Beschlusses des POB vom 21. Mai 2013, vom BR genehmigt am 14. Juni 2013 ([AS 2013 1783](https://fedlex.data.admin.ch/eli/oc/2013/405)) und vom 6. Sept. 2016, vom BR genehmigt am 10. Mai 2017, in Kraft seit 1. Jan. 2017 ([AS 2017 3279](https://fedlex.data.admin.ch/eli/oc/2017/342)).
 
-AGH Altersguthaben
-
-AHV Alters- und Hinterlassenenversicherung
-
-AHVG Bundesgesetz vom 20. Dezember 1946 über die Alters- und Hinterlassenenversicherung, SR *831.10*
-
-ATSG Bundesgesetz vom 6. Oktober 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, SR *830.1*
-
-BGG Bundesgesetz vom 17. Juni 2005 über das Bundesgericht (Bundesgerichtsgesetz), SR *173.110*
-
-BPG Bundespersonalgesetz vom 24. März 2000, SR *172.220.1*
-
-BPV Bundespersonalverordnung vom 3. Juli 2001, SR *172.220.111.3*
-
-BVG Bundesgesetz vom 25. Juni 1982 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge, SR *831.40*
-
-BVV 2 Verordnung vom 18. April 1984 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge, SR *831.441.1*
-
-DEZA Direktion für Entwicklung und Zusammenarbeit
-
-EDA Eidgenössisches Departement für auswärtige Angelegen heiten
-
-EVK-Statuten Verordnung vom 2. März 1987 über die Eidgenössische Versicherungskasse, AS *1987* 1228
-
-FZG Bundesgesetz vom 17. Dezember 1993 über die Freizügig keit in der beruflichen Alters-, Hinterlassenen- und Invali denvorsorge (Freizügigkeitsgesetz), SR *831.42*
-
-FZV Verordnung vom 3. Oktober 1994 über die Freizügigkeit in der beruflichen Alters-, Hinterlassenen- und Invalidenvor sorge (Freizügigkeitsverordnung), SR *831.425*
-
-IV Invalidenversicherung
-
-IVG Bundesgesetz vom 19. Juni 1959 über die Invalidenversiche rung, SR *831.20*
-
-max. maximal/es
-
-MV Militärversicherung
-
-MVG Bundesgesetz vom 19. Juni 1992 über die Militärversiche rung, *SR 833.1*
-
-PartG Bundesgesetz vom 18. Juni 2004 über die eingetragene Partnerschaft gleichgeschlechtlicher Paare (Partnerschafts gesetz), SR *211.231*
-
-PKB-Statuten Verordnung vom 24. August 1994 über die Pensionskasse des Bundes, AS *1995* 533
-
-PKBV 1 Verordnung vom 25. April 2001 über die Versicherung im Kernplan der Pensionskasse des Bundes, AS *2001* 2327
-
-PKBV 2 Verordnung vom 25. April 2001 über die Versicherung im Ergänzungsplan der Pensionskasse des Bundes, AS *2001* 2358
-
-PUBLICA-Gesetz Bundesgesetz vom 20. Dezember 2006 über die Pensions- kasse des Bundes PUBLICA, SR *172.222.1*
-
-SGH Sondersparguthaben
-
-ÜR Überbrückungsrente
-
-UV Unfallversicherung
-
-UVG Bundesgesetz vom 20. März 1981 über die Unfallversiche rung, SR *832.20*
-
-Var. Variante
-
-VPABP Verordnung vom 20. Februar 2013 über die Pensionierung von Angehörigen der besonderen Personalkategorien, SR *172.220.111.35*
-
-vV versicherter Verdienst
-
-WEFV Verordnung vom 3. Oktober 1994 über die Wohneigentums förderung mit Mitteln der beruflichen Vorsorge, SR *831.411*
-
-ZGB Schweizerisches Zivilgesetzbuch vom 10. Dezember 1907, SR *210*
-
+- AGH Altersguthaben
+- AHV Alters- und Hinterlassenenversicherung
+- AHVG Bundesgesetz vom 20. Dezember 1946 über die Alters- und Hinterlassenenversicherung, SR *831.10*
+- ATSG Bundesgesetz vom 6. Oktober 2000 über den Allgemeinen Teil des Sozialversicherungsrechts, SR *830.1*
+- BGG Bundesgesetz vom 17. Juni 2005 über das Bundesgericht (Bundesgerichtsgesetz), SR *173.110*
+- BPG Bundespersonalgesetz vom 24. März 2000, SR *172.220.1*
+- BPV Bundespersonalverordnung vom 3. Juli 2001, SR *172.220.111.3*
+- BVG Bundesgesetz vom 25. Juni 1982 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge, SR *831.40*
+- BVV 2 Verordnung vom 18. April 1984 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge, SR *831.441.1*
+- DEZA Direktion für Entwicklung und Zusammenarbeit
+- EDA Eidgenössisches Departement für auswärtige Angelegenheiten
+- EVK-Statuten Verordnung vom 2. März 1987 über die Eidgenössische Versicherungskasse, AS *1987* 1228
+- FZG Bundesgesetz vom 17. Dezember 1993 über die Freizügigkeit in der beruflichen Alters-, Hinterlassenen- und Invalidenvorsorge (Freizügigkeitsgesetz), SR *831.42*
+- FZV Verordnung vom 3. Oktober 1994 über die Freizügigkeit in der beruflichen Alters-, Hinterlassenen- und Invalidenvorsorge (Freizügigkeitsverordnung), SR *831.425*
+- IV Invalidenversicherung
+- IVG Bundesgesetz vom 19. Juni 1959 über die Invalidenversicherung, SR *831.20*
+- max. maximal/es
+- MV Militärversicherung
+- MVG Bundesgesetz vom 19. Juni 1992 über die Militärversicherung, *SR 833.1*
+- PartG Bundesgesetz vom 18. Juni 2004 über die eingetragene Partnerschaft gleichgeschlechtlicher Paare (Partnerschaftsgesetz), SR *211.231*
+- PKB-Statuten Verordnung vom 24. August 1994 über die Pensionskasse des Bundes, AS *1995* 533
+- PKBV 1 Verordnung vom 25. April 2001 über die Versicherung im Kernplan der Pensionskasse des Bundes, AS *2001* 2327
+- PKBV 2 Verordnung vom 25. April 2001 über die Versicherung im Ergänzungsplan der Pensionskasse des Bundes, AS *2001* 2358
+- PUBLICA-Gesetz Bundesgesetz vom 20. Dezember 2006 über die Pensions-kasse des Bundes PUBLICA, SR *172.222.1*
+- SGH Sondersparguthaben
+- ÜR Überbrückungsrente
+- UV Unfallversicherung
+- UVG Bundesgesetz vom 20. März 1981 über die Unfallversicherung, SR *832.20*
+- Var. Variante
+- VPABP Verordnung vom 20. Februar 2013 über die Pensionierung von Angehörigen der besonderen Personalkategorien, SR *172.220.111.35*
+- vV versicherter Verdienst
+- WEFV Verordnung vom 3. Oktober 1994 über die Wohneigentumsförderung mit Mitteln der beruflichen Vorsorge, SR *831.411*
+- ZGB Schweizerisches Zivilgesetzbuch vom 10. Dezember 1907, SR *210*
 - ZPO Schweizerische Zivilprozessordnung vom 19. Dezember 2008, SR *272*
-
-ZSAG zusätzliche Sparbeiträge des Arbeitgebers
+- ZSAG zusätzliche Sparbeiträge des Arbeitgebers

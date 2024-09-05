@@ -4,11 +4,11 @@ title: Règlement de prévoyance du 15 juin 2007 pour les personnes employées e
 short: RPEC
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/190"
 language: fr
-version: 2024-02-07
+version: 2024-09-06
 adopted: 2007-06-15
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/190/20240207/fr/xml/fedlex-data-admin-ch-eli-cc-2012-190-20240207-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20240207/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/190/20240906/fr/xml/fedlex-data-admin-ch-eli-cc-2012-190-20240906-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20240906/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2012/190/20240207/fr"
 
 (RPEC)
 
-du 15 juin 2007 (État le 7 février 2024)
+du 15 juin 2007 (État le 6 septembre 2024)
 
 L’organe paritaire de la caisse de prévoyance de la Confédération (OPC),
 
@@ -924,11 +924,11 @@ En cas de décès de la personne assurée ou de la personne bénéficiaire d’u
 
 <sup>2</sup> Le droit à la rente de partenaire n’existe que si l’union libre a été annoncée à PUBLICA sous la forme d’un contrat de partenariat écrit. L’original du contrat, dûment signé par les deux partenaires, doit être remis du vivant de ceux-ci à PUBLICA.
 
-<sup>3</sup> L’union libre au sens de la présente disposition est une communauté de vie, comparable au mariage, entre deux personnes de sexe différent ou de même sexe, qui n’ont aucun lien de parenté et dont le partenariat n’est pas enregistré au sens de la LPart. Est aussi considérée comme union libre, une communauté de vie de personnes parentes entre lesquelles il n’existe aucun empêchement au mariage.
+<sup>3</sup> L’union libre au sens de la présente disposition est une communauté de vie, compa-rable au mariage, entre deux personnes non mariées de sexe différent ou de même sexe, qui n’ont aucun lien de parenté et dont le partenariat n’est pas enregistré au sens de la LPart. Est aussi considérée comme union libre, une communauté de vie de per-sonnes parentes entre lesquelles il n’existe aucun empêchement au mariage.[^45-2]
 
 <sup>4</sup> Le droit à la rente de partenaire prend naissance au décès de la personne assurée ou de la personne bénéficiaire d’une rente, mais au plus tôt le lendemain du jour où cesse le droit de la personne défunte au salaire, à la jouissance du salaire, ou à la rente de vieillesse ou d’invalidité. Le partenaire survivant ou la partenaire survivante doit faire valoir son droit à une rente de partenaire au plus tard six mois après le décès de la personne assurée ou de la personne bénéficiaire d’une rente.
 
-<sup>5</sup> La durée d’une union libre est prise en compte dans le calcul de la durée du mariage subséquent lors de l’examen des conditions de l’art. 44, al. 1, let. b, en vue de l’octroi d’une rente de viduité, pour autant que l’original d’un contrat de partenariat, dûment signé par les deux partenaires, ait été remis à PUBLICA de leur vivant.[^45-2]
+<sup>5</sup> La durée d’une union libre est prise en compte dans le calcul de la durée du mariage subséquent lors de l’examen des conditions de l’art. 44, al. 1, let. b, en vue de l’octroi d’une rente de viduité, pour autant que l’original d’un contrat de partenariat, dûment signé par les deux partenaires, ait été remis à PUBLICA de leur vivant.[^45-3]
 
 <sup>6</sup>
 
@@ -949,7 +949,8 @@ Le droit à la rente s’éteint:
 <sup>8</sup> Si des doutes surgissent lors de la vérification des conditions du droit aux prestations, en particulier si une ou plusieurs personnes font valoir des droits au sens de l’art. 49 (capital-décès), PUBLICA ne peut fournir des prestations qu’une fois que ces vérifications sont terminées. Aucun intérêt n’est dû sur le paiement différé des prestations.
 
 [^45-1]: Nouvelle teneur selon la D de l’OPC du 5 nov. 2008, approuvée par le CF le 14 janv. 2009, en vigueur depuis le 1<sup>er</sup> févr. 2009 ([FF 2009 2363](https://fedlex.data.admin.ch/eli/fga/2009/530)).
-[^45-2]: Nouvelle teneur selon la D de l’OPC du 8 sept. 2010, approuvée par le CF le 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([FF 2010 8281](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
+[^45-2]: Erratum du 6 sept. 2024 ([RO 2024 484](https://fedlex.data.admin.ch/eli/oc/2024/484)).
+[^45-3]: Nouvelle teneur selon la D de l’OPC du 8 sept. 2010, approuvée par le CF le 24 nov. 2010, en vigueur depuis le 1<sup>er</sup> janv. 2011 ([FF 2010 8281](https://fedlex.data.admin.ch/eli/fga/2010/1690)).
 
 #### Art. 46
 
@@ -2231,11 +2232,9 @@ Annexe 5 Rente transitoire
 
 Annexe 6 Rente transitoire
 
-I. Réduction résultant de la perception d’une rente transitoire et applicable à vie, dès l’âge AVS, de la rente mensuelle de vieil lesse née entre le 1<sup>er</sup> juillet 2008 et le 30 juin 2012
-
-II. Réduction résultant de la perception d’une rente transitoire et applicable à vie, dès l’âge AVS, de la rente mensuelle de vieil lesse née entre le 1<sup>er</sup> juillet 2012 et le 31 décembre 2014
-
-III. Réduction résultant de la perception d’une rente transitoire et applicable à vie, dès l’âge AVS, de la rente mensuelle de vieil lesse née entre le 1<sup>er</sup> janvier 2015 et le 31 décembre 2018
+- I. Réduction résultant de la perception d’une rente transitoire et applicable à vie, dès l’âge AVS, de la rente mensuelle de vieillesse née entre le 1<sup>er</sup> juillet 2008 et le 30 juin 2012
+- II. Réduction résultant de la perception d’une rente transitoire et applicable à vie, dès l’âge AVS, de la rente mensuelle de vieillesse née entre le 1<sup>er</sup> juillet 2012 et le 31 décembre 2014
+- III. Réduction résultant de la perception d’une rente transitoire et applicable à vie, dès l’âge AVS, de la rente mensuelle de vieillesse née entre le 1<sup>er</sup> janvier 2015 et le 31 décembre 2018
 
 Annexe 6*a* Plans de prévoyance destinés aux personnes appartenant à des catégories particulières de personnel
 
