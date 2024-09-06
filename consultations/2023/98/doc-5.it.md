@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Approvazione dell’addendum all’accordo SAI relative a conti finanziari e dell’accordo SAI relative a cripto-asset, nonché delle modifiche alla Legge federale e all’Ordinanza sullo SAI internazionale a fini fiscali (LSAI e OSAIn)"
 document: Progetto posto in consultazione-4
 language: it

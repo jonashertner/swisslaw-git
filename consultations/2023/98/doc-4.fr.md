@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Approbation de l’addendum à l’accord EAR relatifs aux comptes financiers et de l’accord EAR relatifs aux crypto-actifs ainsi que modification de la loi fédérale et de l’ordonnance sur l’EAR international en matière fiscale (LEAR et OEAR)
 document: Projet mis en consultation-2
 language: fr

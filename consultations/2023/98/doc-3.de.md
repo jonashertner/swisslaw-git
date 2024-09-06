@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Genehmigung des Addendums zur AIA-Vereinbarung Finanzkonten und der AIA-Vereinbarung Kryptowerte sowie Änderung des Bundesgesetzes und der Verordnung über den internationalen AIA in Steuersachen (AIAG und AIAV)
 document: Vernehmlassungsvorlage-3
 language: de
