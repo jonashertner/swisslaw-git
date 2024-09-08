@@ -4,11 +4,11 @@ title: "Legge federale del 13 dicembre 2002 sull'Assemblea federale (Legge sul P
 short: LParl
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: it
-version: 2024-07-01
+version: 2024-09-09
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2003-510-20240701-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20240909/it/xml/fedlex-data-admin-ch-eli-cc-2003-510-20240909-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240909/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240701/it"
 
 (Legge sul Parlamento, LParl)
 
-del 13 dicembre 2002 (Stato 1° luglio 2024)
+del 13 dicembre 2002 (Stato 9 settembre 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -1414,17 +1414,18 @@ Se per il decreto federale sul preventivo della Confederazione o su un’aggiunt
 
 #### Art. 94a
 
-**Appianamento delle divergenze in materia di programma di legislatura e di piano finanziario[^94a-2]**[^94a-1]
+**Appianamento delle divergenze in materia di programma di legislatura, di piano finanziario e di valori di pianificazione nel preventivo[^94a-2]**[^94a-1]
 
 <sup>1</sup> Per il decreto federale sul programma di legislatura si fa capo alla conferenza di conciliazione qualora sussistano divergenze dopo la prima deliberazione nelle due Camere.
 
-<sup>2</sup> Per il decreto federale sul programma di legislatura e il decreto federale sul piano finanziario la conferenza di conciliazione presenta una proposta di conciliazione riguardo a ogni divergenza. Su ogni proposta si vota separatamente.[^94a-3]
+<sup>2</sup> Per il decreto federale sul programma di legislatura, il decreto federale sul piano finanziario e il decreto federale concernente i valori di pianificazione nel preventivo la conferenza di conciliazione presenta una proposta di conciliazione riguardo a ogni divergenza.[^94a-3] Su ogni proposta si vota separatamente.[^94a-4]
 
 <sup>3</sup> Se una proposta è respinta, la relativa disposizione è stralciata*.*
 
 [^94a-1]: Introdotto dal n. I della LF del 22 giu. 2007 (Programma di legislatura), in vigore dal 1° dic. 2007 ([RU 2007 5231](https://fedlex.data.admin.ch/eli/oc/2007/740); [FF 2006 1715](https://fedlex.data.admin.ch/eli/fga/2006/164)[1735](https://fedlex.data.admin.ch/eli/fga/2006/167)).
-[^94a-2]: Nuovo testo giusta l’all. n. 1 della LF del 26 set. 2014 (Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 711](https://fedlex.data.admin.ch/eli/fga/2014/134)).
-[^94a-3]: Nuovo testo giusta l’all. n. 1 della LF del 26 set. 2014 (Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 711](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+[^94a-2]: Nuovo testo giusta il n. 1 della LF del 15 mar. 2024 (Esame preliminare del preventivo), in vigore dal 9 set. 2024 ([RU 2024 450](https://fedlex.data.admin.ch/eli/oc/2024/450); [FF 2023 2157](https://fedlex.data.admin.ch/eli/fga/2023/2157), [2159](https://fedlex.data.admin.ch/eli/fga/2023/2159)).
+[^94a-3]: Nuovo testo giusta il n. 1 della LF del 15 mar. 2024 (Esame preliminare del preventivo), in vigore dal 9 set. 2024 ([RU 2024 450](https://fedlex.data.admin.ch/eli/oc/2024/450); [FF 2023 2157](https://fedlex.data.admin.ch/eli/fga/2023/2157), [2159](https://fedlex.data.admin.ch/eli/fga/2023/2159)).
+[^94a-4]: Nuovo testo giusta l’all. n. 1 della LF del 26 set. 2014 (Nuovo modello di gestione dell’Amministrazione federale), in vigore dal 1° gen. 2016 ([RU 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 711](https://fedlex.data.admin.ch/eli/fga/2014/134)).
 
 #### Art. 95
 

@@ -4,11 +4,11 @@ title: "Loi du 13 décembre 2002 sur l'Assemblée fédérale (Loi sur le Parleme
 short: LParl
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: fr
-version: 2024-07-01
+version: 2024-09-09
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2003-510-20240701-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20240909/fr/xml/fedlex-data-admin-ch-eli-cc-2003-510-20240909-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240909/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240701/fr"
 
 (Loi sur le Parlement, LParl)
 
-du 13 décembre 2002 (État le 1<sup>er</sup> juillet 2024)
+du 13 décembre 2002 (État le 9 septembre 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -1413,17 +1413,18 @@ Si une proposition de conciliation portant sur l’arrêté fédéral relatif au
 
 #### Art. 94a
 
-**Divergences sur le programme de législature et le plan financier[^94a-2]**[^94a-1]
+**Divergences sur le programme de législature, le plan financier et le cadre financier inscrit au budget [^94a-2]**[^94a-1]
 
 <sup>1</sup> Si l’arrêté fédéral sur le programme de la législature fait l’objet de divergences entre les conseils après l’examen du projet en première lecture, une conférence de conciliation est réunie.
 
-<sup>2</sup> Si l’arrêté fédéral sur le programme de législature et l’arrêté fédéral sur le plan financier font l’objet de divergences, la conférence de conciliation présente une proposition distincte pour chacune des divergences. Chacune des propositions fait l’objet d’un vote séparé.[^94a-3]
+<sup>2</sup> Si les arrêtés fédéraux sur le programme de législature, sur le plan financier et sur le cadre financier inscrit au budget font l’objet de divergences, la conférence de conciliation présente une proposition distincte pour chacune des divergences.[^94a-3] Chacune des propositions fait l’objet d’un vote séparé.[^94a-4]
 
 <sup>3</sup> En cas de rejet d’une proposition de conciliation, la disposition concernée est biffée*.*
 
 [^94a-1]: Introduit par le ch. I de la LF du 22 juin 2007 (Programme de la législature), en vigueur depuis le 1<sup>er</sup> déc. 2007 ([RO 2007 5231](https://fedlex.data.admin.ch/eli/oc/2007/740); [FF 2006 1803](https://fedlex.data.admin.ch/eli/fga/2006/164)[1825](https://fedlex.data.admin.ch/eli/fga/2006/167)).
-[^94a-2]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 26 sept. 2014 (Nouveau modèle de gestion de l’administration fédérale), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 741](https://fedlex.data.admin.ch/eli/fga/2014/134)).
-[^94a-3]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 26 sept. 2014 (Nouveau modèle de gestion de l’administration fédérale), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 741](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+[^94a-2]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024 (Examen du budget), en vigueur depuis le 9 sept. 2024 ([RO 2024 450](https://fedlex.data.admin.ch/eli/oc/2024/450); [FF 2023 2157](https://fedlex.data.admin.ch/eli/fga/2023/2157), [2159](https://fedlex.data.admin.ch/eli/fga/2023/2159)).
+[^94a-3]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024 (Examen du budget), en vigueur depuis le 9 sept. 2024 ([RO 2024 450](https://fedlex.data.admin.ch/eli/oc/2024/450); [FF 2023 2157](https://fedlex.data.admin.ch/eli/fga/2023/2157), [2159](https://fedlex.data.admin.ch/eli/fga/2023/2159)).
+[^94a-4]: Nouvelle teneur selon l’annexe ch. 1 de la LF du 26 sept. 2014 (Nouveau modèle de gestion de l’administration fédérale), en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [FF 2014 741](https://fedlex.data.admin.ch/eli/fga/2014/134)).
 
 #### Art. 95
 

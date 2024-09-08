@@ -4,11 +4,11 @@ title: "Federal Act of 13 December 2002 on the Federal Assembly (Parliament Act,
 short: ParlA
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: en
-version: 2024-07-01
+version: 2024-09-09
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20240701/en/xml/fedlex-data-admin-ch-eli-cc-2003-510-20240701-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240701/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20240909/en/xml/fedlex-data-admin-ch-eli-cc-2003-510-20240909-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240909/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Parliament Act, ParlA)
 
-of 13 December 2002 (Status as of 1 July 2024)
+of 13 December 2002 (Status as of 9 September 2024)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -1414,17 +1414,18 @@ Where a compromise motion on a Federal Decree on the Federal Budget or a supplem
 
 #### Art. 94a
 
-**Settlement of differences relating to legislature plan and financial plan[^94a-2]**[^94a-1]
+**Settlement of differences relating to the legislature plan, the financial plan, and the financial framework in the budget[^94a-2]**[^94a-1]
 
 <sup>1</sup> If the federal decree on the legislature plan is the subject of differences between the chambers following the first reading of the bill, the conciliation committee shall be appointed.
 
-<sup>2</sup> In the case of the federal decrees on the legislature plan and the financial plan, the conciliation committee shall propose a compromise motion in respect of each difference. A separate vote is held on each motion.[^94a-3]
+<sup>2</sup> In the case of the federal decrees on the legislature plan, the financial plan and the financial framework in the budget, the conciliation committee shall propose a compromise motion in respect of each difference.[^94a-3] A separate vote is held on each motion.[^94a-4]
 
 <sup>3</sup> If any motion is rejected, the related provision shall be deleted.
 
 [^94a-1]: Inserted by No I of the FA of 22 June 2007 (Legislature Plan), in force since 1 Dec. 2007 ([AS 2007 5231](https://fedlex.data.admin.ch/eli/oc/2007/740); [BBl 2006 1837](https://fedlex.data.admin.ch/eli/fga/2006/164), [1857](https://fedlex.data.admin.ch/eli/fga/2006/167)).
-[^94a-2]: Amended by Annex No 1 of the FA of 26 Sept. 2014 (New Management Model for the Federal Administration), in force since 1 Jan. 2016 ([AS 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [BBl 2014 767](https://fedlex.data.admin.ch/eli/fga/2014/134)).
-[^94a-3]: Amended by Annex No 1 of the FA of 26 Sept. 2014 (New Management Model for the Federal Administration), in force since 1 Jan. 2016 ([AS 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [BBl 2014 767](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+[^94a-2]: Amended by No I of the FA of 15 March 2024 (Budget Debate), in force since 9 Sept. 2024 ([AS 2024 450](https://fedlex.data.admin.ch/eli/oc/2024/450); [BBl 2023 2157](https://fedlex.data.admin.ch/eli/fga/2023/2157), [2159](https://fedlex.data.admin.ch/eli/fga/2023/2159)).
+[^94a-3]: Amended by No I of the FA of 15 March 2024 (Budget Debate), in force since 9 Sept. 2024 ([AS 2024 450](https://fedlex.data.admin.ch/eli/oc/2024/450); [BBl 2023 2157](https://fedlex.data.admin.ch/eli/fga/2023/2157), [2159](https://fedlex.data.admin.ch/eli/fga/2023/2159)).
+[^94a-4]: Amended by Annex No 1 of the FA of 26 Sept. 2014 (New Management Model for the Federal Administration), in force since 1 Jan. 2016 ([AS 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [BBl 2014 767](https://fedlex.data.admin.ch/eli/fga/2014/134)).
 
 #### Art. 95
 

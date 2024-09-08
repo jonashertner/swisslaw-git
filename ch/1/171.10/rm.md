@@ -4,11 +4,11 @@ title: "Lescha federala dals 13 da december 2002 davart l'Assamblea federala (Le
 short: LParl
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: rm
-version: 2024-07-01
+version: 2024-09-09
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20240701/rm/xml/fedlex-data-admin-ch-eli-cc-2003-510-20240701-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240701/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20240909/rm/xml/fedlex-data-admin-ch-eli-cc-2003-510-20240909-rm-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240909/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha dal parlament, LParl)
 
-dals 13 da december 2002 (versiun dals 1. da fanadur 2024)
+dals 13 da december 2002 (versiun dals 9 da settember 2024)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -1416,17 +1416,18 @@ Sch’ina proposta da conciliaziun per il conclus federal davart il preventiv da
 
 #### Art. 94a
 
-**Eliminaziun da differenzas en connex cun la planisaziun da la legislatura e cun il plan da finanzas[^94a-2]**[^94a-1]
+**Eliminaziun da differenzas en connex cun la planisaziun da la legislatura, cun il plan da finanzas e cun las valurs da planisaziun en il preventiv[^94a-2]**[^94a-1]
 
 <sup>1</sup> En cas dal conclus federal davart la planisaziun da la legislatura vegn nominada la conferenza da conciliaziun, sch’i dat divergenzas suenter l’emprima tractativa en las chombras.
 
-<sup>2</sup> En cas da conclus federals davart la planisaziun da la legislatura e davart il plan da finanzas fa la conferenza da conciliaziun ina proposta da conciliaziun tar mintga differenza. Davart mintga proposta vegni votà separadamain.[^94a-3]
+<sup>2</sup> En cas da conclus federals davart la planisaziun da la legislatura, davart il plan da finanzas e davart las valurs da planisaziun en il preventiv fa la conferenza da conciliaziun ina proposta da conciliaziun tar mintga differenza.[^94a-3] Davart mintga proposta vegni votà separadamain.[^94a-4]
 
 <sup>3</sup> Sch’ina proposta vegn refusada, vegn la disposiziun respectiva stritgada.
 
-[^94a-1]: Integrà tenor la cifra I da la LF dals 22 da zer. 2007 (planisaziun da la legislatura), en vigur dapi il 1. da dec. 2007 ([AS 2007 5231](https://fedlex.data.admin.ch/eli/oc/2007/740); [BBl 2006 1837](https://fedlex.data.admin.ch/eli/fga/2006/164), [1857](https://fedlex.data.admin.ch/eli/fga/2006/167)).
-[^94a-2]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 26 da sett. 2014 (nov model da gestiun per l’administraziun federala), en vigur dapi il 1. da schan. 2016 ([AS 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [BBl 2014 767](https://fedlex.data.admin.ch/eli/fga/2014/134)).
-[^94a-3]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 26 da sett. 2014 (nov model da gestiun per l’administraziun federala), en vigur dapi il 1. da schan. 2016 ([AS 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [BBl 2014 767](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+[^94a-1]: Integrà tras la cifra I da la LF dals 22 da zer. 2007 (planisaziun da la legislatura), en vigur dapi il 1. da dec. 2007 ([AS 2007 5231](https://fedlex.data.admin.ch/eli/oc/2007/740); [BBl 2006 1837](https://fedlex.data.admin.ch/eli/fga/2006/164), [1857](https://fedlex.data.admin.ch/eli/fga/2006/167)).
+[^94a-2]: Versiun tenor la cifra I da la LF dals 15 da mars 2024 (debatta dal preventiv), en vigur dapi ils 9 da sett. 2024 ([AS 2024 450](https://fedlex.data.admin.ch/eli/oc/2024/450); [BBl 2023 2157](https://fedlex.data.admin.ch/eli/fga/2023/2157), [2159](https://fedlex.data.admin.ch/eli/fga/2023/2159)).
+[^94a-3]: Versiun tenor la cifra I da la LF dals 15 da mars 2024 (debatta dal preventiv), en vigur dapi ils 9 da sett. 2024 ([AS 2024 450](https://fedlex.data.admin.ch/eli/oc/2024/450); [BBl 2023 2157](https://fedlex.data.admin.ch/eli/fga/2023/2157), [2159](https://fedlex.data.admin.ch/eli/fga/2023/2159)).
+[^94a-4]: Versiun tenor la cifra 1 da l’agiunta da la LF dals 26 da sett. 2014 (nov model da gestiun per l’administraziun federala), en vigur dapi il 1. da schan. 2016 ([AS 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [BBl 2014 767](https://fedlex.data.admin.ch/eli/fga/2014/134)).
 
 #### Art. 95
 

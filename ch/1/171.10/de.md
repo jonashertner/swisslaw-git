@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 13. Dezember 2002 über die Bundesversammlung (Parlamen
 short: ParlG
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: de
-version: 2024-07-01
+version: 2024-09-09
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2003-510-20240701-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20240909/de/xml/fedlex-data-admin-ch-eli-cc-2003-510-20240909-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240909/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240701/de"
 
 (Parlamentsgesetz, ParlG)
 
-vom 13. Dezember 2002 (Stand am 1. Juli 2024)
+vom 13. Dezember 2002 (Stand am 9. September 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -1412,17 +1412,18 @@ Wird ein Einigungsantrag zum Bundesbeschluss über den Voranschlag des Bundes od
 
 #### Art. 94a
 
-**Differenzregelung bei der Legislaturplanung und beim Finanzplan[^94a-2]**[^94a-1]
+**Differenzregelung bei der Legislaturplanung, beim Finanzplan und bei den Planungsgrössen im Voranschlag[^94a-2]**[^94a-1]
 
 <sup>1</sup> Beim Bundesbeschluss über die Legislaturplanung wird die Einigungskonferenz eingesetzt, wenn nach der ersten Beratung in jedem Rat Differenzen bestehen.
 
-<sup>2</sup> Bei den Bundesbeschlüssen über die Legislaturplanung und über den Finanzplan stellt die Einigungskonferenz zu jeder Differenz einen Einigungsantrag. Über jeden Antrag wird gesondert abgestimmt.[^94a-3]
+<sup>2</sup> Bei den Bundesbeschlüssen über die Legislaturplanung, über den Finanzplan und über die Planungsgrössen im Voranschlag stellt die Einigungskonferenz zu jeder Differenz einen Einigungsantrag.[^94a-3] Über jeden Antrag wird gesondert abgestimmt.[^94a-4]
 
 <sup>3</sup> Wird ein Antrag abgelehnt, so wird die betreffende Bestimmung gestrichen.
 
 [^94a-1]: Eingefügt durch Ziff. I des BG vom 22. Juni 2007 (Legislaturplanung), in Kraft seit 1. Dez. 2007 ([AS 2007 5231](https://fedlex.data.admin.ch/eli/oc/2007/740); [BBl 2006 1837](https://fedlex.data.admin.ch/eli/fga/2006/164), [1857](https://fedlex.data.admin.ch/eli/fga/2006/167)).
-[^94a-2]: Fassung gemäss Anhang Ziff. 1 des BG vom 26. Sept. 2014 (Neues Führungsmodell für die Bundesverwaltung), in Kraft seit 1. Jan. 2016 ([AS 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [BBl 2014 767](https://fedlex.data.admin.ch/eli/fga/2014/134)).
-[^94a-3]: Fassung gemäss Anhang Ziff. 1 des BG vom 26. Sept. 2014 (Neues Führungsmodell für die Bundesverwaltung), in Kraft seit 1. Jan. 2016 ([AS 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [BBl 2014 767](https://fedlex.data.admin.ch/eli/fga/2014/134)).
+[^94a-2]: Fassung gemäss Ziff. I des BG vom 15. März 2024 (Budgetberatung), in Kraft seit 9. Sept. 2024 ([AS 2024 450](https://fedlex.data.admin.ch/eli/oc/2024/450); [BBl 2023 2157](https://fedlex.data.admin.ch/eli/fga/2023/2157), [2159](https://fedlex.data.admin.ch/eli/fga/2023/2159)).
+[^94a-3]: Fassung gemäss Ziff. I des BG vom 15. März 2024 (Budgetberatung), in Kraft seit 9. Sept. 2024 ([AS 2024 450](https://fedlex.data.admin.ch/eli/oc/2024/450); [BBl 2023 2157](https://fedlex.data.admin.ch/eli/fga/2023/2157), [2159](https://fedlex.data.admin.ch/eli/fga/2023/2159)).
+[^94a-4]: Fassung gemäss Anhang Ziff. 1 des BG vom 26. Sept. 2014 (Neues Führungsmodell für die Bundesverwaltung), in Kraft seit 1. Jan. 2016 ([AS 2015 1583](https://fedlex.data.admin.ch/eli/oc/2015/312); [BBl 2014 767](https://fedlex.data.admin.ch/eli/fga/2014/134)).
 
 #### Art. 95
 
