@@ -3,11 +3,11 @@ sr: "0.103.3"
 title: Convenzione internazionale del 20 dicembre 2006 per la protezione di tutte le persone dalla sparizione forzata
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/757"
 language: it
-version: 2023-10-13
+version: 2024-09-10
 adopted: 2006-12-20
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/757/20231013/it/xml/fedlex-data-admin-ch-eli-cc-2016-757-20231013-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/757/20231013/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/757/20240910/it/xml/fedlex-data-admin-ch-eli-cc-2016-757-20240910-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/757/20240910/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a New York il 20 dicembre 2006 Approvata dall’Assemblea federale il 18 dicembre 2015[^t-1] Strumento di ratifica depositato dalla Svizzera il 2 dicembre 2016 Entrata in vigore per la Svizzera il 1° gennaio 2017
 
-(Stato 13 ottobre 2023)
+(Stato 10 settembre 2024)
 
 [^t-1]: [RU 2016 4687](https://fedlex.data.admin.ch/eli/oc/2016/756)
 
@@ -492,7 +492,7 @@ La presente Convenzione non pregiudica le disposizioni del diritto internazional
 
 (Seguono le firme)
 
-Campo d’applicazione il 13 ottobre 2023[^t-2]
+Campo d’applicazione il 10 settembre 2024[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -500,6 +500,7 @@ Campo d’applicazione il 13 ottobre 2023[^t-2]
 <tr><td>Argentina</td><td>14 dicembre</td><td>2007</td><td>23 dicembre</td><td>2010</td></tr>
 <tr><td>Armenia</td><td>24 gennaio</td><td>2011</td><td>23 febbraio</td><td>2011</td></tr>
 <tr><td>Austria</td><td>7 giugno</td><td>2012</td><td>7 luglio</td><td>2012</td></tr>
+<tr><td>Bangladesh</td><td>30 agosto</td><td>2024 A</td><td>29 settembre</td><td>2024</td></tr>
 <tr><td>Belgio<sup>\*</sup><sup>\*</sup></td><td>2 giugno</td><td>2011</td><td>2 luglio</td><td>2011</td></tr>
 <tr><td>Belize</td><td>14 agosto</td><td>2015 A</td><td>13 settembre</td><td>2015</td></tr>
 <tr><td>Benin</td><td>2 novembre</td><td>2017</td><td>2 dicembre</td><td>2017</td></tr>
@@ -513,6 +514,7 @@ Campo d’applicazione il 13 ottobre 2023[^t-2]
 <tr><td>Cile</td><td>8 dicembre</td><td>2009</td><td>23 dicembre</td><td>2010</td></tr>
 <tr><td>Colombia</td><td>11 luglio</td><td>2012</td><td>10 agosto</td><td>2012</td></tr>
 <tr><td>Corea del Sud</td><td>4 gennaio</td><td>2023 A</td><td>3 febbraio</td><td>2023</td></tr>
+<tr><td>Costa d’Avorio</td><td>6 giugno</td><td>2024 A</td><td>6 luglio</td><td>2024</td></tr>
 <tr><td>Costa Rica</td><td>16 febbraio</td><td>2012</td><td>17 marzo</td><td>2012</td></tr>
 <tr><td>Croazia</td><td>31 gennaio</td><td>2022</td><td>2 marzo</td><td>2022</td></tr>
 <tr><td>Cuba<sup>\*</sup></td><td>2 febbraio</td><td>2009</td><td>23 dicembre</td><td>2010</td></tr>
@@ -563,17 +565,19 @@ Campo d’applicazione il 13 ottobre 2023[^t-2]
 <tr><td>Slovenia</td><td>15 dicembre</td><td>2021</td><td>14 gennaio</td><td>2022</td></tr>
 <tr><td>Spagna</td><td>24 settembre</td><td>2009</td><td>23 dicembre</td><td>2010</td></tr>
 <tr><td>Sri Lanka</td><td>25 maggio</td><td>2016</td><td>24 giugno</td><td>2016</td></tr>
+<tr><td>Sudafrica</td><td>14 maggio</td><td>2024 A</td><td>13 giugno</td><td>2024</td></tr>
 <tr><td>Sudan\*</td><td>10 agosto</td><td>2021 A</td><td>9 settembre</td><td>2021</td></tr>
 <tr><td>Svizzera\* \*\*</td><td>2 dicembre</td><td>2016</td><td>1° gennaio</td><td>2017</td></tr>
+<tr><td>Thailandia\*</td><td>14 maggio</td><td>2024</td><td>13 giugno</td><td>2024</td></tr>
 <tr><td>Togo</td><td>21 luglio</td><td>2014</td><td>20 agosto</td><td>2014</td></tr>
 <tr><td>Tunisia</td><td>29 giugno</td><td>2011</td><td>29 luglio</td><td>2011</td></tr>
 <tr><td>Ucraina<sup>\*</sup></td><td>14 agosto</td><td>2015 A</td><td>13 settembre</td><td>2015</td></tr>
 <tr><td>Uruguay</td><td>4 marzo</td><td>2009</td><td>23 dicembre</td><td>2010</td></tr>
 <tr><td>Zambia</td><td>4 aprile</td><td>2011</td><td>4 maggio</td><td>2011</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, le dichiarazioni e le obiezioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [http://treaties.un.org](http://treaties.un.org/) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. non si applica alle isole Faroe e Groenlandia. [tab]</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. \*\* Obiezioni. Le riserve, le dichiarazionir lr obiezioni, non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): https://treaties.un.org oppure otte-nuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. non si applica alle isole Faroe e Groenlandia. [tab]</td></tr>
 </table>
 
-[^t-2]: [RU 2016 4693](https://fedlex.data.admin.ch/eli/oc/2016/757); [2018 3029](https://fedlex.data.admin.ch/eli/oc/2018/474); [2020 1559](https://fedlex.data.admin.ch/eli/oc/2020/310); [2021 536](https://fedlex.data.admin.ch/eli/oc/2021/536); [2022 516](https://fedlex.data.admin.ch/eli/oc/2022/516); [2023 587](https://fedlex.data.admin.ch/eli/oc/2023/587). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
+[^t-2]: [RU 2016 4693](https://fedlex.data.admin.ch/eli/oc/2016/757); [2018 3029](https://fedlex.data.admin.ch/eli/oc/2018/474); [2020 1559](https://fedlex.data.admin.ch/eli/oc/2020/310); [2021 536](https://fedlex.data.admin.ch/eli/oc/2021/536); [2022 516](https://fedlex.data.admin.ch/eli/oc/2022/516); [2023 587](https://fedlex.data.admin.ch/eli/oc/2023/587); [2024 494](https://fedlex.data.admin.ch/eli/oc/2024/494). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Dichiarazioni
 
@@ -583,7 +587,7 @@ Dichiarazioni
 
 \2. Conformemente all’articolo 32 della Convenzione, la Svizzera riconosce la competenza del Comitato sulle sparizioni forzate a ricevere ed esaminare comunicazioni in cui uno Stato parte lamenta che un altro Stato parte non sta adempiendo agli obblighi derivanti dalla Convenzione.
 
-Stati che hanno dichiarato di riconoscere la competenza del Comitato sulle sparizioni forzate, conformemente agli articoli 31 e 32 della Convenzione
+## Stati che hanno dichiarato di riconoscere la competenza del Comitato sulle sparizioni forzate, conformemente agli articoli 31 e 32 della Convenzione
 
 Albania
 

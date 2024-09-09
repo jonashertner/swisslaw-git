@@ -3,11 +3,11 @@ sr: "0.103.3"
 title: Internationales Übereinkommen vom 20. Dezember 2006 zum Schutz aller Personen vor dem Verschwindenlassen
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/757"
 language: de
-version: 2023-10-13
+version: 2024-09-10
 adopted: 2006-12-20
 in_force: 2017-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/757/20231013/de/xml/fedlex-data-admin-ch-eli-cc-2016-757-20231013-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/757/20231013/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/757/20240910/de/xml/fedlex-data-admin-ch-eli-cc-2016-757-20240910-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/757/20240910/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 2. Dezember 2016
 
 In Kraft getreten für die Schweiz am 1. Januar 2017
 
-(Stand am 13. Oktober 2023)
+(Stand am 10. September 2024)
 
 [^t-1]: [AS 2016 4687](https://fedlex.data.admin.ch/eli/oc/2016/756)
 
@@ -500,13 +500,14 @@ Dieses Übereinkommen lässt die Bestimmungen des humanitären Völkerrechts ein
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 13. Oktober 2023[^t-2]
+Geltungsbereich am 10. September 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Albanien</td><td>8. November</td><td>2007</td><td>23. Dezember</td><td>2010</td></tr>
 <tr><td>Argentinien</td><td>14. Dezember</td><td>2007</td><td>23. Dezember</td><td>2010</td></tr>
 <tr><td>Armenien</td><td>24. Januar</td><td>2011</td><td>23. Februar</td><td>2011</td></tr>
+<tr><td>Bangladesch</td><td>30. August</td><td>2024 B</td><td>29. September</td><td>2024</td></tr>
 <tr><td>Belgien\*\*</td><td>2. Juni</td><td>2011</td><td>2. Juli</td><td>2011</td></tr>
 <tr><td>Belize</td><td>14. August</td><td>2015 B</td><td>13. September</td><td>2015</td></tr>
 <tr><td>Benin</td><td>2. November</td><td>2017</td><td>2. Dezember</td><td>2017</td></tr>
@@ -516,6 +517,7 @@ Geltungsbereich am 13. Oktober 2023[^t-2]
 <tr><td>Burkina Faso</td><td>3. Dezember</td><td>2009</td><td>23. Dezember</td><td>2010</td></tr>
 <tr><td>Chile</td><td>8. Dezember</td><td>2009</td><td>23. Dezember</td><td>2010</td></tr>
 <tr><td>Costa Rica</td><td>16. Februar</td><td>2012</td><td>17. März</td><td>2012</td></tr>
+<tr><td>Côte d’Ivoire</td><td>6. Juni</td><td>2024 B</td><td>6. Juli</td><td>2024</td></tr>
 <tr><td>Dänemark <sup>a</sup></td><td>13. Januar</td><td>2022</td><td>12. Februar</td><td>2022</td></tr>
 <tr><td>Deutschland\* \*\*</td><td>24. September</td><td>2009</td><td>23. Dezember</td><td>2010</td></tr>
 <tr><td>Dominica</td><td>13. Mai</td><td>2019 B</td><td>12. Juni</td><td>2019</td></tr>
@@ -571,7 +573,9 @@ Geltungsbereich am 13. Oktober 2023[^t-2]
 <tr><td>Slowenien</td><td>15. Dezember</td><td>2021</td><td>14. Januar</td><td>2022</td></tr>
 <tr><td>Spanien</td><td>24. September</td><td>2009</td><td>23. Dezember</td><td>2010</td></tr>
 <tr><td>Sri Lanka</td><td>25. Mai</td><td>2016</td><td>24. Juni</td><td>2016</td></tr>
+<tr><td>Südafrika</td><td>14. Mai</td><td>2024 B</td><td>13. Juni</td><td>2024</td></tr>
 <tr><td>Sudan\*</td><td>10. August</td><td>2021 B</td><td>9. September</td><td>2021</td></tr>
+<tr><td>Thailand\*</td><td>14. Mai</td><td>2024</td><td>13. Juni</td><td>2024</td></tr>
 <tr><td>Togo</td><td>21. Juli</td><td>2014</td><td>20. August</td><td>2014</td></tr>
 <tr><td>Tschechische Republik</td><td>8. Februar</td><td>2017</td><td>10. März</td><td>2017</td></tr>
 <tr><td>Tunesien</td><td>29. Juni</td><td>2011</td><td>29. Juli</td><td>2011</td></tr>
@@ -581,7 +585,7 @@ Geltungsbereich am 13. Oktober 2023[^t-2]
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. \*\* Einwendungen. Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen (UNO): [https://treaties.un.org](https://treaties.un.org) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für die Färöer und Grönland.</td></tr>
 </table>
 
-[^t-2]: [AS 2016 4693](https://fedlex.data.admin.ch/eli/oc/2016/757); [2018 3029](https://fedlex.data.admin.ch/eli/oc/2018/474); [2020 1559](https://fedlex.data.admin.ch/eli/oc/2020/310); [2021 536](https://fedlex.data.admin.ch/eli/oc/2021/536); [2022 516](https://fedlex.data.admin.ch/eli/oc/2022/516); [2023 587](https://fedlex.data.admin.ch/eli/oc/2023/587). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht www.fedlex.admin.ch/de/treaty.
+[^t-2]: [AS 2016 4693](https://fedlex.data.admin.ch/eli/oc/2016/757); [2018 3029](https://fedlex.data.admin.ch/eli/oc/2018/474); [2020 1559](https://fedlex.data.admin.ch/eli/oc/2020/310); [2021 536](https://fedlex.data.admin.ch/eli/oc/2021/536); [2022 516](https://fedlex.data.admin.ch/eli/oc/2022/516); [2023 587](https://fedlex.data.admin.ch/eli/oc/2023/587); [2024 494](https://fedlex.data.admin.ch/eli/oc/2024/494). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Erklärungen
 
