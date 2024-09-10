@@ -3,31 +3,29 @@ sr: "0.814.287"
 title: "Convenzione del 29 dicembre 1972 sulla prevenzione dell'inquinamento marino causato dallo scarico di rifiuti ed altre materie (con Allegati e Memorandum)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/1335_1335_1335"
 language: it
-version: 2019-03-21
+version: 2024-09-11
 adopted: 1972-12-29
 in_force: 1979-08-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1335_1335_1335/20190321/it/xml/fedlex-data-admin-ch-eli-cc-1979-1335_1335_1335-20190321-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/1335_1335_1335/20190321/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1335_1335_1335/20240911/it/xml/fedlex-data-admin-ch-eli-cc-1979-1335_1335_1335-20240911-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/1335_1335_1335/20240911/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Convenzione sulla prevenzione dell’inquinamento marino causato dallo scarico di rifiuti ed altre materie****
+# Convenzione sulla prevenzione dell’inquinamento marino causato dallo scarico di rifiuti ed altre materie
 
-Traduzione[^t-1]
+RU **1979** 1335; FF **1978** II 429[^t-1]
 
-Conclusa a Londra, Messico, Mosca e Washington il 29 dicembre 1972
+Traduzione
 
-Approvata dall’Assemblea federale il 14 marzo 1979[^t-2]
-
-Strumento di ratifica depositato dalla Svizzera il 31 luglio 1979
+Conclusa a Londra, Messico, Mosca e Washington il 29 dicembre 1972 Approvata dall’Assemblea federale il 14 marzo 1979[^t-2] Strumento di ratifica depositato dalla Svizzera il 31 luglio 1979
 
 Entrata in vigore per la Svizzera il 30 agosto 1979
 
-(Stato 21 marzo 2019)
+(Stato 11 settembre 2024)
 
-[^t-1]: RU **1979** 1335; FF **1978** II 429 Per le Parti contraenti della presente Conv., che sono nel contempo Membri del Prot. del 1996 del 7 nov. 1996 (RS **0.814.287.1**), il Prot. sostituirà la presente Conv.
-[^t-2]: [RU 1979 1334](https://fedlex.data.admin.ch/eli/oc/1979/1334_1334_1334)
+[^t-1]: Per le Parti contraenti della presente Conv., che sono nel contempo Membri del Prot. del 1996 del 7 nov. 1996 ([RS 0.814.287.1](https://fedlex.data.admin.ch/eli/cc/2006/327)), il Prot. sostituirà la presente Conv.
+[^t-2]: Art. 1 de DF del 14 mar. 1979 ([RU 1979 1334](https://fedlex.data.admin.ch/eli/oc/1979/1334_1334_1334)).
 
 Le Parti contraenti della presente Convenzione,
 
@@ -262,7 +260,7 @@ L’originale della presente Convenzione, i cui testi francese, inglese, russo e
 
 *In fede di che,* i sottoscritti Plenipotenziari, debitamente autorizzati a tale scopo dai loro rispettivi governi, firmano la presente Convenzione. Fatto in quattro esemplari a Londra, Messico, Mosca e Washington, il ventinove dicembre 1972. (Si omettono le firme)
 
-Allegato I*[^t-3]*
+Allegato I[^t-3]
 
 \1. I composti organo‑alogenici.
 
@@ -317,11 +315,11 @@ Il presente paragrafo non si applica alle scorie radioattive o alle altre materi
 
 [^t-3]: Aggiornato giusta gli emendamenti del 12 ott. 1978 (RU **1998** 1340), del 24 set. 1980 (RU **1986** 1346) e giusta le Ris. LC.49 (16), LC. 50 (16) e LC. 51 (16), adottate il 12 nov. 2003, in vigore dal 20 feb. 2004 (RU **2005** 71).
 
-## Norme relative al controllo dell’incenerimento in mare di rifiuti e di altri materialiru
+### Norme relative al controllo dell’incenerimento in mare di rifiuti e di altri materialiru
 
-[^annexI-lvlu2-1]
+[^annexI-lvlu1-lvlu1-1]
 
-[^annexI-lvlu2-1]: RU **1986** 1341
+[^annexI-lvlu1-lvlu1-1]: RU **1986** 1341
 
 ### Parte prima
 
@@ -334,7 +332,7 @@ Ai fini della presente aggiunta:
 
 ### **Regola 2**Campo d’applicazione
 
-\1) La seconda parte delle presenti regole si applica ai rifiuti o ai seguenti altri materiali.
+\1) La seconda parte delle presenti regole si applica ai rifiuti o ai seguenti altri materiali:
 
 - a) quelli menzionati al paragrafo 1 dell’Allegato I;
 - b) i pesticidi ed i loro sottoprodotti non menzionati all’Allegato I.
@@ -389,7 +387,7 @@ Ai fini della presente aggiunta:
 
 Tasso di combustione
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1335_1335_1335/20190321/it/xml/image/image1.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1335_1335_1335/20240911/it/xml/image/image1.png)</sub>
 
 in cui
 
@@ -420,7 +418,7 @@ Una richiesta di autorizzazione per l’incenerimento in mare di rifiuti o di al
 
 ### **Regola 8**Luoghi d’incenerimento
 
-\1) I criteri che regolano la scelta dei luoghi d’incenerimento sono determinati dai seguenti fattori, nonché dalle osservazioni di cui all’Allegato III della Convenzione;
+\1) I criteri che regolano la scelta dei luoghi d’incenerimento sono determinati dai seguenti fattori, nonché dalle osservazioni di cui all’Allegato III della Convenzione:
 
 - a) le caratteristiche di dispersione nell’atmosfera della zona, in particolar modo la velocità e la direzione dei venti, la stabilità atmosferica, la frequenza delle inversioni e delle nebbie, i tipi di precipitazioni e la loro importanza, l’umidità, in modo da determinare la possibile incidenza degli elementi inquinanti sfuggiti dall’impianto d’incenerimento in mare sull’ambiente circostante, rivolgendo una particolare attenzione all’eventualità del trasporto atmosferico degli elementi inquinanti verso le zone costiere;
 - b) le caratteristiche di dispersione oceanica della zona in modo da valutare il possibile effetto degli elementi inquinanti scaricati nell’oceano in seguito all’azione che il «pennacchio» atmosferico esercita sulla superficie dell’acqua e viceversa;
@@ -432,7 +430,7 @@ Una richiesta di autorizzazione per l’incenerimento in mare di rifiuti o di al
 
 Le Parti contraenti devono osservare le procedure di notifica adottate delle Parti contraenti di comune accordo.
 
-Allegato II*[^t-4]*
+Allegato II[^t-4]
 
 Le sostanze e i materiali il cui scarico necessita di precauzioni speciali sono elencati qui di seguito ai sensi dell’articolo VI paragrafo 1 lettera a.
 
@@ -451,7 +449,7 @@ D. I materiali che, ancorché non tossici per natura, possono divenire nocivi in
 
 [^t-4]: Aggiornato giusta gli emendamenti del 12 ott. 1978 (RU **1998** 1340), del 24 set. 1980 (RU **1986** 1346) e giusta le Ris. LC.49 (16) e LC. 51 (16), adottate il 12 nov. 2003, in vigore dal 20 feb. 2004 (RU **2005** 71).
 
-Allegato III*[^t-5]*
+Allegato III[^t-5]
 
 Le disposizioni che devono essere prese in considerazione per fissare i criteri che regolano le autorizzazioni di scarico di materiali, secondo le disposizioni dell’articolo IV, paragrafo 2, sono soprattutto le seguenti:
 
@@ -513,7 +511,7 @@ La Conferenza ha convenuto, su parere del Gruppo di lavoro tecnico, che durante 
 
 All’entrata in vigore della Convenzione, questo metodo di rigetto, che sarà utilizzato non oltre un periodo di cinque anni, sarà sottoposto alle disposizioni applicabili dell’articolo XIV paragrafo 4.
 
-Campo d’applicazione il 21 marzo 2019**[^t-6]**
+Campo d’applicazione l’11 settembre 2024[^t-6]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -526,7 +524,7 @@ Campo d’applicazione il 21 marzo 2019**[^t-6]**
 <tr><td>Belarus</td><td>29 gennaio</td><td>1976</td><td>28 febbraio</td><td>1976</td></tr>
 <tr><td>Belgio<sup>\*</sup></td><td>12 giugno</td><td>1985</td><td>12 luglio</td><td>1985</td></tr>
 <tr><td>Benin</td><td>28 aprile</td><td>2011 A</td><td>28 maggio</td><td>2011</td></tr>
-<tr><td>Bolivia</td><td>10 luglio</td><td>1999 A</td><td>9 agosto</td><td>1999</td></tr>
+<tr><td>Bolivia</td><td>10 luglio</td><td>1999</td><td>9 agosto</td><td>1999</td></tr>
 <tr><td>Brasile</td><td>26 luglio</td><td>1982 A</td><td>25 agosto</td><td>1982</td></tr>
 <tr><td>Bulgaria</td><td>25 gennaio</td><td>2006 A</td><td>24 febbraio</td><td>2006</td></tr>
 <tr><td>Canada</td><td>13 novembre</td><td>1975</td><td>13 dicembre</td><td>1975</td></tr>
@@ -557,7 +555,7 @@ Campo d’applicazione il 21 marzo 2019**[^t-6]**
 <tr><td>Giordania</td><td>11 novembre</td><td>1974</td><td>30 agosto</td><td>1975</td></tr>
 <tr><td>Grecia<sup>\*</sup></td><td>10 agosto</td><td>1981</td><td>9 settembre</td><td>1981</td></tr>
 <tr><td>Guatemala</td><td>14 luglio</td><td>1975</td><td>30 agosto</td><td>1975</td></tr>
-<tr><td>Guinea equatoriale</td><td>21 gennaio</td><td>2004</td><td>20 febbraio</td><td>2004</td></tr>
+<tr><td>Guinea equatoriale</td><td>21 gennaio</td><td>2004 A</td><td>20 febbraio</td><td>2004</td></tr>
 <tr><td>Haiti</td><td>28 agosto</td><td>1975</td><td>27 settembre</td><td>1975</td></tr>
 <tr><td>Honduras</td><td>2 maggio</td><td>1980</td><td>1° giugno</td><td>1980</td></tr>
 <tr><td>Iran</td><td>20 gennaio</td><td>1997 A</td><td>19 febbraio</td><td>1997</td></tr>
@@ -623,8 +621,7 @@ Campo d’applicazione il 21 marzo 2019**[^t-6]**
 <tr><td>Ucraina</td><td>5 febbraio</td><td>1976</td><td>6 marzo</td><td>1976</td></tr>
 <tr><td>Ungheria</td><td>5 febbraio</td><td>1976</td><td>6 marzo</td><td>1976</td></tr>
 <tr><td>Vanuatu</td><td>22 settembre</td><td>1992 A</td><td>22 ottobre</td><td>1992</td></tr>
-<tr><td colspan="5">[tab]</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. <sup>\*\*</sup> Obiezioni. Le riserve, dichiarazione e obiezioni non sono pubblicate nella RU. Il testo, in inglese, può essere consultato sul sito Internet dell’Organizzazione internazionale per la navigazione marittima (IMO): www.imo.org/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. non vale per le isole Cook, Niue e Tokelau.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. <sup>\*\*</sup> Obiezioni. Le riserve, dichiarazioni ed obiezioni non sono pubblicate nella RU. I testi in inglese possono essere ottenuti sul sito Internet dell’Organizzazione internazionale marittima (IMO): www.imo.org &gt; Qui nous sommes &gt; Conventions &gt; État des conventions &gt; Status Book, oppure presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. non vale per le isole Cook, Niue e Tokelau.</td></tr>
 </table>
 
-[^t-6]: [RU 1979 1335](https://fedlex.data.admin.ch/eli/oc/1979/1335_1335_1335), [1982 1816](https://fedlex.data.admin.ch/eli/oc/1982/1816_1816_1816), [1983 261](https://fedlex.data.admin.ch/eli/oc/1983/261_261_261), [1985 887](https://fedlex.data.admin.ch/eli/oc/1985/887_887_887), [1986 1172](https://fedlex.data.admin.ch/eli/oc/1986/1172_1172_1172), [1987 1225](https://fedlex.data.admin.ch/eli/oc/1987/1225_1225_1225), [1991 360](https://fedlex.data.admin.ch/eli/oc/1991/360_360_360), [1993 2746](https://fedlex.data.admin.ch/eli/oc/1993/2746_2746_2746), [2005 73](https://fedlex.data.admin.ch/eli/oc/2005/14), [2009 3727](https://fedlex.data.admin.ch/eli/oc/2009/474), [2013 2667](https://fedlex.data.admin.ch/eli/oc/2013/541), [2019 1075](https://fedlex.data.admin.ch/eli/oc/2019/202). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-6]: [RU 1979 1335](https://fedlex.data.admin.ch/eli/oc/1979/1335_1335_1335); [1982 1816](https://fedlex.data.admin.ch/eli/oc/1982/1816_1816_1816); [1983 261](https://fedlex.data.admin.ch/eli/oc/1983/261_261_261); [1985 887](https://fedlex.data.admin.ch/eli/oc/1985/887_887_887); [1986 1172](https://fedlex.data.admin.ch/eli/oc/1986/1172_1172_1172); [1987 1225](https://fedlex.data.admin.ch/eli/oc/1987/1225_1225_1225); [1991 360](https://fedlex.data.admin.ch/eli/oc/1991/360_360_360); [1993 2746](https://fedlex.data.admin.ch/eli/oc/1993/2746_2746_2746); [2009 3727](https://fedlex.data.admin.ch/eli/oc/2009/474); [2013 2667](https://fedlex.data.admin.ch/eli/oc/2013/541); [2019 1075](https://fedlex.data.admin.ch/eli/oc/2019/202); [2024 498](https://fedlex.data.admin.ch/eli/oc/2024/498). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty

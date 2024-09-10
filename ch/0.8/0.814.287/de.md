@@ -3,32 +3,33 @@ sr: "0.814.287"
 title: Übereinkommen vom 29. Dezember 1972 über die Verhütung der Meeresverschmutzung durch das Versenken von Abfällen und anderen Stoffen (mit Anlagen und Memorandum)
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/1335_1335_1335"
 language: de
-version: 2019-03-21
+version: 2024-09-11
 adopted: 1972-12-29
 in_force: 1979-08-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1335_1335_1335/20190321/de/xml/fedlex-data-admin-ch-eli-cc-1979-1335_1335_1335-20190321-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/1335_1335_1335/20190321/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1335_1335_1335/20240911/de/xml/fedlex-data-admin-ch-eli-cc-1979-1335_1335_1335-20240911-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/1335_1335_1335/20240911/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Übereinkommen über die Verhütung der Meeresverschmutzung durch das Versenken von Abfällen und anderen Stoffen****
+# Übereinkommen über die Verhütung der Meeresverschmutzung durch das Versenken von Abfällen und anderen Stoffen
 
-[^t-2]as Übersetzung[^t-1]
+AS **1979** 1335; BBl **1978** II 445[^t-1]
+
+Übersetzung
 
 Abgeschlossen in London, Mexiko, Moskau und Washington am 29. Dezember 1972
 
-Von der Bundesversammlung genehmigt am 14. März 1979[^t-3]
+Von der Bundesversammlung genehmigt am 14. März 1979[^t-2]
 
 Schweizerische Ratifikationsurkunde hinterlegt am 31. Juli 1979
 
 In Kraft getreten für die Schweiz am 30. August 1979
 
-(Stand am 21. März 2019)
+(Stand am 11. September 2024)
 
 [^t-1]: Für die Vertragsparteien des Prot. vom 7. Nov. 1996, die auch Vertragsparteien des Übereink. sind, ersetzt das Prot. das Übereink. (siehe [SR 0.814.287.1](https://fedlex.data.admin.ch/eli/cc/2006/327)Art. 23).
-[^t-2]: [AS 1979 1335](https://fedlex.data.admin.ch/eli/oc/1979/1335_1335_1335); [BBl 1978 II 445](https://fedlex.data.admin.ch/eli/fga/1978/2_445_441_429)
-[^t-3]: [AS 1979 1334](https://fedlex.data.admin.ch/eli/oc/1979/1334_1334_1334)
+[^t-2]: [AS 1979 1334](https://fedlex.data.admin.ch/eli/oc/1979/1334_1334_1334)
 
 Die Vertragsparteien dieses Übereinkommens,
 
@@ -253,7 +254,7 @@ Geschehen zu London, Mexiko, Moskau und Washington am 29. Dezember 1972 in vier 
 
 (Es folgen die Unterschriften)
 
-Anlage I*[^t-4]*
+Anlage I[^t-3]
 
 \1. Organische Halogenverbindungen.
 
@@ -309,7 +310,7 @@ Dieser Absatz ist nicht auf radioaktive Abfälle und sonstige radioaktive Stoffe
 
 ## Zusatz
 
-[^t-4]: Bereinigt gemäss den Änderungen vom 12. Okt. 1978 ([AS 1986 1340](https://fedlex.data.admin.ch/eli/oc/1986/1340_1340_1340)), vom 24. Sept. 1980 (AS **1986** 1346) und den Res. LC.49-51 (16), angenommen am 12. Nov. 1993 und in Kraft getreten am 20. Febr. 1994 ([AS 2005 73](https://fedlex.data.admin.ch/eli/oc/2005/14)).
+[^t-3]: Bereinigt gemäss den Änderungen vom 12. Okt. 1978 ([AS 1986 1340](https://fedlex.data.admin.ch/eli/oc/1986/1340_1340_1340)), vom 24. Sept. 1980 (AS **1986** 1346) und den Res. LC.49-51 (16), angenommen am 12. Nov. 1993 und in Kraft getreten am 20. Febr. 1994 ([AS 2005 73](https://fedlex.data.admin.ch/eli/oc/2005/14)).
 
 ### Regeln für die Überwachung der Verbrennung von Abfällen und sonstigen Stoffen auf See
 
@@ -376,7 +377,7 @@ Im Sinne dieses Zusatzes haben die nachstehenden Ausdrücke folgende Bedeutung:
 
 - [tab] Wirkungsgrad der Verbrennung
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1335_1335_1335/20190321/de/xml/image/image1.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1335_1335_1335/20240911/de/xml/image/image1.png)</sub>
 
 - [tab] dabei ist
 - C<sub>CO2</sub> = Konzentration von Kohlendioxyd in den Abgasen,
@@ -417,7 +418,7 @@ Ein Antrag auf Erteilung einer Genehmigung zur Verbrennung von Abfällen oder so
 
 Die Vertragsparteien haben die auf dem Wege der Konsultation beschlossenen Benachrichtigungsverfahren einzuhalten.
 
-Anlage II*[^t-5]*
+Anlage II[^t-4]
 
 Folgende Stoffe und Gegenstände, die mit besonderer Sorgfalt zu behandeln sind, werden für die Zwecke des Artikels VI Absatz 1 Buchstabe a aufgeführt.
 
@@ -434,15 +435,15 @@ C. In dem in diesen Regeln und Richtlinien vorgesehenen Ausmass wenden die Vertr
 
 D. Stoffe, die zwar nicht giftig sind, jedoch wegen der Menge, in der sie eingebracht werden, schädlich werden können oder welche die Annehmlichkeiten der Umwelt ernstlich verringern können.
 
-[^t-5]: Bereinigt gemäss den Änderungen vom 12. Okt. 1978 ([AS 1986 1340](https://fedlex.data.admin.ch/eli/oc/1986/1340_1340_1340)), vom 24. Sept. 1980 (AS **1986** 1346) und den Res. LC.49 (16) und LC. 51 (16), angenommen am 12. Nov. 1993 und in Kraft getreten am 20. Febr. 1994 ([AS 2005 73](https://fedlex.data.admin.ch/eli/oc/2005/14)).
+[^t-4]: Bereinigt gemäss den Änderungen vom 12. Okt. 1978 ([AS 1986 1340](https://fedlex.data.admin.ch/eli/oc/1986/1340_1340_1340)), vom 24. Sept. 1980 (AS **1986** 1346) und den Res. LC.49 (16) und LC. 51 (16), angenommen am 12. Nov. 1993 und in Kraft getreten am 20. Febr. 1994 ([AS 2005 73](https://fedlex.data.admin.ch/eli/oc/2005/14)).
 
-Anlage III*[^t-6]*
+Anlage III[^t-5]
 
 Bei der Aufstellung von Kriterien für die Erteilung von Erlaubnissen für die Versenkung von Stoffen ins Meer nach Massgabe des Artikels IV Absatz 2 sind insbesondere folgende Umstände zu berücksichtigen:
 
 ## A. Eigenschaften und Zusammensetzung der Stoffe
 
-[^t-6]: Bereinigt gemäss Ziff. I der Änd. vom 3. Nov. 1989, in Kraft getreten für die Schweiz am 19. Mai 1990 ([AS 1993 2746](https://fedlex.data.admin.ch/eli/oc/1993/2746_2746_2746)).
+[^t-5]: Bereinigt gemäss Ziff. I der Änd. vom 3. Nov. 1989, in Kraft getreten für die Schweiz am 19. Mai 1990 ([AS 1993 2746](https://fedlex.data.admin.ch/eli/oc/1993/2746_2746_2746)).
 
 \1. Gesamtmenge und durchschnittliche Zusammensetzung der versenkten Stoffe (z. B. pro Jahr).
 
@@ -498,14 +499,14 @@ Die Konferenz kam auf Anraten der Technischen Arbeitsgruppe überein, dass fünf
 
 Sobald das Übereinkommen in Kraft tritt, unterliegt diese Beseitigungsmethode, die nicht länger als fünf Jahre angewendet werden darf, den entsprechenden Bestimmungen des Artikels XIV Absatz 4.
 
-Geltungsbereich am 21. März 2019**[^t-7]**
+Geltungsbereich am 11. September 2024[^t-6]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th colspan="2"></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Afghanistan</td><td>2. April</td><td colspan="2">1975 B</td><td>30. August</td><td>1975</td></tr>
 <tr><td>Ägypten</td><td>30. Juni</td><td colspan="2">1992 B</td><td>30. Juli</td><td>1992</td></tr>
 <tr><td>Antigua und Barbuda</td><td>6. Januar</td><td colspan="2">1989 B</td><td>5. Februar</td><td>1989</td></tr>
-<tr><td>Äquatorialguinea</td><td>21. Januar</td><td colspan="2">2004</td><td>20. Februar</td><td>2004</td></tr>
+<tr><td>Äquatorialguinea</td><td>21. Januar</td><td colspan="2">2004 B</td><td>20. Februar</td><td>2004</td></tr>
 <tr><td>Argentinien\* \*\*</td><td>12. September</td><td colspan="2">1979</td><td>12. Oktober</td><td>1979</td></tr>
 <tr><td>Aserbaidschan</td><td>1. Juli</td><td colspan="2">1997 B</td><td>31. Juli</td><td>1997</td></tr>
 <tr><td>Australien</td><td>21. August</td><td colspan="2">1985</td><td>20. September</td><td>1985</td></tr>
@@ -513,7 +514,7 @@ Geltungsbereich am 21. März 2019**[^t-7]**
 <tr><td>Belarus</td><td>29. Januar</td><td colspan="2">1976</td><td>28. Februar</td><td>1976</td></tr>
 <tr><td>Belgien\*</td><td>12. Juni</td><td colspan="2">1985</td><td>12. Juli</td><td>1985</td></tr>
 <tr><td>Benin</td><td>28. April</td><td colspan="2">2011 B</td><td>28. Mai</td><td>2011</td></tr>
-<tr><td>Bolivien</td><td>10. Juli</td><td colspan="2">1999 B</td><td>9. August</td><td>1999</td></tr>
+<tr><td>Bolivien</td><td>10. Juli</td><td colspan="2">1999</td><td>9. August</td><td>1999</td></tr>
 <tr><td>Brasilien</td><td>26. Juli</td><td colspan="2">1982 B</td><td>25. August</td><td>1982</td></tr>
 <tr><td>Bulgarien</td><td>25. Januar</td><td colspan="2">2006 B</td><td>24. Februar</td><td>2006</td></tr>
 <tr><td>Chile</td><td>4. August</td><td colspan="2">1977 B</td><td>3. September</td><td>1977</td></tr>
@@ -610,8 +611,8 @@ Geltungsbereich am 21. März 2019**[^t-7]**
 <tr><td>Zypern</td><td>7. Juni</td><td colspan="2">1990 B</td><td>7. Juli</td><td>1990</td></tr>
 <tr><td colspan="6">\* Vorbehalte und Erklärungen.</td></tr>
 <tr><td colspan="6">\*\* Einwendungen.</td></tr>
-<tr><td colspan="6">Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (IMO): www.imo.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="6">Die Vorbehalte, Erklärungen und Einwendungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite der Internationalen Seeschifffahrtsorganisation (IMO): www.imo.org/ &gt; Qui nous sommes &gt; Conventions &gt; État des conventions &gt; Status Book eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="6"><sup>a</sup> Gilt nicht für die Cook-Inseln, Niue und Tokelau.</td></tr>
 </table>
 
-[^t-7]: [AS 1979 1335](https://fedlex.data.admin.ch/eli/oc/1979/1335_1335_1335), [1982 1816](https://fedlex.data.admin.ch/eli/oc/1982/1816_1816_1816), [1983 261](https://fedlex.data.admin.ch/eli/oc/1983/261_261_261), [1985 887](https://fedlex.data.admin.ch/eli/oc/1985/887_887_887), [1986 1172](https://fedlex.data.admin.ch/eli/oc/1986/1172_1172_1172), [1987 1225](https://fedlex.data.admin.ch/eli/oc/1987/1225_1225_1225), [1991 360](https://fedlex.data.admin.ch/eli/oc/1991/360_360_360), [1993 2746](https://fedlex.data.admin.ch/eli/oc/1993/2746_2746_2746), [2005 73](https://fedlex.data.admin.ch/eli/oc/2005/14), [2009 3727](https://fedlex.data.admin.ch/eli/oc/2009/474), [2013 2667](https://fedlex.data.admin.ch/eli/oc/2013/541), [2019 1075](https://fedlex.data.admin.ch/eli/oc/2019/202). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-6]: [AS 1979 1335](https://fedlex.data.admin.ch/eli/oc/1979/1335_1335_1335); [1982 1816](https://fedlex.data.admin.ch/eli/oc/1982/1816_1816_1816); [1983 261](https://fedlex.data.admin.ch/eli/oc/1983/261_261_261); [1985 887](https://fedlex.data.admin.ch/eli/oc/1985/887_887_887); [1986 1172](https://fedlex.data.admin.ch/eli/oc/1986/1172_1172_1172); [1987 1225](https://fedlex.data.admin.ch/eli/oc/1987/1225_1225_1225); [1991 360](https://fedlex.data.admin.ch/eli/oc/1991/360_360_360); [1993 2746](https://fedlex.data.admin.ch/eli/oc/1993/2746_2746_2746); [2005 73](https://fedlex.data.admin.ch/eli/oc/2005/14); [2009 3727](https://fedlex.data.admin.ch/eli/oc/2009/474); [2013 2667](https://fedlex.data.admin.ch/eli/oc/2013/541); [2019 1075](https://fedlex.data.admin.ch/eli/oc/2019/202); [2024 498](https://fedlex.data.admin.ch/eli/oc/2024/498). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

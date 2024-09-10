@@ -3,48 +3,43 @@ sr: "0.814.287"
 title: "Convention du 29 décembre 1972 sur la prévention de la pollution des mers résultant de l'immersion de déchets (avec annexes et mémorandum)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1979/1335_1335_1335"
 language: fr
-version: 2019-03-21
+version: 2024-09-11
 adopted: 1972-12-29
 in_force: 1979-08-30
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1335_1335_1335/20190321/fr/xml/fedlex-data-admin-ch-eli-cc-1979-1335_1335_1335-20190321-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1979/1335_1335_1335/20190321/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1335_1335_1335/20240911/fr/xml/fedlex-data-admin-ch-eli-cc-1979-1335_1335_1335-20240911-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1979/1335_1335_1335/20240911/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Convention sur la prévention de la pollution des mers résultant de l’immersion de déchets****
+# Convention sur la prévention de la pollution des mers résultant de l’immersion de déchets
 
-[^t-2]ro Texte original[^t-1]
+RO **1979** 1335; FF **1978** II 441[^t-1]
 
-Conclue à Londres, Mexico, Moscou et Washington le 29 décembre 1972
+Texte original
 
-Approuvée par l’Assemblée fédérale le 14 mars 1979[^t-3]
+Conclue à Londres, Mexico, Moscou et Washington le 29 décembre 1972 Approuvée par l’Assemblée fédérale le 14 mars 1979[^t-2] Instrument de ratification déposé par la Suisse le 31 juillet 1979 Entrée en vigueur pour la Suisse le 30 août 1979
 
-Instrument de ratification déposé par la Suisse le 31 juillet 1979
+(État le 11 septembre 2024)
 
-Entrée en vigueur pour la Suisse le 30 août 1979
-
-(Etat le 21 mars 2019)
-
-[^t-1]: Le Prot. de 1996 du 7 nov. 1996 à la Conv. de 1972 sur la prévention de la pollution des mers résultant de l'immersion de déchets et d'autres matières remplace la présente Conv. entre les Parties contractantes au présent Prot. qui sont également Parties à la dite Conv., ([RS 0.814.287.1](https://fedlex.data.admin.ch/eli/cc/2006/327)art. 23).
-[^t-2]: [RO 1979 1335](https://fedlex.data.admin.ch/eli/oc/1979/1335_1335_1335); [FF 1978 II 441](https://fedlex.data.admin.ch/eli/fga/1978/2_445_441_429)
-[^t-3]: Art. 1<sup>er</sup> de l’AF du 14 mars 1979 ([RO 1979 1334](https://fedlex.data.admin.ch/eli/oc/1979/1334_1334_1334))
+[^t-1]: Le Prot. de 1996 du 7 nov. 1996 à la Conv. de 1972 sur la prévention de la pollution des mers résultant de l’immersion de déchets et d’autres matières remplace la présente Conv. entre les Parties contractantes au présent Prot. qui sont également Parties à la dite Conv., ([RS 0.814.287.1](https://fedlex.data.admin.ch/eli/cc/2006/327)art. 23).
+[^t-2]: Art. 1<sup>er</sup> de l’AF du 14 mars 1979 ([RO 1979 1334](https://fedlex.data.admin.ch/eli/oc/1979/1334_1334_1334))
 
 Les Parties contractantes à la présente Convention,
 
-reconnaissant que le milieu marin et les organismes vivants qu’il nourrit sont d’une importance capitale pour l’humanité et que l’humanité tout entière a intérêt à veiller à ce que ce milieu soit géré en sorte que ses qualités et ses ressources ne soient pas altérées;
+reconnaissant que le milieu marin et les organismes vivants qu’il nourrit sont d’une importance capitale pour l’humanité et que l’humanité tout entière a intérêt à veiller à ce que ce milieu soit géré en sorte que ses qualités et ses ressources ne soient pas altérées,
 
-reconnaissant que la capacité de la mer d’assimiler les déchets et de les rendre inoffensifs et ses possibilités de régénérer les ressources naturelles ne sont pas illimitées;
+reconnaissant que la capacité de la mer d’assimiler les déchets et de les rendre inoffensifs et ses possibilités de régénérer les ressources naturelles ne sont pas illimitées,
 
-reconnaissant que les Etats ont, en vertu de la Charte des Nations Unies et des principes du droit international, le droit souverain d’exploiter leurs propres ressources selon leur politique de l’environnement et qu’ils ont le devoir de s’assurer que les activités exercées dans les limites de leur juridiction ou sous leur contrôle ne causent pas de dommage à l’environnement d’autres Etats ou de zones situées en dehors des limites de leur juridiction nationale;
+reconnaissant que les États ont, en vertu de la Charte des Nations Unies et des principes du droit international, le droit souverain d’exploiter leurs propres ressources selon leur politique de l’environnement et qu’ils ont le devoir de s’assurer que les activités exercées dans les limites de leur juridiction ou sous leur contrôle ne causent pas de dommage à l’environnement d’autres États ou de zones situées en dehors des limites de leur juridiction nationale,
 
-rappelant la Résolution 2749 (XXV) de l’Assemblée générale des Nations Unies sur les principes gouvernant les fonds marins et leur sous‑sol situés en dehors des limites des juridictions nationales;
+rappelant la Résolution 2749 (XXV) de l’Assemblée générale des Nations Unies sur les principes gouvernant les fonds marins et leur sous‑sol situés en dehors des limites des juridictions nationales,
 
-constatant que la pollution marine a des sources multiples, notamment l’immersion, l’évacuation par l’intermédiaire de l’atmosphère, des cours d’eau, des estuaires, des émissaires et des canalisations, et qu’il est important que les Etats utilisent les meilleurs moyens possibles pour prévenir une telle pollution et mettent au point des produits et des procédés qui réduiront la quantité de déchets nuisibles à éliminer;
+constatant que la pollution marine a des sources multiples, notamment l’immersion, l’évacuation par l’intermédiaire de l’atmosphère, des cours d’eau, des estuaires, des émissaires et des canalisations, et qu’il est important que les États utilisent les meilleurs moyens possibles pour prévenir une telle pollution et mettent au point des produits et des procédés qui réduiront la quantité de déchets nuisibles à éliminer,
 
-convaincues qu’une action internationale de contrôle de la pollution des mers résultant d’opérations d’immersion peut et doit être menée sans tarder, mais que cette action ne doit pas empêcher l’étude de mesures de lutte contre les autres sources de pollution marine dès que possible; et
+convaincues qu’une action internationale de contrôle de la pollution des mers résultant d’opérations d’immersion peut et doit être menée sans tarder, mais que cette action ne doit pas empêcher l’étude de mesures de lutte contre les autres sources de pollution marine dès que possible, et
 
-désireuses d’améliorer la protection du milieu marin en encourageant les Etats ayant des intérêts communs dans des régions géographiques déterminées à conclure des accords appropriés pour compléter la présente Convention;
+désireuses d’améliorer la protection du milieu marin en encourageant les États ayant des intérêts communs dans des régions géographiques déterminées à conclure des accords appropriés pour compléter la présente Convention,
 
 sont convenus de ce qui suit:
 
@@ -78,7 +73,7 @@ Aux fins de la présente Convention:
 
 <sup>2.</sup> L’expression «navires et aéronefs» s’entend des véhicules circulant sur l’eau, dans l’eau ou dans les airs, quel qu’en soit le type. Cette expression englobe les véhicules sur coussin d’air et les engins flottants, qu’ils soient autopropulsés ou non.
 
-<sup>3.</sup> Le terme «mer» s’entend de toutes les eaux marines à l’exception des eaux intérieures des Etats.
+<sup>3.</sup> Le terme «mer» s’entend de toutes les eaux marines à l’exception des eaux intérieures des États.
 
 <sup>4.</sup> L’expression «déchets et autres matières» s’entend des matériaux et substances de tout type, de toute forme et de toute nature.
 
@@ -126,7 +121,7 @@ Chaque Partie contractante désigne une ou plusieurs autorités compétentes pou
 La ou les autorités compétentes d’une Partie contractante délivreront les permis généraux ou spécifiques préalables conformément aux dispositions du par. 1 ci-dessus pour les matières destinées à l’immersion:
 
 - a. chargées sur son territoire;
-- b. chargées par un navire ou un aéronef enregistré sur son territoire ou battant son pavillon, lorsque ce chargement a lieu sur le territoire d’un Etat non Partie à la présente Convention.
+- b. chargées par un navire ou un aéronef enregistré sur son territoire ou battant son pavillon, lorsque ce chargement a lieu sur le territoire d’un État non Partie à la présente Convention.
 
 <sup>3.</sup> Dans la délivrance des permis prévus au par. 1, al. a et b ci‑dessus, la ou les autorités compétentes se conforment aux dispositions de l’Annexe III, ainsi qu’aux critères, mesures et conditions supplémentaires qu’elles jugeraient pertinents.
 
@@ -146,7 +141,7 @@ Chaque Partie contractante applique les mesures requises pour la mise en œuvre 
 
 <sup>3.</sup> Les Parties conviennent de coopérer à l’élaboration de procédures en vue de la mise en œuvre effective de la présente Convention, particulièrement en haute mer, y compris de procédures pour signaler des navires et aéronefs observés alors qu’ils se livrent à des opérations d’immersion en contravention des dispositions de la présente Convention.
 
-<sup>4.</sup> La présente Convention ne s’applique pas aux navires et aéronefs jouissant de l’immunité d’Etat qui leur est conférée par le droit international. Néanmoins, chaque Partie, par l’adoption de mesures appropriées, veille à ce que de tels navires et aéronefs dont elle est propriétaire ou utilisatrice agissent de manière conforme aux buts et objectifs de la présente Convention et informe l’Organisation en conséquence.
+<sup>4.</sup> La présente Convention ne s’applique pas aux navires et aéronefs jouissant de l’immunité d’État qui leur est conférée par le droit international. Néanmoins, chaque Partie, par l’adoption de mesures appropriées, veille à ce que de tels navires et aéronefs dont elle est propriétaire ou utilisatrice agissent de manière conforme aux buts et objectifs de la présente Convention et informe l’Organisation en conséquence.
 
 <sup>5.</sup> Aucune des dispositions de la présente Convention ne porte atteinte au droit de chaque Partie d’adopter d’autres mesures, conformément aux principes du droit international, pour prévenir l’immersion en mer.
 
@@ -166,7 +161,7 @@ Les Parties contractantes facilitent, par leur collaboration au sein de l’Orga
 
 #### Art. X
 
-En accord avec les principes du droit international relatifs à la responsabilité des Etats en matière de dommages causés à l’environnement d’autres Etats ou à tout autre secteur de l’environnement par l’immersion de déchets ou autres matières de toute sorte, les Parties contractantes entreprendront l’élaboration de procédures pour la détermination des responsabilités et pour le règlement des différends en ce qui concerne l’immersion.
+En accord avec les principes du droit international relatifs à la responsabilité des États en matière de dommages causés à l’environnement d’autres États ou à tout autre secteur de l’environnement par l’immersion de déchets ou autres matières de toute sorte, les Parties contractantes entreprendront l’élaboration de procédures pour la détermination des responsabilités et pour le règlement des différends en ce qui concerne l’immersion.
 
 #### Art. XI
 
@@ -187,7 +182,7 @@ Les Parties contractantes s’engagent à promouvoir, dans le cadre des institut
 
 #### Art. XIII
 
-Aucune disposition de la présente Convention ne préjuge la codification et l’élabo-ration du droit de la mer par la Conférence des Nations Unies sur le droit de la mer convoquée en vertu de la résolution 2750C (XXV) de l’Assemblée générale des Nations Unies ni les revendications et positions juridiques présentes ou futures de tout Etat touchant le droit de la mer et la nature et l’étendue de sa juridiction côtière et de la juridiction qu’il exerce sur les navires battant son pavillon. Les Parties contractantes conviennent de se consulter lors d’une réunion qui sera convoquée par l’Organisation postérieurement à la Conférence sur le droit de la mer et en tout cas au plus tard en 1976 en vue de définir la nature et l’étendue des droits et obligations d’un Etat côtier quant à l’application des dispositions de la Convention dans une zone adjacente à ses côtes.
+Aucune disposition de la présente Convention ne préjuge la codification et l’élabo-ration du droit de la mer par la Conférence des Nations Unies sur le droit de la mer convoquée en vertu de la résolution 2750C (XXV) de l’Assemblée générale des Nations Unies ni les revendications et positions juridiques présentes ou futures de tout État touchant le droit de la mer et la nature et l’étendue de sa juridiction côtière et de la juridiction qu’il exerce sur les navires battant son pavillon. Les Parties contractantes conviennent de se consulter lors d’une réunion qui sera convoquée par l’Organisation postérieurement à la Conférence sur le droit de la mer et en tout cas au plus tard en 1976 en vue de définir la nature et l’étendue des droits et obligations d’un État côtier quant à l’application des dispositions de la Convention dans une zone adjacente à ses côtes.
 
 #### Art. XIV
 
@@ -230,15 +225,15 @@ Lors des réunions consultatives ou spéciales, les Parties contractantes procè
 
 #### Art. XVI
 
-La présente Convention sera ouverte à la signature de tout Etat à Londres, Mexico, Moscou et Washington du 29 décembre 1972 au 31 décembre 1973.
+La présente Convention sera ouverte à la signature de tout État à Londres, Mexico, Moscou et Washington du 29 décembre 1972 au 31 décembre 1973.
 
 #### Art. XVII
 
-La présente Convention sera soumise à ratification. Les instruments de ratification seront déposés auprès des Gouvernements des Etats‑Unis d’Amérique, du Mexique, du Royaume‑Uni de Grande‑Bretagne et d’Irlande du Nord, et de l’Union des Républiques Socialistes Soviétiques.
+La présente Convention sera soumise à ratification. Les instruments de ratification seront déposés auprès des Gouvernements des États‑Unis d’Amérique, du Mexique, du Royaume‑Uni de Grande‑Bretagne et d’Irlande du Nord, et de l’Union des Républiques Socialistes Soviétiques.
 
 #### Art. XVIII
 
-La présente Convention, après le 31 décembre 1973, sera ouverte à l’adhésion de tout Etat. Les instruments d’adhésion seront déposés auprès des Gouvernements des Etats‑Unis d’Amérique, du Mexique, du Royaume‑Uni de Grande-Bretagne et d’Irlande du Nord, et de l’Union des Républiques Socialistes Soviétiques.
+La présente Convention, après le 31 décembre 1973, sera ouverte à l’adhésion de tout État. Les instruments d’adhésion seront déposés auprès des Gouvernements des États‑Unis d’Amérique, du Mexique, du Royaume‑Uni de Grande-Bretagne et d’Irlande du Nord, et de l’Union des Républiques Socialistes Soviétiques.
 
 #### Art. XIX
 
@@ -259,11 +254,11 @@ Toute Partie contractante pourra dénoncer la présente Convention moyennant un 
 
 #### Art. XXII
 
-L’original de la présente Convention, dont les textes en anglais, espagnol, français et russe font également foi, est déposé auprès des Gouvernements des Etats-Unis d’Amérique, du Mexique, du Royaume‑Uni de Grande‑Bretagne et d’Irlande du Nord et de l’Union des Républiques Socialistes Soviétiques, qui en transmettent des copies certifiées conformes à tous les Etats.
+L’original de la présente Convention, dont les textes en anglais, espagnol, français et russe font également foi, est déposé auprès des Gouvernements des États-Unis d’Amérique, du Mexique, du Royaume‑Uni de Grande‑Bretagne et d’Irlande du Nord et de l’Union des Républiques Socialistes Soviétiques, qui en transmettent des copies certifiées conformes à tous les États.
 
 *En foi de quoi,* les Plénipotentiaires soussignés, dûment habilités à cet effet par leurs gouvernements respectifs, apposent leur signature à la présente Convention. Fait en quatre exemplaires à Londres, Mexico, Moscou et Washington, le vingt-neuf décembre 1972. (Suivent les signatures)
 
-Annexe I*[^t-4]*
+Annexe I[^t-3]
 
 \1. Les composés organohalogénés.
 
@@ -279,14 +274,14 @@ Annexe I*[^t-4]*
 
 \7. Les matières produites pour la guerre biologique et chimique sous quelque forme que ce soit (solide, liquide, semi‑liquide, gazeuse ou vivante).
 
-\8. A l’exception du par. 6 ci-dessus, les par. 1 à 7 de la présente Annexe ne s’appliquent pas aux substances qui sont rapidement rendues inoffensives dans la mer par des processus physiques, chimiques ou biologiques pourvu:
+\8. À l’exception du par. 6 ci-dessus, les par. 1 à 7 de la présente Annexe ne s’appliquent pas aux substances qui sont rapidement rendues inoffensives dans la mer par des processus physiques, chimiques ou biologiques pourvu:
 
 - i. qu’ils n’altèrent pas le goût des organismes marins comestibles, ou
 - ii. qu’ils ne présentent pas de danger pour la vie de l’homme ni des animaux domestiques.
 
 En cas de doute sur l’innocuité d’une substance, la Partie concernée aura recours à la procédure consultative prévue à l’art. XIV.
 
-\9. A l’exception des déchets industriels tels que définis au par. 11 ci-dessous, la présente Annexe ne s’applique pas aux déchets et autres matières, tels les boues d’égout et les matériaux de dragage, qui contiennent les substances définies aux par. 1 à 5 ci‑dessus à l’état de contaminants en traces. Le par. 6 ci-dessus ne s’applique pas aux déchets et autres matières (par exemple les boues d’égout et les déblais de dragage) qui contiennent des niveaux «de minimis» de radioactivité (pouvant faire l’objet d’exemptions) tels que définis par l’AIEA et adoptés par les Parties contractantes. A moins d’être interdite par ailleurs par l’Annexe I, l’immersion de ces déchets est soumise aux dispositions des Annexes II et III selon le cas.
+\9. À l’exception des déchets industriels tels que définis au par. 11 ci-dessous, la présente Annexe ne s’applique pas aux déchets et autres matières, tels les boues d’égout et les matériaux de dragage, qui contiennent les substances définies aux par. 1 à 5 ci‑dessus à l’état de contaminants en traces. Le par. 6 ci-dessus ne s’applique pas aux déchets et autres matières (par exemple les boues d’égout et les déblais de dragage) qui contiennent des niveaux «de minimis» de radioactivité (pouvant faire l’objet d’exemptions) tels que définis par l’AIEA et adoptés par les Parties contractantes. À moins d’être interdite par ailleurs par l’Annexe I, l’immersion de ces déchets est soumise aux dispositions des Annexes II et III selon le cas.
 
 - 10\. a) L’incinération en mer de déchets industriels tels que définis au par. 11 ci-dessous et de boues d’épuration est interdite.
 - b) L’incinération en mer de tous autres déchets ou matières est subordonnée à la délivrance d’un permis spécifique.
@@ -317,12 +312,11 @@ Le présent paragraphe ne s’applique pas aux déchets radioactifs ni aux autre
 
 \12. Dans un délai de 25 ans à compter de la date à laquelle l’amendement au par. 6 entre en vigueur et par la suite, à chaque intervalle de 25 ans, les Parties contractantes devront avoir achevé une étude scientifique concernant tous les déchets radioactifs et autres matières radioactives autres que les déchets ou matières fortement radioactifs, en tenant compte de tous les autres facteurs qu’elles jugeront appropriés, et devront passer en revue l’inscription de ces matières à l’Annexe I conformément aux procédures énoncées à l’art. XV.
 
-## ro Additif Règles relatives au contrôle de l’incinération en mer de déchets et autres matières
+## Additif
 
-[^annexI-lvlu1-1]
+[^t-3]: Mise à jour par les Am. du 12 oct. 1978 ([RO 1986 1340](https://fedlex.data.admin.ch/eli/oc/1986/1340_1340_1340)), du 24 sept. 1980 (RO **1986** 1346) et les résolutions LC.49 à 51 adoptées le 12 nov. 1993 et en vigueur depuis le 20 fév. 1994 ([RO 2005 73](https://fedlex.data.admin.ch/eli/oc/2005/14)).
 
-[^t-4]: Mise à jour selon les Am. du 12 oct. 1978 ([RO 1986 1340](https://fedlex.data.admin.ch/eli/oc/1986/1340_1340_1340)), du 24 sept. 1980 (RO **1986** 1346) et les résolutions LC.49 à 51 adoptées le 12 nov. 1993 et en vigueur depuis le 20 fév. 1994 ([RO 2005 73](https://fedlex.data.admin.ch/eli/oc/2005/14)).
-[^annexI-lvlu1-1]: RO **1986** 1341
+### Règles relatives au contrôle de l’incinération en mer de déchets et autres matières
 
 ### Première partie
 
@@ -367,7 +361,7 @@ Aux fins du présent additif:
 - a) Une visite initiale doit être effectuée afin de s’assurer qu’au cours des opérations d’incinération de déchets et autres matières, le taux de combustion et le taux de destruction dépassent 99,9 p. 100.
 - b)
 
-  Dans le cadre de la visite initiale, l’Etat sous la direction duquel la visite est effectuée doit:
+  Dans le cadre de la visite initiale, l’État sous la direction duquel la visite est effectuée doit:
 
   - i) approuver l’emplacement, le type et le mode d’emploi des appareils de mesure de la température;
   - ii) approuver les dispositifs d’échantillonnage des gaz y compris l’emplacement des points de prélèvement et les systèmes d’analyse ainsi que les modalités d’enregistrement;
@@ -398,7 +392,7 @@ Aux fins du présent additif:
 
 \2) Le taux de combustion qui doit être d’au moins 99,95 ± 0,05% est obtenu par la formule suivante:
 
-Taux de combustion <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1335_1335_1335/20190321/fr/xml/image/image1.png)</sub>
+Taux de combustion <sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1979/1335_1335_1335/20240911/fr/xml/image/image1.png)</sub>
 
 \3) Il ne doit pas y avoir ni fumée noire ni flammes au‑dessus du plan supérieur de la sortie du four.
 
@@ -450,7 +444,7 @@ Une demande de permis pour l’incinération en mer de déchets ou autres matiè
 
 Les Parties contractantes doivent observer les procédures de notification adoptées par les Parties contractantes en consultation.
 
-Annexe II*[^t-5]*
+Annexe II[^t-4]
 
 Les substances et matières dont l’immersion nécessite des précautions spéciales sont énumérées ci‑après aux fins de l’art. VI, par. 1, al. a.
 
@@ -468,15 +462,15 @@ C. Lorsqu’elles délivrent des permis spécifiques pour l’incinération de s
 
 D. Les matières qui, bien que non toxiques par nature, peuvent devenir nocives en raison des quantités immergées, ou qui sont de nature à diminuer sensiblement les agréments.
 
-[^t-5]: Mise à jour selon les Am. du 12 oct. 1978 ([RO 1986 1340](https://fedlex.data.admin.ch/eli/oc/1986/1340_1340_1340)), du 24 sept. 1980 (RO **1986** 1346) et les résolutions LC.49 et 51 adoptées le 12 nov. 1993, en vigueur depuis le 20 fév. 1994 ([RO 2005 73](https://fedlex.data.admin.ch/eli/oc/2005/14)).
+[^t-4]: Mise à jour par les Am. du 12 oct. 1978 ([RO 1986 1340](https://fedlex.data.admin.ch/eli/oc/1986/1340_1340_1340)), du 24 sept. 1980 (RO **1986** 1346) et les résolutions LC.49 et 51 adoptées le 12 nov. 1993, en vigueur depuis le 20 fév. 1994 ([RO 2005 73](https://fedlex.data.admin.ch/eli/oc/2005/14)).
 
-Annexe III*[^t-6]*
+Annexe III[^t-5]
 
 Les dispositions qui doivent être prises en considération pour établir les critères régissant la délivrance des autorisations d’immersion de matières, suivant les dispositions de l’art. IV, par. 2, sont notamment les suivantes:
 
 ## A. Caractéristiques et composition de la matière
 
-[^t-6]: Mise à jour selon ch. I de l’Am. du 3 nov. 1989, en vigueur depuis le 19 mai 1990 ([RO 1993 2746](https://fedlex.data.admin.ch/eli/oc/1993/2746_2746_2746)).
+[^t-5]: Mise à jour par ch. I de l’Am. du 3 nov. 1989, en vigueur depuis le 19 mai 1990 ([RO 1993 2746](https://fedlex.data.admin.ch/eli/oc/1993/2746_2746_2746)).
 
 \1. Quantité totale immergée et composition moyenne de la matière (par exemple par an).
 
@@ -532,120 +526,117 @@ La Conférence est convenue, sur l’avis du Groupe de travail technique, que pe
 
 Lors de l’entrée en vigueur de la Convention, cette méthode de rejet, qui ne sera pas utilisée pendant plus de cinq ans, sera soumise aux dispositions applicables de l’Art. XIV, par. 4.
 
-Champ d’application de la convention le 21 mars 2019**[^t-7]**
+Champ d’application de la convention le 11 septembre 2024[^t-6]
 
 <table>
-<tr><th colspan="2">Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
-<tr><td colspan="2">Afghanistan</td><td>2 avril</td><td>1975 A</td><td>30 août</td><td>1975</td></tr>
-<tr><td colspan="2">Afrique du Sud</td><td>7 août</td><td>1978 A</td><td>6 septembre</td><td>1978</td></tr>
-<tr><td colspan="2">Allemagne</td><td>8 novembre</td><td>1977</td><td>8 décembre</td><td>1977</td></tr>
-<tr><td colspan="2">Antigua-et-Barbuda</td><td>6 janvier</td><td>1989 A</td><td>5 février</td><td>1989</td></tr>
-<tr><td colspan="2">Argentine\* \*\*</td><td>12 septembre</td><td>1979</td><td>12 octobre</td><td>1979</td></tr>
-<tr><td colspan="2">Australie</td><td>21 août</td><td>1985</td><td>20 septembre</td><td>1985</td></tr>
-<tr><td colspan="2">Azerbaïdjan</td><td>1<sup>er</sup> juillet</td><td>1997 A</td><td>31 juillet</td><td>1997</td></tr>
-<tr><td colspan="2">Barbade</td><td>4 mai</td><td>1994 A</td><td>3 juin</td><td>1994</td></tr>
-<tr><td colspan="2">Bénin</td><td>28 avril</td><td>2011 A</td><td>28 mai</td><td>2011</td></tr>
-<tr><td colspan="2">Bélarus</td><td>29 janvier</td><td>1976</td><td>28 février</td><td>1976</td></tr>
-<tr><td colspan="2">Belgique\*</td><td>12 juin</td><td>1985</td><td>12 juillet</td><td>1985</td></tr>
-<tr><td colspan="2">Bolivie</td><td>10 juillet</td><td>1999 A</td><td>9 août</td><td>1999</td></tr>
-<tr><td colspan="2">Brésil</td><td>26 juillet</td><td>1982 A</td><td>25 août</td><td>1982</td></tr>
-<tr><td colspan="2">Bulgarie</td><td>25 janvier</td><td>2006 A</td><td>24 février</td><td>2006</td></tr>
-<tr><td colspan="2">Canada</td><td>13 novembre</td><td>1975</td><td>13 décembre</td><td>1975</td></tr>
-<tr><td colspan="2">Cap-Vert</td><td>26 mai</td><td>1977 A</td><td>25 juin</td><td>1977</td></tr>
-<tr><td colspan="2">Chili</td><td>4 août</td><td>1977 A</td><td>3 septembre</td><td>1977</td></tr>
-<tr><td colspan="2">Chine</td><td>22 octobre</td><td>1985 A</td><td>21 novembre</td><td>1985</td></tr>
-<tr><td colspan="2">Hong Kong</td><td>3 juin</td><td>1997</td><td>1<sup>er</sup> janvier</td><td>1997</td></tr>
-<tr><td colspan="2">Macao</td><td>12 mai</td><td>1999</td><td>20 décembre</td><td>1999</td></tr>
-<tr><td colspan="2">Chypre</td><td>7 juin</td><td>1990 A</td><td>7 juillet</td><td>1990</td></tr>
-<tr><td colspan="2">Congo (Kinshasa)</td><td>16 septembre</td><td>1975 A</td><td>16 octobre</td><td>1975</td></tr>
-<tr><td colspan="2">Corée (Sud)</td><td>21 décembre</td><td>1993 A</td><td>20 janvier</td><td>1994</td></tr>
-<tr><td colspan="2">Costa Rica</td><td>16 juin</td><td>1986</td><td>16 juillet</td><td>1986</td></tr>
-<tr><td colspan="2">Côte d’Ivoire</td><td>9 octobre</td><td>1987 A</td><td>8 novembre</td><td>1987</td></tr>
-<tr><td colspan="2">Croatie</td><td>23 septembre</td><td>1992 S</td><td>8 octobre</td><td>1991</td></tr>
-<tr><td colspan="2">Cuba</td><td>1<sup>er</sup> décembre</td><td>1975 A</td><td>31 décembre</td><td>1975</td></tr>
-<tr><td colspan="2">Danemark</td><td>23 octobre</td><td>1974</td><td>30 août</td><td>1975</td></tr>
-<tr><td colspan="2">Iles Féroé</td><td>2 novembre</td><td>1976 A</td><td>15 novembre</td><td>1976</td></tr>
-<tr><td colspan="2">Egypte</td><td>30 juin</td><td>1992 A</td><td>30 juillet</td><td>1992</td></tr>
-<tr><td colspan="2">Emirats arabes unis</td><td>9 août</td><td>1974 A</td><td>30 août</td><td>1975</td></tr>
-<tr><td colspan="2">Espagne</td><td>31 juillet</td><td>1974</td><td>30 août</td><td>1975</td></tr>
-<tr><td colspan="2">Etats-Unis</td><td>29 avril</td><td>1974</td><td>30 août</td><td>1975</td></tr>
-<tr><td colspan="2">Finlande</td><td>3 mai</td><td>1979</td><td>2 juin</td><td>1979</td></tr>
-<tr><td colspan="2">France\*</td><td>3 février</td><td>1977</td><td>5 mars</td><td>1977</td></tr>
-<tr><td colspan="2">Gabon</td><td>5 février</td><td>1982 A</td><td>7 mars</td><td>1982</td></tr>
-<tr><td colspan="2">Grèce\*</td><td>10 août</td><td>1981</td><td>9 septembre</td><td>1981</td></tr>
-<tr><td colspan="2">Guatemala</td><td>14 juillet</td><td>1975</td><td>30 août</td><td>1975</td></tr>
-<tr><td colspan="2">Guinée équatoriale</td><td>21 janvier</td><td>2004</td><td>20 février</td><td>2004</td></tr>
-<tr><td colspan="2">Haïti</td><td>28 août</td><td>1975</td><td>27 septembre</td><td>1975</td></tr>
-<tr><td colspan="2">Honduras</td><td>2 mai</td><td>1980</td><td>1<sup>er</sup> juin</td><td>1980</td></tr>
-<tr><td colspan="2">Hongrie</td><td>5 février</td><td>1976</td><td>6 mars</td><td>1976</td></tr>
-<tr><td colspan="2">Iran</td><td>20 janvier</td><td>1997 A</td><td>19 février</td><td>1997</td></tr>
-<tr><td colspan="2">Irlande</td><td>17 février</td><td>1982</td><td>19 mars</td><td>1982</td></tr>
-<tr><td colspan="2">Islande</td><td>24 mai</td><td>1973</td><td>30 août</td><td>1975</td></tr>
-<tr><td colspan="2">Italie\*</td><td>30 avril</td><td>1984</td><td>30 mai</td><td>1984</td></tr>
-<tr><td colspan="2">Jamaïque</td><td>22 mars</td><td>1991 A</td><td>21 avril</td><td>1991</td></tr>
-<tr><td colspan="2">Japon</td><td>15 octobre</td><td>1980</td><td>14 novembre</td><td>1980</td></tr>
-<tr><td colspan="2">Jordanie</td><td>11 novembre</td><td>1974</td><td>30 août</td><td>1975</td></tr>
-<tr><td colspan="2">Kenya</td><td>7 janvier</td><td>1976 A</td><td>6 février</td><td>1976</td></tr>
-<tr><td colspan="2">Kiribati</td><td>3 juin</td><td>1982 S</td><td>12 juillet</td><td>1979</td></tr>
-<tr><td colspan="2">Libye</td><td>22 novembre</td><td>1976 A</td><td>22 décembre</td><td>1976</td></tr>
-<tr><td colspan="2">Luxembourg</td><td>21 février</td><td>1991</td><td>23 mars</td><td>1991</td></tr>
-<tr><td colspan="2">Malte</td><td>28 décembre</td><td>1989 A</td><td>27 janvier</td><td>1990</td></tr>
-<tr><td colspan="2">Maroc</td><td>18 février</td><td>1977</td><td>20 mars</td><td>1977</td></tr>
-<tr><td colspan="2">Mexique</td><td>7 avril</td><td>1975</td><td>30 août</td><td>1975</td></tr>
-<tr><td colspan="2">Monaco</td><td>16 mai</td><td>1977</td><td>15 juin</td><td>1977</td></tr>
-<tr><td colspan="2">Monténégro</td><td>9 janvier</td><td>2007 S</td><td>3 juin</td><td>2006</td></tr>
-<tr><td colspan="2">Nauru</td><td>26 juillet</td><td>1982 A</td><td>25 août</td><td>1982</td></tr>
-<tr><td colspan="2">Nigéria</td><td>19 mars</td><td>1976 A</td><td>18 avril</td><td>1976</td></tr>
-<tr><td colspan="2">Norvège</td><td>4 avril</td><td>1974</td><td>30 août</td><td>1975</td></tr>
-<tr><td colspan="2">Nouvelle-Zélande\* <sup>a</sup></td><td>30 avril</td><td>1975</td><td>30 août</td><td>1975</td></tr>
-<tr><td colspan="2">Oman</td><td>14 mars</td><td>1984 A</td><td>13 avril</td><td>1984</td></tr>
-<tr><td colspan="2">Pakistan</td><td>9 mars</td><td>1995 A</td><td>8 avril</td><td>1995</td></tr>
-<tr><td colspan="2">Panama</td><td>31 juillet</td><td>1975</td><td>30 août</td><td>1975</td></tr>
-<tr><td colspan="2">Papouasie-Nouvelle-Guinée</td><td>10 mars</td><td>1980 A</td><td>9 avril</td><td>1980</td></tr>
-<tr><td colspan="2">Pays-Bas</td><td>2 décembre</td><td>1977</td><td>1<sup>er</sup> janvier</td><td>1978</td></tr>
-<tr><td colspan="2">Aruba</td><td>2 décembre</td><td>1977</td><td>1<sup>er</sup> janvier</td><td>1978</td></tr>
-<tr><td colspan="2">Curaçao</td><td>2 décembre</td><td>1977</td><td>1<sup>er</sup> janvier</td><td>1978</td></tr>
-<tr><td colspan="2">Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>2 décembre</td><td>1977</td><td>1<sup>er</sup> janvier</td><td>1978</td></tr>
-<tr><td colspan="2">Sint Maarten</td><td>2 décembre</td><td>1977</td><td>1<sup>er</sup> janvier</td><td>1978</td></tr>
-<tr><td colspan="2">Pérou</td><td>7 mai</td><td>2003</td><td>6 juin</td><td>2003</td></tr>
-<tr><td colspan="2">Philippines</td><td>10 août</td><td>1973</td><td>30 août</td><td>1975</td></tr>
-<tr><td colspan="2">Pologne</td><td>23 janvier</td><td>1979 A</td><td>22 février</td><td>1979</td></tr>
-<tr><td colspan="2">Portugal</td><td>14 avril</td><td>1978</td><td>14 mai</td><td>1978</td></tr>
-<tr><td colspan="2">République dominicaine</td><td>7 décembre</td><td>1973</td><td>30 août</td><td>1975</td></tr>
-<tr><td colspan="2">Royaume-Uni</td><td>17 novembre</td><td>1975</td><td>17 décembre</td><td>1975</td></tr>
-<tr><td colspan="2">Bermudes</td><td>17 novembre</td><td>1975</td><td>17 décembre</td><td>1975</td></tr>
-<tr><td colspan="2">Guernesey</td><td>17 novembre</td><td>1975</td><td>17 décembre</td><td>1975</td></tr>
-<tr><td colspan="2">Ile de Man</td><td>17 novembre</td><td>1975</td><td>17 décembre</td><td>1975</td></tr>
-<tr><td colspan="2">Iles Cayman</td><td>17 novembre</td><td>1975</td><td>17 décembre</td><td>1975</td></tr>
-<tr><td colspan="2">Iles Falkland et dépendances (Géorgie du Sud et îles Sandwich du Sud)</td><td>17 novembre</td><td>1975</td><td>17 décembre</td><td>1975</td></tr>
-<tr><td colspan="2">Iles Pitcairn (Ducie, Oeno, Henderson et Pitcairn)</td><td>17 novembre</td><td>1975</td><td>17 décembre</td><td>1975</td></tr>
-<tr><td colspan="2">Iles Turques et Caïques</td><td>17 novembre</td><td>1975</td><td>17 décembre</td><td>1975</td></tr>
-<tr><td colspan="2">Iles Vierges britanniques</td><td>17 novembre</td><td>1975</td><td>17 décembre</td><td>1975</td></tr>
-<tr><td colspan="2">Jersey</td><td>5 mars</td><td>1976 A</td><td>4 avril</td><td>1976</td></tr>
-<tr><td colspan="2">Montserrat</td><td>17 novembre</td><td>1975</td><td>17 décembre</td><td>1975</td></tr>
-<tr><td colspan="2">Sainte-Hélène et dépendances (Ascension et Tristan da Cunha)</td><td>17 novembre</td><td>1975</td><td>17 décembre</td><td>1975</td></tr>
-<tr><td colspan="2">Territoire britannique de l’Océan Indien</td><td>17 novembre</td><td>1975</td><td>17 décembre</td><td>1975</td></tr>
-<tr><td colspan="2">Russie</td><td>30 décembre</td><td>1975</td><td>29 janvier</td><td>1976</td></tr>
-<tr><td colspan="2">Sainte-Lucie</td><td>23 août</td><td>1985 A</td><td>22 septembre</td><td>1985</td></tr>
-<tr><td colspan="2">[tab] Saint-Vincent-et-les Grenadines</td><td>24 octobre</td><td>2001 A</td><td>23 novembre</td><td>2001</td></tr>
-<tr><td colspan="2">Salomon, Iles</td><td>6 mars</td><td>1984 S</td><td>7 juillet</td><td>1978</td></tr>
-<tr><td colspan="2">Serbie</td><td>25 juin</td><td>1976 A</td><td>25 juillet</td><td>1976</td></tr>
-<tr><td colspan="2">Seychelles</td><td>29 octobre</td><td>1984 A</td><td>28 novembre</td><td>1984</td></tr>
-<tr><td colspan="2">Sierra Leone</td><td>12 mars</td><td>2008 A</td><td>11 avril</td><td>2008</td></tr>
-<tr><td colspan="2">Slovénie</td><td>27 mai</td><td>1992 S</td><td>25 juin</td><td>1991</td></tr>
-<tr><td colspan="2">Suède</td><td>21 février</td><td>1974</td><td>30 août</td><td>1975</td></tr>
-<tr><td colspan="2">Suisse</td><td>31 juillet</td><td>1979</td><td>30 août</td><td>1979</td></tr>
-<tr><td colspan="2">Suriname</td><td>21 octobre</td><td>1980 A</td><td>20 novembre</td><td>1980</td></tr>
-<tr><td colspan="2">Syrie</td><td>6 mai</td><td>2009 A</td><td>5 juin</td><td>2009</td></tr>
-<tr><td colspan="2">Tanzanie</td><td>28 juillet</td><td>2008 A</td><td>27 août</td><td>2008</td></tr>
-<tr><td colspan="2">Tonga</td><td>8 novembre</td><td>1995 A</td><td>8 décembre</td><td>1995</td></tr>
-<tr><td colspan="2">Tunisie</td><td>13 avril</td><td>1976</td><td>13 mai</td><td>1976</td></tr>
-<tr><td colspan="2">Ukraine</td><td>5 février</td><td>1976</td><td>6 mars</td><td>1976</td></tr>
-<tr><td colspan="2">Vanuatu</td><td>22 septembre</td><td>1992 A</td><td>22 octobre</td><td>1992</td></tr>
-<tr><td>\*</td><td colspan="5">Réserves et déclarations.</td></tr>
-<tr><td>\*\*</td><td colspan="5">Objections.</td></tr>
-<tr><td></td><td colspan="5">Les réserves, déclarations et objections ne sont pas publiées au RO. Les textes en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation maritime internationale (OMI): www.imo.org/ ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td><sup>a</sup></td><td colspan="5">La convention ne s’applique pas à Nioué, les Iles-Cook et Tokélaou.</td></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Afghanistan</td><td>2 avril</td><td>1975 A</td><td>30 août</td><td>1975</td></tr>
+<tr><td>Afrique du Sud</td><td>7 août</td><td>1978 A</td><td>6 septembre</td><td>1978</td></tr>
+<tr><td>Allemagne</td><td>8 novembre</td><td>1977</td><td>8 décembre</td><td>1977</td></tr>
+<tr><td>Antigua-et-Barbuda</td><td>6 janvier</td><td>1989 A</td><td>5 février</td><td>1989</td></tr>
+<tr><td>Argentine\* \*\*</td><td>12 septembre</td><td>1979</td><td>12 octobre</td><td>1979</td></tr>
+<tr><td>Australie</td><td>21 août</td><td>1985</td><td>20 septembre</td><td>1985</td></tr>
+<tr><td>Azerbaïdjan</td><td>1<sup>er</sup> juillet</td><td>1997 A</td><td>31 juillet</td><td>1997</td></tr>
+<tr><td>Barbade</td><td>4 mai</td><td>1994 A</td><td>3 juin</td><td>1994</td></tr>
+<tr><td>Bélarus</td><td>29 janvier</td><td>1976</td><td>28 février</td><td>1976</td></tr>
+<tr><td>Belgique\*</td><td>12 juin</td><td>1985</td><td>12 juillet</td><td>1985</td></tr>
+<tr><td>Bénin</td><td>28 avril</td><td>2011 A</td><td>28 mai</td><td>2011</td></tr>
+<tr><td>Bolivie</td><td>10 juillet</td><td>1999</td><td>9 août</td><td>1999</td></tr>
+<tr><td>Brésil</td><td>26 juillet</td><td>1982 A</td><td>25 août</td><td>1982</td></tr>
+<tr><td>Bulgarie</td><td>25 janvier</td><td>2006 A</td><td>24 février</td><td>2006</td></tr>
+<tr><td>Canada</td><td>13 novembre</td><td>1975</td><td>13 décembre</td><td>1975</td></tr>
+<tr><td>Cap-Vert</td><td>26 mai</td><td>1977 A</td><td>25 juin</td><td>1977</td></tr>
+<tr><td>Chili</td><td>4 août</td><td>1977 A</td><td>3 septembre</td><td>1977</td></tr>
+<tr><td>Chine</td><td>22 octobre</td><td>1985 A</td><td>21 novembre</td><td>1985</td></tr>
+<tr><td>Hong Kong</td><td>3 juin</td><td>1997</td><td>1<sup>er</sup> janvier</td><td>1997</td></tr>
+<tr><td>Macao</td><td>12 mai</td><td>1999</td><td>20 décembre</td><td>1999</td></tr>
+<tr><td>Chypre</td><td>7 juin</td><td>1990 A</td><td>7 juillet</td><td>1990</td></tr>
+<tr><td>Congo (Kinshasa)</td><td>16 septembre</td><td>1975 A</td><td>16 octobre</td><td>1975</td></tr>
+<tr><td>Corée (Sud)</td><td>21 décembre</td><td>1993 A</td><td>20 janvier</td><td>1994</td></tr>
+<tr><td>Costa Rica</td><td>16 juin</td><td>1986</td><td>16 juillet</td><td>1986</td></tr>
+<tr><td>Côte d’Ivoire</td><td>9 octobre</td><td>1987 A</td><td>8 novembre</td><td>1987</td></tr>
+<tr><td>Croatie</td><td>23 septembre</td><td>1992 S</td><td>8 octobre</td><td>1991</td></tr>
+<tr><td>Cuba</td><td>1<sup>er</sup> décembre</td><td>1975 A</td><td>31 décembre</td><td>1975</td></tr>
+<tr><td>Danemark</td><td>23 octobre</td><td>1974</td><td>30 août</td><td>1975</td></tr>
+<tr><td>Îles Féroé</td><td>2 novembre</td><td>1976 A</td><td>15 novembre</td><td>1976</td></tr>
+<tr><td>Égypte</td><td>30 juin</td><td>1992 A</td><td>30 juillet</td><td>1992</td></tr>
+<tr><td>Émirats arabes unis</td><td>9 août</td><td>1974 A</td><td>30 août</td><td>1975</td></tr>
+<tr><td>Espagne</td><td>31 juillet</td><td>1974</td><td>30 août</td><td>1975</td></tr>
+<tr><td>États-Unis</td><td>29 avril</td><td>1974</td><td>30 août</td><td>1975</td></tr>
+<tr><td>Finlande</td><td>3 mai</td><td>1979</td><td>2 juin</td><td>1979</td></tr>
+<tr><td>France\*</td><td>3 février</td><td>1977</td><td>5 mars</td><td>1977</td></tr>
+<tr><td>Gabon</td><td>5 février</td><td>1982 A</td><td>7 mars</td><td>1982</td></tr>
+<tr><td>Grèce\*</td><td>10 août</td><td>1981</td><td>9 septembre</td><td>1981</td></tr>
+<tr><td>Guatemala</td><td>14 juillet</td><td>1975</td><td>30 août</td><td>1975</td></tr>
+<tr><td>Guinée équatoriale</td><td>21 janvier</td><td>2004 A</td><td>20 février</td><td>2004</td></tr>
+<tr><td>Haïti</td><td>28 août</td><td>1975</td><td>27 septembre</td><td>1975</td></tr>
+<tr><td>Honduras</td><td>2 mai</td><td>1980</td><td>1<sup>er</sup> juin</td><td>1980</td></tr>
+<tr><td>Hongrie</td><td>5 février</td><td>1976</td><td>6 mars</td><td>1976</td></tr>
+<tr><td>Îles Salomon</td><td>6 mars</td><td>1984 S</td><td>7 juillet</td><td>1978</td></tr>
+<tr><td>Iran</td><td>20 janvier</td><td>1997 A</td><td>19 février</td><td>1997</td></tr>
+<tr><td>Irlande</td><td>17 février</td><td>1982</td><td>19 mars</td><td>1982</td></tr>
+<tr><td>Islande</td><td>24 mai</td><td>1973</td><td>30 août</td><td>1975</td></tr>
+<tr><td>Italie\*</td><td>30 avril</td><td>1984</td><td>30 mai</td><td>1984</td></tr>
+<tr><td>Jamaïque</td><td>22 mars</td><td>1991 A</td><td>21 avril</td><td>1991</td></tr>
+<tr><td>Japon</td><td>15 octobre</td><td>1980</td><td>14 novembre</td><td>1980</td></tr>
+<tr><td>Jordanie</td><td>11 novembre</td><td>1974</td><td>30 août</td><td>1975</td></tr>
+<tr><td>Kenya</td><td>7 janvier</td><td>1976 A</td><td>6 février</td><td>1976</td></tr>
+<tr><td>Kiribati</td><td>3 juin</td><td>1982 S</td><td>12 juillet</td><td>1979</td></tr>
+<tr><td>Libye</td><td>22 novembre</td><td>1976 A</td><td>22 décembre</td><td>1976</td></tr>
+<tr><td>Luxembourg</td><td>21 février</td><td>1991</td><td>23 mars</td><td>1991</td></tr>
+<tr><td>Malte</td><td>28 décembre</td><td>1989 A</td><td>27 janvier</td><td>1990</td></tr>
+<tr><td>Maroc</td><td>18 février</td><td>1977</td><td>20 mars</td><td>1977</td></tr>
+<tr><td>Mexique</td><td>7 avril</td><td>1975</td><td>30 août</td><td>1975</td></tr>
+<tr><td>Monaco</td><td>16 mai</td><td>1977</td><td>15 juin</td><td>1977</td></tr>
+<tr><td>Monténégro</td><td>9 janvier</td><td>2007 S</td><td>3 juin</td><td>2006</td></tr>
+<tr><td>Nauru</td><td>26 juillet</td><td>1982 A</td><td>25 août</td><td>1982</td></tr>
+<tr><td>Nigéria</td><td>19 mars</td><td>1976 A</td><td>18 avril</td><td>1976</td></tr>
+<tr><td>Norvège</td><td>4 avril</td><td>1974</td><td>30 août</td><td>1975</td></tr>
+<tr><td>Nouvelle-Zélande\* <sup>a</sup></td><td>30 avril</td><td>1975</td><td>30 août</td><td>1975</td></tr>
+<tr><td>Oman</td><td>14 mars</td><td>1984 A</td><td>13 avril</td><td>1984</td></tr>
+<tr><td>Pakistan</td><td>9 mars</td><td>1995 A</td><td>8 avril</td><td>1995</td></tr>
+<tr><td>Panama</td><td>31 juillet</td><td>1975</td><td>30 août</td><td>1975</td></tr>
+<tr><td>Papouasie-Nouvelle-Guinée</td><td>10 mars</td><td>1980 A</td><td>9 avril</td><td>1980</td></tr>
+<tr><td>Pays-Bas</td><td>2 décembre</td><td>1977</td><td>1<sup>er</sup> janvier</td><td>1978</td></tr>
+<tr><td>Aruba</td><td>2 décembre</td><td>1977</td><td>1<sup>er</sup> janvier</td><td>1978</td></tr>
+<tr><td>Curaçao</td><td>2 décembre</td><td>1977</td><td>1<sup>er</sup> janvier</td><td>1978</td></tr>
+<tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>2 décembre</td><td>1977</td><td>1<sup>er</sup> janvier</td><td>1978</td></tr>
+<tr><td>Sint Maarten</td><td>2 décembre</td><td>1977</td><td>1<sup>er</sup> janvier</td><td>1978</td></tr>
+<tr><td>Pérou</td><td>7 mai</td><td>2003</td><td>6 juin</td><td>2003</td></tr>
+<tr><td>Philippines</td><td>10 août</td><td>1973</td><td>30 août</td><td>1975</td></tr>
+<tr><td>Pologne</td><td>23 janvier</td><td>1979 A</td><td>22 février</td><td>1979</td></tr>
+<tr><td>Portugal</td><td>14 avril</td><td>1978</td><td>14 mai</td><td>1978</td></tr>
+<tr><td>République dominicaine</td><td>7 décembre</td><td>1973</td><td>30 août</td><td>1975</td></tr>
+<tr><td>Royaume-Uni</td><td>17 novembre</td><td>1975</td><td>17 décembre</td><td>1975</td></tr>
+<tr><td>Bermudes</td><td>17 novembre</td><td>1975</td><td>17 décembre</td><td>1975</td></tr>
+<tr><td>Guernesey</td><td>17 novembre</td><td>1975</td><td>17 décembre</td><td>1975</td></tr>
+<tr><td>Île de Man</td><td>17 novembre</td><td>1975</td><td>17 décembre</td><td>1975</td></tr>
+<tr><td>Îles Cayman</td><td>17 novembre</td><td>1975</td><td>17 décembre</td><td>1975</td></tr>
+<tr><td>Îles Falkland et dépendances (Géorgie du Sud et îles Sandwich du Sud)</td><td>17 novembre</td><td>1975</td><td>17 décembre</td><td>1975</td></tr>
+<tr><td>Îles Pitcairn (Ducie, Oeno, Henderson et Pitcairn)</td><td>17 novembre</td><td>1975</td><td>17 décembre</td><td>1975</td></tr>
+<tr><td>Îles Turques et Caïques</td><td>17 novembre</td><td>1975</td><td>17 décembre</td><td>1975</td></tr>
+<tr><td>Îles Vierges britanniques</td><td>17 novembre</td><td>1975</td><td>17 décembre</td><td>1975</td></tr>
+<tr><td>Jersey</td><td>5 mars</td><td>1976 A</td><td>4 avril</td><td>1976</td></tr>
+<tr><td>Montserrat</td><td>17 novembre</td><td>1975</td><td>17 décembre</td><td>1975</td></tr>
+<tr><td>Sainte-Hélène et dépendances (Ascension et Tristan da Cunha)</td><td>17 novembre</td><td>1975</td><td>17 décembre</td><td>1975</td></tr>
+<tr><td>Territoire britannique de l’Océan Indien</td><td>17 novembre</td><td>1975</td><td>17 décembre</td><td>1975</td></tr>
+<tr><td>Russie</td><td>30 décembre</td><td>1975</td><td>29 janvier</td><td>1976</td></tr>
+<tr><td>Sainte-Lucie</td><td>23 août</td><td>1985 A</td><td>22 septembre</td><td>1985</td></tr>
+<tr><td>[tab] Saint-Vincent-et-les Grenadines</td><td>24 octobre</td><td>2001 A</td><td>23 novembre</td><td>2001</td></tr>
+<tr><td>Serbie</td><td>25 juin</td><td>1976 A</td><td>25 juillet</td><td>1976</td></tr>
+<tr><td>Seychelles</td><td>29 octobre</td><td>1984 A</td><td>28 novembre</td><td>1984</td></tr>
+<tr><td>Sierra Leone</td><td>12 mars</td><td>2008 A</td><td>11 avril</td><td>2008</td></tr>
+<tr><td>Slovénie</td><td>27 mai</td><td>1992 S</td><td>25 juin</td><td>1991</td></tr>
+<tr><td>Suède</td><td>21 février</td><td>1974</td><td>30 août</td><td>1975</td></tr>
+<tr><td>Suisse</td><td>31 juillet</td><td>1979</td><td>30 août</td><td>1979</td></tr>
+<tr><td>Suriname</td><td>21 octobre</td><td>1980 A</td><td>20 novembre</td><td>1980</td></tr>
+<tr><td>Syrie</td><td>6 mai</td><td>2009 A</td><td>5 juin</td><td>2009</td></tr>
+<tr><td>Tanzanie</td><td>28 juillet</td><td>2008 A</td><td>27 août</td><td>2008</td></tr>
+<tr><td>Tonga</td><td>8 novembre</td><td>1995 A</td><td>8 décembre</td><td>1995</td></tr>
+<tr><td>Tunisie</td><td>13 avril</td><td>1976</td><td>13 mai</td><td>1976</td></tr>
+<tr><td>Ukraine</td><td>5 février</td><td>1976</td><td>6 mars</td><td>1976</td></tr>
+<tr><td>Vanuatu</td><td>22 septembre</td><td>1992 A</td><td>22 octobre</td><td>1992</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. \*\* Objections. Les réserves, déclarations et objections ne sont pas publiées au RO Les textes en anglais peuvent être obtenus à l’adresse du site Internet l’Organisation maritime internationale (OMI): [www.imo.org](http://www.imo.org) &gt; Qui nous sommes &gt; Conventions &gt; État des conventions &gt; Status Book, ou auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La convention ne s’applique pas à Nioué, les Îles-Cook et Tokélaou.</td></tr>
 </table>
 
-[^t-7]: [RO 1979 1335](https://fedlex.data.admin.ch/eli/oc/1979/1335_1335_1335), [1982 1816](https://fedlex.data.admin.ch/eli/oc/1982/1816_1816_1816), [1983 261](https://fedlex.data.admin.ch/eli/oc/1983/261_261_261), [1985 887](https://fedlex.data.admin.ch/eli/oc/1985/887_887_887), [1986 1172](https://fedlex.data.admin.ch/eli/oc/1986/1172_1172_1172), [1987 1225](https://fedlex.data.admin.ch/eli/oc/1987/1225_1225_1225), [1991 360](https://fedlex.data.admin.ch/eli/oc/1991/360_360_360), [1993 2746](https://fedlex.data.admin.ch/eli/oc/1993/2746_2746_2746), [2005 73](https://fedlex.data.admin.ch/eli/oc/2005/14), [2009 3727](https://fedlex.data.admin.ch/eli/oc/2009/474), [2013 2667](https://fedlex.data.admin.ch/eli/oc/2013/541), [2019 1075](https://fedlex.data.admin.ch/eli/oc/2019/202). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-6]: [RO 1979 1335](https://fedlex.data.admin.ch/eli/oc/1979/1335_1335_1335); [1982 1816](https://fedlex.data.admin.ch/eli/oc/1982/1816_1816_1816); [1983 261](https://fedlex.data.admin.ch/eli/oc/1983/261_261_261); [1985 887](https://fedlex.data.admin.ch/eli/oc/1985/887_887_887); [1986 1172](https://fedlex.data.admin.ch/eli/oc/1986/1172_1172_1172); [1987 1225](https://fedlex.data.admin.ch/eli/oc/1987/1225_1225_1225); [1991 360](https://fedlex.data.admin.ch/eli/oc/1991/360_360_360); [1993 2746](https://fedlex.data.admin.ch/eli/oc/1993/2746_2746_2746); [2005 73](https://fedlex.data.admin.ch/eli/oc/2005/14); [2009 3727](https://fedlex.data.admin.ch/eli/oc/2009/474); [2013 2667](https://fedlex.data.admin.ch/eli/oc/2013/541); [2019 1075](https://fedlex.data.admin.ch/eli/oc/2019/202); [2024 498](https://fedlex.data.admin.ch/eli/oc/2024/498). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
