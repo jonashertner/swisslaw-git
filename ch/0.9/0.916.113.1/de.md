@@ -3,11 +3,11 @@ sr: "0.916.113.1"
 title: Internationales Zucker-Übereinkommen von 1992 vom 20. März 1992 (mit Anhang)
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/1804_1804_1804"
 language: de
-version: 2024-01-01
+version: 2024-09-13
 adopted: 1992-03-20
 in_force: 1993-01-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1804_1804_1804/20240101/de/xml/fedlex-data-admin-ch-eli-cc-1994-1804_1804_1804-20240101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/1804_1804_1804/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1804_1804_1804/20240913/de/xml/fedlex-data-admin-ch-eli-cc-1994-1804_1804_1804-20240913-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/1804_1804_1804/20240913/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 27. Januar 1994
 
 Endgültig in Kraft getreten für die Schweiz am 10. Dezember 1996
 
-(Stand am 1. Januar 2024)
+(Stand am 13. September 2024)
 
 [^t-1]: [AS 1994 1803](https://fedlex.data.admin.ch/eli/oc/1994/1803_1803_1803)
 
@@ -36,7 +36,7 @@ Endgültig in Kraft getreten für die Schweiz am 10. Dezember 1996
 
 **Ziele des Übereinkommens**
 
-Das Internationale Zucker-Übereinkommen von 1992, nachstehend als «dieses Übereinkommen» bezeichnet, zielt gemäss der von der Handels- und Entwicklungskonferenz der Vereinten Nationen (UNCTAD) verabschiedeten Entschliessung 93 (IV) darauf ab,
+Das Internationale Zucker-Übereinkommen von 1992, nachstehend als «dieses Übereinkommen» bezeichnet, zielt gemäss der von der Handels- und Entwicklungskonferenz der Vereinten Nationen (UNCTAD) verabschiedeten Entschliessung 93 (IV) darauf ab:
 
 - a) die internationale Zusammenarbeit im Bereich der Zuckerwirtschaft und der damit zusammenhängenden Fragen zu intensivieren;
 - b) als Forum für zwischenstaatliche Konsultationen über Zucker und über Möglichkeiten zur Förderung der Weltzuckerwirtschaft zu dienen;
@@ -49,7 +49,7 @@ Das Internationale Zucker-Übereinkommen von 1992, nachstehend als «dieses Übe
 
 **Begriffsbestimmungen**
 
-Im Sinne dieses Übereinkommens bedeutet
+Im Sinne dieses Übereinkommens bedeutet:
 
 - 1\. «Organisation» die Internationale Zucker-Organisation gemäss Artikel 3;
 - 2\. «Rat» den Internationalen Zuckerrat gemäss Artikel 3 Absatz 3;
@@ -100,12 +100,16 @@ Jede Bezugnahme in diesem Übereinkommen auf eine «Regierung» oder auf «Regie
 
 <sup>4.</sup> Wird der Sitz der Organisation in ein Land verlegt, das Mitglied der Organisation ist, so schliesst dieses Mitglied so bald wie möglich mit der Organisation ein vom Rat zu genehmigendes Abkommen über Rechtsstellung, Vorrechte und Immunitäten der Organisation, ihres Exekutivdirektors, ihres Personals und ihrer Experten sowie der Delegationen der Mitglieder, die sich in Wahrnehmung ihrer Aufgaben in diesem Land aufhalten, ab.
 
-<sup>5.</sup> Solange im Rahmen des in Absatz 4 genannten Abkommens keine anderen Steuerabkommen in Kraft gesetzt werden, gewährt das neue Gastland bis zum Abschluss dieses Abkommens Steuerbefreiung
+<sup>5.</sup>
+
+Solange im Rahmen des in Absatz 4 genannten Abkommens keine anderen Steuerabkommen in Kraft gesetzt werden, gewährt das neue Gastland bis zum Abschluss dieses Abkommens Steuerbefreiung:
 
 - a) für die von der Organisation an ihre Beamten gezahlten Bezüge, sofern diese Beamten nicht Staatsangehörige des Gastlandes sind, sowie
 - b) für die Guthaben, Einkünfte und sonstigen Vermögenswerte der Organisation.
 
-<sup>6.</sup> Wird der Sitz der Organisation in ein Land verlegt, das nicht Mitglied der Organisation ist, so hat der Rat vor der Sitzverlegung von der Regierung dieses Landes die schriftliche Zusicherung zu erwirken,
+<sup>6.</sup>
+
+Wird der Sitz der Organisation in ein Land verlegt, das nicht Mitglied der Organisation ist, so hat der Rat vor der Sitzverlegung von der Regierung dieses Landes die schriftliche Zusicherung zu erwirken:
 
 - a) dass es so bald wie möglich mit der Organisation ein Abkommen gemäss Absatz 4 abschliesst und
 - b) dass es bis zum Abschluss eines solchen Abkommens die in Absatz 5 genannten Befreiungen gewährt.
@@ -152,9 +156,9 @@ Jede Bezugnahme in diesem Übereinkommen auf eine «Regierung» oder auf «Regie
 
 <sup>1.</sup> Der Rat hält grundsätzlich in jedem Halbjahr eine ordentliche Tagung ab.
 
-<sup>2.</sup> Der Rat tritt zu ausserordentlichen Tagungen zusammen, wenn er dies beschliesst oder wenn es
+<sup>2.</sup> beantragt wird.
 
-beantragt wird.
+Der Rat tritt zu ausserordentlichen Tagungen zusammen, wenn er dies beschliesst oder wenn es:
 
 - a) von fünf Mitgliedern,
 - b) von zwei oder mehr Mitgliedern mit insgesamt mindestens 250 Stimmen gemäss Artikel 11 sowie Artikel 25
@@ -556,7 +560,7 @@ Die Regierungen aller Staaten können diesem Übereinkommen zu den vom Rat festg
 
 <sup>5.</sup> Der Rat notifiziert dem Depositar jede Massnahme nach Absatz 2 oder Absatz 3.
 
-[^45-1]: Verlängert vom Internationalen Zuckerrat bis 31. Dez. 1997 mit der Resolution vom 1. Dez. 1995 ([AS 1996 1116](https://fedlex.data.admin.ch/eli/oc/1996/1116_1116_1116)), bis 31. Dez. 1999 mit der Resolution vom 29. Mai 1997 ([AS 1997 2450](https://fedlex.data.admin.ch/eli/oc/1997/2450_2450_2450)), bis 31. Dez. 2001 mit der Resolution vom 27. Mai 1999 ([AS 1999 2513](https://fedlex.data.admin.ch/eli/oc/1999/395)), bis 31. Dez. 2003 mit der Resolution vom 30. Mai 2001 ([AS 2001 2746](https://fedlex.data.admin.ch/eli/oc/2001/416)), bis 31. Dez. 2005 mit der Resolution vom 29. Mai 2003 ([AS 2003 2451](https://fedlex.data.admin.ch/eli/oc/2003/357)), bis 31. Dez. 2007 mit der Resolution vom 26. Mai 2005 ([AS 2005 2643](https://fedlex.data.admin.ch/eli/oc/2005/458)), bis 31. Dez. 2011 mit der Resolution vom 28. Mai 2009 ([AS 2009 3435](https://fedlex.data.admin.ch/eli/oc/2009/418)), bis 31. Dez. 2013 mit der Resolution vom 2. Juni 2011 ([AS 2013 197](https://fedlex.data.admin.ch/eli/oc/2013/21)), bis 31. Dez. 2015 mit der Resolution vom 6. Juni 2013 ([AS 2013 2105](https://fedlex.data.admin.ch/eli/oc/2013/445)), bis 31. Dez. 2017 mit der Resolution vom 25. Juni 2015 ([AS 2015 2643](https://fedlex.data.admin.ch/eli/oc/2015/501)), bis 31. Dez. 2019 mit der Resolution vom 1. Dez. 2017 ([AS 2017 7767](https://fedlex.data.admin.ch/eli/oc/2017/884)), bis 31. Dez. 2021 mit der Resolution vom 19. Juli 2019 ([AS 2019 2625](https://fedlex.data.admin.ch/eli/oc/2019/487)), bis 31. Dez. 2023 mit der Resolution vom 26. Nov. 2021 ([AS 2021 817](https://fedlex.data.admin.ch/eli/oc/2021/817)) und bis 31. Dez. 2024 mit der Resolution vom 24. Nov. 2023 (AS **202****3** 796).
+[^45-1]: Verlängert vom Internationalen Zuckerrat bis 31. Dez. 1997 mit der Resolution vom 1. Dez. 1995 ([AS 1996 1116](https://fedlex.data.admin.ch/eli/oc/1996/1116_1116_1116)), bis 31. Dez. 1999 mit der Resolution vom 29. Mai 1997 ([AS 1997 2450](https://fedlex.data.admin.ch/eli/oc/1997/2450_2450_2450)), bis 31. Dez. 2001 mit der Resolution vom 27. Mai 1999 ([AS 1999 2513](https://fedlex.data.admin.ch/eli/oc/1999/395)), bis 31. Dez. 2003 mit der Resolution vom 30. Mai 2001 ([AS 2001 2746](https://fedlex.data.admin.ch/eli/oc/2001/416)), bis 31. Dez. 2005 mit der Resolution vom 29. Mai 2003 ([AS 2003 2451](https://fedlex.data.admin.ch/eli/oc/2003/357)), bis 31. Dez. 2007 mit der Resolution vom 26. Mai 2005 ([AS 2005 2643](https://fedlex.data.admin.ch/eli/oc/2005/458)), bis 31. Dez. 2011 mit der Resolution vom 28. Mai 2009 ([AS 2009 3435](https://fedlex.data.admin.ch/eli/oc/2009/418)), bis 31. Dez. 2013 mit der Resolution vom 2. Juni 2011 ([AS 2013 197](https://fedlex.data.admin.ch/eli/oc/2013/21)), bis 31. Dez. 2015 mit der Resolution vom 6. Juni 2013 ([AS 2013 2105](https://fedlex.data.admin.ch/eli/oc/2013/445)), bis 31. Dez. 2017 mit der Resolution vom 25. Juni 2015 ([AS 2015 2643](https://fedlex.data.admin.ch/eli/oc/2015/501)), bis 31. Dez. 2019 mit der Resolution vom 1. Dez. 2017 ([AS 2017 7767](https://fedlex.data.admin.ch/eli/oc/2017/884)), bis 31. Dez. 2021 mit der Resolution vom 19. Juli 2019 ([AS 2019 2625](https://fedlex.data.admin.ch/eli/oc/2019/487)), bis 31. Dez. 2023 mit der Resolution vom 26. Nov. 2021 ([AS 2021 817](https://fedlex.data.admin.ch/eli/oc/2021/817)) und bis 31. Dez. 2024 mit der Resolution vom 24. Nov. 2023 ([AS 2023 796](https://fedlex.data.admin.ch/eli/oc/2023/796)).
 
 #### Art. 46
 
@@ -611,7 +615,7 @@ Anhang
 <tr><td>\* Nimmt zwar an der Zuckerkonferenz der Vereinten Nationen von 1992 nicht teil, wird aber als Mitglied der mit dem Übereinkommen von 1987 gegründeten Internationalen Zucker-Organisation gleichwohl aufgeführt.</td></tr>
 </table>
 
-Geltungsbereich am 5. Oktober 2016[^t-2]
+Geltungsbereich am 13. September 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -627,6 +631,7 @@ Geltungsbereich am 5. Oktober 2016[^t-2]
 <tr><td>Côte d’Ivoire</td><td>23. März</td><td>1993 B</td><td>10. Dezember</td><td>1996</td></tr>
 <tr><td>Dominikanische Republik</td><td>19. März</td><td>1998</td><td>19. März</td><td>1998</td></tr>
 <tr><td>Ecuador</td><td>29. Dezember</td><td>1993 B</td><td>10. Dezember</td><td>1996</td></tr>
+<tr><td>El Salvador</td><td>12. Dezember</td><td>2023 B</td><td>12. Dezember</td><td>2023</td></tr>
 <tr><td>Eswatini</td><td>23. Dezember</td><td>1992</td><td>10. Dezember</td><td>1996</td></tr>
 <tr><td>Europäische Union</td><td>20. November</td><td>1992</td><td>10. Dezember</td><td>1996</td></tr>
 <tr><td>Fidschi</td><td>21. Dezember</td><td>1992</td><td>10. Dezember</td><td>1996</td></tr>
@@ -635,7 +640,6 @@ Geltungsbereich am 5. Oktober 2016[^t-2]
 <tr><td>Guyana</td><td>24. Dezember</td><td>1992</td><td>10. Dezember</td><td>1996</td></tr>
 <tr><td>Honduras</td><td>27. Oktober</td><td>1998 B</td><td>27. Oktober</td><td>1998</td></tr>
 <tr><td>Indien</td><td>20. Januar</td><td>1993</td><td>10. Dezember</td><td>1996</td></tr>
-<tr><td>Indonesien</td><td>12. Mai</td><td>2011 B</td><td>12. Mai</td><td>2011</td></tr>
 <tr><td>Iran</td><td>29. April</td><td>2002 B</td><td>29. April</td><td>2002</td></tr>
 <tr><td>Jamaika</td><td>23. März</td><td>1993</td><td>10. Dezember</td><td>1996</td></tr>
 <tr><td>Kamerun</td><td>20. Februar</td><td>2006 B</td><td>20. Februar</td><td>2006</td></tr>
@@ -651,21 +655,21 @@ Geltungsbereich am 5. Oktober 2016[^t-2]
 <tr><td>Marokko</td><td>8. April</td><td>2009 B</td><td>8. April</td><td>2009</td></tr>
 <tr><td>Mauritius</td><td>18. Dezember</td><td>1992</td><td>10. Dezember</td><td>1996</td></tr>
 <tr><td>Mexiko</td><td>16. Juni</td><td>1997 B</td><td>16. Juni</td><td>1997</td></tr>
-<tr><td>Moldau</td><td>9. Juni</td><td>1998 B</td><td>9. Juni</td><td>1998</td></tr>
 <tr><td>Mosambik</td><td>18. Januar</td><td>2005 B</td><td>18. Januar</td><td>2005</td></tr>
 <tr><td>Nicaragua</td><td>29. Januar</td><td>2010 B</td><td>29. Januar</td><td>2010</td></tr>
 <tr><td>Nigeria</td><td>19. Oktober</td><td>1999 B</td><td>19. Oktober</td><td>1999</td></tr>
 <tr><td>Pakistan</td><td>22. Januar</td><td>2002 B</td><td>22. Januar</td><td>2002</td></tr>
-<tr><td>Paraguay</td><td>19. September</td><td>2005 B</td><td>19. September</td><td>2005</td></tr>
 <tr><td>Philippinen</td><td>14. November</td><td>1996 B</td><td>10. Dezember</td><td>1996</td></tr>
 <tr><td>Rumänien</td><td>10. Dezember</td><td>1999 B</td><td>10. Dezember</td><td>1999</td></tr>
 <tr><td>Russland</td><td>7. Januar</td><td>2003 B</td><td>7. Januar</td><td>2003</td></tr>
 <tr><td>Sambia</td><td>21. Juni</td><td>2000</td><td>21. Juni</td><td>2000</td></tr>
+<tr><td>Saudi-Arabien</td><td>17. Oktober</td><td>2022 B</td><td>17. Oktober</td><td>2022</td></tr>
 <tr><td>Schweiz</td><td>27. Januar</td><td>1994</td><td>10. Dezember</td><td>1996</td></tr>
 <tr><td>Serbien</td><td>14. Mai</td><td>2002 B</td><td>14. Mai</td><td>2002</td></tr>
 <tr><td>Simbabwe</td><td>14. Dezember</td><td>1994 B</td><td>10. Dezember</td><td>1996</td></tr>
 <tr><td>Sri Lanka</td><td>6. August</td><td>2013 B</td><td>6. August</td><td>2013</td></tr>
 <tr><td>Südafrika</td><td>22. Dezember</td><td>1992</td><td>10. Dezember</td><td>1996</td></tr>
+<tr><td>Sudan</td><td>26. Juni</td><td>2024 B</td><td>26. Juni</td><td>2024</td></tr>
 <tr><td>Tansania</td><td>31. Oktober</td><td>2002 B</td><td>31. Oktober</td><td>2002</td></tr>
 <tr><td>Thailand</td><td>8. April</td><td>1993</td><td>10. Dezember</td><td>1996</td></tr>
 <tr><td>Tschad</td><td>11. Dezember</td><td>2007 B</td><td>11. Dezember</td><td>2007</td></tr>
@@ -675,15 +679,12 @@ Geltungsbereich am 5. Oktober 2016[^t-2]
 <tr><td>Ukraine</td><td>28. Oktober</td><td>1994 B</td><td>10. Dezember</td><td>1996</td></tr>
 <tr><td>Ungarn</td><td>19. März</td><td>1993</td><td>10. Dezember</td><td>1996</td></tr>
 <tr><td>Vereinigte Arabische Emirate</td><td>11. Mai</td><td>2007 B</td><td>11. Mai</td><td>2007</td></tr>
+<tr><td>Vereinigtes Königreich</td><td>1. Januar</td><td>2021 B</td><td>1. Januar</td><td>2021</td></tr>
 <tr><td>Vietnam</td><td>16. November</td><td>2000 B</td><td>16. November</td><td>2000</td></tr>
 </table>
 
-Folgende Staaten wenden das Übereinkommen gemäss Artikel 39 vorläufig an:
-
-El Salvador
+Folgender Staat wendet das Übereinkommen gemäss Artikel 39 vorläufig an:
 
 Panama
 
-Sudan
-
-[^t-2]: [AS 1994 1804](https://fedlex.data.admin.ch/eli/oc/1994/1804_1804_1804); [1999 1406](https://fedlex.data.admin.ch/eli/oc/1999/206); [2001 2746](https://fedlex.data.admin.ch/eli/oc/2001/416); [2003 2451](https://fedlex.data.admin.ch/eli/oc/2003/357); [2005 2643](https://fedlex.data.admin.ch/eli/oc/2005/458); [2007 3625](https://fedlex.data.admin.ch/eli/oc/2007/447); [2009 3435](https://fedlex.data.admin.ch/eli/oc/2009/418); [2013 197](https://fedlex.data.admin.ch/eli/oc/2013/21); [2016 3533](https://fedlex.data.admin.ch/eli/oc/2016/592). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+[^t-2]: Diese Veröffentlichung ergänzt die früheren in [AS 1999 1406](https://fedlex.data.admin.ch/eli/oc/1999/206); [2001 2746](https://fedlex.data.admin.ch/eli/oc/2001/416); [2003 2451](https://fedlex.data.admin.ch/eli/oc/2003/357); [2005 2643](https://fedlex.data.admin.ch/eli/oc/2005/458); [2007 3625](https://fedlex.data.admin.ch/eli/oc/2007/447); [2009 3435](https://fedlex.data.admin.ch/eli/oc/2009/418); [2013 197](https://fedlex.data.admin.ch/eli/oc/2013/21); [2016 3533](https://fedlex.data.admin.ch/eli/oc/2016/592); [2024 512](https://fedlex.data.admin.ch/eli/oc/2024/512). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

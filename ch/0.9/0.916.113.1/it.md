@@ -3,11 +3,11 @@ sr: "0.916.113.1"
 title: "Accordo internazionale sullo zucchero del 1992, del 20 marzo 1992 (con All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/1804_1804_1804"
 language: it
-version: 2024-01-01
+version: 2024-09-13
 adopted: 1992-03-20
 in_force: 1993-01-20
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1804_1804_1804/20240101/it/xml/fedlex-data-admin-ch-eli-cc-1994-1804_1804_1804-20240101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/1804_1804_1804/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/1804_1804_1804/20240913/it/xml/fedlex-data-admin-ch-eli-cc-1994-1804_1804_1804-20240913-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/1804_1804_1804/20240913/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Fatto a Ginevra il 20 marzo 1992 Approvato dall’Assemblea federale il 28 settembre 1993[^t-1] Applicato a titolo provvisorio dalla Svizzera dal 20 gennaio 1993 Ratificato dalla Svizzera con strumento depositato il 27 gennaio 1994
 
-(Stato 1° gennaio 2024)
+(Stato 13 settembre 2024)
 
 [^t-1]: [RU 1994 1803](https://fedlex.data.admin.ch/eli/oc/1994/1803_1803_1803)
 
@@ -332,7 +332,9 @@ Il numero legale per le riunioni del Comitato amministrativo è costituito dalla
 - c) Non sono ammesse le frazioni di voto. Le cifre possono essere arrotondate nel corso dei calcoli e per controllare che il numero totale dei voti sia ripartito.
 - d) I voti indicati nell’allegato, che non sono attribuiti al momento dell’entrata in vigore del presente Accordo, verranno ripartiti tra i Membri che detengono più di sei voti, come indicato nell’allegato. I voti non attribuiti sono ripartiti secondo il rapporto esistente tra il numero dei loro voti indicati nell’allegato e il numero totale di voti di tutti i Membri che detengono più di sei voti.
 
-\3. I voti sono esaminati ogni anno secondo la procedura indicata di seguito:
+<sup>3.</sup>
+
+I voti sono esaminati ogni anno secondo la procedura indicata di seguito:
 
 - a)
 
@@ -601,10 +603,11 @@ Allegato
 <tr><td colspan="4">\* Non partecipa alla Conferenza sullo zucchero 1992 delle Nazioni Unite, ma è incluso nella sua qualità di Membro dell’Organizzazione internazionale dello zucchero creata in virtù dell’Acc. internazionale sullo zucchero del 1987.</td></tr>
 </table>
 
-Campo d’applicazione il 5 ottobre 2016[^t-2]
+Campo d’applicazione il 13 settembre 2024[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Arabia Saudita</td><td>17 ottobre</td><td>2022 A</td><td>17 ottobre</td><td>2022</td></tr>
 <tr><td>Argentina</td><td>9 luglio</td><td>2009</td><td>9 luglio</td><td>2009</td></tr>
 <tr><td>Australia</td><td>24 dicembre</td><td>1992</td><td>10 dicembre</td><td>1996</td></tr>
 <tr><td>Barbados</td><td>27 marzo</td><td>2007 A</td><td>27 marzo</td><td>2007</td></tr>
@@ -623,6 +626,7 @@ Campo d’applicazione il 5 ottobre 2016[^t-2]
 <tr><td>Dominicana, Repubblica</td><td>19 marzo</td><td>1998</td><td>19 marzo</td><td>1998</td></tr>
 <tr><td>Ecuador</td><td>29 dicembre</td><td>1993 A</td><td>10 dicembre</td><td>1996</td></tr>
 <tr><td>Egitto</td><td>20 ottobre</td><td>1998 A</td><td>20 ottobre</td><td>1998</td></tr>
+<tr><td>El Salvador</td><td>12 dicembre</td><td>2023 A</td><td>12 dicembre</td><td>2023</td></tr>
 <tr><td>Emirati Arabi Uniti</td><td>11 maggio</td><td>2007 A</td><td>11 maggio</td><td>2007</td></tr>
 <tr><td>Eswatini</td><td>23 dicembre</td><td>1992</td><td>10 dicembre</td><td>1996</td></tr>
 <tr><td>Etiopia</td><td>8 agosto</td><td>2002 A</td><td>8 agosto</td><td>2002</td></tr>
@@ -634,7 +638,6 @@ Campo d’applicazione il 5 ottobre 2016[^t-2]
 <tr><td>Guyana</td><td>24 dicembre</td><td>1992</td><td>10 dicembre</td><td>1996</td></tr>
 <tr><td>Honduras</td><td>27 ottobre</td><td>1998 A</td><td>27 ottobre</td><td>1998</td></tr>
 <tr><td>India</td><td>20 gennaio</td><td>1993</td><td>10 dicembre</td><td>1996</td></tr>
-<tr><td>Indonesia</td><td>12 maggio</td><td>2011 A</td><td>12 maggio</td><td>2011</td></tr>
 <tr><td>Iran</td><td>29 aprile</td><td>2002 A</td><td>29 aprile</td><td>2002</td></tr>
 <tr><td>Kenya</td><td>6 novembre</td><td>1995 A</td><td>10 dicembre</td><td>1996</td></tr>
 <tr><td>Lettonia</td><td>7 luglio</td><td>1994 A</td><td>10 dicembre</td><td>1996</td></tr>
@@ -643,17 +646,17 @@ Campo d’applicazione il 5 ottobre 2016[^t-2]
 <tr><td>Marocco</td><td>8 aprile</td><td>2009 A</td><td>8 aprile</td><td>2009</td></tr>
 <tr><td>Maurizio</td><td>18 dicembre</td><td>1992</td><td>10 dicembre</td><td>1996</td></tr>
 <tr><td>Messico</td><td>16 giugno</td><td>1997 A</td><td>16 giugno</td><td>1997</td></tr>
-<tr><td>Moldova</td><td>9 giugno</td><td>1998 A</td><td>9 giugno</td><td>1998</td></tr>
 <tr><td>Mozambico</td><td>18 gennaio</td><td>2005 A</td><td>18 gennaio</td><td>2005</td></tr>
 <tr><td>Nicaragua</td><td>29 gennaio</td><td>2010 A</td><td>29 gennaio</td><td>2010</td></tr>
 <tr><td>Nigeria</td><td>19 ottobre</td><td>1999 A</td><td>19 ottobre</td><td>1999</td></tr>
 <tr><td>Pakistan</td><td>22 gennaio</td><td>2002 A</td><td>22 gennaio</td><td>2002</td></tr>
-<tr><td>Paraguay</td><td>19 settembre</td><td>2005 A</td><td>19 settembre</td><td>2005</td></tr>
+<tr><td>Regno Unito</td><td>1° gennaio</td><td>2021 A</td><td>1° gennaio</td><td>2021</td></tr>
 <tr><td>Romania</td><td>10 dicembre</td><td>1999 A</td><td>10 dicembre</td><td>1999</td></tr>
 <tr><td>Russia</td><td>7 gennaio</td><td>2003 A</td><td>7 gennaio</td><td>2003</td></tr>
 <tr><td>Serbia</td><td>14 maggio</td><td>2002 A</td><td>14 maggio</td><td>2002</td></tr>
 <tr><td>Sri Lanka</td><td>6 agosto</td><td>2013 A</td><td>6 agosto</td><td>2013</td></tr>
 <tr><td>Sudafrica</td><td>22 dicembre</td><td>1992</td><td>10 dicembre</td><td>1996</td></tr>
+<tr><td>Sudan</td><td>26 giugno</td><td>2024 A</td><td>26 giugno</td><td>2024</td></tr>
 <tr><td>Svizzera</td><td>27 gennaio</td><td>1994</td><td>10 dicembre</td><td>1996</td></tr>
 <tr><td>Tanzania</td><td>31 ottobre</td><td>2002 A</td><td>31 ottobre</td><td>2002</td></tr>
 <tr><td>Thailandia</td><td>8 aprile</td><td>1993</td><td>10 dicembre</td><td>1996</td></tr>
@@ -670,10 +673,6 @@ Campo d’applicazione il 5 ottobre 2016[^t-2]
 
 Gli Stati seguenti applicano l’accordo a titolo provvisorio, secondo l’articolo 39:
 
-El Salvador
-
 Panama
 
-Sudan
-
-[^t-2]: [RU 1994 1804](https://fedlex.data.admin.ch/eli/oc/1994/1804_1804_1804); [1999 1406](https://fedlex.data.admin.ch/eli/oc/1999/206); [2001 2746](https://fedlex.data.admin.ch/eli/oc/2001/416); [2003 2451](https://fedlex.data.admin.ch/eli/oc/2003/357); [2005 2643](https://fedlex.data.admin.ch/eli/oc/2005/458); [2007 3625](https://fedlex.data.admin.ch/eli/oc/2007/447); [2009 3435](https://fedlex.data.admin.ch/eli/oc/2009/418); [2013 197](https://fedlex.data.admin.ch/eli/oc/2013/21); [2016 3533](https://fedlex.data.admin.ch/eli/oc/2016/592). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
+[^t-2]: [RU 1994 1804](https://fedlex.data.admin.ch/eli/oc/1994/1804_1804_1804); [1999 1406](https://fedlex.data.admin.ch/eli/oc/1999/206); [2001 2746](https://fedlex.data.admin.ch/eli/oc/2001/416); [2003 2451](https://fedlex.data.admin.ch/eli/oc/2003/357); [2005 2643](https://fedlex.data.admin.ch/eli/oc/2005/458); [2007 3625](https://fedlex.data.admin.ch/eli/oc/2007/447); [2009 3435](https://fedlex.data.admin.ch/eli/oc/2009/418); [2013 197](https://fedlex.data.admin.ch/eli/oc/2013/21); [2016 3533](https://fedlex.data.admin.ch/eli/oc/2016/592); [2024 512](https://fedlex.data.admin.ch/eli/oc/2024/512). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
