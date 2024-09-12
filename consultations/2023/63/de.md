@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Vorentwurf der Revision des Bundesgesetzes über die Erfindungspatente
 document: Vernehmlassungsvorlage
 language: de

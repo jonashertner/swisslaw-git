@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Avant-projet de révision de la loi sur les brevets d’invention
 document: Projet mis en consultation
 language: fr

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Avamprogetto di revisione della legge federale sui brevetti d’invenzione
 document: Progetto posto in consultazione
 language: it
