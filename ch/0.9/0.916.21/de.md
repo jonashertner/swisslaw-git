@@ -3,16 +3,16 @@ sr: "0.916.21"
 title: Rotterdamer Übereinkommen vom 10. September 1998 über das Verfahren der vorherigen Zustimmung nach Inkenntnissetzung für bestimmte gefährliche Chemikalien sowie Pestizide im internationalen Handel (mit Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/466"
 language: de
-version: 2020-11-06
+version: 2024-09-13
 adopted: 1998-09-10
 in_force: 2004-02-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/466/20201106/de/xml/fedlex-data-admin-ch-eli-cc-2004-466-20201106-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/466/20201106/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/466/20240913/de/xml/fedlex-data-admin-ch-eli-cc-2004-466-20240913-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/466/20240913/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Rotterdamer Übereinkommen über das Verfahren der vorherigen Zustimmung nach Inkenntnissetzung für bestimmte gefährliche Chemikalien sowie Pestizide**** im internationalen Handel
+# Rotterdamer Übereinkommen über das Verfahren der vorherigen Zustimmung nach Inkenntnissetzung für bestimmte gefährliche Chemikalien sowie Pestizide im internationalen Handel
 
 AS **2004** 3465; BBl **2000** 6069[^t-1]
 
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 10. Januar 2002
 
 In Kraft getreten für die Schweiz am 24. Februar 2004
 
-(Stand am 6. November 2020)
+(Stand am 13. September 2024)
 
 [^t-1]: Anpassung an den im deutschsprachigen Raum üblichen Begriff, wie er in der deutschen Fassung des von der Europäischen Gemeinschaft genehmigten Rotterdamer Übereink. verwendet wird (Beschluss 2003/106/EG vom 19. Dez. 2002; ABl. L 63/27 vom 6. März 2003). Diese Anpassung gilt für den ganzen Übereinkommenstext. Siehe [AS 2006 3445](https://fedlex.data.admin.ch/eli/oc/2006/545).
 [^t-2]: [AS 2004 3463](https://fedlex.data.admin.ch/eli/oc/2004/465)
@@ -67,7 +67,7 @@ Ziel dieses Übereinkommens ist es, die gemeinsame Verantwortung und gemeinschaf
 
 **Begriffsbestimmungen**
 
-Im Sinne dieses Übereinkommens
+Im Sinne dieses Übereinkommens:
 
 - a. bedeutet «Chemikalien» hergestellte oder aus der Natur gewonnene, allein oder in einem Gemisch oder in einer Zubereitung vorliegende Stoffe mit Ausnahme von lebenden Organismen. Dazu gehören folgende Kategorien: Pestizide (einschliesslich sehr gefährlicher Pestizid-Formulierungen) und Industriechemikalien;
 - b. bedeutet «verbotene Chemikalien» Chemikalien, deren Verwendung – gleichgültig für welchen Zweck – innerhalb einer oder mehrerer Kategorien aus Gesundheits- oder Umweltschutzgründen durch unmittelbar geltende Rechtsvorschriften verboten ist. Darin eingeschlossen sind Chemikalien, für deren erstmalige Verwendung die Zulassung verweigert worden ist oder die von der Industrie entweder im Inland vom Markt genommen oder von einer weiteren Berücksichtigung im innerstaatlichen Zulassungsverfahren ausgenommen worden sind, wobei klar erkenntlich sein muss, dass diese Massnahmen aus Gesundheits- oder Umweltschutzgründen ergriffen worden sind;
@@ -83,7 +83,9 @@ Im Sinne dieses Übereinkommens
 
 **Geltungsbereich des übereinkommens**
 
-<sup>1</sup> Dieses Übereinkommen findet Anwendung auf
+<sup>1</sup>
+
+Dieses Übereinkommen findet Anwendung auf:
 
 - a. verbotene oder strengen Beschränkungen unterliegende Chemikalien und
 - b. sehr gefährliche Pestizid-Formulierungen.
@@ -225,7 +227,9 @@ Eine Vertragspartei, die auf Grund der Absätze 2 und 4 oder des Artikels 11 Abs
 
 **Verpflichtungen im Hinblick auf Ausfuhren von in Anlage III aufgenommenen Chemikalien**
 
-<sup>1</sup> Jede ausführende Vertragspartei
+<sup>1</sup>
+
+Jede ausführende Vertragspartei:
 
 - a. wendet angemessene Rechts- bzw. Verwaltungsvorschriften an, um die vom Sekretariat nach Artikel 10 Absatz 10 zugeleiteten Antworten an die Betroffenen innerhalb ihres Hoheitsbereichs weiterzugeben;
 - b. erlässt angemessene Rechts- bzw. Verwaltungsvorschriften, um sicherzustellen, dass Ausführer innerhalb ihres Hoheitsbereichs spätestens sechs Monate nach dem Zeitpunkt, zu dem das Sekretariat die Vertragsparteien erstmals nach Artikel 10 Absatz 10 über die einzelnen Antworten informiert hat, den Entscheidungen in diesen Antworten nachkommen;
@@ -236,9 +240,9 @@ Eine Vertragspartei, die auf Grund der Absätze 2 und 4 oder des Artikels 11 Abs
   - 1\. bei der Beschaffung weiterer Informationen, um ihnen zu helfen, Massnahmen nach Artikel 10 Absatz 4 und Artikel 11 Absatz 2 Buchstabe c zu ergreifen;
   - 2\. bei der Stärkung ihrer Kapazitäten und Fähigkeiten in Bezug auf ein sicheres Management von Chemikalien während deren gesamter Lebensdauer.
 
-<sup>2</sup> Jede Vertragspartei stellt sicher, dass eine in Anlage III aufgenommene Chemikalie nicht aus ihrem Hoheitsgebiet an eine einführende Vertragspartei ausgeführt wird, die unter aussergewöhnlichen Umständen keine Antwort übermittelt hat oder die eine vorläufige Antwort übermittelt hat, die keine vorläufige Entscheidung enthält, es sei denn,
+<sup>2</sup> Die Verpflichtungen der ausführenden Vertragsparteien nach diesem Absatz treten sechs Monate nach dem Zeitpunkt in Kraft, zu dem das Sekretariat die Vertragsparteien erstmals nach Artikel 10 Absatz 10 darüber informiert hat, dass eine Vertragspartei keine Antwort übermittelt hat oder dass sie eine vorläufige Antwort übermittelt hat, die keine vorläufige Entscheidung enthält; sie gelten für die Dauer eines Jahres.
 
-Die Verpflichtungen der ausführenden Vertragsparteien nach diesem Absatz treten sechs Monate nach dem Zeitpunkt in Kraft, zu dem das Sekretariat die Vertragsparteien erstmals nach Artikel 10 Absatz 10 darüber informiert hat, dass eine Vertragspartei keine Antwort übermittelt hat oder dass sie eine vorläufige Antwort übermittelt hat, die keine vorläufige Entscheidung enthält; sie gelten für die Dauer eines Jahres.
+Jede Vertragspartei stellt sicher, dass eine in Anlage III aufgenommene Chemikalie nicht aus ihrem Hoheitsgebiet an eine einführende Vertragspartei ausgeführt wird, die unter aussergewöhnlichen Umständen keine Antwort übermittelt hat oder die eine vorläufige Antwort übermittelt hat, die keine vorläufige Entscheidung enthält, es sei denn:
 
 - a. es handelt sich um eine Chemikalie, die zum Zeitpunkt der Einfuhr bei der einführenden Vertragspartei als Chemikalie registriert ist;
 - b. es handelt sich um eine Chemikalie, die nachweislich von der einführenden Vertragspartei bereits verwendet oder eingeführt worden ist und für die keine Rechtsvorschriften über ein Verbot ihrer Verwendung erlassen worden sind;
@@ -256,7 +260,9 @@ Die Verpflichtungen der ausführenden Vertragsparteien nach diesem Absatz treten
 
 <sup>4</sup> Die einführende Vertragspartei bestätigt den Empfang der ersten nach Erlass der unmittelbar geltenden Rechtsvorschriften bei ihr eingegangenen Ausfuhrnotifikation. Hat die ausführende Vertragspartei diese Bestätigung nicht binnen dreissig Tagen nach Absendung der Ausfuhrnotifikation erhalten, so legt sie eine zweite Ausfuhrnotifikation vor. Die ausführende Vertragspartei bemüht sich nach Kräften sicherzustellen, dass die einführende Vertragspartei die zweite Notifikation erhält.
 
-<sup>5</sup> Die in Absatz 1 niedergelegten Verpflichtungen einer Vertragspartei entfallen,
+<sup>5</sup>
+
+Die in Absatz 1 niedergelegten Verpflichtungen einer Vertragspartei entfallen:
 
 - a. sobald die Chemikalie in Anlage III aufgenommen worden ist;
 - b. sobald die einführende Vertragspartei dem Sekretariat für diese Chemikalie eine Antwort nach Artikel 10 Absatz 2 erteilt hat;
@@ -280,7 +286,9 @@ Die Verpflichtungen der ausführenden Vertragsparteien nach diesem Absatz treten
 
 **Informationsaustausch**
 
-<sup>1</sup> Soweit angebracht und im Einklang mit dem Ziel dieses Übereinkommens erleichtert jede Vertragspartei
+<sup>1</sup>
+
+Soweit angebracht und im Einklang mit dem Ziel dieses Übereinkommens erleichtert jede Vertragspartei:
 
 - a. den Austausch wissenschaftlicher, technischer, wirtschaftlicher und rechtlicher Informationen über die in den Geltungsbereich des Übereinkommens fallenden Chemikalien, einschliesslich toxikologischer, ökotoxikologischer und sicherheitsbezogener Informationen;
 - b. die Bereitstellung öffentlich zugänglicher Informationen über interne Rechtsvorschriften, die für die Ziele des Übereinkommens von Belang sind;
@@ -344,13 +352,17 @@ Die Konferenz der Vertragsparteien erarbeitet und genehmigt so bald wie möglich
 
 <sup>4</sup> Die Konferenz der Vertragsparteien vereinbart und beschliesst auf ihrer ersten Tagung durch Konsens eine Geschäftsordnung und eine Finanzordnung für sich selbst und für alle Nebenorgane sowie Finanzbestimmungen für die Tätigkeit des Sekretariats.
 
-<sup>5</sup> Die Konferenz der Vertragsparteien prüft und bewertet laufend die Durchführung dieses Übereinkommens. Sie nimmt die ihr auf Grund des Übereinkommens übertragenen Aufgaben wahr; zu diesem Zweck
+<sup>5</sup>
+
+Die Konferenz der Vertragsparteien prüft und bewertet laufend die Durchführung dieses Übereinkommens. Sie nimmt die ihr auf Grund des Übereinkommens übertragenen Aufgaben wahr; zu diesem Zweck:
 
 - a. setzt sie zusätzlich zu den Anforderungen des Absatzes 6 die von ihr zur Durchführung des Übereinkommens für notwendig erachteten Nebenorgane ein;
 - b. arbeitet sie gegebenenfalls mit den zuständigen internationalen Organisationen sowie zwischenstaatlichen und nichtstaatlichen Stellen zusammen;
 - c. prüft und ergreift sie weitere Massnahmen, die zur Erreichung der Ziele des Übereinkommens erforderlich sind.
 
-<sup>6</sup> Die Konferenz der Vertragsparteien setzt auf ihrer ersten Tagung ein als Chemikalienprüfungsausschuss zu bezeichnendes Nebenorgan ein, das die diesem Ausschuss auf Grund des Übereinkommens zugewiesenen Aufgaben wahrnimmt. Dabei
+<sup>6</sup>
+
+Die Konferenz der Vertragsparteien setzt auf ihrer ersten Tagung ein als Chemikalienprüfungsausschuss zu bezeichnendes Nebenorgan ein, das die diesem Ausschuss auf Grund des Übereinkommens zugewiesenen Aufgaben wahrnimmt. Dabei:
 
 - a. werden die Mitglieder des Chemikalienprüfungsausschusses von der Konferenz der Vertragsparteien ernannt. Der Ausschuss besteht aus einer begrenzten Anzahl von Fachleuten für Chemikalien-Management, die von den Regierungen benannt werden. Die Ausschussmitglieder werden auf der Grundlage einer ausgewogenen geografischen Verteilung ernannt, wobei auch ein ausgewogenes Verhältnis zwischen Industrie- und Entwicklungsländern gewährleistet sein muss;
 - b. entscheidet die Konferenz der Vertragsparteien über das Mandat, die Organisation und die Arbeitsweise des Ausschusses;
@@ -553,7 +565,7 @@ Anlage II
 
 ## Kriterien für die Aufnahme verbotener oder strengen Beschränkungen unterliegender Chemikalien in Anlage III
 
-Bei der Prüfung der vom Sekretariat übermittelten Notifikationen nach Artikel 5 Absatz 5 wird der Chemikalienprüfungsausschuss
+Bei der Prüfung der vom Sekretariat übermittelten Notifikationen nach Artikel 5 Absatz 5 wird der Chemikalienprüfungsausschuss:
 
 - a. bestätigen, dass die unmittelbar geltenden Rechtsvorschriften zum Schutz der menschlichen Gesundheit oder der Umwelt erlassen worden sind;
 - b. feststellen, dass die unmittelbar geltenden Rechtsvorschriften auf Grund einer Risikobewertung erlassen worden sind. Diese Bewertung muss sich auf eine Überprüfung der wissenschaftlichen Daten unter Berücksichtigung der Gegebenheiten bei der fraglichen Vertragspartei stützen. Zu diesem Zweck haben die vorgelegten Unterlagen zu belegen, dass
@@ -569,9 +581,9 @@ Bei der Prüfung der vom Sekretariat übermittelten Notifikationen nach Artikel 
 
 - d. berücksichtigen, dass ein absichtlicher Missbrauch für sich allein kein ausreichender Grund für die Aufnahme einer Chemikalie in Anlage III ist.
 
-Anlage III*[^t-3]*
+Anlage III[^t-3]
 
-[^t-3]: Dieser Anhang wird in der AS nicht publiziert ([AS 2006 3451](https://fedlex.data.admin.ch/eli/oc/2006/546)). Siehe Anhang 2 der PIC-Verordnung vom 10. Nov. 2004 ([SR 814.82](https://fedlex.data.admin.ch/eli/cc/2004/725)).
+[^t-3]: Dieser Anhang wird in der AS nicht publiziert ([AS 2006 3451](https://fedlex.data.admin.ch/eli/oc/2006/546)). Siehe Anhang 2 der PIC-Verordnung vom 10. Nov. 2004 ([SR 814.82](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9601)).
 
 Anlage IV
 
@@ -631,7 +643,7 @@ Anlage V
 
 \2. Neben den in Absatz 1 bezeichneten Informationen hat die ausführende Vertragspartei auf Ersuchen der einführenden Vertragspartei auch die in Anlage I genannten weiteren Informationen bereitzustellen.
 
-Anlage VI*[^t-4]*
+Anlage VI[^t-4]
 
 ## Beilegung von Streitigkeiten
 
@@ -770,7 +782,7 @@ Bei Meinungsverschiedenheiten über die Zuständigkeit der Vergleichskommission 
 
 Die Kosten der Vergleichskommission werden von den Streitparteien zu zwischen ihnen vereinbarten Teilen getragen. Die Kommission verzeichnet alle ihre Kosten und legt den Streitparteien eine Schlussabrechnung vor.
 
-Anlage VII*[^t-5]*
+Anlage VII[^t-5]
 
 ## Verfahren und Mechanismen zur Überprüfung der Einhaltung des Rotterdamer Übereinkommens
 
@@ -903,7 +915,7 @@ Anlage VII*[^t-5]*
 
 \30. Artikel 20 des Übereinkommens bleibt von diesen Verfahren und Mechanismen unberührt.
 
-Geltungsbereich am 22. Oktober 2020**[^t-6]**
+Geltungsbereich am 13. September 2024[^t-6]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th colspan="2"></th></tr>
@@ -918,6 +930,7 @@ Geltungsbereich am 22. Oktober 2020**[^t-6]**
 <tr><td>Australien</td><td>20. Mai</td><td>2004</td><td>18. August</td><td colspan="2">2004</td></tr>
 <tr><td>Bahrain</td><td>16. April</td><td>2012 B</td><td>15. Juli</td><td colspan="2">2012</td></tr>
 <tr><td>Barbados</td><td>8. Oktober</td><td>2020</td><td>6. Januar</td><td>2021</td></tr>
+<tr><td>Belarus</td><td>11. März</td><td>2024 B</td><td>9. Juni</td><td>2024</td></tr>
 <tr><td>Belgien</td><td>23. Oktober</td><td>2002</td><td>24. Februar</td><td colspan="2">2004</td></tr>
 <tr><td>Belize</td><td>20. April</td><td>2005 B</td><td>19. Juli</td><td colspan="2">2005</td></tr>
 <tr><td>Benin</td><td>5. Januar</td><td>2004</td><td>4. April</td><td colspan="2">2004</td></tr>
@@ -932,7 +945,6 @@ Geltungsbereich am 22. Oktober 2020**[^t-6]**
 <tr><td>China</td><td>22. März</td><td>2005</td><td>20. Juni</td><td colspan="2">2005</td></tr>
 <tr><td>Hongkong</td><td>26. August</td><td>2008</td><td>26. August</td><td colspan="2">2008</td></tr>
 <tr><td>Macau</td><td>22. März</td><td>2005</td><td>20. Juni</td><td colspan="2">2005</td></tr>
-<tr><td>Cook-Inseln</td><td>29. Juni</td><td>2004 B</td><td>27. September</td><td colspan="2">2004</td></tr>
 <tr><td>Costa Rica</td><td>13. August</td><td>2009</td><td>11. November</td><td colspan="2">2009</td></tr>
 <tr><td>Côte d’Ivoire</td><td>20. Januar</td><td>2004</td><td>19. April</td><td colspan="2">2004</td></tr>
 <tr><td>Dänemark <sup>a</sup></td><td>15. Januar</td><td>2004</td><td>14. April</td><td colspan="2">2004</td></tr>
@@ -952,6 +964,7 @@ Geltungsbereich am 22. Oktober 2020**[^t-6]**
 <tr><td>Gambia</td><td>26. Februar</td><td>2002 B</td><td>24. Februar</td><td colspan="2">2004</td></tr>
 <tr><td>Georgien</td><td>27. Februar</td><td>2007 B</td><td>28. Mai</td><td colspan="2">2007</td></tr>
 <tr><td>Ghana</td><td>30. Mai</td><td>2003</td><td>24. Februar</td><td colspan="2">2004</td></tr>
+<tr><td>Grenada</td><td>15. Oktober</td><td>2021 B</td><td>13. Januar</td><td>2022</td></tr>
 <tr><td>Griechenland</td><td>23. Dezember</td><td>2003</td><td>22. März</td><td colspan="2">2004</td></tr>
 <tr><td>Guatemala</td><td>19. April</td><td>2010 B</td><td>18. Juli</td><td colspan="2">2010</td></tr>
 <tr><td>Guinea</td><td>7. September</td><td>2000 B</td><td>24. Februar</td><td colspan="2">2004</td></tr>
@@ -1012,6 +1025,7 @@ Geltungsbereich am 22. Oktober 2020**[^t-6]**
 <tr><td>Namibia</td><td>24. Juni</td><td>2005</td><td>22. September</td><td colspan="2">2005</td></tr>
 <tr><td>Nepal</td><td>9. Februar</td><td>2007 B</td><td>10. Mai</td><td colspan="2">2007</td></tr>
 <tr><td>Neuseeland <sup>b</sup></td><td>23. September</td><td>2003</td><td>24. Februar</td><td colspan="2">2004</td></tr>
+<tr><td>Cook-Inseln</td><td>29. Juni</td><td>2004 B</td><td>27. September</td><td colspan="2">2004</td></tr>
 <tr><td>Nicaragua</td><td>19. September</td><td>2008 B</td><td>18. Dezember</td><td colspan="2">2008</td></tr>
 <tr><td>Niederlande\* <sup>c</sup></td><td>20. April</td><td>2000</td><td>24. Februar</td><td colspan="2">2004</td></tr>
 <tr><td>Niger</td><td>16. Februar</td><td>2006 B</td><td>17. Mai</td><td colspan="2">2006</td></tr>
@@ -1073,7 +1087,7 @@ Geltungsbereich am 22. Oktober 2020**[^t-6]**
 <tr><td>Vereinigtes Königreich</td><td>17. Juni</td><td>2004</td><td>15. September</td><td colspan="2">2004</td></tr>
 <tr><td>Vietnam</td><td>7. Mai</td><td>2007 B</td><td>5. August</td><td colspan="2">2007</td></tr>
 <tr><td>Zypern</td><td>17. Dezember</td><td>2004</td><td>17. März</td><td colspan="2">2005</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereink. gilt weder für die Färöer-Inseln noch für Grönland. <sup>b</sup> Das Übereink. gilt nicht für Tokelau. <sup>c</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen (UNO): [http://treaties.un.org](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereink. gilt weder für die Färöer-Inseln noch für Grönland. <sup>b</sup> Das Übereink. gilt nicht für Tokelau. <sup>c</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-6]: [AS 2004 3465](https://fedlex.data.admin.ch/eli/oc/2004/466), [2005 4569](https://fedlex.data.admin.ch/eli/oc/2005/596), [2006 855](https://fedlex.data.admin.ch/eli/oc/2006/149), [2007 29](https://fedlex.data.admin.ch/eli/oc/2007/9), [2008 4499](https://fedlex.data.admin.ch/eli/oc/2008/630), [2009 3167](https://fedlex.data.admin.ch/eli/oc/2009/398), [2010 4243](https://fedlex.data.admin.ch/eli/oc/2010/614), [2011 3559](https://fedlex.data.admin.ch/eli/oc/2011/488), [2013 415](https://fedlex.data.admin.ch/eli/oc/2013/78)[3535](https://fedlex.data.admin.ch/eli/oc/2013/661), [2016 3869](https://fedlex.data.admin.ch/eli/oc/2016/655), [2018 3995](https://fedlex.data.admin.ch/eli/oc/2018/641), [2020 4563](https://fedlex.data.admin.ch/eli/oc/2020/807). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-6]: [AS 2004 3465](https://fedlex.data.admin.ch/eli/oc/2004/466); [2005 4569](https://fedlex.data.admin.ch/eli/oc/2005/596); [2006 855](https://fedlex.data.admin.ch/eli/oc/2006/149); [2007 29](https://fedlex.data.admin.ch/eli/oc/2007/9); [2008 4499](https://fedlex.data.admin.ch/eli/oc/2008/630); [2009 3167](https://fedlex.data.admin.ch/eli/oc/2009/398); [2010 4243](https://fedlex.data.admin.ch/eli/oc/2010/614); [2011 3559](https://fedlex.data.admin.ch/eli/oc/2011/488); [2013 415](https://fedlex.data.admin.ch/eli/oc/2013/78), [3535](https://fedlex.data.admin.ch/eli/oc/2013/661); [2016 3869](https://fedlex.data.admin.ch/eli/oc/2016/655); [2018 3995](https://fedlex.data.admin.ch/eli/oc/2018/641); [2020 4563](https://fedlex.data.admin.ch/eli/oc/2020/807); [2024 504](https://fedlex.data.admin.ch/eli/oc/2024/504). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

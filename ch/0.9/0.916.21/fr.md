@@ -3,11 +3,11 @@ sr: "0.916.21"
 title: "Convention de Rotterdam du 10 septembre 1998 sur la procédure de consentement préalable en connaissance de cause applicable à certains produits chimiques et pesticides dangereux qui font l'objet d'un commerce international (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/466"
 language: fr
-version: 2020-11-06
+version: 2024-09-13
 adopted: 1998-09-10
 in_force: 2004-02-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/466/20201106/fr/xml/fedlex-data-admin-ch-eli-cc-2004-466-20201106-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/466/20201106/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/466/20240913/fr/xml/fedlex-data-admin-ch-eli-cc-2004-466-20240913-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/466/20240913/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclue à Rotterdam le 10 septembre 1998 Approuvée par l’Assemblée fédérale le 26 septembre 2001[^t-1] Instrument de ratification déposé par la Suisse le 10 janvier 2002 Entrée en vigueur pour la Suisse le 24 février 2004
 
-(Etat le 6 novembre 2020)
+(État le 13 septembre 2024)
 
 [^t-1]: [RO 2004 3463](https://fedlex.data.admin.ch/eli/oc/2004/465)
 
@@ -306,7 +306,9 @@ Les renseignements suivants ne sont pas considérés comme confidentiels aux fin
 
 <sup>5</sup> Toute Partie qui a besoin de renseignements sur les mouvements de transit sur son territoire de produits chimiques inscrits à l’annexe III peut le signaler au Secrétariat, qui en informe toutes les Parties.
 
-**Art. 15** Application de la Convention
+#### Art. 15
+
+**Application de la Convention**
 
 <sup>1</sup>
 
@@ -587,9 +589,9 @@ Le Comité d’étude des produits chimiques, lorsqu’il examine les notificati
 
 - d. tient compte du fait qu’un abus intentionnel ne constitue pas en soi une raison suffisante pour inscrire un produit chimique à l’annexe III.
 
-Annexe III*[^t-2]*
+Annexe III[^t-2]
 
-[^t-2]: Cette annexe n’est pas publiée au RO ([RO 2006 3451](https://fedlex.data.admin.ch/eli/oc/2006/546)). Voir l’annexe 2 de l’ordonnance PIC du 10 nov. 2004 ([RS 814.82](https://fedlex.data.admin.ch/eli/cc/2004/725)).
+[^t-2]: Cette annexe n’est pas publiée au RO ([RO 2006 3451](https://fedlex.data.admin.ch/eli/oc/2006/546)). Voir l’annexe 2 de l’ordonnance PIC du 10 nov. 2004 ([RS 814.82](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9601)).
 
 Annexe IV
 
@@ -649,7 +651,7 @@ Annexe V
 
 \2. En plus des renseignements demandés au par. 1 ci-dessus, la Partie exportatrice fournira tout autre renseignement complémentaire spécifié à l’annexe I que la Partie importatrice pourrait lui demander.
 
-Annexe VI*[^t-3]*
+Annexe VI[^t-3]
 
 ## Règlement des différends
 
@@ -788,7 +790,7 @@ En cas de désaccord au sujet de la compétence de la commission de conciliation
 
 Les frais de la commission sont supportés par les parties au différend dans des proportions dont elles conviennent. La commission tient un relevé de tous ses frais et en fournit un état final aux parties.
 
-Annexe VII*[^t-4]*
+Annexe VII[^t-4]
 
 ## Procédures et mécanismes de contrôle du respect de la Convention de Rotterdam
 
@@ -881,7 +883,7 @@ Annexe VII*[^t-4]*
 \22. Le Comité, pour examiner les questions générales relatives au respect conformément au par. 25 ci-dessous, peut:
 
 - a) Demander des informations à toutes les Parties;
-- b) Selon les orientations fournies par la Conférence des Parties, demander des informations pertinentes à toute source fiable et à des experts extérieurs; et
+- b) Selon les orientations fournies par la Conférence des Parties, demander des informations pertinentes à toute source fiable et à des experts extérieurs, et
 - c) Consulter le Secrétariat et s’appuyer sur son expérience et ses connaissances.
 
 \23. Sous réserve de l’art. 14 de la Convention, le Comité, toute Partie ou tout tiers prenant part aux délibérations du Comité protège les informations confidentielles reçues comme telles.
@@ -921,7 +923,7 @@ Annexe VII*[^t-4]*
 
 \30. Les présents mécanismes et procédures sont sans préjudice de l’art. 20 de la Convention.
 
-Champ d’application le 22 octobre 2020**[^t-5]**
+Champ d’application le 13 septembre 2024[^t-5]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -938,6 +940,7 @@ Champ d’application le 22 octobre 2020**[^t-5]**
 <tr><td>Autriche\*</td><td>27 août</td><td>2002</td><td>24 février</td><td>2004</td></tr>
 <tr><td>Bahreïn</td><td>16 avril</td><td>2012 A</td><td>15 juillet</td><td>2012</td></tr>
 <tr><td>Barbade</td><td>8 octobre</td><td>2020</td><td>6 janvier</td><td>2021</td></tr>
+<tr><td>Bélarus</td><td>11 mars</td><td>2024 A</td><td>9 juin</td><td>2024</td></tr>
 <tr><td>Belgique</td><td>23 octobre</td><td>2002</td><td>24 février</td><td>2004</td></tr>
 <tr><td>Belize</td><td>20 avril</td><td>2005 A</td><td>19 juillet</td><td>2005</td></tr>
 <tr><td>Bénin</td><td>5 janvier</td><td>2004</td><td>4 avril</td><td>2004</td></tr>
@@ -954,8 +957,8 @@ Champ d’application le 22 octobre 2020**[^t-5]**
 <tr><td>Cap-Vert</td><td>1<sup>er</sup> mars</td><td>2006 A</td><td>30 mai</td><td>2006</td></tr>
 <tr><td>Chili</td><td>20 janvier</td><td>2005</td><td>20 avril</td><td>2005</td></tr>
 <tr><td>Chine</td><td>22 mars</td><td>2005</td><td>20 juin</td><td>2005</td></tr>
-<tr><td>[tab] Hong Kong</td><td>26 août</td><td>2008</td><td>26 août</td><td>2008</td></tr>
-<tr><td>[tab] Macao</td><td>22 mars</td><td>2005</td><td>20 juin</td><td>2005</td></tr>
+<tr><td>Hong Kong</td><td>26 août</td><td>2008</td><td>26 août</td><td>2008</td></tr>
+<tr><td>Macao</td><td>22 mars</td><td>2005</td><td>20 juin</td><td>2005</td></tr>
 <tr><td>Chypre</td><td>17 décembre</td><td>2004</td><td>17 mars</td><td>2005</td></tr>
 <tr><td>Colombie</td><td>3 décembre</td><td>2008</td><td>3 mars</td><td>2009</td></tr>
 <tr><td>Congo (Brazzaville)</td><td>13 juillet</td><td>2006</td><td>11 octobre</td><td>2006</td></tr>
@@ -984,6 +987,7 @@ Champ d’application le 22 octobre 2020**[^t-5]**
 <tr><td>Géorgie</td><td>27 février</td><td>2007 A</td><td>28 mai</td><td>2007</td></tr>
 <tr><td>Ghana</td><td>30 mai</td><td>2003</td><td>24 février</td><td>2004</td></tr>
 <tr><td>Grèce</td><td>23 décembre</td><td>2003</td><td>22 mars</td><td>2004</td></tr>
+<tr><td>Grenade</td><td>15 octobre</td><td>2021 A</td><td>13 janvier</td><td>2022</td></tr>
 <tr><td>Guatemala</td><td>19 avril</td><td>2010 A</td><td>18 juillet</td><td>2010</td></tr>
 <tr><td>Guinée</td><td>7 septembre</td><td>2000 A</td><td>24 février</td><td>2004</td></tr>
 <tr><td>Guinée-Bissau</td><td>12 juin</td><td>2008</td><td>10 septembre</td><td>2008</td></tr>
@@ -991,7 +995,6 @@ Champ d’application le 22 octobre 2020**[^t-5]**
 <tr><td>Guyana</td><td>25 juin</td><td>2007 A</td><td>23 septembre</td><td>2007</td></tr>
 <tr><td>Honduras</td><td>26 septembre</td><td>2011 A</td><td>25 décembre</td><td>2011</td></tr>
 <tr><td>Hongrie</td><td>31 octobre</td><td>2000</td><td>24 février</td><td>2004</td></tr>
-<tr><td>Îles Cook</td><td>29 juin</td><td>2004 A</td><td>27 septembre</td><td>2004</td></tr>
 <tr><td>Îles Marshall</td><td>27 janvier</td><td>2003 A</td><td>24 février</td><td>2004</td></tr>
 <tr><td>Inde</td><td>24 mai</td><td>2005 A</td><td>22 août</td><td>2005</td></tr>
 <tr><td>Indonésie</td><td>24 septembre</td><td>2013</td><td>23 décembre</td><td>2013</td></tr>
@@ -1038,6 +1041,7 @@ Champ d’application le 22 octobre 2020**[^t-5]**
 <tr><td>Nigéria</td><td>28 juin</td><td>2001 A</td><td>24 février</td><td>2004</td></tr>
 <tr><td>Norvège\*</td><td>25 octobre</td><td>2001</td><td>24 février</td><td>2004</td></tr>
 <tr><td>Nouvelle-Zélande <sup>b</sup></td><td>23 septembre</td><td>2003</td><td>24 février</td><td>2004</td></tr>
+<tr><td>Îles Cook</td><td>29 juin</td><td>2004 A</td><td>27 septembre</td><td>2004</td></tr>
 <tr><td>Oman</td><td>31 janvier</td><td>2000 A</td><td>24 février</td><td>2004</td></tr>
 <tr><td>Ouganda</td><td>18 août</td><td>2008 A</td><td>16 novembre</td><td>2008</td></tr>
 <tr><td>Pakistan</td><td>14 juillet</td><td>2005</td><td>12 octobre</td><td>2005</td></tr>
@@ -1091,7 +1095,7 @@ Champ d’application le 22 octobre 2020**[^t-5]**
 <tr><td>Yémen</td><td>4 février</td><td>2006 A</td><td>5 mai</td><td>2006</td></tr>
 <tr><td>Zambie</td><td>28 janvier</td><td>2011 A</td><td>28 avril</td><td>2011</td></tr>
 <tr><td>Zimbabwe</td><td>1<sup>er</sup> mars</td><td>2012 A</td><td>30 mai</td><td>2012</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Exclusion territoriale à l’égard des îles Féroé et du Groenland. <sup>b</sup> Exclusion territoriale; la présente ratification ne visera pas les Tokélaou tant que le Gouvernement néo-zélandais n’aura pas déposé une déclaration à cet effet. <sup>c</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [http://treaties.un.org](http://treaties.un.org) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Exclusion territoriale à l’égard des îles Féroé et du Groenland. <sup>b</sup> Exclusion territoriale; la présente ratification ne visera pas les Tokélaou tant que le Gouvernement néo-zélandais n’aura pas déposé une déclaration à cet effet. <sup>c</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-5]: [RO 2004 3465](https://fedlex.data.admin.ch/eli/oc/2004/466), [2005 4569](https://fedlex.data.admin.ch/eli/oc/2005/596), [2006 855](https://fedlex.data.admin.ch/eli/oc/2006/149), [2007 29](https://fedlex.data.admin.ch/eli/oc/2007/9), [2008 4499](https://fedlex.data.admin.ch/eli/oc/2008/630), [2009 3167](https://fedlex.data.admin.ch/eli/oc/2009/398), [2010 4243](https://fedlex.data.admin.ch/eli/oc/2010/614), [2011 3559](https://fedlex.data.admin.ch/eli/oc/2011/488), [2013 415](https://fedlex.data.admin.ch/eli/oc/2013/78)[3535](https://fedlex.data.admin.ch/eli/oc/2013/661), [2016 3869](https://fedlex.data.admin.ch/eli/oc/2016/655), [2018 3995](https://fedlex.data.admin.ch/eli/oc/2018/641), [2020 4563](https://fedlex.data.admin.ch/eli/oc/2020/807). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-5]: [RO 2004 3465](https://fedlex.data.admin.ch/eli/oc/2004/466); [2005 4569](https://fedlex.data.admin.ch/eli/oc/2005/596); [2006 855](https://fedlex.data.admin.ch/eli/oc/2006/149); [2007 29](https://fedlex.data.admin.ch/eli/oc/2007/9); [2008 4499](https://fedlex.data.admin.ch/eli/oc/2008/630); [2009 3167](https://fedlex.data.admin.ch/eli/oc/2009/398); [2010 4243](https://fedlex.data.admin.ch/eli/oc/2010/614); [2011 3559](https://fedlex.data.admin.ch/eli/oc/2011/488); [2013 415](https://fedlex.data.admin.ch/eli/oc/2013/78), [3535](https://fedlex.data.admin.ch/eli/oc/2013/661); [2016 3869](https://fedlex.data.admin.ch/eli/oc/2016/655); [2018 3995](https://fedlex.data.admin.ch/eli/oc/2018/641); [2020 4563](https://fedlex.data.admin.ch/eli/oc/2020/807); [2024 504](https://fedlex.data.admin.ch/eli/oc/2024/504). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

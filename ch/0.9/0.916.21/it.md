@@ -3,30 +3,24 @@ sr: "0.916.21"
 title: Convenzione di Rotterdam del 10 settembre 1998 concernente la procedura di assenso preliminare con conoscenza di causa per taluni prodotti chimici e pesticidi nel commercio internazionale (con all.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/466"
 language: it
-version: 2020-11-06
+version: 2024-09-13
 adopted: 1998-09-10
 in_force: 2004-02-24
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/466/20201106/it/xml/fedlex-data-admin-ch-eli-cc-2004-466-20201106-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/466/20201106/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/466/20240913/it/xml/fedlex-data-admin-ch-eli-cc-2004-466-20240913-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/466/20240913/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Convenzione di Rotterdam concernente la procedura di assenso preliminare con conoscenza di causa per taluni prodotti chimici e pesticidi**** pericolosi nel commercio internazionale
+# Convenzione di Rotterdam concernente la procedura di assenso preliminare con conoscenza di causa per taluni prodotti chimici e pesticidi pericolosi nel commercio internazionale
 
 RU **2004** 3465; FF **2000** 5307[^t-1]
 
 Traduzione
 
-Conclusa a Rotterdam il 10 settembre 1998
+Conclusa a Rotterdam il 10 settembre 1998 Approvata dall’Assemblea nazionale svizzera il 26 settembre 2001[^t-2] Ratificata con strumenti depositati dalla Svizzera il 10 gennaio 2002 Entrata in vigore per la Svizzera il 24 febbraio 2004
 
-Approvata dall’Assemblea nazionale svizzera il 26 settembre 2001[^t-2]
-
-Ratificata con strumenti depositati dalla Svizzera il 10 gennaio 2002
-
-Entrata in vigore per la Svizzera il 24 febbraio 2004
-
-(Stato 6 novembre 2020)
+(Stato 13 settembre 2024)
 
 [^t-1]: Adeguamento al testo italiano della Conv. nella versione approvata dalla Comunità europea (Dec. 2003/106/CE, del Consiglio, del 19 dic. 2002; GU L 63 del 6 mar. 2003, p. 27). L’adeguamento ha effetto in tutto il testo della Conv. Vedi [RU 2006 3445](https://fedlex.data.admin.ch/eli/oc/2006/545).
 [^t-2]: [RU 2004 3463](https://fedlex.data.admin.ch/eli/oc/2004/465)
@@ -597,9 +591,9 @@ Nell’esaminare le notifiche trasmesse dal Segretariato in applicazione dell’
 
 - d. tenere conto del fatto che l’uso illecito intenzionale di un prodotto chimico non rappresenta di per sé motivo sufficiente per includere il prodotto nell’allegato III.
 
-Allegato III*[^t-3]*
+Allegato III[^t-3]
 
-[^t-3]: Non pubblicato nella RU ([RU 2006 3451](https://fedlex.data.admin.ch/eli/oc/2006/546)). Vedi all. 2 dell’O PIC del 10 nov. 2004 ([RS 814.82](https://fedlex.data.admin.ch/eli/cc/2004/725)).
+[^t-3]: Non pubblicato nella RU ([RU 2006 3451](https://fedlex.data.admin.ch/eli/oc/2006/546)). Vedi all. 2 dell’O PIC del 10 nov. 2004 ([RS 814.82](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9601)).
 
 Allegato IV
 
@@ -659,7 +653,7 @@ Allegato V
 
 \2. Oltre alle informazioni di cui al paragrafo 1, la Parte esportatrice fornisce i complementi di informazione di cui all’allegato I eventualmente richiesti dalla Parte importatrice.
 
-Allegato VI*[^t-4]*
+Allegato VI[^t-4]
 
 ## Composizione delle controversie
 
@@ -798,7 +792,7 @@ In caso di disaccordo sulla competenza della commissione di conciliazione, è la
 
 Le spese della commissione sono sostenute dalle Parti in causa secondo le proporzioni da esse convenute. La commissione tiene un registro di tutte le proprie spese e ne fornisce un estratto finale alle Parti.
 
-Allegato VII*[^t-5]*
+Allegato VII[^t-5]
 
 ## Procedure e meccanismi di controllo dell’adempimento della Convenzione di Rotterdam
 
@@ -931,7 +925,7 @@ Allegato VII*[^t-5]*
 
 \30. I presenti meccanismi e procedure non portano pregiudizio all’articolo 20 della Convenzione.
 
-Campo d’applicazione il 22 ottobre 2020**[^t-6]**
+Campo d’applicazione il 13 settembre 2024[^t-6]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -949,6 +943,7 @@ Campo d’applicazione il 22 ottobre 2020**[^t-6]**
 <tr><td>Belgio</td><td>23 ottobre</td><td>2002</td><td>24 febbraio</td><td>2004</td></tr>
 <tr><td>Belize</td><td>20 aprile</td><td>2005 A</td><td>19 luglio</td><td>2005</td></tr>
 <tr><td>Benin</td><td>5 gennaio</td><td>2004</td><td>4 aprile</td><td>2004</td></tr>
+<tr><td>Bielorussia</td><td>11 marzo</td><td>2024 A</td><td>9 giugno</td><td>2024</td></tr>
 <tr><td>Bolivia</td><td>18 dicembre</td><td>2003 A</td><td>17 marzo</td><td>2004</td></tr>
 <tr><td>Bosnia e Erzegovina</td><td>19 marzo</td><td>2007 A</td><td>17 giugno</td><td>2007</td></tr>
 <tr><td>Botswana\*</td><td>5 febbraio</td><td>2008 A</td><td>5 maggio</td><td>2008</td></tr>
@@ -999,6 +994,7 @@ Campo d’applicazione il 22 ottobre 2020**[^t-6]**
 <tr><td>Gibuti</td><td>10 novembre</td><td>2004 A</td><td>8 febbraio</td><td>2005</td></tr>
 <tr><td>Giordania</td><td>22 luglio</td><td>2002 A</td><td>24 febbraio</td><td>2004</td></tr>
 <tr><td>Grecia</td><td>23 dicembre</td><td>2003</td><td>22 marzo</td><td>2004</td></tr>
+<tr><td>Grenada</td><td>15 ottobre</td><td>2021 A</td><td>13 gennaio</td><td>2022</td></tr>
 <tr><td>Guatemala</td><td>19 aprile</td><td>2010 A</td><td>18 luglio</td><td>2010</td></tr>
 <tr><td>Guinea</td><td>7 settembre</td><td>2000 A</td><td>24 febbraio</td><td>2004</td></tr>
 <tr><td>Guinea equatoriale</td><td>7 febbraio</td><td>2003 A</td><td>24 febbraio</td><td>2004</td></tr>
@@ -1010,7 +1006,6 @@ Campo d’applicazione il 22 ottobre 2020**[^t-6]**
 <tr><td>Iran</td><td>26 agosto</td><td>2004</td><td>24 novembre</td><td>2004</td></tr>
 <tr><td>Iraq</td><td>18 aprile</td><td>2017 A</td><td>17 luglio</td><td>2017</td></tr>
 <tr><td>Irlanda</td><td>10 giugno</td><td>2005 A</td><td>8 settembre</td><td>2005</td></tr>
-<tr><td>Isole Cook</td><td>29 giugno</td><td>2004 A</td><td>27 settembre</td><td>2004</td></tr>
 <tr><td>Isole Marshall</td><td>27 gennaio</td><td>2003 A</td><td>24 febbraio</td><td>2004</td></tr>
 <tr><td>Israele\*</td><td>3 ottobre</td><td>2011</td><td>1° gennaio</td><td>2012</td></tr>
 <tr><td>Italia</td><td>27 agosto</td><td>2002</td><td>24 febbraio</td><td>2004</td></tr>
@@ -1049,6 +1044,7 @@ Campo d’applicazione il 22 ottobre 2020**[^t-6]**
 <tr><td>Nigeria</td><td>28 giugno</td><td>2001 A</td><td>24 febbraio</td><td>2004</td></tr>
 <tr><td>Norvegia\*</td><td>25 ottobre</td><td>2001</td><td>24 febbraio</td><td>2004</td></tr>
 <tr><td>Nuova Zelanda <sup>b</sup></td><td>23 settembre</td><td>2003</td><td>24 febbraio</td><td>2004</td></tr>
+<tr><td>Isole Cook</td><td>29 giugno</td><td>2004 A</td><td>27 settembre</td><td>2004</td></tr>
 <tr><td>Oman</td><td>31 gennaio</td><td>2000 A</td><td>24 febbraio</td><td>2004</td></tr>
 <tr><td>Paesi Bassi\* <sup>c</sup></td><td>20 aprile</td><td>2000</td><td>24 febbraio</td><td>2004</td></tr>
 <tr><td>Pakistan</td><td>14 luglio</td><td>2005</td><td>12 ottobre</td><td>2005</td></tr>
@@ -1101,10 +1097,7 @@ Campo d’applicazione il 22 ottobre 2020**[^t-6]**
 <tr><td>Yemen</td><td>4 febbraio</td><td>2006 A</td><td>5 maggio</td><td>2006</td></tr>
 <tr><td>Zambia</td><td>28 gennaio</td><td>2011 A</td><td>28 aprile</td><td>2011</td></tr>
 <tr><td>Zimbabwe</td><td>1° marzo</td><td>2012 A</td><td>30 maggio</td><td>2012</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Esclusione territoriale nei confronti delle Isole Faroe e della Groenlandia.</td></tr>
-<tr><td colspan="5"><sup>b</sup> La Conv. non vale per il Tokelau.</td></tr>
-<tr><td colspan="5"><sup>c</sup> Per il Regno in Europa.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [http://treaties.un.org](http://treaties.un.org/) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Esclusione territoriale nei confronti delle Isole Faroe e della Groenlandia. <sup>b</sup> La Conv. non vale per il Tokelau. <sup>c</sup> Per il Regno in Europa.</td></tr>
 </table>
 
-[^t-6]: [RU 2004 3465](https://fedlex.data.admin.ch/eli/oc/2004/466), [2005 4569](https://fedlex.data.admin.ch/eli/oc/2005/596), [2006 855](https://fedlex.data.admin.ch/eli/oc/2006/149), [2007 29](https://fedlex.data.admin.ch/eli/oc/2007/9), [2008 4499](https://fedlex.data.admin.ch/eli/oc/2008/630), [2009 3167](https://fedlex.data.admin.ch/eli/oc/2009/398), [2010 4243](https://fedlex.data.admin.ch/eli/oc/2010/614), [2011 3559](https://fedlex.data.admin.ch/eli/oc/2011/488), [2013 415](https://fedlex.data.admin.ch/eli/oc/2013/78)[3535](https://fedlex.data.admin.ch/eli/oc/2013/661), [2016 3869](https://fedlex.data.admin.ch/eli/oc/2016/655), [2018 3995](https://fedlex.data.admin.ch/eli/oc/2018/641), [2020 4563](https://fedlex.data.admin.ch/eli/oc/2020/807). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-6]: [RU 2004 3465](https://fedlex.data.admin.ch/eli/oc/2004/466); [2005 4569](https://fedlex.data.admin.ch/eli/oc/2005/596); [2006 855](https://fedlex.data.admin.ch/eli/oc/2006/149); [2007 29](https://fedlex.data.admin.ch/eli/oc/2007/9); [2008 4499](https://fedlex.data.admin.ch/eli/oc/2008/630); [2009 3167](https://fedlex.data.admin.ch/eli/oc/2009/398); [2010 4243](https://fedlex.data.admin.ch/eli/oc/2010/614); [2011 3559](https://fedlex.data.admin.ch/eli/oc/2011/488); [2013 415](https://fedlex.data.admin.ch/eli/oc/2013/78), [3535](https://fedlex.data.admin.ch/eli/oc/2013/661); [2016 3869](https://fedlex.data.admin.ch/eli/oc/2016/655); [2018 3995](https://fedlex.data.admin.ch/eli/oc/2018/641); [2020 4563](https://fedlex.data.admin.ch/eli/oc/2020/807); [2024 504](https://fedlex.data.admin.ch/eli/oc/2024/504). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
