@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Teilrevision der Verordnung des EDI über die Aus- und Fortbildungen und die erlaubten Tätigkeiten im Strahlenschutz
 document: Vernehmlassungsvorlage
 language: de

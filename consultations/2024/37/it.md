@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Revisione parziale dell’ordinanza del DFI concernente le formazioni, gli aggiornamenti e le attività permesse in materia di radioprotezione"
 document: Progetto posto in consultazione
 language: it
