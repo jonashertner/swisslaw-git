@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Erlass der Cybersicherheitsverordnung (CSV)
 document: Vernehmlassungsvorlage
 language: de

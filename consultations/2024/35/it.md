@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Adozione dell’ordinanza sulla cybersicurezza (OCS)
 document: Progetto posto in consultazione
 language: it

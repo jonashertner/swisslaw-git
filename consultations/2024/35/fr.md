@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Adoption de l’ordonnance sur la cybersécurité (OCyS)
 document: Projet mis en consultation
 language: fr
