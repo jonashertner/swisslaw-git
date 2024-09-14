@@ -4,11 +4,11 @@ title: Ordinanza del 31 agosto 2022 sulla protezione dei dati (OPDa)
 short: OPDa
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/568"
 language: it
-version: 2024-01-01
+version: 2024-09-15
 adopted: 2022-08-31
 in_force: 2023-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/568/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2022-568-20240101-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/568/20240915/it/xml/fedlex-data-admin-ch-eli-cc-2022-568-20240915-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20240915/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20240101/it"
 
 (OPDa)
 
-del 31 agosto 2022 (Stato 1° gennaio 2024)
+del 31 agosto 2022 (Stato 15 settembre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -636,11 +636,13 @@ L’abrogazione e la modifica di altri atti normativi sono disciplinati nell’a
 
 La presente ordinanza entra in vigore il 1° settembre 2023
 
-Allegato 1
+Allegato 1[^t-1]
 
 (art. 8 cpv. 1)
 
 ## Stati, territori, determinati settori di uno Stato e organismi internazionali in cui è garantita una protezione adeguata dei dati
+
+[^t-1]: Aggiornato dal n. I dell’O del 14 ago. 2024, in vigore dal 15 set. 2024 ([RU 2024 435](https://fedlex.data.admin.ch/eli/oc/2024/435)).
 
 <table>
 <tr><td>1</td><td>Germania\*</td><td></td></tr>
@@ -686,22 +688,28 @@ Allegato 1
 <tr><td>41</td><td>Slovenia\*</td><td></td></tr>
 <tr><td>42</td><td>Svezia\*</td><td></td></tr>
 <tr><td>43</td><td>Uruguay\*\*\*</td><td></td></tr>
+<tr><td>44</td><td>Stati Uniti\*\*\*</td><td>Per i dati personali trattati dalle organizzazioni certificate secondo i principi del quadro per la protezione dei dati tra la Svizzera e gli Stati Uniti[^annex1-lvlu1-2] è garantito un adeguato livello di protezione in virtù delle garanzie previste dal decreto presidenziale 14086 del 7 ottobre 2022[^annex1-lvlu1-3], dal regolamento del procuratore generale degli Stati Uniti del 7 ottobre 2022[^annex1-lvlu1-4] sul Tribunale del riesame in materia di protezione dei dati, dalla direttiva 126 della comunità dell’intelligence (procedure di attuazione del meccanismo di ricorso in materia di intelligence secondo il decreto presidenziale 14086) emanata il 6 dicembre 2022[^annex1-lvlu1-5] dalla direzione dell’intelligence nazionale, nonché in virtù della designazione della Svizzera il 7 giugno 2024[^annex1-lvlu1-6] come Stato che beneficia del meccanismo di ricorso a due livelli, compreso l’accesso al Tribunale del riesame in materia di protezione dei dati.</td></tr>
 </table>
 
-- \* La valutazione dell’adeguatezza della protezione dei dati include la comunicazione di dati personali secondo la direttiva (UE) 2016/680[^annex1-lvlu1-2].
+- \* La valutazione dell’adeguatezza della protezione dei dati include la comunicazione di dati personali secondo la direttiva (UE) 2016/680[^annex1-lvlu1-7].
 - \*\* La valutazione dell’adeguatezza della protezione dei dati include la comunicazione di dati personali in base a una decisione di esecuzione della Commissione europea che constata l’adeguatezza della protezione dei dati secondo la direttiva (UE) 2016/680.
 - \*\*\* La valutazione dell’adeguatezza della protezione dei dati non include la comunicazione di dati personali nel quadro della cooperazione prevista dalla direttiva (UE) 2016/680.
 
 [^annex1-lvlu1-1]: Il testo della legge federale canadese è reperibile al seguente indirizzo: https://laws-lois.justice.gc.ca/eng/acts/p-8.6/FullText.html
-[^annex1-lvlu1-2]: Direttiva (UE) 2016/680 del Parlamento europeo e del Consiglio, del 27 aprile 2016, relativa alla protezione delle persone fisiche con riguardo al trattamento dei dati personali da parte delle autorità competenti a fini di prevenzione, indagine, accertamento e perseguimento di reati o esecuzione di sanzioni penali, nonché alla libera circolazione di tali dati e che abroga la decisione quadro 2008/977/GAI del Consiglio GU L 119/89 del 4.5.2016, pag. 89.
+[^annex1-lvlu1-2]: I principi sono reperibili al seguente indirizzo: [www.dataprivacyframework.gov/s/framework-text?tabset-c1491=3](https://www.dataprivacyframework.gov/s/framework-text?tabset-c1491=3).
+[^annex1-lvlu1-3]: Il decreto presidenziale 14086 è reperibile al seguente indirizzo: [www.state.gov/executive-order-14086-policy-and-procedures/](http://www.state.gov/executive-order-14086-policy-and-procedures/).
+[^annex1-lvlu1-4]: Il regolamento è reperibile al seguente indirizzo: [www.federalregister.gov/ documents/2022/10/14/2022-22234/data-protection-review-court](https://www.federalregister.gov/documents/2022/10/14/2022-22234/data-protection-review-court).
+[^annex1-lvlu1-5]: La direttiva è reperibile al seguente indirizzo: [www.dni.gov/files/documents/ICD/ ICD\_126-Implementation-Procedures-for-SIGINT-Redress-Mechanism.pdf](https://www.dni.gov/files/documents/ICD/ICD_126-Implementation-Procedures-for-SIGINT-Redress-Mechanism.pdf).
+[^annex1-lvlu1-6]: La designazione è reperibile al seguente indirizzo: [www.justice.gov/opcl/media/1355326/dl?inline](https://www.justice.gov/opcl/media/1355326/dl?inline).
+[^annex1-lvlu1-7]: Direttiva (UE) 2016/680 del Parlamento europeo e del Consiglio, del 27 aprile 2016, relativa alla protezione delle persone fisiche con riguardo al trattamento dei dati personali da parte delle autorità competenti a fini di prevenzione, indagine, accertamento e perseguimento di reati o esecuzione di sanzioni penali, nonché alla libera circolazione di tali dati e che abroga la decisione quadro 2008/977/GAI del Consiglio GU L 119/89 del 4.5.2016, pag. 89.
 
-Allegato 2[^t-1]
+Allegato 2[^t-2]
 
 (art. 45)
 
 ## Abrogazione e modifica di altri atti normativi
 
-[^t-1]: Aggiornato dall’all. 6 n. II 1 dell’O del 23 set. 2022 concernente gli esami genetici sull’essere umano, in vigore dal 1° set. 2023 ([RU 2022 585](https://fedlex.data.admin.ch/eli/oc/2022/585)).
+[^t-2]: Aggiornato dall’all. 6 n. II 1 dell’O del 23 set. 2022 concernente gli esami genetici sull’essere umano, in vigore dal 1° set. 2023 ([RU 2022 585](https://fedlex.data.admin.ch/eli/oc/2022/585)).
 
 I
 

@@ -4,11 +4,11 @@ title: "Verordnung vom 31. August 2022 über den Datenschutz (Datenschutzverordn
 short: DSV
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/568"
 language: de
-version: 2024-01-01
+version: 2024-09-15
 adopted: 2022-08-31
 in_force: 2023-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/568/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2022-568-20240101-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/568/20240915/de/xml/fedlex-data-admin-ch-eli-cc-2022-568-20240915-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20240915/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20240101/de"
 
 (Datenschutzverordnung, DSV)
 
-vom 31. August 2022 (Stand am 1. Januar 2024)
+vom 31. August 2022 (Stand am 15. September 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -636,11 +636,13 @@ Die Aufhebung und die Änderung anderer Erlasse werden in Anhang 2 geregelt.
 
 Diese Verordnung tritt am 1. September 2023 in Kraft.
 
-Anhang 1
+Anhang 1[^t-1]
 
 (Art. 8 Abs. 1)
 
 ## Staaten, Gebiete, spezifische Sektoren in einem Staat und internationale Organe mit einem angemessenen Datenschutz
+
+[^t-1]: Bereinigt gemäss Ziff. I der V vom 14. Aug. 2024, in Kraft seit 15. Sept. 2024 ([AS 2024 435](https://fedlex.data.admin.ch/eli/oc/2024/435)).
 
 <table>
 <tr><td>1</td><td>Deutschland\*</td><td></td></tr>
@@ -686,22 +688,28 @@ Anhang 1
 <tr><td>41</td><td>Slowenien\*</td><td></td></tr>
 <tr><td>42</td><td>Schweden\*</td><td></td></tr>
 <tr><td>43</td><td>Uruguay\*\*\*</td><td></td></tr>
+<tr><td>44</td><td>Vereinigte Staaten\*\*\*</td><td>Für Personendaten, die von Organisationen bearbeitet werden, die gemäss den Grundsätzen des Datenschutzrahmens zwischen der Schweiz und den USA[^annex1-lvlu1-2] zertifiziert sind, gilt ein angemessenes Schutzniveau als gewährleistet, und zwar aufgrund der Garantien, die durch die Durchführungsverordnung 14086 vom 7. Oktober 2022[^annex1-lvlu1-3], die Vorschrift über das Gericht zur Datenschutzüberprüfung des Generalstaatsanwalts der Vereinigten Staaten vom 7. Oktober 2022[^annex1-lvlu1-4] und der Richtlinie 126 der Nachrichtendienstgemeinschaft (Verfahren für die Umsetzung für den Beschwerdemechanismus im Bereich der Nachrichtendienste gemäss Durchführungsverordnung 14086), die vom Büro der Direktorin des Nationalen Nachrichtendienstes am 6. Dezember 2022[^annex1-lvlu1-5] erstellt wurde, gewährt werden sowie aufgrund der Ernennung der Schweiz am 7. Juni 2024[^annex1-lvlu1-6] als Staat, der vom zweistufigen Beschwerdemechanismus einschliesslich des Zugangs zum Gericht zur Datenschutzüberprüfung profitiert.</td></tr>
 </table>
 
-- \* Die Beurteilung der Angemessenheit des Datenschutzes schliesst die Bekanntgabe vonPersonendaten nach der Richtlinie (EU) 2016/680[^annex1-lvlu1-2] mit ein.
+- \* Die Beurteilung der Angemessenheit des Datenschutzes schliesst die Bekanntgabe vonPersonendaten nach der Richtlinie (EU) 2016/680[^annex1-lvlu1-7] mit ein.
 - \*\* Die Beurteilung der Angemessenheit des Datenschutzes schliesst die Bekanntgabe von Personendaten gemäss einem Durchführungsbeschluss der Europäischen Kommission, mit welchem die Angemessenheit des Datenschutzes nach der Richtlinie (EU) 2016/680 festgestellt wird, mit ein.
 - \*\*\* Die Beurteilung der Angemessenheit des Datenschutzes schliesst die Bekanntgabe von Personendaten im Rahmen der von der Richtlinie (EU) 2016/680 vorgesehenen Zusammenarbeit nicht mit ein.
 
 [^annex1-lvlu1-1]: Der Text des kanadischen Bundesgesetzes ist abrufbar unter https://laws-lois.justice.gc.ca/eng/acts/p-8.6/FullText.html.
-[^annex1-lvlu1-2]: Richtlinie (EU) 2016/680 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten durch die zuständigen Behörden zum Zwecke der Verhütung, Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder der Strafvollstreckung sowie zum freien Datenverkehr und zur Aufhebung des Rahmenbeschlusses 2008/977/JI des Rates, Fassung gemäss ABl. L 119 vom 4.5.2016, S. 89.
+[^annex1-lvlu1-2]: Die Grundsätze sind abrufbar unter: [www.dataprivacyframework.gov/s/framework-text?tabset-c1491=3](https://www.dataprivacyframework.gov/s/framework-text?tabset-c1491=3).
+[^annex1-lvlu1-3]: Das Exekutivdekret 14086 ist abrufbar unter: [www.state.gov/executive-order-14086- policy-and-procedures/](https://www.state.gov/executive-order-14086-policy-and-procedures/).
+[^annex1-lvlu1-4]: Die Vorschrift ist abrufbar unter: [www.federalregister.gov/documents/2022/10/14/ 2022-22234/data-protection-review-court](https://www.federalregister.gov/documents/2022/10/14/2022-22234/data-protection-review-court).
+[^annex1-lvlu1-5]: Die Richtlinie ist abrufbar unter: [www.dni.gov/files/documents/ICD/ ICD\_126-Implementation-Procedures-for-SIGINT-Redress-Mechanism.pdf](https://www.dni.gov/files/documents/ICD/ICD_126-Implementation-Procedures-for-SIGINT-Redress-Mechanism.pdf).
+[^annex1-lvlu1-6]: Die Ernennung ist abrufbar unter: [www.justice.gov/opcl/media/1355326/dl?inline](https://www.justice.gov/opcl/media/1355326/dl?inline).
+[^annex1-lvlu1-7]: Richtlinie (EU) 2016/680 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten durch die zuständigen Behörden zum Zwecke der Verhütung, Ermittlung, Aufdeckung oder Verfolgung von Straftaten oder der Strafvollstreckung sowie zum freien Datenverkehr und zur Aufhebung des Rahmenbeschlusses 2008/977/JI des Rates, Fassung gemäss ABl. L 119 vom 4.5.2016, S. 89.
 
-Anhang 2[^t-1]
+Anhang 2[^t-2]
 
 (Art. 45)
 
 ## Aufhebung und Änderung anderer Erlasse
 
-[^t-1]: Bereinigt gemäss Anhang 6 Ziff. II 1 der V vom 23. Sept. 2022 über genetische Untersuchungen beim Menschen, in Kraft seit 1 Sept. 2023 ([AS 2022 585](https://fedlex.data.admin.ch/eli/oc/2022/585)).
+[^t-2]: Bereinigt gemäss Anhang 6 Ziff. II 1 der V vom 23. Sept. 2022 über genetische Untersuchungen beim Menschen, in Kraft seit 1 Sept. 2023 ([AS 2022 585](https://fedlex.data.admin.ch/eli/oc/2022/585)).
 
 I
 

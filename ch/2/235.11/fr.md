@@ -4,11 +4,11 @@ title: Ordonnance du 31 août 2022 sur la protection des données (OPDo)
 short: OPDo
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/568"
 language: fr
-version: 2024-01-01
+version: 2024-09-15
 adopted: 2022-08-31
 in_force: 2023-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/568/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2022-568-20240101-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/568/20240915/fr/xml/fedlex-data-admin-ch-eli-cc-2022-568-20240915-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20240915/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20240101/fr"
 
 (OPDo)
 
-du 31 août 2022 (État le 1<sup>er</sup> janvier 2024)
+du 31 août 2022 (État le 15 septembre 2024)
 
 Le Conseil fédéral suisse,
 
@@ -636,11 +636,13 @@ L’abrogation et la modification d’autres actes sont réglées à l’annexe 
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> septembre 2023.
 
-Annexe 1
+Annexe 1[^t-1]
 
 (art. 8, al. 1)
 
 ## États, territoires, secteurs déterminés dans un État et organismes internationaux dans lesquels un niveau de protection adéquat des données est garanti
+
+[^t-1]: Mise à jour par le ch. I de l’O du 14 août 2024, en vigueur depuis le 15 sep. 2024 ([RO 2024 435](https://fedlex.data.admin.ch/eli/oc/2024/435)).
 
 <table>
 <tr><td>1</td><td>Allemagne\*</td><td></td></tr>
@@ -686,22 +688,28 @@ Annexe 1
 <tr><td>41</td><td>Slovénie\*</td><td></td></tr>
 <tr><td>42</td><td>Suède\*</td><td></td></tr>
 <tr><td>43</td><td>Uruguay\*\*\*</td><td></td></tr>
+<tr><td>44</td><td>États-Unis\*\*\*</td><td>Un niveau de protection adéquat est réputé garanti pour les données personnelles traitées par les organisations certifiées conformément aux principes du cadre de protection des données entre la Suisse et les États-Unis[^annex1-lvlu1-2], en vertu des garanties octroyées par le décret exécutif 14086 du 7 octobre 2022[^annex1-lvlu1-3], par le règlement du 7 octobre 2022 sur la cour d’examen en matière de protection des données du procureur général des États-Unis[^annex1-lvlu1-4], par la directive 126 de la communauté du renseignement (procédures de mise en œuvre pour le mécanisme de recours en matière de renseignement selon le décret exécutif 14086) établie par le bureau de la directrice du renseignement national le 6 décembre 2022[^annex1-lvlu1-5] et par la désignation de la Suisse le 7 juin 2024 en tant qu’État bénéficiant du mécanisme de recours à deux niveaux comprenant l’accès à la cour d’examen en matière de protection des données[^annex1-lvlu1-6].</td></tr>
 </table>
 
-- \* L’évaluation du niveau de protection adéquat inclut les transferts de données selon la Directive (UE) 2016/680[^annex1-lvlu1-2].
+- \* L’évaluation du niveau de protection adéquat inclut les transferts de données selon la Directive (UE) 2016/680[^annex1-lvlu1-7].
 - \*\* L’évaluation du niveau de protection adéquat inclut les transferts de données en vertu d’une décision d’exécution de la Commission européenne constatant le caractère adéquat du niveau de protection des données selon la Directive (UE) 2016/680.
 - \*\*\* L’évaluation du niveau de protection adéquat n’inclut pas les transferts de données dans le cadre de la coopération prévue par la Directive (UE) 2016/680.
 
 [^annex1-lvlu1-1]: La loi fédérale canadienne est disponible à l’adresse suivante: [https://laws-lois.justice.gc.ca/fra/lois/P-8.6.textecomplet.html](https://laws-lois.justice.gc.ca/fra/lois/P-8.6.textecomplet.html)
-[^annex1-lvlu1-2]: Directive (UE) 2016/680 du Parlement européen et du Conseil du 27 avril 2016 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel par les autorités compétentes à des fins de prévention et de détection des infractions pénales, d’enquêtes et de poursuites en la matière ou d’exécution de sanctions pénales, et à la libre circulation de ces données, et abrogeant la décision-cadre 2008/977/JAI du Conseil, JO L 119 du 4.5.2016, p. 89.
+[^annex1-lvlu1-2]: Les principes sont disponibles à l’adresse suivante: [www.dataprivacyframework.gov/s/ framework-text?tabset-c1491=3](https://www.dataprivacyframework.gov/s/framework-text?tabset-c1491=3).
+[^annex1-lvlu1-3]: Le décret exécutif 14086 est disponible à l’adresse suivante: [www.state.gov/executive-order-14086-policy-and-procedures/](https://www.state.gov/executive-order-14086-policy-and-procedures/).
+[^annex1-lvlu1-4]: Le règlement est disponible à l’adresse suivante: [www.federalregister.gov/documents/ 2022/10/14/2022-22234/data-protection-review-court](https://www.federalregister.gov/documents/2022/10/14/2022-22234/data-protection-review-court).
+[^annex1-lvlu1-5]: La directive est disponible à l’adresse suivante: [www.dni.gov/files/documents/ICD/ ICD\_126-Implementation-Procedures-for-SIGINT-Redress-Mechanism.pdf](https://www.dni.gov/files/documents/ICD/ICD_126-Implementation-Procedures-for-SIGINT-Redress-Mechanism.pdf).
+[^annex1-lvlu1-6]: La désignation est disponible à l’adresse suivante: [www.justice.gov/opcl/media/1355326/ dl?inline](https://www.justice.gov/opcl/media/1355326/dl?inline).
+[^annex1-lvlu1-7]: Directive (UE) 2016/680 du Parlement européen et du Conseil du 27 avril 2016 relative à la protection des personnes physiques à l’égard du traitement des données à caractère personnel par les autorités compétentes à des fins de prévention et de détection des infractions pénales, d’enquêtes et de poursuites en la matière ou d’exécution de sanctions pénales, et à la libre circulation de ces données, et abrogeant la décision-cadre 2008/977/JAI du Conseil, JO L 119 du 4.5.2016, p. 89.
 
-Annexe 2[^t-1]
+Annexe 2[^t-2]
 
 (art. 45)
 
 ## Abrogation et modification d’autres actes
 
-[^t-1]: Mise à jour par l’annexe 6 ch. II 1 de l’O du 23 sept. 2022 sur l’analyse génétique humaine, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 585](https://fedlex.data.admin.ch/eli/oc/2022/585)).
+[^t-2]: Mise à jour par l’annexe 6 ch. II 1 de l’O du 23 sept. 2022 sur l’analyse génétique humaine, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 585](https://fedlex.data.admin.ch/eli/oc/2022/585)).
 
 I
 

@@ -4,11 +4,11 @@ title: "Ordinance of 31 August 2022 on Data Protection (Data Protection Ordinanc
 short: DPO
 eli: "https://fedlex.data.admin.ch/eli/cc/2022/568"
 language: en
-version: 2024-01-01
+version: 2024-09-15
 adopted: 2022-08-31
 in_force: 2023-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/568/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2022-568-20240101-en-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20240101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2022/568/20240915/en/xml/fedlex-data-admin-ch-eli-cc-2022-568-20240915-en-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2022/568/20240915/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Data Protection Ordinance, DPO)
 
-of 31 August 2022 (Status as of 1 January 2024)
+of 31 August 2022 (Status as of 15 September 2024)
 
 The Swiss Federal Council,
 
@@ -638,11 +638,13 @@ The repeal and the amendment of other legislation are regulated in Annex 2.
 
 This Ordinance comes into force on 1 September 2023.
 
-Annex 1
+Annex 1[^t-1]
 
 (Art. 8 para. 1)
 
 ## States, territories, specified sectors in a State and international bodies that guarantee an adequate level of data protection
+
+[^t-1]: Amended by No I of the O of 14 Aug. 2024, in force since 15 Sep. 2024 (AS **202****4** 435).
 
 <table>
 <tr><td>1</td><td>Germany\*</td><td></td></tr>
@@ -688,22 +690,28 @@ Annex 1
 <tr><td>41</td><td>Slovenia\*</td><td></td></tr>
 <tr><td>42</td><td>Sweden\*</td><td></td></tr>
 <tr><td>43</td><td>Uruguay\*\*\*</td><td></td></tr>
+<tr><td>44</td><td>United States\*\*\*</td><td>For personal data processed by organisations certified under the Principles of the Swiss-US Privacy Framework[^annex1-lvlu1-2], an adequate level of protection is deemed to be guaranteed based on the safeguards provided by Executive Order 14086 of 7 October 2022[^annex1-lvlu1-3], the Rule on the United States Attorney General's Data Protection Review Court of 7 October 2022[^annex1-lvlu1-4] and Intelligence Community Directive 126 (Implementation Procedures for the Signals Intelligence Redress Mechanism under Executive Order 14086) issued by the Office of the Director of National Intelligence on 6 December 2022[^annex1-lvlu1-5] and the Designation of Switzerland on 7 June 2024[^annex1-lvlu1-6] as a country covered by the two-layer redress mechanism, including access to the Data Protection Review Court.</td></tr>
 </table>
 
-- \* The assessment of the adequacy of data protection includes the disclosure of personal data in accordance with Directive (EU) 2016/680[^annex1-lvlu1-2].
+- \* The assessment of the adequacy of data protection includes the disclosure of personal data in accordance with Directive (EU) 2016/680[^annex1-lvlu1-7].
 - \*\* The assessment of the adequacy of data protection includes the disclosure of personal data in accordance with an implementing decision of the European Commission in which the adequacy of data protection is established in accordance with Directive (EU) 2016/680.
 - \*\*\* The assessment of the adequacy of data protection does not include the disclosure of personal data in terms of the cooperation provided for under Directive (EU) 2016/680.
 
 [^annex1-lvlu1-1]: The text of the Canadian Federal Act is available at https://laws-lois.justice.gc.ca/eng/acts/p-8.6/FullText.html.
-[^annex1-lvlu1-2]: Directive (EU) 2016/680 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, and on the free movement of such data, and repealing Council Framework Decision 2008/977/JHA, last amended by OJ. L 119 of 4.5.2016, p. 89.
+[^annex1-lvlu1-2]: The principles are available at: www.dataprivacyframework.gov/s/framework-text?tabset-c1491=3.
+[^annex1-lvlu1-3]: The Executive Order 14086 is available at: www.state.gov/executive-order-14086-policy-and-procedures/.
+[^annex1-lvlu1-4]: The Rule is available at: www.federalregister.gov/documents/2022/10/14/2022-22234/data-protection-review-court.
+[^annex1-lvlu1-5]: The Directive is available at: www.dni.gov/files/documents/ICD/ICD\_126-Implementation-Procedures-for-SIGINT-Redress-Mechanism.pdf.
+[^annex1-lvlu1-6]: The list is available at: www.justice.gov/opcl/media/1355326/dl?inline.
+[^annex1-lvlu1-7]: Directive (EU) 2016/680 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data by competent authorities for the purposes of the prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, and on the free movement of such data, and repealing Council Framework Decision 2008/977/JHA, last amended by OJ. L 119 of 4.5.2016, p. 89.
 
-Annex 2[^t-1]
+Annex 2[^t-2]
 
 (Art. 45)
 
 ## Repeal and amendment of other legislation
 
-[^t-1]: Revised by Annex 6 No II 1 of the O of 23 Sept. 2022 on Human Genetic Testing, in force since 1 Sept. 2023 ([AS 2022 585](https://fedlex.data.admin.ch/eli/oc/2022/585)).
+[^t-2]: Revised by Annex 6 No II 1 of the O of 23 Sept. 2022 on Human Genetic Testing, in force since 1 Sept. 2023 ([AS 2022 585](https://fedlex.data.admin.ch/eli/oc/2022/585)).
 
 I
 
@@ -716,4 +724,4 @@ The enactments below are amended as follows:
 …[^annex2-lvlu1-2]
 
 [^annex2-lvlu1-1]: [[AS 1993 1962](https://fedlex.data.admin.ch/eli/oc/1993/1962_1962_1962); [2000 1227](https://fedlex.data.admin.ch/eli/oc/2000/198)Annex No II 7; [2006 2331](https://fedlex.data.admin.ch/eli/oc/2006/356)Annex 2 No 3, [4705](https://fedlex.data.admin.ch/eli/oc/2006/725)No II 24; [2007 4993](https://fedlex.data.admin.ch/eli/oc/2007/700); [2008 189](https://fedlex.data.admin.ch/eli/oc/2008/58); [2010 3399](https://fedlex.data.admin.ch/eli/oc/2010/465)]
-[^annex2-lvlu1-2]: The amendments may be consulted under [AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)..
+[^annex2-lvlu1-2]: The amendments may be consulted under [AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568).
