@@ -3,20 +3,20 @@ canton: AG
 number: "422.221"
 title: Verordnung über die Kantonale Schule für Berufsbildung
 language: de
-version: 2021-08-01
-valid_until: 2024-09-14
-version_adopted: 2021-06-30
+version: 2024-09-15
+valid_until: 2025-08-31
+version_adopted: 2024-06-05
 adopted: 2007-11-07
 in_force: 2008-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/422.221"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3021/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3594/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Kantonale Schule für Berufsbildung
 
-Vom 07.11.2007 (Stand 01.08.2021)
+Vom 07.11.2007 (Stand 15.09.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -250,7 +250,7 @@ beschliesst:
 
 **Zusammensetzung**
 
-<sup>1</sup> Die Abteilung Berufsbildung und Mittelschule wählt auf eine Amtsdauer von vier Jahren eine Schulkommission von 7–9 Mitgliedern, davon eine Präsidentin oder einen Präsidenten.
+<sup>1</sup> Das Departement Bildung, Kultur und Sport wählt auf eine Amtsdauer von vier Jahren eine Schulkommission von 7–9 Mitgliedern, davon eine Präsidentin oder einen Präsidenten.
 
 <sup>2</sup> Der Schulkommission gehören insbesondere Persönlichkeiten aus den Bereichen Wirtschaft, Berufsbildung, Berufs- und Laufbahnberatung sowie eine Vertreterin oder ein Vertreter des Amts für Wirtschaft und Arbeit an. Die Rektorin oder der Rektor nimmt von Amts wegen an den Sitzungen der Schulkommission teil.
 
