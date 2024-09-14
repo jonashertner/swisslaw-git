@@ -4,13 +4,13 @@ number: "423.123"
 title: Verordnung über die Mittelschule
 short: Mittelschulverordnung
 language: de
-version: 2024-08-01
-valid_until: 2024-09-14
-version_adopted: 2024-05-22
+version: 2024-09-15
+valid_until: 2025-07-31
+version_adopted: 2024-06-05
 adopted: 2015-06-03
 in_force: 2016-07-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/423.123"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3550/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3712/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3550/pdf_file"
 
 (Mittelschulverordnung)
 
-Vom 03.06.2015 (Stand 01.08.2024)
+Vom 03.06.2015 (Stand 15.09.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -393,7 +393,7 @@ beschliesst:
 
 <sup>1</sup> In den Fachmaturitätslehrgang Gesundheit/Naturwissenschaften wird aufgenommen, wer den Fachmittelschulausweis im Berufsfeld Gesundheit/Naturwissenschaften oder den Fachmittelschulausweis in einem anderen Berufsfeld erworben hat und während zwei Jahren Pädagogik/Psychologie als berufsfeldbezogenes Fach oder Freifach belegt sowie die selbstständige Arbeit absolviert hat, die thematisch sowohl im eigenen Berufsfeldbereich als auch im Bereich Gesundheit/Naturwissenschaften angesiedelt ist.
 
-<sup>2</sup> Schülerinnen und Schüler, die das Praktikum, das Einführungs- und das Vertiefungsmodul des Fachmaturitätslehrgangs im Rahmen des Bildungsgangs Pflegefachfrau/Pflegefachmann HF oder Fachfrau/Fachmann Operationstechnik HF an der Höheren Fachschule Gesundheit und Soziales Aarau absolvieren, müssen einen Fachmittelschulausweis besitzen und das Zulassungsverfahren zu einem der vorerwähnten Bildungsgänge erfolgreich durchlaufen haben, um in den Fachmaturitätslehrgang aufgenommen zu werden.
+<sup>2</sup> Schülerinnen und Schüler, die das Praktikum, das Einführungs- und das Vertiefungsmodul des Fachmaturitätslehrgangs im Rahmen des Bildungsgangs Pflege HF oder Operationstechnik HF an der Höheren Fachschule Gesundheit und Soziales absolvieren, müssen einen Fachmittelschulausweis besitzen und das Zulassungsverfahren zu einem der vorerwähnten Bildungsgänge erfolgreich durchlaufen haben, um in den Fachmaturitätslehrgang aufgenommen zu werden.
 
 #### § 36
 
@@ -401,7 +401,7 @@ beschliesst:
 
 <sup>1</sup> In den Fachmaturitätslehrgang Soziale Arbeit wird aufgenommen, wer den Fachmittelschulausweis im Berufsfeld Soziale Arbeit oder den Fachmittelschulausweis in einem anderen Berufsfeld erworben hat und während zwei Jahren Pädagogik/Psychologie als berufsfeldbezogenes Fach oder Freifach belegt sowie die selbstständige Arbeit absolviert hat, die thematisch sowohl im eigenen Berufsfeldbereich als auch im Bereich Soziale Arbeit angesiedelt ist.
 
-<sup>2</sup> Schülerinnen und Schüler, die das Praktikum, das Einführungs- und das Vertiefungsmodul des Fachmaturitätslehrgangs im Rahmen des Bildungsgangs Sozialpädagogin/Sozialpädagoge HF an der Höheren Fachschule Gesundheit und Soziales Aarau absolvieren, müssen einen Fachmittelschulausweis besitzen und das Zulassungsverfahren zum vorerwähnten Bildungsgang erfolgreich durchlaufen haben, um in den Fachmaturitätslehrgang aufgenommen zu werden.
+<sup>2</sup> Schülerinnen und Schüler, die das Praktikum, das Einführungs- und das Vertiefungsmodul des Fachmaturitätslehrgangs im Rahmen des Bildungsgangs Sozialpädagogik HF an der Höheren Fachschule Gesundheit und Soziales absolvieren, müssen einen Fachmittelschulausweis besitzen und das Zulassungsverfahren zum vorerwähnten Bildungsgang erfolgreich durchlaufen haben, um in den Fachmaturitätslehrgang aufgenommen zu werden.
 
 #### § 37
 
