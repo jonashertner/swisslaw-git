@@ -4,13 +4,13 @@ number: "423.332"
 title: Verordnung über die Fachmittelschule
 short: V FMS
 language: de
-version: 2023-08-01
-valid_until: 2024-09-14
-version_adopted: 2023-05-17
+version: 2024-09-15
+valid_until: 2026-07-31
+version_adopted: 2024-06-05
 adopted: 2010-05-19
 in_force: 2010-08-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/423.332"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3315/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3596/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3315/pdf_file"
 
 (V FMS)
 
-Vom 19.05.2010 (Stand 01.08.2023)
+Vom 19.05.2010 (Stand 15.09.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -494,7 +494,7 @@ beschliesst:
 
 **Thema, unredliche Handlungen und Wiederholung**
 
-<sup>1</sup> Die Fachmaturitätsarbeit umfasst ein Thema, das in konkretem Bezug zum absolvierten Praktikum oder Bildungsgang respektive gestalterischen Propädeutikum steht und zwischen der Fachmittelschule, dem Praktikumsbetrieb oder der Höheren Fachschule Gesundheit und Soziales Aarau respektive der Schule für Gestaltung Aargau und der Schülerin beziehungsweise dem Schüler vereinbart wurde.
+<sup>1</sup> Die Fachmaturitätsarbeit umfasst ein Thema, das in konkretem Bezug zum absolvierten Praktikum oder Bildungsgang respektive gestalterischen Propädeutikum steht und zwischen der Fachmittelschule, dem Praktikumsbetrieb oder der Höheren Fachschule Gesundheit und Soziales respektive der Schule für Gestaltung Aargau und der Schülerin beziehungsweise dem Schüler vereinbart wurde.
 
 <sup>2</sup> Die Fachmaturitätsarbeit ist persönlich zu verfassen. Ist dies nachgewiesenermassen nicht der Fall, wird die Fachmaturitätsarbeit auf Antrag der Prüfungskommission FMS durch das Departement Bildung, Kultur und Sport als ungültig und die Fachmaturität als nicht bestanden erklärt.
 
@@ -506,7 +506,7 @@ beschliesst:
 
 <sup>1</sup> Die Fachmaturitätsarbeit wird mit einer Note entsprechend § 15 bewertet.
 
-<sup>2</sup> Die Fachmaturitätsarbeit wird durch eine Lehrperson der Fachmittelschule und eine Person des Praktikumsbetriebs oder eine Lehrperson der Höheren Fachschule Gesundheit und Soziales Aarau respektive der Schule für Gestaltung Aargau bewertet, welche die Schülerin oder den Schüler betreuen. Die Bewertung der Fachmaturitätsarbeit erfolgt aufgrund des Arbeitsprozesses, des Arbeitsergebnisses der schriftlichen oder schriftlich kommentierten Arbeit und aufgrund der durchgeführten Präsentation.
+<sup>2</sup> Die Fachmaturitätsarbeit wird durch eine Lehrperson der Fachmittelschule und eine Person des Praktikumsbetriebs oder eine Lehrperson der Höheren Fachschule Gesundheit und Soziales respektive der Schule für Gestaltung Aargau bewertet, welche die Schülerin oder den Schüler betreuen. Die Bewertung der Fachmaturitätsarbeit erfolgt aufgrund des Arbeitsprozesses, des Arbeitsergebnisses der schriftlichen oder schriftlich kommentierten Arbeit und aufgrund der durchgeführten Präsentation.
 
 <sup>3</sup> Wird die Fachmaturitätsarbeit mit einer ungenügenden Note bewertet, muss diese nachgebessert werden und wird höchstens mit der Note 4 bewertet.
 
@@ -525,7 +525,7 @@ beschliesst:
 <sup>1</sup> Die Fachmaturität ist bestanden, wenn
 
 - a) die Note der Fachmaturitätsarbeit mindestens 4 beträgt,
-- b) das Praktikum, sofern es absolviert werden muss, mindestens mit dem Prädikat «genügend» bewertet oder der Bildungsgang an der Höheren Fachschule Gesundheit und Soziales Aarau respektive das gestalterische Propädeutikum an der Schule für Gestaltung Aargau erfolgreich absolviert wurde und
+- b) das Praktikum, sofern es absolviert werden muss, mindestens mit dem Prädikat «genügend» bewertet oder der Bildungsgang an der Höheren Fachschule Gesundheit und Soziales respektive das gestalterische Propädeutikum an der Schule für Gestaltung Aargau erfolgreich absolviert wurde und
 - c) die berufsspezifischen Zusatzleistungen (Sprachaufenthalt, Sprachzertifikat, Einführungs- und Vertiefungsmodul), sofern sie absolviert werden müssen, erbracht wurden.
 
 ### 5.3. Gemeinsame Bestimmungen
