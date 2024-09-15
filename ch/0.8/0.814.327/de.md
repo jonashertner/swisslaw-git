@@ -3,16 +3,16 @@ sr: "0.814.327"
 title: "Protokoll vom 30. November 1999 zum Übereinkommen von 1979 über weiträumige grenzüberschreitende Luftverunreinigung, betreffend die Verringerung von Versauerung, Eutrophierung und bodennahem Ozon (mit Anhängen)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/54"
 language: de
-version: 2021-11-26
+version: 2024-09-16
 adopted: 1999-11-30
 in_force: 2005-12-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/54/20211126/de/xml/fedlex-data-admin-ch-eli-cc-2006-54-20211126-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/54/20211126/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/54/20240916/de/xml/fedlex-data-admin-ch-eli-cc-2006-54-20240916-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/54/20240916/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Protokoll zum Übereinkommen von 1979 über weiträumige grenzüberschreitende Luftverunreinigung, betreffend die Verringerung von Versauerung, Eutrophierung und bodennahem Ozon****
+# Protokoll zum Übereinkommen von 1979 über weiträumige grenzüberschreitende Luftverunreinigung, betreffend die Verringerung von Versauerung, Eutrophierung und bodennahem Ozon
 
 AS **2006** 259; BBl **2004** 3013[^t-1]
 
@@ -26,9 +26,9 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 14. September 2005
 
 In Kraft getreten für die Schweiz am 13. Dezember 2005
 
-(Stand am 26. November 2021)
+(Stand am 16. September 2024)
 
-[^t-1]: Die Änd. vom 4. Mai 2012 ([SR 0.814.327.1](https://fedlex.data.admin.ch/eli/cc/2019/512); [AS 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512)) ist im vorliegenden Text eingebaut, gilt aber nur im Verhältnis zu jenen Staaten, die ihr beigetreten sind. Siehe deshalb ihren eigenen Geltungsbereich.
+[^t-1]: Die Änd. vom 4. Mai 2012 ([SR 0.814.327.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3544); [AS 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512)) ist im vorliegenden Text eingebaut, gilt aber nur im Verhältnis zu jenen Staaten, die ihr beigetreten sind. Siehe deshalb ihren eigenen Geltungsbereich.
 [^t-2]: [AS 2006 257](https://fedlex.data.admin.ch/eli/oc/2006/53)
 
 Die Vertragsparteien,
@@ -81,11 +81,11 @@ ferner im Bewusstsein der Verpflichtungen, welche die Vertragsparteien nach dem 
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [SR 0.814.323](https://fedlex.data.admin.ch/eli/cc/1991/1503_1503_1503)
-[^ingress-3]: [SR 0.814.328](https://fedlex.data.admin.ch/eli/cc/2005/272)
-[^ingress-4]: [SR 0.814.324](https://fedlex.data.admin.ch/eli/cc/2003/465)
-[^ingress-5]: [SR 0.814.01](https://fedlex.data.admin.ch/eli/cc/1994/1052_1052_1052)
+[^ingress-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [SR 0.814.323](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3539)
+[^ingress-3]: [SR 0.814.328](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3545)
+[^ingress-4]: [SR 0.814.324](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3540)
+[^ingress-5]: [SR 0.814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3475)
 [^ingress-6]: Präambel bereinigt gemäss Anhang Bst. A des Beschlusses 2012/2 vom 4. Mai 2012, von der BVers genehmigt am 22. März 2019 und in Kraft für die Schweiz seit 22. Okt. 2019 ([AS 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512); [BBl 2018 5671](https://fedlex.data.admin.ch/eli/fga/2018/2092)).
 
 #### Art. 1
@@ -115,9 +115,9 @@ Im Sinne dieses Protokolls:
 - 15\.[^1-9] bedeutet «ortsfeste Quelle» jedes feste Gebäude oder Bauwerk, jede feste Einrichtung, Anlage oder Ausrüstung, das oder die Schwefel, Stickstoffoxide, flüchtige organische Verbindungen, Ammoniak oder partikelförmige Stoffe direkt oder indirekt in die Atmosphäre freisetzt oder freisetzen kann;
 - 16\.[^1-10] bedeutet «neue ortsfeste Quelle» jede ortsfeste Quelle, deren Bau oder wesentliche Veränderung nach Ablauf von einem Jahr nach dem Inkrafttreten des vorliegenden Protokolls für eine Vertragspartei begonnen wurde. Eine Vertragspartei kann beschliessen, eine ortsfeste Quelle, für die die zuständigen nationalen Behörden die Genehmigung zum Zeitpunkt des Inkrafttretens des Protokolls für die betreffende Vertragspartei bereits erteilt hatten, nicht als neue ortsfeste Quelle einzustufen, sofern der Bau oder die wesentliche Veränderung innerhalb von fünf Jahren ab dem genannten Zeitpunkt begonnen werden. Es ist Angelegenheit der zuständigen nationalen Behörden, unter Berücksichtigung solcher Faktoren wie des Umweltnutzens einer Veränderung zu entscheiden, ob diese wesentlich ist.
 
-[^1-1]: [SR 0.814.32](https://fedlex.data.admin.ch/eli/cc/1983/887_887_887)
+[^1-1]: [SR 0.814.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3536)
 [^1-2]: Eingefügt durch Anhang Bst. B Ziff. 1 des Beschlusses 2012/2 vom 4. Mai 2012, von der BVers genehmigt am 22. März 2019 und in Kraft für die Schweiz seit 22. Okt. 2019 ([AS 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512); [BBl 2018 5671](https://fedlex.data.admin.ch/eli/fga/2018/2092)).
-[^1-3]: [SR 0.814.322](https://fedlex.data.admin.ch/eli/cc/1988/867_867_867)
+[^1-3]: [SR 0.814.322](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3538)
 [^1-4]: Bereinigt gemäss Anhang Bst. B Ziff. 2 des Beschlusses 2012/2 vom 4. Mai 2012, von der BVers genehmigt am 22. März 2019 und in Kraft für die Schweiz seit 22. Okt. 2019 ([AS 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512); [BBl 2018 5671](https://fedlex.data.admin.ch/eli/fga/2018/2092)).
 [^1-5]: Eingefügt durch Anhang Bst. B Ziff. 3 des Beschlusses 2012/2 vom 4. Mai 2012, von der BVers genehmigt am 22. März 2019 und in Kraft für die Schweiz seit 22. Okt. 2019 ([AS 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512); [BBl 2018 5671](https://fedlex.data.admin.ch/eli/fga/2018/2092)).
 [^1-6]: Eingefügt durch Anhang Bst. B Ziff. 3 des Beschlusses 2012/2 vom 4. Mai 2012, von der BVers genehmigt am 22. März 2019 und in Kraft für die Schweiz seit 22. Okt. 2019 ([AS 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512); [BBl 2018 5671](https://fedlex.data.admin.ch/eli/fga/2018/2092)).
@@ -602,10 +602,10 @@ Wenn alle Vertragsparteien eines der folgenden Protokolle ihre Ratifikations-, A
 - d) das Protokoll von Oslo von 1994[^18bis-5] betreffend die weitere Verringerung von Schwefelemissionen.
 
 [^18bis-1]: Eingefügt durch Anhang Bst. N des Beschlusses 2012/2 vom 4. Mai 2012, von der BVers genehmigt am 22. März 2019 und in Kraft für die Schweiz seit 22. Okt. 2019 ([AS 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512); [BBl 2018 5671](https://fedlex.data.admin.ch/eli/fga/2018/2092)).
-[^18bis-2]: [SR 0.814.321](https://fedlex.data.admin.ch/eli/cc/1988/285_285_285)
-[^18bis-3]: [SR 0.814.323](https://fedlex.data.admin.ch/eli/cc/1991/1503_1503_1503)
-[^18bis-4]: [SR 0.814.328](https://fedlex.data.admin.ch/eli/cc/2005/272)
-[^18bis-5]: [SR 0.814.324](https://fedlex.data.admin.ch/eli/cc/2003/465)
+[^18bis-2]: [SR 0.814.321](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3537)
+[^18bis-3]: [SR 0.814.323](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3539)
+[^18bis-4]: [SR 0.814.328](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3545)
+[^18bis-5]: [SR 0.814.324](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3540)
 
 #### Art. 19
 
@@ -615,7 +615,7 @@ Die Urschrift dieses Protokolls, dessen englischer, französischer und russische
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Protokoll unterschrieben. Geschehen zu Göteborg (Schweden) am 30. November 1999. (Es folgen die Unterschriften)
 
-Anhang I*[^t-3]*
+Anhang I[^t-3]
 
 ## Kritische Eintragsraten und Konzentrationen
 
@@ -681,7 +681,7 @@ Anhang I*[^t-3]*
 
 \15. Es werden akzeptable Konzentrationen von säurebildenden Schadstoffen, von Ozon und Feinstaub festgelegt, um den Schutz von Materialien und des Kulturerbes gemäss dem aufgrund des Übereinkommens erarbeiteten Manual on Methodologies and Criteria for Modelling and Mapping Critical Loads and Levels and Air Pollution Effects, Risks and Trends zu gewährleisten. Die akzeptablen Schadstoffkonzentrationen stellen die maximale Exposition dar, der ein Material langfristig standhalten kann, ohne dass Schäden auftreten, die über die als Zielwerte spezifizierten Korrosionsraten hinausgehen. Diese Schäden, die sich anhand der verfügbaren Dosis-Wirkungs-Funktionen berechnen lassen, sind auf mehrere Schadstoffe zurückzuführen, die je nach Material auf unterschiedliche Weise zusammenwirken: Säure (Schwefeldioxid [SO<sub>2</sub>], Salpetersäure [HNO<sub>3</sub>]), Ozon und Feinstaub.
 
-Anhang II*[^t-4]*
+Anhang II[^t-4]
 
 ## Verpflichtungen zur Emissionsreduktion
 
@@ -906,13 +906,6 @@ Verpflichtungen zur Emissionsreduktion hinsichtlich flüchtiger organischer Verb
 <tr><td>31 Schweiz <sup>c</sup></td><td>103</td><td>30</td></tr>
 <tr><td>32 Vereinigtes Königreich Grossbritannien und Nordirland</td><td>1088</td><td>32</td></tr>
 <tr><td>33 Vereinigte Staaten von Amerika <sup>d</sup></td><td></td><td></td></tr>
-<tr><td>[tab]</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td></td><td></td></tr>
-<tr><td>[tab]</td><td></td><td></td></tr>
 <tr><td>34 Europäische Union</td><td>8842</td><td>28</td></tr>
 <tr><td colspan="3"><sup>a</sup> Bei der Ratifikation, Annahme oder Genehmigung dieses Protokolls oder beim Beitritt zu diesem Protokoll wird Kanada Folgendes vorlegen: a) einen Schätzwert für die Gesamtemissionen flüchtiger organischer Verbindungen im Jahr 2005, entweder auf nationaler Ebene oder für sein PEMA, sofern ein solches vorgelegt worden ist, und b) einen Richtwert für die Reduktion der Gesamtemissionen flüchtiger organischer Verbindungen im Jahr 2020 im Verhältnis zur Emissionsmenge des Jahres 2005, entweder auf nationaler Ebene oder für sein PEMA. Die Angaben zu Buchstabe a werden in die Tabelle und die Angaben zu Buchstabe b in eine Fussnote zu der Tabelle aufgenommen. Sofern ein PEMA vorgelegt worden ist, wird dies als Anpassung des Anhangs III des Protokolls einbezogen.</td></tr>
 <tr><td colspan="3"><sup>b</sup> Die Zahlen betreffen den europäischen Teil des Landes.</td></tr>
@@ -965,7 +958,7 @@ Verpflichtungen zur Emissionsreduktion hinsichtlich PM2,5 für 2020 und darüber
 <tr><td colspan="3"><sup>c</sup> Bei der Ratifikation, Annahme oder Genehmigung der Änderung bzw. beim Beitritt zu der Änderung, mit der diese Tabelle in das vorliegende Protokoll aufgenommen wird, werden die Vereinigten Staaten von Amerika Folgendes vorlegen: a) einen Schätzwert für die Gesamtemissionen von PM2,5 im Jahr 2005, entweder auf nationaler Ebene oder für ein PEMA, und b) einen Richtwert für die Reduktion der Gesamtemissionen von PM2,5 im Jahr 2020 im Verhältnis zur festgestellten Emissionsmenge des Jahres 2005. Die Angaben zu Buchstabe a werden in die Tabelle und die Angaben zu Buchstabe b in eine Fussnote zu der Tabelle aufgenommen.</td></tr>
 </table>
 
-Anhang III*[^t-5]*
+Anhang III[^t-5]
 
 ## Bestimmung des Gebiets, in dem Massnahmen zur Verminderung von Schadstoffemissionen durchgeführt werden (Pollutant Emissions Management Area; PEMA)
 
@@ -981,7 +974,7 @@ PEMA Russische Föderation
 
 Das PEMA der Russischen Föderation entspricht dem europäischen Hoheitsgebiet der Russischen Föderation. Das europäische Hoheitsgebiet der Russischen Föderation bildet einen Teil des Hoheitsgebiets Russlands und liegt innerhalb der administrativen und geografischen Grenzen der in Osteuropa gelegenen Verwaltungseinheiten der Russischen Föderation, die gemäss der traditionellen Grenze, die entlang des Urals, an der Grenze zu Kasachstan über das Kaspische Meer und von dort entlang der Staatsgrenzen zu Aserbaidschan und Georgien sowie des Nordkaukasus zum Schwarzen Meer verläuft, an den asiatischen Kontinent angrenzen.
 
-Anhang IV*[^t-6]*
+Anhang IV[^t-6]
 
 ## Grenzwerte für Schwefelemissionen aus ortsfesten Quellen
 
@@ -1127,9 +1120,8 @@ Grenzwerte für SO<sub>x</sub>-Emissionen aus der Titandioxidproduktion (Jahresd
 - m) Small Municipal Waste Combustors – 40 C.F.R. Part 60, Subpart AAAA;
 - n) Commercial and Industrial Solid Waste Combustors – 40 C.F.R. Part 60, Subpart CCCC; und
 - o) Other Solid Waste Combustors – 40 C.F.R. Part 60, Subpart EEEE.
-- [tab]
 
-Anhang V*[^t-7]*
+Anhang V[^t-7]
 
 ## Grenzwerte für Emissionen von Stickoxiden aus ortsfesten Quellen
 
@@ -1308,9 +1300,8 @@ Grenzwerte für NO<sub>x</sub>-Emissionen aus der Herstellung von Salpetersäure
 - m) Portland Cement – 40 C.F.R. Part 60, Subpart ;
 - n) Commercial and Industrial Solid Waste Combustors – 40 C.F.R. Part 60, Subpart CCCC; und
 - o) Other Solid Waste Combustors – 40 C.F.R. Part 60, Subpart EEEE.
-- [tab]
 
-Anhang VI*[^t-8]*
+Anhang VI[^t-8]
 
 ## Grenzwerte für Emissionen flüchtiger organischer Verbindungen aus ortsfesten Quellen
 
@@ -1877,7 +1868,7 @@ Anlage
   - I = I1 + I2
   - ii) Häufigkeit: Die Ermittlung der diffusen Emission von VOCs kann durch eine kurze aber umfassende Reihe von Messungen erfolgen. Erst wenn die Anlage geändert wird, müssen diese Messungen erneut vorgenommen werden.
 
-Anhang VII*[^t-9]*
+Anhang VII[^t-9]
 
 ## Fristen nach Artikel 3
 
@@ -1900,7 +1891,7 @@ Anhang VII*[^t-9]*
 
 \5. Entscheidet sich eine Vertragspartei in Bezug auf Anhang VI und/oder Anhang VIII für eine Regelung nach Artikel 3<sup>bis</sup> dieses Protokolls, so kann sie nicht zugleich eine Erklärung nach dem auf denselben Anhang anwendbaren Absatz 4 abgeben.
 
-Anhang VIII*[^t-10]*
+Anhang VIII[^t-10]
 
 ## Grenzwerte für Kraftstoffe und neue mobile Quellen
 
@@ -2208,7 +2199,7 @@ Umweltbezogene Anforderungen für handelsübliche Treibstoffe, die in Fahrzeugen
 - (k) Engine testing procedures – 40 C.F.R Part 1065; und
 - (l) General compliance provisions for non-road programs – 40 C.F.R Part 1068.
 
-Anhang IX*[^t-11]*
+Anhang IX[^t-11]
 
 ## Massnahmen zur Begrenzung von Ammoniakemissionen aus landwirtschaftlichen Quellen
 
@@ -2258,7 +2249,7 @@ Die Vertragsparteien sollen dieser Empfehlung eine Bezeichnung geben, die Verwec
 
 [^annexIX-lvlu1-lvlE-1]: Ist eine Vertragspartei der Meinung, dass andere nachweislich denselben Wirkungsgrad aufweisende Systeme oder Verfahren für die Lagerung von Hofdünger und die Stallhaltung verwendet werden können, um die Absätze 8 und 10 einzuhalten, oder ist eine Vertragspartei der Meinung, dass die Emissionsverringerung bei der Lagerung von Hofdünger nach Absatz 9 technisch oder wirtschaftlich nicht durchführbar ist, so legt sie darüber nach Artikel 7 Absatz 1 Buchstabe a einen durch schriftliche Unterlagen gestützten Bericht vor.
 
-Anhang X*[^t-12]*
+Anhang X[^t-12]
 
 ## Grenzwerte für Emissionen partikelförmiger Stoffe aus ortsfesten Quellen
 
@@ -2459,20 +2450,22 @@ Empfohlene Grenzwerte für Staubemissionen aus neuen, mit festen Brennstoffen be
 <tr><td colspan="2">*Anmerkung:* O<sub>2</sub>-Bezugsgehalt: 13 %.</td></tr>
 </table>
 
-- ii)
+-
 
-  Die Emissionen aus bestehenden Kleinfeuerungsanlagen und -kesseln für Wohngebäude können durch folgende Primärmassnahmen verringert werden:
+  - ii)
 
-  - aa)
+    Die Emissionen aus bestehenden Kleinfeuerungsanlagen und -kesseln für Wohngebäude können durch folgende Primärmassnahmen verringert werden:
 
-    öffentliche Informations- und Aufklärungsprogramme über:
+    - aa)
 
-    - – den ordnungsgemässen Betrieb von Öfen und Kesseln;
-    - – den ausschliesslichen Einsatz von unbehandeltem Holz;
-    - – die richtige Trocknung von Holz wegen des Feuchtigkeitsgehalts;
+      öffentliche Informations- und Aufklärungsprogramme über:
 
-  - bb) Auflegung eines Programms zur Förderung des Austauschs der ältesten Kessel und Öfen durch moderne Heizungstechnik; und
-  - cc) Einführung einer Pflicht zum Austausch oder zur Nachrüstung alter Anlagen.
+      - – den ordnungsgemässen Betrieb von Öfen und Kesseln;
+      - – den ausschliesslichen Einsatz von unbehandeltem Holz;
+      - – die richtige Trocknung von Holz wegen des Feuchtigkeitsgehalts;
+
+    - bb) Auflegung eines Programms zur Förderung des Austauschs der ältesten Kessel und Öfen durch moderne Heizungstechnik; und
+    - cc) Einführung einer Pflicht zum Austausch oder zur Nachrüstung alter Anlagen.
 
 - b) Feuerungsanlagen für Nichtwohngebäude mit einer thermischen Nennleistung von 100 kW<sub>th</sub>-1 MW<sub>th</sub>:
 
@@ -2616,7 +2609,7 @@ Empfohlene Grenzwerte für Staubemissionen aus Kessel- und Prozessfeuerungsanlag
 - (rr) Prepared animal feeds manufacturing (Area Sources) – 40 C.F.R. Part 63, Subpart DDDDDDD; und
 - (ss) Gold Mine Ore Processing and Production (Area Sources) – 40 C.F.R. Part 63, Subpart EEEEEEE.
 
-Anhang XI*[^t-13]*
+Anhang XI[^t-13]
 
 ## Grenzwerte für den Gehalt an flüchtigen organischen Verbindungen in Produkten
 
@@ -2716,7 +2709,7 @@ VOC-Höchstgehalt von Farben und Lacken
 <tr><td></td><td>Lb</td><td>100</td></tr>
 <tr><td>Lacke für Dekorationseffekte</td><td>Wb</td><td>200</td></tr>
 <tr><td></td><td>Lb</td><td>200</td></tr>
-<tr><td>\* g/l gebrauchsfertig.</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>\* g/l gebrauchsfertig.</td><td></td><td></td></tr>
 </table>
 
 Tabelle 2
@@ -2766,7 +2759,7 @@ VOC-Höchstgehalt von Produkten für die Fahrzeugreparaturlackierung
 - (c) Architectural coatings – 40 C.F.R. Part 59, Subpart D; und
 - (d) Aerosol coatings – 40 C.F.R. Part 59, Subpart E.»
 
-Geltungsbereich am 26. November 2021**[^t-14]**
+Geltungsbereich am 16. September 2024[^t-14]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -2778,6 +2771,8 @@ Geltungsbereich am 26. November 2021**[^t-14]**
 <tr><td>Europäische Union</td><td>23. Juni</td><td>2003 B</td><td>17. Mai</td><td>2005</td></tr>
 <tr><td>Finnland</td><td>23. Dezember</td><td>2003</td><td>17. Mai</td><td>2005</td></tr>
 <tr><td>Frankreich</td><td>10. April</td><td>2007</td><td>9. Juli</td><td>2007</td></tr>
+<tr><td>Griechenland</td><td>9. Februar</td><td>2023</td><td>10. Mai</td><td>2023</td></tr>
+<tr><td>Irland</td><td>17. April</td><td>2023</td><td>16. Juli</td><td>2023</td></tr>
 <tr><td>Kanada</td><td>28. November</td><td>2017</td><td>26. Februar</td><td>2018</td></tr>
 <tr><td>Kroatien\*</td><td>7. Oktober</td><td>2008</td><td>5. Januar</td><td>2009</td></tr>
 <tr><td>Lettland</td><td>25. Mai</td><td>2004</td><td>17. Mai</td><td>2005</td></tr>
@@ -2787,6 +2782,7 @@ Geltungsbereich am 26. November 2021**[^t-14]**
 <tr><td>Niederlande\* <sup>b</sup></td><td>5. Februar</td><td>2004</td><td>17. Mai</td><td>2005</td></tr>
 <tr><td>Nordmazedonien</td><td>5. Juni</td><td>2014 B</td><td>3. September</td><td>2014</td></tr>
 <tr><td>Norwegen</td><td>30. Januar</td><td>2002</td><td>17. Mai</td><td>2005</td></tr>
+<tr><td>Österreich</td><td>13. Juni</td><td>2024</td><td>11. September</td><td>2024</td></tr>
 <tr><td>Portugal</td><td>16. Februar</td><td>2005</td><td>17. Mai</td><td>2005</td></tr>
 <tr><td>Rumänien\*</td><td>5. September</td><td>2003</td><td>17. Mai</td><td>2005</td></tr>
 <tr><td>Schweden</td><td>28. März</td><td>2002</td><td>17. Mai</td><td>2005</td></tr>
@@ -2799,7 +2795,7 @@ Geltungsbereich am 26. November 2021**[^t-14]**
 <tr><td>Vereinigte Staaten\*</td><td>22. November</td><td>2004</td><td>17. Mai</td><td>2005</td></tr>
 <tr><td>Vereinigtes Königreich\*</td><td>8. Dezember</td><td>2005</td><td>8. März</td><td>2005</td></tr>
 <tr><td>Zypern</td><td>11. April</td><td>2007 B</td><td>10. Juli</td><td>2007</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werdenn. <sup>a</sup> Das Prot. gilt nicht für die Färöer und Grönland. <sup>b</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen (UNO): [http://treaties.un.org](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Prot. gilt nicht für die Färöer und Grönland. <sup>b</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-14]: [AS 2006 259](https://fedlex.data.admin.ch/eli/oc/2006/54), [1885](https://fedlex.data.admin.ch/eli/oc/2006/295); [2009 213](https://fedlex.data.admin.ch/eli/oc/2009/36); [2013 763](https://fedlex.data.admin.ch/eli/oc/2013/152); [2014 3221](https://fedlex.data.admin.ch/eli/oc/2014/552); [2018 83](https://fedlex.data.admin.ch/eli/oc/2018/26); [2021 784](https://fedlex.data.admin.ch/eli/oc/2021/784). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty
+[^t-14]: [AS 2006 259](https://fedlex.data.admin.ch/eli/oc/2006/54), [1885](https://fedlex.data.admin.ch/eli/oc/2006/295); [2009 213](https://fedlex.data.admin.ch/eli/oc/2009/36); [2013 763](https://fedlex.data.admin.ch/eli/oc/2013/152); [2014 3221](https://fedlex.data.admin.ch/eli/oc/2014/552); [2018 83](https://fedlex.data.admin.ch/eli/oc/2018/26); [2021 784](https://fedlex.data.admin.ch/eli/oc/2021/784); [2024 508](https://fedlex.data.admin.ch/eli/oc/2024/508). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

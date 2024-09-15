@@ -3,16 +3,16 @@ sr: "0.814.327"
 title: "Protocollo del 30 novembre 1999 alla Convenzione sull'inquinamento atmosferico transfrontaliero a grande distanza, del 1979, relativo alla riduzione dell'acidificazione, dell'eutrofizzazione e dell'ozono troposferico (con all.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/54"
 language: it
-version: 2021-11-26
+version: 2024-09-16
 adopted: 1999-11-30
 in_force: 2005-12-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/54/20211126/it/xml/fedlex-data-admin-ch-eli-cc-2006-54-20211126-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/54/20211126/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/54/20240916/it/xml/fedlex-data-admin-ch-eli-cc-2006-54-20240916-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/54/20240916/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Protocollo alla Convenzione sull’inquinamento atmosferico transfrontaliero a grande distanza, del 1979, relativo alla riduzione dell’acidificazione, dell’eutrofizzazione e dell’ozono troposferico****
+# Protocollo alla Convenzione sull’inquinamento atmosferico transfrontaliero a grande distanza, del 1979, relativo alla riduzione dell’acidificazione, dell’eutrofizzazione e dell’ozono troposferico
 
 RU **2006** 259; FF **2004** 2633[^t-1]
 
@@ -20,9 +20,9 @@ Traduzione
 
 Concluso a Göteborg il 30 novembre 19990 Approvato dall’Assemblea federale il 18 marzo 2005[^t-2] Ratificato con strumenti depositati dalla Svizzera il 14 settembre 2005 Entrato in vigore per la Svizzera il 13 dicembre 2005
 
-(Stato 26 novembre 2021)
+(Stato 16 settembre 2024)
 
-[^t-1]: Le mod. del 4 mag. 2012 ([RS 0.814.327.1](https://fedlex.data.admin.ch/eli/cc/2019/512); [RU 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512)) sono inserite nel presente testo. Queste valgono però soltanto nei rapporti tra gli Stati che le hanno ratificate. Vedi dunque lo specifico campo d’applicazione del testo RS citato tra parentesi.
+[^t-1]: Le mod. del 4 mag. 2012 ([RS 0.814.327.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3544); [RU 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512)) sono inserite nel presente testo. Queste valgono però soltanto nei rapporti tra gli Stati che le hanno ratificate. Vedi dunque lo specifico campo d’applicazione del testo RS citato tra parentesi.
 [^t-2]: [RU 2006 257](https://fedlex.data.admin.ch/eli/oc/2006/53)
 
 Le Parti,
@@ -75,11 +75,11 @@ consapevoli inoltre degli impegni assunti dalle parti in virtù della Convenzion
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-2]: [RS 0.814.323](https://fedlex.data.admin.ch/eli/cc/1991/1503_1503_1503)
-[^ingress-3]: [RS 0.814.328](https://fedlex.data.admin.ch/eli/cc/2005/272)
-[^ingress-4]: [RS 0.814.324](https://fedlex.data.admin.ch/eli/cc/2003/465)
-[^ingress-5]: [RS 0.814.01](https://fedlex.data.admin.ch/eli/cc/1994/1052_1052_1052)
+[^ingress-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-2]: [RS 0.814.323](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3539)
+[^ingress-3]: [RS 0.814.328](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3545)
+[^ingress-4]: [RS 0.814.324](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3540)
+[^ingress-5]: [RS 0.814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3475)
 [^ingress-6]: Preambolo aggiornato dall’all. lett. A della Dec. 2012/2 del 4 mag. 2012, approvata dall’AF il 22 mar. 2019, in vigore per la Svizzera dal 22 ott. 2019 ([RU 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512); [FF 2018 4771](https://fedlex.data.admin.ch/eli/fga/2018/2092)).
 
 #### Art. 1
@@ -101,17 +101,17 @@ Ai fini del presente protocollo,
 - 10\. per «zolfo» s’intendono tutti i composti dello zolfo, espressi come anidride solforosa (SO<sub>2</sub>);
 - 11\. per «composti organici volatili» o COV s’intendono, se non specificato diversamente, tutti i composti organici di natura antropica, diversi dal metano, che possono produrre ossidanti fotochimici per reazione con gli ossidi di azoto in presenza di radiazioni solari;
 - 11<sup>bis</sup>.[^1-5] per «particolato» o «PM» s’intende un inquinante atmosferico costituito da una miscela di particelle disperse in atmosfera. Le particelle presentano differenti proprietà fisiche (come dimensioni e forma) e composizioni chimiche. Salvo indicazione contraria, tutti i riferimenti al particolato nel presente protocollo si riferiscono a particelle con diametro aerodinamico uguale o inferiore a 10 micrometri (μm) (PM10), comprese quelle con diametro aerodinamico pari o inferiore a 2,5 µm (PM2,5);
-- [tab] 11<sup>ter</sup>. [^1-6] per «nero di carbonio» s’intende un materiale carbonioso particellare particolato che assorbe la luce;
-- [tab] 11<sup>quater</sup>.[^1-7].per «precursori dell’ozono» s’intendono ossidi di azoto, composti organici volatili, metano e monossido di carbonio;
+- 11<sup>ter</sup>.[^1-6] per «nero di carbonio» s’intende un materiale carbonioso particellare particolato che assorbe la luce;
+- 11<sup>quater</sup>.[^1-7] per «precursori dell’ozono» s’intendono ossidi di azoto, composti organici volatili, metano e monossido di carbonio;
 - 12\. per «carico critico» s’intende una valutazione quantitativa dell’esposizione a uno o più inquinanti al di sotto della quale, secondo le attuali conoscenze, non si hanno effetti nocivi significativi per determinati elementi sensibili dell’ambiente;
 - 13\.[^1-8] per «livelli critici» s’intendono le concentrazioni di inquinanti nell’atmosfera o di flussi verso recettori al di sopra delle quali, secondo le attuali conoscenze, vi possono essere effetti nocivi diretti per i destinatari come gli esseri umani, le piante, gli ecosistemi o i materiali;
 - 14\. per «zona di gestione delle emissioni inquinanti» o ZGEI s’intende la zona designata nell’allegato III secondo le condizioni enunciate nel paragrafo 9 dell’articolo 3;
-- [tab] 15. [^1-9]per «fonte fissa» s’intende ogni edificio, struttura, attrezzatura, impianto o apparecchio che emette o può emettere zolfo, ossidi di azoto, composti organici volatili, ammoniaca o particolato o direttamente o indirettamente in atmosfera;
+- 15\. [^1-9] per «fonte fissa» s’intende ogni edificio, struttura, attrezzatura, impianto o apparecchio che emette o può emettere zolfo, ossidi di azoto, composti organici volatili, ammoniaca o particolato o direttamente o indirettamente in atmosfera;
 - 16\.[^1-10] per «fonte fissa nuova» s’intende qualsiasi fonte fissa la cui costruzione o modifica sostanziale sia iniziata alla scadenza di un anno dall’entrata in vigore per una parte del presente protocollo. Una parte può decidere di non considerare come fonte fissa nuova qualsiasi fonte fissa per la quale l’autorità nazionale competente abbia già fornito la propria approvazione prima dell’entrata in vigore del protocollo per la parte medesima e a condizione che la costruzione o modifica sostanziale abbia avuto inizio entro cinque anni da tale data. Spetta alle autorità nazionali competenti stabilire se si tratti di modifica sostanziale o meno, tenendo in considerazione fattori quali i vantaggi che tale modifica presenta per l’ambiente.
 
-[^1-1]: [RS 0.814.32](https://fedlex.data.admin.ch/eli/cc/1983/887_887_887)
+[^1-1]: [RS 0.814.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3536)
 [^1-2]: Introdotto dall’all. lett. B della Dec. 2012/2 del 4 mag. 2012, approvata dall’AF il 22 mar. 2019, in vigore per la Svizzera dal 22 ott. 2019 ([RU 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512); [FF 2018 4771](https://fedlex.data.admin.ch/eli/fga/2018/2092)).
-[^1-3]: [RS 0.814.322](https://fedlex.data.admin.ch/eli/cc/1988/867_867_867)
+[^1-3]: [RS 0.814.322](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3538)
 [^1-4]: Aggiornato dall’all. lett. B della Dec. 2012/2 del 4 mag. 2012, approvata dall’AF il 22 mar. 2019, in vigore per la Svizzera dal 22 ott. 2019 ([RU 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512); [FF 2018 4771](https://fedlex.data.admin.ch/eli/fga/2018/2092)).
 [^1-5]: Introdotto dall’all. lett. B della Dec. 2012/2 del 4 mag. 2012, approvata dall’AF il 22 mar. 2019, in vigore per la Svizzera dal 22 ott. 2019 ([RU 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512); [FF 2018 4771](https://fedlex.data.admin.ch/eli/fga/2018/2092)).
 [^1-6]: Introdotto dall’all. lett. B della Dec. 2012/2 del 4 mag. 2012, approvata dall’AF il 22 mar. 2019, in vigore per la Svizzera dal 22 ott. 2019 ([RU 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512); [FF 2018 4771](https://fedlex.data.admin.ch/eli/fga/2018/2092)).
@@ -418,7 +418,7 @@ Le parti incoraggiano la ricerca, lo sviluppo, la sorveglianza e la cooperazione
 - b)[^8-1] perfezionamento delle banche dati sulle emissioni, in particolare quelle relative al particolato, incluso il nero di carbonio, all’ammoniaca e ai composti organici volatili;
 - c)[^8-2] miglioramento delle tecniche e dei sistemi di sorveglianza e dei modelli di trasporto, delle concentrazioni e dei depositi di zolfo, composti dell’azoto, composti organici volatili e particolato, incluso il nero di carbonio, nonché della formazione di ozono o di particelle secondarie;
 - d) migliore comprensione scientifica del destino a lungo termine delle emissioni e del relativo impatto sulle concentrazioni di fondo emisferiche di zolfo, azoto, composti organici volatili, ozono e particelle, con particolare attenzione alla chimica della troposfera libera e alla possibilità di un flusso intercontinentale di inquinanti;
-- [tab] d<sup>bis</sup>)[^8-3] miglioramento delle conoscenze scientifiche sui potenziali benefici collaterali per la mitigazione dei cambiamenti climatici associati ai potenziali scenari di riduzione delle emissioni degli inquinanti atmosferici (come il metano, il monossido di carbonio e il nero di carbonio) che provocano forzatura radiativa a breve termine e altri effetti climatici;
+- d<sup>bis</sup>)[^8-3] miglioramento delle conoscenze scientifiche sui potenziali benefici collaterali per la mitigazione dei cambiamenti climatici associati ai potenziali scenari di riduzione delle emissioni degli inquinanti atmosferici (come il metano, il monossido di carbonio e il nero di carbonio) che provocano forzatura radiativa a breve termine e altri effetti climatici;
 - e)[^8-4] ulteriore elaborazione di una strategia globale per ridurre gli effetti negativi dell’acidificazione, dell’eutrofizzazione, dell’inquinamento fotochimico e del particolato, comprese le sinergie e gli effetti combinati di tali fenomeni;
 - f)[^8-5] elaborazione di strategie volte a ridurre ulteriormente le emissioni di zolfo, ossidi di azoto, ammoniaca, composti organici volatili e altri precursori dell’ozono, e particolato in base ai carichi critici e ai livelli critici nonché al progresso tecnico; miglioramento dei modelli di valutazione integrata per calcolare la ripartizione ottimizzata a livello internazionale delle riduzioni delle emissioni sulla base di un’equa ripartizione dei costi tra le parti. Particolare attenzione meritano le emissioni derivanti dall’agricoltura e dai trasporti;
 - g)[^8-6] identificazione delle tendenze nel tempo e comprensione scientifica degli effetti più generali delle emissioni di zolfo, azoto, composti organici volatili e particolato e dell’inquinamento fotochimico per la salute umana, per l’ambiente, in particolare l’acidificazione e l’eutrofizzazione, e per i materiali, soprattutto i monumenti di valore storico e culturale, in considerazione della relazione tra gli ossidi di zolfo, gli ossidi di azoto, l’ammoniaca, i composti organici volatili, il particolato e l’ozono troposferico;
@@ -531,9 +531,12 @@ Gli allegati del presente protocollo ne costituiscono parte integrante.
 Le modifiche agli allegati da IV a XI vengono adottate per consenso delle parti presenti in una seduta dell’Organo esecutivo. Allo scadere di un anno dalla data in cui viene comunicata dal Segretario esecutivo della Commissione a tutte le parti, ogni modifica ai suddetti allegati entra in vigore per le parti che non hanno fatto pervenire al Depositario una notifica secondo le disposizioni di cui alla lettera a):
 
 - a) le parti che non sono in grado di approvare una modifica agli allegati da IV a XI lo notificano per iscritto al Depositario entro un anno a decorrere dalla data di comunicazione della sua adozione. Il Depositario comunica immediatamente a tutte le parti di aver ricevuto tale notifica. Una parte può sostituire in qualsiasi momento una sua precedente notifica con un’accettazione e, dopo aver depositato lo strumento di accettazione presso il Depositario, la modifica ai suddetti allegati avrà effetto per tale parte;
-- b) qualsiasi modifica degli allegati da IV a XI non entra in vigore se un numero complessivo di sedici o più parti:
-- i) ha fatto pervenire una notifica secondo le disposizioni di cui alla lettera a), oppure
-- ii) a respinto la procedura di cui al presente paragrafo e non ha ancora depositato uno strumento di accettazione in conformità delle disposizioni del paragrafo 3.
+- b)
+
+  qualsiasi modifica degli allegati da IV a XI non entra in vigore se un numero complessivo di sedici o più parti:
+
+  - i) ha fatto pervenire una notifica secondo le disposizioni di cui alla lettera a), oppure
+  - ii) a respinto la procedura di cui al presente paragrafo e non ha ancora depositato uno strumento di accettazione in conformità delle disposizioni del paragrafo 3.
 
 [^13bis-1]: Introdotto dall’all. lett. L della Dec. 2012/2 del 4 mag. 2012, approvata dall’AF il 22 mar. 2019, in vigore per la Svizzera dal 22 ott. 2019 ([RU 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512); [FF 2018 4771](https://fedlex.data.admin.ch/eli/fga/2018/2092)).
 
@@ -591,10 +594,10 @@ Quando tutte le parti che hanno sottoscritto uno o più dei protocolli elencati 
 - d) il protocollo di Oslo del 1994[^18bis-5] relativo a un’ulteriore riduzione delle emissioni di zolfo
 
 [^18bis-1]: Introdotto dall’all. lett. N della Dec. 2012/2 del 4 mag. 2012, approvata dall’AF il 22 mar. 2019, in vigore per la Svizzera dal 22 ott. 2019 ([RU 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512); [FF 2018 4771](https://fedlex.data.admin.ch/eli/fga/2018/2092)).
-[^18bis-2]: [RS 0.814.321](https://fedlex.data.admin.ch/eli/cc/1988/285_285_285)
-[^18bis-3]: [RS 0.814.323](https://fedlex.data.admin.ch/eli/cc/1991/1503_1503_1503)
-[^18bis-4]: [RS 0.814.328](https://fedlex.data.admin.ch/eli/cc/2005/272)
-[^18bis-5]: [RS 0.814.324](https://fedlex.data.admin.ch/eli/cc/2003/465)
+[^18bis-2]: [RS 0.814.321](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3537)
+[^18bis-3]: [RS 0.814.323](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3539)
+[^18bis-4]: [RS 0.814.328](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3545)
+[^18bis-5]: [RS 0.814.324](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3540)
 
 #### Art. 19
 
@@ -604,7 +607,7 @@ L’originale del presente protocollo, i cui testi in lingua francese, inglese e
 
 *In fede di che*, i sottoscritti, debitamente autorizzati a tal fine, hanno firmato il presente protocollo. Fatto a Göteborg (Svezia) il trenta novembre millenovencentonovantanove. (Seguono le firme)
 
-Allegato I*[^t-3]*
+Allegato I[^t-3]
 
 ## Carichi e livelli critici
 
@@ -614,7 +617,7 @@ Allegato I*[^t-3]*
 
 ### A. Per le Parti che rientrano in una zona geografica delle attività dell’EMEP
 
-\1. I carichi critici (definiti nell’art. 1) di acidità per gli ecosistemi sono determinati ai sensi del *Manual on Methodologies and Criteria for Modelling and Mapping Cr**i**tical Loads and Levels and Air Pollution Effects, Risks and Trends* della convenzione. Essi rappresentano la quantità massima di deposito acidificante che un ecosistema può tollerare nel lungo termine senza subire danni. I carichi critici di acidità relativi all’azoto tengono conto dei processi di eliminazione dell’azoto all’interno degli ecosistemi (ad esempio, l’assorbimento da parte dei vegetali). I carichi critici di acidità relativi allo zolfo sono carichi che, a lungo termine, non avranno effetti nefasti sulla struttura e sulle funzioni di un ecosistema. Un carico critico di acidità di zolfo più azoto tiene conto dell’azoto solo qualora il deposito di azoto sia superiore alla quantità eliminata dai processi di eliminazione dell’azoto dell’ecosistema come l’assorbimento da parte della vegetazione. Tutti i carichi critici riferiti dalle parti, e approvati dall’organo esecutivo della Convenzione, sono sintetizzati per poter essere impiegati nei modelli di valutazione integrata utilizzati come orientamenti per definire l’impegno per la riduzione delle emissioni dell’allegato II.
+\1. I carichi critici (definiti nell’art. 1) di acidità per gli ecosistemi sono determinati ai sensi del *Manual on Methodologies and Criteria for Modelling and Mapping Critical Loads and Levels and Air Pollution Effects, Risks and Trends* della convenzione. Essi rappresentano la quantità massima di deposito acidificante che un ecosistema può tollerare nel lungo termine senza subire danni. I carichi critici di acidità relativi all’azoto tengono conto dei processi di eliminazione dell’azoto all’interno degli ecosistemi (ad esempio, l’assorbimento da parte dei vegetali). I carichi critici di acidità relativi allo zolfo sono carichi che, a lungo termine, non avranno effetti nefasti sulla struttura e sulle funzioni di un ecosistema. Un carico critico di acidità di zolfo più azoto tiene conto dell’azoto solo qualora il deposito di azoto sia superiore alla quantità eliminata dai processi di eliminazione dell’azoto dell’ecosistema come l’assorbimento da parte della vegetazione. Tutti i carichi critici riferiti dalle parti, e approvati dall’organo esecutivo della Convenzione, sono sintetizzati per poter essere impiegati nei modelli di valutazione integrata utilizzati come orientamenti per definire l’impegno per la riduzione delle emissioni dell’allegato II.
 
 ### B. Per le Parti dell’America settentrionale
 
@@ -638,7 +641,7 @@ Allegato I*[^t-3]*
 
 ### A. Per le Parti che rientrano in una zona geografica delle attività dell’EMEP
 
-\6. I livelli critici (ai sensi dell’art. 1) di ozono sono determinati al fine di proteggere i vegetali ai sensi del *Manual on Methodologies and Criteria for Mode**l**ling and Mapping Critical Loads and Levels and Air Pollution Effects, Risks and Trends*, elaborato in virtù della Convenzione. Sono espressi come valore cumulativo dei flussi stomatici oppure delle concentrazioni in cima alla copertura vegetale. I carichi critici si basano di preferenza sui flussi stomatici, essendo considerati biologicamente più pertinenti in quanto tengono conto dell’effetto modificatore dei fattori correlati al clima, al suolo e ai vegetali sull’assorbimento dell’ozono da parte della vegetazione.
+\6. I livelli critici (ai sensi dell’art. 1) di ozono sono determinati al fine di proteggere i vegetali ai sensi del *Manual on Methodologies and Criteria for Modelling and Mapping Critical Loads and Levels and Air Pollution Effects, Risks and Trends*, elaborato in virtù della Convenzione. Sono espressi come valore cumulativo dei flussi stomatici oppure delle concentrazioni in cima alla copertura vegetale. I carichi critici si basano di preferenza sui flussi stomatici, essendo considerati biologicamente più pertinenti in quanto tengono conto dell’effetto modificatore dei fattori correlati al clima, al suolo e ai vegetali sull’assorbimento dell’ozono da parte della vegetazione.
 
 \7. I livelli critici sono stati calcolati per un numero determinato di specie coltivate, la vegetazione (semi)naturale e alcune essenze forestali. I livelli critici considerati sono correlati agli effetti ambientali più importanti (quali ad esempio la crescente insicurezza dell’approvvigionamento alimentare, la diminuzione dello stoccaggio del carbonio nella biomassa vivente degli alberi e altri effetti nefasti sugli ecosistemi forestali e (semi)naturali).
 
@@ -664,13 +667,13 @@ Allegato I*[^t-3]*
 
 ### V. Livelli critici di ammoniaca
 
-\14. I livelli critici (ai sensi dell’art. 1) di ammoniaca sono determinati al fine di proteggere i vegetali ai sensi dal *Manual on Methodologies and Crit**e**ria for Modelling and Mapping Critical Loads and Levels and Air Pollution Effects, Risks and Trends*.
+\14. I livelli critici (ai sensi dell’art. 1) di ammoniaca sono determinati al fine di proteggere i vegetali ai sensi dal *Manual on Methodologies and Criteria for Modelling and Mapping Critical Loads and Levels and Air Pollution Effects, Risks and Trends*.
 
 ### VI. Livelli accettabili di inquinanti atmosferici da determinare per la protezione dei materiali
 
-\15. Sono determinati livelli accettabili di inquinanti acidificanti, d’ozono e di particolati al fine di proteggere i materiali e il patrimonio culturale ai sensi del *M**a**nual on Methodologies and Criteria for Modelling and Mapping Critical Loads and Levels and Air Pollution Effects, Risks and Trends*, elaborato in virtù della Convenzione. I livelli accettabili di inquinanti rappresentano l’esposizione massima che un materiale può sopportare a lungo termine senza subire alcun danno superiore ai tassi di corrosione specifici. Tali danni, calcolabili in base alle funzioni dose-reazioni disponibili, sono dovuti a diversi inquinanti che interagiscono in vari modi a seconda del materiale: acidità (biossido di zolfo [SO<sub>2</sub>], acido nitrico [HNO<sub>3</sub>]), ozono e particolati.
+\15. Sono determinati livelli accettabili di inquinanti acidificanti, d’ozono e di particolati al fine di proteggere i materiali e il patrimonio culturale ai sensi del *Manual on Methodologies and Criteria for Modelling and Mapping Critical Loads and Levels and Air Pollution Effects, Risks and Trends*, elaborato in virtù della Convenzione. I livelli accettabili di inquinanti rappresentano l’esposizione massima che un materiale può sopportare a lungo termine senza subire alcun danno superiore ai tassi di corrosione specifici. Tali danni, calcolabili in base alle funzioni dose-reazioni disponibili, sono dovuti a diversi inquinanti che interagiscono in vari modi a seconda del materiale: acidità (biossido di zolfo [SO<sub>2</sub>], acido nitrico [HNO<sub>3</sub>]), ozono e particolati.
 
-Allegato II*[^t-4]*
+Allegato II[^t-4]
 
 ## Impegni di riduzione delle emissioni
 
@@ -947,7 +950,7 @@ Impegni di riduzione delle emissioni di PM2,5 per il 2020 e oltre
 <tr><td colspan="3"><sup>c</sup> Alla ratifica, accettazione o approvazione, o all’adesione alla modifica che aggiunge la presente tabella al protocollo, gli Stati Uniti d’America forniscono: a) un valore per i livelli complessivi stimati delle emissioni di PM2,5 relativi al 2005, su scala nazionale o per una ZGEI; b) un valore indicativo per la riduzione dei livelli complessivi delle emissioni di PM2,5 per il 2020, rispetto ai livelli indicati per il 2005. La voce a) sarà inserita in tabella, mentre la voce b) sarà inserita in una nota in calce alla tabella.</td></tr>
 </table>
 
-Allegato III*[^t-5]*
+Allegato III[^t-5]
 
 ## Zona designata di gestione delle emissioni inquinanti (ZGEI)
 
@@ -963,7 +966,7 @@ ZGEI della Federazione Russa
 
 La ZGEI per la Federazione russa corrisponde al territorio europeo della Federazione russa. Il territorio europeo della Federazione russa è parte del territorio russo che si trova all’interno dei confini amministrativi e geografici delle entità costituenti la Federazione russa situate nell’Europa dell’est al confine con il continente asiatico, secondo la tradizionale linea di confine che passa da nord a sud lungo la catena degli Urali, il confine con il Kazakistan, verso il Mar Caspio e poi lungo le frontiere nazionali con l’Azerbaigian e la Georgia, nel Caucaso settentrionale e fino al Mar Nero.
 
-Allegato IV*[^t-6]*
+Allegato IV[^t-6]
 
 ## Valori limite per le emissioni di zolfo provenienti da fonti fisse
 
@@ -1110,7 +1113,7 @@ Valori limite per le emissioni di SO<sub>x</sub> derivanti dalla produzione di b
 - n) Commercial and Industrial Solid Waste Combustors – 40 C.F.R., parte 60, sottoparte CCCC;
 - o) Other Solid Waste Combustors – 40 C.F.R., parte 60, sottoparte EEEE.
 
-Allegato V*[^t-7]*
+Allegato V[^t-7]
 
 ## Valori limite per le emissioni di ossidi di azoto prodotte da fonti fisse
 
@@ -1214,7 +1217,7 @@ Valori limite per le emissioni di NO<sub>x</sub> prodotte da motori fissi nuovi
 <tr><td>In modalità liquida (per tutti i combustibili liquidi) <sup>d</sup></td><td></td></tr>
 <tr><td>1–20 MW<sub>th</sub></td><td>225</td></tr>
 <tr><td>&gt; 20 MW<sub>th</sub></td><td>225</td></tr>
-<tr><td>Motori diesel &gt; 5 MW<sub>th</sub> (accensione spontanea) *Regime basso (&lt; 300 giri/min) / medio (300–1 200 giri/min)*</td><td></td></tr>
+<tr><td>Motori diesel &gt; 5 MW<sub>th</sub> (accensione spontanea) *Regime basso (&lt; 300 giri/min) / medio* *(300–1 200 giri/min)*</td><td></td></tr>
 <tr><td>5–20 MW<sub>th</sub></td><td></td></tr>
 <tr><td>Olio combustibile pesante (HFO) e bio-oli</td><td>225</td></tr>
 <tr><td>Olio combustibile leggero (LFO) e gas naturale (GN)</td><td>190</td></tr>
@@ -1290,7 +1293,7 @@ Valori limite per le emissioni di NO<sub>x</sub> derivanti dalla produzione di a
 - n) Commercial and Industrial Solid Waste Combustors – 40 C.F.R., parte 60, sottoparte CCCC;
 - o) Other Solid Waste Combustors – 40 C.F.R., parte 60, sottoparte EEEE.
 
-Allegato VI*[^t-8]*
+Allegato VI[^t-8]
 
 ## Valori limite per i composti organici volatili prodotti da fonti fisse
 
@@ -1861,7 +1864,7 @@ Appendice
   - I = I1 + I2
   - ii) frequenza: Le emissioni fuggitive di COV possono essere determinate mediante una serie breve ma completa di misurazioni. Non è necessario ripetere l’operazione sino all’eventuale modifica dell’impianto.
 
-Allegato VII*[^t-9]*
+Allegato VII[^t-9]
 
 ## Calendario ai sensi dell’articolo 3
 
@@ -1884,7 +1887,7 @@ Allegato VII*[^t-9]*
 
 \5. Una parte che ha operato una scelta ai sensi dell’articolo 3<sup>bis</sup> del presente protocollo per quanto riguarda l’allegato VI e/o VIII non può fare anche una dichiarazione ai sensi del punto 4 applicabile allo stesso allegato.
 
-Allegato VIII*[^t-10]*
+Allegato VIII[^t-10]
 
 ## Valori limite per i combustibili e le fonti mobili nuove
 
@@ -2194,7 +2197,7 @@ Specifiche ambientali dei combustibili disponibili sul mercato destinati ai veic
 - k) Engine testing procedures – 40 C.F.R., parte 1065; e
 - l) General compliance provisions for non-road programs – 40 C.F.R., parte 1068.
 
-Allegato IX*[^t-11]*
+Allegato IX[^t-11]
 
 ## Misure per la riduzione delle emissioni di ammoniaca derivanti da fonti agricole
 
@@ -2244,7 +2247,7 @@ Le parti devono intitolare il codice in questione in maniera da evitare l’even
 
 [^annexIX-lvlu1-lvlE-1]: Se una parte ritiene di poter utilizzare sistemi o tecniche diversi aventi un’efficienza equivalente comprovata per il deposito degli effluenti animali e per il ricovero degli animali, al fine di conformarsi ai par. 8 e 10, o se una parte ritiene che la riduzione delle emissioni dei depositi di effluenti animali di cui al par. 9 non si possa realizzare per motivi tecnici o economici, deve presentare una documentazione a tal fine ai sensi dell’art. 7, par. 1, let. a).
 
-Allegato X*[^t-12]*
+Allegato X[^t-12]
 
 ## Valori limite per le emissioni di particolato prodotte da fonti fisse
 
@@ -2445,20 +2448,22 @@ Valori limite raccomandati per le emissioni di polveri rilasciate da nuovi impia
 <tr><td colspan="2">*Nota:* tenore di O<sub>2</sub> di riferimento: 13 %.</td></tr>
 </table>
 
-- ii)
+-
 
-  le emissioni da stufe e caldaie a combustione residenziali esistenti possono essere ridotte mediante le seguenti misure primarie:
+  - ii)
 
-  - aa)
+    le emissioni da stufe e caldaie a combustione residenziali esistenti possono essere ridotte mediante le seguenti misure primarie:
 
-    campagne di informazione e di sensibilizzazione del pubblico riguardo alla necessità di:
+    - aa)
 
-    - – utilizzare correttamente stufe e caldaie
-    - – utilizzare solo legno non trattato
-    - – stagionare correttamente il legno in modo che abbia il giusto tenore di umidità,
+      campagne di informazione e di sensibilizzazione del pubblico riguardo alla necessità di:
 
-  - bb) un programma che promuova la sostituzione delle caldaie e delle stufe vecchie con apparecchi moderni, oppure
-  - cc) l’obbligo di sostituire o mettere a norma i vecchi impianti;
+      - – utilizzare correttamente stufe e caldaie
+      - – utilizzare solo legno non trattato
+      - – stagionare correttamente il legno in modo che abbia il giusto tenore di umidità,
+
+    - bb) un programma che promuova la sostituzione delle caldaie e delle stufe vecchie con apparecchi moderni, oppure
+    - cc) l’obbligo di sostituire o mettere a norma i vecchi impianti;
 
 - b) impianti di combustione non domestici con una potenza termica nominale di 100 kW<sub>th</sub>–1 MW<sub>th</sub>:
 
@@ -2602,7 +2607,7 @@ Valori limite raccomandati per le emissioni di polveri rilasciate da caldaie e r
 - rr) Prepared animal feeds manufacturing (Area Sources) – 40 C.F.R., parte 63, sottoparte DDDDDDD; e
 - ss) Gold Mine Ore Processing and Production (Area Sources) – 40 C.F.R., parte 63, sottoparte EEEEEEE.
 
-Allegato XI*[^t-13]*
+Allegato XI[^t-13]
 
 ## Valori limite per il contenuto di composti organici volatili nei prodotti
 
@@ -2699,7 +2704,7 @@ Contenuto massimo di COV di pitture e vernici
 <tr><td></td><td>BS</td><td>100</td></tr>
 <tr><td>Pitture per effetti decorativi</td><td>BA</td><td>200</td></tr>
 <tr><td></td><td>BS</td><td>200</td></tr>
-<tr><td>\* g/l di prodotto pronto all’uso.</td><td>[tab]</td><td>[tab]</td></tr>
+<tr><td>\* g/l di prodotto pronto all’uso.</td><td></td><td></td></tr>
 </table>
 
 Tabella 2
@@ -2749,10 +2754,11 @@ Contenuto massimo di COV nei prodotti per carrozzeria
 - c) Architectural coatings – 40 C.F.R., parte 59, sottoparte D; e
 - d) Aerosol coatings – 40 C.F.R., parte 59, sottoparte E.
 
-Campo d’applicazione il 26 novembre 2021**[^t-14]**
+Campo d’applicazione il 16 settembre 2024[^t-14]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Austria</td><td>13 giugno</td><td>2024</td><td>11 settembre</td><td>2024</td></tr>
 <tr><td>Belgio</td><td>13 settembre</td><td>2007</td><td>12 dicembre</td><td>2007</td></tr>
 <tr><td>Bulgaria<sup>\*</sup></td><td>5 luglio</td><td>2005</td><td>3 ottobre</td><td>2005</td></tr>
 <tr><td>Canada</td><td>28 novembre</td><td>2017</td><td>26 febbraio</td><td>2018</td></tr>
@@ -2764,6 +2770,8 @@ Campo d’applicazione il 26 novembre 2021**[^t-14]**
 <tr><td>Finlandia</td><td>23 dicembre</td><td>2003</td><td>17 maggio</td><td>2005</td></tr>
 <tr><td>Francia</td><td>10 aprile</td><td>2007</td><td>9 luglio</td><td>2007</td></tr>
 <tr><td>Germania</td><td>21 ottobre</td><td>2004</td><td>17 maggio</td><td>2005</td></tr>
+<tr><td>Grecia</td><td>9 febbraio</td><td>2023</td><td>10 maggio</td><td>2023</td></tr>
+<tr><td>Irlanda</td><td>17 aprile</td><td>2023</td><td>16 luglio</td><td>2023</td></tr>
 <tr><td>Lettonia</td><td>25 maggio</td><td>2004</td><td>17 maggio</td><td>2005</td></tr>
 <tr><td>Lituania</td><td>2 aprile</td><td>2004 A</td><td>17 maggio</td><td>2005</td></tr>
 <tr><td>Lussemburgo</td><td>7 agosto</td><td>2001</td><td>17 maggio</td><td>2005</td></tr>
@@ -2782,7 +2790,7 @@ Campo d’applicazione il 26 novembre 2021**[^t-14]**
 <tr><td>Svizzera</td><td>14 settembre</td><td>2005</td><td>13 dicembre</td><td>2005</td></tr>
 <tr><td>Ungheria</td><td>13 novembre</td><td>2006</td><td>11 febbraio</td><td>2007</td></tr>
 <tr><td>Unione europea</td><td>23 giugno</td><td>2003 A</td><td>17 maggio</td><td>2005</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. [tab] Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi in inglese possono essere consultati sul sito Internet della Commissione economica per l’Europa delle Nazioni Unite: www.unece.org &gt; About UNECE &gt; Legal instruments, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Il Prot. non s’applica né alle Isole Färöer né alla Groenlandia. <sup>b</sup> Per il Regno in Europa.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi in inglese possono essere consultati sul sito Internet dell’Organizzazione delle Nazioni Unite (ONU): [http://treaties.un.org](http://treaties.un.org) &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Il Prot. non s’applica né alle Isole Färöer né alla Groenlandia. <sup>b</sup> Per il Regno in Europa.</td></tr>
 </table>
 
-[^t-14]: [RU 2006 259](https://fedlex.data.admin.ch/eli/oc/2006/54), [1885](https://fedlex.data.admin.ch/eli/oc/2006/295); [2009 213](https://fedlex.data.admin.ch/eli/oc/2009/36); [2013 763](https://fedlex.data.admin.ch/eli/oc/2013/152); [2014 3221](https://fedlex.data.admin.ch/eli/oc/2014/552); [2018 83](https://fedlex.data.admin.ch/eli/oc/2018/26); [2021 784](https://fedlex.data.admin.ch/eli/oc/2021/784). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
+[^t-14]: [RU 2006 259](https://fedlex.data.admin.ch/eli/oc/2006/54), [1885](https://fedlex.data.admin.ch/eli/oc/2006/295); [2009 213](https://fedlex.data.admin.ch/eli/oc/2009/36); [2013 763](https://fedlex.data.admin.ch/eli/oc/2013/152); [2014 3221](https://fedlex.data.admin.ch/eli/oc/2014/552); [2018 83](https://fedlex.data.admin.ch/eli/oc/2018/26); [2021 784](https://fedlex.data.admin.ch/eli/oc/2021/784); [2024 508](https://fedlex.data.admin.ch/eli/oc/2024/508). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)

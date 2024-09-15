@@ -3,32 +3,26 @@ sr: "0.814.327"
 title: "Protocole du 30 novembre 1999 à la Convention de 1979 sur la pollution atmosphérique transfrontière à longue distance, relatif à la réduction de l'acidification, de l'eutrophisation et de l'ozone troposphérique (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2006/54"
 language: fr
-version: 2021-11-26
+version: 2024-09-16
 adopted: 1999-11-30
 in_force: 2005-12-13
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/54/20211126/fr/xml/fedlex-data-admin-ch-eli-cc-2006-54-20211126-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2006/54/20211126/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2006/54/20240916/fr/xml/fedlex-data-admin-ch-eli-cc-2006-54-20240916-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2006/54/20240916/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Protocole à la Convention de 1979 sur la pollution atmosphérique transfrontière à longue distance, relatif à la réduction de l’acidification, de l’eutrophisation et de l’ozone troposphérique****
+# Protocole à la Convention de 1979 sur la pollution atmosphérique transfrontière à longue distance, relatif à la réduction de l’acidification, de l’eutrophisation et de l’ozone troposphérique
 
 RO **2006** 259; FF **2004** 2809[^t-1]
 
 Texte original
 
-Conclu à Göteborg le 30 novembre 1999
+Conclu à Göteborg le 30 novembre 1999 Approuvé par l’Assemblée fédérale le 18 mars 2005[^t-2] Instrument de ratification déposé par la Suisse le 14 septembre 2005 Entré en vigueur pour la Suisse le 13 décembre 2005
 
-Approuvé par l’Assemblée fédérale le 18 mars 2005[^t-2]
+(État le 16 septembre 2024)
 
-Instrument de ratification déposé par la Suisse le 14 septembre 2005
-
-Entré en vigueur pour la Suisse le 13 décembre 2005
-
-(Etat le 26 novembre 2021)
-
-[^t-1]: L’Am. du 4 mai 2012 ([RS 0.814.327.1](https://fedlex.data.admin.ch/eli/cc/2019/512); [RO 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512)) a été inséré dans le présent texte et ne régit que les rapports entre les États l’ayant ratifié. Par conséquent, se référer au champ d’application du texte RS cité entre parenthèse.
+[^t-1]: L’Am. du 4 mai 2012 ([RS 0.814.327.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3544); [RO 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512)) a été inséré dans le présent texte et ne régit que les rapports entre les États l’ayant ratifié. Par conséquent, se référer au champ d’application du texte RS cité entre parenthèse.
 [^t-2]: [RO 2006 257](https://fedlex.data.admin.ch/eli/oc/2006/53)
 
 Les Parties,
@@ -83,11 +77,11 @@ sont convenues de ce qui suit:
 
 [^ingress-1]: Le terme «particules» correspond à l’expression «poussières fines» utilisée dans la législation suisse.
 [^ingress-2]: Le terme anglais «black carbon» est actuellement traduit par «carbone suie» ou «carbone noir». Cette dernière expression sera utilisée systématiquement dans le texte qui suit.
-[^ingress-3]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-4]: [RS 0.814.323](https://fedlex.data.admin.ch/eli/cc/1991/1503_1503_1503)
-[^ingress-5]: [RS 0.814.328](https://fedlex.data.admin.ch/eli/cc/2005/272)
-[^ingress-6]: [RS 0.814.324](https://fedlex.data.admin.ch/eli/cc/2003/465)
-[^ingress-7]: [RS 0.814.01](https://fedlex.data.admin.ch/eli/cc/1994/1052_1052_1052)
+[^ingress-3]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-4]: [RS 0.814.323](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3539)
+[^ingress-5]: [RS 0.814.328](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3545)
+[^ingress-6]: [RS 0.814.324](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3540)
+[^ingress-7]: [RS 0.814.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3475)
 [^ingress-8]: Mise à jour du préambule par l’annexe let. A de la D 2012/2 du 4 mai 2012, approuvée par l’Ass. féd. le 22 mars 2019 et en vigueur pour la Suisse depuis le 22 oct. 2019 ([RO 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512); [FF 2018 5719](https://fedlex.data.admin.ch/eli/fga/2018/2092)).
 
 #### Art. 1
@@ -117,9 +111,9 @@ Aux fins du présent Protocole,
 - 15\.[^1-9] on entend par «source fixe» tout bâtiment, structure, dispositif, installation ou équipement fixe qui émet ou peut émettre directement ou indirectement dans l’atmosphère du soufre, des oxydes d’azote, de l’ammoniac, des composés organiques volatils ou des particules;
 - 16\.[^1-10] on entend par «source fixe nouvelle» toute source fixe que l’on commence à construire ou que l’on entreprend de modifier substantiellement après l’expiration d’un délai d’un an qui commence à courir à la date d’entrée en vigueur pour une Partie au présent Protocole. Une Partie peut décider de ne pas considérer comme source fixe nouvelle toute source fixe approuvée par les autorités nationales compétentes avant l’entrée en vigueur du Protocole pour cette Partie et à condition que l’on commence à construire ou que l’on entreprenne de modifier substantiellement cette source dans un délai de cinq ans après cette date. Il appartient aux autorités nationales compétentes de déterminer si une modification est substantielle ou non en tenant compte de facteurs tels que les avantages que cette modification présente pour l’environnement.
 
-[^1-1]: [RS 0.814.32](https://fedlex.data.admin.ch/eli/cc/1983/887_887_887)
+[^1-1]: [RS 0.814.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3536)
 [^1-2]: Introduit par l’annexe let. B de la D 2012/2 du 4 mai 2012, approuvée par l’Ass. féd. le 22 mars 2019 et en vigueur pour la Suisse depuis le 22 oct. 2019 ([RO 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512); [FF 2018 5719](https://fedlex.data.admin.ch/eli/fga/2018/2092)).
-[^1-3]: [RS 0.814.322](https://fedlex.data.admin.ch/eli/cc/1988/867_867_867)
+[^1-3]: [RS 0.814.322](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3538)
 [^1-4]: Mis à jour par l’annexe let. B de la D 2012/2 du 4 mai 2012, approuvée par l’Ass. féd. le 22 mars 2019 et en vigueur pour la Suisse depuis le 22 oct. 2019 ([RO 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512); [FF 2018 5719](https://fedlex.data.admin.ch/eli/fga/2018/2092)).
 [^1-5]: Introduit par l’annexe let. B de la D 2012/2 du 4 mai 2012, approuvée par l’Ass. féd. le 22 mars 2019 et en vigueur pour la Suisse depuis le 22 oct. 2019 ([RO 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512); [FF 2018 5719](https://fedlex.data.admin.ch/eli/fga/2018/2092)).
 [^1-6]: Introduit par l’annexe let. B de la D 2012/2 du 4 mai 2012, approuvée par l’Ass. féd. le 22 mars 2019 et en vigueur pour la Suisse depuis le 22 oct. 2019 ([RO 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512); [FF 2018 5719](https://fedlex.data.admin.ch/eli/fga/2018/2092)).
@@ -373,7 +367,7 @@ Sous réserve de ses lois et règlements et conformément à ses obligations au 
   - iii)[^7-5] des données sur les projections des émissions, et
   - iv)[^7-6] un rapport d’inventaire contenant des informations détaillées au sujet des inventaires et projections des émissions communiqués;
 
-- [tab] b<sup>bis</sup>)[^7-7] chaque Partie située dans la zone géographique des activités de l’EMEP devrait communiquer à l’Organe exécutif, par l’intermédiaire du Secrétaire exécutif de la Commission, les informations disponibles sur ses programmes d’étude des effets de la pollution atmosphérique sur la santé et l’environnement, ainsi que sur les programmes de surveillance et de modélisation de l’atmosphère dans le cadre de la Convention, selon les directives adoptées par l’Organe exécutif;
+- b<sup>bis</sup>)[^7-7] chaque Partie située dans la zone géographique des activités de l’EMEP devrait communiquer à l’Organe exécutif, par l’intermédiaire du Secrétaire exécutif de la Commission, les informations disponibles sur ses programmes d’étude des effets de la pollution atmosphérique sur la santé et l’environnement, ainsi que sur les programmes de surveillance et de modélisation de l’atmosphère dans le cadre de la Convention, selon les directives adoptées par l’Organe exécutif;
 - c)[^7-8] les Parties situées en dehors de la zone géographique des activités de l’EMEP devraient communiquer les informations disponibles sur les niveaux des émissions, notamment pour l’année de référence indiquée à l’annexe II et en fonction de la zone géographique sur laquelle portent ses engagements de réduction des émissions. Les Parties situées en dehors de la zone géographique des activités de l’EMEP devraient mettre à disposition des informations analogues à celles visées à l’al. b<sup>bis</sup>, si l’Organe exécutif leur en fait la demande;
 - d)[^7-9] chaque Partie devrait également communiquer, lorsqu’ils sont disponibles, ses inventaires et projections des émissions de carbone noir, selon les directives adoptées par l’Organe exécutif.
 
@@ -541,8 +535,11 @@ Les annexes du présent Protocole font partie intégrante du Protocole.
 Les amendements aux annexes IV à XI sont adoptés par consensus par les Parties présentes à une session de l’Organe exécutif. À l’expiration d’un délai d’un an à compter de la date à laquelle le Secrétaire exécutif de la Commission l’a communiqué à toutes les Parties, tout amendement à l’une quelconque de ces annexes prend effet à l’égard des Parties qui n’ont pas soumis de notification au Dépositaire conformément aux dispositions de l’al. a ci-dessous:
 
 - a) toute Partie qui n’est pas en mesure d’approuver un amendement aux annexes IV à XI en donne notification au Dépositaire par écrit dans un délai d’un an à compter de la date de la communication de son adoption. Le Dépositaire informe sans tarder toutes les Parties de la réception de cette notification. Une Partie peut à tout moment substituer une acceptation à sa notification antérieure et, après le dépôt d’un instrument d’acceptation auprès du Dépositaire, l’amendement à cette annexe prend effet à l’égard de cette Partie;
-- b) un amendement aux annexes IV à XI n’entre pas en vigueur si un groupe d’au moins 16 Parties a:
-- i) soumis une notification conformément aux dispositions de l’al. a ci‑dessus, ou
+- b)
+
+  un amendement aux annexes IV à XI n’entre pas en vigueur si un groupe d’au moins 16 Parties a:
+
+  - i) soumis une notification conformément aux dispositions de l’al. a ci‑dessus, ou
   - ii) refusé la procédure exposée dans le présent paragraphe et n’a pas encore déposé d’instrument d’acceptation conformément aux dispositions du par. 3 ci-dessus.
 
 [^13bis-1]: Introduit par l’annexe let. L de la D 2012/2 du 4 mai 2012, approuvée par l’Ass. féd. le 22 mars 2019 et en vigueur pour la Suisse depuis le 22 oct. 2019 ([RO 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512); [FF 2018 5719](https://fedlex.data.admin.ch/eli/fga/2018/2092)).
@@ -601,10 +598,10 @@ Lorsque toutes les Parties à l’un quelconque des Protocoles ci-après auront 
 - d) Protocole d’Oslo de 1994 relatif à une nouvelle réduction des émissions de soufre[^18bis-5].
 
 [^18bis-1]: Introduit par l’annexe let. N de la D 2012/2 du 4 mai 2012, approuvée par l’Ass. féd. le 22 mars 2019 et en vigueur pour la Suisse depuis le 22 oct. 2019 ([RO 2019 2709](https://fedlex.data.admin.ch/eli/oc/2019/512); [FF 2018 5719](https://fedlex.data.admin.ch/eli/fga/2018/2092)).
-[^18bis-2]: [RS 0.814.321](https://fedlex.data.admin.ch/eli/cc/1988/285_285_285)
-[^18bis-3]: [RS 0.814.323](https://fedlex.data.admin.ch/eli/cc/1991/1503_1503_1503)
-[^18bis-4]: [RS 0.814.328](https://fedlex.data.admin.ch/eli/cc/2005/272)
-[^18bis-5]: [RS 0.814.324](https://fedlex.data.admin.ch/eli/cc/2003/465)
+[^18bis-2]: [RS 0.814.321](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3537)
+[^18bis-3]: [RS 0.814.323](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3539)
+[^18bis-4]: [RS 0.814.328](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3545)
+[^18bis-5]: [RS 0.814.324](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3540)
 
 #### Art. 19
 
@@ -614,11 +611,11 @@ L’original du présent Protocole, dont les textes anglais, français et russe 
 
 *En foi de quoi* les soussignés, à ce dûment autorisés, ont signé le présent Protocole. Fait à Göteborg (Suède), le 30 novembre 1999. (Suivent les signatures)
 
-Annexe I*[^t-3]*
+Annexe I[^t-3]
 
 ## Charges et niveaux critiques
 
-[^t-3]: Mise à jour selon la D 2012/1 du 4 mai 2012, en vigueur pour la Suisse depuis le 5 juin 2013 ([RO 2014 3609](https://fedlex.data.admin.ch/eli/oc/2014/625)).
+[^t-3]: Mise à jour par la D 2012/1 du 4 mai 2012, en vigueur pour la Suisse depuis le 5 juin 2013 ([RO 2014 3609](https://fedlex.data.admin.ch/eli/oc/2014/625)).
 
 ### I. Charges critiques d’acidité
 
@@ -674,13 +671,13 @@ Annexe I*[^t-3]*
 
 ### V. Niveaux critiques d’ammoniac
 
-\14. Des niveaux critiques (tels que définis à l’article premier) d’ammoniac sont déterminés pour protéger les végétaux conformément au *Manual on Method**o**logies and Criteria for Modelling and Mapping Critical Loads and Levels and Air Pollution Effects, Risks and Trends.*
+\14. Des niveaux critiques (tels que définis à l’article premier) d’ammoniac sont déterminés pour protéger les végétaux conformément au *Manual on Methodologies and Criteria for Modelling and Mapping Critical Loads and Levels and Air Pollution Effects, Risks and Trends.*
 
 ### VI. Niveaux acceptables de polluants atmosphériques à déterminer pour protéger les matériaux
 
 \15. Des niveaux acceptables de polluants acidifiants, d’ozone et de particules sont déterminés pour protéger les matériaux et le patrimoine culturel conformément au *Manual on Methodologies and Criteria for Modelling and Mapping Critical Loads and Levels and Air Pollution Effects, Risks and Trends* élaboré en vertu de la Convention. Les niveaux acceptables de polluants représentent l’exposition maximale qu’un matériau peut supporter à long terme sans subir de dommages supérieurs aux taux de corrosion spécifiés comme objectifs. Ces dommages, qui peuvent être calculés au moyen des fonctions doses-réactions disponibles, sont dus à plusieurs polluants qui s’associent différemment selon le matériau: acidité (dioxyde de soufre [SO<sub>2</sub>], acide nitrique [HNO<sub>3</sub>]), ozone et particules.
 
-Annexe II*[^t-4]*
+Annexe II[^t-4]
 
 ## Engagements de réduction des émissions
 
@@ -957,7 +954,7 @@ Engagements de réduction des émissions de particules pour 2020 et au-delà
 <tr><td colspan="3"><sup>c</sup> Lors de la ratification, de l’acceptation ou de l’approbation de l’amendement ajoutant ce tableau au présent Protocole, ou de l’adhésion au Protocole ainsi modifié, les États-Unis d’Amérique communiqueront: a) une valeur correspondant au niveau estimatif total des émissions de PM2,5 pour 2005, soit au niveau national soit dans leur ZGEP; b) une indication de la réduction du niveau des émissions de PM2,5 pour 2020 par rapport au niveau de 2005 indiqué. La valeur visée au point a) sera inscrite dans le tableau et celle visée au point b) fera l’objet d’une note au bas du tableau.</td></tr>
 </table>
 
-Annexe III*[^t-5]*
+Annexe III[^t-5]
 
 ## Zone désignée de gestion des émissions de polluants (ZGEP)
 
@@ -973,7 +970,7 @@ ZGEP du Canada
 
 La ZGEP que le Canada a désignée pour les émissions de soufre couvre une superficie de 1 million de kilomètres carrés englobant tout le territoire des provinces de l’île du Prince-Édouard, de la Nouvelle-Écosse et du Nouveau-Brunswick, tout le territoire de la province de Québec au sud d’une ligne droite allant du Havre-Saint-Pierre, sur la côte septentrionale du golfe du Saint-Laurent au point où la frontière Québec-Ontario coupe la côte de la baie James, ainsi que tout le territoire de la province de l’Ontario au sud d’une ligne droite allant du point où la frontière Ontario-Québec coupe la côte de la baie James au fleuve Nipigon, près de la rive septentrionale du lac Supérieur.»
 
-Annexe IV*[^t-6]*
+Annexe IV[^t-6]
 
 ## Valeurs limites pour les émissions de soufre provenant de sources fixes
 
@@ -1121,7 +1118,7 @@ Valeurs limites d’émission de SO<sub>x</sub> provenant de la production de di
 - n) Incinérateurs de déchets commerciaux et industriels solides – C.F.R., titre 40, partie 60, section CCCC, et
 - o) Autres incinérateurs de déchets – C.F.R., titre 40, partie 60, section EEEE.
 
-Annexe V*[^t-7]*
+Annexe V[^t-7]
 
 ## Valeurs limites pour les émissions d’oxydes d’azote provenant de sources fixes
 
@@ -1225,7 +1222,7 @@ Valeurs limites pour les émissions de NO<sub>x</sub> provenant de moteurs fixes
 <tr><td>En mode liquide (tous combustibles liquides) <sup>d</sup></td><td></td></tr>
 <tr><td>1–20 MW<sub>th</sub></td><td>225</td></tr>
 <tr><td>&gt; 20 MW<sub>th</sub></td><td>225</td></tr>
-<tr><td>Moteurs diesel &gt;5 MW<sub>th</sub> (allumage par compression) *Régime bas (&lt; 300 tr/mn) ou intermédiaire (300–1200 tr/mn)*</td><td></td></tr>
+<tr><td>Moteurs diesel &gt;5 MW<sub>th</sub> (allumage par compression) *Régime bas (&lt; 300 tr/mn) ou* *intermédiaire (300–1200 tr/mn)*</td><td></td></tr>
 <tr><td>5–20 MW<sub>th</sub></td><td></td></tr>
 <tr><td>Fioul lourd et biocarburants</td><td>225</td></tr>
 <tr><td>Fioul léger et gaz naturel</td><td>190</td></tr>
@@ -1301,7 +1298,7 @@ Valeurs limites pour les émissions de NO<sub>x</sub> provenant de la production
 - n) Incinérateurs de déchets commerciaux et industriels solides – C.F.R., titre 40, partie 60, section CCCC, et
 - o) Autres incinérateurs de déchets – C.F.R., titre 40, partie 60, section EEEE.
 
-Annexe VI*[^t-8]*
+Annexe VI[^t-8]
 
 ## Valeurs limites pour les émissions de composés organiques volatils provenant de sources fixes
 
@@ -1640,7 +1637,7 @@ Tableau 15
 Valeurs limites pour l’extraction d’huiles végétales et de graisses animales et le raffinage d’huiles végétales
 
 <table>
-<tr><td>Activité et seuil</td><td>VLE pour les COV (annuelles pour les VLE totales)</td><td></td></tr>
+<tr><th>Activité et seuil</th><th>VLE pour les COV (annuelles pour les VLE totales)</th><th></th></tr>
 <tr><td>Installations nouvelles et installations existantes (consommation de solvants &gt; 10 Mg/an)</td><td>VLE totales (kg de COV/Mg de produit)</td><td></td></tr>
 <tr><td></td><td>Graisses animales</td><td>1,5</td></tr>
 <tr><td></td><td>Graines de ricin</td><td>3,0</td></tr>
@@ -1874,7 +1871,7 @@ Appendice
   - I = I1 + I2,
   - ii) fréquence des mesures: Les émissions fugaces de COV peuvent être déterminées au moyen d’un ensemble de mesures, peu nombreuses mais néanmoins représentatives. Il n’est pas nécessaire de renouveler ces mesures tant que l’équipement n’est pas modifié.
 
-Annexe VII*[^t-9]*
+Annexe VII[^t-9]
 
 ## Délais en vertu de l’art. 3
 
@@ -1897,7 +1894,7 @@ Annexe VII*[^t-9]*
 
 \5. Une Partie qui a procédé à un choix conformément à l’art. 3<sup>bis</sup> du présent Protocole en ce qui concerne les annexes VI et/ou VIII ne peut faire dans le même temps une déclaration au sujet de la même annexe.
 
-Annexe VIII*[^t-10]*
+Annexe VIII[^t-10]
 
 ## Valeurs limites pour les carburants et les sources mobiles nouvelles
 
@@ -2207,7 +2204,7 @@ Spécifications environnementales applicables aux carburants commercialisés des
 - k) Procédures d’essai de moteurs – C.F.R., titre 40, partie 1065;
 - l) Dispositions générales applicables aux programmes concernant les engins non routiers – C.F.R., titre 40, partie 1068.
 
-Annexe IX*[^t-11]*
+Annexe IX[^t-11]
 
 ## Mesures à prendre pour maîtriser les émissions d’ammoniac de sources agricoles
 
@@ -2257,7 +2254,7 @@ Les Parties devraient donner un titre à ce code afin d’éviter toute confusio
 
 [^annexIX-lvlu1-lvlE-1]: Lorsqu’une Partie juge que, pour se conformer aux dispositions des par. 8 et 10, elle peut utiliser pour le stockage du lisier et le logement des animaux d’autres systèmes ou techniques ayant une efficacité équivalente démontrable, ou que la réduction des émissions provenant du stockage du lisier, prévue au par. 9, n’est pas techniquement ou économiquement possible, elle doit communiquer un dossier à cet effet conformément à l’al. a) du par. 1 de l’art. 7.
 
-Annexe X*[^t-12]*
+Annexe X[^t-12]
 
 ## Valeurs limites pour les émissions de particules provenant de sources fixes
 
@@ -2458,20 +2455,22 @@ Valeurs limites d’émission recommandées pour les poussières provenant d’i
 <tr><td colspan="2">*Note:* teneur de référence en O<sub>2</sub>: 13 %.</td></tr>
 </table>
 
-- ii)
+-
 
-  Les émissions des poêles et chaudières domestiques existants peuvent être réduites par les mesures primaires suivantes:
+  - ii)
 
-  - aa)
+    Les émissions des poêles et chaudières domestiques existants peuvent être réduites par les mesures primaires suivantes:
 
-    campagnes d’information et de sensibilisation du public sur la nécessité:
+    - aa)
 
-    - – d’utiliser correctement les poêles et chaudières,
-    - – de ne brûler que du bois non traité,
-    - – de préparer convenablement et sécher le bois de manière à en réduire la teneur en eau,
+      campagnes d’information et de sensibilisation du public sur la nécessité:
 
-  - bb) programme visant à promouvoir le remplacement des poêles et chaudières les plus anciens par des appareils modernes, ou
-  - cc) imposition de l’obligation d’échanger ou de mettre aux normes les vieilles installations;
+      - – d’utiliser correctement les poêles et chaudières,
+      - – de ne brûler que du bois non traité,
+      - – de préparer convenablement et sécher le bois de manière à en réduire la teneur en eau,
+
+    - bb) programme visant à promouvoir le remplacement des poêles et chaudières les plus anciens par des appareils modernes, ou
+    - cc) imposition de l’obligation d’échanger ou de mettre aux normes les vieilles installations;
 
 - b) Installations de combustion autres que domestiques d’une puissance thermique nominale de 100 kW<sub>th</sub> à 1 MW<sub>th</sub>:
 
@@ -2615,7 +2614,7 @@ Valeurs limites d’émission recommandées pour les poussières provenant de ch
 - rr) Fabrication d’aliments pour animaux (sources diffuses) – C.F.R., titre 40, partie 63, section DDDDDDD;
 - ss) Extraction et traitement du minerai d’or (sources diffuses) – C.F.R., titre 40, partie 63, section EEEEEEE.
 
-Annexe XI*[^t-13]*
+Annexe XI[^t-13]
 
 ## Valeurs limites pour la teneur en composés organiques volatils des produits
 
@@ -2765,11 +2764,12 @@ Teneur maximale en COV pour les produits de retouche de véhicules
 - c) Revêtements pour bâtiments – C.F.R., titre 40, partie 59, section D;
 - d) Peintures aérosol – C.F.R., titre 40, partie 59, section E.
 
-Champ d’application le 26 novembre 2021**[^t-14]**
+Champ d’application le 16 septembre 2024[^t-14]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Allemagne</td><td>21 octobre</td><td>2004</td><td>17 mai</td><td>2005</td></tr>
+<tr><td>Autriche</td><td>13 juin</td><td>2024</td><td>11 septembre</td><td>2024</td></tr>
 <tr><td>Belgique</td><td>13 septembre</td><td>2007</td><td>12 décembre</td><td>2007</td></tr>
 <tr><td>Bulgarie\*</td><td>5 juillet</td><td>2005</td><td>3 octobre</td><td>2005</td></tr>
 <tr><td>Canada</td><td>28 novembre</td><td>2017</td><td>26 février</td><td>2018</td></tr>
@@ -2777,11 +2777,13 @@ Champ d’application le 26 novembre 2021**[^t-14]**
 <tr><td>Croatie\*</td><td>7 octobre</td><td>2008</td><td>5 janvier</td><td>2009</td></tr>
 <tr><td>Danemark <sup>a</sup></td><td>11 juin</td><td>2002</td><td>17 mai</td><td>2005</td></tr>
 <tr><td>Espagne</td><td>28 janvier</td><td>2005</td><td>17 mai</td><td>2005</td></tr>
-<tr><td>Estonie<sup>\*</sup></td><td>7 octobre</td><td>2019 A</td><td>5 janvier</td><td>2020</td></tr>
+<tr><td>Estonie\*</td><td>7 octobre</td><td>2019 A</td><td>5 janvier</td><td>2020</td></tr>
 <tr><td>États-Unis\*</td><td>22 novembre</td><td>2004</td><td>17 mai</td><td>2005</td></tr>
 <tr><td>Finlande</td><td>23 décembre</td><td>2003</td><td>17 mai</td><td>2005</td></tr>
 <tr><td>France</td><td>10 avril</td><td>2007</td><td>9 juillet</td><td>2007</td></tr>
+<tr><td>Grèce</td><td>9 février</td><td>2023</td><td>10 mai</td><td>2023</td></tr>
 <tr><td>Hongrie</td><td>13 novembre</td><td>2006</td><td>11 février</td><td>2007</td></tr>
+<tr><td>Irlande</td><td>17 avril</td><td>2023</td><td>16 juillet</td><td>2023</td></tr>
 <tr><td>Lettonie</td><td>25 mai</td><td>2004</td><td>17 mai</td><td>2005</td></tr>
 <tr><td>Lituanie</td><td>2 avril</td><td>2004 A</td><td>17 mai</td><td>2005</td></tr>
 <tr><td>Luxembourg</td><td>7 août</td><td>2001</td><td>17 mai</td><td>2005</td></tr>
@@ -2798,7 +2800,7 @@ Champ d’application le 26 novembre 2021**[^t-14]**
 <tr><td>Suède</td><td>28 mars</td><td>2002</td><td>17 mai</td><td>2005</td></tr>
 <tr><td>Suisse</td><td>14 septembre</td><td>2005</td><td>13 décembre</td><td>2005</td></tr>
 <tr><td>Union européenne</td><td>23 juin</td><td>2003 A</td><td>17 mai</td><td>2005</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le Protocole ne s’applique pas aux îles Féroé et au Groenland. <sup>b</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [http://treaties.un.org](http://treaties.un.org) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le Protocole ne s’applique pas aux îles Féroé et au Groenland. <sup>b</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-14]: [RO 2006 259](https://fedlex.data.admin.ch/eli/oc/2006/54), [1885](https://fedlex.data.admin.ch/eli/oc/2006/295); [2009 213](https://fedlex.data.admin.ch/eli/oc/2009/36); [2013 763](https://fedlex.data.admin.ch/eli/oc/2013/152); [2014 3221](https://fedlex.data.admin.ch/eli/oc/2014/552); [2018 83](https://fedlex.data.admin.ch/eli/oc/2018/26); [2021 784](https://fedlex.data.admin.ch/eli/oc/2021/784). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty.
+[^t-14]: [RO 2006 259](https://fedlex.data.admin.ch/eli/oc/2006/54), [1885](https://fedlex.data.admin.ch/eli/oc/2006/295); [2009 213](https://fedlex.data.admin.ch/eli/oc/2009/36); [2013 763](https://fedlex.data.admin.ch/eli/oc/2013/152); [2014 3221](https://fedlex.data.admin.ch/eli/oc/2014/552); [2018 83](https://fedlex.data.admin.ch/eli/oc/2018/26); [2021 784](https://fedlex.data.admin.ch/eli/oc/2021/784); [2024 508](https://fedlex.data.admin.ch/eli/oc/2024/508)Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
