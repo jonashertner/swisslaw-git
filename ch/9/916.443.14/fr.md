@@ -4,11 +4,11 @@ title: "Ordonnance du 28 novembre 2014 concernant l'importation, le transit et l
 short: OITE-AC
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/755"
 language: fr
-version: 2024-07-01
+version: 2024-09-16
 adopted: 2014-11-28
 in_force: 2014-12-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/755/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-2014-755-20240701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/755/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/755/20240916/fr/xml/fedlex-data-admin-ch-eli-cc-2014-755-20240916-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/755/20240916/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/755/20240701/fr"
 
 (OITE-AC)
 
-du 28 novembre 2014 (État le 1<sup>er</sup> juillet 2024)
+du 28 novembre 2014 (État le 16 septembre 2024)
 
 Le Conseil fédéral suisse,
 
@@ -153,7 +153,7 @@ L’OSAV autorise sur demande l’importation de plus de cinq chiens, chats ou f
 
 **Nombre maximal de chiens, chats et furets autorisés à l’importation en provenance d’États membres de l’UE, de l’Islande, de la Norvège et de l’Irlande du Nord**[^7-1]
 
-- [tab] <sup>1</sup> Le nombre maximal autorisé fixé à l’art. 6*a*, al. 1 et 2, et les exigences qui y sont définies en matière de dérogations sont applicables par analogie à l’importation de chiens, de chats et de furets en provenance d’États membres de l’UE, de l’Islande, de la Norvège et de l’Irlande du Nord. Si un voyageur emporte plus de cinq animaux, l’ordonnance du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les États membres de l’UE, l’Islande, la Norvège et l’Irlande du Nord[^7-2] est applicable à tous les animaux.
+<sup>1</sup> Le nombre maximal autorisé fixé à l’art. 6*a*, al. 1 et 2, et les exigences qui y sont définies en matière de dérogations sont applicables par analogie à l’importation de chiens, de chats et de furets en provenance d’États membres de l’UE, de l’Islande, de la Norvège et de l’Irlande du Nord. Si un voyageur emporte plus de cinq animaux, l’ordonnance du 18 novembre 2015 réglant les échanges d’importation, de transit et d’exportation d’animaux et de produits animaux avec les États membres de l’UE, l’Islande, la Norvège et l’Irlande du Nord[^7-2] est applicable à tous les animaux.
 
 <sup>2</sup> Aucune autorisation n’est requise pour ces importations.
 
@@ -574,7 +574,7 @@ Annexe 3[^t-3]
 
 ## Classification des États et territoires
 
-[^t-3]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 16 fév. 2021, en vigueur depuis le 18 fév. 2021 ([RO 2021 96](https://fedlex.data.admin.ch/eli/oc/2021/96)).
+[^t-3]: Nouvelle teneur selon le ch. I de l’O de l’OSAV du 16 fév. 2021 ([RO 2021 96](https://fedlex.data.admin.ch/eli/oc/2021/96)). Mise à jour par le ch. II al. 2 de l’O du 31 mai 2024, en vigueur depuis le 16 sept. 2024 ([RO 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
 
 La classification suivante des États et territoires est applicable:
 
@@ -612,7 +612,7 @@ b. les autres États et territoires suivants jouissant d’une situation épizoo
 - 5\. Australie
 - 6\. Bahreïn
 - 7\. Barbade
-- 8\. Bélarus
+- 8\. …
 - 9\. Bermudes
 - 10\. Bonaire, Saint-Eustache et Saba
 - 11\. Bosnie et Herzégovine
@@ -637,7 +637,7 @@ b. les autres États et territoires suivants jouissant d’une situation épizoo
 - 30\. Nouvelle-Calédonie
 - 31\. Nouvelle-Zélande
 - 32\. Macédoine du Nord
-- 33\. Russie
+- 33\. …
 - 34\. Singapour
 - 35\. Sainte-Hélène
 - 36\. Saint-Kitts-et-Nevis
@@ -650,7 +650,7 @@ b. les autres États et territoires suivants jouissant d’une situation épizoo
 - 43\. Vanuatu
 - 44\. Émirats arabes unis
 - 45\. États-Unis (y compris Guam, îles Mariannes du Nord, îles Vierges américaines, Porto Rico et Samoa américaines)
-- 46\. Royaume-Uni excepté l'Irlande du Nord
+- 46\. Royaume-Uni excepté l’Irlande du Nord
 - 47\. Wallis-et-Futuna
 
 c. les États et territoires suivants où la rage urbaine ne peut être exclue:
@@ -743,7 +743,7 @@ II
 
 Les actes mentionnés ci-après sont modifiés comme suit:
 
-...[^annex6-lvlu1-2]
+…[^annex6-lvlu1-2]
 
 [^annex6-lvlu1-1]: [[RO 2007 2769](https://fedlex.data.admin.ch/eli/oc/2007/362), [2008 4191](https://fedlex.data.admin.ch/eli/oc/2008/595), [2012 2865](https://fedlex.data.admin.ch/eli/oc/2012/338), [2013 2141](https://fedlex.data.admin.ch/eli/oc/2013/454)[3111](https://fedlex.data.admin.ch/eli/oc/2013/601)annexe ch. II 3, [2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)annexe ch. 4 [4055](https://fedlex.data.admin.ch/eli/oc/2014/680)]
 [^annex6-lvlu1-2]: Les mod. peuvent être consultées au [RO 2014 4521](https://fedlex.data.admin.ch/eli/oc/2014/755).

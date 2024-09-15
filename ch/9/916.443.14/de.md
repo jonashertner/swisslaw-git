@@ -4,11 +4,11 @@ title: "Verordnung vom 28. November 2014 über die Ein-, Durch- und Ausfuhr von 
 short: EDAV-Ht
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/755"
 language: de
-version: 2024-07-01
+version: 2024-09-16
 adopted: 2014-11-28
 in_force: 2014-12-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/755/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2014-755-20240701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/755/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/755/20240916/de/xml/fedlex-data-admin-ch-eli-cc-2014-755-20240916-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/755/20240916/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/755/20240701/de"
 
 (EDAV-Ht)
 
-vom 28. November 2014 (Stand am 1. Juli 2024)
+vom 28. November 2014 (Stand am 16. September 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -578,7 +578,7 @@ Anhang 3[^t-3]
 
 ## Einteilung der Staaten und Gebiete
 
-[^t-3]: Fassung gemäss Ziff. I der V des BLV vom 16. Febr. 2021, in Kraft seit 18. Febr. 2021 ([AS 2021 96](https://fedlex.data.admin.ch/eli/oc/2021/96)).
+[^t-3]: Fassung gemäss Ziff. I der V des BLV vom 16. Febr. 2021 ([AS 2021 96](https://fedlex.data.admin.ch/eli/oc/2021/96)). Bereinigt gemäss Ziff. II Abs. 2 der V vom 31. Mai 2024, in Kraft seit 16. Sept. 2024 ([AS 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
 
 Es gilt die folgende Einteilung der Staaten und Gebiete:
 
@@ -616,7 +616,7 @@ b. die folgenden Staaten und Gebiete mit günstiger Seuchenlage bezüglich Tollw
 - 5\. Australien
 - 6\. Bahrain
 - 7\. Barbados
-- 8\. Belarus
+- 8\. …
 - 9\. Bermuda
 - 10\. Bonaire, St. Eustatius und Saba
 - 11\. Bosnien und Herzegowina
@@ -641,7 +641,7 @@ b. die folgenden Staaten und Gebiete mit günstiger Seuchenlage bezüglich Tollw
 - 30\. Neukaledonien
 - 31\. Neuseeland
 - 32\. Nordmazedonien
-- 33\. Russland
+- 33\. …
 - 34\. Singapur
 - 35\. St. Helena
 - 36\. St. Kitts und Nevis

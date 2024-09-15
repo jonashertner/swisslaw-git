@@ -4,11 +4,11 @@ title: "Ordinanza del 28 novembre 2014 concernente l'importazione, il transito e
 short: OITEAc
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/755"
 language: it
-version: 2024-07-01
+version: 2024-09-16
 adopted: 2014-11-28
 in_force: 2014-12-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/755/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2014-755-20240701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/755/20240701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/755/20240916/it/xml/fedlex-data-admin-ch-eli-cc-2014-755-20240916-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/755/20240916/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2014/755/20240701/it"
 
 (OITEAc)
 
-del 28 novembre 2014 (Stato 1° luglio 2024)
+del 28 novembre 2014 (Stato 16 settembre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -170,7 +170,7 @@ L’USAV autorizza, su richiesta, l’importazione di oltre cinque cani, gatti o
 
 <sup>3</sup> L’identificazione deve essere effettuata prima della vaccinazione antirabbica conformemente all’articolo 11 e prima di un’eventuale titolazione conformemente all’articolo 14 capoverso 2 lettera b.
 
-4 Essa deve essere annotata nel passaporto per animali da compagnia o nel certificato veterinario e nel rapporto di analisi del laboratorio in cui è definita la titolazione.
+<sup>4</sup> Essa deve essere annotata nel passaporto per animali da compagnia o nel certificato veterinario e nel rapporto di analisi del laboratorio in cui è definita la titolazione.
 
 #### Art. 9
 
@@ -566,8 +566,6 @@ Si applica l’allegato I del regolamento (UE) 2016/429[^annex1-lvlu1-1], che pr
 
 Allegato 2[^t-2]
 
-## ...
-
 [^t-2]: Abrogato dall’all. n. II 4 dell’O del 18 nov. 2015 concernente l’importazione, il transito e l’esportazione di animali e prodotti animali nel traffico con Paesi terzi, con effetto dal 1° gen. 2016 ([RU 2015 5201](https://fedlex.data.admin.ch/eli/oc/2015/843)).
 
 Allegato 3[^t-3]
@@ -576,7 +574,7 @@ Allegato 3[^t-3]
 
 ## Suddivisione degli Stati e dei territori
 
-[^t-3]: Nuovo testo giusta il n. I dell’O dell’USAV del 16 feb. 2021, in vigore dal 18 feb. 2021 ([RU 2021 96](https://fedlex.data.admin.ch/eli/oc/2021/96)).
+[^t-3]: Nuovo testo giusta il n. I dell’O dell’USAV del 16 feb. 2021 ([RU 2021 96](https://fedlex.data.admin.ch/eli/oc/2021/96)). Aggiornato dal n. II cpv. 2 dell’O del 31 mag. 2024, in vigore dal 16 set. 2024 ([RU 2024 271](https://fedlex.data.admin.ch/eli/oc/2024/271)).
 
 Si applica la seguente suddivisione degli Stati e dei territori:
 
@@ -614,7 +612,7 @@ b. i seguenti Stati e territori con situazione epizooziologica favorevole riguar
 - 5\. Australia
 - 6\. Bahrein
 - 7\. Barbados
-- 8\. Belarus
+- 8\. ...
 - 9\. Bermuda
 - 10\. Bonaire, Sint Eustatius e Saba
 - 11\. Bosnia e Erzegovina
@@ -639,7 +637,7 @@ b. i seguenti Stati e territori con situazione epizooziologica favorevole riguar
 - 30\. Nuova Caledonia
 - 31\. Nuova Zelanda
 - 32\. Macedonia del Nord
-- 33\. Russia
+- 33\. ...
 - 34\. Singapore
 - 35\. Sant’Elena
 - 36\. Saint Kitts e Nevis
@@ -748,9 +746,7 @@ II
 
 Gli atti normativi qui appresso sono modificati come segue:
 
-### …
-
-[^annex6-lvlu1-lvlu1-1]
+…[^annex6-lvlu1-2]
 
 [^annex6-lvlu1-1]: [[RU 2007 2769](https://fedlex.data.admin.ch/eli/oc/2007/362); [2008 4191](https://fedlex.data.admin.ch/eli/oc/2008/595); [2012 2865](https://fedlex.data.admin.ch/eli/oc/2012/338); [2013 2141](https://fedlex.data.admin.ch/eli/oc/2013/454), [3111](https://fedlex.data.admin.ch/eli/oc/2013/601)all. n. II 3; [2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)all. n. 4, [4055](https://fedlex.data.admin.ch/eli/oc/2014/680)]
-[^annex6-lvlu1-lvlu1-1]: Le mod. possono essere consultate alla [RU 2014 4521](https://fedlex.data.admin.ch/eli/oc/2014/755).
+[^annex6-lvlu1-2]: Le mod. possono essere consultate alla [RU 2014 4521](https://fedlex.data.admin.ch/eli/oc/2014/755).
