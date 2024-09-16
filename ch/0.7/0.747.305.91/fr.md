@@ -3,11 +3,11 @@ sr: "0.747.305.91"
 title: "Convention du 6 mars 1948 portant création de l'organisation maritime internationale (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1958/983_1025_1031"
 language: fr
-version: 2019-02-26
+version: 2024-09-17
 adopted: 1948-03-06
 in_force: 1958-03-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/983_1025_1031/20190226/fr/xml/fedlex-data-admin-ch-eli-cc-1958-983_1025_1031-20190226-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1958/983_1025_1031/20190226/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/983_1025_1031/20240917/fr/xml/fedlex-data-admin-ch-eli-cc-1958-983_1025_1031-20240917-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1958/983_1025_1031/20240917/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -24,7 +24,7 @@ Approuvée par l’Assemblée fédérale le 6 juin 1955[^t-2]
 
 Entrée en vigueur le 17 mars 1958
 
-(État le 26 février 2019)
+(État le 17 septembre 2024)
 
 [^t-1]: Nouvelle teneur selon la Résolution de l’Assemblée générale de l’OMCI du 14 nov. 1975, approuvée par l’Ass. féd. le 9 déc. 1980, en vigueur pour la Suisse depuis le 10 nov. 1984 ([RO 1982 671](https://fedlex.data.admin.ch/eli/oc/1982/671_671_671)[670](https://fedlex.data.admin.ch/eli/oc/1982/670_670_670); [FF 1980 II 721](https://fedlex.data.admin.ch/eli/fga/1980/2_709_721_681)).
 [^t-2]: [RO 1958 1023](https://fedlex.data.admin.ch/eli/oc/1958/981_1023_1029)
@@ -147,8 +147,7 @@ Les fonctions de l’Assemblée sont les suivantes:
 - g) voter le budget et déterminer le fonctionnement financier de l’Organisation, conformément à la partie XIII[^15-2];
 - h) examiner les dépenses et approuver les comptes de l’Organisation;
 - i) remplir les fonctions dévolues à l’Organisation, sous la réserve que l’Assemblée renverra au Conseil les questions visées aux par. a) et b) de l’art. 2 pour qu’il formule, à leur sujet, des recommandations ou propose des instruments appropriés; sous réserve en outre que tous instruments ou recommandations soumis par le Conseil à l’Assemblée et que celle-ci n’aura pas acceptés seront renvoyés au Conseil pour nouvel examen, accompagnés éventuellement des observations de l’Assemblée;
-- j) recommander aux Membres l’adoption de règles et de directives relatives à la sécurité maritime, à la prévention de la pollution des mers par les navires, à la lutte contre cette pollution et à d’autres questions concernant les effets
-- de la navigation maritime sur le milieu marin assignées à l’Organisation aux termes ou en vertu d’instruments internationaux, ou l’adoption d’amendements à ces règles et directives qui lui ont été soumis;
+- j) recommander aux Membres l’adoption de règles et de directives relatives à la sécurité maritime, à la prévention de la pollution des mers par les navires, à la lutte contre cette pollution et à d’autres questions concernant les effets de la navigation maritime sur le milieu marin assignées à l’Organisation aux termes ou en vertu d’instruments internationaux, ou l’adoption d’amendements à ces règles et directives qui lui ont été soumis;
 - k) prendre toute mesure qu’elle jugerait appropriée pour favoriser la coopération technique conformément aux dispositions de l’al. e) de l’art. 2, en tenant compte des besoins propres aux pays en développement;
 - l) [^15-3] décider de réunir une conférence internationale ou de suivre toute autre procédure appropriée pour l’adoption des convention internationales ou des amendements à des conventions internationales élaborés par le Comité de la sécurité maritime, le Comité juridique, le Comité de la protection du milieu marin, le Comité de la coopération technique, le Comité de la simplification des formalités ou par d’autres organes de l’Organisation;
 - m) renvoyer au Conseil, pour examen ou décision, toute affaire de la compétence de l’Organisation, étant entendu, toutefois que la charge de faire des recommandations, prévue à l’al. j) du présent article, ne doit pas être déléguée.
@@ -301,7 +300,7 @@ Le Comité de la sécurité maritime se réunit au moins une fois par an. Il él
 
 Nonobstant toute disposition contraire de la présente Convention mais sous réserve des dispositions de l’art. 27, le Comité de la sécurité maritime, lorsqu’il exerce les fonctions qui lui ont été attribuées aux termes ou en vertu d’une convention internationale ou de tout autre instrument, se conforme aux dispositions pertinentes de cette convention ou de cet instrument, notamment pour les règles de procédure à suivre.
 
-[^31-1]: Abrogé par la Résolution de l’Assemblée générale de l’OMCI du 17 oct. 1974, approuvée par l’Ass. féd. le 24 sept. 1975 ([RO 1978 365](https://fedlex.data.admin.ch/eli/oc/1978/365_365_365), [1977 1074](https://fedlex.data.admin.ch/eli/oc/1977/1074_1074_1074)art. 1<sup>er</sup> let. d; [FF 1975 I 937](https://fedlex.data.admin.ch/eli/fga/1975/1_929_937_917)). Nouvelle teneur selon la Résolution de l’Assemblée générale de l’OMCI du 14 nov. 1975, approuvée par l’Ass. féd. le 9 déc. 1980, en vigueur pour la Suisse depuis le 22 mai 1982 ([RO 1982 671](https://fedlex.data.admin.ch/eli/oc/1982/671_671_671)[670](https://fedlex.data.admin.ch/eli/oc/1982/670_670_670); [FF 1980 II 721](https://fedlex.data.admin.ch/eli/fga/1980/2_709_721_681)) et selon le Résolution du 17 nov. 1977, approuvée par l’Ass. féd. le 9 déc. 1980, en vigueur paour la Suisse depuis le 10 nov. 1984, les anciens articles 32 à 42 deviennent les art. 31 à 41 et les références aux articles qui figurent dans le texte de la convention sont modifiées en conséquence ([RO 1984 1268](https://fedlex.data.admin.ch/eli/oc/1984/1268_1268_1268), [1982 670](https://fedlex.data.admin.ch/eli/oc/1982/670_670_670); [FF 1980 II 721](https://fedlex.data.admin.ch/eli/fga/1980/2_709_721_681)).
+[^31-1]: Nouvelle teneur selon la Résolution de l’Assemblée générale de l’OMCI du 14 nov. 1975, approuvée par l’Ass. féd. le 9 déc. 1980, en vigueur pour la Suisse depuis le 22 mai 1982 ([RO 1982 671](https://fedlex.data.admin.ch/eli/oc/1982/671_671_671)[670](https://fedlex.data.admin.ch/eli/oc/1982/670_670_670); [FF 1980 II 721](https://fedlex.data.admin.ch/eli/fga/1980/2_709_721_681)) et selon le Résolution du 17 nov. 1977, approuvée par l’Ass. féd. le 9 déc. 1980, en vigueur paour la Suisse depuis le 10 nov. 1984, les anciens articles 32 à 42 deviennent les art. 31 à 41 et les références aux articles qui figurent dans le texte de la convention sont modifiées en conséquence ([RO 1984 1268](https://fedlex.data.admin.ch/eli/oc/1984/1268_1268_1268), [1982 670](https://fedlex.data.admin.ch/eli/oc/1982/670_670_670); [FF 1980 II 721](https://fedlex.data.admin.ch/eli/fga/1980/2_709_721_681)).
 
 ## Partie VIII Comité juridique
 
@@ -694,10 +693,10 @@ Section 3
 
 Pour l’application des dispositions des sections 1 et 2 de la présente Annexe, les membres se conformeront, dans la mesure du possible, aux clauses types de la Convention générale sur les privilèges et immunités des institutions spécialisées.
 
-Champ d’application le 26 février 2019[^t-5]
+Champ d’application le 17 septembre 2024[^t-5]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Signature sans réserve de ratification (Si)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afrique du Sud</td><td>28 février</td><td>1995</td><td>28 février</td><td>1995</td></tr>
 <tr><td>Albanie</td><td>24 mai</td><td>1993</td><td>24 mai</td><td>1993</td></tr>
 <tr><td>Algérie</td><td>31 octobre</td><td>1963</td><td>31 octobre</td><td>1963</td></tr>
@@ -720,17 +719,18 @@ Champ d’application le 26 février 2019[^t-5]
 <tr><td>Bénin</td><td>19 mars</td><td>1980</td><td>19 mars</td><td>1980</td></tr>
 <tr><td>Bolivie</td><td>6 juillet</td><td>1987</td><td>6 juillet</td><td>1987</td></tr>
 <tr><td>Bosnie et Herzégovine</td><td>16 juillet</td><td>1993</td><td>16 juillet</td><td>1993</td></tr>
+<tr><td>Botswana</td><td>22 octobre</td><td>2021</td><td>22 octobre</td><td>2021</td></tr>
 <tr><td>Brésil</td><td>4 mars</td><td>1963</td><td>4 mars</td><td>1963</td></tr>
 <tr><td>Brunéi</td><td>31 décembre</td><td>1984</td><td>31 décembre</td><td>1984</td></tr>
 <tr><td>Bulgarie</td><td>5 avril</td><td>1960</td><td>5 avril</td><td>1960</td></tr>
-<tr><td>Cambodge<sup>\*</sup></td><td>3 janvier</td><td>1961</td><td>3 janvier</td><td>1961</td></tr>
+<tr><td>Cambodge\*</td><td>3 janvier</td><td>1961</td><td>3 janvier</td><td>1961</td></tr>
 <tr><td>Cameroun</td><td>1<sup>er</sup> mai</td><td>1961</td><td>1<sup>er</sup> mai</td><td>1961</td></tr>
 <tr><td>Canada</td><td>15 octobre</td><td>1948</td><td>17 mars</td><td>1958</td></tr>
 <tr><td>Cap-Vert</td><td>24 août</td><td>1976</td><td>24 août</td><td>1976</td></tr>
 <tr><td>Chili</td><td>17 février</td><td>1972</td><td>17 février</td><td>1972</td></tr>
 <tr><td>Chine</td><td>1<sup>er</sup> mars</td><td>1973</td><td>1<sup>er</sup> mars</td><td>1973</td></tr>
-<tr><td>[tab] Hong Kong <sup>a</sup></td><td>1<sup>er</sup> juillet</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
-<tr><td>[tab] Macao <sup>b</sup></td><td>19 décembre</td><td>1999</td><td>19 décembre</td><td>1999</td></tr>
+<tr><td>Hong Kong <sup>a</sup></td><td>1<sup>er</sup> juillet</td><td>1997</td><td>1<sup>er</sup> juillet</td><td>1997</td></tr>
+<tr><td>Macao <sup>b</sup></td><td>19 décembre</td><td>1999</td><td>19 décembre</td><td>1999</td></tr>
 <tr><td>Chypre</td><td>21 novembre</td><td>1973</td><td>21 novembre</td><td>1973</td></tr>
 <tr><td>Colombie</td><td>19 novembre</td><td>1974</td><td>19 novembre</td><td>1974</td></tr>
 <tr><td>Comores</td><td>3 août</td><td>2001</td><td>3 août</td><td>2001</td></tr>
@@ -739,30 +739,30 @@ Champ d’application le 26 février 2019[^t-5]
 <tr><td>Corée (Nord)</td><td>16 avril</td><td>1986</td><td>16 avril</td><td>1986</td></tr>
 <tr><td>Corée (Sud)</td><td>10 avril</td><td>1962</td><td>10 avril</td><td>1962</td></tr>
 <tr><td>Costa Rica</td><td>4 mars</td><td>1981</td><td>4 mars</td><td>1981</td></tr>
-<tr><td>Côte d'Ivoire</td><td>4 novembre</td><td>1960</td><td>4 novembre</td><td>1960</td></tr>
+<tr><td>Côte d’Ivoire</td><td>4 novembre</td><td>1960</td><td>4 novembre</td><td>1960</td></tr>
 <tr><td>Croatie</td><td>8 juillet</td><td>1992</td><td>8 juillet</td><td>1992</td></tr>
-<tr><td>Cuba<sup>\*</sup></td><td>6 mai</td><td>1966</td><td>6 mai</td><td>1966</td></tr>
-<tr><td>Danemark<sup>\*</sup></td><td>3 juin</td><td>1959</td><td>3 juin</td><td>1959</td></tr>
-<tr><td>[tab] Iles Féroé</td><td>18 décembre</td><td>2002</td><td>18 décembre</td><td>2002</td></tr>
+<tr><td>Cuba\*</td><td>6 mai</td><td>1966</td><td>6 mai</td><td>1966</td></tr>
+<tr><td>Danemark\*</td><td>3 juin</td><td>1959</td><td>3 juin</td><td>1959</td></tr>
+<tr><td>Îles Féroé</td><td>18 décembre</td><td>2002</td><td>18 décembre</td><td>2002</td></tr>
 <tr><td>Djibouti</td><td>20 février</td><td>1979</td><td>20 février</td><td>1979</td></tr>
 <tr><td>Dominique</td><td>18 décembre</td><td>1979</td><td>18 décembre</td><td>1979</td></tr>
-<tr><td>Egypte</td><td>17 mars</td><td>1958</td><td>17 mars</td><td>1958</td></tr>
+<tr><td>Égypte</td><td>17 mars</td><td>1958</td><td>17 mars</td><td>1958</td></tr>
 <tr><td>El Salvador</td><td>12 février</td><td>1981</td><td>12 février</td><td>1981</td></tr>
-<tr><td>Emirats arabes unis</td><td>4 mars</td><td>1980</td><td>4 mars</td><td>1980</td></tr>
-<tr><td>Equateur<sup>\*</sup></td><td>12 juillet</td><td>1956</td><td>17 mars</td><td>1958</td></tr>
-<tr><td>Erythrée</td><td>31 août</td><td>1993</td><td>31 août</td><td>1993</td></tr>
-<tr><td>Espagne<sup>\*</sup></td><td>23 janvier</td><td>1962</td><td>23 janvier</td><td>1962</td></tr>
+<tr><td>Émirats arabes unis</td><td>4 mars</td><td>1980</td><td>4 mars</td><td>1980</td></tr>
+<tr><td>Équateur\*</td><td>12 juillet</td><td>1956</td><td>17 mars</td><td>1958</td></tr>
+<tr><td>Érythrée</td><td>31 août</td><td>1993</td><td>31 août</td><td>1993</td></tr>
+<tr><td>Espagne\*</td><td>23 janvier</td><td>1962</td><td>23 janvier</td><td>1962</td></tr>
 <tr><td>Estonie</td><td>31 janvier</td><td>1992</td><td>31 janvier</td><td>1992</td></tr>
-<tr><td>Etats-Unis<sup>\*</sup></td><td>17 août</td><td>1950</td><td>17 mars</td><td>1958</td></tr>
-<tr><td>Ethiopie</td><td>3 juillet</td><td>1975</td><td>3 juillet</td><td>1975</td></tr>
+<tr><td>États-Unis\*</td><td>17 août</td><td>1950</td><td>17 mars</td><td>1958</td></tr>
+<tr><td>Éthiopie</td><td>3 juillet</td><td>1975</td><td>3 juillet</td><td>1975</td></tr>
 <tr><td>Fidji</td><td>14 mars</td><td>1983</td><td>14 mars</td><td>1983</td></tr>
-<tr><td>Finlande<sup>\*</sup></td><td>21 avril</td><td>1959</td><td>21 avril</td><td>1959</td></tr>
+<tr><td>Finlande\*</td><td>21 avril</td><td>1959</td><td>21 avril</td><td>1959</td></tr>
 <tr><td>France</td><td>9 avril</td><td>1952</td><td>17 mars</td><td>1958</td></tr>
 <tr><td>Gabon</td><td>1<sup>er</sup> avril</td><td>1976</td><td>1<sup>er</sup> avril</td><td>1976</td></tr>
 <tr><td>Gambie</td><td>11 janvier</td><td>1979</td><td>11 janvier</td><td>1979</td></tr>
 <tr><td>Géorgie</td><td>22 juin</td><td>1993</td><td>22 juin</td><td>1993</td></tr>
 <tr><td>Ghana</td><td>6 juillet</td><td>1959</td><td>6 juillet</td><td>1959</td></tr>
-<tr><td>Grèce<sup>\*</sup></td><td>31 décembre</td><td>1958</td><td>31 décembre</td><td>1958</td></tr>
+<tr><td>Grèce\*</td><td>31 décembre</td><td>1958</td><td>31 décembre</td><td>1958</td></tr>
 <tr><td>Grenade</td><td>3 décembre</td><td>1999</td><td>3 décembre</td><td>1998</td></tr>
 <tr><td>Guatemala</td><td>16 mars</td><td>1983</td><td>16 mars</td><td>1983</td></tr>
 <tr><td>Guinée</td><td>3 décembre</td><td>1975</td><td>3 décembre</td><td>1975</td></tr>
@@ -772,14 +772,13 @@ Champ d’application le 26 février 2019[^t-5]
 <tr><td>Haïti</td><td>23 juin</td><td>1953</td><td>17 mars</td><td>1958</td></tr>
 <tr><td>Honduras</td><td>23 août</td><td>1954</td><td>17 mars</td><td>1958</td></tr>
 <tr><td>Hongrie</td><td>10 juin</td><td>1970</td><td>10 juin</td><td>1970</td></tr>
-<tr><td>Iles Cook</td><td>18 juillet</td><td>2008</td><td>18 juillet</td><td>2008</td></tr>
-<tr><td>Iles Marshall</td><td>26 mars</td><td>1998</td><td>26 mars</td><td>1998</td></tr>
-<tr><td>Inde<sup>\*</sup></td><td>6 janvier</td><td>1959</td><td>6 janvier</td><td>1959</td></tr>
-<tr><td>Indonésie<sup>\*</sup></td><td>18 janvier</td><td>1961</td><td>18 janvier</td><td>1961</td></tr>
+<tr><td>Îles Marshall</td><td>26 mars</td><td>1998</td><td>26 mars</td><td>1998</td></tr>
+<tr><td>Inde\*</td><td>6 janvier</td><td>1959</td><td>6 janvier</td><td>1959</td></tr>
+<tr><td>Indonésie\*</td><td>18 janvier</td><td>1961</td><td>18 janvier</td><td>1961</td></tr>
 <tr><td>Iran</td><td>2 janvier</td><td>1958</td><td>17 mars</td><td>1958</td></tr>
-<tr><td>Iraq<sup>\*</sup></td><td>28 août</td><td>1973</td><td>28 août</td><td>1973</td></tr>
+<tr><td>Iraq\*</td><td>28 août</td><td>1973</td><td>28 août</td><td>1973</td></tr>
 <tr><td>Irlande</td><td>26 février</td><td>1951</td><td>17 mars</td><td>1958</td></tr>
-<tr><td>Islande<sup>\*</sup></td><td>8 novembre</td><td>1960</td><td>8 novembre</td><td>1960</td></tr>
+<tr><td>Islande\*</td><td>8 novembre</td><td>1960</td><td>8 novembre</td><td>1960</td></tr>
 <tr><td>Israël</td><td>24 avril</td><td>1952</td><td>17 mars</td><td>1958</td></tr>
 <tr><td>Italie</td><td>28 janvier</td><td>1957</td><td>17 mars</td><td>1958</td></tr>
 <tr><td>Jamaïque</td><td>11 mai</td><td>1976</td><td>11 mai</td><td>1976</td></tr>
@@ -787,6 +786,7 @@ Champ d’application le 26 février 2019[^t-5]
 <tr><td>Jordanie</td><td>9 novembre</td><td>1973</td><td>9 novembre</td><td>1973</td></tr>
 <tr><td>Kazakhstan</td><td>11 mars</td><td>1994</td><td>11 mars</td><td>1994</td></tr>
 <tr><td>Kenya</td><td>22 août</td><td>1973</td><td>22 août</td><td>1973</td></tr>
+<tr><td>Kirghizistan</td><td>27 février</td><td>2024</td><td>27 février</td><td>2024</td></tr>
 <tr><td>Kiribati</td><td>28 octobre</td><td>2003</td><td>28 octobre</td><td>2003</td></tr>
 <tr><td>Koweït</td><td>5 juillet</td><td>1960</td><td>5 juillet</td><td>1960</td></tr>
 <tr><td>Lettonie</td><td>1<sup>er</sup> mars</td><td>1993</td><td>1<sup>er</sup> mars</td><td>1993</td></tr>
@@ -797,14 +797,14 @@ Champ d’application le 26 février 2019[^t-5]
 <tr><td>Luxembourg</td><td>14 février</td><td>1991</td><td>14 février</td><td>1991</td></tr>
 <tr><td>Macédoine du Nord</td><td>13 octobre</td><td>1993</td><td>13 octobre</td><td>1993</td></tr>
 <tr><td>Madagascar</td><td>8 mars</td><td>1961</td><td>8 mars</td><td>1961</td></tr>
-<tr><td>Malaisie<sup>\*</sup></td><td>17 juin</td><td>1971</td><td>17 juin</td><td>1971</td></tr>
+<tr><td>Malaisie\*</td><td>17 juin</td><td>1971</td><td>17 juin</td><td>1971</td></tr>
 <tr><td>Malawi</td><td>19 janvier</td><td>1989</td><td>19 janvier</td><td>1989</td></tr>
 <tr><td>Maldives</td><td>31 mai</td><td>1967</td><td>31 mai</td><td>1967</td></tr>
 <tr><td>Malte</td><td>22 juin</td><td>1966 Si</td><td>22 juin</td><td>1966</td></tr>
-<tr><td>Maroc<sup>\*</sup></td><td>30 juillet</td><td>1962</td><td>30 juillet</td><td>1962</td></tr>
+<tr><td>Maroc\*</td><td>30 juillet</td><td>1962</td><td>30 juillet</td><td>1962</td></tr>
 <tr><td>Maurice</td><td>18 mai</td><td>1978</td><td>18 mai</td><td>1978</td></tr>
 <tr><td>Mauritanie</td><td>8 mai</td><td>1961</td><td>8 mai</td><td>1961</td></tr>
-<tr><td>Mexique<sup>\*</sup></td><td>21 septembre</td><td>1954</td><td>17 mars</td><td>1958</td></tr>
+<tr><td>Mexique\*</td><td>21 septembre</td><td>1954</td><td>17 mars</td><td>1958</td></tr>
 <tr><td>Moldova</td><td>12 décembre</td><td>2001</td><td>12 décembre</td><td>2001</td></tr>
 <tr><td>Monaco</td><td>22 décembre</td><td>1989</td><td>22 décembre</td><td>1989</td></tr>
 <tr><td>Mongolie</td><td>11 décembre</td><td>1996</td><td>11 décembre</td><td>1996</td></tr>
@@ -816,8 +816,9 @@ Champ d’application le 26 février 2019[^t-5]
 <tr><td>Népal</td><td>31 janvier</td><td>1979</td><td>31 janvier</td><td>1979</td></tr>
 <tr><td>Nicaragua</td><td>17 mars</td><td>1982</td><td>17 mars</td><td>1982</td></tr>
 <tr><td>Nigéria</td><td>15 mars</td><td>1962</td><td>15 mars</td><td>1962</td></tr>
-<tr><td>Norvège<sup>\*</sup></td><td>29 décembre</td><td>1958</td><td>29 décembre</td><td>1958</td></tr>
+<tr><td>Norvège\*</td><td>29 décembre</td><td>1958</td><td>29 décembre</td><td>1958</td></tr>
 <tr><td>Nouvelle-Zélande</td><td>9 novembre</td><td>1960</td><td>9 novembre</td><td>1960</td></tr>
+<tr><td>Îles Cook</td><td>18 juillet</td><td>2008</td><td>18 juillet</td><td>2008</td></tr>
 <tr><td>Oman</td><td>30 janvier</td><td>1974</td><td>30 janvier</td><td>1974</td></tr>
 <tr><td>Ouganda</td><td>30 juin</td><td>2009</td><td>30 juin</td><td>2009</td></tr>
 <tr><td>Pakistan</td><td>21 novembre</td><td>1958</td><td>21 novembre</td><td>1958</td></tr>
@@ -826,14 +827,14 @@ Champ d’application le 26 février 2019[^t-5]
 <tr><td>Papouasie-Nouvelle-Guinée</td><td>6 mai</td><td>1976</td><td>6 mai</td><td>1976</td></tr>
 <tr><td>Paraguay</td><td>15 mars</td><td>1993</td><td>15 mars</td><td>1993</td></tr>
 <tr><td>Pays-Bas</td><td>31 mars</td><td>1949</td><td>17 mars</td><td>1958</td></tr>
-<tr><td>[tab] Aruba <sup>c</sup></td><td>1<sup>er</sup> janvier</td><td>1986</td><td>1<sup>er</sup> janvier</td><td>1986</td></tr>
+<tr><td>Aruba <sup>c</sup></td><td>1<sup>er</sup> janvier</td><td>1986</td><td>1<sup>er</sup> janvier</td><td>1986</td></tr>
 <tr><td>Curaçao</td><td>3 octobre</td><td>1949</td><td>17 mars</td><td>1958</td></tr>
 <tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>3 octobre</td><td>1949</td><td>17 mars</td><td>1958</td></tr>
 <tr><td>Sint Maarten</td><td>3 octobre</td><td>1949</td><td>17 mars</td><td>1958</td></tr>
 <tr><td>Pérou</td><td>15 avril</td><td>1968</td><td>15 avril</td><td>1968</td></tr>
 <tr><td>Philippines</td><td>9 novembre</td><td>1964</td><td>9 novembre</td><td>1964</td></tr>
-<tr><td>Pologne<sup>\*</sup></td><td>16 mars</td><td>1960</td><td>16 mars</td><td>1960</td></tr>
-<tr><td>Portugal<sup>\*</sup></td><td>17 mars</td><td>1976</td><td>17 mars</td><td>1976</td></tr>
+<tr><td>Pologne\*</td><td>16 mars</td><td>1960</td><td>16 mars</td><td>1960</td></tr>
+<tr><td>Portugal\*</td><td>17 mars</td><td>1976</td><td>17 mars</td><td>1976</td></tr>
 <tr><td>Qatar</td><td>19 mai</td><td>1977</td><td>19 mai</td><td>1977</td></tr>
 <tr><td>République dominicaine</td><td>25 août</td><td>1953</td><td>17 mars</td><td>1958</td></tr>
 <tr><td>République tchèque</td><td>18 juin</td><td>1993</td><td>18 juin</td><td>1993</td></tr>
@@ -844,7 +845,7 @@ Champ d’application le 26 février 2019[^t-5]
 <tr><td>Saint-Kitts-et-Nevis</td><td>8 octobre</td><td>2001</td><td>8 octobre</td><td>2001</td></tr>
 <tr><td>Saint-Marin</td><td>12 mars</td><td>2002</td><td>12 mars</td><td>2002</td></tr>
 <tr><td>Saint-Vincent-et-les Grenadines</td><td>29 avril</td><td>1981</td><td>29 avril</td><td>1981</td></tr>
-<tr><td>Salomon, Iles</td><td>27 juin</td><td>1988</td><td>27 juin</td><td>1988</td></tr>
+<tr><td>Salomon, Îles</td><td>27 juin</td><td>1988</td><td>27 juin</td><td>1988</td></tr>
 <tr><td>Samoa</td><td>25 octobre</td><td>1996</td><td>25 octobre</td><td>1996</td></tr>
 <tr><td>Sao Tomé-et-Principe</td><td>9 juillet</td><td>1990</td><td>9 juillet</td><td>1990</td></tr>
 <tr><td>Sénégal</td><td>7 novembre</td><td>1960</td><td>7 novembre</td><td>1960</td></tr>
@@ -856,9 +857,9 @@ Champ d’application le 26 février 2019[^t-5]
 <tr><td>Slovénie</td><td>10 février</td><td>1993</td><td>10 février</td><td>1993</td></tr>
 <tr><td>Somalie</td><td>4 avril</td><td>1978</td><td>4 avril</td><td>1978</td></tr>
 <tr><td>Soudan</td><td>5 juillet</td><td>1974</td><td>5 juillet</td><td>1974</td></tr>
-<tr><td>Sri Lanka<sup>\*</sup></td><td>6 avril</td><td>1972</td><td>6 avril</td><td>1972</td></tr>
-<tr><td>Suède<sup>\*</sup></td><td>27 avril</td><td>1959</td><td>27 avril</td><td>1959</td></tr>
-<tr><td>Suisse<sup>\*</sup></td><td>20 juillet</td><td>1955</td><td>17 mars</td><td>1958</td></tr>
+<tr><td>Sri Lanka\*</td><td>6 avril</td><td>1972</td><td>6 avril</td><td>1972</td></tr>
+<tr><td>Suède\*</td><td>27 avril</td><td>1959</td><td>27 avril</td><td>1959</td></tr>
+<tr><td>Suisse\*</td><td>20 juillet</td><td>1955</td><td>17 mars</td><td>1958</td></tr>
 <tr><td>Suriname</td><td>14 octobre</td><td>1976</td><td>14 octobre</td><td>1976</td></tr>
 <tr><td>Syrie</td><td>28 janvier</td><td>1963</td><td>28 janvier</td><td>1963</td></tr>
 <tr><td>Tanzanie</td><td>8 janvier</td><td>1974</td><td>8 janvier</td><td>1974</td></tr>
@@ -869,26 +870,23 @@ Champ d’application le 26 février 2019[^t-5]
 <tr><td>Trinité-et-Tobago</td><td>27 avril</td><td>1965</td><td>27 avril</td><td>1965</td></tr>
 <tr><td>Tunisie</td><td>23 mai</td><td>1963</td><td>23 mai</td><td>1963</td></tr>
 <tr><td>Turkménistan</td><td>26 août</td><td>1993</td><td>26 août</td><td>1993</td></tr>
-<tr><td>Turquie<sup>\*</sup></td><td>25 mars</td><td>1958</td><td>25 mars</td><td>1958</td></tr>
+<tr><td>Turquie\*</td><td>25 mars</td><td>1958</td><td>25 mars</td><td>1958</td></tr>
 <tr><td>Tuvalu</td><td>19 mai</td><td>2004</td><td>19 mai</td><td>2004</td></tr>
 <tr><td>Ukraine</td><td>28 mars</td><td>1994</td><td>28 mars</td><td>1994</td></tr>
 <tr><td>Uruguay</td><td>10 mai</td><td>1968 Si</td><td>10 mai</td><td>1968</td></tr>
 <tr><td>Vanuatu</td><td>21 octobre</td><td>1986</td><td>21 octobre</td><td>1986</td></tr>
 <tr><td>Venezuela</td><td>27 octobre</td><td>1975</td><td>27 octobre</td><td>1975</td></tr>
-<tr><td>Vietnam<sup>\*</sup></td><td>12 juin</td><td>1984</td><td>12 juin</td><td>1984</td></tr>
+<tr><td>Vietnam\*</td><td>12 juin</td><td>1984</td><td>12 juin</td><td>1984</td></tr>
 <tr><td>Yémen</td><td>14 mars</td><td>1979</td><td>14 mars</td><td>1979</td></tr>
 <tr><td>Zambie</td><td>2 octobre</td><td>2014</td><td>2 octobre</td><td>2014</td></tr>
 <tr><td>Zimbabwe</td><td>16 août</td><td>2005</td><td>16 août</td><td>2005</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Du 7 juin 1967 au 30 juin 1997, la Convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. A partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 19 décembre 1984, la Convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Du 2 février 1990 au 19 décembre 1999, la Convention était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. A partir du 20 décembre 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 13 avril 1987, la Convention est également applicable à la RAS Macao à partir du 20 décembre 1999</td></tr>
-<tr><td colspan="5"><sup>c</sup> Au 1<sup>er</sup> janvier 1986 l’île d’Aruba, qui faisait partie des Antilles néerlandaises, a acquis son autonomie interne au sein du Royaume des Pays-Bas. Ce changement n’affecte que le fonctionnement des relations constitutionnelles internes au sein du Royaume.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [http://treaties.un.org](http://treaties.un.org) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Du 7 juin 1967 au 30 juin 1997, la Convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 19 décembre 1984, la Convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997. <sup>b</sup> Du 2 février 1990 au 19 décembre 1999, la Convention était applicable à Macao sur la base d’une déclaration d’extension territoriale du Portugal. À partir du 20 décembre 1999, Macao est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 13 avril 1987, la Convention est également applicable à la RAS Macao à partir du 20 décembre 1999 <sup>c</sup> Au 1<sup>er</sup> janvier 1986 l’île d’Aruba, qui faisait partie des Antilles néerlandaises, a acquis son autonomie interne au sein du Royaume des Pays-Bas. Ce changement n’affecte que le fonctionnement des relations constitutionnelles internes au sein du Royaume.</td></tr>
 </table>
 
-[^t-5]: [RO 1976 1853](https://fedlex.data.admin.ch/eli/oc/1976/1853_1853_1853), [1978 364](https://fedlex.data.admin.ch/eli/oc/1978/364_364_364), [1980 1661](https://fedlex.data.admin.ch/eli/oc/1980/1661_1661_1661), [1982 1550](https://fedlex.data.admin.ch/eli/oc/1982/1550_1550_1550), [1984 270](https://fedlex.data.admin.ch/eli/oc/1984/270_270_270)[1268](https://fedlex.data.admin.ch/eli/oc/1984/1268_1268_1268), [1987 1147](https://fedlex.data.admin.ch/eli/oc/1987/1147_1147_1147)[1174](https://fedlex.data.admin.ch/eli/oc/1987/1174_1174_), [1989 404](https://fedlex.data.admin.ch/eli/oc/1989/404_404_404), [1990 1700](https://fedlex.data.admin.ch/eli/oc/1990/1700_1700_1700), [2003 3537](https://fedlex.data.admin.ch/eli/oc/2003/507), [2004 3291](https://fedlex.data.admin.ch/eli/oc/2004/422), [2007 4407](https://fedlex.data.admin.ch/eli/oc/2007/606), [2014 1425](https://fedlex.data.admin.ch/eli/oc/2014/306), [2016 2859](https://fedlex.data.admin.ch/eli/oc/2016/471), [2019 901](https://fedlex.data.admin.ch/eli/oc/2019/158). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty?news_period=last_month&news_pageNb=1&news_order=desc&news_itemsPerPage=10).
+[^t-5]: [RO 1976 1853](https://fedlex.data.admin.ch/eli/oc/1976/1853_1853_1853); [1978 364](https://fedlex.data.admin.ch/eli/oc/1978/364_364_364); [1980 1661](https://fedlex.data.admin.ch/eli/oc/1980/1661_1661_1661); [1982 1550](https://fedlex.data.admin.ch/eli/oc/1982/1550_1550_1550); [1984 270](https://fedlex.data.admin.ch/eli/oc/1984/270_270_270), [1268](https://fedlex.data.admin.ch/eli/oc/1984/1268_1268_1268); [1987 1147](https://fedlex.data.admin.ch/eli/oc/1987/1147_1147_1147), [1174](https://fedlex.data.admin.ch/eli/oc/1987/1174_1174_); [1989 404](https://fedlex.data.admin.ch/eli/oc/1989/404_404_404); [1990 1700](https://fedlex.data.admin.ch/eli/oc/1990/1700_1700_1700); [2003 3537](https://fedlex.data.admin.ch/eli/oc/2003/507); [2004 3291](https://fedlex.data.admin.ch/eli/oc/2004/422); [2007 4407](https://fedlex.data.admin.ch/eli/oc/2007/606); [2014 1425](https://fedlex.data.admin.ch/eli/oc/2014/306); [2016 2859](https://fedlex.data.admin.ch/eli/oc/2016/471); [2019 901](https://fedlex.data.admin.ch/eli/oc/2019/158); [2024 507](https://fedlex.data.admin.ch/eli/oc/2024/507). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Réserves et déclarations
 
 **Suisse**
 
-A l’occasion du dépôt de son instrument de ratification de la convention relative à la création d’une Organisation maritime (IMCO), la Suisse fait la réserve générale, que sa collaboration à l’IMCO, notamment en ce qui concerne les relations de cette organisation avec l’Organisation des Nations Unies, ne peut dépasser le cadre que lui assigne sa position d’Etat perpétuellement neutre. C’est dans le sens de cette réserve générale qu’elle formule une réserve particulière, tant à l’égard du texte de l’art. VI, tel qu’il figure dans l’accord, actuellement à l’état de projet entre l’IMCO et l’ONU, qu’à l’égard de toute clause analogue qui pourrait remplacer ou compléter cette disposition, dans ledit accord ou dans un autre arrangement.
+À l’occasion du dépôt de son instrument de ratification de la convention relative à la création d’une Organisation maritime (IMCO), la Suisse fait la réserve générale, que sa collaboration à l’IMCO, notamment en ce qui concerne les relations de cette organisation avec l’Organisation des Nations Unies, ne peut dépasser le cadre que lui assigne sa position d’État perpétuellement neutre. C’est dans le sens de cette réserve générale qu’elle formule une réserve particulière, tant à l’égard du texte de l’art. VI, tel qu’il figure dans l’accord, actuellement à l’état de projet entre l’IMCO et l’ONU, qu’à l’égard de toute clause analogue qui pourrait remplacer ou compléter cette disposition, dans ledit accord ou dans un autre arrangement.

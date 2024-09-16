@@ -3,11 +3,11 @@ sr: "0.747.305.91"
 title: "Convenzione del 6 marzo 1948 istitutiva dell'Organizzazione marittima internazionale (con All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1958/983_1025_1031"
 language: it
-version: 2019-02-26
+version: 2024-09-17
 adopted: 1948-03-06
 in_force: 1958-03-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/983_1025_1031/20190226/it/xml/fedlex-data-admin-ch-eli-cc-1958-983_1025_1031-20190226-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1958/983_1025_1031/20190226/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/983_1025_1031/20240917/it/xml/fedlex-data-admin-ch-eli-cc-1958-983_1025_1031-20240917-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1958/983_1025_1031/20240917/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,13 +16,9 @@ url: "https://www.fedlex.admin.ch/eli/cc/1958/983_1025_1031/20190226/it"
 
 Traduzione[^t-1]
 
-Conchiusa a Ginevra il 6 marzo 1948
+Conchiusa a Ginevra il 6 marzo 1948 Approvata dall’Assemblea federale il 6 giugno 1955[^t-2] Entrata in vigore il 17 marzo 1958
 
-Approvata dall’Assemblea federale il 6 giugno 1955[^t-2]
-
-Entrata in vigore il 17 marzo 1958
-
-(Stato 26 febbraio 2019)
+(Stato 17 settembre 2024)
 
 [^t-1]: RU **1958** 1031; FF **1954** II 473 ediz. franc. 1954 II ediz. ted. Nuovo testo giusta la ris. dell’Assemblea generale dell’OMCI del 14 nov. 1975, approvata dall’AF. il 9 dic. 1980, in vigore per la Svizzera il 22 mag. 1984 (RU **1982** 671 670; FF **1980** II 681).
 [^t-2]: [RU 1958 1029](https://fedlex.data.admin.ch/eli/oc/1958/981_1023_1029)
@@ -82,7 +78,7 @@ Gli Stati non membri delle Nazioni Unite che sono stati invitati a mandare rappr
 
 #### Art. 7
 
-Ogni Stato che non possiede i requisiti previsti negli articoli 5 e 6 può domandare, per il tramite del Segretario generale dell’Organizzazione, di diventare membro; esso sarà accolto come membro quando avrà aderito alla Convenzione conformemente alle disposizioni all’articolo 76, purché la domanda d’ammissione sia stata accettata, mediante raccomandazione del Consiglio, dai due terzi dei membri dell’Organizzazione, esclusi i membri associati.
+Ogni Stato che non possiede i requisiti previsti negli articoli 5 e 6 può domandare, per il tramite del Segretario generale dell’Organizzazione, di diventare membro; esso sarà accolto come membro quando avrà aderito alla Convenzione conformemente alle disposizioni dell’articolo 76, purché la domanda d’ammissione sia stata accettata, mediante raccomandazione del Consiglio, dai due terzi dei membri dell’Organizzazione, esclusi i membri associati.
 
 #### Art. 8
 
@@ -396,13 +392,9 @@ Il Comitato per la cooperazione tecnica si aduna almeno una volta all’anno. El
 
 Nonostante qualsiasi disposizione contraria alla presente Convenzione, ma con riserva delle disposizioni dell’articolo 42, il Comitato per la cooperazione tecnica, quando esercita le funzioni assegnategli da o in virtù di una convenzione internazionale o di qualsiasi altro strumento, si conforma alle pertinenti disposizioni della convenzione o di questo strumento, in particolare per le norme procedurali.
 
-## Parte XI
-
-[^partXI-1]
+## Parte XI[^partXI-1]: Comitato per la semplificazione delle formalità
 
 [^partXI-1]: Introdotta dagli emendamenti adottati dell’Assemblea generale dell’OMCI del 7 nov. 1991, in vigore per la Svizzera il 7 dic. 2008 ([RU 2025 438](https://fedlex.data.admin.ch/eli/oc/2025/438)).
-
-## Comitato per la semplificazione delle formalità
 
 #### Art. 47
 
@@ -430,9 +422,9 @@ Il Comitato per la semplificazione delle formalità si riunisce almeno una volta
 
 Nonostante qualsiasi disposizione contraria alla presente Convenzione ma subordinatamente alle disposizioni dell’articolo 47, il Comitato per la semplificazione delle formalità, allorché esercita le funzioni a esso conferite da o ai sensi di una convenzione internazionale o un qualsiasi altro strumento, dovrà conformarsi alle pertinenti disposizioni della Convenzione o dello strumento in questione, in particolare per quanto concerne le norme di procedura da seguire.
 
-## Parte XII[^partXIII-1]: Il segretariato
+## Parte XII[^partXII-1]: Il segretariato
 
-[^partXIII-1]: Le originari parti XI a XX diventano parti XII a XXI, rispettivamente gli art. 47 a 77 diventano art. 52 a 82, le riferenze a tali parti ed articoli che figurano nel testo della conv., sono stati adattati in conseguenza (RU 2025 438).Giusta la risoluzione dell’Assemblea generale dell’OMCI del 17 nov. 1977, approvata dall’Ass. fed. il 9 dic. 1980, in vigore per la Svizzera il 10 nov. 1984 (RU 1984 1268 1982 670; FF 1980 II 681), le originari parti VIII a XVII diventano parti XI a XX, rispettiva-mente gli art. 33 a 63 diventano art. 43 a 73, le riferenze a tali parti ed art. che fi-gurano nel testo della Conv., sono stati adattati in conseguenza.
+[^partXII-1]: Le originari parti XI a XX diventano parti XII a XXI, rispettivamente gli art. 47 a 77 diventano art. 52 a 82, le riferenze a tali parti ed articoli che figurano nel testo della conv., sono stati adattati in conseguenza ([RU 2025 438](https://fedlex.data.admin.ch/eli/oc/2025/438)).Giusta la risoluzione dell’Assemblea generale dell’OMCI del 17 nov. 1977, approvata dall’Ass. fed. il 9 dic. 1980, in vigore per la Svizzera il 10 nov. 1984 ([RU 1984 1268](https://fedlex.data.admin.ch/eli/oc/1984/1268_1268_1268); [1982 670](https://fedlex.data.admin.ch/eli/oc/1982/670_670_670); [FF 1980 II 681](https://fedlex.data.admin.ch/eli/fga/1980/2_709_721_681)), le originari parti VIII a XVII diventano parti XI a XX, rispettiva-mente gli art. 33 a 63 diventano art. 43 a 73, le riferenze a tali parti ed art. che fi-gurano nel testo della Conv., sono stati adattati in conseguenza.
 
 #### Art. 52
 
@@ -440,7 +432,7 @@ Nonostante qualsiasi disposizione contraria alla presente Convenzione ma subordi
 
 Il Segretariato comprenderà il Segretario Generale e tutto quel personale che possa necessitare all’Organizzazione. Il Segretario Generale sarà il principale funzionario amministrativo dell’Organizzazione e, subordinatamente alle disposizioni dell’articolo 22, nominerà il suddetto personale.
 
-[^52-1]: Nuovo testo giusta la ris. dell’Assemblea generale dell’OMCI del 14 nov. 1975, approvata dall’AF il 9 dic. 1980, in vigore per la Svizzera il 22 mag. 1982 ([RU 1982 671](https://fedlex.data.admin.ch/eli/oc/1982/671_671_671)[670](https://fedlex.data.admin.ch/eli/oc/1982/670_670_670); [FF 1980 II 681](https://fedlex.data.admin.ch/eli/fga/1980/2_709_721_681)).
+[^52-1]: Nuovo testo giusta la ris. dell’Assemblea generale dell’OMCI del 14 nov. 1975, approvata dall’AF il 9 dic. 1980, in vigore per la Svizzera il 22 mag. 1982 ([RU 1982 671](https://fedlex.data.admin.ch/eli/oc/1982/671_671_671), [670](https://fedlex.data.admin.ch/eli/oc/1982/670_670_670); [FF 1980 II 681](https://fedlex.data.admin.ch/eli/fga/1980/2_709_721_681)).
 
 #### Art. 53
 
@@ -448,7 +440,7 @@ Il Segretariato comprenderà il Segretario Generale e tutto quel personale che p
 
 Il Segretariato conserverà tutte quelle raccolte di documenti che siano necessarie per l’efficiente svolgimento delle funzioni dell’Organizzazione e preparerà, raccoglierà e farà circolare gli scritti, documenti, ordini del giorno, verbali e informazioni che siano necessari al lavoro dell’Organizzazione.
 
-[^53-1]: Nuovo testo giusta la ris. dell’Assemblea generale dell’OMCI del 14 nov. 1975, approvata dall’AF il 9 dic. 1980, in vigore per la Svizzera il 22 mag. 1982 ([RU 1982 671](https://fedlex.data.admin.ch/eli/oc/1982/671_671_671)[670](https://fedlex.data.admin.ch/eli/oc/1982/670_670_670); [FF 1980 II 681](https://fedlex.data.admin.ch/eli/fga/1980/2_709_721_681)).
+[^53-1]: Nuovo testo giusta la ris. dell’Assemblea generale dell’OMCI del 14 nov. 1975, approvata dall’AF il 9 dic. 1980, in vigore per la Svizzera il 22 mag. 1982 ([RU 1982 671](https://fedlex.data.admin.ch/eli/oc/1982/671_671_671), [670](https://fedlex.data.admin.ch/eli/oc/1982/670_670_670); [FF 1980 II 681](https://fedlex.data.admin.ch/eli/fga/1980/2_709_721_681)).
 
 #### Art. 54
 
@@ -640,7 +632,7 @@ b. L’applicazione della Convenzione ai territori o gruppi di territori indicat
 
 La presente Convenzione entra in vigore allorché vi avranno aderito conformemente all’articolo 76[^79-1] ventun nazioni, sette delle quali devono possedere un tonnellaggio complessivo pari, almeno, a un milione di tonnellate di stazza lorda.
 
-[^79-1]: Nuovo riferimento giusta gli emendamenti adottati dell’Assemblea generale dell’OMCI il 7 nov. 1991, in vigore per la Svizzera il 7 dic. 2008 ([RU 2025 438](https://fedlex.data.admin.ch/eli/oc/2025/438)).
+[^79-1]: Nuovo riferimento giusta gli emendamenti adottati dell’Assemblea generale dell’OMCI il 7 nov. 1991, in vigore per la Svizzera il 7 dic. 2008 (RU 2025 438).
 
 #### Art. 80
 
@@ -670,20 +662,20 @@ Allegato II
 
 Fin tanto che non avranno aderito alla Convenzione generale sui privilegi e le immunità delle istituzioni specializzate, per quanto concerne l’Organizzazione, i membri applicheranno all’Organizzazione o rispetto a questa le disposizioni concernenti la capacità giuridica, i privilegi e le immunità, seguenti.
 
-### Capo I
+Capo I
 
 L’Organizzazione gode, sul territorio di ciascun membro, della capacità giuridica necessaria al raggiungimento dei suoi scopi e all’esercizio delle sue funzioni.
 
-### Capo II
+Capo II
 
 - a. L’Organizzazione gode, sul territorio di ciascun membro, dei privilegi e delle immunità necessari al raggiungimento dei suoi scopi e all’esercizio delle sue funzioni.
 - b. I rappresentanti dei membri, compresi i supplenti, i consiglieri, i funzionari e gl’impiegati dell’Organizzazione fruiscono parimente dei privilegi e delle immunità necessari al libero esercizio delle funzioni che assumono nell’Organizzazione.
 
-### Capo III
+Capo III
 
 Nell’applicare le disposizioni dei Capi primo e secondo del presente Allegato, i membri si uniformeranno, per quanto sia possibile, alle clausole normali della Convenzione generale su i privilegi e le immunità delle istituzioni specializzate.
 
-Campo d’applicazione il 26 febbraio 2019[^t-5]
+Campo d’applicazione il 17 settembre 2024[^t-5]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Firmato senza riserva di ratificazione (F)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -707,6 +699,7 @@ Campo d’applicazione il 26 febbraio 2019[^t-5]
 <tr><td>Belarus</td><td>29 novembre</td><td>2016</td><td>29 novembre</td><td>2016</td></tr>
 <tr><td>Bolivia</td><td>6 luglio</td><td>1987</td><td>6 luglio</td><td>1987</td></tr>
 <tr><td>Bosnia e Erzegovina</td><td>16 luglio</td><td>1993</td><td>16 luglio</td><td>1993</td></tr>
+<tr><td>Botswana</td><td>22 ottobre</td><td>2021</td><td>22 ottobre</td><td>2021</td></tr>
 <tr><td>Brasile</td><td>4 marzo</td><td>1963</td><td>4 marzo</td><td>1963</td></tr>
 <tr><td>Brunei</td><td>31 dicembre</td><td>1984</td><td>31 dicembre</td><td>1984</td></tr>
 <tr><td>Bulgaria</td><td>5 aprile</td><td>1960</td><td>5 aprile</td><td>1960</td></tr>
@@ -724,7 +717,6 @@ Campo d’applicazione il 26 febbraio 2019[^t-5]
 <tr><td>Comore</td><td>3 agosto</td><td>2001</td><td>3 agosto</td><td>2001</td></tr>
 <tr><td>Congo (Brazzaville)</td><td>5 settembre</td><td>1975</td><td>5 settembre</td><td>1975</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>16 agosto</td><td>1973</td><td>16 agosto</td><td>1973</td></tr>
-<tr><td>Cook, Isole</td><td>18 luglio</td><td>2008</td><td>18 luglio</td><td>2008</td></tr>
 <tr><td>Corea (Nord)</td><td>16 aprile</td><td>1986</td><td>16 aprile</td><td>1986</td></tr>
 <tr><td>Corea (Sud)</td><td>10 aprile</td><td>1962</td><td>10 aprile</td><td>1962</td></tr>
 <tr><td>Costa Rica</td><td>4 marzo</td><td>1981</td><td>4 marzo</td><td>1981</td></tr>
@@ -776,6 +768,7 @@ Campo d’applicazione il 26 febbraio 2019[^t-5]
 <tr><td>Kazakstan</td><td>11 marzo</td><td>1994</td><td>11 marzo</td><td>1994</td></tr>
 <tr><td>Kenya</td><td>22 agosto</td><td>1973</td><td>22 agosto</td><td>1973</td></tr>
 <tr><td>Kiribati</td><td>28 ottobre</td><td>2003</td><td>28 ottobre</td><td>2003</td></tr>
+<tr><td>Kirghizistan</td><td>27 febbraio</td><td>2024</td><td>27 febbraio</td><td>2024</td></tr>
 <tr><td>Kuwait</td><td>5 luglio</td><td>1960</td><td>5 luglio</td><td>1960</td></tr>
 <tr><td>Lettonia</td><td>1° marzo</td><td>1993</td><td>1° marzo</td><td>1993</td></tr>
 <tr><td>Libano</td><td>3 maggio</td><td>1966</td><td>3 maggio</td><td>1966</td></tr>
@@ -783,7 +776,7 @@ Campo d’applicazione il 26 febbraio 2019[^t-5]
 <tr><td>Libia</td><td>16 febbraio</td><td>1970</td><td>16 febbraio</td><td>1970</td></tr>
 <tr><td>Lituania</td><td>7 dicembre</td><td>1995</td><td>7 dicembre</td><td>1995</td></tr>
 <tr><td>Lussemburgo</td><td>14 febbraio</td><td>1991</td><td>14 febbraio</td><td>1991</td></tr>
-<tr><td>Macedonia del nord</td><td>13 ottobre</td><td>1993</td><td>13 ottobre</td><td>1993</td></tr>
+<tr><td>Macedonia del Nord</td><td>13 ottobre</td><td>1993</td><td>13 ottobre</td><td>1993</td></tr>
 <tr><td>Madagascar</td><td>8 marzo</td><td>1961</td><td>8 marzo</td><td>1961</td></tr>
 <tr><td>Malawi</td><td>19 gennaio</td><td>1989</td><td>19 gennaio</td><td>1989</td></tr>
 <tr><td>Malaysia<sup>\*</sup></td><td>17 giugno</td><td>1971</td><td>17 giugno</td><td>1971</td></tr>
@@ -806,6 +799,7 @@ Campo d’applicazione il 26 febbraio 2019[^t-5]
 <tr><td>Nigeria</td><td>15 marzo</td><td>1962</td><td>15 marzo</td><td>1962</td></tr>
 <tr><td>Norvegia<sup>\*</sup></td><td>29 dicembre</td><td>1958</td><td>29 dicembre</td><td>1958</td></tr>
 <tr><td>Nuova Zelanda</td><td>9 novembre</td><td>1960</td><td>9 novembre</td><td>1960</td></tr>
+<tr><td>Cook, Isole</td><td>18 luglio</td><td>2008</td><td>18 luglio</td><td>2008</td></tr>
 <tr><td>Oman</td><td>30 gennaio</td><td>1974</td><td>30 gennaio</td><td>1974</td></tr>
 <tr><td>Paesi Bassi</td><td>31 marzo</td><td>1949</td><td>17 marzo</td><td>1958</td></tr>
 <tr><td>Aruba <sup>c</sup></td><td>1° gennaio</td><td>1986</td><td>1° gennaio</td><td>1986</td></tr>
@@ -868,13 +862,10 @@ Campo d’applicazione il 26 febbraio 2019[^t-5]
 <tr><td>Yemen</td><td>14 marzo</td><td>1979</td><td>14 marzo</td><td>1979</td></tr>
 <tr><td>Zambia</td><td>2 ottobre</td><td>2014</td><td>2 ottobre</td><td>2014</td></tr>
 <tr><td>Zimbabwe</td><td>16 agosto</td><td>2005</td><td>16 agosto</td><td>2005</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Dal 7 giu. 1967 al 30 giu. 1997, la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 19 dic. 1984, la Conv. è applicabile anche alla RAS Hong Kong dal 1° lug. 1997.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Dal 2 feb. 1990 al 19 dic. 1999, la Conv. era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Dal 20 dic. 1999, Macao è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 13 apr. 1987, la Conv. è applicabile anche alla RAS Macao dal 20 dic. 1999.</td></tr>
-<tr><td colspan="5"><sup>c</sup> Il 1° gen. 1986 l'isola di Aruba, che faceva parte delle Antille olandesi, ha ottenuto l'autonomia interna in seno al Regno dei Paesi Bassi. Questo cambiamento ha effetti unicamente sulle relazioni di diritto costituzionale interne al Regno.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Dal 7 giu. 1967 al 30 giu. 1997, la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 19 dic. 1984, la Conv. è applicabile anche alla RAS Hong Kong dal 1° lug. 1997. <sup>b</sup> Dal 2 feb. 1990 al 19 dic. 1999, la Conv. era applicabile a Macao in base a una dichiarazione d’estensione territoriale del Portogallo. Dal 20 dic. 1999, Macao è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 13 apr. 1987, la Conv. è applicabile anche alla RAS Macao dal 20 dic. 1999. <sup>c</sup> Il 1° gen. 1986 l'isola di Aruba, che faceva parte delle Antille olandesi, ha ottenuto l'autonomia interna in seno al Regno dei Paesi Bassi. Questo cambiamento ha effetti unicamente sulle relazioni di diritto costituzionale interne al Regno.</td></tr>
 </table>
 
-[^t-5]: [RU 1976 1853](https://fedlex.data.admin.ch/eli/oc/1976/1853_1853_1853), [1978 364](https://fedlex.data.admin.ch/eli/oc/1978/364_364_364), [1980 1661](https://fedlex.data.admin.ch/eli/oc/1980/1661_1661_1661), [1982 1550](https://fedlex.data.admin.ch/eli/oc/1982/1550_1550_1550), [1984 270](https://fedlex.data.admin.ch/eli/oc/1984/270_270_270)[1268](https://fedlex.data.admin.ch/eli/oc/1984/1268_1268_1268), [1987 1147](https://fedlex.data.admin.ch/eli/oc/1987/1147_1147_1147), [1989 404](https://fedlex.data.admin.ch/eli/oc/1989/404_404_404), [1990 1700](https://fedlex.data.admin.ch/eli/oc/1990/1700_1700_1700), [2003 3537](https://fedlex.data.admin.ch/eli/oc/2003/507), [2004 3291](https://fedlex.data.admin.ch/eli/oc/2004/422), [2007 4407](https://fedlex.data.admin.ch/eli/oc/2007/606), [2014 1425](https://fedlex.data.admin.ch/eli/oc/2014/306), [2016 2859](https://fedlex.data.admin.ch/eli/oc/2016/471)e [2019 901](https://fedlex.data.admin.ch/eli/oc/2019/158). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty .
+[^t-5]: [RU 1976 1853](https://fedlex.data.admin.ch/eli/oc/1976/1853_1853_1853); [1978 364](https://fedlex.data.admin.ch/eli/oc/1978/364_364_364); [1980 1661](https://fedlex.data.admin.ch/eli/oc/1980/1661_1661_1661); [1982 1550](https://fedlex.data.admin.ch/eli/oc/1982/1550_1550_1550); [1984 270](https://fedlex.data.admin.ch/eli/oc/1984/270_270_270), [1268](https://fedlex.data.admin.ch/eli/oc/1984/1268_1268_1268); [1987 1147](https://fedlex.data.admin.ch/eli/oc/1987/1147_1147_1147), [1174](https://fedlex.data.admin.ch/eli/oc/1987/__1174); [1989 404](https://fedlex.data.admin.ch/eli/oc/1989/404_404_404); [1990 1700](https://fedlex.data.admin.ch/eli/oc/1990/1700_1700_1700); [2003 3537](https://fedlex.data.admin.ch/eli/oc/2003/507); [2004 3291](https://fedlex.data.admin.ch/eli/oc/2004/422); [2007 4407](https://fedlex.data.admin.ch/eli/oc/2007/606); [2014 1425](https://fedlex.data.admin.ch/eli/oc/2014/306); [2016 2859](https://fedlex.data.admin.ch/eli/oc/2016/471); [2019 901](https://fedlex.data.admin.ch/eli/oc/2019/158); [2024 507](https://fedlex.data.admin.ch/eli/oc/2024/507). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Riserve e dichiarazioni
 

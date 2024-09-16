@@ -3,11 +3,11 @@ sr: "0.747.305.91"
 title: Abkommen vom 6. März 1948 zur Schaffung einer Internationalen Seeschifffahrts-Organisation (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1958/983_1025_1031"
 language: de
-version: 2019-02-26
+version: 2024-09-17
 adopted: 1948-03-06
 in_force: 1958-03-17
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/983_1025_1031/20190226/de/xml/fedlex-data-admin-ch-eli-cc-1958-983_1025_1031-20190226-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1958/983_1025_1031/20190226/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1958/983_1025_1031/20240917/de/xml/fedlex-data-admin-ch-eli-cc-1958-983_1025_1031-20240917-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1958/983_1025_1031/20240917/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1958** 983; BBl **1954** II 485[^t-1]
 
 Abgeschlossen in Genf am 6. März 1948 Von der Bundesversammlung genehmigt am 6. Juni 1955[^t-2] In Kraft getreten am 17. März 1958
 
-(Stand am 26. Februar 2019)
+(Stand am 17. September 2024)
 
 [^t-1]: Fassung gemäss Resolution der Generalversammlung der IMCO vom 14. Nov. 1975, von der BVers genehmigt am 9. Dez. 1980, in Kraft getreten für die Schweiz am 22. Mai 1982 ([AS 1982 671](https://fedlex.data.admin.ch/eli/oc/1982/671_671_671)[670](https://fedlex.data.admin.ch/eli/oc/1982/670_670_670); [BBl 1980 II 709](https://fedlex.data.admin.ch/eli/fga/1980/2_709_721_681)).
 [^t-2]: [AS 1958 981](https://fedlex.data.admin.ch/eli/oc/1958/981_1023_1029)
@@ -694,7 +694,7 @@ b. Die Vertreter der Mitglieder, einschliesslich der Stellvertreter und Experten
 
 Für die Anwendung der Bestimmungen des 1. und 2. Abschnitts dieses Anhanges passen sich die Mitgliedstaaten möglichst den Standardklauseln des allgemeinen Abkommens betreffend die Privilegien und Immunitäten der Spezialorganisationen an.
 
-Geltungsbereich am 26. Februar 2019[^t-5]
+Geltungsbereich am 17. September 2024[^t-5]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -719,60 +719,61 @@ Geltungsbereich am 26. Februar 2019[^t-5]
 <tr><td>Benin</td><td>19. März</td><td>1980</td><td>19. März</td><td>1980</td></tr>
 <tr><td>Bolivien</td><td>6. Juli</td><td>1987</td><td>6. Juli</td><td>1987</td></tr>
 <tr><td>Bosnien und Herzegowina</td><td>16. Juli</td><td>1993</td><td>16. Juli</td><td>1993</td></tr>
+<tr><td>Botsuana</td><td>22. Oktober</td><td>2021</td><td>22. Oktober</td><td>2021</td></tr>
 <tr><td>Brasilien</td><td>4. März</td><td>1963</td><td>4. März</td><td>1963</td></tr>
 <tr><td>Brunei</td><td>31. Dezember</td><td>1984</td><td>31. Dezember</td><td>1984</td></tr>
 <tr><td>Bulgarien</td><td>5. April</td><td>1960</td><td>5. April</td><td>1960</td></tr>
 <tr><td>Chile</td><td>17. Februar</td><td>1972</td><td>17. Februar</td><td>1972</td></tr>
 <tr><td>China</td><td>1. März</td><td>1973</td><td>1. März</td><td>1973</td></tr>
-<tr><td>[tab] Hongkong <sup>a</sup></td><td>1. Juli</td><td>1997</td><td>1. Juli</td><td>1997</td></tr>
-<tr><td>[tab] Macau <sup>b</sup></td><td>19. Dezember</td><td>1999</td><td>19. Dezember</td><td>1999</td></tr>
-<tr><td>Cook-Inseln</td><td>18. Juli</td><td>2008</td><td>18. Juli</td><td>2008</td></tr>
+<tr><td>Hongkong <sup>a</sup></td><td>1. Juli</td><td>1997</td><td>1. Juli</td><td>1997</td></tr>
+<tr><td>Macau <sup>b</sup></td><td>19. Dezember</td><td>1999</td><td>19. Dezember</td><td>1999</td></tr>
 <tr><td>Costa Rica</td><td>4. März</td><td>1981</td><td>4. März</td><td>1981</td></tr>
-<tr><td>Côte d'Ivoire</td><td>4. November</td><td>1960</td><td>4. November</td><td>1960</td></tr>
-<tr><td>Dänemark<sup>\*</sup></td><td>3. Juni</td><td>1959</td><td>3. Juni</td><td>1959</td></tr>
-<tr><td>[tab] Färöer</td><td>18. Dezember</td><td>2002</td><td>18. Dezember</td><td>2002</td></tr>
+<tr><td>Côte d’Ivoire</td><td>4. November</td><td>1960</td><td>4. November</td><td>1960</td></tr>
+<tr><td>Dänemark\*</td><td>3. Juni</td><td>1959</td><td>3. Juni</td><td>1959</td></tr>
+<tr><td>Färöer</td><td>18. Dezember</td><td>2002</td><td>18. Dezember</td><td>2002</td></tr>
 <tr><td>Deutschland</td><td>7. Januar</td><td>1959 U</td><td>7. Januar</td><td>1959</td></tr>
 <tr><td>Dominica</td><td>18. Dezember</td><td>1979</td><td>18. Dezember</td><td>1979</td></tr>
 <tr><td>Dominikanische Republik</td><td>25. August</td><td>1953</td><td>17. März</td><td>1958</td></tr>
 <tr><td>Dschibuti</td><td>20. Februar</td><td>1979</td><td>20. Februar</td><td>1979</td></tr>
-<tr><td>Ecuador<sup>\*</sup></td><td>12. Juli</td><td>1956</td><td>17. März</td><td>1958</td></tr>
+<tr><td>Ecuador\*</td><td>12. Juli</td><td>1956</td><td>17. März</td><td>1958</td></tr>
 <tr><td>El Salvador</td><td>12. Februar</td><td>1981</td><td>12. Februar</td><td>1981</td></tr>
 <tr><td>Eritrea</td><td>31. August</td><td>1993</td><td>31. August</td><td>1993</td></tr>
 <tr><td>Estland</td><td>31. Januar</td><td>1992</td><td>31. Januar</td><td>1992</td></tr>
 <tr><td>Fidschi</td><td>14. März</td><td>1983</td><td>14. März</td><td>1983</td></tr>
-<tr><td>Finnland<sup>\*</sup></td><td>21. April</td><td>1959</td><td>21. April</td><td>1959</td></tr>
+<tr><td>Finnland\*</td><td>21. April</td><td>1959</td><td>21. April</td><td>1959</td></tr>
 <tr><td>Frankreich</td><td>9. April</td><td>1952</td><td>17. März</td><td>1958</td></tr>
 <tr><td>Gabun</td><td>1. April</td><td>1976</td><td>1. April</td><td>1976</td></tr>
 <tr><td>Gambia</td><td>11. Januar</td><td>1979</td><td>11. Januar</td><td>1979</td></tr>
 <tr><td>Georgien</td><td>22. Juni</td><td>1993</td><td>22. Juni</td><td>1993</td></tr>
 <tr><td>Ghana</td><td>6. Juli</td><td>1959</td><td>6. Juli</td><td>1959</td></tr>
 <tr><td>Grenada</td><td>3. Dezember</td><td>1999</td><td>3. Dezember</td><td>1998</td></tr>
-<tr><td>Griechenland<sup>\*</sup></td><td>31. Dezember</td><td>1958</td><td>31. Dezember</td><td>1958</td></tr>
+<tr><td>Griechenland\*</td><td>31. Dezember</td><td>1958</td><td>31. Dezember</td><td>1958</td></tr>
 <tr><td>Guatemala</td><td>16. März</td><td>1983</td><td>16. März</td><td>1983</td></tr>
 <tr><td>Guinea</td><td>3. Dezember</td><td>1975</td><td>3. Dezember</td><td>1975</td></tr>
 <tr><td>Guinea-Bissau</td><td>6. Dezember</td><td>1977</td><td>6. Dezember</td><td>1977</td></tr>
 <tr><td>Guyana</td><td>13. Mai</td><td>1980</td><td>13. Mai</td><td>1980</td></tr>
 <tr><td>Haiti</td><td>23. Juni</td><td>1953</td><td>17. März</td><td>1958</td></tr>
 <tr><td>Honduras</td><td>23. August</td><td>1954</td><td>17. März</td><td>1958</td></tr>
-<tr><td>Indien<sup>\*</sup></td><td>6. Januar</td><td>1959</td><td>6. Januar</td><td>1959</td></tr>
-<tr><td>Indonesien<sup>\*</sup></td><td>18. Januar</td><td>1961</td><td>18. Januar</td><td>1961</td></tr>
-<tr><td>Irak<sup>\*</sup></td><td>28. August</td><td>1973</td><td>28. August</td><td>1973</td></tr>
+<tr><td>Indien\*</td><td>6. Januar</td><td>1959</td><td>6. Januar</td><td>1959</td></tr>
+<tr><td>Indonesien\*</td><td>18. Januar</td><td>1961</td><td>18. Januar</td><td>1961</td></tr>
+<tr><td>Irak\*</td><td>28. August</td><td>1973</td><td>28. August</td><td>1973</td></tr>
 <tr><td>Iran</td><td>2. Januar</td><td>1958</td><td>17. März</td><td>1958</td></tr>
 <tr><td>Irland</td><td>26. Februar</td><td>1951</td><td>17. März</td><td>1958</td></tr>
-<tr><td>Island<sup>\*</sup></td><td>8. November</td><td>1960</td><td>8. November</td><td>1960</td></tr>
+<tr><td>Island\*</td><td>8. November</td><td>1960</td><td>8. November</td><td>1960</td></tr>
 <tr><td>Israel</td><td>24. April</td><td>1952</td><td>17. März</td><td>1958</td></tr>
 <tr><td>Italien</td><td>28. Januar</td><td>1957</td><td>17. März</td><td>1958</td></tr>
 <tr><td>Jamaika</td><td>11. Mai</td><td>1976</td><td>11. Mai</td><td>1976</td></tr>
 <tr><td>Japan</td><td>17. März</td><td>1958</td><td>17. März</td><td>1958</td></tr>
 <tr><td>Jemen</td><td>14. März</td><td>1979</td><td>14. März</td><td>1979</td></tr>
 <tr><td>Jordanien</td><td>9. November</td><td>1973</td><td>9. November</td><td>1973</td></tr>
-<tr><td>Kambodscha<sup>\*</sup></td><td>3. Januar</td><td>1961</td><td>3. Januar</td><td>1961</td></tr>
+<tr><td>Kambodscha\*</td><td>3. Januar</td><td>1961</td><td>3. Januar</td><td>1961</td></tr>
 <tr><td>Kamerun</td><td>1. Mai</td><td>1961</td><td>1. Mai</td><td>1961</td></tr>
 <tr><td>Kanada</td><td>15. Oktober</td><td>1948</td><td>17. März</td><td>1958</td></tr>
 <tr><td>Kap Verde</td><td>24. August</td><td>1976</td><td>24. August</td><td>1976</td></tr>
 <tr><td>Kasachstan</td><td>11. März</td><td>1994</td><td>11. März</td><td>1994</td></tr>
 <tr><td>Katar</td><td>19. Mai</td><td>1977</td><td>19. Mai</td><td>1977</td></tr>
 <tr><td>Kenia</td><td>22. August</td><td>1973</td><td>22. August</td><td>1973</td></tr>
+<tr><td>Kirgisistan</td><td>27. Februar</td><td>2024</td><td>27. Februar</td><td>2024</td></tr>
 <tr><td>Kiribati</td><td>28. Oktober</td><td>2003</td><td>28. Oktober</td><td>2003</td></tr>
 <tr><td>Kolumbien</td><td>19. November</td><td>1974</td><td>19. November</td><td>1974</td></tr>
 <tr><td>Komoren</td><td>3. August</td><td>2001</td><td>3. August</td><td>2001</td></tr>
@@ -781,7 +782,7 @@ Geltungsbereich am 26. Februar 2019[^t-5]
 <tr><td>Korea (Nord-)</td><td>16. April</td><td>1986</td><td>16. April</td><td>1986</td></tr>
 <tr><td>Korea (Süd-)</td><td>10. April</td><td>1962</td><td>10. April</td><td>1962</td></tr>
 <tr><td>Kroatien</td><td>8. Juli</td><td>1992</td><td>8. Juli</td><td>1992</td></tr>
-<tr><td>Kuba<sup>\*</sup></td><td>6. Mai</td><td>1966</td><td>6. Mai</td><td>1966</td></tr>
+<tr><td>Kuba\*</td><td>6. Mai</td><td>1966</td><td>6. Mai</td><td>1966</td></tr>
 <tr><td>Kuwait</td><td>5. Juli</td><td>1960</td><td>5. Juli</td><td>1960</td></tr>
 <tr><td>Lettland</td><td>1. März</td><td>1993</td><td>1. März</td><td>1993</td></tr>
 <tr><td>Libanon</td><td>3. Mai</td><td>1966</td><td>3. Mai</td><td>1966</td></tr>
@@ -791,14 +792,14 @@ Geltungsbereich am 26. Februar 2019[^t-5]
 <tr><td>Luxemburg</td><td>14. Februar</td><td>1991</td><td>14. Februar</td><td>1991</td></tr>
 <tr><td>Madagaskar</td><td>8. März</td><td>1961</td><td>8. März</td><td>1961</td></tr>
 <tr><td>Malawi</td><td>19. Januar</td><td>1989</td><td>19. Januar</td><td>1989</td></tr>
-<tr><td>Malaysia<sup>\*</sup></td><td>17. Juni</td><td>1971</td><td>17. Juni</td><td>1971</td></tr>
+<tr><td>Malaysia\*</td><td>17. Juni</td><td>1971</td><td>17. Juni</td><td>1971</td></tr>
 <tr><td>Malediven</td><td>31. Mai</td><td>1967</td><td>31. Mai</td><td>1967</td></tr>
 <tr><td>Malta</td><td>22. Juni</td><td>1966 U</td><td>22. Juni</td><td>1966</td></tr>
-<tr><td>Marokko<sup>\*</sup></td><td>30. Juli</td><td>1962</td><td>30. Juli</td><td>1962</td></tr>
+<tr><td>Marokko\*</td><td>30. Juli</td><td>1962</td><td>30. Juli</td><td>1962</td></tr>
 <tr><td>Marshallinseln</td><td>26. März</td><td>1998</td><td>26. März</td><td>1998</td></tr>
 <tr><td>Mauretanien</td><td>8. Mai</td><td>1961</td><td>8. Mai</td><td>1961</td></tr>
 <tr><td>Mauritius</td><td>18. Mai</td><td>1978</td><td>18. Mai</td><td>1978</td></tr>
-<tr><td>Mexiko<sup>\*</sup></td><td>21. September</td><td>1954</td><td>17. März</td><td>1958</td></tr>
+<tr><td>Mexiko\*</td><td>21. September</td><td>1954</td><td>17. März</td><td>1958</td></tr>
 <tr><td>Moldau</td><td>12. Dezember</td><td>2001</td><td>12. Dezember</td><td>2001</td></tr>
 <tr><td>Monaco</td><td>22. Dezember</td><td>1989</td><td>22. Dezember</td><td>1989</td></tr>
 <tr><td>Mongolei</td><td>11. Dezember</td><td>1996</td><td>11. Dezember</td><td>1996</td></tr>
@@ -809,15 +810,16 @@ Geltungsbereich am 26. Februar 2019[^t-5]
 <tr><td>Nauru</td><td>14. Mai</td><td>2018</td><td>14. Mai</td><td>2018</td></tr>
 <tr><td>Nepal</td><td>31. Januar</td><td>1979</td><td>31. Januar</td><td>1979</td></tr>
 <tr><td>Neuseeland</td><td>9. November</td><td>1960</td><td>9. November</td><td>1960</td></tr>
+<tr><td>Cook-Inseln</td><td>18. Juli</td><td>2008</td><td>18. Juli</td><td>2008</td></tr>
 <tr><td>Nicaragua</td><td>17. März</td><td>1982</td><td>17. März</td><td>1982</td></tr>
 <tr><td>Niederlande</td><td>31. März</td><td>1949</td><td>17. März</td><td>1958</td></tr>
-<tr><td>[tab] Aruba <sup>c</sup></td><td>1. Januar</td><td>1986</td><td>1. Januar</td><td>1986</td></tr>
+<tr><td>Aruba <sup>c</sup></td><td>1. Januar</td><td>1986</td><td>1. Januar</td><td>1986</td></tr>
 <tr><td>Curaçao</td><td>3. Oktober</td><td>1949</td><td>17. März</td><td>1958</td></tr>
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>3. Oktober</td><td>1949</td><td>17. März</td><td>1958</td></tr>
 <tr><td>Sint Maarten</td><td>3. Oktober</td><td>1949</td><td>17. März</td><td>1958</td></tr>
 <tr><td>Nigeria</td><td>15. März</td><td>1962</td><td>15. März</td><td>1962</td></tr>
 <tr><td>Nordmazedonien</td><td>13. Oktober</td><td>1993</td><td>13. Oktober</td><td>1993</td></tr>
-<tr><td>Norwegen<sup>\*</sup></td><td>29. Dezember</td><td>1958</td><td>29. Dezember</td><td>1958</td></tr>
+<tr><td>Norwegen\*</td><td>29. Dezember</td><td>1958</td><td>29. Dezember</td><td>1958</td></tr>
 <tr><td>Oman</td><td>30. Januar</td><td>1974</td><td>30. Januar</td><td>1974</td></tr>
 <tr><td>Österreich</td><td>2. April</td><td>1975</td><td>2. April</td><td>1975</td></tr>
 <tr><td>Pakistan</td><td>21. November</td><td>1958</td><td>21. November</td><td>1958</td></tr>
@@ -827,7 +829,7 @@ Geltungsbereich am 26. Februar 2019[^t-5]
 <tr><td>Paraguay</td><td>15. März</td><td>1993</td><td>15. März</td><td>1993</td></tr>
 <tr><td>Peru</td><td>15. April</td><td>1968</td><td>15. April</td><td>1968</td></tr>
 <tr><td>Philippinen</td><td>9. November</td><td>1964</td><td>9. November</td><td>1964</td></tr>
-<tr><td>Polen<sup>\*</sup></td><td>16. März</td><td>1960</td><td>16. März</td><td>1960</td></tr>
+<tr><td>Polen\*</td><td>16. März</td><td>1960</td><td>16. März</td><td>1960</td></tr>
 <tr><td>Portugal</td><td>17. März</td><td>1976</td><td>17. März</td><td>1976</td></tr>
 <tr><td>Rumänien</td><td>28. April</td><td>1965</td><td>28. April</td><td>1965</td></tr>
 <tr><td>Russland</td><td>24. Dezember</td><td>1958</td><td>24. Dezember</td><td>1958</td></tr>
@@ -837,8 +839,8 @@ Geltungsbereich am 26. Februar 2019[^t-5]
 <tr><td>San Marino</td><td>12. März</td><td>2002</td><td>12. März</td><td>2002</td></tr>
 <tr><td>São Tomé und Príncipe</td><td>9. Juli</td><td>1990</td><td>9. Juli</td><td>1990</td></tr>
 <tr><td>Saudi-Arabien</td><td>25. Februar</td><td>1969</td><td>25. Februar</td><td>1969</td></tr>
-<tr><td>Schweden<sup>\*</sup></td><td>27. April</td><td>1959</td><td>27. April</td><td>1959</td></tr>
-<tr><td>Schweiz<sup>\*</sup></td><td>20. Juli</td><td>1955</td><td>17. März</td><td>1958</td></tr>
+<tr><td>Schweden\*</td><td>27. April</td><td>1959</td><td>27. April</td><td>1959</td></tr>
+<tr><td>Schweiz\*</td><td>20. Juli</td><td>1955</td><td>17. März</td><td>1958</td></tr>
 <tr><td>Senegal</td><td>7. November</td><td>1960</td><td>7. November</td><td>1960</td></tr>
 <tr><td>Serbien</td><td>11. Dezember</td><td>2000</td><td>11. Dezember</td><td>2000</td></tr>
 <tr><td>Seychellen</td><td>13. Juni</td><td>1978</td><td>13. Juni</td><td>1978</td></tr>
@@ -848,8 +850,8 @@ Geltungsbereich am 26. Februar 2019[^t-5]
 <tr><td>Slowakei</td><td>24. März</td><td>1993</td><td>24. März</td><td>1993</td></tr>
 <tr><td>Slowenien</td><td>10. Februar</td><td>1993</td><td>10. Februar</td><td>1993</td></tr>
 <tr><td>Somalia</td><td>4. April</td><td>1978</td><td>4. April</td><td>1978</td></tr>
-<tr><td>Spanien<sup>\*</sup></td><td>23. Januar</td><td>1962</td><td>23. Januar</td><td>1962</td></tr>
-<tr><td>Sri Lanka<sup>\*</sup></td><td>6. April</td><td>1972</td><td>6. April</td><td>1972</td></tr>
+<tr><td>Spanien\*</td><td>23. Januar</td><td>1962</td><td>23. Januar</td><td>1962</td></tr>
+<tr><td>Sri Lanka\*</td><td>6. April</td><td>1972</td><td>6. April</td><td>1972</td></tr>
 <tr><td>St. Kitts und Nevis</td><td>8. Oktober</td><td>2001</td><td>8. Oktober</td><td>2001</td></tr>
 <tr><td>St. Lucia</td><td>10. April</td><td>1980</td><td>10. April</td><td>1980</td></tr>
 <tr><td>St. Vincent und die Grenadinen</td><td>29. April</td><td>1981</td><td>29. April</td><td>1981</td></tr>
@@ -866,7 +868,7 @@ Geltungsbereich am 26. Februar 2019[^t-5]
 <tr><td>Tschechische Republik</td><td>18. Juni</td><td>1993</td><td>18. Juni</td><td>1993</td></tr>
 <tr><td>Tunesien</td><td>23. Mai</td><td>1963</td><td>23. Mai</td><td>1963</td></tr>
 <tr><td>Turkmenistan</td><td>26. August</td><td>1993</td><td>26. August</td><td>1993</td></tr>
-<tr><td>Türkei<sup>\*</sup></td><td>25. März</td><td>1958</td><td>25. März</td><td>1958</td></tr>
+<tr><td>Türkei\*</td><td>25. März</td><td>1958</td><td>25. März</td><td>1958</td></tr>
 <tr><td>Tuvalu</td><td>19. Mai</td><td>2004</td><td>19. Mai</td><td>2004</td></tr>
 <tr><td>Uganda</td><td>30. Juni</td><td>2009</td><td>30. Juni</td><td>2009</td></tr>
 <tr><td>Ukraine</td><td>28. März</td><td>1994</td><td>28. März</td><td>1994</td></tr>
@@ -875,16 +877,16 @@ Geltungsbereich am 26. Februar 2019[^t-5]
 <tr><td>Vanuatu</td><td>21. Oktober</td><td>1986</td><td>21. Oktober</td><td>1986</td></tr>
 <tr><td>Venezuela</td><td>27. Oktober</td><td>1975</td><td>27. Oktober</td><td>1975</td></tr>
 <tr><td>Vereinigte Arabische Emirate</td><td>4. März</td><td>1980</td><td>4. März</td><td>1980</td></tr>
-<tr><td>Vereinigte Staaten<sup>\*</sup></td><td>17. August</td><td>1950</td><td>17. März</td><td>1958</td></tr>
+<tr><td>Vereinigte Staaten\*</td><td>17. August</td><td>1950</td><td>17. März</td><td>1958</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>14. Februar</td><td>1949</td><td>17. März</td><td>1958</td></tr>
-<tr><td>Vietnam<sup>\*</sup></td><td>12. Juni</td><td>1984</td><td>12. Juni</td><td>1984</td></tr>
+<tr><td>Vietnam\*</td><td>12. Juni</td><td>1984</td><td>12. Juni</td><td>1984</td></tr>
 <tr><td>Zypern</td><td>21. November</td><td>1973</td><td>21. November</td><td>1973</td></tr>
 <tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org/](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Vom 7. Juni 1967 bis zum 30. Juni 1997 war das Übereinkommen auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 19. Dezember 1984 ist das Übereinkommen seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar. <sup>b</sup> Vom 2. Februar 1990 bis zum 19. Dezember 1999 war das Übereinkommen auf Grund einer Ausdehnungserklärung Portugals in Macau anwendbar. Seit dem 20. Dezember 1999 bildet Macau eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 13. April 1987 ist das Übereinkommen seit dem 20. Dezember 1999 auch in der SAR Macau anwendbar. <sup>c</sup> Am 1. Januar 1986 erhielt die Insel Aruba, die ein Teil der Niederländischen Antillen war, die innere Autonomie innerhalb des Königreichs der Niederlande. Diese Änderung betrifft nur die internen verfassungsrechtlichen Beziehungen innerhalb des Königreichs.</td></tr>
 </table>
 
-## Vorbehalte und Erklärungen
+[^t-5]: [AS 1976 1853](https://fedlex.data.admin.ch/eli/oc/1976/1853_1853_1853); [1978 364](https://fedlex.data.admin.ch/eli/oc/1978/364_364_364); [1980 1661](https://fedlex.data.admin.ch/eli/oc/1980/1661_1661_1661); [1982 1550](https://fedlex.data.admin.ch/eli/oc/1982/1550_1550_1550); [1984 270](https://fedlex.data.admin.ch/eli/oc/1984/270_270_270), [1268](https://fedlex.data.admin.ch/eli/oc/1984/1268_1268_1268); [1987 1147](https://fedlex.data.admin.ch/eli/oc/1987/1147_1147_1147), [1174](https://fedlex.data.admin.ch/eli/oc/1987/1174_1174_); [1989 404](https://fedlex.data.admin.ch/eli/oc/1989/404_404_404); [1990 1700](https://fedlex.data.admin.ch/eli/oc/1990/1700_1700_1700); [2003 3537](https://fedlex.data.admin.ch/eli/oc/2003/507); [2004 3291](https://fedlex.data.admin.ch/eli/oc/2004/422); [2007 4407](https://fedlex.data.admin.ch/eli/oc/2007/606); [2014 1425](https://fedlex.data.admin.ch/eli/oc/2014/306); [2016 2859](https://fedlex.data.admin.ch/eli/oc/2016/471); [2019 901](https://fedlex.data.admin.ch/eli/oc/2019/158); [2024 507](https://fedlex.data.admin.ch/eli/oc/2024/507). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
-[^t-5]: [AS 1976 1853](https://fedlex.data.admin.ch/eli/oc/1976/1853_1853_1853); [1978 364](https://fedlex.data.admin.ch/eli/oc/1978/364_364_364); [1980 1661](https://fedlex.data.admin.ch/eli/oc/1980/1661_1661_1661); [1982 1550](https://fedlex.data.admin.ch/eli/oc/1982/1550_1550_1550); [1984 270](https://fedlex.data.admin.ch/eli/oc/1984/270_270_270), [1268](https://fedlex.data.admin.ch/eli/oc/1984/1268_1268_1268); [1987 1147](https://fedlex.data.admin.ch/eli/oc/1987/1147_1147_1147), [1174](https://fedlex.data.admin.ch/eli/oc/1987/1174_1174_); [1989 404](https://fedlex.data.admin.ch/eli/oc/1989/404_404_404); [1990 1700](https://fedlex.data.admin.ch/eli/oc/1990/1700_1700_1700); [2003 3537](https://fedlex.data.admin.ch/eli/oc/2003/507); [2004 3291](https://fedlex.data.admin.ch/eli/oc/2004/422); [2007 4407](https://fedlex.data.admin.ch/eli/oc/2007/606); [2014 1425](https://fedlex.data.admin.ch/eli/oc/2014/306); [2016 2859](https://fedlex.data.admin.ch/eli/oc/2016/471); [2019 901](https://fedlex.data.admin.ch/eli/oc/2019/158). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
+Vorbehalte und Erklärungen
 
 **Schweiz**
 
