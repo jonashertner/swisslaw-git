@@ -3,11 +3,11 @@ sr: "0.515.093"
 title: Convenzione del 30 maggio 2008 sulle munizioni a grappolo
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/617"
 language: it
-version: 2021-02-25
+version: 2024-09-18
 adopted: 2008-05-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/617/20210225/it/xml/fedlex-data-admin-ch-eli-cc-2012-617-20210225-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/617/20210225/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/617/20240918/it/xml/fedlex-data-admin-ch-eli-cc-2012-617-20240918-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/617/20240918/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2012** 5385; FF **2011** 5323
 
 Traduzione
 
-Conclusa a Dublino il 30 maggio 2008
+Conclusa a Dublino il 30 maggio 2008 Approvata dall’Assemblea federale il 16 marzo 2012[^t-1] Ratificata con strumenti depositati dalla Svizzera il 17 luglio 2012 Entrata in vigore per la Svizzera il 1° gennaio 2013
 
-Approvata dall’Assemblea federale il 16 marzo 2012[^t-1]
-
-Ratificata con strumenti depositati dalla Svizzera il 17 luglio 2012
-
-Entrata in vigore per la Svizzera il 1° gennaio 2013
-
-(Stato 25 febbraio 2021)
+(Stato 18 settembre 2024)
 
 [^t-1]: [RU 2012 5383](https://fedlex.data.admin.ch/eli/oc/2012/616)
 
@@ -74,9 +68,9 @@ Gli Stati Parte della presente Convenzione,
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.515.092](https://fedlex.data.admin.ch/eli/cc/2003/431)
-[^ingress-2]: [RS 0.515.091.4](https://fedlex.data.admin.ch/eli/cc/2006/581)
-[^ingress-3]: [RS 0.515.091](https://fedlex.data.admin.ch/eli/cc/1983/1499_1499_1499)
+[^ingress-1]: [RS 0.515.092](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1935)
+[^ingress-2]: [RS 0.515.091.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1934)
+[^ingress-3]: [RS 0.515.091](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1930)
 
 #### Art. 1
 
@@ -182,7 +176,7 @@ Nell’adempimento degli obblighi di cui al paragrafo 1 del presente articolo, c
 - (d) rimuovere e distruggere tutti i residuati di munizioni a grappolo che si trovano in aree poste sotto la sua giurisdizione o il suo controllo; e
 - (e) condurre un’azione di educazione alla riduzione dei rischi per sensibilizzare i civili che vivono all’interno o nei dintorni delle aree contaminate dalle munizioni a grappolo ai pericoli rappresentati da detti residuati.
 
-<sup>3.</sup> Nell’ambito dell’esercizio delle attività di cui al paragrafo 2 del presente articolo, ciascuno Stato Parte tiene conto delle norme internazionali, segnatamente delle Norme internazionali delle azioni di lotta contro le mine (IMAS, *Inte**r**national Mine Action Standards*).
+<sup>3.</sup> Nell’ambito dell’esercizio delle attività di cui al paragrafo 2 del presente articolo, ciascuno Stato Parte tiene conto delle norme internazionali, segnatamente delle Norme internazionali delle azioni di lotta contro le mine (IMAS, *International Mine Action Standards*).
 
 <sup>4.</sup> Il presente paragrafo si applica nei casi in cui le munizioni a grappolo siano state utilizzate o abbandonate da uno Stato Parte prima dell’entrata in vigore della presente Convenzione per detto Stato Parte e siano diventate residuati di munizioni a grappolo in aree poste sotto la giurisdizione o il controllo di un altro Stato Parte al momento dell’entrata in vigore della presente Convenzione per quest’ultimo.
 
@@ -460,7 +454,7 @@ I testi della presente Convenzione redatti nelle lingue inglese, araba, cinese, 
 
 (Seguono le firme)
 
-Campo d’applicazione il 25 febbraio 2021**[^t-2]**
+Campo d’applicazione il 18 settembre 2024[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -519,7 +513,6 @@ Campo d’applicazione il 25 febbraio 2021**[^t-2]**
 <tr><td>Lesotho</td><td>28 maggio</td><td>2010</td><td>1° novembre</td><td>2010</td></tr>
 <tr><td>Libano</td><td>5 novembre</td><td>2010</td><td>1° giugno</td><td>2011</td></tr>
 <tr><td>Liechtenstein</td><td>4 marzo</td><td>2013</td><td>1° settembre</td><td>2013</td></tr>
-<tr><td>Lituania\*</td><td>24 marzo</td><td>2011</td><td>1° settembre</td><td>2011</td></tr>
 <tr><td>Lussemburgo</td><td>10 luglio</td><td>2009</td><td>1° agosto</td><td>2010</td></tr>
 <tr><td>Macedonia del Nord</td><td>8 ottobre</td><td>2009</td><td>1° agosto</td><td>2010</td></tr>
 <tr><td>Madagascar</td><td>20 maggio</td><td>2017</td><td>1° novembre</td><td>2017</td></tr>
@@ -538,10 +531,12 @@ Campo d’applicazione il 25 febbraio 2021**[^t-2]**
 <tr><td>Nauru</td><td>4 febbraio</td><td>2013</td><td>1° agosto</td><td>2013</td></tr>
 <tr><td>Nicaragua</td><td>2 novembre</td><td>2009</td><td>1° agosto</td><td>2010</td></tr>
 <tr><td>Niger</td><td>2 giugno</td><td>2009</td><td>1° agosto</td><td>2010</td></tr>
+<tr><td>Nigeria</td><td>28 febbraio</td><td>2023</td><td>1° agosto</td><td>2023</td></tr>
+<tr><td>Niue</td><td>6 agosto</td><td>2020 A</td><td>1° febbraio</td><td>2021</td></tr>
 <tr><td>Norvegia\*</td><td>3 dicembre</td><td>2008</td><td>1° agosto</td><td>2010</td></tr>
 <tr><td>Nuova Zelanda <sup>b</sup></td><td>22 dicembre</td><td>2009</td><td>1° agosto</td><td>2010</td></tr>
-<tr><td>Niue</td><td>6 agosto</td><td>2020 A</td><td>1° febbraio</td><td>2021</td></tr>
 <tr><td>Paesi Bassi</td><td>23 febbraio</td><td>2011</td><td>1° agosto</td><td>2011</td></tr>
+<tr><td>Curaçao</td><td>20 settembre</td><td>2022</td><td>20 settembre</td><td>2022</td></tr>
 <tr><td>Palau</td><td>19 aprile</td><td>2016</td><td>1° ottobre</td><td>2016</td></tr>
 <tr><td>Palestina</td><td>2 gennaio</td><td>2015 A</td><td>1° luglio</td><td>2015</td></tr>
 <tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>23 febbraio</td><td>2011</td><td>1° agosto</td><td>2011</td></tr>
@@ -568,6 +563,7 @@ Campo d’applicazione il 25 febbraio 2021**[^t-2]**
 <tr><td>Spagna</td><td>17 giugno</td><td>2009</td><td>1° agosto</td><td>2010</td></tr>
 <tr><td>Sri Lanka</td><td>1° marzo</td><td>2018 A</td><td>1° settembre</td><td>2018</td></tr>
 <tr><td>Sudafrica</td><td>28 maggio</td><td>2015</td><td>1° novembre</td><td>2015</td></tr>
+<tr><td>Sudan del Sud</td><td>3 agosto</td><td>2023 A</td><td>1° febbraio</td><td>2024</td></tr>
 <tr><td>Svezia</td><td>23 aprile</td><td>2012</td><td>1° ottobre</td><td>2012</td></tr>
 <tr><td>Svizzera\*</td><td>17 luglio</td><td>2012</td><td>1° gennaio</td><td>2013</td></tr>
 <tr><td>Togo</td><td>22 giugno</td><td>2012</td><td>1° dicembre</td><td>2012</td></tr>
@@ -576,10 +572,10 @@ Campo d’applicazione il 25 febbraio 2021**[^t-2]**
 <tr><td>Ungheria</td><td>3 luglio</td><td>2012</td><td>1° gennaio</td><td>2013</td></tr>
 <tr><td>Uruguay</td><td>24 settembre</td><td>2009</td><td>1° agosto</td><td>2010</td></tr>
 <tr><td>Zambia</td><td>12 agosto</td><td>2009</td><td>1° agosto</td><td>2010</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate RU, eccetto quelle della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. non si applica alle Isole Faeröer <sup>b</sup> La Conv. non si applica a Tokelau.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate RU, eccetto quelle della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org](http://treaties.un.org) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. non si applica alle Isole Faeröer <sup>b</sup> La Conv. non si applica a Tokelau.</td></tr>
 </table>
 
-[^t-2]: [RU 2012 5385](https://fedlex.data.admin.ch/eli/oc/2012/617); [2013 2093](https://fedlex.data.admin.ch/eli/oc/2013/441); [2015 697](https://fedlex.data.admin.ch/eli/oc/2015/117), [3841](https://fedlex.data.admin.ch/eli/oc/2015/648); [2017 45](https://fedlex.data.admin.ch/eli/oc/2017/17); [2019 585](https://fedlex.data.admin.ch/eli/oc/2019/99); [2020 3479](https://fedlex.data.admin.ch/eli/oc/2020/603); [2021 125](https://fedlex.data.admin.ch/eli/oc/2021/125). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://fedlex.admin.ch/it/Treaty.
+[^t-2]: [RU 2012 5385](https://fedlex.data.admin.ch/eli/oc/2012/617); [2013 2093](https://fedlex.data.admin.ch/eli/oc/2013/441); [2015 697](https://fedlex.data.admin.ch/eli/oc/2015/117), [3841](https://fedlex.data.admin.ch/eli/oc/2015/648); [2017 45](https://fedlex.data.admin.ch/eli/oc/2017/17); [2019 585](https://fedlex.data.admin.ch/eli/oc/2019/99); [2020 3479](https://fedlex.data.admin.ch/eli/oc/2020/603); [2021 125](https://fedlex.data.admin.ch/eli/oc/2021/125); [2024 518](https://fedlex.data.admin.ch/eli/oc/2024/518). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
 
 Dichiarazione
 

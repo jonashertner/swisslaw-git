@@ -3,11 +3,11 @@ sr: "0.515.093"
 title: Übereinkommen vom 30. Mai 2008 über Streumunition
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/617"
 language: de
-version: 2021-02-25
+version: 2024-09-18
 adopted: 2008-05-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/617/20210225/de/xml/fedlex-data-admin-ch-eli-cc-2012-617-20210225-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/617/20210225/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/617/20240918/de/xml/fedlex-data-admin-ch-eli-cc-2012-617-20240918-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/617/20240918/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -18,15 +18,9 @@ AS **2012** 5385; BBl **2011** 5905
 
 Übersetzung
 
-Abgeschlossen in Dublin am 30. Mai 2008
+Abgeschlossen in Dublin am 30. Mai 2008 Von der Bundesversammlung genehmigt am 16. März 2012[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 17. Juli 2012 Für die Schweiz in Kraft getreten am 1. Januar 2013
 
-Von der Bundesversammlung genehmigt am 16. März 2012[^t-1]
-
-Schweizerische Ratifikationsurkunde hinterlegt am 17. Juli 2012
-
-Für die Schweiz in Kraft getreten am 1. Januar 2013
-
-(Stand am 25. Februar 2021)
+(Stand am 18. September 2024)
 
 [^t-1]: [AS 2012 5383](https://fedlex.data.admin.ch/eli/oc/2012/616)
 
@@ -50,7 +44,7 @@ Die Vertragsstaaten dieses Übereinkommens,
 
 *eingedenk* des Übereinkommens über die Rechte von Menschen mit Behinderungen, das unter anderem vorschreibt, dass die Vertragsstaaten jenes Übereinkommens sich dazu verpflichten, die volle Verwirklichung aller Menschenrechte und Grundfreiheiten für alle Menschen mit Behinderungen ohne jede Diskriminierung aufgrund von Behinderung zu gewährleisten und zu fördern;
 
-*im Bewusstsein* der Notwendigkeit einer angemessenen Koordinierung der Anstrengungen, die in verschiedenen Gremien unternommen werden, um auf die Rechte und Bedürfnisse der Opfer verschiedener Arten von Waffen einzugehen, und *entschlo**s**sen*, Diskriminierung unter den Opfern verschiedener Arten von Waffen zu vermeiden;
+*im Bewusstsein* der Notwendigkeit einer angemessenen Koordinierung der Anstrengungen, die in verschiedenen Gremien unternommen werden, um auf die Rechte und Bedürfnisse der Opfer verschiedener Arten von Waffen einzugehen, und *entschlos**sen*, Diskriminierung unter den Opfern verschiedener Arten von Waffen zu vermeiden;
 
 in *Bekräftigung* dessen, dass in Fällen, die von diesem Übereinkommen oder anderen internationalen Übereinkünften nicht erfasst sind, Zivilpersonen und Kombattanten unter dem Schutz und der Herrschaft der Grundsätze des Völkerrechts verbleiben, wie sie sich aus feststehenden Gebräuchen, aus den Grundsätzen der Menschlichkeit und aus den Forderungen des öffentlichen Gewissens ergeben;
 
@@ -64,7 +58,7 @@ in *Bekräftigung* dessen, dass in Fällen, die von diesem Übereinkommen oder a
 
 *erfreut* ausserdem über die Schritte, die in den letzten Jahren auf nationaler, regionaler und weltweiter Ebene mit dem Ziel des Verbots, der Beschränkung oder der Aussetzung des Einsatzes, der Lagerung, der Herstellung und der Weitergabe von Streumunition unternommen worden sind;
 
-unter *Betonung* der Rolle des öffentlichen Gewissens bei der Förderung der Grundsätze der Menschlichkeit, erkennbar am weltweiten Ruf nach einem Ende des Leidens von Zivilpersonen, das durch Streumunition verursacht wird, und in *Ane**r**kennung* der diesbezüglichen Anstrengungen der Vereinten Nationen, des Internationalen Komitees vom Roten Kreuz, der Cluster Munition Coalition und zahlreicher anderer nichtstaatlicher Organisationen weltweit;
+unter *Betonung* der Rolle des öffentlichen Gewissens bei der Förderung der Grundsätze der Menschlichkeit, erkennbar am weltweiten Ruf nach einem Ende des Leidens von Zivilpersonen, das durch Streumunition verursacht wird, und in *Aner**kennung* der diesbezüglichen Anstrengungen der Vereinten Nationen, des Internationalen Komitees vom Roten Kreuz, der Cluster Munition Coalition und zahlreicher anderer nichtstaatlicher Organisationen weltweit;
 
 *in Bekräftigung* der Erklärung der Konferenz von Oslo über Streumunition, mit der Staaten unter anderem die durch den Einsatz von Streumunition verursachten schwerwiegenden Folgen anerkannten und sich dazu verpflichteten, bis 2008 eine rechtsverbindliche Übereinkunft zu schliessen, die den Einsatz, die Herstellung, die Weitergabe und die Lagerung von Streumunition, welche Zivilpersonen unannehmbaren Schaden zufügt, verbietet und einen Rahmen für Zusammenarbeit und Hilfe schafft, der eine ausreichende Fürsorge und Rehabilitation für die Opfer, die Räumung kontaminierter Gebiete, Aufklärung zur Gefahrenminderung und die Vernichtung von Beständen sicherstellt;
 
@@ -74,9 +68,9 @@ unter *Betonung* der Rolle des öffentlichen Gewissens bei der Förderung der Gr
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.515.092](https://fedlex.data.admin.ch/eli/cc/2003/431)
-[^ingress-2]: [SR 0.515.091.4](https://fedlex.data.admin.ch/eli/cc/2006/581)
-[^ingress-3]: [SR 0.515.091](https://fedlex.data.admin.ch/eli/cc/1983/1499_1499_1499)
+[^ingress-1]: [SR 0.515.092](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1935)
+[^ingress-2]: [SR 0.515.091.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1934)
+[^ingress-3]: [SR 0.515.091](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1930)
 
 #### Art. 1
 
@@ -465,7 +459,7 @@ Der arabische, der chinesische, der englische, der französische, der russische 
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 25. Februar 2021**[^t-2]**
+Geltungsbereich am 18. September 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -521,7 +515,6 @@ Geltungsbereich am 25. Februar 2021**[^t-2]**
 <tr><td>Lesotho</td><td>28. Mai</td><td>2010</td><td>1. November</td><td>2010</td></tr>
 <tr><td>Libanon</td><td>5. November</td><td>2010</td><td>1. Juni</td><td>2011</td></tr>
 <tr><td>Liechtenstein</td><td>4. März</td><td>2013</td><td>1. September</td><td>2013</td></tr>
-<tr><td>Litauen\*</td><td>24. März</td><td>2011</td><td>1. September</td><td>2011</td></tr>
 <tr><td>Luxemburg</td><td>10. Juli</td><td>2009</td><td>1. August</td><td>2010</td></tr>
 <tr><td>Madagaskar</td><td>20. Mai</td><td>2017</td><td>1. November</td><td>2017</td></tr>
 <tr><td>Malawi</td><td>7. Oktober</td><td>2009</td><td>1. August</td><td>2010</td></tr>
@@ -538,11 +531,13 @@ Geltungsbereich am 25. Februar 2021**[^t-2]**
 <tr><td>Namibia</td><td>31. August</td><td>2018</td><td>1. Februar</td><td>2019</td></tr>
 <tr><td>Nauru</td><td>4. Februar</td><td>2013</td><td>1. August</td><td>2013</td></tr>
 <tr><td>Neuseeland <sup>b</sup></td><td>22. Dezember</td><td>2009</td><td>1. August</td><td>2010</td></tr>
-<tr><td>Niue</td><td>6. August</td><td>2020 B</td><td>1. Februar</td><td>2021</td></tr>
 <tr><td>Nicaragua</td><td>2. November</td><td>2009</td><td>1. August</td><td>2010</td></tr>
 <tr><td>Niederlande</td><td>23. Februar</td><td>2011</td><td>1. August</td><td>2011</td></tr>
+<tr><td>Curaçao</td><td>20. September</td><td>2022</td><td>20. September</td><td>2022</td></tr>
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>23. Februar</td><td>2011</td><td>1. August</td><td>2011</td></tr>
 <tr><td>Niger</td><td>2. Juni</td><td>2009</td><td>1. August</td><td>2010</td></tr>
+<tr><td>Nigeria</td><td>28. Februar</td><td>2023</td><td>1. August</td><td>2023</td></tr>
+<tr><td>Niue</td><td>6. August</td><td>2020 B</td><td>1. Februar</td><td>2021</td></tr>
 <tr><td>Nordmazedonien</td><td>8. Oktober</td><td>2009</td><td>1. August</td><td>2010</td></tr>
 <tr><td>Norwegen\*</td><td>3. Dezember</td><td>2008</td><td>1. August</td><td>2010</td></tr>
 <tr><td>Österreich</td><td>2. April</td><td>2009</td><td>1. August</td><td>2010</td></tr>
@@ -572,6 +567,7 @@ Geltungsbereich am 25. Februar 2021**[^t-2]**
 <tr><td>St. Lucia</td><td>15. September</td><td>2020 B</td><td>1. März</td><td>2021</td></tr>
 <tr><td>St. Vincent und die Grenadinen</td><td>29. Oktober</td><td>2010</td><td>1. Mai</td><td>2011</td></tr>
 <tr><td>Südafrika</td><td>28. Mai</td><td>2015</td><td>1. November</td><td>2015</td></tr>
+<tr><td>Südsudan</td><td>3. August</td><td>2023 B</td><td>1. Februar</td><td>2024</td></tr>
 <tr><td>Togo</td><td>22. Juni</td><td>2012</td><td>1. Dezember</td><td>2012</td></tr>
 <tr><td>Trinidad und Tobago</td><td>21. September</td><td>2011 B</td><td>1. März</td><td>2012</td></tr>
 <tr><td>Tschad</td><td>26. März</td><td>2013</td><td>1. September</td><td>2013</td></tr>
@@ -581,10 +577,10 @@ Geltungsbereich am 25. Februar 2021**[^t-2]**
 <tr><td>Uruguay</td><td>24. September</td><td>2009</td><td>1. August</td><td>2010</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>4. Mai</td><td>2010</td><td>1. November</td><td>2010</td></tr>
 <tr><td>Insel Man</td><td>21. Februar</td><td>2014</td><td>21. Februar</td><td>2014</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für die Färöer. <sup>b</sup> Das Übereinkommen gilt nicht für Tokelau.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereinkommen gilt nicht für die Färöer. <sup>b</sup> Das Übereinkommen gilt nicht für Tokelau.</td></tr>
 </table>
 
-[^t-2]: [AS 2012 5385](https://fedlex.data.admin.ch/eli/oc/2012/617); [2013 2093](https://fedlex.data.admin.ch/eli/oc/2013/441); [2015 697](https://fedlex.data.admin.ch/eli/oc/2015/117), [3841](https://fedlex.data.admin.ch/eli/oc/2015/648); [2017 45](https://fedlex.data.admin.ch/eli/oc/2017/17); [2019 585](https://fedlex.data.admin.ch/eli/oc/2019/99); [2020 3479](https://fedlex.data.admin.ch/eli/oc/2020/603); [2021 125](https://fedlex.data.admin.ch/eli/oc/2021/125). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: https://fedlex.admin.ch/de/Treaty.
+[^t-2]: [AS 2012 5385](https://fedlex.data.admin.ch/eli/oc/2012/617); [2013 2093](https://fedlex.data.admin.ch/eli/oc/2013/441); [2015 697](https://fedlex.data.admin.ch/eli/oc/2015/117), [3841](https://fedlex.data.admin.ch/eli/oc/2015/648); [2017 45](https://fedlex.data.admin.ch/eli/oc/2017/17); [2019 585](https://fedlex.data.admin.ch/eli/oc/2019/99); [2020 3479](https://fedlex.data.admin.ch/eli/oc/2020/603); [2021 125](https://fedlex.data.admin.ch/eli/oc/2021/125); [2024 518](https://fedlex.data.admin.ch/eli/oc/2024/518). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)
 
 Erklärung
 

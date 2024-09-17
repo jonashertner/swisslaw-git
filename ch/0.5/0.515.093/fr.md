@@ -3,11 +3,11 @@ sr: "0.515.093"
 title: Convention du 30 mai 2008 sur les armes à sous-munitions
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/617"
 language: fr
-version: 2021-02-25
+version: 2024-09-18
 adopted: 2008-05-30
 in_force: 2013-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/617/20210225/fr/xml/fedlex-data-admin-ch-eli-cc-2012-617-20210225-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/617/20210225/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/617/20240918/fr/xml/fedlex-data-admin-ch-eli-cc-2012-617-20240918-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/617/20240918/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,15 +18,9 @@ RO **2012** 5385; FF **2011** 5495
 
 Texte original
 
-Conclue à Dublin le 30 mai 2008
+Conclue à Dublin le 30 mai 2008 Approuvée par l’Assemblée fédérale le 16 mars 2012[^t-1] Instrument de ratification déposé par la Suisse le 17 juillet 2012 Entrée en vigueur pour la Suisse le 1<sup>er</sup> janvier 2013
 
-Approuvée par l’Assemblée fédérale le 16 mars 2012[^t-1]
-
-Instrument de ratification déposé par la Suisse le 17 juillet 2012
-
-Entrée en vigueur pour la Suisse le 1<sup>er</sup> janvier 2013
-
-(Etat le 25 février 2021)
+(État le 18 septembre 2024)
 
 [^t-1]: [RO 2012 5383](https://fedlex.data.admin.ch/eli/oc/2012/616)
 
@@ -74,9 +68,9 @@ se fondant sur les principes et les règles du droit international humanitaire, 
 
 sont convenus de ce qui suit:
 
-[^ingress-1]: [RS 0.515.092](https://fedlex.data.admin.ch/eli/cc/2003/431)
-[^ingress-2]: [RS 0.515.091.4](https://fedlex.data.admin.ch/eli/cc/2006/581)
-[^ingress-3]: [RS 0.515.091](https://fedlex.data.admin.ch/eli/cc/1983/1499_1499_1499)
+[^ingress-1]: [RS 0.515.092](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1935)
+[^ingress-2]: [RS 0.515.091.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1934)
+[^ingress-3]: [RS 0.515.091](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1930)
 
 #### Art. 1
 
@@ -182,7 +176,7 @@ En remplissant les obligations énoncées au par. 1 du présent article, chaque 
 - (d) enlever et détruire tous les restes d’armes à sous-munitions se trouvant dans les zones sous sa juridiction ou son contrôle, et
 - (e) dispenser une éducation à la réduction des risques pour sensibiliser les civils vivant à l’intérieur ou autour des zones contaminées par les armes à sous-munitions aux dangers que représentent ces restes.
 
-<sup>3.</sup> Dans l’exercice des activités mentionnées dans le par. 2 du présent article, chaque État partie tiendra compte des normes internationales, notamment des Normes internationales de la lutte antimines (IMAS, *International Mine Action Sta**n**dards*).
+<sup>3.</sup> Dans l’exercice des activités mentionnées dans le par. 2 du présent article, chaque État partie tiendra compte des normes internationales, notamment des Normes internationales de la lutte antimines (IMAS, *International Mine Action Standards*).
 
 <sup>4.</sup> Le présent paragraphe s’applique dans les cas où les armes à sous-munitions ont été utilisées ou abandonnées par un État partie avant l’entrée en vigueur de la présente Convention pour cet État partie et sont devenues des restes d’armes à sous-munitions dans des zones situées sous la juridiction ou le contrôle d’un autre État partie au moment de l’entrée en vigueur de la présente Convention pour ce dernier.
 
@@ -460,7 +454,7 @@ Les textes de la présente Convention rédigés en anglais, arabe, chinois, espa
 
 (Suivent les signatures)
 
-Champ d’application le 25 février 2021**[^t-2]**
+Champ d’application le 18 septembre 2024[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -518,7 +512,6 @@ Champ d’application le 25 février 2021**[^t-2]**
 <tr><td>Lesotho</td><td>28 mai</td><td>2010</td><td>1<sup>er</sup> novembre</td><td>2010</td></tr>
 <tr><td>Liban</td><td>5 novembre</td><td>2010</td><td>1<sup>er</sup> juin</td><td>2011</td></tr>
 <tr><td>Liechtenstein</td><td>4 mars</td><td>2013</td><td>1<sup>er</sup> septembre</td><td>2013</td></tr>
-<tr><td>Lituanie\*</td><td>24 mars</td><td>2011</td><td>1<sup>er</sup> septembre</td><td>2011</td></tr>
 <tr><td>Luxembourg</td><td>10 juillet</td><td>2009</td><td>1<sup>er</sup> août</td><td>2010</td></tr>
 <tr><td>Macédoine du Nord</td><td>8 octobre</td><td>2009</td><td>1<sup>er</sup> août</td><td>2010</td></tr>
 <tr><td>Madagascar</td><td>20 mai</td><td>2017</td><td>1<sup>er</sup> novembre</td><td>2017</td></tr>
@@ -537,14 +530,16 @@ Champ d’application le 25 février 2021**[^t-2]**
 <tr><td>Nauru</td><td>4 février</td><td>2013</td><td>1<sup>er</sup> août</td><td>2013</td></tr>
 <tr><td>Nicaragua</td><td>2 novembre</td><td>2009</td><td>1<sup>er</sup> août</td><td>2010</td></tr>
 <tr><td>Niger</td><td>2 juin</td><td>2009</td><td>1<sup>er</sup> août</td><td>2010</td></tr>
+<tr><td>Nigéria</td><td>28 février</td><td>2023</td><td>1<sup>er</sup> août</td><td>2023</td></tr>
+<tr><td>Nioué</td><td>6 août</td><td>2020 A</td><td>1<sup>er</sup> février</td><td>2021</td></tr>
 <tr><td>Norvège\*</td><td>3 décembre</td><td>2008</td><td>1<sup>er</sup> août</td><td>2010</td></tr>
 <tr><td>Nouvelle-Zélande <sup>b</sup></td><td>22 décembre</td><td>2009</td><td>1<sup>er</sup> août</td><td>2010</td></tr>
-<tr><td>Nioué</td><td>6 août</td><td>2020 A</td><td>1<sup>er</sup> février</td><td>2021</td></tr>
 <tr><td>Palaos</td><td>19 avril</td><td>2016</td><td>1<sup>er</sup> octobre</td><td>2016</td></tr>
 <tr><td>Palestine</td><td>2 janvier</td><td>2015 A</td><td>1<sup>er</sup> juillet</td><td>2015</td></tr>
 <tr><td>Panama</td><td>29 novembre</td><td>2010</td><td>1<sup>er</sup> mai</td><td>2011</td></tr>
 <tr><td>Paraguay</td><td>12 mars</td><td>2015</td><td>1<sup>er</sup> septembre</td><td>2015</td></tr>
 <tr><td>Pays-Bas</td><td>23 février</td><td>2011</td><td>1<sup>er</sup> août</td><td>2011</td></tr>
+<tr><td>Curaçao</td><td>20 septembre</td><td>2022</td><td>20 septembre</td><td>2022</td></tr>
 <tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>23 février</td><td>2011</td><td>1<sup>er</sup> août</td><td>2011</td></tr>
 <tr><td>Pérou</td><td>26 septembre</td><td>2012</td><td>1<sup>er</sup> mars</td><td>2013</td></tr>
 <tr><td>Philippines</td><td>3 janvier</td><td>2019</td><td>1<sup>er</sup> juillet</td><td>2019</td></tr>
@@ -566,6 +561,7 @@ Champ d’application le 25 février 2021**[^t-2]**
 <tr><td>Slovaquie</td><td>24 juillet</td><td>2015 A</td><td>1<sup>er</sup> janvier</td><td>2016</td></tr>
 <tr><td>Slovénie</td><td>19 août</td><td>2009</td><td>1<sup>er</sup> août</td><td>2010</td></tr>
 <tr><td>Somalie</td><td>30 septembre</td><td>2015</td><td>1<sup>er</sup> mars</td><td>2016</td></tr>
+<tr><td>Soudan du Sud</td><td>3 août</td><td>2023 A</td><td>1<sup>er</sup> février</td><td>2024</td></tr>
 <tr><td>Sri Lanka</td><td>1<sup>er</sup> mars</td><td>2018 A</td><td>1<sup>er</sup> septembre</td><td>2018</td></tr>
 <tr><td>Suisse\*</td><td>17 juillet</td><td>2012</td><td>1<sup>er</sup> janvier</td><td>2013</td></tr>
 <tr><td>Suède</td><td>23 avril</td><td>2012</td><td>1<sup>er</sup> octobre</td><td>2012</td></tr>
@@ -576,10 +572,10 @@ Champ d’application le 25 février 2021**[^t-2]**
 <tr><td>Tunisie</td><td>28 septembre</td><td>2010</td><td>1<sup>er</sup> mars</td><td>2011</td></tr>
 <tr><td>Uruguay</td><td>24 septembre</td><td>2009</td><td>1<sup>er</sup> août</td><td>2010</td></tr>
 <tr><td>Zambie</td><td>12 août</td><td>2009</td><td>1<sup>er</sup> août</td><td>2010</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas aux Îles Féroé. <sup>b</sup> La Convention ne s’applique pas aux Tokélaou.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [http://treaties.un.org](http://treaties.un.org) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas aux Îles Féroé. <sup>b</sup> La Convention ne s’applique pas aux Tokélaou.</td></tr>
 </table>
 
-[^t-2]: [RO 2012 5385](https://fedlex.data.admin.ch/eli/oc/2012/617); [2013 2093](https://fedlex.data.admin.ch/eli/oc/2013/441); [2015 697](https://fedlex.data.admin.ch/eli/oc/2015/117)[3841](https://fedlex.data.admin.ch/eli/oc/2015/648); [2017 45](https://fedlex.data.admin.ch/eli/oc/2017/17); [2019 585](https://fedlex.data.admin.ch/eli/oc/2019/99); [2020 3479](https://fedlex.data.admin.ch/eli/oc/2020/603); [2021 125](https://fedlex.data.admin.ch/eli/oc/2021/125). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: https://fedlex.admin.ch/fr/Treaty.
+[^t-2]: [RO 2012 5385](https://fedlex.data.admin.ch/eli/oc/2012/617); [2013 2093](https://fedlex.data.admin.ch/eli/oc/2013/441); [2015 697](https://fedlex.data.admin.ch/eli/oc/2015/117), [3841](https://fedlex.data.admin.ch/eli/oc/2015/648); [2017 45](https://fedlex.data.admin.ch/eli/oc/2017/17); [2019 585](https://fedlex.data.admin.ch/eli/oc/2019/99); [2020 3479](https://fedlex.data.admin.ch/eli/oc/2020/603); [2021 125](https://fedlex.data.admin.ch/eli/oc/2021/125); [2024 518](https://fedlex.data.admin.ch/eli/oc/2024/518). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Déclaration
 
