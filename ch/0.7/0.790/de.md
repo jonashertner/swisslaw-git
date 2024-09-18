@@ -3,11 +3,11 @@ sr: "0.790"
 title: Vertrag vom 27. Januar 1967 über die Grundsätze zur Regelung der Tätigkeiten von Staaten bei der Erforschung und Nutzung des Weltraums einschliesslich des Mondes und anderer Himmelskörper
 eli: "https://fedlex.data.admin.ch/eli/cc/1970/87_90_90"
 language: de
-version: 2020-07-16
+version: 2024-09-19
 adopted: 1967-01-27
 in_force: 1969-12-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/87_90_90/20200716/de/xml/fedlex-data-admin-ch-eli-cc-1970-87_90_90-20200716-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1970/87_90_90/20200716/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/87_90_90/20240919/de/xml/fedlex-data-admin-ch-eli-cc-1970-87_90_90-20240919-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1970/87_90_90/20240919/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1970** 87; BBl **1969** I 857
 
 Abgeschlossen in Washington, Moskau und London am 27. Januar 1967 Unterzeichnet von der Schweiz am 27. Januar 1967 Von der Bundesversammlung genehmigt am 2. Oktober 1969[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 18. Dezember 1969 In Kraft getreten für die Schweiz am 18. Dezember 1969
 
-(Stand am 16. Juli 2020)
+(Stand am 19. September 2024)
 
 [^t-1]: [AS 1970 85](https://fedlex.data.admin.ch/eli/oc/1970/85_89_89)
 
@@ -144,12 +144,13 @@ Dieser Vertrag, dessen chinesischer, englischer, französischer, russischer und 
 
 *Zu Urkund dessen* haben die Unterzeichneten, hierzu gehörig befugt, diesen Vertrag unterschrieben. Geschehen zu London, Moskau und Washington am 27. Januar 1967 in drei Urschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 16. Juli 2020**[^t-2]**
+Geltungsbereich am 19. September 2024[^t-2]
 
 <table>
-<tr><th>Vertragsstaaten</th><th>Ratifikation[^t-3] Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation <sup>a</sup> Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Afghanistan</td><td>17. März</td><td>1988</td><td>17. März</td><td>1988</td></tr>
 <tr><td>Ägypten</td><td>10. Oktober</td><td>1967</td><td>10. Oktober</td><td>1967</td></tr>
+<tr><td>Algerien</td><td>27. Januar</td><td>1992 B</td><td>27. Januar</td><td>1992</td></tr>
 <tr><td>Antigua und Barbuda</td><td>26. Dezember</td><td>1988 N</td><td>1. November</td><td>1981</td></tr>
 <tr><td>Äquatorialguinea</td><td>16. Januar</td><td>1989 B</td><td>16. Januar</td><td>1989</td></tr>
 <tr><td>Argentinien</td><td>26. März</td><td>1969</td><td>26. März</td><td>1969</td></tr>
@@ -163,6 +164,7 @@ Geltungsbereich am 16. Juli 2020**[^t-2]**
 <tr><td>Belarus</td><td>31. Oktober</td><td>1967</td><td>31. Oktober</td><td>1967</td></tr>
 <tr><td>Belgien</td><td>30. März</td><td>1973</td><td>30. März</td><td>1973</td></tr>
 <tr><td>Benin</td><td>19. Juni</td><td>1986 B</td><td>19. Juni</td><td>1986</td></tr>
+<tr><td>Bosnien und Herzegowina</td><td>29. September</td><td>2020 B</td><td>29. September</td><td>2020</td></tr>
 <tr><td>Brasilien\*</td><td>5. März</td><td>1969</td><td>5. März</td><td>1969</td></tr>
 <tr><td>Bulgarien</td><td>28. März</td><td>1967</td><td>10. Oktober</td><td>1967</td></tr>
 <tr><td>Burkina Faso</td><td>18. Juni</td><td>1968</td><td>18. Juni</td><td>1968</td></tr>
@@ -184,8 +186,9 @@ Geltungsbereich am 16. Juli 2020**[^t-2]**
 <tr><td>Frankreich</td><td>5. August</td><td>1970</td><td>5. August</td><td>1970</td></tr>
 <tr><td>Gambia</td><td>2. Juni</td><td>1968</td><td>2. Juni</td><td>1968</td></tr>
 <tr><td>Griechenland</td><td>19. Januar</td><td>1971</td><td>19. Januar</td><td>1971</td></tr>
+<tr><td>Guinea-Bissau</td><td>20. August</td><td>1976 B</td><td>20. August</td><td>1976</td></tr>
 <tr><td>Indien</td><td>18. Januar</td><td>1982</td><td>18. Januar</td><td>1982</td></tr>
-<tr><td>Indonesien</td><td>27. Juni</td><td>1999</td><td>27. Juni</td><td>1999</td></tr>
+<tr><td>Indonesien</td><td>25. Juni</td><td>2002</td><td>25. Juni</td><td>2002</td></tr>
 <tr><td>Irak</td><td>4. Dezember</td><td>1968</td><td>4. Dezember</td><td>1968</td></tr>
 <tr><td>Iran</td><td>22. April</td><td>1968</td><td>21. Dezember</td><td>1970</td></tr>
 <tr><td>Irland</td><td>17. Juli</td><td>1968</td><td>17. Juli</td><td>1968</td></tr>
@@ -199,9 +202,12 @@ Geltungsbereich am 16. Juli 2020**[^t-2]**
 <tr><td>Kasachstan</td><td>11. Juli</td><td>1998 B</td><td>11. Juli</td><td>1998</td></tr>
 <tr><td>Katar</td><td>13. März</td><td>2012 B</td><td>13. März</td><td>2012</td></tr>
 <tr><td>Kenia</td><td>19. Januar</td><td>1984 B</td><td>19. Januar</td><td>1984</td></tr>
+<tr><td>Kolumbien\*</td><td>21. März</td><td>2024</td><td>21. März</td><td>2024</td></tr>
 <tr><td>Korea (Nord-)</td><td>5. März</td><td>2009 B</td><td>5. März</td><td>2009</td></tr>
 <tr><td>Korea (Süd-)</td><td>13. Oktober</td><td>1967</td><td>13. Oktober</td><td>1967</td></tr>
 <tr><td>Kuwait</td><td>7. Juni</td><td>1972 B</td><td>7. Juni</td><td>1972</td></tr>
+<tr><td>Kroatien</td><td>10. März</td><td>2023 B</td><td>10. März</td><td>2023</td></tr>
+<tr><td>Kuba\*</td><td>3. Juni</td><td>1977</td><td>3. Juni</td><td>1977</td></tr>
 <tr><td>Laos</td><td>27. November</td><td>1972</td><td>27. November</td><td>1972</td></tr>
 <tr><td>Libanon</td><td>31. März</td><td>1969</td><td>31. März</td><td>1969</td></tr>
 <tr><td>Libyen</td><td>3. Juli</td><td>1968 B</td><td>3. Juli</td><td>1968</td></tr>
@@ -226,8 +232,10 @@ Geltungsbereich am 16. Juli 2020**[^t-2]**
 <tr><td>Niger</td><td>17. April</td><td>1967</td><td>10. Oktober</td><td>1967</td></tr>
 <tr><td>Nigeria</td><td>14. November</td><td>1967 B</td><td>14. November</td><td>1967</td></tr>
 <tr><td>Norwegen</td><td>1. Juli</td><td>1969</td><td>1. Juli</td><td>1969</td></tr>
+<tr><td>Oman</td><td>4. Februar</td><td>2022 B</td><td>4. Februar</td><td>2022</td></tr>
 <tr><td>Österreich</td><td>26. Februar</td><td>1968</td><td>26. Februar</td><td>1968</td></tr>
 <tr><td>Pakistan</td><td>8. April</td><td>1968</td><td>8. April</td><td>1968</td></tr>
+<tr><td>Panama</td><td>9. August</td><td>2023</td><td>9. August</td><td>2023</td></tr>
 <tr><td>Papua-Neuguinea</td><td>27. Oktober</td><td>1980 N</td><td>16. September</td><td>1975</td></tr>
 <tr><td>Paraguay</td><td>22. Dezember</td><td>2016 B</td><td>22. Dezember</td><td>2016</td></tr>
 <tr><td>Peru</td><td>28. Februar</td><td>1979</td><td>28. Februar</td><td>1979</td></tr>
@@ -268,10 +276,10 @@ Geltungsbereich am 16. Juli 2020**[^t-2]**
 <tr><td>Gebiete unter territorialer Souveränität des Vereinigten Königreichs</td><td>10. Oktober</td><td>1967</td><td>10. Oktober</td><td>1967</td></tr>
 <tr><td>Vietnam</td><td>20. Juni</td><td>1980 B</td><td>20. Juni</td><td>1980</td></tr>
 <tr><td>Zypern</td><td>5. Juli</td><td>1972</td><td>5. Juli</td><td>1972</td></tr>
-<tr><td colspan="6">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Vom 10. Okt. 1967 bis zum 30. Juni 1997 war der Vertrag auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 3. Juni 1997 ist der Vertrag seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Auf Grund einer Erklärung der Volksrepublik China vom 9. Dez. 1999 ist der Vertrag seit dem 20. Dez. 1999 auf die Besondere Verwaltungsregion (SAR) Macau anwendbar.</td></tr>
+<tr><td colspan="6">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf den Internetseiten der Depositarregierungen, der Vereinigten Staaten von Amerika ([www.state.gov/outer-space-treaty](https://www.state.gov/outer-space-treaty)) und des Vereinigten Königreichs von Grossbritannien und Nordirland ([www.gov.uk/government/publications/treaty-on-principles-governing-the-activities-of-states-in-the-exploration-and-use-of-outer-space-including-the-moon-and-other-celestial-bodies-lond](https://www.gov.uk/government/publications/treaty-on-principles-governing-the-activities-of-states-in-the-exploration-and-use-of-outer-space-including-the-moon-and-other-celestial-bodies-lond)) eingesehen oder bei der Direktion für Völkerrecht (DV), Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5"><sup>a</sup> Die Ratifikations- oder Beitrittsurkunden oder die Nachfolgeerklärungen werden bei den Regierungen der Vereinigten Staaten, des Vereinigten Königreichs und der Russischen Föderation, sei es gleichzeitig oder zu verschiedenen Zeitpunkten oder nur bei einer oder mehreren dieser Regierungen, hinterlegt. Die in der Liste enthaltenen Daten betreffen die zuerst stattgefundene Hinterlegung.</td></tr>
+<tr><td colspan="5"><sup>b</sup> Vom 10. Okt. 1967 bis zum 30. Juni 1997 war der Vertrag auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 3. Juni 1997 ist der Vertrag seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar.</td></tr>
+<tr><td colspan="5"><sup>c</sup> Auf Grund einer Erklärung der Volksrepublik China vom 9. Dez. 1999 ist der Vertrag seit dem 20. Dez. 1999 auf die Besondere Verwaltungsregion (SAR) Macau anwendbar.</td></tr>
 </table>
 
-[^t-2]: [AS 1970 87](https://fedlex.data.admin.ch/eli/oc/1970/87_90_90), [1973 886](https://fedlex.data.admin.ch/eli/oc/1973/886_886_887), [1976 2863](https://fedlex.data.admin.ch/eli/oc/1976/2863_2863_2863), [1979 1563](https://fedlex.data.admin.ch/eli/oc/1979/1563_1563_1563), [1982 1736](https://fedlex.data.admin.ch/eli/oc/1982/1736_1736_1736), [1985 1691](https://fedlex.data.admin.ch/eli/oc/1985/1691_1691_1691), [1987 1217](https://fedlex.data.admin.ch/eli/oc/1987/1217_1217_1217), [1990 1994](https://fedlex.data.admin.ch/eli/oc/1990/1994_1994_1994), [2005 1663](https://fedlex.data.admin.ch/eli/oc/2005/266), [2010 601](https://fedlex.data.admin.ch/eli/oc/2010/93), [2018 31](https://fedlex.data.admin.ch/eli/oc/2018/14), [2020 3487](https://fedlex.data.admin.ch/eli/oc/2020/607). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
-[^t-3]: Die Ratifikations- oder Beitrittsurkunden oder die Nachfolgeerklärungen werden bei den Regierungen der Vereinigten Staaten, des Vereinigten Königreichs und der Russischen Föderation, sei es gleichzeitig oder zu verschiedenen Zeitpunkten oder nur bei einer oder mehreren dieser Regierungen, hinterlegt. Die in der Liste enthaltenen Daten betreffen die zuerst stattgefundene Hinterlegung.
+[^t-2]: [AS 1970 87](https://fedlex.data.admin.ch/eli/oc/1970/87_90_90); [1973 886](https://fedlex.data.admin.ch/eli/oc/1973/886_886_887); [1976 2863](https://fedlex.data.admin.ch/eli/oc/1976/2863_2863_2863); [1979 1563](https://fedlex.data.admin.ch/eli/oc/1979/1563_1563_1563); [1982 1736](https://fedlex.data.admin.ch/eli/oc/1982/1736_1736_1736); [1985 1691](https://fedlex.data.admin.ch/eli/oc/1985/1691_1691_1691); [1987 1217](https://fedlex.data.admin.ch/eli/oc/1987/1217_1217_1217); [1990 1994](https://fedlex.data.admin.ch/eli/oc/1990/1994_1994_1994); [2005 1663](https://fedlex.data.admin.ch/eli/oc/2005/266); [2010 601](https://fedlex.data.admin.ch/eli/oc/2010/93); [2018 31](https://fedlex.data.admin.ch/eli/oc/2018/14); [2020 3487](https://fedlex.data.admin.ch/eli/oc/2020/607); [2024 519](https://fedlex.data.admin.ch/eli/oc/2024/519). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty.](https://www.fedlex.admin.ch/de/treaty.)

@@ -3,11 +3,11 @@ sr: "0.790"
 title: "Trattato del 27 gennaio 1967 sulle norme per l'esplorazione e l'utilizzazione, da parte degli Stati, dello spazio extra-atmosferico, compresi la luna e gli altri corpi celesti"
 eli: "https://fedlex.data.admin.ch/eli/cc/1970/87_90_90"
 language: it
-version: 2020-07-16
+version: 2024-09-19
 adopted: 1967-01-27
 in_force: 1969-12-18
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/87_90_90/20200716/it/xml/fedlex-data-admin-ch-eli-cc-1970-87_90_90-20200716-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1970/87_90_90/20200716/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/87_90_90/20240919/it/xml/fedlex-data-admin-ch-eli-cc-1970-87_90_90-20240919-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1970/87_90_90/20240919/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conchiuso a Londra, Mosca e Washington il 27 gennaio 1967 Firmato dalla Svizzera il 27 gennaio 1967 Approvato dall’Assemblea federale il 2 ottobre 1969[^t-1] Strumento di ratificazione depositato dalla Svizzera il 18 dicembre 1969 Entrato in vigore per la Svizzera il 18 dicembre 1969
 
-(Stato 16 luglio 2020)
+(Stato 19 settembre 2024)
 
 [^t-1]: [RU 1970 89](https://fedlex.data.admin.ch/eli/oc/1970/85_89_89)
 
@@ -144,12 +144,13 @@ Il presente Trattato, i cui testi inglese, russo, spagnolo, francese e cinese fa
 
 *In fede di che,* i sottoscritti plenipotenziari, debitamente autorizzati dai loro Governi, hanno firmato il presente Trattato. *Fatto* a Londra, Mosca e Washington, il 27 gennaio 1967, in triplo esemplare. (Seguono le firme)
 
-Campo d’applicazione il 16 luglio 2020[^t-2]
+Campo d’applicazione il 19 settembre 2024[^t-2]
 
 <table>
-<tr><th>Stati partecipanti</th><th>Ratifica[^t-3] Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica<sup>a</sup> Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Afghanistan</td><td>17 marzo</td><td>1988</td><td>17 marzo</td><td>1988</td></tr>
 <tr><td>Agenzia spaziale europea (ESA)</td><td>25 giugno</td><td>1975</td><td>25 giugno</td><td>1975</td></tr>
+<tr><td>Algeria</td><td>27 gennaio</td><td>1992 A</td><td>27 gennaio</td><td>1992</td></tr>
 <tr><td>Antigua e Barbuda</td><td>26 dicembre</td><td>1988 S</td><td>1° novembre</td><td>1981</td></tr>
 <tr><td>Arabia Saudita</td><td>17 dicembre</td><td>1976 A</td><td>17 dicembre</td><td>1976</td></tr>
 <tr><td>Argentina</td><td>26 marzo</td><td>1969</td><td>26 marzo</td><td>1969</td></tr>
@@ -164,6 +165,7 @@ Campo d’applicazione il 16 luglio 2020[^t-2]
 <tr><td>Belarus</td><td>31 ottobre</td><td>1967</td><td>31 ottobre</td><td>1967</td></tr>
 <tr><td>Belgio</td><td>30 marzo</td><td>1973</td><td>30 marzo</td><td>1973</td></tr>
 <tr><td>Benin</td><td>19 giugno</td><td>1986 A</td><td>19 giugno</td><td>1986</td></tr>
+<tr><td>Bosnia ed Erzegovina</td><td>29 settembre</td><td>2020 A</td><td>29 settembre</td><td>2020</td></tr>
 <tr><td>Brasile<sup>\*</sup></td><td>5 marzo</td><td>1969</td><td>5 marzo</td><td>1969</td></tr>
 <tr><td>Bulgaria</td><td>28 marzo</td><td>1967</td><td>10 ottobre</td><td>1967</td></tr>
 <tr><td>Burkina Faso</td><td>18 giugno</td><td>1968</td><td>18 giugno</td><td>1968</td></tr>
@@ -171,19 +173,18 @@ Campo d’applicazione il 16 luglio 2020[^t-2]
 <tr><td>Ceca, Repubblica</td><td>15 settembre</td><td>1993 S</td><td>1° gennaio</td><td>1993</td></tr>
 <tr><td>Cile</td><td>8 ottobre</td><td>1981</td><td>8 ottobre</td><td>1981</td></tr>
 <tr><td>Cina</td><td></td><td></td><td></td><td></td></tr>
-<tr><td>Hong Kong <sup>a</sup></td><td>3 giugno</td><td>1997</td><td>1° luglio</td><td>1997</td></tr>
-<tr><td>Macao <sup>b</sup></td><td>20 dicembre</td><td>1999</td><td>20 dicembre</td><td>1999</td></tr>
+<tr><td>Hong Kong <sup>b</sup></td><td>3 giugno</td><td>1997</td><td>1° luglio</td><td>1997</td></tr>
+<tr><td>Macao <sup>c</sup></td><td>20 dicembre</td><td>1999</td><td>20 dicembre</td><td>1999</td></tr>
 <tr><td>Cipro</td><td>5 luglio</td><td>1972</td><td>5 luglio</td><td>1972</td></tr>
+<tr><td>Colombia\*</td><td>21 marzo</td><td>2024</td><td>21 marzo</td><td>2024</td></tr>
 <tr><td>Corea (Nord)</td><td>5 marzo</td><td>2009 A</td><td>5 marzo</td><td>2009</td></tr>
 <tr><td>Corea (Sud)</td><td>13 ottobre</td><td>1967</td><td>13 ottobre</td><td>1967</td></tr>
+<tr><td>Croazia</td><td>10 marzo</td><td>2023 A</td><td>10 marzo</td><td>2023</td></tr>
+<tr><td>Cuba\*</td><td>3 giugno</td><td>1977</td><td>3 giugno</td><td>1977</td></tr>
 <tr><td>Danimarca</td><td>10 ottobre</td><td>1967</td><td>10 ottobre</td><td>1967</td></tr>
 <tr><td>Dominicana, Repubblica</td><td>21 novembre</td><td>1968</td><td>21 novembre</td><td>1968</td></tr>
 <tr><td>Ecuador</td><td>7 marzo</td><td>1969</td><td>7 marzo</td><td>1969</td></tr>
 <tr><td>Egitto</td><td>10 ottobre</td><td>1967</td><td>10 ottobre</td><td>1967</td></tr>
-</table>
-
-<table>
-<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>El Salvador</td><td>15 gennaio</td><td>1969</td><td>15 gennaio</td><td>1969</td></tr>
 <tr><td>Emirati Arabi Uniti</td><td>4 ottobre</td><td>2000 A</td><td>4 ottobre</td><td>2000</td></tr>
 <tr><td>Estonia</td><td>19 aprile</td><td>2010 A</td><td>19 aprile</td><td>2010</td></tr>
@@ -197,9 +198,10 @@ Campo d’applicazione il 16 luglio 2020[^t-2]
 <tr><td>Giamaica</td><td>6 agosto</td><td>1970</td><td>6 agosto</td><td>1970</td></tr>
 <tr><td>Giappone</td><td>10 ottobre</td><td>1967</td><td>10 ottobre</td><td>1967</td></tr>
 <tr><td>Grecia</td><td>19 gennaio</td><td>1971</td><td>19 gennaio</td><td>1971</td></tr>
+<tr><td>Guinea-Bissau</td><td>20 agosto</td><td>1976 A</td><td>20 agosto</td><td>1976</td></tr>
 <tr><td>Guinea equatoriale</td><td>16 gennaio</td><td>1989 A</td><td>16 gennaio</td><td>1989</td></tr>
 <tr><td>India</td><td>18 gennaio</td><td>1982</td><td>18 gennaio</td><td>1982</td></tr>
-<tr><td>Indonesia</td><td>27 giugno</td><td>1999</td><td>27 giugno</td><td>1999</td></tr>
+<tr><td>Indonesia</td><td>25 giugno</td><td>2002</td><td>25 giugno</td><td>2002</td></tr>
 <tr><td>Iran</td><td>22 aprile</td><td>1968</td><td>21 dicembre</td><td>1970</td></tr>
 <tr><td>Iraq</td><td>4 dicembre</td><td>1968</td><td>4 dicembre</td><td>1968</td></tr>
 <tr><td>Irlanda</td><td>17 luglio</td><td>1968</td><td>17 luglio</td><td>1968</td></tr>
@@ -228,12 +230,14 @@ Campo d’applicazione il 16 luglio 2020[^t-2]
 <tr><td>Nigeria</td><td>14 novembre</td><td>1967 A</td><td>14 novembre</td><td>1967</td></tr>
 <tr><td>Norvegia</td><td>1° luglio</td><td>1969</td><td>1° luglio</td><td>1969</td></tr>
 <tr><td>Nuova Zelanda</td><td>31 maggio</td><td>1968</td><td>31 maggio</td><td>1968</td></tr>
+<tr><td>Oman</td><td>4 febbraio</td><td>2022 A</td><td>4 febbraio</td><td>2022</td></tr>
 <tr><td>Paesi Bassi</td><td>10 ottobre</td><td>1969</td><td>10 ottobre</td><td>1969</td></tr>
 <tr><td>Aruba</td><td>10 ottobre</td><td>1969</td><td>10 ottobre</td><td>1969</td></tr>
 <tr><td>Curaçao</td><td>10 ottobre</td><td>1969</td><td>10 ottobre</td><td>1969</td></tr>
 <tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>10 ottobre</td><td>1969</td><td>10 ottobre</td><td>1969</td></tr>
 <tr><td>Sint Maarten</td><td>10 ottobre</td><td>1969</td><td>10 ottobre</td><td>1969</td></tr>
 <tr><td>Pakistan</td><td>8 aprile</td><td>1968</td><td>8 aprile</td><td>1968</td></tr>
+<tr><td>Panama</td><td>9 agosto</td><td>2023</td><td>9 agosto</td><td>2023</td></tr>
 <tr><td>Papua Nuova Guinea</td><td>27 ottobre</td><td>1980 S</td><td>16 settembre</td><td>1975</td></tr>
 <tr><td>Paraguay</td><td>22 dicembre</td><td>2016 A</td><td>22 dicembre</td><td>2016</td></tr>
 <tr><td>Perù</td><td>28 febbraio</td><td>1979</td><td>28 febbraio</td><td>1979</td></tr>
@@ -272,10 +276,10 @@ Campo d’applicazione il 16 luglio 2020[^t-2]
 <tr><td>Vietnam</td><td>20 giugno</td><td>1980 A</td><td>20 giugno</td><td>1980</td></tr>
 <tr><td>Yemen</td><td>1° giugno</td><td>1979 A</td><td>1° giugno</td><td>1979</td></tr>
 <tr><td>Zambia</td><td>20 agosto</td><td>1973 A</td><td>20 agosto</td><td>1973</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Dal 10 ott. 1967 al 30 giu. 1997, il trattato era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Il 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 3 giu. 1997, il trattato è applicabile dal 1° lug. 1997 anche alla RAS Hong Kong.</td></tr>
-<tr><td colspan="5"><sup>b</sup> In virtù di una dichiarazione della Repubblica Popolare Cinese del 9 dic. 1999, il trattato è applicabile dal 20 dic. 1999 alla Regione amministrativa speciale (RAS) di Macao.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in inglese, può essere consultato sui siti Internet dei Governi depositari degli Stati Uniti d’America ([www.state.gov/outer-space-treaty](https://www.state.gov/outer-space-treaty)) e del Regno Unito di Gran Bretagna e Irlanda del Nord ([www.gov.uk/government/publications/treaty-on-principles-governing-the-activities-of-states-in-the-exploration-and-use-of-outer-space-including-the-moon-and-other-celestial-bodies-lond](https://www.gov.uk/government/publications/treaty-on-principles-governing-the-activities-of-states-in-the-exploration-and-use-of-outer-space-including-the-moon-and-other-celestial-bodies-lond)) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5"><sup>a</sup> Gli strumenti di ratifica o di adesione o le dichiarazioni di successione sono stati depositati presso i Governi degli Stati Uniti, del Regno Unito e della Federazione Russa, sia simultaneamente, sia in date diverse, sia presso uno, sia presso alcuni dei Governi precitati. Le date che figurano nell’elenco si riferiscono alla prima ratifica, adesione o dichiarazione di successione.</td></tr>
+<tr><td colspan="5"><sup>b</sup> Dal 10 ott. 1967 al 30 giu. 1997, il trattato era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Il 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 3 giu. 1997, il trattato è applicabile dal 1° lug. 1997 anche alla RAS Hong Kong.</td></tr>
+<tr><td colspan="5"><sup>c</sup> In virtù di una dichiarazione della Repubblica Popolare Cinese del 9 dic. 1999, il trattato è applicabile dal 20 dic. 1999 alla Regione amministrativa speciale (RAS) di Macao.</td></tr>
 </table>
 
-[^t-2]: [RU 1970 90](https://fedlex.data.admin.ch/eli/oc/1970/87_90_90), [1973 887](https://fedlex.data.admin.ch/eli/oc/1973/886_886_887), [1976 2863](https://fedlex.data.admin.ch/eli/oc/1976/2863_2863_2863), [1979 1563](https://fedlex.data.admin.ch/eli/oc/1979/1563_1563_1563), [1982 1736](https://fedlex.data.admin.ch/eli/oc/1982/1736_1736_1736), [1985 1691](https://fedlex.data.admin.ch/eli/oc/1985/1691_1691_1691), [1987 1217](https://fedlex.data.admin.ch/eli/oc/1987/1217_1217_1217), [1990 1994](https://fedlex.data.admin.ch/eli/oc/1990/1994_1994_1994), [2005 1663](https://fedlex.data.admin.ch/eli/oc/2005/266), [2010 601](https://fedlex.data.admin.ch/eli/oc/2010/93), [2018 31](https://fedlex.data.admin.ch/eli/oc/2018/14), [2020 3487](https://fedlex.data.admin.ch/eli/oc/2020/607). Una versione aggiornata del campo d’applicazione è pubblicata sul Sito Internet del DFAE (www.dfae.admin.ch/trattati)
-[^t-3]: Gli strumenti di ratifica o di adesione o le dichiarazioni di successione sono stati depositati presso i Governi degli Stati Uniti, del Regno Unito e della Federazione Russa, sia smultaneamente, sia in date diverse, sia presso uno, sia presso alcuni dei Governi precitati. Le date si riferiscono alla prima ratifica, adesione o dichiarazione di successione.
+[^t-2]: [RU 1970 90](https://fedlex.data.admin.ch/eli/oc/1970/87_90_90); [1973 887](https://fedlex.data.admin.ch/eli/oc/1973/886_886_887); [1976 2863](https://fedlex.data.admin.ch/eli/oc/1976/2863_2863_2863); [1979 1563](https://fedlex.data.admin.ch/eli/oc/1979/1563_1563_1563); [1982 1736](https://fedlex.data.admin.ch/eli/oc/1982/1736_1736_1736); [1985 1691](https://fedlex.data.admin.ch/eli/oc/1985/1691_1691_1691); [1987 1217](https://fedlex.data.admin.ch/eli/oc/1987/1217_1217_1217); [1990 1994](https://fedlex.data.admin.ch/eli/oc/1990/1994_1994_1994); [2005 1663](https://fedlex.data.admin.ch/eli/oc/2005/266); [2010 601](https://fedlex.data.admin.ch/eli/oc/2010/93); [2018 31](https://fedlex.data.admin.ch/eli/oc/2018/14); [2020 3487](https://fedlex.data.admin.ch/eli/oc/2020/607); [2024 519](https://fedlex.data.admin.ch/eli/oc/2024/519). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
