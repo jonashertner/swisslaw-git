@@ -4,13 +4,13 @@ number: "901"
 title: Gesundheitsgesetz
 short: GesG
 language: de
-version: 2024-07-01
-valid_until: 2024-09-22
-version_adopted: 2024-06-27
+version: 2024-09-23
+valid_until: 2026-03-31
+version_adopted: 2024-04-11
 adopted: 2008-02-21
 in_force: 2009-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/901"
-pdf: "https://bl.clex.ch/api/de/versions/4009/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4013/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://bl.clex.ch/api/de/versions/4009/pdf_file"
 
 (GesG)
 
-Vom 21.02.2008 (Stand 01.07.2024)
+Vom 21.02.2008 (Stand 23.09.2024)
 
 Der Landrat des Kantons Basel-Landschaft,
 
@@ -437,6 +437,34 @@ beschliesst:[^ingress-2]
 <sup>1</sup> Die Bewilligung zur fachlich eigenverantwortlichen Tätigkeit in weiteren Gesundheitsberufen, namentlich als Logopädin oder Logopäde, Medizinische Masseurin oder Masseur, Podologin oder Podologe, Dentalhygienikerin oder Dentalhygieniker, als Tierphysiotherapeutin oder Tierphysiotherapeut sowie als Tierosteopathin oder Tierosteopath wird an Personen erteilt, welche über einen gesamtschweizerisch anerkannten Berufsabschluss verfügen.
 
 <sup>2</sup> Der Regierungsrat kann für einzelne Berufe die fachlichen Voraussetzungen für die Erteilung der Bewilligung näher regeln und Bestimmungen über die Berufsausübung und Befugnisse erlassen.
+
+### 3.7 Zulassung von Leistungserbringern zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung
+
+#### § 35a
+
+**Zulassung**
+
+<sup>1</sup> Wer als Leistungserbringer im ambulanten Bereich zulasten der obligatorischen Krankenpflegeversicherung tätig sein will, bedarf einer Zulassung der Direktion und untersteht deren Aufsicht.
+
+<sup>2</sup> Die Voraussetzungen für die Erteilung der Zulassung richten sich nach dem Bundesrecht.
+
+<sup>3</sup> Die Zulassung kann mit Einschränkungen fachlicher, zeitlicher und räumlicher Art oder mit Auflagen oder Bedingungen verbunden werden, soweit dies für die Sicherung einer qualitativ hochstehenden, wirtschaftlichen und zweckmässigen Leistungserbringung erforderlich ist.
+
+<sup>4</sup> Ungenutzte Zulassungen verfallen nach 12 Monaten. Die Direktion entscheidet in begründeten Einzelfällen über Ausnahmen.
+
+<sup>5</sup> Der Regierungsrat regelt die Einzelheiten des Zulassungsverfahrens sowie die Meldepflichten der Inhaberinnen und Inhaber einer Zulassung. Er kann besondere Bestimmungen für Praxisübernahmen erlassen.
+
+#### § 35b
+
+**Beschränkung der Anzahl Ärztinnen und Ärzte, die im ambulanten Bereich Leistungen erbringen**
+
+<sup>1</sup> Der Regierungsrat legt in einem oder mehreren medizinischen Fachgebieten oder in bestimmten Regionen Höchstzahlen für Ärztinnen und Ärzte fest, die im ambulanten Bereich zulasten der obligatorischen Krankenpflegeversicherung Leistungen erbringen. Dabei strebt er eine bedarfsgerechte und wirtschaftliche Versorgung der Bevölkerung an und beachtet die Vorgaben des Bundesrechts.
+
+<sup>2</sup> Er kann die Möglichkeit vorsehen, dass die Direktion in Einzelfällen aufgrund der Versorgungssituation in einem Fachgebiet oder einer Region von den Höchstzahlen abweichen kann.
+
+<sup>3</sup> Er kann einen sofortigen Zulassungsstopp in einem bestimmten Fachgebiet anordnen, sofern die Voraussetzungen gemäss Art. 55a Abs. 6 KVG[^35b-1] erfüllt sind.
+
+[^35b-1]: [SR 832.10](https://db.clex.ch/link/Bund/832.10/de)
 
 #### § 35c
 
