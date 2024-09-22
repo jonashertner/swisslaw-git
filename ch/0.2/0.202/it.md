@@ -3,11 +3,11 @@ sr: "0.202"
 title: "Statuto organico dell'Istituto internazionale per l'unificazione del diritto privato, del 15 marzo 1940"
 eli: "https://fedlex.data.admin.ch/eli/cc/1964/471_466_467"
 language: it
-version: 2011-06-23
+version: 2024-09-23
 adopted: 1940-03-15
 in_force: 1940-04-21
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1964/471_466_467/20110623/it/xml/fedlex-data-admin-ch-eli-cc-1964-471_466_467-20110623-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1964/471_466_467/20110623/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1964/471_466_467/20240923/it/xml/fedlex-data-admin-ch-eli-cc-1964-471_466_467-20240923-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1964/471_466_467/20240923/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1964/471_466_467/20110623/it"
 
 RU **1964** 487; FF **1963** 1113
 
-Traduzione*[^t-1]*
+Traduzione
 
-Conchiuso a Roma il 15 marzo 1940 Approvato dall’Assemblea federale il 21 febbraio 1964[^t-2] Istrumento d’adesione depositato dalla Svizzera il 20 aprile 1940 Entrato in vigore per la Svizzera il 21 aprile 1940
+Conchiuso a Roma il 15 marzo 1940 Approvato dall’Assemblea federale il 21 febbraio 1964[^t-1] Istrumento d’adesione depositato dalla Svizzera il 20 aprile 1940 Entrato in vigore per la Svizzera il 21 aprile 1940
 
-(Stato 23 giugno 2011)
+(Stato 23 settembre 2024)
 
-[^t-1]: Il testo originale è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
-[^t-2]: [RU 1964 465](https://fedlex.data.admin.ch/eli/oc/1964/469_465_465)
+[^t-1]: [RU 1964 465](https://fedlex.data.admin.ch/eli/oc/1964/469_465_465)
 
 #### Art. 1
 
@@ -55,17 +54,12 @@ L’Istituto internazionale per l’Unificazione del diritto privato ha sede in 
 
 Gli organi dell’Istituto sono:
 
-1° l’Assemblea generale;
-
-2° il Presidente;
-
-3° il Consiglio di Direzione;
-
-4° il Comitato Permanente;
-
-5° il Tribunale amministrativo;
-
-6° la Segreteria.
+- [tab] 1° l’Assemblea generale;
+- [tab] 2° il Presidente;
+- [tab] 3° il Consiglio di Direzione;
+- [tab] 4° il Comitato Permanente;
+- [tab] 5° il Tribunale amministrativo;
+- [tab] 6° la Segreteria.
 
 #### Art. 5
 
@@ -267,7 +261,7 @@ Il presente Statuto entrerà in vigore non appena sei Governi almeno avranno not
 
 Il presente Statuto, che porterà la data del 15 marzo 1940, resterà depositato negli archivi del Governo italiano. Copia del testo certificata conforme sarà trasmessa, per cura del Governo italiano, a ciascun Governo partecipante.
 
-Campo d'applicazione il 23 giugno 2011**[^t-3]**
+Campo d'applicazione il 23 settembre 2024[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -308,6 +302,7 @@ Campo d'applicazione il 23 giugno 2011**[^t-3]**
 <tr><td>Lussemburgo</td><td>10 settembre</td><td>1973</td><td>10 settembre</td><td>1973</td></tr>
 <tr><td>Malta</td><td>27 settembre</td><td>1993</td><td>27 settembre</td><td>1993</td></tr>
 <tr><td>Messico</td><td>6 maggio</td><td>1940</td><td>6 maggio</td><td>1940</td></tr>
+<tr><td>Mongolia</td><td>21 aprile</td><td>2023 A</td><td>21 aprile</td><td>2023</td></tr>
 <tr><td>Nicaragua</td><td>20 aprile</td><td>1940</td><td>21 aprile</td><td>1940</td></tr>
 <tr><td>Nigeria</td><td>29 ottobre</td><td>1964</td><td>29 ottobre</td><td>1964</td></tr>
 <tr><td>Norvegia</td><td>16 luglio</td><td>1951</td><td>16 luglio</td><td>1951</td></tr>
@@ -322,6 +317,7 @@ Campo d'applicazione il 23 giugno 2011**[^t-3]**
 <tr><td>San Marino</td><td>4 febbraio</td><td>1945</td><td>4 febbraio</td><td>1945</td></tr>
 <tr><td>Santa Sede</td><td>19 aprile</td><td>1945</td><td>19 aprile</td><td>1945</td></tr>
 <tr><td>Serbia</td><td>13 aprile</td><td>2001</td><td>13 aprile</td><td>2001</td></tr>
+<tr><td>Singapore</td><td>1° marzo</td><td>2023 A</td><td>1° marzo</td><td>2023</td></tr>
 <tr><td>Slovacchia</td><td>13 gennaio</td><td>1993</td><td>13 gennaio</td><td>1993</td></tr>
 <tr><td>Slovenia</td><td>30 gennaio</td><td>1995</td><td>30 gennaio</td><td>1995</td></tr>
 <tr><td>Spagna</td><td>13 aprile</td><td>1940</td><td>21 aprile</td><td>1940</td></tr>
@@ -336,4 +332,4 @@ Campo d'applicazione il 23 giugno 2011**[^t-3]**
 <tr><td>Venezuela</td><td>15 maggio</td><td>1940</td><td>15 maggio</td><td>1940</td></tr>
 </table>
 
-[^t-3]: RU **1977** 287, [1982 1547](https://fedlex.data.admin.ch/eli/oc/1982/1547_1547_1547), [1986 473](https://fedlex.data.admin.ch/eli/oc/1986/473_473_473), [2002 453](https://fedlex.data.admin.ch/eli/oc/2002/100), [2007 3471](https://fedlex.data.admin.ch/eli/oc/2007/428)e [2011 3295](https://fedlex.data.admin.ch/eli/oc/2011/436). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (http://www.dfae.admin.ch/trattati).
+[^t-2]: RU **1977** 287; [1982 1547](https://fedlex.data.admin.ch/eli/oc/1982/1547_1547_1547); [1986 473](https://fedlex.data.admin.ch/eli/oc/1986/473_473_473); [2002 453](https://fedlex.data.admin.ch/eli/oc/2002/100); [2007 3471](https://fedlex.data.admin.ch/eli/oc/2007/428); [2011 3295](https://fedlex.data.admin.ch/eli/oc/2011/436); [2024 520](https://fedlex.data.admin.ch/eli/oc/2024/520). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)

@@ -3,11 +3,11 @@ sr: "0.202"
 title: Grundstatut des Internationalen Instituts für die Vereinheitlichung des Privatrechts vom 15. März 1940
 eli: "https://fedlex.data.admin.ch/eli/cc/1964/471_466_467"
 language: de
-version: 2011-06-23
+version: 2024-09-23
 adopted: 1940-03-15
 in_force: 1940-04-21
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1964/471_466_467/20110623/de/xml/fedlex-data-admin-ch-eli-cc-1964-471_466_467-20110623-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1964/471_466_467/20110623/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1964/471_466_467/20240923/de/xml/fedlex-data-admin-ch-eli-cc-1964-471_466_467-20240923-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1964/471_466_467/20240923/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1964** 471; BBl **1963** II 369
 
 Abgeschlossen in Rom am 15. März 1940 Von der Bundesversammlung genehmigt am 21. Februar 1964[^t-1] Schweizerische Beitrittsurkunde hinterlegt am 20. April 1940 In Kraft getreten für die Schweiz am 21. April 1940
 
-(Stand am 23. Juni 2011)
+(Stand am 23. September 2024)
 
 [^t-1]: [AS 1964 469](https://fedlex.data.admin.ch/eli/oc/1964/469_465_465)
 
@@ -28,7 +28,7 @@ Abgeschlossen in Rom am 15. März 1940 Von der Bundesversammlung genehmigt am 21
 
 Das Internationale Institut für die Vereinheitlichung des Privatrechts hat zum Zweck, die Mittel zur Angleichung und Koordination des Privatrechts der Staaten oder der Staatengruppen zu studieren und stufenweise die Annahme einer einheitlichen Privatrechtsgesetzgebung durch die verschiedenen Staaten vorzubereiten.
 
-Das Institut erstrebt diesen Zweck, indem es
+Das Institut erstrebt diesen Zweck, indem es:
 
 - a. Entwürfe zu Gesetzen oder Abkommen für die Begründung eines einheitlichen innerstaatlichen Rechts vorbereitet;
 - b. Entwürfe zu Abkommen vorbereitet, um die internationalen Beziehungen auf dem Gebiet des Privatrechts zu erleichtern;
@@ -261,7 +261,7 @@ Das vorliegende Statut tritt in Kraft, sobald mindestens sechs Regierungen ihren
 
 Das vorliegende Statut, welches das Datum vom 15. März 1940 trägt, bleibt in den Archiven der italienischen Regierung niedergelegt. Eine beglaubigte Abschrift des Wortlautes wird durch Vermittlung der italienischen Regierung jeder beteiligten Regierung zugestellt.
 
-Geltungsbereich am 23. Juni 2011**[^t-2]**
+Geltungsbereich am 23. September 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -299,6 +299,7 @@ Geltungsbereich am 23. Juni 2011**[^t-2]**
 <tr><td>Luxemburg</td><td>10. September</td><td>1973</td><td>10. September</td><td>1973</td></tr>
 <tr><td>Malta</td><td>27. September</td><td>1993</td><td>27. September</td><td>1993</td></tr>
 <tr><td>Mexiko</td><td>6. Mai</td><td>1940</td><td>6. Mai</td><td>1940</td></tr>
+<tr><td>Mongolei</td><td>21. April</td><td>2023 B</td><td>21. April</td><td>2023</td></tr>
 <tr><td>Nicaragua</td><td>20. April</td><td>1940</td><td>21. April</td><td>1940</td></tr>
 <tr><td>Niederlande</td><td>14. April</td><td>1940</td><td>21. April</td><td>1940</td></tr>
 <tr><td>Nigeria</td><td>29. Oktober</td><td>1964</td><td>29. Oktober</td><td>1964</td></tr>
@@ -315,6 +316,7 @@ Geltungsbereich am 23. Juni 2011**[^t-2]**
 <tr><td>Schweden</td><td>12. April</td><td>1940</td><td>21. April</td><td>1940</td></tr>
 <tr><td>Schweiz</td><td>20. April</td><td>1940</td><td>21. April</td><td>1940</td></tr>
 <tr><td>Serbien</td><td>13. April</td><td>2001</td><td>13. April</td><td>2001</td></tr>
+<tr><td>Singapur</td><td>1. März</td><td>2023 B</td><td>1. März</td><td>2023</td></tr>
 <tr><td>Slowakei</td><td>13. Januar</td><td>1993</td><td>13. Januar</td><td>1993</td></tr>
 <tr><td>Slowenien</td><td>30. Januar</td><td>1995</td><td>30. Januar</td><td>1995</td></tr>
 <tr><td>Spanien</td><td>13. April</td><td>1940</td><td>21. April</td><td>1940</td></tr>
@@ -330,4 +332,4 @@ Geltungsbereich am 23. Juni 2011**[^t-2]**
 <tr><td>Zypern</td><td>1. Januar</td><td>1999</td><td>1. Januar</td><td>1999</td></tr>
 </table>
 
-[^t-2]: AS **1977** 287, [1982 1547](https://fedlex.data.admin.ch/eli/oc/1982/1547_1547_1547), [1986 473](https://fedlex.data.admin.ch/eli/oc/1986/473_473_473), [2002 453](https://fedlex.data.admin.ch/eli/oc/2002/100), [2007 3471](https://fedlex.data.admin.ch/eli/oc/2007/428)und [2011 3295](https://fedlex.data.admin.ch/eli/oc/2011/436). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: AS **1977** 287; [1982 1547](https://fedlex.data.admin.ch/eli/oc/1982/1547_1547_1547); [1986 473](https://fedlex.data.admin.ch/eli/oc/1986/473_473_473); [2002 453](https://fedlex.data.admin.ch/eli/oc/2002/100); [2007 3471](https://fedlex.data.admin.ch/eli/oc/2007/428); [2011 3295](https://fedlex.data.admin.ch/eli/oc/2011/436); [2024 520](https://fedlex.data.admin.ch/eli/oc/2024/520). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

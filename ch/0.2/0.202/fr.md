@@ -3,32 +3,32 @@ sr: "0.202"
 title: "Statut organique de l'Institut international pour l'Unification du droit privé, du 15 mars 1940"
 eli: "https://fedlex.data.admin.ch/eli/cc/1964/471_466_467"
 language: fr
-version: 2011-06-23
+version: 2024-09-23
 adopted: 1940-03-15
 in_force: 1940-04-21
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1964/471_466_467/20110623/fr/xml/fedlex-data-admin-ch-eli-cc-1964-471_466_467-20110623-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1964/471_466_467/20110623/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1964/471_466_467/20240923/fr/xml/fedlex-data-admin-ch-eli-cc-1964-471_466_467-20240923-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1964/471_466_467/20240923/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Statut organique de l’Institut international pour l’unification du droit privé, du 15 mars 1940
 
-RO **1964** 466 ; FF **1963** II 349
+RO **1964** 466; FF **1963** II 349
 
 Texte original
 
-Conclu a Rome le 15 mars 1940 Approuvé par l’Assemblée fédérale le 21 février 1964[^t-1] Instrument d'adhésion déposé par la Suisse le 20 avril 1940 Entré en vigueur pour la Suisse le 21 avril 1940
+Conclu a Rome le 15 mars 1940 Approuvé par l’Assemblée fédérale le 21 février 1964[^t-1] Instrument d’adhésion déposé par la Suisse le 20 avril 1940 Entré en vigueur pour la Suisse le 21 avril 1940
 
-(Etat le 23 juin 2011)
+(État le 23 septembre 2024)
 
 [^t-1]: [RO 1964 465](https://fedlex.data.admin.ch/eli/oc/1964/469_465_465)
 
 #### Art. 1
 
-L’Institut international pour l’Unification du droit privé a pour objet d’étudier les moyens d’harmoniser et de coordonner le droit privé entre les Etats ou entre les groupes d’Etats et de préparer graduellement l’adoption par les divers Etats d’une législation de droit privé uniforme.
+L’Institut international pour l’Unification du droit privé a pour objet d’étudier les moyens d’harmoniser et de coordonner le droit privé entre les États ou entre les groupes d’États et de préparer graduellement l’adoption par les divers États d’une législation de droit privé uniforme.
 
-A cette fin l’Institut:
+À cette fin l’Institut:
 
 - a*.* Prépare des projets de lois ou de conventions visant à établir un droit interne uniforme;
 - b*.* Prépare des projets d’accords en vue de faciliter les rapports internationaux en matière de droit privé;
@@ -189,9 +189,9 @@ Le pouvoir exécutif sera exercé par le Conseil de Direction.
 
 [^16-1]
 
-1.[^16-2] Les dépenses annuelles relatives au fonctionnement et à l’entretien de l’Institut seront couvertes par les recettes inscrites au budget de l’Institut, qui comprendront notamment la contribution ordinaire de base du Gouvernement italien promoteur, telle qu’approuvée par le Parlement italien, et que ledit Gouvernement déclare fixer à compter de l’année 1985 à la somme de 300 millions de lires italiennes par an, laquelle pourra être révisée à l’expiration de chaque période triennale par la loi d’approbation du budget de l’Etat italien, ainsi que les contributions ordinaires annuelles des autres Gouvernements participants.
+1.[^16-2] Les dépenses annuelles relatives au fonctionnement et à l’entretien de l’Institut seront couvertes par les recettes inscrites au budget de l’Institut, qui comprendront notamment la contribution ordinaire de base du Gouvernement italien promoteur, telle qu’approuvée par le Parlement italien, et que ledit Gouvernement déclare fixer à compter de l’année 1985 à la somme de 300 millions de lires italiennes par an, laquelle pourra être révisée à l’expiration de chaque période triennale par la loi d’approbation du budget de l’État italien, ainsi que les contributions ordinaires annuelles des autres Gouvernements participants.
 
-<sup>2.</sup> Aux fins de la répartition de la quote-part des dépenses annuelles non couvertes par la contribution ordinaire du Gouvernement italien ou par des recettes provenant d’autres sources, entre les autres Gouvernements participants, ces derniers seront divisés en catégories. A chaque catégorie correspondra un certain nombre d’unités.
+<sup>2.</sup> Aux fins de la répartition de la quote-part des dépenses annuelles non couvertes par la contribution ordinaire du Gouvernement italien ou par des recettes provenant d’autres sources, entre les autres Gouvernements participants, ces derniers seront divisés en catégories. À chaque catégorie correspondra un certain nombre d’unités.
 
 <sup>3.</sup> Le nombre des catégories, le nombre d’unités correspondant à chaque catégorie, le montant de chaque unité, ainsi que le classement de chaque Gouvernement dans une catégorie seront fixés par une résolution de l’Assemblée générale prise à la majorité des deux tiers des membres présents et votants, sur proposition d’une Commission nommée par l’Assemblée. Dans ce classement, l’Assemblée tiendra compte, parmi d’autres considérations, du revenu national du pays représenté.
 
@@ -260,10 +260,10 @@ Le présent Statut entrera en vigueur dès que six Gouvernements au moins auront
 
 Le présent Statut, qui portera la date du 15 mars 1940, restera déposé dans les archives du Gouvernement italien. Copie certifiée conforme du texte sera remise, par les soins du Gouvernement italien, à chacun des Gouvernements participants.
 
-Champ d'application le 23 juin 2011**[^t-2]**
+Champ d’application le 23 septembre 2024[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afrique du Sud</td><td>27 avril</td><td>1971</td><td>27 avril</td><td>1971</td></tr>
 <tr><td>Allemagne</td><td>9 février</td><td>1973</td><td>9 février</td><td>1973</td></tr>
 <tr><td>Arabie Saoudite</td><td>29 août</td><td>2008 A</td><td>29 août</td><td>2008</td></tr>
@@ -283,10 +283,10 @@ Champ d'application le 23 juin 2011**[^t-2]**
 <tr><td>Croatie</td><td>1<sup>er</sup> janvier</td><td>1996</td><td>1<sup>er</sup> janvier</td><td>1996</td></tr>
 <tr><td>Cuba</td><td>14 octobre</td><td>1940</td><td>14 octobre</td><td>1940</td></tr>
 <tr><td>Danemark</td><td>5 juin</td><td>1940</td><td>5 juin</td><td>1940</td></tr>
-<tr><td>Egypte</td><td>25 décembre</td><td>1951</td><td>25 décembre</td><td>1951</td></tr>
+<tr><td>Égypte</td><td>25 décembre</td><td>1951</td><td>25 décembre</td><td>1951</td></tr>
 <tr><td>Espagne</td><td>13 avril</td><td>1940</td><td>21 avril</td><td>1940</td></tr>
 <tr><td>Estonie</td><td>10 décembre</td><td>2001</td><td>10 décembre</td><td>2001</td></tr>
-<tr><td>Etats-Unis</td><td>13 mars</td><td>1964</td><td>13 mars</td><td>1964</td></tr>
+<tr><td>États-Unis</td><td>13 mars</td><td>1964</td><td>13 mars</td><td>1964</td></tr>
 <tr><td>Finlande</td><td>5 mai</td><td>1940</td><td>5 mai</td><td>1940</td></tr>
 <tr><td>France</td><td>3 août</td><td>1948</td><td>3 août</td><td>1948</td></tr>
 <tr><td>Grèce</td><td>20 avril</td><td>1940</td><td>21 avril</td><td>1940</td></tr>
@@ -304,6 +304,7 @@ Champ d'application le 23 juin 2011**[^t-2]**
 <tr><td>Luxembourg</td><td>10 septembre</td><td>1973</td><td>10 septembre</td><td>1973</td></tr>
 <tr><td>Malte</td><td>27 septembre</td><td>1993</td><td>27 septembre</td><td>1993</td></tr>
 <tr><td>Mexique</td><td>6 mai</td><td>1940</td><td>6 mai</td><td>1940</td></tr>
+<tr><td>Mongolie</td><td>21 avril</td><td>2023 A</td><td>21 avril</td><td>2023</td></tr>
 <tr><td>Nicaragua</td><td>20 avril</td><td>1940</td><td>21 avril</td><td>1940</td></tr>
 <tr><td>Nigéria</td><td>29 octobre</td><td>1964</td><td>29 octobre</td><td>1964</td></tr>
 <tr><td>Norvège</td><td>16 juillet</td><td>1951</td><td>16 juillet</td><td>1951</td></tr>
@@ -315,10 +316,11 @@ Champ d'application le 23 juin 2011**[^t-2]**
 <tr><td>République tchèque</td><td>12 décembre</td><td>1992</td><td>12 décembre</td><td>1992</td></tr>
 <tr><td>Roumanie</td><td>20 avril</td><td>1940</td><td>21 avril</td><td>1940</td></tr>
 <tr><td>Royaume-Uni</td><td>24 septembre</td><td>1948</td><td>24 septembre</td><td>1948</td></tr>
-<tr><td>Russie</td><td></td><td></td><td>1<sup>er</sup> janvier</td><td>1990</td></tr>
+<tr><td>Russie</td><td>1<sup>er</sup> janvier</td><td>1990</td><td>1<sup>er</sup> janvier</td><td>1990</td></tr>
 <tr><td>Saint-Marin</td><td>4 février</td><td>1945</td><td>4 février</td><td>1945</td></tr>
 <tr><td>Saint-Siège</td><td>19 avril</td><td>1945</td><td>19 avril</td><td>1945</td></tr>
 <tr><td>Serbie</td><td>13 avril</td><td>2001</td><td>13 avril</td><td>2001</td></tr>
+<tr><td>Singapour</td><td>1<sup>er</sup> mars</td><td>2023 A</td><td>1<sup>er</sup> mars</td><td>2023</td></tr>
 <tr><td>Slovaquie</td><td>13 janvier</td><td>1993</td><td>13 janvier</td><td>1993</td></tr>
 <tr><td>Slovénie</td><td>30 janvier</td><td>1995</td><td>30 janvier</td><td>1995</td></tr>
 <tr><td>Suède</td><td>12 avril</td><td>1940</td><td>21 avril</td><td>1940</td></tr>
@@ -329,4 +331,4 @@ Champ d'application le 23 juin 2011**[^t-2]**
 <tr><td>Venezuela</td><td>15 mai</td><td>1940</td><td>15 mai</td><td>1940</td></tr>
 </table>
 
-[^t-2]: RO **1977** 287, [1982 1547](https://fedlex.data.admin.ch/eli/oc/1982/1547_1547_1547), [1986 473](https://fedlex.data.admin.ch/eli/oc/1986/473_473_473), [2002 453](https://fedlex.data.admin.ch/eli/oc/2002/100), [2007 3471](https://fedlex.data.admin.ch/eli/oc/2007/428)et **2011** 3295. Une version du champ d’application mise à jour est publiée sur le site web du DFAE (http://www.dfae.admin.ch/traites).
+[^t-2]: [RO 1977 286](https://fedlex.data.admin.ch/eli/oc/1977/286_286_286); [1982 1547](https://fedlex.data.admin.ch/eli/oc/1982/1547_1547_1547); [1986 473](https://fedlex.data.admin.ch/eli/oc/1986/473_473_473); [2002 453](https://fedlex.data.admin.ch/eli/oc/2002/100); [2007 3471](https://fedlex.data.admin.ch/eli/oc/2007/428); [2011 3295](https://fedlex.data.admin.ch/eli/oc/2011/436); [2024 520](https://fedlex.data.admin.ch/eli/oc/2024/520). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
