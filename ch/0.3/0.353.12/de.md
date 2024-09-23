@@ -3,11 +3,11 @@ sr: "0.353.12"
 title: Zweites Zusatzprotokoll vom 17. März 1978 zum Europäischen Auslieferungsübereinkommen
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/724_724_724"
 language: de
-version: 2020-09-15
+version: 2024-09-24
 adopted: 1978-03-17
 in_force: 1985-06-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/724_724_724/20200915/de/xml/fedlex-data-admin-ch-eli-cc-1985-724_724_724-20200915-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/724_724_724/20200915/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/724_724_724/20240924/de/xml/fedlex-data-admin-ch-eli-cc-1985-724_724_724-20240924-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/724_724_724/20240924/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1985** 724; BBl **1983** IV 129
 
 Abgeschlossen in Strassburg am 17. März 1978 Von der Bundesversammlung genehmigt am 13. Dezember 1984[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 11. März 1985 In Kraft getreten für die Schweiz am 9. Juni 1985
 
-(Stand am 15. September 2020)
+(Stand am 24. September 2024)
 
 [^t-1]: Art. 1 Abs. 1 Bst. b des BB vom 13. Dez. 1984 ([AS 1985 712](https://fedlex.data.admin.ch/eli/oc/1985/712_712_712))
 
@@ -114,7 +114,9 @@ Artikel 12 Absatz 1 des Übereinkommens wird durch folgende Bestimmungen ersetzt
 
 <sup>1.</sup> Die von einem Staat zu einer Bestimmung des Übereinkommens angebrachten Vorbehalte finden auch auf dieses Protokoll Anwendung, sofern dieser Staat bei der Unterzeichnung oder bei der Hinterlegung seiner Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde keine anderslautende Absicht zum Ausdruck bringt.
 
-<sup>2.</sup> Jeder Staat kann bei der Unterzeichnung oder bei der Hinterlegung seiner Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde erklären, dass er sich das Recht vorbehält,
+<sup>2.</sup>
+
+Jeder Staat kann bei der Unterzeichnung oder bei der Hinterlegung seiner Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde erklären, dass er sich das Recht vorbehält:
 
 - a. Kapitel I nicht anzunehmen;
 - b. Kapitel II nicht oder nur hinsichtlich bestimmter in Artikel 2 bezeichneter strafbarer Handlungen oder Kategorien von strafbaren Handlungen anzunehmen;
@@ -142,7 +144,7 @@ Das Europäische Komitee für Strafrechtsfragen des Europarats wird die Durchfü
 
 #### Art. 12
 
-Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Rates und jedem Staat, der dem Übereinkommen beigetreten ist,
+Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Rates und jedem Staat, der dem Übereinkommen beigetreten ist:
 
 - a. jede Unterzeichnung dieses Protokolls;
 - b. jede Hinterlegung einer Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde;
@@ -155,7 +157,7 @@ Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Rates un
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Protokoll unterschrieben. Geschehen zu Strassburg am 17. März 1978 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarats hinterlegt wird. Der Generalsekretär des Europarats übermittelt allen Unterzeichnerstaaten und allen beitretenden Staaten beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 15. September 2020**[^t-2]**
+Geltungsbereich am 24. September 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolge- erklärung (N)</th><th></th><th>Inkrafttreten</th><th colspan="2"></th></tr>
@@ -169,6 +171,7 @@ Geltungsbereich am 15. September 2020**[^t-2]**
 <tr><td>Deutschland</td><td>8. März</td><td>1991</td><td>6. Juni</td><td colspan="2">1991</td></tr>
 <tr><td>Estland</td><td>28. April</td><td>1997</td><td>27. Juli</td><td colspan="2">1997</td></tr>
 <tr><td>Finnland</td><td>30. Januar</td><td>1985 B</td><td>30. April</td><td colspan="2">1985</td></tr>
+<tr><td>Frankreich\*</td><td>10. Juni</td><td>2021</td><td>8. September</td><td>2021</td></tr>
 <tr><td>Georgien\*</td><td>15. Juni</td><td>2001</td><td>13. September</td><td colspan="2">2001</td></tr>
 <tr><td>Irland<sup>\*</sup></td><td>22. März</td><td>2019</td><td>21. Juni</td><td colspan="2">2019</td></tr>
 <tr><td>Island</td><td>20. Juni</td><td>1984</td><td>18. September</td><td colspan="2">1984</td></tr>
@@ -209,15 +212,14 @@ Geltungsbereich am 15. September 2020**[^t-2]**
 <tr><td>Guernsey\*</td><td>25. April</td><td>2003</td><td>25. April</td><td colspan="2">2003</td></tr>
 <tr><td>Insel Man\*</td><td>25. April</td><td>2003</td><td>25. April</td><td colspan="2">2003</td></tr>
 <tr><td>Zypern</td><td>13. April</td><td>1984</td><td>12. Juli</td><td colspan="2">1984</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen.</td></tr>
-<tr><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarates: www.coe.int &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarats: [http://conventions.coe.int](http://conventions.coe.int) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 1985 724](https://fedlex.data.admin.ch/eli/oc/1985/724_724_724), [1987 774](https://fedlex.data.admin.ch/eli/oc/1987/774_774_774), [1990 1174](https://fedlex.data.admin.ch/eli/oc/1990/1174_1174_1174), [1995 1123](https://fedlex.data.admin.ch/eli/oc/1995/1123_1123_1123), [2004 4985](https://fedlex.data.admin.ch/eli/oc/2004/756), [2007 1387](https://fedlex.data.admin.ch/eli/oc/2007/237), [2012 4499](https://fedlex.data.admin.ch/eli/oc/2012/531)und [2020 3809](https://fedlex.data.admin.ch/eli/oc/2020/701). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: Diese Veröffentlichung ergänzt die früheren in [AS 1985 724](https://fedlex.data.admin.ch/eli/oc/1985/724_724_724); [1987 774](https://fedlex.data.admin.ch/eli/oc/1987/774_774_774); [1990 1174](https://fedlex.data.admin.ch/eli/oc/1990/1174_1174_1174); [1995 1123](https://fedlex.data.admin.ch/eli/oc/1995/1123_1123_1123); [2004 4985](https://fedlex.data.admin.ch/eli/oc/2004/756); [2007 1387](https://fedlex.data.admin.ch/eli/oc/2007/237); [2012 4499](https://fedlex.data.admin.ch/eli/oc/2012/531); [2020 3809](https://fedlex.data.admin.ch/eli/oc/2020/701); [2024 525](https://fedlex.data.admin.ch/eli/oc/2024/525). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalte und Erklärungen
 
-Schweiz**[^t-3]**
+Schweiz[^t-3]
 
 Die Schweiz erklärt, Kapitel II nicht anzunehmen.
 

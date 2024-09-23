@@ -3,11 +3,11 @@ sr: "0.353.12"
 title: Secondo protocollo addizionale del 17 marzo 1978 alla Convenzione europea di estradizione
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/724_724_724"
 language: it
-version: 2020-09-15
+version: 2024-09-24
 adopted: 1978-03-17
 in_force: 1985-06-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/724_724_724/20200915/it/xml/fedlex-data-admin-ch-eli-cc-1985-724_724_724-20200915-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/724_724_724/20200915/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/724_724_724/20240924/it/xml/fedlex-data-admin-ch-eli-cc-1985-724_724_724-20240924-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/724_724_724/20240924/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conchiuso a Strasburgo il 17 marzo 1978 Approvato dall’Assemblea federale il 13 dicembre 1984[^t-1] Istrumento di ratificazione depositato dalla Svizzera l’11 marzo 1985 Entrato in vigore per la Svizzera il 9 giugno 1985
 
-(Stato 15 settembre 2020)
+(Stato 24 settembre 2024)
 
 [^t-1]: Art. 1 cpv. 1 lett. b del DF del 13 dic. 1984 ([RU 1985 712](https://fedlex.data.admin.ch/eli/oc/1985/712_712_712)).
 
@@ -157,10 +157,10 @@ Il Segretario Generale del Consiglio d’Europa notificherà agli Stati membri d
 
 *In fede di che*, i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato il presente Protocollo. Fatto a Strasburgo, il 17 marzo 1978, in francese e in inglese, i due testi facendo ugualmente fede, in un solo esemplare che sarà depositato negli archivi del Consiglio d’Europa. Il Segretario Generale del Consiglio d’Europa ne invierà copia certificata conforme a ognuno degli Stati firmatari e aderenti. (Seguono le firme)
 
-Campo d’applicazione il 15 settembre 2020**[^t-2]**
+Campo d’applicazione il 24 settembre 2024[^t-2]
 
 <table>
-<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Albania</td><td>19 maggio</td><td>1998</td><td>17 agosto</td><td>1998</td></tr>
 <tr><td>Armenia</td><td>18 dicembre</td><td>2003</td><td>17 marzo</td><td>2004</td></tr>
 <tr><td>Austria\*</td><td>2 maggio</td><td>1983</td><td>31 luglio</td><td>1983</td></tr>
@@ -175,6 +175,7 @@ Campo d’applicazione il 15 settembre 2020**[^t-2]**
 <tr><td>Danimarca</td><td>7 marzo</td><td>1983</td><td>5 giugno</td><td>1983</td></tr>
 <tr><td>Estonia</td><td>28 aprile</td><td>1997</td><td>27 luglio</td><td>1997</td></tr>
 <tr><td>Finlandia</td><td>30 gennaio</td><td>1985 A</td><td>30 aprile</td><td>1985</td></tr>
+<tr><td>Francia\*</td><td>10 giugno</td><td>2021</td><td>8 settembre</td><td>2021</td></tr>
 <tr><td>Georgia\*</td><td>15 giugno</td><td>2001</td><td>13 settembre</td><td>2001</td></tr>
 <tr><td>Germania</td><td>8 marzo</td><td>1991</td><td>6 giugno</td><td>1991</td></tr>
 <tr><td>Irlanda\*</td><td>22 marzo</td><td>2019</td><td>21 giugno</td><td>2019</td></tr>
@@ -211,15 +212,14 @@ Campo d’applicazione il 15 settembre 2020**[^t-2]**
 <tr><td>Turchia\*</td><td>10 luglio</td><td>1992</td><td>8 ottobre</td><td>1992</td></tr>
 <tr><td>Ucraina\*</td><td>11 marzo</td><td>1998</td><td>9 giugno</td><td>1998</td></tr>
 <tr><td>Ungheria</td><td>13 luglio</td><td>1993</td><td>11 ottobre</td><td>1993</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni.</td></tr>
-<tr><td colspan="5">Le riserve e dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. I testi, francese ed inglese, possono essere consultati sul sito Internet del Consiglio d’Europa: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: [http://conventions.coe.int](http://conventions.coe.int) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: [RU 1985 724](https://fedlex.data.admin.ch/eli/oc/1985/724_724_724), [1987 774](https://fedlex.data.admin.ch/eli/oc/1987/774_774_774), [1990 1174](https://fedlex.data.admin.ch/eli/oc/1990/1174_1174_1174), [1995 1123](https://fedlex.data.admin.ch/eli/oc/1995/1123_1123_1123), [2004 4985](https://fedlex.data.admin.ch/eli/oc/2004/756), [2007 1387](https://fedlex.data.admin.ch/eli/oc/2007/237), [2012 4499](https://fedlex.data.admin.ch/eli/oc/2012/531)e [2020 3809](https://fedlex.data.admin.ch/eli/oc/2020/701). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1985 724](https://fedlex.data.admin.ch/eli/oc/1985/724_724_724); [1987 774](https://fedlex.data.admin.ch/eli/oc/1987/774_774_774); [1990 1174](https://fedlex.data.admin.ch/eli/oc/1990/1174_1174_1174); [1995 1123](https://fedlex.data.admin.ch/eli/oc/1995/1123_1123_1123); [2004 4985](https://fedlex.data.admin.ch/eli/oc/2004/756); [2007 1387](https://fedlex.data.admin.ch/eli/oc/2007/237); [2012 4499](https://fedlex.data.admin.ch/eli/oc/2012/531); [2020 3809](https://fedlex.data.admin.ch/eli/oc/2020/701); [2024 525](https://fedlex.data.admin.ch/eli/oc/2024/525). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Riserve e dichiarazioni
 
-Svizzera**[^t-3]**
+Svizzera[^t-3]
 
 La Svizzera dichiara di non accettare il Titolo II.
 

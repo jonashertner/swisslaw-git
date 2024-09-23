@@ -3,11 +3,11 @@ sr: "0.353.12"
 title: "Deuxième protocole additionnel du 17 mars 1978 à la Convention européenne d'extradition"
 eli: "https://fedlex.data.admin.ch/eli/cc/1985/724_724_724"
 language: fr
-version: 2020-09-15
+version: 2024-09-24
 adopted: 1978-03-17
 in_force: 1985-06-09
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/724_724_724/20200915/fr/xml/fedlex-data-admin-ch-eli-cc-1985-724_724_724-20200915-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1985/724_724_724/20200915/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1985/724_724_724/20240924/fr/xml/fedlex-data-admin-ch-eli-cc-1985-724_724_724-20240924-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1985/724_724_724/20240924/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,11 +16,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/1985/724_724_724/20200915/fr"
 
 RO **1985** 724; FF **1983** IV 129
 
-TTexte original
+Texte original
 
 Conclu à Strasbourg le 17 mars 1978 Approuvé par l’Assemblée fédérale le 13 décembre 1984[^t-1] Instrument de ratification déposé par la Suisse le 11 mars 1985 Entré en vigueur pour la Suisse le 9 juin 1985
 
-(Etat le 15 septembre 2020)
+(État le 24 septembre 2024)
 
 [^t-1]: Art. 1 al. 1 let. b de l’AF du 13 déc. 1984 ([RO 1985 712](https://fedlex.data.admin.ch/eli/oc/1985/712_712_712))
 
@@ -157,7 +157,7 @@ Le Secrétaire Général du Conseil de l’Europe notifiera aux États membres d
 
 *En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé le présent Protocole. Fait à Strasbourg, le 17 mars 1978, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des États signataires et adhérents. (Suivent les signatures)
 
-Champ d’application le 15 septembre 2020**[^t-2]**
+Champ d’application le 24 septembre 2024[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succesion (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -165,33 +165,33 @@ Champ d’application le 15 septembre 2020**[^t-2]**
 <tr><td>Albanie</td><td>19 mai</td><td>1998</td><td>17 août</td><td>1998</td></tr>
 <tr><td>Allemagne</td><td>8 mars</td><td>1991</td><td>6 juin</td><td>1991</td></tr>
 <tr><td>Arménie</td><td>18 décembre</td><td>2003</td><td>17 mars</td><td>2004</td></tr>
-<tr><td>Autriche<sup>\*</sup></td><td>2 mai</td><td>1983</td><td>31 juillet</td><td>1983</td></tr>
-<tr><td>Azerbaïdjan<sup>\*</sup></td><td>28 juin</td><td>2002</td><td>26 septembre</td><td>2002</td></tr>
-<tr><td>Belgique<sup>\*</sup></td><td>18 novembre</td><td>1997</td><td>16 février</td><td>1998</td></tr>
+<tr><td>Autriche\*</td><td>2 mai</td><td>1983</td><td>31 juillet</td><td>1983</td></tr>
+<tr><td>Azerbaïdjan\*</td><td>28 juin</td><td>2002</td><td>26 septembre</td><td>2002</td></tr>
+<tr><td>Belgique\*</td><td>18 novembre</td><td>1997</td><td>16 février</td><td>1998</td></tr>
 <tr><td>Bosnie et Herzégovine</td><td>25 avril</td><td>2005</td><td>24 juillet</td><td>2005</td></tr>
-<tr><td>Bulgarie<sup>\*</sup></td><td>17 juin</td><td>1994</td><td>14 septembre</td><td>1994</td></tr>
+<tr><td>Bulgarie\*</td><td>17 juin</td><td>1994</td><td>14 septembre</td><td>1994</td></tr>
 <tr><td>Chypre</td><td>13 avril</td><td>1984</td><td>12 juillet</td><td>1984</td></tr>
-<tr><td>Corée (Sud)<sup>\*</sup></td><td>29 septembre</td><td>2011 A</td><td>29 décembre</td><td>2011</td></tr>
+<tr><td>Corée (Sud)\*</td><td>29 septembre</td><td>2011 A</td><td>29 décembre</td><td>2011</td></tr>
 <tr><td>Croatie</td><td>25 janvier</td><td>1995 A</td><td>25 avril</td><td>1995</td></tr>
 <tr><td>Danemark</td><td>7 mars</td><td>1983</td><td>5 juin</td><td>1983</td></tr>
-<tr><td>Espagne<sup>\*</sup></td><td>11 mars</td><td>1985</td><td>9 juin</td><td>1985</td></tr>
+<tr><td>Espagne\*</td><td>11 mars</td><td>1985</td><td>9 juin</td><td>1985</td></tr>
 <tr><td>Estonie</td><td>28 avril</td><td>1997</td><td>27 juillet</td><td>1997</td></tr>
 <tr><td>Finlande</td><td>30 janvier</td><td>1985 A</td><td>30 avril</td><td>1985</td></tr>
-<tr><td>Géorgie<sup>\*</sup></td><td>15 juin</td><td>2001</td><td>13 septembre</td><td>2001</td></tr>
+<tr><td>France\*</td><td>10 juin</td><td>2021</td><td>8 septembre</td><td>2021</td></tr>
+<tr><td>Géorgie\*</td><td>15 juin</td><td>2001</td><td>13 septembre</td><td>2001</td></tr>
 <tr><td>Hongrie</td><td>13 juillet</td><td>1993</td><td>11 octobre</td><td>1993</td></tr>
-<tr><td>Irlande<sup>\*</sup></td><td>22 mars</td><td>2019</td><td>21 juin</td><td>2019</td></tr>
+<tr><td>Irlande\*</td><td>22 mars</td><td>2019</td><td>21 juin</td><td>2019</td></tr>
 <tr><td>Islande</td><td>20 juin</td><td>1984</td><td>18 septembre</td><td>1984</td></tr>
 <tr><td>Italie</td><td>23 janvier</td><td>1985</td><td>23 avril</td><td>1985</td></tr>
-<tr><td>Lettonie<sup>\*</sup></td><td>2 mai</td><td>1997</td><td>31 juillet</td><td>1997</td></tr>
+<tr><td>Lettonie\*</td><td>2 mai</td><td>1997</td><td>31 juillet</td><td>1997</td></tr>
 <tr><td>Lituanie</td><td>20 juin</td><td>1995</td><td>18 septembre</td><td>1995</td></tr>
 <tr><td>Macédoine du Nord</td><td>28 juillet</td><td>1999</td><td>26 octobre</td><td>1999</td></tr>
-<tr><td>Malte<sup>\*</sup></td><td>20 novembre</td><td>2000</td><td>18 février</td><td>2001</td></tr>
+<tr><td>Malte\*</td><td>20 novembre</td><td>2000</td><td>18 février</td><td>2001</td></tr>
 <tr><td>Moldova</td><td>27 juin</td><td>2001</td><td>25 septembre</td><td>2001</td></tr>
-<tr><td>Monaco<sup>\*</sup></td><td>30 janvier</td><td>2009</td><td>1<sup>er</sup> mai</td><td>2009</td></tr>
+<tr><td>Monaco\*</td><td>30 janvier</td><td>2009</td><td>1<sup>er</sup> mai</td><td>2009</td></tr>
 <tr><td>Monténégro</td><td>6 juin</td><td>2006 S</td><td>6 juin</td><td>2006</td></tr>
-<tr><td>Norvège<sup>\*</sup></td><td>11 décembre</td><td>1986</td><td>11 mars</td><td>1987</td></tr>
-<tr><td>Pays-Bas<sup>\*</sup></td><td>12 janvier</td><td>1982</td><td>5 juin</td><td>1983</td></tr>
-<tr><td>Antilles néerlandaises</td><td>12 janvier</td><td>1982</td><td>5 juin</td><td>1983</td></tr>
+<tr><td>Norvège\*</td><td>11 décembre</td><td>1986</td><td>11 mars</td><td>1987</td></tr>
+<tr><td>Pays-Bas\*</td><td>12 janvier</td><td>1982</td><td>5 juin</td><td>1983</td></tr>
 <tr><td>Aruba</td><td>12 janvier</td><td>1982</td><td>5 juin</td><td>1983</td></tr>
 <tr><td>Curaçao</td><td>12 janvier</td><td>1982</td><td>5 juin</td><td>1983</td></tr>
 <tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>12 janvier</td><td>1982</td><td>5 juin</td><td>1983</td></tr>
@@ -200,22 +200,22 @@ Champ d’application le 15 septembre 2020**[^t-2]**
 <tr><td>Portugal</td><td>25 janvier</td><td>1990</td><td>25 avril</td><td>1990</td></tr>
 <tr><td>République tchèque</td><td>19 novembre</td><td>1996</td><td>17 février</td><td>1997</td></tr>
 <tr><td>Roumanie</td><td>10 septembre</td><td>1997</td><td>9 décembre</td><td>1997</td></tr>
-<tr><td>Royaume-Uni<sup>\*</sup></td><td>8 mars</td><td>1994</td><td>6 juin</td><td>1994</td></tr>
+<tr><td>Royaume-Uni\*</td><td>8 mars</td><td>1994</td><td>6 juin</td><td>1994</td></tr>
 <tr><td>Gibraltar</td><td>29 juillet</td><td>2019</td><td>27 octobre</td><td>2019</td></tr>
-<tr><td>Guernesey<sup>\*</sup></td><td>25 avril</td><td>2003</td><td>25 avril</td><td>2003</td></tr>
-<tr><td>Île de Man<sup>\*</sup></td><td>25 avril</td><td>2003</td><td>25 avril</td><td>2003</td></tr>
-<tr><td>Russie<sup>\*</sup></td><td>10 décembre</td><td>1999</td><td>9 mars</td><td>2000</td></tr>
+<tr><td>Guernesey\*</td><td>25 avril</td><td>2003</td><td>25 avril</td><td>2003</td></tr>
+<tr><td>Île de Man\*</td><td>25 avril</td><td>2003</td><td>25 avril</td><td>2003</td></tr>
+<tr><td>Russie\*</td><td>10 décembre</td><td>1999</td><td>9 mars</td><td>2000</td></tr>
 <tr><td>Serbie</td><td>23 juin</td><td>2003 A</td><td>21 septembre</td><td>2003</td></tr>
 <tr><td>Slovaquie</td><td>23 septembre</td><td>1996</td><td>22 décembre</td><td>1996</td></tr>
 <tr><td>Slovénie</td><td>16 février</td><td>1995</td><td>17 mai</td><td>1995</td></tr>
 <tr><td>Suède</td><td>13 juin</td><td>1979</td><td>5 juin</td><td>1983</td></tr>
-<tr><td>Suisse<sup>\*</sup></td><td>11 mars</td><td>1985</td><td>9 juin</td><td>1985</td></tr>
-<tr><td>Turquie<sup>\*</sup></td><td>10 juillet</td><td>1992</td><td>8 octobre</td><td>1992</td></tr>
-<tr><td>Ukraine<sup>\*</sup></td><td>11 mars</td><td>1998</td><td>9 juin</td><td>1998</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td>Suisse\*</td><td>11 mars</td><td>1985</td><td>9 juin</td><td>1985</td></tr>
+<tr><td>Turquie\*</td><td>10 juillet</td><td>1992</td><td>8 octobre</td><td>1992</td></tr>
+<tr><td>Ukraine\*</td><td>11 mars</td><td>1998</td><td>9 juin</td><td>1998</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet du Conseil de l’Europe: [http://conventions.coe.int](http://conventions.coe.int) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 1985 724](https://fedlex.data.admin.ch/eli/oc/1985/724_724_724), [1987 774](https://fedlex.data.admin.ch/eli/oc/1987/774_774_774), [1990 1174](https://fedlex.data.admin.ch/eli/oc/1990/1174_1174_1174), [1995 1123](https://fedlex.data.admin.ch/eli/oc/1995/1123_1123_1123), [2004 4985](https://fedlex.data.admin.ch/eli/oc/2004/756), [2007 1387](https://fedlex.data.admin.ch/eli/oc/2007/237), [2012 4499](https://fedlex.data.admin.ch/eli/oc/2012/531), [2020 3809](https://fedlex.data.admin.ch/eli/oc/2020/701). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1985 724](https://fedlex.data.admin.ch/eli/oc/1985/724_724_724); [1987 774](https://fedlex.data.admin.ch/eli/oc/1987/774_774_774); [1990 1174](https://fedlex.data.admin.ch/eli/oc/1990/1174_1174_1174); [1995 1123](https://fedlex.data.admin.ch/eli/oc/1995/1123_1123_1123); [2004 4985](https://fedlex.data.admin.ch/eli/oc/2004/756); [2007 1387](https://fedlex.data.admin.ch/eli/oc/2007/237); [2012 4499](https://fedlex.data.admin.ch/eli/oc/2012/531); [2020 3809](https://fedlex.data.admin.ch/eli/oc/2020/701); [2024 525](https://fedlex.data.admin.ch/eli/oc/2024/525). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Réserves et déclarations
 
