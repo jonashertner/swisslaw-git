@@ -3,11 +3,11 @@ sr: "0.972.42"
 title: "Accordo istitutivo del 19 novembre 1984 della Società interamericana d'investimento (con All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/1227_1227_1227"
 language: it
-version: 1989-08-01
+version: 2024-09-24
 adopted: 1984-11-19
 in_force: 1986-03-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/1227_1227_1227/19890801/it/xml/fedlex-data-admin-ch-eli-cc-1986-1227_1227_1227-19890801-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/1227_1227_1227/19890801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/1227_1227_1227/20240924/it/xml/fedlex-data-admin-ch-eli-cc-1986-1227_1227_1227-20240924-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/1227_1227_1227/20240924/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,20 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1986/1227_1227_1227/19890801/it"
 
 RU **1986** 1227; FF **1984** III 801
 
-Traduzione*[^t-1]*
+Traduzione
 
-Concluso a Washington il 19 novembre 1984
+Concluso a Washington il 19 novembre 1984 Approvato dall’Assemblea federale il 22 marzo 1985[^t-1] Strumento di ratifica depositato dalla Svizzera il 28 ottobre 1985 Entrato in vigore per la Svizzera il 23 marzo 1986
 
-Approvato dall’Assemblea federale il 22 marzo 1985[^t-2]
+(Stato 24 settembre 2024)
 
-Strumento di ratifica depositato dalla Svizzera il 28 ottobre 1985
-
-Entrato in vigore per la Svizzera il 23 marzo 1986
-
-(Stato 1° agosto 1989)
-
-[^t-1]: Dal testo originale francese.
-[^t-2]: [RU 1986 1226](https://fedlex.data.admin.ch/eli/oc/1986/1226_1226_1226)
+[^t-1]: [RU 1986 1226](https://fedlex.data.admin.ch/eli/oc/1986/1226_1226_1226)
 
 I Paesi, i cui rappresentanti firmano il presente Accordo,
 
@@ -235,17 +228,16 @@ La Società comprende un’Assemblea dei governatori, un Consiglio d’amministr
   - (i) un Paese o un gruppo di Paesi membri della Società è rappresentato al Consiglio d’amministrazione della Banca da un Amministratore e un Supplente, cittadini di Paesi non Membri della Società;
   - (ii) vista la diversa struttura di partecipazione e di composizione, i Paesi membri di cui alla sezione 4(c (iii) qui appresso possono, secondo il sistema di rotazione deciso tra di loro, designare ai posti che spettano loro i propri rappresentanti al Consiglio d’amministrazione della Società qualora non possano essere rappresentati adeguatamente dagli Amministratori della Banca o dai loro Supplenti;
 
-- (c)
+- (c)[^IV-subdivu4-1]
 
   Il Consiglio d’amministrazione della Società è composto di:
 
   - (i) un Amministratore designato dal Membro in possesso del maggior numero d’azioni della Società;
   - (ii) nove Amministratori eletti dai Governatori dei Paesi membri regionali in sviluppo; e
-  - (iii) due Amministratori eletti dai Governatori degli altri Paesi membri.
+  - [tab] (iii) quattro Amministratori eletti dai Governatori degli altri Paesi membri.
 
-- [tab] A maggioranza di almeno due terzi dei voti, l’Assemblea dei governatori adotta il regolamento per la procedura di elezione degli Amministratori.
-- [tab] I Governatori dei Paesi membri di cui al comma (iii) qui sopra possono eleggere un Amministratore aggiuntivo alle condizioni e secondo il termine stabiliti dal regolamento precitato. Se tali condizioni non possono essere soddisfatte, l’Amministratore può essere eletto dai Governatori dei Paesi membri regionali in sviluppo, giusta il disposto di detto regolamento.
-- [tab] Ogni Amministratore nomina un supplente che, in sua assenza, ha pieni poteri di agire in sua vece.
+- A maggioranza di almeno due terzi dei voti, l’Assemblea dei governatori adotta il regolamento per la procedura di elezione degli Amministratori.
+- Ogni Amministratore nomina un supplente che, in sua assenza, ha pieni poteri di agire in sua vece.
 - (d) Nessun amministratore può svolgere simultaneamente le proprie funzioni e quelle di governatore della Società;
 - (e) Gli Amministratori eletti hanno un mandato di tre anni e sono rieleggibili;
 - (f) Ogni Amministratore può emettere il numero di voti di cui dispongono il Membro o i Membri della Società i cui voti hanno contato per la sua elezione o designazione;
@@ -255,6 +247,8 @@ La Società comprende un’Assemblea dei governatori, un Consiglio d’amministr
 - (j) Il Consiglio d’amministrazione esercita le proprie funzioni nella sede della Società o, in caso eccezionale, in qualsiasi altro luogo deciso dal Consiglio e si riunisce ogniqualvolta gli affari della Società lo esigono;
 - (k) Il quorum di ogni riunione del Consiglio d’amministrazione è costituito dalla maggioranza di almeno due terzi del totale dei voti degli Amministratori;
 - (l) Un Paese membro della Società ha il diritto d’inviare un rappresentante a ogni riunione del Consiglio d’amministrazione quando si tratta di esaminare una questione che lo concerne in particolar modo. Il diritto di rappresentanza è regolamentato dall’Assemblea dei governatori.
+
+[^IV-subdivu4-1]: Nuovo testo giusta la Risoluzione CII/AG-9/24 dell’Assemblea dei Governatori del 24 set. 2024, in vigore per la Svizzera dal 24 set. 2024 ([RU 2024 605](https://fedlex.data.admin.ch/eli/oc/2024/605)).
 
 ### Sezione 5. Organizzazione di base
 
@@ -517,9 +511,9 @@ Allegato A
 </table>
 
 <table>
-<tr><td>\*</td><td>I rappresentanti dell’Argentina e del Brasile hanno dichiarato che la loro partecipazione al capitale sociale deve essere proporzionata non solo alla loro percentuale al capitale della BID, ma deve anche mantenere il tasso di partecipazione relativa al totale dei contributi dei Paesi membri regionali al suddetto capitale della Banca.</td></tr>
-<tr><td>\*\*</td><td>La delegazione del Messico aderisce alla sottoscrizione rubricata onde contribuire ad eliminare l’eccedenza che ostacolava l’entrata in servizio della Società. Tiene comunque che si metta a verbale il desiderio del Messico d’accrescere la propria partecipazione, al capitale sociale di questi enti multilaterali, affinché il sistema degli indici rifletta oggetti-vamente l’importanza del Paese, quanto ad economia, popolazione e bisogno di sostegno finanziario ai fini dello sviluppo.</td></tr>
-<tr><td>\*\*\*</td><td>Il Venezuela ratifica la decisione di sottoscrivere 1248 azioni della Società, rappresentanti il 6,238% sul capitale sociale, onde consentire alla medesima d’iniziare la propria attività nei termini meglio adeguati. Il Venezuela tiene comunque che si metta a verbale il suo desidero, reiteratamente espresso, d’accrescere in futuro la propria partecipazione al capitale sociale.</td></tr>
+<tr><td>\* I rappresentanti dell’Argentina e del Brasile hanno dichiarato che la loro partecipazione al capitale sociale deve essere proporzionata non solo alla loro percentuale al capitale della BID, ma deve anche mantenere il tasso di partecipazione relativa al totale dei contributi dei Paesi membri regionali al suddetto capitale della Banca.</td></tr>
+<tr><td>\*\* La delegazione del Messico aderisce alla sottoscrizione rubricata onde contribuire ad eliminare l’eccedenza che ostacolava l’entrata in servizio della Società. Tiene comunque che si metta a verbale il desiderio del Messico d’accrescere la propria partecipazione, al capitale sociale di questi enti multilaterali, affinché il sistema degli indici rifletta oggetti-vamente l’importanza del Paese, quanto ad economia, popolazione e bisogno di sostegno finanziario ai fini dello sviluppo.</td></tr>
+<tr><td>\*\*\* Il Venezuela ratifica la decisione di sottoscrivere 1248 azioni della Società, rappresentanti il 6,238% sul capitale sociale, onde consentire alla medesima d’iniziare la propria attività nei termini meglio adeguati. Il Venezuela tiene comunque che si metta a verbale il suo desidero, reiteratamente espresso, d’accrescere in futuro la propria partecipazione al capitale sociale.</td></tr>
 </table>
 
 <table>
@@ -558,10 +552,10 @@ Allegato A
 <tr><td>Totale</td><td></td><td>20 000</td><td>100,00</td></tr>
 </table>
 
-Campo d’applicazione dell’accordo il 1<sup>o</sup> agosto 1989
+Campo d’applicazione il 1<sup>o</sup> agosto 1989
 
 <table>
-<tr><th>Stati partecipante</th><th colspan="2">Ratificazione</th><th>Entrata in vigore</th><th></th></tr>
+<tr><th>Stati partecipante</th><th colspan="2">Ratificazione</th><th colspan="2">Entrata in vigore</th></tr>
 <tr><td>Argentina</td><td>6 dicembre</td><td>1985</td><td>23 marzo</td><td>1986</td></tr>
 <tr><td>Austria</td><td>5 settembre</td><td>1986</td><td>5 settembre</td><td>1986</td></tr>
 <tr><td>Bahamas</td><td>23 marzo</td><td>1986</td><td>23 marzo</td><td>1986</td></tr>

@@ -3,11 +3,11 @@ sr: "0.972.42"
 title: "Accord constitutif du 19 novembre 1984 de la Société interaméricaine d'investissement (avec annexe)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/1227_1227_1227"
 language: fr
-version: 1989-08-01
+version: 2024-09-24
 adopted: 1984-11-19
 in_force: 1986-03-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/1227_1227_1227/19890801/fr/xml/fedlex-data-admin-ch-eli-cc-1986-1227_1227_1227-19890801-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/1227_1227_1227/19890801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/1227_1227_1227/20240924/fr/xml/fedlex-data-admin-ch-eli-cc-1986-1227_1227_1227-20240924-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/1227_1227_1227/20240924/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 28 octobre 1985
 
 Entré en vigueur pour la Suisse le 23 mars 1986
 
-(Etat le 1<sup>er</sup> août 1989)
+(État le 24 septembre 2024)
 
 [^t-1]: Art. premier, al. 1 de l’AF du 22 mars 1985 ([RO 1986 1226](https://fedlex.data.admin.ch/eli/oc/1986/1226_1226_1226))
 
@@ -51,7 +51,7 @@ Dans la poursuite de cet objet, la Société aura les fonctions suivantes à l�
 - (a) financer, seule ou en association avec d’autres prêteurs ou investisseurs, l’établissement, l’expansion et la modernisation d’entreprises, utilisant pour ce faire les instruments et/ou mécanismes qu’elle juge dans chaque cas appropriés;
 - (b) faciliter l’accès des entreprises aux capitaux privés et publics, locaux et étrangers ainsi qu’aux connaissances techniques et compétences administratives;
 - (c) stimuler le développement de possibilités d’investissement qui favorisent les flux de capitaux publics et privés, locaux et étrangers, vers des investissements dans les pays membres;
-- (d) prendre dans chaque cas les mesures appropriées et nécessaires pour assurer le financement des entreprises, compte tenu de leurs besoins et des principes fondés sur une administration prudente des ressources de la Société; et
+- (d) prendre dans chaque cas les mesures appropriées et nécessaires pour assurer le financement des entreprises, compte tenu de leurs besoins et des principes fondés sur une administration prudente des ressources de la Société, et
 - (e) fournir une coopération technique pour la préparation, le financement et l’exécution de projets, y compris le transfert de techniques appropriées.
 
 ### Section 3. Politiques
@@ -70,8 +70,8 @@ Les activités de la Société seront menées conformément aux politiques d’e
 
 ### Section 2. Ressources
 
-- (a) Le montant initial du capital autorisé de la Société est fixé à deux cents millions de dollars des Etats‑Unis d’Amérique (EU $200 000 000).
-- (b) Le capital autorisé sera composé de vingt mille (20 000) actions ayant chacune une valeur nominale de dix mille dollars des Etats-Unis d’Amérique (EU $10 000). Toute action qui n’aura pas été initialement souscrite par les membres fondateurs en application des dispositions de la Section 3(a) du présent article pourra être souscrite postérieurement conformément à la Section 3(d) de cet article.
+- (a) Le montant initial du capital autorisé de la Société est fixé à deux cents millions de dollars des États‑Unis d’Amérique (EU $200 000 000).
+- (b) Le capital autorisé sera composé de vingt mille (20 000) actions ayant chacune une valeur nominale de dix mille dollars des États-Unis d’Amérique (EU $10 000). Toute action qui n’aura pas été initialement souscrite par les membres fondateurs en application des dispositions de la Section 3(a) du présent article pourra être souscrite postérieurement conformément à la Section 3(d) de cet article.
 - (c)
 
   Le capital autorisé pourra être augmenté par l’Assemblée des Gouverneurs aux conditions suivantes:
@@ -83,23 +83,23 @@ Les activités de la Société seront menées conformément aux politiques d’e
 
   En dehors du capital autorisé mentionné ci‑dessus, l’Assemblée des Gouverneurs pourra autoriser, à compter de la date à laquelle le capital autorisé initial aura été versé intégralement, l’émission de capital sujet à l’appel et établira les termes et conditions de souscription, conformément aux dispositions suivantes:
 
-  - (i) lesdites autorisations d’émission de capital sujet à l’appel devront être approuvées à une majorité représentant au moins les trois quarts des voix des membres comprenant les deux tiers des Gouverneurs; et
-  - (ii) le capital sujet à l’appel se composera d’actions d’une valeur nominale de dix mille dollars des Etats-Unis d’Amérique (EU $10 000) chacune.
+  - (i) lesdites autorisations d’émission de capital sujet à l’appel devront être approuvées à une majorité représentant au moins les trois quarts des voix des membres comprenant les deux tiers des Gouverneurs, et
+  - (ii) le capital sujet à l’appel se composera d’actions d’une valeur nominale de dix mille dollars des États-Unis d’Amérique (EU $10 000) chacune.
 
-- (e) Les actions de ce capital ne pourront être appelées que lorsqu’elles seront nécessaires pour satisfaire les obligations de la Société conformément à l’Art. III, Section 7(a). Dans le cas d’un tel appel, le paiement pourra se faire, au choix du membre, en dollars des Etats‑Unis d’Amérique ou dans la monnaie requise pour satisfaire les obligations de la Société qui ont nécessité cet appel. Les appels seront uniformes et proportionnels au nombre des parts détenues par chaque pays. L’obligation des membres d’effectuer un paiement lorsqu’ils sont appelés à le faire sera indépendante des obligations faites aux autres membres et le non‑paiement par un ou plusieurs membres ne libérera aucun autre membre de son obligation de payer. Des appels successifs pourront être faits s’ils s’avèrent nécessaires pour satisfaire les obligations de la Société.
+- (e) Les actions de ce capital ne pourront être appelées que lorsqu’elles seront nécessaires pour satisfaire les obligations de la Société conformément à l’Art. III, Section 7(a). Dans le cas d’un tel appel, le paiement pourra se faire, au choix du membre, en dollars des États‑Unis d’Amérique ou dans la monnaie requise pour satisfaire les obligations de la Société qui ont nécessité cet appel. Les appels seront uniformes et proportionnels au nombre des parts détenues par chaque pays. L’obligation des membres d’effectuer un paiement lorsqu’ils sont appelés à le faire sera indépendante des obligations faites aux autres membres et le non‑paiement par un ou plusieurs membres ne libérera aucun autre membre de son obligation de payer. Des appels successifs pourront être faits s’ils s’avèrent nécessaires pour satisfaire les obligations de la Société.
 - (f)
 
   Les autres ressources de la Société comprendront:
 
   - (i) les montants reçus au titre de dividendes, commissions, intérêts et autres fonds découlant des investissements de la Société;
   - (ii) les montants reçus au titre de la cession des investissements ou du remboursement des prêts;
-  - (iii) les montants mobilisés par voie d’emprunts de la Société; et
+  - (iii) les montants mobilisés par voie d’emprunts de la Société, et
   - (iv) les autres contributions et fonds confiés à son administration.
 
 ### Section 3. Souscriptions
 
 - (a) Chaque membre devra souscrire le nombre d’actions indiqué à l’annexe A;
-- (b) La souscription initiale de capital versé par un membre fondateur, mentionnée à l’Annexe A, sera payée en quatre tranches annuelles, égales et consécutives de vingt‑cinq pour cent du montant de la souscription. Chaque membre versera la première tranche intégralement dans les trois mois qui suivent la date à laquelle la Société commencera ses opérations conformément à l’Art. XI, Section 3, ou à la date à laquelle ledit membre fondateur adhère au présent Accord, ou à telle autre date ultérieure déterminée par le Conseil d’Administration de la Société. Les trois autres tranches seront payées aux dates déterminées par le conseil d’administration de la société, mais en aucun cas avant le 31 décembre 1985, le 31 décembre 1986 et le 31 décembre 1987 respectivement. Le paiement de chacune de ces trois dernières tranches du capital souscrit par chacun des pays membres devra remplir les formalités légales requises dans les pays respectifs. Le paiement sera effectué en dollars des Etats‑Unis. La Société déterminera le ou les lieux de paiement;
+- (b) La souscription initiale de capital versé par un membre fondateur, mentionnée à l’Annexe A, sera payée en quatre tranches annuelles, égales et consécutives de vingt‑cinq pour cent du montant de la souscription. Chaque membre versera la première tranche intégralement dans les trois mois qui suivent la date à laquelle la Société commencera ses opérations conformément à l’Art. XI, Section 3, ou à la date à laquelle ledit membre fondateur adhère au présent Accord, ou à telle autre date ultérieure déterminée par le Conseil d’Administration de la Société. Les trois autres tranches seront payées aux dates déterminées par le conseil d’administration de la société, mais en aucun cas avant le 31 décembre 1985, le 31 décembre 1986 et le 31 décembre 1987 respectivement. Le paiement de chacune de ces trois dernières tranches du capital souscrit par chacun des pays membres devra remplir les formalités légales requises dans les pays respectifs. Le paiement sera effectué en dollars des États‑Unis. La Société déterminera le ou les lieux de paiement;
 - (c) Les actions faisant l’objet des souscriptions initiales des membres fondateurs seront émises au pair;
 - (d) Les conditions de souscription et les dates de paiement des actions émises postérieurement à la souscription initiale des actions par les membres fondateurs, qui n’auront pas été souscrites aux termes de l’Art. II, Section 2(b) du présent Accord, seront déterminées par le Conseil d’Administration de la Société.
 
@@ -131,7 +131,7 @@ Pour réaliser ses objectifs, la Société est autorisée à:
   - (ii) ils stimulent la création d’emplois;
   - (iii) ils encouragent l’épargne et l’utilisation de capital dans des investissements de caractère productif;
   - (iv) ils contribuent à la mobilisation et/ou à des économies de devises;
-  - (v) ils améliorent la capacité de gestion et facilitent le transfert de connaissances techniques; et
+  - (v) ils améliorent la capacité de gestion et facilitent le transfert de connaissances techniques, et
   - (vi) ils encouragent une plus large participation publique à la propriété des entreprises par le jeu de la participation d’un nombre d’investisseurs aussi élevé que possible au capital‑actions de ces entreprises;
 
 - (b) Effectuer des investissements directs, par l’octroi de prêts et de préférence par la souscription et l’achat d’actions ou d’instruments de dette convertibles, dans des entreprises où le pouvoir de vote est détenu majoritairement par des investisseurs ayant la citoyenneté latinoaméricaine, et effectuer des investissements indirects dans de telles entreprises par l’intermédiaire d’autres institutions financières;
@@ -140,9 +140,9 @@ Pour réaliser ses objectifs, la Société est autorisée à:
 - (e) Fournir une coopération technique, une aide financière et une assistance générale en matière de gestion, et servir d’agent financier d’entreprises;
 - (f) Aider à établir, améliorer, élargir et financer des Sociétés de financement du développement dans le secteur privé et d’autres institutions pour contribuer au développement de ce secteur;
 - (g) Promouvoir le placement d’émissions d’actions et de valeurs garanties, et effectuer de tels placements, soit seul, soit conjointement avec d’autres institutions financières, sous réserve que les conditions appropriées soient remplies;
-- (h) Administrer les fonds d’autres institutions privées, publiques ou semipubliques. A cet effet, la Société peut signer des contrats de gestion et de fidéicommis;
-- (i) Effectuer les transactions monétaires essentielles pour assurer le bon fonctionnement des activités de la Société; et
-- (j) Emettre des obligations, des certificats de dette et des certificats de participation, et conclure des accords de crédit.
+- (h) Administrer les fonds d’autres institutions privées, publiques ou semipubliques. À cet effet, la Société peut signer des contrats de gestion et de fidéicommis;
+- (i) Effectuer les transactions monétaires essentielles pour assurer le bon fonctionnement des activités de la Société, et
+- (j) Émettre des obligations, des certificats de dette et des certificats de participation, et conclure des accords de crédit.
 
 ### Section 2. Autres formes d’investissements
 
@@ -157,13 +157,13 @@ Dans la conduite de ses opérations, la Société s’inspirera des principes su
 - (c) La Société effectuera des investissements aux conditions qu’elle jugera appropriées, en tenant compte des besoins de l’entreprise, des risques encourus par la Société et des conditions normales régissant les investissements privés similaires;
 - (d) La Société s’efforcera de reconstituer son capital en cédant ses investissements, sous réserve qu’elle puisse le faire de manière appropriée à des conditions satisfaisantes et dans la mesure du possible conformément aux dispositions de la Section 1(a)(vi) ci-dessus;
 - (e) La Société s’efforcera de maintenir une diversification raisonnable de ses investissements;
-- (f) La Société appliquera des critères de faisabilité financiers, techniques, économiques, juridiques et institutionnels pour justifier ses investissements et déterminer l’adéquation des garanties; et
+- (f) La Société appliquera des critères de faisabilité financiers, techniques, économiques, juridiques et institutionnels pour justifier ses investissements et déterminer l’adéquation des garanties, et
 - (g) La Société n’entreprendra aucun financement pour lequel, à son avis, du capital suffisant pourrait être obtenu à des conditions raisonnables.
 
 ### Section 4. Limitations
 
-- (a) A l’exception de l’investissement en avoirs liquides de la Société mentionnés à la Section 7(b) du présent article, la Société n’effectuera des investissements que dans des entreprises situées sur le territoire de pays membres régionaux en développement. Ces investissements seront effectués sur la base des critères d’une gestion financière saine;
-- (b) La Société ne fournira pas de fonds ou n’effectuera pas d’autres investissements dans une entreprise située sur le territoire d’un pays membre si cet Etat émet des objections à ce financement ou à cet investissement.
+- (a) À l’exception de l’investissement en avoirs liquides de la Société mentionnés à la Section 7(b) du présent article, la Société n’effectuera des investissements que dans des entreprises situées sur le territoire de pays membres régionaux en développement. Ces investissements seront effectués sur la base des critères d’une gestion financière saine;
+- (b) La Société ne fournira pas de fonds ou n’effectuera pas d’autres investissements dans une entreprise située sur le territoire d’un pays membre si cet État émet des objections à ce financement ou à cet investissement.
 
 ### Section 5. Sauvegarde des intérêts
 
@@ -171,7 +171,7 @@ En cas de défaillance d’un débiteur, d’insolvabilité ou de menace d’ins
 
 ### Section 6. Restrictions de change
 
-Les fonds encaissés par la Société ou qui lui sont dûs à la suite de ses investissements en capital‑actions sur le territoire d’un Etat membre n’échapperont pas, du seul fait du présent Accord, aux restrictions, réglementations et contrôles des changes de portée générale en vigueur dans le territoire du pays membre.
+Les fonds encaissés par la Société ou qui lui sont dûs à la suite de ses investissements en capital‑actions sur le territoire d’un État membre n’échapperont pas, du seul fait du présent Accord, aux restrictions, réglementations et contrôles des changes de portée générale en vigueur dans le territoire du pays membre.
 
 ### Section 7. Autres pouvoirs
 
@@ -181,7 +181,7 @@ La Société aura également le pouvoir:
 - (b) de placer sur le marché en obligations et en valeurs négociables, les fonds dont l’emploi n’est pas requis immédiatement pour ses opérations de financement, ainsi que les autres fonds qu’elle détient à d’autres fins;
 - (c) de donner sa garantie, en vue d’en faciliter la vente, aux titres qu’elle aura souscrits;
 - (d) d’acheter et/ou de vendre les titres qu’elle aura émis ou les garanties qu’elle aura souscrites ou dans lesquelles elle aura investi;
-- (e) de traiter, dans les conditions qu’elle déterminera, toutes les questions particulières concernant les affaires que ses actionnaires ou des tierces parties peuvent lui confier, et s’acquitter de ses devoirs de fidéicommis; et
+- (e) de traiter, dans les conditions qu’elle déterminera, toutes les questions particulières concernant les affaires que ses actionnaires ou des tierces parties peuvent lui confier, et s’acquitter de ses devoirs de fidéicommis, et
 - (f) d’exercer tous autres pouvoirs connexes à son activité, dans la mesure où cela sera nécessaire ou désirable pour la réalisation de son objet et, à cette fin, de signer les contrats et d’effectuer les actes juridiques nécessaires.
 
 ### Section 8. Interdiction de mener des activités politiques
@@ -216,7 +216,7 @@ La Société comprendra une Assemblée des Gouverneurs, un Conseil d’Administr
 
 - (d) L’Assemblée des Gouverneurs tiendra une session annuelle qui aura lieu parallèlement à la session annuelle de l’Assemblée des Gouverneurs de la Banque interaméricaine de développement. D’autres réunions pourront avoir lieu à la demande du Conseil d’Administration.
 - (e) Le quorum pour toute séance de l’Assemblée des Gouverneurs sera constitué par la majorité des Gouverneurs représentant au moins les deux tiers du total des voix des membres. L’Assemblée des Gouverneurs pourra adopter une procédure permettant au Conseil d’Administration, quand ce dernier le jugera opportun, de soumettre une question déterminée au vote des Gouverneurs sans convoquer l’Assemblée.
-- (f) L’Assemblée des Gouverneurs et le Conseil d’Administration, dans la mesure où il en a le pouvoir, pourront adopter les règles et les règlements nécessaires ou appropriés à la conduite des affaires de la Société; et
+- (f) L’Assemblée des Gouverneurs et le Conseil d’Administration, dans la mesure où il en a le pouvoir, pourront adopter les règles et les règlements nécessaires ou appropriés à la conduite des affaires de la Société, et
 - (g) Les Gouverneurs et leurs Suppléants ne seront pas rémunérés par la société pour leurs services.
 
 ### Section 3. Vote
@@ -228,20 +228,19 @@ La Société comprendra une Assemblée des Gouverneurs, un Conseil d’Administr
 
 - (a) Le Conseil d’Administration sera responsable de la conduite des opérations de la Société et, à cette fin il exercera tous les pouvoirs qui lui sont conférés par le présent Accord ou qui lui seront délégués par l’Assemblée des gouverneurs;
 - (b) Les Administrateurs et leurs Suppléants seront élus ou désignés parmi les Administrateurs de la Banque et leurs Suppléants excepté dans les cas suivants
-  - (i) un pays membre, ou un groupe de pays membres de la Société, est représenté au Conseil d’Administration de la Banque par un Administrateur et un Suppléant qui sont citoyens de pays qui ne sont pas membres de la Société; et
+  - (i) un pays membre, ou un groupe de pays membres de la Société, est représenté au Conseil d’Administration de la Banque par un Administrateur et un Suppléant qui sont citoyens de pays qui ne sont pas membres de la Société, et
   - (ii) vu la structure différente de participation et de composition, les pays membres mentionnés à la Section 4(c)(iii) ci‑après, peuvent, aux termes du schéma de rotation établi entre eux, désigner aux postes qui leur reviennent, leurs propres représentants au Conseil d’Administration de la Société lorsqu’ils ne pourraient être convenablement représentés par les Administrateurs de la Banque ou leurs Suppléants;
 
-- (c)
+- (c)[^IV-subdivu4-1]
 
-  Le Conseil d’Administration de la Société se composera:
+  Le Conseil d’administration de la Société se composera:
 
-  - (i) d’un Administrateur désigné par le membre qui possède le plus grand nombre d’actions de la Société;
-  - (ii) de neuf Administrateurs élus par les Gouverneurs des pays membres régionaux en développement; et
-  - (iii) de deux Administrateurs élus par les Gouverneurs des autres pays membres.
+  - (i) d’un Administrateur désigné par le pays membre détenteur du plus fort volume d’actions de la Société;
+  - (ii) de neuf Administrateurs élus par les Gouverneurs pour les pays membres régionaux en développement;
+  - (iii) de quatre Administrateurs élus par les Gouverneurs pour les autres pays membres.
 
-- [tab] L’Assemblée des Gouverneurs adoptera la règlement fixant la procédure d’élection des Administrateurs, par une majorité qui représente au moins les deux tiers des votes des membres.
-- [tab] Les Gouverneurs des pays membres dont fait état l’alinéa (iii) ci‑dessus pourront élire un Administrateur additionnel aux conditions et selon le délai établis par le règlement précité. Si ces conditions ne peuvent être remplies, l’Administrateur peut être élu par les Gouverneurs des pays membres régionaux en développement, en conformité avec les dispositions dudit règlement.
-- [tab] Chaque Administrateur nommera un suppléant qui, en son absence, aura pleins pouvoirs pour agir à sa place.
+- L’Assemblée des gouverneurs adoptera le règlement fixant la procédure d’élection des Administrateurs, par une majorité qui représente au moins les deux tiers des votes des membres.
+- Chaque Administrateur pourra désigner un Administrateur suppléant qui aura plein pouvoir pour agir en son nom lorsqu’il est absent.
 - (d) Aucun Administrateur ne peut remplir simultanément les fonctions de Gouverneur de la Société;
 - (e) Les Administrateurs élus le seront pour un mandat de trois ans et peuvent être réélus pour des mandats successifs;
 - (f) Chaque Administrateur pourra émettre le nombre de voix dont disposent le membre ou les membres de la Société dont les voix ont compté à son élection ou désignation;
@@ -249,8 +248,10 @@ La Société comprendra une Assemblée des Gouverneurs, un Conseil d’Administr
 - (h) En cas d’absence temporaire d’un Administrateur et de son Suppléant, l’Administrateur ou, le cas échéant, son Suppléant peut nommer une personne pour le représenter;
 - (i) Un Administrateur cessera de siéger si tous les membres, dont les voix ont compté à son élection ou désignation, cessent d’être membres de la Société;
 - (j) Le Conseil d’Administration fonctionnera au siège de la Société ou, à titre exceptionnel, en tout autre endroit que déterminera ledit Conseil et il se réunira aussi souvent que l’exigeront les affaires de la Société;
-- (k) Le quorum de toute réunion du Conseil d’Administration sera constitué par la majorité des Administrateurs représentant au moins deux tiers du total des voix; et
+- (k) Le quorum de toute réunion du Conseil d’Administration sera constitué par la majorité des Administrateurs représentant au moins deux tiers du total des voix, et
 - (l) Un pays membre de la Société a le droit d’envoyer un représentant à toute réunion du Conseil d’Administration, quand il s’agit de l’examen d’une question qui le concerne spécialement. Ce droit de représentation sera réglementé par l’Assemblée des Gouverneurs.
+
+[^IV-subdivu4-1]: Nouvelle teneur selon la Résolution CII/AG-9/24 adoptée par le Conseil des gouverneurs le 24 sept. 2024, en vigueur pour la Suisse depuis le 24 sept. 2024 ([RO 2024 605](https://fedlex.data.admin.ch/eli/oc/2024/605)).
 
 ### Section 5. Organisation de base
 
@@ -263,14 +264,14 @@ Le Conseil d’Administration fixera la structure de base de la Société, y com
   Le Comité Exécutif du Conseil d’Administration sera composé:
 
   - (i) d’une personne qui sera l’Administrateur ou le Suppléant désigné par le pays membre qui possède le plus grand nombre d’actions de la Société;
-  - (ii) de deux personnes choisies parmi les Administrateurs représentant les pays régionaux en développement membres de la Société; et
+  - (ii) de deux personnes choisies parmi les Administrateurs représentant les pays régionaux en développement membres de la Société, et
   - (iii) d’une personne choisie parmi les Administrateurs représentant les autres pays membres.
 
 - [tab] L’élection des membres du Comité Exécutif et de leurs suppléants dont font état les al. (ii) et (iii) susmentionnés sera effectuée par les membres de chacun des groupes pertinents en conformité avec la procédure qui aura été convenue par chaque groupe.
 - (b) Le président du Conseil d’Administration présidera les réunions du Comité. En son absence, un membre du Comité, élu selon le schéma de rotation, présidera les réunions.
 - (c) Le Comité examinera tous les prêts et investissements de la Société dans des entreprises situées dans les pays membres.
 - (d) Tous les prêts et investissements devront être approuvés à la majorité des membres du Comité. Le quorum requis pour toute réunion du Comité sera constitué par trois membres. L’absence ou l’abstention d’un membre seront considérées comme un vote négatif.
-- (e) Chaque opération approuvée par le Comité devra faire l’objet d’un rapport au Conseil d’Administration. A la demande d’un Administrateur, l’opération sera soumise au vote du Conseil d’Administration. En l’absence d’une telle demande dans le délai imparti par le Conseil, l’opération sera considérée comme approuvée par le Conseil.
+- (e) Chaque opération approuvée par le Comité devra faire l’objet d’un rapport au Conseil d’Administration. À la demande d’un Administrateur, l’opération sera soumise au vote du Conseil d’Administration. En l’absence d’une telle demande dans le délai imparti par le Conseil, l’opération sera considérée comme approuvée par le Conseil.
 - (f) En cas de partage égal des voix en relation avec l’opération proposée, ladite proposition sera renvoyée à la direction du Comité aux fins d’un nouvel examen. Si après cette nouvelle révision au sein du Comité, il se produit encore un partage égal de voix, le Président du Conseil d’Administration aura le droit d’émettre le vote devant départager les voix.
 - (g) Au cas où le Comité rejette une opération, le Conseil d’Administration, à la demande d’un Administrateur, pourra exiger que le rapport de la direction sur cette opération, avec un compte rendu de l’examen par le Comité, lui soit communiqué pour qu’il l’étudie et formule éventuellement une recommandation sur les questions techniques et de politique concernant cette opération et toutes autres opérations similaires menées à l’avenir.
 
@@ -331,7 +332,7 @@ Dans des circonstances graves, le Conseil d’Administration pourra suspendre le
 
 ### Section 2. Arrêt des opérations
 
-- (a) La Société peut mettre fin à ses opérations par une décision de l’Assemblée des Gouverneurs prise à une majorité représentant au moins trois quarts des voix des pays membres, et les deux tiers des Gouverneurs. A la suite de cette décision, la Société mettra immédiatement fin à ses activités à l’exception de celles qui ont trait à la conservation, à la sauvegarde et à la réalisation de son actif ainsi qu’au règlement de ses obligations.
+- (a) La Société peut mettre fin à ses opérations par une décision de l’Assemblée des Gouverneurs prise à une majorité représentant au moins trois quarts des voix des pays membres, et les deux tiers des Gouverneurs. À la suite de cette décision, la Société mettra immédiatement fin à ses activités à l’exception de celles qui ont trait à la conservation, à la sauvegarde et à la réalisation de son actif ainsi qu’au règlement de ses obligations.
 - (b) Jusqu’au jour du règlement définitif des obligations et de la répartition de son actif, la Société conservera sa personnalité juridique, et tous les droits et obligations réciproques de la Société et de ses membres, prévus au présent Accord, demeureront inchangés, étant entendu toutefois qu’aucun membre ne sera suspendu de sa qualité ou ne se retirera et qu’aucun versement ne sera effectué aux membres sous réserve des dispositions du présent article.
 
 ### Section 3. Responsabilité des membres et règlement des dettes
@@ -358,7 +359,7 @@ En vue de permettre à la Société d’atteindre ses objectifs et de remplir le
 La Société possédera la personnalité juridique et, en particulier, la pleine capacité pour:
 
 - (a) contracter;
-- (b) acquérir et disposer des meubles et immeubles; et
+- (b) acquérir et disposer des meubles et immeubles, et
 - (c) ester en justice et engager des procédures administratives.
 
 ### Section 3. Procédures judiciaires
@@ -387,7 +388,7 @@ Les communications officielles de la Société jouiront de la part de chaque pay
 Tous les Gouverneurs, Administrateurs et leurs suppléants ainsi que les fonctionnaires et employés de la Société jouiront des privilèges et immunités qui suivent:
 
 - (a) Immunité de poursuites judiciaires en raison des actes accomplis par eux dans l’exercice de leurs fonctions sauf lorsque la Société elle‑même lève cette immunité;
-- (b) Lorsqu’ils ne sont pas des ressortissants du pays où ils résident, les mêmes immunités vis‑à‑vis des restrictions d’immigration, des modalités d’immatriculation des étrangers et des obligations militaires ainsi que les mêmes facilités concernant les dispositions de change que le pays accorde aux représentants, fonctionnaires et employés de rang comparable des autres pays membres; et
+- (b) Lorsqu’ils ne sont pas des ressortissants du pays où ils résident, les mêmes immunités vis‑à‑vis des restrictions d’immigration, des modalités d’immatriculation des étrangers et des obligations militaires ainsi que les mêmes facilités concernant les dispositions de change que le pays accorde aux représentants, fonctionnaires et employés de rang comparable des autres pays membres, et
 - (c) Ils bénéficieront du même traitement en ce qui concerne les facilités de voyage que celui que les pays membres accordent aux représentants, fonctionnaires et employés de rang comparable des autres pays membres.
 
 ### Section 9. Immunités relatives aux charges fiscales
@@ -425,7 +426,7 @@ La Société peut, à sa discrétion, renoncer à l’un quelconque des privilè
   Nonobstant les dispositions du par. (a) ci‑dessus, l’unanimité des voix de l’Assemblée des Gouverneurs sera requise pour l’approbation d’un amendement portant sur:
 
   - (i) Le droit de se retirer de la Société prévu à l’art. V, section 1;
-  - (ii) Le droit d’acheter des actions de la Société prévu à l’art. II, section 5; et
+  - (ii) Le droit d’acheter des actions de la Société prévu à l’art. II, section 5, et
   - (iii) La limitation de la responsabilité prévue à l’art. II, section 6.
 
 - (c) Toute proposition visant à amender le présent Accord, qu’elle émane d’un pays membre ou du Conseil d’Administration sera communiquée au président de l’Assemblée des Gouverneurs qui la soumettra à l’examen de l’Assemblée. Si l’amendement proposé est adopté, la Société en certifiera l’acceptation par note officielle à tous les pays membres. Les amendements entreront en vigueur pour tous les membres trois mois après la date de la notification officielle à moins que l’Assemblée des Gouverneurs n’ait fixé un autre délai.
@@ -467,7 +468,7 @@ Chaque membre désignera un organisme officiel chargé d’assurer la communicat
 
 - (a) Le présent Accord sera déposé auprès de la Banque, où il restera ouvert, jusqu’au 31 décembre 1985 ou à une autre date déterminée par le Conseil d’Administration de la Société, à la signature des représentants des pays énumérés à l’Annexe A. Au cas où le présent Accord ne serait pas entré en vigueur, une date ultérieure pourra être fixée par les représentants des pays signataires de l’Acte Final des Négociations relatives à la création de la Société interaméricaine d’investissement. Chaque pays signataire devra avoir officiellement remis à la Banque un instrument indiquant qu’il a accepté ou ratifié le présent Accord conformément à sa propre législation et qu’il a pris les dispositions nécessaires pour remplir toutes les obligations qui en découlent.
 - (b) La Banque enverra des copies certifiées conformes du présent Accord à ses membres et leur donnera acte, en temps opportun, de chaque signature et de chaque remise d’instrument d’acceptation ou de ratification qui auront été effectuées conformément au paragraphe précédent, ainsi que de leurs dates respectives.
-- (c) A partir de la date où la Société aura commencé ses opérations, la Banque pourra recevoir la signature et les instruments d’acceptation ou de ratification du présent Accord de tout pays, dont l’entrée en qualité de membre sera effectuée conformément aux termes de l’Art. II, section 1(b).
+- (c) À partir de la date où la Société aura commencé ses opérations, la Banque pourra recevoir la signature et les instruments d’acceptation ou de ratification du présent Accord de tout pays, dont l’entrée en qualité de membre sera effectuée conformément aux termes de l’Art. II, section 1(b).
 
 ### Section 2. Entrée en vigueur
 
@@ -484,7 +485,7 @@ Chaque membre désignera un organisme officiel chargé d’assurer la communicat
 
 Le Président convoquera la première réunion de l’Assemblée des Gouverneurs aussitôt que le présent Accord sera entré en vigueur conformément à la Section 2 du présent article. La Société commencera ses activités à la date de cette réunion.
 
-Fait à Washington, District de Columbia, Etats‑Unis d’Amérique, en un seul original portant la date du 19 novembre 1984 dont les textes espagnol, anglais, français et portugais font également foi et seront déposés aux archives de la Banque interaméricaine de développement, qui a signifié, en apposant sa signature en bas du présent Accord, son intention d’agir en qualité de dépositaire de l’Accord et de notifier à tous les gouvernements des membres énumérés à l’Annexe A, la date d’entrée en vigueur du présent Accord conformément à l’Art. XI, Section 2.
+Fait à Washington, District de Columbia, États‑Unis d’Amérique, en un seul original portant la date du 19 novembre 1984 dont les textes espagnol, anglais, français et portugais font également foi et seront déposés aux archives de la Banque interaméricaine de développement, qui a signifié, en apposant sa signature en bas du présent Accord, son intention d’agir en qualité de dépositaire de l’Accord et de notifier à tous les gouvernements des membres énumérés à l’Annexe A, la date d’entrée en vigueur du présent Accord conformément à l’Art. XI, Section 2.
 
 (Suivent les signatures)
 
@@ -520,7 +521,7 @@ Annexe A
 <tr><td>Barbade</td><td></td><td>30</td><td>0,150</td></tr>
 <tr><td>Bolivie</td><td></td><td>187</td><td>0,935</td></tr>
 <tr><td>Costa Rica</td><td></td><td>94</td><td>0,470</td></tr>
-<tr><td>Equateur</td><td></td><td>126</td><td>0,630</td></tr>
+<tr><td>Équateur</td><td></td><td>126</td><td>0,630</td></tr>
 <tr><td>El Salvador</td><td></td><td>94</td><td>0,470</td></tr>
 <tr><td>Guatemala</td><td></td><td>126</td><td>0,630</td></tr>
 <tr><td>Guyane</td><td></td><td>36</td><td>0,180</td></tr>
@@ -535,7 +536,7 @@ Annexe A
 <tr><td>Uruguay</td><td></td><td>248</td><td>1,240</td></tr>
 <tr><td>Sous-total</td><td></td><td>1 800</td><td>9,000</td></tr>
 <tr><td>Total</td><td></td><td>11 000</td><td>55,000</td></tr>
-<tr><td>Etats-Unis d’Amérique</td><td></td><td>5 100</td><td>25,50</td></tr>
+<tr><td>États-Unis d’Amérique</td><td></td><td>5 100</td><td>25,50</td></tr>
 <tr><td>Autres pays</td><td></td><td></td><td></td></tr>
 <tr><td>Allemagne</td><td></td><td>626</td><td>3,13</td></tr>
 <tr><td>Autriche</td><td></td><td>100</td><td>0,50</td></tr>
@@ -553,7 +554,7 @@ Annexe A
 Champ d’application de l’accord le 1<sup>er</sup> août 1989
 
 <table>
-<tr><th>Etats parties</th><th colspan="2">Ratification</th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th colspan="2">Ratification</th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Allemagne</td><td>11 septembre</td><td>1986</td><td>11 septembre</td><td>1986</td></tr>
 <tr><td>Argentine</td><td>6 décembre</td><td>1985</td><td>23 mars</td><td>1986</td></tr>
 <tr><td>Autriche</td><td>5 septembre</td><td>1986</td><td>5 septembre</td><td>1986</td></tr>
@@ -564,9 +565,9 @@ Champ d’application de l’accord le 1<sup>er</sup> août 1989
 <tr><td>Chili</td><td>23 mars</td><td>1986</td><td>23 mars</td><td>1986</td></tr>
 <tr><td>Colombie</td><td>13 mars</td><td>1986</td><td>23 mars</td><td>1986</td></tr>
 <tr><td>El Salvador</td><td>11 septembre</td><td>1986</td><td>11 septembre</td><td>1986</td></tr>
-<tr><td>Equateur</td><td>14 janvier</td><td>1986</td><td>23 mars</td><td>1986</td></tr>
+<tr><td>Équateur</td><td>14 janvier</td><td>1986</td><td>23 mars</td><td>1986</td></tr>
 <tr><td>Espagne</td><td>5 juin</td><td>1986</td><td>5 juin</td><td>1986</td></tr>
-<tr><td>Etats-Unis</td><td>12 septembre</td><td>1985</td><td>23 mars</td><td>1986</td></tr>
+<tr><td>États-Unis</td><td>12 septembre</td><td>1985</td><td>23 mars</td><td>1986</td></tr>
 <tr><td>France</td><td>25 février</td><td>1986</td><td>23 mars</td><td>1986</td></tr>
 <tr><td>Guatemala</td><td>9 décembre</td><td>1985</td><td>23 mars</td><td>1986</td></tr>
 <tr><td>Guyane</td><td>27 mars</td><td>1985</td><td>23 mars</td><td>1986</td></tr>

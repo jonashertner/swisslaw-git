@@ -3,11 +3,11 @@ sr: "0.972.42"
 title: Übereinkommen vom 19. November 1984 zur Errichtung der Interamerikanischen Investitionsgesellschaft (mit Anlage)
 eli: "https://fedlex.data.admin.ch/eli/cc/1986/1227_1227_1227"
 language: de
-version: 1989-08-01
+version: 2024-09-24
 adopted: 1984-11-19
 in_force: 1986-03-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/1227_1227_1227/19890801/de/xml/fedlex-data-admin-ch-eli-cc-1986-1227_1227_1227-19890801-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1986/1227_1227_1227/19890801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1986/1227_1227_1227/20240924/de/xml/fedlex-data-admin-ch-eli-cc-1986-1227_1227_1227-20240924-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1986/1227_1227_1227/20240924/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,20 +16,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/1986/1227_1227_1227/19890801/de"
 
 AS **1986** 1227; BBl **1984** III 821
 
-Übersetzung*[^t-1]*
+Übersetzung
 
 Abgeschlossen in Washington am 19. November 1984
 
-Von der Bundesversammlung genehmigt am 22. März 1985[^t-2]
+Von der Bundesversammlung genehmigt am 22. März 1985[^t-1]
 
 Schweizerische Ratifikationsurkunde hinterlegt am 28. Oktober 1985
 
 In Kraft getreten für die Schweiz am 23. März 1986
 
-(Stand am 1. August 1989)
+(Stand am 24. September 2024)
 
-[^t-1]: Übersetzung des französischen Originaltextes.
-[^t-2]: [AS 1986 1226](https://fedlex.data.admin.ch/eli/oc/1986/1226_1226_1226)
+[^t-1]: [AS 1986 1226](https://fedlex.data.admin.ch/eli/oc/1986/1226_1226_1226)
 
 Die Staaten, in deren Namen dieses Übereinkommen unterzeichnet wird,
 
@@ -226,17 +225,16 @@ Die Gesellschaft hat einen Gouverneursrat, ein Exekutivdirektorium, einen Vorsit
   - i) ein Mitgliedstaat oder eine Gruppe von Mitgliedstaaten der Gesellschaft im Exekutivdirektorium der Bank durch einen Exekutivdirektor und einen Stellvertreter vertreten wird, die Angehörige von Staaten sind, die nicht Mitglieder der Gesellschaft sind, und
   - ii) angesichts der unterschiedlichen Beteiligungsstruktur und Zusammensetzung die unter Buchstabe c Ziffer iii bezeichneten Mitgliedstaaten entsprechend der unter ihnen vereinbarten Rotationsregelung ihre eigenen Vertreter für die ihnen zustehenden Posten im Exekutivdirektorium der Gesellschaft bestimmen, sofern sie durch Direktoren oder Stellvertreter der Bank nicht angemessen vertreten werden können.
 
-- c)
+- c)[^IV-subdivu4-1]
 
   Das Exekutivdirektorium der Gesellschaft setzt sich wie folgt zusammen:
 
-  - i) Ein Exekutivdirektor wird von dem Mitgliedstaat ernannt, der die meisten Anteile an der Gesellschaft besitzt;
+  - i) ein Exekutivdirektor wird von dem Mitgliedstaat ernannt, der die meisten Anteile an der Gesellschaft besitzt;
   - ii) neun Exekutivdirektoren werden von den Gouverneuren der in der Entwicklung befindlichen regionalen Mitgliedstaaten gewählt;
-  - iii) zwei Exekutivdirektoren werden von den Gouverneuren der übrigen Mitgliedstaaten gewählt.
+  - iii) vier Exekutivdirektoren werden von den Gouverneuren der übrigen Mitgliedstaaten gewählt.
 
-- [tab] Das Verfahren für die Wahl der Exekutivdirektoren wird durch die Vorschriften geregelt, die der Gouverneursrat mit einer Mehrheit von mindestens zwei Dritteln der Stimmen der Mitglieder beschliesst.
-- [tab] Ein zusätzlicher Exekutivdirektor kann von den Gouverneuren der unter Ziffer iii bezeichneten Mitgliedstaaten unter den Bedingungen und innerhalb der Frist, die nach den genannten Vorschriften festzusetzen sind, oder, wenn diese Bedingungen nicht erfüllt werden, von den Gouverneuren der in der Entwicklung befindlichen regionalen Mitgliedstaaten nach Massgabe der genannten Vorschriften gewählt werden.
-- [tab] Jeder Exekutivdirektor kann einen Stellvertretenden Direktor benennen, der die Vollmacht hat, in seiner Abwesenheit für ihn zu handeln.
+- Das Verfahren für die Wahl der Exekutivdirektoren wird durch die Vorschriften geregelt, die der Gouverneursrat mit einer Mehrheit von mindestens zwei Dritteln der Stimmen der Mitglieder beschliesst.
+- Jeder Exekutivdirektor kann einen Stellvertretenden Direktor benennen, der die Vollmacht hat, in seiner Abwesenheit für ihn zu handeln.
 - d) Ein Exekutivdirektor darf nicht gleichzeitig Gouverneur der Gesellschaft sein.
 - e) Gewählte Exekutivdirektoren werden für eine Amtszeit von drei Jahren gewählt und können für weitere Amtszeiten wiedergewählt werden.
 - f) Jeder Direktor ist berechtigt, die Anzahl Stimmen abzugeben, über die das oder die Mitglieder der Gesellschaft verfügen, deren Stimmen bei seiner Ernennung oder Wahl anfielen.
@@ -246,6 +244,8 @@ Die Gesellschaft hat einen Gouverneursrat, ein Exekutivdirektorium, einen Vorsit
 - j) Das Exekutivdirektorium übt seine Tätigkeit am Sitz der Gesellschaft oder ausnahmsweise an einem von dem Direktorium bestimmten anderen Ort aus, es tritt zusammen, sooft die Geschäfte der Institution dies erfordern.
 - k) Das Exekutivdirektorium ist beschlussfähig, wenn auf einer Sitzung die Mehrheit der Direktoren anwesend ist, die mindestens zwei Drittel der Stimmen der Mitglieder vertritt.
 - l) Jedes Mitglied der Gesellschaft kann einen Vertreter zur Teilnahme an einer Sitzung des Exekutivdirektoriums entsenden, wenn eine dieses Mitglied besonders berührende Frage behandelt wird. Dieses Vertretungsrecht wird vom Gouverneursrat geregelt.
+
+[^IV-subdivu4-1]: Fassung gemäss der Resolution CII/AG-9/24 des Gouverneursrats vom 24. Sept. 2024, in Kraft getreten für die Schweiz am 24. Sept. 2024 ([AS 2024 605](https://fedlex.data.admin.ch/eli/oc/2024/605)).
 
 ### Abschnitt 5. Grundsätzliche Organisation
 
@@ -536,7 +536,7 @@ Anlage A
 Geltungsbereich des Übereinkommens am 1. August 1989
 
 <table>
-<tr><th>Vertragsstaaten</th><th colspan="2">Ratifikation</th><th>Inkrafttreten</th><th></th></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Argentinien</td><td>6. Dezember</td><td>1985</td><td>23. März</td><td>1986</td></tr>
 <tr><td>Bahamas</td><td>23. März</td><td>1986</td><td>23. März</td><td>1986</td></tr>
 <tr><td>Barbados</td><td>19. März</td><td>1985</td><td>23. März</td><td>1986</td></tr>
