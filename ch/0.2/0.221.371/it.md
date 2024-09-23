@@ -3,11 +3,11 @@ sr: "0.221.371"
 title: Convenzione del 1° luglio 1985 relativa alla legge applicabile ai trust ed al loro riconoscimento
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/375"
 language: it
-version: 2020-05-05
+version: 2024-09-24
 adopted: 1985-07-01
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/375/20200505/it/xml/fedlex-data-admin-ch-eli-cc-2007-375-20200505-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/375/20200505/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/375/20240924/it/xml/fedlex-data-admin-ch-eli-cc-2007-375-20240924-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/375/20240924/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2007** 2855; FF **2006** 517
 
 Traduzione
 
-Conclusa all’Aia il 1° luglio 1985
+Conclusa all’Aia il 1° luglio 1985 Approvata dall’Assemblea federale il 20 dicembre 2006[^t-1] Ratificata dalla Svizzera con strumento depositato il 26 aprile 2007 Entrata in vigore per la Svizzera il 1° luglio 2007
 
-Approvata dall’Assemblea federale il 20 dicembre 2006[^t-1]
-
-Ratificata dalla Svizzera con strumento depositato il 26 aprile 2007
-
-Entrata in vigore per la Svizzera il 1° luglio 2007
-
-(Stato 5 maggio 2020)
+(Stato 24 settembre 2024)
 
 [^t-1]: Art. 1 cpv. 1 del DF del 20 dic. 2006 ([RU 2007 2849](https://fedlex.data.admin.ch/eli/oc/2007/374)).
 
@@ -266,10 +260,10 @@ Il Ministero degli Affari Esteri del Regno dei Paesi Bassi notificherà agli Sta
 
 *In fede di che*, i sottoscritti, debitamente autorizzati, hanno firmato la presente Convenzione. Fatto a L’Aja, il 1° luglio 1985, in francese ed inglese, i due testi facenti ugualmente fede, in un unico esemplare che sarà depositato negli archivi del Governo del Regno dei Paesi Bassi, e di cui una copia autenticata sarà consegnata, per le vie diplomatiche, a ciascuno Stato membro della Conferenza dell’Aja di diritto internazionale privato al momento della sua quindicesima sessione. (Seguono le firme)
 
-Campo d’applicazione il 5 maggio 2020**[^t-2]**
+Campo d’applicazione il 24 settembre 2024[^t-2]
 
 <table>
-<tr><th>Stati parte</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Australia</td><td>17 ottobre</td><td>1991</td><td>1° gennaio</td><td>1992</td></tr>
 <tr><td>Canada<sup>\*</sup> <sup>a</sup></td><td>20 ottobre</td><td>1992</td><td>1° gennaio</td><td>1993</td></tr>
 <tr><td>Cina</td><td></td><td></td><td></td><td></td></tr>
@@ -280,12 +274,13 @@ Campo d’applicazione il 5 maggio 2020**[^t-2]**
 <tr><td>Lussemburgo<sup>\*</sup></td><td>16 ottobre</td><td>2003</td><td>1° gennaio</td><td>2004</td></tr>
 <tr><td>Malta</td><td>7 dicembre</td><td>1994 A</td><td>1° marzo</td><td>1996</td></tr>
 <tr><td>Monaco<sup>\*</sup></td><td>1° giugno</td><td>2007 A</td><td>1° settembre</td><td>2008</td></tr>
-<tr><td>Paesi Bassi <sup>b</sup></td><td>28 novembre</td><td>1995</td><td>1° febbraio</td><td>1996</td></tr>
+<tr><td>Paesi Bassi</td><td>28 novembre</td><td>1995</td><td>1° febbraio</td><td>1996</td></tr>
+<tr><td>Curaçao</td><td>27 novembre</td><td>2023</td><td>1° febbraio</td><td>2024</td></tr>
 <tr><td>Panama</td><td>30 agosto</td><td>2017 A</td><td>1° dicembre</td><td>2018</td></tr>
-<tr><td>Regno Unito<sup>\*</sup> <sup>c</sup></td><td>17 novembre</td><td>1989</td><td>1° gennaio</td><td>1992</td></tr>
+<tr><td>Regno Unito<sup>\*</sup> <sup>b</sup></td><td>17 novembre</td><td>1989</td><td>1° gennaio</td><td>1992</td></tr>
 <tr><td>San Marino</td><td>28 aprile</td><td>2005 A</td><td>1<sup>°</sup> agosto</td><td>2006</td></tr>
 <tr><td>Svizzera</td><td>26 aprile</td><td>2007</td><td>1° luglio</td><td>2007</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet della Conferenza dell’Aja: www.hcch.net/ &gt; Français &gt; Instruments &gt; Conventions, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. si applica alle province Alberta, Columbia Britannica, Isola Principe Edoardo, Manitoba, Nuovo Brunswick, Saskatchewan, Terranova e Labrador, Nuova Scozia, nonché Ontario. <sup>b</sup> La Conv. s’applica solo al Regno in Europa. <sup>c</sup> La Conv. s’applica inoltre a Akrotiri e Dhekelia (basi britanniche a Cipro), alle Bermuda, alla Georgia del Sud e alle Isole Sandwich del Sud, a Gibilterra, a Guernesey, all’Isola di Man, alle Isole Malvine, alle Isole Turche e Caicos, alle Isole Vergini Britanniche, a Jersey, a Montserrat, a Sant’Elena ed alla Terra antartica britannica.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi, in inglese, possono essere consultati sul sito Internet del Depositario, del Ministero degli Affari Esteri del Regno dei Paesi Bassi: https://treatydatabase.overheid.nl/en/Treaty/Details/000066.html oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. si applica alle province Alberta, Columbia Britannica, Isola Principe Edoardo, Manitoba, Nuovo Brunswick, Saskatchewan, Terranova e Labrador, Nuova Scozia, nonché Ontario. <sup>b</sup> La Conv. s’applica inoltre a Akrotiri e Dhekelia (basi britanniche a Cipro), alle Bermuda, alla Georgia del Sud e alle Isole Sandwich del Sud, a Gibilterra, a Guernesey, all’Isola di Man, alle Isole Malvine, alle Isole Turche e Caicos, alle Isole Vergini Britanniche, a Jersey, a Montserrat, a Sant’Elena ed alla Terra antartica britannica.</td></tr>
 </table>
 
-[^t-2]: [RU 2007 2855](https://fedlex.data.admin.ch/eli/oc/2007/375), [2012 465](https://fedlex.data.admin.ch/eli/oc/2012/63)e [2020 1665](https://fedlex.data.admin.ch/eli/oc/2020/337). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2007 2855](https://fedlex.data.admin.ch/eli/oc/2007/375); [2012 465](https://fedlex.data.admin.ch/eli/oc/2012/63); [2020 1665](https://fedlex.data.admin.ch/eli/oc/2020/337); [2024 523](https://fedlex.data.admin.ch/eli/oc/2024/523). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)

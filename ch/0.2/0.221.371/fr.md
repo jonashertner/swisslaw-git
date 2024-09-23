@@ -3,11 +3,11 @@ sr: "0.221.371"
 title: "Convention du 1<sup>er</sup> juillet 1985 relative à la loi applicable au trust et à sa reconnaissance"
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/375"
 language: fr
-version: 2020-05-05
+version: 2024-09-24
 adopted: 1985-07-01
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/375/20200505/fr/xml/fedlex-data-admin-ch-eli-cc-2007-375-20200505-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/375/20200505/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/375/20240924/fr/xml/fedlex-data-admin-ch-eli-cc-2007-375-20240924-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/375/20240924/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,15 +18,9 @@ RO **2007** 2855; FF **2006** 561
 
 Texte original
 
-Conclue à La Haye le 1<sup>er</sup> juillet 1985
+Conclue à La Haye le 1<sup>er</sup> juillet 1985 Approuvée par l’Assemblée fédérale le 20 décembre 2006[^t-1] Instrument de ratification déposé par la Suisse le 26 avril 2007 Entrée en vigueur pour la Suisse le 1<sup>er</sup> juillet 2007
 
-Approuvée par l’Assemblée fédérale le 20 décembre 2006[^t-1]
-
-Instrument de ratification déposé par la Suisse le 26 avril 2007
-
-Entrée en vigueur pour la Suisse le 1<sup>er</sup> juillet 2007
-
-(Etat le 5 mai 2020)
+(État le 24 septembre 2024)
 
 [^t-1]: Art. 1 al. 1 de l’AF du 20 déc. 2006 ([RO 2007 2849](https://fedlex.data.admin.ch/eli/oc/2007/374)).
 
@@ -268,7 +262,7 @@ Le Ministère des Affaires Étrangères du Royaume des Pays-Bas notifiera aux É
 
 *En foi de quoi*, les soussignés, dûment autorisés, ont signé la présente Convention. Fait à La Haye, le 1<sup>er</sup> juillet 1985, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire, qui sera déposé dans les archives du Gouvernement du Royaume des Pays-Bas et dont une copie certifiée conforme sera remise, par la voie diplomatique, à chacun des États Membres de la Conférence de La Haye de droit international privé lors de sa Quinzième session. (Suivent les signatures)
 
-Champ d’application le 5 mai 2020**[^t-2]**
+Champ d’application le 24 septembre 2024[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -283,11 +277,12 @@ Champ d’application le 5 mai 2020**[^t-2]**
 <tr><td>Malte</td><td>7 décembre</td><td>1994 A</td><td>1<sup>er</sup> mars</td><td>1996</td></tr>
 <tr><td>Monaco\*</td><td>1<sup>er</sup> juin</td><td>2007 A</td><td>1<sup>er</sup> septembre</td><td>2008</td></tr>
 <tr><td>Panama</td><td>30 août</td><td>2017 A</td><td>1<sup>er</sup> décembre</td><td>2018</td></tr>
-<tr><td>Pays-Bas <sup>b</sup></td><td>28 novembre</td><td>1995</td><td>1<sup>er</sup> février</td><td>1996</td></tr>
-<tr><td>Royaume-Uni\* <sup>c</sup></td><td>17 novembre</td><td>1989</td><td>1<sup>er</sup> janvier</td><td>1992</td></tr>
+<tr><td>Pays-Bas</td><td>28 novembre</td><td>1995</td><td>1<sup>er</sup> février</td><td>1996</td></tr>
+<tr><td>Curaçao</td><td>27 novembre</td><td>2023</td><td>1<sup>er</sup> février</td><td>2024</td></tr>
+<tr><td>Royaume-Uni\* <sup>b</sup></td><td>17 novembre</td><td>1989</td><td>1<sup>er</sup> janvier</td><td>1992</td></tr>
 <tr><td>Saint-Marin</td><td>28 avril</td><td>2005 A</td><td>1<sup>er</sup> août</td><td>2006</td></tr>
 <tr><td>Suisse</td><td>26 avril</td><td>2007</td><td>1<sup>er</sup> juillet</td><td>2007</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de la Conférence de La Haye: www.hcch.net/ &gt; Français &gt; Instruments &gt; Conventions, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention s’applique aux provinces Alberta, Colombie-Britannique, Île-du-Prince-Édouard, Manitoba, Nouveau-Brunswick, Saskatchewan, Terre-Neuve-et-Labrador, Nouvelle-Écosse et Ontario. <sup>b</sup> La Convention ne s’applique qu’au Royaume en Europe. <sup>c</sup> La Convention s’applique aussi à Akrotiri et Dhekelia (Bases britanniques de Chypre), aux Bermudes, à la Géorgie du Sud et les Îles Sandwich du Sud, à Gibraltar, à Guernesey, à l’Île de Man, aux Îles Malouines, aux Îles Turques et Caïques, aux Îles Vierges britanniques, au Jersey, à Montserrat, à Sainte-Hélène et au Territoire antarctique britannique.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en anglais peuvent être consultés à l’adresse du site internet du dépositaire, du Ministère des Affaires Étrangères du Royaume des Pays-Bas: [https://treatydatabase.overheid.nl/en/Treaty/Details/000066.html](https://treatydatabase.overheid.nl/en/Treaty/Details/000066.html) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention s’applique aux provinces Alberta, Colombie-Britannique, Île-du-Prince-Édouard, Manitoba, Nouveau-Brunswick, Saskatchewan, Terre-Neuve-et-Labrador, Nouvelle-Écosse et Ontario. <sup>b</sup> La Convention s’applique aussi à Akrotiri et Dhekelia (Bases britanniques de Chypre), aux Bermudes, à la Géorgie du Sud et les Îles Sandwich du Sud, à Gibraltar, à Guernesey, à l’Île de Man, aux Îles Malouines, aux Îles Turques et Caïques, aux Îles Vierges britanniques, au Jersey, à Montserrat, à Sainte-Hélène et au Territoire antarctique britannique.</td></tr>
 </table>
 
-[^t-2]: [RO 2007 2849](https://fedlex.data.admin.ch/eli/oc/2007/374), [2012 465](https://fedlex.data.admin.ch/eli/oc/2012/63), [2020 1665](https://fedlex.data.admin.ch/eli/oc/2020/337). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2007 2855](https://fedlex.data.admin.ch/eli/oc/2007/375); [2012 465](https://fedlex.data.admin.ch/eli/oc/2012/63); [2020 1665](https://fedlex.data.admin.ch/eli/oc/2020/337); [2024 523](https://fedlex.data.admin.ch/eli/oc/2024/523). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

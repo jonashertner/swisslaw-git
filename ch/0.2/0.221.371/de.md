@@ -3,11 +3,11 @@ sr: "0.221.371"
 title: Übereinkommen vom 1. Juli 1985 über das auf Trusts anzuwendende Recht und über ihre Anerkennung
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/375"
 language: de
-version: 2020-05-05
+version: 2024-09-24
 adopted: 1985-07-01
 in_force: 2007-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/375/20200505/de/xml/fedlex-data-admin-ch-eli-cc-2007-375-20200505-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/375/20200505/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/375/20240924/de/xml/fedlex-data-admin-ch-eli-cc-2007-375-20240924-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/375/20240924/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 26. April 2007
 
 In Kraft getreten für die Schweiz am 1. Juli 2007
 
-(Stand am 5. Mai 2020)
+(Stand am 24. September 2024)
 
 [^t-1]: Art. 1 Abs. 1 des BB vom 20. Dez. 2006 ([AS 2007 2849](https://fedlex.data.admin.ch/eli/oc/2007/374)).
 
@@ -266,7 +266,7 @@ Das Ministerium für Auswärtige Angelegenheiten des Königreichs der Niederland
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen in Den Haag am 1. Juli 1985 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv der Regierung des Königreichs der Niederlande hinterlegt und von der jedem Staat, der zur Zeit der Fünfzehnten Tagung der Haager Konferenz für Internationales Privatrecht Mitglied der Konferenz war, auf diplomatischem Weg eine beglaubigte Abschrift übermittelt wird. (Es folgen die Unterschriften)
 
-Geltungsbereich am 5. Mai 2020**[^t-2]**
+Geltungsbereich am 24. September 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -279,17 +279,17 @@ Geltungsbereich am 5. Mai 2020**[^t-2]**
 <tr><td>Luxemburg\*</td><td>16. Oktober</td><td>2003</td><td>1. Januar</td><td>2004</td></tr>
 <tr><td>Malta</td><td>7. Dezember</td><td>1994 B</td><td>1. März</td><td>1996</td></tr>
 <tr><td>Monaco\*</td><td>1. Juni</td><td>2007 B</td><td>1. September</td><td>2008</td></tr>
-<tr><td>Niederlande <sup>b</sup></td><td>28. November</td><td>1995</td><td>1. Februar</td><td>1996</td></tr>
+<tr><td>Niederlande</td><td>28. November</td><td>1995</td><td>1. Februar</td><td>1996</td></tr>
+<tr><td>Curaçao</td><td>27. November</td><td>2023</td><td>1. Februar</td><td>2024</td></tr>
 <tr><td>Panama</td><td>30. August</td><td>2017 B</td><td>1. Dezember</td><td>2018</td></tr>
 <tr><td>San Marino</td><td>28. April</td><td>2005 B</td><td>1. August</td><td>2006</td></tr>
 <tr><td>Schweiz</td><td>26. April</td><td>2007</td><td>1. Juli</td><td>2007</td></tr>
-<tr><td>Vereinigtes Königreich\* <sup>c</sup></td><td>17. November</td><td>1989</td><td>1. Januar</td><td>1992</td></tr>
+<tr><td>Vereinigtes Königreich\* <sup>b</sup></td><td>17. November</td><td>1989</td><td>1. Januar</td><td>1992</td></tr>
 <tr><td>Zypern\*</td><td>15. März</td><td>2017</td><td>1. Juni</td><td>2017</td></tr>
 <tr><td colspan="5">\* Vorbehalte und Erklärungen.</td></tr>
-<tr><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Haager Konferenz: www.hcch.net/ &gt; Français &gt; Instruments &gt; Conventions eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Das Übereinkommen gilt für die Provinzen Alberta, Britisch-Kolumbien, Manitoba, Neubraunschweig, Neufundland und Labrador, Neuschottland, Prinz-Edouard-Insel, Saskatchewan und Ontario.</td></tr>
-<tr><td colspan="5"><sup>b</sup> Das Übereinkommen gilt nur für das Königreich in Europa.</td></tr>
-<tr><td colspan="5"><sup>c</sup> Das Übereinkommen gilt auch für Akrotiri und Dhekelia, Bermudas, Südgeorgien und Südliche Sandwichinsel, Gibraltar, Guernsey, Insel Man, Falklandinseln, Turks-und-Caicosinseln, Britische Jungferninseln, Jersey, Montserrat, St. Helena und das Britische Antarktis-Territorium.</td></tr>
+<tr><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die englischen Texte können auf der Internetseite des Depositars, des Ministeriums für Auswärtige Angelegenheiten des Königreichs der Niederlande: [https://treatydatabase.overheid.nl/en/Treaty/Details/000066.html](https://treatydatabase.overheid.nl/en/Treaty/Details/000066.html) eingesehen oder bei der Direktion für Völkerrecht (DV), Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5"><sup>a</sup> Das Übereinkommen gilt für die Provinzen Alberta, Britisch-Kolumbien, Manitoba, Neubraunschweig, Neufundland und Labrador, Neuschottland, Prinz-Eduard-Insel, Saskatchewan und Ontario.</td></tr>
+<tr><td colspan="5"><sup>b</sup> Das Übereinkommen gilt auch für Akrotiri und Dhekelia, Bermudas, Südgeorgien und Südliche Sandwichinsel, Gibraltar, Guernsey, Insel Man, Falklandinseln, Turks-und-Caicosinseln, Britische Jungferninseln, Jersey, Montserrat, St. Helena und das Britische Antarktis-Territorium.</td></tr>
 </table>
 
-[^t-2]: [AS 2007 2855](https://fedlex.data.admin.ch/eli/oc/2007/375), [2012 465](https://fedlex.data.admin.ch/eli/oc/2012/63), [2020 1665](https://fedlex.data.admin.ch/eli/oc/2020/337). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2007 2855](https://fedlex.data.admin.ch/eli/oc/2007/375); [2012 465](https://fedlex.data.admin.ch/eli/oc/2012/63); [2020 1665](https://fedlex.data.admin.ch/eli/oc/2020/337); [2024 523](https://fedlex.data.admin.ch/eli/oc/2024/523). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
