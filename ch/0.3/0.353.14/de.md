@@ -3,11 +3,11 @@ sr: "0.353.14"
 title: Viertes Zusatzprotokoll vom 20. September 2012 zum Europäischen Auslieferungsübereinkommen
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/607"
 language: de
-version: 2020-05-11
+version: 2024-09-24
 adopted: 2012-09-20
 in_force: 2016-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/607/20200511/de/xml/fedlex-data-admin-ch-eli-cc-2016-607-20200511-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/607/20200511/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/607/20240924/de/xml/fedlex-data-admin-ch-eli-cc-2016-607-20240924-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/607/20240924/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 15. Juli 2016
 
 In Kraft getreten für die Schweiz am 1. November 2016
 
-(Stand am 11. Mai 2020)
+(Stand am 24. September 2024)
 
 [^t-1]: Art. 1 Abs. 1 Bst. b des BB vom 18. März 2016 ([AS 2016 3581](https://fedlex.data.admin.ch/eli/oc/2016/605))
 
@@ -128,7 +128,7 @@ Jeder Staat kann bei der Unterzeichnung oder bei der Hinterlegung seiner Ratifik
 
 Der Wortlaut des Artikels 15 des Übereinkommens wird zu dessen Absatz 1 und durch einen Absatz 2 mit folgendem Wortlaut ergänzt:
 
-<sup>2.</sup> Die ersuchte Vertragspartei trifft die Entscheidung über die in Absatz 1 vorgesehene Zustimmung so bald wie möglich und innerhalb von höchstens 90 Tagen nach Eingehen des Ersuchens um Zustimmung und gegebenenfalls der in Artikel 12 Absatz 2 erwähnten Unterlagen. Ist es der ersuchten Vertragspartei nicht möglich, die in diesem Absatz vorgesehene Frist einzuhalten, so unterrichtet sie die ersuchende Vertragspartei hiervon und gibt die Gründe für die Verzögerung und die Zeit an, die voraussichtlich benötigt wird, um die Entscheidung zu treffen.»
+«2. Die ersuchte Vertragspartei trifft die Entscheidung über die in Absatz 1 vorgesehene Zustimmung so bald wie möglich und innerhalb von höchstens 90 Tagen nach Eingehen des Ersuchens um Zustimmung und gegebenenfalls der in Artikel 12 Absatz 2 erwähnten Unterlagen. Ist es der ersuchten Vertragspartei nicht möglich, die in diesem Absatz vorgesehene Frist einzuhalten, so unterrichtet sie die ersuchende Vertragspartei hiervon und gibt die Gründe für die Verzögerung und die Zeit an, die voraussichtlich benötigt wird, um die Entscheidung zu treffen.»
 
 #### Art. 5
 
@@ -264,14 +264,17 @@ Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Europara
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Protokoll unterschrieben. Geschehen zu Wien am 20. September 2012 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarats hinterlegt wird. Der Generalsekretär des Europarats übermittelt allen Mitgliedstaaten des Europarats und den Nichtmitgliedstaaten, die dem Übereinkommen beigetreten sind, beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 11. Mai 2020**[^t-2]**
+Geltungsbereich am 24. September 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Albanien</td><td>14. August</td><td>2013</td><td>1. Juni</td><td>2014</td></tr>
+<tr><td>Aserbaidschan\*</td><td>10. Januar</td><td>2023</td><td>1. Mai</td><td>2023</td></tr>
+<tr><td>Frankreich\*</td><td>10. Juni</td><td>2021</td><td>1. Oktober</td><td>2021</td></tr>
 <tr><td>Italien<sup>\*</sup></td><td>30. August</td><td>2019</td><td>1. Dezember</td><td>2019</td></tr>
 <tr><td>Lettland<sup>\*</sup></td><td>24. Februar</td><td>2014</td><td>1. Juni</td><td>2014</td></tr>
 <tr><td>Österreich</td><td>1. Februar</td><td>2016</td><td>1. Juni</td><td>2016</td></tr>
+<tr><td>Portugal</td><td>28. Juli</td><td>2021</td><td>1. November</td><td>2021</td></tr>
 <tr><td>Russland<sup>\*</sup></td><td>29. Mai</td><td>2017</td><td>1. September</td><td>2017</td></tr>
 <tr><td>Schweiz<sup>\*</sup></td><td>15. Juli</td><td>2016</td><td>1. November</td><td>2016</td></tr>
 <tr><td>Serbien</td><td>10. Januar</td><td>2014</td><td>1. Juni</td><td>2014</td></tr>
@@ -280,10 +283,10 @@ Geltungsbereich am 11. Mai 2020**[^t-2]**
 <tr><td>Ukraine<sup>\*</sup></td><td>13. November</td><td>2018</td><td>1. März</td><td>2019</td></tr>
 <tr><td>Vereinigtes Königreich<sup>\*</sup></td><td>23. September</td><td>2014</td><td>1. Januar</td><td>2015</td></tr>
 <tr><td>Gibraltar</td><td>29. Juli</td><td>2019</td><td>27. Oktober</td><td>2019</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarates: www.coe.int &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarats: [http://conventions.coe.int](http://conventions.coe.int) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 2016 3591](https://fedlex.data.admin.ch/eli/oc/2016/607), [2020 1795](https://fedlex.data.admin.ch/eli/oc/2020/358). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: Diese Veröffentlichung ergänzt die früheren in [AS 2016 3591](https://fedlex.data.admin.ch/eli/oc/2016/607); [2020 1795](https://fedlex.data.admin.ch/eli/oc/2020/358); [2024 526](https://fedlex.data.admin.ch/eli/oc/2024/526). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalte und Erklärungen
 

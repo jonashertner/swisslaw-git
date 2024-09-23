@@ -3,11 +3,11 @@ sr: "0.353.14"
 title: Quarto Protocollo addizionale del 20 settembre 2012 alla Convenzione europea di estradizione
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/607"
 language: it
-version: 2020-05-11
+version: 2024-09-24
 adopted: 2012-09-20
 in_force: 2016-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/607/20200511/it/xml/fedlex-data-admin-ch-eli-cc-2016-607-20200511-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/607/20200511/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/607/20240924/it/xml/fedlex-data-admin-ch-eli-cc-2016-607-20240924-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/607/20240924/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,17 +16,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/607/20200511/it"
 
 RU **2016** 3591; FF **2015** 3113
 
-*Traduzione*
+Traduzione
 
-Concluso a Vienna il 20 settembre 2012
+Concluso a Vienna il 20 settembre 2012 Approvato dall’Assemblea federale il 18 marzo 2016[^t-1] Strumento di ratifica depositato dalla Svizzera il 15 luglio 2016 Entrato in vigore per la Svizzera il 1° novembre 2016
 
-Approvato dall’Assemblea federale il 18 marzo 2016[^t-1]
-
-Strumento di ratifica depositato dalla Svizzera il 15 luglio 2016
-
-Entrato in vigore per la Svizzera il 1° novembre 2016
-
-(Stato 11 maggio 2020)
+(Stato 24 settembre 2024)
 
 [^t-1]: Art. 1 cpv. 1 lett. b del DF del 18 mar. 2016 ([RU 2016 3581](https://fedlex.data.admin.ch/eli/oc/2016/605)).
 
@@ -262,26 +256,29 @@ Il Segretario Generale del Consiglio d’Europa notificherà agli Stati membri d
 
 *In fede di che*, i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato il presente Protocollo. Fatto a Vienna, il 20 settembre 2012, in francese e in inglese, i due testi facendo ugualmente fede, in un solo esemplare che sarà depositato negli archivi del Consiglio d’Europa. Il Segretario Generale del Consiglio d’Europa ne invierà copia certificata conforme a ciascuno degli Stati membri del Consiglio d’Europa e agli Stati non membri aderenti alla Convenzione. (Seguono le firme)
 
-Campo d’applicazione l’11 maggio 2020**[^t-2]**
+Campo d’applicazione il 24 settembre 2024[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Albania</td><td>14 agosto</td><td>2013</td><td>1° giugno</td><td>2014</td></tr>
 <tr><td>Austria</td><td>1° febbraio</td><td>2016</td><td>1° giugno</td><td>2016</td></tr>
-<tr><td>Italia<sup>\*</sup></td><td>30 agosto</td><td>2019</td><td>1° dicembre</td><td>2019</td></tr>
-<tr><td>Lettonia<sup>\*</sup></td><td>24 febbraio</td><td>2014</td><td>1° giugno</td><td>2014</td></tr>
-<tr><td>Regno Unito<sup>\*</sup></td><td>23 settembre</td><td>2014</td><td>1° gennaio</td><td>2015</td></tr>
+<tr><td>Azerbaigian\*</td><td>10 gennaio</td><td>2023</td><td>1° maggio</td><td>2023</td></tr>
+<tr><td>Francia\*</td><td>10 giugno</td><td>2021</td><td>1° ottobre</td><td>2021</td></tr>
+<tr><td>Italia\*</td><td>30 agosto</td><td>2019</td><td>1° dicembre</td><td>2019</td></tr>
+<tr><td>Lettonia\*</td><td>24 febbraio</td><td>2014</td><td>1° giugno</td><td>2014</td></tr>
+<tr><td>Portogallo</td><td>28 luglio</td><td>2021</td><td>1° novembre</td><td>2021</td></tr>
+<tr><td>Regno Unito\*</td><td>23 settembre</td><td>2014</td><td>1° gennaio</td><td>2015</td></tr>
 <tr><td>Gibilterra</td><td>29 luglio</td><td>2019</td><td>27 ottobre</td><td>2019</td></tr>
-<tr><td><sup>Russia\*</sup></td><td>29 maggio</td><td>2017</td><td>1° settembre</td><td>2017</td></tr>
+<tr><td>Russia\*</td><td>29 maggio</td><td>2017</td><td>1° settembre</td><td>2017</td></tr>
 <tr><td>Serbia</td><td>10 gennaio</td><td>2014</td><td>1° giugno</td><td>2014</td></tr>
-<tr><td>Slovenia<sup>\*</sup></td><td>3 giugno</td><td>2015</td><td>1° ottobre</td><td>2015</td></tr>
-<tr><td>Svizzera<sup>\*</sup></td><td>15 luglio</td><td>2016</td><td>1° novembre</td><td>2016</td></tr>
-<tr><td>Turchia<sup>\*</sup></td><td>11 luglio</td><td>2016</td><td>1° novembre</td><td>2016</td></tr>
-<tr><td>Ucraina<sup>\*</sup></td><td>13 novembre</td><td>2018</td><td>1° marzo</td><td>2019</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. I testi, francese ed inglese, possono essere consultati sul sito Internet del Consiglio d’Europa: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td>Slovenia\*</td><td>3 giugno</td><td>2015</td><td>1° ottobre</td><td>2015</td></tr>
+<tr><td>Svizzera\*</td><td>15 luglio</td><td>2016</td><td>1° novembre</td><td>2016</td></tr>
+<tr><td>Turchia\*</td><td>11 luglio</td><td>2016</td><td>1° novembre</td><td>2016</td></tr>
+<tr><td>Ucraina\*</td><td>13 novembre</td><td>2018</td><td>1° marzo</td><td>2019</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: [http://conventions.coe.int](http://conventions.coe.int) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: [RU 2016 3591](https://fedlex.data.admin.ch/eli/oc/2016/607)e [2020 1795](https://fedlex.data.admin.ch/eli/oc/2020/358). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2016 3591](https://fedlex.data.admin.ch/eli/oc/2016/607); [2020 1795](https://fedlex.data.admin.ch/eli/oc/2020/358); [2024 526](https://fedlex.data.admin.ch/eli/oc/2024/526)Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Riserve e dichiarazioni
 

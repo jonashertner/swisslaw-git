@@ -3,11 +3,11 @@ sr: "0.353.14"
 title: "Quatrième Protocole additionnel du 20 septembre 2012 à la Convention européenne d'extradition"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/607"
 language: fr
-version: 2020-05-11
+version: 2024-09-24
 adopted: 2012-09-20
 in_force: 2016-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/607/20200511/fr/xml/fedlex-data-admin-ch-eli-cc-2016-607-20200511-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/607/20200511/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/607/20240924/fr/xml/fedlex-data-admin-ch-eli-cc-2016-607-20240924-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/607/20240924/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -16,17 +16,11 @@ url: "https://www.fedlex.admin.ch/eli/cc/2016/607/20200511/fr"
 
 RO **2016** 3591; FF **2015** 3567
 
-*Texte original*
+Texte original
 
-Conclu à Vienne le 20 septembre 2012
+Conclu à Vienne le 20 septembre 2012 Approuvé par l’Assemblée fédérale le 18 mars 2016[^t-1] Instrument de ratification déposé par la Suisse le 15 juillet 2016 Entré en vigueur pour la Suisse le 1<sup>er</sup> novembre 2016
 
-Approuvé par l’Assemblée fédérale le 18 mars 2016[^t-1]
-
-Instrument de ratification déposé par la Suisse le 15 juillet 2016
-
-Entré en vigueur pour la Suisse le 1<sup>er</sup> novembre 2016
-
-(Etat le 11 mai 2020)
+(État le 24 septembre 2024)
 
 [^t-1]: Art. 1 al. 1 let. b de l’AF du 18 mars 2016 ([RO 2016 3581](https://fedlex.data.admin.ch/eli/oc/2016/605)).
 
@@ -262,26 +256,29 @@ Le Secrétaire Général du Conseil de l’Europe notifiera aux États membres d
 
 *En foi de quoi*, les soussignés, dûment autorisés à cet effet, ont signé le présent Protocole. Fait à Vienne, le 20 septembre 2012, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des États membres du Conseil de l’Europe ainsi qu’aux États non membres ayant adhéré à la Convention. (Suivent les signatures)
 
-Champ d’application le 11 mai 2020**[^t-2]**
+Champ d’application le 24 septembre 2024[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie</td><td>14 août</td><td>2013</td><td>1<sup>er</sup> juin</td><td>2014</td></tr>
 <tr><td>Autriche</td><td>1<sup>er</sup> février</td><td>2016</td><td>1<sup>er</sup> juin</td><td>2016</td></tr>
-<tr><td>Italie<sup>\*</sup></td><td>30 août</td><td>2019</td><td>1<sup>er</sup> décembre</td><td>2019</td></tr>
-<tr><td>Lettonie<sup>\*</sup></td><td>24 février</td><td>2014</td><td>1<sup>er</sup> juin</td><td>2014</td></tr>
-<tr><td>Royaume-Uni<sup>\*</sup></td><td>23 septembre</td><td>2014</td><td>1<sup>er</sup> janvier</td><td>2015</td></tr>
+<tr><td>Azerbaïdjan\*</td><td>10 janvier</td><td>2023</td><td>1<sup>er</sup> mai</td><td>2023</td></tr>
+<tr><td>France\*</td><td>10 juin</td><td>2021</td><td>1<sup>er</sup> octobre</td><td>2021</td></tr>
+<tr><td>Italie\*</td><td>30 août</td><td>2019</td><td>1<sup>er</sup> décembre</td><td>2019</td></tr>
+<tr><td>Lettonie\*</td><td>24 février</td><td>2014</td><td>1<sup>er</sup> juin</td><td>2014</td></tr>
+<tr><td>Portugal</td><td>28 juillet</td><td>2021</td><td>1<sup>er</sup> novembre</td><td>2021</td></tr>
+<tr><td>Royaume-Uni\*</td><td>23 septembre</td><td>2014</td><td>1<sup>er</sup> janvier</td><td>2015</td></tr>
 <tr><td>Gibraltar</td><td>29 juillet</td><td>2019</td><td>27 octobre</td><td>2019</td></tr>
-<tr><td>Russie<sup>\*</sup></td><td>29 mai</td><td>2017</td><td>1<sup>er</sup> septembre</td><td>2017</td></tr>
+<tr><td>Russie\*</td><td>29 mai</td><td>2017</td><td>1<sup>er</sup> septembre</td><td>2017</td></tr>
 <tr><td>Serbie</td><td>10 janvier</td><td>2014</td><td>1<sup>er</sup> juin</td><td>2014</td></tr>
-<tr><td>Slovénie<sup>\*</sup></td><td>3 juin</td><td>2015</td><td>1<sup>er</sup> octobre</td><td>2015</td></tr>
-<tr><td>Suisse<sup>\*</sup></td><td>15 juillet</td><td>2016</td><td>1<sup>er</sup> novembre</td><td>2016</td></tr>
-<tr><td>Turquie<sup>\*</sup></td><td>11 juillet</td><td>2016</td><td>1<sup>er</sup> novembre</td><td>2016</td></tr>
-<tr><td>Ukraine<sup>\*</sup></td><td>13 novembre</td><td>2018</td><td>1<sup>er</sup> mars</td><td>2019</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td>Slovénie\*</td><td>3 juin</td><td>2015</td><td>1<sup>er</sup> octobre</td><td>2015</td></tr>
+<tr><td>Suisse\*</td><td>15 juillet</td><td>2016</td><td>1<sup>er</sup> novembre</td><td>2016</td></tr>
+<tr><td>Turquie\*</td><td>11 juillet</td><td>2016</td><td>1<sup>er</sup> novembre</td><td>2016</td></tr>
+<tr><td>Ukraine\*</td><td>13 novembre</td><td>2018</td><td>1<sup>er</sup> mars</td><td>2019</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet du Conseil de l’Europe: [http://conventions.coe.int](http://conventions.coe.int) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 2016 3591](https://fedlex.data.admin.ch/eli/oc/2016/607), [2020 1795](https://fedlex.data.admin.ch/eli/oc/2020/358). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites)
+[^t-2]: [RO 2016 3591](https://fedlex.data.admin.ch/eli/oc/2016/607); [2020 1795](https://fedlex.data.admin.ch/eli/oc/2020/358); [2024 526](https://fedlex.data.admin.ch/eli/oc/2024/526). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Déclarations et réserves
 
