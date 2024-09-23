@@ -4,13 +4,13 @@ number: "263"
 title: Geschäftsordnung für das Kantonsgericht des Kantons Luzern
 short: GOKG
 language: de
-version: 2018-04-01
-valid_until: 2024-09-23
-version_adopted: 2018-03-12
+version: 2024-09-24
+valid_until: 2025-12-31
+version_adopted: 2024-09-24
 adopted: 2013-03-26
 in_force: 2013-06-01
 url: "https://srl.lu.ch/app/de/texts_of_law/263"
-pdf: "https://srl.lu.ch/api/de/versions/3249/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4277/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3249/pdf_file"
 
 (GOKG)
 
-vom 26.03.2013 (Stand 01.04.2018)
+vom 26.03.2013 (Stand 24.09.2024)
 
 Das Kantonsgericht des Kantons Luzern,
 
@@ -116,7 +116,7 @@ beschliesst:
 
 **Präsidentenkonferenz**
 
-<sup>1</sup> Der Präsident oder die Präsidentin des Kantonsgerichtes bildet zusammen mit den Abteilungs- und Kammerpräsidien die Präsidentenkonferenz. Der Generalsekretär oder die Generalsekretärin wird bei Bedarf zur Beratung beigezogen.
+<sup>1</sup> Der Präsident oder die Präsidentin des Kantonsgerichts bildet zusammen mit dem Vizepräsidium und den Abteilungspräsidien die Präsidentenkonferenz. Der Generalsekretär oder die Generalsekretärin gehört der Präsidentenkonferenz mit beratender Stimme an. Er oder sie kann weitere Mitarbeiterinnen und Mitarbeiter des Generalsekretariats zur Unterstützung beiziehen.
 
 <sup>2</sup> Die Präsidentenkonferenz ist zuständig für
 
@@ -128,7 +128,7 @@ beschliesst:
 
 <sup>3</sup> Im Fall von Absatz 2b entscheiden die Präsidentinnen und Präsidenten der betroffenen Abteilungen nach Massgabe der Rechtsfrage, auf der das Schwergewicht der Entscheidung liegt. Bei Stimmenparität entscheidet der Präsident oder die Präsidentin des Kantonsgerichtes.
 
-<sup>4</sup> Mindestens zwei Präsidentinnen oder Präsidenten einer Abteilung oder einer Kammer können die Einberufung der Präsidentenkonferenz bewirken.
+<sup>4</sup> Mindestens zwei Präsidentinnen oder Präsidenten einer Abteilung können die Einberufung der Präsidentenkonferenz bewirken.
 
 #### § 6
 
