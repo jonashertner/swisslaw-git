@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revision der Verordnung über die Militärversicherung
 document: Vernehmlassungsvorlage
 language: de

@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision de l’ordonnance de l’assurance-militaire
 document: Projet mis en consultation
 language: fr
