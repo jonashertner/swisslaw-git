@@ -3,11 +3,11 @@ sr: "0.343.1"
 title: Zusatzprotokoll vom 18. Dezember 1997 zum Übereinkommen über die Überstellung verurteilter Personen
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/648"
 language: de
-version: 2020-05-05
+version: 2024-09-24
 adopted: 1997-12-18
 in_force: 2004-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/648/20200505/de/xml/fedlex-data-admin-ch-eli-cc-2004-648-20200505-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/648/20200505/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/648/20240924/de/xml/fedlex-data-admin-ch-eli-cc-2004-648-20240924-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/648/20240924/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 18. Juni 2004
 
 In Kraft getreten für die Schweiz am 1. Oktober 2004
 
-(Stand am 5. Mai 2020)
+(Stand am 24. September 2024)
 
 [^t-1]: Art. 1 Abs. 1 des BB vom 19. Dez. 2003 ([AS 2004 4161](https://fedlex.data.admin.ch/eli/oc/2004/621))
 
@@ -79,7 +79,9 @@ Zur Anwendung dieses Artikels stellt der Urteilsstaat dem Vollstreckungsstaat Fo
 - a) eine Erklärung, aus der die Meinung der verurteilten Person zu ihrer vorgesehenen Überstellung hervorgeht, und
 - b) eine Abschrift der Ausweisungs‑ oder Abschiebungsanordnung oder einer sonstigen Anordnung, die bewirkt, dass die verurteilte Person nach der Entlassung aus der Haft nicht mehr im Hoheitsgebiet des Urteilsstaats bleiben darf.
 
-<sup>4.</sup> Eine nach diesem Artikel überstellte Person darf wegen einer anderen vor der Überstellung begangenen Handlung als derjenigen, die der zu vollstreckenden Sanktion zugrunde liegt, nur dann verfolgt, abgeurteilt, zur Vollstreckung einer Strafe oder sichernden Massnahme[^3-2] in Haft gehalten oder einer sonstigen Beschränkung ihrer persönlichen Freiheit unterworfen werden,
+<sup>4.</sup>
+
+Eine nach diesem Artikel überstellte Person darf wegen einer anderen vor der Überstellung begangenen Handlung als derjenigen, die der zu vollstreckenden Sanktion zugrunde liegt, nur dann verfolgt, abgeurteilt, zur Vollstreckung einer Strafe oder sichernden Massnahme[^3-2] in Haft gehalten oder einer sonstigen Beschränkung ihrer persönlichen Freiheit unterworfen werden:
 
 - a) wenn der Urteilsstaat dies genehmigt; zu diesem Zweck ist ein Ersuchen zu stellen, dem alle zweckdienlichen Unterlagen und ein gerichtliches Protokoll über alle Erklärungen der verurteilten Person beizufügen sind. Die Genehmigung wird erteilt, wenn die strafbare Handlung, derentwegen darum ersucht wird, nach dem Recht des Urteilsstaats zur Auslieferung Anlass geben könnte oder die Auslieferung nur wegen des Strafmasses ausgeschlossen wäre;
 - b) wenn die verurteilte Person, obwohl sie dazu die Möglichkeit hatte, das Hoheitsgebiet des Vollstreckungsstaats innerhalb von 45 Tagen nach ihrer endgültigen Freilassung nicht verlassen hat oder wenn sie nach Verlassen dieses Gebiets dorthin zurückgekehrt ist.
@@ -141,7 +143,7 @@ Dieses Protokoll ist auf die Vollstreckung von Sanktionen anwendbar, die vor ode
 
 **Notifikationen**
 
-Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Europarats, jedem Unterzeichner, jeder Vertragspartei und jedem anderen Staat, der eingeladen worden ist, dem Übereinkommen beizutreten,
+Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Europarats, jedem Unterzeichner, jeder Vertragspartei und jedem anderen Staat, der eingeladen worden ist, dem Übereinkommen beizutreten:
 
 - a) jede Unterzeichnung;
 - b) jede Hinterlegung einer Ratifikations‑, Annahme‑, Genehmigungs‑ oder Beitrittsurkunde;
@@ -152,50 +154,52 @@ Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Europara
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 5. Mai 2020**[^t-2]**
+Geltungsbereich am 24. September 2024[^t-2]
 
 <table>
-<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
-<tr><td>Belgien\*</td><td>26. Mai</td><td>2005</td><td>1. September</td><td>2005</td></tr>
-<tr><td>Bulgarien</td><td>30. März</td><td>2004</td><td>1. Juli</td><td>2004</td></tr>
-<tr><td>Dänemark\*</td><td>10. September</td><td>2001</td><td>1. Januar</td><td>2002</td></tr>
-<tr><td>Deutschland</td><td>17. April</td><td>2007</td><td>1. August</td><td>2007</td></tr>
-<tr><td>Estland</td><td>27. Oktober</td><td>1999</td><td>1. Juni</td><td>2000</td></tr>
-<tr><td>Finnland</td><td>3. April</td><td>2001</td><td>1. August</td><td>2001</td></tr>
-<tr><td>Frankreich</td><td>10. Januar</td><td>2006</td><td>1. Mai</td><td>2006</td></tr>
-<tr><td>Georgien</td><td>13. April</td><td>2000</td><td>1. August</td><td>2000</td></tr>
-<tr><td>Griechenland</td><td>13. September</td><td>2005</td><td>1. Januar</td><td>2006</td></tr>
-<tr><td>Heiliger Stuhl</td><td>15. Januar</td><td>2019 B</td><td>1. Mai</td><td>2019</td></tr>
-<tr><td>Irland\*</td><td>13. Dezember</td><td>2006</td><td>1. April</td><td>2007</td></tr>
-<tr><td>Island</td><td>25. Mai</td><td>2000</td><td>1. September</td><td>2000</td></tr>
-<tr><td>Kroatien</td><td>10. Oktober</td><td>2008</td><td>1. Februar</td><td>2009</td></tr>
-<tr><td>Lettland</td><td>2. Juni</td><td>2005</td><td>1. Oktober</td><td>2005</td></tr>
-<tr><td>Liechtenstein</td><td>13. Mai</td><td>2003</td><td>1. September</td><td>2003</td></tr>
-<tr><td>Litauen</td><td>31. Januar</td><td>2001</td><td>1. Mai</td><td>2001</td></tr>
-<tr><td>Luxemburg</td><td>15. Juli</td><td>2003</td><td>1. November</td><td>2003</td></tr>
-<tr><td>Malta</td><td>26. November</td><td>2003</td><td>1. März</td><td>2004</td></tr>
-<tr><td>Moldau\*</td><td>12. Mai</td><td>2004</td><td>1. September</td><td>2004</td></tr>
-<tr><td>Montenegro</td><td>6. Juni</td><td>2006 N</td><td>6. Juni</td><td>2006</td></tr>
-<tr><td>Niederlande\*</td><td>18. Juni</td><td>2002</td><td>1. Oktober</td><td>2002</td></tr>
-<tr><td>Nordmazedonien</td><td>28. Juli</td><td>1999</td><td>1. Juni</td><td>2000</td></tr>
-<tr><td>Norwegen</td><td>25. September</td><td>2000</td><td>1. Januar</td><td>2001</td></tr>
-<tr><td>Österreich</td><td>7. Dezember</td><td>2000</td><td>1. April</td><td>2001</td></tr>
-<tr><td>Polen</td><td>1. Februar</td><td>2000</td><td>1. Juni</td><td>2000</td></tr>
-<tr><td>Rumänien\*</td><td>7. Dezember</td><td>2001</td><td>1. April</td><td>2002</td></tr>
-<tr><td>Russland\*</td><td>28. August</td><td>2007</td><td>1. Dezember</td><td>2007</td></tr>
-<tr><td>San Marino</td><td>25. Juni</td><td>2004</td><td>1. Oktober</td><td>2004</td></tr>
-<tr><td>Schweden</td><td>24. November</td><td>2000</td><td>1. März</td><td>2001</td></tr>
-<tr><td>Schweiz</td><td>18. Juni</td><td>2004</td><td>1. Oktober</td><td>2004</td></tr>
-<tr><td>Serbien</td><td>30. September</td><td>2002 B</td><td>1. Januar</td><td>2003</td></tr>
-<tr><td>Slowenien</td><td>26. September</td><td>2013</td><td>1. Januar</td><td>2014</td></tr>
-<tr><td>Spanien\*</td><td>19. Juli</td><td>2017</td><td>1. November</td><td>2017</td></tr>
-<tr><td>Tschechische Republik</td><td>2. Oktober</td><td>2002</td><td>1. Februar</td><td>2003</td></tr>
-<tr><td>Türkei<sup>\*</sup></td><td>2. Mai</td><td>2016</td><td>1. September</td><td>2016</td></tr>
-<tr><td>Ukraine<sup>\*</sup></td><td>1. Juli</td><td>2003</td><td>1. November</td><td>2003</td></tr>
-<tr><td>Ungarn</td><td>4. Mai</td><td>2001</td><td>1. September</td><td>2001</td></tr>
-<tr><td>Vereinigtes Königreich<sup>\*</sup></td><td>17. Juli</td><td>2009</td><td>1. November</td><td>2009</td></tr>
-<tr><td>Zypern</td><td>1. Juni</td><td>2001</td><td>1. Oktober</td><td>2001</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite des Europarates: www.coe.int &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th colspan="2"></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Belgien\*</td><td>26. Mai</td><td colspan="2">2005</td><td>1. September</td><td>2005</td></tr>
+<tr><td>Bulgarien</td><td>30. März</td><td colspan="2">2004</td><td>1. Juli</td><td>2004</td></tr>
+<tr><td>Dänemark\*</td><td>10. September</td><td colspan="2">2001</td><td>1. Januar</td><td>2002</td></tr>
+<tr><td>Deutschland</td><td>17. April</td><td colspan="2">2007</td><td>1. August</td><td>2007</td></tr>
+<tr><td>Estland</td><td>27. Oktober</td><td colspan="2">1999</td><td>1. Juni</td><td>2000</td></tr>
+<tr><td>Finnland</td><td>3. April</td><td colspan="2">2001</td><td>1. August</td><td>2001</td></tr>
+<tr><td>Frankreich</td><td>10. Januar</td><td colspan="2">2006</td><td>1. Mai</td><td>2006</td></tr>
+<tr><td>Georgien</td><td>13. April</td><td colspan="2">2000</td><td>1. August</td><td>2000</td></tr>
+<tr><td>Griechenland</td><td>13. September</td><td colspan="2">2005</td><td>1. Januar</td><td>2006</td></tr>
+<tr><td>Heiliger Stuhl</td><td>15. Januar</td><td colspan="2">2019 B</td><td>1. Mai</td><td>2019</td></tr>
+<tr><td>Irland\*</td><td>13. Dezember</td><td colspan="2">2006</td><td>1. April</td><td>2007</td></tr>
+<tr><td>Island</td><td>25. Mai</td><td colspan="2">2000</td><td>1. September</td><td>2000</td></tr>
+<tr><td>Italien\*</td><td colspan="2">15. Juni</td><td>2021</td><td>1. Oktober</td><td>2021</td></tr>
+<tr><td>Kroatien</td><td>10. Oktober</td><td colspan="2">2008</td><td>1. Februar</td><td>2009</td></tr>
+<tr><td>Lettland</td><td>2. Juni</td><td colspan="2">2005</td><td>1. Oktober</td><td>2005</td></tr>
+<tr><td>Liechtenstein</td><td>13. Mai</td><td colspan="2">2003</td><td>1. September</td><td>2003</td></tr>
+<tr><td>Litauen</td><td>31. Januar</td><td colspan="2">2001</td><td>1. Mai</td><td>2001</td></tr>
+<tr><td>Luxemburg</td><td>15. Juli</td><td colspan="2">2003</td><td>1. November</td><td>2003</td></tr>
+<tr><td>Malta</td><td>26. November</td><td colspan="2">2003</td><td>1. März</td><td>2004</td></tr>
+<tr><td>Moldau\*</td><td>12. Mai</td><td colspan="2">2004</td><td>1. September</td><td>2004</td></tr>
+<tr><td>Montenegro</td><td>6. Juni</td><td colspan="2">2006 N</td><td>6. Juni</td><td>2006</td></tr>
+<tr><td>Niederlande\*</td><td>18. Juni</td><td colspan="2">2002</td><td>1. Oktober</td><td>2002</td></tr>
+<tr><td>Nordmazedonien</td><td>28. Juli</td><td colspan="2">1999</td><td>1. Juni</td><td>2000</td></tr>
+<tr><td>Norwegen</td><td>25. September</td><td colspan="2">2000</td><td>1. Januar</td><td>2001</td></tr>
+<tr><td>Österreich</td><td>7. Dezember</td><td colspan="2">2000</td><td>1. April</td><td>2001</td></tr>
+<tr><td>Polen</td><td>1. Februar</td><td colspan="2">2000</td><td>1. Juni</td><td>2000</td></tr>
+<tr><td>Portugal</td><td colspan="2">11. Juli</td><td>2023</td><td>1. November</td><td>2023</td></tr>
+<tr><td>Rumänien\*</td><td>7. Dezember</td><td colspan="2">2001</td><td>1. April</td><td>2002</td></tr>
+<tr><td>Russland\*</td><td>28. August</td><td colspan="2">2007</td><td>1. Dezember</td><td>2007</td></tr>
+<tr><td>San Marino</td><td>25. Juni</td><td colspan="2">2004</td><td>1. Oktober</td><td>2004</td></tr>
+<tr><td>Schweden</td><td>24. November</td><td colspan="2">2000</td><td>1. März</td><td>2001</td></tr>
+<tr><td>Schweiz</td><td>18. Juni</td><td colspan="2">2004</td><td>1. Oktober</td><td>2004</td></tr>
+<tr><td>Serbien</td><td>30. September</td><td colspan="2">2002 B</td><td>1. Januar</td><td>2003</td></tr>
+<tr><td>Slowenien</td><td>26. September</td><td colspan="2">2013</td><td>1. Januar</td><td>2014</td></tr>
+<tr><td>Spanien\*</td><td>19. Juli</td><td colspan="2">2017</td><td>1. November</td><td>2017</td></tr>
+<tr><td>Tschechische Republik</td><td>2. Oktober</td><td colspan="2">2002</td><td>1. Februar</td><td>2003</td></tr>
+<tr><td>Türkei<sup>\*</sup></td><td>2. Mai</td><td colspan="2">2016</td><td>1. September</td><td>2016</td></tr>
+<tr><td>Ukraine<sup>\*</sup></td><td>1. Juli</td><td colspan="2">2003</td><td>1. November</td><td>2003</td></tr>
+<tr><td>Ungarn</td><td>4. Mai</td><td colspan="2">2001</td><td>1. September</td><td>2001</td></tr>
+<tr><td>Vereinigtes Königreich<sup>\*</sup></td><td>17. Juli</td><td colspan="2">2009</td><td>1. November</td><td>2009</td></tr>
+<tr><td>Zypern</td><td>1. Juni</td><td colspan="2">2001</td><td>1. Oktober</td><td>2001</td></tr>
+<tr><td colspan="6">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite des Europarats: [http://conventions.coe.int](http://conventions.coe.int) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 2004 4307](https://fedlex.data.admin.ch/eli/oc/2004/648), [2007 1375](https://fedlex.data.admin.ch/eli/oc/2007/231), [2010 3457](https://fedlex.data.admin.ch/eli/oc/2010/487), [2016 2853](https://fedlex.data.admin.ch/eli/oc/2016/468)und [2020 1567](https://fedlex.data.admin.ch/eli/oc/2020/314). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2004 4307](https://fedlex.data.admin.ch/eli/oc/2004/648); [2007 1375](https://fedlex.data.admin.ch/eli/oc/2007/231); [2010 3457](https://fedlex.data.admin.ch/eli/oc/2010/487); [2016 2853](https://fedlex.data.admin.ch/eli/oc/2016/468); [2020 1567](https://fedlex.data.admin.ch/eli/oc/2020/314); [2024 524](https://fedlex.data.admin.ch/eli/oc/2024/524). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

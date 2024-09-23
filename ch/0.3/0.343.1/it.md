@@ -3,11 +3,11 @@ sr: "0.343.1"
 title: Protocollo addizionale del 18 dicembre 1997 alla Convenzione sul trasferimento dei condannati
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/648"
 language: it
-version: 2020-05-05
+version: 2024-09-24
 adopted: 1997-12-18
 in_force: 2004-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/648/20200505/it/xml/fedlex-data-admin-ch-eli-cc-2004-648-20200505-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/648/20200505/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/648/20240924/it/xml/fedlex-data-admin-ch-eli-cc-2004-648-20240924-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/648/20240924/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2004** 4307; FF **2002** 3864
 
 Traduzione
 
-Concluso a Strasburgo il 18 dicembre 1997
+Concluso a Strasburgo il 18 dicembre 1997 Approvato dall’Assemblea federale il 19 dicembre 2003[^t-1] Ratificato con strumenti depositati dalla Svizzera il 18 giugno 2004 Entrato in vigore per la Svizzera il 1° ottobre 2004
 
-Approvato dall’Assemblea federale il 19 dicembre 2003[^t-1]
-
-Ratificato con strumenti depositati dalla Svizzera il 18 giugno 2004
-
-Entrato in vigore per la Svizzera il 1° ottobre 2004
-
-(Stato 5 maggio 2020)
+(Stato 24 settembre 2024)
 
 [^t-1]: Art. 1 cpv. 1 del DF del 19 dic. 2003 ([RU 2004 4161](https://fedlex.data.admin.ch/eli/oc/2004/621)).
 
@@ -153,7 +147,7 @@ Il Segretario Generale del Consiglio d’Europa notifica agli Stati membri del C
 
 (Seguono le firme)
 
-Campo d’applicazione il 5 maggio 2020**[^t-2]**
+Campo d’applicazione il 24 settembre 2024[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -172,6 +166,7 @@ Campo d’applicazione il 5 maggio 2020**[^t-2]**
 <tr><td>Grecia</td><td>13 settembre</td><td>2005</td><td>1° gennaio</td><td>2006</td></tr>
 <tr><td>Irlanda<sup>\*</sup></td><td>13 dicembre</td><td>2006</td><td>1° aprile</td><td>2007</td></tr>
 <tr><td>Islanda</td><td>25 maggio</td><td>2000</td><td>1° settembre</td><td>2000</td></tr>
+<tr><td>Italia\*</td><td>15 giugno</td><td>2021</td><td>1° ottobre</td><td>2021</td></tr>
 <tr><td>Lettonia</td><td>2 giugno</td><td>2005</td><td>1° ottobre</td><td>2005</td></tr>
 <tr><td>Liechtenstein</td><td>13 maggio</td><td>2003</td><td>1° settembre</td><td>2003</td></tr>
 <tr><td>Lituania</td><td>31 gennaio</td><td>2001</td><td>1° maggio</td><td>2001</td></tr>
@@ -183,6 +178,7 @@ Campo d’applicazione il 5 maggio 2020**[^t-2]**
 <tr><td>Norvegia</td><td>25 settembre</td><td>2000</td><td>1° gennaio</td><td>2001</td></tr>
 <tr><td>Paesi Bassi<sup>\*</sup></td><td>18 giugno</td><td>2002</td><td>1° ottobre</td><td>2002</td></tr>
 <tr><td>Polonia</td><td>1° febbraio</td><td>2000</td><td>1° giugno</td><td>2000</td></tr>
+<tr><td>Portogallo</td><td>11 luglio</td><td>2023</td><td>1° novembre</td><td>2023</td></tr>
 <tr><td>Regno Unito<sup>\*</sup></td><td>17 luglio</td><td>2009</td><td>1° novembre</td><td>2009</td></tr>
 <tr><td>Romania<sup>\*</sup></td><td>7 dicembre</td><td>2001</td><td>1° aprile</td><td>2002</td></tr>
 <tr><td>Russia<sup>\*</sup></td><td>28 agosto</td><td>2007</td><td>1° dicembre</td><td>2007</td></tr>
@@ -196,7 +192,7 @@ Campo d’applicazione il 5 maggio 2020**[^t-2]**
 <tr><td>Turchia<sup>\*</sup></td><td>2 maggio</td><td>2016</td><td>1° settembre</td><td>2016</td></tr>
 <tr><td>Ucraina<sup>\*</sup></td><td>1° luglio</td><td>2003</td><td>1° novembre</td><td>2003</td></tr>
 <tr><td>Ungheria</td><td>4 maggio</td><td>2001</td><td>1° settembre</td><td>2001</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet del Consiglio d’Europa: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: [http://conventions.coe.int](http://conventions.coe.int) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: [RU 2004 4307](https://fedlex.data.admin.ch/eli/oc/2004/648), [2007 1375](https://fedlex.data.admin.ch/eli/oc/2007/231), [2010 3457](https://fedlex.data.admin.ch/eli/oc/2010/487), [2016 2853](https://fedlex.data.admin.ch/eli/oc/2016/468), [2020 1567](https://fedlex.data.admin.ch/eli/oc/2020/314). Una versione del campo di applicazione aggiornata è pubblicata sul Sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2004 4307](https://fedlex.data.admin.ch/eli/oc/2004/648); [2007 1375](https://fedlex.data.admin.ch/eli/oc/2007/231); [2010 3457](https://fedlex.data.admin.ch/eli/oc/2010/487); [2016 2853](https://fedlex.data.admin.ch/eli/oc/2016/468); [2020 1567](https://fedlex.data.admin.ch/eli/oc/2020/314); [2024 524](https://fedlex.data.admin.ch/eli/oc/2024/524). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

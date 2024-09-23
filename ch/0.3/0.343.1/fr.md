@@ -3,11 +3,11 @@ sr: "0.343.1"
 title: Protocole additionnel du 18 décembre 1997 à la Convention sur le transfèrement des personnes condamnées
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/648"
 language: fr
-version: 2020-05-05
+version: 2024-09-24
 adopted: 1997-12-18
 in_force: 2004-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/648/20200505/fr/xml/fedlex-data-admin-ch-eli-cc-2004-648-20200505-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/648/20200505/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/648/20240924/fr/xml/fedlex-data-admin-ch-eli-cc-2004-648-20240924-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/648/20240924/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,15 +18,9 @@ RO **2004** 4307; FF **2002** 4036
 
 Texte original
 
-Conclu à Strasbourg le 18 décembre 1997
+Conclu à Strasbourg le 18 décembre 1997 Approuvé par l’Assemblée fédérale le 19 décembre 2003[^t-1] Instrument de ratification déposé par la Suisse le 18 juin 2004 Entré en vigueur pour la Suisse le 1<sup>er</sup> octobre 2004
 
-Approuvé par l’Assemblée fédérale le 19 décembre 2003[^t-1]
-
-Instrument de ratification déposé par la Suisse le 18 juin 2004
-
-Entré en vigueur pour la Suisse le 1<sup>er</sup> octobre 2004
-
-(Etat le 5 mai 2020)
+(État le 24 septembre 2024)
 
 [^t-1]: Art. 1 al. 1 de l’AF du 19 déc. 2003 ([RO 2004 4161](https://fedlex.data.admin.ch/eli/oc/2004/621)).
 
@@ -149,11 +143,9 @@ Le Secrétaire Général du Conseil de l’Europe notifiera aux États membres d
 - c) toute date d’entrée en vigueur du présent Protocole conformément à ses art. 4 et 5;
 - d) tout autre acte, déclaration, notification ou communication ayant trait au présent Protocole.
 
-*En foi de quoi*, les soussignés, dûment autorisés à cet effet, ont signé le présent Protocole. Fait à Strasbourg, le 18 décembre 1997, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des États membres du Conseil de l’Europe, aux autres États signataires de la Convention et à tout État invité à adhérer à la Convention.
+*En foi de quoi*, les soussignés, dûment autorisés à cet effet, ont signé le présent Protocole. Fait à Strasbourg, le 18 décembre 1997, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des États membres du Conseil de l’Europe, aux autres États signataires de la Convention et à tout État invité à adhérer à la Convention. (Suivent les signatures)
 
-(Suivent les signatures)
-
-Champ d’application le 5 mai 2020**[^t-2]**
+Champ d’application le 24 septembre 2024[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de Succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -173,6 +165,7 @@ Champ d’application le 5 mai 2020**[^t-2]**
 <tr><td>Hongrie</td><td>4 mai</td><td>2001</td><td>1<sup>er</sup> septembre</td><td>2001</td></tr>
 <tr><td>Irlande\*</td><td>13 décembre</td><td>2006</td><td>1<sup>er</sup> avril</td><td>2007</td></tr>
 <tr><td>Islande</td><td>25 mai</td><td>2000</td><td>1<sup>er</sup> septembre</td><td>2000</td></tr>
+<tr><td>Italie\*</td><td>15 juin</td><td>2021</td><td>1<sup>er</sup> octobre</td><td>2021</td></tr>
 <tr><td>Lettonie</td><td>2 juin</td><td>2005</td><td>1<sup>er</sup> octobre</td><td>2005</td></tr>
 <tr><td>Liechtenstein</td><td>13 mai</td><td>2003</td><td>1<sup>er</sup> septembre</td><td>2003</td></tr>
 <tr><td>Lituanie</td><td>31 janvier</td><td>2001</td><td>1<sup>er</sup> mai</td><td>2001</td></tr>
@@ -184,9 +177,10 @@ Champ d’application le 5 mai 2020**[^t-2]**
 <tr><td>Norvège</td><td>25 septembre</td><td>2000</td><td>1<sup>er</sup> janvier</td><td>2001</td></tr>
 <tr><td>Pays-Bas\*</td><td>18 juin</td><td>2002</td><td>1<sup>er</sup> octobre</td><td>2002</td></tr>
 <tr><td>Pologne</td><td>1<sup>er</sup> février</td><td>2000</td><td>1<sup>er</sup> juin</td><td>2000</td></tr>
+<tr><td>Portugal</td><td>11 juillet</td><td>2023</td><td>1<sup>er</sup> novembre</td><td>2023</td></tr>
 <tr><td>République tchèque</td><td>2 octobre</td><td>2002</td><td>1<sup>er</sup> février</td><td>2003</td></tr>
 <tr><td>Roumanie\*</td><td>7 décembre</td><td>2001</td><td>1<sup>er</sup> avril</td><td>2002</td></tr>
-<tr><td>Royaume-Uni<sup>\*</sup></td><td>17 juillet</td><td>2009</td><td>1<sup>er</sup> novembre</td><td>2009</td></tr>
+<tr><td>Royaume-Uni\*</td><td>17 juillet</td><td>2009</td><td>1<sup>er</sup> novembre</td><td>2009</td></tr>
 <tr><td>Russie\*</td><td>28 août</td><td>2007</td><td>1<sup>er</sup> décembre</td><td>2007</td></tr>
 <tr><td>Saint-Marin</td><td>25 juin</td><td>2004</td><td>1<sup>er</sup> octobre</td><td>2004</td></tr>
 <tr><td>Saint-Siège</td><td>15 janvier</td><td>2019 A</td><td>1<sup>er</sup> mai</td><td>2019</td></tr>
@@ -194,9 +188,9 @@ Champ d’application le 5 mai 2020**[^t-2]**
 <tr><td>Slovénie</td><td>26 septembre</td><td>2013</td><td>1<sup>er</sup> janvier</td><td>2014</td></tr>
 <tr><td>Suède</td><td>24 novembre</td><td>2000</td><td>1<sup>er</sup> mars</td><td>2001</td></tr>
 <tr><td>Suisse</td><td>18 juin</td><td>2004</td><td>1<sup>er</sup> octobre</td><td>2004</td></tr>
-<tr><td>Turquie<sup>\*</sup></td><td>2 mai</td><td>2016</td><td>1<sup>er</sup> septembre</td><td>2016</td></tr>
-<tr><td>Ukraine<sup>\*</sup></td><td>1<sup>er</sup> juillet</td><td>2003</td><td>1<sup>er</sup> novembre</td><td>2003</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td>Turquie\*</td><td>2 mai</td><td>2016</td><td>1<sup>er</sup> septembre</td><td>2016</td></tr>
+<tr><td>Ukraine\*</td><td>1<sup>er</sup> juillet</td><td>2003</td><td>1<sup>er</sup> novembre</td><td>2003</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet du Conseil de l’Europe: [http://conventions.coe.int](http://conventions.coe.int) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: RO **2004** 4312, [2007 1375](https://fedlex.data.admin.ch/eli/oc/2007/231), [2010 3457](https://fedlex.data.admin.ch/eli/oc/2010/487), [2016 2853](https://fedlex.data.admin.ch/eli/oc/2016/468), [2020 1567](https://fedlex.data.admin.ch/eli/oc/2020/314). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2004 4307](https://fedlex.data.admin.ch/eli/oc/2004/648); [2007 1375](https://fedlex.data.admin.ch/eli/oc/2007/231); [2010 3457](https://fedlex.data.admin.ch/eli/oc/2010/487); [2016 2853](https://fedlex.data.admin.ch/eli/oc/2016/468); [2020 1567](https://fedlex.data.admin.ch/eli/oc/2020/314); [2024 524](https://fedlex.data.admin.ch/eli/oc/2024/524). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
