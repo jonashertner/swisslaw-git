@@ -3,11 +3,11 @@ sr: "0.415.31"
 title: "Convenzione del Consiglio d'Europa del 3 luglio 2016 su un approccio integrato in materia di sicurezza fisica, sicurezza pubblica e servizi in occasione di incontri calcistici e di altre manifestazioni sportive"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/797"
 language: it
-version: 2022-10-28
+version: 2024-09-25
 adopted: 2016-07-03
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/797/20221028/it/xml/fedlex-data-admin-ch-eli-cc-2019-797-20221028-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/797/20221028/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/797/20240925/it/xml/fedlex-data-admin-ch-eli-cc-2019-797-20240925-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/797/20240925/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a Saint-Denis il 3 luglio 2016 Approvata dall’Assemblea federale il 21 giugno 2019[^t-1] Strumento di ratifica depositato dalla Svizzera il 21 novembre 2019 Entrata in vigore per la Svizzera il 1° gennaio 2020
 
-(Stato 28 ottobre 2022)
+(Stato 25 settembre 2024)
 
 [^t-1]: [RU 2019 5031](https://fedlex.data.admin.ch/eli/oc/2019/796)
 
@@ -347,17 +347,21 @@ Il Segretario Generale del Consiglio d’Europa notifica agli Stati membri del C
 
 *In fede i sottoscritti*, debitamente autorizzati a tal fine, hanno firmato la presente Convenzione. Fatto a Saint-Denis, il 3 luglio 2016, in inglese e francese, i due testi facenti ugualmente fede, in un unico esemplare, depositato negli archivi del Consiglio d’Europa. Il Segretario Generale del Consiglio d’Europa ne trasmetterà copie certificate ad ogni Stato membro del Consiglio d’Europa, a ogni Stato Parte della Convenzione culturale europea e a ogni Stato invitato ad aderire alla presente Convenzione. (Seguono le firme)
 
-Campo d’applicazione il 28 ottobre 2022[^t-2]
+Campo d’applicazione il 25 settembre 2024[^t-2]
 
 <table>
 <tr><td>Stati partecipanti</td><td>Ratifica</td><td></td><td>Entrata in vigore</td><td></td></tr>
 <tr><td>Austria</td><td>3 agosto</td><td>2021</td><td>1° ottobre</td><td>2021</td></tr>
 <tr><td>Azerbaigian\*</td><td>11 dicembre</td><td>2018</td><td>1° febbraio</td><td>2019</td></tr>
+<tr><td>Belgio</td><td>9 settembre</td><td>2024</td><td>1° novembre</td><td>2024</td></tr>
 <tr><td>Bulgaria</td><td>10 dicembre</td><td>2019</td><td>1° febbraio</td><td>2020</td></tr>
 <tr><td>Croazia</td><td>13 novembre</td><td>2020</td><td>1° gennaio</td><td>2021</td></tr>
 <tr><td>Estonia</td><td>16 dicembre</td><td>2019</td><td>1° febbraio</td><td>2020</td></tr>
 <tr><td>Finlandia</td><td>4 gennaio</td><td>2022</td><td>1° marzo</td><td>2022</td></tr>
 <tr><td>Francia\*</td><td>6 febbraio</td><td>2017</td><td>1° novembre</td><td>2017</td></tr>
+<tr><td>Germania\*</td><td>12 gennaio</td><td>2023</td><td>1° marzo</td><td>2023</td></tr>
+<tr><td>Grecia\*</td><td>25 aprile</td><td>2023</td><td>1° giugno</td><td>2023</td></tr>
+<tr><td>Islanda\*</td><td>6 dicembre</td><td>2022</td><td>1° febbraio</td><td>2023</td></tr>
 <tr><td>Italia</td><td>18 novembre</td><td>2020</td><td>1° gennaio</td><td>2021</td></tr>
 <tr><td>Lituania</td><td>2 febbraio</td><td>2021</td><td>1° aprile</td><td>2021</td></tr>
 <tr><td>Moldova\*</td><td>10 gennaio</td><td>2018</td><td>1° marzo</td><td>2018</td></tr>
@@ -366,15 +370,17 @@ Campo d’applicazione il 28 ottobre 2022[^t-2]
 <tr><td>Paesi Bassi <sup>a</sup></td><td>6 febbraio</td><td>2020</td><td>1° aprile</td><td>2020</td></tr>
 <tr><td>Polonia\*</td><td>18 settembre</td><td>2017</td><td>1° novembre</td><td>2017</td></tr>
 <tr><td>Portogallo</td><td>19 giugno</td><td>2018</td><td>1° agosto</td><td>2018</td></tr>
+<tr><td>Regno Unito</td><td>31 ottobre</td><td>2023</td><td>1° dicembre</td><td>2023</td></tr>
 <tr><td>Repubblica Ceca</td><td>16 maggio</td><td>2019</td><td>1° luglio</td><td>2019</td></tr>
 <tr><td>Romania</td><td>17 febbraio</td><td>2020</td><td>1° aprile</td><td>2020</td></tr>
 <tr><td>Russia</td><td>3 ottobre</td><td>2017</td><td>1° dicembre</td><td>2017</td></tr>
 <tr><td>Slovacchia</td><td>11 marzo</td><td>2022</td><td>1° maggio</td><td>2022</td></tr>
 <tr><td>Slovenia</td><td>10 febbraio</td><td>2021</td><td>1° aprile</td><td>2021</td></tr>
 <tr><td>Spagna\*</td><td>6 settembre</td><td>2019</td><td>1° novembre</td><td>2019</td></tr>
+<tr><td>Svezia</td><td>6 aprile</td><td>2023</td><td>1° giugno</td><td>2023</td></tr>
 <tr><td>Svizzera</td><td>21 novembre</td><td>2019</td><td>1° gennaio</td><td>2020</td></tr>
 <tr><td>Turchia<sup>\*</sup></td><td>25 maggio</td><td>2020</td><td>1° luglio</td><td>2020</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet del Consiglio d’Europa: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. si applica alla parte europea dei Paesi Bassi.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: [http://conventions.coe.int](http://conventions.coe.int) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. si applica alla parte europea dei Paesi Bassi.</td></tr>
 </table>
 
-[^t-2]: [RU 2019 5033](https://fedlex.data.admin.ch/eli/oc/2019/797); [2020 3875](https://fedlex.data.admin.ch/eli/oc/2020/719); [2022 654](https://fedlex.data.admin.ch/eli/oc/2022/654). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: https://www.fedlex.admin.ch/it/treaty
+[^t-2]: [RU 2019 5033](https://fedlex.data.admin.ch/eli/oc/2019/797); [2020 3875](https://fedlex.data.admin.ch/eli/oc/2020/719); [2022 654](https://fedlex.data.admin.ch/eli/oc/2022/654); [2024 527](https://fedlex.data.admin.ch/eli/oc/2024/527). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
