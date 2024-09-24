@@ -3,11 +3,11 @@ sr: "0.415.4"
 title: Übereinkommen vom 18. September 2014 des Europarats gegen die Manipulation von Sportwettbewerben (Magglinger Konvention)
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/363"
 language: de
-version: 2019-09-01
+version: 2024-09-25
 adopted: 2014-09-18
 in_force: 2019-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/363/20190901/de/xml/fedlex-data-admin-ch-eli-cc-2019-363-20190901-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/363/20190901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/363/20240925/de/xml/fedlex-data-admin-ch-eli-cc-2019-363-20240925-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/363/20240925/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/363/20190901/de"
 
 AS **2019** 1963; BBl **2018** 1033
 
-Übersetzung*[^t-1]*
+Übersetzung[^t-1]
 
 (Magglinger Konvention)
 
@@ -28,7 +28,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 16. Mai 2019
 
 In Kraft getreten für die Schweiz am 1. September 2019
 
-(Stand am 1. September 2019)
+(Stand am 25. September 2024)
 
 [^t-1]: Zwischen der Schweiz, Deutschland und Österreich abgestimmte deutsche Übersetzung des englischen und des französischen Originaltextes. Abweichungen in den Übersetzungen Deutschlands (DE) und Österreichs (AT) sind gekennzeichnet.
 [^t-2]: [AS 2019 1961](https://fedlex.data.admin.ch/eli/oc/2019/362)
@@ -89,7 +89,7 @@ in Anbetracht des Ermessensspielraums, über den die Staaten im Rahmen des anwen
 sind wie folgt übereingekommen:
 
 [^ingress-1]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^ingress-2]: SR **0.415.3**. Für AT: das Europäische Übereinkommen über Gewalttätigkeiten und Fehlverhalten von Zuschauern bei Sportveranstaltungen und insbesondere bei Fussballspielen Für DE: das Europäische Übereinkommen über Gewalttätigkeiten und Fehlverhalten von Zuschauern bei Sportveranstaltungen und insbesondere bei Fussballspielen
+[^ingress-2]: [AS **1990** 1749; **1991** 946; **2005** 1153; **2012** 625; **2016** 497; **2018** 291. AS **2020** 1857]. Für AT: das Europäische Übereinkommen über Gewalttätigkeiten und Fehlverhalten von Zuschauern bei Sportveranstaltungen und insbesondere bei Fussballspielen Für DE: das Europäische Übereinkommen über Gewalttätigkeiten und Fehlverhalten von Zuschauern bei Sportveranstaltungen und insbesondere bei Fussballspielen
 [^ingress-3]: [SR 0.812.122.1](https://fedlex.data.admin.ch/eli/cc/1993/1238_1238_1238). Für AT: die Anti-Doping-Konvention
 [^ingress-4]: [SR 0.311.55](https://fedlex.data.admin.ch/eli/cc/2006/367)
 [^ingress-5]: Für DE und AT: das Übereinkommen des Europarats über Geldwäsche sowie Ermittlung, Beschlagnahme und Einziehung von Erträgen aus Straftaten und über die Finanzierung des Terrorismus
@@ -660,18 +660,25 @@ Der Generalsekretär des Europarats notifiziert den Vertragsparteien, den Mitgli
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu Magglingen am 18. September 2014 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarats hinterlegt wird. Der Generalsekretär des Europarats übermittelt allen Mitgliedstaaten des Europarats, den Nichtmitgliedstaaten, die sich an der Ausarbeitung dieses Übereinkommens beteiligt oder beim Europarat Beobachterstatus haben, der Europäischen Union sowie allen zur Unterzeichnung des Übereinkommens eingeladenen Staaten beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 24. Juni 2019
+Geltungsbereich am 25. September 2024[^t-3]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Belgien\*</td><td>1. Juli</td><td>2024</td><td>1. November</td><td>2024</td></tr>
+<tr><td>Frankreich</td><td>21. Juni</td><td>2023</td><td>1. Oktober</td><td>2023</td></tr>
+<tr><td>Griechenland\*</td><td>16. Juni</td><td>2020</td><td>1. Oktober</td><td>2020</td></tr>
+<tr><td>Island</td><td>6. Dezember</td><td>2022</td><td>1. April</td><td>2023</td></tr>
 <tr><td>Italien\*</td><td>11. Juni</td><td>2019</td><td>1. Oktober</td><td>2019</td></tr>
+<tr><td>Litauen</td><td>30. Juli</td><td>2024</td><td>1. November</td><td>2024</td></tr>
 <tr><td>Moldau</td><td>7. März</td><td>2019</td><td>1. September</td><td>2019</td></tr>
 <tr><td>Norwegen</td><td>9. Dezember</td><td>2014</td><td>1. September</td><td>2019</td></tr>
 <tr><td>Portugal\*</td><td>29. September</td><td>2015</td><td>1. September</td><td>2019</td></tr>
 <tr><td>Schweiz\*</td><td>16. Mai</td><td>2019</td><td>1. September</td><td>2019</td></tr>
 <tr><td>Ukraine</td><td>10. Januar</td><td>2017</td><td>1. September</td><td>2019</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarates: www.coe.int &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarats: [http://conventions.coe.int](http://conventions.coe.int) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
+
+[^t-3]: [AS 2019 1963](https://fedlex.data.admin.ch/eli/oc/2019/363); [2024 528](https://fedlex.data.admin.ch/eli/oc/2024/528). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalte und Erklärungen
 

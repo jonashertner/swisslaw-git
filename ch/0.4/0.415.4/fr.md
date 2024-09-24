@@ -3,11 +3,11 @@ sr: "0.415.4"
 title: "Convention du 18 septembre 2014 du Conseil de l'Europe sur la manipulation de compétitions sportives (Convention de Macolin)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/363"
 language: fr
-version: 2019-09-01
+version: 2024-09-25
 adopted: 2014-09-18
 in_force: 2019-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/363/20190901/fr/xml/fedlex-data-admin-ch-eli-cc-2019-363-20190901-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/363/20190901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/363/20240925/fr/xml/fedlex-data-admin-ch-eli-cc-2019-363-20240925-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/363/20240925/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,15 +20,9 @@ Texte original
 
 (Convention de Macolin)
 
-Conclue à Macolin le 18 septembre 2014
+Conclue à Macolin le 18 septembre 2014 Approuvée par l’Assemblée fédérale le 14 décembre 2018[^t-1] Instrument de ratification déposé par la Suisse le 16 mai 2019 Entrée en vigueur pour la Suisse le 1<sup>er</sup> septembre 2019
 
-Approuvée par l’Assemblée fédérale le 14 décembre 2018[^t-1]
-
-Instrument de ratification déposé par la Suisse le 16 mai 2019
-
-Entrée en vigueur pour la Suisse le 1<sup>er</sup> septembre 2019
-
-(Etat le 1<sup>er</sup> septembre 2019)
+(État le 25 septembre 2024)
 
 [^t-1]: [RO 2019 1961](https://fedlex.data.admin.ch/eli/oc/2019/362)
 
@@ -88,7 +82,7 @@ prenant note que les États bénéficient d’une marge d’appréciation pour d
 sont convenus de ce qui suit:
 
 [^ingress-1]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^ingress-2]: [RS 0.415.3](https://fedlex.data.admin.ch/eli/cc/1990/1749_1749_1749)
+[^ingress-2]: [[RO 1990 1749](https://fedlex.data.admin.ch/eli/oc/1990/1749_1749_1749); [1991 946](https://fedlex.data.admin.ch/eli/oc/1991/946_946_946); [2005 1153](https://fedlex.data.admin.ch/eli/oc/2005/156); [2012 625](https://fedlex.data.admin.ch/eli/oc/2012/95); [2016 497](https://fedlex.data.admin.ch/eli/oc/2016/85); [2018 291](https://fedlex.data.admin.ch/eli/oc/2018/50). [RO 2020 1857](https://fedlex.data.admin.ch/eli/oc/2020/379)]
 [^ingress-3]: [RS 0.812.122.1](https://fedlex.data.admin.ch/eli/cc/1993/1238_1238_1238)
 [^ingress-4]: [RS 0.311.55](https://fedlex.data.admin.ch/eli/cc/2006/367)
 [^ingress-5]: [RS 0.311.54](https://fedlex.data.admin.ch/eli/cc/2006/862)
@@ -644,18 +638,25 @@ Le Secrétaire Général du Conseil de l’Europe notifiera aux Parties, aux Ét
 
 *En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Macolin, le 18 septembre 2014, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des États membres du Conseil de l’Europe, aux États non membres ayant participé à l’élaboration de la présente Convention ou ayant le statut d’observateur auprès du Conseil de l’Europe, à l’Union européenne et à tout autre État invité à signer la présente Convention. (Suivent les signatures)
 
-Champ d’application le 24 juin 2019
+Champ d’application le 25 septembre 2024[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
-<tr><td>Italie<sup>\*</sup></td><td>11 juin</td><td>2019</td><td>1<sup>er</sup> octobre</td><td>2019</td></tr>
+<tr><td>Belgique\*</td><td>1<sup>er</sup> juillet</td><td>2024</td><td>1<sup>er</sup> novembre</td><td>2024</td></tr>
+<tr><td>France</td><td>21 juin</td><td>2023</td><td>1<sup>er</sup> octobre</td><td>2023</td></tr>
+<tr><td>Grèce\*</td><td>16 juin</td><td>2020</td><td>1<sup>er</sup> octobre</td><td>2020</td></tr>
+<tr><td>Islande</td><td>6 décembre</td><td>2022</td><td>1<sup>er</sup> avril</td><td>2023</td></tr>
+<tr><td>Italie\*</td><td>11 juin</td><td>2019</td><td>1<sup>er</sup> octobre</td><td>2019</td></tr>
+<tr><td>Lituanie</td><td>30 juillet</td><td>2024</td><td>1<sup>er</sup> novembre</td><td>2024</td></tr>
 <tr><td>Moldova</td><td>7 mars</td><td>2019</td><td>1<sup>er</sup> septembre</td><td>2019</td></tr>
 <tr><td>Norvège</td><td>9 décembre</td><td>2014</td><td>1<sup>er</sup> septembre</td><td>2019</td></tr>
 <tr><td>Portugal\*</td><td>29 septembre</td><td>2015</td><td>1<sup>er</sup> septembre</td><td>2019</td></tr>
 <tr><td>Suisse\*</td><td>16 mai</td><td>2019</td><td>1<sup>er</sup> septembre</td><td>2019</td></tr>
 <tr><td>Ukraine</td><td>10 janvier</td><td>2017</td><td>1<sup>er</sup> septembre</td><td>2019</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet du Conseil de l’Europe: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet du Conseil de l’Europe: [http://conventions.coe.int](http://conventions.coe.int) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
+
+[^t-2]: [RO 2019 1963](https://fedlex.data.admin.ch/eli/oc/2019/363); [2024 528](https://fedlex.data.admin.ch/eli/oc/2024/528)Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Réserves et Déclarations
 

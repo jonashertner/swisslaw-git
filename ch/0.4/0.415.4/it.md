@@ -3,11 +3,11 @@ sr: "0.415.4"
 title: "Convenzione del 18 settembre 2014 del Consiglio d'Europa sulla manipolazione delle competizioni sportive (Convenzione di Macolin)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/363"
 language: it
-version: 2019-09-01
+version: 2024-09-25
 adopted: 2014-09-18
 in_force: 2019-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/363/20190901/it/xml/fedlex-data-admin-ch-eli-cc-2019-363-20190901-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/363/20190901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/363/20240925/it/xml/fedlex-data-admin-ch-eli-cc-2019-363-20240925-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/363/20240925/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,15 +20,9 @@ Traduzione
 
 (Convenzione di Macolin)
 
-Conclusa a Macolin il 18 settembre 2014
+Conclusa a Macolin il 18 settembre 2014 Approvata dall’Assemblea federale il 14 dicembre 2018[^t-1] Strumento di ratificazione depositato dalla Svizzera il 16 maggio 2019 Entrata in vigore il 1° settembre 2019
 
-Approvata dall’Assemblea federale il 14 dicembre 2018[^t-1]
-
-Strumento di ratificazione depositato dalla Svizzera il 16 maggio 2019
-
-Entrata in vigore il 1° settembre 2019
-
-(Stato 1° settembre 2019)
+(Stato 25 settembre 2024)
 
 [^t-1]: [RU 2019 1961](https://fedlex.data.admin.ch/eli/oc/2019/362)
 
@@ -46,7 +40,7 @@ consapevoli che la manipolazione di competizioni sportive può riguardare ogni P
 
 preoccupati per il coinvolgimento delle attività criminali, in particolare del crimine organizzato, nella manipolazione delle competizioni sportive, e per la sua natura transnazionale;
 
-richiamando la Convenzione per la salvaguardia dei Diritti dell’Uomo e delle Libertà fondamentali[^ingress-1] (1950, ETS n. 5) e i suoi protocolli, la Convenzione europea sulla violenza e i disordini degli spettatori durante le manifestazioni sportive, segnatamente nelle partite di calcio[^ingress-2] (1985, ETS n. 120), la Convenzione contro il doping[^ingress-3] (1989, ETS n. 135), la Convenzione penale sulla corruzione[^ingress-4] (1999, ETS n. 173) e la Convenzione del Consiglio d’Europa sul riciclaggio, la ricerca, il sequestro e la confisca dei proventi di reato e sul finanziamento del terrorismo (2005, CETS n. 198);
+richiamando la Convenzione per la salvaguardia dei diritti dell’uomo e delle libertà fondamentali[^ingress-1] (1950, ETS n. 5) e i suoi protocolli, la Convenzione europea sulla violenza e i disordini degli spettatori durante le manifestazioni sportive, segnatamente nelle partite di calcio[^ingress-2] (1985, ETS n. 120), la Convenzione contro il doping[^ingress-3] (1989, ETS n. 135), la Convenzione penale sulla corruzione[^ingress-4] (1999, ETS n. 173) e la Convenzione del Consiglio d’Europa sul riciclaggio, la ricerca, il sequestro e la confisca dei proventi di reato e sul finanziamento del terrorismo (2005, CETS n. 198);
 
 richiamando la Convenzione delle Nazioni Unite contro la criminalità organizzata transnazionale[^ingress-5] (2000) e i relativi protocolli;
 
@@ -88,7 +82,7 @@ tenuto conto del margine di discrezionalità di cui godono gli Stati, nell’amb
 hanno convenuto quanto segue:
 
 [^ingress-1]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^ingress-2]: [RS 0.415.3](https://fedlex.data.admin.ch/eli/cc/1990/1749_1749_1749)
+[^ingress-2]: [[RU 1990 1749](https://fedlex.data.admin.ch/eli/oc/1990/1749_1749_1749); [1991 946](https://fedlex.data.admin.ch/eli/oc/1991/946_946_946); [2005 1153](https://fedlex.data.admin.ch/eli/oc/2005/156); [2012 625](https://fedlex.data.admin.ch/eli/oc/2012/95); [2016 497](https://fedlex.data.admin.ch/eli/oc/2016/85); [2018 291](https://fedlex.data.admin.ch/eli/oc/2018/50). [RU 2020 1857](https://fedlex.data.admin.ch/eli/oc/2020/379)]
 [^ingress-3]: [RS 0.812.122.1](https://fedlex.data.admin.ch/eli/cc/1993/1238_1238_1238)
 [^ingress-4]: [RS 0.311.55](https://fedlex.data.admin.ch/eli/cc/2006/367)
 [^ingress-5]: [RS 0.311.54](https://fedlex.data.admin.ch/eli/cc/2006/862)
@@ -644,18 +638,25 @@ Il Segretario generale del Consiglio d’Europa notifica alle Parti, agli Stati 
 
 *In fede i sottoscritti,* debitamente autorizzati a tal fine, hanno firmato la presente Convenzione. Fatta a Macolin, il 18 settembre 2014, in inglese e francese, entrambi i testi egualmente autentici, in unica copia che dovrà essere depositata negli archivi del Consiglio d’Europa. Il Segretario generale del Consiglio d’Europa trasmette copia certificata ad ogni Stato membro del Consiglio d’Europa, agli Stati non membri che hanno partecipato all’elaborazione della presente Convenzione o che godano dello status di osservatore presso il Consiglio d’Europa, all’Unione europea e ad ogni Stato invitato a firmare la presente Convenzione. (Seguono le firme)
 
-Campo d’applicazione il 24 giugno 2019
+Campo d’applicazione il 25 settembre 2024[^t-2]
 
 <table>
-<tr><th>Stati parte</th><th>Ratifica</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>Stati parte</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Belgio\*</td><td>1° luglio</td><td>2024</td><td>1° novembre</td><td>2024</td></tr>
+<tr><td>Francia</td><td>21 giugno</td><td>2023</td><td>1° ottobre</td><td>2023</td></tr>
+<tr><td>Grecia\*</td><td>16 giugno</td><td>2020</td><td>1° ottobre</td><td>2020</td></tr>
+<tr><td>Islanda</td><td>6 dicembre</td><td>2022</td><td>1° aprile</td><td>2023</td></tr>
 <tr><td>Italia\*</td><td>11 giugno</td><td>2019</td><td>1° ottobre</td><td>2019</td></tr>
+<tr><td>Lituania</td><td>30 luglio</td><td>2024</td><td>1° novembre</td><td>2024</td></tr>
 <tr><td>Moldova</td><td>7 marzo</td><td>2019</td><td>1° settembre</td><td>2019</td></tr>
 <tr><td>Norvegia</td><td>9 dicembre</td><td>2014</td><td>1° settembre</td><td>2019</td></tr>
 <tr><td>Portogallo\*</td><td>29 settembre</td><td>2015</td><td>1° settembre</td><td>2019</td></tr>
 <tr><td>Svizzera\*</td><td>16 maggio</td><td>2019</td><td>1° settembre</td><td>2019</td></tr>
 <tr><td>Ucraina</td><td>10 gennaio</td><td>2017</td><td>1° settembre</td><td>2019</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: http://conventions.coe.int &gt; Esplora &gt; Ufficio trattati &gt; Lista completa oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: [http://conventions.coe.int](http://conventions.coe.int) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
+
+[^t-2]: [RU 2019 1963](https://fedlex.data.admin.ch/eli/oc/2019/363); [2024 528](https://fedlex.data.admin.ch/eli/oc/2024/528). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Riserve e dichiarazioni
 
