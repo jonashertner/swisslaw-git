@@ -4,28 +4,29 @@ number: "414.252.3"
 title: Rahmenprüfungsordnung für Bachelor- und Masterstudiengänge an der Zürcher Hochschule für Angewandte Wissenschaften (RPO ZHAW)
 short: RPO ZHAW
 language: de
-version: "2023-04-01"
-nachtrag: "120"
-valid_until: 2024-09-25
+version: "2024-08-01"
+nachtrag: "126"
+valid_until: 2025-09-25
 adopted: 2008-01-29
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_252_3-2008_01_29-2008_03_01-120.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-414_252_3-2008_01_29-2008_03_01-126.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Rahmenprüfungsordnung für Bachelor- und Masterstudiengänge an der Zürcher Hochschule für Angewandte Wissenschaften
+# Rahmenprüfungsordnung für Bachelor- und Masterstudiengänge an der Zürcher Hochschule für Angewandte Wissenschaften (RPO ZHAW)
 
-(vom 29. Januar 2008)[^t-1]
+(vom 29. Januar 2008)[^t-2][^t-1]
 
 Der Fachhochschulrat,
 
-gestützt auf § 10 Abs. 3 lit. c des Fachhochschulgesetzes vom 2. April 2007[^t-2],
+gestützt auf § 10 Abs. 3 lit. c des Fachhochschulgesetzes vom 2. April 2007[^t-3],
 
 beschliesst:
 
-[^t-1]: OS 63, 50.
-[^t-2]: LS 414.10.
+[^t-1]: Fassung gemäss B vom 9. Juli 2024 (OS 79, 316; ABl 2024-07-26). In Kraft seit 1. August 2024. 1.10. 24 - 126 15
+[^t-2]: OS 63, 50.
+[^t-3]: LS 414.10.
 
 ### 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -37,11 +38,11 @@ beschliesst:
 
 <sup>2</sup> Spezielle Regelungen aus Vereinbarungen mit andern Hochschulen bleiben vorbehalten.
 
-#### § 2
-
 **Studienordnungen**
 
-Die Hochschulleitung erlässt Studienordnungen über die Anforderungen für die einzelnen Studiengänge und die Leistungsnachweise. Sie unterliegen der Genehmigung durch den Fachhochschulrat.
+§ 2.[^1-1] Die Hochschulleitung erlässt Studienordnungen über die Anforderungen für die einzelnen Studiengänge und die Leistungsnachweise.
+
+[^1-1]: Fassung gemäss B vom 9. Juli 2024 (OS 79, 316; ABl 2024-07-26). In Kraft seit 1. August 2024. 1.10. 24 - 126 15
 
 #### § 3
 
@@ -69,15 +70,17 @@ Die Hochschulleitung erlässt Studienordnungen über die Anforderungen für die 
 
 <sup>1</sup> Module können zu einer Modulgruppe zusammengefasst werden.
 
-<sup>2</sup> Für Modulgruppen wird auf Grund der in den Modulen erzielten Bewertungen die Modulgruppenbewertung errechnet.
-
 **1**
 
-- 1\. 4. 23 - 120 § 6. <sup>1</sup> Modulkategorien dienen der
+1.10. 24 - 126
+
+<sup>2</sup> Für Modulgruppen wird auf Grund der in den Modulen erzielten Bewertungen die Modulgruppenbewertung errechnet.
+
+#### § 6
 
 **d. Modulkategorien**
 
-- a. thematischen Gliederung des Studiums,
+<sup>1</sup> Modulkategorien dienen der a. thematischen Gliederung des Studiums,
 
 - b. Aufteilung der Credits auf die Kompetenzbereiche.
 
@@ -190,13 +193,9 @@ Die Departementsleitung kann Regelstudienpläne festlegen.
 
 **3**
 
-- 1\. 4. 23 - 120 § 17.[^15-2] <sup>1</sup> Studierende können Antrag auf Dispensierung von einem Modul oder Kurs stellen unter Anrechnung der entsprechenden Leistung. Der Antrag ist hinreichend zu dokumentieren. Die Studienleitung bewilligt den Antrag, wenn die Studierenden
+1.10. 24 - 126 § 17.[^15-2] <sup>1</sup> Studierende können Antrag auf Dispensierung von einem Modul oder Kurs stellen unter Anrechnung der entsprechenden Leistung. Der Antrag ist hinreichend zu dokumentieren. Die Studienleitung bewilligt den Antrag, wenn die Studierenden a. ausreichende Kenntnisse vom Inhalt eines Moduls oder eines Kurses nachweisen oder b. andernorts entsprechende Studienleistungen erbracht haben.
 
 **Anrechnung von Vorkenntnissen, Studienleistungen**
-
-- a. ausreichende Kenntnisse vom Inhalt eines Moduls oder eines Kurses nachweisen oder
-
-- b. andernorts entsprechende Studienleistungen erbracht haben.
 
 <sup>2</sup> Entsprechende Studienleistungen, die andernorts erbracht worden sind, werden angerechnet, sofern sich die dabei erlangten Lernergebnisse von denjenigen des Studiengangs, für den die Anrechnung beantragt wird, nicht wesentlich unterscheiden.
 
@@ -285,7 +284,7 @@ Die Studienleitung ist für Inhalt, Leistungsnachweise und Leistungsbeurteilung 
 
 **5**
 
-- 1\. 4. 23 - 120 § 26. <sup>1</sup> Für nicht prüfungsfrei zugelassene Studienanwärterinnen und -anwärter kann die ZHAW gemäss den Vorgaben des Bundes Aufnahmeprüfungen durchführen.
+1.10. 24 - 126 § 26. <sup>1</sup> Für nicht prüfungsfrei zugelassene Studienanwärterinnen und -anwärter kann die ZHAW gemäss den Vorgaben des Bundes Aufnahmeprüfungen durchführen.
 
 **b. Aufnahmeprüfungen**
 
@@ -400,7 +399,7 @@ Die ZHAW verleiht den Bachelortitel Studierenden, die a. mindestens 180 Credits 
 
 **7**
 
-- 1\. 4. 23 - 120
+1.10. 24 - 126
 
 <sup>3</sup> Leistungsnachweise können in elektronischer Form durchgeführt werden.[^34-1]
 
@@ -520,7 +519,7 @@ Die Studienleitung gibt die für Leistungsnachweise erlaubten Hilfsmittel frühz
 
 **9**
 
-- 1\. 4. 23 - 120
+1.10. 24 - 126
 
 <sup>2</sup> Die Modulbeschreibungen regeln die Gewichtung der Kursnoten innerhalb eines Moduls.
 
@@ -551,7 +550,7 @@ Die Studienleitung gibt die für Leistungsnachweise erlaubten Hilfsmittel frühz
 <sup>3</sup> Die Leistungsnachweise von nicht bestandenen Modulen sind grundsätzlich am nächsten regulären Termin zu wiederholen.
 
 [^43-1]: Aufgehoben durch B vom 8. November 2011 (OS 67, 17; ABl 2011, 3408). In Kraft seit 1. August 2012.
-[^43-2]: Aufgehoben durch B vom 12. Juli 2022 (OS 77, 488; ABl 2022-08-19). In Kraft seit 1. April 2023. 1. 4. 23 - 120 15
+[^43-2]: Aufgehoben durch B vom 12. Juli 2022 (OS 77, 488; ABl 2022-08-19). In Kraft seit 1. April 2023.
 [^43-3]: Eingefügt durch B vom 8. November 2011 (OS 67, 17; ABl 2011, 3408). In Kraft seit 1. August 2012.
 [^43-4]: Fassung gemäss B vom 8. November 2011 (OS 67, 17; ABl 2011, 3408). In Kraft seit 1. August 2012.
 
@@ -618,7 +617,7 @@ Die Studienleitung gibt die für Leistungsnachweise erlaubten Hilfsmittel frühz
 
 **11**
 
-- 1\. 4. 23 - 120
+1.10. 24 - 126
 
 [^51-1]: Fassung gemäss B vom 13. November 2018 (OS 74, 94; ABl 2018-12-07). In Kraft seit 1. Juli 2019.
 
@@ -736,7 +735,7 @@ Zu jedem Diplom wird ein Diplomzusatz (Diploma Supplement) ausgestellt, der Anga
 
 **13**
 
-- 1\. 4. 23 - 120
+1.10. 24 - 126
 
 ### 5. Abschnitt: Rechtsschutz und Übergangsbestimmungen
 
