@@ -3,11 +3,11 @@ sr: "0.203"
 title: "Protocole du 25 septembre 1950 relatif à la Commission internationale de l'état civil (avec prot. add.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1974/1385_1385_1385"
 language: fr
-version: 2019-06-25
+version: 2024-09-26
 adopted: 1950-09-25
 in_force: 1950-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/1385_1385_1385/20190625/fr/xml/fedlex-data-admin-ch-eli-cc-1974-1385_1385_1385-20190625-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1974/1385_1385_1385/20190625/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/1385_1385_1385/20240926/fr/xml/fedlex-data-admin-ch-eli-cc-1974-1385_1385_1385-20240926-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1974/1385_1385_1385/20240926/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,11 +20,11 @@ Texte original
 
 Conclu à Berne le 25 septembre 1950 Entré en vigueur pour la Suisse le 1<sup>er</sup> octobre 1950
 
-(Etat le 25 juin 2019)
+(État le 26 septembre 2024)
 
 Les Hautes Parties Contractantes,
 
-Considérant que, par échange de lettres, la Belgique, la France, le Luxembourg, les Pays-Bas et la Suisse ont reconnu la Commission Internationale de l’Etat Civil,
+Considérant que, par échange de lettres, la Belgique, la France, le Luxembourg, les Pays-Bas et la Suisse ont reconnu la Commission Internationale de l’État Civil,
 
 considérant qu’il convient de préciser les modalités de l’échange de documentation effectué par l’entremise de cette Commission.
 
@@ -32,11 +32,11 @@ sont convenues des dispositions suivantes:
 
 #### Art. I
 
-En vue de la constitution et de la mise à jour de la documentation législative et jurisprudentielle relative au droit des personnes et à la nationalité, confiées à la Commission Internationale de l’Etat Civil, les Hautes Parties Contractantes s’engagent à fournir gratuitement à ladite Commission les renseignements qui lui seront nécessaires pour ses études et travaux.
+En vue de la constitution et de la mise à jour de la documentation législative et jurisprudentielle relative au droit des personnes et à la nationalité, confiées à la Commission Internationale de l’État Civil, les Hautes Parties Contractantes s’engagent à fournir gratuitement à ladite Commission les renseignements qui lui seront nécessaires pour ses études et travaux.
 
 #### Art. II
 
-Pour consulter la documentation réunie par la Commission Internationale de l’Etat Civil, les Départements ministériels, les Missions diplomatiques, les Consuls généraux, Consuls, Vice-Consuls ou Agents consulaires de chacune des Hautes Parties Contractantes pourront correspondre directement avec le Secrétaire Général de ladite Commission.
+Pour consulter la documentation réunie par la Commission Internationale de l’État Civil, les Départements ministériels, les Missions diplomatiques, les Consuls généraux, Consuls, Vice-Consuls ou Agents consulaires de chacune des Hautes Parties Contractantes pourront correspondre directement avec le Secrétaire Général de ladite Commission.
 
 #### Art. III
 
@@ -48,18 +48,17 @@ Les Hautes Parties Contractantes feront parvenir aux autorités compétentes de 
 
 *En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé le présent Protocole, qui sera déposé aux archives de la Confédération Suisse et dont une copie, certifiée conforme, sera remise par la voie diplomatique à chacune des Hautes Parties Contractantes. Fait à Berne, le 25 septembre 1950. (Suivent les signatures)
 
-Champ d’application le 25 juin 2019**[^t-1]**
+Champ d’application le 26 septembre 2024[^t-1]
 
 <table>
-<tr><th>Etats parties</th><th colspan="2">Ratification Signature sans réserve de ratification (Si) Adhésion (A)</th><th colspan="2">Entrée en vigueur</th></tr>
+<tr><th>États parties</th><th colspan="2">Ratification Signature sans réserve de ratification (Si) Adhésion (A)</th><th colspan="2">Entrée en vigueur</th></tr>
 <tr><td>Espagne</td><td>13 septembre</td><td>1974 A</td><td>13 octobre</td><td>1974</td></tr>
-<tr><td>Grèce</td><td>3 septembre</td><td>1959 A</td><td>3 octobre</td><td>1959</td></tr>
 <tr><td>Luxembourg</td><td>25 septembre</td><td>1950 Si</td><td>1<sup>er</sup> octobre</td><td>1950</td></tr>
 <tr><td>Suisse</td><td>25 septembre</td><td>1950 Si</td><td>1<sup>er</sup> octobre</td><td>1950</td></tr>
 <tr><td>Turquie</td><td>24 septembre</td><td>1953 A</td><td>24 décembre</td><td>1953</td></tr>
 </table>
 
-[^t-1]: [RO 1974 1385](https://fedlex.data.admin.ch/eli/oc/1974/1385_1385_1385), [1976 1942](https://fedlex.data.admin.ch/eli/oc/1976/1942_1942_1942), [2001 2516](https://fedlex.data.admin.ch/eli/oc/2001/373), [2009 2651](https://fedlex.data.admin.ch/eli/oc/2009/358), [2013 1317](https://fedlex.data.admin.ch/eli/oc/2013/302), [2015 1071](https://fedlex.data.admin.ch/eli/oc/2015/210), [2019 2177](https://fedlex.data.admin.ch/eli/oc/2019/400). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-1]: [RO 1974 1385](https://fedlex.data.admin.ch/eli/oc/1974/1385_1385_1385);[1976 1942](https://fedlex.data.admin.ch/eli/oc/1976/1942_1942_1942); [2001 2516](https://fedlex.data.admin.ch/eli/oc/2001/373); [2009 2651](https://fedlex.data.admin.ch/eli/oc/2009/358); [2013 1317](https://fedlex.data.admin.ch/eli/oc/2013/302); [2015 1071](https://fedlex.data.admin.ch/eli/oc/2015/210); [2019 2177](https://fedlex.data.admin.ch/eli/oc/2019/400); [2024 529](https://fedlex.data.admin.ch/eli/oc/2024/529). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
 
 Protocole additionnel
 
@@ -69,19 +68,19 @@ Entré en vigueur pour la Suisse le 25 septembre 1952
 
 Les Hautes Parties Contractantes,
 
-Signataires du Protocole de Berne du 25 septembre 1950 relatif à la Commission Internationale de l’Etat Civil,
+Signataires du Protocole de Berne du 25 septembre 1950 relatif à la Commission Internationale de l’État Civil,
 
-considérant que le développement des travaux de cette Commission fait envisager l’adhésion de nouveaux Etats,
+considérant que le développement des travaux de cette Commission fait envisager l’adhésion de nouveaux États,
 
 sont convenues des dispositions suivantes:
 
 ## **Article unique**
 
-\1. Les Etats non signataires du Protocole de Berne du 25 septembre 1950 relatif à la Commission Internationale de l’Etat Civil pourront être admis à y adhérer.
+\1. Les États non signataires du Protocole de Berne du 25 septembre 1950 relatif à la Commission Internationale de l’État Civil pourront être admis à y adhérer.
 
-\2. Leur demande d’adhésion comporte l’acceptation des règlements de la Commission et l’engagement de souscrire au montant de la contribution tel qu’il résulte de l’article III du Protocole précité et des règles édictées pour son application. Cette demande sera adressée par la voie diplomatique à la Confédération Suisse et communiquée par celle-ci à chacun des Etats signataires et adhérents ainsi qu’au Secrétariat Général de la Commission.
+\2. Leur demande d’adhésion comporte l’acceptation des règlements de la Commission et l’engagement de souscrire au montant de la contribution tel qu’il résulte de l’article III du Protocole précité et des règles édictées pour son application. Cette demande sera adressée par la voie diplomatique à la Confédération Suisse et communiquée par celle-ci à chacun des États signataires et adhérents ainsi qu’au Secrétariat Général de la Commission.
 
-\3. Toute nouvelle admission devra faire l’objet d’un vote favorable de l’Assemblée Générale de la Commission, réunissant l’unanimité des suffrages des délégués habilités par les Etats parties au Protocole du 25 septembre 1950. Elle sortira ses effets trente jours après la date dudit vote et sera communiquée à chacun des Etats signataires et adhérents.
+\3. Toute nouvelle admission devra faire l’objet d’un vote favorable de l’Assemblée Générale de la Commission, réunissant l’unanimité des suffrages des délégués habilités par les États parties au Protocole du 25 septembre 1950. Elle sortira ses effets trente jours après la date dudit vote et sera communiquée à chacun des États signataires et adhérents.
 
 *En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé le présent Protocole additionnel, qui sera déposé aux archives du Grand-Duché de Luxembourg et dont une copie, certifiée conforme, sera remise par la voie diplomatique à chacune des Hautes Parties Contractantes.
 

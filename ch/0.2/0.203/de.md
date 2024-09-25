@@ -3,11 +3,11 @@ sr: "0.203"
 title: Protokoll vom 25. September 1950 über die Internationale Kommission für das Zivilstandswesen (mit Zusatzprotokoll)
 eli: "https://fedlex.data.admin.ch/eli/cc/1974/1385_1385_1385"
 language: de
-version: 2019-06-25
+version: 2024-09-26
 adopted: 1950-09-25
 in_force: 1950-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/1385_1385_1385/20190625/de/xml/fedlex-data-admin-ch-eli-cc-1974-1385_1385_1385-20190625-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1974/1385_1385_1385/20190625/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/1385_1385_1385/20240926/de/xml/fedlex-data-admin-ch-eli-cc-1974-1385_1385_1385-20240926-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1974/1385_1385_1385/20240926/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1974** 1385
 
 Abgeschlossen in Bern am 25. September 1950 In Kraft getreten für die Schweiz am 1. Oktober 1950
 
-(Stand am 25. Juni 2019)
+(Stand am 26. September 2024)
 
 Die Hohen Vertragsparteien,
 
@@ -48,18 +48,17 @@ Die Hohen Vertragsparteien erteilen den zuständigen Behörden ihrer Staaten die
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Protokoll, das im Archiv der Schweizerischen Eidgenossenschaft hinterlegt wird, unterschrieben; jeder Hohen Vertragspartei wird auf diplomatischem Weg eine beglaubigte Abschrift übermittelt. Geschehen zu Bern am 25. September 1950. (Es folgen die Unterschriften)
 
-Geltungsbereich am 25. Juni 2019**[^t-1]**
+Geltungsbereich am 26. September 2024[^t-1]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Unterzeichnet ohne Ratifikationsvorbehalt (U)</th><th></th><th>Inkrafttreten</th><th></th></tr>
-<tr><td>Griechenland</td><td>3. September</td><td>1959 B</td><td>3. Oktober</td><td>1959</td></tr>
 <tr><td>Luxemburg</td><td>25. September</td><td>1950 U</td><td>1. Oktober</td><td>1950</td></tr>
 <tr><td>Schweiz</td><td>25. September</td><td>1950 U</td><td>1. Oktober</td><td>1950</td></tr>
 <tr><td>Spanien</td><td>13. September</td><td>1974 B</td><td>13. Oktober</td><td>1974</td></tr>
 <tr><td>Türkei</td><td>24. September</td><td>1953 B</td><td>23. Dezember</td><td>1953</td></tr>
 </table>
 
-[^t-1]: [AS 1974 1385](https://fedlex.data.admin.ch/eli/oc/1974/1385_1385_1385), [1976 1942](https://fedlex.data.admin.ch/eli/oc/1976/1942_1942_1942), [2001 2516](https://fedlex.data.admin.ch/eli/oc/2001/373), [2009 2651](https://fedlex.data.admin.ch/eli/oc/2009/358), [2013 1317](https://fedlex.data.admin.ch/eli/oc/2013/302), [2015 1071](https://fedlex.data.admin.ch/eli/oc/2015/210), [2019 2177](https://fedlex.data.admin.ch/eli/oc/2019/400). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-1]: [AS 1974 1385](https://fedlex.data.admin.ch/eli/oc/1974/1385_1385_1385); [1976 1942](https://fedlex.data.admin.ch/eli/oc/1976/1942_1942_1942); [2001 2516](https://fedlex.data.admin.ch/eli/oc/2001/373); [2009 2651](https://fedlex.data.admin.ch/eli/oc/2009/358); [2013 1317](https://fedlex.data.admin.ch/eli/oc/2013/302); [2015 1071](https://fedlex.data.admin.ch/eli/oc/2015/210); [2019 2177](https://fedlex.data.admin.ch/eli/oc/2019/400); [2024 529](https://fedlex.data.admin.ch/eli/oc/2024/529). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)
 
 Zusatzprotokoll
 
