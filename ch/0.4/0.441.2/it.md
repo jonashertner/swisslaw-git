@@ -3,11 +3,11 @@ sr: "0.441.2"
 title: Carta europea del 5 novembre 1992 delle lingue regionali o minoritarie
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/382"
 language: it
-version: 2013-08-14
+version: 2024-09-26
 adopted: 1992-11-05
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/382/20130814/it/xml/fedlex-data-admin-ch-eli-cc-2003-382-20130814-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/382/20130814/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/382/20240926/it/xml/fedlex-data-admin-ch-eli-cc-2003-382-20240926-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/382/20240926/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2003** 2507; FF **1997** I 1053
 
 Traduzione
 
-Conclusa a Strasburgo il 5 novembre 1992
+Conclusa a Strasburgo il 5 novembre 1992 Approvata dall’Assemblea federale il 25 settembre 1997[^t-1] Ratificata con strumenti depositati dalla Svizzera il 23 dicembre 1997 Entrata in vigore per la Svizzera il 1° aprile 1998
 
-Approvata dall’Assemblea federale il 25 settembre 1997[^t-1]
-
-Ratificata con strumenti depositati dalla Svizzera il 23 dicembre 1997
-
-Entrata in vigore per la Svizzera il 1° aprile 1998
-
-(Stato 14 agosto 2013)
+(Stato 26 settembre 2024)
 
 [^t-1]: [RU 2003 2506](https://fedlex.data.admin.ch/eli/oc/2003/381)
 
@@ -50,8 +44,8 @@ tenuto conto delle condizioni specifiche e delle tradizioni storiche proprie di 
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.103.2](https://fedlex.data.admin.ch/eli/cc/1993/750_750_750)
-[^ingress-2]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^ingress-1]: [RS 0.103.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/20)
+[^ingress-2]: [RS 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 
 ## Parte I: Disposizioni generali
 
@@ -104,7 +98,7 @@ Ai sensi della presente Carta:
 
 Nella presente Carta nulla può implicare il diritto di intraprendere un’attività qualunque o di compiere un’azione qualunque contrarie agli scopi della Carta delle Nazioni Unite[^5-1] o ad altri obblighi sanciti dal diritto internazionale, compreso il principio della sovranità e dell’integrità territoriale degli Stati.
 
-[^5-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^5-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 6
 
@@ -440,44 +434,43 @@ Il Segretario Generale del Consiglio d’Europa notificherà agli Stati membri d
 
 *In fede di che* i sottoscritti, a tal fine debitamente autorizzati, hanno firmato la presente Carta. Fatto a Strasburgo, il 5 novembre 1992, in francese e in inglese, entrambi i testi facenti ugualmente fede, in un unico esemplare che sarà depositato negli archivi del Consiglio d’Europa. Il Segretario Generale ne comunicherà copia certificata conforme a ciascuno degli Stati membri del Consiglio d’Europa e a ogni Stato invitato ad aderire alla presente Carta. (Seguono le firme)
 
-Campo d’applicazione il 14 agosto 2013**[^t-2]**
+Campo d’applicazione il 26 settembre 2024[^t-2]
 
 <table>
-<tr><th colspan="2">Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
-<tr><th colspan="2"></th><th>Dichiarazione di successione (S)</th><th></th><th></th><th></th></tr>
-<tr><td colspan="2">Armenia<sup>\*</sup></td><td>25 gennaio</td><td>2002</td><td>1° maggio</td><td>2002</td></tr>
-<tr><td colspan="2">Austria<sup>\*</sup></td><td>28 giugno</td><td>2001</td><td>1° ottobre</td><td>2001</td></tr>
-<tr><td colspan="2">Bosnia ed Erzegovina<sup>\*</sup></td><td>21 settembre</td><td>2010</td><td>1° gennaio</td><td>2011</td></tr>
-<tr><td colspan="2">Ceca, Repubblica<sup>\*</sup></td><td>15 novembre</td><td>2006</td><td>1° marzo</td><td>2007</td></tr>
-<tr><td colspan="2">Cipro<sup>\*</sup></td><td>26 agosto</td><td>2002</td><td>1° dicembre</td><td>2002</td></tr>
-<tr><td colspan="2">Croazia<sup>\*</sup></td><td>5 novembre</td><td>1997</td><td>1° marzo</td><td>1998</td></tr>
-<tr><td colspan="2">Danimarca<sup>\*</sup></td><td>8 settembre</td><td>2000</td><td>1° gennaio</td><td>2001</td></tr>
-<tr><td colspan="2">Finlandia<sup>\*</sup></td><td>9 novembre</td><td>1994</td><td>1° marzo</td><td>1998</td></tr>
-<tr><td colspan="2">Germania<sup>\*</sup></td><td>16 settembre</td><td>1998</td><td>1° gennaio</td><td>1999</td></tr>
-<tr><td colspan="2">Liechtenstein<sup>\*</sup></td><td>18 novembre</td><td>1997</td><td>1° marzo</td><td>1998</td></tr>
-<tr><td colspan="2">Lussemburgo</td><td>22 giugno</td><td>2005</td><td>1° ottobre</td><td>2005</td></tr>
-<tr><td colspan="2">Montenegro<sup>\*</sup></td><td>6 giugno</td><td>2006 S</td><td>6 giugno</td><td>2006</td></tr>
-<tr><td colspan="2">Norvegia<sup>\*</sup></td><td>10 novembre</td><td>1993</td><td>1° marzo</td><td>1998</td></tr>
-<tr><td colspan="2">Paesi Bassi<sup>\*</sup> <sup>a</sup></td><td>2 maggio</td><td>1996</td><td>1° marzo</td><td>1998</td></tr>
-<tr><td colspan="2">Polonia<sup>\*</sup></td><td>12 febbraio</td><td>2009</td><td>1° giugno</td><td>2009</td></tr>
-<tr><td colspan="2">Regno Unito<sup>\*</sup> <sup>b</sup></td><td>27 marzo</td><td>2001</td><td>1° luglio</td><td>2001</td></tr>
-<tr><td colspan="2">[tab] Isola di Man<sup>\*</sup></td><td>23 aprile</td><td>2003</td><td>23 aprile</td><td>2003</td></tr>
-<tr><td colspan="2">Romania<sup>\*</sup></td><td>29 gennaio</td><td>2008</td><td>1° maggio</td><td>2008</td></tr>
-<tr><td colspan="2">Serbia<sup>\*</sup></td><td>15 febbraio</td><td>2006</td><td>1° giugno</td><td>2006</td></tr>
-<tr><td colspan="2">Slovacchia<sup>\*</sup></td><td>5 settembre</td><td>2001</td><td>1° gennaio</td><td>2002</td></tr>
-<tr><td colspan="2">Slovenia<sup>\*</sup></td><td>4 ottobre</td><td>2000</td><td>1° gennaio</td><td>2001</td></tr>
-<tr><td colspan="2">Spagna<sup>\*</sup></td><td>9 aprile</td><td>2001</td><td>1° agosto</td><td>2001</td></tr>
-<tr><td colspan="2">Svezia<sup>\*</sup></td><td>9 febbraio</td><td>2000</td><td>1° giugno</td><td>2000</td></tr>
-<tr><td colspan="2">Svizzera<sup>\*</sup></td><td>23 dicembre</td><td>1997</td><td>1° aprile</td><td>1998</td></tr>
-<tr><td colspan="2">Ucraina<sup>\*</sup></td><td>19 settembre</td><td>2005</td><td>1° gennaio</td><td>2006</td></tr>
-<tr><td colspan="2">Ungheria<sup>\*</sup></td><td>26 aprile</td><td>1995</td><td>1° marzo</td><td>1998</td></tr>
-<tr><td>\*</td><td colspan="5">Riserve e dichiarazioni.</td></tr>
-<tr><td></td><td colspan="5">Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: http://conventions.coe.int oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td>a</td><td colspan="5">Per il Regno in Europa.</td></tr>
-<tr><td>b</td><td colspan="5">La carta vale per la Gran Bretagna per l’Irlanda del Nord.</td></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Armenia<sup>\*</sup></td><td>25 gennaio</td><td>2002</td><td>1° maggio</td><td>2002</td></tr>
+<tr><td>Austria<sup>\*</sup></td><td>28 giugno</td><td>2001</td><td>1° ottobre</td><td>2001</td></tr>
+<tr><td>Bosnia ed Erzegovina<sup>\*</sup></td><td>21 settembre</td><td>2010</td><td>1° gennaio</td><td>2011</td></tr>
+<tr><td>Ceca, Repubblica<sup>\*</sup></td><td>15 novembre</td><td>2006</td><td>1° marzo</td><td>2007</td></tr>
+<tr><td>Cipro<sup>\*</sup></td><td>26 agosto</td><td>2002</td><td>1° dicembre</td><td>2002</td></tr>
+<tr><td>Croazia<sup>\*</sup></td><td>5 novembre</td><td>1997</td><td>1° marzo</td><td>1998</td></tr>
+<tr><td>Danimarca<sup>\*</sup></td><td>8 settembre</td><td>2000</td><td>1° gennaio</td><td>2001</td></tr>
+<tr><td>Finlandia<sup>\*</sup></td><td>9 novembre</td><td>1994</td><td>1° marzo</td><td>1998</td></tr>
+<tr><td>Germania<sup>\*</sup></td><td>16 settembre</td><td>1998</td><td>1° gennaio</td><td>1999</td></tr>
+<tr><td>Liechtenstein<sup>\*</sup></td><td>18 novembre</td><td>1997</td><td>1° marzo</td><td>1998</td></tr>
+<tr><td>Lussemburgo</td><td>22 giugno</td><td>2005</td><td>1° ottobre</td><td>2005</td></tr>
+<tr><td>Montenegro<sup>\*</sup></td><td>6 giugno</td><td>2006 S</td><td>6 giugno</td><td>2006</td></tr>
+<tr><td>Norvegia<sup>\*</sup></td><td>10 novembre</td><td>1993</td><td>1° marzo</td><td>1998</td></tr>
+<tr><td>Paesi Bassi<sup>\*</sup> <sup>a</sup></td><td>2 maggio</td><td>1996</td><td>1° marzo</td><td>1998</td></tr>
+<tr><td>Parte caraibica (Bonaire, Sint Eustatius e Saba)\*</td><td>22 gennaio</td><td>2024</td><td>22 gennaio</td><td>2024</td></tr>
+<tr><td>Polonia<sup>\*</sup></td><td>12 febbraio</td><td>2009</td><td>1° giugno</td><td>2009</td></tr>
+<tr><td>Regno Unito<sup>\*</sup> <sup>b</sup></td><td>27 marzo</td><td>2001</td><td>1° luglio</td><td>2001</td></tr>
+<tr><td>Isola di Man<sup>\*</sup></td><td>23 aprile</td><td>2003</td><td>23 aprile</td><td>2003</td></tr>
+<tr><td>Romania<sup>\*</sup></td><td>29 gennaio</td><td>2008</td><td>1° maggio</td><td>2008</td></tr>
+<tr><td>Serbia<sup>\*</sup></td><td>15 febbraio</td><td>2006</td><td>1° giugno</td><td>2006</td></tr>
+<tr><td>Slovacchia<sup>\*</sup></td><td>5 settembre</td><td>2001</td><td>1° gennaio</td><td>2002</td></tr>
+<tr><td>Slovenia<sup>\*</sup></td><td>4 ottobre</td><td>2000</td><td>1° gennaio</td><td>2001</td></tr>
+<tr><td>Spagna<sup>\*</sup></td><td>9 aprile</td><td>2001</td><td>1° agosto</td><td>2001</td></tr>
+<tr><td>Svezia<sup>\*</sup></td><td>9 febbraio</td><td>2000</td><td>1° giugno</td><td>2000</td></tr>
+<tr><td>Svizzera<sup>\*</sup></td><td>23 dicembre</td><td>1997</td><td>1° aprile</td><td>1998</td></tr>
+<tr><td>Ucraina<sup>\*</sup></td><td>19 settembre</td><td>2005</td><td>1° gennaio</td><td>2006</td></tr>
+<tr><td>Ungheria<sup>\*</sup></td><td>26 aprile</td><td>1995</td><td>1° marzo</td><td>1998</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: [http://conventions.coe.int](http://conventions.coe.int) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5"><sup>a</sup> Per il Regno in Europa.</td></tr>
+<tr><td colspan="5"><sup>b</sup> La carta vale per la Gran Bretagna per l’Irlanda del Nord.</td></tr>
 </table>
 
-[^t-2]: [RU 2003 2507](https://fedlex.data.admin.ch/eli/oc/2003/382), [2006 3565](https://fedlex.data.admin.ch/eli/oc/2006/552), [2010 2261](https://fedlex.data.admin.ch/eli/oc/2010/320)e [2013 2713](https://fedlex.data.admin.ch/eli/oc/2013/555). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2003 2507](https://fedlex.data.admin.ch/eli/oc/2003/382); [2006 3565](https://fedlex.data.admin.ch/eli/oc/2006/552); [2010 2261](https://fedlex.data.admin.ch/eli/oc/2010/320); [2013 2713](https://fedlex.data.admin.ch/eli/oc/2013/555); [2024 531](https://fedlex.data.admin.ch/eli/oc/2024/531). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Riserve e dichiarazioni
 

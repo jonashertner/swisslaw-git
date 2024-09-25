@@ -3,11 +3,11 @@ sr: "0.441.2"
 title: Charte européenne du 5 novembre 1992 des langues régionales ou minoritaires
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/382"
 language: fr
-version: 2013-08-14
+version: 2024-09-26
 adopted: 1992-11-05
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/382/20130814/fr/xml/fedlex-data-admin-ch-eli-cc-2003-382-20130814-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/382/20130814/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/382/20240926/fr/xml/fedlex-data-admin-ch-eli-cc-2003-382-20240926-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/382/20240926/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,15 +18,9 @@ RO **2003** 2507; FF **1997** I 1105
 
 Texte original
 
-Conclue à Strasbourg le 5 novembre 1992
+Conclue à Strasbourg le 5 novembre 1992 Approuvée par l’Assemblée fédérale le 25 septembre 1997[^t-1] Instrument de ratification déposé par la Suisse le 23 décembre 1997 Entrée en vigueur pour la Suisse le 1<sup>er</sup> avril 1998
 
-Approuvée par l’Assemblée fédérale le 25 septembre 1997[^t-1]
-
-Instrument de ratification déposé par la Suisse le 23 décembre 1997
-
-Entrée en vigueur pour la Suisse le 1<sup>er</sup> avril 1998
-
-(Etat le 14 août 2013)
+(État le 26 septembre 2024)
 
 [^t-1]: [RO 2003 2506](https://fedlex.data.admin.ch/eli/oc/2003/381)
 
@@ -50,8 +44,8 @@ compte tenu des conditions spécifiques et des traditions historiques propres à
 
 sont convenus de ce qui suit:
 
-[^ingress-1]: [RS 0.103.2](https://fedlex.data.admin.ch/eli/cc/1993/750_750_750)
-[^ingress-2]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^ingress-1]: [RS 0.103.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/20)
+[^ingress-2]: [RS 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 
 ## Partie I Dispositions générales
 
@@ -104,7 +98,7 @@ Au sens de la présente Charte:
 
 Rien dans la présente Charte ne pourra être interprété comme impliquant le droit d’engager une quelconque activité ou d’accomplir une quelconque action contrevenant aux buts de la Charte des Nations Unies[^5-1] ou à d’autres obligations du droit international, y compris le principe de la souveraineté et de l’intégrité territoriale des États.
 
-[^5-1]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^5-1]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 6
 
@@ -209,8 +203,8 @@ Les Parties s’engagent, en ce qui concerne les circonscriptions des autorités
   - i) à prévoir que les juridictions, à la demande d’une des parties, mènent la procédure dans les langues régionales ou minoritaires, et/ou
   - ii) à permettre, lorsqu’une partie à un litige doit comparaître en personne devant un tribunal, qu’elle s’exprime dans sa langue régionale ou minoritaire sans pour autant encourir des frais additionnels, et/ou
   - iii) à permettre la production de documents et de preuves dans les langues régionales ou minoritaires,
-  - [tab] si nécessaire par un recours à des interprètes et à des traductions;
 
+- si nécessaire par un recours à des interprètes et à des traductions;
 - c)
 
   dans les procédures devant les juridictions compétentes en matière administrative:
@@ -218,8 +212,8 @@ Les Parties s’engagent, en ce qui concerne les circonscriptions des autorités
   - i) à prévoir que les juridictions, à la demande d’une des parties, mènent la procédure dans les langues régionales ou minoritaires, et/ou
   - ii) à permettre, lorsqu’une partie à un litige doit comparaître en personne devant un tribunal, qu’elle s’exprime dans sa langue régionale ou minoritaire sans pour autant encourir des frais additionnels, et/ou
   - iii) à permettre la production de documents et de preuves dans les langues régionales ou minoritaires,
-  - [tab] si nécessaire par un recours à des interprètes et à des traductions;
 
+- si nécessaire par un recours à des interprètes et à des traductions;
 - d) à prendre des mesures afin que l’application des alinéas i et iii des par. b et c ci-dessus et l’emploi éventuel d’interprètes et de traductions n’entraînent pas de frais additionnels pour les intéressés.
 
 <sup>2.</sup>
@@ -443,14 +437,14 @@ Le Secrétaire général du Conseil de l’Europe notifiera aux États membres d
 
 *En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé la présente Charte. Fait à Strasbourg, le 5 novembre 1992, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des États membres du Conseil de l’Europe et à tout État invité à adhérer à la présente Charte. (Suivent les signatures)
 
-Champ d’application le 14 août 2013**[^t-2]**
+Champ d’application le 26 septembre 2024[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Allemagne\*</td><td>16 septembre</td><td>1998</td><td>1<sup>er</sup> janvier</td><td>1999</td></tr>
 <tr><td>Arménie\*</td><td>25 janvier</td><td>2002</td><td>1<sup>er</sup> mai</td><td>2002</td></tr>
 <tr><td>Autriche\*</td><td>28 juin</td><td>2001</td><td>1<sup>er</sup> octobre</td><td>2001</td></tr>
-<tr><td>Bosnie et Herzégovine<sup>\*</sup></td><td>21 septembre</td><td>2010</td><td>1<sup>er</sup> janvier</td><td>2011</td></tr>
+<tr><td>Bosnie et Herzégovine\*</td><td>21 septembre</td><td>2010</td><td>1<sup>er</sup> janvier</td><td>2011</td></tr>
 <tr><td>Chypre\*</td><td>26 août</td><td>2002</td><td>1<sup>er</sup> décembre</td><td>2002</td></tr>
 <tr><td>Croatie\*</td><td>5 novembre</td><td>1997</td><td>1<sup>er</sup> mars</td><td>1998</td></tr>
 <tr><td>Danemark\*</td><td>8 septembre</td><td>2000</td><td>1<sup>er</sup> janvier</td><td>2001</td></tr>
@@ -459,24 +453,25 @@ Champ d’application le 14 août 2013**[^t-2]**
 <tr><td>Hongrie\*</td><td>26 avril</td><td>1995</td><td>1<sup>er</sup> mars</td><td>1998</td></tr>
 <tr><td>Liechtenstein\*</td><td>18 novembre</td><td>1997</td><td>1<sup>er</sup> mars</td><td>1998</td></tr>
 <tr><td>Luxembourg</td><td>22 juin</td><td>2005</td><td>1<sup>er</sup> octobre</td><td>2005</td></tr>
-<tr><td>Monténégro<sup>\*</sup></td><td>6 juin</td><td>2006 S</td><td>6 juin</td><td>2006</td></tr>
+<tr><td>Monténégro\*</td><td>6 juin</td><td>2006 S</td><td>6 juin</td><td>2006</td></tr>
 <tr><td>Norvège\*</td><td>10 novembre</td><td>1993</td><td>1<sup>er</sup> mars</td><td>1998</td></tr>
 <tr><td>Pays-Bas\* <sup>a</sup></td><td>2 mai</td><td>1996</td><td>1<sup>er</sup> mars</td><td>1998</td></tr>
+<tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)\*</td><td>22 janvier</td><td>2024</td><td>22 janvier</td><td>2024</td></tr>
 <tr><td>Pologne\*</td><td>12 février</td><td>2009</td><td>1<sup>er</sup> juin</td><td>2009</td></tr>
 <tr><td>République tchèque\*</td><td>15 novembre</td><td>2006</td><td>1<sup>er</sup> mars</td><td>2007</td></tr>
 <tr><td>Roumanie\*</td><td>29 janvier</td><td>2008</td><td>1<sup>er</sup> mai</td><td>2008</td></tr>
 <tr><td>Royaume-Uni\* <sup>b</sup></td><td>27 mars</td><td>2001</td><td>1<sup>er</sup> juillet</td><td>2001</td></tr>
-<tr><td>[tab] Île de Man\*</td><td>23 avril</td><td>2003</td><td>23 avril</td><td>2003</td></tr>
+<tr><td>Île de Man\*</td><td>23 avril</td><td>2003</td><td>23 avril</td><td>2003</td></tr>
 <tr><td>Serbie\*</td><td>15 février</td><td>2006</td><td>1<sup>er</sup> juin</td><td>2006</td></tr>
 <tr><td>Slovaquie\*</td><td>5 septembre</td><td>2001</td><td>1<sup>er</sup> janvier</td><td>2002</td></tr>
 <tr><td>Slovénie\*</td><td>4 octobre</td><td>2000</td><td>1<sup>er</sup> janvier</td><td>2001</td></tr>
 <tr><td>Suède\*</td><td>9 février</td><td>2000</td><td>1<sup>er</sup> juin</td><td>2000</td></tr>
 <tr><td>Suisse\*</td><td>23 décembre</td><td>1997</td><td>1<sup>er</sup> avril</td><td>1998</td></tr>
 <tr><td>Ukraine\*</td><td>19 septembre</td><td>2005</td><td>1<sup>er</sup> janvier</td><td>2006</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: http://conventions.coe.int ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe. <sup>b</sup> La Charte s’applique à la Grande-Bretagne et à l’Irlande du Nord.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO, à l’exception de celles de la Suisse. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet du Conseil de l’Europe: [http://conventions.coe.int](http://conventions.coe.int) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe. <sup>b</sup> La Charte s’applique à la Grande-Bretagne et à l’Irlande du Nord.</td></tr>
 </table>
 
-[^t-2]: [RO 2003 2507](https://fedlex.data.admin.ch/eli/oc/2003/382), [2006 3565](https://fedlex.data.admin.ch/eli/oc/2006/552), [2010 2261](https://fedlex.data.admin.ch/eli/oc/2010/320), [2013 2713](https://fedlex.data.admin.ch/eli/oc/2013/555). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2003 2507](https://fedlex.data.admin.ch/eli/oc/2003/382); [2006 3565](https://fedlex.data.admin.ch/eli/oc/2006/552); [2010 2261](https://fedlex.data.admin.ch/eli/oc/2010/320); [2013 2713](https://fedlex.data.admin.ch/eli/oc/2013/555); [2024 531](https://fedlex.data.admin.ch/eli/oc/2024/531). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
 
 Réserves et déclarations
 

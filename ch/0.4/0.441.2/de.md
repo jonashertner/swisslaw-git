@@ -3,11 +3,11 @@ sr: "0.441.2"
 title: Europäische Charta vom 5. November 1992 der Regional- oder Minderheitensprachen
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/382"
 language: de
-version: 2013-08-14
+version: 2024-09-26
 adopted: 1992-11-05
 in_force: 1998-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/382/20130814/de/xml/fedlex-data-admin-ch-eli-cc-2003-382-20130814-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/382/20130814/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/382/20240926/de/xml/fedlex-data-admin-ch-eli-cc-2003-382-20240926-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/382/20240926/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -18,15 +18,9 @@ AS **2003** 2507; BBl **1997** I 1165
 
 Übersetzung
 
-Abgeschlossen in Strassburg am 5. November 1992
+Abgeschlossen in Strassburg am 5. November 1992 Von der Bundesversammlung genehmigt am 25. September 1997[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 23. Dezember 1997 In Kraft getreten für die Schweiz am 1. April 1998
 
-Von der Bundesversammlung genehmigt am 25. September 1997[^t-1]
-
-Schweizerische Ratifikationsurkunde hinterlegt am 23. Dezember 1997
-
-In Kraft getreten für die Schweiz am 1. April 1998
-
-(Stand am 14. August 2013)
+(Stand am 26. September 2024)
 
 [^t-1]: [AS 2003 2506](https://fedlex.data.admin.ch/eli/oc/2003/381)
 
@@ -50,8 +44,8 @@ unter Berücksichtigung der besonderen Verhältnisse und der geschichtlich gewac
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.103.2](https://fedlex.data.admin.ch/eli/cc/1993/750_750_750)
-[^ingress-2]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
+[^ingress-1]: [SR 0.103.2](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/20)
+[^ingress-2]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
 
 ## Teil I: Allgemeine Bestimmungen
 
@@ -59,7 +53,7 @@ sind wie folgt übereingekommen:
 
 **Begriffsbestimmungen**
 
-Im Sinne dieser Charta
+Im Sinne dieser Charta:
 
 - a) bezeichnet der Ausdruck «Regional- oder Minderheitensprachen» Sprachen,
   - i) die herkömmlicherweise in einem bestimmten Gebiet eines Staates von Angehörigen dieses Staates gebraucht werden, die eine Gruppe bilden, deren Zahl kleiner ist als die der übrigen Bevölkerung des Staates, und
@@ -101,7 +95,7 @@ Im Sinne dieser Charta
 
 Die Bestimmungen dieser Charta sind nicht so auszulegen, als gewährten sie das Recht, irgendeine Tätigkeit auszuüben oder irgendeine Handlung vorzunehmen, die gegen die Ziele der Charta der Vereinten Nationen[^5-1] oder sonstige völkerrechtliche Verpflichtungen einschliesslich des Grundsatzes der Souveränität und territorialen Unversehrtheit der Staaten verstösst.
 
-[^5-1]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^5-1]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 6
 
@@ -143,7 +137,9 @@ Hinsichtlich der Regional- oder Minderheitensprachen legen die Vertragsparteien 
 
 **Bildung**
 
-<sup>1.</sup> Im Bereich der Bildung verpflichten sich die Vertragsparteien, in dem Gebiet, in dem solche Sprachen gebraucht werden, unter Berücksichtigung der Situation jeder dieser Sprachen und unbeschadet des Unterrichts der Amtssprache(n) des Staates
+<sup>1.</sup>
+
+Im Bereich der Bildung verpflichten sich die Vertragsparteien, in dem Gebiet, in dem solche Sprachen gebraucht werden, unter Berücksichtigung der Situation jeder dieser Sprachen und unbeschadet des Unterrichts der Amtssprache(n) des Staates:
 
 - a) i) die vorschulische Erziehung in den betreffenden Regional- oder Minderheitensprachen anzubieten oder
   - ii) einen erheblichen Teil der vorschulischen Erziehung in den betreffenden Regional- oder Minderheitensprachen anzubieten oder
@@ -187,28 +183,39 @@ Hinsichtlich der Regional- oder Minderheitensprachen legen die Vertragsparteien 
 
 Die Vertragsparteien verpflichten sich, in Bezug auf diejenigen Gerichtsbezirke, in denen die Zahl der Einwohner, welche die Regional- oder Minderheitensprachen gebrauchen, die nachstehenden Massnahmen rechtfertigt, unter Berücksichtigung der Situation jeder dieser Sprachen und unter der Bedingung, dass die Inanspruchnahme der durch diesen Absatz gebotenen Möglichkeiten nach Auffassung des Richters eine ordentliche Rechtspflege nicht behindert:
 
-- a) in Strafverfahren
+- a)
+
+  in Strafverfahren:
+
   - i) dafür zu sorgen, dass die Gerichte auf Antrag einer der Parteien das Verfahren in den Regional- oder Minderheitensprachen durchführen, und/oder
   - ii) sicherzustellen, dass der Angeklagte das Recht hat, seine Regional- oder Minderheitensprache zu gebrauchen, und/oder
   - iii) dafür zu sorgen, dass Anträge und Beweismittel, gleichviel ob schriftlich oder mündlich, nicht allein aus dem Grund als unzulässig angesehen werden, weil sie in einer Regional- oder Minderheitensprache abgefasst sind, und/oder
   - iv) auf Verlangen Schriftstücke, die mit Gerichtsverfahren zusammenhängen, in der betreffenden Regional- oder Minderheitensprache abzufassen,
 
 - wenn nötig durch Inanspruchnahme von Dolmetschern und Übersetzungen, wodurch den Betroffenen keine zusätzlichen Kosten entstehen dürfen;
-- b) in zivilrechtlichen Verfahren
+- b)
+
+  in zivilrechtlichen Verfahren:
+
   - i) dafür zu sorgen, dass die Gerichte auf Antrag einer der Parteien das Verfahren in den Regional- oder Minderheitensprachen durchführen, und/oder
   - ii) zuzulassen, dass eine Prozesspartei, wenn sie persönlich vor Gericht erscheinen muss, ihre Regional- oder Minderheitensprache gebrauchen kann, ohne dass ihr dadurch zusätzliche Kosten entstehen, und/oder
-  - a) zuzulassen, dass Urkunden und Beweismittel in den Regional- oder Minderheitensprachen vorgelegt werden,
+  - iii) zuzulassen, dass Urkunden und Beweismittel in den Regional- oder Minderheitensprachen vorgelegt werden,
 
 - wenn nötig durch Inanspruchnahme von Dolmetschern und Übersetzungen;
-- c) in Verfahren vor Gerichten für Verwaltungssachen
+- c)
+
+  in Verfahren vor Gerichten für Verwaltungssachen:
+
   - i) dafür zu sorgen, dass die Gerichte auf Antrag einer der Parteien das Verfahren in den Regional- oder Minderheitensprachen durchführen, und/oder
   - ii) zuzulassen, dass eine Prozesspartei, wenn sie persönlich vor Gericht erscheinen muss, ihre Regional- oder Minderheitensprache gebrauchen kann, ohne dass ihr dadurch zusätzliche Kosten entstehen, und/oder
   - iii) zuzulassen, dass Urkunden und Beweismittel in den Regional- oderMinderheitensprachen vorgelegt werden,
-  - [tab] wenn nötig durch Inanspruchnahme von Dolmetschern und Übersetzungen;
 
+- wenn nötig durch Inanspruchnahme von Dolmetschern und Übersetzungen;
 - d) dafür zu sorgen, dass den Betroffenen durch die Anwendung des Buchstabens b Ziffern i und iii und des Buchstabens c Ziffern i und iii sowie durch eine notwendige Inanspruchnahme von Dolmetschern und Übersetzungen keine zusätzlichen Kosten entstehen.
 
-<sup>2.</sup> Die Vertragsparteien verpflichten sich,
+<sup>2.</sup>
+
+Die Vertragsparteien verpflichten sich:
 
 - a) die Rechtsgültigkeit von im Inland abgefassten Rechtsurkunden nicht allein aus dem Grund zu verneinen, weil sie in einer Regional- oder Minderheitensprache abgefasst sind, oder
 - b) die Rechtsgültigkeit von im Inland abgefassten Rechtsurkunden im Verhältnis zwischen den Parteien nicht allein aus dem Grund zu verneinen, weil die Urkunden in einer Regional- oder Minderheitensprache abgefasst sind, und vorzusehen, dass sie gegen beteiligte Dritte, die diese Sprachen nicht gebrauchen, unter der Bedingung verwendet werden können, dass ihnen der Inhalt der Urkunden von der (den) Person(en), welche die Urkunden verwendet (verwenden), zur Kenntnis gebracht worden ist, oder
@@ -220,7 +227,9 @@ Die Vertragsparteien verpflichten sich, in Bezug auf diejenigen Gerichtsbezirke,
 
 **Verwaltungsbehörden und öffentliche Dienstleistungsbetriebe**
 
-<sup>1.</sup> Innerhalb der Verwaltungsbezirke des Staates, in denen die Zahl der Einwohner, die Regional- oder Minderheitensprachen gebrauchen, die nachstehenden Massnahmen rechtfertigt, und unter Berücksichtigung der Situation jeder Sprache verpflichten sich die Vertragsparteien, im Rahmen des Zumutbaren
+<sup>1.</sup>
+
+Innerhalb der Verwaltungsbezirke des Staates, in denen die Zahl der Einwohner, die Regional- oder Minderheitensprachen gebrauchen, die nachstehenden Massnahmen rechtfertigt, und unter Berücksichtigung der Situation jeder Sprache verpflichten sich die Vertragsparteien, im Rahmen des Zumutbaren:
 
 - a) i) sicherzustellen, dass die Verwaltungsbehörden die Regional- oder Minderheitensprachen gebrauchen, oder
   - ii) sicherzustellen, dass diejenigen ihrer Bediensteten, die unmittelbaren Kontakt zur Bevölkerung haben, die Regional- oder Minderheitensprachen in ihrem Umgang mit Personen gebrauchen, die sich in diesen Sprachen an sie wenden, oder
@@ -243,7 +252,9 @@ In Bezug auf die örtlichen und regionalen Behörden, in deren örtlichem Zustä
 - f) den Gebrauch von Regional- oder Minderheitensprachen durch die örtlichen Behörden in deren Ratsversammlungen, ohne jedoch den Gebrauch der Amtssprache(n) des Staates auszuschliessen;
 - g) den Gebrauch oder die Annahme der herkömmlichen und korrekten Formen von Ortsnamen in Regional- oder Minderheitensprachen, wenn nötig in Verbindung mit dem Namen in der (den) Amtssprache(n).
 
-<sup>3.</sup> In Bezug auf die öffentlichen Dienstleistungen, die von den Verwaltungsbehörden selbst oder in deren Auftrag erbracht werden, verpflichten sich die Vertragsparteien, in dem Gebiet, in dem Regional- oder Minderheitensprachen gebraucht werden, unter Berücksichtigung der Situation jeder Sprache und im Rahmen des Zumutbaren
+<sup>3.</sup>
+
+In Bezug auf die öffentlichen Dienstleistungen, die von den Verwaltungsbehörden selbst oder in deren Auftrag erbracht werden, verpflichten sich die Vertragsparteien, in dem Gebiet, in dem Regional- oder Minderheitensprachen gebraucht werden, unter Berücksichtigung der Situation jeder Sprache und im Rahmen des Zumutbaren:
 
 - a) sicherzustellen, dass die Regional- oder Minderheitensprachen bei der Erbringung der Dienstleistung gebraucht werden, oder
 - b) zuzulassen, dass Personen, die Regional- oder Minderheitensprachen gebrauchen, in diesen Sprachen einen Antrag stellen und eine Antwort erhalten, oder
@@ -295,7 +306,9 @@ Die Vertragsparteien verpflichten sich, für die Sprecher von Regional- oder Min
 
 **Kulturelle Tätigkeiten und Einrichtungen**
 
-<sup>1.</sup> In Bezug auf kulturelle Einrichtungen und Tätigkeiten – insbesondere Bibliotheken, Videotheken, Kulturzentren, Museen, Archive, Akademien, Theater und Kinos sowie literarische Werke und Filmproduktionen, volkstümliche Formen des kulturellen Ausdrucks, Festspiele und die Kulturindustrien, einschliesslich unter anderem des Einsatzes neuer Technologien – verpflichten sich die Vertragsparteien, in dem Gebiet, in dem solche Sprachen gebraucht werden, in dem Ausmass, in dem die staatlichen Stellen in diesem Bereich Zuständigkeit, Befugnisse oder Einfluss haben,
+<sup>1.</sup>
+
+In Bezug auf kulturelle Einrichtungen und Tätigkeiten – insbesondere Bibliotheken, Videotheken, Kulturzentren, Museen, Archive, Akademien, Theater und Kinos sowie literarische Werke und Filmproduktionen, volkstümliche Formen des kulturellen Ausdrucks, Festspiele und die Kulturindustrien, einschliesslich unter anderem des Einsatzes neuer Technologien – verpflichten sich die Vertragsparteien, in dem Gebiet, in dem solche Sprachen gebraucht werden, in dem Ausmass, in dem die staatlichen Stellen in diesem Bereich Zuständigkeit, Befugnisse oder Einfluss haben:
 
 - a) zu den Regional- oder Minderheitensprachen eigenen Formen des Ausdrucks und der Initiative zu ermutigen sowie die verschiedenen Zugangsmöglichkeiten zu den in diesen Sprachen geschaffenen Werken zu fördern;
 - b) die verschiedenen Zugangsmöglichkeiten zu den in Regional- oder Minderheitensprachen geschaffenen Werken in anderen Sprachen zu fördern, indem sie Tätigkeiten auf dem Gebiet der Übersetzung, Synchronisation, Nachsynchronisation und Untertitelung unterstützen und ausbauen;
@@ -314,14 +327,18 @@ Die Vertragsparteien verpflichten sich, für die Sprecher von Regional- oder Min
 
 **Wirtschaftliches und soziales Leben**
 
-<sup>1.</sup> In Bezug auf wirtschaftliche und soziale Tätigkeiten verpflichten sich die Vertragsparteien, im ganzen Land
+<sup>1.</sup>
+
+In Bezug auf wirtschaftliche und soziale Tätigkeiten verpflichten sich die Vertragsparteien, im ganzen Land:
 
 - a) aus ihrem Recht jede Bestimmung zu entfernen, die den Gebrauch von Regional- oder Minderheitensprachen in Urkunden betreffend das wirtschaftliche oder soziale Leben, insbesondere Arbeitsverträgen, sowie in technischen Schriftstücken wie Gebrauchsanweisungen für Erzeugnisse oder Anlagen ungerechtfertigt verbietet oder einschränkt;
 - b) die Aufnahme von Klauseln, die den Gebrauch von Regional- oder Minderheitensprachen ausschliessen oder einschränken, in innerbetriebliche Vorschriften und Privaturkunden zumindest zwischen Personen, die dieselbe Sprache gebrauchen, zu verbieten;
 - c) Praktiken entgegenzutreten, die den Gebrauch von Regional- oder Minderheitensprachen im Zusammenhang mit wirtschaftlichen oder sozialen Tätigkeiten behindern sollen;
 - d) den Gebrauch von Regional- oder Minderheitensprachen durch andere als die unter den Buchstaben a–c genannten Mittel zu erleichtern und/oder dazu zu ermutigen.
 
-<sup>2.</sup> In Bezug auf wirtschaftliche und soziale Tätigkeiten verpflichten sich die Vertragsparteien, insoweit die staatlichen Stellen zuständig sind, in dem Gebiet, in dem die Regional- oder Minderheitensprachen gebraucht werden, im Rahmen des Zumutbaren
+<sup>2.</sup>
+
+In Bezug auf wirtschaftliche und soziale Tätigkeiten verpflichten sich die Vertragsparteien, insoweit die staatlichen Stellen zuständig sind, in dem Gebiet, in dem die Regional- oder Minderheitensprachen gebraucht werden, im Rahmen des Zumutbaren:
 
 - a) in ihre Finanz- und Bankvorschriften Bestimmungen aufzunehmen, die im Wege von Verfahren, welche mit den Handelsbräuchen vereinbar sind, den Gebrauch von Regional- oder Minderheitensprachen beim Ausstellen von Zahlungsanweisungen (Schecks, Wechseln usw.) oder sonstigen Finanzdokumenten ermöglichen, oder, wo dies in Betracht kommt, die Durchführung solcher Bestimmungen sicherzustellen;
 - b) in den ihrer unmittelbaren Kontrolle unterstehenden Wirtschafts- und Sozialbereichen (öffentlicher Sektor) Massnahmen zur Förderung des Gebrauchs von Regional- oder Minderheitensprachen zu ergreifen;
@@ -333,7 +350,7 @@ Die Vertragsparteien verpflichten sich, für die Sprecher von Regional- oder Min
 
 **Grenzüberschreitender Austausch**
 
-Die Vertragsparteien verpflichten sich,
+Die Vertragsparteien verpflichten sich:
 
 - a) bestehende zwei- und mehrseitige Übereinkünfte anzuwenden, die sie mit den Staaten verbinden, in denen dieselbe Sprache in derselben oder ähnlicher Form gebraucht wird, oder sich, wenn nötig, um den Abschluss solcher Übereinkünfte zu bemühen, um dadurch Kontakte zwischen den Sprechern derselben Sprache in den betreffenden Staaten in den Bereichen Kultur, Bildung, Information, berufliche Bildung und Weiterbildung zu fördern;
 - b) zugunsten von Regional- oder Minderheitensprachen die grenzüberschreitende Zusammenarbeit insbesondere zwischen regionalen oder örtlichen Behörden zu erleichtern und zu fördern, in deren örtlichem Zuständigkeitsbereich dieselbe Sprache in derselben oder ähnlicher Form gebraucht wird.
@@ -404,7 +421,7 @@ Diese Charta liegt für die Mitgliedstaaten des Europarats zur Unterzeichnung au
 
 #### Art. 23
 
-Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Rates und jedem Staat, der dieser Charta beigetreten ist.
+Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Rates und jedem Staat, der dieser Charta beigetreten ist:
 
 - a) jede Unterzeichnung;
 - b) jede Hinterlegung einer Ratifikations‑, Annahme‑, Genehmigungs- oder Beitrittsurkunde;
@@ -414,7 +431,7 @@ Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Rates un
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten diese Charta unterschrieben. Geschehen zu Strassburg am 5. November 1992 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarats hinterlegt wird. Der Generalsekretär des Europarats übermittelt allen Mitgliedstaaten des Europarats und allen zum Beitritt zu dieser Charta eingeladenen Staaten beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 14. August 2013**[^t-2]**
+Geltungsbereich am 26. September 2024[^t-2]
 
 <table>
 <tr><th colspan="2">Vertragsstaaten</th><th>Ratifikation Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -428,6 +445,7 @@ Geltungsbereich am 14. August 2013**[^t-2]**
 <tr><td colspan="2">Luxemburg</td><td>22. Juni</td><td>2005</td><td>1. Oktober</td><td>2005</td></tr>
 <tr><td colspan="2">Montenegro\*</td><td>6. Juni</td><td>2006 N</td><td>6. Juni</td><td>2006</td></tr>
 <tr><td colspan="2">Niederlande\* <sup>a</sup></td><td>2. Mai</td><td>1996</td><td>1. März</td><td>1998</td></tr>
+<tr><td colspan="2">Karibische Gebiete (Bonaire, Sint Eustatius und Saba)\*</td><td>22. Januar</td><td>2024</td><td>22. Januar</td><td>2024</td></tr>
 <tr><td colspan="2">Norwegen\*</td><td>10. November</td><td>1993</td><td>1. März</td><td>1998</td></tr>
 <tr><td colspan="2">Österreich\*</td><td>28. Juni</td><td>2001</td><td>1. Oktober</td><td>2001</td></tr>
 <tr><td colspan="2">Polen\*</td><td>12. Februar</td><td>2009</td><td>1. Juni</td><td>2009</td></tr>
@@ -445,12 +463,12 @@ Geltungsbereich am 14. August 2013**[^t-2]**
 <tr><td colspan="2">Insel Man\*</td><td>23. April</td><td>2003</td><td>23. April</td><td>2003</td></tr>
 <tr><td colspan="2">Zypern\*</td><td>26. August</td><td>2002</td><td>1. Dezember</td><td>2002</td></tr>
 <tr><td>\*</td><td colspan="5">Vorbehalte und Erklärungen.</td></tr>
-<tr><td></td><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarates: http://conventions.coe.int eingesehen oder bei der Direktion für Völker-recht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td></td><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarates: [http://conventions.coe.int](http://conventions.coe.int) eingesehen oder bei der Direktion für Völker-recht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td><sup>a</sup></td><td colspan="5">Für das Königreich in Europa.</td></tr>
 <tr><td><sup>b</sup></td><td colspan="5">Die Charta gilt für Grossbritannien und Nordirland.</td></tr>
 </table>
 
-[^t-2]: [AS 2003 2507](https://fedlex.data.admin.ch/eli/oc/2003/382), [2006 3565](https://fedlex.data.admin.ch/eli/oc/2006/552), [2010 2261](https://fedlex.data.admin.ch/eli/oc/2010/320)und [2013 2713](https://fedlex.data.admin.ch/eli/oc/2013/555). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2003 2507](https://fedlex.data.admin.ch/eli/oc/2003/382); [2006 3565](https://fedlex.data.admin.ch/eli/oc/2006/552); [2010 2261](https://fedlex.data.admin.ch/eli/oc/2010/320); [2013 2713](https://fedlex.data.admin.ch/eli/oc/2013/555); [2024 531](https://fedlex.data.admin.ch/eli/oc/2024/531). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)
 
 Vorbehalte und Erklärungen
 
