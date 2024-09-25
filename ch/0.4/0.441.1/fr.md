@@ -3,11 +3,11 @@ sr: "0.441.1"
 title: "Convention-cadre du 1<sup>er</sup> février 1995 pour la protection des minorités nationales"
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/360"
 language: fr
-version: 2006-09-12
+version: 2024-09-26
 adopted: 1995-02-01
 in_force: 1999-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/360/20060912/fr/xml/fedlex-data-admin-ch-eli-cc-2002-360-20060912-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/360/20060912/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/360/20240926/fr/xml/fedlex-data-admin-ch-eli-cc-2002-360-20240926-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/360/20240926/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,40 +26,40 @@ Instrument de ratification déposé par la Suisse le 21 octobre 1998
 
 Entrée en vigueur pour la Suisse le 1<sup>er</sup> février 1999
 
-(Etat le 31 octobre 2006)
+(État le 26 septembre 2024)
 
 [^t-1]: [RO 2002 2629](https://fedlex.data.admin.ch/eli/oc/2002/359)
 
-Les Etats membres du Conseil de l’Europe et les autres Etats, signataires de la présente Convention-cadre,
+Les États membres du Conseil de l’Europe et les autres États, signataires de la présente Convention-cadre,
 
-considérant que le but du Conseil de l’Europe est de réaliser une union plus étroite entre ses membres afin de sauvegarder et de promouvoir les idéaux et les principes qui sont leur patrimoine commun;
+considérant que le but du Conseil de l’Europe est de réaliser une union plus étroite entre ses membres afin de sauvegarder et de promouvoir les idéaux et les principes qui sont leur patrimoine commun,
 
-considérant que l’un des moyens d’atteindre ce but est la sauvegarde et le développement des droits de l’homme et des libertés fondamentales;
+considérant que l’un des moyens d’atteindre ce but est la sauvegarde et le développement des droits de l’homme et des libertés fondamentales,
 
-souhaitant donner suite à la Déclaration des chefs d’Etat et de gouvernement des Etats membres du Conseil de l’Europe adoptée à Vienne le 9 octobre 1993;
+souhaitant donner suite à la Déclaration des chefs d’État et de gouvernement des États membres du Conseil de l’Europe adoptée à Vienne le 9 octobre 1993,
 
-résolus à protéger l’existence des minorités nationales sur leur territoire respectif;
+résolus à protéger l’existence des minorités nationales sur leur territoire respectif,
 
-considérant que les bouleversements de l’histoire européenne ont montré que la protection des minorités nationales est essentielle à la stabilité, à la sécurité démocratique et à la paix du continent;
+considérant que les bouleversements de l’histoire européenne ont montré que la protection des minorités nationales est essentielle à la stabilité, à la sécurité démocratique et à la paix du continent,
 
-considérant qu’une société pluraliste et véritablement démocratique doit non seulement respecter l’identité ethnique, culturelle, linguistique et religieuse de toute personne appartenant à une minorité nationale, mais également créer des conditions propres à permettre d’exprimer, de préserver et de développer cette identité;
+considérant qu’une société pluraliste et véritablement démocratique doit non seulement respecter l’identité ethnique, culturelle, linguistique et religieuse de toute personne appartenant à une minorité nationale, mais également créer des conditions propres à permettre d’exprimer, de préserver et de développer cette identité,
 
-considérant que la création d’un climat de tolérance et de dialogue est nécessaire pour permettre à la diversité culturelle d’être une source, ainsi qu’un facteur, non de division, mais d’enrichissement pour chaque société;
+considérant que la création d’un climat de tolérance et de dialogue est nécessaire pour permettre à la diversité culturelle d’être une source, ainsi qu’un facteur, non de division, mais d’enrichissement pour chaque société,
 
-considérant que l’épanouissement d’une Europe tolérante et prospère ne dépend pas seulement de la coopération entre Etats mais se fonde aussi sur une coopération transfrontalière entre collectivités locales et régionales respectueuse de la constitution et de l’intégrité territoriale de chaque Etat;
+considérant que l’épanouissement d’une Europe tolérante et prospère ne dépend pas seulement de la coopération entre États mais se fonde aussi sur une coopération transfrontalière entre collectivités locales et régionales respectueuse de la constitution et de l’intégrité territoriale de chaque État,
 
-prenant en compte la Convention de sauvegarde des Droits de l’Homme et des Libertés fondamentales[^ingress-1] et ses Protocoles[^ingress-2];
+prenant en compte la Convention de sauvegarde des Droits de l’Homme et des Libertés fondamentales[^ingress-1] et ses Protocoles[^ingress-2],
 
-prenant en compte les engagements relatifs à la protection des minorités nationales contenus dans les conventions et déclarations des Nations Unies ainsi que dans les documents de la Conférence sur la sécurité et la coopération en Europe, notamment celui de Copenhague du 29 juin 1990;
+prenant en compte les engagements relatifs à la protection des minorités nationales contenus dans les conventions et déclarations des Nations Unies ainsi que dans les documents de la Conférence sur la sécurité et la coopération en Europe, notamment celui de Copenhague du 29 juin 1990,
 
-résolus à définir les principes qu’il convient de respecter et les obligations qui en découlent pour assurer, au sein des Etats membres et des autres Etats qui deviendront Parties au présent instrument, la protection effective des minorités nationales et des droits et libertés des personnes appartenant à ces dernières dans le respect de la prééminence du droit, de l’intégrité territoriale et de la souveraineté nationale;
+résolus à définir les principes qu’il convient de respecter et les obligations qui en découlent pour assurer, au sein des États membres et des autres États qui deviendront Parties au présent instrument, la protection effective des minorités nationales et des droits et libertés des personnes appartenant à ces dernières dans le respect de la prééminence du droit, de l’intégrité territoriale et de la souveraineté nationale,
 
 étant décidés à mettre en œuvre les principes énoncés dans la présente Convention-cadre au moyen de législations nationales et de politiques gouvernementales appropriées,
 
 sont convenus de ce qui suit:
 
-[^ingress-1]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^ingress-2]: [RS 0.101.06](https://fedlex.data.admin.ch/eli/cc/1987/1807_1807_1807),[0.101.07](https://fedlex.data.admin.ch/eli/cc/1988/1598_1598_1598),[0.101.09](https://fedlex.data.admin.ch/eli/cc/1998/2993_2993_2993)
+[^ingress-1]: [RS 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
+[^ingress-2]: [RS 0.101.06](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5),[0.101.07](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6),[0.101.09](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8)
 
 ## Titre I
 
@@ -69,7 +69,7 @@ La protection des minorités nationales et des droits et libertés des personnes
 
 #### Art. 2
 
-Les dispositions de la présente Convention-cadre seront appliquées de bonne foi, dans un esprit de compréhension et de tolérance ainsi que dans le respect des principes de bon voisinage, de relations amicales et de coopération entre les Etats.
+Les dispositions de la présente Convention-cadre seront appliquées de bonne foi, dans un esprit de compréhension et de tolérance ainsi que dans le respect des principes de bon voisinage, de relations amicales et de coopération entre les États.
 
 #### Art. 3
 
@@ -81,7 +81,7 @@ Les dispositions de la présente Convention-cadre seront appliquées de bonne fo
 
 #### Art. 4
 
-<sup>1</sup> Les Parties s’engagent à garantir à toute personne appartenant à une minorité nationale le droit à l’égalité devant la loi et à une égale protection de la loi. A cet égard, toute discrimination fondée sur l’appartenance à une minorité nationale est interdite.
+<sup>1</sup> Les Parties s’engagent à garantir à toute personne appartenant à une minorité nationale le droit à l’égalité devant la loi et à une égale protection de la loi. À cet égard, toute discrimination fondée sur l’appartenance à une minorité nationale est interdite.
 
 <sup>2</sup> Les Parties s’engagent à adopter, s’il y a lieu, des mesures adéquates en vue de promouvoir, dans tous les domaines de la vie économique, sociale, politique et culturelle, une égalité pleine et effective entre les personnes appartenant à une minorité nationale et celles appartenant à la majorité. Elles tiennent dûment compte, à cet égard, des conditions spécifiques des personnes appartenant à des minorités nationales.
 
@@ -131,7 +131,7 @@ Les Parties s’engagent à reconnaître à toute personne appartenant à une mi
 
 <sup>2</sup> Les Parties s’engagent à reconnaître à toute personne appartenant à une minorité nationale le droit de présenter dans sa langue minoritaire des enseignes, inscriptions et autres informations de caractère privé exposées à la vue du public.
 
-<sup>3</sup> Dans les régions traditionnellement habitées par un nombre substantiel de personnes appartenant à une minorité nationale, les Parties, dans le cadre de leur système législatif, y compris, le cas échéant, d’accords avec d’autres Etats, s’efforceront, en tenant compte de leurs conditions spécifiques, de présenter les dénominations traditionnelles locales, les noms de rues et autres indications topographiques destinées au public, dans la langue minoritaire également, lorsqu’il y a une demande suffisante pour de telles indications.
+<sup>3</sup> Dans les régions traditionnellement habitées par un nombre substantiel de personnes appartenant à une minorité nationale, les Parties, dans le cadre de leur système législatif, y compris, le cas échéant, d’accords avec d’autres États, s’efforceront, en tenant compte de leurs conditions spécifiques, de présenter les dénominations traditionnelles locales, les noms de rues et autres indications topographiques destinées au public, dans la langue minoritaire également, lorsqu’il y a une demande suffisante pour de telles indications.
 
 #### Art. 12
 
@@ -165,13 +165,13 @@ Les Parties s’abstiennent de prendre des mesures qui, en modifiant les proport
 
 #### Art. 17
 
-<sup>1</sup> Les Parties s’engagent à ne pas entraver le droit des personnes appartenant à des minorités nationales d’établir et de maintenir, librement et pacifiquement, des contacts au-delà des frontières avec des personnes se trouvant régulièrement dans d’autres Etats, notamment celles avec lesquelles elles ont en commun une identité ethnique, culturelle, linguistique ou religieuse, ou un patrimoine culturel.
+<sup>1</sup> Les Parties s’engagent à ne pas entraver le droit des personnes appartenant à des minorités nationales d’établir et de maintenir, librement et pacifiquement, des contacts au-delà des frontières avec des personnes se trouvant régulièrement dans d’autres États, notamment celles avec lesquelles elles ont en commun une identité ethnique, culturelle, linguistique ou religieuse, ou un patrimoine culturel.
 
 <sup>2</sup> Les Parties s’engagent à ne pas entraver le droit des personnes appartenant à des minorités nationales de participer aux travaux des organisations non gouvernementales tant au plan national qu’international.
 
 #### Art. 18
 
-<sup>1</sup> Les Parties s’efforceront de conclure, si nécessaire, des accords bilatéraux et multilatéraux avec d’autres Etats, notamment les Etats voisins, pour assurer la protection des personnes appartenant aux minorités nationales concernées.
+<sup>1</sup> Les Parties s’efforceront de conclure, si nécessaire, des accords bilatéraux et multilatéraux avec d’autres États, notamment les États voisins, pour assurer la protection des personnes appartenant aux minorités nationales concernées.
 
 <sup>2</sup> Le cas échéant, les Parties prendront des mesures propres à encourager la coopération transfrontalière.
 
@@ -187,7 +187,7 @@ Dans l’exercice des droits et des libertés découlant des principes énoncés
 
 #### Art. 21
 
-Aucune des dispositions de la présente Convention-cadre ne sera interprétée comme impliquant pour un individu un droit quelconque de se livrer à une activité ou d’accomplir un acte contraire aux principes fondamentaux du droit international et notamment à l’égalité souveraine, à l’intégrité territoriale et à l’indépendance politique des Etats.
+Aucune des dispositions de la présente Convention-cadre ne sera interprétée comme impliquant pour un individu un droit quelconque de se livrer à une activité ou d’accomplir un acte contraire aux principes fondamentaux du droit international et notamment à l’égalité souveraine, à l’intégrité territoriale et à l’indépendance politique des États.
 
 #### Art. 22
 
@@ -223,25 +223,25 @@ Les droits et libertés découlant des principes énoncés dans la présente Con
 
 #### Art. 27
 
-La présente Convention-cadre est ouverte à la signature des Etats membres du Conseil de l’Europe. Jusqu’à la date de son entrée en vigueur, elle est aussi ouverte à la signature de tout autre Etat invité à la signer par le Comité des Ministres. Elle sera soumise à ratification, acceptation ou approbation. Les instruments de ratification, d’acceptation ou d’approbation seront déposés près le Secrétaire Général du Conseil de l’Europe.
+La présente Convention-cadre est ouverte à la signature des États membres du Conseil de l’Europe. Jusqu’à la date de son entrée en vigueur, elle est aussi ouverte à la signature de tout autre État invité à la signer par le Comité des Ministres. Elle sera soumise à ratification, acceptation ou approbation. Les instruments de ratification, d’acceptation ou d’approbation seront déposés près le Secrétaire Général du Conseil de l’Europe.
 
 #### Art. 28
 
-<sup>1</sup> La présente Convention-cadre entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de trois mois après la date à laquelle douze Etats membres du Conseil de l’Europe auront exprimé leur consentement à être liés par la Convention-cadre conformément aux dispositions de l’art. 27.
+<sup>1</sup> La présente Convention-cadre entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de trois mois après la date à laquelle douze États membres du Conseil de l’Europe auront exprimé leur consentement à être liés par la Convention-cadre conformément aux dispositions de l’art. 27.
 
-<sup>2</sup> Pour tout Etat membre qui exprimera ultérieurement son consentement à être lié par la Convention-cadre, celle-ci entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de trois mois après la date du dépôt de l’instrument de ratification, d’acceptation ou d’approbation.
+<sup>2</sup> Pour tout État membre qui exprimera ultérieurement son consentement à être lié par la Convention-cadre, celle-ci entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de trois mois après la date du dépôt de l’instrument de ratification, d’acceptation ou d’approbation.
 
 #### Art. 29
 
-<sup>1</sup> Après l’entrée en vigueur de la présente Convention-cadre et après consultation des Etats contractants, le Comité des Ministres du Conseil de l’Europe pourra inviter à adhérer à la présente Convention-cadre, par une décision prise à la majorité prévue à l’art. 20, point d, du Statut du Conseil de l’Europe, tout Etat non membre du Conseil de l’Europe qui, invité à la signer conformément aux dispositions de l’art. 27, ne l’aura pas encore fait, et tout autre Etat non membre.
+<sup>1</sup> Après l’entrée en vigueur de la présente Convention-cadre et après consultation des États contractants, le Comité des Ministres du Conseil de l’Europe pourra inviter à adhérer à la présente Convention-cadre, par une décision prise à la majorité prévue à l’art. 20, point d, du Statut du Conseil de l’Europe, tout État non membre du Conseil de l’Europe qui, invité à la signer conformément aux dispositions de l’art. 27, ne l’aura pas encore fait, et tout autre État non membre.
 
-<sup>2</sup> Pour tout Etat adhérant, la Convention-cadre entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de trois mois après la date de dépôt de l’instrument d’adhésion près le Secrétaire Général du Conseil de l’Europe.
+<sup>2</sup> Pour tout État adhérant, la Convention-cadre entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de trois mois après la date de dépôt de l’instrument d’adhésion près le Secrétaire Général du Conseil de l’Europe.
 
 #### Art. 30
 
-<sup>1</sup> Tout Etat peut, au moment de la signature ou au moment du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, désigner le ou les territoires pour lesquels il assure les relations internationales auxquels s’appliquera la présente Convention-cadre.
+<sup>1</sup> Tout État peut, au moment de la signature ou au moment du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, désigner le ou les territoires pour lesquels il assure les relations internationales auxquels s’appliquera la présente Convention-cadre.
 
-<sup>2</sup> Tout Etat peut, à tout autre moment par la suite, par une déclaration adressée au Secrétaire Général du Conseil de l’Europe, étendre l’application de la présente Convention-cadre à tout autre territoire désigné dans la déclaration. La Convention-cadre entrera en vigueur à l’égard de ce territoire le premier jour du mois qui suit l’expiration d’une période de trois mois après la date de réception de la déclaration par le Secrétaire Général.
+<sup>2</sup> Tout État peut, à tout autre moment par la suite, par une déclaration adressée au Secrétaire Général du Conseil de l’Europe, étendre l’application de la présente Convention-cadre à tout autre territoire désigné dans la déclaration. La Convention-cadre entrera en vigueur à l’égard de ce territoire le premier jour du mois qui suit l’expiration d’une période de trois mois après la date de réception de la déclaration par le Secrétaire Général.
 
 <sup>3</sup> Toute déclaration faite en vertu des deux paragraphes précédents pourra être retirée, en ce qui concerne tout territoire désigné dans cette déclaration, par notification adressée au Secrétaire Général. Le retrait prendra effet le premier jour du mois qui suit l’expiration d’une période de trois mois après la date de réception de la notification par le Secrétaire Général.
 
@@ -253,19 +253,19 @@ La présente Convention-cadre est ouverte à la signature des Etats membres du C
 
 #### Art. 32
 
-Le Secrétaire Général du Conseil de l’Europe notifiera aux Etats membres du Conseil, aux autres Etats signataires et à tout Etat ayant adhéré à la présente Convention-cadre:
+Le Secrétaire Général du Conseil de l’Europe notifiera aux États membres du Conseil, aux autres États signataires et à tout État ayant adhéré à la présente Convention-cadre:
 
 - a. toute signature;
 - b. le dépôt de tout instrument de ratification, d’acceptation, d’approbation ou d’adhésion;
 - c. toute date d’entrée en vigueur de la présente Convention-cadre conformément à ses art. 28, 29 et 30;
 - d. tout autre acte, notification ou communication ayant trait à la présente Convention-cadre.
 
-*En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé la présente Convention-cadre. Fait à Strasbourg, le 1<sup>er</sup> février 1995, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des Etats membres du Conseil de l’Europe et à tout Etat invité à signer ou à adhérer à la présente Convention-cadre. (Suivent les signatures)
+*En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé la présente Convention-cadre. Fait à Strasbourg, le 1<sup>er</sup> février 1995, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des États membres du Conseil de l’Europe et à tout État invité à signer ou à adhérer à la présente Convention-cadre. (Suivent les signatures)
 
-Champ d'application le 12 septembre 2006**[^t-2]**
+Champ d’application le 26 septembre 2024[^t-2]
 
 <table>
-<tr><th>Etats parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Albanie</td><td>28 septembre</td><td>1999</td><td>1<sup>er</sup> janvier</td><td>2000</td></tr>
 <tr><td>Allemagne<sup>\*</sup></td><td>10 septembre</td><td>1997</td><td>1<sup>er</sup> février</td><td>1998</td></tr>
 <tr><td>Arménie</td><td>20 juillet</td><td>1998</td><td>1<sup>er</sup> novembre</td><td>1998</td></tr>
@@ -286,7 +286,7 @@ Champ d'application le 12 septembre 2006**[^t-2]**
 <tr><td>Lettonie<sup>\*</sup></td><td>6 juin</td><td>2005</td><td>1<sup>er</sup> octobre</td><td>2005</td></tr>
 <tr><td>Liechtenstein<sup>\*</sup></td><td>18 novembre</td><td>1997</td><td>1<sup>er</sup> mars</td><td>1998</td></tr>
 <tr><td>Lituanie</td><td>23 mars</td><td>2000</td><td>1<sup>er</sup> juillet</td><td>2000</td></tr>
-<tr><td>Macédoine<sup>\*</sup></td><td>10 avril</td><td>1997</td><td>1<sup>er</sup> février</td><td>1998</td></tr>
+<tr><td>Macédoine du Nord<sup>\*</sup></td><td>10 avril</td><td>1997</td><td>1<sup>er</sup> février</td><td>1998</td></tr>
 <tr><td>Malte<sup>\*</sup></td><td>10 février</td><td>1998</td><td>1<sup>er</sup> juin</td><td>1998</td></tr>
 <tr><td>Moldova</td><td>20 novembre</td><td>1996</td><td>1<sup>er</sup> février</td><td>1998</td></tr>
 <tr><td>Monténégro</td><td>11 mai</td><td>2001 A</td><td>6 juin</td><td>2006</td></tr>
@@ -296,7 +296,6 @@ Champ d'application le 12 septembre 2006**[^t-2]**
 <tr><td>République tchèque</td><td>18 décembre</td><td>1997</td><td>1<sup>er</sup> avril</td><td>1998</td></tr>
 <tr><td>Roumanie</td><td>11 mai</td><td>1995</td><td>1<sup>er</sup> février</td><td>1998</td></tr>
 <tr><td>Royaume-Uni</td><td>15 janvier</td><td>1998</td><td>1<sup>er</sup> mai</td><td>1998</td></tr>
-<tr><td>Russie<sup>\*</sup></td><td>21 août</td><td>1998</td><td>1<sup>er</sup> décembre</td><td>1998</td></tr>
 <tr><td>Saint-Marin</td><td>5 décembre</td><td>1996</td><td>1<sup>er</sup> février</td><td>1998</td></tr>
 <tr><td>Serbie</td><td>11 mai</td><td>2001 A</td><td>1<sup>er</sup> septembre</td><td>2001</td></tr>
 <tr><td>Slovaquie</td><td>14 septembre</td><td>1995</td><td>1<sup>er</sup> février</td><td>1998</td></tr>
@@ -304,11 +303,11 @@ Champ d'application le 12 septembre 2006**[^t-2]**
 <tr><td>Suède<sup>\*</sup></td><td>9 février</td><td>2000</td><td>1<sup>er</sup> juin</td><td>2000</td></tr>
 <tr><td>Suisse<sup>\*</sup></td><td>21 octobre</td><td>1998</td><td>1<sup>er</sup> février</td><td>1999</td></tr>
 <tr><td>Ukraine</td><td>26 janvier</td><td>1998</td><td>1<sup>er</sup> mai</td><td>1998</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet du Conseil de l’Europe: http://conventions.coe.int ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet du Conseil de l’Europe: [http://conventions.coe.int](http://conventions.coe.int) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-2]: Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.eda.admin.ch/eda/de/home/topics/intorg/euroc/coswtr/monito.html).
+[^t-2]: [RO 2002 2630](https://fedlex.data.admin.ch/eli/oc/2002/360); [2006 4249](https://fedlex.data.admin.ch/eli/oc/2006/643); [2024 530](https://fedlex.data.admin.ch/eli/oc/2024/530). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
 
 Réserves et déclarations
 

@@ -3,11 +3,11 @@ sr: "0.441.1"
 title: Convenzione-quadro del 1° febbraio 1995 per la protezione delle minoranze nazionali
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/360"
 language: it
-version: 2006-09-12
+version: 2024-09-26
 adopted: 1995-02-01
 in_force: 1999-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/360/20060912/it/xml/fedlex-data-admin-ch-eli-cc-2002-360-20060912-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/360/20060912/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/360/20240926/it/xml/fedlex-data-admin-ch-eli-cc-2002-360-20240926-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/360/20240926/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,20 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/360/20060912/it"
 
 RU **2002** 2630; FF **1998** 903
 
-Traduzione*[^t-1]*
+Traduzione
 
-Conclusa a Strasburgo il 1° febbraio 1995
+Conclusa a Strasburgo il 1° febbraio 1995 Approvata dall’Assemblea federale il 21 settembre 1998[^t-1] Ratificata dalla Svizzera con strumento depositato il 21 ottobre 1998 Entrata in vigore per la Svizzera il 1° febbraio 1999
 
-Approvata dall’Assemblea federale il 21 settembre 1998[^t-2]
+(Stato 26 settembre 2024)
 
-Ratificata dalla Svizzera con strumento depositato il 21 ottobre 1998
-
-Entrata in vigore per la Svizzera il 1° febbraio 1999
-
-(Stato 31 ottobre 2006)
-
-[^t-1]: Il testo originale francese è pubblicato sotto lo stesso numero nell’ ediz. franc. della presente Raccolta.
-[^t-2]: [RU 2002 2629](https://fedlex.data.admin.ch/eli/oc/2002/359)
+[^t-1]: [RU 2002 2629](https://fedlex.data.admin.ch/eli/oc/2002/359)
 
 Gli Stati membri del Consiglio d’Europa e gli altri Stati firmatari della presente Convenzione-quadro,
 
@@ -59,8 +52,8 @@ essendo decisi a realizzare i principi enunciati nella presente Convenzione-quad
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^ingress-2]: [RS 0.101.06](https://fedlex.data.admin.ch/eli/cc/1987/1807_1807_1807)**/.07/.09**
+[^ingress-1]: [RS 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
+[^ingress-2]: [RS 0.101.06](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5)**, [0.101.07](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6),** [0.101.09](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8)
 
 ## Titolo I
 
@@ -261,59 +254,54 @@ Il Segretario Generale del Consiglio d’Europa notificherà agli Stati membri d
 - c) ogni data di entrata in vigore della presente Convenzione-quadro conformemente ai suoi articoli 28, 29 e 30;
 - d) ogni altro atto, notifica o comunicazione concernente la presente Convenzione-quadro.
 
-*In fede di che,* i sottoscritti, debitamente autorizzati a questo effetto, hanno firmato la presente Convenzione-quadro. Fatto a Strasburgo, il 1<sup>o</sup> febbraio 1995, in francese ed in inglese, i due testi facenti egualmente fede, in un solo esemplare che sarà depositato negli archivi del Consiglio d’Europa. Il Segretario Generale del Consiglio d’Europa ne comunicherà copia certificata conforme a ciascuno degli Stati membri del Consiglio d’Europa e ad ogni Stato invitato a firmare o ad aderire alla presente Convenzione-quadro.
+*In fede di che,* i sottoscritti, debitamente autorizzati a questo effetto, hanno firmato la presente Convenzione-quadro. Fatto a Strasburgo, il 1<sup>o</sup> febbraio 1995, in francese ed in inglese, i due testi facenti egualmente fede, in un solo esemplare che sarà depositato negli archivi del Consiglio d’Europa. Il Segretario Generale del Consiglio d’Europa ne comunicherà copia certificata conforme a ciascuno degli Stati membri del Consiglio d’Europa e ad ogni Stato invitato a firmare o ad aderire alla presente Convenzione-quadro. (Seguono le firme)
 
-(Seguono le firme)
-
-## Campo d'applicazione il 12 settembre 2006****
-
-[^annexu1-lvlu2-1]
-
-[^annexu1-lvlu2-1]: Una versione aggiornata del campo d’applicazione è pubblicata sul sito internet del DFAE (ttp://www.eda.admin.ch/eda/de/home/topics/intorg/euroc/coswtr/monito.html).
+Campo d’applicazione il 26 settembre 2024[^t-2]
 
 <table>
-<tr><th colspan="2">Stati partecipanti</th><th colspan="2">Ratifica Adesione (A)</th><th></th><th colspan="2">Entrata in vigore</th><th></th></tr>
-<tr><td colspan="2">Albania</td><td colspan="2">28 settembre</td><td>1999</td><td colspan="2">1° gennaio</td><td>2000</td></tr>
-<tr><td colspan="2">Armenia</td><td colspan="2">20 luglio</td><td>1998</td><td colspan="2">1° novembre</td><td>1998</td></tr>
-<tr><td colspan="2">Austria<sup>\*</sup></td><td colspan="2">31 marzo</td><td>1998</td><td colspan="2">1° luglio</td><td>1998</td></tr>
-<tr><td colspan="2">Azerbaigian<sup>\*</sup></td><td colspan="2">26 giugno</td><td>2000 A</td><td colspan="2">1° ottobre</td><td>2000</td></tr>
-<tr><td colspan="2">Bosnia e Erzegovina</td><td colspan="2">24 febbraio</td><td>2000 A</td><td colspan="2">1° giugno</td><td>2000</td></tr>
-<tr><td colspan="2">Bulgaria<sup>\*</sup></td><td colspan="2">7 maggio</td><td>1999</td><td colspan="2">1° settembre</td><td>1999</td></tr>
-<tr><td colspan="2">Cipro</td><td colspan="2">4 giugno</td><td>1996</td><td colspan="2">1° febbraio</td><td>1998</td></tr>
-<tr><td colspan="2">Croazia</td><td colspan="2">11 ottobre</td><td>1997</td><td colspan="2">1° febbraio</td><td>1998</td></tr>
-<tr><td colspan="2">Danimarca<sup>\*</sup></td><td colspan="2">22 settembre</td><td>1997</td><td colspan="2">1° febbraio</td><td>1998</td></tr>
-<tr><td colspan="2">Estonia<sup>\*</sup></td><td colspan="2">6 gennaio</td><td>1997</td><td colspan="2">1° febbraio</td><td>1998</td></tr>
-<tr><td colspan="2">Finlandia</td><td colspan="2">3 ottobre</td><td>1997</td><td colspan="2">1° febbraio</td><td>1998</td></tr>
-<tr><td colspan="2">Georgia</td><td colspan="2">22 dicembre</td><td>2005</td><td colspan="2">1° aprile</td><td>2006</td></tr>
-<tr><td colspan="2">Germania<sup>\*</sup></td><td colspan="2">10 settembre</td><td>1997</td><td colspan="2">1° febbraio</td><td>1998</td></tr>
-<tr><td colspan="2">Irlanda</td><td colspan="2">7 maggio</td><td>1999</td><td colspan="2">1° settembre</td><td>1999</td></tr>
-<tr><td colspan="2">Italia</td><td colspan="2">3 novembre</td><td>1997</td><td colspan="2">1° marzo</td><td>1998</td></tr>
-<tr><td colspan="2">Lettonia<sup>\*</sup></td><td colspan="2">6 giugno</td><td>2005</td><td colspan="2">1° ottobre</td><td>2005</td></tr>
-<tr><td colspan="2">Liechtenstein<sup>\*</sup></td><td colspan="2">18 novembre</td><td>1997</td><td colspan="2">1° marzo</td><td>1998</td></tr>
-<tr><td colspan="2">Lituania</td><td colspan="2">23 marzo</td><td>2000</td><td colspan="2">1° luglio</td><td>2000</td></tr>
-<tr><td colspan="2">Macedonia<sup>\*</sup></td><td colspan="2">10 aprile</td><td>1997</td><td colspan="2">1° febbraio</td><td>1998</td></tr>
-<tr><td colspan="2">Malta<sup>\*</sup></td><td colspan="2">10 febbraio</td><td>1998</td><td colspan="2">1° giugno</td><td>1998</td></tr>
-<tr><td colspan="2">Moldova</td><td colspan="2">20 novembre</td><td>1996</td><td colspan="2">1° febbraio</td><td>1998</td></tr>
-<tr><td colspan="2">Montenegro</td><td colspan="2">11 maggio</td><td>2001 A</td><td colspan="2">6 giugno</td><td>2006</td></tr>
-<tr><td colspan="2">Norvegia</td><td colspan="2">17 marzo</td><td>1999</td><td colspan="2">1° luglio</td><td>1999</td></tr>
-<tr><td colspan="2">Paesi Bassi<sup>\*</sup> <sup>a</sup></td><td colspan="2">16 febbraio</td><td>2005</td><td colspan="2">1° giugno</td><td>2005</td></tr>
-<tr><td colspan="2">Polonia<sup>\*</sup></td><td colspan="2">20 dicembre</td><td>2000</td><td colspan="2">1° aprile</td><td>2001</td></tr>
-<tr><td colspan="2">Regno Unito</td><td colspan="2">15 gennaio</td><td>1998</td><td colspan="2">1° maggio</td><td>1998</td></tr>
-<tr><td colspan="2">Repubblica Ceca</td><td colspan="2">18 dicembre</td><td>1997</td><td colspan="2">1° aprile</td><td>1998</td></tr>
-<tr><td colspan="2">Romania</td><td colspan="2">11 maggio</td><td>1995</td><td colspan="2">1° febbraio</td><td>1998</td></tr>
-<tr><td colspan="2">Russia<sup>\*</sup></td><td colspan="2">21 agosto</td><td>1998</td><td colspan="2">1° dicembre</td><td>1998</td></tr>
-<tr><td colspan="2">San Marino</td><td colspan="2">5 dicembre</td><td>1996</td><td colspan="2">1° febbraio</td><td>1998</td></tr>
-<tr><td colspan="2">Serbia</td><td colspan="2">11 maggio</td><td>2001 A</td><td colspan="2">1° settembre</td><td>2001</td></tr>
-<tr><td colspan="2">Slovacchia</td><td colspan="2">14 settembre</td><td>1995</td><td colspan="2">1° febbraio</td><td>1998</td></tr>
-<tr><td colspan="2">Slovenia<sup>\*</sup></td><td colspan="2">25 marzo</td><td>1998</td><td colspan="2">1° luglio</td><td>1998</td></tr>
-<tr><td colspan="2">Spagna</td><td colspan="2">1° settembre</td><td>1995</td><td colspan="2">1° febbraio</td><td>1998</td></tr>
-<tr><td colspan="2">Svezia<sup>\*</sup></td><td colspan="2">9 febbraio</td><td>2000</td><td colspan="2">1° giugno</td><td>2000</td></tr>
-<tr><td colspan="2">Svizzera<sup>\*</sup></td><td colspan="2">21 ottobre</td><td>1998</td><td colspan="2">1° febbraio</td><td>1999</td></tr>
-<tr><td colspan="2">Ucraina</td><td colspan="2">26 gennaio</td><td>1998</td><td colspan="2">1° maggio</td><td>1998</td></tr>
-<tr><td colspan="2">Ungheria</td><td colspan="2">25 settembre</td><td>1995</td><td colspan="2">1° febbraio</td><td>1998</td></tr>
-<tr><td>[tab] \*</td><td colspan="7">[tab] Riserve e dichiarazioni. Le riserve e le dichiarazioni, ad eccezione di quelle della Svizzera, non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito internet del Consiglio d’Europa: http://conventions.coe.int oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td>[tab] <sup>a</sup></td><td colspan="7">[tab] Per il Regno in Europa.</td></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th colspan="3"></th><th>Entrata in vigore</th><th colspan="2"></th></tr>
+<tr><td>Albania</td><td colspan="2">28 settembre</td><td>1999</td><td colspan="2">1° gennaio</td><td colspan="2">2000</td></tr>
+<tr><td>Armenia</td><td colspan="2">20 luglio</td><td>1998</td><td colspan="2">1° novembre</td><td colspan="2">1998</td></tr>
+<tr><td>Austria<sup>\*</sup></td><td colspan="2">31 marzo</td><td>1998</td><td colspan="2">1° luglio</td><td colspan="2">1998</td></tr>
+<tr><td>Azerbaigian<sup>\*</sup></td><td colspan="2">26 giugno</td><td>2000 A</td><td colspan="2">1° ottobre</td><td colspan="2">2000</td></tr>
+<tr><td>Bosnia e Erzegovina</td><td colspan="2">24 febbraio</td><td>2000 A</td><td colspan="2">1° giugno</td><td colspan="2">2000</td></tr>
+<tr><td>Bulgaria<sup>\*</sup></td><td colspan="2">7 maggio</td><td>1999</td><td colspan="2">1° settembre</td><td colspan="2">1999</td></tr>
+<tr><td>Cipro</td><td colspan="2">4 giugno</td><td>1996</td><td colspan="2">1° febbraio</td><td colspan="2">1998</td></tr>
+<tr><td>Croazia</td><td colspan="2">11 ottobre</td><td>1997</td><td colspan="2">1° febbraio</td><td colspan="2">1998</td></tr>
+<tr><td>Danimarca<sup>\*</sup></td><td colspan="2">22 settembre</td><td>1997</td><td colspan="2">1° febbraio</td><td colspan="2">1998</td></tr>
+<tr><td>Estonia<sup>\*</sup></td><td colspan="2">6 gennaio</td><td>1997</td><td colspan="2">1° febbraio</td><td colspan="2">1998</td></tr>
+<tr><td>Finlandia</td><td colspan="2">3 ottobre</td><td>1997</td><td colspan="2">1° febbraio</td><td colspan="2">1998</td></tr>
+<tr><td>Georgia</td><td colspan="2">22 dicembre</td><td>2005</td><td colspan="2">1° aprile</td><td colspan="2">2006</td></tr>
+<tr><td>Germania<sup>\*</sup></td><td colspan="2">10 settembre</td><td>1997</td><td colspan="2">1° febbraio</td><td colspan="2">1998</td></tr>
+<tr><td>Irlanda</td><td colspan="2">7 maggio</td><td>1999</td><td colspan="2">1° settembre</td><td colspan="2">1999</td></tr>
+<tr><td>Italia</td><td colspan="2">3 novembre</td><td>1997</td><td colspan="2">1° marzo</td><td colspan="2">1998</td></tr>
+<tr><td>Lettonia<sup>\*</sup></td><td colspan="2">6 giugno</td><td>2005</td><td colspan="2">1° ottobre</td><td colspan="2">2005</td></tr>
+<tr><td>Liechtenstein<sup>\*</sup></td><td colspan="2">18 novembre</td><td>1997</td><td colspan="2">1° marzo</td><td colspan="2">1998</td></tr>
+<tr><td>Lituania</td><td colspan="2">23 marzo</td><td>2000</td><td colspan="2">1° luglio</td><td colspan="2">2000</td></tr>
+<tr><td>Macedonia del Nord<sup>\*</sup></td><td colspan="2">10 aprile</td><td>1997</td><td colspan="2">1° febbraio</td><td colspan="2">1998</td></tr>
+<tr><td>Malta<sup>\*</sup></td><td colspan="2">10 febbraio</td><td>1998</td><td colspan="2">1° giugno</td><td colspan="2">1998</td></tr>
+<tr><td>Moldova</td><td colspan="2">20 novembre</td><td>1996</td><td colspan="2">1° febbraio</td><td colspan="2">1998</td></tr>
+<tr><td>Montenegro</td><td colspan="2">11 maggio</td><td>2001 A</td><td colspan="2">6 giugno</td><td colspan="2">2006</td></tr>
+<tr><td>Norvegia</td><td colspan="2">17 marzo</td><td>1999</td><td colspan="2">1° luglio</td><td colspan="2">1999</td></tr>
+<tr><td>Paesi Bassi<sup>\*</sup> <sup>a</sup></td><td colspan="2">16 febbraio</td><td>2005</td><td colspan="2">1° giugno</td><td colspan="2">2005</td></tr>
+<tr><td>Polonia<sup>\*</sup></td><td colspan="2">20 dicembre</td><td>2000</td><td colspan="2">1° aprile</td><td colspan="2">2001</td></tr>
+<tr><td>Regno Unito</td><td colspan="2">15 gennaio</td><td>1998</td><td colspan="2">1° maggio</td><td colspan="2">1998</td></tr>
+<tr><td>Repubblica Ceca</td><td colspan="2">18 dicembre</td><td>1997</td><td colspan="2">1° aprile</td><td colspan="2">1998</td></tr>
+<tr><td>Romania</td><td colspan="2">11 maggio</td><td>1995</td><td colspan="2">1° febbraio</td><td colspan="2">1998</td></tr>
+<tr><td>San Marino</td><td colspan="2">5 dicembre</td><td>1996</td><td colspan="2">1° febbraio</td><td colspan="2">1998</td></tr>
+<tr><td>Serbia</td><td colspan="2">11 maggio</td><td>2001 A</td><td colspan="2">1° settembre</td><td colspan="2">2001</td></tr>
+<tr><td>Slovacchia</td><td colspan="2">14 settembre</td><td>1995</td><td colspan="2">1° febbraio</td><td colspan="2">1998</td></tr>
+<tr><td>Slovenia<sup>\*</sup></td><td colspan="2">25 marzo</td><td>1998</td><td colspan="2">1° luglio</td><td colspan="2">1998</td></tr>
+<tr><td>Spagna</td><td colspan="2">1° settembre</td><td>1995</td><td colspan="2">1° febbraio</td><td colspan="2">1998</td></tr>
+<tr><td>Svezia<sup>\*</sup></td><td colspan="2">9 febbraio</td><td>2000</td><td colspan="2">1° giugno</td><td colspan="2">2000</td></tr>
+<tr><td>Svizzera<sup>\*</sup></td><td colspan="2">21 ottobre</td><td>1998</td><td colspan="2">1° febbraio</td><td colspan="2">1999</td></tr>
+<tr><td>Ucraina</td><td colspan="2">26 gennaio</td><td>1998</td><td colspan="2">1° maggio</td><td colspan="2">1998</td></tr>
+<tr><td>Ungheria</td><td colspan="2">25 settembre</td><td>1995</td><td colspan="2">1° febbraio</td><td colspan="2">1998</td></tr>
+<tr><td colspan="7">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni, ad eccezione di quelle della Svizzera, non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito internet del Consiglio d’Europa: http://conventions.coe.int oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="7"><sup>a</sup> Al Regno in Europa.</td></tr>
 </table>
+
+[^t-2]: [RU 2002 2630](https://fedlex.data.admin.ch/eli/oc/2002/360); [2006 4249](https://fedlex.data.admin.ch/eli/oc/2006/643); [2024 530](https://fedlex.data.admin.ch/eli/oc/2024/530). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Dichiarazioni
 

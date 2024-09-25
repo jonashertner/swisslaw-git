@@ -3,11 +3,11 @@ sr: "0.441.1"
 title: Rahmenübereinkommen vom 1. Februar 1995 zum Schutz nationaler Minderheiten
 eli: "https://fedlex.data.admin.ch/eli/cc/2002/360"
 language: de
-version: 2006-09-12
+version: 2024-09-26
 adopted: 1995-02-01
 in_force: 1999-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/360/20060912/de/xml/fedlex-data-admin-ch-eli-cc-2002-360-20060912-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2002/360/20060912/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2002/360/20240926/de/xml/fedlex-data-admin-ch-eli-cc-2002-360-20240926-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2002/360/20240926/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2002/360/20060912/de"
 
 AS **2002** 2630; BBl **1998** 1293
 
-Übersetzung*[^t-1]*
+Übersetzung[^t-1]
 
 Abgeschlossen in Strassburg am 1. Februar 1995
 
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 21. Oktober 1998
 
 In Kraft getreten für die Schweiz am 1. Februar 1999
 
-(Stand am 31. Oktober 2006)
+(Stand am 26. September 2024)
 
 [^t-1]: Der französische Originaltext findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
 [^t-2]: [AS 2002 2629](https://fedlex.data.admin.ch/eli/oc/2002/359)
@@ -59,8 +59,8 @@ gewillt, die in diesem Rahmenübereinkommen niedergelegten Grundsätze mittels i
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.101](https://fedlex.data.admin.ch/eli/cc/1974/2151_2151_2151)
-[^ingress-2]: [SR 0.101.06](https://fedlex.data.admin.ch/eli/cc/1987/1807_1807_1807)**/.07/.09**
+[^ingress-1]: [SR 0.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3)
+[^ingress-2]: [SR 0.101.06](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5), [0.101.07](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6), [0.101.09](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8)
 
 ## Abschnitt I
 
@@ -254,22 +254,16 @@ Dieses Rahmenübereinkommen liegt für die Mitgliedstaaten des Europarats zur Un
 
 #### Art. 32
 
-Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Rates, anderen Unterzeichnerstaaten und jedem Staat, der diesem Rahmenübereinkommen beigetreten ist,
+Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Rates, anderen Unterzeichnerstaaten und jedem Staat, der diesem Rahmenübereinkommen beigetreten ist:
 
 - a) jede Unterzeichnung;
 - b) jede Hinterlegung einer Ratifikations‑, Annahme‑, Genehmigungs- oder Beitrittsurkunde;
 - c) jeden Zeitpunkt des Inkrafttretens dieses Rahmenübereinkommens nach den Artikeln 28, 29 und 30;
 - d) jede andere Handlung, Notifikation oder Mitteilung im Zusammenhang mit diesem Rahmenübereinkommen.
 
-*Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Rahmenübereinkommen unterschrieben. Geschehen zu Strassburg am 1. Februar 1995 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarats hinterlegt wird. Der Generalsekretär des Europarats übermittelt allen Mitgliedstaaten des Europarats und allen zur Unterzeichnung dieses Rahmenübereinkommens oder zum Beitritt dazu eingeladenen Staaten beglaubigte Abschriften.
+*Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Rahmenübereinkommen unterschrieben. Geschehen zu Strassburg am 1. Februar 1995 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarats hinterlegt wird. Der Generalsekretär des Europarats übermittelt allen Mitgliedstaaten des Europarats und allen zur Unterzeichnung dieses Rahmenübereinkommens oder zum Beitritt dazu eingeladenen Staaten beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-(Es folgen die Unterschriften)
-
-## Geltungsbereich am 12. September 2006****
-
-[^annexu1-lvlu2-1]
-
-[^annexu1-lvlu2-1]: Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (ttp://www.eda.admin.ch/eda/de/home/topics/intorg/euroc/coswtr/monito.html).
+Geltungsbereich am 26. September 2024[^t-3]
 
 <table>
 <tr><th colspan="2">Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -290,15 +284,14 @@ Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Rates, a
 <tr><td colspan="2">Liechtenstein\*</td><td>18. November</td><td>1997</td><td>1. März</td><td>1998</td></tr>
 <tr><td colspan="2">Litauen</td><td>23. März</td><td>2000</td><td>1. Juli</td><td>2000</td></tr>
 <tr><td colspan="2">Malta\*</td><td>10. Februar</td><td>1998</td><td>1. Juni</td><td>1998</td></tr>
-<tr><td colspan="2">Mazedonien\*</td><td>10. April</td><td>1997</td><td>1. Februar</td><td>1998</td></tr>
-<tr><td colspan="2">Moldova</td><td>20. November</td><td>1996</td><td>1. Februar</td><td>1998</td></tr>
+<tr><td colspan="2">Moldau</td><td>20. November</td><td>1996</td><td>1. Februar</td><td>1998</td></tr>
 <tr><td colspan="2">Montenegro</td><td>11. Mai</td><td>2001 B</td><td>6. Juni</td><td>2006</td></tr>
 <tr><td colspan="2">Niederlande\* <sup>a</sup></td><td>16. Februar</td><td>2005</td><td>1. Juni</td><td>2005</td></tr>
+<tr><td colspan="2">Nordmazedonien\*</td><td>10. April</td><td>1997</td><td>1. Februar</td><td>1998</td></tr>
 <tr><td colspan="2">Norwegen</td><td>17. März</td><td>1999</td><td>1. Juli</td><td>1999</td></tr>
 <tr><td colspan="2">Österreich\*</td><td>31. März</td><td>1998</td><td>1. Juli</td><td>1998</td></tr>
 <tr><td colspan="2">Polen\*</td><td>20. Dezember</td><td>2000</td><td>1. April</td><td>2001</td></tr>
 <tr><td colspan="2">Rumänien</td><td>11. Mai</td><td>1995</td><td>1. Februar</td><td>1998</td></tr>
-<tr><td colspan="2">Russland\*</td><td>21. August</td><td>1998</td><td>1. Dezember</td><td>1998</td></tr>
 <tr><td colspan="2">San Marino</td><td>5. Dezember</td><td>1996</td><td>1. Februar</td><td>1998</td></tr>
 <tr><td colspan="2">Schweden\*</td><td>9. Februar</td><td>2000</td><td>1. Juni</td><td>2000</td></tr>
 <tr><td colspan="2">Schweiz\*</td><td>21. Oktober</td><td>1998</td><td>1. Februar</td><td>1999</td></tr>
@@ -311,11 +304,13 @@ Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Rates, a
 <tr><td colspan="2">Ungarn</td><td>25. September</td><td>1995</td><td>1. Februar</td><td>1998</td></tr>
 <tr><td colspan="2">Vereinigtes Königreich</td><td>15. Januar</td><td>1998</td><td>1. Mai</td><td>1998</td></tr>
 <tr><td colspan="2">Zypern</td><td>4. Juni</td><td>1996</td><td>1. Februar</td><td>1998</td></tr>
-<tr><td><sup>\*</sup></td><td colspan="5">Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internet-Seite des Europarates: http://conventions.coe.int eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td><sup>\*</sup></td><td colspan="5">Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internet-Seite des Europarates: [http://conventions.coe.int](http://conventions.coe.int) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td><sup>a</sup></td><td colspan="5">Für das Königreich in Europa.</td></tr>
 </table>
 
 ## Erklärung
+
+[^t-3]: [AS 2002 2630](https://fedlex.data.admin.ch/eli/oc/2002/360); [2006 4249](https://fedlex.data.admin.ch/eli/oc/2006/643); [2024 530](https://fedlex.data.admin.ch/eli/oc/2024/530). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty)
 
 Schweiz
 
