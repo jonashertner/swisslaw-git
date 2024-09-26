@@ -4,20 +4,22 @@ number: "111.1"
 title: Verfassung des Kantons Zug
 short: "Kantonsverfassung, KV"
 language: de
-version: 2018-06-23
-valid_until: 2024-09-26
-version_adopted: 2018-03-29
+version: 2024-09-27
+valid_until: 2025-12-31
+version_adopted: 2023-11-30
 adopted: 1894-01-31
 in_force: 1894-07-28
 url: "https://bgs.zg.ch/app/de/texts_of_law/111.1"
-pdf: "https://bgs.zg.ch/api/de/versions/1827/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2638/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verfassung des Kantons Zug
 
-Vom 31. Januar 1894 (Stand 23. Juni 2018)
+(Kantonsverfassung, KV)
+
+Vom 31. Januar 1894 (Stand 27. September 2024)
 
 ## 1. Allgemeine Grundsätze
 
@@ -216,6 +218,16 @@ Vom 31. Januar 1894 (Stand 23. Juni 2018)
 #### § 29
 
 <sup>1</sup> Das Gesetz regelt die Einrichtung der Stimmregister und das Verfahren bei den Wahlen und Abstimmungen.
+
+#### § 29a
+
+<sup>1</sup> Die Transparenz in der Politik wird gewährleistet, indem
+
+- a) die im Kantonsrat vertretenen politischen Parteien ihre Finanzierung offenlegen;
+- b) die Finanzierung von bedeutenden Kampagnen im Hinblick auf kantonale Wahlen und Abstimmungen offengelegt werden;
+- c) die vom Volk in öffentliche kantonale Ämter gewählten Personen ihre Interessenbindungen offenlegen.
+
+<sup>2</sup> Das Gesetz regelt die Einzelheiten.
 
 ## 3. Öffentliche Gewalten
 
