@@ -5,22 +5,22 @@ title: Gesetz über Pärke von nationaler Bedeutung im Kanton Schaffhausen
 short: Kantonales Parkgesetz
 language: de
 version: 2020-01-01
+corrected: 2024-09-27
 version_adopted: 2019-05-20
 adopted: 2019-05-20
 in_force: 2020-01-01
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/900.400"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/1885/pdf_file"
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/421/pdf_file"
+text: pdf
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Gesetz über Pärke von nationaler Bedeutung im Kanton Schaffhausen
+# Gesetz über Pärke von nationaler Bedeutung im Kanton Schaffhausen (Kantonales Parkgesetz)
 
-(Kantonales Parkgesetz)
+vom 20. Mai 2019
 
-Vom 20.05.2019 (Stand 01.01.2020)
-
-Der Kantonsrat Schaffhausen,
+Der Kantonsrat Schaffhausen
 
 beschliesst:
 
@@ -46,27 +46,31 @@ beschliesst:
 
 **Aufgaben des Kantons**
 
-<sup>1</sup> Der Kanton unterstützt die Gemeinden bei der Errichtung und dem Betrieb von Pärken, indem er:
+Der Kanton unterstützt die Gemeinden bei der Errichtung und dem Betrieb von Pärken, indem er:
 
-- a) Pärke bei seinen Planungen und raumwirksamen Tätigkeiten berücksichtigt
-- b) sich an der Finanzierung von Pärken beteiligt
-- c) die internationale und interkantonale Zusammenarbeit sowie die Zusammenarbeit mit dem Bund und zwischen den betroffenen kantonalen Fachstellen im Bereich der Pärke koordiniert
+- a) Pärke bei seinen Planungen und raumwirksamen Tätigkeiten berücksichtigt;
+
+Amtsblatt 2019, S. 861, S. 2112.
+
+- b) sich an der Finanzierung von Pärken beteiligt;
+
+- c) die internationale und interkantonale Zusammenarbeit sowie die Zusammenarbeit mit dem Bund und zwischen den betroffenen kantonalen Fachstellen im Bereich der Pärke koordiniert.
 
 #### Art. 4
 
 **Zuständigkeit**
 
-<sup>1</sup> Der Regierungsrat:
+<sup>1</sup> Der Regierungsrat a) prüft Gesuche der Parkträgerschaften zuhanden des Bundes und reicht sie beim Bund ein;
 
-- a) prüft Gesuche der Parkträgerschaften zuhanden des Bundes und reicht sie beim Bund ein
-- b) genehmigt die Programmvereinbarungen über die Ausrichtung von Beiträgen des Bundes an die Parkträgerschaften
-- c) schliesst die Leistungsvereinbarungen mit den Parkträgerschaften ab
+- b) genehmigt die Programmvereinbarungen über die Ausrichtung von Beiträgen des Bundes an die Parkträgerschaften;
 
-<sup>2</sup> Das zuständige Departement:
+- c) schliesst die Leistungsvereinbarungen mit den Parkträgerschaften ab.
 
-- a) richtet Beiträge des Bundes und des Kantons an die betreffenden Parkträgerschaften aus und stellt deren zweckgebundene Verwendung sicher
-- b) nimmt die Berichterstattung gegenüber dem Bund wahr
-- c) bezieht die Parkträgerschaften in geeigneter Weise in die Verhandlungen zwischen dem Kanton und dem Bund ein
+<sup>2</sup> Das zuständige Departement a) richtet Beiträge des Bundes und des Kantons an die betreffenden Parkträgerschaften aus und stellt deren zweckgebundene Verwendung sicher;
+
+- b) nimmt die Berichterstattung gegenüber dem Bund wahr;
+
+- c) bezieht die Parkträgerschaften in geeigneter Weise in die Verhandlungen zwischen dem Kanton und dem Bund ein.
 
 #### Art. 5
 
@@ -94,11 +98,15 @@ beschliesst:
 
 <sup>2</sup> Die Leistungsvereinbarung regelt insbesondere:
 
-- a) die von der Parkträgerschaft zu erbringenden Leistungen und die damit angestrebten Wirkungen
-- b) die Modalitäten der Auszahlung der Beiträge des Bundes und des Kantons
-- c) die Zusammenarbeit der Parkträgerschaft mit den mit Belangen des Parks befassten kantonalen Fachstellen
-- d) die Berichterstattung durch die Parkträgerschaft
-- e) die Folgen bei Nichterfüllung der vereinbarten Leistungen
+- a) die von der Parkträgerschaft zu erbringenden Leistungen und die damit angestrebten Wirkungen;
+
+- b) die Modalitäten der Auszahlung der Beiträge des Bundes und des Kantons;
+
+- c) die Zusammenarbeit der Parkträgerschaft mit den mit Belangen des Parks befassten kantonalen Fachstellen;
+
+- d) die Berichterstattung durch die Parkträgerschaft;
+
+- e) die Folgen bei Nichterfüllung der vereinbarten Leistungen.
 
 #### Art. 8
 
@@ -110,7 +118,7 @@ beschliesst:
 
 <sup>3</sup> Es ist im Amtsblatt zu veröffentlichen[^8-2] und in die kantonale Gesetzessammlung aufzunehmen.
 
+Fussnoten:
+
 [^8-1]: In Kraft getreten am 1. Januar 2020 (Amtsblatt 2019, S. 2112).
 [^8-2]: Amtsblatt 2019, S. 861.
-
-Abl. 2019, S. 861, S. 2112
