@@ -3,20 +3,19 @@ canton: BL
 number: "790.544"
 title: "Verordnung über das Naturschutzgebiet «Röserental», Liestal"
 language: de
-version: 2021-12-18
-valid_until: 2024-09-27
-version_adopted: 2021-11-30
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2021-11-30
 in_force: 2021-12-18
 url: "https://bl.clex.ch/app/de/texts_of_law/790.544"
-pdf: "https://bl.clex.ch/api/de/versions/3216/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4341/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Röserental», Liestal
 
-Vom 30.11.2021 (Stand 18.12.2021)
+Vom 30.11.2021 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -61,7 +60,7 @@ beschliesst:
 - d. das Durchführen von nicht bewilligten Veranstaltungen mit mehr als 50 Personen;
 - e das Durchführen von Veranstaltungen jeglicher Art abseits der erlaubten Wege;
 - f. das Verlassen der Wege in der Totalwaldreservatsfläche;
-- g. das Befliegen mit Modellflugzeugen oder Drohnen;
+- g. das Landen mit Helikoptern (ausser in Notfallsituationen) sowie das Befliegen mit Modellflugzeugen oder Drohnen;
 - h. das Campieren, Lagern in Gruppen sowie Entfachen von Feuer ausserhalb der erlaubten Feuerstellen;
 - i. das Wegwerfen, Ablagern oder Einleiten von Abfällen, Materialien und Flüssigkeiten aller Art;
 - j. das Laufenlassen von Hunden (ganzjährige Hundeleinenpflicht);
@@ -81,6 +80,8 @@ beschliesst:
 <sup>6</sup> Die kantonale Naturschutzfachstelle kann in begründeten Fällen nach Absprache mit dem Amt für Wald beider Basel weitere Ausnahmen von den Schutzbestimmungen bewilligen.
 
 <sup>7</sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 1 Bst. e und f können innerhalb von 3 Jahren maximal 2 bewilligungspflichtige Orientierungslaufanlässe von hohem öffentlichen Interesse (nationaler OL, Weltcup OL u. ä.) in den dafür definierten Bereichen bewilligt werden. Diese Ausnahmeregelung umfasst den Hügel «Christen» sowie einen Korridor entlang des Wanderwegs zwischen den Laufgebieten «Muni» und «Schauenburg» (vgl. Karte «Erschliessung und Besucherlenkung» im Nutz- und Schutzkonzept vom 21. Juni 2021).
+
+<sup>7<sup>bis</sup></sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 1 Bst. g bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 <sup>8</sup> Die Durchführung des jährlichen Banntags bleibt gewährleistet und untersteht nicht der Bewilligungspflicht gemäss § 4.
 
