@@ -3,20 +3,19 @@ canton: BL
 number: "790.487"
 title: "Verordnung über das Naturschutzgebiet «Strickrain», Sissach"
 language: de
-version: 2011-01-01
-valid_until: 2024-09-27
-version_adopted: 2010-12-14
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2010-12-14
 in_force: 2011-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.487"
-pdf: "https://bl.clex.ch/api/de/versions/1849/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4173/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Strickrain», Sissach
 
-Vom 14.12.2010 (Stand 01.01.2011)
+Vom 14.12.2010 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -66,11 +65,14 @@ beschliesst:
 - g. Laufenlassen von Hunden, Radfahren, Biken und Reiten abseits von Waldstrassen gemäss § 10 kWaG[^3-1] sowie Motorfahrzeugverkehr gemäss Art. 15 Absatz 2 WaG[^3-2];
 - h. Verwenden von chemischen Schädlingsbekämpfungs- oder Pflanzenschutzmitteln sowie Ausbringen von Düngemitteln;
 - i. Pflücken, Ausgraben (ausser für die Problempflanzenbekämpfung) oder unbewilligtes Ansiedeln von Pflanzen sowie Stören und unbewilligtes Sammeln, Fangen oder Aussetzen von Tieren;
-- j. Erstellen neuer Wald- und Maschinenwege, sofern diese im Nutz- und Schutzkonzept nicht enthalten sind.
+- j. Erstellen neuer Wald- und Maschinenwege, sofern diese im Nutz- und Schutzkonzept nicht enthalten sind;
+- k. Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen.
 
 <sup>3</sup> Vorbehalten bleiben sämtliche Eingriffe und Massnahmen gemäss Nutz- und Schutzkonzept sowie zur Besucherlenkung und zur Bekämpfung von Problemarten. Der Unterhalt bestehender Wege sowie die Rechte der Grundeigentümerin bezüglich Eigengebrauch bleiben gewährleistet.
 
 <sup>4</sup> Im Bereich der Hochspannungsleitung bleiben die erforderlichen Eingriffe und Massnahmen zur Niederhaltung des Waldes gewährleistet.
+
+<sup>4<sup>bis</sup></sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. k bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 <sup>5</sup> Veränderungen im Schutzgebiet, Änderungen der Nutzung sowie das Ansiedeln von Pflanzen und Tieren dürfen nur mit dem Einverständnis und unter Aufsicht der kantonalen Naturschutzfachstelle und des Amts für Wald beider Basel sowie der Grundeigentümerin vorgenommen werden.
 
@@ -83,7 +85,7 @@ beschliesst:
 
 **Bewilligungen**
 
-<sup>1</sup> Alle Veranstaltungen ab 50 Personen unterliegen der Bewilligungspflicht. Bewilligungen können unter Beachtung der Schutzziele erteilt werden, soweit dadurch keine Beeinträchtigungen des Naturschutzgebiets entstehen. Das Bewilligungsverfahren richtet sich nach den kantonalen waldrechtlichen Bestimmungen.
+<sup>1</sup> Alle Veranstaltungen mit mehr als 50 Personen unterliegen der Bewilligungspflicht. Bewilligungen können unter Beachtung der Schutzziele erteilt werden, soweit dadurch keine Beeinträchtigungen des Naturschutzgebiets entstehen. Das Bewilligungsverfahren richtet sich nach den kantonalen waldrechtlichen Bestimmungen.
 
 <sup>2</sup> Für Bewilligungen von Veranstaltungen im Wald sind der Gemeinderat oder, wenn mehrere Einwohnergemeinden betroffen sind, das Amt für Wald beider Basel zuständig.
 
