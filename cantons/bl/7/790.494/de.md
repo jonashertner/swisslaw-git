@@ -3,20 +3,19 @@ canton: BL
 number: "790.494"
 title: "Verordnung über das Naturschutzgebiet «Gebstelli», Roggenburg"
 language: de
-version: 2011-08-01
-valid_until: 2024-09-27
-version_adopted: 2011-06-28
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2011-06-28
 in_force: 2011-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.494"
-pdf: "https://bl.clex.ch/api/de/versions/739/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4180/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Gebstelli», Roggenburg
 
-Vom 28.06.2011 (Stand 01.08.2011)
+Vom 28.06.2011 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes vom 20. November 1991[^ingress-1] betreffend den Natur- und Landschaftsschutz, beschliesst:
 
@@ -59,7 +58,7 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes
 - a. Bauten, Anlagen, Einrichtungen sowie Boden- und Terrainveränderungen jeglicher Art, sofern diese nicht im Nutz- und Schutzkonzept vorgesehen sind;
 - b. Freizeitaktivitäten, welche die gebietsspezifischen Naturwerte gefährden oder solche mit übermässig starken Immissionen auf das Naturschutzgebiet wie Lärm, grossflächige Störungen oder Schädigungen von Standorten geschützter Arten;
 - c. Entfachen von Feuer;
-- d. Campieren oder Modellfliegen;
+- d. Campieren, Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen;
 - e. Wegwerfen, Ablagern oder Einleiten von Abfällen, Materialien und Flüssigkeiten aller Art;
 - f. Verlassen der Wege;
 - g. Radfahren, Biken und Reiten abseits von Waldstrassen gemäss § 10 kWaG[^3-1] sowie Motorfahrzeugverkehr gemäss Artikel 15 Absatz 2 WaG[^3-2];
@@ -70,6 +69,8 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes
 <sup>3</sup> Veranstaltungen, welche das Naturschutzgebiet betreffen, können im Ausnahmefall bewilligt werden, sofern die Schutzziele nicht gefährdet oder beeinträchtigt werden.
 
 <sup>4</sup> Vorbehalten bleiben sämtliche Eingriffe und Massnahmen gemäss Nutz- und Schutzkonzept sowie zur Gewährleistung der Sicherheit und zur Bekämpfung von Problemarten. Der Unterhalt bestehender Wege sowie die Rechte der Grundeigentümer bezüglich Eigengebrauch bleiben gewährleistet.
+
+<sup>4<sup>bis</sup></sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. d bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 <sup>5</sup> Veränderungen im Schutzgebiet, Änderungen der Nutzung sowie das Ansiedeln von Pflanzen und Tieren dürfen nur mit dem Einverständnis und unter Aufsicht der kantonalen Naturschutzfachstelle vorgenommen werden.
 
