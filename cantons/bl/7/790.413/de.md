@@ -3,20 +3,19 @@ canton: BL
 number: "790.413"
 title: "Verordnung über das Naturschutzgebiet «Schöntal-Weiher», Langenbruck"
 language: de
-version: 1994-05-01
-valid_until: 2024-09-27
-version_adopted: 1994-04-12
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 1994-04-12
 in_force: 1994-05-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.413"
-pdf: "https://bl.clex.ch/api/de/versions/677/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4041/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Schöntal-Weiher», Langenbruck
 
-Vom 12.04.1994 (Stand 01.05.1994)
+Vom 12.04.1994 (Stand 28.09.2024)
 
 Der Regierungsrat des Kanton Basel-Landschaft, gestützt auf § 12 des Gesetzes vom 20. November 1991[^ingress-1] betreffend den Natur- und Landschaftsschutz, beschliesst:
 
@@ -58,9 +57,12 @@ Der Regierungsrat des Kanton Basel-Landschaft, gestützt auf § 12 des Gesetzes 
 - d. Campieren, Lagern in Gruppen sowie Durchführen von Wettkämpfen;
 - e. Pflücken, Ausgraben oder Einbringen von Pflanzen sowie Sammeln, Fangen und Aussetzen von Tieren ohne Bewilligung;
 - f. Ausbringen von Düngemitteln sowie Verwendung von Schädlingsbekämpfungsmitteln;
-- g. Ablagern von Bauschutt oder Aushubmaterial sowie Bodenveränderungen, welche den Schutzzielen widersprechen.
+- g. Ablagern von Bauschutt oder Aushubmaterial sowie Bodenveränderungen, welche den Schutzzielen widersprechen;
+- h. Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen.
 
 <sup>3</sup> Vorbehalten bleiben sämtliche Eingriffe, Massnahmen und Nutzungen gemäss Pflegekonzept.
+
+<sup>4</sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. h bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 #### § 4
 
