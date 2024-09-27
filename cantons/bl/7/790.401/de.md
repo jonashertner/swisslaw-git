@@ -3,20 +3,19 @@ canton: BL
 number: "790.401"
 title: "Regierungsratsverordnung über die Aufnahme des Feuchtbiotopes Hefleten, Zunzgen, in das Inventar der geschützten Naturdenkmäler"
 language: de
-version: 1977-09-20
-valid_until: 2024-09-27
-version_adopted: 1977-09-20
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 1977-09-20
 in_force: 1977-09-20
 url: "https://bl.clex.ch/app/de/texts_of_law/790.401"
-pdf: "https://bl.clex.ch/api/de/versions/1351/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4018/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Regierungsratsverordnung über die Aufnahme des Feuchtbiotopes Hefleten, Zunzgen, in das Inventar der geschützten Naturdenkmäler
 
-Vom 20.09.1977 (Stand 20.09.1977)
+Vom 20.09.1977 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -44,6 +43,9 @@ beschliesst:
 
 - a. Verbote Ausgraben, Pflücken und Einbringen von Pflanzen; Stören, Fangen, Töten und Aussetzen von Tieren.
 - b. Einschränkungen: Die Wege dürfen nicht verlassen werden; Hunde sind an der Leine zu führen.
+- c. Das Landen mit Helikoptern (ausser in Notfallsituationen) sowie das Befliegen mit Modellflugzeugen oder Drohnen sind verboten.
+
+<sup>2</sup> Als Ausnahme vom Verbot gemäss § 4 Abs. 1 Bst. c bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 #### § 5
 
