@@ -3,20 +3,19 @@ canton: BL
 number: "790.468"
 title: "Verordnung über das Naturschutzgebiet «Rumpel-Chlapfen», Oltingen"
 language: de
-version: 2007-05-01
-valid_until: 2024-09-27
-version_adopted: 2007-03-20
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2007-03-20
 in_force: 2007-05-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.468"
-pdf: "https://bl.clex.ch/api/de/versions/1188/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4148/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Rumpel-Chlapfen», Oltingen
 
-Vom 20.03.2007 (Stand 01.05.2007)
+Vom 20.03.2007 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -70,7 +69,7 @@ beschliesst:
 - c. Umwandlung der Magerwiesen-Flächen in Dauerweiden ohne Bewilligung;
 - d. Freizeitaktivitäten, welche die gebietsspezifischen Naturwerte gefährden, oder solche mit übermässig starken Immissionen auf das Naturschutzgebiet wie Lärm, grossflächigen Störungen oder Schädigungen von Standorten geschützter Arten;
 - e. Durchführen von nicht bewilligten Veranstaltungen mit mehr als 50 Personen;
-- f. Campieren oder Modellfliegen;
+- f. Campieren, Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen;
 - g. Entfachen von Feuer ausserhalb der erlaubten Feuerstellen;
 - h. Wegwerfen, Ablagern oder Einleiten von Abfällen, Materialien und Flüssigkeiten aller Art;
 - i. Verlassen der erlaubten Wege in den Magerwiesen und -weiden sowie Klettern;
@@ -85,6 +84,8 @@ beschliesst:
 
 <sup>4</sup> Nutzung und Rekultivierung der beiden Gruben im «Ried» bleiben im Rahmen der rechtskräftigen Bewilligungen gewährleistet.
 
+<sup>4<sup>bis</sup></sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. f bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
+
 <sup>5</sup> Veränderungen im Schutzgebiet, Änderungen der Nutzung sowie das Ansiedeln von Pflanzen und Tieren dürfen nur mit dem Einverständnis und unter Aufsicht der kantonalen Naturschutzfachstelle vorgenommen werden.
 
 <sup>6</sup> Bodeneingriffe und Begehungen zur Dokumentation archäologischer Befunde sind in Absprache mit der kantonalen Naturschutzfachstelle gewährleistet.
@@ -93,7 +94,7 @@ beschliesst:
 
 **Bewilligungen**
 
-<sup>1</sup> Alle Veranstaltungen ab 50 Personen unterliegen der Bewilligungspflicht. Bewilligungen können unter Beachtung der Schutzziele erteilt werden, soweit dadurch keine Beeinträchtigungen des Naturschutzgebietes entstehen. Das Bewilligungsverfahren richtet sich nach den kantonalen, waldrechtlichen Bestimmungen.
+<sup>1</sup> Alle Veranstaltungen mit mehr als 50 Personen unterliegen der Bewilligungspflicht. Bewilligungen können unter Beachtung der Schutzziele erteilt werden, soweit dadurch keine Beeinträchtigungen des Naturschutzgebiets entstehen. Das Bewilligungsverfahren richtet sich nach den kantonalen, waldrechtlichen Bestimmungen.
 
 <sup>2</sup> Für Bewilligungen von Veranstaltungen im Wald sind der Gemeinderat oder, wenn mehrere Einwohnergemeinden betroffen sind, das Forstamt beider Basel zuständig. Für Veranstaltungen im Offenland erteilt der Gemeinderat die Bewilligung im Einverständnis mit der kantonalen Naturschutzfachstelle.
 
