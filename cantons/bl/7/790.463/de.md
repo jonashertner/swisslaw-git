@@ -3,20 +3,19 @@ canton: BL
 number: "790.463"
 title: "Verordnung über das Naturschutzgebiet «Sonnenberg», Maisprach"
 language: de
-version: 2003-04-14
-valid_until: 2024-09-27
-version_adopted: 2003-03-25
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2003-03-25
 in_force: 2003-04-14
 url: "https://bl.clex.ch/app/de/texts_of_law/790.463"
-pdf: "https://bl.clex.ch/api/de/versions/1179/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4143/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Sonnenberg», Maisprach
 
-Vom 25.03.2003 (Stand 14.04.2003)
+Vom 25.03.2003 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -73,7 +72,8 @@ beschliesst:
 - h. Befahren mit Motorfahrzeugen ohne Berechtigung;
 - i. Verwenden von chemischen Schädlingsbekämpfungs- oder Pflanzenschutzmitteln sowie Ausbringen von Düngemitteln;
 - j. Pflücken, Ausgraben oder Ansiedeln von Pflanzen und Pilzen sowie Sammeln, Fangen, Aussetzen oder Stören von Tieren;
-- k. Erstellen neuer Wald- und Maschinenwege, sofern diese im Nutz- und Schutzkonzept nicht enthalten sind.
+- k. Erstellen neuer Wald- und Maschinenwege, sofern diese im Nutz- und Schutzkonzept nicht enthalten sind;
+- l. Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen.
 
 <sup>3</sup> Der Unterhalt bestehender Wald- und Maschinenwege sowie der bestehenden Spazier- und Fusswege und weiterer Erholungseinrichtungen gemäss Nutz- und Schutzkonzept bleiben in Absprache mit der kantonalen Naturschutzfachstelle gewährleistet.
 
@@ -84,6 +84,8 @@ beschliesst:
 <sup>6</sup> Archäologische Erhebungen durch das Amt für Kultur sind nach Absprache mit der kantonalen Naturschutzfachstelle und unter Gewährleistung der Schutzziele zulässig.
 
 <sup>7</sup> Die für Naturschutz resp. Wald zuständige Behörde kann das generelle Waldbetretungsrecht örtlich oder zeitlich einschränken, falls die Schutzziele anderweitig nicht erreicht werden können.
+
+<sup>8</sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. l bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 #### § 4
 
