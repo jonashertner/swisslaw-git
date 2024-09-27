@@ -3,20 +3,19 @@ canton: BL
 number: "790.421"
 title: "Verordnung über das Naturschutzgebiet «Tenniker Fluh - Sangeten», Tenniken"
 language: de
-version: 1998-11-01
-valid_until: 2024-09-27
-version_adopted: 1998-09-15
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 1998-09-15
 in_force: 1998-11-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.421"
-pdf: "https://bl.clex.ch/api/de/versions/685/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4030/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Tenniker Fluh - Sangeten», Tenniken
 
-Vom 15.09.1998 (Stand 01.11.1998)
+Vom 15.09.1998 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes vom 20. November 1991[^ingress-1] betreffend den Natur- und Landschaftsschutz, beschliesst:
 
@@ -55,7 +54,7 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes
 <sup>2</sup> Verboten sind insbesondere:
 
 - a. Bauten, Anlagen, Einrichtungen sowie Boden- und Terrainveränderungen jeglicher Art, sofern diese nicht im Nutzungs- und Pflegekonzept vorgesehen sind;
-- b. Campieren, Lagern in Gruppen, Modellfliegen, Klettern sowie Durchführen von sportlichen Veranstaltungen abseits der Wege;
+- b. Campieren, Lagern in Gruppen, Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen, Klettern sowie Durchführen von sportlichen Veranstaltungen abseits der Wege;
 - c. Wegwerfen, Ablagern oder Einleiten von Abfällen, Materialien und Flüssigkeiten aller Art;
 - d. Laufenlassen von Hunden, Reiten sowie Befahren mit Mountainbikes abseits der Wege;
 - e. Verwenden von chemischen Schädlingsbekämpfungsmitteln sowie Ausbringen von Düngemitteln, an Gewässerufern und an Waldrändern;
@@ -67,6 +66,8 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes
 <sup>4</sup> Bauvorhaben für die Grundwassernutzung wie Trinkwasserreservoire oder Quellfassungen sind unter Beachtung der Schutzziele gestattet. Nutzung und Unterhalt des Rastplatzes mit Feuerstelle im Gebiet «Rosen» auf Parzelle Nr. 1354 in geordnetem Rahmen sowie der Unterhalt bestehender Wald- und Maschinenwege bleiben gewährleistet.
 
 <sup>5</sup> Ausbeutung und Auffüllung der «Sangetengrube» bleiben den vorliegenden Bewilligungen entsprechend gewährleistet.
+
+<sup>6</sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. b bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 #### § 4
 
