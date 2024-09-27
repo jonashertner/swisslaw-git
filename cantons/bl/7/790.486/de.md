@@ -3,20 +3,19 @@ canton: BL
 number: "790.486"
 title: "Verordnung über das Naturschutzgebiet «Zinggibrunn», Muttenz"
 language: de
-version: 2011-01-01
-valid_until: 2024-09-27
-version_adopted: 2010-12-14
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2010-12-14
 in_force: 2011-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.486"
-pdf: "https://bl.clex.ch/api/de/versions/1350/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4172/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Zinggibrunn», Muttenz
 
-Vom 14.12.2010 (Stand 01.01.2011)
+Vom 14.12.2010 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -58,13 +57,15 @@ beschliesst:
 - b. Umbrechen des Bodens im Bereich der Magerwiesen und -weiden;
 - c. Aktivitäten, welche die gebietsspezifischen Naturwerte gefährden oder solche mit übermässig starken Immissionen auf das Naturschutzgebiet wie Lärm, grossflächige Störungen oder Schädigungen von Standorten seltener oder geschützter Arten;
 - d. Durchführen von nicht bewilligten Veranstaltungen;
-- e. Campieren oder Modellfliegen;
+- e. Campieren, Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen;
 - f. Wegwerfen, Ablagern oder Einleiten von Abfällen, Materialien und Flüssigkeiten aller Art;
 - g. Laufenlassen von Hunden;
 - h. Verwenden von chemischen Schädlingsbekämpfungs- oder Pflanzenschutzmitteln sowie Ausbringen von Düngemitteln auf den Magerwiesen und Magerweiden und an den Waldrändern;
 - i. Pflücken, Ausgraben oder unbewilligtes Ansiedeln von Pflanzen sowie Stören und unbewilligtes Sammeln, Fangen oder Aussetzen von Tieren.
 
 <sup>3</sup> Vorbehalten bleiben sämtliche Aufwertungs- und Pflegemassnahmen gemäss den Schutzzielen sowie zur Bekämpfung von Problemarten. Der Unterhalt bestehender Wege sowie die Rechte der privaten Grundeigentümerin bezüglich Eigengebrauch bleiben gewährleistet.
+
+<sup>3<sup>bis</sup></sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. e bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 <sup>4</sup> Veränderungen im Schutzgebiet, Änderungen der Nutzung sowie das Ansiedeln von Pflanzen und Tieren dürfen nur mit dem Einverständnis und unter Aufsicht der kantonalen Naturschutzfachstelle und der Grundeigentümerin vorgenommen werden.
 
@@ -74,7 +75,7 @@ beschliesst:
 
 **Bewilligungen**
 
-<sup>1</sup> Alle Veranstaltungen ab 50 Personen unterliegen der Bewilligungspflicht. Bewilligungen können unter Beachtung der Schutzziele erteilt werden, soweit dadurch keine Beeinträchtigungen des Naturschutzgebiets entstehen. Für Veranstaltungen im Offenland erteilt der Gemeinderat die Bewilligung im Einverständnis mit der kantonalen Naturschutzfachstelle.
+<sup>1</sup> Alle Veranstaltungen mit mehr als 50 Personen unterliegen der Bewilligungspflicht. Bewilligungen können unter Beachtung der Schutzziele erteilt werden, soweit dadurch keine Beeinträchtigungen des Naturschutzgebiets entstehen. Für Veranstaltungen im Offenland erteilt der Gemeinderat die Bewilligung im Einverständnis mit der kantonalen Naturschutzfachstelle.
 
 #### § 5
 
