@@ -3,20 +3,20 @@ canton: BL
 number: "790.433"
 title: "Verordnung über das Naturschutzgebiet «Ränggen», Diegten"
 language: de
-version: 2007-01-01
-valid_until: 2024-09-27
-version_adopted: 2006-12-19
+version: 2024-09-28
+valid_until: 2024-12-05
+version_adopted: 2024-08-27
 adopted: 1999-08-17
 in_force: 1999-10-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.433"
-pdf: "https://bl.clex.ch/api/de/versions/3974/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4062/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Ränggen», Diegten
 
-Vom 17.08.1999 (Stand 01.01.2007)
+Vom 17.08.1999 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -56,7 +56,7 @@ beschliesst:
 <sup>2</sup> Verboten sind insbesondere:
 
 - a. Bauten, Anlagen, Einrichtungen sowie Boden- und Terrainveränderungen jeglicher Art, sofern diese nicht im Nutzungs- und Pflegekonzept vorgesehen sind;
-- b. Campieren, Lagern in Gruppen, Modellfliegen, Klettern sowie Durchführen von sportlichen Veranstaltungen abseits der Wege;
+- b. Campieren, Lagern in Gruppen, Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen, Klettern sowie Durchführen von sportlichen Veranstaltungen abseits der Wege;
 - c. Wegwerfen, Ablagern oder Einleiten von Abfällen, Materialien und Flüssigkeiten aller Art;
 - d. Laufenlassen von Hunden;
 - e. Reiten sowie Befahren mit Mountainbikes abseits der erlaubten Wege;
@@ -68,6 +68,8 @@ beschliesst:
 <sup>3</sup> Vorbehalten bleiben sämtliche Eingriffe und Massnahmen gemäss Pflege- und Nutzungsplan.
 
 <sup>4</sup> Der Unterhalt bestehender Wald- und Maschinenwege bleibt gewährleistet.
+
+<sup>5</sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. b bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 #### § 4
 
