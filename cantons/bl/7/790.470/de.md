@@ -3,20 +3,19 @@ canton: BL
 number: "790.470"
 title: "Verordnung über das Naturschutzgebiet «Scheidegg», Rünenberg"
 language: de
-version: 2008-01-01
-valid_until: 2024-09-27
-version_adopted: 2007-12-11
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2007-12-11
 in_force: 2008-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.470"
-pdf: "https://bl.clex.ch/api/de/versions/1191/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4150/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Scheidegg», Rünenberg
 
-Vom 11.12.2007 (Stand 01.01.2008)
+Vom 11.12.2007 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -62,9 +61,12 @@ beschliesst:
 - g. Reiten oder Befahren des Gebietes mit Velos oder Mountainbikes abseits der erlaubten Wege sowie Befahren mit Motorfahrzeugen ohne Berechtigung;
 - h. Verwenden von chemischen Schädlingsbekämpfungs- oder Pflanzenschutzmitteln oder Ausbringen von Düngemitteln;
 - i. Pflücken, Ausgraben oder Ansiedeln von Pflanzen und Pilzen sowie Sammeln, Fangen, Aussetzen oder Stören von Tieren;
-- j. Erstellen neuer Wald- und Maschinenwege, sofern diese im Nutz- und Schutzkonzept nicht enthalten sind.
+- j. Erstellen neuer Wald- und Maschinenwege, sofern diese im Nutz- und Schutzkonzept nicht enthalten sind;
+- k. Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen.
 
 <sup>3</sup> Vorbehalten bleiben sämtliche Eingriffe und Massnahmen gemäss Nutz- und Schutzkonzept. Der Unterhalt bestehender Wege sowie die Rechte der privaten Grundeigentümer bezüglich Eigengebrauch bleiben gewährleistet.
+
+<sup>3<sup>bis</sup></sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. k bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 <sup>4</sup> Veränderungen im Schutzgebiet, Änderungen der Nutzung sowie das Ansiedeln von Pflanzen und Tieren dürfen nur mit dem Einverständnis und unter Aufsicht der kantonalen Naturschutzfachstelle vorgenommen werden.
 
@@ -74,7 +76,7 @@ beschliesst:
 
 **Bewilligungen**
 
-<sup>1</sup> Alle Veranstaltungen ab 50 Personen unterliegen der Bewilligungspflicht. Bewilligungen können unter Beachtung der Schutzziele erteilt werden, soweit dadurch keine Beeinträchtigungen des Naturschutzgebietes entstehen. Das Bewilligungsverfahren richtet sich nach den kantonalen, waldrechtlichen Bestimmungen.
+<sup>1</sup> Alle Veranstaltungen mit mehr als 50 Personen unterliegen der Bewilligungspflicht. Bewilligungen können unter Beachtung der Schutzziele erteilt werden, soweit dadurch keine Beeinträchtigungen des Naturschutzgebiets entstehen. Das Bewilligungsverfahren richtet sich nach den kantonalen, waldrechtlichen Bestimmungen.
 
 <sup>2</sup> Für Bewilligungen von Veranstaltungen im Wald sind der Gemeinderat oder, wenn mehrere Einwohnergemeinden betroffen sind, das Forstamt beider Basel zuständig.
 
