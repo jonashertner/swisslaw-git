@@ -3,20 +3,19 @@ canton: BL
 number: "790.429"
 title: "Verordnung über das Naturschutzgebiet «Rehhag», Waldenburg, Oberdorf und Bennwil"
 language: de
-version: 2014-05-01
-valid_until: 2024-09-27
-version_adopted: 2014-04-08
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 1999-01-05
 in_force: 1999-03-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.429"
-pdf: "https://bl.clex.ch/api/de/versions/698/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4037/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Rehhag», Waldenburg, Oberdorf und Bennwil
 
-Vom 05.01.1999 (Stand 01.05.2014)
+Vom 05.01.1999 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes vom 20. November 1991[^ingress-1] betreffend den Natur- und Landschaftsschutz, beschliesst:
 
@@ -55,8 +54,8 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes
 <sup>2</sup> Verboten sind insbesondere:
 
 - a. Bauten, Anlagen, Einrichtungen sowie Boden- und Terrainveränderungen jeglicher Art, sofern diese nicht im Nutzungs- und Pflegekonzept vorgesehen sind;
-- b. ampieren, Lagern in Gruppen oder Modellfliegen;
-- c. Klettern während der Sperrzeiten im saisonalen Sperrgebiet sowie ausserhalb der bewilligten Routen gemäss Protokoll vom 22. Oktober 1999;
+- b. Campieren, Lagern in Gruppen, Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen;
+- c. Klettern ausserhalb der erlaubten Felsbereiche;
 - d. Durchführen von sportlichen Veranstaltungen abseits der Wege;
 - e. Wegwerfen, Ablagern oder Einleiten von Abfällen, Materialien und Flüssigkeiten aller Art;
 - f. Entfachen von Feuer ausserhalb der bezeichneten Feuerstellen;
@@ -69,6 +68,10 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes
 <sup>3</sup> Vorbehalten bleiben sämtliche Eingriffe und Massnahmen gemäss Pflege- und Nutzungsplan sowie gemäss Waldbau-C Projekt.
 
 <sup>4</sup> Der Unterhalt bestehender Wald- und Maschinenwege bleibt gewährleistet.
+
+<sup>5</sup> Die erlaubten Kletterbereiche sowie die erlaubten Zugangswege sind auf dem Geoportal des Kantons Basel-Landschaft dargestellt und wo notwendig am Fels markiert.
+
+<sup>6</sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. b bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 #### § 4
 
@@ -92,7 +95,9 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes
 
 <sup>1</sup> Die Bewirtschafter oder Auftragnehmer tragen die Verantwortung für eine sachgerechte, sorgfältige Pflege der Naturobjekte sowie für die Einhaltung erforderlicher Schutzvorkehrungen.
 
-<sup>2</sup> Der jeweilige Bewirtschafter oder Auftragnehmer ist haftbar bei durch ihn verursachten Schädigungen der Naturobjekte oder bei Gewässerverunreinigungen.
+<sup>2</sup> Die jeweilige Bewirtschafterin, Nutzerin oder Auftragnehmerin oder der jeweilige Bewirtschafter, Nutzer oder Auftragnehmer ist haftbar bei durch sie oder ihn verursachten Schädigungen der Naturobjekte oder bei Gewässerverunreinigungen.
+
+<sup>3</sup> Das Klettern geschieht auf eigenes Risiko.
 
 #### § 6
 
