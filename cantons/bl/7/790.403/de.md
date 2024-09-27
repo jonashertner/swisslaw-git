@@ -3,20 +3,20 @@ canton: BL
 number: "790.403"
 title: "Verordnung über das Naturschutzgebiet «Reinacherheide», Reinach und Arlesheim"
 language: de
-version: 2009-01-01
-valid_until: 2024-09-27
-version_adopted: 2008-12-02
+version: 2024-09-28
+valid_until: 2024-12-31
+version_adopted: 2024-08-27
 adopted: 1993-09-07
 in_force: 1993-10-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.403"
-pdf: "https://bl.clex.ch/api/de/versions/1353/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4020/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Reinacherheide», Reinach und Arlesheim
 
-Vom 07.09.1993 (Stand 01.01.2009)
+Vom 07.09.1993 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -68,7 +68,8 @@ beschliesst:
 - f. Entfachen von Feuer ausserhalb der festgelegten Feuerstellen, Wegwerfen von Abfällen, Campieren sowie Durchführen von Veranstaltungen;
 - g. Pflücken, Ausgraben und Einbringen von Pflanzen sowie Stören, Sammeln, Fangen und Aussetzen von Tieren ohne Bewilligung;
 - h. Einsatz von chemischen Mitteln zur Schädlingsbekämpfung sowie Ausbringen von Düngemitteln;
-- i. Befahren ohne Berechtigung, ausgenommen Veloverkehr auf dem Verbindungsweg zwischen Schwimmbad und Birsbrücke.
+- i. Befahren ohne Berechtigung, ausgenommen Veloverkehr auf dem Verbindungsweg zwischen Schwimmbad und Birsbrücke;
+- k. Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen.
 
 <sup>3</sup> Vorbehalten bleiben sämtliche Eingriffe und Massnahmen gemäss Pflegekonzept sowie im Zusammenhang mit der Grundwassernutzung.
 
@@ -77,6 +78,8 @@ beschliesst:
 <sup>5</sup> Der traditionelle "Birslauf", welcher zweimal jährlich stattfindet und durch das Naturschutzgebiet führt, bleibt unter weitestgehender Schonung der Natur weiterhin gewährleistet. Der Anlass darf jedoch im Frühling nur bis am 10. April und im Herbst frühestens ab dem 01. September durchgeführt werden. Die Anzahl der Teilnehmer ist auf höchstens 1000 beschränkt. Eine Verknüpfung des Anlasses mit anderen sportlichen Disziplinen ist nicht erlaubt. Die Wege dürfen von den Läufern und Zuschauern nicht verlassen werden. Installationen und Werbemassnahmen innerhalb des Naturschutzgebiets sind verboten. Das Bewilligungsgesuch ist im Rahmen des waldrechtlichen Bewilligungsverfahrens beim Forstamt beider Basel einzureichen.
 
 <sup>6</sup> Der Unterhalt und die Nutzung der bestehenden Zufahrt zum Kraftwerk Dornachbrugg sowie die Rechte der privaten Grundeigentümerschaft bezüglich Eigengebrauch bleiben gewährleistet.
+
+<sup>7</sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. k bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 #### § 4
 
