@@ -3,20 +3,19 @@ canton: BL
 number: "790.490"
 title: "Verordnung über das Naturschutzgebiet «Löffelberg-Baanholz», Liesberg"
 language: de
-version: 2011-04-01
-valid_until: 2024-09-27
-version_adopted: 2011-03-01
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2011-03-01
 in_force: 2011-04-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.490"
-pdf: "https://bl.clex.ch/api/de/versions/743/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4176/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Löffelberg-Baanholz», Liesberg
 
-Vom 01.03.2011 (Stand 01.04.2011)
+Vom 01.03.2011 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes vom 20. November 1991[^ingress-1] betreffend den Natur- und Landschaftsschutz, beschliesst:
 
@@ -57,7 +56,7 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes
 - a. Bauten, Anlagen, Einrichtungen sowie Boden- und Terrainveränderungen jeglicher Art, sofern diese im Nutz- und Schutzkonzept nicht vorgesehen sind;
 - b. Freizeitaktivitäten, welche die gebietsspezifischen Naturwerte gefährden oder solche mit übermässig starken Immissionen auf das Naturschutzgebiet wie Lärm, grossflächige Störungen oder Schädigungen von Standorten geschützter Arten;
 - c. Durchführen von nicht bewilligten Veranstaltungen mit mehr als 50 Personen im Wald;
-- d. Campieren, Modellfliegen oder Gleitschirmfliegen;
+- d. Campieren, Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen, Gleitschirmfliegen;
 - e. sämtliche Kletteraktivitäten wie Felsklettern, Eisklettern oder Bouldern im ganzen Naturschutzgebiet, ausgenommen am «Rappenfels» in den Sektoren «Kapelle» und «Teufelswand», Routen 1 - 19;
 - f. Entfachen von Feuer;
 - g. Wegwerfen, Ablagern oder Einleiten von Abfällen, Materialien und Flüssigkeiten aller Art;
@@ -70,6 +69,8 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes
 <sup>3</sup> Vorbehalten bleiben sämtliche Eingriffe und Massnahmen gemäss Nutz- und Schutzkonzept. Der Unterhalt bestehender Wege sowie die Rechte der Grundeigentümerin bezüglich Eigengebrauchs bleiben gewährleistet.
 
 <sup>4</sup> Die Anlage der Wegverbindung vom Rohrbergbach zum Rohrbergweg bleibt unter grösstmöglicher Berücksichtigung der Schutzziele sowie nach Rücksprache mit der kantonalen Naturschutzfachstelle gewährleistet. Der bestehende Pfad, der nordöstlich des Rappenfelsens zur Fluematten führt, kann weiterhin als Wanderweg unterhalten werden.
+
+<sup>4<sup>bis</sup></sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. d bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 <sup>5</sup> Veränderungen im Schutzgebiet, Änderungen der Nutzung sowie das Ansiedeln von Pflanzen und Tieren dürfen nur mit dem Einverständnis und unter Aufsicht der kantonalen Naturschutzfachstelle vorgenommen werden.
 
@@ -90,7 +91,7 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes
 
 **Bewilligungen**
 
-<sup>1</sup> Alle Veranstaltungen ab 50 Personen im Wald unterliegen der Bewilligungspflicht. Bewilligungen können unter Beachtung der Schutzziele erteilt werden und soweit dadurch keine Beeinträchtigungen des Naturschutzgebiets entstehen. Das Bewilligungsverfahren richtet sich nach den kantonalen waldrechtlichen Bestimmungen.
+<sup>1</sup> Alle Veranstaltungen mit mehr als 50 Personen im Wald unterliegen der Bewilligungspflicht. Bewilligungen können unter Beachtung der Schutzziele erteilt werden, soweit dadurch keine Beeinträchtigungen des Naturschutzgebiets entstehen. Das Bewilligungsverfahren richtet sich nach den kantonalen waldrechtlichen Bestimmungen.
 
 <sup>2</sup> Für Bewilligungen von Veranstaltungen im Wald sind der Gemeinderat oder, wenn mehrere Einwohnergemeinden betroffen sind, das Amt für Wald beider Basel zuständig.
 
