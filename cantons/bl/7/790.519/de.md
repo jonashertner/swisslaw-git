@@ -3,20 +3,19 @@ canton: BL
 number: "790.519"
 title: "Verordnung über das Naturschutzgebiet «Roti Flue - Dübach», Rothenfluh"
 language: de
-version: 2013-03-01
-valid_until: 2024-09-27
-version_adopted: 2013-01-22
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2013-01-22
 in_force: 2013-03-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.519"
-pdf: "https://bl.clex.ch/api/de/versions/876/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4210/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Roti Flue - Dübach», Rothenfluh
 
-Vom 22.01.2013 (Stand 01.03.2013)
+Vom 22.01.2013 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -66,7 +65,7 @@ beschliesst:
 - d. Freizeitaktivitäten, welche die gebietsspezifischen Naturwerte gefährden, oder solche mit übermässig starken Immissionen auf das Naturschutzgebiet wie Lärm, grossflächige Störungen oder Schädigungen von Standorten seltener oder geschützter Arten;
 - e. Durchführen von nicht bewilligten Veranstaltungen mit mehr als 50 Personen im Wald;
 - f. Durchführen von Veranstaltungen in den Magerwiesen und -weiden und in der Naturwaldfläche;
-- g. Campieren oder Modellfliegen;
+- g. Campieren, Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen;
 - h. Entfachen von Feuer ausserhalb der erlaubten Feuerstellen;
 - i. Wegwerfen, Ablagern oder Einleiten von Abfällen, Materialien und Flüssigkeiten aller Art;
 - j. Betreten der Magerwiesen und -weiden;
@@ -77,6 +76,8 @@ beschliesst:
 - o. Erstellen neuer Wald-, Maschinen- und Fusswege.
 
 <sup>3</sup> Vorbehalten bleiben sämtliche Eingriffe und Massnahmen gemäss den in § 5 Absatz 3 genannten Nutz- und Schutzkonzepten zur Pflege und Aufwertung des Naturschutzgebiets, zur Besucherlenkung sowie zur Bekämpfung von fremdländischen Problemarten.
+
+<sup>3<sup>bis</sup></sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. g bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 <sup>4</sup> Ausnahmen vom Verbot gemäss § 3 Absatz 2 Buchstabe l können z.B. im Rahmen von Reitweg- und Radwegkonzepten von der Einwohnergemeinde in Zusammenarbeit mit dem Amt für Wald beider Basel und der kantonalen Naturschutzfachstelle (Abteilung Natur und Landschaft des Amts für Raumplanung) festgelegt werden.
 
@@ -94,7 +95,7 @@ beschliesst:
 
 **Bewilligungen**
 
-<sup>1</sup> Alle Veranstaltungen im Wald ab 50 Personen unterliegen der Bewilligungspflicht. Bewilligungen können unter Beachtung der Schutzziele erteilt werden, soweit dadurch keine Beeinträchtigungen des Naturschutzgebiets entstehen. Das Bewilligungsverfahren richtet sich nach den kantonalen waldrechtlichen Bestimmungen.
+<sup>1</sup> Alle Veranstaltungen im Wald mit mehr als 50 Personen unterliegen der Bewilligungspflicht. Bewilligungen können unter Beachtung der Schutzziele erteilt werden, soweit dadurch keine Beeinträchtigungen des Naturschutzgebiets entstehen. Das Bewilligungsverfahren richtet sich nach den kantonalen waldrechtlichen Bestimmungen.
 
 <sup>2</sup> Für Bewilligungen von Veranstaltungen im Wald sind der Gemeinderat oder, wenn mehrere Einwohnergemeinden betroffen sind, das Amt für Wald beider Basel zuständig.
 
