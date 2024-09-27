@@ -3,20 +3,19 @@ canton: BL
 number: "790.493"
 title: "Verordnung über das Naturschutzgebiet «Wasserfallen», Reigoldswil und Waldenburg"
 language: de
-version: 2011-04-01
-valid_until: 2024-09-27
-version_adopted: 2011-03-01
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2011-03-01
 in_force: 2011-04-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.493"
-pdf: "https://bl.clex.ch/api/de/versions/740/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4179/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Wasserfallen», Reigoldswil und Waldenburg
 
-Vom 01.03.2011 (Stand 01.04.2011)
+Vom 01.03.2011 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes vom 20. November 1991[^ingress-1] betreffend den Natur- und Landschaftsschutz, beschliesst:
 
@@ -64,7 +63,7 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes
 - c. Umwandlung der Mähwiesen-Flächen in Dauerweiden;
 - d. Freizeitaktivitäten und -angebote, deren potenziell schädigende Auswirkung auf das Naturschutzgebiet sich mittels Besucherlenkung oder anderer Massnahmen nicht auf ein Mass reduzieren lässt, das den Anforderungen von Absatz 1 genügt;
 - e. Durchführen von nicht bewilligten Veranstaltungen mit mehr als 50 Personen;
-- f. Campieren, Modellfliegen oder Klettern;
+- f. Campieren, Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen, Klettern;
 - g. Entfachen von Feuer ausserhalb der erlaubten Feuerstellen;
 - h. Wegwerfen, Ablagern oder Einleiten von Abfällen, Materialien und Flüssigkeiten aller Art;
 - i. Verlassen der erlaubten Wege in den naturschützerisch besonders sensiblen Bereichen wie Fels-, Felsfuss- und Blockschuttbereiche, Rauhfusshühner-Lebensräume und Standorte geschützter, trittempfindlicher Arten;
@@ -81,6 +80,8 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes
 
 <sup>3</sup> Vorbehalten bleiben sämtliche Eingriffe und Massnahmen zur Pflege und Aufwertung des Naturschutzgebiets sowie zur Bekämpfung von fremdländischen Problempflanzen. Das Eisklettern im Gebiet «Schelmenloch-Wasserfallen» und die Grundwassernutzung im Gebiet «Goldbrunnen» bleiben gewährleistet. Der Unterhalt bestehender Wege sowie die Rechte der privaten Grundeigentümer bezüglich Eigengebrauchs bleiben im ganzen Gebiet gewährleistet.
 
+<sup>3<sup>bis</sup></sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. f bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
+
 <sup>4</sup> Veränderungen im Schutzgebiet, Änderungen der Nutzung sowie das Ansiedeln von Pflanzen und Tieren dürfen nur mit dem Einverständnis und unter Aufsicht der kantonalen Naturschutzfachstelle vorgenommen werden.
 
 <sup>5</sup> Bodeneingriffe und Begehungen zur Dokumentation archäologischer Befunde sind in Absprache mit der kantonalen Naturschutzfachstelle gewährleistet.
@@ -96,7 +97,7 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes
 
 <sup>2</sup> Weitere naturnahe Freizeitangebote sind grundsätzlich möglich, sofern sie den Naturschutzzielen nicht widersprechen und die spezifischen Werte des Naturschutzgebiets weder gefährden noch beeinträchtigen. Die Interessenabwägung zwischen den touristischen Interessen und den Interessen des Natur- und Landschaftsschutzes erfolgt im Rahmen der erforderlichen Bewilligungsverfahren. Es gilt Art.18, Abs.1<sup>ter</sup> des Bundesgesetzes über den Natur- und Heimatschutz vom 1. Juli 1966[^4-1].
 
-<sup>3</sup> Veranstaltungen ab 50 Personen unterliegen der Bewilligungspflicht. Bewilligungen können unter Beachtung der Schutzziele erteilt werden und soweit dadurch keine Beeinträchtigungen des Naturschutzgebiets entstehen. Das Bewilligungsverfahren richtet sich nach den kantonalen waldrechtlichen Bestimmungen.
+<sup>3</sup> Veranstaltungen mit mehr als 50 Personen unterliegen der Bewilligungspflicht. Bewilligungen können unter Beachtung der Schutzziele erteilt werden, soweit dadurch keine Beeinträchtigungen des Naturschutzgebiets entstehen. Das Bewilligungsverfahren richtet sich nach den kantonalen waldrechtlichen Bestimmungen.
 
 <sup>4</sup> Für Bewilligungen von Veranstaltungen im Wald sind der Gemeinderat oder, wenn mehrere Einwohnergemeinden betroffen sind, das Amt für Wald beider Basel zuständig. Für Veranstaltungen im Offenland erteilt der Gemeinderat die Bewilligung im Einverständnis mit der kantonalen Naturschutzfachstelle.
 
