@@ -3,20 +3,19 @@ canton: BL
 number: "790.456"
 title: "Verordnung über das Naturschutzgebiet «Grammel», Lausen"
 language: de
-version: 2007-04-01
-valid_until: 2024-09-27
-version_adopted: 2007-02-13
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2002-08-13
 in_force: 2002-08-23
 url: "https://bl.clex.ch/app/de/texts_of_law/790.456"
-pdf: "https://bl.clex.ch/api/de/versions/1189/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4136/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Grammel», Lausen
 
-Vom 13.08.2002 (Stand 01.04.2007)
+Vom 13.08.2002 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -72,11 +71,14 @@ beschliesst:
 - j. Düngen, Pflügen oder Bepflanzen von Magerwiesen;
 - k. Pflücken, Ausgraben oder Ansiedeln von Pflanzen und Pilzen sowie Sammeln, Fangen, Aussetzen von Tieren ohne Bewilligung;
 - l. Erstellen neuer Wald- und Maschinenwege, sofern diese im Nutzungs- und Pflegeplan nicht enthalten sind;
-- m. Veränderung der Wald-Offenland-Verteilung durch Aufforstungen, Neuanpflanzungen von Bäumen und Sträuchern oder Entfernen von Gehölzen, soweit dies im Nutzungs- und Pflegeplan nicht vorgesehen ist.
+- m. Veränderung der Wald-Offenland-Verteilung durch Aufforstungen, Neuanpflanzungen von Bäumen und Sträuchern oder Entfernen von Gehölzen, soweit dies im Nutzungs- und Pflegeplan nicht vorgesehen ist;
+- n. Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen.
 
 <sup>3</sup> Vorbehalten bleiben sämtliche Eingriffe und Massnahmen gemäss Pflege- und Nutzungsplan. Der Unterhalt bestehender Wald- und Maschinenwege, der Feuerstellen «Obere Grammelgrube» und «Antennenanlage Grossgrammel», der bestehenden Wasserfassungen sowie der Infrastrukturen für Hangentwässerungen bleibt gewährleistet.
 
 <sup>4</sup> Nutzung und Unterhalt der bestehenden, rechtmässig erstellten Kleinbauten im bisherigen Rahmen sowie die Rechte der privaten Grundeigentümer bezüglich Eigengebrauch bleiben gewährleistet. Nutzungen, welche den Zielen des Magerwiesen-Schutzes widersprechen, wie Ackerbau, Rebbau ausserhalb der bestehenden Fläche, Niederstamm-Anlagen und dergleichen, sind nicht erlaubt.
+
+<sup>5</sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. n bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 #### § 4
 
