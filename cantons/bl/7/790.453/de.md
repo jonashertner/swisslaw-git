@@ -3,20 +3,19 @@ canton: BL
 number: "790.453"
 title: "Verordnung über das Naturschutzgebiet «Ramstein-Aleten», Bretzwil und Lauwil"
 language: de
-version: 2015-01-01
-valid_until: 2024-09-27
-version_adopted: 2014-12-16
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2002-01-15
 in_force: 2002-01-30
 url: "https://bl.clex.ch/app/de/texts_of_law/790.453"
-pdf: "https://bl.clex.ch/api/de/versions/1126/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4133/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Ramstein-Aleten», Bretzwil und Lauwil
 
-Vom 15.01.2002 (Stand 01.01.2015)
+Vom 15.01.2002 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -67,7 +66,7 @@ beschliesst:
 - d. Wegwerfen, Ablagern oder Einleiten von Abfällen, Materialien und Flüssigkeiten aller Art;
 - e. Laufen lassen von Hunden;
 - f. Reiten oder Befahren des Gebietes abseits der erlaubten Wege;
-- g. Starten oder Landen für Gleitschirmflüge sowie Modellfliegen;
+- g. Starten oder Landen für Gleitschirmflüge, Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen;
 - h. Entfachen von Feuer ausserhalb der erlaubten Feuerstellen;
 - i. Befahren mit Motorfahrzeugen ohne Berechtigung;
 - j. Verwenden von chemischen Schädlingsbekämpfungs- oder Pflanzenschutzmitteln sowie Ausbringen von Düngemitteln auf den Magerwiesen und -weiden;
@@ -77,6 +76,8 @@ beschliesst:
 <sup>3</sup> Vorbehalten bleiben sämtliche Eingriffe und Massnahmen gemäss Nutz- und Schutzkonzept. Der Unterhalt bestehender Wald- und Maschinenwege sowie die Untersuchung und Restaurierung archäologischer Stätten durch die Kantonsarchäologie bleiben in Absprache mit der kantonalen Naturschutzfachstelle gewährleistet.
 
 <sup>4</sup> Die Rechte der privaten Grundeigentümer bezüglich Eigengebrauch bleiben gewährleistet.
+
+<sup>5</sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. g bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 #### § 4
 
