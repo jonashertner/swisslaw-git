@@ -3,20 +3,19 @@ canton: BL
 number: "790.440"
 title: "Verordnung über das Naturschutzgebiet «Steingraben», Hemmiken"
 language: de
-version: 2007-01-01
-valid_until: 2024-09-27
-version_adopted: 2006-12-19
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2000-08-08
 in_force: 2000-10-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.440"
-pdf: "https://bl.clex.ch/api/de/versions/710/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4069/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Steingraben», Hemmiken
 
-Vom 08.08.2000 (Stand 01.01.2007)
+Vom 08.08.2000 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes vom 20. November 1991[^ingress-1] betreffend den Natur- und Landschaftsschutz, beschliesst:
 
@@ -59,7 +58,7 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes
 
 - a. Bauten, Anlagen, Einrichtungen sowie Boden- und Terrainveränderungen jeglicher Art, sofern diese nicht im Schutz- und Pflegekonzept vorgesehen sind;
 - b. Abbau von Gesteinen und natürlichen Materialen aller Art, soweit dies nicht im Schutz- und Pflegekonzept vorgesehen ist;
-- c. Campieren oder Lagern in Gruppen ausserhalb der bewilligten Stellen, Modellfliegen oder Klettern;
+- c. Campieren oder Lagern in Gruppen ausserhalb der bewilligten Stellen, Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen, Klettern;
 - d. Durchführen von sportlichen Veranstaltungen abseits der erlaubten Wege;
 - e. Wegwerfen, Ablagern oder Einleiten von Abfällen, Materialien und Flüssigkeiten aller Art;
 - f. Entfachen von Feuer ausserhalb der erlaubten Feuerstellen;
@@ -75,6 +74,8 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes
 - a. sämtliche Eingriffe und Massnahmen gemäss Schutz- und Pflegekonzept;
 - b. die forstwirtschaftliche Nutzung des Waldareals gemäss Waldwirtschaftsplan sowie Schutz- und Pflegekonzept;
 - c. die landwirtschaftliche Nutzung des Offenlandes gemäss den bestehenden Bewirtschaftungsvereinbarungen.
+
+<sup>4</sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. c bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 #### § 4
 
