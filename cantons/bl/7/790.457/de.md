@@ -3,20 +3,19 @@ canton: BL
 number: "790.457"
 title: "Verordnung über das Naturschutzgebiet «Widenhölzli», Gemeinde Reigoldswil"
 language: de
-version: 2003-01-13
-valid_until: 2024-09-27
-version_adopted: 2002-12-09
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2002-12-09
 in_force: 2003-01-13
 url: "https://bl.clex.ch/app/de/texts_of_law/790.457"
-pdf: "https://bl.clex.ch/api/de/versions/1166/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4137/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Widenhölzli», Gemeinde Reigoldswil
 
-Vom 09.12.2002 (Stand 13.01.2003)
+Vom 09.12.2002 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -58,6 +57,8 @@ beschliesst:
 <sup>3</sup> Veränderungen im Schutzgebiet, Änderungen der Nutzung sowie das Ansiedeln von Pflanzen und Tieren dürfen nur mit dem Einverständnis und unter Aufsicht der kantonalen Naturschutzfachstelle vorgenommen werden.
 
 <sup>4</sup> Veranstaltungen unterliegen einer generellen Bewilligungspflicht. Bewilligungen können unter Beachtung der Schutzziele erteilt werden, soweit dadurch keine Beeinträchtigung des Naturschutzgebietes entsteht. Das Bewilligungsverfahren richtet sich nach den kantonalen, waldrechtlichen Bestimmungen.
+
+<sup>5</sup> Das Landen mit Helikoptern (ausser in Notfallsituationen) sowie das Befliegen mit Modellflugzeugen oder Drohnen sind verboten. Als Ausnahme von diesem Verbot bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 #### § 4
 
