@@ -3,20 +3,19 @@ canton: BL
 number: "790.530"
 title: "Verordnung über das Naturschutzgebiet «Birshollen», Laufen"
 language: de
-version: 2018-08-01
-valid_until: 2024-09-27
-version_adopted: 2018-06-19
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2018-06-19
 in_force: 2018-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.530"
-pdf: "https://bl.clex.ch/api/de/versions/2250/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4221/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Birshollen», Laufen
 
-Vom 19.06.2018 (Stand 01.08.2018)
+Vom 19.06.2018 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -59,7 +58,7 @@ beschliesst:
 - e. Betreten des Schutzgebiets ohne Berechtigung ausserhalb vorhandener Wege;
 - f. Baden, jegliches Eindringen in den Teich sowie Fischen;
 - g. Campieren sowie unbewilligtes Entfachen von Feuer;
-- h. Befliegen mit Modellflugzeugen oder Drohnen;
+- h. Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen;
 - i. Wegwerfen, Ablagern oder Einleiten von Abfällen, Materialien und Flüssigkeiten aller Art;
 - j. Befahren mit Motorfahrzeugen ohne Berechtigung;
 - k. Verwenden von chemischen Schädlingsbekämpfungs- oder Pflanzenschutzmitteln jeder Art sowie Ausbringen von Düngemitteln;
@@ -69,6 +68,8 @@ beschliesst:
 <sup>3</sup> Vorbehalten bleiben sämtliche Eingriffe und Massnahmen zur Pflege und Aufwertung des Naturschutzgebiets gemäss den Schutzzielen, zur Besucherinformation und -lenkung, zur Gewährleistung der Sicherheit sowie zur Bekämpfung von gebietsfremden und weiteren Problemarten.
 
 <sup>4</sup> Bodeneingriffe und Begehungen zur Dokumentation archäologischer Befunde bleiben in Absprache mit der kantonalen Naturschutzfachstelle gewährleistet.
+
+<sup>4<sup>bis</sup></sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. h bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 <sup>5</sup> Veränderungen im Schutzgebiet, Änderungen der Nutzung sowie das Ansiedeln von Pflanzen und Tieren dürfen nur mit dem Einverständnis und unter Aufsicht der kantonalen Naturschutzfachstelle vorgenommen werden.
 
