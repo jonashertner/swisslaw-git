@@ -3,20 +3,19 @@ canton: BL
 number: "790.528"
 title: "Verordnung über das Naturschutzgebiet «Schafmatt», Oltingen"
 language: de
-version: 2017-10-01
-valid_until: 2024-09-27
-version_adopted: 2017-09-19
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2017-09-19
 in_force: 2017-10-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.528"
-pdf: "https://bl.clex.ch/api/de/versions/3306/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4219/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Schafmatt», Oltingen
 
-Vom 19.09.2017 (Stand 01.10.2017)
+Vom 19.09.2017 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -61,7 +60,7 @@ beschliesst:
 - e. Durchführen von Veranstaltungen jeglicher Art;
 - f. Campieren sowie unbewilligtes Entfachen von Feuer;
 - g. Laufenlassen von Hunden (ganzjährige Hundeleinenpflicht);
-- h. Befliegen mit Modellflugzeugen oder Drohnen;
+- h. Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen;
 - i. Wegwerfen, Ablagern oder Einleiten von Abfällen, Materialien und Flüssigkeiten aller Art;
 - j. Befahren mit Motorfahrzeugen ohne Berechtigung;
 - k. Verwenden von chemischen Schädlingsbekämpfungs- oder Pflanzenschutzmitteln jeder Art sowie Ausbringen von Düngemitteln;
@@ -72,6 +71,8 @@ beschliesst:
 <sup>4</sup> Der Unterhalt und weitere erforderliche Massnahmen im Zusammenhang mit der Gasleitung bleiben unter Beachtung der Schutzziele gewährleistet.
 
 <sup>5</sup> Die Rechte der privaten Grundeigentümer bezüglich Eigengebrauch sowie Bodeneingriffe und Begehungen zur Dokumentation archäologischer Befunde bleiben in Absprache mit der kantonalen Naturschutzfachstelle gewährleistet.
+
+<sup>5<sup>bis</sup></sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. h bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 <sup>6</sup> Veränderungen im Schutzgebiet, Änderungen der Nutzung sowie das Ansiedeln von Pflanzen und Tieren dürfen nur mit dem Einverständnis und unter Aufsicht der kantonalen Naturschutzfachstelle vorgenommen werden.
 
