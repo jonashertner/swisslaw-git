@@ -3,20 +3,19 @@ canton: BL
 number: "790.466"
 title: "Verordnung über das Naturschutzgebiet «Chienberg», Böckten, Gelterkinden, Rickenbach, Sissach und Wintersingen"
 language: de
-version: 2007-01-01
-valid_until: 2024-09-27
-version_adopted: 2006-11-28
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2006-11-28
 in_force: 2007-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.466"
-pdf: "https://bl.clex.ch/api/de/versions/1186/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4146/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Chienberg», Böckten, Gelterkinden, Rickenbach, Sissach und Wintersingen
 
-Vom 28.11.2006 (Stand 01.01.2007)
+Vom 28.11.2006 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -73,9 +72,12 @@ beschliesst:
 - j. Verwenden von chemischen Schädlingsbekämpfungs- oder Pflanzenschutzmitteln oder Ausbringen von Düngemitteln auf Magerwiesen, Magerweiden und Feuchtwiesen;
 - k. Pflücken oder Ausgraben von Pflanzen und Pilzen innerhalb der Sperrgebiete gemäss Konzept Freizeit und Erholung, Ansiedeln von Pflanzen sowie Sammeln, Fangen, Aussetzen oder Stören von Tieren;
 - l. Erstellen neuer Wald- und Maschinenwege, sofern diese im Nutz- und Schutzkonzept nicht enthalten sind;
-- m. Veränderung der Wald-Offenland-Verteilung durch Aufforstungen, Neupflanzungen von Bäumen und Sträuchern oder Entfernen von Gehölzen, soweit dies im Nutz- und Schutzkonzept nicht vorgesehen ist.
+- m. Veränderung der Wald-Offenland-Verteilung durch Aufforstungen, Neupflanzungen von Bäumen und Sträuchern oder Entfernen von Gehölzen, soweit dies im Nutz- und Schutzkonzept nicht vorgesehen ist;
+- n. Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen.
 
 <sup>3</sup> Vorbehalten bleiben sämtliche Eingriffe und Massnahmen gemäss Nutz- und Schutzkonzept sowie zur Bekämpfung von fremdländischen Problempflanzen. Der Unterhalt bestehender Wege bleibt gewährleistet.
+
+<sup>3<sup>bis</sup></sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. n bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 <sup>4</sup> Veränderungen im Schutzgebiet, Änderungen der Nutzung sowie das Ansiedeln von Pflanzen und Tieren dürfen nur mit dem Einverständnis und unter Aufsicht der kantonalen Naturschutzfachstelle vorgenommen werden.
 
@@ -85,7 +87,7 @@ beschliesst:
 
 **Bewilligungen**
 
-<sup>1</sup> Alle Veranstaltungen ab 50 Personen unterliegen der Bewilligungspflicht. Bewilligungen können unter Beachtung der Schutzziele erteilt werden, soweit dadurch keine Beeinträchtigungen des Naturschutzgebietes entstehen. Das Bewilligungsverfahren richtet sich nach den kantonalen, waldrechtlichen Bestimmungen.
+<sup>1</sup> Alle Veranstaltungen mit mehr als 50 Personen unterliegen der Bewilligungspflicht. Bewilligungen können unter Beachtung der Schutzziele erteilt werden, soweit dadurch keine Beeinträchtigungen des Naturschutzgebietes entstehen. Das Bewilligungsverfahren richtet sich nach den kantonalen, waldrechtlichen Bestimmungen.
 
 <sup>2</sup> Für Bewilligungen von Veranstaltungen im Wald sind der Gemeinderat oder, wenn mehrere Einwohnergemeinden betroffen sind, das Forstamt beider Basel zuständig. Für Veranstaltungen im Offenland erteilt der Gemeinderat die Bewilligung im Einverständnis mit der kantonalen Naturschutzfachstelle.
 
