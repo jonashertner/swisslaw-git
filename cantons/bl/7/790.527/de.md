@@ -3,20 +3,19 @@ canton: BL
 number: "790.527"
 title: "Verordnung über das Naturschutzgebiet «Helfenbergrüttenen», Langenbruck"
 language: de
-version: 2016-10-01
-valid_until: 2024-09-27
-version_adopted: 2016-09-06
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2016-09-06
 in_force: 2016-10-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.527"
-pdf: "https://bl.clex.ch/api/de/versions/1607/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4218/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Helfenbergrüttenen», Langenbruck
 
-Vom 06.09.2016 (Stand 01.10.2016)
+Vom 06.09.2016 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -61,7 +60,7 @@ beschliesst:
 - d. Umwandlung der Mähwiesen-Flächen in Dauerweiden ohne Bewilligung;
 - e. Freizeitaktivitäten, welche die gebietsspezifischen Naturwerte gefährden, oder solche mit übermässig starken Immissionen auf das Naturschutzgebiet wie Lärm, grossflächigen Störungen oder Schädigungen von Standorten seltener oder geschützter Arten;
 - f. Durchführen von Veranstaltungen jeglicher Art abseits der Wege;
-- g. Campieren sowie Befliegen mit Modellflugzeugen oder Drohnen;
+- g. Campieren, Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen;
 - h. Wegwerfen, Ablagern oder Einleiten von Abfällen, Materialien und Flüssigkeiten aller Art;
 - i. Befahren mit Motorfahrzeugen ohne Berechtigung;
 - j. Verwenden von chemischen Schädlingsbekämpfungs- oder Pflanzenschutzmitteln sowie Ausbringen von Düngemitteln mit Ausnahme der Vertragsfläche mit Hochstammobstbäumen;
@@ -71,6 +70,8 @@ beschliesst:
 <sup>3</sup> Vorbehalten bleiben sämtliche Eingriffe und Massnahmen zur Pflege und Aufwertung des Naturschutzgebiets gemäss den Schutzzielen, zur Besucherlenkung sowie zur Gewährleistung der Sicherheit und zur Bekämpfung von fremdländischen Problemarten.
 
 <sup>4</sup> Der Unterhalt bestehender Wege sowie der Betrieb und die Zufahrt zum Kugelfang bleiben gewährleistet.
+
+<sup>4<sup>bis</sup></sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. g bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 <sup>5</sup> Veränderungen im Schutzgebiet, Änderungen der Nutzung sowie das Ansiedeln von Pflanzen und Tieren dürfen nur mit dem Einverständnis und unter Aufsicht der kantonalen Naturschutzfachstelle und der Grundeigentümerin vorgenommen werden.
 
