@@ -3,20 +3,19 @@ canton: BL
 number: "790.410"
 title: "Verordnung über das Naturschutzgebiet «Tal», Anwil und Rothenfluh"
 language: de
-version: 2007-05-01
-valid_until: 2024-09-27
-version_adopted: 1991-12-03
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 1991-12-03
 in_force: 1992-03-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.410"
-pdf: "https://bl.clex.ch/api/de/versions/674/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4027/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Tal», Anwil und Rothenfluh
 
-Vom 03.12.1991 (Stand 01.05.2007)
+Vom 03.12.1991 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 9 der Verordnung vom 30. April 1964[^ingress-1] betreffend den Natur- und Heimatschutz, beschliesst:
 
@@ -64,7 +63,7 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 9 der Verordnun
 - a. Bauten, Anlagen und Einrichtungen aller Art;
 - b. Terrainveränderungen, soweit sie nicht zur Erreichung der Schutzziele nötig sind;
 - c. Aufforstungen, Neuanpflanzungen oder Entfernung von Gehölzen, welche den Schutzzielen widersprechen;
-- d. Durchführen von sportlichen Veranstaltungen abseits der erlaubten Wege, Campieren, Modellfliegen oder Klettern;
+- d. Durchführen von sportlichen Veranstaltungen abseits der erlaubten Wege, Campieren, Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen, Klettern;
 - e. Verlassen der Wege, Laufenlassen von Hunden sowie Reiten oder Befahren mit Mountainbikes abseits der erlaubten Wege;
 - f. Verwendung von Schädlingsbekämpfungs- oder Pflanzenschutzmitteln sowie Ausbringen von Düngemitteln auf Feucht- und Magerwiesen sowie an Gewässerufern und Waldrändern;
 - g. Pflücken, Ausgraben oder unbewilligtes Ansiedeln von Pflanzen und Pilzen sowie Sammeln, Fangen, Stören oder unbewilligtes Aussetzen von Tieren;
@@ -76,6 +75,8 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 9 der Verordnun
 <sup>4</sup> Nutzung und Unterhalt der bestehenden Gebäude im bisherigen Rahmen sowie die Rechte der privaten Grundeigentümer bezüglich Eigengebrauch bleiben gewährleistet.
 
 <sup>5</sup> Der Unterhalt bestehender Wald- und Maschinenwege bleibt gewährleistet.
+
+<sup>6</sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. d bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 #### § 4
 
