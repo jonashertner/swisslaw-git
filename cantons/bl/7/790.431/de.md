@@ -3,20 +3,20 @@ canton: BL
 number: "790.431"
 title: "Verordnung über das Naturschutzgebiet «Wasserfalle - Roti Flue», Diegten und Eptingen"
 language: de
-version: 2007-01-01
-valid_until: 2024-09-27
-version_adopted: 2006-12-19
+version: 2024-09-28
+valid_until: 2024-12-05
+version_adopted: 2024-08-27
 adopted: 1999-08-17
 in_force: 1999-10-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.431"
-pdf: "https://bl.clex.ch/api/de/versions/3972/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4049/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Wasserfalle - Roti Flue», Diegten und Eptingen
 
-Vom 17.08.1999 (Stand 01.01.2007)
+Vom 17.08.1999 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -59,7 +59,7 @@ beschliesst:
 <sup>2</sup> Verboten sind insbesondere:
 
 - a. Bauten, Anlagen, Einrichtungen sowie Boden- und Terrainveränderungen jeglicher Art, sofern diese nicht im Nutzungs- und Pflegekonzept vorgesehen sind;
-- b. Campieren, Lagern in Gruppen, Modellfliegen sowie Durchführen von sportlichen Veranstaltungen abseits der erlaubten Wege;
+- b. Campieren, Lagern in Gruppen, Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen, Durchführen von sportlichen Veranstaltungen abseits der erlaubten Wege;
 - c. Verlassen der erlaubten Wege und Klettern ausserhalb der erlaubten Felsbereiche oder während der Sperrzeiten;
 - d. Wegwerfen, Ablagern oder Einleiten von Abfällen, Materialien und Flüssigkeiten aller Art;
 - e. Laufenlassen von Hunden;
@@ -76,6 +76,8 @@ beschliesst:
 <sup>5</sup> Nutzung und Unterhalt des Rastplatzes mit Feuerstelle im Gebiet «Wasserfalle» bleiben im bisherigen Rahmen und unter Beachtung der Schutzziele gewährleistet.
 
 <sup>6</sup> Die Rechte der Gemeinderschaft Witwald bezüglich Eigengebrauch bleiben gewährleistet.
+
+<sup>7</sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. b bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 #### § 4
 
