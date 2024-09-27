@@ -3,20 +3,19 @@ canton: BL
 number: "790.550"
 title: "Verordnung über das Naturschutzgebiet «Bodenmatt», Ormalingen"
 language: de
-version: 1995-11-01
-valid_until: 2024-09-27
-version_adopted: 1995-10-03
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 1995-10-03
 in_force: 1995-11-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.550"
-pdf: "https://bl.clex.ch/api/de/versions/4337/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4342/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Bodenmatt», Ormalingen
 
-Vom 03.10.1995 (Stand 01.11.1995)
+Vom 03.10.1995 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -60,9 +59,12 @@ beschliesst:
 - c. Entfachen von Feuer, Wegwerfen von Abfällen, Campieren, Lagern in Gruppen sowie Durchführen von Wettkämpfen;
 - d. Laufenlassen von Hunden;
 - e. Pflücken, Ausgraben oder Ansiedeln von Pflanzen sowie Sammeln, Fangen und Aussetzen von Tieren ohne Bewilligung;
-- f. Befahren ohne Bewilligung.
+- f. Befahren ohne Bewilligung;
+- g. das Landen mit Helikoptern (ausser in Notfallsituationen) sowie das Befliegen mit Modellflugzeugen oder Drohnen.
 
 <sup>3</sup> Vorbehalten bleiben sämtliche Eingriffe und Massnahmen gemäss Pflegekonzept.
+
+<sup>4</sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. g bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 #### § 4
 
