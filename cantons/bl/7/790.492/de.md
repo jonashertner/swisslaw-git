@@ -3,20 +3,19 @@ canton: BL
 number: "790.492"
 title: "Verordnung über das Naturschutzgebiet «Breiten», Läufelfingen"
 language: de
-version: 2011-04-01
-valid_until: 2024-09-27
-version_adopted: 2011-03-01
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2011-03-01
 in_force: 2011-04-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.492"
-pdf: "https://bl.clex.ch/api/de/versions/741/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4178/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Breiten», Läufelfingen
 
-Vom 01.03.2011 (Stand 01.04.2011)
+Vom 01.03.2011 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes vom 20. November 1991[^ingress-1] betreffend den Natur- und Landschaftsschutz, beschliesst:
 
@@ -60,7 +59,7 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes
 - d. Intensiv-Kulturen oder Gartenbau;
 - e. Aktivitäten, welche die gebietsspezifischen Naturwerte gefährden oder solche mit übermässig starken Immissionen auf das Naturschutzgebiet wie Lärm, grossflächige Störungen oder Schädigungen von Standorten seltener oder geschützter Arten;
 - f. Durchführen von nicht bewilligten Veranstaltungen mit mehr als 50 Personen im Wald;
-- g. Campieren oder Modellfliegen;
+- g. Campieren, Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen;
 - h. Entfachen von Feuer ausserhalb der erlaubten Feuerstellen;
 - i. Wegwerfen, Ablagern oder Einleiten von Abfällen, Materialien und Flüssigkeiten aller Art;
 - j. Radfahren, Biken und Reiten im Offenland sowie abseits von Waldstrassen gemäss § 10 kWaG[^3-1]; Motorfahrzeugverkehr gemäss Artikel 15 Absatz 2 WaG[^3-2];
@@ -70,6 +69,8 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes
 - n. Verändern der Wald-Offenland-Verteilung durch Aufforstungen, Neupflanzungen oder Entfernen von Gehölzen.
 
 <sup>3</sup> Vorbehalten bleiben sämtliche Eingriffe und Massnahmen, soweit sie zur Erreichung der Schutzziele für das Offenland oder gemäss Nutz- und Schutzkonzept für das Waldgebiet notwendig sind, sowie zur Besucherlenkung und zur Bekämpfung von Problemarten und Mäusen. Der Unterhalt bestehender Wege sowie die Rechte des Grundeigentümers bezüglich Eigengebrauchs bleiben gewährleistet.
+
+<sup>3<sup>bis</sup></sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. g bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 <sup>4</sup> Veränderungen im Schutzgebiet, Änderungen der Nutzung sowie das Ansiedeln von Pflanzen und Tieren dürfen nur mit dem Einverständnis und unter Aufsicht der kantonalen Naturschutzfachstelle und des Grundeigentümers vorgenommen werden.
 
@@ -84,7 +85,7 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes
 
 **Bewilligungen**
 
-<sup>1</sup> Alle Veranstaltungen ab 50 Personen im Wald unterliegen der Bewilligungspflicht. Bewilligungen können unter Beachtung der Schutzziele erteilt werden und soweit dadurch keine Beeinträchtigungen des Naturschutzgebiets entstehen. Das Bewilligungsverfahren richtet sich nach den kantonalen waldrechtlichen Bestimmungen.
+<sup>1</sup> Alle Veranstaltungen mit mehr als 50 Personen im Wald unterliegen der Bewilligungspflicht. Bewilligungen können unter Beachtung der Schutzziele erteilt werden, soweit dadurch keine Beeinträchtigungen des Naturschutzgebiets entstehen. Das Bewilligungsverfahren richtet sich nach den kantonalen waldrechtlichen Bestimmungen.
 
 <sup>2</sup> Für Bewilligungen von Veranstaltungen im Wald sind der Gemeinderat oder, wenn mehrere Einwohnergemeinden betroffen sind, das Amt für Wald beider Basel zuständig.
 
