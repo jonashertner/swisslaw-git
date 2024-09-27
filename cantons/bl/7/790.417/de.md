@@ -3,20 +3,19 @@ canton: BL
 number: "790.417"
 title: "Verordnung über das Naturschutzgebiet «Wildenstein», Bubendorf"
 language: de
-version: 2007-01-01
-valid_until: 2024-09-27
-version_adopted: 2006-12-19
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 1997-04-15
 in_force: 1997-05-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.417"
-pdf: "https://bl.clex.ch/api/de/versions/681/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4045/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Wildenstein», Bubendorf
 
-Vom 15.04.1997 (Stand 01.01.2007)
+Vom 15.04.1997 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf §12 des Gesetzes vom 20. November 1991[^ingress-1] betreffend den Natur- und Landschaftsschutz beschliesst:
 
@@ -57,7 +56,7 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf §12 des Gesetzes 
 
 - a. Bauten, Anlagen, Einrichtungen sowie Boden- und Terrainveränderungen, sofern diese nicht im Nutzungs- und Pflegekonzept oder im Waldwirtschaftsplan vorgesehen sind;
 - b. Entfachen von Feuer ausserhalb der eingerichteten Feuerstellen;
-- c. Campieren, Lagern in Gruppen ausserhalb der Rastplätze, Modellfliegen, Klettern sowie Durchführen von sportlichen Veranstaltungen abseits der Wege;
+- c. Campieren, Lagern in Gruppen ausserhalb der Rastplätze, Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen, Klettern sowie Durchführen von sportlichen Veranstaltungen abseits der Wege;
 - d. Wegwerfen, Ablagern oder Einleiten von Abfällen, Materialien und Flüssigkeiten aller Art;
 - e. Verlassen der markierten Wege, Laufenlassen von Hunden, Reiten abseits der Wege sowie Betreten des Eichen-Witwaldes zwischen 1. März und 30. September;
 - f. Befahren ohne Berechtigung;
@@ -73,6 +72,8 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf §12 des Gesetzes 
 - b. die landwirtschaftliche Nutzung des Offenlandes gemäss den bestehenden Bewirtschaftungsvereinbarungen;
 - c. die forstwirtschaftliche Nutzung des Waldareales gemäss Waldwirtschaftsplan sowie Nutzungs- und Pflegekonzept;
 - d. Unterhalt und Instandstellung bestehender Wald- und Maschinenwege.
+
+<sup>4</sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. c bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 #### § 4
 
