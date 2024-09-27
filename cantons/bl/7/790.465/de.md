@@ -3,20 +3,19 @@ canton: BL
 number: "790.465"
 title: "Verordnung über das Naturschutzgebiet «Ermitage-Chilchholz», Arlesheim"
 language: de
-version: 2015-03-01
-valid_until: 2024-09-27
-version_adopted: 2015-02-03
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2006-10-31
 in_force: 2007-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.465"
-pdf: "https://bl.clex.ch/api/de/versions/1145/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4145/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Ermitage-Chilchholz», Arlesheim
 
-Vom 31.10.2006 (Stand 01.03.2015)
+Vom 31.10.2006 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -69,7 +68,7 @@ beschliesst:
 - a. Bauten, Anlagen, Einrichtungen sowie Boden- und Terrainveränderungen jeglicher Art, sofern diese im Parkpflegekonzept, im Nutzungs- und Pflegeplan oder im Nutz- und Schutzkonzept für das Waldnaturschutzgebiet nicht vorgesehen sind;
 - b. Freizeitaktivitäten mit übermässig starken Immissionen auf das Naturschutzgebiet wie Lärm, grossflächigen Störungen oder Schädigungen von Standorten geschützter Arten, oder solche, die gebietsspezifische Naturwerte gefährden;
 - c. Durchführen von nicht bewilligten Veranstaltungen;
-- d. Campieren oder Modellfliegen;
+- d. Campieren, Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen;
 - e. Lagern in Gruppen oder Entfachen von Feuer ausserhalb der bezeichneten Feuerstellen gemäss Konzept Natur, Erholung und Sport;
 - f. Wegwerfen, Ablagern oder Einleiten von Abfällen, Materialien und Flüssigkeiten aller Art;
 - g. Verlassen der erlaubten Wege in den naturschützerisch empfindlichen Sperrgebieten und Wildruhegebieten gemäss Konzept Natur, Erholung und Sport;
@@ -82,6 +81,8 @@ beschliesst:
 - n. Nutzung der Gewässer als Fischaufzuchtgewässer.
 
 <sup>3</sup> Vorbehalten bleiben sämtliche Eingriffe und Massnahmen gemäss Parkpflegekonzept, Pflege- und Nutzungsplan sowie Nutz- und Schutzkonzept für das Waldnaturschutzgebiet.
+
+<sup>3<sup>bis</sup></sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. d bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 <sup>4</sup> Veränderungen im Schutzgebiet, Änderungen der Nutzung sowie das Ansiedeln von Pflanzen und Tieren dürfen nur mit dem Einverständnis und unter Aufsicht der kantonalen Naturschutzfachstelle vorgenommen werden.
 
