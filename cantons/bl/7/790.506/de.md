@@ -3,20 +3,19 @@ canton: BL
 number: "790.506"
 title: "Verordnung über das Naturschutzgebiet «Zwischenflüe-Brunnenstig», Niederdorf und Lampenberg"
 language: de
-version: 2022-12-22
-valid_until: 2024-09-27
-version_adopted: 2022-11-29
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2022-11-29
 in_force: 2022-12-22
 url: "https://bl.clex.ch/app/de/texts_of_law/790.506"
-pdf: "https://bl.clex.ch/api/de/versions/3496/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4197/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Zwischenflüe-Brunnenstig», Niederdorf und Lampenberg
 
-Vom 29.11.2022 (Stand 22.12.2022)
+Vom 29.11.2022 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
