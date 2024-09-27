@@ -3,20 +3,19 @@ canton: BL
 number: "790.521"
 title: "Verordnung über das Naturschutzgebiet «Allschwiler Wald», Allschwil"
 language: de
-version: 2014-02-01
-valid_until: 2024-09-27
-version_adopted: 2014-01-21
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2014-01-21
 in_force: 2014-02-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.521"
-pdf: "https://bl.clex.ch/api/de/versions/1175/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4212/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Allschwiler Wald», Allschwil
 
-Vom 21.01.2014 (Stand 01.02.2014)
+Vom 21.01.2014 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -67,7 +66,7 @@ beschliesst:
 - c. Freizeitaktivitäten mit übermässig starken Immissionen auf Fauna und Flora; übermässige Immissionen liegen vor, wenn Schäden durch frühere, gleichartige Aktivitäten hervorgerufen worden sind oder wenn Schäden nach fachlicher Einschätzung zu erwarten oder nicht auszuschliessen sind;
 - d. Durchführen von nicht bewilligten Veranstaltungen;
 - e. Wegwerfen, Ablagern oder Einleiten von Abfällen, Materialien und Flüssigkeiten aller Art;
-- f. Campieren oder Modellfliegen;
+- f. Campieren, Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen;
 - g. Entfachen von Feuer ausserhalb der erlaubten Feuerstellen;
 - h. Laufenlassen von Hunden abseits der erlaubten Freilaufwege für Hunde;
 - i. Radfahren, Biken und Reiten abseits der erlaubten Wege;
@@ -84,6 +83,8 @@ beschliesst:
 <sup>5</sup> Die Nutzung und der Unterhalt der bestehenden Wege, Freizeit- und Erholungseinrichtungen im «Mülitäli» sowie der Schiessanlage und des Kugelfangs bleiben unter Beachtung der Schutzziele gewährleistet.
 
 <sup>6</sup> Der Unterhalt der befestigten Wege, der Einrichtungen sowie die Signalisation werden durch die Einwohnergemeinde Allschwil unter Beachtung der Sicherheits- und Gefährdungsaspekte besorgt.
+
+<sup>6<sup>bis</sup></sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. f bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 <sup>7</sup> Die Erholungs- und Freizeitnutzungen erfolgen im Rahmen der bestehenden Regelungen der Einwohnergemeinde Allschwil. Für die zum Schutz des Waldes besonderen Lenkungsmassnahmen und -infrastrukturen in den bezeichneten Schwerpunktgebieten Erholung ist die Einwohnergemeinde Allschwil zuständig. Sie koordiniert ihre Zuständigkeit mit den betroffenen kantonalen Fachstellen.
 
