@@ -3,20 +3,19 @@ canton: BL
 number: "790.477"
 title: "Verordnung über das Naturschutzgebiet «Dittinger Weide und Dittinger Wald», Dittingen"
 language: de
-version: 2009-03-01
-valid_until: 2024-09-27
-version_adopted: 2009-01-27
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2009-01-27
 in_force: 2009-03-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.477"
-pdf: "https://bl.clex.ch/api/de/versions/1295/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4157/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Dittinger Weide und Dittinger Wald», Dittingen
 
-Vom 27.01.2009 (Stand 01.03.2009)
+Vom 27.01.2009 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -65,7 +64,7 @@ beschliesst:
 - b. Freizeitaktivitäten, welche die gebietsspezifischen Naturwerte gefährden oder solche mit übermässig starken Immissionen auf das Naturschutzgebiet wie Lärm, grossflächige Störungen oder Schädigungen von Standorten geschützter Arten;
 - c. Durchführen von nicht bewilligten Veranstaltungen im Wald mit mehr als 50 Personen;
 - d. Durchführen von Veranstaltungen auf der Magerweide;
-- e. Campieren, Modellfliegen sowie Klettern ausserhalb der erlaubten Kletterstandorte;
+- e. Campieren, Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen, Klettern ausserhalb der erlaubten Kletterstandorte;
 - f. Entfachen von Feuer ausserhalb der erlaubten Feuerstellen;
 - g. Wegwerfen, Ablagern oder Einleiten von Abfällen, Materialien und Flüssigkeiten aller Art;
 - h. Verlassen der erlaubten Wege auf der Magerweide;
@@ -81,6 +80,8 @@ beschliesst:
 <sup>4</sup> Der Unterhalt bestehender Wege, Bauten und Anlagen sowie die Rechte der Grundeigentümer und Bewirtschafter bezüglich Eigengebrauch bleiben gewährleistet.
 
 <sup>5</sup> Die Durchführung von OL-Veranstaltungen auf der Magerweide kann während des Winterhalbjahres bewilligt werden, sofern keine wertvollen Magerweiden-Bereiche tangiert werden und zum Zeitpunkt des Anlasses eine mindestens 10 cm dicke Schneedecke liegt.
+
+<sup>5<sup>bis</sup></sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. e bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 <sup>6</sup> Veränderungen im Schutzgebiet, Änderungen der Nutzung sowie das Ansiedeln von Pflanzen und Tieren dürfen nur mit dem Einverständnis und unter Aufsicht der kantonalen Naturschutzfachstelle vorgenommen werden.
 
