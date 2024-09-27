@@ -3,20 +3,19 @@ canton: BL
 number: "790.467"
 title: "Verordnung über das Naturschutzgebiet «Farnsberg», Rickenbach und Ormalingen"
 language: de
-version: 2007-01-01
-valid_until: 2024-09-27
-version_adopted: 2006-11-28
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2006-11-28
 in_force: 2007-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.467"
-pdf: "https://bl.clex.ch/api/de/versions/1187/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4147/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Farnsberg», Rickenbach und Ormalingen
 
-Vom 28.11.2006 (Stand 01.01.2007)
+Vom 28.11.2006 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -60,9 +59,12 @@ beschliesst:
 - e. Reiten oder Befahren des Gebietes mit Velos oder Mountainbikes abseits der erlaubten Wege sowie unbewilligtes Befahren mit Motorfahrzeugen;
 - f. Verwenden von chemischen Schädlingsbekämpfungs- oder Pflanzenschutzmitteln sowie Ausbringen von Düngemitteln;
 - g. Pflücken oder Ausgraben von Pflanzen und Pilzen, Ansiedeln von Pflanzen sowie Sammeln, Fangen, Aussetzen oder Stören von Tieren;
-- h. Erstellen neuer Wald- und Maschinenwege, sofern diese im Nutz- und Schutzkonzept nicht enthalten sind.
+- h. Erstellen neuer Wald- und Maschinenwege, sofern diese im Nutz- und Schutzkonzept nicht enthalten sind;
+- i. Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen.
 
 <sup>3</sup> Vorbehalten bleiben sämtliche Eingriffe und Massnahmen gemäss Nutz- und Schutzkonzept sowie zur Bekämpfung fremdländischer Problempflanzen. Der Unterhalt bestehender Wald- und Maschinenwege bleibt gewährleistet.
+
+<sup>3<sup>bis</sup></sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. i bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 <sup>4</sup> Veränderungen im Schutzgebiet, Änderungen der Nutzung sowie das Ansiedeln von Pflanzen und Tieren dürfen nur mit dem Einverständnis und unter Aufsicht der kantonalen Naturschutzfachstelle vorgenommen werden.
 
