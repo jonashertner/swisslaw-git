@@ -3,20 +3,19 @@ canton: BL
 number: "790.497"
 title: "Verordnung über das Naturschutzgebiet «Ziegelei Oberwil», Oberwil"
 language: de
-version: 2011-08-01
-valid_until: 2024-09-27
-version_adopted: 2011-06-28
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2011-06-28
 in_force: 2011-08-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.497"
-pdf: "https://bl.clex.ch/api/de/versions/736/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4183/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Ziegelei Oberwil», Oberwil
 
-Vom 28.06.2011 (Stand 01.08.2011)
+Vom 28.06.2011 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes vom 20. November 1991[^ingress-1] betreffend den Natur- und Landschaftsschutz, beschliesst:
 
@@ -56,11 +55,14 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes
 - d. Wegwerfen, Ablagern oder Einleiten von Abfällen, Materialien und Flüssigkeiten aller Art;
 - e. Unbefugtes Betreten der eingezäunten Bereiche;
 - f. Betreten mit Hunden oder Laufenlassen von Hunden;
-- g. Pflücken, Ausgraben oder unbewilligtes Ansiedeln von Pflanzen sowie Stören und unbewilligtes Sammeln, Fangen oder Aussetzen von Tieren.
+- g. Pflücken, Ausgraben oder unbewilligtes Ansiedeln von Pflanzen sowie Stören und unbewilligtes Sammeln, Fangen oder Aussetzen von Tieren;
+- h. Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen.
 
 <sup>3</sup> Vorbehalten bleiben sämtliche Eingriffe und Massnahmen, welche zur Erreichung der Schutzziele sowie zur Besucherlenkung und zur Bekämpfung von Problemarten erforderlich sind. Der Unterhalt bestehender Wege, Bauten und Anlagen bleibt gewährleistet.
 
 <sup>4</sup> Die gesetzlichen Bestimmungen zum Grundwasserschutz sowie zur erforderlichen Nachsorge der Inertstoffdeponie sind vorrangig zu berücksichtigen. Sämtliche Eingriffe und Massnahmen zum Grundwasserschutz und zur Deponieentwässerung, insbesondere zur Reduzierung, Ableitung und Überwachung des Sickerwassers, bleiben unter Berücksichtigung der Schutzziele gewährleistet.
+
+<sup>4<sup>bis</sup></sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. h bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 <sup>5</sup> Veränderungen im Schutzgebiet, Änderungen der Nutzung sowie das Ansiedeln von Pflanzen und Tieren dürfen nur mit dem Einverständnis und unter Aufsicht der kantonalen Naturschutzfachstelle vorgenommen werden.
 
