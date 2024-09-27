@@ -3,20 +3,19 @@ canton: BL
 number: "790.443"
 title: "Verordnung über das Naturschutzgebiet «Wisenberg», Häfelfingen"
 language: de
-version: 2007-01-01
-valid_until: 2024-09-27
-version_adopted: 2006-12-19
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2000-08-08
 in_force: 2000-10-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.443"
-pdf: "https://bl.clex.ch/api/de/versions/1765/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4073/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Wisenberg», Häfelfingen
 
-Vom 08.08.2000 (Stand 01.01.2007)
+Vom 08.08.2000 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -62,7 +61,7 @@ beschliesst:
 <sup>2</sup> Verboten sind insbesondere:
 
 - a. Bauten, Anlagen, Einrichtungen sowie Boden- und Terrainveränderungen jeglicher Art, sofern diese nicht im Schutz- und Pflegeplan vorgesehen sind;
-- b. Campieren, Lagern in Gruppen ausserhalb der bezeichneten Rastplätze, Modellfliegen oder Klettern;
+- b. Campieren, Lagern in Gruppen ausserhalb der bezeichneten Rastplätze, Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen, Klettern;
 - c. Durchführen von sportlichen Veranstaltungen abseits der erlaubten Wege;
 - d. Wegwerfen, Ablagern oder Einleiten von Abfällen, Materialien und Flüssigkeiten aller Art;
 - e. Entfachen von Feuer ausserhalb der bewilligten Feuerstellen;
@@ -82,6 +81,8 @@ beschliesst:
 - c. die landwirtschaftliche Nutzung des Offenlandes als Magerwiesen gemäss den bestehenden Bewirtschaftungsvereinbarungen.
 
 <sup>4</sup> Der Unterhalt bestehender Wald- und Maschinenwege bleibt gewährleistet.
+
+<sup>5</sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. b bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 #### § 4
 
