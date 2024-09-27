@@ -3,20 +3,19 @@ canton: BL
 number: "790.471"
 title: "Verordnung über das Naturschutzgebiet «Blauenweide», Blauen"
 language: de
-version: 2008-01-01
-valid_until: 2024-09-27
-version_adopted: 2007-12-11
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2007-12-11
 in_force: 2008-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.471"
-pdf: "https://bl.clex.ch/api/de/versions/3302/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4151/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Blauenweide», Blauen
 
-Vom 11.12.2007 (Stand 01.01.2008)
+Vom 11.12.2007 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -63,7 +62,7 @@ beschliesst:
 - d. Freizeitaktivitäten, welche die gebietsspezifischen Naturwerte gefährden, oder solche mit übermässig starken Immissionen auf das Naturschutzgebiet wie Lärm, grossflächigen Störungen oder Schädigungen von Standorten geschützter Arten;
 - e. Verlassen der erlaubten Wege sowie Laufenlassen von Hunden;
 - f. Durchführen von nicht bewilligten Veranstaltungen;
-- g. Campieren oder Modellfliegen;
+- g. Campieren, Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen;
 - h. Entfachen von Feuer ausserhalb der bezeichneten Feuerstellen;
 - i. Wegwerfen, Ablagern oder Einleiten von Abfällen, Materialen und Flüssigkeiten aller Art;
 - j. Reiten oder Befahren des Gebietes mit Velos oder Mountainbikes abseits der erlaubten Wege sowie unbewilligtes Befahren mit Motorfahrzeugen;
@@ -74,6 +73,8 @@ beschliesst:
 - o. Veränderungen der Wald-Offenland-Verteilung durch Aufforstungen, Neupflanzungen von Bäumen und Sträuchern oder Entfernen von Gehölzen, soweit diese im Widerspruch zu den Schutzzielen stehen.
 
 <sup>3</sup> Vorbehalten bleiben sämtliche Eingriffe und Massnahmen, welche der Pflege und Aufwertung des Naturschutzgebiets dienen.
+
+<sup>3<sup>bis</sup></sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. g bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 <sup>4</sup> Veränderungen im Schutzgebiet, Änderungen der Nutzung sowie das Ansiedeln von Pflanzen und Tieren dürfen nur mit dem Einverständnis und unter Aufsicht der kantonalen Naturschutzfachstelle vorgenommen werden.
 
