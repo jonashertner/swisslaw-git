@@ -3,20 +3,20 @@ canton: BL
 number: "790.423"
 title: "Verordnung über das Naturschutzgebiet «Dürrain», Muttenz"
 language: de
-version: 2007-01-01
-valid_until: 2024-09-27
-version_adopted: 2006-12-19
+version: 2024-09-28
+valid_until: 2025-12-01
+version_adopted: 2024-08-27
 adopted: 2025-11-11
 in_force: 2025-12-02
 url: "https://bl.clex.ch/app/de/texts_of_law/790.423"
-pdf: "https://bl.clex.ch/api/de/versions/687/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4032/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Dürrain», Muttenz
 
-Vom 15.12.1998 (Stand 01.01.2007)
+Vom 15.12.1998 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes vom 20. November 1991[^ingress-1] betreffend den Natur- und Landschaftsschutz, beschliesst:
 
@@ -61,9 +61,12 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes
 - g. Verwenden von Schädlingsbekämpfungs- oder Pflanzenschutzmitteln;
 - h. Pflücken, Ausgraben oder Ansiedeln von Pflanzen und Pilzen sowie Sammeln, Fangen, Aussetzen oder Stören von Tieren;
 - i. Erstellen neuer Wald- und Maschinenwege;
-- j. Entfernen von Gehölzen, soweit dies im Nutzungs- und Pflegeplan nicht vorgesehen ist.
+- j. Entfernen von Gehölzen, soweit dies im Nutzungs- und Pflegeplan nicht vorgesehen ist;
+- k. Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen.
 
 <sup>3</sup> Vorbehalten bleiben sämtliche Eingriffe und Massnahmen gemäss Nutzungs- und Pflegekonzept.
+
+<sup>4</sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. k bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 #### § 4
 
