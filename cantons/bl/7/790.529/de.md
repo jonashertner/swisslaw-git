@@ -3,20 +3,19 @@ canton: BL
 number: "790.529"
 title: "Verordnung über das Naturschutzgebiet «Blüemlisalp», Waldenburg"
 language: de
-version: 2018-01-01
-valid_until: 2024-09-27
-version_adopted: 2017-12-12
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2017-12-12
 in_force: 2018-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.529"
-pdf: "https://bl.clex.ch/api/de/versions/3307/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4220/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Blüemlisalp», Waldenburg
 
-Vom 12.12.2017 (Stand 01.01.2018)
+Vom 12.12.2017 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -59,7 +58,7 @@ beschliesst:
 - d. Durchführen von Veranstaltungen jeglicher Art abseits der Waldweidstrasse;
 - e. Campieren sowie unbewilligtes Entfachen von Feuer;
 - f. Laufenlassen von Hunden (ganzjährige Hundeleinenpflicht);
-- g. Befliegen mit Modellflugzeugen oder Drohnen;
+- g. Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen;
 - h. Wegwerfen, Ablagern oder Einleiten von Abfällen, Materialien und Flüssigkeiten aller Art;
 - i. Radfahren und Biken sowie unberechtigtes Befahren mit Motorfahrzeugen abseits der Waldweidstrasse;
 - j. Verwenden von chemischen Schädlingsbekämpfungs- oder Pflanzenschutzmitteln jeder Art sowie Ausbringen von Düngemitteln;
@@ -68,6 +67,8 @@ beschliesst:
 <sup>3</sup> Vorbehalten bleiben sämtliche Eingriffe und Massnahmen zur Pflege und Aufwertung des Naturschutzgebiets gemäss den Schutzzielen, zur Besucherinformation und -lenkung, zur Gewährleistung der Sicherheit sowie zur Bekämpfung von gebietsfremden und weiteren Problemarten.
 
 <sup>4</sup> Weiterhin gewährleistet bleiben unter Beachtung der Schutzziele und in Absprache mit der kantonalen Naturschutzfachstelle die Rechte der privaten Grundeigentümer bezüglich Eigengebrauch, Nutzung und Unterhalt der beiden bestehenden Kleinbauten (Freizeithäuser mit Gartenumgebung) sowie der Grundwasserfassung und Bodeneingriffe zur Dokumentation archäologischer Befunde.
+
+<sup>4<sup>bis</sup></sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. g bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 <sup>5</sup> Veränderungen im Schutzgebiet, Änderungen der Nutzung sowie das Ansiedeln von Pflanzen und Tieren dürfen nur mit dem Einverständnis und unter Aufsicht der kantonalen Naturschutzfachstelle vorgenommen werden.
 
