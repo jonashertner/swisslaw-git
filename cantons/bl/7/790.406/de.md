@@ -3,20 +3,19 @@ canton: BL
 number: "790.406"
 title: Regierungsratsverordnung über den Naturschutzweiher Brunnmatt in Bubendorf
 language: de
-version: 1979-09-18
-valid_until: 2024-09-27
-version_adopted: 1979-09-18
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 1979-09-18
 in_force: 1979-09-18
 url: "https://bl.clex.ch/app/de/texts_of_law/790.406"
-pdf: "https://bl.clex.ch/api/de/versions/670/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4023/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Regierungsratsverordnung über den Naturschutzweiher Brunnmatt in Bubendorf
 
-Vom 18.09.1979 (Stand 18.09.1979)
+Vom 18.09.1979 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 9 der Verordnung vom 30. April 1964[^ingress-1] betreffend den Natur- und Heimatschutz, beschliesst:
 
@@ -45,6 +44,8 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 9 der Verordnun
 **Schutzmassnahmen**
 
 <sup>1</sup> Das Ausgraben, Pflücken und Einbringen von Pflanzen, das Stören, Fangen, Töten und Aussetzen von Tieren ist verboten.
+
+<sup>2</sup> Das Landen mit Helikoptern (ausser in Notfallsituationen) sowie das Befliegen mit Modellflugzeugen oder Drohnen sind verboten. Als Ausnahme von diesem Verbot bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 #### § 5
 
