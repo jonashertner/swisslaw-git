@@ -3,20 +3,19 @@ canton: BL
 number: "790.515"
 title: "Verordnung über das Naturschutzgebiet «Blüttenenchöpfli-Chaselboden», Burg"
 language: de
-version: 2013-01-01
-valid_until: 2024-09-27
-version_adopted: 2012-11-20
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2012-11-20
 in_force: 2013-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.515"
-pdf: "https://bl.clex.ch/api/de/versions/794/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4206/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Blüttenenchöpfli-Chaselboden», Burg
 
-Vom 20.11.2012 (Stand 01.01.2013)
+Vom 20.11.2012 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes vom 20. November 1991[^ingress-1] betreffend den Natur- und Landschaftsschutz, beschliesst:
 
@@ -57,11 +56,14 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes
 - g. Radfahren, Biken und Reiten abseits von Waldstrassen gemäss § 10 kWaG[^3-1] und Motorfahrzeugverkehr gemäss Artikel 15 Absatz 2 WaG[^3-2];
 - h. Verwenden von chemischen Schädlingsbekämpfungs- oder Pflanzenschutzmitteln sowie Ausbringen von Düngemitteln;
 - i. Pflücken, Ausgraben oder unbewilligtes Ansiedeln von Pflanzen sowie Stören und unbewilligtes Sammeln, Fangen oder Aussetzen von Tieren;
-- j. Erstellen neuer Wald-, Maschinen- und Fusswege.
+- j. Erstellen neuer Wald-, Maschinen- und Fusswege;
+- k. Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen.
 
 <sup>3</sup> Vorbehalten bleiben sämtliche Eingriffe und Massnahmen gemäss Nutz- und Schutzkonzept zur Pflege und Aufwertung des Naturschutzgebiets, zur Besucherlenkung sowie zur Bekämpfung von fremdländischen Problemarten.
 
 <sup>4</sup> Nutzung und Unterhalt der bestehenden Wege sowie des Aussichtspunktes beim «Blüttenenchöpfli» bleiben gewährleistet.
+
+<sup>4<sup>bis</sup></sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. k bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 <sup>5</sup> Veränderungen im Schutzgebiet, Änderungen der Nutzung sowie das Ansiedeln von Pflanzen und Tieren dürfen nur mit dem Einverständnis und unter Aufsicht der kantonalen Naturschutzfachstelle, des Amtes für Wald und der Grundeigentümerin vorgenommen werden.
 
@@ -74,7 +76,7 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes
 
 **Bewilligungen**
 
-<sup>1</sup> Alle Veranstaltungen ab 50 Personen abseits von Waldstrassen unterliegen der Bewilligungspflicht. Bewilligungen können unter Beachtung der Schutzziele erteilt werden und soweit dadurch keine Beeinträchtigungen des Naturschutzgebiets entstehen. Das Bewilligungsverfahren richtet sich nach den kantonalen waldrechtlichen Bestimmungen.
+<sup>1</sup> Alle Veranstaltungen mit mehr als 50 Personen abseits von Waldstrassen unterliegen der Bewilligungspflicht. Bewilligungen können unter Beachtung der Schutzziele erteilt werden, soweit dadurch keine Beeinträchtigungen des Naturschutzgebiets entstehen. Das Bewilligungsverfahren richtet sich nach den kantonalen waldrechtlichen Bestimmungen.
 
 <sup>2</sup> Für Bewilligungen von Veranstaltungen im Wald sind der Gemeinderat oder, wenn mehrere Einwohnergemeinden betroffen sind, das Amt für Wald beider Basel zuständig.
 
