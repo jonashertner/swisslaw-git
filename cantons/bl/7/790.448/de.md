@@ -3,20 +3,19 @@ canton: BL
 number: "790.448"
 title: "Verordnung über das Naturschutzgebiet «Wischberg», Ormalingen und Rothenfluh"
 language: de
-version: 2010-04-01
-valid_until: 2024-09-27
-version_adopted: 2010-03-16
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2001-01-23
 in_force: 2001-03-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.448"
-pdf: "https://bl.clex.ch/api/de/versions/723/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4077/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Wischberg», Ormalingen und Rothenfluh
 
-Vom 23.01.2001 (Stand 01.04.2010)
+Vom 23.01.2001 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes vom 20. November 1991[^ingress-1] betreffend den Natur- und Landschaftsschutz, beschliesst:
 
@@ -55,7 +54,7 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes
 <sup>2</sup> Verboten sind insbesondere:
 
 - a. Bauten, Anlagen, Einrichtungen sowie Boden- und Terrainveränderungen jeglicher Art, sofern diese nicht im Nutz- und Schutzkonzept vorgesehen sind;
-- b. Campieren, Lagern in Gruppen oder Modellfliegen;
+- b. Campieren, Lagern in Gruppen, Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen;
 - c. Durchführen von sportlichen Veranstaltungen abseits der erlaubten Wege;
 - d. Wegwerfen, Ablagern oder Einleiten von Abfällen, Materialien und Flüssigkeiten aller Art;
 - e. Verlassen der erlaubten Wege, Laufen lassen von Hunden sowie Reiten oder Befahren mit Mountainbikes abseits der erlaubten Wege;
@@ -75,6 +74,8 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes
 <sup>5</sup> Nutzung und Rekultivierung der Grube «Delleren» bleiben im Rahmen des Abbau-Konzeptes und den rechtskräftigen Bewilligungen gemäss gewährleistet.
 
 <sup>6</sup> Das Schneiden von Buchs-Sträuchern zu Dekorationszwecken bleibt im bisherigen, ortsüblichen Rahmen gewährleistet. Die Bewilligung dazu ist beim Revierförster oder beim Waldchef der Bürgergemeinde einzuholen.
+
+<sup>7</sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. b bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 #### § 4
 
