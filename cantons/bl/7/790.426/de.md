@@ -3,20 +3,20 @@ canton: BL
 number: "790.426"
 title: "Verordnung über das Naturschutzgebiet «Rütihard-Rothallen», Muttenz"
 language: de
-version: 2007-01-01
-valid_until: 2024-09-27
-version_adopted: 2006-12-19
+version: 2024-09-28
+valid_until: 2025-12-01
+version_adopted: 2024-08-27
 adopted: 2025-11-11
 in_force: 2025-12-02
 url: "https://bl.clex.ch/app/de/texts_of_law/790.426"
-pdf: "https://bl.clex.ch/api/de/versions/692/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4029/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Rütihard-Rothallen», Muttenz
 
-Vom 15.12.1998 (Stand 01.01.2007)
+Vom 15.12.1998 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes vom 20. November 1991[^ingress-1] betreffend den Natur- und Landschaftsschutz, beschliesst:
 
@@ -57,20 +57,23 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes
 
 - a. Bauten, Anlagen, Einrichtungen sowie Boden- und Terrainveränderungen jeglicher Art, sofern diese nicht im Nutzungs- und Pflegekonzept vorgesehen sind;
 - b. Campieren, Lagern in Gruppen ausserhalb der bezeichneten Bereiche und Open-Air-Veranstaltungen;
-- c. Durchführen von sportlichen Veranstaltungen abseits der bezeichneten Wege;
+- c. Durchführen von nicht bewilligten Veranstaltungen mit mehr als 50 Personen ausserhalb der Sperrgebiete sowie Durchführen von Veranstaltungen innerhalb der Sperrgebiete gemäss Anhang;
 - d. Wegwerfen, Ablagern oder Einleiten von Abfällen, Materialien und Flüssigkeiten aller Art;
 - e. Entfachen von Feuer ausserhalb der bewilligten Feuerstellen;
 - f. Laufenlassen von Hunden, Reiten sowie Befahren mit Mountainbikes abseits der bezeichneten Wege;
 - g. Verwenden von chemischen Schädlingsbekämpfungs- oder Pflanzenschutzmitteln;
 - h. Pflücken, Ausgraben oder Ansiedeln von Pflanzen und Pilzen sowie Sammeln, Fangen, Aussetzen oder Stören von Tieren;
 - i. Erstellen neuer Wald- und Maschinenwege, sofern diese im Nutzungs- und Pflegekonzept nicht enthalten sind;
-- j. Veränderung der Wald-Offenland-Verteilung durch Aufforstungen, Neuanpflanzungen von Bäumen und Sträuchern oder Entfernen von Gehölzen, soweit dies im Nutzungs- und Pflegeplan nicht vorgesehen ist.
+- j. Veränderung der Wald-Offenland-Verteilung durch Aufforstungen, Neuanpflanzungen von Bäumen und Sträuchern oder Entfernen von Gehölzen, soweit dies im Nutzungs- und Pflegeplan nicht vorgesehen ist;
+- k. Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen.
 
 <sup>3</sup> Vorbehalten bleiben sämtliche Eingriffe und Massnahmen gemäss Nutzungs- und Pflegekonzept.
 
 <sup>4</sup> Der Unterhalt rechtmässig bestehender Wald- und Maschinenwege bleibt gewährleistet.
 
 <sup>5</sup> Traditionelle kommunale Veranstaltungen bleiben im Rahmen der Schutzziele gewährleistet.
+
+<sup>6</sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. k bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 #### § 4
 
