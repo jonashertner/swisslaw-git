@@ -3,20 +3,19 @@ canton: BL
 number: "790.404"
 title: "Verordnung über das Naturschutzgebiet «Andil», Liesberg"
 language: de
-version: 2007-01-01
-valid_until: 2024-09-27
-version_adopted: 2006-12-19
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2000-08-08
 in_force: 2000-10-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.404"
-pdf: "https://bl.clex.ch/api/de/versions/1762/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4021/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Andil», Liesberg
 
-Vom 08.08.2000 (Stand 01.01.2007)
+Vom 08.08.2000 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -60,7 +59,7 @@ beschliesst:
 <sup>2</sup> Verboten sind insbesondere:
 
 - a. Bauten, Anlagen, Einrichtungen sowie Boden- und Terrainveränderungen jeglicher Art, sofern diese nicht im Nutzungs- und Pflegekonzept vorgesehen sind;
-- b. Campieren, Lagern in Gruppen, Modellfliegen oder Klettern;
+- b. Campieren, Lagern in Gruppen, Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen, Klettern;
 - c. Durchführen von sportlichen Veranstaltungen oder Schiessübungen;
 - d. Wegwerfen, Ablagern oder Einleiten von Abfällen, Materialien und Flüssigkeiten aller Art;
 - e. Entfachen von Feuer ausserhalb der erlaubten Feuerstellen;
@@ -77,6 +76,8 @@ beschliesst:
 <sup>4</sup> Die Weiterführung der bestehenden Deponie gemäss den rechtskräftigen Bewilligungen sowie der Unterhalt der bestehenden Wege bleiben gewährleistet.
 
 <sup>5</sup> Nutzung und Unterhalt des bestehenden Gebäudes auf Parzelle Nr. 2799 bleiben im bisherigen Rahmen gewährleistet.
+
+<sup>6</sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. b bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 #### § 4
 
