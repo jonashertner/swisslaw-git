@@ -3,20 +3,19 @@ canton: BL
 number: "790.532"
 title: "Verordnung über das Naturschutzgebiet «Holznacht», Waldenburg und Langenbruck"
 language: de
-version: 2018-10-01
-valid_until: 2024-09-27
-version_adopted: 2018-09-11
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2018-09-11
 in_force: 2018-10-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.532"
-pdf: "https://bl.clex.ch/api/de/versions/2297/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4223/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Holznacht», Waldenburg und Langenbruck
 
-Vom 11.09.2018 (Stand 01.10.2018)
+Vom 11.09.2018 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -62,7 +61,7 @@ beschliesst:
 - c. Freizeitaktivitäten, welche die gebietsspezifischen Naturwerte gefährden, oder solche mit übermässig starken Immissionen auf das Naturschutzgebiet wie Lärm, grossflächigen Störungen oder Schädigungen von Standorten seltener oder geschützter Arten;
 - d. das Durchführen von Veranstaltungen jeglicher Art;
 - e. das Campieren sowie unbewilligtes Entfachen von Feuer;
-- f. dasBefliegen mit Modellflugzeugen oder Drohnen;
+- f. das Landen mit Helikoptern (ausser in Notfallsituationen) sowie das Befliegen mit Modellflugzeugen oder Drohnen;
 - g. das Wegwerfen, Ablagern oder Einleiten von Abfällen, Materialien und Flüssigkeiten aller Art;
 - h. das Radfahren und Biken sowie unberechtigtes Befahren mit Motorfahrzeugen abseits der Hof-Zufahrtsstrassen;
 - i. das Verwenden von chemischen Schädlingsbekämpfungs- oder Pflanzenschutzmitteln jeder Art sowie Ausbringen von Düngemitteln;
@@ -71,6 +70,8 @@ beschliesst:
 <sup>3</sup> Vorbehalten bleiben sämtliche Eingriffe und Massnahmen zur Pflege und Aufwertung des Naturschutzgebiets gemäss den Schutzzielen, zur Gewährleistung der Sicherheit sowie zur Bekämpfung von Problemarten.
 
 <sup>4</sup> Weiterhin gewährleistet bleiben unter Beachtung der Schutzziele und in Absprache mit der kantonalen Naturschutzfachstelle die Rechte der privaten Grundeigentümer bezüglich Eigengebrauch, insbesondere die Durchführung der 1.-August-Feier, Nutzung und Unterhalt der beiden benachbarten Gebäude als Ferienhäuser, der bestehenden Wege, der bestehenden und allenfalls neuer Grundwasserfassungen sowie Bodeneingriffe zur Dokumentation archäologischer Befunde.
+
+<sup>4<sup>bis</sup></sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. f bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 <sup>5</sup> Veränderungen im Schutzgebiet, Änderungen der Nutzung sowie das Ansiedeln von Pflanzen und Tieren dürfen nur mit dem Einverständnis und unter Aufsicht der kantonalen Naturschutzfachstelle vorgenommen werden.
 
