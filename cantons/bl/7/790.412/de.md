@@ -3,20 +3,19 @@ canton: BL
 number: "790.412"
 title: "Verordnung über das Naturschutzgebiet «Steingruebe», Wittinsburg"
 language: de
-version: 1994-02-01
-valid_until: 2024-09-27
-version_adopted: 1993-12-21
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 1993-12-21
 in_force: 1994-02-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.412"
-pdf: "https://bl.clex.ch/api/de/versions/676/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4040/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Steingruebe», Wittinsburg
 
-Vom 21.12.1993 (Stand 01.02.1994)
+Vom 21.12.1993 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes vom 20. November 1991[^ingress-1] betreffend den Natur- und Landschaftsschutz, beschliesst:
 
@@ -60,9 +59,12 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes
 - c. Entfachen von Feuer, Wegwerfen von Abfällen, Campieren, Lagern in Gruppen sowie Durchführen von Wettkämpfen;
 - d. Laufenlassen von Hunden;
 - e. Befahren ohne Berechtigung;
-- f. Pflücken, Ausgraben oder Ansiedeln von Pflanzen sowie Sammeln, Fangen und Aussetzen von Tieren ohne Bewilligung.
+- f. Pflücken, Ausgraben oder Ansiedeln von Pflanzen sowie Sammeln, Fangen und Aussetzen von Tieren ohne Bewilligung;
+- g. Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen.
 
 <sup>3</sup> Vorbehalten bleiben sämtliche Eingriffe und Massnahmen gemäss Pflegekonzept.
+
+<sup>4</sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. g bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 #### § 4
 
