@@ -3,20 +3,19 @@ canton: BL
 number: "790.526"
 title: "Verordnung über das Naturschutzgebiet «Homberg», Läufelfingen und Buckten"
 language: de
-version: 2015-03-01
-valid_until: 2024-09-27
-version_adopted: 2015-02-03
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2015-02-03
 in_force: 2015-03-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.526"
-pdf: "https://bl.clex.ch/api/de/versions/1146/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4217/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Homberg», Läufelfingen und Buckten
 
-Vom 03.02.2015 (Stand 01.03.2015)
+Vom 03.02.2015 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -70,11 +69,14 @@ beschliesst:
 - i. Radfahren, Biken und Reiten abseits von Waldstrassen und erlaubten Routen gemäss § 10 kWaG[^3-1] sowie Motorfahrzeugverkehr gemäss Artikel 15 Absatz 2 WaG[^3-2];
 - j. Verwenden von chemischen Schädlingsbekämpfungs- oder Pflanzenschutzmitteln sowie Ausbringen von Düngemitteln;
 - k. Pflücken, Ausgraben oder unbewilligtes Ansiedeln von Pflanzen sowie Stören und unbewilligtes Sammeln, Fangen oder Aussetzen von Tieren;
-- l. Erstellen neuer Wald-, Maschinen- und Fusswege.
+- l. Erstellen neuer Wald-, Maschinen- und Fusswege;
+- m. Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen.
 
 <sup>3</sup> Vorbehalten bleiben sämtliche Eingriffe und Massnahmen gemäss Nutz- und Schutzkonzept zur Pflege und Aufwertung des Naturschutzgebiets, zur Besucherlenkung sowie zur Bekämpfung von fremdländischen Problemarten.
 
 <sup>4</sup> Nutzung und Unterhalt bestehender Wege und Rastplätze bleiben gewährleistet. Auf Parzelle Nr. 430 bleiben die Nutzung der Durchfahrtswege im Waldareal für landwirtschaftliche Fahrzeuge sowie die Bewirtschaftung der angrenzenden landwirtschaftlichen Nutzfläche gewährleistet.
+
+<sup>4<sup>bis</sup></sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. m bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 <sup>5</sup> Veränderungen im Schutzgebiet, Änderungen der Nutzung sowie das Ansiedeln von Pflanzen und Tieren dürfen nur mit dem Einverständnis und unter Aufsicht der kantonalen Naturschutzfachstelle, des Amtes für Wald beider Basel und der Grundeigentümerin vorgenommen werden.
 
@@ -87,7 +89,7 @@ beschliesst:
 
 **Bewilligungen**
 
-<sup>1</sup> Alle Veranstaltungen im Wald ab 50 Personen unterliegen der Bewilligungspflicht. Bewilligungen können unter Beachtung der Schutzziele erteilt werden, soweit dadurch keine Beeinträchtigungen des Naturschutzgebiets entstehen. Das Bewilligungsverfahren richtet sich nach den kantonalen, waldrechtlichen Bestimmungen.
+<sup>1</sup> Alle Veranstaltungen im Wald mit mehr als 50 Personen unterliegen der Bewilligungspflicht. Bewilligungen können unter Beachtung der Schutzziele erteilt werden, soweit dadurch keine Beeinträchtigungen des Naturschutzgebiets entstehen. Das Bewilligungsverfahren richtet sich nach den kantonalen, waldrechtlichen Bestimmungen.
 
 <sup>2</sup> Für Bewilligungen von Veranstaltungen im Wald sind der Gemeinderat oder, wenn mehrere Einwohnergemeinden betroffen sind, das Amt für Wald beider Basel zuständig.
 
