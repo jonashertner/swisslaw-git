@@ -3,20 +3,19 @@ canton: BL
 number: "790.516"
 title: "Verordnung über das Naturschutzgebiet «Bilsteinflue-Nünbrunnen», Langenbruck und Waldenburg"
 language: de
-version: 2013-01-01
-valid_until: 2024-09-27
-version_adopted: 2012-12-11
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2012-12-11
 in_force: 2013-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.516"
-pdf: "https://bl.clex.ch/api/de/versions/795/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4207/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Bilsteinflue-Nünbrunnen», Langenbruck und Waldenburg
 
-Vom 11.12.2012 (Stand 01.01.2013)
+Vom 11.12.2012 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes vom 20. November 1991[^ingress-1] betreffend den Natur- und Landschaftsschutz, beschliesst:
 
@@ -60,7 +59,7 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes
 - b. Freizeitaktivitäten, welche die gebietsspezifischen Naturwerte gefährden oder solche mit übermässig starken Immissionen auf das Naturschutzgebiet wie Lärm, grossflächige Störungen oder Schädigungen von Standorten seltener oder geschützter Arten;
 - c. Durchführen von nicht bewilligten Veranstaltungen mit mehr als 50 Personen im Wald;
 - d. Durchführen von Veranstaltungen in der Naturwaldfläche;
-- e. Campieren oder Modellfliegen;
+- e. Campieren, Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen;
 - f. Entfachen von Feuer ausserhalb der erlaubten Feuerstellen;
 - g. Wegwerfen, Ablagern oder Einleiten von Abfällen, Materialien und Flüssigkeiten aller Art;
 - h. Laufenlassen von Hunden (ganzjährige Hundeleinenpflicht);
@@ -74,6 +73,8 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes
 
 <sup>4</sup> Nutzung und Unterhalt der bestehenden Wege, Bauten und Anlagen im bisherigen Rahmen sowie die Rechte der Grundeigentümer bezüglich Eigengebrauchs bleiben gewährleistet.
 
+<sup>4<sup>bis</sup></sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. e bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
+
 <sup>5</sup> Veränderungen im Schutzgebiet, Änderungen der Nutzung sowie das Ansiedeln von Pflanzen und Tieren dürfen nur mit dem Einverständnis und unter Aufsicht der kantonalen Naturschutzfachstelle, des Amtes für Wald und der Grundeigentümerin vorgenommen werden.
 
 <sup>6</sup> Bodeneingriffe und Begehungen zur Dokumentation archäologischer Befunde sind in Absprache mit der kantonalen Naturschutzfachstelle gewährleistet.
@@ -85,7 +86,7 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes
 
 **Bewilligungen**
 
-<sup>1</sup> Alle Veranstaltungen im Wald ab 50 Personen unterliegen der Bewilligungspflicht. Bewilligungen können unter Beachtung der Schutzziele erteilt werden und soweit dadurch keine Beeinträchtigungen des Naturschutzgebiets entstehen. Das Bewilligungsverfahren richtet sich nach den kantonalen waldrechtlichen Bestimmungen.
+<sup>1</sup> Alle Veranstaltungen mit mehr als 50 Personen im Wald unterliegen der Bewilligungspflicht. Bewilligungen können unter Beachtung der Schutzziele erteilt werden, soweit dadurch keine Beeinträchtigungen des Naturschutzgebiets entstehen. Das Bewilligungsverfahren richtet sich nach den kantonalen waldrechtlichen Bestimmungen.
 
 <sup>2</sup> Für Bewilligungen von Veranstaltungen im Wald sind der Gemeinderat oder, wenn mehrere Einwohnergemeinden betroffen sind, das Amt für Wald beider Basel zuständig.
 
