@@ -3,20 +3,19 @@ canton: BL
 number: "790.409"
 title: Regierungsratsverordnung über das Naturschutzgebiet Herzogenmatt in Binningen
 language: de
-version: 1981-02-17
-valid_until: 2024-09-27
-version_adopted: 1981-02-17
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 1981-02-17
 in_force: 1981-02-17
 url: "https://bl.clex.ch/app/de/texts_of_law/790.409"
-pdf: "https://bl.clex.ch/api/de/versions/673/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4026/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Regierungsratsverordnung über das Naturschutzgebiet Herzogenmatt in Binningen
 
-Vom 17.02.1981 (Stand 17.02.1981)
+Vom 17.02.1981 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 9 der Verordnung vom 30. April 1964[^ingress-1] betreffend den Natur- und Heimatschutz, beschliesst:
 
@@ -33,6 +32,8 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 9 der Verordnun
 #### § 3
 
 <sup>1</sup> Alle das Schutzziel beeinträchtigenden Massnahmen sind zu unterlassen, insbesondere das Pflücken, Ausgraben und Einbringen von Pflanzen sowie das Stören, Fangen, Töten und Aussetzen von Tieren.
+
+<sup>2</sup> Das Landen mit Helikoptern (ausser in Notfallsituationen) sowie das Befliegen mit Modellflugzeugen oder Drohnen sind verboten. Als Ausnahme von diesem Verbot bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 #### § 4
 
