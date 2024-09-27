@@ -3,20 +3,20 @@ canton: BL
 number: "790.415"
 title: "Verordnung über das Naturschutzgebiet «Schanz-Walten», Eptingen und Diegten"
 language: de
-version: 1999-05-01
-valid_until: 2024-09-27
-version_adopted: 1999-03-30
+version: 2024-09-28
+valid_until: 2025-09-09
+version_adopted: 2024-08-27
 adopted: 2025-08-19
 in_force: 2025-09-10
 url: "https://bl.clex.ch/app/de/texts_of_law/790.415"
-pdf: "https://bl.clex.ch/api/de/versions/679/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4043/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Schanz-Walten», Eptingen und Diegten
 
-Vom 09.01.1996 (Stand 01.05.1999)
+Vom 09.01.1996 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes vom 20. November 1991[^ingress-1] betreffend den Natur- und Landschaftsschutz, beschliesst:
 
@@ -62,13 +62,16 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes
 - g. Pflücken, Ausgraben oder Ansiedeln von Pflanzen sowie Sammeln, Fangen und Aussetzen von Tieren ohne Bewilligung;
 - h. Ausbringen von Düngemitteln sowie Verwenden von Schädlingsbekämpfungsmitteln und anderen grundwassergefährdeten Stoffen;
 - i. Erstellen neuer Wald- und Rückewege;
-- j. Veränderung der Wald-Offenland-Verteilung durch Aufforstungen, Neuanpflanzungen von Bäumen und Sträuchern oder Entfernen von Gehölzen, wenn dies im Nutzungs- und Pflegeplan nicht vorgesehen ist.
+- j. Veränderung der Wald-Offenland-Verteilung durch Aufforstungen, Neuanpflanzungen von Bäumen und Sträuchern oder Entfernen von Gehölzen, wenn dies im Nutzungs- und Pflegeplan nicht vorgesehen ist;
+- k. Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen.
 
 <sup>3</sup> Vorbehalten bleiben sämtliche Eingriffe und Massnahmen gemäss Pflege- und Nutzungsplan sowie im Zusammenhang mit der Grundwassernutzung.
 
 <sup>4</sup> Die Nutzung des unteren Teiles von Parzelle Nr. 1564 als Zufahrt und Installationsplatz bei Sanierungsarbeiten an der Autobahn N2 sowie der Leitungsunterhalt bleiben gewährleistet.
 
 <sup>5</sup> Die Rechte der Gemeinderschaft Witwald bezüglich Eigengebrauch bleiben gewährleistet
+
+<sup>6</sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. k bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 #### § 4
 
