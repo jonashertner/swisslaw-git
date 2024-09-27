@@ -3,20 +3,19 @@ canton: BL
 number: "790.536"
 title: "Verordnung über das Naturschutzgebiet «Ramschberg-Zettel», Arisdorf und Füllinsdorf"
 language: de
-version: 2021-12-01
-valid_until: 2024-09-27
-version_adopted: 2021-11-02
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2021-11-02
 in_force: 2021-12-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.536"
-pdf: "https://bl.clex.ch/api/de/versions/3126/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4227/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Ramschberg-Zettel», Arisdorf und Füllinsdorf
 
-Vom 02.11.2021 (Stand 01.12.2021)
+Vom 02.11.2021 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -61,7 +60,7 @@ beschliesst:
 - d. das Durchführen von nicht bewilligten Veranstaltungen mit mehr als 50 Personen;
 - e. das Verlassen der Wege im Bereich der Altholzinsel;
 - f. das Campieren, Lagern in Gruppen sowie das Entfachen von Feuer ausserhalb der erlaubten Feuerstellen;
-- g. das Befliegen mit Modellflugzeugen oder Drohnen;
+- g. das Landen mit Helikoptern (ausser in Notfallsituationen) sowie das Befliegen mit Modellflugzeugen oder Drohnen;
 - h. das Wegwerfen, Ablagern oder Einleiten von Abfällen, Materialien und Flüssigkeiten aller Art;
 - i. das Laufenlassen von Hunden (ganzjährige Hundeleinenpflicht);
 - j. das Radfahren, Biken und Reiten abseits von Waldstrassen gemäss § 10 kWaG[^3-1] sowie Motorfahrzeugverkehr ausser zu forstlichen Zwecken gemäss Art. 15 WaG[^3-2];
@@ -74,6 +73,8 @@ beschliesst:
 <sup>3</sup> Vorbehalten bleiben sämtliche Eingriffe und Massnahmen zur Pflege und Aufwertung des Naturschutzgebiets gemäss den Schutzzielen, zur Gewährleistung der Sicherheit sowie zur Bekämpfung von Problemarten.
 
 <sup>4</sup> Nutzung und Unterhalt der bestehenden Wege, Bauten und Anlagen bleiben unter Beachtung der Schutzziele im bisherigen Rahmen gewährleistet. Die Rechte der Grundeigentümerschaft bezüglich Eigengebrauchs bleiben unter Beachtung der Schutzziele im bisherigen Rahmen gewährleistet.
+
+<sup>4<sup>bis</sup></sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 1 Bst. g bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 <sup>5</sup> Veränderungen im Schutzgebiet, Änderungen der Nutzung sowie das Ansiedeln von Pflanzen und Tieren dürfen nur mit dem Einverständnis und unter Aufsicht der kantonalen Naturschutzfachstelle, des Amts für Wald beider Basel und der Grundeigentümerschaft vorgenommen werden.
 
