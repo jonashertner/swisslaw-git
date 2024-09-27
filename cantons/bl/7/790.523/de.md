@@ -3,20 +3,19 @@ canton: BL
 number: "790.523"
 title: "Verordnung über das Naturschutzgebiet «Harzflue», Bennwil"
 language: de
-version: 2014-05-01
-valid_until: 2024-09-27
-version_adopted: 2014-04-08
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2014-04-08
 in_force: 2014-05-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.523"
-pdf: "https://bl.clex.ch/api/de/versions/1851/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4214/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Harzflue», Bennwil
 
-Vom 08.04.2014 (Stand 01.05.2014)
+Vom 08.04.2014 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -71,11 +70,14 @@ beschliesst:
 - i. Radfahren, Biken und Reiten abseits von Waldstrassen gemäss § 10 kWaG[^3-1] und Motorfahrzeugverkehr gemäss Art. 15 Absatz 2 WaG[^3-2];
 - j. Verwenden von chemischen Schädlingsbekämpfungs- oder Pflanzenschutzmitteln sowie Ausbringen von Düngemitteln;
 - k. Pflücken, Ausgraben oder unbewilligtes Ansiedeln von Pflanzen sowie Stören und unbewilligtes Sammeln, Fangen oder Aussetzen von Tieren;
-- l. Erstellen neuer Wald-, Maschinen- und Fusswege.
+- l. Erstellen neuer Wald-, Maschinen- und Fusswege;
+- m. Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen.
 
 <sup>3</sup> Vorbehalten bleiben sämtliche Eingriffe und Massnahmen gemäss Nutz- und Schutzkonzept zur Pflege und Aufwertung des Naturschutzgebiets, zur Besucherlenkung sowie zur Bekämpfung von fremdländischen Problemarten.
 
 <sup>4</sup> Nutzung und Unterhalt bestehender Wege und des Rastplatzes bleiben gewährleistet.
+
+<sup>4<sup>bis</sup></sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. m bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 <sup>5</sup> Veränderungen im Schutzgebiet, Änderungen der Nutzung sowie das Ansiedeln von Pflanzen und Tieren dürfen nur mit dem Einverständnis und unter Aufsicht der kantonalen Naturschutzfachstelle, des Amtes für Wald und der Grundeigentümerin vorgenommen werden.
 
@@ -88,7 +90,7 @@ beschliesst:
 
 **Bewilligungen**
 
-<sup>1</sup> Alle Veranstaltungen auf der Magerwiese sowie Veranstaltungen im Wald ab 50 Personen unterliegen der Bewilligungspflicht. Bewilligungen können unter Beachtung der Schutzziele erteilt werden, soweit dadurch keine Beeinträchtigungen des Naturschutzgebiets entstehen. Das Bewilligungsverfahren richtet sich nach den kantonalen waldrechtlichen Bestimmungen.
+<sup>1</sup> Alle Veranstaltungen auf der Magerwiese sowie Veranstaltungen im Wald mit mehr als 50 Personen unterliegen der Bewilligungspflicht. Bewilligungen können unter Beachtung der Schutzziele erteilt werden, soweit dadurch keine Beeinträchtigungen des Naturschutzgebiets entstehen. Das Bewilligungsverfahren richtet sich nach den kantonalen waldrechtlichen Bestimmungen.
 
 <sup>2</sup> Für Bewilligungen von Veranstaltungen im Wald sind der Gemeinderat oder, wenn mehrere Einwohnergemeinden betroffen sind, das Amt für Wald beider Basel zuständig. Für Veranstaltungen im Offenland erteilt der Gemeinderat die Bewilligung im Einverständnis mit der kantonalen Naturschutzfachstelle.
 
