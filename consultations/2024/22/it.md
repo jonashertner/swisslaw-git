@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Legge federale sullo scambio automatico internazionale di informazioni concernente i dati salariali (LSADS)
 document: Progetto posto in consultazione
 language: it

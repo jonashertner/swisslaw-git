@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Loi fédérale sur l’échange international automatique de renseignements concernant les données salariales (LEADS)
 document: Projet mis en consultation
 language: fr

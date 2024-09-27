@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Bundesgesetz über den internationalen automatischen Informationsaustausch betreffend Lohndaten (AIALG)
 document: Vernehmlassungsvorlage
 language: de
