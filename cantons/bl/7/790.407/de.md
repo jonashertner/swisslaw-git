@@ -3,20 +3,20 @@ canton: BL
 number: "790.407"
 title: Regierungsratsverordnung über 9 Naturschutzgebiete in Bretzwil
 language: de
-version: 1998-08-01
-valid_until: 2024-09-27
-version_adopted: 1998-06-16
+version: 2024-09-28
+valid_until: 2025-01-22
+version_adopted: 2024-08-27
 adopted: 1979-09-18
 in_force: 1979-09-18
 url: "https://bl.clex.ch/app/de/texts_of_law/790.407"
-pdf: "https://bl.clex.ch/api/de/versions/671/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4024/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Regierungsratsverordnung über 9 Naturschutzgebiete in Bretzwil
 
-Vom 18.09.1979 (Stand 01.08.1998)
+Vom 18.09.1979 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 9 der Verordnung vom 30. April 1964[^ingress-1] betreffend den Natur- und Heimatschutz, beschliesst:
 
@@ -51,6 +51,8 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 9 der Verordnun
 <sup>1</sup> Schutzmassnahmen können im Einvernehmen mit dem Eigentümer und dem Amt für Naturschutz und Denkmalpflege getroffen werden.
 
 <sup>2</sup> Alle das Schutzziel beeinträchtigenden Massnahmen sind zu unterlassen, insbesondere die unbesonnene Verwendung von chemischen Schädlingsbekämpfungsmitteln und Kunstdüngern.
+
+<sup>3</sup> Das Landen mit Helikoptern (ausser in Notfallsituationen) sowie das Befliegen mit Modellflugzeugen oder Drohnen sind verboten. Als Ausnahme von diesem Verbot bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 #### § 4
 
