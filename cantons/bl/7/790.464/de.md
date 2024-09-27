@@ -3,20 +3,19 @@ canton: BL
 number: "790.464"
 title: "Verordnung über das Naturschutzgebiet «Schleipfet», Gemeinde Oltingen"
 language: de
-version: 2005-05-01
-valid_until: 2024-09-27
-version_adopted: 2005-03-15
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2005-03-15
 in_force: 2005-05-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.464"
-pdf: "https://bl.clex.ch/api/de/versions/3291/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4144/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Schleipfet», Gemeinde Oltingen
 
-Vom 15.03.2005 (Stand 01.05.2005)
+Vom 15.03.2005 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -59,6 +58,8 @@ beschliesst:
 <sup>3</sup> Veränderungen im Schutzgebiet, Änderungen der Nutzung sowie das Ansiedeln von Pflanzen und Tieren dürfen nur mit dem Einverständnis und unter Aufsicht der kantonalen Naturschutzfachstelle vorgenommen werden.
 
 <sup>4</sup> Änderungen der Bewirtschaftungsvereinbarung sind möglich, soweit diese nicht in Widerspruch zu den Schutzzielen stehen, wie z. B. eine im Vergleich zur Bewirtschaftungsvereinbarung 2004 geringfügige Ausdehnung der Fromentalwiese zulasten der Magerwiese.
+
+<sup>5</sup> Das Landen mit Helikoptern (ausser in Notfallsituationen) sowie das Befliegen mit Modellflugzeugen oder Drohnen sind verboten. Als Ausnahme von diesem Verbot bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 #### § 4
 
