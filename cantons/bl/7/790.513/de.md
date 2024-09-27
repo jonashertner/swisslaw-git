@@ -3,20 +3,19 @@ canton: BL
 number: "790.513"
 title: "Verordnung über das Naturschutzgebiet «Hüttenboden», Laufen"
 language: de
-version: 2012-10-01
-valid_until: 2024-09-27
-version_adopted: 2012-08-21
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2012-08-21
 in_force: 2012-10-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.513"
-pdf: "https://bl.clex.ch/api/de/versions/733/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4204/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Hüttenboden», Laufen
 
-Vom 21.08.2012 (Stand 01.10.2012)
+Vom 21.08.2012 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes vom 20. November 1991[^ingress-1] betreffend den Natur- und Landschaftsschutz, beschliesst:
 
@@ -57,7 +56,10 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes
 - g. Radfahren, Biken und Reiten abseits von Waldstrassen gemäss § 10 kWaG[^3-1] und Motorfahrzeugverkehr gemäss Artikel 15 Absatz 2 WaG[^3-2];
 - h. Verwenden von chemischen Schädlingsbekämpfungs- oder Pflanzenschutzmitteln sowie Ausbringen von Düngemitteln;
 - i. Pflücken, Ausgraben oder unbewilligtes Ansiedeln von Pflanzen sowie Stören und unbewilligtes Sammeln, Fangen oder Aussetzen von Tieren;
-- j. Erstellen neuer Wald-, Maschinen- und Fusswege.
+- j. Erstellen neuer Wald-, Maschinen- und Fusswege;
+- k. Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen.
+
+<sup>3</sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. k bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 [^3-1]: GS 33.486, SGS 570
 [^3-2]: SR 921.0
@@ -66,7 +68,7 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes
 
 **Bewilligungen**
 
-<sup>1</sup> Alle Veranstaltungen ab 50 Personen unterliegen der Bewilligungspflicht. Bewilligungen können unter Beachtung der Schutzziele erteilt werden und soweit dadurch keine Beeinträchtigungen des Naturschutzgebiets entstehen. Das Bewilligungsverfahren richtet sich nach den kantonalen waldrechtlichen Bestimmungen.
+<sup>1</sup> Alle Veranstaltungen mit mehr als 50 Personen unterliegen der Bewilligungspflicht. Bewilligungen können unter Beachtung der Schutzziele erteilt werden, soweit dadurch keine Beeinträchtigungen des Naturschutzgebiets entstehen. Das Bewilligungsverfahren richtet sich nach den kantonalen waldrechtlichen Bestimmungen.
 
 <sup>2</sup> Für Bewilligungen von Veranstaltungen im Wald sind der Gemeinderat oder, wenn mehrere Einwohnergemeinden betroffen sind, das Amt für Wald beider Basel zuständig.
 
