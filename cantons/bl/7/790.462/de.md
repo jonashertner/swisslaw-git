@@ -3,20 +3,19 @@ canton: BL
 number: "790.462"
 title: "Verordnung über das Naturschutzgebiet «Bürtenflue-Ängiberg», Lauwil und Reigoldswil"
 language: de
-version: 2003-01-13
-valid_until: 2024-09-27
-version_adopted: 2002-12-09
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2002-12-09
 in_force: 2003-01-13
 url: "https://bl.clex.ch/app/de/texts_of_law/790.462"
-pdf: "https://bl.clex.ch/api/de/versions/1178/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4142/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Bürtenflue-Ängiberg», Lauwil und Reigoldswil
 
-Vom 09.12.2002 (Stand 13.01.2003)
+Vom 09.12.2002 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -30,11 +29,11 @@ beschliesst:
 
 **Schutzgebiet**
 
-<sup>1</sup> Das Gebiet «Bürtenflue-Ängiberg», bestehend aus den Parzellen Nr. 324 und 399 sowie einer Teilfläche von Parzelle Nr. 314, Gemeinde Lauwil, und einer Teilfläche von Parzelle Nr. 176, Gemeinde Reigoldswil, wird als Objekt von regionaler Bedeutung in das Inventar der geschützten Naturobjekte des Kantons Basel-Landschaft aufgenommen.
+<sup>1</sup> Das Naturschutzgebiet «Bürtenflue-Ängiberg», Gemeinden Lauwil und Reigoldswil, durch Regierungsratsbeschluss als Objekt von regionaler Bedeutung in das Inventar der geschützten Naturobjekte des Kantons Basel-Landschaft aufgenommen, besteht aus den Parzellen Nr. 399 und 553 und Teilflächen der Parzellen Nr. 263, 314, 324 und 398, alle im Grundbuch Lauwil, sowie einer Teilfläche der Parzelle Nr. 176, im Grundbuch Reigoldswil.
 
-<sup>2</sup> Der Perimeter des Naturschutzgebietes ist in einem Plan eingetragen, welcher bei der kantonalen Naturschutzfachstelle eingesehen werden kann.
+<sup>2</sup> Der Perimeter des Naturschutzgebiets ist in einem Plan eingetragen, welcher einen integralen Bestandteil dieser Verordnung bildet und auf dem Geoportal des Kantons Basel-Landschaft eingesehen werden kann. Die Gesamtfläche des Naturschutzgebiets beträgt 51,23 ha.
 
-<sup>3</sup> Die Gesamtfläche des Naturschutzgebietes beträgt 51,26 ha.
+<sup>3</sup> ...
 
 #### § 2
 
@@ -73,11 +72,14 @@ beschliesst:
 - i. Befahren mit Motorfahrzeugen ohne Berechtigung;
 - j. Verwenden von chemischen Schädlingsbekämpfungs- oder Pflanzenschutzmitteln;
 - k. Pflücken, Ausgraben oder Ansiedeln von Pflanzen und Pilzen sowie Sammeln, Fangen, Aussetzen oder Stören von Tieren;
-- l. Erstellen neuer Wald- und Maschinenwege, sofern diese im Nutz- und Schutzkonzept nicht enthalten sind.
+- l. Erstellen neuer Wald- und Maschinenwege, sofern diese im Nutz- und Schutzkonzept nicht enthalten sind;
+- m. Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen.
 
 <sup>3</sup> Vorbehalten bleiben sämtliche Eingriffe und Massnahmen gemäss Pflege- und Nutzungsplan. Der Unterhalt bestehender Wald- und Maschinenwege bleibt gewährleistet.
 
 <sup>4</sup> Die Rechte der privaten Grundeigentümer bezüglich Eigengebrauch bleiben gewährleistet.
+
+<sup>5</sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. m bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 #### § 4
 
