@@ -3,20 +3,19 @@ canton: BL
 number: "790.411"
 title: Verordnung über das Naturschutzgebiet «Sulzgrube» in Muttenz
 language: de
-version: 1993-02-01
-valid_until: 2024-09-27
-version_adopted: 1992-12-15
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 1992-12-15
 in_force: 1993-02-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.411"
-pdf: "https://bl.clex.ch/api/de/versions/675/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4039/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Sulzgrube» in Muttenz
 
-Vom 15.12.1992 (Stand 01.02.1993)
+Vom 15.12.1992 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes vom 20. November 1991[^ingress-1] betreffend den Natur- und Landschaftsschutz, beschliesst:
 
@@ -55,7 +54,10 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 12 des Gesetzes
 - c. Verlassen der markierten Wege, Betreten mit Hunden sowie Reiten;
 - d. Befahren mit Motorrädern und Mountain Bikes sowie Klettern und Abseilen;
 - e. Pflücken, Ausgraben oder Ansiedeln von Pflanzen sowie Stören, Sammeln, Fangen und Aussetzen von Tieren ohne Bewilligung;
-- f. Verwenden von chemischen Hilfsmitteln zur Schädlingsbekämpfung.
+- f. Verwenden von chemischen Hilfsmitteln zur Schädlingsbekämpfung;
+- g. Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen.
+
+<sup>3</sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. g bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 #### § 4
 
