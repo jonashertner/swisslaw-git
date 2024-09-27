@@ -3,20 +3,19 @@ canton: BL
 number: "790.533"
 title: "Verordnung über das Naturschutzgebiet «Hag», Dittingen"
 language: de
-version: 2020-12-15
-valid_until: 2024-09-27
-version_adopted: 2020-12-15
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2020-12-15
 in_force: 2020-12-15
 url: "https://bl.clex.ch/app/de/texts_of_law/790.533"
-pdf: "https://bl.clex.ch/api/de/versions/2856/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4224/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Hag», Dittingen
 
-Vom 15.12.2020 (Stand 15.12.2020)
+Vom 15.12.2020 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -59,7 +58,7 @@ beschliesst:
 - d. Wegwerfen, Ablagern oder Einleiten von Abfällen, Materialien und Flüssigkeiten aller Art;
 - e. Laufenlassen von Hunden (ganzjährige Hundeleinenpflicht);
 - f. Radfahren, Biken und Reiten abseits von Strassen und Feldwegen;
-- g. Fliegenlassen von Drohnen, ausgenommen für Wildhege- und Naturschutzzwecke;
+- g. Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen;
 - h. Verwenden von chemischen Schädlingsbekämpfungs- oder Pflanzenschutzmitteln jeder Art sowie Ausbringen von Düngemitteln an den Waldrändern sowie auf den Magerwiesen und -weiden;
 - i. Pflücken, Ausgraben oder unbewilligtes Ansiedeln von Pflanzen sowie Stören und unbewilligtes Sammeln, Fangen oder Aussetzen von Tieren;
 - j. Veränderungen der Wald-Offenland-Verteilung durch Aufforstung, Neuanpflanzungen von Bäumen und Sträuchern oder Entfernen von Gehölzen.
@@ -69,6 +68,8 @@ beschliesst:
 <sup>4</sup> Betrieb sowie Pflege und Unterhalt des Flugfeldes durch die Segelfluggruppe Dittingen und/oder die Pächterschaft, die Durchführung der Dittinger Flugtage sowie weitere Anlässe diverser Art der Gemeinde bleiben im bisherigen Rahmen gewährleistet, ebenso die Umsetzung von Massnahmen bei künftigen Änderungen der sicherheitstechnischen Anforderungen des Bundes an die Luftfahrtinfrastruktur und den Flugbetrieb.
 
 <sup>5</sup> Ausnahmebewilligungen für das Fliegenlassen von Drohnen können durch den Leiter des Flugplatzes Dittingen gemäss Art. 9 VLK[^3-1] mit dem Einverständnis der kantonalen Naturschutzfachstelle erteilt werden.
+
+<sup>5<sup>bis</sup></sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. g bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 <sup>6</sup> Der Unterhalt bestehender Wege, Werkleitungen, Bauten und Anlagen bleibt gewährleistet.
 
