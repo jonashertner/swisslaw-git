@@ -3,20 +3,19 @@ canton: BL
 number: "790.441"
 title: "Verordnung über das Naturschutzgebiet «Meistelberg-Bohlberg», Liesberg"
 language: de
-version: 2007-01-01
-valid_until: 2024-09-27
-version_adopted: 2006-12-19
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2000-08-08
 in_force: 2000-10-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.441"
-pdf: "https://bl.clex.ch/api/de/versions/4421/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4422/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Meistelberg-Bohlberg», Liesberg
 
-Vom 08.08.2000 (Stand 01.01.2007)
+Vom 08.08.2000 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -60,7 +59,7 @@ beschliesst:
 <sup>2</sup> Verboten sind insbesondere:
 
 - a. Bauten, Anlagen, Einrichtungen sowie Boden- und Terrainveränderungen jeglicher Art, sofern diese nicht im Nutzungs- und Pflegekonzept oder im Rahmen des bewilligten Steinabbaus vorgesehen sind;
-- b. Campieren, Lagern in Gruppen, Modellfliegen oder Klettern;
+- b. Campieren, Lagern in Gruppen, Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen, Klettern;
 - c. Laufenlassen von Hunden, sowie Durchführen von Schiessübungen;
 - d. Wegwerfen, Ablagern oder Einleiten von Abfällen, Materialien und Flüssigkeiten aller Art;
 - e. Entfachen von Feuer ohne Bewilligung;
@@ -76,6 +75,8 @@ beschliesst:
 <sup>3</sup> Vorbehalten bleiben sämtliche Eingriffe und Massnahmen gemäss Pflege- und Nutzungsplan und rechtskräftiger Abbaubewilligungen. Rodungsersatz ist innerhalb des Naturschutzgebietes in begrenztem Umfange möglich, sofern dadurch die Schutzziele nicht gefährdet werden und der Ersatz in Form von Massnahmen zu Gunsten des Natur- und Landschaftsschutzes erfolgt.
 
 <sup>4</sup> Der Unterhalt bestehender Wald- und Maschinenwege bleibt gewährleistet.
+
+<sup>5</sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. b bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 #### § 4
 
