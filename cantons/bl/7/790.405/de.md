@@ -3,20 +3,19 @@ canton: BL
 number: "790.405"
 title: "Verordnung über das Naturschutzgebiet «Chilpen», Diegten"
 language: de
-version: 2007-05-01
-valid_until: 2024-09-27
-version_adopted: 2007-03-20
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 1990-12-11
 in_force: 1991-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.405"
-pdf: "https://bl.clex.ch/api/de/versions/669/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4022/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Chilpen», Diegten
 
-Vom 11.12.1990 (Stand 01.05.2007)
+Vom 11.12.1990 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 9 der Verordnung vom 30. April 1964[^ingress-1] betreffend den Natur- und Heimatschutz, beschliesst:
 
@@ -61,9 +60,12 @@ Der Regierungsrat des Kantons Basel-Landschaft, gestützt auf § 9 der Verordnun
 - f. Verlassen der Wege, Reiten sowie Betreten mit Hunden;
 - g. Pflücken, Ausgraben und Einbringen von Pflanzen sowie Sammeln, Fangen und Aussetzen von Tieren ohne Bewilligung;
 - h. Einsatz von chemischen Mitteln zur Schädlingsbekämpfung;
-- i. Ausbringen von Düngemitteln auf den Parzellen Nr. 2507, 2510, 2523, 2526 und 2529.
+- i. Ausbringen von Düngemitteln auf den Parzellen Nr. 2507, 2510, 2523, 2526 und 2529;
+- k. Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen.
 
 <sup>3</sup> Vorbehalten bleiben naturschützerische Pflegeeingriffe und Gestaltungsmassnahmen gemäss Pflegekonzept. Die Rechte der privaten Grundeigentümer bezüglich Eigengebrauch bleiben gewährleistet.
+
+<sup>4</sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. k bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 #### § 4
 
