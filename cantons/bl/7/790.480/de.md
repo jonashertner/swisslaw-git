@@ -3,20 +3,19 @@ canton: BL
 number: "790.480"
 title: "Verordnung über das Naturschutzgebiet «Kleinfegg», Pfeffingen"
 language: de
-version: 2010-01-01
-valid_until: 2024-09-27
-version_adopted: 2009-11-24
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2009-11-24
 in_force: 2010-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.480"
-pdf: "https://bl.clex.ch/api/de/versions/1357/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4160/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Kleinfegg», Pfeffingen
 
-Vom 24.11.2009 (Stand 01.01.2010)
+Vom 24.11.2009 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -62,11 +61,14 @@ beschliesst:
 - g. Reiten oder Befahren des Gebiets mit Velos oder Mountainbikes sowie Motorfahrzeugverkehr gemäss Art. 15 Abs. 2 WaG[^3-1];
 - h. Verwenden von chemischen Schädlingsbekämpfungs- oder Pflanzenschutzmitteln sowie Ausbringen von Düngemitteln;
 - i. Pflücken, Ausgraben (ausser für die Problempflanzenbekämpfung) oder unbewilligtes Ansiedeln von Pflanzen sowie Stören und unbewilligtes Sammeln, Fangen oder Aussetzen von Tieren;
-- j. Erstellen neuer Wald- und Maschinenwege.
+- j. Erstellen neuer Wald- und Maschinenwege;
+- k. Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen.
 
 <sup>3</sup> Vorbehalten bleiben sämtliche Eingriffe und Massnahmen gemäss Nutz- und Schutzkonzept zur Bekämpfung von fremdländischen Problempflanzen sowie zur Pflege und Aufwertung des Naturschutzgebiets.
 
 <sup>4</sup> Der Unterhalt bestehender Wege, Bauten und Anlagen sowie die Rechte der Grundeigentümer und Bewirtschafter bezüglich Eigengebrauch bleiben gewährleistet.
+
+<sup>4<sup>bis</sup></sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. k bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 <sup>5</sup> Veränderungen im Schutzgebiet, Änderungen der Nutzung sowie das Ansiedeln von Pflanzen und Tieren dürfen nur mit dem Einverständnis und unter Aufsicht der kantonalen Naturschutzfachstelle vorgenommen werden.
 
