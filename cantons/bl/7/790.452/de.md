@@ -3,20 +3,19 @@ canton: BL
 number: "790.452"
 title: "Verordnung über das Naturschutzgebiet «Balsberg», Bretzwil"
 language: de
-version: 2015-01-01
-valid_until: 2024-09-27
-version_adopted: 2014-12-16
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2002-01-15
 in_force: 2002-01-30
 url: "https://bl.clex.ch/app/de/texts_of_law/790.452"
-pdf: "https://bl.clex.ch/api/de/versions/1099/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4132/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Balsberg», Bretzwil
 
-Vom 15.01.2002 (Stand 01.01.2015)
+Vom 15.01.2002 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -67,9 +66,12 @@ beschliesst:
 - h. Befahren mit Motorfahrzeugen ohne Berechtigung;
 - i. Verwenden von chemischen Schädlingsbekämpfungs- oder Pflanzenschutzmitteln;
 - j. Pflücken, Ausgraben oder Ansiedeln von Pflanzen und Pilzen sowie Sammeln, Fangen, Aussetzen oder Stören von Tieren;
-- k. Erstellen neuer Wald- und Maschinenwege, sofern diese im Nutz- und Schutzkonzept nicht enthalten sind.
+- k. Erstellen neuer Wald- und Maschinenwege, sofern diese im Nutz- und Schutzkonzept nicht enthalten sind;
+- l. Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen.
 
 <sup>3</sup> Vorbehalten bleiben sämtliche Eingriffe und Massnahmen gemäss Nutz- und Schutzkonzept. Der Unterhalt bestehender Wald- und Maschinenwege bleibt gewährleistet.
+
+<sup>4</sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. l bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 #### § 4
 
