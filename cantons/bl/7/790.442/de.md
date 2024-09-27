@@ -3,20 +3,19 @@ canton: BL
 number: "790.442"
 title: "Verordnung über das Naturschutzgebiet «Schöntalfluh-Spittelweid», Langenbruck"
 language: de
-version: 2018-10-01
-valid_until: 2024-09-27
-version_adopted: 2018-09-11
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2000-11-28
 in_force: 2001-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/790.442"
-pdf: "https://bl.clex.ch/api/de/versions/2296/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4072/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Schöntalfluh-Spittelweid», Langenbruck
 
-Vom 28.11.2000 (Stand 01.10.2018)
+Vom 28.11.2000 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -60,7 +59,7 @@ beschliesst:
 
 - a. Bauten, Anlagen, Einrichtungen sowie Boden- und Terrainveränderungen jeglicher Art, sofern diese nicht im Schutz- und Nutzungsplan vorgesehen sind;
 - b. Zuschütten oder Ausplanieren der Erzgrablöcher;
-- c. Campieren, Lagern in Gruppen, Modellfliegen oder Klettern;
+- c. Campieren, Lagern in Gruppen, Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen, Klettern;
 - d. Durchführen von sportlichen Veranstaltungen;
 - e. Wegwerfen, Ablagern oder Einleiten von Abfällen, Materialien und Flüssigkeiten aller Art;
 - f. Entfachen von Feuer ohne Bewilligung;
@@ -79,6 +78,8 @@ beschliesst:
 - b. die forstwirtschaftliche Nutzung des Waldareals gemäss Waldwirtschaftsplan sowie Schutz- und Nutzungsplan mit Abgeltungsberechnung.
 
 <sup>4</sup> Der Unterhalt bestehender Wald- und Maschinenwege und die Rechte der privaten Grundeigentümer bezüglich Eigengebrauch bleiben gewährleistet.
+
+<sup>5</sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. c bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 #### § 4
 
