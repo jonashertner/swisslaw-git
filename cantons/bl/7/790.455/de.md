@@ -3,20 +3,19 @@ canton: BL
 number: "790.455"
 title: "Verordnung über das Naturschutzgebiet «Ämmenegg-Ulmet», Bretzwil und Lauwil"
 language: de
-version: 2015-01-01
-valid_until: 2024-09-27
-version_adopted: 2014-12-16
+version: 2024-09-28
+version_adopted: 2024-08-27
 adopted: 2002-01-15
 in_force: 2002-01-30
 url: "https://bl.clex.ch/app/de/texts_of_law/790.455"
-pdf: "https://bl.clex.ch/api/de/versions/1098/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/4135/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über das Naturschutzgebiet «Ämmenegg-Ulmet», Bretzwil und Lauwil
 
-Vom 15.01.2002 (Stand 01.01.2015)
+Vom 15.01.2002 (Stand 28.09.2024)
 
 Der Regierungsrat des Kantons Basel-Landschaft,
 
@@ -63,11 +62,11 @@ beschliesst:
 
 - a. Bauten, Anlagen, Einrichtungen sowie Boden- und Terrainveränderungen jeglicher Art, sofern diese nicht im Nutz- und Schutzkonzept vorgesehen sind;
 - b. Freizeitaktivitäten mit übermässigen Immissionen auf Fauna und Flora;
-- c. Modellfliegen;
+- c. Landen mit Helikoptern (ausser in Notfallsituationen) sowie Befliegen mit Modellflugzeugen oder Drohnen;
 - d. Durchführen von nicht bewilligten Veranstaltungen;
 - e. Wegwerfen, Ablagern oder Einleiten von Abfällen, Materialien und Flüssigkeiten aller Art;
 - f. Verlassen der erlaubten Wege in den Fels- und Felsfuss-Bereichen;
-- g. Laufen lassen von Hunden oder Modellfliegen;
+- g. Laufen lassen von Hunden;
 - h. Reiten oder Befahren des Gebietes abseits der erlaubten Wege;
 - i. Entfachen von Feuer ausserhalb der erlaubten Feuerstellen;
 - j. Befahren mit Motorfahrzeugen ohne Berechtigung;
@@ -78,6 +77,8 @@ beschliesst:
 <sup>3</sup> Vorbehalten bleiben sämtliche Eingriffe und Massnahmen gemäss Nutz- und Schutzkonzept. Der Unterhalt bestehender Wald- und Maschinenwege bleibt gewährleistet.
 
 <sup>4</sup> Die Rechte der privaten Grundeigentümer bezüglich Eigengebrauch sowie Nutzung und Unterhalt der Vogelberingungs-Unterkunft bleiben gewährleistet.
+
+<sup>5</sup> Als Ausnahme vom Verbot gemäss § 3 Abs. 2 Bst. c bleibt das Befliegen mit Modellflugzeugen oder Drohnen für behördliche und wissenschaftliche Zwecke gewährleistet. Vorgängig ist zwingend eine Bewilligung bei der kantonalen Naturschutzfachstelle einzuholen.
 
 #### § 4
 
