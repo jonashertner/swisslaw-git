@@ -4,13 +4,13 @@ number: "327"
 title: Verordnung über den Justizvollzug
 short: JVV
 language: de
-version: 2021-07-01
-valid_until: 2024-09-30
-version_adopted: 2021-06-15
+version: 2024-10-01
+valid_until: 2025-12-31
+version_adopted: 2024-08-27
 adopted: 2016-03-24
 in_force: 2016-07-01
 url: "https://srl.lu.ch/app/de/texts_of_law/327"
-pdf: "https://srl.lu.ch/api/de/versions/3760/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4263/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://srl.lu.ch/api/de/versions/3760/pdf_file"
 
 (JVV)
 
-vom 24.03.2016 (Stand 01.07.2021)
+vom 24.03.2016 (Stand 01.10.2024)
 
 Der Regierungsrat des Kantons Luzern,
 
@@ -254,6 +254,8 @@ beschliesst:
 <sup>2</sup> Zieht der Vollzugs- und Bewährungsdienst eine Vollzugsöffnung in Betracht, gibt er der Staatsanwaltschaft oder dem Gericht Gelegenheit zur Stellungnahme.
 
 <sup>3</sup> Der Staatsanwalt oder die Staatsanwältin beziehungsweise der Präsident oder die Präsidentin des zuständigen Gerichtes entscheidet über Entlassungen.
+
+<sup>4</sup> Der Vollzugs- und Bewährungsdienst ist im vorzeitigen Strafvollzug zuständig für die Gewährung der Opferinformation im Sinn von Artikel 92a StGB.
 
 #### § 18
 
@@ -615,15 +617,15 @@ beschliesst:
 
 **Umgang mit Personen im Hungerstreik**
 
-<sup>1</sup> Der Betreuer oder die Betreuerin orientiert die Leitung der Vollzugseinrichtung, wenn eine inhaftierte Person aus Protest fastet oder die Aufnahme von Essen und Trinken verweigert.
+<sup>1</sup> Der Betreuer oder die Betreuerin orientiert die Leitung der Vollzugseinrichtung, wenn eine eingewiesene Person aus Protest fastet oder die Aufnahme von Essen und Trinken verweigert.
 
-<sup>2</sup> Der Arzt oder die Ärztin der Vollzugseinrichtung klärt die inhaftierte Person mehrmals über die Risiken längeren Fastens auf. Können sich Arzt oder Ärztin und inhaftierte Person nicht klar und sicher verständigen, ist ein Übersetzer oder eine Übersetzerin oder eine andere geeignete Hilfsperson beizuziehen.
+<sup>2</sup> Der Arzt oder die Ärztin der Vollzugseinrichtung klärt die eingewiesene Person mehrmals über die Risiken längeren Fastens auf. Können sich der Arzt oder die Ärztin und die eingewiesene Person nicht klar und sicher verständigen, ist ein Übersetzer oder eine Übersetzerin oder eine andere geeignete Hilfsperson beizuziehen.
 
-<sup>3</sup> Trotz der geäusserten Absicht der inhaftierten Person zur Nahrungsverweigerung sind ihr dreimal täglich Mahlzeiten anzubieten. Der Zugang zu Getränken ist jederzeit sicherzustellen.
+<sup>3</sup> Trotz der geäusserten Absicht der eingewiesenen Person zur Nahrungsverweigerung sind ihr dreimal täglich Mahlzeiten anzubieten. Der Zugang zu Getränken ist jederzeit sicherzustellen.
 
-<sup>4</sup> Die Leitung der Vollzugseinrichtung lässt die Urteilsfähigkeit der inhaftierten Person durch einen forensischen Psychiater oder eine forensische Psychiaterin abklären und durch einen zweiten forensischen Psychiater oder eine zweite forensische Psychiaterin überprüfen und allenfalls bestätigen.
+<sup>4</sup> Die Leitung der Vollzugseinrichtung lässt die Urteilsfähigkeit der eingewiesenen Person durch einen forensischen Psychiater oder eine forensische Psychiaterin abklären.
 
-<sup>5</sup> Wird die Urteilsfähigkeit bestätigt, kann die inhaftierte Person in einer Patientenverfügung unterschriftlich bestätigen, dass sie die Zwangsernährung ausdrücklich ablehnt, selbst wenn dieses Fasten zum Tod führt.
+<sup>5</sup> Wird die Urteilsfähigkeit bestätigt, kann die eingewiesene Person in einer Patientenverfügung unterschriftlich bestätigen, dass sie die Zwangsernährung ausdrücklich ablehnt, selbst wenn dieses Fasten zum Tod führt.
 
 #### § 56
 
@@ -633,9 +635,9 @@ beschliesst:
 
 <sup>2</sup> Zudem sind insbesondere Listen zu führen über:
 
-- a. die Zahl und die Art der Aufklärungen der inhaftierten Person durch den Arzt oder die Ärztin,
+- a. die Zahl und die Art der Aufklärungen der eingewiesenen Person durch den Arzt oder die Ärztin,
 - b. die Zahl und die Art der angebotenen Mahlzeiten,
-- c. die Zahl und das Resultat der vorgenommenen Gewichtskontrollen der inhaftierten Person.
+- c. die Zahl und das Resultat der vorgenommenen Gewichtskontrollen der eingewiesenen Person.
 
 ## 7 Bewährungshilfe und freiwillige soziale Betreuung
 
@@ -762,11 +764,13 @@ beschliesst:
 
 **Weitere Kommunikationsmittel**
 
-<sup>1</sup> Den inhaftierten Personen sind das Telefonieren und das Benützen anderer Kommunikations- und Datenübermittlungsgeräte der Vollzugseinrichtung im Rahmen der Hausordnung gestattet.
+<sup>1</sup> Den eingewiesenen Personen sind das Telefonieren und das Benützen anderer Kommunikations- und Datenübermittlungsgeräte der Vollzugseinrichtung im Rahmen der Hausordnung gestattet.
 
 <sup>2</sup> Das Aufzeichnen und Abhören von Telefongesprächen richtet sich nach § 29 JVG.
 
-<sup>3</sup> Der Besitz und die Benützung von privaten Mobiltelefonen und Funkrufempfängern sowie von andern privaten Kommunikations- und Datenübermittlungsgeräten sind verboten.
+<sup>3</sup> Der Besitz und die Benützung von privaten Mobiltelefonen und Funkrufempfängern sowie von andern privaten Kommunikations- und Datenübermittlungsgeräten sind verboten. Vorbehalten bleibt Absatz 4.
+
+<sup>4</sup> Die Justizvollzugsanstalt Wauwilermoos kann im offenen Vollzug den Besitz und die Benützung von Kommunikations- und Datenübermittlungsgeräten, insbesondere von Mobiltelefonen, zum persönlichen Gebrauch der eingewiesenen Personen gestatten. Sie regelt das Nähere in der Hausordnung.
 
 #### § 72
 
@@ -842,7 +846,8 @@ beschliesst:
 - b. die Kontrolle der Effekten, Wertgegenstände und Ausweise, deren Besitz in den Zellen sowie deren Hinterlegung,
 - c. die Rechte und Pflichten der eingewiesenen Personen,
 - d. die Zuständigkeiten in der Vollzugseinrichtung,
-- e. den Empfang und Versand von Briefen und Paketen und die Benützung von Telefonen,
+- e. den Empfang und Versand von Briefen und Paketen,
+- e<sup>bis</sup>. den Besitz und die Benützung von Kommunikations- und Datenübermittlungsgeräten, insbesondere von Festnetztelefonen, Mobiltelefonen, Computern, Laptops und Tablets,
 - f. den Empfang von Besuchen, den Besuchsausgang, die Aussen- sowie Freizeitaktivitäten,
 - g. den Sach- und den Beziehungsurlaub,
 - h. die Gesundheits- und Sozialbetreuung, Drogen, Alkohol und Medikamente,
@@ -917,13 +922,13 @@ beschliesst:
 
 <sup>1</sup> Die Leitung der Vollzugseinrichtung klärt den Sachverhalt ab und hält ihn schriftlich fest.
 
-<sup>2</sup> Sie gibt der inhaftierten Person im Rahmen des rechtlichen Gehörs Gelegenheit, sich zum Vorfall zu äussern.
+<sup>2</sup> Sie gibt der eingewiesenen Person im Rahmen des rechtlichen Gehörs Gelegenheit, sich zum Vorfall zu äussern.
 
 #### § 88
 
 **Eröffnung des Entscheides**
 
-<sup>1</sup> Die Leitung der Vollzugseinrichtung eröffnet der inhaftierten Person den Disziplinarentscheid mündlich und händigt ihr gleichzeitig den schriftlichen Entscheid gegen Unterzeichnung aus.
+<sup>1</sup> Die Leitung der Vollzugseinrichtung eröffnet der eingewiesenen Person den Disziplinarentscheid mündlich und händigt ihr gleichzeitig den schriftlichen Entscheid gegen Unterzeichnung aus.
 
 <sup>2</sup> Der Disziplinarentscheid hat eine Rechtsmittelbelehrung zu enthalten.
 
