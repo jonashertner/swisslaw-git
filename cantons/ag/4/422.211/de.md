@@ -4,13 +4,13 @@ number: "422.211"
 title: Verordnung über die Berufs- und Weiterbildung
 short: VBW
 language: de
-version: 2024-07-01
-valid_until: 2024-09-30
-version_adopted: 2024-03-13
+version: 2024-10-01
+valid_until: 2024-12-31
+version_adopted: 2024-07-03
 adopted: 2007-11-07
 in_force: 2008-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/422.211"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3492/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3599/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3492/pdf_file"
 
 (VBW)
 
-Vom 07.11.2007 (Stand 01.07.2024)
+Vom 07.11.2007 (Stand 01.10.2024)
 
 Der Regierungsrat des Kantons Aargau,
 
@@ -707,7 +707,7 @@ beschliesst:
 
 <sup>1</sup> Die Entschädigung der Expertinnen und Experten wird pauschal nach Massgabe folgender Kriterien festgesetzt:
 
-- a) Stundenansatz in der Höhe von Fr. 40.–,
+- a) Stundenansatz in der Höhe von Fr. 50.–,
 - b) Dauer des Qualifikationsverfahrens gemäss den einschlägigen Bundesregelungen für den jeweiligen Beruf,
 - c) zeitlicher Aufwand für die Administration, Vorbereitung und Bewertung des Qualifikationsverfahrens gemäss Vorgabe der Abteilung Berufsbildung und Mittelschule.
 
@@ -745,9 +745,9 @@ beschliesst:
 
 #### § 69
 
-**Zwischen- und Sonderprüfungen sowie Validierung nicht formal erworbener Bildung**
+**Validierung nicht formal erworbener Bildung**
 
-<sup>1</sup> Für die notwendige Dauer der Administration, für die Durchführung und Bewertung von Zwischen- und Sonderprüfungen sowie für die Validierung nicht formal erworbener Bildung werden Fr. 40.– pro Stunde vergütet.
+<sup>1</sup> Für die Validierung nicht formal erworbener Bildung werden den beauftragten Fachpersonen Fr. 50.– pro Stunde vergütet.
 
 - a) …
 - b) …
