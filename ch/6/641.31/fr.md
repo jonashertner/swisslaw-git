@@ -4,11 +4,11 @@ title: "Loi fédérale du 21 mars 1969 sur l'imposition du tabac (LTab)"
 short: LTab
 eli: "https://fedlex.data.admin.ch/eli/cc/1969/645_665_663"
 language: fr
-version: 2023-09-01
+version: 2024-10-01
 adopted: 1969-03-21
 in_force: 1970-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/645_665_663/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-1969-645_665_663-20230901-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1969/645_665_663/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/645_665_663/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-1969-645_665_663-20241001-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1969/645_665_663/20241001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1969/645_665_663/20230901/fr"
 
 (LTab)[^t-1]
 
-du 21 mars 1969 (État le 1<sup>er</sup> septembre 2023)
+du 21 mars 1969 (État le 1<sup>er</sup> octobre 2024)
 
 [^t-1]: Introduit par l’annexe ch. 8 de la L du 18 mars 2005 sur les douanes, en vigueur depuis le 1<sup>er</sup> mai 2007 ([RO 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 517](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 
@@ -47,9 +47,12 @@ arrête:
 
 <sup>2</sup> Les expressions «tabacs manufacturés et produits de substitution» utilisés dans la présente loi sont définis dans l’ordonnance du 15 décembre 1969 réglant l’imposition du tabac[^1-3].
 
+<sup>3</sup> Sauf disposition spéciale, les produits de substitution sont régis par les dispositions relatives aux tabacs manufacturés.[^1-4]
+
 [^1-1]: Nouvelle teneur selon le ch. I de la LF du 24 mars 1995, en vigueur depuis le 1<sup>er</sup> mars 1996 ([RO 1996 585](https://fedlex.data.admin.ch/eli/oc/1996/585_585_585); [FF 1995 I 85](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
 [^1-2]: Expression biffée par le ch. I de la LF du 19 déc. 2008, avec effet au 1<sup>er</sup> janv. 2010 ([RO 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 447](https://fedlex.data.admin.ch/eli/fga/2008/149)). Il a été tenu compte de cette mod. dans tout le texte.
 [^1-3]: [[RO 1969 1286](https://fedlex.data.admin.ch/eli/oc/1969/1274_1286_1289), [1974 1021](https://fedlex.data.admin.ch/eli/oc/1974/1021_1021_1021)art. 4 al. 1, [1987 2321](https://fedlex.data.admin.ch/eli/oc/1987/2321_2321_2321), [1993 331](https://fedlex.data.admin.ch/eli/oc/1993/331_331_331)ch. I 5, [1996 590](https://fedlex.data.admin.ch/eli/oc/1996/590_590_590), [1997 376](https://fedlex.data.admin.ch/eli/oc/1997/376_376_376), [2003 2465](https://fedlex.data.admin.ch/eli/oc/2003/363), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)annexe 4 ch. 25, [2008 3159](https://fedlex.data.admin.ch/eli/oc/2008/419). [RO 2009 5577](https://fedlex.data.admin.ch/eli/oc/2009/677)art. 43]. Voir actuellement l’O du 14 oct. 2009 sur l’imposition du tabac ([RS 641.311](https://fedlex.data.admin.ch/eli/cc/2009/677)).
+[^1-4]: Introduit par le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 453](https://fedlex.data.admin.ch/eli/oc/2024/453); [FF 2022 2752](https://fedlex.data.admin.ch/eli/fga/2022/2752)).
 
 ### II. Autorités
 
@@ -186,26 +189,41 @@ L’impôt est dû:
 
 <sup>1</sup>
 
-L’impôt est fixé:
+L’impôt grevant les tabacs manufacturés est fixé comme suit:[^10-1]
 
 - a. pour les cigarettes, cigares et cigarillos, par pièce et en pour-cent du prix de vente au détail;
-- b.[^10-1] pour le tabac à coupe fine et le tabac pour pipe à eau, par kilogramme et en pour-cent du prix de vente au détail;
-- c. pour le tabac à fumer autre que le tabac à coupe fine et pour les autres tabacs manufacturés, ainsi que pour le tabac à mâcher et à priser, en pour-cent du prix de vente au détail.[^10-2]
+- b.[^10-2] pour le tabac à coupe fine et le tabac pour pipe à eau, par kilogramme et en pour-cent du prix de vente au détail;
+- c. pour le tabac à fumer autre que le tabac à coupe fine et pour les autres tabacs manufacturés, ainsi que pour le tabac à mâcher et à priser, en pour-cent du prix de vente au détail.[^10-3]
 
-<sup>2</sup> Lorsque le prix de détail contribue à déterminer le taux d’impôt, celui-ci est fixé, pour les emballages d’assortiments et les emballages spéciaux, d’après le prix de l’emballage le plus usuel pour la vente au détail. Les termes «emballages d’assortiment» et «emballages spéciaux» sont définis par l’ordonnance du 15 décembre 1969 réglant l’imposition du tabac[^10-3].
+<sup>1bis</sup>
 
-<sup>3</sup> Le prix imprimé par le fabricant ou l’importateur sur les emballages pour la vente au détail ne peut pas être majoré lors de la vente.[^10-4]
+L’impôt grevant les produits de substitution est fixé comme suit:
 
-[^10-1]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2017, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4041](https://fedlex.data.admin.ch/eli/oc/2017/478); [FF 2016 4971](https://fedlex.data.admin.ch/eli/fga/2016/1113)).
-[^10-2]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 447](https://fedlex.data.admin.ch/eli/fga/2008/149)).
-[^10-3]: Voir actuellement l’O du 14 oct. 2009 sur l’imposition du tabac ([RS 641.311](https://fedlex.data.admin.ch/eli/cc/2009/677)).
-[^10-4]: Introduit par le ch. I de la LF du 24 mars 1995, en vigueur depuis le 1<sup>er</sup> mars 1996 ([RO 1996 585](https://fedlex.data.admin.ch/eli/oc/1996/585_585_585); [FF 1995 I 85](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
+- a. pour les produits qui contiennent de la nicotine et qui peuvent être consommés au moyen de cigarettes électroniques rechargeables, par millilitre;
+- b. pour les produits qui peuvent être consommés au moyen de cigarettes électroniques jetables, par millilitre;
+- c. pour les autres produits de substitution, de la même manière que pour les tabacs manufacturés qu’ils remplacent.[^10-4]
+
+<sup>2</sup> Lorsque le prix de détail contribue à déterminer le taux d’impôt, celui-ci est fixé, pour les emballages d’assortiments et les emballages spéciaux, d’après le prix de l’emballage le plus usuel pour la vente au détail. Les termes «emballages d’assortiment» et «emballages spéciaux» sont définis par l’ordonnance du 15 décembre 1969 réglant l’imposition du tabac[^10-5].
+
+<sup>3</sup> Le prix imprimé par le fabricant ou l’importateur sur les emballages pour la vente au détail ne peut pas être majoré lors de la vente.[^10-6]
+
+[^10-1]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 453](https://fedlex.data.admin.ch/eli/oc/2024/453); [FF 2022 2752](https://fedlex.data.admin.ch/eli/fga/2022/2752)).
+[^10-2]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2017, en vigueur depuis le 1<sup>er</sup> sept. 2017 ([RO 2017 4041](https://fedlex.data.admin.ch/eli/oc/2017/478); [FF 2016 4971](https://fedlex.data.admin.ch/eli/fga/2016/1113)).
+[^10-3]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 447](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^10-4]: Introduit par le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 453](https://fedlex.data.admin.ch/eli/oc/2024/453); [FF 2022 2752](https://fedlex.data.admin.ch/eli/fga/2022/2752)).
+[^10-5]: Voir actuellement l’O du 14 oct. 2009 sur l’imposition du tabac ([RS 641.311](https://fedlex.data.admin.ch/eli/cc/2009/677)).
+[^10-6]: Introduit par le ch. I de la LF du 24 mars 1995, en vigueur depuis le 1<sup>er</sup> mars 1996 ([RO 1996 585](https://fedlex.data.admin.ch/eli/oc/1996/585_585_585); [FF 1995 I 85](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
 
 ### III. Calcul de l’impôt (tarifs d’impôts)
 
 #### Art. 11
 
-<sup>1</sup> L’impôt grevant les tabacs manufacturés se calcule d’après les tarifs figurant dans les annexes I à IV.[^11-1]
+<sup>1</sup>
+
+L’impôt se calcule comme suit:
+
+- a. pour les tabacs manufacturés, d’après les tarifs fixés dans les annexes I à IV;
+- b. pour les produits de substitution, d’après le tarif fixé dans l’annexe V.[^11-1]
 
 <sup>2</sup>
 
@@ -218,7 +236,7 @@ En vue du cofinancement des contributions de la Confédération à l’assurance
 
 <sup>3</sup> En cas de majoration des taux, le Conseil fédéral peut prendre des mesures, notamment pour empêcher que l’efficacité de la majoration fiscale ne soit retardée. En particulier, jusqu’à l’entrée en vigueur de la majoration fiscale, il peut obliger les fabricants et les importateurs à limiter la production et l’importation aux ventes réalisées lors d’une période comparable de l’année précédente, en tenant compte de l’évolution de la demande.[^11-4]
 
-[^11-1]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 447](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^11-1]: Nouvelle teneur selon le ch. I de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 453](https://fedlex.data.admin.ch/eli/oc/2024/453); [FF 2022 2752](https://fedlex.data.admin.ch/eli/fga/2022/2752)).
 [^11-2]: [RO 2003 2460](https://fedlex.data.admin.ch/eli/oc/2003/361)
 [^11-3]: Nouvelle teneur selon le ch. I de la LF du 19 déc. 2008, en vigueur depuis le 1<sup>er</sup> janv. 2010 ([RO 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 447](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 [^11-4]: Nouvelle teneur selon le ch. I de la LF du 24 mars 1995, en vigueur depuis le 1<sup>er</sup> mars 1996 ([RO 1996 585](https://fedlex.data.admin.ch/eli/oc/1996/585_585_585); [FF 1995 I 85](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
@@ -609,7 +627,7 @@ Le Conseil fédéral peut:
 
 - a. obliger les fabricants de tabacs manufacturés à prendre en charge, dans une mesure appropriée, du tabac indigène par rapport au tabac importé qu’ils traitent. Cette prise en charge obligatoire est toutefois limitée à la récolte d’une surface de 1000 ha;
 - b.[^28-2] astreindre les fabricants et les importateurs de cigarettes et de tabac à coupe fine à verser au fonds créé pour participer au financement du tabac indigène 0,13 centime au maximum par cigarette ou 1 fr. 73 par kilogramme de tabac à coupe fine;
-- [tab] c.[^28-3] astreindre les fabricants et les importateurs de cigarettes et de tabac à coupe fine à verser une taxe de même montant dans un fonds de prévention du tabagisme.[^28-4]
+- c.[^28-3] astreindre les fabricants et les importateurs de cigarettes et de tabac à coupe fine à verser une taxe de même montant dans un fonds de prévention du tabagisme.[^28-4]
 
 <sup>3</sup> Le fonds de financement visé à l’al. 2, let. b, est géré par la Société coopérative pour l’achat du tabac indigène et placé sous la surveillance de la Direction générale des douanes.[^28-5]
 
@@ -976,7 +994,6 @@ Remarques
 
 - 1\. L’augmentation de 80 % que peut décider le Conseil fédéral en vertu de l’art. 11, al. 2, let. c, s’applique à la part d’impôt par kilogramme et au taux minimal, mais non à la part d’impôt fixée en fonction du prix de vente au détail.
 - 2\. Le taux d’imposition global par kilogramme, résultant de l’élément spécifique relatif au poids en kilogrammes et de l’élément proportionnel relatif au prix de vente au détail, doit être arrondi aux cinq centimes supérieurs. Les fractions de centime ne comptent pas.
-- [tab]
 
 Annexe IV[^t-5]
 
@@ -991,9 +1008,16 @@ L’impôt se monte:
 - a. pour le tabac à fumer autre que le tabac à coupe fine et les autres tabacs manufacturés (tabac en rouleaux, rognures de cigares et autres):
 - à 12 % du prix de vente au détail;
 - b. pour le tabac à mâcher et à priser:
-
-à 6 % du prix de vente au détail.
+- à 6 % du prix de vente au détail.
 
 Annexe V[^t-6]
 
-[^t-6]: Abrogée par le ch. II al. 2 de la LF du 19 déc. 2008, avec effet au 1<sup>er</sup> janv. 2010 ([RO 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 447](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+(art. 11, al. 1, let. b)
+
+## Tarif d’impôt pour les produits de substitution
+
+[^t-6]: Nouvelle teneur selon le ch. II de la LF du 16 juin 2023, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 453](https://fedlex.data.admin.ch/eli/oc/2024/453); [FF 2022 2752](https://fedlex.data.admin.ch/eli/fga/2022/2752)).
+
+- 1\. Pour les produits qui contiennent de la nicotine et qui peuvent être consommés au moyen de cigarettes électroniques rechargeables, l’impôt se monte à 0,20 franc par millilitre.
+- 2\. Pour les produits qui peuvent être consommés au moyen de cigarettes électroniques jetables, l’impôt se monte à 1 franc par millilitre.
+- 3\. Pour les autres produits de substitution, l’impôt se calcule d’après le tarif d’impôt des tabacs manufacturés qu’ils remplacent.

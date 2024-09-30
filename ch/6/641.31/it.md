@@ -4,18 +4,18 @@ title: "Legge federale del 21 marzo 1969 sull'imposizione del tabacco (Legge sul
 short: LImT
 eli: "https://fedlex.data.admin.ch/eli/cc/1969/645_665_663"
 language: it
-version: 2023-09-01
+version: 2024-10-01
 adopted: 1969-03-21
 in_force: 1970-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/645_665_663/20230901/it/xml/fedlex-data-admin-ch-eli-cc-1969-645_665_663-20230901-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1969/645_665_663/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/645_665_663/20241001/it/xml/fedlex-data-admin-ch-eli-cc-1969-645_665_663-20241001-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1969/645_665_663/20241001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale sull’imposizione del tabacco (Legge sull’imposizione del tabacco, LImT)
 
-del 21 marzo 1969 (Stato 1° settembre 2023)[^t-1]
+del 21 marzo 1969 (Stato 1° ottobre 2024)[^t-1]
 
 [^t-1]: Introdotto dall’all. n. 8. della L del 18 mar. 2005 sulle dogane, in vigore dal 1° mag. 2007 ([RU 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [FF 2004 485](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 
@@ -45,9 +45,12 @@ decreta:
 
 <sup>2</sup> I termini tabacchi manufatti e prodotti di sostituzione sono definiti nell’ordinanza del 15 dicembre 1969[^1-3] sull’imposizione del tabacco.
 
+<sup>3</sup> Salvo disposizioni speciali della presente legge, ai prodotti di sostituzione si applicano le disposizioni per i tabacchi manufatti.[^1-4]
+
 [^1-1]: Nuovo testo giusta il n. I della LF del 24 mar. 1995, in vigore dal 1° mar. 1996 ([RU 1996 585](https://fedlex.data.admin.ch/eli/oc/1996/585_585_585); [FF 1995 I 65](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
 [^1-2]: Espr. stralciata giusta il n. I della LF del 19 dic. 2008, con effetto dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)). Di detta mod. è tenuto conto in tutto il presente testo.
 [^1-3]: [[RU 1969 1289](https://fedlex.data.admin.ch/eli/oc/1969/1274_1286_1289), [1974 1021](https://fedlex.data.admin.ch/eli/oc/1974/1021_1021_1021)art. 4 cpv. 1, [1987 2321](https://fedlex.data.admin.ch/eli/oc/1987/2321_2321_2321), [1993 331](https://fedlex.data.admin.ch/eli/oc/1993/331_331_331)n. I 5, [1996 590](https://fedlex.data.admin.ch/eli/oc/1996/590_590_590), [1997 376](https://fedlex.data.admin.ch/eli/oc/1997/376_376_376), [2003 2465](https://fedlex.data.admin.ch/eli/oc/2003/363), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 25, [2008 3159](https://fedlex.data.admin.ch/eli/oc/2008/419). [RU 2009 5577](https://fedlex.data.admin.ch/eli/oc/2009/677)art. 43]. Vedi ora l’O del 14 ott. 2009 sull’imposizione del tabacco ([RS 641.311](https://fedlex.data.admin.ch/eli/cc/2009/677)).
+[^1-4]: Introdotto dal n. I della LF del 16 giu. 2023, in vigore dal 1° ott. 2024 ([RU 2024 453](https://fedlex.data.admin.ch/eli/oc/2024/453); [FF 2022 2752](https://fedlex.data.admin.ch/eli/fga/2022/2752)).
 
 ### II. Autorità
 
@@ -180,26 +183,41 @@ L’imposta è dovuta:
 
 <sup>1</sup>
 
-L’imposta è stabilita:
+L’imposta sui tabacchi manufatti è stabilita come segue:[^10-1]
 
 - a. per le sigarette, i sigari e i cigarillos, per pezzo e in per cento del prezzo al minuto;
-- b.[^10-1] per il tabacco trinciato fine e il tabacco per pipe ad acqua, per chilogrammo e in per cento del prezzo al minuto
-- c. per il tabacco da fumo diverso dal tabacco trinciato fine e per gli altri tabacchi manufatti, come pure per il tabacco da masticare e da fiuto, in per cento del prezzo al minuto.[^10-2]
+- b.[^10-2] per il tabacco trinciato fine e il tabacco per pipe ad acqua, per chilogrammo e in per cento del prezzo al minuto
+- c. per il tabacco da fumo diverso dal tabacco trinciato fine e per gli altri tabacchi manufatti, come pure per il tabacco da masticare e da fiuto, in per cento del prezzo al minuto.[^10-3]
 
-<sup>2</sup> Se il prezzo al minuto contribuisce a stabilire l’aliquota d’imposta, quest’ultima si calcola per gli imballaggi d’assortimenti e gli imballaggi speciali, secondo il prezzo dell’imballaggio più usato nella vendita al minuto. I termini «imballaggi d’assortimenti» e «imballaggi speciali» sono definiti più esattamente nell’ordinanza del 15 dicembre 1969[^10-3] concernente l’imposizione sul tabacco.
+<sup>1bis</sup>
 
-<sup>3</sup> Il prezzo che il fabbricante o l’importatore ha stampato sugli imballaggi per la vendita al minuto non può essere superato al momento della vendita.[^10-4]
+L’imposta sui prodotti di sostituzione è stabilita come segue:
 
-[^10-1]: Nuovo testo giusta il n. I della LF del 17 mar. 2017, in vigore dal 1° set. 2017 ([RU 2017 4041](https://fedlex.data.admin.ch/eli/oc/2017/478); [FF 2016 4577](https://fedlex.data.admin.ch/eli/fga/2016/1113)).
-[^10-2]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
-[^10-3]: Vedi ora l’O del 14 ott. 2009 sull’imposizione del tabacco ([RS 641.311](https://fedlex.data.admin.ch/eli/cc/2009/677)).
-[^10-4]: Introdotto dal n. I della LF del 24 mar. 1995, in vigore dal 1° mar. 1996 ([RU 1996 585](https://fedlex.data.admin.ch/eli/oc/1996/585_585_585); [FF 1995 I 65](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
+- a. per i prodotti contenenti nicotina che possono essere consumati mediante sigarette elettroniche ricaricabili, per millilitro;
+- b. per i prodotti che possono essere consumati mediante sigarette elettroniche monouso, per millilitro;
+- c. per altri prodotti di sostituzione, analogamente ai tabacchi manufatti che sostituiscono.[^10-4]
+
+<sup>2</sup> Se il prezzo al minuto contribuisce a stabilire l’aliquota d’imposta, quest’ultima si calcola per gli imballaggi d’assortimenti e gli imballaggi speciali, secondo il prezzo dell’imballaggio più usato nella vendita al minuto. I termini «imballaggi d’assortimenti» e «imballaggi speciali» sono definiti più esattamente nell’ordinanza del 15 dicembre 1969[^10-5] concernente l’imposizione sul tabacco.
+
+<sup>3</sup> Il prezzo che il fabbricante o l’importatore ha stampato sugli imballaggi per la vendita al minuto non può essere superato al momento della vendita.[^10-6]
+
+[^10-1]: Nuovo testo giusta il n. I della LF del 16 giu. 2023, in vigore dal 1° ott. 2024 ([RU 2024 453](https://fedlex.data.admin.ch/eli/oc/2024/453); [FF 2022 2752](https://fedlex.data.admin.ch/eli/fga/2022/2752)).
+[^10-2]: Nuovo testo giusta il n. I della LF del 17 mar. 2017, in vigore dal 1° set. 2017 ([RU 2017 4041](https://fedlex.data.admin.ch/eli/oc/2017/478); [FF 2016 4577](https://fedlex.data.admin.ch/eli/fga/2016/1113)).
+[^10-3]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^10-4]: Introdotto dal n. I della LF del 16 giu. 2023, in vigore dal 1° ott. 2024 ([RU 2024 453](https://fedlex.data.admin.ch/eli/oc/2024/453); [FF 2022 2752](https://fedlex.data.admin.ch/eli/fga/2022/2752)).
+[^10-5]: Vedi ora l’O del 14 ott. 2009 sull’imposizione del tabacco ([RS 641.311](https://fedlex.data.admin.ch/eli/cc/2009/677)).
+[^10-6]: Introdotto dal n. I della LF del 24 mar. 1995, in vigore dal 1° mar. 1996 ([RU 1996 585](https://fedlex.data.admin.ch/eli/oc/1996/585_585_585); [FF 1995 I 65](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
 
 ### III. Calcolo dell’imposta (tariffa delle imposte)
 
 #### Art. 11
 
-<sup>1</sup> L’imposta sui tabacchi manufatti si calcola secondo le tariffe che figurano negli allegati I–IV.[^11-1]
+<sup>1</sup>
+
+L’imposta è calcolata come segue:
+
+- a. per i tabacchi manufatti, secondo le tariffe che figurano negli allegati I–IV;
+- b. per i prodotti di sostituzione, secondo la tariffa che figura nell’allegato V.[^11-1]
 
 <sup>2</sup>
 
@@ -212,7 +230,7 @@ Per cofinanziare i contributi della Confederazione all’assicurazione per la ve
 
 <sup>3</sup> In caso di aumento dell'imposta il Consiglio federale può prendere provvedimenti per evitare che l'efficacia dell'aumento fiscale venga differita. Può segnatamente obbligare i produttori e gli importatori a limitare, fino all'entrata in vigore dell'aumento, la produzione e l'importazione alle vendite realizzate in un periodo comparabile dell'anno precedente, tenendo conto dell'evoluzione della domanda.[^11-4]
 
-[^11-1]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^11-1]: Nuovo testo giusta il n. I della LF del 16 giu. 2023, in vigore dal 1° ott. 2024 ([RU 2024 453](https://fedlex.data.admin.ch/eli/oc/2024/453); [FF 2022 2752](https://fedlex.data.admin.ch/eli/fga/2022/2752)).
 [^11-2]: [RU 2003 2460](https://fedlex.data.admin.ch/eli/oc/2003/361)
 [^11-3]: Nuovo testo giusta il n. I della LF del 19 dic. 2008, in vigore dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 [^11-4]: Nuovo testo giusta il n. I della LF del 24 mar. 1995, in vigore dal 1° mar. 1996 ([RU 1996 585](https://fedlex.data.admin.ch/eli/oc/1996/585_585_585); [FF 1995 I 65](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
@@ -268,9 +286,12 @@ L’iscrizione è subordinata alle seguenti condizioni:
 
 Mediante un impegno di garanzia (revers) depositato presso la Direzione generale delle dogane:
 
-- a. i fabbricanti di tabacchi manufatti si obbligano a lavorare nella propria azienda o a consegnare unicamente a ditte iscritte nel registro il materiale greggio, importato o acquistato in Svizzera, come anche i tabacchi manufatti, non pronti al consumo, che essi hanno fabbricato o acquistato dalla produzione indigena;
-- b. gli importatori e i negozianti di materiale greggio destinato alla fabbricazione industriale di tabacchi manufatti, si obbligano a consegnare il materiale greggio unicamente alle ditte iscritte nel registro;
-- c. i fabbricanti di tabacchi manufatti, gli importatori di tabacchi manufatti ...[^14-1] destinati ad essere rivenduti e i negozianti e gli importatori di materiale greggio si obbligano ad osservare le prescrizioni commerciali della presente legge e dell’ordinanza 15 dicembre 1969[^14-2] concernente l’imposizione sul tabacco.
+- a. i fabbricanti di tabacchi manufatti:
+- si obbligano a lavorare nella propria azienda o a consegnare unicamente a ditte iscritte nel registro il materiale greggio, importato o acquistato in Svizzera, come anche i tabacchi manufatti, non pronti al consumo, che essi hanno fabbricato o acquistato dalla produzione indigena;
+- b. gli importatori e i negozianti di materiale greggio destinato alla fabbricazione industriale di tabacchi manufatti:
+- si obbligano a consegnare il materiale greggio unicamente alle ditte iscritte nel registro;
+- c. i fabbricanti di tabacchi manufatti, gli importatori di tabacchi manufatti ...[^14-1] destinati ad essere rivenduti e i negozianti e gli importatori di materiale greggio:
+- si obbligano ad osservare le prescrizioni commerciali della presente legge e dell’ordinanza 15 dicembre 1969[^14-2] concernente l’imposizione sul tabacco.
 
 <sup>2</sup> Ai titolari di impegni di garanzia (revers) è assegnato un numero di controllo.
 
@@ -980,4 +1001,12 @@ L’imposta ammonta a:
 
 Allegato V[^t-6]
 
-[^t-6]: Abrogato dal n. II cpv. 2 della LF del 19 dic. 2008, con effetto dal 1° gen. 2010 ([RU 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [FF 2008 423](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+(art. 11 cpv. 1 lett. b)
+
+## Tariffa d’imposta per i prodotti di sostituzione
+
+[^t-6]: Nuovo testo giusta il n. II della LF del 16 giu. 2023, in vigore dal 1° ott. 2024 ([RU 2024 453](https://fedlex.data.admin.ch/eli/oc/2024/453); [FF 2022 2752](https://fedlex.data.admin.ch/eli/fga/2022/2752)).
+
+- 1\. Per i prodotti contenenti nicotina che possono essere consumati mediante sigarette elettroniche ricaricabili, l’imposta ammonta a 0,20 franchi per millilitro.
+- 2\. Per i prodotti che possono essere consumati mediante sigarette elettroniche monouso, l’imposta ammonta a 1 franco per millilitro.
+- 3\. Per altri prodotti di sostituzione, l’imposta è calcolata secondo la tariffa d’imposta per i tabacchi manufatti che sostituiscono.

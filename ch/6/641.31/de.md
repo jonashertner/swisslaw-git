@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 21. März 1969 über die Tabakbesteuerung (Tabaksteuerg
 short: TStG
 eli: "https://fedlex.data.admin.ch/eli/cc/1969/645_665_663"
 language: de
-version: 2023-09-01
+version: 2024-10-01
 adopted: 1969-03-21
 in_force: 1970-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/645_665_663/20230901/de/xml/fedlex-data-admin-ch-eli-cc-1969-645_665_663-20230901-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1969/645_665_663/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1969/645_665_663/20241001/de/xml/fedlex-data-admin-ch-eli-cc-1969-645_665_663-20241001-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1969/645_665_663/20241001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1969/645_665_663/20230901/de"
 
 (Tabaksteuergesetz, TStG)[^t-1]
 
-vom 21. März 1969 (Stand am 1. September 2023)
+vom 21. März 1969 (Stand am 1. Oktober 2024)
 
 [^t-1]: Eingefügt durch Anhang Ziff. 8 des Zollgesetzes vom 18. März 2005, in Kraft seit 1. Mai 2007 ([AS 2007 1411](https://fedlex.data.admin.ch/eli/oc/2007/249); [BBl 2004 567](https://fedlex.data.admin.ch/eli/fga/2004/129)).
 
@@ -47,9 +47,12 @@ beschliesst:
 
 <sup>2</sup> Die in diesem Gesetz verwendeten Begriffe Tabakfabrikate und Ersatzprodukte werden in der Tabaksteuerverordnung vom 15. Dezember 1969[^1-3] näher festgelegt.
 
+<sup>3</sup> Soweit dieses Gesetz für Ersatzprodukte keine besonderen Bestimmungen enthält, gelten für sie die Bestimmungen für Tabakfabrikate.[^1-4]
+
 [^1-1]: Fassung gemäss Ziff. I des BG vom 24. März 1995, in Kraft seit 1. März 1996 ([AS 1996 585](https://fedlex.data.admin.ch/eli/oc/1996/585_585_585); [BBl 1995 I 89](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
 [^1-2]: Ausdruck gestrichen durch Ziff. I des BG vom 19. Dez. 2008, mit Wirkung seit 1. Jan. 2010 ([AS 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [BBl 2008 533](https://fedlex.data.admin.ch/eli/fga/2008/149)). Die Anpassung wurde im ganzen Erlass berücksichtigt.
 [^1-3]: [[AS 1969 1274](https://fedlex.data.admin.ch/eli/oc/1969/1274_1286_1289); [1974 1021](https://fedlex.data.admin.ch/eli/oc/1974/1021_1021_1021)Art. 4 Abs. 1; **1987** 2474; [1993 331](https://fedlex.data.admin.ch/eli/oc/1993/331_331_331)Ziff. I 5; [1996 590](https://fedlex.data.admin.ch/eli/oc/1996/590_590_590); [1997 376](https://fedlex.data.admin.ch/eli/oc/1997/376_376_376); [2003 2465](https://fedlex.data.admin.ch/eli/oc/2003/363); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)Anhang 4 Ziff. 25; [2008 3159](https://fedlex.data.admin.ch/eli/oc/2008/419)Ziff. II. [AS 2009 5577](https://fedlex.data.admin.ch/eli/oc/2009/677)Art. 43]. Siehe heute: die Tabaksteuerverordnung vom 14. Okt. 2009 ([SR 641.311](https://fedlex.data.admin.ch/eli/cc/2009/677)).
+[^1-4]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Okt. 2024 ([AS 2024 453](https://fedlex.data.admin.ch/eli/oc/2024/453); [BBl 2022 2752](https://fedlex.data.admin.ch/eli/fga/2022/2752)).
 
 ### II. Behörden
 
@@ -182,26 +185,41 @@ Die Steuerschuld entsteht:
 
 <sup>1</sup>
 
-Die Steuer wird bemessen:
+Die Steuer auf Tabakfabrikaten wird wie folgt bemessen:[^10-1]
 
 - a. für Zigaretten, Zigarren und Zigarillos je Stück und in Prozenten des Kleinhandelspreises;
-- b.[^10-1] für Feinschnitttabak und Wasserpfeifentabak je Kilogramm und in Prozenten des Kleinhandelspreises;
-- c. für anderen Rauchtabak als Feinschnitttabak und übrige Tabakfabrikate sowie für Kau- und Schnupftabak in Prozenten des Kleinhandelspreises.[^10-2]
+- b.[^10-2] für Feinschnitttabak und Wasserpfeifentabak je Kilogramm und in Prozenten des Kleinhandelspreises;
+- c. für anderen Rauchtabak als Feinschnitttabak und übrige Tabakfabrikate sowie für Kau- und Schnupftabak in Prozenten des Kleinhandelspreises.[^10-3]
 
-<sup>2</sup> Wo der Kleinhandelspreis für den Steuersatz mitbestimmend ist, richtet sich dieser für Sortiments- und Spezialpackungen nach dem Preis der üblichsten Kleinhandelspackung. Die Begriffe Sortiments- und Spezialpackungen werden durch die Tabaksteuerverordnung vom 15. Dezember 1969[^10-3] näher festgelegt.
+<sup>1bis</sup>
 
-<sup>3</sup> Der vom Hersteller oder Importeur auf den Kleinhandelspackungen aufgedruckte Preis darf beim Verkauf nicht überschritten werden.[^10-4]
+Die Steuer auf Ersatzprodukten wird wie folgt bemessen:
 
-[^10-1]: Fassung gemäss Ziff. I des BG vom 17. März 2017, in Kraft seit 1. Sept. 2017 ([AS 2017 4041](https://fedlex.data.admin.ch/eli/oc/2017/478); [BBl 2016 5153](https://fedlex.data.admin.ch/eli/fga/2016/1113)).
-[^10-2]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2008, in Kraft seit 1. Jan. 2010 ([AS 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [BBl 2008 533](https://fedlex.data.admin.ch/eli/fga/2008/149)).
-[^10-3]: Siehe heute: die Tabaksteuerverordnung vom 14. Okt. 2009 ([SR 641.311](https://fedlex.data.admin.ch/eli/cc/2009/677)).
-[^10-4]: Eingefügt durch Ziff. I der V vom 24. März 1995, in Kraft seit 1. März 1996 ([AS 1996 585](https://fedlex.data.admin.ch/eli/oc/1996/585_585_585); [BBl 1995 I 89](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
+- a. für nikotinhaltige Erzeugnisse, die mittels nachfüllbarer elektronischer Zigaretten konsumiert werden können: je Milliliter;
+- b. für Erzeugnisse, die mittels elektronischer Einwegzigaretten konsumiert werden können: je Milliliter;
+- c. für andere Ersatzprodukte: gleich wie für die Tabakfabrikate, die sie ersetzen.[^10-4]
+
+<sup>2</sup> Wo der Kleinhandelspreis für den Steuersatz mitbestimmend ist, richtet sich dieser für Sortiments- und Spezialpackungen nach dem Preis der üblichsten Kleinhandelspackung. Die Begriffe Sortiments- und Spezialpackungen werden durch die Tabaksteuerverordnung vom 15. Dezember 1969[^10-5] näher festgelegt.
+
+<sup>3</sup> Der vom Hersteller oder Importeur auf den Kleinhandelspackungen aufgedruckte Preis darf beim Verkauf nicht überschritten werden.[^10-6]
+
+[^10-1]: Fassung gemäss Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Okt. 2024 ([AS 2024 453](https://fedlex.data.admin.ch/eli/oc/2024/453); [BBl 2022 2752](https://fedlex.data.admin.ch/eli/fga/2022/2752)).
+[^10-2]: Fassung gemäss Ziff. I des BG vom 17. März 2017, in Kraft seit 1. Sept. 2017 ([AS 2017 4041](https://fedlex.data.admin.ch/eli/oc/2017/478); [BBl 2016 5153](https://fedlex.data.admin.ch/eli/fga/2016/1113)).
+[^10-3]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2008, in Kraft seit 1. Jan. 2010 ([AS 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [BBl 2008 533](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^10-4]: Eingefügt durch Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Okt. 2024 ([AS 2024 453](https://fedlex.data.admin.ch/eli/oc/2024/453); [BBl 2022 2752](https://fedlex.data.admin.ch/eli/fga/2022/2752)).
+[^10-5]: Siehe heute: die Tabaksteuerverordnung vom 14. Okt. 2009 ([SR 641.311](https://fedlex.data.admin.ch/eli/cc/2009/677)).
+[^10-6]: Eingefügt durch Ziff. I der V vom 24. März 1995, in Kraft seit 1. März 1996 ([AS 1996 585](https://fedlex.data.admin.ch/eli/oc/1996/585_585_585); [BBl 1995 I 89](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
 
 ### III. Berechnung der Steuer (Steuertarife)
 
 #### Art. 11
 
-<sup>1</sup> Die Steuer auf Tabakfabrikaten wird nach den Tarifen in den Anhängen I–IV berechnet.[^11-1]
+<sup>1</sup>
+
+Die Steuer wird wie folgt berechnet:
+
+- a. für Tabakfabrikate: nach den Tarifen in den Anhängen I–IV;
+- b. für Ersatzprodukte: nach dem Tarif in Anhang V.[^11-1]
 
 <sup>2</sup>
 
@@ -214,7 +232,7 @@ Der Bundesrat kann zur Mitfinanzierung der Beiträge des Bundes an die Alters-, 
 
 <sup>3</sup> Bei Steuererhöhungen kann der Bundesrat Massnahmen treffen, um zu verhindern, dass die Wirksamkeit der beschlossenen Mehrbelastung hinausgeschoben wird. Er kann insbesondere bis zum Inkrafttreten der Mehrbelastung die Hersteller und Importeure verpflichten, die Produktion und die Einfuhr auf die Verkäufe einer vergleichbaren Periode des Vorjahres unter Berücksichtigung der Nachfrageentwicklung zu beschränken.[^11-4]
 
-[^11-1]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2008, in Kraft seit 1. Jan. 2010 ([AS 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [BBl 2008 533](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+[^11-1]: Fassung gemäss Ziff. I des BG vom 16. Juni 2023, in Kraft seit 1. Okt. 2024 ([AS 2024 453](https://fedlex.data.admin.ch/eli/oc/2024/453); [BBl 2022 2752](https://fedlex.data.admin.ch/eli/fga/2022/2752)).
 [^11-2]: [AS 2003 2460](https://fedlex.data.admin.ch/eli/oc/2003/361)
 [^11-3]: Fassung gemäss Ziff. I des BG vom 19. Dez. 2008, in Kraft seit 1. Jan. 2010 ([AS 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [BBl 2008 533](https://fedlex.data.admin.ch/eli/fga/2008/149)).
 [^11-4]: Fassung gemäss Ziff. I des BG vom 24. März 1995, in Kraft seit 1. März 1996 ([AS 1996 585](https://fedlex.data.admin.ch/eli/oc/1996/585_585_585); [BBl 1995 I 89](https://fedlex.data.admin.ch/eli/fga/1995/1_89_85_65)).
@@ -237,7 +255,9 @@ Der Bundesrat kann zur Mitfinanzierung der Beiträge des Bundes an die Alters-, 
 
 #### Art. 13
 
-<sup>1</sup> Die Oberzolldirektion führt ein Register
+<sup>1</sup>
+
+Die Oberzolldirektion führt ein Register:
 
 - a. der Hersteller von Tabakfabrikaten;
 - b. der Importeure von Tabakfabrikaten zum Weiterverkauf;
@@ -268,7 +288,7 @@ Durch einen bei der Oberzolldirektion zu hinterlegenden Revers haben sich zu ver
 
 - a. der Hersteller von Tabakfabrikaten:
 - das von ihm eingeführte oder im Inland erworbene Rohmaterial sowie die von ihm hergestellten oder aus der inländischen Produktion erworbenen, nicht verbrauchsfertigen Tabakfabrikate im eigenen Betrieb weiterzuverarbeiten oder nur an im Register eingetragene Firmen abzugeben;
-- b. der Importeur und Händler von Rohmaterial zur gewerbsmässigen Herstellung von Tabakfabrikaten …[^14-1] :
+- b. der Importeur und Händler von Rohmaterial zur gewerbsmässigen Herstellung von Tabakfabrikaten …[^14-1]:
 - das Rohmaterial nur an im Register eingetragene Firmen abzugeben;
 - c. der Hersteller von Tabakfabrikaten, der Importeur von Tabakfabrikaten zum Weiterverkauf sowie der Importeur und Händler von Rohmaterial:
 - die durch dieses Gesetz und die Tabaksteuerverordnung vom 15. Dezember 1969[^14-2] aufgestellten Handelsvorschriften zu befolgen.
@@ -700,6 +720,8 @@ Für die Durchführung der in diesem Abschnitt vorgesehenen Massnahmen kann der 
 
 [^35-1]
 
+<sup>1</sup>
+
 Mit Busse bis zu 30 000 Franken oder, sofern dies einen höheren Betrag ergibt, bis zum Fünffachen der hinterzogenen Steuer oder des unrechtmässigen Vorteils wird bestraft, wer vorsätzlich oder fahrlässig, zum eigenen oder zum Vorteil eines andern:
 
 - a. dem Bund Steuern auf Tabakfabrikaten vorenthält;
@@ -980,9 +1002,15 @@ Die Steuer beträgt:
 - 12 Prozent des Kleinhandelspreises;
 - b. für Kau- und Schnupftabak:
 - 6 Prozent des Kleinhandelspreises.
-- [tab]
-- [tab]
 
 Anhang V[^t-6]
 
-[^t-6]: Aufgehoben durch Ziff. II Abs. 2 des BG vom 19. Dez. 2008, mit Wirkung seit 1. Jan. 2010 ([AS 2009 5561](https://fedlex.data.admin.ch/eli/oc/2009/676); [BBl 2008 533](https://fedlex.data.admin.ch/eli/fga/2008/149)).
+(Art. 11 Abs. 1 Bst. b)
+
+## Steuertarif für Ersatzprodukte
+
+[^t-6]: Fassung gemäss Ziff. II des BG vom 16. Juni 2023, in Kraft seit 1. Okt. 2024 ([AS 2024 453](https://fedlex.data.admin.ch/eli/oc/2024/453); [BBl 2022 2752](https://fedlex.data.admin.ch/eli/fga/2022/2752)).
+
+- 1\. Für nikotinhaltige Erzeugnisse, die mittels nachfüllbarer elektronischer Zigaretten konsumiert werden können, beträgt die Steuer Fr. –.20 je Milliliter.
+- 2\. Für Erzeugnisse, die mittels elektronischer Einwegzigaretten konsumiert werden können, beträgt die Steuer Fr. 1.– je Milliliter.
+- 3\. Für andere Ersatzprodukte wird die Steuer nach dem Steuertarif für die Tabakfabrikate, die sie ersetzen, berechnet.
