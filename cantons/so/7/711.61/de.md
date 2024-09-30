@@ -4,13 +4,12 @@ number: "711.61"
 title: Kantonale Bauverordnung
 short: KBV
 language: de
-version: 2021-07-07
-valid_until: 2024-09-30
-version_adopted: 2021-07-07
+version: 2024-10-01
+version_adopted: 2024-03-19
 adopted: 1978-07-03
 in_force: 1979-07-01
 url: "https://bgs.so.ch/app/de/texts_of_law/711.61"
-pdf: "https://bgs.so.ch/api/de/versions/5435/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5471/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5435/pdf_file"
 
 (KBV)
 
-Vom 03.07.1978 (Stand 07.07.2021)
+Vom 03.07.1978 (Stand 01.10.2024)
 
 Der Kantonsrat von Solothurn
 
@@ -85,15 +84,15 @@ beschliesst:
 - d) Abbruch von Gebäuden und Gebäudeteilen;
 - e) Heizungs- und Feuerungsanlagen;
 - f) Sende- und Empfangsanlagen;
-- g) unterirdische Bauten und bauliche Anlagen;
+- g) unterirdische Bauten und bauliche Anlagen sowie Unterniveaubauten;
 - h) private Erschliessungsanlagen;
 - i) öffentliche Erschliessungsanlagen, wenn die Ausführung der Anlage aus dem Nutzungsplan nicht genügend ersichtlich ist oder wesentliche Änderungen gegenüber dem Auflageplan erfolgen;
-- j) Terrainveränderungen, wie Abgrabungen, Aufschüttungen, Deponien, Steinbrüche, unter Vorbehalt von Absatz 3;
-- k) Einfriedigungen und Stützmauern;
+- j) Terrainveränderungen, wie Abgrabungen, Aufschüttungen, Deponien, Steinbrüche, unter Vorbehalt von Absatz 3 sowie § 3<sup>ter</sup> Absatz 1 Buchstabe c;
+- k) Einfriedigungen mit einer Höhe von mehr als 1,20 m und Stützmauern;
 - l) Abstell- und Lagerplätze;
 - m) Plätze für Zelte, Wohnwagen und Mobilheime;
 - n) Aufstellen von Wohnwagen und Mobilheimen ausserhalb der dafür vorgesehenen Plätze;
-- o) Fahrnisbauten und Kleintierställe;
+- o) Fahrnisbauten, unter Vorbehalt von § 3<sup>ter</sup> Absatz 1 Buchstabe b, und Kleintierställe;
 - p) Silos;
 - q) Garten- und Hallenbassins;
 - r) Cheminéeanlagen;
@@ -101,7 +100,7 @@ beschliesst:
 - t) Skiliftanlagen und Luftseilbahnen;
 - u) Krananlagen;
 - v) Bootsstege und Bootsanlegestellen;
-- w) Reklamen, Schaukästen und Warenautomaten.
+- w) Reklamen und Warenautomaten.
 
 <sup>3</sup> Aufhumusierungen von landwirtschaftlichen Böden bis zu einer Höhe von 0,25 m benötigen kein Baugesuch, sofern sie nicht geeignet sind, die Nutzungsordnung zu beeinflussen, indem sie zum Beispiel den Raum äusserlich erheblich verändern, die Erschliessung belasten oder die Umwelt beeinträchtigen sowie weder Naturschutzobjekte noch Grundwasserschutzzonen betreffen.
 
@@ -111,11 +110,40 @@ beschliesst:
 
 <sup>1</sup> Bauvorhaben für Solaranlagen, welche nach Bundesrecht keiner Baubewilligung bedürfen, sind der Baubehörde mindestens 30 Tage vor Baubeginn zu melden. Der Meldung sind ein Baubeschrieb, ein Situationsplan sowie ein Fassadenplan beizulegen.
 
+<sup>2</sup> Bauvorhaben für vollständig im Gebäudeinnern aufgestellte Luft/Wasser-Wärmepumpen sind der Baubehörde mindestens 30 Tage vor Baubeginn zu melden. Der Meldung sind die üblichen Baugesuchsunterlagen, insbesondere ein Lärmschutznachweis, beizulegen.
+
+<sup>3</sup> Widerspricht ein Bauvorhaben nach Absatz 1 oder 2 den Vorschriften des materiellen Rechts, so stellt die Baubehörde dies innert der entsprechenden Frist mittels Verfügung fest und spricht ein Bauverbot aus. Im Übrigen gilt § 151 des Planungs- und Baugesetzes[^3bis-1].
+
+[^3bis-1]: BGS [711.1](https://bgs.so.ch/data/711.1/de).
+
+#### § 3ter
+
+**Ausnahmen von der Baubewilligungspflicht**
+
+<sup>1</sup> Keiner Baubewilligung bedürfen innerhalb der Bauzone:
+
+- a) Kandelaber, Verkehrssignale, Strassentafeln, Poller, Vermessungszeichen, Elektro-Ladestationen, Hydranten und einzelne Fahnenstangen;
+- b) einzelne unbeheizte Bauten mit einer überdeckten Fläche bis 10 m² (inkl. Dachvorsprünge) und einer Fassadenhöhe bis 2,50 m, soweit sie weder bewohnt noch gewerblich genutzt werden;
+- c) bauliche Anlagen der Garten- und Aussenraumgestaltung wie ungedeckte Sitzplätze, Fusswege, Brunnen, Sandkästen, einzelne Spielgeräte, Pflanzungen, Pflanzentröge und Hochbeete sowie damit einhergehende Terrainveränderungen bis zu 0,25 m;
+- d) Einfriedigungen bis zu einer Höhe von 1,20 m;
+- e) Schaukästen und Verteilkabinen mit bis zu zwei Kubikmeter Inhalt sowie kleine Behälter wie Robidogs, Abfalleimer und Kompostbehälter;
+- f) die temporäre Errichtung von baubewilligungspflichtigen Bauten oder baulichen Anlagen bis zu maximal drei Monaten pro Kalenderjahr;
+- g) bauliche Änderungen im Gebäudeinnern, die nicht sicherheitsrelevant sind, soweit die Anzahl Wohneinheiten nicht verändert wird;
+- h) das Unterhalten von Bauten und baulichen Anlagen, wenn keine bau-, energie- oder umweltrechtlich relevanten Tatbestände betroffen sind.
+
+<sup>2</sup> Baubewilligungsfrei sind auch alle Vorhaben, die von gleicher oder geringerer Bedeutung sind als die in Absatz 1 genannten.
+
+<sup>3</sup> Betrifft ein Bauvorhaben nach Absatz 1 oder 2 den Gewässerraum, den Wald- oder Heckenabstand, eine Strassenbaulinie, eine Schutzzone oder ein Schutzobjekt, so ist es baubewilligungspflichtig.
+
+<sup>4</sup> Die Befreiung von der Baubewilligungspflicht entbindet nicht von der Einhaltung sämtlicher Vorschriften des materiellen Rechts. Widerspricht ein Bauvorhaben nach Absatz 1 oder 2 den Vorschriften des materiellen Rechts, so stellt die Baubehörde dies mittels Verfügung fest. Im Übrigen gilt § 151 des Planungs- und Baugesetzes[^3ter-1].
+
+[^3ter-1]: BGS [711.1](https://bgs.so.ch/data/711.1/de).
+
 #### § 4
 
 **Anzeige**
 
-<sup>1</sup> 1 Eine Anzeige an die Baubehörde ist erforderlich für:
+<sup>1</sup> Eine Anzeige an die Baubehörde ist erforderlich für:
 
 - a) Baubüros und Unterkunftsräume;
 - b) Bauten, die zur Aufrechterhaltung des Betriebes bei Umbauten und Neubauten notwendig sind;
@@ -184,7 +212,7 @@ beschliesst:
 
 **Baupublikation**
 
-<sup>1</sup> Wenn das Baugesuch nicht offensichtlich den materiellen Bauvorschriften widerspricht, hat es die Baubehörde auf Kosten des Bauherrn im amtlichen Publikationsorgan der Gemeinde oder, wo ein solches nicht besteht, in den von ihr bestimmten Zeitungen zu publizieren und die Pläne während 14 Tagen öffentlich aufzulegen. Während der Auflagefrist kann jedermann, der durch das Baugesuch besonders berührt ist und an dessen Inhalt ein schutzwürdiges Interesse hat, bei der Baubehörde Einsprache erheben. Einsprachen gegen das Bauvorhaben sind schriftlich und begründet im Doppel der Baubehörde einzureichen.
+<sup>1</sup> Wenn das Baugesuch nicht offensichtlich den materiellen Bauvorschriften widerspricht, hat es die Baubehörde auf Kosten des Bauherrn im amtlichen Publikationsorgan der Gemeinde oder, wo ein solches nicht besteht, in den von ihr bestimmten Zeitungen und, soweit erforderlich, im kantonalen Amtsblatt zu publizieren und die Pläne während 20 Tagen öffentlich aufzulegen. Während der Auflagefrist kann jedermann, der durch das Baugesuch besonders berührt ist und an dessen Inhalt ein schutzwürdiges Interesse hat, bei der Baubehörde Einsprache erheben. Einsprachen gegen das Bauvorhaben sind schriftlich und im Doppel der Baubehörde einzureichen und sollen einen Antrag und eine Begründung enthalten.
 
 <sup>2</sup> Die Publikation ist nicht erforderlich bei Bauvorhaben von untergeordneter Bedeutung, die keine erheblichen öffentlichen und nachbarlichen Interessen berühren, insbesondere bei Solaranlagen und Wärmepumpen sowie Fassadenisolationen bei bestehenden Gebäuden gemäss § 56<sup>bis</sup>. In solchen Fällen ist das Bauvorhaben betroffenen Nachbarn auf andere Weise zur Kenntnis zu bringen.
 
@@ -252,7 +280,7 @@ beschliesst:
 
 **Elektronische Baugesuchsverfahren**
 
-<sup>1</sup> Der Regierungsrat kann durch Verordnung die Voraussetzungen für Baugesuchsverfahren auf elektronischem Weg regeln und Bestimmungen zu deren Ausgestaltung erlassen.
+<sup>1</sup> Der Regierungsrat kann durch Verordnung die Voraussetzungen für Baugesuchsverfahren auf elektronischem Weg regeln und Bestimmungen zu deren Ausgestaltung erlassen. Darin kann - soweit erforderlich - von den Formvorschriften dieses Titels abgewichen werden.
 
 #### § 15
 
@@ -412,6 +440,8 @@ c) bei einer ganzen Längsfassade und zwei ganzen Breitfassaden je 2 m.
 
 <sup>2</sup> Der Grenzabstand wird pro Fassade ermittelt und richtet sich nach der Anzahl Vollgeschosse sowie der Gebäudelänge respektive Gebäudebreite. Attikageschosse werden bei der Fassade, deren Rücksprung weniger als 2,00 m beträgt, zur massgebenden Geschosszahl hinzugerechnet. Einzelheiten regelt der Anhang II.
 
+<sup>2<sup>bis</sup></sup> Die Gemeinden können in ihrem Baureglement nach § 1 Absatz 2 vorsehen, dass innerhalb von bestimmten Zonen, Teilgebieten oder im gesamten Gemeindegebiet die ordentlichen Grenz- und Gebäudeabstände nach Anhang II um einen Faktor von höchstens 0,5 reduziert werden, wobei der minimale Grenzabstand 2,00 m beträgt.
+
 <sup>3</sup> Vorspringende Gebäudeteile nach § 21<sup>ter</sup> Absatz 4 werden beim Grenzabstand nicht berücksichtigt.
 
 <sup>4</sup> Für Gebäude, die nach ihrer Zweckbestimmung eine besondere Höhe erfordern (Kirchen, Turnhallen, Scheunen, Silos usw.) sind die gleichen Grenzabstände einzuhalten wie für mehrgeschossige Bauten derselben Höhe.
@@ -430,7 +460,7 @@ c) bei einer ganzen Längsfassade und zwei ganzen Breitfassaden je 2 m.
 
 <sup>1</sup> Bei industriellen und gewerblichen Bauten innerhalb der Industrie- oder Gewerbezone entspricht der Grenzabstand der Hälfte der Fassadenhöhe; er beträgt mindestens 2 m und höchstens 8 m.
 
-<sup>2</sup> Gegenüber einer anderen Zone gilt der Grenzabstand nach § 22. Er beträgt mindestens 10 m. Dieser Abstand darf von auskragenden, nicht abgestützten Vordächern über Toren und Einfahrten um maximal 5 m unterschritten werden. Für die Bestimmung der Zahl der Vollgeschosse gelten die Masse nach § 18 Absatz 1.
+<sup>2</sup> Gegenüber einer anderen Zone gilt der Grenzabstand nach § 22. Er beträgt mindestens 10 m, soweit die Nutzung der entsprechenden Baute mehr als nicht-störend ist. Dieser Abstand darf von auskragenden, nicht abgestützten Vordächern über Toren und Einfahrten um maximal 5 m unterschritten werden. Für die Bestimmung der Zahl der Vollgeschosse gelten die Masse nach § 18 Absatz 1.
 
 <sup>3</sup> Werden bestehende Industrie- und störende Gewerbebauten, die sich nicht in einer Industrie- oder Gewerbezone befinden, erweitert, so entspricht der Grenzabstand der Erweiterungsbauten der Fassadenhöhe. Er beträgt mindestens 10 m. Befindet sich auf dem Nachbargrundstück eine gleichartige Baute, gilt Absatz 1.
 
@@ -633,7 +663,7 @@ BMZ = BVm/aGSF
 
 **Nutzungsziffern bei Parzellierung**
 
-<sup>1</sup> Soll ein bereits überbautes Grundstück geteilt werden, so hat das Grundbuchamt der Baubehörde davon Kenntnis zu geben. Diese stellt fest, in weIchem Mass die abgetrennte Parzelle bereits in die Berechnung der Geschossflächen-, Überbauungs- oder Baumassenziffer einbezogen war und passt die Fläche für die abgetrennte Parzelle entsprechend an. Die Baubehörde lässt das angepasste Flächenmass im Grundbuch anmerken. Gleichzeitig prüft sie die Einhaltung der Grünflächenziffer. Eine gegen die Grünflächenziffer verstossende Parzellierung darf nicht erfolgen.
+<sup>1</sup> Soll ein Grundstück geteilt werden, so hat das Grundbuchamt der Baubehörde davon Kenntnis zu geben. Diese stellt bei bereits überbauten Grundstücken sowie bei Grundstücken mit baubewilligten Vorhaben fest, in weIchem Mass die abgetrennte Parzelle bereits in die Berechnung der Geschossflächen-, Überbauungs- oder Baumassenziffer einbezogen war und passt die Fläche für die abgetrennte Parzelle entsprechend an. Die Baubehörde lässt das angepasste Flächenmass im Grundbuch anmerken. Gleichzeitig prüft sie die Einhaltung der Grünflächenziffer. Eine gegen die Grünflächenziffer verstossende Parzellierung darf nicht erfolgen.
 
 ### 3.5. Gemeinschaftliche Anlagen, Abstellflächen für Motorfahrzeuge
 
@@ -900,6 +930,16 @@ BMZ = BVm/aGSF
 
 <sup>3</sup> Hauseingänge und Garageneinfahrten dürfen einen Drittel der jeweiligen Fassadenlänge nicht überschreiten. Ihre Länge darf insgesamt aber höchstens 6 m betragen. Im übrigen Bereich dürfen Fassaden von Untergeschossen unterhalb der Fassadenlinie nicht in Erscheinung treten.
 
+#### § 63ter
+
+**Umgebungsgestaltung**
+
+<sup>1</sup> Das Anlegen von Stein- und Schottergärten, die nicht als anrechenbare Grünfläche gelten, ist untersagt.
+
+<sup>2</sup> Das Anpflanzen von invasiven gebietsfremden Pflanzen gemäss Artikel 15 Verordnung über den Umgang mit Organismen in der Umwelt (Freisetzungsverordnung, FrSV) vom 10. September 2008[^63ter-1] ist untersagt. Der Regierungsrat bezeichnet in einer Verordnung weitere invasive gebietsfremde Pflanzen, deren Anpflanzung untersagt ist.
+
+[^63ter-1]: SR 814.911.
+
 #### § 64
 
 **Dachaufbauten und -einschnitte**
@@ -1001,6 +1041,8 @@ BMZ = BVm/aGSF
 <sup>2</sup> Ist bei Inkrafttreten dieser Verordnung über ein Baugesuch nicht rechtskräftig entschieden, so sind die Vorschriften dieser Verordnung anwendbar.
 
 <sup>3</sup> Der Regierungsrat ist ermächtigt, für die in den Absätzen 1 und 2 nicht geregelten Fälle eine übergangsrechtliche Ordnung zu treffen.
+
+<sup>4</sup> Die Auflage- und Einsprachefrist von 20 Tagen gemäss § 8 Absatz 1 findet auf diejenigen Baugesuche Anwendung, welche nach dem Inkrafttreten der Verordnungsänderung publiziert werden.
 
 #### § 72
 
