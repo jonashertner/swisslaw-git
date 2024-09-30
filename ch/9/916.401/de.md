@@ -4,11 +4,11 @@ title: Tierseuchenverordnung vom 27. Juni 1995 (TSV)
 short: TSV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716"
 language: de
-version: 2024-07-05
+version: 2024-10-01
 adopted: 1995-06-27
 in_force: 1995-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20240705/de/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20240705-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20240705/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20241001/de/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20241001-de-xml-14.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20241001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20240705/de"
 
 (TSV)
 
-vom 27. Juni 1995 (Stand am 5. Juli 2024)
+vom 27. Juni 1995 (Stand am 1. Oktober 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -410,7 +410,7 @@ Die Kennzeichnung darf nur von folgenden Personen vorgenommen werden:
 <sup>6</sup> Der Mikrochip darf ausschliesslich an Tierärzte geliefert werden. Die Personen nach Absatz 2 Buchstaben b und c dürfen ihn ausschliesslich bei Tierärzten beziehen.
 
 [^11a-1]: Eingefügt durch Ziff. I der V vom 31. Aug. 2022, in Kraft seit 1. Nov. 2022 ([AS 2022 487](https://fedlex.data.admin.ch/eli/oc/2022/487)).
-[^11a-2]: Die aufgeführten Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^11a-2]: Die aufgeführten Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/).
 [^11a-3]: Die aufgeführten Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](https://www.snv.ch/).
 [^11a-4]: [SR 784.101.2](https://fedlex.data.admin.ch/eli/cc/2016/24)
 
@@ -1625,12 +1625,14 @@ Der Kantonstierarzt erteilt die Bewilligung für die künstliche Besamung an:
 
 <sup>3</sup>
 
-Sofern die Bestimmungen des Artikels 54 Absatz 2 Buchstaben c und d sinngemäss erfüllt sind, darf Samen für die künstliche Besamung in den folgenden Fällen auch an anderen Orten gewonnen werden:
+Sofern die Bestimmungen des Artikels 54 Absatz 2 Buchstaben b und c[^52-1] sinngemäss erfüllt sind, darf Samen für die künstliche Besamung in den folgenden Fällen auch an anderen Orten gewonnen werden:
 
 - a. für die künstliche Besamung von Tieren der Pferdegattung und von Wildtieren der Rinder‑, Schaf‑, Ziegen- und Schweinegattung;
 - b. für die künstliche Besamung von Klauentieren in der eigenen Tierhaltung.
 
 <sup>4</sup> Der Tierarzt meldet dem Kantonstierarzt im Voraus, wo der Samen gewonnen wird.
+
+[^52-1]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. Nov. 2022 angepasst.
 
 #### Art. 53
 
@@ -4824,7 +4826,7 @@ Tierverluste nach Artikel 32 Absatz 1 Buchstaben a und b TSG werden nicht entsch
 
 <sup>3</sup> Die Inkubationszeit beträgt zwei Jahre.
 
-[^217-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 1. Aug. 2014 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)). Die Berichtigung vom 5. Juli 2024 betrifft nur den französischen und italienischen Text ([AS 2024 340](https://fedlex.data.admin.ch/eli/oc/2024/340)).
+[^217-1]: Fassung gemäss Ziff. I der V vom 20. Juni 2014, in Kraft seit 1. Aug. 2014 ([AS 2014 2243](https://fedlex.data.admin.ch/eli/oc/2014/376)).
 
 #### Art. 218
 
@@ -4948,13 +4950,55 @@ Die Halter von Klauentieren und Geflügel treffen hygienische Massnahmen zur Ver
 
 Tierverluste nach Artikel 32 Absatz 1 Buchstaben a, b und d TSG werden nicht entschädigt.
 
-### 5. Abschnitt: …
+### 5. Abschnitt: Moderhinke
+
+[^tit3-chap4-sec5-1]
+
+[^tit3-chap4-sec5-1]: Fassung gemäss Ziff. I der V vom 31. März 2021, in Kraft seit 1. Okt. 2024 ([AS 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219))
 
 #### Art. 228
 
-[^228-1]
+**Geltungsbereich**
 
-[^228-1]: Aufgehoben durch Ziff. I der V vom 14. Jan. 2009, mit Wirkung seit 1. März 2009 ([AS 2009 581](https://fedlex.data.admin.ch/eli/oc/2009/101)).
+<sup>1</sup> Die Vorschriften dieses Abschnitts und des nachfolgenden 5*a*. Abschnitts gelten für die Bekämpfung der Moderhinke bei Schafen.
+
+<sup>2</sup> Wird die Moderhinke bei anderen Wiederkäuern, die als Haustiere gehalten werden, festgestellt, so kann der Kantonstierarzt bei diesen die Massnahmen zur Bekämpfung der Moderhinke bei Schafen anordnen, sofern dies für die Verhinderung der Erkrankung von Schafen erforderlich ist.
+
+#### Art. 228a
+
+**Diagnose**
+
+<sup>1</sup> Moderhinke liegt vor, wenn in einer Tierhaltung virulente Stämme des Erregers *Dichelobacter* *nodosus* nachgewiesen werden.
+
+<sup>2</sup> Das BLV erlässt Vorschriften technischer Art über die Anforderungen an die Laboratorien, die Probenahme und die Untersuchungsmethoden.
+
+#### Art. 228b
+
+**Verdachtsfall**
+
+<sup>1</sup> Bei Seuchen- oder Ansteckungsverdacht auf Moderhinke ordnet der Kantonstierarzt bis zur Widerlegung des Verdachts die einfache Sperre 1. Grades über die betroffene Schafhaltung an.
+
+<sup>2</sup> Der Verdacht gilt als widerlegt, wenn die Untersuchung einen negativen Befund ergeben hat.
+
+#### Art. 228c
+
+**Seuchenfall**
+
+<sup>1</sup> Der Kantonstierarzt ordnet bei Feststellung von Moderhinke die einfache Sperre 1. Grades über die verseuchte Schafhaltung und deren umgehende Sanierung an.
+
+<sup>2</sup> Er hebt die Sperre auf, sobald die Untersuchung nach Abschluss der Sanierung einen negativen Befund ergeben hat.
+
+#### Art. 228d
+
+**Mitwirkung von Gesundheitsdiensten für Kleinwiederkäuer**
+
+Die Kantone können Gesundheitsdienste, die im Bereich Kleinwiederkäuer tätig sind, zur Mitwirkung bei der Durchführung von Sanierungsmassnahmen und der Überwachung der Bestände heranziehen.
+
+#### Art. 228e
+
+**Entschädigung**
+
+Tierverluste wegen Moderhinke werden nicht entschädigt.
 
 ### 5*a*. Abschnitt: Nationales Programm zur Bekämpfung der Moderhinke
 

@@ -4,11 +4,11 @@ title: Ordonnance du 27 juin 1995 sur les épizooties (OFE)
 short: OFE
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716"
 language: fr
-version: 2024-07-05
+version: 2024-10-01
 adopted: 1995-06-27
 in_force: 1995-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20240705/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20240705-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20240705/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3716_3716_3716/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3716_3716_3716-20241001-fr-xml-14.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20241001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3716_3716_3716/20240705/fr"
 
 (OFE)
 
-du 27 juin 1995 (État le 5 juillet 2024)
+du 27 juin 1995 (État le 1<sup>er</sup> octobre 2024)
 
 Le Conseil fédéral suisse,
 
@@ -1627,12 +1627,14 @@ Le vétérinaire cantonal délivre l’autorisation de pratiquer l’inséminati
 
 <sup>3</sup>
 
-Dans les cas suivants, la semence destinée à l’insémination artificielle peut également être prélevée à d’autres endroits, pour autant que les dispositions de l’art. 54, al. 2, let. c et d, soient remplies par analogie:
+Dans les cas suivants, la semence destinée à l’insémination artificielle peut également être prélevée à d’autres endroits, pour autant que les dispositions de l’art. 54, al. 2, let. b et c[^52-1], soient remplies par analogie:
 
 - a. pour l’insémination artificielle d’animaux de l’espèce équine et d’animaux sauvages des espèces bovine, ovine, caprine et porcine;
 - b. pour l’insémination d’animaux à onglons dans la propre unité d’élevage.
 
 <sup>4</sup> Le vétérinaire annonce à l’avance au vétérinaire cantonal l’endroit où la semence sera prélevée.
+
+[^52-1]: Le renvoi a été adapté au 1<sup>er</sup> nov. 2022 en application de l’art. 12 al. 2 de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)).
 
 #### Art. 53
 
@@ -4962,13 +4964,55 @@ Les détenteurs d’animaux à onglons et de volaille prennent des mesures d’h
 
 Il n’est pas alloué d’indemnité pour les pertes d’animaux mentionnées à l’art. 32, al. 1, let. a, b et d, LFE.
 
-### Section 5 …
+### Section 5 Piétin
+
+[^tit3-chap4-sec5-1]
+
+[^tit3-chap4-sec5-1]: Nouvelle teneur selon le ch. I de l’O du 31 mars 2021, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2021 219](https://fedlex.data.admin.ch/eli/oc/2021/219)).
 
 #### Art. 228
 
-[^228-1]
+**Champ d’application**
 
-[^228-1]: Abrogé par le ch. I de l’O du 14 janv. 2009, avec effet au 1<sup>er</sup> mars 2009 ([RO 2009 581](https://fedlex.data.admin.ch/eli/oc/2009/101)).
+<sup>1</sup> Les dispositions de cette section et de la section 5*a* qui suit sont applicables à la lutte contre le piétin chez les moutons.
+
+<sup>2</sup> Si le piétin est constaté chez d’autres ruminants détenus comme animaux domestiques, le vétérinaire cantonal peut ordonner les mesures de lutte contre le piétin chez les moutons, à condition qu’elles soient nécessaires pour prévenir la maladie chez les moutons.
+
+#### Art. 228a
+
+**Diagnostic**
+
+<sup>1</sup> Le diagnostic de piétin est établi lorsqu’une souche virulente de l’agent infectieux *Dichelobacter nodosus* a été mise en évidence dans une unité d’élevage.
+
+<sup>2</sup> L’OSAV édicte des dispositions techniques relatives aux conditions que doivent remplir les laboratoires et auxquelles doivent satisfaire le prélèvement des échantillons et les méthodes d’analyse.
+
+#### Art. 228b
+
+**Suspicion**
+
+<sup>1</sup> En cas de suspicion de piétin ou lorsque les animaux ont été exposés à la contagion, le vétérinaire cantonal ordonne le séquestre simple de premier degré sur l’exploitation ovine concernée jusqu’à ce que la suspicion soit infirmée.
+
+<sup>2</sup> La suspicion est considérée comme infirmée lorsque l’examen a donné un résultat négatif.
+
+#### Art. 228c
+
+**Constat**
+
+<sup>1</sup> En cas de constat de piétin, le vétérinaire cantonal ordonne le séquestre simple de premier degré sur l’unité d’élevage ovin contaminée et son assainissement immédiat.
+
+<sup>2</sup> Il lève le séquestre aussitôt que l’examen effectué au terme de l’assainissement a donné un résultat négatif.
+
+#### Art. 228d
+
+**Collaboration des services sanitaires pour petits ruminants**
+
+Les cantons peuvent faire appel à des services sanitaires pour petits ruminants afin de collaborer à l’exécution des mesures d’assainissement et à la surveillance des troupeaux.
+
+#### Art. 228e
+
+**Indemnisation**
+
+Les pertes d’animaux dues au piétin ne sont pas indemnisées.
 
 ### Section 5*a* Programme national de lutte contre le piétin
 
