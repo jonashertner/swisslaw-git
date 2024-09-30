@@ -3,13 +3,13 @@ canton: BS
 number: BaB 152.110
 title: Ausführungsbestimmungen zur Geschäftsordnung des Bürgergemeinderates der Stadt Basel
 language: de
-version: 2021-12-16
-valid_until: 2024-09-30
-version_adopted: 2021-12-07
+version: 2024-10-01
+valid_until: 2025-12-31
+version_adopted: 2024-06-18
 adopted: 1986-09-09
 in_force: 1986-11-12
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BaB%20152.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5438/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6404/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5438/pdf_file"
 
 Bürgergemeinderat: Ausführungsbest. zur Geschäftsordnung | Basel: Bürgergemeinde
 
-Vom 9. September 1986 (Stand 16. Dezember 2021)
+Vom 9. September 1986 (Stand 1. Oktober 2024)
 
 Der Bürgergemeinderat der Stadt Basel
 
@@ -245,7 +245,9 @@ erlässt in Ausführung von § 42 seiner Geschäftsordnung vom 9. September 1986
 
 <sup>3</sup> Wird der Auftrag später oder während einer Sitzung eingereicht, so gibt die Präsidentin oder der Präsident[^24-1] dem Plenum unverzüglich Kenntnis vom Wortlaut des Auftrags. Die Behandlung erfolgt in der folgenden Sitzung, doch kann der Bürgergemeinderat mit zwei Dritteln der Stimmen Behandlung in der gleichen Sitzung beschliessen.
 
-<sup>4</sup> Nach der Einreichung darf ein Auftrag materiell nicht mehr abgeändert werden. Zieht ihn der Erstunterzeichner vor oder während der Beratung zurück, so kann er von einem andern Ratsmitglied aufgenommen werden.
+<sup>4</sup> Ein Auftrag kann von der erstunterzeichnenden Person während der Beratung im Wortlaut abgeändert werden.
+
+<sup>4<sup>bis</sup></sup> Zieht ihn die erstunterzeichnende Person vor oder während der Beratung zurück, so kann er von einem anderen Ratsmitglied aufgenommen werden.
 
 <sup>5</sup> Eine Diskussion findet nur statt, wenn der Auftrag bestritten ist. Nach einer Diskussion hat der Erstunterzeichner bzw. das vom Büro oder einer Kommission zur Vertretung des Auftrags bestimmte Mitglied das Schlusswort.
 
