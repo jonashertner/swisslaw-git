@@ -3,20 +3,20 @@ canton: SG
 number: "331.111"
 title: Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Krankenversicherung
 language: de
-version: 2024-01-01
-valid_until: 2024-09-30
-version_adopted: 2022-12-06
+version: 2024-10-01
+valid_until: 2024-12-31
+version_adopted: 2024-09-10
 adopted: 1995-12-12
 in_force: 1996-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/331.111"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3450/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3681/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Einführungsgesetz zur Bundesgesetzgebung über die Krankenversicherung
 
-vom 12.12.1995 (Stand 01.01.2024)
+vom 12.12.1995 (Stand 01.10.2024)
 
 Landammann und Regierung des Kantons St.Gallen
 
@@ -563,6 +563,16 @@ als Verordnung:[^ingress-2]
 <sup>3</sup> Der Anteil der politischen Gemeinden am Verwaltungskostenbeitrag wird nach der neuesten definitiven Statistik der ständigen Wohnbevölkerung per 31. Dezember berechnet.
 
 [^38quinquies-1]: sGS [331.11](https://www.gesetzessammlung.sg.ch/data/331.11/de).
+
+#### Art. 38sexies
+
+**Übernahme der ausstehenden Forderungen**
+
+<sup>1</sup> Die politischen Gemeinden teilen der Sozialversicherungsanstalt in der von ihr vorgegebenen Form jeweils bis zum 31. Oktober mit, wenn sie zusätzlich 5 Prozent der Forderungen übernehmen möchten, die im Folgejahr Gegenstand einer Meldung nach [Art. 64a](https://db.clex.ch/link/Bund/832.10/de) Abs. 3 und 3<sup>bis</sup> des Bundesgesetzes über die Krankenversicherung vom 18. März 1994[^38sexies-1] sein werden. Die Mitteilung gilt für ein Kalenderjahr.
+
+<sup>2</sup> Die Sozialversicherungsanstalt übernimmt die zusätzlichen 5 Prozent der Forderungen, wenn dies von allen politischen Gemeinden verlangt wird. Sie informiert die politischen Gemeinden über die Übernahme.
+
+[^38sexies-1]: SR [832.10](https://db.clex.ch/link/Bund/832.10/de).
 
 ## III. Schlussbestimmungen
 
