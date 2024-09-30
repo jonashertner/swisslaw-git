@@ -4,11 +4,11 @@ title: "Ordinanza del 27 maggio 2020 sull'esecuzione della legislazione sulle de
 short: OELDerr
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/460"
 language: it
-version: 2024-08-01
+version: 2024-10-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20240801/it/xml/fedlex-data-admin-ch-eli-cc-2020-460-20240801-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20240801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20241001/it/xml/fedlex-data-admin-ch-eli-cc-2020-460-20241001-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20241001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20240801/it"
 
 (OELDerr)
 
-del 27 maggio 2020 (Stato 1° agosto 2024)
+del 27 maggio 2020 (Stato 1° ottobre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -933,6 +933,117 @@ I laboratori nazionali di riferimento devono:
 <sup>3</sup> L’attività dei singoli laboratori nazionali di riferimento è regolarmente sottoposta a una valutazione eseguita sotto la direzione dell’USAV.
 
 <sup>4</sup> L’USAV può adeguare le competenze e i compiti dei laboratori nazionali di riferimento.
+
+## Titolo 3*a*: Test d’acquisto di alcol
+
+[^tit3a-1]
+
+[^tit3a-1]: Introdotto dall’all. 4 n. II 6 dell’O del 28 ago. 2024 sui prodotti del tabacco, in vigore dal 1° ott. 2024 ([RU 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
+
+#### Art. 61a
+
+**Organizzazione specializzata**
+
+<sup>1</sup> L’autorità cantonale competente può affidare l’incarico di svolgere test d’acquisto a un’organizzazione specializzata.
+
+<sup>2</sup> Può essere riconosciuta come organizzazione specializzata qualsiasi organizzazione attiva nell’ambito della salute, della prevenzione o della protezione dei giovani.
+
+<sup>3</sup> Dopo ogni mandato, l’organizzazione specializzata presenta all’autorità cantonale competente un rapporto sui test d’acquisto svolti e sui risultati ottenuti.
+
+<sup>4</sup> L’autorità cantonale competente vigila affinché l’organizzazione specializzata svolga il mandato in ottemperanza alle disposizioni legali e al piano dei test. Può esigere che l’organizzazione specializzata le trasmetta tutta la documentazione relativa ai test d’acquisto.
+
+#### Art. 61b
+
+**Piano dei test**
+
+<sup>1</sup> Tutti i test d’acquisto si basano su un piano dei test stabilito dall’autorità cantonale competente.
+
+<sup>2</sup>
+
+Il piano dei test comprende almeno spiegazioni concernenti:
+
+- a. le basi legali applicabili;
+- b. il reclutamento dei minorenni;
+- c. l’obbligo di confidenzialità del minorenne e dell’adulto che lo accompagna in merito ai punti di vendita sottoposti al test e ai risultati dei test d’acquisto;
+- d. la pianificazione e la preparazione dei test d’acquisto;
+- e. lo svolgimento dei test d’acquisto;
+- f. la verbalizzazione e la documentazione dei test d’acquisto;
+- g. la comunicazione dei risultati ai punti di vendita interessati;
+- h. la procedura da seguire in caso d’infrazione;
+- i. la conservazione e la distruzione dei dati.
+
+#### Art. 61c
+
+**Istruzione dei minorenni**
+
+<sup>1</sup>
+
+L’autorità cantonale competente o l’organizzazione specializzata informa il minorenne e un detentore dell’autorità parentale sullo svolgimento dei test d’acquisto e in particolare:
+
+- a. sull’istruzione preventiva del minorenne;
+- b. sul fatto che il minorenne è sempre accompagnato da un adulto;
+- c. sulla garanzia dell’anonimato del minorenne.
+
+<sup>2</sup> L’autorità cantonale competente o l’organizzazione specializzata ottiene il consenso scritto alla partecipazione ai test d’acquisto da parte del minorenne e di un detentore dell’autorità parentale prima dell’inizio dell’istruzione.
+
+<sup>3</sup>
+
+L’istruzione dei minorenni comprende almeno:
+
+- a. una formazione teorica;
+- b. direttive circa il comportamento da tenere durante il test d’acquisto;
+- c. un’esercitazione pratica di test d’acquisto.
+
+#### Art. 61d
+
+**Svolgimento di un test d’acquisto**
+
+<sup>1</sup> Il minorenne è accompagnato da un adulto collaboratore dell’autorità cantonale competente o dell’organizzazione specializzata.
+
+<sup>2</sup> Durante il test d’acquisto, l’adulto si tiene a debita distanza dal minorenne e interviene solo se lo ritiene necessario.
+
+<sup>3</sup> Non appena l’anonimato del minorenne non è più garantito, il test d’acquisto è interrotto.
+
+<sup>4</sup> Il minorenne e l’adulto non svolgono test d’acquisto nei punti di vendita che frequentano abitualmente.
+
+#### Art. 61e
+
+**Debriefing e verbalizzazione**
+
+<sup>1</sup> In seguito a ogni test d’acquisto si tiene un debriefing tra il minorenne e l’adulto e si svolge la verbalizzazione.
+
+<sup>2</sup> Il verbale comprende la descrizione dello svolgimento del test d’acquisto, il risultato di quest’ultimo, una fotografia del prodotto acquistato e, se del caso, la ricevuta d’acquisto.
+
+<sup>3</sup> Nel verbale non figura alcun dato personale del minorenne oltre alla data di nascita.
+
+#### Art. 61f
+
+**Comunicazione alla persona responsabile nell’impresa in caso d’infrazione**
+
+<sup>1</sup> L’autorità cantonale competente informa la persona responsabile nell’impresa, per scritto, di qualsiasi test d’acquisto il cui risultato non è conforme all’articolo 14 capoverso 1 LDerr[^61f-1] e all’articolo 41 capoverso 1 lettera i della legge del 21 giugno 1932[^61f-2] sull’alcool (LAlc). Lo fa entro il termine previsto nel piano dei test, ma al più tardi nei 30 giorni successivi al test d’acquisto.
+
+<sup>2</sup> Sono comunicati la data del test d’acquisto e il tipo di bevande alcoliche controllate specificate dal DFI ai sensi dell’articolo 14 capoverso 1 ODerr[^61f-3].
+
+[^61f-1]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^61f-2]: [RS 680](https://fedlex.data.admin.ch/eli/cc/48/425_437_457)
+[^61f-3]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+
+#### Art. 61g
+
+**Comunicazione dei risultati all’UFSP**
+
+L’autorità cantonale competente trasmette all’UFSP, una volta all’anno, al più tardi il 31 gennaio, i dati seguenti:
+
+- a. il numero totale dei test d’acquisto effettuati nel Cantone nel corso dell’anno precedente;
+- b.
+
+  il numero di test d’acquisto il cui risultato non è conforme all’articolo 14 capoverso 1 LDerr[^61g-1] e all’articolo 41 capoverso 1 lettera i LAlc[^61g-2], raggruppati per:
+
+  - 1\. tipo di prodotto,
+  - 2\. luogo di vendita.
+
+[^61g-1]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^61g-2]: [RS 680](https://fedlex.data.admin.ch/eli/cc/48/425_437_457)
 
 ## Titolo 4: Formazione delle persone incaricate dei controlli ufficiali, attestati di capacità e diplomi
 

@@ -4,11 +4,11 @@ title: Verordnung vom 27. Mai 2020 über den Vollzug der Lebensmittelgesetzgebun
 short: LMVV
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/460"
 language: de
-version: 2024-08-01
+version: 2024-10-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20240801/de/xml/fedlex-data-admin-ch-eli-cc-2020-460-20240801-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20240801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20241001/de/xml/fedlex-data-admin-ch-eli-cc-2020-460-20241001-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20241001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20240801/de"
 
 (LMVV)
 
-vom 27. Mai 2020 (Stand am 1. August 2024)
+vom 27. Mai 2020 (Stand am 1. Oktober 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -643,7 +643,7 @@ Nach Abschluss der Kontrollen unternimmt das BLV folgende Schritte:
 
 <sup>5</sup> Die Anhänge 2 und 3 werden periodisch aktualisiert und auf der Homepage des BLV publiziert.
 
-[^38-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^38-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 
 #### Art. 39
 
@@ -718,7 +718,7 @@ Die Kantone betreiben oder beauftragen Laboratorien als amtliche Laboratorien, d
 
 <sup>3</sup> Die Akkreditierung und die Bewertung von Prüflaboratorien richtet sich nach der Akkreditierungs- und Bezeichnungsverordnung vom 17. Juni 1996[^44-2].
 
-[^44-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8400 Winterthur, www.snv.ch.
+[^44-1]: Die Norm kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8400 Winterthur, [www.snv.ch](http://www.snv.ch).
 [^44-2]: [SR 946.512](https://fedlex.data.admin.ch/eli/cc/1996/1904_1904_1904)
 
 #### Art. 45
@@ -746,8 +746,8 @@ Für den Fall, dass keine geeigneten Regeln oder Protokolle nach Absatz 2 besteh
 
 <sup>5</sup> Die für Laboranalysen verwendeten Analysemethoden müssen nach Möglichkeit die Anforderungen nach Anhang 6 erfüllen.
 
-[^46-1]: www.iso.org
-[^46-2]: www.fao.org/fao-who-codexalimentarius &gt; Codex Texts &gt; Codes of Practice &gt; CXC 1-1969 General Principles of Food Hygiene, zuletzt geändert 2003 (nur auf Englisch, Französisch, Spanisch, Arabisch und Chinesisch verfügbar).
+[^46-1]: [www.iso.org](http://www.iso.org)
+[^46-2]: [www.fao.org/fao-who-codexalimentarius](http://www.fao.org/fao-who-codexalimentarius) &gt; Codex Texts &gt; Codes of Practice &gt; CXC 1-1969 General Principles of Food Hygiene, zuletzt geändert 2003 (nur auf Englisch, Französisch, Spanisch, Arabisch und Chinesisch verfügbar).
 
 ### 3. Kapitel: Durchführung der Probenahme
 
@@ -904,7 +904,7 @@ Die Vollzugsbehörde informiert das Laboratorium über alle Umstände, die für 
 
 <sup>3</sup> Es veröffentlicht die Liste der nationalen Referenzlaboratorien im Internet.[^59-1]
 
-[^59-1]: www.blv.admin.ch &gt; Lebensmittel und Ernährung &gt; Rechts-und Vollzugsgrundlagen &gt; Hilfsmittel und Vollzugsgrundlagen &gt; Untersuchung von Lebensmitteln und Gebrauchsgegenständen &gt; Liste der Referenzlaboratorien in der Schweiz
+[^59-1]: [www.blv.admin.ch](http://www.blv.admin.ch) &gt; Lebensmittel und Ernährung &gt; Rechts-und Vollzugsgrundlagen &gt; Hilfsmittel und Vollzugsgrundlagen &gt; Untersuchung von Lebensmitteln und Gebrauchsgegenständen &gt; Liste der Referenzlaboratorien in der Schweiz
 
 #### Art. 60
 
@@ -939,6 +939,117 @@ Die nationalen Referenzlaboratorien müssen:
 <sup>3</sup> Die Tätigkeit der einzelnen nationalen Referenzlaboratorien wird regelmässig einer Evaluation unter der Leitung des BLV unterzogen.
 
 <sup>4</sup> Das BLV kann die Zuständigkeiten und die Aufgaben der nationalen Referenzlaboratorien anpassen.
+
+## Titel 3*a*: Alkoholtestkäufe
+
+[^tit3a-1]
+
+[^tit3a-1]: Eingefügt durch Anhang 4 Ziff. II 6 der Tabakprodukteverordnung vom 28. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
+
+#### Art. 61a
+
+**Fachorganisation**
+
+<sup>1</sup> Die zuständige kantonale Behörde kann eine Fachorganisation mit der Durchführung der Testkäufe beauftragen.
+
+<sup>2</sup> Als Fachorganisation kann jede im Bereich Gesundheit, Prävention oder Jugendschutz tätige Organisation anerkannt werden.
+
+<sup>3</sup> Nach jedem Auftrag unterbreitet die Fachorganisation der zuständigen kantonalen Behörde einen Bericht über die durchgeführten Testkäufe und die erhaltenen Ergebnisse.
+
+<sup>4</sup> Die zuständige kantonale Behörde überwacht, dass die Fachorganisation ihren Auftrag im Einklang mit den rechtlichen Bestimmungen und dem Testkonzept erfüllt. Sie kann verlangen, dass ihr die Fachorganisation die gesamte Dokumentation zu den Testkäufen vorlegt.
+
+#### Art. 61b
+
+**Testkonzept**
+
+<sup>1</sup> Jeder Testkauf stützt sich auf ein von der zuständigen kantonalen Behörde festgelegtes Testkonzept ab.
+
+<sup>2</sup>
+
+Das Testkonzept beinhaltet mindestens Erläuterungen betreffend:
+
+- a. die anwendbaren Gesetzesgrundlagen;
+- b. die Rekrutierung von Minderjährigen;
+- c. die Geheimhaltungspflicht der minderjährigen Person und der erwachsenen Person, die diese begleitet, in Bezug auf die getesteten Verkaufsstellen und die Ergebnisse der Testkäufe;
+- d. die Planung und Vorbereitung der Testkäufe;
+- e. den Ablauf der Testkäufe;
+- f. die Protokollierung und die Dokumentation der Testkäufe;
+- g. die Rückmeldungen an die betroffenen Verkaufsstellen;
+- h. das zu befolgende Verfahren bei einem Verstoss;
+- i. die Aufbewahrung und Vernichtung der Daten.
+
+#### Art. 61c
+
+**Instruktion der Minderjährigen**
+
+<sup>1</sup>
+
+Die zuständige kantonale Behörde oder die Fachorganisation informiert die minderjährige Person und eine Inhaberin oder einen Inhaber der elterlichen Sorge über den Ablauf der Testkäufe, insbesondere über:
+
+- a. die vorgängige Instruktion der minderjährigen Person;
+- b. die Tatsache, dass die minderjährige Person immer von einer erwachsenen Person begleitet wird;
+- c. die Gewährleistung der Anonymität der minderjährigen Person.
+
+<sup>2</sup> Die zuständige kantonale Behörde oder die Fachorganisation holt vor Beginn der Instruktion die schriftliche Zustimmung der minderjährigen Person zu ihrer Beteiligung an Testkäufen sowie die Zustimmung einer Inhaberin oder eines Inhabers der elterlichen Sorge ein.
+
+<sup>3</sup>
+
+Die Instruktion der Minderjährigen umfasst mindestens:
+
+- a. eine theoretische Ausbildung;
+- b. Anweisungen zum Verhalten beim Testkauf;
+- c. eine praktische Übung des Testkaufs.
+
+#### Art. 61d
+
+**Ablauf eines Testkaufs**
+
+<sup>1</sup> Die minderjährige Person wird von einer erwachsenen Mitarbeiterin oder einem erwachsenen Mitarbeiter der zuständigen kantonalen Behörde oder der Fachorganisation begleitet.
+
+<sup>2</sup> Während des Testkaufs hält sich die erwachsene Person in angemessenem Abstand zur minderjährigen Person auf und greift nur ein, wenn sie dies als notwendig erachtet.
+
+<sup>3</sup> Der Testkauf wird abgebrochen, wenn die Anonymität der minderjährigen Person nicht mehr gewährleistet ist.
+
+<sup>4</sup> Die minderjährige Person und die erwachsene Person führen keine Testkäufe in Verkaufsstellen durch, die sie regelmässig aufsuchen.
+
+#### Art. 61e
+
+**Nachbesprechung und Protokoll**
+
+<sup>1</sup> Nach jedem Testkauf findet eine Nachbesprechung zwischen der minderjährigen und der erwachsenen Person statt und ein Protokoll wird erstellt.
+
+<sup>2</sup> Das Protokoll beinhaltet die Beschreibung zum Ablauf des Testkaufs, das Ergebnis dieses Kaufs, ein Foto des gekauften Produkts und gegebenenfalls die Kaufquittung.
+
+<sup>3</sup> Das Protokoll enthält ausser dem Geburtsdatum keine persönlichen Daten zur minderjährigen Person.
+
+#### Art. 61f
+
+**Rückmeldung an die verantwortliche Person im Unternehmen bei einem Verstoss**
+
+<sup>1</sup> Die zuständige kantonale Behörde informiert die verantwortliche Person im Unternehmen schriftlich über jeden Testkauf, dessen Ergebnis nicht Artikel 14 Absatz 1 LMG[^61f-1] und Artikel 41 Absatz 1 Buchstabe i des Alkoholgesetzes vom 21. Juni 1932[^61f-2] (AlkG) entspricht. Die Information erfolgt innerhalb der im Testkonzept festgelegten Frist, spätestens aber innerhalb von 30 Tagen nach dem Testkauf.
+
+<sup>2</sup> Gemeldet werden das Datum des Testkaufs und die Art der kontrollierten alkoholischen Getränke nach Bestimmungen des EDI nach Artikel 14 Absatz 1 LGV[^61f-3].
+
+[^61f-1]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^61f-2]: [SR 680](https://fedlex.data.admin.ch/eli/cc/48/425_437_457)
+[^61f-3]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+
+#### Art. 61g
+
+**Rückmeldung der Ergebnisse an das BAG**
+
+Die zuständige kantonale Behörde übermittelt dem BAG einmal jährlich spätestens am 31. Januar folgende Daten:
+
+- a. die Gesamtzahl der Testkäufe, die im vergangenen Jahr im Kanton durchgeführt wurden;
+- b.
+
+  die Anzahl Testkäufe, deren Ergebnis nicht Artikel 14 Absatz 1 LMG[^61g-1] und Artikel 41 Absatz 1 Buchstabe i AlkG[^61g-2] entspricht, geordnet nach:
+
+  - 1\. Art des Produkts,
+  - 2\. Verkaufsstelle.
+
+[^61g-1]: [SR 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^61g-2]: [SR 680](https://fedlex.data.admin.ch/eli/cc/48/425_437_457)
 
 ## 4. Titel: Ausbildung der mit der amtlichen Kontrolle betrauten Personen, Fähigkeitszeugnisse und Diplome
 
@@ -2019,7 +2130,7 @@ Anhang 6
 - 7\. Wurden Leistungskriterien für Analysemethoden festgelegt, so müssen die Methoden durch Tests zur Feststellung der Einhaltung dieser Kriterien validiert werden.
 - 8\. Im Rahmen dieser Verordnung eingeführte Analysemethoden müssen nach dem von der ISO empfohlenen Standardschema editiert werden.
 
-[^annex6-lvlu1-1]: Die Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex6-lvlu1-1]: Die Normen können kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 
 Anhang 7
 

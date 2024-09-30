@@ -4,11 +4,11 @@ title: "Ordonnance du 27 mai 2020 sur l'exécution de la législation sur les de
 short: OELDAl
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/460"
 language: fr
-version: 2024-08-01
+version: 2024-10-01
 adopted: 2020-05-27
 in_force: 2020-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20240801/fr/xml/fedlex-data-admin-ch-eli-cc-2020-460-20240801-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20240801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/460/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-2020-460-20241001-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20241001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/460/20240801/fr"
 
 (OELDAl)
 
-du 27 mai 2020 (État le 1<sup>er</sup> août 2024)
+du 27 mai 2020 (État le 1<sup>er</sup> octobre 2024)
 
 Le Conseil fédéral suisse,
 
@@ -940,6 +940,117 @@ Les laboratoires nationaux de référence doivent satisfaire aux exigences suiva
 
 <sup>4</sup> L’OSAV peut modifier les compétences et les tâches des laboratoires nationaux de référence.
 
+### Titre 3*a* Achats tests d’alcool
+
+[^tit3-chap4-tit3a-1]
+
+[^tit3-chap4-tit3a-1]: Introduit par l’annexe 4 ch. II 6 de l’O du 28 août 2024 sur les produits du tabac, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
+
+#### Art. 61a
+
+**Organisation spécialisée**
+
+<sup>1</sup> L’autorité cantonale compétente peut mandater une organisation spécialisée pour effectuer des achats tests.
+
+<sup>2</sup> Peut être reconnue en tant qu’organisation spécialisée toute organisation active dans le domaine de la santé, de la prévention ou de la protection de la jeunesse.
+
+<sup>3</sup> Après chaque mandat, l’organisation spécialisée soumet à l’autorité cantonale compétente un rapport sur les achats tests effectués et les résultats obtenus.
+
+<sup>4</sup> L’autorité cantonale compétente surveille que l’organisation spécialisée remplit son mandat dans le respect des dispositions légales et du concept de test. Elle peut exiger que l’organisation spécialisée lui remette toute la documentation relative aux achats tests.
+
+#### Art. 61b
+
+**Concept de test**
+
+<sup>1</sup> Tout achat test est basé sur un concept de test établi par l’autorité cantonale compétente.
+
+<sup>2</sup>
+
+Le concept de test comprend au moins des explications sur:
+
+- a. les bases légales applicables;
+- b. le recrutement des mineurs;
+- c. le devoir de confidentialité du mineur et de l’adulte qui l’accompagne concernant les points de vente testés et les résultats des achats tests;
+- d. la planification et la préparation des achats tests;
+- e. le déroulement des achats tests;
+- f. le procès-verbal et la documentation des achats tests;
+- g. la communication des résultats aux points de vente concernés;
+- h. la procédure à suivre en cas d’infraction;
+- i. la conservation et la destruction des données.
+
+#### Art. 61c
+
+**Instruction des mineurs**
+
+<sup>1</sup>
+
+L’autorité cantonale compétente ou l’organisation spécialisée informe le mineur et une personne qui détient l’autorité parentale sur celui-ci sur le déroulement des achats tests et en particulier sur:
+
+- a. l’instruction préalable du mineur;
+- b. le fait que le mineur est toujours accompagné d’un adulte;
+- c. la garantie de l’anonymat du mineur.
+
+<sup>2</sup> L’autorité cantonale compétente ou l’organisation spécialisée obtient l’accord écrit du mineur quant à sa participation à des achats tests et celui d’une personne qui détient l’autorité parentale sur le mineur avant le début de l’instruction.
+
+<sup>3</sup>
+
+L’instruction des mineurs comprend au moins:
+
+- a. une formation théorique;
+- b. des directives quant au comportement à adopter lors de l’achat test;
+- c. un exercice pratique d’achat test.
+
+#### Art. 61d
+
+**Déroulement d’un achat test**
+
+<sup>1</sup> Le mineur est accompagné d’un adulte collaborateur de l’autorité cantonale compétente ou de l’organisation spécialisée.
+
+<sup>2</sup> Pendant l’achat test, l’adulte se tient à une distance appropriée du mineur et n’intervient que s’il le juge nécessaire.
+
+<sup>3</sup> L’achat test est interrompu dès lors que l’anonymat du mineur n’est plus garanti.
+
+<sup>4</sup> Le mineur et l’adulte n’effectuent pas d’achat test dans les points de vente qu’ils fréquentent régulièrement.
+
+#### Art. 61e
+
+**Débriefing et procès-verbal**
+
+<sup>1</sup> À la suite de chaque achat test, un débriefing a lieu entre le mineur et l’adulte et un procès-verbal est établi.
+
+<sup>2</sup> Le procès-verbal comprend la description du déroulement de l’achat test, le résultat de ce dernier, une photo du produit acheté et, le cas échéant, la quittance de l’achat.
+
+<sup>3</sup> Aucune donnée personnelle relative au mineur ne figure dans le procès-verbal à l’exception de sa date de naissance.
+
+#### Art. 61f
+
+**Communication à la personne responsable dans l’entreprise en cas d’infraction**
+
+<sup>1</sup> L’autorité cantonale compétente informe la personne responsable dans l’entreprise, par écrit, de tout achat test dont le résultat est non conforme aux art. 14, al. 1, LDAI[^61f-1] et 41, al. 1, let. i, de la loi fédérale du 21 juin 1932 sur l’alcool (LAlc)[^61f-2]. Elle le fait dans le délai prévu dans le concept de test mais au plus tard dans les 30 jours suivant l’achat test.
+
+<sup>2</sup> Sont communiquées la date de l’achat test et le type de boissons alcooliques contrôlées édictées par le DFI en vertu de l’art. 14, al. 1, ODAlOUs[^61f-3].
+
+[^61f-1]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^61f-2]: [RS 680](https://fedlex.data.admin.ch/eli/cc/48/425_437_457)
+[^61f-3]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+
+#### Art. 61g
+
+**Communication des résultats à l’OFSP**
+
+L’autorité cantonale compétente transmet à l’OFSP, une fois par an, au plus tard le 31 janvier, les données suivantes:
+
+- a. le nombre total d’achats tests effectués dans le canton au cours de l’année précédente;
+- b.
+
+  le nombre d’achats tests dont le résultat est non conforme aux art. 14, al. 1, LDAl [^61g-1] et 41, al. 1, let. i, LAlc[^61g-2], regroupés par:
+
+  - 1\. type de produit,
+  - 2\. lieu de vente.
+
+[^61g-1]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^61g-2]: [RS 680](https://fedlex.data.admin.ch/eli/cc/48/425_437_457)
+
 ## Titre 4 Formation des personnes chargées du contrôle officiel, certificats de capacité et diplômes
 
 ### Chapitre 1 Dispositions générales
@@ -1138,9 +1249,9 @@ Au 31 décembre, le chimiste cantonal notifie à l’OSAV la liste des personnes
 
 ### Chapitre 3 Diplôme fédéral en contrôle officiel des denrées alimentaires
 
-[^tit4-chap3-1]
+[^tit3a-chap3-1]
 
-[^tit4-chap3-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 830](https://fedlex.data.admin.ch/eli/oc/2023/830)).
+[^tit3a-chap3-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 830](https://fedlex.data.admin.ch/eli/oc/2023/830)).
 
 ### Section 1 Principes
 
@@ -1293,9 +1404,9 @@ Si l’examen est réussi, l’OSAV délivre le diplôme.
 
 ### Chapitre 4 Diplôme fédéral en direction du contrôle officiel des denrées alimentaires
 
-[^tit4-chap4-1]
+[^tit3a-chap4-1]
 
-[^tit4-chap4-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 830](https://fedlex.data.admin.ch/eli/oc/2023/830)).
+[^tit3a-chap4-1]: Nouvelle teneur selon le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 830](https://fedlex.data.admin.ch/eli/oc/2023/830)).
 
 ### Section 1 Principes
 
@@ -1448,9 +1559,9 @@ Toute personne nommée par le canton au titre de chimiste cantonal ou de chimist
 
 ### Chapitre 5 Données personnelles
 
-[^tit4-chap5-1]
+[^tit3a-chap5-1]
 
-[^tit4-chap5-1]: Introduit par le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 830](https://fedlex.data.admin.ch/eli/oc/2023/830)).
+[^tit3a-chap5-1]: Introduit par le ch. I de l’O du 8 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2023 830](https://fedlex.data.admin.ch/eli/oc/2023/830)).
 
 #### Art. 95a
 
