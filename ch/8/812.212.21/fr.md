@@ -4,11 +4,11 @@ title: Ordonnance du 21 septembre 2018 sur les médicaments (OMéd)
 short: OMéd
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/588"
 language: fr
-version: 2024-01-01
+version: 2024-10-01
 adopted: 2018-09-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-588-20240101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-2018-588-20241001-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20241001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20240101/fr"
 
 (OMéd)
 
-du 21 septembre 2018 (État le 1<sup>er</sup> janvier 2024)
+du 21 septembre 2018 (État le 1<sup>er</sup> octobre 2024)
 
 Le Conseil fédéral suisse,
 
@@ -571,7 +571,8 @@ Les mentions suivantes doivent figurer, en caractères d’une taille d’au moi
 - b. médicaments visés à l’art. 9, al. 2, let. b, LPTh: «formule officinale»;
 - c. médicaments visés à l’art. 9, al. 2, let. c, LPTh: «formule propre»;
 - d. médicaments visés à l’art. 9, al. 2, let. c<sup>bis</sup>, LPTh: «formule hospitalière».
-- [tab] <sup>2</sup> Les autres textes et données ainsi que leurs aspects formels sont régis par la Pharmacopée.
+
+<sup>2</sup> Les autres textes et données ainsi que leurs aspects formels sont régis par la Pharmacopée.
 
 ## Chapitre 3 Catégories de remise et remise
 
@@ -1337,8 +1338,8 @@ Annexe 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 28 fév. 2020 ([RO 2020 1017](https://fedlex.data.admin.ch/eli/oc/2020/183)). Mise à jour par le ch. I des O du DFI du 7 juin 2021 ([RO 2021 351](https://fedlex.data.admin.ch/eli/oc/2021/351)) et du 28 avr. 2023, en vigueur depuis le 1<sup>er</sup> juin 2023 ([RO 2023 230](https://fedlex.data.admin.ch/eli/oc/2023/230)).
-[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/230](https://fedlex.data.admin.ch/eli/oc/2023/230) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-2]: Nouvelle teneur selon le ch. I de l’O du DFI du 28 fév. 2020 ([RO 2020 1017](https://fedlex.data.admin.ch/eli/oc/2020/183)). Mise à jour par le ch. I des O du DFI du 7 juin 2021 ([RO 2021 351](https://fedlex.data.admin.ch/eli/oc/2021/351)), du 28 avr. 2023 ([RO 2023 230](https://fedlex.data.admin.ch/eli/oc/2023/230)) et du 12 août 2024, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 426](https://fedlex.data.admin.ch/eli/oc/2024/426)).
+[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/426](https://fedlex.data.admin.ch/eli/oc/2024/426) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 3[^t-3]
 

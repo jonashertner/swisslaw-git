@@ -4,11 +4,11 @@ title: Ordinanza del 21 settembre 2018 sui medicamenti (OM)
 short: OM
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/588"
 language: it
-version: 2024-01-01
+version: 2024-10-01
 adopted: 2018-09-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2018-588-20240101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20241001/it/xml/fedlex-data-admin-ch-eli-cc-2018-588-20241001-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20241001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20240101/it"
 
 (OM)
 
-del 21 settembre 2018 (Stato 1° gennaio 2024)
+del 21 settembre 2018 (Stato 1° ottobre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -1204,21 +1204,24 @@ Swissmedic può specificare i requisiti tecnici e i dettagli necessari all’ese
 
 <sup>3</sup> Per l’esecuzione di disposizioni relative a medicamenti contenenti OGM, la collaborazione è retta dall’ordinanza del 10 settembre 2008[^81-2] sull’emissione deliberata nell’ambiente.
 
-**Art. 82**[^81-3]Comunicazione di dati
+[^81-1]: Rif. EMEA/CHMP/SWP/4447/00, 1° giugno 2006. Il testo può essere richiesto presso l’EMA: www.ema.europa.eu
+[^81-2]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
+
+#### Art. 82
+
+**Comunicazione di dati**[^82-1]
 
 <sup>1</sup>
 
 Swissmedic comunica su richiesta all’UFSP:
 
 - a. i dati sul potenziale di rischio dei vaccini;
-- b. i dati sui medicamenti, nella misura in cui ciò è necessario per l’esecuzione della legge federale del 18 marzo 1994[^81-4] sull’assicurazione malattie e delle sue disposizioni esecutive.
+- b. i dati sui medicamenti, nella misura in cui ciò è necessario per l’esecuzione della legge federale del 18 marzo 1994[^82-2] sull’assicurazione malattie e delle sue disposizioni esecutive.
 
 <sup>2</sup> I dati di cui al capoverso 1 non possono contenere dati personali degni di particolare protezione.
 
-[^81-1]: Rif. EMEA/CHMP/SWP/4447/00, 1° giugno 2006. Il testo può essere richiesto presso l’EMA: www.ema.europa.eu
-[^81-2]: [RS 814.911](https://fedlex.data.admin.ch/eli/cc/2008/614)
-[^81-3]: Nuovo testo giusta il n. III dell’O del 22 set. 2023, con effetto dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
-[^81-4]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
+[^82-1]: Nuovo testo giusta il n. III dell’O del 22 set. 2023, con effetto dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
+[^82-2]: [RS 832.10](https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328)
 
 ### Sezione 2: Abrogazione e modifica di altri atti normativi e disposizioni transitorie
 
@@ -1335,8 +1338,8 @@ Allegato 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Nuovo testo giusta il n. I dell’O del DFI del 28 feb. 2020 ([RU 2020 1017](https://fedlex.data.admin.ch/eli/oc/2020/183)). Aggiornato dai n. I delle O del DFI del 7 giu. 2021 ([RU 2021 351](https://fedlex.data.admin.ch/eli/oc/2021/351)) e del 28 apr. 2023, in vigore dal 1° giu. 2023 ([RU 2023 230](https://fedlex.data.admin.ch/eli/oc/2023/230)).
-[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2023/230](https://fedlex.data.admin.ch/eli/oc/2023/230) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-2]: Nuovo testo giusta il n. I dell’O del DFI del 28 feb. 2020 ([RU 2020 1017](https://fedlex.data.admin.ch/eli/oc/2020/183)). Aggiornato dai n. I delle O del DFI del 7 giu. 2021 ([RU 2021 351](https://fedlex.data.admin.ch/eli/oc/2021/351)), del 28 apr. 2023 ([RU 2023 230](https://fedlex.data.admin.ch/eli/oc/2023/230)) e del 12 ago. 2024, in vigore dal 1° ott. 2024 ([RU 2024 426](https://fedlex.data.admin.ch/eli/oc/2024/426)).
+[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/426](https://fedlex.data.admin.ch/eli/oc/2024/426) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 3[^t-3]
 
@@ -1391,8 +1394,7 @@ Un rapporto sui risultati di una sperimentazione clinica deve contenere almeno i
 
 - a. nome dell’azienda / nome dello sponsor;
 - b. nome del preparato, compresi dosaggio e forma farmaceutica;
-- c. nel caso di omologazioni svizzere: la data di omologazione
-- e il/i numero/i di omologazione;
+- c. nel caso di omologazioni svizzere: la data di omologazione e il/i numero/i di omologazione;
 - d. nome del principio attivo;
 - e. numero della sperimentazione / numero di protocollo / numero EudraCT;
 - f. titolo della sperimentazione conformemente all’ultima versione del protocollo, incluse tutte le modifiche e una breve descrizione;

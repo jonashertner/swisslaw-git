@@ -4,11 +4,11 @@ title: "Verordnung vom 21. September 2018 über die Arzneimittel (Arzneimittelve
 short: VAM
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/588"
 language: de
-version: 2024-01-01
+version: 2024-10-01
 adopted: 2018-09-21
 in_force: 2019-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2018-588-20240101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/588/20241001/de/xml/fedlex-data-admin-ch-eli-cc-2018-588-20241001-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20241001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/588/20240101/de"
 
 (Arzneimittelverordnung, VAM)
 
-vom 21. September 2018 (Stand am 1. Januar 2024)
+vom 21. September 2018 (Stand am 1. Oktober 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -1338,8 +1338,8 @@ Anhang 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Fassung gemäss Ziff. I der V des EDI vom 28. Febr. 2020 ([AS 2020 1017](https://fedlex.data.admin.ch/eli/oc/2020/183)). Bereinigt gemäss Ziff. I der V des EDI vom 7. Juni 2021 ([AS 2021 351](https://fedlex.data.admin.ch/eli/oc/2021/351)) und vom 28. April 2023, in Kraft seit 1. Juni 2023 ([AS 2023 230](https://fedlex.data.admin.ch/eli/oc/2023/230)).
-[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2023/230](https://fedlex.data.admin.ch/eli/oc/2023/230) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung durch Verweis eines Textteils.
+[^t-2]: Fassung gemäss Ziff. I der V des EDI vom 28. Febr. 2020 ([AS 2020 1017](https://fedlex.data.admin.ch/eli/oc/2020/183)). Bereinigt gemäss Ziff. I der V des EDI vom 7. Juni 2021 ([AS 2021 351](https://fedlex.data.admin.ch/eli/oc/2021/351)), vom 28. April 2023 ([AS 2023 230](https://fedlex.data.admin.ch/eli/oc/2023/230)) und vom 12. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 426](https://fedlex.data.admin.ch/eli/oc/2024/426)).
+[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/426](https://fedlex.data.admin.ch/eli/oc/2024/426) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung durch Verweis eines Textteils.
 
 Anhang 3[^t-3]
 
@@ -1367,17 +1367,17 @@ Anhang 3[^t-3]
   - a<sup>bis</sup>. für den periodischen Bericht über die Tierarzneimittelsicherheit in Form eines Jahresberichts: Durchführungsverordnung (EU) 2021/1281[^annex3-lvlu1-10];
   - b. für die Pharmacovigilance: VICH GL 24 (Pharmacovigilance) der Leitlinie der VICH in der Fassung vom Oktober 2007[^annex3-lvlu1-11].
 
-[^annex3-lvlu1-1]: Der Text der Leitlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter www.swissmedic.ch.
-[^annex3-lvlu1-2]: Der Text der Leitlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter www.swissmedic.ch.
-[^annex3-lvlu1-3]: Der Text der Leitlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter www.swissmedic.ch.
-[^annex3-lvlu1-4]: Der Text der Leitlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter www.swissmedic.ch.
-[^annex3-lvlu1-5]: Der Text der Leitlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter www.swissmedic.ch.
-[^annex3-lvlu1-6]: Der Text der Leitlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter www.swissmedic.ch.
-[^annex3-lvlu1-7]: Der Text der Richtlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter www.swissmedic.ch.
-[^annex3-lvlu1-8]: Der Text der Richtlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter www.swissmedic.ch.
-[^annex3-lvlu1-9]: Der Text der Leitlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter www.swissmedic.ch.
+[^annex3-lvlu1-1]: Der Text der Leitlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter: www.swissmedic.ch.
+[^annex3-lvlu1-2]: Der Text der Leitlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter: www.swissmedic.ch.
+[^annex3-lvlu1-3]: Der Text der Leitlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter: www.swissmedic.ch.
+[^annex3-lvlu1-4]: Der Text der Leitlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter: www.swissmedic.ch.
+[^annex3-lvlu1-5]: Der Text der Leitlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter: www.swissmedic.ch.
+[^annex3-lvlu1-6]: Der Text der Leitlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter: www.swissmedic.ch.
+[^annex3-lvlu1-7]: Der Text der Richtlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter: www.swissmedic.ch.
+[^annex3-lvlu1-8]: Der Text der Richtlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter: www.swissmedic.ch.
+[^annex3-lvlu1-9]: Der Text der Leitlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter: www.swissmedic.ch.
 [^annex3-lvlu1-10]: Durchführungsverordnung (EU) 2021/1281 der Kommission vom 2. August 2021 mit Bestimmungen zur Anwendung der Verordnung (EU) 2019/6 des Europäischen Parlaments und des Rates in Bezug auf die gute Pharmakovigilanz-Praxis sowie das Format, den Inhalt und die Zusammenfassung der Pharmakovigilanz-Stammdokumentation für Tierarzneimittel; Fassung gemäss ABl. L 279 vom 3.8.2021, S. 15.
-[^annex3-lvlu1-11]: Der Text der Leitlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter www.swissmedic.ch.
+[^annex3-lvlu1-11]: Der Text der Leitlinie kann beim Schweizerischen Heilmittelinstitut, 3003 Bern kostenlos eingesehen werden. Die weiteren Bezugsmöglichkeiten sind aufgeführt unter: www.swissmedic.ch.
 
 Anhang 4
 
