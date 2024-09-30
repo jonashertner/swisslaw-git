@@ -4,11 +4,11 @@ title: Verordnung vom 27. Juni 1995 über die Krankenversicherung (KVV)
 short: KVV
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: de
-version: 2024-07-01
+version: 2024-10-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20240701/de/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20240701-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20241001/de/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20241001-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20241001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20240701/de"
 
 (KVV)
 
-vom 27. Juni 1995 (Stand am 1. Juli 2024)
+vom 27. Juni 1995 (Stand am 1. Oktober 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -3094,6 +3094,17 @@ Das BAG erstellt die Abrechnung für den Beitrag des Bundes, der Kantone und der
 Das EDI setzt nach Anhören der zuständigen Kommission die Massnahmen nach Artikel 58*h* Absatz 1 KVG fest.
 
 [^77k-1]: Eingefügt durch Ziff. I der V vom 24. Febr. 2021, in Kraft seit 1. April 2021 ([AS 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+
+#### Art. 77k<sup>bis</sup>
+
+**Zugriff auf den Dienst zur Abfrage der Gesundheitseinrichtungen und Gesundheitsfachpersonen**[^77kbis-1]
+
+<sup>1</sup> Die Behörden nach Artikel 59*a*<sup>bis</sup> KVG können auf den Dienst zur Abfrage der Gesundheitseinrichtungen und Gesundheitsfachpersonen nach Artikel 39 Buchstabe b der Verordnung vom 22. März 2017[^77kbis-2] über das elektronische Patientendossier zugreifen.
+
+<sup>2</sup> Das BAG vergibt die Zugriffsberechtigungen.
+
+[^77kbis-1]: Eingefügt durch Art. 8 Ziff. 2 der V vom 28. Aug. 2024 über die Finanzhilfen für das elektronische Patientendossier, in Kraft seit 1. Okt. 2024 ([AS 2024 461](https://fedlex.data.admin.ch/eli/oc/2024/461)).
+[^77kbis-2]: [SR 816.11](https://fedlex.data.admin.ch/eli/cc/2017/204)
 
 ### 4*a*. Titel: Pilotprojekte
 

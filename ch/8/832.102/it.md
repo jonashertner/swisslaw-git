@@ -4,11 +4,11 @@ title: "Ordinanza del 27 giugno 1995 sull'assicurazione malattie (OAMal)"
 short: OAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: it
-version: 2024-07-01
+version: 2024-10-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20240701/it/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20240701-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20240701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20241001/it/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20241001-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20241001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20240701/it"
 
 (OAMal)
 
-del 27 giugno 1995 (Stato 1° luglio 2024)
+del 27 giugno 1995 (Stato 1° ottobre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -1548,7 +1548,7 @@ Sono autorizzati quali laboratori gli istituti che:
 - f. dispongono delle attrezzature adeguate e del personale specializzato necessario;
 - g. adempiono le condizioni d’autorizzazione di cui all’articolo 54.
 
-[^53-1]: Abrogata dal n. I dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152))
+[^53-1]: Abrogata dal n. I dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 [^53-2]: Nuovo testo giusta il n. I dell’O del 22 set. 2023, in vigore dal 1° gen. 2024 ([RU 2023 570](https://fedlex.data.admin.ch/eli/oc/2023/570)).
 [^53-3]: Introdotta dall’art. 37 n. 2 dell’O del 14 feb. 2007 sugli esami genetici sull’essere umano, in vigore dal 1° apr. 2007 ([RU 2007 651](https://fedlex.data.admin.ch/eli/oc/2007/132)).
 
@@ -2928,7 +2928,7 @@ Ogni rapporto e ogni rapporto intermedio devono contenere almeno le seguenti ind
 
 <sup>2</sup> Sono tenute a pubblicare le convenzioni sulla qualità.
 
-[^77-1]: Nuovo testo giusta il n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152))
+[^77-1]: Nuovo testo giusta il n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 
 #### Art. 77a
 
@@ -2956,7 +2956,7 @@ La Commissione è composta di 15 membri, di cui:
 
 <sup>7</sup> Pubblica i suoi regolamenti e rapporti come pure i documenti legati ai compiti che le sono stati attribuiti secondo l’articolo 58*c* LAMal.
 
-[^77a-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152))
+[^77a-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 
 #### Art. 77b
 
@@ -2968,7 +2968,7 @@ La Commissione è composta di 15 membri, di cui:
 
 <sup>3</sup> Se nell’adempimento dei compiti di cui sono stati incaricati secondo l’articolo 58*c* capoverso 1 lettere e ed f LAMal constatano lacune nella fornitura dei dati, i terzi assegnano al Cantone, al fornitore di prestazioni o all’assicuratore un termine supplementare per fornire dati corretti e completi e ne informano nel contempo la Commissione federale per la qualità.
 
-[^77b-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152))
+[^77b-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 
 #### Art. 77c
 
@@ -2978,7 +2978,7 @@ La Commissione è composta di 15 membri, di cui:
 
 <sup>2</sup> I terzi informano i fornitori di dati di cui all’articolo 77*b* capoverso 1 e la Commissione federale per la qualità sulla cancellazione e la distruzione dei dati.
 
-[^77c-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152))
+[^77c-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 
 #### Art. 77d
 
@@ -2996,7 +2996,7 @@ La documentazione del bando contiene in particolare:
 
 <sup>3</sup> I compiti, per i quali è disponibile una sola persona o organizzazione idonea esterna all’Amministrazione federale, possono essere delegati senza bando.
 
-[^77d-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152))
+[^77d-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 
 #### Art. 77e
 
@@ -3026,7 +3026,7 @@ Le domande di aiuti finanziari devono permettere una valutazione completa dello 
 
 <sup>4</sup> Al termine del progetto occorre presentare alla Commissione federale per la qualità un rapporto sui risultati del progetto.
 
-[^77e-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152))
+[^77e-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 
 #### Art. 77f
 
@@ -3046,7 +3046,7 @@ Le convenzioni sulle prestazioni di cui agli articoli 58*d* capoverso 2 e 58*e* 
 - j. la presentazione periodica del preventivo e dei conti;
 - k. i requisiti che deve soddisfare il rapporto di cui all’articolo 77*e* capoverso 4.
 
-[^77f-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152))
+[^77f-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 
 #### Art. 77g
 
@@ -3058,7 +3058,7 @@ Le convenzioni sulle prestazioni di cui agli articoli 58*d* capoverso 2 e 58*e* 
 
 <sup>3</sup> L’UFSP calcola le quoteparti dei Cantoni e degli assicuratori.
 
-[^77g-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152))
+[^77g-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 
 #### Art. 77h
 
@@ -3068,7 +3068,7 @@ Le convenzioni sulle prestazioni di cui agli articoli 58*d* capoverso 2 e 58*e* 
 
 <sup>2</sup> Gli assicuratori e i Cantoni, che non pagano il contributo dovuto entro il termine, devono un interesse di mora del cinque per cento all’anno.
 
-[^77h-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152))
+[^77h-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 
 #### Art. 77i
 
@@ -3076,7 +3076,7 @@ Le convenzioni sulle prestazioni di cui agli articoli 58*d* capoverso 2 e 58*e* 
 
 L’UFSP effettua il conteggio per il contributo della Confederazione, dei Cantoni e degli assicuratori al 31 marzo di ogni anno civile successivo all’anno di contribuzione. Se dal conteggio risulta un’eccedenza o una copertura insufficiente, il contributo corrispondente per Cantone e assicuratore è trasferito all’anno di contribuzione successivo.
 
-[^77i-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152))
+[^77i-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 
 #### Art. 77j
 
@@ -3086,7 +3086,7 @@ L’UFSP effettua il conteggio per il contributo della Confederazione, dei Canto
 
 <sup>2</sup> Il tribunale arbitrale cantonale trasferisce all’UFSP i mezzi finanziari derivanti da multe e sanzioni al 1° gennaio dell’anno successivo.
 
-[^77j-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152))
+[^77j-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 
 #### Art. 77k
 
@@ -3094,7 +3094,18 @@ L’UFSP effettua il conteggio per il contributo della Confederazione, dei Canto
 
 Sentita la competente commissione, il DFI stabilisce le misure di cui all’articolo 58*h* capoverso 1 LAMal.
 
-[^77k-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152))
+[^77k-1]: Introdotto dal n. I dell’O del 24 feb. 2021, in vigore dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+
+#### Art. 77k<sup>bis</sup>
+
+**Accesso al servizio di ricerca di dati delle strutture sanitarie e dei professionisti della salute**[^77kbis-1]
+
+<sup>1</sup> Le autorità di cui all’articolo 59*a*<sup>bis</sup> LAMal possono accedere al servizio di ricerca di dati delle strutture sanitarie e dei professionisti della salute di cui all’articolo 39 lettera b dell’ordinanza del 22 marzo 2017[^77kbis-2] sulla cartella informatizzata del paziente.
+
+<sup>2</sup> L’UFSP accorda i diritti d’accesso.
+
+[^77kbis-1]: Introdotto dall’art. 8 n. 2 dell’O del 28 ago. 2024 sugli aiuti finanziari per la cartella informatizzata del paziente, in vigore dal 1° ott. 2024 ([RU 2024 461](https://fedlex.data.admin.ch/eli/oc/2024/461)).
+[^77kbis-2]: [RS 816.11](https://fedlex.data.admin.ch/eli/cc/2017/204)
 
 ### Titolo 4*a*: Progetti pilota
 
@@ -4198,7 +4209,7 @@ I laboratori già ammessi in virtù degli articoli 53 e 54 come fornitori di pre
 
 [^135-1]
 
-[^135-1]: Abrogato dal n. I dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152))
+[^135-1]: Abrogato dal n. I dell’O del 24 feb. 2021, con effetto dal 1° apr. 2021 ([RU 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
 
 #### Art. 136
 

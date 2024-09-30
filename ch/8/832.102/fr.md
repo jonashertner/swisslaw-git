@@ -4,11 +4,11 @@ title: "Ordonnance du 27 juin 1995 sur l'assurance-maladie (OAMal)"
 short: OAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867"
 language: fr
-version: 2024-07-01
+version: 2024-10-01
 adopted: 1995-06-27
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20240701-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/3867_3867_3867/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-1995-3867_3867_3867-20241001-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20241001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/3867_3867_3867/20240701/fr"
 
 (OAMal)
 
-du 27 juin 1995 (État le 1<sup>er</sup> juillet 2024)
+du 27 juin 1995 (État le 1<sup>er</sup> octobre 2024)
 
 Le Conseil fédéral suisse,
 
@@ -3098,6 +3098,17 @@ L’OFSP établit le décompte des contributions de la Confédération, des cant
 Le DFI désigne, après avoir consulté la commission compétente, les mesures prévues à l’art. 58*h*, al. 1, LAMal.
 
 [^77k-1]: Introduit par le ch. I de l’O du 24 fév. 2021, en vigueur depuis le 1<sup>er</sup> avr. 2021 ([RO 2021 152](https://fedlex.data.admin.ch/eli/oc/2021/152)).
+
+#### Art. 77k<sup>bis</sup>
+
+**Accès aux services de recherche des institutions de santé et des professionnels de la santé**[^77kbis-1]
+
+<sup>1</sup> Les autorités de surveillance au sens de l’art. 59*a*<sup>bis</sup> LAMal peuvent accéder aux services de recherche des institutions de santé et des professionnels de la santé visés à l’art. 39, let. b, de l’ordonnance du 22 mars 2017 sur le dossier électronique du patient[^77kbis-2].
+
+<sup>2</sup> L’OFSP octroie les droits d’accès.
+
+[^77kbis-1]: Introduit par l’art. 8 ch. 2 de l’O du 28 août 2024 sur les aides financières pour le dossier électronique du patient, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 461](https://fedlex.data.admin.ch/eli/oc/2024/461)).
+[^77kbis-2]: [RS 816.11](https://fedlex.data.admin.ch/eli/cc/2017/204)
 
 ### Titre 4*a* Projets pilotes
 
