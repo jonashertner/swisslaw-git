@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Teilrevision der Signalisationsverordnung zur Übernahme der wichtigsten Inhalte bestimmter technischer Normen in das Signalisationsrecht des Bundes; Teilrevision der Verkehrszulassungsverordnung betreffend den Kurs über Verkehrskunde
 document: Vernehmlassungsvorlage-4
 language: de

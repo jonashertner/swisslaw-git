@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision partielle de l’ordonnance sur la signalisation routière visant à intégrer les contenus les plus importants de certaines normes techniques dans le droit fédéral de la signalisation routière; Révision partielle de l’ordonnance réglant l’admission à la circulation routière concernant le cours de théorie de la circulation
 document: Projet mis en consultation-2
 language: fr

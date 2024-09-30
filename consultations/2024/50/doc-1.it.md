@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione parziale dell’ordinanza sulla segnaletica stradale per trasporre i contenuti più importanti di alcune norme tecniche nella legislazione federale sulla segnaletica stradale; Revisione parziale dell’ordinanza sull’ammissione alla circolazione relativamente al corso di teoria della circolazione
 document: Progetto posto in consultazione-6
 language: it
