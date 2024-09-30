@@ -4,13 +4,12 @@ number: VIII A/3/1
 title: Verordnung über Berufe und Einrichtungen der Gesundheitsversorgung
 short: "Gesundheitsberufeverordnung, GesBV"
 language: de
-version: 2022-01-01
-valid_until: 2024-09-30
-version_adopted: 2021-12-21
+version: 2024-10-01
+version_adopted: 2024-08-27
 adopted: 2008-08-12
 in_force: 2008-09-01
 url: "https://gesetze.gl.ch/app/de/texts_of_law/VIII-A.3.1"
-pdf: "https://gesetze.gl.ch/api/de/versions/2265/pdf_file"
+pdf: "https://gesetze.gl.ch/api/de/versions/2501/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons GL. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetze.gl.ch/api/de/versions/2265/pdf_file"
 
 (Gesundheitsberufeverordnung, GesBV)
 
-Vom 12.08.2008 (Stand 01.01.2022)
+Vom 12.08.2008 (Stand 01.10.2024)
 
 Der Regierungsrat,
 
@@ -229,13 +228,13 @@ erlässt:
 
 <sup>1</sup> Es werden folgende Gebühren erhoben:
 
-- a. für die Bewilligung zur Berufsausübung in eigener fachlicher Verantwortung für Medizinalpersonen: — 800 Fr.;
-- b. für die Bewilligung zur Berufsausübung in eigener fachlicher Verantwortung für die übrigen bewilligungspflichtigen Berufe des Gesundheitswesens: — 600 Fr.;
+- a. für die Bewilligung zur Berufsausübung in eigener fachlicher Verantwortung für Medizinalpersonen: — 500 Fr.;
+- b. für die Bewilligung zur Berufsausübung in eigener fachlicher Verantwortung für die übrigen bewilligungspflichtigen Berufe des Gesundheitswesens: — 500 Fr.;
 - c. …
 - d. für die erstmalige Betriebsbewilligung: — 1000 Fr.;
 - e. für die Erneuerung der Betriebsbewilligung: — 300 Fr.;
-- e1. für die Zulassung zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung: — 400 Fr.;
-- e2. für die Bestätigung, dass die persönlichen Anforderungen für die Tätigkeit in einer Organisation zulasten der obligatorischen Krankenpflegeversicherung erfüllt sind: — 200 Fr.;
+- e1. für die Zulassung zur Tätigkeit zulasten der obligatorischen Krankenpflegeversicherung: — 300 Fr.;
+- e2. für die Bestätigung, dass die persönlichen Anforderungen für die Tätigkeit in einer Organisation zulasten der obligatorischen Krankenpflegeversicherung erfüllt sind: — 150 Fr.;
 - f. für die Ausstellung von Bescheinigungen: — 100 Fr.;
 - g. für das Vornehmen von Mutationen (je nach Aufwand): — 100–300 Fr.
 
