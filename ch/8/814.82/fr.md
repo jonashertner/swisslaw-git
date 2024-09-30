@@ -4,11 +4,11 @@ title: "Ordonnance du 10 novembre 2004 relative à la Convention de Rotterdam su
 short: OPICChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/725"
 language: fr
-version: 2023-11-01
+version: 2024-10-01
 adopted: 2004-11-10
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/725/20231101/fr/xml/fedlex-data-admin-ch-eli-cc-2004-725-20231101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/725/20231101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/725/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-2004-725-20241001-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/725/20241001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/725/20231101/fr"
 
 (Ordonnance PIC, OPICChim)
 
-du 10 novembre 2004 (État le 1<sup>er</sup> novembre 2023)
+du 10 novembre 2004 (État le 1<sup>er</sup> octobre 2024)
 
 Le Conseil fédéral suisse,
 
@@ -333,7 +333,7 @@ Annexe 1[^t-1]
 
 ## Substances interdites ou strictement réglementées en Suisse
 
-[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OFEV du 6 juil. 2018 ([RO 2018 2975](https://fedlex.data.admin.ch/eli/oc/2018/456)). Mise à jour par le ch. I de l’O de l’OFEV du 12 mars 2020 ([RO 2020 1175](https://fedlex.data.admin.ch/eli/oc/2020/216)), le ch. II de l’O du 14 oct. 2020 ([RO 2020 4675](https://fedlex.data.admin.ch/eli/oc/2020/841)), le ch. I de l’O du 12 fév. 2020 ([RO 2020 807](https://fedlex.data.admin.ch/eli/oc/2020/148)) et le ch. I de l’O de l’OFEV du 18 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 539](https://fedlex.data.admin.ch/eli/oc/2023/539)).
+[^t-1]: Nouvelle teneur selon le ch. I de l’O de l’OFEV du 6 juil. 2018 ([RO 2018 2975](https://fedlex.data.admin.ch/eli/oc/2018/456)). Mise à jour par le ch. I de l’O de l’OFEV du 12 mars 2020 ([RO 2020 1175](https://fedlex.data.admin.ch/eli/oc/2020/216)), le ch. II de l’O du 14 oct. 2020 ([RO 2020 4675](https://fedlex.data.admin.ch/eli/oc/2020/841)), le ch. I de l’O du 12 fév. 2020 ([RO 2020 807](https://fedlex.data.admin.ch/eli/oc/2020/148)) et le ch. I des O de l’OFEV du 18 sept. 2023 ([RO 2023 539](https://fedlex.data.admin.ch/eli/oc/2023/539)) et du 20 août 2024, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 437](https://fedlex.data.admin.ch/eli/oc/2024/437)).
 
 Les substances suivies du symbole # sont simultanément des substances ou des composants de préparations pesticides extrêmement dangereuses soumises à la procédure PIC (annexe 2).
 
@@ -522,7 +522,7 @@ Les substances suivies du symbole # sont simultanément des substances ou des co
 <tr><td>Télodrine</td><td>297-78-9</td><td>Pesticide</td></tr>
 <tr><td>Téméphos</td><td>3383-96-8</td><td>Pesticide</td></tr>
 <tr><td>Terbacil</td><td>5902-51-2</td><td>Pesticide</td></tr>
-<tr><td>Terbufos</td><td>13071-79-9</td><td>Pesticide</td></tr>
+<tr><td>Terbufos#</td><td>13071-79-9</td><td>Pesticide</td></tr>
 <tr><td>Terbutryne</td><td>886-50-0</td><td>Pesticide</td></tr>
 <tr><td>Tétrabromodiphényléther C<sub>12</sub>H<sub>6</sub>Br<sub>4</sub>O #</td><td>40088-47-9</td><td>Produit à usage industriel</td></tr>
 <tr><td>Tétrachlorure de carbone</td><td>56-23-5</td><td>Produit à usage industriel</td></tr>
@@ -558,7 +558,7 @@ Annexe 2[^t-2]
 
 ## Substances et préparations pesticides extrêmement dangereuses soumises à la procédure PIC
 
-[^t-2]: Nouvelle teneur selon le ch. I de l’O de l’OFEV du 6 juil. 2018 ([RO 2018 2975](https://fedlex.data.admin.ch/eli/oc/2018/456)). Mise à jour par le ch. I des O de l’OFEV du 12 mars 2020 ([RO 2020 1175](https://fedlex.data.admin.ch/eli/oc/2020/216)) et du 18 sept. 2023, en vigueur depuis le 1<sup>er</sup> nov. 2023 ([RO 2023 539](https://fedlex.data.admin.ch/eli/oc/2023/539)).
+[^t-2]: Nouvelle teneur selon le ch. I de l’O de l’OFEV du 6 juil. 2018 ([RO 2018 2975](https://fedlex.data.admin.ch/eli/oc/2018/456)). Mise à jour par le ch. I des O de l’OFEV du 12 mars 2020 ([RO 2020 1175](https://fedlex.data.admin.ch/eli/oc/2020/216)), du 18 sept. 2023 ([RO 2023 539](https://fedlex.data.admin.ch/eli/oc/2023/539)) et du 20 août 2024, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 437](https://fedlex.data.admin.ch/eli/oc/2024/437)).
 
 (Annexe identique à l’annexe III de la Convention PIC)
 
@@ -594,6 +594,7 @@ Annexe 2[^t-2]
 <tr><td>Parathion</td><td>56-38-2</td><td colspan="2">Pesticide</td></tr>
 <tr><td>Pentachlorophénol et ses sels et esters</td><td>87-86-5\*</td><td>Pesticide</td></tr>
 <tr><td>Phorate</td><td>298-02-2</td><td>Pesticide</td></tr>
+<tr><td>Terbufos</td><td>13071-79-9</td><td>Pesticide</td></tr>
 <tr><td>Toxaphène</td><td>8001-35-2</td><td>Pesticide</td></tr>
 <tr><td>Trichlorfon</td><td>52-68-6</td><td>Pesticide</td></tr>
 <tr><td>Formulations de poudres pour poudrage contenant un mélange:</td><td></td><td>Préparation pesticide extrêmement dangereuse</td></tr>

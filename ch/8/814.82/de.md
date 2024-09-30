@@ -4,11 +4,11 @@ title: "Verordnung vom 10. November 2004 zum Rotterdamer Übereinkommen über da
 short: ChemPICV
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/725"
 language: de
-version: 2023-11-01
+version: 2024-10-01
 adopted: 2004-11-10
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/725/20231101/de/xml/fedlex-data-admin-ch-eli-cc-2004-725-20231101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/725/20231101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/725/20241001/de/xml/fedlex-data-admin-ch-eli-cc-2004-725-20241001-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/725/20241001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/725/20231101/de"
 
 (PIC-Verordnung, ChemPICV)
 
-vom 10. November 2004 (Stand am 1. November 2023)
+vom 10. November 2004 (Stand am 1. Oktober 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -159,7 +159,7 @@ Wer einen gefährlichen Stoff oder eine gefährliche Zubereitung im Sinne von Ar
 
 - b. jedem Empfänger ein Sicherheitsdatenblatt, das die neusten verfügbaren Informationen enthält, zur Verfügung stellen.[^5-3]
 
-<sup>2</sup> ...[^5-4]
+<sup>2</sup> …[^5-4]
 
 <sup>3</sup> Die Kennzeichnung nach Absatz 1 und das Sicherheitsdatenblatt müssen in mindestens einer Amtssprache des Einfuhrlandes verfasst sein, soweit dies mit zumutbarem Aufwand zu erreichen ist. In den übrigen Fällen ist die im Einfuhrland am weitesten verbreitete Fremdsprache zu wählen.
 
@@ -332,7 +332,7 @@ Anhang 1[^t-1]
 
 ## In der Schweiz verbotene oder strengen Beschränkungen unterliegende Stoffe
 
-[^t-1]: Fassung gemäss Ziff. I der V des BAFU vom 6. Juli 2018 ([AS 2018 2975](https://fedlex.data.admin.ch/eli/oc/2018/456)). Bereinigt gemäss Ziff. I der V des BAFU vom 12. März 2020 ([AS 2020 1175](https://fedlex.data.admin.ch/eli/oc/2020/216)), Ziff. II der V vom 14. Okt. 2020 ([AS 2020 4675](https://fedlex.data.admin.ch/eli/oc/2020/841)) und Ziff. I der V vom 12. Febr. 2020 ([AS 2020 807](https://fedlex.data.admin.ch/eli/oc/2020/148)) und Ziff. I der V des BAFU vom 18. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 539](https://fedlex.data.admin.ch/eli/oc/2023/539)).
+[^t-1]: Fassung gemäss Ziff. I der V des BAFU vom 6. Juli 2018 ([AS 2018 2975](https://fedlex.data.admin.ch/eli/oc/2018/456)). Bereinigt gemäss Ziff. I der V des BAFU vom 12. März 2020 ([AS 2020 1175](https://fedlex.data.admin.ch/eli/oc/2020/216)), Ziff. II der V vom 14. Okt. 2020 ([AS 2020 4675](https://fedlex.data.admin.ch/eli/oc/2020/841)) und Ziff. I der V vom 12. Febr. 2020 ([AS 2020 807](https://fedlex.data.admin.ch/eli/oc/2020/148)), Ziff. I der V des BAFU vom 18. Sept. 2023 ([AS 2023 539](https://fedlex.data.admin.ch/eli/oc/2023/539)) und vom 20. Aug. 2024, in Kraft seit 1. Okt. 2024 (AS **202****4** 437).
 
 Stoffe, die in diesem Anhang mit dem Symbol # gekennzeichnet sind, sind zugleich Stoffe oder Bestandteile von sehr gefährlichen Pestizidformulierungen, die dem PIC-Verfahren unterliegen (Anhang 2).
 
@@ -423,7 +423,7 @@ Stoffe, die in diesem Anhang mit dem Symbol # gekennzeichnet sind, sind zugleich
 <tr><td>Diniconazol-M</td><td>83657-18-5</td><td>Pestizid</td></tr>
 <tr><td>Dinitro-ortho-cresol (DNOC) und seine Salze (wie Ammoniumsalz, Kaliumsalz und Natriumsalz) #</td><td>534-52-1 2980-64-5 5787-96-2 2312-76-7</td><td>Pestizid</td></tr>
 <tr><td>Dinocap</td><td>131-72-6</td><td>Pestizid</td></tr>
-<tr><td>Di-μ-oxo-di-n-butyl-stannylhydroxoboran (DBB)</td><td>75113-37-0</td><td>Industriechemikalie</td></tr>
+<tr><td>Di-µ-oxo-di-n-butyl-stannylhydroxoboran (DBB)</td><td>75113-37-0</td><td>Industriechemikalie</td></tr>
 <tr><td>Dinoseb und seine Salze und Ester#</td><td>88-85-7</td><td>Pestizid</td></tr>
 <tr><td>Dinoterb</td><td>1420-07-1</td><td>Pestizid</td></tr>
 <tr><td>Endosulfan #</td><td>115-29-7</td><td>Pestizid</td></tr>
@@ -521,7 +521,7 @@ Stoffe, die in diesem Anhang mit dem Symbol # gekennzeichnet sind, sind zugleich
 <tr><td>Telodrin</td><td>297-78-9</td><td>Pestizid</td></tr>
 <tr><td>Temephos</td><td>3383-96-8</td><td>Pestizid</td></tr>
 <tr><td>Terbacil</td><td>5902-51-2</td><td>Pestizid</td></tr>
-<tr><td>Terbufos</td><td>13071-79-9</td><td>Pestizid</td></tr>
+<tr><td>Terbufos #</td><td>13071-79-9</td><td>Pestizid</td></tr>
 <tr><td>Terbutryn</td><td>886-50-0</td><td>Pestizid</td></tr>
 <tr><td>Tetrabromdiphenylether C<sub>12</sub>H<sub>6</sub>Br<sub>4</sub>O #</td><td>40088-47-9</td><td>Industriechemikalie</td></tr>
 <tr><td>Tetrachlorkohlenstoff</td><td>56-23-5</td><td>Industriechemikalie</td></tr>
@@ -557,7 +557,7 @@ Anhang 2[^t-2]
 
 ## Dem PIC-Verfahren unterliegende Stoffe und sehr gefährliche Pestizidformulierungen
 
-[^t-2]: Fassung gemäss Ziff. I der V des BAFU vom 6. Juli 2018 ([AS 2018 2975](https://fedlex.data.admin.ch/eli/oc/2018/456)). Bereinigt gemäss Ziff. I der V des BAFU vom 12. März 2020 ([AS 2020 1175](https://fedlex.data.admin.ch/eli/oc/2020/216)) und vom 18. Sept. 2023, in Kraft seit 1. Nov. 2023 ([AS 2023 539](https://fedlex.data.admin.ch/eli/oc/2023/539)).
+[^t-2]: Fassung gemäss Ziff. I der V des BAFU vom 6. Juli 2018 ([AS 2018 2975](https://fedlex.data.admin.ch/eli/oc/2018/456)). Bereinigt gemäss Ziff. I der V des BAFU vom 12. März 2020 ([AS 2020 1175](https://fedlex.data.admin.ch/eli/oc/2020/216)), Ziff. I der V des BAFU vom 18. Sept. 2023 ([AS 2023 539](https://fedlex.data.admin.ch/eli/oc/2023/539)) und vom 20. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 437](https://fedlex.data.admin.ch/eli/oc/2024/437)).
 
 (Dieser Anhang ist identisch mit Anlage III der PIC-Konvention.)
 
@@ -593,6 +593,7 @@ Anhang 2[^t-2]
 <tr><td>Parathion</td><td>56-38-2</td><td>Pestizid</td></tr>
 <tr><td>Pentachlorphenol und seine Salze und Ester</td><td>87-86-5\*</td><td>Pestizid</td></tr>
 <tr><td>Phorat</td><td>298-02-2</td><td>Pestizid</td></tr>
+<tr><td>Terbufos</td><td>13071-79-9</td><td>Pestizid</td></tr>
 <tr><td>Toxaphen</td><td>8001-35-2</td><td>Pestizid</td></tr>
 <tr><td>Trichlorfon</td><td>52-68-6</td><td>Pestizid</td></tr>
 <tr><td>Staubformulierungen (DP), die eine Kombination enthalten von:</td><td></td><td>sehr gefährliche Pestizidformulierung</td></tr>
@@ -642,4 +643,4 @@ Anhang 2[^t-2]
 <tr><td colspan="3">\*\* Alle Tributylzinn-Verbindungen sind in der Anlage III der PIC-Konvention in der Kategorie der «Pestizide» und in der Kategorie der «Industriechemikalien» aufgeführt. Diese Chemikalien wurden zunächst aufgrund des Beschlusses Nr. RC-4/5 der Vertragsparteienkonferenz unter der Kategorie der «Pestizide» in die Anlage III aufgenommen. Diese Änderung der Anlage III trat am 1. Februar 2009 in Kraft. Mit der Änderung der Anlage III aufgrund des Beschlusses Nr. RC-8/5 der Vertragsparteienkonferenz wurden alle Tributylzinn-Verbindungen in die Kategorie der «Industriechemikalien» aufgenommen. Diese Änderung trat am 15. September 2017 in Kraft.</td></tr>
 </table>
 
-[^annex2-lvlu1-1]: Die Texte dieser Dokumente können beim BAFU, 3003 Bern, gegen Verrechnung bezogen, kostenlos eingesehen oder unter der Internetadresse [www.pic.int](http://www.pic.int) &gt; The Convention &gt; Chemicals abgerufen werden.
+[^annex2-lvlu1-1]: Die Texte dieser Dokumente können beim BAFU, 3003 Bern, gegen Verrechnung bezogen, kostenlos eingesehen oder unter der Internetadresse: [www.pic.int](http://www.pic.int) &gt; The Convention &gt; Chemicals abgerufen werden.

@@ -4,11 +4,11 @@ title: "Ordinanza del 10 novembre 2004 relativa alla Convenzione di Rotterdam su
 short: OPICChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/725"
 language: it
-version: 2023-11-01
+version: 2024-10-01
 adopted: 2004-11-10
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/725/20231101/it/xml/fedlex-data-admin-ch-eli-cc-2004-725-20231101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/725/20231101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/725/20241001/it/xml/fedlex-data-admin-ch-eli-cc-2004-725-20241001-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/725/20241001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2004/725/20231101/it"
 
 (Ordinanza PIC, OPICChim)
 
-del 10 novembre 2004 (Stato 1° novembre 2023)
+del 10 novembre 2004 (Stato 1° ottobre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -35,8 +35,9 @@ ordina:
 
 **Oggetto**
 
-- [tab] <sup>1</sup> La presente ordinanza istituisce un sistema di notifica e d’informazione per l’importazione e l’esportazione di determinate sostanze e preparati, il cui impiego è vietato o soggetto a rigorose restrizioni a causa dei loro effetti sulla salute dell’essere umano o sull’ambiente.
-- [tab] <sup>2</sup> La presente ordinanza consente alla Svizzera di partecipare alla procedura internazionale di notifica e alla procedura internazionale d’assenso preliminare con conoscenza di causa (procedura PIC) per determinate sostanze e preparati pericolosi conformemente alla Convenzione PIC.
+<sup>1</sup> La presente ordinanza istituisce un sistema di notifica e d’informazione per l’importazione e l’esportazione di determinate sostanze e preparati, il cui impiego è vietato o soggetto a rigorose restrizioni a causa dei loro effetti sulla salute dell’essere umano o sull’ambiente.
+
+<sup>2</sup> La presente ordinanza consente alla Svizzera di partecipare alla procedura internazionale di notifica e alla procedura internazionale d’assenso preliminare con conoscenza di causa (procedura PIC) per determinate sostanze e preparati pericolosi conformemente alla Convenzione PIC.
 
 #### Art. 2
 
@@ -327,7 +328,7 @@ Appendice 1[^t-1]
 
 ## Sostanze vietate o soggette a rigorose restrizioni in Svizzera
 
-[^t-1]: Nuovo testo giusta il n. I dell’O dell’UFAM del 6 lug. 2018 ([RU 2018 2975](https://fedlex.data.admin.ch/eli/oc/2018/456)). Aggiornato dal n. I dell’O dell’UFAM del 12 mar. 2020 ([RU 2020 1175](https://fedlex.data.admin.ch/eli/oc/2020/216)), dal n. II dell’O del 14 ott. 2020 ([RU 2020 4675](https://fedlex.data.admin.ch/eli/oc/2020/841)), dal n. I dell’O del 12 feb. 2020, in vigore il 1° gen. 2021, la voce relativa all’acido perfluoroottanoico, i suoi sali e i composti precursori ([RU 2020 807](https://fedlex.data.admin.ch/eli/oc/2020/148)) e dal n. I dell’O dell’UFAM del 18 set. 2023, in vigore il 1° nov. 2023 ([RU 2023 539](https://fedlex.data.admin.ch/eli/oc/2023/539)).
+[^t-1]: Nuovo testo giusta il n. I dell’O dell’UFAM del 6 lug. 2018 ([RU 2018 2975](https://fedlex.data.admin.ch/eli/oc/2018/456)). Aggiornato dal n. I dell’O dell’UFAM del 12 mar. 2020 ([RU 2020 1175](https://fedlex.data.admin.ch/eli/oc/2020/216)), dal n. II dell’O del 14 ott. 2020 ([RU 2020 4675](https://fedlex.data.admin.ch/eli/oc/2020/841)), dal n. I dell’O del 12 feb. 2020, in vigore il 1° gen. 2021, la voce relativa all’acido perfluoroottanoico, i suoi sali e i composti precursori ([RU 2020 807](https://fedlex.data.admin.ch/eli/oc/2020/148)), dal n. I delle O dell’UFAM del 18 set. 2023 ([RU 2023 539](https://fedlex.data.admin.ch/eli/oc/2023/539)) e del 20 ago. 2024, in vigore il 1° ott. 2024 ([RU 2024 437](https://fedlex.data.admin.ch/eli/oc/2024/437)).
 
 Le sostanze che in questa appendice sono contrassegnate con il simbolo # sono anche sostanze o componenti di formulati pesticidi altamente pericolosi soggetti alla procedura PIC (appendice 2).
 
@@ -516,9 +517,9 @@ Le sostanze che in questa appendice sono contrassegnate con il simbolo # sono an
 <tr><td>Telodrina</td><td>297-78-9</td><td>Pesticida</td></tr>
 <tr><td>Temefos</td><td>3383-96-8</td><td>Pesticida</td></tr>
 <tr><td>Terbacil</td><td>5902-51-2</td><td>Pesticida</td></tr>
-<tr><td>Terbufos</td><td>13071-79-9</td><td>Pesticida</td></tr>
+<tr><td>Terbufos #</td><td>13071-79-9</td><td>Pesticida</td></tr>
 <tr><td>Terbutrina</td><td>886-50-0</td><td>Pesticida</td></tr>
-<tr><td>tetrabromodifeniletere C<sub>12</sub>H<sub>6</sub>Br<sub>4</sub>O #</td><td>40088-47-9</td><td>Prodotto chimico industriale</td></tr>
+<tr><td>tetrabromodifeniletere C<sub>12</sub>H<sub>6</sub>Br<sub>4</sub>O</td><td>40088-47-9</td><td>Prodotto chimico industriale</td></tr>
 <tr><td>Tetracloruro di carbonio</td><td>56-23-5</td><td>Prodotto chimico industriale</td></tr>
 <tr><td>Tetraclorofenolo e i suoi sali nonché i composti di tetraclorofenossici</td><td></td><td></td></tr>
 <tr><td>Tetraclorvinfos</td><td>22248-79-9</td><td>Pesticida</td></tr>
@@ -552,7 +553,7 @@ Appendice 2[^t-2]
 
 ## Sostanze e formulati pesticidi altamente pericolosi soggetti alla procedura PIC
 
-[^t-2]: Nuovo testo giusta il n. I dell’O dell’UFAM del 6 lug. 2018 ([RU 2018 2975](https://fedlex.data.admin.ch/eli/oc/2018/456)). Aggiornato dal n. I delle O dell’UFAM del 12 mar. 2020 ([RU 2020 1175](https://fedlex.data.admin.ch/eli/oc/2020/216)) e del 18 set. 2023, in vigore il 1° nov. 2023 ([RU 2023 539](https://fedlex.data.admin.ch/eli/oc/2023/539)).
+[^t-2]: Nuovo testo giusta il n. I dell’O dell’UFAM del 6 lug. 2018 ([RU 2018 2975](https://fedlex.data.admin.ch/eli/oc/2018/456)). Aggiornato dal n. I delle O dell’UFAM del 12 mar. 2020 ([RU 2020 1175](https://fedlex.data.admin.ch/eli/oc/2020/216)), del 18 set. 2023 ([RU 2023 539](https://fedlex.data.admin.ch/eli/oc/2023/539)) e del 20 ago. 2024, in vigore il 1° ott. 2024 ([RU 2024 437](https://fedlex.data.admin.ch/eli/oc/2024/437)).
 
 (La presente appendice corrisponde all’allegato III della Convenzione PIC)
 
@@ -588,6 +589,7 @@ Appendice 2[^t-2]
 <tr><td>Parathion</td><td colspan="2">56-38-2</td><td>Pesticida</td></tr>
 <tr><td>Pentaclorofenolo e i suoi sali ed esteri</td><td colspan="2">87-86-5\*</td><td>Pesticida</td></tr>
 <tr><td>Forate</td><td>298-02-2</td><td colspan="2">Pesticida</td></tr>
+<tr><td>Terbufos</td><td colspan="2">13071-79-9</td><td>Pesticida</td></tr>
 <tr><td>Toxafene</td><td colspan="2">8001-35-2</td><td>Pesticida</td></tr>
 <tr><td>Triclorfone</td><td colspan="2">52-68-6</td><td>Pesticida</td></tr>
 <tr><td>Formulati di polveri nebulizzabili che contengono una miscela:</td><td colspan="2"></td><td>Formulato pesticida altamente pericoloso</td></tr>

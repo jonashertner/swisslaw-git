@@ -4,11 +4,11 @@ title: "Ordinance of 10 November 2004 on the Rotterdam Convention on the Prior I
 short: ChemPICO
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/725"
 language: en
-version: 2023-11-01
+version: 2024-10-01
 adopted: 2004-11-10
 in_force: 2005-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/725/20231101/en/xml/fedlex-data-admin-ch-eli-cc-2004-725-20231101-en-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/725/20231101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/725/20241001/en/xml/fedlex-data-admin-ch-eli-cc-2004-725-20241001-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/725/20241001/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (PIC Ordinance, ChemPICO)
 
-of 10 November 2004 (Status as of 1 November 2023)
+of 10 November 2004 (Status as of 1 October 2024)
 
 The Swiss Federal Council,
 
@@ -334,85 +334,88 @@ Annex 1[^t-1]
 
 ## Substances and preparations that are banned or subject to severe restrictions in Switzerland
 
-[^t-1]: Amended by No I of the FOEN O of 6 July 2018 ([AS 2018 2975](https://fedlex.data.admin.ch/eli/oc/2018/456)). Revised by No I of the O of the BAFU of 12 March 2020 ([AS 2020 1175](https://fedlex.data.admin.ch/eli/oc/2020/216)), No I of the O of 12 Feb. 2020 ([AS 2020 807](https://fedlex.data.admin.ch/eli/oc/2020/148)), No II of the O of 14 Oct. 2020 ([AS 2020 4675](https://fedlex.data.admin.ch/eli/oc/2020/841)), No I of the O of 12 Feb. 2020 ([AS 2020 807](https://fedlex.data.admin.ch/eli/oc/2020/148)) and No I of the FOEN O of 18 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 539](https://fedlex.data.admin.ch/eli/oc/2023/539)).
+[^t-1]: Amended by No I of the FOEN O of 6 July 2018 ([AS 2018 2975](https://fedlex.data.admin.ch/eli/oc/2018/456)). Revised by No I of the O of the BAFU of 12 March 2020 ([AS 2020 1175](https://fedlex.data.admin.ch/eli/oc/2020/216)), No II of the O of 14 Oct. 2020 ([AS 2020 4675](https://fedlex.data.admin.ch/eli/oc/2020/841)), by No I of the O of 12 Febr. 2020 ([AS 2020 807](https://fedlex.data.admin.ch/eli/oc/2020/148)), No I of the O of the BAFU of 18 Sept. 2023 ([AS 2023 539](https://fedlex.data.admin.ch/eli/oc/2023/539)) and of 20 Aug. 2024, in force since 1 Oct. 2024 ([AS 2024 437](https://fedlex.data.admin.ch/eli/oc/2024/437)).
 
 Substances marked with the symbol # in this Annex are also substances or components of severely hazardous pesticide formulations that are subject to the PIC procedure (Annex 2).
 
 <table>
 <tr><th>Substance/preparation</th><th>Relevant CAS number(s)</th><th>Category</th></tr>
-<tr><td>1,1,1-trichloroethane</td><td>71-55-6</td><td>Industrial chemical</td></tr>
-<tr><td>1,2-dibromoethane (Ethylene dibromide)#</td><td>106-93-4</td><td>Pesticide</td></tr>
-<tr><td>1,2-dichloroethane (Ethylene dichloride) #</td><td>107-06-2</td><td></td></tr>
-<tr><td>1,3-dichloropropene</td><td>542-75-6</td><td>Pesticide</td></tr>
-<tr><td>2-naphthylamine and its salts</td><td>91-59-8</td><td>Industrial chemical</td></tr>
-<tr><td>2,4,5-trichlorophenoxy acetic acid and its salts #</td><td>93-76-5</td><td>Pesticide</td></tr>
-<tr><td>2,4,5-trichlorophenoxy acetyl compounds</td><td></td><td></td></tr>
-<tr><td>2-(2,4,5-trichlorophenoxy) propionic acid and its salts</td><td></td><td></td></tr>
-<tr><td>2-(2,4,5-trichlorophenoxy) propionyl compounds</td><td></td><td></td></tr>
-<tr><td>2,4-dinitrotoluene (2,4-DNT)</td><td>121-14-2</td><td>Industrial chemical</td></tr>
-<tr><td>4,4’-diaminodiphenylmethane (MDA)</td><td>101-77-9</td><td>Industrial chemical</td></tr>
-<tr><td>4-aminobiphenyl and its salts</td><td>92-67-1</td><td>Industrial chemical</td></tr>
-<tr><td>4-nitrobiphenyl</td><td>92-93-3</td><td>Industrial chemical</td></tr>
-<tr><td>5-tert-Butyl-2,4,6-trinitro-m-xylene (musk xylene)</td><td>81-15-2</td><td>Industrial chemical</td></tr>
-<tr><td>Acephate</td><td>30560-19-1</td><td>Pesticide</td></tr>
+<tr><td>1,1,1-Trichlorethan</td><td>71-55-6</td><td>Industrial chemical</td></tr>
+<tr><td>1,2-Dibromethan (Ethylendibromid) #</td><td>106-93-4</td><td>Pesticide</td></tr>
+<tr><td>1,2-Dichlorethan (Ethylendichlorid) #</td><td>107-06-2</td><td></td></tr>
+<tr><td>1,3-Dichlorpropen</td><td>542-75-6</td><td>Pesticide</td></tr>
+<tr><td>2-(2,4,5-Trichlorphenoxy)-propionsäure und ihre Salze</td><td></td><td></td></tr>
+<tr><td>2-(2,4,5-Trichlorphenoxy)-propionyl-verbindungen</td><td></td><td></td></tr>
+<tr><td>2,4,5-Trichlorphenoxyacetylverbindungen</td><td></td><td></td></tr>
+<tr><td>2,4,5-Trichlorphenoxyessigsäure und ihre Salze #</td><td>93-76-5</td><td>Pesticide</td></tr>
+<tr><td>2,4-Dinitrotoluol (2,4-DNT)</td><td>121-14-2</td><td>Industrial chemical</td></tr>
+<tr><td>2-Naphthylamin und seine Salze</td><td>91-59-8</td><td>Industrial chemical</td></tr>
+<tr><td>4,4’-Diaminodiphenylmethan (MDA)</td><td>101-77-9</td><td>Industrial chemical</td></tr>
+<tr><td>4-Aminobiphenyl und seine Salze</td><td>92-67-1</td><td>Industrial chemical</td></tr>
+<tr><td>4-Nitrobiphenyl</td><td>92-93-3</td><td>Industrial chemical</td></tr>
+<tr><td>5-tert-Butyl-2,4,6-trinitro-m-xylol (Moschus‑Xylol)</td><td>81-15-2</td><td>Industrial chemical</td></tr>
+<tr><td>Acephat</td><td>30560-19-1</td><td>Pesticide</td></tr>
 <tr><td>Acetochlor</td><td>34256-82-1</td><td>Pesticide</td></tr>
 <tr><td>Alachlor #</td><td>15972-60-8</td><td>Pesticide</td></tr>
 <tr><td>Aldrin #</td><td>309-00-2</td><td>Pesticide</td></tr>
-<tr><td>Alkanes C<sub>10</sub>-C<sub>13</sub>, chloro #</td><td>85535-84-8</td><td>Industrial chemical</td></tr>
+<tr><td>Alkane C<sub>10</sub>-C<sub>13</sub>, Chlor #</td><td>85535-84-8</td><td>Industrial chemical</td></tr>
 <tr><td>Allethrin</td><td>584-79-2</td><td>Pesticide</td></tr>
 <tr><td>Ametryn</td><td>834-12-8</td><td>Pesticide</td></tr>
 <tr><td>Amitraz</td><td>33089-61-1</td><td>Pesticide</td></tr>
-<tr><td>Anthraquinone</td><td>84-65-1</td><td>Pesticide</td></tr>
-<tr><td>Arsenic and its compounds</td><td>7440-38-2 and others</td><td>Pesticide</td></tr>
-<tr><td>Asbestos:</td><td>[tab]</td><td>Industrial chemical</td></tr>
-<tr><td>- Actinolite #</td><td>[tab] 77536-66-4</td><td></td></tr>
-<tr><td>- Anthophyllite #</td><td>[tab] 77536-67-5</td><td></td></tr>
-<tr><td>- Amosite #</td><td>[tab] 12172-73-5</td><td></td></tr>
-<tr><td>- Crocidolite #</td><td>[tab] 12001-28-4</td><td></td></tr>
-<tr><td>- Tremolite #</td><td>[tab] 77536-68-6</td><td></td></tr>
-<tr><td>- Chrysotile</td><td>12001-29-5</td><td></td></tr>
-<tr><td>Azinphos-methyl #</td><td>86-50-0</td><td>Pesticide</td></tr>
+<tr><td>Anthrachinon</td><td>84-65-1</td><td>Pesticide</td></tr>
+<tr><td>Arsen and Arsenverbindungen</td><td>7440-38-2 und weitere</td><td>Pesticide</td></tr>
+<tr><td>Asbestos</td><td></td><td>Industrial chemical</td></tr>
+<tr><td>– Aktinolith #</td><td>77536-66-4</td><td></td></tr>
+<tr><td>– Anthophyllith #</td><td>77536-67-5</td><td></td></tr>
+<tr><td>– Amosit #</td><td>12172-73-5</td><td></td></tr>
+<tr><td>– Krokydolith #</td><td>12001-28-4</td><td></td></tr>
+<tr><td>– Tremolit #</td><td>77536-68-6</td><td></td></tr>
+<tr><td>– Chrysotil</td><td>12001-29-5</td><td></td></tr>
+<tr><td>alpha-Hexabromcyclododecan #</td><td>134237-50-6</td><td>Industrial chemical</td></tr>
+<tr><td>Azinphos-Methyl #</td><td>86-50-0</td><td>Pesticide</td></tr>
 <tr><td>Bendiocarb</td><td>22781-23-3</td><td>Pesticide</td></tr>
-<tr><td>Bensulide</td><td>741-58-2</td><td>Pesticide</td></tr>
+<tr><td>Bensulid</td><td>741-58-2</td><td>Pesticide</td></tr>
 <tr><td>Bensultap</td><td>17606-31-4</td><td>Pesticide</td></tr>
-<tr><td>Benzene[^annex1-lvlu1-1]</td><td>71-43-2</td><td>Industrial chemical</td></tr>
-<tr><td>Benzidine and its salts</td><td>92-87-5</td><td>Industrial chemical</td></tr>
+<tr><td>Benzidin und seine Salze</td><td>92-87-5</td><td>Industrial chemical</td></tr>
+<tr><td>Benzol[^annex1-lvlu1-1]</td><td>71-43-2</td><td>Industrial chemical</td></tr>
+<tr><td>beta-Hexabromcyclododecan #</td><td>134237-51-7</td><td>Industrial chemical</td></tr>
 <tr><td>Binapacryl #</td><td>485-31-4</td><td>Pesticide</td></tr>
 <tr><td>Bioallethrin</td><td>584-79-2</td><td>Pesticide</td></tr>
 <tr><td>Bioresmethrin</td><td>28434-01-7</td><td>Pesticide</td></tr>
-<tr><td>Bis(trichloromethyl)sulfone</td><td>3064-70-8</td><td>Pesticide</td></tr>
+<tr><td>Bis(trichlormethyl)sulfon</td><td>3064-70-8</td><td>Pesticide</td></tr>
 <tr><td>Bitertanol</td><td>55179-31-2</td><td>Pesticide</td></tr>
+<tr><td>Bleichromat</td><td>7758-97-6</td><td>Industrial chemical</td></tr>
+<tr><td>Bleichromatmolybdatsulfatrot (C.I. Pigment Red 104)</td><td>12656-85-8</td><td>Industrial chemical</td></tr>
+<tr><td>Bleisulfochromatgelb (C.I. Pigment Yellow 34)</td><td>1344-37-2</td><td>Industrial chemical</td></tr>
 <tr><td>Bromacil</td><td>314-40-9</td><td>Pesticide</td></tr>
-<tr><td>Bromomethane</td><td>74-83-9</td><td>Industrial chemical</td></tr>
+<tr><td>Brommethan</td><td>74-83-9</td><td>Industrial chemical</td></tr>
 <tr><td>Butafenacil</td><td>134605-64-4</td><td>Pesticide</td></tr>
 <tr><td>Butralin</td><td>33629-47-9</td><td>Pesticide</td></tr>
-<tr><td>Butylate</td><td>2008-41-5</td><td>Pesticide</td></tr>
-<tr><td>Cadmium and its compounds</td><td>7440-43-9 and others</td><td>Industrial chemical</td></tr>
+<tr><td>Butylat</td><td>2008-41-5</td><td>Pesticide</td></tr>
+<tr><td>Cadmium and Cadmiumverbindungen</td><td>7440-43-9 und weitere</td><td>Industrial chemical</td></tr>
 <tr><td>Cadusafos</td><td>95465-99-9</td><td>Pesticide</td></tr>
 <tr><td>Carbaryl</td><td>63-25-2</td><td>Pesticide</td></tr>
 <tr><td>Carbendazim</td><td>10605-21-7</td><td>Pesticide</td></tr>
 <tr><td>Carbofuran #</td><td>1563-66-2</td><td>Pesticide</td></tr>
 <tr><td>Carbosulfan</td><td>55285-14-8</td><td>Pesticide</td></tr>
-<tr><td>Carbon tetrachloride</td><td>56-23-5</td><td>Industrial chemical</td></tr>
-<tr><td>CFCs: all fully halogenated chlorofluorocarbons with up to 3 carbon atoms</td><td></td><td>Industrial chemical</td></tr>
-<tr><td>Chlordane #</td><td>57-74-9</td><td>Pesticide</td></tr>
-<tr><td>Chlordecone (Kepone)</td><td>143-50-0</td><td>Pesticide</td></tr>
+<tr><td>Chlordan #</td><td>57-74-9</td><td>Pesticide</td></tr>
+<tr><td>Chlordecon (Kepon)</td><td>143-50-0</td><td>Pesticide</td></tr>
 <tr><td>Chlorfenvinphos</td><td>470-90-6</td><td>Pesticide</td></tr>
 <tr><td>Chloroform</td><td>67-66-3</td><td>Industrial chemical</td></tr>
-<tr><td>Chloropicrin</td><td>76-06-2</td><td>Pesticide</td></tr>
-<tr><td>Chlorthal-dimethyl</td><td>1861-32-1</td><td>Pesticide</td></tr>
-<tr><td>Choline chloride</td><td>67-48-1</td><td>Pesticide</td></tr>
-<tr><td>Cinidon-ethyl</td><td>142891-20-1</td><td>Pesticide</td></tr>
-<tr><td>Creosote oil</td><td>8001-58-9, 61789-28-4, 84650-04-4, 90640-84-9, 65996-91-0, 90640-80-5, 65996-85-2, 8021-39-4, 122384-78-5</td><td>Industrial chemical</td></tr>
-<tr><td>Cyanamide</td><td>420-04-2</td><td>Pesticide</td></tr>
-<tr><td>Cyanazine</td><td>21725-46-2</td><td>Pesticide</td></tr>
-<tr><td>Cybutryne</td><td>28159-98-0</td><td>Pesticide</td></tr>
+<tr><td>Chlorpikrin</td><td>76-06-2</td><td>Pesticide</td></tr>
+<tr><td>Chlorthal-Dimethyl</td><td>1861-32-1</td><td>Pesticide</td></tr>
+<tr><td>Cholinchlorid</td><td>67-48-1</td><td>Pesticide</td></tr>
+<tr><td>Cinidon-Ethyl</td><td>142891-20-1</td><td>Pesticide</td></tr>
+<tr><td>Cyanamid</td><td>420-04-2</td><td>Pesticide</td></tr>
+<tr><td>Cyanazin</td><td>21725-46-2</td><td>Pesticide</td></tr>
+<tr><td>Cybutryn</td><td>28159-98-0</td><td>Pesticide</td></tr>
 <tr><td>Cyfluthrin</td><td>68359-37-5</td><td>Pesticide</td></tr>
 <tr><td>Cyhexatin</td><td>13121-70-5</td><td>Pesticide</td></tr>
 <tr><td>DDD</td><td>72-54-8</td><td></td></tr>
 <tr><td>DDE</td><td>72-55-9</td><td>Pesticide</td></tr>
 <tr><td>DDT #</td><td>50-29-3</td><td>Pesticide</td></tr>
-<tr><td>Decabromodiphenyl ether #</td><td>1163-19-5</td><td>Industrial chemical</td></tr>
+<tr><td>Decabromdiphenylether #</td><td>1163-19-5</td><td>Industrial chemical</td></tr>
+<tr><td>Di-µ-oxo-di-n-butyl-stannylhydroxoboran (DBB)</td><td>75113-37-0</td><td>Industrial chemical</td></tr>
 <tr><td>Diazinon</td><td>333-41-5</td><td>Pesticide</td></tr>
 <tr><td>Dichlobenil</td><td>1194-65-6</td><td>Pesticide</td></tr>
 <tr><td>Dichlorvos</td><td>62-73-7</td><td>Pesticide</td></tr>
@@ -420,132 +423,129 @@ Substances marked with the symbol # in this Annex are also substances or compone
 <tr><td>Dicofol</td><td>115-32-2</td><td>Pesticide</td></tr>
 <tr><td>Dicrotophos</td><td>141-66-2</td><td>Pesticide</td></tr>
 <tr><td>Dieldrin #</td><td>60-57-1</td><td>Pesticide</td></tr>
-<tr><td>Diisobutyl phtalate (DIBP)</td><td>84-69-5</td><td>Industrial chemical</td></tr>
+<tr><td>Diisobutylphthalat (DIBP)</td><td>84-69-5</td><td>Industrial chemical</td></tr>
 <tr><td>Dimethenamid</td><td>87674-68-8</td><td>Pesticide</td></tr>
-<tr><td>Diniconazole-M</td><td>83657-18-5</td><td>Pesticide</td></tr>
+<tr><td>Diniconazol-M</td><td>83657-18-5</td><td>Pesticide</td></tr>
 <tr><td>Dinitro-ortho-cresol (DNOC) and its salts (such as ammonium, potassium and sodium salts) #</td><td>534-52-1 2980-64-5 5787-96-2 2312-76-7</td><td>Pesticide</td></tr>
 <tr><td>Dinocap</td><td>131-72-6</td><td>Pesticide</td></tr>
-<tr><td>Di-μ-oxo-di-n-butyl-stannylhydroxoborane (DBB)</td><td>75113-37-0</td><td>Industrial chemical</td></tr>
-<tr><td>Dinoseb, its salts and esters #</td><td>88-85-7</td><td>Pesticide</td></tr>
+<tr><td>Dinoseb und seine Salze und Ester#</td><td>88-85-7</td><td>Pesticide</td></tr>
 <tr><td>Dinoterb</td><td>1420-07-1</td><td>Pesticide</td></tr>
 <tr><td>Endosulfan #</td><td>115-29-7</td><td>Pesticide</td></tr>
 <tr><td>Endrin</td><td>72-20-8</td><td>Pesticide</td></tr>
 <tr><td>Ethion</td><td>563-12-2</td><td>Pesticide</td></tr>
 <tr><td>Ethoxyquin</td><td>91-53-2</td><td>Pesticide</td></tr>
-<tr><td>Ethylene oxide #</td><td>75-21-8</td><td>Pesticide</td></tr>
+<tr><td>Ethylenoxid #</td><td>75-21-8</td><td>Pesticide</td></tr>
 <tr><td>Fenarimol</td><td>60168-88-9</td><td>Pesticide</td></tr>
-<tr><td>Fenbutatin oxide</td><td>13356-08-6</td><td>Pesticide</td></tr>
+<tr><td>Fenbutatinoxid</td><td>13356-08-6</td><td>Pesticide</td></tr>
 <tr><td>Fenitrothion</td><td>122-14-5</td><td>Pesticide</td></tr>
 <tr><td>Fenpropathrin</td><td>39515-41-8</td><td>Pesticide</td></tr>
 <tr><td>Fenthion</td><td>55-38-9</td><td>Pesticide</td></tr>
-<tr><td>Fentin hydroxide</td><td>76-87-9</td><td>Pesticide</td></tr>
-<tr><td>Fentin acetate</td><td>900-95-8</td><td>Pesticide</td></tr>
-<tr><td>Fenvalerate</td><td>51630-58-1</td><td>Pesticide</td></tr>
+<tr><td>Fentinacetat</td><td>900-95-8</td><td>Pesticide</td></tr>
+<tr><td>Fentinhydroxid</td><td>76-87-9</td><td>Pesticide</td></tr>
+<tr><td>Fenvalerat</td><td>51630-58-1</td><td>Pesticide</td></tr>
 <tr><td>Flurenol</td><td>467-69-6</td><td>Pesticide</td></tr>
-<tr><td>Flusilazole</td><td>85509-19-9</td><td>Pesticide</td></tr>
+<tr><td>Flusilazol</td><td>85509-19-9</td><td>Pesticide</td></tr>
 <tr><td>Furathiocarb</td><td>65907-30-4</td><td>Pesticide</td></tr>
-<tr><td>Guazatine</td><td>108173-90-6</td><td>Pesticide</td></tr>
-<tr><td>Halogenated naphthalenes (C<sub>10</sub>H<sub>n</sub>X<sub>8-n</sub> where X = halogen and 0 ≤ n ≤ 7)</td><td></td><td>Industrial chemical</td></tr>
+<tr><td>gamma-Hexabromcyclododecan #</td><td>134237-52-8</td><td>Industrial chemical</td></tr>
+<tr><td>Guazatin</td><td>108173-90-6</td><td>Pesticide</td></tr>
+<tr><td>Halogenierte Naphthaline (C<sub>10</sub>H<sub>n</sub>X<sub>8-n</sub> mit X=Halogen und 0 ≤ n ≤ 7)</td><td></td><td>Industrial chemical</td></tr>
+<tr><td>Halone: Alle vollständig halogenierten bromhaltigen Fluorkohlenwasserstoffe mit bis zu 3 C-Atomen</td><td></td><td>Industrial chemical</td></tr>
 <tr><td>Halons: all fully halogenated bromine-containing fluorocarbons with up to 3 carbon atoms</td><td></td><td>Industrial chemical</td></tr>
-<tr><td>HCH (mixed isomers) #</td><td>608-73-1</td><td>Pesticide</td></tr>
-<tr><td>Heptabromodiphenyl ether C<sub>12</sub>H<sub>3</sub>Br<sub>7</sub>O #</td><td>68928-80-3</td><td>Industrial chemical</td></tr>
-<tr><td>Heptachlor #</td><td>76-44-8</td><td>Pesticide</td></tr>
-<tr><td>Heptachlor epoxide</td><td>1024-57-3</td><td>Pesticide</td></tr>
-<tr><td>Hexabromocyclododecane (HBCDD) #</td><td>3194-55-6 25637-99-4</td><td>Industrial chemical</td></tr>
-<tr><td>alpha-Hexabromocyclododecane</td><td>134237-50-6</td><td>Industrial chemical</td></tr>
-<tr><td>beta-Hexabromocyclododecane #</td><td>134237-51-7</td><td>Industrial chemical</td></tr>
-<tr><td>gamma-Hexabromocyclododecan #e</td><td>134237-52-8</td><td>Industrial chemical</td></tr>
-<tr><td>Hexabromodiphenyl ether C<sub>12</sub>H<sub>4</sub>Br<sub>6</sub>O #</td><td>36483-60-0</td><td>Industrial chemical</td></tr>
-<tr><td>Hexachlorobenzene #</td><td>118-74-1</td><td>Pesticide</td></tr>
-<tr><td>Hexachlorobutadiene</td><td>87-68-3</td><td>Industrial chemical</td></tr>
-<tr><td>Hexaconazole</td><td>79983-71-4</td><td>Pesticide</td></tr>
 <tr><td>HBFCs: All partially halogenated brominecontaining fluorohydrocarbons with up to 3 carbon atoms</td><td></td><td>Industrial chemical</td></tr>
 <tr><td>HCFCs: All partially halogenated chlorofluorocarbons with up to 3 carbon atoms</td><td></td><td>Industrial chemical</td></tr>
+<tr><td>HCH (gemischte Isomere) #</td><td>608-73-1</td><td>Pesticide</td></tr>
+<tr><td>Heptabromdiphenylether C<sub>12</sub>H<sub>3</sub>Br<sub>7</sub>O #</td><td>68928-80-3</td><td>Industrial chemical</td></tr>
+<tr><td>Heptachlor #</td><td>76-44-8</td><td>Pesticide</td></tr>
+<tr><td>Heptachlorepoxid</td><td>1024-57-3</td><td>Pesticide, Industrial chemical</td></tr>
+<tr><td>Hexabromcyclododecane (HBCDD) #</td><td>3194-55-6 25637-99-4</td><td>Industrial chemical</td></tr>
+<tr><td>Hexabromdiphenylether C<sub>12</sub>H<sub>4</sub>Br<sub>6</sub>O #</td><td>36483-60-0</td><td>Industrial chemical</td></tr>
+<tr><td>Hexachlorbenzol #</td><td>118-74-1</td><td>Pesticide</td></tr>
+<tr><td>Hexachlorbutadien</td><td>87-68-3</td><td>Industrial chemical</td></tr>
+<tr><td>Hexaconazol</td><td>79983-71-4</td><td>Pesticide</td></tr>
 <tr><td>Hydramethylnon</td><td>67485-29-4</td><td>Pesticide</td></tr>
 <tr><td>Ioxynil</td><td>1689-83-4</td><td>Pesticide</td></tr>
 <tr><td>Isodrin</td><td>465-73-6</td><td>Pesticide</td></tr>
 <tr><td>Isoproturon</td><td>34123-59-6</td><td>Pesticide</td></tr>
 <tr><td>Kelevan</td><td>4234-79-1</td><td>Pesticide</td></tr>
-<tr><td>Lead chromate</td><td>7758-97-6</td><td>Industrial chemical</td></tr>
-<tr><td>Lead chromate molybdate sulfate red (C.I. Pigment Red 104)</td><td>12656-85-8</td><td>Industrial chemical</td></tr>
-<tr><td>Lead sulfochromate yellow (C.I. Pigment Yellow 34)</td><td>1344-37-2</td><td>Industrial chemical</td></tr>
-<tr><td>Lindane #</td><td>58-89-9</td><td>Pesticide</td></tr>
+<tr><td>Lindan #</td><td>58-89-9</td><td>Pesticide</td></tr>
 <tr><td>Malathion</td><td>121-75-5</td><td>Pesticide</td></tr>
-<tr><td>Mercury compounds, including inorganic mercury compounds, alkyl mercury compounds and alkyloxyalkyl and aryl mercury compounds #</td><td></td><td>Pesticide</td></tr>
+<tr><td>Mercury compounds, including inorganic mercury compounds, alkyl mercury compounds and alkyloxyalkyl and aryl mercury compounds</td><td></td><td>Pesticide, Industrial chemical</td></tr>
 <tr><td>Methabenzthiazuron</td><td>18691-97-9</td><td>Pesticide</td></tr>
 <tr><td>Methoxychlor</td><td>72-43-5</td><td>Pesticide</td></tr>
-<tr><td>Methyl-parathion #</td><td>298-00-0</td><td>Pesticide</td></tr>
+<tr><td>Methylparathion #</td><td>298-00-0</td><td>Pesticide</td></tr>
 <tr><td>Metoxuron</td><td>19937-59-8</td><td>Pesticide</td></tr>
 <tr><td>Mevinphos</td><td>7786-34-7</td><td>Pesticide</td></tr>
-<tr><td>Mirex</td><td>2385-85-5</td><td>Pesticide, industrial chemical</td></tr>
-<tr><td>Monolinuron</td><td>1746-81-2</td><td></td></tr>
-<tr><td>Monomethyl-dibromo-diphenyl methane</td><td>99688-47-8</td><td>Industrial chemical</td></tr>
-<tr><td>Monomethyl-dichloro-diphenyl methane</td><td></td><td>Industrial chemical</td></tr>
-<tr><td>Monomethyl-tetrachloro-diphenyl methane</td><td>76253-60-6</td><td>Industrial chemical</td></tr>
+<tr><td>Mirex</td><td>2385-85-5</td><td>Pesticide, Industrial chemical</td></tr>
+<tr><td>Monolinuron</td><td>1746-81-2</td><td>Pesticide</td></tr>
+<tr><td>Monomethyldibromdiphenylmethan</td><td>99688-47-8</td><td>Industrial chemical</td></tr>
+<tr><td>Monomethyldichlordiphenylmethan</td><td></td><td>Industrial chemical</td></tr>
+<tr><td>Monomethyltetrachlordiphenylmethan</td><td>76253-60-6</td><td>Industrial chemical</td></tr>
 <tr><td>Nabam</td><td>142-59-6</td><td>Pesticide</td></tr>
 <tr><td>Naled</td><td>300-76-5</td><td>Pesticide</td></tr>
-<tr><td>Nonylphenol</td><td></td><td>Pesticide, industrial chemical</td></tr>
-<tr><td>Nonylphenol ethoxylates</td><td></td><td>Pesticide, industrial chemical</td></tr>
+<tr><td>Nonylphenol</td><td></td><td>Pesticide, Industrial chemical</td></tr>
+<tr><td>Nonylphenolethoxylate</td><td></td><td>Pesticide, Industrial chemical</td></tr>
 <tr><td>Novaluron</td><td>116714-46-6</td><td>Pesticide</td></tr>
-<tr><td>Octabromodiphenyl ether C<sub>12</sub>H<sub>2</sub>Br<sub>8</sub>O</td><td>32536-52-0</td><td>Industrial chemical</td></tr>
-<tr><td>Octylphenol</td><td></td><td>Pesticide, industrial chemical</td></tr>
-<tr><td>Octylphenol ethoxylates</td><td></td><td>Pesticide, industrial chemical</td></tr>
-<tr><td>Omethoate</td><td>1113-02-6</td><td>Pesticide</td></tr>
+<tr><td>Octabromdiphenylether C<sub>12</sub>H<sub>2</sub>Br<sub>8</sub>O</td><td>32536-52-0</td><td>Industrial chemical</td></tr>
+<tr><td>Octylphenol</td><td></td><td>Pesticide, Industrial chemical</td></tr>
+<tr><td>Octylphenolethoxylate</td><td></td><td>Pesticide, Industrial chemical</td></tr>
+<tr><td>Omethoat</td><td>1113-02-6</td><td>Pesticide</td></tr>
 <tr><td>Oxadiargyl</td><td>39807-15-3</td><td>Pesticide</td></tr>
 <tr><td>Oxydemeton-methyl</td><td>301-12-2</td><td>Pesticide</td></tr>
 <tr><td>Parathion #</td><td>56-38-2</td><td>Pesticide</td></tr>
-<tr><td>Pebulate</td><td>1114-71-2</td><td>Pesticide</td></tr>
-<tr><td>Pentabromodiphenyl ether C<sub>12</sub>H<sub>5</sub>Br<sub>5</sub>O #</td><td>32534-81-9</td><td></td></tr>
-<tr><td>Pentachlorobenzene</td><td>608-93-5</td><td>Pesticide, Industrial chemical</td></tr>
-<tr><td>Pentachlorophenol and its salts as well as pentachlorophenoxy compounds #</td><td>87-86-5</td><td>Pesticide, industrial chemical</td></tr>
+<tr><td>Pebulat</td><td>1114-71-2</td><td>Pesticide</td></tr>
+<tr><td>Pentabromdiphenylether C<sub>12</sub>H<sub>5</sub>Br<sub>5</sub>O #</td><td>32534-81-9</td><td>Industrial chemical</td></tr>
+<tr><td>Pentachlorbenzol</td><td>608-93-5</td><td>Pesticide, Industrial chemical</td></tr>
+<tr><td>Pentachlorphenol und seine Salze sowie Pentachlorphenoxyverbindungen #</td><td>87-86-5</td><td>Pesticide, Industrial chemical</td></tr>
+<tr><td>Perfluoroctansäure, ihre Salze und Vorläuferverbindungen #</td><td>335-67-1 und weitere</td><td>Industrial chemical</td></tr>
 <tr><td>Perfluorooctane sulfonates (PFOS) C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>X (X = OH, Metal salt (O-M+), halide, amide, and other derivatives including polymers) #</td><td>1763-23-1 2795‑39-3 and other</td><td>Industrial chemical</td></tr>
-<tr><td>Perfluorooctanoic acid, its salts and related compounds #</td><td>335-67-1 and others</td><td>Industrial chemical</td></tr>
 <tr><td>Permethrin</td><td>52645-53-1</td><td>Pesticide</td></tr>
-<tr><td>Perthane</td><td>72-56-0</td><td>Pesticide</td></tr>
-<tr><td>Phorate #</td><td>298-02-2</td><td>Pesticide</td></tr>
-<tr><td>Phosalone</td><td>2310-17-0</td><td>Pesticide</td></tr>
-<tr><td>Polybrominated biphenyls (PBBs) #</td><td>36355-01-8 (hexa-) 27858‑07-7 (octa-) 13654‑09-6 (deca-)</td><td>Industrial chemical</td></tr>
-<tr><td>Polychlorinated biphenyls (PCBs) #</td><td>1336-36-3</td><td>Industrial chemical</td></tr>
-<tr><td>Polychlorinated terphenyls (PCTs) #</td><td>61788-33-8</td><td>Industrial chemical</td></tr>
-<tr><td>Procymidone</td><td>32809-16-8</td><td>Pesticide</td></tr>
+<tr><td>Perthan</td><td>72-56-0</td><td>Pesticide</td></tr>
+<tr><td>Phorat #</td><td>298-02-2</td><td>Pesticide</td></tr>
+<tr><td>Phosalon</td><td>2310-17-0</td><td>Pesticide</td></tr>
+<tr><td>Polybromierte Biphenyle (PBB) #</td><td>36355-01-8 (hexa-) 27858-07-7 (octa-) 13654-09-6 (deca-)</td><td>Industrial chemical</td></tr>
+<tr><td>Polychlorierte Biphenyle (PCB) #</td><td>1336-36-3</td><td>Industrial chemical</td></tr>
+<tr><td>Polychlorierte Terphenyle (PCT) #</td><td>61788-33-8</td><td>Industrial chemical</td></tr>
+<tr><td>Procymidon</td><td>32809-16-8</td><td>Pesticide</td></tr>
 <tr><td>Prometryn</td><td>7287-19-6</td><td>Pesticide</td></tr>
 <tr><td>Propachlor</td><td>1918-16-7</td><td>Pesticide</td></tr>
 <tr><td>Propanil</td><td>709-98-8</td><td>Pesticide</td></tr>
-<tr><td>Propargite</td><td>2312-35-8</td><td>Pesticide</td></tr>
-<tr><td>Propazine</td><td>139-40-2</td><td>Pesticide</td></tr>
+<tr><td>Propargit</td><td>2312-35-8</td><td>Pesticide</td></tr>
+<tr><td>Propazin</td><td>139-40-2</td><td>Pesticide</td></tr>
 <tr><td>Propham</td><td>122-42-9</td><td>Pesticide</td></tr>
 <tr><td>Propoxur</td><td>114-26-1</td><td>Pesticide</td></tr>
-<tr><td>Quintozene</td><td>82-68-8</td><td>Pesticide</td></tr>
+<tr><td>Quintozen</td><td>82-68-8</td><td>Pesticide</td></tr>
 <tr><td>Resmethrin</td><td>10453-86-8</td><td>Pesticide</td></tr>
-<tr><td>Rotenone</td><td>83-79-4</td><td>Pesticide</td></tr>
+<tr><td>Rotenon</td><td>83-79-4</td><td>Pesticide</td></tr>
 <tr><td>Siduron</td><td>1982-49-6</td><td>Pesticide</td></tr>
-<tr><td>Simazine</td><td>122-34-9</td><td>Pesticide</td></tr>
-<tr><td>Strobane</td><td>8001-50-1</td><td>Pesticide</td></tr>
+<tr><td>Simazin</td><td>122-34-9</td><td>Pesticide</td></tr>
+<tr><td>Stroban</td><td>8001-50-1</td><td>Pesticide</td></tr>
+<tr><td>Teeröle</td><td>8001-58-9, 61789-28-4, 84650-04-4, 90640-84-9, 65996-91-0, 90640-80-5, 65996-85-2, 8021-39-4, 122384-78-5</td><td>Industrial chemical</td></tr>
 <tr><td>Telodrin</td><td>297-78-9</td><td>Pesticide</td></tr>
 <tr><td>Temephos</td><td>3383-96-8</td><td>Pesticide</td></tr>
 <tr><td>Terbacil</td><td>5902-51-2</td><td>Pesticide</td></tr>
-<tr><td>Terbufos</td><td>13071-79-9</td><td>Pesticide</td></tr>
+<tr><td>Terbufos #</td><td>13071-79-9</td><td>Pesticide</td></tr>
 <tr><td>Terbutryn</td><td>886-50-0</td><td>Pesticide</td></tr>
-<tr><td>Tetrabromodiphenylether C<sub>12</sub>H<sub>6</sub>Br<sub>4</sub>O #</td><td>40088-47-9</td><td>Industrial chemical</td></tr>
+<tr><td>Tetrabromdiphenylether C<sub>12</sub>H<sub>6</sub>Br<sub>4</sub>O #</td><td>40088-47-9</td><td>Industrial chemical</td></tr>
+<tr><td>Tetrachlorkohlenstoff</td><td>56-23-5</td><td>Industrial chemical</td></tr>
 <tr><td>Tetrachlorophenol and its salts as well as tetrachlorophenoxy compounds</td><td></td><td></td></tr>
 <tr><td>Tetrachlorvinphos</td><td>22248-79-9</td><td>Pesticide</td></tr>
 <tr><td>Tetradifon</td><td>116-29-0</td><td>Pesticide</td></tr>
 <tr><td>Tetramethrin</td><td>7696-12-0</td><td>Pesticide</td></tr>
-<tr><td>Thiocyclam hydrogen oxalate</td><td>31895-22-4</td><td>Pesticide</td></tr>
+<tr><td>Thiocyclamhydrogenoxalat</td><td>31895-22-4</td><td>Pesticide</td></tr>
 <tr><td>Thiodicarb</td><td>59669-26-0</td><td>Pesticide</td></tr>
 <tr><td>Thiometon</td><td>640-15-3</td><td>Pesticide</td></tr>
 <tr><td>Tolylfluanid</td><td>731-27-1</td><td>Pesticide</td></tr>
-<tr><td>Toxaphene (Camphechlor) #</td><td>8001-35-2</td><td>Pesticide</td></tr>
+<tr><td>Toxaphen (Camphechlor) #</td><td>8001-35-2</td><td>Pesticide</td></tr>
 <tr><td>Triadimefon</td><td>43121-43-3</td><td>Pesticide</td></tr>
 <tr><td>Triasulfuron</td><td>82097-50-5</td><td>Pesticide</td></tr>
 <tr><td>Trichlorfon #</td><td>52-68-6</td><td>Pesticide</td></tr>
 <tr><td>Tridemorph</td><td>24602-86-6</td><td>Pesticide</td></tr>
 <tr><td>Triflumuron</td><td>64628-44-0</td><td>Pesticide</td></tr>
 <tr><td>Trifluralin</td><td>1582-09-8</td><td>Pesticide</td></tr>
-<tr><td>Triorganostannic compounds, including all tributyltin compounds #</td><td>56-35-9 and others</td><td></td></tr>
-<tr><td>Tris(2,3-dibromopropyl) phosphate #</td><td>126-72-7</td><td>Industrial chemical</td></tr>
-<tr><td>Tris(2-chloroethyl) phosphate (TCEP)</td><td>115-96-8</td><td>Industrial chemical</td></tr>
-<tr><td>Tris-aziridinyl-phosphinoxide</td><td>545-55-1</td><td>Industrial chemical</td></tr>
+<tr><td>Triorganostannic compounds, including all tributyltin compounds #</td><td>56-35-9 and others</td><td>Pesticide</td></tr>
+<tr><td>Tris(2,3-dibrompropyl)phosphat #</td><td>126-72-7</td><td>Industrial chemical</td></tr>
+<tr><td>Tris(2-chlorethyl)-phosphat (TCEP)</td><td>115-96-8</td><td>Industrial chemical</td></tr>
+<tr><td>Tris-azidirinyl-phosphinoxid</td><td>545-55-1</td><td>Industrial chemical</td></tr>
 <tr><td>Vamidothion</td><td>2275-23-2</td><td>Pesticide</td></tr>
 <tr><td>Vinclozolin</td><td>50471-44-8</td><td>Pesticide</td></tr>
 <tr><td>Zineb</td><td>12122-67-7</td><td>Pesticide</td></tr>
@@ -559,7 +559,7 @@ Annex 2[^t-2]
 
 ## Substances and severely hazardous pesticide formulations subject to the prior informed consent procedure
 
-[^t-2]: Amended by No I of the FOEN O of 6 July 2018 ([AS 2018 2975](https://fedlex.data.admin.ch/eli/oc/2018/456)). Revised by No I of the FOEN O of 12 March 2020 ([AS 2020 1175](https://fedlex.data.admin.ch/eli/oc/2020/216)) and of 18 Sept. 2023, in force since 1 Nov. 2023 ([AS 2023 539](https://fedlex.data.admin.ch/eli/oc/2023/539)).
+[^t-2]: Amended by No I of the FOEN O of 6 July 2018 ([AS 2018 2975](https://fedlex.data.admin.ch/eli/oc/2018/456)). Revised by No I of the FOEN O of 12 March 2020 ([AS 2020 1175](https://fedlex.data.admin.ch/eli/oc/2020/216)), No I of the FOEN O of 18 Sept. 2023 ([AS 2023 539](https://fedlex.data.admin.ch/eli/oc/2023/539)) and of 20 Aug. 2024, in force since 1 Oct. 2024 ([AS 2024 437](https://fedlex.data.admin.ch/eli/oc/2024/437)).
 
 (This Annex is identical to Annex III of the PIC Convention.)
 
@@ -595,6 +595,7 @@ Annex 2[^t-2]
 <tr><td>Parathion</td><td colspan="2">56-38-2</td><td colspan="2">Pesticide</td></tr>
 <tr><td>Pentachlorophenol and its salts and esters</td><td colspan="2">87-86-5\*</td><td colspan="2">Pesticide</td></tr>
 <tr><td>Phorate</td><td colspan="2">298-02-2</td><td colspan="2">Pesticide</td></tr>
+<tr><td colspan="2">Terbufos</td><td colspan="2">13071-79-9</td><td colspan="2">Pesticide</td></tr>
 <tr><td>Toxaphene</td><td colspan="2">8001-35-2</td><td colspan="2">Pesticide</td></tr>
 <tr><td colspan="2">Trichlorfon</td><td colspan="2">52-68-6</td><td colspan="2">Pesticide</td></tr>
 <tr><td>Dustable powder formulations (DP) containing a combination of:</td><td colspan="2"></td><td colspan="2">Severely hazardous pesticide formulation</td></tr>
