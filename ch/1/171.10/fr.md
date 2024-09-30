@@ -4,11 +4,11 @@ title: "Loi du 13 décembre 2002 sur l'Assemblée fédérale (Loi sur le Parleme
 short: LParl
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: fr
-version: 2024-09-09
+version: 2024-10-01
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20240909/fr/xml/fedlex-data-admin-ch-eli-cc-2003-510-20240909-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240909/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-2003-510-20241001-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20241001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240909/fr"
 
 (Loi sur le Parlement, LParl)
 
-du 13 décembre 2002 (État le 9 septembre 2024)
+du 13 décembre 2002 (État le 1<sup>er</sup> octobre 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -1643,7 +1643,11 @@ La forme de l’initiative parlementaire est jugée appropriée, en particulier:
 
 <sup>3</sup> Le rapport qui accompagne le projet d’acte de l’Assemblée fédérale répond aux mêmes exigences qu’un message du Conseil fédéral (art. 141).
 
+<sup>4</sup> Les art. 4 (vérifications préalables) et 5 (estimation des coûts de la réglementation) de la loi fédérale du 29 septembre 2023 sur l’allégement des coûts de la réglementation pour les entreprises[^111-2] s’appliquent par analogie.[^111-3]
+
 [^111-1]: Nouvelle teneur selon le ch. I de la LF du 21 juin 2013 (Amélioration de l’organisation et des procédures du Parlement), en vigueur depuis le 25 nov. 2013 ([RO 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6261](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6297](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^111-2]: [RS 930.31](https://fedlex.data.admin.ch/eli/cc/2024/118)
+[^111-3]: Introduit par l’art. 21 de la LF du 29 sept. 2023 sur l’allégement des coûts de la réglementation pour les entreprises, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 118](https://fedlex.data.admin.ch/eli/oc/2024/118); [FF 2023 166](https://fedlex.data.admin.ch/eli/fga/2023/166)).
 
 #### Art. 112
 

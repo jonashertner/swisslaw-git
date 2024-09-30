@@ -4,11 +4,11 @@ title: "Lescha federala dals 13 da december 2002 davart l'Assamblea federala (Le
 short: LParl
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: rm
-version: 2024-09-09
+version: 2024-10-01
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20240909/rm/xml/fedlex-data-admin-ch-eli-cc-2003-510-20240909-rm-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240909/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20241001/rm/xml/fedlex-data-admin-ch-eli-cc-2003-510-20241001-rm-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20241001/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha dal parlament, LParl)
 
-dals 13 da december 2002 (versiun dals 9 da settember 2024)
+dals 13 da december 2002 (versiun dal 1. d’october 2024)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -1646,7 +1646,11 @@ La furma da l’iniziativa parlamentara sto vegnir giuditgada sco cunvegnenta cu
 
 <sup>3</sup> Il rapport ch’explitga il sboz per in decret da l’Assamblea federala correspunda a las pretensiuns d’ina missiva dal Cussegl federal (art. 141).
 
+<sup>4</sup> Las obligaziuns da controlla tenor l’artitgel 4 e l’obligaziun da stimar ils custs da regulaziun tenor l’artitgel 5 da la Lescha dals 29 da settember 2023[^111-2] per distgargiar las interpresas valan tenor il senn.[^111-3]
+
 [^111-1]: Versiun tenor la cifra I da la LF dals 21 da zer. 2013 (meglieraziuns da l’organisaziun e da las proceduras dal parlament), en vigur dapi ils 25 da nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^111-2]: [SR 930.31](https://fedlex.data.admin.ch/eli/cc/2024/118)
+[^111-3]: Integrà tras l’art. 21 da la Lescha dals 29 da sett. 2023 per distgargiar las interpresas, en vigur dapi il 1. d’oct. 2024 ([AS 2024 118](https://fedlex.data.admin.ch/eli/oc/2024/118); [BBl 2023 166](https://fedlex.data.admin.ch/eli/fga/2023/166)).
 
 #### Art. 112
 

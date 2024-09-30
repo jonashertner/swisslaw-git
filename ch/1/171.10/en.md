@@ -4,11 +4,11 @@ title: "Federal Act of 13 December 2002 on the Federal Assembly (Parliament Act,
 short: ParlA
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: en
-version: 2024-09-09
+version: 2024-10-01
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20240909/en/xml/fedlex-data-admin-ch-eli-cc-2003-510-20240909-en-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240909/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20241001/en/xml/fedlex-data-admin-ch-eli-cc-2003-510-20241001-en-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20241001/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Parliament Act, ParlA)
 
-of 13 December 2002 (Status as of 9 September 2024)
+of 13 December 2002 (Status as of 1 October 2024)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -1644,7 +1644,11 @@ A parliamentary initiative shall in particular be judged appropriate if:
 
 <sup>3</sup> The report explaining the committee bill to the Federal Assembly shall fulfil the requirements for a Federal Council Dispatch (Art. 141).
 
+<sup>4</sup> The obligations to conduct an assessment under Article 4 and the obligation to estimate regulatory costs under Article 5 of the Business Cost Relief Act of 29 September 2023[^111-2] apply by analogy.[^111-3]
+
 [^111-1]: Amended by No I of the FA of 21 June 2013 (Improvements in the Organisation and Procedures of Parliament), in force since 25 Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^111-2]: [SR 930.31](https://fedlex.data.admin.ch/eli/cc/2024/118)
+[^111-3]: Inserted by Art. 21 of the Business Cost Relief Act of 29 Sept. 2023, in force since 1 Oct. 2024 ([AS 2024 118](https://fedlex.data.admin.ch/eli/oc/2024/118); [BBl 2023 166](https://fedlex.data.admin.ch/eli/fga/2023/166)).
 
 #### Art. 112
 

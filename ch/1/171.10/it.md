@@ -4,11 +4,11 @@ title: "Legge federale del 13 dicembre 2002 sull'Assemblea federale (Legge sul P
 short: LParl
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: it
-version: 2024-09-09
+version: 2024-10-01
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20240909/it/xml/fedlex-data-admin-ch-eli-cc-2003-510-20240909-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240909/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20241001/it/xml/fedlex-data-admin-ch-eli-cc-2003-510-20241001-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20241001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240909/it"
 
 (Legge sul Parlamento, LParl)
 
-del 13 dicembre 2002 (Stato 9 settembre 2024)
+del 13 dicembre 2002 (Stato 1° ottobre 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -1645,7 +1645,11 @@ L’iter di un’iniziativa parlamentare è considerato appropriato segnatamente
 
 <sup>3</sup> Il rapporto che commenta il progetto di atto legislativo deve corrispondere alle esigenze poste ai messaggi del Consiglio federale (art. 141).
 
+<sup>4</sup> Gli articoli 4 (obblighi di verifica) e 5 (stima dei costi della regolamentazione) della legge del 29 settembre 2023[^111-2] sullo sgravio delle imprese si applicano per analogia.[^111-3]
+
 [^111-1]: Nuovo testo giusta il n. I della LF del 21 giu. 2013 (Miglioramento dell’organizzazione e delle procedure del Parlamento), in vigore dal 25 nov. 2013 ([RU 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [FF 2011 6049](https://fedlex.data.admin.ch/eli/fga/2011/1081)[6085](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^111-2]: [RS 930.31](https://fedlex.data.admin.ch/eli/cc/2024/118)
+[^111-3]: Introdotto dall’art. 21 della LF del 29 set. 2023 sullo sgravio delle imprese dai costi della regolamentazione, in vigore dal 1° ott. 2024 ([RU 2024 118](https://fedlex.data.admin.ch/eli/oc/2024/118); [FF 2023 166](https://fedlex.data.admin.ch/eli/fga/2023/166)).
 
 #### Art. 112
 

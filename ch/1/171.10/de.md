@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 13. Dezember 2002 über die Bundesversammlung (Parlamen
 short: ParlG
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/510"
 language: de
-version: 2024-09-09
+version: 2024-10-01
 adopted: 2002-12-13
 in_force: 2003-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20240909/de/xml/fedlex-data-admin-ch-eli-cc-2003-510-20240909-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240909/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/510/20241001/de/xml/fedlex-data-admin-ch-eli-cc-2003-510-20241001-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20241001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2003/510/20240909/de"
 
 (Parlamentsgesetz, ParlG)
 
-vom 13. Dezember 2002 (Stand am 9. September 2024)
+vom 13. Dezember 2002 (Stand am 1. Oktober 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -1642,7 +1642,11 @@ Als zweckmässig ist der Weg der parlamentarischen Initiative insbesondere dann 
 
 <sup>3</sup> Der Bericht, der den Kommissionsentwurf für einen Erlass der Bundesversammlung erläutert, entspricht den Anforderungen an eine Botschaft des Bundesrates (Art. 141).
 
+<sup>4</sup> Die Prüfpflichten nach Artikel 4 und die Pflicht zur Regulierungskostenschätzung nach Artikel 5 des Unternehmensentlastungsgesetzes vom 29. September 2023[^111-2] gelten sinngemäss.[^111-3]
+
 [^111-1]: Fassung gemäss Ziff. I des BG vom 21. Juni 2013 (Verbesserungen der Organisation und der Verfahren des Parlamentes), in Kraft seit 25. Nov. 2013 ([AS 2013 3687](https://fedlex.data.admin.ch/eli/oc/2013/689); [BBl 2011 6793](https://fedlex.data.admin.ch/eli/fga/2011/1081), [6829](https://fedlex.data.admin.ch/eli/fga/2011/1084)).
+[^111-2]: [SR 930.31](https://fedlex.data.admin.ch/eli/cc/2024/118)
+[^111-3]: Eingefügt durch Art. 21 des Unternehmensentlastungsgesetzes vom 29. Sept. 2023, in Kraft seit 1. Okt. 2024 ([AS 2024 118](https://fedlex.data.admin.ch/eli/oc/2024/118); [BBl 2023 166](https://fedlex.data.admin.ch/eli/fga/2023/166)).
 
 #### Art. 112
 
