@@ -3,10 +3,10 @@ canton: ZH
 number: "215.111"
 title: Verordnung des Obergerichts über die Entschädigung der Mitglieder der Anwaltsprüfungskommission
 language: de
-nachtrag: "55"
-valid_until: 2024-10-01
+version: "2024-10-01"
+nachtrag: "126"
 adopted: 2006-06-21
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-215_111-2006_06_21-2007_01_01-055.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-215_111-2006_06_21-2007_01_01-126.html"
 text: pdf
 ---
 
@@ -31,11 +31,11 @@ verordnet:
 
 Für ihre Tätigkeit erhalten die Präsidentin oder der Präsident, die Mitglieder und die Ersatzmitglieder der Prüfungskommission folgende Entschädigungen:
 
-- a. Für die Leitung einer schriftlichen Prüfung mit einem oder zwei Bewerberinnen oder Bewerbern: 1½ Taggelder entsprechend den Taggeldern der Ersatzleute des Obergerichts.
+a.[^1-1] Für die Leitung einer schriftlichen Prüfung mit einem oder zwei Bewerberinnen oder Bewerbern: drei Taggelder entsprechend den Taggeldern der Ersatzleute des Obergerichts.
 
-Bei gleichzeitiger Prüfung von drei oder vier Bewerberinnen oder Bewerbern werden dem prüfenden Mitglied zwei Taggelder ausgerichtet.
+Bei gleichzeitiger Prüfung von drei oder vier Bewerberinnen oder Bewerbern werden dem prüfenden Mitglied vier Taggelder ausgerichtet.
 
-Bei gleichzeitiger Prüfung von fünf bis acht Bewerberinnen oder Bewerbern wird je ein zusätzliches halbes Taggeld ausgerichtet. Werden gleichzeitig mehr als acht Bewerberinnen oder Bewerber geprüft, so wird für jede weitere Prüfung ein Viertel eines Taggeldes ausgerichtet.
+Bei gleichzeitiger Prüfung von mehr als vier Bewerberinnen oder Bewerbern wird zusätzlich je weitere Prüfung ein halbes Taggeld ausgerichtet.
 
 - b. Für die Mitwirkung bei der Beurteilung schriftlicher Prüfungen: ein Viertel des Taggeldes bei einem oder zwei und ein halbes Taggeld bei drei oder vier Bewerberinnen oder Bewerbern.
 
@@ -43,15 +43,17 @@ Bei gleichzeitiger Prüfung von fünf oder mehr Bewerberinnen oder Bewerbern wir
 
 Für eine mündliche Beratung nach nicht erreichter Einstimmigkeit auf dem Zirkulationsweg wird ein halbes Taggeld ausgerichtet, wenn ausschliesslich dazu eingeladen werden musste.
 
-- c. Für die Mitwirkung an einer mündlichen Prüfung: ein Taggeld, bei Prüfung in zwei Fächern, ausgenommen die Kombination Straf- und Strafprozessrecht, 1¼ Taggelder. Wird das Anwaltsrecht zusammen mit einer Fächerkombination geprüft, die zum Bezug von 1¼ Taggeldern berechtigt, wird kein weitergehendes Taggeld ausgerichtet.
+c.[^1-1] Für die Mitwirkung an einer mündlichen Prüfung: eineinhalb Taggelder.
 
-**1**
-
-- 1\. 1. 07 - 55 Mitglieder, die an einer Prüfungssitzung teilnehmen, jedoch nicht selbst zu prüfen haben, erhalten die Hälfte des Taggeldes.
+Mitglieder, die an einer Prüfungssitzung teilnehmen, jedoch nicht selbst zu prüfen haben, erhalten die Hälfte des Taggeldes.
 
 Dauert die Prüfung länger als vier Stunden, wird für eine Verlängerung bis zu einer halben Stunde ein Viertel des Taggeldes zusätzlich bezahlt, bei Verlängerung von mehr als einer halben Stunde ein halbes Taggeld.
 
-- d. Die Präsidentin oder der Präsident der Prüfungskommission für die Geschäftsleitung und die weiteren Kompetenzgeschäfte: die Hälfte der einer Vizepräsidentin oder einem Vizepräsidenten des Obergerichts zustehenden Besoldungszulage und die Taggelder gemäss lit. a–c.
+**1**
+
+1.10. 24 - 126 d. Die Präsidentin oder der Präsident der Prüfungskommission für die Geschäftsleitung und die weiteren Kompetenzgeschäfte: die Hälfte der einer Vizepräsidentin oder einem Vizepräsidenten des Obergerichts zustehenden Besoldungszulage und die Taggelder gemäss lit. a–c.
+
+[^1-1]: Fassung gemäss B vom 3. Juli 2024 (OS 79, 308; ABl 2024-07-12). In Kraft seit 1. Oktober 2024.
 
 #### § 2
 
@@ -66,9 +68,9 @@ Die Obergerichtspräsidentin oder der Obergerichtspräsident kann für andere gr
 
 **Taggeldansatz**
 
-<sup>1</sup> Das Taggeld wird entsprechend Erfahrungsstufe 1 der Lohnklasse 29 gemäss Anhang 2 der Vollzugsverordnung zum Personalgesetz[^2-1] festgesetzt. Es beträgt für eine ganztägige Beanspruchung[^2-2]/260 des Jahreslohnes.
+<sup>1</sup> Das Taggeld wird entsprechend Erfahrungsstufe 1 der Lohnklasse 29 gemäss Anhang 2 der Vollzugsverordnung zum Personalgesetz[^2-1] festgesetzt. Es beträgt für eine ganztägige Beanspruchung[^2-2]/<sup>260</sup> des Jahreslohnes.
 
-<sup>2</sup> Vollamtliche Mitglieder der zürcherischen Gerichte erhalten für die Teilnahme an mündlichen Prüfungen oder Sitzungen, die während der ordentlichen Arbeitszeit von Montag bis Freitag stattfinden, ein reduziertes Taggeld. Es beträgt für eine ganztägige Beanspruchung[^3-1]/360 des Jahreslohnes gemäss § 3 Abs. 1.
+<sup>2</sup> Vollamtliche Mitglieder der zürcherischen Gerichte erhalten für die Teilnahme an mündlichen Prüfungen oder Sitzungen, die während der ordentlichen Arbeitszeit von Montag bis Freitag stattfinden, ein reduziertes Taggeld. Es beträgt für eine ganztägige Beanspruchung[^3-1]/<sup>360</sup> des Jahreslohnes gemäss § 3 Abs. 1.
 
 [^3-1]: OS 61, 347.
 
