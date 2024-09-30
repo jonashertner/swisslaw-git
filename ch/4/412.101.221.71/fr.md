@@ -3,20 +3,21 @@ sr: "412.101.221.71"
 title: Ordonnance du SEFRI du 5 septembre 2011 sur la formation professionnelle initiale de mécanicienne en motocycles de petite cylindrée et cycles/mécanicien en motocycles de petite cylindrée et cycles avec certificat fédéral de capacité (CFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/731"
 language: fr
-version: 2024-04-01
+version: 2024-10-01
 adopted: 2011-09-05
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/731/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2011-731-20240401-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/731/20240401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/731/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-2011-731-20241001-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/731/20241001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale de mécanicienne en motocycles de petite cylindrée et cycles/ mécanicien en motocycles de petite cylindrée et cycles avec certificat fédéral de capacité (CFC)\*
 
-du 5 septembre 2011 (État le 1<sup>er</sup> avril 2024)[^t-1]
+du 5 septembre 2011 (État le 1<sup>er</sup> octobre 2024)[^t-1][^t-2]
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
+[^t-2]: Abrogée par le ch. I de l’O du SEFRI du 13 août 2024 ([RO 2024 430](https://fedlex.data.admin.ch/eli/oc/2024/430)). Voir toutefois les disp. trans. à la fin du texte.
 
 <table>
 <tr><td>46106</td><td>Mécanicienne en motocycles de petite cylindrée et cycles CFC/ Mécanicien en motocycles de petite cylindrée et cycles CFC Kleinmotorrad- und Fahrradmechanikerin EFZ/ Kleinmotorrad- und Fahrradmechaniker EFZ Meccanica di motoleggere e biciclette AFC/ Meccanico di motoleggere e biciclette AFC</td></tr>
@@ -454,3 +455,13 @@ Sont abrogés:
 <sup>1</sup> La présente ordonnance entre en vigueur le 1<sup>er</sup> janvier 2012.
 
 <sup>2</sup> Les dispositions relatives à la procédure de qualification, au certificat et au titre (art. 16 à 22) entrent en vigueur le 1<sup>er</sup> janvier 2015.
+
+## Dispositions transitoires relatives à l’abrogation du 13 août 2024
+
+[^u1-1]
+
+[^u1-1]: Introduites par le ch. II de l’O du SEFRI du 13 août 2024, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 430](https://fedlex.data.admin.ch/eli/oc/2024/430)).
+
+<sup>1</sup> Les personnes qui ont commencé leur formation de mécanicien en motocycles de petite cylindrée et cycles CFC avant le 1<sup>er</sup> octobre 2024 l’achèvent selon l’ancien droit, pour autant qu’elles l’achèvent avant le 31 décembre 2029.
+
+<sup>2</sup> La procédure de qualification peut être répétée selon l’ancien droit jusqu’au 31 décembre 2029.

@@ -3,18 +3,20 @@ sr: "412.101.221.71"
 title: Verordnung des SBFI vom 5. September 2011 über die berufliche Grundbildung Kleinmotorrad- und Fahrradmechanikerin/Kleinmotorrad- und Fahrradmechaniker mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/731"
 language: de
-version: 2024-04-01
+version: 2024-10-01
 adopted: 2011-09-05
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/731/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2011-731-20240401-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/731/20240401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/731/20241001/de/xml/fedlex-data-admin-ch-eli-cc-2011-731-20241001-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/731/20241001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Kleinmotorrad- und Fahrradmechanikerin/ Kleinmotorrad- und Fahrradmechaniker mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 5. September 2011 (Stand am 1. April 2024)
+vom 5. September 2011 (Stand am 1. Oktober 2024)[^t-1]
+
+[^t-1]: Aufgehoben durch Ziff. I der V des SBFI vom 13. Aug. 2024 ([AS 2024 430](https://fedlex.data.admin.ch/eli/oc/2024/430)). Siehe jedoch die UeB am Schluss des Textes.
 
 <table>
 <tr><td>46106</td><td>Kleinmotorrad- und Fahrradmechanikerin EFZ/ Kleinmotorrad- und Fahrradmechaniker EFZ Mécanicienne en motocycles de petite cylindrée et cycles CFC/ Mécanicien en motocycles de petite cylindrée et cycles CFC Meccanica di motoleggere e biciclette AFC/ Meccanico di motoleggere e biciclette AFC</td></tr>
@@ -452,3 +454,13 @@ Es werden aufgehoben:
 <sup>1</sup> Diese Verordnung tritt am 1. Januar 2012 in Kraft.
 
 <sup>2</sup> Die Bestimmungen über Qualifikationsverfahren, Ausweise und Titel (Art. 16–22) treten am 1. Januar 2015 in Kraft.
+
+## Übergangsbestimmungen zur Aufhebung vom 13. August 2024
+
+[^u1-1]
+
+[^u1-1]: Eingefügt durch Ziff. II der V des SBFI vom 13. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 430](https://fedlex.data.admin.ch/eli/oc/2024/430)).
+
+<sup>1</sup> Lernende, die ihre Ausbildung als Kleinmotorrad- und Fahrradmechanikerin/Kleinmotorrad- und Fahrradmechaniker mit eidgenössischem Fähigkeitszeugnis (EFZ) vor dem 1. Oktober 2024 begonnen haben, schliessen sie nach bisherigem Recht ab, sofern der Abschluss bis zum 31. Dezember 2029 erfolgt.
+
+<sup>2</sup> Das Qualifikationsverfahren kann bis zum 31. Dezember 2029 nach bisherigem Recht wiederholt werden.

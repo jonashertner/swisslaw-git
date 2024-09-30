@@ -3,18 +3,20 @@ sr: "412.101.221.71"
 title: Ordinanza della SEFRI del 5 settembre 2011 sulla formazione professionale di base Meccanica di motoleggere e biciclette/Meccanico di motoleggere e biciclette con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/731"
 language: it
-version: 2024-04-01
+version: 2024-10-01
 adopted: 2011-09-05
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/731/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2011-731-20240401-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/731/20240401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/731/20241001/it/xml/fedlex-data-admin-ch-eli-cc-2011-731-20241001-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/731/20241001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Meccanica di motoleggere e biciclette/ Meccanico di motoleggere e biciclette con attestato federale di capacità (AFC)
 
-del 5 settembre 2011 (Stato 1° aprile 2024)
+del 5 settembre 2011 (Stato 1° ottobre 2024)[^t-1]
+
+[^t-1]: Abrogata dal n. I dell’O della SEFRI del 13 ago. 2024 ([RU 2024 430](https://fedlex.data.admin.ch/eli/oc/2024/430)). Vedi anche le dips. trans. alla fine del testo.
 
 <table>
 <tr><td>46106</td><td>Meccanica di motoleggere e biciclette AFC/ Meccanico di motoleggere e biciclette AFC Kleinmotorrad- und Fahrradmechanikerin EFZ/ Kleinmotorrad- und Fahrradmechaniker EFZ Mécanicienne en motocycles de petite cylindrée et cycles CFC/ Mécanicien en motocycles de petite cylindrée et cycles CFC</td></tr>
@@ -452,3 +454,13 @@ Sono abrogati:
 <sup>1</sup> La presente ordinanza entra in vigore il 1° gennaio 2012.
 
 <sup>2</sup> Le disposizioni concernenti la procedura di qualificazione, le attestazioni e il titolo (art. 16–22) entrano in vigore il 1° gennaio 2015.
+
+## Disposizioni transitorie dell’abrogazione del 13 agosto 2024
+
+[^u1-1]
+
+[^u1-1]: Introdotte dal n. II dell’O del 13 ago. 2024, in vigore dal 1° ott. 2024 ([RU 2024 430](https://fedlex.data.admin.ch/eli/oc/2024/430)).
+
+<sup>1</sup> Le persone che hanno iniziato la formazione di meccanico di motoleggere e biciclette con attestato federale di capacità (AFC) prima del 1° ottobre 2024 la portano a termine in base al diritto anteriore, al massimo però entro il 31 dicembre 2029.
+
+<sup>2</sup> La procedura di qualificazione può essere ripetuta entro il 31 dicembre 2029 in base al diritto anteriore.
