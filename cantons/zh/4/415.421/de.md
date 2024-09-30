@@ -4,10 +4,10 @@ number: "415.421"
 title: Organisationsreglement der Wirtschaftswissenschaftlichen Fakultät der Universität Zürich (OrgR WWF)
 short: OrgR WWF
 language: de
-nachtrag: "112"
-valid_until: 2024-10-01
+version: "2024-10-01"
+nachtrag: "126"
 adopted: 2020-09-30
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_421-2020_09_30-2021_04_01-112.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-415_421-2020_09_30-2021_04_01-126.html"
 text: pdf
 ---
 
@@ -37,13 +37,13 @@ beschliesst:
 
 - a. das Institut für Volkswirtschaftslehre,
 
-- b. das Institut für Betriebswirtschaftslehre,
-
-- c. das Institut für Banking und Finance,
+- b. das Institut für Betriebswirtschaftslehre, c.[^1-1] das Institut für Finance,
 
 - d. das Institut für Informatik.
 
 <sup>2</sup> Die Fakultät kann weitere Organisationseinheiten bilden.
+
+[^1-1]: Fassung gemäss B vom 29. Mai 2024 (OS 79, 340; ABl 2024-08-02). In Kraft seit 1. Oktober 2024. 1.10. 24 - 126 13
 
 ### 2. Abschnitt: Fakultätsorgane und Organisationseinheiten
 
@@ -61,7 +61,7 @@ beschliesst:
 
 **1**
 
-- 1\. 4. 21 - 112 § 3. <sup>1</sup> Die Fakultätsversammlung stellt Antrag zuhanden der Universitätsleitung auf:
+1.10. 24 - 126 § 3. <sup>1</sup> Die Fakultätsversammlung stellt Antrag zuhanden der Universitätsleitung auf:
 
 **Zuständigkeiten**
 
@@ -157,9 +157,7 @@ beschliesst:
 
 **3**
 
-- 1\. 4. 21 - 112
-
-- d. Aufsicht über die Institute und weiteren Organisationseinheiten der Fakultät,
+1.10. 24 - 126 d. Aufsicht über die Institute und weiteren Organisationseinheiten der Fakultät,
 
 - e. Leitung des Fakultätsvorstandes, des Fakultätsausschusses und der Fakultätsversammlung,
 
@@ -201,7 +199,7 @@ beschliesst:
 
 <sup>5</sup> Sie oder er ist zuständig für alle Angelegenheiten, die keinem anderen Organ übertragen sind.
 
-[^5-1]: LS 415.21. 1. 4. 21 - 112 13
+[^5-1]: LS 415.21.
 
 ### C. Fakultätsvorstand
 
@@ -253,11 +251,9 @@ Die Prodekaninnen und Prodekane unterstützen die Dekanin oder den Dekan in der 
 
 **5**
 
-- 1\. 4. 21 - 112 § 11. Dem Fakultätsausschuss obliegt zuhanden der Universitätsleitung
+1.10. 24 - 126 § 11. Dem Fakultätsausschuss obliegt zuhanden der Universitätsleitung a. die Stellungnahme und Antragstellung im Bereich der Forschungssemester,
 
 **Zuständigkeiten**
-
-- a. die Stellungnahme und Antragstellung im Bereich der Forschungssemester,
 
 - b. Stellungnahme in Bezug auf die Anträge der Berufungs- und Beförderungskommissionen,
 
@@ -351,7 +347,7 @@ Soweit diese Verordnung nichts anderes vorsieht, werden die Organisations- und V
 
 **7**
 
-- 1\. 4. 21 - 112
+1.10. 24 - 126
 
 <sup>3</sup> Der Studienprogrammdirektorin oder dem Studienprogrammdirektor des jeweiligen Instituts obliegen insbesondere folgende Aufgaben:
 
@@ -431,7 +427,7 @@ Stellt sich eine Prodekanin oder ein Prodekan für die Wiederwahl nicht mehr zur
 
 **9**
 
-- 1\. 4. 21 - 112 § 21. <sup>1</sup> Die Berufungskommission ist eine nichtständige Kommission.
+1.10. 24 - 126 § 21. <sup>1</sup> Die Berufungskommission ist eine nichtständige Kommission.
 
 **Berufungskommissionen**
 
@@ -521,7 +517,7 @@ Einladungen und Traktanden für die Fakultätsversammlung und den Fakultätsauss
 
 **11**
 
-- 1\. 4. 21 - 112 § 30. <sup>1</sup> Eine Wahl bedarf des absoluten Mehrs der abgegebenen Stimmen.
+1.10. 24 - 126 § 30. <sup>1</sup> Eine Wahl bedarf des absoluten Mehrs der abgegebenen Stimmen.
 
 **Wahlen**
 
