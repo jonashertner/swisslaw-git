@@ -4,13 +4,13 @@ number: "121.110"
 title: Verordnung zum Bürgerrechtsgesetz
 short: BüRV
 language: de
-version: 2021-01-01
-valid_until: 2024-09-30
-version_adopted: 2021-01-12
+version: 2024-10-01
+valid_until: 2026-06-30
+version_adopted: 2024-09-03
 adopted: 2017-12-12
 in_force: 2018-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/121.110"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5170/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6403/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +21,7 @@ Bürgerrechtsgesetz: Verordnung | Bürgerrecht
 
 (BüRV)
 
-Vom 12. Dezember 2017 (Stand 1. Januar 2021)
+Vom 12. Dezember 2017 (Stand 1. Oktober 2024)
 
 Der Regierungsrat des Kantons Basel-Stadt,
 
@@ -374,7 +374,7 @@ beschliesst:
 - b) Personen über 25 Jahre: — Fr. 850
 - c) Familien: — Fr. 950
 
-<sup>2</sup> Das Migrationsamt erhebt von Schweizer Bürgerinnen und Bürgern für die Aufnahme in das Bürgerrecht folgende Gebühren (Einzelpersonen und Familien): Fr. 300.
+<sup>2</sup> Das Migrationsamt erhebt von Schweizer Bürgerinnen und Bürgern für die Aufnahme in das Bürgerrecht folgende Gebühren (Einzelpersonen und Familien): Fr. 150.
 
 <sup>3</sup> Die Gebühren können in Ausnahmefällen bis zum doppelten Betrag erhöht oder bis zur Hälfte reduziert werden, wenn die Behandlung des Geschäfts einen erheblich über oder unter dem Durchschnitt liegenden Arbeitsaufwand erfordert.
 
