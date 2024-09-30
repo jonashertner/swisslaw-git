@@ -4,11 +4,11 @@ title: "Ordonnance du 5 juin 2015 sur la protection contre les substances et les
 short: OChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/366"
 language: fr
-version: 2024-09-01
+version: 2024-10-01
 adopted: 2015-06-05
 in_force: 2015-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240901/fr/xml/fedlex-data-admin-ch-eli-cc-2015-366-20240901-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/366/20240901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-2015-366-20241001-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/366/20241001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/366/20240901/fr"
 
 (Ordonnance sur les produits chimiques, OChim)
 
-du 5 juin 2015 (État le 1<sup>er</sup> septembre 2024)
+du 5 juin 2015 (État le 1<sup>er</sup> octobre 2024)
 
 Le Conseil fédéral suisse,
 
@@ -49,9 +49,11 @@ La présente ordonnance règle:
 
 <sup>2</sup> La présente ordonnance s’applique aux produits biocides et à leurs substances actives ainsi qu’aux produits phytosanitaires, à leurs substances actives et leurs coformulants, dans la mesure où l’ordonnance du 18 mai 2005 sur les produits biocides[^1-1] ou l’ordonnance du 12 mai 2010 sur les produits phytosanitaires[^1-2] s’y réfère.
 
+<sup>2bis</sup> La présente ordonnance s’applique aux produits du tabac et aux cigarettes électroniques au sens de l’art. 3, let. a à f, de la loi du 1<sup>er</sup> octobre 2021 sur les produits du tabac[^1-3] ainsi qu’aux produits similaires qui leur sont assimilés en vertu de l’art. 3, de l’ordonnance du 28 août 2024 sur les produits du tabac (OPTab)[^1-4] dans la mesure où l’OPTab s’y réfère.[^1-5]
+
 <sup>3</sup> La présente ordonnance s’applique aux substances et préparations radioactives pour autant qu’il ne s’agisse pas d’effets imputables à la radioactivité de ces substances et préparations.
 
-<sup>4</sup> Seuls les art. 5 à 7 et 81 s’appliquent aux cosmétiques définis à l’art. 53, al. 1, de l’ordonnance du 16 décembre 2016 sur les denrées alimentaires et les objets usuels[^1-3], destinés aux utilisateurs privés ou professionnels sous forme de produits finis, et pour autant qu’il s’agisse des intérêts de la protection de l’environnement et de la classification ou de l’évaluation des substances et préparations.[^1-4]
+<sup>4</sup> Seuls les art. 5 à 7 et 81 s’appliquent aux cosmétiques définis à l’art. 53, al. 1, de l’ordonnance du 16 décembre 2016 sur les denrées alimentaires et les objets usuels[^1-6], destinés aux utilisateurs privés ou professionnels sous forme de produits finis, et pour autant qu’il s’agisse des intérêts de la protection de l’environnement et de la classification ou de l’évaluation des substances et préparations.[^1-7]
 
 <sup>5</sup>
 
@@ -61,32 +63,35 @@ La présente ordonnance ne s’applique pas:
 - b. au transit sous surveillance douanière des substances et préparations, pour autant que celles-ci ne subissent aucun traitement ni transformation;
 - c.
 
-  aux substances et préparations se présentant sous forme de produits finis destinés aux utilisateurs privés et aux utilisateurs professionnels et appartenant aux catégories suivantes:[^1-5]
+  aux substances et préparations se présentant sous forme de produits finis destinés aux utilisateurs privés et aux utilisateurs professionnels et appartenant aux catégories suivantes:[^1-8]
 
-  - 1\.[^1-6] les denrées alimentaires au sens de l’art. 4 de la loi du 20 juin 2014 sur les denrées alimentaires (LDAI)[^1-7],
-  - 2\. les médicaments au sens de l’art. 4, al. 1, let. a, et les dispositifs médicaux au sens de l’art. 4, al. 1, let. b, de la loi du 15 décembre 2000 sur les produits thérapeutiques[^1-8],
-  - 3\. les aliments pour animaux au sens de l’art. 3, al. 1, de l’ordonnance du 26 octobre 2011 sur les aliments pour animaux[^1-9];
+  - 1\.[^1-9] les denrées alimentaires au sens de l’art. 4 de la loi du 20 juin 2014 sur les denrées alimentaires (LDAI)[^1-10],
+  - 2\. les médicaments au sens de l’art. 4, al. 1, let. a, et les dispositifs médicaux au sens de l’art. 4, al. 1, let. b, de la loi du 15 décembre 2000 sur les produits thérapeutiques[^1-11],
+  - 3\. les aliments pour animaux au sens de l’art. 3, al. 1, de l’ordonnance du 26 octobre 2011 sur les aliments pour animaux[^1-12];
 
-- d. aux armes et aux munitions au sens de l’art. 4, al. 1 et 5, de la loi du 20 juin 1997 sur les armes[^1-10];
+- d. aux armes et aux munitions au sens de l’art. 4, al. 1 et 5, de la loi du 20 juin 1997 sur les armes[^1-13];
 - e. aux substances, aux préparations et aux objets considérés comme déchets au sens de l’art. 7, al. 6, LPE.
 
-<sup>6</sup> Les art. 57, 62 et 67 s’appliquent aux substances et préparations dangereuses qui sont importées puis réexportées après que seul leur étiquetage a été modifié.[^1-11]
+<sup>6</sup> Les art. 57, 62 et 67 s’appliquent aux substances et préparations dangereuses qui sont importées puis réexportées après que seul leur étiquetage a été modifié.[^1-14]
 
-<sup>7</sup> L’ordonnance PIC du 10 novembre 2004[^1-12] s’applique en outre aux substances et aux préparations dangereuses qui sont exportées.[^1-13]
+<sup>7</sup> L’ordonnance PIC du 10 novembre 2004[^1-15] s’applique en outre aux substances et aux préparations dangereuses qui sont exportées.[^1-16]
 
 [^1-1]: [RS 813.12](https://fedlex.data.admin.ch/eli/cc/2005/468)
 [^1-2]: [RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
-[^1-3]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^1-4]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
-[^1-5]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
-[^1-6]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
-[^1-7]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
-[^1-8]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^1-9]: [RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
-[^1-10]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^1-11]: Nouvelle teneur selon le ch. III 1 de l’O du 22 mars 2017, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 2593](https://fedlex.data.admin.ch/eli/oc/2017/247)).
-[^1-12]: [RS 814.82](https://fedlex.data.admin.ch/eli/cc/2004/725)
-[^1-13]: Introduit par le ch. III 1 de l’O du 22 mars 2017, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 2593](https://fedlex.data.admin.ch/eli/oc/2017/247)).
+[^1-3]: [RS 818.32](https://fedlex.data.admin.ch/eli/cc/2024/457)
+[^1-4]: [RS 818.321](https://fedlex.data.admin.ch/eli/cc/2024/491)
+[^1-5]: Introduit par l’annexe 4 ch. II 5 de l’O du 28 août 2024 sur les produits du tabac, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
+[^1-6]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^1-7]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
+[^1-8]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
+[^1-9]: Nouvelle teneur selon le ch. I de l’O du 31 janv. 2018, en vigueur depuis le 1<sup>er</sup> mars 2018 ([RO 2018 801](https://fedlex.data.admin.ch/eli/oc/2018/102)).
+[^1-10]: [RS 817.0](https://fedlex.data.admin.ch/eli/cc/2017/62)
+[^1-11]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^1-12]: [RS 916.307](https://fedlex.data.admin.ch/eli/cc/2011/772)
+[^1-13]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
+[^1-14]: Nouvelle teneur selon le ch. III 1 de l’O du 22 mars 2017, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 2593](https://fedlex.data.admin.ch/eli/oc/2017/247)).
+[^1-15]: [RS 814.82](https://fedlex.data.admin.ch/eli/cc/2004/725)
+[^1-16]: Introduit par le ch. III 1 de l’O du 22 mars 2017, en vigueur depuis le 1<sup>er</sup> mai 2017 ([RO 2017 2593](https://fedlex.data.admin.ch/eli/oc/2017/247)).
 
 #### Art. 2
 
@@ -1431,11 +1436,13 @@ L’organe de réception des notifications tient un registre des substances et d
 - d. l’ordonnance du 12 mai 2010 sur les produits phytosanitaires[^72-3];
 - e.[^72-4] l’ordonnance du 1<sup>er</sup> novembre 2023 sur les engrais[^72-5].
 
+<sup>1bis</sup> Les données concernant les préparations, recueillies en vertu de l’art. 27, al. 1, OPTab sont également inclues dans le registre des produits.[^72-6]
+
 <sup>2</sup>
 
 Le registre est établi en fonction des données:
 
-- a. qui ont été recueillies ou traitées par une autorité suisse dans le cadre d’une des ordonnances visées à l’al. 1;
+- a.[^72-7] qui ont été recueillies ou traitées par une autorité suisse dans le cadre d’une des ordonnances visées à l’al. 1 ou 1<sup>bis</sup>;
 - b. qui sont transmises par des autorités étrangères ou par des organismes internationaux.
 
 [^72-1]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
@@ -1443,6 +1450,8 @@ Le registre est établi en fonction des données:
 [^72-3]: [RS 916.161](https://fedlex.data.admin.ch/eli/cc/2010/340)
 [^72-4]: Introduite par l’annexe 5 ch. II 1 de l’O du 1<sup>er</sup> nov. 2023 sur les engrais, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 711](https://fedlex.data.admin.ch/eli/oc/2023/711)).
 [^72-5]: [RS 916.171](https://fedlex.data.admin.ch/eli/cc/2023/711)
+[^72-6]: Introduit par l’annexe 4 ch. II 5 de l’O du 28 août 2024 sur les produits du tabac, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
+[^72-7]: Nouvelle teneur selon l’annexe 4 ch. II 5 de l’O du 28 août 2024 sur les produits du tabac, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
 
 #### Art. 73
 
@@ -2291,10 +2300,10 @@ Annexe 5[^t-5]
 ### 1.1 Groupe 1
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240901/fr/xml/image/image1.png) en relation avec</td><td>H300[^annex5-lvlu1-lvl1-lvl11-1]: Mortel en cas d’ingestion, ou H310: Mortel par contact cutané, ou H330: Mortel par inhalation, ou combinaison des mentions de dangers ci-dessus.</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240901/fr/xml/image/image2.png)</td><td></td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20241001/fr/xml/image/image1.png) en relation avec</td><td>H300[^annex5-lvlu1-lvl1-lvl11-1]: Mortel en cas d’ingestion, ou H310: Mortel par contact cutané, ou H330: Mortel par inhalation, ou combinaison des mentions de dangers ci-dessus.</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20241001/fr/xml/image/image2.png)</td><td></td></tr>
 <tr><td>c.</td><td colspan="2">Substances et préparations selon l’annexe 1.10 ORRChim[^annex5-lvlu1-lvl1-lvl11-2] étiquetées avec:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240901/fr/xml/image/image3.png) en relation avec</td><td>H340: Peut induire des anomalies génétiques, ou H350: Peut provoquer le cancer (*par inhalation*), ou H360: Peut nuire à la fertilité ou au fœtus</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20241001/fr/xml/image/image3.png) en relation avec</td><td>H340: Peut induire des anomalies génétiques, ou H350: Peut provoquer le cancer (*par inhalation*), ou H360: Peut nuire à la fertilité ou au fœtus</td></tr>
 </table>
 
 [^annex5-lvlu1-lvl1-lvl11-1]: Le numéro de la phrase H n’a pas besoin de figurer sur l’étiquette.
@@ -2303,12 +2312,12 @@ Annexe 5[^t-5]
 ### 1.2 Groupe 2
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240901/fr/xml/image/image1.png) en relation avec</td><td>H301: Toxique en cas d’ingestion, ou H311: Toxique par contact cutané, ou H331: Toxique par inhalation, ou combinaison des mentions de dangers ci-dessus.</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240901/fr/xml/image/image3.png) en relation avec</td><td>H370: Risque avéré d’effets graves pour les organes, ou H372: Risque avéré d’effets graves pour les organes à la suite d’expositions répétées ou d’une exposition prolongée.</td></tr>
-<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240901/fr/xml/image/image4.png) en relation avec</td><td>H314: Provoque de graves brûlures de la peau et de graves lésions des yeux. (Les préparations classées comme «Skin Corr. 1C» et étiquetées avec la mention H314 exclusivement en raison de leur teneur en acide lactique [n<sup>o</sup> CAS 79-33-4] ne font pas partie du groupe 2.)</td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20241001/fr/xml/image/image1.png) en relation avec</td><td>H301: Toxique en cas d’ingestion, ou H311: Toxique par contact cutané, ou H331: Toxique par inhalation, ou combinaison des mentions de dangers ci-dessus.</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20241001/fr/xml/image/image3.png) en relation avec</td><td>H370: Risque avéré d’effets graves pour les organes, ou H372: Risque avéré d’effets graves pour les organes à la suite d’expositions répétées ou d’une exposition prolongée.</td></tr>
+<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20241001/fr/xml/image/image4.png) en relation avec</td><td>H314: Provoque de graves brûlures de la peau et de graves lésions des yeux. (Les préparations classées comme «Skin Corr. 1C» et étiquetées avec la mention H314 exclusivement en raison de leur teneur en acide lactique [n<sup>o</sup> CAS 79-33-4] ne font pas partie du groupe 2.)</td></tr>
 <tr><td>d.</td><td colspan="2">Récipient de plus d’un kilo étiqueté avec:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240901/fr/xml/image/image5.png) en relation avec</td><td>H410: Très toxique pour les organismes aquatiques, entraîne des effets néfastes à long terme (n’appartiennent au groupe 2 que les substances et préparations qui, en conséquence de leur classification «Aquatic Chronic 1», doivent être étiquetées avec H410.)</td></tr>
-<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240901/fr/xml/image/image6.png) en relation avec</td><td>H250: S’enflamme spontanément au contact de l’air, ou H260: Dégage au contact de l’eau des gaz inflammables qui peuvent s’enflammer spontanément, ou H261: Dégage au contact de l’eau des gaz inflammables.</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20241001/fr/xml/image/image5.png) en relation avec</td><td>H410: Très toxique pour les organismes aquatiques, entraîne des effets néfastes à long terme (n’appartiennent au groupe 2 que les substances et préparations qui, en conséquence de leur classification «Aquatic Chronic 1», doivent être étiquetées avec H410.)</td></tr>
+<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20241001/fr/xml/image/image6.png) en relation avec</td><td>H250: S’enflamme spontanément au contact de l’air, ou H260: Dégage au contact de l’eau des gaz inflammables qui peuvent s’enflammer spontanément, ou H261: Dégage au contact de l’eau des gaz inflammables.</td></tr>
 <tr><td>f.</td><td></td><td>H230: Peut exploser même en l’absence d’air, ou H231: Peut exploser même en l’absence d’air à une pression et/ou température élevée(s) ou EUH019: Peut former des peroxydes explosifs, ou EUH029: Au contact de l’eau, dégage des gaz toxiques, ou EUH031: Au contact d’un acide, dégage un gaz toxique, ou EUH032: Au contact d’un acide, dégage un gaz très toxique.</td></tr>
 </table>
 
@@ -2317,10 +2326,10 @@ Annexe 5[^t-5]
 ### 2.1 Groupe 1
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240901/fr/xml/image/image7.png) en relation avec</td><td>R28[^annex5-lvlu1-lvl2-lvl21-1]: Très toxique en cas d’ingestion, ou R27: Très toxique par contact avec la peau, ou R26: Très toxique par inhalation, ou combinaison des phrases R ci-dessus.</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240901/fr/xml/image/image8.png)</td><td></td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20241001/fr/xml/image/image7.png) en relation avec</td><td>R28[^annex5-lvlu1-lvl2-lvl21-1]: Très toxique en cas d’ingestion, ou R27: Très toxique par contact avec la peau, ou R26: Très toxique par inhalation, ou combinaison des phrases R ci-dessus.</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20241001/fr/xml/image/image8.png)</td><td></td></tr>
 <tr><td>c.</td><td colspan="2">Substances et préparations selon l’annexe 1.10 ORRChim étiquetées avec:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240901/fr/xml/image/image7.png) en relation avec</td><td>R46: Peut provoquer des altérations génétiques héréditaires, ou R45: Peut provoquer le cancer, ou R49: Peut provoquer le cancer par inhalation, ou R60: Peut altérer la fertilité, ou R61: Risque pendant la grossesse d’effets néfastes pour l’enfant.</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20241001/fr/xml/image/image7.png) en relation avec</td><td>R46: Peut provoquer des altérations génétiques héréditaires, ou R45: Peut provoquer le cancer, ou R49: Peut provoquer le cancer par inhalation, ou R60: Peut altérer la fertilité, ou R61: Risque pendant la grossesse d’effets néfastes pour l’enfant.</td></tr>
 </table>
 
 [^annex5-lvlu1-lvl2-lvl21-1]: Le numéro de la phrase R n’a pas besoin de figurer sur l’étiquette.
@@ -2328,12 +2337,12 @@ Annexe 5[^t-5]
 ### 2.2 Groupe 2
 
 <table>
-<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240901/fr/xml/image/image7.png) en relation avec</td><td>R25: Toxique en cas d’ingestion, ou R24: Toxique par contact avec la peau, ou R23: Toxique par inhalation, ou combinaison des phrases R ci-dessus.</td></tr>
-<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240901/fr/xml/image/image7.png) en relation avec</td><td>R39: Dangers d’effets irréversibles très graves, ou R48: Risques d’effets graves pour la santé en cas d’exposition prolongée.</td></tr>
-<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240901/fr/xml/image/image9.png) en relation avec</td><td>R35: Provoque de graves brûlures, ou R34: Provoque des brûlures.</td></tr>
+<tr><td>a.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20241001/fr/xml/image/image7.png) en relation avec</td><td>R25: Toxique en cas d’ingestion, ou R24: Toxique par contact avec la peau, ou R23: Toxique par inhalation, ou combinaison des phrases R ci-dessus.</td></tr>
+<tr><td>b.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20241001/fr/xml/image/image7.png) en relation avec</td><td>R39: Dangers d’effets irréversibles très graves, ou R48: Risques d’effets graves pour la santé en cas d’exposition prolongée.</td></tr>
+<tr><td>c.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20241001/fr/xml/image/image9.png) en relation avec</td><td>R35: Provoque de graves brûlures, ou R34: Provoque des brûlures.</td></tr>
 <tr><td>d.</td><td colspan="2">Récipient de plus d’un kilo étiqueté avec:</td></tr>
-<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240901/fr/xml/image/image10.png) en relation avec</td><td>R50/53: Très toxiques pour les organismes aquatiques, peut entraîner des effets néfastes à long terme pour l’environnement aquatique.</td></tr>
-<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20240901/fr/xml/image/image11.png) en relation avec</td><td>R17: Spontanément inflammable à l’air, ou R15: Au contact de l’eau, dégage des gaz extrêmement inflammables.</td></tr>
+<tr><td></td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20241001/fr/xml/image/image10.png) en relation avec</td><td>R50/53: Très toxiques pour les organismes aquatiques, peut entraîner des effets néfastes à long terme pour l’environnement aquatique.</td></tr>
+<tr><td>e.</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/366/20241001/fr/xml/image/image11.png) en relation avec</td><td>R17: Spontanément inflammable à l’air, ou R15: Au contact de l’eau, dégage des gaz extrêmement inflammables.</td></tr>
 <tr><td>f.</td><td></td><td>R6: Danger d’explosion en contact ou sans contact avec l’air, ou R19: Peut former des peroxydes explosifs, ou R29: Au contact de l’eau, dégage des gaz toxiques, ou R31: Au contact d’un acide, dégage un gaz toxique, ou R32: Au contact d’un acide, dégage un gaz très toxique.</td></tr>
 </table>
 
