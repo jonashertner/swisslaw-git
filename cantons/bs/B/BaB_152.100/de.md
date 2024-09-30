@@ -3,13 +3,13 @@ canton: BS
 number: BaB 152.100
 title: Geschäftsordnung des Bürgergemeinderates der Stadt Basel
 language: de
-version: 2023-09-01
-valid_until: 2024-09-30
-version_adopted: 2023-06-20
+version: 2024-10-01
+valid_until: 2025-12-31
+version_adopted: 2024-06-18
 adopted: 1986-09-09
 in_force: 1986-11-12
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/BaB%20152.100"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5983/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6405/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +18,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5983/pdf_file"
 
 Bürgergemeinderat: Geschäftsordnung | Basel: Bürgergemeinde
 
-Vom 9. September 1986 (Stand 1. September 2023)
+Vom 9. September 1986 (Stand 1. Oktober 2024)
 
 Der Bürgergemeinderat der Stadt Basel
 
@@ -268,7 +268,7 @@ erlässt in Ausführung von § 11 der Gemeindeordnung der Bürgergemeinde der St
 
 <sup>4</sup> Aufträge, die einen Gegenstand in der Zuständigkeit des Bürgergemeinderats betreffen, können auch als Bitte um Prüfung überwiesen werden.
 
-<sup>5</sup> Der Bürgergemeinderat kann Aufträge beliebig abändern, bevor sie erheblich erklärt oder überwiesen werden.
+<sup>5</sup> …
 
 <sup>6</sup> Wird ein Auftrag erheblich erklärt oder überwiesen, legt der Bürgerrat das Geschäft oder den Bericht innert Jahresfrist der in der Sache zuständigen Kommission des Bürgergemeinderats vor. Diese stellt dem Bürgergemeinderat Antrag.
 
