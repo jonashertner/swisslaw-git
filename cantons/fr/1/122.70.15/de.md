@@ -1,24 +1,23 @@
 ---
 canton: FR
 number: "122.70.15"
-title: Verordnung über den Espace Gesundheit-Soziales
+title: Verordnung über die Beratungsstelle Espace Gesundheit-Soziales
 language: de
-version: 2019-01-01
-valid_until: 2024-09-30
-version_adopted: 2018-12-18
+version: 2024-10-01
+version_adopted: 2024-09-24
 adopted: 2018-12-18
 in_force: 2019-01-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.70.15"
-pdf: "https://bdlf.fr.ch/api/de/versions/7987/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8295/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Verordnung über den Espace Gesundheit-Soziales
+# Verordnung über die Beratungsstelle Espace Gesundheit-Soziales
 
 Espace Gesundheit-Soziales - V
 
-vom 18.12.2018 (Fassung in Kraft getreten am 01.01.2019)
+vom 18.12.2018 (Fassung in Kraft getreten am 01.10.2024)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -44,16 +43,16 @@ beschliesst:
 
 **Interventionsbereich**
 
-<sup>1</sup> Der Staat Freiburg stellt seinem Personal eine Fachberatung namens «Espace Gesundheit-Soziales» (EGS) zur Verfügung.
+<sup>1</sup> 'Der Staat Freiburg stellt seinem Personal eine Fachberatung namens «Beratungsstelle Espace Gesundheit-Soziales» (CESS) zur Verfügung.
 
-<sup>2</sup> Der EGS interveniert in folgenden Bereichen:
+<sup>2</sup> Die CESS interveniert in folgenden Bereichen:
 
 - a) Beeinträchtigungen der körperlichen oder psychischen Gesundheit;
 - b) psychosoziale Risiken am Arbeitsplatz;
 - c) finanzielle Probleme;
 - d) persönliche Fragen (schwierige Lebensumstände).
 
-<sup>3</sup> Der EGS ist auch offizieller Ansprechpartner beim Amt für Personal und Organisation (POA) für:
+<sup>3</sup> Die CESS ist auch offizielle Ansprechpartnerin beim Amt für Personal und Organisation (POA) für:
 
 - a) Konflikte, Mobbing und sexuelle Belästigung;
 - b) Aktivitäten in Zusammenhang mit der beruflichen Wiedereingliederung von Personen mit gesundheitlicher Beeinträchtigung;
@@ -63,7 +62,7 @@ beschliesst:
 
 **Massnahmen**
 
-<sup>1</sup> Gemäss seinem Auftrag schlägt der EGS in seinem Interventionsbereich folgende Massnahmen vor und koordiniert sie:
+<sup>1</sup> Gemäss ihrem Auftrag schlägt die CESS in ihrem Interventionsbereich folgende Massnahmen vor und koordiniert sie:
 
 - a) Schutzmassnahmen zur Ursachenbekämpfung und Verhinderung von Problemen;
 - b) Massnahmen, um den Verlauf bei einem bestehenden Problem zu stoppen, um dessen Folgen vorzubeugen und sie zu beschränken;
@@ -75,13 +74,16 @@ beschliesst:
 
 **Zuweisung**
 
-<sup>1</sup> Der EGS ist eine Organisationseinheit des POA. Er ist bei der Auswahl und Durchführung der Dienstleistungen für Mitarbeitende mit Schwierigkeiten gegenüber seiner Hierarchie unabhängig.
+<sup>1</sup> Die CESS ist eine Organisationseinheit des POA. Sie ist bei der Auswahl und Durchführung der Dienstleistungen für Mitarbeitende mit Schwierigkeiten gegenüber ihrer Hierarchie unabhängig.
 
-<sup>2</sup> Vorbehalten bleiben die Bestimmungen der Verordnung über Mobbing, sexuelle Belästigung und zwischenmenschliche Probleme am Arbeitsplatz und des Reglements über den Sozialfonds.
+<sup>2</sup> Vorbehalten bleiben die Bestimmungen der Verordnung über Mobbing, sexuelle Belästigung und zwischenmenschliche Probleme am Arbeitsplatz[^3-1] und des Reglements über den Sozialfonds[^3-2].
 
-<sup>3</sup> Die Beraterinnen und Berater des EGS (Beraterinnen und Berater Gesundheit-Soziales) sind bei ihren Interventionen weder an die Weisungen der Anstellungsbehörden noch des POA gebunden; allfällige Spezialgesetzgebungen bleiben vorbehalten.
+<sup>3</sup> Die Beraterinnen und Berater der CESS (Beraterinnen und Berater Gesundheit-Soziales) sind bei ihren Interventionen weder an die Weisungen der Anstellungsbehörden noch des POA gebunden; allfällige Spezialgesetzgebungen bleiben vorbehalten.
 
 <sup>4</sup> Über die Umsetzung konkreter Massnahmen zur Anwendung gesetzlicher oder reglementarischer Bestimmungen über das Staatspersonal entscheidet die Anstellungsbehörde nach Stellungnahme des POA und im Einvernehmen mit der betroffenen Verwaltungseinheit.
+
+[^3-1]: SGF [122.70.14](https://bdlf.fr.ch/data/122.70.14/de)
+[^3-2]: SGF [122.73.61](https://bdlf.fr.ch/data/122.73.61/de)
 
 #### Art. 4
 
@@ -89,9 +91,9 @@ beschliesst:
 
 <sup>1</sup> Die Beraterinnen und Berater Gesundheit-Soziales stützen sich zur Ausübung ihrer Tätigkeit auf den Berufskodex der Föderation der Schweizer Psychologinnen und Psychologen und des Vereins AvenirSocial.
 
-<sup>2</sup> Die Qualität der Arbeit des EGS wird insbesondere durch Weiterbildung, Intervision und Supervision gewährleistet.
+<sup>2</sup> Die Qualität der Arbeit der CESS wird insbesondere durch Weiterbildung, Intervision und Supervision gewährleistet.
 
-<sup>3</sup> Der EGS greift grundsätzlich auf interne Ressourcen und Strukturen zurück. Bei Bedarf zieht er externe Partner hinzu oder verweist die betroffenen Personen an sie.
+<sup>3</sup> Die CESS greift grundsätzlich auf interne Ressourcen und Strukturen zurück. Bei Bedarf zieht sie externe Partner hinzu oder verweist die betroffenen Personen an sie.
 
 ## 3 Arbeitsprinzipien und Dienstleistungen
 
@@ -99,28 +101,30 @@ beschliesst:
 
 **Zielpublikum**
 
-<sup>1</sup> An den EGS können sich wenden:
+<sup>1</sup> An die CESS können sich wenden:
 
-- a) die dem Gesetz über das Staatspersonal unterstellten Mitarbeiterinnen und Mitarbeiter des Staates Freiburg, unabhängig von der Hierarchiestufe;
+- a) die dem Gesetz über das Staatspersonal[^5-1] unterstellten Mitarbeiterinnen und Mitarbeiter des Staates Freiburg, unabhängig von der Hierarchiestufe;
 - b) die Bezügerinnen und Bezüger von Taggeldern aus dem Fonds für die Lohngarantie des Staates Freiburg.
 
 <sup>2</sup> Diese Verordnung gilt sinngemäss für die Mitglieder des Kantonsgerichts und des Staatsrats, für die Oberamtspersonen, die Lernenden sowie die Praktikantinnen und Praktikanten.
 
+[^5-1]: SGF [122.70.1](https://bdlf.fr.ch/data/122.70.1/de)
+
 #### Art. 6
 
-**Inanspruchnahme des EGS**
+**Inanspruchnahme der CESS**
 
-<sup>1</sup> Alle zum Zielpublikum gehörenden Personen können sich direkt und ohne Rücksprache mit ihren Vorgesetzten an den EGS wenden.
+<sup>1</sup> Alle zum Zielpublikum gehörenden Personen können sich direkt und ohne Rücksprache mit ihren Vorgesetzten an die CESS wenden.
 
-<sup>2</sup> Alle Vorgesetzten oder HR-Ansprechpersonen können sich an den EGS wenden, um sich bei der Betreuung von Mitarbeitenden mit Schwierigkeiten beraten zu lassen.
+<sup>2</sup> Alle Vorgesetzten oder HR-Ansprechpersonen können sich an die CESS wenden, um sich bei der Betreuung von Mitarbeitenden mit Schwierigkeiten beraten zu lassen.
 
 <sup>3</sup> Die Beraterinnen und Berater Gesundheit-Soziales legen für jeden einzelnen Fall, den sie betreuen, ein Dossier an.
 
-<sup>4</sup> Die Inanspruchnahme des EGS ist freiwillig und kostenlos.
+<sup>4</sup> Die Inanspruchnahme der CESS ist freiwillig und kostenlos.
 
-<sup>5</sup> Der EGS kann eine Fallbetreuung ablehnen oder aussetzen, wenn der Fall seiner Ansicht nach nicht in seinen Interventionsbereich oder in seine Zuständigkeit fällt oder wenn sein Interventionsrahmen nicht eingehalten wird.
+<sup>5</sup> Die CESS kann eine Fallbetreuung ablehnen oder aussetzen, wenn der Fall ihrer Ansicht nach nicht in ihren Interventionsbereich oder in ihre Zuständigkeit fällt oder wenn ihr Interventionsrahmen nicht eingehalten wird.
 
-<sup>6</sup> Die Termine mit dem EGS können während der Arbeitszeit wahrgenommen und als Arbeitszeit angerechnet werden.
+<sup>6</sup> Die Termine mit der CESS können während der Arbeitszeit wahrgenommen und als Arbeitszeit angerechnet werden.
 
 #### Art. 7
 
@@ -132,13 +136,13 @@ beschliesst:
 
 <sup>3</sup> Wenn eine gesetzliche Grundlage dies vorsieht, können unbedingt erforderliche Daten ohne ausdrückliche Zustimmung der betroffenen Personen Dritten bekanntgegeben werden.
 
-<sup>4</sup> Der Staat stellt dem EGS von den anderen Verwaltungsbüros getrennte Räumlichkeiten zur Verfügung, damit die Diskretion gewährleistet ist.
+<sup>4</sup> Der Staat stellt der CESS von den anderen Verwaltungsbüros getrennte Räumlichkeiten zur Verfügung, damit die Diskretion gewährleistet ist.
 
 #### Art. 8
 
 **Dienstleistungen**
 
-<sup>1</sup> Der EGS bietet verschiedene Dienstleistungen und Interventionsformen bei der Begleitung von Personen mit Problemen an:
+<sup>1</sup> Die CESS bietet verschiedene Dienstleistungen und Interventionsformen bei der Begleitung von Personen mit Problemen an:
 
 - a) individuelle Betreuung;
 - b) Interventionen in Teams (Mediation, Krisenintervention), unter Vorbehalt der Zustimmung der oder des direkten Vorgesetzten;
@@ -147,11 +151,11 @@ beschliesst:
 - e) Prüfung und Bearbeitung der Anträge für Darlehen aus dem Sozialfonds für das Staatspersonal;
 - f) Prüfung und Nachbearbeitung der Anstellungsanträge über das Budget für die berufliche Wiedereingliederung von Personen mit gesundheitlicher Beeinträchtigung.
 
-<sup>2</sup> Der EGS entwickelt Kurse, Informationsveranstaltungen und Präventionskampagnen zu Themen mit Bezug zu seinem Interventionsbereich und führt sie durch.
+<sup>2</sup> Die CESS entwickelt Kurse, Informationsveranstaltungen und Präventionskampagnen zu Themen mit Bezug zu ihrem Interventionsbereich und führt sie durch.
 
-<sup>3</sup> Der EGS darf nicht mit der Instruktion eines Verfahrens oder einer Administrativuntersuchung gemäss Personalgesetzgebung in einer Verwaltungseinheit oder einer Anstalt beauftragt werden.
+<sup>3</sup> Die CESS darf nicht mit der Instruktion eines Verfahrens oder einer Administrativuntersuchung gemäss Personalgesetzgebung in einer Verwaltungseinheit oder einer Anstalt beauftragt werden.
 
-<sup>4</sup> Der EGS darf in Verfahren nach der Personalgesetzgebung nicht zur Zeugenaussage oder zur Teilnahme an Beurteilungsgesprächen und zu allfälligen Überprüfungen solcher Gespräche oder zu Anhörungen im Rahmen von Kündigungsverfahren verpflichtet werden.
+<sup>4</sup> Die CESS darf in Verfahren nach der Personalgesetzgebung nicht zur Zeugenaussage oder zur Teilnahme an Beurteilungsgesprächen und zu allfälligen Überprüfungen solcher Gespräche oder zu Anhörungen im Rahmen von Kündigungsverfahren verpflichtet werden.
 
 ## 4 Schliessung der Dossiers, Beurteilung und Tätigkeitsbericht
 
@@ -159,11 +163,11 @@ beschliesst:
 
 **Schliessung der Dossiers**
 
-<sup>1</sup> Die vom EGS bearbeiteten Fälle gelten als abgeschlossen:
+<sup>1</sup> Die von der CESS bearbeiteten Fälle gelten als abgeschlossen:
 
 - a) auf Antrag der betroffenen Person;
-- b) wenn eine betroffene Person sich nicht mehr beim EGS meldet (kein Follow-up);
-- c) wenn der Fall nicht in das Geschäftsfeld, die Zuständigkeit oder Geschäftsgrundsätze des EGS fällt;
+- b) wenn eine betroffene Person sich nicht mehr bei der CESS meldet (kein Follow-up);
+- c) wenn der Fall nicht in das Geschäftsfeld, die Zuständigkeit oder Geschäftsgrundsätze der CESS fällt;
 - d) bei Beendigung des Dienstverhältnisses, mit Ausnahme der Fälle nach Artikel 5 dieser Verordnung oder wenn die Rückzahlung eines Darlehens aus dem Sozialfonds am Laufen ist;
 - e) wenn keine Taggelder aus dem Fonds für die Lohngarantie mehr ausgezahlt werden.
 
@@ -171,21 +175,24 @@ beschliesst:
 
 **Beurteilung der Massnahme**
 
-<sup>1</sup> Nach Abschluss der Begleitung werden die betroffenen Personen und ihre Vorgesetzten, sofern sie in die Massnahme des EGS eingebunden waren, gebeten, ein Beurteilungsformular auszufüllen. Diese Beurteilung ist freiwillig.
+<sup>1</sup> Nach Abschluss der Begleitung werden die betroffenen Personen und ihre Vorgesetzten, sofern sie in die Massnahme der CESS eingebunden waren, gebeten, ein Beurteilungsformular auszufüllen. Diese Beurteilung ist freiwillig.
 
-<sup>2</sup> Das ausgefüllte Beurteilungsformular ist Bestandteil des Dossiers der betroffenen Person beim EGS.
+<sup>2</sup> Das ausgefüllte Beurteilungsformular ist Bestandteil des Dossiers der betroffenen Person bei der CESS.
 
-<sup>3</sup> Die anonymisierten Resultate dieser Beurteilungen werden zu statistischen Zwecken und zur laufenden Verbesserung des EGS verwendet.
+<sup>3</sup> Die anonymisierten Resultate dieser Beurteilungen werden zu statistischen Zwecken und zur laufenden Verbesserung der CESS verwendet.
 
 #### Art. 11
 
 **Tätigkeitsbericht**
 
-<sup>1</sup> Der EGS legt gegenüber dem Staatsrat jährlich Rechenschaft über seine Tätigkeit ab.
+<sup>1</sup> Die CESS legt gegenüber dem Staatsrat jährlich Rechenschaft über ihre Tätigkeit ab.
 
 <sup>2</sup> Die Informationen in den Tätigkeitsberichten werden anonymisiert, um die Vertraulichkeit der Daten gewährleisten zu können.
 
-<sup>3</sup> Die Bestimmungen der Verordnung über Mobbing, sexuelle Belästigung und zwischenmenschliche Probleme am Arbeitsplatz und des Reglements über den Sozialfonds bleiben vorbehalten.
+<sup>3</sup> Die Bestimmungen der Verordnung über Mobbing, sexuelle Belästigung und zwischenmenschliche Probleme am Arbeitsplatz[^11-1] und des Reglements über den Sozialfonds[^11-2] bleiben vorbehalten.
+
+[^11-1]: SGF [122.70.14](https://bdlf.fr.ch/data/122.70.14/de)
+[^11-2]: SGF [122.73.61](https://bdlf.fr.ch/data/122.73.61/de)
 
 ## 5 Schutz der Personendaten
 
@@ -193,15 +200,15 @@ beschliesst:
 
 **Zweck**
 
-<sup>1</sup> Die Daten werden vom EGS zur Erfüllung des in dieser Verordnung erwähnten Auftrags (Art. 1, 2 und 8) erhoben und bearbeitet.
+<sup>1</sup> Die Daten werden von der CESS zur Erfüllung des in dieser Verordnung erwähnten Auftrags (Art. 1, 2 und 8) erhoben und bearbeitet.
 
-<sup>2</sup> Die vom EGS erhobenen und bearbeiteten Daten dürfen nicht für eine Leistungsbeurteilung oder ein Verfahren im Sinne der Personalgesetzgebung verwendet werden.
+<sup>2</sup> Die von der CESS erhobenen und bearbeiteten Daten dürfen nicht für eine Leistungsbeurteilung oder ein Verfahren im Sinne der Personalgesetzgebung verwendet werden.
 
 #### Art. 13
 
 **Art der Daten und Datenerhebung**
 
-<sup>1</sup> Die einzelnen Dossiers enthalten nur die zur Erfüllung der Aufgaben des EGS unerlässlichen Daten: Personendaten, vertragliche Aspekte der Anstellung, Merkmale der festgestellten Probleme sowie erfolgte Interventionen und Belege.
+<sup>1</sup> Die einzelnen Dossiers enthalten nur die zur Erfüllung der Aufgaben der CESS unerlässlichen Daten: Personendaten, vertragliche Aspekte der Anstellung, Merkmale der festgestellten Probleme sowie erfolgte Interventionen und Belege.
 
 <sup>2</sup> Die Daten werden von den Beraterinnen und Beratern Gesundheit-Soziales, die sich mit den jeweiligen Dossiers befassen, erhoben.
 
@@ -211,19 +218,19 @@ beschliesst:
 
 **Datenbearbeitung**
 
-<sup>1</sup> Die Daten werden vom EGS absolut vertraulich behandelt und grundsätzlich auf elektronischer Basis, mithilfe eines entsprechend geschützten Informatikprogramms, bearbeitet.
+<sup>1</sup> Die Daten werden von der CESS absolut vertraulich behandelt und grundsätzlich auf elektronischer Basis, mithilfe eines entsprechend geschützten Informatikprogramms, bearbeitet.
 
 #### Art. 15
 
 **Datenzugriff und Datensicherheit**
 
-<sup>1</sup> Nur die Beraterinnen und Berater Gesundheit-Soziales haben Zugriff auf die erhobenen Daten. Die vom EGS erhobenen Daten dürfen weder vom Arbeitgeber noch vom POA noch von der Pensionskasse des Staatspersonals eingesehen werden, es sei denn, die betroffene Person habe ihre Zustimmung dazu erteilt.
+<sup>1</sup> Nur die Beraterinnen und Berater Gesundheit-Soziales haben Zugriff auf die erhobenen Daten. Die von der CESS erhobenen Daten dürfen weder vom Arbeitgeber noch vom POA noch von der Pensionskasse des Staatspersonals eingesehen werden, es sei denn, die betroffene Person habe ihre Zustimmung dazu erteilt.
 
-<sup>2</sup> Die vom EGS erhobenen Daten sind nicht Bestandteil des Personaldossiers der Mitarbeiterin oder des Mitarbeiters und auch nicht Bestandteil des Personaldossiers der Vorgesetzten oder der Arbeitskolleginnen und ‑kollegen.
+<sup>2</sup> Die von der CESS erhobenen Daten sind nicht Bestandteil des Personaldossiers der Mitarbeiterin oder des Mitarbeiters und auch nicht Bestandteil des Personaldossiers der Vorgesetzten oder der Arbeitskolleginnen und ‑kollegen.
 
-<sup>3</sup> Der EGS trifft sämtliche für den Datenschutz und die Unzugänglichkeit der Daten für Dritte erforderlichen Massnahmen, und die Beraterinnen und Berater Gesundheit-Soziales sind für ihre Einhaltung verantwortlich.
+<sup>3</sup> Die CESS trifft sämtliche für den Datenschutz und die Unzugänglichkeit der Daten für Dritte erforderlichen Massnahmen, und die Beraterinnen und Berater Gesundheit-Soziales sind für ihre Einhaltung verantwortlich.
 
-<sup>4</sup> Der EGS nimmt die Dienste des Amts für Informatik und Telekommunikation des Staates Freiburg (ITA) für den technischen Betrieb seiner Software in Anspruch.
+<sup>4</sup> Die CESS nimmt die Dienste des Amts für Informatik und Telekommunikation des Staates Freiburg (ITA) für den technischen Betrieb ihrer Software in Anspruch.
 
 <sup>5</sup> Das ITA nimmt für die Sicherheitsmassnahmen eine Risikobeurteilung vor und trifft die geeigneten organisatorischen und technischen Massnahmen zur Sicherung dieser sensiblen Daten.
 
@@ -231,21 +238,21 @@ beschliesst:
 
 **Aufbewahrung, Archivierung und Vernichtung**
 
-<sup>1</sup> Die in den Dossiers enthaltenen Daten werden vom EGS aufbewahrt.
+<sup>1</sup> Die in den Dossiers enthaltenen Daten werden von der CESS aufbewahrt.
 
 <sup>2</sup> Die Aufbewahrungsfrist beträgt 10 Jahre ab Schliessung der Dossiers bei Beratung und Unterstützung bei Schuldenrückzahlung, im Rahmen von Entscheiden über beantragte Leistungen aus dem Sozialfonds und über die Verwendung finanzieller Mittel für die Anstellung von Personen mit gesundheitlicher Beeinträchtigung.
 
 <sup>3</sup> In allen anderen Fällen beträgt die Aufbewahrungsfrist 5 Jahre ab Schliessung der Dossiers.
 
-<sup>4</sup> Nach Ablauf der Aufbewahrungsfrist werden die Daten vom EGS vernichtet.
+<sup>4</sup> Nach Ablauf der Aufbewahrungsfrist werden die Daten von der CESS vernichtet.
 
 ## 6 Finanzierung
 
 #### Art. 17
 
-<sup>1</sup> Der EGS wird vollumfänglich über das Budget des POA finanziert.
+<sup>1</sup> Die CESS wird vollumfänglich über das Budget des POA finanziert.
 
-<sup>2</sup> Der Staatsrat und die Pensionskasse des Staatspersonals vereinbaren Kofinanzierungsmodalitäten für den EGS.
+<sup>2</sup> Der Staatsrat und die Pensionskasse des Staatspersonals vereinbaren Kofinanzierungsmodalitäten für die CESS.
 
 ## 7 Schlussbestimmung
 
