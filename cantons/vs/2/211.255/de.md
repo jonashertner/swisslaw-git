@@ -4,13 +4,12 @@ number: "211.255"
 title: Reglement über die Festsetzung der Kosten der Kindes- und Erwachsenenschutzbehörden
 short: ReKK
 language: de
-version: 2024-01-01
-valid_until: 2024-09-30
-version_adopted: 2023-10-04
+version: 2024-10-01
+version_adopted: 2024-08-21
 adopted: 2022-09-28
 in_force: 2023-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/211.255"
-pdf: "https://lex.vs.ch/api/de/versions/3237/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3345/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/3237/pdf_file"
 
 (ReKK)
 
-vom 28.09.2022 (Stand 01.01.2024)
+vom 28.09.2022 (Stand 01.10.2024)
 
 Der Staatsrat des Kantons Wallis
 
@@ -62,6 +61,8 @@ verordnet:
 **Gebühr**
 
 <sup>1</sup> Die Gebühr ist eine Abgabe als Gegenleistung für die Intervention der KESB, die zudem global die Kosten der Kanzlei und andere ähnliche Kosten deckt.
+
+<sup>1<sup>bis</sup></sup> Wenn die KESB einen Beisitzer hinzuzieht, wird die Gebühr, die dem Honorar des Beisitzers entspricht, zusätzlich zu den in Artikel 4 festgelegten Gebühren erhoben.
 
 <sup>2</sup> Die Stempelabgabe wird zusätzlich zur Gebühr erhoben.
 

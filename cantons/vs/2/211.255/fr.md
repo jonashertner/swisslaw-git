@@ -4,13 +4,12 @@ number: "211.255"
 title: "Règlement fixant les frais perçus par les autorités de protection de l'enfant et de l'adulte"
 short: ReFA
 language: fr
-version: 2024-01-01
-valid_until: 2024-09-30
-version_adopted: 2023-10-04
+version: 2024-10-01
+version_adopted: 2024-08-21
 adopted: 2022-09-28
 in_force: 2023-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/211.255"
-pdf: "https://lex.vs.ch/api/fr/versions/3237/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3345/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/3237/pdf_file"
 
 (ReFA)
 
-du 28.09.2022 (état 01.01.2024)
+du 28.09.2022 (état 01.10.2024)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -62,6 +61,8 @@ ordonne:
 **Emolument**
 
 <sup>1</sup> L'émolument est la taxe perçue en contrepartie de l'intervention de l'APEA, couvrant en outre, forfaitairement, les frais de chancellerie et autres frais analogues.
+
+<sup>1<sup>bis</sup></sup> Lorsque l’APEA fait appel à un assesseur, le montant de l’émolument équivalant aux honoraires de l’assesseur est perçu en sus des émoluments fixés à l’article 4.
 
 <sup>2</sup> Le droit de timbre est perçu en sus de l'émolument.
 
