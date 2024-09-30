@@ -3,11 +3,11 @@ sr: "0.916.118.1"
 title: Internationales Kakao-Übereinkommen von 2010 vom 25. Juni 2010 (mit Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/690"
 language: de
-version: 2022-10-01
+version: 2024-10-01
 adopted: 2010-06-25
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/690/20221001/de/xml/fedlex-data-admin-ch-eli-cc-2012-690-20221001-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/690/20221001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/690/20241001/de/xml/fedlex-data-admin-ch-eli-cc-2012-690-20241001-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/690/20241001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 12. Mai 2011
 
 Vorläufig in Kraft getreten für die Schweiz am 1. Oktober 2012
 
-(Stand am 1. Oktober 2022)
+(Stand am 1. Oktober 2024)
 
 [^t-1]: [AS 2012 5857](https://fedlex.data.admin.ch/eli/oc/2012/689)
 
@@ -724,7 +724,7 @@ Vorbehalte zu diesem Übereinkommen sind nicht zulässig.
 - 6\. Ungeachtet der Ausserkraftsetzung dieses Übereinkommens, gleichviel auf welche Weise, bleibt der Rat so lange weiter bestehen, wie es zur Auflösung der Organisation, zur Abrechnung der Konten und zur Veräusserung ihrer Vermögenswerte notwendig ist. Der Rat hat während dieser Zeit die notwendigen Befugnisse für die Erledigung aller Verwaltungs- und Finanzangelegenheiten.
 - 7\. Ungeachtet des Artikels 59 Absatz 2 setzt ein Mitglied, das sich nicht an diesem Übereinkommen in der nach diesem Artikel verlängerten Fassung beteiligen möchte, den Verwahrer und den Rat davon in Kenntnis. Dieses Mitglied hört mit Beginn des Verlängerungszeitraums auf, Vertragspartei dieses Übereinkommens zu sein.
 
-[^62-1]: Übereinkommen verlängert vom 1. Okt. 2022 bis zum 30. Sept. 2024 durch den Beschluss des Internationalen Kakaorats vom 6.–8. Juli 2021 ([AS 2022 418](https://fedlex.data.admin.ch/eli/oc/2022/418)).
+[^62-1]: Übereinkommen verlängert vom 1. Okt. 2022 bis zum 30. Sept. 2024 durch den Beschluss des Internationalen Kakaorats vom 8. Juli 2021 ([AS 2022 418](https://fedlex.data.admin.ch/eli/oc/2022/418)) und vom 1. Okt. 2024 bis zum 30. Sept. 2026 durch den Beschluss des Internationalen Kakaorats vom 6. Okt. 2023 ([AS 2023 592](https://fedlex.data.admin.ch/eli/oc/2023/592)).
 
 #### Art. 63
 

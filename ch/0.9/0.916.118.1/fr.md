@@ -3,11 +3,11 @@ sr: "0.916.118.1"
 title: "Accord international sur le cacao, 2010 du 25 juin 2010 (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/690"
 language: fr
-version: 2022-10-01
+version: 2024-10-01
 adopted: 2010-06-25
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/690/20221001/fr/xml/fedlex-data-admin-ch-eli-cc-2012-690-20221001-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/690/20221001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/690/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-2012-690-20241001-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/690/20241001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,15 +18,9 @@ RO **2012** 5859; FF **2011** 1315
 
 Texte original
 
-Conclu à Genève le 25 juin 2010
+Conclu à Genève le 25 juin 2010 Approuvé par l’Assemblée fédérale le 8 mars 2011[^t-1] Instrument de ratification suisse déposé le 12 mai 2011 Entré en vigueur pour la Suisse à titre provisoire le 1<sup>er</sup> octobre 2012
 
-Approuvé par l’Assemblée fédérale le 8 mars 2011[^t-1]
-
-Instrument de ratification suisse déposé le 12 mai 2011
-
-Entré en vigueur pour la Suisse à titre provisoire le 1<sup>er</sup> octobre 2012
-
-(Etat le 1<sup>er</sup> octobre 2022)
+(État le 1<sup>er</sup> octobre 2024)
 
 [^t-1]: [RO 2012 5857](https://fedlex.data.admin.ch/eli/oc/2012/689)
 
@@ -724,7 +718,7 @@ En cas de retrait ou d’exclusion d’un Membre, le Conseil procède à la liqu
 - 6\. Nonobstant la fin du présent Accord de quelque façon que ce soit, le Conseil continue d’exister aussi longtemps qu’il le faut pour liquider l’Organisation, en apurer les comptes et en répartir les avoirs. Le Conseil a pendant cette période les pouvoirs nécessaires pour mener à bien toutes les questions administratives et financières.
 - 7\. Nonobstant les dispositions du par. 2 de l’art. 59, un Membre qui ne désire pas participer au présent Accord tel qu’il est prorogé en vertu du présent article en informe le dépositaire et le Conseil. Ce Membre cesse d’être partie au présent Accord à compter du début de la période de prorogation.
 
-[^62-1]: Ac. prorogé du 1<sup>er</sup> oct. 2022 au 30 sept. 2024 par la D du Cons. international du cacao des 6 et 8 juil. 2021 ([RO 2022 418](https://fedlex.data.admin.ch/eli/oc/2022/418)).
+[^62-1]: Ac. prorogé du 1<sup>er</sup> oct. 2022 au 30 sept. 2024 par la D du Cons. international du cacao du 8 juil. 2021 ([RO 2022 418](https://fedlex.data.admin.ch/eli/oc/2022/418)), puis du 1<sup>er</sup> oct. 2024 au 30 sept. 2026 par la D du Cons. international du cacao du 6 oct. 2023 ([RO 2023 592](https://fedlex.data.admin.ch/eli/oc/2023/592)).
 
 #### Art. 63
 
