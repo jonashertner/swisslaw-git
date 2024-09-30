@@ -4,11 +4,11 @@ title: Ordinanza del 12 giugno 2020 sul fondo per la prevenzione del tabagismo (
 short: OFPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/499"
 language: it
-version: 2020-08-01
+version: 2024-10-01
 adopted: 2020-06-12
 in_force: 2020-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/499/20200801/it/xml/fedlex-data-admin-ch-eli-cc-2020-499-20200801-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/499/20200801/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/499/20241001/it/xml/fedlex-data-admin-ch-eli-cc-2020-499-20241001-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/499/20241001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/499/20200801/it"
 
 (OFPT)
 
-del 12 giugno 2020 (Stato 1° agosto 2020)
+del 12 giugno 2020 (Stato 1° ottobre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -47,9 +47,13 @@ Il fondo per la prevenzione del tabagismo (fondo) è un fondo giuridicamente non
 
 I provvedimenti di prevenzione devono essere finalizzati in particolare a:
 
-- a. ridurre il consumo di tabacco:
-- 1\. impedendo l’iniziazione al fumo,
-- 2\. promuovendone l’abbandono;
+- a.
+
+  ridurre il consumo di tabacco:
+
+  - 1\. impedendo l’iniziazione al fumo,
+  - 2\. promuovendone l’abbandono;
+
 - b. proteggere dal fumo passivo;
 - c. sensibilizzare e informare l’opinione pubblica sugli effetti del consumo di tabacco;
 - d. promuovere la cooperazione tra gli organi della Confederazione, dei Cantoni e dei Comuni e terzi attivi nella prevenzione del tabagismo;
@@ -77,12 +81,15 @@ Gli aiuti finanziari per provvedimenti di prevenzione del tabagismo sono concess
 La segreteria ha in particolare i compiti seguenti:
 
 - a. pianifica e avvia provvedimenti di prevenzione;
+- a<sup>bis</sup>.[^4-1] incarica terzi di realizzare provvedimenti di prevenzione;
 - b. decide in merito alla concessione di aiuti finanziari;
 - c. tiene informato il pubblico sulle proprie attività.
 
 <sup>3</sup> Adempie i propri compiti in collaborazione con l’Ufficio federale dello sport (UFSPO).
 
 <sup>4</sup> Può consultare altri esperti, in particolare la Commissione federale per le questioni relative alle dipendenze e alla prevenzione delle malattie non trasmissibili, in merito all’orientamento strategico del fondo e a questioni concernenti la prevenzione del tabagismo.
+
+[^4-1]: Introdotta dall’all. 4 n. II 4 dell’O del 28 ago. 2024 sui prodotti del tabacco, in vigore dal 1° ott. 2024 ([RU 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
 
 ## Sezione 2: Contributi ai costi per singoli provvedimenti di prevenzione
 
@@ -150,11 +157,12 @@ Le domande contengono in particolare:
 
 **Importo dei contributi ai costi**
 
-<sup>1</sup> L’importo dei contributi ai costi tiene conto:
+<sup>1</sup>
 
-dell’interesse strategico del provvedimento di prevenzione;
+L’importo dei contributi ai costi tiene conto:
 
-della capacità economica del richiedente.
+- a. dell’interesse strategico del provvedimento di prevenzione;
+- b. della capacità economica del richiedente.
 
 <sup>2</sup> Il contributo ai costi corrisponde al massimo all’80 per cento dei costi preventivati.
 
@@ -320,7 +328,8 @@ La segreteria elabora all’attenzione del DFI segnatamente i documenti seguenti
 - a. un programma annuale;
 - b. un rapporto annuale;
 - c. un consuntivo annuale.
-- [tab] <sup>3</sup> Il DFI emana una direttiva sulla vigilanza.
+
+<sup>3</sup> Il DFI emana una direttiva sulla vigilanza.
 
 #### Art. 26
 
@@ -336,11 +345,7 @@ Il Controllo federale delle finanze esercita la vigilanza finanziaria conformeme
 
 **Abrogazione di un altro atto normativo**
 
-### L’ordinanza del 5 marzo 2004 sul fondo per la prevenzione del tabagismo è abrogata.
-
-[^sec7-lvlu2-1]
-
-[^sec7-lvlu2-1]: [[RU 2004 1591](https://fedlex.data.admin.ch/eli/oc/2004/192), [2008 3159](https://fedlex.data.admin.ch/eli/oc/2008/419), [2009 5577](https://fedlex.data.admin.ch/eli/oc/2009/677)art. 44 n. 2, [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)n. I 2.4]
+L’ordinanza del 5 marzo 2004[^27-1] sul fondo per la prevenzione del tabagismo è abrogata.
 
 **Art. 28** Contributi forfettari per gli anni 2020 e 2021
 
@@ -349,6 +354,8 @@ Il Controllo federale delle finanze esercita la vigilanza finanziaria conformeme
 <sup>2</sup> La segreteria decide in merito alle domande entro il 30 settembre 2020.
 
 <sup>3</sup> In deroga al numero 1 dell’allegato, quale base per il calcolo dei contributi forfettari per gli anni 2020 e 2021 si applica la quota cantonale del 2019.
+
+[^27-1]: [[RU 2004 1591](https://fedlex.data.admin.ch/eli/oc/2004/192); [2008 3159](https://fedlex.data.admin.ch/eli/oc/2008/419); [2009 5577](https://fedlex.data.admin.ch/eli/oc/2009/677)art. 44 n. 2; [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)n. I 2.4]
 
 #### Art. 29
 

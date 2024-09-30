@@ -4,11 +4,11 @@ title: Ordonnance du 12 juin 2020 sur le Fonds de prévention du tabagisme (OFPT
 short: OFPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/499"
 language: fr
-version: 2020-08-01
+version: 2024-10-01
 adopted: 2020-06-12
 in_force: 2020-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/499/20200801/fr/xml/fedlex-data-admin-ch-eli-cc-2020-499-20200801-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/499/20200801/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/499/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-2020-499-20241001-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/499/20241001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/499/20200801/fr"
 
 (OFPT)
 
-du 12 juin 2020 (Etat le 1<sup>er</sup> août 2020)
+du 12 juin 2020 (État le 1<sup>er</sup> octobre 2024)
 
 Le Conseil fédéral suisse,
 
@@ -81,12 +81,15 @@ Les aides financières pour des mesures de prévention du tabagisme sont octroy�
 Ce service assume notamment les tâches suivantes:
 
 - a. planifier et lancer des mesures de prévention;
+- a<sup>bis</sup>.[^4-1] mandater des tiers pour la réalisation de mesures de prévention;
 - b. décider de l’octroi des aides financières;
 - c. informer le public sur ses activités.
 
 <sup>3</sup> Il remplit son mandat en collaboration avec l’Office fédéral du sport (OFSPO).
 
 <sup>4</sup> Il peut impliquer d’autres organisations spécialisées, notamment la Commission fédérale pour les questions liées aux addictions et à la prévention des maladies non transmissibles, dans l’orientation stratégique du fonds et dans des questions relatives à la prévention du tabagisme.
+
+[^4-1]: Introduite par l’annexe 4 ch. II 4 de l’O du 28 août 2024 sur les produits du tabac, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
 
 ## Section 2 Contributions aux frais pour des mesures de prévention individuelles
 

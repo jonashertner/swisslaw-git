@@ -4,11 +4,11 @@ title: Verordnung vom 12. Juni 2020 über den Tabakpräventionsfonds (TPFV)
 short: TPFV
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/499"
 language: de
-version: 2020-08-01
+version: 2024-10-01
 adopted: 2020-06-12
 in_force: 2020-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/499/20200801/de/xml/fedlex-data-admin-ch-eli-cc-2020-499-20200801-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/499/20200801/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/499/20241001/de/xml/fedlex-data-admin-ch-eli-cc-2020-499-20241001-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/499/20241001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2020/499/20200801/de"
 
 (TPFV)
 
-vom 12. Juni 2020 (Stand am 1. August 2020)
+vom 12. Juni 2020 (Stand am 1. Oktober 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -81,12 +81,15 @@ Finanzhilfen für Tabakpräventionsmassnahmen werden gewährt als:
 Die Geschäftsstelle hat insbesondere folgende Aufgaben:
 
 - a. Sie plant und initiiert Präventionsmassnahmen.
+- a<sup>bis</sup>.[^4-1] Sie kann Dritte mit der Durchführung von Präventionsmassnahmen beauftragen.
 - b. Sie entscheidet über die Gewährung von Finanzhilfen.
 - c. Sie informiert die Öffentlichkeit über ihre Aktivitäten.
 
 <sup>3</sup> Sie erfüllt ihre Aufgaben in Zusammenarbeit mit dem Bundesamt für Sport (BASPO).
 
 <sup>4</sup> Sie kann zur strategischen Ausrichtung des Tabakpräventionsfonds und zu Fragen der Tabakprävention weitere Sachverständige beiziehen, insbesondere die Eidgenössische Kommission für Fragen zu Sucht und Prävention nichtübertragbarer Krankheiten.
+
+[^4-1]: Eingefügt durch Anhang 4 Ziff. II 4 der Tabakprodukteverordnung vom 28. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
 
 ## 2. Abschnitt: Kostenbeiträge für einzelne Präventionsmassnahmen
 
@@ -344,7 +347,7 @@ Die Eidgenössische Finanzkontrolle nimmt die Finanzaufsicht nach dem Finanzkont
 
 Die Verordnung über den Tabakpräventionsfonds vom 5. März 2004[^27-1] wird aufgehoben.
 
-[^27-1]: [[AS 2004 1591](https://fedlex.data.admin.ch/eli/oc/2004/192), [2008 3159](https://fedlex.data.admin.ch/eli/oc/2008/419), [2009 5577](https://fedlex.data.admin.ch/eli/oc/2009/677)Art. 44 Ziff. 2, [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)Ziff. I 2.4, [2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)Anhang Ziff. 2]
+[^27-1]: [[AS 2004 1591](https://fedlex.data.admin.ch/eli/oc/2004/192); [2008 3159](https://fedlex.data.admin.ch/eli/oc/2008/419); [2009 5577](https://fedlex.data.admin.ch/eli/oc/2009/677)Art. 44 Ziff. 2; [2011 5227](https://fedlex.data.admin.ch/eli/oc/2011/752)Ziff. I 2.4; [2019 155](https://fedlex.data.admin.ch/eli/oc/2019/23)Anhang Ziff. 2]
 
 #### Art. 28
 
