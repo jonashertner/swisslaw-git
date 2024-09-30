@@ -3,246 +3,91 @@ sr: "641.811.423"
 title: Verordnung des EFD vom 11. Februar 2020 über den Einbezug von Tankkarten-Anbietern in die Erhebung der leistungsabhängigen Schwerverkehrsabgabe (Tankkarten-Anbieter-Verordnung EFD)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/83"
 language: de
-version: 2022-01-01
+version: 2024-10-01
 adopted: 2020-02-11
 in_force: 2020-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/83/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2020-83-20220101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/83/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/83/20241001/de/xml/fedlex-data-admin-ch-eli-cc-2020-83-20241001-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/83/20241001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Verordnung des EFD über den Einbezug von EETS- und Tankkarten-Anbietern zur Erhebung der Schwerverkehrsabgabe
+# Verordnung des EFD über den Einbezug von Tankkarten-Anbietern in die Erhebung der leistungsabhängigen Schwerverkehrsabgabe
 
-(EETS- und Tankkarten-Anbieter-Verordnung EFD)
+(Tankkarten-Anbieter-Verordnung EFD)[^t-1]
 
-vom 11. Februar 2020 (Stand am 1. Januar 2022)
+vom 11. Februar 2020 (Stand am 1. Oktober 2024)
+
+[^t-1]: Fassung gemäss Ziff. I der V des EFD vom 7. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 454](https://fedlex.data.admin.ch/eli/oc/2024/454)).
 
 Das Eidgenössische Finanzdepartement (EFD),
 
-gestützt auf die Artikel 26*b* Absatz 2, 26*c* Absatz 3 zweiter und dritter Satz sowie 29 Absätze 2<sup>ter</sup> und 2<sup>quater</sup> der Schwerverkehrsabgabeverordnung vom 6. März 2000[^ingress-1] (SVAV),
+gestützt auf Artikel 82 Absatz 4 der Schwerverkehrsabgabeverordnung vom 27. März 2024[^ingress-1],[^ingress-2]
 
 verordnet:
 
 [^ingress-1]: [SR 641.811](https://fedlex.data.admin.ch/eli/cc/2024/150)
+[^ingress-2]: Fassung gemäss Ziff. I der V des EFD vom 7. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 454](https://fedlex.data.admin.ch/eli/oc/2024/454)).
 
-## 1. Kapitel: Allgemeine Bestimmungen
+## 1. Abschnitt: Gegenstand
+
+[^sec1-1]
+
+[^sec1-1]: Fassung gemäss Ziff. I der V des EFD vom 7. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 454](https://fedlex.data.admin.ch/eli/oc/2024/454)).
 
 #### Art. 1
 
-**Gegenstand**
+Diese Verordnung regelt für den Einbezug von Tankkarten-Anbietern in die Erhebung der leistungsabhängigen Schwerverkehrsabgabe (LSVA):
 
-<sup>1</sup>
-
-Diese Verordnung regelt für den Einbezug von EETS- und von Tankkarten-Anbietern zur Erhebung der leistungsabhängigen Schwerverkehrsabgabe (LSVA):
-
-- a. die technischen und betrieblichen Vorgaben für die EETS-Anbieter und die Tankkarten-Anbieter;
-- b. das Verfahren zur Prüfung der Zulassung als EETS- oder als Tankkarten-Anbieter;
-- c. die Höhe des Entgelts für die Dienstleistungen, die EETS- und Tankkarten-Anbieter gegenüber dem Bundesamt für Zoll und Grenzsicherheit (BAZG)[^1-1] erbringen.
-
-<sup>2</sup>
-
-Die technischen und betrieblichen Vorgaben sind geregelt:
-
-- a. für die EETS-Anbieter: in Anhang 1;
-- b. für Tankkarten-Anbieter: in Anhang 2.
-
-[^1-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 20 Abs. 2 der Publikationsverordnung vom 7. Okt. 2015 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) auf den 1. Jan. 2022 angepasst ([AS 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Diese Anpassung wurde im ganzen Text vorgenommen.
+- a. die technischen und betrieblichen Vorgaben für die Tankkarten-Anbieter;
+- b. das Verfahren der Zulassung der Tankkarten-Anbieter;
+- c. die Pflichten der Tankkarten-Anbieter;
+- d. die Höhe des Entgelts für die Dienstleistungen, die Tankkarten-Anbieter gegenüber dem Bundesamt für Zoll und Grenzsicherheit (BAZG) erbringen.
 
 #### Art. 2
 
-**Zulassung**
+Aufgehoben
 
-<sup>1</sup> Wer vom BAZG als EETS- oder Tankkarten-Anbieter zugelassen werden will, hat dem BAZG für die jeweilige Dienstleistung ein Zulassungsgesuch zu stellen.
+## 2. Abschnitt: Technische und betriebliche Vorgaben
 
-<sup>2</sup> Die Gesuchsteller haben im Zulassungsverfahren nachzuweisen, dass sie die technischen und betrieblichen Vorgaben für die beantragte Dienstleistung dauerhaft erfüllen.
+[^sec2-1]
 
-<sup>3</sup> Wer ein Gesuch um Zulassung zum EETS-Anbieter stellt, hat ein Zustelldomizil in der Schweiz zu bezeichnen.
+[^sec2-1]: Fassung gemäss Ziff. I der V des EFD vom 7. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 454](https://fedlex.data.admin.ch/eli/oc/2024/454)).
 
-## 2. Kapitel: EETS-Anbieter
+#### Art. 2a
 
-### 1. Abschnitt: Zulassungsverfahren
+[^2a-1]
 
-#### Art. 3
+Die technischen und betrieblichen Vorgaben für die Tankkarten-Anbieter sind in Anhang 2 geregelt.
 
-**Prüfstufen**
+[^2a-1]: Eingefügt durch Ziff. I der V des EFD vom 7. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 454](https://fedlex.data.admin.ch/eli/oc/2024/454)).
 
-<sup>1</sup>
+#### Art. 3–18
 
-Das Zulassungsverfahren besteht aus vier aufeinanderfolgenden Stufen:
+[^318-1]
 
-- a. Stufe 1: Prüfung der formellen Voraussetzungen des Gesuchs, der inhaltlichen Vollständigkeit der Gesuchsunterlagen sowie des Nachweises, dass die technischen und betrieblichen Vorgaben erfüllt sind;
-- b. Stufe 2: Prüfung des Betriebs in einer Testumgebung;
-- c. Stufe 3: Prüfung der korrekten Umsetzung der Geschäftsprozesse mit Testfahrzeugen des EETS-Anbieters im Probebetrieb;
-- d. Stufe 4: Prüfung der Leistungsfähigkeit des Anbieters in der Betriebsumgebung (Pilotbetrieb).
+[^318-1]: Aufgehoben durch Ziff. I der V des EFD vom 7. Aug. 2024, mit Wirkung seit 1. Okt. 2024 ([AS 2024 454](https://fedlex.data.admin.ch/eli/oc/2024/454)).
 
-<sup>2</sup> Der erfolgreiche Abschluss einer Stufe ist jeweils Voraussetzung für die Prüfung auf der nächsthöheren Stufe.
+## 3. Abschnitt: Zulassungsverfahren
 
-<sup>3</sup> Die technischen und betrieblichen Vorgaben gemäss Anhang 1 legen fest, was auf den Stufen 2, 3 und 4 im Einzelnen geprüft wird und welche Erfüllungskriterien gelten.
+[^sec3-1]
 
-#### Art. 4
-
-**Anerkennung von Testresultaten aus anderen Zulassungsverfahren**
-
-Das BAZG verzichtet auf die Durchführung von Tests, wenn die Testresultate aus einem Zulassungsverfahren in einem Land des Europäischen Wirtschaftsraums belegen, dass die technischen und betrieblichen Anforderungen nach Anhang 1 erfüllt sind.
-
-#### Art. 5
-
-**Entscheid**
-
-<sup>1</sup> Erfüllt der EETS-Anbieter die Anforderungen für die Stufen 1–3, so schliesst das BAZG mit dem Anbieter einen öffentlich-rechtlichen Zulassungsvertrag für den Pilotbetrieb auf Stufe 4.
-
-<sup>2</sup> Erfüllt der Anbieter auch die Anforderungen des Pilotbetriebs auf Stufe 4, so erteilt ihm das BAZG mit einer Verfügung die Zulassung zur elektronischen Erhebung der LSVA mittels EETS.
-
-<sup>3</sup> Erteilt das BAZG die Zulassung, so gilt der Zulassungsvertrag nach Absatz 1 auch für den ordentlichen Betrieb.
-
-<sup>4</sup> Verweigert das BAZG die Zulassung, so fällt der Zulassungsvertrag automatisch und entschädigungslos dahin. Dies gilt auch, wenn der Gesuchsteller gegen die Verweigerung der Zulassung Beschwerde erhebt.
-
-#### Art. 6
-
-**Änderung der Verhältnisse**
-
-<sup>1</sup> Das BAZG kann die Zulassung oder einzelne Zulassungsstufen erneut prüfen, wenn sich die Verhältnisse auf Seiten des Anbieters oder des BAZG wesentlich ändern.
-
-<sup>2</sup> Die Wiederholung begründet keinen Entschädigungsanspruch des Anbieters.
-
-#### Art. 7
-
-**Nicht mehr erfüllte Zulassungsvoraussetzungen und Pflichtverletzungen**
-
-<sup>1</sup> Sind die Zulassungsvoraussetzungen nicht mehr erfüllt oder verletzt der Anbieter rechtsatzmässig festgelegte oder vertragliche Pflichten, so ergreift das BAZG vorab die im Zulassungsvertrag vorgesehen Massnahmen.
-
-<sup>2</sup> Bleiben diese Massnahmen erfolglos oder erscheint ihr Ergreifen als nutzlos, so sistiert das BAZG die Zulassung und setzt dem Anbieter eine Frist für die Behebung der Mängel, oder es entzieht die Zulassung.
-
-### 2. Abschnitt: Pflichten des Anbieters
-
-#### Art. 8
-
-**Information der EETS-Nutzer**
-
-Der EETS-Anbieter informiert den EETS-Nutzer über seine Pflichten im Umgang mit dem zugelassenen Erfassungsgerät, namentlich über die korrekte Anhängerdeklaration und das Vorgehen bei Störungen.
-
-#### Art. 9
-
-**Registrierung des Halters und der verwendeten Motorfahrzeuge**
-
-<sup>1</sup>
-
-Der EETS-Anbieter registriert im Hinblick auf die Erhebung der LSVA folgende Daten des Halters:
-
-- a. die Personalien;
-- b. die Domiziladresse;
-- c. die Korrespondenzsprache;
-- d. die Vertragsnummer.
-
-<sup>2</sup>
-
-Er registriert ferner folgende Daten zu den vom Halter verwendeten Motorfahrzeugen:
-
-- a. das Kontrollschild mit Landeszeichen;
-- b. das Gewicht;
-- c. die EURO-Emissionsklasse.
-
-<sup>3</sup> Er hält die registrierten Daten aktuell.
-
-#### Art. 10
-
-**Abgabe der Erfassungsgeräte und Sperre**
-
-<sup>1</sup> Der EETS-Anbieter gibt den EETS-Nutzern auf die Fahrzeuge individualisierte und für die Erhebung der LSVA funktionstüchtige Erfassungsgeräte ab.
-
-<sup>2</sup> Die Sperre von Erfassungsgeräten liegt in der Verantwortung des EETS-Anbieters.
-
-<sup>3</sup> Der EETS-Anbieter kann dem BAZG periodisch die Erfassungsgeräte melden, die nicht mehr zum Einsatz gelangen dürfen.
-
-#### Art. 11
-
-**Erfassung und Deklaration der abgabepflichtigen Fahrt**
-
-<sup>1</sup> Der EETS-Anbieter erfasst die für die Erhebung der LSVA erforderlichen Daten zu den abgabepflichtigen Fahrten seiner EETS-Nutzer gemäss den technischen Vorgaben.
-
-<sup>2</sup> Er übermittelt dem BAZG innert 24 Stunden nach Beginn der abgabepflichtigen Fahrt unaufgefordert die für die Abgabeerhebung erforderlichen Deklarationsdaten zur abgabepflichtigen Fahrt gemäss den technischen Vorgaben.
-
-<sup>3</sup> Er gewährt dem BAZG auf Anfrage Einsicht in alle Daten und Informationen, die zur Prüfung der Deklaration der abgabepflichtigen Fahrt erforderlich sind.
-
-#### Art. 12
-
-**Entgegennahme der Veranlagung**
-
-<sup>1</sup> Der EETS-Anbieter nimmt als Zustellungsbevollmächtigter die Veranlagung der Abgabe vom BAZG mit Wirkung für die abgabepflichtige Person entgegen.
-
-<sup>2</sup> Die Veranlagung wird dem EETS-Anbieter elektronisch zugestellt oder in Papierform an seinem Zustelldomizil in der Schweiz.
-
-<sup>3</sup> Die Weiterleitung der Veranlagung richtet sich nach dem Verhältnis zwischen dem EETS-Anbieter und der abgabepflichtigen Person.
-
-#### Art. 13
-
-**Zahlung der Abgabe**
-
-<sup>1</sup> Der EETS-Anbieter ist verpflichtet, dem BAZG die fällige Abgabe nach Erhalt der Rechnung binnen einer Frist von 30 Tagen ab Rechnungsdatum zu bezahlen.
-
-<sup>2</sup> Er trägt das Inkassorisiko im Verhältnis zur abgabepflichtigen Person.
-
-<sup>3</sup>
-
-Sperrt der EETS-Anbieter ein Erfassungsgerät, so entfällt seine Zahlungspflicht für die nach der Sperre anfallenden Abgaben erst, wenn:
-
-- a. er dem BAZG die Sperre gemeldet hat; und
-- b. die Sperre bei der Einfahrt der EETS-Nutzerin oder des EETS-Nutzers in das LSVA-Gebiet nach den technischen Vorgaben wirksam ist.
-
-#### Art. 14
-
-**Beanstandung von Veranlagungen**
-
-<sup>1</sup> Beanstandet eine abgabepflichtige Person eine Veranlagung beim EETS-Anbieter, so prüft dieser die Beanstandung und leitet das Ergebnis der Prüfung an das BAZG weiter, soweit er die Beanstandung nicht selbst erledigen kann.
-
-<sup>2</sup> Erachtet das BAZG die Beanstandung als begründet, so korrigiert es die entsprechende Veranlagung.
-
-#### Art. 15
-
-**Information des BAZG**
-
-<sup>1</sup> Der EETS-Anbieter teilt dem BAZG im Voraus mit, wenn er seine Systeme so ändern will, dass die Änderung Auswirkungen auf die Erfüllung der Vorgaben haben kann.
-
-<sup>2</sup> Er informiert das BAZG unverzüglich, wenn er eine technische oder betriebliche Zulassungsvoraussetzung nicht mehr erfüllt.
-
-<sup>3</sup> Er teilt dem BAZG im Voraus mit, wenn er seine Tätigkeit als EETS-Anbieter einstellen will.
-
-#### Art. 16
-
-**Mitwirkung**
-
-<sup>1</sup> Der EETS-Anbieter wirkt mit an der Messung der Kennzahlen zu seinen Leistungen.
-
-<sup>2</sup> Er vereinbart mit dem BAZG allenfalls nötige Verbesserungen.
-
-<sup>3</sup> Der EETS-Anbieter wirkt mit an der Einführung technischer Neuerungen, sofern das BAZG diese vorgängig angekündigt hat.
-
-#### Art. 17
-
-**Weitere Pflichten**
-
-Das BAZG kann mit dem EETS-Anbieter vertraglich weitere Pflichten im Zusammenhang mit der Erfüllung der technischen oder betrieblichen Vorgaben vereinbaren.
-
-### 3. Abschnitt: Entgelt
-
-#### Art. 18
-
-<sup>1</sup> Sämtliche Dienstleistungen, die der EETS-Anbieter dem BAZG im Zusammenhang mit der elektronischen Erhebung der LSVA mittels EETS erbringt, werden mit einer Pauschale abgegolten.
-
-<sup>2</sup> Die Pauschale beträgt 2,7 Prozent der in Rechnung gestellten Abgaben.
-
-<sup>3</sup> Der Prozentsatz wird periodisch, mindestens aber alle fünf Jahre, überprüft und gegebenenfalls den veränderten Verhältnissen angepasst.
-
-## 3. Kapitel: Tankkarten-Anbieter
-
-### 1. Abschnitt: Zulassungsverfahren
+[^sec3-1]: Fassung gemäss Ziff. I der V des EFD vom 7. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 454](https://fedlex.data.admin.ch/eli/oc/2024/454)).
 
 #### Art. 19
 
-**Prüfung**
+**Gesuch um Zulassung**[^19-1]
 
-Das BAZG prüft ein Zulassungsgesuch darauf hin, ob es die formellen Voraussetzungen erfüllt, inhaltlich vollständig ist und ob der Gesuchsteller die technischen und betrieblichen Vorgaben erfüllt.
+<sup>1</sup> Wer als Tankkarten-Anbieter zugelassen werden will, muss beim BAZG ein Zulassungsgesuch einreichen.
+
+<sup>2</sup>
+
+Das Gesuch muss Dokumente enthalten, mit denen der Gesuchsteller:
+
+- a. nachweist, dass er die Voraussetzungen nach Artikel 82 Absatz 2 Buchstaben a und c der Schwerverkehrsabgabeverordnung vom 27. März 2024 erfüllt;
+- b. glaubhaft macht, dass er fähig ist, die technischen und betrieblichen Vorgaben nach Anhang 2 dauerhaft zu erfüllen.
+
+[^19-1]: Fassung gemäss Ziff. I der V des EFD vom 7. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 454](https://fedlex.data.admin.ch/eli/oc/2024/454)).
 
 #### Art. 20
 
@@ -258,7 +103,11 @@ Erfüllt der Tankkarten-Anbieter die formellen Voraussetzungen und die technisch
 
 <sup>2</sup> Die Wiederholung begründet keinen Entschädigungsanspruch des Anbieters.
 
-### 2. Abschnitt: Pflichten des Anbieters
+## 4. Abschnitt: Pflichten der Tankkarten-Anbieter
+
+[^sec4-1]
+
+[^sec4-1]: Fassung gemäss Ziff. I der V des EFD vom 7. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 454](https://fedlex.data.admin.ch/eli/oc/2024/454)).
 
 #### Art. 22
 
@@ -309,7 +158,11 @@ Sperrt der Tankkarten-Anbieter eine Karte, so entfällt seine Zahlungspflicht f�
 
 Das BAZG kann mit dem Tankkarten-Anbieter vertraglich weitere Pflichten im Zusammenhang mit der Erfüllung der technischen oder betrieblichen Vorgaben vereinbaren.
 
-### 3. Abschnitt: Entgelt
+## 5. Abschnitt: Entgelt
+
+[^sec5-1]
+
+[^sec5-1]: Fassung gemäss Ziff. I der V des EFD vom 7. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 454](https://fedlex.data.admin.ch/eli/oc/2024/454)).
 
 #### Art. 27
 
@@ -319,7 +172,11 @@ Das BAZG kann mit dem Tankkarten-Anbieter vertraglich weitere Pflichten im Zusam
 
 <sup>3</sup> Der Prozentsatz nach Absatz 2 wird periodisch, mindestens aber alle fünf Jahre, geprüft und gegebenenfalls den veränderten Verhältnissen angepasst.
 
-## 4. Kapitel: Schlussbestimmungen
+## 6. Abschnitt: Schlussbestimmungen
+
+[^sec6-1]
+
+[^sec6-1]: Fassung gemäss Ziff. I der V des EFD vom 7. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 454](https://fedlex.data.admin.ch/eli/oc/2024/454)).
 
 #### Art. 28
 
@@ -333,22 +190,17 @@ Die mit Tankkarten-Anbietern vor dem Inkrafttreten dieser Verordnung abgeschloss
 
 Diese Verordnung tritt am 1. März 2020 in Kraft.
 
-Anhang 1
+Anhang 1[^t-2]
 
-(Art. 1 Abs. 2 Bst. a, 4 Abs. 3 und 4*a*)
+[^t-2]: Aufgehoben durch Ziff. II Abs. 1 der V des EFD vom 7. Aug. 2024, mit Wirkung seit 1. Okt. 2024 ([AS 2024 454](https://fedlex.data.admin.ch/eli/oc/2024/454)).
 
-## Technische und betriebliche Vorgaben für EETS-Anbieter
+Anhang 2[^t-3]
 
-[^annex1-lvlu1-1]
-
-[^annex1-lvlu1-1]: Der Text dieses Anhangs wird in der AS nicht publiziert. Er kann kostenlos abgerufen werden unter www.bazg.admin.ch &gt; Information Firmen &gt; Strassenabgaben, Fahrzeuge, Fahrzeugführende, Reisedokumente &gt; Schwerverkehrsabgaben LSVA und PSVA &gt; LSVA Allgemeines / Tarife &gt; EETS-Anbieter.
-
-Anhang 2
-
-(Art. 1 Abs. 2 Bst. b)
+(Art. 2*a* und 19 Abs. 2 Bst. b)
 
 ## Technische und betriebliche Vorgaben für Tankkarten-Anbieter
 
 [^annex2-lvlu1-1]
 
-[^annex2-lvlu1-1]: Der Text dieses Anhangs wird in der AS nicht publiziert. Er kann kostenlos abgerufen werden unter www.bazg.admin.ch &gt; Information Firmen &gt; Strassenabgaben, Fahrzeuge, Fahrzeugführende, Reisedokumente &gt; Schwerverkehrsabgaben LSVA und PSVA &gt; LSVA Allgemeines / Tarife &gt; Tankkarten-Anbieter.
+[^t-3]: Fassung gemäss Ziff. II Abs. 2 der V des EFD vom 7. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 454](https://fedlex.data.admin.ch/eli/oc/2024/454)).
+[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/454](https://fedlex.data.admin.ch/eli/oc/2024/454) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung durch Verweis eines Textteils.

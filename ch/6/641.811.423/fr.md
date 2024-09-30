@@ -3,246 +3,91 @@ sr: "641.811.423"
 title: Ordonnance du DFF du 11 février 2020 sur la participation des prestataires de cartes de carburant à la perception de la redevance sur le trafic des poids lourds liée aux prestations (Ordonnance du DFF sur les prestataires de cartes de carburant)
 eli: "https://fedlex.data.admin.ch/eli/cc/2020/83"
 language: fr
-version: 2022-01-01
+version: 2024-10-01
 adopted: 2020-02-11
 in_force: 2020-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/83/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2020-83-20220101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2020/83/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2020/83/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-2020-83-20241001-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2020/83/20241001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance du DFF sur la participation des prestataires du SET et des prestataires de cartes de carburant à la perception de la redevance sur le trafic des poids lourds
+# Ordonnance du DFF sur la participation des prestataires de cartes de carburant à la perception de la redevance sur le trafic des poids lourds liée aux prestations
 
-(Ordonnance du DFF sur les prestataires du SET et les prestataires de cartes de carburant)
+(Ordonnance du DFF sur les prestataires de cartes de carburant)[^t-1]
 
-du 11 février 2020 (État le 1<sup>er</sup> janvier 2022)
+du 11 février 2020 (État le 1<sup>er</sup> octobre 2024)
+
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 7 août 2024, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 454](https://fedlex.data.admin.ch/eli/oc/2024/454)).
 
 Le Département fédéral des finances (DFF),
 
-vu les art. 26*b*, al. 2, 26*c*, al. 3, 2<sup>e</sup> et 3<sup>e</sup> phrases, et 29, al. 2<sup>ter</sup> et 2<sup>quater</sup>, de l’ordonnance du 6 mars 2000 relative à une redevance sur le trafic des poids lourds (ORPL)[^ingress-1],
+vu l’art. 82, al. 4, de l’ordonnance du 27 mars 2024 concernant la redevance sur le trafic des poids lourds[^ingress-1],[^ingress-2]
 
 arrête:
 
 [^ingress-1]: [RS 641.811](https://fedlex.data.admin.ch/eli/cc/2024/150)
+[^ingress-2]: Nouvelle teneur selon le ch. I de l’O du DFF du 7 août 2024, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 454](https://fedlex.data.admin.ch/eli/oc/2024/454)).
 
-## Chapitre 1 Dispositions générales
+## Section 1 Objet
+
+[^sec1-1]
+
+[^sec1-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 7 août 2024, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 454](https://fedlex.data.admin.ch/eli/oc/2024/454)).
 
 #### Art. 1
 
-**Objet**
+La présente ordonnance définit, en ce qui concerne la participation des prestataires de cartes de carburant à la perception de la redevance sur le trafic des poids lourds liée aux prestations (RPLP):
 
-<sup>1</sup>
-
-La présente ordonnance définit, en ce qui concerne la participation des prestataires du SET et des prestataires de cartes de carburant à la perception de la redevance sur le trafic des poids lourds liée aux prestations (RPLP):
-
-- a. les prescriptions techniques et opérationnelles destinées aux prestataires du SET et aux prestataires de cartes de carburant;
-- b. la procédure de contrôle effectuée en vue de l’octroi de l’agrément en tant que prestataire du SET ou prestataire de cartes de carburant;
-- c. le montant de la compensation pour les services que les prestataires du SET et les prestataires de cartes de carburant fournissent à l’Office fédéral de la douane et de la sécurité des frontières (OFDF)[^1-1].
-
-<sup>2</sup>
-
-Les prescriptions techniques et opérationnelles sont définies:
-
-- a. à l’annexe 1, pour les prestataires du SET;
-- b. à l’annexe 2, pour les prestataires de cartes de carburant.
-
-[^1-1]: La désignation de l’unité administrative a été adaptée en application de l’art. 20 al. 2 de l’O du 7 oct. 2015 sur les publications officielles ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), avec effet au 1<sup>er</sup> janv. 2022 ([RO 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Il a été tenu compte de cette mod. dans tout le texte.
+- a. les prescriptions techniques et opérationnelles destinées aux prestataires de cartes de carburant;
+- b. la procédure d’agrément des fournisseurs de cartes de carburant;
+- c. les obligations des prestataires de cartes de carburant;
+- d. le montant de la compensation pour les services que les prestataires de cartes de carburant fournissent à l’Office fédéral de la douane et de la sécurité des frontières (OFDF).
 
 #### Art. 2
 
-**Agrément**
+*Abrogé*
 
-<sup>1</sup> Quiconque souhaite obtenir de l’OFDF un agrément en tant que prestataire du SET ou prestataire de cartes de carburant doit déposer une demande d’agrément auprès de l’OFDF pour le service qu’il entend fournir.
+## Section 2 Prescriptions techniques et opérationnelles
 
-<sup>2</sup> Le requérant doit prouver dans le cadre de la procédure d’agrément qu’il respecte de manière permanente les prescriptions techniques et opérationnelles relatives au service qu’il entend fournir.
+[^sec2-1]
 
-<sup>3</sup> Quiconque dépose une demande d’agrément en tant que prestataire du SET doit désigner un domicile de notification en Suisse.
+[^sec2-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 7 août 2024, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 454](https://fedlex.data.admin.ch/eli/oc/2024/454)).
 
-## Chapitre 2 Prestataires du SET
+#### Art. 2a
 
-### Section 1 Procédure d’agrément
+[^2a-1]
 
-#### Art. 3
+Les prescriptions techniques et opérationnelles destinées aux prestataires de cartes de carburant sont définies à l’annexe 2.
 
-**Étapes**
+[^2a-1]: Introduit par le ch. I de l’O du DFF du 7 août 2024, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 454](https://fedlex.data.admin.ch/eli/oc/2024/454)).
 
-<sup>1</sup>
+#### Art. 3 à 18
 
-La procédure d’agrément comprend quatre étapes successives:
+[^318-1]
 
-- a. étape 1: contrôle du respect des conditions formelles de la demande, du caractère complet du dossier joint à la demande et de la preuve du respect des prescriptions techniques et opérationnelles;
-- b. étape 2: contrôle de l’exploitation dans un environnement de test;
-- c. étape 3: contrôle de la mise en œuvre correcte des processus opérationnels à l’aide de véhicules de test du prestataire du SET dans le cadre d’un test de fonctionnement;
-- d. étape 4: contrôle des performances du prestataire du SET dans l’environnement d’exploitation (projet pilote).
+[^318-1]: Abrogés par le ch. I de l’O du DFF du 7 août 2024, avec effet au 1<sup>er</sup> oct. 2024 ([RO 2024 454](https://fedlex.data.admin.ch/eli/oc/2024/454)).
 
-<sup>2</sup> Le résultat du contrôle effectué doit être positif pour que le contrôle de l’étape suivante puisse être réalisé.
+## Section 3 Procédure d’agrément
 
-<sup>3</sup> Les prescriptions techniques et opérationnelles de l’annexe 1 définissent les différents points devant être contrôlés lors des étapes 2, 3 et 4 ainsi que les critères à remplir.
+[^sec3-1]
 
-#### Art. 4
-
-**Reconnaissance des résultats de test obtenus lors d’autres procédures d’agrément**
-
-L’OFDF ne procède à aucun test lorsque les résultats de test obtenus lors d’une procédure d’agrément effectuée dans un pays de l’Espace économique européen attestent que les exigences techniques et opérationnelles définies à l’annexe 1 sont remplies.
-
-#### Art. 5
-
-**Décision**
-
-<sup>1</sup> Si le prestataire du SET remplit les exigences fixées pour les étapes 1 à 3, l’OFDF conclut avec lui un contrat d’agrément relevant du droit public en vue du projet pilote prévu à l’étape 4.
-
-<sup>2</sup> Si le prestataire du SET remplit également les exigences du projet pilote prévu à l’étape 4, l’OFDF lui octroie, sur la base d’une décision, l’agrément permettant de percevoir la RPLP par voie électronique au moyen du SET.
-
-<sup>3</sup> Si l’OFDF octroie l’agrément, le contrat d’agrément visé à l’al. 1 s’applique également à l’exploitation ordinaire.
-
-<sup>4</sup> Si l’OFDF refuse l’agrément, le contrat d’agrément devient automatiquement caduc sans donner droit à un dédommagement. Tel est le cas également si le requérant dépose un recours contre le refus de l’agrément.
-
-#### Art. 6
-
-**Changement de situation**
-
-<sup>1</sup> L’OFDF peut répéter la procédure de contrôle effectuée en vue de l’octroi de l’agrément ou certaines étapes de cette procédure si la situation du prestataire ou de l’OFDF connaît un changement important.
-
-<sup>2</sup> Le prestataire n’a droit à aucun dédommagement lié à la répétition de la procédure.
-
-#### Art. 7
-
-**Conditions d’agrément cessant d’être remplies et manquements aux obligations**
-
-<sup>1</sup> Si les conditions d’agrément ne sont plus remplies ou si le prestataire manque à des obligations légales ou contractuelles, l’OFDF prend d’abord les mesures prévues dans le contrat d’agrément.
-
-<sup>2</sup> Si ces mesures se soldent par un échec ou semblent inutiles, l’OFDF suspend l’agrément et fixe un délai au prestataire pour remédier aux manquements ou retire l’agrément.
-
-### Section 2 Obligations des prestataires
-
-#### Art. 8
-
-**Information des utilisateurs du SET**
-
-Le prestataire du SET informe l’utilisateur du SET de ses obligations relatives à l’utilisation de l’appareil de saisie agréé, notamment en ce qui concerne l’exactitude de la déclaration de remorque et la procédure en cas de dérangements.
-
-#### Art. 9
-
-**Enregistrement des véhicules à moteur utilisés et de leur détenteur**
-
-<sup>1</sup>
-
-Le prestataire du SET enregistre les données suivantes du détenteur en vue de la perception de la RPLP:
-
-- a. l’identité;
-- b. l’adresse de domicile;
-- c. la langue de correspondance;
-- d. le numéro de contrat.
-
-<sup>2</sup>
-
-Il enregistre en outre les données suivantes concernant les véhicules à moteur utilisés par le détenteur:
-
-- a. la plaque de contrôle et le signe distinctif de nationalité;
-- b. le poids;
-- c. la classe d’émission EURO.
-
-<sup>3</sup> Il met à jour les données enregistrées.
-
-#### Art. 10
-
-**Remise des appareils de saisie et blocage**
-
-<sup>1</sup> Le prestataire du SET remet aux utilisateurs du SET des appareils de saisie individualisés en fonction des véhicules et en état de fonctionner pour percevoir la RPLP.
-
-<sup>2</sup> Le blocage des appareils de saisie relève de la responsabilité du prestataire du SET.
-
-<sup>3</sup> Le prestataire du SET peut signaler périodiquement à l’OFDF les appareils de saisie qui ne doivent plus être utilisés.
-
-#### Art. 11
-
-**Saisie et déclaration du trajet assujetti à la redevance**
-
-<sup>1</sup> Le prestataire du SET saisit, conformément aux prescriptions techniques, les données nécessaires à la perception de la RPLP qui concernent les trajets assujettis à la redevance effectués par ses utilisateurs du SET.
-
-<sup>2</sup> Il transmet spontanément à l’OFDF, conformément aux prescriptions techniques et dans les 24 heures suivant le début du trajet assujetti à la redevance, les données de déclaration nécessaires à la perception de la redevance due pour ce trajet.
-
-<sup>3</sup> Il permet à l’OFDF de consulter sur demande toutes les données et informations nécessaires au contrôle de la déclaration du trajet assujetti à la redevance.
-
-#### Art. 12
-
-**Réception de la taxation**
-
-<sup>1</sup> Le prestataire du SET, en sa qualité de mandataire habilité à recevoir les notifications, réceptionne au nom de la personne assujettie à la redevance, et avec effet pour elle, la taxation établie par l’OFDF.
-
-<sup>2</sup> La taxation est envoyée par voie électronique au prestataire du SET ou sur support papier à son domicile de notification en Suisse.
-
-<sup>3</sup> La transmission de la taxation est déterminée en fonction de la relation existant entre le prestataire du SET et la personne assujettie à la redevance.
-
-#### Art. 13
-
-**Paiement de la redevance**
-
-<sup>1</sup> Le prestataire du SET est tenu de payer la redevance due à l’OFDF, après réception de la facture, dans un délai de 30 jours à compter de la date de facturation.
-
-<sup>2</sup> Il supporte le risque d’encaissement lié à la personne assujettie à la redevance.
-
-<sup>3</sup>
-
-S’il bloque un appareil de saisie, son obligation de payer les redevances générées après le blocage ne s’éteint que:
-
-- a. s’il a annoncé le blocage à l’OFDF, et
-- b. si le blocage est effectif au sens des prescriptions techniques lorsque l’utilisateur du SET entre sur le territoire d’application de la RPLP.
-
-#### Art. 14
-
-**Contestation de taxations**
-
-<sup>1</sup> Si une personne assujettie à la redevance conteste une taxation auprès du prestataire du SET, ce dernier examine la contestation et transmet le résultat de l’examen à l’OFDF s’il ne peut pas régler la contestation lui-même.
-
-<sup>2</sup> Si elle estime la contestation justifiée, l’OFDF rectifie la taxation concernée.
-
-#### Art. 15
-
-**Information de l’OFDF**
-
-<sup>1</sup> Le prestataire du SET informe l’OFDF à l’avance des modifications qu’il entend apporter à ses systèmes et qui sont susceptibles d’avoir des incidences sur le respect des prescriptions.
-
-<sup>2</sup> Il informe immédiatement l’OFDF des conditions d’agrément techniques ou opérationnelles qu’il ne remplit plus.
-
-<sup>3</sup> Il informe l’OFDF à l’avance de l’arrêt de ses activités de prestataire du SET.
-
-#### Art. 16
-
-**Collaboration**
-
-<sup>1</sup> Le prestataire du SET collabore à la mesure des indicateurs relatifs à ses performances.
-
-<sup>2</sup> Il convient avec l’OFDF des éventuelles améliorations nécessaires.
-
-<sup>3</sup> Il collabore à l’introduction d’innovations techniques, pour autant que l’OFDF les ait préalablement annoncées.
-
-#### Art. 17
-
-**Autres obligations**
-
-L’OFDF peut convenir par contrat avec le prestataire du SET d’autres obligations liées au respect des prescriptions techniques ou opérationnelles.
-
-### Section 3 Compensation
-
-#### Art. 18
-
-<sup>1</sup> Tous les services que le prestataire du SET fournit à l’OFDF en lien avec la perception électronique de la RPLP au moyen du SET sont compensés par un forfait.
-
-<sup>2</sup> Le forfait s’élève à 2,7 % des redevances facturées.
-
-<sup>3</sup> Le pourcentage visé à l’al. 2 est vérifié périodiquement, mais au moins tous les cinq ans, et éventuellement adapté à l’évolution de la situation.
-
-## Chapitre 3 Prestataires de cartes de carburant
-
-### Section 1 Procédure d’agrément
+[^sec3-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 7 août 2024, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 454](https://fedlex.data.admin.ch/eli/oc/2024/454)).
 
 #### Art. 19
 
-**Contrôle**
+**Demande d’agrément**[^19-1]
 
-L’OFDF contrôle si la demande d’agrément remplit les conditions formelles, si elle est complète et si le requérant respecte les prescriptions techniques et opérationnelles.
+<sup>1</sup> Quiconque souhaite obtenir un agrément en tant que prestataire de cartes de carburant doit déposer une demande d’agrément auprès de l’OFDF.
+
+<sup>2</sup>
+
+La demande doit comprendre les documents permettant au requérant:
+
+- a. de prouver qu’il remplit les conditions figurant à l’art. 82, al. 2, let. a et c, de l’ordonnance du 27 mars 2024 concernant la redevance sur le trafic des poids lourds;
+- b. d’établir de manière crédible qu’il est en mesure d’observer durablement les prescriptions techniques et opérationnelles fixées à l’annexe 2.
+
+[^19-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 7 août 2024, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 454](https://fedlex.data.admin.ch/eli/oc/2024/454)).
 
 #### Art. 20
 
@@ -258,7 +103,11 @@ Si le prestataire de cartes de carburant respecte les conditions formelles et le
 
 <sup>2</sup> Le prestataire n’a droit à aucun dédommagement lié à la répétition de la procédure.
 
-### Section 2 Obligations des prestataires
+## Section 4 Obligations des prestataires de cartes de carburant
+
+[^sec4-1]
+
+[^sec4-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 7 août 2024, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 454](https://fedlex.data.admin.ch/eli/oc/2024/454)).
 
 #### Art. 22
 
@@ -309,7 +158,11 @@ S’il bloque une carte, son obligation de payer les redevances générées apr�
 
 L’OFDF peut convenir par contrat avec le prestataire de cartes de carburant d’autres obligations liées au respect des prescriptions techniques ou opérationnelles.
 
-### Section 3 Compensation
+## Section 5 Compensation
+
+[^sec5-1]
+
+[^sec5-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 7 août 2024, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 454](https://fedlex.data.admin.ch/eli/oc/2024/454)).
 
 #### Art. 27
 
@@ -319,7 +172,11 @@ L’OFDF peut convenir par contrat avec le prestataire de cartes de carburant d�
 
 <sup>3</sup> Le pourcentage visé à l’al. 2 est vérifié périodiquement, mais au moins tous les cinq ans, et éventuellement adapté à l’évolution de la situation.
 
-## Chapitre 4 Dispositions finales
+## Section 6 Dispositions finales
+
+[^sec6-1]
+
+[^sec6-1]: Nouvelle teneur selon le ch. I de l’O du DFF du 7 août 2024, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 454](https://fedlex.data.admin.ch/eli/oc/2024/454)).
 
 #### Art. 28
 
@@ -333,22 +190,17 @@ Les contrats conclus avec les prestataires de cartes de carburant avant l’entr
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> mars 2020.
 
-Annexe 1
+Annexe 1[^t-2]
 
-(art. 1, al. 2, let. a, 4, al. 3, et 4*a*)
+[^t-2]: Abrogée par le ch. II al. 1 de l’O du DFF du 7 août 2024, avec effet au 1<sup>er</sup> oct. 2024 ([RO 2024 454](https://fedlex.data.admin.ch/eli/oc/2024/454)).
 
-## Prescriptions techniques et opérationnelles destinées aux prestataires du SET
+Annexe 2[^t-3]
 
-[^annex1-lvlu1-1]
-
-[^annex1-lvlu1-1]: Le texte de cette annexe n’est pas publié dans le RO. Il peut être téléchargé gratuitement à l’adresse suivante: www.bazg.admin.ch &gt; Infos pour entreprises &gt; [Redevances routières, véhicules, conducteurs, documents de voyage](https://www.ezv.admin.ch/ezv/fr/home/infos-pour-entreprises/transport--document-de-voyage--redevances-routieres.html) &gt; [Redevances sur le trafic des poids lourds (RPLP et RPLF)](https://www.ezv.admin.ch/ezv/fr/home/infos-pour-entreprises/transport--document-de-voyage--redevances-routieres/redevances-sur-le-trafic-des-poids-lourds--rplp-et-rplf-.html) &gt; [RPLP - Généralités Tarifs](https://www.ezv.admin.ch/ezv/fr/home/infos-pour-entreprises/transport--document-de-voyage--redevances-routieres/redevances-sur-le-trafic-des-poids-lourds--rplp-et-rplf-/rplp---generalites---tarifs.html) &gt; Prestataires SET.
-
-Annexe 2
-
-(art. 1, al. 2, let. b)
+(art. 2*a* et 19, al. 2, let. b)
 
 ## Prescriptions techniques et opérationnelles destinées aux prestataires de cartes de carburant
 
 [^annex2-lvlu1-1]
 
-[^annex2-lvlu1-1]: Le texte de cette annexe n’est pas publié dans le RO. Il peut être téléchargé gratuitement à l’adresse suivante: www.bazg.admin.ch &gt; Infos pour entreprises &gt; [Redevances routières, véhicules, conducteurs, documents de voyage](https://www.ezv.admin.ch/ezv/fr/home/infos-pour-entreprises/transport--document-de-voyage--redevances-routieres.html) &gt; [Redevances sur le trafic des poids lourds (RPLP et RPLF)](https://www.ezv.admin.ch/ezv/fr/home/infos-pour-entreprises/transport--document-de-voyage--redevances-routieres/redevances-sur-le-trafic-des-poids-lourds--rplp-et-rplf-.html) &gt; [RPLP - Généralités Tarifs](https://www.ezv.admin.ch/ezv/fr/home/infos-pour-entreprises/transport--document-de-voyage--redevances-routieres/redevances-sur-le-trafic-des-poids-lourds--rplp-et-rplf-/rplp---generalites---tarifs.html) &gt; Prestataires cartes de carburant.
+[^t-3]: Nouvelle teneur selon le ch. II al. 2 de l’O du DFF du 7 août 2024, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 454](https://fedlex.data.admin.ch/eli/oc/2024/454)).
+[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/454](https://fedlex.data.admin.ch/eli/oc/2024/454) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
