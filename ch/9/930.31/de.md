@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 29. September 2023 über die Entlastung der Unternehmen
 short: UEG
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/118"
 language: de
-version: 2024-04-01
+version: 2024-10-01
 adopted: 2023-09-29
 in_force: 2024-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/118/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2024-118-20240401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/118/20240401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/118/20241001/de/xml/fedlex-data-admin-ch-eli-cc-2024-118-20241001-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/118/20241001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/118/20240401/de"
 
 (Unternehmensentlastungsgesetz, UEG)
 
-vom 29. September 2023 (Stand am 1. April 2024)
+vom 29. September 2023 (Stand am 1. Oktober 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -28,29 +28,108 @@ beschliesst:
 [^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^ingress-2]: [BBl 2023 166](https://fedlex.data.admin.ch/eli/fga/2023/166)
 
-## 1. Abschnitt: …
+## 1. Abschnitt: Regulierungsgrundsätze
 
-#### Art. 1–3
+#### Art. 1
 
-[^13-1]
+**Rechtsetzung**
 
-[^13-1]: Treten am 1. Okt. 2024 in Kraft.
+Der Bund wirkt bei seinen rechtssetzenden Erlassen darauf hin, dass die Regulierung volkswirtschaftlich effizient ist und die Unternehmen wenig belastet. Er beachtet dabei insbesondere die folgenden Grundsätze:
 
-## 2. Abschnitt: …
+- a. Es wird diejenige Regulierungsvariante mit dem besten Kosten-Nutzen-Verhältnis für die Volkswirtschaft gewählt.
+- b. Die Belastung von Unternehmen durch Regulierungskosten wird frühzeitig im Rechtsetzungsprozess analysiert und transparent ausgewiesen.
+- c. Kleine und mittlere Unternehmen werden nicht übermässig belastet.
+- d. Die Regulierungen werden innovationsfreundlich und technologieneutral ausgestaltet.
+- e. Die Regulierungen werden wettbewerbsneutral ausgestaltet; tatsächliche oder potenzielle Wettbewerbsverzerrungen zwischen Unternehmen werden vermieden.
+- f. Die Erlasse werden sachgerecht, klar und bürgerfreundlich formuliert.
 
-#### Art. 4 und 5
+#### Art. 2
 
-[^45-1]
+**Vollzug**
 
-[^45-1]: Treten am 1. Okt. 2024 in Kraft.
+Der Bund gestaltet den Vollzug seiner rechtsetzenden Erlasse so aus, dass die Unternehmen administrativ möglichst wenig belastet werden. Er beachtet dabei insbesondere die folgenden Grundsätze:
 
-## 3. Abschnitt: …
+- a. Die Anzahl der Stellen, an die sich die Unternehmen wenden müssen, wird möglichst gering gehalten.
+- b. Die Regelungen werden den Unternehmen in einer sachgerechten, klaren und bürgerfreundlichen Form vermittelt.
+- c. Erstinstanzliche wirtschaftsrechtliche Verfahren werden schnell und einfach durchgeführt; die Verfahrensdauer wird durch Ordnungsfristen beschränkt.
+- d. Bei den Behördenkontakten werden die Möglichkeiten elektronischer Mittel vollumfänglich genutzt.
+- e. Formulare werden einheitlich und einfach ausgestaltet.
+- f. Unternehmen werden risikobasiert kontrolliert.
 
-#### Art. 6–8
+#### Art. 3
 
-[^68-1]
+**Überprüfung**
 
-[^68-1]: Treten am 1. Okt. 2024 in Kraft.
+<sup>1</sup> Das geltende Recht und sein Vollzug werden regelmässig auf Möglichkeiten der Entlastung der Unternehmen von Regulierungskosten überprüft.
+
+<sup>2</sup> Bei Überprüfungen des geltenden Rechts wird auch dessen Wirtschaftlichkeit berücksichtigt.
+
+## 2. Abschnitt: Ausarbeitung von Erlassen
+
+#### Art. 4
+
+**Prüfpflichten**
+
+<sup>1</sup>
+
+Die verantwortlichen Einheiten der Bundesverwaltung prüfen bei der Ausarbeitung von rechtsetzenden Erlassen des Bundes, ob:
+
+- a. für die kleinen und mittleren Unternehmen vereinfachte oder kostengünstigere Regelungen vorgesehen werden können;
+- b. höhere regulatorische Anforderungen als bei vergleichbaren Regulierungen im Ausland vermieden werden können;
+- c. der Vollzug der Regulierungen mit elektronischen Mitteln vereinfacht werden kann;
+- d. die betroffenen Unternehmen durch die Aufhebung von Regulierungen im gleichen Bereich entlastet werden können.
+
+<sup>2</sup> Die Ergebnisse dieser Prüfungen sind im erläuternden Bericht zur Vernehmlassung und in der Botschaft des Bundesrates festzuhalten. Werden in Absatz 1 genannte Möglichkeiten zur Entlastung der Unternehmen nicht genutzt, so ist dies im Bericht und in der Botschaft zu begründen.
+
+#### Art. 5
+
+**Regulierungskostenschätzung**
+
+<sup>1</sup> Die verantwortlichen Einheiten der Bundesverwaltung schätzen bei der Ausarbeitung von rechtsetzenden Erlassen des Bundes die einmaligen und wiederkehrenden Kosten, die den Unternehmen als Folge der Auferlegung von Handlungs-, Duldungs- oder Unterlassungspflichten entstehen. Das Eidgenössische Departement für Wirtschaft, Bildung und Forschung stellt die methodischen Grundlagen zur Verfügung.
+
+<sup>2</sup> Die geschätzten Kosten werden im Antrag an den Bundesrat, im erläuternden Bericht zur Vernehmlassung und in der Botschaft des Bundesrates ausgewiesen. Sie werden soweit möglich dem erwarteten Nutzen der Regulierung gegenübergestellt.
+
+<sup>3</sup> Die geschätzten Kosten werden soweit möglich in Zahlen dargestellt. Wenn dies nicht möglich ist, so müssen die Gründe dafür angegeben und die betreffenden Kosten beschrieben werden.
+
+<sup>4</sup> Die verantwortlichen Einheiten aktualisieren die Ergebnisse der Regulierungskostenschätzung im Verlauf des Rechtsetzungsprozesses. Sie melden die Ergebnisse der Aktualisierungen der Stelle, die für das Monitoring der Belastung durch Regulierungskosten verantwortlich ist.
+
+## 3. Abschnitt: Monitoring und Bereichsstudien
+
+#### Art. 6
+
+**Monitoring der Belastung durch Regulierungskosten**
+
+<sup>1</sup> Der Bundesrat überwacht die Entwicklung der Belastung von Unternehmen durch Regulierungskosten.
+
+<sup>2</sup> Er bezeichnet die für das Monitoring verantwortliche Stelle.
+
+#### Art. 7
+
+**Bereichsstudien**
+
+<sup>1</sup> Der Bundesrat bezeichnet in seinen Jahreszielen drei bis fünf Regulierungsbereiche, die im Rahmen einer externen Studie daraufhin überprüft werden, ob sie Entlastungspotenzial für Unternehmen aufweisen (Bereichsstudie).
+
+<sup>2</sup> Die Departemente schlagen dem Bundesrat jährlich mindestens einen Regulierungsbereich, für den sie zuständig sind, für eine Bereichsstudie vor.
+
+<sup>3</sup> Die Kantone und die gesamtschweizerischen Wirtschaftsdachverbände können dem Bundesrat Regulierungsbereiche vorschlagen, die überprüft werden sollen.
+
+<sup>4</sup> Die Bereichsstudien zeigen mögliche Verbesserungsmassnahmen und deren volkswirtschaftliche Auswirkungen auf. Sie werden veröffentlicht.
+
+<sup>5</sup> Die Departemente legen die Ergebnisse der Bereichsstudien dem Bundesrat vor und stellen ihm Antrag über das weitere Vorgehen.
+
+#### Art. 8
+
+**Berichterstattung**
+
+<sup>1</sup> Der Bundesrat unterbreitet der Bundesversammlung alle vier Jahre einen Bericht zur Entlastung der Unternehmen von Regulierungskosten.
+
+<sup>2</sup>
+
+Der Bericht des Bundesrates enthält:
+
+- a. die Ergebnisse des Monitorings der Belastung von Unternehmen durch Regulierungskosten;
+- b. die Entlastungsvorschläge aus den durchgeführten Bereichsstudien;
+- c. eine Zusammenfassung der Massnahmen des Bundesrates zur Entlastung von Unternehmen von Regulierungskosten.
 
 ## 4. Abschnitt: Elektronische Plattform zur Erbringung von Behördenleistungen
 
@@ -172,9 +251,11 @@ Der Bundesrat erlässt die Ausführungsbestimmungen.
 
 #### Art. 21
 
-[^21-1]
+**Änderung eines anderen Erlasses**
 
-[^21-1]: Tritt am 1. Okt. 2024 in Kraft.
+…[^21-1]
+
+[^21-1]: Die Änderung kann unter [AS 2024 118](https://fedlex.data.admin.ch/eli/oc/2024/118)konsultiert werden.
 
 #### Art. 22
 
@@ -184,9 +265,9 @@ Der Bundesrat erlässt die Ausführungsbestimmungen.
 
 <sup>2</sup> Der Bundesrat bestimmt das Inkrafttreten.
 
-<sup>3</sup> …[^22-1]
+<sup>3</sup> Der 3. Abschnitt (Art. 6–8) gilt während zehn Jahren ab Inkrafttreten.[^22-1]
 
 Datum des Inkrafttretens:[^22-2] Art. 9, 10, 12–20 und 22 Abs. 1 und 2: 1. April 2024 Art. 1–8, 21 und 22 Abs. 3: 1. Okober 2024 Art. 11: zu einem späteren Zeitpunkt
 
-[^22-1]: Tritt am 1. Okt. 2024 in Kraft.
+[^22-1]: Bis zum 30. Sept. 2034.
 [^22-2]: BRB vom 15. März 2024

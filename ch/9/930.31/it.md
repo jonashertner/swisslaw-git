@@ -4,11 +4,11 @@ title: "Legge federale del 29 settembre 2023 sullo sgravio delle imprese dai cos
 short: LSgrI
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/118"
 language: it
-version: 2024-04-01
+version: 2024-10-01
 adopted: 2023-09-29
 in_force: 2024-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/118/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2024-118-20240401-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/118/20240401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/118/20241001/it/xml/fedlex-data-admin-ch-eli-cc-2024-118-20241001-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/118/20241001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/118/20240401/it"
 
 (Legge sullo sgravio delle imprese, LSgrI)
 
-del 29 settembre 2023 (Stato 1° aprile 2024)
+del 29 settembre 2023 (Stato 1° ottobre 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -28,29 +28,108 @@ decreta:
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^ingress-2]: [FF 2023 166](https://fedlex.data.admin.ch/eli/fga/2023/166)
 
-## Sezione 1: ...
+## Sezione 1: Emanazione di norme: principi
 
-#### Art. 1 a 3
+#### Art. 1
 
-[^13-1]
+**Legislazione**
 
-[^13-1]: In vigore dal 1° ott. 2024.
+La Confederazione si adopera affinché nei suoi atti normativi la regolamentazione sia efficiente per l’economia nel suo insieme e poco onerosa per le imprese. In particolare, osserva i seguenti principi:
 
-## Sezione 2: ...
+- a. la scelta ricade sulla variante normativa che presenta il miglior rapporto costi-benefici per l’economia nel suo insieme;
+- b. l’onere dei costi della regolamentazione per le imprese è analizzato in modo trasparente nella fase iniziale del processo legislativo;
+- c. l’onere per le piccole e medie imprese non è sproporzionato;
+- d. la regolamentazione è concepita in modo da favorire l’innovazione ed essere tecnologicamente neutrale;
+- e. la regolamentazione è concepita in modo da non influire sulla concorrenza e da non produrre distorsioni della stessa, siano esse effettive o potenziali, tra le imprese;
+- f. gli atti normativi sono redatti in modo appropriato, chiaro e conforme alle esigenze dei destinatari.
 
-#### Art. 4 e 5
+#### Art. 2
 
-[^45-1]
+**Esecuzione**
 
-[^45-1]: In vigore dal 1° ott. 2024.
+La Confederazione imposta l’esecuzione dei suoi atti normativi in modo da ridurre al minimo l’onere amministrativo per le imprese. In particolare, osserva i seguenti principi:
 
-## Sezione 3: ...
+- a. il numero di enti a cui le imprese devono rivolgersi è ridotto al minimo;
+- b. le norme sono comunicate alle imprese in modo appropriato, chiaro e conforme alle esigenze dei destinatari;
+- c. le procedure di primo grado del diritto dell’economia sono eseguite in modo rapido e semplice; la loro durata è limitata mediante termini ordinatori;
+- d. per i contatti con le autorità sono sfruttate tutte le possibilità offerte dai mezzi elettronici;
+- e. i moduli sono uniformi e semplici;
+- f. il controllo sulle imprese è esercitato in funzione dei rischi.
 
-#### Art. 6 a 8
+#### Art. 3
 
-[^68-1]
+**Valutazione**
 
-[^68-1]: In vigore dal 1° ott. 2024.
+<sup>1</sup> Il diritto vigente e la sua esecuzione sono periodicamente sottoposti a verifica per individuare le possibilità di sgravio delle imprese dai costi della regolamentazione.
+
+<sup>2</sup> Le verifiche del diritto vigente esaminano anche l’economicità.
+
+## Sezione 2: Elaborazione degli atti normativi
+
+#### Art. 4
+
+**Obblighi di verifica**
+
+<sup>1</sup>
+
+Nell’elaborazione degli atti normativi federali, le unità responsabili dell’Amministrazione federale verificano se:
+
+- a. per le piccole e medie imprese possano essere previste norme semplificate o comportanti costi inferiori;
+- b. si possa fare a meno di prevedere requisiti più severi rispetto a quelli previsti da regolamentazioni comparabili di altri Paesi;
+- c. l’esecuzione della regolamentazione possa essere semplificata con l’ausilio di mezzi elettronici;
+- d. l’abrogazione di una regolamentazione nello stesso settore consenta lo sgravio delle imprese interessate.
+
+<sup>2</sup> I risultati di tali verifiche sono riportati nel rapporto esplicativo posto in consultazione e nel messaggio del Consiglio federale. Se le possibilità di sgravio delle imprese di cui al capoverso 1 non vengono sfruttate, nel rapporto esplicativo e nel messaggio occorre indicarne i motivi.
+
+#### Art. 5
+
+**Stima dei costi della regolamentazione**
+
+<sup>1</sup> Nell’elaborazione degli atti normativi federali, le unità responsabili dell’Amministrazione federale stimano i costi unici e i costi ricorrenti a carico delle imprese derivanti dagli obblighi di fare, tollerare o astenersi. Il Dipartimento federale dell’economia, della formazione e della ricerca fornisce le basi metodologiche.
+
+<sup>2</sup> I costi stimati sono riportati nella proposta al Consiglio federale, nel rapporto esplicativo posto in consultazione e nel messaggio del Consiglio federale. Per quanto possibile, i costi sono rapportati ai benefici attesi dalla regolamentazione.
+
+<sup>3</sup> I costi stimati sono per quanto possibile espressi in cifre. Se ciò non è fattibile, sono esposti in forma descrittiva e indicando il motivo per cui non possono essere espressi in cifre.
+
+<sup>4</sup> Nel corso del processo legislativo le unità responsabili aggiornano i risultati della stima dei costi della regolamentazione. Riferiscono l’esito degli aggiornamenti al servizio cui compete il monitoraggio dell’onere derivante dalla regolamentazione.
+
+## Sezione 3: Monitoraggio e studi settoriali
+
+#### Art. 6
+
+**Monitoraggio dell’onere derivante dai costi della regolamentazione**
+
+<sup>1</sup> Il Consiglio federale monitora l’evoluzione dei costi della regolamentazione per le imprese.
+
+<sup>2</sup> Designa il servizio responsabile del monitoraggio.
+
+#### Art. 7
+
+**Studi settoriali**
+
+<sup>1</sup> Nei suoi obiettivi annuali, il Consiglio federale designa da tre a cinque settori da sottoporre a una valutazione esterna finalizzata a determinare se sussista un potenziale di sgravio per le imprese (studi settoriali).
+
+<sup>2</sup> Ogni anno i dipartimenti propongono al Consiglio federale lo svolgimento di uno studio settoriale in almeno un settore di loro competenza.
+
+<sup>3</sup> I Cantoni e le associazioni mantello nazionali dell’economia possono proporre al Consiglio federale settori da sottoporre a valutazione.
+
+<sup>4</sup> Gli studi settoriali presentano le possibili misure di miglioramento e ne descrivono l’impatto sull’economia nel suo insieme. Sono pubblicati.
+
+<sup>5</sup> I dipartimenti sottopongono i risultati degli studi settoriali al Consiglio federale e presentano una proposta sul seguito da darvi.
+
+#### Art. 8
+
+**Rapporto**
+
+<sup>1</sup> Ogni quattro anni il Consiglio federale sottopone all’Assemblea federale un rapporto sullo sgravio delle imprese dai costi della regolamentazione.
+
+<sup>2</sup>
+
+Il rapporto contiene:
+
+- a. i risultati del monitoraggio dei costi della regolamentazione per le imprese;
+- b. le proposte di sgravio formulate negli studi settoriali;
+- c. un riepilogo delle misure adottate dal Consiglio federale per sgravare le imprese dai costi della regolamentazione.
 
 ## Sezione 4: Piattaforma elettronica per i servizi offerti dalle autorità
 
@@ -172,9 +251,9 @@ Il Consiglio federale emana le disposizioni di esecuzione.
 
 #### Art. 21
 
-[^21-1]
+...[^21-1]
 
-[^21-1]: In vigore dal 1° ott. 2024.
+[^21-1]: La mod. può essere consultata alla [RU 2024 118](https://fedlex.data.admin.ch/eli/oc/2024/118).
 
 #### Art. 22
 
@@ -184,9 +263,9 @@ Il Consiglio federale emana le disposizioni di esecuzione.
 
 <sup>2</sup> Il Consiglio federale ne determina l’entrata in vigore.
 
-<sup>3</sup> ... [^22-1]
+<sup>3</sup> La sezione 3 (art. 6–8) ha effetto per i dieci anni successivi all’entrata in vigore.[^22-1]
 
-Data dell’entrata in vigore[^22-2] Art. 9, 10, 12-20 e 22 cpv. 1 e 2: 1° aprile 2024 Art. 1-8 e 22 cpv. 3: 1° ottobre 2024 Art 11: in un secondo tempo
+Data dell’entrata in vigore[^22-2] Art. 9, 10, 12-20 e 22 cpv. 1 e 2: 1° aprile 2024 Art. 1-8 , 21 e 22 cpv. 3: 1° ottobre 2024 Art 11: in un secondo tempo
 
-[^22-1]: In vigore dal 1° ott. 2024.
+[^22-1]: In vigore fino al 30 set. 2034.
 [^22-2]: DCF del 15 mar. 2024.

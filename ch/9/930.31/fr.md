@@ -4,11 +4,11 @@ title: Loi fédérale du 29 septembre 2023 sur l’allégement des coûts de la 
 short: LACRE
 eli: "https://fedlex.data.admin.ch/eli/cc/2024/118"
 language: fr
-version: 2024-04-01
+version: 2024-10-01
 adopted: 2023-09-29
 in_force: 2024-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/118/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2024-118-20240401-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2024/118/20240401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2024/118/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-2024-118-20241001-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2024/118/20241001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2024/118/20240401/fr"
 
 (LACRE)
 
-du 29 septembre 2023 (État le 1<sup>er</sup> avril 2024)
+du 29 septembre 2023 (État le 1<sup>er</sup> octobre 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -28,29 +28,108 @@ arrête:
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
 [^ingress-2]: [FF 2023 166](https://fedlex.data.admin.ch/eli/fga/2023/166)
 
-## Section 1 …
+## Section 1 Principes de bonne réglementation
 
-#### Art. 1 à 3
+#### Art. 1
 
-[^13-1]
+**Législation**
 
-[^13-1]: Entrent en vigueur le 1<sup>er</sup> oct. 2024.
+La Confédération veille à ce que les actes normatifs fédéraux soient efficients sous l’angle économique et entraînent une faible charge pour les entreprises. Elle respecte notamment les principes suivants:
 
-## Section 2 …
+- a. retenir l’option qui offre le meilleur rapport coût-utilité pour l’économie dans son ensemble;
+- b. analyser de manière transparente, à un stade précoce du processus législatif, les coûts de la réglementation pesant sur les entreprises (charge réglementaire);
+- c. ne pas faire peser une charge disproportionnée sur les petites et moyennes entreprises;
+- d. concevoir une réglementation qui soit favorable à l’innovation et technologiquement neutre;
+- e. concevoir une réglementation qui soit neutre du point de vue de la concurrence et évite les distorsions, effectives ou potentielles;
+- f. formuler les actes de façon adéquate, claire et compréhensible.
 
-#### Art. 4 et 5
+#### Art. 2
 
-[^45-1]
+**Exécution**
 
-[^45-1]: Entrent en vigueur le 1<sup>er</sup> oct. 2024.
+La Confédération conçoit l’exécution des actes normatifs fédéraux de façon à limiter le plus possible la charge administrative pour les entreprises. Elle respecte notamment les principes suivants:
 
-## Section 3 …
+- a. limiter autant que possible le nombre d’interlocuteurs auxquels les entreprises doivent s’adresser;
+- b. communiquer aux entreprises les règles applicables de façon adéquate, claire et compréhensible;
+- c. exécuter simplement et rapidement les procédures de première instance de droit de l’économie et limiter leur durée au moyen de délais d’ordre;
+- d. exploiter pleinement les possibilités qu’offrent les moyens électroniques dans les interactions avec les autorités;
+- e. concevoir des formulaires simples et uniformes;
+- f. contrôler les entreprises en fonction des risques.
 
-#### Art. 6 à 8
+#### Art. 3
 
-[^68-1]
+**Évaluation**
 
-[^68-1]: Entrent en vigueur le 1<sup>er</sup> oct. 2024.
+<sup>1</sup> Le droit en vigueur et son exécution sont régulièrement évalués en vue d’identifier les possibilités d’alléger les coûts de la réglementation pour les entreprises.
+
+<sup>2</sup> L’évaluation du droit en vigueur doit tenir compte de son caractère économique.
+
+## Section 2 Élaboration des actes
+
+#### Art. 4
+
+**Vérifications préalables**
+
+<sup>1</sup>
+
+Les unités responsables de l’administration fédérale vérifient lors de l’élaboration des actes normatifs fédéraux:
+
+- a. si les petites et moyennes entreprises peuvent être soumises à des règles simplifiées ou engendrant moins de coûts;
+- b. si la réglementation n’impose pas des exigences plus élevées aux entreprises que les réglementations étrangères comparables;
+- c. si des moyens électroniques peuvent simplifier l’exécution de la réglementation;
+- d. si l’abrogation d’autres réglementations dans le même domaine peut alléger la charge réglementaire.
+
+<sup>2</sup> Les résultats de ces vérifications sont présentés dans le rapport explicatif destiné à la consultation et dans le message du Conseil fédéral. Si les possibilités d’allégement de la charge réglementaire visées à l’al. 1 ne sont pas exploitées, le rapport explicatif et le message doivent le justifier.
+
+#### Art. 5
+
+**Estimation des coûts de la réglementation**
+
+<sup>1</sup> Lors de l’élaboration des actes normatifs fédéraux, les unités responsables de l’administration fédérale estiment les coûts uniques et les coûts récurrents que les entreprises devront assumer parce qu’elles seront contraintes à agir, à tolérer une action ou à s’abstenir d’une action. Le Département fédéral de l’économie, de la formation et de la recherche fournit les bases méthodologiques utiles.
+
+<sup>2</sup> Les unités responsables de l’administration fédérale présentent les coûts estimés dans la proposition au Conseil fédéral, dans le rapport explicatif destiné à la consultation et dans le message du Conseil fédéral. Dans la mesure du possible, elles mettent les coûts en relation avec l’utilité attendue de la réglementation.
+
+<sup>3</sup> Elles chiffrent autant que possible les coûts estimés. Si cela n’est pas possible, elles doivent en indiquer les raisons et décrire les coûts concernés.
+
+<sup>4</sup> Elles mettent à jour les résultats de l’estimation au cours du processus législatif. Elles informent l’unité responsable du suivi de la charge réglementaire des résultats de ces mises à jour.
+
+## Section 3 Suivi et études sectorielles
+
+#### Art. 6
+
+**Suivi de la charge réglementaire**
+
+<sup>1</sup> Le Conseil fédéral suit l’évolution de la charge réglementaire.
+
+<sup>2</sup> Il désigne l’unité responsable du suivi.
+
+#### Art. 7
+
+**Études sectorielles**
+
+<sup>1</sup> Le Conseil fédéral désigne dans ses objectifs annuels trois à cinq domaines qui sont soumis à une évaluation externe en vue de déterminer le potentiel d’allégement des coûts de la réglementation pour les entreprises (étude sectorielle).
+
+<sup>2</sup> Les départements proposent chaque année au Conseil fédéral au moins un domaine relevant de leur compétence pour une étude sectorielle.
+
+<sup>3</sup> Les cantons et les associations faîtières de l’économie qui œuvrent au niveau national peuvent aussi faire des propositions au Conseil fédéral.
+
+<sup>4</sup> Les études sectorielles présentent les améliorations possibles et leurs conséquences pour l’économie dans son ensemble. Elles sont publiées.
+
+<sup>5</sup> Les départements soumettent les résultats des études sectorielles au Conseil fédéral et lui font une proposition sur les suites à donner.
+
+#### Art. 8
+
+**Rapport**
+
+<sup>1</sup> Le Conseil fédéral remet tous les quatre ans à l’Assemblée fédérale un rapport sur l’allégement des coûts de la réglementation pour les entreprises.
+
+<sup>2</sup>
+
+Le rapport contient:
+
+- a. les résultats du suivi de la charge réglementaire;
+- b. les propositions d’allégement formulées dans les études sectorielles;
+- c. une synthèse des mesures prises par le Conseil fédéral en matière d’allégement des coûts de la réglementation pour les entreprises.
 
 ## Section 4 Guichet virtuel pour les prestations administratives
 
@@ -172,9 +251,11 @@ Le Conseil fédéral édicte les dispositions d’exécution.
 
 #### Art. 21
 
-[^21-1]
+**Modification d’un autre acte**
 
-[^21-1]: Entre en vigueur le 1<sup>er</sup> oct. 2024.
+…[^21-1]
+
+[^21-1]: La mod. peut être consultée au [RO 2024 118](https://fedlex.data.admin.ch/eli/oc/2024/118).
 
 #### Art. 22
 
@@ -184,9 +265,9 @@ Le Conseil fédéral édicte les dispositions d’exécution.
 
 <sup>2</sup> Le Conseil fédéral fixe la date de l’entrée en vigueur.
 
-<sup>3</sup> …[^22-1]
+<sup>3</sup> La section 3 (art. 6 à 8) a effet pendant dix ans à compter de l’entrée en vigueur.[^22-1]
 
 Date de l’entrée en vigueur[^22-2]: Art. 9, 10, 12 à 20 et 22, al. 1 et 2: 1<sup>er</sup> avril 2024 Art. 1 à 8, 21 et 22, al. 3: 1<sup>er</sup> octobre 2024 Art. 11: entre en vigueur ultérieurement
 
-[^22-1]: Entre en vigueur le 1<sup>er</sup> oct. 2024.
+[^22-1]: En vigueur jusqu’au 30 sept. 2034.
 [^22-2]: ACF du 15 mars 2024
