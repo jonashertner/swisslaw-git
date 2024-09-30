@@ -4,11 +4,11 @@ title: Zollverordnung vom 1. November 2006 (ZV)
 short: ZV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/250"
 language: de
-version: 2024-02-01
+version: 2024-10-01
 adopted: 2006-11-01
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/250/20240201/de/xml/fedlex-data-admin-ch-eli-cc-2007-250-20240201-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20240201/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/250/20241001/de/xml/fedlex-data-admin-ch-eli-cc-2007-250-20241001-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20241001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20240201/de"
 
 (ZV)
 
-vom 1. November 2006 (Stand am 1. Februar 2024)
+vom 1. November 2006 (Stand am 1. Oktober 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -25,8 +25,8 @@ gestützt auf das Zollgesetz vom 18. März 2005[^ingress-1] (ZG) und auf Artikel
 
 verordnet:
 
-[^ingress-1]: [SR 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^ingress-2]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^ingress-1]: [SR 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^ingress-2]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 [^ingress-3]: Fassung gemäss Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
 ## 1. Titel: Grundlagen des Zollwesens
@@ -118,9 +118,9 @@ Die Zollbefreiung von Waren für institutionelle Begünstigte und Personen nach 
 - a. der Verordnung vom 23. August 1989[^6-2] über Zollvorrechte der diplomatischen Missionen in Bern und der konsularischen Posten in der Schweiz;
 - b. der Verordnung vom 13. November 1985[^6-3] über Zollvorrechte der internationalen Organisationen, der Staaten in ihren Beziehungen zu diesen Organisationen und der Sondermissionen fremder Staaten.[^6-4]
 
-[^6-1]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-[^6-2]: [SR 631.144.0](https://fedlex.data.admin.ch/eli/cc/1989/1781_1781_1781)
-[^6-3]: [SR 631.145.0](https://fedlex.data.admin.ch/eli/cc/1985/1819_1819_1819)
+[^6-1]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
+[^6-2]: [SR 631.144.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7833)
+[^6-3]: [SR 631.145.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7834)
 [^6-4]: Fassung gemäss Anhang Ziff. 7 der Gaststaatverordnung vom 7. Dez. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
 
 #### Art. 7
@@ -283,7 +283,7 @@ Als Ausstattungsgut gelten:
 
 <sup>6</sup> Der Heirat gleichgestellt sind eingetragene Partnerschaften nach dem Partnerschaftsgesetz vom 18. Juni 2004[^15-1] oder im Ausland geschlossene gleichartige Lebensgemeinschaften.[^15-2]
 
-[^15-1]: [SR 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^15-1]: [SR 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 [^15-2]: Eingefügt durch Ziff. I der V vom 27. Juni 2012, in Kraft seit 1. Aug. 2012 ([AS 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
 
 #### Art. 16
@@ -327,7 +327,7 @@ Als Erbschaftsgut gelten:
 
 <sup>3</sup> Das Gesuch um Zollbefreiung muss vor der Einfuhr bei der Zollkreisdirektion eingereicht werden.[^17-2]
 
-[^17-1]: [SR 851.1](https://fedlex.data.admin.ch/eli/cc/1978/221_221_221)
+[^17-1]: [SR 851.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10359)
 [^17-2]: Fassung gemäss Ziff. I der V vom 22. April 2009, in Kraft seit 1. Juni 2009 ([AS 2009 1661](https://fedlex.data.admin.ch/eli/oc/2009/243)).
 
 #### Art. 18
@@ -347,7 +347,7 @@ Zollfrei sind Motorfahrzeuge für invalide Personen, die:
 
 <sup>3</sup> Das Gesuch um Zollbefreiung muss bei der Zollkreisdirektion eingereicht werden. Die Zollbefreiung wird innerhalb von sechs Jahren nur einmal gewährt.
 
-[^18-1]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^18-1]: [SR 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 
 #### Art. 19
 
@@ -706,7 +706,7 @@ Das BAZG kann im Zollgebiet ansässigen Vermietungsunternehmen die Vermietung vo
 
 Behälter nach dem Zollabkommen vom 2. Dezember 1972[^37-1] über Behälter von 1972 dürfen nach einer grenzüberschreitenden Verwendung für einen einzigen Transport innerhalb des Zollgebiets verwendet werden (Art. 9 Abs. 1 und Anlage 3 des Zollabkommens).
 
-[^37-1]: [SR 0.631.250.112](https://fedlex.data.admin.ch/eli/cc/1977/647_647_647)
+[^37-1]: [SR 0.631.250.112](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2055)
 
 ### 3. Abschnitt: Ausländische Rückwaren
 
@@ -786,7 +786,7 @@ Der Äquivalenzverkehr wird angewandt, wenn:
 
 <sup>2</sup> Das Eidgenössische Finanzdepartement (EFD) bezeichnet im Einvernehmen mit dem Eidgenössischen Departement für Wirtschaft, Bildung und Forschung[^43-2] landwirtschaftliche Erzeugnisse und Grundstoffe, für welche die Voraussetzungen nach Artikel 12 Absatz 3 ZG zur Gewährung des aktiven Veredelungsverkehrs generell erfüllt sind. Auf diese Waren ist der Äquivalenzverkehr anwendbar.
 
-[^43-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^43-1]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 [^43-2]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2013 angepasst.
 
 #### Art. 44
@@ -950,7 +950,7 @@ Das EFD regelt die Kontroll- und Sicherungsmassnahmen zur Einhaltung des Verwend
 
 Wer über nach Artikel 7 der Verordnung vom 7. Dezember 1998[^55-1] über die Ein- und Ausfuhr von Gemüse, Obst und Gartenbauerzeugnissen (VEAGOG) auf Handelsstufe noch vorhandene landwirtschaftliche Erzeugnisse verfügt, muss für diese Erzeugnisse eine neue Zollanmeldung einreichen.
 
-[^55-1]: [SR 916.121.10](https://fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244)
+[^55-1]: [SR 916.121.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10579)
 
 #### Art. 56
 
@@ -962,7 +962,7 @@ Wer über nach Artikel 7 der Verordnung vom 7. Dezember 1998[^55-1] über die Ei
 
 <sup>2</sup> Die anmeldepflichtige Person muss eine allfällige Befreiung von der Bezahlung der Zollabgabendifferenz in der Zollanmeldung beantragen. Sie muss gleichzeitig mit der Zollanmeldung die schriftliche Bestätigung einreichen, dass ihr Zollkontingentsanteil entsprechend reduziert wurde. Diese Bestätigung wird über die gesicherte Internetanwendung ausgestellt.
 
-[^56-1]: [SR 916.121.10](https://fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244)
+[^56-1]: [SR 916.121.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10579)
 
 #### Art. 57
 
@@ -974,7 +974,7 @@ Wer über nach Artikel 7 der Verordnung vom 7. Dezember 1998[^55-1] über die Ei
 
 <sup>2</sup> …[^57-2]
 
-[^57-1]: [SR 916.121.10](https://fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244)
+[^57-1]: [SR 916.121.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10579)
 [^57-2]: Aufgehoben durch Ziff. II der V vom 14. Nov. 2007, mit Wirkung seit 1. Jan. 2008 ([AS 2007 6265](https://fedlex.data.admin.ch/eli/oc/2007/832)).
 
 #### Art. 58
@@ -994,7 +994,7 @@ Die Liste muss folgende Angaben enthalten:
 - c. Eigenmasse;
 - d. Name und Adresse der Abnehmerin oder des Abnehmers.
 
-[^58-1]: [SR 916.121.10](https://fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244)
+[^58-1]: [SR 916.121.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10579)
 
 #### Art. 59
 
@@ -1005,7 +1005,7 @@ Die Liste muss folgende Angaben enthalten:
 Für noch vorhandene landwirtschaftliche Erzeugnisse nach Artikel 7 VEAGOG[^59-2] muss die Zollanmeldung über den gesicherten Internetzugang bei der Oberzolldirektion bis spätestens 24 Uhr am zweiten Tag nach dem entsprechenden Zeitpunkt nach Artikel 7 Absatz 1 VEAGOG eingehen. Fällt dieser Tag auf einen Sonn- oder einen vom Bundesrecht anerkannten Feiertag, muss die Zollanmeldung bis 08 Uhr des folgenden Werktags bei der Oberzolldirektion eingehen.
 
 [^59-1]: Fassung gemäss Ziff. II der V vom 14. Nov. 2007, in Kraft seit 1. Jan. 2008 ([AS 2007 6265](https://fedlex.data.admin.ch/eli/oc/2007/832)).
-[^59-2]: [SR 916.121.10](https://fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244)
+[^59-2]: [SR 916.121.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10579)
 
 #### Art. 60
 
@@ -1081,15 +1081,19 @@ Genussfertige Nahrungsmittel und alkoholfreie Getränke sind in der Menge, die d
 <tr><td>d. alkoholische Getränke:</td><td></td></tr>
 <tr><td>1. mit einem Alkoholgehalt bis 18 % Vol.</td><td>5 l, und</td></tr>
 <tr><td>2. mit einem Alkoholgehalt von über 18 % Vol.</td><td>1 l</td></tr>
-<tr><td>e. Tabakfabrikate:</td><td></td></tr>
-<tr><td>1. Zigaretten/Zigarren</td><td>250 Stück, oder</td></tr>
+<tr><td>e.[^65-2] Tabakfabrikate:</td><td></td></tr>
+<tr><td>1. Zigaretten/Zigarren/Tabakfabrikate zum Erhitzen</td><td>250 Stück, oder</td></tr>
 <tr><td>2. andere Tabakfabrikate</td><td>250 Gramm, oder</td></tr>
-<tr><td>3. eine anteilmässige Auswahl dieser Erzeugnisse</td><td></td></tr>
-<tr><td>f. Treibstoffe, die nach Artikel 34 Absatz 2 der Mineralölsteuerverordnung vom 20. November 1996[^65-2] im Reservekanister eines Fahrzeugs eingeführt werden</td><td>25 l</td></tr>
+<tr><td>3. nikotinhaltige Erzeugnisse zur Verwendung in elektronischen Zigaretten</td><td>250 Milliliter, oder</td></tr>
+<tr><td>4. nikotinhaltige Kartuschen</td><td>250 Stück, oder</td></tr>
+<tr><td>5. elektronische Einwegzigaretten</td><td>25 Stück, oder</td></tr>
+<tr><td>6. eine anteilmässige Auswahl dieser Erzeugnisse</td><td></td></tr>
+<tr><td>f. Treibstoffe, die nach Artikel 34 Absatz 2 der Mineralölsteuerverordnung vom 20. November 1996[^65-3] im Reservekanister eines Fahrzeugs eingeführt werden</td><td>25 l</td></tr>
 </table>
 
 [^65-1]: Fassung gemäss Ziff. I der V vom 2. April 2014, in Kraft seit 1. Juli 2014 ([AS 2014 979](https://fedlex.data.admin.ch/eli/oc/2014/218)).
-[^65-2]: [SR 641.611](https://fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393)
+[^65-2]: Fassung gemäss Anhang 4 Ziff. II 2 der Tabakprodukteverordnung vom 28. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
+[^65-3]: [SR 641.611](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8139)
 
 #### Art. 66
 
@@ -1180,7 +1184,7 @@ Als Vorräte für Bordbuffetdienste gelten:
 
 <sup>2</sup> Zur Auslegung von Anhang 1 ZTG werden die vom BAZG veröffentlichten Erläuterungen zum Zolltarif und Entscheide über Warentarifierungen herangezogen.
 
-[^71-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^71-1]: [SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
 
 #### Art. 72
 
@@ -1194,10 +1198,10 @@ Grundlage für die Bestimmung des präferenziellen Ursprungs sind:
 - b.[^72-4] die Ursprungsregelnverordnung vom 30. März 2011[^72-5].
 
 [^72-1]: Fassung gemäss Ziff. I der V vom 22. April 2009, in Kraft seit 1. Juni 2009 ([AS 2009 1661](https://fedlex.data.admin.ch/eli/oc/2009/243)).
-[^72-2]: [SR 632.421.0](https://fedlex.data.admin.ch/eli/cc/2008/455)
-[^72-3]: [SR 632.319](https://fedlex.data.admin.ch/eli/cc/1995/2695_2695_2695)
+[^72-2]: [SR 632.421.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8060)
+[^72-3]: [SR 632.319](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8041)
 [^72-4]: Fassung gemäss Ziff. I der V vom 27. Juni 2012, in Kraft seit 1. Aug. 2012 ([AS 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
-[^72-5]: [SR 946.39](https://fedlex.data.admin.ch/eli/cc/2011/220)
+[^72-5]: [SR 946.39](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11459)
 
 #### Art. 73
 
@@ -1225,7 +1229,7 @@ Für eine Ursprungsauskunft muss die Anfrage zusätzlich folgende Angaben enthal
 
 <sup>4</sup> Das BAZG fordert die anfragende Person bei ungenügend dokumentierten Anfragen auf, diese innerhalb einer angemessenen Frist nachzubessern. Ist die Anfrage trotz Aufforderung unvollständig, so kann das BAZG auf die Zolltarif- oder Ursprungsauskunft verzichten.
 
-<sup>4</sup> <sup>bis</sup> Das BAZG erteilt die Zolltarif- oder Ursprungsauskunft spätestens 40 Tage nach Erhalt der vollständigen Unterlagen.[^73-1]
+<sup>4bis</sup> Das BAZG erteilt die Zolltarif- oder Ursprungsauskunft spätestens 40 Tage nach Erhalt der vollständigen Unterlagen.[^73-1]
 
 <sup>5</sup> Es kann eingereichte Dokumentationen ohne Entschädigungspflicht zurückbehalten.
 
@@ -1337,10 +1341,10 @@ Für Ursprungserzeugnisse gewährt das BAZG die präferenzielle Veranlagung nach
 <sup>2</sup> Der Verzicht auf Ursprungsnachweise für Ursprungserzeugnisse eines Landes oder Gebiets nach Anhang 1 der Zollpräferenzenverordnung vom 16. März 2007[^80a-4] richtet sich nach der Ursprungsregelnverordnung vom 30. März 2011[^80a-5].
 
 [^80a-1]: Eingefügt durch Ziff. I der V vom 27. Juni 2012, in Kraft seit 1. Aug. 2012 ([AS 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
-[^80a-2]: [SR 632.421.0](https://fedlex.data.admin.ch/eli/cc/2008/455)
-[^80a-3]: [SR 632.319](https://fedlex.data.admin.ch/eli/cc/1995/2695_2695_2695)
-[^80a-4]: [SR 632.911](https://fedlex.data.admin.ch/eli/cc/2007/159)
-[^80a-5]: [SR 946.39](https://fedlex.data.admin.ch/eli/cc/2011/220)
+[^80a-2]: [SR 632.421.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8060)
+[^80a-3]: [SR 632.319](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8041)
+[^80a-4]: [SR 632.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8066)
+[^80a-5]: [SR 946.39](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11459)
 
 #### Art. 81
 
@@ -1510,7 +1514,7 @@ Die anmeldepflichtige Person kann keine provisorische Veranlagung beantragen, we
 - a. die Absicht besteht, ein Gesuch um Herabsetzung von Zollansätzen für bestimmte Verwendungen nach Artikel 14 Absatz 2 ZG zu stellen oder wenn ein solches Gesuch hängig ist;
 - b. die Ware nicht mehr im Gewahrsam des BAZG steht.
 
-[^93-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^93-1]: [SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
 
 #### Art. 94
 
@@ -1591,7 +1595,7 @@ Die aufbewahrungspflichtige Person muss:
 
 <sup>3</sup> Die Artikel 9 und 10 der Geschäftsbücherverordnung vom 24. April 2002[^98-1] gelten sinngemäss.
 
-[^98-1]: [SR 221.431](https://fedlex.data.admin.ch/eli/cc/2002/216)
+[^98-1]: [SR 221.431](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5936)
 
 #### Art. 99
 
@@ -1916,8 +1920,8 @@ Das System zur Führung der Geschäftsbücher und gegebenenfalls der Beförderun
 - h. informationstechnische Schutzmassnahmen ergriffen hat, mit denen das Computersystem des Unternehmens vor unbefugtem Eindringen geschützt und dessen Daten gesichert werden.
 
 [^112e-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
-[^112e-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^112e-3]: [SR 221.431](https://fedlex.data.admin.ch/eli/cc/2002/216)
+[^112e-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^112e-3]: [SR 221.431](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5936)
 
 #### Art. 112f
 
@@ -1935,7 +1939,7 @@ Die Zahlungsfähigkeit gilt als nachgewiesen, wenn die antragstellende Person:
 
 [^112f-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 [^112f-2]: Eingefügt durch Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
-[^112f-3]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^112f-3]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 112g
 
@@ -2257,7 +2261,7 @@ Das BAZG kann im Regionalverkehr für Ladungen einheitlicher Warengattungen wie 
 - a. die Ein- oder Ausfuhr regelmässig und über die gleiche Zollstelle erfolgt; und
 - b. es die betrieblichen Verhältnisse der Zollstelle erlauben.
 
-<sup>1</sup> <sup>bis</sup> Es entscheidet spätestens 30 Tage nach Erhalt der vollständigen Unterlagen über die Bewilligung.[^116-2]
+<sup>1bis</sup> Es entscheidet spätestens 30 Tage nach Erhalt der vollständigen Unterlagen über die Bewilligung.[^116-2]
 
 <sup>2</sup> Es bezeichnet in der Bewilligung die Waren, auf welche die periodische Sammelanmeldung anwendbar ist.
 
@@ -2595,7 +2599,7 @@ Luftfahrzeuge und mitgeführte Waren müssen weder gestellt noch angemeldet werd
 
 Im Linienluftverkehr kann die Anmeldung zum Transitverfahren im Zollgebiet auf Grund des Manifests nach Artikel 111 des Übereinkommens vom 20. Mai 1987[^144-1] über ein gemeinsames Versandverfahren erfolgen.
 
-[^144-1]: [SR 0.631.242.04](https://fedlex.data.admin.ch/eli/cc/1988/308_308_308)
+[^144-1]: [SR 0.631.242.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2030)
 
 #### Art. 145–150
 
@@ -2840,7 +2844,7 @@ Erhält die Oberzolldirektion ein Gesuch um Erteilung einer Bewilligung für die
 <sup>2</sup> Die Oberzolldirektion entscheidet über das Gesuch, wenn die Gesuchstellerin oder der Gesuchsteller dieses nicht innerhalb von 10 Arbeitstagen ab Informierung der betroffenen Organisationen schriftlich zurückzieht.
 
 [^165a-1]: Eingefügt durch Ziff. I der V vom 21. Sept. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 3929](https://fedlex.data.admin.ch/eli/oc/2018/628)).
-[^165a-2]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^165a-2]: [SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
 
 #### Art. 166
 
@@ -3158,7 +3162,7 @@ Die Bestandesaufzeichnung muss folgende Angaben enthalten:
 
 [^184-1]: Fassung gemäss Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 [^184-2]: Fassung gemäss Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
-[^184-3]: [SR 0.631.242.04](https://fedlex.data.admin.ch/eli/cc/1988/308_308_308)
+[^184-3]: [SR 0.631.242.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2030)
 [^184-4]: Eingefügt durch Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 [^184-5]: Fassung gemäss Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 [^184-6]: Eingefügt durch Ziff. I der V vom 18. Nov. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
@@ -3240,7 +3244,7 @@ Kein Vergütungszins wird ausbezahlt:
 
 Soweit die nachfolgenden Bestimmungen keine abweichenden Vorschriften enthalten, gilt Artikel 49 der Finanzhaushaltverordnung vom 5. April 2006[^189-1].
 
-[^189-1]: [SR 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)
+[^189-1]: [SR 611.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7752)
 
 #### Art. 190
 
@@ -3520,7 +3524,7 @@ Die Sicherstellungsverfügung muss enthalten:
 - i. Hinweis, dass sich die Voraussetzungen der Schadenersatzpflicht des BAZG nach den Bestimmungen des Verantwortlichkeitsgesetzes vom 14. März 1958[^209-1] richten;
 - j. Rechtsmittelbelehrung.
 
-[^209-1]: [SR 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^209-1]: [SR 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 #### Art. 210
 
@@ -3543,7 +3547,7 @@ Die Sicherstellungsverfügung richtet sich an:
 
 <sup>5</sup> In besonderen Fällen kann auf die Verarrestierung von Vermögenswerten verzichtet werden. Die Absätze 1 Buchstabe b, 3 und 4 sowie Artikel 209 Buchstaben f und i sind in diesen Fällen nicht anwendbar.
 
-[^210-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^210-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 211
 
@@ -3883,9 +3887,9 @@ Es kann die Daten über die Identität einer Person durch Abnahme biometrischer 
 
 [^226-1]: Eingefügt durch Anhang Ziff. 3 der V vom 6. Dez. 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten, in Kraft seit 1. Sept. 2014 ([AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
 [^226-2]: Fassung gemäss Anhang Ziff. 3 der V vom 6. Dez. 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten, in Kraft seit 1. Sept. 2014 ([AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
-[^226-3]: [SR 361.3](https://fedlex.data.admin.ch/eli/cc/2014/23)
+[^226-3]: [SR 361.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6311)
 [^226-4]: Fassung gemäss Anhang 2 Ziff. II 69 der Datenschutzverordnung vom 31. Aug. 2022, in Kraft seit 1. Sept. 2023 ([AS 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^226-5]: [SR 631.061](https://fedlex.data.admin.ch/eli/cc/2017/535)
+[^226-5]: [SR 631.061](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7823)
 [^226-6]: Fassung gemäss Anhang Ziff. 3 der V vom 6. Dez. 2013 über die Bearbeitung biometrischer erkennungsdienstlicher Daten, in Kraft seit 1. Sept. 2014 ([AS 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
 
 #### Art. 227
@@ -3946,7 +3950,7 @@ Gehört eine Mitarbeiterin oder ein Mitarbeiter zum Personal nach Absatz 1 und s
 <sup>5</sup> Für die Organisation der Schiess- und Sicherheitstrainings ist das BAZG verantwortlich. Es kann zur Wahrnehmung seiner Aufgaben mit anderen Stellen zusammenarbeiten.
 
 [^228-1]: Fassung gemäss Ziff. I der V vom 22. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 12](https://fedlex.data.admin.ch/eli/oc/2024/12)).
-[^228-2]: [SR 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
+[^228-2]: [SR 364](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6323)
 
 #### Art. 229
 
@@ -4059,7 +4063,7 @@ Weigert sich eine Person, auf die sich ein Ersuchen einer ausländischen Behörd
 
 <sup>2</sup> Sie ist zuständig für den Erlass entsprechender Bestimmungen und regelt namentlich hinsichtlich der eidgenössischen Berufsprüfungen und der eidgenössischen höheren Fachprüfungen für das Personal des BAZG die Zulassungsbedingungen, Lerninhalte, Qualifikationsverfahren, Ausweise und Titel.
 
-[^235-1]: [SR 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^235-1]: [SR 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 
 #### Art. 236
 
@@ -4089,7 +4093,7 @@ Zollwiderhandlungen, die bei einer schweizerischen Zollstelle im Ausland verübt
 
 <sup>2</sup> Der oder dem Beschuldigten wird die Verfügung über die Leistungspflicht in der Regel gleichzeitig mit dem Schlussprotokoll eröffnet.
 
-[^238-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^238-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 239
 
@@ -4101,7 +4105,7 @@ Zollwiderhandlungen, die bei einer schweizerischen Zollstelle im Ausland verübt
 
 <sup>2</sup> Fällt eine solidarische Leistungspflicht der oder des Beschuldigten nach Artikel 12 Absatz 3 VStrR in Betracht, so wird von Amtes wegen eine Feststellungsverfügung erlassen.
 
-[^239-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^239-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 240
 
@@ -4131,7 +4135,7 @@ Sofern nicht der Tatbestand einer Zollwiderhandlung erfüllt ist, wird nach Arti
 - j. die nach dieser Verordnung in Bewilligungen, Vereinbarungen oder Verwendungsverpflichtungen festgesetzten Bedingungen und Auflagen nicht einhält.
 
 [^240a-1]: Eingefügt durch Ziff. I der V vom 27. Juni 2012, in Kraft seit 1. Aug. 2012 ([AS 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
-[^240a-2]: [SR 632.14](https://fedlex.data.admin.ch/eli/cc/2011/669)
+[^240a-2]: [SR 632.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7981)
 
 #### Art. 240b
 
@@ -4144,7 +4148,7 @@ Sofern nicht der Tatbestand einer Zollwiderhandlung erfüllt ist, wird nach Arti
 <sup>2</sup> Jede Dienststelle des BAZG ist in ihrem Aufgabenbereich zuständig für den Erlass von Strafbescheiden im abgekürzten Verfahren nach Artikel 65 Absatz 1 VStrR[^240b-2].
 
 [^240b-1]: Eingefügt durch Ziff. I der V vom 21. Nov. 2018, in Kraft seit 1. Jan. 2019 ([AS 2018 4671](https://fedlex.data.admin.ch/eli/oc/2018/735)).
-[^240b-2]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^240b-2]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## 6. Titel: Schlussbestimmungen
 
@@ -4169,17 +4173,17 @@ Das EFD ist ermächtigt, die Änderungen bestehender Anhänge, Anlagen und Beila
 - 9\. Zollabkommen vom 18. Mai 1956[^241-10] über die vorübergehende Einfuhr gewerblicher Strassenfahrzeuge;
 - 10\. Protokoll vom 26. Juni 1999[^241-11] zur Änderung des internationalen Übereinkommens vom 18. Mai 1973 zur Vereinfachung und Harmonisierung der Zollverfahren.
 
-[^241-1]: Regierungs- und Verwaltungsorganisationsgesetz vom 21. März 1997 ([SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022))
-[^241-2]: [SR 0.631.122](https://fedlex.data.admin.ch/eli/cc/1986/764_764_764)
-[^241-3]: [SR 0.631.20](https://fedlex.data.admin.ch/eli/cc/1977/1437_1437_1437)
-[^241-4]: [SR 0.631.24](https://fedlex.data.admin.ch/eli/cc/1995/4685_4685_4685)
-[^241-5]: [SR 0.631.244.57](https://fedlex.data.admin.ch/eli/cc/1963/479_476_493)
-[^241-6]: [SR 0.631.250.112](https://fedlex.data.admin.ch/eli/cc/1977/647_647_647)
-[^241-7]: [SR 0.631.251.4](https://fedlex.data.admin.ch/eli/cc/1958/719_749_752)
-[^241-8]: [SR 0.631.251.7](https://fedlex.data.admin.ch/eli/cc/1960/1062_1110_1107)
-[^241-9]: [SR 0.631.252.512](https://fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281)
-[^241-10]: [SR 0.631.252.52](https://fedlex.data.admin.ch/eli/cc/1960/1039_1087_1083)
-[^241-11]: [SR 0.631.21](https://fedlex.data.admin.ch/eli/cc/2007/342)
+[^241-1]: Regierungs- und Verwaltungsorganisationsgesetz vom 21. März 1997 ([SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015))
+[^241-2]: [SR 0.631.122](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2009)
+[^241-3]: [SR 0.631.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2023)
+[^241-4]: [SR 0.631.24](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2025)
+[^241-5]: [SR 0.631.244.57](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2053)
+[^241-6]: [SR 0.631.250.112](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2055)
+[^241-7]: [SR 0.631.251.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2059)
+[^241-8]: [SR 0.631.251.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2060)
+[^241-9]: [SR 0.631.252.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2062)
+[^241-10]: [SR 0.631.252.52](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2063)
+[^241-11]: [SR 0.631.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2024)
 
 #### Art. 242
 
@@ -4196,11 +4200,11 @@ Das EFD ist ermächtigt, Vereinbarungen über nebeneinander liegende Grenzabfert
 - 3\. Abkommen vom 28. September 1960[^242-4] zwischen der Schweiz und Frankreich über die nebeneinander liegenden Grenzabfertigungsstellen und die Grenzabfertigung während der Fahrt;
 - 4\. Abkommen vom 11. März 1961[^242-5] zwischen der Schweizerischen Eidgenossenschaft und der Italienischen Republik über die nebeneinander liegenden Grenzabfertigungsstellen und die Grenzabfertigung während der Fahrt.
 
-[^242-1]: [SR 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^242-2]: [SR 0.631.252.913.690](https://fedlex.data.admin.ch/eli/cc/1964/391_387_387)
-[^242-3]: [SR 0.631.252.916.320](https://fedlex.data.admin.ch/eli/cc/1964/1149_1149_1181)
-[^242-4]: [SR 0.631.252.934.95](https://fedlex.data.admin.ch/eli/cc/1961/569_574_590)
-[^242-5]: [SR 0.631.252.945.460](https://fedlex.data.admin.ch/eli/cc/1963/715_711_735)
+[^242-1]: [SR 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^242-2]: [SR 0.631.252.913.690](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2079)
+[^242-3]: [SR 0.631.252.916.320](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2123)
+[^242-4]: [SR 0.631.252.934.95](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2140)
+[^242-5]: [SR 0.631.252.945.460](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2173)
 
 #### Art. 242a
 
@@ -4238,7 +4242,7 @@ Bei Einfuhren landwirtschaftlicher Erzeugnisse, für die Kontingentszollansätze
 
 <sup>2</sup> Die Oberzolldirektion unterbreitet ein Gesuch um Erteilung einer Bewilligung den betroffenen Organisationen und Bundesstellen zur Stellungnahme, wenn es für die Beurteilung der Voraussetzungen nach Artikel 132 Absatz 7 ZG oder nach Artikel 46 Absatz 2 dieser Verordnung erforderlich ist.
 
-[^245-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^245-1]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 #### Art. 246
 
@@ -4247,7 +4251,7 @@ Bei Einfuhren landwirtschaftlicher Erzeugnisse, für die Kontingentszollansätze
 Briefpostsendungen und Pakete, die von der Schweizerischen Post im Rahmen des Universaldienstes (Art. 3 und 4 des Postgesetzes vom 30. April 1997[^246-2]) oder von privaten Anbieterinnen und Anbietern im Rahmen ihrer Konzession befördert werden, dürfen bis zum 30. Juni 2013 nach dem bisherigen Recht angemeldet werden.
 
 [^246-1]: Fassung gemäss Ziff. I der V vom 27. Juni 2012, in Kraft seit 1. Aug. 2012 ([AS 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
-[^246-2]: [[AS 1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452); [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)Anhang Ziff. 23; [2003 4297](https://fedlex.data.admin.ch/eli/oc/2003/638), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 85; [2007 5645](https://fedlex.data.admin.ch/eli/oc/2007/776). [AS 2012 4993](https://fedlex.data.admin.ch/eli/oc/2012/585)Anhang Ziff. I]. Siehe heute: das Postgesetz vom 17. Dez. 2010 ([SR 783.1](https://fedlex.data.admin.ch/eli/cc/2012/587)).
+[^246-2]: [[AS 1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452); [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)Anhang Ziff. 23; [2003 4297](https://fedlex.data.admin.ch/eli/oc/2003/638), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 85; [2007 5645](https://fedlex.data.admin.ch/eli/oc/2007/776). [AS 2012 4993](https://fedlex.data.admin.ch/eli/oc/2012/585)Anhang Ziff. I]. Siehe heute: das Postgesetz vom 17. Dez. 2010 ([SR 783.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9161)).
 
 #### Art. 246a
 
@@ -4353,19 +4357,19 @@ Als sensible Waren gelten:
 - 13\. Waren, für die der Bundesrat Zwangsmassnahmen nach Artikel 184 Absatz 3 der Bundesverfassung[^annex2-lvlu1-11] und nach Artikel 2 des Embargogesetzes vom 22. März 2002[^annex2-lvlu1-12] erlassen hat
 - 14\. Kulturgüter nach Artikel 2 Absatz 1 des Kulturgütertransfergesetzes vom 20. Juni 2003[^annex2-lvlu1-13]
 
-[^annex2-lvlu1-1]: [SR 453.0](https://fedlex.data.admin.ch/eli/cc/2013/601)
-[^annex2-lvlu1-2]: [SR 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^annex2-lvlu1-3]: [SR 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^annex2-lvlu1-4]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
-[^annex2-lvlu1-5]: [SR 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
-[^annex2-lvlu1-6]: [SR 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
-[^annex2-lvlu1-7]: [[AS 1997 211](https://fedlex.data.admin.ch/eli/oc/1997/211_211_211); [2001 3159](https://fedlex.data.admin.ch/eli/oc/2001/474), [3160](https://fedlex.data.admin.ch/eli/oc/2001/475); [2005 4839](https://fedlex.data.admin.ch/eli/oc/2005/653); **2010** 1239. [AS 2011 2561](https://fedlex.data.admin.ch/eli/oc/2011/362)Art. 86]. Siehe heute: die V vom 25. Mai 2011 über die Betäubungsmittelkontrolle ([SR 812.121.1](https://fedlex.data.admin.ch/eli/cc/2011/362)).
-[^annex2-lvlu1-8]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^annex2-lvlu1-9]: [SR 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
-[^annex2-lvlu1-10]: [SR 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
-[^annex2-lvlu1-11]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^annex2-lvlu1-12]: [SR 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
-[^annex2-lvlu1-13]: [SR 444.1](https://fedlex.data.admin.ch/eli/cc/2005/317)
+[^annex2-lvlu1-1]: [SR 453.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7190)
+[^annex2-lvlu1-2]: [SR 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
+[^annex2-lvlu1-3]: [SR 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
+[^annex2-lvlu1-4]: [SR 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
+[^annex2-lvlu1-5]: [SR 732.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8531)
+[^annex2-lvlu1-6]: [SR 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
+[^annex2-lvlu1-7]: [[AS 1997 211](https://fedlex.data.admin.ch/eli/oc/1997/211_211_211); [2001 3159](https://fedlex.data.admin.ch/eli/oc/2001/474), [3160](https://fedlex.data.admin.ch/eli/oc/2001/475); [2005 4839](https://fedlex.data.admin.ch/eli/oc/2005/653); **2010** 1239. [AS 2011 2561](https://fedlex.data.admin.ch/eli/oc/2011/362)Art. 86]. Siehe heute: die V vom 25. Mai 2011 über die Betäubungsmittelkontrolle ([SR 812.121.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9340)).
+[^annex2-lvlu1-8]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^annex2-lvlu1-9]: [SR 941.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11228)
+[^annex2-lvlu1-10]: [SR 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
+[^annex2-lvlu1-11]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^annex2-lvlu1-12]: [SR 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
+[^annex2-lvlu1-13]: [SR 444.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7147)
 
 Anhang 3
 
@@ -4445,11 +4449,11 @@ Anhang 5[^t-2]
 <tr><td>Art. 96–98 ZV</td><td>Art. 2*a* Kundmachungsgesetz[^annex5-lvlu1-8] i. V. m. Art. 96–98 ZV</td></tr>
 </table>
 
-[^annex5-lvlu1-1]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^annex5-lvlu1-1]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^annex5-lvlu1-2]: LR 216.0
-[^annex5-lvlu1-3]: [SR 221.431](https://fedlex.data.admin.ch/eli/cc/2002/216)
+[^annex5-lvlu1-3]: [SR 221.431](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5936)
 [^annex5-lvlu1-4]: LR 216.01
-[^annex5-lvlu1-5]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^annex5-lvlu1-5]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^annex5-lvlu1-6]: LR 282.0
 [^annex5-lvlu1-7]: LR 284.0
 [^annex5-lvlu1-8]: LR 170.550

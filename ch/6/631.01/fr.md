@@ -4,11 +4,11 @@ title: "Ordonnance du 1<sup>er</sup> novembre 2006 sur les douanes (OD)"
 short: OD
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/250"
 language: fr
-version: 2024-02-01
+version: 2024-10-01
 adopted: 2006-11-01
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/250/20240201/fr/xml/fedlex-data-admin-ch-eli-cc-2007-250-20240201-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20240201/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/250/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-2007-250-20241001-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20241001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20240201/fr"
 
 (OD)
 
-du 1<sup>er</sup> novembre 2006 (État le 1<sup>er</sup> février 2024)
+du 1<sup>er</sup> novembre 2006 (État le 1<sup>er</sup> octobre 2024)
 
 Le Conseil fédéral suisse,
 
@@ -25,8 +25,8 @@ vu la loi du 18 mars 2005 sur les douanes (LD)[^ingress-1], vu l’art. 37, al. 
 
 arrête:
 
-[^ingress-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^ingress-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^ingress-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^ingress-2]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 [^ingress-3]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
 ## Titre 1 Bases douanières
@@ -118,9 +118,9 @@ L’exonération des droits pour les marchandises destinées aux bénéficiaires
 - a. l’ordonnance du 23 août 1989 concernant les privilèges douaniers des missions diplomatiques à Berne et des postes consulaires en Suisse[^6-2];
 - b. l’ordonnance du 13 novembre 1985 concernant les privilèges douaniers des organisations internationales, des États dans leurs relations avec ces organisations et des Missions spéciales d’États étrangers[^6-3].[^6-4]
 
-[^6-1]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-[^6-2]: [RS 631.144.0](https://fedlex.data.admin.ch/eli/cc/1989/1781_1781_1781)
-[^6-3]: [RS 631.145.0](https://fedlex.data.admin.ch/eli/cc/1985/1819_1819_1819)
+[^6-1]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
+[^6-2]: [RS 631.144.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7833)
+[^6-3]: [RS 631.145.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7834)
 [^6-4]: Nouvelle teneur selon l’annexe ch. 7 de l’O du 7 déc. 2007 sur l’Etat hôte, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
 
 #### Art. 7
@@ -283,7 +283,7 @@ Sont réputés trousseau de mariage:
 
 <sup>6</sup> Le partenariat enregistré au sens de la loi du 18 juin 2004 sur le partenariat[^15-1] est assimilé au mariage, de même que toute communauté de vie similaire établie sous droit étranger.[^15-2]
 
-[^15-1]: [RS 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
+[^15-1]: [RS 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
 [^15-2]: Introduit par le ch. I de l’O du 27 juin 2012, en vigueur depuis le 1<sup>er</sup> août 2012 ([RO 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
 
 #### Art. 16
@@ -327,7 +327,7 @@ Sont réputés effets de succession:
 
 <sup>3</sup> La demande d’admission en franchise doit être présentée à la direction d’arrondissement des douanes avant l’importation.[^17-2]
 
-[^17-1]: [RS 851.1](https://fedlex.data.admin.ch/eli/cc/1978/221_221_221)
+[^17-1]: [RS 851.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10359)
 [^17-2]: Nouvelle teneur selon le ch. I de l’O du 22 avr. 2009, en vigueur depuis le 1<sup>er</sup> juin 2009 ([RO 2009 1661](https://fedlex.data.admin.ch/eli/oc/2009/243)).
 
 #### Art. 18
@@ -347,7 +347,7 @@ Sont admis en franchise les véhicules à moteur pour les invalides:
 
 <sup>3</sup> La demande d’admission en franchise doit être présentée à la direction d’arrondissement des douanes. La franchise n’est accordée qu’une seule fois par période de six ans.
 
-[^18-1]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^18-1]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 
 #### Art. 19
 
@@ -706,7 +706,7 @@ L’OFDF peut autoriser des entreprises de location sises sur le territoire doua
 
 À l’issue d’une utilisation transfrontalière, les conteneurs au sens de la Convention douanière du 2 décembre 1972 relative aux conteneurs 1972[^37-1] peuvent être utilisés pour un transport unique à l’intérieur du territoire douanier (art. 9, par. 1, et annexe 3 de la convention douanière).
 
-[^37-1]: [RS 0.631.250.112](https://fedlex.data.admin.ch/eli/cc/1977/647_647_647)
+[^37-1]: [RS 0.631.250.112](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2055)
 
 ### Section 3 Marchandises étrangères en retour
 
@@ -786,7 +786,7 @@ Le trafic fondé sur l’équivalence est appliqué:
 
 <sup>2</sup> Le Département fédéral des finances (DFF) désigne, en accord avec le Département fédéral de l’économie, de la formation et de la recherche[^43-2] les produits agricoles et les produits agricoles de base pour lesquels les conditions d’octroi du trafic de perfectionnement actif énumérées à l’art. 12, al. 3, LD sont remplies de manière générale. Le trafic fondé sur l’équivalence s’applique à ces marchandises.
 
-[^43-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^43-1]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 [^43-2]: La désignation de l’unité administrative a été adaptée au 1<sup>er</sup> janv. 2013 en application de l’art. 16 al. 3 de l’O du 17 nov. 2004 sur les publications officielles ([RO 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)).
 
 #### Art. 44
@@ -950,7 +950,7 @@ Le DFF règle les mesures de contrôle et de sûreté pour l’observation de l�
 
 Quiconque dispose encore, dans le circuit de commercialisation, de produits agricoles au sens de l’art. 7 de l’ordonnance du 7 décembre 1998 sur l’importation et l’exportation de légumes, de fruits et de plantes horticoles (OIELFP)[^55-1] doit présenter une nouvelle déclaration en douane pour ces produits.
 
-[^55-1]: [RS 916.121.10](https://fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244)
+[^55-1]: [RS 916.121.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10579)
 
 #### Art. 56
 
@@ -962,7 +962,7 @@ Quiconque dispose encore, dans le circuit de commercialisation, de produits agri
 
 <sup>2</sup> Le cas échéant, la personne assujettie à l’obligation de déclarer doit demander l’exonération du paiement de la différence des droits de douane dans la déclaration en douane. Elle joint à la déclaration en douane une attestation écrite confirmant que sa part de contingent tarifaire a été réduite de façon correspondante. Cette attestation est établie via l’application Internet sécurisée.
 
-[^56-1]: [RS 916.121.10](https://fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244)
+[^56-1]: [RS 916.121.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10579)
 
 #### Art. 57
 
@@ -974,7 +974,7 @@ Quiconque dispose encore, dans le circuit de commercialisation, de produits agri
 
 <sup>2</sup> …[^57-2]
 
-[^57-1]: [RS 916.121.10](https://fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244)
+[^57-1]: [RS 916.121.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10579)
 [^57-2]: Abrogé par le ch. II de l’O du 14 nov. 2007, avec effet au 1<sup>er</sup> janv. 2008 ([RO 2007 6265](https://fedlex.data.admin.ch/eli/oc/2007/832)).
 
 #### Art. 58
@@ -994,7 +994,7 @@ La liste doit contenir les indications suivantes:
 - c. la masse nette;
 - d. le nom et l’adresse de l’acquéreur.
 
-[^58-1]: [RS 916.121.10](https://fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244)
+[^58-1]: [RS 916.121.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10579)
 
 #### Art. 59
 
@@ -1005,7 +1005,7 @@ La liste doit contenir les indications suivantes:
 Pour les produits agricoles encore disponibles au sens de l’art. 7 OIELFP[^59-2], la déclaration en douane doit parvenir à la Direction générale des douanes par l’accès Internet sécurisé à 24 heures au plus tard, le deuxième jour de la période définie à l’art. 7, al. 1, OIELFP. Si ce jour tombe un dimanche ou un jour férié reconnu par le droit fédéral, la déclaration en douane doit parvenir à la Direction générale des douanes à 08 heures au plus tard, le premier jour ouvrable suivant.
 
 [^59-1]: Nouvelle teneur selon le ch. II de l’O du 14 nov. 2007, en vigueur depuis le 1<sup>er</sup> janv. 2008 ([RO 2007 6265](https://fedlex.data.admin.ch/eli/oc/2007/832)).
-[^59-2]: [RS 916.121.10](https://fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244)
+[^59-2]: [RS 916.121.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10579)
 
 #### Art. 60
 
@@ -1079,12 +1079,19 @@ Les denrées alimentaires prêtes à la consommation et les boissons non alcooli
 <tr><td>b. le beurre et la crème:</td><td>1 l/kg</td></tr>
 <tr><td>c. les huiles, les graisses et la margarine pour l’alimentation humaine:</td><td>5 l/kg</td></tr>
 <tr><td>d. les boissons alcoolisées: 1. d’une teneur en alcool n’excédant pas 18 % vol. 2. d’une teneur en alcool excédant 18 % vol.</td><td>5 l, et 1 l</td></tr>
-<tr><td>e. les tabacs manufacturés: 1. cigarettes/cigares 2. autres tabacs manufacturés 3. un assortiment proportionnel de ces produits</td><td>250 pièces, ou 250 grammes, ou</td></tr>
-<tr><td>f. les carburants importés dans le jerrycan de réserve d’un véhicule conformément à l’art. 34, al. 2, de l’ordonnance du 20 novembre 1996 sur l’imposition des huiles minérales[^65-2]</td><td>25 l</td></tr>
+<tr><td>e.[^65-2] les tabacs manufacturés:</td><td></td></tr>
+<tr><td>1. cigarettes/cigares/tabacs manufacturés destinés à être chauffés</td><td>250 pièces, ou</td></tr>
+<tr><td>2. autres tabacs manufacturés</td><td>250 grammes, ou</td></tr>
+<tr><td>3. produits contenant de la nicotine destinés à être consommés au moyen de cigarettes électroniques</td><td>250 millilitres, ou</td></tr>
+<tr><td>4. cartouches contenant de la nicotine</td><td>250 pièces, ou</td></tr>
+<tr><td>5. cigarettes électroniques jetables</td><td>25 pièces, ou</td></tr>
+<tr><td>6. un assortiment proportionnel de ces produits</td><td></td></tr>
+<tr><td>f. les carburants importés dans le jerrycan de réserve d’un véhicule conformément à l’art. 34, al. 2, de l’ordonnance du 20 novembre 1996 sur l’imposition des huiles minérales[^65-3]</td><td>25 l</td></tr>
 </table>
 
 [^65-1]: Nouvelle teneur selon le ch. I de l’O du 2 avr. 2014, en vigueur depuis le 1<sup>er</sup> juil. 2014 ([RO 2014 979](https://fedlex.data.admin.ch/eli/oc/2014/218)).
-[^65-2]: [RS 641.611](https://fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393)
+[^65-2]: Nouvelle teneur selon l’annexe 4 ch. II 2 de l’O du 28 août 2024 sur les produits du tabac, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
+[^65-3]: [RS 641.611](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8139)
 
 #### Art. 66
 
@@ -1175,7 +1182,7 @@ Sont réputées réserves de marchandises pour les buffets de bord:
 
 <sup>2</sup> L’interprétation de l’annexe 1 de la loi du 9 octobre 1986 sur le tarif des douanes doit se faire sur la base des notes explicatives du tarif des douanes et des décisions de classement des marchandises publiées par l’OFDF.
 
-[^71-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^71-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
 
 #### Art. 72
 
@@ -1189,10 +1196,10 @@ La détermination de l’origine préférentielle se fonde sur:
 - b.[^72-4] lʼordonnance du 30 mars 2011 relative aux règles dʼorigine[^72-5].
 
 [^72-1]: Nouvelle teneur selon le ch. I de l’O du 22 avr. 2009, en vigueur depuis le 1<sup>er</sup> juin 2009 ([RO 2009 1661](https://fedlex.data.admin.ch/eli/oc/2009/243)).
-[^72-2]: [RS 632.421.0](https://fedlex.data.admin.ch/eli/cc/2008/455)
-[^72-3]: [RS 632.319](https://fedlex.data.admin.ch/eli/cc/1995/2695_2695_2695)
+[^72-2]: [RS 632.421.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8060)
+[^72-3]: [RS 632.319](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8041)
 [^72-4]: Nouvelle teneur selon le ch. I de l’O du 27 juin 2012, en vigueur depuis le 1<sup>er</sup> août 2012 ([RO 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
-[^72-5]: [RS 946.39](https://fedlex.data.admin.ch/eli/cc/2011/220)
+[^72-5]: [RS 946.39](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11459)
 
 #### Art. 73
 
@@ -1332,10 +1339,10 @@ LʼOFDF accorde à des produits originaires, sans présentation de preuves d’o
 <sup>2</sup> La renonciation à la présentation dʼune preuve dʼorigine pour les produits originaires dʼun des pays ou des territoires cités à lʼannexe 1 à lʼordonnance du 16 mars 2007 sur les préférences tarifaires[^80a-4] est régie par lʼordonnance du 30 mars 2011 relative aux règles dʼorigine[^80a-5].
 
 [^80a-1]: Introduit par le ch. I de l’O du 27 juin 2012, en vigueur depuis le 1<sup>er</sup> août 2012 ([RO 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
-[^80a-2]: [RS 632.421.0](https://fedlex.data.admin.ch/eli/cc/2008/455)
-[^80a-3]: [RS 632.319](https://fedlex.data.admin.ch/eli/cc/1995/2695_2695_2695)
-[^80a-4]: [RS 632.911](https://fedlex.data.admin.ch/eli/cc/2007/159)
-[^80a-5]: [RS 946.39](https://fedlex.data.admin.ch/eli/cc/2011/220)
+[^80a-2]: [RS 632.421.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8060)
+[^80a-3]: [RS 632.319](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8041)
+[^80a-4]: [RS 632.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8066)
+[^80a-5]: [RS 946.39](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11459)
 
 #### Art. 81
 
@@ -1505,7 +1512,7 @@ La personne assujettie à l’obligation de déclarer ne peut pas demander de ta
 - a. si son intention est de présenter une demande de réduction de taux pour certains emplois au sens de l’art. 14, al. 2, LD ou si une telle demande est en suspens;
 - b. si la marchandise ne se trouve plus sous la garde de l’OFDF.
 
-[^93-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^93-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
 
 #### Art. 94
 
@@ -1586,7 +1593,7 @@ La personne assujettie à l’obligation de conserver doit:
 
 <sup>3</sup> Les art. 9 et 10 de l’ordonnance du 24 avril 2002 concernant la tenue et la conservation des livres de comptes[^98-1] sont applicables par analogie.
 
-[^98-1]: [RS 221.431](https://fedlex.data.admin.ch/eli/cc/2002/216)
+[^98-1]: [RS 221.431](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5936)
 
 #### Art. 99
 
@@ -1911,8 +1918,8 @@ Le système de gestion des écritures commerciales et, le cas échéant, des éc
 - h. a pris des mesures de sécurité des technologies de l’information protégeant son système informatique contre toute intrusion non autorisée et sécurisant les données de ce dernier.
 
 [^112e-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
-[^112e-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^112e-3]: [RS 221.431](https://fedlex.data.admin.ch/eli/cc/2002/216)
+[^112e-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^112e-3]: [RS 221.431](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5936)
 
 #### Art. 112f
 
@@ -1930,7 +1937,7 @@ La solvabilité financière est réputée prouvée lorsque le requérant:
 
 [^112f-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 [^112f-2]: Introduite par le ch. I de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
-[^112f-3]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^112f-3]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 112g
 
@@ -2590,7 +2597,7 @@ Les aéronefs et les marchandises transportées ne doivent être ni présentés 
 
 Dans le trafic aérien de ligne, la déclaration pour le régime du transit sur le territoire douanier peut avoir lieu sur la base du manifeste visé à l’art. 111 de la Convention du 20 mai 1987 relative à un régime de transit commun[^144-1].
 
-[^144-1]: [RS 0.631.242.04](https://fedlex.data.admin.ch/eli/cc/1988/308_308_308)
+[^144-1]: [RS 0.631.242.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2030)
 
 #### Art. 145 à 150
 
@@ -2835,7 +2842,7 @@ Si la Direction générale des douanes reçoit une demande d’octroi d’une au
 <sup>2</sup> La Direction générale des douanes statue sur la demande si le requérant ne la retire pas par écrit dans un délai de 10 jours ouvrables à compter du jour où les organisations concernées ont été informées.
 
 [^165a-1]: Introduit par le ch. I de l’O du 21 sept. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 3929](https://fedlex.data.admin.ch/eli/oc/2018/628)).
-[^165a-2]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^165a-2]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
 
 #### Art. 166
 
@@ -3153,7 +3160,7 @@ L’inventaire doit contenir les indications suivantes:
 
 [^184-1]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 [^184-2]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
-[^184-3]: [RS 0.631.242.04](https://fedlex.data.admin.ch/eli/cc/1988/308_308_308)
+[^184-3]: [RS 0.631.242.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2030)
 [^184-4]: Introduite par le ch. I de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 [^184-5]: Nouvelle teneur selon le ch. I de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 [^184-6]: Introduit par le ch. I de l’O du 18 nov. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
@@ -3235,7 +3242,7 @@ Aucun intérêt rémunératoire n’est versé:
 
 L’art. 49 de l’ordonnance du 5 avril 2006 sur les finances de la Confédération[^189-1] est applicable pour autant que les dispositions ci-après n’y dérogent pas.
 
-[^189-1]: [RS 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)
+[^189-1]: [RS 611.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7752)
 
 #### Art. 190
 
@@ -3515,7 +3522,7 @@ La décision de réquisition de sûretés doit contenir:
 - i. l’indication que les conditions d’assujettissement de l’OFDF au versement de dommages-intérêts sont régies par les dispositions de la loi du 14 mars 1958 sur la responsabilité[^209-1];
 - j. l’indication des voies de droit.
 
-[^209-1]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^209-1]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 #### Art. 210
 
@@ -3539,7 +3546,7 @@ La décision de réquisition de sûretés s’adresse:
 <sup>5</sup> Dans des cas particuliers, il peut être renoncé au séquestre de biens. Les al. 1, let. b, 3 et 4 ainsi que l’art. 209, let. f et i, ne sont pas applicables dans ces cas.
 
 [^210-1]: Nouvelle teneur selon le ch. I de l’O du 27 juin 2012, en vigueur depuis le 1<sup>er</sup> août 2012 ([RO 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
-[^210-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^210-2]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 211
 
@@ -3696,7 +3703,7 @@ L’OFDF peut vendre de gré à gré un gage douanier au lieu de le mettre aux e
 
 - a. avec l’accord du propriétaire;
 - b. sans l’accord du propriétaire lorsque le gage douanier n’est pas vendu à l’issue des enchères;
-- c.[^221a-2] pour des marchandises ou des choses dont la valeur n’excède pas 5000 francs et dont la propriété n'est pas attribuée.
+- c.[^221a-2] pour des marchandises ou des choses dont la valeur n’excède pas 5000 francs et dont la propriété n’est pas attribuée.
 
 <sup>2</sup> L’accord du propriétaire est irrévocable. Il doit être donné par écrit et ne peut être assorti de conditions et de charges.
 
@@ -3878,10 +3885,10 @@ Il peut consigner ou compléter les données relatives à l’identité d’une 
 <sup>5</sup> Si l’OFDF recueille des données biométriques visées à l’al. 3 sans être autorité d’enquête, il est tenu de présenter les demandes d’effacement de ces données si cela est nécessaire au sens des actes législatifs autres que douaniers déterminants.
 
 [^226-1]: Introduit par l’annexe ch. 3 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
-[^226-2]: [RS 361.3](https://fedlex.data.admin.ch/eli/cc/2014/23)
+[^226-2]: [RS 361.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6311)
 [^226-3]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
 [^226-4]: Nouvelle teneur selon l’annexe 2 ch. II 69 de l’O du 31 août 2022 sur la protection des données, en vigueur depuis le 1<sup>er</sup> sept. 2023 ([RO 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^226-5]: [RS 631.061](https://fedlex.data.admin.ch/eli/cc/2017/535)
+[^226-5]: [RS 631.061](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7823)
 [^226-6]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 6 déc. 2013 sur le traitement des données signalétiques biométriques, en vigueur depuis le 1<sup>er</sup> sept. 2014 ([RO 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
 
 #### Art. 227
@@ -3942,7 +3949,7 @@ Le directeur de l’OFDF autorise tout membre du personnel visé à l’al. 1 à
 <sup>5</sup> L’OFDF est responsable de l’organisation des formations au tir et à la sécurité. Il peut collaborer avec d’autres organes pour exécuter ses tâches.
 
 [^228-1]: Nouvelle teneur selon le ch. I de l’O du 22 déc. 2023, en vigueur depuis le 1<sup>er</sup> fév. 2024 ([RO 2024 12](https://fedlex.data.admin.ch/eli/oc/2024/12)).
-[^228-2]: [RS 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
+[^228-2]: [RS 364](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6323)
 
 #### Art. 229
 
@@ -4055,7 +4062,7 @@ Si une personne sur laquelle porte une demande d’assistance administrative pr�
 
 <sup>2</sup> Elle est compétente pour l’édiction des dispositions correspondantes et elle définit notamment les conditions d’admission, le niveau exigé, les procédures de qualification, les certificats délivrés et les titres décernés en ce qui concerne les examens professionnels fédéraux et les examens professionnels fédéraux supérieurs pour le personnel de l’OFDF.
 
-[^235-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^235-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 
 #### Art. 236
 
@@ -4085,7 +4092,7 @@ Les infractions douanières commises dans un bureau de douane suisse sis à l’
 
 <sup>2</sup> En règle générale, la décision d’assujettissement à la prestation est notifiée à l’inculpé en même temps que le procès-verbal final.
 
-[^238-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^238-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 239
 
@@ -4097,7 +4104,7 @@ Les infractions douanières commises dans un bureau de douane suisse sis à l’
 
 <sup>2</sup> Si un assujettissement à la prestation solidaire de l’inculpé conforme à l’art. 12, al. 3, DPA entre en ligne de compte, une décision de constatation est établie d’office.
 
-[^239-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^239-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 240
 
@@ -4127,7 +4134,7 @@ Pour autant que le fait constitutif d’une infraction douanière ne soit pas r�
 - j. n’observe pas les conditions et charges fixées dans des autorisations, des accords ou des engagements d’emploi en vertu de la présente ordonnance.
 
 [^240a-1]: Introduit par le ch. I de l’O du 27 juin 2012, en vigueur depuis le 1<sup>er</sup> août 2012 ([RO 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
-[^240a-2]: [RS 632.14](https://fedlex.data.admin.ch/eli/cc/2011/669)
+[^240a-2]: [RS 632.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7981)
 
 #### Art. 240b
 
@@ -4140,7 +4147,7 @@ Pour autant que le fait constitutif d’une infraction douanière ne soit pas r�
 <sup>2</sup> Chaque service de l’OFDF est compétent, dans le cadre de ses activités, pour décerner les mandats de répression en procédure simplifiée selon l’art. 65, al. 1, DPA[^240b-2].
 
 [^240b-1]: Introduit par le ch. I de l’O du 21 nov. 2018, en vigueur depuis le 1<sup>er</sup> janv. 2019 ([RO 2018 4671](https://fedlex.data.admin.ch/eli/oc/2018/735)).
-[^240b-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^240b-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## Titre 6 Dispositions finales
 
@@ -4165,17 +4172,17 @@ Le DFF est habilité à approuver les modifications des annexes et des appendice
 - 9\. Convention douanière du 18 mai 1956 relative à l’importation temporaire de véhicules routiers commerciaux[^241-10];
 - 10\. Protocole d’amendement du 26 juin 1999 à la Convention internationale du 18 mai 1973 pour la simplification et l’harmonisation des régimes douaniers[^241-11].
 
-[^241-1]: LF du 21 mars 1997 sur l’organisation du gouvernement et de l’administration ([RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)).
-[^241-2]: [RS 0.631.122](https://fedlex.data.admin.ch/eli/cc/1986/764_764_764)
-[^241-3]: [RS 0.631.20](https://fedlex.data.admin.ch/eli/cc/1977/1437_1437_1437)
-[^241-4]: [RS 0.631.24](https://fedlex.data.admin.ch/eli/cc/1995/4685_4685_4685)
-[^241-5]: [RS 0.631.244.57](https://fedlex.data.admin.ch/eli/cc/1963/479_476_493)
-[^241-6]: [RS 0.631.250.112](https://fedlex.data.admin.ch/eli/cc/1977/647_647_647)
-[^241-7]: [RS 0.631.251.4](https://fedlex.data.admin.ch/eli/cc/1958/719_749_752)
-[^241-8]: [RS 0.631.251.7](https://fedlex.data.admin.ch/eli/cc/1960/1062_1110_1107)
-[^241-9]: [RS 0.631.252.512](https://fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281)
-[^241-10]: [RS 0.631.252.52](https://fedlex.data.admin.ch/eli/cc/1960/1039_1087_1083)
-[^241-11]: [RS 0.631.21](https://fedlex.data.admin.ch/eli/cc/2007/342)
+[^241-1]: LF du 21 mars 1997 sur l’organisation du gouvernement et de l’administration ([RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)).
+[^241-2]: [RS 0.631.122](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2009)
+[^241-3]: [RS 0.631.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2023)
+[^241-4]: [RS 0.631.24](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2025)
+[^241-5]: [RS 0.631.244.57](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2053)
+[^241-6]: [RS 0.631.250.112](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2055)
+[^241-7]: [RS 0.631.251.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2059)
+[^241-8]: [RS 0.631.251.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2060)
+[^241-9]: [RS 0.631.252.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2062)
+[^241-10]: [RS 0.631.252.52](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2063)
+[^241-11]: [RS 0.631.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2024)
 
 #### Art. 242
 
@@ -4192,11 +4199,11 @@ Le DFF est habilité à approuver des arrangements relatifs à des bureaux à co
 - 3\. Convention du 28 septembre 1960 entre la Suisse et la France relative aux bureaux à contrôles nationaux juxtaposés et aux contrôles en cours de route[^242-4];
 - 4\. Convention du 11 mars 1961 entre la Confédération suisse et la République italienne relative aux bureaux à contrôles nationaux juxtaposés et au contrôle en cours de route[^242-5].
 
-[^242-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^242-2]: [RS 0.631.252.913.690](https://fedlex.data.admin.ch/eli/cc/1964/391_387_387)
-[^242-3]: [RS 0.631.252.916.320](https://fedlex.data.admin.ch/eli/cc/1964/1149_1149_1181)
-[^242-4]: [RS 0.631.252.934.95](https://fedlex.data.admin.ch/eli/cc/1961/569_574_590)
-[^242-5]: [RS 0.631.252.945.460](https://fedlex.data.admin.ch/eli/cc/1963/715_711_735)
+[^242-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^242-2]: [RS 0.631.252.913.690](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2079)
+[^242-3]: [RS 0.631.252.916.320](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2123)
+[^242-4]: [RS 0.631.252.934.95](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2140)
+[^242-5]: [RS 0.631.252.945.460](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2173)
 
 #### Art. 242a
 
@@ -4234,7 +4241,7 @@ Lorsque des produits agricoles pour lesquels des taux du contingent tarifaire so
 
 <sup>2</sup> La Direction générale des douanes soumet pour avis une demande d’octroi d’une autorisation aux organisations et aux services fédéraux concernés si cela est nécessaire pour juger si les conditions visées à l’art. 132, al. 7, LD ou à l’art. 46, al. 2, de la présente ordonnance sont remplies.
 
-[^245-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^245-1]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 #### Art. 246
 
@@ -4242,8 +4249,8 @@ Lorsque des produits agricoles pour lesquels des taux du contingent tarifaire so
 
 Les envois de la poste aux lettres et les colis acheminés par La Poste suisse dans le cadre du service universel (art. 3 et 4 de la loi du 30 avril 1997 sur la poste[^246-2]) ou par des opérateurs privés dans le cadre de leur concession peuvent être déclarés selon le droit en vigueur jusqu’au 30 juin 2013.
 
-[^246-1]: [[RO 1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452), [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)annexe ch. 23, [2003 4297](https://fedlex.data.admin.ch/eli/oc/2003/638), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 85, [2007 5645](https://fedlex.data.admin.ch/eli/oc/2007/776). [RO 2012 4993](https://fedlex.data.admin.ch/eli/oc/2012/585)annexe ch. I]. Voir actuellement la LF du 17 déc. 2010 ([RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)).
-[^246-2]: [RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)
+[^246-1]: [[RO 1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452), [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)annexe ch. 23, [2003 4297](https://fedlex.data.admin.ch/eli/oc/2003/638), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 85, [2007 5645](https://fedlex.data.admin.ch/eli/oc/2007/776). [RO 2012 4993](https://fedlex.data.admin.ch/eli/oc/2012/585)annexe ch. I]. Voir actuellement la LF du 17 déc. 2010 ([RS 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)).
+[^246-2]: [RS 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)
 
 #### Art. 246a
 
@@ -4349,19 +4356,19 @@ Sont réputés marchandises sensibles:
 - 13\. les marchandises pour lesquelles le Conseil fédéral a édicté des mesures de coercition conformément à l’art. 184, al. 3, de la Constitution[^annex2-lvlu1-11] et à l’art. 2 de la loi du 22 mars 2002 sur les embargos [^annex2-lvlu1-12];
 - 14\. les biens culturels définis à l’art. 2, al. 1, de la loi fédérale du 20 juin 2003 sur le transfert des biens culturels[^annex2-lvlu1-13].
 
-[^annex2-lvlu1-1]: [RS 453.0](https://fedlex.data.admin.ch/eli/cc/2013/601)
-[^annex2-lvlu1-2]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^annex2-lvlu1-3]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^annex2-lvlu1-4]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
-[^annex2-lvlu1-5]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
-[^annex2-lvlu1-6]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
-[^annex2-lvlu1-7]: [[RO 1997 211](https://fedlex.data.admin.ch/eli/oc/1997/211_211_211), [2001 3159](https://fedlex.data.admin.ch/eli/oc/2001/474)[3160](https://fedlex.data.admin.ch/eli/oc/2001/475), [2005 4839](https://fedlex.data.admin.ch/eli/oc/2005/653), **2010** 1239. [RO 2011 2561](https://fedlex.data.admin.ch/eli/oc/2011/362)art. 86]. Voir actuellement l’O du 25 mai 2011 sur le contrôle des stupéfiants ([RS 812.121.1](https://fedlex.data.admin.ch/eli/cc/2011/362)).
-[^annex2-lvlu1-8]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^annex2-lvlu1-9]: [RS 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
-[^annex2-lvlu1-10]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
-[^annex2-lvlu1-11]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^annex2-lvlu1-12]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
-[^annex2-lvlu1-13]: [RS 444.1](https://fedlex.data.admin.ch/eli/cc/2005/317)
+[^annex2-lvlu1-1]: [RS 453.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7190)
+[^annex2-lvlu1-2]: [RS 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
+[^annex2-lvlu1-3]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
+[^annex2-lvlu1-4]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
+[^annex2-lvlu1-5]: [RS 732.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8531)
+[^annex2-lvlu1-6]: [RS 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
+[^annex2-lvlu1-7]: [[RO 1997 211](https://fedlex.data.admin.ch/eli/oc/1997/211_211_211), [2001 3159](https://fedlex.data.admin.ch/eli/oc/2001/474)[3160](https://fedlex.data.admin.ch/eli/oc/2001/475), [2005 4839](https://fedlex.data.admin.ch/eli/oc/2005/653), **2010** 1239. [RO 2011 2561](https://fedlex.data.admin.ch/eli/oc/2011/362)art. 86]. Voir actuellement l’O du 25 mai 2011 sur le contrôle des stupéfiants ([RS 812.121.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9340)).
+[^annex2-lvlu1-8]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^annex2-lvlu1-9]: [RS 941.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11228)
+[^annex2-lvlu1-10]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
+[^annex2-lvlu1-11]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^annex2-lvlu1-12]: [RS 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
+[^annex2-lvlu1-13]: [RS 444.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7147)
 
 Annexe 3
 
@@ -4390,18 +4397,18 @@ Sont abrogés:
 - 17\. l’ordonnance du 18 mai 2005 sur la compétence de la Direction générale des douanes dans le domaine de la formation professionnelle supérieure pour le personnel de l’OFDF[^annex3-lvlu1-19];
 - 18\. l’arrêté du Conseil fédéral du 31 mai 1966 concernant l’exonération des droits d’entrée grevant les carburants pour les aéronefs qui exécutent des vols non professionnels à destination de l’étranger[^annex3-lvlu1-20].
 
-[^annex3-lvlu1-1]: [RS **6** 517; [RO 1957 1016](https://fedlex.data.admin.ch/eli/oc/1957/1002_1016_1040); [1960 272](https://fedlex.data.admin.ch/eli/oc/1960/261_272_267); [1961 1200](https://fedlex.data.admin.ch/eli/oc/1961/1178_1200_1226); [1965 923](https://fedlex.data.admin.ch/eli/oc/1965/915_923_917); [1972 160](https://fedlex.data.admin.ch/eli/oc/1972/156_160_160); [1973 650](https://fedlex.data.admin.ch/eli/oc/1973/651_650_651); [1974 1949](https://fedlex.data.admin.ch/eli/oc/1974/1949_1949_1949); [1976 2086](https://fedlex.data.admin.ch/eli/oc/1976/_2086_); [1993 1054](https://fedlex.data.admin.ch/eli/oc/1993/1054_1054_1054); [1995 1818](https://fedlex.data.admin.ch/eli/oc/1995/1818_1818_1818); [1997 1630](https://fedlex.data.admin.ch/eli/oc/1997/1630_1630_1630), [2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)ch. II 35; [1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)ch. II 15; [2001 267](https://fedlex.data.admin.ch/eli/oc/2001/56)art. 33 ch. 3; [2002 326](https://fedlex.data.admin.ch/eli/oc/2002/70), [328](https://fedlex.data.admin.ch/eli/oc/2002/72)annexe 2 ch. 1]
+[^annex3-lvlu1-1]: [[RS 6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7743)517; [RO 1957 1016](https://fedlex.data.admin.ch/eli/oc/1957/1002_1016_1040); [1960 272](https://fedlex.data.admin.ch/eli/oc/1960/261_272_267); [1961 1200](https://fedlex.data.admin.ch/eli/oc/1961/1178_1200_1226); [1965 923](https://fedlex.data.admin.ch/eli/oc/1965/915_923_917); [1972 160](https://fedlex.data.admin.ch/eli/oc/1972/156_160_160); [1973 650](https://fedlex.data.admin.ch/eli/oc/1973/651_650_651); [1974 1949](https://fedlex.data.admin.ch/eli/oc/1974/1949_1949_1949); [1976 2086](https://fedlex.data.admin.ch/eli/oc/1976/_2086_); [1993 1054](https://fedlex.data.admin.ch/eli/oc/1993/1054_1054_1054); [1995 1818](https://fedlex.data.admin.ch/eli/oc/1995/1818_1818_1818); [1997 1630](https://fedlex.data.admin.ch/eli/oc/1997/1630_1630_1630), [2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)ch. II 35; [1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)ch. II 15; [2001 267](https://fedlex.data.admin.ch/eli/oc/2001/56)art. 33 ch. 3; [2002 326](https://fedlex.data.admin.ch/eli/oc/2002/70), [328](https://fedlex.data.admin.ch/eli/oc/2002/72)annexe 2 ch. 1]
 [^annex3-lvlu1-2]: [[RO 1999 1300](https://fedlex.data.admin.ch/eli/oc/1999/176)]
 [^annex3-lvlu1-3]: Non publié dans le RO.
 [^annex3-lvlu1-4]: Non publié dans le RO.
 [^annex3-lvlu1-5]: Non publié dans le RO.
-[^annex3-lvlu1-6]: [RS **6** 610; [RO 1951 970](https://fedlex.data.admin.ch/eli/oc/1951/968_970_996)art. 4]
+[^annex3-lvlu1-6]: [[RS 6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7743)610; [RO 1951 970](https://fedlex.data.admin.ch/eli/oc/1951/968_970_996)art. 4]
 [^annex3-lvlu1-7]: [[RO 1993 393](https://fedlex.data.admin.ch/eli/oc/1993/393_393_393)]
 [^annex3-lvlu1-8]: [[RO 1995 1821](https://fedlex.data.admin.ch/eli/oc/1995/1821_1821_1821)]
 [^annex3-lvlu1-9]: [[RO 2002 328](https://fedlex.data.admin.ch/eli/oc/2002/72)]
 [^annex3-lvlu1-10]: [[RO 1960 961](https://fedlex.data.admin.ch/eli/oc/1960/921_961_953), [2002 1365](https://fedlex.data.admin.ch/eli/oc/2002/205)]
-[^annex3-lvlu1-11]: [RS **6** 640; [RO 1972 889](https://fedlex.data.admin.ch/eli/oc/1972/877_889_809); [1978 1913](https://fedlex.data.admin.ch/eli/oc/1978/1913_1913_1913); [1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)ch. II 16]
-[^annex3-lvlu1-12]: [RS **6** 684; [RO 1951 970](https://fedlex.data.admin.ch/eli/oc/1951/968_970_996)art. 3, 4; [1965 1260](https://fedlex.data.admin.ch/eli/oc/1965/1246_1260_1248)]
+[^annex3-lvlu1-11]: [[RS 6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7743)640; [RO 1972 889](https://fedlex.data.admin.ch/eli/oc/1972/877_889_809); [1978 1913](https://fedlex.data.admin.ch/eli/oc/1978/1913_1913_1913); [1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)ch. II 16]
+[^annex3-lvlu1-12]: [[RS 6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7743)684; [RO 1951 970](https://fedlex.data.admin.ch/eli/oc/1951/968_970_996)art. 3, 4; [1965 1260](https://fedlex.data.admin.ch/eli/oc/1965/1246_1260_1248)]
 [^annex3-lvlu1-13]: [[RO 1950 647](https://fedlex.data.admin.ch/eli/oc/1950/623_647_635); [1951 970](https://fedlex.data.admin.ch/eli/oc/1951/968_970_996)art. 3; [1961 332](https://fedlex.data.admin.ch/eli/oc/1961/326_332_339); [1990 1645](https://fedlex.data.admin.ch/eli/oc/1990/1645_1645_1645); [1998 1533](https://fedlex.data.admin.ch/eli/oc/1998/1533_1533_1533)]
 [^annex3-lvlu1-14]: [[RO 1972 341](https://fedlex.data.admin.ch/eli/oc/1972/337_341_342); [1981 621](https://fedlex.data.admin.ch/eli/oc/1981/621_621_621); [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)ch. II 36; [2002 1366](https://fedlex.data.admin.ch/eli/oc/2002/206)]
 [^annex3-lvlu1-15]: [[RO 1962 1153](https://fedlex.data.admin.ch/eli/oc/1962/1113_1153_1156)]
@@ -4441,11 +4448,11 @@ Annexe 5[^t-2]
 <tr><td>art. 96 à 98 OD</td><td>art. 2*a* Kundmachungsgesetz[^annex5-lvlu1-8] en relation avec art. 96 à 98 OD</td></tr>
 </table>
 
-[^annex5-lvlu1-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^annex5-lvlu1-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^annex5-lvlu1-2]: LR 216.0
-[^annex5-lvlu1-3]: [RS 221.431](https://fedlex.data.admin.ch/eli/cc/2002/216)
+[^annex5-lvlu1-3]: [RS 221.431](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5936)
 [^annex5-lvlu1-4]: LR 216.01
-[^annex5-lvlu1-5]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^annex5-lvlu1-5]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^annex5-lvlu1-6]: LR 282.0
 [^annex5-lvlu1-7]: LR 284.0
 [^annex5-lvlu1-8]: LR 170.550

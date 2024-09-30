@@ -4,11 +4,11 @@ title: Ordinanza del 1° novembre 2006 sulle dogane (OD)
 short: OD
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/250"
 language: it
-version: 2024-02-01
+version: 2024-10-01
 adopted: 2006-11-01
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/250/20240201/it/xml/fedlex-data-admin-ch-eli-cc-2007-250-20240201-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20240201/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/250/20241001/it/xml/fedlex-data-admin-ch-eli-cc-2007-250-20241001-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20241001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/250/20240201/it"
 
 (OD)
 
-del 1° novembre 2006 (Stato 1° febbraio 2024)
+del 1° novembre 2006 (Stato 1° ottobre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -25,9 +25,9 @@ vista la legge del 18 marzo 2005[^ingress-1] sulle dogane (LD); visto l’artico
 
 ordina:
 
-[^ingress-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^ingress-2]: [RS 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
-[^ingress-3]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^ingress-1]: [RS 631.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7812)
+[^ingress-2]: [RS 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
+[^ingress-3]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
 ## Titolo 1: Basi del regime doganale
 
@@ -60,7 +60,7 @@ Nell’enclave doganale, l’Ufficio federale della dogana e della sicurezza dei
 
 <sup>2</sup> Sono fatte salve le competenze di altre autorità della Confederazione e autorità cantonali nell’esecuzione di disposti federali di natura non doganale.
 
-[^2-1]: Nuovo testo giusta il n. II 2 dell’O del 12 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 2741](https://fedlex.data.admin.ch/eli/oc/2020/497)).
+[^2-1]: Nuovo testo giusta la cifra II n. 2 dell’O del 12 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 2741](https://fedlex.data.admin.ch/eli/oc/2020/497)).
 
 #### Art. 3
 
@@ -74,7 +74,7 @@ Nell’enclave doganale, l’Ufficio federale della dogana e della sicurezza dei
 
 <sup>3</sup> Essa può fissare nell’autorizzazione un contributo del proprietario ai maggiori costi per la sorveglianza del confine doganale e che insorgono in relazione alle costruzioni o agli impianti.
 
-[^3-1]: Nuova espr. giusta il n. II 2 dell’O del 12 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 2741](https://fedlex.data.admin.ch/eli/oc/2020/497)). Di detta mod. è tenuto conto in tutto il presente testo.
+[^3-1]: Nuova espr. giusta la cifra II n. 2 dell’O del 12 giu. 2020, in vigore dal 1° gen. 2022 ([RU 2020 2741](https://fedlex.data.admin.ch/eli/oc/2020/497)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 #### Art. 4
 
@@ -118,9 +118,9 @@ La franchigia doganale per merci destinate ai beneficiari istituzionali e alle p
 - a. all’ordinanza del 23 agosto 1989[^6-2] concernente i privilegi doganali delle missioni diplomatiche a Berna e dei posti consolari in Svizzera;
 - b. all’ordinanza del 13 novembre 1985[^6-3] concernente i privilegi doganali delle organizzazioni internazionali, degli Stati nelle loro relazioni con tali organizzazioni e delle missioni speciali di Stati esteri.[^6-4]
 
-[^6-1]: [RS 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
-[^6-2]: [RS 631.144.0](https://fedlex.data.admin.ch/eli/cc/1989/1781_1781_1781)
-[^6-3]: [RS 631.145.0](https://fedlex.data.admin.ch/eli/cc/1985/1819_1819_1819)
+[^6-1]: [RS 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
+[^6-2]: [RS 631.144.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7833)
+[^6-3]: [RS 631.145.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7834)
 [^6-4]: Nuovo testo giusta l’all. n. 7 dell’O del 7 dic. 2007 sullo Stato ospite, in vigore dal 1° gen. 2008 ([RU 2007 6657](https://fedlex.data.admin.ch/eli/oc/2007/861)).
 
 #### Art. 7
@@ -253,7 +253,7 @@ Per masserizie di trasloco s’intendono:
 
 <sup>5</sup> Per immigranti s’intendono le persone fisiche che trasferiscono il loro domicilio dal territorio doganale estero nel territorio doganale. Le persone, che senza abbandonare il proprio domicilio in Svizzera hanno soggiornato durante almeno un anno nel territorio doganale estero, sono considerate immigranti.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del 22 apr. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1661](https://fedlex.data.admin.ch/eli/oc/2009/243)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del 22 apr. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1661](https://fedlex.data.admin.ch/eli/oc/2009/243)).
 
 #### Art. 15
 
@@ -282,8 +282,8 @@ Per corredo nuziale s’intendono:
 
 <sup>6</sup> Sono equiparate al matrimonio le unioni domestiche registrate ai sensi della legge del 18 giugno 2004[^15-1] sull’unione domestica registrata o simili comunioni di vita concluse all’estero.[^15-2]
 
-[^15-1]: [RS 211.231](https://fedlex.data.admin.ch/eli/cc/2005/782)
-[^15-2]: Introdotto dal n. I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
+[^15-1]: [RS 211.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5750)
+[^15-2]: Introdotto dalla cifra I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
 
 #### Art. 16
 
@@ -326,8 +326,8 @@ Per oggetti ereditati s’intendono:
 
 <sup>3</sup> La domanda per la concessione della franchigia doganale dev’essere inviata alla direzione di circondario prima dell’importazione.[^17-2]
 
-[^17-1]: [RS 851.1](https://fedlex.data.admin.ch/eli/cc/1978/221_221_221)
-[^17-2]: Nuovo testo giusta il n. I dell’O del 22 apr. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1661](https://fedlex.data.admin.ch/eli/oc/2009/243)).
+[^17-1]: [RS 851.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10359)
+[^17-2]: Nuovo testo giusta la cifra I dell’O del 22 apr. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1661](https://fedlex.data.admin.ch/eli/oc/2009/243)).
 
 #### Art. 18
 
@@ -346,7 +346,7 @@ Sono esenti da dazio i veicoli per invalidi, che beneficiano di:
 
 <sup>3</sup> La domanda per la concessione della franchigia doganale dev’essere inviata alla direzione di circondario. La franchigia doganale è concessa solo una volta nell’arco di sei anni.
 
-[^18-1]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^18-1]: [RS 831.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10046)
 
 #### Art. 19
 
@@ -369,7 +369,7 @@ Oggetti per l’insegnamento e la ricerca sono esenti da dazio, se:
 
 <sup>5</sup> Qualora gli oggetti importati in esenzione di dazio siano consegnati nel territorio doganale, occorre richiedere preliminarmente un’autorizzazione all’UDSC. Quest’ultima decide circa il versamento successivo dei tributi doganali. L’obbligazione doganale sorge nel momento della consegna.
 
-[^19-1]: Nuovo testo giusta il n. I dell’O del 22 apr. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1661](https://fedlex.data.admin.ch/eli/oc/2009/243)).
+[^19-1]: Nuovo testo giusta la cifra I dell’O del 22 apr. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1661](https://fedlex.data.admin.ch/eli/oc/2009/243)).
 
 #### Art. 20
 
@@ -391,7 +391,7 @@ Simili oggetti sono pure esenti da dazio, se sono esposti in:
 
 <sup>4</sup> Qualora gli oggetti d’arte e d’esposizione importati in esenzione di dazio siano utilizzati per scopi diversi, occorre richiedere preliminarmente un’autorizzazione all’UDSC. Quest’ultima decide circa il versamento successivo dei tributi doganali. L’obbligazione doganale sorge nel momento del cambiamento d’utilizzazione.
 
-[^20-1]: Nuovo testo giusta il n. I dell’O del 22 apr. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1661](https://fedlex.data.admin.ch/eli/oc/2009/243)).
+[^20-1]: Nuovo testo giusta la cifra I dell’O del 22 apr. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1661](https://fedlex.data.admin.ch/eli/oc/2009/243)).
 
 #### Art. 21
 
@@ -405,7 +405,7 @@ Simili oggetti sono pure esenti da dazio, se sono esposti in:
 
 <sup>3</sup> Qualora gli strumenti e gli apparecchi importati in esenzione di dazio siano consegnati ad altri nel territorio doganale, occorre richiedere preliminarmente un’autorizzazione all’UDSC. Quest’ultimo decide circa il versamento successivo dei tributi doganali. L’obbligazione doganale sorge nel momento della consegna.
 
-[^21-1]: Nuovo testo giusta il n. I dell’O del 22 apr. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1661](https://fedlex.data.admin.ch/eli/oc/2009/243)).
+[^21-1]: Nuovo testo giusta la cifra I dell’O del 22 apr. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1661](https://fedlex.data.admin.ch/eli/oc/2009/243)).
 
 #### Art. 22
 
@@ -425,7 +425,7 @@ Per soggiorno di studio s’intende segnatamente la formazione e il perfezioname
 
 <sup>3</sup> La domanda per la concessione della franchigia doganale dev’essere inviata alla direzione di circondario prima dell’importazione.[^22-1]
 
-[^22-1]: Nuovo testo giusta il n. I dell’O del 22 apr. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1661](https://fedlex.data.admin.ch/eli/oc/2009/243)).
+[^22-1]: Nuovo testo giusta la cifra I dell’O del 22 apr. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1661](https://fedlex.data.admin.ch/eli/oc/2009/243)).
 
 #### Art. 23
 
@@ -511,7 +511,7 @@ Merci del traffico di mercato sino a un quantitativo complessivo di 100 kg lordi
 
 <sup>4</sup> Sono salve le disposizioni derogatorie degli accordi frontalieri bilaterali.
 
-[^25-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^25-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
 #### Art. 26
 
@@ -563,7 +563,7 @@ Gli imballaggi e i contenitori di merci, che sono rispediti vuoti al mittente ne
 
 <sup>2</sup> Il materiale bellico della Confederazione è equiparato al materiale della protezione civile importato dalla Confederazione e dai Cantoni.[^29-1]
 
-[^29-1]: Nuovo testo giusta il n. III 2 dell’O del 30 nov. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5903](https://fedlex.data.admin.ch/eli/oc/2011/817)).
+[^29-1]: Nuovo testo giusta la cifra III n. 2 dell’O del 30 nov. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5903](https://fedlex.data.admin.ch/eli/oc/2011/817)).
 
 ### Sezione 2: Ammissione temporanea di merci
 
@@ -592,7 +592,7 @@ Le merci destinate all’ammissione temporanea in territorio doganale sono esent
 
 <sup>5</sup> In presenza di importanti motivi che rendono necessaria una sorveglianza del regime dell’ammissione temporanea, l’UDSC può subordinare questo regime a un’esplicita autorizzazione.
 
-[^30-1]: Nuovo testo giusta il n. I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
+[^30-1]: Nuovo testo giusta la cifra I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
 
 #### Art. 31
 
@@ -661,7 +661,7 @@ Veicoli ferroviari esteri possono beneficiare dell’ammissione temporanea in fr
 - a. si tratta di un trasporto transfrontaliero; ed
 - b. essi vengono riesportati non appena si è concluso il trasporto per il quale erano stati importati.
 
-[^34-1]: Nuovo testo giusta il n. I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
+[^34-1]: Nuovo testo giusta la cifra I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
 
 #### Art. 35
 
@@ -707,7 +707,7 @@ L’UDSC può autorizzare le imprese di noleggio residenti in territorio doganal
 
 I contenitori conformemente alla Convenzione doganale del 2 dicembre 1972[^37-1] concernente i contenitori 1972 possono essere utilizzati per un unico trasporto all’interno del territorio doganale dopo essere stati ammessi in territorio transfrontaliero (art. 9 cpv. 1 e allegato 3 della Convenzione doganale).
 
-[^37-1]: [RS 0.631.250.112](https://fedlex.data.admin.ch/eli/cc/1977/647_647_647)
+[^37-1]: [RS 0.631.250.112](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2055)
 
 ### Sezione 3: Merci estere di ritorno
 
@@ -787,7 +787,7 @@ Il regime d’equivalenza è applicato quando:
 
 <sup>2</sup> D’intesa con il Dipartimento federale dell’economia, della formazione e della ricerca[^43-2] designa i prodotti agricoli e i prodotti di base per i quali sono adempiute in generale le condizioni di cui all’articolo 12 capoverso 3 LD relative alla concessione del traffico di perfezionamento attivo. Per queste merci è applicabile il regime d’equivalenza.
 
-[^43-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^43-1]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 [^43-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2013.
 
 #### Art. 44
@@ -901,7 +901,7 @@ L’UDSC calcola l’aliquota di dazio ridotta secondo uno dei seguenti metodi, 
 
 <sup>2</sup> Al più tardi entro 20 giorni dalla ricezione della documentazione completa, la Direzione generale delle dogane decide se approvare l’impegno d’impiego e, se del caso, assegna un numero d’impegno.[^51-1]
 
-[^51-1]: Nuovo testo giusta il n. I 6 dell’O del 6 giu. 2014 sui termini ordinatori nell’ambito di competenza dell’Amministrazione federale delle dogane, in vigore dal 1° set. 2014 ([RU 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
+[^51-1]: Nuovo testo giusta la cifra I n. 6 dell’O del 6 giu. 2014 sui termini ordinatori nell’ambito di competenza dell’Amministrazione federale delle dogane, in vigore dal 1° set. 2014 ([RU 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
 
 #### Art. 52
 
@@ -939,7 +939,7 @@ Le merci, che sono tassate per un determinato impiego a un’aliquota di dazio r
 
 ### (art. 14 LD)
 
-Il DEFR disciplina le misure di controllo e di sicurezza ai fini del rispetto dello scopo d’impiego, come pure la dichiarazione doganale e il versamento successivo o la restituzione di tributi doganali in caso di cambiamento dello scopo d’impiego di cui all’articolo 14 capoversi 4 e 5 LD.
+Il DFF disciplina le misure di controllo e di sicurezza ai fini del rispetto dello scopo d’impiego, come pure la dichiarazione doganale e il versamento successivo o la restituzione di tributi doganali in caso di cambiamento dello scopo d’impiego di cui all’articolo 14 capoversi 4 e 5 LD.
 
 ### Sezione 7: Prodotti agricoli
 
@@ -951,7 +951,7 @@ Il DEFR disciplina le misure di controllo e di sicurezza ai fini del rispetto de
 
 Chi possiede prodotti agricoli ancora in commercio conformemente all’articolo 7 dell’ordinanza del 7 dicembre 1998[^55-1] concernente l’importazione e l’esportazione di verdura, frutta e prodotti della floricoltura (OIEVFF) deve inoltrare una nuova dichiarazione doganale per questi prodotti.
 
-[^55-1]: [RS 916.121.10](https://fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244)
+[^55-1]: [RS 916.121.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10579)
 
 #### Art. 56
 
@@ -963,7 +963,7 @@ Chi possiede prodotti agricoli ancora in commercio conformemente all’articolo 
 
 <sup>2</sup> La persona soggetta all’obbligo di dichiarazione deve chiedere un’eventuale esenzione dal pagamento della differenza di dazio nella dichiarazione doganale. Essa deve inoltrare contemporaneamente alla dichiarazione doganale la conferma scritta che la sua quota di contingente doganale è stata ridotta di conseguenza. Questa conferma è rilasciata via Internet mediante un’applicazione sicura.
 
-[^56-1]: [RS 916.121.10](https://fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244)
+[^56-1]: [RS 916.121.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10579)
 
 #### Art. 57
 
@@ -975,8 +975,8 @@ Chi possiede prodotti agricoli ancora in commercio conformemente all’articolo 
 
 <sup>2</sup> ...[^57-2]
 
-[^57-1]: [RS 916.121.10](https://fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244)
-[^57-2]: Abrogato dal n. II dell’O del 14 nov. 2007, con effetto dal 1° gen. 2008 ([RU 2007 6265](https://fedlex.data.admin.ch/eli/oc/2007/832)).
+[^57-1]: [RS 916.121.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10579)
+[^57-2]: Abrogato dalla cifra II dell’O del 14 nov. 2007, con effetto dal 1° gen. 2008 ([RU 2007 6265](https://fedlex.data.admin.ch/eli/oc/2007/832)).
 
 #### Art. 58
 
@@ -995,7 +995,7 @@ La lista deve contenere le seguenti indicazioni:
 - c. massa propria;
 - d. nome e indirizzo dell’acquirente.
 
-[^58-1]: [RS 916.121.10](https://fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244)
+[^58-1]: [RS 916.121.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10579)
 
 #### Art. 59
 
@@ -1003,8 +1003,8 @@ La lista deve contenere le seguenti indicazioni:
 
 Per i prodotti agricoli ancora disponibili di cui all’articolo 7 OIEVFF[^59-2], la dichiarazione doganale deve pervenire alla Direzione generale delle dogane via Internet, mediante un accesso sicuro, entro le 24.00 del secondo giorno dopo l’inizio del periodo definito all’articolo 7 capoverso 1 OIEVFF. Se il giorno in questione cade di domenica o in un giorno riconosciuto come festivo dal diritto federale, la dichiarazione doganale deve pervenire alla Direzione generale delle dogane entro le 8.00 del giorno feriale successivo.
 
-[^59-1]: Nuovo testo giusta il n. II dell’ O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6265](https://fedlex.data.admin.ch/eli/oc/2007/832)).
-[^59-2]: [RS 916.121.10](https://fedlex.data.admin.ch/eli/cc/1998/3244_3244_3244)
+[^59-1]: Nuovo testo giusta la cifra II dell’ O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6265](https://fedlex.data.admin.ch/eli/oc/2007/832)).
+[^59-2]: [RS 916.121.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10579)
 
 #### Art. 60
 
@@ -1020,7 +1020,7 @@ Le dichiarazioni doganali, che giungono tempestivamente e in maniera completa pr
 
 Chi consegna a un terzo prodotti agricoli importati nel periodo libero deve informarlo, per scritto, dell’obbligo di una nuova dichiarazione doganale conformemente all’articolo 55.
 
-[^61-1]: Nuovo testo giusta il n. II dell’ O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6265](https://fedlex.data.admin.ch/eli/oc/2007/832)).
+[^61-1]: Nuovo testo giusta la cifra II dell’ O del 14 nov. 2007, in vigore dal 1° gen. 2008 ([RU 2007 6265](https://fedlex.data.admin.ch/eli/oc/2007/832)).
 
 #### Art. 62
 
@@ -1078,13 +1078,19 @@ La quantità di derrate alimentari e di bevande analcoliche pronte per l’uso c
 <tr><td>d. bevande alcoliche:</td><td></td></tr>
 <tr><td>1. con tenore alcolico fino a 18 % vol.</td><td>5 l, e</td></tr>
 <tr><td>2. con tenore alcolico superiore a 18 % vol.</td><td>1 l</td></tr>
-<tr><td>e. tabacchi manufatti:</td><td></td></tr>
-<tr><td>1. sigarette/sigari 2. altri tabacchi manufatti 3. una scelta di questi prodotti in quantità proporzionale</td><td>[tab] 250 pezzi, o [tab] [tab] 250 grammi, o</td></tr>
-<tr><td>f. carburanti importati nei bidoni di scorta di un veicolo conformemente all’articolo 34 capoverso 2 dell’ordinanza del 20 novembre 1996[^65-2] sull’imposizione degli oli minerali</td><td>25 l</td></tr>
+<tr><td>e.[^65-2] tabacchi manufatti:</td><td></td></tr>
+<tr><td>1. sigarette/sigari/tabacchi manufatti destinati a essere riscaldati</td><td>250 pezzi, o</td></tr>
+<tr><td>2. altri tabacchi manufatti</td><td>250 grammi, o</td></tr>
+<tr><td>3. prodotti contenenti nicotina da utilizzare nelle sigarette elettroniche</td><td>250 millilitri, o</td></tr>
+<tr><td>4. cartucce contenenti nicotina</td><td>250 pezzi, o</td></tr>
+<tr><td>5. sigarette elettroniche monouso</td><td>25 pezzi, o</td></tr>
+<tr><td>6. una scelta di questi prodotti in quantità proporzionale</td><td></td></tr>
+<tr><td>f. carburanti importati nei bidoni di scorta di un veicolo conformemente all’articolo 34 capoverso 2 dell’ordinanza del 20 novembre 1996[^65-3] sull’imposizione degli oli minerali</td><td>25 l</td></tr>
 </table>
 
-[^65-1]: Nuovo testo giusta il n. I dell’O del 2 apr. 2014, in vigore dal 1° lug. 2014 ([RU 2014 979](https://fedlex.data.admin.ch/eli/oc/2014/218)).
-[^65-2]: [RS 641.611](https://fedlex.data.admin.ch/eli/cc/1996/3393_3393_3393)
+[^65-1]: Nuovo testo giusta la cifra I dell’O del 2 apr. 2014, in vigore dal 1° lug. 2014 ([RU 2014 979](https://fedlex.data.admin.ch/eli/oc/2014/218)).
+[^65-2]: Nuovo testo giusta l’all. 4 cifra II n. 2 dell’O del 28 ago. 2024 sui prodotti del tabacco, in vigore dal 1° ott. 2024 ([RU 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
+[^65-3]: [RS 641.611](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8139)
 
 #### Art. 66
 
@@ -1100,13 +1106,13 @@ La quantità di derrate alimentari e di bevande analcoliche pronte per l’uso c
 
 <sup>4</sup> La quantità ammessa in franchigia di cui all’articolo 65 capoverso 2 lettera f è concessa per veicolo.
 
-[^66-1]: Nuovo testo giusta il n. I dell’O del 2 apr. 2014, in vigore dal 1° lug. 2014 ([RU 2014 979](https://fedlex.data.admin.ch/eli/oc/2014/218)).
+[^66-1]: Nuovo testo giusta la cifra I dell’O del 2 apr. 2014, in vigore dal 1° lug. 2014 ([RU 2014 979](https://fedlex.data.admin.ch/eli/oc/2014/218)).
 
 #### Art. 67
 
 [^67-1]
 
-[^67-1]: Abrogato dal n. I dell’O del 2 apr. 2014, con effetto dal 1° lug. 2014 ([RU 2014 979](https://fedlex.data.admin.ch/eli/oc/2014/218)).
+[^67-1]: Abrogato dalla cifra I dell’O del 2 apr. 2014, con effetto dal 1° lug. 2014 ([RU 2014 979](https://fedlex.data.admin.ch/eli/oc/2014/218)).
 
 #### Art. 68
 
@@ -1118,9 +1124,9 @@ La quantità di derrate alimentari e di bevande analcoliche pronte per l’uso c
 
 <sup>2</sup> Le aliquote forfetarie comprendono tutti i dazi calcolati sulla stessa base applicata ai dazi doganali.
 
-<sup>3</sup> Il DEFR fissa le aliquote di dazio forfetarie.
+<sup>3</sup> Il DFF fissa le aliquote di dazio forfetarie.
 
-[^68-1]: Nuovo testo giusta il n. I dell’O del 2 apr. 2014, in vigore dal 1° lug. 2014 ([RU 2014 979](https://fedlex.data.admin.ch/eli/oc/2014/218)).
+[^68-1]: Nuovo testo giusta la cifra I dell’O del 2 apr. 2014, in vigore dal 1° lug. 2014 ([RU 2014 979](https://fedlex.data.admin.ch/eli/oc/2014/218)).
 
 ### Sezione 9: Negozi in zona franca di tasse e ristoranti di bordo
 
@@ -1143,9 +1149,9 @@ Nei negozi in zona franca di tasse le seguenti merci possono essere vendute in e
 
 <sup>2</sup> L’immagazzinamento è retto dalle disposizioni sul deposito doganale aperto.
 
-[^69-1]: Nuovo testo giusta il n. I dell’O del 20 apr. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1747](https://fedlex.data.admin.ch/eli/oc/2011/264)).
-[^69-2]: Nuovo testo giusta il n. I dell’O del 20 apr. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1747](https://fedlex.data.admin.ch/eli/oc/2011/264)).
-[^69-3]: Nuova espr. giusta il n. I dell’O del 2 apr. 2014, in vigore dal 1° lug. 2014 ([RU 2014 979](https://fedlex.data.admin.ch/eli/oc/2014/218)).
+[^69-1]: Nuovo testo giusta la cifra I dell’O del 20 apr. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1747](https://fedlex.data.admin.ch/eli/oc/2011/264)).
+[^69-2]: Nuovo testo giusta la cifra I dell’O del 20 apr. 2011, in vigore dal 1° giu. 2011 ([RU 2011 1747](https://fedlex.data.admin.ch/eli/oc/2011/264)).
+[^69-3]: Nuova espr. giusta la cifra I dell’O del 2 apr. 2014, in vigore dal 1° lug. 2014 ([RU 2014 979](https://fedlex.data.admin.ch/eli/oc/2014/218)).
 
 #### Art. 70
 
@@ -1176,7 +1182,7 @@ Per scorte destinate ai ristoranti di bordo s’intendono:
 
 <sup>2</sup> Per l’interpretazione dell’allegato 1 della legge 9 ottobre 1986 sulla tariffa delle dogane ci si riferisce alle spiegazioni relative alla tariffa doganale e alle decisioni sulla tariffazione delle merci pubblicate dall’UDSC.
 
-[^71-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^71-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
 
 #### Art. 72
 
@@ -1189,11 +1195,11 @@ Base per la determinazione dell’origine preferenziale sono le disposizioni:
 - a.[^72-1] degli accordi internazionali elencati nell’allegato 1 dell’ordinanza del 18 giugno 2008[^72-2] sul libero scambio 1 e nell’allegato 1 dell’ordinanza del 27 giugno 1995[^72-3] sul libero scambio 2;
 - b.[^72-4] dell’ordinanza del 30 marzo 2011[^72-5] sulle regole d’origine.
 
-[^72-1]: Nuovo testo giusta il n. I dell’O del 22 apr. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1661](https://fedlex.data.admin.ch/eli/oc/2009/243)).
-[^72-2]: [RS 632.421.0](https://fedlex.data.admin.ch/eli/cc/2008/455)
-[^72-3]: [RS 632.319](https://fedlex.data.admin.ch/eli/cc/1995/2695_2695_2695)
-[^72-4]: Nuovo testo giusta il n. I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
-[^72-5]: [RS 946.39](https://fedlex.data.admin.ch/eli/cc/2011/220)
+[^72-1]: Nuovo testo giusta la cifra I dell’O del 22 apr. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1661](https://fedlex.data.admin.ch/eli/oc/2009/243)).
+[^72-2]: [RS 632.421.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8060)
+[^72-3]: [RS 632.319](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8041)
+[^72-4]: Nuovo testo giusta la cifra I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
+[^72-5]: [RS 946.39](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11459)
 
 #### Art. 73
 
@@ -1221,11 +1227,11 @@ Ai fini di un’informazione in materia di origine, la richiesta deve contenere 
 
 <sup>4</sup> In caso di richieste insufficientemente documentate, l’UDSC invita il richiedente a porvi rimedio entro un adeguato termine. Se, nonostante tale esortazione, la richiesta è ancora incompleta, l’UDSC può rinunciare a rilasciare l’informazione in materia di tariffa e di origine.
 
-<sup>4</sup> <sup>bis</sup> L’UDSC fornisce l’informazione in materia di tariffa e di origine al più tardi entro 40 giorni dalla ricezione della documentazione completa.[^73-1]
+<sup>4bis</sup> L’UDSC fornisce l’informazione in materia di tariffa e di origine al più tardi entro 40 giorni dalla ricezione della documentazione completa.[^73-1]
 
 <sup>5</sup> Essa può trattenere la documentazione inoltrata senza obbligo d’indennità.
 
-[^73-1]: Introdotto dal n. I 6 dell’O del 6 giu. 2014 sui termini ordinatori nell’ambito di competenza dell’Amministrazione federale delle dogane, in vigore dal 1° set. 2014 ([RU 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
+[^73-1]: Introdotto dalla cifra I n. 6 dell’O del 6 giu. 2014 sui termini ordinatori nell’ambito di competenza dell’Amministrazione federale delle dogane, in vigore dal 1° set. 2014 ([RU 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
 
 #### Art. 74
 
@@ -1304,7 +1310,7 @@ Oltre alle indicazioni usuali prescritte, nella dichiarazione doganale la person
 
 <sup>2</sup> In caso di procedura di dichiarazione doganale a due fasi, essa deve fornire queste indicazioni nella prima dichiarazione.
 
-[^79-1]: Introdotta dal n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^79-1]: Introdotta dalla cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
 #### Art. 80
 
@@ -1332,11 +1338,11 @@ Per prodotti originari, l’UDSC concede l’imposizione all’aliquota preferen
 
 <sup>2</sup> La rinuncia alla presentazione di prove dell’origine per prodotti originari di un Paese o territorio di cui all’allegato 1 dell’ordinanza del 16 marzo 2007[^80a-4] sulle preferenze tariffali si fonda sull’ordinanza del 30 marzo 2011[^80a-5] sulle regole d’origine.
 
-[^80a-1]: Introdotto dal n. I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
-[^80a-2]: [RS 632.421.0](https://fedlex.data.admin.ch/eli/cc/2008/455)
-[^80a-3]: [RS 632.319](https://fedlex.data.admin.ch/eli/cc/1995/2695_2695_2695)
-[^80a-4]: [RS 632.911](https://fedlex.data.admin.ch/eli/cc/2007/159)
-[^80a-5]: [RS 946.39](https://fedlex.data.admin.ch/eli/cc/2011/220)
+[^80a-1]: Introdotto dalla cifra I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
+[^80a-2]: [RS 632.421.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8060)
+[^80a-3]: [RS 632.319](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8041)
+[^80a-4]: [RS 632.911](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8066)
+[^80a-5]: [RS 946.39](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11459)
 
 #### Art. 81
 
@@ -1506,7 +1512,7 @@ La persona soggetta all’obbligo di dichiarazione non può richiedere un’impo
 - a. vi è l’intenzione di presentare una domanda di riduzione delle aliquote doganali per determinati impieghi secondo l’articolo 14 capoverso 2 LD o se è pendente una simile domanda;
 - b. la merce non è più sotto la custodia dell’UDSC.
 
-[^93-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^93-1]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
 
 #### Art. 94
 
@@ -1587,7 +1593,7 @@ La persona soggetta all’obbligo di conservazione deve:
 
 <sup>3</sup> Gli articoli 9 e 10 dell’ordinanza del 24 aprile 2002[^98-1] sui libri di commercio sono applicabili per analogia.
 
-[^98-1]: [RS 221.431](https://fedlex.data.admin.ch/eli/cc/2002/216)
+[^98-1]: [RS 221.431](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5936)
 
 #### Art. 99
 
@@ -1662,9 +1668,9 @@ L’UDSC rifiuta l’autorizzazione se il richiedente:
 
 <sup>6</sup> Il titolare dell’autorizzazione deve comunicare all’UDSC tutte le modifiche che riguardano i requisiti per l’autorizzazione.[^103-3]
 
-[^103-1]: Nuovo testo giusta il n. I 6 dell’O del 6 giu. 2014 sui termini ordinatori nell’ambito di competenza dell’Amministrazione federale delle dogane, in vigore dal 1° set. 2014 ([RU 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
-[^103-2]: Nuovo testo giusta il n. I 6 dell’O del 6 giu. 2014 sui termini ordinatori nell’ambito di competenza dell’Amministrazione federale delle dogane, in vigore dal 1° set. 2014 ([RU 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
-[^103-3]: Introdotto dal n. I 6 dell’O del 6 giu. 2014 sui termini ordinatori nell’ambito di competenza dell’Amministrazione federale delle dogane, in vigore dal 1° set. 2014 ([RU 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
+[^103-1]: Nuovo testo giusta la cifra I n. 6 dell’O del 6 giu. 2014 sui termini ordinatori nell’ambito di competenza dell’Amministrazione federale delle dogane, in vigore dal 1° set. 2014 ([RU 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
+[^103-2]: Nuovo testo giusta la cifra I n. 6 dell’O del 6 giu. 2014 sui termini ordinatori nell’ambito di competenza dell’Amministrazione federale delle dogane, in vigore dal 1° set. 2014 ([RU 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
+[^103-3]: Introdotto dalla cifra I n. 6 dell’O del 6 giu. 2014 sui termini ordinatori nell’ambito di competenza dell’Amministrazione federale delle dogane, in vigore dal 1° set. 2014 ([RU 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
 
 #### Art. 104
 
@@ -1720,7 +1726,7 @@ Per un invio è possibile presentare più dichiarazioni doganali purché:
 
 <sup>4</sup> L’UDSC può negare o ritirare l’autorizzazione ad avvalersi della dichiarazione doganale semplificata qualora vengano pregiudicati la riscossione dei tributi o l’osservanza di disposti di natura non doganale oppure non siano rispettate le condizioni e gli oneri fissati nell’autorizzazione di cui all’articolo 103.
 
-[^105a-1]: Introdotto dal n. I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
+[^105a-1]: Introdotto dalla cifra I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
 
 #### Art. 105b
 
@@ -1733,7 +1739,7 @@ L’UDSC obbliga il destinatario autorizzato ad avvalersi della dichiarazione do
 - a. constata che il destinatario autorizzato richiede per lo sdoganamento una controprestazione sproporzionatamente alta rispetto ad altri offerenti; e
 - b. presenta una relativa domanda all’UDSC.
 
-[^105b-1]: Introdotto dal n. I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
+[^105b-1]: Introdotto dalla cifra I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
 
 #### Art. 105c
 
@@ -1743,7 +1749,7 @@ L’UDSC obbliga il destinatario autorizzato ad avvalersi della dichiarazione do
 
 Nell’autorizzazione ai sensi dell’articolo 103 l’UDSC può stabilire che per gli invii di cui all’articolo 105*a* capoverso 2 non venga emessa alcuna decisione d’imposizione.
 
-[^105c-1]: Introdotto dal n. I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
+[^105c-1]: Introdotto dalla cifra I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
 
 #### Art. 106
 
@@ -1830,7 +1836,7 @@ La procedura della ricezione autorizzata si applica a merci che sono portate al 
 
 [^tit2-chap3-sec3a-1]
 
-[^tit2-chap3-sec3a-1]: Introdotta dal n. I dell’O del 27 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6233](https://fedlex.data.admin.ch/eli/oc/2009/762)).
+[^tit2-chap3-sec3a-1]: Introdotta dalla cifra I dell’O del 27 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6233](https://fedlex.data.admin.ch/eli/oc/2009/762)).
 
 #### Art. 112a
 
@@ -1844,7 +1850,7 @@ La procedura della ricezione autorizzata si applica a merci che sono portate al 
 
 <sup>3</sup> Un AEO beneficia di agevolazioni per quanto riguarda la procedura d’imposizione doganale e i controlli doganali di sicurezza.
 
-[^112a-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^112a-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
 #### Art. 112b
 
@@ -1867,7 +1873,7 @@ Possono richiedere la qualifica di AEO le persone che:
 
 <sup>2</sup> Le persone che disponevano di una qualifica di AEO, revocata sulla base dell’articolo 112*s* capoverso 1 lettere a o b, possono presentare una nuova domanda al più presto tre anni dopo la revoca.
 
-[^112b-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^112b-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
 #### Art. 112c
 
@@ -1877,7 +1883,7 @@ Possono richiedere la qualifica di AEO le persone che:
 
 La qualifica di AEO è concessa, su richiesta, alle persone che soddisfano i criteri di cui agli articoli 112*d*–112*g*.
 
-[^112c-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^112c-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
 #### Art. 112d
 
@@ -1892,7 +1898,7 @@ Le prescrizioni doganali sono considerate rispettate se, nei tre anni precedenti
 - c. la persona responsabile delle questioni doganali nell’impresa richiedente; e
 - d. la persona che rappresenta il richiedente o l’impresa richiedente nelle questioni doganali.
 
-[^112d-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^112d-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
 #### Art. 112e
 
@@ -1911,9 +1917,9 @@ Il sistema di tenuta dei libri contabili e, se del caso, dei documenti relativi 
 - g. garantisce che l’UDSC venga informato se l’impresa ha dubbi sull’applicazione di una prescrizione;
 - h. ha adottato misure di sicurezza di tecnologia dell’informazione al fine di tutelare il sistema informatico dell’impresa da intrusioni non autorizzate e proteggere i dati.
 
-[^112e-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
-[^112e-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
-[^112e-3]: [RS 221.431](https://fedlex.data.admin.ch/eli/cc/2002/216)
+[^112e-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^112e-2]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
+[^112e-3]: [RS 221.431](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5936)
 
 #### Art. 112f
 
@@ -1929,9 +1935,9 @@ La solvibilità finanziaria è considerata comprovata se il richiedente:
 - a<sup>bis</sup>.[^112f-2] nei tre anni precedenti la presentazione della domanda ha versato i dazi e tutte le altre imposte, tributi ed emolumenti dovuti;
 - b. nei tre anni precedenti la presentazione della domanda non ha inoltrato alcuna domanda di concordato ai sensi dell’articolo 293 della legge federale dell’11 aprile 1889[^112f-3] sulla esecuzione e sul fallimento (LEF) e se contro di lui non è stata avanzata alcuna domanda di fallimento ai sensi degli articoli 166 e 190–193 LEF.
 
-[^112f-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
-[^112f-2]: Introdotta dal n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
-[^112f-3]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^112f-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^112f-2]: Introdotta dalla cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^112f-3]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 112g
 
@@ -1950,7 +1956,7 @@ Gli standard di sicurezza sono considerati adeguati se il richiedente comprova c
 - g. il richiedente ha adottato misure di sicurezza adeguate nei confronti dei fornitori di servizio cui fa capo;
 - h. il richiedente garantisce che i dipendenti di cui alla lettera f sono regolarmente formati in materia di sicurezza.
 
-[^112g-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^112g-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
 #### Art. 112h
 
@@ -1964,7 +1970,7 @@ Gli standard di sicurezza sono considerati adeguati se il richiedente comprova c
 
 <sup>2</sup> Le corrispondenti disposizioni sono elencate nell’allegato 5.
 
-[^112h-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^112h-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
 #### Art. 112i
 
@@ -1985,7 +1991,7 @@ Alla domanda devono essere allegati i seguenti documenti:
 
 <sup>3</sup> L’UDSC pubblica in modo adeguato la lista della documentazione richiesta di cui al capoverso 2 lettera b.
 
-[^112i-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^112i-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
 #### Art. 112j
 
@@ -2006,8 +2012,8 @@ Al più tardi entro 30 giorni dalla ricezione della documentazione, l’UDSC ver
 
 <sup>3</sup> La decisione di non entrata nel merito può essere impugnata mediante ricorso amministrativo conformemente all’articolo 116 LD.
 
-[^112j-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
-[^112j-2]: Nuovo testo giusta il n. I 6 dell’O del 6 giu. 2014 sui termini ordinatori nell’ambito di competenza dell’Amministrazione federale delle dogane, in vigore dal 1° set. 2014 ([RU 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
+[^112j-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^112j-2]: Nuovo testo giusta la cifra I n. 6 dell’O del 6 giu. 2014 sui termini ordinatori nell’ambito di competenza dell’Amministrazione federale delle dogane, in vigore dal 1° set. 2014 ([RU 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
 
 #### Art. 112k
 
@@ -2031,9 +2037,9 @@ Al più tardi entro 30 giorni dalla ricezione della documentazione, l’UDSC ver
 
 <sup>7</sup> Se contro una persona di cui all’articolo 112*d* è pendente un procedimento penale per un’infrazione grave o per infrazioni ripetute ai sensi dell’articolo 112*d* o 112*g* lettera a e l’esito del procedimento è importante per valutare se le condizioni per la concessione della qualifica di AEO sono adempiute, l’UDSC sospende l’esame materiale della domanda.[^112k-3]
 
-[^112k-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
-[^112k-2]: Introdotto dal n. I 6 dell’O del 6 giu. 2014 sui termini ordinatori nell’ambito di competenza dell’Amministrazione federale delle dogane, in vigore dal 1° set. 2014 ([RU 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
-[^112k-3]: Introdotto dal n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^112k-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^112k-2]: Introdotto dalla cifra I n. 6 dell’O del 6 giu. 2014 sui termini ordinatori nell’ambito di competenza dell’Amministrazione federale delle dogane, in vigore dal 1° set. 2014 ([RU 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
+[^112k-3]: Introdotto dalla cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
 #### Art. 112l
 
@@ -2056,10 +2062,10 @@ L’UDSC riconosce le seguenti prove:[^112l-3]
 - e. un certificato rilasciato sulla base di un’altra norma riconosciuta;
 - f.[^112l-4] un certificato di sicurezza rilasciato da un’autorità federale svizzera.
 
-[^112l-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
-[^112l-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
-[^112l-3]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
-[^112l-4]: Introdotta dal n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^112l-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^112l-2]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^112l-3]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^112l-4]: Introdotta dalla cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
 #### Art. 112m
 
@@ -2071,7 +2077,7 @@ L’UDSC riconosce le seguenti prove:[^112l-3]
 
 <sup>2</sup> La validità della qualifica di AEO è illimitata.
 
-[^112m-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^112m-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
 #### Art. 112n
 
@@ -2083,7 +2089,7 @@ L’UDSC riconosce le seguenti prove:[^112l-3]
 
 Se respinge la domanda, l’UDSC ne dà comunicazione al richiedente mediante decisione.
 
-[^112n-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^112n-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
 #### Art. 112o
 
@@ -2097,7 +2103,7 @@ Se respinge la domanda, l’UDSC ne dà comunicazione al richiedente mediante de
 
 <sup>2</sup> Su richiesta dell’UDSC, l’AEO deve fornire tutte le informazioni e i documenti che possono essere rilevanti ai fini dell’esecuzione delle prescrizioni.
 
-[^112o-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^112o-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
 #### Art. 112p
 
@@ -2111,7 +2117,7 @@ Se respinge la domanda, l’UDSC ne dà comunicazione al richiedente mediante de
 
 <sup>2</sup> Essa può controllare costruzioni e impianti, richiedere informazioni, esaminare dati e documenti nonché sistemi e informazioni che possono essere rilevanti ai fini dell’esecuzione delle prescrizioni.
 
-[^112p-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^112p-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
 #### Art. 112q
 
@@ -2132,8 +2138,8 @@ Essa procede a un riesame delle condizioni e dei criteri in particolare se:
 
 <sup>3</sup> ...[^112q-2]
 
-[^112q-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
-[^112q-2]: Abrogato dal n. I dell’O del 18 nov. 2015, con effetto dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^112q-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^112q-2]: Abrogato dalla cifra I dell’O del 18 nov. 2015, con effetto dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
 #### Art. 112r
 
@@ -2165,7 +2171,7 @@ L’UDSC sospende la qualifica di AEO se constata o ha sufficienti motivi di rit
 
 <sup>6</sup> Se l’AEO adempie nuovamente le condizioni, l’UDSC revoca la sospensione.
 
-[^112r-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^112r-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
 #### Art. 112s
 
@@ -2182,13 +2188,13 @@ L’UDSC revoca la qualifica di AEO se una persona di cui all’articolo 112*d*:
 
 <sup>2</sup> Essa revoca inoltre la qualifica di AEO se l’AEO ne fa richiesta.
 
-[^112s-1]: Introdotto dal n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^112s-1]: Introdotto dalla cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
 ### Sezione 3*b*: Dichiarazione sommaria di entrata e di uscita ai fini della sicurezza
 
 [^tit2-chap3-sec3b-1]
 
-[^tit2-chap3-sec3b-1]: Introdotta dal n. I dell’O del 27 giu. 2012, ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)). Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^tit2-chap3-sec3b-1]: Introdotta dalla cifra I dell’O del 27 giu. 2012, ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)). Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
 ### (art. 2 cpv. 2 LD)
 
@@ -2253,7 +2259,7 @@ Nel traffico regionale, l’UDSC può autorizzare, su richiesta scritta, per car
 - a. l’importazione o l’esportazione ha luogo regolarmente e attraverso lo stesso ufficio doganale; e
 - b. la gestione degli affari dell’ufficio doganale la consentono.
 
-<sup>1</sup> <sup>bis</sup> L’UDSC decide in merito all’autorizzazione al più tardi entro 30 giorni dalla ricezione della documentazione completa.[^116-2]
+<sup>1bis</sup> L’UDSC decide in merito all’autorizzazione al più tardi entro 30 giorni dalla ricezione della documentazione completa.[^116-2]
 
 <sup>2</sup> Essa designa nell’autorizzazione le merci alle quali è applicabile la dichiarazione collettiva periodica.
 
@@ -2266,9 +2272,9 @@ Dalla dichiarazione collettiva periodica sono escluse segnatamente merci:
 
 <sup>4</sup> Il titolare dell’autorizzazione deve prestare all’UDSC una garanzia per i tributi presumibilmente dovuti per ciascun periodo di conteggio.
 
-[^tit2-chap3-sec5-1]: Referenza abrogata dal n. I 6 dell’O del 6 giu. 2014 sui termini ordinatori nell’ambito di competenza dell’Amministrazione federale delle dogane, con effetto dal 1° set. 2014 ([RU 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
-[^116-1]: Introdotta dal n. I 6 dell’O del 6 giu. 2014 sui termini ordinatori nell’ambito di competenza dell’Amministrazione federale delle dogane, in vigore dal 1° set. 2014 ([RU 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
-[^116-2]: Introdotto dal n. I 6 dell’O del 6 giu. 2014 sui termini ordinatori nell’ambito di competenza dell’Amministrazione federale delle dogane, in vigore dal 1° set. 2014 ([RU 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
+[^tit2-chap3-sec5-1]: Referenza abrogata dalla cifra I n. 6 dell’O del 6 giu. 2014 sui termini ordinatori nell’ambito di competenza dell’Amministrazione federale delle dogane, con effetto dal 1° set. 2014 ([RU 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
+[^116-1]: Introdotta dalla cifra I n. 6 dell’O del 6 giu. 2014 sui termini ordinatori nell’ambito di competenza dell’Amministrazione federale delle dogane, in vigore dal 1° set. 2014 ([RU 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
+[^116-2]: Introdotto dalla cifra I n. 6 dell’O del 6 giu. 2014 sui termini ordinatori nell’ambito di competenza dell’Amministrazione federale delle dogane, in vigore dal 1° set. 2014 ([RU 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
 
 #### Art. 117
 
@@ -2303,7 +2309,7 @@ Il gestore che intende sollecitare la franchigia doganale o la riduzione dei tri
 
 <sup>4</sup> Il gestore deve dichiarare ogni importazione di merci secondo la forma prescritta dall’UDSC.[^118-1]
 
-[^118-1]: Introdotto dal n. I dell’O del 22 apr. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1661](https://fedlex.data.admin.ch/eli/oc/2009/243)).
+[^118-1]: Introdotto dalla cifra I dell’O del 22 apr. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1661](https://fedlex.data.admin.ch/eli/oc/2009/243)).
 
 #### Art. 119
 
@@ -2313,7 +2319,7 @@ Il gestore che intende sollecitare la franchigia doganale o la riduzione dei tri
 
 <sup>1</sup> Gli animali, le macchine agricole e gli apparecchi, nonché altri oggetti, che servono alla gestione di fondi situati nella zona di confine svizzera o estera, devono essere dichiarati per il regime di ammissione temporanea.
 
-<sup>2</sup> Il DEFR disciplina il passaggio transfrontaliero di animali per il pascolo.
+<sup>2</sup> Il DFF disciplina il passaggio transfrontaliero di animali per il pascolo.
 
 <sup>3</sup> L’ufficio doganale può prevedere agevolazioni procedurali e rinunciare alla garanzia dei tributi.
 
@@ -2581,7 +2587,7 @@ Gli aeromobili e le merci trasportate non devono essere né presentate né dichi
 
 <sup>2</sup> Le merci trasportate in aeromobili devono essere presentate ma non dichiarate se, dopo un unico atterraggio, lasciano nuovamente il territorio doganale intatte.[^143-1]
 
-[^143-1]: Nuovo testo giusta il n. I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
+[^143-1]: Nuovo testo giusta la cifra I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
 
 #### Art. 144
 
@@ -2591,19 +2597,19 @@ Gli aeromobili e le merci trasportate non devono essere né presentate né dichi
 
 Nel traffico aereo di linea, la dichiarazione per il regime di transito nel territorio doganale può aver luogo sulla base del manifesto conformemente all’articolo 111 della Convenzione del 20 maggio 1987[^144-1] relativa ad un regime comune di transito.
 
-[^144-1]: [RS 0.631.242.04](https://fedlex.data.admin.ch/eli/cc/1988/308_308_308)
+[^144-1]: [RS 0.631.242.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2030)
 
 #### Art. 145 a 150
 
 [^145150-1]
 
-[^145150-1]: Abrogati dal n. I dell’O del 27 giu. 2012, con effetto dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
+[^145150-1]: Abrogati dalla cifra I dell’O del 27 giu. 2012, con effetto dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
 
 ### Sezione 11: Liste di passeggeri e merci
 
 [^tit2-chap3-sec11-1]
 
-[^tit2-chap3-sec11-1]: Nuovo testo giusta il n. I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
+[^tit2-chap3-sec11-1]: Nuovo testo giusta la cifra I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
 
 ### (art. 44 cpv. 2 LD)
 
@@ -2628,7 +2634,7 @@ I seguenti dati devono essere messi a disposizione:
 
 <sup>4</sup> I dati messi a disposizione dell’UDSC sono distrutti da quest’ultima 72 ore dopo il loro ricevimento.
 
-[^151-1]: Nuovo testo giusta il n. I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
+[^151-1]: Nuovo testo giusta la cifra I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
 
 ### Capitolo 4: Regimi doganali
 
@@ -2707,7 +2713,7 @@ Se le merci non possono essere esportate entro sei mesi dall’accettazione dell
 
 <sup>6</sup> Se le merci non sono portate nel territorio doganale estero entro i termini d’esportazione, il regime d’esportazione viene revocato.
 
-[^157-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^157-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
 #### Art. 158
 
@@ -2772,7 +2778,7 @@ Non sono ammesse lavorazioni che:
 
 <sup>5</sup> Il regime di ammissione temporanea si applica a un passaggio di confine con successiva reimportazione o riesportazione delle merci. Per determinate merci l’UDSC può autorizzare ripetuti passaggi di confine.
 
-[^162-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^162-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
 #### Art. 163
 
@@ -2818,7 +2824,7 @@ L’autorizzazione per il regime del perfezionamento attivo è rilasciata a pers
 
 <sup>4</sup> La Direzione generale delle dogane sottopone, per parere, una domanda di rilascio di un’autorizzazione alle organizzazioni interessate e agli uffici federali, se ciò è necessario per valutare le condizioni di cui all’articolo 12 capoverso 3 LD o all’articolo 41 capoverso 2 della presente ordinanza.
 
-[^165-1]: Nuovo testo giusta il n. I 6 dell’O del 6 giu. 2014 sui termini ordinatori nell’ambito di competenza dell’Amministrazione federale delle dogane, in vigore dal 1° set. 2014 ([RU 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
+[^165-1]: Nuovo testo giusta la cifra I n. 6 dell’O del 6 giu. 2014 sui termini ordinatori nell’ambito di competenza dell’Amministrazione federale delle dogane, in vigore dal 1° set. 2014 ([RU 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
 
 #### Art. 165a
 
@@ -2835,8 +2841,8 @@ Se riceve una domanda di rilascio di un’autorizzazione per il perfezionamento 
 
 <sup>2</sup> La Direzione generale delle dogane decide in merito alla domanda se il richiedente non la ritira per scritto entro dieci giorni lavorativi dall’informazione delle organizzazioni interessate.
 
-[^165a-1]: Introdotto dal n. I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3929](https://fedlex.data.admin.ch/eli/oc/2018/628)).
-[^165a-2]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
+[^165a-1]: Introdotto dalla cifra I dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3929](https://fedlex.data.admin.ch/eli/oc/2018/628)).
+[^165a-2]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
 
 #### Art. 166
 
@@ -2881,7 +2887,7 @@ All’organo di sorveglianza designato nell’autorizzazione il titolare dell’
 - b. provare secondo la forma prescritta che le merci trasportate nel territorio doganale o le merci indigene ammesse nel regime d’equivalenza sono state riesportate entro il termine prescritto quali prodotti perfezionati; e
 - c. comprovare la quantità di merci perfezionate e di scarti o prodotti secondari risultanti dietro presentazione di ricette, rapporti di fabbricazione e documenti simili.
 
-<sup>3</sup> Il DEFR può prevedere agevolazioni procedurali.
+<sup>3</sup> Il DFF può prevedere agevolazioni procedurali.
 
 #### Art. 169
 
@@ -2903,7 +2909,7 @@ All’organo di sorveglianza designato nell’autorizzazione il titolare dell’
 
 <sup>2</sup> Il perfezionamento attivo di queste merci è considerato autorizzato.
 
-<sup>3</sup> Il DEFR disciplina il regime di restituzione.
+<sup>3</sup> Il DFF disciplina il regime di restituzione.
 
 ### Sezione 5: Regime del perfezionamento passivo
 
@@ -2922,7 +2928,7 @@ L’autorizzazione per il regime del perfezionamento passivo è rilasciata a per
 
 <sup>2</sup> L’autorizzazione è rilasciata, su richiesta, dalla Direzione generale delle dogane o dagli uffici doganali da essa autorizzati al più tardi entro 30 giorni dalla ricezione della documentazione completa.[^171-1]
 
-[^171-1]: Nuovo testo giusta il n. I 6 dell’O del 6 giu. 2014 sui termini ordinatori nell’ambito di competenza dell’Amministrazione federale delle dogane, in vigore dal 1° set. 2014 ([RU 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
+[^171-1]: Nuovo testo giusta la cifra I n. 6 dell’O del 6 giu. 2014 sui termini ordinatori nell’ambito di competenza dell’Amministrazione federale delle dogane, in vigore dal 1° set. 2014 ([RU 2014 2051](https://fedlex.data.admin.ch/eli/oc/2014/354)).
 
 #### Art. 172
 
@@ -2957,13 +2963,13 @@ All’organo di sorveglianza designato nell’autorizzazione il titolare dell’
 - b. provare secondo la forma prescritta che le merci esportate per il perfezionamento passivo o le merci estere ammesse nel regime d’equivalenza sono state nuovamente trasportate in territorio doganale entro il termine prescritto quali prodotti perfezionati; e
 - c. comprovare la quantità di merci perfezionate e di scarti o prodotti secondari risultanti dietro presentazione di ricette, rapporti di fabbricazione e documenti simili.
 
-<sup>3</sup> Il DEFR può prevedere agevolazioni procedurali.
+<sup>3</sup> Il DFF può prevedere agevolazioni procedurali.
 
 ### Sezione 6: Regime d’esportazione
 
 [^tit2-chap4-sec6-1]
 
-[^tit2-chap4-sec6-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^tit2-chap4-sec6-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
 #### Art. 173a
 
@@ -2973,7 +2979,7 @@ All’organo di sorveglianza designato nell’autorizzazione il titolare dell’
 
 Le merci possono essere imposte all’esportazione e successivamente immagazzinate in un deposito doganale aperto o in un deposito franco doganale solo se l’acquirente delle merci ha la propria sede o il proprio domicilio fuori dal territorio doganale.
 
-[^173a-1]: Introdotto dal n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^173a-1]: Introdotto dalla cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
 #### Art. 174
 
@@ -2985,7 +2991,7 @@ Le merci possono essere imposte all’esportazione e successivamente immagazzina
 
 Se il regime d’esportazione non è concluso regolarmente, la persona soggetta all’obbligo di dichiarazione deve restituire senza indugio la decisione d’imposizione all’ufficio doganale che ha tassato la merce esportata.
 
-[^174-1]: Introdotto dal n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^174-1]: Introdotto dalla cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
 ### Capitolo 5: Depositi franchi doganali
 
@@ -3037,7 +3043,7 @@ L’UDSC revoca l’autorizzazione, se il titolare del deposito:
 
 <sup>2</sup> La dichiarazione doganale deve contenere le indicazioni di cui all’articolo 184 capoverso 1 lettere a–f nonché il nome e l’indirizzo del depositante.
 
-[^178a-1]: Introdotto dal n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^178a-1]: Introdotto dalla cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
 #### Art. 179
 
@@ -3047,7 +3053,7 @@ L’UDSC revoca l’autorizzazione, se il titolare del deposito:
 
 Per i termini d’esportazione si applica l’articolo 157.
 
-[^179-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^179-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
 #### Art. 180
 
@@ -3106,11 +3112,11 @@ L’elenco deve contenere le seguenti indicazioni:[^183-2]
 
 <sup>2</sup> Su richiesta, il depositario deve presentare senza indugio l’elenco all’UDSC per via elettronica. L’UDSC definisce lo standard minimo per il formato dei file.[^183-5]
 
-[^183-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
-[^183-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
-[^183-3]: Introdotta dal n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
-[^183-4]: Introdotto dal n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
-[^183-5]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^183-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^183-2]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^183-3]: Introdotta dalla cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^183-4]: Introdotto dalla cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^183-5]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
 #### Art. 184
 
@@ -3150,12 +3156,12 @@ L’inventario deve contenere le seguenti indicazioni:
 
 <sup>5</sup> I capoversi 1–4 si applicano anche ai depositanti ai quali spetta l’obbligo di tenere l’inventario.
 
-[^184-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
-[^184-2]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
-[^184-3]: [RS 0.631.242.04](https://fedlex.data.admin.ch/eli/cc/1988/308_308_308)
-[^184-4]: Introdotta dal n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
-[^184-5]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
-[^184-6]: Introdotto dal n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^184-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^184-2]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^184-3]: [RS 0.631.242.04](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2030)
+[^184-4]: Introdotta dalla cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^184-5]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^184-6]: Introdotto dalla cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
 #### Art. 185
 
@@ -3165,7 +3171,7 @@ L’inventario deve contenere le seguenti indicazioni:
 
 Deve essere tenuto un inventario per merci sensibili per ciascun depositante. Se le merci dello stesso depositante sono immagazzinate in diversi locali, è possibile tenere un inventario per locale.
 
-[^185-1]: Nuovo testo giusta il n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^185-1]: Nuovo testo giusta la cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
 ## Titolo 3: Riscossione dei tributi doganali
 
@@ -3194,7 +3200,7 @@ L’obbligo di pagare l’interesse di mora inizia in caso di:
 
 ### (art. 74 cpv. 2 LD)
 
-<sup>1</sup> Il DEFR determina l’importo entro il quale non è riscosso alcun interesse di mora.
+<sup>1</sup> Il DFF determina l’importo entro il quale non è riscosso alcun interesse di mora.
 
 <sup>2</sup> L’Amministrazione delle dogane può, su richiesta, rinunciare alla riscossione dell’interesse di mora se, a causa della situazione del debitore doganale, il pagamento comporterebbe notevoli difficoltà economiche o sociali.
 
@@ -3206,7 +3212,7 @@ L’obbligo di pagare l’interesse di mora inizia in caso di:
 
 <sup>1</sup> Per importi indebitamente riscossi o indebitamente restituiti s’intendono importi che non sono stati riscossi conformemente al diritto doganale.
 
-<sup>2</sup> Il DEFR determina l’importo entro il quale non è riscosso alcun interesse rimunerativo.
+<sup>2</sup> Il DFF determina l’importo entro il quale non è riscosso alcun interesse rimunerativo.
 
 <sup>3</sup>
 
@@ -3234,7 +3240,7 @@ Non è versato alcun interesse rimunerativo per:
 
 Per quanto le disposizioni seguenti non contengano prescrizioni deroganti, è applicabile l’articolo 49 dell’ordinanza del 5 aprile 2006[^189-1] sulle finanze della Confederazione.
 
-[^189-1]: [RS 611.01](https://fedlex.data.admin.ch/eli/cc/2006/228)
+[^189-1]: [RS 611.01](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7752)
 
 #### Art. 190
 
@@ -3302,7 +3308,7 @@ La garanzia ammonta:
 
 <sup>2</sup> Per transiti internazionali, l’ammontare della garanzia è determinato conformemente ai trattati internazionali.
 
-[^194-1]: Introdotta dal n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^194-1]: Introdotta dalla cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
 #### Art. 195
 
@@ -3315,7 +3321,7 @@ La garanzia ammonta:
 <sup>2</sup> L’UDSC decide se, in altri casi, si può rinunciare alla garanzia.
 
 [^195-1]: Ora: secondo l’art. 34 cpv. 3.
-[^195-2]: Nuovo testo giusta il n. I dell’O del 22 apr. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1661](https://fedlex.data.admin.ch/eli/oc/2009/243)).
+[^195-2]: Nuovo testo giusta la cifra I dell’O del 22 apr. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1661](https://fedlex.data.admin.ch/eli/oc/2009/243)).
 
 #### Art. 196
 
@@ -3514,7 +3520,7 @@ L’ordine di prestare garanzia deve contenere quanto segue:
 - i. indicazione che le condizioni dell’obbligo di risarcimento dell’UDSC sono rette dalle disposizioni della legge del 14 marzo 1958[^209-1] sulla responsabilità;
 - j. rimedi giuridici.
 
-[^209-1]: [RS 170.32](https://fedlex.data.admin.ch/eli/cc/1958/1413_1483_1489)
+[^209-1]: [RS 170.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4971)
 
 #### Art. 210
 
@@ -3537,8 +3543,8 @@ L’ordine di prestare garanzia è rivolto:
 
 <sup>5</sup> In casi particolari si può rinunciare al sequestro di valori patrimoniali. I capoversi 1 lettera b, 3 e 4 nonché l’articolo 209 lettere f e i non sono applicabili in questi casi.
 
-[^210-1]: Nuovo testo giusta il n. I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
-[^210-2]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^210-1]: Nuovo testo giusta la cifra I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
+[^210-2]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 211
 
@@ -3680,8 +3686,8 @@ La prova della distruzione totale o parziale può essere fornita mediante l’at
 
 <sup>4</sup> La merce o la cosa è consegnata al maggior offerente dietro pagamento immediato dell’intero prezzo d’acquisto.
 
-[^tit3-chap4-1]: Rimando abrogato dal n. I dell’O del 27 giu. 2012, con effetto dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
-[^221-1]: Nuovo testo giusta il n. I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
+[^tit3-chap4-1]: Rimando abrogato dalla cifra I dell’O del 27 giu. 2012, con effetto dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
+[^221-1]: Nuovo testo giusta la cifra I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
 
 #### Art. 221a
 
@@ -3705,8 +3711,8 @@ Invece dell’incanto l’UDSC può procedere alla vendita a trattativa privata 
 
 <sup>5</sup> L’UDSC redige un verbale della vendita a trattativa privata.
 
-[^221a-1]: Introdotto dal n. I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
-[^221a-2]: Nuovo testo giusta il n. I dell’O del 3 giu. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2443](https://fedlex.data.admin.ch/eli/oc/2016/392)).
+[^221a-1]: Introdotto dalla cifra I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
+[^221a-2]: Nuovo testo giusta la cifra I dell’O del 3 giu. 2016, in vigore dal 1° ago. 2016 ([RU 2016 2443](https://fedlex.data.admin.ch/eli/oc/2016/392)).
 
 #### Art. 221b
 
@@ -3727,7 +3733,7 @@ Un’eventuale eccedenza del ricavato:
 
 <sup>4</sup> L’UDSC allestisce un conto finale scritto circa l’impiego del ricavato.
 
-[^221b-1]: Introdotto dal n. I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
+[^221b-1]: Introdotto dalla cifra I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
 
 #### Art. 221c
 
@@ -3740,7 +3746,7 @@ L’UDSC può rinunciare alla realizzazione di un pegno doganale e consegnare la
 - a. il suo valore non supera 1000 franchi; e
 - b. il suo proprietario non è conosciuto.
 
-[^221c-1]: Introdotto dal n. I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
+[^221c-1]: Introdotto dalla cifra I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
 
 #### Art. 221d
 
@@ -3748,9 +3754,9 @@ L’UDSC può rinunciare alla realizzazione di un pegno doganale e consegnare la
 
 ### (art. 87 cpv. 3 e 5 LD)
 
-Il DEFR disciplina la procedura dell’incanto di pegni doganali e della vendita di titoli.
+Il DFF disciplina la procedura dell’incanto di pegni doganali e della vendita di titoli.
 
-[^221d-1]: Introdotto dal n. I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
+[^221d-1]: Introdotto dalla cifra I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
 
 ## Titolo 4: UDSC
 
@@ -3784,8 +3790,8 @@ L’UDSC può impiegare all’estero i propri agenti di collegamento e assegnare
 
 <sup>2</sup> ...[^221f-2]
 
-[^221f-1]: Introdotto n. I 3 dell’O del 23 nov. 2016 sull’adempimento reciproco di compiti da parte di agenti di collegamento dell’Ufficio federale di polizia e agenti di collegamento dell’Amministrazione federale delle dogane, in vigore dal 1° gen. 2017 ([RU 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
-[^221f-2]: Abrogato dal n. I 11 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, con effetto dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
+[^221f-1]: Introdotto cifra I n. 3 dell’O del 23 nov. 2016 sull’adempimento reciproco di compiti da parte di agenti di collegamento dell’Ufficio federale di polizia e agenti di collegamento dell’Amministrazione federale delle dogane, in vigore dal 1° gen. 2017 ([RU 2016 4525](https://fedlex.data.admin.ch/eli/oc/2016/738)).
+[^221f-2]: Abrogato dalla cifra I n. 11 dell’O del 4 mag. 2022 sulle misure di polizia per la lotta al terrorismo, con effetto dal 1° giu. 2022 ([RU 2022 301](https://fedlex.data.admin.ch/eli/oc/2022/301)).
 
 #### Art. 222
 
@@ -3811,7 +3817,7 @@ L’Amministrazione delle dogane mette al sicuro gli oggetti che scopre nell’a
 
 [^223a-1]
 
-[^223a-1]: Introdotto dal n. I dell’O del 27 giu. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)). Abrogato dal n. I dell’O del 3 giu. 2016, con effetto dal 1° ago. 2016 ([RU 2016 2443](https://fedlex.data.admin.ch/eli/oc/2016/392)).
+[^223a-1]: Introdotto dalla cifra I dell’O del 27 giu. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)). Abrogato dalla cifra I dell’O del 3 giu. 2016, con effetto dal 1° ago. 2016 ([RU 2016 2443](https://fedlex.data.admin.ch/eli/oc/2016/392)).
 
 #### Art. 224
 
@@ -3878,11 +3884,11 @@ L’AFD può accertare o completare i dati concernenti l’identità di una pers
 
 [^226-1]: Nuovo testo giusta l’all. n. 3 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
 [^226-2]: Introdotto dall’all. n. 3 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
-[^226-3]: Nuovo testo giusta l’all. 2 n. II 69 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^226-3]: Nuovo testo giusta l’all. 2 cifra II n. 69 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
 [^226-4]: Nuovo testo giusta l’all. n. 3 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
-[^226-5]: [RS 361.3](https://fedlex.data.admin.ch/eli/cc/2014/23)
-[^226-6]: Nuovo testo giusta l’all. 2 n. II 69 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
-[^226-7]: [RS 631.061](https://fedlex.data.admin.ch/eli/cc/2017/535)
+[^226-5]: [RS 361.3](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6311)
+[^226-6]: Nuovo testo giusta l’all. 2 cifra II n. 69 dell’O del 31 ago. 2022 sulla protezione dei dati, in vigore dal 1° set. 2023 ([RU 2022 568](https://fedlex.data.admin.ch/eli/oc/2022/568)).
+[^226-7]: [RS 631.061](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7823)
 [^226-8]: Nuovo testo giusta l’all. n. 3 dell’O del 6 dic. 2013 sul trattamento dei dati segnaletici di natura biometrica, in vigore dal 1° set. 2014 ([RU 2014 163](https://fedlex.data.admin.ch/eli/oc/2014/23)).
 
 #### Art. 227
@@ -3910,7 +3916,7 @@ Quali mezzi di autodifesa e coattivi possono essere impiegati segnatamente:
 - d. idranti;
 - e. cani di servizio.
 
-<sup>3</sup> Il DEFR disciplina l’impiego di altri mezzi di autodifesa e coattivi equivalenti.
+<sup>3</sup> Il DFF disciplina l’impiego di altri mezzi di autodifesa e coattivi equivalenti.
 
 [^227-1]: Introdotta dall’all. n. 2 dell’O del 12 nov. 2008 concernente i poteri di polizia dell’esercito, in vigore dal 1° gen. 2009 ([RU 2008 5475](https://fedlex.data.admin.ch/eli/oc/2008/760)).
 
@@ -3942,8 +3948,8 @@ Se le seguenti condizioni sono soddisfatte, il direttore dell’UDSC rilascia ai
 
 <sup>5</sup> L’UDSC è responsabile dell’organizzazione delle esercitazioni di tiro e di sicurezza. Per l’adempimento dei suoi compiti può collaborare con altri uffici.
 
-[^228-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 12](https://fedlex.data.admin.ch/eli/oc/2024/12)).
-[^228-2]: [RS 364](https://fedlex.data.admin.ch/eli/cc/2008/759)
+[^228-1]: Nuovo testo giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 12](https://fedlex.data.admin.ch/eli/oc/2024/12)).
+[^228-2]: [RS 364](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6323)
 
 #### Art. 229
 
@@ -3960,7 +3966,7 @@ Per l’uso di armi e di altri mezzi di autodifesa e coattivi da parte del perso
 
 <sup>2</sup> Trattamenti crudeli, umilianti od offensivi sono vietati.
 
-[^229-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 12](https://fedlex.data.admin.ch/eli/oc/2024/12)).
+[^229-1]: Nuovo testo giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 12](https://fedlex.data.admin.ch/eli/oc/2024/12)).
 
 #### Art. 229a
 
@@ -3970,7 +3976,7 @@ Per l’uso di armi e di altri mezzi di autodifesa e coattivi da parte del perso
 
 <sup>2</sup> Se riguardo a una persona si constatano motivi d’impedimento per il porto di un’arma, il superiore ritira immediatamente l’arma. Il direttore dell’UDSC decide, d’intesa con il superiore, se la persona interessata è ancora autorizzata a portare un’arma.
 
-[^229a-1]: Introdotto dal n. I dell’O del 22 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 12](https://fedlex.data.admin.ch/eli/oc/2024/12)).
+[^229a-1]: Introdotto dalla cifra I dell’O del 22 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 12](https://fedlex.data.admin.ch/eli/oc/2024/12)).
 
 #### Art. 230
 
@@ -4018,8 +4024,8 @@ Il personale del Corpo delle guardie di confine e il personale di cui all’arti
 
 <sup>3</sup> Per ogni impiego di armi da fuoco occorre fare rapporto all’autorità competente.
 
-[^232-1]: Nuovo testo giusta il n. I dell’O del 22 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 12](https://fedlex.data.admin.ch/eli/oc/2024/12)).
-[^232-2]: Nuovo testo giusta il n. I dell’O del 22 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 12](https://fedlex.data.admin.ch/eli/oc/2024/12)).
+[^232-1]: Nuovo testo giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 12](https://fedlex.data.admin.ch/eli/oc/2024/12)).
+[^232-2]: Nuovo testo giusta la cifra I dell’O del 22 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 12](https://fedlex.data.admin.ch/eli/oc/2024/12)).
 
 #### Art. 233
 
@@ -4056,7 +4062,7 @@ Se una persona, alla quale si riferisce la richiesta di assistenza amministrativ
 
 <sup>2</sup> Essa è competente per l’emanazione di corrispondenti disposizioni e disciplina, segnatamente per quanto riguarda gli esami federali di professione e gli esami professionali federali superiori per il personale dell’UDSC, le condizioni d’ammissione, i contenuti, le procedure di qualifica, gli attestati e i titoli.
 
-[^235-1]: [RS 412.10](https://fedlex.data.admin.ch/eli/cc/2003/674)
+[^235-1]: [RS 412.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6351)
 
 #### Art. 236
 
@@ -4086,7 +4092,7 @@ Le infrazioni doganali perpetrate presso un ufficio doganale svizzero all’este
 
 <sup>2</sup> La decisione circa l’obbligo di pagamento è intimata di regola all’imputato contemporaneamente al processo verbale finale.
 
-[^238-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^238-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 239
 
@@ -4098,7 +4104,7 @@ Le infrazioni doganali perpetrate presso un ufficio doganale svizzero all’este
 
 <sup>2</sup> Se entra in considerazione un obbligo di pagamento solidale dell’imputato conformemente all’articolo 12 capoverso 3 DPA, è emessa d’ufficio una decisione di constatazione.
 
-[^239-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^239-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 240
 
@@ -4127,8 +4133,8 @@ Sempre che non sia adempiuta la fattispecie legale di un’infrazione doganale, 
 - i. esegue lavorazioni non ammesse di merci in depositi doganali aperti o depositi franchi doganali (art. 161 e 181);
 - j. non rispetta le condizioni e gli oneri fissati in autorizzazioni, accordi o impegni d’impiego in base alla presente ordinanza.
 
-[^240a-1]: Introdotto dal n. I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
-[^240a-2]: [RS 632.14](https://fedlex.data.admin.ch/eli/cc/2011/669)
+[^240a-1]: Introdotto dalla cifra I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
+[^240a-2]: [RS 632.14](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7981)
 
 #### Art. 240b
 
@@ -4140,8 +4146,8 @@ Sempre che non sia adempiuta la fattispecie legale di un’infrazione doganale, 
 
 <sup>2</sup> Ogni servizio dell’UDSC è responsabile, nel proprio settore di compiti, di emanare decreti penali nella procedura abbreviata secondo l’articolo 65 capoverso 1 DPA[^240b-2].
 
-[^240b-1]: Introdotto dal n. I dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4671](https://fedlex.data.admin.ch/eli/oc/2018/735)).
-[^240b-2]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^240b-1]: Introdotto dalla cifra I dell’O del 21 nov. 2018, in vigore dal 1° gen. 2019 ([RU 2018 4671](https://fedlex.data.admin.ch/eli/oc/2018/735)).
+[^240b-2]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 ## Titolo 6: Disposizioni finali
 
@@ -4153,7 +4159,7 @@ Sempre che non sia adempiuta la fattispecie legale di un’infrazione doganale, 
 
 [^241-1]
 
-Il DEFR è autorizzato ad approvare le modifiche di allegati e appendici dei seguenti trattati internazionali:
+Il DFF è autorizzato ad approvare le modifiche di allegati e appendici dei seguenti trattati internazionali:
 
 - 1\. Convenzione internazionale del 21 ottobre 1982[^241-2] sull’armonizzazione dei controlli delle merci alle frontiere;
 - 2\. Convenzione internazionale del 18 maggio 1973[^241-3] per la semplificazione e l’armonizzazione dei sistemi doganali;
@@ -4166,17 +4172,17 @@ Il DEFR è autorizzato ad approvare le modifiche di allegati e appendici dei seg
 - 9\. Convenzione doganale del 18 maggio 1956[^241-10] concernente l’importazione temporanea di veicoli stradali commerciali;
 - 10\. Protocollo d’emendamento del 26 giugno 1999[^241-11] della Convenzione internazionale del 18 maggio 1973 per la semplificazione e l’armonizzazione dei sistemi doganali.
 
-[^241-1]: L del 21 mar. 1997 sull’organizzazione del Governo e dell’Amministrazione ([RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)).
-[^241-2]: [RS 0.631.122](https://fedlex.data.admin.ch/eli/cc/1986/764_764_764)
-[^241-3]: [RS 0.631.20](https://fedlex.data.admin.ch/eli/cc/1977/1437_1437_1437)
-[^241-4]: [RS 0.631.24](https://fedlex.data.admin.ch/eli/cc/1995/4685_4685_4685)
-[^241-5]: [RS 0.631.244.57](https://fedlex.data.admin.ch/eli/cc/1963/479_476_493)
-[^241-6]: [RS 0.631.250.112](https://fedlex.data.admin.ch/eli/cc/1977/647_647_647)
-[^241-7]: [RS 0.631.251.4](https://fedlex.data.admin.ch/eli/cc/1958/719_749_752)
-[^241-8]: [RS 0.631.251.7](https://fedlex.data.admin.ch/eli/cc/1960/1062_1110_1107)
-[^241-9]: [RS 0.631.252.512](https://fedlex.data.admin.ch/eli/cc/1978/1281_1281_1281)
-[^241-10]: [RS 0.631.252.52](https://fedlex.data.admin.ch/eli/cc/1960/1039_1087_1083)
-[^241-11]: [RS 0.631.21](https://fedlex.data.admin.ch/eli/cc/2007/342)
+[^241-1]: L del 21 mar. 1997 sull’organizzazione del Governo e dell’Amministrazione ([RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)).
+[^241-2]: [RS 0.631.122](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2009)
+[^241-3]: [RS 0.631.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2023)
+[^241-4]: [RS 0.631.24](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2025)
+[^241-5]: [RS 0.631.244.57](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2053)
+[^241-6]: [RS 0.631.250.112](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2055)
+[^241-7]: [RS 0.631.251.4](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2059)
+[^241-8]: [RS 0.631.251.7](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2060)
+[^241-9]: [RS 0.631.252.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2062)
+[^241-10]: [RS 0.631.252.52](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2063)
+[^241-11]: [RS 0.631.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2024)
 
 #### Art. 242
 
@@ -4193,11 +4199,11 @@ Il DFF è autorizzato ad approvare convenzioni riguardanti uffici a controlli na
 - 3\. Convenzione del 28 settembre 1960[^242-4] tra la Confederazione Svizzera e la Francia concernente gli uffici a controlli nazionali abbinati e i controlli in corso di viaggio;
 - 4\. Convenzione dell’11 marzo 1961[^242-5] tra la Confederazione Svizzera e la Repubblica Italiana relativa agli uffici a controlli nazionali abbinati e al controllo in corso di viaggio.
 
-[^242-1]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^242-2]: [RS 0.631.252.913.690](https://fedlex.data.admin.ch/eli/cc/1964/391_387_387)
-[^242-3]: [RS 0.631.252.916.320](https://fedlex.data.admin.ch/eli/cc/1964/1149_1149_1181)
-[^242-4]: [RS 0.631.252.934.95](https://fedlex.data.admin.ch/eli/cc/1961/569_574_590)
-[^242-5]: [RS 0.631.252.945.460](https://fedlex.data.admin.ch/eli/cc/1963/715_711_735)
+[^242-1]: [RS 172.010](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5015)
+[^242-2]: [RS 0.631.252.913.690](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2079)
+[^242-3]: [RS 0.631.252.916.320](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2123)
+[^242-4]: [RS 0.631.252.934.95](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2140)
+[^242-5]: [RS 0.631.252.945.460](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/2173)
 
 #### Art. 242a
 
@@ -4205,9 +4211,9 @@ Il DFF è autorizzato ad approvare convenzioni riguardanti uffici a controlli na
 
 ### (art. 130 LD)
 
-Il DEFR è autorizzato a emanare disposizioni d’esecuzione della presente ordinanza.
+Il DFF è autorizzato a emanare disposizioni d’esecuzione della presente ordinanza.
 
-[^242a-1]: Introdotto dal n. I dell’O del 22 apr. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1661](https://fedlex.data.admin.ch/eli/oc/2009/243)).
+[^242a-1]: Introdotto dalla cifra I dell’O del 22 apr. 2009, in vigore dal 1° giu. 2009 ([RU 2009 1661](https://fedlex.data.admin.ch/eli/oc/2009/243)).
 
 #### Art. 243
 
@@ -4235,7 +4241,7 @@ In caso di importazioni di prodotti agricoli, per i quali sono fissate aliquote 
 
 <sup>2</sup> La Direzione generale delle dogane presenta, per parere, una domanda per il rilascio di un’autorizzazione alle organizzazioni e agli uffici federali interessati, se ciò è necessario per valutare le condizioni conformemente all’articolo 132 capoverso 7 LD o all’articolo 46 capoverso 2 della presente ordinanza.
 
-[^245-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^245-1]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 #### Art. 246
 
@@ -4243,8 +4249,8 @@ In caso di importazioni di prodotti agricoli, per i quali sono fissate aliquote 
 
 Gli invii della postalettere e i pacchi che sono trasportati dalla Posta Svizzera nel quadro del servizio universale (art. 3 e 4 della legge del 30 apr. 1997[^246-2] sulle poste) o da operatori privati nell’ambito della loro concessione possono essere dichiarati in base al diritto previgente fino al 30 giugno 2013.
 
-[^246-1]: Nuovo testo giusta il n. I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
-[^246-2]: [[RU 1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452), [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)all. n. 23, [2003 4297](https://fedlex.data.admin.ch/eli/oc/2003/638), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 85, [2007 5645](https://fedlex.data.admin.ch/eli/oc/2007/776). [RU 2012 4993](https://fedlex.data.admin.ch/eli/oc/2012/585)all. n. I]. Vedi ora la LF del 17 dic. 2010 ([RS 783.0](https://fedlex.data.admin.ch/eli/cc/2012/585)).
+[^246-1]: Nuovo testo giusta la cifra I dell’O del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3837](https://fedlex.data.admin.ch/eli/oc/2012/447)).
+[^246-2]: [[RU 1997 2452](https://fedlex.data.admin.ch/eli/oc/1997/2452_2452_2452), [2000 2355](https://fedlex.data.admin.ch/eli/oc/2000/374)all. n. 23, [2003 4297](https://fedlex.data.admin.ch/eli/oc/2003/638), [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 85, [2007 5645](https://fedlex.data.admin.ch/eli/oc/2007/776). [RU 2012 4993](https://fedlex.data.admin.ch/eli/oc/2012/585)all. cifra I]. Vedi ora la LF del 17 dic. 2010 ([RS 783.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9151)).
 
 #### Art. 246a
 
@@ -4268,7 +4274,7 @@ Il depositario deve soddisfare i seguenti requisiti al più tardi un anno dopo l
 - a. le condizioni per l’allestimento e la tenuta dell’elenco dei locatari, dei sottolocatari e dei depositanti secondo l’articolo 183 capoversi 1 lettera c e 1<sup>bis</sup>;
 - b. le condizioni per l’allestimento e la tenuta dell’inventario per merci sensibili secondo l’articolo 184 capoversi 1 lettere c, k e q nonché 2.
 
-[^246a-1]: Introdotto dal n. I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^246a-1]: Introdotto dalla cifra I dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
 #### Art. 247
 
@@ -4316,7 +4322,7 @@ Allegato 2[^t-1]
 
 ## Merci sensibili
 
-[^t-1]: Aggiornato dall’all. n. II 1 dell’O del 4 set. 2013 sulla circolazione delle specie di fauna e di flora protette ([RU 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)) e dal n. II dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
+[^t-1]: Aggiornato dall’all. cifra II n. 1 dell’O del 4 set. 2013 sulla circolazione delle specie di fauna e di flora protette ([RU 2013 3111](https://fedlex.data.admin.ch/eli/oc/2013/601)) e dalla cifra II dell’O del 18 nov. 2015, in vigore dal 1° gen. 2016 ([RU 2015 4917](https://fedlex.data.admin.ch/eli/oc/2015/804)).
 
 Per merci sensibili s’intendono:
 
@@ -4350,19 +4356,19 @@ Per merci sensibili s’intendono:
 - 13\. merci per le quali il Consiglio federale ha emanato misure coercitive conformemente all’articolo 184 capoverso 3 della Costituzione federale[^annex2-lvlu1-11] e all’articolo 2 della legge del 22 marzo 2002[^annex2-lvlu1-12] sugli embarghi;
 - 14\. beni culturali conformemente all’articolo 2 capoverso 1 della legge del 20 giugno 2003[^annex2-lvlu1-13] sul trasferimento dei beni culturali.
 
-[^annex2-lvlu1-1]: [RS 453.0](https://fedlex.data.admin.ch/eli/cc/2013/601)
-[^annex2-lvlu1-2]: [RS 514.51](https://fedlex.data.admin.ch/eli/cc/1998/794_794_794)
-[^annex2-lvlu1-3]: [RS 514.54](https://fedlex.data.admin.ch/eli/cc/1998/2535_2535_2535)
-[^annex2-lvlu1-4]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)
-[^annex2-lvlu1-5]: [RS 732.1](https://fedlex.data.admin.ch/eli/cc/2004/723)
-[^annex2-lvlu1-6]: [RS 812.121](https://fedlex.data.admin.ch/eli/cc/1952/241_241_245)
-[^annex2-lvlu1-7]: [[RU 1997 211](https://fedlex.data.admin.ch/eli/oc/1997/211_211_211), [2001 3159](https://fedlex.data.admin.ch/eli/oc/2001/474)[3160](https://fedlex.data.admin.ch/eli/oc/2001/475), [2005 4839](https://fedlex.data.admin.ch/eli/oc/2005/653), **2010** 1239. [RU 2011 2561](https://fedlex.data.admin.ch/eli/oc/2011/362)art. 86]. Vedi ora l’O del 25 mag. 2011 sul controllo degli stupefacenti ([RS 812.121.1](https://fedlex.data.admin.ch/eli/cc/2011/362)).
-[^annex2-lvlu1-8]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^annex2-lvlu1-9]: [RS 941.41](https://fedlex.data.admin.ch/eli/cc/1980/522_522_522)
-[^annex2-lvlu1-10]: [RS 946.202.1](https://fedlex.data.admin.ch/eli/cc/2016/352)
-[^annex2-lvlu1-11]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^annex2-lvlu1-12]: [RS 946.231](https://fedlex.data.admin.ch/eli/cc/2002/564)
-[^annex2-lvlu1-13]: [RS 444.1](https://fedlex.data.admin.ch/eli/cc/2005/317)
+[^annex2-lvlu1-1]: [RS 453.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7190)
+[^annex2-lvlu1-2]: [RS 514.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7526)
+[^annex2-lvlu1-3]: [RS 514.54](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7530)
+[^annex2-lvlu1-4]: [RS 632.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7921)
+[^annex2-lvlu1-5]: [RS 732.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8531)
+[^annex2-lvlu1-6]: [RS 812.121](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9339)
+[^annex2-lvlu1-7]: [[RU 1997 211](https://fedlex.data.admin.ch/eli/oc/1997/211_211_211), [2001 3159](https://fedlex.data.admin.ch/eli/oc/2001/474)[3160](https://fedlex.data.admin.ch/eli/oc/2001/475), [2005 4839](https://fedlex.data.admin.ch/eli/oc/2005/653), **2010** 1239. [RU 2011 2561](https://fedlex.data.admin.ch/eli/oc/2011/362)art. 86]. Vedi ora l’O del 25 mag. 2011 sul controllo degli stupefacenti ([RS 812.121.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9340)).
+[^annex2-lvlu1-8]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^annex2-lvlu1-9]: [RS 941.41](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11228)
+[^annex2-lvlu1-10]: [RS 946.202.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11364)
+[^annex2-lvlu1-11]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^annex2-lvlu1-12]: [RS 946.231](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11413)
+[^annex2-lvlu1-13]: [RS 444.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7147)
 
 Allegato 3
 
@@ -4391,7 +4397,7 @@ I seguenti atti sono abrogati:
 - 17\. Ordinanza del 18 maggio 2005[^annex3-lvlu1-19] concernente la competenza della Direzione generale delle dogane nel campo della formazione professionale superiore per il personale dell’UDSC
 - 18\. Decreto del Consiglio federale del 31 maggio 1966[^annex3-lvlu1-20] concernente l’esenzione dal dazio sui carburanti impiegati per compiere voli non professionali a destinazione dell’estero.
 
-[^annex3-lvlu1-1]: [CS **6** 523; [RU 1957 1040](https://fedlex.data.admin.ch/eli/oc/1957/1002_1016_1040), [1960 267](https://fedlex.data.admin.ch/eli/oc/1960/261_272_267), [1961 1226](https://fedlex.data.admin.ch/eli/oc/1961/1178_1200_1226), [1965 917](https://fedlex.data.admin.ch/eli/oc/1965/915_923_917), [1972 160](https://fedlex.data.admin.ch/eli/oc/1972/156_160_160), [1973 651](https://fedlex.data.admin.ch/eli/oc/1973/651_650_651), [1974 1949](https://fedlex.data.admin.ch/eli/oc/1974/1949_1949_1949), [1975 1209](https://fedlex.data.admin.ch/eli/oc/1975/1209_1209_1209), [1993 1054](https://fedlex.data.admin.ch/eli/oc/1993/1054_1054_1054), [1995 1818](https://fedlex.data.admin.ch/eli/oc/1995/1818_1818_1818), [1997 1630](https://fedlex.data.admin.ch/eli/oc/1997/1630_1630_1630)[2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)n. II 35, [1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)n. II 15, [2001 267](https://fedlex.data.admin.ch/eli/oc/2001/56)art. 33 n. 3, [2002 326](https://fedlex.data.admin.ch/eli/oc/2002/70)[328](https://fedlex.data.admin.ch/eli/oc/2002/72)all. 2 n. 1]
+[^annex3-lvlu1-1]: [CS **6** 523; [RU 1957 1040](https://fedlex.data.admin.ch/eli/oc/1957/1002_1016_1040), [1960 267](https://fedlex.data.admin.ch/eli/oc/1960/261_272_267), [1961 1226](https://fedlex.data.admin.ch/eli/oc/1961/1178_1200_1226), [1965 917](https://fedlex.data.admin.ch/eli/oc/1965/915_923_917), [1972 160](https://fedlex.data.admin.ch/eli/oc/1972/156_160_160), [1973 651](https://fedlex.data.admin.ch/eli/oc/1973/651_650_651), [1974 1949](https://fedlex.data.admin.ch/eli/oc/1974/1949_1949_1949), [1975 1209](https://fedlex.data.admin.ch/eli/oc/1975/1209_1209_1209), [1993 1054](https://fedlex.data.admin.ch/eli/oc/1993/1054_1054_1054), [1995 1818](https://fedlex.data.admin.ch/eli/oc/1995/1818_1818_1818), [1997 1630](https://fedlex.data.admin.ch/eli/oc/1997/1630_1630_1630)[2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)cifra II n. 35, [1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)cifra II n. 15, [2001 267](https://fedlex.data.admin.ch/eli/oc/2001/56)art. 33 n. 3, [2002 326](https://fedlex.data.admin.ch/eli/oc/2002/70)[328](https://fedlex.data.admin.ch/eli/oc/2002/72)all. 2 n. 1]
 [^annex3-lvlu1-2]: [[RU 1999 1300](https://fedlex.data.admin.ch/eli/oc/1999/176)]
 [^annex3-lvlu1-3]: Non pubblicato nella RU.
 [^annex3-lvlu1-4]: Non pubblicato nella RU.
@@ -4401,10 +4407,10 @@ I seguenti atti sono abrogati:
 [^annex3-lvlu1-8]: [[RU 1995 1821](https://fedlex.data.admin.ch/eli/oc/1995/1821_1821_1821)]
 [^annex3-lvlu1-9]: [[RU 2002 328](https://fedlex.data.admin.ch/eli/oc/2002/72)]
 [^annex3-lvlu1-10]: [[RU 1960 953](https://fedlex.data.admin.ch/eli/oc/1960/921_961_953), [2002 1365](https://fedlex.data.admin.ch/eli/oc/2002/205)]
-[^annex3-lvlu1-11]: [CS **6** 646; [RU 1972 809](https://fedlex.data.admin.ch/eli/oc/1972/877_889_809), [1978 1913](https://fedlex.data.admin.ch/eli/oc/1978/1913_1913_1913), [1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)n. II 16]
+[^annex3-lvlu1-11]: [CS **6** 646; [RU 1972 809](https://fedlex.data.admin.ch/eli/oc/1972/877_889_809), [1978 1913](https://fedlex.data.admin.ch/eli/oc/1978/1913_1913_1913), [1999 704](https://fedlex.data.admin.ch/eli/oc/1999/104)cifra II n. 16]
 [^annex3-lvlu1-12]: [CS **6** 690; [RU 1951 996](https://fedlex.data.admin.ch/eli/oc/1951/968_970_996)art. 3, 4, [1965 1248](https://fedlex.data.admin.ch/eli/oc/1965/1246_1260_1248)]
 [^annex3-lvlu1-13]: [[RU 1950 635](https://fedlex.data.admin.ch/eli/oc/1950/623_647_635), [1951 996](https://fedlex.data.admin.ch/eli/oc/1951/968_970_996)art. 3, [1961 339](https://fedlex.data.admin.ch/eli/oc/1961/326_332_339), [1990 1645](https://fedlex.data.admin.ch/eli/oc/1990/1645_1645_1645), [1998 1533](https://fedlex.data.admin.ch/eli/oc/1998/1533_1533_1533)]
-[^annex3-lvlu1-14]: [[RU 1972 342](https://fedlex.data.admin.ch/eli/oc/1972/337_341_342), [1981 621](https://fedlex.data.admin.ch/eli/oc/1981/621_621_621), [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)n. II 36, [2002 1366](https://fedlex.data.admin.ch/eli/oc/2002/206)]
+[^annex3-lvlu1-14]: [[RU 1972 342](https://fedlex.data.admin.ch/eli/oc/1972/337_341_342), [1981 621](https://fedlex.data.admin.ch/eli/oc/1981/621_621_621), [1997 2779](https://fedlex.data.admin.ch/eli/oc/1997/2779_2779_2779)cifra II n. 36, [2002 1366](https://fedlex.data.admin.ch/eli/oc/2002/206)]
 [^annex3-lvlu1-15]: [[RU 1962 1156](https://fedlex.data.admin.ch/eli/oc/1962/1113_1153_1156)]
 [^annex3-lvlu1-16]: [[RU 1958 616](https://fedlex.data.admin.ch/eli/oc/1958/590_615_616)]
 [^annex3-lvlu1-17]: [[RU 1968 378](https://fedlex.data.admin.ch/eli/oc/1968/354_378_378)]
@@ -4430,7 +4436,7 @@ Allegato 5[^t-2]
 
 ## Equivalenze tra le disposizioni del diritto svizzero e quello del Principato del Liechtenstein
 
-[^t-2]: Introdotto dal n. II dell’O del 27 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6233](https://fedlex.data.admin.ch/eli/oc/2009/762)).
+[^t-2]: Introdotto dalla cifra II dell’O del 27 nov. 2009, in vigore dal 1° gen. 2010 ([RU 2009 6233](https://fedlex.data.admin.ch/eli/oc/2009/762)).
 
 <table>
 <tr><td>Diritto svizzero</td><td>Diritto del Principato del Liechtenstein</td></tr>
@@ -4442,11 +4448,11 @@ Allegato 5[^t-2]
 <tr><td>Art. 96–98 OD</td><td>Art. 2*a* Kundmachungsgesetz[^annex5-lvlu1-8] i. V. m. Art. 96–98 ZV</td></tr>
 </table>
 
-[^annex5-lvlu1-1]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^annex5-lvlu1-1]: [RS 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^annex5-lvlu1-2]: LR 216.0
-[^annex5-lvlu1-3]: [RS 221.431](https://fedlex.data.admin.ch/eli/cc/2002/216)
+[^annex5-lvlu1-3]: [RS 221.431](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5936)
 [^annex5-lvlu1-4]: LR 216.01
-[^annex5-lvlu1-5]: [RS 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^annex5-lvlu1-5]: [RS 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 [^annex5-lvlu1-6]: LR 282.0
 [^annex5-lvlu1-7]: LR 284.0
 [^annex5-lvlu1-8]: LR 170.550
@@ -4457,7 +4463,7 @@ Allegato 6[^t-3]
 
 ## Latticini e cereali di base per i quali è applicabile la procedura d’autorizzazione di cui all’art. 165*a*
 
-[^t-3]: Introdotto dal n. II dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3929](https://fedlex.data.admin.ch/eli/oc/2018/628)).
+[^t-3]: Introdotto dalla cifra II dell’O del 21 set. 2018, in vigore dal 1° gen. 2019 ([RU 2018 3929](https://fedlex.data.admin.ch/eli/oc/2018/628)).
 
 <table>
 <tr><td>Voce di tariffa</td><td>Designazione del prodotto di base</td></tr>
