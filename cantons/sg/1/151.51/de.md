@@ -3,20 +3,19 @@ canton: SG
 number: "151.51"
 title: Verordnung über die öffentliche Beurkundung und die Beglaubigung
 language: de
-version: 2020-01-01
-valid_until: 2024-09-30
-version_adopted: 2019-12-03
+version: 2024-10-01
+version_adopted: 2024-09-03
 adopted: 2005-11-02
 in_force: 2006-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/151.51"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/2868/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3680/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die öffentliche Beurkundung und die Beglaubigung
 
-vom 02.11.2005 (Stand 01.01.2020)
+vom 02.11.2005 (Stand 01.10.2024)
 
 Die Regierung des Kantons St.Gallen
 
@@ -117,6 +116,12 @@ als Verordnung:[^ingress-2]
 <sup>2</sup> Steht der Ablauf im Voraus fest, kann die Versammlung in gleichzeitiger Anwesenheit der Teilnehmenden wie eine Vertragsbeurkundung durchgeführt werden.
 
 <sup>3</sup> Andernfalls hält die Urkundsperson den Ablauf in geeigneter Weise fest und erstellt gleichzeitig oder zu einem späteren Zeitpunkt die öffentliche Urkunde. Verlangt das materielle Recht die Mitunterzeichnung durch bestimmte Personen, holt die Urkundsperson deren Unterschriften ein, bevor sie selber unterschreibt.
+
+<sup>4</sup> Bei der Beurkundung von Beschlüssen einer virtuellen Generalversammlung[^7-1] oder Beschlüssen des obersten Leitungs- und Verwaltungsorgans, die mit elektronischen Mitteln ohne Tagungsort gefasst werden,[^7-2] gilt die Urkundsperson als zugegen im Sinn von Art. 23 Abs. 1 des Einführungsgesetzes zum Schweizerischen Zivilgesetzbuch vom 3. Juli 1911[^7-3], wenn sie während der Beratung und Abstimmung zu den beurkundungsbedürftigen Beschlüssen in gleicher Weise wie die weiteren Teilnehmer über einen elektronischen Zugang an der virtuellen Generalversammlung oder der virtuellen Sitzung des obersten Leitungs- und Verwaltungsorgans teilnimmt.
+
+[^7-1]: Art. 701d des Obligationenrechts vom 30. März 2011, SR [220](https://db.clex.ch/link/Bund/220/de).
+[^7-2]: Art. 713 Abs. 2 Ziff. 2 und Art. 781 Abs. 2 des Obligationenrechts vom 30. März 2011, SR [220](https://db.clex.ch/link/Bund/220/de).
+[^7-3]: sGS [911.1](https://www.gesetzessammlung.sg.ch/data/911.1/de).
 
 #### Art. 8
 
