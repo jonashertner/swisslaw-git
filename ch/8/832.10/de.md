@@ -4,11 +4,11 @@ title: Bundesgesetz vom 18. März 1994 über die Krankenversicherung (KVG)
 short: KVG
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
 language: de
-version: 2024-07-01
+version: 2024-10-01
 adopted: 1994-03-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20240701/de/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20240701-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20241001/de/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20241001-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20241001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20240701/de"
 
 (KVG)
 
-vom 18. März 1994 (Stand am 1. Juli 2024)
+vom 18. März 1994 (Stand am 1. Oktober 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -729,14 +729,14 @@ Die Kantone können Leistungserbringer nach Artikel 35 Absatz 2 Buchstabe a, die
 
 <sup>2</sup> Die Einrichtungen nach Artikel 35 Absatz 2 Buchstabe n werden nur zugelassen, wenn die dort tätigen Ärzte und Ärztinnen die Voraussetzungen nach den Absätzen 1 und 1<sup>bis</sup> erfüllen.[^37-4]
 
-<sup>3</sup> Leistungserbringer nach den Absätzen 1, 1<sup>bis</sup> und 2 müssen sich einer zertifizierten Gemeinschaft oder Stammgemeinschaft nach Artikel 11 Buchstabe a des Bundesgesetzes vom 19. Juni 2015[^37-5] über das elektronische Patientendossier anschliessen.[^37-6]
+<sup>3</sup> Leistungserbringer nach den Absätzen 1, 1<sup>bis</sup> und 2 müssen sich einer zertifizierten Gemeinschaft oder Stammgemeinschaft nach Artikel 11 Buchstabe a des Bundesgesetzes vom 19. Juni 2015[^37-5] über das elektronische Patientendossier (EPDG) anschliessen.[^37-6]
 
 [^37-1]: Fassung gemäss Ziff. I des BG vom 19. Juni 2020 (Zulassung von Leistungserbringern), in Kraft seit 1. Jan. 2022 ([AS 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [BBl 2018 3125](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
 [^37-2]: [SR 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 [^37-3]: Eingefügt durch Ziff. I des BG vom 17. März 2023 (Ausnahmen von der Pflicht einer dreijährigen Tätigkeit), in Kraft vom 18. März 2023 bis zum 31. Dez. 2027 ([AS 2023 134](https://fedlex.data.admin.ch/eli/oc/2023/134); [BBl 2022 3125](https://fedlex.data.admin.ch/eli/fga/2022/3125); [2023 343](https://fedlex.data.admin.ch/eli/fga/2023/343)).
 [^37-4]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Ausnahmen von der Pflicht einer dreijährigen Tätigkeit), in Kraft vom 18. März 2023 bis zum 31. Dez. 2027 ([AS 2023 134](https://fedlex.data.admin.ch/eli/oc/2023/134); [BBl 2022 3125](https://fedlex.data.admin.ch/eli/fga/2022/3125); [2023 343](https://fedlex.data.admin.ch/eli/fga/2023/343)).
 [^37-5]: [SR 816.1](https://fedlex.data.admin.ch/eli/cc/2017/203)
-[^37-6]: Fassung gemäss Ziff. I des BG vom 17. März 2023 (Ausnahmen von der Pflicht einer dreijährigen Tätigkeit), in Kraft vom 18. März 2023 bis zum 31. Dez. 2027 ([AS 2023 134](https://fedlex.data.admin.ch/eli/oc/2023/134); [BBl 2022 3125](https://fedlex.data.admin.ch/eli/fga/2022/3125); [2023 343](https://fedlex.data.admin.ch/eli/fga/2023/343)).
+[^37-6]: Fassung gemäss Ziff. II des BG vom 15. März 2024 (Übergangsfinanzierung, Einwilligung und Zugriff auf Abfragedienste), in Kraft seit 1. Okt. 2024 ([AS 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [BBl 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
 
 #### Art. 38
 
@@ -770,7 +770,7 @@ Anstalten oder deren Abteilungen, die der stationären Behandlung akuter Krankhe
 - c. über zweckentsprechende medizinische Einrichtungen verfügen und eine zweckentsprechende pharmazeutische Versorgung gewährleisten;
 - d. der von einem oder mehreren Kantonen gemeinsam aufgestellten Planung für eine bedarfsgerechte Spitalversorgung entsprechen, wobei private Trägerschaften angemessen in die Planung einzubeziehen sind;
 - e. auf der nach Leistungsaufträgen in Kategorien gegliederten Spitalliste des Kantons aufgeführt sind;
-- f.[^39-1] sich einer zertifizierten Gemeinschaft oder Stammgemeinschaft nach Artikel 11 Buchstabe a des Bundesgesetzes vom 19. Juni 2015[^39-2] über das elektronische Patientendossier anschliessen.
+- f.[^39-1] sich einer zertifizierten Gemeinschaft oder Stammgemeinschaft nach Artikel 11 Buchstabe a EPDG[^39-2] anschliessen.
 
 <sup>1bis</sup> Der Kanton legt im Leistungsauftrag nach Absatz 1 Buchstabe e insbesondere die zu erbringenden Ausbildungsleistungen im Bereich der praktischen Ausbildung von Pflegefachpersonen fest. Er berücksichtigt dabei die Kriterien nach Artikel 3 des Bundesgesetzes vom 16. Dezember 2022[^39-3] über die Förderung der Ausbildung im Bereich der Pflege und das Ausbildungskonzept nach Artikel 4 des genannten Gesetzes.[^39-4]
 
@@ -782,7 +782,7 @@ Anstalten oder deren Abteilungen, die der stationären Behandlung akuter Krankhe
 
 <sup>3</sup> Die Voraussetzungen nach Absatz 1 gelten sinngemäss für Geburtshäuser sowie für Anstalten, Einrichtungen oder ihre Abteilungen, die der Pflege und medizinischen Betreuung sowie der Rehabilitation von Langzeitpatienten und -patientinnen dienen (Pflegeheim).[^39-8]
 
-[^39-1]: Eingefügt durch Art. 25 des BG vom 19. Juni 2015 über das elektronische Patientendossier, in Kraft seit 15. April 2017 ([AS 2017 2201](https://fedlex.data.admin.ch/eli/oc/2017/203); [BBl 2013 5321](https://fedlex.data.admin.ch/eli/fga/2013/989)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+[^39-1]: Eingefügt durch Art. 25 des BG vom 19. Juni 2015 über das elektronische Patientendossier ([AS 2017 2201](https://fedlex.data.admin.ch/eli/oc/2017/203); [BBl 2013 5321](https://fedlex.data.admin.ch/eli/fga/2013/989)). Fassung gemäss Ziff. II des BG vom 15. März 2024 (Übergangsfinanzierung, Einwilligung und Zugriff auf Abfragedienste), in Kraft seit 1. Okt. 2024 ([AS 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [BBl 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
 [^39-2]: [SR 816.1](https://fedlex.data.admin.ch/eli/cc/2017/203)
 [^39-3]: [SR 811.22](https://fedlex.data.admin.ch/eli/cc/2024/212)
 [^39-4]: Eingefügt durch Anhang Ziff. 4 des BG vom 16. Dez. 2022 über die Förderung der Ausbildung im Bereich der Pflege, in Kraft vom 1. Juli 2024 bis zum 30. Juni 2032 ([AS 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [BBl 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
@@ -901,7 +901,7 @@ Medizinische Gründe nach den Absätzen 2 und 3 liegen bei einem Notfall vor ode
 
 <sup>2</sup> Diese Karte mit Benutzerschnittstelle wird für die Rechnungsstellung der Leistungen nach diesem Gesetz verwendet.
 
-<sup>2bis</sup> Sie kann als Identifikationsmittel nach Artikel 7 Absatz 2 des Bundesgesetzes vom 19. Juni 2015[^42a-4] über das elektronische Patientendossier verwendet werden.[^42a-5]
+<sup>2bis</sup> Sie kann als Identifikationsmittel nach Artikel 7 Absatz 2 EPDG[^42a-4] verwendet werden.[^42a-5]
 
 <sup>3</sup> Der Bundesrat regelt nach Anhören der interessierten Kreise die Einführung der Karte durch die Versicherer und die anzuwendenden technischen Standards.
 
@@ -911,7 +911,7 @@ Medizinische Gründe nach den Absätzen 2 und 3 liegen bei einem Notfall vor ode
 [^42a-2]: Ausdruck gemäss Anhang Ziff. 31 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Diese Änd. wurde in den in der AS genannten Bestimmungen vorgenommen.
 [^42a-3]: Fassung des zweiten Satzes gemäss Anhang Ziff. 11 des BG vom 23 Juni 2006 (Neue AHV-Versichertennummer), in Kraft seit 1. Dez. 2007 ([AS 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [BBl 2006 501](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^42a-4]: [SR 816.1](https://fedlex.data.admin.ch/eli/cc/2017/203)
-[^42a-5]: Eingefügt durch Art. 25 des BG vom 19. Juni 2015 über das elektronische Patientendossier, in Kraft seit 15. April 2017 ([AS 2017 2201](https://fedlex.data.admin.ch/eli/oc/2017/203); [BBl 2013 5321](https://fedlex.data.admin.ch/eli/fga/2013/989)). Siehe auch die UeB dieser Änd. am Schluss des Textes.
+[^42a-5]: Eingefügt durch Art. 25 des BG vom 19. Juni 2015 über das elektronische Patientendossier ([AS 2017 2201](https://fedlex.data.admin.ch/eli/oc/2017/203); [BBl 2013 5321](https://fedlex.data.admin.ch/eli/fga/2013/989)). Fassung gemäss Ziff. II des BG vom 15. März 2024 (Übergangsfinanzierung, Einwilligung und Zugriff auf Abfragedienste), in Kraft seit 1. Okt. 2024 ([AS 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [BBl 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
 
 ### 4. Abschnitt: Tarife und Preise
 
@@ -1570,6 +1570,18 @@ Die Leistungserbringer sind verpflichtet, den zuständigen Bundesbehörden die D
 
 [^59a-1]: Eingefügt durch Anhang Ziff. 2 des Krankenversicherungsaufsichtsgesetzes vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [BBl 2012 1941](https://fedlex.data.admin.ch/eli/fga/2012/352)).
 
+#### Art. 59a<sup>bis</sup>
+
+**Elektronisches Patientendossier**[^59abis-1]
+
+Die folgenden Behörden können auf die Abfragedienste nach Artikel 14 Absatz 1 EPDG[^59abis-2] zugreifen, soweit dies für die Kontrolle der Einhaltung der Pflicht der jeweiligen Leistungserbringer zum Anschluss an eine zertifizierte Gemeinschaft oder Stammgemeinschaft nach Artikel 11 Buchstabe a EPDG notwendig ist:
+
+- a. die Aufsichtsbehörde nach Artikel 38 Absatz 1;
+- b. die für die Aufsicht über die Leistungserbringer nach Artikel 35 Absatz 2 Buchstaben h−k zuständige kantonale Behörde.
+
+[^59abis-1]: Eingefügt durch Ziff. II des BG vom 15. März 2024 (Übergangsfinanzierung, Einwilligung und Zugriff auf Abfragedienste), in Kraft seit 1. Okt. 2024 ([AS 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [BBl 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
+[^59abis-2]: [SR 816.1](https://fedlex.data.admin.ch/eli/cc/2017/203)
+
 ### 4*a*. Kapitel: Pilotprojekte zur Eindämmung der Kostenentwicklung
 
 [^tit2-chap4a-1]
@@ -2006,7 +2018,7 @@ Der Bundesrat kann die Koordination des Taggeldes regeln und sorgt dafür, dass 
 
 Ersatzansprüche der gemeinsamen Einrichtung, von Versicherten und Dritten nach Artikel 78 ATSG[^78a-1] sind beim Versicherer geltend zu machen; dieser entscheidet darüber durch Verfügung.
 
-[^78a-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^78a-1]: SR **830.1**
 
 #### Art. 79
 
@@ -2014,7 +2026,7 @@ Ersatzansprüche der gemeinsamen Einrichtung, von Versicherten und Dritten nach 
 
 Die Einschränkung des Rückgriffs nach Artikel 75 Absatz 2 ATSG[^79-1] ist nicht anwendbar.
 
-[^79-1]: [SR 830.1](https://fedlex.data.admin.ch/eli/cc/2002/510)
+[^79-1]: SR **830.1**
 
 #### Art. 79a
 

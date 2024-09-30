@@ -4,11 +4,11 @@ title: "Legge federale del 18 marzo 1994 sull'assicurazione malattie (LAMal)"
 short: LAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
 language: it
-version: 2024-07-01
+version: 2024-10-01
 adopted: 1994-03-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20240701/it/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20240701-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20240701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20241001/it/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20241001-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20241001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20240701/it"
 
 (LAMal)
 
-del 18 marzo 1994 (Stato 1° luglio 2024)
+del 18 marzo 1994 (Stato 1° ottobre 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -727,14 +727,14 @@ I Cantoni possono esonerare fornitori di prestazioni di cui all’articolo 35 ca
 
 <sup>2</sup> Gli istituti di cui all’articolo 35 capoverso 2 lettera n sono autorizzati solo se i medici che vi esercitano la propria attività soddisfano le condizioni di cui ai capoversi 1 e 1<sup>bis</sup>.[^37-4]
 
-<sup>3</sup> I fornitori di prestazioni di cui ai capoversi 1, 1<sup>bis</sup> e 2 devono affiliarsi a una comunità o a una comunità di riferimento certificata ai sensi dell’articolo 11 lettera a della legge federale del 19 giugno 2015[^37-5] sulla cartella informatizzata del paziente.[^37-6]
+<sup>3</sup> I fornitori di prestazioni di cui ai capoversi 1, 1<sup>bis</sup> e 2 devono affiliarsi a una comunità o a una comunità di riferimento certificate ai sensi dell’articolo 11 lettera a della legge federale del 19 giugno 2015[^37-5] sulla cartella informatizzata del paziente (LCIP).[^37-6]
 
 [^37-1]: Nuovo testo giusta il n. I della LF del 19 giu. 2020 (Autorizzazione dei fornitori di prestazioni), in vigore dal 1° gen. 2022 ([RU 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 2635](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
 [^37-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 [^37-3]: Introdotto dal n. I della LF del 17 mar. 2023 (Eccezioni all’obbligo di esercitare l’attività per tre anni), in vigore dal 18 mar. 2023 al 31 dic. 2027 ([RU 2023 134](https://fedlex.data.admin.ch/eli/oc/2023/134); [FF 2022 3125](https://fedlex.data.admin.ch/eli/fga/2022/3125), [2023 343](https://fedlex.data.admin.ch/eli/fga/2023/343)).
 [^37-4]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Eccezioni all’obbligo di esercitare l’attività per tre anni), in vigore dal 18 mar. 2023 al 31 dic. 2027 ([RU 2023 134](https://fedlex.data.admin.ch/eli/oc/2023/134); [FF 2022 3125](https://fedlex.data.admin.ch/eli/fga/2022/3125), [2023 343](https://fedlex.data.admin.ch/eli/fga/2023/343)).
 [^37-5]: [RS 816.1](https://fedlex.data.admin.ch/eli/cc/2017/203)
-[^37-6]: Nuovo testo giusta il n. I della LF del 17 mar. 2023 (Eccezioni all’obbligo di esercitare l’attività per tre anni), in vigore dal 18 mar. 2023 al 31 dic. 2027 ([RU 2023 134](https://fedlex.data.admin.ch/eli/oc/2023/134); [FF 2022 3125](https://fedlex.data.admin.ch/eli/fga/2022/3125), [2023 343](https://fedlex.data.admin.ch/eli/fga/2023/343)).
+[^37-6]: Nuovo testo giusta il n. II della LF del 15 mar. 2024 (Finanziamento transitorio, consenso, e accesso ai servizi di ricerca di dati), in vigore dal 1° ott. 2024 ([RU 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [FF 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
 
 #### Art. 38
 
@@ -768,7 +768,7 @@ Gli stabilimenti e i rispettivi reparti adibiti alla cura ospedaliera di malatti
 - c. dispongono di appropriate installazioni mediche e garantiscono una fornitura adeguata di medicamenti;
 - d. corrispondono alla pianificazione intesa a coprire il fabbisogno ospedaliero, approntata da uno o più Cantoni, dopo aver preso in considerazione adeguatamente gli enti privati;
 - e. figurano nell’elenco, compilato dal Cantone e classificante le diverse categorie di stabilimenti secondo i rispettivi mandati;
-- f.[^39-2] si affiliano a una comunità o comunità di riferimento certificata ai sensi dell’articolo 11 lettera a della legge federale del 19 giugno 2015[^39-3] sulla cartella informatizzata del paziente.
+- f.[^39-2] si affiliano a una comunità o a una comunità di riferimento certificate ai sensi dell’articolo 11 lettera a LCIP[^39-3].
 
 <sup>1bis</sup> Nel mandato di prestazioni di cui al capoverso 1 lettera e il Cantone stabilisce in particolare le prestazioni da fornire con riguardo alla formazione pratica degli infermieri. A tale scopo tiene conto dei criteri di cui all’articolo 3 della legge federale del 16 dicembre 2022[^39-4] sulla promozione della formazione in cure infermieristiche e del piano di formazione di cui all’articolo 4 di tale legge.[^39-5]
 
@@ -781,7 +781,7 @@ Gli stabilimenti e i rispettivi reparti adibiti alla cura ospedaliera di malatti
 <sup>3</sup> Le condizioni di cui al capoverso 1 si applicano per analogia alle case per partorienti, nonché agli stabilimenti, agli istituti o ai rispettivi reparti che dispensano cure, assistenza medica e misure di riabilitazione per pazienti lungodegenti (case di cura).[^39-9]
 
 [^39-1]: Vedi anche le disp. trans. della mod. del 21 giu. 2013 alla fine del presente testo.
-[^39-2]: Introdotta dall’art. 25 della LF del 19 giu. 2015 sulla cartella informatizzata del paziente, in vigore dal 15 apr. 2017 ([RU 2017 2201](https://fedlex.data.admin.ch/eli/oc/2017/203); [FF 2013 4559](https://fedlex.data.admin.ch/eli/fga/2013/989)). Vedi anche le disp. trans. di detta mod. alla fine del presente testo.
+[^39-2]: Introdotta dall’art. 25 della LF del 19 giu. 2015 sulla cartella informatizzata del paziente, ([RU 2017 2201](https://fedlex.data.admin.ch/eli/oc/2017/203); [FF 2013 4559](https://fedlex.data.admin.ch/eli/fga/2013/989)). Nuovo testo giusta il n. II della LF del 15 mar. 2024 (Finanziamento transitorio, consenso, e accesso ai servizi di ricerca di dati), in vigore dal 1° ott. 2024 ([RU 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [FF 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
 [^39-3]: [RS 816.1](https://fedlex.data.admin.ch/eli/cc/2017/203)
 [^39-4]: [RS 811.22](https://fedlex.data.admin.ch/eli/cc/2024/212)
 [^39-5]: Introdotto dall’all. n. 4 della LF del 16 dic. 2022 sulla promozione della formazione in cure infermieristiche, in vigore dal 1° lug. 2024 al 30 giu. 2032 ([RU 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
@@ -900,7 +900,7 @@ Sono considerati motivi di ordine medico secondo i capoversi 2 e 3 i casi d’ur
 
 <sup>2</sup> La tessera dispone di un’interfaccia per l’utente ed è utilizzata per la fatturazione delle prestazioni secondo la presente legge.
 
-<sup>2bis</sup> La tessera può essere utilizzata come strumento d’identificazione ai sensi dell’articolo 7 capoverso 2 della legge federale del 19 giugno 2015[^42a-4] sulla cartella informatizzata del paziente.[^42a-5]
+<sup>2bis</sup> La tessera può essere utilizzata come strumento d’identificazione ai sensi dell’articolo 7 capoverso 2 LCIP[^42a-4].[^42a-5]
 
 <sup>3</sup> Sentite le cerchie interessate, il Consiglio federale disciplina l’introduzione della tessera da parte degli assicuratori e gli standard tecnici da applicare.
 
@@ -910,7 +910,7 @@ Sono considerati motivi di ordine medico secondo i capoversi 2 e 3 i casi d’ur
 [^42a-2]: Nuova espr. giusta l’all. n. 31 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 [^42a-3]: Nuovo testo del per. giusta l’all. n. 11 della LF del 23 giu. 2006 (Nuovo numero d’assicurato dell’AVS), in vigore dal 1° dic. 2007 ([RU 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 471](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^42a-4]: [RS 816.1](https://fedlex.data.admin.ch/eli/cc/2017/203)
-[^42a-5]: Introdotto dall’art. 25 della LF del 19 giu. 2015 sulla cartella informatizzata del paziente, in vigore dal 15 apr. 2017 ([RU 2017 2201](https://fedlex.data.admin.ch/eli/oc/2017/203); [FF 2013 4559](https://fedlex.data.admin.ch/eli/fga/2013/989)).
+[^42a-5]: Introdotto dall’art. 25 della LF del 19 giu. 2015 sulla cartella informatizzata del paziente ([RU 2017 2201](https://fedlex.data.admin.ch/eli/oc/2017/203); [FF 2013 4559](https://fedlex.data.admin.ch/eli/fga/2013/989)). Nuovo testo giusta il n. II della LF del 15 mar. 2024 (Finanziamento transitorio, consenso, e accesso ai servizi di ricerca di dati), in vigore dal 1° ott. 2024 ([RU 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [FF 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
 
 ### Sezione 4: Tariffe e prezzi
 
@@ -1559,6 +1559,18 @@ I fornitori di prestazioni sono tenuti a comunicare alle competenti autorità fe
 <sup>4</sup> Il Consiglio federale emana prescrizioni dettagliate sulla rilevazione, il trattamento, la trasmissione e la pubblicazione dei dati, nel rispetto del principio di proporzionalità.
 
 [^59a-1]: Introdotto dall’all. n. 2 della L del 26 set. 2014 sulla vigilanza sull’assicurazione malattie, in vigore dal 1° gen. 2016 ([RU 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [FF 2012 1623](https://fedlex.data.admin.ch/eli/fga/2012/352)).
+
+#### Art. 59a<sup>bis</sup>
+
+**Cartella informatizzata del paziente**[^59abis-1]
+
+Se necessario per controllare l’adempimento dell’obbligo per i fornitori di prestazioni di affiliarsi a una comunità o a una comunità di riferimento certificate ai sensi dell’articolo 11 lettera a LCIP[^59abis-2], le seguenti autorità possono accedere ai servizi di ricerca di dati di cui all’articolo 14 capoverso 1 LCIP:
+
+- a. l’autorità di vigilanza di cui all’articolo 38 capoverso 1;
+- b. l’autorità cantonale responsabile della vigilanza sui fornitori di prestazioni di cui all’articolo 35 capoverso 2 lettere h−k.
+
+[^59abis-1]: Introdotto dal n. II della LF del 15 mar. 2024 (Finanziamento transitorio, consenso, e accesso ai servizi di ricerca di dati), in vigore dal 1° ott. 2024 ([RU 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [FF 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
+[^59abis-2]: [RS 816.1](https://fedlex.data.admin.ch/eli/cc/2017/203)
 
 ### Capitolo 4*a*: Progetti pilota per il contenimento dell’aumento dei costi
 

@@ -4,11 +4,11 @@ title: "Loi fédérale du 18 mars 1994 sur l'assurance-maladie (LAMal)"
 short: LAMal
 eli: "https://fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328"
 language: fr
-version: 2024-07-01
+version: 2024-10-01
 adopted: 1994-03-18
 in_force: 1996-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20240701/fr/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20240701-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20240701/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1995/1328_1328_1328/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-1995-1328_1328_1328-20241001-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20241001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1995/1328_1328_1328/20240701/fr"
 
 (LAMal)
 
-du 18 mars 1994 (État le 1<sup>er</sup> juillet 2024)
+du 18 mars 1994 (État le 1<sup>er</sup> octobre 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -730,14 +730,14 @@ Les cantons peuvent exempter les fournisseurs de prestations visés à l’art. 
 
 <sup>2</sup> Les institutions visées à l’art. 35, al. 2, let. n, ne sont admises que si les médecins qui y pratiquent remplissent les conditions prévues aux al. 1 et 1<sup>bis</sup>.[^37-4]
 
-<sup>3</sup> Les fournisseurs de prestations visés aux al. 1, 1<sup>bis</sup> et 2 doivent s’affilier à une communauté ou à une communauté de référence certifiée au sens de l’art. 11, let. a, de la loi fédérale du 19 juin 2015 sur le dossier électronique du patient[^37-5].[^37-6]
+<sup>3</sup> Les fournisseurs de prestations visés aux al. 1, 1<sup>bis</sup> et 2 doivent s’affilier à une communauté ou à une communauté de référence certifiées au sens de l’art. 11, let. a, de la loi fédérale du 19 juin 2015 sur le dossier électronique du patient (LDEP)[^37-5].[^37-6]
 
 [^37-1]: Nouvelle teneur selon le ch. I de la LF du 19 juin 2020 (Admission des fournisseurs de prestations), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 413](https://fedlex.data.admin.ch/eli/oc/2021/413); [FF 2018 3263](https://fedlex.data.admin.ch/eli/fga/2018/1205)).
 [^37-2]: [RS 811.11](https://fedlex.data.admin.ch/eli/cc/2007/537)
 [^37-3]: Introduit par le ch. I de la LF du 17 mars 2023 (Exceptions à l’obligation d’avoir exercé pendant trois ans), en vigueur du 18 mars 2023 au 31 déc. 2027 ([RO 2023 134](https://fedlex.data.admin.ch/eli/oc/2023/134); [FF 2022 3125](https://fedlex.data.admin.ch/eli/fga/2022/3125); [2023 343](https://fedlex.data.admin.ch/eli/fga/2023/343)).
 [^37-4]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023 (Exceptions à l’obligation d’avoir exercé pendant trois ans), en vigueur du 18 mars 2023 au 31 déc. 2027 ([RO 2023 134](https://fedlex.data.admin.ch/eli/oc/2023/134); [FF 2022 3125](https://fedlex.data.admin.ch/eli/fga/2022/3125); [2023 343](https://fedlex.data.admin.ch/eli/fga/2023/343)).
 [^37-5]: [RS 816.1](https://fedlex.data.admin.ch/eli/cc/2017/203)
-[^37-6]: Nouvelle teneur selon le ch. I de la LF du 17 mars 2023 (Exceptions à l’obligation d’avoir exercé pendant trois ans), en vigueur du 18 mars 2023 au 31 déc. 2027 ([RO 2023 134](https://fedlex.data.admin.ch/eli/oc/2023/134); [FF 2022 3125](https://fedlex.data.admin.ch/eli/fga/2022/3125); [2023 343](https://fedlex.data.admin.ch/eli/fga/2023/343)).
+[^37-6]: Nouvelle teneur selon le ch. II de la LF du 15 mars 2024 (Financement transitoire, consentement et accès aux services de recherche de données), en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [FF 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
 
 #### Art. 38
 
@@ -771,7 +771,7 @@ Les établissements et celles de leurs divisions qui servent au traitement hospi
 - c. disposent d’équipements médicaux adéquats et garantissent la fourniture adéquate des médicaments;
 - d. correspondent à la planification établie par un canton ou, conjointement, par plusieurs cantons afin de couvrir les besoins en soins hospitaliers, les organismes privés devant être pris en considération de manière adéquate;
 - e. figurent sur la liste cantonale fixant les catégories d’hôpitaux en fonction de leurs mandats;
-- f.[^39-1] s’affilient à une communauté ou à une communauté de référence certifiées au sens de l’art. 11, let. a, de la loi fédérale du 19 juin 2015 sur le dossier électronique du patient[^39-2].
+- f.[^39-1] s’affilient à une communauté ou à une communauté de référence certifiées au sens de l’art. 11, let. a, LDEP[^39-2].
 
 <sup>1bis</sup> Le canton fixe dans le mandat de prestations visé à l’al. 1, let. e, notamment les prestations de formation requises dans le domaine de la formation pratique des infirmiers. Il tient compte à cet égard des critères définis à l’art. 3 de la loi fédérale du 16 décembre 2022 relative à l’encouragement de la formation dans le domaine des soins infirmiers[^39-3] et du plan de formation visé à l’art. 4 de ladite loi.[^39-4]
 
@@ -783,7 +783,7 @@ Les établissements et celles de leurs divisions qui servent au traitement hospi
 
 <sup>3</sup> Les conditions fixées à l’al. 1 s’appliquent par analogie aux maisons de naissance, aux établissements, aux institutions et aux divisions d’établissements ou d’institutions qui prodiguent des soins, une assistance médicale et des mesures de réadaptation à des patients pour une longue durée (établissements médico-sociaux).[^39-8]
 
-[^39-1]: Introduite par l’art. 25 de la LF du 19 juin 2015 sur le dossier électronique du patient, en vigueur depuis le 15 avr. 2017 ([RO 2017 2201](https://fedlex.data.admin.ch/eli/oc/2017/203); [FF 2013 4747](https://fedlex.data.admin.ch/eli/fga/2013/989)). Voir aussi des disp. trans. de cette mod. à la fin du texte.
+[^39-1]: Introduite par l’art. 25 de la LF du 19 juin 2015 sur le dossier électronique du patient ([RO 2017 2201](https://fedlex.data.admin.ch/eli/oc/2017/203); [FF 2013 4747](https://fedlex.data.admin.ch/eli/fga/2013/989)). Nouvelle teneur selon le ch. II de la LF du 15 mars 2024 (Financement transitoire, consentement et accès aux services de recherche de données), en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [FF 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
 [^39-2]: [RS 816.1](https://fedlex.data.admin.ch/eli/cc/2017/203)
 [^39-3]: [RS 811.22](https://fedlex.data.admin.ch/eli/cc/2024/212)
 [^39-4]: Introduit par l’annexe ch. 4 de la LF du 16 déc. 2022 relative à l’encouragement de la formation dans le domaine des soins infirmiers, en vigueur du 1<sup>er</sup> juil. 2024 au 30 juin 2032 ([RO 2024 212](https://fedlex.data.admin.ch/eli/oc/2024/212); [FF 2022 1498](https://fedlex.data.admin.ch/eli/fga/2022/1498)).
@@ -902,7 +902,7 @@ Sont réputés raisons médicales au sens des al. 2 et 3 le cas d’urgence et l
 
 <sup>2</sup> Cette carte comporte une interface utilisateur; elle est utilisée pour la facturation des prestations selon la présente loi.
 
-<sup>2bis</sup> Cette carte peut être utilisée comme moyen d’identification au sens de l’art. 7, al. 2, de la loi fédérale du 19 juin 2015 sur le dossier électronique du patient[^42a-4].[^42a-5]
+<sup>2bis</sup> Elle peut être utilisée comme moyen d’identification au sens de l’art. 7, al. 2, LDEP[^42a-4].[^42a-5]
 
 <sup>3</sup> Le Conseil fédéral règle, après consultation des milieux intéressés, les modalités d’introduction de la carte par les assureurs, ainsi que les standards techniques qui doivent être appliqués.
 
@@ -912,7 +912,7 @@ Sont réputés raisons médicales au sens des al. 2 et 3 le cas d’urgence et l
 [^42a-2]: Nouvelle expression selon l’annexe ch. 31 de la LF du 18 déc. 2020 (Utilisation systématique du numéro AVS par les autorités), en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6955](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
 [^42a-3]: Nouvelle teneur de la phrase selon l’annexe ch. 11 de la LF du 23 juin 2006 (Nouveau numéro d’assuré AVS), en vigueur depuis le 1<sup>er</sup> déc. 2007; [RO 2007 5259](https://fedlex.data.admin.ch/eli/oc/2007/747); [FF 2006 515](https://fedlex.data.admin.ch/eli/fga/2006/52)).
 [^42a-4]: [RS 816.1](https://fedlex.data.admin.ch/eli/cc/2017/203)
-[^42a-5]: Introduit par l’art. 25 de la LF du 19 juin 2015 sur le dossier électronique du patient, en vigueur depuis le 15 avr. 2017 ([RO 2017 2201](https://fedlex.data.admin.ch/eli/oc/2017/203); [FF 2013 4747](https://fedlex.data.admin.ch/eli/fga/2013/989)).
+[^42a-5]: Introduit par l’art. 25 de la LF du 19 juin 2015 sur le dossier électronique du patient ([RO 2017 2201](https://fedlex.data.admin.ch/eli/oc/2017/203); [FF 2013 4747](https://fedlex.data.admin.ch/eli/fga/2013/989)). Nouvelle teneur selon le ch. II de la LF du 15 mars 2024 (Financement transitoire, consentement et accès aux services de recherche de données), en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [FF 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
 
 ### Section 4 Tarifs et prix
 
@@ -1572,6 +1572,18 @@ Les fournisseurs de prestations doivent communiquer aux autorités fédérales c
 <sup>4</sup> Le Conseil fédéral édicte des dispositions détaillées sur la collecte, le traitement, la transmission et la publication des données, dans le respect du principe de la proportionnalité.
 
 [^59a-1]: Introduit par l’annexe ch. 2 de la L du 26 sept. 2014 sur la surveillance de l’assurance-maladie, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5137](https://fedlex.data.admin.ch/eli/oc/2015/839); [FF 2012 1725](https://fedlex.data.admin.ch/eli/fga/2012/352)).
+
+#### Art. 59a<sup>bis</sup>
+
+**Dossier électronique du patient**[^59abis-1]
+
+Les autorités suivantes peuvent accéder aux services de recherche de données visés à l’art. 14, al. 1, LDEP[^59abis-2] dans la mesure où elles en ont besoin pour contrôler le respect de l’obligation des fournisseurs de prestations de s’affilier à une communauté ou à une communauté de référence certifiées au sens de l’art. 11, let. a, LDEP:
+
+- a. l’autorité de surveillance visée à l’art. 38, al. 1;
+- b. dans le cas des fournisseurs de prestations visés à l’art. 35, al. 2, let. h à k, l’autorité cantonale compétente pour leur surveillance.
+
+[^59abis-1]: Introduit par le ch. II de la LF du 15 mars 2024 (Financement transitoire, consentement et accès aux services de recherche de données), en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [FF 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
+[^59abis-2]: [RS 816.1](https://fedlex.data.admin.ch/eli/cc/2017/203)
 
 ### Chapitre 4*a* Projets pilotes visant à maîtriser les coûts
 
