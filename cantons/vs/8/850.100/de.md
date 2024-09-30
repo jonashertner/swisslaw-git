@@ -4,13 +4,12 @@ number: "850.100"
 title: Verordnung über die Eingliederung und die Sozialhilfe
 short: VES
 language: de
-version: 2021-07-01
-corrected: 2022-02-15
-version_adopted: 2021-04-21
+version: 2024-10-01
+version_adopted: 2024-10-09
 adopted: 2021-04-21
 in_force: 2021-07-01
 url: "https://lex.vs.ch/app/de/texts_of_law/850.100"
-pdf: "https://lex.vs.ch/api/de/versions/2881/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3381/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/de/versions/2881/pdf_file"
 
 (VES)
 
-vom 21.04.2021 (Stand 01.07.2021)
+vom 21.04.2021 (Stand 01.10.2024)
 
 Der Staatsrat des Kantons Wallis
 
@@ -208,8 +207,8 @@ verordnet[^ingress-1]:
 
 <sup>3</sup> Es hat einen eigenständigen Wohnsitz:
 
-- a) am Sitz der Kindesschutzbehörde, die die Vormundschaft ausübt;
-- b) aam in Artikel 15 festgelegten Ort, wenn es einer Erwerbstätigkeit nachgeht und normalerweise seinen Lebensunterhalt bestreiten kann;
+- a) in der Gemeinde, in der das Kind oder seine Eltern zum Zeitpunkt der Entscheidung über die Vormundschaft oder deren Änderung wohnen oder wohnten;
+- b) am in Artikel 15 festgelegten Ort, wenn es einer Erwerbstätigkeit nachgeht und normalerweise seinen Lebensunterhalt bestreiten kann;
 - c) am letzten gemäss den Absätzen 1 und 2 festgelegten Wohnsitz, wenn es nicht dauerhaft bei seinen Eltern oder einem Elternteil lebt;
 - d) in den übrigen Fällen an seinem Aufenthaltsort.
 
@@ -251,7 +250,7 @@ verordnet[^ingress-1]:
 
 #### Art. 21
 
-**b) Junge Erwaschene**
+**b) Junge Erwachsene**
 
 <sup>1</sup> Als junge Erwachsene gelten alle Personen zwischen dem vollendeten 18. und 25. Lebensjahr.
 
@@ -439,7 +438,7 @@ verordnet[^ingress-1]:
 
 <sup>4</sup> Die Dienststelle reicht am Ende jedes Rechnungsjahres dem kantonalen Finanzinspektorat als Kontrollorgan die Abrechnung des Fonds ein.
 
-<sup>5</sup> Der Staatsrat verzichtet auf den Erlass eines Reglements zum Fonds, da dieser Bereich in Artikel 27 GES und diesem Artikel umfassend geregelt ist.
+<sup>5</sup> Der Staatsrat legt in einem Reglement die Modalitäten für die Verwendung des Fonds fest.
 
 ## 8 Materielle Hilfe
 
@@ -459,7 +458,10 @@ verordnet[^ingress-1]:
 
 **Begriff der Unterstützungseinheit (Art. 29 GES)**
 
-<sup>1</sup> Bei den zur Unterstützungseinheit gehörenden Kindern handelt es sich um minderjährige Kinder sowie um junge Erwachsene, die ihr 25. Lebensjahr noch nicht vollendet und noch keine angemessene Ausbildung abgeschlossen haben, mit dem Hilfesuchenden im gemeinsamen Haushalt leben sowie nicht finanziell selbstständig sind.
+<sup>1</sup> Die zur Unterstützungseinheit gehörenden Kinder, sind die Kinder, die nicht finanziell selbstständig sind und die:
+
+- a) minderjährig sind, oder
+- b) volljährig sind, das 25. Lebensjahr noch nicht vollendet haben und sich in Ausbildung befinden, ohne eine angemessene Ausbildung abgeschlossen zu haben.
 
 <sup>2</sup> Die zu unterstützenden Kinder, die sich aufgrund eines Studiums oder einer Ausbildung vorübergehend nicht am Wohnsitz des Hilfesuchenden aufhalten, werden als mit dem Hilfesuchenden im gemeinsamen Haushalt lebende Personen betrachtet. Der Betrag für den Grundbedarf wird jedoch entsprechend angepasst.
 
@@ -771,6 +773,8 @@ verordnet[^ingress-1]:
 <sup>3</sup> Das Departement erlässt eine Weisung über die Bedingungen, die Berechnung und die Modalitäten der Rückerstattungen.
 
 <sup>4</sup> Die Sozialhilfebehörde kann nach Vormeinung der Dienststelle von Amtes wegen oder auf Gesuch hin einen teilweisen oder vollständigen Erlass gewähren.
+
+<sup>5</sup> Die in Artikel 52 Absatz 4 GES genannten Personen sind auch bei Wiederaufnahme einer Erwerbstätigkeit im Sinne von Artikel 52 Absatz 1 Buchstabe f GES nicht zur Rückerstattung verpflichtet.
 
 #### Art. 62
 

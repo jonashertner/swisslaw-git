@@ -4,13 +4,12 @@ number: "850.100"
 title: "Ordonnance sur l'intégration et l'aide sociale"
 short: OLIAS
 language: fr
-version: 2021-07-01
-corrected: 2022-02-15
-version_adopted: 2021-04-21
+version: 2024-10-01
+version_adopted: 2024-10-09
 adopted: 2021-04-21
 in_force: 2021-07-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/850.100"
-pdf: "https://lex.vs.ch/api/fr/versions/2881/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3381/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -19,7 +18,7 @@ pdf: "https://lex.vs.ch/api/fr/versions/2881/pdf_file"
 
 (OLIAS)
 
-du 21.04.2021 (état 01.07.2021)
+du 21.04.2021 (état 01.10.2024)
 
 Le Conseil d'Etat du canton du Valais
 
@@ -208,7 +207,7 @@ ordonne[^ingress-1]:
 
 <sup>3</sup> Il a un domicile indépendant:
 
-- a) au siège de l’autorité de protection de l’enfant qui exerce la tutelle;
+- a) dans la commune dans laquelle l'enfant ou ses parents habitent ou habitaient au moment du prononcé de la tutelle ou de sa modification;
 - b) au lieu fixé à l'article 15, lorsqu'il exerce une activité lucrative et qu'il est normalement capable de pourvoir à son entretien;
 - c) au dernier domicile fixé selon les alinéas 1 et 2, lorsqu'il ne vit pas avec ses parents ou l'un d'eux de façon durable;
 - d) à son lieu de séjour dans les autres cas.
@@ -441,7 +440,7 @@ ordonne[^ingress-1]:
 
 <sup>4</sup> Le service remet à la fin de chaque année comptable les comptes du fonds à l'inspectorat cantonal des finances en qualité d'organe de contrôle.
 
-<sup>5</sup> Le Conseil d’Etat renonce à édicter un règlement sur le fonds, le domaine étant exhaustivement réglé par l’article 27 LIAS et le présent article.
+<sup>5</sup> Le Conseil d’Etat précise dans un règlement les modalités d'utilisation du fonds.
 
 ## 8 Aide matérielle
 
@@ -461,7 +460,10 @@ ordonne[^ingress-1]:
 
 **Notion d'unité d'assistance (art. 29 LIAS)**
 
-<sup>1</sup> Les enfants compris dans l’unité d’assistance sont les enfants mineurs ainsi que les enfants majeurs de moins de 25 ans révolus, qui n'ont pas achevé de formation appropriée, font ménage commun avec le demandeur et ne sont pas autonomes financièrement.
+<sup>1</sup> Les enfants compris dans l’unité d’assistance sont les enfants qui ne sont pas autonomes financièrement et qui sont:
+
+- a) mineurs, ou
+- b) majeurs de moins de 25 ans révolus, en cours de formation sans avoir achevé une formation appropriée.
 
 <sup>2</sup> Les enfants à charge qui sont momentanément absents du domicile du demandeur pour raisons d'études ou de formation sont considérés comme faisant ménage commun avec celui-ci. Le montant du forfait d’entretien est toutefois adapté en conséquence.
 
@@ -773,6 +775,8 @@ ordonne[^ingress-1]:
 <sup>3</sup> Le département édicte une directive sur les conditions, le calcul et les modalités des remboursements.
 
 <sup>4</sup> L’autorité d’aide sociale peut accorder une remise, d’office ou sur demande, après préavis du service.
+
+<sup>5</sup> Les personnes visées par l'article 52 alinéa 4 LIAS ne sont pas non plus tenues au remboursement en cas de reprise d'une activité lucrative au sens de l'article 52 alinéa 1 lettre f LIAS.
 
 #### Art. 62
 
