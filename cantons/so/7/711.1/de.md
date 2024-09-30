@@ -4,13 +4,12 @@ number: "711.1"
 title: Planungs- und Baugesetz
 short: PBG
 language: de
-version: 2018-07-01
-valid_until: 2024-09-30
-version_adopted: 2018-01-31
+version: 2024-10-01
+version_adopted: 2024-03-19
 adopted: 1978-12-03
 in_force: 1979-07-01
 url: "https://bgs.so.ch/app/de/texts_of_law/711.1"
-pdf: "https://bgs.so.ch/api/de/versions/5436/pdf_file"
+pdf: "https://bgs.so.ch/api/de/versions/5470/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SO. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://bgs.so.ch/api/de/versions/5436/pdf_file"
 
 (PBG)
 
-Vom 03.12.1978 (Stand 01.07.2018)
+Vom 03.12.1978 (Stand 01.10.2024)
 
 Der Kantonsrat von Solothurn
 
@@ -206,7 +205,7 @@ beschliesst:
 
 <sup>1</sup> Nutzungspläne sind nach Vorprüfung durch das zuständige Amt vom Gemeinderat während 30 Tagen öffentlich aufzulegen. Die Auflage ist zu publizieren.
 
-<sup>2</sup> Ab Beginn der Planauflage dürfen Baubewilligungen nur noch erteilt werden für Bauvorhaben, welche auch dem neuen Plan entsprechen.
+<sup>2</sup> Ab Beginn der Planauflage dürfen Baubewilligungen durch die Baubehörde erstinstanzlich nur noch für Bauvorhaben erteilt werden, welche auch dem neuen Plan entsprechen.
 
 <sup>3</sup> …
 
@@ -324,7 +323,7 @@ beschliesst:
 
 <sup>2</sup> Die voraussichtliche Nutzung im Sinne von §§ 29–34 kann in der Reservezone bereits festgelegt werden.
 
-<sup>3</sup> Land der Industriereservezone ist bei ausgewiesenem Eigenbedarf eines bestehenden Unternehmens der Bauzone zuzuweisen.
+<sup>3</sup> …
 
 <sup>4</sup> Die Zuweisung von Land der Reservezone zur Bauzone erfolgt im ordentlichen Nutzungsplanverfahren (§§ 15 ff).
 
@@ -675,9 +674,9 @@ beschliesst:
 
 **2. Kantonaler Richtplan a) Inhalt**
 
-<sup>1</sup> Der kantonale Richtplan legt nach den Vorschriften des Bundesrechtes und gestützt auf die Grundlagen der Regionalplanung die künftige Besiedlung und Nutzung des Kantons in den Grundzügen fest. Im besonderen soll er Aufschluss über den Stand und die anzustrebende Entwicklung der Besiedlung vermitteln sowie das Siedlungsgebiet und das nicht zu besiedelnde Gebiet ausscheiden.
+<sup>1</sup> Der kantonale Richtplan legt nach den Vorschriften des Bundesrechtes und gestützt auf die Grundlagen der Regionalplanung insbesondere die künftige Besiedlung und Nutzung des Kantons in den Grundzügen sowie Vorhaben mit gewichtigen Auswirkungen auf Raum und Umwelt fest.
 
-<sup>2</sup> Die Standorte für geplante Einkaufs- und andere regionale Dienstleistungszentren, für Sport- und Freizeitanlagen von regionaler Bedeutung und für Flugplätze sind in jedem Fall im kantonalen Richtplan festzulegen.
+<sup>2</sup> …
 
 <sup>3</sup> Der Richtplan setzt die Kriterien für die Ausscheidung spezieller Landwirtschaftszonen nach § 37<sup>bis</sup> Absatz 3 fest.
 
@@ -1422,7 +1421,7 @@ beschliesst:
 
 <sup>2</sup> Der Kantonsrat bestimmt den jeweiligen prozentualen Anteil der Grundstückgewinnsteuer nach den Bedürfnissen im Rahmen des jährlichen Budgets.
 
-<sup>3</sup> Der Fonds wird überdies namentlich gespiesen durch einen angemessenen Anteil der Kühlwasserabgabe des Kernkraftwerkes Gösgen und den gesetzlichen Anteil des Jagdpachtertrages.
+<sup>3</sup> Der Fonds wird überdies namentlich gespiesen durch einen angemessenen Anteil der Kühlwasserabgabe des Kernkraftwerkes Gösgen.
 
 <sup>4</sup> Der Regierungsrat verwendet die Mittel des Fonds für:
 
@@ -1496,7 +1495,7 @@ beschliesst:
 
 **B. Baubewilligung 1. Materielle und formelle Koordination**
 
-<sup>1</sup> Bauten und bauliche Anlagen bedürfen einer Bewilligung der Baubehörde.
+<sup>1</sup> Bauten und bauliche Anlagen bedürfen einer Bewilligung der Baubehörde. Der Kantonsrat bestimmt die Ausnahmen.
 
 <sup>2</sup> Bedarf eine Baute oder bauliche Anlage überdies anderer raum- und umweltrelevanter Bewilligungen oder des Erlasses eines Gestaltungsplanes, so ist in einem Leitverfahren nach Absatz 3 die Stellungnahme aller betroffenen Stellen einzuholen und der Entscheid unter Abwägung aller Interessen zu fällen. Die anderen Bewilligungen bleiben vorbehalten und sind wenn möglich im Entscheid des Leitverfahrens oder gleichzeitig mit diesem zu eröffnen.
 
@@ -1649,10 +1648,12 @@ beschliesst:
 
 <sup>4</sup> Die Gemeinden können durch Reglemente und Nutzungspläne aus Gründen des Umweltschutzes und der Raumplanung die Zahl der Abstellplätze beschränken oder diese ganz ausschliessen, die Parkplatzbewirtschaftung regeln, die Anwohnerprivilegierung auf öffentlichem Grund einführen und die Schaffung von Gemeinschaftsanlagen vorsehen.
 
+<sup>4<sup>bis</sup></sup> Beim Neubau verkehrsintensiver Anlagen sind mindestens 40% der zu erstellenden Abstellplätze für Personenwagen innenliegend anzuordnen.
+
 <sup>5</sup> Können oder dürfen die erforderlichen Abstellflächen nicht in geeigneter Lage erstellt werden, so hat der Grundeigentümer nach Vorschrift der Gemeinde
 
 - a) sich entweder an einem Gemeinschaftsunternehmen zur Schaffung von Parkraum zu beteiligen;
-- b) a)oder nach § 43 der Verordnung über Grundeigentümerbeiträge und -gebühren vom 3. Juli 1978[^147-1] für die Gemeinden des Kantons Solothurn eine Ersatzabgabe zu entrichten, welche von der Gemeinde für öffentliche Abstellflächen und den öffentlichen Verkehr zu verwenden ist.
+- b) oder nach § 43 der Verordnung über Grundeigentümerbeiträge und -gebühren vom 3. Juli 1978[^147-1] für die Gemeinden des Kantons Solothurn eine Ersatzabgabe zu entrichten, welche von der Gemeinde für öffentliche Abstellflächen und den öffentlichen Verkehr zu verwenden ist.
 
 [^147-1]: BGS [711.41](https://bgs.so.ch/data/711.41/de).
 
