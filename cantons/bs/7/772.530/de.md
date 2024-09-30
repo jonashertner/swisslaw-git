@@ -3,13 +3,12 @@ canton: BS
 number: "772.530"
 title: Gebührentarif der IWB Industrielle Werke Basel betreffend Gas
 language: de
-version: 2022-10-01
-valid_until: 2024-09-30
-version_adopted: 2022-09-01
+version: 2024-10-01
+version_adopted: 2024-09-06
 adopted: 2010-09-06
 in_force: 2010-10-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/772.530"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5658/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6424/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/5658/pdf_file"
 
 Energie- und Wasserversorgung[^t-1]
 
-Vom 6. September 2010 (Stand 1. Oktober 2022)
+Vom 6. September 2010 (Stand 1. Oktober 2024)
 
 Der Verwaltungsrat der IWB Industrielle Werke Basel,
 
@@ -37,13 +36,15 @@ beschliesst:
 
 <sup>2</sup> Der Energiepreis besteht aus einem Einheitspreis pro bezogene Kilowattstunde und einem festen Grundpreis pro Zähler. Es gilt:
 
-- a) Einheitspreis = 25,65 Rp./kWh, zuzüglich der jeweils geltenden CO<sub>2</sub>-Abgabe gemäss Bundesgesetz über die Reduktion der CO<sub>2</sub>-Emissionen (CO<sub>2</sub>-Gesetz) vom 23. Dezember 2011;
+- a) Einheitspreis = 23,45 Rp./kWh, zuzüglich der jeweils geltenden CO<sub>2</sub>-Abgabe gemäss Bundesgesetz über die Reduktion der CO<sub>2</sub>-Emissionen (CO<sub>2</sub>-Gesetz) vom 23. Dezember 2011[^1-1];
 - b) Grundpreis = 60 Fr./Jahr.
 
-<sup>3</sup> Der Einheitspreis reduziert sich um 0,4 Rp./kWh, falls vom Wahlrecht gemäss § 2<sup>bis</sup> Abs. 1 lit. b) Gebrauch gemacht wird.
+<sup>3</sup> Der Einheitspreis reduziert sich um 0,8 Rp./kWh, falls vom Wahlrecht gemäss § 2<sup>bis</sup> Abs. 1 lit. b Gebrauch gemacht wird.
 
 - a) …
 - b) …
+
+[^1-1]: SR [641.71](https://db.clex.ch/link/Bund/641.71/de)
 
 #### § 2
 
@@ -53,14 +54,14 @@ beschliesst:
 
 <sup>2</sup> Der Energiepreis ist abhängig von der Jahresarbeit in Kilowattstunden. Er besteht aus einem Einheitspreis pro bezogene Kilowattstunde und einem Grundpreis, der sich nach der Netzbelastung der angeschlossenen Apparate richtet. Es gilt:
 
-- a) Einheitspreis 0 bis &lt; 99'999 kWh/Jahr = 13,70 Rp./kWh, zuzüglich der jeweils geltenden CO<sub>2</sub>-Abgabe gemäss Bundesgesetz über die Reduktion der CO<sub>2</sub>-Emissionen vom 23. Dezember 2011;
+- a) Einheitspreis 0 bis &lt; 99'999 kWh/Jahr = 11,50 Rp./kWh, zuzüglich der jeweils geltenden CO<sub>2</sub>-Abgabe gemäss Bundesgesetz über die Reduktion der CO<sub>2</sub>-Emissionen vom 23. Dezember 2011;
 - b) Grundpreis 0 bis &lt; 99'999 kWh/Jahr = 11,50 Fr./kW/Jahr, im Minimum 180 Fr./Jahr;
-- c) Einheitspreis 100'000 bis 499'999 kWh/Jahr = 13,35 Rp./kWh, zuzüglich der jeweils geltenden CO<sub>2</sub>-Abgabe gemäss Bundesgesetz über die Reduktion der CO<sub>2</sub>-Emissionen vom 23. Dezember 2011;
+- c) Einheitspreis 100'000 bis 499'999 kWh/Jahr = 11,15 Rp./kWh, zuzüglich der jeweils geltenden CO<sub>2</sub>-Abgabe gemäss Bundesgesetz über die Reduktion der CO<sub>2</sub>-Emissionen vom 23. Dezember 2011;
 - d) Grundpreis 100'000 bis 499'999 kWh /Jahr = 15,50 Fr./kW/Jahr, im Minimum 900 Fr./Jahr;
-- e) Einheitspreis ab 500'000 kWh/Jahr = 13,05 Rp./kWh, zuzüglich der jeweils geltenden CO<sub>2</sub>-Abgabe gemäss Bundesgesetz über die Reduktion der CO<sub>2</sub>-Emissionen vom 23. Dezember 2011;
+- e) Einheitspreis ab 500'000 kWh/Jahr = 10,85 Rp./kWh, zuzüglich der jeweils geltenden CO<sub>2</sub>-Abgabe gemäss Bundesgesetz über die Reduktion der CO<sub>2</sub>-Emissionen vom 23. Dezember 2011;
 - f) Grundpreis ab 500'000 kWh/Jahr = 17,50 Fr./kW/Jahr, im Minimum 2'160 Fr./Jahr.
 
-<sup>3</sup> Der Einheitspreis reduziert sich um 0,4 Rp./kWh, falls vom Wahlrecht gemäss § 2<sup>bis</sup> Abs. 1 lit. b) Gebrauch gemacht wird.
+<sup>3</sup> Der Einheitspreis reduziert sich um 0,8 Rp./kWh, falls vom Wahlrecht gemäss § 2<sup>bis</sup> Abs. 1 lit. b Gebrauch gemacht wird.
 
 - a) …
 - b) …
@@ -71,7 +72,7 @@ beschliesst:
 
 <sup>1</sup> Für die Lieferung und Abrechnung von Erdgas an Kundinnen und Kunden mit Kleinbezugstarif gemäss § 1 oder allgemeinem Gastarif gemäss § 2 gilt:
 
-- a) Die IWB liefert ab 1. Oktober 2016 standardmässig Erdgas mit einem Biogasanteil von 5%.
+- a) Die IWB liefert ab 1. Oktober 2024 standardmässig Erdgas mit einem Biogasanteil von 10%.
 - b) Die Benützerinnen und Benützer haben das Recht, die Lieferung von Erdgas ohne Biogasanteil zu beantragen (Wahlrecht). Ein entsprechender Antrag kann jederzeit mit einer Frist von 4 Wochen für die folgende Abrechnungsperiode gestellt werden. Der Antrag hat schriftlich zu erfolgen.
 - c) Die Abrechnung erfolgt in der Regel jährlich.
 - d) Zusätzlich sind Akontozahlungen zu leisten.
