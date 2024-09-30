@@ -4,16 +4,17 @@ number: "702.25"
 title: Verordnung über Bewirtschaftungsbeiträge für Naturschutzleistungen (VBN)
 short: VBN
 language: de
-nachtrag: "89"
-valid_until: 2024-10-01
+version: "2024-10-01"
+nachtrag: "126"
+valid_until: 2025-03-26
 adopted: 2014-05-14
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-702_25-2014_05_14-2014_01_01-089.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-702_25-2014_05_14-2014_01_01-126.html"
 text: pdf
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
 
-# Verordnung über Bewirtschaftungsbeiträge für Naturschutzleistungen
+# Verordnung über Bewirtschaftungsbeiträge für Naturschutzleistungen (VBN)<sup>4</sup>
 
 (vom 14. Mai 2014)<sup>1,</sup> <sup>2</sup>
 
@@ -61,7 +62,7 @@ Das Amt für Landschaft und Natur (ALN) legt die kantonalen Anforderungen an die
 
 **1**
 
-- 1\. 7. 15 - 89 § 4. <sup>1</sup> Die Höhe der Beiträge berechnet sich nach dem Anhang.
+1.10. 24 - 126 § 4. <sup>1</sup> Die Höhe der Beiträge berechnet sich nach dem Anhang.
 
 **b. Beitragshöhe**
 
@@ -75,13 +76,13 @@ Die Beiträge gemäss § 4 können erhöht werden, wenn a. die Unterschutzstellu
 
 - b. die Bewirtschafterin oder der Bewirtschafter nachweist, dass die Bewirtschaftung aller Naturschutzflächen des Betriebes nicht kostendeckend erfolgen kann.
 
-[^5-1]: SR 910.13. 1. 7. 15 - 89 3
+[^5-1]: SR 910.13.
 
 #### § 6
 
 **Obstgärten a. Voraussetzungen**
 
-<sup>1</sup> Das ALN kann für Obstgärten von überkommunaler Bedeutung Beiträge ausrichten, wenn a. die Voraussetzungen nach Art 58, 59 und Anhang 4 Ziff. 12 DZV[^5-1] eingehalten werden,
+<sup>1</sup> Das ALN kann für Obstgärten von überkommunaler Bedeutung Beiträge ausrichten, wenn a. die Voraussetzungen nach Art. 58, 59 und Anhang 4 Ziff. 12 DZV[^5-1] eingehalten werden,
 
 - b. die Bäume während der Vertragsdauer erhalten, ersetzt und gepflegt werden,
 
@@ -123,13 +124,17 @@ Das ALN kann für die Förderung von besonderen Biotoptypen und Arten mit hohem 
 
 <sup>2</sup> Die Bewirtschafterin oder der Bewirtschafter einigt sich vor Vertragsabschluss mit der Eigentümerin oder dem Eigentümer über die beitragsauslösende Bewirtschaftung.
 
-[^10-1]: SR 910.13. 1. 7. 15 - 89 3
+[^10-1]: SR 910.13.
 
 #### § 11
 
 **Vertragsauflösung, Beitragskürzung**
 
 Das ALN kann bei rechts- oder vereinbarungswidriger Bewirtschaftung den Vertrag vorzeitig auflösen und die Beiträge sinngemäss nach Art. 105 DZV[^10-1] kürzen oder verweigern.
+
+### Übergangsbestimmung zur Änderung vom 3. Juli 2024 (OS 79, 349)
+
+Der Anspruch auf Ausrichtung der geänderten Beiträge für die Bewirtschaftung von Naturschutzflächen besteht für die ab dem 1. Januar 2024 erbrachten Leistungen.
 
 ### Anhang: Berechnung der Beitragshöhe gemäss § 4
 
@@ -143,7 +148,7 @@ schutz- bisher neu zone
 
 **QI + QII4 + Z1 + VZ2 + Fr. 203 QI + QII4 + Z1 + VZ2 + Fr. 153 QI + QII4 + Z1 + VZ2 + Fr. 53 Fr. 103 Fr. 53 Fr. 0 Fr. 103 Fr. 0 Fr. 0 QI + QII4 + Z1 + VZ2 + Fr. 203 QI + QII4 + Z1 + VZ2 + Fr. 153 QI + QII4 + Z1 + VZ2 + Fr. 53 QI + QII4 + Z1 + VZ2 + Fr. 203 QI + QII4 + Z1 + VZ2 + Fr. 153 QI + QII4 + Z1 + VZ2 + Fr. 53**
 
-[^hNaturNutzungNutzu-1]: Der Zuschlag (Z) beträgt Fr. 2/Are. In Schutzgebieten von nationaler Bedeutung wird er ab 2016 durch QIII ersetzt.
+[^hNaturNutzungNutzu-1]: Der Zuschlag (Z) beträgt:4 – für extensiv genutzte Wiesen in der Tal- und Hügelzone Fr. 5/Are, – für extensiv genutzte Wiesen in der Bergzone I und II Fr. 4/Are, – für extensiv genutzte Weiden und wenig intensiv genutzte Wiesen und Uferwiesen Fr. 4.50/Are, – in den übrigen Fällen Fr. 2/Are.
 [^hNaturNutzungNutzu-2]: Der Vernetzungszuschlag (VZ) wird nur an Direktzahlungsberechtigte ausgerichtet. Er wird nur ausgerichtet, wenn der Schutz der überkommunalen Naturschutzgebiete, einschliesslich Pufferzonen, auf der Betriebsfläche umgesetzt ist. In der Zone I und IR wird der VZ auch ausserhalb von Vernetzungsprojekten ausgerichtet.
 [^hNaturNutzungNutzu-3]: Ertragsausfallanteil.
 [^hNaturNutzungNutzu-4]: Wenn die Anforderungen gemäss DZV erfüllt sind.
@@ -156,3 +161,4 @@ schutz- bisher neu zone
 
 - [1] OS 70, 152; Begründung siehe ABl 2014-05-23.
 - [2] Inkrafttreten: 1. Januar 2014 (ABl 2015-05-29).
+- [4] Fassung gemäss RRB vom 3. Juli 2024 (OS 79, 349; ABl 2024-07-19). In Kraft seit 1. Oktober 2024. 1.10. 24 - 126 3
