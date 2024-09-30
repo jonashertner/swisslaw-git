@@ -3,11 +3,11 @@ sr: "0.747.224.011"
 title: "Übereinkommen vom 9. September 1996 über die Sammlung, Abgabe und Annahme von Abfällen in der Rhein- und Binnenschifffahrt (mit Anlagen)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/630"
 language: de
-version: 2024-07-01
+version: 2024-10-01
 adopted: 1996-09-09
 in_force: 2009-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20240701/de/xml/fedlex-data-admin-ch-eli-cc-2009-630-20240701-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/630/20240701/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20241001/de/xml/fedlex-data-admin-ch-eli-cc-2009-630-20241001-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/630/20241001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Originaltext
 
 Abgeschlossen in Strassburg am 9. September 1996 Von der Bundesversammlung genehmigt am 19. Dezember 1997[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 16. Juli 1998 In Kraft getreten für die Schweiz am 1. November 2009
 
-(Stand am 1. Juli 2024)
+(Stand am 1. Oktober 2024)
 
 [^t-1]: [AS 2009 5291](https://fedlex.data.admin.ch/eli/oc/2009/629)
 
@@ -64,15 +64,21 @@ Im Sinne dieses Übereinkommens bedeutet der Ausdruck:
 - m) «Gasöl» den zoll- und abgabenrechtlich befreiten Treibstoff für Binnenschiffe;
 - n) «Bunkerstelle» eine Stelle, an der die Fahrzeuge das Gasöl beziehen;
 - nn)[^1-4] «Betreiber einer Annahmestelle» eine Person, die gewerbsmässig eine Annahmestelle betreibt;
-- o) «Betreiber der Umschlagsanlage» eine Person, die gewerbsmässig die Be- oder Entladung von Fahrzeugen ausführt;
-- p) «Befrachter» die Person, die den Beförderungsauftrag erteilt hat;
-- q) «Frachtführer» eine Person, die es gewerbsmässig übernimmt, die Beförderung von Gütern auszuführen;
-- r) «Ladungsempfänger» die Person, die berechtigt ist, das Ladungsgut in Empfang zu nehmen.
+- o)[^1-5] «Betreiber der Umschlagsanlage»: eine Person, die gewerbsmässig die Be- oder Entladung von Fahrzeugen ausführt;
+- p)[^1-6] «Befrachter»: die Person, die den Beförderungsauftrag erteilt hat;
+- q)[^1-7] «Frachtführer»: eine Person, die es gewerbsmäßig übernimmt, die Beförderung von Gütern auszuführen
+- r)[^1-8] «Ladungsempfänger»: die Person, die berechtigt ist, das Ladungsgut in Empfang zu nehmen;
+- s)[^1-9] «Freisetzung von Dämpfen» jegliches Ablassen von Dämpfen aus einem geschlossenen Ladetank ausser beim Entspannen des Tanks zum Zwecke der Öffnung der Ladeluke und zum Zwecke der Durchführung von Messungen der Dampfkonzentration sowie bei Ansprechen der Sicherheitsventile.
 
 [^1-1]: Fassung gemäss der von der Konferenz der Vertragsparteien am 18. Dez. 2019 angenommen Änderung, in Kraft getreten für die Schweiz am 18. Dez. 2019 ([AS 2024 294](https://fedlex.data.admin.ch/eli/oc/2024/294); [BBl 2023 999](https://fedlex.data.admin.ch/eli/fga/2023/999)).
 [^1-2]: Eingefügt durch die von der Konferenz der Vertragsparteien am 18. Dez. 2019 angenommen Änderung, in Kraft getreten für die Schweiz am 18. Dez. 2019 ([AS 2024 294](https://fedlex.data.admin.ch/eli/oc/2024/294); [BBl 2023 999](https://fedlex.data.admin.ch/eli/fga/2023/999)).
 [^1-3]: Fassung gemäss der von der Konferenz der Vertragsparteien am 18. Dez. 2019 angenommen Änderung, in Kraft getreten für die Schweiz am 18. Dez. 2019 ([AS 2024 294](https://fedlex.data.admin.ch/eli/oc/2024/294); [BBl 2023 999](https://fedlex.data.admin.ch/eli/fga/2023/999)).
 [^1-4]: Eingefügt durch die von der Konferenz der Vertragsparteien am 18. Dez. 2019 angenommen Änderung, in Kraft getreten für die Schweiz am 18. Dez. 2019 ([AS 2024 294](https://fedlex.data.admin.ch/eli/oc/2024/294); [BBl 2023 999](https://fedlex.data.admin.ch/eli/fga/2023/999)).
+[^1-5]: Fassung gemäss der von der Konferenz der Vertragsparteien am 22. Juni 2017 angenommen Änderung, in Kraft getreten für die Schweiz am 1. Okt. 2024 ([AS 2024 294](https://fedlex.data.admin.ch/eli/oc/2024/294); [BBl 2023 999](https://fedlex.data.admin.ch/eli/fga/2023/999)).
+[^1-6]: Fassung gemäss der von der Konferenz der Vertragsparteien am 22. Juni 2017 angenommen Änderung, in Kraft getreten für die Schweiz am 1. Okt. 2024 ([AS 2024 294](https://fedlex.data.admin.ch/eli/oc/2024/294); [BBl 2023 999](https://fedlex.data.admin.ch/eli/fga/2023/999)).
+[^1-7]: Fassung gemäss der von der Konferenz der Vertragsparteien am 22. Juni 2017 angenommen Änderung, in Kraft getreten für die Schweiz am 1. Okt. 2024 ([AS 2024 294](https://fedlex.data.admin.ch/eli/oc/2024/294); [BBl 2023 999](https://fedlex.data.admin.ch/eli/fga/2023/999)).
+[^1-8]: Fassung gemäss der von der Konferenz der Vertragsparteien am 22. Juni 2017 angenommen Änderung, in Kraft getreten für die Schweiz am 1. Okt. 2024 ([AS 2024 294](https://fedlex.data.admin.ch/eli/oc/2024/294); [BBl 2023 999](https://fedlex.data.admin.ch/eli/fga/2023/999)).
+[^1-9]: Eingefügt durch die von der Konferenz der Vertragsparteien am 22. Juni 2017 angenommen Änderung, in Kraft getreten für die Schweiz am 1. Okt. 2024 ([AS 2024 294](https://fedlex.data.admin.ch/eli/oc/2024/294); [BBl 2023 999](https://fedlex.data.admin.ch/eli/fga/2023/999)).
 
 #### Art. 2
 
@@ -88,11 +94,13 @@ Dieses Übereinkommen gilt auf den in Anlage 1 genannten Wasserstrassen.
 
 **Verbot der Einbringung und Einleitung**
 
-<sup>(1)</sup> Es ist verboten, von Fahrzeugen aus Schiffsabfälle und Teile der Ladung in die in Anlage 1 genannten Wasserstrassen einzubringen oder einzuleiten.
+<sup>(1)</sup> Es ist verboten, von Fahrzeugen aus Schiffsabfälle und Teile der Ladung in die Anlage 1 genannte Wasserstrassen einzubringen oder einzuleiten oder auf den in Anlage 1 genannten Wasserstrassen Dämpfe in die Atmosphäre freizusetzen.[^3-1]
 
 <sup>(2)</sup> Die Vertragsstaaten tragen dafür Sorge, dass das in Absatz 1 genannte Verbot eingehalten wird.
 
 <sup>(3)</sup> Ausnahmen von diesem Verbot sind nur in Übereinstimmung mit Anlage 2 und den dazu gehörigen Anhängen, im Folgenden als «Anwendungsbestimmung» bezeichnet, zulässig.
+
+[^3-1]: Fassung gemäss der von der Konferenz der Vertragsparteien am 22. Juni 2017 angenommen Änderung, in Kraft getreten für die Schweiz am 1. Okt. 2024 ([AS 2024 294](https://fedlex.data.admin.ch/eli/oc/2024/294); [BBl 2023 999](https://fedlex.data.admin.ch/eli/fga/2023/999)).
 
 #### Art. 4
 
@@ -144,7 +152,17 @@ Sämtliche entrichteten Entsorgungsgebühren sind ausschliesslich für die Finan
 
 <sup>(1)</sup> Der Befrachter oder der Ladungsempfänger trägt die Kosten für die Restentladung und das Waschen des Fahrzeugs sowie für die Annahme und Entsorgung der Abfälle aus dem Ladungsbereich entsprechend Teil B der Anwendungsbestimmung.
 
-<sup>(2)</sup> Wenn das Fahrzeug vor dem Beladen dem vorgeschriebenen Entladungsstandard nicht entspricht und wenn der von der vorangegangenen Beförderung betroffene Ladungsempfänger oder Befrachter seine Verpflichtungen erfüllt hat, trägt der Frachtführer die Kosten für die Restentladung und das Waschen des Fahrzeugs und für die Annahme und Entsorgung der Abfälle aus dem Ladungsbereich.
+(1*a*) Der Befrachter trägt die Kosten für das Entgasen des Fahrzeugs entsprechend Teil B der Anwendungsbestimmung.[^8-1]
+
+<sup>(2)</sup> des Fahrzeugs sowie für die Annahme und Entsorgung der Abfälle aus dem Ladungsbereich.[^8-2]
+
+Wenn das Fahrzeug vor dem Beladen dem vorgeschriebenen Entladungsstandard nicht entspricht und wenn der von der vorangegangenen Beförderung betroffene Ladungsempfänger oder Befrachter seine Verpflichtungen erfüllt hat, trägt der Frachtführer die Kosten für die Restentladung; und:
+
+- a) im Falle des Waschens die Kosten für das Waschen;
+- b) im Falle des Entgasens die Kosten für das Entgasen,
+
+[^8-1]: Eingefügt durch die von der Konferenz der Vertragsparteien am 22. Juni 2017 angenommen Änderung, in Kraft getreten für die Schweiz am 1. Okt. 2024 ([AS 2024 294](https://fedlex.data.admin.ch/eli/oc/2024/294); [BBl 2023 999](https://fedlex.data.admin.ch/eli/fga/2023/999)).
+[^8-2]: Fassung gemäss der von der Konferenz der Vertragsparteien am 22. Juni 2017 angenommen Änderung, in Kraft getreten für die Schweiz am 1. Okt. 2024 ([AS 2024 294](https://fedlex.data.admin.ch/eli/oc/2024/294); [BBl 2023 999](https://fedlex.data.admin.ch/eli/fga/2023/999)).
 
 #### Art. 9
 
@@ -186,7 +204,9 @@ Es wird eine internationale Ausgleichs- und Koordinierungsstelle eingerichtet. S
 
 **Allgemeine Sorgfaltspflicht**
 
-Der Schiffsführer, die übrige Besatzung sowie sonstige Personen an Bord, der Befrachter, der Frachtführer, der Ladungsempfänger, die Betreiber der Umschlagsanlagen sowie die Betreiber der Annahmestellen müssen die nach den Umständen gebotene Sorgfalt anwenden, um eine Verschmutzung der Wasserstrasse zu vermeiden, die Menge des entstehenden Schiffsabfalls so gering wie möglich zu halten und eine Vermischung verschiedener Abfallarten soweit wie möglich zu vermeiden.
+Der Schiffsführer, die übrige Besatzung sowie sonstige Personen an Bord, der Befrachter, der Frachtführer, der Ladungsempfänger, die Betreiber der Umschlagsanlagen sowie die Betreiber der Annahmestellen müssen die nach den Umständen gebotene Sorgfalt anwenden, um eine Verschmutzung der Wasserstrasse und der Atmosphäre zu vermeiden, die Menge des entstehenden Schiffsabfalls so gering wie möglich zu halten und eine Vermischung verschiedener Abfallarten soweit wie möglich zu vermeiden.[^11-1]
+
+[^11-1]: Fassung gemäss der von der Konferenz der Vertragsparteien am 22. Juni 2017 angenommen Änderung, in Kraft getreten für die Schweiz am 1. Okt. 2024 ([AS 2024 294](https://fedlex.data.admin.ch/eli/oc/2024/294); [BBl 2023 999](https://fedlex.data.admin.ch/eli/fga/2023/999)).
 
 #### Art. 12
 
@@ -194,17 +214,19 @@ Der Schiffsführer, die übrige Besatzung sowie sonstige Personen an Bord, der B
 
 <sup>(1)</sup> Der Schiffsführer kann die Schiffsabfälle nach Massgabe der Anwendungsbestimmung an den Annahmestellen jedes Vertragsstaats abgeben.
 
-<sup>(2)</sup> Der Schiffsführer hat die in der Anwendungsbestimmung vorgesehenen Verpflichtungen einzuhalten. Insbesondere hat er, soweit in der Anwendungsbestimmung keine Ausnahme vorgesehen ist, das Verbot zu beachten, vom Fahrzeug aus Schiffsabfälle und Teile der Ladung in die Wasserstrasse einzubringen oder einzuleiten.
+<sup>(2)</sup> Der Schiffsführer hat die in der Anwendungsbestimmung vorgesehenen Verpflichtungen einzuhalten. Insbesondere hat er, soweit in der Anwendungsbestimmung keine Ausnahme vorgesehen ist, das Verbot zu beachten, vom Fahrzeug aus Schiffsabfälle und Teile der Ladung in die Wasserstrasse einzubringen oder einzuleiten oder in die Atmosphäre freizusetzen.[^12-1]
 
 <sup>(3)</sup> Ist kein Schiffsführer verantwortlich zu machen, so ist jeweils der Frachtführer, der Ausrüster oder der Schiffseigner in der genannten Reihenfolge für die Einhaltung der Verpflichtungen aus diesem Übereinkommen zur Verantwortung zu ziehen.
 
+[^12-1]: Fassung gemäss der von der Konferenz der Vertragsparteien am 22. Juni 2017 angenommen Änderung, in Kraft getreten für die Schweiz am 1. Okt. 2024 ([AS 2024 294](https://fedlex.data.admin.ch/eli/oc/2024/294); [BBl 2023 999](https://fedlex.data.admin.ch/eli/fga/2023/999)).
+
 #### Art. 13
 
-**Verpflichtungen des Frachtführers, des Befrachters und des Ladungsempfängers sowie der Betreiber von Umschlagsanlagen und Annahmestellen**
+**Verpflichtungen des Frachtführers, des Befrachters und des Ladungsempfängers sowie der Betreiber von Umschlagsanlagen und Annahmestellen**[^13-1]
 
-<sup>(1)</sup> Der Frachtführer, der Befrachter, der Ladungsempfänger sowie die Betreiber von Umschlagsanlagen und Annahmestellen haben ihre jeweiligen Verpflichtungen nach Massgabe der Anwendungsbestimmung zu erfüllen.
+Der Frachtführer, der Befrachter, der Ladungsempfänger sowie die Betreiber von Umschlagsanlagen und Annahmestellen haben ihre jeweiligen Verpflichtungen nach Massgabe der Anwendungsbestimmung zu erfüllen. Sie können sich zur Erfüllung ihrer Verpflichtungen eines Dritten bedienen.
 
-<sup>(2)</sup> Der Ladungsempfänger ist verpflichtet, Restladungen, Umschlagsrückstände und Abfälle aus dem Ladungsbereich anzunehmen. Er kann hiermit einen Dritten beauftragen.
+[^13-1]: Fassung gemäss der von der Konferenz der Vertragsparteien am 22. Juni 2017 angenommen Änderung, in Kraft getreten für die Schweiz am 1. Okt. 2024 ([AS 2024 294](https://fedlex.data.admin.ch/eli/oc/2024/294); [BBl 2023 999](https://fedlex.data.admin.ch/eli/fga/2023/999)).
 
 ### Konferenz der Vertragsparteien
 
@@ -253,11 +275,11 @@ Die Vertragsstaaten verfolgen die in ihrem Hoheitsgebiet begangenen Verstösse g
 
 **Unterzeichnung, Ratifikation und Beitritt**
 
-(1) Dieses Übereinkommen liegt vom 1. Juni 1996 bis zum 30. September 1996 für die Bundesrepublik Deutschland, das Königreich Belgien, die Französische Republik, das Grossherzogtum Luxemburg, das Königreich der Niederlande und die Schweizerische Eidgenossenschaft zur Unterzeichnung auf.
+<sup>(1)</sup> Dieses Übereinkommen liegt vom 1. Juni 1996 bis zum 30. September 1996 für die Bundesrepublik Deutschland, das Königreich Belgien, die Französische Republik, das Grossherzogtum Luxemburg, das Königreich der Niederlande und die Schweizerische Eidgenossenschaft zur Unterzeichnung auf.
 
-(2) Dieses Übereinkommen bedarf der Ratifikation, Annahme oder Genehmigung durch die Unterzeichnerstaaten. Die Ratifikations-, Annahme-, oder Genehmigungsurkunden werden beim Generalsekretär der Zentralkommission für die Rheinschifffahrt hinterlegt.
+<sup>(2)</sup> Dieses Übereinkommen bedarf der Ratifikation, Annahme oder Genehmigung durch die Unterzeichnerstaaten. Die Ratifikations-, Annahme-, oder Genehmigungsurkunden werden beim Generalsekretär der Zentralkommission für die Rheinschifffahrt hinterlegt.
 
-(3) Nach Inkrafttreten steht dieses Übereinkommen für alle Staaten zum Beitritt offen, deren Binnenwasserstrassen mit denen der Vertragsstaaten in Verbindung stehen. Die Beitrittsurkunden werden beim Generalsekretär der Zentralkommission für die Rheinschifffahrt hinterlegt.
+<sup>(3)</sup> Nach Inkrafttreten steht dieses Übereinkommen für alle Staaten zum Beitritt offen, deren Binnenwasserstrassen mit denen der Vertragsstaaten in Verbindung stehen. Die Beitrittsurkunden werden beim Generalsekretär der Zentralkommission für die Rheinschifffahrt hinterlegt.
 
 #### Art. 18
 
@@ -269,33 +291,35 @@ Dieses Übereinkommen tritt am ersten Tag des zweiten Monats nach Hinterlegung d
 
 **Änderungen des Übereinkommens und seiner Anlagen**
 
-(1) Jede Vertragspartei kann Änderungen dieses Übereinkommens und seiner Anlagen vorschlagen. Änderungsvorschläge werden auf der Konferenz der Vertragsparteien geprüft.
+<sup>(1)</sup> Jede Vertragspartei kann Änderungen dieses Übereinkommens und seiner Anlagen vorschlagen. Änderungsvorschläge werden auf der Konferenz der Vertragsparteien geprüft.
 
-(2) Der Wortlaut jedes Änderungsvorschlags und die Begründung dafür werden dem Verwahrer vorgelegt, der den Vorschlag den Vertragsparteien spätestens drei Monate vor dem Beginn der Konferenz übermittelt. Alle zu einem solchen Vorschlag eingegangenen Stellungnahmen werden den Vertragsparteien durch den Verwahrer übermittelt.
+<sup>(2)</sup> Der Wortlaut jedes Änderungsvorschlags und die Begründung dafür werden dem Verwahrer vorgelegt, der den Vorschlag den Vertragsparteien spätestens drei Monate vor dem Beginn der Konferenz übermittelt. Alle zu einem solchen Vorschlag eingegangenen Stellungnahmen werden den Vertragsparteien durch den Verwahrer übermittelt.
 
-(3) Änderungen dieses Übereinkommens und seiner Anlagen werden einstimmig beschlossen.
+<sup>(3)</sup> Änderungen dieses Übereinkommens und seiner Anlagen werden einstimmig beschlossen.
 
-(4) Änderungen dieses Übereinkommens bedürfen der Ratifikation, Annahme oder Genehmigung durch die Vertragsparteien. Sie treten am ersten Tag des sechsten Monats nach der Hinterlegung der letzten Ratifikations-, Annahme- oder Genehmigungsurkunde beim Verwahrer in Kraft.
+<sup>(4)</sup> Änderungen dieses Übereinkommens bedürfen der Ratifikation, Annahme oder Genehmigung durch die Vertragsparteien. Sie treten am ersten Tag des sechsten Monats nach der Hinterlegung der letzten Ratifikations-, Annahme- oder Genehmigungsurkunde beim Verwahrer in Kraft.
 
-(5) Änderungen der Anlagen dieses Übereinkommens treten zu dem vereinbarten Zeitpunkt, spätestens neun Monate nach der Beschlussfassung, in Kraft, sofern nicht eine Vertragspartei dem Verwahrer binnen sechs Monaten mitteilt, dass sie diese Änderungen ablehnt.
+<sup>(5)</sup> Änderungen der Anlagen dieses Übereinkommens treten zu dem vereinbarten Zeitpunkt, spätestens neun Monate nach der Beschlussfassung, in Kraft, sofern nicht eine Vertragspartei dem Verwahrer binnen sechs Monaten mitteilt, dass sie diese Änderungen ablehnt.
 
 #### Art. 20
 
 **Kündigung**
 
-(1) Dieses Übereinkommen kann von einer Vertragspartei jederzeit nach Ablauf von fünf Jahren nach dem Tag, an dem das Übereinkommen für diese Vertragspartei in Kraft getreten ist, durch eine an den Verwahrer gerichtete Notifikation gekündigt werden.
+<sup>(1)</sup> Dieses Übereinkommen kann von einer Vertragspartei jederzeit nach Ablauf von fünf Jahren nach dem Tag, an dem das Übereinkommen für diese Vertragspartei in Kraft getreten ist, durch eine an den Verwahrer gerichtete Notifikation gekündigt werden.
 
-(2) Die Kündigung wird am ersten Tag des Monats, der auf den Ablauf eines Jahres nach Eingang der Notifikation folgt, frühestens aber nach Abschluss des jährlichen Finanzausgleichs für das vergangene Geschäftsjahr oder nach Ablauf eines in der Notifikation bestimmten längeren Zeitabschnitts wirksam.
+<sup>(2)</sup> Die Kündigung wird am ersten Tag des Monats, der auf den Ablauf eines Jahres nach Eingang der Notifikation folgt, frühestens aber nach Abschluss des jährlichen Finanzausgleichs für das vergangene Geschäftsjahr oder nach Ablauf eines in der Notifikation bestimmten längeren Zeitabschnitts wirksam.
 
 #### Art. 21
 
 **Verwahrer**
 
-(1) Der Generalsekretär der Zentralkommission für die Rheinschifffahrt ist Verwahrer dieses Übereinkommens. Er veranlasst die Aufnahme eines Protokolls über die Hinterlegung der Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunden und übermittelt allen in Artikel 17 Absatz 1 genannten Parteien sowie allen Parteien, die diesem Übereinkommen beigetreten sind, eine beglaubigte Abschrift dieser Urkunden sowie des Hinterlegungsprotokolls.
+<sup>(1)</sup> Der Generalsekretär der Zentralkommission für die Rheinschifffahrt ist Verwahrer dieses Übereinkommens. Er veranlasst die Aufnahme eines Protokolls über die Hinterlegung der Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunden und übermittelt allen in Artikel 17 Absatz 1 genannten Parteien sowie allen Parteien, die diesem Übereinkommen beigetreten sind, eine beglaubigte Abschrift dieser Urkunden sowie des Hinterlegungsprotokolls.
 
-(2) Der Verwahrer übermittelt allen in Artikel 17 Absatz 1 genannten Parteien sowie allen anderen Parteien, die diesem Übereinkommen beigetreten sind, beglaubigte Abschriften des Übereinkommens in den in Artikel 22 genannten Sprachen.
+<sup>(2)</sup> Der Verwahrer übermittelt allen in Artikel 17 Absatz 1 genannten Parteien sowie allen anderen Parteien, die diesem Übereinkommen beigetreten sind, beglaubigte Abschriften des Übereinkommens in den in Artikel 22 genannten Sprachen.
 
-(3) Der Verwahrer übermittelt unverzüglich den in Artikel 17 Absatz 1 genannten Parteien sowie allen Parteien, die diesem Übereinkommen beigetreten sind, beziehungsweise unterrichtet sie über:
+<sup>(3)</sup>
+
+Der Verwahrer übermittelt unverzüglich den in Artikel 17 Absatz 1 genannten Parteien sowie allen Parteien, die diesem Übereinkommen beigetreten sind, beziehungsweise unterrichtet sie über:
 
 - a) jede weitere Unterzeichnung sowie den Tag, an dem die Unterzeichnung stattgefunden hat;
 - b) die in Artikel 19 Absatz 2 genannten Dokumente;
@@ -310,11 +334,7 @@ Dieses Übereinkommen tritt am ersten Tag des zweiten Monats nach Hinterlegung d
 
 Dieses Übereinkommen ist in einer Urschrift in deutscher, französischer und niederländischer Sprache abgefasst, wobei jeder Wortlaut gleichermassen verbindlich ist.
 
-*Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben.
-
-Geschehen zu Strassburg am 9. September 1996.
-
-(Es folgen die Unterschriften)
+*Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu Strassburg am 9. September 1996. (Es folgen die Unterschriften)
 
 Anlage 1[^t-2]
 
@@ -353,7 +373,7 @@ Anlage 2[^t-3]
 
 ## Anwendungsbestimmung
 
-[^t-3]: Bereinigt gemäss Beschluss vom 8. Juni 2010 ([AS 2010 6379](https://fedlex.data.admin.ch/eli/oc/2010/893)), der von den Konferenzen der Vertragsparteien 2011–2022 verabschiedeten Beschlüsse ([AS 2024 295](https://fedlex.data.admin.ch/eli/oc/2024/295)), gemäss Beschluss vom 21. Juni 2023 ([AS 2023 619](https://fedlex.data.admin.ch/eli/oc/2023/619)) und den am 19. Dez. 2023 von der Konferenz der Vertragsparteien angenommen Änd., in Kraft seit 1. Juli 2024 ([AS 2024 309](https://fedlex.data.admin.ch/eli/oc/2024/309)).
+[^t-3]: Bereinigt gemäss Beschluss vom 8. Juni 2010 ([AS 2010 6379](https://fedlex.data.admin.ch/eli/oc/2010/893)), der von den Konferenzen der Vertragsparteien 2011–2022 verabschiedeten Beschlüsse ([AS 2024 295](https://fedlex.data.admin.ch/eli/oc/2024/295)), gemäss Beschluss vom 21. Juni 2023 ([AS 2023 619](https://fedlex.data.admin.ch/eli/oc/2023/619)) und Beschluss vom 27. Juni 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 556](https://fedlex.data.admin.ch/eli/oc/2024/556)).
 
 <table>
 <tr><td>Teil A</td><td>Sammlung, Abgabe und Annahme von öl- und fetthaltigen Schiffsbetriebsabfällen</td></tr>
@@ -367,13 +387,14 @@ Anhänge[^annexu1-lvlu1-1]
 <tr><td>I.</td><td>Muster für ein Ölkontrollbuch</td></tr>
 <tr><td>II.</td><td>Anforderungen an das Nachlenzsystem</td></tr>
 <tr><td>III.</td><td>Entladungsstandards und Abgabe-/Annahmevorschriften für die Zulässigkeit der Einleitung von Wasch-, Niederschlags- und Ballastwasser mit Ladungsrückständen</td></tr>
-<tr><td>IV.</td><td>Muster für eine Entladebescheinigung</td></tr>
-<tr><td>V.</td><td>Grenz- und Überwachungswerte für Bordkläranlagen von Fahrgastschiffen.</td></tr>
+<tr><td>III*a*.</td><td>Entgasungsstandards</td></tr>
+<tr><td>IV.</td><td>Entladebescheinigung</td></tr>
+<tr><td>V.</td><td>Grenz- und Überwachungswerte für Bordkläranlagen von Fahrgastschiffen</td></tr>
 </table>
 
 ### Teil A Sammlung, Abgabe und Annahme von öl- und fetthaltigen Schiffsbetriebsabfällen
 
-[^annexu1-lvlu1-1]: Der Text der Anhänge I–V wird in der AS nicht veröffentlicht. Separatdrucke sind beim BBL, Verkauf Bundespublikationen, 3003 Bern, erhältlich.
+[^annexu1-lvlu1-1]: Die Anhänge I–V werden in der AS und SR nicht veröffentlicht. Sie können unter [https://www.cdni-iwt.org](https://www.cdni-iwt.org) &gt; Dokumente &gt; Übereinkommen CDNI &gt; Konsolidiertes Übereinkommen eingesehen werden oder beim Depositar: Zentralkommission für die Rheinschifffahrt (ZKR), Palais du Rhin, 2 place de la République, F-67082 Strasbourg CEDEX bezogen werden.
 
 ### Kapitel I Verpflichtungen der Annahmestellen
 
@@ -556,7 +577,7 @@ Die innerstaatlichen Institutionen melden dem Sekretariat der Internationalen Au
 
 <sup>(1)</sup> Der Finanzausgleich nach den Artikeln 4.02 und 4.03 wird für jede innerstaatliche Institution wie folgt ermittelt:
 
-<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20240701/de/xml/image/image1.png)</sub>
+<sub>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/630/20241001/de/xml/image/image1.png)</sub>
 
 Darin bedeutet:
 
@@ -578,17 +599,19 @@ Darin bedeutet:
 
 **Begriffsbestimmungen**
 
+erreicht wird, sowie die Beseitigung der Umschlagsrückstände und von Verpackungs- und Stauhilfsmitteln;
+
 Im Sinne dieses Teiles bedeutet der Ausdruck:
 
-- a) «Einheitstransporte» Transporte, bei denen im Laderaum oder Ladetank des Fahrzeugs ununterbrochen nachweislich das gleiche Ladegut befördert wird, dessen Beförderung kein vorherige Reinigung des Laderaums oder des Ladetanks erfordert;
-- aa) «kompatible Transporte» Transporte, bei denen während aufeinanderfolgender Fahrten im Laderaum oder Ladetank des Fahrzeugs nachweislich ein Ladegut befördert wird, dessen Beförderung kein vorheriges Waschen oder Entgasen des Laderaums oder des Ladetanks erfordert;
-- b) «Restladung» die flüssige Ladung, die nach dem Löschen ohne Einsatz eines Nachlenzsystems im Ladetank und im Leitungssystem verbleibt, sowie Trockenladung, die nach dem Löschen ohne den Einsatz von Besen, Kehrmaschinen oder Vakuumreinigern im Laderaum verbleibt;
-- c) «Ladungsrückstände» die flüssige Ladung, die nicht durch das Nachlenzsystem aus dem Ladetank und dem Leitungssystem entfernt werden kann, sowie trockene Ladung, die nicht durch den Einsatz von Kehrmaschinen, Besen oder Vakuumreinigern aus dem Laderaum entfernt werden kann;
-- d) «Nachlenzsystem» ein System nach Anhang II für das möglichst vollständige Entleeren der Ladetanks und des Leitungssystems bis auf nicht lenzbare Ladungsrückstände;
-- e) «Umschlagsrückstände» Ladung, die beim Umschlag ausserhalb des Laderaums auf das Schiff gelangt;
-- f) «besenreiner Laderaum» einen Laderaum, aus dem die Restladung mit Reinigungsgeräten wie Besen oder Kehrmaschinen ohne den Einsatz von saugenden oder spülenden Geräten entfernt worden ist und der nur noch Ladungsrückstände enthält;
-- g) «nachgelenzter Ladetank» einen Ladetank, aus dem die Restladung durch den Einsatz eines Nachlenzsystems entfernt worden ist und der nur noch Ladungsrückstände enthält;
-- h) «vakuumreiner Laderaum» einen Laderaum, aus dem die Restladung mittels Vakuumtechnik entfernt worden ist und der deutlich weniger Ladungsrückstände enthält als ein besenreiner Laderaum;
+- a) «Einheitstransporte»: Transporte, bei denen im Laderaum oder Ladetank des Fahrzeugs ununterbrochen nachweislich das gleiche Ladegut oder ein anderes Ladegut, dessen Beförderung keine vorherige Reinigung des Laderaums oder des Ladetanks erfordert, befördert wird;
+- aa) «kompatible Transporte»: Transporte, bei denen während aufeinanderfolgender Fahrten im Laderaum oder Ladetank des Fahrzeugs nachweislich ein Ladegut befördert wird, dessen Beförderung kein vorheriges Waschen oder Entgasen des Laderaums oder des Ladetanks erfordert;
+- b) «Restladung»: die flüssige Ladung, die nach dem Löschen ohne Einsatz eines Nachlenzsystems im Ladetank und im Leitungssystem verbleibt, sowie Trockenladung, die nach dem Löschen ohne den Einsatz von Besen, Kehrmaschinen oder Vakuumreinigern im Laderaum verbleibt;
+- c) «Ladungsrückstände»: die flüssige Ladung, die nicht durch das Nachlenzsystem aus dem Ladetank und dem Leitungssystem entfernt werden kann, sowie trockene Ladung, die nicht durch den Einsatz von Kehrmaschinen, Besen oder Vakuumreinigern aus dem Laderaum entfernt werden kann;
+- d) «Nachlenzsystem»: ein System nach Anhang II für das möglichst vollständige Entleeren der Ladetanks und des Leitungssystems bis auf nicht lenzbare Ladungsrückstände;
+- e) «Umschlagsrückstände»: Ladung, die beim Umschlag ausserhalb des Laderaums auf das Schiff gelangt;
+- f) «besenreiner Laderaum»: einen Laderaum, aus dem die Restladung mit Reinigungsgeräten wie Besen oder Kehrmaschinen ohne den Einsatz von saugenden oder spülenden Geräten entfernt worden ist und der nur noch Ladungsrückstände enthält;
+- g) «nachgelenzter Ladetank»: einen Ladetank, aus dem die Restladung durch den Einsatz eines Nachlenzsystems entfernt worden ist und der nur noch Ladungsrückstände enthält;
+- h) «vakuumreiner Laderaum»: einen Laderaum, aus dem die Restladung mittels Vakuumtechnik entfernt worden ist und der deutlich weniger Ladungsrückstände enthält als ein besenreiner Laderaum;
 - i)
 
   «Restentladung» die Beseitigung der Restladung aus den Laderäumen beziehungsweise Ladetanks und Leitungssystemen durch geeignete Mittel (z.B. Besen, Kehrmaschine, Vakuumtechnik, Nachlenzsystem), durch die der Entladungsstandard:
@@ -597,13 +620,12 @@ Im Sinne dieses Teiles bedeutet der Ausdruck:
   - – «Laderaum vakuumrein», oder
   - – «Ladetank nachgelenzt»,
 
-- erreicht wird, sowie die Beseitigung der Umschlagsrückstände und von Verpackungs- und Stauhilfsmitteln;
 - j) «Waschen» die Beseitigung der Ladungsrückstände aus dem besenreinen oder vakuumreinen Laderaum oder aus dem nachgelenzten Ladetank unter Einsatz von Wasserdampf oder Wasser;
 - k) «waschreiner Laderaum oder Ladetank» einen Laderaum oder Ladetank, der nach dem Waschen grundsätzlich für jede Ladungsart geeignet ist;
 - l) «Waschwasser» das Wasser, das beim Waschen von besenreinen oder vakuumreinen Laderäumen oder von nachgelenzten Ladetanks anfällt. Hierzu wird auch Ballastwasser und Niederschlagswasser gerechnet, das aus diesen Laderäumen oder Ladetanks stammt;
-- m) «Entgasen» die Beseitigung von Dämpfen nach Anhang III*a* aus einem nachgelenzten Ladetank bei einer Annahmestelle unter Einsatz geeigneter Verfahren und Techniken;
-- n) «Ventilieren» die direkte Freisetzung der Dämpfe aus dem Ladetank in die Atmosphäre;
-- o) «entgaster oder ventilierter Ladetank» ein gemäss den Entgasungsstandards nach Anhang III*a* von Dämpfen befreiter Ladetank.
+- m) «Entgasen»: die Beseitigung von Dämpfen nach Anhang III*a* aus einem nachgelenzten Ladetank bei einer Annahmestelle unter Einsatz geeigneter Verfahren und Techniken;
+- n) «Ventilieren»: die direkte Freisetzung der Dämpfe aus dem Ladetank in die Atmosphäre;
+- o) «entgaster oder ventilierter Ladetank»: ein gemäss den Entgasungsstandards nach Anhang III*a* von Dämpfen befreiter Ladetank.
 
 #### Art. 5.02
 
@@ -618,9 +640,9 @@ Die Vertragsstaaten verpflichten sich, die infrastrukturellen und sonstigen Vora
 Dieser Teil B gilt nicht für das Laden und Löschen von Seeschiffen:
 
 - a) in Seehäfen an Seeschifffahrtsstrassen;
-- b) in Binnenhäfen, die der Europäischen Richtlinie 2019/883/EU[^annexu1-lvlu1-chapV-503-1] unterliegen.
+- b) in Binnenhäfen, die der Europäischen Richtlinie (EU) 2019/883[^annexu1-lvlu1-chapV-503-1] unterliegen.
 
-[^annexu1-lvlu1-chapV-503-1]: Richtlinie (EU) 2019/883 des europäischen Parlamentes und des Rates vom 17. April 2019 über Hafenauffangeinrichtungen für die Entladung von Abfällen von Schiffen, zur Änderung der Richtlinie 2010/65 und zur Aufhebung der Richtlinie 2000/59/EG (ABl. L 151 vom 7.6.2019, S. 116–142).
+[^annexu1-lvlu1-chapV-503-1]: Richtlinie (EU) 2019/883 des europäischen Parlamentes und des Rates vom 17. April 2019 über Hafenauffangeinrichtungen für die Entladung von Abfällen von Schiffen, zur Änderung der Richtlinie 2010/65 und zur Aufhebung der Richtlinie 2000/59/EG (ABl. 151 vom 7.6.2019, S.116–142).
 
 #### Art. 5.04
 
@@ -631,7 +653,7 @@ Dieser Teil B gilt nicht für das Laden und Löschen von Seeschiffen:
 Teil B findet unbeschadet:
 
 - a) der Bestimmungen des Europäischen Übereinkommens vom 26. Mai 2000[^annexu1-lvlu1-chapV-504-1] über die internationale Beförderung von gefährlichen Gütern auf Binnenwasserstrassen (ADN) in Verbindung mit der Richtlinie 2008/68/EG des Europäischen Parlaments und des Rates vom 24. September 2008 über die Beförderung gefährlicher Güter im Binnenland; und
-- b) der geänderten Richtlinie 94/63/EG des Europäischen Parlaments und des Rates vom 20. Dezember 1994 zur Begrenzung der Emissionen flüchtiger organischer Verbindungen (VOC-Emissionen) bei der Lagerung von Ottokraftstoff und seiner Verteilung von den Auslieferungslagern bis zu den Tankstellen,
+- b) der geänderten Richtlinie 94/63/EG des Europäischen Parlaments und des Rates vom 20. Dezember 1994 zur Begrenzung der Emissionen flüchtiger organischer Verbindungen (VOC-Emissionen) bei der Lagerung von Ottokraftstoff und seiner Verteilung von den Auslieferungslagern bis zu den Tankstellen;
 
 <sup>(2)</sup> Die Bestimmungen des Anhangs III*a* gelten ergänzend zu den Bestimmungen der in Absatz 1 Buchstabe b) genannten Richtlinie.
 
@@ -647,12 +669,12 @@ Fahrzeuge, für die schriftlich nachgewiesen werden kann, dass sie ausserhalb de
 
 <sup>(1)</sup> Es ist verboten, von Fahrzeugen aus Teile der Ladung sowie Abfall aus dem Ladungsbereich in die Wasserstrasse einzubringen oder einzuleiten oder Dämpfe in die Atmosphäre freizusetzen.
 
-<sup>(2)</sup>
+<sup>(2)</sup> wenn die Bestimmungen dieser Anhänge eingehalten worden sind.
 
 Ausgenommen von dem Verbot nach Absatz 1:
 
 - a) ist Waschwasser mit Ladungsrückständen von Gütern, für die das Einleiten in die Wasserstrasse nach Anhang III;
-- b) sind Dämpfe, für die eine Freisetzung in die Atmosphäre durch Ventilieren nach Anhang III*a* ausdrücklich gestattet ist, wenn die Bestimmungen dieser Anhänge eingehalten worden sind.
+- b) sind Dämpfe, für die eine Freisetzung in die Atmosphäre durch Ventilieren nach Anhang III*a* ausdrücklich gestattet ist;
 
 <sup>(3)</sup> vorgeschrieben ist, freigeworden oder drohen sie freizuwerden, muss der Schiffsführer unverzüglich die nächste zuständige Behörde darüber unterrichten.
 
@@ -661,7 +683,7 @@ Dabei hat er den Ort des Vorfalls sowie Menge und Art des Stoffes oder der Dämp
 Sind:
 
 - a) Stoffe, für die in Anhang III ausschliesslich eine Abgabe zur Sonderbehandlung; oder
-- b) Dämpfe, für die in Anhang III*a* ein Entgasen,
+- b) Dämpfe, für die in Anhang III*a* ein Entgasen;
 
 <sup>(4)</sup> Die zuständige innerstaatliche Behörde beurteilt die Zulässigkeit der Einleitung oder Einbringung von Abfall aus dem Ladungsbereich von Gütern, die nicht im Güterverzeichnis nach Anhang III aufgeführt sind. Sie legt einen vorläufigen Einleitungsstandard fest.
 
@@ -689,29 +711,27 @@ Die Entladebescheinigung ist auf Verlangen den Bediensteten der zuständigen Beh
 
 (1*b*) Eine Entladebescheinigung in elektronischem Format kann verwendet werden, sofern:
 
-- a) der Datenschutz gemäss der Verordnung (EU) 2016/6791[^annexu1-lvlu1-chapVI-603-1] (Datenschutz-Grundverordnung) in der jeweils geltenden Fassung oder gemäss vergleichbaren nationalen Vorschriften der Schweizerischen Eidgenossenschaft gewährleistet ist;
-- b) eine fälschungssichere Signatur gemäss der Verordnung (EU) Nr. 910/2014 (eIDAS)[^annexu1-lvlu1-chapVI-603-2] in der jeweils geltenden Fassung oder gemäss vergleichbaren nationalen Vorschriften der Schweizerischen Eidgenossenschaft vorgesehen ist;
+- a) der Datenschutz gemäss der Verordnung (EU) 2016/679[^annexu1-lvlu1-chapVI-603-1] (Datenschutz-Grundverordnung) in der jeweils geltenden Fassung oder gemäss vergleichbaren nationalen Vorschriften der Schweizerischen Eidgenossenschaft gewährleistet ist;
+- b) eine fälschungssichere Signatur gemäss der Verordnung (EU) Nr. 910/2014[^annexu1-lvlu1-chapVI-603-2] (eIDAS) in der jeweils geltenden Fassung oder gemäss vergleichbaren nationalen Vorschriften der Schweizerischen Eidgenossenschaft vorgesehen ist;
 - c) die Datensicherheit durch Umsetzung entsprechender Vorgaben in den in Buchstabe a genannten Vorschriften gewährleistet ist und damit auch unberechtigter Zugang sicher unterbunden wird;
 - d) die Überprüfbarkeit der Entladebescheinigung an Bord oder in der Unternehmensbuchführung des Schiffsbetreibers gewährleistet ist;
 - e) die Überprüfbarkeit in der Unternehmensbuchführung der Identität der Person, die die Entladebescheinigung ausgestellt hat und der Person, die die Annahmestelle betreibt, gewährleistet ist.
 
-<sup>(2)</sup> anzuwenden.
+<sup>(2)</sup>
 
 Bei der Restentladung sowie bei der Abgabe und Annahme von Abfällen aus dem Ladungsbereich sind:
 
 - a) im Falle des Waschens die Entladungsstandards und Abgabe-/Annahmevorschriften des Anhangs III;
-- b) im Falle des Entgasens die Vorschriften und Entgasungsstandards des Anhangs III*a*,
+- b) im Falle des Entgasens die Vorschriften und Entgasungsstandards des Anhangs III*a* anzuwenden.
 
 <sup>(3)</sup> Nach dem Beladen darf das Fahrzeug die Fahrt erst dann fortsetzen, wenn sich der Schiffsführer davon überzeugt hat, dass die Umschlagsrückstände entfernt worden sind.
 
-<sup>(4)</sup> Das Fahrzeug darf nach dem Entladen die Fahrt erst dann fortsetzen, wenn der Schiffsführer in der Entladebescheinigung bestätigt hat, dass die Restladung sowie Umschlagsrückstände übernommen worden sind.
-
-(4a) Das Fahrzeug darf nach dem Entladen die Fahrt nur unter folgenden Bedingungen fortsetzen:
+(4*a*) Das Fahrzeug darf nach dem Entladen die Fahrt nur unter folgenden Bedingungen fortsetzen:
 
 - – Der Ladungsempfänger oder, wenn sich der Ladungsempfänger oder der Befrachter einer Umschlagsanlage bedient, der Betreiber der Umschlagsanlage hat eine Entladebescheinigung vorgelegt (Artikel 7.08).
-- – Der Schiffsführer hat durch die Unterzeichnung von Teil 2 a) der Entladebescheinigung bestätigt, dass alle Maßnahmen im Zusammenhang mit dem Entladen des Fahrzeugs wie vom Ladungsempfänger oder der Umschlagsanlage in den Feldern 1 bis 10 angegeben durchgeführt wurden. Dies schließt die Zuweisung einer Annahmestelle für die Übernahme der Abfälle oder Dämpfe des Fahrzeugs ein (Artikel 7.01 Absatz 1).
+- – Der Schiffsführer hat durch die Unterzeichnung von Teil 2 a) der Entladebescheinigung bestätigt, dass alle Massnahmen im Zusammenhang mit dem Entladen des Fahrzeugs wie vom Ladungsempfänger oder der Umschlagsanlage in den Feldern 1 bis 10 angegeben durchgeführt wurden. Dies schliesst die Zuweisung einer Annahmestelle für die Übernahme der Abfälle oder Dämpfe des Fahrzeugs ein (Artikel 7.01 Absatz 1).
 
-(4b) Während der Fahrt ist der Schiffsführer verpflichtet, folgende Angaben in Teil 2 b) der Entladebescheinigung durch Unterzeichnung zu erklären:
+(4*b*) Während der Fahrt ist der Schiffsführer verpflichtet, folgende Angaben in Teil 2 b) der Entladebescheinigung durch Unterzeichnung zu erklären:
 
 - – ob Waschwasser entstanden ist (beim Waschen während der Fahrt);
 - – welche Menge Waschwasser an Bord entstanden ist und dessen Unterbringungsort;
@@ -721,15 +741,15 @@ Bei der Restentladung sowie bei der Abgabe und Annahme von Abfällen aus dem Lad
 
 <sup>(6)</sup>
 
-Werden Laderäume oder Ladetanks gewaschen und darf das dabei entstandene Waschwasser gemäß den Entladungsstandards und den Abgabe- und Annahmevorschriften gemäß Anhang III nicht in das Gewässer eingeleitet werden, darf das Fahrzeug die Fahrt erst fortsetzen, nachdem in der Entladebescheinigung bestätigt wurde:
+Werden Laderäume oder Ladetanks gewaschen und darf das dabei entstandene Waschwasser gemäss den Entladungsstandards und den Abgabe- und Annahmevorschriften gemäss Anhang III nicht in das Gewässer eingeleitet werden, darf das Fahrzeug die Fahrt erst fortsetzen, nachdem in der Entladebescheinigung bestätigt wurde:
 
 - – dass die Umschlagsanlage das Waschwasser übernommen hat; oder
 - – dem Schiffsführer eine Annahmestelle zugewiesen wurde; und
 - – der Schiffsführer mitgeteilt hat, ob die Laderäume oder Ladetanks während der Fahrt gewaschen werden.
 
-<sup>(7)</sup> Diese Bestimmung findet keine Anwendung auf den Transport gemischter Ladungen mit solchen Fahrzeugen.
+<sup>(7)</sup> Diese Bestimmung findet keine Anwendung auf den Transport gemischter Ladungen mit solchen Schiffen.
 
-Im Einzelfall kann die zuständige Behörde bei Vorlage vergleichbarer Voraussetzungen ein Fahrzeug im Rahmen der Durchführung von Sondertransporten von der Anwendung der Absätze 1 und 4 befreien. Der Nachweis dieser Befreiung ist an Bord mitzuführen.
+Im Einzelfall kann die zuständige Behörde bei Vorlage vergleichbarerer Voraussetzungen ein Fahrzeug im Rahmen der Durchführung von Sondertransporten von der Anwendung der Absätze 1 und 4 befreien. Der Nachweis dieser Befreiung ist an Bord des Fahrzeuges mitzuführen.
 
 Die Absätze 1 und 4 finden keine Anwendung für Schiffe, die eingesetzt werden für:
 
@@ -739,10 +759,10 @@ Die Absätze 1 und 4 finden keine Anwendung für Schiffe, die eingesetzt werden 
 Die Absätze 1 und 4 finden keine Anwendung für Schiffe, die ausschliesslich eingesetzt werden für:
 
 - a) die Lieferung von Treibstoffen, Trinkwasser und Bordvorräten an See- und an Binnenschiffe (Bevorratungsschiffe);
-- b) die Sammlung öl- und fetthaltiger Abfälle der See- und Binnenschifffahrt;
+- b) die Sammlung öl- und fetthaltiger Abfälle der See- und Binnenschiffe;
 - c) den Transport von verflüssigten Gasen (ADN Typ G);
 - d) den Transport von flüssigem Schwefel (bei 180 °C), Zementpulver, Flugasche und vergleichbaren Gütern, die als Schüttgut oder pumpbare Ladung befördert werden, wobei von einem ausschliesslich für die betroffene Güterkategorie geeigneten System für Beladung, Entladung und Lagerung an Bord Gebrauch gemacht wird;
-- e) den Transport von Sand, Kies, oder Baggergut von der Baggerstelle zur Entladestelle.
+- e) den Transport von Sand, Kies und/oder Baggergut von der Baggerstelle zur Entladestelle.
 
 <sup>(8)</sup> Die Absätze 1 und 4 finden auch keine Anwendung auf Transporte, bei denen die Entladung in ein Seeschiff erfolgt. Der Schiffsführer hat diese Entladung anhand der entsprechenden Beförderungspapiere nachzuweisen und die Papiere auf Verlangen den Aufsichtsbehörden vorzuzeigen.
 
@@ -780,7 +800,7 @@ Die Absätze 1 und 4 finden keine Anwendung für Schiffe, die ausschliesslich ei
 Das Beladen und das Entladen eines Fahrzeugs schliessen auch die Massnahmen zur Restentladung sowie:
 
 - a) im Falle des Waschens für das Waschen;
-- b) im Falle des Entgasens für das Entgasen,
+- b) im Falle des Entgasens für das Entgasen;
 
 <sup>(2)</sup> Beim Beladen sorgt der Befrachter dafür, dass das Fahrzeug frei von Umschlagsrückständen bleibt. Sind dennoch Umschlagsrückstände entstanden, sorgt der Befrachter nach der Beladung für deren Beseitigung, es sei denn, es ist etwas anderes vereinbart worden.
 
@@ -790,7 +810,7 @@ Das Beladen und das Entladen eines Fahrzeugs schliessen auch die Massnahmen zur 
 
 **Ablieferung des Fahrzeuges**[^annexu1-lvlu1-chapVII-704-1]
 
-<sup>(1)</sup> Bei trockener Ladung hat der Ladungsempfänger dafür zu sorgen, dass nach dem Entladen der Laderaum besenrein oder vakuumrein nach den Entladungsstandards und Abgabe-/Annahmevorschriften des Anhangs III übergeben wird. Er ist verpflichtet, vorhandene Restladungen sowie Umschlagsrückstände des entladenen Fahrzeugs anzunehmen.
+<sup>(1)</sup> Bei trockener Ladung hat der Ladungsempfänger dafür zu sorgen, dass nach dem Entladen der Laderaum besenrein oder vakuumrein nach den Entladungsstandards und Abgabe-/ Annahmevorschriften des Anhangs III übergeben wird. Er ist verpflichtet, vorhandene Restladungen sowie Umschlagsrückstände des entladenen Fahrzeugs anzunehmen.
 
 Bei flüssiger Ladung hat der Befrachter dafür zu sorgen, dass nach dem Entladen der Ladetank nachgelenzt übergeben wird. Die Entladung einschliesslich der Restentladung mit Hilfe eines Nachlenzsystems wird vom Schiffsführer durchgeführt, es sei denn, im Transportauftrag ist etwas anderes vereinbart worden. Die Leitung zur Annahme von Restladung muss mit einem Anschluss entsprechend Muster 1 des Anhangs II versehen sein. Bei Benutzung des bordeigenen Nachlenzsystems des Schiffes darf vor Beginn des Nachlenzvorgangs der Gegendruck in der Rohrleitungsanlage des Ladungsempfängers 3 bar nicht überschreiten. Der Betreiber der Umschlagsanlage ist verpflichtet, die Restladung anzunehmen.
 
@@ -806,25 +826,29 @@ Im Falle:
   - aa) waschreinen Ladetank zu sorgen, wenn das Fahrzeug Güter befördert hat, deren Ladungsrückstände nach den Entladungsstandards und den Abgabe-/Annahmevorschriften des Anhangs III nicht mit dem Waschwasser in das Gewässer eingeleitet werden dürfen,
   - bb) entgasten Ladetank zu sorgen, wenn das Fahrzeug Güter befördert hat, deren Dämpfe nach den Entgasungsstandards und den Abgabe-/Annahmevorschriften des Anhangs III*a* nicht in die Atmosphäre ventiliert werden dürfen.
 
-- (3) a) Die Absätze 1 und 2 finden keine Anwendung auf Laderäume und Ladetanks von Fahrzeugen, die Einheitstransporte durchführen, sofern bei einer folgenden Ladung die Dämpfe nach Anhang IIIa von der Umschlagsanlage erfasst und nicht in die Atmosphäre freigesetzt werden. Der Frachtführer muss dies schriftlich nachweisen können. In diesem Fall muss in der Entladebescheinigung das Feld 6a) angekreuzt werden. Der Nachweis ist an Bord mitzuführen.
-- b) Absatz 2 findet keine Anwendung auf Laderäume und Ladetanks von Fahrzeugen, die kompatible Transporte durchführen, sofern bei einer folgenden Ladung die Dämpfe nach Anhang IIIa von der Umschlagsanlage erfasst und nicht in die Atmosphäre freigesetzt werden. Der Frachtführer muss dies schriftlich nachweisen können. In diesem Fall muss in der Entladebescheinigung das Feld 6b) angekreuzt werden. Der Nachweis ist bis zur Entladung der kompatiblen Folgeladung an Bord mitzuführen.
+<sup>(3)</sup>
+
+Die Absätze 1 und 2 finden Anwendung mit folgenden Ausnahmen:
+
+- a) Die Absätze 1 und 2 finden keine Anwendung auf Laderäume und Ladetanks von Fahrzeugen, die Einheitstransporte durchführen, sofern bei einer folgenden Ladung die Dämpfe nach Anhang IIIa von der Umschlagsanlage erfasst und nicht in die Atmosphäre freigesetzt werden. Der Frachtführer muss dies schriftlich nachweisen können. In diesem Fall muss in der Entladebescheinigung das Feld 6a) angekreuzt werden. Der Nachweis ist an Bord mitzuführen.
+- b) Absatz 2 findet keine Anwendung auf Laderäume und Ladetanks von Fahrzeugen, die kompatible Transporte durchführen, sofern bei einer folgenden Ladung die Dämpfe nach Anhang III*a* von der Umschlagsanlage erfasst und nicht in die Atmosphäre freigesetzt werden. Der Frachtführer muss dies schriftlich nachweisen können. In diesem Fall muss in der Entladebescheinigung das Feld 6b) angekreuzt werden. Der Nachweis ist bis zur Entladung der kompatiblen Folgeladung an Bord mitzuführen.
 -
 
-  Die Bestimmungen von Anhang IIIa finden keine Anwendung mehr, wenn der Schiffsführer nachweisen kann, dass nach der Beladung und vor der Abfahrt von der Umschlagsanlage:
+  Die Bestimmungen von Anhang III*a* finden keine Anwendung mehr, wenn der Schiffsführer nachweisen kann, dass nach der Beladung und vor der Abfahrt von der Umschlagsanlage:
 
-  - – für jeden separaten Ladetank die drei nachfolgenden Ladungen aus einem Produkt bestanden, das nicht unter das Verbot von Anhang IIIa fällt, sofern diese Tanks zu mindestens 50 % beladen waren; oder
-  - – jeder separate Ladetank zu mindestens 95 % mit einem Produkt befüllt war, das nicht unter das Verbot von Anhang IIIa fällt; oder
-  - – die Dämpfe gemäss den in Anhang IIIa vorgesehenen Bedingungen erfasst wurden.
+  - – für jeden separaten Ladetank die drei nachfolgenden Ladungen aus einem Produkt bestanden, das nicht unter das Verbot von Anhang III*a* fällt, sofern diese Tanks zu mindestens 50 % beladen waren; oder
+  - – jeder separate Ladetank zu mindestens 95 % mit einem Produkt befüllt war, das nicht unter das Verbot von Anhang III*a* fällt;
+  - – oder die Dämpfe gemäss den in Anhang III*a* vorgesehenen Bedingungen erfasst wurden.
 
-- (c) Falls zum Zeitpunkt der Entladung die Folgeladung noch nicht bekannt ist, aber es sich voraussichtlich um eine kompatible Ladung handeln wird, kann die Anwendung von Absatz 2 hinausgeschoben werden. Der Befrachter (bei flüssiger Ladung) oder der Ladungsempfänger (bei trockener Ladung) muss vorläufig eine Annahmestelle für das Waschwasser oder für eine Entgasung bezeichnen, die in die Entladebescheinigung einzutragen ist. Zusätzlich muss in der Entladebescheinigung das Feld 6c) angekreuzt werden. Sofern vor Anlauf der in der Entladebescheinigung angegebenen Annahmestelle durch den Frachtführer/Schiffsführer nachweisbar feststeht, dass die Folgeladung kompatibel ist und es bei einer folgenden Ladung möglich ist, die Dämpfe, die nach Anhang IIIa (Tabellen I bis III) nicht in die Atmosphäre freigesetzt werden dürfen, zu erfassen, gibt der Schiffsführer dies in Feld 13 von Teil 2 b) der Entladebescheinigung an. In diesem Fall braucht nicht gewaschen oder entgast zu werden. Andernfalls gelten die Bestimmungen zum Waschen oder zum Entgasen uneingeschränkt.
+- c) Falls zum Zeitpunkt der Entladung die Folgeladung noch nicht bekannt ist, aber es sich voraussichtlich um eine kompatible Ladung handeln wird, kann die Anwendung von Absatz 2 hinausgeschoben werden. Der Befrachter (bei flüssiger Ladung) oder der Ladungsempfänger (bei trockener Ladung) muss vorläufig eine Annahmestelle für das Waschwasser oder für eine Entgasung bezeichnen, die in die Entladebescheinigung einzutragen ist. Zusätzlich muss in der Entladebescheinigung das Feld 6c) angekreuzt werden. Sofern vor Anlauf der in der Entladebescheinigung angegebenen Annahmestelle durch den Frachtführer / Schiffsführer nachweisbar feststeht, dass die Folgeladung kompatibel ist und es bei einer folgenden Ladung möglich ist, die Dämpfe, die nach Anhang III*a* (Tabellen I bis III) nicht in die Atmosphäre freigesetzt werden dürfen, zu erfassen, gibt der Schiffsführer dies in Feld 13 von Teil 2 b) der Entladebescheinigung an. In diesem Fall braucht nicht gewaschen oder entgast zu werden. Andernfalls gelten die Bestimmungen zum Waschen oder zum Entgasen uneingeschränkt.
 - Der Nachweis bezüglich der kompatiblen Folgeladung ist bis zur Entladung der kompatiblen Folgeladung an Bord mitzuführen.
 -
 
-  Die Bestimmungen von Anhang IIIa finden keine Anwendung mehr, wenn der Schiffsführer nachweisen kann, dass nach der Beladung und vor der Abfahrt von der Umschlagsanlage:
+  Die Bestimmungen von Anhang III*a* finden keine Anwendung mehr, wenn der Schiffsführer nachweisen kann, dass nach der Beladung und vor der Abfahrt von der Umschlagsanlage:
 
-  - – für jeden separaten Ladetank die drei nachfolgenden Ladungen aus einem Produkt bestanden, das nicht unter das Verbot von Anhang IIIa fällt, sofern diese Tanks zu mindestens 50 % beladen waren; oder
-  - – jeder separate Ladetank zu mindestens 95 % mit einem Produkt befüllt war, das nicht unter das Verbot von Anhang IIIa fällt; oder
-  - – die Dämpfe gemäss den in Anhang IIIa vorgesehenen Bedingungen erfasst wurden.
+  - – für jeden separaten Ladetank die drei nachfolgenden Ladungen aus einem Produkt bestanden, das nicht unter das Verbot von Anhang III*a* fällt, sofern diese Tanks zu mindestens 50 % beladen waren; oder
+  - – jeder separate Ladetank zu mindestens 95 % mit einem Produkt befüllt war, das nicht unter das Verbot von Anhang III*a* fällt;
+  - – oder die Dämpfe gemäss den in Anhang III*a* vorgesehenen Bedingungen erfasst wurden.
 
 <sup>(4)</sup> Wenn der Ladungsempfänger oder der Befrachter das Fahrzeug nach der vereinbarten Entladezeit oder den vereinbarten Liegetagen nicht entsprechend den Bestimmungen dieses Artikels sowie des Artikels 7.03 abliefert, kann der Frachtführer das Fahrzeug in den vorgeschriebenen Zustand bringen oder bringen lassen. Sämtliche Kosten einschliesslich der dadurch entstehenden Liegegelder, soweit diese nicht auf ein Verschulden des Frachtführers zurückzuführen sind, gehen zu Lasten des Ladungsempfängers oder des Befrachters.
 
@@ -861,7 +885,7 @@ Bei flüssiger Ladung hat der Befrachter die Kosten der Restentladung und im Fal
   - aa) das Waschen der Ladetanks nach Artikel 7.04 Absatz 2, und
   - bb) die Annahme von Waschwasser nach Artikel 7.05 Absatz 2;
 
-- b) Entgasens die Kosten für das Entgasen der Ladetanks nach Artikel 7.04 Absatz 2 i.V.m. Artikel 7.05 Absatz 2*a*,
+- b) Entgasens die Kosten für das Entgasen der Ladetanks nach Artikel 7.04 Absatz 2 i.V.m. Artikel 7.05 Absatz 2*a*;
 
 <sup>(3)</sup> Die Kosten einer Abgabe von Waschwasser aus Laderäumen und Ladetanks oder die Entgasung aus den Ladetanks, die den vorgeschriebenen Standards nicht entsprechen, gehen zu Lasten des Frachtführers.
 
@@ -1010,13 +1034,7 @@ Für die Anwendung der Bestimmungen dieser Anlage, die sich aus der Änderung de
 
 Die Vertragsparteien können im Einzelfall Abweichungen von den Bestimmungen dieser Anlage vereinbaren, sofern diese als gleichwertig zu betrachten sind. Die Abweichungen müssen von der Konferenz der Vertragsparteien genehmigt werden und können für den festgelegten Anwendungsbereich und unter den festgelegten Bedingungen von den zuständigen Behörden mit sofortiger Wirkung zugelassen werden.
 
-## Anhänge
-
-[^annexu1-lvlu2-1]
-
-[^annexu1-lvlu2-1]: Die Anhänge I–V werden in der AS und SR nicht veröffentlicht. Sie können unter [www.cdni-iwt.org](https://www.cdni-iwt.org/?lang=de) &gt; Dokumente &gt; Übereinkommen CDNI &gt; Konsolidiertes Übereinkommen eingesehen werden oder beim Depositar: Zentralkommission für die Rheinschifffahrt (ZKR), Palais du Rhin, 2 place de la République, F-67082 Strasbourg CEDEX bezogen werden.
-
-### Geltungsbereich am 13. Oktober 2009
+Geltungsbereich am 13. Oktober 2009
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
