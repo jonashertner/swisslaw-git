@@ -4,11 +4,11 @@ title: Verordnung vom 9. Oktober 2019 über Massnahmen zur Unterstützung der Si
 short: VSMS
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/584"
 language: de
-version: 2019-11-01
+version: 2024-10-01
 adopted: 2019-10-09
 in_force: 2019-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/584/20191101/de/xml/fedlex-data-admin-ch-eli-cc-2019-584-20191101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/584/20191101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/584/20241001/de/xml/fedlex-data-admin-ch-eli-cc-2019-584-20241001-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/584/20241001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/584/20191101/de"
 
 (VSMS)
 
-vom 9. Oktober 2019 (Stand am 1. November 2019)
+vom 9. Oktober 2019 (Stand am 1. Oktober 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -164,6 +164,8 @@ In der Verfügung oder im Vertrag werden namentlich festgelegt:
 
 <sup>1</sup> Gesuche um Finanzhilfe sind beim Bundesamt für Polizei (fedpol) spätestens am 30. Juni des Jahres einzureichen, das dem Beginn der zu unterstützenden Massnahme vorausgeht.
 
+<sup>1bis</sup> Bestehen unvorhersehbare Sicherheitsrisiken, können Gesuche für bauliche und technische Massnahmen nach Artikel 4 Buchstabe a jederzeit eingereicht werden.[^10-1]
+
 <sup>2</sup>
 
 Die Gesuche müssen enthalten:
@@ -175,6 +177,8 @@ Die Gesuche müssen enthalten:
 - e. den Zeitplan für die Durchführung der geplanten Massnahme;
 - f. einen detaillierten Kostenvoranschlag und einen Finanzierungsplan;
 - g. Angaben zu den Eigenleistungen der Beitragsempfängerin, zu den Leistungen, die gestützt auf andere Bundeserlasse ausgerichtet werden, zu Leistungen der Kantone und lokaler Behörden sowie zu Leistungen Dritter.
+
+[^10-1]: Eingefügt durch Ziff. I der V vom 21. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 451](https://fedlex.data.admin.ch/eli/oc/2024/451)).
 
 #### Art. 11
 

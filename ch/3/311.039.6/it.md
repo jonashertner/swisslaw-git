@@ -4,11 +4,11 @@ title: Ordinanza del 9 ottobre 2019 sulle misure a sostegno della sicurezza dell
 short: OMSM
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/584"
 language: it
-version: 2019-11-01
+version: 2024-10-01
 adopted: 2019-10-09
 in_force: 2019-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/584/20191101/it/xml/fedlex-data-admin-ch-eli-cc-2019-584-20191101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/584/20191101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/584/20241001/it/xml/fedlex-data-admin-ch-eli-cc-2019-584-20241001-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/584/20241001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/584/20191101/it"
 
 (OMSM)
 
-del 9 ottobre 2019 (Stato 1° novembre 2019)
+del 9 ottobre 2019 (Stato 1° ottobre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -164,6 +164,8 @@ Nella decisione formale o nel contratto sono stabiliti segnatamente:
 
 <sup>1</sup> Le domande di aiuto finanziario devono essere presentate all’Ufficio federale di polizia (fedpol) al più tardi il 30 giugno dell’anno che precede l’inizio della misura da sostenere.
 
+<sup>1bis</sup> Se sussistono rischi imprevedibili in materia di sicurezza, le domande per misure di natura edile e tecnica di cui all’articolo 4 lettera a possono essere presentate in qualsiasi momento.[^10-1]
+
 <sup>2</sup>
 
 Le domande devono contenere:
@@ -175,6 +177,8 @@ Le domande devono contenere:
 - e. lo scadenzario per l’attuazione della misura prevista;
 - f. un preventivo dettagliato dei costi e un piano di finanziamento;
 - g. indicazioni sulle prestazioni fornite dai beneficiari degli aiuti finanziari, sui contributi versati in virtù di altri atti normativi federali, sulle prestazioni fornite dai Cantoni e da autorità locali nonché sulle prestazioni fornite da terzi.
+
+[^10-1]: Introdotto dal n. I dell’O del 21 ago. 2024, in vigore dal 1° ott. 2024 ([RU 2024 451](https://fedlex.data.admin.ch/eli/oc/2024/451)).
 
 #### Art. 11
 

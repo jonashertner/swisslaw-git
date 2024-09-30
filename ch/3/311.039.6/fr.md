@@ -4,11 +4,11 @@ title: Ordonnance du 9 octobre 2019 sur les mesures visant à promouvoir la séc
 short: OSMP
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/584"
 language: fr
-version: 2019-11-01
+version: 2024-10-01
 adopted: 2019-10-09
 in_force: 2019-11-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/584/20191101/fr/xml/fedlex-data-admin-ch-eli-cc-2019-584-20191101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/584/20191101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/584/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-2019-584-20241001-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/584/20241001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2019/584/20191101/fr"
 
 (OSMP)
 
-du 9 octobre 2019 (État le 1<sup>er</sup> novembre 2019)
+du 9 octobre 2019 (État le 1<sup>er</sup> octobre 2024)
 
 Le Conseil fédéral suisse,
 
@@ -164,6 +164,8 @@ La décision ou le contrat fixe notamment:
 
 <sup>1</sup> Les demandes d’aides financières sont déposées auprès de l’Office fédéral de la police (fedpol) au plus tard le 30 juin de l’année précédant le début de la mesure à soutenir.
 
+<sup>1bis</sup> S’il subsiste des risques imprévisibles en matière de sécurité, des demandes de mesures architectoniques et techniques au sens de l’art. 4, let. a, peuvent être déposées en tout temps.[^10-1]
+
 <sup>2</sup>
 
 Les demandes contiennent:
@@ -175,6 +177,8 @@ Les demandes contiennent:
 - e. le calendrier relatif à la réalisation de la mesure;
 - f. un devis détaillé et un plan de financement;
 - g. des renseignements sur les prestations fournies par les bénéficiaires des aides financières, les contributions versées en vertu d’autres actes de la Confédération ainsi que les prestations fournies par les cantons, les autorités locales ou les tiers.
+
+[^10-1]: Introduit par le ch. I de l’O du 21 août 2024, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 451](https://fedlex.data.admin.ch/eli/oc/2024/451)).
 
 #### Art. 11
 
