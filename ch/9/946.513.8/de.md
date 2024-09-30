@@ -4,11 +4,11 @@ title: "Verordnung vom 19. Mai 2010 über das Inverkehrbringen von nach ausländ
 short: VIPaV
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/350"
 language: de
-version: 2024-03-01
+version: 2024-10-01
 adopted: 2010-05-19
 in_force: 2010-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/350/20240301/de/xml/fedlex-data-admin-ch-eli-cc-2010-350-20240301-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20240301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/350/20241001/de/xml/fedlex-data-admin-ch-eli-cc-2010-350-20241001-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20241001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20240301/de"
 
 (Verordnung über das Inverkehrbringen von Produkten nach ausländischen Vorschriften, VIPaV)
 
-vom 19. Mai 2010 (Stand am 1. März 2024)
+vom 19. Mai 2010 (Stand am 1. Oktober 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -66,39 +66,38 @@ Vom Grundsatz nach Artikel 16*a* Absatz 1 THG ausgenommen sind:
 
   - 1\.[^2-6] …
   - 2\.[^2-7] …
-  - 3\. Tabakfabrikate und Ersatzprodukte, deren Detailverkaufspackung nicht mit dem Kleinhandelspreis in Schweizerfranken und der Firmenbezeichnung oder Reversnummer des inländischen Herstellers oder des Importeurs nach Artikel 16 Absatz 1 Buchstaben a und b des Tabaksteuergesetzes vom 21. März 1969[^2-8] in Verbindung mit Artikel 31 der Tabaksteuerverordnung vom 14. Oktober 2009[^2-9] versehen sind,
-  - 4\.[^2-10] Tabakerzeugnisse und Raucherwaren mit Tabakersatzstoffen, deren Verpackungen nicht mit die Warnhinweise ergänzenden Abbildungen nach Artikel 12 Absatz 5 der Tabakverordnung vom 27. Oktober 2004[^2-11] in Verbindung mit der Verordnung des EDI vom 10. Dezember 2007[^2-12] über kombinierte Warnhinweise auf Tabakprodukten versehen sind; vom Grundsatz nach Artikel 16*a* Absatz 1 THG nicht ausgenommen sind Zigaretten, Tabak zum Selbstdrehen und Wasserpfeifentabak,
-  - 5\.[^2-13] …
-  - 6\. Konsumeier in der Schale, Spiegeleier, gekochte Eier sowie gekochte und geschälte Eier (Traiteureier) aus in der Schweiz nicht zugelassener Käfighaltung von Hühnern und ohne Deklaration nach den Artikeln 2, 4 und 5 der Landwirtschaftlichen Deklarationsverordnung vom 26. November 2003[^2-14] (LDV),
-  - 7\.[^2-15] Lebensmittel ohne Deklaration hinsichtlich unbeabsichtigter Vermischungen mit allergenen Substanzen nach Artikel 11 Absatz 5 der Verordnung des EDI vom 16. Dezember 2016[^2-16] betreffend die Information über Lebensmittel,
-  - 8\.[^2-17] Lebensmittel tierischer Herkunft, die einen Hinweis «ohne GVO[^2-18]» tragen, der den Anforderungen nach Artikel 37 Absätze 4 und 5 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016[^2-19] (LGV) nicht genügt,
-  - 9\.[^2-20] Lebensmittel, die mit Verfahren hergestellt wurden, die nach Artikel 28 Absatz 1 LGV bewilligungspflichtig sind, sowie Lebensmittel, die GVO sind, solche enthalten oder daraus gewonnen wurden und die nach Artikel 31 LGV bewilligungspflichtig sind,
-  - 10\.[^2-21] …
+  - 3\. und 4.[^2-8] …
+  - 5\.[^2-9] …
+  - 6\. Konsumeier in der Schale, Spiegeleier, gekochte Eier sowie gekochte und geschälte Eier (Traiteureier) aus in der Schweiz nicht zugelassener Käfighaltung von Hühnern und ohne Deklaration nach den Artikeln 2, 4 und 5 der Landwirtschaftlichen Deklarationsverordnung vom 26. November 2003[^2-10] (LDV),
+  - 7\.[^2-11] Lebensmittel ohne Deklaration hinsichtlich unbeabsichtigter Vermischungen mit allergenen Substanzen nach Artikel 11 Absatz 5 der Verordnung des EDI vom 16. Dezember 2016[^2-12] betreffend die Information über Lebensmittel,
+  - 8\.[^2-13] Lebensmittel tierischer Herkunft, die einen Hinweis «ohne GVO[^2-14]» tragen, der den Anforderungen nach Artikel 37 Absätze 4 und 5 der Lebensmittel- und Gebrauchsgegenständeverordnung vom 16. Dezember 2016[^2-15] (LGV) nicht genügt,
+  - 9\.[^2-16] Lebensmittel, die mit Verfahren hergestellt wurden, die nach Artikel 28 Absatz 1 LGV bewilligungspflichtig sind, sowie Lebensmittel, die GVO sind, solche enthalten oder daraus gewonnen wurden und die nach Artikel 31 LGV bewilligungspflichtig sind,
+  - 10\.[^2-17] …
   - 11\. Fleisch, Fleischzubereitungen und Fleischerzeugnisse von Hauskaninchen aus in der Schweiz nicht zugelassener Haltungsform und ohne Deklaration nach den Artikeln 2, 3 und 5 LDV;
 
 - c.
 
   die folgenden übrigen Produkte:
 
-  - 1\.[^2-22] …
+  - 1\.[^2-18] …
   - 2\.
 
     Eisenbahninfrastruktur und Eisenbahnfahrzeuge, die nicht den schweizerischen sicherheitsrelevanten Produktevorschriften gemäss folgenden Erlassen entsprechen:
 
-    - – Eisenbahngesetz vom 20. Dezember 1957[^2-23]
-    - – Eisenbahnverordnung vom 23. November 1983[^2-24]
-    - – Ausführungsbestimmungen vom 22. Mai 2006[^2-25] zur Eisenbahnverordnung, 6. Revision
-    - – Elektrizitätsgesetz vom 24. Juni 1902[^2-26]
-    - – Verordnung vom 5. Dezember 1994[^2-27] über elektrische Anlagen von Bahnen
+    - – Eisenbahngesetz vom 20. Dezember 1957[^2-19]
+    - – Eisenbahnverordnung vom 23. November 1983[^2-20]
+    - – Ausführungsbestimmungen vom 22. Mai 2006[^2-21] zur Eisenbahnverordnung, 6. Revision
+    - – Elektrizitätsgesetz vom 24. Juni 1902[^2-22]
+    - – Verordnung vom 5. Dezember 1994[^2-23] über elektrische Anlagen von Bahnen
     - – Ausführungsbestimmungen zu den in dieser Ziffer genannten Erlassen,
 
-  - 3\.[^2-28] …
-  - 4\. dem Edelmetallkontrollgesetz vom 20. Juni 1933[^2-29] unterstellte Waren, welche die Vorschriften betreffend Feingehalte und betreffend die Bezeichnung, Kennzeichnung und materielle Zusammensetzung nach den Artikeln 1–3 und 5–21 des Edelmetallkontrollgesetzes nicht erfüllen,
-  - 5\.[^2-30]
+  - 3\.[^2-24] …
+  - 4\. dem Edelmetallkontrollgesetz vom 20. Juni 1933[^2-25] unterstellte Waren, welche die Vorschriften betreffend Feingehalte und betreffend die Bezeichnung, Kennzeichnung und materielle Zusammensetzung nach den Artikeln 1–3 und 5–21 des Edelmetallkontrollgesetzes nicht erfüllen,
+  - 5\.[^2-26]
 
-    die folgenden Geräte, welche die technischen Vorschriften gemäss den Artikeln 3–8 sowie den Anhängen 1.3, 1.15–1.16, 1.18, 1.21, 2.4, 2.14–2.15 und 3.2 der Energieeffizienzverordnung vom 1. November 2017[^2-31] nicht einhalten:[^2-32]
+    die folgenden Geräte, welche die technischen Vorschriften gemäss den Artikeln 3–8 sowie den Anhängen 1.3, 1.15–1.16, 1.18, 1.21, 2.4, 2.14–2.15 und 3.2 der Energieeffizienzverordnung vom 1. November 2017[^2-27] nicht einhalten:[^2-28]
 
-    - –[^2-33] …
+    - –[^2-29] …
     - – netzbetriebene Haushaltswäschetrockner
     - – bei Warmwasserbereitern und Warmwasserspeichern: elektrische konventionelle Warmwasserbereiter mit einem Speichervolumen von ≥ 150 Litern und Warmwasserspeicher mit einem Speichervolumen von ≤ 500 Litern
     - – bei Raumheizgeräten und Kombiheizgeräten: elektrische Raumheizgeräte und elektrische Kombiheizgeräte
@@ -109,12 +108,15 @@ Vom Grundsatz nach Artikel 16*a* Absatz 1 THG ausgenommen sind:
     - – netzbetriebene gewerbliche Geschirrspüler
     - – netzbetriebene Haushaltskaffeemaschinen,
 
-  - 6\.[^2-34] der Verordnung vom 4. Juni 2010[^2-35] über die Deklaration von Holz und Holzprodukten unterstellte Hölzer und Holzprodukte, welche die Vorschriften zur Deklaration nach den Artikeln 2–4 der genannten Verordnung nicht erfüllen,
-  - 7\.[^2-36] …
-  - 8\.[^2-37] der Pelzdeklarationsverordnung vom 7. Dezember 2012[^2-38] unterstellte Pelze und Pelzprodukte, welche die Vorschriften zur Deklaration nach den Artikeln 2*a*–7 der genannten Verordnung nicht erfüllen,
-  - 9\.[^2-39] andere Elektrizitätszähler als Wirkenergiezähler, für die das Eidgenössische Justiz- und Polizeidepartement gestützt auf Artikel 33 der Messmittelverordnung vom 15. Februar 2006[^2-40] Bestimmungen erlassen hat, insbesondere Elektrizitätszähler für die Blindenergiemessung, die Leistungsmessung oder die Lastgangbildung,
-  - 10\.[^2-41] naturbelassene Holzpellets und -briketts, sofern sie die Anforderungen nach Anhang 5 Ziffer 32 LRV nicht erfüllen,
-  - 11\.[^2-42] kosmetische Mittel, welche die Anforderungen nach Artikel 6 Absatz 1 der Verordnung des EDI vom 16. Dezember 2016[^2-43] über kosmetische Mittel nicht erfüllen.
+  - 6\.[^2-30] der Verordnung vom 4. Juni 2010[^2-31] über die Deklaration von Holz und Holzprodukten unterstellte Hölzer und Holzprodukte, welche die Vorschriften zur Deklaration nach den Artikeln 2–4 der genannten Verordnung nicht erfüllen,
+  - 7\.[^2-32] …
+  - 8\.[^2-33] der Pelzdeklarationsverordnung vom 7. Dezember 2012[^2-34] unterstellte Pelze und Pelzprodukte, welche die Vorschriften zur Deklaration nach den Artikeln 2*a*–7 der genannten Verordnung nicht erfüllen,
+  - 9\.[^2-35] andere Elektrizitätszähler als Wirkenergiezähler, für die das Eidgenössische Justiz- und Polizeidepartement gestützt auf Artikel 33 der Messmittelverordnung vom 15. Februar 2006[^2-36] Bestimmungen erlassen hat, insbesondere Elektrizitätszähler für die Blindenergiemessung, die Leistungsmessung oder die Lastgangbildung,
+  - 10\.[^2-37] naturbelassene Holzpellets und -briketts, sofern sie die Anforderungen nach Anhang 5 Ziffer 32 LRV nicht erfüllen,
+  - 11\.[^2-38] kosmetische Mittel, welche die Anforderungen nach Artikel 6 Absatz 1 der Verordnung des EDI vom 16. Dezember 2016[^2-39] über kosmetische Mittel nicht erfüllen,
+  - 12\.[^2-40] Tabakfabrikate und Ersatzprodukte, deren Kleinhandelsverpackung nicht nach Artikel 16 Absatz 1 Buchstaben a und b des Tabaksteuergesetzes vom 21. März 1969[^2-41], in Verbindung mit Artikel 31 der Tabaksteuerverordnung vom 14. Oktober 2009[^2-42], die Angabe des Kleinhandelspreises in Schweizer Franken sowie die Firmenbezeichnung oder die Reversnummer des inländischen Herstellers oder des Importeurs tragen,
+  - 13\.[^2-43] Nikotinprodukte ohne Tabak zum oralen Gebrauch nach Artikel 3 Buchstabe d des Tabakproduktegesetzes vom 1. Oktober 2021[^2-44] (TabPG) und elektronische Zigaretten nach Artikel 3 Buchstabe f TabPG ohne Nikotin, deren Verpackung keinen Warnhinweis nach Artikel 14 Absatz 1 Buchstaben b oder e TabPG trägt,
+  - 14\.[^2-45] gleichartige Produkte nach Artikel 2 der Tabakprodukteverordnung vom 28. August 2024[^2-46] (TabPV), deren Verpackung keinen Warnhinweis aus der Einstufung nach Artikel 3 TabPV und keinen Warnhinweis nach Artikel 13 TabPV trägt.
 
 [^2-1]: [SR 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
 [^2-2]: Aufgehoben durch Ziff. II 2 der V vom 17. April 2019, mit Wirkung seit 1. Juni 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
@@ -123,42 +125,45 @@ Vom Grundsatz nach Artikel 16*a* Absatz 1 THG ausgenommen sind:
 [^2-5]: Fassung gemäss Ziff. II 2 der V vom 17. April 2019, in Kraft seit 1. Juni 2019 ([AS 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
 [^2-6]: Aufgehoben durch Anhang Ziff. 3 der V vom 27. Mai 2020, mit Wirkung seit 1. Juli 2020 ([AS 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
 [^2-7]: Aufgehoben durch Anhang 2 Ziff. II 12 der Alkoholverordnung vom 15. Sept. 2017, mit Wirkung seit 1. Jan. 2018 ([AS 2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)).
-[^2-8]: [SR 641.31](https://fedlex.data.admin.ch/eli/cc/1969/645_665_663)
-[^2-9]: [SR 641.311](https://fedlex.data.admin.ch/eli/cc/2009/677)
-[^2-10]: Fassung gemäss Ziff. I der V vom 12. April 2017, in Kraft seit 1. Mai 2017 ([AS 2017 2631](https://fedlex.data.admin.ch/eli/oc/2017/253)).
-[^2-11]: [SR 817.06](https://fedlex.data.admin.ch/eli/cc/2004/688)
-[^2-12]: [SR 817.064](https://fedlex.data.admin.ch/eli/cc/2007/930)
-[^2-13]: Aufgehoben durch Ziff. I der V vom 16. Nov. 2011, mit Wirkung seit 1. Jan. 2012 ([AS 2011 5821](https://fedlex.data.admin.ch/eli/oc/2011/804)).
-[^2-14]: [SR 916.51](https://fedlex.data.admin.ch/eli/cc/2003/738)
-[^2-15]: Fassung gemäss Ziff. I der V vom 12. April 2017, in Kraft seit 1. Mai 2017 ([AS 2017 2631](https://fedlex.data.admin.ch/eli/oc/2017/253)).
-[^2-16]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
-[^2-17]: Fassung gemäss Anhang Ziff. 3 der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
-[^2-18]: Steht für «Gentechnisch veränderte Organismen»
-[^2-19]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^2-20]: Fassung gemäss Anhang Ziff. 3 der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
-[^2-21]: Aufgehoben durch Ziff. I der V vom 12. April 2017, mit Wirkung seit 1. Mai 2017 ([AS 2017 2631](https://fedlex.data.admin.ch/eli/oc/2017/253)).
-[^2-22]: Aufgehoben durch Ziff. I der V vom 12. April 2017, mit Wirkung seit 1. Mai 2017 ([AS 2017 2631](https://fedlex.data.admin.ch/eli/oc/2017/253)).
-[^2-23]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^2-24]: [SR 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
-[^2-25]: [SR 742.141.11](https://fedlex.data.admin.ch/eli/cc/2024/240)
-[^2-26]: [SR 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
-[^2-27]: [[AS 1995 1024](https://fedlex.data.admin.ch/eli/oc/1995/1024_1024_1024); [1997 1008](https://fedlex.data.admin.ch/eli/oc/1997/1008_1008_1008)Anhang Ziff. 5, [1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016)Anhang 5; [1998 54](https://fedlex.data.admin.ch/eli/oc/1998/54_54_54)Anhang Ziff. 6; [2000 741](https://fedlex.data.admin.ch/eli/oc/2000/124)Art. 10 Ziff. 1, [762](https://fedlex.data.admin.ch/eli/oc/2000/127)Ziff. II 5; [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)Anhang 3 Ziff. 6. [AS 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)Anhang 2 Ziff. II]
-[^2-28]: Aufgehoben durch Ziff. III der V vom 11. April 2018, mit Wirkung seit 1. Jan. 2022 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
-[^2-29]: [SR 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
-[^2-30]: Fassung gemäss Ziff. III der V vom 24. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
-[^2-31]: [SR 730.02](https://fedlex.data.admin.ch/eli/cc/2017/765)
-[^2-32]: Fassung gemäss Ziff. IV der V vom 24. Mai 2023, in Kraft seit 1. März 2024 ([AS 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
-[^2-33]: Aufgehoben durch Ziff. I der V vom 29. März 2023, mit Wirkung seit 1. März 2024 ([AS 2023 179](https://fedlex.data.admin.ch/eli/oc/2023/179)).
-[^2-34]: Eingefügt durch Art. 10 der V vom 4. Juni 2010 über die Deklaration von Holz und Holzprodukten, in Kraft seit 1. Okt. 2010 ([AS 2010 2873](https://fedlex.data.admin.ch/eli/oc/2010/379)).
-[^2-35]: [SR 944.021](https://fedlex.data.admin.ch/eli/cc/2010/379)
-[^2-36]: Eingefügt durch Ziff. I 4 der V vom 29. Juni 2011 über Anpassungen von Verordnungen im Umweltbereich ([AS 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)). Aufgehoben durch Ziff. III der V vom 11. April 2018, mit Wirkung seit 1. Jan. 2023 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
-[^2-37]: Eingefügt durch Art. 13 der Pelzdeklarationsverordnung vom 7. Dez. 2012 ([AS 2013 579](https://fedlex.data.admin.ch/eli/oc/2013/114)). Fassung gemäss Ziff. II der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
-[^2-38]: [SR 944.022](https://fedlex.data.admin.ch/eli/cc/2013/114)
-[^2-39]: Eingefügt durch Ziff. I der V vom 26. Aug. 2015, in Kraft seit 1. Okt. 2015 ([AS 2014 3121](https://fedlex.data.admin.ch/eli/oc/2014/525)).
-[^2-40]: [SR 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
-[^2-41]: Eingefügt durch Ziff. III der V vom 14. Okt. 2015, in Kraft seit 16. Nov. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
-[^2-42]: Eingefügt durch Ziff. II der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
-[^2-43]: [SR 817.023.31](https://fedlex.data.admin.ch/eli/cc/2017/165)
+[^2-8]: Aufgehoben durch Anhang 4 Ziff. II 8 der Tabakprodukteverordnung vom 28. Aug. 2024, mit Wirkung seit 1. Okt. 2024 ([AS 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491), [509](https://fedlex.data.admin.ch/eli/oc/2024/509)).
+[^2-9]: Aufgehoben durch Ziff. I der V vom 16. Nov. 2011, mit Wirkung seit 1. Jan. 2012 ([AS 2011 5821](https://fedlex.data.admin.ch/eli/oc/2011/804)).
+[^2-10]: [SR 916.51](https://fedlex.data.admin.ch/eli/cc/2003/738)
+[^2-11]: Fassung gemäss Ziff. I der V vom 12. April 2017, in Kraft seit 1. Mai 2017 ([AS 2017 2631](https://fedlex.data.admin.ch/eli/oc/2017/253)).
+[^2-12]: [SR 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^2-13]: Fassung gemäss Anhang Ziff. 3 der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
+[^2-14]: Steht für «Gentechnisch veränderte Organismen»
+[^2-15]: [SR 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^2-16]: Fassung gemäss Anhang Ziff. 3 der V vom 27. Mai 2020, in Kraft seit 1. Juli 2020 ([AS 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
+[^2-17]: Aufgehoben durch Ziff. I der V vom 12. April 2017, mit Wirkung seit 1. Mai 2017 ([AS 2017 2631](https://fedlex.data.admin.ch/eli/oc/2017/253)).
+[^2-18]: Aufgehoben durch Ziff. I der V vom 12. April 2017, mit Wirkung seit 1. Mai 2017 ([AS 2017 2631](https://fedlex.data.admin.ch/eli/oc/2017/253)).
+[^2-19]: [SR 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^2-20]: [SR 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
+[^2-21]: [SR 742.141.11](https://fedlex.data.admin.ch/eli/cc/2024/240)
+[^2-22]: [SR 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
+[^2-23]: [[AS 1995 1024](https://fedlex.data.admin.ch/eli/oc/1995/1024_1024_1024); [1997 1008](https://fedlex.data.admin.ch/eli/oc/1997/1008_1008_1008)Anhang Ziff. 5, [1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016)Anhang 5; [1998 54](https://fedlex.data.admin.ch/eli/oc/1998/54_54_54)Anhang Ziff. 6; [2000 741](https://fedlex.data.admin.ch/eli/oc/2000/124)Art. 10 Ziff. 1, [762](https://fedlex.data.admin.ch/eli/oc/2000/127)Ziff. II 5; [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)Anhang 3 Ziff. 6. [AS 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)Anhang 2 Ziff. II]
+[^2-24]: Aufgehoben durch Ziff. III der V vom 11. April 2018, mit Wirkung seit 1. Jan. 2022 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^2-25]: [SR 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
+[^2-26]: Fassung gemäss Ziff. III der V vom 24. Mai 2023, in Kraft seit 1. Juli 2023 ([AS 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
+[^2-27]: [SR 730.02](https://fedlex.data.admin.ch/eli/cc/2017/765)
+[^2-28]: Fassung gemäss Ziff. IV der V vom 24. Mai 2023, in Kraft seit 1. März 2024 ([AS 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
+[^2-29]: Aufgehoben durch Ziff. I der V vom 29. März 2023, mit Wirkung seit 1. März 2024 ([AS 2023 179](https://fedlex.data.admin.ch/eli/oc/2023/179)).
+[^2-30]: Eingefügt durch Art. 10 der V vom 4. Juni 2010 über die Deklaration von Holz und Holzprodukten, in Kraft seit 1. Okt. 2010 ([AS 2010 2873](https://fedlex.data.admin.ch/eli/oc/2010/379)).
+[^2-31]: [SR 944.021](https://fedlex.data.admin.ch/eli/cc/2010/379)
+[^2-32]: Eingefügt durch Ziff. I 4 der V vom 29. Juni 2011 über Anpassungen von Verordnungen im Umweltbereich ([AS 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)). Aufgehoben durch Ziff. III der V vom 11. April 2018, mit Wirkung seit 1. Jan. 2023 ([AS 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^2-33]: Eingefügt durch Art. 13 der Pelzdeklarationsverordnung vom 7. Dez. 2012 ([AS 2013 579](https://fedlex.data.admin.ch/eli/oc/2013/114)). Fassung gemäss Ziff. II der V vom 19. Febr. 2020, in Kraft seit 1. April 2020 ([AS 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
+[^2-34]: [SR 944.022](https://fedlex.data.admin.ch/eli/cc/2013/114)
+[^2-35]: Eingefügt durch Ziff. I der V vom 26. Aug. 2015, in Kraft seit 1. Okt. 2015 ([AS 2014 3121](https://fedlex.data.admin.ch/eli/oc/2014/525)).
+[^2-36]: [SR 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^2-37]: Eingefügt durch Ziff. III der V vom 14. Okt. 2015, in Kraft seit 16. Nov. 2015 ([AS 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
+[^2-38]: Eingefügt durch Ziff. II der V vom 8. Dez. 2023, in Kraft seit 1. Febr. 2024 ([AS 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)). Berichtigung vom 19. Sept. 2024 ([AS 2024 509](https://fedlex.data.admin.ch/eli/oc/2024/509)).
+[^2-39]: [SR 817.023.31](https://fedlex.data.admin.ch/eli/cc/2017/165)
+[^2-40]: Eingefügt durch Anhang 4 Ziff. II 8 der Tabakprodukteverordnung vom 28. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491), [509](https://fedlex.data.admin.ch/eli/oc/2024/509)).
+[^2-41]: [SR 641.31](https://fedlex.data.admin.ch/eli/cc/1969/645_665_663)
+[^2-42]: [SR 641.311](https://fedlex.data.admin.ch/eli/cc/2009/677)
+[^2-43]: Eingefügt durch Anhang 4 Ziff. II 8 der Tabakprodukteverordnung vom 28. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491), [509](https://fedlex.data.admin.ch/eli/oc/2024/509)).
+[^2-44]: [SR 818.32](https://fedlex.data.admin.ch/eli/cc/2024/457)
+[^2-45]: Eingefügt durch Anhang 4 Ziff. II 8 der Tabakprodukteverordnung vom 28. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491), [509](https://fedlex.data.admin.ch/eli/oc/2024/509)).
+[^2-46]: [SR 818.321](https://fedlex.data.admin.ch/eli/cc/2024/491)
 
 #### Art. 3
 

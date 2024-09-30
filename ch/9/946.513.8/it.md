@@ -4,11 +4,11 @@ title: "Ordinanza del 19 maggio 2010 concernente l'immissione in commercio di pr
 short: OIPPE
 eli: "https://fedlex.data.admin.ch/eli/cc/2010/350"
 language: it
-version: 2024-03-01
+version: 2024-10-01
 adopted: 2010-05-19
 in_force: 2010-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/350/20240301/it/xml/fedlex-data-admin-ch-eli-cc-2010-350-20240301-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20240301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2010/350/20241001/it/xml/fedlex-data-admin-ch-eli-cc-2010-350-20241001-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20241001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2010/350/20240301/it"
 
 (Ordinanza sull’immissione in commercio di prodotti conformi a prescrizioni tecniche estere, OIPPE)
 
-del 19 maggio 2010 (Stato 1° marzo 2024)
+del 19 maggio 2010 (Stato 1° ottobre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -66,39 +66,38 @@ Costituiscono deroghe al principio di cui all’articolo 16*a* capoverso 1 LOTC:
 
   - 1\.[^2-6] ...
   - 2\.[^2-7] ...
-  - 3\. tabacchi manufatti e prodotti di sostituzione il cui imballaggio per la vendita al minuto non reca il prezzo di vendita al minuto in franchi svizzeri e la ragione sociale o il numero dell’impegno di garanzia del fabbricante in Svizzera o dell’importatore secondo l’articolo 16 capoverso 1 lettere a e b della legge del 21 marzo 1969[^2-8] sull’imposizione del tabacco in combinato disposto con l’articolo 31 dell’ordinanza del 14 ottobre 2009[^2-9] sull’imposizione del tabacco,
-  - 4\.[^2-10] prodotti del tabacco e articoli per fumatori con succedanei del tabacco il cui imballaggio non reca le illustrazioni che completano le avvertenze secondo l’articolo 12 capoverso 5 dell’ordinanza del 27 ottobre 2004[^2-11] sul tabacco in combinato disposto con l’ordinanza del DFI del 10 dicembre 2007[^2-12] concernente le avvertenze combinate sui prodotti del tabacco; non costituiscono deroghe al principio di cui all’articolo 16*a* capoverso 1 LOTC le sigarette, il tabacco da arrotolare e il tabacco per pipe ad acqua,
-  - 5\.[^2-13] ...
-  - 6\. uova di consumo in guscio, uova al tegamino, uova cotte nonché uova cotte e sbucciate (uova contenute in preparazioni gastronomiche) provenienti da allevamento in batteria di pollame non autorizzato in Svizzera prive di una dichiarazione secondo gli articoli 2, 4 e 5 dell’ordinanza del 26 novembre 2003[^2-14] sulle dichiarazioni agricole (ODAgr),
-  - 7\.[^2-15] derrate alimentari prive di una dichiarazione riguardo alle miscele casuali con sostanze allergeniche secondo l’articolo 11 capoverso 5 dell’ordinanza del DFI del 16 dicembre 2016[^2-16] concernente le informazioni sulle derrate alimentari,
-  - 8\.[^2-17] derrate alimentari che recano una menzione «senza OGM[^2-18]» non conforme ai requisiti di cui all’articolo 37 capoversi 4 e 5 dell’ordinanza del 16 dicembre 2016[^2-19] sulle derrate alimentari e gli oggetti d’uso (ODerr),
-  - 9\.[^2-20] derrate alimentari fabbricate con procedimenti soggetti ad autorizzazione secondo l’articolo 28 capoverso 1 ODerr, nonché derrate alimentari che sono OGM, li contengono o sono da essi ottenute e che necessitano dell’autorizzazione secondo l’articolo 31 della suddetta ordinanza,
-  - 10\.[^2-21] ...
+  - 3\. e 4. [^2-8] ...
+  - 5\.[^2-9] ...
+  - 6\. uova di consumo in guscio, uova al tegamino, uova cotte nonché uova cotte e sbucciate (uova contenute in preparazioni gastronomiche) provenienti da allevamento in batteria di pollame non autorizzato in Svizzera prive di una dichiarazione secondo gli articoli 2, 4 e 5 dell’ordinanza del 26 novembre 2003[^2-10] sulle dichiarazioni agricole (ODAgr),
+  - 7\.[^2-11] derrate alimentari prive di una dichiarazione riguardo alle miscele casuali con sostanze allergeniche secondo l’articolo 11 capoverso 5 dell’ordinanza del DFI del 16 dicembre 2016[^2-12] concernente le informazioni sulle derrate alimentari,
+  - 8\.[^2-13] derrate alimentari che recano una menzione «senza OGM[^2-14]» non conforme ai requisiti di cui all’articolo 37 capoversi 4 e 5 dell’ordinanza del 16 dicembre 2016[^2-15] sulle derrate alimentari e gli oggetti d’uso (ODerr),
+  - 9\.[^2-16] derrate alimentari fabbricate con procedimenti soggetti ad autorizzazione secondo l’articolo 28 capoverso 1 ODerr, nonché derrate alimentari che sono OGM, li contengono o sono da essi ottenute e che necessitano dell’autorizzazione secondo l’articolo 31 della suddetta ordinanza,
+  - 10\.[^2-17] ...
   - 11\. carne, preparazioni a base di carne e prodotti carnei di conigli domestici allevati secondo forme di tenuta non autorizzate in Svizzera e che sono privi di una dichiarazione secondo gli articoli 2, 3 e 5 ODAgr;
 
 - c.
 
   i seguenti altri prodotti:
 
-  - 1\.[^2-22] ...
+  - 1\.[^2-18] ...
   - 2\.
 
     infrastrutture ferroviarie e veicoli ferroviari non conformi alle prescrizioni tecniche svizzere rilevanti in materia di sicurezza previste dai seguenti atti normativi:
 
-    - – legge federale del 20 dicembre 1957[^2-23] sulle ferrovie
-    - – ordinanza del 23 novembre 1983[^2-24] sulle ferrovie
-    - – disposizioni d’esecuzione del 22 maggio 2006[^2-25] dell’ordinanza sulle ferrovie, 6<sup>a</sup> revisione
-    - – legge del 24 giugno 1902[^2-26] sugli impianti elettrici
-    - – ordinanza del 5 dicembre 1994[^2-27] sulle installazioni elettriche delle ferrovie
+    - – legge federale del 20 dicembre 1957[^2-19] sulle ferrovie
+    - – ordinanza del 23 novembre 1983[^2-20] sulle ferrovie
+    - – disposizioni d’esecuzione del 22 maggio 2006[^2-21] dell’ordinanza sulle ferrovie, 6<sup>a</sup> revisione
+    - – legge del 24 giugno 1902[^2-22] sugli impianti elettrici
+    - – ordinanza del 5 dicembre 1994[^2-23] sulle installazioni elettriche delle ferrovie
     - – disposizioni d’esecuzione degli atti normativi menzionati nel presente numero,
 
-  - 3\.[^2-28] ...
-  - 4\. i lavori soggetti alla legge del 20 giugno 1933[^2-29] sul controllo dei metalli preziosi che non soddisfano le prescrizioni in materia di titoli e di designazione, caratterizzazione e composizione materiale di cui agli articoli 1–3 e 5–21 della suddetta legge,
-  - 5\.[^2-30]
+  - 3\.[^2-24] ...
+  - 4\. i lavori soggetti alla legge del 20 giugno 1933[^2-25] sul controllo dei metalli preziosi che non soddisfano le prescrizioni in materia di titoli e di designazione, caratterizzazione e composizione materiale di cui agli articoli 1–3 e 5–21 della suddetta legge,
+  - 5\.[^2-26]
 
-    i seguenti apparecchi che non rispettano le prescrizioni tecniche di cui agli articoli 3–8 e agli allegati 1.3, 1.15-1.16, 1.18, 1.21, 2.4, 2.14–2.15 e 3.2 dell’ordinanza del 1° novembre 2017[^2-31] sull’efficienza energetica:
+    i seguenti apparecchi che non rispettano le prescrizioni tecniche di cui agli articoli 3–8 e agli allegati 1.3, 1.15-1.16, 1.18, 1.21, 2.4, 2.14–2.15 e 3.2 dell’ordinanza del 1° novembre 2017[^2-27] sull’efficienza energetica:
 
-    - – ...[^2-32]
+    - – ...[^2-28]
     - – asciugabiancheria domestiche con raccordo alla rete,
     - – nel caso di scaldacqua e serbatoi di accumulo dell’acqua calda: scaldacqua elettrici convenzionali aventi un volume utile di ≥ 150 litri e serbatoi di accumulo dell’acqua calda aventi un volume utile di ≤ 500 litri,
     - – nel caso di apparecchi per il riscaldamento d’ambiente e apparecchi di riscaldamento misti: apparecchi elettrici per il riscaldamento d’ambiente e apparecchi elettrici di riscaldamento misti,
@@ -109,55 +108,61 @@ Costituiscono deroghe al principio di cui all’articolo 16*a* capoverso 1 LOTC:
     - – lavastoviglie professionali con raccordo alla rete,
     - – macchine da caffè per uso domestico con raccordo alla rete.
 
-  - 6\.[^2-33] legno e prodotti del legno soggetti all’ordinanza del 4 giugno 2010[^2-34] sulla dichiarazione concernente il legno e i prodotti del legno, che non soddisfano le prescrizioni in materia di dichiarazione di cui agli articoli 2–4 di detta ordinanza,
-  - 7\.[^2-35] ...
-  - 8\.[^2-36] pellicce e prodotti di pellicceria soggetti all’ordinanza del 7 dicembre 2012[^2-37] sulla dichiarazione delle pellicce, non conformi alle prescrizioni di cui agli articoli 2*a*–7 dell’ordinanza suddetta, relative alla dichiarazione,
-  - 9\.[^2-38] i contatori d’elettricità diversi dai contatori di energia attiva per i quali il Dipartimento federale di giustizia e polizia ha emanato disposizioni in virtù dell’articolo 33 dell’ordinanza del 15 febbraio 2006[^2-39] sugli strumenti di misurazione, segnatamente i contatori d’elettricità per la misurazione dell’energia reattiva, la misurazione della potenza e la creazione del profilo di carico,
-  - 10\.[^2-40] pellet e mattonelle in legno allo stato naturale, nella misura in cui non soddisfano le esigenze di cui all’allegato 5 cifra 32 OIAt,
-  - 11\.[^2-41] cosmetici che non soddisfano i requisiti di cui all’articolo 6 capoverso 1 dell’ordinanza del DFI del 16 dicembre 2016[^2-42] sui cosmetici.
+  - 6\.[^2-29] legno e prodotti del legno soggetti all’ordinanza del 4 giugno 2010[^2-30] sulla dichiarazione concernente il legno e i prodotti del legno, che non soddisfano le prescrizioni in materia di dichiarazione di cui agli articoli 2–4 di detta ordinanza,
+  - 7\.[^2-31] ...
+  - 8\.[^2-32] pellicce e prodotti di pellicceria soggetti all’ordinanza del 7 dicembre 2012[^2-33] sulla dichiarazione delle pellicce, non conformi alle prescrizioni di cui agli articoli 2*a*–7 dell’ordinanza suddetta, relative alla dichiarazione,
+  - 9\.[^2-34] i contatori d’elettricità diversi dai contatori di energia attiva per i quali il Dipartimento federale di giustizia e polizia ha emanato disposizioni in virtù dell’articolo 33 dell’ordinanza del 15 febbraio 2006[^2-35] sugli strumenti di misurazione, segnatamente i contatori d’elettricità per la misurazione dell’energia reattiva, la misurazione della potenza e la creazione del profilo di carico,
+  - 10\.[^2-36] pellet e mattonelle in legno allo stato naturale, nella misura in cui non soddisfano le esigenze di cui all’allegato 5 cifra 32 OIAt,
+  - 11\.[^2-37] cosmetici che non soddisfano i requisiti di cui all’articolo 6 capoverso 1 dell’ordinanza del DFI del 16 dicembre 2016[^2-38] sui cosmetici;
+  - 12\.[^2-39] prodotti del tabacco e prodotti di sostituzione il cui imballaggio per la vendita al minuto non reca il prezzo di vendita al minuto in franchi svizzeri e la ragione sociale o il numero dell’impegno di garanzia del fabbricante in Svizzera o dell’importatore secondo l’articolo 16 capoverso 1 lettere a e b della legge del 21 marzo 1969[^2-40] sull’imposizione del tabacco in combinato disposto con l’articolo 31 dell’ordinanza del 14 ottobre 2009[^2-41] sull’imposizione del tabacco,
+  - 13\.[^2-42] prodotti a base di nicotina per uso orale senza tabacco di cui all’articolo 3 lettera d della legge del 1° ottobre 2021[^2-43] sui prodotti del tabacco (LPTab) e sigarette elettroniche senza nicotina di cui all’articolo 3 lettera f LPTab il cui imballaggio non reca l’avvertenza prevista all’articolo 14 capoverso 1 lettera b o e LPTab,
+  - 14\.[^2-44] prodotti simili di cui all’articolo 2 dell’ordinanza del 28 agosto 2024[^2-45] sui prodotti del tabacco (OPTab) il cui imballaggio non reca le avvertenze secondo la classificazione prevista all’articolo 3 OPTab né quelle previste all’articolo 13 OPTab.
 
 [^2-1]: [RS 814.81](https://fedlex.data.admin.ch/eli/cc/2005/478)
-[^2-2]: Abrogato dal n. II 2 dell’O del 17 apr. 2019, con effetto dal 1° giu. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^2-2]: Abrogato dalla cifra II n. 2 dell’O del 17 apr. 2019, con effetto dal 1° giu. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
 [^2-3]: Nuovo testo giusta l’all. 6 n. 9 dell’O del 5 giu. 2015 sui prodotti chimici in vigore dal 1° lug. 2015 ([RU 2015 1903](https://fedlex.data.admin.ch/eli/oc/2015/366)).
 [^2-4]: [RS 813.11](https://fedlex.data.admin.ch/eli/cc/2015/366)
-[^2-5]: Nuovo testo giusta il n. II 2 dell’O del 17 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
+[^2-5]: Nuovo testo giusta la cifra II n. 2 dell’O del 17 apr. 2019, in vigore dal 1° giu. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)).
 [^2-6]: Abrogato dall’all. n. 3 dell’O del 27 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
-[^2-7]: Abrogato dall’all. 2 n. II 12 dell’O del 15 set. 2017 sull’alcol, con effetto dal 1° gen. 2018 ([RU 2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)).
-[^2-8]: [RS 641.31](https://fedlex.data.admin.ch/eli/cc/1969/645_665_663)
-[^2-9]: [RS 641.311](https://fedlex.data.admin.ch/eli/cc/2009/677)
-[^2-10]: Nuovo testo giusta il n. I dell’O del 12 apr. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2631](https://fedlex.data.admin.ch/eli/oc/2017/253)).
-[^2-11]: [RS 817.06](https://fedlex.data.admin.ch/eli/cc/2004/688)
-[^2-12]: [RS 817.064](https://fedlex.data.admin.ch/eli/cc/2007/930)
-[^2-13]: Abrogato dal n. I dell’O del 16 nov. 2011, con effetto dal 1° gen. 2012 ([RU 2011 5821](https://fedlex.data.admin.ch/eli/oc/2011/804)).
-[^2-14]: [RS 916.51](https://fedlex.data.admin.ch/eli/cc/2003/738)
-[^2-15]: Nuovo testo giusta il n. I dell’O del 12 apr. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2631](https://fedlex.data.admin.ch/eli/oc/2017/253)).
-[^2-16]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
-[^2-17]: Nuovo testo giusta l’all. n. 3 dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
-[^2-18]: «Organismi geneticamente modificati»
-[^2-19]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
-[^2-20]: Nuovo testo giusta l’all. n. 3 dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
-[^2-21]: Abrogato dal n. I dell’O del 12 apr. 2017, con effetto dal 1° mag. 2017 ([RU 2017 2631](https://fedlex.data.admin.ch/eli/oc/2017/253)).
-[^2-22]: Abrogato dal n. I dell’O del 12 apr. 2017, con effetto dal 1° mag. 2017 ([RU 2017 2631](https://fedlex.data.admin.ch/eli/oc/2017/253)).
-[^2-23]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
-[^2-24]: [RS 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
-[^2-25]: [RS 742.141.11](https://fedlex.data.admin.ch/eli/cc/2024/240)
-[^2-26]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
-[^2-27]: [[RU 1995 1024](https://fedlex.data.admin.ch/eli/oc/1995/1024_1024_1024); [1997 1008](https://fedlex.data.admin.ch/eli/oc/1997/1008_1008_1008)all. n. 5, [1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016)all. 5; [1998 54](https://fedlex.data.admin.ch/eli/oc/1998/54_54_54)all. n. 6; [2000 741](https://fedlex.data.admin.ch/eli/oc/2000/124)art. 10 n. 1, [762](https://fedlex.data.admin.ch/eli/oc/2000/127)n. II 5; [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)all. 3 n. 6. [RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)all. 2 n. I]
-[^2-28]: Abrogato dal n. III dell’O dell’11 apr. 2018, con effetto dal 1° gen. 2022 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
-[^2-29]: [RS 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
-[^2-30]: Nuovo testo giusta i n. III e IV dell’O del 24 mag. 2023, in vigore dal 1° apr.. 2024 ([RU 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
-[^2-31]: [RS 730.02](https://fedlex.data.admin.ch/eli/cc/2017/765)
-[^2-32]: Abrogato dal n. I dell’O del 29 mar. 2023, con effetto dal 1° mar. 2024 ([RU 2023 179](https://fedlex.data.admin.ch/eli/oc/2023/179)).
-[^2-33]: Introdotto dall’art. 10 dell’O del 4 giu. 2010 sulla dichiarazione concernente il legno e i prodotti del legno, in vigore dal 1° ott. 2010 ([RU 2010 2873](https://fedlex.data.admin.ch/eli/oc/2010/379)).
-[^2-34]: [RS 944.021](https://fedlex.data.admin.ch/eli/cc/2010/379)
-[^2-35]: Introdotto dal n. I 4 dell’O del 29 giu. 2011 concernente adeguamenti di ordinanze nel settore ambientale ([RU 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)). Abrogato dal n. III dell’O dell’11 apr. 2018, con effetto dal 1° gen. 2023 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
-[^2-36]: Introdotto dall’art. 13 dell’O del 7 dic. 2012 sulla dichiarazione delle pellicce ([RU 2013 579](https://fedlex.data.admin.ch/eli/oc/2013/114)). Nuovo testo giusta il n. II dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
-[^2-37]: [RS 944.022](https://fedlex.data.admin.ch/eli/cc/2013/114)
-[^2-38]: Introdotto dal n. I dell’O del 26 ago. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3121](https://fedlex.data.admin.ch/eli/oc/2015/582)).
-[^2-39]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
-[^2-40]: Introdotto dal n. III dell’O del 14 ott. 2015, in vigore dal 16 nov. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
-[^2-41]: Introdotto dal n. II dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
-[^2-42]: [RS 817.023.31](https://fedlex.data.admin.ch/eli/cc/2017/165)
+[^2-7]: Abrogato dall’all. 2 cifra II n. 12 dell’O del 15 set. 2017 sull’alcol, con effetto dal 1° gen. 2018 ([RU 2017 5161](https://fedlex.data.admin.ch/eli/oc/2017/568)).
+[^2-8]: Abrogati dall’all. 4 cifra II n. 8 dell’O del 28 ago. 2024 sui prodotti del tabacco, con effetto dal 1° ott. 2024 ([RU 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491), [509](https://fedlex.data.admin.ch/eli/oc/2024/509)).
+[^2-9]: Abrogato dalla cifra I dell’O del 16 nov. 2011, con effetto dal 1° gen. 2012 ([RU 2011 5821](https://fedlex.data.admin.ch/eli/oc/2011/804)).
+[^2-10]: [RS 916.51](https://fedlex.data.admin.ch/eli/cc/2003/738)
+[^2-11]: Nuovo testo giusta la cifra I dell’O del 12 apr. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2631](https://fedlex.data.admin.ch/eli/oc/2017/253)).
+[^2-12]: [RS 817.022.16](https://fedlex.data.admin.ch/eli/cc/2017/158)
+[^2-13]: Nuovo testo giusta l’all. n. 3 dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
+[^2-14]: «Organismi geneticamente modificati»
+[^2-15]: [RS 817.02](https://fedlex.data.admin.ch/eli/cc/2017/63)
+[^2-16]: Nuovo testo giusta l’all. n. 3 dell’O del 27 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2229](https://fedlex.data.admin.ch/eli/oc/2020/442)).
+[^2-17]: Abrogato dalla cifra I dell’O del 12 apr. 2017, con effetto dal 1° mag. 2017 ([RU 2017 2631](https://fedlex.data.admin.ch/eli/oc/2017/253)).
+[^2-18]: Abrogato dalla cifra I dell’O del 12 apr. 2017, con effetto dal 1° mag. 2017 ([RU 2017 2631](https://fedlex.data.admin.ch/eli/oc/2017/253)).
+[^2-19]: [RS 742.101](https://fedlex.data.admin.ch/eli/cc/1958/335_341_347)
+[^2-20]: [RS 742.141.1](https://fedlex.data.admin.ch/eli/cc/1983/1902_1902_1902)
+[^2-21]: [RS 742.141.11](https://fedlex.data.admin.ch/eli/cc/2024/240)
+[^2-22]: [RS 734.0](https://fedlex.data.admin.ch/eli/cc/19/259_252_257)
+[^2-23]: [[RU 1995 1024](https://fedlex.data.admin.ch/eli/oc/1995/1024_1024_1024); [1997 1008](https://fedlex.data.admin.ch/eli/oc/1997/1008_1008_1008)all. n. 5, [1016](https://fedlex.data.admin.ch/eli/oc/1997/1016_1016_1016)all. 5; [1998 54](https://fedlex.data.admin.ch/eli/oc/1998/54_54_54)all. n. 6; [2000 741](https://fedlex.data.admin.ch/eli/oc/2000/124)art. 10 n. 1, [762](https://fedlex.data.admin.ch/eli/oc/2000/127)cifra II n. 5; [2009 6243](https://fedlex.data.admin.ch/eli/oc/2009/763)all. 3 n. 6. [RU 2011 6233](https://fedlex.data.admin.ch/eli/oc/2011/874)all. 2 n. I]
+[^2-24]: Abrogato dalla cifra III dell’O dell’11 apr. 2018, con effetto dal 1° gen. 2022 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^2-25]: [RS 941.31](https://fedlex.data.admin.ch/eli/cc/50/345_357_401)
+[^2-26]: Nuovo testo giusta le cifre III e IV dell’O del 24 mag. 2023, in vigore dal 1° apr. 2024 ([RU 2023 280](https://fedlex.data.admin.ch/eli/oc/2023/280)).
+[^2-27]: [RS 730.02](https://fedlex.data.admin.ch/eli/cc/2017/765)
+[^2-28]: Abrogato dalla cifra I dell’O del 29 mar. 2023, con effetto dal 1° mar. 2024 ([RU 2023 179](https://fedlex.data.admin.ch/eli/oc/2023/179)).
+[^2-29]: Introdotto dall’art. 10 dell’O del 4 giu. 2010 sulla dichiarazione concernente il legno e i prodotti del legno, in vigore dal 1° ott. 2010 ([RU 2010 2873](https://fedlex.data.admin.ch/eli/oc/2010/379)).
+[^2-30]: [RS 944.021](https://fedlex.data.admin.ch/eli/cc/2010/379)
+[^2-31]: Introdotto dalla cifra I n. 4 dell’O del 29 giu. 2011 concernente adeguamenti di ordinanze nel settore ambientale ([RU 2011 3379](https://fedlex.data.admin.ch/eli/oc/2011/454)). Abrogato dalla cifra III dell’O dell’11 apr. 2018, con effetto dal 1° gen. 2023 ([RU 2018 1687](https://fedlex.data.admin.ch/eli/oc/2018/252)).
+[^2-32]: Introdotto dall’art. 13 dell’O del 7 dic. 2012 sulla dichiarazione delle pellicce ([RU 2013 579](https://fedlex.data.admin.ch/eli/oc/2013/114)). Nuovo testo giusta la cifra II dell’O del 19 feb. 2020, in vigore dal 1° apr. 2020 ([RU 2020 611](https://fedlex.data.admin.ch/eli/oc/2020/113)).
+[^2-33]: [RS 944.022](https://fedlex.data.admin.ch/eli/cc/2013/114)
+[^2-34]: Introdotto dalla cifra I dell’O del 26 ago. 2015, in vigore dal 1° ott. 2015 ([RU 2015 3121](https://fedlex.data.admin.ch/eli/oc/2015/582)).
+[^2-35]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
+[^2-36]: Introdotto dalla cifra III dell’O del 14 ott. 2015, in vigore dal 16 nov. 2015 ([RU 2015 4171](https://fedlex.data.admin.ch/eli/oc/2015/699)).
+[^2-37]: Introdotto dalla cifra II dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)). Correzione del 19 set. 2024 ([RU 2024 509](https://fedlex.data.admin.ch/eli/oc/2024/509)).
+[^2-38]: [RS 817.023.31](https://fedlex.data.admin.ch/eli/cc/2017/165)
+[^2-39]: Introdotto dall’all. 4 cifra II n. 8 dell’O del 28 ago. 2024 sui prodotti del tabacco, in vigore dal 1° ott. 2024 ([RU 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491), [509](https://fedlex.data.admin.ch/eli/oc/2024/509)).
+[^2-40]: [RS 641.31](https://fedlex.data.admin.ch/eli/cc/1969/645_665_663)
+[^2-41]: [RS 641.311](https://fedlex.data.admin.ch/eli/cc/2009/677)
+[^2-42]: Introdotto dall’all. 4 cifra II n. 8 dell’O del 28 ago. 2024 sui prodotti del tabacco, in vigore dal 1° ott. 2024 ([RU 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491), [509](https://fedlex.data.admin.ch/eli/oc/2024/509)).
+[^2-43]: [RS 818.32](https://fedlex.data.admin.ch/eli/cc/2024/457)
+[^2-44]: Introdotto dall’all. 4 cifra II n. 8 dell’O del 28 ago. 2024 sui prodotti del tabacco, in vigore dal 1° ott. 2024 ([RU 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491), [509](https://fedlex.data.admin.ch/eli/oc/2024/509)).
+[^2-45]: [RS 818.321](https://fedlex.data.admin.ch/eli/cc/2024/491)
 
 #### Art. 3
 
@@ -239,7 +244,7 @@ Se una derrata alimentare è fabbricata in Svizzera conformemente a prescrizioni
 - a. se le prescrizioni tecniche sono armonizzate nell’UE: «Prodotto in Svizzera secondo le prescrizioni tecniche dell’UE»;
 - b. se le prescrizioni tecniche non sono armonizzate nell’UE o non lo sono completamente: «Prodotto in Svizzera secondo le prescrizioni tecniche *[nome dello Stato membro dell’UE o dello SEE]*» (p. es. «Prodotto in Svizzera secondo le prescrizioni tecniche del Belgio»).
 
-[^6a-1]: Introdotto dal n. I dell’O del 29 giu. 2016, in vigore dal 1° gen. 2017 ([RU 2016 2701](https://fedlex.data.admin.ch/eli/oc/2016/433)).
+[^6a-1]: Introdotto dalla cifra I dell’O del 29 giu. 2016, in vigore dal 1° gen. 2017 ([RU 2016 2701](https://fedlex.data.admin.ch/eli/oc/2016/433)).
 
 #### Art. 7
 
@@ -312,9 +317,9 @@ Ai produttori in Svizzera non è rilasciata un’autorizzazione secondo l’arti
 - b.[^10a-3] vini sottostanti all’ordinanza del DFI del 16 dicembre 2016[^10a-4] sulle bevande;
 - c. prodotti e derrate alimentari, recanti una designazione conformemente all’ordinanza del 22 settembre 1997[^10a-5] sull’agricoltura biologica.
 
-[^10a-1]: Introdotto dal n. I dell’O del 16 nov. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5821](https://fedlex.data.admin.ch/eli/oc/2011/804)).
+[^10a-1]: Introdotto dalla cifra I dell’O del 16 nov. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5821](https://fedlex.data.admin.ch/eli/oc/2011/804)).
 [^10a-2]: [RS 910.19](https://fedlex.data.admin.ch/eli/cc/2011/340)
-[^10a-3]: Nuovo testo giusta il n. I dell’O del 12 apr. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2631](https://fedlex.data.admin.ch/eli/oc/2017/253)).
+[^10a-3]: Nuovo testo giusta la cifra I dell’O del 12 apr. 2017, in vigore dal 1° mag. 2017 ([RU 2017 2631](https://fedlex.data.admin.ch/eli/oc/2017/253)).
 [^10a-4]: [RS 817.022.12](https://fedlex.data.admin.ch/eli/cc/2017/220)
 [^10a-5]: [RS 910.18](https://fedlex.data.admin.ch/eli/cc/1997/2498_2498_2498)
 
@@ -428,15 +433,15 @@ La modifica del diritto vigente è disciplinata nell’allegato.
 
 <sup>4</sup> I cosmetici che non soddisfano i requisiti di cui all’articolo 6 capoverso 1 dell’ordinanza del DFI del 16 dicembre 2016[^19-8] sui cosmetici possono essere importati, fabbricati e caratterizzati secondo il diritto anteriore sino al 31 dicembre 2025 ed essere consegnati ai consumatori fino a esaurimento delle scorte.[^19-9]
 
-[^19-1]: Introdotto n. III dell’O del 13 ott. 2010, in vigore dal 1° nov. 2010 ([RU 2010 4611](https://fedlex.data.admin.ch/eli/oc/2010/668)).
-[^19-2]: Introdotto dal n. I dell’O del 16 nov. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5821](https://fedlex.data.admin.ch/eli/oc/2011/804)).
-[^19-3]: Introdotto dal n. II dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6809](https://fedlex.data.admin.ch/eli/oc/2012/824)).
-[^19-4]: Introdotto dal n. III dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3669](https://fedlex.data.admin.ch/eli/oc/2013/684)).
-[^19-5]: Introdotto dal n. I dell’O del 29 giu. 2016, in vigore dal 1° gen. 2016 ([RU 2016 2701](https://fedlex.data.admin.ch/eli/oc/2016/433)).
+[^19-1]: Introdotto dalla cifra III dell’O del 13 ott. 2010, in vigore dal 1° nov. 2010 ([RU 2010 4611](https://fedlex.data.admin.ch/eli/oc/2010/668)).
+[^19-2]: Introdotto dalla cifra I dell’O del 16 nov. 2011, in vigore dal 1° gen. 2012 ([RU 2011 5821](https://fedlex.data.admin.ch/eli/oc/2011/804)).
+[^19-3]: Introdotto dalla cifra II dell’O del 30 nov. 2012, in vigore dal 1° gen. 2013 ([RU 2012 6809](https://fedlex.data.admin.ch/eli/oc/2012/824)).
+[^19-4]: Introdotto dalla cifra III dell’O del 23 ott. 2013, in vigore dal 1° gen. 2014 ([RU 2013 3669](https://fedlex.data.admin.ch/eli/oc/2013/684)).
+[^19-5]: Introdotto dalla cifra I dell’O del 29 giu. 2016, in vigore dal 1° gen. 2016 ([RU 2016 2701](https://fedlex.data.admin.ch/eli/oc/2016/433)).
 [^19-6]: [RS 730.01](https://fedlex.data.admin.ch/eli/cc/2017/763)
-[^19-7]: Introdotto dal n. I dell’O del 16 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4421](https://fedlex.data.admin.ch/eli/oc/2016/727)).
+[^19-7]: Introdotto dalla cifra I dell’O del 16 nov. 2016, in vigore dal 1° gen. 2017 ([RU 2016 4421](https://fedlex.data.admin.ch/eli/oc/2016/727)).
 [^19-8]: [RS 817.023.31](https://fedlex.data.admin.ch/eli/cc/2017/165)
-[^19-9]: Introdotto dal n. II dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
+[^19-9]: Introdotto dalla cifra II dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2024 9](https://fedlex.data.admin.ch/eli/oc/2024/9)).
 
 #### Art. 20
 
