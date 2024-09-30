@@ -4,11 +4,11 @@ title: Bundesgesetz vom 19. Juni 2015 über das elektronische Patientendossier (
 short: EPDG
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/203"
 language: de
-version: 2022-01-01
+version: 2024-10-01
 adopted: 2015-06-19
 in_force: 2017-04-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/203/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-203-20220101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/203/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/203/20241001/de/xml/fedlex-data-admin-ch-eli-cc-2017-203-20241001-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/203/20241001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,16 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/203/20220101/de"
 
 (EPDG)
 
-vom 19. Juni 2015 (Stand am 1. Januar 2022)
+vom 19. Juni 2015 (Stand am 1. Oktober 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
-gestützt auf die Artikel 95 Absatz 1 und 122 Absatz 1 der Bundesverfassung[^ingress-1], nach Einsicht in die Botschaft des Bundesrats vom 29. Mai 2013[^ingress-2],
+gestützt auf die Artikel 95 Absatz 1, 117 Absatz 1 und 122 Absatz 1 der Bundesverfassung[^ingress-1],[^ingress-2] nach Einsicht in die Botschaft des Bundesrats vom 29. Mai 2013[^ingress-3],
 
 beschliesst:
 
 [^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: [BBl 2013 5321](https://fedlex.data.admin.ch/eli/fga/2013/989)
+[^ingress-2]: Fassung gemäss Ziff. I des BG vom 15. März 2024 (Übergangsfinanzierung, Einwilligung und Zugriff auf Abfragedienste), in Kraft seit 1. Okt. 2024 ([AS 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [BBl 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
+[^ingress-3]: [BBl 2013 5321](https://fedlex.data.admin.ch/eli/fga/2013/989)
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -38,9 +39,11 @@ beschliesst:
 
 <sup>2</sup> Es legt die Massnahmen fest, die die Einführung, Verbreitung und Weiterentwicklung des elektronischen Patientendossiers unterstützen.
 
-<sup>3</sup> Mit dem elektronischen Patientendossier sollen die Qualität der medizinischen Behandlung gestärkt, die Behandlungsprozesse verbessert, die Patientensicherheit erhöht und die Effizienz des Gesundheitssystems gesteigert sowie die Gesundheitskompetenz der Patientinnen und Patienten gefördert werden.
+<sup>3</sup> Mit dem elektronischen Patientendossier sollen die Qualität der medizinischen Behandlung gestärkt, die Behandlungsprozesse verbessert, die Patientensicherheit erhöht und die Effizienz des Gesundheitssystems gesteigert sowie die Gesundheitskompetenz der Patientinnen und Patienten gefördert werden. Das elektronische Patientendossier soll damit auch zu einer qualitativ hochstehenden Gesundheitsversorgung sowie zur Kosteneindämmung im Bereich der Krankenversicherung beitragen.[^1-1]
 
 <sup>4</sup> Die Haftung der Gemeinschaften, der Stammgemeinschaften, der Portale für den Zugang der Patientinnen und Patienten zu ihren Daten (Zugangsportale), der Herausgeber von Identifikationsmitteln, der Gesundheitsfachpersonen sowie der Patientinnen und Patienten richtet sich nach den auf sie anwendbaren Vorschriften.
+
+[^1-1]: Zweiter Satz eingefügt durch Ziff. I des BG vom 15. März 2024 (Übergangsfinanzierung, Einwilligung und Zugriff auf Abfragedienste), in Kraft seit 1. Okt. 2024 ([AS 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [BBl 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
 
 #### Art. 2
 
@@ -56,17 +59,30 @@ In diesem Gesetz gelten als:
 
 ## 2. Abschnitt: Erstellung eines elektronischen Patientendossiers
 
+#### Art. 2a
+
+**Wahl der Stammgemeinschaft**[^2a-1]
+
+Die Patientin oder der Patient kann das elektronische Patientendossier bei einer Stammgemeinschaft ihrer oder seiner Wahl erstellen.
+
+[^2a-1]: Eingefügt durch Ziff. I des BG vom 15. März 2024 (Übergangsfinanzierung, Einwilligung und Zugriff auf Abfragedienste), in Kraft seit 1. Okt. 2024 ([AS 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [BBl 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
+
 #### Art. 3
 
 **Einwilligung**
 
-<sup>1</sup> Für die Erstellung eines elektronischen Patientendossiers ist die schriftliche Einwilligung der Patientin oder des Patienten erforderlich. Die Einwilligung ist nur gültig, sofern die betroffene Person sie nach angemessener Information über die Art und Weise der Datenbearbeitung und deren Auswirkungen freiwillig erteilt.
+<sup>1</sup> Für die Erstellung eines elektronischen Patientendossiers ist die ausdrückliche Einwilligung der Patientin oder des Patienten erforderlich. Die Einwilligung ist nur gültig, sofern die betroffene Person sie nach angemessener Information über die Art und Weise der Datenbearbeitung und deren Auswirkungen freiwillig erteilt. Der Bundesrat regelt die Modalitäten der Einwilligung.[^3-1]
+
+<sup>1bis</sup> Die Stammgemeinschaften müssen die Einwilligung der Patientin oder des Patienten jederzeit nachweisen können.[^3-2]
 
 <sup>2</sup> Liegt die Einwilligung vor, so wird im Behandlungsfall vermutet, dass die betroffene Person damit einverstanden ist, dass die Gesundheitsfachpersonen Daten im elektronischen Patientendossier erfassen. Gesundheitsfachpersonen öffentlich-rechtlicher Einrichtungen sowie von Einrichtungen, denen von einem Kanton oder einer Gemeinde die Erfüllung einer öffentlichen Aufgabe übertragen wurde, sind in diesem Fall berechtigt, Daten im elektronischen Patientendossier zu erfassen und zu bearbeiten.
 
 <sup>3</sup> Die Patientin oder der Patient kann die Einwilligung jederzeit ohne Angabe von Gründen widerrufen.
 
 <sup>4</sup> Sie oder er kann nicht dazu verpflichtet werden, Daten aus ihrem oder seinem elektronischen Patientendossier zugänglich zu machen.
+
+[^3-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024 (Übergangsfinanzierung, Einwilligung und Zugriff auf Abfragedienste), in Kraft seit 1. Okt. 2024 ([AS 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [BBl 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
+[^3-2]: Eingefügt durch Ziff. I des BG vom 15. März 2024 (Übergangsfinanzierung, Einwilligung und Zugriff auf Abfragedienste), in Kraft seit 1. Okt. 2024 ([AS 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [BBl 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
 
 #### Art. 4
 
@@ -266,6 +282,38 @@ Der Bundesrat kann internationale Vereinbarungen abschliessen über die Teilnahm
 
 #### Art. 20–23
 
+## 7*a*. Abschnitt: Übergangsfinanzierung
+
+[^sec7a-1]
+
+[^sec7a-1]: Eingefügt durch Ziff. I des BG vom 15. März 2024 (Übergangsfinanzierung, Einwilligung und Zugriff auf Abfragedienste), in Kraft vom 1. Okt. 2024 bis zum 30. Sept. 2029 ([AS 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [BBl 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
+
+#### Art. 23a
+
+**Grundsätze**
+
+<sup>1</sup> Der Bund kann Stammgemeinschaften Finanzhilfen für die Sicherstellung der Finanzierung des Betriebs und der Weiterentwicklung des elektronischen Patientendossiers gewähren.
+
+<sup>2</sup> Die Finanzhilfen werden in Form eines festen Betrags pro eröffnetes Patientendossier ausgerichtet. Der Bundesrat legt dessen Höhe fest.
+
+<sup>3</sup> Die Finanzhilfen werden nur gewährt, wenn sich die Kantone in mindestens gleichem Umfang wie der Bund an den jährlichen Kosten der Stammgemeinschaft für den Betrieb und die Weiterentwicklung des elektronischen Patientendossiers beteiligen. Die Beteiligung der Kantone muss vor der Einreichung der Gesuche um Finanzhilfen durch die Stammgemeinschaften erfolgt sein.
+
+<sup>4</sup> Können für den Betrieb und die Weiterentwicklung des elektronischen Patientendossiers auch andere Bundessubventionen beansprucht werden, so dürfen die gesamten Bundesmittel höchstens die Hälfte der entsprechenden Kosten betragen.
+
+#### Art. 23b
+
+**Höchstbetrag**
+
+Die Bundesversammlung legt mit einem Zahlungsrahmen den Höchstbetrag fest, bis zu dem der Bund Finanzhilfen gewähren darf.
+
+#### Art. 23c
+
+**Verfahren**
+
+<sup>1</sup> Gesuche um Finanzhilfen sind beim BAG einzureichen.
+
+<sup>2</sup> Das BAG gewährt Finanzhilfen mittels Verfügung.
+
 ## 8. Abschnitt: Strafbestimmungen
 
 #### Art. 24
@@ -278,11 +326,21 @@ Der Bundesrat kann internationale Vereinbarungen abschliessen über die Teilnahm
 
 ## 9. Abschnitt: Schlussbestimmungen
 
+#### Art. 24a
+
+**Vollzug**[^24a-1]
+
+<sup>1</sup> Der Bundesrat vollzieht dieses Gesetz.
+
+<sup>2</sup> Er erlässt die Ausführungsbestimmungen.
+
+[^24a-1]: Eingefügt durch Ziff. I des BG vom 15. März 2024 (Übergangsfinanzierung, Einwilligung und Zugriff auf Abfragedienste), in Kraft seit 1. Okt. 2024 ([AS 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [BBl 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
+
 #### Art. 25
 
 **Änderung eines anderen Erlasses**
 
-...[^25-1]
+…[^25-1]
 
 [^25-1]: Die Änderung kann unter [AS 2017 2201](https://fedlex.data.admin.ch/eli/oc/2017/203)konsultiert werden.
 
@@ -291,6 +349,16 @@ Der Bundesrat kann internationale Vereinbarungen abschliessen über die Teilnahm
 **Übergangsbestimmung**
 
 Die Artikel 20–23 bleiben auf die während ihrer Geltungsdauer nach Artikel 27 Absatz 3 eingereichten Gesuche anwendbar.
+
+#### Art. 26a
+
+**Übergangsbestimmungen zur Änderung vom 15. März 2024**[^26a-1]
+
+<sup>1</sup> Die Finanzhilfen nach dem 7*a*. Abschnitt werden auch für elektronische Patientendossiers gewährt, die vor dem Inkrafttreten der Änderung vom 15. März 2024 eröffnet wurden.
+
+<sup>2</sup> Im ersten Jahr nach Inkrafttreten dieser Änderung genügt in Abweichung von Artikel 23*a* Absatz 3 zweiter Satz eine Zusicherung der Beteiligung der Kantone.
+
+[^26a-1]: Eingefügt durch Ziff. I des BG vom 15. März 2024 (Übergangsfinanzierung, Einwilligung und Zugriff auf Abfragedienste), in Kraft seit 1. Okt. 2024 ([AS 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [BBl 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
 
 #### Art. 27
 

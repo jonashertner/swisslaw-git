@@ -4,11 +4,11 @@ title: Loi fédérale du 19 juin 2015 sur le dossier électronique du patient (L
 short: LDEP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/203"
 language: fr
-version: 2022-01-01
+version: 2024-10-01
 adopted: 2015-06-19
 in_force: 2017-04-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/203/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-203-20220101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/203/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/203/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-2017-203-20241001-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/203/20241001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,18 +17,19 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/203/20220101/fr"
 
 (LDEP)[^t-1]
 
-du 19 juin 2015 (État le 1<sup>er</sup> janvier 2022)
+du 19 juin 2015 (État le 1<sup>er</sup> octobre 2024)
 
 [^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
 L’Assemblée fédérale de la Confédération suisse,
 
-vu les art. 95, al. 1, et 122, al. 1, de la Constitution[^ingress-1], vu le message du Conseil fédéral du 29 mai 2013[^ingress-2],
+vu les art. 95, al. 1, 117, al. 1, et 122, al. 1, de la Constitution[^ingress-1],[^ingress-2] vu le message du Conseil fédéral du 29 mai 2013[^ingress-3],
 
 arrête:
 
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: [FF 2013 4747](https://fedlex.data.admin.ch/eli/fga/2013/989)
+[^ingress-2]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024 (Financement transitoire, consentement et accès aux services de recherche de données), en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [FF 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
+[^ingress-3]: [FF 2013 4747](https://fedlex.data.admin.ch/eli/fga/2013/989)
 
 ## Section 1 Dispositions générales
 
@@ -40,9 +41,11 @@ arrête:
 
 <sup>2</sup> Elle détermine les mesures qui soutiennent l’introduction, la diffusion et le développement du dossier électronique du patient.
 
-<sup>3</sup> Le dossier électronique du patient vise à améliorer la qualité de la prise en charge médicale et des processus thérapeutiques, à augmenter la sécurité des patients, à accroître l’efficacité du système de santé ainsi qu’à encourager le développement des compétences des patients en matière de santé.
+<sup>3</sup> Le dossier électronique du patient vise à améliorer la qualité de la prise en charge médicale et des processus thérapeutiques, à augmenter la sécurité des patients, à accroître l’efficacité du système de santé ainsi qu’à encourager le développement des compétences des patients en matière de santé. Il doit par là même contribuer à assurer des prestations de santé de qualité et à maîtriser les coûts dans le domaine de l’assurance maladie.[^1-1]
 
 <sup>4</sup> La responsabilité des communautés, des communautés de référence, des portails permettant aux patients d’accéder à leurs données (portails d’accès), des éditeurs de moyens d’identification, des professionnels de la santé ainsi que des patients est régie par les dispositions qui leur sont applicables.
+
+[^1-1]: Phrase introduite par le ch. I de la LF du 15 mars 2024 (Financement transitoire, consentement et accès aux services de recherche de données), en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [FF 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
 
 #### Art. 2
 
@@ -58,17 +61,30 @@ On entend par:
 
 ## Section 2 Constitution du dossier électronique
 
+#### Art. 2a
+
+**Choix de la communauté de référence**[^2a-1]
+
+Le patient peut constituer le dossier électronique auprès de la communauté de référence de son choix.
+
+[^2a-1]: Introduit par le ch. I de la LF du 15 mars 2024 (Financement transitoire, consentement et accès aux services de recherche de données), en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [FF 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
+
 #### Art. 3
 
 **Consentement**
 
-<sup>1</sup> La constitution d’un dossier électronique requiert le consentement écrit du patient. Le patient ne consent valablement que s’il exprime sa volonté librement et après avoir été dûment informé sur la manière dont les données sont traitées et sur les conséquences qui en résultent.
+<sup>1</sup> La constitution d’un dossier électronique requiert le consentement explicite du patient. Ce consentement n’est valable que si la personne concernée le donne de son plein gré après avoir été dûment informée sur la manière dont les données sont traitées et sur les conséquences qui en résultent. Le Conseil fédéral règle les modalités du consentement.[^3-1]
+
+<sup>1bis</sup> Les communautés de référence doivent en tout temps être en mesure de prouver le consentement du patient.[^3-2]
 
 <sup>2</sup> Le patient qui a donné son consentement à la constitution d’un dossier électronique est présumé accepter que les professionnels de la santé y saisissent des données en cas de traitement médical. Les professionnels de la santé travaillant pour des institutions de droit public ou pour des institutions qui assument une tâche publique qui leur a été confiée par un canton ou une commune sont, dans ce cas, autorisés à saisir et à traiter des données dans le dossier électronique du patient.
 
 <sup>3</sup> Le patient peut révoquer son consentement en tout temps et sans motif.
 
 <sup>4</sup> Il ne peut être contraint de rendre accessibles des données de son dossier électronique.
+
+[^3-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024 (Financement transitoire, consentement et accès aux services de recherche de données), en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [FF 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
+[^3-2]: Introduit par le ch. I de la LF du 15 mars 2024 (Financement transitoire, consentement et accès aux services de recherche de données), en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [FF 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
 
 #### Art. 4
 
@@ -268,6 +284,38 @@ Le Conseil fédéral peut conclure des accords internationaux prévoyant la part
 
 #### Art. 20 à 23
 
+## Section 7*a* Financement transitoire
+
+[^sec7a-1]
+
+[^sec7a-1]: Introduite par le ch. I de la LF du 15 mars 2024 (Financement transitoire, consentement et accès aux services de recherche de données), en vigueur du 1<sup>er</sup> oct. 2024 au 30 sept. 2029 ([RO 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [FF 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
+
+#### Art. 23a
+
+**Principes**
+
+<sup>1</sup> La Confédération peut allouer aux communautés de référence des aides financières afin de garantir le financement de l’exploitation et du développement du dossier électronique du patient.
+
+<sup>2</sup> Les aides financières prennent la forme d’un montant fixe par ouverture d’un dossier électronique du patient. Le Conseil fédéral fixe ce montant.
+
+<sup>3</sup> Les aides financières sont allouées uniquement si les cantons participent au moins dans la même mesure que la Confédération aux coûts annuels de la communauté de référence pour l’exploitation et le développement du dossier électronique du patient. La participation des cantons doit être réalisée avant le dépôt des demandes d’aides financières par les communautés de référence.
+
+<sup>4</sup> Lorsque d’autres subventions fédérales peuvent être demandées au même titre, l’ensemble des aides financières allouées par la Confédération ne peut dépasser la moitié des coûts en question.
+
+#### Art. 23b
+
+**Montant maximal**
+
+L’Assemblée fédérale fixe le montant maximal des aides financières de la Confédération en définissant un plafond des dépenses.
+
+#### Art. 23c
+
+**Procédure**
+
+<sup>1</sup> Les demandes d’aides financières doivent être adressées à l’OFSP.
+
+<sup>2</sup> L’OFSP alloue les aides financières par voie de décision.
+
 ## Section 8 Dispositions pénales
 
 #### Art. 24
@@ -279,6 +327,16 @@ Le Conseil fédéral peut conclure des accords internationaux prévoyant la part
 [^24-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 ## Section 9 Dispositions finales
+
+#### Art. 24a
+
+**Exécution**[^24a-1]
+
+<sup>1</sup> Le Conseil fédéral est chargé de l’exécution de la présente loi.
+
+<sup>2</sup> Il édicte les dispositions d’exécution.
+
+[^24a-1]: Introduit par le ch. I de la LF du 15 mars 2024 (Financement transitoire, consentement et accès aux services de recherche de données), en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [FF 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
 
 #### Art. 25
 
@@ -293,6 +351,16 @@ Le Conseil fédéral peut conclure des accords internationaux prévoyant la part
 **Disposition transitoire**
 
 Les art. 20 à 23 demeurent applicables aux demandes d’aide financière déposées pendant la durée de validité fixée à l’art. 27, al. 3.
+
+#### Art. 26a
+
+**Dispositions transitoires relatives à la modification du 15 mars 2024**[^26a-1]
+
+<sup>1</sup> Les aides financières visées à la section 7*a* sont également allouées pour les dossiers électroniques ouverts avant l’entrée en vigueur de la modification du 15 mars 2024.
+
+<sup>2</sup> Durant la première année qui suit l’entrée en vigueur de cette modification, une garantie de la participation des cantons suffit, en dérogation à l’art. 23*a*, al. 3, 2<sup>e</sup> phrase.
+
+[^26a-1]: Introduit par le ch. I de la LF du 15 mars 2024 (Financement transitoire, consentement et accès aux services de recherche de données), en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [FF 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
 
 #### Art. 27
 

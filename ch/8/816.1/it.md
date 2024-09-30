@@ -4,11 +4,11 @@ title: Legge federale del 19 giugno 2015 sulla cartella informatizzata del pazie
 short: LCIP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/203"
 language: it
-version: 2022-01-01
+version: 2024-10-01
 adopted: 2015-06-19
 in_force: 2017-04-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/203/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2017-203-20220101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/203/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/203/20241001/it/xml/fedlex-data-admin-ch-eli-cc-2017-203-20241001-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/203/20241001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,16 +17,17 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/203/20220101/it"
 
 (LCIP)
 
-del 19 giugno 2015 (Stato 1° gennaio 2022)
+del 19 giugno 2015 (Stato 1° ottobre 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
-visti gli articoli 95 capoverso 1 e 122 capoverso 1 della Costituzione federale[^ingress-1]; visto il messaggio del Consiglio federale del 29 maggio 2013[^ingress-2],
+visti gli articoli 95 capoverso 1, 117 capoverso 1 e 122 capoverso 1 della Costituzione federale[^ingress-1];[^ingress-2] visto il messaggio del Consiglio federale del 29 maggio 2013[^ingress-3],
 
 decreta:
 
 [^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: [FF 2013 4559](https://fedlex.data.admin.ch/eli/fga/2013/989)
+[^ingress-2]: Nuovo testo giusta il n. I della LF del 15 mar. 2024 (Finanziamento transitorio, consenso, e accesso ai servizi di ricerca di dati), in vigore dal 1° ott. 2024 ([RU 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [FF 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
+[^ingress-3]: [FF 2013 4559](https://fedlex.data.admin.ch/eli/fga/2013/989)
 
 ## Sezione 1: Disposizioni generali
 
@@ -38,9 +39,11 @@ decreta:
 
 <sup>2</sup> Essa stabilisce le misure atte a sostenere l’introduzione, la diffusione e lo sviluppo della cartella informatizzata del paziente.
 
-<sup>3</sup> La cartella informatizzata del paziente ha lo scopo di migliorare la qualità delle cure mediche e i processi di cura, accrescere la sicurezza dei pazienti, aumentare l’efficienza del sistema sanitario e promuovere l’alfabetizzazione sanitaria.
+<sup>3</sup> La cartella informatizzata del paziente ha lo scopo di migliorare la qualità delle cure mediche e i processi di cura, accrescere la sicurezza dei pazienti, aumentare l’efficienza del sistema sanitario e promuovere l’alfabetizzazione sanitaria. Essa contribuisce in tal modo anche a garantire un’assistenza sanitaria di qualità e a contenere i costi nell’ambito dell’assicurazione malattie.[^1-1]
 
 <sup>4</sup> La responsabilità delle comunità, delle comunità di riferimento, dei portali che consentono ai pazienti di accedere ai propri dati (portali d’accesso), degli emittenti di strumenti di identificazione, dei professionisti della salute e dei pazienti è retta dalle disposizioni loro applicabili.
+
+[^1-1]: Per. introdotto dal n. I della LF del 15 mar. 2024 (Finanziamento transitorio, consenso, e accesso ai servizi di ricerca di dati), in vigore dal 1° ott. 2024 ([RU 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [FF 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
 
 #### Art. 2
 
@@ -56,17 +59,30 @@ Nella presente legge s’intende per:
 
 ## Sezione 2: Costituzione della cartella informatizzata
 
+#### Art. 2a
+
+**Scelta della comunità di riferimento**[^2a-1]
+
+Il paziente può costituire la cartella informatizzata presso una comunità di riferimento di sua scelta.
+
+[^2a-1]: Introdotto dal n. I della LF del 15 mar. 2024 (Finanziamento transitorio, consenso, e accesso ai servizi di ricerca di dati), in vigore dal 1° ott. 2024 ([RU 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [FF 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
+
 #### Art. 3
 
 **Consenso**
 
-<sup>1</sup> La costituzione della cartella informatizzata richiede il consenso scritto del paziente. Il consenso è valido soltanto se espresso liberamente e dopo debita informazione sulle modalità di trattamento dei dati e sulle conseguenze di tale trattamento.
+<sup>1</sup> La costituzione della cartella informatizzata richiede il consenso esplicito del paziente. Il consenso è valido soltanto se espresso liberamente e dopo debita informazione sulle modalità e sulle conseguenze del trattamento dei dati. Il Consiglio federale disciplina le modalità del consenso.[^3-1]
+
+<sup>1bis</sup> Le comunità di riferimento devono poter attestare il consenso del paziente in qualsiasi momento.[^3-2]
 
 <sup>2</sup> Si presume che il paziente che ha acconsentito alla costituzione della cartella informatizzata accetti che i professionisti della salute vi registrino dati in caso di cura. I professionisti della salute di istituti di diritto pubblico o di istituti cui un Cantone o un Comune ha affidato l’esecuzione di un compito pubblico possono in tal caso registrare e trattare dati nella cartella informatizzata.
 
 <sup>3</sup> Il paziente può revocare in ogni tempo il proprio consenso senza indicarne i motivi.
 
 <sup>4</sup> Il paziente non può essere obbligato a rendere accessibili dati contenuti nella propria cartella informatizzata.
+
+[^3-1]: Nuovo testo giusta il n. I della LF del 15 mar. 2024 (Finanziamento transitorio, consenso, e accesso ai servizi di ricerca di dati), in vigore dal 1° ott. 2024 ([RU 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [FF 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
+[^3-2]: Introdotto dal n. I della LF del 15 mar. 2024 (Finanziamento transitorio, consenso, e accesso ai servizi di ricerca di dati), in vigore dal 1° ott. 2024 ([RU 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [FF 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
 
 #### Art. 4
 
@@ -83,7 +99,7 @@ Nella presente legge s’intende per:
 <sup>5</sup> Il Consiglio federale definisce le misure tecniche e organizzative per un’emissione e un’utilizzazione sicure del numero d’identificazione del paziente.
 
 [^4-1]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^4-2]: Nuova espr. giusta l’all. n. 25 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
+[^4-2]: Nuova espressione giusta l’all. n. 25 della LF del 18 dic. 2020 (Utilizzazione sistematica del numero AVS da parte delle autorità), in vigore dal 1° gen. 2022 ([RU 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [FF 2019 6043](https://fedlex.data.admin.ch/eli/fga/2019/2681)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 #### Art. 5
 
@@ -207,7 +223,8 @@ Il Consiglio federale disciplina la procedura di certificazione, segnatamente:
 - b. la durata di validità della certificazione e le condizioni per il suo rinnovo;
 - c. le condizioni per la revoca della certificazione;
 - d. il riconoscimento di procedure di certificazione disciplinate da altre leggi.
-- [tab] <sup>2</sup> Può prevedere procedure di certificazione per singoli elementi dell’infrastruttura informatica necessari alla costituzione di comunità, comunità di riferimento o portali d’accesso.
+
+<sup>2</sup> Può prevedere procedure di certificazione per singoli elementi dell’infrastruttura informatica necessari alla costituzione di comunità, comunità di riferimento o portali d’accesso.
 
 ## Sezione 6: Compiti della Confederazione
 
@@ -265,6 +282,38 @@ Il Consiglio federale può concludere trattati internazionali sulla partecipazio
 
 #### Art. 20 a 23
 
+## Sezione 7*a*: Finanziamento transitorio
+
+[^sec7a-1]
+
+[^sec7a-1]: Introdotta dal n. I della LF del 15 mar. 2024 (Finanziamento transitorio, consenso, e accesso ai servizi di ricerca di dati), in vigore dal 1° ott. 2024 al 30 set. 2029 ([RU 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [FF 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
+
+#### Art. 23a
+
+**Principi**
+
+<sup>1</sup> La Confederazione può concedere alle comunità di riferimento aiuti finanziari per garantire il finanziamento della gestione e dello sviluppo della cartella informatizzata del paziente.
+
+<sup>2</sup> Gli aiuti finanziari sono corrisposti sotto forma di importo fisso per ciascuna cartella aperta. Il Consiglio federale stabilisce l’ammontare di questo importo.
+
+<sup>3</sup> Gli aiuti finanziari sono concessi soltanto se i Cantoni partecipano almeno nella stessa misura della Confederazione ai costi sostenuti annualmente dalla comunità di riferimento per la gestione e lo sviluppo della cartella informatizzata del paziente. La partecipazione dei Cantoni è erogata prima della presentazione delle domande di aiuti finanziari da parte delle comunità di riferimento.
+
+<sup>4</sup> Se per la gestione e lo sviluppo della cartella informatizzata del paziente possono essere richiesti altri sussidi federali, i fondi federali totali possono ammontare al massimo alla metà dei costi corrispondenti.
+
+#### Art. 23b
+
+**Importo massimo**
+
+L’Assemblea federale stabilisce con un limite di spesa l’importo massimo degli aiuti finanziari che la Confederazione può concedere.
+
+#### Art. 23c
+
+**Procedura**
+
+<sup>1</sup> Le domande di aiuti finanziari sono presentate all’UFSP.
+
+<sup>2</sup> L’UFSP concede gli aiuti finanziari mediante decisione.
+
 ## Sezione 8: Disposizioni penali
 
 #### Art. 24
@@ -276,6 +325,16 @@ Il Consiglio federale può concludere trattati internazionali sulla partecipazio
 [^24-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
 
 ## Sezione 9: Disposizioni finali
+
+#### Art. 24a
+
+**Esecuzione**[^24a-1]
+
+<sup>1</sup> Il Consiglio federale esegue la presente legge.
+
+<sup>2</sup> Emana le disposizioni di esecuzione.
+
+[^24a-1]: Introdotto dal n. I della LF del 15 mar. 2024 (Finanziamento transitorio, consenso, e accesso ai servizi di ricerca di dati), in vigore dal 1° ott. 2024 ([RU 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [FF 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
 
 #### Art. 25
 
@@ -290,6 +349,16 @@ Il Consiglio federale può concludere trattati internazionali sulla partecipazio
 **Disposizione transitoria**
 
 Gli articoli 20‒23 restano applicabili alle domande di aiuti finanziari presentate durante la durata di validità stabilita all’articolo 27 capoverso 3.
+
+#### Art. 26a
+
+**Disposizioni transitorie della modifica del 15 marzo 2024**[^26a-1]
+
+<sup>1</sup> Gli aiuti finanziari di cui alla sezione 7*a* sono concessi anche per le cartelle informatizzate del paziente aperte prima dell’entrata in vigore della modifica del 15 marzo 2024.
+
+<sup>2</sup> In deroga all’articolo 23*a* capoverso 3 secondo periodo, nel primo anno dall’entrata in vigore della modifica del 15 marzo 2024 è sufficiente una garanzia della partecipazione dei Cantoni.
+
+[^26a-1]: Introdotto dal n. I della LF del 15 mar. 2024 (Finanziamento transitorio, consenso, e accesso ai servizi di ricerca di dati), in vigore dal 1° ott. 2024 ([RU 2024 458](https://fedlex.data.admin.ch/eli/oc/2024/458); [FF 2023 2181](https://fedlex.data.admin.ch/eli/fga/2023/2181)).
 
 #### Art. 27
 
