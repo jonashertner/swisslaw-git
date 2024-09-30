@@ -4,11 +4,11 @@ title: Federal Act of 24 March 2006 on Radio and Television (RTVA)
 short: RTVA
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/150"
 language: en
-version: 2024-01-01
+version: 2024-10-01
 adopted: 2006-03-24
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/150/20240101/en/xml/fedlex-data-admin-ch-eli-cc-2007-150-20240101-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20240101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/150/20241001/en/xml/fedlex-data-admin-ch-eli-cc-2007-150-20241001-en-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20241001/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (RTVA)
 
-of 24 March 2006 (Status as of 1 January 2024)
+of 24 March 2006 (Status as of 1 October 2024)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -27,7 +27,7 @@ having regard to Articles 71, 92 and 93 of the Federal Constitution (FC)[^ingres
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2003 1569](https://fedlex.data.admin.ch/eli/fga/2003/223)
 
 ## Title 1 Scope and Definitions
@@ -40,7 +40,7 @@ decrees:
 
 <sup>2</sup> Programming of minor editorial importance does not fall under this Act. The Federal Council shall determine the criteria.
 
-[^1-1]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^1-1]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 #### Art. 2
 
@@ -50,7 +50,7 @@ In this Act:
 
 - a. *programme service* means sequence of programmes which are offered continuously, defined in time and transmitted using telecommunications techniques and which are intended for the public;
 - b*.* *programme* means part of a programme service which is self-contained in terms of form and content;
-- c. *editorial programme* means a programme which is not advertising.
+- c. *editorial programme* means a programme which is not advertising;
 - c<sup>bis</sup>.[^2-1] *editorial publication* means an editorial programme in a Swiss broadcaster‘s programme service or a contribution produced by the editorial staff as part of the other journalistic services of the Swiss Broadcasting Corporation (SRG SSR) (Art. 25 para. 3 let. b);
 - d. *broadcaster* means the natural or legal person bearing responsibility for the creation of programmes or for the compilation thereof into a programme service;
 - e. *Swiss programme service* means a programme service which is subject to Swiss sovereignty in accordance with the provisions of the European Convention on Transfrontier Television of 5 May 1989[^2-2]; these provisions also apply, *mutatis mutandis*, to radio programme services;
@@ -63,12 +63,12 @@ In this Act:
 - l. *offer for sale* means advertising which invites the public to directly conclude a transaction concerning the presented goods or services;
 - m. *tele-shopping programme* means a programme which exclusively contains offers for sale and lasts for at least 15 minutes;
 - n. *tele-shopping programme service* means a programme service which consists solely of offers for sale and other advertising;
-- o*.* *sponsorship* means the participation of a natural or legal person in the direct or indirect financing of a programme, with a view to promoting their own name, their own trade mark or their own image.
+- o*.* *sponsorship* means the participation of a natural or legal person in the direct or indirect financing of a programme, with a view to promoting their own name, their own trade mark or their own image;
 - p.[^2-4] *radio and television fee:* the fee in terms of Article 68 paragraph 1.
 
 [^2-1]: Inserted by No I of the Federal Act of 26 Sept. 2014, in force since 1 July 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^2-2]: [SR 0.784.405](https://fedlex.data.admin.ch/eli/cc/1989/1877_1877_1877)
-[^2-3]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^2-2]: [SR 0.784.405](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3385)
+[^2-3]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 [^2-4]: Inserted by No I of the Federal Act of 26 Sept. 2014, in force since 1 July 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 ## Title 2 Broadcasting of Swiss Programme Services
@@ -157,7 +157,7 @@ The Federal Council may require television broadcasters, within a framework of p
 <sup>4</sup> Licensed regional television broadcasters shall subtitle their main information programmes. The Federal Council shall determine the extent of this obligation. The cost of processing programmes for persons hard of hearing is funded in full from the radio and television fee (Art. 68*a*).[^7-4]
 
 [^7-1]: Amended by No I of the Federal Act of 26 Sept. 2014, in force since 1 July 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^7-2]: [SR 443.1](https://fedlex.data.admin.ch/eli/cc/2002/283)
+[^7-2]: [SR 443.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7135)
 [^7-3]: Amended by No II of the FA of 1 Oct. 2021, in force since 1 Jan. 2024 ([AS 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 [^7-4]: Inserted by No I of the Federal Act of 26 Sept. 2014, in force since 1 July 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
@@ -180,7 +180,7 @@ SRG SSR and the broadcasters with a licence under Article 38 paragraph 1 letter 
 
 [^8-1]: Amended by Annex No 6 of the Federal Act of 26 Sept. 2014, in force since 1 Jan. 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 [^8-2]: Amended by Annex No 6 of the Federal Act of 26 Sept. 2014, in force since 1 Jan. 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
-[^8-3]: [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
+[^8-3]: [SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)
 
 ### Section 3 Advertising and Sponsorship
 
@@ -200,9 +200,9 @@ SRG SSR and the broadcasters with a licence under Article 38 paragraph 1 letter 
 
 Advertising for the following is prohibited:
 
-- a. tobacco goods;
-- b.[^10-1] alcoholic beverages which are subject to the Alcohol Act of 21 June 1932[^10-2]; the Federal Council shall impose further restrictions for the protection of health and young people;
-- c.[^10-3] ...
+- a.[^10-1] tobacco products and electronic cigarettes in terms of Article 3 letters a and f of the Tobacco Products Act of 1 October 2021[^10-2] and articles that form a functional unit with a tobacco product;
+- b.[^10-3] alcoholic beverages which are subject to the Alcohol Act of 21 June 1932[^10-4]; the Federal Council shall impose further restrictions for the protection of health and young people;
+- c.[^10-5] ...
 - d. political parties, persons holding political office or candidates for such offices and matters which are the subject of a popular vote;
 - e. religious beliefs and the institutions and persons representing them.
 
@@ -210,26 +210,27 @@ Advertising for the following is prohibited:
 
 The following are prohibited:
 
-- a. advertising for therapeutic products in accordance with the Federal Act of 15 December 2000[^10-4] on Therapeutic Products;
+- a. advertising for therapeutic products in accordance with the Federal Act of 15 December 2000[^10-6] on Therapeutic Products;
 - b. sales offers for therapeutic products and medical treatments.
 
 <sup>3</sup> Surreptitious advertising and subliminal advertising are prohibited.
 
-<sup>4</sup>
+<sup>4</sup> is prohibited.
 
 Advertising which:
 
 - a. disparages religious or political convictions;
 - b. is misleading or unfair;
 - c. encourages behaviour prejudicial to health, the environment or personal safety.
-- [tab] is prohibited.
 
 <sup>5</sup> The Federal Council may prohibit other advertising in order to protect health and young people.
 
-[^10-1]: Amended by No I of the Federal Act of 25 Sept. 2009, in force since 1 Feb. 2010 ([AS 2010 371](https://fedlex.data.admin.ch/eli/oc/2010/41); [BBl 2008 9105](https://fedlex.data.admin.ch/eli/fga/2008/1672)).
-[^10-2]: [SR 680](https://fedlex.data.admin.ch/eli/cc/48/425_437_457)
-[^10-3]: Repealed by No I of the Federal Act of 25 Sept. 2009, with effect from 1 Feb. 2010 ([AS 2010 371](https://fedlex.data.admin.ch/eli/oc/2010/41); [BBl 2008 9105](https://fedlex.data.admin.ch/eli/fga/2008/1672)).
-[^10-4]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^10-1]: Amended by Annex 3 No 1 of the Tobacco Products Act of 1 Oct. 2021, in force since 1 Oct. 2024 ([AS 2024 457](https://fedlex.data.admin.ch/eli/oc/2024/457); [BBl 2019 919](https://fedlex.data.admin.ch/eli/fga/2019/169)).
+[^10-2]: [SR 818.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9831)
+[^10-3]: Amended by No I of the Federal Act of 25 Sept. 2009, in force since 1 Feb. 2010 ([AS 2010 371](https://fedlex.data.admin.ch/eli/oc/2010/41); [BBl 2008 9105](https://fedlex.data.admin.ch/eli/fga/2008/1672)).
+[^10-4]: [SR 680](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8313)
+[^10-5]: Repealed by No I of the Federal Act of 25 Sept. 2009, with effect from 1 Feb. 2010 ([AS 2010 371](https://fedlex.data.admin.ch/eli/oc/2010/41); [BBl 2008 9105](https://fedlex.data.admin.ch/eli/fga/2008/1672)).
+[^10-6]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 
 #### Art. 11
 
@@ -327,7 +328,7 @@ The obligation to provide information also applies to legal and natural persons:
 
 [^17-1]: Amended by No I of the Federal Act of 26 Sept. 2014, in force since 1 July 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 [^17-2]: Inserted by No I of the Federal Act of 26 Sept. 2014, in force since 1 July 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^17-3]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^17-3]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 18
 
@@ -560,7 +561,7 @@ The SRG SSR is mainly financed by radio and television fees. Other sources of fi
 
 [^35-1]: Expression in accordance with No I of the Federal Act of 26 Sept. 2014, in force since 1 July 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)). This amendment has been made throughout the text.
 [^35-2]: Amended by No I of the Federal Act of 26 Sept. 2014, in force since 1 July 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^35-3]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^35-3]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 36
 
@@ -590,7 +591,7 @@ DETEC may carry out audits on the premises of the SRG SSR and the undertakings c
 
 <sup>7</sup> Audits on grounds of pure expediency are not permitted.
 
-[^36-1]: [SR 614.0](https://fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547)
+[^36-1]: [SR 614.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7792)
 
 #### Art. 37
 
@@ -664,7 +665,7 @@ The share of fees for broadcasters receiving a share of fees in terms of Article
 <sup>3</sup> The provisions of the Subsidies Act of 5 October 1990[^40-2] apply.
 
 [^40-1]: Amended by No I of the Federal Act of 26 Sept. 2014, in force since 1 July 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^40-2]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^40-2]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 41
 
@@ -741,7 +742,7 @@ A licence may be awarded if the candidate:
 <sup>4</sup> Licences for wireless terrestrial transmission of programme services are as a rule awarded before the invitation to tender for the corresponding radiocommunication licences in accordance with Article 22*a* TCA[^45-2].[^45-3]
 
 [^45-1]: Inserted by No I of the Federal Act of 26 Sept. 2014, in force since 1 July 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^45-2]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^45-2]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 [^45-3]: Amended by Annex No 6 of the FA of 22 March 2019, in force since 1 Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 46
@@ -817,7 +818,7 @@ The licensee has a claim to compensation if DETEC:
 
 <sup>3</sup> Article 47 TCA[^51-1] concerning communication in extraordinary situations is applicable to broadcasters which transmit their programme services themselves.
 
-[^51-1]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^51-1]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 #### Art. 52
 
@@ -864,7 +865,7 @@ For frequencies or frequency blocks which are used in accordance with the nation
 <sup>3</sup> In accordance with the requirements specified by the Federal Council, DETEC shall ensure that sufficient broadcasting of programme services can be assured to serve the population in extraordinary situations.
 
 [^54-1]: Amended by No I of the Federal Act of 26 Sept. 2014, in force since 1 July 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^54-2]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^54-2]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 #### Art. 55
 
@@ -876,7 +877,7 @@ For frequencies or frequency blocks which are used in accordance with the nation
 
 <sup>3</sup> The Federal Council may extend the transmission obligation to services which are coupled with access-entitled programme services.
 
-[^55-1]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^55-1]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 #### Art. 56
 
@@ -890,7 +891,7 @@ For frequencies or frequency blocks which are used in accordance with the nation
 
 <sup>4</sup> The procedure and the obligation to provide information are based, *mutatis mutandis*, on the provisions of the TCA on the granting of access by dominant providers (Art. 11, 11*a* and 11*b* TCA[^56-1]).[^56-2]
 
-[^56-1]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^56-1]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 [^56-2]: See also Art. 106 No 1 below.
 
 #### Art. 57
@@ -1108,7 +1109,7 @@ The following persons are jointly and severally liable for payment of the househ
 
 <sup>5</sup> If all the adults who belonged to a household at the start of a month leave that household within that month, the household is deemed to be dissolved as of the last day of that month.
 
-[^69a-1]: [SR 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
+[^69a-1]: [SR 431.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6950)
 
 #### Art. 69b
 
@@ -1123,8 +1124,8 @@ The following persons are exempted from the obligation to pay the fee:
 
 <sup>2</sup> Where one member of a private household meets the requirements for an exemption under paragraph 1, all members of the household concerned are exempted from the obligation to pay.
 
-[^69b-1]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^69b-2]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^69b-1]: [SR 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
+[^69b-2]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 
 #### Art. 69c
 
@@ -1161,8 +1162,8 @@ The collection agency may issue administrative rulings:
 
 <sup>4</sup> Each year it shall publish a report on its activities and its annual accounts.
 
-[^69e-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^69e-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^69e-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^69e-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 69f
 
@@ -1176,7 +1177,7 @@ The collection agency may issue administrative rulings:
 
 <sup>4</sup> The collection agency must pass on the data required for collecting and enforcing payment to any successor agency in good time and free of charge. Once the data has been passed on, it must permanently delete the data that it no longer requires.
 
-[^69f-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^69f-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^69f-2]: Second sentence amended by Annex 1 No II 69 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 69g
@@ -1205,9 +1206,9 @@ The collection agency may systematically use the OASI number[^69g-2] in terms of
 
 <sup>6</sup> The Federal Council shall determine the data that the collection agency may obtain in accordance with paragraph 1. It shall regulate the details with regard to volume and format of the data, the regularity of data deliveries and the contributions to cantons and communes in accordance with paragraph 4.
 
-[^69g-1]: [SR 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
+[^69g-1]: [SR 431.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6950)
 [^69g-2]: Term in accordance with Annex No 16 of the FA of 18 Dec. 2020 (Systematic Use of the OASI Number by Authorities), in force since 1 Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
-[^69g-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^69g-3]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ### Section 3 Corporate Fee
 
@@ -1225,8 +1226,8 @@ The collection agency may systematically use the OASI number[^69g-2] in terms of
 
 <sup>5</sup> The amount of the fee is determined by the turnover. The Federal Council shall specify several turnover levels with a separate tariff for each level (tariff categories).
 
-[^70-1]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
-[^70-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^70-1]: [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
+[^70-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^70-3]: Amended by No I of the FA of 18 Dec. 2020 (Undertaking’s obligation to pay), in force since 1 Jan. 2021 ([AS 2021 239](https://fedlex.data.admin.ch/eli/oc/2021/239); [BBl 2020 4485](https://fedlex.data.admin.ch/eli/fga/2020/1026)).
 
 #### Art. 70a
@@ -1257,9 +1258,9 @@ The collection agency may systematically use the OASI number[^69g-2] in terms of
 
 <sup>6</sup> The procedure is governed by the APA[^70b-3].
 
-[^70b-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^70b-2]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
-[^70b-3]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^70b-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^70b-2]: [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
+[^70b-3]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 70c
 
@@ -1277,7 +1278,7 @@ The collection agency may systematically use the OASI number[^69g-2] in terms of
 
 <sup>2</sup> The duty of confidentiality and its exceptions under Article 74 VATA also apply to collecting and enforcing payment of the fee.
 
-[^70d-1]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^70d-1]: [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 
 ### Chapter 3 Fees for Wireless Terrestrial Reception
 
@@ -1324,7 +1325,7 @@ They shall give interested broadcasters:
 
 <sup>3</sup> For broadcasters of Swiss television programme services, the lists drafted by the member states of the European Convention on Transfrontier Television of 5 May 1989[^73-1] are binding in the state concerned with regard to free access.
 
-[^73-1]: [SR 0.784.405](https://fedlex.data.admin.ch/eli/cc/1989/1877_1877_1877)
+[^73-1]: [SR 0.784.405](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3385)
 
 ### Chapter 2 Measures to prevent Risks to the Diversity of Opinion and Programming
 
@@ -1345,7 +1346,7 @@ A risk to diversity of opinion and programming exists if:
 
 <sup>2</sup> DETEC shall consult the Competition Commission to assess the dominant position as defined in Article 4 paragraph 2 of the Cartel Act of 6 October 1995[^74-1]. The Competition Commission shall apply the principles of competition law and may publish its comments.[^74-2]
 
-[^74-1]: [SR 251](https://fedlex.data.admin.ch/eli/cc/1996/546_546_546)
+[^74-1]: [SR 251](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6127)
 [^74-2]: Sentence amended by No I of the Federal Act of 26 Sept. 2014, in force since 1 July 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 #### Art. 75
@@ -1420,7 +1421,7 @@ The Federal Council regulates the requirements and calculation criteria in accor
 
 <sup>3</sup> The Subsidies Act of 5 October 1990[^81-1] applies. Activities in accordance with Articles 78 and 79 shall be separated from any other activities in the accounts of the foundation and of any subsidiary companies.
 
-[^81-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^81-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ## Title 6 Independent Complaints Authority for Radio and Television
 
@@ -1473,7 +1474,7 @@ The Complaints Authority is independent and is not bound by any directives from 
 
 <sup>3</sup> The Complaints Authority has its own secretariat. It regulates the duties in the regulations in accordance with paragraph 2. The conditions of service of the secretariat personnel are governed by the legislation applicable to federal government employees.
 
-[^85-1]: [[AS 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651); [2000 1157](https://fedlex.data.admin.ch/eli/oc/2000/188); [2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819)No II. [AS 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)No II 1]. See now: Art. 8*a* ff. of the Government and Administration Organisation Ordinance of 25 November 1998 ([SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)).
+[^85-1]: [[AS 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651); [2000 1157](https://fedlex.data.admin.ch/eli/oc/2000/188); [2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819)No II. [AS 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)No II 1]. See now: Art. 8*a* ff. of the Government and Administration Organisation Ordinance of 25 November 1998 ([SR 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)).
 
 ## Title 7 Supervision and Legal Remedies
 
@@ -1497,7 +1498,7 @@ The Complaints Authority is independent and is not bound by any directives from 
 
 [^86-1]: Amended by No I of the Federal Act of 26 Sept. 2014, in force since 1 July 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 [^86-2]: Amended by No I of the Federal Act of 26 Sept. 2014, in force since 1 July 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^86-3]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^86-3]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^86-4]: Amended by No I of the Federal Act of 26 Sept. 2014, in force since 1 July 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 [^86-5]: Amended by No I of the Federal Act of 26 Sept. 2014, in force since 1 July 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
@@ -1517,7 +1518,7 @@ The Complaints Authority is independent and is not bound by any directives from 
 
 <sup>2</sup> Data processing is governed by the provisions of the FADP[^88-1] which apply to federal bodies.[^88-2]
 
-[^88-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^88-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^88-2]: Amended by Annex 1 No II 69 of the Data Protection Act of 25 Sept. 2020, in force since 1 Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### Section 2 Measures in the event of Infringements
@@ -1738,7 +1739,7 @@ The Complaints Authority determines whether:
 
 <sup>2</sup> The complainant may be charged the procedural costs for vexatious complaints. APA[^98-1] applies.
 
-[^98-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^98-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ### Chapter 3 Legal Remedies
 
@@ -1795,7 +1796,7 @@ The competent authority charges administrative fees, in particular for:
 
 <sup>2</sup> ...[^102-2]
 
-[^102-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^102-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^102-2]: Repealed by No I of the Federal Act of 26 Sept. 2014, with effect from 1 July 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 ## Title 10 Final Provisions
@@ -1838,7 +1839,7 @@ The repeal and amendment of existing legislation is regulated in the Annex.
 ...
 
 [^106-1]: [AS 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165)
-[^106-2]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^106-2]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 [^106-3]: Text entered above.
 [^106-4]: The amendments may be consulted under [AS 2007 737](https://fedlex.data.admin.ch/eli/oc/2007/150).
 
@@ -1957,7 +1958,7 @@ Wire licences continue to be subject to:
 <sup>3</sup> The obligations of a wire licensee in accordance with paragraph 2 end as soon as transmission by wire of the programme services covered therein (in accordance with Articles 59 and 60) in their area of operation is clarified with legal force, but at the latest after five years.
 
 [^110-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601); [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354); [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)Annex No 4; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)No VIII 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Annex No 2;[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 No 2; [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)No I 3, [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)No I 9, [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)Art. 21 No 3, [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)Art. 2]
-[^110-2]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^110-2]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 #### Art. 111
 
@@ -1966,7 +1967,7 @@ Wire licences continue to be subject to:
 Existing licences for the wireless retransmission of radio and television programme services in accordance with Article 43 RTVA 1991[^111-1] (relay licences) retain their validity until their owner obtains a radio and telecommunications services licence in accordance with Articles 4 ff. or Articles 22 ff. TCA[^111-2] respectively, but at the latest two years after the commencement of the act.
 
 [^111-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601); [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354); [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)Annex No 4; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)No VIII 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Annex No 2;[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 No 2; [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)No I 3, [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)No I 9, [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)Art. 21 No 3; [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)Art. 2]
-[^111-2]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^111-2]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 #### Art. 112
 
@@ -1983,7 +1984,7 @@ The SRG SSR shall implement the organisational structure (Art. 31–33) at the t
 <sup>2</sup> If a case relating to supervisory law has arisen before the commencement of this Act and if a procedure is pending, RTVA 1991 is applicable. If a case continues after the commencement of this Act and if a procedure is pending, the violations which occurred before the commencement of this Act shall be assessed on the basis of RTVA 1991. Application of Article 2 paragraph 2 of the Criminal Code[^113-2] is reserved.
 
 [^113-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601); [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354); [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)Annex No 4; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)No VIII 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Annex No 2;[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 No 2; [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)No I 3, [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)No I 9, [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)Art. 21 No 3; [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)Art. 2]
-[^113-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^113-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 114
 

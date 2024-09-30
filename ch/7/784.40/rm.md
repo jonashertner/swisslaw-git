@@ -4,11 +4,11 @@ title: Lescha federala dals 24 da mars 2006 davart radio e televisiun (LRTV)
 short: LRTV
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/150"
 language: rm
-version: 2024-01-01
+version: 2024-10-01
 adopted: 2006-03-24
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/150/20240101/rm/xml/fedlex-data-admin-ch-eli-cc-2007-150-20240101-rm-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20240101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/150/20241001/rm/xml/fedlex-data-admin-ch-eli-cc-2007-150-20241001-rm-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20241001/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,16 +19,16 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (LRTV)
 
-dals 24 da mars 2006 (versiun dal 1. da schaner 2024)
+dals 24 da mars 2006 (versiun dal 1. d’october 2024)
 
 L’Assamblea federala da la Confederaziun svizra,
 
-sa basond sin ils artitgels 71, 92 e 93 da la Constituziun federala (Cst.)[^ingress-1], suenter avair gì invista da la missiva dal Cussegl federal dals 18 da december 2002[^ingress-2],
+sa basond sin ils artitgels 71, 92 e 93 da la Constituziun federala (Cst.)[^t-1], suenter avair gì invista da la missiva dal Cussegl federal dals 18 da december 2002[^t-2],
 
 concluda:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
-[^ingress-2]: [BBl 2003 1569](https://fedlex.data.admin.ch/eli/fga/2003/223)
+[^t-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
+[^t-2]: [BBl 2003 1569](https://fedlex.data.admin.ch/eli/fga/2003/223)
 
 ## 1. titel Champ d’applicaziun e noziuns
 
@@ -40,7 +40,7 @@ concluda:
 
 <sup>2</sup> A la lescha n’èn betg suttamessas purschidas d’ina pitschna impurtanza publicistica. Il Cussegl federal fixescha ils criteris.
 
-[^1-1]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^1-1]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 #### Art. 2
 
@@ -67,8 +67,8 @@ En questa lescha signifitgan:
 - p.[^2-4] *taxa da radio e televisiun:* la taxa tenor l’artitgel 68 alinea 1.
 
 [^2-1]: Integrà tras la cifra I da la LF dals 26 da sett. 2014, en vigur dapi il 1. da fan. 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^2-2]: [SR 0.784.405](https://fedlex.data.admin.ch/eli/cc/1989/1877_1877_1877)
-[^2-3]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^2-2]: [SR 0.784.405](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3385)
+[^2-3]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 [^2-4]: Integrà tras la cifra I da la LF dals 26 da sett. 2014, en vigur dapi il 1. da fan. 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 ## 2. titel Emissiun da programs svizzers
@@ -157,7 +157,7 @@ Il Cussegl federal po obligar emetturs da televisiun – en il rom da la realisa
 <sup>4</sup> Ils emetturs da televisiun regiunals che han ina concessiun suttituleschan las emissiuns d’infurmaziun principalas. Il Cussegl federal fixescha la dimensiun da questa obligaziun. Ils custs che resultan per preparar las emissiuns per persunas cun impediments d’udida vegnan finanziads cumplainamain tras la taxa da radio e televisiun (art. 68*a*).[^7-4]
 
 [^7-1]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014, en vigur dapi il 1. da fan. 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^7-2]: [SR 443.1](https://fedlex.data.admin.ch/eli/cc/2002/283)
+[^7-2]: [SR 443.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7135)
 [^7-3]: Versiun tenor la cifra II da la LF dal 1. d’oct. 2021, en vigur dapi il 1. da schan. 2024 ([AS 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 [^7-4]: Integrà tras la cifra I da la LF dals 26 da sett. 2014, en vigur dapi il 1. da fan. 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
@@ -180,7 +180,7 @@ La SSR sco er ils emetturs che han ina concessiun sa basond sin l’artitgel 38 
 
 [^8-1]: Versiun tenor la cifra 6 da l’agiunta da la LF dals 26 da sett. 2014, en vigur dapi il 1. da schan. 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 [^8-2]: Versiun tenor la cifra 6 da l’agiunta da la LF dals 26 da sett. 2014, en vigur dapi il 1. da schan. 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
-[^8-3]: [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
+[^8-3]: [SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)
 
 ### 3. secziun Reclama e sponsuradi
 
@@ -200,9 +200,9 @@ La SSR sco er ils emetturs che han ina concessiun sa basond sin l’artitgel 38 
 
 Betg admessa n’è reclama per:
 
-- a. products da tubac;
-- b.[^10-1] bavrondas alcoholicas che suttastattan a la Lescha d’alcohol dals 21 da zercladur 1932[^10-2]; per proteger la sanadad e la giuventetgna decretescha il Cussegl federal ulteriuras restricziuns;
-- c.[^10-3] ...
+- a.[^10-1] products da tubac e cigarettas electronicas tenor l’artitgel 3 literas a ed f da la Lescha dal 1. d’october 2021[^10-2] davart ils products da tubac sco er objects che furman in’unitad funcziunala cun in product da tubac;
+- b.[^10-3] bavrondas alcoholicas che suttastattan a la Lescha d’alcohol dals 21 da zercladur 1932[^10-4]; per proteger la sanadad e la giuventetgna decretescha il Cussegl federal ulteriuras restricziuns;
+- c.[^10-5] ...
 - d. partidas politicas, persunas che occupan uffizis politics u che candideschan per tals sco er temas ch’èn l’object da votaziuns dal pievel;
 - e. confessiuns religiusas e las instituziuns e persunas che las represchentan.
 
@@ -210,7 +210,7 @@ Betg admessa n’è reclama per:
 
 Betg admessas n’èn:
 
-- a. reclama per medicaments a norma da la Lescha dals 15 da december 2000[^10-4] davart ils products terapeutics;
+- a. reclama per medicaments a norma da la Lescha dals 15 da december 2000[^10-6] davart ils products terapeutics;
 - b. offertas da vendita per tut ils medicaments e per tut ils tractaments medicinals.
 
 <sup>3</sup> Betg admessas n’èn reclama clandestina e reclama subliminala.
@@ -225,10 +225,12 @@ Betg admessa n’è reclama che:
 
 <sup>5</sup> Per proteger la sanadad e la giuventetgna po il Cussegl federal declerar sco betg admessas ulteriuras emissiuns da reclama.
 
-[^10-1]: Versiun tenor la cifra I da la LF dals 25 da sett. 2009, en vigur dapi il 1. da favr. 2010 ([AS 2010 371](https://fedlex.data.admin.ch/eli/oc/2010/41); [BBl 2008 9105](https://fedlex.data.admin.ch/eli/fga/2008/1672)).
-[^10-2]: [SR 680](https://fedlex.data.admin.ch/eli/cc/48/425_437_457)
-[^10-3]: Abolì tras la cifra I da la LF dals 25 da sett. 2009, cun effect dapi il 1. da favr. 2010 ([AS 2010 371](https://fedlex.data.admin.ch/eli/oc/2010/41); [BBl 2008 9105](https://fedlex.data.admin.ch/eli/fga/2008/1672)).
-[^10-4]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^10-1]: Versiun tenor la cifra 1 da l’agiunta 3 da la Lescha dal 1. d’oct. 2021 davart ils products da tubac, en vigur dapi il 1. d’oct. 2024 ([AS 2024 457](https://fedlex.data.admin.ch/eli/oc/2024/457); [BBl 2019 919](https://fedlex.data.admin.ch/eli/fga/2019/169)).
+[^10-2]: [SR 818.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9831)
+[^10-3]: Versiun tenor la cifra I da la LF dals 25 da sett. 2009, en vigur dapi il 1. da favr. 2010 ([AS 2010 371](https://fedlex.data.admin.ch/eli/oc/2010/41); [BBl 2008 9105](https://fedlex.data.admin.ch/eli/fga/2008/1672)).
+[^10-4]: [SR 680](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8313)
+[^10-5]: Abolì tras la cifra I da la LF dals 25 da sett. 2009, cun effect dapi il 1. da favr. 2010 ([AS 2010 371](https://fedlex.data.admin.ch/eli/oc/2010/41); [BBl 2008 9105](https://fedlex.data.admin.ch/eli/fga/2008/1672)).
+[^10-6]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 
 #### Art. 11
 
@@ -326,7 +328,7 @@ A l’obligaziun da dar infurmaziuns èn suttamessas er persunas giuridicas e na
 
 [^17-1]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014, en vigur dapi il 1. da fan. 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 [^17-2]: Integrà tras la cifra I da la LF dals 26 da sett. 2014, en vigur dapi il 1. da fan. 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^17-3]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^17-3]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 18
 
@@ -559,7 +561,7 @@ La SSR sa finanziescha en emprima lingia tras las taxas da radio e televisiun. E
 
 [^35-1]: Expressiun tenor la cifra I da la LF dals 26 da sett. 2014, en vigur dapi il 1. da fan. 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)). Questa midada è vegnida resguardada en l’entir decret.
 [^35-2]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014, en vigur dapi il 1. da fan. 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^35-3]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^35-3]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 36
 
@@ -589,7 +591,7 @@ Il DATEC po far verificaziuns al lieu tar la SSR e tar las interpresas controlla
 
 <sup>7</sup> Puras controllas da l’opportunitad n’èn betg admessas.
 
-[^36-1]: [SR 614.0](https://fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547)
+[^36-1]: [SR 614.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7792)
 
 #### Art. 37
 
@@ -663,7 +665,7 @@ Las parts da la taxa per emetturs cun dretg d’ina part da la taxa tenor l’ar
 <sup>3</sup> Applitgablas èn las disposiziuns da la Lescha da subvenziuns dals 5 d’october 1990[^40-2].
 
 [^40-1]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014, en vigur dapi il 1. da fan. 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^40-2]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^40-2]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 41
 
@@ -740,7 +742,7 @@ Ina concessiun po vegnir dada, sch’il petent:
 <sup>4</sup> Concessiuns per programs che vegnan derasads sin via terrestra e senza fil vegnan per regla dadas avant la publicaziun uffiziala da las concessiuns correspundentas da radiocommunicaziun tenor l’artitgel 22*a* LTC[^45-2].[^45-3]
 
 [^45-1]: Integrà tras la cifra I da la LF dals 26 da sett. 2014, en vigur dapi il 1. da fan. 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^45-2]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^45-2]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 [^45-3]: Versiun tenor la cifra 6 da l’agiunta da la LF dals 22 da mars 2019, en vigur dapi il 1. da schan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 46
@@ -816,7 +818,7 @@ Il concessiunari ha il dretg d’ina indemnisaziun, sch’il DATEC:
 
 <sup>3</sup> L’artitgel 47 LTC[^51-1] davart la communicaziun en situaziuns extraordinarias è applitgabel per emetturs che derasan sezs lur programs.
 
-[^51-1]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^51-1]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 #### Art. 52
 
@@ -863,7 +865,7 @@ Per las frequenzas u per ils blocs da frequenzas che vegnan applitgads tenor il 
 <sup>3</sup> Per segirar il provediment da la populaziun en situaziuns extraordinarias procura il DATEC ch’i possia vegnir garantida ina diffusiun suffizienta da programs tenor las prescripziuns dal Cussegl federal.
 
 [^54-1]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014, en vigur dapi il 1. da fan. 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^54-2]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^54-2]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 #### Art. 55
 
@@ -875,7 +877,7 @@ Per las frequenzas u per ils blocs da frequenzas che vegnan applitgads tenor il 
 
 <sup>3</sup> Il Cussegl federal po extender l’obligaziun da diffusiun a servetschs ch’èn cumbinads cun programs cun dretg d’access.
 
-[^55-1]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^55-1]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 #### Art. 56
 
@@ -889,7 +891,7 @@ Per las frequenzas u per ils blocs da frequenzas che vegnan applitgads tenor il 
 
 <sup>4</sup> La procedura e l’obligaziun da dar infurmaziuns sa drizzan confurm al senn tenor las disposiziuns da la LTC[^56-1] davart la concessiun da l’access tras purschiders che domineschan il martgà (art. 11, 11*a* ed 11*b* LTC).[^56-2]
 
-[^56-1]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^56-1]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 [^56-2]: Guardar l’art. 106 cifra 1 qua sutvart.
 
 #### Art. 57
@@ -1107,7 +1109,7 @@ Per la taxa d’ina chasada stattan bunas solidaricamain quellas persunas maiore
 
 <sup>5</sup> Sche tut las persunas maiorennas bandunan entaifer in mais la chasada, a la quala ellas appartegnevan il cumenzament dal mais, vala la chasada sco schliada l’ultim di da quest mais.
 
-[^69a-1]: [SR 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
+[^69a-1]: [SR 431.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6950)
 
 #### Art. 69b
 
@@ -1122,8 +1124,8 @@ Da l’obligaziun da pajar la taxa vegnan dispensadas:
 
 <sup>2</sup> Sch’in commember d’ina chasada privata ademplescha las premissas da dispensaziun tenor l’alinea 1, scroda l’obligaziun da pajar la taxa per tut ils commembers da la chasada respectiva.
 
-[^69b-1]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^69b-2]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^69b-1]: [SR 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
+[^69b-2]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 
 #### Art. 69c
 
@@ -1160,8 +1162,8 @@ L’organ d’incassament po decretar disposiziuns:
 
 <sup>4</sup> El publitgescha mintga onn in rapport davart sia activitad sco er ses quint annual.
 
-[^69e-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^69e-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^69e-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^69e-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 69f
 
@@ -1175,7 +1177,7 @@ L’organ d’incassament po decretar disposiziuns:
 
 <sup>4</sup> L’organ d’incassament sto surdar ad in eventual successur a temp, gratuitamain ed en furma electronica las datas ch’èn necessarias per incassar la taxa. Suenter la surdada sto el destruir las datas che na vegnan betg pli duvradas.
 
-[^69f-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^69f-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^69f-2]: Versiun da la segunda frasa tenor la cifra II 69 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 69g
@@ -1204,9 +1206,9 @@ L’organ d’incassament po duvrar sistematicamain il numer da la AVS[^69g-2] t
 
 <sup>6</sup> Il Cussegl federal determinescha, tge datas che l’organ d’incassament po retrair tenor l’alinea 1. El regla ils detagls davart la dimensiun e l’elavuraziun da las datas, davart la periodicitad da las furniziuns da datas sco er davart las contribuziuns als chantuns ed a las vischnancas tenor l’alinea 4.
 
-[^69g-1]: [SR 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
+[^69g-1]: [SR 431.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6950)
 [^69g-2]: Expressiun tenor la cifra 16 da l’agiunta da la LF dals 18 da dec. 2020 (diever sistematic dal numer da la AVS tras las autoritads), en vigur dapi il 1. da schan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
-[^69g-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^69g-3]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ### 3. secziun Taxa d’interpresas
 
@@ -1224,8 +1226,8 @@ L’organ d’incassament po duvrar sistematicamain il numer da la AVS[^69g-2] t
 
 <sup>5</sup> L’autezza da la taxa sa drizza tenor la svieuta. Il Cussegl federal fixescha plirs stgalims da svieuta cun mintgamai ina tariffa per stgalim (categorias tariffaras).
 
-[^70-1]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
-[^70-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^70-1]: [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
+[^70-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^70-3]: Versiun tenor la cifra I da la LF dals 18 da dec. 2020 (obligaziun da las interpresas da pajar la taxa), en vigur dapi il 1. da schan. 2021 ([AS 2021 239](https://fedlex.data.admin.ch/eli/oc/2021/239); [BBl 2020 4485](https://fedlex.data.admin.ch/eli/fga/2020/1026)).
 
 #### Art. 70a
@@ -1256,9 +1258,9 @@ L’organ d’incassament po duvrar sistematicamain il numer da la AVS[^69g-2] t
 
 <sup>6</sup> La procedura sa drizza tenor la LFPA[^70b-3].
 
-[^70b-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^70b-2]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
-[^70b-3]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^70b-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^70b-2]: [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
+[^70b-3]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 70c
 
@@ -1276,7 +1278,7 @@ L’organ d’incassament po duvrar sistematicamain il numer da la AVS[^69g-2] t
 
 <sup>2</sup> L’obligaziun da secretezza e sias excepziuns tenor l’artitgel 74 LTPV valan er en il rom da l’incassament da la taxa.
 
-[^70d-1]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^70d-1]: [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 
 ### 3. chapitel Taxas d’utilisaziun per la recepziun terrestra senza fil
 
@@ -1323,7 +1325,7 @@ Els dattan als emetturs da programs interessads:
 
 <sup>3</sup> Las glistas che vegnan manadas dals stadis contractants da la Convenziun europeica dals 5 da matg 1989[^73-1] davart la televisiun transcunfinala èn impegnativas per ils emetturs da programs da televisiun svizzers en il stadi respectiv.
 
-[^73-1]: [SR 0.784.405](https://fedlex.data.admin.ch/eli/cc/1989/1877_1877_1877)
+[^73-1]: [SR 0.784.405](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3385)
 
 ### 2. chapitel Mesiras cunter la periclitaziun da la diversitad da las opiniuns e da las purschidas
 
@@ -1344,7 +1346,7 @@ Ina periclitaziun da la diversitad d’opiniun e da purschida datti, sche:
 
 <sup>2</sup> Il DATEC consultescha la Cumissiun da concurrenza per giuditgar, sch’in emettur u ina interpresa ha ina posiziun dominanta sin il martgà en il senn da l’artitgel 4 alinea 2 da la Lescha da cartels dals 6 d’october 1995[^74-1]. La Cumissiun da concurrenza applitgescha ils princips da la legislaziun davart ils cartels e po publitgar sia posiziun.[^74-2]
 
-[^74-1]: [SR 251](https://fedlex.data.admin.ch/eli/cc/1996/546_546_546)
+[^74-1]: [SR 251](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6127)
 [^74-2]: Versiun da la frasa tenor la cifra I da la LF dals 26 da sett. 2014, en vigur dapi il 1. da fan. 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 #### Art. 75
@@ -1419,7 +1421,7 @@ Il Cussegl federal regla las premissas ed ils criteris da calculaziun ch’èn a
 
 <sup>3</sup> La Lescha da subvenziuns dals 5 d’october 1990[^81-1] è applitgabla. Las activitads tenor ils artitgels 78 e 79 ston vegnir separadas d’eventualas autras activitads en la contabilitad da la fundaziun e d’eventualas filialas.
 
-[^81-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^81-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ## 6. titel Autoritad independenta da recurs davart radio e televisiun
 
@@ -1472,7 +1474,7 @@ L’autoritad da recurs è independenta e n’è betg liada a directivas da l’
 
 <sup>3</sup> L’autoritad da recurs ha in agen secretariat. Ella regla las incumbensas da quest secretariat en il reglament tenor l’alinea 2. La relaziun da servetsch dal persunal dal secretariat sa drizza tenor la legislaziun federala dal persunal.
 
-[^85-1]: [[AS 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651), [2000 1157](https://fedlex.data.admin.ch/eli/oc/2000/188), [2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819)cifra II. [AS 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)cifra II 1]. Guardar ussa: ils art. 8*a* ss. da l’O dals 25 da nov. 1998 davart l’organisaziun da la regenza e da l’administraziun ([SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)).
+[^85-1]: [[AS 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651); [2000 1157](https://fedlex.data.admin.ch/eli/oc/2000/188); [2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819)cifra II. [AS 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)cifra II 1]. Guardar ussa: ils art. 8*a* ss. da l’O dals 25 da nov. 1998 davart l’organisaziun da la regenza e da l’administraziun ([SR 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)).
 
 ## 7. titel Surveglianza e protecziun giuridica
 
@@ -1496,7 +1498,7 @@ L’autoritad da recurs è independenta e n’è betg liada a directivas da l’
 
 [^86-1]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014, en vigur dapi il 1. da fan. 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 [^86-2]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014, en vigur dapi il 1. da fan. 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^86-3]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^86-3]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^86-4]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014, en vigur dapi il 1. da fan. 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 [^86-5]: Versiun tenor la cifra I da la LF dals 26 da sett. 2014, en vigur dapi il 1. da fan. 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
@@ -1516,7 +1518,7 @@ L’autoritad da recurs è independenta e n’è betg liada a directivas da l’
 
 <sup>2</sup> L’elavuraziun da datas sa drizza tenor las disposiziuns da la LPD[^88-1] che valan per ils organs federals.[^88-2]
 
-[^88-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^88-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^88-2]: Versiun tenor la cifra II 69 da l’agiunta 1 da la LF dals 25 da sett. 2020 davart la protecziun da datas, en vigur dapi il 1. da sett. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### 2. secziun Mesiras en cas da violaziun dal dretg
@@ -1737,7 +1739,7 @@ L’autoritad da recurs constatescha, sche:
 
 <sup>2</sup> Per recurs da levsenn pon vegnir adossads ils custs da procedura a la persuna recurrenta. La LFPA[^98-1] è applitgabla.
 
-[^98-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^98-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ### 3. chapitel Protecziun giuridica
 
@@ -1794,7 +1796,7 @@ L’autoritad cumpetenta incassescha taxas administrativas en spezial per:
 
 <sup>2</sup> ...[^102-2]
 
-[^102-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^102-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^102-2]: Abolì tras la cifra I da la LF dals 26 da sett. 2014, cun effect dapi il 1. da fan. 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 ## 10. titel Disposiziuns finalas
@@ -1831,7 +1833,7 @@ L’aboliziun e la midada dal dretg vertent vegnan regladas en l’agiunta.
 <sup>1.</sup> Independentamain dal fatg, sche la lescha qua avant maun (LRTV) u sche la midada dals 24 da mars 2006 da la Lescha da telecommunicaziun dals 30 d’avrigl 1997[^106-subdivu1-1] entra en vigur sco emprim, sa cloma – cun l’entrada en vigur da la lescha che entra pli tard en vigur sco er sche omaduas leschas entran en vigur a medem temp – l’artitgel 56 alinea 4 LRTV[^106-subdivu1-2] sco suonda: ...
 
 [^106-1]: [AS 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165)
-[^106-subdivu1-1]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^106-subdivu1-1]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 [^106-subdivu1-2]: Integrà text qua survart.
 
 ### Art. 56 al. 4
@@ -1885,7 +1887,7 @@ Il Cussegl federal po prolungar u – suenter avair tadlà la Cumissiun federala
 <sup>4</sup> La regulaziun transitorica tenor l’alinea 1 finescha quel mument ch’i vegnan dadas las concessiuns cun dretg d’ina part da la taxa tenor ils artitgels 38–42, il pli tard dentant 5 onns suenter l’entrada en vigur da questa lescha.
 
 [^109-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601); [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354); [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)agiunta cifra 4; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra VIII 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)agiunta cifra 2; [2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 cifra 2; [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)cifra I 3, [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)cifra I 9, [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)art. 21 cifra 3; [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)art. 2]
-[^109-2]: [[AS 1997 2903](https://fedlex.data.admin.ch/eli/oc/1997/2903_2903_2903), [2004 4531](https://fedlex.data.admin.ch/eli/oc/2004/687), [2006 4395](https://fedlex.data.admin.ch/eli/oc/2006/666)]
+[^109-2]: [[AS 1997 2903](https://fedlex.data.admin.ch/eli/oc/1997/2903_2903_2903); [2004 4531](https://fedlex.data.admin.ch/eli/oc/2004/687); [2006 4395](https://fedlex.data.admin.ch/eli/oc/2006/666)]
 
 #### Art. 109a
 
@@ -1959,7 +1961,7 @@ Ils concessiunaris da lingias èn suttamess vinavant a:
 <sup>3</sup> Las obligaziuns d’in concessiunari da lingias tenor l’alinea 2 fineschan, uschespert che la diffusiun dals programs registrads là sur lingias (tenor ils art. 59 e 60) en la zona dal concessiunari è sclerida cun vigur legala, il pli tard dentant suenter 5 onns.
 
 [^110-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601); [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354); [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)agiunta cifra 4; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra VIII 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)agiunta cifra 2; [2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 cifra 2; [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)cifra I 3, [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)cifra I 9, [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)art. 21 cifra 3; [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)art. 2]
-[^110-2]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^110-2]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 #### Art. 111
 
@@ -1968,7 +1970,7 @@ Ils concessiunaris da lingias èn suttamess vinavant a:
 Las concessiuns existentas per la diffusiun senza fil da programs da radio e televisiun tenor l’artitgel 43 LRTV 1991[^111-1] (concessiuns da rediffusiun) restan valaivlas fin che lur possessur survegn ina concessiun da radiocommunicaziun e da servetschs da telecommunicaziun tenor ils artitgels 4 ss. respectivamain tenor ils artitgels 22 ss. LTC[^111-2], il pli ditg dentant fin 2 onns suenter l’entrada en vigur da la lescha.
 
 [^111-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601); [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354); [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)agiunta cifra 4; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra VIII 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)agiunta cifra 2; [2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 cifra 2; [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)cifra I 3, [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)cifra I 9, [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)art. 21 cifra 3; [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)art. 2]
-[^111-2]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^111-2]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 #### Art. 112
 
@@ -1985,7 +1987,7 @@ La SSR sto realisar la structura organisatorica (art. 31–33) per il mument da 
 <sup>2</sup> Sche fatgs tenor il dretg da surveglianza èn capitads avant l’entrada en vigur da questa lescha e sch’ina procedura è pendenta, è applitgabla la LRTV 1991. Sche fatgs duran suenter l’entrada en vigur e sch’ina procedura è pendenta, vegnan giuditgadas quellas cuntravenziuns ch’èn capitadas avant l’entrada en vigur da questa lescha tenor la LRTV 1991. Resalvada resta l’applicaziun da l’artitgel 2 alinea 2 dal Cudesch penal[^113-2].
 
 [^113-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601); [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354); [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)agiunta cifra 4; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)cifra VIII 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)agiunta cifra 2; [2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)art. 36 cifra 2; [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)cifra I 3, [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)cifra I 9, [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)art. 21 cifra 3; [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)art. 2]
-[^113-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^113-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 114
 

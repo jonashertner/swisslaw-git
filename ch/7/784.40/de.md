@@ -4,11 +4,11 @@ title: Bundesgesetz vom 24. März 2006 über Radio und Fernsehen (RTVG)
 short: RTVG
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/150"
 language: de
-version: 2024-01-01
+version: 2024-10-01
 adopted: 2006-03-24
 in_force: 2007-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/150/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2007-150-20240101-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/150/20241001/de/xml/fedlex-data-admin-ch-eli-cc-2007-150-20241001-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20241001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/150/20240101/de"
 
 (RTVG)
 
-vom 24. März 2006 (Stand am 1. Januar 2024)
+vom 24. März 2006 (Stand am 1. Oktober 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 71, 92 und 93 der Bundesverfassung (BV)[^ingress-1], n
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2003 1569](https://fedlex.data.admin.ch/eli/fga/2003/223)
 
 ## 1. Titel: Geltungsbereich und Begriffe
@@ -38,7 +38,7 @@ beschliesst:
 
 <sup>2</sup> Nicht unter das Gesetz fallen Angebote von geringer publizistischer Tragweite. Der Bundesrat bestimmt die Kriterien.
 
-[^1-1]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^1-1]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 #### Art. 2
 
@@ -65,8 +65,8 @@ In diesem Gesetz bedeuten:
 - p.[^2-4] *Abgabe für Radio und Fernsehen:* die Abgabe nach Artikel 68 Absatz 1.
 
 [^2-1]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Juli 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^2-2]: [SR 0.784.405](https://fedlex.data.admin.ch/eli/cc/1989/1877_1877_1877)
-[^2-3]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^2-2]: [SR 0.784.405](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3385)
+[^2-3]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 [^2-4]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Juli 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 ## 2. Titel: Veranstaltung schweizerischer Programme
@@ -155,7 +155,7 @@ Der Bundesrat kann Fernsehveranstalter verpflichten, im Rahmen des praktisch Dur
 <sup>4</sup> Regionale Fernsehveranstalter mit Konzession versehen die Hauptinformationssendungen mit Untertiteln. Der Bundesrat bestimmt den Umfang der Verpflichtung. Die Kosten der Aufbereitung der Sendungen für hörbehinderte Menschen werden vollumfänglich aus der Abgabe für Radio und Fernsehen (Art. 68*a*) finanziert.[^7-4]
 
 [^7-1]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Juli 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^7-2]: [SR 443.1](https://fedlex.data.admin.ch/eli/cc/2002/283)
+[^7-2]: [SR 443.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7135)
 [^7-3]: Fassung gemäss Ziff. II des BG vom 1. Okt. 2021, in Kraft seit 1. Jan. 2024 ([AS 2023 531](https://fedlex.data.admin.ch/eli/oc/2023/531); [BBl 2020 3131](https://fedlex.data.admin.ch/eli/fga/2020/725)).
 [^7-4]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Juli 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
@@ -178,7 +178,7 @@ Die SRG sowie die Veranstalter mit einer Konzession gestützt auf Artikel 38 Abs
 
 [^8-1]: Fassung gemäss Anhang Ziff. 6 des BG vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
 [^8-2]: Fassung gemäss Anhang Ziff. 6 des BG vom 26. Sept. 2014, in Kraft seit 1. Jan. 2016 ([AS 2015 3977](https://fedlex.data.admin.ch/eli/oc/2015/669); [BBl 2013 7057](https://fedlex.data.admin.ch/eli/fga/2013/1331)).
-[^8-3]: [SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)
+[^8-3]: [SR 170.512](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4975)
 
 ### 3. Abschnitt: Werbung und Sponsoring
 
@@ -198,9 +198,9 @@ Die SRG sowie die Veranstalter mit einer Konzession gestützt auf Artikel 38 Abs
 
 Unzulässig ist Werbung für:
 
-- a. Tabakwaren;
-- b.[^10-1] alkoholische Getränke, die dem Alkoholgesetz vom 21. Juni 1932[^10-2] unterstehen; der Bundesrat erlässt zum Schutz der Gesundheit und der Jugend weitere Einschränkungen;
-- c.[^10-3] …
+- a.[^10-1] Tabakprodukte und elektronische Zigaretten nach Artikel 3 Buchstaben a und f des Tabakproduktegesetzes vom 1. Oktober 2021[^10-2] sowie Gegenstände, die eine funktionale Einheit mit einem Tabakprodukt bilden;
+- b.[^10-3] alkoholische Getränke, die dem Alkoholgesetz vom 21. Juni 1932[^10-4] unterstehen; der Bundesrat erlässt zum Schutz der Gesundheit und der Jugend weitere Einschränkungen;
+- c.[^10-5] …
 - d. politische Parteien, für Personen, die politische Ämter innehaben oder dafür kandidieren sowie für Themen, welche Gegenstand von Volksabstimmungen sind;
 - e. religiöse Bekenntnisse und die sie vertretenden Institutionen und Personen.
 
@@ -208,7 +208,7 @@ Unzulässig ist Werbung für:
 
 Unzulässig sind:
 
-- a. Werbung für Heilmittel nach Massgabe des Heilmittelgesetzes vom 15. Dezember 2000[^10-4];
+- a. Werbung für Heilmittel nach Massgabe des Heilmittelgesetzes vom 15. Dezember 2000[^10-6];
 - b. Verkaufsangebote für sämtliche Heilmittel und medizinischen Behandlungen.
 
 <sup>3</sup> Unzulässig sind Schleichwerbung und unterschwellige Werbung.
@@ -223,10 +223,12 @@ Unzulässig ist Werbung, welche:
 
 <sup>5</sup> Der Bundesrat kann zum Schutz der Gesundheit und der Jugend weitere Werbesendungen als unzulässig erklären.
 
-[^10-1]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2009, in Kraft seit 1. Febr. 2010 ([AS 2010 371](https://fedlex.data.admin.ch/eli/oc/2010/41); [BBl 2008 9105](https://fedlex.data.admin.ch/eli/fga/2008/1672)).
-[^10-2]: [SR 680](https://fedlex.data.admin.ch/eli/cc/48/425_437_457)
-[^10-3]: Aufgehoben durch Ziff. I des BG vom 25. Sept. 2009, mit Wirkung seit 1. Febr. 2010 ([AS 2010 371](https://fedlex.data.admin.ch/eli/oc/2010/41); [BBl 2008 9105](https://fedlex.data.admin.ch/eli/fga/2008/1672)).
-[^10-4]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
+[^10-1]: Fassung gemäss Anhang 3 Ziff. 1 des Tabakproduktegesetzes vom 1. Okt. 2021, in Kraft seit 1. Okt. 2024 ([AS 2024 457](https://fedlex.data.admin.ch/eli/oc/2024/457); [BBl 2019 919](https://fedlex.data.admin.ch/eli/fga/2019/169)).
+[^10-2]: [SR 818.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9831)
+[^10-3]: Fassung gemäss Ziff. I des BG vom 25. Sept. 2009, in Kraft seit 1. Febr. 2010 ([AS 2010 371](https://fedlex.data.admin.ch/eli/oc/2010/41); [BBl 2008 9105](https://fedlex.data.admin.ch/eli/fga/2008/1672)).
+[^10-4]: [SR 680](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8313)
+[^10-5]: Aufgehoben durch Ziff. I des BG vom 25. Sept. 2009, mit Wirkung seit 1. Febr. 2010 ([AS 2010 371](https://fedlex.data.admin.ch/eli/oc/2010/41); [BBl 2008 9105](https://fedlex.data.admin.ch/eli/fga/2008/1672)).
+[^10-6]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
 
 #### Art. 11
 
@@ -324,7 +326,7 @@ Der Auskunftspflicht unterliegen auch juristische und natürliche Personen:
 
 [^17-1]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Juli 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 [^17-2]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Juli 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^17-3]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^17-3]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 18
 
@@ -557,7 +559,7 @@ Die SRG finanziert sich zur Hauptsache durch Abgaben für Radio und Fernsehen. W
 
 [^35-1]: Ausdruck gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Juli 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 [^35-2]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Juli 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^35-3]: [SR 172.220.1](https://fedlex.data.admin.ch/eli/cc/2001/123)
+[^35-3]: [SR 172.220.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5345)
 
 #### Art. 36
 
@@ -587,7 +589,7 @@ Das UVEK kann bei der SRG und den von ihr beherrschten Unternehmen vor Ort Nachp
 
 <sup>7</sup> Reine Zweckmässigkeitskontrollen sind nicht zulässig.
 
-[^36-1]: [SR 614.0](https://fedlex.data.admin.ch/eli/cc/1967/1505_1553_1547)
+[^36-1]: [SR 614.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7792)
 
 #### Art. 37
 
@@ -661,7 +663,7 @@ Die Abgabenanteile für Veranstalter mit Abgabenanteil nach Artikel 68*a* Absatz
 <sup>3</sup> Die Bestimmungen des Subventionsgesetzes vom 5. Oktober 1990[^40-2] sind anwendbar.
 
 [^40-1]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Juli 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^40-2]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^40-2]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 #### Art. 41
 
@@ -738,7 +740,7 @@ Eine Konzession kann erteilt werden, wenn der Bewerber:
 <sup>4</sup> Konzessionen für drahtlos-terrestrisch verbreitete Programme werden in der Regel vor der Ausschreibung der entsprechenden Funkkonzessionen nach Artikel 22*a* FMG[^45-2] erteilt.[^45-3]
 
 [^45-1]: Eingefügt durch Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Juli 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^45-2]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^45-2]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 [^45-3]: Fassung gemäss Anhang Ziff. 6 des BG vom 22. März 2019, in Kraft seit 1. Jan. 2021 ([AS 2020 6159](https://fedlex.data.admin.ch/eli/oc/2020/1019); [BBl 2017 6559](https://fedlex.data.admin.ch/eli/fga/2017/1933)).
 
 #### Art. 46
@@ -814,7 +816,7 @@ Der Konzessionär hat Anspruch auf Entschädigung, wenn das UVEK:
 
 <sup>3</sup> Artikel 47 FMG[^51-1] über die Kommunikation in ausserordentlichen Lagen ist auf Veranstalter anwendbar, welche ihre Programme selbst verbreiten.
 
-[^51-1]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^51-1]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 #### Art. 52
 
@@ -861,7 +863,7 @@ Er bestimmt für Frequenzen oder Frequenzblöcke, die nach dem nationalen Freque
 <sup>3</sup> Das UVEK sorgt dafür, dass zur Versorgung der Bevölkerung in ausserordentlichen Lagen eine ausreichende Verbreitung von Programmen nach den Vorgaben des Bundesrates sichergestellt werden kann.
 
 [^54-1]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Juli 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^54-2]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^54-2]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 #### Art. 55
 
@@ -873,7 +875,7 @@ Er bestimmt für Frequenzen oder Frequenzblöcke, die nach dem nationalen Freque
 
 <sup>3</sup> Der Bundesrat kann die Verbreitungspflicht auf Dienste ausdehnen, die mit zugangsberechtigten Programmen gekoppelt sind.
 
-[^55-1]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^55-1]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 #### Art. 56
 
@@ -887,7 +889,7 @@ Er bestimmt für Frequenzen oder Frequenzblöcke, die nach dem nationalen Freque
 
 <sup>4</sup> Das Verfahren und die Auskunftspflicht richten sich sinngemäss nach den Bestimmungen des FMG[^56-1] über die Gewährung des Zugangs durch marktbeherrschende Anbieterinnen (Art. 11, 11*a* und 11*b* FMG).[^56-2]
 
-[^56-1]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^56-1]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 [^56-2]: Siehe Art. 106 Ziff. 1 hiernach.
 
 #### Art. 57
@@ -1105,7 +1107,7 @@ Für die Abgabe eines Haushalts haften jene volljährigen Personen solidarisch:
 
 <sup>5</sup> Verlassen innerhalb des Monats alle volljährigen Personen den Haushalt, dem sie zu Beginn des Monats angehört haben, so gilt der Haushalt am letzten Tag dieses Monats als aufgelöst.
 
-[^69a-1]: [SR 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
+[^69a-1]: [SR 431.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6950)
 
 #### Art. 69b
 
@@ -1120,8 +1122,8 @@ Von der Abgabe befreit werden:
 
 <sup>2</sup> Erfüllt ein Mitglied eines Privathaushalts die Voraussetzungen für die Befreiung nach Absatz 1, so entfällt die Abgabepflicht für alle Mitglieder des betreffenden Haushalts.
 
-[^69b-1]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^69b-2]: [SR 192.12](https://fedlex.data.admin.ch/eli/cc/2007/860)
+[^69b-1]: [SR 831.30](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10077)
+[^69b-2]: [SR 192.12](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5676)
 
 #### Art. 69c
 
@@ -1158,8 +1160,8 @@ Die Erhebungsstelle kann Verfügungen erlassen:
 
 <sup>4</sup> Sie veröffentlicht jährlich einen Bericht über ihre Tätigkeit sowie ihre Jahresrechnung.
 
-[^69e-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
-[^69e-2]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
+[^69e-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
+[^69e-2]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
 
 #### Art. 69f
 
@@ -1173,7 +1175,7 @@ Die Erhebungsstelle kann Verfügungen erlassen:
 
 <sup>4</sup> Die Erhebungsstelle muss die für Erhebung und Inkasso notwendigen Daten einer allfälligen Nachfolgerin rechtzeitig und unentgeltlich in elektronischer Form übergeben. Nach erfolgter Übergabe hat sie die nicht mehr benötigten Daten zu vernichten.
 
-[^69f-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^69f-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^69f-2]: Fassung des zweiten Satzes gemäss Anhang 1 Ziff. II 69 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 #### Art. 69g
@@ -1202,9 +1204,9 @@ Die Erhebungsstelle kann die AHV-Nummer[^69g-2] nach Artikel 50*c* des Bundesges
 
 <sup>6</sup> Der Bundesrat bestimmt, welche Daten die Erhebungsstelle nach Absatz 1 beziehen kann. Er regelt die Einzelheiten betreffend den Umfang und die Aufbereitung der Daten, die Periodizität der Datenlieferungen sowie die Beiträge an Kantone und Gemeinden nach Absatz 4.
 
-[^69g-1]: [SR 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
+[^69g-1]: [SR 431.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6950)
 [^69g-2]: Ausdruck gemäss Anhang Ziff. 16 des BG vom 18. Dez. 2020 (Systematische Verwendung der AHV-Nummer durch Behörden), in Kraft seit 1. Jan. 2022 ([AS 2021 758](https://fedlex.data.admin.ch/eli/oc/2021/758); [BBl 2019 7359](https://fedlex.data.admin.ch/eli/fga/2019/2681)).
-[^69g-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^69g-3]: [SR 831.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10002)
 
 ### 3. Abschnitt: Unternehmensabgabe
 
@@ -1222,8 +1224,8 @@ Die Erhebungsstelle kann die AHV-Nummer[^69g-2] nach Artikel 50*c* des Bundesges
 
 <sup>5</sup> Die Höhe der Abgabe richtet sich nach dem Umsatz. Der Bundesrat legt mehrere Umsatzstufen mit je einem Tarif pro Stufe fest (Tarifkategorien).
 
-[^70-1]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
-[^70-2]: [SR 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
+[^70-1]: [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
+[^70-2]: [SR 220](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5818)
 [^70-3]: Fassung gemäss Ziff. I des BG vom 18. Dez. 2020 (Abgabepflicht der Unternehmen), in Kraft seit 1. Jan. 2021 ([AS 2021 239](https://fedlex.data.admin.ch/eli/oc/2021/239); [BBl 2020 4485](https://fedlex.data.admin.ch/eli/fga/2020/1026)).
 
 #### Art. 70a
@@ -1254,9 +1256,9 @@ Die Erhebungsstelle kann die AHV-Nummer[^69g-2] nach Artikel 50*c* des Bundesges
 
 <sup>6</sup> Das Verfahren richtet sich nach dem VwVG[^70b-3].
 
-[^70b-1]: [SR 281.1](https://fedlex.data.admin.ch/eli/cc/11/529_488_529)
-[^70b-2]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
-[^70b-3]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^70b-1]: [SR 281.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6149)
+[^70b-2]: [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
+[^70b-3]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 #### Art. 70c
 
@@ -1274,7 +1276,7 @@ Die Erhebungsstelle kann die AHV-Nummer[^69g-2] nach Artikel 50*c* des Bundesges
 
 <sup>2</sup> Die Geheimhaltungspflicht und deren Ausnahmen nach Artikel 74 MWSTG gelten auch im Rahmen der Erhebung und des Bezugs der Abgabe.
 
-[^70d-1]: [SR 641.20](https://fedlex.data.admin.ch/eli/cc/2009/615)
+[^70d-1]: [SR 641.20](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8079)
 
 ### 3. Kapitel: Benützungsgebühren für drahtlos-terrestrischen Empfang
 
@@ -1321,7 +1323,7 @@ Sie geben den interessierten Programmveranstaltern:
 
 <sup>3</sup> Für Veranstalter schweizerischer Fernsehprogramme sind die von den Vertragsstaaten des Europäischen Übereinkommens vom 5. Mai 1989[^73-1] über das grenzüberschreitende Fernsehen geführten Listen hinsichtlich des freien Zugangs im betreffenden Staat verbindlich.
 
-[^73-1]: [SR 0.784.405](https://fedlex.data.admin.ch/eli/cc/1989/1877_1877_1877)
+[^73-1]: [SR 0.784.405](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3385)
 
 ### 2. Kapitel: Massnahmen gegen die Gefährdung der Meinungs- und Angebotsvielfalt
 
@@ -1342,7 +1344,7 @@ Eine Gefährdung der Meinungs- und Angebotsvielfalt liegt vor, wenn:
 
 <sup>2</sup> Das UVEK konsultiert die Wettbewerbskommission zur Beurteilung der marktbeherrschenden Stellung im Sinne von Artikel 4 Absatz 2 des Kartellgesetzes vom 6. Oktober 1995[^74-1]. Diese wendet dabei kartellrechtliche Grundätze an und kann ihre Stellungnahme veröffentlichen.[^74-2]
 
-[^74-1]: [SR 251](https://fedlex.data.admin.ch/eli/cc/1996/546_546_546)
+[^74-1]: [SR 251](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6127)
 [^74-2]: Fassung des zweiten Satzes gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Juli 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 #### Art. 75
@@ -1417,7 +1419,7 @@ Der Bundesrat regelt die Voraussetzungen und die Berechnungskriterien, nach dene
 
 <sup>3</sup> Das Subventionsgesetz vom 5. Oktober 1990[^81-1] ist anwendbar. Tätigkeiten nach den Artikeln 78 und 79 sind von allfälligen anderen Tätigkeiten in der Buchhaltung der Stiftung und allfälliger Tochtergesellschaften zu trennen.
 
-[^81-1]: [SR 616.1](https://fedlex.data.admin.ch/eli/cc/1991/857_857_857)
+[^81-1]: [SR 616.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7794)
 
 ## 6. Titel: Unabhängige Beschwerdeinstanz für Radio und Fernsehen
 
@@ -1470,7 +1472,7 @@ Die Beschwerdeinstanz ist unabhängig und an keine Weisungen von Bundesversammlu
 
 <sup>3</sup> Die Beschwerdeinstanz verfügt über ein selbständiges Sekretariat. Sie regelt dessen Aufgaben im Reglement nach Absatz 2. Das Dienstverhältnis des Sekretariatspersonals richtet sich nach der Personalgesetzgebung des Bundes.
 
-[^85-1]: [[AS 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651), [2000 1157](https://fedlex.data.admin.ch/eli/oc/2000/188), [2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819)Ziff. II. [AS 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)Ziff. II 1]. Siehe heute: die Art. 8*a* ff. der Regierungs- und Verwaltungsorganisationsverordnung vom 25. November 1998 ([SR 172.010.1](https://fedlex.data.admin.ch/eli/cc/1999/170)).
+[^85-1]: [[AS 1996 1651](https://fedlex.data.admin.ch/eli/oc/1996/1651_1651_1651); [2000 1157](https://fedlex.data.admin.ch/eli/oc/2000/188); [2008 5949](https://fedlex.data.admin.ch/eli/oc/2008/819)Ziff. II. [AS 2009 6137](https://fedlex.data.admin.ch/eli/oc/2009/751)Ziff. II 1]. Siehe heute: die Art. 8*a* ff. der Regierungs- und Verwaltungsorganisationsverordnung vom 25. November 1998 ([SR 172.010.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5016)).
 
 ## 7. Titel: Aufsicht und Rechtsschutz
 
@@ -1494,7 +1496,7 @@ Die Beschwerdeinstanz ist unabhängig und an keine Weisungen von Bundesversammlu
 
 [^86-1]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Juli 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 [^86-2]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Juli 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
-[^86-3]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^86-3]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 [^86-4]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Juli 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 [^86-5]: Fassung gemäss Ziff. I des BG vom 26. Sept. 2014, in Kraft seit 1. Juli 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
@@ -1514,7 +1516,7 @@ Die Beschwerdeinstanz ist unabhängig und an keine Weisungen von Bundesversammlu
 
 <sup>2</sup> Die Datenbearbeitung richtet sich nach den für Bundesorgane geltenden Bestimmungen des DSG[^88-1].[^88-2]
 
-[^88-1]: [SR 235.1](https://fedlex.data.admin.ch/eli/cc/2022/491)
+[^88-1]: [SR 235.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5993)
 [^88-2]: Fassung gemäss Anhang 1 Ziff. II 69 des Datenschutzgesetzes vom 25. Sept. 2020, in Kraft seit 1. Sept. 2023 ([AS 2022 491](https://fedlex.data.admin.ch/eli/oc/2022/491); [BBl 2017 6941](https://fedlex.data.admin.ch/eli/fga/2017/2057)).
 
 ### 2. Abschnitt: Massnahmen bei Rechtsverletzungen
@@ -1735,7 +1737,7 @@ Die Beschwerdeinstanz stellt fest, ob:
 
 <sup>2</sup> Für mutwillige Beschwerden können der Beschwerde führenden Person Verfahrenskosten auferlegt werden. Das VwVG[^98-1] ist anwendbar.
 
-[^98-1]: [SR 172.021](https://fedlex.data.admin.ch/eli/cc/1969/737_757_755)
+[^98-1]: [SR 172.021](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5059)
 
 ### 3. Kapitel: Rechtsschutz
 
@@ -1792,7 +1794,7 @@ Die zuständige Behörde erhebt Verwaltungsgebühren insbesondere für:
 
 <sup>2</sup> …[^102-2]
 
-[^102-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^102-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 [^102-2]: Aufgehoben durch Ziff. I des BG vom 26. Sept. 2014, mit Wirkung seit 1. Juli 2016 ([AS 2016 2131](https://fedlex.data.admin.ch/eli/oc/2016/345); [BBl 2013 4975](https://fedlex.data.admin.ch/eli/fga/2013/944)).
 
 ## 10. Titel: Schlussbestimmungen
@@ -1829,7 +1831,7 @@ Die Aufhebung und Änderung bisherigen Rechts ist im Anhang geregelt.
 <sup>1.</sup> Unabhängig davon, ob das vorliegende Gesetz (RTVG) oder die Änderung vom 24. März 2006 des Fernmeldegesetzes vom 30. April 1997[^106-subdivu1-1] zuerst in Kraft tritt, lautet mit Inkrafttreten des später in Kraft tretenden Gesetzes oder bei gleichzeitigem Inkrafttreten Artikel 56 Absatz 4 RTVG[^106-subdivu1-2] wie folgt:
 
 [^106-1]: [AS 2007 921](https://fedlex.data.admin.ch/eli/oc/2007/165)
-[^106-subdivu1-1]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^106-subdivu1-1]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 [^106-subdivu1-2]: Text eingefügt hiervor.
 
 ### Art. 56 Abs. 4
@@ -1860,7 +1862,7 @@ Die Aufhebung und Änderung bisherigen Rechts ist im Anhang geregelt.
 
 <sup>6</sup> Auf die anderen Konzessionen, die weiter gelten oder verlängert worden sind, sind die Bestimmungen über Konzessionen mit Leistungsauftrag nach Artikel 22 sowie die Artikel 44–50 sinngemäss anwendbar.
 
-[^107-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601), [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354), [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)Anhang Ziff. 4, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. VIII 2, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 2,[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 Ziff. 2, [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)Ziff. I 3 [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 9 [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)Art. 21 Ziff. 3, [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)Art. 2]
+[^107-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601); [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354); [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)Anhang Ziff. 4; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. VIII 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 2;[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 Ziff. 2; [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)Ziff. I 3, [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 9, [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)Art. 21 Ziff. 3; [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)Art. 2]
 
 #### Art. 108
 
@@ -1868,7 +1870,7 @@ Die Aufhebung und Änderung bisherigen Rechts ist im Anhang geregelt.
 
 Der Bundesrat kann die Weisungen für die Sendernetzplanung nach Artikel 8 Absatz 1 RTVG 1991[^108-1] bis längstens fünf Jahre nach Inkrafttreten dieses Gesetzes verlängern oder nach Anhörung der Kommunikationskommission ändern.
 
-[^108-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601), [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354), [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)Anhang Ziff. 4, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. VIII 2, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 2,[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 Ziff. 2, [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)Ziff. I 3 [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 9 [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)Art. 21 Ziff. 3, [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)Art. 2]
+[^108-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601); [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354); [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)Anhang Ziff. 4; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. VIII 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 2;[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 Ziff. 2; [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)Ziff. I 3, [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 9, [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)Art. 21 Ziff. 3; [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)Art. 2]
 
 #### Art. 109
 
@@ -1882,8 +1884,8 @@ Der Bundesrat kann die Weisungen für die Sendernetzplanung nach Artikel 8 Absat
 
 <sup>4</sup> Die Übergangsregelung nach Absatz 1 endet zu jenem Zeitpunkt, in welchem die Konzessionen mit Abgabenanteil nach den Artikeln 38–42 erteilt werden, spätestens aber fünf Jahre nach Inkrafttreten dieses Gesetzes.
 
-[^109-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601), [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354), [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)Anhang Ziff. 4, [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. VIII 2, [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 2,[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 Ziff. 2, [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)Ziff. I 3 [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 9 [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)Art. 21 Ziff. 3, [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)Art. 2]
-[^109-2]: [[AS 1997 2903](https://fedlex.data.admin.ch/eli/oc/1997/2903_2903_2903), [2004 4531](https://fedlex.data.admin.ch/eli/oc/2004/687), [2006 4395](https://fedlex.data.admin.ch/eli/oc/2006/666)]
+[^109-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601); [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354); [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)Anhang Ziff. 4; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. VIII 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 2;[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 Ziff. 2; [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)Ziff. I 3, [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 9, [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)Art. 21 Ziff. 3; [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)Art. 2]
+[^109-2]: [[AS 1997 2903](https://fedlex.data.admin.ch/eli/oc/1997/2903_2903_2903); [2004 4531](https://fedlex.data.admin.ch/eli/oc/2004/687); [2006 4395](https://fedlex.data.admin.ch/eli/oc/2006/666)]
 
 #### Art. 109a
 
@@ -1957,7 +1959,7 @@ Leitungskonzessionäre unterliegen weiterhin:
 <sup>3</sup> Die Verpflichtungen eines Leitungskonzessionärs nach Absatz 2 enden, sobald die Verbreitung der dort erfassten Programme über Leitungen (nach den Art. 59 und 60) in dessen Bedienungsgebiet rechtskräftig geklärt ist, spätestens aber nach fünf Jahren.
 
 [^110-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601); [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354); [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)Anhang Ziff. 4; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. VIII 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 2;[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 Ziff. 2; [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)Ziff. I 3, [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 9, [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)Art. 21 Ziff. 3; [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)Art. 2]
-[^110-2]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^110-2]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 #### Art. 111
 
@@ -1966,7 +1968,7 @@ Leitungskonzessionäre unterliegen weiterhin:
 Bestehende Konzessionen für die drahtlose Weiterverbreitung von Radio- und Fernsehprogrammen nach Artikel 43 RTVG 1991[^111-1] (Umsetzerkonzessionen) behalten ihre Gültigkeit bis deren Inhaber eine Funk- und Fernmeldedienstekonzession nach den Artikeln 4 ff. beziehungsweise nach den Artikeln 22 ff. FMG[^111-2] erhält, längstens jedoch bis zwei Jahre nach Inkrafttreten des Gesetzes.
 
 [^111-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601); [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354); [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)Anhang Ziff. 4; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. VIII 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 2;[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 Ziff. 2; [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)Ziff. I 3, [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 9, [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)Art. 21 Ziff. 3; [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)Art. 2]
-[^111-2]: [SR 784.10](https://fedlex.data.admin.ch/eli/cc/1997/2187_2187_2187)
+[^111-2]: [SR 784.10](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9171)
 
 #### Art. 112
 
@@ -1983,7 +1985,7 @@ Die SRG hat die Umsetzung der Organisationsstruktur (Art. 31–33) auf den Zeitp
 <sup>2</sup> Hat sich ein aufsichtsrechtlicher Sachverhalt vor Inkrafttreten dieses Gesetzes ereignet und ist ein Verfahren hängig, so ist das RTVG 1991 anwendbar. Dauert ein Sachverhalt nach Inkrafttreten dieses Gesetzes an und ist ein Verfahren hängig, so beurteilen sich diejenigen Verstösse, die sich vor dem Inkrafttreten dieses Gesetzes ereignet haben, nach RTVG 1991. Vorbehalten bleibt die Anwendung von Artikel 2 Absatz 2 des Strafgesetzbuchs[^113-2].
 
 [^113-1]: [[AS 1992 601](https://fedlex.data.admin.ch/eli/oc/1992/601_601_601); [1993 3354](https://fedlex.data.admin.ch/eli/oc/1993/3354_3354_3354); [1997 2187](https://fedlex.data.admin.ch/eli/oc/1997/2187_2187_2187)Anhang Ziff. 4; [2000 1891](https://fedlex.data.admin.ch/eli/oc/2000/293)Ziff. VIII 2; [2001 2790](https://fedlex.data.admin.ch/eli/oc/2001/422)Anhang Ziff. 2;[2002 1904](https://fedlex.data.admin.ch/eli/oc/2002/283)Art. 36 Ziff. 2; [2004 297](https://fedlex.data.admin.ch/eli/oc/2004/13)Ziff. I 3, [1633](https://fedlex.data.admin.ch/eli/oc/2004/200)Ziff. I 9, [4929](https://fedlex.data.admin.ch/eli/oc/2004/745)Art. 21 Ziff. 3; [2006 1039](https://fedlex.data.admin.ch/eli/oc/2006/182)Art. 2]
-[^113-2]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^113-2]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 114
 
