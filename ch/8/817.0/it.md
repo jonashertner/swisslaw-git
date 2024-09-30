@@ -4,11 +4,11 @@ title: "Legge federale del 20 giugno 2014 sulle derrate alimentari e gli oggetti
 short: LDerr
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/62"
 language: it
-version: 2022-01-01
+version: 2024-10-01
 adopted: 2014-06-20
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/62/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2017-62-20220101-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/62/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/62/20241001/it/xml/fedlex-data-admin-ch-eli-cc-2017-62-20241001-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/62/20241001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/62/20220101/it"
 
 (Legge sulle derrate alimentari, LDerr)
 
-del 20 giugno 2014 (Stato 1° gennaio 2022)
+del 20 giugno 2014 (Stato 1° ottobre 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visti gli articoli 97 capoverso 1, 105 e 118 capoverso 2 lettera a della Costitu
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2011 5017](https://fedlex.data.admin.ch/eli/fga/2011/853)
 
 ## Capitolo 1: Disposizioni generali
@@ -296,8 +296,44 @@ Sono fatte salve le restrizioni alla consegna e alla pubblicità stabilite dalle
 - a. legge federale del 24 marzo 2006[^14-1] sulla radiotelevisione;
 - b. legge del 21 giugno 1932[^14-2] sull’alcool.
 
-[^14-1]: [RS 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
-[^14-2]: [RS 680](https://fedlex.data.admin.ch/eli/cc/48/425_437_457)
+[^14-1]: [RS 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
+[^14-2]: [RS 680](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8313)
+
+#### Art. 14a
+
+**Test d’acquisto di alcol**[^14a-1]
+
+<sup>1</sup> Al fine di verificare il rispetto del limite d’età per la consegna di bevande alcoliche, l’autorità cantonale competente può svolgere od ordinare test d’acquisto.
+
+<sup>2</sup> Un test d’acquisto è un acquisto o un tentativo di acquisto di una bevanda alcolica da parte di un minorenne appositamente incaricato.
+
+<sup>3</sup>
+
+Le informazioni ottenute nell’ambito dei test d’acquisto possono essere utilizzate in procedimenti penali o amministrativi soltanto se sono soddisfatte le seguenti condizioni:
+
+- a. i test d’acquisto sono stati svolti dall’autorità cantonale o da un’organizzazione specializzata riconosciuta;
+- b. il minorenne e un detentore dell’autorità parentale hanno dato il loro consenso scritto alla partecipazione al test d’acquisto;
+- c.
+
+  l’autorità cantonale o un’organizzazione specializzata riconosciuta ha constatato che:
+
+  - 1\. il minorenne era idoneo all’incarico previsto, e
+  - 2\. è stato debitamente preparato a svolgerlo;
+
+- d. il minorenne ha svolto il suo incarico in forma anonima ed è stato accompagnato da una persona adulta;
+- e. non sono stati adottati accorgimenti per nascondere l’età reale del minorenne;
+- f. il test d’acquisto è stato immediatamente verbalizzato e documentato.
+
+<sup>4</sup>
+
+Il Consiglio federale disciplina in particolare:
+
+- a. il riconoscimento delle organizzazioni specializzate impiegate e la vigilanza su queste ultime;
+- b. le modalità riguardanti il reclutamento, l’istruzione, l’accompagnamento e la protezione della personalità dei minorenni;
+- c. i requisiti per la verbalizzazione e la documentazione del test d’acquisto svolto;
+- d. la comunicazione dei risultati dei test d’acquisto ai punti di vendita interessati.
+
+[^14a-1]: Introdotto dall’all. 3 n. 2 della L del 1° ott. 2021 sui prodotti del tabacco, in vigore dal 1° ott. 2024 ([RU 2024 457](https://fedlex.data.admin.ch/eli/oc/2024/457); [FF 2019 837](https://fedlex.data.admin.ch/eli/fga/2019/169)).
 
 ### Sezione 2: Oggetti d’uso
 
@@ -369,7 +405,7 @@ Per garantire la protezione dagli inganni il Consiglio federale può:
 
 <sup>5</sup> Per la trasposizione di obblighi internazionali il Consiglio federale può sottoporre ulteriori oggetti d’uso alle disposizioni del presente articolo.
 
-[^18-1]: [RS 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
+[^18-1]: [RS 232.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5961)
 
 #### Art. 19
 
@@ -389,7 +425,7 @@ Per garantire la protezione dagli inganni il Consiglio federale può:
 
 <sup>3</sup> Al fine di rispettare le disposizioni della legislazione sulle derrate alimentari, il Consiglio federale può limitare o vietare l’immissione sul mercato di cosmetici la cui composizione definitiva o le cui componenti sono state testate su animali.
 
-[^20-1]: [RS 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
+[^20-1]: [RS 814.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9621)
 
 ### Sezione 4: Compiti delle autorità
 
@@ -714,12 +750,12 @@ Il Consiglio federale coordina l’esecuzione della presente legge segnatamente 
 - e. legge del 29 aprile 1998[^42-5] sull’agricoltura;
 - f. legge del 1° luglio 1966[^42-6] sulle epizoozie.
 
-[^42-1]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
-[^42-2]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^42-3]: [RS 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
-[^42-4]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^42-5]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^42-6]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^42-1]: [RS 455](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7197)
+[^42-2]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^42-3]: [RS 814.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9621)
+[^42-4]: [RS 818.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9783)
+[^42-5]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^42-6]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
 
 #### Art. 43
 
@@ -739,7 +775,7 @@ I laboratori devono:
 - b. disporre di personale, locali, attrezzature e mezzi sufficienti per poter adempiere in ogni momento il mandato conferito loro;
 - c. poter fornire garanzie adeguate sulla loro attendibilità, imparzialità e indipendenza nei confronti di persone che fabbricano, importano o commercializzano prodotti che rientrano nel settore di competenza del relativo laboratorio.
 
-[^43-1]: [[RU 1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508); [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 3; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 11; [2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775)art. 25 n. 1; [2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)all. n. 1, [6515](https://fedlex.data.admin.ch/eli/oc/2011/902)art. 26 n. 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)n. I 2; [2015 773](https://fedlex.data.admin.ch/eli/oc/2015/140); [2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820)all. n. II 1; [2019 4101](https://fedlex.data.admin.ch/eli/oc/2019/717)art. 1. [RU 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126)all. 7 n. I]. Vedi ora la LF del 21 giu. 2019 sugli appalti pubblici ([RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)).
+[^43-1]: [[RU 1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508); [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)all. n. 3; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)all. n. 11; [2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775)art. 25 n. 1; [2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)all. n. 1, [6515](https://fedlex.data.admin.ch/eli/oc/2011/902)art. 26 n. 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)n. I 2; [2015 773](https://fedlex.data.admin.ch/eli/oc/2015/140); [2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820)all. n. II 1; [2019 4101](https://fedlex.data.admin.ch/eli/oc/2019/717)art. 1. [RU 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126)all. 7 n. I]. Vedi ora la LF del 21 giu. 2019 sugli appalti pubblici ([RS 172.056.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5197)).
 
 #### Art. 44
 
@@ -761,7 +797,7 @@ I laboratori devono:
 
 <sup>4</sup> Il Consiglio federale può riconoscere servizi di controllo, dichiarazioni e certificati di conformità esteri, nonché esami, controlli o valutazioni di conformità effettuati all’estero o autorizzazioni concesse all’estero. È fatto salvo l’articolo 18 capoverso 2 LOTC.
 
-[^45-1]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^45-1]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 #### Art. 46
 
@@ -989,7 +1025,7 @@ Il Consiglio federale disciplina:
 - c. lo scambio di dati con terzi cui sono stati affidati compiti ufficiali secondo l’articolo 55;
 - d. lo scambio di dati con terzi cui sono stati affidati compiti secondo gli articoli 14–16, 18, 64 e 180 della legge del 29 aprile 1998[^60-1] sull’agricoltura.
 
-[^60-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^60-1]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 #### Art. 61
 
@@ -1064,7 +1100,7 @@ Per il sistema d’informazione dell’USAV il Consiglio federale disciplina:
 
 [^62-1]: Nuovo testo giusta il n. I 32 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 [^62-2]: Nuovo testo giusta il n. I 32 dell’O del 12 giu. 2020 sull’adeguamento di leggi in seguito al cambiamento della designazione dell’Amministrazione federale delle dogane nel quadro del suo ulteriore sviluppo, in vigore dal 1° gen. 2022 ([RU 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^62-3]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^62-3]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 ## Capitolo 7: Disposizioni penali e tutela giurisdizionale
 
@@ -1122,7 +1158,7 @@ Per il sistema d’informazione dell’USAV il Consiglio federale disciplina:
 
 Nel settore disciplinato dal diritto sulle derrate alimentari, le disposizioni penali concernenti le infrazioni commesse nell’azienda e la falsità in documenti di cui agli articoli 6, 7 e 15 della legge federale del 22 marzo 1974[^65-1] sul diritto penale amministrativo sono applicabili anche alle autorità cantonali.
 
-[^65-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^65-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 66
 

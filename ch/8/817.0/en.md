@@ -4,30 +4,30 @@ title: "Federal Act of 20 June 2014 on Foodstuffs and Consumer Products (Foodstu
 short: FSA
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/62"
 language: en
-version: 2022-01-01
+version: 2024-10-01
 adopted: 2014-06-20
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/62/20220101/en/xml/fedlex-data-admin-ch-eli-cc-2017-62-20220101-en-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/62/20220101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/62/20241001/en/xml/fedlex-data-admin-ch-eli-cc-2017-62-20241001-en-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/62/20241001/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
 
-# Federal Act on Foodstuffs and Utility Articles
+# Federal Act on Foodstuffs and Consumer Products
 
 English is not an official language of the Swiss Confederation. This translation is provided for information purposes only and has no legal force.
 
 (Foodstuffs Act, FSA)
 
-of 20 June 2014 (Status as of 1 January 2022)
+of 20 June 2014 (Last amended on 1 October 2024)
 
 The Federal Assembly of the Swiss Confederation,
 
-on the basis of Articles 97 paragraph 1, 105 and 118 paragraph 2 letter a of the Federal Constitution [^ingress-1], and having considered the dispatch of the Federal Council dated 25 May 2011[^ingress-2],
+on the basis of Articles 97 paragraph 1, 105 and 118 paragraph 2 letter a of the Federal Constitution [^ingress-1], and having considered the Federal Council dispatch dated 25 May 2011[^ingress-2],
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2011 5571](https://fedlex.data.admin.ch/eli/fga/2011/853)
 
 ## Chapter 1 General Provisions
@@ -40,10 +40,10 @@ decrees:
 
 The aim of this Act is:
 
-- a. to protect the health of consumers from foodstuffs and utility articles that are unsafe;
-- b. to ensure that foodstuffs and utility articles are handled hygienically;
-- c. to protect consumers from deception relating to foodstuffs and utility articles;
-- d. to provide consumers with the information required when purchasing foodstuffs or utility articles.
+- a. to protect the health of consumers from foodstuffs and consumer products that are unsafe;
+- b. to ensure that foodstuffs and consumer products are handled hygienically;
+- c. to protect consumers from deception relating to foodstuffs and consumer products;
+- d. to provide consumers with the information required when purchasing foodstuffs or consumer products.
 
 #### Art. 2
 
@@ -53,24 +53,24 @@ The aim of this Act is:
 
 This Act applies to:
 
-- a. the handling of foodstuffs and utility articles, i.e. their manufacture, processing, storage, transport and placing on the market;
-- b. the labelling and presentation of foodstuffs and utility articles, their advertising and the information provided about them;
-- c. the import, export and transit of foodstuffs and utility articles.
+- a. the handling of foodstuffs and consumer products, i.e. their manufacture, processing, storage, transport and placing on the market;
+- b. the labelling and presentation of foodstuffs and consumer products, their advertising and the information provided about them;
+- c. the import, export and transit of foodstuffs and consumer products.
 
-<sup>2</sup> It applies to all production, processing and distribution levels, including primary production, provided they are relevant to the manufacture of foodstuffs or utility articles.
+<sup>2</sup> It applies to all production, processing and distribution levels, including primary production, provided they are relevant to the manufacture of foodstuffs or consumer products.
 
-<sup>3</sup> This Act applies to imported foodstuffs and utility articles, unless Switzerland is otherwise obliged in terms of an international treaty.
+<sup>3</sup> This Act applies to imported foodstuffs and consumer products, unless Switzerland is otherwise obliged in terms of an international treaty.
 
 <sup>4</sup>
 
 This Act does not apply to:
 
 - a. the primary production of foodstuffs for private domestic use;
-- b. the import of foodstuffs or utility articles for private domestic use; paragraph 5 is reserved;
-- c. the domestic manufacture, handling and storage of foodstuffs and utility articles for private domestic use;
+- b. the import of foodstuffs or consumer products for private domestic use; paragraph 5 is reserved;
+- c. the domestic manufacture, handling and storage of foodstuffs and consumer products for private domestic use;
 - d. substances and products subject to the legislation on therapeutic products.
 
-<sup>5</sup> The Federal Council may restrict the import of foodstuffs or utility articles intended for private domestic use.
+<sup>5</sup> The Federal Council may restrict the import of foodstuffs or consumer products intended for private domestic use.
 
 #### Art. 3
 
@@ -82,9 +82,9 @@ This Act does not apply to:
 
 <sup>3</sup> Foodstuffs that do not comply with the provisions of this Act may only be exported if the authorities of the country of destination agree to the import after being informed in detail of the reasons why the foodstuffs concerned may not be placed on the market in Switzerland, and about the particular circumstances.
 
-<sup>4</sup> Utility articles that are intended for export must comply with the provisions applicable in the country of destination. The Federal Council may require otherwise.
+<sup>4</sup> Consumer products that are intended for export must comply with the provisions applicable in the country of destination. The Federal Council may require otherwise.
 
-<sup>5</sup> Foodstuffs and utility articles that are harmful to health may not be exported.
+<sup>5</sup> Foodstuffs and consumer products that are harmful to health may not be exported.
 
 ### Section 2 Definitions
 
@@ -117,13 +117,13 @@ The following are not foodstuffs:
 
 #### Art. 5
 
-**Utility articles**
+**Consumer products**
 
-Utility articles are articles that fall within one of the following product categories:
+Consumer products are articles that fall within one of the following product categories:
 
 - a.
 
-  consumer articles: articles and materials:
+  food contact materials: articles and materials:
 
   - 1\. that are intended to come in contact with foodstuffs,
   - 2\. that may be expected to come in contact with foodstuffs if used in a normal or reasonably foreseeable manner, or
@@ -134,7 +134,7 @@ Utility articles are articles that fall within one of the following product cate
 - d. articles of clothing, textiles and other articles which, when used as normally intended, come into contact with the body;
 - e. toys and other articles intended to be used by children;
 - f. candles, matches, lighters, and joke and novelty items;
-- g. aerosol dispensers that contain foodstuffs or other utility articles;
+- g. aerosol dispensers that contain foodstuffs or other consumer products;
 - h. articles and materials intended for the furnishing and decoration of living areas, unless they are subject to other product-specific legislation;
 - i. water that is intended to come in contact with the human body in facilities that are accessible to the general public or to an authorised, not exclusively private group of persons, and which is not intended for drinking, such as shower and bathwater in hospitals, nursing homes or hotels.
 
@@ -142,9 +142,9 @@ Utility articles are articles that fall within one of the following product cate
 
 **Placing on the market**
 
-Placing on the market in terms of this Act means the distribution of foodstuffs or utility articles, any form of their passing-on whether for payment or not, their being made available for supply whether for payment or not, and their offering for supply and their supply itself.
+Placing on the market in terms of this Act means the distribution of foodstuffs or consumer products, any form of their passing-on whether for payment or not, their being made available for supply whether for payment or not, and their offering for supply and their supply itself.
 
-## Chapter 2 Requirements for Foodstuffs and Utility Articles
+## Chapter 2 Requirements for Foodstuffs and Consumer Products
 
 ### Section 1 Foodstuffs
 
@@ -298,22 +298,58 @@ Restrictions on supply and advertising under the following federal acts are rese
 - a. Federal Act of 24 March 2006[^14-1] on Radio and Television;
 - b. Alcohol Act of 21 June 1932[^14-2].
 
-[^14-1]: [SR 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
-[^14-2]: [SR 680](https://fedlex.data.admin.ch/eli/cc/48/425_437_457)
+[^14-1]: [SR 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
+[^14-2]: [SR 680](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8313)
 
-### Section 2 Utility Articles
+#### Art. 14a
 
-#### Art. 15
+**Test purchases of alcohol**[^14a-1]
 
-**Safety of utility articles**
+<sup>1</sup> The competent cantonal authority may conduct or order test purchases in order to verify compliance with the age restriction for the supply of alcoholic beverages.
 
-<sup>1</sup> Only safe utility articles may be placed on the market.
-
-<sup>2</sup> A utility article is deemed to be safe if it presents no danger or only minimal danger when used normally or in a reasonably foreseeable manner or only such danger as is commensurate with its normal use and which is reasonable while preserving of a high level of protection for the health of consumers and third parties.
+<sup>2</sup> A test purchase is the purchase or attempted purchase of an alcoholic beverage by an underage person who has been authorised to participate in the test.
 
 <sup>3</sup>
 
-In order to guarantee the health of consumers and third parties, the following aspects of the utility article must be considered in particular:
+The findings obtained from the test purchases may only be used in criminal or administrative proceedings if the following requirements are met:
+
+- a. The test purchases are conducted by the cantonal authority or by a recognised specialist organisation.
+- b. The underage person and a person with parental responsibility for the underage person have given written consent to participating in the test purchases.
+- c.
+
+  The cantonal authority or a recognised specialist organisation establishes that:
+
+  - 1\. the underage person is suitable for the intended activity; and
+  - 2\. he or she is adequately prepared for the activity.
+
+- d. The underage person shall act anonymously and shall be accompanied by an adult.
+- e. No measures shall be taken to conceal the true age of the underage person.
+- f. The test purchase shall be recorded and documented immediately.
+
+<sup>4</sup>
+
+The Federal Council shall regulate in particular:
+
+- a. the recognition and supervision of the specialist organisations involved;
+- b. the details in relation to recruiting, instructing, accompanying and protecting the privacy of the underage person;
+- c. the requirements for recording and documenting the test purchases conducted;
+- d. the information given to the sales outlets concerned.
+
+[^14a-1]: Inserted by Annex 3 No 2 of the Tobacco Products Act of 1 Oct. 2021, in force since 1 Oct. 2024 ([AS 2024 457](https://fedlex.data.admin.ch/eli/oc/2024/457); [BBl 2019 919](https://fedlex.data.admin.ch/eli/fga/2019/169)).
+
+### Section 2 Consumer Products
+
+#### Art. 15
+
+**Safety of consumer products**
+
+<sup>1</sup> Only safe consumer products may be placed on the market.
+
+<sup>2</sup> A consumer product is deemed to be safe if it presents no danger or only minimal danger when used normally or in a reasonably foreseeable manner or only such danger as is commensurate with its normal use and which is reasonable while preserving of a high level of protection for the health of consumers and third parties.
+
+<sup>3</sup>
+
+In order to guarantee the health of consumers and third parties, the following aspects of the consumer product must be considered in particular:
 
 - a. its properties, its composition, the conditions for its assembly, its installation and its initial operation;
 - b. its maintenance and its service life;
@@ -321,40 +357,40 @@ In order to guarantee the health of consumers and third parties, the following a
 - d. its presentation, its packaging, its labelling, if applicable warning notices, its instructions for use and operation and the instructions for its disposal as well as all other product-related information;
 - e. the special risks that it presents to specific groups of consumers, in particular children and older people.
 
-<sup>4</sup> The Federal Council shall stipulate the safety requirements for utility articles.
+<sup>4</sup> The Federal Council shall stipulate the safety requirements for consumer products.
 
 <sup>5</sup>
 
-In order to guarantee the safety of utility articles, the Federal Council may also:
+In order to guarantee the safety of consumer products, the Federal Council may also:
 
-- a. require conformity assessment procedures or reporting requirements for specific utility articles;
-- b. provide that technical standards must apply to specific utility articles, which, when observed, lead to the presumption that the utility article is safe;
-- c. restrict or prohibit the use of certain utility articles or the use of certain substances in utility articles;
-- d. require the general public to be informed about the properties of certain utility articles;
-- e. stipulate hygiene requirements for utility articles;
-- f. stipulate requirements for the specialist knowledge of persons handling utility articles.
+- a. require conformity assessment procedures or reporting requirements for specific consumer products;
+- b. provide that technical standards must apply to specific consumer products, which, when observed, lead to the presumption that the consumer product is safe;
+- c. restrict or prohibit the use of certain consumer products or the use of certain substances in consumer products;
+- d. require the general public to be informed about the properties of certain consumer products;
+- e. stipulate hygiene requirements for consumer products;
+- f. stipulate requirements for the specialist knowledge of persons handling consumer products.
 
 #### Art. 16
 
 **Labelling and advertising**
 
-<sup>1</sup> Utility articles must be labelled in such a way that the protection of health and, in accordance with Article 18, protection against deception is guaranteed.
+<sup>1</sup> Consumer products must be labelled in such a way that the protection of health and, in accordance with Article 18, protection against deception is guaranteed.
 
-<sup>2</sup> The Federal Council may stipulate requirements for the labelling of utility articles and for their advertising.
+<sup>2</sup> The Federal Council may stipulate requirements for the labelling of consumer products and for their advertising.
 
 #### Art. 17
 
 **Reporting requirement for businesses**
 
-The Federal Council may impose a reporting requirement on businesses that handle utility articles.
+The Federal Council may impose a reporting requirement on businesses that handle consumer products.
 
-### Section 3 Common Provisions for Foodstuffs and Utility Articles
+### Section 3 Common Provisions for Foodstuffs and Consumer Products
 
 #### Art. 18
 
 **Protection against deception**
 
-<sup>1</sup> All information relating to foodstuffs, consumer articles and cosmetics must correspond to the facts.
+<sup>1</sup> All information relating to foodstuffs, food contact materials and cosmetics must be factually correct.
 
 <sup>2</sup> The presentation, labelling and packaging of products under paragraph 1 and their advertising must not mislead consumers. The provisions of the Trademark Protection Act of 28 August 1992[^18-1] on indications of Swiss origin are reserved.
 
@@ -365,13 +401,13 @@ The Federal Council may impose a reporting requirement on businesses that handle
 In order to guarantee protection against deception, the Federal Council may:
 
 - a. provide a description of foodstuffs and stipulate their designation;
-- b. stipulate requirements for foodstuffs, consumer articles and cosmetics;
+- b. stipulate requirements for foodstuffs, food contact materials and cosmetics;
 - c. issue labelling regulations for areas in which consumers as a result of the product or the form of trading may be especially liable to deception;
-- d. recommend good manufacturing practices (GMP) for foodstuffs, consumer articles and cosmetics.
+- d. recommend good manufacturing practices (GMP) for foodstuffs, food contact materials and cosmetics.
 
-<sup>5</sup> In order to implement international obligations, the Federal Council may make additional utility articles subject to the provisions of this Article.
+<sup>5</sup> In order to implement international obligations, the Federal Council may make additional consumer products subject to the provisions of this Article.
 
-[^18-1]: [SR 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
+[^18-1]: [SR 232.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5961)
 
 #### Art. 19
 
@@ -385,13 +421,13 @@ In order to guarantee protection against deception, the Federal Council may:
 
 **Restriction of production and treatment processes**
 
-<sup>1</sup> The Federal Council may restrict or prohibit physical, chemical, microbiological or biotechnological processes for producing or treating foodstuffs or utility articles if a risk to the health of consumers cannot be excluded based on current scientific knowledge. In doing so, it shall ensure compliance with the requirements of the Gene Technology Act of 21 March 2003[^20-1].
+<sup>1</sup> The Federal Council may restrict or prohibit physical, chemical, microbiological or biotechnological processes for producing or treating foodstuffs or consumer products if a risk to the health of consumers cannot be excluded based on current scientific knowledge. In doing so, it shall ensure compliance with the requirements of the Gene Technology Act of 21 March 2003[^20-1].
 
 <sup>2</sup> It may restrict or prohibit specific breeding methods for animals intended for the production of foodstuffs. If related detection methods are available, they must be used.
 
 <sup>3</sup> It may restrict or prohibit the placing on the market of cosmetics whose final formulation or ingredients have been tested in animal experiments in order to comply with the foodstuffs legislation.
 
-[^20-1]: [SR 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
+[^20-1]: [SR 814.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9621)
 
 ### Section 4 Duties of the Authorities
 
@@ -413,7 +449,7 @@ In order to guarantee protection against deception, the Federal Council may:
 
 **Precautionary principle**
 
-If, on evaluating the available information, a competent federal authority finds that a foodstuff or a utility article could be harmful to health, but there is still scientific uncertainty, it may take temporary measures to ensure a high level of health protection until further scientific information is available that permits a more comprehensive risk assessment.
+If, on evaluating the available information, a competent federal authority finds that a foodstuff or a consumer product could be harmful to health, but there is still scientific uncertainty, it may take temporary measures to ensure a high level of health protection until further scientific information is available that permits a more comprehensive risk assessment.
 
 #### Art. 23
 
@@ -430,7 +466,7 @@ If a product meets the statutory requirements but new scientific findings indica
 The competent authorities shall inform the general public in particular about:
 
 - a. its inspection activities and their effectiveness;
-- b. foodstuffs and utility articles in respect of which there is sufficient reason to suspect that they may pose a health risk.
+- b. foodstuffs and consumer products in respect of which there is sufficient reason to suspect that they may pose a health risk.
 
 <sup>2</sup> The competent federal authorities may communicate nutritional knowledge of general interest to the general public and to compulsory schools that is in particular relevant to health care, health protection and sustainable nutrition.
 
@@ -450,7 +486,7 @@ The following shall not be made available to the general public:
 
 #### Art. 25
 
-<sup>1</sup> The competent federal authority shall publish recommendations on the procedure for taking samples and analysing foodstuffs and utility articles.
+<sup>1</sup> The competent federal authority shall publish recommendations on the procedure for taking samples and analysing foodstuffs and consumer products.
 
 <sup>2</sup> The Federal Council may declare certain sampling and analysis procedures to be mandatory.
 
@@ -460,7 +496,7 @@ The following shall not be made available to the general public:
 
 **Self-supervision**
 
-<sup>1</sup> Any person who manufactures, handles, stores, transports, places on the market, imports, exports or carries in transit foodstuffs or utility articles must ensure that the statutory requirements are complied with. He or she is obliged to ensure self-supervision.
+<sup>1</sup> Any person who manufactures, handles, stores, transports, places on the market, imports, exports or carries in transit foodstuffs or consumer products must ensure that the statutory requirements are complied with. He or she is obliged to ensure self-supervision.
 
 <sup>2</sup> Official inspection does not imply an exemption from the obligation to carry out self-supervision.
 
@@ -472,11 +508,11 @@ The following shall not be made available to the general public:
 
 **Guaranteeing health protection**
 
-<sup>1</sup> Any person who discovers that the foodstuffs or utility articles that they placed on the market may constitute a health risk must ensure that consumers are not harmed.
+<sup>1</sup> Any person who discovers that the foodstuffs or consumer products that they placed on the market may constitute a health risk must ensure that consumers are not harmed.
 
 <sup>2</sup> The Federal Council may provide that findings in terms of paragraph 1 must be reported to the competent authorities.
 
-<sup>3</sup> It shall regulate the withdrawal and recall of foodstuffs and utility articles that may pose a health risk.
+<sup>3</sup> It shall regulate the withdrawal and recall of foodstuffs and consumer products that may pose a health risk.
 
 <sup>4</sup> Holders and purchasers of animals intended for slaughter must notify the official veterinarian or official assistant in the public veterinary service if there are health concerns concerning an animal or if an animal has been treated with therapeutic products.
 
@@ -489,19 +525,19 @@ The following shall not be made available to the general public:
 It must be possible to trace the following at all levels of production, processing and distribution:
 
 - a. foodstuffs, animals intended for food production and all substances pertaining thereto or which may be expected to be processed into a foodstuff;
-- b. consumer articles;
+- b. food contact materials;
 - c. cosmetics;
 - d. toys.
 
 <sup>2</sup> Companies must set up systems and procedures for this purpose so that at the authorities’ request, they can provide the information on suppliers and companies to whom they supplied their products.
 
-<sup>3</sup> The Federal Council may extend the traceability obligation to cover further utility articles if Switzerland is required to do so under an international treaty.
+<sup>3</sup> The Federal Council may extend the traceability obligation to cover further consumer products if Switzerland is required to do so under an international treaty.
 
 #### Art. 29
 
 **Obligation to assist and to provide information**
 
-<sup>1</sup> Any person who manufactures, handles, stores, transports, places on the market, imports, exports or carries in transit foodstuffs or utility articles, must assist the enforcement authorities free of charge in the conduct of their work, and must on request provide samples of products on offer and the required information.
+<sup>1</sup> Any person who manufactures, handles, stores, transports, places on the market, imports, exports or carries in transit foodstuffs or consumer products, must assist the enforcement authorities free of charge in the conduct of their work, and must on request provide samples of products on offer and the required information.
 
 <sup>2</sup> Any person who slaughters animals must make available, free of charge, the premises, equipment and auxiliary personnel which are necessary for inspecting the animals before their slaughter and for inspecting the meat.
 
@@ -511,14 +547,14 @@ It must be possible to trace the following at all levels of production, processi
 
 **Inspection and taking samples**
 
-<sup>1</sup> Risk-based official inspections shall be carried out at each stage of the production, processing and distribution of foodstuffs, of animals kept for foodstuffs production and of utility articles.
+<sup>1</sup> Risk-based official inspections shall be carried out at each stage of the production, processing and distribution of foodstuffs, of animals kept for foodstuffs production and of consumer products.
 
 <sup>2</sup>
 
 The enforcement authorities shall verify compliance with the provisions of the legislation on foodstuffs. In particular they shall verify whether:
 
-- a. the regulations on self-supervision are being complied with and persons who handle foodstuffs or utility articles observe the hygiene regulations and possess the required specialist knowledge;
-- b. the foodstuffs, utility articles, rooms, equipment, vehicles, manufacturing process, animals, plants and soil used for agriculture comply with the provisions of the legislation on foodstuffs.
+- a. the regulations on self-supervision are being complied with and persons who handle foodstuffs or consumer products observe the hygiene regulations and possess the required specialist knowledge;
+- b. the foodstuffs, consumer products, rooms, equipment, vehicles, manufacturing process, animals, plants and soil used for agriculture comply with the provisions of the legislation on foodstuffs.
 
 <sup>3</sup> In order to verify compliance with the provisions of the legislation on foodstuffs, the enforcement authorities may take samples, inspect documents and other records and make copies thereof.
 
@@ -548,7 +584,7 @@ The official veterinarian or the official assistant in the public veterinary ser
 
 The Federal Council may provide for:
 
-- a. the inspection of other animal animal species before slaughter and the inspection of the meat;
+- a. the inspection of other animal species before slaughter and the inspection of the meat;
 - b. the inspection of the meat of animals killed as game.
 
 <sup>4</sup>
@@ -716,12 +752,12 @@ The Federal Council shall coordinate the enforcement of this Act with the enforc
 - e. Agriculture Act of 29 April 1998[^42-5];
 - f. Epizootic Diseases Act of 1 July 1966[^42-6].
 
-[^42-1]: [SR 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
-[^42-2]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^42-3]: [SR 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
-[^42-4]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^42-5]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^42-6]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^42-1]: [SR 455](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7197)
+[^42-2]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^42-3]: [SR 814.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9621)
+[^42-4]: [SR 818.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9783)
+[^42-5]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^42-6]: [SR 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
 
 #### Art. 43
 
@@ -741,7 +777,7 @@ The laboratories must:
 - b. have sufficient staff, rooms, equipment and resources to be able to fulfil their tasks at all times;
 - c. be able to provide suitable guarantees of their credibility, impartiality and independence vis-à-vis persons who manufacture, import or place on the market products that fall within the scope of responsibility of the laboratories concerned.
 
-[^43-1]: [[AS 1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508); [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Annex No 3; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 11; [2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775)Art. 25 para. 1; [2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)Annex No 1, [6515](https://fedlex.data.admin.ch/eli/oc/2011/902)Art. 26 para. 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)No I 2; [2015 773](https://fedlex.data.admin.ch/eli/oc/2015/140); [2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820)Annex No II 1; [2019 4101](https://fedlex.data.admin.ch/eli/oc/2019/717)Art. 1. [AS 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126)Annex 7 No I]. See now: the FA of 21 June 2019 ([SR 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)).
+[^43-1]: [[AS 1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508); [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Annex No 3; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Annex No 11; [2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775)Art. 25 para. 1; [2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)Annex No 1, [6515](https://fedlex.data.admin.ch/eli/oc/2011/902)Art. 26 para. 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)No I 2; [2015 773](https://fedlex.data.admin.ch/eli/oc/2015/140); [2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820)Annex No II 1; [2019 4101](https://fedlex.data.admin.ch/eli/oc/2019/717)Art. 1. [AS 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126)Annex 7 No I]. See now: the FA of 21 June 2019 ([SR 172.056.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5197)).
 
 #### Art. 44
 
@@ -759,11 +795,11 @@ The laboratories must:
 
 <sup>2</sup> International administrative assistance is governed by Article 22 of the Federal Act of 6 October 1995[^45-1] on Technical Barriers to Trade.
 
-<sup>3</sup> The Federal Council may on its own initiative conclude international agreements on Switzerland’s participation in international systems to guarantee the safety of foodstuffs and utility articles.
+<sup>3</sup> The Federal Council may on its own initiative conclude international agreements on Switzerland’s participation in international systems to guarantee the safety of foodstuffs and consumer products.
 
 <sup>4</sup> It may recognise foreign inspection agencies, declarations and certificates of conformity and inspections, controls, conformity assessments or licencing procedures carried out abroad. Article 18 paragraph 2 of the Federal Act on Technical Barriers to Trade remains reserved.
 
-[^45-1]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^45-1]: [SR 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 #### Art. 46
 
@@ -771,16 +807,16 @@ The laboratories must:
 
 <sup>1</sup>
 
-Foreign authorities that wish to inspect Swiss businesses that export foodstuffs or utility articles to their countries require the consent of the competent federal authority. The authority shall issue its consent if:
+Foreign authorities that wish to inspect Swiss businesses that export foodstuffs or consumer products to their countries require the consent of the competent federal authority. The authority shall issue its consent if:
 
-- a. the inspections have the sole purpose of verifying compliance with the regulations of the country concerned on manufacturing foodstuffs or utility articles and with the requirements relating to the condition of the foodstuffs or utility articles to be exported; and
+- a. the inspections have the sole purpose of verifying compliance with the regulations of the country concerned on manufacturing foodstuffs or consumer products and with the requirements relating to the condition of the foodstuffs or consumer products to be exported; and
 - b. the business to be inspected agrees to the inspection.
 
 <sup>2</sup> The competent federal authority may require that it be allowed to attend the inspection or that it be notified of the results by the foreign authority that carries out the inspection.
 
 <sup>3</sup>
 
-The competent Swiss authorities may inspect businesses in the countries that export foodstuffs or utility articles to Switzerland provided:
+The competent Swiss authorities may inspect businesses in the countries that export foodstuffs or consumer products to Switzerland provided:
 
 - a. this is required to guarantee health protection; and
 - b. provision is made for this in an international agreement or the countries concerned consent in individual cases.
@@ -793,7 +829,7 @@ The competent Swiss authorities may inspect businesses in the countries that exp
 
 <sup>1</sup> The cantons shall enforce this Act unless the Confederation is responsible.
 
-<sup>2</sup> They shall ensure that inspections of foodstuffs and utility articles are carried out in Switzerland.
+<sup>2</sup> They shall ensure that inspections of foodstuffs and consumer products are carried out in Switzerland.
 
 #### Art. 48
 
@@ -840,9 +876,9 @@ The cantons shall appoint as enforcement officers:
 
 **Coordination, management and cooperation with the federal authorities**
 
-<sup>1</sup> Each canton shall on its own territory coordinate the implementation of the legislation on foodstuffs and utility articles from manufacture to supply to the consumers.
+<sup>1</sup> Each canton shall on its own territory coordinate the implementation of the legislation on foodstuffs and consumer products from manufacture to supply to the consumers.
 
-<sup>2</sup> The cantonal chemist shall enforce this Act in relation to foodstuffs and utility articles. In doing so, he or she shall be professionally independent.
+<sup>2</sup> The cantonal chemist shall enforce this Act in relation to foodstuffs and consumer products. In doing so, he or she shall be professionally independent.
 
 <sup>3</sup> The cantonal veterinarian shall enforce this Act in relation to the primary production of foodstuffs of animal origin and the slaughter of animals. The canton may also delegate him or her the task of inspecting the processing of slaughtered animals. The cantonal veterinarian shall be professional independent in carrying out these tasks.
 
@@ -880,7 +916,7 @@ The cantons shall appoint as enforcement officers:
 
 **Public warnings**
 
-<sup>1</sup> If the enforcement authorities establish that unsafe foodstuffs or utility articles have been supplied to an undetermined number of consumers, they shall ensure that the public are informed and advised on what action to take.
+<sup>1</sup> If the enforcement authorities establish that unsafe foodstuffs or consumer products have been supplied to an undetermined number of consumers, they shall ensure that the public are informed and advised on what action to take.
 
 <sup>2</sup> If the public in two or more cantons are placed at risk, the federal authorities shall provide information and recommendations.
 
@@ -980,7 +1016,7 @@ Fees shall be charged for:
 The competent federal authorities, the cantonal authorities and third parties in terms of paragraph 2 letters c and d shall supply each other with the data that they need to:
 
 - a. be able to fulfil the tasks assigned to them under the foodstuffs legislation;
-- b. be able to fulfil their reporting duties under international treaties relating to foodstuffs and utility articles.
+- b. be able to fulfil their reporting duties under international treaties relating to foodstuffs and consumer products.
 
 <sup>2</sup>
 
@@ -991,7 +1027,7 @@ The Federal Council shall regulate:
 - c. the exchange of data with third parties that have been assigned public duties under Article 55;
 - d. the exchange of data with third parties that have been entrusted with duties under Articles 14–16, 18, 64 and 180 of the Agriculture Act of 29 April 1998[^60-1].
 
-[^60-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^60-1]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 #### Art. 61
 
@@ -1014,27 +1050,27 @@ Data on administrative and criminal proceedings may only be passed on to foreign
 
 The Federal Food Safety and Veterinary Office (FSVO) shall operate an information system:
 
-- a. to guarantee the safety and hygiene of foodstuffs and utility articles as well as protection against deception in terms of its duties under this Act;
+- a. to guarantee the safety and hygiene of foodstuffs and consumer products as well as protection against deception in terms of its duties under this Act;
 - b. to support the enforcement activities of the Confederation and cantons under this Act;
 - c. to facilitate reporting at national and international levels.
 
-<sup>2</sup> The FSVO information system is part of the joint central information system along the food chain of the Federal Office for Agriculture (FOAG) and of the FSVO that aims to guarantee the safety of foodstuffs and utility articles, fodder safety, animal welfare, animal protection and faultless primary production.
+<sup>2</sup> The FSVO information system is part of the joint central information system along the food chain of the Federal Office for Agriculture (FOAG) and of the FSVO that aims to guarantee the safety of foodstuffs and consumer products, fodder safety, animal welfare, animal protection and faultless primary production.
 
 <sup>3</sup>
 
 The FSVO information system shall contain personal data including:
 
 - a. data on administrative and criminal proceedings and sanctions;
-- b. health data in relation to the safety of foodstuffs and utility articles;
+- b. health data in relation to the safety of foodstuffs and consumer products;
 - c. data on the results of inspections and laboratory analyses;
-- d. data on deception in connection with foodstuffs and utility articles.
+- d. data on deception in connection with foodstuffs and consumer products.
 
 <sup>4</sup>
 
 In terms of their statutory duties, the following authorities may process data in the FSVO information system online:
 
-- a. the FSVO: to guarantee the safety of foodstuffs and utility articles, the hygiene of foodstuffs and utility articles, protection against deception, fodder safety, animal welfare, animal protection and faultless primary production;
-- b. the FOAG: to guarantee the safety of foodstuffs and utility articles, the hygiene of foodstuffs and utility articles, protection against deception, fodder safety, animal welfare, animal protection and faultless primary production;
+- a. the FSVO: to guarantee the safety of foodstuffs and consumer products, the hygiene of foodstuffs and consumer products, protection against deception, fodder safety, animal welfare, animal protection and faultless primary production;
+- b. the FOAG: to guarantee the safety of foodstuffs and consumer products, the hygiene of foodstuffs and consumer products, protection against deception, fodder safety, animal welfare, animal protection and faultless primary production;
 - c.[^62-1] the Federal Office for Customs and Border Security (FOCBS): for the purpose of carrying out its duties under Article 38 paragraph 1;
 - d. the cantonal enforcement authorities: to fulfil their duties in their respective areas of responsibility.
 
@@ -1042,11 +1078,11 @@ In terms of their statutory duties, the following authorities may process data i
 
 In order to fulfil their duties, the following authorities may access the following data in the FSVO information system online:
 
-- a. the FSVO: data on the safety of foodstuffs and utility articles, the hygiene of foodstuffs and utility articles, protection against deception, fodder safety, animal welfare, animal protection and primary production;
-- b. the FOAG: data on the safety of foodstuffs and utility articles, the hygiene of foodstuffs and utility articles, protection against deception, fodder safety, animal welfare, animal protection and primary production;
+- a. the FSVO: data on the safety of foodstuffs and consumer products, the hygiene of foodstuffs and consumer products, protection against deception, fodder safety, animal welfare, animal protection and primary production;
+- b. the FOAG: data on the safety of foodstuffs and consumer products, the hygiene of foodstuffs and consumer products, protection against deception, fodder safety, animal welfare, animal protection and primary production;
 - c.[^62-2] the FOCBS: data for the purpose of carrying out its duties under Article 38 paragraph 1;
 - d. other federal agencies responsible for implementing this Act: data that they require to fulfil the duties assigned to them, provided the Federal Council so provides;
-- e. the cantonal enforcement authorities: data on the safety of foodstuffs and utility articles, the hygiene of foodstuffs and utility articles, protection against deception, fodder safety, animal welfare, animal protection and primary production;
+- e. the cantonal enforcement authorities: data on the safety of foodstuffs and consumer products, the hygiene of foodstuffs and consumer products, protection against deception, fodder safety, animal welfare, animal protection and primary production;
 - f. third parties assigned public duties under Article 55: data that they require to fulfil the duties assigned to them;
 - g. third parties entrusted with public duties under Articles 14–16, 18, 64 and 180 of the Agriculture Act of 29 April 1998[^62-3]: data that they require to fulfil the duties assigned to them.
 
@@ -1066,7 +1102,7 @@ The Federal Council shall regulate the following in relation to the FSVO informa
 
 [^62-1]: Amended by No I 32 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change to the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 [^62-2]: Amended by No I 32 of the O of 12 June 2020 on the Amendment of Legislation as a consequence of the Change to the Name of the Federal Customs Administration as part of its further Development, in force since 1 Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^62-3]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^62-3]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 ## Chapter 7 Criminal Law Provisions and Rights of Appeal
 
@@ -1078,15 +1114,15 @@ The Federal Council shall regulate the following in relation to the FSVO informa
 
 <sup>1</sup> shall be liable to a custodial sentence not exceeding three years or a monetary penalty.
 
-Any person who wilfully:
+Any person who intentionally:
 
 - a. manufactures, handles, stores, transports or places on the market foodstuffs in such a way that, when used normally, they present a risk to health;
-- b. manufactures, handles, stores, transports or places on the market utility articles in such a way that, when used normally or in a reasonably foreseeable manner, they present a risk to health;
-- c. imports, exports or carries in transit foodstuffs or utility articles that present a risk to health;
+- b. manufactures, handles, stores, transports or places on the market consumer products in such a way that, when used normally or in a reasonably foreseeable manner, they present a risk to health;
+- c. imports, exports or carries in transit foodstuffs or consumer products that present a risk to health;
 
-<sup>2</sup> If the offender acts in a professional capacity or for personal gain, he shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
+<sup>2</sup> If the offender acts in a professional capacity or for personal gain, he or she shall be liable to a custodial sentence not exceeding five years or to a monetary penalty.
 
-<sup>3</sup> If the offender acts through negligence, he shall be liable to a monetary penalty not exceeding 180 daily penalty units.
+<sup>3</sup> If the offender acts through negligence, he or she shall be liable to a monetary penalty not exceeding 180 daily penalty units.
 
 <sup>4</sup> Compliance with the duty to report under Article 27 paragraph 2 may be regarded as grounds for mitigating the penalty.
 
@@ -1096,25 +1132,25 @@ Any person who wilfully:
 
 <sup>1</sup> shall be liable to a fine not exceeding 40 000 francs.
 
-Any person who wilfully:
+Any person who intentionally:
 
-- a. manufactures, handles, stores, transports or places on the market foodstuffs or utility articles in such a way that they do not meet the requirements of this Act;
-- b. infringes the regulations on the hygienic handling of foodstuffs and utility articles;
+- a. manufactures, handles, stores, transports or places on the market foodstuffs or consumer products in such a way that they do not meet the requirements of this Act;
+- b. infringes the regulations on the hygienic handling of foodstuffs and consumer products;
 - c. uses substances or procedures that are banned for agricultural production or for the manufacture of foodstuffs;
-- d. infringes the regulations based on this Act relating to the import, export and transit of foodstuffs and utility articles;
+- d. infringes the regulations based on this Act relating to the import, export and transit of foodstuffs and consumer products;
 - e. slaughters animals without authorisation other than in authorised slaughterhouses;
-- f. withholds foodstuffs, utility articles, premises, equipment, facilities, vehicles, manufacturing procedures, animals, plants, or land used for foodstuff production from inspection by the enforcement authorities, or prevents or obstructs controls;
+- f. withholds foodstuffs, consumer products, premises, equipment, facilities, vehicles, manufacturing procedures, animals, plants, or land used for foodstuff production from inspection by the enforcement authorities, or prevents or obstructs controls;
 - g. refuses to provide the enforcement authorities with information required under Article 29 paragraph 1;
 - h. contravenes the regulations on the supply of alcoholic drinks;
-- i. contravenes the regulations on protection against deception relating to foodstuffs and utility articles;
-- j. contravenes the regulations on the labelling, presentation or advertising of foodstuffs or utility articles;
+- i. contravenes the regulations on protection against deception relating to foodstuffs and consumer products;
+- j. contravenes the regulations on the labelling, presentation or advertising of foodstuffs or consumer products;
 - k. contravenes the regulations on self-supervision under Article 26, the obligation to notify under Article 27, traceability under Article 28 or the licensing and the reporting requirements;
 
 <sup>2</sup> If the offender acts on a commercial basis or for financial gain, the penalty shall be a fine not exceeding 80 000 francs.
 
 <sup>3</sup> Attempts and complicity are also offences.
 
-<sup>4</sup> If the offender acts through negligence, he shall be liable to a fine not exceeding 20 000 francs.
+<sup>4</sup> If the offender acts through negligence, he or she shall be liable to a fine not exceeding 20 000 francs.
 
 <sup>5</sup> If the enforcement authorities obtain information on the basis of the obligation to provide support and information in Article 29 paragraph 1, such information is only admissible in criminal proceedings against the person concerned if that person consents or if the information could have been obtained without that person’s cooperation.
 
@@ -1124,7 +1160,7 @@ Any person who wilfully:
 
 The criminal provisions on offences in commercial establishments and on the forgery of documents under Articles 6, 7 and 15 of the Federal Act of 22 March 1974[^65-1] on Administrative Criminal Law also apply to the cantonal authorities in the field of foodstuffs law.
 
-[^65-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^65-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 66
 

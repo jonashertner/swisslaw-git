@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 20. Juni 2014 über Lebensmittel und Gebrauchsgegenstä
 short: LMG
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/62"
 language: de
-version: 2022-01-01
+version: 2024-10-01
 adopted: 2014-06-20
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/62/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2017-62-20220101-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/62/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/62/20241001/de/xml/fedlex-data-admin-ch-eli-cc-2017-62-20241001-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/62/20241001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/62/20220101/de"
 
 (Lebensmittelgesetz, LMG)
 
-vom 20. Juni 2014 (Stand am 1. Januar 2022)
+vom 20. Juni 2014 (Stand am 1. Oktober 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 97 Absatz 1, 105 und 118 Absatz 2 Buchstabe a der Bund
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2011 5571](https://fedlex.data.admin.ch/eli/fga/2011/853)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -296,8 +296,44 @@ Vorbehalten bleiben Abgabe- und Werbebeschränkungen nach den folgenden Gesetzen
 - a. Bundesgesetz vom 24. März 2006[^14-1] über Radio und Fernsehen;
 - b. Alkoholgesetz vom 21. Juni 1932[^14-2].
 
-[^14-1]: [SR 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
-[^14-2]: [SR 680](https://fedlex.data.admin.ch/eli/cc/48/425_437_457)
+[^14-1]: [SR 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
+[^14-2]: [SR 680](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8313)
+
+#### Art. 14a
+
+**Alkoholtestkäufe**[^14a-1]
+
+<sup>1</sup> Die zuständige kantonale Behörde kann zur Überprüfung der Einhaltung der Altersbeschränkung für die Abgabe alkoholischer Getränke Testkäufe durchführen oder anordnen.
+
+<sup>2</sup> Ein Testkauf ist ein Kauf oder ein versuchter Kauf eines alkoholischen Getränks durch eine beauftragte minderjährige Person.
+
+<sup>3</sup>
+
+Die bei Testkäufen gewonnenen Erkenntnisse können in Straf- oder Verwaltungsverfahren nur verwendet werden, wenn die folgenden Voraussetzungen erfüllt sind:
+
+- a. Die Testkäufe werden von der kantonalen Behörde oder von einer anerkannten Fachorganisation durchgeführt.
+- b. Die minderjährige Person und eine Inhaberin oder ein Inhaber der elterlichen Sorge haben der Teilnahme an den Testkäufen schriftlich zugestimmt.
+- c.
+
+  Die kantonale Behörde oder eine anerkannte Fachorganisation stellt fest, dass:
+
+  - 1\. die minderjährige Person sich für den vorgesehenen Einsatz eignet; und
+  - 2\. sie hinreichend auf den Einsatz vorbereitet worden ist.
+
+- d. Die minderjährige Person leistet ihren Einsatz anonym und wird dabei von einer erwachsenen Person begleitet.
+- e. Es werden keine Massnahmen getroffen, die das wahre Alter der minderjährigen Person verschleiern.
+- f. Der Testkauf wird umgehend protokolliert und dokumentiert.
+
+<sup>4</sup>
+
+Der Bundesrat regelt insbesondere:
+
+- a. die Anerkennung und die Beaufsichtigung der beigezogenen Fachorganisationen;
+- b. die Einzelheiten betreffend die Rekrutierung, die Instruktion, die Begleitung und den Persönlichkeitsschutz der Minderjährigen;
+- c. die Anforderungen an die Protokollierung und die Dokumentation der durchgeführten Testkäufe;
+- d. die Rückmeldungen an die betroffenen Verkaufsstellen.
+
+[^14a-1]: Eingefügt durch Anhang 3 Ziff. 2 des Tabakproduktegesetzes vom 1. Okt. 2021, in Kraft seit 1. Okt. 2024 ([AS 2024 457](https://fedlex.data.admin.ch/eli/oc/2024/457); [BBl 2019 919](https://fedlex.data.admin.ch/eli/fga/2019/169)).
 
 ### 2. Abschnitt: Gebrauchsgegenstände
 
@@ -369,7 +405,7 @@ Der Bundesrat kann zur Gewährleistung des Täuschungsschutzes:
 
 <sup>5</sup> Er kann zur Umsetzung internationaler Verpflichtungen weitere Gebrauchsgegenstände den Vorschriften dieses Artikels unterwerfen.
 
-[^18-1]: [SR 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
+[^18-1]: [SR 232.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5961)
 
 #### Art. 19
 
@@ -389,7 +425,7 @@ Der Bundesrat kann zur Gewährleistung des Täuschungsschutzes:
 
 <sup>3</sup> Er kann das Inverkehrbringen kosmetischer Mittel, deren endgültige Zusammensetzung oder deren Bestandteile mit Tierversuchen getestet worden sind, zur Einhaltung der Bestimmungen der Lebensmittelgesetzgebung, einschränken oder verbieten.
 
-[^20-1]: [SR 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
+[^20-1]: [SR 814.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9621)
 
 ### 4. Abschnitt: Aufgaben der Behörden
 
@@ -714,12 +750,12 @@ Der Bundesrat koordiniert den Vollzug dieses Gesetzes mit dem Vollzug namentlich
 - e. Landwirtschaftsgesetz vom 29. April 1998[^42-5];
 - f. Tierseuchengesetz vom 1. Juli 1966[^42-6].
 
-[^42-1]: [SR 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
-[^42-2]: [SR 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^42-3]: [SR 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
-[^42-4]: [SR 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^42-5]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^42-6]: [SR 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^42-1]: [SR 455](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7197)
+[^42-2]: [SR 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^42-3]: [SR 814.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9621)
+[^42-4]: [SR 818.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9783)
+[^42-5]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^42-6]: [SR 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
 
 #### Art. 43
 
@@ -739,7 +775,7 @@ Die Laboratorien müssen:
 - b. über genügend Personal, Räume, Ausrüstung und Mittel verfügen, um den ihnen übertragenen Auftrag jederzeit erfüllen zu können;
 - c. geeignete Garantien beibringen können für ihre Vertrauenswürdigkeit, Unparteilichkeit und Unabhängigkeit gegenüber Personen, die Produkte herstellen, einführen oder vermarkten, die in den Zuständigkeitsbereich des betreffenden Labors fallen.
 
-[^43-1]: [[AS 1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508); [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 3; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 11; [2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775)Art. 25 Ziff. 1; [2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)Anhang Ziff. 1, [6515](https://fedlex.data.admin.ch/eli/oc/2011/902)Art. 26 Ziff. 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 2; [2015 773](https://fedlex.data.admin.ch/eli/oc/2015/140); [2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820)Anhang Ziff. II 1; [2019 4101](https://fedlex.data.admin.ch/eli/oc/2019/717)Art. 1. [AS 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126)Anhang 7 Ziff. I]. Siehe heute: das BG vom 21. Juni 2019 ([SR 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)).
+[^43-1]: [[AS 1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508); [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)Anhang Ziff. 3; [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)Anhang Ziff. 11; [2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775)Art. 25 Ziff. 1; [2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)Anhang Ziff. 1, [6515](https://fedlex.data.admin.ch/eli/oc/2011/902)Art. 26 Ziff. 1; [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)Ziff. I 2; [2015 773](https://fedlex.data.admin.ch/eli/oc/2015/140); [2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820)Anhang Ziff. II 1; [2019 4101](https://fedlex.data.admin.ch/eli/oc/2019/717)Art. 1. [AS 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126)Anhang 7 Ziff. I]. Siehe heute: das BG vom 21. Juni 2019 ([SR 172.056.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5197)).
 
 #### Art. 44
 
@@ -761,7 +797,7 @@ Die Laboratorien müssen:
 
 <sup>4</sup> Er kann ausländische Prüfstellen, Konformitätserklärungen und -bescheinigungen sowie im Ausland durchgeführte Prüfungen, Kontrollen, Konformitätsbewertungen oder Zulassungen anerkennen. Artikel 18 Absatz 2 THG bleibt vorbehalten.
 
-[^45-1]: [SR 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^45-1]: [SR 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 #### Art. 46
 
@@ -989,7 +1025,7 @@ Der Bundesrat regelt:
 - c. den Datenaustausch mit Dritten, denen nach Artikel 55 öffentliche Aufgaben übertragen sind;
 - d. den Datenaustausch mit Dritten, die mit Aufgaben nach den Artikeln 14–16, 18, 64 und 180 des Landwirtschaftsgesetzes vom 29. April 1998[^60-1] betraut sind.
 
-[^60-1]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^60-1]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 #### Art. 61
 
@@ -1064,7 +1100,7 @@ Der Bundesrat regelt für das Informationssystem des BLV:
 
 [^62-1]: Fassung gemäss Ziff. I 32 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 [^62-2]: Fassung gemäss Ziff. I 32 der V vom 12. Juni 2020 über die Anpassung von Gesetzen infolge der Änderung der Bezeichnung der Eidgenössischen Zollverwaltung im Rahmen von deren Weiterentwicklung, in Kraft seit 1. Jan. 2022 ([AS 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^62-3]: [SR 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^62-3]: [SR 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 ## 7. Kapitel: Strafbestimmungen und Rechtsschutz
 
@@ -1122,7 +1158,7 @@ Mit Busse bis zu 40 000 Franken wird bestraft, wer vorsätzlich:
 
 Die Strafbestimmungen über Widerhandlungen in Geschäftsbetrieben und über Urkundenfälschung nach den Artikeln 6, 7 und 15 des Bundesgesetzes vom 22. März 1974[^65-1] über das Verwaltungsstrafrecht gelten im Bereich des Lebensmittelrechts auch für die kantonalen Behörden.
 
-[^65-1]: [SR 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^65-1]: [SR 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 66
 

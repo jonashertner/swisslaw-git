@@ -4,22 +4,23 @@ title: "Loi fédérale du 20 juin 2014 sur les denrées alimentaires et les obje
 short: LDAl
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/62"
 language: fr
-version: 2022-01-01
+version: 2024-10-01
 adopted: 2014-06-20
 in_force: 2017-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/62/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2017-62-20220101-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/62/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/62/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-2017-62-20241001-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/62/20241001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur les denrées alimentaires et les objets usuels
+# Loi fédérale sur les denrées alimentaires et les objets usuels\*
 
-(Loi sur les denrées alimentaires, LDAl)[^t-1]
+(Loi sur les denrées alimentaires, LDAl)[^t-2][^t-1]
 
-du 20 juin 2014 (État le 1<sup>er</sup> janvier 2022)
+du 20 juin 2014 (État le 1<sup>er</sup> octobre 2024)
 
-[^t-1]: Rectifié par la CdR de l’Ass. féd. (art. 33 LREC; [RO 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
+[^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
+[^t-2]: Rectifié par la CdR de l’Ass. féd. (art. 33 LREC; [RO 1974 1051](https://fedlex.data.admin.ch/eli/oc/1974/1051_1051_1051)).
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -27,7 +28,7 @@ vu les art. 97, al. 1, 105 et 118, al. 2, let. a, de la Constitution[^ingress-1]
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2011 5181](https://fedlex.data.admin.ch/eli/fga/2011/853)
 
 ## Chapitre 1 Dispositions générales
@@ -298,8 +299,44 @@ Les restrictions imposées par les lois suivantes en matière de remise d’alco
 - a. loi fédérale du 24 mars 2006 sur la radio et la télévision[^14-1];
 - b. loi fédérale du 21 juin 1932 sur l’alcool[^14-2].
 
-[^14-1]: [RS 784.40](https://fedlex.data.admin.ch/eli/cc/2007/150)
-[^14-2]: [RS 680](https://fedlex.data.admin.ch/eli/cc/48/425_437_457)
+[^14-1]: [RS 784.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9210)
+[^14-2]: [RS 680](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8313)
+
+#### Art. 14a
+
+**Achats tests d’alcool**[^14a-1]
+
+<sup>1</sup> Afin de contrôler le respect de la limite d’âge prévue pour la remise de boissons alcooliques, l’autorité cantonale compétente peut effectuer ou ordonner des achats tests.
+
+<sup>2</sup> Un achat test est un achat ou une tentative d’achat d’une boisson alcoolique effectué sur mandat par un mineur.
+
+<sup>3</sup>
+
+Les informations obtenues lors des achats tests ne peuvent être utilisées dans des procédures pénales ou administratives que si les conditions suivantes sont réunies:
+
+- a. les achats tests ont été effectués par l’autorité cantonale ou par une organisation spécialisée reconnue;
+- b. le mineur et une personne qui détient l’autorité parentale sur celui-ci ont donné leur accord écrit quant à sa participation aux achats tests;
+- c.
+
+  l’autorité cantonale ou une organisation spécialisée reconnue a constaté:
+
+  - 1\. que le mineur convient pour l’engagement prévu, et
+  - 2\. qu’il y a été dûment préparé;
+
+- d. le mineur a rempli sa tâche de manière anonyme et a été accompagné par un adulte;
+- e. aucune mesure n’a été prise pour dissimuler son âge réel;
+- f. un procès-verbal des achats tests, étayé de documents, a été dressé sans délai.
+
+<sup>4</sup>
+
+Le Conseil fédéral règle en particulier:
+
+- a. la reconnaissance et la surveillance des organisations spécialisées impliquées;
+- b. les modalités concernant l’engagement, l’instruction, l’accompagnement et la protection de la personnalité des mineurs;
+- c. les exigences liées au procès-verbal et à la documentation des achats tests effectués;
+- d. la communication des résultats aux points de vente concernés.
+
+[^14a-1]: Introduit par l’annexe 3 ch. 2 de la L du 1<sup>er</sup> oct. 2021 sur les produits du tabac, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 457](https://fedlex.data.admin.ch/eli/oc/2024/457); [FF 2019 899](https://fedlex.data.admin.ch/eli/fga/2019/169)).
 
 ### Section 2 Objets usuels
 
@@ -371,7 +408,7 @@ Pour garantir la protection contre la tromperie, le Conseil fédéral peut:
 
 <sup>5</sup> Le Conseil fédéral peut soumettre d’autres objets usuels au présent article en vue de mettre en œuvre des engagements internationaux.
 
-[^18-1]: [RS 232.11](https://fedlex.data.admin.ch/eli/cc/1993/274_274_274)
+[^18-1]: [RS 232.11](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5961)
 
 #### Art. 19
 
@@ -391,7 +428,7 @@ Pour garantir la protection contre la tromperie, le Conseil fédéral peut:
 
 <sup>3</sup> Pour garantir le respect des dispositions de la législation sur les denrées alimentaires, le Conseil fédéral peut limiter ou interdire la mise sur le marché de produits cosmétiques dont le produit final ou ses composants ont été testés sur des animaux.
 
-[^20-1]: [RS 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
+[^20-1]: [RS 814.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9621)
 
 ### Section 4 Tâches des autorités
 
@@ -716,12 +753,12 @@ Le Conseil fédéral coordonne l’exécution de la présente loi notamment avec
 - e. loi du 29 avril 1998 sur l’agriculture[^42-5];
 - f. loi du 1<sup>er</sup> juillet 1966 sur les épizooties[^42-6].
 
-[^42-1]: [RS 455](https://fedlex.data.admin.ch/eli/cc/2008/414)
-[^42-2]: [RS 812.21](https://fedlex.data.admin.ch/eli/cc/2001/422)
-[^42-3]: [RS 814.91](https://fedlex.data.admin.ch/eli/cc/2003/705)
-[^42-4]: [RS 818.101](https://fedlex.data.admin.ch/eli/cc/2015/297)
-[^42-5]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
-[^42-6]: [RS 916.40](https://fedlex.data.admin.ch/eli/cc/1966/1565_1621_1604)
+[^42-1]: [RS 455](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/7197)
+[^42-2]: [RS 812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9354)
+[^42-3]: [RS 814.91](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9621)
+[^42-4]: [RS 818.101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/9783)
+[^42-5]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
+[^42-6]: [RS 916.40](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10835)
 
 #### Art. 43
 
@@ -741,7 +778,7 @@ Les laboratoires doivent répondre aux exigences suivantes:
 - b. disposer des personnels, locaux, équipements et moyens leur permettant d’accomplir à tout moment les missions qui leur incombent;
 - c. présenter les garanties appropriées de confidentialité, d’impartialité et d’indépendance à l’égard de toute personne fabriquant, important ou commercialisant des produits relevant de leur domaine de compétence.
 
-[^43-1]: [[RO 1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508), [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)appendice ch. 3, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 11, [2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775)art. 25 ch. 1, [2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)annexe ch. 1 [6515](https://fedlex.data.admin.ch/eli/oc/2011/902)art. 26 ch. 1, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 2, [2015 773](https://fedlex.data.admin.ch/eli/oc/2015/140), [2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820)annexe ch. II 1, [2019 4101](https://fedlex.data.admin.ch/eli/oc/2019/717)art. 1. [RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126)annexe 7 ch. I]. Voir actuellement la LF du 21 juin 2019 ([RS 172.056.1](https://fedlex.data.admin.ch/eli/cc/2020/126)).
+[^43-1]: [[RO 1996 508](https://fedlex.data.admin.ch/eli/oc/1996/508_508_508), [1997 2465](https://fedlex.data.admin.ch/eli/oc/1997/2465_2465_2465)appendice ch. 3, [2006 2197](https://fedlex.data.admin.ch/eli/oc/2006/352)annexe ch. 11, [2007 5635](https://fedlex.data.admin.ch/eli/oc/2007/775)art. 25 ch. 1, [2011 5659](https://fedlex.data.admin.ch/eli/oc/2011/799)annexe ch. 1 [6515](https://fedlex.data.admin.ch/eli/oc/2011/902)art. 26 ch. 1, [2012 3655](https://fedlex.data.admin.ch/eli/oc/2012/419)ch. I 2, [2015 773](https://fedlex.data.admin.ch/eli/oc/2015/140), [2017 7563](https://fedlex.data.admin.ch/eli/oc/2017/820)annexe ch. II 1, [2019 4101](https://fedlex.data.admin.ch/eli/oc/2019/717)art. 1. [RO 2020 641](https://fedlex.data.admin.ch/eli/oc/2020/126)annexe 7 ch. I]. Voir actuellement la LF du 21 juin 2019 ([RS 172.056.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5197)).
 
 #### Art. 44
 
@@ -763,7 +800,7 @@ Les laboratoires doivent répondre aux exigences suivantes:
 
 <sup>4</sup> Le Conseil fédéral peut reconnaître des services de contrôle étrangers, des déclarations et des attestations de conformité étrangères, des essais, des contrôles et des évaluations de conformité effectués à l’étranger ainsi que des autorisations établies à l’étranger. L’art. 18, al. 2, LETC est réservé.
 
-[^45-1]: [RS 946.51](https://fedlex.data.admin.ch/eli/cc/1996/1725_1725_1725)
+[^45-1]: [RS 946.51](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/11467)
 
 #### Art. 46
 
@@ -991,7 +1028,7 @@ Le Conseil fédéral règle:
 - c. l’échange de données avec les tiers auxquels des tâches officielles sont confiées en vertu de l’art. 55;
 - d. l’échange de données avec les tiers chargés des tâches visées aux art. 14 à 16, 18, 64 et 180 de la loi du 29 avril 1998 sur l’agriculture[^60-1].
 
-[^60-1]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^60-1]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 #### Art. 61
 
@@ -1038,10 +1075,11 @@ Dans le cadre des tâches qui leur sont assignées par la loi, les autorités ci
 - c.[^62-1] Office fédéral de la douane et de la sécurité des frontières (OFDF): en vue d’exécuter les tâches visées à l’art. 38, al. 1;
 - d. autorités cantonales d’exécution: afin de remplir les tâches qui leur sont attribuées dans leurs domaines de compétence respectifs.
 
-<sup>5</sup> Pour accomplir les tâches qui leur sont confiées, les autorités et organes ci-après peuvent consulter en ligne les données suivantes dans le système d’information de l’OSAV:
+<sup>5</sup>
 
-a. OSAV: données sur la sécurité et l’hygiène des denrées alimentaires et des objets usuels, la protection contre la tromperie, la sécurité des aliments pour animaux, la santé des animaux, la protection des animaux et la production primaire;
+Pour accomplir les tâches qui leur sont confiées, les autorités et organes ci-après peuvent consulter en ligne les données suivantes dans le système d’information de l’OSAV:
 
+- a. OSAV: données sur la sécurité et l’hygiène des denrées alimentaires et des objets usuels, la protection contre la tromperie, la sécurité des aliments pour animaux, la santé des animaux, la protection des animaux et la production primaire;
 - b. OFAG: données sur la sécurité et l’hygiène des denrées alimentaires, la protection contre la tromperie, la sécurité des aliments pour animaux, la santé des animaux, la protection des animaux et la production primaire;
 - c.[^62-2] OFDF: données permettant d’accomplir les tâches d’exécution visées à l’art. 38, al. 1;
 - d. autres services fédéraux chargés de tâches relevant de la mise en œuvre de la présente loi: données nécessaires à l’accomplissement des tâches qui leur sont assignées dans la mesure où le Conseil fédéral le prévoit;
@@ -1065,7 +1103,7 @@ Pour le système d’information de l’OSAV, le Conseil fédéral règle:
 
 [^62-1]: Nouvelle teneur selon le ch. I 32 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
 [^62-2]: Nouvelle teneur selon le ch. I 32 de l’O du 12 juin 2020 sur l’adaptation de lois à la suite de la modification de la désignation de l’Administration fédérale des douanes dans le cadre du développement de cette dernière, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2020 2743](https://fedlex.data.admin.ch/eli/oc/2020/498)).
-[^62-3]: [RS 910.1](https://fedlex.data.admin.ch/eli/cc/1998/3033_3033_3033)
+[^62-3]: [RS 910.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/10401)
 
 ## Chapitre 7 Dispositions pénales et voies de droit
 
@@ -1123,7 +1161,7 @@ Est puni d’une amende de 40 000 francs au plus quiconque, intentionnellement:
 
 Les dispositions pénales relatives aux infractions commises dans une entreprise et aux faux dans les titres fixées aux art. 6, 7 et 15 de la loi fédérale du 22 mars 1974 sur le droit pénal administratif[^65-1] s’appliquent également aux autorités cantonales dans le domaine régi par le droit sur les denrées alimentaires.
 
-[^65-1]: [RS 313.0](https://fedlex.data.admin.ch/eli/cc/1974/1857_1857_1857)
+[^65-1]: [RS 313.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6234)
 
 #### Art. 66
 
