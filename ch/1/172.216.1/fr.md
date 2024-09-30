@@ -4,11 +4,11 @@ title: "Ordonnance du 14 juin 1999 sur l'organisation du Département fédéral 
 short: Org DEFR
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/344"
 language: fr
-version: 2022-01-01
+version: 2024-10-01
 adopted: 1999-06-14
 in_force: 1999-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/344/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-1999-344-20220101-fr-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/344/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/344/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-1999-344-20241001-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/344/20241001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/344/20220101/fr"
 
 (Org DEFR)[^t-1]
 
-du 14 juin 1999 (État le 1<sup>er</sup> janvier 2022)
+du 14 juin 1999 (État le 1<sup>er</sup> octobre 2024)
 
 [^t-1]: Nouvelle teneur selon le ch. I 5 de l’O du 15 juin 2012 (Réorganisation des départements), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
 
@@ -118,27 +118,31 @@ Il poursuit notamment les objectifs suivants:
 - i. contribuer à l’insertion ou à la réinsertion des demandeurs d’emploi et assurer aux chômeurs un revenu compensatoire convenable;
 - j. favoriser les relations entre les partenaires sociaux;
 - k.[^5-1] …
-- 1\.[^5-2] faciliter l’adoption et la mise en oeuvre de mesures destinées à réduire la charge administrative et les coûts de la réglementation pesant sur les petites et moyennes entreprises (PME) ainsi qu’à assurer la cohérence de la politique fédérale en leur faveur.
+- l.[^5-2] faciliter l’adoption et la mise en oeuvre de mesures destinées à réduire la charge administrative et les coûts de la réglementation pesant sur les petites et moyennes entreprises (PME) ainsi qu’à assurer la cohérence de la politique fédérale en leur faveur.
 
 <sup>2bis</sup> Le SECO édite des publications périodiques sur la politique économique générale et les tendances conjoncturelles.[^5-3]
 
 <sup>2ter</sup> Le SECO est le service spécialisé dans l’analyse d’impact de la réglementation (AIR). Il fournit les bases méthodologiques des AIR, et conseille et épaule les autres unités administratives dans la réalisation de ces analyses.[^5-4]
 
-<sup>3</sup> Les tâches et compétences du SECO dans le domaine de la coopération au développement et de la coopération avec les pays de l’Est sont réglées dans des actes législatifs particuliers[^5-5].
+<sup>2quater</sup> Le SECO suit l’évolution de la charge réglementaire conformément à l’art. 6 de la loi fédérale du 29 septembre 2023 sur l’allégement des coûts de la réglementation pour les entreprises[^5-5].[^5-6]
+
+<sup>3</sup> Les tâches et compétences du SECO dans le domaine de la coopération au développement et de la coopération avec les pays de l’Est sont réglées dans des actes législatifs particuliers[^5-7].
 
 <sup>4</sup> Le SECO est compétent en matière de législation sur la politique économique; les tâches du Département fédéral de justice et police (DFJP) concernant la politique du marché du travail dans les domaines des étrangers et des réfugiés ainsi que la législation en matière de droit privé sont réservées.
 
-<sup>5</sup> Le SECO a qualité pour recourir devant le Tribunal fédéral dans le domaine de l’assurance-chômage.[^5-6]
+<sup>5</sup> Le SECO a qualité pour recourir devant le Tribunal fédéral dans le domaine de l’assurance-chômage.[^5-8]
 
-<sup>6</sup> Le Service d’accréditation suisse (SAS) est subordonné au SECO. Il accrédite les organismes d’essai et d’évaluation de la conformité publics et privés en Suisse dans le respect des prescriptions internationales reconnues.[^5-7]
+<sup>6</sup> Le Service d’accréditation suisse (SAS) est subordonné au SECO. Il accrédite les organismes d’essai et d’évaluation de la conformité publics et privés en Suisse dans le respect des prescriptions internationales reconnues.[^5-9]
 
 [^5-1]: Introduite par le ch. III 3 de l’O du 10 mars 2006 ([RO 2006 1089](https://fedlex.data.admin.ch/eli/oc/2006/194)). Abrogée par l’annexe 3 ch. 5 de l’O du 30 juin 2010, avec effet au 1<sup>er</sup> août 2010 ([RO 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
 [^5-2]: Introduite par l’art. 15 de l’O du 8 déc. 2006 sur la coordination de la politique de la Confédération en faveur des petites et moyennes entreprises ([RO 2007 73](https://fedlex.data.admin.ch/eli/oc/2007/18)). Nouvelle teneur le ch. I 5 de l’O du 15 juin 2012 (Réorganisation des départements), en vigueur depuis le 1<sup>er</sup> janv. 2013 ([RO 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
 [^5-3]: Introduit par le ch. I de l’O du 17 déc. 2014, en vigueur depuis le 1<sup>er</sup> fév. 2015 ([RO 2015 7](https://fedlex.data.admin.ch/eli/oc/2015/2)).
 [^5-4]: Introduit par le ch. I de l’O du 6 déc. 2019, en vigueur depuis le 1<sup>er</sup> fév. 2020 ([RO 2019 4733](https://fedlex.data.admin.ch/eli/oc/2019/770)).
-[^5-5]: O du 12 déc. 1977 sur la coopération au développement et l’aide humanitaire internationale ([RS 974.01](https://fedlex.data.admin.ch/eli/cc/1978/25_25_25)). O du 19 déc. 2018 sur la coopération avec les États d’Europe de l’Est ([RS 974.11](https://fedlex.data.admin.ch/eli/cc/2019/80)). O du 14 août 1991 concernant l’exécution, dans les pays en développement, de programmes et de projets en faveur de l’environnement global ([RS 172.018](https://fedlex.data.admin.ch/eli/cc/1991/1856_1856_1856)).
-[^5-6]: Introduit par l’annexe 3 ch. 5 de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
-[^5-7]: Introduit par l’annexe 3 ch. 5 de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^5-5]: [RS 930.31](https://fedlex.data.admin.ch/eli/cc/2024/118)
+[^5-6]: Introduit par le ch. I de l’O du 15 mars 2024, en vigueur du 1<sup>er</sup> oct. 2024 au 30 sept. 2034 ([RO 2024 121](https://fedlex.data.admin.ch/eli/oc/2024/121)).
+[^5-7]: O du 12 déc. 1977 sur la coopération au développement et l’aide humanitaire internationale ([RS 974.01](https://fedlex.data.admin.ch/eli/cc/1978/25_25_25)). O du 19 déc. 2018 sur la coopération avec les États d’Europe de l’Est ([RS 974.11](https://fedlex.data.admin.ch/eli/cc/2019/80)). O du 14 août 1991 concernant l’exécution, dans les pays en développement, de programmes et de projets en faveur de l’environnement global ([RS 172.018](https://fedlex.data.admin.ch/eli/cc/1991/1856_1856_1856)).
+[^5-8]: Introduit par l’annexe 3 ch. 5 de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^5-9]: Introduit par l’annexe 3 ch. 5 de l’O du 30 juin 2010, en vigueur depuis le 1<sup>er</sup> août 2010 ([RO 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
 
 #### Art. 6
 

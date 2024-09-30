@@ -4,11 +4,11 @@ title: "Ordinanza del 14 giugno 1999 sull'organizzazione del Dipartimento federa
 short: Org-DEFR
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/344"
 language: it
-version: 2022-01-01
+version: 2024-10-01
 adopted: 1999-06-14
 in_force: 1999-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/344/20220101/it/xml/fedlex-data-admin-ch-eli-cc-1999-344-20220101-it-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/344/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/344/20241001/it/xml/fedlex-data-admin-ch-eli-cc-1999-344-20241001-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/344/20241001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/344/20220101/it"
 
 (Org-DEFR)[^t-1]
 
-del 14 giugno 1999 (Stato 1° gennaio 2022)
+del 14 giugno 1999 (Stato 1° ottobre 2024)
 
 [^t-1]: Nuovo testo giusta il n. I 5 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
 
@@ -118,19 +118,21 @@ La SECO persegue in particolare i seguenti obiettivi:[^5-2]
 - i. promuovere l’inserimento o il reinserimento nel processo lavorativo delle persone alla ricerca di un impiego e garantire ai disoccupati un reddito sostitutivo adeguato;
 - j. favorire le relazioni fra le parti sociali;
 - k.[^5-3] ...
-- 1\.[^5-4] facilitare l’adozione e l’attuazione di misure finalizzate a ridurre l’onere amministrativo e i costi della regolamentazione che gravano sulle piccole e medie imprese (PMI) come pure ad assicurare la coerenza della politica della Confederazione in favore delle PMI.
+- l.[^5-4] facilitare l’adozione e l’attuazione di misure finalizzate a ridurre l’onere amministrativo e i costi della regolamentazione che gravano sulle piccole e medie imprese (PMI) come pure ad assicurare la coerenza della politica della Confederazione in favore delle PMI.
 
 <sup>2bis</sup> La SECO pubblica periodicamente informazioni sulla politica economica generale e sulle tendenze congiunturali.[^5-5]
 
 <sup>2ter</sup> La SECO è il servizio specializzato in materia di analisi d’impatto della regolamentazione (AIR). Fornisce le basi metodologiche dell’AIR e consiglia e supporta le altre unità amministrative nella realizzazione di queste analisi.[^5-6]
 
-<sup>3</sup> I compiti e le competenze della SECO nell’ambito della cooperazione allo sviluppo e con i Paesi dell’Est sono disciplinati da atti legislativi particolari[^5-7].
+<sup>2quater</sup> La SECO monitora l’evoluzione dei costi della regolamentazione per le imprese secondo l’articolo 6 della legge del 30 settembre 2023[^5-7] sullo sgravio delle imprese.[^5-8]
+
+<sup>3</sup> I compiti e le competenze della SECO nell’ambito della cooperazione allo sviluppo e con i Paesi dell’Est sono disciplinati da atti legislativi particolari[^5-9].
 
 <sup>4</sup> La SECO è competente per la legislazione in materia di politica economica; sono fatti salvi i compiti di politica del mercato del lavoro del Dipartimento federale di giustizia e polizia (DFGP) in materia di stranieri e di rifugiati nonché la legislazione relativa al diritto privato.
 
-<sup>5</sup> La SECO è legittimata a interporre ricorso davanti al Tribunale federale nell’ambito dell’assicurazione contro la disoccupazione.[^5-8]
+<sup>5</sup> La SECO è legittimata a interporre ricorso davanti al Tribunale federale nell’ambito dell’assicurazione contro la disoccupazione.[^5-10]
 
-<sup>6</sup> Il Servizio di accreditamento svizzero (SAS) è subordinato alla SECO. Esso accredita in Svizzera gli organismi privati e pubblici di prova e di valutazione della conformità secondo le prescrizioni internazionali riconosciute.[^5-9]
+<sup>6</sup> Il Servizio di accreditamento svizzero (SAS) è subordinato alla SECO. Esso accredita in Svizzera gli organismi privati e pubblici di prova e di valutazione della conformità secondo le prescrizioni internazionali riconosciute.[^5-11]
 
 [^5-1]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art. 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)). Di detta mod. è tenuto conto in tutto il testo.
 [^5-2]: Nuovo testo giusta l’art. 15 dell’O del 8 dic. 2006 sul coordinamento della politica della Confederazione in favore delle piccole e medie imprese, in vigore dal 1° feb. 2007 ([RU 2007 73](https://fedlex.data.admin.ch/eli/oc/2007/18)).
@@ -138,9 +140,11 @@ La SECO persegue in particolare i seguenti obiettivi:[^5-2]
 [^5-4]: Introdotta dall’O del 8 dic. 2006 sul coordinamento della politica della Confederazione in favore delle piccole e medie imprese ([RU 2007 73](https://fedlex.data.admin.ch/eli/oc/2007/18)). Nuovo testo giusta il n. I 5 dell’O del 15 giu. 2012 (Riorganizzazione dei dipartimenti), in vigore dal 1° gen. 2013 ([RU 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
 [^5-5]: Introdotto dal n. I dell’O del 17 dic. 2014, in vigore dal 1° feb. 2015 ([RU 2015 7](https://fedlex.data.admin.ch/eli/oc/2015/2)).
 [^5-6]: Introdotto dal n. I dell’O del 6 dic. 2019, in vigore dal 1° feb. 2020 ([RU 2019 4733](https://fedlex.data.admin.ch/eli/oc/2019/770)).
-[^5-7]: O del 12 dic. 1977 su la cooperazione allo sviluppo e l’aiuto umanitario internazionali (RS **974.01**). O del 19 dic. 2018 concernente la cooperazione con gli Stati dell’Europa dell’Est (RS **974.11**). O del 14 ago. 1991 sull’attuazione di programmi e progetti ecologici d’importanza globale nei Paesi in sviluppo (RS **172.018**).
-[^5-8]: Introdotto dall’all. 3 n. 5 dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
-[^5-9]: Introdotto dall’all. 3 n. 5 dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^5-7]: [RS 930.31](https://fedlex.data.admin.ch/eli/cc/2024/118)
+[^5-8]: Introdotto dal n. I dell’O del 15 mar. 2024, in vigore dal 1° ott. 2024 al 20 set. 2034 ([RU 2024 121](https://fedlex.data.admin.ch/eli/oc/2024/121)).
+[^5-9]: O del 12 dic. 1977 su la cooperazione allo sviluppo e l’aiuto umanitario internazionali (RS **974.01**). O del 19 dic. 2018 concernente la cooperazione con gli Stati dell’Europa dell’Est (RS **974.11**). O del 14 ago. 1991 sull’attuazione di programmi e progetti ecologici d’importanza globale nei Paesi in sviluppo (RS **172.018**).
+[^5-10]: Introdotto dall’all. 3 n. 5 dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^5-11]: Introdotto dall’all. 3 n. 5 dell’O del 30 giu. 2010, in vigore dal 1° ago. 2010 ([RU 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
 
 #### Art. 6
 

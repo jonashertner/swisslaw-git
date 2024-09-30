@@ -4,11 +4,11 @@ title: "Organisationsverordnung vom 14. Juni 1999 für das Eidgenössische Depar
 short: OV-WBF
 eli: "https://fedlex.data.admin.ch/eli/cc/1999/344"
 language: de
-version: 2022-01-01
+version: 2024-10-01
 adopted: 1999-06-14
 in_force: 1999-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/344/20220101/de/xml/fedlex-data-admin-ch-eli-cc-1999-344-20220101-de-xml-8.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1999/344/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1999/344/20241001/de/xml/fedlex-data-admin-ch-eli-cc-1999-344-20241001-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1999/344/20241001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/1999/344/20220101/de"
 
 (OV–WBF)[^t-1]
 
-vom 14. Juni 1999 (Stand am 1. Januar 2022)
+vom 14. Juni 1999 (Stand am 1. Oktober 2024)
 
 [^t-1]: Fassung gemäss Ziff. I 5 der V vom 15. Juni 2012 (Neugliederung der Departemente), in Kraft seit 1. Jan. 2013 ([AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
 
@@ -124,21 +124,25 @@ Das SECO verfolgt insbesondere folgende Ziele:
 
 <sup>2ter</sup> Das SECO ist die Fachstelle für die Regulierungsfolgenabschätzung (RFA). Es stellt die methodischen Grundlagen der RFA zur Verfügung und berät und unterstützt die anderen Verwaltungseinheiten bei der Durchführung von RFA.[^5-4]
 
-<sup>3</sup> Im Bereich der Entwicklungs- und Ostzusammenarbeit sind die Aufgaben und Zuständigkeiten des SECO in besonderen Erlassen[^5-5] festgelegt.
+<sup>2quater</sup> Das SECO überwacht die Entwicklung der Belastung von Unternehmen durch Regulierungskosten nach Artikel 6 des Unternehmensentlastungsgesetzes vom 29. September 2023[^5-5].[^5-6]
+
+<sup>3</sup> Im Bereich der Entwicklungs- und Ostzusammenarbeit sind die Aufgaben und Zuständigkeiten des SECO in besonderen Erlassen[^5-7] festgelegt.
 
 <sup>4</sup> Das SECO ist zuständig für die wirtschaftspolitische Gesetzgebung; vorbehalten bleiben die arbeitsmarktlichen Aufgaben des Eidgenössischen Justiz- und Polizeidepartements (EJPD) im Ausländer- und Flüchtlingswesen und die privatrechtliche Gesetzgebung.
 
-<sup>5</sup> Das SECO ist im Bereich der Arbeitslosenversicherung zur Beschwerde an das Bundesgericht berechtigt.[^5-6]
+<sup>5</sup> Das SECO ist im Bereich der Arbeitslosenversicherung zur Beschwerde an das Bundesgericht berechtigt.[^5-8]
 
-<sup>6</sup> Dem SECO unterstellt ist die Schweizerische Akkreditierungsstelle (SAS). Sie akkreditiert private und öffentliche Prüf- und Konformitätsbewertungsstellen in der Schweiz nach international anerkannten Anforderungen.[^5-7]
+<sup>6</sup> Dem SECO unterstellt ist die Schweizerische Akkreditierungsstelle (SAS). Sie akkreditiert private und öffentliche Prüf- und Konformitätsbewertungsstellen in der Schweiz nach international anerkannten Anforderungen.[^5-9]
 
 [^5-1]: Eingefügt durch Ziff. III 3 der V vom 10. März 2006 ([AS 2006 1089](https://fedlex.data.admin.ch/eli/oc/2006/194)). Aufgehoben durch Anhang 3 Ziff. 5 der V vom 30. Juni 2010, mit Wirkung seit 1. Aug. 2010 ([AS 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
 [^5-2]: Eingefügt durch Art. 15 der V vom 8. Dez. 2006 über die Koordination der Politik des Bundes zugunsten der kleinen und mittleren Unternehmen ([AS 2007 73](https://fedlex.data.admin.ch/eli/oc/2007/18)). Fassung gemäss Ziff. I 5 der V vom 15. Juni 2012 (Neugliederung der Departemente), in Kraft seit 1. Jan. 2013 ([AS 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418)).
 [^5-3]: Eingefügt durch Ziff. I der V vom 17. Dez. 2014, in Kraft seit 1. Febr. 2015 ([AS 2015 7](https://fedlex.data.admin.ch/eli/oc/2015/2)).
 [^5-4]: Eingefügt durch Ziff. I der V vom 6. Dez. 2019, in Kraft seit 1. Febr. 2020 ([AS 2019 4733](https://fedlex.data.admin.ch/eli/oc/2019/770)).
-[^5-5]: V vom 12. Dez. 1977 über die internationale Entwicklungszusammenarbeit und humanitäre Hilfe (SR **974.01**). V vom 19. Dez. 2018 über die Zusammenarbeit mit den Staaten Osteuropas (SR **974.11**). V vom 14. Aug. 1991 über die Durchführung von Umweltprogrammen und -projekten von globaler Bedeutung in Entwicklungsländern (SR **172.018**).
-[^5-6]: Eingefügt durch Anhang 3 Ziff. 5 der V vom 30. Juni 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
-[^5-7]: Eingefügt durch Anhang 3 Ziff. 5 der V vom 30. Juni 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^5-5]: [SR 930.31](https://fedlex.data.admin.ch/eli/cc/2024/118)
+[^5-6]: Eingefügt durch Ziff. I der V vom 15. März 2024, in Kraft vom 1. Okt. 2024 bis zum 30. Sept. 2034 (AS **20****24** 121).
+[^5-7]: V vom 12. Dez. 1977 über die internationale Entwicklungszusammenarbeit und humanitäre Hilfe (SR **974.01**). V vom 19. Dez. 2018 über die Zusammenarbeit mit den Staaten Osteuropas (SR **974.11**). V vom 14. Aug. 1991 über die Durchführung von Umweltprogrammen und -projekten von globaler Bedeutung in Entwicklungsländern (SR **172.018**).
+[^5-8]: Eingefügt durch Anhang 3 Ziff. 5 der V vom 30. Juni 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
+[^5-9]: Eingefügt durch Anhang 3 Ziff. 5 der V vom 30. Juni 2010, in Kraft seit 1. Aug. 2010 ([AS 2010 3175](https://fedlex.data.admin.ch/eli/oc/2010/427)).
 
 #### Art. 6
 
