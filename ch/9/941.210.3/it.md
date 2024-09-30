@@ -4,11 +4,11 @@ title: Ordinanza del DFGP del 22 aprile 2011 sugli strumenti di misurazione dei 
 short: OMGC
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/296"
 language: it
-version: 2019-03-15
+version: 2024-10-01
 adopted: 2011-04-22
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/296/20190315/it/xml/fedlex-data-admin-ch-eli-cc-2011-296-20190315-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/296/20190315/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/296/20241001/it/xml/fedlex-data-admin-ch-eli-cc-2011-296-20241001-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/296/20241001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/296/20190315/it"
 
 (OMGC)
 
-del 22 aprile 2011 (Stato 15 marzo 2019)
+del 22 aprile 2011 (Stato 1° ottobre 2024)
 
 Il Dipartimento federale di giustizia e polizia (DFGP),
 
@@ -26,7 +26,7 @@ visti gli articoli 5 capoverso 2, 8 capoverso 2, 16 capoverso 2, 24 capoverso 3 
 ordina:
 
 [^ingress-1]: [RS 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
-[^ingress-2]: Nuovo testo giusta il n. I 4 dell’O del DFGP del 7 dicembre 2012 (Nuove basi legali in materia di metrologia), in vigore dal 1° gennaio 2013 ([RU 2012 7183](https://fedlex.data.admin.ch/eli/oc/2012/874)).
+[^ingress-2]: Nuovo testo giusta il cifra I n. 4 dell’O del DFGP del 7 dic. 2012 (Nuove basi legali in materia di metrologia), in vigore dal 1° gen. 2013 ([RU 2012 7183](https://fedlex.data.admin.ch/eli/oc/2012/874)).
 
 ## Sezione 1: Disposizioni generali
 
@@ -47,10 +47,10 @@ La presente ordinanza disciplina:
 La presente ordinanza si applica agli strumenti di misurazione utilizzati per i controlli e le misurazioni delle emissioni secondo l’articolo 13 dell’ordinanza del 16 dicembre 1985[^2-1] contro l’inquinamento atmosferico (OIAt) per:
 
 - a. gli impianti a combustione alimentati con olio o gas, con una potenza termica pari o inferiore a 1 MW;
-- b. gli impianti a combustione alimentati con legna o carbone[^2-2], con una potenza termica pari o inferiore a 70 kW.
+- b.[^2-2] gli impianti a combustione alimentati con legna o carbone, con una potenza termica pari o inferiore a 500 kW.
 
 [^2-1]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
-[^2-2]: Nuova espr. giusta il n. I dell’O del DFGP del 13 febbraio 2019, in vigore dal 15 marzo 2019 ([RU 2019 823](https://fedlex.data.admin.ch/eli/oc/2019/139)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^2-2]: Nuovo testo giusta la cifra I dell’O del DFGP del 22 ago. 2024, in vigore dal 1° ott. 2024 ([RU 2024 486](https://fedlex.data.admin.ch/eli/oc/2024/486)).
 
 #### Art. 3
 
@@ -84,12 +84,12 @@ Nella presente ordinanza i seguenti termini significano:[^3-1]
 - i. *gas di riferimento:* miscele di gas certificate di un fabbricante accreditato, utilizzate per misurazioni ai fini di verifiche o controlli;
 - j.[^3-6] *valore di riferimento:* valore medio dei valori misurati del metodo di riferimento o valore generato dallo standard di prova del misurando da determinare.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del DFGP del 13 febbraio 2019, in vigore dal 15 marzo 2019 ([RU 2019 823](https://fedlex.data.admin.ch/eli/oc/2019/139)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del DFGP del 13 feb. 2019, in vigore dal 15 mar. 2019 ([RU 2019 823](https://fedlex.data.admin.ch/eli/oc/2019/139)).
 [^3-2]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
-[^3-3]: Introdotta dal n. I dell’O del DFGP del 13 febbraio 2019, in vigore dal 15 marzo 2019 ([RU 2019 823](https://fedlex.data.admin.ch/eli/oc/2019/139)).
-[^3-4]: Nuovo testo giusta il n. I dell’O del DFGP del 13 febbraio 2019, in vigore dal 15 marzo 2019 ([RU 2019 823](https://fedlex.data.admin.ch/eli/oc/2019/139)).
-[^3-5]: Introdotta dal n. I dell’O del DFGP del 13 febbraio 2019, in vigore dal 15 marzo 2019 ([RU 2019 823](https://fedlex.data.admin.ch/eli/oc/2019/139)).
-[^3-6]: Introdotta dal n. I dell’O del DFGP del 13 febbraio 2019, in vigore dal 15 marzo 2019 ([RU 2019 823](https://fedlex.data.admin.ch/eli/oc/2019/139)).
+[^3-3]: Introdotta dalla cifra I dell’O del DFGP del 13 feb. 2019, in vigore dal 15 mar. 2019 ([RU 2019 823](https://fedlex.data.admin.ch/eli/oc/2019/139)).
+[^3-4]: Nuovo testo giusta la cifra I dell’O del DFGP del 13 feb. 2019, in vigore dal 15 mar. 2019 ([RU 2019 823](https://fedlex.data.admin.ch/eli/oc/2019/139)).
+[^3-5]: Introdotta dalla cifra I dell’O del DFGP del 13 feb. 2019, in vigore dal 15 mar. 2019 ([RU 2019 823](https://fedlex.data.admin.ch/eli/oc/2019/139)).
+[^3-6]: Introdotta dalla cifra I dell’O del DFGP del 13 feb. 2019, in vigore dal 15 mar. 2019 ([RU 2019 823](https://fedlex.data.admin.ch/eli/oc/2019/139)).
 
 ## Sezione 2: Strumenti di misurazione dei gas di scarico degli impianti a combustione alimentati con olio o gas
 
@@ -122,6 +122,10 @@ Gli strumenti di misurazione dei gas di scarico degli impianti a combustione ali
 <sup>2</sup> Il METAS può prolungare o abbreviare i termini per determinati modelli di strumenti di uno specifico fabbricante se le caratteristiche metrologiche degli strumenti di misurazione utilizzati lo consentono o lo esigono.
 
 ## Sezione 3: Strumenti di misurazione dei gas di scarico degli impianti a combustione alimentati con legna o carbone
+
+[^sec3-1]
+
+[^sec3-1]: Nuova espr. giusta la cifra I dell’O del DFGP del 13 febbraio 2019, in vigore dal 15 marzo 2019 ([RU 2019 823](https://fedlex.data.admin.ch/eli/oc/2019/139)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 7
 
@@ -165,7 +169,7 @@ Gli strumenti di misurazione dei gas di scarico degli impianti a combustione ali
 
 Gli strumenti di misurazione dei gas di scarico approvati prima dell’entrata in vigore della presente modifica per impianti a combustione alimentati con legna o carbone sono considerati approvati anche per la misurazione dei gas di scarico di impianti a combustione alimentati con carbone.
 
-[^10a-1]: Introdotto dal n. I dell’O del DFGP del 13 febbraio 2019, in vigore dal 15 marzo 2019 ([RU 2019 823](https://fedlex.data.admin.ch/eli/oc/2019/139)).
+[^10a-1]: Introdotto dalla cifra I dell’O del DFGP del 13 feb. 2019, in vigore dal 15 mar. 2019 ([RU 2019 823](https://fedlex.data.admin.ch/eli/oc/2019/139)).
 
 #### Art. 11
 
@@ -179,14 +183,14 @@ Allegato 1[^t-1]
 
 ## Requisiti specifici per gli strumenti di misurazione dei gas di scarico degli impianti a combustione alimentati con olio o gas
 
-[^t-1]: Aggiornato dai n. I 4 dell’O del DFGP del 7 dicembre 2012 (Nuove basi legali in materia di metrologia) ([RU 2012 7183](https://fedlex.data.admin.ch/eli/oc/2012/874)) e dal n. II dell’O del DFGP del 13 febbraio 2019, in vigore dal 15 marzo 2019 ([RU 2019 823](https://fedlex.data.admin.ch/eli/oc/2019/139)).
+[^t-1]: Aggiornato dalle cifre II delle O del DFGP del 13 feb. 2019 ([RU 2019 823](https://fedlex.data.admin.ch/eli/oc/2019/139)) e del 22 ago. 2024, in vigore dal 1° ott. 2024 ([RU 2024 486](https://fedlex.data.admin.ch/eli/oc/2024/486)).
 
 ### A Norme applicabili
 
 - Se non sono indicati altri requisiti specifici, si applicano quelli definiti dalle norme SN EN 50379-1:2012[^annex1-lvlu1-lvlA-1] e SN EN 50379-2:2012[^annex1-lvlu1-lvlA-2].
 
-[^annex1-lvlu1-lvlA-1]: SN EN 50379-1:2012, Specifica per apparecchi elettrici portatili per la misurazione dei parametri dei gas combusti di apparecchi per riscaldamento Parte 1: Requisiti generali e metodi di prova. La norma è consultabile (in tedesco e francese) gratuitamente presso l’Istituto federale di metrologia, 3003 Berna o presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur, www.snv.ch. Può essere inoltre ottenuta a pagamento presso la SNV.
-[^annex1-lvlu1-lvlA-2]: SN EN 50379-2:2012, Specifica per apparecchi elettrici portatili per la misurazione dei parametri dei gas combusti di apparecchi per riscaldamento Parte 2: Requisiti specifici per apparecchi impiegati in misurazioni e analisi aventi valore legale. La norma è consultabile (in tedesco e francese) gratuitamente presso l’Istituto federale di metrologia, 3003 Berna o presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur, www.snv.ch. Può essere inoltre ottenuta a pagamento presso la SNV.
+[^annex1-lvlu1-lvlA-1]: SN EN 50379-1:2012, Specifica per apparecchi elettrici portatili per la misurazione dei parametri dei gas combusti di apparecchi per riscaldamento Parte 1: Requisiti generali e metodi di prova. La norma è consultabile (in tedesco e francese) gratuitamente presso l’Istituto federale di metrologia, 3003 Berna o presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur, [www.snv.ch](https://www.snv.ch/). Può essere inoltre ottenuta a pagamento presso la SNV.
+[^annex1-lvlu1-lvlA-2]: SN EN 50379-2:2012, Specifica per apparecchi elettrici portatili per la misurazione dei parametri dei gas combusti di apparecchi per riscaldamento Parte 2: Requisiti specifici per apparecchi impiegati in misurazioni e analisi aventi valore legale. La norma è consultabile (in tedesco e francese) gratuitamente presso l’Istituto federale di metrologia, 3003 Berna o presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur, [www.snv.ch](https://www.snv.ch/). Può essere inoltre ottenuta a pagamento presso la SNV.
 
 ### B Requisiti metrologici
 
@@ -204,14 +208,14 @@ Allegato 1[^t-1]
 </table>
 
 - 1\.2 Indice di fuliggine
-  - – L’indice di fuliggine è determinato conformemente all’allegato A della norma SN EN 267+A1:2011[^annex1-lvlu1-lvlB-lvl1-1]. Esso è compreso tra 0 e 9 ed è determinato mediante una scala comparativa e indicato in cifre intere.
+  - – L’indice di fuliggine è determinato conformemente all’allegato A della norma SN EN 267:2020[^annex1-lvlu1-lvlB-lvl1-1]. Esso è compreso tra 0 e 9 ed è determinato mediante una scala comparativa e indicato in cifre intere.
   - – Il volume di gas di scarico per determinare l’indice di fuliggine è di 5,7 dm<sup>3</sup> a condizioni ambiente per cm<sup>2</sup> di superficie utile del filtro.
 
 - 1\.3 Temperatura del gas di scarico e dell’aria di combustione
   - – La temperatura del gas di scarico è compresa tra 0 e 400 °C.
   - – La temperatura dell’aria di combustione è compresa tra 0 e 100 °C.
 
-[^annex1-lvlu1-lvlB-lvl1-1]: SN EN 267+A1: 2011, Bruciatori automatici per combustibili liquidi ad aria soffiata. La norma è consultabile (in tedesco e francese) gratuitamente presso l’Istituto federale di metrologia, 3003 Berna o presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur, www.snv.ch. Può essere inoltre ottenuta a pagamento presso la SNV.
+[^annex1-lvlu1-lvlB-lvl1-1]: SN EN 267:2020, Bruciatori per combustibili liquidi ad aria soffiata. La norma è consultabile (in tedesco e francese) gratuitamente presso l’Istituto federale di metrologia, 3003 Berna o presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur, [www.snv.ch](https://www.snv.ch/). Può essere inoltre ottenuta a pagamento presso la SNV.
 
 ### 2 Condizioni di funzionamento nominali
 
@@ -313,15 +317,15 @@ Allegato 3[^t-2]
 
 ## Requisiti specifici per gli strumenti di misurazione dei gas di scarico degli impianti a combustione alimentati con legna o carbone
 
-[^t-2]: Aggiornato dal n. II dell’O del DFGP del 13 febbraio 2019, in vigore dal 15 marzo 2019 ([RU 2019 823](https://fedlex.data.admin.ch/eli/oc/2019/139)).
+[^t-2]: Aggiornato dalle cifre II delle O del DFGP del 13 feb. 2019 ([RU 2019 823](https://fedlex.data.admin.ch/eli/oc/2019/139)) e del 22 ago. 2024, in vigore dal 1° ott. 2024 ([RU 2024 486](https://fedlex.data.admin.ch/eli/oc/2024/486)).
 
 ### A Norme applicabili
 
 - Se non sono indicati altri requisiti specifici, si applicano quelli definiti dalle norme SN EN 50379-1:2012[^annex3-lvlu1-lvlA-1], SN EN 50379-2:2012[^annex3-lvlu1-lvlA-2] e VDI 4206 Blatt 2:2015[^annex3-lvlu1-lvlA-3].
 
-[^annex3-lvlu1-lvlA-1]: SN EN 50379-1:2012, Specifica per apparecchi elettrici portatili per la misurazione dei parametri dei gas combusti di apparecchi per riscaldamento Parte 1: Requisiti generali e metodi di prova. La norma è consultabile (in tedesco e francese) gratuitamente presso l’Istituto federale di metrologia, 3003 Berna o presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur, www.snv.ch. Può essere inoltre ottenuta a pagamento presso la SNV.
-[^annex3-lvlu1-lvlA-2]: SN EN 50379-2:2012, Specifica per apparecchi elettrici portatili per la misurazione dei parametri dei gas combusti di apparecchi per riscaldamento Parte 2: Requisiti specifici per apparecchi impiegati in misurazioni e analisi aventi valore legale. La norma è consultabile (in tedesco e francese) gratuitamente presso l’Istituto federale di metrologia, 3003 Berna o presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur, www.snv.ch. Può essere inoltre ottenuta a pagamento presso la SNV.
-[^annex3-lvlu1-lvlA-3]: VDI 4206 Blatt 2:2015, Mindestanforderungen und Prüfpläne für Messgeräte zur Überwachung der Emissionen an Kleinfeuerungsanlagen (Performance criteria and test procedures for measuring devices for monitoring emissions at small firing installations): Messgeräte zur Ermittlung von partikelförmigen Emissionen. (Measuring devices for the determination of particulate emissions.) La norma è consultabile (in tedesco e inglese) gratuitamente presso l’Istituto federale di metrologia, 3003 Berna o può essere ottenuta a pagamento presso l’Associazione degli ingegneri tedeschi (Verein Deutscher Ingenieure), Postfach 10 11 39, 40002 Düsseldorf, www.vdi.de.
+[^annex3-lvlu1-lvlA-1]: SN EN 50379-1:2012, Specifica per apparecchi elettrici portatili per la misurazione dei parametri dei gas combusti di apparecchi per riscaldamento Parte 1: Requisiti generali e metodi di prova. La norma è consultabile (in tedesco e francese) gratuitamente presso l’Istituto federale di metrologia, 3003 Berna o presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur, [www.snv.ch](https://www.snv.ch/). Può essere inoltre ottenuta a pagamento presso la SNV.
+[^annex3-lvlu1-lvlA-2]: SN EN 50379-2:2012, Specifica per apparecchi elettrici portatili per la misurazione dei parametri dei gas combusti di apparecchi per riscaldamento Parte 2: Requisiti specifici per apparecchi impiegati in misurazioni e analisi aventi valore legale. La norma è consultabile (in tedesco e francese) gratuitamente presso l’Istituto federale di metrologia, 3003 Berna o presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur, [www.snv.ch](https://www.snv.ch/). Può essere inoltre ottenuta a pagamento presso la SNV.
+[^annex3-lvlu1-lvlA-3]: VDI 4206 Blatt 2:2015, Mindestanforderungen und Prüfpläne für Messgeräte zur Überwachung der Emissionen an Kleinfeuerungsanlagen (Performance criteria and test procedures for measuring devices for monitoring emissions at small firing installations): Messgeräte zur Ermittlung von partikelförmigen Emissionen. (Measuring devices for the determination of particulate emissions.) La norma è consultabile (in tedesco e inglese) gratuitamente presso l’Istituto federale di metrologia, 3003 Berna o può essere ottenuta a pagamento presso l’Associazione degli ingegneri tedeschi (Verein Deutscher Ingenieure), Postfach 10 11 39, 40002 Düsseldorf, [www.vdi.de](https://www.vdi.de).
 
 ### B Requisiti metrologici
 
@@ -346,7 +350,7 @@ Allegato 3[^t-2]
   - – temperatura ambiente da +5 °C a +40 °C,
   - – pressione ambiente da 860 hPa a 1060 hPa,
   - – classe ambientale meccanica M1,
-  - – classe ambientale elettromagnetica E2;
+  - – classe ambientale elettromagnetica E2; per un singolo componente di uno strumento di misurazione il METAS può ammettere la classe ambientale elettromagnetica E1, sempre che il luogo d’impiego lo permetta;
 
 - 2\.2
 
@@ -370,7 +374,7 @@ Allegato 3[^t-2]
 ### 4 Altri requisiti
 
 - 4\.1 Eventuali moduli di misurazione opzionali non devono intaccare le caratteristiche degli strumenti di misurazione dei gas di scarico degli impianti a combustione alimentati con legna o carbone.
-- 4\.2 I tempi di reazione indicati nella norma SN EN 50379-1:2012[^annex3-lvlu1-lvl4-1] si applicano ai cambiamenti positivi e negativi bruschi della concentrazione volumetrica.
+- 4\.2 I tempi di reazione indicati nella norma SN EN 50379-1:2012[^annex3-lvlu1-lvlB-lvl4-1] si applicano ai cambiamenti positivi e negativi bruschi della concentrazione volumetrica.
 - 4\.3 Gli strumenti di misurazione dei gas di scarico degli impianti a combustione alimentati con legna o carbone devono permettere il calcolo di valori medi in un arco di tempo variabile.
 - Mentre è in corso il calcolo del valore medio non può essere effettuato alcun azzeramento.
 - La frequenza di misurazione per il calcolo del valore medio è di 1/s.
@@ -379,7 +383,7 @@ Allegato 3[^t-2]
 - 4\.4 I gas che fuoriescono dall’apparecchio devono poter essere asportati senza che ne risultino influenzati i valori di misurazione.
 - 4\.5 Dopo una misurazione e prima di spegnere lo strumento di misurazione, i sensori devono essere puliti in modo adeguato con aria fresca.
 
-[^annex3-lvlu1-lvl4-1]: SN EN 50379-1:2012, Specifica per apparecchi elettrici portatili per la misurazione dei parametri dei gas combusti di apparecchi per riscaldamento Parte 1: Requisiti generali e metodi di prova. La norma è consultabile (in tedesco e francese) gratuitamente presso l’Istituto federale di metrologia, 3003 Berna o presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur, www.snv.ch. Può essere inoltre ottenuta a pagamento presso la SNV.
+[^annex3-lvlu1-lvlB-lvl4-1]: SN EN 50379-1:2012, Specifica per apparecchi elettrici portatili per la misurazione dei parametri dei gas combusti di apparecchi per riscaldamento Parte 1: Requisiti generali e metodi di prova. La norma è consultabile (in tedesco e francese) gratuitamente presso l’Istituto federale di metrologia, 3003 Berna o presso l’Associazione svizzera di normalizzazione (SNV), Sulzerallee 70, 8404 Winterthur, [www.snv.ch](https://www.snv.ch/). Può essere inoltre ottenuta a pagamento presso la SNV.
 
 Allegato 4[^t-3]
 
@@ -387,7 +391,7 @@ Allegato 4[^t-3]
 
 ## Procedura per il mantenimento della stabilità di misurazione degli strumenti di misurazione dei gas di scarico degli impianti a combustione alimentati con legna o carbone
 
-[^t-3]: Aggiornato dal n. II dell’O del DFGP del 13 febbraio 2019, in vigore dal 15 marzo 2019 ([RU 2019 823](https://fedlex.data.admin.ch/eli/oc/2019/139)).
+[^t-3]: Aggiornato dalla cifra II dell’O del DFGP del 13 feb. 2019, in vigore dal 15 mar. 2019 ([RU 2019 823](https://fedlex.data.admin.ch/eli/oc/2019/139)).
 
 ### 1 Verificazione successiva
 

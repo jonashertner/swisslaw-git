@@ -4,11 +4,11 @@ title: Ordonnance du DFJP du 22 avril 2011 sur les instruments de mesure des eff
 short: OIMEC
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/296"
 language: fr
-version: 2019-03-15
+version: 2024-10-01
 adopted: 2011-04-22
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/296/20190315/fr/xml/fedlex-data-admin-ch-eli-cc-2011-296-20190315-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/296/20190315/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/296/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-2011-296-20241001-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/296/20241001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/296/20190315/fr"
 
 (OIMEC)
 
-du 22 avril 2011 (État le 15 mars 2019)
+du 22 avril 2011 (État le 1<sup>er</sup> octobre 2024)
 
 Le Département fédéral de justice et police (DFJP),
 
@@ -47,10 +47,10 @@ La présente ordonnance régit:
 Les instruments utilisés pour les mesures et les contrôles des émissions par les installations de chauffage conformément à l’art. 13 de l’ordonnance du 16 décembre 1985 sur la protection de l’air (OPair)[^2-1] sont soumis aux dispositions de la présente ordonnance pour:
 
 - a. les chauffages à l’huile et au gaz dont la puissance ne dépasse pas 1 MW;
-- b. les chauffages au bois et les chauffages au charbon[^2-2] dont la puissance ne dépasse pas 70 kW.
+- b.[^2-2] les chauffages au bois et les chauffages au charbon dont la puissance ne dépasse pas 500 kW.
 
 [^2-1]: [RS 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
-[^2-2]: Nouvelle expression selon le ch. I de l’O du DFJP du 13 février 2019, en vigueur depuis le 15 mars 2019 ([RO 2019 823](https://fedlex.data.admin.ch/eli/oc/2019/139)). Il a été tenu compte de cette mod. dans tout le texte.
+[^2-2]: Nouvelle teneur selon le ch. I de l’O du DFJP du 22 août 2024, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 486](https://fedlex.data.admin.ch/eli/oc/2024/486)).
 
 #### Art. 3
 
@@ -122,6 +122,10 @@ Les instruments de mesure des effluents par les installations de chauffage à l�
 
 ## Section 3 Instruments de mesure des effluents par les installations de chauffage au bois et chauffage au charbon
 
+[^sec3-1]
+
+[^sec3-1]: Nouvelle expression selon le ch. I de l’O du DFJP du 13 février 2019, en vigueur depuis le 15 mars 2019 ([RO 2019 823](https://fedlex.data.admin.ch/eli/oc/2019/139)). Il a été tenu compte de cette mod. dans tout le texte.
+
 #### Art. 7
 
 **Exigences de base**
@@ -178,14 +182,14 @@ Annexe 1[^t-1]
 
 ## Exigences spécifiques pour les instruments de mesure des effluents par les chauffages à l’huile et au gaz
 
-[^t-1]: Mise à jour selon le ch. I 4 de l’O du DFJP du 7 décembre 2012 (Nouvelles bases légales en métrologie) ([RO 2012 7183](https://fedlex.data.admin.ch/eli/oc/2012/874)) et le ch. II de l’O du DFJP du 13 février 2019, en vigueur depuis le 15 mars 2019 ([RO 2019 823](https://fedlex.data.admin.ch/eli/oc/2019/139)).
+[^t-1]: Mise à jour par le ch. II des O du DFJP du 13 février 2019 ([RO 2019 823](https://fedlex.data.admin.ch/eli/oc/2019/139)) et du 22 août 2024, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 486](https://fedlex.data.admin.ch/eli/oc/2024/486)).
 
 ### A Normes applicables
 
 - Si aucune exigence spécifique n’est indiquée, les exigences définies par les normes SN EN 50379-1:2012[^annex1-lvlu1-lvlA-1] et SN EN 50379-2:2012[^annex1-lvlu1-lvlA-2] s’appliquent.
 
-[^annex1-lvlu1-lvlA-1]: SN EN 50379-1:2012, Spécification pour les appareils électriques portatifs conçus pour mesurer les paramètres des gaz de combustion dans les conduits d’évacuation des appareils de chauffage. Partie 1: prescriptions générales et méthodes d’essai. La norme peut être consultée gratuitement auprès de l’Institut fédéral de métrologie, 3003 Berne, ou auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch. Elle peut être également obtenue contre paiement auprès de la SNV.
-[^annex1-lvlu1-lvlA-2]: SN EN 50379-2:2012, Spécification pour les appareils électriques portatifs conçus pour mesurer les paramètres des gaz de combustion dans les conduits d’évacuation des appareils de chauffage. Partie 2: prescription des caractéristiques des appareils utilisés au cours des inspections et évaluations réglementaires. La norme peut être consultée gratuitement auprès de l’Institut fédéral de métrologie, 3003 Berne, ou auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch. Elle peut être également obtenue contre paiement auprès de la SNV.
+[^annex1-lvlu1-lvlA-1]: SN EN 50379-1:2012, Spécification pour les appareils électriques portatifs conçus pour mesurer les paramètres des gaz de combustion dans les conduits d’évacuation des appareils de chauffage. Partie 1: prescriptions générales et méthodes d’essai. La norme peut être consultée gratuitement auprès de l’Institut fédéral de métrologie, 3003 Berne, ou auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch). Elle peut être également obtenue contre paiement auprès de la SNV.
+[^annex1-lvlu1-lvlA-2]: SN EN 50379-2:2012, Spécification pour les appareils électriques portatifs conçus pour mesurer les paramètres des gaz de combustion dans les conduits d’évacuation des appareils de chauffage. Partie 2: prescription des caractéristiques des appareils utilisés au cours des inspections et évaluations réglementaires. La norme peut être consultée gratuitement auprès de l’Institut fédéral de métrologie, 3003 Berne, ou auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch). Elle peut être également obtenue contre paiement auprès de la SNV.
 
 ### B Exigences métrologiques
 
@@ -203,14 +207,14 @@ Annexe 1[^t-1]
 </table>
 
 - 1\.2 Indice de suie
-  - – L’indice de suie est déterminé conformément à l’annexe A de la norme SN EN 267+A1:2011[^annex1-lvlu1-lvlB-lvl1-1]. Compris entre 0 et 9, cet indice est généré par comparaison avec une échelle et est exprimé en chiffres entiers.
+  - – L’indice de suie est déterminé conformément à l’annexe A de la norme SN EN 267: 2020[^annex1-lvlu1-lvlB-lvl1-1]. Compris entre 0 et 9, cet indice est généré par comparaison avec une échelle et est exprimé en chiffres entiers.
   - – Le volume des effluents gazeux utilisé pour la détermination de l’indice de suie s’élève à 5,7 dm<sup>3</sup> dans des conditions ambiantes par cm<sup>2</sup> de surface utile de filtre.
 
 - 1\.3 Température des effluents et de l’air comburant
   - – La température des effluents est comprise entre 0 et 400 °C
   - – La température de l’air comburant est comprise entre 0 et 100 °C
 
-[^annex1-lvlu1-lvlB-lvl1-1]: SN EN 267+A1: 2011, «Brûleurs automatiques à air soufflé pour combustibles liquides». La norme peut être consultée gratuitement auprès de l’Institut fédéral de métrologie, 3003 Berne, ou auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch. Elle peut être également obtenue contre paiement auprès de la SNV.
+[^annex1-lvlu1-lvlB-lvl1-1]: SN EN 267: 2020, «Brûleurs à air soufflé pour combustibles liquides». La norme peut être consultée gratuitement auprès de l’Institut fédéral de métrologie, 3003 Berne, ou auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch). Elle peut être également obtenue contre paiement auprès de la SNV.
 
 ### 2 Conditions de fonctionnement nominales
 
@@ -237,7 +241,7 @@ Annexe 1[^t-1]
 - 3\.1 Concentrations volumiques pour les composants des effluents gazeux
 
 <table>
-<tr><th>Composants (analyte)</th><th>Ecart maximal toléré</th></tr>
+<tr><th>Composants (analyte)</th><th>Écart maximal toléré</th></tr>
 <tr><td>Monoxyde de carbone (CO)</td><td>±0,10 ∙ affichage ou ±12 ppm; La plus grande des valeurs fait foi</td></tr>
 <tr><td>Monoxyde d’azote (NO)</td><td>±0,10 ∙ affichage ou ±10 ppm; La plus grande des valeurs fait foi</td></tr>
 <tr><td>Oxygène (O<sub>2</sub>)</td><td>±0,4 %</td></tr>
@@ -283,7 +287,7 @@ Annexe 2
 - En ce qui concerne la mesure des gaz, les erreurs maximales tolérées suivantes s’appliquent dans le cadre de la vérification:
 
 <table>
-<tr><th>Composants (analyte)</th><th>Ecart maximal toléré</th></tr>
+<tr><th>Composants (analyte)</th><th>Écart maximal toléré</th></tr>
 <tr><td>Monoxyde de carbone (CO)</td><td>±0,07 ∙ affichage ou ±8 ppm; La plus grande des valeurs fait foi</td></tr>
 <tr><td>Monoxyde d’azote (NO)</td><td>±0,07 ∙ affichage ou ±6 ppm; La plus grande des valeurs fait foi</td></tr>
 <tr><td>Dioxyde de carbone (CO<sub>2</sub>)</td><td>±0,05 ∙ affichage ou ±0,30 %; La plus grande des valeurs fait foi</td></tr>
@@ -312,15 +316,15 @@ Annexe 3[^t-2]
 
 ## Exigences spécifiques pour les instruments de mesure des effluents par les chauffages au bois et les chauffages au charbon
 
-[^t-2]: Mise à jour selon le ch. II de l’O du DFJP du 13 février 2019, en vigueur depuis le 15 mars 2019 ([RO 2019 823](https://fedlex.data.admin.ch/eli/oc/2019/139)).
+[^t-2]: Mise à jour par le ch. II des O du DFJP du 13 février 2019 ([RO 2019 823](https://fedlex.data.admin.ch/eli/oc/2019/139)) et du 22 août 2024, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 486](https://fedlex.data.admin.ch/eli/oc/2024/486)).
 
 ### A Normes applicables
 
 - Si aucune exigence spécifique n’est indiquée, les exigences définies par les normes SN EN 50379-1:2012[^annex3-lvlu1-lvlA-1], SN EN 50379-2:2012[^annex3-lvlu1-lvlA-2] et VDI 4206/F2:2015[^annex3-lvlu1-lvlA-3] s’appliquent.
 
-[^annex3-lvlu1-lvlA-1]: SN EN 50379-1:2012, Spécification pour les appareils électriques portatifs conçus pour mesurer les paramètres des gaz de combustion dans les conduits d’évacuation des appareils de chauffage. Partie 1: prescriptions générales et méthodes d’essai. La norme peut être consultée gratuitement auprès de l’Institut fédéral de métrologie, 3003 Berne, ou auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch. Elle peut être également obtenue contre paiement auprès de la SNV.
-[^annex3-lvlu1-lvlA-2]: SN EN 50379-2:2012, Spécification pour les appareils électriques portatifs conçus pour mesurer les paramètres des gaz de combustion dans les conduits d’évacuation des appareils de chauffage. Partie 2: prescriptions des caractéristiques des appareils utilisés au cours des inspections et évaluations réglementaires. La norme peut être consultée gratuitement auprès de l’Institut fédéral de métrologie, 3003 Berne, ou auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch. Elle peut être également obtenue contre paiement auprès de la SNV.
-[^annex3-lvlu1-lvlA-3]: VDI 4206/F2:2015 (allemand/anglais) Performance criteria and test procedures for measuring devices for monitoring emissions at small firing installations - Measuring devices for the determination of particulate emissions. La norme peut être consultée gratuitement auprès de l’Institut fédéral de métrologie, 3003 Berne. Elle peut être également obtenue contre paiement auprès de l’Association des ingénieurs allemands (VDI), Postfach 10 11 39, 40002 Düsseldorf, www.vdi.de.
+[^annex3-lvlu1-lvlA-1]: SN EN 50379-1:2012, Spécification pour les appareils électriques portatifs conçus pour mesurer les paramètres des gaz de combustion dans les conduits d’évacuation des appareils de chauffage. Partie 1: prescriptions générales et méthodes d’essai. La norme peut être consultée gratuitement auprès de l’Institut fédéral de métrologie, 3003 Berne, ou auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch). Elle peut être également obtenue contre paiement auprès de la SNV.
+[^annex3-lvlu1-lvlA-2]: SN EN 50379-2:2012, Spécification pour les appareils électriques portatifs conçus pour mesurer les paramètres des gaz de combustion dans les conduits d’évacuation des appareils de chauffage. Partie 2: prescriptions des caractéristiques des appareils utilisés au cours des inspections et évaluations réglementaires. La norme peut être consultée gratuitement auprès de l’Institut fédéral de métrologie, 3003 Berne, ou auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch). Elle peut être également obtenue contre paiement auprès de la SNV.
+[^annex3-lvlu1-lvlA-3]: VDI 4206/F2:2015 (allemand/anglais) Performance criteria and test procedures for measuring devices for monitoring emissions at small firing installations - Measuring devices for the determination of particulate emissions. La norme peut être consultée gratuitement auprès de l’Institut fédéral de métrologie, 3003 Berne. Elle peut être également obtenue contre paiement auprès de l’Association des ingénieurs allemands (VDI), Postfach 10 11 39, 40002 Düsseldorf, [www.vdi.de](https://www.vdi.de).
 
 ### B Exigences métrologiques
 
@@ -343,9 +347,9 @@ Annexe 3[^t-2]
   Pour les grandeurs d’influence climatiques, mécaniques et électromagnétiques:
 
   - – température ambiante comprise entre +5 °C et +40 °C;
-  - – pression ambiante comprise entre 860 hPa et 1’060 hPa;
-  - – environnement mécanique classe M1.
-  - – environnement électromagnétique classe E2.
+  - – pression ambiante comprise entre 860 hPa et 1060 hPa;
+  - – environnement mécanique classe M1;
+  - – environnement électromagnétique classe E2; pour un composant individuel d’un instrument de mesure, METAS peut autoriser un environnement électromagnétique classe E1, pour autant que le lieu d’utilisation le permette.
 
 - 2\.2
 
@@ -378,7 +382,7 @@ Annexe 3[^t-2]
 - 4\.4 Les gaz s’échappant de l’appareil doivent pouvoir être écartés sans influencer les valeurs mesurées.
 - 4\.5 En conclusion d’une mesure et avant toute déconnexion, les capteurs doivent être nettoyés abondamment avec de l’air frais.
 
-[^annex3-lvlu1-lvlB-lvl4-1]: SN EN 50379-1:2012, Spécifications pour les appareils électriques portatifs conçus pour mesurer les paramètres des gaz de combustion dans les conduits d’évacuation des appareils de chauffage. Partie 1: prescriptions générales et méthodes d’essai. La norme peut être consultée gratuitement auprès de l’Institut fédéral de métrologie, 3003 Berne, ou auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; www.snv.ch. Elle peut être également obtenue contre paiement auprès de la SNV.
+[^annex3-lvlu1-lvlB-lvl4-1]: SN EN 50379-1:2012, Spécifications pour les appareils électriques portatifs conçus pour mesurer les paramètres des gaz de combustion dans les conduits d’évacuation des appareils de chauffage. Partie 1: prescriptions générales et méthodes d’essai. La norme peut être consultée gratuitement auprès de l’Institut fédéral de métrologie, 3003 Berne, ou auprès de l’Association suisse de normalisation (SNV), Sulzerallee 70, 8404 Winterthour; [www.snv.ch](https://www.snv.ch). Elle peut être également obtenue contre paiement auprès de la SNV.
 
 Annexe 4[^t-3]
 
@@ -386,7 +390,7 @@ Annexe 4[^t-3]
 
 ## Procédure pour le maintien de la stabilité des mesures pour les instruments de mesure des effluents par les chauffages au bois et les chauffages au charbon
 
-[^t-3]: Mise à jour selon le ch. II de l’O du DFJP du 13 février 2019, en vigueur depuis le 15 mars 2019 ([RO 2019 823](https://fedlex.data.admin.ch/eli/oc/2019/139)).
+[^t-3]: Mise à jour par le ch. II de l’O du DFJP du 13 février 2019, en vigueur depuis le 15 mars 2019 ([RO 2019 823](https://fedlex.data.admin.ch/eli/oc/2019/139)).
 
 ### 1 Vérification ultérieure
 

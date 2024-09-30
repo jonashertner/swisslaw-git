@@ -4,11 +4,11 @@ title: Verordnung des EJPD vom 22. April 2011 über Abgasmessmittel für Feuerun
 short: VAMF
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/296"
 language: de
-version: 2019-03-15
+version: 2024-10-01
 adopted: 2011-04-22
 in_force: 2011-07-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/296/20190315/de/xml/fedlex-data-admin-ch-eli-cc-2011-296-20190315-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/296/20190315/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/296/20241001/de/xml/fedlex-data-admin-ch-eli-cc-2011-296-20241001-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/296/20241001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/296/20190315/de"
 
 (VAMF)
 
-vom 22. April 2011 (Stand am 15. März 2019)
+vom 22. April 2011 (Stand am 1. Oktober 2024)
 
 Das Eidgenössische Justiz- und Polizeidepartement (EJPD),
 
@@ -26,7 +26,7 @@ gestützt auf die Artikel 5 Absatz 2, 8 Absatz 2, 16 Absatz 2, 24 Absatz 3 und 3
 verordnet:
 
 [^ingress-1]: [SR 941.210](https://fedlex.data.admin.ch/eli/cc/2006/245)
-[^ingress-2]: Fassung gemäss Ziff. I 4 der V des EJPD vom 7. Dezember 2012 (Neue gesetzliche Grundlagen im Messwesen), in Kraft seit 1. Januar 2013 ([AS 2012 7183](https://fedlex.data.admin.ch/eli/oc/2012/874)).
+[^ingress-2]: Fassung gemäss Ziff. I 4 der V des EJPD vom 7. Dez. 2012 (Neue gesetzliche Grundlagen im Messwesen), in Kraft seit 1. Jan. 2013 ([AS 2012 7183](https://fedlex.data.admin.ch/eli/oc/2012/874)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
@@ -47,10 +47,10 @@ Diese Verordnung regelt:
 Dieser Verordnung unterstehen Messmittel, die für Emissionsmessungen und ‑kontrollen nach Artikel 13 der Luftreinhalte-Verordnung vom 16. Dezember 1985[^2-1] (LRV) verwendet werden bei:
 
 - a. Öl- und Gasfeuerungen mit einer Feuerungswärmeleistung bis 1 MW;
-- b. Holz- und Kohlefeuerungen[^2-2] mit einer Feuerungswärmeleistung bis 70 kW.
+- b.[^2-2] Holz- und Kohlefeuerungen mit einer Feuerungswärmeleistung bis 500 kW.
 
 [^2-1]: [SR 814.318.142.1](https://fedlex.data.admin.ch/eli/cc/1986/208_208_208)
-[^2-2]: Ausdruck gemäss Ziff. I der V des EJPD vom 13. Februar 2019, in Kraft seit 15. März 2019 ([AS 2019 823](https://fedlex.data.admin.ch/eli/oc/2019/139)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
+[^2-2]: Fassung gemäss Ziff. I der V des EJPD vom 22. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 486](https://fedlex.data.admin.ch/eli/oc/2024/486)).
 
 #### Art. 3
 
@@ -104,7 +104,7 @@ Abgasmessmittel für Öl- und Gasfeuerungen müssen die grundlegenden Anforderun
 
 Abgasmessmittel für Öl- und Gasfeuerungen bedürfen einer ordentlichen Zulassung durch das Eidgenössische Institut für Metrologie (METAS)[^5-1] und einer Ersteichung nach Anhang 5 der Messmittelverordnung durch das METAS oder eine ermächtigte Eichstelle.
 
-[^5-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. November 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Januar 2013 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
+[^5-1]: Die Bezeichnung der Verwaltungseinheit wurde in Anwendung von Art. 16 Abs. 3 der Publikationsverordnung vom 17. Nov. 2004 ([AS 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)) auf den 1. Jan. 2013 angepasst. Die Anpassung wurde im ganzen Text vorgenommen.
 
 #### Art. 6
 
@@ -121,6 +121,10 @@ Abgasmessmittel für Öl- und Gasfeuerungen müssen folgenden Verfahren zur Erha
 <sup>2</sup> Das METAS kann die Fristen für einzelne Bauarten bestimmter Herstellerinnen verlängern oder verkürzen, wenn die messtechnischen Eigenschaften der verwendeten Messmittel dies erlauben oder verlangen.
 
 ## 3. Abschnitt: Abgasmessmittel für Holz- und Kohlefeuerungen
+
+[^sec3-1]
+
+[^sec3-1]: Ausdruck gemäss Ziff. I der V des EJPD vom 13. Febr. 2019, in Kraft seit 15. März 2019 ([AS 2019 823](https://fedlex.data.admin.ch/eli/oc/2019/139)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 
 #### Art. 7
 
@@ -164,7 +168,7 @@ Abgasmessmittel für Holz- und Kohlefeuerungen müssen folgenden Verfahren zur E
 
 Die vor Inkrafttreten dieser Änderung zugelassenen Abgasmessmittel für Holzfeuerungen gelten auch als zugelassen für die Gasmessung von Kohlefeuerungen.
 
-[^10a-1]: Eingefügt durch Ziff. I der V des EJPD vom 13. Februar 2019, in Kraft seit 15. März 2019 ([AS 2019 823](https://fedlex.data.admin.ch/eli/oc/2019/139)).
+[^10a-1]: Eingefügt durch Ziff. I der V des EJPD vom 13. Febr. 2019, in Kraft seit 15. März 2019 ([AS 2019 823](https://fedlex.data.admin.ch/eli/oc/2019/139)).
 
 #### Art. 11
 
@@ -178,14 +182,14 @@ Anhang 1[^t-1]
 
 ## Spezifische Anforderungen an Abgasmessmittel für Öl- und Gasfeuerungen
 
-[^t-1]: Bereinigt gemäss Ziff. I 4 der V des EJPD vom 7. Dezember 2012 (Neue gesetzliche Grundlagen im Messwesen) ([AS 2012 7183](https://fedlex.data.admin.ch/eli/oc/2012/874)) und Ziff. II der V des EJPD vom 13. Februar 2019, in Kraft seit 15. März 2019 ([AS 2019 823](https://fedlex.data.admin.ch/eli/oc/2019/139)).
+[^t-1]: Bereinigt gemäss Ziff. II der V des EJPD vom 13. Febr. 2019 ([AS 2019 823](https://fedlex.data.admin.ch/eli/oc/2019/139)) und vom22. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 486](https://fedlex.data.admin.ch/eli/oc/2024/486)).
 
 ### A Massgebende Normen
 
 - Sofern keine spezifischen Anforderungen vermerkt sind, gelten die Anforderungen nach den Normen SN EN 50379-1:2012[^annex1-lvlu1-lvlA-1] und SN EN 50379-2:2012[^annex1-lvlu1-lvlA-2].
 
-[^annex1-lvlu1-lvlA-1]: SN EN 50379-1:2012, Anforderungen an tragbare elektrische Geräte zur Messung von Verbrennungsparametern von Heizungsanlagen. Teil 1: Allgemeine Anforderungen und Prüfverfahren. Die Norm kann kostenlos eingesehen werden beim Eidgenössischen Institut für Metrologie, 3003 Bern oder kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^annex1-lvlu1-lvlA-2]: SN EN 50379-2:2012, Anforderungen an tragbare elektrische Geräte zur Messung von Verbrennungsparametern von Heizungsanlagen. Teil 2: Anforderungen an das Betriebsverhalten von Geräten für den Einsatz bei gesetzlich geregelten Messungen und Beurteilungen. Die Norm kann kostenlos eingesehen werden beim Eidgenössischen Institut für Metrologie, 3003 Bern oder kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex1-lvlu1-lvlA-1]: SN EN 50379-1:2012, Anforderungen an tragbare elektrische Geräte zur Messung von Verbrennungsparametern von Heizungsanlagen. Teil 1: Allgemeine Anforderungen und Prüfverfahren. Die Norm kann kostenlos eingesehen werden beim Eidgenössischen Institut für Metrologie, 3003 Bern oder kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
+[^annex1-lvlu1-lvlA-2]: SN EN 50379-2:2012, Anforderungen an tragbare elektrische Geräte zur Messung von Verbrennungsparametern von Heizungsanlagen. Teil 2: Anforderungen an das Betriebsverhalten von Geräten für den Einsatz bei gesetzlich geregelten Messungen und Beurteilungen. Die Norm kann kostenlos eingesehen werden beim Eidgenössischen Institut für Metrologie, 3003 Bern oder kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 
 ### B Messtechnische Anforderungen
 
@@ -203,14 +207,14 @@ Anhang 1[^t-1]
 </table>
 
 - 1\.2 Russzahl
-  - – Die Russzahl bestimmt sich nach Anhang A der Norm SN EN 267+A1:2011[^annex1-lvlu1-lvlB-lvl1-1]. Sie umfasst den Bereich von 0–9 und wird durch Vergleich mit einer Skala in ganzen Zahlen angegeben.
+  - – Die Russzahl bestimmt sich nach Anhang A der Norm SN EN 267:2020[^annex1-lvlu1-lvlB-lvl1-1]. Sie umfasst den Bereich von 0–9 und wird durch Vergleich mit einer Skala in ganzen Zahlen angegeben.
   - – Das Abgasvolumen zur Russzahlbestimmung beträgt 5,7 dm<sup>3</sup> bei Umgebungsbedingungen pro cm<sup>2</sup> wirksame Filterfläche.
 
 - 1\.3 Abgas- und Verbrennungslufttemperatur
   - – Die Abgastemperatur umfasst den Bereich von 0 bis 400 °C;
   - – Die Verbrennungslufttemperatur umfasst den Bereich von 0 bis 100 °C.
 
-[^annex1-lvlu1-lvlB-lvl1-1]: SN EN 267+A1: 2011, Automatische Brenner mit Gebläse für flüssige Brennstoffe. Die Norm kann kostenlos eingesehen werden beim Eidgenössischen Institut für Metrologie, 3003 Bern oder kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex1-lvlu1-lvlB-lvl1-1]: SN EN 267:2020, Gebläsebrenner für flüssige Brennstoffe. Die Norm kann kostenlos eingesehen werden beim Eidgenössischen Institut für Metrologie, 3003 Bern oder kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 
 ### 2 Nennbetriebsbedingungen
 
@@ -312,15 +316,15 @@ Anhang 3[^t-2]
 
 ## Spezifische Anforderungen an Abgasmessmittel für Holz- und Kohlefeuerungen
 
-[^t-2]: Bereinigt gemäss Ziff. II der V des EJPD vom 13. Februar 2019, in Kraft seit 15. März 2019 ([AS 2019 823](https://fedlex.data.admin.ch/eli/oc/2019/139)).
+[^t-2]: Bereinigt gemäss Ziff. II der V des EJPD vom 13. Febr. 2019 ([AS 2019 823](https://fedlex.data.admin.ch/eli/oc/2019/139)) und vom 22. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 486](https://fedlex.data.admin.ch/eli/oc/2024/486)).
 
 ### A Massgebende Normen
 
 - Sofern keine spezifischen Anforderungen vermerkt sind, gelten die Anforderungen nach den Normen SN EN 50379-1:2012[^annex3-lvlu1-lvlA-1], SN EN 50379-2:2012[^annex3-lvlu1-lvlA-2] und VDI 4206 Blatt 2:2015[^annex3-lvlu1-lvlA-3].
 
-[^annex3-lvlu1-lvlA-1]: SN EN 50379-1:2012, Anforderungen an tragbare elektrische Geräte zur Messung von Verbrennungsparametern von Heizungsanlagen. Teil 1: Allgemeine Anforderungen und Prüfverfahren. Die Norm kann kostenlos eingesehen werden beim Eidgenössischen Institut für Metrologie, 3003 Bern oder kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^annex3-lvlu1-lvlA-2]: SN EN 50379-2:2012, Anforderungen an tragbare elektrische Geräte zur Messung von Verbrennungsparametern von Heizungsanlagen. Teil 2: Anforderungen an das Betriebsverhalten von Geräten für den Einsatz bei gesetzlich geregelten Messungen und Beurteilungen. Die Norm kann kostenlos eingesehen werden beim Eidgenössischen Institut für Metrologie, 3003 Bern oder kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
-[^annex3-lvlu1-lvlA-3]: VDI 4206 Blatt 2:2015, Mindestanforderungen und Prüfpläne für Messgeräte zur Überwachung der Emissionen an Kleinfeuerungsanlagen: Messgeräte zur Ermittlung von partikelförmigen Emissionen. Die Norm kann beim Eidgenössischen Institut für Metrologie, 3003 Bern kostenlos eingesehen oder beim Verein Deutscher Ingenieure (VDI), Postfach 10 11 39, 40002 Düsseldorf, www.vdi.de, gegen Bezahlung bezogen werden.
+[^annex3-lvlu1-lvlA-1]: SN EN 50379-1:2012, Anforderungen an tragbare elektrische Geräte zur Messung von Verbrennungsparametern von Heizungsanlagen. Teil 1: Allgemeine Anforderungen und Prüfverfahren. Die Norm kann kostenlos eingesehen werden beim Eidgenössischen Institut für Metrologie, 3003 Bern oder kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
+[^annex3-lvlu1-lvlA-2]: SN EN 50379-2:2012, Anforderungen an tragbare elektrische Geräte zur Messung von Verbrennungsparametern von Heizungsanlagen. Teil 2: Anforderungen an das Betriebsverhalten von Geräten für den Einsatz bei gesetzlich geregelten Messungen und Beurteilungen. Die Norm kann kostenlos eingesehen werden beim Eidgenössischen Institut für Metrologie, 3003 Bern oder kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
+[^annex3-lvlu1-lvlA-3]: VDI 4206 Blatt 2:2015, Mindestanforderungen und Prüfpläne für Messgeräte zur Überwachung der Emissionen an Kleinfeuerungsanlagen: Messgeräte zur Ermittlung von partikelförmigen Emissionen. Die Norm kann beim Eidgenössischen Institut für Metrologie, 3003 Bern kostenlos eingesehen oder beim Verein Deutscher Ingenieure (VDI), Postfach 10 11 39, 40002 Düsseldorf, [www.vdi.de](http://www.vdi.de), gegen Bezahlung bezogen werden.
 
 ### B Messtechnische Anforderungen
 
@@ -345,7 +349,7 @@ Anhang 3[^t-2]
   - – Umgebungstemperatur von +5 °C bis +40 °C;
   - – Umgebungsdruck von 860 hPa bis 1060 hPa;
   - – mechanische Umgebungsklasse M1;
-  - – elektromagnetische Umgebungsklasse E2.
+  - – elektromagnetische Umgebungsklasse E2; das METAS kann für eine einzelne Komponente eines Messmittels die elektromagnetische Umgebungsklasse E1 zulassen, sofern der Einsatzort dies erlaubt.
 
 - 2\.2
 
@@ -378,7 +382,7 @@ Anhang 3[^t-2]
 - 4\.4 Die aus dem Gerät austretenden Gase müssen weggeführt werden können, ohne dass dadurch die Messwerte beeinflusst werden.
 - 4\.5 Im Anschluss an eine Messung und vor jeder Abschaltung müssen die Sensoren ausreichend mit Frischluft gespült werden.
 
-[^annex3-lvlu1-lvlB-lvl4-1]: SN EN 50379-1:2012, Anforderungen an tragbare elektrische Geräte zur Messung von Verbrennungsparametern von Heizungsanlagen. Teil 1: Allgemeine Anforderungen und Prüfverfahren. Die Norm kann kostenlos eingesehen werden beim Eidgenössischen Institut für Metrologie, 3003 Bern oder kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; www.snv.ch.
+[^annex3-lvlu1-lvlB-lvl4-1]: SN EN 50379-1:2012, Anforderungen an tragbare elektrische Geräte zur Messung von Verbrennungsparametern von Heizungsanlagen. Teil 1: Allgemeine Anforderungen und Prüfverfahren. Die Norm kann kostenlos eingesehen werden beim Eidgenössischen Institut für Metrologie, 3003 Bern oder kann kostenlos eingesehen und gegen Bezahlung bezogen werden bei der Schweizerischen Normen-Vereinigung (SNV), Sulzerallee 70, 8404 Winterthur; [www.snv.ch](http://www.snv.ch).
 
 Anhang 4[^t-3]
 
@@ -386,7 +390,7 @@ Anhang 4[^t-3]
 
 ## Verfahren zur Erhaltung der Messbeständigkeit für Abgasmessmittel für Holz- und Kohlefeuerungen
 
-[^t-3]: Bereinigt gemäss Ziff. II der V des EJPD vom 13. Februar 2019, in Kraft seit 15. März 2019 ([AS 2019 823](https://fedlex.data.admin.ch/eli/oc/2019/139)).
+[^t-3]: Bereinigt gemäss Ziff. II der V des EJPD vom 13. Febr. 2019, in Kraft seit 15. März 2019 ([AS 2019 823](https://fedlex.data.admin.ch/eli/oc/2019/139)).
 
 ### 1 Nacheichung
 
