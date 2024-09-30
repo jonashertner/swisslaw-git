@@ -4,11 +4,11 @@ number: "331.1"
 title: Justizvollzugsverordnung (JVV)
 short: JVV
 language: de
-version: "2024-04-01"
-nachtrag: "124"
-valid_until: 2024-10-01
+version: "2024-10-01"
+nachtrag: "126"
+valid_until: 2025-07-01
 adopted: 2006-12-06
-url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-331_1-2006_12_06-2007_01_01-124.html"
+url: "https://www.zh.ch/de/politik-staat/gesetze-beschluesse/gesetzessammlung/zhlex-ls/erlass-331_1-2006_12_06-2007_01_01-126.html"
 text: pdf
 ---
 
@@ -20,7 +20,7 @@ text: pdf
 
 Der Regierungsrat,
 
-gestützt auf §§ 14 Abs. 2, 15, 18 und 31 des Straf- und Justizvollzugsgesetzes vom 19. Juni 2006 (StJVG)[^t-2], § 163 des Gesetzes über die Gerichts- und Behördenorganisation im Zivil- und Strafprozess vom 10. Mai 2010[^t-3], §§ 14 Abs. 2 und 35 Abs. 1 des Polizeiorganisationsgesetzes vom 29. November 2004[^t-4], Art. 235 f. und 445 StPO[^t-5], Art. 75 ff. und 124 Abs. 2 des Bundesgesetzes vom 16. Dezember 2005 über die Ausländerinnen und Ausländer und über die Integration (AIG)[^t-6] und Art. 49 des Bundesgesetzes vom 20. März 1981 über internationale Rechtshilfe in Strafsachen (Rechtshilfegesetz)[^t-7],<sup>33</sup>
+gestützt auf §§ 14 Abs. 2, 15, 18 und 31 des Straf- und Justizvollzugsgesetzes vom 19. Juni 2006 (StJVG)[^t-2], § 163 des Gesetzes über die Gerichts- und Behördenorganisation im Zivil- und Strafprozess vom 10. Mai 2010[^t-3], §§ 14 Abs. 2 und 35 Abs. 1 des Polizeiorganisationsgesetzes vom 29. November 2004[^t-4], Art. 235 f. und 445 StPO[^t-5], Art. 75 ff. und 124 Abs. 2 des Bundesgesetzes vom 16. Dezember 2005 über die Ausländerinnen und Ausländer und über die Integration (AIG)[^t-6] und Art. 49 des Bundesgesetzes vom 20. März 1981 über internationale Rechtshilfe in Strafsachen (Rechtshilfegesetz),<sup>33</sup>
 
 beschliesst:
 
@@ -34,7 +34,6 @@ beschliesst:
 [^t-4]: LS 551.1.
 [^t-5]: SR 312.0.
 [^t-6]: SR 142.20.
-[^t-7]: SR 351.1. 1. 4. 24 - 124 45
 
 ### 1. Teil: Amt<sup>29</sup>
 
@@ -68,7 +67,7 @@ beschliesst:
 
 **1**
 
-- 1\. 4. 24 - 124
+1.10. 24 - 126
 
 <sup>3</sup> Die Geschäftsleitung besteht aus der Amtschefin oder dem Amtschef sowie den Leiterinnen und Leitern der Hauptabteilungen. Sie kann weitere Personen in die Geschäftsleitung aufnehmen.
 
@@ -139,9 +138,7 @@ c.<sup>20</sup> vermitteln Arbeitseinsätze im Rahmen der gemeinnützigen Arbeit
 
 **3**
 
-- 1\. 4. 24 - 124
-
-- g. betreiben die kantonale Koordinationsstelle für das automatisierte Strafregister sowie diejenige gemäss Art. 4 Abs. 2 des Bundesgesetzes vom 18. Dezember 2015 zum Internationalen Übereinkommen zum Schutz aller Personen vor dem Verschwindenlassen.
+1.10. 24 - 126 g.<sup>38</sup> betreiben die kantonale Koordinationsstelle für das Strafregister-Informationssystem VOSTRA sowie diejenige gemäss Art. 4 Abs. 2 des Bundesgesetzes vom 18. Dezember 2015 zum Internationalen Übereinkommen zum Schutz aller Personen vor dem Verschwindenlassen[^7-5].
 
 <sup>2</sup> In einzelnen Fällen können sie im Einverständnis mit der verurteilten Person Sozialberatungen und -betreuungen nach Beendigung des gesetzlichen Auftrags weiterführen, solange a. die Weiterführung die Resozialisierung sichert und b. keine andere Fachstelle zuständig ist.
 
@@ -197,7 +194,7 @@ c.<sup>20</sup> vermitteln Arbeitseinsätze im Rahmen der gemeinnützigen Arbeit
 
 **5**
 
-- 1\. 4. 24 - 124
+1.10. 24 - 126
 
 <sup>2</sup> In diese Gefängnisse werden aufgenommen:
 
@@ -213,7 +210,7 @@ c.<sup>20</sup> vermitteln Arbeitseinsätze im Rahmen der gemeinnützigen Arbeit
 
 - 1\. zum Vollzug von Untersuchungs- und Sicherheitshaft, bei Jugendlichen unter 15 Jahren, wenn eine begründete Ausnahme vorliegt und
 
-- 2\. zum Freiheitsentzug gemäss Art. 25 JStG[^7-5].
+- 2\. zum Freiheitsentzug gemäss Art. 25 JStG[^7-6].
 
 <sup>3</sup> Die Gefängnisse sorgen für die Betreuung der inhaftierten Personen und für eine genügende Beschäftigung. Sie organisieren die erforderliche Sozialberatung, ärztliche Versorgung und seelsorgerische Unterstützung.
 
@@ -241,7 +238,8 @@ c.<sup>20</sup> vermitteln Arbeitseinsätze im Rahmen der gemeinnützigen Arbeit
 [^7-2]: SR 312.1.
 [^7-3]: SR 210.
 [^7-4]: SR 120.
-[^7-5]: SR 311.1.
+[^7-5]: SR 0.103.3. 1.10. 24 - 126 45
+[^7-6]: SR 311.1.
 
 #### § 12
 
@@ -281,7 +279,7 @@ c.<sup>20</sup> vermitteln Arbeitseinsätze im Rahmen der gemeinnützigen Arbeit
 
 **7**
 
-- 1\. 4. 24 - 124
+1.10. 24 - 126
 
 <sup>3</sup> Sie erbringen ihre Leistungen interdisziplinär sowie nach erprobten und anerkannten Qualitätsstandards.
 
@@ -365,7 +363,7 @@ Zur Durchsetzung und Erfüllung der Aufträge können im Rahmen der Amtshilfe Po
 
 **9**
 
-- 1\. 4. 24 - 124 § 23.<sup>20</sup> <sup>1</sup> Die Verfahrensleitung gemäss Art. 61<sup>31</sup> StPO[^20-1] entscheidet über Gesuche um Entlassung sowie um Straf- oder Massnahmenunterbruch.
+1.10. 24 - 126 § 23.<sup>20</sup> <sup>1</sup> Die Verfahrensleitung gemäss Art. 61<sup>31</sup> StPO[^20-1] entscheidet über Gesuche um Entlassung sowie um Straf- oder Massnahmenunterbruch.
 
 **Entlassung oder Unterbruch**
 
@@ -449,7 +447,7 @@ Als geschlossen werden Anstalten oder deren Abteilungen bezeichnet, die aufgrund
 
 **11**
 
-- 1\. 4. 24 - 124
+1.10. 24 - 126
 
 <sup>3</sup> Erfüllt die verurteilte Person die Voraussetzungen für die gewünschte Vollzugsform nicht, kann die Vollzugsbehörde ihr eine Frist ansetzen, um ein Gesuch um Bewilligung einer anderen besonderen Vollzugsform einzureichen.
 
@@ -517,7 +515,7 @@ Als geschlossen werden Anstalten oder deren Abteilungen bezeichnet, die aufgrund
 
 **13**
 
-- 1\. 4. 24 - 124
+1.10. 24 - 126
 
 <sup>2</sup> Es entscheidet nach der Verhaftung umgehend, ob die verurteilte Person ihre Strafe im offenen oder geschlossenen Vollzug verbüssen muss. Der Vollzug der Strafe in einer besonderen Vollzugsform wird in der Regel nicht mehr bewilligt.
 
@@ -587,11 +585,9 @@ Als geschlossen werden Anstalten oder deren Abteilungen bezeichnet, die aufgrund
 
 **15**
 
-- 1\. 4. 24 - 124 § 57 a.<sup>25</sup> <sup>1</sup> Das Amt bricht den Vollzug in der bewilligten Vollzugsform ab, wenn
+1.10. 24 - 126 § 57 a.<sup>25</sup> <sup>1</sup> Das Amt bricht den Vollzug in der bewilligten Vollzugsform ab, wenn a. eine oder mehrere weitere Strafen zu vollziehen sind und dadurch die zulässige Höchstdauer für die bewilligte Vollzugsform überschritten wird,
 
 **Gemeinsame Bestimmungen a. Änderung der Zulassungsvoraussetzungen**
-
-- a. eine oder mehrere weitere Strafen zu vollziehen sind und dadurch die zulässige Höchstdauer für die bewilligte Vollzugsform überschritten wird,
 
 - b. die verurteilte Person die Voraussetzungen für die bewilligte Vollzugsform nicht mehr erfüllt,
 
@@ -669,7 +665,7 @@ Eine verurteilte Person wird vom geschlossenen in den offenen Vollzug versetzt, 
 
 **17**
 
-- 1\. 4. 24 - 124 § 63. Die Bewilligung des Strafunterbruchs gemäss Art. 92 StGB[^62-1] kann mit Auflagen über Verhalten, Beschäftigung, Aufenthaltsort, Meldepflicht sowie mit der Anordnung einer Beaufsichtigung oder Betreuung verbunden werden.
+1.10. 24 - 126 § 63. Die Bewilligung des Strafunterbruchs gemäss Art. 92 StGB[^62-1] kann mit Auflagen über Verhalten, Beschäftigung, Aufenthaltsort, Meldepflicht sowie mit der Anordnung einer Beaufsichtigung oder Betreuung verbunden werden.
 
 **f. Strafunterbruch**
 
@@ -749,7 +745,7 @@ Das Amt ordnet die Bewährungshilfe bei bedingter Entlassung gemäss den Richtli
 
 **19**
 
-- 1\. 4. 24 - 124
+1.10. 24 - 126
 
 ### 5.<sup>26</sup> Abschnitt: Therapeutische Massnahmen
 
@@ -827,7 +823,7 @@ Meldet sich die verurteilte Person innert der ihr gesetzten Frist nicht zum ange
 
 **21**
 
-- 1\. 4. 24 - 124 § 77. Für die Durchführung und die Rahmenbedingungen von stationären Suchtbehandlungen gelten die Richtlinien der Ostschweizer Strafvollzugskommission<sup>33</sup> für den Vollzug von stationären Suchttherapien<sup>17</sup>.
+1.10. 24 - 126 § 77. Für die Durchführung und die Rahmenbedingungen von stationären Suchtbehandlungen gelten die Richtlinien der Ostschweizer Strafvollzugskommission<sup>33</sup> für den Vollzug von stationären Suchttherapien<sup>17</sup>.
 
 **Vollzug von stationären Suchtbehandlungen**
 
@@ -927,7 +923,7 @@ Können die Therapeutin, der Therapeut oder die Massnahmenvollzugseinrichtung di
 
 **23**
 
-- 1\. 4. 24 - 124 § 87.<sup>21,</sup> <sup>30</sup> <sup>1</sup> Für die Versetzung vom offenen in den geschlossenen Vollzug gilt § 59 sinngemäss.
+1.10. 24 - 126 § 87.<sup>21,</sup> <sup>30</sup> <sup>1</sup> Für die Versetzung vom offenen in den geschlossenen Vollzug gilt § 59 sinngemäss.
 
 **Versetzung und Abbruch**
 
@@ -1017,7 +1013,7 @@ Für die Zuständigkeit und das Verfahren zum Erlass eines Vollzugsplanes sowie 
 
 **25**
 
-- 1\. 4. 24 - 124
+1.10. 24 - 126
 
 <sup>3</sup> Die Daten werden vernichtet, sobald sie nicht mehr benötigt werden, spätestens beim Austritt der verurteilten Person.
 
@@ -1099,7 +1095,7 @@ Für die Zuständigkeit und das Verfahren zum Erlass eines Vollzugsplanes sowie 
 
 **27**
 
-- 1\. 4. 24 - 124 § 105.<sup>33</sup> Gutgeschriebenes Arbeitsentgelt flüchtiger Personen fällt nach Ablauf von fünf Jahren seit der Entweichung einem Fonds oder einer Stiftung zur Unterstützung von Gefangenen und Entlassenen zu.
+1.10. 24 - 126 § 105.<sup>33</sup> Gutgeschriebenes Arbeitsentgelt flüchtiger Personen fällt nach Ablauf von fünf Jahren seit der Entweichung einem Fonds oder einer Stiftung zur Unterstützung von Gefangenen und Entlassenen zu.
 
 **Auszahlung des Guthabens a. bei Flucht**
 
@@ -1171,7 +1167,7 @@ Die verurteilten Personen erhalten täglich Gelegenheit zu einem mindestens eins
 
 **29**
 
-- 1\. 4. 24 - 124
+1.10. 24 - 126
 
 <sup>3</sup> Weiter gehende medizinische Behandlungen sowie die Beschaffung von Brillen, Prothesen und dergleichen erfolgen nur, wenn die verurteilte Person die Kosten übernimmt oder eine Kostengutsprache ihrer Krankenversicherung oder der fürsorgerechtlich zuständigen Behörde vorliegt.
 
@@ -1235,7 +1231,7 @@ Die verurteilten Personen erhalten täglich Gelegenheit zu einem mindestens eins
 
 **31**
 
-- 1\. 4. 24 - 124 § 116. <sup>1</sup> Den verurteilten Personen kann die Benützung des Telefons auf eigene Kosten gestattet werden. Den Vollzugseinrichtungen gewährte Mengenrabatte auf Telefonate von Verurteilten können einem Fonds oder einer Stiftung zur Unterstützung von Gefangenen oder Entlassenen gutgeschrieben werden.<sup>24</sup>
+1.10. 24 - 126 § 116. <sup>1</sup> Den verurteilten Personen kann die Benützung des Telefons auf eigene Kosten gestattet werden. Den Vollzugseinrichtungen gewährte Mengenrabatte auf Telefonate von Verurteilten können einem Fonds oder einer Stiftung zur Unterstützung von Gefangenen oder Entlassenen gutgeschrieben werden.<sup>24</sup>
 
 **Telefon**
 
@@ -1317,7 +1313,7 @@ Verurteilte Personen in Halbgefangenschaft oder im Arbeitsexternat können in de
 
 **33**
 
-- 1\. 4. 24 - 124
+1.10. 24 - 126
 
 <sup>2</sup> Sie regeln insbesondere:
 
@@ -1413,7 +1409,7 @@ Soweit dies durch die jeweilige Vollzugsform geboten ist, regelt die Hausordnung
 
 **35**
 
-- 1\. 4. 24 - 124
+1.10. 24 - 126
 
 <sup>2</sup> Die Aufnahme in den Vollzug von Auslieferungshaft sowie die Entlassung erfolgt aufgrund eines durch das Bundesamt für Justiz ausgestellten Auslieferungshaftbefehls.
 
@@ -1485,9 +1481,7 @@ Soweit dies durch die jeweilige Vollzugsform geboten ist, regelt die Hausordnung
 
 **37**
 
-- 1\. 4. 24 - 124
-
-- d. der durch einen wirksam gewordenen Vorsorgeauftrag beauftragten Person,
+1.10. 24 - 126 d. der durch einen wirksam gewordenen Vorsorgeauftrag beauftragten Person,
 
 - e. schweizerischen Amtspersonen,
 
@@ -1569,7 +1563,7 @@ Soweit dies durch die jeweilige Vollzugsform geboten ist, regelt die Hausordnung
 
 **39**
 
-- 1\. 4. 24 - 124 § 139.<sup>31</sup> Die Durchführung erfolgt getrennt von der Untersuchungs-, Sicherheits- und Auslieferungshaft und dem Vollzug von Freiheitsstrafen oder Massnahmen. Vorbehalten bleibt Art. 81 Abs. 2 Satz 2 AIG.
+1.10. 24 - 126 § 139.<sup>31</sup> Die Durchführung erfolgt getrennt von der Untersuchungs-, Sicherheits- und Auslieferungshaft und dem Vollzug von Freiheitsstrafen oder Massnahmen. Vorbehalten bleibt Art. 81 Abs. 2 Satz 2 AIG.
 
 **Trennung von anderen Haftarten**
 
@@ -1647,7 +1641,7 @@ Die inhaftierten Personen sind berechtigt, sich selbst zu beschäftigen. Die sel
 
 **41**
 
-- 1\. 4. 24 - 124 § 148. <sup>1</sup> Die inhaftierten Personen dürfen auf eigene Kosten ohne Beschränkung des Umfangs Briefe versenden und empfangen.
+1.10. 24 - 126 § 148. <sup>1</sup> Die inhaftierten Personen dürfen auf eigene Kosten ohne Beschränkung des Umfangs Briefe versenden und empfangen.
 
 **Verkehr mit der Aussenwelt a. Briefe**
 
@@ -1735,7 +1729,7 @@ Das Disziplinarwesen dient zur Aufrechterhaltung der Ordnung und Sicherheit in d
 
 **43**
 
-- 1\. 4. 24 - 124
+1.10. 24 - 126
 
 <sup>3</sup> Die Leitung der Vollzugseinrichtung kann Erleichterungen beim Vollzug des Arrests vorsehen. Wenn besondere Gründe, insbesondere gesundheitlicher Natur, dies erfordern, kann der Arrest in einer Normalzelle mit reduzierter Ausrüstung vollzogen werden.
 
@@ -1846,3 +1840,5 @@ Für die Erprobung neuer Vollzugsformen und für Versuche zur Weiterentwicklung 
 <sup>36</sup> Eingefügt durch RRB vom 10. Januar 2024 (OS 79, 53; ABl 2024-01-19). In Kraft seit 1. April 2024.
 
 <sup>37</sup> Fassung gemäss RRB vom 10. Januar 2024 (OS 79, 53; ABl 2024-01-19). In Kraft seit 1. April 2024.
+
+<sup>38</sup> Fassung gemäss RRB vom 12. Juni 2024 (OS 79, 314; ABl 2024-06-28). In Kraft seit 1. Oktober 2024.
