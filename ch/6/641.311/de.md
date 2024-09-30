@@ -4,11 +4,11 @@ title: "Verordnung vom 14. Oktober 2009 über die Tabakbesteuerung (Tabaksteuerv
 short: TStV
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/677"
 language: de
-version: 2022-01-01
+version: 2024-10-01
 adopted: 2009-10-14
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/677/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2009-677-20220101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/677/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/677/20241001/de/xml/fedlex-data-admin-ch-eli-cc-2009-677-20241001-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/677/20241001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/677/20220101/de"
 
 (Tabaksteuerverordnung, TStV)
 
-vom 14. Oktober 2009 (Stand am 1. Januar 2022)
+vom 14. Oktober 2009 (Stand am 1. Oktober 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -80,7 +80,7 @@ Als Feinschnitttabak gilt Rauchtabak, wenn bei diesem:
 
 <sup>6</sup> Als Feinschnitttabak gilt auch Wasserpfeifentabak der Zolltarifnummer 2403.1100.[^2-3]
 
-[^2-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang. Der Generaltarif und seine Änderungen werden nach Art. 5 Abs. 1 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) in der AS nicht veröffentlicht. Der Text kann im Internet unter www.ezv.admin.ch eingesehen werden. Die Änderungen werden ebenfalls in den Zolltarif übernommen, der im Internet unter www.tares.ch konsultiert werden kann.
+[^2-1]: [SR 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)Anhang. Der Generaltarif und seine Änderungen werden nach Art. 5 Abs. 1 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) in der AS nicht veröffentlicht. Der Text kann im Internet unter: [www.zoll.ch/](http://www.zoll.ch/) eingesehen werden. Die Änderungen werden ebenfalls in den Zolltarif übernommen, der im Internet unter: [www.tares.ch](http://www.tares.ch) konsultiert werden kann.
 [^2-2]: Fassung gemäss Anhang 3 Ziff. 12 der V vom 30. Juni 2021 über die Änderung des Zolltarifs, in Kraft seit 1. Jan. 2022 ([AS 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 [^2-3]: Eingefügt durch Ziff. I der V vom 29. April 2015, in Kraft seit 1. Mai 2015 ([AS 2015 1249](https://fedlex.data.admin.ch/eli/oc/2015/255)).
 
@@ -96,10 +96,11 @@ Als Feinschnitttabak gilt Rauchtabak, wenn bei diesem:
 
 Nicht als Ersatzprodukte gelten:
 
-- a. elektronische Zigaretten, die nach dem Verdampfer- oder Zerstäuberprinzip funktionieren, sowie deren Bestandteile;
-- b. bei der Swissmedic registrierte Produkte zur Rauchentwöhnung.[^3-1]
+- a.[^3-1] …
+- b. bei der Swissmedic registrierte Produkte zur Rauchentwöhnung.[^3-2]
 
-[^3-1]: Eingefügt durch Ziff. I der V vom 21. März 2012, in Kraft seit 1. April 2012 ([AS 2012 1477](https://fedlex.data.admin.ch/eli/oc/2012/197)).
+[^3-1]: Aufgehoben durch Anhang 4 Ziff. II 3 der Tabakprodukteverordnung vom 28. Aug. 2024, mit Wirkung seit 1. Okt. 2024 ([AS 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
+[^3-2]: Eingefügt durch Ziff. I der V vom 21. März 2012, in Kraft seit 1. April 2012 ([AS 2012 1477](https://fedlex.data.admin.ch/eli/oc/2012/197)).
 
 #### Art. 4
 
@@ -647,7 +648,7 @@ Die Tabaksteuerverordnung vom 15. Dezember 1969[^43-1] wird aufgehoben.
 
 Die nachstehenden Verordnungen werden wie folgt geändert:
 
-...[^44-1]
+…[^44-1]
 
 [^44-1]: Die Änderungen können unter [AS 2009 5577](https://fedlex.data.admin.ch/eli/oc/2009/677)konsultiert werden.
 

@@ -4,11 +4,11 @@ title: "Ordinanza del 14 ottobre 2009 sull'imposizione del tabacco (OImT)"
 short: OImT
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/677"
 language: it
-version: 2022-01-01
+version: 2024-10-01
 adopted: 2009-10-14
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/677/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2009-677-20220101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/677/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/677/20241001/it/xml/fedlex-data-admin-ch-eli-cc-2009-677-20241001-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/677/20241001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/677/20220101/it"
 
 (OImT)
 
-del 14 ottobre 2009 (Stato 1° gennaio 2022)
+del 14 ottobre 2009 (Stato 1° ottobre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -80,7 +80,7 @@ Per «tabacco trinciato fine» s’intende il tabacco da fumo contenente:
 
 <sup>6</sup> Per «tabacco trinciato fine» s’intende anche il tabacco per pipe ad acqua della voce di tariffa 2403.1100.[^2-3]
 
-[^2-1]: RS **632.10**, all. Giusta l’art. 5 cpv. 1 della L del 18 giu. 2004 sulle pubblicazioni ufficiali (RS **170.512**), la tariffa generale e le sue mod. non sono pubblicate nella RU. Il testo può essere consultato su Internet all’indirizzo www.dogana.admin.ch Le mod. saranno parimenti riprese nella tariffa doganale, consultabile su Internet all’indirizzo www.tares.ch
+[^2-1]: RS **632.10**, all. Giusta l’art. 5 cpv. 1 della L del 18 giu. 2004 sulle pubblicazioni ufficiali (RS **170.512**), la tariffa generale e le sue mod. non sono pubblicate nella RU. Il testo può essere consultato su Internet all’indirizzo [www.bazg.admin.ch](https://www.bazg.admin.ch/bazg/it/home.html) Le mod. saranno parimenti riprese nella tariffa doganale, consultabile su Internet all’indirizzo [www.tares.ch](http://www.tares.ch/)
 [^2-2]: Nuovo testo giusta l’all. 3 n. 12 dell’O del 30 giu. 2021 concernente la modifica della tariffa doganale, in vigore dal 1° gen. 2022 ([RU 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 [^2-3]: Introdotto dal n. I dell’O del 29 apr. 2015, in vigore dal 1° mag. 2015 ([RU 2015 1249](https://fedlex.data.admin.ch/eli/oc/2015/255)).
 
@@ -96,10 +96,11 @@ Per «tabacco trinciato fine» s’intende il tabacco da fumo contenente:
 
 Non sono considerati prodotti di sostituzione:
 
-- a. le sigarette elettroniche basate sul principio della vaporizzazione o dell’atomizzazione, nonché i loro componenti;
-- b. i prodotti per la disassuefazione dal fumo registrati da Swissmedic.[^3-1]
+- a.[^3-1] ...
+- b. i prodotti per la disassuefazione dal fumo registrati da Swissmedic.[^3-2]
 
-[^3-1]: Introdotto dal n. I dell’O del 21 mar. 2012, in vigore dal 1° apr. 2012 ([RU 2012 1477](https://fedlex.data.admin.ch/eli/oc/2012/197)).
+[^3-1]: Abrogata dall’all. 4 n. II 3 dell’O del 28 ago. 2024 sui prodotti del tabacco, con effetto dal 1° ott. 2024 ([RU 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
+[^3-2]: Introdotto dal n. I dell’O del 21 mar. 2012, in vigore dal 1° apr. 2012 ([RU 2012 1477](https://fedlex.data.admin.ch/eli/oc/2012/197)).
 
 #### Art. 4
 
@@ -639,7 +640,7 @@ Per le proprie spese l’UDSC riceve un’indennità pari al 2,5 per cento delle
 
 L’ordinanza del 15 dicembre 1969[^43-1] sull’imposizione del tabacco è abrogata.
 
-[^43-1]: [[RU 1969 1286](https://fedlex.data.admin.ch/eli/oc/1969/1271_1283_1286), [1974 1021](https://fedlex.data.admin.ch/eli/oc/1974/1021_1021_1021)art. 4 cpv. 1, [1987 2321](https://fedlex.data.admin.ch/eli/oc/1987/2321_2321_2321), [1993 331](https://fedlex.data.admin.ch/eli/oc/1993/331_331_331)n. I 5, [1996 590](https://fedlex.data.admin.ch/eli/oc/1996/590_590_590), [1997 376](https://fedlex.data.admin.ch/eli/oc/1997/376_376_376), [2003 2465](https://fedlex.data.admin.ch/eli/oc/2003/363), [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 25, [2008 3159](https://fedlex.data.admin.ch/eli/oc/2008/419)].
+[^43-1]: [[RU 1969 1286](https://fedlex.data.admin.ch/eli/oc/1969/1271_1283_1286); [1974 1021](https://fedlex.data.admin.ch/eli/oc/1974/1021_1021_1021)art. 4 cpv. 1; [1987 2321](https://fedlex.data.admin.ch/eli/oc/1987/2321_2321_2321); [1993 331](https://fedlex.data.admin.ch/eli/oc/1993/331_331_331)n. I 5; [1996 590](https://fedlex.data.admin.ch/eli/oc/1996/590_590_590); [1997 376](https://fedlex.data.admin.ch/eli/oc/1997/376_376_376); [2003 2465](https://fedlex.data.admin.ch/eli/oc/2003/363); [2007 1469](https://fedlex.data.admin.ch/eli/oc/2007/250)all. 4 n. 25; [2008 3159](https://fedlex.data.admin.ch/eli/oc/2008/419)].
 
 #### Art. 44
 

@@ -4,11 +4,11 @@ title: "Ordonnance du 14 octobre 2009 sur l'imposition du tabac (OITab)"
 short: OITab
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/677"
 language: fr
-version: 2022-01-01
+version: 2024-10-01
 adopted: 2009-10-14
 in_force: 2010-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/677/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2009-677-20220101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/677/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/677/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-2009-677-20241001-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/677/20241001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/677/20220101/fr"
 
 (OITab)
 
-du 14 octobre 2009 (Etat le 1<sup>er</sup> janvier 2022)
+du 14 octobre 2009 (État le 1<sup>er</sup> octobre 2024)
 
 Le Conseil fédéral suisse,
 
@@ -80,7 +80,7 @@ Est réputé tabac à coupe fine le tabac à fumer pour lequel:
 
 <sup>6</sup> Est également réputé tabac à coupe fine le tabac pour pipe à eau mentionné au tarif des douanes sous le numéro 2403.1100.[^2-3]
 
-[^2-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)annexe. Selon l’art. 5, al. 1, de la loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), le tarif général et ses mod. ne sont pas publiés au RO. Le texte peut être consulté sur Internet à l’adresse www.ezv.admin.ch. Les mod. sont également reprises dans le tarif douanier, qui peut être consulté sur Internet à l’adresse www.tares.ch.
+[^2-1]: [RS 632.10](https://fedlex.data.admin.ch/eli/cc/1987/1871_1871_1871)annexe. Selon l’art. 5, al. 1, de la loi du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), le tarif général et ses mod. ne sont pas publiés au RO. Le texte peut être consulté sur Internet à l’adresse [www.bazg.admin.ch](https://www.bazg.admin.ch/bazg/fr/home.html). Les mod. sont également reprises dans le tarif douanier, qui peut être consulté sur Internet à l’adresse [www.tares.ch](http://www.tares.ch).
 [^2-2]: Nouvelle teneur selon l’annexe 3 ch. 12 de l’O du 30 juin 2021 modifiant le tarif des douanes, en vigueur depuis le 1<sup>er</sup> janv. 2022 ([RO 2021 445](https://fedlex.data.admin.ch/eli/oc/2021/445)).
 [^2-3]: Introduit par le ch. I de l’O du 29 avr. 2015, en vigueur depuis le 1<sup>er</sup> mai 2015 ([RO 2015 1249](https://fedlex.data.admin.ch/eli/oc/2015/255)).
 
@@ -96,10 +96,11 @@ Est réputé tabac à coupe fine le tabac à fumer pour lequel:
 
 Ne sont pas réputés produits de substitution:
 
-- a. les cigarettes électroniques fonctionnant selon le principe de l’évaporateur ou selon le principe du vaporisateur, ainsi que leurs composantes;
-- b. les produits de désaccoutumance au tabac enregistrés auprès de Swissmedic.[^3-1]
+- a.[^3-1] …
+- b. les produits de désaccoutumance au tabac enregistrés auprès de Swissmedic.[^3-2]
 
-[^3-1]: Introduit par le ch. I de lֹ’O du 21 mars 2012, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2012 1477](https://fedlex.data.admin.ch/eli/oc/2012/197))
+[^3-1]: Abrogée par l’annexe 4 ch. II 3 de l’O du 28 août 2024 sur les produits du tabac, avec effet au 1<sup>er</sup> oct. 2024 ([RO 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
+[^3-2]: Introduit par le ch. I de lֹ’O du 21 mars 2012, en vigueur depuis le 1<sup>er</sup> avr. 2012 ([RO 2012 1477](https://fedlex.data.admin.ch/eli/oc/2012/197))
 
 #### Art. 4
 
