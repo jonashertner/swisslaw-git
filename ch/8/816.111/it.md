@@ -4,11 +4,11 @@ title: Ordinanza del DFI del 22 marzo 2017 sulla cartella informatizzata del paz
 short: OCIP-DFI
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/205"
 language: it
-version: 2024-06-01
+version: 2024-10-01
 adopted: 2017-03-22
 in_force: 2017-04-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/205/20240601/it/xml/fedlex-data-admin-ch-eli-cc-2017-205-20240601-it-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/205/20240601/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/205/20241001/it/xml/fedlex-data-admin-ch-eli-cc-2017-205-20241001-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/205/20241001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/205/20240601/it"
 
 (OCIP-DFI)
 
-del 22 marzo 2017 (Stato 1° giugno 2024)
+del 22 marzo 2017 (Stato 1° ottobre 2024)
 
 Il Dipartimento federale dell’interno (DFI),
 
@@ -49,8 +49,8 @@ La strutturazione del numero d’identificazione del paziente e il calcolo della
 
 <sup>2</sup> L’UFSP può adeguarli allo stato della tecnica.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del DFI del 24 giu. 2019, in vigore dal 15 lug. 2019 ([RU 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)).
-[^3-2]: Nuovo testo giusta il n. I dell’O del DFI del 24 giu. 2019, in vigore dal 15 lug. 2019 ([RU 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del DFI del 24 giu. 2019, in vigore dal 15 lug. 2019 ([RU 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)).
+[^3-2]: Nuovo testo giusta la cifra I dell’O del DFI del 24 giu. 2019, in vigore dal 15 lug. 2019 ([RU 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)).
 
 #### Art. 4
 
@@ -84,8 +84,8 @@ L’allegato 5 stabilisce in applicazione dell’articolo 10 capoverso 3 lettere
 
 <sup>2</sup> L’UFSP può adeguare i dati di cui al capoverso 1 allo stato della tecnica.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del DFI del 24 giu. 2019, in vigore dal 15 lug. 2019 ([RU 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)).
-[^6-2]: Introdotto dal n. I dell’O del DFI del 24 giu. 2019, in vigore dal 15 lug. 2019 ([RU 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del DFI del 24 giu. 2019, in vigore dal 15 lug. 2019 ([RU 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)).
+[^6-2]: Introdotto dalla cifra I dell’O del DFI del 24 giu. 2019, in vigore dal 15 lug. 2019 ([RU 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)).
 
 #### Art. 7
 
@@ -95,7 +95,7 @@ L’allegato 5 stabilisce in applicazione dell’articolo 10 capoverso 3 lettere
 
 <sup>2</sup> L’UFSP può adeguare allo stato della tecnica i requisiti minimi concernenti le qualifiche del personale.[^7-1]
 
-[^7-1]: Introdotto dal n. I dell’O del DFI del 24 giu. 2019, in vigore dal 15 lug. 2019 ([RU 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)).
+[^7-1]: Introdotto dalla cifra I dell’O del DFI del 24 giu. 2019, in vigore dal 15 lug. 2019 ([RU 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)).
 
 #### Art. 8
 
@@ -115,7 +115,7 @@ L’allegato 5 stabilisce in applicazione dell’articolo 10 capoverso 3 lettere
 
 <sup>3</sup> L’UFSP può adeguare le prescrizioni allo stato della tecnica secondo il capoverso 2.
 
-[^8a-1]: Introdotto dal n. I dell’O del DFI del 24 giu. 2019, in vigore dal 15 lug. 2019 ([RU 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)).
+[^8a-1]: Introdotto dalla cifra I dell’O del DFI del 24 giu. 2019, in vigore dal 15 lug. 2019 ([RU 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)).
 [^8a-2]: [RS 431.903](https://fedlex.data.admin.ch/eli/cc/1993/2253_2253_2253)
 
 #### Art. 8b
@@ -124,7 +124,7 @@ L’allegato 5 stabilisce in applicazione dell’articolo 10 capoverso 3 lettere
 
 Fino al 31 dicembre 2023 le comunità e le comunità di riferimento non sono tenute ad attuare la modifica del 28 ottobre 2022.
 
-[^8b-1]: Introdotto dal n. I dell’O del DFI del 28 ott. 2022, in vigore dal 1° dic. 2022 ([RU 2022 657](https://fedlex.data.admin.ch/eli/oc/2022/657)).
+[^8b-1]: Introdotto dalla cifra I dell’O del DFI del 28 ott. 2022, in vigore dal 1° dic. 2022 ([RU 2022 657](https://fedlex.data.admin.ch/eli/oc/2022/657)).
 
 #### Art. 8c
 
@@ -132,7 +132,7 @@ Fino al 31 dicembre 2023 le comunità e le comunità di riferimento non sono ten
 
 Fino al 31 maggio 2024 le comunità e le comunità di riferimento non sono tenute ad attuare la modifica del 4 maggio 2023.
 
-[^8c-1]: Introdotto dal n. I dell’O del DFI del 4 mag. 2023, in vigore dal 1° giu. 2023 ([RU 2023 221](https://fedlex.data.admin.ch/eli/oc/2023/221)).
+[^8c-1]: Introdotto dalla cifra I dell’O del DFI del 4 mag. 2023, in vigore dal 1° giu. 2023 ([RU 2023 221](https://fedlex.data.admin.ch/eli/oc/2023/221)).
 
 #### Art. 8d
 
@@ -140,7 +140,7 @@ Fino al 31 maggio 2024 le comunità e le comunità di riferimento non sono tenut
 
 Fino al 31 maggio 2025 le comunità e le comunità di riferimento non sono tenute ad attuare la modifica del 24 aprile 2024.
 
-[^8d-1]: Introdotto dal n. I dell’O del DFI del 24 apr. 2024, in vigore dal 1° giu. 2024 ([RU 2024 194](https://fedlex.data.admin.ch/eli/oc/2024/194)).
+[^8d-1]: Introdotto dalla cifra I dell’O del DFI del 24 apr. 2024, in vigore dal 1° giu. 2024 ([RU 2024 194](https://fedlex.data.admin.ch/eli/oc/2024/194)).
 
 #### Art. 9
 
@@ -205,8 +205,8 @@ Allegato 2[^t-1]
 
 [^annex2-lvlu1-1]
 
-[^t-1]: Nuovo testo giusta il n. I cpv. 1 dell’O dell’UFSP del 13 mar. 2020 ([RU 2020 1111](https://fedlex.data.admin.ch/eli/oc/2020/200)). Aggiornato dal n. I cpv. 1 dell’O dell’UFSP del 16 mar. 2021 ([RU 2021 164](https://fedlex.data.admin.ch/eli/oc/2021/164)), dal n. II cpv. 1 delle O del DFI del 28 ott. 2022 ([RU 2022 657](https://fedlex.data.admin.ch/eli/oc/2022/657)), del 4 mag. 2023 ([RU 2023 221](https://fedlex.data.admin.ch/eli/oc/2023/221)) e del 24 apr. 2024, in vigore dal 1° giu. 2024 ([RU 2024 194](https://fedlex.data.admin.ch/eli/oc/2024/194)).
-[^annex2-lvlu1-1]: Il contenuto di questo all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo: [https://fedlex.data.admin.ch/eli/oc/2024/194](https://fedlex.data.admin.ch/eli/oc/2024/194) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-1]: Nuovo testo giusta la cifra I cpv. 1 dell’O dell’UFSP del 13 mar. 2020 ([RU 2020 1111](https://fedlex.data.admin.ch/eli/oc/2020/200)). Aggiornato dalla cifra I cpv. 1 dell’O dell’UFSP del 16 mar. 2021 ([RU 2021 164](https://fedlex.data.admin.ch/eli/oc/2021/164)), dalla cifra II cpv. 1 delle O del DFI del 28 ott. 2022 ([RU 2022 657](https://fedlex.data.admin.ch/eli/oc/2022/657)), del 4 mag. 2023 ([RU 2023 221](https://fedlex.data.admin.ch/eli/oc/2023/221)), del 24 apr. 2024 ([RU 2024 194](https://fedlex.data.admin.ch/eli/oc/2024/194)) e dalla cifra I dell’O del DFI del 28 ago. 2024, in vigore dal 1° ott. 2024 ([RU 2024 460](https://fedlex.data.admin.ch/eli/oc/2024/460)).
+[^annex2-lvlu1-1]: Il contenuto del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo: [https://fedlex.data.admin.ch/eli/oc/2024/460](https://fedlex.data.admin.ch/eli/oc/2024/460) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 3[^t-2]
 
@@ -216,7 +216,7 @@ Allegato 3[^t-2]
 
 [^annex3-lvlu1-1]
 
-[^t-2]: Nuovo testo giusta il n. II cpv. 2 dell’O del DFI del 24 giu. 2019 ([RU 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)). Aggiornato dalla correzione del 26 nov. 2019 ([RU 2019 3791](https://fedlex.data.admin.ch/eli/oc/2019/689)), dal n. I cpv. 1 dell’O dell’UFSP del 16 mar. 2021 ([RU 2021 164](https://fedlex.data.admin.ch/eli/oc/2021/164)), dal n. II cpv. 1 delle O del DFI del 28 ott. 2022 ([RU 2022 657](https://fedlex.data.admin.ch/eli/oc/2022/657)), del 4 mag. 2023 ([RU 2023 221](https://fedlex.data.admin.ch/eli/oc/2023/221)) e del 24 apr. 2024, in vigore dal 1° giu. 2024 ([RU 2024 194](https://fedlex.data.admin.ch/eli/oc/2024/194)).
+[^t-2]: Nuovo testo giusta la cifra II cpv. 2 dell’O del DFI del 24 giu. 2019 ([RU 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)). Aggiornato dalla correzione del 26 nov. 2019 ([RU 2019 3791](https://fedlex.data.admin.ch/eli/oc/2019/689)), dalla cifra I cpv. 1 dell’O dell’UFSP del 16 mar. 2021 ([RU 2021 164](https://fedlex.data.admin.ch/eli/oc/2021/164)), dalla cifra II cpv. 1 delle O del DFI del 28 ott. 2022 ([RU 2022 657](https://fedlex.data.admin.ch/eli/oc/2022/657)), del 4 mag. 2023 ([RU 2023 221](https://fedlex.data.admin.ch/eli/oc/2023/221)) e del 24 apr. 2024, in vigore dal 1° giu. 2024 ([RU 2024 194](https://fedlex.data.admin.ch/eli/oc/2024/194)).
 [^annex3-lvlu1-1]: Il contenuto di questo all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo: [https://fedlex.data.admin.ch/eli/oc/2024/194](https://fedlex.data.admin.ch/eli/oc/2024/194) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 4[^t-3]
@@ -227,7 +227,7 @@ Allegato 4[^t-3]
 
 [^annex4-lvlu1-1]
 
-[^t-3]: Nuovo testo giusta il n. II cpv. 2 dell’O del DFI del 24 giu. 2019 ([RU 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)). Aggiornato dal n. II cpv. 1 delle O del DFI del 28 ott. 2022 ([RU 2022 657](https://fedlex.data.admin.ch/eli/oc/2022/657)), del 4 mag. 2023 ([RU 2023 221](https://fedlex.data.admin.ch/eli/oc/2023/221)) e del 24 apr. 2024, in vigore dal 1° giu. 2024 ([RU 2024 194](https://fedlex.data.admin.ch/eli/oc/2024/194)).
+[^t-3]: Nuovo testo giusta la cifra II cpv. 2 dell’O del DFI del 24 giu. 2019 ([RU 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)). Aggiornato dalla cifra II cpv. 1 delle O del DFI del 28 ott. 2022 ([RU 2022 657](https://fedlex.data.admin.ch/eli/oc/2022/657)), del 4 mag. 2023 ([RU 2023 221](https://fedlex.data.admin.ch/eli/oc/2023/221)) e del 24 apr. 2024, in vigore dal 1° giu. 2024 ([RU 2024 194](https://fedlex.data.admin.ch/eli/oc/2024/194)).
 [^annex4-lvlu1-1]: Il contenuto di questo all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo: [https://fedlex.data.admin.ch/eli/oc/2024/194](https://fedlex.data.admin.ch/eli/oc/2024/194) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 5[^t-4]
@@ -236,7 +236,7 @@ Allegato 5[^t-4]
 
 ## Profili d’integrazione
 
-[^t-4]: Nuovo testo giusta il n. II cpv. 2 dell’O del DFI del 24 apr. 2024, in vigore dal 1° giu. 2024 ([RU 2024 194](https://fedlex.data.admin.ch/eli/oc/2024/194)).
+[^t-4]: Nuovo testo giusta la cifra II cpv. 2 dell’O del DFI del 24 apr. 2024, in vigore dal 1° giu. 2024 ([RU 2024 194](https://fedlex.data.admin.ch/eli/oc/2024/194)).
 
 ### 1 Profili d’integrazione IHE
 
@@ -288,7 +288,7 @@ Allegato 6[^t-5]
 
 ## Valutazione e ricerca
 
-[^t-5]: Nuovo testo giusta il n. II cpv. 2 dell’O del DFI del 24 apr. 2024, in vigore dal 1° giu. 2024 ([RU 2024 194](https://fedlex.data.admin.ch/eli/oc/2024/194)).
+[^t-5]: Nuovo testo giusta la cifra II cpv. 2 dell’O del DFI del 24 apr. 2024, in vigore dal 1° giu. 2024 ([RU 2024 194](https://fedlex.data.admin.ch/eli/oc/2024/194)).
 
 ### 1 Disposizioni generali
 
@@ -370,7 +370,7 @@ Allegato 7[^t-6]
 
 ## Requisiti minimi in materia di qualifica del personale degli organismi di certificazione
 
-[^t-6]: Aggiornato dal n. II cpv. 1 dell’O del DFI del 24 giu. 2019, in vigore dal 15 lug. 2019 ([RU 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)).
+[^t-6]: Aggiornato dalla cifra II cpv. 1 dell’O del DFI del 24 giu. 2019, in vigore dal 15 lug. 2019 ([RU 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)).
 
 ### 1 Certificazione delle comunità e comunità di riferimento o dei portali di accesso
 
@@ -414,7 +414,7 @@ Allegato 8[^t-7]
 
 [^annex8-lvlu1-1]
 
-[^t-7]: Nuovo testo giusta il n. II cpv. 2 dell’O del DFI del 24 giu. 2019 ([RU 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)). Aggiornato dal n. I cpv. 1 dell’O dell’UFSP del 16 mar. 2021 ([RU 2021 164](https://fedlex.data.admin.ch/eli/oc/2021/164)), dal n. II cpv. 1 dell’O del DFI del 4 mag. 2023 ([RU 2023 221](https://fedlex.data.admin.ch/eli/oc/2023/221)) e del 24 apr. 2024, in vigore dal 1° giu. 2024 ([RU 2024 194](https://fedlex.data.admin.ch/eli/oc/2024/194))..
+[^t-7]: Nuovo testo giusta la cifra II cpv. 2 dell’O del DFI del 24 giu. 2019 ([RU 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)). Aggiornato dalla cifra I cpv. 1 dell’O dell’UFSP del 16 mar. 2021 ([RU 2021 164](https://fedlex.data.admin.ch/eli/oc/2021/164)), dalla cifra II cpv. 1 dell’O del DFI del 4 mag. 2023 ([RU 2023 221](https://fedlex.data.admin.ch/eli/oc/2023/221)) e del 24 apr. 2024, in vigore dal 1° giu. 2024 ([RU 2024 194](https://fedlex.data.admin.ch/eli/oc/2024/194)).
 [^annex8-lvlu1-1]: Il contenuto di questo all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo: [https://fedlex.data.admin.ch/eli/oc/2024/194](https://fedlex.data.admin.ch/eli/oc/2024/194) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 9[^t-8]
@@ -425,5 +425,5 @@ Allegato 9[^t-8]
 
 [^annex9-lvlu1-1]
 
-[^t-8]: Introdotto dal n. II cpv. 3 dell’O del DFI del 24 giu. 2019 ([RU 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)). Nuovo testo giusta il n. I cpv. 1 dell’O dell’UFSP del 13 mar. 2020 ([RU 2020 1111](https://fedlex.data.admin.ch/eli/oc/2020/200)). Aggiornato dal n. II cpv. 1 dell’O del DFI del 4 mag. 2023, in vigore dal 1° giu. 2023 ([RU 2023 221](https://fedlex.data.admin.ch/eli/oc/2023/221)).
+[^t-8]: Introdotto dalla cifra II cpv. 3 dell’O del DFI del 24 giu. 2019 ([RU 2019 2075](https://fedlex.data.admin.ch/eli/oc/2019/381)). Nuovo testo giusta la cifra I cpv. 1 dell’O dell’UFSP del 13 mar. 2020 ([RU 2020 1111](https://fedlex.data.admin.ch/eli/oc/2020/200)). Aggiornato dalla cifra II cpv. 1 dell’O del DFI del 4 mag. 2023, in vigore dal 1° giu. 2023 ([RU 2023 221](https://fedlex.data.admin.ch/eli/oc/2023/221)).
 [^annex9-lvlu1-1]: Il contenuto di questo all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo: [https://fedlex.data.admin.ch/eli/oc/2023/221](https://fedlex.data.admin.ch/eli/oc/2023/221) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.

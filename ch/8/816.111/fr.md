@@ -4,11 +4,11 @@ title: Ordonnance du DFI du 22 mars 2017 sur le dossier électronique du patient
 short: ODEP-DFI
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/205"
 language: fr
-version: 2024-06-01
+version: 2024-10-01
 adopted: 2017-03-22
 in_force: 2017-04-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/205/20240601/fr/xml/fedlex-data-admin-ch-eli-cc-2017-205-20240601-fr-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/205/20240601/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/205/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-2017-205-20241001-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/205/20241001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/205/20240601/fr"
 
 (ODEP-DFI)
 
-du 22 mars 2017 (État le 1<sup>er</sup> juin 2024)
+du 22 mars 2017 (État le 1<sup>er</sup> octobre 2024)
 
 Le Département fédéral de l’intérieur (DFI),
 
@@ -205,8 +205,8 @@ Annexe 2[^t-1]
 
 [^annex2-lvlu1-1]
 
-[^t-1]: Nouvelle teneur selon le ch. I al. 1 de l’O de l’OFSP du 13 mars 2020 ([RO 2020 1111](https://fedlex.data.admin.ch/eli/oc/2020/200)). Mise à jour par le ch. I al. 1 de l’O de l’OFSP du 16 mars 2021 ([RO 2021 164](https://fedlex.data.admin.ch/eli/oc/2021/164)) et le ch. II al. 1 des O du DFI du 28 oct. 2022 ([RO 2022 657](https://fedlex.data.admin.ch/eli/oc/2022/657)), du 4 mai 2023 ([RO 2023 221](https://fedlex.data.admin.ch/eli/oc/2023/221)) et du 24 avr. 2024, en vigueur depuis le 1<sup>er</sup> juin 2024 ([RO 2024 194](https://fedlex.data.admin.ch/eli/oc/2024/194)).
-[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/194](https://fedlex.data.admin.ch/eli/oc/2024/194) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-1]: Nouvelle teneur selon le ch. I al. 1 de l’O de l’OFSP du 13 mars 2020 ([RO 2020 1111](https://fedlex.data.admin.ch/eli/oc/2020/200)). Mise à jour par le ch. I al. 1 de l’O de l’OFSP du 16 mars 2021 ([RO 2021 164](https://fedlex.data.admin.ch/eli/oc/2021/164)), le ch. II al. 1 des O du DFI du 28 oct. 2022 ([RO 2022 657](https://fedlex.data.admin.ch/eli/oc/2022/657)), du 4 mai 2023 ([RO 2023 221](https://fedlex.data.admin.ch/eli/oc/2023/221)), du 24 avr. 2024 ([RO 2024 194](https://fedlex.data.admin.ch/eli/oc/2024/194)) et le ch. I de l’O du DFI du 28 août 2024, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 460](https://fedlex.data.admin.ch/eli/oc/2024/460)).
+[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/460](https://fedlex.data.admin.ch/eli/oc/2024/460) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 3[^t-2]
 

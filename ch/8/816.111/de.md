@@ -4,11 +4,11 @@ title: Verordnung des EDI vom 22. März 2017 über das elektronische Patientendo
 short: EPDV-EDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/205"
 language: de
-version: 2024-06-01
+version: 2024-10-01
 adopted: 2017-03-22
 in_force: 2017-04-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/205/20240601/de/xml/fedlex-data-admin-ch-eli-cc-2017-205-20240601-de-xml-6.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/205/20240601/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/205/20241001/de/xml/fedlex-data-admin-ch-eli-cc-2017-205-20241001-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/205/20241001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/205/20240601/de"
 
 (EPDV-EDI)
 
-vom 22. März 2017 (Stand am 1. Juni 2024)
+vom 22. März 2017 (Stand am 1. Oktober 2024)
 
 Das Eidgenössische Departement des Innern (EDI),
 
@@ -205,8 +205,8 @@ Anhang 2[^t-1]
 
 [^annex2-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. I Abs. 1 der V des BAG vom 13. März 2020 ([AS 2020 1111](https://fedlex.data.admin.ch/eli/oc/2020/200)). Bereinigt gemäss Ziff. I Abs. 1 der V des BAG vom 16. März 2021 ([AS 2021 164](https://fedlex.data.admin.ch/eli/oc/2021/164)), Ziff. II Abs. 1 der V des EDI vom 28. Okt. 2022 ([AS 2022 657](https://fedlex.data.admin.ch/eli/oc/2022/657)), vom 4. Mai 2023 ([AS 2023 221](https://fedlex.data.admin.ch/eli/oc/2023/221)) und Ziff. II Abs. 1 der V des EDI vom 24. April 2024, in Kraft seit 1. Juni 2024 ([AS 2024 194](https://fedlex.data.admin.ch/eli/oc/2024/194)).
-[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter: [https://fedlex.data.admin.ch/eli/oc/2024/194](https://fedlex.data.admin.ch/eli/oc/2024/194) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-1]: Fassung gemäss Ziff. I Abs. 1 der V des BAG vom 13. März 2020 ([AS 2020 1111](https://fedlex.data.admin.ch/eli/oc/2020/200)). Bereinigt gemäss Ziff. I Abs. 1 der V des BAG vom 16. März 2021 ([AS 2021 164](https://fedlex.data.admin.ch/eli/oc/2021/164)), Ziff. II Abs. 1 der V des EDI vom 28. Okt. 2022 ([AS 2022 657](https://fedlex.data.admin.ch/eli/oc/2022/657)), vom 4. Mai 2023 ([AS 2023 221](https://fedlex.data.admin.ch/eli/oc/2023/221)), Ziff. II Abs. 1 der V des EDI vom 24. April 2024 ([AS 2024 194](https://fedlex.data.admin.ch/eli/oc/2024/194)) und Ziff. I der V des EDI vom 28. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 460](https://fedlex.data.admin.ch/eli/oc/2024/460)).
+[^annex2-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2024/460](https://fedlex.data.admin.ch/eli/oc/2024/460) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 3[^t-2]
 
