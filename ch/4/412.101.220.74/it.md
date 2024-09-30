@@ -3,18 +3,18 @@ sr: "412.101.220.74"
 title: Ordinanza della SEFRI del 1° luglio 2019 sulla formazione professionale di base Installatrice di riscaldamenti/Installatore di riscaldamenti con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/435"
 language: it
-version: 2024-04-01
+version: 2024-10-01
 adopted: 2019-07-01
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/435/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2019-435-20240401-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/435/20240401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/435/20241001/it/xml/fedlex-data-admin-ch-eli-cc-2019-435-20241001-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/435/20241001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Installatrice di riscaldamenti / Installatore di riscaldamenti con attestato federale di capacità (AFC)
 
-del 1° luglio 2019 (Stato 1° aprile 2024)
+del 1° luglio 2019 (Stato 1° ottobre 2024)
 
 <table>
 <tr><td>47605</td><td>Installatrice di riscaldamenti AFC / Installatore di riscaldamenti AFC Heizungsinstallateurin EFZ / Heizungsinstallateur EFZ Installatrice en chauffage CFC / Installateur en chauffage CFC</td></tr>
@@ -230,17 +230,17 @@ Il piano di formazione:
 
 #### Art. 10
 
-**Requisiti professionali richiesti ai formatori**
-
-<sup>1</sup>
+**Requisiti professionali richiesti ai formatori**[^10-1]
 
 Il formatore soddisfa i requisiti professionali se possiede una delle qualifiche seguenti:
 
-- a. attestato federale di capacità di capo montatore di riscaldamenti;
-- b. titolo della formazione professionale superiore in ambito pertinente;
-- c. diploma di scuola universitaria in ambito pertinente e almeno tre anni di esperienza professionale nel campo d’insegnamento.
+- a. attestato federale di capacità di installatore di riscaldamenti AFC e almeno tre anni di esperienza professionale nel campo d’insegnamento;
+- b. attestato federale di capacità di una professione affine con le necessarie conoscenze professionali nel campo di attività dell’installatore di riscaldamenti AFC e almeno quattro anni di esperienza professionale nel campo d’insegnamento;
+- c. attestato professionale federale di capo montatore di riscaldamenti;
+- d. titolo della formazione professionale superiore in ambito pertinente;
+- e. diploma di scuola universitaria in ambito pertinente e almeno tre anni di esperienza professionale nel campo d’insegnamento.
 
-<sup>2</sup> I formatori che all’entrata in vigore della presente ordinanza non sono in possesso di un titolo della formazione professionale superiore possono continuare l’attività di formazione se soddisfano i requisiti di cui all’articolo 44 OFPr.
+[^10-1]: Nuovo testo giusta il n. I dell’O della SEFRI del 15 ago. 2024, in vigore dal 1° ott. 2024 ([RU 2024 476](https://fedlex.data.admin.ch/eli/oc/2024/476)).
 
 #### Art. 11
 
@@ -464,7 +464,7 @@ Essa svolge in particolare i compiti seguenti:
 
 L’ordinanza della SEFRI del 12 dicembre 2007[^25-1] sulla formazione professionale di base Installatrice di riscaldamenti / Installatore di riscaldamenti con attestato federale di capacità (AFC) è abrogata.
 
-[^25-1]: [[RU 2008 111](https://fedlex.data.admin.ch/eli/oc/2008/44), [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)n. I 50 e II 50]
+[^25-1]: [[RU 2008 111](https://fedlex.data.admin.ch/eli/oc/2008/44); [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)n. I 50 e II 50]
 
 #### Art. 26
 

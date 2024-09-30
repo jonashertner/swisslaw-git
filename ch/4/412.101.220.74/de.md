@@ -3,18 +3,18 @@ sr: "412.101.220.74"
 title: Verordnung des SBFI vom 1. Juli 2019 über die berufliche Grundbildung Heizungsinstallateurin/Heizungsinstallateur mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/435"
 language: de
-version: 2024-04-01
+version: 2024-10-01
 adopted: 2019-07-01
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/435/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2019-435-20240401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/435/20240401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/435/20241001/de/xml/fedlex-data-admin-ch-eli-cc-2019-435-20241001-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/435/20241001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Heizungsinstallateurin/Heizungsinstallateur mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 1. Juli 2019 (Stand am 1. April 2024)
+vom 1. Juli 2019 (Stand am 1. Oktober 2024)
 
 <table>
 <tr><td>47605</td><td>Heizungsinstallateurin EFZ / Heizungsinstallateur EFZ Installatrice en chauffage CFC / Installateur en chauffage CFC Installatrice di riscaldamenti AFC / Installatore di riscaldamenti AFC</td></tr>
@@ -224,23 +224,23 @@ Der Bildungsplan hat folgenden Inhalt:
 
 <sup>3</sup> Dem Bildungsplan angefügt ist das Verzeichnis der Instrumente zur Sicherstellung und Umsetzung der beruflichen Grundbildung sowie zur Förderung der Qualität mit Angabe der Bezugsquelle.
 
-[^9-1]: Der Bildungsplan vom 1. Juli 2019 ist zu finden auf der Website des SBFI über das Berufsverzeichnis unter: www.bvz.admin.ch &gt; Berufe A–Z.
+[^9-1]: Der Bildungsplan vom 1. Juli 2019 ist zu finden auf der Website des SBFI über das Berufsverzeichnis unter: [www.bvz.admin.ch](http://www.bvz.admin.ch) &gt; Berufe A–Z.
 
 ## 6. Abschnitt: Anforderungen an die Berufsbildnerinnen und Berufsbildner und Höchstzahl der Lernenden im Betrieb
 
 #### Art. 10
 
-**Fachliche Anforderungen an Berufsbildnerinnen und Berufsbildner**
-
-<sup>1</sup>
+**Fachliche Anforderungen an Berufsbildnerinnen und Berufsbildner**[^10-1]
 
 Die fachlichen Anforderungen an eine Berufsbildnerin oder einen Berufsbildner erfüllt, wer über eine der folgenden Qualifikationen verfügt:
 
-- a. Chefmonteurin Heizung oder Chefmonteur Heizung mit eidgenössischem Fachausweis;
-- b. einschlägiger Abschluss der höheren Berufsbildung;
-- c. einschlägiger Hochschulabschluss mit mindestens drei Jahren beruflicher Praxis im Lehrgebiet.
+- a. Heizungsinstallateurin oder Heizungsinstallateur EFZ mit mindestens drei Jahren beruflicher Praxis im Lehrgebiet;
+- b. eidgenössisches Fähigkeitszeugnis eines verwandten Berufs mit den notwendigen Berufskenntnissen im Bereich der Heizungsinstallateurin und des Heizungsinstallateurs EFZ und mit mindestens vier Jahren beruflicher Praxis im Lehrgebiet;
+- c. Chefmonteurin Heizung oder Chefmonteur Heizung mit eidgenössischem Fachausweis;
+- d. einschlägiger Abschluss der höheren Berufsbildung;
+- e. einschlägiger Hochschulabschluss mit mindestens drei Jahren beruflicher Praxis im Lehrgebiet.
 
-<sup>2</sup> Berufsbildnerinnen und Berufsbildner, die bei Inkrafttreten dieser Verordnung über keinen Abschluss der höheren Berufsbildung verfügen, können weiterhin ausbilden, wenn sie die Anforderungen nach Artikel 44 BBV erfüllen.
+[^10-1]: Fassung gemäss Ziff. I der V des SBFI vom 15. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 476](https://fedlex.data.admin.ch/eli/oc/2024/476)).
 
 #### Art. 11
 
