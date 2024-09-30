@@ -3,25 +3,26 @@ canton: SH
 number: "731.100"
 title: Elektrizitätsgesetz
 language: de
-version: 2020-01-01
-corrected: 2024-06-04
-version_adopted: 2019-08-19
+version: 2024-10-01
+valid_until: 2025-12-31
+version_adopted: 2024-09-10
 adopted: 2000-01-24
 in_force: 2000-06-15
 url: "https://rechtsbuch.sh.ch/app/de/texts_of_law/731.100"
-pdf: "https://rechtsbuch.sh.ch/api/de/versions/297/pdf_file"
-text: pdf
+pdf: "https://rechtsbuch.sh.ch/api/de/versions/1880/pdf_file"
 ---
 
-> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons. Diese Fassung veröffentlicht der Kanton nur als PDF: Der Text ist daraus gelesen, die Gliederung aus dem Satzbild erschlossen.
+> Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SH. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Elektrizitätsgesetz
 
-vom 24. Januar 2000
+Vom 24.01.2000 (Stand 01.10.2024)
 
-Der Grosse Rat des Kantons Schaffhausen
+Der Grosse Rat des Kantons Schaffhausen,
 
-beschliesst als Gesetz:
+beschliesst:
+
+## 1 Allgemeine Bestimmungen
 
 #### Art. 1
 
@@ -29,9 +30,10 @@ beschliesst als Gesetz:
 
 <sup>1</sup> Der Kanton sorgt für eine flächendeckende Grundversorgung von Bevölkerung und Wirtschaft mit elektrischer Energie.
 
-<sup>2</sup> Zur Grundversorgung gehören − der Bau und Betrieb des erforderlichen Leitungsnetzes;
+<sup>2</sup> Zur Grundversorgung gehören:
 
-− die regelmässige und ausreichende Versorgung mit elektrischer Energie.
+- a) der Bau und Betrieb des erforderlichen Leitungsnetzes
+- b) die regelmässige und ausreichende Versorgung mit elektrischer Energie
 
 <sup>3</sup> Zu diesem Zweck steht dem Kanton das ausschliessliche Recht zu, ein Netz zu errichten und zu betreiben.
 
@@ -45,7 +47,7 @@ beschliesst als Gesetz:
 
 <sup>2</sup> Die Konzession darf 20 Jahre dauern und sich ohne Kündigung jeweils um die gleiche Dauer verlängern. Die Kündigung hat mindestens drei Jahre vor Ablauf der Konzession zu erfolgen.
 
-<sup>3</sup> Konzessionsbehörde ist der Regierungsrat.
+<sup>3</sup> Konzessionsbehörde ist der Regierungsrat. Für die Konzessionserteilung werden für jede einzelne Konzession eine kostendeckende Verwaltungsgebühr sowie die erheblichen Barauslagen in Rechnung gestellt.
 
 #### Art. 3
 
@@ -55,9 +57,7 @@ beschliesst als Gesetz:
 
 <sup>2</sup> Ausserhalb ihres bisherigen Versorgungsgebietes sind Gemeindewerke privaten Konzessionsbewerberinnen gleichgestellt.
 
-Amtsblatt 2000, S. 759.
-
-<sup>3</sup> Wandeln Gemeinden ihre Elektrizitätswerke in privatrechtliche Unternehmen um oder bringen sie sie in solche ein, so hat der neue Unternehmensträger Anspruch auf die Erteilung einer Konzession gemäss Art 2 Abs. 2, solange die Gemeinde die kapital- und stimmenmässige Mehrheit am Unternehmen hat.
+<sup>3</sup> Wandeln Gemeinden ihre Elektrizitätswerke in privatrechtliche Unternehmen um oder bringen sie sie in solche ein, so hat der neue Unternehmensträger Anspruch auf die Erteilung einer Konzession gemäss Art. 2 Abs. 2, solange die Gemeinde die kapital- und stimmenmässige Mehrheit am Unternehmen hat.
 
 <sup>4</sup> Gibt die Gemeinde ohne Zustimmung des Regierungsrates die kapital- und stimmenmässige Mehrheit am Unternehmen auf, so fällt die Konzession dahin.
 
@@ -79,7 +79,7 @@ Amtsblatt 2000, S. 759.
 
 **Rechtsnachfolge**
 
-Falls die Netzbetreiberin ohne Zustimmung des Regierungsrates die Rechte und Pflichten der Konzession im Rahmen einer Umstrukturierung auf eine Rechtsnachfolgerin überträgt, fällt die Konzession dahin. Als Umstrukturierung gilt auch die Übertragung eines Teil- oder des Gesamtvermögens auf ein anderes Rechtssubjekt.
+<sup>1</sup> Falls die Netzbetreiberin ohne Zustimmung des Regierungsrates die Rechte und Pflichten der Konzession im Rahmen einer Umstrukturierung auf eine Rechtsnachfolgerin überträgt, fällt die Konzession dahin. Als Umstrukturierung gilt auch die Übertragung eines Teil- oder des Gesamtvermögens auf ein anderes Rechtssubjekt.
 
 #### Art. 6
 
@@ -95,7 +95,7 @@ Falls die Netzbetreiberin ohne Zustimmung des Regierungsrates die Rechte und Pfl
 
 **Inanspruchnahme von privatem Grund**
 
-Den Netzbetreiberinnen steht zur Errichtung des Leitungsnetzes das Enteignungsrecht nach den Bestimmungen des kantonalen Enteignungsgesetzes zu.
+<sup>1</sup> Den Netzbetreiberinnen steht zur Errichtung des Leitungsnetzes das Enteignungsrecht nach den Bestimmungen des kantonalen Enteignungsgesetzes zu.
 
 #### Art. 8
 
@@ -117,11 +117,13 @@ Den Netzbetreiberinnen steht zur Errichtung des Leitungsnetzes das Enteignungsre
 
 <sup>2</sup> Kundinnen und Kunden innerhalb der gleichen Kundengruppe, die ihre Lieferantinnen nicht frei wählen können, sind zu gleichen Konditionen zu versorgen.
 
+## 2 Besondere Bestimmungen EKS
+
 #### Art. 10
 
 **Umwandlung**
 
-<sup>1</sup> Das Elektrizitätswerk des Kantons Schaffhausen (EKS) wird in eine Aktiengesellschaft nach Art. 620 OR mit einem Aktienkapital von 20'000'000 Franken umgewandelt.
+<sup>1</sup> Das Elektrizitätswerk des Kantons Schaffhausen (EKS) wird in eine Aktiengesellschaft nach Art. 620 OR mit einem Aktienkapital von Fr. 20'000'000.00 umgewandelt.
 
 <sup>2</sup> Die Durchführung der Umwandlung obliegt dem Regierungsrat. Er lässt die Gründungsstatuten vom Grossen Rat genehmigen.
 
@@ -129,17 +131,17 @@ Den Netzbetreiberinnen steht zur Errichtung des Leitungsnetzes das Enteignungsre
 
 **Wahrnehmung der Aktionärsrechte**
 
-Die Aktionärsrechte des Kantons werden vom Regierungsrat ausgeübt.
+<sup>1</sup> Die Aktionärsrechte des Kantons werden vom Regierungsrat ausgeübt.
 
 #### Art. 12
-
-<sup>3)</sup>
 
 **Kompetenzen zur Veräusserung von Aktien**
 
 <sup>1</sup> Der Kantonsrat kann die Veräusserung von Aktien an Dritte beschliessen, soweit die kapital- und stimmenmässige Mehrheit beim Kanton bleibt. Der Beschluss unterliegt dem fakultativen Referendum.
 
 <sup>2</sup> Will der Kantonsrat die kapital- und stimmenmässige Mehrheit aufgeben, unterliegt sein Beschluss dem obligatorischen Referendum.
+
+<sup>2<sup>bis</sup></sup> Bei Entscheiden über die Wahrnehmung eines Vorkaufsrechts ist der Kantonsrat vorgängig anzuhören. Der Beschluss des Kantonsrates ist für den Regierungsrat verbindlich.
 
 <sup>3</sup> Beschlüsse des Kantonsrates über eine Fusion der EKS oder des Leitungsnetzes als Teil davon mit anderen Gesellschaften oder über ihre Einbringung in eine Holdinggesellschaft unterliegen ebenfalls dem obligatorischen Referendum.
 
@@ -149,44 +151,56 @@ Die Aktionärsrechte des Kantons werden vom Regierungsrat ausgeübt.
 
 **Arbeitsbedingungen des Personals**
 
-Solange der Kanton über die Mehrheit der Aktienstimmen verfügt, sind die Arbeitsbedingungen des Personals sozialpartnerschaftlich zu regeln. Anzustreben ist der Abschluss eines Gesamtarbeitsvertrages.
+<sup>1</sup> Solange der Kanton über die Mehrheit der Aktienstimmen verfügt, sind die Arbeitsbedingungen des Personals sozialpartnerschaftlich zu regeln. Anzustreben ist der Abschluss eines Gesamtarbeitsvertrages.
+
+## 3 Besondere Bestimmungen Axpo Holding AG
 
 #### Art. 14
 
-**NOK-Gründungsvertrag**
+**Axpo Holding AG Vertragswerk: Aufgaben Regierungsrat**
 
-Der Regierungsrat ist ermächtigt, Änderungen des Vertrags über die Gründung der Gesellschaft der Nordostschweizerischen Kraftwerke AG (NOK) endgültig zuzustimmen, wenn diese folgende Gegenstände betreffen:
+<sup>1</sup> Der Regierungsrat nimmt die Rechte und Pflichten des Kantons als Aktionär der Axpo Holding AG wahr.
 
-- a) Änderungen der Vertragsparteien und der Beteiligungsverhältnisse;
+<sup>2</sup> Er setzt sich bei der Ausübung seiner Stimmrechte dafür ein, dass
 
-- b) Zusammensetzung des Verwaltungsrates;
+- a) die Netzinfrastruktur und die für die Versorgung wichtigen Kraftwerke und Speicheranlagen in der Schweiz vollständig in öffentlicher Hand verbleiben,
+- b) sich die gemeinsame Eignerstrategie der Aktionäre an den Zielsetzungen der Schweizer und der Schaffhauser Energiepolitik orientiert,
+- c) die finanziellen Risiken der Geschäftstätigkeit im Ausland die Ziele gemäss lit. a und b nicht gefährden,
+- d) der inländische Anteil an der Energieproduktion und -speicherung der Axpo Holding AG eine sichere, ausreichende und wirtschaftliche Versorgung mit elektrischer Energie gewährleistet.
 
-- c) Veräusserungsmöglichkeiten von Aktien;
+<sup>3</sup> Er kann mit den anderen Aktionären einen Aktionärsbindungsvertrag abschliessen und eine gemeinsame Eignerstrategie festlegen.
 
-- d) Verpflichtung zur Lieferung oder zum Bezug elektrischer Energie;
+#### Art. 14a
 
-- e) Vorzugsrecht der NOK zum Erwerb von Konzessionen.
+**Axpo Holding AG Vertragswerk: Genehmigung durch den Kantonsrat**
+
+<sup>1</sup> Der Genehmigung durch den Kantonsrat unterstehen:
+
+- a) die Übertragung von Aktien
+- b) Anpassungen der gemeinsamen Eignerstrategie oder des Aktionärsbindungsvertrags, die
+  - i. das Stimmrecht des Kantons beschränken
+  - ii. die direkten und indirekten Beteiligungen der Axpo Holding AG an der Netzinfrastruktur und an für die Versorgung wichtigen Kraftwerken in der Schweiz betreffen
+- c) der Verzicht auf die Ausübung des Rechts, angebotene Aktien zu erwerben.
+
+<sup>2</sup> Beschlüsse des Kantonsrates betreffend Abs. 1 lit. a und b unterstehen dem fakultativen Referendum.
+
+## 4 Schlussbestimmungen
 
 #### Art. 15
 
 **Aufhebung bisheriger Erlasse**
 
-Das Gesetz betreffend die Beschaffung und Verteilung elektrischer Energie vom 3. März 1908 sowie das Dekret über die Organisation und Verwaltung des Elektrizitätswerkes des Kantons Schaffhausen (EKS) vom 9. September 1940 werden auf einen vom Regierungsrat festzusetzenden Zeitpunkt aufgehoben.
+<sup>1</sup> Das Gesetz betreffend die Beschaffung und Verteilung elektrischer Energie vom 3. März 1908 sowie das Dekret über die Organisation und Verwaltung des Elektrizitätswerkes des Kantons Schaffhausen (EKS) vom 9. September 1940 werden auf einen vom Regierungsrat festzusetzenden Zeitpunkt aufgehoben.
 
 #### Art. 16
 
 **Inkrafttreten**
 
-<sup>1</sup> Dieses Gesetz tritt nach seiner Annahme durch das Volk auf einen vom Regierungsrat festzusetzenden Zeitpunkt in Kraft <sup>1)</sup>.
+<sup>1</sup> Dieses Gesetz tritt nach seiner Annahme durch das Volk auf einen vom Regierungsrat festzusetzenden Zeitpunkt in Kraft[^16-1].
 
-<sup>2</sup> Es ist im Amtsblatt zu veröffentlichen <sup>2)</sup> und in die kantonale Gesetzessammlung aufzunehmen.
+<sup>2</sup> Es ist im Amtsblatt zu veröffentlichen[^16-2] und in die kantonale Gesetzessammlung aufzunehmen.
 
-Fussnoten:
+[^16-1]: In Kraft getreten am 15. Juni 2000 (Amtsblatt 2000, S. 758).
+[^16-2]: Amtsblatt 2000, S. 759.
 
-- 1) In Kraft getreten am 15. Juni 2000 (Amtsblatt 2000, S. 758).
-
-- 2) Amtsblatt 2000, S. 759.
-
-- 3) Fassung gemäss G vom 19. August 2019, in Kraft getreten am
-
-\1. Januar 2020 (Amtsblatt 2019, S. 1404, S. 2049).
+Abl. 2000, S. 759
