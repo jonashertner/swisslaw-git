@@ -3,18 +3,18 @@ sr: "412.101.220.73"
 title: "Ordonnance du SEFRI du 1<sup>er</sup> juillet 2019 sur la formation professionnelle initiale d'installatrice sanitaire/installateur sanitaire avec certificat fédéral de capacité (CFC)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/434"
 language: fr
-version: 2024-04-01
+version: 2024-10-01
 adopted: 2019-07-01
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/434/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2019-434-20240401-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/434/20240401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/434/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-2019-434-20241001-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/434/20241001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale d’installatrice sanitaire / installateur sanitaire avec certificat fédéral de capacité (CFC)
 
-du 1<sup>er</sup> juillet 2019 (État le 1<sup>er</sup> avril 2024)
+du 1<sup>er</sup> juillet 2019 (État le 1<sup>er</sup> octobre 2024)
 
 <table>
 <tr><td>47706</td><td>Installatrice sanitaire CFC / Installateur sanitaire CFC Sanitärinstallateurin EFZ / Sanitärinstallateur EFZ Installatrice di impianti sanitari AFC / Installatore di impianti sanitari AFC</td></tr>
@@ -246,13 +246,17 @@ Le plan de formation:
 
 #### Art. 10
 
-**Exigences posées aux formateurs**
+**Exigences posées aux formateurs**[^10-1]
 
 Les personnes ci-après remplissent les exigences posées aux formateurs:
 
-- a. les contremaîtres sanitaires avec brevet fédéral;
-- b. les titulaires d’un titre correspondant de la formation professionnelle supérieure;
-- c. les titulaires d’un diplôme correspondant d’une haute école justifiant d’au moins 3 ans d’expérience professionnelle dans le domaine de la formation qu’ils dispensent.
+- a. les installateurs sanitaires CFC justifiant d’au moins 3 ans d’expérience professionnelle dans le domaine de la formation qu’ils dispensent;
+- b. les titulaires d’un certificat fédéral de capacité dans une profession apparentée justifiant des connaissances professionnelles requises propres aux installateurs sanitaires CFC et d’au moins 4 ans d’expérience professionnelle dans le domaine de la formation qu’ils dispensent;
+- c. les contremaîtres sanitaires avec brevet fédéral;
+- d. les titulaires d’un titre correspondant de la formation professionnelle supérieure;
+- e. les titulaires d’un diplôme correspondant d’une haute école justifiant d’au moins 3 ans d’expérience professionnelle dans le domaine de la formation qu’ils dispensent.
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 15 août 2024, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 475](https://fedlex.data.admin.ch/eli/oc/2024/475)).
 
 #### Art. 11
 
@@ -346,7 +350,7 @@ La procédure de qualification avec examen final porte sur les compétences opé
   - 4\. le domaine de qualification porte sur les domaines de compétences opérationnelles ci-après et l’entretien professionnel d’une durée de 60 minutes assortis des pondérations suivantes:
 
 <table>
-<tr><td>Point d’appré-ciation</td><td>Domaine de compétences opérationnelles (DCO)/Compétence opérationnelle (CO)</td><td>Pondération</td></tr>
+<tr><th>Point d’appré-ciation</th><th>Domaine de compétences opérationnelles (DCO)/Compétence opérationnelle (CO)</th><th>Pondération</th></tr>
 <tr><td>1</td><td>Planification des travaux (CO a.1 à a.5)</td><td>20 %</td></tr>
 <tr><td>2</td><td>Aménager et sécuriser le poste de travail (CO a.6) Installation de conduites d’alimentation en eau potable (CO b.1 à b.5) Installation de conduites d’évacuation Installation de systèmes en applique Montage d’installations et d’appareils sanitaires (CO f.1 à f.5) Trier et éliminer les déchets (CO g.1)</td><td>55 %</td></tr>
 <tr><td>3</td><td>Mettre des conduites d’eau potable en service (CO b.6) Procéder à des travaux d’entretien (CO f.6) Procéder à des travaux de réparation (CO f.7)</td><td>10 %</td></tr>

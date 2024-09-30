@@ -3,18 +3,18 @@ sr: "412.101.220.73"
 title: Verordnung des SBFI vom 1. Juli 2019 über die berufliche Grundbildung Sanitärinstallateurin/Sanitärinstallateur mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/434"
 language: de
-version: 2024-04-01
+version: 2024-10-01
 adopted: 2019-07-01
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/434/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2019-434-20240401-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/434/20240401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/434/20241001/de/xml/fedlex-data-admin-ch-eli-cc-2019-434-20241001-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/434/20241001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Sanitärinstallateurin/Sanitärinstallateur mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 1. Juli 2019 (Stand am 1. April 2024)
+vom 1. Juli 2019 (Stand am 1. Oktober 2024)
 
 <table>
 <tr><td>47706</td><td>Sanitärinstallateurin EFZ / Sanitärinstallateur EFZ Installatrice sanitaire CFC / Installateur sanitaire CFC Installatrice di impianti sanitari AFC / Installatore di impianti sanitari AFC</td></tr>
@@ -240,19 +240,23 @@ Der Bildungsplan hat folgenden Inhalt:
 
 <sup>3</sup> Dem Bildungsplan angefügt ist das Verzeichnis der Instrumente zur Sicherstellung und Umsetzung der beruflichen Grundbildung sowie zur Förderung der Qualität mit Angabe der Bezugsquelle.
 
-[^9-1]: Der Bildungsplan vom 1. Juli 2019 ist zu finden auf der Website des SBFI über das Berufsverzeichnis unter: www.bvz.admin.ch &gt; Berufe A–Z.
+[^9-1]: Der Bildungsplan vom 1. Juli 2019 ist zu finden auf der Website des SBFI über das Berufsverzeichnis unter: [www.bvz.admin.ch](http://www.bvz.admin.ch) &gt; Berufe A–Z.
 
 ## 6. Abschnitt: Anforderungen an die Berufsbildnerinnen und Berufsbildner und Höchstzahl der Lernenden im Betrieb
 
 #### Art. 10
 
-**Fachliche Anforderungen an Berufsbildnerinnen und Berufsbildner**
+**Fachliche Anforderungen an Berufsbildnerinnen und Berufsbildner**[^10-1]
 
 Die fachlichen Anforderungen an eine Berufsbildnerin oder einen Berufsbildner erfüllt, wer über eine der folgenden Qualifikationen verfügt:
 
-- a. Chefmonteurin Sanitär oder Chefmonteur Sanitär mit eidgenössischem Fachausweis;
-- b. einschlägiger Abschluss der höheren Berufsbildung;
-- c. einschlägiger Hochschulabschluss mit mindestens drei Jahren beruflicher Praxis im Lehrgebiet.
+- a. Sanitärinstallateurin oder Sanitärinstallateur EFZ mit mindestens drei Jahren beruflicher Praxis im Lehrgebiet;
+- b. eidgenössisches Fähigkeitszeugnis eines verwandten Berufs mit den notwendigen Berufskenntnissen im Bereich der Sanitärinstallateurin und des Sanitärinstallateurs EFZ und mit mindestens vier Jahren beruflicher Praxis im Lehrgebiet;
+- c. Chefmonteurin Sanitär oder Chefmonteur Sanitär mit eidgenössischem Fachausweis;
+- d. einschlägiger Abschluss der höheren Berufsbildung;
+- e. einschlägiger Hochschulabschluss mit mindestens drei Jahren beruflicher Praxis im Lehrgebiet.
+
+[^10-1]: Fassung gemäss Ziff. I der V des SBFI vom 15. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 475](https://fedlex.data.admin.ch/eli/oc/2024/475)).
 
 #### Art. 11
 
@@ -476,7 +480,7 @@ Sie hat insbesondere folgende Aufgaben:
 
 Die Verordnung des SBFI vom 12. Dezember 2007[^25-1] über die berufliche Grundbildung Sanitärinstallateurin/Sanitärinstallateur mit eidgenössischem Fähigkeitszeugnis (EFZ) wird aufgehoben.
 
-[^25-1]: [[AS 2008 109](https://fedlex.data.admin.ch/eli/oc/2008/43), [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)Ziff. I 49 und II 49]
+[^25-1]: [[AS 2008 109](https://fedlex.data.admin.ch/eli/oc/2008/43); [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)Ziff. I 49 und II 49]
 
 #### Art. 26
 
