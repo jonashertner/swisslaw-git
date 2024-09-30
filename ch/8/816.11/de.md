@@ -4,11 +4,11 @@ title: Verordnung vom 22. März 2017 über das elektronische Patientendossier (E
 short: EPDV
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/204"
 language: de
-version: 2023-09-01
+version: 2024-10-01
 adopted: 2017-03-22
 in_force: 2017-04-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/204/20230901/de/xml/fedlex-data-admin-ch-eli-cc-2017-204-20230901-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/204/20230901/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/204/20241001/de/xml/fedlex-data-admin-ch-eli-cc-2017-204-20241001-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/204/20241001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/204/20230901/de"
 
 (EPDV)
 
-vom 22. März 2017 (Stand am 1. September 2023)
+vom 22. März 2017 (Stand am 1. Oktober 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -238,9 +238,15 @@ Vor der Eröffnung eines elektronischen Patientendossiers muss die Stammgemeinsc
 
 #### Art. 16
 
-**Einwilligung**
+**Einwilligung**[^16-1]
 
-Die Stammgemeinschaft hat von der Patientin oder dem Patienten die Einwilligung zur Führung eines elektronischen Patientendossiers einzuholen. Diese muss von der Patientin oder vom Patienten unterzeichnet sein.
+Die Stammgemeinschaft hat von der Patientin oder dem Patienten die Einwilligung zur Erstellung eines elektronischen Patientendossiers einzuholen. Diese muss von der Patientin oder vom Patienten:
+
+- a. eigenhändig unterzeichnet oder mit einer mit einem qualifizierten Zeitstempel verbundenen qualifizierten elektronischen Signatur gemäss Bundesgesetz vom 18. März 2016[^16-2] über die elektronische Signatur signiert sein; oder
+- b. mit einem Identifikationsmittel bestätigt werden, das von einem nach Artikel 31 zertifizierten Herausgeber herausgegeben wurde.
+
+[^16-1]: Fassung gemäss Art. 8 Ziff. 1 der V vom 28. Aug. 2024 über die Finanzhilfen für das elektronische Patientendossier, in Kraft seit 1. Okt. 2024 ([AS 2024 461](https://fedlex.data.admin.ch/eli/oc/2024/461)).
+[^16-2]: [SR 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
 
 #### Art. 17
 

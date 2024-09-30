@@ -4,11 +4,11 @@ title: Ordinanza del 22 marzo 2017 sulla cartella informatizzata del paziente (O
 short: OCIP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/204"
 language: it
-version: 2023-09-01
+version: 2024-10-01
 adopted: 2017-03-22
 in_force: 2017-04-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/204/20230901/it/xml/fedlex-data-admin-ch-eli-cc-2017-204-20230901-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/204/20230901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/204/20241001/it/xml/fedlex-data-admin-ch-eli-cc-2017-204-20241001-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/204/20241001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/204/20230901/it"
 
 (OCIP)
 
-del 22 marzo 2017 (Stato 1° settembre 2023)
+del 22 marzo 2017 (Stato 1° ottobre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -238,9 +238,15 @@ Prima di aprire una cartella informatizzata, la comunità di riferimento deve in
 
 #### Art. 16
 
-**Consenso**
+**Consenso**[^16-1]
 
-La comunità di riferimento deve ottenere il consenso del paziente per la tenuta di una cartella informatizzata. Il consenso deve essere firmato dal paziente.
+La comunità di riferimento deve ottenere il consenso del paziente per la costituzione di una cartella informatizzata. Il consenso deve essere:
+
+- a. firmato dal paziente di propria mano oppure mediante firma elettronica qualificata corredata di una marca temporale qualificata ai sensi della legge del 18 marzo 2016[^16-2] sulla firma elettronica; oppure
+- b. confermato dal paziente mediante uno strumento d’identificazione rilasciato da un emittente certificato secondo l’articolo 31.
+
+[^16-1]: Nuovo testo giusta l’art. 8 dell’O del 28 ago. 2024 sugli aiuti finanziari per la cartella informatizzata del paziente, in vigore dal 1° ott. 2024 ([RU 2024 461](https://fedlex.data.admin.ch/eli/oc/2024/461)).
+[^16-2]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
 
 #### Art. 17
 
@@ -316,7 +322,7 @@ Lo strumento d’identificazione deve:
 - c. impiegare una procedura di autenticazione conforme all’attuale stato della tecnica con un minimo di due fattori di autenticazione; e
 - d. avere una durata di validità massima di cinque anni.
 
-[^23-1]: La norma menzionata può essere richiesta a pagamento presso l’Associazione svizzera di normalizzazione (SNV, www.snv.ch) o consultata gratuitamente presso l’UFSP, Schwarzenburgstrasse 157, 3003 Berna.
+[^23-1]: La norma menzionata può essere richiesta a pagamento presso l’Associazione svizzera di normalizzazione (SNV, [www.snv.ch](https://www.snv.ch/fr/)) o consultata gratuitamente presso l’UFSP, Schwarzenburgstrasse 157, 3003 Berna.
 
 #### Art. 24
 
@@ -525,7 +531,7 @@ L’organismo di certificazione può sospendere la validità di un certificato o
 
 L’UFSP gestisce i servizi di ricerca di dati:
 
-- a. delle comunità e comunità di riferimento,
+- a. delle comunità e comunità di riferimento;
 - b. delle strutture sanitarie e dei professionisti della salute autorizzati a trattare i dati della cartella informatizzata;
 - c. dei metadati (art. 10 cpv. 3 lett. a);
 - d. degli OID registrati per la cartella informatizzata.

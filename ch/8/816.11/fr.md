@@ -4,11 +4,11 @@ title: Ordonnance du 22 mars 2017 sur le dossier électronique du patient (ODEP)
 short: ODEP
 eli: "https://fedlex.data.admin.ch/eli/cc/2017/204"
 language: fr
-version: 2023-09-01
+version: 2024-10-01
 adopted: 2017-03-22
 in_force: 2017-04-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/204/20230901/fr/xml/fedlex-data-admin-ch-eli-cc-2017-204-20230901-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2017/204/20230901/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2017/204/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-2017-204-20241001-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2017/204/20241001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2017/204/20230901/fr"
 
 (ODEP)
 
-du 22 mars 2017 (État le 1<sup>er</sup> septembre 2023)
+du 22 mars 2017 (État le 1<sup>er</sup> octobre 2024)
 
 Le Conseil fédéral suisse,
 
@@ -238,9 +238,15 @@ Avant d’ouvrir un dossier électronique, la communauté de référence est ten
 
 #### Art. 16
 
-**Consentement**
+**Consentement**[^16-1]
 
-La communauté de référence doit obtenir le consentement du patient à la tenue d’un dossier électronique. La déclaration de consentement doit porter la signature du patient.
+La communauté de référence doit obtenir le consentement du patient à la constitution d’un dossier électronique. La déclaration de consentement doit:
+
+- a. porter la signature manuscrite du patient ou sa signature électronique qualifiée arborant un horodatage qualifié au sens de la loi du 18 mars 2016 sur la signature électronique[^16-2], ou
+- b. être confirmée par le patient à l’aide d’un moyen d’identification émis par un éditeur certifié au sens de l’art. 31.
+
+[^16-1]: Nouvelle teneur selon l’art. 8 ch. 1 de l’O du 28 août 2024 sur les aides financières pour le dossier électronique du patient, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 461](https://fedlex.data.admin.ch/eli/oc/2024/461)).
+[^16-2]: [RS 943.03](https://fedlex.data.admin.ch/eli/cc/2016/752)
 
 #### Art. 17
 
@@ -316,7 +322,7 @@ Le moyen d’identification doit:
 - c. utiliser une procédure d’authentification conforme aux progrès techniques comportant au moins deux facteurs d’authentification;
 - d. avoir une durée de validité de cinq ans au maximum.
 
-[^23-1]: La norme peut être obtenue contre paiement auprès de l’Association suisse de normalisation (www.snv.ch) ou être consultée gratuitement auprès de l’OFSP, Schwarzenburgstrasse 157, 3003 Berne.
+[^23-1]: La norme peut être obtenue contre paiement auprès de l’Association suisse de normalisation ([www.snv.ch](http://www.snv.ch)) ou être consultée gratuitement auprès de l’OFSP, Schwarzenburgstrasse 157, 3003 Berne.
 
 #### Art. 24
 
@@ -389,7 +395,7 @@ L’organisme de certification d’une communauté, d’une communauté de réf�
 - b. un organisme d’accréditation étranger membre de l’organisation European co-operation for Accreditation;
 - c. un organisme d’accréditation reconnu par la Suisse en vertu d’un traité international.[^28-2]
 
-<sup>2</sup> L’organisme de certification des éditeurs de moyens d'identification doit être reconnu apte à l’audit et à la certification de produits, de procédures et de services par un des organismes visés à l’al. 1, let. a, b ou c.[^28-3]
+<sup>2</sup> L’organisme de certification des éditeurs de moyens d’identification doit être reconnu apte à l’audit et à la certification de produits, de procédures et de services par un des organismes visés à l’al. 1, let. a, b ou c.[^28-3]
 
 <sup>3</sup>
 
