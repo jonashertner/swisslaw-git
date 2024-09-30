@@ -4,11 +4,11 @@ title: "Verordnung vom 28. Oktober 2009 zum Schutz vor Passivrauchen (Passivrauc
 short: PaRV
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/767"
 language: de
-version: 2010-05-01
+version: 2024-10-01
 adopted: 2009-10-28
 in_force: 2010-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/767/20100501/de/xml/fedlex-data-admin-ch-eli-cc-2009-767-20100501-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/767/20100501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/767/20241001/de/xml/fedlex-data-admin-ch-eli-cc-2009-767-20241001-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/767/20241001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,39 +17,54 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/767/20100501/de"
 
 (Passivrauchschutzverordnung, PaRV[^t-1])
 
-vom 28. Oktober 2009 (Stand am 1. Mai 2010)
+vom 28. Oktober 2009 (Stand am 1. Oktober 2024)
 
 [^t-1]: Die Abkürzung wurde in Anwendung von Art. 16 Abs. 1 der Publikationsverordnung vom 17. Nov. 2004 ([SR 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)) angepasst.
 
 Der Schweizerische Bundesrat,
 
-gestützt auf die Artikel 2 Absatz 3 und 6 Absatz 1 des Bundesgesetzes vom 3. Oktober 2008[^ingress-1] zum Schutz vor Passivrauchen,
+gestützt auf die Artikel 2 Absätze 3, 5 und 6 Absatz 1 des Bundesgesetzes vom 3. Oktober 2008[^ingress-1] zum Schutz vor Passivrauchen,[^ingress-2]
 
 verordnet:
 
 [^ingress-1]: [SR 818.31](https://fedlex.data.admin.ch/eli/cc/2009/766)
+[^ingress-2]: Fassung gemäss Anhang 4 Ziff. II 7 der Tabakprodukteverordnung vom 28. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
 
 ## 1. Abschnitt: Allgemeine Bestimmungen
 
 #### Art. 1
 
-**Geltungsbereich**
+**Geltungsbereich**[^1-1]
 
 Diese Verordnung regelt:
 
-- a. das Rauchverbot in geschlossenen Räumen, die öffentlich zugänglich sind oder mehreren Personen als Arbeitsplatz dienen;
+- a.
+
+  das Verbot, in geschlossenen Räumen, die öffentlich zugänglich sind oder mehreren Personen als Arbeitsplatz dienen:
+
+  - 1\. Tabakprodukte nach Artikel 3 Buchstabe a des Tabakproduktegesetzes vom 1. Oktober 2021[^1-2] (TabPG) zu rauchen, einschliesslich der Produkte ohne Tabak für Wasserpfeifen, die ihnen nach Artikel 3 Absatz 3 der Tabakprodukteverordnung vom 28. August 2024[^1-3] (TabPV) gleichgestellt sind,
+  - 2\. Tabakprodukte zum Erhitzen nach Artikel 3 Buchstabe c TabPG, einschliesslich pflanzlicher Produkte zum Erhitzen, die ihnen nach Artikel 3 Absatz 1 TabPV gleichgestellt sind, sowie elektronische Zigaretten nach Artikel 3 Buchstabe f TabPG zu verwenden;
+
 - b. die Anforderungen an Raucherräume und an deren Belüftung;
 - c. die Anforderungen an Raucherlokale und an deren Belüftung;
 - d. die Voraussetzungen für die Beschäftigung von Arbeitnehmerinnen oder Arbeitnehmern in Raucherräumen und Raucherlokalen;
-- e. die Ausnahmen vom Rauchverbot für Zwangsaufenthaltsorte und Einrichtungen, die dem dauernden Verbleib oder einem längeren Aufenthalt dienen.
+- d<sup>bis</sup>. die Anforderungen an Zonen zur Degustation von Produkten nach Buchstabe a Ziffer 2 in spezialisierten Verkaufsgeschäften;
+- e. die Ausnahmen vom Rauchverbot und vom Verbot zur Verwendung von Produkten nach Buchstabe a Ziffer 2 für Zwangsaufenthaltsorte und Einrichtungen, die dem dauernden Verbleib oder einem längeren Aufenthalt dienen.
+
+[^1-1]: Fassung gemäss Anhang 4 Ziff. II 7 der Tabakprodukteverordnung vom 28. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
+[^1-2]: [SR 818.32](https://fedlex.data.admin.ch/eli/cc/2024/457)
+[^1-3]: [SR 818.321](https://fedlex.data.admin.ch/eli/cc/2024/491)
 
 #### Art. 2
 
-**Rauchverbot**
+**Rauchverbot und Verbot der Verwendung von Produkten zum Erhitzen und von elektronischen Zigaretten[^2-1]**
 
-<sup>1</sup> Rauchen ist unter Vorbehalt der Artikel 4–7 untersagt in geschlossenen Räumen, die öffentlich zugänglich sind oder mehreren Personen als Arbeitsplatz dienen.
+<sup>1</sup> Das Rauchen und die Verwendung von Produkten nach Artikel 1 Buchstabe a Ziffer 2 ist unter Vorbehalt der Artikel 4–7 untersagt in geschlossenen Räumen, die öffentlich zugänglich sind oder mehreren Personen als Arbeitsplatz dienen.[^2-2]
 
 <sup>2</sup> Als Arbeitsplatz mehrerer Personen gilt jeder Ort, an dem sich mehrere Arbeitnehmerinnen oder Arbeitnehmer dauernd oder vorübergehend zur Ausführung der ihnen zugewiesenen Arbeit aufhalten müssen.
+
+[^2-1]: Fassung gemäss Anhang 4 Ziff. II 7 der Tabakprodukteverordnung vom 28. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
+[^2-2]: Fassung gemäss Anhang 4 Ziff. II 7 der Tabakprodukteverordnung vom 28. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
 
 #### Art. 3
 
@@ -115,19 +130,53 @@ Nicht als Raucherlokal dürfen geführt werden:
 
 [^6-1]: [SR 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
 
+## 2*a**.* Abschnitt : Zonen zur Degustation von Produkten zum Erhitzen und elektronischen Zigaretten in spezialisierten Verkaufsgeschäften
+
+[^sec2a-1]
+
+[^sec2a-1]: Eingefügt durch Anhang 4 Ziff. II 7 der Tabakprodukteverordnung vom 28. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
+
+#### Art. 6a
+
+**Degustation von Produkten**
+
+<sup>1</sup> Spezialisierte Verkaufsgeschäfte können eine Zone zur Degustation von Produkten nach Artikel 1 Buchstabe a Ziffer 2 einrichten.
+
+<sup>2</sup> Als spezialisierte Verkaufsgeschäfte nach Absatz 1 gelten Geschäfte, die hauptsächlich die in Artikel 3 Buchstaben a–f TabPG aufgeführten Produkte anbieten.
+
+#### Art. 6b
+
+**Anforderungen an die Degustationszone**
+
+Die Degustationszone muss folgende Anforderungen erfüllen:
+
+- a. Sie muss mit einer ausreichenden Belüftung ausgestattet sein.
+- b. Sie muss klar als solche gekennzeichnet sein.
+- c. Sie muss sich am Rande des Hauptverkaufsbereichs befinden.
+- d. Ihre Fläche macht nicht mehr als einen Drittel der gesamten Verkaufsfläche des Geschäfts aus.
+
+#### Art. 6c
+
+**Beschäftigung von Arbeitnehmerinnen und Arbeitnehmern**
+
+Artikel 6 gilt sinngemäss für Angestellte von spezialisierten Verkaufsgeschäften mit einer Degustationszone.
+
 ## 3. Abschnitt: Spezielle Einrichtungen
 
 #### Art. 7
 
 <sup>1</sup>
 
-Der Betreiber oder die Betreiberin oder die für die Hausordnung verantwortliche Person kann vorsehen, dass geraucht werden darf in Zimmern:
+Der Betreiber oder die Betreiberin oder die für die Hausordnung verantwortliche Person kann vorsehen, dass das Rauchen und die Verwendung von Produkten nach Artikel 1 Buchstabe a Ziffer 2 erlaubt sind in Zimmern:[^7-1]
 
 - a. von Einrichtungen des Straf- und Massnahmenvollzugs oder vergleichbaren Einrichtungen;
 - b. von Alters- und Pflegeheimen oder vergleichbaren Einrichtungen;
 - c. von Hotels oder anderen Beherbergungsstätten.
 
-<sup>2</sup> Personen, die sich in einer Einrichtung nach Absatz 1 Buchstabe a oder b befinden, können verlangen, in einem Zimmer mit Rauchverbot untergebracht zu werden.
+<sup>2</sup> Personen, die sich in einer Einrichtung nach Absatz 1 Buchstabe a oder b befinden, können verlangen, in einem Zimmer mit Rauchverbot oder ohne Emissionen von Produkten nach Artikel 1 Buchstabe a Ziffer 2 untergebracht zu werden.[^7-2]
+
+[^7-1]: Fassung gemäss Anhang 4 Ziff. II 7 der Tabakprodukteverordnung vom 28. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
+[^7-2]: Fassung gemäss Anhang 4 Ziff. II 7 der Tabakprodukteverordnung vom 28. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
 
 ## 4. Abschnitt: Schlussbestimmungen
 
@@ -135,7 +184,7 @@ Der Betreiber oder die Betreiberin oder die für die Hausordnung verantwortliche
 
 **Änderung bisherigen Rechts**
 
-...[^8-1]
+…[^8-1]
 
 [^8-1]: Die Änderung kann unter [AS 2009 6289](https://fedlex.data.admin.ch/eli/oc/2009/767)konsultiert werden.
 

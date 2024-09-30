@@ -4,11 +4,11 @@ title: "Ordinanza del 28 ottobre 2009 concernente la protezione contro il fumo p
 short: OPFP
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/767"
 language: it
-version: 2010-05-01
+version: 2024-10-01
 adopted: 2009-10-28
 in_force: 2010-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/767/20100501/it/xml/fedlex-data-admin-ch-eli-cc-2009-767-20100501-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/767/20100501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/767/20241001/it/xml/fedlex-data-admin-ch-eli-cc-2009-767-20241001-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/767/20241001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,37 +17,52 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/767/20100501/it"
 
 (Ordinanza concernente il fumo passivo, OPFP)
 
-del 28 ottobre 2009 (Stato 1° maggio 2010)
+del 28 ottobre 2009 (Stato 1° ottobre 2024)
 
 Il Consiglio federale svizzero,
 
-visti gli articoli 2 capoverso 3 e 6 capoverso 1 della legge federale del 3 ottobre 2008[^ingress-1] concernente la protezione contro il fumo passivo,
+visti gli articoli 2 capoverso 3, 5 nonché 6 capoverso 1 della legge federale del 3 ottobre 2008[^ingress-1] concernente la protezione contro il fumo passivo,[^ingress-2]
 
 ordina:
 
 [^ingress-1]: [RS 818.31](https://fedlex.data.admin.ch/eli/cc/2009/766)
+[^ingress-2]: Nuovo testo giusta l’all. 4 n. II 7 dell’O del 28 ago. 2024 sui prodotti del tabacco, in vigore dal 1° ott. 2024 ([RU 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
 
 ## Sezione 1: Disposizioni generali
 
 #### Art. 1
 
-**Campo d’applicazione**
+**Campo d’applicazione**[^1-1]
 
 La presente ordinanza disciplina:
 
-- a. il divieto di fumare nei locali chiusi accessibili al pubblico o adibiti a luoghi di lavoro per più persone;
+- a.
+
+  il divieto, nei locali chiusi accessibili al pubblico o adibiti a luoghi di lavoro per più persone:
+
+  - 1\. di fumare prodotti del tabacco di cui all’articolo 3 lettera a della legge del 1° ottobre 2021[^1-2] sui prodotti del tabacco (LPTab), inclusi i prodotti senza tabacco per pipe ad acqua ad essi equiparati in virtù dell’articolo 3 capoverso 3 dell’ordinanza del 28 agosto 2024[^1-3] sui prodotti del tabacco (OPTab),
+  - 2\. di utilizzare prodotti del tabacco destinati a essere riscaldati di cui all’articolo 3 lettera c LPTab, inclusi i prodotti a base di erbe destinati a essere riscaldati ad essi equiparati in virtù dell’articolo 3 capoverso 1 OPTab nonché sigarette elettroniche di cui all’articolo 3 lettera f LPTab;
+
 - b. i requisiti relativi alle sale fumatori e alla loro ventilazione;
 - c. i requisiti relativi ai locali per fumatori e alla loro ventilazione;
 - d. le condizioni per l’impiego di lavoratori in sale fumatori e in locali per fumatori;
-- e. le deroghe al divieto di fumare per i luoghi di detenzione e gli stabilimenti di soggiorno permanente o prolungato.
+- d<sup>bis</sup>. i requisiti relativi alle zone di degustazione di prodotti di cui alla lettera a numero 2 nei negozi specializzati;
+- e. le deroghe al divieto di fumare e di utilizzare prodotti di cui alla lettera a numero 2 per i luoghi di detenzione e gli stabilimenti di soggiorno permanente o prolungato.
+
+[^1-1]: Nuovo testo giusta l’all. 4 n. II 7 dell’O del 28 ago. 2024 sui prodotti del tabacco, in vigore dal 1° ott. 2024 ([RU 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
+[^1-2]: [RS 818.32](https://fedlex.data.admin.ch/eli/cc/2024/457)
+[^1-3]: [RS 818.321](https://fedlex.data.admin.ch/eli/cc/2024/491)
 
 #### Art. 2
 
-**Divieto di fumare**
+**Divieto di fumare e di utilizzare prodotti destinati a essere riscaldati e sigarette elettroniche[^2-1]**
 
-<sup>1</sup> Fatti salvi gli articoli 4–7, è vietato fumare nei locali chiusi accessibili al pubblico o adibiti a luoghi di lavoro per più persone.
+<sup>1</sup> Fatti salvi gli articoli 4–7, è vietato fumare e utilizzare prodotti di cui all’articolo 1 lettera a numero 2 nei locali chiusi accessibili al pubblico o adibiti a luoghi di lavoro per più persone.[^2-2]
 
 <sup>2</sup> Sono considerati luoghi di lavoro per più persone i luoghi nei quali più lavoratori esercitano permanentemente o temporaneamente la loro attività.
+
+[^2-1]: Nuovo testo giusta l’all. 4 n. II 7 dell’O del 28 ago. 2024 sui prodotti del tabacco, in vigore dal 1° ott. 2024 ([RU 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
+[^2-2]: Nuovo testo giusta l’all. 4 n. II 7 dell’O del 28 ago. 2024 sui prodotti del tabacco, in vigore dal 1° ott. 2024 ([RU 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
 
 #### Art. 3
 
@@ -113,19 +128,53 @@ Non possono essere autorizzati quali locali per fumatori:
 
 [^6-1]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
 
+## Sezione 2*a*: Zone di degustazione di prodotti destinati a essere riscaldati e di sigarette elettroniche nei negozi specializzati
+
+[^sec2a-1]
+
+[^sec2a-1]: Introdotta dall’all. 4 n. II 7 dell’O del 28 ago. 2024 sui prodotti del tabacco, in vigore dal 1° ott. 2024 ([RU 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
+
+#### Art. 6a
+
+**Degustazione di prodotti**
+
+<sup>1</sup> I negozi specializzati possono disporre di una zona per la degustazione dei prodotti di cui all’articolo 1 lettera a numero 2.
+
+<sup>2</sup> Sono considerati negozi specializzati ai sensi del capoverso 1 i negozi che propongono principalmente prodotti di cui all’articolo 3 lettere a–f LPTab.
+
+#### Art. 6b
+
+**Requisiti relativi alle zone di degustazione**
+
+La zona di degustazione soddisfa i requisiti seguenti:
+
+- a. essere dotata di sufficiente ventilazione;
+- b. essere designata chiaramente in quanto tale;
+- c. trovarsi in posizione appartata rispetto alla zona di vendita principale;
+- d. la sua superficie non supera un terzo della superficie di vendita totale del negozio.
+
+#### Art. 6c
+
+**Impiego di lavoratori**
+
+L’articolo 6 si applica per analogia ai lavoratori dei negozi specializzati che dispongono di una zona di degustazione.
+
 ## Sezione 3: Stabilimenti speciali
 
 #### Art. 7
 
 <sup>1</sup>
 
-Il gerente o il responsabile dell’ordine interno può prevedere il permesso di fumare nelle camere:
+Il gerente o il responsabile dell’ordine interno può prevedere il permesso di fumare e di utilizzare i prodotti di cui all’articolo 1 lettera a numero 2 nelle camere:[^7-1]
 
 - a. di istituzioni per l’esecuzione delle pene e delle misure o di stabilimenti analoghi;
 - b. di case per anziani e case di cura o di stabilimenti analoghi;
 - c. di alberghi o di altre strutture di alloggio.
 
-<sup>2</sup> Chi soggiorna in uno degli stabilimenti di cui al capoverso 1 lettere a o b può esigere di essere alloggiato in una camera in cui è vietato fumare.
+<sup>2</sup> Chi soggiorna in uno degli stabilimenti di cui al capoverso 1 lettere a o b può esigere di essere alloggiato in una camera in cui è vietato fumare o senza emissioni di prodotti di cui all’articolo 1 lettera a numero 2.[^7-2]
+
+[^7-1]: Nuovo testo giusta l’all. 4 n. II 7 dell’O del 28 ago. 2024 sui prodotti del tabacco, in vigore dal 1° ott. 2024 ([RU 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
+[^7-2]: Nuovo testo giusta l’all. 4 n. II 7 dell’O del 28 ago. 2024 sui prodotti del tabacco, in vigore dal 1° ott. 2024 ([RU 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
 
 ## Sezione 4: Disposizioni finali
 
@@ -138,7 +187,7 @@ L’ordinanza 3 del 18 agosto 1993[^8-1] concernente la legge sul lavoro è modi
 ...[^8-2]
 
 [^8-1]: [RS 822.113](https://fedlex.data.admin.ch/eli/cc/1993/2553_2553_2553)
-[^8-2]: La modifica può essere consultata alla [RU 2009 6289](https://fedlex.data.admin.ch/eli/oc/2009/767).
+[^8-2]: La mod. può essere consultata alla [RU 2009 6289](https://fedlex.data.admin.ch/eli/oc/2009/767).
 
 #### Art. 9
 

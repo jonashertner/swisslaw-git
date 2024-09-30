@@ -4,11 +4,11 @@ title: "Ordonnance du 28 octobre 2009 sur la protection contre le tabagisme pass
 short: OPTP
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/767"
 language: fr
-version: 2010-05-01
+version: 2024-10-01
 adopted: 2009-10-28
 in_force: 2010-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/767/20100501/fr/xml/fedlex-data-admin-ch-eli-cc-2009-767-20100501-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/767/20100501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/767/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-2009-767-20241001-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/767/20241001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,37 +17,52 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/767/20100501/fr"
 
 (Ordonnance concernant le tabagisme passif, OPTP)
 
-du 28 octobre 2009 (État le 1<sup>er</sup> mai 2010)
+du 28 octobre 2009 (État le 1<sup>er</sup> octobre 2024)
 
 Le Conseil fédéral suisse,
 
-vu les art. 2, al. 3, et 6, al. 1, de la loi fédérale du 3 octobre 2008 sur la protection contre le tabagisme passif[^ingress-1],
+vu les art. 2, al. 3, 5 et 6, al. 1, de la loi fédérale du 3 octobre 2008 sur la protection contre le tabagisme passif[^ingress-1],[^ingress-2]
 
 arrête:
 
 [^ingress-1]: [RS 818.31](https://fedlex.data.admin.ch/eli/cc/2009/766)
+[^ingress-2]: Nouvelle teneur selon l’annexe 4 ch. II 7 de l’O du 28 août 2024 sur les produits du tabac, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
 
 ## Section 1 Dispositions générales
 
 #### Art. 1
 
-**Champ d’application**
+**Champ d’application**[^1-1]
 
 La présente ordonnance règle:
 
-- a. l’interdiction de fumer dans les espaces fermés accessibles au public ou qui servent de lieu de travail à plusieurs personnes;
+- a.
+
+  l’interdiction, dans les espaces fermés accessibles au public ou qui servent de lieu de travail à plusieurs personnes:
+
+  - 1\. de fumer des produits du tabac au sens de l’art. 3, let. a, de la loi du 1<sup>er</sup> octobre 2021 sur les produits du tabac (LPTab)[^1-2], y compris des produits sans tabac pour pipe à eau qui leur sont assimilés en vertu de l’art. 3, al. 3, de l’ordonnance du 28 août 2024 sur les produits du tabac (OPTab),[^1-3]
+  - 2\. d’utiliser des produits du tabac à chauffer au sens de l’art. 3, let. c, LPTab, y compris des produits à chauffer à base de plantes qui leur sont assimilés en vertu de l’art. 3, al. 1, OPTab ainsi que des cigarettes électroniques au sens de l’art. 3, let. f, LPTab;
+
 - b. les exigences relatives aux locaux fumeurs et à leur ventilation;
-- c. les exigences concernant les établissements fumeurs et leur ventilation;
+- c. les exigences relatives aux établissements fumeurs et à leur ventilation;
 - d. les conditions relatives au travail dans les locaux fumeurs et les établissements fumeurs;
-- e. les exceptions à l’interdiction de fumer prévues pour les établissements de détention ainsi que pour les établissements de séjour permanent ou prolongé.
+- d<sup>bis</sup>. les exigences relatives aux zones de dégustation des produits visés à la let. a, ch. 2, dans les magasins spécialisés;
+- e. les exceptions à l’interdiction de fumer et d’utiliser des produits visés à la let. a, ch. 2, prévues pour les établissements de détention ainsi que pour les établissements de séjour permanent ou prolongé.
+
+[^1-1]: Nouvelle teneur selon l’annexe 4 ch. II 7 de l’O du 28 août 2024 sur les produits du tabac, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
+[^1-2]: [RS 818.32](https://fedlex.data.admin.ch/eli/cc/2024/457)
+[^1-3]: [RS 818.321](https://fedlex.data.admin.ch/eli/cc/2024/491)
 
 #### Art. 2
 
-**Interdiction de fumer**
+**Interdiction de fumer et d’utiliser des produits à chauffer et des cigarettes électroniques[^2-1]**
 
-<sup>1</sup> Sous réserve des art. 4 à 7, il est interdit de fumer dans les espaces fermés accessibles au public ou qui servent de lieu de travail à plusieurs personnes.
+<sup>1</sup> Sous réserve des art. 4 à 7, il est interdit de fumer et d’utiliser des produits visés à l’art. 1, let. a, ch. 2, dans les espaces fermés accessibles au public ou qui servent de lieu de travail à plusieurs personnes.[^2-2]
 
 <sup>2</sup> Sont considérés comme lieux de travail de plusieurs personnes tous les lieux où plusieurs travailleurs exercent, à titre permanent ou temporaire, leur activité.
+
+[^2-1]: Nouvelle teneur selon l’annexe 4 ch. II 7 de l’O du 28 août 2024 sur les produits du tabac, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
+[^2-2]: Nouvelle teneur selon l’annexe 4 ch. II 7 de l’O du 28 août 2024 sur les produits du tabac, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
 
 #### Art. 3
 
@@ -68,9 +83,9 @@ L’exploitant ou la personne responsable du règlement de maison veille à ce q
 - a. soit séparé hermétiquement des autres pièces par des éléments de construction fixes, qu’il ne serve pas de lieu de passage vers d’autres pièces et qu’il dispose d’une porte à fermeture autonome;
 - b. soit équipé d’une ventilation adéquate.
 
-<sup>2</sup> A chacun des accès, les locaux fumeurs doivent être clairement désignés comme tels, à des endroits bien visibles.
+<sup>2</sup> À chacun des accès, les locaux fumeurs doivent être clairement désignés comme tels, à des endroits bien visibles.
 
-<sup>3</sup> A l’exception des articles et accessoires pour fumeurs, il est interdit d’y proposer des prestations qui ne sont pas offertes dans le reste de l’établissement.
+<sup>3</sup> À l’exception des articles et accessoires pour fumeurs, il est interdit d’y proposer des prestations qui ne sont pas offertes dans le reste de l’établissement.
 
 <sup>4</sup>
 
@@ -90,7 +105,7 @@ Sur requête, les autorités cantonales compétentes autorisent un établissemen
 - a. la surface totale des pièces accessibles au public, y compris la zone d’entrée, les vestiaires et les toilettes, ne dépasse pas 80 m<sup>2</sup>;
 - b. l’établissement est équipé d’une ventilation adéquate.
 
-<sup>2</sup> A chacun des accès, les établissements fumeurs doivent être clairement désignés comme tels, à des endroits bien visibles.
+<sup>2</sup> À chacun des accès, les établissements fumeurs doivent être clairement désignés comme tels, à des endroits bien visibles.
 
 <sup>3</sup>
 
@@ -113,19 +128,53 @@ Ne peuvent pas être exploités comme établissements fumeurs:
 
 [^6-1]: [RS 822.11](https://fedlex.data.admin.ch/eli/cc/1966/57_57_57)
 
-## Section 3 Etablissements spéciaux
+## Section 2*a* Zones de dégustation de produits à chauffer et de cigarettes électroniques dans les magasins spécialisés
+
+[^sec2a-1]
+
+[^sec2a-1]: Introduite par l’annexe 4 ch. II 7 de l’O du 28 août 2024 sur les produits du tabac, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
+
+#### Art. 6a
+
+**Dégustation de produits**
+
+<sup>1</sup> Les magasins spécialisés peuvent disposer d’une zone destinée à déguster des produits visés à l’art. 1, let. a, ch. 2.
+
+<sup>2</sup> Sont considérés comme des magasins spécialisés au sens de l’al. 1 les magasins qui proposent principalement des produits visés à l’art. 3, let. a à f, LPTab.
+
+#### Art. 6b
+
+**Exigences relatives à la zone de dégustation**
+
+La zone de dégustation remplit les exigences suivantes:
+
+- a. être équipée d’une ventilation adéquate;
+- b. être clairement désignée comme telle;
+- c. se situer en retrait de la zone principale de vente;
+- d. sa surface ne dépasse pas un tiers de la surface totale de vente du magasin.
+
+#### Art. 6c
+
+**Occupation des travailleurs**
+
+L’art. 6 s’applique par analogie aux employés des magasins spécialisés disposant d’une zone de dégustation.
+
+## Section 3 Établissements spéciaux
 
 #### Art. 7
 
 <sup>1</sup>
 
-L’exploitant ou la personne responsable du règlement de maison peut prévoir qu’il soit permis de fumer dans des chambres:
+L’exploitant ou la personne responsable du règlement de maison peut prévoir qu’il soit permis de fumer et d’utiliser des produits visés à l’art. 1, let. a, ch. 2, dans des chambres:[^7-1]
 
 - a. d’établissements d’exécution des peines et des mesures ou d’établissements du même ordre;
 - b. de maisons de retraite, d’établissements médico-sociaux ou d’établissements du même ordre;
 - c. d’hôtels ou d’autres établissements d’hébergement.
 
-<sup>2</sup> Les personnes se trouvant dans un établissement au sens de l’al. 1, let. a ou b, peuvent exiger à être placées dans une chambre non-fumeurs.
+<sup>2</sup> Les personnes se trouvant dans un établissement au sens de l’al. 1, let. a ou b, peuvent exiger à être placées dans une chambre non-fumeurs ou sans émissions de produits visés à l’art. 1, let. a, ch. 2.[^7-2]
+
+[^7-1]: Nouvelle teneur selon l’annexe 4 ch. II 7 de l’O du 28 août 2024 sur les produits du tabac, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
+[^7-2]: Nouvelle teneur selon l’annexe 4 ch. II 7 de l’O du 28 août 2024 sur les produits du tabac, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
 
 ## Section 4 Dispositions finales
 
