@@ -3,18 +3,18 @@ sr: "412.101.220.72"
 title: "Ordonnance du SEFRI du 1<sup>er</sup> juillet 2019 sur la formation professionnelle initiale de ferblantière/ferblantier avec certificat fédéral de capacité (CFC)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/433"
 language: fr
-version: 2024-04-01
+version: 2024-10-01
 adopted: 2019-07-01
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/433/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2019-433-20240401-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/433/20240401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/433/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-2019-433-20241001-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/433/20241001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale de ferblantière/ferblantier avec certificat fédéral de capacité (CFC)
 
-du 1<sup>er</sup> juillet 2019 (État le 1<sup>er</sup> avril 2024)
+du 1<sup>er</sup> juillet 2019 (État le 1<sup>er</sup> octobre 2024)
 
 <table>
 <tr><td>45405</td><td>Ferblantière CFC / Ferblantier CFC Spenglerin EFZ / Spengler EFZ Lattoniera AFC / Lattoniere AFC</td></tr>
@@ -231,13 +231,16 @@ Le plan de formation:
 
 #### Art. 10
 
-**Exigences posées aux formateurs**
+**Exigences posées aux formateurs**[^10-1]
 
 Les personnes ci-après remplissent les exigences posées aux formateurs:
 
-- a. les contremaîtres en ferblanterie avec brevet fédéral;
-- b. les titulaires d’un titre correspondant de la formation professionnelle supérieure;
-- c. les titulaires d’un diplôme correspondant d’une haute école justifiant d’au moins 3 ans d’expérience professionnelle dans le domaine de la formation qu’ils dispensent.
+- a. les ferblantiers CFC justifiant d’au moins 3 ans d’expérience professionnelle dans le domaine de la formation qu’ils dispensent;
+- b. les contremaîtres en ferblanterie avec brevet fédéral;
+- c. les titulaires d’un titre correspondant de la formation professionnelle supérieure;
+- d. les titulaires d’un diplôme correspondant d’une haute école justifiant d’au moins 3 ans d’expérience professionnelle dans le domaine de la formation qu’ils dispensent.
+
+[^10-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 15 août 2024, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 474](https://fedlex.data.admin.ch/eli/oc/2024/474)).
 
 #### Art. 11
 
@@ -331,7 +334,7 @@ La procédure de qualification avec examen final porte sur les compétences opé
   - 4\. le domaine de qualification porte sur les domaines de compétences opérationnelles ci-après et l’entretien professionnel d’une durée de 60 minutes assortis des pondérations suivantes:
 
 <table>
-<tr><td>Point d’appré-ciation</td><td>Domaine de compétences opérationnelles (DCO) / Compétence opérationnelle (CO)</td><td>Pondération</td></tr>
+<tr><th>Point d’appré-ciation</th><th>Domaine de compétences opérationnelles (DCO) / Compétence opérationnelle (CO)</th><th>Pondération</th></tr>
 <tr><td>1</td><td>Planification des travaux (CO a.2 à a.7)</td><td>20 %</td></tr>
 <tr><td>2</td><td>Aménager et sécuriser le poste de travail (CO a.1) Fabrication des éléments de ferblanterie Pose de couches structurelles sur les toits plats et les façades Montage d’éléments de ferblanterie sur des toits plats, des toits en pente et des façades</td><td>55 %</td></tr>
 <tr><td>3</td><td>Exécution de travaux finaux</td><td>10 %</td></tr>

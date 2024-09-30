@@ -3,18 +3,18 @@ sr: "412.101.220.72"
 title: Verordnung des SBFI vom 1. Juli 2019 über die berufliche Grundbildung Spenglerin/Spengler mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/433"
 language: de
-version: 2024-04-01
+version: 2024-10-01
 adopted: 2019-07-01
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/433/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2019-433-20240401-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/433/20240401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/433/20241001/de/xml/fedlex-data-admin-ch-eli-cc-2019-433-20241001-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/433/20241001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Spenglerin/Spengler mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 1. Juli 2019 (Stand am 1. April 2024)
+vom 1. Juli 2019 (Stand am 1. Oktober 2024)
 
 <table>
 <tr><td>45405</td><td>Spenglerin EFZ / Spengler EFZ Ferblantière CFC / Ferblantier CFC Lattoniera AFC / Lattoniere AFC</td></tr>
@@ -225,19 +225,22 @@ Der Bildungsplan hat folgenden Inhalt:
 
 <sup>3</sup> Dem Bildungsplan angefügt ist das Verzeichnis der Instrumente zur Sicherstellung und Umsetzung der beruflichen Grundbildung sowie zur Förderung der Qualität mit Angabe der Bezugsquelle.
 
-[^9-1]: Der Bildungsplan vom 1. Juli 2019 ist zu finden auf der Website des SBFI über das Berufsverzeichnis unter: www.bvz.admin.ch &gt; Berufe A–Z.
+[^9-1]: Der Bildungsplan vom 1. Juli 2019 ist zu finden auf der Website des SBFI über das Berufsverzeichnis unter: [www.bvz.admin.ch](http://www.bvz.admin.ch) &gt; Berufe A–Z.
 
 ## 6. Abschnitt: Anforderungen an die Berufsbildnerinnen und Berufsbildner und Höchstzahl der Lernenden im Betrieb
 
 #### Art. 10
 
-**Fachliche Anforderungen an Berufsbildnerinnen und Berufsbildner**
+**Fachliche Anforderungen an Berufsbildnerinnen und Berufsbildner**[^10-1]
 
 Die fachlichen Anforderungen an eine Berufsbildnerin oder einen Berufsbildner erfüllt, wer über eine der folgenden Qualifikationen verfügt:
 
-- a. Spenglerpolierin oder Spenglerpolier mit eidgenössischem Fachausweis;
-- b. einschlägiger Abschluss der höheren Berufsbildung;
-- c. einschlägiger Hochschulabschluss mit mindestens drei Jahren beruflicher Praxis im Lehrgebiet.
+- a. Spenglerin oder Spengler EFZ mit mindestens drei Jahren beruflicher Praxis im Lehrgebiet;
+- b. Spenglerpolierin oder Spenglerpolier mit eidgenössischem Fachausweis;
+- c. einschlägiger Abschluss der höheren Berufsbildung;
+- d. einschlägiger Hochschulabschluss mit mindestens drei Jahren beruflicher Praxis im Lehrgebiet.
+
+[^10-1]: Fassung gemäss Ziff. I der V des SBFI vom 15. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 474](https://fedlex.data.admin.ch/eli/oc/2024/474)).
 
 #### Art. 11
 
@@ -461,7 +464,7 @@ Sie hat insbesondere folgende Aufgaben:
 
 Die Verordnung des SBFI vom 12. Dezember 2007[^25-1] über die berufliche Grundbildung Spenglerin/Spengler mit eidgenössischem Fähigkeitszeugnis (EFZ) wird aufgehoben.
 
-[^25-1]: [[AS 2008 107](https://fedlex.data.admin.ch/eli/oc/2008/42), [2014 3625](https://fedlex.data.admin.ch/eli/oc/2014/631), [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)Ziff. I 48, II 48 und IV]
+[^25-1]: [[AS 2008 107](https://fedlex.data.admin.ch/eli/oc/2008/42); [2014 3625](https://fedlex.data.admin.ch/eli/oc/2014/631); [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)Ziff. I 48, II 48 und IV]
 
 #### Art. 26
 

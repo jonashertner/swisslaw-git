@@ -3,18 +3,18 @@ sr: "412.101.220.72"
 title: Ordinanza della SEFRI del 1° luglio 2019 sulla formazione professionale di base Lattoniera/Lattoniere con attestato federale di capacità (AFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/433"
 language: it
-version: 2024-04-01
+version: 2024-10-01
 adopted: 2019-07-01
 in_force: 2020-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/433/20240401/it/xml/fedlex-data-admin-ch-eli-cc-2019-433-20240401-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/433/20240401/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/433/20241001/it/xml/fedlex-data-admin-ch-eli-cc-2019-433-20241001-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/433/20241001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza della SEFRI sulla formazione professionale di base Lattoniera/Lattoniere con attestato federale di capacità (AFC)
 
-del 1° luglio 2019 (Stato 1° aprile 2024)
+del 1° luglio 2019 (Stato 1° ottobre 2024)
 
 <table>
 <tr><td>45405</td><td>Lattoniera AFC / Lattoniere AFC Spenglerin EFZ / Spengler EFZ Ferblantière CFC / Ferblantier CFC</td></tr>
@@ -200,7 +200,7 @@ La formazione professionale pratica in azienda comprende in media quattro giorna
 
 <sup>3</sup> Nell’ultimo semestre della formazione professionale di base non si possono svolgere corsi interaziendali.
 
-[^8-1]: Aggiornato dal n. I dell’O della SEFRI del 22 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 573](https://fedlex.data.admin.ch/eli/oc/2023/573)).
+[^8-1]: Aggiornato dalla cifra I dell’O della SEFRI del 22 set. 2023, in vigore dal 1° nov. 2023 ([RU 2023 573](https://fedlex.data.admin.ch/eli/oc/2023/573)).
 
 ## Sezione 5: Piano di formazione
 
@@ -231,13 +231,16 @@ Il piano di formazione:
 
 #### Art. 10
 
-**Requisiti professionali richiesti ai formatori**
+**Requisiti professionali richiesti ai formatori**[^10-1]
 
 Il formatore soddisfa i requisiti professionali se possiede una delle qualifiche seguenti:
 
-- a. attestato professionale federale di capo lattoniere;
-- b. titolo della formazione professionale superiore in ambito pertinente;
-- c. diploma di scuola universitaria in ambito pertinente e almeno tre anni di esperienza professionale nel campo d’insegnamento.
+- a. attestato federale di capacità di lattoniere AFC e almeno tre anni di esperienza professionale nel campo d’insegnamento;
+- b. attestato professionale federale di capo lattoniere;
+- c. titolo della formazione professionale superiore in ambito pertinente;
+- d. diploma di scuola universitaria in ambito pertinente e almeno tre anni di esperienza professionale nel campo d’insegnamento.
+
+[^10-1]: Nuovo testo giusta la cifra I dell’O della SEFRI del 15 ago. 2024, in vigore dal 1° ott. 2024 ([RU 2024 474](https://fedlex.data.admin.ch/eli/oc/2024/474)).
 
 #### Art. 11
 
@@ -461,7 +464,7 @@ Essa svolge in particolare i compiti seguenti:
 
 L’ordinanza della SEFRI del 12 dicembre 2007[^25-1] sulla formazione professionale di base Lattoniera/Lattoniere con attestato federale di capacità (AFC) è abrogata.
 
-[^25-1]: [[RU 2008 107](https://fedlex.data.admin.ch/eli/oc/2008/42); [2014 3625](https://fedlex.data.admin.ch/eli/oc/2014/631); [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)n. I 48, II 48, IV]
+[^25-1]: [[RU 2008 107](https://fedlex.data.admin.ch/eli/oc/2008/42); [2014 3625](https://fedlex.data.admin.ch/eli/oc/2014/631); [2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)cifra I n. 48, cifra II n. 48, cifra IV]
 
 #### Art. 26
 
