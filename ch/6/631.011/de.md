@@ -4,11 +4,11 @@ title: Zollverordnung des EFD vom 4. April 2007 (ZV-EFD)
 short: ZV-EFD
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/251"
 language: de
-version: 2022-01-01
+version: 2024-10-01
 adopted: 2007-04-04
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/251/20220101/de/xml/fedlex-data-admin-ch-eli-cc-2007-251-20220101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/251/20220101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/251/20241001/de/xml/fedlex-data-admin-ch-eli-cc-2007-251-20241001-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/251/20241001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/251/20220101/de"
 
 (ZV-EFD)
 
-vom 4. April 2007 (Stand am 1. Januar 2022)
+vom 4. April 2007 (Stand am 1. Oktober 2024)
 
 Das Eidgenössische Finanzdepartement (EFD),
 
@@ -366,7 +366,7 @@ Der Verkauf von Wertpapieren ist nur zulässig, wenn:
 
 [^26-1]: Fassung des Verweises gemäss Ziff. I der V des EFD vom 27. Juni 2012, in Kraft seit 1. Aug. 2012 ([AS 2012 3845](https://fedlex.data.admin.ch/eli/oc/2012/448)).
 
-## 6. Abschnitt: BAZG****
+## 6. Abschnitt: BAZG
 
 [^sec6-1]
 
@@ -438,32 +438,35 @@ Die Aufhebung bisherigen Rechts wird im Anhang 3 geregelt.
 
 Diese Verordnung tritt am 1. Mai 2007 in Kraft.
 
-Anhang 1*[^t-1]*
+Anhang 1[^t-1]
 
 (Art. 3)
 
 ## Zolltarif für den Reiseverkehr
 
-[^t-1]: Fassung gemäss Ziff. I der V des EFD vom 2. April 2014 ([AS 2014 983](https://fedlex.data.admin.ch/eli/oc/2014/219)). Bereinigt gemäss Ziff. I der V des EFD vom 5. Dez. 2015, in Kraft seit 1. Jan. 2016 ([AS 2015 5655](https://fedlex.data.admin.ch/eli/oc/2015/885)).
+[^t-1]: Fassung gemäss Ziff. I der V des EFD vom 2. April 2014 ([AS 2014 983](https://fedlex.data.admin.ch/eli/oc/2014/219)). Bereinigt gemäss Ziff. I der V des EFD vom 5. Dez. 2015 ([AS 2015 5655](https://fedlex.data.admin.ch/eli/oc/2015/885)) und vom 30. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 477](https://fedlex.data.admin.ch/eli/oc/2024/477)).
 
 <table>
-<tr><th>Zolltarifgruppe</th><th>Warenbezeichnung</th><th></th><th>Pauschalansatz in Franken</th></tr>
-<tr><td>1</td><td>Fleisch und Fleischzubereitungen, mit Ausnahme von Wild</td><td></td><td></td></tr>
-<tr><td></td><td>– bis 10 kg pro Person</td><td></td><td>17.– je kg</td></tr>
-<tr><td></td><td>– mehr als 10 kg pro Person</td><td></td><td>23.– je kg</td></tr>
-<tr><td>2</td><td>Butter, Rahm</td><td></td><td>16.– je kg/l</td></tr>
-<tr><td>3</td><td>Öle, Fette, Margarine zu Speisezwecken</td><td></td><td>2.– je kg/l</td></tr>
-<tr><td>4</td><td>Alkoholische Getränke:</td><td></td><td></td></tr>
-<tr><td></td><td>– mit einem Alkoholgehalt bis 18 % Vol.</td><td></td><td>2.– je l</td></tr>
-<tr><td></td><td>– mit einem Alkoholgehalt von über 18 % Vol.</td><td></td><td>15.– je l</td></tr>
-<tr><td>5</td><td>Tabakfabrikate:</td><td></td><td></td></tr>
-<tr><td></td><td>– Zigaretten/Zigarren</td><td></td><td>–.25 je Stück</td></tr>
-<tr><td></td><td>– andere Tabakfabrikate</td><td></td><td>–.10 je Gramm</td></tr>
-<tr><td>6</td><td>Treibstoffe</td><td></td><td>–.75 je l</td></tr>
-<tr><td>7</td><td>Andere Waren</td><td></td><td>zollfrei</td></tr>
+<tr><th>Zolltarifgruppe</th><th>Warenbezeichnung</th><th colspan="3">Pauschalansatz in Franken</th></tr>
+<tr><td>1</td><td>Fleisch und Fleischzubereitungen, mit Ausnahme von Wild</td><td colspan="3"></td></tr>
+<tr><td>[tab]</td><td>– bis 10 kg pro Person</td><td colspan="3">[tab] 17.– je kg</td></tr>
+<tr><td>[tab]</td><td>– mehr als 10 kg pro Person</td><td colspan="3">[tab] 23.– je kg</td></tr>
+<tr><td>2</td><td>Butter, Rahm</td><td colspan="3">16.– je kg/l</td></tr>
+<tr><td>3</td><td>Öle, Fette, Margarine zu Speisezwecken</td><td colspan="3">2.– je kg/l</td></tr>
+<tr><td>4</td><td>Alkoholische Getränke:</td><td colspan="3"></td></tr>
+<tr><td>[tab]</td><td>– mit einem Alkoholgehalt bis 18 % Vol.</td><td colspan="3">[tab] 2.– je l</td></tr>
+<tr><td>[tab]</td><td>– mit einem Alkoholgehalt von über 18 % Vol.</td><td colspan="3">[tab] 15.– je l</td></tr>
+<tr><td>5</td><td>Tabakfabrikate:</td><td colspan="2"></td></tr>
+<tr><td>[tab]</td><td>– Zigaretten/Zigarren/Tabakfabrikate zum Erhitzen</td><td colspan="2">[tab] –.25 je Stück</td></tr>
+<tr><td>[tab]</td><td>– andere Tabakfabrikate</td><td colspan="2">[tab] –.10 je Gramm</td></tr>
+<tr><td>[tab]</td><td>– nikotinhaltige Erzeugnisse zur Verwendung in elektronischen Zigaretten</td><td colspan="2">[tab] –.25 je Milliliter</td></tr>
+<tr><td>[tab]</td><td>– nikotinhaltige Kartuschen</td><td colspan="2">[tab] –.25 je Stück</td></tr>
+<tr><td>[tab]</td><td>– elektronische Einwegzigaretten</td><td colspan="2">[tab] 2.50 je Stück</td></tr>
+<tr><td>6</td><td>Treibstoffe</td><td colspan="2">–.80 je l</td></tr>
+<tr><td>7</td><td>Andere Waren</td><td colspan="3">zollfrei</td></tr>
 </table>
 
-Anhang 2*[^t-2]*
+Anhang 2[^t-2]
 
 (Art. 27 Abs. 1)
 

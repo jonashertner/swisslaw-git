@@ -4,11 +4,11 @@ title: Ordinanza del DFF del 4 aprile 2007 sulle dogane (OD-DFF)
 short: OD-DFF
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/251"
 language: it
-version: 2022-01-01
+version: 2024-10-01
 adopted: 2007-04-04
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/251/20220101/it/xml/fedlex-data-admin-ch-eli-cc-2007-251-20220101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/251/20220101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/251/20241001/it/xml/fedlex-data-admin-ch-eli-cc-2007-251-20241001-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/251/20241001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/251/20220101/it"
 
 (OD-DFF)
 
-del 4 aprile 2007 (Stato 1° gennaio 2022)
+del 4 aprile 2007 (Stato 1° ottobre 2024)
 
 Il Dipartimento federale delle finanze (DFF),
 
@@ -27,7 +27,7 @@ ordina:
 
 [^ingress-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^ingress-2]: [RS 631.01](https://fedlex.data.admin.ch/eli/cc/2007/250)
-[^ingress-3]: [[RU 2001 267](https://fedlex.data.admin.ch/eli/oc/2001/56); [2003 1801](https://fedlex.data.admin.ch/eli/oc/2003/269)art. 19, [2122](https://fedlex.data.admin.ch/eli/oc/2003/311), [3687](https://fedlex.data.admin.ch/eli/oc/2003/525)all. n. II 1; [2007 1409](https://fedlex.data.admin.ch/eli/oc/2007/248); [2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)n. II 1; [5363](https://fedlex.data.admin.ch/eli/oc/2008/750)all. n. 2. [RU 2010 635](https://fedlex.data.admin.ch/eli/oc/2010/98)art. 28]. Vedi ora l’O del 17 feb. 2010 ([RS 172.215.1](https://fedlex.data.admin.ch/eli/cc/2010/98)).
+[^ingress-3]: [[RU 2001 267](https://fedlex.data.admin.ch/eli/oc/2001/56); [2003 1801](https://fedlex.data.admin.ch/eli/oc/2003/269)art. 19, [2122](https://fedlex.data.admin.ch/eli/oc/2003/311), [3687](https://fedlex.data.admin.ch/eli/oc/2003/525)all. cifra II n. 1; [2007 1409](https://fedlex.data.admin.ch/eli/oc/2007/248); [2008 2181](https://fedlex.data.admin.ch/eli/oc/2008/319)cifra II n. 1; [5363](https://fedlex.data.admin.ch/eli/oc/2008/750)all. n. 2. [RU 2010 635](https://fedlex.data.admin.ch/eli/oc/2010/98)art. 28]. Vedi ora l’O del 17 feb. 2010 ([RS 172.215.1](https://fedlex.data.admin.ch/eli/cc/2010/98)).
 
 ## Sezione 1: Invii regalo
 
@@ -44,7 +44,7 @@ Il limite di franchigia di cui al capoverso 1 non si applica a:
 - a.[^1-1] i tabacchi manufatti;
 - b. le bevande alcoliche.
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del DFF del 2 apr. 2014, in vigore dal 1° lug. 2014 ([RU 2014 983](https://fedlex.data.admin.ch/eli/oc/2014/219)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del DFF del 2 apr. 2014, in vigore dal 1° lug. 2014 ([RU 2014 983](https://fedlex.data.admin.ch/eli/oc/2014/219)).
 
 ## Sezione 2: Traffico turistico
 
@@ -52,7 +52,7 @@ Il limite di franchigia di cui al capoverso 1 non si applica a:
 
 [^2-1]
 
-[^2-1]: Abrogato dal n. I dell’O del DFF del 2 apr. 2014, con effetto dal 1° lug. 2014 ([RU 2014 983](https://fedlex.data.admin.ch/eli/oc/2014/219)).
+[^2-1]: Abrogato dalla cifra I dell’O del DFF del 2 apr. 2014, con effetto dal 1° lug. 2014 ([RU 2014 983](https://fedlex.data.admin.ch/eli/oc/2014/219)).
 
 #### Art. 3
 
@@ -66,7 +66,7 @@ Il limite di franchigia di cui al capoverso 1 non si applica a:
 
 <sup>3</sup> Le aliquote forfetarie non comprendono l’imposta sul valore aggiunto nonché tutte le altre imposte e tasse.
 
-[^3-1]: Abrogata dal n. I dell’O del DFF del 2 apr. 2014, con effetto dal 1° lug. 2014 ([RU 2014 983](https://fedlex.data.admin.ch/eli/oc/2014/219)).
+[^3-1]: Abrogata dalla cifra I dell’O del DFF del 2 apr. 2014, con effetto dal 1° lug. 2014 ([RU 2014 983](https://fedlex.data.admin.ch/eli/oc/2014/219)).
 
 ## Sezione 3: Passaggio transfrontaliero di animali per il pascolo
 
@@ -190,7 +190,7 @@ L’elenco degli animali deve contenere i seguenti dati:
 
 L’Ufficio federale della dogana e della sicurezza dei confini (UDSC)[^14-2] è abilitato a verificare il registro del bestiame durante il pascolo transfrontaliero.
 
-[^14-1]: Nuovo testo giusta il n. I dell’O del DFF del 19 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3681](https://fedlex.data.admin.ch/eli/oc/2016/616)).
+[^14-1]: Nuovo testo giusta la cifra I dell’O del DFF del 19 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3681](https://fedlex.data.admin.ch/eli/oc/2016/616)).
 [^14-2]: La designazione dell’unità amministrativa è adattata in applicazione dell’art. 20 cpv. 2 dell’O del 7 ott. 2015 sulle pubblicazioni ufficiali ([RS 170.512.1](https://fedlex.data.admin.ch/eli/cc/2015/670)), con effetto dal 1° gen. 2022 ([RU 2021 589](https://fedlex.data.admin.ch/eli/oc/2021/589)). Di detta mod. è tenuto conto in tutto il presente testo.
 
 ## Sezione 4: Obbligazione doganale
@@ -209,7 +209,7 @@ L’obbligazione doganale può essere pagata come segue:
 - d. mediante carta di debito o credito accettata dall’UDSC;
 - e. mediante assegni accettati dall’UDSC.
 
-[^15-1]: Nuovo testo giusta il n. I dell’O del DFF del 19 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3681](https://fedlex.data.admin.ch/eli/oc/2016/616)).
+[^15-1]: Nuovo testo giusta la cifra I dell’O del DFF del 19 ott. 2016, in vigore dal 1° gen. 2017 ([RU 2016 3681](https://fedlex.data.admin.ch/eli/oc/2016/616)).
 
 #### Art. 16
 
@@ -229,7 +229,7 @@ L’obbligazione doganale può essere pagata come segue:
 
 L’importo dell’interesse di mora e di quello rimunerativo nonché la deroga all’obbligo di pagamento dell’interesse sono disciplinati nell’ordinanza del DFF dell’11 dicembre 2009[^17-2] concernente l’interesse moratorio e rimuneratorio.
 
-[^17-1]: Nuovo testo giusta il n. I dell’O del DFF del 25 feb. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1073](https://fedlex.data.admin.ch/eli/oc/2011/159)).
+[^17-1]: Nuovo testo giusta la cifra I dell’O del DFF del 25 feb. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1073](https://fedlex.data.admin.ch/eli/oc/2011/159)).
 [^17-2]: [RS 641.207.1](https://fedlex.data.admin.ch/eli/cc/2009/834)
 
 ## Sezione 5: Realizzazione del pegno doganale e vendita di titoli
@@ -238,7 +238,7 @@ L’importo dell’interesse di mora e di quello rimunerativo nonché la deroga 
 
 [^18-1]
 
-[^18-1]: Abrogato dal n. I dell’O del DFF del 27 giu. 2012, con effetto dal 1° ago. 2012 ([RU 2012 3845](https://fedlex.data.admin.ch/eli/oc/2012/448)).
+[^18-1]: Abrogato dalla cifra I dell’O del DFF del 27 giu. 2012, con effetto dal 1° ago. 2012 ([RU 2012 3845](https://fedlex.data.admin.ch/eli/oc/2012/448)).
 
 #### Art. 19
 
@@ -258,8 +258,8 @@ Essa informa le seguenti persone per lettera raccomandata in merito alla realizz
 - b. il proprietario del pegno doganale;
 - c. le persone che possiedono o custodiscono la merce o la cosa.
 
-[^19-1]: Nuovo testo del rimando giusta il n. I dell’O del DFF del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3845](https://fedlex.data.admin.ch/eli/oc/2012/448)).
-[^19-2]: Nuovo testo giusta il n. I dell’O del DFF del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3845](https://fedlex.data.admin.ch/eli/oc/2012/448)).
+[^19-1]: Nuovo testo del rimando giusta la cifra I dell’O del DFF del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3845](https://fedlex.data.admin.ch/eli/oc/2012/448)).
+[^19-2]: Nuovo testo giusta la cifra I dell’O del DFF del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3845](https://fedlex.data.admin.ch/eli/oc/2012/448)).
 
 #### Art. 20
 
@@ -280,7 +280,7 @@ Prima di procedere all’incanto, l’UDSC stabilisce le condizioni dello stesso
 
 <sup>2</sup> L’UDSC stabilisce il prezzo minimo di aggiudicazione in modo tale che corrisponda all’importo del credito garantito dal pegno doganale.
 
-[^20-1]: Nuovo testo del rimando giusta il n. I dell’O del DFF del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3845](https://fedlex.data.admin.ch/eli/oc/2012/448)).
+[^20-1]: Nuovo testo del rimando giusta la cifra I dell’O del DFF del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3845](https://fedlex.data.admin.ch/eli/oc/2012/448)).
 [^20-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 #### Art. 21
@@ -301,7 +301,7 @@ Prima di procedere all’incanto, l’UDSC stabilisce le condizioni dello stesso
 
 <sup>5</sup> L’incanto può essere impugnato conformemente all’articolo 230 CO[^21-2].
 
-[^21-1]: Nuovo testo del rimando giusta il n. I dell’O del DFF del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3845](https://fedlex.data.admin.ch/eli/oc/2012/448)).
+[^21-1]: Nuovo testo del rimando giusta la cifra I dell’O del DFF del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3845](https://fedlex.data.admin.ch/eli/oc/2012/448)).
 [^21-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 #### Art. 22
@@ -318,7 +318,7 @@ Prima di procedere all’incanto, l’UDSC stabilisce le condizioni dello stesso
 
 <sup>3</sup> Se il deliberatario non osserva i propri impegni, l’UDSC può sia rescindere il contratto di vendita sia esigere il prezzo ricorrendo alla garanzia in sue mani.
 
-[^22-1]: Nuovo testo del rimando giusta il n. I dell’O del DFF del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3845](https://fedlex.data.admin.ch/eli/oc/2012/448)).
+[^22-1]: Nuovo testo del rimando giusta la cifra I dell’O del DFF del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3845](https://fedlex.data.admin.ch/eli/oc/2012/448)).
 [^22-2]: [RS 220](https://fedlex.data.admin.ch/eli/cc/27/317_321_377)
 
 #### Art. 23
@@ -337,13 +337,13 @@ Prima di procedere all’incanto, l’UDSC stabilisce le condizioni dello stesso
 
 <sup>4</sup> Se il pegno doganale rimane invenduto anche dopo il secondo incanto, si procede a una vendita a trattativa privata.
 
-[^23-1]: Nuovo testo del rimando giusta il n. I dell’O del DFF del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3845](https://fedlex.data.admin.ch/eli/oc/2012/448)).
+[^23-1]: Nuovo testo del rimando giusta la cifra I dell’O del DFF del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3845](https://fedlex.data.admin.ch/eli/oc/2012/448)).
 
 #### Art. 24 e 25
 
 [^2425-1]
 
-[^2425-1]: Abrogati dal n. I dell’O del DFF del 27 giu. 2012, con effetto dal 1° ago. 2012 ([RU 2012 3845](https://fedlex.data.admin.ch/eli/oc/2012/448)).
+[^2425-1]: Abrogati dalla cifra I dell’O del DFF del 27 giu. 2012, con effetto dal 1° ago. 2012 ([RU 2012 3845](https://fedlex.data.admin.ch/eli/oc/2012/448)).
 
 #### Art. 26
 
@@ -366,7 +366,7 @@ La vendita di titoli è ammessa soltanto se:
 
 <sup>4</sup> Per il rimanente si applica per analogia l’articolo 25.
 
-[^26-1]: Nuovo testo del rimando giusta il n. I dell’O del DFF del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3845](https://fedlex.data.admin.ch/eli/oc/2012/448)).
+[^26-1]: Nuovo testo del rimando giusta la cifra I dell’O del DFF del 27 giu. 2012, in vigore dal 1° ago. 2012 ([RU 2012 3845](https://fedlex.data.admin.ch/eli/oc/2012/448)).
 
 ## Sezione 6: Ufficio federale della dogana e della sicurezza dei confini
 
@@ -386,14 +386,14 @@ La vendita di titoli è ammessa soltanto se:
 
 <sup>4</sup> Il capo del Corpo delle guardie di confine può assegnare temporaneamente un grado superiore ai membri del Corpo delle guardie di confine che, nell’esercizio della loro funzione, espletano compiti particolarmente impegnativi.[^27-2]
 
-[^27-1]: Nuovo testo giusta il n. I dell’O del DFF I dell’8 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 858](https://fedlex.data.admin.ch/eli/oc/2021/858)).
-[^27-2]: Introdotto dal n. I dell’O del DFF del 25 feb. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1073](https://fedlex.data.admin.ch/eli/oc/2011/159)).
+[^27-1]: Nuovo testo giusta la cifra I dell’O del DFF I dell’8 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 858](https://fedlex.data.admin.ch/eli/oc/2021/858)).
+[^27-2]: Introdotto dalla cifra I dell’O del DFF del 25 feb. 2011, in vigore dal 1° apr. 2011 ([RU 2011 1073](https://fedlex.data.admin.ch/eli/oc/2011/159)).
 
 #### Art. 28
 
 [^28-1]
 
-[^28-1]: Abrogato dal n. I dell’O del DFF del 19 ott. 2016, con effetto dal 1° gen. 2017 ([RU 2016 3681](https://fedlex.data.admin.ch/eli/oc/2016/616)).
+[^28-1]: Abrogato dalla cifra I dell’O del DFF del 19 ott. 2016, con effetto dal 1° gen. 2017 ([RU 2016 3681](https://fedlex.data.admin.ch/eli/oc/2016/616)).
 
 #### Art. 29
 
@@ -414,13 +414,13 @@ Il territorio svizzero è suddiviso nei seguenti sei circondari doganali:
 
 <sup>2</sup> Il territorio svizzero è suddiviso in sei regioni guardie di confine. Esse corrispondono ai circondari doganali di cui al capoverso 1.
 
-[^29-1]: Nuovo testo giusta il n. I dell’O del DFF del 25 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2135](https://fedlex.data.admin.ch/eli/oc/2020/421)).
+[^29-1]: Nuovo testo giusta la cifra I dell’O del DFF del 25 mag. 2020, in vigore dal 1° lug. 2020 ([RU 2020 2135](https://fedlex.data.admin.ch/eli/oc/2020/421)).
 
 #### Art. 29a
 
 [^29a-1]
 
-[^29a-1]: Introdotto dal n. I dell’O del DFF del 25 feb. 2011 ([RU 2011 1073](https://fedlex.data.admin.ch/eli/oc/2011/159)). Abrogato dal n. I dell’O del DFF del 25 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2135](https://fedlex.data.admin.ch/eli/oc/2020/421)).
+[^29a-1]: Introdotto dalla cifra I dell’O del DFF del 25 feb. 2011 ([RU 2011 1073](https://fedlex.data.admin.ch/eli/oc/2011/159)). Abrogato dalla cifra I dell’O del DFF del 25 mag. 2020, con effetto dal 1° lug. 2020 ([RU 2020 2135](https://fedlex.data.admin.ch/eli/oc/2020/421)).
 
 ## Sezione 7: Disposizioni finali
 
@@ -442,7 +442,7 @@ Allegato 1[^t-1]
 
 ## Tariffa doganale per il traffico turistico
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del DFF del 2 apr. 2014 ([RU 2014 983](https://fedlex.data.admin.ch/eli/oc/2014/219)). Aggiornato dal n. I dell’O del DFF del 5 dic. 2015, in vigore dal 1° gen. 2016 ([RU 2015 5655](https://fedlex.data.admin.ch/eli/oc/2015/885)).
+[^t-1]: Nuovo testo giusta la cifra II dell’O del DFF del 2 apr. 2014 ([RU 2014 983](https://fedlex.data.admin.ch/eli/oc/2014/219)). Aggiornato dalla cifra I delle O del DFF del 5 dic. 2015 ([RU 2015 5655](https://fedlex.data.admin.ch/eli/oc/2015/885)) e del 30 ago. 2024, in vigore dal 1° ott. 2024 ([RU 2024 477](https://fedlex.data.admin.ch/eli/oc/2024/477)).
 
 <table>
 <tr><th>Gruppo tariffale</th><th>Designazione della merce</th><th>Aliquota forfetaria (franchi)</th></tr>
@@ -452,8 +452,13 @@ Allegato 1[^t-1]
 <tr><td>2</td><td>Burro, crema di latte</td><td>16.– il kg/l</td></tr>
 <tr><td>3</td><td>Oli, grassi, margarina per l’alimentazione umana</td><td>2.– il kg/l</td></tr>
 <tr><td>4</td><td>Bevande alcoliche: – con tenore alcolico fino a 18 % vol. – con tenore alcolico superiore a 18 % vol.</td><td>2.– il l 15.– il l</td></tr>
-<tr><td>5</td><td>Tabacchi manufatti: – sigarette/sigari – altri tabacchi manufatti</td><td>0.25 il pezzo 0.10 il g</td></tr>
-<tr><td>6</td><td>Carburanti</td><td>0.75 il l</td></tr>
+<tr><td>5</td><td>Tabacchi manufatti:</td><td></td></tr>
+<tr><td>[tab]</td><td>– sigarette/sigari/tabacchi manufatti da riscaldare</td><td>[tab] 0.25 il pezzo</td></tr>
+<tr><td>[tab]</td><td>– altri tabacchi manufatti</td><td>[tab] 0.10 il g</td></tr>
+<tr><td>[tab]</td><td>– prodotti contenenti nicotina da utilizzare nelle sigarette elettroniche</td><td>[tab] 0.25 il ml</td></tr>
+<tr><td>[tab]</td><td>– cartucce contenenti nicotina</td><td>[tab] 0.25 il pezzo</td></tr>
+<tr><td>[tab]</td><td>– sigarette elettroniche monouso</td><td>[tab] 2.50 il pezzo</td></tr>
+<tr><td>6</td><td>Carburanti</td><td>0.80 il l</td></tr>
 <tr><td>7</td><td>Altre merci</td><td>esenti</td></tr>
 </table>
 
@@ -463,7 +468,7 @@ Allegato 2[^t-2]
 
 ## Funzioni e gradi nel Corpo delle guardie di confine
 
-[^t-2]: Nuovo testo giusta il n. II dell’O del DFF dell’8 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 858](https://fedlex.data.admin.ch/eli/oc/2021/858)).
+[^t-2]: Nuovo testo giusta la cifra II dell’O del DFF dell’8 dic. 2021, in vigore dal 1° gen. 2022 ([RU 2021 858](https://fedlex.data.admin.ch/eli/oc/2021/858)).
 
 <table>
 <tr><th>Funzione</th><th>Grado</th></tr>

@@ -4,11 +4,11 @@ title: Ordonnance du DFF du 4 avril 2007 sur les douanes (OD-DFF)
 short: OD-DFF
 eli: "https://fedlex.data.admin.ch/eli/cc/2007/251"
 language: fr
-version: 2022-01-01
+version: 2024-10-01
 adopted: 2007-04-04
 in_force: 2007-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/251/20220101/fr/xml/fedlex-data-admin-ch-eli-cc-2007-251-20220101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2007/251/20220101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2007/251/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-2007-251-20241001-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2007/251/20241001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2007/251/20220101/fr"
 
 (OD-DFF)
 
-du 4 avril 2007 (Etat le 1<sup>er</sup> janvier 2022)
+du 4 avril 2007 (État le 1<sup>er</sup> octobre 2024)
 
 Le Département fédéral des finances (DFF),
 
@@ -56,7 +56,7 @@ Sont exclus de la franchise-valeur visée à l’al. 1:
 
 #### Art. 3
 
-**...[^3-1]**
+**…[^3-1]**
 
 <sup>1</sup> Les marchandises passibles de droits de douane dans le trafic touristique sont soumises aux taux forfaitaires mentionnés dans l’annexe 1.
 
@@ -436,13 +436,13 @@ L’abrogation du droit en vigueur est réglée dans l’annexe 3.
 
 La présente ordonnance entre en vigueur le 1<sup>er</sup> mai 2007.
 
-Annexe 1*[^t-1]*
+Annexe 1[^t-1]
 
 (art. 3)
 
 ## Tarif des douanes pour le trafic touristique
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O du DFF du 2 avr. 2014 ([RO 2014 983](https://fedlex.data.admin.ch/eli/oc/2014/219)). Mise à jour selon le ch. I de l’O du DFF du 5 déc. 2015, en vigueur depuis le 1<sup>er</sup> janv. 2016 ([RO 2015 5655](https://fedlex.data.admin.ch/eli/oc/2015/885)).
+[^t-1]: Nouvelle teneur selon le ch. II de l’O du DFF du 2 avr. 2014 ([RO 2014 983](https://fedlex.data.admin.ch/eli/oc/2014/219)). Mise à jour par le ch. I des O du DFF du 5 déc. 2015 ([RO 2015 5655](https://fedlex.data.admin.ch/eli/oc/2015/885)) et du 30 août 2024, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 477](https://fedlex.data.admin.ch/eli/oc/2024/477)).
 
 <table>
 <tr><th>Groupe tarifaire</th><th>Désignation des marchandises</th><th>Taux forfaitaire en francs</th></tr>
@@ -455,13 +455,16 @@ Annexe 1*[^t-1]*
 <tr><td></td><td>– d’une teneur en alcool n’excédant pas 18 % vol.</td><td>2.— par l</td></tr>
 <tr><td></td><td>– d’une teneur en alcool excédant 18 % vol.</td><td>15.— par l</td></tr>
 <tr><td>5</td><td>Tabacs manufacturés:</td><td></td></tr>
-<tr><td></td><td>– cigarettes/cigares</td><td>0.25 par pièce</td></tr>
-<tr><td></td><td>– autres tabacs manufacturés</td><td>0.10 par gr</td></tr>
-<tr><td>6</td><td>Carburants</td><td>0.75 par l</td></tr>
+<tr><td></td><td>– cigarettes/cigares/tabacs manufacturés destinés à être chauffés</td><td>–.25 par pièce</td></tr>
+<tr><td></td><td>– autres tabacs manufacturés</td><td>–.10 par gr</td></tr>
+<tr><td></td><td>– produits contenant de la nicotine destinés à être consommés au moyen de cigarettes électroniques</td><td>–.25 par ml</td></tr>
+<tr><td></td><td>– cartouches contenant de la nicotine</td><td>–.25 par pièce</td></tr>
+<tr><td></td><td>– cigarettes électroniques jetables</td><td>2.50 par pièce</td></tr>
+<tr><td>6</td><td>Carburants</td><td>–.80 par l</td></tr>
 <tr><td>7</td><td>Autres marchandises</td><td>exemptes de droits</td></tr>
 </table>
 
-Annexe 2*[^t-2]*
+Annexe 2[^t-2]
 
 (art. 27, al. 1)
 
