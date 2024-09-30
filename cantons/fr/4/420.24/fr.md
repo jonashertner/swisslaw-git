@@ -4,13 +4,12 @@ number: "420.24"
 title: "Règlement relatif au personnel enseignant dépendant de la Direction de l'économie, de l'emploi et de la formation professionnelle"
 short: RPEns DEEF
 language: fr
-version: 2024-08-01
-valid_until: 2024-09-30
+version: 2024-10-01
 version_adopted: 2024-10-01
 adopted: 2011-10-11
 in_force: 2011-09-01
 url: "https://bdlf.fr.ch/app/fr/texts_of_law/420.24"
-pdf: "https://bdlf.fr.ch/api/fr/versions/8053/pdf_file"
+pdf: "https://bdlf.fr.ch/api/fr/versions/8551/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton FR. Seule la publication officielle du canton fait foi.
@@ -21,7 +20,7 @@ Personnel enseignant de la DEEF – R
 
 (RPEns DEEF)
 
-du 11.10.2011 (version entrée en vigueur le 01.08.2024)
+du 11.10.2011 (version entrée en vigueur le 01.10.2024)
 
 Le Conseil d'Etat du canton de Fribourg
 
@@ -43,7 +42,7 @@ Arrête:
 
 **Objet**
 
-<sup>1</sup> Le présent règlement contient les dispositions particulières et complémentaires à la loi sur le personnel de l'Etat et son règlement, à la loi fédérale sur la formation professionnelle et son ordonnance et à la loi sur la formation professionnelle et son règlement.
+<sup>1</sup> Le présent règlement précise et complète, pour le personnel auquel il s'applique, les dispositions relatives à ce personnel figurant dans les législations fédérale et cantonale sur la formation professionnelle, ainsi que dans la législation cantonale sur le personnel.
 
 #### Art. 2
 
@@ -57,7 +56,7 @@ Arrête:
 
 **Personnel enseignant**
 
-<sup>1</sup> Sont considérés comme personnel enseignant les maîtres et maîtresses professionnels des écoles professionnelles, de stages et de métiers (ci-après: les Ecoles).
+<sup>1</sup> Sont considérés comme personnel enseignant les maîtres et maîtresses professionnels des écoles professionnelles duales, de stages et de métiers ainsi que les enseignants et enseignantes des écoles supérieures.
 
 <sup>2</sup> Les intervenants et intervenantes externes mandatés pour des cours ponctuels sont soumis à une réglementation particulière.
 
@@ -65,9 +64,9 @@ Arrête:
 
 **Service de la formation professionnelle**
 
-<sup>1</sup> Le Service de la formation professionnelle (ci-après: le Service) est l'unité administrative à laquelle est rattaché le personnel des Ecoles professionnelles. A ce titre, il exerce toutes les tâches de gestion du personnel dévolues aux unités administratives par la loi sur le personnel de l'Etat et le règlement du personnel de l'Etat. Restent en outre réservées les compétences qui pourraient lui être confiées en vertu d'une convention entre la Direction et le Service du personnel et d'organisation (ci-après: le SPO) en application de l'article 6 al. 2 RPers (création d'une entité de gestion).
+<sup>1</sup> Le Service de la formation professionnelle (ci-après: le Service) est l'unité administrative à laquelle est rattaché le personnel enseignant des écoles professionnelles duales, de stages, de métiers et des écoles supérieures (ci-après: les Ecoles). A ce titre, il exerce toutes les tâches de gestion du personnel dévolues aux unités administratives par la loi sur le personnel de l'Etat et le règlement du personnel de l'Etat.
 
-<sup>2</sup> La Direction, en tant qu'autorité d'engagement du personnel des Ecoles, peut déléguer au Service une partie de ses attributions en matière de gestion du personnel.
+<sup>2</sup> La Direction, en tant qu'autorité d'engagement du personnel enseignant des Ecoles, peut déléguer au Service une partie de ses attributions en matière de gestion du personnel.
 
 #### Art. 5
 
@@ -79,13 +78,17 @@ Arrête:
 
 <sup>1</sup> Les directeurs et directrices des Ecoles ainsi que les doyens et doyennes sont considérés comme personnel administratif et assument en outre toutes les tâches de gestion du personnel dévolues aux supérieur‑e‑s hiérarchiques par la législation sur le personnel de l'Etat.
 
-<sup>2</sup> Les directeurs et directrices des Ecoles sont compétents pour exercer les attributions découlant des articles 67 al. 1, 68 al. 1 let. a, 70 al. 1 let. a pour les congés jusqu'à trois jours, 79 al. 2 et 123 al. 2 RPers.
+<sup>2</sup> Les directeurs et directrices des Ecoles sont compétents pour exercer les attributions découlant des articles 67 al. 1, 68 al. 1 let. a, 70 al. 1 let. a pour les congés jusqu'à trois jours, 79 al. 2 et 123 al. 2 RPers[^5a-1].
 
 <sup>3</sup> Les doyens et doyennes sont membres de la direction de l'Ecole, sous l'autorité et la responsabilité du directeur ou de la directrice. Ils dirigent la section sous ses aspects tant pédagogiques qu'administratifs. Ils assurent la responsabilité pédagogique du personnel enseignant qui leur est subordonné.
 
-<sup>4</sup> La fonction de doyen ou doyenne comprend également une part d'enseignement correspondant à 25 % d'un plein-temps. Cette activité fait partie intégrante du temps de travail comme personnel administratif selon le contrat d'engagement. Le taux dévolu à l'enseignement et les tâches qui y sont liées sont régis par les articles 17 et 18 du présent règlement.
+<sup>4</sup> La fonction de doyen ou doyenne comprend également une part d'enseignement correspondant à 25 % d'un plein-temps. L'enseignement fait partie intégrante du temps de travail comme personnel administratif selon le contrat d'engagement. Le taux dévolu à l'enseignement et les tâches qui y sont liées sont régis par les articles 17 et 18 du présent règlement.
 
-<sup>5</sup> Les doyens et doyennes sont engagés par un seul contrat qui indique les traitements des activités de «doyen/ne» et de «maître/sse professionnel/le». Une résiliation du contrat d'engagement est valable pour les deux activités.
+<sup>5</sup> Les doyens et doyennes sont engagés par un seul contrat qui indique les traitements des activités de «doyen/doyenne» et de «maître/maîtresse professionnel-le» ou «d'enseignant/enseignante ES».
+
+<sup>6</sup> Une résiliation du contrat d'engagement est valable pour les deux activités.
+
+[^5a-1]: RSF [122.70.11](https://bdlf.fr.ch/data/122.70.11/fr)
 
 #### Art. 6
 
@@ -96,6 +99,10 @@ Arrête:
 <sup>2</sup> Pour le personnel enseignant des Ecoles, l'année administrative commence le 1<sup>er</sup> août et s'achève le 31 juillet.
 
 ## 2 Procédure d'engagement (art. 14 à 27 et 150 RPers)
+
+[^6-1]
+
+[^6-1]: RSF [122.70.11](https://bdlf.fr.ch/data/122.70.11/fr)
 
 #### Art. 7
 
@@ -115,9 +122,9 @@ Arrête:
 
 **Publication**
 
-<sup>1</sup> La mise au concours est publiée sur le site Internet de l'Etat de Fribourg et par voie d'annonce dans la Feuille officielle.
+<sup>1</sup> Les mises au concours sont publiées conformément au règlement sur le personnel de l'Etat.
 
-<sup>2</sup> Elle peut être étendue à d'autres sites, à d'autres journaux ou à des revues spécialisées.
+<sup>2</sup> Elles peuvent être étendues à d'autres journaux ou à des revues spécialisées.
 
 #### Art. 9
 
@@ -125,7 +132,7 @@ Arrête:
 
 <sup>1</sup> Les offres de service sont adressées aux directions des Ecoles.
 
-<sup>2</sup> A la demande du Service, les directions des Ecoles établissent la liste des candidatures à l'intention du Service et de l'autorité d'engagement.
+<sup>2</sup> Le Service et l'autorité d'engagement peuvent consulter les offres de service.
 
 #### Art. 10
 
@@ -143,13 +150,26 @@ Arrête:
 
 <sup>2</sup> Le choix entre les personnes candidates se fait en considération de leur formation spécialisée, attestée par un diplôme du degré tertiaire et un titre pédagogique, de leur expérience, des compétences acquises, de leurs aptitudes et de leurs qualités humaines, selon les exigences de la fonction.
 
-<sup>3</sup> Le directeur ou la directrice de l'Ecole transmet au Service la liste des candidatures retenues, en mentionnant la personne sur laquelle son choix s'est porté. Le ou la chef-fe du Service valide ce choix et le transmet à l'autorité d'engagement qui décide.
+<sup>3</sup> Le directeur ou la directrice de l'école communique au Service le nom du candidat ou de la candidate sur lequel s'est porté son choix. Le ou la chef‑fe du Service décide de l'engagement au nom de l'autorité d'engagement.
 
-<sup>4</sup> Les candidats et candidates retenus sont informés par les Ecoles, sur autorisation de l'autorité d'engagement.
+<sup>4</sup> Le candidat ou la candidate retenu‑e est informé‑e par l'Ecole, sur autorisation du Service, au nom de l'autorité d'engagement.
 
-<sup>5</sup> Au terme de la procédure d'engagement, les Ecoles, au nom de l'autorité d'engagement, informent les candidats et candidates non retenus et renvoient les dossiers de candidature.
+<sup>5</sup> Au terme de la procédure d'engagement, l'école concernée, sur autorisation du Service et au nom de l'autorité d'engagement, informe les candidats et candidates non retenus.
 
 <sup>6</sup> Sur la proposition des directions des Ecoles, le Service édicte une directive relative à la procédure d'engagement.
+
+#### Art. 11a
+
+**Confirmation d'engagement**
+
+<sup>1</sup> Au nom de l'autorité d'engagement, le Service adresse au candidat ou à la candidate retenu‑e une confirmation d'engagement.
+
+<sup>2</sup> Le candidat ou la candidate retenu‑e doit produire un extrait spécial de son casier judiciaire au sens de l'article 42 de la loi fédérale sur le casier judiciaire (LCJ)[^11a-1] et/ou, pour les ressortissants et ressortissantes étrangers non domiciliés en Suisse ou domiciliés récemment en Suisse, un document équivalent.
+
+<sup>3</sup> Durant une période transitoire expirant le 31 décembre 2041, le candidat ou la candidate retenu‑e doit produire en sus un extrait ordinaire de son casier judiciaire au sens de l'article 41 LCJ[^11a-2].
+
+[^11a-1]: RS [330](https://db.clex.ch/link/Bund/330/fr)
+[^11a-2]: RS [330](https://db.clex.ch/link/Bund/330/fr)
 
 #### Art. 12
 
@@ -163,13 +183,13 @@ Arrête:
 
 **Conclusion du contrat**
 
-<sup>1</sup> Le contrat écrit est établi, signé et envoyé par l'autorité d'engagement en trois exemplaires à la personne engagée. Celle-ci en renvoie un exemplaire dûment signé à l'autorité d'engagement et un autre au Service.
+<sup>1</sup> Le contrat écrit est établi, signé et envoyé par le Service en deux exemplaires à la personne engagée. Celle-ci en renvoie un exemplaire dûment signé au Service.
 
-<sup>2</sup> Le contrat est communiqué par l'autorité d'engagement au Service, à la direction des Ecoles, au SPO et à la Caisse de prévoyance du personnel de l'Etat.
+<sup>2</sup> Le contrat est communiqué par le Service à l'autorité d'engagement, à la direction de l'école, au Service du personnel et d'organisation (ci-après: le SPO) et à la Caisse de prévoyance du personnel de l'Etat.
 
 <sup>3</sup> En cas de contrat oral, le contrat est conclu dès l'échange des consentements.
 
-<sup>4</sup> La personne qui entend renoncer à son engagement doit le signifier par écrit à l'autorité d'engagement, dans les cinq jours qui suivent la communication de l'engagement. Passé ce délai, elle est considérée comme ayant donné son accord à l'autorité d'engagement.
+<sup>4</sup> La personne qui entend renoncer à son engagement doit le signifier par écrit au Service dans les cinq jours qui suivent la communication de l'engagement. Passé ce délai, elle est considérée comme ayant donné son accord à l'autorité d'engagement.
 
 #### Art. 14
 
@@ -189,6 +209,14 @@ Arrête:
 
 <sup>4</sup> L'autorité d'engagement peut renoncer, dès l'engagement, à tout ou partie de la période probatoire, lorsque l'enseignant ou l'enseignante a déjà exercé antérieurement la fonction concernée. De même, l'autorité d'engagement peut imposer une période probatoire à l'enseignant ou à l'enseignante qui, en cours d'emploi, augmente son taux d'activité de manière significative.
 
+#### Art. 14a
+
+**Démission**
+
+<sup>1</sup> Le personnel enseignant engagé pour une durée indéterminée peut démissionner moyennant le respect d'un délai de résiliation de six mois, pour la fin d'une année administrative, conformément à l'article 6 al. 2 du présent règlement.
+
+<sup>2</sup> La démission peut être présentée pour un autre terme en cas de justes motifs ou si les parties en conviennent ainsi.
+
 #### Art. 15
 
 **Garantie de poste**
@@ -207,7 +235,7 @@ Arrête:
 
 **Définition du mandat professionnel**
 
-<sup>1</sup> Le mandat professionnel est une approche qualitative et quantitative de l'activité professionnelle du corps enseignant dans son ensemble. Il comprend le descriptif des champs d'activité et la détermination du temps de travail dévolu à chacun de ces champs.
+<sup>1</sup> Le mandat professionnel est une approche qualitative et quantitative de l'activité professionnelle du personnel enseignant dans son ensemble. Il comprend le descriptif des champs d'activité et la détermination du temps de travail dévolu à chacun de ces champs.
 
 <sup>2</sup> …
 
@@ -219,17 +247,17 @@ Arrête:
 
 **Descriptif des champs d'activité**
 
-<sup>1</sup> Les tâches du corps enseignant s'inscrivent dans quatre champs d'activité:
+<sup>1</sup> Les tâches du personnel enseignant s'inscrivent dans quatre champs d'activité:
 
 - a) l'enseignement, qui comprend:
   - 1\. la planification et la préparation des cours,
   - 2\. l'enseignement proprement dit,
   - 3\. la correction des travaux et l'évaluation des personnes en formation,
   - 4\. les formes particulières d'enseignement définies dans le cahier des charges,
-  - 5\. les tâches en tant qu'expert ou experte aux procédures de qualification, selon l'article 56 al. 2 LFP;
+  - 5\. les tâches en tant qu'expert ou experte aux procédures de qualification, selon l'article 56 al. 2 LFP[^17-1];
 - b) le suivi pédagogique et éducatif des personnes en formation, qui comprend notamment:
   - 1\. l'accueil, le soutien, l'encadrement, l'accompagnement, le conseil et la surveillance des personnes en formation,
-  - 2\. les partenariats avec l'encadrement familial des personnes en formation, les services auxiliaires et les formateurs et formatrices;
+  - 2\. les partenariats avec l'encadrement familial des personnes en formation, les services auxiliaires et les formateurs et formatrices en entreprise;
 - c) le fonctionnement de l'Ecole, qui comprend:
   - 1\. la gestion administrative des personnes en formation,
   - 2\. la concertation et la coordination avec les responsables de classes et les collègues,
@@ -243,11 +271,13 @@ Arrête:
   - 5\. la lecture de la littérature spécialisée,
   - 6\. la supervision et l'intervision.
 
+[^17-1]: RSF [420.1](https://bdlf.fr.ch/data/420.1/fr)
+
 #### Art. 18
 
 **Détermination du temps de travail**
 
-<sup>1</sup> De façon générale, le temps de travail annuel du corps enseignant est équivalent à celui de l'administration cantonale.
+<sup>1</sup> De façon générale, le temps de travail annuel du personnel enseignant est équivalent à celui des collaborateurs et collaboratrices de l'administration cantonale.
 
 <sup>2</sup> Dans le cadre de l'enseignement dispensé dans les Ecoles, le temps de travail est réparti dans chacun des champs d'activité selon le degré, le type d'enseignement et les conditions cadres de travail comme il suit:
 
@@ -266,7 +296,7 @@ Arrête:
 
 #### Art. 20
 
-**Unités d'enseignement hebdomadaire du corps enseignant**
+**Unités d'enseignement hebdomadaire du personnel enseignant**
 
 <sup>1</sup> Le nombre d'unités d'enseignement hebdomadaire pour une activité à 100 % est de 24.
 
@@ -314,32 +344,40 @@ Arrête:
 
 ## 4 Evaluation des prestations (art. 22 al. 2 et 3 et art. 72 LPers)
 
+[^23-1]
+
+[^23-1]: RSF [122.70.1](https://bdlf.fr.ch/data/122.70.1/fr)
+
 #### Art. 24
 
 **Procédure**
 
 <sup>1</sup> L'évaluation du personnel enseignant est fixée par une procédure du Service.
 
-<sup>2</sup> Elle s'applique à l'ensemble du corps enseignant des Ecoles.
+<sup>2</sup> Elle s'applique à l'ensemble du personnel enseignant.
 
 #### Art. 25
 
-**Périodicité (art. 22 al. 2 LPers)**
+**Périodicité (art. 22 al. 2 LPers[^25-1])**
 
 <sup>1</sup> Chaque année, des entretiens sont menés par le doyen ou la doyenne avec les enseignants et enseignantes dont il ou elle a la responsabilité.
 
-<sup>2</sup> Dès le deuxième entretien annuel, une évaluation périodique ordinaire a lieu tous les trois ans.
+<sup>2</sup> …
+
+[^25-1]: RSF [122.70.1](https://bdlf.fr.ch/data/122.70.1/fr)
 
 #### Art. 26
 
-**Evaluation**
+**Entretien**
 
-<sup>1</sup> L'évaluation périodique couvre les quatre champs d'activité mentionnés à l'article 17 du présent règlement et se fonde, notamment, sur les deux axes suivants:
+<sup>1</sup> L'entretien couvre les quatre champs d'activité mentionnés à l'article 17 du présent règlement.
 
-- a) pédagogique (encadrement, suivi et formation continue);
-- b) administratif (collaboration et participation au fonctionnement de l'Ecole).
+- a) …
+- b) …
 
-<sup>2</sup> L'évaluation est réalisée conformément aux articles 22 al. 2 et 3 et 72 LPers et à la procédure du Service.
+<sup>2</sup> L'entretien est réalisé conformément aux articles 22 et 72 LPers[^26-1] et à la procédure du Service.
+
+[^26-1]: RSF [122.70.1](https://bdlf.fr.ch/data/122.70.1/fr)
 
 ## 5 Formation
 
@@ -357,7 +395,9 @@ Arrête:
 
 <sup>1</sup> La formation pédagogique, si elle n'a pas été acquise en milieu académique, est acquise dans les institutions reconnues par la Confédération.
 
-<sup>2</sup> Pour répondre aux exigences des articles 45 et 46 LFPr et des articles 45 et 46 OFPr et aux besoins des Ecoles, l'enseignant ou l'enseignante pressenti-e pour accomplir la formation à la pédagogie professionnelle, en vue de l'obtention des qualifications requises, peut bénéficier d'une aide financière partielle de l'Etat durant sa formation.
+<sup>2</sup> Pour répondre aux exigences des articles 45 et 46 LFPr[^28-1], 45 et 46 OFPr[^28-2], 13 OCM ES[^28-3] et aux besoins des écoles, la personne pressentie pour accomplir la formation à la pédagogie professionnelle, en vue de l'obtention des qualifications requises, peut bénéficier d'une participation financière de l'Etat durant sa formation.
+
+<sup>2a</sup> En vertu de l'article 40 al. 2 OFPr[^28-4], les personnes qui, au début de leur activité, ne répondent pas aux exigences minimales mentionnées à l'alinéa 2, doivent acquérir la qualification correspondante dans un délai de cinq ans. Si la personne ne respecte pas cette obligation, le contrat d'engagement peut être résilié selon les dispositions de la LPers[^28-5].
 
 <sup>3</sup> Le financement de cette formation comprend la prise en charge des frais de formation directs et indirects ainsi que l'octroi d'une décharge. Ce financement fait l'objet d'une convention entre l'autorité d'engagement et la personne engagée. Les dispositions de la réglementation sur la formation du personnel de l'Etat sont en outre applicables, notamment celles qui sont liées à l'obligation de remboursement et du temps de redevance.
 
@@ -365,7 +405,13 @@ Arrête:
 
 <sup>5</sup> L'attribution de la décharge est réglée par les directions des Ecoles, en accord avec le Service.
 
-<sup>6</sup> Les frais de déplacement et de subsistance sont à la charge de l'enseignant ou de l'enseignante.
+<sup>6</sup> …
+
+[^28-1]: RS [412.10](https://db.clex.ch/link/Bund/412.10/fr)
+[^28-2]: RS [412.101](https://db.clex.ch/link/Bund/412.101/fr)
+[^28-3]: RS [412.101.61](https://db.clex.ch/link/Bund/412.101.61/fr)
+[^28-4]: RS [412.101](https://db.clex.ch/link/Bund/412.101/fr)
+[^28-5]: RSF [122.70.1](https://bdlf.fr.ch/data/122.70.1/fr)
 
 #### Art. 29
 
@@ -373,11 +419,13 @@ Arrête:
 
 <sup>1</sup> Dès l'entrée en formation pédagogique et jusqu'à l'obtention du titre, l'enseignant ou l'enseignante est rémunéré-e selon la classe et le palier correspondant à sa formation et à son expérience.
 
-<sup>2</sup> La rémunération est fixée dans une classe inférieure aux classes attribuées à la fonction, en application de l'article 87 LPers.
+<sup>2</sup> La rémunération est fixée dans une classe inférieure aux classes attribuées à la fonction, en application de l'article 87 LPers[^29-1].
 
 <sup>3</sup> Dès le début du mois suivant l'obtention du titre pédagogique requis, la rémunération du personnel enseignant est fixée selon la fonction de référence de maître ou maîtresse professionnel‑le ou enseignant ES ou enseignante ES. Des paliers sont octroyés pour les années d'enseignement effectuées durant la formation pédagogique, selon l'échelle d'expérience professionnelle.
 
 <sup>4</sup> …
+
+[^29-1]: RSF [122.70.1](https://bdlf.fr.ch/data/122.70.1/fr)
 
 #### Art. 30
 
@@ -385,23 +433,25 @@ Arrête:
 
 #### Art. 31
 
-**Formation continue (art. 121 LPers)**
+**Formation continue (art. 121 LPers[^31-1])**
 
 <sup>1</sup> La formation continue prend les formes suivantes:
 
-- a) une partie obligatoire, sur décision de la direction de l'Ecole; dans ce cas, le corps enseignant y est astreint, quel que soit le taux d'activité;
+- a) une partie obligatoire, sur décision de la direction de l'Ecole; dans ce cas, le personnel enseignant y est astreint, quel que soit le taux d'activité;
 - b) une partie volontaire, choisie individuellement parmi les cours proposés par des institutions reconnues par la Confédération ou dispensée par une autre institution de formation ou par d'autres prestataires de service;
 - c) une partie librement gérée par l'enseignant ou l'enseignante.
 
 <sup>2</sup> Les enseignants et enseignantes peuvent être autorisés à suivre une formation pendant le temps de classe. L'inscription doit être préavisée par la direction de l'Ecole.
 
-<sup>3</sup> La formation continue du corps enseignant est régie par la réglementation relative à la formation continue du personnel de l'Etat.
+<sup>3</sup> La formation continue du personnel enseignant est régie par la réglementation sur la formation du personnel de l'Etat.
+
+[^31-1]: RSF [122.70.1](https://bdlf.fr.ch/data/122.70.1/fr)
 
 #### Art. 32
 
 **Droit d'auteur-e (supports didactiques et moyens d'enseignement)**
 
-<sup>1</sup> Les supports de cours, les diapositives et le matériel didactique élaboré par l'enseignant ou l'enseignante lors de son activité au service de l'Etat et distribué aux élèves appartiennent à l'employeur.
+<sup>1</sup> Les supports de cours et le matériel didactique élaborés par le personnel enseignant lors de son activité au service de l'Etat et distribués aux élèves appartiennent à l'employeur.
 
 <sup>2</sup> L'enseignant ou l'enseignante n'est pas autorisé-e à commercialiser les éléments cités à l'alinéa 1.
 
@@ -449,13 +499,13 @@ Arrête:
 
 <sup>1</sup> La classification du personnel enseignant dans les Ecoles est fixée conformément à la réglementation concernant la classification du personnel de l'Etat.
 
-<sup>2</sup> Le personnel enseignant au bénéfice des titres et exigences requis est classé comme maître ou maîtresse professionnel-le (MP), selon le niveau d'études acquis.
+<sup>2</sup> Le personnel enseignant au bénéfice des titres et exigences requis est classé comme maître ou maîtresse professionnel‑le ou enseignant ES ou enseignante ES, selon le niveau d'études acquis.
 
 <sup>3</sup> Les enseignants et enseignantes qui ne sont pas titulaires des titres et exigences requis sont classés et rémunérés selon l'article 29 du présent règlement.
 
 <sup>4</sup> L'autorité d'engagement peut faire appel à des personnes ne possédant pas encore ou que partiellement les diplômes requis.
 
-<sup>5</sup> La Direction établit une directive, soumise pour préavis au SPO, relative à la classification des maîtres et maîtresses professionnels.
+<sup>5</sup> La Direction établit une directive, soumise au préavis du SPO, relative à la classification des maîtres et maîtresses professionnels et des enseignants et enseignantes ES.
 
 <sup>6</sup> Les articles 27 et suivants du présent règlement restent réservés.
 
@@ -482,6 +532,10 @@ Arrête:
 <sup>1</sup> Les remplacements d'une durée égale ou supérieure à trois mois sont rémunérés mensuellement. Le traitement est versé pendant une période égale au nombre de jours d'enseignement accomplis majoré d'un nombre de jours correspondant au droit aux vacances, aux jours chômés et aux périodes de non-classe. Le nombre de jours où le traitement est versé est calculé comme il suit: (nombre de jours d'enseignement accomplis x 7 x 52) / (nombre de jours de classe de l'année scolaire en cours).
 
 ## 8 Heures supplémentaires et complémentaires (art. 49 à 53 RPers)
+
+[^41-1]
+
+[^41-1]: RSF [122.70.11](https://bdlf.fr.ch/data/122.70.11/fr)
 
 #### Art. 42
 
@@ -530,6 +584,10 @@ Arrête:
 
 ## 9 Vacances et congés (art. 60 à 71 RPers)
 
+[^45-1]
+
+[^45-1]: RSF [122.70.11](https://bdlf.fr.ch/data/122.70.11/fr)
+
 #### Art. 46
 
 **Durée des vacances**
@@ -538,7 +596,9 @@ Arrête:
 
 <sup>2</sup> Durant la première et la dernière semaine de non-classe de l'été, les enseignants et enseignantes peuvent être astreints à participer à des cours de formation continue, à des tâches ou à des réunions organisés par la direction de l'Ecole ou par le Service.
 
-<sup>3</sup> L'article 62 RPers n'est pas applicable.
+<sup>3</sup> L'article 62 RPers[^46-1] n'est pas applicable.
+
+[^46-1]: RSF [122.70.11](https://bdlf.fr.ch/data/122.70.11/fr)
 
 #### Art. 47
 
@@ -582,15 +642,21 @@ Arrête:
 
 ## 10 Indemnités de transport (art. 122 à 127 RPers)
 
+[^51-1]
+
+[^51-1]: RSF [122.70.11](https://bdlf.fr.ch/data/122.70.11/fr)
+
 #### Art. 52
 
 **Déplacement de service**
 
 <sup>1</sup> Le déplacement de service est le déplacement effectué par le personnel enseignant, sur ordre du ou de la supérieur-e hiérarchique, pour se rendre sur un ou des lieux de travail autres que l'Ecole figurant dans son contrat, pour y dispenser son enseignement.
 
-<sup>2</sup> Le déplacement de service donne droit à une prise en compte de la durée des trajets durant le temps de travail ainsi qu'à l'indemnité de transport conformément aux articles 122 à 127 RPers.
+<sup>2</sup> Le déplacement de service donne droit à une prise en compte de la durée des trajets durant le temps de travail ainsi qu'à l'indemnité de transport conformément aux articles 122 à 127 RPers[^52-1].
 
 <sup>3</sup> Le déplacement de service est limité dans le temps, mais peut représenter au maximum une année scolaire.
+
+[^52-1]: RSF [122.70.11](https://bdlf.fr.ch/data/122.70.11/fr)
 
 #### Art. 53
 
@@ -602,7 +668,9 @@ Arrête:
 
 **Montant de l'indemnité de transport**
 
-<sup>1</sup> L'indemnité de transport est calculée selon le barème figurant dans l'annexe II du règlement du personnel de l'Etat.
+<sup>1</sup> L'indemnité de transport est calculée selon le barème figurant dans l'annexe II RPers[^54-1].
+
+[^54-1]: RSF [122.70.11](https://bdlf.fr.ch/data/122.70.11/fr)
 
 ## 11 Dispositions finales
 

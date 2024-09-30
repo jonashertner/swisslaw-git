@@ -4,13 +4,12 @@ number: "420.24"
 title: "Reglement für das Lehrpersonal, das der Volkswirtschafts- und Berufsbildungsdirektion untersteht"
 short: LPR VWBD
 language: de
-version: 2024-08-01
-valid_until: 2024-09-30
+version: 2024-10-01
 version_adopted: 2024-10-01
 adopted: 2011-10-11
 in_force: 2011-09-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/420.24"
-pdf: "https://bdlf.fr.ch/api/de/versions/8053/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8551/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -21,7 +20,7 @@ Lehrpersonal der VWBD – R
 
 (LPR VWBD)
 
-vom 11.10.2011 (Fassung in Kraft getreten am 01.08.2024)
+vom 11.10.2011 (Fassung in Kraft getreten am 01.10.2024)
 
 Der Staatsrat des Kantons Freiburg
 
@@ -43,7 +42,7 @@ beschliesst:
 
 **Gegenstand**
 
-<sup>1</sup> Dieses Reglement beinhaltet die besonderen und ergänzenden Bestimmungen zum Gesetz über das Staatspersonal und zum dazugehörigen Ausführungsreglement, zum Bundesgesetz über die Berufsbildung und zur dazugehörigen Verordnung sowie zum Gesetz über die Berufsbildung und zum dazugehörigen Ausführungsreglement.
+<sup>1</sup> Dieses Reglement präzisiert und ergänzt die Personalbestimmungen der Berufsbildungsgesetzgebung des Bundes und des Kantons sowie der kantonalen Personalgesetzgebung für das Personal, für das es gilt.
 
 #### Art. 2
 
@@ -57,7 +56,7 @@ beschliesst:
 
 **Lehrpersonal**
 
-<sup>1</sup> Lehrpersonal im Sinne dieses Reglements sind: die Berufsfachschullehrerinnen und Berufsfachschullehrer der Berufsfachschulen, der Schulen mit Praktikum und der Lehrwerkstätten (die Schulen).
+<sup>1</sup> Lehrpersonal im Sinne dieses Reglements sind die Berufsfachschullehrerinnen und Berufsfachschullehrer der Berufsfachschulen im dualen System, der Schulen mit Praktikum und der Vollzeitberufsfachschulen sowie die Lehrerinnen und Lehrer der Höheren Fachschulen.
 
 <sup>2</sup> Für externe Referentinnen und Referenten, die für vereinzelte Kurse beauftragt werden, gelten besondere Vorschriften.
 
@@ -65,9 +64,9 @@ beschliesst:
 
 **Amt für Berufsbildung**
 
-<sup>1</sup> Das Amt für Berufsbildung (das Amt) ist die Verwaltungseinheit, der das Personal der Berufsfachschulen angegliedert ist. In dieser Rolle führt es alle Aufgaben im Bereich der Personalbewirtschaftung aus, für die die Verwaltungseinheiten gemäss dem Gesetz über das Staatspersonal und dem Staatspersonalreglement verantwortlich sind. Vorbehalten bleiben die Kompetenzen, die ihm gestützt auf eine Vereinbarung zwischen der Direktion und dem Amt für Personal und Organisation (das POA) in Anwendung von Artikel 6 Abs. 2 StPR übertragen werden (Schaffung einer Fachstelle).
+<sup>1</sup> Das Amt für Berufsbildung (das Amt) ist die Verwaltungseinheit, der das Personal der Berufsfachschulen im dualen System, der Schulen mit Praktikum, der Vollzeitberufsfachschulen und der Höheren Fachschulen (die Schulen) angegliedert ist. In dieser Rolle führt es alle Aufgaben im Bereich der Personalbewirtschaftung aus, für welche die Verwaltungseinheiten gemäss dem Gesetz über das Staatspersonal und dem Staatspersonalreglement verantwortlich sind.
 
-<sup>2</sup> Die Direktion als Anstellungsbehörde des Schulpersonals kann einen Teil ihrer Befugnisse im Bereich der Personalverwaltung an das Amt delegieren.
+<sup>2</sup> Die Direktion als Anstellungsbehörde des Lehrpersonals der Schulen kann einen Teil ihrer Befugnisse im Bereich der Personalverwaltung an das Amt delegieren.
 
 #### Art. 5
 
@@ -79,13 +78,17 @@ beschliesst:
 
 <sup>1</sup> Die Schuldirektorinnen und Schuldirektoren sowie die Abteilungsvorsteherinnen und Abteilungsvorsteher gelten als Verwaltungspersonal und führen alle Personalverwaltungsaufgaben aus, welche die Gesetzgebung über das Staatspersonal den direkten Vorgesetzten überträgt.
 
-<sup>2</sup> Die Schuldirektorinnen und Schuldirektoren üben die Befugnisse nach den Artikeln 67 Abs. 1, 68 Abs. 1 Bst. a, 70 Abs. 1 Bst. a für Urlaube bis zu drei Tagen und nach den Artikeln 79 Abs. 2 und 123 Abs. 2 StPR aus.
+<sup>2</sup> Die Schuldirektorinnen und Schuldirektoren üben die Befugnisse nach den Artikeln 67 Abs. 1, 68 Abs. 1 Bst. a, 70 Abs. 1 Bst. a für Urlaube bis zu drei Tagen und nach den Artikeln 79 Abs. 2 und 123 Abs. 2 StPR[^5a-1] aus.
 
 <sup>3</sup> Die Abteilungsvorsteherinnen und Abteilungsvorsteher sind Mitglieder der Schuldirektion und sind der Direktorin oder dem Direktor unterstellt. Sie leiten ihre Abteilung in pädagogischer und administrativer Hinsicht und tragen die pädagogische Verantwortung für die ihnen unterstellten Lehrpersonen.
 
-<sup>4</sup> Die Funktion der Abteilungsvorsteherinnen und Abteilungsvorsteher umfasst zudem eine Unterrichtstätigkeit von 25 % eines Vollzeitpensums. Diese Tätigkeit ist integrierender Bestandteil der Arbeitszeit als Verwaltungspersonal gemäss Anstellungsvertrag. Für den Anteil der Beschäftigung, der dem Unterricht und den damit verbundenen Aufgaben gewidmet ist, gelten die Artikel 17 und 18.
+<sup>4</sup> Die Funktion der Abteilungsvorsteherinnen und Abteilungsvorsteher umfasst zudem eine Unterrichtstätigkeit von 25 % eines Vollzeitpensums. Die Unterrichtstätigkeit ist integrierender Bestandteil der Arbeitszeit als Verwaltungspersonal gemäss Anstellungsvertrag. Für den Anteil der Beschäftigung, der dem Unterricht und den damit verbundenen Aufgaben gewidmet ist, gelten die Artikel 17 und 18.
 
-<sup>5</sup> Die Abteilungsvorsteherinnen und Abteilungsvorsteher erhalten einen einzigen Anstellungsvertrag, in dem die Gehälter für ihre Tätigkeit als «Abteilungsvorsteher/in» und als «Berufsfachschullehrer/in» aufgeführt sind. Eine Kündigung des Anstellungsvertrags gilt für beide Tätigkeiten.
+<sup>5</sup> Die Abteilungsvorsteherinnen und Abteilungsvorsteher erhalten einen einzigen Anstellungsvertrag, in dem die Gehälter für ihre Tätigkeit als «Abteilungsvorsteherin/Abteilungsvorsteher» und als «Berufsfachschullehrerin/Berufsfachschullehrer» oder «Lehrerin/Lehrer HF» aufgeführt sind.
+
+<sup>6</sup> Eine Kündigung des Anstellungsvertrags gilt für beide Tätigkeiten.
+
+[^5a-1]: SGF [122.70.11](https://bdlf.fr.ch/data/122.70.11/de)
 
 #### Art. 6
 
@@ -96,6 +99,10 @@ beschliesst:
 <sup>2</sup> Für das Lehrpersonal der Schulen beginnt das administrative Jahr am 1. August und endet am 31. Juli.
 
 ## 2 Anstellungsverfahren (Art. 14–27 und 150 StPR)
+
+[^6-1]
+
+[^6-1]: SGF [122.70.11](https://bdlf.fr.ch/data/122.70.11/de)
 
 #### Art. 7
 
@@ -115,9 +122,9 @@ beschliesst:
 
 **Veröffentlichung**
 
-<sup>1</sup> Die Stellen werden auf der Website des Kantons Freiburg und mit einer Anzeige im Amtsblatt ausgeschrieben.
+<sup>1</sup> Die Stellen werden gemäss dem Staatspersonalreglement ausgeschrieben.
 
-<sup>2</sup> Sie können auf weiteren Websites und in weiteren Zeitungen und Fachzeitschriften ausgeschrieben werden.
+<sup>2</sup> Sie können in weiteren Zeitungen und Fachzeitschriften ausgeschrieben werden.
 
 #### Art. 9
 
@@ -125,7 +132,7 @@ beschliesst:
 
 <sup>1</sup> Die Bewerbungen müssen bei den Schuldirektionen eingereicht werden.
 
-<sup>2</sup> Auf Antrag des Amts erstellen die Schuldirektionen zuhanden des Amts und der Anstellungsbehörde eine Liste der Kandidatinnen und Kandidaten.
+<sup>2</sup> Das Amt und die Anstellungsbehörde können die Bewerbungen sichten.
 
 #### Art. 10
 
@@ -143,13 +150,26 @@ beschliesst:
 
 <sup>2</sup> Die Auswahl unter den Bewerberinnen und Bewerbern erfolgt den Anforderungen der Stelle entsprechend aufgrund ihrer fachlichen Ausbildung mit Abschluss auf Tertiärstufe und ihres pädagogischen Abschlusses, ihrer Erfahrung, ihrer Kompetenzen, ihrer Fähigkeiten und ihrer menschlichen Qualitäten.
 
-<sup>3</sup> Die Schuldirektorin oder der Schuldirektor übermittelt dem Amt die Liste der Kandidatinnen und Kandidaten der Endauswahl und gibt an, welche Person gewählt wurde. Die Vorsteherin oder der Vorsteher des Amts genehmigt die Wahl und leitet sie der Anstellungsbehörde weiter, die entscheidet.
+<sup>3</sup> Die Schuldirektorin oder der Schuldirektor teilt dem Amt mit, welche Kandidatin oder welcher Kandidat ausgewählt wurde. Die Vorsteherin oder der Vorsteher des Amts entscheidet im Namen der Anstellungsbehörde über die Anstellung.
 
-<sup>4</sup> Die ausgewählten Kandidatinnen und Kandidaten werden mit der Erlaubnis der Anstellungsbehörde von den Schulen informiert.
+<sup>4</sup> Die ausgewählte Kandidatin oder der ausgewählte Kandidat wird von der Schule mit der Erlaubnis des Amts im Namen der Anstellungsbehörde informiert.
 
-<sup>5</sup> Die Schulen informieren im Namen der Anstellungsbehörde die nicht berücksichtigten Bewerberinnen und Bewerber nach Abschluss des Bewerbungsverfahrens und senden ihnen die Bewerbungsunterlagen zurück.
+<sup>5</sup> Die Schule informiert mit der Erlaubnis des Amts im Namen der Anstellungsbehörde die nicht berücksichtigten Bewerberinnen und Bewerber nach Abschluss des Bewerbungsverfahrens.
 
 <sup>6</sup> Auf Antrag der Schuldirektionen stellt das Amt eine Weisung über das Anstellungsverfahren auf.
+
+#### Art. 11a
+
+**Anstellungsbestätigung**
+
+<sup>1</sup> Das Amt stellt im Namen der Anstellungsbehörde der ausgewählten Person eine Anstellungsbestätigung zu.
+
+<sup>2</sup> Die ausgewählte Person muss einen Sonderprivatauszug aus dem Strafregister im Sinne von Artikel 42 des Strafregistergesetzes des Bundes (StReG)[^11a-1] vorlegen; ist die Person ausländischer Staatsangehörigkeit und wohnt nicht oder erst seit kurzem in der Schweiz, so muss sie ein gleichwertiges Dokument vorlegen.
+
+<sup>3</sup> Während der Übergangsfrist bis am 31. Dezember 2041 muss die gewählte Person zudem einen ordentlichen Strafregisterauszug im Sinne von Artikel 41 StReG[^11a-2] vorlegen.
+
+[^11a-1]: SR [330](https://db.clex.ch/link/Bund/330/de)
+[^11a-2]: SR [330](https://db.clex.ch/link/Bund/330/de)
 
 #### Art. 12
 
@@ -163,13 +183,13 @@ beschliesst:
 
 **Vertragsabschluss**
 
-<sup>1</sup> Die Anstellungsbehörde erstellt und unterzeichnet den schriftlichen Vertrag und verschickt ihn in drei Exemplaren an die betreffende Person. Diese sendet ein unterschriebenes Exemplar an die Anstellungsbehörde und eines an das Amt zurück.
+<sup>1</sup> Das Amt erstellt und unterzeichnet den schriftlichen Vertrag und verschickt ihn in zwei Exemplaren an die angestellte Person. Diese sendet ein unterschriebenes Exemplar an das Amt zurück.
 
-<sup>2</sup> Das Amt, die Schuldirektion, das POA und die Pensionskasse des Staatspersonals erhalten von der Anstellungsbehörde je ein Vertragsexemplar.
+<sup>2</sup> Die Anstellungsbehörde, die Schuldirektion, das Amt für Personal und Organisation (POA) und die Pensionskasse des Staatspersonals erhalten vom Amt je ein Vertragsexemplar.
 
 <sup>3</sup> Im Fall eines mündlichen Vertrags gilt der Abschluss nach der gegenseitigen Zustimmung.
 
-<sup>4</sup> Bewerberinnen oder Bewerber, die die Stelle nicht antreten wollen, müssen dies der Anstellungsbehörde innerhalb von fünf Tagen nach der Anstellungsbestätigung mitteilen. Nach Ablauf dieser Frist wird angenommen, dass sie mit der Anstellung einverstanden sind.
+<sup>4</sup> Bewerberinnen oder Bewerber, welche die Stelle nicht antreten wollen, müssen dies dem Amt innerhalb von fünf Tagen nach der Anstellungsbestätigung mitteilen. Nach Ablauf dieser Frist wird angenommen, dass sie mit der Anstellung einverstanden sind.
 
 #### Art. 14
 
@@ -189,6 +209,14 @@ beschliesst:
 
 <sup>4</sup> Die Anstellungsbehörde kann bei der Anstellung teilweise oder ganz auf die Probezeit verzichten, falls die Lehrperson die entsprechende Funktion schon einmal ausgeübt hat. Ebenso kann die Anstellungsbehörde einer Lehrperson eine Probezeit vorschreiben, wenn sich während der Anstellung der Beschäftigungsgrad wesentlich erhöht.
 
+#### Art. 14a
+
+**Kündigung**
+
+<sup>1</sup> Das unbefristet angestellte Lehrpersonal kann unter Beachtung einer sechsmonatigen Frist auf Ende eines administrativen Jahres gemäss Artikel 6 Abs. 2 kündigen.
+
+<sup>2</sup> Eine Kündigung auf einen anderen Zeitpunkt kann eingereicht werden, wenn wichtige Gründe vorliegen oder die Parteien das so vereinbaren.
+
 #### Art. 15
 
 **Stellengarantie**
@@ -207,7 +235,7 @@ beschliesst:
 
 **Definition des Berufsauftrags**
 
-<sup>1</sup> Der Berufsauftrag setzt sich aus einem qualitativen und einem quantitativen Beschrieb der beruflichen Tätigkeiten für den gesamten Lehrkörper zusammen. Er besteht aus der Beschreibung der Arbeitsbereiche und der dafür notwendigen Arbeitszeit.
+<sup>1</sup> Der Berufsauftrag setzt sich aus einem qualitativen und einem quantitativen Beschrieb der beruflichen Tätigkeiten für das gesamte Lehrpersonal zusammen. Er besteht aus der Beschreibung der Arbeitsbereiche und der dafür notwendigen Arbeitszeit.
 
 <sup>2</sup> …
 
@@ -226,10 +254,10 @@ beschliesst:
   - 2\. eigentlicher Unterricht,
   - 3\. Korrekturarbeit und Beurteilung der Lernenden,
   - 4\. andere Unterrichtsformen gemäss Pflichtenheft,
-  - 5\. Expertenaufgaben bei den Qualifikationsverfahren gemäss Artikel 56 Abs. 2 BBiG;
+  - 5\. Expertenaufgaben bei den Qualifikationsverfahren gemäss Artikel 56 Abs. 2 BBiG[^17-1];
 - b) pädagogische und erzieherische Begleitung der Lernenden, insbesondere:
   - 1\. Empfang, Unterstützung, Betreuung, Begleitung, Beratung und Beaufsichtigung der Lernenden,
-  - 2\. Zusammenarbeit mit den familiären Betreuungspersonen der Lernenden, den Schuldiensten und den Ausbildnerinnen und Ausbildnern;
+  - 2\. Zusammenarbeit mit den familiären Betreuungspersonen der Lernenden, den Schuldiensten und den Berufsbildnerinnen und Berufsbildnern in Lehrbetrieben;
 - c) Schulleben, das heisst:
   - 1\. administrative Verwaltung der Lernenden,
   - 2\. Absprache und Koordination mit den Klassenverantwortlichen und den Kolleginnen und Kollegen,
@@ -242,6 +270,8 @@ beschliesst:
   - 4\. Besuch von Weiterbildungskursen,
   - 5\. Studium von Fachliteratur,
   - 6\. Super- und Intervision.
+
+[^17-1]: SGF [420.1](https://bdlf.fr.ch/data/420.1/de)
 
 #### Art. 18
 
@@ -314,32 +344,40 @@ beschliesst:
 
 ## 4 Personalbeurteilung (Art. 22 Abs. 2 und 3 und Art. 72 StPG)
 
+[^23-1]
+
+[^23-1]: SGF [122.70.1](https://bdlf.fr.ch/data/122.70.1/de)
+
 #### Art. 24
 
 **Verfahren**
 
 <sup>1</sup> Die Personalbeurteilung richtet sich nach einem Verfahren, das vom Amt vorgeschrieben wird.
 
-<sup>2</sup> Dieses Verfahren gilt für den gesamten Lehrkörper der Schulen.
+<sup>2</sup> Dieses Verfahren gilt für das gesamte Lehrpersonal.
 
 #### Art. 25
 
-**Periodizität (Art. 22 Abs. 2 StPG)**
+**Periodizität (Art. 22 Abs. 2 StPG[^25-1])**
 
 <sup>1</sup> Jedes Jahr findet ein Gespräch zwischen der Abteilungsvorsteherin oder dem Abteilungsvorsteher und den ihr oder ihm unterstellten Lehrpersonen statt.
 
-<sup>2</sup> Ab dem zweiten jährlichen Gespräch findet alle drei Jahre eine ordentliche periodische Personalbeurteilung statt.
+<sup>2</sup> …
+
+[^25-1]: SGF [122.70.1](https://bdlf.fr.ch/data/122.70.1/de)
 
 #### Art. 26
 
-**Bewertung**
+**Gespräch**
 
-<sup>1</sup> Die periodische Beurteilung umfasst die vier Arbeitsbereiche nach Artikel 17 und berücksichtigt insbesondere folgende zwei Bereiche:
+<sup>1</sup> Das Gespräch deckt die vier Arbeitsbereiche nach Artikel 17 ab.
 
-- a) pädagogischer Bereich (Betreuung, Begleitung und Weiterbildung);
-- b) administrativer Bereich (Zusammenarbeit und Teilnahme am Schulleben).
+- a) …
+- b) …
 
-<sup>2</sup> Die Personalbeurteilung wird gemäss Artikel 22 Abs. 2 und 3 und Artikel 72 StPG durchgeführt; das Verfahren des Amtes muss eingehalten werden.
+<sup>2</sup> Das Gespräch wird gemäss den Artikeln 22 und 72 StPG[^26-1] und dem Verfahren des Amts durchgeführt.
+
+[^26-1]: SGF [122.70.1](https://bdlf.fr.ch/data/122.70.1/de)
 
 ## 5 Ausbildung
 
@@ -357,7 +395,9 @@ beschliesst:
 
 <sup>1</sup> Falls die pädagogische Bildung nicht über den akademischen Weg erworben wurde, wird sie in einer vom Bund anerkannten Einrichtung absolviert.
 
-<sup>2</sup> Um den Artikeln 45 und 46 BBG und den Artikeln 45 und 46 BBV sowie den Bedürfnissen der Schulen gerecht zu werden, kann der Staat die Lehrpersonen, die eine berufspädagogische Ausbildung absolvieren müssen, um die verlangten Qualifikationen zu erwerben, für die Dauer ihrer Ausbildung teilweise finanziell unterstützen.
+<sup>2</sup> Um den Artikeln 45 und 46 BBG[^28-1], 45 und 46 BBV[^28-2] und 13 MiVo HF[^28-3] sowie den Bedürfnissen der Schulen gerecht zu werden, kann der Staat den Personen, die eine berufspädagogische Ausbildung absolvieren müssen, um die verlangten Qualifikationen zu erwerben, für die Dauer ihrer Ausbildung einen finanziellen Beitrag gewähren.
+
+<sup>2a</sup> Wer die Mindestanforderungen nicht bereits bei Aufnahme seiner Tätigkeit erfüllt, muss gemäss Artikel 40 Abs. 2 BBV[^28-4] die entsprechenden Qualifikationen innerhalb von fünf Jahren nachholen. Falls die Person dieser Pflicht nicht nachkommt, kann der Anstellungsvertrag gestützt auf das StPG[^28-5] aufgelöst werden.
 
 <sup>3</sup> Die Finanzierung dieser Ausbildung beinhaltet die Übernahme der direkten und indirekten Ausbildungskosten und die Gewährung einer Entlastung. Diese Finanzierung ist Gegenstand einer Vereinbarung zwischen der Anstellungsbehörde und der angestellten Person. Im Übrigen gelten die gesetzlichen Regelungen über die Weiterbildung des Staatspersonals, insbesondere die Bestimmungen über die Rückzahlungspflicht und die zeitliche Bindung.
 
@@ -365,7 +405,13 @@ beschliesst:
 
 <sup>5</sup> Die Zuteilung der Entlastung wird von den Schuldirektionen im Einvernehmen mit dem Amt geregelt.
 
-<sup>6</sup> Die Reise- und Verpflegungskosten gehen zulasten der Lehrperson.
+<sup>6</sup> …
+
+[^28-1]: SR [412.10](https://db.clex.ch/link/Bund/412.10/de)
+[^28-2]: SR [412.101](https://db.clex.ch/link/Bund/412.101/de)
+[^28-3]: SR [412.101.61](https://db.clex.ch/link/Bund/412.101.61/de)
+[^28-4]: SR [412.101](https://bdlf.fr.ch/data/412.101/de)
+[^28-5]: SGF [122.70.1](https://bdlf.fr.ch/data/122.70.1/de)
 
 #### Art. 29
 
@@ -373,11 +419,13 @@ beschliesst:
 
 <sup>1</sup> Ab Antritt der pädagogischen Ausbildung und bis zum Erhalt des Abschlusses wird die Lehrperson nach der Klasse und Gehaltsstufe entlöhnt, die ihrer Bildung und ihrer Erfahrung entspricht.
 
-<sup>2</sup> Das Gehalt wird gestützt auf Artikel 87 StPG unterhalb der Klassen festgesetzt, die der Funktion zugeordnet sind.
+<sup>2</sup> Das Gehalt wird gestützt auf Artikel 87 StPG[^29-1] unterhalb der Klassen festgesetzt, die der Funktion zugeordnet sind.
 
 <sup>3</sup> Mit Beginn des Monats, der auf den Erhalt des verlangten pädagogischen Bildungsabschlusses folgt, wird das Gehalt der Lehrperson innerhalb der Klassen festgesetzt, die der Funktion von Berufsfachschullehrerinnen und Berufsfachschullehrern oder Lehrerinnen und Lehrern HF zugeordnet sind. Für die Unterrichtsjahre während der pädagogischen Bildung wird eine Stufenerhöhung nach der Weisung über die Anerkennung der bisherigen Berufspraxis, gewährt.
 
 <sup>4</sup> …
+
+[^29-1]: SGF [122.70.1](https://bdlf.fr.ch/data/122.70.1/de)
 
 #### Art. 30
 
@@ -385,7 +433,7 @@ beschliesst:
 
 #### Art. 31
 
-**Weiterbildung (Art. 121 StPG)**
+**Weiterbildung (Art. 121 StPG[^31-1])**
 
 <sup>1</sup> Die Weiterbildung umfasst die folgenden Formen:
 
@@ -395,13 +443,15 @@ beschliesst:
 
 <sup>2</sup> Den Lehrpersonen kann der Besuch einer Weiterbildung während der Unterrichtszeit erlaubt werden. Für die Anmeldung muss die Stellungnahme der Schuldirektion eingeholt werden.
 
-<sup>3</sup> Die Weiterbildung des Lehrpersonals richtet sich nach den gesetzlichen Bestimmungen über die Weiterbildung des Staatspersonals.
+<sup>3</sup> Die Weiterbildung des Lehrpersonals richtet sich nach den gesetzlichen Bestimmungen über die Aus- und Weiterbildung des Staatspersonals.
+
+[^31-1]: SGF [122.70.1](https://bdlf.fr.ch/data/122.70.1/de)
 
 #### Art. 32
 
 **Urheberrecht (didaktisches Material und Lehrmittel)**
 
-<sup>1</sup> Das didaktische Material, die Folien und die Lehrmittel, die die Lehrperson bei ihrer Tätigkeit im Dienste des Staats erarbeitet und den Lernenden austeilt, gehören dem Arbeitgeber.
+<sup>1</sup> Das didaktische Material und die Lehrmittel, welche die Lehrperson bei ihrer Tätigkeit im Dienste des Staats erarbeitet und den Lernenden austeilt, gehören dem Arbeitgeber.
 
 <sup>2</sup> Die Lehrperson ist nicht befugt, die im Absatz 1 erwähnten Unterlagen zu vermarkten.
 
@@ -449,13 +499,13 @@ beschliesst:
 
 <sup>1</sup> Die Einreihung des Lehrpersonals an den Schulen richtet sich nach den Regeln für die Einreihung des Staatspersonals.
 
-<sup>2</sup> Lehrpersonen, die über die verlangten Abschlüsse verfügen und die Anforderungen erfüllen, werden unter Berücksichtigung ihres Ausbildungsniveaus als Berufsfachschullehrerin oder Berufsfachschullehrer eingereiht.
+<sup>2</sup> Lehrpersonen, die über die verlangten Abschlüsse verfügen und die Anforderungen erfüllen, werden unter Berücksichtigung ihres Ausbildungsniveaus als Berufsfachschullehrerin oder Berufsfachschullehrer oder als Lehrerin oder Lehrer HF eingereiht.
 
 <sup>3</sup> Lehrpersonen, die nicht über die verlangten Abschlüsse verfügen und die Anforderungen nicht erfüllen, werden gemäss Artikel 29 dieses Reglements eingereiht.
 
 <sup>4</sup> Die Anstellungsbehörde kann Personen einstellen, die noch nicht oder nur teilweise über die verlangten Abschlüsse verfügen.
 
-<sup>5</sup> Die Direktion erstellt auf Stellungnahme des POA eine Weisung über die Einreihung der Berufsfachschullehrerinnen und Berufsfachschullehrer.
+<sup>5</sup> Die Direktion erstellt auf Stellungnahme des POA eine Weisung über die Einreihung der Berufsfachschullehrerinnen und Berufsfachschullehrer sowie der Lehrerinnen und Lehrer HF.
 
 <sup>6</sup> Die Artikel 27 und folgende dieses Reglements bleiben vorbehalten.
 
@@ -482,6 +532,10 @@ beschliesst:
 <sup>1</sup> Stellvertretungen für drei Monate und mehr werden im Monatslohn bezahlt. Der Lohn wird für eine Dauer, die der Anzahl erteilter Unterrichtstage entspricht, zuzüglich einer Anzahl Tage, die den Ferienanspruch, die Feiertage und die unterrichtsfreie Zeit berücksichtigt, bezahlt. Die Anzahl Tage, während denen der Lohn bezahlt wird, wird wie folgt berechnet: (Anzahl erteilter Unterrichtstage x 7 x 52) / (Anzahl Schultage des laufenden Schuljahres).
 
 ## 8 Über- und Zusatzstunden (Art. 49–53 StPR)
+
+[^41-1]
+
+[^41-1]: SGF [122.70.11](https://bdlf.fr.ch/data/122.70.11/de)
 
 #### Art. 42
 
@@ -530,6 +584,10 @@ beschliesst:
 
 ## 9 Ferien und Urlaub (Art. 60–71 StPR)
 
+[^45-1]
+
+[^45-1]: SGF [122.70.11](https://bdlf.fr.ch/data/122.70.11/de)
+
 #### Art. 46
 
 **Dauer der Ferien**
@@ -538,7 +596,9 @@ beschliesst:
 
 <sup>2</sup> Während der ersten und der letzten Woche der unterrichtsfreien Zeit im Sommer können Lehrpersonen zu Weiterbildungskursen, zu Aufgaben und zu Veranstaltungen, die von der Schuldirektion oder vom Amt organisiert werden, aufgeboten werden.
 
-<sup>3</sup> Artikel 62 StPR ist nicht anwendbar.
+<sup>3</sup> Artikel 62 StPR[^46-1] ist nicht anwendbar.
+
+[^46-1]: SGF [122.70.11](https://bdlf.fr.ch/data/122.70.11/de)
 
 #### Art. 47
 
@@ -582,15 +642,21 @@ beschliesst:
 
 ## 10 Vergütung der Fahrkosten (Art. 122–127 StPR)
 
+[^51-1]
+
+[^51-1]: SGF [122.70.11](https://bdlf.fr.ch/data/122.70.11/de)
+
 #### Art. 52
 
 **Dienstreise**
 
 <sup>1</sup> Als Dienstreise gilt die von der oder dem Vorgesetzten angeordnete Reise der Lehrperson zu einem Unterrichtsort, der nicht im Vertrag erwähnt ist.
 
-<sup>2</sup> Die Dienstreise wird als Arbeitszeit angerechnet und gibt Anspruch auf Vergütung der Fahrkosten gemäss Artikel 122–127 StPR.
+<sup>2</sup> Die Dienstreise wird als Arbeitszeit angerechnet und gibt Anspruch auf Vergütung der Fahrkosten gemäss Artikel 122–127 StPR[^52-1].
 
 <sup>3</sup> Dienstreisen sind zeitlich beschränkt, sie können höchstens für ein Schuljahr angeordnet werden.
+
+[^52-1]: SGF [122.70.11](https://bdlf.fr.ch/data/122.70.11/de)
 
 #### Art. 53
 
@@ -602,7 +668,9 @@ beschliesst:
 
 **Vergütung der Fahrkosten**
 
-<sup>1</sup> Die Vergütung der Fahrkosten wird nach der Tabelle im Anhang II des Staatspersonalreglements berechnet.
+<sup>1</sup> Die Vergütung der Fahrkosten wird nach der Tabelle im Anhang II des Staatspersonalreglements[^54-1] berechnet.
+
+[^54-1]: SGF [122.70.11](https://bdlf.fr.ch/data/122.70.11/de)
 
 ## 11 Schlussbestimmungen
 
