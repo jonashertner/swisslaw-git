@@ -3,11 +3,11 @@ sr: "414.134.2"
 title: Ordinanza della direzione del PFL del 27 giugno 2005 sulla formazione continua e sulla formazione approfondita al Politecnico federale di Losanna (Ordinanza sulla formazione continua al PFL)
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/553"
 language: it
-version: 2017-03-01
+version: 2024-10-01
 adopted: 2005-06-27
 in_force: 2005-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/553/20170301/it/xml/fedlex-data-admin-ch-eli-cc-2005-553-20170301-it-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/553/20170301/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/553/20241001/it/xml/fedlex-data-admin-ch-eli-cc-2005-553-20241001-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/553/20241001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/553/20170301/it"
 
 (Ordinanza sulla formazione continua al PFL)
 
-del 27 giugno 2005 (Stato 1° marzo 2017)
+del 27 giugno 2005 (Stato 1° ottobre 2024)
 
 La direzione del Politecnico federale di Losanna (PFL),
 
@@ -40,7 +40,7 @@ La presente ordinanza disciplina la formazione continua e la formazione approfon
 
 La formazione continua e la formazione approfondita hanno lo scopo di rispondere ai bisogni di formazione universitaria complementare.
 
-[^2-1]: Nuovo testo giusta il n. I dell’O della direzione del PFL del 14 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
+[^2-1]: Nuovo testo giusta la cifra I dell’O della direzione del PFL del 14 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
 
 #### Art. 3
 
@@ -58,8 +58,8 @@ Rientrano nella formazione continua:
 
 <sup>2</sup> La formazione continua è destinata principalmente alle persone che hanno già maturato un’esperienza professionale.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O della direzione del PFL del 14 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
-[^3-2]: Introdotta dal n. I dell’O della direzione del PFL del 14 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O della direzione del PFL del 14 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
+[^3-2]: Introdotta dalla cifra I dell’O della direzione del PFL del 14 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
 [^3-3]: Originaria lett. d.
 
 #### Art. 4
@@ -76,7 +76,7 @@ Rientrano nella formazione approfondita:
 
 <sup>2</sup> La formazione approfondita è destinata principalmente alle persone che hanno concluso da poco gli studi.
 
-[^4-1]: Nuovo testo giusta il n. I dell’O della direzione del PFL del 14 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
+[^4-1]: Nuovo testo giusta la cifra I dell’O della direzione del PFL del 14 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
 
 #### Art. 5
 
@@ -84,27 +84,27 @@ Rientrano nella formazione approfondita:
 
 <sup>1</sup> La scuola di formazione continua (SFC) del PFL coordina tutte le attività di formazione continua e di formazione approfondita del PFL di cui agli articoli 3 e 4.
 
-<sup>2</sup> La SFC è subordinata al vicepresidente per l’educazione.[^5-1]
+<sup>2</sup> La SFC è subordinata al vicepresidente per gli affari accademici[^5-1].[^5-2]
 
 <sup>3</sup> La prima edizione di programmi di MAS e EM è subordinata all’autorizzazione della direzione del PFL.
 
 <sup>4</sup>
 
-Il vicepresidente per l’educazione:[^5-2]
+Il vicepresidente per gli affari accademici:[^5-3]
 
 - a. approva ogni anno il budget e i conti della SFC;
-- b.[^5-3] nomina i direttori dei programmi di MAS, EM, DAS, CAS e COS;
-- c.[^5-4] rilascia le autorizzazioni per la prima edizione di programmi di DAS, CAS e COS;
-- d.[^5-5] approva i regolamenti di studio.
+- b.[^5-4] nomina i direttori dei programmi di MAS, EM, DAS, CAS e COS;
+- c.[^5-5] rilascia le autorizzazioni per la prima edizione di programmi di DAS, CAS e COS;
+- d.[^5-6] approva i regolamenti di studio.
 
 <sup>5</sup>
 
-Il delegato del vicepresidente per l’educazione:[^5-6]
+Il delegato del vicepresidente per gli affari accademici:[^5-7]
 
 - a. dirige la SFC;
-- b.[^5-7] rilascia le autorizzazioni per le edizioni di programmi e le sessioni di formazione che non rientrano nella competenza della direzione del PFL o del vicepresidente per l’educazione;
-- c. decide sul riconoscimento e l’equipollenza dei titoli universitari presentati dai candidati all’ammissione ai programmi come pure sull’ammissibilità dei candidati;
-- d.[^5-8] notifica le decisioni sull’ammissione ai programmi;
+- b.[^5-8] rilascia le autorizzazioni per le edizioni di programmi e le sessioni di formazione che non rientrano nella competenza della direzione del PFL o del vicepresidente per gli affari accademici;
+- c. decide sul riconoscimento e l’equipollenza dei titoli ...[^5-9] presentati dai candidati all’ammissione ai programmi come pure sull’ammissibilità dei candidati;
+- d.[^5-10] notifica le decisioni sull’ammissione ai programmi;
 - e. sviluppa una strategia nel quadro dei principi di base della formazione continua e della formazione approfondita stabiliti dalla direzione del PFL;
 - f. provvede alla valutazione e al controllo della qualità delle attività di formazione continua e di formazione approfondita;
 - g. provvede a promuovere la formazione continua e la formazione approfondita del PFL.
@@ -114,18 +114,20 @@ Il delegato del vicepresidente per l’educazione:[^5-6]
 I direttori di programma:
 
 - a. rispondono del buon svolgimento e della gestione del programma di cui sono responsabili;
-- b.[^5-9] assicurano il promovimento del programma di concerto con la SFC;
+- b.[^5-11] assicurano il promovimento del programma di concerto con la SFC;
 - c. decidono sull’ammissione dei candidati dichiarati ammissibili.
 
-[^5-1]: Nuovo testo giusta il n. I dell’O della direzione del PFL del 14 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
-[^5-2]: Nuovo testo giusta il n. I dell’O della direzione del PFL del 14 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
-[^5-3]: Nuovo testo giusta il n. I dell’O della direzione del PFL del 14 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
-[^5-4]: Nuovo testo giusta il n. I dell’O della direzione del PFL del 14 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
-[^5-5]: Nuovo testo giusta il n. I dell’O della direzione del PFL del 14 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
-[^5-6]: Nuovo testo giusta il n. I dell’O della direzione del PFL del 14 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
-[^5-7]: Nuovo testo giusta il n. I dell’O della direzione del PFL del 14 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
-[^5-8]: Nuovo testo giusta il n. I dell’O della direzione del PFL del 14 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
-[^5-9]: Nuovo testo giusta il n. I dell’O della direzione del PFL del 14 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
+[^5-1]: Nuova espr. giusta la cifra I cpv. 1 dell’O della direzione del PFL del 3 set. 2024, in vigore dal 1° ott. 2024 ([RU 2024 505](https://fedlex.data.admin.ch/eli/oc/2024/505)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^5-2]: Nuovo testo giusta la cifra I dell’O della direzione del PFL del 14 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
+[^5-3]: Nuovo testo giusta la cifra I dell’O della direzione del PFL del 14 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
+[^5-4]: Nuovo testo giusta la cifra I dell’O della direzione del PFL del 14 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
+[^5-5]: Nuovo testo giusta la cifra I dell’O della direzione del PFL del 14 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
+[^5-6]: Nuovo testo giusta la cifra I dell’O della direzione del PFL del 14 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
+[^5-7]: Nuovo testo giusta la cifra I dell’O della direzione del PFL del 14 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
+[^5-8]: Nuovo testo giusta la cifra I dell’O della direzione del PFL del 14 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
+[^5-9]: Termine abrogato dalla cifra I cpv. 4 dell’O della direzione del PFL del 3 set. 2024, con effetto dal 1° ott. 2024 ([RU 2024 505](https://fedlex.data.admin.ch/eli/oc/2024/505)).
+[^5-10]: Nuovo testo giusta la cifra I dell’O della direzione del PFL del 14 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
+[^5-11]: Nuovo testo giusta la cifra I dell’O della direzione del PFL del 14 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
 
 ## Sezione 2: Programmi MAS e EM in formazione continua e in formazione approfondita
 
@@ -160,11 +162,13 @@ Il business plan comprende almeno:
 
 **Ammissibilità e ammissione**
 
-<sup>1</sup> Ai programmi di MAS o EM sono ammissibili, sulla base di un dossier, i titolari di un master o di un diploma del PFL o di un altro titolo universitario riconosciuto come equipollente.
+<sup>1</sup> Ai programmi di MAS o EM sono ammissibili, sulla base di un dossier, i titolari di un master o di un diploma del PFL o di un altro titolo di una scuola universitaria[^8-1] riconosciuto come equipollente.
 
 <sup>2</sup> In casi eccezionali i candidati che non soddisfano la condizione di cui al capoverso 1, ma che sulla base delle conoscenze acquisite e dell’esperienza professionale maturata possiedono un livello di qualificazione adeguato, possono essere dichiarati ammissibili.
 
 <sup>3</sup> Se l’indirizzo o l’organizzazione del programma lo esige, l’ammissione può essere subordinata a condizioni supplementari quali l’acquisizione preliminare di conoscenze o qualifiche particolari, le capacità logistiche disponibili o la composizione dell’assistenza in funzione dei profili e dei curricoli professionali dei candidati.
+
+[^8-1]: Nuova espr. giusta la cifra I cpv. 2 dell’O della direzione del PFL del 3 set. 2024, in vigore dal 1° ott. 2024 ([RU 2024 505](https://fedlex.data.admin.ch/eli/oc/2024/505)). Di detta mod. é tenuto conto unicamente nelle disp. menzionate nella RU.
 
 #### Art. 9
 
@@ -178,13 +182,13 @@ Il business plan comprende almeno:
 
 <sup>4</sup> Chi è stato ammesso come studente regolare e ha seguito interamente o parzialmente un programma di MAS o EM senza conseguire il titolo corrispondente può ricevere dal direttore del programma un attestato di partecipazione in cui sono specificati i corsi seguiti ed eventuali crediti acquisiti.[^9-1]
 
-[^9-1]: Nuovo testo giusta il n. I dell’O della direzione del PFL del 14 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O della direzione del PFL del 14 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
 
 ## Sezione 3: Programmi DAS e CAS in formazione continua e in formazione approfondita
 
 [^sec3-1]
 
-[^sec3-1]: Nuovo testo giusta il n. I dell’O della direzione del PFL del 14 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
+[^sec3-1]: Nuovo testo giusta la cifra I dell’O della direzione del PFL del 14 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
 
 #### Art. 10
 
@@ -198,7 +202,7 @@ Il business plan comprende almeno:
 
 <sup>4</sup> IL PFL conferisce il Certificate of Advanced Studies (CAS) ai partecipanti che sono stati ammessi come studenti regolari a un programma di CAS e che hanno soddisfatto tutti i criteri del relativo regolamento di studio.
 
-[^10-1]: Nuovo testo giusta il n. I dell’O della direzione del PFL del 14 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
+[^10-1]: Nuovo testo giusta la cifra I dell’O della direzione del PFL del 14 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
 
 #### Art. 11
 
@@ -210,19 +214,20 @@ Le disposizioni concernenti il business plan e il regolamento di studio dei prog
 
 **Ammissibilità e ammissione**
 
-<sup>1</sup> Ai programmi di DAS e CAS sono ammissibili, sulla base di un dossier, i titolari di un bachelor del PFL o le persone con un livello universitario riconosciuto come equipollente.[^12-1]
+<sup>1</sup> Ai programmi di DAS e CAS sono ammissibili, sulla base di un dossier, i titolari di un bachelor del PFL o le persone con un titolo di scuola universitaria riconosciuto come equipollente[^12-1].[^12-2]
 
 <sup>2</sup> In casi eccezionali i candidati che non soddisfano la condizione di cui al capoverso 1 ma che, sulla base delle conoscenze acquisite e dell’esperienza professionale maturata, possiedono un livello di qualificazione adeguato possono essere dichiarati ammissibili.
 
 <sup>3</sup> Se l’indirizzo o l’organizzazione del programma lo esige, l’ammissione può essere subordinata a condizioni supplementari quali l’acquisizione preliminare di conoscenze o qualifiche particolari, le capacità logistiche disponibili o la composizione dell’assistenza in funzione dei profili e dei percorsi professionali dei candidati.
 
-[^12-1]: Nuovo testo giusta il n. I dell’O della direzione del PFL del 14 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
+[^12-1]: Nuova espr. giusta la cifra I cpv. 3 dell’O della direzione del PFL del 3 set. 2024, in vigore dal 1° ott. 2024 ([RU 2024 505](https://fedlex.data.admin.ch/eli/oc/2024/505)).
+[^12-2]: Nuovo testo giusta la cifra I dell’O della direzione del PFL del 14 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
 
 ## Sezione 3*a* *:* Programmi COS in formazione continua
 
 [^sec3a-1]
 
-[^sec3a-1]: Introdotta dal n. I dell’O della direzione del PFL del 14 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
+[^sec3a-1]: Introdotta dalla cifra I dell’O della direzione del PFL del 14 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
 
 #### Art. 12a
 
@@ -244,7 +249,7 @@ Le disposizioni concernenti il business plan e il regolamento di studio dei prog
 
 **Ammissibilità e ammissione**
 
-<sup>1</sup> Ai programmi di formazione continua aperta sono ammissibili anche i candidati che non sono in possesso di un titolo universitario.
+<sup>1</sup> Ai programmi di formazione continua aperta sono ammissibili anche i candidati che non sono in possesso di un titolo di una scuola universitaria.
 
 <sup>2</sup> Se l’indirizzo o l’organizzazione del programma lo esige, l’ammissione può essere subordinata a condizioni quali l’acquisizione preliminare di conoscenze o qualifiche particolari da parte dei candidati, le capacità logistiche disponibili o la composizione dell’assistenza in funzione dei profili e dei curricoli professionali dei candidati.
 
@@ -258,7 +263,7 @@ Le disposizioni concernenti il business plan e il regolamento di studio dei prog
 
 <sup>2</sup> La frequenza alle sessioni di formazione è comprovata da un attestato di partecipazione.[^13-1]
 
-[^13-1]: Nuovo testo giusta il n. I dell’O della direzione del PFL del 14 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
+[^13-1]: Nuovo testo giusta la cifra I dell’O della direzione del PFL del 14 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
 
 #### Art. 14
 
@@ -270,7 +275,7 @@ L’autorizzazione per ciascuna sessione di formazione continua breve si fonda s
 
 **Ammissibilità e ammissione**
 
-<sup>1</sup> Alle sessioni di formazione continua breve sono ammissibili i titolari di un titolo universitario, gli specialisti qualificati e i professionisti che dimostrano di avere un livello di qualificazione adeguato.
+<sup>1</sup> Alle sessioni di formazione continua breve sono ammissibili i titolari di un titolo di una scuola universitaria, gli specialisti qualificati e i professionisti che dimostrano di avere un livello di qualificazione adeguato.
 
 <sup>2</sup> L’organizzatore della sessione decide sull’ammissione dei candidati, di cui può limitare il numero. Comunica l’elenco dei partecipanti alla SFC.
 
@@ -288,11 +293,12 @@ Le tasse d’iscrizione, i contributi ai costi e le eventuali esenzioni sono dis
 
 **Partenariati**[^17-1]
 
-<sup>1</sup> I partenariati con altri istituti universitari per programmi di MAS, EM, DAS, CAS o COS richiedono accordi specifici approvati dalle direzioni degli istituti partner.
+<sup>1</sup> I partenariati con altri istituti del settore universitario[^17-2] per programmi di MAS, EM, DAS, CAS o COS richiedono accordi specifici approvati dalle direzioni degli istituti partner.
 
 Il conferimento di titoli o certificati congiunti da parte del PFL e di un istituto partner è retto da tali accordi.
 
-[^17-1]: Nuovo testo giusta il n. I dell’O della direzione del PFL del 14 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
+[^17-1]: Nuovo testo giusta la cifra I dell’O della direzione del PFL del 14 dic. 2016, in vigore dal 1° mar. 2017 ([RU 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
+[^17-2]: Nuova espr. giusta la cifra I cpv. 5 dell’O della direzione del PFL del 3 set. 2024, in vigore dal 1° ott. 2024 ([RU 2024 505](https://fedlex.data.admin.ch/eli/oc/2024/505)).
 
 #### Art. 18
 

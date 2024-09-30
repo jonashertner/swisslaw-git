@@ -3,11 +3,11 @@ sr: "414.134.2"
 title: Verordnung der Schulleitung der ETHL vom 27. Juni 2005 über die Weiterbildung und die Fortbildung an der Eidgenössischen Technischen Hochschule Lausanne (Weiterbildungsverordnung ETHL)
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/553"
 language: de
-version: 2017-03-01
+version: 2024-10-01
 adopted: 2005-06-27
 in_force: 2005-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/553/20170301/de/xml/fedlex-data-admin-ch-eli-cc-2005-553-20170301-de-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/553/20170301/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/553/20241001/de/xml/fedlex-data-admin-ch-eli-cc-2005-553-20241001-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/553/20241001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/553/20170301/de"
 
 (Weiterbildungsverordnung ETHL)
 
-vom 27. Juni 2005 (Stand am 1. März 2017)
+vom 27. Juni 2005 (Stand am 1. Oktober 2024)
 
 Die Schulleitung der Eidgenössischen Technischen Hochschule Lausanne (ETHL),
 
@@ -84,27 +84,27 @@ Die Fortbildung umfasst:
 
 <sup>1</sup> Die Schule für Weiterbildung der ETHL (Ecole de la formation continue, EFC) koordiniert sämtliche in den Artikeln 3 und 4 genannten Weiterbildungs- und Fortbildungsaktivitäten an der ETHL.
 
-<sup>2</sup> Die EFC ist dem Vizepräsidenten oder der Vizepräsidentin für Ausbildung unter­ stellt.[^5-1]
+<sup>2</sup> Die EFC ist dem Vizepräsidenten oder der Vizepräsidentin für akademische Angelegenheiten[^5-1] unterstellt.[^5-2]
 
 <sup>3</sup> Die erste Auflage der MAS- und der EM-Programme unterliegt der Genehmigung der Schulleitung der ETHL.
 
 <sup>4</sup>
 
-Der Vizepräsident oder die Vizepräsidentin für Ausbildung:[^5-2]
+Der Vizepräsident oder die Vizepräsidentin für akademische Angelegenheiten:[^5-3]
 
 - a. genehmigt jährlich das Budget und die Jahresrechnung der EFC;
-- b.[^5-3] bestimmt die Leiterinnen und Leiter der MAS-, der EM-, der DAS-, der CAS- und der COS-Programme;
-- c.[^5-4] erteilt die Bewilligungen für die erste Auflage der DAS-, der CAS- und der COS-Programme;
-- d.[^5-5] genehmigt die Studienreglemente.
+- b.[^5-4] bestimmt die Leiterinnen und Leiter der MAS-, der EM-, der DAS-, der CAS- und der COS-Programme;
+- c.[^5-5] erteilt die Bewilligungen für die erste Auflage der DAS-, der CAS- und der COS-Programme;
+- d.[^5-6] genehmigt die Studienreglemente.
 
 <sup>5</sup>
 
-Der oder die Delegierte des Vizepräsidenten oder der Vizepräsidentin für Ausbildung:[^5-6]
+Der oder die Delegierte des Vizepräsidenten oder der Vizepräsidentin für akademische Angelegenheiten:[^5-7]
 
 - a. leitet die EFC;
-- b.[^5-7] erteilt die Bewilligungen für die Auflagen von Weiterbildungs- und Fortbildungsprogrammen und -veranstaltungen, die nicht in die Zuständigkeit der Schulleitung der ETHL oder des Vizepräsidenten oder der Vizepräsidentin für Ausbildung fallen;
+- b.[^5-8] erteilt die Bewilligungen für die Auflagen von Weiterbildungs- und Fortbildungsprogrammen und -veranstaltungen, die nicht in die Zuständigkeit der Schulleitung der ETHL oder des Vizepräsidenten oder der Vizepräsidentin für akademische Angelegenheiten fallen;
 - c. entscheidet über die Anerkennung und die Gleichwertigkeit der von den Kandidierenden vorgelegten Hochschulabschlüsse und über die Zulassungsberechtigung der Kandidierenden;
-- d.[^5-8] gibt die Entscheide über die Zulassungen zu den Weiterbildungs- und Fortbildungsprogrammen bekannt;
+- d.[^5-9] gibt die Entscheide über die Zulassungen zu den Weiterbildungs- und Fortbildungsprogrammen bekannt;
 - e. entwickelt im Rahmen der von der ETHL-Schulleitung vorgegebenen Grundzüge der Weiterbildung und der Fortbildung eine entsprechende Strategie;
 - f. sorgt für die Evaluation und die Qualitätskontrolle des Weiterbildungs- und des Fortbildungsangebots;
 - g. sorgt für die Bekanntmachung der Weiterbildung und der Fortbildung an der ETHL.
@@ -114,10 +114,10 @@ Der oder die Delegierte des Vizepräsidenten oder der Vizepräsidentin für Ausb
 Die Programmleiterinnen und Programmleiter:
 
 - a. sind zuständig für die Durchführung und die Administration des Programms in ihrer Verantwortung;
-- b.[^5-9] sorgen zusammen mit der EFC für die Bekanntmachung der Programme;
+- b.[^5-10] sorgen zusammen mit der EFC für die Bekanntmachung der Programme;
 - c. entscheiden über die Auswahl der zulassungsberechtigten Kandidierenden.
 
-[^5-1]: Fassung gemäss Ziff. I der V der ETHL-Schulleitung vom 14. Dez. 2016, in Kraft seit 1. März 2017 ([AS 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
+[^5-1]: Ausdruck gemäss Ziff. I Abs. 1 der V der ETHL-Schulleitung vom 3. Sept. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 505](https://fedlex.data.admin.ch/eli/oc/2024/505)). Diese Änd. wurde im ganzen Erlass berücksichtigt.
 [^5-2]: Fassung gemäss Ziff. I der V der ETHL-Schulleitung vom 14. Dez. 2016, in Kraft seit 1. März 2017 ([AS 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
 [^5-3]: Fassung gemäss Ziff. I der V der ETHL-Schulleitung vom 14. Dez. 2016, in Kraft seit 1. März 2017 ([AS 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
 [^5-4]: Fassung gemäss Ziff. I der V der ETHL-Schulleitung vom 14. Dez. 2016, in Kraft seit 1. März 2017 ([AS 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
@@ -126,6 +126,7 @@ Die Programmleiterinnen und Programmleiter:
 [^5-7]: Fassung gemäss Ziff. I der V der ETHL-Schulleitung vom 14. Dez. 2016, in Kraft seit 1. März 2017 ([AS 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
 [^5-8]: Fassung gemäss Ziff. I der V der ETHL-Schulleitung vom 14. Dez. 2016, in Kraft seit 1. März 2017 ([AS 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
 [^5-9]: Fassung gemäss Ziff. I der V der ETHL-Schulleitung vom 14. Dez. 2016, in Kraft seit 1. März 2017 ([AS 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
+[^5-10]: Fassung gemäss Ziff. I der V der ETHL-Schulleitung vom 14. Dez. 2016, in Kraft seit 1. März 2017 ([AS 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
 
 ## 2. Abschnitt: MAS- und EM-Programme in der Weiterbildung und in der Fortbildung
 
@@ -286,11 +287,12 @@ Schulgeld, Kostenbeiträge und allfällige Befreiungen werden durch die Verordnu
 
 **Partnerschaften**[^17-1]
 
-<sup>1</sup> Partnerschaften mit anderen universitäre Institutionen im Bereich der MAS-, EM-, DAS-, CAS- oder COS-Programme bedürfen besonderer, von den Leitungen der beteiligten Institutionen genehmigter Vereinbarungen.
+<sup>1</sup> Partnerschaften mit anderen Institutionen des Hochschulbereichs[^17-2] im Bereich der MAS-, EM-, DAS-, CAS- oder COS-Programme bedürfen besonderer, von den Leitungen der beteiligten Institutionen genehmigter Vereinbarungen.
 
 <sup>2</sup> Die gemeinsame Verleihung von Titeln oder Abschlüssen durch die ETHL und eine Partnerinstitution wird im Rahmen dieser Vereinbarungen geregelt.
 
 [^17-1]: Fassung gemäss Ziff. I der V der ETHL-Schulleitung vom 14. Dez. 2016, in Kraft seit 1. März 2017 ([AS 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
+[^17-2]: Ausdruck gemäss Ziff. I Abs. 5 der V der ETHL-Schulleitung vom 3. Sept. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 505](https://fedlex.data.admin.ch/eli/oc/2024/505)).
 
 #### Art. 18
 
@@ -308,7 +310,7 @@ Die ETHL unterstützt ihr Personal, damit es die Programme und Veranstaltungen d
 
 [^19-subdivu1-1]
 
-[^19-subdivu1-1]: [[AS 2001 1499](https://fedlex.data.admin.ch/eli/oc/2001/219), [2002 2764](https://fedlex.data.admin.ch/eli/oc/2002/406), [2004 4335](https://fedlex.data.admin.ch/eli/oc/2004/653)Anhang II Ziff. 3]
+[^19-subdivu1-1]: [[AS 2001 1499](https://fedlex.data.admin.ch/eli/oc/2001/219); [2002 2764](https://fedlex.data.admin.ch/eli/oc/2002/406); [2004 4335](https://fedlex.data.admin.ch/eli/oc/2004/653)Anhang II Ziff. 3]
 
 ### und 3.
 

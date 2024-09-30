@@ -3,22 +3,22 @@ sr: "414.134.2"
 title: "Ordonnance de la direction de l'EPFL du 27 juin 2005 sur la formation continue et la formation approfondie à l'École polytechnique fédérale de Lausanne (Ordonnance sur la formation continue à l'EPFL)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/553"
 language: fr
-version: 2017-03-01
+version: 2024-10-01
 adopted: 2005-06-27
 in_force: 2005-09-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/553/20170301/fr/xml/fedlex-data-admin-ch-eli-cc-2005-553-20170301-fr-xml-9.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/553/20170301/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/553/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-2005-553-20241001-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/553/20241001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Ordonnance de la direction de l’EPFL sur la formation continue et la formation approfondie à l’Ecole polytechnique fédérale de Lausanne
+# Ordonnance de la direction de l’EPFL sur la formation continue et la formation approfondie à l’École polytechnique fédérale de Lausanne
 
 (Ordonnance sur la formation continue à l’EPFL)
 
-du 27 juin 2005 (État le 1<sup>er</sup> mars 2017)
+du 27 juin 2005 (État le 1<sup>er</sup> octobre 2024)
 
-La direction de l’Ecole polytechnique fédérale de Lausanne (EPFL),
+La direction de l’École polytechnique fédérale de Lausanne (EPFL),
 
 vu l’art. 3, al. 1, let. b, de l’ordonnance du 13 novembre 2003 sur l’EPFZ et l’EPFL[^ingress-1],
 
@@ -82,27 +82,27 @@ La formation approfondie comprend:
 
 **Compétences et organisation**
 
-<sup>1</sup> L’Ecole de la formation continue de l’EPFL (EFC) coordonne l’ensemble des activités de formation continue et de formation approfondie de l’EPFL visées aux art. 3 et 4.
+<sup>1</sup> L’École de la formation continue de l’EPFL (EFC) coordonne l’ensemble des activités de formation continue et de formation approfondie de l’EPFL visées aux art. 3 et 4.
 
-<sup>2</sup> L’EFC est rattachée au vice-président pour l’éducation.[^5-1]
+<sup>2</sup> L’EFC est rattachée au vice-président académique[^5-1].[^5-2]
 
 <sup>3</sup> La première édition des programmes de MAS et d’EM est soumise à l’autorisation de la direction de l’EPFL.
 
 <sup>4</sup>
 
-Le vice-président pour l’éducation:[^5-2]
+Le vice-président académique:[^5-3]
 
 - a. approuve chaque année le budget et les comptes de l’EFC;
-- b.[^5-3] désigne les directeurs des programmes de MAS, d’EM, de DAS, de CAS et de COS;
-- c.[^5-4] délivre les autorisations pour la première édition des programmes de DAS, de CAS et de COS;
-- d.[^5-5] approuve les règlements d’études.
+- b.[^5-4] désigne les directeurs des programmes de MAS, d’EM, de DAS, de CAS et de COS;
+- c.[^5-5] délivre les autorisations pour la première édition des programmes de DAS, de CAS et de COS;
+- d.[^5-6] approuve les règlements d’études.
 
-Le délégué du vice-président pour l’éducation:[^5-6]
+Le délégué du vice-président académique:[^5-7]
 
 - a. dirige l’EFC;
-- b.[^5-7] délivre les autorisations pour les éditions de programmes et les sessions de formation qui ne sont pas de la compétence de la direction de l’EPFL ou du vice-président pour l’éducation;
-- c. statue sur la reconnaissance et l’équivalence des titres universitaires présentés par les candidats à l’admission aux programmes, ainsi que sur l’admissibilité des candidats;
-- d.[^5-8] notifie les décisions concernant l’admission aux programmes;
+- b.[^5-8] délivre les autorisations pour les éditions de programmes et les sessions de formation qui ne sont pas de la compétence de la direction de l’EPFL ou du vice-président académique;
+- c. statue sur la reconnaissance et l’équivalence des titres …[^5-9] présentés par les candidats à l’admission aux programmes, ainsi que sur l’admissibilité des candidats;
+- d.[^5-10] notifie les décisions concernant l’admission aux programmes;
 - e. développe une stratégie dans le cadre des grandes lignes de la formation continue et de la formation approfondie déterminées par la direction de l’EPFL;
 - f. veille à l’évaluation et au contrôle de qualité des activités de formation continue et de formation approfondie;
 - g. veille à la promotion de la formation continue et de la formation approfondie de l’EPFL.
@@ -112,10 +112,10 @@ Le délégué du vice-président pour l’éducation:[^5-6]
 Les directeurs de programme:
 
 - a. répondent du bon fonctionnement et de la gestion du programme dont ils sont responsables;
-- b.[^5-9] assurent la promotion du programme en concertation avec l’EFC;
+- b.[^5-11] assurent la promotion du programme en concertation avec l’EFC;
 - c. statuent sur l’admission des candidats déclarés admissibles.
 
-[^5-1]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 14 déc. 2016, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
+[^5-1]: Nouvelle expression selon le ch. I al. 1 de l’O de la Direction de l’EPFL du 3 sept. 2024, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 505](https://fedlex.data.admin.ch/eli/oc/2024/505)). Il a été tenu compte de cette mod. dans tout le texte.
 [^5-2]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 14 déc. 2016, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
 [^5-3]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 14 déc. 2016, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
 [^5-4]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 14 déc. 2016, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
@@ -123,7 +123,9 @@ Les directeurs de programme:
 [^5-6]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 14 déc. 2016, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
 [^5-7]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 14 déc. 2016, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
 [^5-8]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 14 déc. 2016, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
-[^5-9]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 14 déc. 2016, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
+[^5-9]: Terme abrogé par le ch. I al. 4 de l’O de la Direction de l’EPFL du 3 sept. 2024, avec effet au 1<sup>er</sup> oct. 2024 ([RO 2024 505](https://fedlex.data.admin.ch/eli/oc/2024/505)).
+[^5-10]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 14 déc. 2016, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
+[^5-11]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 14 déc. 2016, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
 
 ## Section 2 Programmes de MAS et d’EM en formation continue et en formation approfondie
 
@@ -158,11 +160,13 @@ Le business plan comprend au minimum:
 
 **Admissibilité et admission**
 
-<sup>1</sup> Sont admissibles, sur dossier, aux programmes de MAS ou d’EM les titulaires d’un master ou diplôme EPF ou d’un titre universitaire reconnu équivalent.
+<sup>1</sup> Sont admissibles, sur dossier, aux programmes de MAS ou d’EM les titulaires d’un master ou diplôme EPF ou d’un titre d’une haute école[^8-1] reconnu équivalent.
 
 <sup>2</sup> Les candidats ne satisfaisant pas à la condition visée à l’al. 1 mais témoignant d’un niveau de qualification adéquat, attesté par des acquis et une expérience professionnels, peuvent à titre exceptionnel être déclarés admissibles.
 
 <sup>3</sup> Lorsque l’orientation ou l’organisation du programme l’exige, l’admission peut être subordonnée à des conditions supplémentaires telles que l’acquisition préalable de connaissances et de qualifications particulières, la capacité logistique ou la composition de l’assistance en fonction des profils et des parcours professionnels des candidats.
+
+[^8-1]: Nouvelle expression selon le ch. I al. 2 de l’O de la Direction de l’EPFL du 3 sept. 2024, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 505](https://fedlex.data.admin.ch/eli/oc/2024/505)). Il n’a été tenu compte de cette mod. que dans les disp. mentionnées au RO.
 
 #### Art. 9
 
@@ -208,13 +212,14 @@ Les dispositions relatives au business plan et au règlement d’études des pro
 
 **Admissibilité et admission**
 
-<sup>1</sup> Sont admissibles, sur dossier, aux programmes de DAS et de CAS les titulaires d’un bachelor EPF ou les personnes d’un niveau universitaire reconnu équivalent.[^12-1]
+<sup>1</sup> Sont admissibles, sur dossier, aux programmes de DAS et de CAS les titulaires d’un bachelor EPF ou les personnes au bénéfice d’une formation d’une haute école reconnue comme équivalente[^12-1].[^12-2]
 
 <sup>2</sup> Les candidats ne satisfaisant pas à la condition visée à l’al. 1 mais témoignant d’un niveau de qualification adéquat, attesté par des acquis et une expérience professionnels, peuvent, à titre exceptionnel, être déclarés admissibles.
 
 <sup>3</sup> Lorsque l’orientation ou l’organisation du programme l’exige, l’admission peut être subordonnée à des conditions supplémentaires telles que l’acquisition préalable de connaissances et de qualifications particulières par les candidats, la capacité logistique ou la composition de l’assistance en fonction des profils et des parcours professionnels des candidats.
 
-[^12-1]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 14 déc. 2016, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
+[^12-1]: Nouvelle expression selon le ch. I al. 3 de l’O de la Direction de l’EPFL du 3 sept. 2024, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 505](https://fedlex.data.admin.ch/eli/oc/2024/505)).
+[^12-2]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 14 déc. 2016, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
 
 ## Section 3*a* Programmes de COS en formation continue
 
@@ -242,7 +247,7 @@ Les dispositions relatives au business plan et au règlement d’études des pro
 
 **Admissibilité et admission**
 
-<sup>1</sup> Sont également admissibles aux programmes de formation continue ouverte les candidats n’ayant pas de titre universitaire.
+<sup>1</sup> Sont également admissibles aux programmes de formation continue ouverte les candidats n’ayant pas de titre d’une haute école.
 
 <sup>2</sup> Lorsque l’orientation ou l’organisation du programme l’exige, l’admission peut être subordonnée à des conditions telles que l’acquisition préalable de connaissances et de qualifications particulières par les candidats, la capacité logistique ou la composition de l’assistance en fonction des profils et des parcours professionnels des candidats.
 
@@ -268,7 +273,7 @@ Les autorisations pour chaque session de formation continue courte se fondent su
 
 **Admissibilité et admission**
 
-<sup>1</sup> Sont admissibles aux sessions de formation continue courte les porteurs d’un titre universitaire, les spécialistes qualifiés et les professionnels témoignant d’un niveau de qualification adéquat.
+<sup>1</sup> Sont admissibles aux sessions de formation continue courte les porteurs d’un titre d’une haute école, les spécialistes qualifiés et les professionnels témoignant d’un niveau de qualification adéquat.
 
 <sup>2</sup> L’organisateur de la session statue sur l’admission des candidats, dont il peut limiter le nombre. Il communique la liste des participants à l’EFC.
 
@@ -286,11 +291,12 @@ Les finances de cours, les contributions aux frais et les éventuelles dispenses
 
 **Partenariats**[^17-1]
 
-<sup>1</sup> Les partenariats avec d’autres institutions universitaires, pour des programmes conduisant à un MAS, EM, DAS, CAS ou COS, doivent faire l’objet de conventions spécifiques approuvées par les directions des institutions partenaires.
+<sup>1</sup> Les partenariats avec d’autres institutions du domaine des hautes écoles[^17-2], pour des programmes conduisant à un MAS, EM, DAS, CAS ou COS, doivent faire l’objet de conventions spécifiques approuvées par les directions des institutions partenaires.
 
 Les titres ou certificats décernés conjointement par l’EPFL et une institution parte­ naire sont régis par ces conventions.
 
 [^17-1]: Nouvelle teneur selon le ch. I de l’O de la Direction de l’EPFL du 14 déc. 2016, en vigueur depuis le 1<sup>er</sup> mars 2017 ([RO 2017 483](https://fedlex.data.admin.ch/eli/oc/2017/81)).
+[^17-2]: Nouvelle expression selon le ch. I al. 5 de l’O de la Direction de l’EPFL du 3 sept. 2024, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 505](https://fedlex.data.admin.ch/eli/oc/2024/505)).
 
 #### Art. 18
 
@@ -304,7 +310,7 @@ L’EPFL encourage son personnel à suivre des programmes et des sessions de for
 
 **Abrogation et modification du droit en vigueur**
 
-### L’ordonnance du 13 décembre 1999 sur la postformation à l’Ecole polytechnique fédérale de Lausanne est abrogée.
+### L’ordonnance du 13 décembre 1999 sur la postformation à l’École polytechnique fédérale de Lausanne est abrogée.
 
 [^19-subdivu1-1]
 
@@ -322,7 +328,7 @@ L’EPFL encourage son personnel à suivre des programmes et des sessions de for
 
 **Disposition transitoire**
 
-Les anciens titres visés à l’art. 10 de l’ordonnance du 13 décembre 1999 sur la postformation à l’Ecole polytechnique fédérale de Lausanne[^20-1] peuvent encore être décernés dans le cadre des éditions de programmes de postformation en cours au moment de l’entrée en vigueur de la présente ordonnance.
+Les anciens titres visés à l’art. 10 de l’ordonnance du 13 décembre 1999 sur la postformation à l’École polytechnique fédérale de Lausanne[^20-1] peuvent encore être décernés dans le cadre des éditions de programmes de postformation en cours au moment de l’entrée en vigueur de la présente ordonnance.
 
 [^20-1]: [[RO 2001 1499](https://fedlex.data.admin.ch/eli/oc/2001/219)]
 
