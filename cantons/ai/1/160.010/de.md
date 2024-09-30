@@ -4,13 +4,12 @@ number: "160.010"
 title: Verordnung über die Urnenabstimmungen
 short: VUA
 language: de
-version: 2018-01-01
-corrected: 2019-02-11
-version_adopted: 2017-10-23
+version: 2024-10-01
+version_adopted: 2024-06-24
 adopted: 2017-10-23
 in_force: 2018-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/160.010"
-pdf: "https://ai.clex.ch/api/de/versions/1086/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2420/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://ai.clex.ch/api/de/versions/1086/pdf_file"
 
 (VUA)
 
-vom 23.10.2017 (Stand 01.01.2018)
+vom 23.10.2017 (Stand 01.10.2024)
 
 Der Grosse Rat des Kantons Appenzell I. Rh.,
 
@@ -37,7 +36,7 @@ beschliesst:
 
 <sup>2</sup> Für eidgenössische Urnengänge gilt sie ergänzend zum Bundesrecht.
 
-<sup>3</sup> Wo nichts anderes steht, umfasst der Begriff der Abstimmung sowohl Wahlen als auch Sachabstimmungen.
+<sup>3</sup> Wo nichts anderes steht oder sich aus dem Zusammenhang nichts anderes ergibt, umfasst der Begriff der Abstimmung sowohl Sachabstimmungen als auch Wahlen und der Begriff Stimmzettel sowohl Stimmzettel für Sachabstimmungen als auch Wahlzettel.
 
 <sup>4</sup> In der gesamten Durchführung von Abstimmungen ist das Stimmgeheimnis zu wahren.
 
@@ -52,6 +51,8 @@ beschliesst:
 <sup>3</sup> Für die eidgenössischen Abstimmungen und die Nationalratswahl ist die Ratskanzlei das kantonale Zählbüro. Sie trifft die von Bundesrechts wegen erforderlichen Massnahmen und ist mit Bezug auf die Auslandschweizer und Auslandschweizerinnen für die Durchführung zuständig. Im Übrigen erfolgt die Durchführung der eidgenössischen Urnengänge in den Bezirken.
 
 <sup>4</sup> Die Standeskommission legt kantonale Beiträge an die Kosten der Bezirke für die Durchführung von eidgenössischen Abstimmungen fest.
+
+<sup>5</sup> Sie kann Verfahrensfristen gemäss dieser Verordnung auf Gesuch der durchführenden Behörde angemessen anpassen.
 
 #### Art. 3
 
@@ -97,11 +98,20 @@ beschliesst:
 
 #### Art. 6
 
-**Öffentliche Bekanntgabe**
+**Bekanntgabe Abstimmungen und Wahlen**
 
-<sup>1</sup> Abstimmungen sind spätestens eine Woche vor dem Durchführungstag im amtlichen Publikationsorgan öffentlich bekannt zu geben.
+<sup>1</sup> Sachabstimmungen sind spätestens 30 Tage vor dem Durchführungstag im amtlichen Publikationsorgan öffentlich bekannt zu geben.
 
-<sup>2</sup> Die Bekanntgabe umfasst den Gegenstand der Abstimmung, die Öffnungszeiten und Standorte der Urnen sowie die allfällige Bezeichnung der Amtsstelle, wo Stimmen abgegeben werden können, samt den Öffnungszeiten.
+<sup>1a</sup> Für Wahlen legt die durchführende Behörde den Zeitpunkt für die Bekanntgabe im amtlichen Publikationsorgan fest.
+
+<sup>2</sup> Die Bekanntgabe von Abstimmungen umfasst
+
+- a) die Öffnungszeiten und Standorte der Urnen sowie
+- b) die allfällige Bezeichnung der Amtsstelle, wo Stimmen abgegeben werden können, samt den Öffnungszeiten.
+
+<sup>3</sup> Bei Sachabstimmungen umfasst die Bekanntgabe zusätzlich die Angabe des Abstimmungsgegenstands, bei Wahlen zusätzlich die Angabe, für welche Ämter die Wahl gilt, und eine kurze Darlegung des Anmeldeverfahrens sowie die Anmeldefrist.
+
+<sup>4</sup> Für die Nationalratswahlen gelten zudem die Vorgaben gemäss Bundesrecht.
 
 #### Art. 7
 
@@ -109,7 +119,7 @@ beschliesst:
 
 <sup>1</sup> Am Abstimmungstag ist in jeder durchführenden Körperschaft mindestens eine Urne offen zu halten.
 
-<sup>2</sup> An mindestens zwei der vier Vortage vor der Abstimmung sind ebenfalls je mindestens eine Urne offen zu halten oder die Möglichkeit zu bieten, dass Stimmen während mindestens einer Stunde pro Tag verschlossen auf einer Amtsstelle abgegeben werden können.
+<sup>2</sup> An mindestens zwei der vier Vortage vor der Abstimmung sind ebenfalls je mindestens eine Urne offen zu halten oder die Möglichkeit zu bieten, dass Stimmen während mindestens einer Stunde pro Tag verschlossen auf einer Amtsstelle abgegeben werden können
 
 <sup>3</sup> Es können Wanderurnen eingesetzt werden, am Abstimmungstag aber nur zusätzlich zu einer anderen Urne.
 
@@ -157,11 +167,13 @@ beschliesst:
 
 **Überwachung der Stimmabgabe**
 
-<sup>1</sup> Jede Urne und die Stimmabgabe sind während der Öffnungszeit ständig von mindestens einem Mitglied des Stimmbüros zu überwachen.
+<sup>1</sup> Jede Urne und die Stimmabgabe sind während der Öffnungszeit ständig zu überwachen.
 
 <sup>2</sup> Die Überwachung beinhaltet insbesondere, dass nur einmal gestimmt wird und die Urne zu Beginn leer ist sowie nach der Schliessung korrekt verwahrt wird.
 
 <sup>3</sup> Die mit der Überwachung betrauten Personen dürfen weder nach dem Inhalt der Stimmzettel forschen noch bei der Stimmabgabe Einfluss nehmen oder beim Ausfüllen der Stimmzettel helfen.
+
+<sup>4</sup> Die Standeskommission kann für die Überwachung der Urnen und der Stimmabgabe in einer Behördenweisung nähere Vorgaben machen.
 
 #### Art. 13
 
@@ -192,7 +204,7 @@ beschliesst:
 
 #### Art. 16
 
-**Ermittlung der Ergebnisse**
+**Ablauf der Auszählung**
 
 <sup>1</sup> Mit der Auszählung der Stimmzettel darf erst am Abstimmungstag begonnen werden.
 
@@ -206,38 +218,41 @@ beschliesst:
 
 <sup>4</sup> Ist ein Unterbruch der Auszählung unvermeidlich, ist das Zählbüro sicher abzuschliessen.
 
+#### Art. 16a
+
+**Ermittlung der Ergebnisse**
+
+<sup>1</sup> Bei Sachabstimmungen und bei einfachen Wahlen für ein Amt werden Stimmzettel gezählt, bei Mehrfachwahlen auf einem Wahlzettel die Einzelstimmen.
+
+<sup>2</sup> Für die Ermittlung des Abstimmungsergebnisses fallen die leeren oder ungültigen Stimmzettel ausser Betracht, bei der Auszählung von Einzelstimmen zudem die ungültigen Einzelstimmen.
+
 #### Art. 17
 
-**Abstimmungs-ergebnis**
-
-<sup>1</sup> Über das Ergebnis der Abstimmung wird in jedem Stimmbüro ein Protokoll mit folgenden Daten erstellt:
-
-- a) Zweck, Datum und Ort der Abstimmung;
-- b) Zahl der Stimmberechtigten;
-- c) Zahl der eingegangenen Stimmzettel;
-- d) Zahl der leeren und ungültigen Stimmen;
-- e) Zahl der gültigen Stimmzettel, geordnet nach Kandidaten und Kandidatinnen oder nach Zustimmung und Ablehnung einer Vorlage.
-
-<sup>2</sup> Für die Ermittlung des Abstimmungsergebnisses fallen die leeren und ungültigen Stimmzettel ausser Betracht.
-
-<sup>3</sup> Die Richtigkeit des Protokolls ist durch die Unterschrift des Präsidenten oder der Präsidentin und des Sekretärs oder der Sekretärin des Stimmbüros und im Falle der Auslandschweizer durch den Ratschreiber oder die Ratschreiberin zu bestätigen.
+**…**
 
 #### Art. 18
 
-**Ungültige Stimmzettel**
+**Ungültigkeit**
 
 <sup>1</sup> Stimmzettel sind ungültig, wenn sie
 
 - a) nicht amtlich sind;
 - b) anders als handschriftlich ausgefüllt sind;
 - c) den Willen der stimmenden Person nicht eindeutig erkennen lassen;
-- d) zusätzliche Anmerkungen oder Zeichen enthalten.
+- d) zusätzliche Anmerkungen oder Zeichen enthalten;
+- e) bei Wahlen zusammengenommen mehr angekreuzte Kästchen und aufgeschriebene Namen enthalten als Ämter zu besetzen sind;
+- f) bei Sachabstimmungen mit einer Anschlussfrage keine Antwort auf die Haupt- oder die Anschlussfrage enthalten.
 
 <sup>2</sup> Brieflich abgegebene Stimmzettel sind zusätzlich ungültig, wenn
 
 - a) sie nach Urnenschluss beim Stimmbüro eingetroffen sind;
-- b) sich Stimmzettel mit anderen, nicht gleichlautenden Stimmzetteln der gleichen Abstimmung im gleichen Couvert befinden;
+- b) sich Stimmzettel mit anderen, nicht gleichlautenden Stimmzetteln zum gleichen Abstimmungsgegenstand im gleichen Couvert befinden;
 - c) die Erklärung, dass die Stimmabgabe dem Willen der stimmenden Person entspricht, nicht unterzeichnet ist.
+
+<sup>3</sup> Wahlzettel oder Einzelstimmen sind zudem ungültig, wenn
+
+- a) der Name einer Person aufgeführt ist, die im betreffenden Wahlkreis nicht gewählt werden kann; oder
+- b) sich der aufgeführte Name nicht eindeutig einer wählbaren Person zuordnen lässt.
 
 #### Art. 19
 
@@ -245,7 +260,23 @@ beschliesst:
 
 <sup>1</sup> Von mehreren gleichlautenden Stimmzetteln in einem Abstimmungscouvert ist nur einer gültig.
 
-<sup>2</sup> Enthält ein Stimmzettel mehr als einmal den gleichen Namen, wird die Stimme nur einmal gezählt.
+<sup>2</sup> Enthält ein Wahlzettel mehr als einmal den gleichen Namen, wird die Stimme nur einmal gezählt.
+
+#### Art. 19a
+
+**Abstimmungsergebnis**
+
+<sup>1</sup> Über das Ergebnis der Abstimmung wird in jedem Stimmbüro ein Protokoll mit folgenden Daten erstellt:
+
+- a) Gegenstand der Abstimmung;
+- b) Zweck, Datum und Ort der Abstimmung;
+- c) Zahl der Stimmberechtigten;
+- d) Zahl der eingegangenen Stimmzettel;
+- e) Zahl der leeren und ungültigen sowie der in Betracht fallenden Stimmzettel;
+- f) Im Falle der Zählung von Einzelstimmen die Zahl der ungültigen und gültigen Stimmen;
+- g) Zahl der gültigen Stimmzettel oder Stimmen, geordnet nach Kandidaten und Kandidatinnen oder nach Zustimmung und Ablehnung einer Abstimmungsfrage.
+
+<sup>2</sup> Die Richtigkeit des Protokolls ist durch die Unterschrift des Präsidenten oder der Präsidentin und des Sekretärs oder der Sekretärin des Stimmbüros und im Falle der Auslandschweizer und -schweizerinnen durch den Ratschreiber oder die Ratschreiberin zu bestätigen.
 
 ## II. Eidgenössische Abstimmungen und Wahlen
 
@@ -261,7 +292,7 @@ beschliesst:
 
 **Übermittlung der Resultate**
 
-<sup>1</sup> Die Resultate der eidgenössischen Abstimmungen sowie der Nationalratswahlen sind unverzüglich der Ratskanzlei zu melden. Die Meldung ist stets mit zwei der von der Ratskanzlei im Voraus festgelegten Kommunikationsmittel vorzunehmen.
+<sup>1</sup> Die Stimmbüros der Bezirke melden die Resultate der eidgenössischen Abstimmungen sowie der Nationalratswahlen unverzüglich der Ratskanzlei. Die Meldung ist stets mit zwei der von der Ratskanzlei im Voraus festgelegten Kommunikationsmittel vorzunehmen.
 
 <sup>2</sup> Am Tag nach der Abstimmung sind sämtliche Stimmzettel samt den Protokollen der Ratskanzlei abzuliefern.
 
@@ -277,23 +308,93 @@ beschliesst:
 
 <sup>3</sup> Die Kirch- oder Schulgemeindebehörde kann die Durchführung von Urnengängen im Rahmen einer hierfür abzuschliessenden Vereinbarung einem Bezirk übertragen.
 
+#### Art. 22a
+
+**Rücktritte**
+
+<sup>1</sup> Für Ämter, die an der Urne besetzt werden, legt die Bezirks- oder Gemeindebehörde die Rücktrittsfristen fest.
+
+<sup>2</sup> Bei Rücktritten von Personen, welche dem Amtszwang unterstehen, wird ohne förmliche Amtsentlassung eine Ersatzwahl durchgeführt. Die Stimmabgabe an eine andere Person wird als Zustimmung zur Amtsentlassung gewertet. Der Wahlzettel wird in diesen Fällen mit einem entsprechenden Hinweis versehen.
+
+#### Art. 22b
+
+**Anmeldeverfahren**
+
+<sup>1</sup> Für die Wahlen können sich Kandidatinnen und Kandidaten unter Angabe ihres Namens und weiterer erforderlicher Daten anmelden. Die Anmeldung ist von der Kandidatin oder vom Kandidaten zu unterzeichnen.
+
+<sup>2</sup> Die Bezirks- oder Gemeindebehörde legt die Frist fest, bis zu welcher die Anmeldungen bei der Bezirks- oder Gemeindekanzlei eingegangen sein müssen.
+
+<sup>3</sup> Innert der Anmeldefrist können bereits angemeldete Kandidatinnen und Kandidaten ihre Anmeldung schriftlich zurückziehen. Bei einem Versterben innert dieser Frist fällt die Anmeldung dahin.
+
+<sup>4</sup> Die Bezirks- oder Gemeindekanzlei prüft die Anmeldungen und schaltet die gültigen Kandidaturen auf ihrer Website auf. Personen mit ungültigen Anmeldungen werden unverzüglich schriftlich über die Nichtberücksichtigung orientiert.
+
+<sup>5</sup> Die Anmeldung gilt für den Wahltag sowie allfällige zweite Wahlgänge. Eine Nachmeldung für zweite Wahlgänge ist nicht möglich. Verzichten Angemeldete auf die Teilnahme an zweite Wahlgänge, teilen sie dies der Bezirks- oder Gemeindekanzlei innert dreier Tage nach dem Wahltag schriftlich mit.
+
 #### Art. 23
 
 **Vorbereitung der Abstimmungen**
 
-<sup>1</sup> Die Abstimmungsunterlagen und der Stimmrechtsausweis sind spätestens drei Wochen vor dem Urnengang zuzustellen. Die Standeskommission kann auf begründetes Gesuch eine kürzere Frist bewilligen.
+<sup>1</sup> Die Abstimmungsunterlagen und der Stimmrechtsausweis sind spätestens drei Wochen vor dem Urnengang zuzustellen.
 
-<sup>2</sup> Der amtliche Stimmzettel enthält die Bezeichnung „Stimmzettel“, die Bezeichnung der Körperschaft sowie die notwendigen Angaben über das Geschäft. Bei Wahlen enthält er für jede Einzelwahl eine Linie, bei Sachabstimmungen die Abstimmungsfrage und eine Linie für die Beantwortung.
+<sup>2</sup> …
+
+#### Art. 23a
+
+**Stimmzettel für Sachabstimmungen**
+
+<sup>1</sup> Für jedes Abstimmungsgeschäft ist ein separater Stimmzettel zu erstellen.
+
+<sup>2</sup> Der Stimmzettel enthält
+
+- a) die Bezeichnung «Stimmzettel»,
+- b) die Bezeichnung der Körperschaft und des Abstimmungstags,
+- c) die notwendigen Angaben über das Geschäft,
+- d) die Abstimmungsfrage und die erforderlichen Kästchen für die Beantwortung.
+
+#### Art. 23b
+
+**Wahlzettel**
+
+<sup>1</sup> Für jede Einzelwahl ist ein separater Wahlzettel zu erstellen, Wahlen für die Besetzung mehrerer Sitze der gleichen Behörde (Mehrfachwahlen) können auf einen Wahlzettel genommen werden.
+
+<sup>2</sup> Der Wahlzettel enthält
+
+- a) die Bezeichnung «Wahlzettel»,
+- b) die Bezeichnung der Körperschaft und des Abstimmungstags,
+- c) die Nennung des Amts oder der Ämter, die mit der Wahl besetzt werden sollen,
+- d) bei mehreren Ämtern die Anzahl der zu besetzenden Ämter,
+- e) eine kurze Angabe dazu, wie korrekt gewählt wird; diese Angabe kann auch auf einem separaten Beiblatt vorgenommen werden.
+
+<sup>3</sup> Der Wahlzettel enthält weiter
+
+- a) die Namen und die weiteren zur Identifizierung erforderlichen Daten der angemeldeten Personen, zuerst die Daten der bisherigen Amtsinhaberinnen und -inhaber in alphabetischer Reihenfolge und mit dem Zusatz «bisher», danach jene der Neukandidierenden in alphabetischer Reihenfolge,
+- b) ein Kästchen zum Ankreuzen bei jedem Namen,
+- c) abschliessend leere Linien in der Anzahl der zu besetzenden Ämter.
+
+<sup>4</sup> Werden keine Personen gemeldet, enthält der Zettel leere Linien in der Anzahl der zu besetzenden Ämter.
+
+#### Art. 23c
+
+**Ausfüllen der Stimmzettel**
+
+<sup>1</sup> Bei Sachabstimmungen werden die Kästchen je nach Fragestellung angekreuzt oder eigenhändig mit «Ja» oder «Nein» ausgefüllt.
+
+<sup>2</sup> Wahlzettel sind wie folgt auszufüllen:
+
+- a) Entweder wird das Kästchen neben dem vorgedruckten Namen einer Kandidatin oder eines Kandidaten angekreuzt oder der Name einer wählbaren Person samt den nötigen persönlichen Angaben eigenhändig auf eine leere Linie geschrieben.
+- b) Es dürfen zusammengenommen nur so viele Kreuzchen gesetzt und eigenhändige Einträge vorgenommen werden, wie Ämter zu besetzen sind.
 
 #### Art. 24
 
 **Erforderliches Mehr**
 
-<sup>1</sup> Bei Sachabstimmungen und in ersten Wahlgängen gilt das einfache Mehr. Es ist erreicht, wenn ein Kandidat oder eine Kandidatin oder eine Vorlage von den eingegangenen Stimmzetteln, abzüglich der leeren, ungültigen und nicht mitgezählten Zettel, mehr als die Hälfte auf sich vereint.
+<sup>1</sup> Bei Sachabstimmungen und in ersten Wahlgängen gilt das einfache Mehr. Es ist erreicht, wenn eine Kandidatin oder ein Kandidat oder eine Vorlage mehr als die Hälfte der in Betracht fallenden Stimm- oder Wahlzettel auf sich vereint.
+
+<sup>1a</sup> Bei Mehrfachwahlen ist in ersten Wahlgängen die Mehrheit der in Betracht fallenden Stimmen pro Sitz massgeblich, bei Sachabstimmungen mit mehreren angenommenen Abstimmungsfragen die Mehrheit der in Betracht fallenden Stimmen für die Stichfrage.
 
 <sup>2</sup> In zweiten Wahlgängen gilt das relative Mehr. Gewählt sind die Person oder die Personen mit den höchsten Stimmenzahlen. Erreichen mehrere Personen das gleiche zur Wahl berechtigende Resultat und können sie nicht alle als gewählt bezeichnet werden, entscheidet das vom Präsidenten oder von der Präsidentin des Stimmbüros zu ziehende Los.
 
-<sup>3</sup> Zweite Wahlgänge sind umgehend öffentlich auszuschreiben und finden frühestens eine Woche nach dem ersten Wahlgang statt.
+<sup>3</sup> Zweite Wahlgänge sind umgehend öffentlich auszuschreiben und durchzuführen. Die Bezirks- oder Gemeindebehörde legt den Zeitpunkt und die erforderlichen Fristen fest.
 
 #### Art. 25
 
@@ -303,7 +404,9 @@ beschliesst:
 
 <sup>2</sup> Wird jemand in verschiedene Ämter gewählt, die sich gegenseitig ausschliessen, hat sich der oder die Betroffene innert dreier Tage für ein Amt zu entscheiden. Für die durch Urnenwahl gewählten Exekutivbehörden gelten die Unvereinbarkeitsregeln für die Standeskommission gemäss Kantonsverfassung sinngemäss.
 
-<sup>3</sup> Eine gewählte, dem Amtszwang nicht mehr unterstehende Person kann innert gleicher Frist die Nichtannahme der Wahl erklären. Im Falle einer Wiederwahl gilt dieses Ablehnungsrecht nur, wenn spätestens 60 Tage vor der Wahl der Rücktritt schriftlich erklärt worden ist.
+<sup>3</sup> Eine gewählte, dem Amtszwang nicht mehr unter-stehende Person kann innert gleicher Frist die Nichtannahme der Wahl erklären. Im Falle einer Wiederwahl gilt dieses Ablehnungsrecht nur, wenn ein fristgerechter Rücktritt erklärt wurde.
+
+<sup>4</sup> Bei Personen, die sich für eine Wahl angemeldet haben, ist ein allfälliges Nichtannahmerecht verwirkt.
 
 #### Art. 26
 
@@ -315,9 +418,11 @@ beschliesst:
 
 #### Art. 27
 
-**Veröffentlichung**
+**Abschluss der Abstimmung**
 
 <sup>1</sup> Die Ergebnisse der Urnenabstimmungen sind in angemessener Weise bekannt zu geben. Gewählten ist von der Wahl umgehend schriftlich Kenntnis zu geben.
+
+<sup>2</sup> Nach Ablauf der Rechtsmittelfrist oder nach Erledigung der Rechtsmittel entscheidet die Bezirks- oder Gemeindebehörde über die Vernichtung der Stimmzettel.
 
 #### Art. 28
 
@@ -335,7 +440,23 @@ beschliesst:
 
 <sup>1</sup> Die Verordnung über die Landsgemeinde und die Gemeindeversammlung vom 1. Dezember 2014 wird geändert:
 
-...
+- 1\. Der Verordnungstitel erhält die Abkürzung VLGV.
+- 2\. Art. 3 Abs. 2 lautet neu, Abs. 3 und 4 werden eingefügt:
+  - 2 In einer Kirchgemeinde wohnende Ausländer mit Niederlassungsbewilligung können gemäss Kirchgemeindereglement für Kirchgemeindegeschäfte als stimmberechtigt erklärt werden.
+  - 3 Die Stimmberechtigung beginnt nach erfolgter Eintragung in das örtliche Stimmregister.
+  - 4 In ein durch Volkswahl besetztes Amt gewählt werden und ein solches Amt ausüben kann nur, wer in der entsprechenden Körperschaft das Stimmrecht hat.
+- 3\. Art. 7 Abs. 3 lautet neu:
+  - 3 Gilt eine bisherige Person als vorgeschlagen, und gibt es keine weiteren Vorschläge, ist sie gewählt; bei der Wahl des regierenden Landammanns und des Ständerates wird immer ausgemehrt.
+- 4\. Art. 11 Abs. 2 lautet neu, Abs. 4 und 5 werden eingefügt:
+  - 2 Änderungsanträge sind nicht möglich, ausser bei der Festlegung von Steuerfüssen und -sätzen.
+  - 4 Rückweisungsanträge sind mit einem Auftrag zu verbinden. Über sie kann sofort, im Verlauf der Aussprache oder nach dieser abgestimmt werden.
+  - 5 Wird ein Rückweisungsantrag angenommen, ist die Behandlung des Geschäftes beendet; wird er abgelehnt, ist je nach gewähltem Abstimmungszeitpunkt die Aussprache fortzuführen, oder es ist die Sachabstimmung durchzuführen.
+
+#### Art. 29a
+
+**Übergangsrecht**
+
+<sup>1</sup> Wahlen, die vor dem Inkrafttreten der Revision vom 24. Juni 2024 öffentlich angekündigt wurden, werden nach bisherigem Recht abgewickelt.
 
 #### Art. 30
 
@@ -344,6 +465,8 @@ beschliesst:
 <sup>1</sup> Die Verordnung über die politischen Rechte vom 11. Juni 1979 wird aufgehoben.
 
 #### Art. 31
+
+**Inkrafttreten**
 
 <sup>1</sup> Diese Verordnung tritt unter dem Vorbehalt der Genehmigung durch den Bundesrat am 1. Januar 2018 in Kraft.
 
