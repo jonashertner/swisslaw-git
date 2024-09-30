@@ -4,13 +4,12 @@ number: "585.153"
 title: Tarif über die Erhebung von Gebühren in Brandschutzangelegenheiten
 short: Gebührentarif Brandschutz
 language: de
-version: 2022-01-01
-valid_until: 2024-09-30
-version_adopted: 2021-05-19
+version: 2024-10-01
+version_adopted: 2024-09-03
 adopted: 2021-05-19
 in_force: 2022-01-01
 url: "https://gesetzessammlungen.ag.ch/app/de/texts_of_law/585.153"
-pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3180/pdf_file"
+pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3657/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AG. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://gesetzessammlungen.ag.ch/api/de/versions/3180/pdf_file"
 
 (Gebührentarif Brandschutz)
 
-Vom 19.05.2021 (Stand 01.01.2022)
+Vom 19.05.2021 (Stand 01.10.2024)
 
 Der Verwaltungsrat der Aargauischen Gebäudeversicherung,
 
@@ -40,9 +39,9 @@ beschliesst:
 - a) bei komplexen Brandschutzgesuchen, deren Behandlung mehr als fünf Arbeitstage erfordert;
 - b) für besonderen Aufwand, der bei Brandschutzkontrollen verursacht wird, wie Nachkontrollen, Sofortmassnahmen bei akuter Brand- oder Explosionsgefahr oder Aufwand infolge Nichteinhaltung von Kontrollterminen.
 
-<sup>2</sup> Die Höhe der Gebühr richtet sich im Einzelnen nach dem erforderlichen Verwaltungsaufwand im Rahmen des Dekrets über die durch den Staat zu beziehenden Gebühren[^2-1].
+<sup>2</sup> Die Höhe der Gebühr richtet sich im Einzelnen nach dem erforderlichen Verwaltungsaufwand im Rahmen des Gebührendekrets (GebührD) vom 19. September 2023[^2-1].
 
-[^2-1]: SAR [661.110](https://gesetzessammlungen.ag.ch/data/661.110/de)
+[^2-1]: SAR [662.110](https://gesetzessammlungen.ag.ch/data/662.110/de)
 
 #### § 3
 
