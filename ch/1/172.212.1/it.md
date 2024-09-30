@@ -4,11 +4,11 @@ title: "Ordinanza del 28 giugno 2000 sull'organizzazione del Dipartimento federa
 short: OOrg-DFI
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/282"
 language: it
-version: 2023-01-01
+version: 2024-10-01
 adopted: 2000-06-28
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/282/20230101/it/xml/fedlex-data-admin-ch-eli-cc-2000-282-20230101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/282/20230101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/282/20241001/it/xml/fedlex-data-admin-ch-eli-cc-2000-282-20241001-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/282/20241001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/282/20230101/it"
 
 (OOrg-DFI)
 
-del 28 giugno 2000 (Stato 1° gennaio 2023)
+del 28 giugno 2000 (Stato 1° ottobre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -283,7 +283,7 @@ Al fine di raggiungere questi obiettivi, l’UFSP assume le funzioni seguenti:
   - 4\.[^9-5] medicina riproduttiva, fatte salve le competenze dell’Ufficio federale dello stato civile e dell’Ufficio federale di statistica,
   - 5\.[^9-6] esami genetici sull’essere umano, fatte salve le competenze dell’Ufficio federale di polizia,
   - 6\.[^9-7] ricerca sull’essere umano, inclusa la ricerca sulle cellule staminali embrionali umane,
-  - 7\.[^9-8] impiego di farmaci, tabacco e altri articoli per fumatori, prodotti del tabacco, stupefacenti, organismi e sostanze chimiche,
+  - 7\.[^9-8] impiego di farmaci, prodotti del tabacco e sigarette elettroniche, stupefacenti, organismi e sostanze chimiche,
   - 8\.[^9-9] formazione, perfezionamento e aggiornamento nelle professioni mediche accademiche,
   - 9\.[^9-10] assicurazione malattie, assicurazione infortuni e assicurazione militare;
 
@@ -300,7 +300,7 @@ Al fine di raggiungere questi obiettivi, l’UFSP assume le funzioni seguenti:
 [^9-5]: Nuovo testo giusta il n. I dell’O dell’8 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)).
 [^9-6]: Nuovo testo giusta il n. I dell’O dell’8 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)).
 [^9-7]: Introdotta dal n. I dell’O del 15 dic. 2003 ([RU 2003 5009](https://fedlex.data.admin.ch/eli/oc/2003/744)). Nuovo testo giusta il n. I dell’O dell’8 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)).
-[^9-8]: Introdotto dal n. I dell’O dell’8 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)).
+[^9-8]: Introdotto dal n. I dell’O dell’8 mag. 2013 ([RU 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)). Nuovo testo giusta l’all. 4 n. II 1 dell’O del 28 ago. 2024 sui prodotti del tabacco, in vigore dal 1° ott. 2024 (RU **20****24** 491).
 [^9-9]: Introdotto dal n. I dell’O dell’8 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)).
 [^9-10]: Introdotto dal n. I dell’O dell’8 mag. 2013, in vigore dal 1° gen. 2014 ([RU 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)).
 [^9-11]: Nuovo testo giusta l’all. n. 3 dell’O del 27 apr. 2005, in vigore dal 1° lug. 2005 ([RU 2005 2885](https://fedlex.data.admin.ch/eli/oc/2005/473)).

@@ -4,11 +4,11 @@ title: "Ordonnance du 28 juin 2000 sur l'organisation du Département fédéral 
 short: Org DFI
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/282"
 language: fr
-version: 2023-01-01
+version: 2024-10-01
 adopted: 2000-06-28
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/282/20230101/fr/xml/fedlex-data-admin-ch-eli-cc-2000-282-20230101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/282/20230101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/282/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-2000-282-20241001-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/282/20241001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/282/20230101/fr"
 
 (Org DFI)
 
-du 28 juin 2000 (État le 1<sup>er</sup> janvier 2023)
+du 28 juin 2000 (État le 1<sup>er</sup> octobre 2024)
 
 Le Conseil fédéral suisse,
 
@@ -282,7 +282,7 @@ Dans ce cadre, l’OFSP exerce les fonctions suivantes:
   - 4\.[^9-5] la procréation médicalement assistée sous réserve des compétences de l’Office fédéral de l’état civil et de l’Office fédéral de la statistique,
   - 5\.[^9-6] l’analyse génétique humaine sous réserve des compétences de l’Office fédéral de la police,
   - 6\.[^9-7] la recherche sur l’être humain, y compris la recherche sur les cellules souches embryonnaires humaines,
-  - 7\.[^9-8] les produits thérapeutiques, le tabac, les autres produits destinés à être fumés et les produits du tabac, les stupéfiants, les organismes et les produits chimiques,
+  - 7\.[^9-8] les produits thérapeutiques, les produits du tabac et les cigarettes électroniques, les stupéfiants, les organismes et les produits chimiques,
   - 8\.[^9-9] la formation, la formation postgrade et la formation continue dans les filières médicales universitaires,
   - 9\.[^9-10] l’assurance-maladie, l’assurance-accidents et l’assurance militaire;
 
@@ -299,7 +299,7 @@ Dans ce cadre, l’OFSP exerce les fonctions suivantes:
 [^9-5]: Nouvelle teneur selon le ch. I de l’O du 8 mai 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)).
 [^9-6]: Nouvelle teneur selon le ch. I de l’O du 8 mai 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)).
 [^9-7]: Introduit par le ch. I de l’O du 15 déc. 2003 ([RO 2003 5009](https://fedlex.data.admin.ch/eli/oc/2003/744)). Nouvelle teneur selon le ch. I de l’O du 8 mai 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)).
-[^9-8]: Introduit par le ch. I de l’O du 8 mai 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)).
+[^9-8]: Introduit par le ch. I de l’O du 8 mai 2013 ([RO 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)). Nouvelle teneur selon l’annexe 4 ch. II 1 de l’O du 28 août 2024 sur les produits du tabac, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
 [^9-9]: Introduit par le ch. I de l’O du 8 mai 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)).
 [^9-10]: Introduit par le ch. I de l’O du 8 mai 2013, en vigueur depuis le 1<sup>er</sup> janv. 2014 ([RO 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)).
 [^9-11]: Nouvelle teneur selon l’annexe ch. 3 de l’O du 27 avr. 2005, en vigueur depuis le 1<sup>er</sup> juil. 2005 ([RO 2005 2885](https://fedlex.data.admin.ch/eli/oc/2005/473)).
@@ -426,7 +426,7 @@ Se fondant sur les résultats de la recherche scientifique, l’OSAV poursuit no
 
 [^16-1]
 
-[^16-1]: Nouvelle teneur selon l’annexe ch. II 3 de l’O du 19 nov. 2003 sur le domaine des EPF ([RO 2004 305](https://fedlex.data.admin.ch/eli/oc/2004/16)). Abrogé par le ch. I 4 de l’O du 15 juin 2012 (Réorganisation des département), avec effet au 15 janv. 2012 ([RO 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418), [2013 199](https://fedlex.data.admin.ch/eli/oc/2013/22)).
+[^16-1]: Abrogé par le ch. I 4 de l’O du 15 juin 2012 (Réorganisation des département), avec effet au 15 janv. 2013 ([RO 2012 3631](https://fedlex.data.admin.ch/eli/oc/2012/418), [2013 199](https://fedlex.data.admin.ch/eli/oc/2013/22)).
 
 #### Art. 16a
 

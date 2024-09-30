@@ -4,11 +4,11 @@ title: Organisationsverordnung vom 28. Juni 2000 für das Eidgenössische Depart
 short: OV-EDI
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/282"
 language: de
-version: 2023-01-01
+version: 2024-10-01
 adopted: 2000-06-28
 in_force: 2000-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/282/20230101/de/xml/fedlex-data-admin-ch-eli-cc-2000-282-20230101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/282/20230101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/282/20241001/de/xml/fedlex-data-admin-ch-eli-cc-2000-282-20241001-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/282/20241001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2000/282/20230101/de"
 
 (OV-EDI)
 
-vom 28. Juni 2000 (Stand am 1. Januar 2023)
+vom 28. Juni 2000 (Stand am 1. Oktober 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -280,7 +280,7 @@ Zur Verfolgung dieser Ziele nimmt das BAG folgende Funktionen wahr:
   - 4\.[^9-5] Fortpflanzungsmedizin unter Vorbehalt der Zuständigkeiten des Eidgenössischen Amtes für Zivilstandswesen und des Bundesamtes für Statistik;
   - 5\.[^9-6] genetische Untersuchungen beim Menschen unter Vorbehalt der Zuständigkeiten des Bundesamtes für Polizei;
   - 6\.[^9-7] Forschung am Menschen einschliesslich der Forschung an menschlichen embryonalen Stammzellen;
-  - 7\.[^9-8] Umgang mit Heilmitteln, mit Tabak, anderen Raucherwaren und Tabakerzeugnissen, mit Betäubungsmitteln, mit Organismen und mit Chemikalien;
+  - 7\.[^9-8] Umgang mit Heilmitteln, mit Tabakprodukten und elektronischen Zigaretten, mit Betäubungsmitteln, mit Organismen und mit Chemikalien;
   - 8\.[^9-9] Aus-, Weiter- und Fortbildung in den akademischen Medizinalberufen;
   - 9\.[^9-10] Kranken-, Unfall- und Militärversicherung.
 
@@ -297,7 +297,7 @@ Zur Verfolgung dieser Ziele nimmt das BAG folgende Funktionen wahr:
 [^9-5]: Fassung gemäss Ziff. I der V vom 8. Mai 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)).
 [^9-6]: Fassung gemäss Ziff. I der V vom 8. Mai 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)).
 [^9-7]: Eingefügt durch Ziff. I der V vom 15. Dez. 2003 ([AS 2003 5009](https://fedlex.data.admin.ch/eli/oc/2003/744)). Fassung gemäss Ziff. I der V vom 8. Mai 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)).
-[^9-8]: Eingefügt durch Ziff. I der V vom 8. Mai 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)).
+[^9-8]: Eingefügt durch Ziff. I der V vom 8. Mai 2013 ([AS 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)). Fassung gemäss Anhang 4 Ziff. II 1 der Tabakprodukteverordnung vom 28. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 491](https://fedlex.data.admin.ch/eli/oc/2024/491)).
 [^9-9]: Eingefügt durch Ziff. I der V vom 8. Mai 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)).
 [^9-10]: Eingefügt durch Ziff. I der V vom 8. Mai 2013, in Kraft seit 1. Jan. 2014 ([AS 2013 1447](https://fedlex.data.admin.ch/eli/oc/2013/333)).
 [^9-11]: Fassung gemäss Anhang Ziff. 3 der V vom 27. April 2005, in Kraft seit 1. Juli 2005 ([AS 2005 2885](https://fedlex.data.admin.ch/eli/oc/2005/473)).
