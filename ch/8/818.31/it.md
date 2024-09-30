@@ -3,18 +3,18 @@ sr: "818.31"
 title: Legge federale del 3 ottobre 2008 concernente la protezione contro il fumo passivo
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/766"
 language: it
-version: 2010-05-01
+version: 2024-10-01
 adopted: 2008-10-03
 in_force: 2010-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/766/20100501/it/xml/fedlex-data-admin-ch-eli-cc-2009-766-20100501-it-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/766/20100501/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/766/20241001/it/xml/fedlex-data-admin-ch-eli-cc-2009-766-20241001-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/766/20241001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Legge federale concernente la protezione contro il fumo passivo
 
-del 3 ottobre 2008 (Stato 1° maggio 2010)
+del 3 ottobre 2008 (Stato 1° ottobre 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -55,11 +55,25 @@ Sono luoghi accessibili al pubblico in particolare:
 
 **Divieto di fumare**
 
-<sup>1</sup> È vietato fumare nei locali di cui all’articolo 1 capoversi 1 e 2.
+<sup>1</sup>
+
+Nei locali di cui all’articolo 1 capoversi 1 e 2 è vietato:
+
+- a. fumare prodotti del tabacco di cui all’articolo 3 lettera a della legge del 1° ottobre 2021[^2-1] sui prodotti del tabacco (LPTab);
+- b. usare prodotti del tabacco destinati a essere riscaldati nonché sigarette elettroniche di cui all’articolo 3 lettere c e f LPTab.[^2-2]
 
 <sup>2</sup> Il gerente o il responsabile dell’ordine interno può permettere di fumare in sale apposite e in cui non sono impiegati lavoratori, purché tali locali siano separati, designati come spazi per fumatori e dotati di sufficiente ventilazione (sale fumatori). Nelle sale fumatori delle imprese del settore alberghiero e della ristorazione possono essere impiegati lavoratori a titolo eccezionale e previo loro esplicito consenso. Tale consenso deve essere espresso nel contratto di lavoro.
 
 <sup>3</sup> Il Consiglio federale emana disposizioni speciali sul criterio qualitativo delle sale fumatori e sulle esigenze per la ventilazione. Emana pure disposizioni applicabili ai luoghi di detenzione e agli stabilimenti di soggiorno permanente o prolungato.
+
+<sup>4</sup> L’uso di sigarette elettroniche e di prodotti del tabacco destinati a essere riscaldati può essere autorizzato in determinate aree di negozi specializzati.[^2-3]
+
+<sup>5</sup> Il Consiglio federale disciplina i dettagli.[^2-4]
+
+[^2-1]: [RS 818.32](https://fedlex.data.admin.ch/eli/cc/2024/457)
+[^2-2]: Nuovo testo giusta l’all. 3 n. 3 della L del 1° ott. 2021 sui prodotti del tabacco, in vigore dal 1° ott. 2024 ([RU 2024 457](https://fedlex.data.admin.ch/eli/oc/2024/457); [FF 2019 837](https://fedlex.data.admin.ch/eli/fga/2019/169)).
+[^2-3]: Introdotto dall’all. 3 n. 3 della L del 1° ott. 2021 sui prodotti del tabacco, in vigore dal 1° ott. 2024 ([RU 2024 457](https://fedlex.data.admin.ch/eli/oc/2024/457); [FF 2019 837](https://fedlex.data.admin.ch/eli/fga/2019/169)).
+[^2-4]: Introdotto dall’all. 3 n. 3 della L del 1° ott. 2021 sui prodotti del tabacco, in vigore dal 1° ott. 2024 ([RU 2024 457](https://fedlex.data.admin.ch/eli/oc/2024/457); [FF 2019 837](https://fedlex.data.admin.ch/eli/fga/2019/169)).
 
 #### Art. 3
 
@@ -113,4 +127,4 @@ I Cantoni possono emanare prescrizioni più severe a tutela della salute.
 
 Data dell’entrata in vigore: 1° maggio 2010[^7-1]
 
-[^7-1]: DCF del 28 ott. 2009 (RU **2009** 6287).
+[^7-1]: DCF del 28 ott. 2009.

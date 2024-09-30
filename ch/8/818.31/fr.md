@@ -3,18 +3,18 @@ sr: "818.31"
 title: Loi fédérale du 3 octobre 2008 sur la protection contre le tabagisme passif
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/766"
 language: fr
-version: 2010-05-01
+version: 2024-10-01
 adopted: 2008-10-03
 in_force: 2010-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/766/20100501/fr/xml/fedlex-data-admin-ch-eli-cc-2009-766-20100501-fr-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/766/20100501/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/766/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-2009-766-20241001-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/766/20241001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Loi fédérale sur la protection contre le tabagisme passif
 
-du 3 octobre 2008 (État le 1<sup>er</sup> mai 2010)
+du 3 octobre 2008 (État le 1<sup>er</sup> octobre 2024)
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -55,11 +55,25 @@ Sont notamment considérés comme des espaces accessibles au public:
 
 **Interdiction de fumer**
 
-<sup>1</sup> Il est interdit de fumer dans les espaces définis à l’art. 1, al. 1 et 2.
+<sup>1</sup>
+
+Dans les espaces définis à l’art. 1, al. 1 et 2, il est interdit:
+
+- a. de fumer des produits du tabac au sens de l’art. 3, let. a, de la loi du 1<sup>er</sup> octobre 2021 sur les produits du tabac (LPTab)[^2-1];
+- b. d’utiliser des produits du tabac à chauffer ainsi que des cigarettes électroniques au sens de l’art. 3, let. c et f, LPTab.[^2-2]
 
 <sup>2</sup> L’exploitant ou la personne responsable du règlement de maison peut autoriser à fumer dans des locaux spécialement aménagés dans lesquels aucun employé ne travaille, pour autant qu’ils soient isolés des autres espaces, désignés comme tels et dotés d’une ventilation adéquate. A titre exceptionnel et sous réserve de leur accord explicite, des employés peuvent travailler dans les locaux fumeurs des établissements d’hôtellerie ou de restauration. Un tel accord doit faire partie intégrante du contrat de travail.
 
 <sup>3</sup> Le Conseil fédéral édicte des dispositions spéciales relatives à la conception des locaux fumeurs et aux exigences concernant la ventilation. Il règle également la situation dans les établissements de détention ainsi que dans les établissements de séjour permanent ou prolongé.
+
+<sup>4</sup> L’usage de la cigarette électronique et des produits du tabac à chauffer peut être autorisé dans des zones déterminées des magasins de vente spécialisés.[^2-3]
+
+<sup>5</sup> Le Conseil fédéral règle les modalités.[^2-4]
+
+[^2-1]: [RS 818.32](https://fedlex.data.admin.ch/eli/cc/2024/457)
+[^2-2]: Nouvelle teneur selon l’annexe 3 ch. 3 de la L du 1<sup>er</sup> oct. 2021 sur les produits du tabac, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 457](https://fedlex.data.admin.ch/eli/oc/2024/457); [FF 2019 899](https://fedlex.data.admin.ch/eli/fga/2019/169)).
+[^2-3]: Introduit par l’annexe 3 ch. 3 de la L du 1<sup>er</sup> oct. 2021 sur les produits du tabac, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 457](https://fedlex.data.admin.ch/eli/oc/2024/457); [FF 2019 899](https://fedlex.data.admin.ch/eli/fga/2019/169)).
+[^2-4]: Introduit par l’annexe 3 ch. 3 de la L du 1<sup>er</sup> oct. 2021 sur les produits du tabac, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 457](https://fedlex.data.admin.ch/eli/oc/2024/457); [FF 2019 899](https://fedlex.data.admin.ch/eli/fga/2019/169)).
 
 #### Art. 3
 

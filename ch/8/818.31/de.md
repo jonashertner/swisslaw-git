@@ -3,18 +3,18 @@ sr: "818.31"
 title: Bundesgesetz vom 3. Oktober 2008 zum Schutz vor Passivrauchen
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/766"
 language: de
-version: 2010-05-01
+version: 2024-10-01
 adopted: 2008-10-03
 in_force: 2010-05-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/766/20100501/de/xml/fedlex-data-admin-ch-eli-cc-2009-766-20100501-de-xml-5.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/766/20100501/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/766/20241001/de/xml/fedlex-data-admin-ch-eli-cc-2009-766-20241001-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/766/20241001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Bundesgesetz zum Schutz vor Passivrauchen
 
-vom 3. Oktober 2008 (Stand am 1. Mai 2010)
+vom 3. Oktober 2008 (Stand am 1. Oktober 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -55,11 +55,25 @@ beschliesst:
 
 **Rauchverbot**
 
-<sup>1</sup> Rauchen ist in Räumen nach Artikel 1 Absätze 1 und 2 untersagt.
+<sup>1</sup>
+
+In Räumen nach Artikel 1 Absätze 1 und 2 ist untersagt:
+
+- a. das Rauchen von Tabakprodukten nach Artikel 3 Buchstabe a des Tabakproduktegesetzes vom 1. Oktober 2021[^2-1] (TabPG);
+- b. die Verwendung von Tabakprodukten zum Erhitzen und von elektronischen Zigaretten nach Artikel 3 Buchstaben c und f TabPG.[^2-2]
 
 <sup>2</sup> Der Betreiber oder die Betreiberin oder die für die Hausordnung verantwortliche Person kann in besonderen Räumen, in denen keine Arbeitnehmerinnen oder Arbeitnehmer beschäftigt werden, das Rauchen gestatten, sofern sie abgetrennt, besonders gekennzeichnet und mit ausreichender Belüftung versehen sind (Raucherräume). Ausnahmsweise dürfen in Raucherräumen von Restaurations- und Hotelbetrieben Arbeitnehmerinnen oder Arbeitnehmer mit deren ausdrücklicher Zustimmung beschäftigt werden. Das Einverständnis hat im Rahmen des Arbeitsvertrages zu erfolgen.
 
 <sup>3</sup> Der Bundesrat erlässt besondere Vorschriften über die Beschaffenheit von Raucherräumen und die Anforderungen an die Belüftung. Er trifft ebenfalls eine Regelung für Zwangsaufenthaltsorte und Einrichtungen, die dem dauernden Verbleib oder einem längeren Aufenthalt dienen.
+
+<sup>4</sup> Die Verwendung von elektronischen Zigaretten und von Tabakprodukten zum Erhitzen kann in bestimmten Zonen spezialisierter Verkaufsgeschäfte gestattet werden.[^2-3]
+
+<sup>5</sup> Der Bundesrat regelt die Einzelheiten.[^2-4]
+
+[^2-1]: [SR 818.32](https://fedlex.data.admin.ch/eli/cc/2024/457)
+[^2-2]: Fassung gemäss Anhang 3 Ziff. 3 des Tabakproduktegesetzes vom 1. Okt. 2021, in Kraft seit 1. Okt. 2024 ([AS 2024 457](https://fedlex.data.admin.ch/eli/oc/2024/457); [BBl 2019 919](https://fedlex.data.admin.ch/eli/fga/2019/169)).
+[^2-3]: Eingefügt durch Anhang 3 Ziff. 3 des Tabakproduktegesetzes vom 1. Okt. 2021, in Kraft seit 1. Okt. 2024 ([AS 2024 457](https://fedlex.data.admin.ch/eli/oc/2024/457); [BBl 2019 919](https://fedlex.data.admin.ch/eli/fga/2019/169)).
+[^2-4]: Eingefügt durch Anhang 3 Ziff. 3 des Tabakproduktegesetzes vom 1. Okt. 2021, in Kraft seit 1. Okt. 2024 ([AS 2024 457](https://fedlex.data.admin.ch/eli/oc/2024/457); [BBl 2019 919](https://fedlex.data.admin.ch/eli/fga/2019/169)).
 
 #### Art. 3
 
