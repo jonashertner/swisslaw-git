@@ -3,18 +3,18 @@ sr: "412.101.221.64"
 title: Ordonnance du SEFRI du 17 août 2011 sur la formation professionnelle initiale de papetière/papetier avec certificat fédéral de capacité (CFC)
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/645"
 language: fr
-version: 2024-04-01
+version: 2024-10-01
 adopted: 2011-08-17
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/645/20240401/fr/xml/fedlex-data-admin-ch-eli-cc-2011-645-20240401-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/645/20240401/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/645/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-2011-645-20241001-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/645/20241001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance du SEFRI sur la formation professionnelle initiale de papetière/papetier avec certificat fédéral de capacité (CFC)\*
 
-du 17 août 2011 (État le 1<sup>er</sup> avril 2024)[^t-1]
+du 17 août 2011 (État le 1<sup>er</sup> octobre 2024)[^t-1]
 
 [^t-1]: <sup>\*</sup> Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
@@ -66,22 +66,31 @@ Les papetiers de niveau CFC maîtrisent notamment les activités suivantes et se
 Elle est régie par:
 
 - a. la *Verordnung des deutschen Bundesministeriums für Wirtschaft und Technologie* *vom 20. April 2010* *über die Berufsausbildung* *zum Papiertechnologen/zur Papiertechnologin*[^3-1], y compris le *Ausbildungsrahmenplan für die Berufsausbildung zum Papiertechnologen/zur Papiertechnologin*;
-- b. le *Rahmenlehrplan der Kultusministerkonferenz vom 25. März 2010 für den Ausbildungsberuf Papiertechnologe/Papiertechnologin*[^3-2].
+- b.[^3-2] la *Erste* *Verordnung des deutschen Bundesministeriums für Wirtschaft und Technologie vom 19. Oktober 2010 zur Änderung der Verordnung über die Berufsausbildung zum Papiertechnologen/zur Papiertechnologin*[^3-3];
+- c.[^3-4] la *Zweite Verordnung des deutschen Bundesministeriums für Wirtschaft und Energie vom 5. Juli 2019 zur Änderung der Verordnung über die Berufs**ausbildung zum Papiertechnologen/zur Papiertechnologin*[^3-5];
+- d.[^3-6] le *Rahmenlehrplan* *der Kultusministerkonferenz vom 25. März 2010 für den Ausbildungsberuf Papiertechnologe/Papiertechnologin*[^3-7].
 
 <sup>3</sup> Les cantons intéressés concluent un contrat de prestations avec l’école visée à l’al. 1.
 
 <sup>4</sup> La formation à la pratique professionnelle est dispensée dans l’entreprise formatrice conformément au contrat d’apprentissage.
 
 [^3-1]: Bundesgesetzblatt 2010 I 17 vom 28. April 2010; cette *Verordnung* peut être téléchargée sur le site [www.bibb.de](http://www.bibb.de).
-[^3-2]: Le *Rahmenlehrplan* peut être téléchargé sur le site [www.bibb.de](http://www.bibb.de).
+[^3-2]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 6 août 2024, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 448](https://fedlex.data.admin.ch/eli/oc/2024/448)).
+[^3-3]: Bundesgesetzblatt Jahrgang 2010 Teil I Nr. 52, ausgegeben zu Bonn am 27. Oktober 2010; cette *Verordnung* peut être téléchargée gratuitement sur [www.bibb.de](https://www.bibb.de/dienst/berufesuche/de/index_berufesuche.php/profile/apprenticeship/46555) &gt; Die Themen &gt; Berufe &gt; Berufesuche &gt; Papiertechnologe/Papiertechnologin (IH).
+[^3-4]: Introduite par le ch. I de l’O du SEFRI du 6 août 2024, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 448](https://fedlex.data.admin.ch/eli/oc/2024/448)).
+[^3-5]: Bundesgesetzblatt Jahrgang 2019 Teil I Nr. 25, ausgegeben zu Bonn am 11. Juli 2019; cette *Verordnung* peut être téléchargée gratuitement sur [www.bibb.de](https://www.bibb.de/dienst/berufesuche/de/index_berufesuche.php/profile/apprenticeship/46555) &gt; Die Themen &gt; Berufe &gt; Berufesuche &gt; Papiertechnologe/Papiertechnologin (IH).
+[^3-6]: Introduite par le ch. I de l’O du SEFRI du 6 août 2024, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 448](https://fedlex.data.admin.ch/eli/oc/2024/448)).
+[^3-7]: Le *Rahmenlehrplan* peut être téléchargé gratuitement sur [www.bibb.de](https://www.bibb.de/dienst/berufesuche/de/index_berufesuche.php/profile/apprenticeship/46555) &gt; Die Themen &gt; Berufe &gt; Berufesuche &gt; Papiertechnologe/Papiertechnologin (IH).
 
 ## Section 2 Objectifs et exigences
 
 #### Art. 4
 
-<sup>1</sup> Les objectifs et les exigences de la formation professionnelle initiale sont régis par la *Verordnung* et le *Rahmenlehrplan* visés à l’art. 3, al. 2.
+<sup>1</sup> Les objectifs et les exigences de la formation professionnelle initiale sont régis par les *Verordnungen* et le *Rahmenlehrplan* visés à l’art. 3, al. 2.[^4-1]
 
 <sup>2</sup> Ils s’appliquent à tous les lieux de formation.
+
+[^4-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 6 août 2024, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 448](https://fedlex.data.admin.ch/eli/oc/2024/448)).
 
 ## Section 3 Sécurité au travail, protection de la santé et protection de l’environnement
 
@@ -95,12 +104,15 @@ Elle est régie par:
 
 <sup>3</sup> Il est fait en sorte que les personnes en formation acquièrent, sur tous les lieux de formation, des connaissances en matière de développement durable, notamment en ce qui concerne l’équilibre entre les intérêts sociétaux, écologiques et économiques.
 
-<sup>4</sup> En dérogation à l’art. 4, al. 1, OLT 5 et conformément aux prescriptions de l’art. 4*a*, al. 1[^5-2], OLT 5, il est permis d’occuper les personnes en formation, en fonction de leur niveau de connaissance, aux travaux mentionnés dans l’annexe du plan de formation.
+<sup>4</sup> En dérogation à l’art. 4, al. 1, OLT 5 et conformément aux prescriptions de l’art. 4*a*, al. 1, OLT 5[^5-2], il est permis d’occuper les personnes en formation, en fonction de leur niveau de connaissance, aux travaux mentionnés dans l’annexe 2 du plan de formation[^5-3].[^5-4]
 
-<sup>5</sup> La dérogation visée à l’al. 4 présuppose que les personnes en formation soient formées, encadrées et surveillées en fonction des risques accrus qu’elles courent; ces dispositions particulières sont définies dans l’annexe du plan de formation à titre de mesures d’accompagnement en matière de sécurité au travail et de protection de la santé.
+<sup>5</sup> La dérogation visée à l’al. 4 présuppose que les personnes en formation soient formées, encadrées et surveillées en fonction des risques accrus qu’elles courent; ces dispositions particulières sont définies dans l’annexe 2 du plan de formation à titre de mesures d’accompagnement en matière de sécurité au travail et de protection de la santé.[^5-5]
 
 [^5-1]: Nouvelle teneur selon le ch. II 117 de l’O du SEFRI du 24 nov. 2017 concernant la mod. d’O sur la formation relative à l’interdiction d’effectuer des travaux dangereux, en vigueur depuis le 1<sup>er</sup> janv. 2018 ([RO 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
-[^5-2]: Le renvoi a été adapté en application de l’art. 12, al. 2, de la L du 18 juin 2004 sur les publications officielles ([RS 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)), avec effet au 1<sup>er</sup> avr. 2024 ([RO 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^5-2]: [RS 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^5-3]: Le plan de formation de l’Association suisse des fabricants de papier, carton et film plastique (SPKF) du 6 août 2024 est disponible dans la liste des professions du SEFRI à l’adresse suivante: [www.bvz.admin.ch](http://www.bvz.admin.ch) &gt; Professions A–Z.
+[^5-4]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 6 août 2024, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 448](https://fedlex.data.admin.ch/eli/oc/2024/448)).
+[^5-5]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 6 août 2024, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 448](https://fedlex.data.admin.ch/eli/oc/2024/448)).
 
 ## Section 4 Exigences posées aux prestataires de la formation initiale en entreprise
 
@@ -171,9 +183,11 @@ Est admise aux procédures de qualification la personne qui a suivi la formation
 
 #### Art. 11
 
-**Objet des procédures de qualification**
+**Objet des procédures de qualification**[^11-1]
 
-Les procédures de qualification visent à démontrer que les compétences opérationnelles mentionnées dans la *Ausbildungsordnung* ont été acquises.
+Les procédures de qualification visent à démontrer que les compétences opérationnelles mentionnées dans les *Verordnungen* visées à l’art. 3, al. 2, let. a à c, ont été acquises.
+
+[^11-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 6 août 2024, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 448](https://fedlex.data.admin.ch/eli/oc/2024/448)).
 
 #### Art. 12
 
@@ -181,9 +195,11 @@ Les procédures de qualification visent à démontrer que les compétences opér
 
 <sup>1</sup> L’examen final est organisé par une commission d’examen instituée par la Chambre de commerce et d’industrie de Karlsruhe (Allemagne).
 
-<sup>2</sup> Les modalités de l’examen final sont régies par la *Verordnung* visée à l’art. 3, al. 2, let. a.
+<sup>2</sup> Les modalités de l’examen final sont régies par les *Verordnungen* visées à l’art. 3, al. 2, let. a à c.[^12-1]
 
 <sup>3</sup> L’évaluation est réalisée selon le système de notes allemand. Les notes obtenues ne sont pas converties en notes correspondant au système suisse.
+
+[^12-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 6 août 2024, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 448](https://fedlex.data.admin.ch/eli/oc/2024/448)).
 
 #### Art. 13
 
@@ -199,22 +215,41 @@ La répétition de la procédure de qualification est régie par l’art. 33 OFP
 
 <sup>2</sup> Le CFC autorise ses titulaires à porter le titre légalement protégé de «papetière CFC»/«papetier CFC».
 
-## Section 8 Commission pour le développement professionnel et la qualité de la formation des papetiers CFC
+## Section 8 Commission suisse pour le développement de la profession et la qualité de la formation des papetiers CFC
+
+[^sec8-1]
+
+[^sec8-1]: Nouvelle teneur selon le ch. I de l’O du SEFRI du 6 août 2024, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 448](https://fedlex.data.admin.ch/eli/oc/2024/448)).
 
 #### Art. 15
 
 <sup>1</sup>
 
-La Commission pour le développement professionnel et la qualité de la formation des papetiers CFC (commission) comprend:
+La Commission suisse pour le développement de la profession et la qualité de la formation des papetiers CFC (commission) comprend:
 
-- a. au total trois à cinq représentants de l’Association de l’industrie suisse de la cellulose, du papier et du carton (ZPK) et de l’Association patronale suisse des fabricants de papier (ASPI);
-- b. un représentant par organisation d’employés conformément à la convention collective de travail;
-- c. au moins un représentant de l’école professionnelle compétente;
-- d. au moins un représentant de la Confédération et au moins un représentant des cantons.
+- a. 3 à 5 représentants de l’Association suisse des fabricants de papier, carton et film plastique (SPKF);
+- b. 1 représentant par organisation d’employés conformément à la convention collective de travail;
+- c. 1 représentant de l’école professionnelle;
+- d. au moins 1 représentant de la Confédération et au moins 1 représentant des cantons.
 
-<sup>2</sup> La commission s’auto-constitue.
+<sup>2</sup>
 
-<sup>3</sup> Elle propose au SEFRI toute modification de la présente ordonnance induite par des développements constatés, pour autant que ceux-ci touchent aux dispositions de la présente ordonnance. Toute modification requiert, d’une part, l’approbation des représentants de la Confédération et des cantons et, d’autre part, l’approbation du SEFRI.
+La composition de la commission doit également:
+
+- a. tendre à une représentation paritaire des sexes;
+- b. garantir une représentation équitable des régions linguistiques.
+
+<sup>3</sup> La commission se constitue elle-même.
+
+<sup>4</sup>
+
+Elle est notamment chargée des tâches suivantes:
+
+- a. examiner la présente ordonnance et le plan de formation[^15-1] au moins tous les 5 ans en fonction des développements économiques, technologiques, écologiques et didactiques; intégrer, le cas échéant, de nouveaux aspects organisationnels de la formation professionnelle initiale;
+- b. identifier les développements qui requièrent une modification de l’ordonnance et demander à l’organisation du monde du travail compétente de proposer au SEFRI les modifications voulues;
+- c. identifier les développements qui requièrent une adaptation du plan de formation et proposer à l’organisation du monde du travail compétente d’effectuer les adaptations voulues.
+
+[^15-1]: Le plan de formation de l’Association suisse des fabricants de papier, carton et film plastique (SPKF) du 6 août 2024 est disponible dans la liste des professions du SEFRI à l’adresse suivante: [www.bvz.admin.ch](http://www.bvz.admin.ch) &gt; Professions A–Z.
 
 ## Section 9 Dispositions finales
 

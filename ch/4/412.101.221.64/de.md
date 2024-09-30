@@ -3,18 +3,18 @@ sr: "412.101.221.64"
 title: Verordnung des SBFI vom 17. August 2011 über die berufliche Grundbildung Papiertechnologin/Papiertechnologe mit eidgenössischem Fähigkeitszeugnis (EFZ)
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/645"
 language: de
-version: 2024-04-01
+version: 2024-10-01
 adopted: 2011-08-17
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/645/20240401/de/xml/fedlex-data-admin-ch-eli-cc-2011-645-20240401-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/645/20240401/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/645/20241001/de/xml/fedlex-data-admin-ch-eli-cc-2011-645-20241001-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/645/20241001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Verordnung des SBFI über die berufliche Grundbildung Papiertechnologin/Papiertechnologe mit eidgenössischem Fähigkeitszeugnis (EFZ)
 
-vom 17. August 2011 (Stand am 1. April 2024)
+vom 17. August 2011 (Stand am 1. Oktober 2024)
 
 <table>
 <tr><td>33004</td><td>Papiertechnologin EFZ/Papiertechnologe EFZ Papetière CFC/Papetier CFC Cartaia AFC/Cartaio AFC</td></tr>
@@ -64,22 +64,31 @@ Papiertechnologinnen und Papiertechnologen auf Stufe EFZ beherrschen namentlich 
 Sie richtet sich nach:
 
 - a. der Verordnung des deutschen Bundesministeriums für Wirtschaft und Technologie vom 20. April 2010[^3-1] über die Berufsausbildung zum Papiertechnologen/zur Papiertechnologin, einschliesslich des Ausbildungsrahmenplans für die Berufsausbildung zum Papiertechnologen/zur Papiertechnologin;
-- b. dem Rahmenlehrplan der Kultusministerkonferenz vom 25. März 2010[^3-2] für den Ausbildungsberuf Papiertechnologe/Papiertechnologin.
+- b.[^3-2] der Ersten Verordnung des deutschen Bundesministeriums für Wirtschaft und Technologie vom 19. Oktober 2010[^3-3] zur Änderung der Verordnung über die Berufsausbildung zum Papiertechnologen / zur Papiertechnologin;
+- c.[^3-4] der Zweiten Verordnung des deutschen Bundesministeriums für Wirtschaft und Energie vom 5. Juli 2019[^3-5] zur Änderung der Verordnung über die Berufsausbildung zum Papiertechnologen / zur Papiertechnologin;
+- d.[^3-6] dem Rahmenlehrplan der Kultusministerkonferenz vom 25. März 2010[^3-7] für den Ausbildungsberuf Papiertechnologe/Papiertechnologin.
 
 <sup>3</sup> Die interessierten Kantone schliessen mit der Schule nach Absatz 1 eine Leistungsvereinbarung ab.
 
 <sup>4</sup> Die Bildung in beruflicher Praxis erfolgt im Ausbildungsbetrieb gemäss Lehrvertrag.
 
-[^3-1]: Bundesgesetzblatt 2010 I 17 vom 28. April 2010; diese Verordnung kann bezogen werden über www.bibb.de.
-[^3-2]: Der Rahmenlehrplan kann bezogen werden über: www.bibb.de.
+[^3-1]: Bundesgesetzblatt 2010 I 17 vom 28. April 2010; diese Verordnung kann bezogen werden über: [www.bibb.de](https://www.bibb.de/dienst/berufesuche/de/index_berufesuche.php/profile/apprenticeship/46555).
+[^3-2]: Fassung gemäss Ziff. I der V des SBFI vom 6. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 448](https://fedlex.data.admin.ch/eli/oc/2024/448)).
+[^3-3]: Bundesgesetzblatt Jahrgang 2010 Teil I Nr. 52, ausgegeben zu Bonn am 27. Oktober 2010; die Verordnung kann kostenlos abgerufen werden unter: [www.bibb.de](https://www.bibb.de/dienst/berufesuche/de/index_berufesuche.php/profile/apprenticeship/46555) &gt; Die Themen &gt; Berufe &gt; Berufesuche &gt; Papiertechnologe/Papiertechnologin (IH).
+[^3-4]: Eingefügt durch Ziff. I der V des SBFI vom 6. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 448](https://fedlex.data.admin.ch/eli/oc/2024/448)).
+[^3-5]: Bundesgesetzblatt Jahrgang 2019 Teil I Nr. 25, ausgegeben zu Bonn am 11. Juli 2019; die Verordnung kann kostenlos abgerufen werden unter: [www.bibb.de](https://www.bibb.de/dienst/berufesuche/de/index_berufesuche.php/profile/apprenticeship/46555) &gt; Die Themen &gt; Berufe &gt; Berufesuche &gt; Papiertechnologe/Papiertechnologin (IH).
+[^3-6]: Eingefügt durch Ziff. I der V des SBFI vom 6. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 448](https://fedlex.data.admin.ch/eli/oc/2024/448)).
+[^3-7]: Der Rahmenlehrplan kann kostenlos abgerufen werden unter: [www.bibb.de](https://www.bibb.de/dienst/berufesuche/de/index_berufesuche.php/profile/apprenticeship/46555) &gt; Die Themen &gt; Berufe &gt; Berufesuche &gt; Papiertechnologe/Papiertechnologin (IH).
 
 ## 2. Abschnitt: Ziele und Anforderungen
 
 #### Art. 4
 
-<sup>1</sup> Die Ziele und Anforderungen der beruflichen Grundbildung richten sich nach der Verordnung und dem Rahmenlehrplan nach Artikel 3 Absatz 2.
+<sup>1</sup> Die Ziele und Anforderungen der beruflichen Grundbildung richten sich nach den Verordnungen und dem Rahmenlehrplan nach Artikel 3 Absatz 2.[^4-1]
 
 <sup>2</sup> Sie gelten für alle Lernorte.
+
+[^4-1]: Fassung gemäss Ziff. I der V des SBFI vom 6. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 448](https://fedlex.data.admin.ch/eli/oc/2024/448)).
 
 ## 3. Abschnitt: Arbeitssicherheit, Gesundheitsschutz und Umweltschutz
 
@@ -93,12 +102,15 @@ Sie richtet sich nach:
 
 <sup>3</sup> Den Lernenden wird an allen Lernorten das Wissen über nachhaltige Entwicklung, insbesondere über den Ausgleich zwischen gesellschaftlichen, ökologischen und wirtschaftlichen Interessen, vermittelt.
 
-<sup>4</sup> In Abweichung von Artikel 4 Absatz 1 ArGV 5 und gemäss den Vorgaben nach Artikel 4*a* Absatz 1[^5-2] ArGV 5 können die Lernenden entsprechend ihrem Ausbildungsstand für die im Anhang zum Bildungsplan aufgeführten Arbeiten herangezogen werden.
+<sup>4</sup> In Abweichung von Artikel 4 Absatz 1 ArGV 5 und gemäss den Vorgaben nach Artikel 4*a* Absatz 1[^5-2] ArGV 5 können die Lernenden entsprechend ihrem Ausbildungsstand für die in Anhang 2 zum Bildungsplan[^5-3] aufgeführten Arbeiten herangezogen werden.[^5-4]
 
-<sup>5</sup> Voraussetzung für einen Einsatz nach Absatz 4 ist, dass die Lernenden entsprechend den erhöhten Gefährdungen ausgebildet, angeleitet und überwacht werden; diese besonderen Vorkehrungen werden im Anhang zum Bildungsplan als begleitende Massnahmen der Arbeitssicherheit und des Gesundheitsschutzes festgelegt.
+<sup>5</sup> Voraussetzung für einen Einsatz nach Absatz 4 ist, dass die Lernenden entsprechend den erhöhten Gefährdungen ausgebildet, angeleitet und überwacht werden; diese besonderen Vorkehrungen werden in Anhang 2 zum Bildungsplan als begleitende Massnahmen der Arbeitssicherheit und des Gesundheitsschutzes festgelegt.[^5-5]
 
 [^5-1]: Fassung gemäss Ziff. II 117 der V des SBFI vom 24. Nov. 2017 über die Änderung von Bildungsverordnungen betreffend das Verbot gefährlicher Arbeiten, in Kraft seit 1. Jan. 2018 ([AS 2017 7331](https://fedlex.data.admin.ch/eli/oc/2017/799)).
-[^5-2]: Der Verweis wurde in Anwendung von Art. 12 Abs. 2 des Publikationsgesetzes vom 18. Juni 2004 ([SR 170.512](https://fedlex.data.admin.ch/eli/cc/2004/745)) auf den 1. April 2024 angepasst (siehe [AS 2024 156](https://fedlex.data.admin.ch/eli/oc/2024/156)).
+[^5-2]: [SR 822.115](https://fedlex.data.admin.ch/eli/cc/2007/692)
+[^5-3]: Der Bildungsplan vom 6. August 2024 des Verbands Schweizerische Papier-, Karton- und Folienhersteller ist zu finden auf der Website des SBFI über das Berufsverzeichnis unter: www.bvz.admin.ch &gt; Berufe A–Z.
+[^5-4]: Fassung gemäss Ziff. I der V des SBFI vom 6. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 448](https://fedlex.data.admin.ch/eli/oc/2024/448)).
+[^5-5]: Fassung gemäss Ziff. I der V des SBFI vom 6. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 448](https://fedlex.data.admin.ch/eli/oc/2024/448)).
 
 ## 4. Abschnitt: Anforderungen an die Anbieter der betrieblich organisierten Grundbildung
 
@@ -169,9 +181,11 @@ Zu den Qualifikationsverfahren wird zugelassen, wer die berufliche Grundbildung 
 
 #### Art. 11
 
-**Gegenstand der Qualifikationsverfahren**
+**Gegenstand der Qualifikationsverfahren**[^11-1]
 
-In den Qualifikationsverfahren ist nachzuweisen, dass die Handlungskompetenzen nach der Ausbildungsordnung erreicht worden sind.
+In den Qualifikationsverfahren ist nachzuweisen, dass die Handlungskompetenzen nach den Verordnungen nach Artikel 3 Absatz 2 Buchstaben a–c erreicht worden sind.
+
+[^11-1]: Fassung gemäss Ziff. I der V des SBFI vom 6. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 448](https://fedlex.data.admin.ch/eli/oc/2024/448)).
 
 #### Art. 12
 
@@ -179,9 +193,11 @@ In den Qualifikationsverfahren ist nachzuweisen, dass die Handlungskompetenzen n
 
 <sup>1</sup> Die Abschlussprüfung wird von einem Prüfungsausschuss durchgeführt, der von der Industrie- und Handelskammer (IHK) Karlsruhe (Deutschland) eingesetzt wird.
 
-<sup>2</sup> Die Einzelheiten der Abschlussprüfung richten sich nach der Verordnung nach Artikel 3 Absatz 2 Buchstabe a.
+<sup>2</sup> Die Einzelheiten der Abschlussprüfung richten sich nach den Verordnungen nach Artikel 3 Absatz 2 Buchstabe a–c.[^12-1]
 
 <sup>3</sup> Die Bewertung erfolgt nach dem deutschen Notensystem. Sie wird nicht in das schweizerische Notensystem umgerechnet.
+
+[^12-1]: Fassung gemäss Ziff. I der V des SBFI vom 6. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 448](https://fedlex.data.admin.ch/eli/oc/2024/448)).
 
 #### Art. 13
 
@@ -197,22 +213,41 @@ Die Wiederholung des Qualifikationsverfahrens richtet sich nach Artikel 33 BBV.
 
 <sup>2</sup> Das Fähigkeitszeugnis berechtigt, den gesetzlich geschützten Titel «Papiertechnologin EFZ» oder «Papiertechnologe EFZ» zu führen.
 
-## 8. Abschnitt: Kommission für Berufsentwicklung und Qualität für Papiertechnologinnen und Papiertechnologen EFZ
+## 8. Abschnitt: Schweizerische Kommission für Berufsentwicklung und Qualität für Papiertechnologin und Papiertechnologe EFZ
+
+[^sec8-1]
+
+[^sec8-1]: Fassung gemäss Ziff. I der V des SBFI vom 6. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 448](https://fedlex.data.admin.ch/eli/oc/2024/448)).
 
 #### Art. 15
 
 <sup>1</sup>
 
-Die Kommission für Berufsentwicklung und Qualität für Papiertechnologinnen und Papiertechnologen EFZ setzt sich zusammen aus:
+Die schweizerische Kommission für Berufsentwicklung und Qualität für Papiertechnologin und Papiertechnologe EFZ setzt sich zusammen aus:
 
-- a. insgesamt 3–5 Vertreterinnen oder Vertretern des Verbands der Schweizerischen Zellstoff-, Papier- und Kartonindustrie (ZPK) sowie des Arbeitgeberverbands Schweizerischer Papier-Industrieller (ASPI);
-- b. je 1 Vertreterin oder 1 Vertreter der Arbeitnehmerorganisationen gemäss Gesamtarbeitsvertrag;
-- c. mindestens 1 Vertreterin oder 1 Vertreter der zuständigen Berufsfachschule;
-- d. je mindestens 1 Vertreterin oder 1 Vertreter des Bundes und der Kantone.
+- a. drei bis fünf Vertreterinnen oder Vertretern des Verbands Schweizerische Papier-, Karton- und Folienhersteller;
+- b. je einer Vertreterin oder einem Vertreter der Arbeitnehmerorganisationen gemäss Gesamtarbeitsvertrag;
+- c. einer Vertreterin oder einem Vertreter der Berufsfachschule;
+- d. je mindestens einer Vertreterin oder einem Vertreter des Bundes und der Kantone.
 
-<sup>2</sup> Die Kommission konstituiert sich selbst.
+<sup>2</sup>
 
-<sup>3</sup> Sie beantragt dem SBFI Änderungen dieser Verordnung, sofern beobachtete Entwicklungen die Regelungen dieser Verordnung betreffen. Die Anpassungen bedürfen der Zustimmung der Vertreterinnen und Vertreter des Bundes und der Kantone sowie der Genehmigung durch das SBFI.
+Für die Zusammensetzung gilt überdies:
+
+- a. Eine paritätische Vertretung beider Geschlechter ist anzustreben.
+- b. Die Sprachregionen müssen angemessen vertreten sein.
+
+<sup>3</sup> Die Kommission konstituiert sich selbst.
+
+<sup>4</sup>
+
+Sie hat insbesondere folgende Aufgaben:
+
+- a. Sie überprüft diese Verordnung und den Bildungsplan[^15-1] mindestens alle fünf Jahre auf wirtschaftliche, technologische, ökologische und didaktische Entwicklungen; dabei berücksichtigt sie allfällige neue organisatorische Aspekte der beruflichen Grundbildung.
+- b. Beobachtet sie Entwicklungen, die eine Änderung dieser Verordnung erfordern, so ersucht sie die zuständige Organisation der Arbeitswelt, dem SBFI die entsprechende Änderung zu beantragen.
+- c. Beobachtet sie Entwicklungen, die eine Anpassung des Bildungsplans erfordern, so stellt sie der zuständigen Organisation der Arbeitswelt Antrag auf Anpassung des Bildungsplans.
+
+[^15-1]: Der Bildungsplan vom 6. August 2024 des Verbands Schweizerische Papier-, Karton- und Folienhersteller ist zu finden auf der Website des SBFI über das Berufsverzeichnis unter: www.bvz.admin.ch &gt; Berufe A–Z.
 
 ## 9. Abschnitt: Schlussbestimmungen
 
