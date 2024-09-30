@@ -3,20 +3,19 @@ canton: BL
 number: "481.51"
 title: Vereinbarung über die Gebühren der Motorfahrzeugprüfstation beider Basel
 language: de
-version: 2018-01-01
-valid_until: 2024-09-30
-version_adopted: 2017-12-05
+version: 2024-10-01
+version_adopted: 2024-08-13
 adopted: 1993-11-09
 in_force: 1994-01-01
 url: "https://bl.clex.ch/app/de/texts_of_law/481.51"
-pdf: "https://bl.clex.ch/api/de/versions/3898/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3955/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Vereinbarung über die Gebühren der Motorfahrzeugprüfstation beider Basel
 
-Vom 09.11.1993 (Stand 01.01.2018)
+Vom 09.11.1993 (Stand 01.10.2024)
 
 Die Regierungsräte der Kantone Basel-Stadt und Basel-Landschaft,
 
@@ -28,11 +27,11 @@ beschliessen:
 
 #### § 1
 
-<sup>1</sup> Die Gebühren für die Dienstleistungen der amtlichen Verkehrsexperten und -expertinnen werden nach dem zeitlichen Aufwand festgesetzt. Der Ansatz pro Zeiteinheit à 20 Minuten beträgt:
+<sup>1</sup> Die Gebühren für die Dienstleistungen der amtlichen Verkehrsexpertinnen und -experten werden nach dem zeitlichen Aufwand festgesetzt. Der Ansatz pro Zeiteinheit à 20 Minuten beträgt:
 
-- a. für Fahrzeugprüfungen und technische Expertisen — CHF 65;
-- b. für Prüfungen der Motorfahrräder — CHF 40;
-- c. für praktische Führerprüfungen und alle übrigen Dienstleistungen, soweit diese Vereinbarung nichts anderes bestimmt — CHF 40.
+- a. für Fahrzeugprüfungen und technische Expertisen — CHF 78;
+- b. für Prüfungen der Motorfahrräder — CHF 46;
+- c. für praktische Führerprüfungen und alle übrigen Dienstleistungen, soweit diese Vereinbarung nichts anderes bestimmt — CHF 46.
 
 <sup>2</sup> Der mindestverrechenbare Zeitaufwand der Gebühren gemäss Abs. 1 Bst. a und b beträgt 1/4 Zeiteinheit.
 
@@ -44,19 +43,21 @@ beschliessen:
 
 <sup>1</sup> Für Theorieprüfungen sind folgende Gebühren zu entrichten:
 
-- a. Einzelprüfung nach Zeitaufwand pro Zeiteinheit — CHF 40;
-- b. Gruppenprüfung — CHF 40;
-- c. CZV-Theorie (gemäss Chauffeurzulassungsverordnung) — CHF 60.
+- a. Einzelprüfung nach Zeitaufwand pro Zeiteinheit — CHF 46;
+- b. Gruppenprüfung — CHF 46;
+- c. CZV-Theorie (gemäss Chauffeurzulassungsverordnung[^3-1]) — CHF 60.
+
+[^3-1]: [SR 741.521](https://db.clex.ch/link/Bund/741.521/de)
 
 #### § 4
 
 <sup>1</sup> Bei auswärtigen Prüfungen sind die ordentlichen Prüfungsgebühren um folgende Zuschläge zu erhöhen:
 
-- a. Kilometerzuschlag entsprechend der Kilometerentschädigung gemäss § 7 Abs. 3 der basellandschaftlichen Spesenverordnung vom 13. Dezember 1983[^4-1];
-- b. Wegezeit nach Zeitaufwand pro Zeiteinheit — CHF 40;
+- a. Kilometerzuschlag entsprechend der Kilometerentschädigung gemäss § 7 Abs. 3 der basellandschaftlichen Verordnung über den Auslagenersatz vom 15. Juni 1999[^4-1];
+- b. Wegezeit nach Zeitaufwand pro Zeiteinheit — CHF 46;
 - c. Gruppenprüfung — CHF 15.
 
-[^4-1]: GS 28.428
+[^4-1]: [SGS 153.15](https://bl.clex.ch/data/153.15/de/art7)
 
 #### § 5
 
