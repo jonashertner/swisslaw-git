@@ -4,13 +4,13 @@ number: "611.11"
 title: Vollzugsverordnung zum Planungs- und Baugesetz
 short: "Planungs- und Bauverordnung, PBV"
 language: de
-version: 2024-01-01
-valid_until: 2024-09-30
-version_adopted: 2023-12-12
+version: 2024-10-01
+valid_until: 2025-09-30
+version_adopted: 2024-08-27
 adopted: 2014-11-25
 in_force: 2015-01-01
 url: "https://gesetze.nw.ch/app/de/texts_of_law/611.11"
-pdf: "https://gesetze.nw.ch/api/de/versions/1223/pdf_file"
+pdf: "https://gesetze.nw.ch/api/de/versions/1402/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons NW. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,15 +19,15 @@ pdf: "https://gesetze.nw.ch/api/de/versions/1223/pdf_file"
 
 (Planungs- und Bauverordnung, PBV)[^t-1]
 
-vom 25.11.2014 (Stand 01.01.2024)
+vom 25.11.2014 (Stand 01.10.2024)
 
 Der Regierungsrat von Nidwalden,
 
-gestützt auf Art. 64 der Kantonsverfassung, in Ausführung von Art. 173 des Gesetzes vom 21. Mai 2014 über die Raumplanung und das öffentliche Baurecht (Planungs- und Baugesetz, PBG)[^ingress-1],
+gestützt auf Art. 64 Abs. 1 Ziff. 1 der Kantonsverfassung, in Ausführung von Art. 173 des Gesetzes vom 21. Mai 2014 über die Raumplanung und das öffentliche Baurecht (Planungs- und Baugesetz, PBG)[^ingress-1],
 
 beschliesst:
 
-[^t-1]: Die mit ►◄ gekennzeichneten §§ treten gemäss NG 611.11 gemeindeweise in Kraft
+[^t-1]: Die mit ►◄ gekennzeichneten §§ treten gemäss NG 611.111 gemeindeweise in Kraft
 [^ingress-1]: NG 611.1
 
 ## 1 Allgemeine Bestimmung
@@ -193,8 +193,8 @@ beschliesst:
 
 <sup>1</sup> Die Häufigkeit eines Ereignisses wird bezeichnet als:
 
-- 1\. häufig: bei einer Wahrscheinlichkeit bis 100 Jahre;
-- 2\. mittel: bei einer Wahrscheinlichkeit bis 300 Jahre, oder;
+- 1\. häufig: bei einer Wahrscheinlichkeit bis 30 Jahre;
+- 2\. mittel: bei einer Wahrscheinlichkeit bis 100 Jahre, oder;
 - 3\. selten: bei einer Wahrscheinlichkeit bis 300 Jahre, oder;
 - 4\. sehr selten: bei einer Wahrscheinlichkeit über 300 Jahre.
 
@@ -205,8 +205,8 @@ beschliesst:
 <sup>1</sup> Die Gebiete sind zuzuweisen:
 
 - 1\. der Gefahrenzone 1: bei erheblicher Gefährdung;
-- 2\. der Gefahrenzone 2: bei mittlerer Gefährdung sowie bei Wasserprozessen und spontanen Rutschungen mit mittlerer Häufigkeit unabhängig der Intensität;
-- 3\. der Gefahrenzone 3: bei allen übrigen Gefährdungen.
+- 2\. der Gefahrenzone 2: bei mittlerer Gefährdung in allen Prozessen, bei geringer Gefährdung in den Wasser- und Rutschprozessen;
+- 3\. der Gefahrenzone 3: bei allen übrigen Gefährdungen einschliesslich Restgefährdung.
 
 #### § 15
 
@@ -221,7 +221,11 @@ beschliesst:
 
 **2. Nachweis Naturgefahren**
 
-<sup>1</sup> Der Nachweis Naturgefahren ist auf Verlangen der Gemeinde durch eine anerkannte Fachexpertin oder einen anerkannten Fachexperten zu erbringen.
+<sup>1</sup> Die gesuchstellende Person hat den Nachweis Naturgefahren so einzureichen, dass die Elemente gemäss Art. 71 Abs. 2 PBG[^16-1] bedarfsgerecht aufgezeigt werden.
+
+<sup>2</sup> Werden diese Elemente im Nachweis Naturgefahren nicht bedarfsgerecht aufgezeigt, kann die Gemeinde verlangen, dass er verbessert oder durch eine anerkannte Expertin oder einen anerkannten Experten erbracht werden muss.
+
+[^16-1]: NG 611.1
 
 #### § 17
 
@@ -291,15 +295,15 @@ beschliesst:
 - 6\. Rutschen des gesamten Geländes;
 - 7\. partieller oder differentieller Rutschung.
 
+<sup>2</sup> Die Gebäudehülle ist so zu realisieren, dass sie bei Belastungen durch Naturgefahren keinen erheblichen Schaden nimmt.
+
 #### § 23
 
 **3. prozessspezifische Bauvorgaben a) wasserhaltige Prozesse im Allgemeinen**
 
 <sup>1</sup> Sind Bauten und Anlagen wasserhaltigen Prozessen ausgesetzt, sind die Aussenwände bis zur Überschwemmungshöhe bei seltenen Ereignissen in dichter Bauweise auszuführen.
 
-<sup>2</sup> Die Gebäudehülle ist so zu realisieren, dass sie durch den Wassereinstau keinen Schaden nimmt.
-
-<sup>3</sup> Durchdringungen der Gebäudehülle sind bis auf die Überschwemmungshöhe bei seltenen Ereignissen dicht auszuführen.
+<sup>2–3</sup> …
 
 #### § 24
 
@@ -313,17 +317,13 @@ beschliesst:
 
 #### § 25
 
-**c) Aawasser**
-
-<sup>1</sup> Bauten und Anlagen sind so zu erstellen, dass bis zur Überflutungshöhe bei seltenen Ereignissen des Aawassers kein Wasser in Gebäude eindringen kann.
-
-<sup>2</sup> Die Überflutungshöhen können bei der Gemeindeverwaltung eingesehen werden.
+**…**
 
 #### § 26
 
-**d) Wildbäche**
+**d) Fliessgewässer, Oberflächenabfluss**
 
-<sup>1</sup> Bauten und Anlagen sind so zu erstellen, dass bis zur Überflutungs- und Geschiebeablagerungshöhe bei seltenen Ereignissen der Wildbäche kein Wasser ins Gebäude eindringen kann. Die Lichtschächte sind über diese Höhe hochzuziehen.
+<sup>1</sup> Bauten und Anlagen sind so zu erstellen, dass bis zur Überflutungs- und Geschiebeablagerungshöhe bei seltenen Ereignissen kein Wasser ins Gebäude eindringen kann.
 
 <sup>2</sup> Gefährdete Gebäudeseiten sind baulich dicht auszugestalten. Sofern Öffnungen auf diesen Gebäudeseiten unabdingbar sind, sind sie mit dichten, druck- und schlagfesten Türen, Toren und Fenstern auszustatten.
 
@@ -331,7 +331,7 @@ beschliesst:
 
 <sup>4</sup> Die Gebäude sind zum Schutz vor Unterkolkung ausreichend zu fundieren.
 
-<sup>5</sup> Die lokal massgebende Schutzhöhe ist im Nachweis Naturgefahren zu ermitteln und darzustellen.
+<sup>5</sup> …
 
 #### § 27
 
@@ -398,7 +398,9 @@ beschliesst:
 - 1\. bereits vor Inkrafttreten dieser Bestimmung als Bauzonen ausgeschieden waren; und
 - 2\. besonders gefährdet sind.
 
-<sup>3</sup> Bei der Ausscheidung der Abflusskorridorzonen ist der Kataster der Gefahrengebiete und Abflusskorridore gemäss Art. 12a Wasserrechtsgesetz (WRG)25 zu berücksichtigen.
+<sup>3</sup> Bei der Ausscheidung der Abflusskorridorzonen ist der Kataster der Gefahrengebiete und Abflusskorridore gemäss Art. 9 des Gewässergesetzes[^30a-1] zu berücksichtigen.
+
+[^30a-1]: NG 631.1
 
 #### § 30b
 
