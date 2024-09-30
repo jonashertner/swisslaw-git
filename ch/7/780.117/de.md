@@ -4,11 +4,11 @@ title: Verordnung des EJPD vom 15. November 2017 über die Durchführung der Üb
 short: VD-ÜPF
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/35"
 language: de
-version: 2024-01-01
+version: 2024-10-01
 adopted: 2017-11-15
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/35/20240101/de/xml/fedlex-data-admin-ch-eli-cc-2018-35-20240101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20240101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/35/20241001/de/xml/fedlex-data-admin-ch-eli-cc-2018-35-20241001-de-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20241001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20240101/de"
 
 (VD-ÜPF)
 
-vom 15. November 2017 (Stand am 1. Januar 2024)
+vom 15. November 2017 (Stand am 1. Oktober 2024)
 
 Das Eidgenössische Justiz- und Polizeidepartement (EJPD),
 
@@ -187,7 +187,7 @@ Die flexible Suche gemäss Artikel 27 in Verbindung mit den Artikeln 35, 40, 42 
 - b. Die Suche ist fehlertolerant gegenüber Vertauschen, Auslassen und Abkürzen von Namensteilen, zum Beispiel Vertauschen von Vornamen und Nachnamen;
 - c. Die Suche findet phonetische Übereinstimmungen nach dem Sprachklang der englischen Sprache und nach Möglichkeit ebenfalls der drei Amtssprachen Deutsch, Französisch und Italienisch.
 
-[^13-1]: Die Weisung kann im Internet beim Staatssekretariat für Migration unter www.sem.admin.ch &gt; Publikationen & Service &gt; Weisungen und Kreisschreiben &gt; I. Ausländerbereich &gt; 3 Aufenthaltsregelung kostenlos abgerufen werden.
+[^13-1]: Die Weisung kann im Internet beim Staatssekretariat für Migration unter: www.sem.admin.ch &gt; Publikationen & Service &gt; Weisungen und Kreisschreiben &gt; I. Ausländerbereich &gt; 3 Aufenthaltsregelung kostenlos abgerufen werden.
 
 #### Art. 14
 
@@ -229,7 +229,9 @@ Die FDA mit reduzierten Überwachungspflichten müssen Auskunftsgesuche, nachdem
 
 **Ausführung**
 
-1 Alle Typen von Echtzeitüberwachung (Art. 54–59 VÜPF), rückwirkender Überwachung (Art. 60–66 VÜPF), Notsuche (Art. 67 VÜPF), Fahndung (Art. 68 VÜPF) und Mobilfunklokalisierung terroristischer Gefährderinnen und Gefährder (Art. 68a VÜPF) sind wie folgt auszuführen:[^15-1]
+<sup>1</sup>
+
+Alle Typen von Echtzeitüberwachung (Art. 54–59 VÜPF), rückwirkender Überwachung (Art. 60–66 VÜPF), Notsuche (Art. 67 VÜPF), Fahndung (Art. 68 VÜPF) und Mobilfunklokalisierung terroristischer Gefährderinnen und Gefährder (Art. 68a VÜPF) sind wie folgt auszuführen:[^15-1]
 
 - a. Der Dienst übermittelt den Auftrag an die Anbieterin.
 - b. Die Anbieterin bestätigt dem Dienst ÜPF den Eingang des Auftrags.
@@ -390,7 +392,7 @@ Bis die FDA und die AAKD mit weitergehenden Auskunftspflichten ihre Systeme nach
 
 Bis die Anbieterinnen ihre Systeme für die Mobilfunklokalisierung terroristischer Gefährderinnen und Gefährder angepasst haben, spätestens aber bis zum Ablauf der Übergangsfrist nach Artikel 74*a* Absatz 2 VÜPF, ist die Bearbeitungsfrist ein Drittel länger.
 
-[^27a-1]: Fassung gemäss Ziff. I der V des EJPD vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 302](https://fedlex.data.admin.ch/eli/oc/2022/302)).
+[^27a-1]: Eingefügt durch Ziff. I der V des EJPD vom 4. Mai 2022, in Kraft seit 1. Juni 2022 ([AS 2022 302](https://fedlex.data.admin.ch/eli/oc/2022/302)).
 
 #### Art. 28
 
@@ -402,12 +404,12 @@ Anhang 1[^t-1]
 
 (Art. 7 Abs. 3 Bst. a, 26 und 27*a*)
 
-## Technische Vorschriften für die Schnittstellen für die Durchführung der Fernmeldeüberwachung (Ausgabe 3.0)
+## Technische Vorschriften für die Schnittstellen für die Durchführung der Fernmeldeüberwachung (Ausgabe 3.1)
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Fassung gemäss Ziff. II der V des EJPD vom 15. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
-[^annex1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2023/686](https://fedlex.data.admin.ch/eli/oc/2023/686) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
+[^t-1]: Fassung gemäss Ziff. I der V des EJPD vom 13. Aug. 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 432](https://fedlex.data.admin.ch/eli/oc/2024/432)).
+[^annex1-lvlu1-1]: Der Inhalt dieses Anhangs wird in der AS und in der SR nur durch Verweis veröffentlicht. Er kann abgerufen werden unter [https://fedlex.data.admin.ch/eli/oc/2024/432](https://fedlex.data.admin.ch/eli/oc/2024/432) &gt; Allgemeine Informationen &gt; Umfang der Veröffentlichung &gt; Veröffentlichung eines Textteils durch Verweis.
 
 Anhang 2[^t-2]
 

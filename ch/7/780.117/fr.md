@@ -4,11 +4,11 @@ title: Ordonnance du DFJP du 15 novembre 2017 sur la mise en uvre de la survei
 short: OME-SCPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/35"
 language: fr
-version: 2024-01-01
+version: 2024-10-01
 adopted: 2017-11-15
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/35/20240101/fr/xml/fedlex-data-admin-ch-eli-cc-2018-35-20240101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20240101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/35/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-2018-35-20241001-fr-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20241001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20240101/fr"
 
 (OME-SCPT)
 
-du 15 novembre 2017 (État le 1<sup>er</sup> janvier 2024)
+du 15 novembre 2017 (État le 1<sup>er</sup> octobre 2024)
 
 Le Département fédéral de justice et police (DFJP),
 
@@ -141,7 +141,7 @@ Les parties concernées éliminent en étroite coopération les dérangements af
 
 <sup>2</sup> La transmission de données selon l’art. 16, let. b, OSCPT consiste en la communication en continu des données selon les ch. 1 à 4 de ladite disposition, sans interrompre le processus de distribution de l’envoi postal concerné.
 
-<sup>2</sup> <sup>bis</sup> Le Service SCPT transmet au fournisseur de services postaux le mandat d’exécution d’une surveillance en temps réel dans un délai d’une heure suivant la réception de l’ordre.[^10-1]
+<sup>2bis</sup> Le Service SCPT transmet au fournisseur de services postaux le mandat d’exécution d’une surveillance en temps réel dans un délai d’une heure suivant la réception de l’ordre.[^10-1]
 
 <sup>3</sup> Le fournisseur de services postaux dispose d’un jour ouvré suivant la réception du mandat pour mettre en place les surveillances en temps réel selon l’art. 16, let. a et b, OSCPT. La surveillance se poursuit aussi longtemps qu’elle n’est pas levée.
 
@@ -402,12 +402,12 @@ Annexe 1[^t-1]
 
 (art. 7, al. 3, let. a, 26 et 27*a*)
 
-## Prescriptions techniques relatives aux interfaces pour la mise en œuvre de la surveillance de la correspondance par poste et télécommunications (version 3.0)
+## Prescriptions techniques relatives aux interfaces pour la mise en œuvre de la surveillance de la correspondance par poste et télécommunication (version 3.1)
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nouvelle teneur selon le ch. II de l’O du DFJP du 15 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
-[^annex1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/686](https://fedlex.data.admin.ch/eli/oc/2023/686) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-1]: Nouvelle teneur selon le ch. I de l’O du DFJP du 13 août 2024, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 432](https://fedlex.data.admin.ch/eli/oc/2024/432)).
+[^annex1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement sous forme de renvoi. Il peut être consulté à l’adresse suivante [https://fedlex.data.admin.ch/eli/oc/2024/432](https://fedlex.data.admin.ch/eli/oc/2024/432) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 Annexe 2[^t-2]
 

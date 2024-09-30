@@ -4,11 +4,11 @@ title: "Ordinanza del DFGP del 15 novembre 2017 sull'esecuzione della sorveglian
 short: OE-SCPT
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/35"
 language: it
-version: 2024-01-01
+version: 2024-10-01
 adopted: 2017-11-15
 in_force: 2018-03-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/35/20240101/it/xml/fedlex-data-admin-ch-eli-cc-2018-35-20240101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20240101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/35/20241001/it/xml/fedlex-data-admin-ch-eli-cc-2018-35-20241001-it-xml-5.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20241001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/35/20240101/it"
 
 (OE-SCPT)
 
-del 15 novembre 2017 (Stato 1° gennaio 2024)
+del 15 novembre 2017 (Stato 1° ottobre 2024)
 
 Il Dipartimento federale di giustizia e polizia (DFGP),
 
@@ -402,12 +402,12 @@ Allegato 1[^t-1]
 
 (art. 7 cpv. 3 lett. a, 26 e 27*a*)
 
-## Prescrizioni tecniche in materia di interfacce per l’esecuzione della sorveglianza delle telecomunicazioni (versione 3.0)
+## Prescrizioni tecniche in materia di interfacce per l’esecuzione della sorveglianza delle telecomunicazioni (versione 3.1)
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del DFGP del 15 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 686](https://fedlex.data.admin.ch/eli/oc/2023/686)).
-[^annex1-lvlu1-1]: Il testo del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2023/686](https://fedlex.data.admin.ch/eli/oc/2023/686) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-1]: Nuovo testo giusta il n. I dell’O del DFGP del 13 ago. 2024, in vigore dal 1° ott. 2024 ([RU 2024 432](https://fedlex.data.admin.ch/eli/oc/2024/432)).
+[^annex1-lvlu1-1]: Il testo del presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo: [https://fedlex.data.admin.ch/eli/oc/2024/432](https://fedlex.data.admin.ch/eli/oc/2024/432) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 Allegato 2[^t-2]
 
