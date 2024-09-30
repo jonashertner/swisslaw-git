@@ -3,11 +3,11 @@ sr: "0.191.111.631"
 title: "Accordo del 3 dicembre 2015 fra il Consiglio federale svizzero e il Governo della Repubblica d'Austria sulla collaborazione in affari consolari (con all.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2016/199"
 language: it
-version: 2022-09-01
+version: 2024-10-01
 adopted: 2015-12-03
 in_force: 2016-04-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/199/20220901/it/xml/fedlex-data-admin-ch-eli-cc-2016-199-20220901-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2016/199/20220901/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2016/199/20241001/it/xml/fedlex-data-admin-ch-eli-cc-2016-199-20241001-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2016/199/20241001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,11 +18,9 @@ RU **2016** 1059
 
 Traduzione
 
-Concluso il 3 dicembre 2015
+Concluso il 3 dicembre 2015 Entrato in vigore mediante scambio di note il 1° aprile 2016
 
-Entrato in vigore mediante scambio di note il 1° aprile 2016
-
-(Stato 1° settembre 2022)
+(Stato 1° ottobre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -275,25 +273,26 @@ Le Parti contraenti valutano la possibilità di cooperare nel settore del rileva
 
 Appendice II[^t-1]
 
-## Elenco dei paesi ospitanti in cui è assicurato il trasferimento di funzioni consolari
+## Elenco dei paesi ospitanti in cui è assicurato il trasferimento di funzioni consolari.
 
-[^t-1]: Nuovo testo giusta lo scambio di note del 7 lug. 2022, in vigore dal 1° set. 2022 ([RU 2022 417](https://fedlex.data.admin.ch/eli/oc/2022/417)).
+[^t-1]: Nuovo testo giusta la dec. del Comitato misto del 3 giu. 2024, in vigore dal 1° ott. 2024 ([RU 2024 503](https://fedlex.data.admin.ch/eli/oc/2024/503)).
 
 ### A) Preso in carica dall’Austria
 
 <table>
-<tr><td></td><td>Rappresentato dall’Ambasciata</td><td>Rappresentato da un CO</td><td>Rappresentanza ad hoc/ Emergenza</td></tr>
-<tr><td>Europa</td><td></td><td>Creta (Grecia) Parikia (Grecia) Volos (Grecia)</td><td>Chisinau (Moldavia)</td></tr>
-<tr><td>Africa</td><td></td><td>Banjul (Gambia) São Tomé (São Tomé e Príncipe)</td><td></td></tr>
+<tr><th></th><th>Rappresentato dall’Ambasciata</th><th>Rappresentato da un CO</th><th>Rappresentanza ad hoc/ Emergenza</th></tr>
+<tr><td>Europa</td><td></td><td>Creta (Grecia) Parikia (Grecia) Volos (Grecia) Patras (Grecia) Trondheim (Norvegia) Czernowitz (Ucraina)</td><td>Chisinau (Moldova)</td></tr>
+<tr><td>Africa</td><td></td><td>São Tomé (São Tomé e Príncipe)</td><td></td></tr>
 <tr><td>America</td><td></td><td>Scarborough (Tobago)</td><td></td></tr>
 </table>
 
 ### B) Preso in carica dalla Svizzera
 
 <table>
-<tr><td></td><td>Rappresentato dall’Ambasciata</td><td>Rappresentato da un CO</td><td>Rappresentanza ad hoc/ Emergenza</td></tr>
-<tr><td>Africa</td><td></td><td>Bissau (Guinea Bissau) Freetown (Sierra Leone) Monrovia (Liberia) Douala (Camerun)</td><td>Praia (Cabo Verde)</td></tr>
+<tr><th></th><th>Rappresentato dall’Ambasciata</th><th>Rappresentato da un CO</th><th>Rappresentanza ad hoc/ Emergenza</th></tr>
+<tr><td>Europa</td><td></td><td></td><td>Digione (Francia)</td></tr>
+<tr><td>Africa</td><td></td><td>Bissau (Guinea Bissau) Monrovia (Liberia) Douala (Camerun)</td><td>Praia (Capo Verde)</td></tr>
 <tr><td>America</td><td></td><td></td><td>San José (Costa Rica) Port of Spain (Trinidad) Maracaibo (Venezuela) Caracas (Venezuela)</td></tr>
 <tr><td>Asia</td><td></td><td></td><td>Bali (Indonesia)</td></tr>
-<tr><td>Oceania</td><td></td><td>Apia (Samoa) Papeete (Tahiti) Suva (Fidji)</td><td>Wellington (Nuova Zelanda)</td></tr>
+<tr><td>Oceania</td><td></td><td>Apia (Samoa) Papeete (Tahiti) Suva (Figi)</td><td>Wellington (Nuova Zelanda)</td></tr>
 </table>
