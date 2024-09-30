@@ -3,13 +3,12 @@ canton: BS
 number: "952.860"
 title: Vereinbarung über die Gebühren der Motorfahrzeugprüfstation beider Basel
 language: de
-version: 2018-01-01
-valid_until: 2024-09-30
-version_adopted: 2017-11-28
+version: 2024-10-01
+version_adopted: 2024-08-13
 adopted: 1993-11-09
 in_force: 1994-01-01
 url: "https://www.gesetzessammlung.bs.ch/app/de/texts_of_law/952.860"
-pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4302/pdf_file"
+pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/6381/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BS. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -18,7 +17,7 @@ pdf: "https://www.gesetzessammlung.bs.ch/api/de/versions/4302/pdf_file"
 
 Motorfahrzeugprüfstation: Vereinbarung über Gebühren | Strassenverkehr
 
-Vom 9. November 1993 (Stand 1. Januar 2018)
+Vom 9. November 1993 (Stand 1. Oktober 2024)
 
 Die Regierungsräte der Kantone Basel-Stadt und Basel-Landschaft,
 
@@ -30,11 +29,11 @@ beschliessen:
 
 #### § 1
 
-<sup>1</sup> Die Gebühren für die Dienstleistungen der amtlichen Verkehrsexperten werden nach dem zeitlichen Aufwand festgesetzt. Der Ansatz pro Zeiteinheit à 20 Minuten beträgt:
+<sup>1</sup> Die Gebühren für die Dienstleistungen der amtlichen Verkehrsexpertinnen und -experten werden nach dem zeitlichen Aufwand festgesetzt. Der Ansatz pro Zeiteinheit à 20 Minuten beträgt:
 
-- a) Für Fahrzeugprüfungen und technische Expertisen — CHF 65
-- b) Für Prüfungen der Motorfahrräder — CHF 40
-- c) Für praktische Führerprüfungen und alle übrigen Dienstleistungen, soweit diese Vereinbarung nichts anderes bestimmt — CHF 40
+- a) für Fahrzeugprüfungen und technische Expertisen — CHF 78
+- b) für Prüfungen der Motorfahrräder — CHF 46
+- c) für praktische Führerprüfungen und alle übrigen Dienstleistungen, soweit diese Vereinbarung nichts anderes bestimmt — CHF 46
 
 <sup>2</sup> Der mindestverrechenbare Zeitaufwand der Gebühren gemäss Abs. 1 lit. a und b beträgt ¼ Zeiteinheit.
 
@@ -46,17 +45,19 @@ beschliessen:
 
 <sup>1</sup> Für Theorieprüfungen sind folgende Gebühren zu entrichten:
 
-- a) Einzelprüfung nach Zeitaufwand pro Zeiteinheit — CHF 40
-- b) Gruppenprüfung — CHF 40
-- c) CZV - Theorie (gemäss Chauffeurzulassungsverordnung) — CHF 60
+- a) Einzelprüfung nach Zeitaufwand pro Zeiteinheit — CHF 46
+- b) Gruppenprüfung — CHF 46
+- c) CZV - Theorie (gemäss Chauffeurzulassungsverordnung¹) — CHF 60
 
 #### § 4
 
 <sup>1</sup> Bei auswärtigen Prüfungen sind die ordentlichen Prüfungsgebühren um folgende Zuschläge zu erhöhen:
 
-- a) Kilometerzuschlag entsprechend der Kilometerentschädigung gemäss § 7 Abs. 3 der basellandschaftlichen Spesenverordnung vom 13. Dezember 1983.
-- b) Wegezeit nach Zeitaufwand pro Zeiteinheit — CHF 40
+- a) Kilometerzuschlag entsprechend der Kilometerentschädigung gemäss § 7 Abs. 3 der basellandschaftlichen Verordnung über den Auslagenersatz vom 15. Juni 1999[^4-1]);
+- b) Wegezeit nach Zeitaufwand pro Zeiteinheit — CHF 46
 - c) Gruppenprüfung — CHF 15
+
+[^4-1]: SGS [153.15](https://db.clex.ch/link/BL/153.15/de)
 
 #### § 5
 
@@ -117,20 +118,20 @@ beschliessen:
 
 <sup>1</sup> Diese Vereinbarung wird am 1. Januar 1994 wirksam.
 
-Liestal, den 9. November 1993
+Basel,
 
-Im Namen des Regierungsrates des Kantons Basel-Landschaft
+Im Namen des Regierungsrats
 
-Der Präsident: W. Spitteler
+der Präsident: Dr. Conradin Cramer
 
-Der Landschreiber: W. Mundschin
+die Staatsschreiberin: Barbara Schüpbach-Guggenbühl
 
-Basel, den 9. November 1993
+Liestal,
 
-Im Namen des Regierungsrates des Kantons Basel-Stadt
+Im Namen des Regierungsrats
 
-Der Präsident: Dr. M. Feldges
+der Präsident: Isaac Reber
 
-Der Staatsschreiber: Dr. E. Weiss
+die Landschreiberin: Elisabeth Heer Dietrich
 
 KB 17.11.1993
