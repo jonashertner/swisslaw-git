@@ -4,11 +4,11 @@ title: "Lescha federala dals 20 da mars 2015 davart las abitaziuns secundaras (L
 short: LAS
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/886"
 language: rm
-version: 2016-01-01
+version: 2024-10-01
 adopted: 2015-03-20
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/886/20160101/rm/xml/fedlex-data-admin-ch-eli-cc-2015-886-20160101-rm-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/886/20160101/rm"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/886/20241001/rm/xml/fedlex-data-admin-ch-eli-cc-2015-886-20241001-rm-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/886/20241001/rm"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -19,7 +19,7 @@ Rumantsch è ina lingua naziunala, ma ina lingua parzialmain uffiziala da la Con
 
 (Lescha davart las abitaziuns secundaras, LAS)
 
-dals 20 da mars 2015 (stadi dal 1. da schaner 2016)
+dals 20 da mars 2015 (stadi dal 1. d’october 2024)
 
 L’Assamblea federala da la Confederaziun svizra,
 
@@ -27,7 +27,7 @@ sa basond sin ils artitgels 75 e 75*b* da la Constituziun federala[^ingress-1], 
 
 concluda:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2014 2287](https://fedlex.data.admin.ch/eli/fga/2014/409)
 
 ## 1. chapitel Disposiziuns generalas
@@ -69,7 +69,7 @@ Il medem status sco emprimas abitaziuns han abitaziuns che:
 
 <sup>4</sup> In’abitaziun secundara en il senn da questa lescha è in’abitaziun che n’è ni in’emprima abitaziun en il senn da questa lescha, ni ha il medem status sco in’emprima abitaziun.
 
-[^2-1]: [SR 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
+[^2-1]: [SR 431.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6950)
 
 #### Art. 3
 
@@ -208,11 +208,15 @@ In’abitaziun tenor il dretg vegl en il senn da questa lescha è in’abitaziun
 
 <sup>1</sup> Cun resalva da restricziuns d’utilisaziun existentas u futuras dal dretg chantunal u communal è libra la moda e maniera da l’utilisaziun d’abitaziuns tenor il dretg vegl.
 
-<sup>2</sup> En il rom da la surfatscha utilisada principala preexistenta dastgan talas abitaziuns vegnir renovadas, transfurmadas e reconstruidas danovamain. Sch’i vegnan stgaffidas abitaziuns supplementaras en quest rom, pon quellas vegnir permessas senza ina restricziun d’utilisaziun tenor l’artitgel 7 alinea 1. Las ulteriuras premissas dal dretg federal e dal dretg chantunal restan resalvadas.
+2 Talas abitaziuns dastgan vegnir renovadas, transfurmadas sco er disfatgas e reconstruidas, senza ch’i stoppian vegnir adossadas restricziuns d’utilisaziun tenor l’artitgel 7 alinea 1. En quest connex dastga la surfatscha d’utilisaziun principala vegnir engrondida entaifer las zonas da construcziun per maximalmain 30 pertschient da la surfatscha d’utilisaziun principala che existiva gia avant ils 11 da mars 2012. En quest rom dastgan vegnir stgaffidas abitaziuns ed edifizis supplementars.[^11-1]
 
-<sup>3</sup> Entaifer las zonas da construcziun dastgan abitaziuns tenor il dretg vegl vegnir engrondidas per maximalmain 30 pertschient da la surfatscha utilisada principala che preexistiva ils 11 da mars 2012, premess ch’i na vegnian stgaffidas naginas abitaziuns supplementaras. Ordaifer las zonas da construcziun èn engrondiments admess en il rom da las prescripziuns davart il construir ordaifer las zonas da construcziun.
+<sup>3</sup> Sche l’engrondiment d’ina abitaziun existenta surpassa la dimensiun tenor l’alinea 2 segunda frasa, è el admess, sche l’abitaziun vegn declerada sco emprima abitaziun en il senn da l’artitgel 7 alinea1 litera a u sco abitaziun explotada turisticamain en il senn da l’artitgel 7 alinea 1 litera b en cumbinaziun cun l’artitgel 7 alinea 2 litera a u b e sche las premissas correspundentas per la permissiun èn ademplidas. L’autoritad che conceda las permissiuns da construcziun ordinescha en la permissiun da construcziun ina restricziun d’utilisaziun correspundenta ed incumbensescha, immediatamain suenter che la permissiun da construcziun è entrada en vigur, l’Uffizi dal register funsil da menziunar en il register funsil la restricziun d’utilisaziun che pertutga il bain immobigliar respectiv.[^11-2]
 
-<sup>4</sup> Sch’ils engrondiments surpassan la dimensiun tenor l’alinea 3 èn els admess, sche l’abitaziun vegn declerada sco emprima abitaziun en il senn da l’artitgel 7 alinea1 litera a u sco abitaziun explotada turisticamain en il senn da l’artitgel 7 alinea 1 litera b en cumbinaziun cun l’artitgel 7 alinea 2 litera a u b e sche las premissas correspundentas per la permissiun èn ademplidas. L’autoritad che conceda las permissiuns da construcziun ordinescha en la permissiun da construcziun ina restricziun d’utilisaziun correspundenta ed incumbensescha immediatamain suenter che la permissiun da construcziun è entrada en vigur l’Uffizi dal register funsil da menziunar en il register funsil la restricziun d’utilisaziun che pertutga il bain immobigliar respectiv.
+<sup>4</sup> Las ulteriuras premissas dal dretg federal e dal dretg chantunal restan resalvadas. Ordaifer las zonas da construcziun vegn l’admissibladad da midadas architectonicas e da l’utilisaziun giuditgada tenor las disposiziuns da la legislaziun davart la planisaziun dal territori.[^11-3]
+
+[^11-1]: Versiun tenor la cifra I da la LF dals 15 da mars 2024, en vigur dapi il 1. d'oct. 2024 ([AS 2024 501](https://fedlex.data.admin.ch/eli/oc/2024/501); [BBl 2023 1480](https://fedlex.data.admin.ch/eli/fga/2023/1480), [2025](https://fedlex.data.admin.ch/eli/fga/2023/2025)).
+[^11-2]: Versiun tenor la cifra I da la LF dals 15 da mars 2024, en vigur dapi il 1. d'oct. 2024 ([AS 2024 501](https://fedlex.data.admin.ch/eli/oc/2024/501); [BBl 2023 1480](https://fedlex.data.admin.ch/eli/fga/2023/1480), [2025](https://fedlex.data.admin.ch/eli/fga/2023/2025)).
+[^11-3]: Versiun tenor la cifra I da la LF dals 15 da mars 2024, en vigur dapi il 1. d'oct. 2024 ([AS 2024 501](https://fedlex.data.admin.ch/eli/oc/2024/501); [BBl 2023 1480](https://fedlex.data.admin.ch/eli/fga/2023/1480), [2025](https://fedlex.data.admin.ch/eli/fga/2023/2025)).
 
 #### Art. 12
 
@@ -248,7 +252,7 @@ L’autoritad che conceda las permissiuns da construcziun sistescha – sin dumo
 
 <sup>3</sup> Ensemen cun la sistida tenor l’alinea 1 litera b ed en cas da mintga prolungaziun ordinescha ella sin custs dal petent che la valur uffiziala da l’abitaziun vegnia stimada da nov.
 
-<sup>4</sup> Il Cusseglier federal regla la durada da la sistida e da sias prolungaziuns sco er ils detagls da la cumprova tenor l’alinea 1 litera b, en spezial las pretensiuns a la publicaziun da l’abitaziun.
+<sup>4</sup> Il Cussegl federal regla la durada da la sistida e da sias prolungaziuns sco er ils detagls da la cumprova tenor l’alinea 1 litera b, en spezial las pretensiuns a la publicaziun da l’abitaziun.
 
 ## 6. chapitel Execuziun
 
@@ -286,7 +290,7 @@ L’autoritad ch’è responsabla per la controlla d’abitants en ina vischnanc
 
 <sup>4</sup> Sche commembers da las autoritads da construcziun cumpetentas u lur collavuraturs survegnan – exequind lur activitad uffiziala – enconuschientscha da cuntravenziuns, èn els obligads d’annunziar talas immediatamain a l’autoritad da surveglianza tenor l’artitgel 15.
 
-[^17-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^17-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 18
 
@@ -314,8 +318,8 @@ L’autoritad ch’è responsabla per la controlla d’abitants en ina vischnanc
 
 <sup>2</sup> Plinavant sa drizzan la cumpetenza, la procedura e la protecziun giuridica – cun resalva da las disposiziuns da questa lescha – tenor la Lescha dals 22 da zercladur 1979[^20-2] davart la planisaziun dal territori e tenor las disposiziuns executivas respectivas dals chantuns.
 
-[^20-1]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
-[^20-2]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^20-1]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
+[^20-2]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 ## 7. chapitel Disposiziuns penalas
 
@@ -353,7 +357,7 @@ Il Cussegl federal decretescha las disposiziuns executivas, nun che la lescha de
 
 Las leschas qua sutvart vegnan midadas sco suonda:
 
-…[^24-1]
+...[^24-1]
 
 [^24-1]: Las midadas pon vegnir consultadas en la [AS 2015 5657](https://fedlex.data.admin.ch/eli/oc/2015/886).
 
@@ -371,7 +375,7 @@ Las leschas qua sutvart vegnan midadas sco suonda:
 
 <sup>5</sup> Las permissiuns da construcziun ch’èn vegnidas concedidas e ch’èn entradas en vigur tenor il dretg processual chantunal respectiv suenter il 1. da schaner 2013 e fin il mument da l’entrada en vigur da questa lescha restan valaivlas, uschenavant ch’ellas èn vegnidas concedidas sin basa da l’Ordinaziun dals 22 d’avust 2012[^25-1] davart las abitaziuns secundaras.
 
-[^25-1]: [[AS 2012 4583](https://fedlex.data.admin.ch/eli/oc/2012/556), [2013 1257](https://fedlex.data.admin.ch/eli/oc/2013/281)[3549](https://fedlex.data.admin.ch/eli/oc/2013/667), [2014 3567](https://fedlex.data.admin.ch/eli/oc/2014/618), [2015 4143](https://fedlex.data.admin.ch/eli/oc/2015/696)]
+[^25-1]: [[AS 2012 4583](https://fedlex.data.admin.ch/eli/oc/2012/556); [2013 1257](https://fedlex.data.admin.ch/eli/oc/2013/281), [3549](https://fedlex.data.admin.ch/eli/oc/2013/667); [2014 3567](https://fedlex.data.admin.ch/eli/oc/2014/618); [2015 4143](https://fedlex.data.admin.ch/eli/oc/2015/696)]
 
 #### Art. 26
 

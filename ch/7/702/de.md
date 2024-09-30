@@ -4,11 +4,11 @@ title: "Bundesgesetz vom 20. März 2015 über Zweitwohnungen (Zweitwohnungsgeset
 short: ZWG
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/886"
 language: de
-version: 2016-01-01
+version: 2024-10-01
 adopted: 2015-03-20
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/886/20160101/de/xml/fedlex-data-admin-ch-eli-cc-2015-886-20160101-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/886/20160101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/886/20241001/de/xml/fedlex-data-admin-ch-eli-cc-2015-886-20241001-de-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/886/20241001/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/886/20160101/de"
 
 (Zweitwohnungsgesetz, ZWG)
 
-vom 20. März 2015 (Stand am 1. Januar 2016)
+vom 20. März 2015 (Stand am 1. Oktober 2024)
 
 Die Bundesversammlung der Schweizerischen Eidgenossenschaft,
 
@@ -25,7 +25,7 @@ gestützt auf die Artikel 75 und 75*b* der Bundesverfassung[^ingress-1], nach Ei
 
 beschliesst:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2014 2287](https://fedlex.data.admin.ch/eli/fga/2014/409)
 
 ## 1. Kapitel: Allgemeine Bestimmungen
@@ -67,7 +67,7 @@ Erstwohnungen gleichgestellt sind Wohnungen, die:
 
 <sup>4</sup> Eine Zweitwohnung im Sinne dieses Gesetzes ist eine Wohnung, die weder eine Erstwohnung ist noch einer Erstwohnung gleichgestellt ist.
 
-[^2-1]: [SR 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
+[^2-1]: [SR 431.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6950)
 
 #### Art. 3
 
@@ -206,11 +206,15 @@ Eine altrechtliche Wohnung im Sinne dieses Gesetzes ist eine Wohnung, die am 11.
 
 <sup>1</sup> Altrechtliche Wohnungen sind unter Vorbehalt bestehender oder künftiger Nutzungsbeschränkungen des kantonalen oder kommunalen Rechts in der Art der Wohnnutzung frei.
 
-<sup>2</sup> Solche Wohnungen dürfen im Rahmen der vorbestandenen Hauptnutzfläche erneuert, umgebaut und wieder aufgebaut werden. Werden in diesem Rahmen zusätzliche Wohnungen geschaffen, so können diese bewilligt werden, ohne dass eine Nutzungsbeschränkung nach Artikel 7 Absatz 1 auferlegt werden muss. Die übrigen Voraussetzungen des Bundesrechts und des kantonalen Rechts bleiben vorbehalten.
+<sup>2</sup> Solche Wohnungen dürfen, ohne dass Nutzungsbeschränkungen nach Artikel 7 Absatz 1 auferlegt werden müssen, erneuert, umgebaut sowie abgebrochen und neu aufgebaut werden. Innerhalb der Bauzonen darf dabei die Hauptnutzfläche um maximal 30 Prozent der am 11. März 2012 vorbestehenden Hauptnutzfläche erweitert werden. In diesem Rahmen dürfen zusätzliche Wohnungen und Gebäude geschaffen werden.[^11-1]
 
-<sup>3</sup> Altrechtliche Wohnungen dürfen innerhalb der Bauzonen um maximal 30 Prozent der am 11. März 2012 vorbestehenden Hauptnutzfläche erweitert werden, sofern keine zusätzlichen Wohnungen geschaffen werden. Ausserhalb der Bauzonen bleiben Erweiterungen im Rahmen der Vorschriften über das Bauen ausserhalb der Bauzonen zulässig.
+<sup>3</sup> Übersteigt die Erweiterung einer bestehenden Wohnung das Mass von Absatz 2 zweiter Satz, so ist sie zulässig, wenn die Wohnung als Erstwohnung im Sinne von Artikel 7 Absatz 1 Buchstabe a oder als touristisch bewirtschaftete Wohnung im Sinne von Artikel 7 Absatz 1 Buchstabe b in Verbindung mit Artikel 7 Absatz 2 Buchstabe a oder b deklariert wird und die entsprechenden Bewilligungsvoraussetzungen erfüllt sind. Die Baubewilligungsbehörde ordnet in der Baubewilligung eine entsprechende Nutzungsbeschränkung an und weist unmittelbar nach Rechtskraft der Baubewilligung das Grundbuchamt an, die Nutzungsbeschränkung zum betreffenden Grundstück im Grundbuch anzumerken.[^11-2]
 
-<sup>4</sup> Übersteigen Erweiterungen das Mass nach Absatz 3, so sind sie zulässig, wenn die Wohnung als Erstwohnung im Sinne von Artikel 7 Absatz 1 Buchstabe a oder als touristisch bewirtschaftete Wohnung im Sinne von Artikel 7 Absatz 1 Buchstabe b in Verbindung mit Artikel 7 Absatz 2 Buchstabe a oder b deklariert wird und die entsprechenden Bewilligungsvoraussetzungen erfüllt sind. Die Baubewilligungsbehörde ordnet in der Baubewilligung eine entsprechende Nutzungsbeschränkung an und weist unmittelbar nach Rechtskraft der Baubewilligung das Grundbuchamt an, die Nutzungsbeschränkung zum betreffenden Grundstück im Grundbuch anzumerken.
+<sup>4</sup> Die übrigen Voraussetzungen des Bundesrechts und des kantonalen Rechts bleiben vorbehalten. Ausserhalb der Bauzonen beurteilt sich die Zulässigkeit von baulichen und nutzungsmässigen Änderungen nach den Bestimmungen der Raumplanungsgesetzgebung.[^11-3]
+
+[^11-1]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 501](https://fedlex.data.admin.ch/eli/oc/2024/501); [BBl 2023 1480](https://fedlex.data.admin.ch/eli/fga/2023/1480), [2025](https://fedlex.data.admin.ch/eli/fga/2023/2025)).
+[^11-2]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 501](https://fedlex.data.admin.ch/eli/oc/2024/501); [BBl 2023 1480](https://fedlex.data.admin.ch/eli/fga/2023/1480), [2025](https://fedlex.data.admin.ch/eli/fga/2023/2025)).
+[^11-3]: Fassung gemäss Ziff. I des BG vom 15. März 2024, in Kraft seit 1. Okt. 2024 ([AS 2024 501](https://fedlex.data.admin.ch/eli/oc/2024/501); [BBl 2023 1480](https://fedlex.data.admin.ch/eli/fga/2023/1480), [2025](https://fedlex.data.admin.ch/eli/fga/2023/2025)).
 
 #### Art. 12
 
@@ -284,7 +288,7 @@ Die Behörde, die für die Einwohnerkontrolle in einer Gemeinde mit einem Zweitw
 
 <sup>4</sup> Erhalten Mitglieder der zuständigen Baubehörden oder deren Mitarbeiterinnen und Mitarbeiter in ihrer amtlichen Tätigkeit Kenntnis von Widerhandlungen, so sind sie verpflichtet, diese unverzüglich der Aufsichtsbehörde nach Artikel 15 zu melden.
 
-[^17-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^17-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 18
 
@@ -312,8 +316,8 @@ Die Behörde, die für die Einwohnerkontrolle in einer Gemeinde mit einem Zweitw
 
 <sup>2</sup> Im Weiteren richten sich die Zuständigkeit, das Verfahren und der Rechtsschutz unter Vorbehalt der Bestimmungen dieses Gesetzes nach dem Raumplanungsgesetz vom 22. Juni 1979[^20-2] und den dazugehörigen Ausführungsbestimmungen der Kantone.
 
-[^20-1]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
-[^20-2]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^20-1]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
+[^20-2]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 ## 7. Kapitel: Strafbestimmungen
 

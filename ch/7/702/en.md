@@ -4,11 +4,11 @@ title: "Federal Act of 20 March 2015 on Second Homes (Second Homes Act, SHA)"
 short: SHA
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/886"
 language: en
-version: 2016-01-01
+version: 2024-10-01
 adopted: 2015-03-20
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/886/20160101/en/xml/fedlex-data-admin-ch-eli-cc-2015-886-20160101-en-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/886/20160101/en"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/886/20241001/en/xml/fedlex-data-admin-ch-eli-cc-2015-886-20241001-en-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/886/20241001/en"
 ---
 
 > Unofficial reproduction of the consolidated version (Fedlex). English is not an official language of the Confederation: this translation is for information only and has no legal force. Only the publication in the Official Compilation is authoritative (Art. 15 PublA, SR 170.512).
@@ -19,7 +19,7 @@ English is not an official language of the Swiss Confederation. This translation
 
 (Second Homes Act, SHA)
 
-of 20 March 2015 (Status as of 1 January 2016)
+of 20 March 2015 (Status as of 1 October 2024)
 
 The Federal Assembly of the Swiss Confederation,
 
@@ -27,7 +27,7 @@ on the basis of Articles 75 and 75*b* of the Federal Constitution[^ingress-1], a
 
 decrees:
 
-[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [SR 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [BBl 2014 2287](https://fedlex.data.admin.ch/eli/fga/2014/409)
 
 ## Chapter 1 General Provisions
@@ -36,7 +36,7 @@ decrees:
 
 **Subject matter**
 
-This Act regulates the permissibility of building new homes together with changes to the structure and use of existing homes in communes with a proportion of second homes exceeding 20 per cent.
+This Act regulates the permissibility of building new homes and of making changes to the structure and use of existing homes in communes with a proportion of second homes exceeding 20 per cent.
 
 #### Art. 2
 
@@ -69,7 +69,7 @@ The following homes are deemed equivalent to principal homes:
 
 <sup>4</sup> In this Act, «second home» means a home that is neither a principal home nor equivalent to a principal home.
 
-[^2-1]: [SR 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
+[^2-1]: [SR 431.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6950)
 
 #### Art. 3
 
@@ -208,11 +208,15 @@ A home subject to the previous law under this Act is a home that lawfully existe
 
 <sup>1</sup> Homes subject to the previous law are not subject to any restrictions on residential use; existing or future restrictions on use under the cantonal or communal law are reserved.
 
-<sup>2</sup> Such homes may be renovated, converted or rebuilt within the limits of their pre-existing main usable area. If by doing so additional homes are created, these may be authorised without any requirement to impose a restriction on use under Article 7 paragraph 1, subject to any other requirements of federal and cantonal law.
+<sup>2</sup> Such homes may be renovated, converted, or demolished and rebuilt without any requirement to impose restrictions on use under Article 7 paragraph 1. Within building zones, the main useable area may be extended by a maximum of 30 per cent of the main usable area existing on 11 March 2012. Within these limits, additional homes and buildings may be created.[^11-1]
 
-<sup>3</sup> Homes subject to the previous law within building zones may be extended by a maximum of 30 per cent of the main usable area existing on 11 March 2012, provided no additional homes are created. Outside building zones, extensions are permitted in accordance with the regulations on building outside building zones.
+<sup>3</sup> If the extension of an existing home exceeds the area mentioned in the second sentence of paragraph 2, the extension shall be permitted provided the home is declared to be a principal home as defined in Article 7 paragraph 1 letter a or a home intended as managed tourist accommodation as defined in Article 7 paragraph 1 letter b in conjunction with Article 7 paragraph 2 letter a or b and the relevant authorisation requirements are met. The building authority shall order a corresponding restriction on use in the building permit and instruct the land registry to note the restriction on use in the land register as soon as the building permit becomes legally effective.[^11-2]
 
-<sup>4</sup> Extensions that exceed the dimensions mentioned in paragraph 3 are permitted if the home is declared to be a principal home as defined in Article 7 paragraph 1 letter a or a home intended as managed tourist accommodation as defined in Article 7 paragraph 1 letter b in conjunction with Article 7 paragraph 2 letter a or b and the relevant authorisation requirements are met. The building authority shall order a corresponding restriction on use in the building permit and instruct the land registry to note the restriction on use in the land register as soon as the building permit becomes legally effective.
+<sup>4</sup> The foregoing is subject to any other requirements of federal and cantonal law. Outside building zones, the permissibility of changes to structure and use shall be determined in accordance with the provisions of the spatial planning legislation.[^11-3]
+
+[^11-1]: Amended by No I of the FA of 15 March 2024, in force since 1 Oct. 2024 ([AS 2024 501](https://fedlex.data.admin.ch/eli/oc/2024/501); [BBl 2023 1480](https://fedlex.data.admin.ch/eli/fga/2023/1480), [2025](https://fedlex.data.admin.ch/eli/fga/2023/2025)).
+[^11-2]: Amended by No I of the FA of 15 March 2024, in force since 1 Oct. 2024 ([AS 2024 501](https://fedlex.data.admin.ch/eli/oc/2024/501); [BBl 2023 1480](https://fedlex.data.admin.ch/eli/fga/2023/1480), [2025](https://fedlex.data.admin.ch/eli/fga/2023/2025)).
+[^11-3]: Amended by No I of the FA of 15 March 2024, in force since 1 Oct. 2024 ([AS 2024 501](https://fedlex.data.admin.ch/eli/oc/2024/501); [BBl 2023 1480](https://fedlex.data.admin.ch/eli/fga/2023/1480), [2025](https://fedlex.data.admin.ch/eli/fga/2023/2025)).
 
 #### Art. 12
 
@@ -228,7 +232,7 @@ A home subject to the previous law under this Act is a home that lawfully existe
 
 **Amendment**
 
-The amendment of the following restrictions on use require a building permit:
+The amendment of the following restrictions on use requires a building permit:
 
 - a. a change in use under Article 7 paragraph 1 letter a to use as a home intended as managed tourist accommodation;
 - b. a change in use within the categories of use under Article 7 paragraph 2.
@@ -284,9 +288,9 @@ The authority responsible for the residents’ register office in a commune with
 
 <sup>3</sup> The competent authority shall take the measures required to restore the lawful position. In particular, it may rent out the home subject to compliance with the restriction on use under Article 7 paragraph 1.
 
-<sup>4</sup> If members of the competent building authorities or their employees become aware of offences in the course of their official activities, they are required to report the same immediately to the the supervisory authority in accordance with Article 15.
+<sup>4</sup> If members of the competent building authorities or their employees become aware of offences in the course of their official activities, they are required to report the same immediately to the supervisory authority in accordance with Article 15.
 
-[^17-1]: [SR 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^17-1]: [SR 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 18
 
@@ -314,8 +318,8 @@ The authority responsible for the residents’ register office in a commune with
 
 <sup>2</sup> In addition and subject to the provisions of this Act, jurisdiction, procedures and rights of appeal are governed by the Spatial Planning Act of 22 June 1979[^20-2] and the related cantonal implementing provisions.
 
-[^20-1]: [SR 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
-[^20-2]: [SR 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^20-1]: [SR 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
+[^20-2]: [SR 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 ## Chapter 7 Criminal Provisions
 
@@ -345,7 +349,7 @@ The authority responsible for the residents’ register office in a commune with
 
 **Implementing provisions**
 
-The Federal Council shall shall issue the implementing provisions unless the law declares the cantons to be responsible therefor.
+The Federal Council shall issue the implementing provisions unless the law declares the cantons to be responsible therefor.
 
 #### Art. 24
 

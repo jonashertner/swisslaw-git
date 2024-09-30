@@ -4,11 +4,11 @@ title: "Legge federale del 20 marzo 2015 sulle abitazioni secondarie (Legge sull
 short: LASec
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/886"
 language: it
-version: 2016-01-01
+version: 2024-10-01
 adopted: 2015-03-20
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/886/20160101/it/xml/fedlex-data-admin-ch-eli-cc-2015-886-20160101-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/886/20160101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/886/20241001/it/xml/fedlex-data-admin-ch-eli-cc-2015-886-20241001-it-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/886/20241001/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2015/886/20160101/it"
 
 (Legge sulle abitazioni secondarie, LASec)
 
-del 20 marzo 2015 (Stato 1° gennaio 2016)
+del 20 marzo 2015 (Stato 1° ottobre 2024)
 
 L’Assemblea federale della Confederazione Svizzera,
 
@@ -25,7 +25,7 @@ visti gli articoli 75 e 75*b* della Costituzione federale[^ingress-1]; visto il 
 
 decreta:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2014 2065](https://fedlex.data.admin.ch/eli/fga/2014/409)
 
 ## Capitolo 1: Disposizioni generali
@@ -67,7 +67,7 @@ Sono equiparate ad abitazioni primarie le abitazioni che:
 
 <sup>4</sup> Un’abitazione secondaria ai sensi della presente legge è un’abitazione che non è né primaria né equiparata a quest’ultima.
 
-[^2-1]: [RS 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
+[^2-1]: [RS 431.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6950)
 
 #### Art. 3
 
@@ -206,11 +206,15 @@ Ai sensi della presente legge, un’abitazione realizzata in virtù del diritto 
 
 <sup>1</sup> Fatte salve le limitazioni d’uso esistenti o future del diritto cantonale o comunale, il tipo di uso abitativo delle abitazioni realizzate in virtù del diritto anteriore è libero.
 
-<sup>2</sup> Queste abitazioni possono essere rinnovate, trasformate e ricostruite nei limiti della superficie utile principale preesistente. Se ne risultano abitazioni supplementari, queste possono essere autorizzate senza limitazione d’uso secondo l’articolo 7 capoverso 1. Sono fatte salve le altre condizioni previste dal diritto federale e cantonale.
+<sup>2</sup> Queste abitazioni possono essere rinnovate, trasformate nonché demolite e ricostruite senza limitazione d’uso secondo l’articolo 7 capoverso 1. All’interno delle zone edificabili la superficie utile principale può essere ampliata al massimo del 30 per cento della superficie utile principale che esisteva l’11 marzo 2012. Entro questi limiti è possibile realizzare abitazioni ed edifici supplementari.[^11-1]
 
-<sup>3</sup> Abitazioni realizzate in virtù del diritto anteriore possono essere ampliate, all’interno delle zone edificabili, al massimo del 30 per cento della superficie utile principale che esisteva l’11 marzo 2012 a condizione che non ne risultino abitazioni supplementari. Al di fuori delle zone edificabili, gli ampliamenti continuano ad essere ammessi nei limiti delle prescrizioni in materia di costruzione al di fuori delle zone edificabili.
+<sup>3</sup> L’ampliamento di un’abitazione esistente che supera i limiti previsti al capoverso 2 secondo periodo è ammesso se l’abitazione è dichiarata come abitazione primaria secondo l’articolo 7 capoverso 1 lettera a o come abitazione sfruttata a scopi turistici secondo l’articolo 7 capoverso 1 lettera b in combinato disposto con l’articolo 7 capoverso 2 lettere a o b, e se sono soddisfatte le condizioni per la relativa autorizzazione. Nelle autorizzazioni edilizie, l’autorità preposta al loro rilascio dispone la limitazione d’uso e, immediatamente dopo che l’autorizzazione edilizia è passata in giudicato, incarica l’ufficio del registro fondiario di menzionare nel registro fondiario la limitazione d’uso riguardante il fondo in questione.[^11-2]
 
-<sup>4</sup> Gli ampliamenti che superano i limiti previsti al capoverso 3 sono ammessi se le abitazioni sono dichiarate come abitazioni primarie secondo l’articolo 7 capoverso 1 lettera a o come abitazioni sfruttate a scopi turistici secondo l’articolo 7 capoverso 1 lettera b in combinato disposto con l’articolo 7 capoverso 2 lettere a o b, e se sono soddisfatte le condizioni per la relativa autorizzazione. Nelle autorizzazioni edilizie, l’autorità preposta al loro rilascio dispone la limitazione d’uso e, immediatamente dopo che l’autorizzazione edilizia è passata in giudicato, incarica l’ufficio del registro fondiario di menzionare nel registro fondiario la limitazione d’uso riguardante il fondo in questione.
+<sup>4</sup> Sono fatte salve le altre condizioni previste dal diritto federale e cantonale. Al di fuori delle zone edificabili l’ammissibilità delle modifiche edilizie e dei cambiamenti di destinazione è retta dalle disposizioni della legislazione in materia di pianificazione del territorio.[^11-3]
+
+[^11-1]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° ott. 2024 ([RU 2024 501](https://fedlex.data.admin.ch/eli/oc/2024/501); [FF 2023 1480](https://fedlex.data.admin.ch/eli/fga/2023/1480), [2025](https://fedlex.data.admin.ch/eli/fga/2023/2025)).
+[^11-2]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° ott. 2024 ([RU 2024 501](https://fedlex.data.admin.ch/eli/oc/2024/501); [FF 2023 1480](https://fedlex.data.admin.ch/eli/fga/2023/1480), [2025](https://fedlex.data.admin.ch/eli/fga/2023/2025)).
+[^11-3]: Nuovo testo giusta la cifra I della LF del 15 mar. 2024, in vigore dal 1° ott. 2024 ([RU 2024 501](https://fedlex.data.admin.ch/eli/oc/2024/501); [FF 2023 1480](https://fedlex.data.admin.ch/eli/fga/2023/1480), [2025](https://fedlex.data.admin.ch/eli/fga/2023/2025)).
 
 #### Art. 12
 
@@ -284,7 +288,7 @@ L’autorità preposta al controllo abitanti in un Comune in cui la quota di abi
 
 <sup>4</sup> I membri o i collaboratori dell’autorità edilizia competente che, nell’esercizio delle loro funzioni, vengono a conoscenza di infrazioni sono tenuti a notificarle immediatamente all’autorità di vigilanza di cui all’articolo 15.
 
-[^17-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^17-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 18
 
@@ -312,8 +316,8 @@ L’autorità preposta al controllo abitanti in un Comune in cui la quota di abi
 
 <sup>2</sup> Fatte salve le disposizioni della presente legge, la competenza, la procedura e la tutela giurisdizionale sono rette dalla legge del 22 giugno 1979[^20-2] sulla pianificazione del territorio e dalle pertinenti disposizioni d’esecuzione dei Cantoni.
 
-[^20-1]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
-[^20-2]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^20-1]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
+[^20-2]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 ## Capitolo 7: Disposizioni penali
 

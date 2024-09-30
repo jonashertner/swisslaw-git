@@ -4,22 +4,22 @@ title: Loi fédérale du 20 mars 2015 sur les résidences secondaires (LRS)
 short: LRS
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/886"
 language: fr
-version: 2016-01-01
+version: 2024-10-01
 adopted: 2015-03-20
 in_force: 2016-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/886/20160101/fr/xml/fedlex-data-admin-ch-eli-cc-2015-886-20160101-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/886/20160101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/886/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-2015-886-20241001-fr-xml-7.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/886/20241001/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
-# Loi fédérale sur les résidences secondaires∗
+# Loi fédérale sur les résidences secondaires\*
 
 (LRS)[^t-1]
 
-du 20 mars 2015 (Etat le 1<sup>er</sup> janvier 2016)
+du 20 mars 2015 (État le 1<sup>er</sup> octobre 2024)
 
-[^t-1]: ∗ Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
+[^t-1]: \* Les termes désignant des personnes s’appliquent également aux femmes et aux hommes.
 
 L’Assemblée fédérale de la Confédération suisse,
 
@@ -27,7 +27,7 @@ vu les art. 75 et 75*b* de la Constitution[^ingress-1], vu le message du Conseil
 
 arrête:
 
-[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/eli/cc/1999/404)
+[^ingress-1]: [RS 101](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/4715)
 [^ingress-2]: [FF 2014 2209](https://fedlex.data.admin.ch/eli/fga/2014/409)
 
 ## Chapitre 1 Dispositions générales
@@ -49,7 +49,7 @@ Est un logement au sens de la présente loi un ensemble de locaux qui remplit le
 - a. être propre à un usage d’habitation;
 - b. former une unité de construction;
 - c. disposer d’un accès soit depuis l’extérieur, soit depuis un espace commun à plusieurs logements à l’intérieur du bâtiment;
-- d. être équipé d’une installation de cuisine; et
+- d. être équipé d’une installation de cuisine, et
 - e. ne pas constituer un bien meuble.
 
 <sup>2</sup> Est une résidence principale au sens de la présente loi un logement occupé par une personne au moins ayant comme commune d’établissement au sens de l’art. 3, let. b, de la loi du 23 juin 2006 sur l’harmonisation de registres[^2-1] la commune dans laquelle se trouve le logement.
@@ -69,7 +69,7 @@ Est assimilé à une résidence principale un logement qui remplit l’une des c
 
 <sup>4</sup> Est une résidence secondaire au sens de la présente loi tout logement qui n’est ni une résidence principale ni un logement assimilé à une résidence principale.
 
-[^2-1]: [RS 431.02](https://fedlex.data.admin.ch/eli/cc/2006/619)
+[^2-1]: [RS 431.02](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6950)
 
 #### Art. 3
 
@@ -123,7 +123,7 @@ Est assimilé à une résidence principale un logement qui remplit l’une des c
 
 Dans les communes qui comptent une proportion de résidences secondaires supé- rieure à 20 %, de nouveaux logements ne peuvent être autorisés qu’à la condition d’être utilisés:
 
-- a. comme résidence principale ou comme logement assimilé à une résidence principale au sens de l’art. 2, al. 3; ou
+- a. comme résidence principale ou comme logement assimilé à une résidence principale au sens de l’art. 2, al. 3, ou
 - b. comme logement affecté à l’hébergement touristique.
 
 <sup>2</sup>
@@ -208,11 +208,15 @@ Au sens de la présente loi, un logement créé selon l’ancien droit est un lo
 
 <sup>1</sup> Sous réserve de restrictions d’utilisation existantes ou futures du droit cantonal ou communal, le mode d’habitation des logements créés selon l’ancien droit est libre.
 
-<sup>2</sup> De tels logements peuvent, dans les limites des surfaces utiles principales préexistantes, être rénovés, transformés et reconstruits. Lorsque des logements supplémentaires en résultent, ceux-ci peuvent être autorisés sans restriction d’utilisation selon l’art. 7, al. 1. Demeurent réservées les autres conditions du droit fédéral et du droit cantonal.
+<sup>2</sup> De tels logements peuvent être rénovés, transformés ainsi que démolis et reconstruits sans que des restrictions d’utilisation selon l’art. 7, al. 1, doivent être imposées. À l’intérieur des zones à bâtir, la surface utile principale peut être augmentée de 30 % au maximum de la surface utile principale existante au 11 mars 2012. Dans ce cadre, des logements et des bâtiments supplémentaires peuvent être créés.[^11-1]
 
-<sup>3</sup> L’agrandissement des logements créés selon l’ancien droit au sein de la zone à bâtir ne peut excéder 30 % des surfaces utiles principales qui existaient le 11 mars 2012 dans la mesure où il n’en résulte aucun logement supplémentaire. Hors de la zone à bâtir, les agrandissements restent autorisés dans les limites des prescriptions relatives à la construction hors de la zone à bâtir.
+<sup>3</sup> Lorsque l’agrandissement d’un logement existant dépasse le plafond fixé à l’al. 2, 2<sup>e</sup> phrase, il est autorisé pour autant que le logement soit déclaré en tant que résidence principale au sens de l’art. 7, al. 1, let. a, ou en tant que logement affecté à l’hébergement touristique au sens de l’art. 7, al. 1, let. b, en relation avec l’art. 7, al. 2, let. a ou b, et que les conditions d’autorisation y relatives soient remplies. L’autorité compétente pour les autorisations de construire assortit son autorisation d’une restriction d’utilisation correspondante et, immédiatement après l’entrée en force de l’autorisation de construire, ordonne à l’office du registre foncier de mentionner au registre la restriction d’utilisation relative au bien-fonds concerné.[^11-2]
 
-<sup>4</sup> Lorsque les agrandissements dépassent le plafond fixé à l’al. 3, ils sont autorisés pour autant que le logement soit déclaré en tant que résidence principale au sens de l’art. 7, al. 1, let. a, ou en tant que logement affecté à l’hébergement touristique au sens de l’art. 7, al. 1, let. b, en relation avec l’art. 7, al. 2, let. a ou b, et que les conditions d’autorisation y relatives soient remplies. L’autorité compétente pour les autorisations de construire assortit son autorisation d’une restriction d’utilisation correspondante et, immédiatement après l’entrée en force de l’autorisation de construire, ordonne à l’office du registre foncier de mentionner au registre la restriction d’utilisation relative au bien-fonds concerné.
+<sup>4</sup> Les autres conditions du droit fédéral et du droit cantonal demeurent réservées. En dehors des zones à bâtir, l’admissibilité des modifications de la construction et de l’affectation est déterminée par les dispositions de la législation sur l’aménagement du territoire.[^11-3]
+
+[^11-1]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 501](https://fedlex.data.admin.ch/eli/oc/2024/501); [FF 2023 1480](https://fedlex.data.admin.ch/eli/fga/2023/1480), [2025](https://fedlex.data.admin.ch/eli/fga/2023/2025)).
+[^11-2]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 501](https://fedlex.data.admin.ch/eli/oc/2024/501); [FF 2023 1480](https://fedlex.data.admin.ch/eli/fga/2023/1480), [2025](https://fedlex.data.admin.ch/eli/fga/2023/2025)).
+[^11-3]: Nouvelle teneur selon le ch. I de la LF du 15 mars 2024, en vigueur depuis le 1<sup>er</sup> oct. 2024 ([RO 2024 501](https://fedlex.data.admin.ch/eli/oc/2024/501); [FF 2023 1480](https://fedlex.data.admin.ch/eli/fga/2023/1480), [2025](https://fedlex.data.admin.ch/eli/fga/2023/2025)).
 
 #### Art. 12
 
@@ -220,7 +224,7 @@ Au sens de la présente loi, un logement créé selon l’ancien droit est un lo
 
 <sup>1</sup> Au besoin, les cantons et les communes prennent les mesures nécessaires pour empêcher des abus et des évolutions indésirables qui pourraient résulter d’une utilisation sans limites de logements créés selon l’ancien droit en tant que résidences secondaires.
 
-<sup>2</sup> A cette fin, les cantons peuvent limiter davantage que la présente loi la réaffectation en résidence secondaire d’un logement utilisé jusqu’ici comme résidence principale et les modifications prévues à l’art. 11, al. 2 à 4. Pour autant que les modifications de la construction et de l’utilisation ne soient pas soumises à autorisation de construire, les cantons peuvent les y soumettre.
+<sup>2</sup> À cette fin, les cantons peuvent limiter davantage que la présente loi la réaffectation en résidence secondaire d’un logement utilisé jusqu’ici comme résidence principale et les modifications prévues à l’art. 11, al. 2 à 4. Pour autant que les modifications de la construction et de l’utilisation ne soient pas soumises à autorisation de construire, les cantons peuvent les y soumettre.
 
 ### Section 2 Modification et suspension des restrictions d’utilisation
 
@@ -286,7 +290,7 @@ L’autorité chargée du contrôle des habitants dans une commune qui compte un
 
 <sup>4</sup> Lorsque des membres ou des employés des autorités compétentes en matière de constructions apprennent, en cette qualité, qu’une infraction a été commise, ils sont tenus de la dénoncer sans délai à l’autorité de surveillance au sens de l’art. 15.
 
-[^17-1]: [RS 311.0](https://fedlex.data.admin.ch/eli/cc/54/757_781_799)
+[^17-1]: [RS 311.0](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/6196)
 
 #### Art. 18
 
@@ -302,7 +306,7 @@ L’autorité chargée du contrôle des habitants dans une commune qui compte un
 
 **Contrôle des effets et proposition de mesures**
 
-<sup>1</sup> L’Office fédéral du développement territorial analyse régulièrement les effets de la présente loi, en collaboration avec le Secrétariat d’Etat à l’économie. Son analyse tient notamment compte des effets de la loi sur le développement touristique et économique des régions concernées.
+<sup>1</sup> L’Office fédéral du développement territorial analyse régulièrement les effets de la présente loi, en collaboration avec le Secrétariat d’État à l’économie. Son analyse tient notamment compte des effets de la loi sur le développement touristique et économique des régions concernées.
 
 <sup>2</sup> Les départements concernés présentent périodiquement un rapport au Conseil fédéral. Si nécessaire, ce rapport propose des mesures, notamment dans le domaine de la promotion économique. Il est élaboré pour la première fois quatre ans après l’entrée en vigueur de la présente loi.
 
@@ -314,8 +318,8 @@ L’autorité chargée du contrôle des habitants dans une commune qui compte un
 
 <sup>2</sup> Sous réserve des dispositions de la présente loi, la compétence, la procédure et les voies de droit sont régies par la loi fédérale du 22 juin 1979 sur l’aménagement du territoire[^20-2] et par les dispositions d’exécution correspondantes des cantons.
 
-[^20-1]: [RS 173.110](https://fedlex.data.admin.ch/eli/cc/2006/218)
-[^20-2]: [RS 700](https://fedlex.data.admin.ch/eli/cc/1979/1573_1573_1573)
+[^20-1]: [RS 173.110](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/5575)
+[^20-2]: [RS 700](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/8351)
 
 ## Chapitre 7 Dispositions pénales
 
@@ -381,7 +385,7 @@ Les actes mentionnés ci-après sont modifiés comme suit:
 
 Dans les communes comptant une proportion de résidences secondaires supérieure à 20 %, les logements qui sont prévus par un plan d’affectation spécial lié à un projet et destiné pour une part essentielle au moins à la construction de résidences secondaires peuvent être autorisés sans restriction d’utilisation au sens de l’art. 7, al. 1, si ce plan:
 
-- a. est entré en force avant le 11 mars 2012; et
+- a. est entré en force avant le 11 mars 2012, et
 - b. règle les éléments essentiels de l’autorisation de construire tels que l’emplacement, la disposition, les dimensions et l’aspect des constructions et des installations, ainsi que leurs mode et indice d’utilisation.
 
 <sup>2</sup> Des modifications peuvent être apportées à un plan d’affectation spécial au sens de l’al. 1, pour autant que cela n’entraîne d’augmentation ni de la proportion des logements sans restriction d’utilisation au sens de l’art. 7, al. 1, ni de la proportion des surfaces utiles principales liées à de tels logements.
