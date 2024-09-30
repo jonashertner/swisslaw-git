@@ -3,20 +3,20 @@ canton: SG
 number: "672.11"
 title: Verordnung zum Einführungsgesetz zur eidgenössischen Umweltschutzgesetzgebung
 language: de
-version: 2021-10-01
-valid_until: 2024-09-30
-version_adopted: 2021-06-29
+version: 2024-10-01
+valid_until: 2025-08-31
+version_adopted: 2024-08-27
 adopted: 2011-12-13
 in_force: 2012-01-01
 url: "https://www.gesetzessammlung.sg.ch/app/de/texts_of_law/672.11"
-pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3237/pdf_file"
+pdf: "https://www.gesetzessammlung.sg.ch/api/de/versions/3683/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons SG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung zum Einführungsgesetz zur eidgenössischen Umweltschutzgesetzgebung
 
-vom 13.12.2011 (Stand 01.10.2021)
+vom 13.12.2011 (Stand 01.10.2024)
 
 Die Regierung des Kantons St.Gallen
 
@@ -71,7 +71,7 @@ als Verordnung:[^ingress-2]
 
 **e) Amt für Natur, Jagd und Fischerei**
 
-<sup>1</sup> Das Amt für Natur, Jagd und Fischerei unterstützt und koordiniert Massnahmen zur Erfassung und Bekämpfung von verbotenen invasiven gebietsfremden Organismen nach der eidgenössischen Verordnung über den Umgang mit Organismen in der Umwelt vom 10. September 2008.[^5-1]
+<sup>1</sup> Das Amt für Natur, Jagd und Fischerei vollzieht die eidgenössische Verordnung über den Umgang mit Organismen in der Umwelt vom 10. September 2008[^5-1] im Bereich der gebietsfremden Organismen, soweit nicht besondere Vorschriften eine andere Zuständigkeit festlegen.
 
 [^5-1]: SR [814.911](https://db.clex.ch/link/Bund/814.911/de).
 
