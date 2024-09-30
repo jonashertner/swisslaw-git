@@ -4,13 +4,13 @@ number: "151.211"
 title: Règlement du Grand Conseil
 short: RGC
 language: fr
-version: 2024-04-01
-valid_until: 2024-09-30
-version_adopted: 2023-09-04
+version: 2024-10-01
+valid_until: 2025-06-30
+version_adopted: 2024-09-02
 adopted: 2013-06-04
 in_force: 2014-06-01
 url: "https://www.belex.sites.be.ch/app/fr/texts_of_law/151.211"
-pdf: "https://www.belex.sites.be.ch/api/fr/versions/3010/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/fr/versions/3062/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton BE. Seule la publication officielle du canton fait foi.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/fr/versions/3010/pdf_file"
 
 (RGC)
 
-du 04.06.2013 (état au 01.04.2024)
+du 04.06.2013 (état au 01.10.2024)
 
 Le Grand Conseil du canton de Berne,
 
@@ -119,7 +119,7 @@ arrête:
 - a les membres du Grand Conseil, du Conseil-exécutif et de la Direction de la magistrature;
 - b les membres du personnel des Services parlementaires et de la Chancellerie d’Etat dans la mesure où leur fonction l’exige;
 - c les personnes qui accompagnent les membres du Conseil-exécutif et de la Direction de la magistrature;
-- d les journalistes, sur présentation de leur carte d’accréditation.
+- d les journalistes en mesure de présenter un document permettant de les identifier.
 
 <sup>2</sup> Seules les personnes au sens de l’alinéa 1, lettres a et b ont accès à la salle du Grand Conseil pendant les séances à huis clos. Les tribunes sont évacuées et fermées et les retransmissions interrompues.
 
@@ -147,7 +147,7 @@ arrête:
 
 <sup>2</sup> L’activité des médias ne doit pas perturber les activités parlementaires.
 
-<sup>3</sup> Les journalistes accrédités ont accès à la tribune de la presse et à la Salle des pas perdus.
+<sup>3</sup> Les journalistes qui sont en mesure de présenter un document permettant de les identifier en tant que journalistes ont accès à la tribune de la presse et à la Salle des pas perdus.
 
 ### 1.5 Journal du Grand Conseil
 
@@ -605,10 +605,12 @@ arrête:
 - c examiner les objets concernant la participation du canton au processus de décision de la Confédération;
 - d examiner les rapports et les autres affaires ressortissant au Grand Conseil qui concernent les relations extérieures.
 
-<sup>4</sup> Dans leur domaine de compétence, les commissions représentent le Grand Conseil dans les organes parlementaires internationaux et intercantonaux
+<sup>4</sup> Les commissions
 
-- a qui sont chargés de prendre position sur des projets de traité international ou intercantonal ou
-- b qui ont été mis en place par des traités internationaux ou intercantonaux.
+- a délèguent, dans leur domaine de compétence, des membres du Grand Conseil dans les organes parlementaires internationaux et intercantonaux
+  - 1\. qui sont chargés de prendre position sur des projets de traité international ou intercantonal ou
+  - 2\. qui ont été mis en place par des traités internationaux ou intercantonaux;
+- b veillent à ce que la direction et la majorité des représentantes et représentants en question soient composées de membres issus des commissions spécialisées respectives.
 
 ### 3.4.3 Commissions spéciales
 
@@ -778,7 +780,13 @@ arrête:
 
 **Groupes non représentés dans les commissions**
 
-<sup>1</sup> Les groupes qui ne sont pas représentés dans une commission peuvent déléguer un de leurs membres aux séances de commissions qui traitent d’actes législatifs ou de rapports. Il peut assister au débat d’entrée en matière et au débat de principe ainsi qu’aux auditions. Il peut prendre la parole, mais n’a pas le droit de proposition ni de vote.
+<sup>1</sup> Les groupes qui ne sont pas représentés dans une commission peuvent déléguer un de leurs membres aux séances de commissions qui traitent d’actes législatifs ou de rapports. Ce membre peut prendre la parole, mais n’a pas le droit de proposition ni de vote.
+
+#### Art. 57a
+
+**Accord entre les groupes**
+
+<sup>1</sup> Les groupes conviennent, après les élections de renouvellement général du Grand Conseil, de la future alternance des partis à la présidence du Grand Conseil, et si nécessaire, de l'attribution des sièges de commission. Ils informent le Bureau de l'accord relatif à la composition de la présidence du Grand Conseil.
 
 ## 4 Haute surveillance
 
@@ -1629,7 +1637,7 @@ arrête:
 - g aux autres membres des commissions permanentes, à raison de 3000 francs par an,
 - h aux présidents et présidentes des groupes, à raison de 2500 francs par an.
 
-<sup>2</sup> Les membres qui dirigent la séance du Grand Conseil ou d’un de ses organes touchent le double du jeton de présence.
+<sup>2</sup> Les membres qui dirigent la séance du Grand Conseil, d’un de ses organes ou d'un groupe touchent le double du jeton de présence.
 
 #### Art. 127
 

@@ -4,13 +4,13 @@ number: "151.211"
 title: Geschäftsordnung des Grossen Rates
 short: GO
 language: de
-version: 2024-04-01
-valid_until: 2024-09-30
-version_adopted: 2023-09-04
+version: 2024-10-01
+valid_until: 2025-06-30
+version_adopted: 2024-09-02
 adopted: 2013-06-04
 in_force: 2014-06-01
 url: "https://www.belex.sites.be.ch/app/de/texts_of_law/151.211"
-pdf: "https://www.belex.sites.be.ch/api/de/versions/3010/pdf_file"
+pdf: "https://www.belex.sites.be.ch/api/de/versions/3062/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BE. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +19,7 @@ pdf: "https://www.belex.sites.be.ch/api/de/versions/3010/pdf_file"
 
 (GO)
 
-vom 04.06.2013 (Stand 01.04.2024)
+vom 04.06.2013 (Stand 01.10.2024)
 
 Der Grosse Rat des Kantons Bern,
 
@@ -119,7 +119,7 @@ beschliesst:
 - a Mitglieder des Grossen Rates, des Regierungsrates und der Justizleitung,
 - b Mitarbeiterinnen und Mitarbeiter der Parlamentsdienste und der Staatskanzlei, soweit es ihre Funktion erfordert,
 - c Personen, die ein Mitglied des Regierungsrates oder der Justizleitung begleiten,
-- d akkreditierte Medienschaffende, die sich entsprechend ausweisen.
+- d Medienschaffende, die sich entsprechend ausweisen können.
 
 <sup>2</sup> Bei geheimen Beratungen haben nur die Personen nach Absatz 1 Buchstabe a und b Zutritt zum Ratssaal. Die Tribünen werden geräumt und geschlossen und allfällige Übertragungen der Beratungen unterbrochen.
 
@@ -147,7 +147,7 @@ beschliesst:
 
 <sup>2</sup> Die Tätigkeit der Medienschaffenden darf den Ratsbetrieb nicht beeinträchtigen.
 
-<sup>3</sup> Die akkreditierten Medienschaffenden haben Zutritt zur Medientribüne und zur Wandelhalle.
+<sup>3</sup> Medienschaffende, die sich als solche ausweisen können, haben Zutritt zur Medientribüne und zur Wandelhalle.
 
 ### 1.5 Tagblatt
 
@@ -603,10 +603,12 @@ beschliesst:
 - c Vorberatung der Gegenstände, welche die Mitwirkung des Kantons an der Willensbildung des Bundes betreffen,
 - d Beratung von Berichten sowie weiteren Geschäften in der Zuständigkeit des Grossen Rates, welche die Aussenbeziehungen betreffen.
 
-<sup>4</sup> Die Kommissionen vertreten in ihrem Sachbereich den Grossen Rat in internationalen und interkantonalen parlamentarischen Organen, die
+<sup>4</sup> Die Kommissionen
 
-- a beauftragt sind, zu Verhandlungen über internationale oder interkantonale Verträge Stellung zu nehmen, oder
-- b aufgrund internationaler oder interkantonaler Verträge eingesetzt worden sind.
+- a delegieren in ihrem Sachbereich Mitglieder des Grossen Rates in internationale und interkantonale parlamentarische Organe, die
+  - 1\. beauftragt sind, zu Verhandlungen über internationale oder interkantonale Verträge Stellung zu nehmen, oder
+  - 2\. aufgrund internationaler oder interkantonaler Verträge eingesetzt worden sind,
+- b stellen sicher, dass die Leitung sowie die Mehrheit dieser Vertretung aus Mitgliedern der jeweiligen Sachbereichskommission bestehen.
 
 ### 3.4.3 Besondere Kommissionen
 
@@ -776,7 +778,13 @@ beschliesst:
 
 **Fraktionen ohne Sitzanspruch**
 
-<sup>1</sup> Fraktionen, die in einer Kommission nicht vertreten sind, können ein Mitglied bestimmen, das an den Kommissionssitzungen zu Erlassen und Berichten bei Eintretens- und Grundsatzdebatten sowie bei Anhörungen teilnehmen kann. Dieses Mitglied kann sich äussern, hat aber weder Antrags- noch Stimmrecht.
+<sup>1</sup> Fraktionen, die in einer Kommission nicht vertreten sind, können ein Mitglied bestimmen, das an den Kommissionssitzungen zu Erlassen und Berichten teilnehmen kann. Dieses Mitglied kann sich äussern, hat aber weder Antrags- noch Stimmrecht.
+
+#### Art. 57a
+
+**Absprache unter den Fraktionen**
+
+<sup>1</sup> Die Fraktionen sprechen sich nach den Gesamterneuerungswahlen des Grossen Rates über die künftige Abfolge für die Besetzung des Grossratspräsidiums sowie nötigenfalls auch für die Besetzung der Kommissionssitze ab. Sie teilen das Resultat zur Besetzung des Grossratspräsidiums dem Büro mit.
 
 ## 4 Oberaufsicht
 
@@ -1627,7 +1635,7 @@ beschliesst:
 - g die übrigen Mitglieder ständiger Kommissionen 3 000 Franken,
 - h die Präsidentinnen und Präsidenten der Fraktionen 2 500 Franken,
 
-<sup>2</sup> Doppeltes Sitzungsgeld erhält, wer die Sitzung des Grossen Rates oder eines Ratsorgans leitet.
+<sup>2</sup> Doppeltes Sitzungsgeld erhält, wer die Sitzung des Grossen Rates, eines Ratsorgans oder einer Fraktion leitet.
 
 #### Art. 127
 
