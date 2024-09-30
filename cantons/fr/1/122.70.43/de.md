@@ -1,139 +1,166 @@
 ---
 canton: FR
 number: "122.70.43"
-title: Beschluss über die Anstellung invalider Personen
+title: Verordnung über die Wiedereingliederung von Menschen mit gesundheitlichen Einschränkungen
 short: WEV
 language: de
-version: 2003-01-01
-valid_until: 2024-09-30
+version: 2024-10-01
+version_adopted: 2024-09-24
 adopted: 2024-09-24
 in_force: 2024-10-01
 url: "https://bdlf.fr.ch/app/de/texts_of_law/122.70.43"
-pdf: "https://bdlf.fr.ch/api/de/versions/5025/pdf_file"
+pdf: "https://bdlf.fr.ch/api/de/versions/8299/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons FR. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Beschluss über die Anstellung invalider Personen
+# Verordnung über die Wiedereingliederung von Menschen mit gesundheitlichen Einschränkungen
 
-Anstellung invalider Personen – B
+Wiedereingliederung von Menschen mit gesundheitlichen Einschränkungen – V
 
-vom 25.02.1992 (Fassung in Kraft getreten am 01.01.2003)
+(WEV)
+
+vom 24.09.2024 (Fassung in Kraft getreten am 01.10.2024)
 
 Der Staatsrat des Kantons Freiburg
 
-gestützt auf den Artikel 4 Bst. h des Gesetzes vom 17. Oktober 2001 über das Staatspersonal (StPG);
+gestützt auf Artikel 4 Abs. 1 Bst. h und i des Gesetzes vom 17. Oktober 2001 über das Staatspersonal (StPG);
 
-in Erwägung:
+gestützt auf das Reglement vom 17. Dezember 2002 über das Staatspersonal (StPR);
 
-Die berufliche Wiedereingliederung von Invaliden, vor allem der ehemaligen Mitarbeiter des Staates, die invalid geworden sind, soll gefördert werden.
+gestützt auf die Verordnung vom 18. Dezember 2018 über die Beratungsstelle Espace Gesundheit-Soziales;
 
-Auf Antrag der Finanzdirektion,
+auf Antrag der Finanzdirektion,
 
 beschliesst:
 
 #### Art. 1
 
-**Geltungsbereich – Im Allgemeinen**
+**Zweck**
 
-<sup>1</sup> Dieser Beschluss gilt für die Anstellung von:
+<sup>1</sup> Diese Verordnung bezweckt:
 
-- a) ehemaligen Mitarbeitern, die invalid geworden sind,
-- b) anderen invaliden Personen.
+- a) die Förderung der Weiterbeschäftigung von Mitarbeiterinnen und Mitarbeitern des Staates Freiburg mit gesundheitlichen Einschränkungen;
+- b) die Wahrung der Anspruchsberechtigung auf Leistungen der Sozialversicherungen oder des Zugangs zum Sozialleistungsangebot des Arbeitgebers Staat;
+- c) das Angebot einer sozialen und beruflichen Eingliederung oder Wiedereingliederung;
+- d) die Unterstützung bestehender Eingliederungs- und Wiedereingliederungsprojekte;
+- e) die Intervention in Sonderfällen, in denen das schweizerische Sozialversicherungssystem nicht greift.
 
 #### Art. 2
 
-**Geltungsbereich – Ehemalige Mitarbeiter, die invalid geworden sind**
+**Geltungsbereich**
 
-<sup>1</sup> Der ehemalige Mitarbeiter, der invalid geworden ist, kann gemäss diesem Beschluss angestellt werden, wenn:
+<sup>1</sup> Diese Verordnung gilt in erster Linie für Mitarbeitende des Staates Freiburg, die während einer Erwerbstätigkeit im Dienst des Staates im Sinne von Artikel 2 StPG[^2-1] von dauerhaften gesundheitlichen Einschränkungen betroffen werden.
 
-- a) …
-- b) er im Zeitpunkt, da er invalid wurde, im Dienst des Staates stand,
-- c) seine Invalidität von der Pensionskasse des Staatspersonals anerkannt wird, und
-- d) eine berufliche Wiedereingliederung beim Staat vom Vertrauensarzt des Staates günstig beurteilt wird.
+<sup>2</sup> Sind ausreichende finanzielle Mittel vorhanden, so gilt sie auch für Personen, die eine Umschulung beim Staat Freiburg absolviert haben und für die es ein konkretes Projekt zur Eingliederung in Zusammenarbeit mit einer Anstellungsbehörde des Staates gibt.
 
-<sup>2</sup> Es muss ihm jedoch eine seinen Fähigkeiten entsprechende Arbeit angeboten werden können.
+[^2-1]: SGF [122.70.1](https://bdlf.fr.ch/data/122.70.1/de)
 
 #### Art. 3
 
-**Geltungsbereich – Andere invalide Personen**
+**Begriffe**
 
-<sup>1</sup> Gemäss diesem Beschluss können andere invalide Personen angestellt werden, wenn:
+<sup>1</sup> Unter Wiedereingliederung ist die Rückkehr einer Person an ihren bisherigen oder einen anderen angepassten Arbeitsplatz nach längerer Arbeitsunfähigkeit oder einer Arbeitsunfähigkeit aufgrund einer gesundheitlichen Einschränkung zu verstehen.
 
-- a) die Person im Sinne der eidgenössischen Invalidenversicherung (IV) invalid ist,
-- b) die Person sich gemäss Anordnung der Kantonalen Invalidenversicherungs-Stelle (die IV-Stelle) umschulen liess, und
-- c) die Umschulung erfolgreich verlaufen ist und die IV-Stelle eine Tätigkeit beim Staat günstig beurteilt.
+<sup>2</sup> Gesundheit ist ein Zustand des vollständigen körperlichen, geistigen und sozialen Wohlbefindens, und nicht nur das Fehlen von Krankheit oder Gebrechen. Das Zusammenspiel biologischer, psychologischer und sozialer Faktoren spielt sowohl bei der Erhaltung als auch bei der Beeinträchtigung der Gesundheit eine Rolle.
 
-<sup>2</sup> Es muss ihr jedoch eine ihren Fähigkeiten entsprechende Arbeit angeboten werden können.
+<sup>3</sup> Schwierigkeiten bei der beruflichen Eingliederung oder Wiedereingliederung sind Situationen, in denen die Beschäftigungsfähigkeit einer Person, das heisst ihre Fähigkeit, einen Arbeitsplatz zu finden und zu behalten, beruflich weiterzukommen und sich während des gesamten Arbeitslebens auf Veränderungen einzustellen, problematisch ist.
 
 #### Art. 4
 
-**Anstellungsverfahren – Stellengesuch**
+**Meldung**
 
-<sup>1</sup> Der Invalide oder die IV-Stelle reicht das Stellengesuch beim Amt für Personal und Organisation (das Amt) ein.
+<sup>1</sup> Alle Mitarbeitenden mit gesundheitlichen Einschränkungen können sich gemäss der Verordnung über die Beratungsstelle Espace Gesundheit-Soziales bei der Beratungsstelle Espace Gesundheit-Soziales (CESS)[^4-1] melden und einen Anstellungsantrag stellen.
 
-<sup>2</sup> Sind die in den Artikeln 2 Abs. 1 oder 3 Abs. 1 gestellten Bedingungen erfüllt, so leitet das Amt das Gesuch an die Direktionen und Anstalten weiter, die eine den Fähigkeiten des Invaliden entsprechende Arbeit anbieten könnten.
+<sup>2</sup> Jede Anstellungsbehörde, die bereit ist, Mitarbeitende mit gesundheitlichen Einschränkungen zur Wiedereingliederung anzustellen oder die den Anstellungsantrag einer Person, die in ihrer Einheit eine Umschulung absolviert, unterstützen möchten, kann sich bei der CESS melden.
 
-<sup>3</sup> Die Direktionen und Anstalten prüfen das Gesuch. Können sie keine den Fähigkeiten des Invaliden entsprechende Beschäftigung anbieten, so senden sie das Gesuch mit einer kurzen Erklärung an das Amt zurück.
-
-<sup>4</sup> Wird ein Gesuch abgelehnt, so setzt das Amt den Invaliden oder die IV-Stelle davon in Kenntnis.
+[^4-1]: SGF [122.70.15](https://bdlf.fr.ch/data/122.70.15/de)
 
 #### Art. 5
 
-**Anstellungsverfahren – Anstellungsvertrag**
+**Anstellungsantrag**
 
-<sup>1</sup> Die Anstellung erfolgt durch Verfügung der Direktion oder der Anstalt, die den Invaliden beschäftigen wird, und im Einvernehmen mit der Finanzdirektion. Das Amt erklärt sein Einverständnis.
+<sup>1</sup> Der Anstellungsantrag kann von der Person mit einer gesundheitlichen Einschränkung selbst und/oder von einer Anstellungsbehörde bei der CESS eingereicht werden.
+
+<sup>2</sup> Der Anstellungsantrag ist Bestandteil des bei der CESS angelegten Dossiers. Er umfasst ein Bewerbungsdossier der Person mit einer gesundheitlichen Einschränkung mit:
+
+- a) Lebenslauf;
+- b) Motivationsschreiben;
+- c) ärztlichem Gutachten mit den Möglichkeiten und Einschränkungen;
+- d) Bestandsaufnahme der bis zum Zeitpunkt der Beantragung unternommenen Schritte zur Wiedereingliederung;
+- e) Unterstützung des Wiedereingliederungsprojekts durch eine Anstellungsbehörde.
 
 #### Art. 6
 
-**Dienstverhältnis des Mitarbeiters – Im Allgemeinen**
+**Anstellungsentscheid**
 
-<sup>1</sup> Der invalide Mitarbeiter untersteht dem Gesetz über das Staatspersonal (StPG) und dem Reglement über das Staatspersonal (StPR).
+<sup>1</sup> Die CESS prüft vorab jeden einzelnen Antrag darauf hin, ob die Voraussetzungen nach dieser Verordnung eingehalten werden und ob er begründet ist. Dabei trägt sie insbesondere folgenden Punkten Rechnung:
 
-<sup>2</sup> Die Stelle eines invaliden Mitarbeiters im Sinne dieses Beschlusses zählt nicht zum Personalbestand des Staates.
+- a) Zugehörigkeit der Person zur Zielgruppe;
+- b) Budgetmittel für die Lohnkostenfinanzierung;
+- c) Gesundheitszustand der Person;
+- d) mögliche Arbeitsplatzanpassung an die Möglichkeiten der Person;
+- e) Beschäftigungsfähigkeit der Person;
+- f) familiäre, psychosoziale und finanzielle Situation der Person.
+
+<sup>2</sup> Anschliessend leitet die CESS den Finanzierungsantrag an die Vorsteherin oder den Vorsteher des Amts für Personal und Organisation (POA) weiter.
+
+<sup>3</sup> Die Finanzierung muss von der Vorsteherin oder vom Vorsteher des POA validiert werden.
+
+<sup>4</sup> Die CESS informiert die Person mit einer gesundheitlichen Einschränkung und/oder die antragstellende Anstellungsbehörde über die Genehmigung oder Ablehnung eines Antrags oder über das Fehlen der nötigen finanziellen Mittel.
 
 #### Art. 7
 
-**Dienstverhältnis des Mitarbeiters – Dauer und Verlängerung**
+**Fallverfolgung**
 
-<sup>1</sup> Die Dauer der Anstellung kann höchstens auf zwei Jahre festgesetzt werden. Ist jedoch nach Ablauf dieser Zeit eine dauerhafte Ausübung der Tätigkeit zu befürworten, so wird der Vertrag auf unbestimmte Zeit verlängert. In diesem Fall ist das in Artikel 5 vorgesehene Verfahren anwendbar.
+<sup>1</sup> Für jeden Anstellungsantrag wird ein elektronisches Dossier gemäss den Artikeln 12-16 der Verordnung über die CESS[^7-1] angelegt.
 
-<sup>2</sup> …
+<sup>2</sup> Die CESS zieht mindestens einmal pro Jahr Bilanz über die Wiedereingliederungsziele für jeden laufenden Fall.
+
+[^7-1]: SGF [122.70.15](https://bdlf.fr.ch/data/122.70.15/de)
 
 #### Art. 8
 
-**Dienstverhältnis des Mitarbeiters – Tätigkeitsgrad und Besoldung**
+**Anstellungsvertrag**
 
-<sup>1</sup> Der Tätigkeitsgrad wird unter Berücksichtigung des Invaliditätsgrades des Mitarbeiters und der mutmasslichen Leistungsfähigkeit festgesetzt. Nach der Anstellung kann er nach Massgabe der effektiven Leistungsfähigkeit abgeändert werden. Entspricht die geleistete Arbeitszeit nicht dem Tätigkeitsgrad, so kann sie angepasst werden.
+<sup>1</sup> Der Anstellungsvertrag wird von der Anstellungsbehörde ausgestellt. Die Finanzierungsquelle (Wiedereingliederungskredit) wird darin ausdrücklich angegeben.
 
-<sup>2</sup> Die Besoldung wird unter Berücksichtigung der Besonderheiten der Funktion des Mitarbeiters und seines Tätigkeitsgrades festgesetzt. Dabei dienen die Gehaltsskala sowie die Einreihung der Funktionen des Staatspersonals als Vergleichsgrundlage. Es kann jedoch ein fester Betrag vorgesehen werden.
+<sup>2</sup> Die Mitarbeitenden mit gesundheitlichen Einschränkungen sind der Gesetzgebung über das Staatspersonal unterstellt.
+
+<sup>3</sup> Die Entlöhnung richtet sich nach der Lohnskala und der Funktionseinreihung des Staatspersonals; das POA muss dazu Stellung nehmen.
+
+<sup>4</sup> In Ausnahmefällen kann der Lohn als fester Betrag oder Stundenlohn ausgezahlt werden.
+
+<sup>5</sup> Grundsätzlich wird der Beschäftigungsgrad unter Berücksichtigung des Invaliditätsgrades der Mitarbeiterin oder des Mitarbeiters, ihrer oder seiner Arbeitsfähigkeit und -einschränkungen sowie der Möglichkeiten der Anstellungsbehörde festgelegt.
 
 #### Art. 9
 
-**Finanzierung**
+**Anstellungsdauer**
 
-<sup>1</sup> Die Finanzierung der Anstellung von invaliden Mitarbeitern wird durch zwei jährliche, im ordentlichen Voranschlag der Finanzdirektion einzustellende Pauschalbeträge gewährleistet.
+<sup>1</sup> Mitarbeitende mit gesundheitlichen Einschränkungen werden mit einem befristeten Arbeitsvertrag angestellt.
+
+<sup>2</sup> Die Anstellungsbehörde verpflichtet sich, so weit wie möglich die natürliche Personalfluktuation, die Umwandlung oder die Schaffung von Stellen zu nutzen, um die nach Absatz 1 angestellte Person nach Ablauf ihres Vertrags im Stellenetat der Verwaltungseinheit anzustellen.
+
+<sup>3</sup> Eine nach Absatz 1 angestellte Person kann vor Ablauf des befristeten Arbeitsverhältnisses, grundsätzlich mit einer Frist von einem Monat zum Monatsende, freigestellt werden, wenn sie ein neues, unbefristetes Arbeitsverhältnis erhält.
 
 #### Art. 10
 
-**Übergangsbestimmung**
+**Finanzierung**
 
-<sup>1</sup> Die Finanzierung der Gehälter der invaliden Mitarbeiter, die bereits im Staatsdienst tätig sind, wird weiterhin von den Kostenstellen der betreffenden Direktionen und Anstalten übernommen.
+<sup>1</sup> Die Finanzierung der Anstellung von Mitarbeitenden mit einer gesundheitlichen Einschränkung erfolgt über einen jährlichen Kredit, der im ordentlichen Voranschlag eingestellt wird.
 
-<sup>2</sup> …
+<sup>2</sup> Die Lohnkosten für die Anstellung einer Mitarbeiterin oder eines Mitarbeiters mit einer gesundheitlichen Einschränkung werden in den Konten der betroffenen Verwaltungseinheit oder Anstalt verbucht.
+
+<sup>3</sup> Eine Stelle, die von einer Person mit einer gesundheitlichen Einschränkung im Sinne dieser Verordnung besetzt wird, zählt nicht zum Stellenetat des Staatspersonals.
+
+<sup>4</sup> Ist der entsprechende Kredit ausgeschöpft, so haben die Mitarbeitenden des Staates im Sinne der Artikel 2 und 3 StPG[^10-1] Vorrang vor allen anderen Personen im Sinne von Artikel 2 Abs. 2 dieser Verordnung.
+
+[^10-1]: SGF [122.70.1](https://bdlf.fr.ch/data/122.70.1/de)
 
 #### Art. 11
 
-**Aufhebung bisherigen Rechts**
+**Übergangsbestimmung**
 
-<sup>1</sup> Der Beschluss vom 3. April 1984 über die Bedingungen und das Verfahren für die Wiedereingliederung invalider Beamter wird aufgehoben.
+<sup>1</sup> Für die Mitarbeitenden, deren Lohn zum Zeitpunkt des Inkrafttretens dieser Verordnung in Anwendung des Beschlusses vom 25. Februar 1992 über die Anstellung invalider Personen finanziert wird, ändert sich nichts an den Anstellungsbedingungen bis zum Ende ihres Anstellungsverhältnisses.
 
-#### Art. 12
-
-**Inkrafttreten**
-
-<sup>1</sup> Dieser Beschluss tritt am 1. März 1992 in Kraft.
-
-<sup>2</sup> Er ist im Amtsblatt zu veröffentlichen, in die Amtliche Gesetzessammlung aufzunehmen und im Sonderdruck herauszugeben.
-
-BL/AGS 1992 f 110 / d 114
+2024\_065
