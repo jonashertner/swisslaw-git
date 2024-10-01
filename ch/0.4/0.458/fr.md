@@ -3,11 +3,11 @@ sr: "0.458"
 title: "Convention européenne du 10 mai 1979 sur la protection des animaux d'abattage"
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/982_982_982"
 language: fr
-version: 2012-08-09
+version: 2024-10-02
 adopted: 1979-05-10
 in_force: 1994-05-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/982_982_982/20120809/fr/xml/fedlex-data-admin-ch-eli-cc-1994-982_982_982-20120809-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/982_982_982/20120809/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/982_982_982/20241002/fr/xml/fedlex-data-admin-ch-eli-cc-1994-982_982_982-20241002-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/982_982_982/20241002/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,19 +18,19 @@ RO **1994** 982; FF **1992** V 953
 
 Conclue à Strasbourg le 10 mai 1979 Approuvée par l’Assemblée fédérale le 17 juin 1993[^t-1] Instrument de ratification déposé par la Suisse le 3 novembre 1993 Entrée en vigueur pour la Suisse le 4 mai 1994
 
-(Etat le 9 août 2012)
+(État le 2 octobre 2024)
 
 [^t-1]: Art. 1<sup>er</sup> al. 1 let. a de l’AF du 17 juin 1993 ([RO 1994 918](https://fedlex.data.admin.ch/eli/oc/1994/918_918_918)).
 
-Les Etats membres du Conseil de l’Europe, signataires de la présente Convention,
+Les États membres du Conseil de l’Europe, signataires de la présente Convention,
 
-Considérant qu’il est opportun d’assurer la protection des animaux destinés à l’abattage;
+considérant qu’il est opportun d’assurer la protection des animaux destinés à l’abattage,
 
-Considérant que les méthodes d’abattage épargnant aux animaux des souffrances et des douleurs dans la mesure du possible doivent être d’application uniforme dans leurs pays;
+considérant que les méthodes d’abattage épargnant aux animaux des souffrances et des douleurs dans la mesure du possible doivent être d’application uniforme dans leurs pays,
 
-Considérant que la crainte, l’angoisse, les douleurs et les souffrances d’un animal lors de l’abattage risquent d’influencer la qualité de la viande,
+considérant que la crainte, l’angoisse, les douleurs et les souffrances d’un animal lors de l’abattage risquent d’influencer la qualité de la viande,
 
-Sont convenus de ce qui suit:
+sont convenus de ce qui suit:
 
 ## Chapitre I Principes généraux
 
@@ -48,7 +48,7 @@ Sont convenus de ce qui suit:
 
 *Immobilisation:* L’application à un animal de tout procédé conforme aux dispositions de la présente Convention pour limiter ses mouvements en vue de faciliter l’étourdissement ou l’abattage;
 
-*Etourdissement:* Tout procédé conforme aux dispositions de la présente Convention qui, lorsqu’il est appliqué à un animal, le plonge dans un état d’inconscience où il est maintenu jusqu’à l’intervention de la mort. Lors de l’étourdissement, il faut exclure en tout état de cause toute souffrance évitable aux animaux;
+*Étourdissement:* Tout procédé conforme aux dispositions de la présente Convention qui, lorsqu’il est appliqué à un animal, le plonge dans un état d’inconscience où il est maintenu jusqu’à l’intervention de la mort. Lors de l’étourdissement, il faut exclure en tout état de cause toute souffrance évitable aux animaux;
 
 *Abattage*: Le fait de mettre à mort un animal après immobilisation, étourdissement et saignée, sauf exceptions prévues au Chapitre III de la présente Convention.
 
@@ -70,7 +70,7 @@ Sont convenus de ce qui suit:
 
 <sup>2.</sup> Le personnel commis à l’acheminement et à l’hébergement des animaux doit avoir les connaissances et capacités requises et respecter les exigences énoncées dans la présente Convention.
 
-## Section I Acheminement des animaux dans l’enceinte des abattoirs
+### Section I Acheminement des animaux dans l’enceinte des abattoirs
 
 #### Art. 4
 
@@ -98,7 +98,7 @@ Sont convenus de ce qui suit:
 
 <sup>2.</sup> Si les animaux ne sont pas abattus immédiatement après leur arrivée, ils doivent être hébergés.
 
-## Section II Hébergement des animaux
+### Section II Hébergement des animaux
 
 #### Art. 7
 
@@ -118,13 +118,13 @@ Sont convenus de ce qui suit:
 
 <sup>8.</sup> Lorsque les conditions climatiques l’exigent (par exemple forte humidité, basses températures), les animaux doivent être mis en stabulation. Les étables doivent être aérées. Pendant l’affouragement, les étables doivent être suffisamment éclairées.
 
-## Section III Soins aux animaux
+### Section III Soins aux animaux
 
 #### Art. 8
 
 <sup>1.</sup> De l’eau doit être mise à la disposition des animaux, à moins qu’ils ne soient conduits dans les locaux d’abattage aussitôt que possible.
 
-<sup>2.</sup> A l’exception de ceux qui seront abattus dans les douze heures qui suivent leur arrivée, les animaux doivent être modérément affouragés et abreuvés à intervalles appropriés.
+<sup>2.</sup> À l’exception de ceux qui seront abattus dans les douze heures qui suivent leur arrivée, les animaux doivent être modérément affouragés et abreuvés à intervalles appropriés.
 
 <sup>3.</sup> Si les animaux ne sont pas à l’attache, ils doivent disposer de mangeoires leur permettant de s’alimenter sans perturbation.
 
@@ -134,7 +134,7 @@ Sont convenus de ce qui suit:
 
 <sup>2.</sup> Les animaux malades, affaiblis ou blessés doivent être immédiatement abattus. Si l’abattage immédiat n’est pas possible, ils doivent être séparés en vue d’être abattus.
 
-## Section IV Autres dispositions
+### Section IV Autres dispositions
 
 #### Art. 10
 
@@ -205,23 +205,23 @@ Chaque Partie Contractante qui autorise les abattages selon des rites religieux 
 
 #### Art. 20
 
-<sup>1.</sup> La présente Convention est ouverte à la signature des Etats membres du Conseil de l’Europe ainsi qu’à celle de la Communauté Economique Européenne. Elle sera ratifiée, acceptée ou approuvée. Les instruments de ratification, d’acceptation ou d’approbation seront déposés près le Secrétaire Général du Conseil de l’Europe.
+<sup>1.</sup> La présente Convention est ouverte à la signature des États membres du Conseil de l’Europe ainsi qu’à celle de la Communauté Économique Européenne. Elle sera ratifiée, acceptée ou approuvée. Les instruments de ratification, d’acceptation ou d’approbation seront déposés près le Secrétaire Général du Conseil de l’Europe.
 
-<sup>2.</sup> La présente Convention entrera en vigueur six mois après la date du dépôt du quatrième instrument de ratification, d’acceptation ou d’approbation d’un Etat membre du Conseil de l’Europe.
+<sup>2.</sup> La présente Convention entrera en vigueur six mois après la date du dépôt du quatrième instrument de ratification, d’acceptation ou d’approbation d’un État membre du Conseil de l’Europe.
 
 <sup>3.</sup> Elle entrera en vigueur à l’égard de toute Partie signataire qui la ratifiera, l’acceptera ou l’approuvera après la date visée au par. 2 du présent article, six mois après la date du dépôt de son instrument de ratification, d’acceptation ou d’approbation.
 
 #### Art. 21
 
-<sup>1.</sup> Après l’entrée en vigueur de la présente Convention, le Comité des Ministres du Conseil de l’Europe pourra inviter, selon les modalités qu’il jugera opportunes, tout Etat non membre du Conseil de l’Europe à adhérer à la présente Convention.
+<sup>1.</sup> Après l’entrée en vigueur de la présente Convention, le Comité des Ministres du Conseil de l’Europe pourra inviter, selon les modalités qu’il jugera opportunes, tout État non membre du Conseil de l’Europe à adhérer à la présente Convention.
 
 <sup>2.</sup> L’adhésion s’effectuera par le dépôt, près le Secrétaire Général du Conseil de l’Europe, d’un instrument d’adhésion qui prendra effet six mois après la date de son dépôt.
 
 #### Art. 22
 
-<sup>1.</sup> Tout Etat peut, au moment de la signature ou au moment du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, désigner le ou les territoires auxquels s’appliquera la présente Convention.
+<sup>1.</sup> Tout État peut, au moment de la signature ou au moment du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, désigner le ou les territoires auxquels s’appliquera la présente Convention.
 
-<sup>2.</sup> Tout Etat peut, au moment du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, ou à tout autre moment par la suite, étendre l’application de la présente Convention, par déclaration adressée au Secrétaire Général du Conseil de l’Europe, à tout autre territoire désigné dans la déclaration et dont il assure les relations internationales ou pour lequel il est habilité à stipuler.
+<sup>2.</sup> Tout État peut, au moment du dépôt de son instrument de ratification, d’acceptation, d’approbation ou d’adhésion, ou à tout autre moment par la suite, étendre l’application de la présente Convention, par déclaration adressée au Secrétaire Général du Conseil de l’Europe, à tout autre territoire désigné dans la déclaration et dont il assure les relations internationales ou pour lequel il est habilité à stipuler.
 
 <sup>3.</sup> Toute déclaration faite en vertu du paragraphe précédent pourra être retirée, en ce qui concerne tout territoire désigné dans cette déclaration, par notification adressée au Secrétaire Général. Le retrait prendra effet six mois après la date de réception de la notification par le Secrétaire Général.
 
@@ -233,7 +233,7 @@ Chaque Partie Contractante qui autorise les abattages selon des rites religieux 
 
 #### Art. 24
 
-Le Secrétaire Général du Conseil de l’Europe notifiera aux Etats membres du Conseil et à toute Partie Contractante non membre du Conseil:
+Le Secrétaire Général du Conseil de l’Europe notifiera aux États membres du Conseil et à toute Partie Contractante non membre du Conseil:
 
 - a. toute signature;
 - b. le dépôt de tout instrument de ratification, d’acceptation, d’approbation ou d’adhésion;
@@ -244,41 +244,41 @@ Le Secrétaire Général du Conseil de l’Europe notifiera aux Etats membres du
 
 *En foi de quoi*, les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Strasbourg, le 10 mai 1979, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacune des Parties signataires et adhérentes. (Suivent les signatures)
 
-Champ d’application le 9 août 2012**[^t-2]**
+Champ d’application le 2 octobre 2024[^t-2]
 
 <table>
-<tr><th colspan="2">Etats parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
-<tr><td colspan="2">Allemagne</td><td>24 février</td><td>1984</td><td>25 août</td><td>1984</td></tr>
-<tr><td colspan="2">Bosnie et Herzégovine</td><td>29 décembre</td><td>1994 A</td><td>30 juin</td><td>1995</td></tr>
-<tr><td colspan="2">Bulgarie</td><td>20 juillet</td><td>2004</td><td>21 janvier</td><td>2005</td></tr>
-<tr><td colspan="2">Chypre</td><td>23 juin</td><td>2005</td><td>24 décembre</td><td>2005</td></tr>
-<tr><td colspan="2">Croatie</td><td>14 septembre</td><td>1994 A</td><td>15 mars</td><td>1995</td></tr>
-<tr><td colspan="2">Danemark</td><td>23 février</td><td>1981</td><td>11 juin</td><td>1982</td></tr>
-<tr><td colspan="2">Finlande</td><td>2 décembre</td><td>1991</td><td>3 juin</td><td>1992</td></tr>
-<tr><td colspan="2">Estonie</td><td>16 mai</td><td>2008</td><td>17 novembre</td><td>2008</td></tr>
-<tr><td colspan="2">Grèce</td><td>12 novembre</td><td>1984</td><td>13 mai</td><td>1985</td></tr>
-<tr><td colspan="2">Irlande</td><td>10 décembre</td><td>1981</td><td>11 juin</td><td>1982</td></tr>
-<tr><td colspan="2">Italie</td><td>7 février</td><td>1986</td><td>8 août</td><td>1986</td></tr>
-<tr><td colspan="2">Lettonie</td><td>6 mars</td><td>2008</td><td>7 septembre</td><td>2008</td></tr>
-<tr><td colspan="2">Lituanie</td><td>2 mars</td><td>2004</td><td>3 septembre</td><td>2004</td></tr>
-<tr><td colspan="2">Luxembourg</td><td>24 juillet</td><td>1980</td><td>11 juin</td><td>1982</td></tr>
-<tr><td colspan="2">Macédoine</td><td>30 mars</td><td>1994 A</td><td>1<sup>er</sup> octobre</td><td>1994</td></tr>
-<tr><td colspan="2">Monténégro</td><td>6 juin</td><td>2006 S</td><td>6 juin</td><td>2006</td></tr>
-<tr><td colspan="2">Norvège</td><td>12 mai</td><td>1982</td><td>13 novembre</td><td>1982</td></tr>
-<tr><td colspan="2">Pays-Bas</td><td>27 juin</td><td>1986</td><td>28 décembre</td><td>1986</td></tr>
-<tr><td colspan="2">[tab] Antilles néerlandaises</td><td>27 juin</td><td>1986</td><td>28 décembre</td><td>1986</td></tr>
-<tr><td colspan="2">Aruba</td><td>27 juin</td><td>1986</td><td>28 décembre</td><td>1986</td></tr>
-<tr><td colspan="2">Curaçao</td><td>27 juin</td><td>1986</td><td>28 décembre</td><td>1986</td></tr>
-<tr><td colspan="2">Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>27 juin</td><td>1986</td><td>28 décembre</td><td>1986</td></tr>
-<tr><td colspan="2">Sint Maarten</td><td>27 juin</td><td>1986</td><td>28 décembre</td><td>1986</td></tr>
-<tr><td colspan="2">Pologne</td><td>3 avril</td><td>2008</td><td>4 octobre</td><td>2008</td></tr>
-<tr><td colspan="2">Portugal</td><td>3 novembre</td><td>1981</td><td>11 juin</td><td>1982</td></tr>
-<tr><td colspan="2">République tchèque</td><td>20 mars</td><td>2003</td><td>21 septembre</td><td>2003</td></tr>
-<tr><td colspan="2">Serbie</td><td>28 février</td><td>2001 A</td><td>29 août</td><td>2001</td></tr>
-<tr><td colspan="2">Slovénie</td><td>20 octobre</td><td>1992 A</td><td>21 avril</td><td>1993</td></tr>
-<tr><td colspan="2">Suède</td><td>26 février</td><td>1982</td><td>27 août</td><td>1982</td></tr>
-<tr><td colspan="2">Suisse</td><td>3 novembre</td><td>1993</td><td>4 mai</td><td>1994</td></tr>
-<tr><td><sup>a</sup></td><td colspan="5">[tab] La convention n’est pas applicable au Groenland ni aux Iles Féroé.</td></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Allemagne</td><td>24 février</td><td>1984</td><td>25 août</td><td>1984</td></tr>
+<tr><td>Bosnie et Herzégovine</td><td>29 décembre</td><td>1994 A</td><td>30 juin</td><td>1995</td></tr>
+<tr><td>Bulgarie</td><td>20 juillet</td><td>2004</td><td>21 janvier</td><td>2005</td></tr>
+<tr><td>Chypre</td><td>23 juin</td><td>2005</td><td>24 décembre</td><td>2005</td></tr>
+<tr><td>Croatie</td><td>14 septembre</td><td>1994 A</td><td>15 mars</td><td>1995</td></tr>
+<tr><td>Danemark <sup>a</sup></td><td>23 février</td><td>1981</td><td>11 juin</td><td>1982</td></tr>
+<tr><td>Finlande</td><td>2 décembre</td><td>1991</td><td>3 juin</td><td>1992</td></tr>
+<tr><td>Estonie</td><td>16 mai</td><td>2008</td><td>17 novembre</td><td>2008</td></tr>
+<tr><td>Grèce</td><td>12 novembre</td><td>1984</td><td>13 mai</td><td>1985</td></tr>
+<tr><td>Hongrie</td><td>18 février</td><td>2021</td><td>19 août</td><td>2021</td></tr>
+<tr><td>Irlande</td><td>10 décembre</td><td>1981</td><td>11 juin</td><td>1982</td></tr>
+<tr><td>Italie</td><td>7 février</td><td>1986</td><td>8 août</td><td>1986</td></tr>
+<tr><td>Lettonie</td><td>6 mars</td><td>2008</td><td>7 septembre</td><td>2008</td></tr>
+<tr><td>Lituanie</td><td>2 mars</td><td>2004</td><td>3 septembre</td><td>2004</td></tr>
+<tr><td>Luxembourg</td><td>24 juillet</td><td>1980</td><td>11 juin</td><td>1982</td></tr>
+<tr><td>Macédoine du Nord</td><td>30 mars</td><td>1994 A</td><td>1<sup>er</sup> octobre</td><td>1994</td></tr>
+<tr><td>Monténégro</td><td>6 juin</td><td>2006 S</td><td>6 juin</td><td>2006</td></tr>
+<tr><td>Norvège</td><td>12 mai</td><td>1982</td><td>13 novembre</td><td>1982</td></tr>
+<tr><td>Pays-Bas</td><td>27 juin</td><td>1986</td><td>28 décembre</td><td>1986</td></tr>
+<tr><td>Aruba</td><td>27 juin</td><td>1986</td><td>28 décembre</td><td>1986</td></tr>
+<tr><td>Curaçao</td><td>27 juin</td><td>1986</td><td>28 décembre</td><td>1986</td></tr>
+<tr><td>Partie caraïbe (Bonaire, Sint Eustatius et Saba)</td><td>27 juin</td><td>1986</td><td>28 décembre</td><td>1986</td></tr>
+<tr><td>Sint Maarten</td><td>27 juin</td><td>1986</td><td>28 décembre</td><td>1986</td></tr>
+<tr><td>Pologne</td><td>3 avril</td><td>2008</td><td>4 octobre</td><td>2008</td></tr>
+<tr><td>Portugal</td><td>3 novembre</td><td>1981</td><td>11 juin</td><td>1982</td></tr>
+<tr><td>République tchèque</td><td>20 mars</td><td>2003</td><td>21 septembre</td><td>2003</td></tr>
+<tr><td>Serbie</td><td>28 février</td><td>2001 A</td><td>29 août</td><td>2001</td></tr>
+<tr><td>Slovénie</td><td>20 octobre</td><td>1992 A</td><td>21 avril</td><td>1993</td></tr>
+<tr><td>Suède</td><td>26 février</td><td>1982</td><td>27 août</td><td>1982</td></tr>
+<tr><td>Suisse</td><td>3 novembre</td><td>1993</td><td>4 mai</td><td>1994</td></tr>
+<tr><td colspan="5"><sup>a</sup> La convention n’est pas applicable au Groenland ni aux Îles Féroé.</td></tr>
 </table>
 
-[^t-2]: [RO 1994 982](https://fedlex.data.admin.ch/eli/oc/1994/982_982_982), [2004 5003](https://fedlex.data.admin.ch/eli/oc/2004/761), [2007 4187](https://fedlex.data.admin.ch/eli/oc/2007/558)et **2012** 4501. Une version du champ d’application mise à jour est publiée sur le site web du DFAE Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1994 982](https://fedlex.data.admin.ch/eli/oc/1994/982_982_982); [2004 5003](https://fedlex.data.admin.ch/eli/oc/2004/761); [2007 4187](https://fedlex.data.admin.ch/eli/oc/2007/558); [2012 4501](https://fedlex.data.admin.ch/eli/oc/2012/532); [2024 543](https://fedlex.data.admin.ch/eli/oc/2024/543). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

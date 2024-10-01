@@ -3,11 +3,11 @@ sr: "0.458"
 title: Europäisches Übereinkommen vom 10. Mai 1979 über den Schutz von Schlachttieren
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/982_982_982"
 language: de
-version: 2012-08-09
+version: 2024-10-02
 adopted: 1979-05-10
 in_force: 1994-05-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/982_982_982/20120809/de/xml/fedlex-data-admin-ch-eli-cc-1994-982_982_982-20120809-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/982_982_982/20120809/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/982_982_982/20241002/de/xml/fedlex-data-admin-ch-eli-cc-1994-982_982_982-20241002-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/982_982_982/20241002/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/982_982_982/20120809/de"
 
 AS **1994** 982; BBl **1992** V 1003
 
-Übersetzung*[^t-1]*
+Übersetzung
 
-Abgeschlossen in Strassburg am 10. Mai 1979 Von der Bundesversammlung genehmigt am 17. Juni 1993[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 3. November 1993 Inkrafttreten für die Schweiz am 4. Mai 1994
+Abgeschlossen in Strassburg am 10. Mai 1979 Von der Bundesversammlung genehmigt am 17. Juni 1993[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 3. November 1993 Inkrafttreten für die Schweiz am 4. Mai 1994
 
-(Stand am 9. August 2012)
+(Stand am 2. Oktober 2024)
 
-[^t-1]: Der französische Originaltext findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
-[^t-2]: Art. 1 Abs. 1 Bst. a des BB vom 17. Juni 1993 ([AS 1994 918](https://fedlex.data.admin.ch/eli/oc/1994/918_918_918))
+[^t-1]: Art. 1 Abs. 1 Bst. a des BB vom 17. Juni 1993 ([AS 1994 918](https://fedlex.data.admin.ch/eli/oc/1994/918_918_918))
 
 Die Mitgliedstaaten des Europarats, die dieses Übereinkommen unterzeichnen –
 
@@ -71,7 +70,7 @@ sind wie folgt übereingekommen:
 
 <sup>2.</sup> Das mit dem Verbringen und der Unterbringung der Tiere betraute Personal muss die erforderlichen Kenntnisse und Fähigkeiten besitzen und die Anforderungen dieses Übereinkommens beachten.
 
-## Abschnitt I Verbringen der Tiere innerhalb der Schlachtanlagen
+### Abschnitt I Verbringen der Tiere innerhalb der Schlachtanlagen
 
 #### Art. 4
 
@@ -99,7 +98,7 @@ sind wie folgt übereingekommen:
 
 <sup>2.</sup> Tiere, die nicht unmittelbar nach ihrer Ankunft geschlachtet werden, sind unterzubringen.
 
-## Abschnitt II Unterbringung der Tiere
+### Abschnitt II Unterbringung der Tiere
 
 #### Art. 7
 
@@ -119,7 +118,7 @@ sind wie folgt übereingekommen:
 
 <sup>8.</sup> Wenn die klimatischen Verhältnisse – z.B. hohe Luftfeuchte, niedrige Temperaturen – es erfordern, sind die Tiere in gut belüfteten Ställen unterzubringen. Diese sind während der Fütterung ausreichend zu beleuchten.
 
-## Abschnitt III Pflege der Tiere
+### Abschnitt III Pflege der Tiere
 
 #### Art. 8
 
@@ -135,7 +134,7 @@ sind wie folgt übereingekommen:
 
 <sup>2.</sup> Kranke, geschwächte oder verletzte Tiere sind sofort zu schlachten. Ist dies nicht möglich, so sind sie abzusondern, um sie so bald wie möglich zu schlachten.
 
-## Abschnitt IV Sonstige Bestimmungen
+### Abschnitt IV Sonstige Bestimmungen
 
 #### Art. 10
 
@@ -181,7 +180,9 @@ Für Einhufer, Wiederkäuer und Schweine sind nur folgende Betäubungsverfahren 
 
 #### Art. 17
 
-<sup>1.</sup> Jede Vertragspartei kann Ausnahmen von den Bestimmungen über das vorherige Betäuben zulassen für
+<sup>1.</sup>
+
+Jede Vertragspartei kann Ausnahmen von den Bestimmungen über das vorherige Betäuben zulassen für:
 
 - – rituelles Schlachten;
 - – Notschlachten, wenn ein Betäuben nicht möglich ist;
@@ -243,40 +244,41 @@ Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Rates un
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu Strassburg am 10. Mai 1979 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarats hinterlegt wird. Der Generalsekretär des Europarats übermittelt allen Unterzeichnerparteien und allen beitretenden Parteien beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 9. August 2012**[^t-3]**
+Geltungsbereich am 2. Oktober 2024[^t-2]
 
 <table>
-<tr><th colspan="2">Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
-<tr><td colspan="2">Bosnien und Herzegowina</td><td>29. Dezember</td><td>1994 B</td><td>30. Juni</td><td>1995</td></tr>
-<tr><td colspan="2">Bulgarien</td><td>20. Juli</td><td>2004</td><td>21. Januar</td><td>2005</td></tr>
-<tr><td colspan="2">Dänemark<sup>a</sup></td><td>23. Februar</td><td>1981</td><td>11. Juni</td><td>1982</td></tr>
-<tr><td colspan="2">Deutschland</td><td>24. Februar</td><td>1984</td><td>25. August</td><td>1984</td></tr>
-<tr><td colspan="2">Estland</td><td>16. Mai</td><td>2008</td><td>17. November</td><td>2008</td></tr>
-<tr><td colspan="2">Finnland</td><td>2. Dezember</td><td>1991</td><td>3. Juni</td><td>1992</td></tr>
-<tr><td colspan="2">Griechenland</td><td>12. November</td><td>1984</td><td>13. Mai</td><td>1985</td></tr>
-<tr><td colspan="2">Irland</td><td>10. Dezember</td><td>1981</td><td>11. Juni</td><td>1982</td></tr>
-<tr><td colspan="2">Italien</td><td>7. Februar</td><td>1986</td><td>8. August</td><td>1986</td></tr>
-<tr><td colspan="2">Kroatien</td><td>14. September</td><td>1994 B</td><td>15. März</td><td>1995</td></tr>
-<tr><td colspan="2">Lettland</td><td>6. März</td><td>2008</td><td>7. September</td><td>2008</td></tr>
-<tr><td colspan="2">Litauen</td><td>2. März</td><td>2004</td><td>3. September</td><td>2004</td></tr>
-<tr><td colspan="2">Luxemburg</td><td>24. Juli</td><td>1980</td><td>11. Juni</td><td>1982</td></tr>
-<tr><td colspan="2">Mazedonien</td><td>30. März</td><td>1994 B</td><td>1. Oktober</td><td>1994</td></tr>
-<tr><td colspan="2">Montenegro</td><td>6. Juni</td><td>2006 N</td><td>6. Juni</td><td>2006</td></tr>
-<tr><td colspan="2">Niederlande</td><td>27. Juni</td><td>1986</td><td>28. Dezember</td><td>1986</td></tr>
-<tr><td colspan="2">Aruba</td><td>27. Juni</td><td>1986</td><td>28. Dezember</td><td>1986</td></tr>
-<tr><td colspan="2">Curaçao</td><td>27. Juni</td><td>1986</td><td>28. Dezember</td><td>1986</td></tr>
-<tr><td colspan="2">Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>27. Juni</td><td>1986</td><td>28. Dezember</td><td>1986</td></tr>
-<tr><td colspan="2">Sint Maarten</td><td>27. Juni</td><td>1986</td><td>28. Dezember</td><td>1986</td></tr>
-<tr><td colspan="2">Norwegen</td><td>12. Mai</td><td>1982</td><td>13. November</td><td>1982</td></tr>
-<tr><td colspan="2">Polen</td><td>3. April</td><td>2008</td><td>4. Oktober</td><td>2008</td></tr>
-<tr><td colspan="2">Portugal</td><td>3. November</td><td>1981</td><td>11. Juni</td><td>1982</td></tr>
-<tr><td colspan="2">Schweden</td><td>26. Februar</td><td>1982</td><td>27. August</td><td>1982</td></tr>
-<tr><td colspan="2">Schweiz</td><td>3. November</td><td>1993</td><td>4. Mai</td><td>1994</td></tr>
-<tr><td colspan="2">Serbien</td><td>28. Februar</td><td>2001 B</td><td>29. August</td><td>2001</td></tr>
-<tr><td colspan="2">Slowenien</td><td>20. Oktober</td><td>1992 B</td><td>21. April</td><td>1993</td></tr>
-<tr><td colspan="2">Tschechische Republik</td><td>20. März</td><td>2003</td><td>21. September</td><td>2003</td></tr>
-<tr><td colspan="2">Zypern</td><td>23. Juni</td><td>2005</td><td>24. Dezember</td><td>2005</td></tr>
-<tr><td><sup>a</sup></td><td colspan="5">Das Übereinkommen gilt weder für Grönland noch für die Färöer-Inseln.</td></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Bosnien und Herzegowina</td><td>29. Dezember</td><td>1994 B</td><td>30. Juni</td><td>1995</td></tr>
+<tr><td>Bulgarien</td><td>20. Juli</td><td>2004</td><td>21. Januar</td><td>2005</td></tr>
+<tr><td>Dänemark <sup>a</sup></td><td>23. Februar</td><td>1981</td><td>11. Juni</td><td>1982</td></tr>
+<tr><td>Deutschland</td><td>24. Februar</td><td>1984</td><td>25. August</td><td>1984</td></tr>
+<tr><td>Estland</td><td>16. Mai</td><td>2008</td><td>17. November</td><td>2008</td></tr>
+<tr><td>Finnland</td><td>2. Dezember</td><td>1991</td><td>3. Juni</td><td>1992</td></tr>
+<tr><td>Griechenland</td><td>12. November</td><td>1984</td><td>13. Mai</td><td>1985</td></tr>
+<tr><td>Irland</td><td>10. Dezember</td><td>1981</td><td>11. Juni</td><td>1982</td></tr>
+<tr><td>Italien</td><td>7. Februar</td><td>1986</td><td>8. August</td><td>1986</td></tr>
+<tr><td>Kroatien</td><td>14. September</td><td>1994 B</td><td>15. März</td><td>1995</td></tr>
+<tr><td>Lettland</td><td>6. März</td><td>2008</td><td>7. September</td><td>2008</td></tr>
+<tr><td>Litauen</td><td>2. März</td><td>2004</td><td>3. September</td><td>2004</td></tr>
+<tr><td>Luxemburg</td><td>24. Juli</td><td>1980</td><td>11. Juni</td><td>1982</td></tr>
+<tr><td>Montenegro</td><td>6. Juni</td><td>2006 N</td><td>6. Juni</td><td>2006</td></tr>
+<tr><td>Niederlande</td><td>27. Juni</td><td>1986</td><td>28. Dezember</td><td>1986</td></tr>
+<tr><td>Aruba</td><td>27. Juni</td><td>1986</td><td>28. Dezember</td><td>1986</td></tr>
+<tr><td>Curaçao</td><td>27. Juni</td><td>1986</td><td>28. Dezember</td><td>1986</td></tr>
+<tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>27. Juni</td><td>1986</td><td>28. Dezember</td><td>1986</td></tr>
+<tr><td>Sint Maarten</td><td>27. Juni</td><td>1986</td><td>28. Dezember</td><td>1986</td></tr>
+<tr><td>Nordmazedonien</td><td>30. März</td><td>1994 B</td><td>1. Oktober</td><td>1994</td></tr>
+<tr><td>Norwegen</td><td>12. Mai</td><td>1982</td><td>13. November</td><td>1982</td></tr>
+<tr><td>Polen</td><td>3. April</td><td>2008</td><td>4. Oktober</td><td>2008</td></tr>
+<tr><td>Portugal</td><td>3. November</td><td>1981</td><td>11. Juni</td><td>1982</td></tr>
+<tr><td>Schweden</td><td>26. Februar</td><td>1982</td><td>27. August</td><td>1982</td></tr>
+<tr><td>Schweiz</td><td>3. November</td><td>1993</td><td>4. Mai</td><td>1994</td></tr>
+<tr><td>Serbien</td><td>28. Februar</td><td>2001 B</td><td>29. August</td><td>2001</td></tr>
+<tr><td>Slowenien</td><td>20. Oktober</td><td>1992 B</td><td>21. April</td><td>1993</td></tr>
+<tr><td>Tschechische Republik</td><td>20. März</td><td>2003</td><td>21. September</td><td>2003</td></tr>
+<tr><td>Ungarn</td><td>18. Februar</td><td>2021</td><td>19. August</td><td>2021</td></tr>
+<tr><td>Zypern</td><td>23. Juni</td><td>2005</td><td>24. Dezember</td><td>2005</td></tr>
+<tr><td colspan="5"><sup>a</sup> Das Übereinkommen gilt weder für Grönland noch für die Färöer-Inseln.</td></tr>
 </table>
 
-[^t-3]: [AS 1994 982](https://fedlex.data.admin.ch/eli/oc/1994/982_982_982), [2004 5003](https://fedlex.data.admin.ch/eli/oc/2004/761), [2007 4187](https://fedlex.data.admin.ch/eli/oc/2007/558)und [2012 4501](https://fedlex.data.admin.ch/eli/oc/2012/532). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1994 982](https://fedlex.data.admin.ch/eli/oc/1994/982_982_982); [2004 5003](https://fedlex.data.admin.ch/eli/oc/2004/761); [2007 4187](https://fedlex.data.admin.ch/eli/oc/2007/558); [2012 4501](https://fedlex.data.admin.ch/eli/oc/2012/532); [2024 543](https://fedlex.data.admin.ch/eli/oc/2024/543). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

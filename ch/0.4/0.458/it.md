@@ -3,11 +3,11 @@ sr: "0.458"
 title: Convenzione europea del 10 maggio 1979 sulla protezione degli animali da macello
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/982_982_982"
 language: it
-version: 2012-08-09
+version: 2024-10-02
 adopted: 1979-05-10
 in_force: 1994-05-04
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/982_982_982/20120809/it/xml/fedlex-data-admin-ch-eli-cc-1994-982_982_982-20120809-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/982_982_982/20120809/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/982_982_982/20241002/it/xml/fedlex-data-admin-ch-eli-cc-1994-982_982_982-20241002-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/982_982_982/20241002/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -16,14 +16,13 @@ url: "https://www.fedlex.admin.ch/eli/cc/1994/982_982_982/20120809/it"
 
 RU **1994** 982; FF **1992** V 778
 
-Traduzione*[^t-1]*
+Traduzione
 
-Conclusa a Strasburgo il 10 maggio 1979 Approvata dall’Assemblea federale il 17 giugno 1993[^t-2] Istrumento di ratificazione depositato dalla Svizzera il 3 novembre 1993 Entrata in vigore per la Svizzera il 4 maggio 1994
+Conclusa a Strasburgo il 10 maggio 1979 Approvata dall’Assemblea federale il 17 giugno 1993[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 3 novembre 1993 Entrata in vigore per la Svizzera il 4 maggio 1994
 
-(Stato 9 agosto 2012)
+(Stato 2 ottobre 2024)
 
-[^t-1]: Il testo originale francese è pubblicato sotto lo stesso numero nell’ediz. franc. della presente Raccolta.
-[^t-2]: Art. 1 cpv. 1 lett. a del DF del 17 giu. 1993 ([RU 1994 918](https://fedlex.data.admin.ch/eli/oc/1994/918_918_918)).
+[^t-1]: Art. 1 cpv. 1 lett. a del DF del 17 giu. 1993 ([RU 1994 918](https://fedlex.data.admin.ch/eli/oc/1994/918_918_918)).
 
 Gli Stati Membri del Consiglio d’Europa, firmatari della presente Convenzione,
 
@@ -247,40 +246,41 @@ Il Segretario Generale del Consiglio d’Europa notificherà agli Stati Membri d
 
 *In fede di che,* i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato la presente Convenzione. Fatto a Strasburgo il 10 agosto 1979, in francese ed inglese, i due testi facenti ugualmente fede, in un solo esemplare che sarà depositato negli archivi del Consiglio d’Europa. Il Segretario Generale del Consiglio d’Europa ne invierà copia certificata conforme a ciascuna delle Parti firmatarie e aderenti. (Seguono le firme)
 
-Campo d’applicazione il 9 agosto 2012**[^t-3]**
+Campo d’applicazione il 2 ottobre 2024[^t-2]
 
 <table>
-<tr><th colspan="4">Stati partecipanti</th><th colspan="2">Ratifica Adesione (A) Dichiarazione di successione (S)</th><th colspan="2"></th><th colspan="2">Entrata in vigore</th><th></th></tr>
-<tr><td colspan="4">Bosnia e Erzegovina</td><td colspan="2">29 dicembre</td><td colspan="2">1994 A</td><td colspan="2">30 giugno</td><td>1995</td></tr>
-<tr><td colspan="4">Bulgaria</td><td colspan="2">20 luglio</td><td colspan="2">2004</td><td colspan="2">21 gennaio</td><td>2005</td></tr>
-<tr><td colspan="4">Ceca, Repubblica</td><td colspan="2">20 marzo</td><td colspan="2">2003</td><td colspan="2">21 settembre</td><td>2003</td></tr>
-<tr><td colspan="4">Cipro</td><td colspan="2">23 giugno</td><td colspan="2">2005</td><td colspan="2">24 dicembre</td><td>2005</td></tr>
-<tr><td colspan="4">Croazia</td><td colspan="2">14 settembre</td><td colspan="2">1994 A</td><td colspan="2">15 marzo</td><td>1995</td></tr>
-<tr><td colspan="4">Danimarca<sup>a</sup></td><td colspan="2">23 febbraio</td><td colspan="2">1981</td><td colspan="2">11 giugno</td><td>1982</td></tr>
-<tr><td colspan="4">Estonia</td><td colspan="2">16 maggio</td><td colspan="2">2008</td><td colspan="2">17 novembre</td><td>2008</td></tr>
-<tr><td colspan="4">Finlandia</td><td colspan="2">2 dicembre</td><td colspan="2">1991</td><td colspan="2">3 giugno</td><td>1992</td></tr>
-<tr><td colspan="4">Germania</td><td colspan="2">24 febbraio</td><td colspan="2">1984</td><td colspan="2">25 agosto</td><td>1984</td></tr>
-<tr><td colspan="4">Grecia</td><td colspan="2">12 novembre</td><td colspan="2">1984</td><td colspan="2">13 maggio</td><td>1985</td></tr>
-<tr><td colspan="4">Irlanda</td><td colspan="2">10 dicembre</td><td colspan="2">1981</td><td colspan="2">11 giugno</td><td>1982</td></tr>
-<tr><td colspan="4">Italia</td><td colspan="2">7 febbraio</td><td colspan="2">1986</td><td colspan="2">8 agosto</td><td>1986</td></tr>
-<tr><td colspan="4">Lettonia</td><td colspan="2">6 marzo</td><td colspan="2">2008</td><td colspan="2">7 settembre</td><td>2008</td></tr>
-<tr><td colspan="4">Lituania</td><td colspan="2">2 marzo</td><td colspan="2">2004</td><td colspan="2">3 settembre</td><td>2004</td></tr>
-<tr><td colspan="4">Lussemburgo</td><td colspan="2">24 luglio</td><td colspan="2">1980</td><td colspan="2">11 giugno</td><td>1982</td></tr>
-<tr><td colspan="4">Macedonia</td><td colspan="2">30 marzo</td><td colspan="2">1994 A</td><td colspan="2">1° ottobre</td><td>1994</td></tr>
-<tr><td colspan="4">Montenegro</td><td colspan="2">6 giugno</td><td colspan="2">2006 S</td><td colspan="2">6 giugno</td><td>2006</td></tr>
-<tr><td colspan="4">Norvegia</td><td colspan="2">12 maggio</td><td colspan="2">1982</td><td colspan="2">13 novembre</td><td>1982</td></tr>
-<tr><td colspan="4">Paesi Bassi</td><td colspan="2">27 giugno</td><td colspan="2">1986</td><td colspan="2">28 dicembre</td><td>1986</td></tr>
-<tr><td colspan="4">Aruba</td><td colspan="2">27 giugno</td><td colspan="2">1986</td><td colspan="2">28 dicembre</td><td>1986</td></tr>
-<tr><td colspan="4">Curaçao</td><td colspan="2">27 giugno</td><td colspan="2">1986</td><td colspan="2">28 dicembre</td><td>1986</td></tr>
-<tr><td colspan="4">Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td colspan="2">27 giugno</td><td colspan="2">1986</td><td colspan="2">28 dicembre</td><td>1986</td></tr>
-<tr><td colspan="4">Sint Maarten</td><td colspan="2">27 giugno</td><td colspan="2">1986</td><td colspan="2">28 dicembre</td><td>1986</td></tr>
-<tr><td colspan="4">Polonia</td><td colspan="2">3 aprile</td><td colspan="2">2008</td><td colspan="2">4 ottobre</td><td>2008</td></tr>
-<tr><td colspan="4">Portogallo</td><td colspan="2">3 novembre</td><td colspan="2">1981</td><td colspan="2">11 giugno</td><td>1982</td></tr>
-<tr><td colspan="4">Serbia</td><td colspan="2">28 febbraio</td><td colspan="2">2001 A</td><td colspan="2">29 agosto</td><td>2001</td></tr>
-<tr><td colspan="4">Slovenia</td><td colspan="2">20 ottobre</td><td colspan="2">1992 A</td><td colspan="2">21 aprile</td><td>1993</td></tr>
-<tr><td colspan="4">Svezia</td><td colspan="2">26 febbraio</td><td colspan="2">1982</td><td colspan="2">27 agosto</td><td>1982</td></tr>
-<tr><td colspan="4">Svizzera</td><td colspan="2">3 novembre</td><td colspan="2">1993</td><td colspan="2">4 maggio</td><td>1994</td></tr>
-<tr><td colspan="2"><sup>a</sup></td><td colspan="9">La Conv. non si applica né alla Groenlandia né alle Isole Färöer.</td></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Bosnia e Erzegovina</td><td>29 dicembre</td><td>1994 A</td><td>30 giugno</td><td>1995</td></tr>
+<tr><td>Bulgaria</td><td>20 luglio</td><td>2004</td><td>21 gennaio</td><td>2005</td></tr>
+<tr><td>Ceca, Repubblica</td><td>20 marzo</td><td>2003</td><td>21 settembre</td><td>2003</td></tr>
+<tr><td>Cipro</td><td>23 giugno</td><td>2005</td><td>24 dicembre</td><td>2005</td></tr>
+<tr><td>Croazia</td><td>14 settembre</td><td>1994 A</td><td>15 marzo</td><td>1995</td></tr>
+<tr><td>Danimarca <sup>a</sup></td><td>23 febbraio</td><td>1981</td><td>11 giugno</td><td>1982</td></tr>
+<tr><td>Estonia</td><td>16 maggio</td><td>2008</td><td>17 novembre</td><td>2008</td></tr>
+<tr><td>Finlandia</td><td>2 dicembre</td><td>1991</td><td>3 giugno</td><td>1992</td></tr>
+<tr><td>Germania</td><td>24 febbraio</td><td>1984</td><td>25 agosto</td><td>1984</td></tr>
+<tr><td>Grecia</td><td>12 novembre</td><td>1984</td><td>13 maggio</td><td>1985</td></tr>
+<tr><td>Irlanda</td><td>10 dicembre</td><td>1981</td><td>11 giugno</td><td>1982</td></tr>
+<tr><td>Italia</td><td>7 febbraio</td><td>1986</td><td>8 agosto</td><td>1986</td></tr>
+<tr><td>Lettonia</td><td>6 marzo</td><td>2008</td><td>7 settembre</td><td>2008</td></tr>
+<tr><td>Lituania</td><td>2 marzo</td><td>2004</td><td>3 settembre</td><td>2004</td></tr>
+<tr><td>Lussemburgo</td><td>24 luglio</td><td>1980</td><td>11 giugno</td><td>1982</td></tr>
+<tr><td>Macedonia del Nord</td><td>30 marzo</td><td>1994 A</td><td>1° ottobre</td><td>1994</td></tr>
+<tr><td>Montenegro</td><td>6 giugno</td><td>2006 S</td><td>6 giugno</td><td>2006</td></tr>
+<tr><td>Norvegia</td><td>12 maggio</td><td>1982</td><td>13 novembre</td><td>1982</td></tr>
+<tr><td>Paesi Bassi</td><td>27 giugno</td><td>1986</td><td>28 dicembre</td><td>1986</td></tr>
+<tr><td>Aruba</td><td>27 giugno</td><td>1986</td><td>28 dicembre</td><td>1986</td></tr>
+<tr><td>Curaçao</td><td>27 giugno</td><td>1986</td><td>28 dicembre</td><td>1986</td></tr>
+<tr><td>Parte caraibica (Bonaire, Sant’Eustachio e Saba)</td><td>27 giugno</td><td>1986</td><td>28 dicembre</td><td>1986</td></tr>
+<tr><td>Sint Maarten</td><td>27 giugno</td><td>1986</td><td>28 dicembre</td><td>1986</td></tr>
+<tr><td>Polonia</td><td>3 aprile</td><td>2008</td><td>4 ottobre</td><td>2008</td></tr>
+<tr><td>Portogallo</td><td>3 novembre</td><td>1981</td><td>11 giugno</td><td>1982</td></tr>
+<tr><td>Serbia</td><td>28 febbraio</td><td>2001 A</td><td>29 agosto</td><td>2001</td></tr>
+<tr><td>Slovenia</td><td>20 ottobre</td><td>1992 A</td><td>21 aprile</td><td>1993</td></tr>
+<tr><td>Svezia</td><td>26 febbraio</td><td>1982</td><td>27 agosto</td><td>1982</td></tr>
+<tr><td>Svizzera</td><td>3 novembre</td><td>1993</td><td>4 maggio</td><td>1994</td></tr>
+<tr><td>Ungheria</td><td>18 febbraio</td><td>2021</td><td>19 agosto</td><td>2021</td></tr>
+<tr><td colspan="5"><sup>a</sup> La Conv. non si applica né alla Groenlandia né alle Isole Färöer.</td></tr>
 </table>
 
-[^t-3]: Completa quelli in [RU 1994 982](https://fedlex.data.admin.ch/eli/oc/1994/982_982_982), [2004 5003](https://fedlex.data.admin.ch/eli/oc/2004/761), [2007 4187](https://fedlex.data.admin.ch/eli/oc/2007/558)e [2012 4501](https://fedlex.data.admin.ch/eli/oc/2012/532). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1994 982](https://fedlex.data.admin.ch/eli/oc/1994/982_982_982); [2004 5003](https://fedlex.data.admin.ch/eli/oc/2004/761); [2007 4187](https://fedlex.data.admin.ch/eli/oc/2007/558); [2012 4501](https://fedlex.data.admin.ch/eli/oc/2012/532); [2024 543](https://fedlex.data.admin.ch/eli/oc/2024/543). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
