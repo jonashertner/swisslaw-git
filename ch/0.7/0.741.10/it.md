@@ -3,11 +3,11 @@ sr: "0.741.10"
 title: "Convenzione dell'8 novembre 1968 sulla circolazione stradale (con All.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/402_402_402"
 language: it
-version: 2022-07-15
+version: 2024-10-02
 adopted: 1968-11-08
 in_force: 1992-12-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/it/xml/fedlex-data-admin-ch-eli-cc-1993-402_402_402-20220715-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/402_402_402/20220715/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/fedlex-data-admin-ch-eli-cc-1993-402_402_402-20241002-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/402_402_402/20241002/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Conclusa a Vienna l’8 novembre 1968 Approvata dall’Assemblea federale il 15 dicembre 1978[^t-1] Istrumento di ratificazione depositato dalla Svizzera l’11 dicembre 1991 Entrata in vigore per la Svizzera l’11 dicembre 1992
 
-(Stato 15 luglio 2022)
+(Stato 2 ottobre 2024)
 
 [^t-1]: Art. 1 cpv. 1 lett. a del DF del 15 dic. 1978 ([RU 1993 400](https://fedlex.data.admin.ch/eli/oc/1993/400_400_400)).
 
@@ -57,8 +57,8 @@ Ai fini dell’applicazione delle disposizioni della presente Convenzione, i ter
 - e) il termine «carreggiata» indica la parte di strada normalmente destinata alla circolazione dei veicoli; una strada può comprendere più carreggiate nettamente separate l’una dall’altra, in particolare a mezzo di uno spartitraffico centrale o di una differenza di livello;
 - f) sulle carreggiate nelle quali sono riservate alla circolazione di determinati veicoli una corsia laterale o una pista oppure delle corsie laterali o delle piste, il termine «bordo della carreggiata» indica, per gli altri utenti della strada, il bordo della restante carreggiata;
 - g) il termine «corsia» indica una qualsiasi delle suddivisioni longitudinali, delimitate o no da segnaletica stradale orizzontale, ma aventi larghezza sufficiente per consentire lo scorrimento di una fila di autoveicoli diversi dai motocicli, nelle quali può esser suddivisa la carreggiata;
-- [tab] g<sup>bis</sup>)[^1-5] il termine «corsia per velocipedi» indica la parte di carreggiata riservata ai velocipedi. Una corsia per velocipedi è delimitata dalla restante carreggiata da segnaletica stradale orizzontale;
-- [tab] g<sup>ter</sup>)[^1-6] il termine «pista per velocipedi» indica una strada indipendente o la parte di strada riservata ai ciclisti e contrassegnata da appositi segnali stradali. Una pista per velocipedi è delimitata dalle altre strade o dalle altre parti della medesima strada da dotazioni infrastrutturali;
+- g<sup>bis</sup>)[^1-5] il termine «corsia per velocipedi» indica la parte di carreggiata riservata ai velocipedi. Una corsia per velocipedi è delimitata dalla restante carreggiata da segnaletica stradale orizzontale;
+- g<sup>ter</sup>)[^1-6] il termine «pista per velocipedi» indica una strada indipendente o la parte di strada riservata ai ciclisti e contrassegnata da appositi segnali stradali. Una pista per velocipedi è delimitata dalle altre strade o dalle altre parti della medesima strada da dotazioni infrastrutturali;
 - h) il termine «intersezione» indica ogni incrocio a livello, confluenza o biforcazione di strade, comprese le piazze formate da tali incroci, confluenze o biforcazioni;
 - i) il termine «passaggio a livello» indica ogni incrocio a livello tra una strada ed una linea ferroviaria o tranviaria a piattaforma indipendente;
 - j)
@@ -269,7 +269,7 @@ I sistemi di bordo che influiscono sulla guida del veicolo e non conformi alle d
 
 Si raccomanda che le legislazioni nazionali prevedano che, salvo deroghe accordate per facilitare le migrazioni, i greggi siano suddivisi in gruppi di lunghezza moderata e separati gli uni dagli altri da intervalli sufficientemente distanziati per la convenienza della circolazione.
 
-[^9-1]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. (RS **0.741****.****101**, annesso, n. 8).
+[^9-1]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 8).
 
 #### Art. 10
 
@@ -353,7 +353,7 @@ Senza pregiudizio delle disposizioni del paragrafo 2 del presente articolo e di 
 - b) Nel caso previsto dal comma a) del presente paragrafo, il modo di guida previsto sarà considerato non costituente un sorpasso ai sensi della presente Convenzione; tuttavia, le disposizioni del paragrafo 9 del presente articolo restano applicabili.[^11-6]
 
 [^11-1]: Introdotto dagli emendamenti del 28 set. 2004, in vigore dal 28 mar. 2006 ([RU 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
-[^11-2]: Introdotto dagli emendamenti entrati in vigore per la Svizzera il 3 set. 1993 ([RU 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
+[^11-2]: Nuovo testo giusta gli emendamenti entrati in vigore per la Svizzera il 3 set. 1993 ([RU 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^11-3]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 10).
 [^11-4]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 10).
 [^11-5]: Vedi anche la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 10).
@@ -1243,7 +1243,7 @@ L’originale della presente Convenzione, fatta in un solo esemplare, in lingua 
 
 *In fede di che* i sottoscritti plenipotenziari debitamente autorizzati dai loro rispettivi Governi, hanno firmato la presente Convenzione. Fatto a Vienna l’8 novembre 1968.
 
-Allegato 1*[^t-2]*
+Allegato 1[^t-2]
 
 ## Deroghe all’obbligo di ammettere in circolazione internazionale gli autoveicoli ed i rimorchi
 
@@ -1281,7 +1281,7 @@ Allegato 1*[^t-2]*
 
 [^annex1-lvlu1-1]: Per il par. supplementare vedi la mod. dell’Acc. del 1° mag. 1971 completante la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478), annesso, n. 27).
 
-Allegato 2*[^t-3]*
+Allegato 2[^t-3]
 
 ## Numero e targa di immatricolazione degli autoveicoli e dei rimorchi in circolazione internazionale
 
@@ -1297,7 +1297,7 @@ Allegato 2*[^t-3]*
 
 \5. Il fondo della parte della targa di immatricolazione in cui è incorporato il segno distintivo deve essere dello stesso materiale utilizzato per il fondo della parte sulla quale è scritto il numero di immatricolazione.
 
-Allegato 3*[^t-4]*
+Allegato 3[^t-4]
 
 ## Segno distintivo degli autoveicoli e dei rimorchi in circolazione internazionale
 
@@ -1349,7 +1349,7 @@ Allegato 4
 
 \2. I marchi indicati al paragrafo 1 del presente allegato debbono essere posti in posizioni accessibili ed essere facilmente leggibili, inoltre essi debbono essere tali che sia difficile modificarli o sopprimerli. Le lettere e le cifre comprese nei marchi saranno sia unicamente in caratteri latini o in corsivo detto inglese ed in cifre arabe, sia ripetute in tale maniera.
 
-Allegato 5*[^t-5]*
+Allegato 5[^t-5]
 
 ## Condizioni tecniche relative agli autoveicoli ed ai rimorchi
 
@@ -1660,7 +1660,7 @@ Appendice
 
 Per la verifica delle caratteristiche colorimetriche di tali filtri, deve essere usata una sorgente luminosa a temperatura di colore di 2854° K (corrispondente all’illuminazione A della Commissione Internazionale dell’Illuminazione [CIE]).
 
-Allegato 6*[^t-6]*
+Allegato 6[^t-6]
 
 ## Patente nazionale di guida
 
@@ -1724,18 +1724,18 @@ Allegato 6*[^t-6]*
 
 <table>
 <tr><td colspan="2">Codice della categoria/ Pittogramma</td><td colspan="2">Codice della sottocategoria/ Pittogramma</td></tr>
-<tr><td>A</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/it/xml/image/image1.png)</td><td>A1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/it/xml/image/image2.png)</td></tr>
-<tr><td>B</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/it/xml/image/image3.png)</td><td>B1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/it/xml/image/image4.png)</td></tr>
-<tr><td>C</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/it/xml/image/image5.png)</td><td>C1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/it/xml/image/image6.png)</td></tr>
-<tr><td>D</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/it/xml/image/image7.png)</td><td>D1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/it/xml/image/image8.png)</td></tr>
-<tr><td>BE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/it/xml/image/image9.png)</td><td></td><td></td></tr>
-<tr><td>CE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/it/xml/image/image10.png)</td><td>C1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/it/xml/image/image11.png)</td></tr>
-<tr><td>DE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/it/xml/image/image12.png)</td><td>D1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/it/xml/image/image13.png)</td></tr>
+<tr><td>A</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image1.png)</td><td>A1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image2.png)</td></tr>
+<tr><td>B</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image3.png)</td><td>B1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image4.png)</td></tr>
+<tr><td>C</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image5.png)</td><td>C1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image6.png)</td></tr>
+<tr><td>D</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image7.png)</td><td>D1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image8.png)</td></tr>
+<tr><td>BE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image9.png)</td><td></td><td></td></tr>
+<tr><td>CE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image10.png)</td><td>C1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image11.png)</td></tr>
+<tr><td>DE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image12.png)</td><td>D1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image13.png)</td></tr>
 </table>
 
 [^annex6-lvlu1-1]: Il luogo di nascita può essere sostituito da altre precisazioni stabilite dalla legislazione nazionale.
 
-Allegato 7*[^t-7]*
+Allegato 7[^t-7]
 
 ## Patente internazionale di guida
 
@@ -1794,19 +1794,19 @@ Allegato 7*[^t-7]*
 <table>
 <tr><td></td><td colspan="6">INDICAZIONI RELATIVE AL CONDUCENTE</td><td></td></tr>
 <tr><td></td><td colspan="2">Cognome:</td><td colspan="3"></td><td>1.</td><td></td></tr>
-<tr><td></td><td colspan="2">Nome/i o altro/i cognomi (*c**o**gnomi?*):</td><td colspan="3"></td><td>2.</td><td></td></tr>
+<tr><td></td><td colspan="2">Nome/i o altro/i cognomi (*cognomi?*):</td><td colspan="3"></td><td>2.</td><td></td></tr>
 <tr><td></td><td colspan="2">Luogo di nascita:<sup>1)</sup></td><td colspan="3"></td><td>3.</td><td></td></tr>
 <tr><td></td><td colspan="2">Data di nascita:</td><td colspan="3"></td><td>4.</td><td></td></tr>
 <tr><td></td><td colspan="2">Luogo di residenza abituale <sup>2)</sup></td><td colspan="3"></td><td>5.</td><td></td></tr>
 <tr><td colspan="8">CATEGORIE E SOTTOCATEGORIE DI VEICOLI, CON I CORRISPONDENTI CODICI, PER LE QUALI È VALIDA LA PATENTE</td></tr>
-<tr><td></td><td colspan="3">**Codice della categoria/** **Pitt****o****gramma**</td><td colspan="3">**Codice della sottocategoria/ Pitt****o****gramma**</td><td></td></tr>
-<tr><td></td><td>**A**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/it/xml/image/image1.png)</td><td>**A1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/it/xml/image/image2.png)</td><td></td></tr>
-<tr><td></td><td>**B**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/it/xml/image/image3.png)</td><td>**B1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/it/xml/image/image4.png)</td><td></td></tr>
-<tr><td></td><td>**C**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/it/xml/image/image5.png)</td><td>**C1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/it/xml/image/image6.png)</td><td></td></tr>
-<tr><td></td><td>**D**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/it/xml/image/image7.png)</td><td>**D1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/it/xml/image/image8.png)</td><td></td></tr>
-<tr><td></td><td>**BE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/it/xml/image/image9.png)</td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td></td><td>**CE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/it/xml/image/image10.png)</td><td>**C1E**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/it/xml/image/image11.png)</td><td></td></tr>
-<tr><td></td><td>**DE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/it/xml/image/image12.png)</td><td>**D1E**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/it/xml/image/image13.png)</td><td></td></tr>
+<tr><td></td><td colspan="3">**Codice della categoria/** **Pittogramma**</td><td colspan="3">**Codice della sottocategoria/ Pittogramma**</td><td></td></tr>
+<tr><td></td><td>**A**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image1.png)</td><td>**A1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image2.png)</td><td></td></tr>
+<tr><td></td><td>**B**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image3.png)</td><td>**B1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image4.png)</td><td></td></tr>
+<tr><td></td><td>**C**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image5.png)</td><td>**C1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image6.png)</td><td></td></tr>
+<tr><td></td><td>**D**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image7.png)</td><td>**D1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image8.png)</td><td></td></tr>
+<tr><td></td><td>**BE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image9.png)</td><td></td><td colspan="2"></td><td></td></tr>
+<tr><td></td><td>**CE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image10.png)</td><td>**C1E**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image11.png)</td><td></td></tr>
+<tr><td></td><td>**DE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image12.png)</td><td>**D1E**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/it/xml/image/image13.png)</td><td></td></tr>
 <tr><td></td><td colspan="6">RESTRIZIONI DI UTILIZZAZIONE <sup>3</sup><sup>)</sup></td><td></td></tr>
 </table>
 
@@ -1842,11 +1842,12 @@ Modello 3 (pagina di destra)
 
 <sup>6)</sup> Firma e sigillo o timbro dell’autorità che ha annullato la validità della patente sul proprio territorio. Se tutti gli spazi previsti per le esclusioni su questa pagina sono già utilizzati, ogni altra esclusione dovrebbe essere scritta sul retro.
 
-Campo d’applicazione il 15 luglio 2022**[^t-8]**
+Campo d’applicazione il 2 ottobre 2024[^t-8]
 
 <table>
 <tr><th>Stati partecipanti</th><th colspan="3">Ratifica Adesione (A) Dichiarazione di successione (S)</th><th colspan="3"></th><th colspan="3">Entrata in vigore</th><th colspan="3"></th></tr>
 <tr><td>Albania</td><td colspan="3">29 giugno</td><td colspan="3">2000 A</td><td colspan="3">29 giugno</td><td colspan="3">2001</td></tr>
+<tr><td>Andorra</td><td colspan="3">25 settembre</td><td colspan="3">2024 A</td><td colspan="3">25 settembre</td><td colspan="3">2025</td></tr>
 <tr><td>Arabia Saudita<sup>\*</sup></td><td colspan="3">12 maggio</td><td colspan="3">2016 A</td><td colspan="3">12 maggio</td><td colspan="3">2017</td></tr>
 <tr><td>Armenia</td><td colspan="3">8 febbraio</td><td colspan="3">2005 A</td><td colspan="3">8 febbraio</td><td colspan="3">2006</td></tr>
 <tr><td>Austria</td><td colspan="3">11 agosto</td><td colspan="3">1981</td><td colspan="3">11 agosto</td><td colspan="3">1982</td></tr>
@@ -1867,6 +1868,8 @@ Campo d’applicazione il 15 luglio 2022**[^t-8]**
 <tr><td>Croazia</td><td colspan="3">23 novembre</td><td colspan="3">1992 S</td><td colspan="3">8 ottobre</td><td colspan="3">1991</td></tr>
 <tr><td>Cuba<sup>\*</sup></td><td colspan="3">30 settembre</td><td colspan="3">1977 A</td><td colspan="3">30 settembre</td><td colspan="3">1978</td></tr>
 <tr><td>Danimarca<sup>\*</sup> <sup>a</sup></td><td colspan="3">3 novembre</td><td colspan="3">1986</td><td colspan="3">3 novembre</td><td colspan="3">1987</td></tr>
+<tr><td>Egitto</td><td colspan="3">15 dicembre</td><td colspan="3">2023 A</td><td colspan="3">15 dicembre</td><td colspan="3">2024</td></tr>
+<tr><td>El Salvador<sup>\*</sup></td><td colspan="3">27 agosto</td><td colspan="3">2024 A</td><td colspan="3">27 agosto</td><td colspan="3">2025</td></tr>
 <tr><td>Emirati Arabi Uniti</td><td colspan="3">10 gennaio</td><td colspan="3">2007 A</td><td colspan="3">10 gennaio</td><td colspan="3">2008</td></tr>
 <tr><td>Estonia<sup>\*</sup></td><td colspan="3">24 agosto</td><td colspan="3">1992 A</td><td colspan="3">24 agosto</td><td colspan="3">1993</td></tr>
 <tr><td colspan="2">Etiopia</td><td colspan="4">25 agosto</td><td colspan="3">2021 A</td><td colspan="3">25 agosto</td><td colspan="2">2022</td></tr>
@@ -1893,6 +1896,7 @@ Campo d’applicazione il 15 luglio 2022**[^t-8]**
 <tr><td>Lituania<sup>\*</sup></td><td colspan="3">20 novembre</td><td colspan="3">1991 A</td><td colspan="3">20 novembre</td><td colspan="3">1992</td></tr>
 <tr><td>Lussemburgo</td><td colspan="3">25 novembre</td><td colspan="3">1975</td><td colspan="3">21 maggio</td><td colspan="3">1977</td></tr>
 <tr><td>Macedonia del Nord</td><td colspan="3">18 agosto</td><td colspan="3">1993 S</td><td colspan="3">17 novembre</td><td colspan="3">1991</td></tr>
+<tr><td>Maldive</td><td colspan="3">9 gennaio</td><td colspan="3">2023 A</td><td colspan="3">9 gennaio</td><td colspan="3">2023</td></tr>
 <tr><td>Marocco<sup>\*</sup></td><td colspan="3">29 dicembre</td><td colspan="3">1982 A</td><td colspan="3">29 dicembre</td><td colspan="3">1983</td></tr>
 <tr><td>Moldova</td><td colspan="3">26 maggio</td><td colspan="3">1993 A</td><td colspan="3">26 maggio</td><td colspan="3">1994</td></tr>
 <tr><td>Monaco<sup>\*</sup></td><td colspan="3">6 giugno</td><td colspan="3">1978 A</td><td colspan="3">6 giugno</td><td colspan="3">1979</td></tr>
@@ -1931,17 +1935,16 @@ Campo d’applicazione il 15 luglio 2022**[^t-8]**
 <tr><td>Turchia<sup>\*</sup></td><td colspan="3">22 gennaio</td><td colspan="3">2013 A</td><td colspan="3">22 gennaio</td><td colspan="3">2014</td></tr>
 <tr><td>Turkmenistan</td><td colspan="3">14 giugno</td><td colspan="3">1993 A</td><td colspan="3">14 giugno</td><td colspan="3">1994</td></tr>
 <tr><td>Ucraina<sup>\*</sup></td><td colspan="3">12 luglio</td><td colspan="3">1974</td><td colspan="3">21 maggio</td><td colspan="3">1977</td></tr>
+<tr><td>Uganda</td><td colspan="3">23 agosto</td><td colspan="3">2022 A</td><td colspan="3">23 agosto</td><td colspan="3">2023</td></tr>
 <tr><td>Ungheria<sup>\*</sup></td><td colspan="3">16 marzo</td><td colspan="3">1976</td><td colspan="3">21 maggio</td><td colspan="3">1977</td></tr>
 <tr><td>Uruguay<sup>\*</sup></td><td colspan="3">8 aprile</td><td colspan="3">1981 A</td><td colspan="3">8 aprile</td><td colspan="3">1982</td></tr>
 <tr><td>Uzbekistan</td><td colspan="3">17 gennaio</td><td colspan="3">1995 A</td><td colspan="3">17 gennaio</td><td colspan="3">1996</td></tr>
 <tr><td>Vietnam<sup>\*</sup></td><td colspan="3">20 agosto</td><td colspan="3">2014 A</td><td colspan="3">20 agosto</td><td colspan="3">2015</td></tr>
 <tr><td>Zimbabwe<sup>\*</sup></td><td colspan="3">31 luglio</td><td colspan="3">1981 A</td><td colspan="3">31 luglio</td><td colspan="3">1982</td></tr>
-<tr><td colspan="13">\* Riserve e dichiarazioni. (gli \* del campo d’applicazione non comprendono le dichiarazioni di tutti gli Stati parte relative al segno distintivo dei veicoli in circolazione internazionale, conformemente all’art. 45 par. 4). Le riserve e dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="13"><sup>a</sup> La Conv. non si applica alle Isole Faeröer, né alla Groenlandia.</td></tr>
-<tr><td colspan="13"><sup>b</sup> Per il Regno in Europa.</td></tr>
+<tr><td colspan="13">\* Riserve e dichiarazioni. (gli \* del campo d’applicazione non comprendono le dichiarazioni di tutti gli Stati parte relative al segno distintivo dei veicoli in circolazione internazionale, conformemente all’art. 45 par. 4). Le riserve e dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> La Conv. non si applica alle Isole Faeröer, né alla Groenlandia <sup>b</sup> Per il Regno in Europa.</td></tr>
 </table>
 
-[^t-8]: [RU 1993 402](https://fedlex.data.admin.ch/eli/oc/1993/402_402_402); [2004 4111](https://fedlex.data.admin.ch/eli/oc/2004/602); [2006 1881](https://fedlex.data.admin.ch/eli/oc/2006/293); [2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444); [2013 715](https://fedlex.data.admin.ch/eli/oc/2013/140); [2016 553](https://fedlex.data.admin.ch/eli/oc/2016/104);[2018 3031](https://fedlex.data.admin.ch/eli/oc/2018/475); [2019 2251](https://fedlex.data.admin.ch/eli/oc/2019/423); [2020 1871](https://fedlex.data.admin.ch/eli/oc/2020/384); [2022 423](https://fedlex.data.admin.ch/eli/oc/2022/423). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
+[^t-8]: [RU 1993 402](https://fedlex.data.admin.ch/eli/oc/1993/402_402_402); [2004 4111](https://fedlex.data.admin.ch/eli/oc/2004/602); [2006 1881](https://fedlex.data.admin.ch/eli/oc/2006/293); [2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444); [2013 715](https://fedlex.data.admin.ch/eli/oc/2013/140); [2016 553](https://fedlex.data.admin.ch/eli/oc/2016/104);[2018 3031](https://fedlex.data.admin.ch/eli/oc/2018/475); [2019 2251](https://fedlex.data.admin.ch/eli/oc/2019/423); [2020 1871](https://fedlex.data.admin.ch/eli/oc/2020/384); [2022 423](https://fedlex.data.admin.ch/eli/oc/2022/423); [2024 544](https://fedlex.data.admin.ch/eli/oc/2024/544). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
 
 Riserve e dichiarazioni
 
@@ -1967,48 +1970,50 @@ Conformemente al testo dell’allegato 1 paragrafo 1, le Parti contraenti posson
 
 [^t-9]: Il 12 dicembre 2005, la Svizzera ha notificato al Segretario generale dell’Organizzazione delle Nazioni Unite la sua decisione di ritirare la riserva formulata al momento della ratifica riguardo all’art. 11 para. 1 lett. a. Ritirata con effetto dal 28 mar. 2006 ([RU 2006 1881](https://fedlex.data.admin.ch/eli/oc/2006/293)).
 
-Segni distintivi dei veicoli in circolazione internazionale**[^t-10]**
+Segni distintivi dei veicoli in circolazione internazionale[^t-10]
 
 (art. 45 par. 4)
 
 <table>
 <tr><td>Albania</td><td>AL</td><td>Monaco</td><td>MC</td></tr>
-<tr><td>Armenia</td><td>AM</td><td>Moldova</td><td>MD</td></tr>
-<tr><td>Austria</td><td>A</td><td>Mongolia</td><td>MGL</td></tr>
-<tr><td>Azerbaigian</td><td>AZ</td><td>Montenegro</td><td>MNE</td></tr>
-<tr><td>Bahrein</td><td>BRN</td><td>Myanmar</td><td>MYA</td></tr>
-<tr><td>Bielorussia</td><td>BY</td><td>Niger</td><td>RN</td></tr>
-<tr><td>Belgio</td><td>B</td><td>Norvegia</td><td>N</td></tr>
-<tr><td>Bosnia ed Erzegovina</td><td>BIH</td><td>Paesi Bassi</td><td>NL</td></tr>
-<tr><td>Brasile</td><td>BR</td><td>Pakistan</td><td>PK</td></tr>
-<tr><td>Bulgaria</td><td>BG</td><td>Palestina</td><td>PS</td></tr>
-<tr><td>Capo Verde</td><td>CV</td><td>Polonia</td><td>PL</td></tr>
-<tr><td>Ceca, Repubblica</td><td>CZ</td><td>Regno Unito</td><td>UK</td></tr>
-<tr><td>Congo (Kinshasa)</td><td>ZRE</td><td>Gibilterra</td><td>GBZ</td></tr>
-<tr><td>Croazia</td><td>HR</td><td>Guernesey</td><td>GBG</td></tr>
-<tr><td>Costa d’Avorio</td><td>CI</td><td>Jersey</td><td>GBJ</td></tr>
-<tr><td>Danimarca</td><td>DK</td><td>Rep. Centrafricana</td><td>RCA</td></tr>
-<tr><td>Estonia</td><td>EST</td><td>Romania</td><td>RO</td></tr>
-<tr><td>Filippine</td><td>RP</td><td>Russia</td><td>RUS</td></tr>
-<tr><td>Finlandia</td><td>FIN</td><td>San Marino</td><td>RSM</td></tr>
-<tr><td>Francia (Francia-Territori d’oltre mare)</td><td>F</td><td>Seicelle</td><td>SY</td></tr>
-<tr><td>Georgia</td><td>GE</td><td>Senegal</td><td>SN</td></tr>
-<tr><td>Germania</td><td>D</td><td>Serbia</td><td>SRB</td></tr>
-<tr><td>Grecia</td><td>GR</td><td>Slovacchia</td><td>SK</td></tr>
-<tr><td>Guyana</td><td>GUY</td><td>Slovenia</td><td>SLO</td></tr>
-<tr><td>Iran</td><td>IR</td><td>Sudafrica</td><td>ZA</td></tr>
-<tr><td>Israele</td><td>IL</td><td>Svezia</td><td>S</td></tr>
-<tr><td>Italia</td><td>I</td><td>Svizzera</td><td>CH</td></tr>
-<tr><td>Kazakistan</td><td>KZ</td><td>Tagikistan</td><td>TJ</td></tr>
-<tr><td>Kenya</td><td>E.A.K.</td><td>Thailandia</td><td>T</td></tr>
-<tr><td>Kirghizistan</td><td>KG</td><td>Tunisia</td><td>TN</td></tr>
-<tr><td>Kuwait</td><td>KWT</td><td>Turkmenistan</td><td>TM</td></tr>
-<tr><td>Lettonia</td><td>LV</td><td>Ucraina</td><td>UA</td></tr>
-<tr><td>Liechtenstein</td><td>FL</td><td>Ungheria</td><td>H</td></tr>
-<tr><td>Lituania</td><td>LT</td><td>Uruguay</td><td>ROU</td></tr>
-<tr><td>Lussemburgo</td><td>L</td><td>Uzbekistan</td><td>UZ</td></tr>
-<tr><td>Macedonia del Nord</td><td>MK</td><td>Vietnam</td><td>VN</td></tr>
-<tr><td>Marocco</td><td>MA</td><td>Zimbabwe</td><td>ZW</td></tr>
+<tr><td>Andorra</td><td>AND</td><td>Moldova</td><td>MD</td></tr>
+<tr><td>Armenia</td><td>AM</td><td>Mongolia</td><td>MGL</td></tr>
+<tr><td>Austria</td><td>A</td><td>Montenegro</td><td>MNE</td></tr>
+<tr><td>Azerbaigian</td><td>AZ</td><td>Myanmar</td><td>MYA</td></tr>
+<tr><td>Bahrein</td><td>BRN</td><td>Niger</td><td>RN</td></tr>
+<tr><td>Bielorussia</td><td>BY</td><td>Norvegia</td><td>N</td></tr>
+<tr><td>Belgio</td><td>B</td><td>Paesi Bassi</td><td>NL</td></tr>
+<tr><td>Bosnia ed Erzegovina</td><td>BIH</td><td>Pakistan</td><td>PK</td></tr>
+<tr><td>Brasile</td><td>BR</td><td>Palestina</td><td>PS</td></tr>
+<tr><td>Bulgaria</td><td>BG</td><td>Polonia</td><td>PL</td></tr>
+<tr><td>Capo Verde</td><td>CV</td><td>Regno Unito</td><td>UK</td></tr>
+<tr><td>Ceca, Repubblica</td><td>CZ</td><td>Gibilterra</td><td>GBZ</td></tr>
+<tr><td>Congo (Kinshasa)</td><td>ZRE</td><td>Guernesey</td><td>GBG</td></tr>
+<tr><td>Croazia</td><td>HR</td><td>Jersey</td><td>GBJ</td></tr>
+<tr><td>Costa d’Avorio</td><td>CI</td><td>Rep. Centrafricana</td><td>RCA</td></tr>
+<tr><td>Danimarca</td><td>DK</td><td>Romania</td><td>RO</td></tr>
+<tr><td>Egitto</td><td>EG</td><td>Russia</td><td>RUS</td></tr>
+<tr><td>Estonia</td><td>EST</td><td>San Marino</td><td>RSM</td></tr>
+<tr><td>Filippine</td><td>RP</td><td>Seicelle</td><td>SY</td></tr>
+<tr><td>Finlandia</td><td>FIN</td><td>Senegal</td><td>SN</td></tr>
+<tr><td>Francia (Francia-Territori d’oltre mare)</td><td>F</td><td>Serbia</td><td>SRB</td></tr>
+<tr><td>Georgia</td><td>GE</td><td>Slovacchia</td><td>SK</td></tr>
+<tr><td>Germania</td><td>D</td><td>Slovenia</td><td>SLO</td></tr>
+<tr><td>Grecia</td><td>GR</td><td>Sudafrica</td><td>ZA</td></tr>
+<tr><td>Guyana</td><td>GUY</td><td>Svezia</td><td>S</td></tr>
+<tr><td>Iran</td><td>IR</td><td>Svizzera</td><td>CH</td></tr>
+<tr><td>Israele</td><td>IL</td><td>Tagikistan</td><td>TJ</td></tr>
+<tr><td>Italia</td><td>I</td><td>Thailandia</td><td>T</td></tr>
+<tr><td>Kazakistan</td><td>KZ</td><td>Tunisia</td><td>TN</td></tr>
+<tr><td>Kenya</td><td>E.A.K.</td><td>Turkmenistan</td><td>TM</td></tr>
+<tr><td>Kirghizistan</td><td>KG</td><td>Ucraina</td><td>UA</td></tr>
+<tr><td>Kuwait</td><td>KWT</td><td>Ungheria</td><td>H</td></tr>
+<tr><td>Lettonia</td><td>LV</td><td>Uruguay</td><td>ROU</td></tr>
+<tr><td>Liechtenstein</td><td>FL</td><td>Uzbekistan</td><td>UZ</td></tr>
+<tr><td>Lituania</td><td>LT</td><td>Vietnam</td><td>VN</td></tr>
+<tr><td>Lussemburgo</td><td>L</td><td>Zimbabwe</td><td>ZW</td></tr>
+<tr><td>Macedonia del Nord</td><td>MK</td><td></td><td></td></tr>
+<tr><td>Marocco</td><td>MA</td><td></td><td></td></tr>
 </table>
 
-[^t-10]: [RU 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444); [2013 715](https://fedlex.data.admin.ch/eli/oc/2013/140); [2016 553](https://fedlex.data.admin.ch/eli/oc/2016/104); [2018 3031](https://fedlex.data.admin.ch/eli/oc/2018/475); [2019 2251](https://fedlex.data.admin.ch/eli/oc/2019/423); [2022 423](https://fedlex.data.admin.ch/eli/oc/2022/423)
+[^t-10]: [RU 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444); [2013 715](https://fedlex.data.admin.ch/eli/oc/2013/140); [2016 553](https://fedlex.data.admin.ch/eli/oc/2016/104); [2018 3031](https://fedlex.data.admin.ch/eli/oc/2018/475); [2019 2251](https://fedlex.data.admin.ch/eli/oc/2019/423); [2022 423](https://fedlex.data.admin.ch/eli/oc/2022/423); [2024 544](https://fedlex.data.admin.ch/eli/oc/2024/544).

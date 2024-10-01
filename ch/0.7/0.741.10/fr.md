@@ -3,11 +3,11 @@ sr: "0.741.10"
 title: Convention du 8 novembre 1968 sur la circulation routière (avec annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/402_402_402"
 language: fr
-version: 2022-07-15
+version: 2024-10-02
 adopted: 1968-11-08
 in_force: 1992-12-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/fr/xml/fedlex-data-admin-ch-eli-cc-1993-402_402_402-20220715-fr-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/402_402_402/20220715/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/fr/xml/fedlex-data-admin-ch-eli-cc-1993-402_402_402-20241002-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/402_402_402/20241002/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -18,15 +18,9 @@ RO **1993** 402; FF **1978** I 1440
 
 Texte original
 
-Conclue à Vienne le 8 novembre 1968
+Conclue à Vienne le 8 novembre 1968 Approuvée par l’Assemblée fédérale le 15 décembre 1978[^t-1] Instrument de ratification déposé par la Suisse le 11 décembre 1991 Entrée en vigueur pour la Suisse le 11 décembre 1992
 
-Approuvée par l’Assemblée fédérale le 15 décembre 1978[^t-1]
-
-Instrument de ratification déposé par la Suisse le 11 décembre 1991
-
-Entrée en vigueur pour la Suisse le 11 décembre 1992
-
-(Etat le 15 juillet 2022)
+(État le 2 octobre 2024)
 
 [^t-1]: Art. 1 al. 1 let. a de l’AF du 15 déc. 1978 ([RO 1993 400](https://fedlex.data.admin.ch/eli/oc/1993/400_400_400)).
 
@@ -58,7 +52,7 @@ Pour l’application des dispositions de la présente Convention, les termes ci-
 - toute Partie contractante restant libre, toutefois, de refuser de considérer comme étant en «circulation internationale» tout véhicule qui serait resté sur son territoire pendant plus d’un an sans une interruption importante, dont cette Partie contractante peut fixer la durée.
 - Un ensemble de véhicules est dit en «circulation internationale» si l’un au moins des véhicules qui le composent répond à la définition.
 - c)[^1-3] le terme «agglomération» désigne un espace qui comprend des immeubles bâtis et dont les entrées et les sorties sont spécialement désignées comme telles, ou qui est défini de quelque autre manière dans la législation nationale;
-- [tab] ...[^1-4]
+- [tab] …[^1-4]
 - d) le terme «route» désigne toute l’emprise de tout chemin ou rue ouvert à la circulation publique;
 - e) le terme «chaussée» désigne la partie de la route normalement utilisée pour la circulation des véhicules; une route peut comporter plusieurs chaussées nettement séparées l’une de l’autre, notamment par un terre-plein central ou une différence de niveau;
 - f) sur les chaussées où une voie latérale ou une piste ou des voies latérales ou des pistes sont réservées à la circulation de certains véhicules, le terme «bord de la chaussée» désigne, pour les autres usagers de la route, le bord du reste de la chaussée;
@@ -99,7 +93,7 @@ Pour l’application des dispositions de la présente Convention, les termes ci-
 - y) le terme «masse en charge» désigne la masse effective du véhicule tel qu’il est chargé, l’équipage et les passagers restant à bord;
 - z) les termes «sens de la circulation» et «correspondant au sens de la circulation» désignent la droite lorsque, d’après la législation nationale, le conducteur d’un véhicule doit croiser un autre véhicule en laissant ce véhicule à sa gauche; ils désignent la gauche dans le cas contraire;
 - aa) l’obligation pour le conducteur d’un véhicule de «céder le passage» à d’autres véhicules signifie que ce conducteur ne doit pas continuer sa marche ou sa manoeuvre ou la reprendre si cela risque d’obliger les conducteurs d’autres véhicules à modifier brusquement la direction ou la vitesse de leurs véhicules.
-- [tab] ...[^1-9]
+- [tab] …[^1-9]
 
 [^1-1]: Introduite par les Am. du 14 déc. 2020, en vigueur depuis le 14 juil. 2022 ([RO 2022 51](https://fedlex.data.admin.ch/eli/oc/2022/51)).
 [^1-2]: Introduite par les Am. du 14 déc. 2020, en vigueur depuis le 14 juil. 2022 ([RO 2022 51](https://fedlex.data.admin.ch/eli/oc/2022/51)).
@@ -224,7 +218,7 @@ Les Parties contractantes à la présente Convention qui ne seraient pas Parties
 
 <sup>5.</sup> Le port d’une ceinture de sécurité est obligatoire pour les conducteurs et les passagers des automobiles qui occupent les sièges équipés de ces ceintures, sauf dans les cas d’exemption prévus par la législation nationale.[^7-4]
 
-...[^7-5]
+…[^7-5]
 
 [^7-1]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 6).
 [^7-2]: Introduit par les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402))
@@ -246,7 +240,7 @@ Les Parties contractantes à la présente Convention qui ne seraient pas Parties
 
 5.[^8-2] Tout conducteur doit constamment avoir le contrôle de son véhicule ou pouvoir guider ses animaux.
 
-...[^8-3]
+…[^8-3]
 
 5<sup>bis</sup>. Les systèmes embarqués ayant une incidence sur la conduite du véhicule sont réputés conformes au par. 5 du présent article et au premier paragraphe de l’art. 13 s’ils sont conformes aux prescriptions en matière de construction, de montage et d’utilisation énoncées dans les instruments juridiques internationaux relatifs aux véhicules à roues et aux équipements et pièces susceptibles d’être montés et/ou utilisés sur un véhicule à roues.[^8-4]
 
@@ -275,7 +269,7 @@ Il est recommandé que les législations nationales prévoient que, sauf déroga
 
 <sup>1.</sup> Le sens de la circulation doit être le même sur toutes les routes d’un État, réserve faite, le cas échéant, des routes servant exclusivement ou principalement au transit entre deux autres États.
 
-...[^10-2]
+…[^10-2]
 
 <sup>2.</sup> Les animaux circulant sur la chaussée doivent être maintenus, dans toute la mesure possible, près du bord de la chaussée correspondant au sens de la circulation.
 
@@ -459,9 +453,9 @@ Sous réserve des dispositions du paragraphe 7 du présent article:
 
 <sup>6.</sup> Tout conducteur engagé dans une intersection où la circulation est réglée par des signaux lumineux de circulation peut évacuer l’intersection sans attendre que la circulation soit ouverte dans le sens où il va s’engager, mais à condition de ne pas gêner la circulation des autres usagers de la route qui avancent dans le sens où la circulation est ouverte.
 
-7 ...[^18-3] Les conducteurs de véhicules ne se déplaçant pas sur rails ont l’obligation de céder le passage aux véhicules se déplaçant sur rails.
+7 …[^18-3] Les conducteurs de véhicules ne se déplaçant pas sur rails ont l’obligation de céder le passage aux véhicules se déplaçant sur rails.
 
-...[^18-4]
+…[^18-4]
 
 [^18-1]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 15).
 [^18-2]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 15).
@@ -495,7 +489,7 @@ S’il existe, en bordure de la chaussée, des trottoirs ou des accotements prat
 
 - a) les piétons qui poussent ou qui portent des objets encombrants peuvent emprunter la chaussée si leur circulation sur le trottoir ou l’accotement devait causer une gêne importante aux autres piétons;
 - b) les groupes de piétons conduits par un moniteur, ou formant un cortège, peuvent circuler sur la chaussée.
-- [tab] ...[^20-2]
+- [tab] …[^20-2]
 
 <sup>3.</sup> S’il n’est pas possible d’utiliser les trottoirs ou les accotements ou en l’absence de ceux-ci, les piétons peuvent circuler sur la chaussée; lorsqu’il existe une piste cyclable et lorsque la densité de la circulation le leur permet, ils peuvent circuler sur cette piste cyclable, mais sans gêner le passage des cyclistes et des cyclomotoristes.
 
@@ -543,7 +537,7 @@ Sans préjudice des dispositions du paragraphe 1 de l’article 7, du paragraphe
 
 <sup>4.</sup> Les conducteurs ayant l’intention de dépasser, du côté correspondant au sens de la circulation, un véhicule de transport public à un arrêt signalé comme tel doivent réduire leur vitesse et au besoin s’arrêter pour permettre aux voyageurs de monter dans ce véhicule ou d’en descendre.
 
-...[^21-3]
+…[^21-3]
 
 [^21-1]: Mis à jour selon les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^21-2]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 17).
@@ -579,7 +573,7 @@ Sans préjudice des dispositions de l’article 10 de la présente Convention, t
 
   - i) sur les passages pour piétons, sur les passages pour cyclistes et sur les passages à niveau;
   - ii) sur les voies de tramways ou de trains sur route ou si près de ces voies que la circulation de ces tramways ou de ces trains pourrait se trouver entravée, ainsi que, sous réserve de la possibilité pour les Parties contractantes ou leurs subdivisions de prévoir des dispositions contraires, sur les trottoirs et les pistes cyclables.
-  - [tab] ...[^23-5]
+  - [tab] …[^23-5]
 
 - b)
 
@@ -599,7 +593,7 @@ Sans préjudice des dispositions de l’article 10 de la présente Convention, t
   - ii) devant les entrées carrossables des propriétés;
   - iii) à tout emplacement où le véhicule en stationnement empêcherait l’accès à un autre véhicule régulièrement stationné ou le dégagement d’un tel véhicule;
   - iv) sur la chaussée centrale des routes à trois chaussées et, en dehors des agglomérations, sur les chaussées des routes indiquées comme prioritaires par une signalisation appropriée.
-  - v) ...[^23-9]
+  - v) …[^23-9]
 
 <sup>4.</sup> Un conducteur ne doit pas quitter son véhicule ou ses animaux sans avoir pris toutes les précautions utiles pour éviter tout accident et, dans le cas d’une automobile, pour éviter qu’elle ne soit utilisée sans autorisation.
 
@@ -610,7 +604,7 @@ Sans préjudice des dispositions de l’article 10 de la présente Convention, t
 
 <sup>6.</sup> Rien dans le présent article ne saurait être interprété comme empêchant les Parties contractantes ou leurs subdivisions d’introduire d’autres dispositions en matière de stationnement et d’arrêt ou d’adopter des dispositions distinctes pour le stationnement et l’arrêt des cycles et des cyclomoteurs.[^23-11]
 
-...[^23-12]
+…[^23-12]
 
 [^23-1]: Nouvelle teneur selon les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^23-2]: Nouvelle teneur de la phrase selon les Am. du 28 sept. 2004, en vigueur depuis le 28 mars 2006 ([RO 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
@@ -644,13 +638,13 @@ Il est interdit d’ouvrir la portière d’un véhicule, de la laisser ouverte 
 
   - i) d’arrêter leurs véhicules ou de stationner ailleurs qu’aux places de stationnement signalées; en cas d’immobilisation forcée d’un véhicule, son conducteur doit s’efforcer de l’amener hors de la chaussée et aussi hors de la bande d’urgence et, s’il ne peut le faire, signaler immédiatement à distance la présence du véhicule, pour avertir suffisamment à temps les autres conducteurs qui s’approchent,
   - ii) de faire demi-tour ou marche arrière ou de pénétrer sur la bande de terrain centrale, y compris les raccordements transversaux reliant entre elles les deux chaussées.
-  - [tab] ...[^25-2]
+  - [tab] …[^25-2]
 
 <sup>2.</sup> Les conducteurs débouchant sur une autoroute doivent céder le passage aux véhicules qui y circulent. S’il existe une voie d’accélération, ils doivent l’emprunter.[^25-3]
 
 <sup>3.</sup> Le conducteur qui quitte l’autoroute doit, suffisamment à temps, emprunter la voie de circulation correspondant à la sortie de l’autoroute et s’engager au plus tôt sur la voie de décélération si une telle voie existe.
 
-...[^25-4]
+…[^25-4]
 
 4.[^25-5] Pour l’application des paragraphes 1, 2 et 3 du présent article, sont assimilées aux autoroutes les autres routes réservées à la circulation automobile dûment signalées comme telles et ne desservant pas les propriétés riveraines.
 
@@ -672,7 +666,7 @@ Il est interdit à tout conducteur:
 
 - a) de faire marche arrière;
 - b) de faire demi-tour;
-- c)[^25bis-2] ...
+- c)[^25bis-2] …
 
 <sup>2.</sup> Même si le tunnel est éclairé, tout conducteur doit allumer ses feux de route ou ses feux de croisement.
 
@@ -705,7 +699,7 @@ Il est interdit à tout conducteur:
 
 4.[^27-2] Lorsqu’il existe une voie cyclable ou une piste cyclable, les Parties contractantes ou leurs subdivisions peuvent interdire aux cyclistes de circuler sur le reste de la chaussée. Dans le même cas, elles peuvent autoriser les cyclomotoristes à circuler sur la voie cyclable ou la piste cyclable et, si elles le jugent opportun, leur interdire de circuler sur le reste de la chaussée. La législation nationale doit préciser dans quelles conditions d’autres usagers de la route peuvent utiliser la voie cyclable ou la piste cyclable ou les traverser, de telle manière que la sécurité des cyclistes soit tout le temps assurée.[^27-3]
 
-...[^27-4]
+…[^27-4]
 
 [^27-1]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 20).
 [^27-2]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 20).
@@ -743,7 +737,7 @@ Il peut seulement être fait usage des avertisseurs sonores:
 
 2.[^29-1] Les Parties contractantes ou leurs subdivisions peuvent adopter pour la circulation sur route des véhicules se déplaçant sur rails et pour le croisement ou le dépassement de ces véhicules des règles spéciales différentes de celles qui sont définies au présent chapitre. Toutefois, les Parties contractantes ou leurs subdivisions ne peuvent adopter de dispositions contraires à celles du paragraphe 7 de l’article 18 de la présente Convention.
 
-...[^29-2]
+…[^29-2]
 
 [^29-1]: Voir aussi la teneur de l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 21).
 [^29-2]: Pour le par. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 21).
@@ -794,7 +788,7 @@ Sans préjudice des dispositions des législations nationales en ce qui concerne
 - b) s’efforcer d’assurer la sécurité de la circulation au lieu de l’accident et , si une personne a été tuée ou grièvement blessée dans l’accident, d’éviter, dans la mesure où cela n’affecte pas la sécurité de la circulation, la modification de l’état des lieux et la disparition des traces qui peuvent être utiles pour établir les responsabilités;
 - c) si d’autres personnes impliquées dans l’accident le lui demandent, leur communiquer son identité;
 - d) si une personne a été blessée ou tuée dans l’accident, avertir la police et rester ou revenir sur le lieu de l’accident jusqu’à l’arrivée de celle-ci, à moins qu’il n’ait été autorisé par elle à quitter les lieux ou qu’il ne doive porter secours aux blessés ou être lui-même soigné.
-- [tab] ...[^31-1]
+- [tab] …[^31-1]
 
 <sup>2.</sup> Les Parties contractantes ou leurs subdivisions peuvent, dans leur législation nationale, s’abstenir d’imposer la prescription prévue à l’alinéa d du paragraphe 1 du présent article, lorsqu’aucune blessure grave n’a été causée et qu’aucune des personnes impliquées dans l’accident n’exige que la police soit avertie.
 
@@ -1059,7 +1053,7 @@ Les dispositions du présent article n’obligent pas les Parties contractantes:
 - a) à reconnaître la validité des permis nationaux qui auraient été délivrés sur le territoire d’une autre Partie contractante à des personnes qui avaient leur résidence normale sur leur territoire au moment de cette délivrance ou dont la résidence normale a été transférée sur leurterritoire depuis cette délivrance;
 - b) à reconnaître la validité des permis nationaux qui auraient été délivrés à des conducteurs dont la résidence normale au moment de la délivrance ne se trouvait pas sur le territoire dans lequel le permis a été délivré ou dont la résidence a été transférée depuis cette délivrance sur un autre territoire.[^41-8]
 
-<sup>7.</sup> ... [^41-9]
+<sup>7.</sup> … [^41-9]
 
 [^41-1]: Mis à jour selon les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^41-2]: Nouvelle teneur selon les Am. du 28 sept. 2004, en vigueur depuis le 28 mars 2006 ([RO 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
@@ -1109,7 +1103,7 @@ Les cycles sans moteur en circulation internationale doivent:
 - a) avoir un frein efficace;
 - b) être munis d’un timbre susceptible d’être entendu à une distance suffisante et ne porter aucun autre avertisseur sonore;
 - c) être munis d’un dispositif réfléchissant rouge vers l’arrière et de dispositifs permettant de montrer un feu blanc ou jaune sélectif vers l’avant et un feu rouge vers l’arrière.
-- [tab] ...[^44-1]
+- [tab] …[^44-1]
 
 <sup>2.</sup>
 
@@ -1120,7 +1114,7 @@ Sur le territoire des Parties contractantes qui n’ont pas, conformément au pa
 - c) être munis d’un dispositif d’échappement silencieux efficace;
 - d)[^44-2] être munis de dispositifs permettant de montrer un feu blanc ou jaune sélectif à l’avant, ainsi qu’un feu rouge et un dispositif réfléchissant rouge à l’arrière;
 - e) porter la marque d’identification définie à l’annexe 4 de la présente Convention.
-- [tab] ...[^44-3]
+- [tab] …[^44-3]
 
 <sup>3.</sup> Sur le territoire des Parties contractantes qui ont, conformément au paragraphe 2 de l’article 54 de la présente Convention, fait une déclaration assimilant les cyclomoteurs aux motocycles, les conditions à remplir par les cyclomoteurs pour être admis en circulation internationale sont celles qui sont définies pour les motocycles à l’annexe 5 de la présente Convention.
 
@@ -1236,11 +1230,11 @@ L’original de la présente Convention, fait en un seul exemplaire, en langues 
 
 *En foi de quoi,* les plénipotentiaires soussignés, dûment autorisés par leurs gouvernements respectifs, ont signé la présente Convention. Fait à Vienne, ce huitième jour de novembre mil neuf cent soixante-huit.
 
-Annexe 1*[^t-2]*
+Annexe 1[^t-2]
 
 ## Annexes
 
-[^t-2]: Mis à jour par les Am. du 28 sept. 2004, en vigueur depuis le 28 mars 2006 ([RO 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
+[^t-2]: Mise à jour par les Am. du 28 sept. 2004, en vigueur depuis le 28 mars 2006 ([RO 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
 
 ### Dérogations à l’obligation d’admettre en circulation internationale les automobiles et les remorques
 
@@ -1268,7 +1262,7 @@ Annexe 1*[^t-2]*
 
 \7. Les Parties contractantes peuvent subordonner l’admission en circulation internationale, sur certaines routes difficiles ou dans certaines régions à relief difficile de leur territoire, des automobiles dont la masse maximale autorisée dépasse 3500 kg (7700 livres) au respect des prescriptions spéciales imposées par leur législation nationale pour l’admission sur ces routes ou dans ces régions des véhicules de même masse maximale autorisée qu’elles immatriculent.
 
-7<sup>bis</sup> ...[^annex1-lvlu1-lvlu1-1]
+7<sup>bis</sup> …[^annex1-lvlu1-lvlu1-1]
 
 \8. Les Parties contractantes peuvent ne pas admettre en circulation internationale sur leur territoire toute automobile munie de feux-croisement à faisceau asymétrique lorsque le réglage des faisceaux n’est pas adapté au sens de circulation sur leur territoire.
 
@@ -1276,7 +1270,7 @@ Annexe 1*[^t-2]*
 
 [^annex1-lvlu1-lvlu1-1]: Pour le par. introduit, voir l’Ac. européen du 1<sup>er</sup> mai 1971 complétant la Conv. ([RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)annexe ch. 28).
 
-Annexe 2*[^t-3]*
+Annexe 2[^t-3]
 
 ## Numéro et plaque d’immatriculation des automobiles et des remorques en circulation internationale
 
@@ -1292,7 +1286,7 @@ Annexe 2*[^t-3]*
 
 \5. Le fond de la partie de la plaque d’immatriculation où est incorporé le signe distinctif doit être du même matériau que celui utilisé pour le fond de la partie sur laquelle est inscrit le numéro d’immatriculation.
 
-Annexe 3*[^t-4]*
+Annexe 3[^t-4]
 
 ## Signe distinctif des automobiles et des remorques en circulation internationale
 
@@ -1344,11 +1338,11 @@ Annexe 4
 
 2 Les marques mentionnées au paragraphe 1 de la présente annexe doivent être placées à des endroits accessibles et être facilement lisibles; de plus, elles doivent être telles qu’il soit difficile de les modifier ou de les supprimer. Les lettres et les chiffres compris dans les marques seront soit uniquement en caractères latins ou en cursive dite anglaise et en chiffres arabes, soit répétés de cette façon.
 
-Annexe 5*[^t-5]*
+Annexe 5[^t-5]
 
 ## Conditions techniques relatives aux automobiles et aux remorques
 
-[^t-5]: Mis à jour par les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
+[^t-5]: Mise à jour par les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 
 \1. Sans préjudice des dispositions du paragraphe 2a) de l’article 3 et du paragraphe 1 de l’article 39 de la présente Convention, toute Partie contractante peut, pour les automobiles qu’elle immatricule et pour les remorques qu’elle admet à la circulation en vertu de sa législation nationale, imposer des prescriptions complétant les dispositions de la présente annexe ou plus rigoureuses que celles-ci. Tout véhicule en circulation internationale doit satisfaire aux prescriptions techniques en vigueur dans son pays d’immatriculation lors de sa première mise en service.
 
@@ -1478,7 +1472,7 @@ Cependant, cette condition n’est pas imposée pour les feux-route ou les feux-
 
 - a) tout motocycle à deux roues avec ou sans side-car doit être muni d’un ou de deux feux-croisement satisfaisant aux dispositions de couleur et de visibilité fixées au paragraphe 22 ci-dessus;
 - b) tout motocycle à deux roues avec ou sans side-car, susceptible de dépasser en palier la vitesse de 40 km (25 miles) à l’heure doit être muni, en plus du feu-croisement, d’au moins un feu-route satisfaisant aux dispositions de couleur et de visibilité fixées au paragraphe 21 ci-dessus. Si ce motocycle comporte plusieurs feux-route, ces feux doivent être situés le plus près possible l’un de l’autre;
-- c) ...
+- c) …
 
 \33. Tout motocycle à deux roues sans side-car peut être muni à l’avant d’un ou de deux feux-position avant satisfaisant aux conditions de couleur et de visibilité fixées au paragraphe 23 ci-dessus. Si ce motocycle comporte deux feux-position avant, ceux-ci doivent être situés le plus près possible l’un de l’autre.
 
@@ -1654,7 +1648,7 @@ Appendice
 
 Pour la vérification des caractéristiques colorimétriques de ces filtres, il sera employé une source lumineuse à température de couleur de 2854°K (correspondant à l’illuminant A de la Commission internationale de l’éclairage [CIE]).
 
-Annexe 6*[^t-6]*
+Annexe 6[^t-6]
 
 ## Permis national de conduire
 
@@ -1718,22 +1712,22 @@ Annexe 6*[^t-6]*
 
 <table>
 <tr><td colspan="2">Code de la catégorie / Pictogramme</td><td colspan="2">Code de la sous-catégorie / Pictogramme</td></tr>
-<tr><td>A</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/fr/xml/image/image1.png)</td><td>A1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/fr/xml/image/image2.png)</td></tr>
-<tr><td>B</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/fr/xml/image/image3.png)</td><td>B1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/fr/xml/image/image4.png)</td></tr>
-<tr><td>C</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/fr/xml/image/image5.png)</td><td>C1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/fr/xml/image/image6.png)</td></tr>
-<tr><td>D</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/fr/xml/image/image7.png)</td><td>D1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/fr/xml/image/image8.png)</td></tr>
-<tr><td>BE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/fr/xml/image/image9.png)</td><td></td><td></td></tr>
-<tr><td>CE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/fr/xml/image/image10.png)</td><td>C1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/fr/xml/image/image11.png)</td></tr>
-<tr><td>DE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/fr/xml/image/image12.png)</td><td>D1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/fr/xml/image/image13.png)</td></tr>
+<tr><td>A</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/fr/xml/image/image1.png)</td><td>A1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/fr/xml/image/image2.png)</td></tr>
+<tr><td>B</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/fr/xml/image/image3.png)</td><td>B1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/fr/xml/image/image4.png)</td></tr>
+<tr><td>C</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/fr/xml/image/image5.png)</td><td>C1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/fr/xml/image/image6.png)</td></tr>
+<tr><td>D</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/fr/xml/image/image7.png)</td><td>D1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/fr/xml/image/image8.png)</td></tr>
+<tr><td>BE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/fr/xml/image/image9.png)</td><td></td><td></td></tr>
+<tr><td>CE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/fr/xml/image/image10.png)</td><td>C1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/fr/xml/image/image11.png)</td></tr>
+<tr><td>DE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/fr/xml/image/image12.png)</td><td>D1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/fr/xml/image/image13.png)</td></tr>
 </table>
 
 [^annex6-lvlu1-1]: Le lieu de naissance peut être remplacé par d’autres précisions définies par la législation nationale.
 
-Annexe 7*[^t-7]*
+Annexe 7[^t-7]
 
 ## Permis international de conduire
 
-[^t-7]: Mis à jour par les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)) et par les Am. du 28 sept. 2004, en vigueur depuis le 28 mars 2006 ([RO 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
+[^t-7]: Mise à jour par les Am. en vigueur depuis le 3 sept. 1993 ([RO 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)) et par les Am. du 28 sept. 2004, en vigueur depuis le 28 mars 2006 ([RO 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
 
 \1. Le permis est un livret de format A6 (148 x 105 mm - 5,82 X 4,13 pouces). Sa couverture est grise; ses pages intérieures sont blanches.
 
@@ -1751,7 +1745,7 @@ Annexe 7*[^t-7]*
 <tr><td></td><td><sup>1)</sup></td><td></td></tr>
 <tr><td></td><td>Circulation automobile internationale</td><td></td></tr>
 <tr><td></td><td>Permis international de conduire</td><td></td></tr>
-<tr><td></td><td>N<sup>o</sup> ...............</td><td></td></tr>
+<tr><td></td><td>N<sup>o</sup> ……………</td><td></td></tr>
 <tr><td></td><td>Convention sur la circulation routière du huit novembre 1968</td><td></td></tr>
 <tr><td></td><td>Valable jusqu’au <sup>2)</sup></td><td></td></tr>
 <tr><td></td><td>Délivré par</td><td></td></tr>
@@ -1771,114 +1765,119 @@ Annexe 7*[^t-7]*
 
 (Verso du premier feuillet de la couverture)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/fr/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/fr/xml/image/image14.png)
 
 **Modèle 3** (page de gauche)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/fr/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/fr/xml/image/image15.png)
 
 Modèle 3 (page de droite)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/fr/xml/image/image16.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/fr/xml/image/image16.png)
 
-Champ d’application le 15 juillet 2022**[^t-8]**
+Champ d’application le 2 octobre 2024[^t-8]
 
 <table>
-<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th colspan="2"></th><th>Entrée en vigueur</th><th colspan="2"></th></tr>
-<tr><td>Afrique du Sud\*</td><td colspan="2">1<sup>er</sup> novembre</td><td>1977 A</td><td>1<sup>er</sup> novembre</td><td colspan="2">1978</td></tr>
-<tr><td>Albanie</td><td colspan="2">29 juin</td><td>2000 A</td><td>29 juin</td><td colspan="2">2001</td></tr>
-<tr><td>Allemagne\*</td><td colspan="2">3 août</td><td>1978</td><td>3 août</td><td colspan="2">1979</td></tr>
-<tr><td>Arabie Saoudite\*</td><td colspan="2">12 mai</td><td>2016 A</td><td>12 mai</td><td colspan="2">2017</td></tr>
-<tr><td>Arménie</td><td colspan="2">8 février</td><td>2005 A</td><td>8 février</td><td colspan="2">2006</td></tr>
-<tr><td>Autriche</td><td colspan="2">11 août</td><td>1981</td><td>11 août</td><td colspan="2">1982</td></tr>
-<tr><td>Azerbaïdjan</td><td colspan="2">3 juillet</td><td>2002 A</td><td>3 juillet</td><td colspan="2">2003</td></tr>
-<tr><td>Bahamas</td><td colspan="2">14 mai</td><td>1991 A</td><td>14 mai</td><td colspan="2">1992</td></tr>
-<tr><td>Bahreïn</td><td colspan="2">4 mai</td><td>1973 A</td><td>21 mai</td><td colspan="2">1977</td></tr>
-<tr><td>Bélarus\*</td><td colspan="2">18 juin</td><td>1974</td><td>21 mai</td><td colspan="2">1977</td></tr>
-<tr><td>Belgique\*</td><td colspan="2">16 novembre</td><td>1988</td><td>16 novembre</td><td colspan="2">1989</td></tr>
-<tr><td>Bénin</td><td>7 juillet</td><td colspan="2">2022 A</td><td>7 juillet</td><td colspan="2">2023</td></tr>
-<tr><td>Bosnie et Herzégovine</td><td colspan="2">1<sup>er</sup> septembre</td><td>1993 S</td><td>6 mars</td><td colspan="2">1992</td></tr>
-<tr><td>Brésil\*</td><td colspan="2">29 octobre</td><td>1980</td><td>29 octobre</td><td colspan="2">1981</td></tr>
-<tr><td>Bulgarie\*</td><td colspan="2">28 décembre</td><td>1978</td><td colspan="2">28 décembre</td><td colspan="2">1979</td></tr>
-<tr><td>Cabo Verde</td><td colspan="2">12 juin</td><td>2018 A</td><td colspan="2">12 juin</td><td colspan="2">2019</td></tr>
-<tr><td>Congo (Kinshasa) \*</td><td colspan="2">25 juillet</td><td>1977 A</td><td>25 juillet</td><td colspan="2">1978</td></tr>
-<tr><td>Côte d’Ivoire\*</td><td colspan="2">24 juillet</td><td>1985 A</td><td>24 juillet</td><td colspan="2">1986</td></tr>
-<tr><td>Croatie</td><td colspan="2">23 novembre</td><td>1992 S</td><td>8 octobre</td><td colspan="2">1991</td></tr>
-<tr><td>Cuba\*</td><td colspan="2">30 septembre</td><td>1977 A</td><td>30 septembre</td><td colspan="2">1978</td></tr>
-<tr><td>Danemark\* <sup>a</sup></td><td colspan="2">3 novembre</td><td>1986</td><td>3 novembre</td><td colspan="2">1987</td></tr>
-<tr><td>émirats arabes unis</td><td colspan="2">10 janvier</td><td>2007 A</td><td>10 janvier</td><td colspan="2">2008</td></tr>
-<tr><td>Estonie\*</td><td colspan="2">24 août</td><td>1992 A</td><td>24 août</td><td colspan="2">1993</td></tr>
-<tr><td>Éthiopie</td><td>25 août</td><td colspan="2">2021 A</td><td>25 août</td><td colspan="2">2022</td></tr>
-<tr><td>Finlande\*</td><td colspan="2">1<sup>er</sup> avril</td><td>1985</td><td colspan="2">1<sup>er</sup> avril</td><td colspan="2">1986</td></tr>
-<tr><td>France</td><td colspan="2">9 décembre</td><td>1971</td><td>21 mai</td><td colspan="2">1977</td></tr>
-<tr><td>[tab] Territoires d’outre-mer</td><td colspan="2">9 décembre</td><td>1971</td><td>21 mai</td><td colspan="2">1977</td></tr>
-<tr><td>Géorgie</td><td colspan="2">23 juillet</td><td>1993 A</td><td>23 juillet</td><td colspan="2">1994</td></tr>
-<tr><td>Grèce</td><td colspan="2">18 décembre</td><td>1986 A</td><td>18 décembre</td><td colspan="2">1987</td></tr>
-<tr><td>Guyana</td><td colspan="2">31 janvier</td><td>1973 A</td><td>21 mai</td><td colspan="2">1977</td></tr>
-<tr><td>Honduras\*</td><td colspan="2">3 février</td><td>2020 A</td><td>3 février</td><td colspan="2">2021</td></tr>
-<tr><td>Hongrie\*</td><td colspan="2">16 mars</td><td>1976</td><td>21 mai</td><td colspan="2">1977</td></tr>
-<tr><td>Iran</td><td colspan="2">21 mai</td><td>1976</td><td>21 mai</td><td colspan="2">1977</td></tr>
-<tr><td>Iraq</td><td colspan="2">1<sup>er</sup> février</td><td>2017 A</td><td>1<sup>er</sup> février</td><td colspan="2">2018</td></tr>
-<tr><td>Israël\*</td><td colspan="2">11 mai</td><td>1971</td><td>21 mai</td><td colspan="2">1977</td></tr>
-<tr><td>Italie</td><td colspan="2">2 octobre</td><td>1996</td><td>2 octobre</td><td colspan="2">1997</td></tr>
-<tr><td>Kazakhstan</td><td colspan="2">4 avril</td><td>1994 A</td><td>4 avril</td><td colspan="2">1995</td></tr>
-<tr><td>Kenya</td><td>9 septembre</td><td colspan="2">2009 A</td><td>9 septembre</td><td colspan="2">2010</td></tr>
-<tr><td>Kirghizistan</td><td colspan="2">30 août</td><td>2006 A</td><td>30 août</td><td colspan="2">2007</td></tr>
-<tr><td>Koweït\*</td><td colspan="2">14 mars</td><td>1980 A</td><td>14 mars</td><td colspan="2">1981</td></tr>
-<tr><td>Lettonie</td><td colspan="2">19 octobre</td><td>1992 A</td><td>19 octobre</td><td colspan="2">1993</td></tr>
-<tr><td>Libéria</td><td colspan="2">16 septembre</td><td>2005 A</td><td>16 septembre</td><td colspan="2">2006</td></tr>
-<tr><td>Liechtenstein\*</td><td colspan="2">2 mars</td><td>2020 A</td><td>2 mars</td><td colspan="2">2021</td></tr>
-<tr><td>Lituanie\*</td><td colspan="2">20 novembre</td><td>1991 A</td><td>20 novembre</td><td colspan="2">1992</td></tr>
-<tr><td>Luxembourg</td><td colspan="2">25 novembre</td><td>1975</td><td>21 mai</td><td colspan="2">1977</td></tr>
-<tr><td>Macédoine du Nord</td><td>18 août</td><td colspan="2">1993 S</td><td>17 novembre</td><td colspan="2">1991</td></tr>
-<tr><td>Maroc\*</td><td colspan="2">29 décembre</td><td>1982 A</td><td>29 décembre</td><td colspan="2">1983</td></tr>
-<tr><td>Moldova</td><td colspan="2">26 mai</td><td>1993 A</td><td>26 mai</td><td colspan="2">1994</td></tr>
-<tr><td>Monaco\*</td><td colspan="2">6 juin</td><td>1978 A</td><td>6 juin</td><td colspan="2">1979</td></tr>
-<tr><td>Mongolie</td><td colspan="2">19 décembre</td><td>1997 A</td><td>19 décembre</td><td colspan="2">1998</td></tr>
-<tr><td>Monténégro</td><td colspan="2">23 octobre</td><td>2006 S</td><td>3 juin</td><td colspan="2">2006</td></tr>
-<tr><td>Myanmar\*</td><td colspan="2">26 juin</td><td>2019 A</td><td>26 juin</td><td colspan="2">2010</td></tr>
-<tr><td>Niger</td><td colspan="2">11 juillet</td><td>1975 A</td><td>21 mai</td><td colspan="2">1977</td></tr>
-<tr><td>Nigéria</td><td colspan="2">18 octobre</td><td>2018 A</td><td>18 octobre</td><td colspan="2">2019</td></tr>
-<tr><td>Norvège\*</td><td colspan="2">1<sup>er</sup> avril</td><td>1985</td><td>1<sup>er</sup> avril</td><td colspan="2">1986</td></tr>
-<tr><td>Oman\*</td><td>9 juin</td><td colspan="2">2020 A</td><td>9 juin</td><td colspan="2">2021</td></tr>
-<tr><td>Ouzbékistan</td><td colspan="2">17 janvier</td><td>1995 A</td><td>17 janvier</td><td colspan="2">1996</td></tr>
-<tr><td>Pakistan</td><td colspan="2">19 mars</td><td>1986 A</td><td>19 mars</td><td colspan="2">1987</td></tr>
-<tr><td>Palestine</td><td colspan="2">11 novembre</td><td>2019 A</td><td>11 novembre</td><td colspan="2">2020</td></tr>
-<tr><td>Pays-Bas\* <sup>b</sup></td><td>8 novembre</td><td colspan="2">2007 A</td><td>8 novembre</td><td colspan="2">2008</td></tr>
-<tr><td>Pérou</td><td colspan="2">6 octobre</td><td>2006 A</td><td>6 octobre</td><td colspan="2">2007</td></tr>
-<tr><td>Philippines</td><td colspan="2">27 décembre</td><td>1973</td><td>21 mai</td><td colspan="2">1977</td></tr>
-<tr><td>Pologne</td><td colspan="2">23 août</td><td>1984</td><td>23 août</td><td colspan="2">1985</td></tr>
-<tr><td>Portugal</td><td>30 septembre</td><td colspan="2">2010</td><td>30 octobre</td><td colspan="2">2011</td></tr>
-<tr><td>Qatar\*</td><td>6 mars</td><td colspan="2">2013 A</td><td>6 mars</td><td colspan="2">2014</td></tr>
-<tr><td>République centrafricaine</td><td colspan="2">3 février</td><td>1988 A</td><td>3 février</td><td colspan="2">1989</td></tr>
-<tr><td>République tchèque</td><td colspan="2">2 juin</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td colspan="2">1993</td></tr>
-<tr><td>Roumanie\*</td><td colspan="2">9 décembre</td><td>1981</td><td>9 décembre</td><td colspan="2">1981</td></tr>
-<tr><td>Royaume-Uni\*</td><td colspan="2">28 mars</td><td>2018</td><td>28 mars</td><td colspan="2">2019</td></tr>
-<tr><td>Gibraltar\*</td><td colspan="2">26 février</td><td>2019</td><td>31 mars</td><td colspan="2">2019</td></tr>
-<tr><td>Guernesey\*</td><td colspan="2">26 février</td><td>2019</td><td>31 mars</td><td colspan="2">2019</td></tr>
-<tr><td>Jersey\*</td><td colspan="2">26 février</td><td>2019</td><td>31 mars</td><td colspan="2">2019</td></tr>
-<tr><td>Russie\*</td><td colspan="2">7 juin</td><td>1974</td><td>21 mai</td><td colspan="2">1977</td></tr>
-<tr><td>Saint-Marin</td><td colspan="2">20 juillet</td><td>1970</td><td>21 mai</td><td colspan="2">1977</td></tr>
-<tr><td>Sénégal</td><td colspan="2">16 août</td><td>1972 A</td><td>21 mai</td><td colspan="2">1977</td></tr>
-<tr><td>Serbie</td><td colspan="2">12 mars</td><td>2001 S</td><td>27 avril</td><td colspan="2">1992</td></tr>
-<tr><td>Seychelles</td><td colspan="2">11 avril</td><td>1977 A</td><td>11 avril</td><td colspan="2">1978</td></tr>
-<tr><td>Slovaquie</td><td colspan="2">1<sup>er</sup> février</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td colspan="2">1993</td></tr>
-<tr><td>Slovénie</td><td colspan="2">6 juillet</td><td>1992 S</td><td>25 juin</td><td colspan="2">1991</td></tr>
-<tr><td>Suède\*</td><td colspan="2">25 juillet</td><td>1985</td><td>25 juillet</td><td colspan="2">1986</td></tr>
-<tr><td>Suisse\*</td><td colspan="2">11 décembre</td><td>1991</td><td>11 décembre</td><td colspan="2">1992</td></tr>
-<tr><td>Tadjikistan</td><td colspan="2">9 mars</td><td>1994 A</td><td>9 mars</td><td colspan="2">1995</td></tr>
-<tr><td>Thaïlande\*</td><td colspan="2">1<sup>er</sup> mai</td><td>2020</td><td>1<sup>er</sup> mai</td><td colspan="2">2021</td></tr>
-<tr><td>Tunisie\*</td><td colspan="2">5 janvier</td><td>2004 A</td><td>5 janvier</td><td colspan="2">2005</td></tr>
-<tr><td>Turkménistan</td><td colspan="2">14 juin</td><td>1993 A</td><td>14 juin</td><td colspan="2">1994</td></tr>
-<tr><td>Turquie\*</td><td>22 janvier</td><td colspan="2">2013 A</td><td>22 janvier</td><td colspan="2">2014</td></tr>
-<tr><td>Ukraine\*</td><td>12 juillet</td><td colspan="2">1974</td><td>21 mai</td><td colspan="2">1977</td></tr>
-<tr><td>Uruguay\*</td><td colspan="2">8 avril</td><td>1981 A</td><td>8 avril</td><td colspan="2">1982</td></tr>
-<tr><td>Vietnam\*</td><td colspan="2">20 août</td><td>2014 A</td><td>20 août</td><td colspan="2">2015</td></tr>
-<tr><td>Zimbabwe\*</td><td colspan="2">31 juillet</td><td>1981 A</td><td>31 juillet</td><td colspan="2">1982</td></tr>
-<tr><td colspan="7">\* Réserves et déclarations. (les \* de tous les États parties concernant le signe distinctif des véhicules en circulation internationale, selon l’art. 45, par. 4, ne figurent pas dans le champ d’application ci-dessus). Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus à la Direction du droit internationalpublic (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas aux îles Féroé et au Groenland. <sup>b</sup> Pour le Royaume en Europe.</td></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th colspan="2"></th></tr>
+<tr><td>Afrique du Sud\*</td><td>1<sup>er</sup> novembre</td><td>1977 A</td><td>1<sup>er</sup> novembre</td><td colspan="2">1978</td></tr>
+<tr><td>Albanie</td><td>29 juin</td><td>2000 A</td><td>29 juin</td><td colspan="2">2001</td></tr>
+<tr><td>Allemagne\*</td><td>3 août</td><td>1978</td><td>3 août</td><td colspan="2">1979</td></tr>
+<tr><td>Andorre</td><td>25 septembre</td><td>2024 A</td><td>25 septembre</td><td colspan="2">2025</td></tr>
+<tr><td>Arabie Saoudite\*</td><td>12 mai</td><td>2016 A</td><td>12 mai</td><td colspan="2">2017</td></tr>
+<tr><td>Arménie</td><td>8 février</td><td>2005 A</td><td>8 février</td><td colspan="2">2006</td></tr>
+<tr><td>Autriche</td><td>11 août</td><td>1981</td><td>11 août</td><td colspan="2">1982</td></tr>
+<tr><td>Azerbaïdjan</td><td>3 juillet</td><td>2002 A</td><td>3 juillet</td><td colspan="2">2003</td></tr>
+<tr><td>Bahamas</td><td>14 mai</td><td>1991 A</td><td>14 mai</td><td colspan="2">1992</td></tr>
+<tr><td>Bahreïn</td><td>4 mai</td><td>1973 A</td><td>21 mai</td><td colspan="2">1977</td></tr>
+<tr><td>Bélarus\*</td><td>18 juin</td><td>1974</td><td>21 mai</td><td colspan="2">1977</td></tr>
+<tr><td>Belgique\*</td><td>16 novembre</td><td>1988</td><td>16 novembre</td><td colspan="2">1989</td></tr>
+<tr><td>Bénin</td><td>7 juillet</td><td>2022 A</td><td>7 juillet</td><td colspan="2">2023</td></tr>
+<tr><td>Bosnie et Herzégovine</td><td>1<sup>er</sup> septembre</td><td>1993 S</td><td>6 mars</td><td colspan="2">1992</td></tr>
+<tr><td>Brésil\*</td><td>29 octobre</td><td>1980</td><td>29 octobre</td><td colspan="2">1981</td></tr>
+<tr><td>Bulgarie\*</td><td>28 décembre</td><td>1978</td><td colspan="2">28 décembre</td><td colspan="2">1979</td></tr>
+<tr><td>Cap-Vert</td><td>12 juin</td><td>2018 A</td><td colspan="2">12 juin</td><td colspan="2">2019</td></tr>
+<tr><td>Congo (Kinshasa) \*</td><td>25 juillet</td><td>1977 A</td><td>25 juillet</td><td colspan="2">1978</td></tr>
+<tr><td>Côte d’Ivoire\*</td><td>24 juillet</td><td>1985 A</td><td>24 juillet</td><td colspan="2">1986</td></tr>
+<tr><td>Croatie</td><td>23 novembre</td><td>1992 S</td><td>8 octobre</td><td colspan="2">1991</td></tr>
+<tr><td>Cuba\*</td><td>30 septembre</td><td>1977 A</td><td>30 septembre</td><td colspan="2">1978</td></tr>
+<tr><td>Danemark\* <sup>a</sup></td><td>3 novembre</td><td>1986</td><td>3 novembre</td><td colspan="2">1987</td></tr>
+<tr><td>Égypte</td><td>15 décembre</td><td>2023 A</td><td>15 décembre</td><td colspan="2">2024</td></tr>
+<tr><td>El Salvador\*</td><td>27 août</td><td>2024 A</td><td>27 août</td><td colspan="2">2025</td></tr>
+<tr><td>émirats arabes unis</td><td>10 janvier</td><td>2007 A</td><td>10 janvier</td><td colspan="2">2008</td></tr>
+<tr><td>Estonie\*</td><td>24 août</td><td>1992 A</td><td>24 août</td><td colspan="2">1993</td></tr>
+<tr><td>Éthiopie</td><td>25 août</td><td>2021 A</td><td>25 août</td><td colspan="2">2022</td></tr>
+<tr><td>Finlande\*</td><td>1<sup>er</sup> avril</td><td>1985</td><td colspan="2">1<sup>er</sup> avril</td><td colspan="2">1986</td></tr>
+<tr><td>France</td><td>9 décembre</td><td>1971</td><td>21 mai</td><td colspan="2">1977</td></tr>
+<tr><td>Territoires d’outre-mer</td><td>9 décembre</td><td>1971</td><td>21 mai</td><td colspan="2">1977</td></tr>
+<tr><td>Géorgie</td><td>23 juillet</td><td>1993 A</td><td>23 juillet</td><td colspan="2">1994</td></tr>
+<tr><td>Grèce</td><td>18 décembre</td><td>1986 A</td><td>18 décembre</td><td colspan="2">1987</td></tr>
+<tr><td>Guyana</td><td>31 janvier</td><td>1973 A</td><td>21 mai</td><td colspan="2">1977</td></tr>
+<tr><td>Honduras\*</td><td>3 février</td><td>2020 A</td><td>3 février</td><td colspan="2">2021</td></tr>
+<tr><td>Hongrie\*</td><td>16 mars</td><td>1976</td><td>21 mai</td><td colspan="2">1977</td></tr>
+<tr><td>Iran</td><td>21 mai</td><td>1976</td><td>21 mai</td><td colspan="2">1977</td></tr>
+<tr><td>Iraq</td><td>1<sup>er</sup> février</td><td>2017 A</td><td>1<sup>er</sup> février</td><td colspan="2">2018</td></tr>
+<tr><td>Israël\*</td><td>11 mai</td><td>1971</td><td>21 mai</td><td colspan="2">1977</td></tr>
+<tr><td>Italie</td><td>2 octobre</td><td>1996</td><td>2 octobre</td><td colspan="2">1997</td></tr>
+<tr><td>Kazakhstan</td><td>4 avril</td><td>1994 A</td><td>4 avril</td><td colspan="2">1995</td></tr>
+<tr><td>Kenya</td><td>9 septembre</td><td>2009 A</td><td>9 septembre</td><td colspan="2">2010</td></tr>
+<tr><td>Kirghizistan</td><td>30 août</td><td>2006 A</td><td>30 août</td><td colspan="2">2007</td></tr>
+<tr><td>Koweït\*</td><td>14 mars</td><td>1980 A</td><td>14 mars</td><td colspan="2">1981</td></tr>
+<tr><td>Lettonie</td><td>19 octobre</td><td>1992 A</td><td>19 octobre</td><td colspan="2">1993</td></tr>
+<tr><td>Libéria</td><td>16 septembre</td><td>2005 A</td><td>16 septembre</td><td colspan="2">2006</td></tr>
+<tr><td>Liechtenstein\*</td><td>2 mars</td><td>2020 A</td><td>2 mars</td><td colspan="2">2021</td></tr>
+<tr><td>Lituanie\*</td><td>20 novembre</td><td>1991 A</td><td>20 novembre</td><td colspan="2">1992</td></tr>
+<tr><td>Luxembourg</td><td>25 novembre</td><td>1975</td><td>21 mai</td><td colspan="2">1977</td></tr>
+<tr><td>Macédoine du Nord</td><td>18 août</td><td>1993 S</td><td>17 novembre</td><td colspan="2">1991</td></tr>
+<tr><td>Maldives</td><td>9 janvier</td><td>2023 A</td><td>9 janvier</td><td colspan="2">2024</td></tr>
+<tr><td>Maroc\*</td><td>29 décembre</td><td>1982 A</td><td>29 décembre</td><td colspan="2">1983</td></tr>
+<tr><td>Moldova</td><td>26 mai</td><td>1993 A</td><td>26 mai</td><td colspan="2">1994</td></tr>
+<tr><td>Monaco\*</td><td>6 juin</td><td>1978 A</td><td>6 juin</td><td colspan="2">1979</td></tr>
+<tr><td>Mongolie</td><td>19 décembre</td><td>1997 A</td><td>19 décembre</td><td colspan="2">1998</td></tr>
+<tr><td>Monténégro</td><td>23 octobre</td><td>2006 S</td><td>3 juin</td><td colspan="2">2006</td></tr>
+<tr><td>Myanmar\*</td><td>26 juin</td><td>2019 A</td><td>26 juin</td><td colspan="2">2010</td></tr>
+<tr><td>Niger</td><td>11 juillet</td><td>1975 A</td><td>21 mai</td><td colspan="2">1977</td></tr>
+<tr><td>Nigéria</td><td>18 octobre</td><td>2018 A</td><td>18 octobre</td><td colspan="2">2019</td></tr>
+<tr><td>Norvège\*</td><td>1<sup>er</sup> avril</td><td>1985</td><td>1<sup>er</sup> avril</td><td colspan="2">1986</td></tr>
+<tr><td>Oman\*</td><td>9 juin</td><td>2020 A</td><td>9 juin</td><td colspan="2">2021</td></tr>
+<tr><td>Ouganda</td><td>23 août</td><td>2022 A</td><td>23 août</td><td colspan="2">2023</td></tr>
+<tr><td>Ouzbékistan</td><td>17 janvier</td><td>1995 A</td><td>17 janvier</td><td colspan="2">1996</td></tr>
+<tr><td>Pakistan</td><td>19 mars</td><td>1986 A</td><td>19 mars</td><td colspan="2">1987</td></tr>
+<tr><td>Palestine</td><td>11 novembre</td><td>2019 A</td><td>11 novembre</td><td colspan="2">2020</td></tr>
+<tr><td>Pays-Bas\* <sup>b</sup></td><td>8 novembre</td><td>2007 A</td><td>8 novembre</td><td colspan="2">2008</td></tr>
+<tr><td>Pérou</td><td>6 octobre</td><td>2006 A</td><td>6 octobre</td><td colspan="2">2007</td></tr>
+<tr><td>Philippines</td><td>27 décembre</td><td>1973</td><td>21 mai</td><td colspan="2">1977</td></tr>
+<tr><td>Pologne</td><td>23 août</td><td>1984</td><td>23 août</td><td colspan="2">1985</td></tr>
+<tr><td>Portugal</td><td>30 septembre</td><td>2010</td><td>30 octobre</td><td colspan="2">2011</td></tr>
+<tr><td>Qatar\*</td><td>6 mars</td><td>2013 A</td><td>6 mars</td><td colspan="2">2014</td></tr>
+<tr><td>République centrafricaine</td><td>3 février</td><td>1988 A</td><td>3 février</td><td colspan="2">1989</td></tr>
+<tr><td>République tchèque</td><td>2 juin</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td colspan="2">1993</td></tr>
+<tr><td>Roumanie\*</td><td>9 décembre</td><td>1981</td><td>9 décembre</td><td colspan="2">1981</td></tr>
+<tr><td>Royaume-Uni\*</td><td>28 mars</td><td>2018</td><td>28 mars</td><td colspan="2">2019</td></tr>
+<tr><td>Gibraltar\*</td><td>26 février</td><td>2019</td><td>31 mars</td><td colspan="2">2019</td></tr>
+<tr><td>Guernesey\*</td><td>26 février</td><td>2019</td><td>31 mars</td><td colspan="2">2019</td></tr>
+<tr><td>Jersey\*</td><td>26 février</td><td>2019</td><td>31 mars</td><td colspan="2">2019</td></tr>
+<tr><td>Russie\*</td><td>7 juin</td><td>1974</td><td>21 mai</td><td colspan="2">1977</td></tr>
+<tr><td>Saint-Marin</td><td>20 juillet</td><td>1970</td><td>21 mai</td><td colspan="2">1977</td></tr>
+<tr><td>Sénégal</td><td>16 août</td><td>1972 A</td><td>21 mai</td><td colspan="2">1977</td></tr>
+<tr><td>Serbie</td><td>12 mars</td><td>2001 S</td><td>27 avril</td><td colspan="2">1992</td></tr>
+<tr><td>Seychelles</td><td>11 avril</td><td>1977 A</td><td>11 avril</td><td colspan="2">1978</td></tr>
+<tr><td>Slovaquie</td><td>1<sup>er</sup> février</td><td>1993 S</td><td>1<sup>er</sup> janvier</td><td colspan="2">1993</td></tr>
+<tr><td>Slovénie</td><td>6 juillet</td><td>1992 S</td><td>25 juin</td><td colspan="2">1991</td></tr>
+<tr><td>Suède\*</td><td>25 juillet</td><td>1985</td><td>25 juillet</td><td colspan="2">1986</td></tr>
+<tr><td>Suisse\*</td><td>11 décembre</td><td>1991</td><td>11 décembre</td><td colspan="2">1992</td></tr>
+<tr><td>Tadjikistan</td><td>9 mars</td><td>1994 A</td><td>9 mars</td><td colspan="2">1995</td></tr>
+<tr><td>Thaïlande\*</td><td>1<sup>er</sup> mai</td><td>2020</td><td>1<sup>er</sup> mai</td><td colspan="2">2021</td></tr>
+<tr><td>Tunisie\*</td><td>5 janvier</td><td>2004 A</td><td>5 janvier</td><td colspan="2">2005</td></tr>
+<tr><td>Turkménistan</td><td>14 juin</td><td>1993 A</td><td>14 juin</td><td colspan="2">1994</td></tr>
+<tr><td>Turquie\*</td><td>22 janvier</td><td>2013 A</td><td>22 janvier</td><td colspan="2">2014</td></tr>
+<tr><td>Ukraine\*</td><td>12 juillet</td><td>1974</td><td>21 mai</td><td colspan="2">1977</td></tr>
+<tr><td>Uruguay\*</td><td>8 avril</td><td>1981 A</td><td>8 avril</td><td colspan="2">1982</td></tr>
+<tr><td>Vietnam\*</td><td>20 août</td><td>2014 A</td><td>20 août</td><td colspan="2">2015</td></tr>
+<tr><td>Zimbabwe\*</td><td>31 juillet</td><td>1981 A</td><td>31 juillet</td><td colspan="2">1982</td></tr>
+<tr><td colspan="6">\* Réserves et déclarations. (les \* de tous les États parties concernant le signe distinctif des véhicules en circulation internationale, selon l’art. 45, par. 4, ne figurent pas dans le champ d’application ci-dessus). Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: [https://treaties.un.org](https://treaties.un.org/) ou obtenus à la Direction du droit internationalpublic (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> La Convention ne s’applique pas aux îles Féroé et au Groenland. <sup>b</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-8]: [RO 1993 402](https://fedlex.data.admin.ch/eli/oc/1993/402_402_402); [2004 4111](https://fedlex.data.admin.ch/eli/oc/2004/602); [2006 1881](https://fedlex.data.admin.ch/eli/oc/2006/293); [2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444); [2013 715](https://fedlex.data.admin.ch/eli/oc/2013/140); [2016 553](https://fedlex.data.admin.ch/eli/oc/2016/104); [2018 3031](https://fedlex.data.admin.ch/eli/oc/2018/475); [2019 2251](https://fedlex.data.admin.ch/eli/oc/2019/423); [2020 1871](https://fedlex.data.admin.ch/eli/oc/2020/384); [2022 423](https://fedlex.data.admin.ch/eli/oc/2022/423). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty
+[^t-8]: [RO 1993 402](https://fedlex.data.admin.ch/eli/oc/1993/402_402_402); [2004 4111](https://fedlex.data.admin.ch/eli/oc/2004/602); [2006 1881](https://fedlex.data.admin.ch/eli/oc/2006/293); [2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444); [2013 715](https://fedlex.data.admin.ch/eli/oc/2013/140); [2016 553](https://fedlex.data.admin.ch/eli/oc/2016/104); [2018 3031](https://fedlex.data.admin.ch/eli/oc/2018/475); [2019 2251](https://fedlex.data.admin.ch/eli/oc/2019/423); [2020 1871](https://fedlex.data.admin.ch/eli/oc/2020/384); [2022 423](https://fedlex.data.admin.ch/eli/oc/2022/423); [2024 544](https://fedlex.data.admin.ch/eli/oc/2024/544)Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Réserves et déclarations
 
@@ -1886,7 +1885,7 @@ Suisse
 
 Réserves
 
-...[^t-9]
+…[^t-9]
 
 Ad article 18, paragraphe 3
 
@@ -1905,14 +1904,15 @@ Selon le texte du paragraphe 1 de l’annexe 1, une Partie contractante peut ne 
 [^t-9]: Le 12 déc. 2005, la Suisse a notifié au Secrétaire général de l’Organisation des Nations Unies sa décision de retirer la réserve formulée lors de sa ratification à l’égard de l’art. 11, par. 1, let. a, avec effet au 28 mars 2006 ([RO 2006 1881](https://fedlex.data.admin.ch/eli/oc/2006/293)).
 [^t-10]: [RS 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)
 
-Signe distinctif des véhicules en circulation internationale**[^t-11]**
+Signe distinctif des véhicules en circulation internationale[^t-11]
 
 (par. 4 de l’art. 45)
 
 <table>
-<tr><td>Afrique du Sud</td><td>ZA</td><td>Moldova</td><td>MD</td></tr>
-<tr><td>Albanie</td><td>AL</td><td>Monaco</td><td>MC</td></tr>
-<tr><td>Allemagne</td><td>D</td><td>Mongolie</td><td>MGL</td></tr>
+<tr><td>Afrique du Sud</td><td>ZA</td><td>Maroc</td><td>MA</td></tr>
+<tr><td>Albanie</td><td>AL</td><td>Moldova</td><td>MD</td></tr>
+<tr><td>Allemagne</td><td>D</td><td>Monaco</td><td>MC</td></tr>
+<tr><td>Andorre</td><td>AND</td><td>Mongolie</td><td>MGL</td></tr>
 <tr><td>Arménie</td><td>AM</td><td>Monténégro</td><td>MNE</td></tr>
 <tr><td>Autriche</td><td>A</td><td>Myanmar</td><td>MYA</td></tr>
 <tr><td>Azerbaïdjan</td><td>AZ</td><td>Niger</td><td>RN</td></tr>
@@ -1927,26 +1927,26 @@ Signe distinctif des véhicules en circulation internationale**[^t-11]**
 <tr><td>Côte d’Ivoire</td><td>CI</td><td>République tchèque</td><td>CZ</td></tr>
 <tr><td>Croatie</td><td>HR</td><td>Roumanie</td><td>RO</td></tr>
 <tr><td>Danemark</td><td>DK</td><td>Royaume-Uni</td><td>UK</td></tr>
-<tr><td>Estonie</td><td>EST</td><td>Gibraltar</td><td>GBZ</td></tr>
-<tr><td>Finlande</td><td>FIN</td><td>Guernesey</td><td>GBG</td></tr>
-<tr><td>France (également applicable aux territoires d’outre-mer)</td><td>F</td><td>Jersey</td><td>GBJ</td></tr>
-<tr><td>Géorgie</td><td>GE</td><td>Russie</td><td>RUS</td></tr>
-<tr><td>Grèce</td><td>GR</td><td>Saint-Marin</td><td>RSM</td></tr>
-<tr><td>Guyana</td><td>GUY</td><td>Sénégal</td><td>SN</td></tr>
-<tr><td>Hongrie</td><td>H</td><td>Serbie</td><td>SRB</td></tr>
-<tr><td>Iran</td><td>IR</td><td>Seychelles</td><td>SY</td></tr>
-<tr><td>Israël</td><td>IL</td><td>Slovaquie</td><td>SK</td></tr>
-<tr><td>Italie</td><td>I</td><td>Slovénie</td><td>SLO</td></tr>
-<tr><td>Kazakhstan</td><td>KZ</td><td>Suède</td><td>S</td></tr>
-<tr><td>Kenya</td><td>E.A.K.</td><td>Suisse</td><td>CH</td></tr>
-<tr><td>Kirghizistan</td><td>KG</td><td>Tadjikistan</td><td>TJ</td></tr>
-<tr><td>Koweït</td><td>KWT</td><td>Thaïlande</td><td>T</td></tr>
-<tr><td>Lettonie</td><td>LV</td><td>Tunisie</td><td>TN</td></tr>
-<tr><td>Liechtenstein</td><td>FL</td><td>Turkménistan</td><td>TM</td></tr>
-<tr><td>Lituanie</td><td>LT</td><td>Ukraine</td><td>UA</td></tr>
-<tr><td>Luxembourg</td><td>L</td><td>Uruguay</td><td>ROU</td></tr>
-<tr><td>Macédoine du Nord</td><td>MK</td><td>Vietnam</td><td>VN</td></tr>
-<tr><td>Maroc</td><td>MA</td><td>Zimbabwe</td><td>ZW</td></tr>
+<tr><td>Égypte</td><td>EG</td><td>Gibraltar</td><td>GBZ</td></tr>
+<tr><td>Estonie</td><td>EST</td><td>Guernesey</td><td>GBG</td></tr>
+<tr><td>Finlande</td><td>FIN</td><td>Jersey</td><td>GBJ</td></tr>
+<tr><td>France (également applicable aux territoires d’outre-mer)</td><td>F</td><td>Russie</td><td>RUS</td></tr>
+<tr><td>Géorgie</td><td>GE</td><td>Saint-Marin</td><td>RSM</td></tr>
+<tr><td>Grèce</td><td>GR</td><td>Sénégal</td><td>SN</td></tr>
+<tr><td>Guyana</td><td>GUY</td><td>Serbie</td><td>SRB</td></tr>
+<tr><td>Hongrie</td><td>H</td><td>Seychelles</td><td>SY</td></tr>
+<tr><td>Iran</td><td>IR</td><td>Slovaquie</td><td>SK</td></tr>
+<tr><td>Israël</td><td>IL</td><td>Slovénie</td><td>SLO</td></tr>
+<tr><td>Italie</td><td>I</td><td>Suède</td><td>S</td></tr>
+<tr><td>Kazakhstan</td><td>KZ</td><td>Suisse</td><td>CH</td></tr>
+<tr><td>Kenya</td><td>E.A.K.</td><td>Tadjikistan</td><td>TJ</td></tr>
+<tr><td>Kirghizistan</td><td>KG</td><td>Thaïlande</td><td>T</td></tr>
+<tr><td>Koweït</td><td>KWT</td><td>Tunisie</td><td>TN</td></tr>
+<tr><td>Lettonie</td><td>LV</td><td>Turkménistan</td><td>TM</td></tr>
+<tr><td>Liechtenstein</td><td>FL</td><td>Ukraine</td><td>UA</td></tr>
+<tr><td>Lituanie</td><td>LT</td><td>Uruguay</td><td>ROU</td></tr>
+<tr><td>Luxembourg</td><td>L</td><td>Vietnam</td><td>VN</td></tr>
+<tr><td>Macédoine du Nord</td><td>MK</td><td>Zimbabwe</td><td>ZW</td></tr>
 </table>
 
-[^t-11]: RO **2007** 3615; [2013 715](https://fedlex.data.admin.ch/eli/oc/2013/140); [2016 553](https://fedlex.data.admin.ch/eli/oc/2016/104); [2018 3031](https://fedlex.data.admin.ch/eli/oc/2018/475); [2019 2251](https://fedlex.data.admin.ch/eli/oc/2019/423); [2022 423](https://fedlex.data.admin.ch/eli/oc/2022/423).
+[^t-11]: RO **2007** 3615; [2013 715](https://fedlex.data.admin.ch/eli/oc/2013/140); [2016 553](https://fedlex.data.admin.ch/eli/oc/2016/104); [2018 3031](https://fedlex.data.admin.ch/eli/oc/2018/475); [2019 2251](https://fedlex.data.admin.ch/eli/oc/2019/423); [2022 423](https://fedlex.data.admin.ch/eli/oc/2022/423); [2024 544](https://fedlex.data.admin.ch/eli/oc/2024/544).

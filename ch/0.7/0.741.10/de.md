@@ -3,11 +3,11 @@ sr: "0.741.10"
 title: Übereinkommen vom 8. November 1968 über den Strassenverkehr (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1993/402_402_402"
 language: de
-version: 2022-07-15
+version: 2024-10-02
 adopted: 1968-11-08
 in_force: 1992-12-11
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/fedlex-data-admin-ch-eli-cc-1993-402_402_402-20220715-de-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1993/402_402_402/20220715/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/fedlex-data-admin-ch-eli-cc-1993-402_402_402-20241002-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1993/402_402_402/20241002/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1993** 402; BBl **1978** I 1440
 
 Abgeschlossen in Wien am 8. November 1968 Von der Bundesversammlung genehmigt am 15. Dezember 1978[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 11. Dezember 1991 In Kraft getreten für die Schweiz am 11. Dezember 1992
 
-(Stand am 15. Juli 2022)
+(Stand am 2. Oktober 2024)
 
 [^t-1]: Art. 1 Abs. 1 Bst. a des BB vom 15. Dez. 1978 ([AS 1993 400](https://fedlex.data.admin.ch/eli/oc/1993/400_400_400)).
 
@@ -109,7 +109,7 @@ Im Sinne dieses Übereinkommens haben die nachstehenden Begriffe die ihnen in di
   - dabei steht es jedoch jeder Vertragspartei frei, es abzulehnen, ein Fahrzeug als «im internationalen Verkehr» befindlich anzusehen, das ohne nennenswerte Unterbrechung, deren Dauer sie festsetzen kann, länger als ein Jahr in ihrem Hoheitsgebiet geblieben ist.
 
 - c)[^1-3] «Ortschaft» ist ein Gebiet, das bebaute Grundstücke umfasst und dessen Ein- und Ausfahrten als solche besonders gekennzeichnet sind oder das in den innerstaatlichen Rechtsvorschriften in anderer Weise bestimmt ist;
-- ...[^1-4]
+- …[^1-4]
 - d) «Strasse» ist die gesamte Fläche jedes dem öffentlichen Verkehr dienenden Weges;
 - e) «Fahrbahn» ist der Teil der Strasse, der üblicherweise von den Fahrzeugen benutzt wird; eine Strasse kann mehrere Fahrbahnen haben, die insbesondere durch einen Mittelstreifen oder einen Höhenunterschied deutlich voneinander getrennt sind;
 - f) auf Fahrbahnen, wo ein seitlicher Fahrstreifen oder ein Weg oder mehrere seitliche Fahrstreifen oder Wege dem Verkehr bestimmter Fahrzeuge vorbehalten sind, ist «Fahrbahnrand» für die anderen Verkehrsteilnehmer der Rand des übrigen Teils der Fahrbahn;
@@ -149,7 +149,7 @@ Im Sinne dieses Übereinkommens haben die nachstehenden Begriffe die ihnen in di
 - y) «Gesamtmasse» ist die tatsächliche Masse des beladenen Fahrzeugs einschliesslich der Besatzung und der Fahrgäste;
 - z) «Verkehrsrichtung» und «entsprechend der Verkehrsrichtung» bedeuten rechts, wenn nach den innerstaatlichen Rechtsvorschriften der Fahrzeugführer ein entgegenkommendes Fahrzeug links vorbeilassen muss; im umgekehrten Falle bedeuten diese Ausdrücke links;
 - aa) die Pflicht für den Fahrzeugführer, anderen Fahrzeugen «die Vorfahrt zu gewähren» bedeutet, dass er seine Fahrt oder seine Fahrbewegung nicht fortsetzen oder wiederaufnehmen darf, wenn dies andere Fahrzeugführer dazu zwingen könnte, die Richtung oder die Geschwindigkeit ihrer Fahrzeuge unvermittelt zu ändern.
-- ...[^1-11]
+- [tab] …[^1-11]
 
 [^1-1]: Eingefügt durch die Änd. vom 14. Dez. 2020, in Kraft seit 14. Juli 2022 ([AS 2022 51](https://fedlex.data.admin.ch/eli/oc/2022/51)).
 [^1-2]: Eingefügt durch die Änd. vom 14. Dez. 2020, in Kraft seit 14. Juli 2022 ([AS 2022 51](https://fedlex.data.admin.ch/eli/oc/2022/51)).
@@ -270,7 +270,7 @@ Die Vertragsparteien dieses Übereinkommens, die nicht Vertragsparteien des Übe
 
 <sup>5.</sup> Das Anlegen des Sicherheitsgurtes ist für die Fahrzeugführer und die Fahrzeuginsassen auf den mit Gurten ausgerüsteten Sitzen vorgeschrieben, ausgenommen sind Fälle, in denen die innerstaatlichen Rechtsvorschriften Ausnahmen zulassen.[^7-4]
 
-...[^7-5]
+…[^7-5]
 
 [^7-1]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 6).
 [^7-2]: Eingefügt durch die am 3. Sept. 1993 in Kraft getretene Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
@@ -292,7 +292,7 @@ Die Vertragsparteien dieses Übereinkommens, die nicht Vertragsparteien des Übe
 
 <sup>5.</sup> Jeder Führer muss dauernd sein Fahrzeug beherrschen oder seine Tiere führen können.[^8-2]
 
-...[^8-3]
+…[^8-3]
 
 5<sup>bis</sup>. Fahrzeugsysteme, die einen Einfluss auf das Führen des Fahrzeugs haben, gelten mit Absatz 5 dieses Artikels und mit Absatz 1 des Artikels 13 als konform, sofern sie den Vorschriften bezüglich Bauweise, Montage und Benutzung nach Massgabe der internationalen Rechtsvorschriften für Kraftfahrzeuge, Ausrüstungsgegenstände und Teile, die in Kraftfahrzeuge eingebaut und/oder dafür verwendet werden können, entsprechen;[^8-4]
 
@@ -321,7 +321,7 @@ Es wird empfohlen, in den innerstaatlichen Rechtsvorschriften vorzusehen, dass V
 
 <sup>1.</sup> Die Verkehrsrichtung muss auf allen Strassen desselben Staates gleich sein, mit Ausnahme gegebenenfalls der Strassen, die ausschliesslich oder überwiegend dem Durchgangsverkehr zwischen zwei anderen Staaten dienen.
 
-...[^10-2]
+…[^10-2]
 
 <sup>2.</sup> Tiere auf der Fahrbahn müssen so nahe wie möglich an dem der Verkehrsrichtung entsprechenden Fahrbahnrand geführt werden.
 
@@ -420,7 +420,7 @@ Unbeschadet des Absatzes 2 und sonstiger Einschränkungen, die die Vertragsparte
 
 <sup>5.</sup> Der Führer eines Fahrzeugs, der hinter einem anderen Fahrzeug fährt, muss einen ausreichenden Sicherheitsabstand von diesem wahren, um bei dessen plötzlichem Bremsen oder Anhalten einen Zusammenstoss zu vermeiden.
 
-6.[^13-3] Um das Überholen zu erleichtern, müssen ausserhalb von Ortschaften die Führer von Fahrzeugen oder von miteinander verbundenen Fahrzeugen mit mehr als 3500 kg (7700 Pfund) höchster zulässiger Gesamtmasse oder mehr als 10 m (33 Fuss) Gesamtlänge – ausser wenn sie überholen oder sich anschicken, dies zu tun – zwischen ihren Fahrzeugen zu vorausfahrenden Kraftfahrzeugen einen so grossen Abstand halten, dass sich ein überholendes Fahrzeug gefahrlos vor das überholte einordnen kann. Dies gilt jedoch nicht, wenn der Verkehr sehr dicht oder das Überholen verboten ist. Ausserdem
+6.[^13-3] Um das Überholen zu erleichtern, müssen ausserhalb von Ortschaften die Führer von Fahrzeugen oder von miteinander verbundenen Fahrzeugen mit mehr als 3500 kg (7700 Pfund) höchster zulässiger Gesamtmasse oder mehr als 10 m (33 Fuss) Gesamtlänge – ausser wenn sie überholen oder sich anschicken, dies zu tun – zwischen ihren Fahrzeugen zu vorausfahrenden Kraftfahrzeugen einen so grossen Abstand halten, dass sich ein überholendes Fahrzeug gefahrlos vor das überholte einordnen kann. Dies gilt jedoch nicht, wenn der Verkehr sehr dicht oder das Überholen verboten ist. Ausserdem:
 
 - a) können die zuständigen Behörden für bestimmte Fahrzeugkolonnen Abweichungen von dieser Bestimmung zulassen oder sie auch auf Strassen, auf denen dem Verkehr in der betreffenden Richtung zwei Fahrstreifen zur Verfügung stehen, für unanwendbar erklären;
 - b) können die Vertragsparteien oder ihre Teilgebiete andere Werte als die in diesem Absatz genannten für die betroffenen Fahrzeuge bestimmen.
@@ -453,9 +453,9 @@ Es wird empfohlen, in den innerstaatlichen Rechtsvorschriften vorzusehen, dass i
 
 **Fahrtrichtungsänderung**
 
-<sup>1.</sup> Ein Führer, der nach rechts oder links in eine andere Strasse oder in ein angrenzendes Grundstück abbiegen will, muss unbeschadet des Artikels 7 Absatz 1 und des Artikels 14,
+<sup>1.</sup> 2.[^16-1] Während der Fahrtrichtungsänderung muss der Führer, unbeschadet des Artikels 21 bezüglich der Fussgänger, die Verkehrsteilnehmer auf der Fahrbahn oder anderen Teilen der Strasse, die er verlassen will, vorbeifahren lassen.
 
-2.[^16-1] Während der Fahrtrichtungsänderung muss der Führer, unbeschadet des Artikels 21 bezüglich der Fussgänger, die Verkehrsteilnehmer auf der Fahrbahn oder anderen Teilen der Strasse, die er verlassen will, vorbeifahren lassen.
+Ein Führer, der nach rechts oder links in eine andere Strasse oder in ein angrenzendes Grundstück abbiegen will, muss unbeschadet des Artikels 7 Absatz 1 und des Artikels 14:
 
 - a) wenn er die Strasse nach der der Verkehrsrichtung entsprechenden Seite verlassen will, sich so nahe wie möglich an den dieser Richtung entsprechenden Fahrbahnrand halten und seine Fahrbewegung in einem kleinstmöglichen Raum ausführen;
 - b)[^16-2] wenn er die Strasse nach der anderen Seite verlassen will, vorbehaltlich der Möglichkeit für die Vertragsparteien oder ihre Teilgebiete, abweichende Bestimmungen für Fahrräder und Motorfahrräder zu erlassen, die diesen insbesondere eine Fahrtrichtungsänderung durch ein Überqueren der Kreuzung in zwei Einzelphasen ermöglichen, sich auf Strassen mit Gegenverkehr so nahe wie möglich an die Mittellinie der Fahrbahn und auf Einbahnstrassen an den der Verkehrsrichtung entgegen gesetzten Fahrbahnrand halten; wenn er in eine andere Strasse mit Gegenverkehr abbiegen will sich an den der Verkehrsrichtung entsprechenden Fahrbahnrand halten.
@@ -481,7 +481,9 @@ Es wird empfohlen, in den innerstaatlichen Rechtsvorschriften vorzusehen, dass i
 
 3.[^18-1] Jeder Fahrzeugführer, der aus einem angrenzenden Grundstück auf eine Strasse einfährt, muss den auf dieser Strasse fahrenden Fahrzeugen die Vorfahrt gewähren.
 
-<sup>4.</sup> Vorbehaltlich des Absatzes 7
+<sup>4.</sup>
+
+Vorbehaltlich des Absatzes 7:
 
 - a) muss in Staaten mit Rechtsverkehr an anderen Kreuzungen als denen nach Absatz 2 und nach Artikel 25 Absätze 2 und 4 der Führer eines Fahrzeuges den von rechts kommenden Fahrzeugen die Vorfahrt gewähren;
 - b)[^18-2] steht es den Vertragsparteien oder ihren Teilgebieten, auf deren Gebiet Linksverkehr besteht, frei, die Vorfahrtregeln an Kreuzungen nach Belieben festzulegen.
@@ -492,7 +494,7 @@ Es wird empfohlen, in den innerstaatlichen Rechtsvorschriften vorzusehen, dass i
 
 <sup>7.</sup> ...[^18-3] Die Führer nicht schienengebundener Fahrzeuge müssen den Schienenfahrzeugen die Vorfahrt gewähren.
 
-...[^18-4]
+…[^18-4]
 
 [^18-1]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 15).
 [^18-2]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 15).
@@ -503,7 +505,7 @@ Es wird empfohlen, in den innerstaatlichen Rechtsvorschriften vorzusehen, dass i
 
 **Bahnübergänge**
 
-Jeder Verkehrsteilnehmer muss bei der Annäherung an einen Bahnübergang und bei dessen Überquerung besondere Vorsicht walten lassen. Insbesondere
+Jeder Verkehrsteilnehmer muss bei der Annäherung an einen Bahnübergang und bei dessen Überquerung besondere Vorsicht walten lassen. Insbesondere:
 
 - a) muss jeder Fahrzeugführer mit mässiger Geschwindigkeit fahren;
 - b) darf unbeschadet der Verpflichtung, das durch ein Verkehrslichtzeichen oder ein akustisches Zeichen gegebene Haltgebot zu befolgen, sich kein Verkehrsteilnehmer auf einen Bahnübergang begeben, dessen Schranken oder Halbschranken geschlossen sind oder sich senken oder dessen Halbschranken sich heben;
@@ -522,7 +524,7 @@ Jeder Verkehrsteilnehmer muss bei der Annäherung an einen Bahnübergang und bei
 
 <sup>2.</sup> Gibt es an der Seite der Fahrbahn Gehwege oder von Fussgängern begehbare Seitenstreifen, so müssen Fussgänger diese benutzen. Jedoch, wenn sie die nötigen Vorsichtsmassnahmen ergreifen,
 
-...[^20-2]
+…[^20-2]
 
 - a) dürfen Fussgänger, die sperrige Gegenstände schieben oder tragen, die Fahrbahn benutzen, wenn die Benutzung des Gehweges oder des Seitenstreifens andere Fussgänger erheblich behindern würde;
 - b) dürfen Fussgängergruppen, die von einer Aufsichtsperson geführt werden oder einen Umzug bilden, auf der Fahrbahn gehen.
@@ -568,7 +570,7 @@ Jeder Verkehrsteilnehmer muss bei der Annäherung an einen Bahnübergang und bei
 
 <sup>4.</sup> Fahrzeugführer, die auf der der Verkehrsrichtung entsprechenden Seite an einer als solche gekennzeichneten Haltestelle an einem öffentlichen Verkehrsmittel vorbeifahren wollen, müssen ihre Geschwindigkeit vermindern und nötigenfalls anhalten, um den Fahrgästen das Ein‑ und Aussteigen zu ermöglichen.
 
-...[^21-3]
+…[^21-3]
 
 [^21-1]: Bereinigt gemäss der am 3. Sept. 1993 in Kraft getretenen Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^21-2]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 17).
@@ -602,7 +604,7 @@ Unbeschadet des Artikels 10 darf jeder Führer Verkehrsinseln, Pfosten und ander
   - i) auf Fussgängerüberwegen, auf Radfahrüberwegen und auf Bahnübergängen;
   - ii) auf den Schienen von Strassenbahnen oder Eisenbahnen auf der Strasse oder so dicht an den Schienen, dass der Verkehr dieser Schienenbahnen oder Eisenbahnen behindert werden könnte, sowie, vorbehaltlich der Möglichkeit für die Vertragsparteien oder ihre Teilgebiete, gegenteilige Bestimmungen zu erlassen, auf Gehwegen und Radwegen;
 
-- [tab] ...[^23-5]
+- [tab] …[^23-5]
 - b) Jedes Halten und Parken eines Fahrzeuges ist an allen Stellen verboten, wo es eine Gefahr bilden könnte, insbesondere
   - i) unter Überführungen oder in Tunneln ausser an besonders gekennzeichneten Stellen;
   - ii) auf der Fahrbahn in der Nähe der Scheitelpunkte von Kuppen sowie in Kurven, wenn die Sicht zur völlig sicheren Vorbeifahrt an dem Fahrzeug unter Berücksichtigung der Geschwindigkeit der Fahrzeuge auf dem betreffenden Strassenabschnitt unzureichend ist;
@@ -618,13 +620,13 @@ Unbeschadet des Artikels 10 darf jeder Führer Verkehrsinseln, Pfosten und ander
   - ii) vor Grundstückseinfahrten;
   - iii) an jeder Stelle, wo das parkende Fahrzeug den Zugang zu einem anderen ordnungsgemäss parkenden Fahrzeug oder das Herausfahren eines solchen Fahrzeugs verhindern würde;
   - iv) auf der mittleren Fahrbahn der Strassen mit drei Fahrbahnen und ausserhalb von Ortschaften auf den Fahrbahnen der Strassen, die durch ein geeignetes Zeichen als Vorfahrtstrassen gekennzeichnet sind;
-  - v) ...[^23-9]
+  - v) …[^23-9]
 
 <sup>4.</sup> Ein Führer darf sein Fahrzeug oder seine Tiere nicht verlassen, ohne alle zweckdienlichen Vorkehrungen getroffen zu haben, um jeden Unfall, und sofern es sich um ein Kraftfahrzeug (Art. 1 Bst. p) handelt, dessen unerlaubte Verwendung zu verhüten.
 
 6.[^23-10] Nichts in diesem Artikel ist so auszulegen, als hindere es die Vertragsparteien oder ihre Teilgebiete, andere Park- und Haltbestimmungen oder gesonderte Park- und Haltebestimmungen für Fahrräder und Motorfahrräder zu erlassen.
 
-...[^23-11]
+…[^23-11]
 
 5.[^23-12] Es wird empfohlen, in den innerstaatlichen Rechtsvorschriften vorzusehen, dass jedes Kraftfahrzeug ausser einem zweirädrigen Motorfahrrad oder einem zweirädrigen Kraftrad ohne Beiwagen und jeder angekuppelte oder nicht angekuppelte Anhänger, die ausserhalb einer Ortschaft auf der Fahrbahn abgestellt wurden, mittels mindestens einer in ausreichender Entfernung vom Fahrzeug an günstigster Stelle aufgestellten geeigneten Vorrichtung zu kennzeichnen sind, um herankommende Führer rechtzeitig zu warnen:
 
@@ -654,7 +656,7 @@ Es ist verboten, die Tür eines Fahrzeugs zu öffnen, sie offenzulassen oder aus
 
 **Autobahnen und ähnliche Strassen**
 
-...[^25-1]
+…[^25-1]
 
 2.[^25-2] Bei der Einfahrt in eine Autobahn müssen die Führer den auf der Autobahn verkehrenden Fahrzeugen die Vorfahrt gewähren. Wenn ein Beschleunigungsstreifen vorhanden ist, müssen sie diesen benutzen.
 
@@ -667,7 +669,7 @@ Es ist verboten, die Tür eines Fahrzeugs zu öffnen, sie offenzulassen oder aus
 
 <sup>3.</sup> Ein Führer, der die Autobahn verlässt, muss rechtzeitig den Fahrstreifen, der der Autobahnausfahrt entspricht, benutzen und so bald wie möglich auf den Verzögerungsstreifen fahren, wenn einer vorhanden ist.
 
-...[^25-4]
+…[^25-4]
 
 4.[^25-5] Hinsichtlich der Anwendung der Absätze 1, 2 und 3 sind den Autobahnen die anderen dem Verkehr mit Kraftfahrzeugen vorbehaltenen Strassen gleichgestellt, die als solche ordnungsmässig gekennzeichnet sind und zu denen von den angrenzenden Grundstücken aus keine Zufahrt besteht.
 
@@ -689,7 +691,7 @@ Den Fahrzeugführern ist verboten:
 
 - a) rückwärts zu fahren;
 - b) zu wenden;
-- c) ...[^25bis-2]
+- c) …[^25bis-2]
 
 <sup>2.</sup> Selbst wenn der Tunnel beleuchtet ist, muss jeder Führer sein Fern‑ oder Abblendlicht einschalten.
 
@@ -722,7 +724,7 @@ Den Fahrzeugführern ist verboten:
 
 4.[^27-2] [^27-3] Die Vertragsparteien oder ihre Teilgebiete können den Radfahrern verbieten, wenn ein Radstreifen oder ein Radweg vorhanden ist, den übrigen Teil der Fahrbahn zu benutzen. Im selben Falle können sie den Führern von Motorfahrrädern erlauben, den Radstreifen oder den Radweg zu benutzen und, wenn sie es für zweckmässig halten, ihnen verbieten, den übrigen Teil der Fahrbahn zu benutzen. Die innerstaatlichen Rechtsvorschriften sehen vor, unter welchen Umständen andere Verkehrsteilnehmer Radstreifen oder den Radwege benutzen oder queren dürfen, wobei zu keiner Zeit die Sicherheit der Radfahrer beeinträchtigt werden darf.
 
-...[^27-4]
+…[^27-4]
 
 [^27-1]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 20).
 [^27-2]: Fassung gemäss der am 28. März 2006 in Kraft getretene Änd. ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
@@ -760,7 +762,7 @@ Akustische Warnzeichen dürfen nicht länger als nötig dauern.
 
 2.[^29-1] Die Vertragsparteien oder ihre Teilgebiete können von diesem Kapitel abweichende besondere Verkehrsvorschriften für Schienenfahrzeuge auf der Strasse sowie darüber erlassen, wie ihnen auszuweichen ist und wie sie zu überholen sind. Die Vertragsparteien oder ihre Teilgebiete können jedoch keine Vorschriften erlassen, die den in Artikel 18 Absatz 7 enthaltenen zuwiderlaufen.
 
-...[^29-2]
+…[^29-2]
 
 [^29-1]: Siehe auch die Fassung des Europäischen Zusatzübereinkommens vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 21).
 [^29-2]: Siehe für den eingefügten Abs. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 21).
@@ -807,7 +809,7 @@ Die Zahl der Fahrgäste oder die Art und Weise ihrer Beförderung dürfen weder 
 - b) sich bemühen, die Sicherheit des Verkehrs an der Unfallstelle zu gewährleisten und, wenn durch den Unfall eine Person getötet oder schwer verletzt wurde, eine Veränderung des Zustandes an der Unfallstelle und die Beseitigung von Spuren, die zur Feststellung der Verantwortlichkeit nützlich sein können, zu vermeiden, sofern dies die Verkehrssicherheit nicht beeinträchtigt;
 - c) auf Verlangen anderer am Unfall beteiligter Personen ihnen die zur Feststellung seiner Person erforderlichen Angaben machen;
 - d) wenn durch den Unfall eine Person verletzt oder getötet wurde, die Polizei benachrichtigen und bis zu ihrem Eintreffen an Ort und Stelle bleiben oder dorthin zurückkehren und die Ankunft der Polizei abwarten, sofern diese ihm nicht erlaubt hat, die Unfallstelle zu verlassen oder er dem Verletzten Hilfe leisten oder selbst behandelt werden muss.
-- [tab] ...[^31-1]
+- [tab] …[^31-1]
 
 <sup>2.</sup> Die Vertragsparteien oder ihre Teilgebiete können in ihren innerstaatlichen Rechtsvorschriften davon absehen, Absatz 1 Buchstabe d anzuwenden, wenn keine schwere Verletzung verursacht wurde und keiner der am Unfall Beteiligten die Benachrichtigung der Polizei verlangt.
 
@@ -1059,7 +1061,7 @@ Jedes Kraftfahrzeug (Art. 1 Bst. p) und jeder Anhänger im internationalen Verke
 - a) nationale Führerscheine anzuerkennen, die im Hoheitsgebiet einer anderen Vertragspartei für Personen ausgestellt worden sind, die zum Zeitpunkt dieser Ausstellung ihren ordentlichen Wohnsitz in ihrem Hoheitsgebiet hatten oder deren ordentlicher Wohnsitz seit dieser Ausstellung in ihr Hoheitsgebiet verlegt worden ist;
 - b) nationale Führerscheine anzuerkennen, die für Personen ausgestellt worden sind, die zum Zeitpunkt der Ausstellung ihren ordentlichen Wohnsitz nicht im Hoheitsgebiet hatten, in dem der Führerschein ausgestellt wurde oder deren Wohnsitz seit dieser Ausstellung in ein anderes Hoheitsgebiet verlegt worden ist.
 
-<sup>7.</sup> ...[^41-9]
+<sup>7.</sup> …[^41-9]
 
 [^41-1]: Bereinigt gemäss der am 3. Sept. 1993 in Kraft getretenen Änd. ([AS 1993 3402](https://fedlex.data.admin.ch/eli/oc/1993/3402_3402_3402)).
 [^41-2]: Fassung gemäss der am 28. März 2006 in Kraft getretene Änd. ([AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444)).
@@ -1107,7 +1109,7 @@ Fahrräder ohne Motor im internationalen Verkehr müssen:
 - a) eine wirksame Bremse haben;
 - b) mit einer Klingel versehen sein, die auf ausreichende Entfernung zu hören ist, und dürfen keine andere akustische Warnvorrichtung haben;
 - c) mit einer roten Rückstrahlvorrichtung nach hinten und mit Vorrichtungen versehen sein, die es ermöglichen, ein weisses oder hellgelbes Licht nach vorn und ein rotes Licht nach hinten zu zeigen.
-- [tab] ...[^44-1]
+- [tab] …[^44-1]
 
 <sup>2.</sup>
 
@@ -1118,7 +1120,7 @@ Im Hoheitsgebiet der Vertragsparteien, die nicht nach Artikel 54 Absatz 2 eine E
 - c) mit einem wirksamen Auspuffschalldämpfer versehen sein;
 - d)[^44-2] mit Vorrichtungen versehen sein, die es ermöglichen, ein weisses oder hellgelbes Licht nach vom und ein rotes Licht nach hinten zu zeigen, sowie hinten einen roten Rückstrahler haben;
 - e) das in Anhang 4 bestimmte Erkennungsmerkmal tragen.
-- [tab] ...[^44-3]
+- [tab] …[^44-3]
 
 <sup>3.</sup> Im Hoheitsgebiet der Vertragsparteien, die nach Artikel 54 Absatz 2 eine Erklärung abgegeben haben, dass sie die Motorfahrräder den Krafträdern gleichstellen, müssen die Motorfahrräder für die Zulassung zum internationalen Verkehr den Bestimmungen genügen, die in Anhang 5 für die Krafträder festgelegt sind.
 
@@ -1235,7 +1237,7 @@ Die Urschrift dieses Übereinkommens, hergestellt in einfacher Ausfertigung in c
 
 *Zu Urkund dessen* haben die von ihren Regierungen gehörig befugten Unterzeichneten dieses Übereinkommens unterschrieben. Geschehen zu Wien am heutigen achten Tag des Monats November eintausendneunhundertundachtundsechzig.
 
-Anhang 1*[^t-2]*
+Anhang 1[^t-2]
 
 ## Abweichungen von der Verpflichtung zur Zulassung von Kraftfahrzeugen (Artikel 1 Buchstabe p) und Anhängern zum internationalen Verkehr
 
@@ -1265,7 +1267,7 @@ Anhang 1*[^t-2]*
 
 \7. Die Vertragsparteien können die Zulassung von Kraftfahrzeugen (Art. 1 Bst. p), deren höchste zulässige Gesamtmasse 3500 kg (7700 Pfund) übersteigt, zum internationalen Verkehr auf bestimmten schwierigen Strassen oder in bestimmten Gegenden ihres Hoheitsgebietes mit schwierigem Gelände davon abhängig machen, dass diese den durch ihre innerstaatlichen Rechtsvorschriften für die Zulassung der von ihnen zugelassenen Fahrzeugen der gleichen höchsten zulässigen Gesamtmasse zum Verkehr auf diesen Strassen oder in diesen Gegenden bestimmten Sondervorschriften entsprechen.
 
-7<sup>bis</sup>. ...[^annex1-lvlu1-1]
+7<sup>bis</sup>. …[^annex1-lvlu1-1]
 
 \8. Die Vertragsparteien brauchen in ihrem Hoheitsgebiet keine Kraftfahrzeuge (Art. 1 Bst. p) zum internationalen Verkehr zuzulassen, die mit Scheinwerfern für asymmetrisches Abblendlicht versehen sind, wenn deren Einstellung nicht der Verkehrsrichtung in ihrem Lande entspricht.
 
@@ -1273,7 +1275,7 @@ Anhang 1*[^t-2]*
 
 [^annex1-lvlu1-1]: Siehe für den eingefügten Abs. das Europäische Zusatzübereinkommen vom 1. Mai 1971 ([SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)Anhang Ziff. 28).
 
-Anhang 2*[^t-3]*
+Anhang 2[^t-3]
 
 ## Kennzeichen der Kraftfahrzeuge (Art. 1 Bst. p) und Anhänger im internationalen Verkehr
 
@@ -1289,7 +1291,7 @@ Anhang 2*[^t-3]*
 
 \5. Der Bereich des Schildes, in dem das Unterscheidungszeichen angebracht ist, muss den gleichen Untergrund haben wie der Bereich, in dem das Kennzeichen angebracht ist.
 
-Anhang 3*[^t-4]*
+Anhang 3[^t-4]
 
 ## Unterscheidungszeichen der Kraftfahrzeuge (Art. 1 Bst. p) und Anhänger im internationalen Verkehr
 
@@ -1341,7 +1343,7 @@ Anhang 4
 
 \2. Die in Absatz 1 erwähnten Merkmale müssen an zugänglicher Stelle gut lesbar angebracht und so gestaltet sein, dass sie nicht leicht entfernt oder geändert werden können. Die in den Merkmalen enthaltenen Buchstaben und Ziffern müssen entweder in lateinischen Buchstaben oder in der so genannten englischen Kursivschrift und in arabischen Ziffern ausgeführt oder so wiederholt werden.
 
-Anhang 5*[^t-5]*
+Anhang 5[^t-5]
 
 ## Technische Anforderungen an Kraftfahrzeuge und Anhänger
 
@@ -1449,7 +1451,7 @@ Beleuchtungs‑ und lichttechnische Einrichtungen für Fahrzeuge
 
 \20. Die in diesem Kapitel angeführten Farben des Lichtes müssen soweit wie möglich den in der Anlage dieses Anhangs angeführten Begriffsbestimmungen entsprechen.
 
-\21. Jedes Kraftfahrzeug (Art. 1 Bst. p), das auf ebener Strasse eine Geschwindigkeit von 40 km (25 Meilen) in der Stunde überschreiten kann – ausgenommen Krafträder – muss vom eine gerade Zahl von Scheinwerfern für weisses oder hellgelbes Fernlicht haben, die nachts bei klarem Wetter die Strasse ... wirksam beleuchten können. Die äusseren Ränder der Lichtaustrittsflächen der Scheinwerfer für Fernlicht dürfen in keinem Falle näher der breitesten Stelle des Fahrzeugumrisses liegen als die äusseren Ränder der Lichtaustrittsflächen der Scheinwerfer für Abblendlicht.
+\21. Jedes Kraftfahrzeug (Art. 1 Bst. p), das auf ebener Strasse eine Geschwindigkeit von 40 km (25 Meilen) in der Stunde überschreiten kann – ausgenommen Krafträder – muss vom eine gerade Zahl von Scheinwerfern für weisses oder hellgelbes Fernlicht haben, die nachts bei klarem Wetter die Strasse … wirksam beleuchten können. Die äusseren Ränder der Lichtaustrittsflächen der Scheinwerfer für Fernlicht dürfen in keinem Falle näher der breitesten Stelle des Fahrzeugumrisses liegen als die äusseren Ränder der Lichtaustrittsflächen der Scheinwerfer für Abblendlicht.
 
 \22. Jedes Kraftfahrzeug, das auf ebener Strasse eine Geschwindigkeit von 10 km (6 Meilen) in der Stunde überschreiten kann – ausgenommen Krafträder – muss vorn eine gerade Zahl von Scheinwerfern für weisses oder hellgelbes Abblendlicht haben, die nachts bei klarem Wetter die Strasse vor dem Fahrzeug wirksam beleuchten können. Ein Kraftfahrzeug muss so ausgerüstet sein, dass nicht mehr als zwei Scheinwerfer für Abblendlicht gleichzeitig eingeschaltet werden können. Die Scheinwerfer für Abblendlicht müssen so eingestellt sein, dass sie der Begriffsbestimmung in Absatz 19 entsprechen.
 
@@ -1470,7 +1472,7 @@ Das gilt jedoch nicht für Scheinwerfer für Fern‑ oder für Abblendlicht, wen
 
 \28. Jeder Anhänger muss hinten mindestens zwei rote Rückstrahler haben. Diese Rückstrahler müssen die Form eines gleichseitigen Dreiecks haben, von dem eine Spitze nach oben zeigt und eine Seite waagerecht liegt; im Dreieck darf keine Beleuchtungseinrichtung sein. Diese Rückstrahler müssen den Sichtbarkeitsbestimmungen nach Absatz 27 genügen. Jedoch brauchen Anhänger, deren Gesamtbreite 0,80 m nicht übersteigt, nur einen Rückstrahler zu haben, wenn sie mit einem zweirädrigen Kraftrad ohne Beiwagen verbunden sind.
 
-\29. Jeder Anhänger muss vorn zwei weisse, nicht dreieckige Rückstrahler haben. Diese Rückstrahler müssen den ... Sichtbarkeitsbestimmungen nach Absatz 27 genügen.
+\29. Jeder Anhänger muss vorn zwei weisse, nicht dreieckige Rückstrahler haben. Diese Rückstrahler müssen den … Sichtbarkeitsbestimmungen nach Absatz 27 genügen.
 
 \30. Anhänger, deren Breite 1,60 m übersteigt, müssen vorn zwei Begrenzungsleuchten haben. Diese müssen möglichst nahe am Seitenrand des Anhängers angebracht sein.
 
@@ -1480,9 +1482,9 @@ Das gilt jedoch nicht für Scheinwerfer für Fern‑ oder für Abblendlicht, wen
 
 - a) muss jedes zweirädrige Kraftrad mit oder ohne Beiwagen einen oder zwei Scheinwerfer für Abblendlicht haben, die den Farb- und Sichtbarkeitsbestimmungen nach Absatz 22 genügen;
 - b) muss jedes zweirädrige Kraftrad mit oder ohne Beiwagen, das auf ebener Strasse eine Geschwindigkeit von 40 km (25 Meilen) in der Stunde überschreiten kann, zusätzlich zum Scheinwerfer für Abblendlicht mindestens einen Scheinwerfer für Fernlicht haben, das den Farb‑ und Sichtbarkeitsbestimmungen nach Absatz 21 genügt. Haben solche Krafträder mehr als einen Scheinwerfer für Fernlicht, so müssen diese so nahe wie möglich beieinander liegen;
-- c) ...
+- c) …
 
-\33. Jedes zweirädrige Kraftrad ohne Beiwagen darf vorn eine oder zwei Begrenzungsleuchten haben, deren Licht den Farb‑ und Sicherheitsbestimmungen nach Absatz 23 genügt. Haben solche Krafträder zwei Begrenzungsleuchten, so müssen diese so nahe wie möglich beieinander liegen. ...
+\33. Jedes zweirädrige Kraftrad ohne Beiwagen darf vorn eine oder zwei Begrenzungsleuchten haben, deren Licht den Farb‑ und Sicherheitsbestimmungen nach Absatz 23 genügt. Haben solche Krafträder zwei Begrenzungsleuchten, so müssen diese so nahe wie möglich beieinander liegen. …
 
 \34. Jedes zweirädrige Kraftrad ohne Beiwagen muss hinten eine Schlussleuchte haben, deren Licht den Farb‑ und Sichtbarkeitsbestimmungen nach Absatz 24 Buchstabe a genügt.
 
@@ -1490,7 +1492,7 @@ Das gilt jedoch nicht für Scheinwerfer für Fern‑ oder für Abblendlicht, wen
 
 \36. Vorbehaltlich des Rechts der Vertragsparteien, die nach Artikel 54 Absatz 2 eine Erklärung abgegeben haben, dass sie die Motorfahrräder den Krafträdern gleichstellen, die zweirädrigen Motorfahrräder mit oder ohne Beiwagen von dieser Vorschrift zu befreien, muss jedes zweirädrige Kraftrad mit oder ohne Beiwagen eine Bremsleuchte haben, die den Bestimmungen nach Absatz 31 genügt.
 
-\37. Unbeschadet der Bestimmungen über die Beleuchtungseinrichtungen und Rückstrahler für Krafträder ohne Beiwagen muss jeder mit einem zweirädrigen Kraftrad verbundene Beiwagen vorn eine Begrenzungsleuchte haben, deren Licht den Farb‑ und Sichtbarkeitsbestimmungen nach Absatz 23 genügt, und hinten eine Schlussleuchte, deren Licht den Farb‑ und Sichtbarkeitsbestimmungen nach Absatz 24 Buchstabe a genügt, sowie einen Rückstrahler, der den Farb‑ und Sichtbarkeitsbestimmungen nach Absatz 27 genügt. Die elektrische Schaltung muss so sein, dass die Begrenzungsleuchte und die Schlussleuchte des Kraftrades gleichzeitig eingeschaltet sind. ...
+\37. Unbeschadet der Bestimmungen über die Beleuchtungseinrichtungen und Rückstrahler für Krafträder ohne Beiwagen muss jeder mit einem zweirädrigen Kraftrad verbundene Beiwagen vorn eine Begrenzungsleuchte haben, deren Licht den Farb‑ und Sichtbarkeitsbestimmungen nach Absatz 23 genügt, und hinten eine Schlussleuchte, deren Licht den Farb‑ und Sichtbarkeitsbestimmungen nach Absatz 24 Buchstabe a genügt, sowie einen Rückstrahler, der den Farb‑ und Sichtbarkeitsbestimmungen nach Absatz 27 genügt. Die elektrische Schaltung muss so sein, dass die Begrenzungsleuchte und die Schlussleuchte des Kraftrades gleichzeitig eingeschaltet sind. …
 
 \38. Kraftfahrzeuge (Art. 1 Bst. p) mit drei symmetrisch zur Längsmittelebene des Fahrzeugs angeordneten Rädern, die nach Artikel 1 Buchstaben den Krafträdern gleichgestellt sind, müssen die in den Absätzen 21, 22, 23, 24 Buchstabe a, 27 und 31 vorgeschriebenen Einrichtungen haben. Jedoch genügen bei einem Elektrofahrzeug, dessen Breite 1,30 m nicht übersteigt und dessen Geschwindigkeit 40 km (25 Meilen) in der Stunde nicht überschreitet, ein einziger Scheinwerfer für Fernlicht und ein einziger Scheinwerfer für Abblendlicht.
 
@@ -1502,7 +1504,7 @@ Das gilt jedoch nicht für Scheinwerfer für Fern‑ oder für Abblendlicht, wen
 
 \42. Keine Beleuchtungseinrichtung, ausgenommen Blinkleuchten und Warnleuchten, darf ein Blink‑ oder Rundumlicht ausstrahlen. Die Seitenbegrenzungsleuchten können zusammen mit den Begrenzungsleuchten aufblinken.
 
-42<sup>bi</sup><sup>s</sup>. Die Warnleuchten müssen ein Blink‑ oder Rundumlicht ausstrahlen; die Farbe des ausgestrahlten Lichts muss den Bestimmungen nach Artikel 32 Absatz 14 genügen.
+42<sup>bis</sup>. Die Warnleuchten müssen ein Blink‑ oder Rundumlicht ausstrahlen; die Farbe des ausgestrahlten Lichts muss den Bestimmungen nach Artikel 32 Absatz 14 genügen.
 
 42<sup>ter</sup>. Jedes Kraftfahrzeug, ausgenommen Krafträder, und jeder Anhänger muss eine Warnblinkanlage haben.
 
@@ -1539,7 +1541,7 @@ Das gilt jedoch nicht für Scheinwerfer für Fern‑ oder für Abblendlicht, wen
 
 ### Scheibenwischer
 
-\49. Jedes Kraftfahrzeug (Art. 1 Bst. p) mit so grossen und so gestalteten Windschutzscheiben, dass der Führer ... die Strasse nur durch die durchsichtigen Teile dieser Scheibe nach vorn überblicken kann, muss mindestens einen wirksamen und widerstandsfähigen, an geeigneter Stelle angebrachten Scheibenwischer haben, der keine dauernde Bedienung durch den Führer erfordert.
+\49. Jedes Kraftfahrzeug (Art. 1 Bst. p) mit so grossen und so gestalteten Windschutzscheiben, dass der Führer … die Strasse nur durch die durchsichtigen Teile dieser Scheibe nach vorn überblicken kann, muss mindestens einen wirksamen und widerstandsfähigen, an geeigneter Stelle angebrachten Scheibenwischer haben, der keine dauernde Bedienung durch den Führer erfordert.
 
 ### Scheibenwaschanlage
 
@@ -1654,7 +1656,7 @@ Anlage
 
 Zur Feststellung der Farbmerkmale dieser Filter ist eine Lichtquelle der Farbtemperatur von 2854° K (entsprechend der Normlichtart A der Internationalen Beleuchtungskommission [CIE]) zu verwenden.
 
-Anhang 6*[^t-6]*
+Anhang 6[^t-6]
 
 ## Nationaler Führerschein
 
@@ -1718,18 +1720,18 @@ Anhang 6*[^t-6]*
 
 <table>
 <tr><td colspan="2">Code der Fahrzeugklasse / Piktogramm</td><td colspan="2">Code der Unterklasse / Piktogramm</td></tr>
-<tr><td>A</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image1.png)</td><td>A1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image2.png)</td></tr>
-<tr><td>B</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image3.png)</td><td>B1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image4.png)</td></tr>
-<tr><td>C</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image5.png)</td><td>C1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image6.png)</td></tr>
-<tr><td>D</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image7.png)</td><td>D1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image8.png)</td></tr>
-<tr><td>BE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image9.png)</td><td></td><td></td></tr>
-<tr><td>CE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image10.png)</td><td>C1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image11.png)</td></tr>
-<tr><td>DE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image12.png)</td><td>D1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image13.png)</td></tr>
+<tr><td>A</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image1.png)</td><td>A1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image2.png)</td></tr>
+<tr><td>B</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image3.png)</td><td>B1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image4.png)</td></tr>
+<tr><td>C</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image5.png)</td><td>C1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image6.png)</td></tr>
+<tr><td>D</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image7.png)</td><td>D1</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image8.png)</td></tr>
+<tr><td>BE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image9.png)</td><td></td><td></td></tr>
+<tr><td>CE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image10.png)</td><td>C1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image11.png)</td></tr>
+<tr><td>DE</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image12.png)</td><td>D1E</td><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image13.png)</td></tr>
 </table>
 
 [^annex6-lvlu1-1]: Der Geburtsort kann durch andere, nach nationaler Gesetzgebung bestimmte Eintragungen ersetzt werden.
 
-Anhang 7*[^t-7]*
+Anhang 7[^t-7]
 
 ## Internationaler Führerschein
 
@@ -1793,20 +1795,20 @@ Anhang 7*[^t-7]*
 <tr><td></td><td colspan="2">Geburtsdatum</td><td colspan="3"></td><td>4.</td><td colspan="2"></td></tr>
 <tr><td></td><td colspan="2">Ordentlicher Wohnsitz<sup>2)</sup></td><td colspan="3"></td><td>5.</td><td colspan="2"></td></tr>
 <tr><td></td><td colspan="6">FAHRZEUGKLASSEN UND UNTERKLASSEN, FÜR DIE DER FÜHRERSCHEIN GILT, MIT DEN ENTSPRECHENDEN BEZEICHNUNGEN</td><td colspan="2"></td></tr>
-<tr><td></td><td colspan="3">**Bezeichnung der Fahrzeu****g****- klasse / Piktogramm**</td><td colspan="3">**Bezeichnung der Unte****r****klasse / Pikt****o****gramm**</td><td colspan="2"></td></tr>
-<tr><td></td><td>**A**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image1.png)</td><td>**A1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image2.png)</td><td></td></tr>
-<tr><td></td><td>**B**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image3.png)</td><td>**B1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image4.png)</td><td></td></tr>
-<tr><td></td><td>**C**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image5.png)</td><td>**C1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image6.png)</td><td></td></tr>
-<tr><td></td><td>**D**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image7.png)</td><td>**D1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image8.png)</td><td></td></tr>
-<tr><td></td><td>**BE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image9.png)</td><td></td><td colspan="2"></td><td></td></tr>
-<tr><td></td><td>**CE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image10.png)</td><td>**C1E**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image11.png)</td><td></td></tr>
-<tr><td></td><td>**DE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image12.png)</td><td>**D1E**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20220715/de/xml/image/image13.png)</td><td></td></tr>
+<tr><td></td><td colspan="3">**Bezeichnung der Fahrzeug-** **klasse / Piktogramm**</td><td colspan="3">**Bezeichnung der Unterklasse / Piktogramm**</td><td colspan="2"></td></tr>
+<tr><td></td><td>**A**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image1.png)</td><td>**A1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image2.png)</td><td></td></tr>
+<tr><td></td><td>**B**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image3.png)</td><td>**B1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image4.png)</td><td></td></tr>
+<tr><td></td><td>**C**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image5.png)</td><td>**C1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image6.png)</td><td></td></tr>
+<tr><td></td><td>**D**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image7.png)</td><td>**D1**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image8.png)</td><td></td></tr>
+<tr><td></td><td>**BE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image9.png)</td><td></td><td colspan="2"></td><td></td></tr>
+<tr><td></td><td>**CE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image10.png)</td><td>**C1E**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image11.png)</td><td></td></tr>
+<tr><td></td><td>**DE**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image12.png)</td><td>**D1E**</td><td colspan="2">![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1993/402_402_402/20241002/de/xml/image/image13.png)</td><td></td></tr>
 <tr><td></td><td colspan="6">EINSCHRÄNKENDE AUFLAGEN<sup>3)</sup></td><td colspan="2"></td></tr>
 </table>
 
 - <sup>1)</sup> Der Geburtsort kann durch andere in den innerstaatlichen Rechtsvorschriften festgelegte Eintragungen ersetzt werden.
 - <sup>2)</sup> Auszufüllen, wenn die innerstaatlichen Rechtsvorschriften dies verlangen
-- <sup>3)</sup> Z.B. «Muss Brille tragen», «Nur gültig für das Führen von Fahrzeug Nr. ...», «Vorbehaltlich der Ausrüstung des Fahrzeugs für das Führen durch einen Beinamputierten».
+- <sup>3)</sup> Z.B. «Muss Brille tragen», «Nur gültig für das Führen von Fahrzeug Nr. …», «Vorbehaltlich der Ausrüstung des Fahrzeugs für das Führen durch einen Beinamputierten».
 
 Muster 3
 
@@ -1834,11 +1836,13 @@ Muster 3
 - <sup>5)</sup> Name des Staates.
 - <sup>6)</sup> Siegel oder Stempel der Behörde, welche den Führerschein für ihr Hoheitsgebiet als ungültig erklärt hat. Falls die auf dieser Seite für die Ungültigkeitserklärungen vorgesehenen Felder nicht ausreichen, können weitere Ungültigkeitserklärungen auf der Rückseite eingetragen werden.
 
-Geltungsbereich am 15. Juli 2022**[^t-8]**
+Geltungsbereich am 2. Oktober 2024[^t-8]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Ägypten</td><td>15. Dezember</td><td>2023 B</td><td>15. Dezember</td><td>2024</td></tr>
 <tr><td>Albanien</td><td>29. Juni</td><td>2000 B</td><td>29. Juni</td><td>2001</td></tr>
+<tr><td>Andorra</td><td>25. September</td><td>2024 B</td><td>25. September</td><td>2025</td></tr>
 <tr><td>Armenien</td><td>8. Februar</td><td>2005 B</td><td>8. Februar</td><td>2006</td></tr>
 <tr><td>Aserbaidschan</td><td>3. Juli</td><td>2002 B</td><td>3. Juli</td><td>2003</td></tr>
 <tr><td>Äthiopien</td><td>25. August</td><td>2021 B</td><td>25. August</td><td>2022</td></tr>
@@ -1853,6 +1857,7 @@ Geltungsbereich am 15. Juli 2022**[^t-8]**
 <tr><td>Côte d’Ivoire\*</td><td>24. Juli</td><td>1985 B</td><td>24. Juli</td><td>1986</td></tr>
 <tr><td>Dänemark\* <sup>a</sup></td><td>3. November</td><td>1986</td><td>3. November</td><td>1987</td></tr>
 <tr><td>Deutschland\*</td><td>3. August</td><td>1978</td><td>3. August</td><td>1979</td></tr>
+<tr><td>El Salvador\*</td><td>27. August</td><td>2024 B</td><td>27. August</td><td>2025</td></tr>
 <tr><td>Estland\*</td><td>24. August</td><td>1992 B</td><td>24. August</td><td>1993</td></tr>
 <tr><td>Finnland\*</td><td>1. April</td><td>1985</td><td>1. April</td><td>1986</td></tr>
 <tr><td>Frankreich</td><td>9. Dezember</td><td>1971</td><td>21. Mai</td><td>1977</td></tr>
@@ -1879,6 +1884,7 @@ Geltungsbereich am 15. Juli 2022**[^t-8]**
 <tr><td>Liechtenstein\*</td><td>2. März</td><td>2020 B</td><td>2. März</td><td>2021</td></tr>
 <tr><td>Litauen\*</td><td>20. November</td><td>1991 B</td><td>20. November</td><td>1992</td></tr>
 <tr><td>Luxemburg</td><td>25. November</td><td>1975</td><td>21. Mai</td><td>1977</td></tr>
+<tr><td>Malediven</td><td>9. Januar</td><td>2023 B</td><td>9. Januar</td><td>2024</td></tr>
 <tr><td>Marokko\*</td><td>29. Dezember</td><td>1982 B</td><td>29. Dezember</td><td>1983</td></tr>
 <tr><td>Moldau</td><td>26. Mai</td><td>1993 B</td><td>26. Mai</td><td>1994</td></tr>
 <tr><td>Monaco\*</td><td>6. Juni</td><td>1978 B</td><td>6. Juni</td><td>1979</td></tr>
@@ -1917,6 +1923,7 @@ Geltungsbereich am 15. Juli 2022**[^t-8]**
 <tr><td>Tunesien\*</td><td>5. Januar</td><td>2004 B</td><td>5. Januar</td><td>2005</td></tr>
 <tr><td>Türkei\*</td><td>22. Januar</td><td>2013 B</td><td>22. Januar</td><td>2014</td></tr>
 <tr><td>Turkmenistan</td><td>14. Juni</td><td>1993 B</td><td>14. Juni</td><td>1994</td></tr>
+<tr><td>Uganda</td><td>23. August</td><td>2022 B</td><td>23. August</td><td>2023</td></tr>
 <tr><td>Ukraine\*</td><td>12. Juli</td><td>1974</td><td>21. Mai</td><td>1977</td></tr>
 <tr><td>Ungarn\*</td><td>16. März</td><td>1976</td><td>21. Mai</td><td>1977</td></tr>
 <tr><td>Uruguay\*</td><td>8. April</td><td>1981 B</td><td>8. April</td><td>1982</td></tr>
@@ -1928,10 +1935,10 @@ Geltungsbereich am 15. Juli 2022**[^t-8]**
 <tr><td>Jersey\*</td><td>26. Februar</td><td>2019</td><td>31. März</td><td>2019</td></tr>
 <tr><td>Vietnam\*</td><td>20. August</td><td>2014 B</td><td>20. August</td><td>2015</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>3. Februar</td><td>1988 B</td><td>3. Februar</td><td>1989</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. (Die Erklärungen aller Vertragsstaaten über das gewählte Unterscheidungszeichen der Fahrzeuge im internationalen Verkehr, gemäss Artikel 45 Absatz 4 sind im oben erwähnten Geltungsbereich nicht mit \* aufgeführt). Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. a Das Übereink. findet keine Anwendung auf die Föröer und Grönland. <sup>b</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. (Die Erklärungen aller Vertragsstaaten über das gewählte Unterscheidungszeichen der Fahrzeuge im internationalen Verkehr, gemäss Artikel 45 Absatz 4 sind im oben erwähnten Geltungsbereich nicht mit \* aufgeführt). Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen (UNO): [https://treaties.un.org](https://treaties.un.org) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Übereink. findet keine Anwendung auf die Föröer und Grönland. <sup>b</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-8]: [AS 1993 402](https://fedlex.data.admin.ch/eli/oc/1993/402_402_402), [2004 4111](https://fedlex.data.admin.ch/eli/oc/2004/602), [2006 1881](https://fedlex.data.admin.ch/eli/oc/2006/293), [2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444), [2013 715](https://fedlex.data.admin.ch/eli/oc/2013/140), [2016 553](https://fedlex.data.admin.ch/eli/oc/2016/104), [2018 3031](https://fedlex.data.admin.ch/eli/oc/2018/475), [2019 2251](https://fedlex.data.admin.ch/eli/oc/2019/423), [2020 1871](https://fedlex.data.admin.ch/eli/oc/2020/384); [2022 423](https://fedlex.data.admin.ch/eli/oc/2022/423). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty.
+[^t-8]: [AS 1993 402](https://fedlex.data.admin.ch/eli/oc/1993/402_402_402); [2004 4111](https://fedlex.data.admin.ch/eli/oc/2004/602); [2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444); [2013 715](https://fedlex.data.admin.ch/eli/oc/2013/140); [2016 553](https://fedlex.data.admin.ch/eli/oc/2016/104); [2018 3031](https://fedlex.data.admin.ch/eli/oc/2018/475); [2019 2251](https://fedlex.data.admin.ch/eli/oc/2019/423); [2020 1871](https://fedlex.data.admin.ch/eli/oc/2020/384); [2022 423](https://fedlex.data.admin.ch/eli/oc/2022/423); [2024 544](https://fedlex.data.admin.ch/eli/oc/2024/544). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalte und Erklärungen
 
@@ -1939,7 +1946,7 @@ Vorbehalte und Erklärungen
 
 Vorbehalte
 
-...[^t-9]
+…[^t-9]
 
 Zu Artikel 18 Absatz 3
 
@@ -1958,11 +1965,15 @@ Nach dem Wortlaut von Anhang 1 Absatz 1 kann eine Vertragspartei in ihrem Hoheit
 [^t-9]: Die Schweiz hat am 12. Dez. 2005 dem Generalsekretär der Vereinten Nationen notifiziert, dass sie den bei der Hinterlegung der Ratifikationsurkunde des Übereink. abgegebenen Vorbehalt hinsichtlich Art. 11 Abs. 1 Bst. a zurückziehe, mit Wirkung seit 28. März 2006 ([AS 2006 1881](https://fedlex.data.admin.ch/eli/oc/2006/293)).
 [^t-10]: [SR 0.741.101](https://fedlex.data.admin.ch/eli/cc/1993/478_478_478)
 
-Unterscheidungszeichen der Fahrzeuge im internationalen Verkehr**[^t-11]**
+Unterscheidungszeichen der Fahrzeuge im internationalen Verkehr[^t-11]
 
 (Art. 45 Abs. 4)
 
+Ägypten EG
+
 Albanien AL
+
+Andorra AND
 
 Armenien AM
 
@@ -2110,4 +2121,4 @@ Vietnam VN
 
 Zentralafrikanische Republik RCA
 
-[^t-11]: [AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444); [2013 715](https://fedlex.data.admin.ch/eli/oc/2013/140); [2016 553](https://fedlex.data.admin.ch/eli/oc/2016/104); [2018 3031](https://fedlex.data.admin.ch/eli/oc/2018/475); [2019 2251](https://fedlex.data.admin.ch/eli/oc/2019/423); [2022 423](https://fedlex.data.admin.ch/eli/oc/2022/423)
+[^t-11]: [AS 2007 3599](https://fedlex.data.admin.ch/eli/oc/2007/444); [2013 715](https://fedlex.data.admin.ch/eli/oc/2013/140); [2016 553](https://fedlex.data.admin.ch/eli/oc/2016/104); [2018 3031](https://fedlex.data.admin.ch/eli/oc/2018/475); [2019 2251](https://fedlex.data.admin.ch/eli/oc/2019/423); [2022 423](https://fedlex.data.admin.ch/eli/oc/2022/423); [2024 544](https://fedlex.data.admin.ch/eli/oc/2024/544)
