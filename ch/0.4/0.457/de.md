@@ -3,30 +3,29 @@ sr: "0.457"
 title: Europäisches Übereinkommen vom 18. März 1986 zum Schutz der für Versuche und andere wissenschaftliche Zwecke verwendeten Wirbeltiere (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/930_930_930"
 language: de
-version: 2013-04-11
+version: 2024-10-02
 adopted: 1986-03-18
 in_force: 1994-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20130411/de/xml/fedlex-data-admin-ch-eli-cc-1994-930_930_930-20130411-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/930_930_930/20130411/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20241002/de/xml/fedlex-data-admin-ch-eli-cc-1994-930_930_930-20241002-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/930_930_930/20241002/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Europäisches Übereinkommen zum Schutz der für Versuche und andere wissenschaftliche Zwecke verwendeten Wirbeltiere****
+# Europäisches Übereinkommen zum Schutz der für Versuche und andere wissenschaftliche Zwecke verwendeten Wirbeltiere
 
 AS **1994** 930; BBl **1992** V 1003[^t-1]
 
-Übersetzung*[^t-2]*
+Übersetzung
 
-Abgeschlossen in Strassburg am 18. März 1986 Von der Bundesversammlung genehmigt am 17. Juni 1993[^t-3] Schweizerische Ratifikationsurkunde hinterlegt am 3. November 1993 Inkrafttreten für die Schweiz am 1. Juni 1994
+Abgeschlossen in Strassburg am 18. März 1986 Von der Bundesversammlung genehmigt am 17. Juni 1993[^t-2] Schweizerische Ratifikationsurkunde hinterlegt am 3. November 1993 Inkrafttreten für die Schweiz am 1. Juni 1994
 
-(Stand am 11. April 2013)
+(Stand am 2. Oktober 2024)
 
-[^t-1]: Siehe jedoch die Art. 30–38, geändert durch die Art. 1-3 des Prot. vom 22. Juni 1998, in Kraft für die Schweiz seit 2. Dez. 2005 ([SR 0.457.1](https://fedlex.data.admin.ch/eli/cc/2006/719)).
-[^t-2]: Der französische Originaltext findet sich unter der gleichen Nummer in der entsprechenden Ausgabe dieser Sammlung.
-[^t-3]: Art. 1 Abs. 1 Bst b des BB vom 17. Juni 1993 ([AS 1994 918](https://fedlex.data.admin.ch/eli/oc/1994/918_918_918)).
+[^t-1]: Siehe jedoch die Art. 30–38, geändert durch die Art. 1–3 des Prot. vom 22. Juni 1998, in Kraft für die Schweiz seit 2. Dez. 2005 ([SR 0.457.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1856)).
+[^t-2]: Art. 1 Abs. 1 Bst b des BB vom 17. Juni 1993 ([AS 1994 918](https://fedlex.data.admin.ch/eli/oc/1994/918_918_918)).
 
-Präambel
+*Präambel*
 
 Die Mitgliedstaaten des Europarats, die dieses Übereinkommen unterzeichnen –
 
@@ -121,7 +120,7 @@ Jedes Verfahren muss unter allgemeiner oder örtlicher Betäubung oder unter Ana
 
 <sup>2.</sup> Es werden geeignete Gesetzgebungs‑ und/oder Verwaltungsmassnahmen ergriffen, damit gewährleistet ist, dass ein derartiges Verfahren nicht unnötig durchgeführt wird.
 
-Solche Massnahmen umfassen
+Solche Massnahmen umfassen:
 
 - – entweder die ausdrückliche Bewilligung durch die zuständige Behörde oder
 - – die besondere Anzeige eines solchen Verfahrens bei der zuständigen Behörde sowie gerichtliche oder Verwaltungsmassnahmen dieser Behörde für den Fall, dass sie nicht überzeugt ist, dass das Verfahren für grundlegende Bedürfnisse von Mensch oder Tier, einschliesslich der Lösung wissenschaftlicher Probleme, von ausreichender Bedeutung ist.
@@ -136,12 +135,16 @@ Auch während eines Verfahrens gelten für das verwendete Tier die Bestimmungen 
 
 <sup>2.</sup> Die in Absatz 1 genannten Entscheidungen obliegen einer sachkundigen Person, insbesondere einem Tierarzt, oder der Person, die nach Artikel 13 für das Verfahren verantwortlich ist oder das Verfahren durchgeführt hat.
 
-<sup>3.</sup> Soll am Ende eines Verfahrens
+<sup>3.</sup>
+
+Soll am Ende eines Verfahrens:
 
 - a. ein Tier am Leben erhalten werden, so muss es seinem Gesundheitszustand entsprechend gepflegt, von einem Tierarzt oder einer anderen sachkundigen Person beobachtet und unter Bedingungen gehalten werden, die den in Artikel 5 genannten Anforderungen entsprechen. Ausnahmen von den unter diesem Buchstaben genannten Bedingungen können jedoch zugelassen werden, wenn das Tier nach tierärztlichem Urteil als Folge dieser Ausnahmeregelung nicht leiden wird;
 - b. ein Tier nicht am Leben erhalten werden oder können die Bestimmungen des Artikels 5 hinsichtlich seines Wohlbefindens keine Anwendung auf dieses Tier finden, so muss es so bald wie möglich tierschutzgerecht getötet werden.
 
-<sup>4.</sup> Tiere, die in einem mit erheblichen oder länger anhaltenden Schmerzen oder Leiden verbundenen Verfahren verwendet worden sind, dürfen, unabhängig davon, ob betäubende oder schmerzstillende Mittel verabreicht wurden, nicht für ein weiteres Verfahren verwendet werden, es sei denn, ihre Gesundheit und ihr Wohlbefinden sind wieder normal und
+<sup>4.</sup>
+
+Tiere, die in einem mit erheblichen oder länger anhaltenden Schmerzen oder Leiden verbundenen Verfahren verwendet worden sind, dürfen, unabhängig davon, ob betäubende oder schmerzstillende Mittel verabreicht wurden, nicht für ein weiteres Verfahren verwendet werden, es sei denn, ihre Gesundheit und ihr Wohlbefinden sind wieder normal und:
 
 - a. das weitere Verfahren wird durchweg unter allgemeiner Betäubung durchgeführt, die fortgesetzt wird, bis das Tier getötet wird, oder
 - b. das weitere Verfahren umfasst nur kleinere Eingriffe.
@@ -196,7 +199,7 @@ Es sind Vorkehrungen zu treffen, damit die Verwenderbetriebe über für die verw
 
 #### Art. 20
 
-In Verwenderbetrieben
+In Verwenderbetrieben:
 
 - a. müssen die Person oder Personen, die organisatorisch für die Pflege der Tiere und das Funktionieren der Geräte verantwortlich sind, benannt werden;
 - b. muss ausgebildetes Personal in ausreichender Zahl zur Verfügung stehen;
@@ -325,7 +328,7 @@ Dieses Übereinkommen liegt für die Mitgliedstaaten des Europarats und für die
 
 #### Art. 37
 
-Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Europarats, den Europäischen Gemeinschaften und jedem Staat, der diesem Übereinkommen beigetreten ist,
+Der Generalsekretär des Europarats notifiziert den Mitgliedstaaten des Europarats, den Europäischen Gemeinschaften und jedem Staat, der diesem Übereinkommen beigetreten ist:
 
 - a. jede Unterzeichnung;
 - b. jede Hinterlegung einer Ratifikations‑, Annahme‑, Genehmigungs‑ oder Beitrittsurkunde;
@@ -412,7 +415,7 @@ Anlagen, die zu einem grösseren Gebäudekomplex gehören, sollen ausserdem durc
 
 1.4.5. Die Gestaltung und Ausführung von Verbindungswegen soll den Richtwerten für Tierräume entsprechen. Die Flure sollen so breit sein, dass bewegliches Gerät leicht transportiert werden kann.
 
-[^annexA-lvlu1-lvl1-1]: [SR 0.454](https://fedlex.data.admin.ch/eli/cc/1981/218_218_218)
+[^annexA-lvlu1-lvl1-1]: [SR 0.454](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1852)
 
 ### 2. Raumklima in den Tierräumen und Überwachung
 
@@ -472,7 +475,7 @@ Tierlieferungen sollen ohne vermeidbare Verzögerungen in Empfang genommen und a
 
 3.5. Quarantäne, Isolierung und Eingewöhnung
 
-3.5.1. Zweck der Quarantäne ist es,
+3.5.1. Zweck der Quarantäne ist es:
 
 - a. andere Tiere im Betrieb zu schützen;
 - b. den Menschen vor Zoonosen zu schützen;
@@ -544,7 +547,7 @@ Die Einstreu soll trocken, saugfähig, staubfrei, ungiftig und frei von Krankhei
 
 Die Beseitigung eines Tierkadavers soll erst erlaubt sein, wenn die Totenstarre eingetreten ist.
 
-[^annexA-lvlu1-lvl3-1]: [SR 0.452](https://fedlex.data.admin.ch/eli/cc/2006/291)
+[^annexA-lvlu1-lvl3-1]: [SR 0.452](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1849)
 
 ### Tabellen und Abbildungen zu Anhang A des Europäischen Übereinkommens zum Schutz der für Versuche und andere wissenschaftliche Zwecke verwendeten Wirbeltiere
 
@@ -768,7 +771,7 @@ Richtlinien zur Unterbringung von landwirtschaftlichen Nutztieren in Boxen
 (Vorratshaltung sowie Haltung während der Verfahren in Verwenderbetrieben)
 
 <table>
-<tr><td colspan="2">Arten und Gewicht kg</td><td>Mindestgrundfläche m<sup>2</sup></td><td>Mindestlänge der Box m</td><td>Mindesthöhe der Trennwände zwischen den Boxen m</td><td>Mindestgrundfläche bei Gruppenhaltung m<sup>2</sup> pro Tier</td><td>Mindestlänge des Futtertrogs je Tier m</td></tr>
+<tr><th colspan="2">Arten und Gewicht kg</th><th>Mindestgrundfläche m<sup>2</sup></th><th>Mindestlänge der Box m</th><th>Mindesthöhe der Trennwände zwischen den Boxen m</th><th>Mindestgrundfläche bei Gruppenhaltung m<sup>2</sup> pro Tier</th><th>Mindestlänge des Futtertrogs je Tier m</th></tr>
 <tr><td colspan="2">*Schweine*</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>10–</td><td>30</td><td>2</td><td>1,6</td><td>0,8</td><td>0,2</td><td>0,20</td></tr>
 <tr><td>30–</td><td>50</td><td>2</td><td>1,8</td><td>1,0</td><td>0,3</td><td>0,25</td></tr>
@@ -786,7 +789,7 @@ Richtlinien zur Unterbringung von landwirtschaftlichen Nutztieren in Boxen
 <tr><td>150–</td><td>200</td><td>2,5</td><td>2,0</td><td>1,2</td><td>1,4</td><td>0,40</td></tr>
 <tr><td>200–</td><td>400</td><td>2,6</td><td>2,2</td><td>1,4</td><td>1,6</td><td>0,55</td></tr>
 <tr><td>&gt;</td><td>400</td><td>2,8</td><td>2,2</td><td>1,4</td><td>1,8</td><td>0,65</td></tr>
-<tr><td colspan="2">*Ausgewac**h**sene Pferde*</td><td>13,5</td><td>4,5</td><td>1,8</td><td>–</td><td>–</td></tr>
+<tr><td colspan="2">*Ausgewachsene Pferde*</td><td>13,5</td><td>4,5</td><td>1,8</td><td>–</td><td>–</td></tr>
 </table>
 
 **Tabelle 12**
@@ -851,7 +854,7 @@ Mindestabmessung der Käfiggrundfläche
 
 Die durchgezogene Linie EU‑EU gibt die Mindestfläche an, die einer Maus unter Berücksichtigung ihres Gewichtes eingeräumt werden soll.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20130411/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20241002/de/xml/image/image1.png)
 
 Abbildung 2
 
@@ -863,7 +866,7 @@ Mindestabmessung der Käfiggrundfläche
 
 Die durchgezogene Linie EU‑EU gibt die Mindestfläche an, die einer Ratte unter Berücksichtigung ihres Gewichtes eingeräumt werden soll.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20130411/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20241002/de/xml/image/image2.png)
 
 Abbildung 3
 
@@ -875,7 +878,7 @@ Mindestabmessung der Käfiggrundfläche
 
 Die durchgezogene Linie EU‑EU gibt die Mindestfläche an, die einem Goldhamster unter Berücksichtigung seines Gewichtes eingeräumt werden soll.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20130411/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20241002/de/xml/image/image3.png)
 
 Abbildung 4
 
@@ -887,7 +890,7 @@ Mindestabmessung der Käfiggrundfläche
 
 Die durchgezogene Linie EU‑EU gibt die Mindestfläche an, die einem Meerschweinchen unter Berücksichtigung seines Gewichtes eingeräumt werden soll.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20130411/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20241002/de/xml/image/image4.png)
 
 Abbildung 5
 
@@ -899,7 +902,7 @@ Mindestabmessung der Käfiggrundfläche
 
 Die durchgezogene Linie EU‑EU gibt die Mindestfläche an, die einem Kaninchen unter Berücksichtigung seines Gewichtes eingeräumt werden soll.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20130411/de/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20241002/de/xml/image/image5.png)
 
 Abbildung 6
 
@@ -911,7 +914,7 @@ Mindestabmessung der Käfiggrundfläche für ein Muttertier mit noch nicht abges
 
 Die durchgezogene Linie EU‑EU gibt die Mindestfläche an, die einem Muttertier unter Berücksichtigung seines Gewichtes eingeräumt werden soll.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20130411/de/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20241002/de/xml/image/image6.png)
 
 Abbildung 7
 
@@ -923,7 +926,7 @@ Mindestabmessung der Käfiggrundfläche
 
 Die durchgezogene Linie EU‑EU gibt die Mindestfläche an, die einer Katze unter Berücksichtigung ihres Gewichtes eingeräumt werden soll.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20130411/de/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20241002/de/xml/image/image7.png)
 
 Abbildung 8
 
@@ -933,7 +936,7 @@ Hinweis für das Verhältnis zwischen Anzahl der Mäuse pro Käfig und Käfiggru
 
 Die Linien stellen das Durchschnittsgewicht dar und entsprechen der Linie EU‑EU in Abbildung 1.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20130411/de/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20241002/de/xml/image/image8.png)
 
 Abbildung 9
 
@@ -943,7 +946,7 @@ Hinweis für das Verhältnis zwischen Anzahl der Ratten pro Käfig und Käfiggru
 
 Die Linien stellen das Durchschnittsgewicht dar und entsprechen der Linie EU‑EU in Abbildung 2.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20130411/de/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20241002/de/xml/image/image9.png)
 
 Abbildung 10
 
@@ -953,7 +956,7 @@ Hinweis für das Verhältnis zwischen Anzahl der Hamster pro Käfig und Käfiggr
 
 Die Linien stellen das Durchschnittsgewicht dar und entsprechen der Linie EU‑EU in Abbildung 3.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20130411/de/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20241002/de/xml/image/image10.png)
 
 Abbildung 11
 
@@ -963,7 +966,7 @@ Hinweis für das Verhältnis zwischen Anzahl der Meerschweinchen pro Käfig und 
 
 Die Linien stellen das Durchschnittsgewicht dar und entsprechen der Linie EU‑EU in Abbildung 4.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20130411/de/xml/image/image11.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20241002/de/xml/image/image11.png)
 
 Abbildung 12
 
@@ -973,7 +976,7 @@ Hinweis für das Verhältnis zwischen Anzahl der Kaninchen pro Käfig und Käfig
 
 Die Linien stellen das Durchschnittsgewicht dar und entsprechen der Linie EU‑EU in Abbildung 5.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20130411/de/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20241002/de/xml/image/image12.png)
 
 Anhang B
 
@@ -1027,7 +1030,7 @@ Die Spalte «Nur andere Vertragsparteien» ist auszufüllen, wenn das Verfahren 
 
 Die Spalte «Beides» ist auszufüllen, wenn das Verfahren Erfordernisse beider Gruppen erfüllen soll; in diesem Fall werden die anderen beiden Spalten nicht ausgefüllt.
 
-**Tabelle**
+**Tabelle 1**
 
 Anzahl und Art der ... (Jahr) in ...... (Vertragspartei) in Verfahren verwendeten Tiere
 
@@ -1111,39 +1114,36 @@ Anzahl der ... (Jahr) in ...... (Vertragspartei) in gesetzlich vorgesehenen Verf
 <tr><td>Beides</td><td colspan="4"></td></tr>
 </table>
 
-[^annexB-lvlu1-lvlu2-1]: [SR 0.812.21](https://fedlex.data.admin.ch/eli/cc/1974/744_745_745)
+[^annexB-lvlu1-lvlu2-1]: [SR 0.812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3461)
 
-### Geltungsbereich am 11. April 2013****
-
-[^annexB-lvlu1-lvlu3-1]
-
-[^annexB-lvlu1-lvlu3-1]: [AS 1994 930](https://fedlex.data.admin.ch/eli/oc/1994/930_930_930), [2004 5001](https://fedlex.data.admin.ch/eli/oc/2004/760), [2010 3255](https://fedlex.data.admin.ch/eli/oc/2010/438)und [2013 1241](https://fedlex.data.admin.ch/eli/oc/2013/274). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+Geltungsbereich am 2. Oktober 2024[^t-3]
 
 <table>
-<tr><th colspan="2">Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
-<tr><td colspan="2">Belgien</td><td>20. Dezember</td><td>1991</td><td>1. Juli</td><td>1992</td></tr>
-<tr><td colspan="2">Bulgarien</td><td>20. Juli</td><td>2004</td><td>1. Februar</td><td>2005</td></tr>
-<tr><td colspan="2">Dänemark\*</td><td>8. September</td><td>2000</td><td>1. April</td><td>2001</td></tr>
-<tr><td colspan="2">Deutschland\*</td><td>19. April</td><td>1991</td><td>1. November</td><td>1991</td></tr>
-<tr><td colspan="2">Europäische Union\*</td><td>30. April</td><td>1998</td><td>1. November</td><td>1998</td></tr>
-<tr><td colspan="2">Finnland</td><td>14. Juni</td><td>1990</td><td>1. Januar</td><td>1991</td></tr>
-<tr><td colspan="2">Frankreich\*</td><td>5. Juni</td><td>2000</td><td>1. Dezember</td><td>2000</td></tr>
-<tr><td colspan="2">Griechenland</td><td>27. Mai</td><td>1992</td><td>1. Dezember</td><td>1992</td></tr>
-<tr><td colspan="2">Lettland<sup>\*</sup></td><td>5. Oktober</td><td>2010</td><td>1. Mai</td><td>2011</td></tr>
-<tr><td colspan="2">Litauen</td><td>14. Juni</td><td>2007</td><td>1. Januar</td><td>2008</td></tr>
-<tr><td colspan="2">Mazedonien\*</td><td>22. Januar</td><td>2004</td><td>1. August</td><td>2004</td></tr>
-<tr><td colspan="2">Niederlande\* <sup>a</sup></td><td>21. Januar</td><td>1997</td><td>1. August</td><td>1997</td></tr>
-<tr><td colspan="2">Norwegen</td><td>9. Juli</td><td>1986</td><td>1. Januar</td><td>1991</td></tr>
-<tr><td colspan="2">Rumänien</td><td>16. November</td><td>2006</td><td>1. Juni</td><td>2007</td></tr>
-<tr><td colspan="2">Schweden</td><td>15. September</td><td>1988</td><td>1. Januar</td><td>1991</td></tr>
-<tr><td colspan="2">Schweiz</td><td>3. November</td><td>1993</td><td>1. Juni</td><td>1994</td></tr>
-<tr><td colspan="2">Serbien</td><td>2. Dezember</td><td>2010</td><td>1. Juli</td><td>2011</td></tr>
-<tr><td colspan="2">Slowenien\*</td><td>15. Dezember</td><td>2006</td><td>1. Juli</td><td>2007</td></tr>
-<tr><td colspan="2">Spanien</td><td>12. September</td><td>1989</td><td>1. Januar</td><td>1991</td></tr>
-<tr><td colspan="2">Tschechische Republik\*</td><td>20. März</td><td>2003</td><td>1. Oktober</td><td>2003</td></tr>
-<tr><td colspan="2">Vereinigtes Königreich\*</td><td>17. Dezember</td><td>1999</td><td>1. Juli</td><td>2000</td></tr>
-<tr><td colspan="2">Zypern</td><td>9. Dezember</td><td>1993</td><td>1. Juli</td><td>1994</td></tr>
-<tr><td><sup>a</sup></td><td colspan="5">Für das Königreich in Europa.</td></tr>
-<tr><td>\*</td><td colspan="5">Vorbehalte und Erklärungen.</td></tr>
-<tr><td></td><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite des Europarates: http://conventions.coe.int eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Belgien</td><td>20. Dezember</td><td>1991</td><td>1. Juli</td><td>1992</td></tr>
+<tr><td>Bulgarien</td><td>20. Juli</td><td>2004</td><td>1. Februar</td><td>2005</td></tr>
+<tr><td>Dänemark\*</td><td>8. September</td><td>2000</td><td>1. April</td><td>2001</td></tr>
+<tr><td>Deutschland\*</td><td>19. April</td><td>1991</td><td>1. November</td><td>1991</td></tr>
+<tr><td>Europäische Union\*</td><td>30. April</td><td>1998</td><td>1. November</td><td>1998</td></tr>
+<tr><td>Finnland</td><td>14. Juni</td><td>1990</td><td>1. Januar</td><td>1991</td></tr>
+<tr><td>Frankreich\*</td><td>5. Juni</td><td>2000</td><td>1. Dezember</td><td>2000</td></tr>
+<tr><td>Griechenland</td><td>27. Mai</td><td>1992</td><td>1. Dezember</td><td>1992</td></tr>
+<tr><td>Lettland<sup>\*</sup></td><td>5. Oktober</td><td>2010</td><td>1. Mai</td><td>2011</td></tr>
+<tr><td>Litauen</td><td>14. Juni</td><td>2007</td><td>1. Januar</td><td>2008</td></tr>
+<tr><td>Niederlande\* <sup>a</sup></td><td>21. Januar</td><td>1997</td><td>1. August</td><td>1997</td></tr>
+<tr><td>Nordmazedonien\*</td><td>22. Januar</td><td>2004</td><td>1. August</td><td>2004</td></tr>
+<tr><td>Norwegen</td><td>9. Juli</td><td>1986</td><td>1. Januar</td><td>1991</td></tr>
+<tr><td>Rumänien</td><td>16. November</td><td>2006</td><td>1. Juni</td><td>2007</td></tr>
+<tr><td>Schweden</td><td>15. September</td><td>1988</td><td>1. Januar</td><td>1991</td></tr>
+<tr><td>Schweiz</td><td>3. November</td><td>1993</td><td>1. Juni</td><td>1994</td></tr>
+<tr><td>Serbien</td><td>2. Dezember</td><td>2010</td><td>1. Juli</td><td>2011</td></tr>
+<tr><td>Slowenien\*</td><td>15. Dezember</td><td>2006</td><td>1. Juli</td><td>2007</td></tr>
+<tr><td>Spanien</td><td>12. September</td><td>1989</td><td>1. Januar</td><td>1991</td></tr>
+<tr><td>Tschechische Republik\*</td><td>20. März</td><td>2003</td><td>1. Oktober</td><td>2003</td></tr>
+<tr><td>Ungarn</td><td>18. Februar</td><td>2021</td><td>1. September</td><td>2021</td></tr>
+<tr><td>Vereinigtes Königreich\*</td><td>17. Dezember</td><td>1999</td><td>1. Juli</td><td>2000</td></tr>
+<tr><td>Zypern</td><td>9. Dezember</td><td>1993</td><td>1. Juli</td><td>1994</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite des Europarates: [http://conventions.coe.int](http://conventions.coe.int) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Für das Königreich in Europa.</td></tr>
 </table>
+
+[^t-3]: [AS 1994 930](https://fedlex.data.admin.ch/eli/oc/1994/930_930_930); [2004 5001](https://fedlex.data.admin.ch/eli/oc/2004/760); [2010 3255](https://fedlex.data.admin.ch/eli/oc/2010/438); [2013 1241](https://fedlex.data.admin.ch/eli/oc/2013/274); [2024 542](https://fedlex.data.admin.ch/eli/oc/2024/542). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

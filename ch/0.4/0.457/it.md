@@ -3,16 +3,16 @@ sr: "0.457"
 title: Convenzione europea del 18 marzo 1986 sulla protezione degli animali vertebrati usati a fini sperimentali o ad altri fini scientifici
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/930_930_930"
 language: it
-version: 2013-04-11
+version: 2024-10-02
 adopted: 1986-03-18
 in_force: 1994-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20130411/it/xml/fedlex-data-admin-ch-eli-cc-1994-930_930_930-20130411-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/930_930_930/20130411/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20241002/it/xml/fedlex-data-admin-ch-eli-cc-1994-930_930_930-20241002-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/930_930_930/20241002/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Convenzione europea sulla protezione degli animali vertebrati usati a fini sperimentali o ad altri fini scientifici****
+# Convenzione europea sulla protezione degli animali vertebrati usati a fini sperimentali o ad altri fini scientifici
 
 RU **1994** 930; FF **1992** V 778[^t-1]
 
@@ -26,12 +26,12 @@ Istrumento di ratificazione depositato dalla Svizzera il 3 novembre 1993
 
 Entrata in vigore per la Svizzera il 1° giugno 1994
 
-(Stato 11 aprile 2013)
+(Stato 2 ottobre 2024)
 
-[^t-1]: Vedi anche gli art. 30–38 modificati dagli art. 1–3 du Prot. d’emendamento del 22 giu. 1998, in vigore per la Svizezra dal 2 dic. 2005 ([RS 0.457.1](https://fedlex.data.admin.ch/eli/cc/2006/719)).
+[^t-1]: Vedi anche gli art. 30–38 modificati dagli art. 1–3 du Prot. d’emendamento del 22 giu. 1998, in vigore per la Svizezra dal 2 dic. 2005 ([RS 0.457.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1856)).
 [^t-2]: Art. 1 cpv. 1 lett. b del DF dei 17 giu. 1993 ([RU 1994 918](https://fedlex.data.admin.ch/eli/oc/1994/918_918_918)).
 
-Preambolo
+*Preambolo*
 
 Gli Stati membri del Consiglio d’Europa, firmatari della presente Convenzione,
 
@@ -66,7 +66,7 @@ Ai sensi della presente Convenzione, si intende per:
 - g. *«stabilimento di allevamento»:* qualsiasi stabilimento in cui gli animali vengono allevati allo scopo di essere successivamente utilizzati in esperimenti;
 - h. *«stabilimento fornitore»:* qualsiasi stabilimento diverso da quello di allevamento, che fornisce animali destinati ad essere utilizzati in esperimenti;
 - i. *«stabilimento utilizzatore»:* qualsiasi stabilimento in cui gli animali vengono utilizzati in esperimenti;
-- l. *«eliminazione con metodi umanitari»:* sacrificio di un animale con il minimo possibile di sofferenza fisica e psicologica a seconda della specie.
+- j. *«eliminazione con metodi umanitari»:* sacrificio di un animale con il minimo possibile di sofferenza fisica e psicologica a seconda della specie.
 
 #### Art. 2
 
@@ -308,7 +308,7 @@ La presente Convenzione è aperta alla firma degli Stati membri dei Consiglio d�
 
 <sup>2.</sup> La Convenzione entrerà in vigore per ogni Stato membro il primo giorno del mese successivo alla scadenza di un periodo di sei mesi dopo la data del deposito dello strumento di adesione presso il Segretario Generale del Consiglio d’Europa.
 
-[^33-1]: [RS 0.192.030](https://fedlex.data.admin.ch/eli/cc/1963/772_769_797)
+[^33-1]: [RS 0.192.030](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/545)
 
 #### Art. 34
 
@@ -421,7 +421,7 @@ Anche le installazioni integrate in un edificio più importante dovrebbero esser
 
 1.4.5 La concezione e la costruzione delle zone di circolazione dovrebbero corrispondere alle norme relative al ricovero degli animali. I corridoi dovrebbero essere sufficientemente larghi per una circolazione agevole del materiale rotabile.
 
-[^annexA-lvlu1-lvl1-1]: [RS 0.454](https://fedlex.data.admin.ch/eli/cc/1981/218_218_218)
+[^annexA-lvlu1-lvl1-1]: [RS 0.454](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1852)
 
 ### 2. Ambiente nei locali di ricovero degli animali e suo controllo
 
@@ -555,7 +555,7 @@ Le lettiere dovrebbero essere asciutte, assorbenti, non polverose, non tossiche,
 
 Le carcasse degli animali morti non dovrebbero essere rimosse prima dell’insorgere della rigidità cadaverica.
 
-[^annexA-lvlu1-lvl3-1]: [RS 0.452](https://fedlex.data.admin.ch/eli/cc/2006/291)
+[^annexA-lvlu1-lvl3-1]: [RS 0.452](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1849)
 
 ### Tavole e diagrammi relativi all’allegato A della Convenzione europea sulla protezione degli animali vertebrati usati a fini sperimentali o ad altri fini scientifici
 
@@ -669,7 +669,7 @@ Vedi anche diagramma 6.
 <tr><td>5</td><td>0,50</td><td>40</td><td>0,14</td></tr>
 </table>
 
-### Tavola 6
+**Tavola 6**
 
 Orientamenti per ospitare gatti
 
@@ -847,7 +847,7 @@ La larghezza delle maglie nei pavimenti a griglia non dovrebbe superare 10 x 10 
 <tr><td>600–1200</td><td>1000</td><td>600</td><td>450</td><td>45</td><td>10</td></tr>
 <tr><td>1200–1800</td><td>1200</td><td>700</td><td>550</td><td>45</td><td>12</td></tr>
 <tr><td>1800–2400</td><td>1400</td><td>850</td><td>650</td><td>45</td><td>12</td></tr>
-<tr><td>*(Maschi adulti)*</td><td></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>*(Maschi* *adulti)*</td><td></td><td></td><td></td><td></td><td></td></tr>
 <tr><td>&gt;2400</td><td>1800</td><td>1200</td><td>1000</td><td>60</td><td>15</td></tr>
 <tr><td>*Quaglie* 120– 140</td><td>350</td><td>250</td><td>200</td><td>15</td><td>4</td></tr>
 </table>
@@ -862,7 +862,7 @@ Superficie minima del pavimento della gabbia
 
 Dato il peso di un topo, la linea EU-EU indica la superficie minima da assegnargli.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20130411/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20241002/it/xml/image/image1.png)
 
 Diagramma 2
 
@@ -874,7 +874,7 @@ Superficie minima del pavimento della gabbia
 
 Dato il peso di un ratto, la linea EU-EU indica la superficie minima da assegnargli.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20130411/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20241002/it/xml/image/image2.png)
 
 Diagramma 3
 
@@ -886,7 +886,7 @@ Superficie minima del pavimento della gabbia
 
 Dato il peso di un criceto siriano, la linea EU-EU indica la superficie minima da assegnargli.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20130411/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20241002/it/xml/image/image3.png)
 
 Diagramma 4
 
@@ -898,7 +898,7 @@ Superficie minima del pavimento della gabbia
 
 Dato il peso di un porcellino d’India, la linea EU-EU indica la superficie minima da assegnargli.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20130411/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20241002/it/xml/image/image4.png)
 
 Diagramma 5
 
@@ -910,7 +910,7 @@ Superficie minima del pavimento della gabbia
 
 Dato il peso di un coniglio, la linea EU-EU indica la superficie minima da assegnargli.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20130411/it/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20241002/it/xml/image/image5.png)
 
 Diagramma 6
 
@@ -922,7 +922,7 @@ Superficie minima del pavimento della gabbia per una coniglia e la sua prole non
 
 Dato il peso di una coniglia, la linea EU-EU indica la superficie minima da assegnarle.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20130411/it/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20241002/it/xml/image/image6.png)
 
 Diagramma 7
 
@@ -934,7 +934,7 @@ Superficie minima del pavimento della gabbia
 
 Dato il peso di un gatto, la linea EU-EU indica la superficie minima da assegnargli.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20130411/it/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20241002/it/xml/image/image7.png)
 
 Diagramma 8
 
@@ -944,7 +944,7 @@ Indicazioni per stabilire il rapporto tra il numero di topi/gabbia e la superfic
 
 Le linee rappresentano i pesi medi e corrispondono alla linea EU-EU del diagramma 1.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20130411/it/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20241002/it/xml/image/image8.png)
 
 Diagramma 9
 
@@ -954,7 +954,7 @@ Indicazioni per stabilire il rapporto tra il numero di ratti/gabbia e la superfi
 
 Le linee rappresentano i pesi medi e corrispondono alla linea EU-EU del diagramma 2.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20130411/it/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20241002/it/xml/image/image9.png)
 
 Diagramma 10
 
@@ -964,7 +964,7 @@ Orientamento per stabilire il rapporto tra il numero di criceti/gabbia e la supe
 
 Le linee rappresentano i pesi medi e corrispondono alla linea EU-EU del diagramma 3.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20130411/it/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20241002/it/xml/image/image10.png)
 
 Diagramma 11
 
@@ -972,7 +972,7 @@ Orientamento per stabilire il rapporto tra il numero di porcellini d’India/gab
 
 Le linee rappresentano i pesi medi e corrispondono alla linea EU‑EU del diagramma 4.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20130411/it/xml/image/image11.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20241002/it/xml/image/image11.png)
 
 Diagramma 12
 
@@ -982,7 +982,7 @@ Orientamento per stabilire il rapporto tra il numero di conigli/gabbia e la supe
 
 Le linee rappresentano i pesi medi e corrispondono alla linea EU-EU del diagramma 5.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20130411/it/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20241002/it/xml/image/image12.png)
 
 Allegato B
 
@@ -1120,9 +1120,9 @@ Numero di animali utilizzati in esperimenti richiesti dalla legge nel … (anno)
 <tr><td>Entrambi i gruppi</td><td colspan="4"></td></tr>
 </table>
 
-[^annexB-lvlu1-lvlu2-1]: [RS 0.812.21](https://fedlex.data.admin.ch/eli/cc/1974/744_745_745)
+[^annexB-lvlu1-lvlu2-1]: [RS 0.812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3461)
 
-Campo d’applicazione l’11 aprile 2013**[^t-3]**
+Campo d’applicazione 2 ottobre 2014[^t-3]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -1137,7 +1137,7 @@ Campo d’applicazione l’11 aprile 2013**[^t-3]**
 <tr><td>Grecia</td><td>27 maggio</td><td>1992</td><td>1° dicembre</td><td>1992</td></tr>
 <tr><td>Lettonia<sup>\*</sup></td><td>5 ottobre</td><td>2010</td><td>1° maggio</td><td>2011</td></tr>
 <tr><td>Lituania</td><td>14 giugno</td><td>2007</td><td>1° gennaio</td><td>2008</td></tr>
-<tr><td>Macedonia\*</td><td>22 gennaio</td><td>2004</td><td>1° agosto</td><td>2004</td></tr>
+<tr><td>Macedonia del Nord\*</td><td>22 gennaio</td><td>2004</td><td>1° agosto</td><td>2004</td></tr>
 <tr><td>Norvegia</td><td>9 luglio</td><td>1986</td><td>1° gennaio</td><td>1991</td></tr>
 <tr><td>Paesi Bassi\* <sup>a</sup></td><td>21 gennaio</td><td>1997</td><td>1° agosto</td><td>1997</td></tr>
 <tr><td>Regno Unito\*</td><td>17 dicembre</td><td>1999</td><td>1° luglio</td><td>2000</td></tr>
@@ -1148,10 +1148,8 @@ Campo d’applicazione l’11 aprile 2013**[^t-3]**
 <tr><td>Svezia</td><td>15 settembre</td><td>1988</td><td>1° gennaio</td><td>1991</td></tr>
 <tr><td>Svizzera</td><td>3 novembre</td><td>1993</td><td>1° giugno</td><td>1994</td></tr>
 <tr><td>Unione europea\*</td><td>30 aprile</td><td>1998</td><td>1° novembre</td><td>1998</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazione non sono pubblicate nella RU. I testi francesi e inglesi si possono consultare sul sito Internet del Consiglio d’Europa: http://conventions.coe.int/treaty/FR/cadreprincipal.htm od ottenere presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Al Regno in Europa.</td></tr>
+<tr><td>Ungheria</td><td>18 febbraio</td><td>2021</td><td>1° settembre</td><td>2021</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazione non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet del Consiglio d’Europa: [http://conventions.coe.int](http://conventions.coe.int), oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Al Regno in Europa.</td></tr>
 </table>
 
-- [tab]
-
-[^t-3]: [RU 1994 930](https://fedlex.data.admin.ch/eli/oc/1994/930_930_930), [2004 5001](https://fedlex.data.admin.ch/eli/oc/2004/760), [2010 3255](https://fedlex.data.admin.ch/eli/oc/2010/438)e [2013 1241](https://fedlex.data.admin.ch/eli/oc/2013/274). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-3]: [RU 1994 930](https://fedlex.data.admin.ch/eli/oc/1994/930_930_930); [2004 5001](https://fedlex.data.admin.ch/eli/oc/2004/760); [2010 3255](https://fedlex.data.admin.ch/eli/oc/2010/438); [2013 1241](https://fedlex.data.admin.ch/eli/oc/2013/274); [2024 542](https://fedlex.data.admin.ch/eli/oc/2024/542). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

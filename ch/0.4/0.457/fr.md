@@ -3,11 +3,11 @@ sr: "0.457"
 title: "Convention européenne du 18 mars 1986 sur la protection des animaux vertébrés utilisés à des fins expérimentales ou à d'autres fins scientifiques (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1994/930_930_930"
 language: fr
-version: 2013-04-11
+version: 2024-10-02
 adopted: 1986-03-18
 in_force: 1994-06-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20130411/fr/xml/fedlex-data-admin-ch-eli-cc-1994-930_930_930-20130411-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1994/930_930_930/20130411/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20241002/fr/xml/fedlex-data-admin-ch-eli-cc-1994-930_930_930-20241002-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1994/930_930_930/20241002/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,24 +20,24 @@ Texte original
 
 Conclue à Strasbourg le 18 mars 1986 Approuvée par l’Assemblée fédérale le 17 juin 1993[^t-2] Instrument de ratification déposé par la Suisse le 3 novembre 1993 Entrée en vigueur pour la Suisse le 1<sup>er</sup> juin 1994
 
-(Etat le 11 avril 2013)
+(État le 2 octobre 2024)
 
-[^t-1]: Voir aussi les art. 30 à 38 modifiés par les art. 1 à 3 du prot. d’amendement du 22 juin 1998, en vigueur pour la Suisse depuis le 2 déc. 2005 ([RS 0.457.1](https://fedlex.data.admin.ch/eli/cc/2006/719)).
+[^t-1]: Voir aussi les art. 30 à 38 modifiés par les art. 1 à 3 du prot. d’amendement du 22 juin 1998, en vigueur pour la Suisse depuis le 2 déc. 2005 ([RS 0.457.1](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1856)).
 [^t-2]: Art. 1 al. 1 let. b de l’AF du 17 juin 1993 ([RO 1994 918](https://fedlex.data.admin.ch/eli/oc/1994/918_918_918)).
 
-Préambule
+*Préambule*
 
-Les Etats membres du Conseil de l’Europe, signataires de la présente Convention,
+Les États membres du Conseil de l’Europe, signataires de la présente Convention,
 
-Rappelant que le but du Conseil de l’Europe est de réaliser une union plus étroite entre ses membres, et qu’il souhaite coopérer avec d’autres Etats dans la protection des animaux vivants utilisés à des fins expérimentales ou à d’autres fins scientifiques;
+rappelant que le but du Conseil de l’Europe est de réaliser une union plus étroite entre ses membres, et qu’il souhaite coopérer avec d’autres États dans la protection des animaux vivants utilisés à des fins expérimentales ou à d’autres fins scientifiques,
 
-Reconnaissant que l’homme a l’obligation morale de respecter tous les animaux et de prendre dûment en considération leur aptitude à souffrir et à se souvenir;
+reconnaissant que l’homme a l’obligation morale de respecter tous les animaux et de prendre dûment en considération leur aptitude à souffrir et à se souvenir,
 
-Reconnaissant toutefois que l’homme, dans sa quête de connaissance, de santé et de sécurité, a besoin d’utiliser des animaux lorsqu’on peut raisonnablement espérer que cela fera progresser la connaissance, ou produira des résultats utiles d’une façon générale pour l’homme ou pour l’animal, au même titre qu’il utilise les animaux pour se nourrir, pour se vêtir et comme bêtes de somme;
+reconnaissant toutefois que l’homme, dans sa quête de connaissance, de santé et de sécurité, a besoin d’utiliser des animaux lorsqu’on peut raisonnablement espérer que cela fera progresser la connaissance, ou produira des résultats utiles d’une façon générale pour l’homme ou pour l’animal, au même titre qu’il utilise les animaux pour se nourrir, pour se vêtir et comme bêtes de somme,
 
-Résolus à limiter l’utilisation des animaux à des fins expérimentales ou à d’autres fins scientifiques, avec pour finalité de remplacer cette utilisation partout où cela est possible, notamment en recherchant des méthodes de substitution et en encourageant le recours à ces méthodes de substitution;
+résolus à limiter l’utilisation des animaux à des fins expérimentales ou à d’autres fins scientifiques, avec pour finalité de remplacer cette utilisation partout où cela est possible, notamment en recherchant des méthodes de substitution et en encourageant le recours à ces méthodes de substitution,
 
-Souhaitant adopter des dispositions communes, afin de protéger les animaux utilisés dans des procédures susceptibles de provoquer des dommages durables, des douleurs, des souffrances ou de l’angoisse et d’assurer que ceux-ci, lorsqu’ils sont inévitables, soient réduits au minimum,
+souhaitant adopter des dispositions communes, afin de protéger les animaux utilisés dans des procédures susceptibles de provoquer des dommages durables, des douleurs, des souffrances ou de l’angoisse et d’assurer que ceux-ci, lorsqu’ils sont inévitables, soient réduits au minimum,
 
 sont convenus de ce qui suit:
 
@@ -131,7 +131,7 @@ Au cours d’une procédure, tout animal utilisé continue à relever des dispos
 
 #### Art. 11
 
-<sup>1.</sup> A la fin de toute procédure, il est décidé si l’animal doit être gardé en vie ou sacrifié par une méthode humanitaire. Un animal n’est pas gardé en vie si, quand bien même son état de santé serait redevenu normal à tous autres égards, il est probable qu’il continue à subir des douleurs ou une angoisse permanentes.
+<sup>1.</sup> À la fin de toute procédure, il est décidé si l’animal doit être gardé en vie ou sacrifié par une méthode humanitaire. Un animal n’est pas gardé en vie si, quand bien même son état de santé serait redevenu normal à tous autres égards, il est probable qu’il continue à subir des douleurs ou une angoisse permanentes.
 
 <sup>2.</sup> Les décisions visées au par. 1 du présent article sont prises par une personne compétente, notamment un vétérinaire ou la personne qui, conformément à l’art. 13, est responsable de la procédure, ou qui l’a conduite.
 
@@ -146,7 +146,7 @@ Lorsque, à l’issue d’une procédure:
 
 Aucun animal utilisé dans une procédure qui lui a causé une douleur ou une souffrance intenses ou durables, que l’anesthésie ou l’analgésie ait été ou non employée, ne peut être utilisé dans une nouvelle procédure à moins que son état de santé et de bien-être ne soit redevenu normal, et à condition que:
 
-- a. pendant toute la durée de cette nouvelle procédure, l’animal soit soumis à une anesthésie générale qui sera maintenue jusqu’au sacrifice; ou que
+- a. pendant toute la durée de cette nouvelle procédure, l’animal soit soumis à une anesthésie générale qui sera maintenue jusqu’au sacrifice, ou que
 - b. la nouvelle procédure n’implique que des interventions mineures.
 
 #### Art. 12
@@ -159,7 +159,7 @@ Nonobstant les autres dispositions de la présente Convention, lorsque les buts 
 
 Une procédure dans les buts visés à l’art. 2 ne peut être effectuée que par des personnes autorisées, ou sous la responsabilité directe d’une personne autorisée, ou si le projet expérimental ou autre projet scientifique visé est autorisé conformément aux dispositions de la législation nationale. Cette autorisation n’est accordée qu’aux personnes jugées compétentes par l’autorité responsable.
 
-## Titre V Etablissements d’élevage ou établissements fournisseurs
+## Titre V Établissements d’élevage ou établissements fournisseurs
 
 #### Art. 14
 
@@ -187,7 +187,7 @@ L’enregistrement prévu à l’art. 14 mentionne la personne responsable de l�
 
 <sup>4.</sup> Les caractéristiques de l’identité et de l’origine de chaque chien ou chat doivent figurer sur les registres de l’établissement.
 
-## Titre VI Etablissements utilisateurs
+## Titre VI Établissements utilisateurs
 
 #### Art. 18
 
@@ -278,7 +278,7 @@ Ces adresses figureront dans les publications de statistiques établies par le S
 
 <sup>1.</sup> En vue d’éviter des répétitions inutiles de procédures exigées par la législation en matière de santé et de sécurité, chaque Partie reconnaît, lorsque cela est possible, les résultats des procédures effectuées sur le territoire d’une autre Partie.
 
-<sup>2.</sup> A cette fin, les Parties s’engagent à s’accorder mutuellement assistance, notamment en fournissant des informations sur leur droit et sur leur pratique administrative concernant les exigences des procédures requises pour appuyer les demandes d’enregistrement des produits, ainsi que des informations factuelles concernant les procédures effectuées sur leur territoire et les autorisations ou tout autre détail administratif portant sur de telles procédures.
+<sup>2.</sup> À cette fin, les Parties s’engagent à s’accorder mutuellement assistance, notamment en fournissant des informations sur leur droit et sur leur pratique administrative concernant les exigences des procédures requises pour appuyer les demandes d’enregistrement des produits, ainsi que des informations factuelles concernant les procédures effectuées sur leur territoire et les autorisations ou tout autre détail administratif portant sur de telles procédures.
 
 ## Titre X Consultations multilatérales
 
@@ -290,21 +290,21 @@ Les Parties procèdent, dans les cinq ans qui suivent l’entrée en vigueur de 
 
 #### Art. 31
 
-La présente Convention est ouverte à la signature des Etats membres du Conseil de l’Europe et à celle des Communautés européennes. Elle sera soumise à ratification, acceptation ou approbation. Les instruments de ratification, d’acceptation ou d’approbation seront déposés près le Secrétaire Général du Conseil de l’Europe.
+La présente Convention est ouverte à la signature des États membres du Conseil de l’Europe et à celle des Communautés européennes. Elle sera soumise à ratification, acceptation ou approbation. Les instruments de ratification, d’acceptation ou d’approbation seront déposés près le Secrétaire Général du Conseil de l’Europe.
 
 #### Art. 32
 
-<sup>1.</sup> La présente Convention entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de six mois après la date à laquelle quatre Etats membres du Conseil de l’Europe auront exprimé leur consentement à être liés par la Convention conformément aux dispositions de l’art. 31.
+<sup>1.</sup> La présente Convention entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de six mois après la date à laquelle quatre États membres du Conseil de l’Europe auront exprimé leur consentement à être liés par la Convention conformément aux dispositions de l’art. 31.
 
 <sup>2.</sup> Pour tout Signataire qui exprimera ultérieurement son consentement à être lié par la Convention, celle-ci entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de six mois après la date du dépôt de l’instrument de ratification, d’acceptation ou d’approbation.
 
 #### Art. 33
 
-<sup>1.</sup> Après l’entrée en vigueur de la présente Convention, le Comité des Ministres du Conseil de l’Europe pourra inviter tout Etat non membre du Conseil à adhérer à la présente Convention, par une décision prise à la majorité prévue à l’art. 20.d du Statut du Conseil de l’Europe[^33-1], et à l’unanimité des représentants des Etats contractants ayant le droit de siéger au Comité.
+<sup>1.</sup> Après l’entrée en vigueur de la présente Convention, le Comité des Ministres du Conseil de l’Europe pourra inviter tout État non membre du Conseil à adhérer à la présente Convention, par une décision prise à la majorité prévue à l’art. 20.d du Statut du Conseil de l’Europe[^33-1], et à l’unanimité des représentants des États contractants ayant le droit de siéger au Comité.
 
-<sup>2.</sup> Pour tout Etat adhérent, la Convention entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de six mois après la date du dépôt de l’instrument d’adhésion près le Secrétaire Général du Conseil de l’Europe.
+<sup>2.</sup> Pour tout État adhérent, la Convention entrera en vigueur le premier jour du mois qui suit l’expiration d’une période de six mois après la date du dépôt de l’instrument d’adhésion près le Secrétaire Général du Conseil de l’Europe.
 
-[^33-1]: [RS 0.192.030](https://fedlex.data.admin.ch/eli/cc/1963/772_769_797)
+[^33-1]: [RS 0.192.030](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/545)
 
 #### Art. 34
 
@@ -330,14 +330,14 @@ La présente Convention est ouverte à la signature des Etats membres du Conseil
 
 #### Art. 37
 
-Le Secrétaire Général du Conseil de l’Europe notifiera aux Etats membres du Conseil de l’Europe, aux Communautés européennes et à tout Etat ayant adhéré à la présente Convention:
+Le Secrétaire Général du Conseil de l’Europe notifiera aux États membres du Conseil de l’Europe, aux Communautés européennes et à tout État ayant adhéré à la présente Convention:
 
 - a. toute signature;
 - b. le dépôt de tout instrument de ratification, d’acceptation, d’approbation ou d’adhésion;
 - c. toute date d’entrée en vigueur de la présente Convention conformément à ses art. 32, 33 et 35;
 - d. tout autre acte, notification ou communication ayant trait à la présente Convention.
 
-*En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Strasbourg, le 18 mars 1986, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des Etats membres du Conseil de l’Europe et aux Communautés européennes, ainsi qu’à tout Etat invité à adhérer à la présente Convention. (Suivent les signatures)
+*En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Strasbourg, le 18 mars 1986, en français et en anglais, les deux textes faisant également foi, en un seul exemplaire qui sera déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des États membres du Conseil de l’Europe et aux Communautés européennes, ainsi qu’à tout État invité à adhérer à la présente Convention. (Suivent les signatures)
 
 Annexe A
 
@@ -347,7 +347,7 @@ Annexe A
 
 ### Introduction
 
-\1. Les Etats membres du Conseil de l’Europe ont décidé qu’ils se proposaient de protéger les animaux vivants utilisés à des fins expérimentales et à d’autres fins scientifiques, pour veiller à ce que les dommages durables, les douleurs, les souffrances ou l’angoisse qu’ils subissent comme conséquences de procédures faites sur eux soient limités au strict minimum.
+\1. Les États membres du Conseil de l’Europe ont décidé qu’ils se proposaient de protéger les animaux vivants utilisés à des fins expérimentales et à d’autres fins scientifiques, pour veiller à ce que les dommages durables, les douleurs, les souffrances ou l’angoisse qu’ils subissent comme conséquences de procédures faites sur eux soient limités au strict minimum.
 
 \2. Il est vrai que certaines procédures sont menées sur le terrain avec des animaux sauvages vivant en liberté et assurant leur propre subsistance, mais elles sont cependant en nombre très limité. La grande majorité des animaux utilisés dans les procédures doit, pour des raisons pratiques, être maintenue sous un contrôle physique quelconque dans des installations qui vont du parc extérieur aux cages pour petits animaux d’une animalerie de laboratoire. Dans cette situation, de nombreux intérêts sont en conflit. Il y a d’un côté l’animal, dont les besoins de mouvement, de relations sociales et d’autres manifestations de vie doivent être restreints, de l’autre, l’expérimentateur et ses assistants, qui exigent un contrôle total de l’animal et de son environnement. Dans ce conflit d’intérêts, il peut parfois n’être prêté qu’un intérêt secondaire à l’animal.
 
@@ -357,7 +357,7 @@ Annexe A
 
 \5. Le mot «soins», employé en relation avec les animaux servant ou devant servir à des procédures, couvre tous les aspects de la relation entre l’animal et l’homme. Il recouvre toutes les ressources matérielles et autres mobilisées par l’homme pour obtenir et maintenir un animal dans un état physique et mental où il souffre le moins possible et supporte le mieux les procédures. Les soins durent depuis le moment où l’animal est choisi pour être utilisé dans les procédures jusqu’à celui où il est sacrifié par une méthode humanitaire ou écarté d’une autre manière par l’établissement, à la fin de la procédure, conformément aux dispositions de l’art. 11 de la Convention.
 
-\6. L’annexe a pour but de donner des conseils sur la structure des locaux destinés aux animaux. Il existe toutefois plusieurs méthodes d’élevage et de maintien des animaux de laboratoire qui diffèrent essentiellement par le degré de contrôle de l’environnement microbiologique. Il faut garder présent à l’esprit que le personnel concerné devra parfois être à même de juger du caractère et des conditions des animaux lorsque les normes recommandées d’espace pourraient s’avérer insuffisantes, par exemple avec des animaux particulièrement agressifs. L’application des lignes directrices de cette annexe devrait tenir compte des impératifs de ces différentes situations. En outre, il convient de préciser le statut de ces lignes directrices. A la différence des dispositions de la Convention, elles ne sont pas contraignantes: il s’agit de recommandations à usage discrétionnaire destinées à servir de guide en matière de pratiques et de normes auxquelles toutes les personnes concernées devraient s’efforcer en conscience de parvenir. C’est pour cette raison que le mot «devrai(en)t» a dû être utilisé dans tout le texte, même lorsque le mot «doit (doivent)» eût semblé plus approprié. Il est évident, par exemple, que nourriture et eau *doivent* être fournies (voir 3.7.2 et 3.8).
+\6. L’annexe a pour but de donner des conseils sur la structure des locaux destinés aux animaux. Il existe toutefois plusieurs méthodes d’élevage et de maintien des animaux de laboratoire qui diffèrent essentiellement par le degré de contrôle de l’environnement microbiologique. Il faut garder présent à l’esprit que le personnel concerné devra parfois être à même de juger du caractère et des conditions des animaux lorsque les normes recommandées d’espace pourraient s’avérer insuffisantes, par exemple avec des animaux particulièrement agressifs. L’application des lignes directrices de cette annexe devrait tenir compte des impératifs de ces différentes situations. En outre, il convient de préciser le statut de ces lignes directrices. À la différence des dispositions de la Convention, elles ne sont pas contraignantes: il s’agit de recommandations à usage discrétionnaire destinées à servir de guide en matière de pratiques et de normes auxquelles toutes les personnes concernées devraient s’efforcer en conscience de parvenir. C’est pour cette raison que le mot «devrai(en)t» a dû être utilisé dans tout le texte, même lorsque le mot «doit (doivent)» eût semblé plus approprié. Il est évident, par exemple, que nourriture et eau *doivent* être fournies (voir 3.7.2 et 3.8).
 
 \7. Finalement, pour des raisons pratiques et financières, des installations existantes d’animaleries ne devraient pas être remplacées tant qu’elles sont en bon état ou qu’elles ne sont pas devenues inutiles d’une autre manière. En attendant le remplacement par des installations conformes aux lignes directrices suggérées, celles-ci devraient autant que possible être observées en adaptant le nombre et la taille des animaux aux cages et enclos existants.
 
@@ -417,7 +417,7 @@ Les installations qui sont intégrées dans un bâtiment plus important devraien
 
 1.4.5. La conception et la construction des zones de circulation devraient correspondre aux normes d’hébergement des animaux. Les couloirs devraient être suffisamment larges pour permettre une circulation aisée du matériel roulant.
 
-[^annexA-lvlu1-lvl1-1]: [RS 0.454](https://fedlex.data.admin.ch/eli/cc/1981/218_218_218)
+[^annexA-lvlu1-lvl1-1]: [RS 0.454](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1852)
 
 ### 2. Milieu ambiant dans les locaux d’hébergement et son contrôle
 
@@ -443,7 +443,7 @@ Les installations qui sont intégrées dans un bâtiment plus important devraien
 
 Les variations extrêmes de l’humidité relative (HR) ont un effet néfaste sur la santé et le bien-être des animaux. Il est recommandé par conséquent que le niveau de HR dans les locaux soit approprié aux espèces hébergées et soit normalement maintenu à 55 % +/– 10 %. Des valeurs inférieures à 40 % ou supérieures à 70 % devraient être évitées pendant une période prolongée.
 
-2.4. Eclairage
+2.4. Éclairage
 
 Dans les locaux dépourvus de fenêtres, il est nécessaire d’assurer un éclairage artificiel contrôlé pour, à la fois, satisfaire aux exigences biologiques des animaux et fournir un environnement de travail satisfaisant. Il est également nécessaire d’exercer un contrôle de l’intensité lumineuse et du cycle lumière-obscurité. Lorsqu’on élève des animaux albinos, il devrait être tenu compte de leur sensibilité à la lumière (voir aussi 2.6.).
 
@@ -469,7 +469,7 @@ Les animaux sauvages ou issus d’animaux errants ne devraient être capturés q
 
 3.3. Conditions d’emballage et de transport
 
-Tout transport est sans aucun doute pour les animaux une épreuve pénible qu’il faudrait atténuer dans la mesure du possible. Les animaux devraient être en bonne santé pour pouvoir être transportés et l’expéditeur a le devoir de contrôler qu’ils le sont. Des animaux malades ou en mauvaise condition ne devraient jamais être transportés, sauf pour des raisons thérapeutiques ou diagnostiques. Il convient de donner des soins particuliers aux femelles en état de gestation avancée. Les femelles risquant de mettre bas en cours de route ou celles ayant mis bas au cours des précédentes quarante-huit heures, ainsi que leur progéniture, ne devraient pas être transportées. L’expéditeur et le transporteur devraient prendre toutes les précautions nécessaires au cours de l’emballage, du chargement et du transit, en vue d’éviter les souffrances inutiles causées par une ventilation inadéquate, l’exposition à des températures extrêmes, le manque de nourriture et d’eau, de longs retards, etc. Le destinataire devrait être correctement informé des détails du transport et des caractéristiques des documents de transport afin de garantir une manutention et une livraison rapides au lieu de destination. Même dans le cas d’Etats non parties à la Convention européenne sur la protection des animaux en transport international[^annexA-lvlu1-lvl3-1], il est recommandé de respecter strictement les dispositions de celle-ci. Il est également recommandé de respecter strictement les lois et règlements nationaux, ainsi que les règlements relatifs aux animaux vivants de l’Association internationale des transports aériens et de l’Association pour le transport aérien des animaux *(Animal Air Transport Associ**a**tion)*.
+Tout transport est sans aucun doute pour les animaux une épreuve pénible qu’il faudrait atténuer dans la mesure du possible. Les animaux devraient être en bonne santé pour pouvoir être transportés et l’expéditeur a le devoir de contrôler qu’ils le sont. Des animaux malades ou en mauvaise condition ne devraient jamais être transportés, sauf pour des raisons thérapeutiques ou diagnostiques. Il convient de donner des soins particuliers aux femelles en état de gestation avancée. Les femelles risquant de mettre bas en cours de route ou celles ayant mis bas au cours des précédentes quarante-huit heures, ainsi que leur progéniture, ne devraient pas être transportées. L’expéditeur et le transporteur devraient prendre toutes les précautions nécessaires au cours de l’emballage, du chargement et du transit, en vue d’éviter les souffrances inutiles causées par une ventilation inadéquate, l’exposition à des températures extrêmes, le manque de nourriture et d’eau, de longs retards, etc. Le destinataire devrait être correctement informé des détails du transport et des caractéristiques des documents de transport afin de garantir une manutention et une livraison rapides au lieu de destination. Même dans le cas d’États non parties à la Convention européenne sur la protection des animaux en transport international[^annexA-lvlu1-lvl3-1], il est recommandé de respecter strictement les dispositions de celle-ci. Il est également recommandé de respecter strictement les lois et règlements nationaux, ainsi que les règlements relatifs aux animaux vivants de l’Association internationale des transports aériens et de l’Association pour le transport aérien des animaux *(Animal Air Transport Association)*.
 
 3.4. Réception et déballage
 
@@ -480,10 +480,10 @@ Les colis contenant des animaux devraient être récupérés et déballés sans 
 3.5.1. Les buts de la quarantaine sont:
 
 - a. de protéger les autres animaux de l’établissement;
-- b. de protéger l’homme contre des infections zoonotiques; et
+- b. de protéger l’homme contre des infections zoonotiques, et
 - c. de développer une bonne pratique scientifique.
 
-A moins que l’état de santé des animaux introduits dans un établissement ne soit satisfaisant, il est recommandé de les mettre en quarantaine. Dans certains cas, par exemple celui de la rage, la durée peut en être fixée par la législation nationale de la Partie. Dans d’autres cas, elle sera variable et devrait être déterminée en fonction des circonstances par une personne compétente, normalement le vétérinaire engagé par l’établissement (voir aussi tableau 2).
+À moins que l’état de santé des animaux introduits dans un établissement ne soit satisfaisant, il est recommandé de les mettre en quarantaine. Dans certains cas, par exemple celui de la rage, la durée peut en être fixée par la législation nationale de la Partie. Dans d’autres cas, elle sera variable et devrait être déterminée en fonction des circonstances par une personne compétente, normalement le vétérinaire engagé par l’établissement (voir aussi tableau 2).
 
 Les animaux pourront être utilisés pour des procédures pendant la période de quarantaine dans la mesure où ils se sont acclimatés à leur nouvel environnement et où ils ne présentent aucun risque important pour d’autres animaux ou pour l’homme.
 
@@ -547,7 +547,7 @@ Les litières devraient être sèches, absorbantes, sans poussière, non toxique
 
 L’enlèvement du corps ne devrait pas intervenir avant l’apparition de la rigidité cadavérique.
 
-[^annexA-lvlu1-lvl3-1]: [RS 0.452](https://fedlex.data.admin.ch/eli/cc/2006/291)
+[^annexA-lvlu1-lvl3-1]: [RS 0.452](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1849)
 
 ### Tableaux et diagrammes afférents à l’annexe A de la Convention européenne sur la protection des animaux vertébrés utilisés à des fins expérimentales ou à d’autres fins scientifiques
 
@@ -790,7 +790,7 @@ Lignes directrices pour l’hébergement des animaux de ferme en enclos
 <tr><td>150–</td><td>200</td><td>2,5</td><td>2,0</td><td>1,2</td><td>1,4</td><td>0,40</td></tr>
 <tr><td>200–</td><td>400</td><td>2,6</td><td>2,2</td><td>1,4</td><td>1,6</td><td>0,55</td></tr>
 <tr><td>&gt;</td><td>400</td><td>2,8</td><td>2,2</td><td>1,4</td><td>1,8</td><td>0,65</td></tr>
-<tr><td colspan="2">*Chevaux adultes*</td><td>13,5</td><td>4,5</td><td>1,8</td><td></td><td>–</td></tr>
+<tr><td colspan="2">*Chevaux* *adultes*</td><td>13,5</td><td>4,5</td><td>1,8</td><td></td><td>–</td></tr>
 </table>
 
 **Tableau 12**
@@ -817,7 +817,7 @@ Lignes directrices pour l’hébergement des animaux de ferme en stalles
 <tr><td>200–</td><td>350</td><td>1,8</td><td>1,8</td><td>1,4</td></tr>
 <tr><td>350–</td><td>500</td><td>2,1</td><td>1,9</td><td>1,4</td></tr>
 <tr><td>&gt;</td><td>500</td><td>2,6</td><td>2,2</td><td>1,4</td></tr>
-<tr><td colspan="2">*Chevaux adultes*</td><td>4,0</td><td>2,5</td><td>1,6</td></tr>
+<tr><td colspan="2">*Chevaux* *adultes*</td><td>4,0</td><td>2,5</td><td>1,6</td></tr>
 </table>
 
 **Tableau 13**
@@ -853,9 +853,9 @@ Souris
 
 Surface au sol minimale de la cage
 
-Etant donné le poids d’une souris, la ligne pleine, EU–EU, donne la surface minimale dont la souris devrait disposer.
+Étant donné le poids d’une souris, la ligne pleine, EU–EU, donne la surface minimale dont la souris devrait disposer.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20130411/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20241002/fr/xml/image/image1.png)
 
 Diagramme 2
 
@@ -865,9 +865,9 @@ Rats
 
 Surface au sol minimale de la cage
 
-Etant donné le poids d’un rat, la ligne pleine, EU–EU, donne la surface minimale dont le rat devrait disposer.
+Étant donné le poids d’un rat, la ligne pleine, EU–EU, donne la surface minimale dont le rat devrait disposer.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20130411/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20241002/fr/xml/image/image2.png)
 
 Diagramme 3
 
@@ -877,9 +877,9 @@ Hamsters de Syrie
 
 Surface au sol minimale de la cage
 
-Etant donné le poids d’un hamster de Syrie, la ligne pleine, EU–EU, donne la surface minimale dont le hamster de Syrie devrait disposer.
+Étant donné le poids d’un hamster de Syrie, la ligne pleine, EU–EU, donne la surface minimale dont le hamster de Syrie devrait disposer.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20130411/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20241002/fr/xml/image/image3.png)
 
 Diagramme 4
 
@@ -889,9 +889,9 @@ Cobayes
 
 *Surface au sol minimale de la cage*
 
-Etant donné le poids d’un cobaye, la ligne pleine, EU–EU, donne la surface minimale dont le cobaye devrait disposer.
+Étant donné le poids d’un cobaye, la ligne pleine, EU–EU, donne la surface minimale dont le cobaye devrait disposer.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20130411/fr/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20241002/fr/xml/image/image4.png)
 
 Diagramme 5
 
@@ -901,9 +901,9 @@ Lapins
 
 Surface au sol minimale de la cage
 
-Etant donné le poids d’un lapin, la ligne pleine, EU–EU, donne la surface minimale dont le lapin devrait disposer.
+Étant donné le poids d’un lapin, la ligne pleine, EU–EU, donne la surface minimale dont le lapin devrait disposer.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20130411/fr/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20241002/fr/xml/image/image5.png)
 
 Diagramme 6
 
@@ -913,9 +913,9 @@ Lapins
 
 Surface au sol minimale de la cage pour une lapine avec sa portée non sevrée
 
-Etant donné le poids d’une lapine, la ligne pleine, EU–EU, donne la surface minimale dont la lapine devrait disposer.
+Étant donné le poids d’une lapine, la ligne pleine, EU–EU, donne la surface minimale dont la lapine devrait disposer.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20130411/fr/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20241002/fr/xml/image/image6.png)
 
 Diagramme 7
 
@@ -925,9 +925,9 @@ Chats
 
 Surface au sol minimale de la cage
 
-Etant donné le poids d’un chat, la ligne pleine, EU–EU, donne la surface minimale dont le chat devrait disposer.
+Étant donné le poids d’un chat, la ligne pleine, EU–EU, donne la surface minimale dont le chat devrait disposer.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20130411/fr/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20241002/fr/xml/image/image7.png)
 
 Diagramme 8
 
@@ -937,7 +937,7 @@ Indications pour l’établissement du rapport entre le nombre de souris par cag
 
 Les lignes représentent les poids moyens et correspondent à la ligne EU–EU du diagramme 1.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20130411/fr/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20241002/fr/xml/image/image8.png)
 
 Diagramme 9
 
@@ -947,7 +947,7 @@ Indications pour l’établissement du rapport entre le nombre de rats par cage 
 
 Les lignes représentent les poids moyens et correspondent à la ligne EU–EU du diagramme 2.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20130411/fr/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20241002/fr/xml/image/image9.png)
 
 Diagramme 10
 
@@ -957,7 +957,7 @@ Indications pour l’établissement du rapport entre le nombre de hamsters par c
 
 Les lignes représentent les poids moyens et correspondent à la ligne EU–EU du diagramme 3.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20130411/fr/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20241002/fr/xml/image/image10.png)
 
 Diagramme 11
 
@@ -967,7 +967,7 @@ Indications pour l’établissement du rapport entre le nombre de cobayes par ca
 
 Les lignes représentent les poids moyens et correspondent à la ligne EU–EU du diagramme 4.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20130411/fr/xml/image/image11.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20241002/fr/xml/image/image11.png)
 
 Diagramme 12
 
@@ -977,7 +977,7 @@ Indications pour l’établissement du rapport entre le nombre de lapins par cag
 
 Les lignes représentent les poids moyens et correspondent à la ligne EU–EU du diagramme 5.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20130411/fr/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1994/930_930_930/20241002/fr/xml/image/image12.png)
 
 Annexe B
 
@@ -1025,7 +1025,7 @@ Ce tableau a pour objet d’indiquer le nombre d’animaux utilisés à des fins
 
 Nombre d’animaux utilisés dans des procédures exigées par la législation
 
-La colonne «Partie concernée seulement» n’est remplie que lorsque la procédure est exigée par la législation de la Partie dans laquelle la procédure est effectuée, y compris les obligations internationales auxquelles cette Partie est soumise (par exemple en tant que Partie à la Convention relative à l’élaboration d’une Pharmacopée européenne[^annexB-lvlu1-lvlu2-1] ou en tant qu’Etat membre des Communautés européennes).
+La colonne «Partie concernée seulement» n’est remplie que lorsque la procédure est exigée par la législation de la Partie dans laquelle la procédure est effectuée, y compris les obligations internationales auxquelles cette Partie est soumise (par exemple en tant que Partie à la Convention relative à l’élaboration d’une Pharmacopée européenne[^annexB-lvlu1-lvlu2-1] ou en tant qu’État membre des Communautés européennes).
 
 La colonne «Autres Parties seulement» est remplie si la procédure est spécialement destinée à satisfaire les exigences de pays autres que la Partie, y compris les exigences du commerce et celles de conventions, auxquelles elle n’est pas partie.
 
@@ -1066,7 +1066,7 @@ Nombre d’animaux utilisés dans des procédures à des fins sélectionnées en
 <table>
 <tr><td colspan="2"></td><td colspan="2">Toutes espèces</td><td colspan="3">Espèces sélectionnées</td></tr>
 <tr><td colspan="2"></td><td colspan="2"></td><td>Rongeurs et lapins</td><td>Chiens et chats</td><td>Primates</td></tr>
-<tr><td>1</td><td colspan="6">Etudes biologiques (y compris médicales) de nature fondamentale</td></tr>
+<tr><td>1</td><td colspan="6">Études biologiques (y compris médicales) de nature fondamentale</td></tr>
 <tr><td>2</td><td colspan="6">Découverte, développement et contrôle de qualité (y compris les tests d’innocuité) des produits ou des appareils en médecine humaine et vétérinaire</td></tr>
 <tr><td>3</td><td colspan="6">Diagnostic des maladies</td></tr>
 <tr><td>4</td><td colspan="6">Protection de l’homme, de l’animal et de l’environnement par des tests de toxicologie ou autres tests d’innocuité</td></tr>
@@ -1115,39 +1115,36 @@ Nombre d’animaux utilisés dans des procédures exigées par la législation e
 <tr><td>Les deux</td><td colspan="4"></td></tr>
 </table>
 
-[^annexB-lvlu1-lvlu2-1]: [RS 0.812.21](https://fedlex.data.admin.ch/eli/cc/1974/744_745_745)
+[^annexB-lvlu1-lvlu2-1]: [RS 0.812.21](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3461)
 
-### Champ d’application le 11 avril 2013****
-
-[^annexB-lvlu1-lvlu3-1]
-
-[^annexB-lvlu1-lvlu3-1]: RO **1994** 981, [2004 5001](https://fedlex.data.admin.ch/eli/oc/2004/760), [2010 3255](https://fedlex.data.admin.ch/eli/oc/2010/438), [2013 1241](https://fedlex.data.admin.ch/eli/oc/2013/274). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+Champ d’application le 2 octobre 2024[^t-3]
 
 <table>
-<tr><th colspan="2">Etats parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
-<tr><td colspan="2">Allemagne\*</td><td>19 avril</td><td>1991</td><td>1<sup>er</sup> novembre</td><td>1991</td></tr>
-<tr><td colspan="2">Belgique</td><td>20 décembre</td><td>1991</td><td>1<sup>er</sup> juillet</td><td>1992</td></tr>
-<tr><td colspan="2">Bulgarie</td><td>20 juillet</td><td>2004</td><td>1<sup>er</sup> février</td><td>2005</td></tr>
-<tr><td colspan="2">Chypre</td><td>9 décembre</td><td>1993</td><td>1<sup>er</sup> juillet</td><td>1994</td></tr>
-<tr><td colspan="2">Danemark\*</td><td>8 septembre</td><td>2000</td><td>1<sup>er</sup> avril</td><td>2001</td></tr>
-<tr><td colspan="2">Espagne</td><td>12 septembre</td><td>1989</td><td>1<sup>er</sup> janvier</td><td>1991</td></tr>
-<tr><td colspan="2">Finlande</td><td>14 juin</td><td>1990</td><td>1<sup>er</sup> janvier</td><td>1991</td></tr>
-<tr><td colspan="2">France\*</td><td>5 juin</td><td>2000</td><td>1<sup>er</sup> décembre</td><td>2000</td></tr>
-<tr><td colspan="2">Grèce</td><td>27 mai</td><td>1992</td><td>1<sup>er</sup> décembre</td><td>1992</td></tr>
-<tr><td colspan="2">Lettonie<sup>\*</sup></td><td>5 octobre</td><td>2010</td><td>1<sup>er</sup> mai</td><td>2011</td></tr>
-<tr><td colspan="2">Lituanie</td><td>14 juin</td><td>2007</td><td>1<sup>er</sup> janvier</td><td>2008</td></tr>
-<tr><td colspan="2">Macédoine\*</td><td>22 janvier</td><td>2004</td><td>1<sup>er</sup> août</td><td>2004</td></tr>
-<tr><td colspan="2">Norvège</td><td>9 juillet</td><td>1986</td><td>1<sup>er</sup> janvier</td><td>1991</td></tr>
-<tr><td colspan="2">Pays-Bas\* <sup>a</sup></td><td>21 janvier</td><td>1997</td><td>1<sup>er</sup> août</td><td>1997</td></tr>
-<tr><td colspan="2">République tchèque\*</td><td>20 mars</td><td>2003</td><td>1<sup>er</sup> octobre</td><td>2003</td></tr>
-<tr><td colspan="2">Roumanie</td><td>16 novembre</td><td>2006</td><td>1<sup>er</sup> juin</td><td>2007</td></tr>
-<tr><td colspan="2">Royaume-Uni\*</td><td>17 décembre</td><td>1999</td><td>1<sup>er</sup> juillet</td><td>2000</td></tr>
-<tr><td colspan="2">Serbie</td><td>2 décembre</td><td>2010</td><td>1<sup>er</sup> juillet</td><td>2011</td></tr>
-<tr><td colspan="2">Slovénie<sup>\*</sup></td><td>15 décembre</td><td>2006</td><td>1<sup>er</sup> juillet</td><td>2007</td></tr>
-<tr><td colspan="2">Suède</td><td>15 septembre</td><td>1988</td><td>1<sup>er</sup> janvier</td><td>1991</td></tr>
-<tr><td colspan="2">Suisse</td><td>3 novembre</td><td>1993</td><td>1<sup>er</sup> juin</td><td>1994</td></tr>
-<tr><td colspan="2">[tab] Union européenne\*</td><td>30 avril</td><td>1998</td><td>1<sup>er</sup> novembre</td><td>1998</td></tr>
-<tr><td>\*</td><td colspan="5">Réserves et déclarations.</td></tr>
-<tr><td></td><td colspan="5">Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: [http://conventions.coe.int](http://conventions.coe.int/) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
-<tr><td><sup>a</sup></td><td colspan="5">Pour le Royaume en Europe.</td></tr>
+<tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><td>Allemagne\*</td><td>19 avril</td><td>1991</td><td>1<sup>er</sup> novembre</td><td>1991</td></tr>
+<tr><td>Belgique</td><td>20 décembre</td><td>1991</td><td>1<sup>er</sup> juillet</td><td>1992</td></tr>
+<tr><td>Bulgarie</td><td>20 juillet</td><td>2004</td><td>1<sup>er</sup> février</td><td>2005</td></tr>
+<tr><td>Chypre</td><td>9 décembre</td><td>1993</td><td>1<sup>er</sup> juillet</td><td>1994</td></tr>
+<tr><td>Danemark\*</td><td>8 septembre</td><td>2000</td><td>1<sup>er</sup> avril</td><td>2001</td></tr>
+<tr><td>Espagne</td><td>12 septembre</td><td>1989</td><td>1<sup>er</sup> janvier</td><td>1991</td></tr>
+<tr><td>Finlande</td><td>14 juin</td><td>1990</td><td>1<sup>er</sup> janvier</td><td>1991</td></tr>
+<tr><td>France\*</td><td>5 juin</td><td>2000</td><td>1<sup>er</sup> décembre</td><td>2000</td></tr>
+<tr><td>Grèce</td><td>27 mai</td><td>1992</td><td>1<sup>er</sup> décembre</td><td>1992</td></tr>
+<tr><td>Hongrie</td><td>18 février</td><td>2021</td><td>1<sup>er</sup> septembre</td><td>2021</td></tr>
+<tr><td>Lettonie\*</td><td>5 octobre</td><td>2010</td><td>1<sup>er</sup> mai</td><td>2011</td></tr>
+<tr><td>Lituanie</td><td>14 juin</td><td>2007</td><td>1<sup>er</sup> janvier</td><td>2008</td></tr>
+<tr><td>Macédoine du Nord\*</td><td>22 janvier</td><td>2004</td><td>1<sup>er</sup> août</td><td>2004</td></tr>
+<tr><td>Norvège</td><td>9 juillet</td><td>1986</td><td>1<sup>er</sup> janvier</td><td>1991</td></tr>
+<tr><td>Pays-Bas\* <sup>a</sup></td><td>21 janvier</td><td>1997</td><td>1<sup>er</sup> août</td><td>1997</td></tr>
+<tr><td>République tchèque\*</td><td>20 mars</td><td>2003</td><td>1<sup>er</sup> octobre</td><td>2003</td></tr>
+<tr><td>Roumanie</td><td>16 novembre</td><td>2006</td><td>1<sup>er</sup> juin</td><td>2007</td></tr>
+<tr><td>Royaume-Uni\*</td><td>17 décembre</td><td>1999</td><td>1<sup>er</sup> juillet</td><td>2000</td></tr>
+<tr><td>Serbie</td><td>2 décembre</td><td>2010</td><td>1<sup>er</sup> juillet</td><td>2011</td></tr>
+<tr><td>Slovénie\*</td><td>15 décembre</td><td>2006</td><td>1<sup>er</sup> juillet</td><td>2007</td></tr>
+<tr><td>Suède</td><td>15 septembre</td><td>1988</td><td>1<sup>er</sup> janvier</td><td>1991</td></tr>
+<tr><td>Suisse</td><td>3 novembre</td><td>1993</td><td>1<sup>er</sup> juin</td><td>1994</td></tr>
+<tr><td>[tab] Union européenne\*</td><td>30 avril</td><td>1998</td><td>1<sup>er</sup> novembre</td><td>1998</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet du Conseil de l’Europe: [http://conventions.coe.int](http://conventions.coe.int) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe.</td></tr>
 </table>
+
+[^t-3]: [RO 1994 930](https://fedlex.data.admin.ch/eli/oc/1994/930_930_930); [2004 5001](https://fedlex.data.admin.ch/eli/oc/2004/760); [2010 3255](https://fedlex.data.admin.ch/eli/oc/2010/438); [2013 1241](https://fedlex.data.admin.ch/eli/oc/2013/274); [2024 542](https://fedlex.data.admin.ch/eli/oc/2024/542). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
