@@ -3,11 +3,11 @@ sr: "0.451.432"
 title: "Protocollo di Nagoya del 29 ottobre 2010 sull'accesso alle risorse genetiche e la giusta ed equa condivisione dei benefici derivanti dalla loro utilizzazione relativo alla Convenzione sulla diversità biologica (con all.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/532"
 language: it
-version: 2022-07-14
+version: 2024-10-03
 adopted: 2010-10-29
 in_force: 2014-10-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/532/20220714/it/xml/fedlex-data-admin-ch-eli-cc-2014-532-20220714-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/532/20220714/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/532/20241003/it/xml/fedlex-data-admin-ch-eli-cc-2014-532-20241003-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/532/20241003/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Concluso a Nagoya il 29 ottobre 2010 Approvato dall’Assemblea federale il 21 marzo 2014[^t-1] Ratificato con strumenti depositati dalla Svizzera l’11 luglio 2014 Entrato in vigore per la Svizzera il 12 ottobre 2014
 
-(Stato 14 luglio 2022)
+(Stato 3 ottobre 2024)
 
 [^t-1]: [RU 2014 2629](https://fedlex.data.admin.ch/eli/oc/2014/467)
 
@@ -82,9 +82,9 @@ affermando che nulla di quanto contenuto nel presente Protocollo dovrà essere i
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
-[^ingress-2]: [RS 0.910.6](https://fedlex.data.admin.ch/eli/cc/2005/298)
-[^ingress-3]: [RS 0.818.103](https://fedlex.data.admin.ch/eli/cc/2007/343)
+[^ingress-1]: [RS 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
+[^ingress-2]: [RS 0.910.6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3999)
+[^ingress-3]: [RS 0.818.103](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3573)
 
 #### Art. 1
 
@@ -581,7 +581,7 @@ Allegato
 - p) il riconoscimento sociale;
 - q) la proprietà congiunta dei relativi diritti di proprietà intellettuale.
 
-Campo d’applicazione il 14 luglio 2022**[^t-2]**
+Campo d’applicazione il 3 ottobre 2024[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratificazione Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -596,6 +596,7 @@ Campo d’applicazione il 14 luglio 2022**[^t-2]**
 <tr><td>Bahrein</td><td>22 febbraio</td><td>2022 A</td><td>23 maggio</td><td>2022</td></tr>
 <tr><td>Belarus</td><td>26 giugno</td><td>2014 A</td><td>12 ottobre</td><td>2014</td></tr>
 <tr><td>Belgio<sup>\*</sup></td><td>9 agosto</td><td>2016</td><td>7 novembre</td><td>2016</td></tr>
+<tr><td>Bangladesh</td><td>10 gennaio</td><td>2023</td><td>10 aprile</td><td>2023</td></tr>
 <tr><td>Benin</td><td>22 gennaio</td><td>2014</td><td>12 ottobre</td><td>2014</td></tr>
 <tr><td>Bhutan</td><td>30 settembre</td><td>2013</td><td>12 ottobre</td><td>2014</td></tr>
 <tr><td>Bolivia</td><td>6 ottobre</td><td>2016 A</td><td>4 gennaio</td><td>2017</td></tr>
@@ -613,8 +614,10 @@ Campo d’applicazione il 14 luglio 2022**[^t-2]**
 <tr><td>Comore</td><td>28 maggio</td><td>2013 A</td><td>12 ottobre</td><td>2014</td></tr>
 <tr><td>Congo (Brazzaville)</td><td>14 maggio</td><td>2015</td><td>12 agosto</td><td>2015</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>4 febbraio</td><td>2015</td><td>5 maggio</td><td>2015</td></tr>
+<tr><td>Corea del Nord</td><td>1° ottobre</td><td>2019 A</td><td>30 dicembre</td><td>2019</td></tr>
 <tr><td>Corea del Sud</td><td>19 maggio</td><td>2017</td><td>17 agosto</td><td>2017</td></tr>
 <tr><td>Costa d’Avorio</td><td>24 settembre</td><td>2013</td><td>12 ottobre</td><td>2014</td></tr>
+<tr><td>Costa Rica</td><td>25 settembre</td><td>2024</td><td>24 dicembre</td><td>2024</td></tr>
 <tr><td>Croazia</td><td>2 settembre</td><td>2015 A</td><td>1° dicembre</td><td>2015</td></tr>
 <tr><td>Cuba</td><td>17 settembre</td><td>2015 A</td><td>16 dicembre</td><td>2015</td></tr>
 <tr><td>Danimarca <sup>b</sup></td><td>1° maggio</td><td>2014</td><td>12 ottobre</td><td>2014</td></tr>
@@ -628,7 +631,6 @@ Campo d’applicazione il 14 luglio 2022**[^t-2]**
 <tr><td>Etiopia</td><td>16 novembre</td><td>2012 A</td><td>12 ottobre</td><td>2014</td></tr>
 <tr><td>Figi</td><td>24 ottobre</td><td>2012 A</td><td>12 ottobre</td><td>2014</td></tr>
 <tr><td>Filippine</td><td>29 settembre</td><td>2015 A</td><td>28 dicembre</td><td>2015</td></tr>
-<tr><td>Corea del Nord</td><td>1° ottobre</td><td>2019 A</td><td>30 dicembre</td><td>2019</td></tr>
 <tr><td>Finlandia</td><td>3 giugno</td><td>2016</td><td>1° settembre</td><td>2016</td></tr>
 <tr><td>Francia<sup>\*</sup></td><td>31 agosto</td><td>2016</td><td>29 novembre</td><td>2016</td></tr>
 <tr><td>Gabon</td><td>11 novembre</td><td>2011</td><td>12 ottobre</td><td>2014</td></tr>
@@ -642,10 +644,12 @@ Campo d’applicazione il 14 luglio 2022**[^t-2]**
 <tr><td>Guatemala</td><td>18 giugno</td><td>2014</td><td>12 ottobre</td><td>2014</td></tr>
 <tr><td>Guinea</td><td>7 ottobre</td><td>2014</td><td>5 gennaio</td><td>2015</td></tr>
 <tr><td>Guinea-Bissau</td><td>24 settembre</td><td>2013</td><td>12 ottobre</td><td>2014</td></tr>
+<tr><td>Guinea equatoriale</td><td>4 ottobre</td><td>2023 A</td><td>2 gennaio</td><td>2024</td></tr>
 <tr><td>Guyana</td><td>22 aprile</td><td>2014 A</td><td>12 ottobre</td><td>2014</td></tr>
 <tr><td>Honduras</td><td>12 agosto</td><td>2013</td><td>12 ottobre</td><td>2014</td></tr>
 <tr><td>India</td><td>9 ottobre</td><td>2012</td><td>12 ottobre</td><td>2014</td></tr>
 <tr><td>Indonesia</td><td>24 settembre</td><td>2013</td><td>12 ottobre</td><td>2014</td></tr>
+<tr><td>Irlanda</td><td>28 aprile</td><td>2023</td><td>27 luglio</td><td>2023</td></tr>
 <tr><td>Kazakistan</td><td>17 giugno</td><td>2015 A</td><td>15 settembre</td><td>2015</td></tr>
 <tr><td>Kenya</td><td>7 aprile</td><td>2014</td><td>12 ottobre</td><td>2014</td></tr>
 <tr><td>Kirghizistan</td><td>15 giugno</td><td>2015 A</td><td>13 settembre</td><td>2015</td></tr>
@@ -723,7 +727,7 @@ Campo d’applicazione il 14 luglio 2022**[^t-2]**
 <tr><td>Vietnam</td><td>23 aprile</td><td>2014 A</td><td>12 ottobre</td><td>2014</td></tr>
 <tr><td>Zambia</td><td>20 maggio</td><td>2016 A</td><td>18 agosto</td><td>2016</td></tr>
 <tr><td>Zimbabwe</td><td>1° settembre</td><td>2017 A</td><td>30 novembre</td><td>2017</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, ad eccezione di quelle della Svizzera. I testi in francese ed in inglese si possono consultare sul sito internet dell’Organizzazione delle Nazioni Unite (ONU): http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione dei trattati internazionali, 3003 Berna <sup>a</sup> Il Prot. non si applica a Hong Kong e Macao. <sup>b</sup> Il Prot. non si applica alla Groenlandia e alle Isole Faeröer.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, ad eccezione di quelle della Svizzera. I testi in francese ed in inglese si possono consultare sul sito internet dell’Organizzazione delle Nazioni Unite (ONU): [http://treaties.un.org](http://treaties.un.org/)oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione dei trattati internazionali, 3003 Berna <sup>a</sup> Il Prot. non si applica a Hong Kong e Macao. <sup>b</sup> Il Prot. non si applica alla Groenlandia e alle Isole Faeröer.</td></tr>
 </table>
 
-[^t-2]: [RU 2014 3141](https://fedlex.data.admin.ch/eli/oc/2014/532); [2015 695](https://fedlex.data.admin.ch/eli/oc/2015/116), [3839](https://fedlex.data.admin.ch/eli/oc/2015/647); [2016 987](https://fedlex.data.admin.ch/eli/oc/2016/175), [2291](https://fedlex.data.admin.ch/eli/oc/2016/368), 315,3 [3859](https://fedlex.data.admin.ch/eli/oc/2016/650); [2017 505](https://fedlex.data.admin.ch/eli/oc/2017/86), [5073](https://fedlex.data.admin.ch/eli/oc/2017/555); [2018 2919](https://fedlex.data.admin.ch/eli/oc/2018/445), [4077](https://fedlex.data.admin.ch/eli/oc/2018/661); [2019 2241](https://fedlex.data.admin.ch/eli/oc/2019/418), [2020 617](https://fedlex.data.admin.ch/eli/oc/2020/115), [3815](https://fedlex.data.admin.ch/eli/oc/2020/704); [2022 58](https://fedlex.data.admin.ch/eli/oc/2022/58), [422](https://fedlex.data.admin.ch/eli/oc/2022/422). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: www.fedlex.admin.ch/it/treaty
+[^t-2]: [RU 2014 3141](https://fedlex.data.admin.ch/eli/oc/2014/532); [2015 695](https://fedlex.data.admin.ch/eli/oc/2015/116), [3839](https://fedlex.data.admin.ch/eli/oc/2015/647); [2016 987](https://fedlex.data.admin.ch/eli/oc/2016/175), [2291](https://fedlex.data.admin.ch/eli/oc/2016/368), 315,3 [3859](https://fedlex.data.admin.ch/eli/oc/2016/650); [2017 505](https://fedlex.data.admin.ch/eli/oc/2017/86), [5073](https://fedlex.data.admin.ch/eli/oc/2017/555); [2018 2919](https://fedlex.data.admin.ch/eli/oc/2018/445), [4077](https://fedlex.data.admin.ch/eli/oc/2018/661); [2019 2241](https://fedlex.data.admin.ch/eli/oc/2019/418); [2020 617](https://fedlex.data.admin.ch/eli/oc/2020/115), [3815](https://fedlex.data.admin.ch/eli/oc/2020/704); [2022 58](https://fedlex.data.admin.ch/eli/oc/2022/58), [422](https://fedlex.data.admin.ch/eli/oc/2022/422); [2024 541](https://fedlex.data.admin.ch/eli/oc/2024/541). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)

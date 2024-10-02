@@ -3,32 +3,24 @@ sr: "0.451.432"
 title: Protokoll von Nagoya vom 29. Oktober 2010 über den Zugang zu genetischen Ressourcen und die ausgewogene und gerechte Aufteilung der sich aus ihrer Nutzung ergebenden Vorteile zum Übereinkommen über die biologische Vielfalt (mit Anhang)
 eli: "https://fedlex.data.admin.ch/eli/cc/2014/532"
 language: de
-version: 2022-07-14
+version: 2024-10-03
 adopted: 2010-10-29
 in_force: 2014-10-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/532/20220714/de/xml/fedlex-data-admin-ch-eli-cc-2014-532-20220714-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2014/532/20220714/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2014/532/20241003/de/xml/fedlex-data-admin-ch-eli-cc-2014-532-20241003-de-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2014/532/20241003/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Protokoll von Nagoya
+# Protokoll von Nagoya über den Zugang zu genetischen Ressourcen und die ausgewogene und gerechte Aufteilung der sich aus ihrer Nutzung ergebenden Vorteile zum Übereinkommen über die biologische Vielfalt
 
 AS **2014** 3141; BBl **2013** 3009
 
 Übersetzung
 
-über den Zugang zu genetischen Ressourcen und die ausgewogene und gerechte Aufteilung der sich aus ihrer Nutzung ergebenden Vorteile zum Übereinkommen über die biologische Vielfalt
+Abgeschlossen in Nagoya am 29. Oktober 2010 Von der Bundesversammlung genehmigt am 21. März 2014[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 11. Juli 2014 In Kraft getreten für die Schweiz am 12. Oktober 2014
 
-Abgeschlossen in Nagoya am 29. Oktober 2010
-
-Von der Bundesversammlung genehmigt am 21. März 2014[^t-1]
-
-Schweizerische Ratifikationsurkunde hinterlegt am 11. Juli 2014
-
-In Kraft getreten für die Schweiz am 12. Oktober 2014
-
-(Stand am 14. Juli 2022)
+(Stand am 3. Oktober 2024)
 
 [^t-1]: [AS 2014 2629](https://fedlex.data.admin.ch/eli/oc/2014/467)
 
@@ -90,9 +82,9 @@ unter Bekräftigung der Tatsache, dass dieses Protokoll nicht so auszulegen ist,
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.451.43](https://fedlex.data.admin.ch/eli/cc/1995/1408_1408_1408)
-[^ingress-2]: [SR 0.910.6](https://fedlex.data.admin.ch/eli/cc/2005/298)
-[^ingress-3]: [SR 0.818.103](https://fedlex.data.admin.ch/eli/cc/2007/343)
+[^ingress-1]: [SR 0.451.43](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/1840)
+[^ingress-2]: [SR 0.910.6](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3999)
+[^ingress-3]: [SR 0.818.103](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3573)
 
 #### Art. 1
 
@@ -587,7 +579,7 @@ Anlage
 - p) soziale Anerkennung;
 - q) gemeinschaftliche Inhaberschaft an einschlägigen Rechten des geistigen Eigentums.
 
-Geltungsbereich am 14. Juli 2022**[^t-2]**
+Geltungsbereich am 3. Oktober 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -596,10 +588,12 @@ Geltungsbereich am 14. Juli 2022**[^t-2]**
 <tr><td>Albanien</td><td>29. Januar</td><td>2013 B</td><td>12. Oktober</td><td>2014</td></tr>
 <tr><td>Angola</td><td>6. Februar</td><td>2017 B</td><td>7. Mai</td><td>2017</td></tr>
 <tr><td>Antigua und Barbuda</td><td>12. Dezember</td><td>2016</td><td>12. März</td><td>2017</td></tr>
+<tr><td>Äquatorialguinea</td><td>4. Oktober</td><td>2023 B</td><td>2. Januar</td><td>2024</td></tr>
 <tr><td>Argentinien\*</td><td>9. Dezember</td><td>2016</td><td>9. März</td><td>2017</td></tr>
 <tr><td>Äthiopien</td><td>16. November</td><td>2012 B</td><td>12. Oktober</td><td>2014</td></tr>
 <tr><td>Bahamas</td><td>30. Dezember</td><td>2021 B</td><td>30. März</td><td>2022</td></tr>
 <tr><td>Bahrain</td><td>22. Februar</td><td>2022 B</td><td>23. Mai</td><td>2022</td></tr>
+<tr><td>Bangladesch</td><td>10. Januar</td><td>2023</td><td>10. April</td><td>2023</td></tr>
 <tr><td>Belarus</td><td>26. Juni</td><td>2014 B</td><td>12. Oktober</td><td>2014</td></tr>
 <tr><td>Belgien\*</td><td>9. August</td><td>2016</td><td>7. November</td><td>2016</td></tr>
 <tr><td>Benin</td><td>22. Januar</td><td>2014</td><td>12. Oktober</td><td>2014</td></tr>
@@ -611,6 +605,7 @@ Geltungsbereich am 14. Juli 2022**[^t-2]**
 <tr><td>Burkina Faso</td><td>10. Januar</td><td>2014</td><td>12. Oktober</td><td>2014</td></tr>
 <tr><td>Burundi</td><td>3. Juli</td><td>2014 B</td><td>12. Oktober</td><td>2014</td></tr>
 <tr><td>China <sup>a</sup></td><td>8. Juni</td><td>2016 B</td><td>6. September</td><td>2016</td></tr>
+<tr><td>Costa Rica</td><td>25. September</td><td>2024</td><td>24. Dezember</td><td>2024</td></tr>
 <tr><td>Côte d’Ivoire</td><td>24. September</td><td>2013</td><td>12. Oktober</td><td>2014</td></tr>
 <tr><td>Dänemark <sup>b</sup></td><td>1. Mai</td><td>2014</td><td>12. Oktober</td><td>2014</td></tr>
 <tr><td>Deutschland</td><td>21. April</td><td>2016</td><td>20. Juli</td><td>2016</td></tr>
@@ -635,6 +630,7 @@ Geltungsbereich am 14. Juli 2022**[^t-2]**
 <tr><td>Honduras</td><td>12. August</td><td>2013</td><td>12. Oktober</td><td>2014</td></tr>
 <tr><td>Indien</td><td>9. Oktober</td><td>2012</td><td>12. Oktober</td><td>2014</td></tr>
 <tr><td>Indonesien</td><td>24. September</td><td>2013</td><td>12. Oktober</td><td>2014</td></tr>
+<tr><td>Irland</td><td>28. April</td><td>2023</td><td>27. Juli</td><td>2023</td></tr>
 <tr><td>Japan</td><td>22. Mai</td><td>2017</td><td>20. August</td><td>2017</td></tr>
 <tr><td>Jordanien</td><td>10. Januar</td><td>2012</td><td>12. Oktober</td><td>2014</td></tr>
 <tr><td>Kambodscha</td><td>19. Januar</td><td>2015</td><td>19. April</td><td>2015</td></tr>
@@ -729,7 +725,7 @@ Geltungsbereich am 14. Juli 2022**[^t-2]**
 <tr><td>Vereinigtes Königreich</td><td>22. Februar</td><td>2016</td><td>22. Mai</td><td>2016</td></tr>
 <tr><td>Vietnam</td><td>23. April</td><td>2014 B</td><td>12. Oktober</td><td>2014</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>27. Juli</td><td>2018</td><td>25. Oktober</td><td>2018</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Das Protokoll gilt nicht für Hongkong und Macao. <sup>b</sup> Das Protokoll gilt nicht für Grönland und die Färöer.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org](http://treaties.un.org/) oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden. <sup>a</sup> Das Protokoll gilt nicht für Hongkong und Macao. <sup>b</sup> Das Protokoll gilt nicht für Grönland und die Färöer.</td></tr>
 </table>
 
-[^t-2]: [AS 2014 3141](https://fedlex.data.admin.ch/eli/oc/2014/532); [2015 695](https://fedlex.data.admin.ch/eli/oc/2015/116), [3839](https://fedlex.data.admin.ch/eli/oc/2015/647); [2016 987](https://fedlex.data.admin.ch/eli/oc/2016/175), [2291](https://fedlex.data.admin.ch/eli/oc/2016/368), [3153](https://fedlex.data.admin.ch/eli/oc/2016/526), [3859](https://fedlex.data.admin.ch/eli/oc/2016/650); [2017 505](https://fedlex.data.admin.ch/eli/oc/2017/86), [5073](https://fedlex.data.admin.ch/eli/oc/2017/555); [2018 2919](https://fedlex.data.admin.ch/eli/oc/2018/445), [4077](https://fedlex.data.admin.ch/eli/oc/2018/661); [2019 2241](https://fedlex.data.admin.ch/eli/oc/2019/418); [2020 617](https://fedlex.data.admin.ch/eli/oc/2020/115), [3815](https://fedlex.data.admin.ch/eli/oc/2020/704); [2022 58](https://fedlex.data.admin.ch/eli/oc/2022/58), [422](https://fedlex.data.admin.ch/eli/oc/2022/422). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: www.fedlex.admin.ch/de/treaty
+[^t-2]: [AS 2014 3141](https://fedlex.data.admin.ch/eli/oc/2014/532); [2015 695](https://fedlex.data.admin.ch/eli/oc/2015/116), [3839](https://fedlex.data.admin.ch/eli/oc/2015/647); [2016 987](https://fedlex.data.admin.ch/eli/oc/2016/175), [2291](https://fedlex.data.admin.ch/eli/oc/2016/368), [3153](https://fedlex.data.admin.ch/eli/oc/2016/526), [3859](https://fedlex.data.admin.ch/eli/oc/2016/650); [2017 505](https://fedlex.data.admin.ch/eli/oc/2017/86), [5073](https://fedlex.data.admin.ch/eli/oc/2017/555); [2018 2919](https://fedlex.data.admin.ch/eli/oc/2018/445), [4077](https://fedlex.data.admin.ch/eli/oc/2018/661); [2019 2241](https://fedlex.data.admin.ch/eli/oc/2019/418); [2020 617](https://fedlex.data.admin.ch/eli/oc/2020/115), [3815](https://fedlex.data.admin.ch/eli/oc/2020/704); [2022 58](https://fedlex.data.admin.ch/eli/oc/2022/58), [422](https://fedlex.data.admin.ch/eli/oc/2022/422); [2024 541](https://fedlex.data.admin.ch/eli/oc/2024/541). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
