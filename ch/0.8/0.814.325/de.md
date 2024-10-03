@@ -3,11 +3,11 @@ sr: "0.814.325"
 title: "Protokoll vom 24. Juni 1998 zu dem Übereinkommen von 1979 über weiträumige grenzüberschreitende Luftverunreinigung, betreffend persistente organische Schadstoffe (mit Anhängen)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/664"
 language: de
-version: 2023-02-26
+version: 2024-10-04
 adopted: 1998-06-24
 in_force: 2003-10-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/664/20230226/de/xml/fedlex-data-admin-ch-eli-cc-2003-664-20230226-de-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/664/20230226/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/664/20241004/de/xml/fedlex-data-admin-ch-eli-cc-2003-664-20241004-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/664/20241004/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2003** 4425; BBl **2000** 3154
 
 Abgeschlossen in Aarhus am 24. Juni 1998 Von der Bundesversammlung genehmigt am 19. September 2000[^t-1] Ratifikationsurkunde von der Schweiz hinterlegt am 14. November 2000 In Kraft getreten für die Schweiz am 23. Oktober 2003
 
-(Stand am 26. Februar 2023)
+(Stand am 4. Oktober 2024)
 
 [^t-1]: [AS 2003 4423](https://fedlex.data.admin.ch/eli/oc/2003/663)
 
@@ -62,9 +62,9 @@ im Bewusstsein der Massnahmen über persistente organische Schadstoffe, die eini
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.814.32](https://fedlex.data.admin.ch/eli/cc/1983/887_887_887)
-[^ingress-2]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-3]: [SR 0.814.05](https://fedlex.data.admin.ch/eli/cc/1992/1125_1125_1125)
+[^ingress-1]: [SR 0.814.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3536)
+[^ingress-2]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-3]: [SR 0.814.05](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3493)
 
 #### Art. 1
 
@@ -72,42 +72,49 @@ sind wie folgt übereingekommen:
 
 Im Sinne dieses Protokolls:
 
-- 1\. bedeutet «Übereinkommen» das am 13. November 1979 in Genf geschlossene Übereinkommen über weiträumige grenzüberschreitende Luftverunreinigung;
-- 2\. bedeutet «EMEP» das Programm über die Zusammenarbeit bei der Messung und Bewertung der weiträumigen Übertragung von luftverunreinigenden Stoffen in Europa;
-- 3\. bedeutet «Exekutivorgan» das gemäss Artikel 10 Absatz 1 des Übereinkommens gebildete Exekutivorgan für das Übereinkommen;
-- 4\. bedeutet «Kommission» die Wirtschaftskommission der Vereinten Nationen für Europa;
-- 5\. bedeutet «Vertragsparteien» die Vertragsparteien dieses Protokolls, soweit der Zusammenhang nichts anderes erfordert;
-- 6\. bedeutet «geografischer Anwendungsbereich des EMEP» das Gebiet, das in Artikel 1 Absatz 4 des am 28. September 1984[^1-1] in Genf angenommenen Protokolls zum Übereinkommen von 1979 über weiträumige grenzüberschreitende Luftverunreinigung betreffend die langfristige Finanzierung des Programms über die Zusammenarbeit bei der Messung und Bewertung der weiträumigen Übertragung von luftverunreinigenden Stoffen in Europa (EMEP) festgelegt ist;
-- 7\.
+<sup>1.</sup> bedeutet «Übereinkommen» das am 13. November 1979 in Genf geschlossene Übereinkommen über weiträumige grenzüberschreitende Luftverunreinigung;
 
-  bedeutet «persistente organische Schadstoffe» (POP – persistent organic pollutants) organische Stoffe, die:
+<sup>2.</sup> bedeutet «EMEP» das Programm über die Zusammenarbeit bei der Messung und Bewertung der weiträumigen Übertragung von luftverunreinigenden Stoffen in Europa;
 
-  - i) toxische Merkmale besitzen,
-  - ii) persistent sind,
-  - iii) bioakkumulieren,
-  - iv) zu weiträumigem grenzüberschreitendem atmosphärischem Transport und Ablagerung neigen, und
-  - v) wahrscheinlich signifikante nachteilige Wirkungen auf die menschliche Gesundheit oder die Umwelt nahe bei und entfernt von ihren Quellen ausüben;
+<sup>3.</sup> bedeutet «Exekutivorgan» das gemäss Artikel 10 Absatz 1 des Übereinkommens gebildete Exekutivorgan für das Übereinkommen;
 
-- 8\.
+<sup>4.</sup> bedeutet «Kommission» die Wirtschaftskommission der Vereinten Nationen für Europa;
 
-  bedeutet «Stoff» ein einzelner chemischer Stoff oder eine Reihe von chemischen Stoffen, die eine spezielle Gruppe bilden, da sie:
+<sup>5.</sup> bedeutet «Vertragsparteien» die Vertragsparteien dieses Protokolls, soweit der Zusammenhang nichts anderes erfordert;
 
-  - a) ähnliche Eigenschaften aufweisen und zusammen in die Umgebung emittiert werden, oder
-  - b) ein normalerweise als ein einzelner Artikel vermarktetes Gemisch bilden;
+<sup>6.</sup> bedeutet «geografischer Anwendungsbereich des EMEP» das Gebiet, das in Artikel 1 Absatz 4 des am 28. September 1984[^1-1] in Genf angenommenen Protokolls zum Übereinkommen von 1979 über weiträumige grenzüberschreitende Luftverunreinigung betreffend die langfristige Finanzierung des Programms über die Zusammenarbeit bei der Messung und Bewertung der weiträumigen Übertragung von luftverunreinigenden Stoffen in Europa (EMEP) festgelegt ist;
 
-- 9\. bedeutet «Emission» die Freisetzung eines Stoffes aus einer Punktquelle oder einer diffusen Quelle in die Atmosphäre;
-- 10\. bedeutet «ortsfeste Quelle» jedes feste Gebäude oder Bauwerk, jede feste Einrichtung, Anlage oder Ausrüstung, das bzw. die einen persistenten organischen Schadstoff direkt oder indirekt in die Atmosphäre freisetzt oder freisetzen kann;
-- 11\. bedeutet «Kategorie grösserer ortsfester Quellen» jede in Anhang VIII aufgeführte Kategorie ortsfester Quellen;
-- 12\.
+<sup>7.</sup>
 
-  bedeutet ‹neue ortsfeste Quelle› jede ortsfeste Quelle, deren Bau oder wesentliche Modifikation begonnen wurde nach Ablauf von zwei Jahren nach dem Inkrafttreten für eine Vertragspartei:
+bedeutet «persistente organische Schadstoffe» (POP – persistent organic pollutants) organische Stoffe, die:
 
-  - a) des vorliegenden Protokolls; oder
-  - b) einer Änderung des vorliegenden Protokolls, die für eine ortsfeste Quelle entweder neue Grenzwerte in Anhang IV Teil II einführt oder die Kategorie, unter die diese Quelle fällt, in Anhang VIII aufnimmt.
+- i) toxische Merkmale besitzen,
+- ii) persistent sind,
+- iii) bioakkumulieren,
+- iv) zu weiträumigem grenzüberschreitendem atmosphärischem Transport und Ablagerung neigen, und
+- v) wahrscheinlich signifikante nachteilige Wirkungen auf die menschliche Gesundheit oder die Umwelt nahe bei und entfernt von ihren Quellen ausüben;
 
-- Es ist Angelegenheit der zuständigen nationalen Behörden, unter Berücksichtigung solcher Faktoren wie des Umweltnutzens einer Modifikation zu entscheiden, ob diese wesentlich ist.[^1-2]
+<sup>8.</sup>
 
-[^1-1]: [SR 0.814.322](https://fedlex.data.admin.ch/eli/cc/1988/867_867_867)
+bedeutet «Stoff» ein einzelner chemischer Stoff oder eine Reihe von chemischen Stoffen, die eine spezielle Gruppe bilden, da sie:
+
+- a) ähnliche Eigenschaften aufweisen und zusammen in die Umgebung emittiert werden, oder
+- b) ein normalerweise als ein einzelner Artikel vermarktetes Gemisch bilden;
+
+<sup>9.</sup> bedeutet «Emission» die Freisetzung eines Stoffes aus einer Punktquelle oder einer diffusen Quelle in die Atmosphäre;
+
+<sup>10.</sup> bedeutet «ortsfeste Quelle» jedes feste Gebäude oder Bauwerk, jede feste Einrichtung, Anlage oder Ausrüstung, das bzw. die einen persistenten organischen Schadstoff direkt oder indirekt in die Atmosphäre freisetzt oder freisetzen kann;
+
+<sup>11.</sup> bedeutet «Kategorie grösserer ortsfester Quellen» jede in Anhang VIII aufgeführte Kategorie ortsfester Quellen;
+
+<sup>12.</sup> Es ist Angelegenheit der zuständigen nationalen Behörden, unter Berücksichtigung solcher Faktoren wie des Umweltnutzens einer Modifikation zu entscheiden, ob diese wesentlich ist.[^1-2]
+
+bedeutet ‹neue ortsfeste Quelle› jede ortsfeste Quelle, deren Bau oder wesentliche Modifikation begonnen wurde nach Ablauf von zwei Jahren nach dem Inkrafttreten für eine Vertragspartei:
+
+- a) des vorliegenden Protokolls; oder
+- b) einer Änderung des vorliegenden Protokolls, die für eine ortsfeste Quelle entweder neue Grenzwerte in Anhang IV Teil II einführt oder die Kategorie, unter die diese Quelle fällt, in Anhang VIII aufnimmt.
+
+[^1-1]: [SR 0.814.322](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3538)
 [^1-2]: Fassung gemäss Art. 1 Bst. A des Beschlusses 2009/1 vom 18. Dez. 2009, von der BVers genehmigt am 15. Juni 2018 und in Kraft getreten für die Schweiz am 20. Jan. 2022 ([AS 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [BBl 2017 7501](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
 
 #### Art. 2
@@ -595,7 +602,7 @@ Einschlägige Definitionen befinden sich im Anhang III dieses Protokolls.
 
 ### II. Grössere ortsfeste Quellen von POP-Emissionen
 
-\7. PCDD/F werden bei thermischen Prozessen, bei denen organische Stoffe und Chlor eine Rolle spielen, als Ergebnis einer unvollständigen Verbrennung oder chemischen Reaktion emittiert. Grössere ortsfeste Quellen von PCDD/F können unter anderem sein
+\7. PCDD/F werden bei thermischen Prozessen, bei denen organische Stoffe und Chlor eine Rolle spielen, als Ergebnis einer unvollständigen Verbrennung oder chemischen Reaktion emittiert. Grössere ortsfeste Quellen von PCDD/F können unter anderem sein:
 
 - a) Abfallverbrennung einschliesslich Abfallmitverbrennung;
 - b) thermische metallurgische Verfahren, z. B. Herstellung von Aluminium und anderen Nichteisenmetallen, Eisen und Stahl;
@@ -643,8 +650,6 @@ Anhang VI[^t-7]
   - i) acht Jahre ab dem Zeitpunkt des Inkrafttretens der betreffenden Änderung für eine Vertragspartei, oder
   - ii) für eine Vertragspartei, die ein Staat im Übergang zur Marktwirtschaft ist, bis zu fünfzehn Jahre ab dem Zeitpunkt des Inkrafttretens der betreffenden Änderung für diese Vertragspartei.
 
-- [tab]
-
 Anhang VII[^t-8]
 
 [^t-8]: Aufgehoben gemäss Beschluss 2009/3 vom 18. Dez. 2010, mit Wirkung seit 13. Dez. 2010 ausser für Kanada und die Tschechische Republik ([AS 2011 623](https://fedlex.data.admin.ch/eli/oc/2011/94)). Für diese Staaten blebit der Anhang anwendbar (seihe [AS 2003 4425](https://fedlex.data.admin.ch/eli/oc/2003/664)).
@@ -679,7 +684,7 @@ Nicht in diesem Verzeichnis inbegriffen sind Anlagen oder Teile von Anlagen für
 <tr><td>14</td><td>Thermische Prozesse in der Metallindustrie, Verfahren auf Chlorbasis.</td></tr>
 </table>
 
-Geltungsbereich am 20. Januar 2022[^t-10]
+Geltungsbereich am 4. Oktober 2024[^t-10]
 
 <table>
 <tr><th colspan="2">Vertragsstaaten</th><th colspan="2">Ratifikation Beitritt (B)</th><th colspan="2"></th><th>Inkrafttreten</th><th></th></tr>
@@ -691,6 +696,7 @@ Geltungsbereich am 20. Januar 2022[^t-10]
 <tr><td colspan="2">Europäische Union</td><td colspan="2">30. April</td><td colspan="2">2004</td><td>29. Juli</td><td>2004</td></tr>
 <tr><td colspan="2">Finnland\*</td><td colspan="2">3. September</td><td colspan="2">2002</td><td>23. Oktober</td><td>2003</td></tr>
 <tr><td colspan="2">Frankreich</td><td colspan="2">25. Juli</td><td colspan="2">2003</td><td>23. Oktober</td><td>2003</td></tr>
+<tr><td colspan="2">Irland</td><td colspan="2">9. März</td><td colspan="2">2021</td><td>7. Juni</td><td>2021</td></tr>
 <tr><td colspan="2">Island</td><td colspan="2">29. Mai</td><td colspan="2">2003</td><td>23. Oktober</td><td>2003</td></tr>
 <tr><td colspan="2">Italien</td><td colspan="2">20. Juni</td><td colspan="2">2006</td><td>18. September</td><td>2006</td></tr>
 <tr><td colspan="2">Kanada</td><td colspan="2">18. Dezember</td><td colspan="2">1998</td><td>23. Oktober</td><td>2003</td></tr>
@@ -716,10 +722,10 @@ Geltungsbereich am 20. Januar 2022[^t-10]
 <tr><td colspan="2">Ungarn</td><td colspan="2">7. Januar</td><td colspan="2">2004</td><td>6. April</td><td>2004</td></tr>
 <tr><td colspan="2">Vereinigtes Königreich</td><td colspan="2">2. September</td><td colspan="2">2005</td><td>1. Dezember</td><td>2005</td></tr>
 <tr><td colspan="2">Zypern</td><td colspan="2">2. September</td><td colspan="2">2004</td><td>1. Dezember</td><td>2004</td></tr>
-<tr><td colspan="8"><sup>\*</sup> Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Für das Königreich in Europa.</td></tr>
+<tr><td colspan="8"><sup>\*</sup> Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme der Vorbehalte und Erklärungen der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen (UNO): [http://treaties.un.org](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
-[^t-10]: [AS 2003 4425](https://fedlex.data.admin.ch/eli/oc/2003/664); [2005 4445](https://fedlex.data.admin.ch/eli/oc/2005/575); [2008 4139](https://fedlex.data.admin.ch/eli/oc/2008/586); [2012 2565](https://fedlex.data.admin.ch/eli/oc/2012/307); [2015 761](https://fedlex.data.admin.ch/eli/oc/2015/135); [2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht (https://www.fedlex.admin.ch/de/treaty).
+[^t-10]: [AS 2003 4425](https://fedlex.data.admin.ch/eli/oc/2003/664); [2005 4445](https://fedlex.data.admin.ch/eli/oc/2005/575); [2008 4139](https://fedlex.data.admin.ch/eli/oc/2008/586); [2012 2565](https://fedlex.data.admin.ch/eli/oc/2012/307); [2015 761](https://fedlex.data.admin.ch/eli/oc/2015/135); [2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38); [2024 545](https://fedlex.data.admin.ch/eli/oc/2024/545). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](http://www.fedlex.admin.ch/de/treaty).
 
 Erklärung
 

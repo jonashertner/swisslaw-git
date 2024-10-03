@@ -3,11 +3,11 @@ sr: "0.814.325"
 title: "Protocole du 24 juin 1998 à la Convention sur la pollution atmosphérique transfrontière à longue distance, de 1979, relatif aux polluants organiques persistants (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/664"
 language: fr
-version: 2023-02-26
+version: 2024-10-04
 adopted: 1998-06-24
 in_force: 2003-10-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/664/20230226/fr/xml/fedlex-data-admin-ch-eli-cc-2003-664-20230226-fr-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/664/20230226/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/664/20241004/fr/xml/fedlex-data-admin-ch-eli-cc-2003-664-20241004-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/664/20241004/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 14 novembre 2000
 
 Entré en vigueur pour la Suisse le 23 octobre 2003
 
-(État le 26 février 2023)
+(État le 4 octobre 2024)
 
 [^t-1]: [RO 2003 4423](https://fedlex.data.admin.ch/eli/oc/2003/663)
 
@@ -68,9 +68,9 @@ tenant compte des mesures concernant les polluants organiques persistants déjà
 
 sont convenues de ce qui suit:
 
-[^ingress-1]: [RS 0.814.32](https://fedlex.data.admin.ch/eli/cc/1983/887_887_887)
-[^ingress-2]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-3]: [RS 0.814.05](https://fedlex.data.admin.ch/eli/cc/1992/1125_1125_1125)
+[^ingress-1]: [RS 0.814.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3536)
+[^ingress-2]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-3]: [RS 0.814.05](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3493)
 
 #### Art. 1
 
@@ -118,7 +118,7 @@ On entend par ‹source fixe nouvelle› toute source fixe que l’on commence �
 - a) du présent Protocole, ou
 - b) d’un amendement au présent Protocole qui, pour une source fixe, introduit de nouvelles valeurs limites dans la partie II de l’annexe IV ou indique dans l’annexe VIII de quelle catégorie relève cette source.
 
-[^1-1]: [RS 0.814.322](https://fedlex.data.admin.ch/eli/cc/1988/867_867_867)
+[^1-1]: [RS 0.814.322](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3538)
 [^1-2]: Nouvelle teneur selon l’art. 1 let. A de la D 2009/1 du 18 déc. 2009, approuvée par l’Ass. féd. le 15 juin 2018, en vigueur pour la Suisse depuis le 20 janv. 2022 ([RO 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [FF 2017 7107](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
 
 #### Art. 2
@@ -465,7 +465,7 @@ Sauf indication contraire dans le présent Protocole, la présente annexe ne s�
 <tr><td></td><td>l’utilisation</td><td>Aucune, sauf pour les utilisations suivantes et les utilisations a) à e) indiquées à l’annexe II: a) Électrodéposition du chrome, anodisation au chrome et gravure inversée jusqu’en 2014; b) Dépôt anélectrolytique de nickel-polytétrafluoroéthylène jusqu’en 2014; c) Gravure des substrats plastiques avant la métallisation jusqu’en 2014; d) Mousses extinctrices, mais uniquement si elles ont été fabriquées ou étaient utilisées au 18 décembre 2009. [tab] S’agissant des mousses extinctrices: i) Les Parties devraient s’efforcer d’éliminer d’ici à 2014 les mousses extinctrices contenant des SPFO qui étaient fabriquées ou utilisées au 18 décembre 2009 et elles rendront compte de leurs progrès à l’Organe exécutif en 2014; ii) Sur la base des rapports des Parties et du par. i), l’Organe exécutif déterminera en 2015 si l’utilisation de mousses extinctrices contenant des SPFO qui étaient fabriquées ou utilisées au 18 décembre 2009 devrait faire l’objet de restrictions supplémentaires.</td></tr>
 <tr><td>Tétrabromodiphényléther<sup>d</sup> et pentabromodiphényléther<sup>d</sup></td><td>la production l’utilisation</td><td>Aucune 1. Une Partie peut autoriser le recyclage d’articles qui contiennent ou sont susceptibles de contenir l’une quelconque de ces substances, ainsi que l’utilisation et l’élimination finale d’articles fabriqués à partir de matériaux recyclés qui contiennent ou sont susceptibles de contenir l’une quelconque de ces substances, à condition que le recyclage et l’élimination finale soient effectués de manière écologiquement rationnelle et n’aboutissent pas à la récupération de l’une ou l’autre de ces substances en vue de leur réutilisation. 2. À partir de 2013 et tous les quatre ans par la suite jusqu’à ce que la condition ci-dessus soit supprimée ou devienne caduque de quelque autre manière, l’Organe exécutif évaluera les progrès accomplis par les Parties vers la réalisation de leur objectif ultime d’élimination de ces substances contenues dans des articles et déterminera s’il est nécessaire de maintenir cette condition, qui en tout état de cause expirera au plus tard en 2030.</td></tr>
 <tr><td>Toxaphène CAS: 8001-35-2</td><td>la production l’utilisation</td><td>Aucune Aucune</td></tr>
-<tr><td colspan="3"><sup>a</sup> Les termes «hexabromodiphényléther et heptabromodiphényléther» s’entendent des substances suivantes: 2,2’,4,4’,5,5’-hexabromodiphényléther (BDE-153, CAS n<sup>o</sup>: 68631-49-2), 2, 2’,4,4’,5,6’-hexabromodiphényléther (BDE-154, CAS n<sup>o</sup>: 207122-15-4), 2,2’,3,3’,4,5’,6-heptabromodiphényléther (BDE-175, CAS n<sup>o</sup>: 446255-22-7), 2,2’,3,4,4’,5’,6-heptabromodiphényléther (BDE-183, CAS n<sup>o</sup>: 207122-16-5) et autres hexa- et heptabromodiphényléthers présents dans l’octabromodiphényléther du commerce. <sup>b</sup> Le terme «polychlorobiphényles» s’entend des composés aromatiques dont la structure est telle que les atomes d’hydrogène de la molécule de biphényle (deux cycles benzéniques reliés par un seul lien carbone-carbone) peuvent être remplacés par un nombre d’atomes de chlore allant jusqu’à 10. <sup>c</sup> Les termes sulfonates de perfluorooctane (SPFO) s’entendent des substances définies par la formule moléculaire C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>X, où X = OH, sel métallique, halogénure, amide ou autres dérivés, y compris les polymères. <sup>d</sup> Les termes «tétrabromodiphényléther et pentabromodiphényléther» s’entendent des substances suivantes: 2,2’,4,4’-tétrabromodiphényléther (BDE-47, CAS n<sup>o</sup>: 40088-47-9) et 2,2’,4,4’,5-pentabromodiphényléther (BDE-99, CAS n<sup>o</sup>: 32534-81-9) et autres tètra- et pentabromodiphényléthers présents dans le pentabromodiphényléther du commerce. <sup>e</sup> Le terme «paraffines chlorées à chaîne courte» s’entend de chloroalcanes ayant une longueur de chaîne carbonée comprise entre 10 et 13 atomes de carbone et un degré de chloration de plus de 48 % en poids. [tab]</td></tr>
+<tr><td colspan="3"><sup>a</sup> Les termes «hexabromodiphényléther et heptabromodiphényléther» s’entendent des substances suivantes: 2,2’,4,4’,5,5’-hexabromodiphényléther (BDE-153, CAS n<sup>o</sup>: 68631-49-2), 2, 2’,4,4’,5,6’-hexabromodiphényléther (BDE-154, CAS n<sup>o</sup>: 207122-15-4), 2,2’,3,3’,4,5’,6-heptabromodiphényléther (BDE-175, CAS n<sup>o</sup>: 446255-22-7), 2,2’,3,4,4’,5’,6-heptabromodiphényléther (BDE-183, CAS n<sup>o</sup>: 207122-16-5) et autres hexa- et heptabromodiphényléthers présents dans l’octabromodiphényléther du commerce. <sup>b</sup> Le terme «polychlorobiphényles» s’entend des composés aromatiques dont la structure est telle que les atomes d’hydrogène de la molécule de biphényle (deux cycles benzéniques reliés par un seul lien carbone-carbone) peuvent être remplacés par un nombre d’atomes de chlore allant jusqu’à 10. <sup>c</sup> Les termes sulfonates de perfluorooctane (SPFO) s’entendent des substances définies par la formule moléculaire C<sub>8</sub>F<sub>17</sub>SO<sub>2</sub>X, où X = OH, sel métallique, halogénure, amide ou autres dérivés, y compris les polymères. <sup>d</sup> Les termes «tétrabromodiphényléther et pentabromodiphényléther» s’entendent des substances suivantes: 2,2’,4,4’-tétrabromodiphényléther (BDE-47, CAS n<sup>o</sup>: 40088-47-9) et 2,2’,4,4’,5-pentabromodiphényléther (BDE-99, CAS n<sup>o</sup>: 32534-81-9) et autres tètra- et pentabromodiphényléthers présents dans le pentabromodiphényléther du commerce. <sup>e</sup> Le terme «paraffines chlorées à chaîne courte» s’entend de chloroalcanes ayant une longueur de chaîne carbonée comprise entre 10 et 13 atomes de carbone et un degré de chloration de plus de 48 % en poids.</td></tr>
 </table>
 
 Annexe II[^t-3]
@@ -565,7 +565,7 @@ Annexe V[^t-6]
 
 ## Meilleures techniques disponibles pour lutter contre les émissions de polluants organiques persistants provenant de grandes sources fixes
 
-[^t-6]: Mise à jour selon la D 2009/3 du 18 déc. 2009, en vigueur depuis le 13 déc. 2010, sauf pour le Canada et la République tchèque ([RO 2011 623](https://fedlex.data.admin.ch/eli/oc/2011/94)). Ces deux Etats continuent à appliquer la version primitive (voir [RO 2003 4425](https://fedlex.data.admin.ch/eli/oc/2003/664)).
+[^t-6]: Mise à jour par la D 2009/3 du 18 déc. 2009, en vigueur depuis le 13 déc. 2010, sauf pour le Canada et la République tchèque ([RO 2011 623](https://fedlex.data.admin.ch/eli/oc/2011/94)). Ces deux Etats continuent à appliquer la version primitive (voir [RO 2003 4425](https://fedlex.data.admin.ch/eli/oc/2003/664)).
 
 ### I. Introduction
 
@@ -691,7 +691,7 @@ Les installations ou parties d’installations utilisées pour les activités de
 <tr><td>14</td><td>Procédés thermiques utilisés dans l’industrie métallurgique, méthodes utilisant du chlore.</td></tr>
 </table>
 
-Champ d’application le 20 janvier 2022[^t-10]
+Champ d’application le 4 octobre 2024[^t-10]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -708,6 +708,7 @@ Champ d’application le 20 janvier 2022[^t-10]
 <tr><td>Finlande\*</td><td>3 septembre</td><td>2002</td><td>23 octobre</td><td>2003</td></tr>
 <tr><td>France</td><td>25 juillet</td><td>2003</td><td>23 octobre</td><td>2003</td></tr>
 <tr><td>Hongrie</td><td>7 janvier</td><td>2004</td><td>6 avril</td><td>2004</td></tr>
+<tr><td>Irlande</td><td>9 mars</td><td>2021</td><td>7 juin</td><td>2021</td></tr>
 <tr><td>Islande</td><td>29 mai</td><td>2003</td><td>23 octobre</td><td>2003</td></tr>
 <tr><td>Italie</td><td>20 juin</td><td>2006</td><td>18 septembre</td><td>2006</td></tr>
 <tr><td>Lettonie</td><td>28 octobre</td><td>2004</td><td>26 janvier</td><td>2005</td></tr>
@@ -722,16 +723,16 @@ Champ d’application le 20 janvier 2022[^t-10]
 <tr><td>République tchèque</td><td>6 août</td><td>2002</td><td>23 octobre</td><td>2003</td></tr>
 <tr><td>Roumanie\*</td><td>5 septembre</td><td>2003</td><td>23 octobre</td><td>2003</td></tr>
 <tr><td>Royaume-Uni</td><td>2 septembre</td><td>2005</td><td>1<sup>er</sup> décembre</td><td>2005</td></tr>
-<tr><td>Serbie<sup>\*</sup></td><td>26 mars</td><td>2012 A</td><td>24 juin</td><td>2012</td></tr>
+<tr><td>Serbie\*</td><td>26 mars</td><td>2012 A</td><td>24 juin</td><td>2012</td></tr>
 <tr><td>Slovaquie\*</td><td>30 décembre</td><td>2002</td><td>23 octobre</td><td>2003</td></tr>
 <tr><td>Slovénie</td><td>15 novembre</td><td>2005</td><td>13 février</td><td>2006</td></tr>
 <tr><td>Suède</td><td>19 janvier</td><td>2000</td><td>23 octobre</td><td>2003</td></tr>
 <tr><td>Suisse\*</td><td>14 novembre</td><td>2000</td><td>23 octobre</td><td>2003</td></tr>
 <tr><td>Union européenne</td><td>30 avril</td><td>2004</td><td>29 juillet</td><td>2004</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet des Nations Unies: [http://treaties.un.org/](http://treaties.un.org/) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
-[^t-10]: [RO 2003 4425](https://fedlex.data.admin.ch/eli/oc/2003/664); [2005 4445](https://fedlex.data.admin.ch/eli/oc/2005/575); [2008 4139](https://fedlex.data.admin.ch/eli/oc/2008/586); [2012 2565](https://fedlex.data.admin.ch/eli/oc/2012/307); [2015 761](https://fedlex.data.admin.ch/eli/oc/2015/135); [2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty
+[^t-10]: [RO 2003 4425](https://fedlex.data.admin.ch/eli/oc/2003/664); [2005 4445](https://fedlex.data.admin.ch/eli/oc/2005/575); [2008 4139](https://fedlex.data.admin.ch/eli/oc/2008/586); [2012 2565](https://fedlex.data.admin.ch/eli/oc/2012/307); [2015 761](https://fedlex.data.admin.ch/eli/oc/2015/135); [2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38); [2024 545](https://fedlex.data.admin.ch/eli/oc/2024/545). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty?news_period=last_month&news_pageNb=1&news_order=desc&news_itemsPerPage=10).
 
 Déclaration
 
@@ -739,4 +740,4 @@ Suisse
 
 Lors du dépôt de son instrument d’acceptation la Suisse a formulé la déclaration suivante:
 
-La Suisse approuvera les modifications a venir du protocole dans le cadre d’une procédure ordinaire de ratification, comme jusqu’ ici, en se fondant sur l’art. 16, par. 3, du protocole.
+La Suisse approuvera les modifications a venir du protocole dans le cadre d’une procédure ordinaire de ratification, comme jusqu’ici, en se fondant sur l’art. 16, par. 3, du protocole.

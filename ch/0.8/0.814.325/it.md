@@ -3,11 +3,11 @@ sr: "0.814.325"
 title: "Protocollo del 24 giugno 1998 alla Convenzione del 1979 sull'inquinamento atmosferico attraverso le frontiere a lunga distanza, relativo agli inquinanti organici persistenti (con Allegati)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/664"
 language: it
-version: 2023-02-26
+version: 2024-10-04
 adopted: 1998-06-24
 in_force: 2003-10-23
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/664/20230226/it/xml/fedlex-data-admin-ch-eli-cc-2003-664-20230226-it-xml-3.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/664/20230226/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/664/20241004/it/xml/fedlex-data-admin-ch-eli-cc-2003-664-20241004-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/664/20241004/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Concluso a Aarhus il 24 giugno 1998 Approvato dall’Assemblea federale il 19 settembre 2000[^t-1] Ratificato con strumenti depositati dalla Svizzera il 14 novembre 2000 Entrato in vigore per la Svizzera il 23 ottobre 2003
 
-(Stato 26 febbraio 2023)
+(Stato 4 ottobre 2024)
 
 [^t-1]: [RU 2003 4423](https://fedlex.data.admin.ch/eli/oc/2003/663)
 
@@ -62,9 +62,9 @@ in considerazione delle misure relative agli inquinanti organici persistenti, gi
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.814.32](https://fedlex.data.admin.ch/eli/cc/1983/887_887_887)
-[^ingress-2]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
-[^ingress-3]: [RS 0.814.05](https://fedlex.data.admin.ch/eli/cc/1992/1125_1125_1125)
+[^ingress-1]: [RS 0.814.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3536)
+[^ingress-2]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
+[^ingress-3]: [RS 0.814.05](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3493)
 
 #### Art. 1
 
@@ -72,41 +72,49 @@ hanno convenuto quanto segue:
 
 Ai fini del presente Protocollo:
 
-- 1\. Per «Convenzione» s’intende la Convenzione sull’inquinamento atmosferico attraverso le frontiere a lunga distanza, adottata a Ginevra il 13 novembre 1979.
-- 2\. Per «EMEP» s’intende il Programma concertato di sorveglianza continua e di valutazione del trasporto a lunga distanza degli inquinanti atmosferici in Europa.
-- 3\. Per «Organo esecutivo» s’intende l’organo esecutivo della Convenzione, istituito in attuazione del paragrafo uno dell’articolo 10 della Convenzione.
-- 4\. Per «Commissione» s’intende la Commissione economica delle Nazioni Unite per l’Europa.
-- 5\. Per «Parti» salvo che il contesto si opponga a tale interpretazione, s’intendono le «Parti al presente Protocollo».
-- 6\. Per «zona geografica delle attività dell’EMEP» s’intende la zona definita al paragrafo 4 dell’articolo primo del Protocollo alla Convenzione del 1979 sull’inquinamento atmosferico attraverso le frontiere a lunga distanza, relativo al finanziamento a lungo termine del Programma concertato di sorveglianza continua e di valutazione del trasporto a lunga distanza degli inquinanti atmosferici in Europa (EMEP), adottato a Ginevra il 28 settembre 1984[^1-1].
-- 7\.
+<sup>1.</sup> Per «Convenzione» s’intende la Convenzione sull’inquinamento atmosferico attraverso le frontiere a lunga distanza, adottata a Ginevra il 13 novembre 1979.
 
-  Per «inquinanti organici persistenti» (POP) s’intendono le sostanze organiche che:
+<sup>2.</sup> Per «EMEP» s’intende il Programma concertato di sorveglianza continua e di valutazione del trasporto a lunga distanza degli inquinanti atmosferici in Europa.
 
-  - i) possiedono caratteristiche tossiche;
-  - ii) sono persistenti;
-  - ii) sono suscettibili di bio-accumulazione;
-  - iv) possono con facilità essere trasportate nell’atmosfera al di là delle frontiere per lunghe distanze e depositarsi lontano dal luogo di emissione;
-  - v) rischiano di avere rilevanti effetti nocivi per la salute e l’ambiente sia in prossimità che a grande distanza dalla fonte.
+<sup>3.</sup> Per «Organo esecutivo» s’intende l’organo esecutivo della Convenzione, istituito in attuazione del paragrafo uno dell’articolo 10 della Convenzione.
 
-- 8\.
+<sup>4.</sup> Per «Commissione» s’intende la Commissione economica delle Nazioni Unite per l’Europa.
 
-  Per «materia» s’intende una specie chimica unica, o più specie chimiche costituenti un gruppo particolare, per il fatto:
+<sup>5.</sup> Per «Parti» salvo che il contesto si opponga a tale interpretazione, s’intendono le «Parti al presente Protocollo».
 
-  - a) che hanno proprietà analoghe o che sono emesse congiuntamente nell’ambiente; oppure
-  - b) che formano una miscela generalmente commercializzata in quanto articolo unico.
+<sup>6.</sup> Per «zona geografica delle attività dell’EMEP» s’intende la zona definita al paragrafo 4 dell’articolo primo del Protocollo alla Convenzione del 1979 sull’inquinamento atmosferico attraverso le frontiere a lunga distanza, relativo al finanziamento a lungo termine del Programma concertato di sorveglianza continua e di valutazione del trasporto a lunga distanza degli inquinanti atmosferici in Europa (EMEP), adottato a Ginevra il 28 settembre 1984[^1-1].
 
-- 9\. Per «emissione» s’intende lo scarico nell’atmosfera di una materia in provenienza da una fonte precisa o diffusa.
-- 10\. Per «fonte fissa» s’intende ogni fabbricato, struttura, dispositivo, impianto o attrezzatura che emette o può emettere direttamente o indirettamente nell’atmosfera un inquinante organico persistente.
-- 11\. Per «categoria di grandi fonti fisse» s’intende ogni categoria di fonti fisse di cui all’annesso VIII.
-- 12\.
+<sup>7.</sup>
 
-  per ‹fonte fissa nuova› s’intende qualsiasi fonte fissa la cui costruzione o modifica sostanziale sia iniziata trascorsi due anni dall’entrata in vigore per una Parte:
+Per «inquinanti organici persistenti» (POP) s’intendono le sostanze organiche che:
 
-  - a) del presente protocollo; oppure
-  - b) di un emendamento del presente protocollo che, per quanto riguarda una fonte fissa, introduce nuovi valori limite nella parte II dell’allegato IV, oppure introduce nell’allegato VIII la categoria nella quale tale fonte rientra.
-  - [tab] Spetta alle autorità nazionali competenti stabilire se una modifica sia sostanziale o meno, tenendo conto di fattori quali i benefici ambientali derivanti da tale modifica.[^1-2]
+- i) possiedono caratteristiche tossiche;
+- ii) sono persistenti;
+- ii) sono suscettibili di bio-accumulazione;
+- iv) possono con facilità essere trasportate nell’atmosfera al di là delle frontiere per lunghe distanze e depositarsi lontano dal luogo di emissione;
+- v) rischiano di avere rilevanti effetti nocivi per la salute e l’ambiente sia in prossimità che a grande distanza dalla fonte.
 
-[^1-1]: [RS 0.814.322](https://fedlex.data.admin.ch/eli/cc/1988/867_867_867)
+<sup>8.</sup>
+
+Per «materia» s’intende una specie chimica unica, o più specie chimiche costituenti un gruppo particolare, per il fatto:
+
+- a) che hanno proprietà analoghe o che sono emesse congiuntamente nell’ambiente; oppure
+- b) che formano una miscela generalmente commercializzata in quanto articolo unico.
+
+<sup>9.</sup> Per «emissione» s’intende lo scarico nell’atmosfera di una materia in provenienza da una fonte precisa o diffusa.
+
+<sup>10.</sup> Per «fonte fissa» s’intende ogni fabbricato, struttura, dispositivo, impianto o attrezzatura che emette o può emettere direttamente o indirettamente nell’atmosfera un inquinante organico persistente.
+
+<sup>11.</sup> Per «categoria di grandi fonti fisse» s’intende ogni categoria di fonti fisse di cui all’annesso VIII.
+
+<sup>12.</sup> Spetta alle autorità nazionali competenti stabilire se una modifica sia sostanziale o meno, tenendo conto di fattori quali i benefici ambientali derivanti da tale modifica.[^1-2]
+
+Per ‹fonte fissa nuova› s’intende qualsiasi fonte fissa la cui costruzione o modifica sostanziale sia iniziata trascorsi due anni dall’entrata in vigore per una Parte:
+
+- a) del presente protocollo; oppure
+- b) di un emendamento del presente protocollo che, per quanto riguarda una fonte fissa, introduce nuovi valori limite nella parte II dell’allegato IV, oppure introduce nell’allegato VIII la categoria nella quale tale fonte rientra.
+
+[^1-1]: [RS 0.814.322](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3538)
 [^1-2]: Nuovo testo giusta l’art. 1 A della Dec. 2009/1 del 18 dic. 2009, approvata dall’AF il 15 giu. 2018, in vigore per la Svizzera il 20 gen. 2022 ([RU 2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38), [37](https://fedlex.data.admin.ch/eli/oc/2022/37); [FF 2017 6449](https://fedlex.data.admin.ch/eli/fga/2017/2160)).
 
 #### Art. 2
@@ -591,7 +599,8 @@ Il concetto di migliore tecnologia disponibile non intende stabilire una partico
 - a) i policlorodibenzo-p-diossine/furanni (PCDD/PCDF);
 - b) l’esaclorobenzene (HCB);
 - c) gli idrocarburi aromatici policiclici (HAP).
-- [tab] Le definizioni corrispondenti sono fornite all’annesso III del presente Protocollo.
+
+Le definizioni corrispondenti sono fornite all’annesso III del presente Protocollo.
 
 ### II. Grandi fonti fisse di emissioni di POP
 
@@ -677,7 +686,7 @@ La presente lista non comprende gli impianti o parti d’impianti utilizzati per
 <tr><td>14</td><td>Processi termici nell’industria metallurgica, metodi a base di cloro.</td></tr>
 </table>
 
-Campo d’applicazione il 20 gennaio 2022[^t-10]
+Campo d’applicazione il 4 ottobre 2024[^t-10]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -693,6 +702,7 @@ Campo d’applicazione il 20 gennaio 2022[^t-10]
 <tr><td>Finlandia<sup>\*</sup></td><td>3 settembre</td><td>2002</td><td>23 ottobre</td><td>2003</td></tr>
 <tr><td>Francia</td><td>25 luglio</td><td>2003</td><td>23 ottobre</td><td>2003</td></tr>
 <tr><td>Germania</td><td>25 aprile</td><td>2002</td><td>23 ottobre</td><td>2003</td></tr>
+<tr><td>Irlanda</td><td>9 marzo</td><td>2021</td><td>7 giugno</td><td>2021</td></tr>
 <tr><td>Islanda</td><td>29 maggio</td><td>2003</td><td>23 ottobre</td><td>2003</td></tr>
 <tr><td>Italia</td><td>20 giugno</td><td>2006</td><td>18 settembre</td><td>2006</td></tr>
 <tr><td>Lettonia</td><td>28 ottobre</td><td>2004</td><td>26 gennaio</td><td>2005</td></tr>
@@ -714,10 +724,10 @@ Campo d’applicazione il 20 gennaio 2022[^t-10]
 <tr><td>Svizzera</td><td>14 novembre</td><td>2000</td><td>23 ottobre</td><td>2003</td></tr>
 <tr><td>Ungheria</td><td>7 gennaio</td><td>2004</td><td>6 aprile</td><td>2004</td></tr>
 <tr><td>Unione europea</td><td>30 aprile</td><td>2004</td><td>29 luglio</td><td>2004</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e le dichiarazioni, ad eccezione di quelle della Svizzera, non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Per il Regno in Europa.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e le dichiarazioni, ad eccezione di quelle della Svizzera, non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org/](http://treaties.un.org/)&gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Per il Regno in Europa.</td></tr>
 </table>
 
-[^t-10]: [RU 2003 4425](https://fedlex.data.admin.ch/eli/oc/2003/664); [2005 4445](https://fedlex.data.admin.ch/eli/oc/2005/575); [2008 4139](https://fedlex.data.admin.ch/eli/oc/2008/586); [2012 2565](https://fedlex.data.admin.ch/eli/oc/2012/307); [2015 761](https://fedlex.data.admin.ch/eli/oc/2015/135); [2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma «Fedlex» all'indiritto seguente: www.fedlex.admin.ch/it/treaty
+[^t-10]: [RU 2003 4425](https://fedlex.data.admin.ch/eli/oc/2003/664); [2005 4445](https://fedlex.data.admin.ch/eli/oc/2005/575); [2008 4139](https://fedlex.data.admin.ch/eli/oc/2008/586); [2012 2565](https://fedlex.data.admin.ch/eli/oc/2012/307); [2015 761](https://fedlex.data.admin.ch/eli/oc/2015/135); [2022 38](https://fedlex.data.admin.ch/eli/oc/2022/38); [2024 545](https://fedlex.data.admin.ch/eli/oc/2024/545). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty?news_period=last_month&news_pageNb=1&news_order=desc&news_itemsPerPage=10).
 
 Dichiarazione
 
