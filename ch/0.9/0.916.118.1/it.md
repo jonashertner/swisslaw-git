@@ -3,11 +3,11 @@ sr: "0.916.118.1"
 title: Accordo internazionale del 2010 sul cacao del 25 giugno 2010 (con allegati)
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/690"
 language: it
-version: 2024-10-01
+version: 2024-10-04
 adopted: 2010-06-25
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/690/20241001/it/xml/fedlex-data-admin-ch-eli-cc-2012-690-20241001-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/690/20241001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/690/20241004/it/xml/fedlex-data-admin-ch-eli-cc-2012-690-20241004-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/690/20241004/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Concluso a Ginevra il 25 giugno 2010 Approvato dall’Assemblea federale l’8 marzo 2011[^t-1] Strumento di ratifica depositato il 12 maggio 2011 Entrato in vigore provvisoriamente per la Svizzera il 1° ottobre 2012
 
-(Stato 1° ottobre 2024)
+(Stato 4 ottobre 2024)
 
 [^t-1]: [RU 2012 5857](https://fedlex.data.admin.ch/eli/oc/2012/689)
 
@@ -938,21 +938,23 @@ Indonesia Venezuela
 
 Giamaica
 
-Campo d’applicazione l’11 agosto 2020[^t-2]
+Campo d’applicazione il 4 ottobre 2024[^t-2]
 
-Il 1° ottobre 2012 l’Accordo è entrato in vigore interamente e a titolo provvisorio, conformemente al suo articolo 57 paragrafo 3, tra gli Stati e l’Unione europea. È parimenti entrato in vigore interamente e a titolo provvisorio, conformemente all’articolo 57 paragrafo 4, tra gli Stati seguenti:[^t-3]
+Il 1° ottobre 2012 l’Accordo è entrato in vigore interamente e a titolo provvisorio, conformemente al suo articolo 57 paragrafo 3, tra gli Stati e l’Unione europea. È parimenti entrato in vigore interamente e a titolo provvisorio, conformemente all’articolo 57 paragrafo 4, tra gli Stati seguenti[^t-3]:
 
 <table>
 <tr><td>Membri esportatori:</td><td>Membri importatori:</td></tr>
 <tr><td>Brasile</td><td>Unione europea</td></tr>
 <tr><td>Camerun</td><td>Svizzera</td></tr>
-<tr><td>Congo (Kinshasa)</td><td>Russia</td></tr>
+<tr><td>Colombia</td><td>Russia</td></tr>
+<tr><td>Congo (Kinshasa)</td><td></td></tr>
 <tr><td>Costa d’Avorio</td><td></td></tr>
 <tr><td>Ecuador</td><td></td></tr>
 <tr><td>Gabon</td><td></td></tr>
 <tr><td>Ghana</td><td></td></tr>
 <tr><td>Guinea</td><td></td></tr>
 <tr><td>Indonesia</td><td></td></tr>
+<tr><td>Liberia</td><td></td></tr>
 <tr><td>Madagascar</td><td></td></tr>
 <tr><td>Malaysia</td><td></td></tr>
 <tr><td>Nicaragua</td><td></td></tr>
@@ -964,5 +966,5 @@ Il 1° ottobre 2012 l’Accordo è entrato in vigore interamente e a titolo prov
 <tr><td>Venezuela</td><td></td></tr>
 </table>
 
-[^t-2]: [RU 2012 5859](https://fedlex.data.admin.ch/eli/oc/2012/690), [2016 2303](https://fedlex.data.admin.ch/eli/oc/2016/374)e [2020 3581](https://fedlex.data.admin.ch/eli/oc/2020/639). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
-[^t-3]: Il campo d’applicazione dettagliato sarà pubblicato al momento dell’entrata in vigore definitiva dell’Acc.
+[^t-2]: [RU 2012 5859](https://fedlex.data.admin.ch/eli/oc/2012/690); [2016 2303](https://fedlex.data.admin.ch/eli/oc/2016/374); [2020 3581](https://fedlex.data.admin.ch/eli/oc/2020/639); [2024 558](https://fedlex.data.admin.ch/eli/oc/2024/558). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
+[^t-3]: Il campo d’applicazione dettagliato sarà pubblicato al momento dell’entrata in vigore definitiva dell’Accordo.

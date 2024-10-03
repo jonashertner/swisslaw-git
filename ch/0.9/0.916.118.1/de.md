@@ -3,11 +3,11 @@ sr: "0.916.118.1"
 title: Internationales Kakao-Übereinkommen von 2010 vom 25. Juni 2010 (mit Anlagen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/690"
 language: de
-version: 2024-10-01
+version: 2024-10-04
 adopted: 2010-06-25
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/690/20241001/de/xml/fedlex-data-admin-ch-eli-cc-2012-690-20241001-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/690/20241001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/690/20241004/de/xml/fedlex-data-admin-ch-eli-cc-2012-690-20241004-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/690/20241004/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 12. Mai 2011
 
 Vorläufig in Kraft getreten für die Schweiz am 1. Oktober 2012
 
-(Stand am 1. Oktober 2024)
+(Stand am 4. Oktober 2024)
 
 [^t-1]: [AS 2012 5857](https://fedlex.data.admin.ch/eli/oc/2012/689)
 
@@ -937,7 +937,7 @@ Anlage C
 <tr><td>Jamaika</td><td></td></tr>
 </table>
 
-Geltungsbereich am 11.August 2020[^t-2]
+Geltungsbereich am 4. Oktober 2024[^t-2]
 
 Das Internationale Kakao-Übereinkommen ist gemäss seinem Artikel 57 Absatz 3 seit dem 1. Oktober 2012 zwischen den Staaten und der Europäischen Union untereinander ganz und vorläufig in Kraft getreten. Für weitere Staaten ist das Übereinkommen gemäss seinem Artikel 57 Absatz 4 ebenfalls ganz und vorläufig in Kraft getreten[^t-3]:
 
@@ -952,7 +952,9 @@ Das Internationale Kakao-Übereinkommen ist gemäss seinem Artikel 57 Absatz 3 s
 <tr><td>Guinea</td><td></td></tr>
 <tr><td>Indonesien</td><td></td></tr>
 <tr><td>Kamerun</td><td></td></tr>
+<tr><td>Kolumbien</td><td></td></tr>
 <tr><td>Kongo (Kinshasa)</td><td></td></tr>
+<tr><td>Liberia</td><td></td></tr>
 <tr><td>Madagaskar</td><td></td></tr>
 <tr><td>Malaysia</td><td></td></tr>
 <tr><td>Nicaragua</td><td></td></tr>
@@ -963,5 +965,5 @@ Das Internationale Kakao-Übereinkommen ist gemäss seinem Artikel 57 Absatz 3 s
 <tr><td>Venezuela</td><td></td></tr>
 </table>
 
-[^t-2]: [AS 2012 5859](https://fedlex.data.admin.ch/eli/oc/2012/690), [2016 2303](https://fedlex.data.admin.ch/eli/oc/2016/374), [2020 3581](https://fedlex.data.admin.ch/eli/oc/2020/639). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2012 5859](https://fedlex.data.admin.ch/eli/oc/2012/690); [2016 2303](https://fedlex.data.admin.ch/eli/oc/2016/374); [2020 3581](https://fedlex.data.admin.ch/eli/oc/2020/639); [2024 558](https://fedlex.data.admin.ch/eli/oc/2024/558). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 [^t-3]: Der ausführliche Geltungsbereich wird mit dem endgültigen Inkrafttreten dieses Übereinkommens veröffentlicht werden.

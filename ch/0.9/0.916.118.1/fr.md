@@ -3,11 +3,11 @@ sr: "0.916.118.1"
 title: "Accord international sur le cacao, 2010 du 25 juin 2010 (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/690"
 language: fr
-version: 2024-10-01
+version: 2024-10-04
 adopted: 2010-06-25
 in_force: 2012-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/690/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-2012-690-20241001-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/690/20241001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/690/20241004/fr/xml/fedlex-data-admin-ch-eli-cc-2012-690-20241004-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/690/20241004/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclu à Genève le 25 juin 2010 Approuvé par l’Assemblée fédérale le 8 mars 2011[^t-1] Instrument de ratification suisse déposé le 12 mai 2011 Entré en vigueur pour la Suisse à titre provisoire le 1<sup>er</sup> octobre 2012
 
-(État le 1<sup>er</sup> octobre 2024)
+(État le 4 octobre 2024)
 
 [^t-1]: [RO 2012 5857](https://fedlex.data.admin.ch/eli/oc/2012/689)
 
@@ -932,7 +932,7 @@ Annexe C
 <tr><td>Jamaïque</td><td></td></tr>
 </table>
 
-Champ d’application le 11 août 2020[^t-2]
+Champ d’application le 4 octobre 2024[^t-2]
 
 L’Accord international sur le cacao, 2010 est entré en vigueur à titre provisoire et en totalité conformément à son art. 57, par. 3 entre certains États et l’Union européenne à compter du 1<sup>er</sup> octobre 2012. Conformément à l’art. 57, par 4 de l’accord, celui-ci est également entré en vigueur pour certains autres États à titre provisoire entre eux et en totalité[^t-3]:
 
@@ -940,13 +940,15 @@ L’Accord international sur le cacao, 2010 est entré en vigueur à titre provi
 <tr><td>Membres exportateurs:</td><td>Membres importateurs:</td></tr>
 <tr><td>Brésil</td><td>Russie</td></tr>
 <tr><td>Cameroun</td><td>Suisse</td></tr>
-<tr><td>Congo (Kinshasa)</td><td>Union européenne</td></tr>
+<tr><td>Colombie</td><td>Union européenne</td></tr>
+<tr><td>Congo (Kinshasa)</td><td></td></tr>
 <tr><td>Côte d’Ivoire</td><td></td></tr>
 <tr><td>Équateur</td><td></td></tr>
 <tr><td>Gabon</td><td></td></tr>
 <tr><td>Ghana</td><td></td></tr>
 <tr><td>Guinée</td><td></td></tr>
 <tr><td>Indonésie</td><td></td></tr>
+<tr><td>Libéria</td><td></td></tr>
 <tr><td>Madagascar</td><td></td></tr>
 <tr><td>Malaisie</td><td></td></tr>
 <tr><td>Nicaragua</td><td></td></tr>
@@ -958,5 +960,5 @@ L’Accord international sur le cacao, 2010 est entré en vigueur à titre provi
 <tr><td>Venezuela</td><td></td></tr>
 </table>
 
-[^t-2]: [RO 2012 5859](https://fedlex.data.admin.ch/eli/oc/2012/690); [2016 2303](https://fedlex.data.admin.ch/eli/oc/2016/374); [2020 3581](https://fedlex.data.admin.ch/eli/oc/2020/639).
+[^t-2]: [RO 2012 5859](https://fedlex.data.admin.ch/eli/oc/2012/690); [2016 2303](https://fedlex.data.admin.ch/eli/oc/2016/374); [2020 3581](https://fedlex.data.admin.ch/eli/oc/2020/639); [2024 558](https://fedlex.data.admin.ch/eli/oc/2024/558). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 [^t-3]: Le champ d’application détaillé sera publié au moment de l’entrée en vigueur à titre définitif de l’accord.
