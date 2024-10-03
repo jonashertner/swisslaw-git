@@ -3,11 +3,11 @@ sr: "0.814.326"
 title: "Protocollo del 24 giugno 1998 della Convenzione del 1979 sull'inquinamento atmosferico attraverso le frontiere a lunga distanza, relativo ai metalli pesanti (con annessi)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/141"
 language: it
-version: 2022-02-08
+version: 2024-10-04
 adopted: 1998-06-24
 in_force: 2003-12-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/141/20220208/it/xml/fedlex-data-admin-ch-eli-cc-2004-141-20220208-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/141/20220208/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/141/20241004/it/xml/fedlex-data-admin-ch-eli-cc-2004-141-20241004-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/141/20241004/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -22,7 +22,7 @@ Concluso a Aarhus il 24 giugno 1998 Approvato dall’Assemblea federale il 19 se
 
 Strumento di ratifica depositato dalla Svizzera il 14 novembre 2000 Entrato in vigore per la Svizzera il 29 dicembre 2003
 
-(Stato 8 febbraio 2022)
+(Stato 4 ottobre 2024)
 
 [^t-1]: [RU 2004 1189](https://fedlex.data.admin.ch/eli/oc/2004/140)
 
@@ -58,8 +58,8 @@ tenendo conto delle attività consacrate alla lotta contro i metalli pesanti a l
 
 hanno convenuto quanto segue:
 
-[^ingress-1]: [RS 0.814.32](https://fedlex.data.admin.ch/eli/cc/1983/887_887_887)
-[^ingress-2]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^ingress-1]: [RS 0.814.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3536)
+[^ingress-2]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 1
 
@@ -91,8 +91,8 @@ Ai fini del presente Protocollo:
 
 12.[^1-4] Con i termini «questo Protocollo», «il Protocollo» e «il presente Protocollo» si intende il Protocollo del 1998 relativo ai metalli pesanti, con i successivi emendamenti.
 
-[^1-1]: [RS 0.814.32](https://fedlex.data.admin.ch/eli/cc/1983/887_887_887)
-[^1-2]: [RS 0.814.322](https://fedlex.data.admin.ch/eli/cc/1988/867_867_867)
+[^1-1]: [RS 0.814.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3536)
+[^1-2]: [RS 0.814.322](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3538)
 [^1-3]: Aggiornato dall’all. n. 1 della Dec. 2012/5 del 13 dic. 2012, approvata dall’AF il 16 giu. 2017, in vigore per la Svizzera l’8 feb. 2022 ([RU 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [FF 2016 7399](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
 [^1-4]: Introdotto dall’all. n. 2 della Dec. 2012/5 del 13 dic. 2012, approvata dall’AF il 16 giu. 2017, in vigore per la Svizzera l’8 feb. 2022 ([RU 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [FF 2016 7399](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
 
@@ -400,7 +400,7 @@ L’originale del presente Protocollo, i cui testi in lingua francese, inglese e
 
 *In fede di che,* i sottoscritti a tal fine debitamente autorizzati, hanno firmato il presente Protocollo. Fatto a Aarhus (Danimarca), il ventiquattro giugno millenovecento novantotto. (Seguono le firme)
 
-Annesso 1
+Annesso I
 
 ## Metalli pesanti di cui al paragrafo 1 dell’articolo 3 e anno di riferimento per l’obbligo
 
@@ -411,19 +411,19 @@ Annesso 1
 <tr><td>Mercurio (Hg)</td><td>1990, o ogni altro anno fra il 1985 ed il 1995 (compreso) specificato da una Parte al momento della ratifica, accettazione, approvazione o adesione</td></tr>
 </table>
 
-Annesso II*[^t-2]*
+Annesso II[^t-2]
 
 ## Categorie di fonti fisse
 
 [^t-2]: Aggiornato dall’all. n. 21 della Dec. 2012/5 del 13 dic. 2012, approvata dall’AF il 16 giu. 2017, in vigore per la Svizzera l’8 feb. 2022 ([RU 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [FF 2016 7399](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
 
-I. Introduzione
+### I. Introduzione
 
 \1. Il presente annesso non concerne gli impianti o parti d’impianti utilizzati per la ricerca-sviluppo o per le prove di nuovi prodotti o procedimenti.
 
 \2. I valori limite indicati in appresso si riferiscono in generale alle capacità di produzione o alla produzione effettiva. Quando un gestore esercita svariate attività che rientrano nella stessa sotto-rubrica, nello stesso impianto o sullo stesso sito, vengono sommate le capacità corrispondenti a tali attività.
 
-II. Lista delle categorie
+### II. Lista delle categorie
 
 <table>
 <tr><th>Categoria</th><th>Descrizione della categoria</th></tr>
@@ -440,7 +440,7 @@ II. Lista delle categorie
 <tr><td>11</td><td>Impianti d’incenerimento di rifiuti urbani aventi una capacità di oltre 3 tonnellate/ora o impianti di co-incenerimento di rifiuti urbani specificati secondo la legislazione nazionale.</td></tr>
 </table>
 
-Annesso III*[^t-3]*
+Annesso III[^t-3]
 
 ## Migliori tecnologie disponibili per lottare contro le emissioni di metalli pesanti e di loro composti provenienti da categorie di fonti enumerate all’annesso II
 
@@ -473,7 +473,7 @@ Il concetto di MTD non intende stabilire una particolare tecnica o tecnologia, m
 
 \4. La nostra esperienza in materia di impianti e di prodotti nuovi che si avvalgono di tecnologie poco inquinanti, e in materia di adeguamento degli impianti esistenti si perfeziona continuamente, per cui potrebbe darsi che il documento di orientamento menzionato al paragrafo 1 debba essere adeguato.
 
-Annesso IV*[^t-4]*
+Annesso IV[^t-4]
 
 ## Termini per l’applicazione dei valori limite e delle migliori tecnologie disponibili per le nuove fonti fisse e le fonti fisse esistenti
 
@@ -513,7 +513,7 @@ Annesso V[^t-5]
 
 \7. La sorveglianza delle sostanze inquinanti pertinenti e le misurazioni dei parametri di processo, nonché l’assicurazione di qualità dei sistemi automatici di misurazione e i metodi di misurazione di riferimento per calibrare tali sistemi, sono effettuati conformemente alle norme CEN. Qualora non siano disponibili norme CEN, si applicano norme ISO, norme nazionali o norme internazionali in grado di assicurare la disponibilità di dati di qualità scientifica equivalente.
 
-Impianti di combustione (bruciatori e riscaldatori di processo) con una potenza termica nominale superiore a 50 Mwth**[^annexV-lvlu1-lvlA-1]** (annesso II, categoria 1)
+Impianti di combustione (bruciatori e riscaldatori di processo) con una potenza termica nominale superiore a 50 Mwth[^annexV-lvlu1-lvlA-1] (annesso II, categoria 1)
 
 \8. Valori limite per le emissioni di polveri prodotte dai processi di combustione di combustibili solidi e liquidi, diversi da biomassa e torba[^annexV-lvlu1-lvlA-2]:
 
@@ -688,7 +688,7 @@ Tabella 8
 - jj) Mercury Cell Chlor-Alkali Plants – 40 C.F.R. parte 63, sottoparte IIIII;
 - kk) Standards of Performance Commercial and Industrial Solid Waste Incineration Units for which Construction is Commenced after November 30, 1999, or for which Modification or Reconstruction is Commenced on or after 1 June 2001 – 40 C.F.R. parte 60, sottoparte CCCC.
 
-Annesso VI*[^t-6]*
+Annesso VI[^t-6]
 
 ## Misure di regolamentazione dei prodotti
 
@@ -733,7 +733,7 @@ Annesso VII
 - f) pitture contenenti mercurio (le misure adottate comprendono il divieto di tutte queste pitture, il divieto di questo pitture per uso interno o sui giocattoli destinati ai bambini, ed il divieto di usare mercurio nelle pitture anti-corrosive);
 - g) pile ed accumulatori contenenti mercurio diverse da quelle di cui all’annesso VI (le misure adottate comprendono la diminuzione del tenore di mercurio mediante programmi sia volontari che regolamentari, la riscossione di tasse e dazi ambientali, e programmi volontari di riciclaggio).
 
-Campo d’applicazione il 10 maggio 2017**[^t-7]**
+Campo d’applicazione il 4 ottobre 2024[^t-7]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -749,6 +749,7 @@ Campo d’applicazione il 10 maggio 2017**[^t-7]**
 <tr><td>Finlandia<sup>\*</sup></td><td>20 giugno</td><td>2000</td><td>29 dicembre</td><td>2003</td></tr>
 <tr><td>Francia</td><td>26 luglio</td><td>2002</td><td>29 dicembre</td><td>2003</td></tr>
 <tr><td>Germania</td><td>30 settembre</td><td>2003</td><td>29 dicembre</td><td>2003</td></tr>
+<tr><td>Irlanda</td><td>9 marzo</td><td>2021</td><td>7 giugno</td><td>2021</td></tr>
 <tr><td>Lettonia</td><td>9 giugno</td><td>2005</td><td>7 settembre</td><td>2005</td></tr>
 <tr><td>Liechtenstein<sup>\*</sup></td><td>23 dicembre</td><td>2003</td><td>22 marzo</td><td>2004</td></tr>
 <tr><td>Lituania</td><td>28 ottobre</td><td>2004</td><td>26 gennaio</td><td>2005</td></tr>
@@ -771,15 +772,15 @@ Campo d’applicazione il 10 maggio 2017**[^t-7]**
 <tr><td>Svizzera</td><td>14 novembre</td><td>2000</td><td>29 dicembre</td><td>2003</td></tr>
 <tr><td>Ungheria</td><td>19 aprile</td><td>2005</td><td>18 luglio</td><td>2005</td></tr>
 <tr><td>Unione Europea</td><td>3 maggio</td><td>2001</td><td>29 dicembre</td><td>2003</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni , ad eccezione di quelle delal Svizzera, non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni , ad eccezione di quelle delal Svizzera, non sono pubblicate nella RU. Il testo, in francese e inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [http://treaties.un.org/](http://treaties.un.org/)&gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Per il Regno in Europa.</td></tr>
 </table>
 
-## Dichiarazione
+[^t-7]: [RU 2004 1191](https://fedlex.data.admin.ch/eli/oc/2004/141); [2005 4791](https://fedlex.data.admin.ch/eli/oc/2005/644); [2010 3501](https://fedlex.data.admin.ch/eli/oc/2010/493); [2013 717](https://fedlex.data.admin.ch/eli/oc/2013/141); [2017 3231](https://fedlex.data.admin.ch/eli/oc/2017/326); [2022 876](https://fedlex.data.admin.ch/eli/oc/2022/876); [2024 546](https://fedlex.data.admin.ch/eli/oc/2024/546). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty?news_period=last_month&news_pageNb=1&news_order=desc&news_itemsPerPage=10)
 
-[^t-7]: [RU 2004 1191](https://fedlex.data.admin.ch/eli/oc/2004/141); [2005 4791](https://fedlex.data.admin.ch/eli/oc/2005/644); [2010 3501](https://fedlex.data.admin.ch/eli/oc/2010/493); [2013 717](https://fedlex.data.admin.ch/eli/oc/2013/141); [2017 3231](https://fedlex.data.admin.ch/eli/oc/2017/326)e [2022 876](https://fedlex.data.admin.ch/eli/oc/2022/876). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.fedlex.admin.ch/it/treaty).
+Dichiarazione
 
-### Svizzera
+Svizzera
 
 La Svizzera formula la seguente dichiarazione in occasione dell’accettazione, conformemente all’articolo 13 paragrafo 3 del Protocollo:
 

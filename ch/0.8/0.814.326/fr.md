@@ -3,11 +3,11 @@ sr: "0.814.326"
 title: "Protocole du 24 juin 1998 à la Convention sur la pollution atmosphérique transfrontière à longue distance, de 1979, relatif aux métaux lourds (avec annexes)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/141"
 language: fr
-version: 2022-02-08
+version: 2024-10-04
 adopted: 1998-06-24
 in_force: 2003-12-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/141/20220208/fr/xml/fedlex-data-admin-ch-eli-cc-2004-141-20220208-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/141/20220208/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/141/20241004/fr/xml/fedlex-data-admin-ch-eli-cc-2004-141-20241004-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/141/20241004/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 14 novembre 2000
 
 Entré en vigueur pour la Suisse le 29 décembre 2003
 
-(Etat le 8 février 2022)
+(État le 4 octobre 2024)
 
 [^t-1]: [RO 2004 1189](https://fedlex.data.admin.ch/eli/oc/2004/140)
 
@@ -62,8 +62,8 @@ tenant compte des activités consacrées à la lutte contre les métaux lourds a
 
 sont convenues de ce qui suit:
 
-[^ingress-1]: [RS 0.814.32](https://fedlex.data.admin.ch/eli/cc/1983/887_887_887)
-[^ingress-2]: [RS 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^ingress-1]: [RS 0.814.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3536)
+[^ingress-2]: [RS 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 1
 
@@ -95,8 +95,8 @@ Aux fins du présent Protocole,
 
 12.[^1-4] On entend par «le Protocole» et «le présent Protocole» le Protocole de 1998 relatif aux métaux lourds, tel qu’il a été de temps à autre modifié.
 
-[^1-1]: [RS 0.814.32](https://fedlex.data.admin.ch/eli/cc/1983/887_887_887)
-[^1-2]: [RS 0.814.322](https://fedlex.data.admin.ch/eli/cc/1988/867_867_867)
+[^1-1]: [RS 0.814.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3536)
+[^1-2]: [RS 0.814.322](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3538)
 [^1-3]: Mise à jour par l’annexe ch. 1 de la D 2012/5 du 13 déc. 2012, approuvée par l’Ass. féd. le 16 juin 2017, en vigueur pour la Suisse depuis le 8 fév. 2022 ([RO 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [FF 2016 8053](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
 [^1-4]: Introduit par l’annexe ch. 2 de la D 2012/5 du 13 déc. 2012, approuvée par l’Ass. féd. le 16 juin 2017, en vigueur pour la Suisse depuis le 8 fév. 2022 ([RO 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [FF 2016 8053](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
 
@@ -413,7 +413,7 @@ Annexe I
 <tr><td>Mercure (Hg)</td><td>1990, ou toute autre année entre 1985 et 1995 (inclus) spécifiée par une Partie lors de la ratification, acceptation, approbation ou adhésion.</td></tr>
 </table>
 
-Annexe II*[^t-2]*
+Annexe II[^t-2]
 
 ## Catégorie des sources fixes
 
@@ -442,7 +442,7 @@ Annexe II*[^t-2]*
 <tr><td>11</td><td>Installations d’incinération de déchets urbains d’une capacité supérieure à 3 tonnes/heure ou installations de co-incinération de déchets urbains spécifiés conformément à la législation nationale.</td></tr>
 </table>
 
-Annexe III*[^t-3]*
+Annexe III[^t-3]
 
 ## Meilleures techniques disponibles pour lutter contre les émissions de métaux lourds et de leurs composés provenant des catégories de sources énumérées à l’annexe II
 
@@ -475,7 +475,7 @@ La notion de MTD ne vise pas à prescrire une technique ou une technologie parti
 
 \4. L’expérience que l’on a des installations et des produits nouveaux qui font appel à des techniques peu polluantes, ainsi que de la mise à niveau des installations existantes, s’accroît sans cesse; il se peut donc que le document d’orientation mentionné au par. 1 doive être actualisé.
 
-Annexe IV*[^t-4]*
+Annexe IV[^t-4]
 
 ## Délais d’application des valeurs limites et des meilleures techniques disponibles pour les sources fixes nouvelles et les sources fixés existantes
 
@@ -490,7 +490,7 @@ Annexe IV*[^t-4]*
 
 \3. Une Partie qui a procédé à un choix conformément à l’art. 3<sup>bis</sup> du présent Protocole en ce qui concerne une catégorie particulière de source fixe ne peut faire aussi une déclaration au titre du par. 2 concernant la même catégorie de source.
 
-Annexe V*[^t-5]*
+Annexe V[^t-5]
 
 ## Valeurs limites aux fins de la lutte contre les émissions provenant de grandes sources fixes
 
@@ -515,7 +515,7 @@ Annexe V*[^t-5]*
 
 \7. La surveillance des substances polluantes pertinentes et les mesures des paramètres de fonctionnement, ainsi que l’assurance qualité des systèmes automatisés de mesure et les mesures de référence pour l’étalonnage de ces systèmes, sont conformes aux normes fixées par le Comité européen de normalisation (CEN). A défaut de celles-ci, ce sont les normes de l’Organisation internationale de normalisation (ISO) ou des normes nationales ou internationales garantissant la communication de données d’une qualité scientifique équivalente qui s’appliquent.
 
-Installations de combustion (chaudières et récupérateurs de chaleur industrielle) d’une puissance thermique nominale supérieure à 50 MWth**[^annexV-lvlu1-lvlA-1]** (annexe II, catégorie 1)
+Installations de combustion (chaudières et récupérateurs de chaleur industrielle) d’une puissance thermique nominale supérieure à 50 MWth[^annexV-lvlu1-lvlA-1] (annexe II, catégorie 1)
 
 \8. Valeurs limites pour les émissions de poussières provenant de la combustion de combustibles solides et liquides, autres que la biomasse et la tourbe[^annexV-lvlu1-lvlA-2]:
 
@@ -690,7 +690,7 @@ Tableau 8
 - jj) Installations à cathode de mercure pour la production de chlore et de soude caustique – C.F.R., titre 40, partie 63, section IIIII;
 - kk) Normes de rendement des installations commerciales et industrielles d’incinération de déchets solides dont la construction a démarré après le 30 novembre 1999 ou dont la modification ou la reconstruction a démarré au plus tôt le 1<sup>er</sup> juin 2001 – C.F.R., titre 40, partie 60, section CCCC.»
 
-Annexe VI*[^t-6]*
+Annexe VI[^t-6]
 
 ## Mesures de réglementation des produits
 
@@ -735,7 +735,7 @@ Annexe VII
 - f) Peintures contenant du mercure (les mesures prises comprennent l’interdiction de toutes ces peintures, l’interdiction de ces peintures pour une utilisation intérieure ou sur les jouets destinés aux enfants et l’interdiction de l’utilisation du mercure dans les peintures anticorrosion); et
 - g) Piles et accumulateurs contenant du mercure autres que ceux visés à l’annexe VI (les mesures prises comprennent la diminution de la teneur en mercure grâce à des programmes tant volontaires que réglementaires, la perception de taxes et redevances environnementales et des programmes volontaires de recyclage).
 
-Champ d’application le 10 mai 2017**[^t-7]**
+Champ d’application le 4 octobre 2024[^t-7]
 
 <table>
 <tr><th>États parties</th><th>Adhésion (A) Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -747,12 +747,13 @@ Champ d’application le 10 mai 2017**[^t-7]**
 <tr><td>Chypre</td><td>2 septembre</td><td>2004</td><td>1<sup>er</sup> décembre</td><td>2004</td></tr>
 <tr><td>Croatie</td><td>6 septembre</td><td>2007</td><td>5 décembre</td><td>2007</td></tr>
 <tr><td>Danemark</td><td>12 juillet</td><td>2001</td><td>29 décembre</td><td>2003</td></tr>
-<tr><td>Espagne</td><td>21 septembre</td><td>2011</td><td>20 décembre</td><td>2011</td></tr>
+<tr><td>Espagne\*</td><td>21 septembre</td><td>2011</td><td>20 décembre</td><td>2011</td></tr>
 <tr><td>Estonie\*</td><td>24 mars</td><td>2006 A</td><td>22 juin</td><td>2006</td></tr>
 <tr><td>États-Unis</td><td>10 janvier</td><td>2001</td><td>29 décembre</td><td>2003</td></tr>
 <tr><td>Finlande\*</td><td>20 juin</td><td>2000</td><td>29 décembre</td><td>2003</td></tr>
 <tr><td>France</td><td>26 juillet</td><td>2002</td><td>29 décembre</td><td>2003</td></tr>
 <tr><td>Hongrie</td><td>19 avril</td><td>2005</td><td>18 juillet</td><td>2005</td></tr>
+<tr><td>Irlande</td><td>9 mars</td><td>2021</td><td>7 juin</td><td>2021</td></tr>
 <tr><td>Lettonie</td><td>9 juin</td><td>2005</td><td>7 septembre</td><td>2005</td></tr>
 <tr><td>Liechtenstein\*</td><td>23 décembre</td><td>2003</td><td>22 mars</td><td>2004</td></tr>
 <tr><td>Lituanie</td><td>28 octobre</td><td>2004</td><td>26 janvier</td><td>2005</td></tr>
@@ -767,19 +768,19 @@ Champ d’application le 10 mai 2017**[^t-7]**
 <tr><td>République tchèque</td><td>6 août</td><td>2002</td><td>29 décembre</td><td>2003</td></tr>
 <tr><td>Roumanie\*</td><td>5 septembre</td><td>2003</td><td>29 décembre</td><td>2003</td></tr>
 <tr><td>Royaume-Uni</td><td>6 juillet</td><td>2005</td><td>4 octobre</td><td>2005</td></tr>
-<tr><td>Serbie</td><td>26 mars</td><td>2012 A</td><td>24 juin</td><td>2012</td></tr>
+<tr><td>Serbie\*</td><td>26 mars</td><td>2012 A</td><td>24 juin</td><td>2012</td></tr>
 <tr><td>Slovaquie\*</td><td>30 décembre</td><td>2002</td><td>29 décembre</td><td>2003</td></tr>
 <tr><td>Slovénie</td><td>9 février</td><td>2004</td><td>9 mai</td><td>2004</td></tr>
 <tr><td>Suède</td><td>19 janvier</td><td>2000</td><td>29 décembre</td><td>2003</td></tr>
 <tr><td>Suisse</td><td>14 novembre</td><td>2000</td><td>29 décembre</td><td>2003</td></tr>
 <tr><td>Union européenne (UE)</td><td>3 mai</td><td>2001</td><td>29 décembre</td><td>2003</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l'exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [http://treaties.un.org](http://treaties.un.org) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Pour le Royaume en Europe.</td></tr>
 </table>
 
 ## Déclaration
 
-[^t-7]: [RO 2004 1191](https://fedlex.data.admin.ch/eli/oc/2004/141); [2005 4791](https://fedlex.data.admin.ch/eli/oc/2005/644); [2010 3501](https://fedlex.data.admin.ch/eli/oc/2010/493); [2013 717](https://fedlex.data.admin.ch/eli/oc/2013/141); [2017 3231](https://fedlex.data.admin.ch/eli/oc/2017/326); [2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: www.fedlex.admin.ch/fr/treaty
+[^t-7]: [RO 2004 1191](https://fedlex.data.admin.ch/eli/oc/2004/141); [2005 4791](https://fedlex.data.admin.ch/eli/oc/2005/644); [2010 3501](https://fedlex.data.admin.ch/eli/oc/2010/493); [2013 717](https://fedlex.data.admin.ch/eli/oc/2013/141); [2017 3231](https://fedlex.data.admin.ch/eli/oc/2017/326); [2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876); [2024 546](https://fedlex.data.admin.ch/eli/oc/2024/546). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
 
 ### Suisse
 

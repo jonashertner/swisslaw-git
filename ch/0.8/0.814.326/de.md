@@ -3,11 +3,11 @@ sr: "0.814.326"
 title: Protokoll vom 24. Juni 1998 zu dem Übereinkommen von 1979 über weiträumige grenzüberschreitende Luftverunreinigung betreffend Schwermetalle
 eli: "https://fedlex.data.admin.ch/eli/cc/2004/141"
 language: de
-version: 2022-02-08
+version: 2024-10-04
 adopted: 1998-06-24
 in_force: 2003-12-29
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/141/20220208/de/xml/fedlex-data-admin-ch-eli-cc-2004-141-20220208-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2004/141/20220208/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2004/141/20241004/de/xml/fedlex-data-admin-ch-eli-cc-2004-141-20241004-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2004/141/20241004/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **2004** 1191; BBl **2000** 3097
 
 Abgeschlossen in Aarhus am 24. Juni 1998 Von der Bundesversammlung genehmigt am 19. September 2000[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 14. November 2000 In Kraft getreten für die Schweiz am 29. Dezember 2003
 
-(Stand am 8. Februar 2022)
+(Stand am 4. Oktober 2024)
 
 [^t-1]: [AS 2004 1189](https://fedlex.data.admin.ch/eli/oc/2004/140)
 
@@ -56,8 +56,8 @@ im Bewusstsein der Massnahmen zur Begrenzung von Schwermetallen auf nationaler E
 
 sind wie folgt übereingekommen:
 
-[^ingress-1]: [SR 0.814.32](https://fedlex.data.admin.ch/eli/cc/1983/887_887_887)
-[^ingress-2]: [SR 0.120](https://fedlex.data.admin.ch/eli/cc/2003/160)
+[^ingress-1]: [SR 0.814.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3536)
+[^ingress-2]: [SR 0.120](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/41)
 
 #### Art. 1
 
@@ -65,21 +65,32 @@ sind wie folgt übereingekommen:
 
 Im Sinne dieses Protokolls
 
-- 1\. bedeutet «Übereinkommen» das am 13. November 1979[^1-1] in Genf geschlossene Übereinkommen über weiträumige grenzüberschreitende Luftverunreinigung;
-- 2\. bedeutet «EMEP» das Programm über die Zusammenarbeit bei der Messung und Bewertung der weiträumigen Übertragung von Luft verunreinigenden Stoffen in Europa;
-- 3\. bedeutet «Exekutivorgan» das gemäss Artikel 10 Absatz 1 des Übereinkommens gebildete Exekutivorgan für das Übereinkommen;
-- 4\. bedeutet «Kommission» die Wirtschaftskommission der Vereinten Nationen für Europa;
-- 5\. bedeutet «Vertragsparteien» die Vertragsparteien dieses Protokolls, soweit der Zusammenhang nichts anderes erfordert;
-- 6\. bedeutet «geografischer Anwendungsbereich des EMEP» das Gebiet, das in Artikel 1 Absatz 4 des am 28. September 1984 in Genf angenommenen Protokolls zum Übereinkommen von 1979 über weiträumige grenzüberschreitende Luftverunreinigung betreffend die langfristige Finanzierung des Programms über die Zusammenarbeit bei der Messung und Bewertung der weiträumigen Übertragung von Luft verunreinigenden Stoffen in Europa[^1-2] (EMEP) festgelegt ist;
-- 7\. bedeutet «Schwermetalle» die Metalle bzw. in einigen Fällen Metalloide, die beständig sind und eine Dichte grösser als 4,5 g/cm<sup>3</sup> aufweisen, sowie ihre Verbindungen;
-- 8\. bedeutet «Emission» die Freisetzung aus einer Punktquelle oder einer diffusen Quelle in die Atmosphäre;
-- 9\. bedeutet «ortsfeste Quelle» jedes feste Gebäude oder Bauwerk, jede feste Einrichtung, Anlage oder Ausrüstung, das bzw. die ein in Anhang I aufgeführtes Schwermetall direkt oder indirekt in die Atmosphäre freisetzt oder freisetzen kann;
-- 10\.[^1-3] bedeutet «neue ortsfeste Quelle» jede ortsfeste Quelle, deren Bau oder wesentliche Modifikation nach Ablauf von zwei Jahren nach dem Inkrafttreten für eine Partei des vorliegenden Protokolls begonnen wurde. Eine Vertragspartei kann beschliessen, eine ortsfeste Quelle, die zum Zeitpunkt des Inkrafttretens des Protokolls für diese Vertragspartei bereits von den zuständigen nationalen Behörden genehmigt wurde, nicht als neue ortsfeste Quelle zu betrachten, vorausgesetzt, mit dem Bau oder der wesentlichen Veränderung wird innerhalb von fünf Jahren ab diesem Zeitpunkt begonnen. Es ist Angelegenheit der zuständigen nationalen Behörden, unter Berücksichtigung solcher Faktoren wie des Umweltnutzens einer Modifikation zu entscheiden, ob diese wesentlich ist;
-- 11\. bedeutet «Kategorie grösserer ortsfester Quellen» jede Kategorie ortsfester Quellen, die in Anhang II aufgeführt ist und mindestens mit einem Prozent an den Gesamtemissionen eines in Anhang I aufgeführten Schwermetalls aus ortsfesten Quellen einer Vertragspartei für das gemäss Anhang I festgelegte Bezugsjahr beteiligt ist;
-- [tab] 12.[^1-4] «dieses Protokoll», «das Protokoll» bzw. «das vorliegende Protokoll» das Protokoll von 1998 betreffend Schwermetalle in seiner jeweils geltenden Fassung.
+<sup>1.</sup> bedeutet «Übereinkommen» das am 13. November 1979[^1-1] in Genf geschlossene Übereinkommen über weiträumige grenzüberschreitende Luftverunreinigung;
 
-[^1-1]: [SR 0.814.32](https://fedlex.data.admin.ch/eli/cc/1983/887_887_887)
-[^1-2]: [SR 0.814.322](https://fedlex.data.admin.ch/eli/cc/1988/867_867_867)
+<sup>2.</sup> bedeutet «EMEP» das Programm über die Zusammenarbeit bei der Messung und Bewertung der weiträumigen Übertragung von Luft verunreinigenden Stoffen in Europa;
+
+<sup>3.</sup> bedeutet «Exekutivorgan» das gemäss Artikel 10 Absatz 1 des Übereinkommens gebildete Exekutivorgan für das Übereinkommen;
+
+<sup>4.</sup> bedeutet «Kommission» die Wirtschaftskommission der Vereinten Nationen für Europa;
+
+<sup>5.</sup> bedeutet «Vertragsparteien» die Vertragsparteien dieses Protokolls, soweit der Zusammenhang nichts anderes erfordert;
+
+<sup>6.</sup> bedeutet «geografischer Anwendungsbereich des EMEP» das Gebiet, das in Artikel 1 Absatz 4 des am 28. September 1984 in Genf angenommenen Protokolls zum Übereinkommen von 1979 über weiträumige grenzüberschreitende Luftverunreinigung betreffend die langfristige Finanzierung des Programms über die Zusammenarbeit bei der Messung und Bewertung der weiträumigen Übertragung von Luft verunreinigenden Stoffen in Europa[^1-2] (EMEP) festgelegt ist;
+
+<sup>7.</sup> bedeutet «Schwermetalle» die Metalle bzw. in einigen Fällen Metalloide, die beständig sind und eine Dichte grösser als 4,5 g/cm<sup>3</sup> aufweisen, sowie ihre Verbindungen;
+
+<sup>8.</sup> bedeutet «Emission» die Freisetzung aus einer Punktquelle oder einer diffusen Quelle in die Atmosphäre;
+
+<sup>9.</sup> bedeutet «ortsfeste Quelle» jedes feste Gebäude oder Bauwerk, jede feste Einrichtung, Anlage oder Ausrüstung, das bzw. die ein in Anhang I aufgeführtes Schwermetall direkt oder indirekt in die Atmosphäre freisetzt oder freisetzen kann;
+
+10.[^1-3] bedeutet «neue ortsfeste Quelle» jede ortsfeste Quelle, deren Bau oder wesentliche Modifikation nach Ablauf von zwei Jahren nach dem Inkrafttreten für eine Partei des vorliegenden Protokolls begonnen wurde. Eine Vertragspartei kann beschliessen, eine ortsfeste Quelle, die zum Zeitpunkt des Inkrafttretens des Protokolls für diese Vertragspartei bereits von den zuständigen nationalen Behörden genehmigt wurde, nicht als neue ortsfeste Quelle zu betrachten, vorausgesetzt, mit dem Bau oder der wesentlichen Veränderung wird innerhalb von fünf Jahren ab diesem Zeitpunkt begonnen. Es ist Angelegenheit der zuständigen nationalen Behörden, unter Berücksichtigung solcher Faktoren wie des Umweltnutzens einer Modifikation zu entscheiden, ob diese wesentlich ist;
+
+<sup>11.</sup> bedeutet «Kategorie grösserer ortsfester Quellen» jede Kategorie ortsfester Quellen, die in Anhang II aufgeführt ist und mindestens mit einem Prozent an den Gesamtemissionen eines in Anhang I aufgeführten Schwermetalls aus ortsfesten Quellen einer Vertragspartei für das gemäss Anhang I festgelegte Bezugsjahr beteiligt ist;
+
+12.[^1-4] «dieses Protokoll», «das Protokoll» bzw. «das vorliegende Protokoll» das Protokoll von 1998 betreffend Schwermetalle in seiner jeweils geltenden Fassung.
+
+[^1-1]: [SR 0.814.32](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3536)
+[^1-2]: [SR 0.814.322](https://fedlex.data.admin.ch/vocabulary/legal-taxonomy/3538)
 [^1-3]: Bereinigt gemäss Anhang Ziff. 1 des Beschlusses 2012/5 vom 13. Dez. 2012, von der BVers genehmigt am 16. Juni 2017 und in Kraft getreten für die Schweiz am 8. Febr. 2022 ([AS 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [BBl 2016 8285](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
 [^1-4]: Eingefügt durch Anhang Ziff. 2 des Beschlusses 2012/5 vom 13. Dez. 2012, von der BVers genehmigt am 16. Juni 2017 und in Kraft getreten für die Schweiz am 8. Febr. 2022 ([AS 2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876), [875](https://fedlex.data.admin.ch/eli/oc/2021/875); [BBl 2016 8285](https://fedlex.data.admin.ch/eli/fga/2016/1949)).
 
@@ -252,7 +263,9 @@ Die Einhaltung der Verpflichtungen der Vertragsparteien im Rahmen dieses Protoko
 
 <sup>2.</sup> Die Vertragsparteien überprüfen auf Tagungen des Exekutivorgans, welche Fortschritte auf dem Weg zur Erfüllung der Verpflichtungen aus diesem Protokoll gemacht worden sind.
 
-<sup>3.</sup> Die Vertragsparteien überprüfen auf Tagungen des Exekutivorgans, ob die in diesem Protokoll festgelegten Verpflichtungen ausreichend und wirksam sind.
+<sup>3.</sup>
+
+Die Vertragsparteien überprüfen auf Tagungen des Exekutivorgans, ob die in diesem Protokoll festgelegten Verpflichtungen ausreichend und wirksam sind:
 
 - a) Bei diesen Überprüfungen werden die besten verfügbaren wissenschaftlichen Informationen über die Auswirkungen der Deposition von Schwermetallen, Bewertungen technologischer Entwicklungen und sich verändernde wirtschaftliche Bedingungen berücksichtigt;
 - b) Bei diesen Überprüfungen wird vor dem Hintergrund der Forschung, Entwicklung, Überwachung und Zusammenarbeit im Rahmen dieses Protokolls
@@ -319,7 +332,9 @@ Die Anhänge dieses Protokolls sind Bestandteil dieses Protokolls. Die Anhänge 
   - i) eine Notifikation gemäss Buchstabe a eingereicht haben, oder
   - ii) das in diesem Absatz vorgesehene Verfahren nicht angenommen und noch keine Annahmeurkunde gemäss Absatz 3 hinterlegt haben.[^13-5]
 
-<sup>6.</sup> Im Falle eines Vorschlags zur Änderung von Anhang I, VI oder VII durch Hinzufügen eines Schwermetalls, einer Produktkontrollmassnahme oder eines Produkts bzw. einer Produktkategorie zu diesem Protokoll
+<sup>6.</sup>
+
+Im Falle eines Vorschlags zur Änderung von Anhang I, VI oder VII durch Hinzufügen eines Schwermetalls, einer Produktkontrollmassnahme oder eines Produkts bzw. einer Produktkategorie zu diesem Protokoll:
 
 - a) legt der Antragsteller dem Exekutivorgan die Informationen entsprechend dem Beschluss des Exekutivorgans 1998/2, einschliesslich aller Änderungen, vor; und
 - b) beurteilen die Vertragsparteien den Vorschlag nach den im Beschluss des Exekutivorgans 1998/2 festgelegten Verfahren einschliesslich aller Änderungen.
@@ -391,7 +406,7 @@ Anhang I
 <tr><td>Quecksilber (Hg)</td><td>1990 oder ein beliebiges anderes Jahr von 1985 bis einschliesslich 1995, das von einer Vertragspartei bei der Ratifikation, der Annahme, der Genehmigung oder beim Beitritt angegeben wird.</td></tr>
 </table>
 
-Anhang II*[^t-2]*
+Anhang II[^t-2]
 
 ## Kategorien ortsfester Quellen
 
@@ -420,7 +435,7 @@ Die im Folgenden angegebenen Schwellenwerte beziehen sich im Allgemeinen auf Pro
 <tr><td>11</td><td>Anlagen zur Verbrennung von Siedlungsabfällen mit einer Kapazität über 3 Tonnen je Stunde oder zur kombinierten Verbrennung von Siedlungs- abfällen gemäss Festlegung in einzelstaatlichen Rechtsvorschriften.</td></tr>
 </table>
 
-Anhang III*[^t-3]*
+Anhang III[^t-3]
 
 ## Beste verfügbare Techniken zur Begrenzung der Emissionen von Schwermetallen und ihren Verbindungen aus den in Anhang II aufgeführten Kategorien von Quellen
 
@@ -453,7 +468,7 @@ Das Konzept der BVT zielt nicht darauf ab, eine bestimmte Technik oder Technolog
 
 \4. Die Erfahrungen mit neuen Produkten und neuen Anlagen, die mit emissionsarmen Techniken arbeiten, sowie mit der Nachrüstung vorhandener Anlagen wachsen ständig; dies kann eine Aktualisierung des in Absatz 1 genannten Leitfadens erforderlich machen.
 
-Anhang IV*[^t-4]*
+Anhang IV[^t-4]
 
 ## Fristen bis zur Anwendung von Grenzwerten und besten verfügbaren Techniken für neue und bestehende ortsfeste Quellen
 
@@ -468,7 +483,7 @@ Anhang IV*[^t-4]*
 
 \3. Fasst eine Vertragspartei in Bezug auf eine bestimmte Kategorie ortsfester Quellen einen Beschluss gemäss Artikel 3<sup>bis</sup> des vorliegenden Protokolls, so kann sie nicht zugleich eine Erklärung nach dem für dieselbe Quellenkategorie geltenden Absatz 2 abgeben.
 
-Anhang V*[^t-5]*
+Anhang V[^t-5]
 
 ## Grenzwerte für die Begrenzung von Emissionen aus grösseren ortsfesten Quellen
 
@@ -493,7 +508,7 @@ Anhang V*[^t-5]*
 
 \7. Die Überwachung der relevanten Schadstoffe und die Messungen von Prozessparametern sowie die Qualitätssicherung von automatisierten Messsystemen und die Referenzmessungen zur Kalibrierung dieser Systeme erfolgen nach den CEN-Normen. Stehen CEN-Normen nicht zur Verfügung, so werden ISO-Normen, nationale Normen oder andere internationale Normen zugrunde gelegt, die gewährleisten, dass Daten von gleichwertiger wissenschaftlicher Qualität erhoben werden.
 
-Feuerungsanlagen (Kessel und Prozessfeuerungen) mit einer berechneten Feuerungswärmeleistung von über 50 MWth**[^annexV-lvlu1-lvlA-1]** (Anhang II Kategorie 1)
+Feuerungsanlagen (Kessel und Prozessfeuerungen) mit einer berechneten Feuerungswärmeleistung von über 50 MWth[^annexV-lvlu1-lvlA-1] (Anhang II Kategorie 1)
 
 \8. Grenzwerte für Staubmissionen aus der Verbrennung anderer fester und flüssiger Brennstoffe als Biomasse und Torf:[^annexV-lvlu1-lvlA-2]
 
@@ -668,7 +683,7 @@ Tabelle 8
 - jj) Quecksilberzell-Chloralkalianlagen – 40 C.F.R. Teil 63, Unterabschnitt IIIII;
 - kk) Leistungsnormen für gewerbliche und industrielle Einheiten zur Verbrennung fester Abfälle, mit deren Bau nach dem 30. November 1999 bzw. mit deren Umbau oder Neubau am oder nach dem 1. Juni 2001 begonnen wurde – 40 C.F.R. Teil 60, Unterabschnitt CCCC.»
 
-Anhang VI*[^t-6]*
+Anhang VI[^t-6]
 
 ## Produktkontrollmassnahmen
 
@@ -713,7 +728,7 @@ Anhang VII
 - f) quecksilberhaltige Farben (Massnahmen sind unter anderem Verbote für alle derartigen Farben, Verbote für die Verwendung derartiger Farben im Innenbereich und für Kinderspielzeug sowie Verbote für die Verwendung in Antifouling); und
 - g) quecksilberhaltige ausser den in Anhang VI aufgeführten Batterien (Massnahmen sind unter anderem die Verringerung des Quecksilbergehalts durch freiwillige und ordnungspolitische Programme sowie Umweltabgaben und freiwillige Recyclingprogramme).
 
-Geltungsbereich am 10. Mai 2017**[^t-7]**
+Geltungsbereich am 4. Oktober 2024[^t-7]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -725,6 +740,7 @@ Geltungsbereich am 10. Mai 2017**[^t-7]**
 <tr><td>Europäische Union</td><td>3. Mai</td><td>2001</td><td>29. Dezember</td><td>2003</td></tr>
 <tr><td>Finnland\*</td><td>20. Juni</td><td>2000</td><td>29. Dezember</td><td>2003</td></tr>
 <tr><td>Frankreich</td><td>26. Juli</td><td>2002</td><td>29. Dezember</td><td>2003</td></tr>
+<tr><td>Irland</td><td>9. März</td><td>2021</td><td>7. Juni</td><td>2021</td></tr>
 <tr><td>Kanada\*</td><td>18. Dezember</td><td>1998</td><td>29. Dezember</td><td>2003</td></tr>
 <tr><td>Kroatien</td><td>6. September</td><td>2007</td><td>5. Dezember</td><td>2007</td></tr>
 <tr><td>Lettland</td><td>9. Juni</td><td>2005</td><td>7. September</td><td>2005</td></tr>
@@ -752,13 +768,13 @@ Geltungsbereich am 10. Mai 2017**[^t-7]**
 <tr><td>Vereinigtes Königreich</td><td>6. Juli</td><td>2005</td><td>4. Oktober</td><td>2005</td></tr>
 <tr><td>Zypern</td><td>2. September</td><td>2004</td><td>1. Dezember</td><td>2004</td></tr>
 <tr><td colspan="5">\* Vorbehalte und Erklärungen.</td></tr>
-<tr><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Organisation der Vereinten Nationen (UNO): [http://treaties.un.org](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Für das Königreich in Europa.</td></tr>
 </table>
 
 ## Erklärung
 
-[^t-7]: [AS 2004 1191](https://fedlex.data.admin.ch/eli/oc/2004/141); [2005 4791](https://fedlex.data.admin.ch/eli/oc/2005/644); [2010 3501](https://fedlex.data.admin.ch/eli/oc/2010/493); [2013 717](https://fedlex.data.admin.ch/eli/oc/2013/141); [2017 3231](https://fedlex.data.admin.ch/eli/oc/2017/326)und [2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.fedlex.admin.ch/de/treaty).
+[^t-7]: [AS 2004 1191](https://fedlex.data.admin.ch/eli/oc/2004/141); [2005 4791](https://fedlex.data.admin.ch/eli/oc/2005/644); [2010 3501](https://fedlex.data.admin.ch/eli/oc/2010/493); [2013 717](https://fedlex.data.admin.ch/eli/oc/2013/141); [2017 3231](https://fedlex.data.admin.ch/eli/oc/2017/326); [2021 876](https://fedlex.data.admin.ch/eli/oc/2021/876); [2024 546](https://fedlex.data.admin.ch/eli/oc/2024/546). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 ### Schweiz
 
