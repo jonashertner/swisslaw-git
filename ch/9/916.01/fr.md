@@ -4,11 +4,11 @@ title: "Ordonnance du 26 octobre 2011 sur l'importation de produits agricoles (O
 short: OIAgr
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/770"
 language: fr
-version: 2024-10-01
+version: 2024-10-04
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20241001/fr/xml/fedlex-data-admin-ch-eli-cc-2011-770-20241001-fr-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20241001/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20241004/fr/xml/fedlex-data-admin-ch-eli-cc-2011-770-20241004-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20241004/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20241001/fr"
 
 (Ordonnance sur les importations agricoles, OIAgr)
 
-du 26 octobre 2011 (État le 1<sup>er</sup> octobre 2024)
+du 26 octobre 2011 (État le 4 octobre 2024)
 
 Le Conseil fédéral suisse,
 
@@ -3076,7 +3076,7 @@ Annexe 4[^t-4]
 
 ## Libération du contingent tarifaire de céréales panifiables
 
-[^t-4]: Nouvelle teneur selon le ch. I de l’O de l’OFAG du 27 nov. 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 728](https://fedlex.data.admin.ch/eli/oc/2023/728)).
+[^t-4]: Nouvelle teneur selon le ch. I de l’O de l’OFAG du 23 sept. 2024, en vigueur depuis le 4 oct. 2024 ([RO 2024 516](https://fedlex.data.admin.ch/eli/oc/2024/516)).
 
 <table>
 <tr><th>Partie de contingent tarifaire</th><th>Périodes réservées à l’importation au TC</th></tr>
@@ -3085,7 +3085,7 @@ Annexe 4[^t-4]
 <tr><td>10 000 t brut</td><td>5 mars – 31 décembre</td></tr>
 <tr><td>10 000 t brut</td><td>7 mai – 31 décembre</td></tr>
 <tr><td>15 000 t brut</td><td>3 septembre – 31 décembre</td></tr>
-<tr><td>15 000 t brut</td><td>5 novembre – 31 décembre</td></tr>
+<tr><td>15 000 t brut</td><td>4 octobre – 31 décembre</td></tr>
 </table>
 
 Annexe 5[^t-5]

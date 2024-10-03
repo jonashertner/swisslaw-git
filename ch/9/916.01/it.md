@@ -4,11 +4,11 @@ title: "Ordinanza del 26 ottobre 2011 concernente l'importazione di prodotti agr
 short: OIAgr
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/770"
 language: it
-version: 2024-10-01
+version: 2024-10-04
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20241001/it/xml/fedlex-data-admin-ch-eli-cc-2011-770-20241001-it-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20241001/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20241004/it/xml/fedlex-data-admin-ch-eli-cc-2011-770-20241004-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20241004/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20241001/it"
 
 (Ordinanza sulle importazioni agricole, OIAgr)
 
-del 26 ottobre 2011 (Stato 1° ottobre 2024)
+del 26 ottobre 2011 (Stato 4 ottobre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -3093,7 +3093,7 @@ Allegato 4[^t-4]
 
 ## Liberazione del contingente doganale dei cereali panificabili
 
-[^t-4]: Nuovo testo giusta il n. I dell’O dell’UFAG del 27 nov. 2023, in vigore dal 1° gen. 2024 ([RU 2023 728](https://fedlex.data.admin.ch/eli/oc/2023/728)).
+[^t-4]: Nuovo testo giusta il n. I dell’O dell’UFAG del 23 set. 2024, in vigore dal 4 ott. 2024 ([RU 2024 516](https://fedlex.data.admin.ch/eli/oc/2024/516)).
 
 <table>
 <tr><th>Quantitativo parziale del contingente doganale</th><th>Periodo per l’importazione all’aliquota di dazio del contingente</th></tr>
@@ -3102,7 +3102,7 @@ Allegato 4[^t-4]
 <tr><td>10 000 t lorde</td><td>5 marzo – 31 dicembre</td></tr>
 <tr><td>10 000 t lorde</td><td>7 maggio – 31 dicembre</td></tr>
 <tr><td>15 000 t lorde</td><td>3 settembre – 31 dicembre</td></tr>
-<tr><td>15 000 t lorde</td><td>5 novembre – 31 dicembre</td></tr>
+<tr><td>15 000 t lorde</td><td>4 ottobre – 31 dicembre</td></tr>
 </table>
 
 Allegato 5[^t-5]

@@ -4,11 +4,11 @@ title: "Verordnung vom 26. Oktober 2011 über die Einfuhr von landwirtschaftlich
 short: AEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2011/770"
 language: de
-version: 2024-10-01
+version: 2024-10-04
 adopted: 2011-10-26
 in_force: 2012-01-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20241001/de/xml/fedlex-data-admin-ch-eli-cc-2011-770-20241001-de-xml-1.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20241001/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2011/770/20241004/de/xml/fedlex-data-admin-ch-eli-cc-2011-770-20241004-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20241004/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2011/770/20241001/de"
 
 (Agrareinfuhrverordnung, AEV)
 
-vom 26. Oktober 2011 (Stand am 1. Oktober 2024)
+vom 26. Oktober 2011 (Stand am 4. Oktober 2024)
 
 Der Schweizerische Bundesrat,
 
@@ -3076,7 +3076,7 @@ Anhang 4[^t-4]
 
 ## Freigabe des Zollkontingents Brotgetreide
 
-[^t-4]: Fassung gemäss Ziff. I der V des BLW vom 27. Nov. 2023, in Kraft seit 1. Jan. 2024 ([AS 2023 728](https://fedlex.data.admin.ch/eli/oc/2023/728)).
+[^t-4]: Fassung gemäss Ziff. I der V des BLW vom 23. Sept. 2024, in Kraft seit 4. Okt. 2024 ([AS 2024 516](https://fedlex.data.admin.ch/eli/oc/2024/516)).
 
 <table>
 <tr><th>Zollkontingentsteilmenge</th><th>Periode für die Einfuhr zum KZA</th></tr>
@@ -3085,7 +3085,7 @@ Anhang 4[^t-4]
 <tr><td>10 000 t brutto</td><td>5. März – 31. Dezember</td></tr>
 <tr><td>10 000 t brutto</td><td>7. Mai – 31. Dezember</td></tr>
 <tr><td>15 000 t brutto</td><td>3. September – 31. Dezember</td></tr>
-<tr><td>15 000 t brutto</td><td>5. November – 31. Dezember</td></tr>
+<tr><td>15 000 t brutto</td><td>4. Oktober – 31. Dezember</td></tr>
 </table>
 
 Anhang 5[^t-5]
