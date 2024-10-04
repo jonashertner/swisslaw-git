@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revisione dell’ordinanza sull’approvvigionamento elettrico (costo del capitale investito nella rete elettrica e negli impianti per la produzione di energia elettrica da fonti rinnovabili beneficiari di contributi di promozione)
 document: Progetto posto in consultazione
 language: it

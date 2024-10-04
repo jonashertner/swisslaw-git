@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revision der Stromversorgungsverordnung (Verzinsung des Kapitals im Stromnetz und in geförderten Anlagen zur Stromerzeugung aus erneuerbaren Energien)
 document: Vernehmlassungsvorlage
 language: de

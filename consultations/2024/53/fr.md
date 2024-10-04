@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision de l’ordonnance sur l’approvisionnement en électricité (rémunération du capital investi dans le réseau électrique et les installations bénéficiant d’un encouragement pour la production d’électricité issue d’énergies renouvelables)
 document: Projet mis en consultation
 language: fr
