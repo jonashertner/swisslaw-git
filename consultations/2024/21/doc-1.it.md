@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modifica della legge sulla formazione professionale (LFPr) e della relativa ordinanza (OFPr). Pacchetto di misure per rafforzare la formazione professionale superiore
 document: Progetto posto in consultazione
 language: it

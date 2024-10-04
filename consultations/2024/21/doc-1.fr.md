@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de la loi fédérale sur la formation professionnelle (LFPr) et de l’ordonnance sur la formation professionnelle (OFPr). Mesures visant à renforcer la formation professionnelle
 document: Projet mis en consultation
 language: fr

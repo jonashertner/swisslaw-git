@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Änderung des Berufsbildungsgesetzes (BBG) sowie der Berufsbildungsverordnung (BBV). Massnahmenpaket zur Stärkung der höheren Berufsbildung
 document: Vernehmlassungsvorlage-2
 language: de
