@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Revision der Asylverordnung 2 über Finanzierungsfragen (AsylV 2)
 document: Vernehmlassungsvorlage
 language: de

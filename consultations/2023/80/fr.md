@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Révision de l’ordonnance 2 sur l’asile relative au financement (OA 2)
 document: Projet mis en consultation
 language: fr
