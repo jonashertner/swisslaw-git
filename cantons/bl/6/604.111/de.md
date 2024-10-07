@@ -1,168 +1,230 @@
 ---
 canton: BL
 number: "604.111"
-title: Bibliotheksordnung der Kantonsbibliothek Baselland
+title: Tarifordnung für die Kantonsbibliothek Baselland
 language: de
-version: 2012-07-01
-valid_until: 2024-10-07
-version_adopted: 2012-06-07
+version: 2024-10-08
+version_adopted: 2024-10-01
 adopted: 2024-10-01
 in_force: 2024-10-08
 url: "https://bl.clex.ch/app/de/texts_of_law/604.111"
-pdf: "https://bl.clex.ch/api/de/versions/807/pdf_file"
+pdf: "https://bl.clex.ch/api/de/versions/3970/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons BL. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
-# Bibliotheksordnung der Kantonsbibliothek Baselland
+# Tarifordnung für die Kantonsbibliothek Baselland
 
-Vom 07.06.2012 (Stand 01.07.2012)
+Vom 01.10.2024 (Stand 08.10.2024)
 
-Die Bildungs-, Kultur- und Sportdirektion, gestützt auf § 8 Absatz 2 der Dienstordnung des Amtes für Kultur vom 1. September 2004[^ingress-1], beschliesst:
+Die Bildungs-, Kultur- und Sportdirektion des Kantons Basel-Landschaft,
 
-[^ingress-1]: GS 33.49, SGS 146.71
+gestützt auf § 21 der Verordnung über die Kulturförderung vom 20. Dezember 2016[^ingress-1],
+
+beschliesst:
+
+[^ingress-1]: [SGS 600.11](https://bl.clex.ch/data/600.11/de/art21)
+
+## 1 Allgemeines
 
 #### § 1
 
-**Nutzung**
+**Gegenstand**
 
-<sup>1</sup> Die Kantonsbibliothek steht natürlichen und juristischen Personen (Kindern, Erwachsenen, Firmen, Institutionen, etc.) zur Nutzung offen.
+<sup>1</sup> Die Tarifordnung regelt die grundsätzlichen Bedingungen für die Nutzung des Angebots der Kantonsbibliothek.
 
-<sup>2</sup> Die Nutzung der Kantonsbibliothek ist für Personen über 20 Jahre sowie Firmen gebührenpflichtig.
+<sup>2</sup> Die Geschäftsleitung der Kantonsbibliothek erlässt ausführende Nutzungsbedingungen.
 
 #### § 2
 
-**Bibliotheksausweis**
+**Zugangsberechtigung**
 
-<sup>1</sup> Neu eingeschriebenen Personen wird ein Bibliotheksausweis ausgestellt. Er verliert seine Gültigkeit, wenn während 3 Jahren keine Ausleihe mehr getätigt wird. Beim Einschreiben ist dem Bibliothekspersonal ein amtlicher Ausweis vorzulegen.
-
-<sup>2</sup> Bei Personen ohne festen Wohnsitz in der Region sowie in Sonderfällen kann die Kantonsbibliothek ein Depot verlangen.
-
-<sup>3</sup> Der Bibliotheksausweis ist persönlich. Der Inhaber oder die Inhaberin haftet für die damit getätigten Ausleihen sowie für die damit verursachten Gebühren.
-
-<sup>4</sup> Adressänderungen sowie der Verlust des Bibliotheksausweises sind der Kantonsbibliothek umgehend zu melden.
+<sup>1</sup> Die Kantonsbibliothek ist öffentlich und allen zugänglich.
 
 #### § 3
 
-**Ausleihen**
+**Öffnungszeiten**
 
-<sup>1</sup> Medien können nur von eingeschriebenen Personen mit gültigem Bibliotheksausweis ausgeliehen werden.
+<sup>1</sup> Die Öffnungszeiten werden in den Nutzungsbedingungen festgelegt. Dabei kann auch der Zutritt ausserhalb der bedienten Zeiten vorgesehen sein («Open Library»).
 
-<sup>2</sup> Kinder und Jugendliche können nur Medien mit entsprechender Altersfreigabe ausleihen.
-
-<sup>3</sup> Die Ausleihfristen betragen in der Regel 4 Wochen. Spezielle Ausleihfristen gelten für:
-
-- a. Videos/DVDs, Zeitschriften, digitale Angebote (e-kbl): 2 Wochen
-- b. Sprachkurse, Medien aus dem Magazin: 8 Wochen
-
-<sup>4</sup> Pro Medienart und Altersgruppe können in der Regel 7 Bücher sowie 5 Nonbooks ausgeliehen werden. Eine Beschränkung auf zwei Ausleihen gelten für Konsolenspiele, Sprachkurse und Grosselternkoffer. Höhere Ausleihmengen gelten für Firmen, Institutionen sowie Wissenschaftlerinnen und Wissenschaftler.
-
-<sup>5</sup> Nicht vorgemerkte Medien können bis 10 Tage nach Ablauf der Leihfrist einmal verlängert werden. Nicht verlängerbar sind die Leihfristen von Zeitschriften, Spielfilmen (Video/DVD) und digitalen Medien (e-kbl).
-
-<sup>6</sup> Ausgeliehene Medien - mit Ausnahme von Zeitschriften - können vorgemerkt werden.
-
-<sup>7</sup> Für ältere oder wertvolle Werke sowie für die BL-Medien bestehen Nutzungseinschränkungen.
+## 2 Nutzung des Ausleihangebots
 
 #### § 4
 
-**Postversand**
+**Mitgliedschaft, Einschreibung**
 
-<sup>1</sup> Eingeschriebene Personen mit gültigem Bibliotheksausweis und Wohnsitz in der Schweiz können sich gegen Gebühr Medien nach Hause schicken lassen.
+<sup>1</sup> Die Nutzung des Angebots der Kantonsbibliothek setzt eine Mitgliedschaft voraus.
 
-<sup>2</sup> Für den Versand werden pro Medium 10 Fr. Verpackungs- und Portokosten verrechnet.
+<sup>2</sup> Die Mitgliedschaft wird durch eine Einschreibung und die Bezahlung der Abonnementsgebühren gemäss § 5 Abs. 1 begründet. Sie wird grundsätzlich jährlich nach der Begleichung der Abonnementsgebühren erneuert.
+
+<sup>3</sup> Einschreiben kann sich jede natürliche und juristische Person.
+
+<sup>4</sup> Kinder und Jugendliche bis zum vollendeten 15. Altersjahr benötigen für die Einschreibung die Einwilligung eines Elternteils bzw. der gesetzlichen Vertretung.
+
+<sup>5</sup> Beim Einschreiben ist dem Bibliothekspersonal ein amtlicher Ausweis vorzulegen.
+
+<sup>6</sup> Die Mitgliedschaft ist persönlich und nicht übertragbar. Die Inhaberin oder der Inhaber haftet für die damit getätigten Ausleihen sowie für die damit verursachten Gebühren.
 
 #### § 5
 
-**Rücksendung**
+**Mitgliedschaftsarten und Gebühren**
 
-<sup>1</sup> Bücher und Medien können gut verpackt per Post zurückgeschickt werden.
+<sup>1</sup> Es können folgende Mitgliedschaftsarten mit folgenden Gebühren vorgesehen werden:
+
+- a. Standard-Abonnement ab dem 25. Altersjahr sowie juristische Personen: — pro Jahr CHF 55.–;
+- b. Standard-Abonnement vom 20. bis zum vollendeten 24. Altersjahr: — pro Jahr CHF 35.–;
+- c. Standard-Abonnement bis zum 20. Altersjahr: — kostenlos;
+- d. Schnupper-Abonnement: — für 4 Monate CHF 15.–;
+- e. Gold-Abonnement (Gönnerinnen und Gönner): — pro Jahr CHF 150.–;
+- f. Aubora-Abonnement: — pro Jahr CHF 40.–;
+- g. Aubora-Schnupper-Abonnement: — für 1 Monat kostenlos;
+- h. Open Library: — pro Jahr CHF 15.–;
+- i. Einzelausleihe: — pro Medium CHF 5.–.
+
+<sup>2</sup> Die Details zu den einzelnen Mitgliedschaften werden in den Nutzungsbedingungen geregelt.
+
+<sup>3</sup> Die Leitung der Kantonsbibliothek kann in den Nutzungsbedingungen auch reduzierte Preise vorsehen.
+
+<sup>4</sup> Es werden folgende weiteren Gebühren erhoben:
+
+- a. Ausstellen eines Bibliotheksausweises: — CHF 5.–;
+- b. Ausstellen eines Ersatzausweises: — CHF 5.–;
+- c. Reservation eines Mediums: — CHF 1.–;
+- d. Anschaffungswunsch: — CHF 1.–;
+- e. Express-Magazinbestellung: — CHF 1.–;
+- f. Fernleihe Inland: Bücher: — pro Medium CHF 12.–;
+- g. Fotokopien: — pro 20 Seiten CHF 8.–;
+- h. Kopien resp. Printouts A4/A3: — pro Kopie CHF –.20/–.30.
+
+<sup>5</sup> Es werden folgende Mahngebühren erhoben:
+
+- a. Erinnerung vor Ablauf der Leihfrist: — unentgeltlich;
+- b. 1. Mahnung: — pro Medium CHF 1.–;
+- c. 2. Mahnung: — pro Medium CHF 5.–;
+- d. 3. Mahnung per Einschreiben: — pro Medium CHF 10.–.
+
+<sup>6</sup> Für Ersatzbeschaffungen von Medien und Gegenständen wird neben dem Kaufpreis eine Bearbeitungsgebühr von CHF 10.– erhoben. Eine Ersatzbeschaffung durch die Benutzerin oder den Benutzer selber ist nicht möglich.
 
 #### § 6
 
-**Internetnutzung**
+**Ausleihen**
 
-<sup>1</sup> Die Internetstationen können von eingeschriebenen Personen mit gültigem Bibliotheksausweis benutzt werden.
+<sup>1</sup> Art und Anzahl der ausleihbaren Medien richten sich nach dem jeweils gelösten Abonnement und werden in den Nutzungsbedingungen geregelt.
 
-<sup>2</sup> Der Bibliotheksausweis muss dem Bibliothekspersonal auf Wunsch vorgelegt werden.
+<sup>2</sup> Kinder und Jugendliche können nur Medien mit entsprechender Altersfreigabe ausleihen.
 
 #### § 7
 
-**Gebühren/Kostenpflichtige Dienstleistungen**
+**Leihfristen, Verlängerungen, Nutzungseinschränkungen**
 
-<sup>1</sup> Es gelten:
+<sup>1</sup> Die Leihfristen werden in den Nutzungsbedingungen geregelt.
 
-- a. Jahresgebühr (ab 25. Altersjahr / Firmen): 50 Fr. pro Jahr
-- b. Jahresgebühr (20. - 24. Altersjahr): 35 Fr. pro Jahr
-- c. Schnupperabonnement für 4 Monate: 10 Fr.
-- d. Bibliotheksausweis: 5 Fr.
-- e. Ersatzausweis: 5 Fr.
-- f. 1. Mahnung: 1 Fr. pro Medium\*
-- g. 2. Mahnung: 5 Fr. pro Medium\*
-- h. 3. Mahnung (eingeschrieben): 10 Fr. pro Medium\*
-- i. Vormerkung: 1 Fr. pro Medium
-- j. Anschaffungswunsch: 1 Fr. pro Medium
-- k. Magazinbestellung express: 1 Fr. pro Medium
-- l. Fernleihe Inland : Bücher: 10 Fr. pro Medium
-- m. Fotokopien: 8 Fr. pro 20 Seiten
-- n. Postversand: 10 Fr. pro Medium
-- o. Rechnungsstellung: 20 Fr. pro Rechnung
-- p. Kopien resp. Printouts A4/A3: -.20/-.30 Fr. pro Kopie
+<sup>2</sup> Nicht reservierte Medien können vor Ablauf der Leihfrist 3-mal verlängert werden.
+
+<sup>3</sup> Für ältere oder wertvolle Werke sowie für Medien aus der kantonalen Sammlung bestehen Nutzungseinschränkungen.
 
 #### § 8
 
-**Beschädigung/Verlust**
+**Mahnungen**
 
-<sup>1</sup> Die ausgeliehenen Bücher und Medien sind sorgfältig zu behandeln.
+<sup>1</sup> Die ausgeliehenen Medien sind bis spätestens zum Ablauf der jeweiligen Ausleihfrist zurückzugeben.
 
-<sup>2</sup> Bei Beschädigung oder Verlust werden neben den Kosten für Reparatur oder Ersatz auch Bearbeitungskosten verrechnet.
+<sup>2</sup> Bei Überschreitung der Ausleihfrist ergeht eine Mahnung, und es ist eine Gebühr gemäss § 5 Abs. 5 geschuldet. Dies gilt unabhängig vom Erhalt der Mahnung.
 
-<sup>3</sup> Bücher und Medien, die zwei Wochen nach der 3. Mahnung nicht zurückgebracht werden, gelten als Verlust im Sinne von Absatz 2.
+<sup>3</sup> Es werden maximal 3 Mahnungen mit entsprechenden Fristen ausgesprochen. Die Mahnfristen werden in den Nutzungsbedingungen geregelt.
+
+<sup>4</sup> Werden die Medien nicht spätestens innert der 3. Mahnfrist zurückgegeben, gelten sie als verloren. Die Benutzerin oder der Benutzer schuldet der Kantonsbibliothek in diesem Fall die Kosten für eine Ersatzbeschaffung sowie Bearbeitungsgebühren gemäss § 5 Abs. 6.
+
+<sup>5</sup> Die Rückgabe des Mediums hebt die Zahlungspflicht gemäss Abs. 4 nicht auf.
 
 #### § 9
 
-**Nutzung der öffentlichen Bibliotheksräume**
+**Sorgfaltspflicht**
 
-<sup>1</sup> Essen, Trinken sowie Rauchen sind auf der Leseterrasse, nicht aber in den öffentlichen Räumen der Bibliothek gestattet.
+<sup>1</sup> Die ausgeliehenen Medien sind sorgfältig zu behandeln.
 
-<sup>2</sup> Sportgeräte, Rollschuhe, usw. sind in der Garderobe abzustellen sowie Mappen, Rucksäcke, Taschen, usw. in den Schliessfächern zu deponieren.
-
-<sup>3</sup> Tiere haben keinen Zutritt zu den Bibliotheksräumen.
+<sup>2</sup> Wer Medien ausleiht, ist verpflichtet, sich bei der Ausgabe vom ordnungsgemässen Zustand und der Vollständigkeit der Medien zu überzeugen.
 
 #### § 10
 
-**Vorübergehender Nutzungsausschluss**
+**Umgang mit Personendaten**
 
-<sup>1</sup> Personen, deren Schulden den festgelegten maximalen Betrag übersteigen, können bis zu deren Begleichung keine Ausleihen machen und das Internet nicht benutzen.
+<sup>1</sup> Die Kantonsbibliothek erhebt von den Benutzerinnen und Benutzern folgende Personendaten:
 
-<sup>2</sup> Es gelten die folgenden Maximalbeträge:
+- a. Name und Vorname;
+- b. Geburtsdatum;
+- c. Wohnadresse;
+- d. Telefonnummer;
+- e. E-Mail-Adresse;
+- f. Sprache.
 
-- a. Kinder (bis 9. Altersjahr): 5 Fr.
-- b. Jugendliche (10. - 24. Altersjahr): 10 Fr.
-- c. Erwachsene (ab 25. Alterjahr): 20 Fr.
-- d. Firmen: 50 Fr.
+<sup>2</sup> Zudem werden folgende Informationen erhoben:
+
+- a. Ausleihen (Angaben zu Titel) und Reservierungen;
+- b. pendente Mahnungen, offene Gebühren und erfolgte Zahlungen;
+- c. Bemerkungen und Nachrichten an Benutzerinnen und Benutzer.
+
+<sup>3</sup> Die Daten werden ausschliesslich im Zusammenhang mit der Nutzung der Bibliothek bearbeitet.
+
+<sup>4</sup> Die Daten gemäss Abs. 2 werden wie folgt gelöscht:
+
+- a. Die Ausleihdaten und die Daten zu Reservierungen werden 30 Tage nach der Rückgabe des Mediums gelöscht. Vorbehalten bleibt der Fall, dass sich die Benutzerin oder der Benutzer für die Speicherung der getätigten Ausleihen (Ausleihhistorie) entschieden hat.
+- b. Informationen zu erfolgten Zahlungen werden 5 Jahre nach der Bezahlung gelöscht.
+- c. Bemerkungen und Nachrichten an die Benutzerin oder den Benutzer werden nach der Erledigung des Falls gelöscht.
+
+<sup>5</sup> Die Daten gemäss Abs. 1 werden gelöscht, wenn während 3 Jahren keine Mitgliedschaft mehr besteht. Vorbehalten bleibt der Fall, dass ausgeliehene Medien nicht zurückgegeben worden sind oder Gebührenzahlungen ausstehend sind.
+
+## 3 Weiteres
 
 #### § 11
 
-**Nutzungsausschluss / Hausverbot**
+**Internetznutzung**
 
-<sup>1</sup> Wer wiederholt gegen diese Bibliotheksordnung verstösst oder das Internet missbräuchlich nutzt, kann von der Kantonsbibliothek zeitweise oder ganz von der Bibliotheks- resp. der Internetnutzung ausgeschlossen werden.
+<sup>1</sup> Die Kantonsbibliothek stellt in ihren Räumlichkeiten einen kostenlosen Internetzugang zur Verfügung.
 
-<sup>2</sup> Wer sich in den Räumlichkeiten der Bibliothek ungebührlich aufführt, kann von der Kantonsbibliothek weg gewiesen oder mit einem Hausverbot belegt werden.
+<sup>2</sup> Es ist untersagt, das Internet für strafbare Handlungen zu nutzen.
 
 #### § 12
+
+**Nutzung der öffentlichen Bibliotheksräume**
+
+<sup>1</sup> Die Nutzung der öffentlichen Bibliotheksräume, insbesondere hinsichtlich Essen, Trinken und Rauchen, wird in den Nutzungsbedingungen geregelt.
+
+<sup>2</sup> Tiere haben keinen Zutritt zu den Bibliotheksräumen. Ausgenommen sind Assistenzhunde.
+
+#### § 13
+
+**Nutzungsausschluss und Hausverbot**
+
+<sup>1</sup> Personen, deren Schulden für Gebühren und Ersatzanschaffungen den nachfolgend festgelegten maximalen Betrag übersteigen, können bis zu deren Begleichung keine Ausleihen machen:
+
+- a. Kinder und Jugendliche bis zum vollendeten 15. Altersjahr: — CHF 5.–;
+- b. Jugendliche und junge Erwachsene vom 16. bis zum vollendeten 24. Altersjahr: — CHF 10.–;
+- c. Erwachsene ab dem 25. Altersjahr: — CHF 20.–;
+- d. juristische Personen: — CHF 50.–.
+
+<sup>2</sup> Nach einer erfolglosen 3. Mahnung ist die Benutzerin oder der Benutzer unabhängig von der Höhe der ausstehenden Forderungen bis zur Begleichung sämtlicher Ausstände von der weiteren Bibliotheksnutzung ausgeschlossen.
+
+<sup>3</sup> Die Leitung der Kantonsbibliothek kann zudem Personen, die wiederholt gegen die Tarifordnung und die Nutzungsbedingungen verstossen oder das Internet missbräuchlich nutzen, vorübergehend oder dauerhaft von der Bibliotheksnutzung (inkl. Internet) ausschliessen. Dasselbe gilt bei einem Diebstahl oder einer Sachbeschädigung an Bibliotheksbeständen und -einrichtungen.
+
+<sup>4</sup> Wer sich in den Räumlichkeiten der Bibliothek ungebührlich verhält, kann von den Mitarbeitenden der Kantonsbibliothek weggewiesen werden. Die Geschäftsleitung der Kantonsbibliothek kann zusätzlich ein Hausverbot aussprechen.
+
+#### § 14
+
+**Veranstaltungen**
+
+<sup>1</sup> Die Leitung der Kantonsbibliothek bestimmt fallweise und aufwandsbezogen die Tarife für Publikumsveranstaltungen und weitere bibliothekspädagogische Angebote.
+
+#### § 15
 
 **Haftungsausschluss**
 
 <sup>1</sup> Die Kantonsbibliothek lehnt jede Haftung für Schäden ab, die durch die Nutzung von Bibliotheksmedien an benutzereigenen Abspielgeräten oder Computern entstanden sein könnten.
 
-#### § 13
+#### § 16
 
-**Schlussbestimmungen**
+**Übergangsbestimmungen**
 
-<sup>1</sup> Die Benutzungsordnung vom 8. Mai 2005[^13-1] der Kantonsbibliothek Baselland wird aufgehoben.
+<sup>1</sup> Die Ansätze für die Gebühren gemäss § 5 Abs. 1 Bst. a und d gelten ab dem 1. Januar 2025. Bis dahin gelten für die betreffenden Abonnemente die bisherigen Gebührenansätze gemäss der Bibliotheksordnung vom 7. Juni 2012.
 
-<sup>2</sup> Diese Bibliotheksordnung tritt am 1. Juli 2012 in Kraft.
-
-[^13-1]: GS 35.537, SGS 614.111
-
-GS 37.0985
+GS 2024.042
