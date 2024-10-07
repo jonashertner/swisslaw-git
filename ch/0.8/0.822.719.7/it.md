@@ -3,16 +3,18 @@ sr: "0.822.719.7"
 title: Convenzione n. 87 del 9 luglio 1948 concernente la libertà sindacale e la protezione del diritto sindacale
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/689_689_689"
 language: it
-version: 2018-08-07
+version: 2024-10-08
 adopted: 1948-07-09
 in_force: 1976-03-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/689_689_689/20180807/it/xml/fedlex-data-admin-ch-eli-cc-1976-689_689_689-20180807-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/689_689_689/20180807/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/689_689_689/20241008/it/xml/fedlex-data-admin-ch-eli-cc-1976-689_689_689-20241008-it-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/689_689_689/20241008/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Convenzione n. 87 concernente la libertà sindacale e la protezione del diritto sindacale
+
+RU **1976** 689; FF **1974** I 1537
 
 Traduzione
 
@@ -24,9 +26,9 @@ Ratificata dalla Svizzera con strumento depositato il 25 marzo 1975
 
 Entrata in vigore per la Svizzera il 25 marzo 1976
 
-(Stato 7 agosto 2018)
+(Stato 8 ottobre 2024)
 
-[^t-1]: RU **1976** 689; FF **1974** I 1537 Art. 1 cpv. 1 lett. a del DF del 26 nov. 1974 (RU **1976** 687).
+[^t-1]: Art. 1 cpv. 1 lett. a del DF del 26 nov. 1974 ([RU 1976 687](https://fedlex.data.admin.ch/eli/oc/1976/687_687_687)).
 
 La Conferenza internazionale dell’Organizzazione internazionale del Lavoro,
 
@@ -191,10 +193,10 @@ Le versioni francese e inglese del testo della presente convenzione fanno parime
 
 *(Seguono le firme)*
 
-Campo d’applicazione il 7 agosto 2018**[^t-2]**
+Campo d’applicazione l’8 ottobre 2024, complemento[^t-2]
 
 <table>
-<tr><th>Stati partecipanti</th><th>Ratifica Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Albania</td><td>3 giugno</td><td>1957</td><td>3 giugno</td><td>1958</td></tr>
 <tr><td>Algeria</td><td>19 ottobre</td><td>1962 S</td><td>19 ottobre</td><td>1962</td></tr>
 <tr><td>Angola</td><td>13 giugno</td><td>2001</td><td>13 giugno</td><td>2002</td></tr>
@@ -232,6 +234,7 @@ Campo d’applicazione il 7 agosto 2018**[^t-2]**
 <tr><td>Comore</td><td>23 ottobre</td><td>1978 S</td><td>23 ottobre</td><td>1978</td></tr>
 <tr><td>Congo (Brazzaville)</td><td>10 novembre</td><td>1960 S</td><td>10 novembre</td><td>1960</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>20 giugno</td><td>2001</td><td>20 giugno</td><td>2002</td></tr>
+<tr><td>Corea del Sud</td><td>20 aprile</td><td>2021 A</td><td>20 aprile</td><td>2022</td></tr>
 <tr><td>Costa Rica</td><td>2 giugno</td><td>1960</td><td>2 giugno</td><td>1961</td></tr>
 <tr><td>Côte d'Ivoire</td><td>21 novembre</td><td>1960 S</td><td>21 novembre</td><td>1960</td></tr>
 <tr><td>Croazia</td><td>8 ottobre</td><td>1991 S</td><td>8 ottobre</td><td>1991</td></tr>
@@ -246,6 +249,7 @@ Campo d’applicazione il 7 agosto 2018**[^t-2]**
 <tr><td>El Salvador</td><td>6 settembre</td><td>2006</td><td>6 settembre</td><td>2007</td></tr>
 <tr><td>Eritrea</td><td>22 febbraio</td><td>2000</td><td>22 febbraio</td><td>2001</td></tr>
 <tr><td>Estonia</td><td>22 marzo</td><td>1994</td><td>22 marzo</td><td>1995</td></tr>
+<tr><td>Eswatini</td><td>26 aprile</td><td>1978 S</td><td>26 aprile</td><td>1978</td></tr>
 <tr><td>Etiopia</td><td>4 giugno</td><td>1963</td><td>4 giugno</td><td>1964</td></tr>
 <tr><td>Figi</td><td>17 aprile</td><td>2002</td><td>17 aprile</td><td>2003</td></tr>
 <tr><td>Filippine</td><td>29 dicembre</td><td>1953</td><td>29 dicembre</td><td>1954</td></tr>
@@ -271,6 +275,7 @@ Campo d’applicazione il 7 agosto 2018**[^t-2]**
 <tr><td>Grenada</td><td>25 ottobre</td><td>1994</td><td>25 ottobre</td><td>1995</td></tr>
 <tr><td>Guatemala</td><td>13 febbraio</td><td>1952</td><td>13 febbraio</td><td>1953</td></tr>
 <tr><td>Guinea</td><td>21 gennaio</td><td>1959 S</td><td>21 gennaio</td><td>1959</td></tr>
+<tr><td>Giunea-Bissau</td><td>9 giugno</td><td>2023</td><td>9 giugno</td><td>2024</td></tr>
 <tr><td>Guinea equatoriale</td><td>13 agosto</td><td>2001</td><td>13 agosto</td><td>2002</td></tr>
 <tr><td>Guyana</td><td>25 settembre</td><td>1967</td><td>25 settembre</td><td>1968</td></tr>
 <tr><td>Haiti</td><td>5 giugno</td><td>1979</td><td>5 giugno</td><td>1980</td></tr>
@@ -291,7 +296,7 @@ Campo d’applicazione il 7 agosto 2018**[^t-2]**
 <tr><td>Libia</td><td>4 ottobre</td><td>2000</td><td>4 ottobre</td><td>2001</td></tr>
 <tr><td>Lituania</td><td>26 settembre</td><td>1994</td><td>26 settembre</td><td>1995</td></tr>
 <tr><td>Lussemburgo</td><td>3 marzo</td><td>1958</td><td>3 marzo</td><td>1959</td></tr>
-<tr><td>Macedonia</td><td>17 novembre</td><td>1991 S</td><td>17 novembre</td><td>1991</td></tr>
+<tr><td>Macedonia del Nord</td><td>17 novembre</td><td>1991 S</td><td>17 novembre</td><td>1991</td></tr>
 <tr><td>Madagascar</td><td>1° novembre</td><td>1960 S</td><td>1° novembre</td><td>1960</td></tr>
 <tr><td>Malawi</td><td>19 novembre</td><td>1999</td><td>19 novembre</td><td>2000</td></tr>
 <tr><td>Maldive</td><td>4 gennaio</td><td>2013</td><td>4 gennaio</td><td>2014</td></tr>
@@ -352,10 +357,10 @@ Campo d’applicazione il 7 agosto 2018**[^t-2]**
 <tr><td>Spagna</td><td>20 aprile</td><td>1977</td><td>20 aprile</td><td>1978</td></tr>
 <tr><td>Sri Lanka</td><td>15 settembre</td><td>1995</td><td>15 settembre</td><td>1996</td></tr>
 <tr><td>Sudafrica</td><td>19 febbraio</td><td>1996</td><td>19 febbraio</td><td>1997</td></tr>
+<tr><td>Sudan</td><td>17 marzo</td><td>2021 A</td><td>17 marzo</td><td>2022</td></tr>
 <tr><td>Suriname</td><td>15 giugno</td><td>1976 S</td><td>15 giugno</td><td>1976</td></tr>
 <tr><td>Svezia</td><td>25 novembre</td><td>1949</td><td>25 novembre</td><td>1950</td></tr>
 <tr><td>Svizzera</td><td>25 marzo</td><td>1975</td><td>25 marzo</td><td>1976</td></tr>
-<tr><td>Swaziland</td><td>26 aprile</td><td>1978 S</td><td>26 aprile</td><td>1978</td></tr>
 <tr><td>Tagikistan</td><td>26 novembre</td><td>1993 S</td><td>26 novembre</td><td>1993</td></tr>
 <tr><td>Tanzania</td><td>18 aprile</td><td>2000</td><td>18 aprile</td><td>2001</td></tr>
 <tr><td>Timor-Leste</td><td>16 giugno</td><td>2009</td><td>16 giugno</td><td>2010</td></tr>
@@ -373,9 +378,7 @@ Campo d’applicazione il 7 agosto 2018**[^t-2]**
 <tr><td>Yemen</td><td>29 luglio</td><td>1976</td><td>29 luglio</td><td>1977</td></tr>
 <tr><td>Zambia</td><td>2 settembre</td><td>1996</td><td>2 settembre</td><td>1997</td></tr>
 <tr><td>Zimbabwe</td><td>9 aprile</td><td>2003</td><td>9 aprile</td><td>2004</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni Le riserve e dichiarazioni non sono pubblicate nella RU. I testi francese e inglese possono essere consultati sul sito internet dell’Organizzazione internazionale del lavoro: www.ilo.org/ilolex/french/convdisp1.htm oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
-<tr><td colspan="5"><sup>a</sup> Dal 15 ott. 1963 al 30 giu. 1997, la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 6 giu. 1997, la Convenzione è applicabile anche alla RAS Hong Kong dal 1° lug. 1997.</td></tr>
-<tr><td colspan="5"><sup>b</sup> La ratificazione non si applica nell’Irlanda del nord.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni Le riserve e dichiarazioni non sono pubblicate nella RU. I testi francese e inglese possono essere consultati sul sito internet dell’Organizzazione internazionale del lavoro: www.ilo.org/ilolex/french/convdisp1.htm oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna. <sup>a</sup> Dal 15 ott. 1963 al 30 giu. 1997, la Conv. era applicabile a Hong Kong in base a una dichiarazione d’estensione territoriale del Regno Unito. Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 6 giu. 1997, la Convenzione è applicabile anche alla RAS Hong Kong dal 1° lug. 1997. <sup>b</sup> La ratificazione non si applica nell’Irlanda del nord.</td></tr>
 </table>
 
-[^t-2]: [RU 1976 689](https://fedlex.data.admin.ch/eli/oc/1976/689_689_689), [1982 836](https://fedlex.data.admin.ch/eli/oc/1982/836_836_836), [1985 289](https://fedlex.data.admin.ch/eli/oc/1985/289_289_289), [1992 672](https://fedlex.data.admin.ch/eli/oc/1992/672_672_672), [2005 1747](https://fedlex.data.admin.ch/eli/oc/2005/279), [2008 29](https://fedlex.data.admin.ch/eli/oc/2008/12), [2010 3811](https://fedlex.data.admin.ch/eli/oc/2010/537), [2013 965](https://fedlex.data.admin.ch/eli/oc/2013/201)e [2018 3035](https://fedlex.data.admin.ch/eli/oc/2018/477). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1976 689](https://fedlex.data.admin.ch/eli/oc/1976/689_689_689); [1982 836](https://fedlex.data.admin.ch/eli/oc/1982/836_836_836); [1985 289](https://fedlex.data.admin.ch/eli/oc/1985/289_289_289); [1992 672](https://fedlex.data.admin.ch/eli/oc/1992/672_672_672); [2005 1747](https://fedlex.data.admin.ch/eli/oc/2005/279); [2008 29](https://fedlex.data.admin.ch/eli/oc/2008/12); [2010 3811](https://fedlex.data.admin.ch/eli/oc/2010/537); [2013 965](https://fedlex.data.admin.ch/eli/oc/2013/201); [2018 3035](https://fedlex.data.admin.ch/eli/oc/2018/477); [2024 553](https://fedlex.data.admin.ch/eli/oc/2024/553). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)

@@ -3,24 +3,24 @@ sr: "0.822.719.7"
 title: "Convention n<sup>o</sup> 87 du 9 juillet 1948 concernant la liberté syndicale et la protection du droit syndical"
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/689_689_689"
 language: fr
-version: 2018-08-07
+version: 2024-10-08
 adopted: 1948-07-09
 in_force: 1976-03-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/689_689_689/20180807/fr/xml/fedlex-data-admin-ch-eli-cc-1976-689_689_689-20180807-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/689_689_689/20180807/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/689_689_689/20241008/fr/xml/fedlex-data-admin-ch-eli-cc-1976-689_689_689-20241008-fr-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/689_689_689/20241008/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Convention n<sup>o</sup> 87 concernant la liberté syndicale et la protection du droit syndical
 
-RO **1976** 6899; FF **1974** I 1577
+RO **1976** 689; FF **1974** I 1577
 
 *Texte original*
 
 Conclue à San Francisco le 9 juillet 1948 Approuvée par l’Assemblée fédérale le 26 novembre 1974[^t-1] Instrument de ratification déposé par la Suisse le 25 mars 1975 Entrée en vigueur pour la Suisse le 25 mars 1976
 
-(Etat le 7 août 2018)
+(État le 8 octobre 2024)
 
 [^t-1]: Art. 1 al. 1 let. a de l’AF du 26 nov. 1974 ([RO 1976 687](https://fedlex.data.admin.ch/eli/oc/1976/687_687_687))
 
@@ -170,7 +170,7 @@ Le Directeur général du Bureau international du Travail communiquera au Secré
 
 #### Art. 19
 
-A l’expiration de chaque période de dix années à compter de l’entrée en vigueur de la présente convention, le Conseil d’administration du Bureau international du Travail devra présenter à la Conférence générale un rapport sur l’application de la présente convention et décidera s’il y a lieu d’inscrire à l’ordre du jour de la Conférence la question de sa revision totale ou partielle.
+À l’expiration de chaque période de dix années à compter de l’entrée en vigueur de la présente convention, le Conseil d’administration du Bureau international du Travail devra présenter à la Conférence générale un rapport sur l’application de la présente convention et décidera s’il y a lieu d’inscrire à l’ordre du jour de la Conférence la question de sa revision totale ou partielle.
 
 #### Art. 20
 
@@ -189,10 +189,10 @@ Les versions française et anglaise du texte de la présente convention font ég
 
 *(Suivent les signatures)*
 
-Champ d’application le 7 août 2018**[^t-2]**
+Champ d’application le 8 octobre 2024[^t-2]
 
 <table>
-<tr><th colspan="2">Etats parties</th><th colspan="2">Ratification Déclaration de succession (S)</th><th colspan="2"></th><th>Entrée en vigueur</th><th colspan="3"></th></tr>
+<tr><th colspan="2">États parties</th><th colspan="2">Ratification Adhésion (A) Déclaration de succession (S)</th><th colspan="2"></th><th>Entrée en vigueur</th><th colspan="3"></th></tr>
 <tr><td colspan="2">Afrique du Sud</td><td colspan="2">19 février</td><td colspan="2">1996</td><td>19 février</td><td colspan="3">1997</td></tr>
 <tr><td colspan="2">Albanie</td><td colspan="2">3 juin</td><td colspan="2">1957</td><td>3 juin</td><td colspan="3">1958</td></tr>
 <tr><td colspan="2">Algérie</td><td colspan="2">19 octobre</td><td colspan="2">1962 S</td><td>19 octobre</td><td colspan="3">1962</td></tr>
@@ -202,7 +202,7 @@ Champ d’application le 7 août 2018**[^t-2]**
 <tr><td colspan="2">Argentine</td><td colspan="2">18 janvier</td><td colspan="2">1960</td><td>18 janvier</td><td colspan="3">1961</td></tr>
 <tr><td colspan="2">Arménie</td><td colspan="2">2 janvier</td><td colspan="2">2006</td><td>2 janvier</td><td colspan="3">2007</td></tr>
 <tr><td colspan="2">Australie</td><td colspan="2">28 février</td><td colspan="2">1973</td><td>28 février</td><td colspan="3">1974</td></tr>
-<tr><td colspan="2">Ile Norfolk</td><td colspan="2">15 juin</td><td colspan="2">1973</td><td>28 février</td><td colspan="3">1974</td></tr>
+<tr><td colspan="2">Île Norfolk</td><td colspan="2">15 juin</td><td colspan="2">1973</td><td>28 février</td><td colspan="3">1974</td></tr>
 <tr><td colspan="2">Autriche</td><td colspan="2">18 octobre</td><td colspan="2">1950</td><td>18 octobre</td><td colspan="3">1951</td></tr>
 <tr><td colspan="2">Azerbaïdjan</td><td colspan="2">19 mai</td><td colspan="2">1992 S</td><td>19 mai</td><td colspan="3">1992</td></tr>
 <tr><td colspan="2">Bahamas</td><td colspan="2">14 juin</td><td colspan="2">2001</td><td>14 juin</td><td colspan="3">2002</td></tr>
@@ -230,28 +230,33 @@ Champ d’application le 7 août 2018**[^t-2]**
 <tr><td colspan="2">Comores</td><td colspan="2">23 octobre</td><td colspan="2">1978 S</td><td>23 octobre</td><td colspan="3">1978</td></tr>
 <tr><td colspan="2">Congo (Brazzaville)</td><td colspan="2">10 novembre</td><td colspan="2">1960 S</td><td>10 novembre</td><td colspan="3">1960</td></tr>
 <tr><td colspan="2">Congo (Kinshasa)</td><td colspan="2">20 juin</td><td colspan="2">2001</td><td>20 juin</td><td colspan="3">2002</td></tr>
+<tr><td colspan="2">Corée (Sud)</td><td colspan="2">20 avril</td><td colspan="2">2021 A</td><td>20 avril</td><td colspan="3">2022</td></tr>
 <tr><td colspan="2">Costa Rica</td><td colspan="2">2 juin</td><td colspan="2">1960</td><td>2 juin</td><td colspan="3">1961</td></tr>
 <tr><td colspan="2">Côte d’Ivoire</td><td colspan="2">21 novembre</td><td colspan="2">1960 S</td><td>21 novembre</td><td colspan="3">1960</td></tr>
 <tr><td colspan="2">Croatie</td><td colspan="2">8 octobre</td><td colspan="2">1991 S</td><td>8 octobre</td><td colspan="3">1991</td></tr>
 <tr><td colspan="2">Cuba</td><td colspan="2">25 juin</td><td colspan="2">1952</td><td>25 juin</td><td colspan="3">1953</td></tr>
 <tr><td colspan="2">Danemark</td><td colspan="2">13 juin</td><td colspan="2">1951</td><td>13 juin</td><td colspan="3">1952</td></tr>
 <tr><td colspan="2">Groenland</td><td colspan="2">31 mai</td><td colspan="2">1954</td><td>31 mai</td><td colspan="3">1954</td></tr>
-<tr><td colspan="2">Iles Féroé</td><td colspan="2">28 septembre</td><td colspan="2">1960</td><td>28 septembre</td><td colspan="3">1960</td></tr>
+<tr><td colspan="2">Îles Féroé</td><td colspan="2">28 septembre</td><td colspan="2">1960</td><td>28 septembre</td><td colspan="3">1960</td></tr>
 <tr><td colspan="2">Djibouti</td><td colspan="2">3 août</td><td colspan="2">1978 S</td><td>3 août</td><td colspan="3">1978</td></tr>
 <tr><td colspan="2">Dominique</td><td colspan="2">28 février</td><td colspan="2">1983 S</td><td>28 février</td><td colspan="3">1983</td></tr>
-<tr><td colspan="2">Egypte</td><td colspan="2">6 novembre</td><td colspan="2">1957</td><td>6 novembre</td><td colspan="3">1958</td></tr>
+<tr><td colspan="2">Égypte</td><td colspan="2">6 novembre</td><td colspan="2">1957</td><td>6 novembre</td><td colspan="3">1958</td></tr>
 <tr><td colspan="2">El Salvador</td><td colspan="2">6 septembre</td><td colspan="2">2006</td><td>6 septembre</td><td colspan="3">2007</td></tr>
-<tr><td colspan="2">Equateur</td><td colspan="2">29 mai</td><td colspan="2">1967</td><td>29 mai</td><td colspan="3">1968</td></tr>
-<tr><td colspan="2">Erythrée</td><td colspan="2">22 février</td><td colspan="2">2000</td><td>22 février</td><td colspan="3">2001</td></tr>
+<tr><td colspan="2">Équateur</td><td colspan="2">29 mai</td><td colspan="2">1967</td><td>29 mai</td><td colspan="3">1968</td></tr>
+<tr><td colspan="2">Érythrée</td><td colspan="2">22 février</td><td colspan="2">2000</td><td>22 février</td><td colspan="3">2001</td></tr>
 <tr><td colspan="2">Espagne</td><td colspan="2">20 avril</td><td colspan="2">1977</td><td>20 avril</td><td colspan="3">1978</td></tr>
 <tr><td colspan="2">Estonie</td><td colspan="2">22 mars</td><td colspan="2">1994</td><td>22 mars</td><td colspan="3">1995</td></tr>
-<tr><td colspan="2">Ethiopie</td><td colspan="2">4 juin</td><td colspan="2">1963</td><td>4 juin</td><td colspan="3">1964</td></tr>
+<tr><td colspan="2">Eswatini</td><td colspan="2">26 avril</td><td colspan="2">1978 S</td><td>26 avril</td><td colspan="3">1978</td></tr>
+<tr><td colspan="2">Éthiopie</td><td colspan="2">4 juin</td><td colspan="2">1963</td><td>4 juin</td><td colspan="3">1964</td></tr>
 <tr><td colspan="2">Fidji</td><td colspan="2">17 avril</td><td colspan="2">2002</td><td>17 avril</td><td colspan="3">2003</td></tr>
 <tr><td colspan="2">Finlande</td><td colspan="2">20 janvier</td><td colspan="2">1950</td><td>20 janvier</td><td colspan="3">1951</td></tr>
 <tr><td colspan="2">France</td><td colspan="2">28 juin</td><td colspan="2">1951</td><td>28 juin</td><td colspan="3">1952</td></tr>
 <tr><td colspan="2">Guadeloupe</td><td colspan="2">27 avril</td><td colspan="2">1955</td><td>27 avril</td><td colspan="3">1955</td></tr>
+<tr><td colspan="2">Guyana (française)</td><td colspan="2">27 avril</td><td colspan="2">1955</td><td>27 avril</td><td colspan="3">1955</td></tr>
 <tr><td colspan="2">Martinique</td><td colspan="2">27 avril</td><td colspan="2">1955</td><td>27 avril</td><td colspan="3">1955</td></tr>
+<tr><td colspan="2">Nouvelle-Calédonie</td><td colspan="2">19 mars</td><td colspan="2">1954</td><td>19 mars</td><td colspan="3">1954</td></tr>
 <tr><td colspan="2">Polynésie française</td><td colspan="2">19 mars</td><td colspan="2">1954</td><td>19 mars</td><td colspan="3">1954</td></tr>
+<tr><td colspan="2">Réunion</td><td colspan="2">27 avril</td><td colspan="2">1955</td><td>27 avril</td><td colspan="3">1955</td></tr>
 <tr><td colspan="2">Saint-Pierre-et-Miquelon</td><td colspan="2">19 mars</td><td colspan="2">1954</td><td>19 mars</td><td colspan="3">1954</td></tr>
 <tr><td colspan="2">Terres australes et antarctiques françaises</td><td colspan="2">13 mars</td><td colspan="2">1990</td><td>13 mars</td><td colspan="3">1990</td></tr>
 <tr><td colspan="2">Gabon</td><td colspan="2">14 octobre</td><td colspan="2">1960 S</td><td>14 octobre</td><td colspan="3">1960</td></tr>
@@ -263,6 +268,7 @@ Champ d’application le 7 août 2018**[^t-2]**
 <tr><td colspan="2">Guatemala</td><td colspan="2">13 février</td><td colspan="2">1952</td><td>13 février</td><td colspan="3">1953</td></tr>
 <tr><td colspan="2">Guinée</td><td colspan="2">21 janvier</td><td colspan="2">1959 S</td><td>21 janvier</td><td colspan="3">1959</td></tr>
 <tr><td colspan="2">Guinée équatoriale</td><td colspan="2">13 août</td><td colspan="2">2001</td><td>13 août</td><td colspan="3">2002</td></tr>
+<tr><td colspan="2">Guinée-Bissau</td><td colspan="2">9 juin</td><td colspan="2">2023</td><td>9 juin</td><td colspan="3">2024</td></tr>
 <tr><td colspan="2">Guyana</td><td colspan="2">25 septembre</td><td colspan="2">1967</td><td>25 septembre</td><td colspan="3">1968</td></tr>
 <tr><td colspan="2">Haïti</td><td colspan="2">5 juin</td><td colspan="2">1979</td><td>5 juin</td><td colspan="3">1980</td></tr>
 <tr><td colspan="2">Honduras</td><td colspan="2">27 juin</td><td colspan="2">1956</td><td>27 juin</td><td colspan="3">1957</td></tr>
@@ -285,7 +291,7 @@ Champ d’application le 7 août 2018**[^t-2]**
 <tr><td colspan="2">Libye</td><td colspan="2">4 octobre</td><td colspan="2">2000</td><td>4 octobre</td><td colspan="3">2001</td></tr>
 <tr><td colspan="2">Lituanie</td><td colspan="2">26 septembre</td><td colspan="2">1994</td><td>26 septembre</td><td colspan="3">1995</td></tr>
 <tr><td colspan="2">Luxembourg</td><td colspan="2">3 mars</td><td colspan="2">1958</td><td>3 mars</td><td colspan="3">1959</td></tr>
-<tr><td colspan="2">Macédoine</td><td colspan="2">17 novembre</td><td colspan="2">1991 S</td><td>17 novembre</td><td colspan="3">1991</td></tr>
+<tr><td colspan="2">Macédoine du Nord</td><td colspan="2">17 novembre</td><td colspan="2">1991 S</td><td>17 novembre</td><td colspan="3">1991</td></tr>
 <tr><td colspan="2">Madagascar</td><td colspan="2">1<sup>er</sup> novembre</td><td colspan="2">1960 S</td><td>1<sup>er</sup> novembre</td><td colspan="3">1960</td></tr>
 <tr><td colspan="2">Malawi</td><td colspan="2">19 novembre</td><td colspan="2">1999</td><td>19 novembre</td><td colspan="3">2000</td></tr>
 <tr><td colspan="2">Maldives</td><td colspan="2">4 janvier</td><td colspan="2">2013</td><td>4 janvier</td><td colspan="3">2014</td></tr>
@@ -326,18 +332,18 @@ Champ d’application le 7 août 2018**[^t-2]**
 <tr><td colspan="2">Bermudes</td><td colspan="2">10 janvier</td><td colspan="2">1962</td><td>10 janvier</td><td colspan="3">1962</td></tr>
 <tr><td colspan="2">Gibraltar\*</td><td colspan="2">19 juin</td><td colspan="2">1958</td><td>19 juin</td><td colspan="3">1958</td></tr>
 <tr><td colspan="2">Guernesey</td><td colspan="2">27 juin</td><td colspan="2">1949</td><td>4 juillet</td><td colspan="3">1950</td></tr>
-<tr><td colspan="2">Iles Falkland</td><td colspan="2">5 juillet</td><td colspan="2">1962</td><td>5 juillet</td><td colspan="3">1962</td></tr>
-<tr><td colspan="2">Ile de Man</td><td colspan="2">27 juin</td><td colspan="2">1949</td><td>4 juillet</td><td colspan="3">1950</td></tr>
-<tr><td colspan="2">Iles Vierges britanniques</td><td colspan="2">12 juin</td><td colspan="2">1964</td><td>12 juin</td><td colspan="3">1964</td></tr>
+<tr><td colspan="2">Île de Man</td><td colspan="2">27 juin</td><td colspan="2">1949</td><td>4 juillet</td><td colspan="3">1950</td></tr>
+<tr><td colspan="2">Îles Falkland</td><td colspan="2">5 juillet</td><td colspan="2">1962</td><td>5 juillet</td><td colspan="3">1962</td></tr>
+<tr><td colspan="2">Îles Vierges britanniques</td><td colspan="2">12 juin</td><td colspan="2">1964</td><td>12 juin</td><td colspan="3">1964</td></tr>
 <tr><td colspan="2">Jersey</td><td colspan="2">27 juin</td><td colspan="2">1949</td><td>4 juillet</td><td colspan="3">1950</td></tr>
 <tr><td colspan="2">Montserrat</td><td colspan="2">26 novembre</td><td colspan="2">1962</td><td>26 novembre</td><td colspan="3">1962</td></tr>
 <tr><td colspan="2">Sainte-Hélène\*</td><td colspan="2">26 mai</td><td colspan="2">1966</td><td>26 mai</td><td colspan="3">1966</td></tr>
 <tr><td colspan="2">Russie</td><td colspan="2">10 août</td><td colspan="2">1956</td><td>10 août</td><td colspan="3">1957</td></tr>
 <tr><td colspan="2">Rwanda</td><td colspan="2">8 novembre</td><td colspan="2">1988</td><td>8 novembre</td><td colspan="3">1989</td></tr>
-<tr><td colspan="2">Sainte-Lucie</td><td colspan="2">14 mai</td><td colspan="2">1980 S</td><td>14 mai</td><td colspan="3">1980</td></tr>
 <tr><td colspan="2">Saint-Kitts-et-Nevis</td><td colspan="2">25 août</td><td colspan="2">2000</td><td>25 août</td><td colspan="3">2001</td></tr>
 <tr><td colspan="2">Saint-Marin</td><td colspan="2">19 décembre</td><td colspan="2">1986</td><td>19 décembre</td><td colspan="3">1987</td></tr>
 <tr><td colspan="2">Saint-Vincent-et-les Grenadines</td><td colspan="2">9 novembre</td><td colspan="2">2001</td><td>9 novembre</td><td colspan="3">2002</td></tr>
+<tr><td colspan="2">Sainte-Lucie</td><td colspan="2">14 mai</td><td colspan="2">1980 S</td><td>14 mai</td><td colspan="3">1980</td></tr>
 <tr><td colspan="2">Samoa</td><td colspan="2">30 juin</td><td colspan="2">2008</td><td>30 juin</td><td colspan="3">2009</td></tr>
 <tr><td colspan="2">Sao Tomé-et-Principe</td><td colspan="2">17 juin</td><td colspan="2">1992</td><td>17 juin</td><td colspan="3">1993</td></tr>
 <tr><td colspan="2">Sénégal</td><td colspan="2">4 novembre</td><td colspan="2">1960 S</td><td>4 novembre</td><td colspan="3">1960</td></tr>
@@ -346,11 +352,11 @@ Champ d’application le 7 août 2018**[^t-2]**
 <tr><td colspan="2">Sierra Leone</td><td colspan="2">15 juin</td><td colspan="2">1961</td><td>15 juin</td><td colspan="3">1962</td></tr>
 <tr><td colspan="2">Slovaquie</td><td colspan="2">1<sup>er</sup> janvier</td><td colspan="2">1993 S</td><td>1<sup>er</sup> janvier</td><td colspan="3">1993</td></tr>
 <tr><td colspan="2">Slovénie</td><td colspan="2">29 mai</td><td colspan="2">1992 S</td><td>29 mai</td><td colspan="3">1992</td></tr>
+<tr><td colspan="2">Soudan</td><td colspan="2">17 mars</td><td colspan="2">2021 A</td><td>17 mars</td><td colspan="3">2022</td></tr>
 <tr><td colspan="2">Sri Lanka</td><td colspan="2">15 septembre</td><td colspan="2">1995</td><td>15 septembre</td><td colspan="3">1996</td></tr>
 <tr><td colspan="2">Suède</td><td colspan="2">25 novembre</td><td colspan="2">1949</td><td>25 novembre</td><td colspan="3">1950</td></tr>
 <tr><td colspan="2">Suisse</td><td colspan="2">25 mars</td><td colspan="2">1975</td><td>25 mars</td><td colspan="3">1976</td></tr>
 <tr><td colspan="2">Suriname</td><td colspan="2">15 juin</td><td colspan="2">1976 S</td><td>15 juin</td><td colspan="3">1976</td></tr>
-<tr><td colspan="2">Swaziland</td><td colspan="2">26 avril</td><td colspan="2">1978 S</td><td>26 avril</td><td colspan="3">1978</td></tr>
 <tr><td colspan="2">Syrie</td><td colspan="2">26 juillet</td><td colspan="2">1960 S</td><td>26 juillet</td><td colspan="3">1961</td></tr>
 <tr><td colspan="2">Tadjikistan</td><td colspan="2">26 novembre</td><td colspan="2">1993 S</td><td>26 novembre</td><td colspan="3">1993</td></tr>
 <tr><td colspan="2">Tanzanie</td><td colspan="2">18 avril</td><td colspan="2">2000</td><td>18 avril</td><td colspan="3">2001</td></tr>
@@ -368,9 +374,9 @@ Champ d’application le 7 août 2018**[^t-2]**
 <tr><td colspan="2">Yémen</td><td colspan="2">29 juillet</td><td colspan="2">1976</td><td>29 juillet</td><td colspan="3">1977</td></tr>
 <tr><td colspan="2">Zambie</td><td colspan="2">2 septembre</td><td colspan="2">1996</td><td>2 septembre</td><td colspan="2">1997</td></tr>
 <tr><td colspan="2">Zimbabwe</td><td colspan="2">9 avril</td><td colspan="2">2003</td><td>9 avril</td><td colspan="2">2004</td></tr>
-<tr><td colspan="9">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation internationale du travail: www.ilo.org/ilolex/french/convdisp1.htm ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="9">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation internationale du Travail: [www.ilo.org](http://www.ilo.org) &gt; Français &gt; Normes &gt; Consulter les normes &gt; NORMLEX &gt; Instruments &gt; Conventions, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 <tr><td colspan="9"><sup>a</sup> Du 15 oct. 1963 au 30 juin 1997, la conv. était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. Le 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 6 juin 1997, la conv. est également applicable à la RAS Hong Kong à partir dudit 1<sup>er</sup> juillet 1997.</td></tr>
 <tr><td colspan="9"><sup>b</sup> La ratification n'est pas applicable à l’Irlande du Nord.</td></tr>
 </table>
 
-[^t-2]: [RO 1976 689](https://fedlex.data.admin.ch/eli/oc/1976/689_689_689), [1982 836](https://fedlex.data.admin.ch/eli/oc/1982/836_836_836), [1985 289](https://fedlex.data.admin.ch/eli/oc/1985/289_289_289), [1992 672](https://fedlex.data.admin.ch/eli/oc/1992/672_672_672), [2005 1747](https://fedlex.data.admin.ch/eli/oc/2005/279), [2008 29](https://fedlex.data.admin.ch/eli/oc/2008/12), [2010 3811](https://fedlex.data.admin.ch/eli/oc/2010/537), [2013 965](https://fedlex.data.admin.ch/eli/oc/2013/201), [2018 3035](https://fedlex.data.admin.ch/eli/oc/2018/477). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 1976 689](https://fedlex.data.admin.ch/eli/oc/1976/689_689_689); [1982 836](https://fedlex.data.admin.ch/eli/oc/1982/836_836_836); [1985 289](https://fedlex.data.admin.ch/eli/oc/1985/289_289_289); [1992 672](https://fedlex.data.admin.ch/eli/oc/1992/672_672_672); [2005 1747](https://fedlex.data.admin.ch/eli/oc/2005/279); [2008 29](https://fedlex.data.admin.ch/eli/oc/2008/12); [2010 3811](https://fedlex.data.admin.ch/eli/oc/2010/537); [2013 965](https://fedlex.data.admin.ch/eli/oc/2013/201); [2018 3035](https://fedlex.data.admin.ch/eli/oc/2018/477); [2024 553](https://fedlex.data.admin.ch/eli/oc/2024/553). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

@@ -3,31 +3,32 @@ sr: "0.822.719.7"
 title: Übereinkommen Nr. 87 vom 9. Juli 1948 über die Vereinigungsfreiheit und den Schutz des Vereinigungsrechtes
 eli: "https://fedlex.data.admin.ch/eli/cc/1976/689_689_689"
 language: de
-version: 2018-08-07
+version: 2024-10-08
 adopted: 1948-07-09
 in_force: 1976-03-25
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/689_689_689/20180807/de/xml/fedlex-data-admin-ch-eli-cc-1976-689_689_689-20180807-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1976/689_689_689/20180807/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1976/689_689_689/20241008/de/xml/fedlex-data-admin-ch-eli-cc-1976-689_689_689-20241008-de-xml-3.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1976/689_689_689/20241008/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
 # Übereinkommen Nr. 87 über die Vereinigungsfreiheit und den Schutz des Vereinigungsrechtes
 
-[^t-1]as Übersetzung
+AS **1976** 689; BBl **1974** I 1633
+
+Übersetzung
 
 Abgeschlossen in San Francisco am 9. Juli 1948
 
-Von der Bundesversammlung genehmigt am 26. November 1974[^t-2]
+Von der Bundesversammlung genehmigt am 26. November 1974[^t-1]
 
 Schweizerische Ratifikationsurkunde hinterlegt am 25. März 1975
 
 In Kraft getreten für die Schweiz am 25. März 1976
 
-(Stand am 7. August 2018)
+(Stand am 8. Oktober 2024)
 
-[^t-1]: [AS 1976 689](https://fedlex.data.admin.ch/eli/oc/1976/689_689_689); [BBl 1974 I 1633](https://fedlex.data.admin.ch/eli/fga/1974/1_1633_1577_1537)
-[^t-2]: Art. 1 Abs. 1 Bst. a des BB vom 26. Nov. 1974 ([AS 1976 687](https://fedlex.data.admin.ch/eli/oc/1976/687_687_687)).
+[^t-1]: Art. 1 Abs. 1 Bst. a des BB vom 26. Nov. 1974 ([AS 1976 687](https://fedlex.data.admin.ch/eli/oc/1976/687_687_687)).
 
 Die Allgemeine Konferenz der Internationalen Arbeitsorganisation,
 
@@ -105,7 +106,9 @@ Jedes Mitglied der Internationalen Arbeitsorganisation, für das dieses Überein
 
 #### Art. 12
 
-<sup>1.</sup> Für die in Artikel 35 der Verfassung der Internationalen Arbeitsorganisation[^12-1] in der Fassung der Abänderungsurkunde von 1946 bezeichneten Gebiete, mit Ausnahme der Gebiete nach den Absätzen 4 und 5 des genannten Artikels in seiner neuen Fassung, hat jedes Mitglied der Organisation, das dieses Übereinkommen ratifiziert, dem Generaldirektor des Internationalen Arbeitsamtes mit seiner Ratifikation oder so bald wie möglich nach der Ratifikation eine Erklärung zu übermitteln, welche die Gebiete bekanntgibt.
+<sup>1.</sup>
+
+Für die in Artikel 35 der Verfassung der Internationalen Arbeitsorganisation[^12-1] in der Fassung der Abänderungsurkunde von 1946 bezeichneten Gebiete, mit Ausnahme der Gebiete nach den Absätzen 4 und 5 des genannten Artikels in seiner neuen Fassung, hat jedes Mitglied der Organisation, das dieses Übereinkommen ratifiziert, dem Generaldirektor des Internationalen Arbeitsamtes mit seiner Ratifikation oder so bald wie möglich nach der Ratifikation eine Erklärung zu übermitteln, welche die Gebiete bekanntgibt:
 
 - a) für die es die Verpflichtung zur unveränderten Durchführung des Übereinkommens übernimmt,
 - b) für die es die Verpflichtung zur Durchführung der Bestimmungen des Übereinkommens mit Abweichungen übernimmt, unter Angabe der Einzelheiten dieser Abweichungen,
@@ -124,7 +127,9 @@ Jedes Mitglied der Internationalen Arbeitsorganisation, für das dieses Überein
 
 <sup>1.</sup> Fällt der Gegenstand dieses Übereinkommens unter die Selbstregierungsbefugnisse eines ausserhalb des Mutterlandes gelegenen Gebietes, so kann das für die internationalen Beziehungen dieses Gebietes verantwortliche Mitglied im Benehmen mit dessen Regierung dem Generaldirektor des Internationalen Arbeitsamtes eine Erklärung übermitteln, durch die es die Verpflichtungen aus diesem Übereinkommen im Namen des betreffenden Gebietes übernimmt.
 
-<sup>2.</sup> Eine Erklärung betreffend die Übernahme der Verpflichtungen aus diesem Übereinkommen kann dem Generaldirektor des Internationalen Arbeitsamtes übermittelt werden
+<sup>2.</sup>
+
+Eine Erklärung betreffend die Übernahme der Verpflichtungen aus diesem Übereinkommen kann dem Generaldirektor des Internationalen Arbeitsamtes übermittelt werden:
 
 - a) von zwei oder mehr Mitgliedern der Organisation für ein ihnen gemeinsam unterstelltes Gebiet,
 - b) von jeder nach der Charta der Vereinten Nationen[^13-1] oder auf Grund einer anderen Bestimmung für die Verwaltung eines Gebietes verantwortlichen internationalen Behörde, und zwar für das betreffende Gebiet.
@@ -190,10 +195,10 @@ Der französische und der englische Wortlaut dieses Übereinkommens sind in glei
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 7. August 2018**[^t-3]**
+Geltungsbereich am 8. Oktober 2024[^t-2]
 
 <table>
-<tr><th>Vertragsstaaten</th><th>Ratifikation Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th colspan="3"></th></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th colspan="3"></th></tr>
 <tr><td>Ägypten</td><td>6. November</td><td>1957</td><td>6. November</td><td colspan="3">1958</td></tr>
 <tr><td>Albanien</td><td>3. Juni</td><td>1957</td><td>3. Juni</td><td colspan="3">1958</td></tr>
 <tr><td>Algerien</td><td>19. Oktober</td><td>1962 N</td><td>19. Oktober</td><td colspan="3">1962</td></tr>
@@ -235,6 +240,7 @@ Geltungsbereich am 7. August 2018**[^t-3]**
 <tr><td>El Salvador</td><td>6. September</td><td>2006</td><td>6. September</td><td colspan="2">2007</td></tr>
 <tr><td>Eritrea</td><td>22. Februar</td><td>2000</td><td>22. Februar</td><td colspan="2">2001</td></tr>
 <tr><td>Estland</td><td>22. März</td><td>1994</td><td>22. März</td><td colspan="2">1995</td></tr>
+<tr><td>Eswatini</td><td>26. April</td><td>1978 N</td><td>26. April</td><td colspan="3">1978</td></tr>
 <tr><td>Fidschi</td><td>17. April</td><td>2002</td><td>17. April</td><td colspan="2">2003</td></tr>
 <tr><td>Finnland</td><td>20. Januar</td><td>1950</td><td>20. Januar</td><td colspan="3">1951</td></tr>
 <tr><td>Frankreich</td><td>28. Juni</td><td>1951</td><td>28. Juni</td><td colspan="3">1952</td></tr>
@@ -254,6 +260,7 @@ Geltungsbereich am 7. August 2018**[^t-3]**
 <tr><td>Griechenland</td><td>30. März</td><td>1962</td><td>30. März</td><td colspan="3">1963</td></tr>
 <tr><td>Guatemala</td><td>13. Februar</td><td>1952</td><td>13. Februar</td><td colspan="3">1953</td></tr>
 <tr><td>Guinea</td><td>21. Januar</td><td>1959 N</td><td>21. Januar</td><td colspan="3">1959</td></tr>
+<tr><td>Guinea-Bissau</td><td>9. Juni</td><td>2023</td><td>9. Juni</td><td colspan="3">2024</td></tr>
 <tr><td>Guyana</td><td>25. September</td><td>1967</td><td>25. September</td><td colspan="3">1968</td></tr>
 <tr><td>Haiti</td><td>5. Juni</td><td>1979</td><td>5. Juni</td><td colspan="3">1980</td></tr>
 <tr><td>Honduras</td><td>27. Juni</td><td>1956</td><td>27. Juni</td><td colspan="3">1957</td></tr>
@@ -277,6 +284,7 @@ Geltungsbereich am 7. August 2018**[^t-3]**
 <tr><td>Komoren</td><td>23. Oktober</td><td>1978 N</td><td>23. Oktober</td><td colspan="3">1978</td></tr>
 <tr><td>Kongo (Brazzaville)</td><td>10. November</td><td>1960 N</td><td>10. November</td><td colspan="3">1960</td></tr>
 <tr><td>Kongo (Kinshasa)</td><td>20. Juni</td><td>2001</td><td>20. Juni</td><td colspan="2">2002</td></tr>
+<tr><td>Korea (Süd-)</td><td>20. April</td><td>2021 B</td><td>20. April</td><td colspan="2">2022</td></tr>
 <tr><td>Kroatien</td><td>8. Oktober</td><td>1991 N</td><td>8. Oktober</td><td colspan="2">1991</td></tr>
 <tr><td>Kuba</td><td>25. Juni</td><td>1952</td><td>25. Juni</td><td colspan="3">1953</td></tr>
 <tr><td>Kuwait</td><td>21. September</td><td>1961</td><td>21. September</td><td colspan="3">1962</td></tr>
@@ -293,7 +301,6 @@ Geltungsbereich am 7. August 2018**[^t-3]**
 <tr><td>Malta</td><td>4. Januar</td><td>1965</td><td>4. Januar</td><td colspan="3">1966</td></tr>
 <tr><td>Mauretanien</td><td>20. Juni</td><td>1961 N</td><td>20. Juni</td><td colspan="3">1961</td></tr>
 <tr><td>Mauritius</td><td>1. April</td><td>2005</td><td>1. April</td><td colspan="2">2006</td></tr>
-<tr><td>Mazedonien</td><td>17. November</td><td>1991 N</td><td>17. November</td><td colspan="2">1991</td></tr>
 <tr><td>Mexiko</td><td>1. April</td><td>1950</td><td>1. April</td><td colspan="3">1951</td></tr>
 <tr><td>Moldau</td><td>12. August</td><td>1996</td><td>12. August</td><td colspan="2">1997</td></tr>
 <tr><td>Mongolei</td><td>3. Juni</td><td>1969</td><td>3. Juni</td><td colspan="3">1970</td></tr>
@@ -305,11 +312,11 @@ Geltungsbereich am 7. August 2018**[^t-3]**
 <tr><td>Niederlande</td><td>7. März</td><td>1950</td><td>7. März</td><td colspan="3">1951</td></tr>
 <tr><td>Aruba</td><td>1. Januar</td><td>1986</td><td>1. Januar</td><td colspan="2">1986</td></tr>
 <tr><td>Curaçao</td><td>25. Juni</td><td>1951</td><td>25. Juni</td><td colspan="2">1951</td></tr>
-<tr><td>Niederländische Antillen</td><td>25. Juni</td><td>1951</td><td>25. Juni</td><td colspan="3">1951</td></tr>
 <tr><td>Karibische Gebiete (Bonaire, Sint Eustatius und Saba)</td><td>25. Juni</td><td>1951</td><td>25. Juni</td><td colspan="3">1951</td></tr>
 <tr><td>Sint Maarten</td><td>25. Juni</td><td>1951</td><td>25. Juni</td><td colspan="3">1951</td></tr>
 <tr><td>Niger</td><td>27. Februar</td><td>1961 N</td><td>27. Februar</td><td colspan="3">1961</td></tr>
 <tr><td>Nigeria</td><td>17. Oktober</td><td>1960 N</td><td>17. Oktober</td><td colspan="3">1960</td></tr>
+<tr><td>Nordmazedonien</td><td>17. November</td><td>1991 N</td><td>17. November</td><td colspan="2">1991</td></tr>
 <tr><td>Norwegen</td><td>4. Juli</td><td>1949</td><td>4. Juli</td><td colspan="3">1950</td></tr>
 <tr><td>Österreich</td><td>18. Oktober</td><td>1950</td><td>18. Oktober</td><td colspan="3">1951</td></tr>
 <tr><td>Pakistan</td><td>14. Februar</td><td>1951</td><td>14. Februar</td><td colspan="3">1952</td></tr>
@@ -342,8 +349,8 @@ Geltungsbereich am 7. August 2018**[^t-3]**
 <tr><td>St. Lucia</td><td>14. Mai</td><td>1980 N</td><td>14. Mai</td><td colspan="3">1980</td></tr>
 <tr><td>St. Vincent und die Grenadinen</td><td>9. November</td><td>2001</td><td>9. November</td><td colspan="2">2002</td></tr>
 <tr><td>Südafrika</td><td>19. Februar</td><td>1996</td><td>19. Februar</td><td colspan="2">1997</td></tr>
+<tr><td>Sudan</td><td>17. März</td><td>2021 B</td><td>17. März</td><td colspan="3">2022</td></tr>
 <tr><td>Suriname</td><td>15. Juni</td><td>1976 N</td><td>15. Juni</td><td colspan="3">1976</td></tr>
-<tr><td>Swasiland</td><td>26. April</td><td>1978 N</td><td>26. April</td><td colspan="3">1978</td></tr>
 <tr><td>Syrien</td><td>26. Juli</td><td>1960 N</td><td>26. Juli</td><td colspan="3">1961</td></tr>
 <tr><td>Tadschikistan</td><td>26. November</td><td>1993 N</td><td>26. November</td><td colspan="2">1993</td></tr>
 <tr><td>Tansania</td><td>18. April</td><td>2000</td><td>18. April</td><td colspan="2">2001</td></tr>
@@ -374,9 +381,9 @@ Geltungsbereich am 7. August 2018**[^t-3]**
 <tr><td>Zentralafrikanische Republik</td><td>27. Oktober</td><td>1960 N</td><td>27. Oktober</td><td colspan="3">1960</td></tr>
 <tr><td>Zypern</td><td>24. Mai</td><td>1966</td><td>24. Mai</td><td colspan="3">1967</td></tr>
 <tr><td colspan="5">\* Vorbehalte und Erklärungen</td></tr>
-<tr><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlich. Die französischen und englischen Texte können auf der Internetseite der Internationalen Arbeitsorganisation: www.ilo.org/ilolex/french/convdisp1.htm eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern bezogen werden.</td></tr>
+<tr><td colspan="5">Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlich. Die französischen und englischen Texte können auf der Internetseite der Internationalen Arbeitsorganisation: [www.ilo.org](http://www.ilo.org) &gt; Français &gt; Normes du travail &gt; NORMLEX &gt; Instruments &gt; Conventions et recommandations à jour eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Vom 15. Oktober 1963 bis zum 30. Juni 1997 war das Übereinkommen auf Grund einer Ausdehnungserklärung des Vereinigten Königreichs in Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine Besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 6. Juni 1997 ist das Übereinkommen seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar.</td></tr>
 <tr><td colspan="5"><sup>b</sup> Die Ratifikation gilt nicht für Nordirland.</td></tr>
 </table>
 
-[^t-3]: [AS 1976 689](https://fedlex.data.admin.ch/eli/oc/1976/689_689_689), [1982 836](https://fedlex.data.admin.ch/eli/oc/1982/836_836_836), [1985 289](https://fedlex.data.admin.ch/eli/oc/1985/289_289_289), [1992 672](https://fedlex.data.admin.ch/eli/oc/1992/672_672_672), [2005 1747](https://fedlex.data.admin.ch/eli/oc/2005/279), [2008 29](https://fedlex.data.admin.ch/eli/oc/2008/12), [2010 3811](https://fedlex.data.admin.ch/eli/oc/2010/537), [2013 965](https://fedlex.data.admin.ch/eli/oc/2013/201), [2018 3035](https://fedlex.data.admin.ch/eli/oc/2018/477). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1976 689](https://fedlex.data.admin.ch/eli/oc/1976/689_689_689); [1982 836](https://fedlex.data.admin.ch/eli/oc/1982/836_836_836); [1985 289](https://fedlex.data.admin.ch/eli/oc/1985/289_289_289); [1992 672](https://fedlex.data.admin.ch/eli/oc/1992/672_672_672); [2005 1747](https://fedlex.data.admin.ch/eli/oc/2005/279); [2008 29](https://fedlex.data.admin.ch/eli/oc/2008/12); [2010 3811](https://fedlex.data.admin.ch/eli/oc/2010/537); [2013 965](https://fedlex.data.admin.ch/eli/oc/2013/201); [2018 3035](https://fedlex.data.admin.ch/eli/oc/2018/477); [2024 553](https://fedlex.data.admin.ch/eli/oc/2024/553). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
