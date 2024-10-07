@@ -3,11 +3,11 @@ sr: "0.812.41"
 title: "Convention du Conseil de l'Europe du 28 octobre 2011 sur la contrefaçon des produits médicaux et les infractions similaires menaçant la santé publique (Convention Médicrime)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/87"
 language: fr
-version: 2020-11-18
+version: 2024-10-08
 adopted: 2011-10-28
 in_force: 2019-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/87/20201118/fr/xml/fedlex-data-admin-ch-eli-cc-2019-87-20201118-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/87/20201118/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/87/20241008/fr/xml/fedlex-data-admin-ch-eli-cc-2019-87-20241008-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/87/20241008/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -28,7 +28,7 @@ Instrument de ratification déposé par la Suisse le 25 octobre 2018
 
 Entrée en vigueur pour la Suisse le 1<sup>er</sup> février 2019
 
-(Etat le 18 novembre 2020)
+(État le 8 octobre 2024)
 
 [^t-1]: [RO 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765)
 
@@ -526,7 +526,7 @@ Le Secrétaire Général du Conseil de l’Europe notifiera aux Parties, aux Ét
 
 *En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé la présente Convention. Fait à Moscou, le 28 octobre 2011, en français et en anglais, les deux textes faisant également <sup>foi,</sup> <sup>en un</sup> <sup>seul exemplaire</sup> <sup>qui</sup> <sup>sera</sup> déposé dans les archives du Conseil de l’Europe. Le Secrétaire Général du Conseil de l’Europe en communiquera copie certifiée conforme à chacun des États membres du Conseil de l’Europe, aux États non-membres ayant participé à l’élaboration de la présente Convention ou ayant le statut d’observateur auprès du Conseil de l’Europe, à l’Union européenne et à tout autre État invité à signer la présente Convention. (Suivent les signatures)
 
-Champ d’application le 18 novembre 2020**[^t-2]**
+Champ d’application le 8 octobre 2024[^t-2]
 
 <table>
 <tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -537,21 +537,26 @@ Champ d’application le 18 novembre 2020**[^t-2]**
 <tr><td>Bénin</td><td>29 mai</td><td>2018</td><td>1<sup>er</sup> septembre</td><td>2018</td></tr>
 <tr><td>Bosnie et Herzégovine</td><td>18 septembre</td><td>2020</td><td>1<sup>er</sup> janvier</td><td>2021</td></tr>
 <tr><td>Burkina Faso</td><td>27 juillet</td><td>2017</td><td>1<sup>er</sup> novembre</td><td>2017</td></tr>
+<tr><td>Chypre</td><td>5 septembre</td><td>2023</td><td>1<sup>er</sup> janvier</td><td>2024</td></tr>
+<tr><td>Côte d’Ivoire</td><td>20 juillet</td><td>2023</td><td>1<sup>er</sup> novembre</td><td>2023</td></tr>
 <tr><td>Croatie<sup>\*</sup></td><td>20 septembre</td><td>2019</td><td>1<sup>er</sup> janvier</td><td>2020</td></tr>
-<tr><td>Espagne<sup>\*</sup></td><td>5 août</td><td>2013</td><td>1<sup>er</sup> janvier</td><td>2016</td></tr>
-<tr><td>France<sup>\*</sup></td><td>21 septembre</td><td>2016</td><td>1<sup>er</sup> janvier</td><td>2017</td></tr>
+<tr><td>Espagne\*</td><td>5 août</td><td>2013</td><td>1<sup>er</sup> janvier</td><td>2016</td></tr>
+<tr><td>France\*</td><td>21 septembre</td><td>2016</td><td>1<sup>er</sup> janvier</td><td>2017</td></tr>
 <tr><td>Guinée</td><td>24 septembre</td><td>2015</td><td>1<sup>er</sup> janvier</td><td>2016</td></tr>
-<tr><td>Hongrie<sup>\*</sup></td><td>9 janvier</td><td>2014</td><td>1<sup>er</sup> janvier</td><td>2016</td></tr>
+<tr><td>Hongrie\*</td><td>9 janvier</td><td>2014</td><td>1<sup>er</sup> janvier</td><td>2016</td></tr>
+<tr><td>Maroc</td><td>19 avril</td><td>2022</td><td>1<sup>er</sup> août</td><td>2022</td></tr>
 <tr><td>Moldova</td><td>14 août</td><td>2014</td><td>1<sup>er</sup> janvier</td><td>2016</td></tr>
+<tr><td>Niger</td><td>10 mars</td><td>2022</td><td>1<sup>er</sup> juillet</td><td>2022</td></tr>
 <tr><td>Portugal</td><td>18 décembre</td><td>2018</td><td>1<sup>er</sup> avril</td><td>2019</td></tr>
-<tr><td>Russie<sup>\*</sup></td><td>20 mars</td><td>2018</td><td>1<sup>er</sup> juillet</td><td>2018</td></tr>
-<tr><td>Suisse<sup>\*</sup></td><td>25 octobre</td><td>2018</td><td>1<sup>er</sup> février</td><td>2019</td></tr>
-<tr><td>Turquie<sup>\*</sup></td><td>21 septembre</td><td>2017</td><td>1<sup>er</sup> janvier</td><td>2018</td></tr>
+<tr><td>Russie\*</td><td>20 mars</td><td>2018</td><td>1<sup>er</sup> juillet</td><td>2018</td></tr>
+<tr><td>Slovénie\*</td><td>3 mai</td><td>2022</td><td>1<sup>er</sup> septembre</td><td>2022</td></tr>
+<tr><td>Suisse\*</td><td>25 octobre</td><td>2018</td><td>1<sup>er</sup> février</td><td>2019</td></tr>
+<tr><td>Turquie\*</td><td>21 septembre</td><td>2017</td><td>1<sup>er</sup> janvier</td><td>2018</td></tr>
 <tr><td>Ukraine</td><td>20 août</td><td>2012</td><td>1<sup>er</sup> janvier</td><td>2016</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet du Conseil de l’Europe: www.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais pourront être consultés à l’adresse du site Internet du Conseil de l’Europe: [http://conventions.coe.int](http://conventions.coe.int) ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne.</td></tr>
 </table>
 
-[^t-2]: [RO 2019 497](https://fedlex.data.admin.ch/eli/oc/2019/87), [2020 5179](https://fedlex.data.admin.ch/eli/oc/2020/899). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: La présente publication complète celles qui figurent au [RO 2019 497](https://fedlex.data.admin.ch/eli/oc/2019/87); [2020 5179](https://fedlex.data.admin.ch/eli/oc/2020/899); [2024 552](https://fedlex.data.admin.ch/eli/oc/2024/552). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
 
 Réserve
 

@@ -3,11 +3,11 @@ sr: "0.812.41"
 title: "Convenzione del Consiglio d'Europa del 28 ottobre 2011 sulla contraffazione di agenti terapeutici e reati simili che comportano una minaccia per la salute pubblica (Convenzione Medicrime)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/87"
 language: it
-version: 2020-11-18
+version: 2024-10-08
 adopted: 2011-10-28
 in_force: 2019-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/87/20201118/it/xml/fedlex-data-admin-ch-eli-cc-2019-87-20201118-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/87/20201118/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/87/20241008/it/xml/fedlex-data-admin-ch-eli-cc-2019-87-20241008-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/87/20241008/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -28,7 +28,7 @@ Strumento di ratifica depositato dalla Svizzera il 25 ottobre 2018
 
 Entrata in vigore per la Svizzera il 1° febbraio 2019
 
-(Stato 18 novembre 2020)
+(Stato 8 ottobre 2024)
 
 [^t-1]: [RU 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765)
 
@@ -526,7 +526,7 @@ Il Segretario Generale del Consiglio d’Europa notifica alle Parti, agli Stati 
 
 *In fede di che,* i plenipotenziari, debitamente autorizzati, hanno firmato la presente Convenzione. Fatto a Mosca, il 28 ottobre 2011, in inglese e francese, entrambi i testi facenti parimenti fede, in singola copia depositata negli archivi del Consiglio d’Europa. Il Segretario Generale del Consiglio d’Europa trasmette una copia certificata a ciascuno Stato membro del Consiglio d’Europa, agli Stati non membri che hanno preso parte all’elaborazione della presente Convenzione o che godono dello status di osservatori del Consiglio d’Europa, all’Unione europea, e a qualsiasi altro Stato che sia stato invitato a firmare la presente Convenzione. (Seguono le firme)
 
-Campo d’applicazione il 18 novembre 2020**[^t-2]**
+Campo d’applicazione l’8 ottobre 2024, complemento[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -537,21 +537,26 @@ Campo d’applicazione il 18 novembre 2020**[^t-2]**
 <tr><td>Bielorussia</td><td>28 settembre</td><td>2020</td><td>1° gennaio</td><td>2021</td></tr>
 <tr><td>Bosnia ed Erzegovina</td><td>18 settembre</td><td>2020</td><td>1° gennaio</td><td>2021</td></tr>
 <tr><td>Burkina Faso</td><td>27 luglio</td><td>2017</td><td>1° novembre</td><td>2017</td></tr>
+<tr><td>Cipro</td><td>5 settembre</td><td>2023</td><td>1° gennaio</td><td>2024</td></tr>
+<tr><td>Costa d'Avorio</td><td>20 luglio</td><td>2023</td><td>1° novembre</td><td>2023</td></tr>
 <tr><td>Croazia<sup>\*</sup></td><td>20 settembre</td><td>2019</td><td>1° gennaio</td><td>2020</td></tr>
 <tr><td>Francia<sup>\*</sup></td><td>21 settembre</td><td>2016</td><td>1° gennaio</td><td>2017</td></tr>
 <tr><td>Guinea</td><td>24 settembre</td><td>2015</td><td>1° gennaio</td><td>2016</td></tr>
+<tr><td>Marocco</td><td>19 aprile</td><td>2022</td><td>1° agosto</td><td>2023</td></tr>
 <tr><td>Moldova</td><td>14 agosto</td><td>2014</td><td>1° gennaio</td><td>2016</td></tr>
+<tr><td>Niger</td><td>10 marzo</td><td>2022</td><td>1° luglio</td><td>2022</td></tr>
 <tr><td>Portogallo</td><td>18 dicembre</td><td>2018</td><td>1° aprile</td><td>2019</td></tr>
 <tr><td>Russia<sup>\*</sup></td><td>20 marzo</td><td>2018</td><td>1° luglio</td><td>2018</td></tr>
+<tr><td>Slovenia<sup>\*</sup></td><td>3 maggio</td><td>2022</td><td>1° settembre</td><td>2022</td></tr>
 <tr><td>Spagna<sup>\*</sup></td><td>5 agosto</td><td>2013</td><td>1° gennaio</td><td>2016</td></tr>
 <tr><td>Svizzera<sup>\*</sup></td><td>25 ottobre</td><td>2018</td><td>1° febbraio</td><td>2019</td></tr>
 <tr><td>Turchia<sup>\*</sup></td><td>21 settembre</td><td>2017</td><td>1° gennaio</td><td>2018</td></tr>
 <tr><td>Ucraina</td><td>20 agosto</td><td>2012</td><td>1° gennaio</td><td>2016</td></tr>
 <tr><td>Ungheria<sup>\*</sup></td><td>9 gennaio</td><td>2014</td><td>1° gennaio</td><td>2016</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: http://conventions.coe.int &gt; Explorer &gt; Bureau des Traités &gt; Liste complète oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU, eccetto quelle della Svizzera. Il testo, in francese e inglese, può essere consultato sul sito Internet del Consiglio d’Europa: [http://conventions.coe.int](http://conventions.coe.int) oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: [RU 2019 497](https://fedlex.data.admin.ch/eli/oc/2019/87), [2020 5179](https://fedlex.data.admin.ch/eli/oc/2020/899). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2019 497](https://fedlex.data.admin.ch/eli/oc/2019/87); [2020 5179](https://fedlex.data.admin.ch/eli/oc/2020/899); [2024 552](https://fedlex.data.admin.ch/eli/oc/2024/552). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo sguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
 
 Riserva
 

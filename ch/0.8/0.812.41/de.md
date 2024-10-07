@@ -3,11 +3,11 @@ sr: "0.812.41"
 title: Übereinkommen des Europarats vom 28. Oktober 2011 über die Fälschung von Arzneimitteln und Medizinprodukten und über ähnliche die öffentliche Gesundheit gefährdende Straftaten (Medicrime-Konvention)
 eli: "https://fedlex.data.admin.ch/eli/cc/2019/87"
 language: de
-version: 2020-11-18
+version: 2024-10-08
 adopted: 2011-10-28
 in_force: 2019-02-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/87/20201118/de/xml/fedlex-data-admin-ch-eli-cc-2019-87-20201118-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2019/87/20201118/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2019/87/20241008/de/xml/fedlex-data-admin-ch-eli-cc-2019-87-20241008-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2019/87/20241008/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -28,7 +28,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 25. Oktober 2018
 
 In Kraft getreten für die Schweiz am 1. Februar 2019
 
-(Stand am 18. November 2020)
+(Stand am 8. Oktober 2024)
 
 [^t-1]: [AS 2018 4771](https://fedlex.data.admin.ch/eli/oc/2018/765)
 
@@ -544,7 +544,7 @@ Der Generalsekretär des Europarats notifiziert den Vertragsparteien, den Mitgli
 
 *Zu Urkund dessen* haben die hierzu gehörig befugten Unterzeichneten dieses Übereinkommen unterschrieben. Geschehen zu Moskau am 28. Oktober 2011 in englischer und französischer Sprache, wobei jeder Wortlaut gleichermassen verbindlich ist, in einer Urschrift, die im Archiv des Europarats hinterlegt wird. Der Generalsekretär des Europarats übermittelt allen Mitgliedstaaten des Europarats, den Nichtmitgliedstaaten, die sich an der Ausarbeitung dieses Übereinkommens beteiligt oder beim Europarat Beobachterstatus haben, der Europäischen Union und allen zur Unterzeichnung des Übereinkommens eingeladenen Staaten beglaubigte Abschriften. (Es folgen die Unterschriften)
 
-Geltungsbereich am 18. November 2020**[^t-2]**
+Geltungsbereich am 8. Oktober 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -555,21 +555,26 @@ Geltungsbereich am 18. November 2020**[^t-2]**
 <tr><td>Benin</td><td>29. Mai</td><td>2018</td><td>1. September</td><td>2018</td></tr>
 <tr><td>Bosnien und Herzegowina</td><td>18. September</td><td>2020</td><td>1. Januar</td><td>2021</td></tr>
 <tr><td>Burkina Faso</td><td>27. Juli</td><td>2017</td><td>1. November</td><td>2017</td></tr>
+<tr><td>Côte d’Ivoire</td><td>20. Juli</td><td>2023</td><td>1. November</td><td>2023</td></tr>
 <tr><td>Frankreich\*</td><td>21. September</td><td>2016</td><td>1. Januar</td><td>2017</td></tr>
 <tr><td>Guinea</td><td>24. September</td><td>2015</td><td>1. Januar</td><td>2016</td></tr>
 <tr><td>Kroatien\*</td><td>20. September</td><td>2019</td><td>1. Januar</td><td>2020</td></tr>
+<tr><td>Marokko</td><td>19. April</td><td>2022</td><td>1. August</td><td>2022</td></tr>
 <tr><td>Moldau</td><td>14. August</td><td>2014</td><td>1. Januar</td><td>2016</td></tr>
+<tr><td>Niger</td><td>10. März</td><td>2022</td><td>1. Juli</td><td>2022</td></tr>
 <tr><td>Portugal</td><td>18. Dezember</td><td>2018</td><td>1. April</td><td>2019</td></tr>
 <tr><td>Russland\*</td><td>20. März</td><td>2018</td><td>1. Juli</td><td>2018</td></tr>
 <tr><td>Schweiz\*</td><td>25. Oktober</td><td>2018</td><td>1. Februar</td><td>2019</td></tr>
+<tr><td>Slowenien\*</td><td>3. Mai</td><td>2022</td><td>1. September</td><td>2022</td></tr>
 <tr><td>Spanien\*</td><td>5. August</td><td>2013</td><td>1. Januar</td><td>2016</td></tr>
 <tr><td>Türkei\*</td><td>21. September</td><td>2017</td><td>1. Januar</td><td>2018</td></tr>
 <tr><td>Ukraine</td><td>20. August</td><td>2012</td><td>1. Januar</td><td>2016</td></tr>
 <tr><td>Ungarn\*</td><td>9. Januar</td><td>2014</td><td>1. Januar</td><td>2016</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarates: www.coe.int &gt; Deutsch &gt; Mehr &gt; Vertragsbüro &gt; Gesamtverzeichnis eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td>Zypern</td><td>5. September</td><td>2023</td><td>1. Januar</td><td>2024</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite des Europarats: [http://conventions.coe.int](http://conventions.coe.int) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: Diese Veröffentlichung ergänzt die früheren in [AS 2019 497](https://fedlex.data.admin.ch/eli/oc/2019/87)und [2020 5179](https://fedlex.data.admin.ch/eli/oc/2020/899).Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA ([www.eda.admin.ch/vertraege](http://www.eda.admin.ch/vertraege)).
+[^t-2]: [AS 2019 497](https://fedlex.data.admin.ch/eli/oc/2019/87); [2020 5179](https://fedlex.data.admin.ch/eli/oc/2020/899); [2024 552](https://fedlex.data.admin.ch/eli/oc/2024/552). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalt
 
