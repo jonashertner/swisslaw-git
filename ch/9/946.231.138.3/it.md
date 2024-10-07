@@ -3,18 +3,18 @@ sr: "946.231.138.3"
 title: Ordinanza del 1° giugno 2012 che istituisce provvedimenti nei confronti della Guinea-Bissau
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/374"
 language: it
-version: 2024-03-15
+version: 2024-10-08
 adopted: 2012-06-01
 in_force: 2012-06-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/374/20240315/it/xml/fedlex-data-admin-ch-eli-cc-2012-374-20240315-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/374/20240315/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/374/20241008/it/xml/fedlex-data-admin-ch-eli-cc-2012-374-20241008-it-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/374/20241008/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Ordinanza che istituisce provvedimenti nei confronti della Guinea-Bissau
 
-del 1° giugno 2012 (Stato 15 marzo 2024)
+del 1° giugno 2012 (Stato 8 ottobre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -45,8 +45,8 @@ La Segreteria di Stato dell’economia (SECO) può eccezionalmente autorizzare p
 
 <sup>4</sup> La SECO autorizza le deroghe di cui al capoverso 3 d’intesa con gli uffici competenti del Dipartimento federale degli affari esteri e del Dipartimento federale delle finanze e, se del caso, conformemente alle pertinenti risoluzioni del Consiglio di sicurezza delle Nazioni Unite[^1-2].
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 15 giu. 2012, in vigore dal 16 giu. 2012 ([RU 2012 3589](https://fedlex.data.admin.ch/eli/oc/2012/406)).
-[^1-2]: Nuova espressione giusta il n. I 7 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)). Di detta mod. é tenuto conto in tutto il presente testo.
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 15 giu. 2012, in vigore dal 16 giu. 2012 ([RU 2012 3589](https://fedlex.data.admin.ch/eli/oc/2012/406)).
+[^1-2]: Nuova espressione giusta la cifra I n. 7 dell’O del 26 apr. 2023 concernente la deroga a determinate misure coercitive ai fini della fornitura di aiuti umanitari e del sostegno di altre attività volte a soddisfare i bisogni umani fondamentali, in vigore dal 1° giu. 2023 ([RU 2023 236](https://fedlex.data.admin.ch/eli/oc/2023/236)). Di detta mod. é tenuto conto in tutto il presente testo.
 
 #### Art. 2
 
@@ -77,7 +77,7 @@ La SEM può concedere deroghe alle persone fisiche di cui all’allegato 2:
 - b. se la persona in questione si sposta per partecipare a conferenze internazionali o a un dialogo politico riguardanti la Guinea-Bissau; oppure
 - c. per tutelare interessi svizzeri.
 
-[^3-1]: Nuovo testo giusta il n. I dell’O del 15 giu. 2012, in vigore dal 16 giu. 2012 ([RU 2012 3589](https://fedlex.data.admin.ch/eli/oc/2012/406)).
+[^3-1]: Nuovo testo giusta la cifra I dell’O del 15 giu. 2012, in vigore dal 16 giu. 2012 ([RU 2012 3589](https://fedlex.data.admin.ch/eli/oc/2012/406)).
 [^3-2]: La designazione dell’unità amministrativa è stata adattata in applicazione dell’art 16 cpv. 3 dell’O del 17 nov. 2004 sulle pubblicazioni ufficiali ([RU 2004 4937](https://fedlex.data.admin.ch/eli/oc/2004/746)), con effetto dal 1° gen. 2015. Di detta mod. è tenuto conto in tutto il presente testo.
 
 ## Sezione 2: Esecuzione e disposizioni penali
@@ -120,7 +120,7 @@ La SEM può concedere deroghe alle persone fisiche di cui all’allegato 2:
 
 [^sec3-1]
 
-[^sec3-1]: Nuovo testo giusta il n. I 11 dell’O del 4 mar. 2016 sul recepimento automatico delle liste di sanzioni del Consiglio di sicurezza delle Nazioni Unite, in vigore dal 4 mar. 2016 ([RU 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
+[^sec3-1]: Nuovo testo giusta la cifra I n. 11 dell’O del 4 mar. 2016 sul recepimento automatico delle liste di sanzioni del Consiglio di sicurezza delle Nazioni Unite, in vigore dal 4 mar. 2016 ([RU 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
 
 #### Art. 6a
 
@@ -128,7 +128,7 @@ La SEM può concedere deroghe alle persone fisiche di cui all’allegato 2:
 
 Le liste delle persone fisiche, imprese e organizzazioni, emanate o aggiornate dal Consiglio di sicurezza delle Nazioni Unite ovvero dal comitato competente del Consiglio di sicurezza delle Nazioni Unite (allegato 1), sono recepite automaticamente.
 
-[^6a-1]: Introdotto dal n. I 14 dell’O del 19 dic. 2012 sulla modifica della pubblicazione degli allegati alle ordinanze sugli embarghi ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)). Nuovo testo giusta il n. I 11 dell’O del 4 mar. 2016 sul recepimento automatico delle liste di sanzioni del Consiglio di sicurezza delle Nazioni Unite, in vigore dal 4 mar. 2016 ([RU 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
+[^6a-1]: Introdotto dalla cifra I n. 14 dell’O del 19 dic. 2012 sulla modifica della pubblicazione degli allegati alle ordinanze sugli embarghi ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)). Nuovo testo giusta la cifra I n. 11 dell’O del 4 mar. 2016 sul recepimento automatico delle liste di sanzioni del Consiglio di sicurezza delle Nazioni Unite, in vigore dal 4 mar. 2016 ([RU 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
 
 #### Art. 6b
 
@@ -136,7 +136,7 @@ Le liste delle persone fisiche, imprese e organizzazioni, emanate o aggiornate d
 
 Le voci secondo gli allegati 1 e 2 non sono pubblicate né nella Raccolta ufficiale delle leggi federali (RU) né nella Raccolta sistematica del diritto federale (RS).
 
-[^6b-1]: Introdotto dal n. I 11 dell’O del 4 mar. 2016 sul recepimento automatico delle liste di sanzioni del Consiglio di sicurezza delle Nazioni Unite, in vigore dal 4 mar. 2016 ([RU 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
+[^6b-1]: Introdotto dal n. I n. 11 dell’O del 4 mar. 2016 sul recepimento automatico delle liste di sanzioni del Consiglio di sicurezza delle Nazioni Unite, in vigore dal 4 mar. 2016 ([RU 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)).
 
 #### Art. 7
 
@@ -144,7 +144,7 @@ Le voci secondo gli allegati 1 e 2 non sono pubblicate né nella Raccolta uffici
 
 La presente ordinanza entra in vigore il 2 giugno 2012.
 
-[^7-1]: Introdotta dal n. I 14 dell’O del 19 dic. 2012 sulla modifica della pubblicazione degli allegati alle ordinanze sugli embarghi, in vigore dal 1° feb. 2013 ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)).
+[^7-1]: Introdotta dalla cifra I n. 14 dell’O del 19 dic. 2012 sulla modifica della pubblicazione degli allegati alle ordinanze sugli embarghi, in vigore dal 1° feb. 2013 ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)).
 
 Allegato 1[^t-1]
 
@@ -154,8 +154,8 @@ Allegato 1[^t-1]
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nuovo testo giusta il n. I 11 dell’O del 4 mar. 2016 sul recepimento automatico delle liste di sanzioni del Consiglio di sicurezza delle Nazioni Unite ([RU 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)). Aggiornato dal n. I dell’O del DEFR del 23 gen. 2023, in vigore dal 24 gen. 2023 alle ore 18.00 ([RU 2023 23](https://fedlex.data.admin.ch/eli/oc/2023/23)).
-[^annex1-lvlu1-1]: Il contenuto dei presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2023/23](https://fedlex.data.admin.ch/eli/oc/2023/23) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-1]: Nuovo testo giusta la cifra I n. 11 dell’O del 4 mar. 2016 sul recepimento automatico delle liste di sanzioni del Consiglio di sicurezza delle Nazioni Unite ([RU 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)). Aggiornato dalle cifre I delle O del DEFR del 23 gen. 2023 ([RU 2023 23](https://fedlex.data.admin.ch/eli/oc/2023/23)) e dell’8 ott. 2024, in vigore dall’8 ott. 2024 alle ore 18.00 ([RU 2024 539](https://fedlex.data.admin.ch/eli/oc/2024/539)).
+[^annex1-lvlu1-1]: Il contenuto dei presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2024/539](https://fedlex.data.admin.ch/eli/oc/2024/539) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
 
 **Nota bene**
 
@@ -174,5 +174,5 @@ Allegato 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Aggiornato dal n. I 14 dell’O del 19 dic. 2012 sulla modifica della pubblicazione degli allegati alle ordinanze sugli embarghi ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)), dal n. I delle O del DEFR del 17 apr. 2013 ([RU 2013 1221](https://fedlex.data.admin.ch/eli/oc/2013/264)), del 23 ago. 2021 ([RU 2021 502](https://fedlex.data.admin.ch/eli/oc/2021/502)) e del 23 gen. 2023, in vigore dal 24 gen. 2023 alle ore 18.00 ([RU 2023 23](https://fedlex.data.admin.ch/eli/oc/2023/23)).
-[^annex2-lvlu1-1]: Il contenuto dei presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo [https://fedlex.data.admin.ch/eli/oc/2023/23](https://fedlex.data.admin.ch/eli/oc/2023/23) &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.
+[^t-2]: Aggiornato dalla cifra I n. 14 dell’O del 19 dic. 2012 sulla modifica della pubblicazione degli allegati alle ordinanze sugli embarghi ([RU 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)), dalle cifre I delle O del DEFR del 17 apr. 2013 ([RU 2013 1221](https://fedlex.data.admin.ch/eli/oc/2013/264)), del 23 ago. 2021 ([RU 2021 502](https://fedlex.data.admin.ch/eli/oc/2021/502)), del 23 gen. 2023 ([RU 2023 23](https://fedlex.data.admin.ch/eli/oc/2023/23)) e dell’8 ott. 2024, in vigore dall’8 ott. 2024 alle ore 18.00 ([RU 2024 539](https://fedlex.data.admin.ch/eli/oc/2024/539)).
+[^annex2-lvlu1-1]: Il contenuto dei presente all. è pubblicato nella RU e nella RS soltanto mediante rimando. Può essere consultato all’indirizzo https://fedlex.data.admin.ch/eli/oc/2024/539 &gt; Informazioni generali &gt; Portata della pubblicazione &gt; Pubblicazione di una parte di testo mediante rimando.

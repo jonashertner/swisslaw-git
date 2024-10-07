@@ -3,18 +3,18 @@ sr: "946.231.138.3"
 title: "Ordonnance du 1<sup>er</sup> juin 2012 instituant des mesures à l'encontre de la Guinée-Bissau"
 eli: "https://fedlex.data.admin.ch/eli/cc/2012/374"
 language: fr
-version: 2024-03-15
+version: 2024-10-08
 adopted: 2012-06-01
 in_force: 2012-06-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/374/20240315/fr/xml/fedlex-data-admin-ch-eli-cc-2012-374-20240315-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2012/374/20240315/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2012/374/20241008/fr/xml/fedlex-data-admin-ch-eli-cc-2012-374-20241008-fr-xml-4.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2012/374/20241008/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
 
 # Ordonnance instituant des mesures à l’encontre de la Guinée-Bissau
 
-du 1<sup>er</sup> juin 2012 (État le 15 mars 2024)
+du 1<sup>er</sup> juin 2012 (État le 8 octobre 2024)
 
 Le Conseil fédéral suisse,
 
@@ -154,8 +154,8 @@ Annexe 1[^t-1]
 
 [^annex1-lvlu1-1]
 
-[^t-1]: Nouvelle teneur selon le ch. I 11 de l’O du 4 mars 2016 sur la reprise automatique des listes de sanctions du Conseil de sécurité des Nations Unies ([RO 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)). Mise à jour par le ch. I de l’O du DEFR du 23 janv. 2023, en vigueur depuis le 24 janv. 2023 à 18 heures ([RO 2023 23](https://fedlex.data.admin.ch/eli/oc/2023/23)).
-[^annex1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/23](https://fedlex.data.admin.ch/eli/oc/2023/23) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-1]: Nouvelle teneur selon le ch. I 11 de l’O du 4 mars 2016 sur la reprise automatique des listes de sanctions du Conseil de sécurité des Nations Unies ([RO 2016 671](https://fedlex.data.admin.ch/eli/oc/2016/131)). Mise à jour par le ch. I des O du DEFR du 23 janv. 2023 ([RO 2023 23](https://fedlex.data.admin.ch/eli/oc/2023/23)) et du 7 oct. 2024, en vigueur depuis le 8 oct. 2024 à 18 heures ([RO 2024 539](https://fedlex.data.admin.ch/eli/oc/2024/539)).
+[^annex1-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: https://fedlex.data.admin.ch/eli/oc/2024/539 &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
 
 **Remarque**
 
@@ -174,5 +174,5 @@ Annexe 2[^t-2]
 
 [^annex2-lvlu1-1]
 
-[^t-2]: Mise à jour par le ch. I 14 de l’O modifiant la publication des annexes aux ordonnances relatives aux embargos du 19 déc. 2012 ([RO 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)), le ch. I de l’O du DEFR du 17 avr. 2013 ([RO 2013 1221](https://fedlex.data.admin.ch/eli/oc/2013/264)), du 23 août 2021 ([RO 2021 502](https://fedlex.data.admin.ch/eli/oc/2021/502)) et du 23 janv. 2023, en vigueur depuis le 24 janv. 2023 à 18 heures ([RO 2023 23](https://fedlex.data.admin.ch/eli/oc/2023/23)).
-[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2023/23](https://fedlex.data.admin.ch/eli/oc/2023/23) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
+[^t-2]: Mise à jour par le ch. I 14 de l’O modifiant la publication des annexes aux ordonnances relatives aux embargos du 19 déc. 2012 ([RO 2013 255](https://fedlex.data.admin.ch/eli/oc/2013/35)), le ch. I des O du DEFR du 17 avr. 2013 ([RO 2013 1221](https://fedlex.data.admin.ch/eli/oc/2013/264)), du 23 août 2021 ([RO 2021 502](https://fedlex.data.admin.ch/eli/oc/2021/502)), du 23 janv. 2023 ([RO 2023 23](https://fedlex.data.admin.ch/eli/oc/2023/23)) et du 7 oct. 2024, en vigueur depuis le 8 oct. 2024 à 18 heures ([RO 2024 539](https://fedlex.data.admin.ch/eli/oc/2024/539)).
+[^annex2-lvlu1-1]: Le contenu de la présente annexe est publié dans le RO et le RS uniquement par renvoi. Il peut être consulté à l’adresse suivante: [https://fedlex.data.admin.ch/eli/oc/2024/539](https://fedlex.data.admin.ch/eli/oc/2024/539) &gt; Informations générales &gt; Étendue de la publication &gt; Publication d’une partie d’un texte sous la forme d’un renvoi.
