@@ -3,11 +3,11 @@ sr: "0.822.728.9"
 title: Übereinkommen Nr. 189 vom 16. Juni 2011 über menschenwürdige Arbeit für Hausangestellte (mit Empfehlung)
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/686"
 language: de
-version: 2020-10-05
+version: 2024-10-10
 adopted: 2011-06-16
 in_force: 2015-11-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/686/20201005/de/xml/fedlex-data-admin-ch-eli-cc-2015-686-20201005-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/686/20201005/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/686/20241010/de/xml/fedlex-data-admin-ch-eli-cc-2015-686-20241010-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/686/20241010/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 12. November 2014
 
 In Kraft getreten für die Schweiz am 12. November 2015
 
-(Stand am 5. Oktober 2020)
+(Stand am 10. Oktober 2024)
 
 [^t-1]: [AS 2015 4073](https://fedlex.data.admin.ch/eli/oc/2015/685)
 
@@ -427,11 +427,13 @@ Die Konferenz nimmt heute, am 16. Juni 2011, die folgende Empfehlung an, die als
 
 [^lvlu28-1]: Die männliche Form schliesst grundsätzlich die weibliche Form mit ein.
 
-Geltungsbereich am 5. Oktober 2020**[^t-2]**
+Geltungsbereich am 10. Oktober 2024[^t-2]
 
 <table>
-<tr><th>Vertragsstaaten</th><th>Ratifikation</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><td>Antigua und Barbuda</td><td>28. Juli</td><td>2021 B</td><td>28. Juli</td><td>2022</td></tr>
 <tr><td>Argentinien</td><td>24. März</td><td>2014</td><td>24. März</td><td>2015</td></tr>
+<tr><td>Barbados</td><td>24. Mai</td><td>2024</td><td>24. Mai</td><td>2025</td></tr>
 <tr><td>Belgien</td><td>10. Juni</td><td>2015</td><td>10. Juni</td><td>2016</td></tr>
 <tr><td>Bolivien</td><td>15. April</td><td>2013</td><td>15. April</td><td>2014</td></tr>
 <tr><td>Brasilien</td><td>31. Januar</td><td>2018</td><td>31. Januar</td><td>2019</td></tr>
@@ -449,8 +451,10 @@ Geltungsbereich am 5. Oktober 2020**[^t-2]**
 <tr><td>Jamaika</td><td>11. Oktober</td><td>2016</td><td>11. Oktober</td><td>2017</td></tr>
 <tr><td>Kolumbien</td><td>9. Mai</td><td>2014</td><td>9. Mai</td><td>2015</td></tr>
 <tr><td>Madagaskar</td><td>11. Juni</td><td>2019</td><td>11. Juni</td><td>2019</td></tr>
+<tr><td>Malta</td><td>14. Mai</td><td>2021 B</td><td>14. Mai</td><td>2021</td></tr>
 <tr><td>Mauritius</td><td>13. September</td><td>2012</td><td>13. September</td><td>2013</td></tr>
 <tr><td>Mexiko</td><td>3. Juli</td><td>2020</td><td>3. Juli</td><td>2021</td></tr>
+<tr><td>Namibia</td><td>9. September</td><td>2020 B</td><td>9. September</td><td>2020</td></tr>
 <tr><td>Nicaragua</td><td>10. Januar</td><td>2013</td><td>10. Januar</td><td>2014</td></tr>
 <tr><td>Panama</td><td>11. Juni</td><td>2015</td><td>11. Juni</td><td>2016</td></tr>
 <tr><td>Paraguay</td><td>7. Mai</td><td>2013</td><td>7. Mai</td><td>2014</td></tr>
@@ -459,8 +463,10 @@ Geltungsbereich am 5. Oktober 2020**[^t-2]**
 <tr><td>Portugal</td><td>17. Juli</td><td>2015</td><td>17. Juli</td><td>2016</td></tr>
 <tr><td>Schweden</td><td>4. April</td><td>2019</td><td>4. April</td><td>2020</td></tr>
 <tr><td>Schweiz</td><td>12. November</td><td>2014</td><td>12. November</td><td>2015</td></tr>
+<tr><td>Seychellen</td><td>22. Januar</td><td>2024</td><td>22. Februar</td><td>2025</td></tr>
+<tr><td>Spanien</td><td>28. Februar</td><td>2023</td><td>28. Februar</td><td>2024</td></tr>
 <tr><td>Südafrika</td><td>20. Juni</td><td>2013</td><td>20. Juni</td><td>2014</td></tr>
 <tr><td>Uruguay</td><td>14. Juni</td><td>2012</td><td>5. September</td><td>2013</td></tr>
 </table>
 
-[^t-2]: [AS 2015 4075](https://fedlex.data.admin.ch/eli/oc/2015/686), [2019 1563](https://fedlex.data.admin.ch/eli/oc/2019/292), [2020 4345](https://fedlex.data.admin.ch/eli/oc/2020/776). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2015 4075](https://fedlex.data.admin.ch/eli/oc/2015/686); [2019 1563](https://fedlex.data.admin.ch/eli/oc/2019/292); [2020 4345](https://fedlex.data.admin.ch/eli/oc/2020/776); [2024 563](https://fedlex.data.admin.ch/eli/oc/2024/563). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

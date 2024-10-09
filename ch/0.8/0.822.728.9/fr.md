@@ -3,11 +3,11 @@ sr: "0.822.728.9"
 title: "Convention n<sup>o</sup> 189 du 16 juin 2011 concernant le travail décent des travailleuses et travailleurs domestiques (avec recommandation)"
 eli: "https://fedlex.data.admin.ch/eli/cc/2015/686"
 language: fr
-version: 2020-10-05
+version: 2024-10-10
 adopted: 2011-06-16
 in_force: 2015-11-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/686/20201005/fr/xml/fedlex-data-admin-ch-eli-cc-2015-686-20201005-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2015/686/20201005/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2015/686/20241010/fr/xml/fedlex-data-admin-ch-eli-cc-2015-686-20241010-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2015/686/20241010/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 12 novembre 2014
 
 Entrée en vigueur pour la Suisse le 12 novembre 2015
 
-(Etat le 5 octobre 2020)
+(État le 10 octobre 2024)
 
 [^t-1]: [RO 2015 4073](https://fedlex.data.admin.ch/eli/oc/2015/685)
 
@@ -423,13 +423,15 @@ c) le taux auquel les heures de disponibilité devraient être rémunérées.
   - a) d’adopter pour le personnel diplomatique des politiques et des codes de conduite destinés à prévenir la violation des droits des travailleurs domestiques;
   - b) de coopérer entre eux aux niveaux bilatéral, régional et multilatéral pour aborder la question des pratiques abusives à l’encontre des travailleurs domestiques et prévenir ces pratiques.
 
-Champ d’application le 5 octobre 2020**[^t-2]**
+Champ d’application le 10 octobre 2024[^t-2]
 
 <table>
-<tr><th>États parties</th><th>Ratification</th><th></th><th>Entrée en vigueur</th><th></th></tr>
+<tr><th>États parties</th><th>Ratification Adhésion (A)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
 <tr><td>Afrique du Sud</td><td>20 juin</td><td>2013</td><td>20 juin</td><td>2014</td></tr>
 <tr><td>Allemagne</td><td>20 septembre</td><td>2012</td><td>20 septembre</td><td>2014</td></tr>
+<tr><td>Antigua-et-Barbuda</td><td>28 juillet</td><td>2021 A</td><td>28 juillet</td><td>2022</td></tr>
 <tr><td>Argentine</td><td>24 mars</td><td>2014</td><td>24 mars</td><td>2015</td></tr>
+<tr><td>Barbade</td><td>24 mai</td><td>2024</td><td>24 mai</td><td>2025</td></tr>
 <tr><td>Belgique</td><td>10 juin</td><td>2015</td><td>10 juin</td><td>2016</td></tr>
 <tr><td>Bolivie</td><td>15 avril</td><td>2013</td><td>15 avril</td><td>2014</td></tr>
 <tr><td>Brésil</td><td>31 janvier</td><td>2018</td><td>31 janvier</td><td>2019</td></tr>
@@ -437,6 +439,7 @@ Champ d’application le 5 octobre 2020**[^t-2]**
 <tr><td>Colombie</td><td>9 mai</td><td>2014</td><td>9 mai</td><td>2015</td></tr>
 <tr><td>Costa Rica</td><td>20 janvier</td><td>2014</td><td>20 janvier</td><td>2015</td></tr>
 <tr><td>Équateur</td><td>18 décembre</td><td>2013</td><td>18 décembre</td><td>2014</td></tr>
+<tr><td>Espagne</td><td>28 février</td><td>2023</td><td>28 février</td><td>2024</td></tr>
 <tr><td>Finlande</td><td>8 janvier</td><td>2015</td><td>8 janvier</td><td>2016</td></tr>
 <tr><td>Grenade</td><td>12 novembre</td><td>2018</td><td>12 novembre</td><td>2019</td></tr>
 <tr><td>Guinée</td><td>25 avril</td><td>2017</td><td>25 avril</td><td>2018</td></tr>
@@ -445,18 +448,21 @@ Champ d’application le 5 octobre 2020**[^t-2]**
 <tr><td>Italie</td><td>22 janvier</td><td>2013</td><td>22 janvier</td><td>2014</td></tr>
 <tr><td>Jamaïque</td><td>11 octobre</td><td>2016</td><td>11 octobre</td><td>2017</td></tr>
 <tr><td>Madagascar</td><td>11 juin</td><td>2019</td><td>11 juin</td><td>2019</td></tr>
+<tr><td>Malte</td><td>14 mai</td><td>2021 A</td><td>14 mai</td><td>2021</td></tr>
 <tr><td>Maurice</td><td>13 septembre</td><td>2012</td><td>13 septembre</td><td>2013</td></tr>
 <tr><td>Mexique</td><td>3 juillet</td><td>2020</td><td>3 juillet</td><td>2021</td></tr>
+<tr><td>Namibie</td><td>9 septembre</td><td>2020 A</td><td>9 septembre</td><td>2020</td></tr>
 <tr><td>Nicaragua</td><td>10 janvier</td><td>2013</td><td>10 janvier</td><td>2014</td></tr>
 <tr><td>Panama</td><td>11 juin</td><td>2015</td><td>11 juin</td><td>2016</td></tr>
 <tr><td>Paraguay</td><td>7 mai</td><td>2013</td><td>7 mai</td><td>2014</td></tr>
 <tr><td>Pérou</td><td>26 novembre</td><td>2018</td><td>26 novembre</td><td>2019</td></tr>
-<tr><td>Portugal</td><td>17 juillet</td><td>2015</td><td>17 juillet</td><td>2016</td></tr>
 <tr><td>Philippines</td><td>5 septembre</td><td>2012</td><td>5 septembre</td><td>2013</td></tr>
+<tr><td>Portugal</td><td>17 juillet</td><td>2015</td><td>17 juillet</td><td>2016</td></tr>
 <tr><td>République dominicaine</td><td>15 mai</td><td>2015</td><td>15 mai</td><td>2016</td></tr>
+<tr><td>Seychelles</td><td>22 janvier</td><td>2024</td><td>22 février</td><td>2025</td></tr>
 <tr><td>Suède</td><td>4 avril</td><td>2019</td><td>4 avril</td><td>2020</td></tr>
 <tr><td>Suisse</td><td>12 novembre</td><td>2014</td><td>12 novembre</td><td>2015</td></tr>
 <tr><td>Uruguay</td><td>14 juin</td><td>2012</td><td>5 septembre</td><td>2013</td></tr>
 </table>
 
-[^t-2]: [RO 2015 4075](https://fedlex.data.admin.ch/eli/oc/2015/686), [2019 1563](https://fedlex.data.admin.ch/eli/oc/2019/292)et **2020** 4345. Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-2]: [RO 2015 4075](https://fedlex.data.admin.ch/eli/oc/2015/686); [2019 1563](https://fedlex.data.admin.ch/eli/oc/2019/292); [2020 4345](https://fedlex.data.admin.ch/eli/oc/2020/776); [2024 563](https://fedlex.data.admin.ch/eli/oc/2024/563). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
