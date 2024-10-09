@@ -3,11 +3,11 @@ sr: "0.822.724.4"
 title: Übereinkommen Nr. 144 vom 21. Juni 1976 über dreigliedrige Beratungen zur Förderung der Durchführung internationaler Arbeitsnormen
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/253"
 language: de
-version: 2020-09-08
+version: 2024-10-10
 adopted: 1976-06-21
 in_force: 2001-06-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/253/20200908/de/xml/fedlex-data-admin-ch-eli-cc-2003-253-20200908-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/253/20200908/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/253/20241010/de/xml/fedlex-data-admin-ch-eli-cc-2003-253-20241010-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/253/20241010/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -26,7 +26,7 @@ Ratifikationsurkunde von der Schweiz hinterlegt am 28. Juni 2000
 
 In Kraft getreten für die Schweiz am 28. Juni 2001
 
-(Stand am 8. September 2020)
+(Stand am 10. Oktober 2024)
 
 [^t-1]: Art. 1 Abs. 1 Bst. a des BB vom 9. März 2000 ([AS 2003 926](https://fedlex.data.admin.ch/eli/oc/2003/167))
 
@@ -136,10 +136,10 @@ Der französische und der englische Wortlaut dieses Übereinkommens sind in glei
 
 (Es folgen die Unterschriften)
 
-Geltungsbereich am 8. September 2020**[^t-2]**
+Geltungsbereich am 10. Oktober 2024[^t-2]
 
 <table>
-<tr><th>Vertragsstaaten</th><th>Ratifikation Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
+<tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
 <tr><td>Afghanistan</td><td>7. April</td><td>2010</td><td>7. April</td><td>2011</td></tr>
 <tr><td>Ägypten</td><td>25. März</td><td>1982</td><td>25. März</td><td>1983</td></tr>
 <tr><td>Albanien</td><td>30. Juni</td><td>1999</td><td>30. Juni</td><td>2000</td></tr>
@@ -168,7 +168,6 @@ Geltungsbereich am 8. September 2020**[^t-2]**
 <tr><td>China</td><td>2. November</td><td>1990</td><td>2. November</td><td>1991</td></tr>
 <tr><td>Hongkong\* <sup>a</sup></td><td>6. Juni</td><td>1997</td><td>1. Juli</td><td>1997</td></tr>
 <tr><td>Macau <sup>b</sup></td><td>20. Dezember</td><td>1999</td><td>20. Dezember</td><td>1999</td></tr>
-<tr><td>Cook-Inseln</td><td>15. August</td><td>2018</td><td>15. August</td><td>2019</td></tr>
 <tr><td>Costa Rica</td><td>29. Juli</td><td>1981</td><td>29. Juli</td><td>1982</td></tr>
 <tr><td>Côte d’Ivoire</td><td>5. Juni</td><td>1987</td><td>5. Juni</td><td>1988</td></tr>
 <tr><td>Dänemark\*</td><td>6. Juni</td><td>1978</td><td>6. Juni</td><td>1979</td></tr>
@@ -244,6 +243,7 @@ Geltungsbereich am 8. September 2020**[^t-2]**
 <tr><td>Namibia</td><td>3. Januar</td><td>1995</td><td>3. Januar</td><td>1996</td></tr>
 <tr><td>Nepal</td><td>21. März</td><td>1995</td><td>21. März</td><td>1996</td></tr>
 <tr><td>Neuseeland\*</td><td>5. Juni</td><td>1987</td><td>5. Juni</td><td>1988</td></tr>
+<tr><td>Cook-Inseln</td><td>15. August</td><td>2018</td><td>15. August</td><td>2019</td></tr>
 <tr><td>Nicaragua</td><td>1. Oktober</td><td>1981</td><td>1. Oktober</td><td>1982</td></tr>
 <tr><td>Niederlande</td><td>27. Juli</td><td>1978</td><td>27. Juli</td><td>1979</td></tr>
 <tr><td>Aruba</td><td>6. August</td><td>1986</td><td>6. August</td><td>1986</td></tr>
@@ -280,10 +280,12 @@ Geltungsbereich am 8. September 2020**[^t-2]**
 <tr><td>St. Kitts und Nevis</td><td>12. Oktober</td><td>2000</td><td>12. Oktober</td><td>2001</td></tr>
 <tr><td>St. Vincent und die Grenadinen</td><td>9. November</td><td>2010</td><td>9. November</td><td>2011</td></tr>
 <tr><td>Südafrika</td><td>18. Februar</td><td>2003</td><td>18. Februar</td><td>2004</td></tr>
+<tr><td>Sudan</td><td>17. März</td><td>2021 B</td><td>17. März</td><td>2022</td></tr>
 <tr><td>Suriname</td><td>16. November</td><td>1979</td><td>16. November</td><td>1980</td></tr>
 <tr><td>Syrien</td><td>28. Mai</td><td>1985</td><td>28. Mai</td><td>1986</td></tr>
 <tr><td>Tadschikistan</td><td>23. Januar</td><td>2014</td><td>23. Januar</td><td>2015</td></tr>
 <tr><td>Tansania</td><td>30. Mai</td><td>1983</td><td>30. Mai</td><td>1984</td></tr>
+<tr><td>Thailand</td><td>12. Juni</td><td>2024</td><td>12. Juni</td><td>2025</td></tr>
 <tr><td>Togo</td><td>8. November</td><td>1983</td><td>8. November</td><td>1984</td></tr>
 <tr><td>Trinidad und Tobago</td><td>7. Juni</td><td>1995</td><td>7. Juni</td><td>1996</td></tr>
 <tr><td>Tschad</td><td>7. Januar</td><td>1998</td><td>7. Januar</td><td>1999</td></tr>
@@ -307,7 +309,7 @@ Geltungsbereich am 8. September 2020**[^t-2]**
 <tr><td>Vietnam</td><td>9. Juni</td><td>2008</td><td>9. Juni</td><td>2009</td></tr>
 <tr><td>Zentralafrikanische Republik</td><td>5. Juni</td><td>2006</td><td>5. Juni</td><td>2007</td></tr>
 <tr><td>Zypern</td><td>28. Juni</td><td>1977</td><td>28. Juni</td><td>1978</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Internationale Arbeitsorganisation: www.ilo.org &gt; Français &gt; Normes du travail &gt; NORMLEX &gt; Instruments &gt; Conventions et recommandations à jour eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Anwendung mit Änderungen. <sup>b</sup> Anwendung ohne Änderungen.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Internationale Arbeitsorganisation: [www.ilo.org](http://www.ilo.org/) &gt; Français &gt; Normes du travail &gt; NORMLEX &gt; Instruments &gt; Conventions et recommandations à jour eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Anwendung mit Änderungen. <sup>b</sup> Anwendung ohne Änderungen.</td></tr>
 </table>
 
-[^t-2]: [AS 2003 1620](https://fedlex.data.admin.ch/eli/oc/2003/253), [2005 4447](https://fedlex.data.admin.ch/eli/oc/2005/576), [2008 33](https://fedlex.data.admin.ch/eli/oc/2008/14), [2010 3539](https://fedlex.data.admin.ch/eli/oc/2010/506), [2013 409](https://fedlex.data.admin.ch/eli/oc/2013/75), [2015 2735](https://fedlex.data.admin.ch/eli/oc/2015/515), [2018 3039](https://fedlex.data.admin.ch/eli/oc/2018/479), [2019 3521](https://fedlex.data.admin.ch/eli/oc/2019/645)und [2020 3819](https://fedlex.data.admin.ch/eli/oc/2020/706). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2003 1620](https://fedlex.data.admin.ch/eli/oc/2003/253); [2005 4447](https://fedlex.data.admin.ch/eli/oc/2005/576); [2008 33](https://fedlex.data.admin.ch/eli/oc/2008/14); [2010 3539](https://fedlex.data.admin.ch/eli/oc/2010/506); [2013 409](https://fedlex.data.admin.ch/eli/oc/2013/75); [2015 2735](https://fedlex.data.admin.ch/eli/oc/2015/515); [2018 3039](https://fedlex.data.admin.ch/eli/oc/2018/479); [2019 3521](https://fedlex.data.admin.ch/eli/oc/2019/645); [2020 3819](https://fedlex.data.admin.ch/eli/oc/2020/706); [2024 562](https://fedlex.data.admin.ch/eli/oc/2024/562). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).

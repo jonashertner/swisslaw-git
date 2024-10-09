@@ -3,11 +3,11 @@ sr: "0.822.724.4"
 title: "Convenzione n. 144 del 21 giugno 1976 concernente le consultazioni tripartite destinate a promuovere l'attuazione di norme internazionali del lavoro"
 eli: "https://fedlex.data.admin.ch/eli/cc/2003/253"
 language: it
-version: 2020-09-08
+version: 2024-10-10
 adopted: 1976-06-21
 in_force: 2001-06-28
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/253/20200908/it/xml/fedlex-data-admin-ch-eli-cc-2003-253-20200908-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2003/253/20200908/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2003/253/20241010/it/xml/fedlex-data-admin-ch-eli-cc-2003-253-20241010-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2003/253/20241010/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **2003** 1620; FF **2000** 277
 
 Traduzione
 
-Conclusa a Ginevra il 21 giugno 1976
+Conclusa a Ginevra il 21 giugno 1976 Approvata dall’Assemblea federale il 9 marzo 2000[^t-1] Ratificata dalla Svizzera con strumenti scambiati il 28 giugno 2000 Entrata in vigore per la Svizzera il 28 giugno 2001
 
-Approvata dall’Assemblea federale il 9 marzo 2000[^t-1]
-
-Ratificata dalla Svizzera con strumenti scambiati il 28 giugno 2000
-
-Entrata in vigore per la Svizzera il 28 giugno 2001
-
-(Stato 8 settembre 2020)
+(Stato 10 ottobre 2024)
 
 [^t-1]: Art. 1 cpv. 1 lett. a del DF del 9 mar. 2000 ([RU 2003 926](https://fedlex.data.admin.ch/eli/oc/2003/167)).
 
@@ -138,10 +132,10 @@ I testi francese e inglese della presente Convenzione fanno parimenti fede.
 
 (Seguono le firme)
 
-Campo d’applicazione l’8 settembre 2020**[^t-2]**
+Campo d’applicazione il 10 ottobre 2024[^t-2]
 
 <table>
-<tr><th>Stati partecipanti</th><th>Ratifica Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
 <tr><td>Afghanistan</td><td>7 aprile</td><td>2010</td><td>7 aprile</td><td>2011</td></tr>
 <tr><td>Albania</td><td>30 giugno</td><td>1999</td><td>30 giugno</td><td>2000</td></tr>
 <tr><td>Algeria</td><td>12 luglio</td><td>1993</td><td>12 luglio</td><td>1994</td></tr>
@@ -179,7 +173,6 @@ Campo d’applicazione l’8 settembre 2020**[^t-2]**
 <tr><td>Comore</td><td>6 giugno</td><td>2014</td><td>6 giugno</td><td>2015</td></tr>
 <tr><td>Congo (Brazzaville)</td><td>26 novembre</td><td>1999</td><td>26 novembre</td><td>2000</td></tr>
 <tr><td>Congo (Kinshasa)</td><td>20 giugno</td><td>2001</td><td>20 giugno</td><td>2002</td></tr>
-<tr><td>Cook, Isole</td><td>15 agosto</td><td>2018</td><td>15 agosto</td><td>2019</td></tr>
 <tr><td>Corea (Sud)</td><td>15 novembre</td><td>1999</td><td>15 novembre</td><td>2000</td></tr>
 <tr><td>Costa Rica</td><td>29 luglio</td><td>1981</td><td>29 luglio</td><td>1982</td></tr>
 <tr><td>Côte d’Ivoire</td><td>5 giugno</td><td>1987</td><td>5 giugno</td><td>1988</td></tr>
@@ -255,6 +248,7 @@ Campo d’applicazione l’8 settembre 2020**[^t-2]**
 <tr><td>Nigeria</td><td>3 maggio</td><td>1994</td><td>3 maggio</td><td>1995</td></tr>
 <tr><td>Norvegia</td><td>9 agosto</td><td>1977</td><td>9 agosto</td><td>1978</td></tr>
 <tr><td>Nuova Zelanda<sup>\*</sup></td><td>5 giugno</td><td>1987</td><td>5 giugno</td><td>1988</td></tr>
+<tr><td>Cook, Isole</td><td>15 agosto</td><td>2018</td><td>15 agosto</td><td>2019</td></tr>
 <tr><td>Paesi Bassi</td><td>27 luglio</td><td>1978</td><td>27 luglio</td><td>1979</td></tr>
 <tr><td>Aruba</td><td>6 agosto</td><td>1986</td><td>6 agosto</td><td>1986</td></tr>
 <tr><td>Pakistan</td><td>25 ottobre</td><td>1994</td><td>25 ottobre</td><td>1995</td></tr>
@@ -290,11 +284,13 @@ Campo d’applicazione l’8 settembre 2020**[^t-2]**
 <tr><td>Samoa americane <sup>b</sup></td><td>28 febbraio</td><td>1989</td><td>15 giugno</td><td>1989</td></tr>
 <tr><td>Territorio sotto tutela delle Isole del Pacifico <sup>b</sup></td><td>28 febbraio</td><td>1989</td><td>15 giugno</td><td>1989</td></tr>
 <tr><td>Sudafrica</td><td>18 febbraio</td><td>2003</td><td>18 febbraio</td><td>2004</td></tr>
+<tr><td>Sudan</td><td>17 marzo</td><td>2021 A</td><td>17 marzo</td><td>2022</td></tr>
 <tr><td>Suriname</td><td>16 novembre</td><td>1979</td><td>16 novembre</td><td>1980</td></tr>
 <tr><td>Svezia</td><td>16 maggio</td><td>1977</td><td>16 maggio</td><td>1978</td></tr>
 <tr><td>Svizzera</td><td>28 giugno</td><td>2000</td><td>28 giugno</td><td>2001</td></tr>
 <tr><td>Tagikistan</td><td>23 gennaio</td><td>2014</td><td>23 gennaio</td><td>2015</td></tr>
 <tr><td>Tanzania</td><td>30 maggio</td><td>1983</td><td>30 maggio</td><td>1984</td></tr>
+<tr><td>Thailandia</td><td>12 giugno</td><td>2024</td><td>12 giugno</td><td>2025</td></tr>
 <tr><td>Togo</td><td>8 novembre</td><td>1983</td><td>8 novembre</td><td>1984</td></tr>
 <tr><td>Trinidad e Tobago</td><td>7 giugno</td><td>1995</td><td>7 giugno</td><td>1996</td></tr>
 <tr><td>Turchia</td><td>12 luglio</td><td>1993</td><td>12 luglio</td><td>1994</td></tr>
@@ -309,9 +305,9 @@ Campo d’applicazione l’8 settembre 2020**[^t-2]**
 <tr><td>Yemen</td><td>15 giugno</td><td>2000</td><td>15 giugno</td><td>2001</td></tr>
 <tr><td>Zambia</td><td>4 dicembre</td><td>1978</td><td>4 dicembre</td><td>1979</td></tr>
 <tr><td>Zimbabwe</td><td>14 dicembre</td><td>1989</td><td>14 dicembre</td><td>1990</td></tr>
-<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet dell' Organizzazione Internazionale del Lavoro: www.ilo.org &gt; Français &gt; Normes du travail &gt; NORMLEX &gt; Instruments &gt; Conventions et recommandations à jour, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5"><sup>\*</sup> Riserve e dichiarazioni. Le riserve e le dichiarazioni non sono pubblicate nella RU. I testi, francese ed inglese, possono essere consultati sul sito Internet dell’ Organizzazione Internazionale del Lavoro: [www.ilo.org](http://www.ilo.org) &gt; Français &gt; Normes &gt; Consulter les normes internationales du travail &gt; NORMLEX, oppure ottenuti presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna</td></tr>
 <tr><td colspan="5"><sup>a</sup> Applicabile con mod.</td></tr>
 <tr><td colspan="5"><sup>b</sup> Applicabile senza mod.</td></tr>
 </table>
 
-[^t-2]: [RU 2003 1620](https://fedlex.data.admin.ch/eli/oc/2003/253), [2005 4447](https://fedlex.data.admin.ch/eli/oc/2005/576), [2008 33](https://fedlex.data.admin.ch/eli/oc/2008/14), [2010 3539](https://fedlex.data.admin.ch/eli/oc/2010/506), [2013 409](https://fedlex.data.admin.ch/eli/oc/2013/75), [2015 2735](https://fedlex.data.admin.ch/eli/oc/2015/515), [2018 3039](https://fedlex.data.admin.ch/eli/oc/2018/479), [2019 3521](https://fedlex.data.admin.ch/eli/oc/2019/645)e [2020 3819](https://fedlex.data.admin.ch/eli/oc/2020/706). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 2003 1620](https://fedlex.data.admin.ch/eli/oc/2003/253); [2005 4447](https://fedlex.data.admin.ch/eli/oc/2005/576); [2008 33](https://fedlex.data.admin.ch/eli/oc/2008/14); [2010 3539](https://fedlex.data.admin.ch/eli/oc/2010/506); [2013 409](https://fedlex.data.admin.ch/eli/oc/2013/75); [2015 2735](https://fedlex.data.admin.ch/eli/oc/2015/515); [2018 3039](https://fedlex.data.admin.ch/eli/oc/2018/479); [2019 3521](https://fedlex.data.admin.ch/eli/oc/2019/645); [2020 3819](https://fedlex.data.admin.ch/eli/oc/2020/706); [2024 562](https://fedlex.data.admin.ch/eli/oc/2024/562). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
