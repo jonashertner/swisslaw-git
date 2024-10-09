@@ -3,11 +3,11 @@ sr: "0.203"
 title: Protocollo del 25 settembre 1950 relativo alla Commissione internazionale dello Stato civile (con Protocollo add.)
 eli: "https://fedlex.data.admin.ch/eli/cc/1974/1385_1385_1385"
 language: it
-version: 2024-09-26
+version: 2024-10-10
 adopted: 1950-09-25
 in_force: 1950-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/1385_1385_1385/20240926/it/xml/fedlex-data-admin-ch-eli-cc-1974-1385_1385_1385-20240926-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1974/1385_1385_1385/20240926/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/1385_1385_1385/20241010/it/xml/fedlex-data-admin-ch-eli-cc-1974-1385_1385_1385-20241010-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1974/1385_1385_1385/20241010/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -20,7 +20,7 @@ Traduzione
 
 Concluso a Berna il 25 settembre 1950 Entrato in vigore per la Svizzera il 1° ottobre 1950
 
-(Stato 26 settembre 2024)
+(Stato 10 ottobre 2024)
 
 Le Alte Parti Contraenti,
 
@@ -48,17 +48,18 @@ Le Alte Parti Contraenti comunicano alle autorità competenti dei loro paesi ris
 
 *In fede di che,* i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato il presente Protocollo che verrà depositato negli archivi della Confederazione Svizzera e del quale una copia, certificata conforme, verrà consegnata, per via diplomatica, a ciascuna delle Alte Parti Contraenti. Fatto a Berna, il 25 settembre 1950. (Seguono le firme)
 
-Campo d’applicazione il 26 settembre 2024[^t-1]
+Campo d’applicazione il 10 ottobre 2024[^t-1]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Firmato senza riserva di ratificazione (F)</th><th></th><th>Entrata in vigore</th><th></th></tr>
+<tr><td>Belgio</td><td>14 giugno</td><td>2017 F</td><td>14 dicembre</td><td>2017</td></tr>
 <tr><td>Lussemburgo</td><td>25 settembre</td><td>1950 F</td><td>1° ottobre</td><td>1950</td></tr>
 <tr><td>Spagna</td><td>13 settembre</td><td>1974 A</td><td>13 ottobre</td><td>1974</td></tr>
 <tr><td>Svizzera</td><td>25 settembre</td><td>1950 F</td><td>1° ottobre</td><td>1950</td></tr>
 <tr><td>Turchia</td><td>24 settembre</td><td>1953 A</td><td>23 dicembre</td><td>1953</td></tr>
 </table>
 
-[^t-1]: [RU 1974 1385](https://fedlex.data.admin.ch/eli/oc/1974/1385_1385_1385);[1976 1942](https://fedlex.data.admin.ch/eli/oc/1976/1942_1942_1942); [2001 2516](https://fedlex.data.admin.ch/eli/oc/2001/373); [2009 2651](https://fedlex.data.admin.ch/eli/oc/2009/358); [2013 1317](https://fedlex.data.admin.ch/eli/oc/2013/302); [2015 1071](https://fedlex.data.admin.ch/eli/oc/2015/210); [2019 2177](https://fedlex.data.admin.ch/eli/oc/2019/400); [2024 529](https://fedlex.data.admin.ch/eli/oc/2024/529). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
+[^t-1]: [RU 1974 1385](https://fedlex.data.admin.ch/eli/oc/1974/1385_1385_1385);[1976 1942](https://fedlex.data.admin.ch/eli/oc/1976/1942_1942_1942); [2001 2516](https://fedlex.data.admin.ch/eli/oc/2001/373); [2009 2651](https://fedlex.data.admin.ch/eli/oc/2009/358); [2013 1317](https://fedlex.data.admin.ch/eli/oc/2013/302); [2015 1071](https://fedlex.data.admin.ch/eli/oc/2015/210); [2019 2177](https://fedlex.data.admin.ch/eli/oc/2019/400); [2024 529](https://fedlex.data.admin.ch/eli/oc/2024/529); [2024 550](https://fedlex.data.admin.ch/eli/oc/2024/550). Una versione aggiornata del campo d’applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty)
 
 Protocollo addizionale
 

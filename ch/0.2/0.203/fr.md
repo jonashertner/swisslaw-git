@@ -3,11 +3,11 @@ sr: "0.203"
 title: "Protocole du 25 septembre 1950 relatif à la Commission internationale de l'état civil (avec prot. add.)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1974/1385_1385_1385"
 language: fr
-version: 2024-09-26
+version: 2024-10-10
 adopted: 1950-09-25
 in_force: 1950-10-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/1385_1385_1385/20240926/fr/xml/fedlex-data-admin-ch-eli-cc-1974-1385_1385_1385-20240926-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1974/1385_1385_1385/20240926/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1974/1385_1385_1385/20241010/fr/xml/fedlex-data-admin-ch-eli-cc-1974-1385_1385_1385-20241010-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1974/1385_1385_1385/20241010/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -20,7 +20,7 @@ Texte original
 
 Conclu à Berne le 25 septembre 1950 Entré en vigueur pour la Suisse le 1<sup>er</sup> octobre 1950
 
-(État le 26 septembre 2024)
+(État le 10 octobre 2024)
 
 Les Hautes Parties Contractantes,
 
@@ -48,17 +48,18 @@ Les Hautes Parties Contractantes feront parvenir aux autorités compétentes de 
 
 *En foi de quoi,* les soussignés, dûment autorisés à cet effet, ont signé le présent Protocole, qui sera déposé aux archives de la Confédération Suisse et dont une copie, certifiée conforme, sera remise par la voie diplomatique à chacune des Hautes Parties Contractantes. Fait à Berne, le 25 septembre 1950. (Suivent les signatures)
 
-Champ d’application le 26 septembre 2024[^t-1]
+Champ d’application le 10 octobre 2024[^t-1]
 
 <table>
 <tr><th>États parties</th><th colspan="2">Ratification Signature sans réserve de ratification (Si) Adhésion (A)</th><th colspan="2">Entrée en vigueur</th></tr>
+<tr><td>Belgique</td><td>25 septembre</td><td>1950 Si</td><td>1<sup>er</sup> octobre</td><td>1950</td></tr>
 <tr><td>Espagne</td><td>13 septembre</td><td>1974 A</td><td>13 octobre</td><td>1974</td></tr>
 <tr><td>Luxembourg</td><td>25 septembre</td><td>1950 Si</td><td>1<sup>er</sup> octobre</td><td>1950</td></tr>
 <tr><td>Suisse</td><td>25 septembre</td><td>1950 Si</td><td>1<sup>er</sup> octobre</td><td>1950</td></tr>
 <tr><td>Turquie</td><td>24 septembre</td><td>1953 A</td><td>24 décembre</td><td>1953</td></tr>
 </table>
 
-[^t-1]: [RO 1974 1385](https://fedlex.data.admin.ch/eli/oc/1974/1385_1385_1385);[1976 1942](https://fedlex.data.admin.ch/eli/oc/1976/1942_1942_1942); [2001 2516](https://fedlex.data.admin.ch/eli/oc/2001/373); [2009 2651](https://fedlex.data.admin.ch/eli/oc/2009/358); [2013 1317](https://fedlex.data.admin.ch/eli/oc/2013/302); [2015 1071](https://fedlex.data.admin.ch/eli/oc/2015/210); [2019 2177](https://fedlex.data.admin.ch/eli/oc/2019/400); [2024 529](https://fedlex.data.admin.ch/eli/oc/2024/529). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
+[^t-1]: [RO 1974 1385](https://fedlex.data.admin.ch/eli/oc/1974/1385_1385_1385);[1976 1942](https://fedlex.data.admin.ch/eli/oc/1976/1942_1942_1942); [2001 2516](https://fedlex.data.admin.ch/eli/oc/2001/373); [2009 2651](https://fedlex.data.admin.ch/eli/oc/2009/358); [2013 1317](https://fedlex.data.admin.ch/eli/oc/2013/302); [2015 1071](https://fedlex.data.admin.ch/eli/oc/2015/210); [2019 2177](https://fedlex.data.admin.ch/eli/oc/2019/400); [2024 529](https://fedlex.data.admin.ch/eli/oc/2024/529), [550](https://fedlex.data.admin.ch/eli/oc/2024/550). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty)
 
 Protocole additionnel
 
