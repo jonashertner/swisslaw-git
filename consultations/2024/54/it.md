@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modifica dell’ordinanza sulla pianificazione del territorio (attuazione della seconda fase della revisione parziale della legge sulla pianificazione del territorio [LPT 2] e della legge federale su un approvvigionamento elettrico sicuro con le energie rinnovabili)"
 document: Progetto posto in consultazione
 language: it

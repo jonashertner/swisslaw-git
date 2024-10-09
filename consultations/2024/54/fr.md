@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Modification de l’ordonnance sur l’aménagement du territoire (mise en œuvre de la deuxième étape de la révision partielle de la loi fédérale sur l’aménagement du territoire [LAT 2] et de la loi fédérale relative à un approvisionnement en électricité sûr reposant sur des énergies renouvelables)"
 document: Projet mis en consultation
 language: fr

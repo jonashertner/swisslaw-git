@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: "Änderung der Raumplanungsverordnung (Umsetzung der zweiten Etappe der Teilrevision des Raumplanungsgesetzes [RPG 2] und des Bundesgesetzes über eine sichere Stromversorgung mit erneuerbaren Energien)"
 document: Vernehmlassungsvorlage
 language: de
