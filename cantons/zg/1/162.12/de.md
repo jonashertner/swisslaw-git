@@ -2,26 +2,28 @@
 canton: ZG
 number: "162.12"
 title: Verordnung über die Kosten im Verfahren vor dem Verwaltungsgericht
-short: Kosten VO
+short: KostenVO
 language: de
-version: 2017-11-11
-valid_until: 2024-10-10
-version_adopted: 2017-10-25
+version: 2024-10-11
+valid_until: 2025-07-17
+version_adopted: 2023-06-28
 adopted: 1977-08-30
 in_force: 1977-08-30
 url: "https://bgs.zg.ch/app/de/texts_of_law/162.12"
-pdf: "https://bgs.zg.ch/api/de/versions/1664/pdf_file"
+pdf: "https://bgs.zg.ch/api/de/versions/2626/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons ZG. Massgebend ist die amtliche Veröffentlichung des Kantons.
 
 # Verordnung über die Kosten im Verfahren vor dem Verwaltungsgericht
 
-Vom 30. August 1977 (Stand 11. November 2017)
+(KostenVO)
+
+Vom 30. August 1977 (Stand 11. Oktober 2024)
 
 Das Verwaltungsgericht des Kantons Zug,
 
-gestützt auf § 22 Absatz 2 des Verwaltungsrechtspflegegesetzes vom 1. April 1976[^ingress-1],
+gestützt auf § 22 Abs. 2 des Gesetzes über den Rechtsschutz in Verwaltungssachen (Verwaltungsrechtspflegegesetz; VRG) vom 1. April 1976[^ingress-1],
 
 beschliesst:
 
@@ -121,7 +123,7 @@ beschliesst:
 
 <sup>3</sup> In ausserordentlichen Fällen setzt das Gericht das Honorar nach den Bemessungsgrundsätzen des Absatzes 2 fest, ohne an die obere Bemessungsgrenze gebunden zu sein.
 
-<sup>4</sup> Das Honorar der unentgeltlichen Rechtsbeiständin oder des unentgeltlichen Rechtsbeistandes wird bei patentierten Anwältinnen und Anwälten in der Regel nach einem Stundenansatz von Fr. 200.– (inklusive Mehrwertsteuer und Barauslagen) berechnet.
+<sup>4</sup> Das Honorar (inklusive Mehrwertsteuer und Barauslagen) der unentgeltlichen Rechtsbeiständin oder des unentgeltlichen Rechtsbeistandes wird bei patentierten Anwältinnen und Anwälten in der Regel nach einem Stundenansatz von Fr. 220.– berechnet.
 
 ## 2a. Kanzleigebühren
 
@@ -156,10 +158,6 @@ beschliesst:
 
 #### § 11
 
-**Inkrafttreten und Veröffentlichung**
-
-<sup>1</sup> Diese Verordnung tritt sofort in Kraft. Sie gilt auch für die bereits hängigen Verfahren.
-
-<sup>2</sup> Sie ist in die Gesetzessammlung aufzunehmen.
+**…**
 
 GS 21, 61
