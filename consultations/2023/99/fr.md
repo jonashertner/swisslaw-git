@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Modification de la loi sur l’infrastructure des marchés financiers et le comportement sur le marché en matière de négociation de valeurs mobilières et de dérivés (LIMF)
 document: Projet mis en consultation
 language: fr
