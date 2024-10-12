@@ -4,11 +4,11 @@ title: "Ordonnance du 15 août 2018 sur l'entrée et l'octroi de visas (OEV)"
 short: OEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: fr
-version: 2024-08-23
+version: 2024-10-13
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20240823/fr/xml/fedlex-data-admin-ch-eli-cc-2018-493-20240823-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20240823/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20241013/fr/xml/fedlex-data-admin-ch-eli-cc-2018-493-20241013-fr-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20241013/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20240823/fr"
 
 (OEV)
 
-du 15 août 2018 (État le 23 août 2024)
+du 15 août 2018 (État le 13 octobre 2024)
 
 Le Conseil fédéral suisse,
 
@@ -263,8 +263,8 @@ En dérogation à l’al. 3, les séjours en vue de l’exercice d’une activit
 
 <sup>5</sup> Le Département fédéral de justice et police (DFJP) adapte l’annexe 3 dès que la Suisse est informée de la conclusion d’un accord sur la levée de l’obligation de visa entre l’UE et l’un des États ou l’une des entités territoriales énumérés à l’annexe II du règlement (UE) 2018/1806.[^8-13]
 
-[^8-1]: Règlement (UE) 2018/1806 du Parlement européen et du Conseil du 14 novembre 2018 fixant la liste des pays tiers dont les ressortissants sont soumis à l’obligation de visa pour franchir les frontières extérieures des États membres et la liste de ceux dont les ressortissants sont exemptés de cette obligation, JO L 303 du 28.11.2018, p. 39; modifié en dernier lieu par le règlement (UE) 2023/850, JO L 110 du 25.4.2023, p 1.
-[^8-2]: Nouvelle teneur selon le ch. I de l’O du 17 mai 2023, en vigueur depuis le 1<sup>er</sup> janv. 2024 ([RO 2023 262](https://fedlex.data.admin.ch/eli/oc/2023/262)).
+[^8-1]: Règlement (UE) 2018/1806 du Parlement européen et du Conseil du 14 novembre 2018 fixant la liste des pays tiers dont les ressortissants sont soumis à l’obligation de visa pour franchir les frontières extérieures des États membres et la liste de ceux dont les ressortissants sont exemptés de cette obligation, JO L 303 du 28.11.2018, p. 39; modifié en dernier lieu par le règlement (UE) 2024/2495, JO L, 2024/2495, 23.9.2024.
+[^8-2]: Nouvelle teneur selon le ch. I de l’O du 9 oct. 2024, en vigueur depuis le 13 oct. 2024 ([RO 2024 555](https://fedlex.data.admin.ch/eli/oc/2024/555)).
 [^8-3]: Cf. note de bas de page relative à l’art. 3, al. 1.
 [^8-4]: Décision du Conseil du 30 novembre 1994 relative à une action commune adoptée par le Conseil sur la base de l’article K.3 paragraphe 2 point b) du traité sur l’Union européenne en ce qui concerne les facilités de déplacement des écoliers ressortissants de pays tiers résidant dans un État membre (94/795/JAI), version du JO L 327 du 19.12.1994, p. 1.
 [^8-5]: Nouvelle teneur selon le ch. I de l’O du 22 mars 2019, en vigueur depuis le 1<sup>er</sup> janv. 2021 ([RO 2020 6415](https://fedlex.data.admin.ch/eli/oc/2020/1052)).

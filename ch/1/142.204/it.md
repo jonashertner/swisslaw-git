@@ -4,11 +4,11 @@ title: "Ordinanza del 15 agosto 2018 concernente l'entrata e il rilascio del vis
 short: OEV
 eli: "https://fedlex.data.admin.ch/eli/cc/2018/493"
 language: it
-version: 2024-08-23
+version: 2024-10-13
 adopted: 2018-08-15
 in_force: 2018-09-15
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20240823/it/xml/fedlex-data-admin-ch-eli-cc-2018-493-20240823-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20240823/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2018/493/20241013/it/xml/fedlex-data-admin-ch-eli-cc-2018-493-20241013-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20241013/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2018/493/20240823/it"
 
 (OEV)
 
-del 15 agosto 2018 (Stato 23 agosto 2024)
+del 15 agosto 2018 (Stato 13 ottobre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -60,36 +60,36 @@ La presente ordinanza disciplina parimenti la competenza di concludere trattati 
 - l.[^1-26] regolamento (CE) n. 694/2003[^1-27];
 - m.[^1-28] regolamento (UE) 2016/399[^1-29].[^1-30]
 
-[^1-1]: Nuovo testo giusta il n. I dell’O del 15 set. 2023, in vigore dal 15 ott. 2023 ([RU 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
+[^1-1]: Nuovo testo giusta la cifra I dell’O del 15 set. 2023, in vigore dal 15 ott. 2023 ([RU 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
 [^1-2]: Regolamento (UE) n. 514/2014 del Parlamento europeo e del Consiglio, del 16 apr. 2014, recante disposizioni generali sul Fondo asilo, migrazione e integrazione e sullo strumento di sostegno finanziario per la cooperazione di polizia, la prevenzione e la lotta alla criminalità e la gestione delle crisi, versione della GU L 150 del 20.5.2014, pag. 112.
 [^1-3]: Regolamento (UE) n. 515/2014 del Parlamento europeo e del Consiglio, del 16 apr. 2014, che istituisce, nell’ambito del Fondo sicurezza interna, lo strumento di sostegno finanziario per le frontiere esterne e i visti e che abroga la decisione n. 574/2007/CE, versione della GU L 150 del 20.5.2014, pag. 143.
-[^1-4]: Introdotta dal n. I dell’O dell’11 ago. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)). Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^1-4]: Introdotta dalla cifra I dell’O dell’11 ago. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)). Nuovo testo giusta la cifra I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
 [^1-5]: Regolamento (UE) 2017/2226 del Parlamento europeo e del Consiglio, del 30 nov. 2017, che istituisce un sistema di ingressi/uscite per la registrazione dei dati di ingresso e di uscita e dei dati relativi al respingimento dei cittadini di paesi terzi che attraversano le frontiere esterne degli Stati membri e che determina le condizioni di accesso al sistema di ingressi/uscite a fini di contrasto e che modifica la Convenzione di applicazione dell’Accordo di Schengen e i regolamenti (CE) n. 767/2008 e (UE) n. 1077/2011, GU L 327 del 9.12.2017, pag. 20; modificato da ultimo dal regolamento (UE) 2021/1134, GU L 248 del 13.7.2021, pag. 11.
-[^1-6]: Introdotta dal n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^1-6]: Introdotta dalla cifra I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
 [^1-7]: Regolamento (UE) 2018/1240 del Parlamento europeo e del Consiglio, del 12 settembre 2018, che istituisce un sistema europeo di informazione e autorizzazione ai viaggi (ETIAS) e che modifica i regolamenti (UE) n. 1077/2011, (UE) n. 515/2014, (UE) 2016/399, (UE) 2016/1624 e (UE) 2017/2226, GU L 236 del 19.9.2018, pag. 1; modificato da ultimo dal regolamento (EU) 2021/1152, GU L 249 del 14.7.2021, pag. 15.
-[^1-8]: Nuovo testo giusta il n. II 1 dell’O del 7 giu. 2024, in vigore dall’11 giu. 2024 ([RU 2024 258](https://fedlex.data.admin.ch/eli/oc/2024/258)).
+[^1-8]: Nuovo testo giusta la cifra II 1 dell’O del 7 giu. 2024, in vigore dall’11 giu. 2024 ([RU 2024 258](https://fedlex.data.admin.ch/eli/oc/2024/258)).
 [^1-9]: Regolamento (CE) n. 810/2009 del Parlamento europeo e del Consiglio, del 13 luglio 2009, che istituisce un codice comunitario dei visti (codice dei visti), GU L 243 del 15.9.2009, pag. 1; modificato da ultimo dal regolamento (UE) 2024/1415, GU L, 2024/1415, 22.05.2024.
-[^1-10]: Introdotta dal n. I dell’O del 13 mag. 2020 ([RU 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)). Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^1-10]: Introdotta dalla cifra I dell’O del 13 mag. 2020 ([RU 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)). Nuovo testo giusta la cifra I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
 [^1-11]: Regolamento (UE) 2019/817 del Parlamento europeo e del Consiglio, del 20 maggio 2019, che istituisce un quadro per l’interoperabilità tra i sistemi di informazione dell’UE nel settore delle frontiere e dei visti e che modifica i regolamenti (CE) n. 767/2008, (UE) n. 2016/399, (UE) 2017/2226, (UE) 2018/1240, (UE) 2018/1726 e (UE) 2018/1861 del Parlamento europeo e del Consiglio e le decisioni 2004/512/CE e 2008/633/GAI del Consiglio, GU L 135 del 22.5.2019, pag. 27; modificato da ultimo dal regolamento (UE) 2021/1152, GU L 249 del 14.7.2021, pag. 15.
-[^1-12]: Introdotta dal n. I dell’O del 13 mag. 2020 ([RU 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)). Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^1-12]: Introdotta dalla cifra I dell’O del 13 mag. 2020 ([RU 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)). Nuovo testo giusta la cifra I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
 [^1-13]: Regolamento (UE) 2019/818 del Parlamento europeo e del Consiglio, del 20 maggio 2019, che istituisce un quadro per l’interoperabilità tra i sistemi di informazione dell’UE nel settore della cooperazione di polizia e giudiziaria, asilo e migrazione, e che modifica i regolamenti (UE) 2018/1726, (UE) 2018/1862 e (UE) 2019/816, GU L 135 del 22.5.2019, pag. 85; modificato da ultimo dal regolamento (UE) 2021/1150, GU L 249 del 14.7.2021, pag. 1.
-[^1-14]: Introdotta dal n. I dell’O del 13 mag. 2020 ([RU 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)). Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
+[^1-14]: Introdotta dalla cifra I dell’O del 13 mag. 2020 ([RU 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)). Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
 [^1-15]: Regolamento (CE) n. 1683/95 del Consiglio, del 29 maggio 1995, che istituisce un modello uniforme per i visti, GU L 164 del 14.7.1995, pag. 1; modificato da ultimo dal regolamento (UE) 2023/2685, GU L, 2023/2685, 7.12.2023.
-[^1-16]: Introdotta dal n. I dell’O del 13 mag. 2020, in vigore dal 15 giu. 2020 ([RU 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
+[^1-16]: Introdotta dalla cifra I dell’O del 13 mag. 2020, in vigore dal 15 giu. 2020 ([RU 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
 [^1-17]: Regolamento (CE) n. 1030/2002 del Consiglio, del 13 giugno 2002, che istituisce un modello uniforme per i permessi di soggiorno rilasciati a cittadini di paesi terzi, GU L 157 del 15.6.2002, pag. 1; da ultimo modificato dal regolamento (UE) 2017/1954, GU L 286 dell’1.11.2017, pag. 9.
-[^1-18]: Introdotta dal n. I dell’O del 17 dic. 2021 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)). Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
+[^1-18]: Introdotta dalla cifra I dell’O del 17 dic. 2021 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)). Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
 [^1-19]: Regolamento (CE) n. 767/2008 del Parlamento europeo e del Consiglio, del 9 lug. 2008, concernente il sistema di informazione visti (VIS) e lo scambio di dati tra Stati membri sui visti per soggiorni di breve durata (regolamento VIS), GU L 218 del 13.8.2008, pag. 60; modificato da ultimo dal regolamento (UE) 2023/2667, GU L, 2023/2667, del 7.12.2023.
-[^1-20]: Introdotta dal n. I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^1-20]: Introdotta dalla cifra I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
 [^1-21]: Regolamento (UE) 2021/1148 del Parlamento europeo e del Consiglio del 7 lug. 2021 che istituisce, nell’ambito del Fondo per la gestione integrata delle frontiere, lo Strumento di sostegno finanziario per la gestione delle frontiere e la politica dei visti, GU L 251, del 15.7.2021, pag. 48.
-[^1-22]: Introdotta dal n. I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^1-22]: Introdotta dalla cifra I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
 [^1-23]: Regolamento (UE) 2021/1060 del Parlamento europeo e del Consiglio del 24 giu. 2021 recante le disposizioni comuni applicabili al Fondo europeo di sviluppo regionale, al Fondo sociale europeo Plus, al Fondo di coesione, al Fondo per una transizione giusta, al Fondo europeo per gli affari marittimi, la pesca e l’acquacoltura, e le regole finanziarie applicabili a tali fondi e al Fondo Asilo, migrazione e integrazione, al Fondo Sicurezza interna e allo Strumento di sostegno finanziario per la gestione delle frontiere e la politica dei visti, GU L 231 del 30.6.2021, pag. 159.
-[^1-24]: Introdotta dal n. I dell’O del 15 set. 2023, in vigore dal 15 ott. 2023 ([RU 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
+[^1-24]: Introdotta dalla cifra I dell’O del 15 set. 2023, in vigore dal 15 ott. 2023 ([RU 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
 [^1-25]: Decisione n. 1105/2011/UE del Parlamento europeo e del Consiglio, del 25 ottobre 2011, relativa all’elenco dei documenti di viaggio che consentono di attraversare le frontiere esterne e sui quali può essere apposto un visto e relativa alla creazione di un meccanismo per stabilire tale elenco, versione della GU L 287 del 4.11.2011, pag. 9.
-[^1-26]: Introdotta dal n. I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
+[^1-26]: Introdotta dalla cifra I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
 [^1-27]: Regolamento (CE) n. 694/2003 del Consiglio, del 14 apr. 2003 che stabilisce modelli uniformi per il documento di transito agevolato (FTD) e per il documento di transito ferroviario agevolato (FRTD) di cui al regolamento (CE) n. 693/2003, GU L 99 del 17.4.2003, pag. 15; modificato da ultimo dal regolamento (UE) 2023/2667, GU L, 2023/2667, del 7.12.2023.
-[^1-28]: Introdotta dal n. I dell’O del 26 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 345](https://fedlex.data.admin.ch/eli/oc/2024/345)).
+[^1-28]: Introdotta dalla cifra I dell’O del 26 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 345](https://fedlex.data.admin.ch/eli/oc/2024/345)).
 [^1-29]: Regolamento (UE) 2016/399 del Parlamento europeo e del Consiglio, del 9 mar. 2016, che istituisce un codice unionale relativo al regime di attraversamento delle frontiere da parte delle persone (codice frontiere Schengen), GU L 77 del 23.3.2016, pag. 1; modificato da ultimo dal regolamento (UE) 2024/1717, GU L 2024/1717, 20.06.2024.
-[^1-30]: Nuovo testo giusta il n. I dell’O del 14 ago. 2019, in vigore dal 2 feb. 2020 ([RU 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^1-30]: Nuovo testo giusta la cifra I dell’O del 14 ago. 2019, in vigore dal 2 feb. 2020 ([RU 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 
 #### Art. 2
 
@@ -118,10 +118,10 @@ Ai sensi della presente ordinanza s’intende per:
 - g.[^2-5] *cittadino di un Paese terzo*: cittadino di uno Stato che non è membro né dell’Unione europea (UE) né dell’Associazione europea di libero scambio (AELS).
 
 [^2-1]: Gli Acc. di associazione a Schengen sono menzionati nell’all. 1.
-[^2-2]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
-[^2-3]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
-[^2-4]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
-[^2-5]: Introdotta dal n. I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
+[^2-2]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
+[^2-3]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
+[^2-4]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
+[^2-5]: Introdotta dalla cifra I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
 
 ## Sezione 2: Disposizioni concernenti l’entrata e il transito aeroportuale
 
@@ -152,7 +152,7 @@ Nei limiti delle loro competenze, il Dipartimento federale degli affari esteri (
 <sup>5</sup> Le persone soggette all’obbligo del visto autorizzate a entrare in Svizzera in virtù del capoverso 4 ottengono un visto con validità territoriale limitata alla Svizzera.
 
 [^3-1]: Regolamento (UE) 2016/399 del Parlamento europeo e del Consiglio, del 9 mar. 2016, che istituisce un codice unionale relativo al regime di attraversamento delle frontiere da parte delle persone (codice frontiere Schengen), GU L 77 del 23.3.2016, pag. 1; modificato da ultimo dal regolamento (UE) 2017/458, GU L 74 del 18.3.2017, pag. 1.
-[^3-2]: Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 345](https://fedlex.data.admin.ch/eli/oc/2024/345)).
+[^3-2]: Nuovo testo giusta la cifra I dell’O del 26 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 345](https://fedlex.data.admin.ch/eli/oc/2024/345)).
 [^3-3]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. c.
 
 #### Art. 4
@@ -222,9 +222,9 @@ Un documento di viaggio è riconosciuto dalla SEM se soddisfa i requisiti seguen
 
 <sup>5</sup> In casi motivati la SEM può riconoscere documenti di viaggio che non soddisfano i requisiti di cui al capoverso 4. Tale è il caso in particolare dei documenti di viaggio rilasciati a persone che non possiedono la cittadinanza dello Stato di rilascio, ma che hanno diritto di soggiornare legalmente sul suo territorio.
 
-[^6-1]: Nuovo testo giusta il n. I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
-[^6-2]: Nuovo testo giusta il n. I dell’O del 15 set. 2023, in vigore dal 15 ott. 2023 ([RU 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
-[^6-3]: Nuovo testo giusta il n. I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
+[^6-1]: Nuovo testo giusta la cifra I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
+[^6-2]: Nuovo testo giusta la cifra I dell’O del 15 set. 2023, in vigore dal 15 ott. 2023 ([RU 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
+[^6-3]: Nuovo testo giusta la cifra I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
 [^6-4]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
 
 #### Art. 7
@@ -264,19 +264,19 @@ In deroga al capoverso 3, ai soggiorni con attività lucrativa si applicano le r
 
 <sup>5</sup> Il Dipartimento federale di giustizia e polizia (DFGP) adegua l’allegato 3 non appena la Svizzera è informata in merito alla conclusione di un accordo in materia di esenzione dall’obbligo del visto tra l’UE e uno degli Stati o una delle entità o autorità territoriali di cui all’allegato II del regolamento (UE) 2018/1806.[^8-13]
 
-[^8-1]: Regolamento (UE) 2018/1806 del Parlamento europeo e del Consiglio, del 14 novembre 2018, che adotta l’elenco dei paesi terzi i cui cittadini devono essere in possesso del visto all’atto dell’attraversamento delle frontiere esterne e l’elenco dei paesi terzi i cui cittadini sono esenti da tale obbligo, GU L 303 del 28.11.2018, pag. 39; modificato da ultimo dal regolamento (UE) 2023/850, GU L 110 del 25.4.2023, pag. 1.
-[^8-2]: Nuovo testo giusta il n. I dell’O del 17 mag. 2023, in vigore dal 1° gen. 2024 ([RU 2023 262](https://fedlex.data.admin.ch/eli/oc/2023/262)).
+[^8-1]: Regolamento (UE) 2018/1806 del Parlamento europeo e del Consiglio, del 14 novembre 2018, che adotta l’elenco dei paesi terzi i cui cittadini devono essere in possesso del visto all’atto dell’attraversamento delle frontiere esterne e l’elenco dei paesi terzi i cui cittadini sono esenti da tale obbligo, GU L 303 del 28.11.2018, pag. 39; modificato da ultimo dal regolamento (UE) 2024/2495, GU L, 2024/2495, 23.9.2024.
+[^8-2]: Nuovo testo giusta la cifra I dell’O del 9 ott. 2024, in vigore dal 13 nov. 2024 ([RU 2024 555](https://fedlex.data.admin.ch/eli/oc/2024/555)).
 [^8-3]: Cfr. nota a piè di pagina relativa all’art. 3 cpv. 1.
 [^8-4]: Decisione del Consiglio, del 30 nov. 1994, relativa a un’azione comune adottata dal Consiglio sulla base dell’art. K.3, par. 2, lett. b) del trattato sull’Unione europea in materia di agevolazioni per i viaggi compiuti da scolari di paesi terzi residenti in uno Stato membro (94/795/GAI), versione della GU L 327 del 19.12.1994, pag. 1.
-[^8-5]: Nuovo testo giusta il n. I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6415](https://fedlex.data.admin.ch/eli/oc/2020/1052)).
+[^8-5]: Nuovo testo giusta la cifra I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6415](https://fedlex.data.admin.ch/eli/oc/2020/1052)).
 [^8-6]: [RS 0.142.37](https://fedlex.data.admin.ch/eli/cc/63/177_173_177)
 [^8-7]: [RS 0.142.30](https://fedlex.data.admin.ch/eli/cc/1955/443_461_469)
-[^8-8]: Nuovo testo giusta il n. I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6415](https://fedlex.data.admin.ch/eli/oc/2020/1052)).
+[^8-8]: Nuovo testo giusta la cifra I dell’O del 22 mar. 2019, in vigore dal 1° gen. 2021 ([RU 2020 6415](https://fedlex.data.admin.ch/eli/oc/2020/1052)).
 [^8-9]: [RS 0.142.40](https://fedlex.data.admin.ch/eli/cc/1972/2320_2374_2150)
-[^8-10]: Introdotta dal n. I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
+[^8-10]: Introdotta dalla cifra I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
 [^8-11]: [RS 0.510.1](https://fedlex.data.admin.ch/eli/cc/2003/428), allegato
-[^8-12]: Nuovo testo giusta il n. I dell’O del 10 giu. 2022, in vigore dal 10 giu. 2022 alle 18.00 ([RU 2022 344](https://fedlex.data.admin.ch/eli/oc/2022/344)).
-[^8-13]: Nuovo testo giusta il n. I dell’O del 16 gen. 2019, in vigore dal 15 feb. 2019 ([RU 2019 431](https://fedlex.data.admin.ch/eli/oc/2019/75)).
+[^8-12]: Nuovo testo giusta la cifra I dell’O del 10 giu. 2022, in vigore dal 10 giu. 2022 alle 18.00 ([RU 2022 344](https://fedlex.data.admin.ch/eli/oc/2022/344)).
+[^8-13]: Nuovo testo giusta la cifra I dell’O del 16 gen. 2019, in vigore dal 15 feb. 2019 ([RU 2019 431](https://fedlex.data.admin.ch/eli/oc/2019/75)).
 
 #### Art. 9
 
@@ -286,8 +286,8 @@ In deroga al capoverso 3, ai soggiorni con attività lucrativa si applicano le r
 
 <sup>2</sup> In deroga al capoverso 1, i cittadini dei seguenti Stati sono esentati dall’obbligo del visto per soggiorni di lunga durata: Andorra, Australia, Brunei Darussalam, Città del Vaticano, Giappone, Malaysia, Monaco, Nuova Zelanda, Regno Unito, San Marino e Singapore.[^9-2]
 
-[^9-1]: Nuovo testo giusta il n. I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
-[^9-2]: Nuovo testo giusta il n. I dell’O del 1° ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 602](https://fedlex.data.admin.ch/eli/oc/2021/602)).
+[^9-1]: Nuovo testo giusta la cifra I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
+[^9-2]: Nuovo testo giusta la cifra I dell’O del 1° ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 602](https://fedlex.data.admin.ch/eli/oc/2021/602)).
 
 #### Art. 10
 
@@ -333,14 +333,14 @@ In virtù dell’articolo 3 paragrafo 5 del codice dei visti, le seguenti person
 <sup>5</sup> I passeggeri di aeromobili esentati dall’obbligo del visto in virtù degli articoli 8 e 9 sono parimenti esentati dall’obbligo del visto di transito aeroportuale.
 
 [^10-1]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. c.
-[^10-2]: Nuovo testo giusta il n. I dell’O del 14 ago. 2019, in vigore dal 2 feb. 2020 ([RU 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
-[^10-3]: Nuovo testo giusta il n. I dell’O del 21 ago. 2024, in vigore dal 23 ago. 2024 ([RU 2024 434](https://fedlex.data.admin.ch/eli/oc/2024/434)).
-[^10-4]: Nuovo testo giusta il n. I dell’O del 14 ago. 2019, in vigore dal 2 feb. 2020 ([RU 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
-[^10-5]: Nuovo testo giusta il n. I dell’O del 21 ago. 2024, in vigore dal 23 ago. 2024 ([RU 2024 434](https://fedlex.data.admin.ch/eli/oc/2024/434)).
+[^10-2]: Nuovo testo giusta la cifra I dell’O del 14 ago. 2019, in vigore dal 2 feb. 2020 ([RU 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^10-3]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 23 ago. 2024 ([RU 2024 434](https://fedlex.data.admin.ch/eli/oc/2024/434)).
+[^10-4]: Nuovo testo giusta la cifra I dell’O del 14 ago. 2019, in vigore dal 2 feb. 2020 ([RU 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^10-5]: Nuovo testo giusta la cifra I dell’O del 21 ago. 2024, in vigore dal 23 ago. 2024 ([RU 2024 434](https://fedlex.data.admin.ch/eli/oc/2024/434)).
 [^10-6]: [[RS 0.142.112.681](https://www.fedlex.admin.ch/eli/cc/2002/243/fr)](https://fedlex.data.admin.ch/eli/cc/2002/243)
 [^10-7]: [RS 0.142.113.672](https://fedlex.data.admin.ch/eli/cc/2020/1059)
 [^10-8]: [RS 0.748.0](https://fedlex.data.admin.ch/eli/cc/63/1377_1378_1381)
-[^10-9]: Introdotto dal n. I dell’O del 14 ago. 2019, in vigore dal 2 feb. 2020 ([RU 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^10-9]: Introdotto dalla cifra I dell’O del 14 ago. 2019, in vigore dal 2 feb. 2020 ([RU 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 
 ## Sezione 3: Visto per soggiorni di breve durata e visto di transito aeroportuale
 
@@ -455,7 +455,7 @@ Per il trattamento di una domanda di visto per soggiorni di breve durata o di vi
 
 [^20-1]
 
-[^20-1]: Abrogato dal n. I dell’O del 15 set. 2023, con effetto dal 15 ott. 2023 ([RU 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
+[^20-1]: Abrogato dalla cifra I dell’O del 15 set. 2023, con effetto dal 15 ott. 2023 ([RU 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
 
 ## Sezione 4: Visto per soggiorni di lunga durata
 
@@ -491,8 +491,8 @@ Un visto per soggiorni di lunga durata è rilasciato nei casi seguenti:
 
 <sup>3</sup> Una rappresentanza svizzera può accettare la domanda di uno straniero il cui domicilio legale non si trova nel proprio circondario consolare se reputa pertinenti i motivi per i quali lo straniero non ha potuto presentare la sua domanda presso la rappresentanza svizzera competente.[^22-2]
 
-[^22-1]: Nuovo testo giusta il n. I dell’O del 15 set. 2023, in vigore dal 15 ott. 2023 ([RU 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
-[^22-2]: Nuovo testo giusta il n. I dell’O del 15 set. 2023, in vigore dal 15 ott. 2023 ([RU 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
+[^22-1]: Nuovo testo giusta la cifra I dell’O del 15 set. 2023, in vigore dal 15 ott. 2023 ([RU 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
+[^22-2]: Nuovo testo giusta la cifra I dell’O del 15 set. 2023, in vigore dal 15 ott. 2023 ([RU 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
 
 #### Art. 23
 
@@ -560,7 +560,7 @@ Le entrate e le partenze sono rette dal codice frontiere Schengen[^28-1]. Sono f
 
 <sup>3</sup> L’entrata attraverso aeroporti che non sono designati come frontiere esterne Schengen richiede la previa autorizzazione delle autorità competenti per i controlli delle persone nell’area d’atterraggio.
 
-[^29-1]: Nuovo testo giusta il n. I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
+[^29-1]: Nuovo testo giusta la cifra I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
 [^29-2]: Cfr. nota a piè di pagina relativa all’art. 3 cpv. 1.
 
 #### Art. 29a
@@ -571,7 +571,7 @@ Le entrate e le partenze sono rette dal codice frontiere Schengen[^28-1]. Sono f
 
 <sup>2</sup> La SEM emana istruzioni per delimitare i controlli di cui al capoverso 1 dai controlli alle frontiere esterne Schengen.
 
-[^29a-1]: Introdotto dal n. I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
+[^29a-1]: Introdotto dalla cifra I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
 [^29a-2]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
 [^29a-3]: Cfr. nota a piè di pagina relativa all’art. 3 cpv. 1.
 
@@ -586,7 +586,7 @@ Le entrate e le partenze sono rette dal codice frontiere Schengen[^28-1]. Sono f
 <sup>3</sup> I collaboratori dell’UDSC responsabili dei controlli alle frontiere procedono ai controlli alle frontiere interne d’intesa con i Cantoni di confine.[^30-2]
 
 [^30-1]: Cfr. nota a piè di pagina relativa all’art. 3 cpv. 1.
-[^30-2]: Nuovo testo giusta il n. I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
+[^30-2]: Nuovo testo giusta la cifra I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
 
 #### Art. 31
 
@@ -601,9 +601,9 @@ Le entrate e le partenze sono rette dal codice frontiere Schengen[^28-1]. Sono f
 <sup>4</sup> I Cantoni possono abilitare i collaboratori dell’UDSC responsabili dei controlli alle frontiere a emanare e notificare la decisione di allontanamento di cui all’articolo 64 capoverso 1 lettere a e b LStrI.[^31-4]
 
 [^31-1]: [RS 631.0](https://fedlex.data.admin.ch/eli/cc/2007/249)
-[^31-2]: Nuovo testo giusta il n. I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
-[^31-3]: Abrogato dal n. I dell’O del 1° mag. 2019, con effetto dal 1° giu. 2019 ([RU 2019 1435](https://fedlex.data.admin.ch/eli/oc/2019/280)).
-[^31-4]: Nuovo testo giusta il n. I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
+[^31-2]: Nuovo testo giusta la cifra I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
+[^31-3]: Abrogato dalla cifra I dell’O del 1° mag. 2019, con effetto dal 1° giu. 2019 ([RU 2019 1435](https://fedlex.data.admin.ch/eli/oc/2019/280)).
+[^31-4]: Nuovo testo giusta la cifra I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
 
 ## Sezione 6: Obbligo di diligenza e di assistenza delle imprese di trasporto aereo
 
@@ -636,7 +636,7 @@ La SEM può esigere dall’impresa di trasporto aereo ulteriori provvedimenti se
 
 <sup>4</sup> Per ulteriore provvedimento si intende in particolare la produzione di copie di documenti di viaggio, di visti o di titoli di soggiorno prima della partenza.
 
-[^32-1]: Nuovo testo giusta il n. I dell’O del 15 set. 2023, in vigore dal 15 ott. 2023 ([RU 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
+[^32-1]: Nuovo testo giusta la cifra I dell’O del 15 set. 2023, in vigore dal 15 ott. 2023 ([RU 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
 
 #### Art. 33
 
@@ -694,20 +694,20 @@ Ha la competenza di concludere trattati internazionali in vista del recepimento 
 - i. le caratteristiche tecniche delle misure di informazione e pubblicità e siano emanati in virtù dell’articolo 53 paragrafo 5 del regolamento (UE) n. 514/2014;
 - j. i modelli per le relazioni annuale e finale di esecuzione e siano emanati in virtù dell’articolo 54 paragrafo 8 del regolamento (UE) n. 514/2014.
 
-[^34-1]: Nuovo testo giusta il n. I dell’O del 13 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 907](https://fedlex.data.admin.ch/eli/oc/2019/161)).
+[^34-1]: Nuovo testo giusta la cifra I dell’O del 13 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 907](https://fedlex.data.admin.ch/eli/oc/2019/161)).
 [^34-2]: Cfr. la nota a piè di pagina relativa all’art. 1 cpv. 4 lett. b<sup>bis</sup>.
 [^34-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^34-4]: Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
-[^34-5]: Nuovo testo giusta il n. I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
-[^34-6]: Introdotta dal n. I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
-[^34-7]: Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^34-4]: Nuovo testo giusta la cifra I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^34-5]: Nuovo testo giusta la cifra I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^34-6]: Introdotta dalla cifra I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^34-7]: Nuovo testo giusta la cifra I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
 [^34-8]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. b.
-[^34-9]: Introdotto dal n. I dell’O del 19 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
+[^34-9]: Introdotto dalla cifra I dell’O del 19 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
 [^34-10]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. a.
-[^34-11]: Nuovo testo gisuta il n. I dell’O del 19 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
-[^34-12]: Introdotta dal n. I dell’O del 19 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
-[^34-13]: Introdotta dal n. I dell’O del 19 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
-[^34-14]: Introdotta dal n. I dell’O del 19 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
+[^34-11]: Nuovo testo gisuta la cifra I dell’O del 19 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
+[^34-12]: Introdotta dalla cifra I dell’O del 19 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
+[^34-13]: Introdotta dalla cifra I dell’O del 19 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
+[^34-14]: Introdotta dalla cifra I dell’O del 19 dic. 2018, in vigore dal 1° feb. 2019 ([RU 2019 153](https://fedlex.data.admin.ch/eli/oc/2019/22)).
 
 #### Art. 34a
 
@@ -757,13 +757,13 @@ La SEM ha la competenza di concludere trattati internazionali in vista del recep
 - m. la proroga del periodo di tolleranza (art. 83 par. 3);
 - n. la definizione ulteriore del sostegno finanziario destinato agli Stati Schengen per le spese sostenute ai fini dell’adattamento e dell’automatizzazione delle verifiche di frontiera per attuare l’ETIAS (art. 85 par. 3).
 
-[^34a-1]: Introdotto dal n. I dell’O del 13 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 907](https://fedlex.data.admin.ch/eli/oc/2019/161)).
+[^34a-1]: Introdotto dalla cifra I dell’O del 13 feb. 2019, in vigore dal 1° apr. 2019 ([RU 2019 907](https://fedlex.data.admin.ch/eli/oc/2019/161)).
 [^34a-2]: Regolamento (UE) 2018/1240 del Parlamento europeo e del Consiglio, del 12 set. 2018, che istituisce un sistema europeo di informazione e autorizzazione ai viaggi (ETIAS) e che modifica i regolamenti (UE) n. 1077/2011, (UE) n. 515/2014, (UE) 2016/399, (UE) 2016/1624 e (UE) 2017/2226, versione della GU L 236 del 19.9.2018, pag. 1.
 [^34a-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^34a-4]: Nuovo testo giusta il n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
-[^34a-5]: Introdotta dal n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
-[^34a-6]: Introdotta dal n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
-[^34a-7]: Introdotta dal n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^34a-4]: Nuovo testo giusta la cifra I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^34a-5]: Introdotta dalla cifra I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^34a-6]: Introdotta dalla cifra I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^34a-7]: Introdotta dalla cifra I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
 
 #### Art. 34b
 
@@ -789,14 +789,14 @@ Essa ha la competenza di concludere trattati internazionali in vista del recepim
 - b.[^34b-7] l’aumento graduale dell’emolumento di visto se il Paese terzo interessato continua a non cooperare a sufficienza (art. 25<sup>bis</sup> par. 5 lett. b e 6);
 - c. la concessione di facilitazioni specifiche a tutti i cittadini o a determinate categorie di cittadini di un dato Stato terzo che coopera a sufficienza nell’ambito della riammissione di persone in situazione irregolare (art. 25<sup>bis</sup> par. 8).[^34b-8]
 
-[^34b-1]: Introdotto dal n. I dell’O del 14 ago. 2019, in vigore dal 2 feb. 2020 ([RU 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
+[^34b-1]: Introdotto dalla cifra I dell’O del 14 ago. 2019, in vigore dal 2 feb. 2020 ([RU 2019 2633](https://fedlex.data.admin.ch/eli/oc/2019/491)).
 [^34b-2]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. c.
 [^34b-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^34b-4]: Nuovo testo giusta il n. I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
-[^34b-5]: Introdotta dal n. I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
-[^34b-6]: Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 345](https://fedlex.data.admin.ch/eli/oc/2024/345)).
-[^34b-7]: Nuovo testo giusta il n. I dell’O del 26 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 345](https://fedlex.data.admin.ch/eli/oc/2024/345)).
-[^34b-8]: Introdotto dal n. I dell’O del 14 feb. 2024, in vigore dal 1° mar. 2024 ([RU 2024 75](https://fedlex.data.admin.ch/eli/oc/2024/75)).
+[^34b-4]: Nuovo testo giusta la cifra I dell’O dell’8 dic. 2023, in vigore dal 1° feb. 2024 ([RU 2023 808](https://fedlex.data.admin.ch/eli/oc/2023/808)).
+[^34b-5]: Introdotta dalla cifra I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
+[^34b-6]: Nuovo testo giusta la cifra I dell’O del 26 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 345](https://fedlex.data.admin.ch/eli/oc/2024/345)).
+[^34b-7]: Nuovo testo giusta la cifra I dell’O del 26 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 345](https://fedlex.data.admin.ch/eli/oc/2024/345)).
+[^34b-8]: Introdotto dalla cifra I dell’O del 14 feb. 2024, in vigore dal 1° mar. 2024 ([RU 2024 75](https://fedlex.data.admin.ch/eli/oc/2024/75)).
 
 #### Art. 34c
 
@@ -818,12 +818,12 @@ La SEM ha la competenza di concludere trattati internazionali in vista del recep
 - a. le procedure per determinare i casi in cui è possibile considerare che i dati di identità sono identici o simili (art. 28 par. 5 dei regolamenti [UE] 2019/817 e [UE] 2019/818);
 - b. i dettagli relativi al portale web per l’esercizio dei diritti di accesso ai dati personali, nonché di rettifica, cancellazione o limitazione del trattamento di tali dati (art. 49 par. 6 dei regolamenti [UE] 2019/817 e [UE] 2019/818).
 
-[^34c-1]: Introdotto dal n. I dell’O del 13 mag. 2020, in vigore dal 15 giu. 2020 ([RU 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
+[^34c-1]: Introdotto dalla cifra I dell’O del 13 mag. 2020, in vigore dal 15 giu. 2020 ([RU 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
 [^34c-2]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. d.
 [^34c-3]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. e.
 [^34c-4]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^34c-5]: Introdotta dal n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
-[^34c-6]: Introdotta dal n. I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^34c-5]: Introdotta dalla cifra I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
+[^34c-6]: Introdotta dalla cifra I dell’O dell’11 ago. 2021, in vigore dal 15 set. 2021 ([RU 2021 503](https://fedlex.data.admin.ch/eli/oc/2021/503)).
 
 #### Art. 34d
 
@@ -838,10 +838,10 @@ La SEM ha la competenza di concludere trattati internazionali in vista del recep
 - a. prescrizioni tecniche per il modello uniforme dei permessi di soggiorno per cittadini di Paesi terzi (art. 2 e 3);
 - b. prescrizioni tecniche per il rilevamento dei dati biometrici (art. 4*b*).
 
-[^34d-1]: Introdotto dal n. I dell’O del 13 mag. 2020, in vigore dal 15 giu. 2020 ([RU 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
+[^34d-1]: Introdotto dalla cifra I dell’O del 13 mag. 2020, in vigore dal 15 giu. 2020 ([RU 2020 1837](https://fedlex.data.admin.ch/eli/oc/2020/372)).
 [^34d-2]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. f.
 [^34d-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^34d-4]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
+[^34d-4]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
 [^34d-5]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. g.
 
 #### Art. 34e
@@ -875,13 +875,13 @@ Ha la competenza di concludere trattati internazionali in vista del recepimento 
 - b. la definizione esatta dei rischi per la sicurezza, di immigrazione illegale o l’alto rischio epidemico (art. 9<sup>undecies</sup> par. 2);
 - c. la predisposizione di un manuale che definisca le procedure e le norme necessarie per interrogazioni, verifiche e valutazioni nel quadro dell’interoperabilità dei sistemi d’informazione (art. 9<sup>nonies</sup> par. 2 e 22<sup>ter</sup> par. 18).
 
-[^34e-1]: Introdotta dal n. I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^34e-1]: Introdotta dalla cifra I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
 [^34e-2]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. h.
 [^34e-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
-[^34e-4]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
-[^34e-5]: Introdotta dal n. I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
-[^34e-6]: Nuovo testo giusta il n. I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
-[^34e-7]: Introdotta dal n. I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
+[^34e-4]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
+[^34e-5]: Introdotta dalla cifra I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
+[^34e-6]: Nuovo testo giusta la cifra I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
+[^34e-7]: Introdotta dalla cifra I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
 
 #### Art. 34f
 
@@ -900,7 +900,7 @@ Ha la competenza di concludere trattati internazionali concernenti gli atti di e
 
 <sup>4</sup> Ha la competenza di concludere trattati internazionali in vista del recepimento di atti delegati della Commissione europea relativi al regolamento (UE) 2021/1060, sempreché gli atti delegati siano stati adottati sulla base dell’articolo 114 paragrafo 2 del regolamento (UE) 2021/1060 e sempreché i trattati internazionali siano di portata limitata ai sensi dell’articolo 7*a* LOGA.
 
-[^34f-1]: Introdotta dal n. I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
+[^34f-1]: Introdotta dalla cifra I dell’O del 17 dic. 2021, in vigore dal 15 gen. 2022 ([RU 2021 913](https://fedlex.data.admin.ch/eli/oc/2021/913)).
 [^34f-2]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. i.
 [^34f-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 [^34f-4]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. j.
@@ -911,7 +911,7 @@ Ha la competenza di concludere trattati internazionali concernenti gli atti di e
 
 La SEM ha la competenza di concludere trattati internazionali in vista del recepimento di atti di esecuzione della Commissione europea che riguardano l’allestimento o l’aggiornamento dell’elenco dei documenti di viaggio con i quali è consentito attraversare le frontiere esterne e sono emanati sulla base della decisione n. 1105/2011/UE[^34g-2], sempreché questi trattati internazionali siano di portata limitata ai sensi dell’articolo 7*a* LOGA[^34g-3].
 
-[^34g-1]: Introdotto dal n. I dell’O del 15 set. 2023, in vigore dal 15 ott. 2023 ([RU 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
+[^34g-1]: Introdotto dalla cifra I dell’O del 15 set. 2023, in vigore dal 15 ott. 2023 ([RU 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
 [^34g-2]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. k.
 [^34g-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 
@@ -921,7 +921,7 @@ La SEM ha la competenza di concludere trattati internazionali in vista del recep
 
 La SEM ha la competenza di concludere trattati internazionali in vista del recepimento di atti di esecuzione della Commissione europea relativi al regolamento (CE) n. 694/2003[^34h-2], sempreché questi trattati internazionali siano di portata limitata ai sensi dell*’*articolo 7*a* LOGA[^34h-3] e sempreché gli atti di esecuzione siano emanati sulla base dell*’*articolo 2 del regolamento (CE) n. 694/2003 e stabiliscano prescrizioni tecniche per il modello uniforme di documento di transito agevolato e di documento di transito ferroviario agevolato o stabiliscano il carattere segreto di tali prescrizioni.
 
-[^34h-1]: Introdotto dal n. I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
+[^34h-1]: Introdotto dalla cifra I dell’O del 10 apr. 2024, in vigore dal 15 mag. 2024 ([RU 2024 168](https://fedlex.data.admin.ch/eli/oc/2024/168)).
 [^34h-2]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. l.
 [^34h-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 
@@ -944,7 +944,7 @@ Ha la competenza di concludere trattati internazionali in vista del recepimento 
 - b. modifiche degli Allegati III, IV e VIII del regolamento (UE) 2016/399 (art. 36 par. 1);
 - c. integrazioni di categorie di persone autorizzate a effettuare viaggi essenziali nell’Allegato XI Parte B del regolamento (UE) 2016/399 (art. 36 par. 2).
 
-[^34i-1]: Introdotto dal n. I dell’O del 26 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 345](https://fedlex.data.admin.ch/eli/oc/2024/345)).
+[^34i-1]: Introdotto dalla cifra I dell’O del 26 giu. 2024, in vigore dal 1° ago. 2024 ([RU 2024 345](https://fedlex.data.admin.ch/eli/oc/2024/345)).
 [^34i-2]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett. m.
 [^34i-3]: [RS 172.010](https://fedlex.data.admin.ch/eli/cc/1997/2022_2022_2022)
 
@@ -1034,7 +1034,7 @@ Spetta al DFAE:
 
 <sup>6</sup> Conformemente all’articolo 42 del codice dei visti, i consoli onorari possono altresì essere autorizzati a svolgere alcuni o tutti i compiti di cui all’articolo 43 paragrafo 6 del codice dei visti.
 
-[^39a-1]: Introdotto dal n. I dell’O del 15 set. 2023, in vigore dal 15 ott. 2023 ([RU 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
+[^39a-1]: Introdotto dalla cifra I dell’O del 15 set. 2023, in vigore dal 15 ott. 2023 ([RU 2023 549](https://fedlex.data.admin.ch/eli/oc/2023/549)).
 [^39a-2]: Cfr. nota a piè di pagina relativa all’art. 1 cpv. 4 lett c.
 
 #### Art. 40
@@ -1095,7 +1095,7 @@ Le autorità federali e cantonali preposte all’esecuzione delle disposizioni s
 
 [^sec9-1]
 
-[^sec9-1]: Nuovo testo giusta il n. I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
+[^sec9-1]: Nuovo testo giusta la cifra I dell’O del 10 nov. 2022, in vigore dal 1° mag. 2022 ([RU 2021 733](https://fedlex.data.admin.ch/eli/oc/2021/733)).
 
 #### Art. 45
 
@@ -1278,7 +1278,7 @@ D’intesa con le autorità svizzere di controllo alla frontiera, può concluder
 
 ...[^69-2]
 
-[^69-1]: [[RU 2008 5441](https://fedlex.data.admin.ch/eli/oc/2008/758), [6273](https://fedlex.data.admin.ch/eli/oc/2008/856)n. III; [2009 5097](https://fedlex.data.admin.ch/eli/oc/2009/594), [6937](https://fedlex.data.admin.ch/eli/oc/2009/848)all. 4 n. II 6; [2010 1205](https://fedlex.data.admin.ch/eli/oc/2010/168), [5763](https://fedlex.data.admin.ch/eli/oc/2010/815), [5767](https://fedlex.data.admin.ch/eli/oc/2010/816); [2011 3317](https://fedlex.data.admin.ch/eli/oc/2011/446); [2012 3817](https://fedlex.data.admin.ch/eli/oc/2012/444), [4891](https://fedlex.data.admin.ch/eli/oc/2012/582); [2013 2733](https://fedlex.data.admin.ch/eli/oc/2013/565); [2014 1393](https://fedlex.data.admin.ch/eli/oc/2014/296); [2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)n. I 2, [1867](https://fedlex.data.admin.ch/eli/oc/2015/359), [3035](https://fedlex.data.admin.ch/eli/oc/2015/571), [3723](https://fedlex.data.admin.ch/eli/oc/2015/624), [4237](https://fedlex.data.admin.ch/eli/oc/2015/709)n. III; [2016 1283](https://fedlex.data.admin.ch/eli/oc/2016/256), [3721](https://fedlex.data.admin.ch/eli/oc/2016/627); [2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)n. I 2, [1683](https://fedlex.data.admin.ch/eli/oc/2017/177), [2549](https://fedlex.data.admin.ch/eli/oc/2017/239), [3273](https://fedlex.data.admin.ch/eli/oc/2017/339)]
+[^69-1]: [[RU 2008 5441](https://fedlex.data.admin.ch/eli/oc/2008/758), [6273](https://fedlex.data.admin.ch/eli/oc/2008/856)cifra III; [2009 5097](https://fedlex.data.admin.ch/eli/oc/2009/594), [6937](https://fedlex.data.admin.ch/eli/oc/2009/848)all. 4 cifra II n. 6; [2010 1205](https://fedlex.data.admin.ch/eli/oc/2010/168), [5763](https://fedlex.data.admin.ch/eli/oc/2010/815), [5767](https://fedlex.data.admin.ch/eli/oc/2010/816); [2011 3317](https://fedlex.data.admin.ch/eli/oc/2011/446); [2012 3817](https://fedlex.data.admin.ch/eli/oc/2012/444), [4891](https://fedlex.data.admin.ch/eli/oc/2012/582); [2013 2733](https://fedlex.data.admin.ch/eli/oc/2013/565); [2014 1393](https://fedlex.data.admin.ch/eli/oc/2014/296); [2015 1849](https://fedlex.data.admin.ch/eli/oc/2015/358)cifra I n. 2, [1867](https://fedlex.data.admin.ch/eli/oc/2015/359), [3035](https://fedlex.data.admin.ch/eli/oc/2015/571), [3723](https://fedlex.data.admin.ch/eli/oc/2015/624), [4237](https://fedlex.data.admin.ch/eli/oc/2015/709)cifra III; [2016 1283](https://fedlex.data.admin.ch/eli/oc/2016/256), [3721](https://fedlex.data.admin.ch/eli/oc/2016/627); [2017 563](https://fedlex.data.admin.ch/eli/oc/2017/100)cifra I n. 2, [1683](https://fedlex.data.admin.ch/eli/oc/2017/177), [2549](https://fedlex.data.admin.ch/eli/oc/2017/239), [3273](https://fedlex.data.admin.ch/eli/oc/2017/339)]
 [^69-2]: Le mod. possono essere consultate alla [RU 2018 3087](https://fedlex.data.admin.ch/eli/oc/2018/493).
 
 #### Art. 70
@@ -1321,7 +1321,7 @@ Allegato 2[^t-1]
 
 ## Stati e collettività territoriali i cui cittadini sono soggetti all’obbligo del visto per un soggiorno di breve durata sin dal primo giorno di esercizio dell’attività
 
-[^t-1]: Nuovo testo giusta il n. II dell’O del 17 mag. 2023, in vigore dal 1° gen. 2024 ([RU 2023 262](https://fedlex.data.admin.ch/eli/oc/2023/262)).
+[^t-1]: Nuovo testo giusta la cifra II dell’O del 17 mag. 2023, in vigore dal 1° gen. 2024 ([RU 2023 262](https://fedlex.data.admin.ch/eli/oc/2023/262)).
 
 Albania
 
@@ -1349,7 +1349,7 @@ Allegato 3[^t-2]
 
 ## Stati e collettività territoriali i cui cittadini sono soggetti all’obbligo del visto per un soggiorno di breve durata dal nono giorno di attività oppure dal primo giorno di attività se svolgono un’attività nell’edilizia, ivi compresi il genio civile o i rami edilizi accessori, nel settore alberghiero o nella ristorazione, nei lavori di pulizia in aziende o a domicilio, nei servizi di sorveglianza e di sicurezza, nel commercio ambulante, nel settore a luci rosse oppure nel giardinaggio o nella paesaggistica
 
-[^t-2]: Nuovo testo giusta il n. II dell’O del 1° ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 602](https://fedlex.data.admin.ch/eli/oc/2021/602)).
+[^t-2]: Nuovo testo giusta la cifra II dell’O del 1° ott. 2021, in vigore dal 1° gen. 2022 ([RU 2021 602](https://fedlex.data.admin.ch/eli/oc/2021/602)).
 
 <table>
 <tr><td>Antigua e Barbuda</td><td>Messico</td></tr>
@@ -1382,7 +1382,7 @@ Allegato 4[^t-3]
 
 ## Stati per i quali il DFGP ha introdotto un obbligo di visto di transito aeroportuale a causa di un forte numero di entrate illegali in Svizzera di passeggeri di aeromobili in transito (art. 3 par. 2 del codice dei visti)
 
-[^t-3]: Nuovo testo giusta il n. I dell’O del DFGP del 22 giu. 2022, in vigore dal 22 giu. 2022 alle ore 23.00 ([RU 2022 368](https://fedlex.data.admin.ch/eli/oc/2022/368)).
+[^t-3]: Nuovo testo giusta la cifra I dell’O del DFGP del 22 giu. 2022, in vigore dal 22 giu. 2022 alle ore 23.00 ([RU 2022 368](https://fedlex.data.admin.ch/eli/oc/2022/368)).
 
 Cuba
 
@@ -1396,6 +1396,6 @@ Allegato 5[^t-4]
 
 ## Atti di esecuzione e atti delegati della Commissione europea per sospendere in via temporanea l’esenzione dall’obbligo del visto per soggiorni di breve durata, emanati in virtù del regolamento (UE) 2018/1806
 
-[^t-4]: Introdotto dal n. II dell’O del 10 giu. 2022 ([RU 2022 344](https://fedlex.data.admin.ch/eli/oc/2022/344)). Nuovo testo giusta il n. II dell’O del 21 ago. 2024, in vigore dal 23 ago. 2024 ([RU 2024 434](https://fedlex.data.admin.ch/eli/oc/2024/434)).
+[^t-4]: Introdotto dalla cifra II dell’O del 10 giu. 2022 ([RU 2022 344](https://fedlex.data.admin.ch/eli/oc/2022/344)). Nuovo testo giusta la cifra II dell’O del 21 ago. 2024, in vigore dal 23 ago. 2024 ([RU 2024 434](https://fedlex.data.admin.ch/eli/oc/2024/434)).
 
 Regolamento delegato (UE) 2024/2059 della Commissione del 31 maggio 2024 che modifica il regolamento (UE) 2018/1806 per quanto riguarda la proroga della sospensione temporanea dell’esenzione dall’obbligo del visto per i cittadini di Vanuatu, versione della GU L 2024/2059, *2.08.2024*
