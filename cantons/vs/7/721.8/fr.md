@@ -5,12 +5,12 @@ title: "Loi sur l'utilisation des forces hydrauliques"
 short: LcFH
 language: fr
 version: 2018-01-01
-corrected: 2024-01-03
+corrected: 2024-10-14
 version_adopted: 2016-11-10
 adopted: 1990-03-28
 in_force: 1991-01-01
 url: "https://lex.vs.ch/app/fr/texts_of_law/721.8"
-pdf: "https://lex.vs.ch/api/fr/versions/2464/pdf_file"
+pdf: "https://lex.vs.ch/api/fr/versions/3274/pdf_file"
 ---
 
 > Reproduction non officielle du recueil systématique du canton VS. Seule la publication officielle du canton fait foi.
@@ -248,7 +248,7 @@ ordonne:
 
 <sup>1</sup> Le Conseil d'Etat approuve l'octroi, le renouvellement ou le transfert d'une concession de forces hydrauliques communales s'il correspond à l'intérêt public des communes, des groupements de communes et du canton.
 
-<sup>2</sup> En particulier, un approvisionnement sûr en eau potable doit être sauvegardé. L'approbation est refusée si le projet d'utilisation de la concession est contraire à l'intérêt public ou à l'utilisation rationnelle du cours d'eau.
+<sup>2</sup> En particulier, un approvisionnement sûr en eau potable doit être sauvegardé.
 
 <sup>3</sup> L’approbation est refusée si le projet d’utilisation de la concession est contraire à l’intérêt public, en particulier aux buts de la présente loi ou à l’utilisation rationnelle du cours d’eau.
 

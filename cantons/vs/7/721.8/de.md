@@ -5,12 +5,12 @@ title: Gesetz über die Nutzbarmachung der Wasserkräfte
 short: kWRG
 language: de
 version: 2018-01-01
-corrected: 2024-01-03
+corrected: 2024-10-14
 version_adopted: 2016-11-10
 adopted: 1990-03-28
 in_force: 1991-01-01
 url: "https://lex.vs.ch/app/de/texts_of_law/721.8"
-pdf: "https://lex.vs.ch/api/de/versions/2464/pdf_file"
+pdf: "https://lex.vs.ch/api/de/versions/3274/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons VS. Massgebend ist die amtliche Veröffentlichung des Kantons.
