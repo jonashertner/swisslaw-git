@@ -3,38 +3,43 @@ sr: "0.672.947.61"
 title: Abkommen vom 16. Februar 1999 zwischen der Schweizerischen Eidgenossenschaft und dem Staat Kuwait zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen und zur Verhinderung von Steuerhinterziehung und Steuerumgehung (mit Protokoll und Briefwechsel)
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/397"
 language: de
-version: 2000-05-31
+version: 2024-10-14
 adopted: 1999-02-16
 in_force: 2000-05-31
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/397/20000531/de/xml/fedlex-data-admin-ch-eli-cc-2001-397-20000531-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/397/20000531/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/397/20241014/de/xml/fedlex-data-admin-ch-eli-cc-2001-397-20241014-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/397/20241014/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Abkommen zwischen der Schweizerischen Eidgenossenschaft und dem Staat Kuwait zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen
+# Abkommen zwischen der Schweizerischen Eidgenossenschaft und dem Staat Kuwait zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen und zur Verhinderung von Steuerhinterziehung und Steuerumgehung
 
-AS **2001** 2657; BBl **1999** 7567
+AS **2001** 2657; BBl **1999** 7567[^t-1]
 
 Originaltext
 
 Abgeschlossen am 16. Februar 1999
 
-Von der Bundesversammlung genehmigt am 16. Dezember 1999[^t-1]
+Von der Bundesversammlung genehmigt am 16. Dezember 1999[^t-2]
 
 Ratifikationsurkunden ausgetauscht am 31. Mai 2000
 
 In Kraft getreten am 31. Mai 2000
 
-(Stand am 31. Mai 2000)
+(Stand am 14. Oktober 2024)
 
-[^t-1]: [AS 2001 2656](https://fedlex.data.admin.ch/eli/oc/2001/396)
+[^t-1]: Fassung gemäss Art. 1 Ziff. 1 des Prot. vom 6. Nov. 2019, von der BVers genehmigt am 19. März 2021 und in Kraft seit 14. Okt. 2024 ([AS 2024 615](https://fedlex.data.admin.ch/eli/oc/2024/615), [614](https://fedlex.data.admin.ch/eli/oc/2024/614); [BBl 2020 7075](https://fedlex.data.admin.ch/eli/fga/2020/1897)).
+[^t-2]: [AS 2001 2656](https://fedlex.data.admin.ch/eli/oc/2001/396)
 
 Der Schweizerische Bundesrat und die Regierung des Staates Kuwait,
 
-vom Wunsche geleitet, ein Abkommen zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen abzuschliessen,
+vom Wunsch geleitet, ihre wirtschaftlichen Beziehungen weiterzuentwickeln und die Zusammenarbeit in steuerlichen Angelegenheiten zu vertiefen,
 
-haben Folgendes vereinbart:
+in der Absicht, ein Abkommen zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen abzuschliessen, ohne Gelegenheiten zu Nichtbesteuerung oder verminderter Besteuerung durch Steuerhinterziehung oder Steuerumgehung (einschliesslich durch Gestaltungen, die auf das Erlangen von in diesem Abkommen vorgesehenen Entlastungen zum mittelbaren Vorteil von in Drittstaaten ansässigen Personen zielen) zu schaffen,
+
+haben Folgendes vereinbart:[^ingress-1]
+
+[^ingress-1]: Fassung gemäss Art. 1 Ziff. 2 des Prot. vom 6. Nov. 2019, von der BVers genehmigt am 19. März 2021 und in Kraft seit 14. Okt. 2024 ([AS 2024 615](https://fedlex.data.admin.ch/eli/oc/2024/615), [614](https://fedlex.data.admin.ch/eli/oc/2024/614); [BBl 2020 7075](https://fedlex.data.admin.ch/eli/fga/2020/1897)).
 
 #### Art. 1
 
@@ -50,38 +55,44 @@ Dieses Abkommen gilt für Personen, die in einem Vertragsstaat oder in beiden Ve
 
 <sup>2.</sup> Als Steuern vom Einkommen und vom Vermögen gelten alle Steuern, die vom Gesamteinkommen, vom Gesamtvermögen oder von Teilen des Einkommens oder des Vermögens erhoben werden, einschliesslich der Steuern vom Gewinn aus der Veräusserung beweglichen oder unbeweglichen Vermögens, der Lohnsummen-steuern sowie der Steuern vom Vermögenszuwachs.
 
-<sup>3.</sup> Zu den bestehenden Steuern, für die das Abkommen gilt, gehören insbesondere
+<sup>3.</sup>
 
-- a)
+Zu den bestehenden Steuern, für die das Abkommen gilt, gehören insbesondere:
+
+- a)[^2-1]
 
   in Kuwait:
 
-  - (i) die Körperschaftsteuer;
-  - (ii) die Steuer auf dem Nettogewinn von Aktiengesellschaften zahlbar an die Kuwaitische Stiftung zur Förderung der Wissenschaft (Kuwait Foundation for Advancement of Science); und
-  - (iii) die Zakat
+  - (i) die Körperschaftssteuer gemäss Erlass Nummer 3 von 1955 in der durch Gesetz Nummer 2 von 2008 geänderten Fassung,
+  - (ii) die Steuer gemäss Gesetz Nummer 23 von 1961 der Neutralen Zone, und
+  - (iii) die Steuer der börsenkotierten Unternehmen gemäss Gesetz Nummer 19 von 2000 über die Unterstützung der nationalen Angestellten,
   - [tab] (im Folgenden als «kuwaitische Steuer» bezeichnet);
 
 - b)
 
   in der Schweiz:
 
-  - [tab] die von Bund, Kantonen und Gemeinden erhobenen Steuern
-  - (i) vom Einkommen (Gesamteinkommen, Erwerbseinkommen, Vermögensertrag, Geschäftsertrag, Kapitalgewinn und andere Einkünfte); und
-  - (ii) vom Vermögen (Gesamtvermögen, bewegliches und unbewegliches Vermögen, Geschäftsvermögen, Kapital und Reserven und andere Vermögensteile)
+  - [tab] die von Bund, Kantonen und Gemeinden erhobenen Steuern,
+  - (i) vom Einkommen (Gesamteinkommen, Erwerbseinkommen, Vermögensertrag, Geschäftsertrag, Kapitalgewinn und andere Einkünfte), und
+  - (ii) vom Vermögen (Gesamtvermögen, bewegliches und unbewegliches Vermögen, Geschäftsvermögen, Kapital und Reserven und andere Vermögensteile),
   - [tab] (im Folgenden als «schweizerische Steuer» bezeichnet).
 
 <sup>4.</sup> Das Abkommen gilt auch für alle Steuern gleicher oder im Wesentlichen ähnlicher Art, die nach der Unterzeichnung des Abkommens neben den bestehenden Steuern oder an deren Stelle erhoben werden. Die zuständigen Behörden der Vertragsstaaten teilen einander die in ihren Steuergesetzen eingetretenen wesentlichen Änderungen mit.
 
 <sup>5.</sup> Das Abkommen gilt nicht für die in der Schweiz an der Quelle erhobene eidgenössische Verrechnungssteuer auf Lotteriegewinnen.
 
+[^2-1]: Fassung gemäss Art. 2 des Prot. vom 6. Nov. 2019, von der BVers genehmigt am 19. März 2021 und in Kraft seit 14. Okt. 2024 ([AS 2024 615](https://fedlex.data.admin.ch/eli/oc/2024/615), [614](https://fedlex.data.admin.ch/eli/oc/2024/614); [BBl 2020 7075](https://fedlex.data.admin.ch/eli/fga/2020/1897)).
+
 #### Art. 3
 
 **Allgemeine Begriffsbestimmungen**
 
-<sup>1.</sup> Im Sinne dieses Abkommens, wenn der Zusammenhang nichts anderes erfordert,
+<sup>1.</sup>
+
+Im Sinne dieses Abkommens, wenn der Zusammenhang nichts anderes erfordert:
 
 - a) bedeutet der Ausdruck «Kuwait» das Staatsgebiet des Staates Kuwait einschliesslich der ausserhalb der Hoheitsgewässer gelegenen Gebiete, die nach dem Recht von Kuwait und in Übereinstimmung mit dem Völkerrecht schon jetzt oder später als Gebiete bezeichnet werden, über die Kuwait hoheitliche Rechte oder Gerichtsbarkeit ausüben darf;
-- b) bedeutet der Ausdruck «Schweiz» die Schweizerische Eidgenossenschaft;
+- b)[^3-1] bedeutet der Ausdruck «Schweiz» das Hoheitsgebiet der Schweizerischen Eidgenossenschaft in Übereinstimmung mit dem Völkerrecht und ihren innerstaatlichen Rechtsvorschriften;
 - c) bedeuten die Ausdrücke «ein Vertragsstaat» und «der andere Vertragsstaat», je nach dem Zusammenhang, Kuwait oder die Schweiz;
 - d) bedeutet der Ausdruck «Steuer» die unter Artikel 2 dieses Abkommens fallenden Steuern;
 - e) umfasst der Ausdruck «Person» natürliche Personen, Gesellschaften und alle anderen Personenvereinigungen;
@@ -93,10 +104,13 @@ Dieses Abkommen gilt für Personen, die in einem Vertragsstaat oder in beiden Ve
 
   bedeutet der Ausdruck «zuständige Behörde»:
 
-  - (i) in Kuwait den Finanzminister oder seinen bevollmächtigten Vertreter;
-  - (ii) in der Schweiz den Direktor der Eidgenössischen Steuerverwaltung oder seinen bevollmächtigten Vertreter.
+  - (i) in Kuwait den Finanzminister oder seinen bevollmächtigten Vertreter,
+  - (ii)[^3-2] in der Schweiz der Vorsteher des Eidgenössischen Finanzdepartements oder sein bevollmächtigter Vertreter.
 
 <sup>2.</sup> Bei der Anwendung des Abkommens durch einen Vertragsstaat hat, wenn der Zusammenhang nichts anderes erfordert, jeder im Abkommen nicht definierte Ausdruck die Bedeutung, die ihm nach dem Recht dieses Staates über die Steuern zukommt, für die das Abkommen gilt.
+
+[^3-1]: Fassung gemäss Art. 3 Ziff. 1 des Prot. vom 6. Nov. 2019, von der BVers genehmigt am 19. März 2021 und in Kraft seit 14. Okt. 2024 ([AS 2024 615](https://fedlex.data.admin.ch/eli/oc/2024/615), [614](https://fedlex.data.admin.ch/eli/oc/2024/614); [BBl 2020 7075](https://fedlex.data.admin.ch/eli/fga/2020/1897)).
+[^3-2]: Fassung gemäss Art. 3 Ziff. 2 des Prot. vom 6. Nov. 2019, von der BVers genehmigt am 19. März 2021 und in Kraft seit 14. Okt. 2024 ([AS 2024 615](https://fedlex.data.admin.ch/eli/oc/2024/615), [614](https://fedlex.data.admin.ch/eli/oc/2024/614); [BBl 2020 7075](https://fedlex.data.admin.ch/eli/fga/2020/1897)).
 
 #### Art. 4
 
@@ -106,10 +120,12 @@ Dieses Abkommen gilt für Personen, die in einem Vertragsstaat oder in beiden Ve
 
 Im Sinne dieses Abkommens bedeutet der Ausdruck «eine in einem Vertragsstaat ansässige Person»:
 
-- a) in Kuwait eine natürliche Person, die in Kuwait ihren Wohnsitz hat und ein kuwaitischer Staatsangehöriger ist, sowie eine Gesellschaft, die in Kuwait registriert ist;
+- a)[^4-1] in Kuwait eine natürliche Person – einschliesslich eines kuwaitischen Staatsangehörigen – die sich in Kuwait während einer gesamthaften Dauer von mindestens 183 Tagen im betreffenden Steuerjahr aufhält und eine Gesellschaft oder ein Rechtsträger, die in Kuwait errichtet wurden;
 - b) in der Schweiz jede Person, die nach dem schweizerischen Recht in der Schweiz unbeschränkt steuerpflichtig ist.
 
-<sup>2.</sup> Im Sinne von Absatz 1
+<sup>2.</sup>
+
+Im Sinne von Absatz 1:
 
 - a) gelten der Vertragsstaat selbst und jede politische Unterabteilung oder lokale Körperschaft als in diesem Staat ansässige Personen;
 - b) gelten Institutionen der Regierung auf Grund ihrer Zuordnung als in der Schweiz oder in Kuwait ansässige Personen. Als Regierungsinstitution gilt jede Institution, die von der Regierung zum Zwecke der Ausübung öffentlicher Funktionen errichtet wurde und die von den zuständigen Behörden in gegenseitigem Einvernehmen als solche anerkannt wird.
@@ -125,6 +141,8 @@ Ist nach Absatz 1 eine natürliche Person in beiden Vertragsstaaten ansässig, s
 
 <sup>4.</sup> Ist nach Absatz 1 eine andere als eine natürliche Person in beiden Vertragsstaaten ansässig, so gilt sie als in dem Staat ansässig, in dem sich der Ort ihrer tatsächlichen Geschäftsleitung befindet, oder, wenn dieser nicht bestimmt werden kann, regeln die zuständigen Behörden der Vertragsstaaten die Frage in gegenseitigem Einvernehmen.
 
+[^4-1]: Fassung gemäss Art. 4 des Prot. vom 6. Nov. 2019, von der BVers genehmigt am 19. März 2021 und in Kraft seit 14. Okt. 2024 ([AS 2024 615](https://fedlex.data.admin.ch/eli/oc/2024/615), [614](https://fedlex.data.admin.ch/eli/oc/2024/614); [BBl 2020 7075](https://fedlex.data.admin.ch/eli/fga/2020/1897)).
+
 #### Art. 5
 
 **Betriebsstätte**
@@ -135,11 +153,11 @@ Ist nach Absatz 1 eine natürliche Person in beiden Vertragsstaaten ansässig, s
 
 Der Ausdruck «Betriebsstätte» umfasst insbesondere:
 
-- a) einen Ort der Leitung,
-- b) eine Zweigniederlassung,
-- c) eine Geschäftsstelle,
-- d) eine Fabrikationsstätte,
-- e) eine Werkstätte und
+- a) einen Ort der Leitung;
+- b) eine Zweigniederlassung;
+- c) eine Geschäftsstelle;
+- d) eine Fabrikationsstätte;
+- e) eine Werkstätte; und
 - f) ein Bergwerk, ein Öl- oder Gasvorkommen, einen Steinbruch oder eine andere Stätte der Ausbeutung von Bodenschätzen.
 
 <sup>3.</sup> Eine Bauausführung oder Montage ist nur dann eine Betriebsstätte, wenn ihre Dauer neun Monate überschreitet.
@@ -205,48 +223,63 @@ Ungeachtet der vorstehenden Bestimmungen dieses Artikels gelten nicht als Betrie
 
 **Verbundene Unternehmen**
 
-Wenn
+<sup>1.</sup> und in diesen Fällen die beiden Unternehmen in ihren kaufmännischen oder finanziellen Beziehungen an vereinbarte oder auferlegte Bedingungen gebunden sind, die von denen abweichen, die unabhängige Unternehmen miteinander vereinbaren würden, so dürfen die Gewinne, die eines der Unternehmen ohne diese Bedingungen erzielt hätte, wegen dieser Bedingungen aber nicht erzielt hat, den Gewinnen dieses Unternehmens zugerechnet und entsprechend besteuert werden.
 
-und in diesen Fällen die beiden Unternehmen in ihren kaufmännischen oder finanziellen Beziehungen an vereinbarte oder auferlegte Bedingungen gebunden sind, die von denen abweichen, die unabhängige Unternehmen miteinander vereinbaren würden, so dürfen die Gewinne, die eines der Unternehmen ohne diese Bedingungen erzielt hätte, wegen dieser Bedingungen aber nicht erzielt hat, den Gewinnen dieses Unternehmens zugerechnet und entsprechend besteuert werden.
+Wenn:
 
-- a) ein Unternehmen eines Vertragsstaats unmittelbar oder mittelbar an der Geschäftsleitung, der Kontrolle oder dem Kapital eines Unternehmens des anderen Vertragsstaats beteiligt ist oder
-- b) dieselben Personen unmittelbar oder mittelbar an der Geschäftsleitung, der Kontrolle oder dem Kapital eines Unternehmens eines Vertragsstaats und eines Unternehmens des anderen Vertragsstaats beteiligt sind
+- a) ein Unternehmen eines Vertragsstaats unmittelbar oder mittelbar an der Geschäftsleitung, der Kontrolle oder dem Kapital eines Unternehmens des anderen Vertragsstaats beteiligt ist; oder
+- b) dieselben Personen unmittelbar oder mittelbar an der Geschäftsleitung, der Kontrolle oder dem Kapital eines Unternehmens eines Vertragsstaats und eines Unternehmens des anderen Vertragsstaats beteiligt sind;
+
+<sup>2.</sup> Werden in einem Vertragsstaat den Gewinnen eines Unternehmens dieses Staates Gewinne zugerechnet und entsprechend besteuert, mit denen ein Unternehmen des anderen Vertragsstaats in diesem Staat besteuert worden ist, und handelt es sich bei den zugerechneten Gewinnen um solche, die das Unternehmen des erstgenannten Staates erzielt hätte, wenn die zwischen den beiden Unternehmen vereinbarten Bedingungen die gleichen gewesen wären, die unabhängige Unternehmen miteinander vereinbaren würden, so nimmt der andere Staat eine entsprechende Änderung der dort von diesen Gewinnen erhobenen Steuer vor. Bei dieser Änderung sind die übrigen Bestimmungen dieses Abkommens zu berücksichtigen; soweit erforderlich, konsultieren sich die zuständigen Behörden der Vertragsstaaten.[^9-1]
+
+[^9-1]: Eingefügt durch Art. 5 des Prot. vom 6. Nov. 2019, von der BVers genehmigt am 19. März 2021 und in Kraft seit 14. Okt. 2024 ([AS 2024 615](https://fedlex.data.admin.ch/eli/oc/2024/615), [614](https://fedlex.data.admin.ch/eli/oc/2024/614); [BBl 2020 7075](https://fedlex.data.admin.ch/eli/fga/2020/1897)).
 
 #### Art. 10
 
-**Dividenden**
+**Dividenden**[^10-1]
 
 <sup>1.</sup> Dividenden, die eine in einem Vertragsstaat ansässige Gesellschaft an eine im anderen Vertragsstaat ansässige Person zahlt, können im anderen Staat besteuert werden.
 
-<sup>2.</sup> Diese Dividenden können jedoch auch in dem Vertragsstaat, in dem die die Dividenden zahlende Gesellschaft ansässig ist, nach dem Recht dieses Staates besteuert werden; die Steuer darf aber, wenn der Empfänger der Dividenden der Nutzungsberechtigte ist, 15 vom Hundert des Bruttobetrags der Dividenden nicht übersteigen.
+<sup>2.</sup> Diese Dividenden können jedoch auch im Vertragsstaat, in dem die die Dividenden zahlende Gesellschaft ansässig ist, nach dem Recht dieses Staates besteuert werden; die Steuer darf aber, wenn der Empfänger der Dividenden der Nutzungsberechtigte ist, 15 Prozent des Bruttobetrags der Dividenden nicht übersteigen.
 
-Die zuständigen Behörden der Vertragsstaaten regeln in gegenseitigem Einvernehmen, wie diese Begrenzungsbestimmung durchzuführen ist.
+<sup>3.</sup> Ungeachtet von Absatz 2 nimmt der Vertragsstaat, in dem die die Dividenden zahlende Gesellschaft ansässig ist, die bezahlten Dividenden von der Besteuerung aus, wenn die nutzungsberechtigte Person eine Gesellschaft (jedoch keine Personengesellschaft) ist, die im anderen Vertragsstaat ansässig ist und unmittelbar über mindestens 10 Prozent des Kapitals der die Dividenden zahlenden Gesellschaft während einer Dauer von 365 Tagen einschliesslich des Tages der Zahlung der Dividenden verfügt (für die Berechnung dieser Frist bleiben Eigentumswechsel unberücksichtigt, die eine direkte Folge von Fusionen, Spaltungen oder Wechsel der Rechtsform der Gesellschaft sind, die die Anteile hält oder die Dividenden bezahlt).
 
-Dieser Absatz berührt nicht die Besteuerung der Gesellschaft in Bezug auf die Gewinne, aus denen die Dividenden gezahlt werden.
+<sup>4.</sup> Die zuständigen Behörden der Vertragsstaaten regeln in gegenseitigem Einvernehmen, wie die Begrenzungsbestimmungen der Absätze 2 und 3 durchzuführen sind. Die Absätze 2 und 3 berühren nicht die Besteuerung der Gesellschaft in Bezug auf die Gewinne, aus denen die Dividenden gezahlt werden.
 
-<sup>3.</sup> Der in diesem Artikel verwendete Ausdruck «Dividenden» bedeutet Einkünfte aus Aktien, Genussaktien oder Genussscheinen, Kuxen, Gründeranteilen oder anderen Rechten – ausgenommen Forderungen – mit Gewinnbeteiligung sowie aus sonstigen Gesellschaftsanteilen stammende Einkünfte, die nach dem Recht des Staates, in dem die ausschüttende Gesellschaft ansässig ist, den Einkünften aus Aktien steuerlich gleichgestellt sind.
+<sup>5.</sup> Der in diesem Artikel verwendete Ausdruck «Dividenden» bedeutet Einkünfte aus Aktien, Genussaktien oder Genussscheinen, Kuxen, Gründeranteilen oder anderen Rechten, ausgenommen Forderungen, mit Gewinnbeteiligung sowie aus sonstigen Gesellschaftsanteilen stammende Einkünfte, die nach dem Recht des Staates, in dem die ausschüttende Gesellschaft ansässig ist, den Einkünften aus Aktien steuerlich gleichgestellt sind.
 
-<sup>4.</sup> Die Absätze 1 und 2 sind nicht anzuwenden, wenn der in einem Vertragsstaat ansässige Nutzungsberechtigte im anderen Vertragsstaat, in dem die die Dividenden zahlende Gesellschaft ansässig ist, eine gewerbliche Tätigkeit durch eine dort gelegene Betriebsstätte oder eine selbstständige Arbeit durch eine dort gelegene feste Einrichtung ausübt und die Beteiligung, für die die Dividenden gezahlt werden, tatsächlich zu dieser Betriebsstätte oder festen Einrichtung gehört. In diesem Fall ist Artikel 7 beziehungsweise Artikel 14 anzuwenden.
+<sup>6.</sup> Die Absätze 1–3 sind nicht anzuwenden, wenn die in einem Vertragsstaat ansässige nutzungsberechtigte Person im anderen Vertragsstaat, in dem die die Dividenden zahlende Gesellschaft ansässig ist, eine Geschäftstätigkeit durch eine dort gelegene Betriebsstätte oder eine selbstständige Arbeit durch eine dort gelegene feste Einrichtung ausübt und die Beteiligung, für die die Dividenden gezahlt werden, tatsächlich zu dieser Betriebsstätte oder festen Einrichtung gehört. In einem solchen Fall ist Artikel 7 oder Artikel 14 anwendbar.
 
-<sup>5.</sup> Bezieht eine in einem Vertragsstaat ansässige Gesellschaft Gewinne oder Einkünfte aus dem anderen Vertragsstaat, so darf dieser andere Staat weder die von der Gesellschaft gezahlten Dividenden besteuern, es sei denn, dass diese Dividenden an eine im anderen Staat ansässige Person gezahlt werden oder dass die Beteiligung, für die die Dividenden gezahlt werden, tatsächlich zu einer im anderen Staat gelegenen Betriebsstätte oder festen Einrichtung gehört, noch Gewinne der Gesellschaft einer Steuer für nichtausgeschüttete Gewinne unterwerfen, selbst wenn die gezahlten Dividenden oder die nichtausgeschütteten Gewinne ganz oder teilweise aus im anderen Staat erzielten Gewinnen oder Einkünften bestehen.
+<sup>7.</sup> Bezieht eine in einem Vertragsstaat ansässige Gesellschaft Gewinne oder Einkünfte aus dem anderen Vertragsstaat, so darf dieser andere Staat weder die von der Gesellschaft gezahlten Dividenden besteuern, es sei denn, dass diese Dividenden an eine im anderen Staat ansässige Person gezahlt werden oder dass die Beteiligung, für die die Dividenden gezahlt werden, tatsächlich zu einer im anderen Staat gelegenen Betriebsstätte oder festen Einrichtung gehört, noch Gewinne der Gesellschaft einer Steuer für nichtausgeschüttete Gewinne unterwerfen, selbst wenn die gezahlten Dividenden oder die nichtausgeschütteten Gewinne ganz oder teilweise aus im anderen Staat erzielten Gewinnen oder Einkünften bestehen.
+
+[^10-1]: Fassung gemäss Art. 6 des Prot. vom 6. Nov. 2019, von der BVers genehmigt am 19. März 2021 und in Kraft seit 14. Okt. 2024 ([AS 2024 615](https://fedlex.data.admin.ch/eli/oc/2024/615), [614](https://fedlex.data.admin.ch/eli/oc/2024/614); [BBl 2020 7075](https://fedlex.data.admin.ch/eli/fga/2020/1897)).
 
 #### Art. 11
 
-**Zinsen**
+**Zinsen**[^11-1]
 
 <sup>1.</sup> Zinsen, die aus einem Vertragsstaat stammen und an eine im anderen Vertragsstaat ansässige Person gezahlt werden, können im anderen Staat besteuert werden.
 
-<sup>2.</sup> Diese Zinsen können jedoch auch in dem Vertragsstaat, aus dem sie stammen, nach dem Recht dieses Staates besteuert werden; die Steuer darf aber, wenn der Empfänger der Zinsen der Nutzungsberechtigte ist, 10 vom Hundert des Bruttobetrags der Zinsen nicht übersteigen.
+<sup>2.</sup> Diese Zinsen können jedoch auch im Vertragsstaat, aus dem sie stammen, nach dem Recht dieses Staates besteuert werden; ist aber die zur Nutzung der Zinsen berechtigte Person im anderen Vertragsstaat ansässig, so darf die Steuer 10 Prozent des Bruttobetrags der Zinsen nicht übersteigen.
 
-Die zuständigen Behörden der Vertragsstaaten regeln in gegenseitigem Einvernehmen, wie diese Begrenzungsbestimmung durchzuführen ist.
+<sup>3.</sup>
 
-<sup>3.</sup> Der in diesem Artikel verwendete Ausdruck «Zinsen» bedeutet Einkünfte aus Forderungen jeder Art, auch wenn die Forderungen durch Pfandrechte an Grundstücken gesichert oder mit einer Beteiligung am Gewinn des Schuldners ausgestattet sind, und insbesondere Einkünfte aus öffentlichen Anleihen und aus Obligationen einschliesslich der damit verbundenen Aufgelder und der Gewinne aus Losanleihen. Zuschläge für verspätete Zahlung gelten nicht als Zinsen im Sinne dieses Artikels.
+Ungeachtet von Absatz 2 können Zinsen, die aus einem Vertragsstaat stammen und an eine im anderen Vertragsstaat ansässige nutzungsberechtigte Person gezahlt werden, nur im anderen Staat besteuert werden, wenn die Zinsen gezahlt werden:
 
-<sup>4.</sup> Die Absätze 1 und 2 sind nicht anzuwenden, wenn der in einem Vertragsstaat ansässige Nutzungsberechtigte im anderen Vertragsstaat, aus dem die Zinsen stammen, eine gewerbliche Tätigkeit durch eine dort gelegene Betriebsstätte oder eine selbstständige Arbeit durch eine dort gelegene feste Einrichtung ausübt und die Forderung, für die die Zinsen gezahlt werden, tatsächlich zu dieser Betriebsstätte oder festen Einrichtung gehört. In diesem Fall ist Artikel 7 beziehungsweise Artikel 14 anzuwenden.
+- a) im Zusammenhang mit einer Schuld, die aus einem Verkauf auf Kredit von Ausrüstungen, Waren oder Dienstleistungen herrührt;
+- b) für ein von einer Bank gewährtes Darlehen jeder Art;
+- c) an die Regierung des anderen Staates, seine politischen Unterabteilungen oder lokalen Körperschaften oder seine Nationalbank; oder
+- d) für Darlehen zwischen Unternehmen.
 
-<sup>5.</sup> Zinsen gelten dann als aus einem Vertragsstaat stammend, wenn der Schuldner dieser Staat selbst, eine seiner politischen Unterabteilungen oder lokalen Körperschaften oder eine in diesem Staat ansässige Person ist. Hat aber der Schuldner der Zinsen, ohne Rücksicht darauf, ob er in einem Vertragsstaat ansässig ist oder nicht, in einem Vertragsstaat eine Betriebsstätte oder eine feste Einrichtung und ist die Schuld, für die die Zinsen gezahlt werden, für Zwecke der Betriebsstätte oder der festen Einrichtung eingegangen worden und trägt die Betriebsstätte oder die feste Einrichtung die Zinsen, so gelten die Zinsen als aus dem Staat stammend, in dem die Betriebsstätte oder die feste Einrichtung liegt.
+<sup>4.</sup> Der in diesem Artikel verwendete Ausdruck «Zinsen» bedeutet Einkünfte aus Forderungen jeder Art, auch wenn die Forderungen durch Pfandrechte an Grundstücken gesichert oder mit einer Beteiligung am Gewinn des Schuldners ausgestattet sind, und insbesondere Einkünfte aus öffentlichen Anleihen und aus Obligationen, einschliesslich der damit verbundenen Aufgelder und der Gewinne aus Losanleihen. Nicht als Zinsen im Sinne dieses Artikels gelten Zuschläge für verspätete Zahlung.
 
-<sup>6.</sup> Bestehen zwischen dem Schuldner und dem Nutzungsberechtigten oder zwischen jedem von ihnen und einem Dritten besondere Beziehungen und übersteigen deshalb die Zinsen, gemessen an der zu Grunde liegenden Forderung, den Betrag, den Schuldner und Nutzungsberechtigter ohne diese Beziehungen vereinbart hätten, so wird dieser Artikel nur auf den letzteren Betrag angewendet. In diesem Fall kann der übersteigende Betrag nach dem Recht eines jeden Vertragsstaats und unter Berücksichtigung der anderen Bestimmungen dieses Abkommens besteuert werden.
+<sup>5.</sup> Die Absätze 1–3 sind nicht anwendbar, wenn die in einem Vertragsstaat ansässige, nutzungsberechtigte Person im anderen Vertragsstaat, aus dem die Zinsen stammen, eine gewerbliche Tätigkeit durch eine dort gelegene Betriebsstätte oder eine selbstständige Arbeit durch eine dort gelegene feste Einrichtung ausübt und wenn die Forderung, für die die Zinsen gezahlt werden, tatsächlich zu dieser Betriebsstätte oder festen Einrichtung gehört. In einem solchen Fall ist, je nachdem, Artikel 7 oder Artikel 14 anwendbar.
+
+<sup>6.</sup> Zinsen gelten dann als aus einem Vertragsstaat stammend, wenn der Schuldner eine in diesem Staat ansässige Person ist. Hat aber der Schuldner der Zinsen, ohne Rücksicht darauf, ob er in einem Vertragsstaat ansässig ist oder nicht, in einem Vertragsstaat eine Betriebsstätte oder eine feste Einrichtung und ist die Schuld, für die die Zinsen gezahlt werden, für Zwecke der Betriebsstätte oder der festen Einrichtung eingegangen worden und trägt die Betriebsstätte oder die feste Einrichtung diese Zinsen, so gelten die Zinsen als aus dem Staat stammend, in dem die Betriebsstätte oder die feste Einrichtung liegt.
+
+<sup>7.</sup> Bestehen zwischen dem Schuldner und der nutzungsberechtigten Person oder zwischen beiden und einer Drittperson besondere Beziehungen und übersteigen deshalb die Zinsen, gemessen an der zugrunde liegenden Forderung, den Betrag, den Schuldner und nutzungsberechtigte Person ohne diese Beziehungen vereinbart hätten, so wird dieser Artikel nur auf den letztgenannten Betrag angewendet. In diesem Fall kann der übersteigende Betrag nach dem Recht eines jeden Vertragsstaats und unter Berücksichtigung der anderen Bestimmungen dieses Abkommens besteuert werden.
+
+[^11-1]: Fassung gemäss Art. 7 des Prot. vom 6. Nov. 2019, von der BVers genehmigt am 19. März 2021 und in Kraft seit 14. Okt. 2024 ([AS 2024 615](https://fedlex.data.admin.ch/eli/oc/2024/615), [614](https://fedlex.data.admin.ch/eli/oc/2024/614); [BBl 2020 7075](https://fedlex.data.admin.ch/eli/fga/2020/1897)).
 
 #### Art. 12
 
@@ -266,15 +299,24 @@ Die zuständigen Behörden der Vertragsstaaten regeln in gegenseitigem Einverneh
 
 #### Art. 13
 
-**Gewinne aus der Veräusserung von Vermögen**
+**Gewinne aus der Veräusserung von Vermögen**[^13-1]
 
-<sup>1.</sup> Gewinne, die eine in einem Vertragsstaat ansässige Person aus der Veräusserung unbeweglichen Vermögens im Sinne des Artikels 6 bezieht, das im anderen Vertragsstaat liegt, können im anderen Staat besteuert werden.
+<sup>1.</sup> Gewinne, die eine in einem Vertragsstaat ansässige Person aus der Veräusserung unbeweglichen Vermögens im Sinne von Artikel 6 bezieht, das im anderen Vertragsstaat liegt, können im anderen Staat besteuert werden.
 
 <sup>2.</sup> Gewinne aus der Veräusserung beweglichen Vermögens, das Betriebsvermögen einer Betriebsstätte ist, die ein Unternehmen eines Vertragsstaats im anderen Vertragsstaat hat, oder das zu einer festen Einrichtung gehört, die einer in einem Vertragsstaat ansässigen Person für die Ausübung einer selbstständigen Arbeit im anderen Vertragsstaat zur Verfügung steht, einschliesslich derartiger Gewinne, die bei der Veräusserung einer solchen Betriebsstätte (allein oder mit dem übrigen Unternehmen) oder einer solchen festen Einrichtung erzielt werden, können im anderen Staat besteuert werden.
 
-<sup>3.</sup> Gewinne aus der Veräusserung von Seeschiffen oder Luftfahrzeugen, die im internationalen Verkehr betrieben werden, oder von beweglichem Vermögen, das dem Betrieb dieser Schiffe oder Luftfahrzeuge dient, können nur in dem Vertragsstaat besteuert werden, in dem sich der Ort der tatsächlichen Geschäftsleitung des Unternehmens befindet.
+<sup>3.</sup> Gewinne aus der Veräusserung von Schiffen oder Luftfahrzeugen, die im internationalen Verkehr betrieben werden, oder von beweglichem Vermögen, das dem Betrieb dieser Schiffe oder Luftfahrzeuge dient, können nur in dem Vertragsstaat besteuert werden, in dem sich der Ort der tatsächlichen Geschäftsleitung des Unternehmens befindet.
 
-<sup>4.</sup> Gewinne aus der Veräusserung des in den Absätzen 1, 2 und 3 nicht genannten Vermögens können nur in dem Vertragsstaat besteuert werden, in dem der Veräusserer ansässig ist.
+<sup>4.</sup>
+
+Gewinne, die eine in einem Vertragsstaat ansässige Person aus der Veräusserung von Anteilen am Kapital einer Gesellschaft bezieht, deren Wert zu mehr als 50 Prozent unmittelbar oder mittelbar auf unbeweglichem Vermögen beruht, das im anderen Vertragsstaat liegt, können im anderen Staat besteuert werden. Die Bestimmungen des vorstehenden Satzes sind nicht anzuwenden auf Gewinne:
+
+- a) aus der Veräusserung von Anteilen, die an einer Börse in einem der Vertragsstaaten oder an einer Börse entsprechend der Vereinbarung zwischen den zuständigen Behörden der Vertragsstaaten kotiert sind; oder
+- b) aus der Veräusserung von Anteilen an einer Gesellschaft, deren Wert zu mehr als 50 Prozent aus unbeweglichem Vermögen besteht, in welchem das Unternehmen seine Geschäftstätigkeit ausübt.
+
+<sup>5.</sup> Gewinne aus der Veräusserung des in den Absätzen 1–4 nicht genannten Vermögens können nur im Vertragsstaat besteuert werden, in dem die veräussernde Person ansässig ist.
+
+[^13-1]: Fassung gemäss Art. 8 des Prot. vom 6. Nov. 2019, von der BVers genehmigt am 19. März 2021 und in Kraft seit 14. Okt. 2024 ([AS 2024 615](https://fedlex.data.admin.ch/eli/oc/2024/615), [614](https://fedlex.data.admin.ch/eli/oc/2024/614); [BBl 2020 7075](https://fedlex.data.admin.ch/eli/fga/2020/1897)).
 
 #### Art. 14
 
@@ -290,10 +332,12 @@ Die zuständigen Behörden der Vertragsstaaten regeln in gegenseitigem Einverneh
 
 <sup>1.</sup> Vorbehaltlich der Artikel 16, 18 und 19 können Gehälter, Löhne und ähnliche Vergütungen, die eine in einem Vertragsstaat ansässige Person aus unselbstständiger Arbeit bezieht, nur in diesem Staat besteuert werden, es sei denn, die Arbeit wird im anderen Vertragsstaat ausgeübt. Wird die Arbeit dort ausgeübt, so können die dafür bezogenen Vergütungen im anderen Staat besteuert werden.
 
-<sup>2.</sup> Ungeachtet des Absatzes 1 können Vergütungen, die eine in einem Vertragsstaat ansässige Person für eine im anderen Vertragsstaat ausgeübte unselbstständige Arbeit bezieht, nur im erstgenannten Staat besteuert werden, wenn
+<sup>2.</sup>
 
-- a) der Empfänger sich im anderen Staat insgesamt nicht länger als 183 Tage während des betreffenden Steuerjahres aufhält, und
-- b) die Vergütungen von einem Arbeitgeber oder für einen Arbeitgeber gezahlt werden, der nicht im anderen Staat ansässig ist, und
+Ungeachtet des Absatzes 1 können Vergütungen, die eine in einem Vertragsstaat ansässige Person für eine im anderen Vertragsstaat ausgeübte unselbstständige Arbeit bezieht, nur im erstgenannten Staat besteuert werden, wenn:
+
+- a) der Empfänger sich im anderen Staat insgesamt nicht länger als 183 Tage während des betreffenden Steuerjahres aufhält; und
+- b) die Vergütungen von einem Arbeitgeber oder für einen Arbeitgeber gezahlt werden, der nicht im anderen Staat ansässig ist; und
 - c) die Vergütungen nicht von einer Betriebsstätte oder einer festen Einrichtung getragen werden, die der Arbeitgeber im anderen Staat hat.
 
 <sup>3.</sup> Ungeachtet der vorstehenden Bestimmungen dieses Artikels können Vergütungen für unselbstständige Arbeit, die an Bord eines Seeschiffes oder Luftfahrzeuges, das im internationalen Verkehr betrieben wird, ausgeübt wird, in dem Vertragsstaat besteuert werden, in dem sich der Ort der tatsächlichen Geschäftsleitung des Unternehmens befindet.
@@ -316,19 +360,24 @@ Aufsichtsrats- oder Verwaltungsratsvergütungen und ähnliche Zahlungen, die ein
 
 #### Art. 18
 
-**Ruhegehälter und Renten**
+**Ruhegehälter und Renten**[^18-1]
 
-<sup>1.</sup> Vorbehaltlich des Artikels 19 Absatz 2 können Ruhegehälter und ähnliche Vergütungen, die für frühere unselbstständige Arbeit und Renten, die einer in einem Vertragsstaat ansässigen Person gezahlt werden, nur in diesem Staat besteuert werden.
+<sup>1.</sup> Unter Vorbehalt von Artikel 19 Absatz 2 können Ruhegehälter und ähnliche Vergütungen für frühere unselbstständige Arbeit und Renten, die einer in einem Vertragsstaat ansässigen Person gezahlt werden, nur in diesem Staat besteuert werden. Sind diese Ruhegehälter und ähnlichen Vergütungen, die aus dem anderen Vertragsstaat stammen, jedoch im erstgenannten Staat nicht steuerbar, so können sie im anderen Vertragsstaat besteuert werden.
 
 <sup>2.</sup> Der Ausdruck «Renten» bedeutet bestimmte Summen, die periodisch an festen Terminen, auf Lebenszeit oder während einer bestimmten oder bestimmbaren Dauer als Gegenleistung für eine angemessene und volle Vergütung in Geld oder Geldeswert gezahlt werden.
+
+[^18-1]: Fassung gemäss Art. 9 des Prot. vom 6. Nov. 2019, von der BVers genehmigt am 19. März 2021 und in Kraft seit 14. Okt. 2024 ([AS 2024 615](https://fedlex.data.admin.ch/eli/oc/2024/615), [614](https://fedlex.data.admin.ch/eli/oc/2024/614); [BBl 2020 7075](https://fedlex.data.admin.ch/eli/fga/2020/1897)).
 
 #### Art. 19
 
 **Öffentlicher Dienst**
 
 - 1\. a) Vergütungen, ausgenommen Ruhegehälter, die von einem Vertragsstaat oder einer seiner politischen Unterabteilungen oder lokalen Körperschaften an eine natürliche Person für die diesem Staat oder der politischen Unterabteilung oder lokalen Körperschaft geleisteten Dienste gezahlt werden, können nur in diesem Staat besteuert werden.
-- b) Diese Vergütungen können jedoch nur im anderen Vertragsstaat besteuert werden, wenn die Dienste in diesem Staat geleistet werden und die natürliche Person in diesem Staat ansässig ist und
-  - (i) ein Staatsangehöriger dieses Staates ist oder
+- b)
+
+  Diese Vergütungen können jedoch nur im anderen Vertragsstaat besteuert werden, wenn die Dienste in diesem Staat geleistet werden und die natürliche Person in diesem Staat ansässig ist und:
+
+  - (i) ein Staatsangehöriger dieses Staates ist; oder
   - (ii) nicht ausschliesslich deshalb in diesem Staat ansässig geworden ist, um die Dienste zu leisten.
 
 - 2\. a) Ruhegehälter, die von einem Vertragsstaat oder einer seiner politischen Unterabteilungen oder lokalen Körperschaften oder aus einem von diesem Staat oder der politischen Unterabteilung oder lokalen Körperschaft errichteten Sondervermögen an eine natürliche Person für die diesem Staat oder der politischen Unterabteilung oder lokalen Körperschaft geleisteten Dienste gezahlt werden, können nur in diesem Staat besteuert werden.
@@ -366,35 +415,37 @@ Aufsichtsrats- oder Verwaltungsratsvergütungen und ähnliche Zahlungen, die ein
 
 #### Art. 23
 
-**Vermeidung der Doppelbesteuerung**
+**Vermeidung der Doppelbesteuerung**[^23-1]
 
-<sup>1.</sup> Bezieht eine in Kuwait ansässige Person Einkünfte oder hat sie Vermögen und können diese Einkünfte oder dieses Vermögen nach diesem Abkommen in der Schweiz besteuert werden, so kann Kuwait solche Einkünfte oder solches Vermögen ebenfalls besteuern, gewährt aber nach Massgabe seines innerstaatlichen Rechts eine Entlastung für die in der Schweiz gezahlten Steuern. Diese Entlastung erfolgt durch eine Anrechnung der in der Schweiz gezahlten Einkommen- oder Vermögensteuer auf die in Kuwait erhobenen Steuern; der anzurechnende Betrag darf aber die im Verhältnis zum gesamten Einkommen oder Vermögen auf solche Einkünfte oder solches Vermögen entfallende kuwaitische Steuer nicht übersteigen.
+<sup>1.</sup> Bezieht eine in Kuwait ansässige Person Einkünfte oder hat sie Vermögen und können diese Einkünfte oder dieses Vermögen nach diesem Abkommen in der Schweiz besteuert werden, so kann Kuwait solche Einkünfte oder solches Vermögen ebenfalls besteuern, gewährt aber nach Massgabe seines innerstaatlichen Rechts eine Entlastung für die in der Schweiz gezahlten Steuern. Diese Entlastung erfolgt durch eine Anrechnung der in der Schweiz gezahlten Einkommens- oder Vermögenssteuer auf die in Kuwait erhobenen Steuern; der anzurechnende Betrag darf aber die im Verhältnis zum gesamten Einkommen oder Vermögen auf solche Einkünfte oder solches Vermögen entfallende kuwaitische Steuer nicht übersteigen.
 
-<sup>2.</sup> Bezieht eine in der Schweiz ansässige Person Einkünfte oder hat sie Vermögen und können diese Einkünfte oder dieses Vermögen nach diesem Abkommen in Kuwait besteuert werden, so nimmt die Schweiz, vorbehaltlich des Absatzes 3, diese Einkünfte oder dieses Vermögen von der Besteuerung aus. Diese Befreiung wird jedoch nur dann gewährt, wenn solche Einkünfte oder solches Vermögen in Kuwait tatsächlich besteuert werden. Die Schweiz kann bei der Festsetzung der Steuer für das übrige Einkommen oder das übrige Vermögen dieser ansässigen Person den Steuersatz anwenden, der anzuwenden wäre, wenn die betreffenden Einkünfte oder das betreffende Vermögen nicht von der Besteuerung ausgenommen wären.
+<sup>2.</sup> Bezieht eine in der Schweiz ansässige Person Einkünfte oder hat sie Vermögen und können diese Einkünfte oder dieses Vermögen nach diesem Abkommen in Kuwait besteuert werden, so nimmt die Schweiz, unter Vorbehalt von Absatz 3, diese Einkünfte oder dieses Vermögen von der Besteuerung aus. Die Schweiz kann bei der Festsetzung der Steuer für das übrige Einkommen oder das übrige Vermögen dieser ansässigen Person den Steuersatz anwenden, der anzuwenden wäre, wenn die betreffenden Einkünfte oder das betreffende Vermögen nicht von der Besteuerung ausgenommen wären. Gewinne nach Artikel 13 Absatz 4 werden indessen nur von der Besteuerung ausgenommen, wenn sie in Kuwait besteuert werden.
 
-<sup>3.</sup> Die Schweiz wird gemäss den schweizerischen Vorschriften über die Durchführung von zwischenstaatlichen Abkommen des Bundes zur Vermeidung der Doppelbesteuerung die Art der Entlastung bestimmen und das Verfahren ordnen.
+<sup>3.</sup> Die Schweiz bestimmt die Art der Entlastung nach den schweizerischen Vorschriften über die Durchführung von zwischenstaatlichen Abkommen des Bundes zur Vermeidung der Doppelbesteuerung und ordnet das Verfahren.
 
-Bezieht eine in der Schweiz ansässige Person Dividenden, Zinsen oder Lizenzgebühren, die nach den Artikeln 10, 11 oder 12 in Kuwait besteuert werden können, so gewährt die Schweiz dieser ansässigen Person auf Antrag eine Entlastung. Die Entlastung besteht:
+Bezieht eine in der Schweiz ansässige Person Dividenden, Zinsen oder Lizenzgebühren, die nach Artikel 10, 11 oder 12 in Kuwait besteuert werden können, so gewährt die Schweiz dieser Person auf Antrag eine Entlastung. Die Entlastung besteht:
 
 - a) in der Anrechnung der nach den Artikeln 10, 11 und 12 in Kuwait erhobenen Steuer auf die vom Einkommen dieser ansässigen Person geschuldete schweizerische Steuer; der anzurechnende Betrag darf jedoch den Teil der vor der Anrechnung ermittelten schweizerischen Steuer nicht übersteigen, der auf die Einkünfte entfällt, die in Kuwait besteuert werden können; oder
 - b) in einer pauschalen Ermässigung der schweizerischen Steuer; oder
 - c) in einer teilweisen Befreiung der betreffenden Dividenden, Zinsen oder Lizenzgebühren von der schweizerischen Steuer, mindestens aber im Abzug der in Kuwait erhobenen Steuer vom Bruttobetrag der Dividenden, Zinsen oder Lizenzgebühren.
 
+[^23-1]: Fassung gemäss Art. 10 des Prot. vom 6. Nov. 2019, von der BVers genehmigt am 19. März 2021 und in Kraft seit 14. Okt. 2024 ([AS 2024 615](https://fedlex.data.admin.ch/eli/oc/2024/615), [614](https://fedlex.data.admin.ch/eli/oc/2024/614); [BBl 2020 7075](https://fedlex.data.admin.ch/eli/fga/2020/1897)).
+
 #### Art. 24
 
-**Gleichbehandlung**
+**Gleichbehandlung**[^24-1]
 
-<sup>1.</sup> Natürliche Personen, die die Staatsangehörigkeit eines Vertragsstaats besitzen, dürfen im anderen Vertragsstaat keiner Besteuerung oder damit zusammenhängenden Verpflichtung unterworfen werden, die belastender ist als die Besteuerung und die damit zusammenhängenden Verpflichtungen, denen natürliche Personen, die die Staatsangehörigkeit des anderen Staates besitzen, unter gleichen Verhältnissen unterworfen sind oder unterworfen werden können.
+<sup>1.</sup> Staatsangehörige eines Vertragsstaats dürfen im anderen Vertragsstaat keiner Besteuerung oder damit zusammenhängenden Verpflichtung unterworfen werden, die belastender ist als die Besteuerung und die damit zusammenhängenden Verpflichtungen, denen Staatsangehörige des anderen Staates unter gleichen Verhältnissen, insbesondere hinsichtlich der Ansässigkeit, unterworfen sind oder unterworfen werden können. Diese Bestimmung gilt ungeachtet des Artikels 1 auch für Personen, die in keinem Vertragsstaat ansässig sind.
 
-<sup>2.</sup> Die Besteuerung einer Betriebsstätte, die ein Unternehmen eines Vertragsstaats im anderen Vertragsstaat hat, darf im anderen Staat nicht ungünstiger sein als die Besteuerung von Unternehmen aus Drittstaaten, die unter gleichen Verhältnissen die gleiche Tätigkeit ausüben. Diese Bestimmung ist nicht so auszulegen, als verpflichte sie einen Vertragsstaat dazu, die seinen ansässigen Personen gewährten Steuerfreibeträge, -vergünstigungen und -ermässigungen auf Grund des Personenstandes oder der Familienlasten auch den im anderen Vertragsstaat ansässigen Personen zu gewähren.
+<sup>2.</sup> Die Besteuerung einer Betriebsstätte, die ein Unternehmen eines Vertragsstaats im anderen Vertragsstaat hat, darf im anderen Staat nicht ungünstiger sein als die Besteuerung von Unternehmen des anderen Staates, die die gleiche Tätigkeit ausüben. Diese Bestimmung ist nicht so auszulegen, als verpflichte sie einen Vertragsstaat, den im anderen Vertragsstaat ansässigen Personen Steuerfreibeträge, -vergünstigungen und -ermässigungen aufgrund des Personenstandes oder der Familienlasten zu gewähren, die er seinen ansässigen Personen gewährt.
 
-<sup>3.</sup> Unternehmen eines Vertragsstaats, deren Kapital ganz oder teilweise unmittelbar oder mittelbar einer im anderen Vertragsstaat ansässigen Person oder mehreren solchen Personen gehört oder ihrer Kontrolle unterliegt, dürfen im erstgenannten Staat keiner Besteuerung oder damit zusammenhängenden Verpflichtung unterworfen werden, die anders oder belastender ist als die Besteuerung und die damit zusammenhängenden Verpflichtungen, denen andere ähnliche Unternehmen, deren Kapital ganz oder teilweise unmittelbar oder mittelbar einer oder mehreren in Drittstaaten ansässigen Personen gehört oder ihrer Kontrolle unterliegt, unterworfen sind oder unterworfen werden können.
+<sup>3.</sup> Sofern nicht Artikel 9 Absatz 1, Artikel 11 Absatz 7 oder Artikel 12 Absatz 6 anwendbar ist, sind Zinsen, Lizenzgebühren und andere Entgelte, die ein Unternehmen eines Vertragsstaats an eine im anderen Vertragsstaat ansässige Person zahlt, bei der Ermittlung der steuerpflichtigen Gewinne dieses Unternehmens unter den gleichen Bedingungen wie Zahlungen an eine im erstgenannten Staat ansässige Person zum Abzug zuzulassen. In gleicher Weise sind Schulden, die ein Unternehmen eines Vertragsstaats gegenüber einer im anderen Vertragsstaat ansässigen Person hat, bei der Ermittlung des steuerpflichtigen Vermögens dieses Unternehmens unter den gleichen Bedingungen wie Schulden gegenüber einer im erstgenannten Staat ansässigen Person zum Abzug zuzulassen.
 
-<sup>4.</sup> Sofern nicht Artikel 9, Artikel 11 Absatz 6 oder Artikel 12 Absatz 6 anzuwenden ist, sind abzugsfähige Zinsen, Lizenzgebühren und andere Entgelte, die ein Unternehmen eines Vertragsstaats an eine im anderen Vertragsstaat ansässige Person zahlt, bei der Ermittlung der steuerpflichtigen Gewinne dieses Unternehmens unter den gleichen Bedingungen wie Zahlungen an eine im erstgenannten Staat ansässige Person zum Abzug zuzulassen. Dementsprechend sind abzugsfähige Schulden, die ein Unternehmen eines Vertragsstaats gegenüber einer im anderen Vertragsstaat ansässigen Person hat, bei der Ermittlung des steuerpflichtigen Vermögens dieses Unternehmens unter den gleichen Bedingungen wie Schulden gegenüber einer im erstgenannten Staat ansässigen Person zum Abzug zuzulassen.
+<sup>4.</sup> Unternehmen eines Vertragsstaats, deren Kapital ganz oder teilweise unmittelbar oder mittelbar einer oder mehreren im anderen Vertragsstaat ansässigen Personen gehört oder deren Kontrolle unterliegt, dürfen im erstgenannten Staat keiner Besteuerung oder damit zusammenhängenden Verpflichtung unterworfen werden, die anders oder belastender ist als die Besteuerung und die damit zusammenhängenden Verpflichtungen, denen andere ähnliche Unternehmen des erstgenannten Staates unterworfen sind oder unterworfen werden können.
 
-<sup>5.</sup> Die Bestimmungen dieses Artikels dürfen nicht dahin ausgelegt werden, dass sie den Vertragsstaaten die Verpflichtung auferlegen, anderen Staaten oder in diesen ansässigen Personen auf Grund einer Zollunion, Wirtschaftsunion, Freihandelszone oder einer regionalen oder subregionalen Vereinbarung bezüglich Besteuerung oder Kapitaltransfer gewährte Vorteile oder Privilegien auf die im anderen Vertragsstaat ansässigen Personen auszudehnen.
+<sup>5.</sup> Dieser Artikel gilt ungeachtet des Artikels 2 für Steuern jeder Art und Bezeichnung.
 
-<sup>6.</sup> Dieser Artikel gilt ungeachtet des Artikels 2 für Steuern jeder Art und Bezeichnung.
+[^24-1]: Fassung gemäss Art. 11 des Prot. vom 6. Nov. 2019, von der BVers genehmigt am 19. März 2021 und in Kraft seit 14. Okt. 2024 ([AS 2024 615](https://fedlex.data.admin.ch/eli/oc/2024/615), [614](https://fedlex.data.admin.ch/eli/oc/2024/614); [BBl 2020 7075](https://fedlex.data.admin.ch/eli/fga/2020/1897)).
 
 #### Art. 25
 
@@ -408,22 +459,70 @@ Bezieht eine in der Schweiz ansässige Person Dividenden, Zinsen oder Lizenzgeb�
 
 <sup>4.</sup> Die zuständigen Behörden der Vertragsstaaten können zur Herbeiführung einer Einigung im Sinne der vorstehenden Absätze unmittelbar miteinander verkehren. Erscheint ein mündlicher Meinungsaustausch für die Herbeiführung der Einigung zweckmässig, so kann ein solcher Meinungsaustausch in einer Kommission durchgeführt werden, die aus Vertretern der zuständigen Behörden der Vertragsstaaten besteht.
 
+<sup>5.</sup> sind alle ungelösten Streitpunkte des Falls auf Ersuchen der Person einem Schiedsverfahren zuzuleiten. Diese ungelösten Streitpunkte dürfen jedoch dann nicht einem Schiedsverfahren zugeleitet werden, wenn in dieser Angelegenheit bereits eine Entscheidung durch ein Gericht oder ein Verwaltungsgericht eines der beiden Staaten ergangen ist. Sofern nicht eine vom Fall unmittelbar betroffene Person die Verständigungsregelung zur Umsetzung des Schiedsspruchs ablehnt oder die zuständigen Behörden und die unmittelbar betroffenen Personen sich nicht innerhalb von sechs Monaten nach Bekanntgabe des Schiedsspruchs auf eine abweichende Lösung einigen, ist dieser Schiedsspruch für beide Vertragsstaaten bindend und ungeachtet der Fristen ihres innerstaatlichen Rechts umzusetzen. Die zuständigen Behörden der Vertragsstaaten regeln in gegenseitigem Einvernehmen, wie das Verfahren nach diesem Absatz durchzuführen ist.[^25-1]
+
+Wenn:
+
+- a) eine Person der zuständigen Behörde eines Vertragsstaats gemäss Absatz 1 einen Fall mit der Begründung unterbreitet hat, dass die Massnahmen eines Vertragsstaats oder beider Vertragsstaaten für sie zu einer Besteuerung geführt haben, die diesem Abkommen nicht entspricht; und
+- b) die zuständigen Behörden nicht in der Lage sind, innerhalb von drei Jahren ab der Vorlage des Falls an die zuständige Behörde des anderen Vertragsstaats eine einvernehmliche Lösung im Sinne von Absatz 2 herbeizuführen;
+
+<sup>6.</sup> Die Vertragsstaaten können der nach Absatz 5 gebildeten Schiedsstelle die für die Durchführung des Schiedsverfahrens erforderlichen Informationen zugänglich machen. Die Mitglieder der Schiedsstelle unterliegen hinsichtlich dieser Informationen den Geheimhaltungsvorschriften nach Artikel 26 Absatz 2.[^25-2]
+
+[^25-1]: Eingefügt durch Art. 12 des Prot. vom 6. Nov. 2019, von der BVers genehmigt am 19. März 2021 und in Kraft seit 14. Okt. 2024 ([AS 2024 615](https://fedlex.data.admin.ch/eli/oc/2024/615), [614](https://fedlex.data.admin.ch/eli/oc/2024/614); [BBl 2020 7075](https://fedlex.data.admin.ch/eli/fga/2020/1897)).
+[^25-2]: Eingefügt durch Art. 12 des Prot. vom 6. Nov. 2019, von der BVers genehmigt am 19. März 2021 und in Kraft seit 14. Okt. 2024 ([AS 2024 615](https://fedlex.data.admin.ch/eli/oc/2024/615), [614](https://fedlex.data.admin.ch/eli/oc/2024/614); [BBl 2020 7075](https://fedlex.data.admin.ch/eli/fga/2020/1897)).
+
 #### Art. 26
 
-**Diplomaten und Konsularbeamte**
+**Informationsaustausch**[^26-1]
+
+<sup>1.</sup> Die zuständigen Behörden der Vertragsstaaten tauschen die Informationen aus, die zur Durchführung dieses Abkommens oder zur Anwendung oder Durchsetzung des innerstaatlichen Rechts über die unter das Abkommen fallenden Steuern voraussichtlich erheblich sind, soweit die diesem Recht entsprechende Besteuerung nicht dem Abkommen widerspricht. Der Informationsaustausch ist durch Artikel 1 nicht eingeschränkt.
+
+<sup>2.</sup> Alle Informationen, die ein Vertragsstaat nach Absatz 1 erhalten hat, sind ebenso geheim zu halten wie die aufgrund des innerstaatlichen Rechts dieses Staates beschafften Informationen; sie dürfen nur den Personen oder Behörden, einschliesslich der Gerichte und der Verwaltungsbehörden, zugänglich gemacht werden, die mit der Veranlagung oder der Erhebung, mit der Vollstreckung oder der Strafverfolgung oder mit der Entscheidung von Rechtsmitteln hinsichtlich der in Absatz 1 genannten Steuern befasst sind. Diese Personen oder Behörden dürfen die Informationen nur für diese Zwecke verwenden. Sie können die Informationen in einem öffentlichen Gerichtsverfahren oder in einer Gerichtsentscheidung offenlegen. Ungeachtet der vorstehenden Bestimmungen kann ein Vertragsstaat die erhaltenen Informationen für andere Zwecke verwenden, wenn solche Informationen nach dem Recht beider Staaten für solche andere Zwecke verwendet werden können und die zuständige Behörde des übermittelnden Staates dieser anderen Verwendung zustimmt.
+
+<sup>3.</sup>
+
+Die Absätze 1 und 2 sind nicht so auszulegen, als verpflichteten sie einen Vertragsstaat:
+
+- a) Verwaltungsmassnahmen durchzuführen, die von den Gesetzen und der Verwaltungspraxis dieses oder des anderen Vertragsstaats abweichen;
+- b) Informationen zu erteilen, die nach den Gesetzen oder im üblichen Verwaltungsverfahren dieses oder des anderen Vertragsstaats nicht beschafft werden können;
+- c) Informationen zu erteilen, die ein Handels-, Geschäfts-, Industrie-, Gewerbe- oder Berufsgeheimnis oder ein Geschäftsverfahren preisgeben würden oder deren Erteilung dem Ordre public widerspräche.
+
+<sup>4.</sup> Ersucht ein Vertragsstaat um Informationen nach diesem Artikel, so nutzt der andere Vertragsstaat die ihm zur Verfügung stehenden Möglichkeiten zur Beschaffung dieser Informationen, selbst wenn dieser andere Staat sie für seine eigenen steuerlichen Zwecke nicht benötigt. Die im vorstehenden Satz enthaltene Verpflichtung unterliegt den Beschränkungen nach Absatz 3, die jedoch in keinem Fall so auszulegen sind, dass ein Vertragsstaat die Erteilung von Informationen nur deshalb ablehnen kann, weil er kein innerstaatliches Interesse an solchen Informationen hat.
+
+<sup>5.</sup> Absatz 3 ist in keinem Fall so auszulegen, als könne ein Vertragsstaat die Erteilung von Informationen nur deshalb ablehnen, weil sich die Informationen bei einer Bank, einem sonstigen Finanzinstitut, einem Bevollmächtigten, Beauftragten oder Treuhänder befinden oder weil sie sich auf Eigentumsrechte an einer Person beziehen.
+
+[^26-1]: Eingefügt durch Art. 13 Ziff. 2 des Prot. vom 6. Nov. 2019, von der BVers genehmigt am 19. März 2021 und in Kraft seit 14. Okt. 2024 ([AS 2024 615](https://fedlex.data.admin.ch/eli/oc/2024/615), [614](https://fedlex.data.admin.ch/eli/oc/2024/614); [BBl 2020 7075](https://fedlex.data.admin.ch/eli/fga/2020/1897)).
+
+#### Art. 27
+
+**Anspruch auf Vorteile**[^27-1]
+
+<sup>1.</sup> Ungeachtet der anderen Bestimmungen dieses Abkommens wird ein Vorteil unter diesem Abkommen in Bezug auf Einkünfte oder Vermögensteile nicht gewährt, wenn unter Berücksichtigung aller massgebenden Tatsachen und Umstände vernünftigerweise der Schluss gezogen werden kann, dass das Erlangen dieses Vorteils einer der hauptsächlichen Zwecke einer Gestaltung oder eines Geschäfts war, die unmittelbar oder mittelbar zu diesem Vorteil führten; es sei denn, es wird nachgewiesen, dass das Gewähren dieses Vorteils unter diesen Umständen in Einklang mit dem Ziel und Zweck der entsprechenden Bestimmungen dieses Abkommens steht.
+
+<sup>2.</sup> Wenn ein Vorteil dieses Abkommens einer Person unter Absatz 1 verweigert wird, behandelt die zuständige Behörde des Vertragsstaats, der sonst diesen Vorteil gewährt hätte, diese Person dennoch als für diesen Vorteil oder für andere Vorteile in Bezug auf bestimmte Einkünfte oder Vermögensteile berechtigt, falls sie auf Antrag dieser Person und nach Abwägung der massgebenden Tatsachen und Umstände bestimmt, dass solche Vorteile dieser Person oder einer anderen Person ohne die Gestaltung oder das Geschäft nach Absatz 1 gewährt worden wären. Die zuständige Behörde des Vertragsstaats, an die der Antrag gestellt worden ist, berät sich mit der zuständigen Behörde des anderen Vertragsstaats, bevor sie einen unter diesem Absatz gestellten Antrag von einer im anderen Staat ansässigen Person ablehnt.»
+
+[^27-1]: Eingefügt durch Art. 13 Ziff. 2 des Prot. vom 6. Nov. 2019, von der BVers genehmigt am 19. März 2021 und in Kraft seit 14. Okt. 2024 ([AS 2024 615](https://fedlex.data.admin.ch/eli/oc/2024/615), [614](https://fedlex.data.admin.ch/eli/oc/2024/614); [BBl 2020 7075](https://fedlex.data.admin.ch/eli/fga/2020/1897)).
+
+#### Art. 28
+
+**Diplomaten und Konsularbeamte**[^28-1]
 
 <sup>1.</sup> Dieses Abkommen berührt nicht die steuerlichen Vorrechte, die den diplomatischen und konsularischen Beamten nach den allgemeinen Regeln des Völkerrechts oder auf Grund besonderer Vereinbarungen zustehen.
 
-<sup>2.</sup> Ungeachtet des Artikels 4 gilt eine natürliche Person, die Mitglied einer diplomatischen Mission, einer konsularischen Vertretung oder einer ständigen Vertretung eines Vertragsstaats ist, die im anderen Vertragsstaat oder in einem dritten Staat gelegen ist, als im Entsendestaat ansässig, wenn sie
+<sup>2.</sup>
 
-- a) nach dem Völkerrecht im Empfangsstaat mit Einkünften aus Quellen ausserhalb dieses Staates oder mit ausserhalb dieses Staates gelegenem Vermögen nicht steuerpflichtig ist und
+Ungeachtet des Artikels 4 gilt eine natürliche Person, die Mitglied einer diplomatischen Mission, einer konsularischen Vertretung oder einer ständigen Vertretung eines Vertragsstaats ist, die im anderen Vertragsstaat oder in einem dritten Staat gelegen ist, als im Entsendestaat ansässig, wenn sie:
+
+- a) nach dem Völkerrecht im Empfangsstaat mit Einkünften aus Quellen ausserhalb dieses Staates oder mit ausserhalb dieses Staates gelegenem Vermögen nicht steuerpflichtig ist; und
 - b) im Entsendestaat den gleichen Verpflichtungen bezüglich der Steuer von ihrem gesamten Einkommen oder vom Vermögen unterworfen ist wie in diesem Staat ansässige Personen.
 
 <sup>3.</sup> Das Abkommen gilt nicht für internationale Organisationen, deren Organe oder Beamte und für Personen, die Mitglieder einer diplomatischen Mission, einer konsularischen Vertretung oder einer ständigen Vertretung eines dritten Staates sind und die sich in einem Vertragsstaat aufhalten und in keinem der Vertragsstaaten für die Zwecke der Steuern vom Einkommen oder Vermögen als ansässig gelten.
 
-#### Art. 27
+[^28-1]: Ursprünglich: Art. 26.
 
-**Inkrafttreten**
+#### Art. 29
+
+**Inkrafttreten**[^29-1]
 
 <sup>1.</sup> Dieses Abkommen bedarf der Ratifikation; die Ratifikationsurkunden werden in Kuwait ausgetauscht.
 
@@ -434,22 +533,24 @@ Das Abkommen tritt mit dem Austausch der Ratifikationsurkunden in Kraft, und sei
 - a) hinsichtlich der an der Quelle erhobenen Steuern für Beträge, die am oder nach dem 1. Januar des Jahres der Unterzeichnung dieses Abkommens gezahlt oder gutgeschrieben werden;
 - b) hinsichtlich der anderen Steuern für Steuerperioden, die am oder nach dem 1. Januar des Jahres der Unterzeichnung dieses Abkommens beginnen.
 
-#### Art. 28
+[^29-1]: Ursprünglich: Art. 27.
 
-**Kündigung**
+#### Art. 30
+
+**Kündigung**[^30-1]
 
 Dieses Abkommen bleibt auf unbestimmte Zeit in Kraft, kann aber von jedem Vertragsstaat durch schriftliche, dem anderen Vertragsstaat auf diplomatischem Weg zuzustellende Mitteilung am oder vor dem 30. Juni eines Kalenderjahres gekündigt werden. In diesem Fall findet das Abkommen nicht mehr Anwendung:
 
 - a) hinsichtlich der an der Quelle erhobenen Steuern für Beträge, die am oder nach dem 1. Januar des auf die Kündigung folgenden Jahres gezahlt oder gutgeschrieben werden;
 - b) hinsichtlich der anderen Steuern für Steuerperioden, die am oder nach dem 1. Januar des auf die Kündigung folgenden Jahres beginnen.
 
-*Zu Urkund dessen* haben die hierzu gehörig bevollmächtigten Unterzeichneten dieses Abkommen unterschrieben. Geschehen zu Kuwait am 30. Shawwal 1419 H., entsprechend dem 16. Februar 1999, im Doppel in deutscher, arabischer und englischer Sprache, wobei jeder Wortlaut gleicherweise verbindlich ist. Bei unterschiedlicher Auslegung des Wortlauts soll der englische Wortlaut massgebend sein. Für den Schweizerischen Bundesrat: Für die Regierung des Staates Kuwait: Daniel Woker Abdul Mohsin Yousef Al Hunaif
+[^30-1]: Ursprünglich: Art. 28.
 
-Protokoll
+*Zu Urkund dessen* haben die hierzu gehörig bevollmächtigten Unterzeichneten dieses Abkommen unterschrieben. Geschehen zu Kuwait am 30. Shawwal 1419 H., entsprechend dem 16. Februar 1999, im Doppel in deutscher, arabischer und englischer Sprache, wobei jeder Wortlaut gleicherweise verbindlich ist. Bei unterschiedlicher Auslegung des Wortlauts soll der englische Wortlaut massgebend sein. Für den Schweizerischen Bundesrat: Daniel Woker Für die Regierung des Staates Kuwait: Abdul Mohsin Yousef Al Hunaif
 
-Der Schweizerische Bundesrat und die Regierung des Staates Kuwait,
+Protokoll[^t-3]
 
-haben in Kuwait am 30. Shawwal 1419 H., entsprechend dem 16. Februar 1999 anlässlich der Unterzeichnung des Abkommens zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen die folgenden, einen integrierenden Bestandteil des Abkommens bildenden Bestimmungen vereinbart:
+In Bezug auf das Abkommen zwischen der Schweizerischen Eidgenossenschaft und dem Staat Kuwait zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen und zur Verhinderung von Steuerhinterziehung und Steuerumgehung haben die Unterzeichneten die folgenden, einen integralen Bestandteil des Abkommens bildenden Bestimmungen vereinbart:
 
 \1. zu Artikel 4
 
@@ -481,20 +582,46 @@ Die Gewinne, die auf denjenigen Teil des Vertrags entfallen, der durch den Haupt
 
 Das Vorstehende bezweckt keine Abweichung von dem in Artikel 7 Absatz 2 enthaltenen Grundsatz des Drittvergleichs.
 
-\4. zu Artikel 12
+\4. zu Artikel 10 Absatz 3
+
+Es besteht Einvernehmen darüber, dass wenn die Mindesthaltedauer nach Artikel 10 Absatz 3 zum Zeitpunkt der Zahlung der Dividende nicht eingehalten wurde, deshalb die Steuer nach Artikel 10 Absatz 2 anlässlich der Zahlung zurückbehalten wurde und die Mindesthaltedauer nachträglich erfüllt wird, die zur Nutzung der Dividende berechtigte Person die Rückerstattung der zurückbehaltenen Steuer verlangen kann.
+
+\5. zu Artikel 12
 
 In Bezug auf Absatz 2 besteht Einvernehmen darüber, dass, solange einer der Vertragsstaaten nach seiner innerstaatlichen Gesetzgebung auf Lizenzgebühren, die an nichtansässige Personen gezahlt werden, keine Quellensteuer erhebt, die Bestimmungen von Absatz 2 keine Anwendung finden und Lizenzgebühren nur in dem Vertragsstaat besteuert werden können, in dem der Nutzungsberechtigte der Lizenzgebühren ansässig ist.
+
+\6. zu den Artikeln 18 und 19
+
+Es besteht Einvernehmen darüber, dass der in den Artikeln 18 und 19 verwendete Ausdruck «Ruhegehälter» nicht nur periodische Zahlungen, sondern auch Kapitalleistungen einschliesst.
+
+\7. Zu Artikel 26
+
+- a) Es besteht Einvernehmen darüber, dass der ersuchende Vertragsstaat ein Begehren um Austausch von Informationen erst dann stellt, wenn er alle in seinem innerstaatlichen Steuerverfahren vorgesehenen üblichen Mittel zur Beschaffung der Informationen ausgeschöpft hat.
+- b)
+
+  Es besteht Einvernehmen darüber, dass die Steuerbehörden des ersuchenden Staates bei der Stellung eines Amtshilfebegehrens nach Artikel 26 den Steuerbehörden des ersuchten Staates die nachstehenden Angaben zu liefern haben:
+
+  - (i) die Identität der in eine Überprüfung oder Untersuchung einbezogenen Person;
+  - (ii) die Zeitperiode, für welche die Informationen verlangt werden;
+  - (iii) eine Beschreibung der verlangten Informationen sowie Angaben hinsichtlich der Form, in der der ersuchende Staat diese Informationen vom ersuchten Staat zu erhalten wünscht;
+  - (iv) den Steuerzweck, für den die Informationen verlangt werden;
+  - (v) soweit bekannt, den Namen und die Adresse des mutmasslichen Inhabers der verlangten Informationen.
+
+- c) Es besteht Einvernehmen darüber, dass der Zweck der Verweisung auf Informationen, die voraussichtlich erheblich sind, darin besteht, einen möglichst weit gehenden Informationsaustausch in Steuerbelangen zu gewährleisten, ohne den Vertragsstaaten zu erlauben, «fishing expeditions» zu betreiben oder um Informationen zu ersuchen, deren Erheblichkeit hinsichtlich der Steuerbelange einer bestimmten steuerpflichtigen Person unwahrscheinlich ist. Während Buchstabe b wichtige verfahrenstechnische Anforderungen enthält, die «fishing expeditions» vermeiden sollen, sind die Ziffern i–v von Buchstabe b nicht so auszulegen, dass sie einen wirksamen Informationsaustausch behindern.
+- d) Es besteht Einvernehmen darüber, dass Artikel 26 die Vertragsstaaten nicht dazu verpflichtet, Informationen auf automatischer oder spontaner Basis auszutauschen.
+- e) Es besteht Einvernehmen darüber, dass im Fall des Austauschs von Informationen die im ersuchten Staat geltenden Bestimmungen des Verwaltungsverfahrensrechts über die Rechte der steuerpflichtigen Person vorbehalten bleiben. Es besteht im Weiteren Einvernehmen darüber, dass diese Bestimmungen dazu dienen, der steuerpflichtigen Person ein ordnungsgemässes Verfahren zu gewähren, und nicht bezwecken, den Informationsaustausch zu verhindern oder übermässig zu verzögern.
 
 *Zu Urkund dessen* haben die hierzu gehörig bevollmächtigten Unterzeichneten dieses Protokoll unterschrieben.
 
 Geschehen zu Kuwait am 30. Shawwal 1419 H., entsprechend dem 16. Februar 1999, im Doppel in deutscher, arabischer und englischer Sprache, wobei jeder Wortlaut gleicherweise verbindlich ist. Bei unterschiedlicher Auslegung des Wortlauts soll der englische Wortlaut massgebend sein.
 
 <table>
-<tr><td>Für den Schweizerischen Bundesrat:</td><td>Für die Regierung des Staates Kuwait:</td></tr>
-<tr><td>Daniel Woker</td><td>Abdul Mohsin Yousef Al Hunaif</td></tr>
+<tr><td>Für den Schweizerischen Bundesrat: Daniel Woker</td><td>Für die Regierung des Staates Kuwait: Abdul Mohsin Yousef Al Hunaif</td></tr>
 </table>
 
-Übersetzung[^t-2]
+[^t-3]: Bereinigt gemäss Art. 14 des Prot. vom 6. Nov. 2019, von der BVers genehmigt am 19. März 2021 und in Kraft seit 14. Okt. 2024 ([AS 2024 615](https://fedlex.data.admin.ch/eli/oc/2024/615), [614](https://fedlex.data.admin.ch/eli/oc/2024/614); [BBl 2020 7075](https://fedlex.data.admin.ch/eli/fga/2020/1897)).
+
+Übersetzung[^t-4]
 
 <table>
 <tr><td>Schweizerische Botschaft</td><td>Kuwait, 16. Februar 1999</td></tr>
@@ -520,7 +647,7 @@ Genehmigen Sie, Herr Staatssekretär, den Ausdruck meiner ausgezeichneten Hochac
 <tr><td></td><td>Daniel Woker Schweizerischer Botschafter</td></tr>
 </table>
 
-[^t-2]: Übersetzung des englischen Originaltextes.
+[^t-4]: Übersetzung des englischen Originaltextes.
 
 Übersetzung
 
@@ -550,3 +677,22 @@ Genehmigen Sie, Herr Botschafter, den Ausdruck meiner ausgezeichneten Hochachtun
 <table>
 <tr><td></td><td>Abdul Mohsin Yousef Al Hunaif Staatssekretär Finanzministerium</td></tr>
 </table>
+
+## Art. 15 Ziff. 2 des Prot. vom 6. Nov. 2019
+
+[^annexu1-lvlu2-1]
+
+[^annexu1-lvlu2-1]: [AS 2024 615](https://fedlex.data.admin.ch/eli/oc/2024/615), [614](https://fedlex.data.admin.ch/eli/oc/2024/614); [BBl 2020 7075](https://fedlex.data.admin.ch/eli/fga/2020/1897)
+
+\2. Die Bestimmungen des Protokolls finden Anwendung:
+
+- a) hinsichtlich der an der Quelle erhobenen Steuern auf Einkünfte, die am oder nach dem 1. Januar des auf das Inkrafttreten des Protokolls folgenden Kalenderjahres gezahlt oder gutgeschrieben werden;
+- b) hinsichtlich der übrigen Steuern auf Steuerjahre, die am oder nach dem 1. Januar des auf das Inkrafttreten des Protokolls folgenden Kalenderjahres beginnen;
+- c)
+
+  hinsichtlich Artikel 25 Absätze 5 und 6 auf Verständigungsverfahren:
+
+  - (i) die zwischen den zuständigen Behörden der Vertragsstaaten im Zeitpunkt des Inkrafttretens dieses Protokolls bereits hängig sind (in diesen Fällen beginnt die Dreijahresfrist nach Absatz 5 Buchstabe b am Datum des Inkrafttretens dieses Protokolls zu laufen), oder
+  - (ii) die nach diesem Zeitpunkt eingeleitet werden;
+
+- d) hinsichtlich Artikel 26 für Informationen über Steuerjahre oder Geschäftsjahre, die am oder nach dem 1. Januar des auf das Inkrafttreten des Abkommens folgenden Kalenderjahres beginnen.

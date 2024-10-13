@@ -3,33 +3,38 @@ sr: "0.672.947.61"
 title: Convenzione del 16 febbraio 1999 tra la Confederazione Svizzera e lo Stato del Kuwait per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio e per prevenire l’evasione e l’elusione fiscali (con prot. e scambio di lettere)
 eli: "https://fedlex.data.admin.ch/eli/cc/2001/397"
 language: it
-version: 2000-05-31
+version: 2024-10-14
 adopted: 1999-02-16
 in_force: 2000-05-31
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/397/20000531/it/xml/fedlex-data-admin-ch-eli-cc-2001-397-20000531-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2001/397/20000531/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2001/397/20241014/it/xml/fedlex-data-admin-ch-eli-cc-2001-397-20241014-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2001/397/20241014/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Convenzione tra la Confederazione Svizzera e lo Stato del Kuwait per evitare le doppie imposizioni in materia d’imposte sul reddito e sul patrimonio
+# Convenzione tra la Confederazione Svizzera e lo Stato del Kuwait per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio e per prevenire l’evasione e l’elusione fiscali
 
-RU **2001** 2657; FF **1999** 6500
+RU **2001** 2657; FF **1999** 6500[^t-1]
 
-Traduzione*[^t-1]*
+Traduzione[^t-2]
 
-Conclusa il 16 febbraio 1999 Approvata dall’Assemblea federale il 16 dicembre 1999[^t-2] Ratificata con strumenti scambiati il 31 maggio 2000 Entrata in vigore il 31 maggio 2000
+Conclusa il 16 febbraio 1999 Approvata dall’Assemblea federale il 16 dicembre 1999[^t-3] Ratificata con strumenti scambiati il 31 maggio 2000 Entrata in vigore il 31 maggio 2000
 
-(Stato 31 maggio 2000)
+(Stato 14 ottobre 2024)
 
-[^t-1]: Il testo originale tedesco è pubblicato sotto lo stesso numero nell’ediz. ted. della presente Raccolta.
-[^t-2]: [RU 2001 2656](https://fedlex.data.admin.ch/eli/oc/2001/396)
+[^t-1]: Nuovo testo giusta l’art. 1 par. 1 del Prot. del 6 nov. 2019, approvato dall’AF il 19 mar. 2021, in vigore dal 14 ott. 2024 ([RU 2024 615](https://fedlex.data.admin.ch/eli/oc/2024/615), [614](https://fedlex.data.admin.ch/eli/oc/2024/614); [FF 2020 6189](https://fedlex.data.admin.ch/eli/fga/2020/1897))
+[^t-2]: Il testo originale tedesco è pubblicato sotto lo stesso numero nell’ediz. ted. della presente Raccolta.
+[^t-3]: [RU 2001 2656](https://fedlex.data.admin.ch/eli/oc/2001/396)
 
 Il Consiglio federale svizzero e il Governo dello Stato del Kuwait,
 
-animati dal desiderio di concludere una convenzione per evitare le doppie imposizioni in materia d’imposte sul reddito e sul patrimonio,
+desiderosi di sviluppare ulteriormente le loro relazioni economiche e di migliorare la cooperazione in materia fiscale,
+
+nell’intento di concludere una convenzione per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio, senza creare opportunità di non imposizione o di ridotta imposizione attraverso l’evasione o l’elusione fiscale (incluse le strategie di abuso dei trattati fiscali («treaty-shopping») finalizzate a ottenere i benefici previsti dalla presente Convenzione a beneficio indiretto di residenti di Stati terzi),[^ingress-1]
 
 hanno convenuto quanto segue:
+
+[^ingress-1]: Nuovo testo giusta l’art. 1 par. 2 del Prot. del 6 nov. 2019, approvato dall’AF il 19 mar. 2021, in vigore dal 14 ott. 2024 ([RU 2024 615](https://fedlex.data.admin.ch/eli/oc/2024/615), [614](https://fedlex.data.admin.ch/eli/oc/2024/614); [FF 2020 6189](https://fedlex.data.admin.ch/eli/fga/2020/1897))
 
 #### Art. 1
 
@@ -53,21 +58,22 @@ Le imposte attuali cui si applica la Convenzione sono in particolare:
 
   per quanto concerne il Kuwait:
 
-  - (i) l’imposta sulle società;
-  - (ii) l’imposta sull’utile netto delle società anonime pagabile alla Fondazione kuwaitiana per il promovimento della scienza (Kuwait Foundation for Advancement of Science); e
-  - (iii) la Zakat
+  - (i) l’imposta sulle società secondo il decreto numero 3 del 1955, come modificato dalla legge numero 2 del 2008,
+  - (ii) l’imposta secondo la legge numero 23 del 1961 concernente la Zona neutra, e
+  - (iii) l’imposta delle imprese quotate in borsa secondo la legge numero 19 del 2000 concernente il sostegno degli impiegati nazionali,
+  - [tab] (qui di seguito indicate quali «imposta kuwaitiana»)[^2-1];
 
-- (qui di seguito indicate quali «imposta kuwaitiana»);
 - b) per quanto concerne la Svizzera:
 - le imposte federali, cantonali e comunali
   - (i) sul reddito (reddito complessivo, reddito del lavoro, reddito del patrimonio, utili industriali e commerciali, utili di capitale e altri redditi); e
   - (ii) sul patrimonio (patrimonio complessivo, patrimonio mobiliare e immobiliare, patrimonio industriale e commerciale, capitale e riserve e altri elementi del patrimonio)
-
-- (qui di seguito indicate quali «imposta svizzera»).
+  - [tab] (qui di seguito indicate quali «imposta svizzera»).
 
 <sup>4.</sup> La Convenzione si applica anche alle imposte di natura identica o analoga istituite dopo la firma della Convenzione in aggiunta o in sostituzione delle imposte attuali. Le autorità competenti degli Stati contraenti si comunicano le modifiche fondamentali apportate alle loro rispettive legislazioni fiscali.
 
 <sup>5.</sup> La Convenzione non si applica all’imposta federale preventiva ritenuta alla fonte sulle vincite alle lotterie.
+
+[^2-1]: Nuovo testo giusta l’art. 2 del Prot. del 6 nov. 2019, approvato dall’AF il 19 mar. 2021, in vigore dal 14 ott. 2024 ([RU 2024 615](https://fedlex.data.admin.ch/eli/oc/2024/615), [614](https://fedlex.data.admin.ch/eli/oc/2024/614); [FF 2020 6189](https://fedlex.data.admin.ch/eli/fga/2020/1897))
 
 #### Art. 3
 
@@ -78,7 +84,7 @@ Le imposte attuali cui si applica la Convenzione sono in particolare:
 Ai fini della presente Convenzione, a meno che il contesto non richieda una diversa interpretazione:
 
 - a) il termine «Kuwait» designa il territorio dello Stato del Kuwait, comprese le zone che si estendono al di fuori delle sue acque territoriali e che, secondo la legislazione del Kuwait e conformemente al diritto internazionale, già ora o anche più tardi possono essere designate come zone su cui il Kuwait può esercitare i suoi diritti sovrani o la sua giurisdizione;
-- b) il termine «Svizzera» designa la Confederazione Svizzera;
+- b) [^3-1] il termine «Svizzera» designa il territorio della Confederazione Svizzera in accordo con il diritto internazionale e il suo diritto interno;
 - c) le espressioni «uno Stato contraente» e «l’altro Stato contraente» designano, secondo il contesto, il Kuwait o la Svizzera;
 - d) il termine «imposta» designa le imposte considerate nell’articolo 2 della presente Convenzione;
 - e) il termine «persona» comprende le persone fisiche, le società e ogni altra associazione di persone;
@@ -91,9 +97,12 @@ Ai fini della presente Convenzione, a meno che il contesto non richieda una dive
   l’espressione «autorità competente» designa:
 
   - (i) per quanto concerne il Kuwait, il Ministro delle Finanze o il suo rappresentante autorizzato,
-  - (ii) per quanto concerne la Svizzera, il direttore dell’Amministrazione federale delle contribuzioni o il suo rappresentante autorizzato.
+  - (ii)[^3-2] per quanto concerne la Svizzera, il capo del Dipartimento federale delle finanze o il suo rappresentante autorizzato.
 
 <sup>2.</sup> Per l’applicazione della Convenzione da parte di uno Stato contraente, le espressioni non diversamente definite hanno il significato che ad esse è attribuito dalla legislazione di detto Stato relativa alle imposte oggetto della Convenzione, a meno che il contesto non richieda una diversa interpretazione.
+
+[^3-1]: Nuovo testo giusta l’art. 3 par. 1 del Prot. del 6 nov. 2019, approvato dall’AF il 19 mar. 2021, in vigore dal 14 ott. 2024 ([RU 2024 615](https://fedlex.data.admin.ch/eli/oc/2024/615), [614](https://fedlex.data.admin.ch/eli/oc/2024/614); [FF 2020 6189](https://fedlex.data.admin.ch/eli/fga/2020/1897))
+[^3-2]: Nuovo testo giusta l’art. 3 par. 2 del Prot. del 6 nov. 2019, approvato dall’AF il 19 mar. 2021, in vigore dal 14 ott. 2024 ([RU 2024 615](https://fedlex.data.admin.ch/eli/oc/2024/615), [614](https://fedlex.data.admin.ch/eli/oc/2024/614); [FF 2020 6189](https://fedlex.data.admin.ch/eli/fga/2020/1897))
 
 #### Art. 4
 
@@ -103,7 +112,7 @@ Ai fini della presente Convenzione, a meno che il contesto non richieda una dive
 
 Ai fini della presente Convenzione, l’espressione «residente di uno Stato contraente» designa:
 
-- a) in Kuwait, ogni persona che è domiciliata nel Kuwait e ha la cittadinanza kuwaitiana, nonché ogni società registrata nel Kuwait;
+- a)[^4-1] in Kuwait, ogni persona fisica, compresi i cittadini kuwaitiani, che soggiorna nel Kuwait per un periodo complessivo di almeno 183 giorni durante l’anno fiscale considerato, nonché ogni società o ente costituito nel Kuwait;
 - b) in Svizzera, ogni persona che in virtù della legislazione svizzera è assoggettata a imposta illimitatamente.
 
 <sup>2.</sup>
@@ -123,6 +132,8 @@ Quando, in base alle disposizioni del paragrafo 1, una persona fisica è conside
 - d) se detta persona ha la cittadinanza di entrambi gli Stati o non ha la cittadinanza di nessuno di essi, le autorità competenti degli Stati contraenti risolvono la questione di comune accordo.
 
 <sup>4.</sup> Quando, in base alle disposizioni del paragrafo 1, una persona diversa da una persona fisica è considerata residente di entrambi gli Stati contraenti, essa è considerata residente dello Stato in cui si trova il luogo di sede della sua direzione effettiva o, quando questo non può essere determinato, le autorità competenti degli Stati contraenti risolvono la questione di comune accordo.
+
+[^4-1]: Nuovo testo giusta l’art. 4 del Prot. del 6 nov. 2019, approvato dall’AF il 19 mar. 2021, in vigore dal 14 ott. 2024 ([RU 2024 615](https://fedlex.data.admin.ch/eli/oc/2024/615), [614](https://fedlex.data.admin.ch/eli/oc/2024/614); [FF 2020 6189](https://fedlex.data.admin.ch/eli/fga/2020/1897))
 
 #### Art. 5
 
@@ -204,48 +215,63 @@ Nonostante le precedenti disposizioni del presente articolo non sono considerate
 
 **Imprese associate**
 
-e, nell’uno e nell’altro caso, le due imprese, nelle loro relazioni commerciali o finanziarie, sono vincolate da condizioni convenute o imposte, diverse da quelle che sarebbero state convenute tra imprese indipendenti, gli utili che in mancanza di tali condizioni sarebbero stati realizzati da una delle imprese, ma che a causa di dette condizioni non lo sono stati, possono essere inclusi negli utili di quest’impresa e tassati in conseguenza.
+<sup>1.</sup> e, nell’uno e nell’altro caso, le due imprese, nelle loro relazioni commerciali o finanziarie, sono vincolate da condizioni convenute o imposte, diverse da quelle che sarebbero state convenute tra imprese indipendenti, gli utili che in mancanza di tali condizioni sarebbero stati realizzati da una delle imprese, ma che a causa di dette condizioni non lo sono stati, possono essere inclusi negli utili di quest’impresa e tassati in conseguenza.
 
 Allorché:
 
 - a) un’impresa di uno Stato contraente partecipa, direttamente o indirettamente, alla direzione, al controllo o al capitale di un’impresa dell’altro Stato contraente o
 - b) le medesime persone partecipano, direttamente o indirettamente, alla direzione, al controllo o al capitale di un’impresa di uno Stato contraente e di un’impresa dell’altro Stato contraente
 
+<sup>2.</sup> Quando uno Stato contraente include negli utili di un’impresa di questo Stato, e tassa di conseguenza, utili sui quali un’impresa dell’altro Stato contraente è stata tassata in questo altro Stato e gli utili così inclusi sono utili che sarebbero stati conseguiti dall’impresa del primo Stato se le condizioni convenute tra le due imprese fossero state quelle che sarebbero state fissate tra imprese indipendenti, l’altro Stato procede a una rettifica appropriata dell’ammontare d’imposta prelevato su questi utili. Per determinare questa rettifica occorre tener conto delle altre disposizioni della presente Convenzione; se necessario, le autorità competenti degli Stati contraenti si consultano.[^9-1]
+
+[^9-1]: Introdotto dall’art. 5 del Prot. del 6 nov. 2019, approvato dall’AF il 19 mar. 2021, in vigore dal 14 ott. 2024 ([RU 2024 615](https://fedlex.data.admin.ch/eli/oc/2024/615), [614](https://fedlex.data.admin.ch/eli/oc/2024/614); [FF 2020 6189](https://fedlex.data.admin.ch/eli/fga/2020/1897))
+
 #### Art. 10
 
-**Dividendi**
+**Dividendi**[^10-1]
 
 <sup>1.</sup> I dividendi pagati da una società residente di uno Stato contraente a un residente dell’altro Stato contraente sono imponibili in detto altro Stato.
 
 <sup>2.</sup> Tuttavia, tali dividendi possono essere tassati anche nello Stato contraente di cui la società che paga i dividendi è residente e in conformità alla legislazione di detto Stato, ma, se la persona che riceve i dividendi ne è il beneficiario effettivo, l’imposta così applicata non può eccedere il 15 per cento dell’ammontare lordo dei dividendi.
 
-Le autorità competenti degli Stati contraenti regolano di comune accordo le modalità d’applicazione di dette limitazioni.
+<sup>3.</sup> Nonostante le disposizioni del paragrafo 2, lo Stato contraente, di cui è residente la società che paga i dividendi, esclude dall’imposizione i dividendi pagati se il beneficiario dei dividendi è una società (diversa da una società di persone) che è residente dell’altro Stato contraente e detiene direttamente almeno il 10 per cento del capitale della società che paga i dividendi per un periodo di 365 giorni che include il giorno del pagamento dei dividendi (al fine del computo di tale periodo, non si prendono in considerazione i cambi di detenzione che risulterebbero direttamente da una fusione, una scissione o una modifica della forma giuridica della società che detiene le quote o paga i dividendi).
 
-Le disposizioni del presente paragrafo non pregiudicano l’imposizione della società per gli utili con i quali sono pagati i dividendi.
+<sup>4.</sup> Le autorità competenti degli Stati contraenti regolano di comune accordo le modalità d’applicazione delle limitazioni di cui ai paragrafi 2 e 3. Le disposizioni dei paragrafi 2 e 3 non pregiudicano l’imposizione della società per gli utili con i quali sono pagati i dividendi.
 
-<sup>3.</sup> Ai fini del presente articolo il termine «dividendi» designa i redditi derivanti da azioni, da azioni o diritti di godimento, da quote minerarie, da quote di fondatore o da altre quote di partecipazione agli utili – ad eccezione dei crediti – nonché i redditi di altre quote sociali assoggettati al medesimo regime fiscale dei redditi delle azioni secondo la legislazione dello Stato di cui è residente la società distributrice.
+<sup>5.</sup> Ai fini del presente articolo il termine «dividendi» designa i redditi derivanti da azioni, azioni o diritti di godimento, quote minerarie, quote di fondatore o da altre quote di partecipazione agli utili – ad eccezione dei crediti – nonché i redditi di altre quote sociali assoggettati al medesimo regime fiscale dei redditi delle azioni secondo la legislazione dello Stato di cui è residente la società distributrice.
 
-<sup>4.</sup> Le disposizioni dei paragrafi 1 e 2 non si applicano nel caso in cui il beneficiario effettivo dei dividendi, residente di uno Stato contraente, eserciti, nell’altro Stato contraente di cui la società che paga i dividendi è residente, sia un’attività commerciale o industriale per mezzo di una stabile organizzazione ivi situata, sia una professione indipendente mediante una base fissa ivi situata, e la partecipazione generatrice dei dividendi si ricolleghi effettivamente a detta stabile organizzazione o base fissa. In tale ipotesi, trovano applicazione le disposizioni dell’articolo 7 o dell’articolo 14.
+<sup>6.</sup> Le disposizioni dei paragrafi 1–3 non sono applicabili se il beneficiario effettivo dei dividendi, residente di uno Stato contraente, esercita nell’altro Stato contraente, di cui è residente la società che paga i dividendi, un’attività commerciale o industriale per mezzo di una stabile organizzazione ivi situata oppure una professione indipendente mediante una base fissa ivi situata e se la partecipazione generatrice dei dividendi si ricollega effettivamente a detta stabile organizzazione o base fissa. In tale ipotesi sono applicabili le disposizioni dell’articolo 7 o dell’articolo 14.
 
-<sup>5.</sup> Qualora una società residente di uno Stato contraente ritragga utili o redditi dall’altro Stato contraente, detto altro Stato non può applicare alcuna imposta sui dividendi pagati dalla società, a meno che tali dividendi siano pagati a un residente di detto altro Stato o la partecipazione generatrice dei dividendi si ricolleghi effettivamente a una stabile organizzazione o a una base fissa situata in detto altro Stato, né prelevare alcuna imposta, a titolo di imposizione degli utili non distribuiti, sugli utili non distribuiti della società, anche se i dividendi pagati o gli utili non distribuiti costituiscano in tutto o in parte utili o redditi realizzati in detto altro Stato.
+<sup>7.</sup> Qualora una società residente di uno Stato contraente ritragga utili o redditi dall’altro Stato contraente, detto altro Stato non può applicare alcuna imposta sui dividendi pagati dalla società, salvo che tali dividendi siano pagati a un residente di detto altro Stato o che la partecipazione generatrice dei dividendi si ricolleghi effettivamente a una stabile organizzazione o a una base fissa situata in detto altro Stato, né prelevare alcuna imposta, a titolo di imposizione degli utili non distribuiti, sugli utili non distribuiti della società, anche se i dividendi pagati o gli utili non distribuiti costituiscono in tutto o in parte utili o redditi realizzati in detto altro Stato.
+
+[^10-1]: Nuovo testo giusta l’art. 6 del Prot. del 6 nov. 2019, approvato dall’AF il 19 mar. 2021, in vigore dal 14 ott. 2024 ([RU 2024 615](https://fedlex.data.admin.ch/eli/oc/2024/615), [614](https://fedlex.data.admin.ch/eli/oc/2024/614); [FF 2020 6189](https://fedlex.data.admin.ch/eli/fga/2020/1897))
 
 #### Art. 11
 
-**Interessi**
+**Interessi**[^11-1]
 
 <sup>1.</sup> Gli interessi provenienti da uno Stato contraente pagati a un residente dell’altro Stato contraente sono imponibili in detto altro Stato.
 
-<sup>2.</sup> Tuttavia, tali interessi possono essere tassati anche nello Stato contraente dal quale essi provengono e in conformità alla legislazione di detto Stato, ma, se la persona che percepisce gli interessi ne è l’effettivo beneficiario, l’imposta così applicata non può eccedere il 10 per cento dell’ammontare lordo degli interessi.
+<sup>2.</sup> Tuttavia, tali interessi possono essere tassati anche nello Stato contraente dal quale provengono e in conformità alla legislazione di detto Stato, ma, se il beneficiario effettivo degli interessi è un residente dell’altro Stato contraente, l’imposta così applicata non può eccedere il 10 per cento dell’ammontare lordo degli interessi.
 
-Le autorità competenti degli Stati contraenti regolano di comune accordo le modalità d’applicazione di dette limitazioni.
+<sup>3.</sup>
 
-<sup>3.</sup> Ai fini del presente articolo il termine «interessi» designa i redditi provenienti da crediti di ogni natura, corredati o no di diritti di pegno o di una clausola di partecipazione agli utili del debitore, e segnatamente i redditi provenienti da prestiti pubblici e obbligazioni di prestiti, compresi i premi e altri frutti relativi a detti titoli. Le penali per pagamento tardivo non sono considerate interessi ai sensi del presente articolo.
+Nonostante le disposizioni del paragrafo 2, gli interessi provenienti da uno Stato contraente pagati a un residente dell’altro Stato contraente, che è il beneficiario effettivo degli interessi, sono imponibili solo in detto altro Stato se questi interessi sono pagati:
 
-<sup>4.</sup> Le disposizioni dei paragrafi 1 e 2 non si applicano nel caso in cui il beneficiario effettivo degli interessi, residente di uno Stato contraente, eserciti nell’altro Stato contraente dal quale provengono gli interessi, sia un’attività industriale o commerciale per mezzo di una stabile organizzazione ivi situata, sia una professione indipendente mediante una base fissa ivi situata, e il credito generatore degli interessi si ricolleghi effettivamente a detta stabile organizzazione o base fissa. In tale ipotesi, trovano applicazione le disposizioni dell’articolo 7 o dell’articolo 14.
+- a) in relazione a un debito derivante dalla vendita a credito di equipaggiamenti, merci o servizi;
+- b) in relazione a un mutuo di qualunque natura concesso da un istituto bancario;
+- c) al Governo dell’altro Stato, alle sue suddivisioni politiche o ai suoi enti locali o alla sua banca centrale; o
+- d) in relazione a prestiti tra società.
 
-<sup>5.</sup> Gli interessi si considerano provenienti da uno Stato contraente quando il debitore è lo Stato stesso, una sua suddivisione politica, un suo ente locale o un residente di detto Stato. Tuttavia, quando il debitore degli interessi, sia esso residente o no di uno Stato contraente, ha in uno Stato contraente una stabile organizzazione o una base fissa per la quale è stato contratto il debito sul quale sono pagati gli interessi e questi sono a carico della stabile organizzazione o base fissa, gli interessi si considerano provenienti dallo Stato contraente in cui è situata la stabile organizzazione o la base fissa.
+<sup>4.</sup> Ai fini del presente articolo il termine «interessi» designa i redditi derivanti da crediti di qualsiasi natura, corredati o meno di garanzie ipotecarie o di una clausola di partecipazione agli utili del debitore e, segnatamente i redditi derivanti da prestiti pubblici e obbligazioni di prestiti, compresi i premi e altri frutti relativi a detti titoli. Le penali per pagamento tardivo non sono considerate interessi ai sensi del presente articolo.
 
-<sup>6.</sup> Se, in conseguenza di particolari relazioni esistenti tra debitore e beneficiario effettivo o tra ciascuno di essi e terze persone, l’ammontare degli interessi, tenuto conto del credito per il quale sono pagati, eccede quello che sarebbe stato convenuto tra debitore e beneficiario effettivo in assenza di simili relazioni, le disposizioni del presente articolo si applicano soltanto a quest’ultimo ammontare. In tal caso, la parte eccedente dei pagamenti è imponibile in conformità alla legislazione di ciascuno Stato contraente e tenuto conto delle altre disposizioni della presente Convenzione.
+<sup>5.</sup> Le disposizioni dei paragrafi 1–3 non sono applicabili se il beneficiario effettivo degli interessi, residente di uno Stato contraente, esercita nell’altro Stato contraente dal quale provengono gli interessi un’attività commerciale o industriale per mezzo di una stabile organizzazione ivi situata oppure una professione indipendente mediante una base fissa ivi situata e se il credito generatore degli interessi si ricollega effettivamente a detta stabile organizzazione o base fissa. In tale ipotesi sono applicabili le disposizioni dell’articolo 7 o dell’articolo 14, a seconda dei casi.
+
+<sup>6.</sup> Gli interessi si considerano provenire da uno Stato contraente anche quando il debitore è un residente di detto Stato. Tuttavia, quando il debitore degli interessi, sia esso residente o no di uno Stato contraente, ha in uno Stato contraente una stabile organizzazione o una base fissa per la quale è stato contratto il debito sul quale sono pagati gli interessi e questi sono a carico della stabile organizzazione o base fissa, gli interessi si considerano provenire dallo Stato contraente in cui è situata la stabile organizzazione o la base fissa.
+
+<sup>7.</sup> Se, in conseguenza di relazioni particolari esistenti tra debitore e beneficiario effettivo o tra ciascuno di essi e terze persone, l’ammontare degli interessi, tenuto conto del credito per il quale sono pagati, eccede l’ammontare che sarebbe stato convenuto tra debitore e beneficiario effettivo in assenza di simili relazioni, le disposizioni del presente articolo si applicano soltanto a quest’ultimo ammontare. In tal caso, la parte eccedente dei pagamenti è imponibile in conformità alla legislazione di ciascuno Stato contraente e tenuto conto delle altre disposizioni della presente Convenzione.
+
+[^11-1]: Nuovo testo giusta l’art. 7 del Prot. del 6 nov. 2019, approvato dall’AF il 19 mar. 2021, in vigore dal 14 ott. 2024 ([RU 2024 615](https://fedlex.data.admin.ch/eli/oc/2024/615), [614](https://fedlex.data.admin.ch/eli/oc/2024/614); [FF 2020 6189](https://fedlex.data.admin.ch/eli/fga/2020/1897))
 
 #### Art. 12
 
@@ -265,15 +291,24 @@ Le autorità competenti degli Stati contraenti regolano di comune accordo le mod
 
 #### Art. 13
 
-**Utili di capitale**
+**Utili di capitale**[^13-1]
 
-<sup>1.</sup> Gli utili che un residente di uno Stato contraente ritrae dall’alienazione di beni immobili secondo la definizione di cui all’articolo 6 e situati nell’altro Stato contraente sono imponibili in quest’ultimo Stato.
+<sup>1.</sup> Gli utili che un residente di uno Stato contraente ritrae dall’alienazione di beni immobili secondo la definizione di cui all’articolo 6 e situati nell’altro Stato contraente sono imponibili in detto altro Stato.
 
-<sup>2.</sup> Gli utili derivanti dall’alienazione di beni mobili facenti parte dell’attivo di una stabile organizzazione che un’impresa di uno Stato contraente ha nell’altro Stato contraente, o di beni mobili appartenenti a una base fissa di cui dispone un residente di uno Stato contraente nell’altro Stato contraente per l’esercizio di una professione indipendente, compresi gli utili derivanti dall’alienazione di detta stabile organizzazione (da sola o in uno con l’intera impresa) o di detta base fissa, sono imponibili in detto altro Stato.
+<sup>2.</sup> Gli utili derivanti dall’alienazione di beni mobili facenti parte dell’attivo di una stabile organizzazione che un’impresa di uno Stato contraente ha nell’altro Stato contraente, oppure di beni mobili appartenenti a una base fissa di cui dispone un residente di uno Stato contraente nell’altro Stato contraente per l’esercizio di una professione indipendente, compresi gli utili derivanti dall’alienazione di detta stabile organizzazione (da sola o con l’intera impresa) o di detta base fissa, sono imponibili in detto altro Stato.
 
 <sup>3.</sup> Gli utili derivanti dall’alienazione di navi o aeromobili impiegati nel traffico internazionale o di beni mobili adibiti al loro esercizio sono imponibili soltanto nello Stato contraente in cui è situata la sede della direzione effettiva dell’impresa.
 
-<sup>4.</sup> Gli utili derivanti dall’alienazione di ogni altro bene diverso da quelli indicati nei paragrafi 1, 2 e 3 sono imponibili soltanto nello Stato contraente di cui l’alienante è residente.
+<sup>4.</sup>
+
+Gli utili che un residente di uno Stato contraente ritrae dall’alienazione di partecipazioni al capitale di un’impresa e il cui valore deriva per oltre il 50 per cento direttamente o indirettamente da beni immobili situati nell’altro Stato contraente sono imponibili in detto altro Stato. Le disposizioni del periodo precedente non si applicano agli utili derivanti:
+
+- a) dall’alienazione di partecipazioni quotate in una borsa di uno Stato contraente o in una borsa riconosciuta come tale in virtù di un accordo tra le autorità competenti degli Stati contraenti; o
+- b) dall’alienazione di partecipazioni a una società il cui valore consiste per oltre il 50 per cento in beni immobili in cui l’impresa esercita la propria attività commerciale o industriale.
+
+<sup>5.</sup> Gli utili derivanti dall’alienazione di ogni altro bene diverso da quelli indicati nei paragrafi 1–4 sono imponibili soltanto nello Stato contraente di cui l’alienante è residente.
+
+[^13-1]: Nuovo testo giusta l’art. 8 del Prot. del 6 nov. 2019, approvato dall’AF il 19 mar. 2021, in vigore dal 14 ott. 2024 ([RU 2024 615](https://fedlex.data.admin.ch/eli/oc/2024/615), [614](https://fedlex.data.admin.ch/eli/oc/2024/614); [FF 2020 6189](https://fedlex.data.admin.ch/eli/fga/2020/1897))
 
 #### Art. 14
 
@@ -317,11 +352,13 @@ I compensi, i gettoni di presenza e altre retribuzioni analoghe che un residente
 
 #### Art. 18
 
-**Pensioni e rendite**
+**Pensioni e rendite**[^18-1]
 
-<sup>1.</sup> Fatte salve le disposizioni del paragrafo 2 dell’articolo 19, le pensioni e altre rimunerazioni analoghe pagate a un residente di uno Stato contraente in relazione a un cessato lavoro subordinato, nonché le rendite corrispostegli, sono imponibili soltanto in detto Stato.
+<sup>1.</sup> Fatte salve le disposizioni del paragrafo 2 dell’articolo 19, le pensioni e altre rimunerazioni analoghe pagate a un residente di uno Stato contraente in corrispettivo di un precedente lavoro subordinato, nonché le rendite corrispostegli, sono imponibili soltanto in detto Stato. Tuttavia, se tali pensioni e rimunerazioni analoghe provenienti dall’altro Stato contraente non sono tassate nello Stato di residenza, esse sono imponibili nell’altro Stato contraente.
 
 <sup>2.</sup> Il termine «rendite» designa somme determinate pagabili periodicamente vita natural durante a scadenze stabilite, oppure per una durata determinata o determinabile, quale contropartita di un’adeguata e completa prestazione in denaro o valutabile in denaro.
+
+[^18-1]: Nuovo testo giusta l’art. 9 del Prot. del 6 nov. 2019, approvato dall’AF il 19 mar. 2021, in vigore dal 14 ott. 2024 ([RU 2024 615](https://fedlex.data.admin.ch/eli/oc/2024/615), [614](https://fedlex.data.admin.ch/eli/oc/2024/614); [FF 2020 6189](https://fedlex.data.admin.ch/eli/fga/2020/1897))
 
 #### Art. 19
 
@@ -367,35 +404,37 @@ I compensi, i gettoni di presenza e altre retribuzioni analoghe che un residente
 
 #### Art. 23
 
-**Eliminazione della doppia imposizione**
+**Eliminazione della doppia imposizione**[^23-1]
 
-<sup>1.</sup> Qualora un residente del Kuwait ritragga redditi o possieda un patrimonio che, conformemente alle disposizioni della presente Convenzione, sono imponibili in Svizzera, il Kuwait può ugualmente imporre questi redditi o questo patrimonio ma accorda, conformemente alla sua legislazione interna, uno sgravio per le imposte pagate in Svizzera. Questo sgravio consiste nel computo dell’imposta sul reddito o sul patrimonio pagata in Svizzera sulle imposte prelevate nel Kuwait; questo computo non può tuttavia eccedere l’imposta kuwaitiana dovuta su questi redditi o su questo patrimonio in rapporto alla totalità dei redditi e del patrimonio imponibili.
+<sup>1.</sup> Se un residente del Kuwait ritrae redditi o possiede un patrimonio che, conformemente alle disposizioni della presente Convenzione, sono imponibili in Svizzera, il Kuwait può ugualmente tassare questi redditi o questo patrimonio ma accorda, conformemente alla sua legislazione interna, uno sgravio fiscale per le imposte pagate in Svizzera. Questo sgravio consiste nel computo dell’imposta sul reddito o sul patrimonio pagata in Svizzera sulle imposte prelevate nel Kuwait; l’ammontare così computato non può tuttavia eccedere l’imposta kuwaitiana dovuta su questi redditi o su questo patrimonio in rapporto alla totalità dei redditi e del patrimonio imponibili.
 
-<sup>2.</sup> Qualora un residente di Svizzera ritragga redditi o possieda un patrimonio che, conformemente alle disposizioni della presente Convenzione, sono imponibili nel Kuwait, la Svizzera esenta dall’imposta tali redditi o detto patrimonio, salve le disposizioni del paragrafo 3. Quest’esenzione è tuttavia accordata soltanto se tali redditi o detto patrimonio sono stati effettivamente imposti nel Kuwait. La Svizzera può, per determinare l’imposta afferente ai rimanenti redditi o al rimanente patrimonio di questo residente, applicare l’aliquota corrispondente all’intero reddito o all’intero patrimonio, senza tener conto dell’esenzione.
+<sup>2.</sup> Se un residente della Svizzera ritrae redditi o possiede un patrimonio che, conformemente alle disposizioni della presente Convenzione, sono imponibili nel Kuwait, la Svizzera esenta da imposta detti redditi o detto patrimonio, fatte salve le disposizioni del paragrafo 3. La Svizzera può, per determinare l’imposta afferente al rimanente reddito o patrimonio di questo residente, applicare l’aliquota corrispondente all’intero reddito o patrimonio, senza tener conto dell’esenzione. Tuttavia, questa esenzione si applica agli utili di cui al paragrafo 4 dell’articolo 13 unicamente se sono tassati in Kuwait.
 
 <sup>3.</sup> La Svizzera determina il tipo di sgravio applicabile e regola la procedura conformemente alle prescrizioni svizzere sull’applicazione delle convenzioni internazionali stipulate dalla Confederazione Svizzera per evitare le doppie imposizioni.
 
-Qualora un residente di Svizzera riceva dividendi, interessi o canoni che secondo le disposizioni degli articoli 10, 11 o 12 sono imponibili nel Kuwait, la Svizzera accorda, su domanda del residente, uno sgravio che può avere le seguenti forme:
+Se un residente della Svizzera percepisce dividendi, interessi o canoni che secondo le disposizioni degli articoli 10, 11 o 12 sono imponibili in Kuwait, la Svizzera accorda, su richiesta del residente, uno sgravio fiscale. Detto sgravio può assumere le seguenti forme:
 
-- a) computo dell’imposta pagata nel Kuwait, giusta le disposizioni degli articoli 10, 11 e 12, sull’imposta svizzera sul reddito del suddetto residente; l’ammontare computato non può tuttavia eccedere la quota dell’imposta svizzera, calcolata prima del computo, che corrisponde al reddito imponibile nel Kuwait; o
+- a) computo dell’imposta pagata in Kuwait, secondo le disposizioni degli articoli 10, 11 e 12, sull’imposta svizzera sul reddito del suddetto residente; l’ammontare così computato non può tuttavia eccedere la frazione dell’imposta svizzera, calcolata prima del computo, che corrisponde al reddito imponibile in Kuwait; o
 - b) riduzione forfettaria dell’imposta svizzera; o
-- c) esenzione parziale dall’imposta svizzera dei dividendi, degli interessi o dei canoni di cui si tratta, pari almeno all’imposta prelevata nel Kuwait sull’ammontare lordo dei dividendi, degli interessi o dei canoni.
+- c) esenzione parziale dall’imposta svizzera dei dividendi, degli interessi o dei canoni di cui si tratta, pari almeno all’imposta prelevata in Kuwait sull’ammontare lordo dei dividendi, degli interessi o dei canoni.
+
+[^23-1]: Nuovo testo giusta l’art. 10 del Prot. del 6 nov. 2019, approvato dall’AF il 19 mar. 2021, in vigore dal 14 ott. 2024 ([RU 2024 615](https://fedlex.data.admin.ch/eli/oc/2024/615), [614](https://fedlex.data.admin.ch/eli/oc/2024/614); [FF 2020 6189](https://fedlex.data.admin.ch/eli/fga/2020/1897))
 
 #### Art. 24
 
-**Non discriminazione**
+**Non discriminazione**[^24-1]
 
-<sup>1.</sup> Le persone fisiche che hanno la cittadinanza di uno Stato contraente non sono assoggettate nell’altro Stato contraente ad alcuna imposizione né ad alcun obbligo ad essa relativo, più onerosi di quelli cui sono o potranno essere assoggettate le persone fisiche che hanno la cittadinanza di detto altro Stato e si trovino nella stessa situazione.
+<sup>1.</sup> I cittadini di uno Stato contraente non sono assoggettati nell’altro Stato contraente ad alcuna imposizione né ad alcun obbligo a essa relativo, diversi o più onerosi di quelli cui sono o potranno essere assoggettati i cittadini di detto altro Stato che si trovino nella stessa situazione, in particolare in relazione alla residenza. Nonostante le disposizioni dell’articolo 1, il presente paragrafo si applica parimenti alle persone che non sono residenti di nessuno dei due Stati contraenti.
 
-<sup>2.</sup> L’imposizione di una stabile organizzazione che un’impresa di uno Stato contraente ha nell’altro Stato contraente non può essere in questo altro Stato meno favorevole dell’imposizione a carico delle imprese provenienti da Stati terzi che svolgono la medesima attività nelle stesse condizioni. La presente disposizione non può essere interpretata nel senso che faccia obbligo a uno Stato contraente di accordare ai residenti dell’altro Stato contraente le esenzioni, le agevolazioni e le deduzioni d’imposta che esso accorda ai propri residenti in relazione alla loro situazione personale o ai loro oneri familiari.
+<sup>2.</sup> L’imposizione di una stabile organizzazione che un’impresa di uno Stato contraente ha nell’altro Stato contraente non può essere in questo altro Stato meno favorevole dell’imposizione a carico delle imprese di detto altro Stato che esercitano la medesima attività. La presente disposizione non può essere interpretata nel senso che faccia obbligo a uno Stato contraente di accordare ai residenti dell’altro Stato contraente le esenzioni, le agevolazioni e le deduzioni d’imposta che esso accorda ai propri residenti in relazione alla loro situazione personale o ai loro oneri familiari.
 
-<sup>3.</sup> Le imprese di uno Stato contraente il cui capitale è, in tutto o in parte, direttamente o indirettamente posseduto o controllato da uno o più residenti dell’altro Stato contraente non sono assoggettate nel primo Stato contraente ad alcuna imposizione o ad alcun obbligo ad essa relativo, diversi o più onerosi di quelli cui sono o potranno essere assoggettate altre imprese analoghe il cui capitale è, in tutto o in parte, direttamente o indirettamente posseduto o controllato da uno o più residenti di uno Stato terzo.
+<sup>3.</sup> Salvo che non siano applicabili le disposizioni del paragrafo 1 dell’articolo 9, del paragrafo 7 dell’articolo 11 o del paragrafo 6 dell’articolo 12, gli interessi, i canoni e altri compensi pagati da un’impresa di uno Stato contraente a un residente dell’altro Stato contraente sono deducibili, ai fini della determinazione degli utili imponibili di tale impresa, come se fossero pagati a un residente del primo Stato. Allo stesso modo, i debiti di un’impresa di uno Stato contraente nei confronti di un residente dell’altro Stato contraente sono deducibili, ai fini della determinazione del patrimonio imponibile di tale impresa, alle stesse condizioni in cui sarebbero deducibili se fossero contratti nei confronti di un residente del primo Stato.
 
-<sup>4.</sup> A meno che non siano applicabili le disposizioni dell’articolo 9, del paragrafo 6 dell’articolo 11 o del paragrafo 6 dell’articolo 12, gli interessi, i canoni e altre spese pagati da un’impresa di uno Stato contraente a un residente dell’altro Stato contraente sono deducibili, ai fini della determinazione degli utili imponibili di tale impresa, come se fossero pagati a un residente del primo Stato. Allo stesso modo, i debiti di un’impresa di uno Stato contraente nei confronti di un residente dell’altro Stato contraente sono deducibili, ai fini della determinazione del patrimonio imponibile di tale impresa, alle stesse condizioni in cui sarebbero deducibili se fossero contratti nei confronti di un residente del primo Stato.
+<sup>4.</sup> Le imprese di uno Stato contraente, il cui capitale è, in tutto o in parte, direttamente o indirettamente posseduto o controllato da uno o più residenti dell’altro Stato contraente, non sono assoggettate nel primo Stato contraente ad alcuna imposizione né ad alcun obbligo a essa relativo, diversi o più onerosi di quelli cui sono o potranno essere assoggettate altre imprese della stessa natura del primo Stato.
 
-<sup>5.</sup> Le disposizioni del presente articolo non possono essere interpretate nel senso che facciano obbligo a uno Stato contraente di estendere ai residenti dell’altro Stato contraente i vantaggi o i privilegi che esso ha accordato a uno Stato terzo o a residenti di quest’ultimo in virtù di un’unione doganale, un’unione economica, una zona di libero scambio o un accordo regionale o subregionale concernente l’imposizione o il trasferimento di capitali.
+<sup>5.</sup> Le disposizioni del presente articolo si applicano alle imposte di ogni natura e denominazione, nonostante le disposizioni dell’articolo 2.
 
-<sup>6.</sup> Le disposizioni del presente articolo si applicano alle imposte di ogni natura e denominazione, nonostante le disposizioni dell’articolo 2.
+[^24-1]: Nuovo testo giusta l’art. 11 del Prot. del 6 nov. 2019, approvato dall’AF il 19 mar. 2021, in vigore dal 14 ott. 2024 ([RU 2024 615](https://fedlex.data.admin.ch/eli/oc/2024/615), [614](https://fedlex.data.admin.ch/eli/oc/2024/614); [FF 2020 6189](https://fedlex.data.admin.ch/eli/fga/2020/1897))
 
 #### Art. 25
 
@@ -409,9 +448,53 @@ Qualora un residente di Svizzera riceva dividendi, interessi o canoni che second
 
 <sup>4.</sup> Le autorità competenti degli Stati contraenti possono comunicare direttamente fra loro per giungere a un accordo ai sensi dei paragrafi precedenti. Qualora uno scambio orale di opinioni possa facilitare tale accordo, è possibile ricorrere a un colloquio nell’ambito di una commissione composta di rappresentanti delle autorità competenti degli Stati contraenti.
 
+<sup>5.</sup> le questioni non risolte relative al caso sono sottoposte ad arbitrato, se la persona ne fa richiesta. Tuttavia, tali questioni non risolte non possono essere sottoposte a procedura arbitrale se una decisione sulle stesse è già stata resa in sede giudiziaria o davanti a un tribunale amministrativo di uno dei due Stati. Se una persona direttamente interessata dal caso non accetta l’accordo amichevole che dà attuazione alla decisione arbitrale o se le autorità competenti e le persone direttamente interessate non giungono a un’altra soluzione entro sei mesi dalla notifica della decisione arbitrale, tale decisione sarà vincolante per entrambi gli Stati contraenti e sarà attuata a prescindere dai termini previsti dalle loro legislazioni nazionali. Le autorità competenti degli Stati contraenti regolano di comune accordo le modalità d’applicazione del presente paragrafo.[^25-1]
+
+Qualora:
+
+- a) in virtù del paragrafo 1, una persona abbia sottoposto un caso all’autorità competente di uno Stato contraente in quanto le misure adottate da uno o da entrambi gli Stati contraenti hanno comportato per tale persona un’imposizione non conforme alle disposizioni della presente Convenzione; e
+- b) le autorità competenti non siano in grado di giungere a un accordo per risolvere tale caso secondo il paragrafo 2 entro un periodo di tre anni a decorrere dalla presentazione del caso all’autorità competente dell’altro Stato contraente,
+
+<sup>6.</sup> Gli Stati contraenti possono mettere a disposizione del tribunale arbitrale costituito secondo il paragrafo 5 le informazioni necessarie per l’esecuzione della procedura arbitrale. I membri di questo tribunale sono vincolati alle prescrizioni del segreto d’ufficio indicate nel paragrafo 2 dell’articolo 26 della Convenzione.[^25-2]
+
+[^25-1]: Introdotto dall’art. 12 del Prot. del 6 nov. 2019, approvato dall’AF il 19 mar. 2021, in vigore dal 14 ott. 2024 ([RU 2024 615](https://fedlex.data.admin.ch/eli/oc/2024/615), [614](https://fedlex.data.admin.ch/eli/oc/2024/614); [FF 2020 6189](https://fedlex.data.admin.ch/eli/fga/2020/1897))
+[^25-2]: Introdotto dall’art. 12 del Prot. del 6 nov. 2019, approvato dall’AF il 19 mar. 2021, in vigore dal 14 ott. 2024 ([RU 2024 615](https://fedlex.data.admin.ch/eli/oc/2024/615), [614](https://fedlex.data.admin.ch/eli/oc/2024/614); [FF 2020 6189](https://fedlex.data.admin.ch/eli/fga/2020/1897))
+
 #### Art. 26
 
-**Agenti diplomatici e funzionari consolari**
+**Scambio di informazioni**[^26-1]
+
+<sup>1.</sup> Le autorità competenti degli Stati contraenti si scambiano le informazioni verosimilmente rilevanti per l’esecuzione della presente Convenzione oppure per l’applicazione o l’esecuzione della legislazione interna relativa alle imposte considerate dalla Convenzione nella misura in cui l’imposizione prevista da tale legislazione non sia contraria alla Convenzione. Lo scambio di informazioni non è limitato dall’articolo 1.
+
+<sup>2.</sup> Le informazioni ottenute in virtù del paragrafo 1 da uno Stato contraente sono tenute segrete allo stesso modo di quelle ottenute in applicazione della legislazione di questo Stato e sono comunicate soltanto alle persone o autorità (compresi i tribunali e gli organi amministrativi) incaricate dell’accertamento o della riscossione delle imposte di cui al paragrafo 1, dell’esecuzione o del perseguimento penale relativi a tali imposte, della decisione in merito ai ricorsi concernenti tali imposte. Dette persone o autorità possono utilizzare le informazioni unicamente per questi fini. Possono rivelarle nell’ambito di una procedura giudiziaria pubblica o in una decisione giudiziaria. Nonostante le disposizioni precedenti, uno Stato contraente può utilizzare le informazioni ricevute per altri fini, se ciò è previsto dalla legislazione di entrambi gli Stati e se l’autorità competente dello Stato richiesto ne ha approvato l’impiego.
+
+<sup>3.</sup>
+
+Le disposizioni dei paragrafi 1 e 2 non possono essere interpretate nel senso che facciano obbligo a uno Stato contraente di:
+
+- a) eseguire misure amministrative in deroga alla sua legislazione e alla sua prassi amministrativa o a quelle dell’altro Stato contraente;
+- b) fornire informazioni che non possono essere ottenute in virtù della sua legislazione o nell’ambito della sua normale prassi amministrativa oppure di quelle dell’altro Stato contraente;
+- c) fornire informazioni che potrebbero rivelare segreti commerciali o d’affari, industriali o professionali oppure metodi commerciali o informazioni la cui comunicazione sarebbe contraria all’ordine pubblico.
+
+<sup>4.</sup> Qualora, ai sensi del presente articolo, uno Stato contraente chieda informazioni, l’altro Stato contraente usa i poteri a sua disposizione al fine di ottenere le informazioni richieste, anche se queste informazioni non gli sono utili per fini fiscali propri. L’obbligo di cui al periodo precedente è soggetto alle limitazioni previste nel paragrafo 3, salvo nel caso in cui a causa di tali limitazioni uno Stato contraente potrebbe rifiutare di fornire informazioni solo perché tali informazioni non rivestono alcun interesse nazionale.
+
+<sup>5.</sup> In nessun caso le disposizioni del paragrafo 3 possono essere interpretate nel senso che permettono a uno Stato contraente di rifiutare di fornire informazioni unicamente perché queste sono detenute da una banca, un altro istituto finanziario, un mandatario o una persona operante come agente o fiduciario oppure perché dette informazioni si rifanno ai diritti di proprietà di una persona.
+
+[^26-1]: Introdotto dall’art. 13 par. 2 del Prot. del 6 nov. 2019, approvato dall’AF il 19 mar. 2021, in vigore dal 14 ott. 2024 ([RU 2024 615](https://fedlex.data.admin.ch/eli/oc/2024/615), [614](https://fedlex.data.admin.ch/eli/oc/2024/614); [FF 2020 6189](https://fedlex.data.admin.ch/eli/fga/2020/1897))
+
+#### Art. 27
+
+**Diritto ai benefici**[^27-1]
+
+<sup>1.</sup> Nonostante le altre disposizioni della presente Convenzione, un beneficio ai sensi della presente Convenzione non è concesso in relazione a un elemento di reddito o di patrimonio, se è ragionevole concludere, tenuto conto di tutti i fatti e di tutte le circostanze pertinenti, che l’ottenimento di tale beneficio era uno degli scopi principali di qualsiasi accordo, strumento o transazione che ha portato direttamente o indirettamente a tale beneficio, a meno che venga stabilito che la concessione di tale beneficio in dette circostanze sarebbe conforme all’oggetto e allo scopo delle pertinenti disposizioni della presente Convenzione.
+
+<sup>2.</sup> Qualora in virtù del paragrafo 1 a una persona non sia concesso un beneficio previsto dalla presente Convenzione, l’autorità competente dello Stato contraente che avrebbe altrimenti concesso tale beneficio deve considerare tale persona come avente diritto a questo o ad altri benefici in relazione a specifici elementi di reddito o di patrimonio, se essa conclude, su richiesta della persona interessata e dopo aver valutato i fatti e le circostanze determinanti, che tali benefici sarebbero stati concessi a tale persona o a un’altra persona in assenza dell’accordo, dello strumento o della transazione di cui al paragrafo 1. L’autorità competente dello Stato contraente a cui è stata indirizzata la richiesta consulta l’autorità competente dell’altro Stato contraente prima di respingere una richiesta presentata da un residente di tale altro Stato in virtù del presente paragrafo.
+
+[^27-1]: Introdotto dall’art. 13 par. 2 del Prot. del 6 nov. 2019, approvato dall’AF il 19 mar. 2021, in vigore dal 14 ott. 2024 ([RU 2024 615](https://fedlex.data.admin.ch/eli/oc/2024/615), [614](https://fedlex.data.admin.ch/eli/oc/2024/614); [FF 2020 6189](https://fedlex.data.admin.ch/eli/fga/2020/1897))
+
+#### Art. 28
+
+**Agenti diplomatici e funzionari consolari**[^28-1]
 
 <sup>1.</sup> Le disposizioni della presente Convenzione non pregiudicano i privilegi fiscali di cui beneficiano gli agenti diplomatici o i funzionari consolari in virtù delle norme generali del diritto internazionale o di accordi particolari.
 
@@ -422,11 +505,13 @@ Nonostante le disposizioni dell’articolo 4, ogni persona fisica che è membro 
 - a) conformemente al diritto internazionale, non sia assoggettata, nello Stato accreditatario, ad imposta sui redditi provenienti da fonti esterne a questo Stato o sul patrimonio situato fuori di questo Stato, e
 - b) abbia, nello Stato accreditante, i medesimi obblighi dei residenti di questo Stato quanto all’imposta sul reddito complessivo o sul patrimonio.
 
-<sup>3.</sup> La presente Convenzione non si applica alle organizzazioni internazionali, ai loro organi o ai loro funzionari, né ai membri di una missione diplomatica, di una rappresentanza consolare o di una delegazione permanente di uno Stato terzo, che soggiornano sul territorio di uno Stato contraente e non sono trattati in materia d’imposta sul reddito e sul patrimonio come residenti dell’uno o dell’altro Stato contraente.
+<sup>3.</sup> La presente Convenzione non si applica alle organizzazioni internazionali, ai loroorgani o ai loro funzionari, né ai membri di una missione diplomatica, di una rappresentanza consolare o di una delegazione permanente di uno Stato terzo, che soggiornano sul territorio di uno Stato contraente e non sono trattati in materia d’imposta sul reddito e sul patrimonio come residenti dell’uno o dell’altro Stato contraente.
 
-#### Art. 27
+[^28-1]: Originario art. 26
 
-**Entrata in vigore**
+#### Art. 29
+
+**Entrata in vigore**[^29-1]
 
 <sup>1.</sup> La presente Convenzione sarà ratificata e gli strumenti di ratifica saranno scambiati nel Kuwait.
 
@@ -437,22 +522,24 @@ La presente Convenzione entrerà in vigore alla data dello scambio degli strumen
 - a) con riferimento alle imposte trattenute alla fonte, agli ammontari pagati o accreditati il, o dopo il, 1° gennaio dell’anno nel corso del quale la presente Convenzione è stata firmata;
 - b) con riferimento alle altre imposte, ai periodi fiscali che iniziano il, o dopo il, 1° gennaio dell’anno nel corso del quale la presente Convenzione è stata firmata.
 
-#### Art. 28
+[^29-1]: Originario art. 27
 
-**Denuncia**
+#### Art. 30
+
+**Denuncia**[^30-1]
 
 La presente Convenzione rimarrà in vigore per una durata illimitata ma potrà essere denunciata da ciascuno Stato contraente all’altro Stato contraente per via diplomatica con un preavviso scritto entro il 30 giugno di ogni anno civile. In tal caso la Convenzione cesserà di essere applicabile:
 
 - a) con riferimento alle imposte trattenute alla fonte, agli ammontari pagati o accreditati il, o dopo il, 1° gennaio dell’anno successivo a quello in cui è stata notificata la denuncia;
 - b) con riferimento alle altre imposte, ai periodi fiscali che iniziano il, o dopo il, 1° gennaio dell’anno successivo a quello in cui è stata notificata la denuncia.
 
+[^30-1]: Originartio art. 28
+
 *In fede di che,* i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato la presente Convenzione. Fatto in Kuwait il 30 Shawwal 1419 H., corrispondente al 16 febbraio 1999, in due esemplari in lingua tedesca, araba e inglese, ciascun testo facente egualmente fede. In caso d’interpretazione divergente del testo, prevarrà il testo inglese. Per il Consiglio federale svizzero: Per il Governo dello Stato del Kuwait Daniel Woker Abdul Mohsin Yousef Al Hunaif
 
-Protocollo
+Protocollo[^t-4]
 
-Il Consiglio federale svizzero e il Governo dello Stato del Kuwait,
-
-all’atto della firma della Convenzione conclusa in Kuwait il 30 Shawwal 1419 H., corrispondente al 16 febbraio 1999, per evitare le doppie imposizioni in materia d’imposte sul reddito e sul patrimonio, hanno convenuto le seguenti disposizioni che formano parte integrante della Convenzione.
+In riferimento alla Convenzione tra la Confederazione Svizzera e lo Stato del Kuwait per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio e per prevenire l’evasione e l’elusione fiscali i sottoscritti hanno convenuto le seguenti disposizioni che formano parte integrante della Convenzione:
 
 \1. Ad articolo 4
 
@@ -484,9 +571,34 @@ Gli utili afferenti alla parte del contratto eseguita dalla sede principale dell
 
 Quanto detto precedentemente non deroga al principio del paragone con terzi contenuto nel paragrafo 2 dell’articolo 7.
 
-\4. Ad articolo 12
+\4. Ad art. 10 par. 3
+
+Resta inteso che se la durata minima di detenzione di cui al paragrafo 3 dell’articolo 10 non è stata rispettata al momento del pagamento dei dividendi e pertanto l’imposta di cui al paragrafo 2 dell’articolo 10 è stata trattenuta in occasione del pagamento, e se la durata minima di detenzione è rispettata successivamente, il beneficiario effettivo dei dividendi può chiedere il rimborso dell’imposta trattenuta.
+
+\5. Ad articolo 12
 
 Con riferimento al paragrafo 2, resta inteso che fino a quando uno Stato contraente, in base alla sua legislazione interna, non preleva alcuna imposta alla fonte sui canoni pagati a non residenti, le disposizioni del paragrafo 2 non sono applicabili e i canoni sono imponibili soltanto nello Stato contraente di cui il beneficiario dei canoni è residente.
+
+*6. Ad art. 18 e 19*
+
+Resta inteso che il termine «pensioni» di cui agli articoli 18 e 19 non comprende soltanto pagamenti ricorrenti, ma anche prestazioni in capitale.
+
+*7. Ad art. 26*
+
+- a) Resta inteso che lo Stato richiedente presenta una domanda di scambio di informazioni solo dopo aver esaurito le fonti di informazione usuali secondo la sua procedura fiscale interna.
+- b)
+
+  Resta inteso che nella domanda di assistenza amministrativa ai sensi dell’articolo 26 le autorità fiscali dello Stato richiedente forniscono le seguenti informazioni alle autorità fiscali dello Stato richiesto:
+
+  - (i) l’identità della persona oggetto della verifica o dell’inchiesta;
+  - (ii) il periodo oggetto della domanda;
+  - (iii) una descrizione delle informazioni richieste, nonché indicazioni sulla forma nella quale lo Stato richiedente desidera ricevere tali informazioni dallo Stato richiesto;
+  - (iv) lo scopo fiscale per cui le informazioni sono richieste;
+  - (v) se sono noti, il nome e l’indirizzo del detentore presunto delle informazioni richieste.
+
+- c) Resta inteso che il riferimento alle informazioni «verosimilmente rilevanti» ha lo scopo di garantire uno scambio di informazioni in ambito fiscale il più ampio possibile, senza tuttavia consentire agli Stati contraenti di intraprendere una ricerca generalizzata e indiscriminata di informazioni («fishing expedition») o di domandare informazioni la cui rilevanza in merito agli affari fiscali di un determinato contribuente non è verosimile. Sebbene la lettera b) contenga importanti requisiti procedurali volti a impedire la «fishing expedition», i numeri (i)–(v) della lettera b) devono essere interpretati in modo da non ostacolare uno scambio effettivo di informazioni.
+- d) Resta inteso che, sulla base dell’articolo 26, gli Stati contraenti non sono tenuti a procedere a uno scambio di informazioni spontaneo o automatico.
+- e) Resta inteso che nel caso di uno scambio di informazioni si applicano le norme di procedura amministrativa relative ai diritti del contribuente in vigore nello Stato richiesto. Resta inoltre inteso che queste norme servono a garantire al contribuente una procedura regolare e non mirano a ostacolare o ritardare indebitamente lo scambio di informazioni.
 
 *In fede di che,* i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato il presente Protocollo.
 
@@ -497,7 +609,9 @@ Fatto in Kuwait il 30 Shawwal 1419 H., corrispondente al 16 febbraio 1999, in du
 <tr><td>Daniel Woker</td><td>Abdul Mohsin Yousef Al Hunaif</td></tr>
 </table>
 
-Traduzione*[^t-3]*
+[^t-4]: Nuovo testo giusta l’art. 14 del Prot. del 6 nov. 2019, approvato dall’AF il 19 mar. 2021, in vigore dal 14 ott. 2024 ([RU 2024 615](https://fedlex.data.admin.ch/eli/oc/2024/615), [614](https://fedlex.data.admin.ch/eli/oc/2024/614); [FF 2020 6189](https://fedlex.data.admin.ch/eli/fga/2020/1897))
+
+Traduzione[^t-5]
 
 <table>
 <tr><td>Ambasciata Svizzera</td><td>Kuwait, 16 febbraio 1999</td></tr>
@@ -551,4 +665,22 @@ Colgo l’occasione per rinnovare a Sua Eccellenza i sensi della mia più alta s
 <tr><td></td><td>Ministero delle Finanze</td></tr>
 </table>
 
-[^t-3]: Dal testo originale inglese.
+## Art. 15 par. 2 del Prot del 6 nov. 2019
+
+[^annexu1-lvlu2-1]
+
+[^t-5]: Dal testo originale inglese.
+[^annexu1-lvlu2-1]: [RU 2024 615](https://fedlex.data.admin.ch/eli/oc/2024/615), [614](https://fedlex.data.admin.ch/eli/oc/2024/614); [FF 2020 6189](https://fedlex.data.admin.ch/eli/fga/2020/1897)
+
+\2. Le disposizioni del presente Protocollo di modifica si applicheranno:
+
+- a) con riferimento alle imposte ritenute alla fonte, ai redditi pagati o accreditati il 1° gennaio dell’anno civile successivo all’entrata in vigore del Protocollo, o dopo tale data;
+- b) con riferimento alle altre imposte, agli anni fiscali che iniziano il 1° gennaio dell’anno civile successivo all’entrata in vigore del Protocollo, o dopo tale data;
+- c)
+
+  con riferimento ai paragrafi 5 e 6 dell’articolo 25, alle procedure amichevoli:
+
+  - (i) pendenti tra le autorità competenti degli Stati contraenti al momento dell’entrata in vigore del Protocollo (in questi casi il termine di tre anni di cui alla lettera b) del paragrafo 5 decorre dall’entrata in vigore del Protocollo), o
+  - (ii) avviate dopo tale data;
+
+- d) con riferimento all’articolo 26, alle informazioni riguardanti gli anni o gli esercizi fiscali che iniziano il 1° gennaio dell’anno civile successivo all’entrata in vigore del Protocollo, o dopo tale data.
