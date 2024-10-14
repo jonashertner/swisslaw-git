@@ -4,11 +4,11 @@ title: "Ordinanza del 18 maggio 2005 concernente la riduzione dei rischi nell'ut
 short: ORRPChim
 eli: "https://fedlex.data.admin.ch/eli/cc/2005/478"
 language: it
-version: 2024-07-01
+version: 2024-10-15
 adopted: 2005-05-18
 in_force: 2005-08-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240701/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20240701-it-xml-4.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20240701/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20241015/it/xml/fedlex-data-admin-ch-eli-cc-2005-478-20241015-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20241015/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -17,7 +17,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2005/478/20240701/it"
 
 (Ordinanza sulla riduzione dei rischi inerenti ai prodotti chimici, ORRPChim)
 
-del 18 maggio 2005 (Stato 1° luglio 2024)
+del 18 maggio 2005 (Stato 15 ottobre 2024)
 
 Il Consiglio federale svizzero,
 
@@ -1316,7 +1316,7 @@ Sono vietati:
 - b. un’indicazione dei pericoli per l’uomo e per l’ambiente e delle misure protettive, conforme al modello seguente:
 
 <table>
-<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240701/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
+<tr><td>![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20241015/it/xml/image/image1.png)</td><td>Testa</td><td colspan="2">H = almeno 5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">B = almeno 2,5 cm</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>1</sub> = 40 per cento di H</td></tr>
 <tr><td></td><td></td><td colspan="2">h<sub>2</sub> = 60 per cento di H</td></tr>
@@ -2816,7 +2816,7 @@ Allegato 2.2[^t-21]
 
 ## Prodotti di pulizia, disodorizzanti e cosmetici
 
-[^t-21]: Aggiornato dal n. I 3 dell’O del 15 dic. 2006 ([RU 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), dal n. I dell’O del 13 feb. 2008 ([RU 2008 561](https://fedlex.data.admin.ch/eli/oc/2008/124)), dall’all. n. 2 dell’ O del 14 gen. 2009 ([RU 2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)), dal n. I dell’O dell’UFAM del 19 ott. 2009 ([RU 2009 5429](https://fedlex.data.admin.ch/eli/oc/2009/656)), dal n. I 6 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), dal n. II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dalla correzione del 20 giu. 2017 ([RU 2017 3541](https://fedlex.data.admin.ch/eli/oc/2017/391)), dal n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)).
+[^t-21]: Aggiornato dal n. I 3 dell’O del 15 dic. 2006 ([RU 2007 111](https://fedlex.data.admin.ch/eli/oc/2007/28)), dal n. I dell’O del 13 feb. 2008 ([RU 2008 561](https://fedlex.data.admin.ch/eli/oc/2008/124)), dall’all. n. 2 dell’ O del 14 gen. 2009 ([RU 2009 401](https://fedlex.data.admin.ch/eli/oc/2009/73)), dal n. I dell’O dell’UFAM del 19 ott. 2009 ([RU 2009 5429](https://fedlex.data.admin.ch/eli/oc/2009/656)), dal n. I 6 dell’O del 10 dic. 2010 ([RU 2011 113](https://fedlex.data.admin.ch/eli/oc/2011/20)), dal n. II cpv. 3 dell’O del 7 nov. 2012 ([RU 2012 6161](https://fedlex.data.admin.ch/eli/oc/2012/728)), dal n. II cpv. 2 dell’O del 1° lug. 2015 ([RU 2015 2367](https://fedlex.data.admin.ch/eli/oc/2015/447)), dalla correzione del 20 giu. 2017 ([RU 2017 3541](https://fedlex.data.admin.ch/eli/oc/2017/391)), dal n. I dell’O del 17 apr. 2019 ([RU 2019 1495](https://fedlex.data.admin.ch/eli/oc/2019/289)) e dall’all. n. 2 dell’O dell’11 mar. 2022, in vigore dal 1° mag. 2022 ([RU 2022 220](https://fedlex.data.admin.ch/eli/oc/2022/220)). Correzione del 15 ott. 2024 ([RU 2024 557](https://fedlex.data.admin.ch/eli/oc/2024/557)).
 
 ### 1 Definizione
 
@@ -2854,7 +2854,7 @@ Allegato 2.2[^t-21]
 <tr><td>Nome (Nomenclatura IUPAC[^annex22-lvlu1-lvl2-2])</td><td>N. EINECS o N. ELINCS</td><td>N. CAS</td><td>Limitazioni</td></tr>
 </table>
 
-<sup>1bis</sup> I detersivi per lavastoviglie domestiche non possono essere immessi sul mercato se il loro contenuto complessivo in massa di fosforo è pari o superiore allo 0,3 per cento del dosaggio standard secondo il numero 4 capoverso 1.
+<sup>1bis</sup> I detersivi per lavastoviglie domestiche non possono essere immessi sul mercato se il loro contenuto complessivo in massa di fosforo è pari o superiore a 0,3 grammi per dosaggio standard secondo il numero 4 capoverso 1.
 
 <sup>2</sup> L’UFAM adegua le disposizioni di cui al capoverso 1 lettera f alle modifiche del regolamento (CE) n. 648/2004.
 
@@ -4177,7 +4177,7 @@ Allegato 2.9[^t-28]
 
 <sup>2</sup> Preparati e oggetti contenenti PVC riciclato devono essere muniti di un’etichetta con la dicitura «Contiene PVC riciclato» o del seguente pittogramma:
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20240701/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2005/478/20241015/it/xml/image/image2.png)
 
 <sup>3</sup> I preparati, il cui contenuto in massa di diisocianato di metilendifenile è pari o superiore allo 0,1 per cento e che sono destinati al grande pubblico, devono essere muniti di etichette con la seguente dicitura: «L’uso di questo prodotto può provocare reazioni allergiche nei soggetti già sensibilizzati ai diisocianati. – I soggetti affetti da asma, eczema o problemi della pelle dovrebbero evitare il contatto, incluso il contatto dermico, con questo prodotto. – Questo prodotto non dovrebbe essere utilizzato in condizioni di scarsa ventilazione, a meno che non venga utilizzata una maschera protettiva con un idoneo filtro antigas (di tipo A1 conforme alla norma EN 14387)».
 
