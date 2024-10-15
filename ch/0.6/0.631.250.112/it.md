@@ -3,11 +3,11 @@ sr: "0.631.250.112"
 title: "Convenzione doganale del 2 dicembre 1972 concernente i contenitori, 1972 (con alllegati e protocollo di firma)"
 eli: "https://fedlex.data.admin.ch/eli/cc/1977/647_647_647"
 language: it
-version: 2020-11-01
+version: 2024-10-16
 adopted: 1972-12-02
 in_force: 1977-04-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/it/xml/fedlex-data-admin-ch-eli-cc-1977-647_647_647-20201101-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1977/647_647_647/20201101/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/it/xml/fedlex-data-admin-ch-eli-cc-1977-647_647_647-20241016-it-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1977/647_647_647/20241016/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -18,15 +18,9 @@ RU **1977** 647; FF **1975** II 795
 
 Traduzione
 
-Conchiusa a Ginevra il 2 dicembre 1972
+Conchiusa a Ginevra il 2 dicembre 1972 Approvata dall’Assemblea federale il 17 marzo 1976[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 12 ottobre 1976 Entrata in vigore per la Svizzera il 12 aprile 1977
 
-Approvata dall’Assemblea federale il 17 marzo 1976[^t-1]
-
-Istrumento di ratificazione depositato dalla Svizzera il 12 ottobre 1976
-
-Entrata in vigore per la Svizzera il 12 aprile 1977
-
-(Stato 1° novembre 2020)
+(Stato 16 ottobre 2024)
 
 [^t-1]: [RU 1977 645](https://fedlex.data.admin.ch/eli/oc/1977/645_645_645)
 
@@ -313,11 +307,9 @@ Oltre alle notificazioni e comunicazioni secondo gli articoli 21, 22 e 26, il Se
 
 L’originale della presente Convenzione, le cui versioni in lingua cinese, francese, inglese, russa e spagnola fanno egualmente fede, sarà depositato presso il Segretario generale dell’Organizzazione delle Nazioni Unite, il quale trasmetterà delle copie di detto documento a tutti gli Stati menzionati all’articolo 18.
 
-*In fede di che* i plenipotenziari sottoscritti, a ciò debitamente autorizzati dai loro governi, hanno firmato la presente Convenzione. Fatto a Ginevra, il due dicembre millenovecentosettantadue.
+*In fede di che* i plenipotenziari sottoscritti, a ciò debitamente autorizzati dai loro governi, hanno firmato la presente Convenzione. Fatto a Ginevra, il due dicembre millenovecentosettantadue. (Seguono le firme)
 
-(Seguono le firme)
-
-Allegato 1*[^t-2]*
+Allegato 1[^t-2]
 
 ## Prescrizioni concernenti l’apposizione di contrassegni sui contenitori
 
@@ -368,7 +360,7 @@ Ogni Parte Contraente è autorizzata a subordinare alle condizioni indicate qui 
 - a) il trasporto del contenitore al luogo o in vicinanza del luogo in cui saranno caricate merci da esportare, rispettivamente dal quale il contenitore sarà riesportato vuoto, dev’essere effettuato seguendo un itinerario diretto;
 - b) prima della sua riesportazione, il contenitore può essere impiegato una sol volta nel traffico interno.
 
-Allegato 4*[^t-3]*
+Allegato 4[^t-3]
 
 ## Prescrizioni sulle condizioni tecniche per i contenitori che possono essere ammessi al trasporto internazionale sotto chiusura doganale
 
@@ -512,7 +504,7 @@ Illustrazione n. 1
 
 ## Copertone costituito da diversi pezzi commessi mediante cucitura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/it/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/it/xml/image/image1.png)
 
 Illustrazione n. 2
 
@@ -520,37 +512,37 @@ Illustrazione n. 2
 
 **Cucitura d’angolo**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/it/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/it/xml/image/image2.png)
 
 Illustrazione n. 2a)
 
 ## Copertoni fatti di pezzi cuciti
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/it/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/it/xml/image/image3.png)
 
 Illustrazione n. 3
 
 ## Copertone costituito da diversi pezzi commessi mediante saldatura
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/it/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/it/xml/image/image4.png)
 
 Illustrazione n. 4
 
 ## Raccomodatura del copertone
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/it/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/it/xml/image/image5.png)
 
 Illustrazione n. 5
 
 ## Modello di una ghiera
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/it/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/it/xml/image/image6.png)
 
 Illustrazione n. 6
 
 ## Esempio di un dispositivo di chiusura a catenaccio per copertoni
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/it/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/it/xml/image/image7.png)
 
 Descrizione:
 
@@ -560,7 +552,7 @@ Illustrazione n. 7
 
 ## Esempio di copertone fissato ad un’armatura specialmente concepita
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/it/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/it/xml/image/image8.png)
 
 Descrizione:
 
@@ -570,7 +562,7 @@ Illustrazione n. 8
 
 ## Copertone con l’apertura per il carico e lo scarico
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/it/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/it/xml/image/image9.png)
 
 Descrizione:
 
@@ -580,15 +572,15 @@ Illustrazione n. 9
 
 ## Esempio della struttura di un contenitore dotato di copertoni scorrevoli
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/it/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/it/xml/image/image10.png)
 
 Illustrazione n. 9 (seguito)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/it/xml/image/image11.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/it/xml/image/image11.png)
 
 Illustrazione n. 9 (seguito)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/it/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/it/xml/image/image12.png)
 
 Illustrazione n. 10
 
@@ -596,19 +588,19 @@ Illustrazione n. 10
 
 Questo disegno illustra un esempio di veicolo e gli importanti requisiti di cui all’articolo 6 delle presenti prescrizioni.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/it/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/it/xml/image/image13.png)
 
 Illustrazione *n. 10* (seguito)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/it/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/it/xml/image/image14.png)
 
 *Illustrazione n.* *10* (seguito)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/it/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/it/xml/image/image15.png)
 
 Illustrazione n. 10 (seguito)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/it/xml/image/image16.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/it/xml/image/image16.png)
 
 Allegato 5
 
@@ -632,7 +624,7 @@ Allegato 5
 \5. La targa d’ammissione, conforme al modello I illustrato nell’appendice 1 del presente allegato, è costituita da una targa metallica delle dimensioni di almeno 20 × 10 cm. Essa deve recare le seguenti indicazioni, almeno in francese o in inglese, impresse in cavo o in rilievo, oppure in altro modo, a caratteri indelebili e ben leggibili:
 
 - a) le parole «Agréé pour le transport sous scellement douanier» o «Approved for transport under Customs seal»;
-- b)[^annex1-lvlu1-lvlu2-1] il nome del Paese nel quale il contenitore è stato ammesso, indicato interamente o con il codice del Paese ISO alfa 2 previsto nella norma internazionale ISO 3166, ovvero con la sigla nazionale usata nel traffico stradale internazionale per i veicoli a motore nonché il numero del certificato di ammissione (cifre, lettere, ecc.) e l’anno d’ammissione (ad esempio «NL/26/73» significa: Paesi Bassi, certificato d’ammissione n. 26, rilasciato nel 1973);
+- b)[^annex5-lvlu1-lvlu2-1] il nome del Paese nel quale il contenitore è stato ammesso, indicato interamente o con il codice del Paese ISO alfa 2 previsto nella norma internazionale ISO 3166, ovvero con la sigla nazionale usata nel traffico stradale internazionale per i veicoli a motore nonché il numero del certificato di ammissione (cifre, lettere, ecc.) e l’anno d’ammissione (ad esempio «NL/26/73» significa: Paesi Bassi, certificato d’ammissione n. 26, rilasciato nel 1973);
 - c) il numero progressivo del contenitore, designato dal costruttore (numero di fabbricazione);
 - d) se il contenitore è stato ammesso secondo il tipo di costruzione, i numeri o le lettere di riconoscimento del tipo del contenitore.
 
@@ -640,7 +632,7 @@ Allegato 5
 
 \7. La modificazione delle caratteristiche essenziali di un contenitore annulla la validità del certificato rilasciato; prima di poterlo utilizzare per il trasporto di merci sotto chiusura doganale, il contenitore dovrà essere nuovamente ammesso dall’autorità competente.
 
-[^annex1-lvlu1-lvlu2-1]: Nuovo testo giusta la mod. adottata dal CF il 4 mar. 1985, in vigore dal 18 set. 1985 ([RU 1985 1088](https://fedlex.data.admin.ch/eli/oc/1985/1088_1088_1088)).
+[^annex5-lvlu1-lvlu2-1]: Nuovo testo giusta la mod. adottata dal CF il 4 mar. 1985, in vigore dal 18 set. 1985 ([RU 1985 1088](https://fedlex.data.admin.ch/eli/oc/1985/1088_1088_1088)).
 
 ### Disposizioni particolari per l’ammissione secondo il tipo di costruzione allo stadio della fabbricazione
 
@@ -676,29 +668,29 @@ Appendice I dell’Allegato 5
 
 ## Modello N. I – Targa d’ammissione (testo inglese)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/it/xml/image/image17.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/it/xml/image/image17.png)
 
 Appendice I dell’Allegato 5
 
 ## Modello N. I – Targa d’ammissione (testo francese)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/it/xml/image/image18.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/it/xml/image/image18.png)
 
 Appendice 2 dell’Allegato 5
 
-## Modello N. II****
+## Modello N. II
+
+[^annex2-lvlu1-1]
+
+[^annex2-lvlu1-1]: Questo certificato, pubblicato nella [RU 1977 647](https://fedlex.data.admin.ch/eli/oc/1977/647_647_647), non è riprodotto nella RS.
+
+Appendice 3 dell’Allegato 5
+
+## Modello N. III
 
 [^annex3-lvlu1-1]
 
 [^annex3-lvlu1-1]: Questo certificato, pubblicato nella [RU 1977 647](https://fedlex.data.admin.ch/eli/oc/1977/647_647_647), non è riprodotto nella RS.
-
-Appendice 3 dell’Allegato 5
-
-## Modello N. III****
-
-[^annex6-lvlu1-1]
-
-[^annex6-lvlu1-1]: Questo certificato, pubblicato nella [RU 1977 647](https://fedlex.data.admin.ch/eli/oc/1977/647_647_647), non è riprodotto nella RS.
 
 Allegato 6
 
@@ -726,17 +718,17 @@ Lettera c) – Accessori e equipaggiamento del contenitore
 - b) piccoli apparecchi (registratori della temperatura o di urti, ecc.), aventi lo scopo di indicare o registrare le modificazioni delle condizioni ambientali e gli urti;
 - c) pareti divisorie interne, palette, ripiani, supporti, ganci e altri dispositivi analoghi per il collocamento delle merci.
 
-Lettera c)[^annexu1-lvlu1-lvl0-1] – Carrozzerie amovibili
+Lettera c)[^annex6-lvlu1-lvl0-1] – Carrozzerie amovibili
 
 - 0\.1.c)-2 Per «carrozzeria amovibile» s’intende un compartimento di carico sprovvisto di mezzi di locomozione e concepito in particolare per essere trasportato su veicolo stradale; il telaio del veicolo e la parte inferiore della carrozzeria devono essere specialmente adattati a tal fine. Questa definizione si applica anche alle casse mobili che sono compartimenti di carico specialmente concepiti per il trasporto intermodale strada/ferrovia.
 
-[^annexu1-lvlu1-lvl0-1]: Introdotta dalla mod. adottata dal CF il 30 ago. 1989, in vigore dal 1° mar. 1990 ([RU 1990 468](https://fedlex.data.admin.ch/eli/oc/1990/468_468_468)).
+[^annex6-lvlu1-lvl0-1]: Introdotta dalla mod. adottata dal CF il 30 ago. 1989, in vigore dal 1° mar. 1990 ([RU 1990 468](https://fedlex.data.admin.ch/eli/oc/1990/468_468_468)).
 
-### 1. Allegato 1****
+### 1. Allegato 1
 
-[^annexu1-lvlu1-lvl1-1]
+[^annex6-lvlu1-lvl1-1]
 
-[^annexu1-lvlu1-lvl1-1]: Introdotto dalla mod. adottata dal CF il 6 ott. 1986, in vigore dal 1° gen. 1988 ([RU 1986 1902](https://fedlex.data.admin.ch/eli/oc/1986/1902_1902_1902)).
+[^annex6-lvlu1-lvl1-1]: Introdotto dalla mod. adottata dal CF il 6 ott. 1986, in vigore dal 1° gen. 1988 ([RU 1986 1902](https://fedlex.data.admin.ch/eli/oc/1986/1902_1902_1902)).
 
 1.1 Paragrafo 1 – Utilizzazione di fogli di plastica per i contrassegni e i numeri d’identificazione figuranti sui contenitori
 
@@ -755,9 +747,9 @@ Lettera c)[^annexu1-lvlu1-lvl0-1] – Carrozzerie amovibili
 
 Paragrafo I lettera a) – Commettitura di elementi costitutivi
 
-- 4\.2.1.a)-1 a) Se sono impiegati dei congegni di giunzione (ribadini, viti, bulloni e dadi, ecc.), gli stessi dovranno essere applicati in quantità sufficiente dall’esterno, sporgere all’interno degli elementi costitutivi e ivi essere saldamente fissati (ad esempio, ribaditi, saldati, provvisti di anelli di chiusura oppure avvitati e ribaditi o saldati sul dado).[^annexu1-lvlu1-lvl4-1] Tuttavia, i ribadini tradizionali (ossia quelli la cui posa dev’essere effettuata su entrambe le facce degli elementi commessi), potranno essere applicati anche dall’interno. Ciò nonostante, il pavimento dei contenitori può essere fissato mediante viti mordenti, ribadini a percussione o a pressione, apposti dall’interno e penetranti ad angolo retto nel pavimento e nelle sottostanti traverse metalliche, sempreché trattandosi di viti mordenti - l’estremità di alcuni di essi affondi sino alla parte esterna delle traverse, oppure sia saldata sulle stesse.[^annexu1-lvlu1-lvl4-2]
+- 4\.2.1.a)-1 a) Se sono impiegati dei congegni di giunzione (ribadini, viti, bulloni e dadi, ecc.), gli stessi dovranno essere applicati in quantità sufficiente dall’esterno, sporgere all’interno degli elementi costitutivi e ivi essere saldamente fissati (ad esempio, ribaditi, saldati, provvisti di anelli di chiusura oppure avvitati e ribaditi o saldati sul dado).[^annex6-lvlu1-lvl4-1] Tuttavia, i ribadini tradizionali (ossia quelli la cui posa dev’essere effettuata su entrambe le facce degli elementi commessi), potranno essere applicati anche dall’interno. Ciò nonostante, il pavimento dei contenitori può essere fissato mediante viti mordenti, ribadini a percussione o a pressione, apposti dall’interno e penetranti ad angolo retto nel pavimento e nelle sottostanti traverse metalliche, sempreché trattandosi di viti mordenti - l’estremità di alcuni di essi affondi sino alla parte esterna delle traverse, oppure sia saldata sulle stesse.[^annex6-lvlu1-lvl4-2]
 - b) L’autorità competente fissa quali e quanti congegni di giunzione devono soddisfare alle condizioni della lettera a) della presente nota, accertando inoltre che non sia possibile spostare gli elementi costitutivi così commessi senza lasciare tracce visibili. Gli altri congegni di giunzione possono essere scelti e posati a beneplacito.
-- c) A tenore della lettera a) della presente nota, non saranno ammessi i congegni di giunzione che possono essere tolti e sostituiti su una sola faccia senza lasciare tracce visibili, vale a dire i congegni la cui posa non esige il compimento di un’operazione su entrambe le facce degli elementi da commettere. Trattasi segnatamente dei ribadini ad espansione, dei ribadini ciechi e simili. Nondimeno, i ribadini ciechi possono servire a condizione che un numero sufficiente di altri congegni di congiunzione descritti nella nota esplicativa 4.2.1.a)- 1 a) dell’allegato 6 della Convenzione sia utilizzato per la commettitura degli elementi costitutivi.[^annexu1-lvlu1-lvl4-3]
+- c) A tenore della lettera a) della presente nota, non saranno ammessi i congegni di giunzione che possono essere tolti e sostituiti su una sola faccia senza lasciare tracce visibili, vale a dire i congegni la cui posa non esige il compimento di un’operazione su entrambe le facce degli elementi da commettere. Trattasi segnatamente dei ribadini ad espansione, dei ribadini ciechi e simili. Nondimeno, i ribadini ciechi possono servire a condizione che un numero sufficiente di altri congegni di congiunzione descritti nella nota esplicativa 4.2.1.a)- 1 a) dell’allegato 6 della Convenzione sia utilizzato per la commettitura degli elementi costitutivi.[^annex6-lvlu1-lvl4-3]
 - d) I suddescritti sistemi di commettitura sono applicabili ai contenitori speciali, ad esempio contenitori isotermici, contenitori frigoriferi e contenitori cisterne, sempreché gli stessi non siano incompatibili con le prescrizioni tecniche cui tali contenitori devono soddisfare per quanto concerne la loro utilizzazione. Allorché per ragioni tecniche non è possibile fissare gli elementi nel modo descritto alla lettera a) della presente nota, gli elementi costitutivi potranno essere commessi impiegando i congegni previsti alla lettera c) della presente nota, a condizione che il congegno di giunzione, apposto sulla faccia interna della parete, non sia accessibile dall’esterno.
 
 Paragrafo 1 lettera b) – Porte e altri congegni di chiusura
@@ -767,13 +759,13 @@ Paragrafo 1 lettera b) – Porte e altri congegni di chiusura
   Il dispositivo che permette l’apposizione della chiusura doganale dev’essere:
 
   - i) fissato mediante saldatura o impiegando almeno due congegni di giunzione secondo la lettera a) della nota esplicativa 4.2.1.a)-1; oppure
-  - ii)[^annexu1-lvlu1-lvl4-4] costituito in modo che, una volta chiuso il contenitore e apposta la chiusura doganale, non possa essere tolto senza lasciare tracce visibili.
+  - ii)[^annex6-lvlu1-lvl4-4] costituito in modo che, una volta chiuso il contenitore e apposta la chiusura doganale, non possa essere tolto senza lasciare tracce visibili.
   - Esso deve inoltre:
-  - iii)[^annexu1-lvlu1-lvl4-5] essere provvisto di fori d’un diametro di almeno 11 mm o di fessure aventi almeno 1 mm di lunghezza e 3 mm di larghezza, e
-  - iv)[^annexu1-lvlu1-lvl4-6] offrire una sicurezza uguale, indipendentemente dal tipo di chiusura utilizzato.
+  - iii)[^annex6-lvlu1-lvl4-5] essere provvisto di fori d’un diametro di almeno 11 mm o di fessure aventi almeno 1 mm di lunghezza e 3 mm di larghezza, e
+  - iv)[^annex6-lvlu1-lvl4-6] offrire una sicurezza uguale, indipendentemente dal tipo di chiusura utilizzato.
 
-- b) Le cerniere, le bandelle, i cardini e gli altri dispositivi di montaggio delle porte, ecc., devono essere apposti secondo le prescrizioni della lettera a) i) e ii) della presente nota.[^annexu1-lvlu1-lvl4-7] Inoltre, le diverse parti del dispositivo d’arresto (ad es. lastre, perni, cardini), sempre che siano indispensabili per garantire la sicurezza doganale del contenitore (cfr. illustrazione n. 7 aggiunta al presente allegato), saranno fissate in modo che, una volta chiuso il contenitore e apposta la chiusura doganale, non possano essere tolte o smontate senza lasciare tracce visibili.[^annexu1-lvlu1-lvl4-8] Se invece il dispositivo d’arresto non è accessibile dall’esterno, basterà ad esempio che la porta – dopo essere stata chiusa e provvista della chiusura doganale – non possa essere rimossa senza lasciare tracce visibili. Se una porta o un congegno di chiusura è provvisto di più di due cardini, solo i due cardini più vicini alle estremità della porta saranno fissati secondo le prescrizioni della lettera a) i) e ii) della presente nota esplicativa.[^annexu1-lvlu1-lvl4-9]
-- c)[^annexu1-lvlu1-lvl4-10]
+- b) Le cerniere, le bandelle, i cardini e gli altri dispositivi di montaggio delle porte, ecc., devono essere apposti secondo le prescrizioni della lettera a) i) e ii) della presente nota.[^annex6-lvlu1-lvl4-7] Inoltre, le diverse parti del dispositivo d’arresto (ad es. lastre, perni, cardini), sempre che siano indispensabili per garantire la sicurezza doganale del contenitore (cfr. illustrazione n. 7 aggiunta al presente allegato), saranno fissate in modo che, una volta chiuso il contenitore e apposta la chiusura doganale, non possano essere tolte o smontate senza lasciare tracce visibili.[^annex6-lvlu1-lvl4-8] Se invece il dispositivo d’arresto non è accessibile dall’esterno, basterà ad esempio che la porta – dopo essere stata chiusa e provvista della chiusura doganale – non possa essere rimossa senza lasciare tracce visibili. Se una porta o un congegno di chiusura è provvisto di più di due cardini, solo i due cardini più vicini alle estremità della porta saranno fissati secondo le prescrizioni della lettera a) i) e ii) della presente nota esplicativa.[^annex6-lvlu1-lvl4-9]
+- c)[^annex6-lvlu1-lvl4-10]
 
   In via straordinaria, trattandosi di veicoli provvisti di compartimenti calorifughi riservati al carico, il dispositivo di chiusura doganale, i cardini e le altre parti la cui asportazione permetterebbe di accedere all’interno del compartimento riservato al carico o a spazi nei quali le merci potrebbero essere nascoste, possono essere fissati alle porte di tale compartimento riservato al carico mediante i mezzi seguenti:
 
@@ -786,23 +778,23 @@ Paragrafo 1 lettera b) – Porte e altri congegni di chiusura
   - un numero sufficiente di rosette di bloccaggio e di perni di fissazione siano saldati insieme e non possano essere rimossi senza lasciare tracce visibili (vedi illustrazione n. 5 annessa al presente allegato).
   - Il termine «compartimento calorifugo riservato al carico» dev’essere interpretato come applicabile ai compartimenti frigoriferi e isotermici riservati ai carichi.
 
-- d)[^annexu1-lvlu1-lvl4-11] I contenitori muniti di numerose chiusure, come valvole, rubinetti, passi d’uomo, flange, ecc., devono essere sistemati in modo da limitare al minimo il numero delle chiusure doganali. A tal uopo le chiusure vicine le une alle altre dovranno essere collegate con un dispositivo comune richiedente l’apposizione di un’unica chiusura doganale, oppure provviste di un coperchio che adempie il medesimo scopo.
-- e)[^annexu1-lvlu1-lvl4-12] I contenitori provvisti di tetto scorrevole devono essere costruiti in modo da limitare al minimo le chiusure doganali.
+- d)[^annex6-lvlu1-lvl4-11] I contenitori muniti di numerose chiusure, come valvole, rubinetti, passi d’uomo, flange, ecc., devono essere sistemati in modo da limitare al minimo il numero delle chiusure doganali. A tal uopo le chiusure vicine le une alle altre dovranno essere collegate con un dispositivo comune richiedente l’apposizione di un’unica chiusura doganale, oppure provviste di un coperchio che adempie il medesimo scopo.
+- e)[^annex6-lvlu1-lvl4-12] I contenitori provvisti di tetto scorrevole devono essere costruiti in modo da limitare al minimo le chiusure doganali.
 
 Paragrafo 1 lettera c) – Aperture d’aerazione
 
 - 4\.2.1.c)-1 a) Per principio, tali aperture dovranno avere una dimensione di al massimo 400 mm.
-- b)[^annexu1-lvlu1-lvl4-13]
+- b)[^annex6-lvlu1-lvl4-13]
 
   Le aperture che permettono l’accesso diretto al contenitore devono essere chiuse:
 
   - i) da un telone metallico o lastra metallica perforata (dimensione massima dei fori: 3 mm in ambedue i casi) e protetto da una griglia di metallo saldato (dimensione massima delle maglie: 10 mm); o
   - ii) da una lastra metallica perforata di spessore sufficiente (dimensione massima dei fori: 3 mm; spessore della lastra: 1 mm almeno).
 
-- c)[^annexu1-lvlu1-lvl4-14] Le aperture che non permettono l’accesso diretto al contenitore (per esempio a causa dell’impiego di condotte di ventilazione con tubi a gomito o di dispositivi di bloccaggio) devono essere munite dei dispositivi menzionati al capoverso b) le cui dimensioni dei fori e delle maglie possono raggiungere un diametro di 10 mm (per il telone metallico o lastra metallica) e di 20 mm (per la griglia metallica).
+- c)[^annex6-lvlu1-lvl4-14] Le aperture che non permettono l’accesso diretto al contenitore (per esempio a causa dell’impiego di condotte di ventilazione con tubi a gomito o di dispositivi di bloccaggio) devono essere munite dei dispositivi menzionati al capoverso b) le cui dimensioni dei fori e delle maglie possono raggiungere un diametro di 10 mm (per il telone metallico o lastra metallica) e di 20 mm (per la griglia metallica).
 - d) Se il copertone è provvisto di aperture, si dovrà per principio esigere che siano applicati i dispositivi menzionati alla lettera b) della presente nota esplicativa. Tuttavia, si potranno ammettere un congegno d’ostruzione costituita da una lamiera di metallo perforata, apposta all’esterno, e una tela di metallo o d’un’altra materia, fissata all’interno.
-- e)[^annexu1-lvlu1-lvl4-15] Potranno essere ammessi dei dispositivi analoghi non metallici, alla condizione che le dimensioni dei fori e delle maglie siano rispettate e che il materiale impiegato sia sufficientemente resistente in modo che tali fori o maglie non possano essere notevolmente ampliati senza visibile deteriorazione. Inoltre, il dispositivo d’aerazione non deve poter essere sostituito operando su un solo lato del copertone.
-- f)[^annexu1-lvlu1-lvl4-16] L’apertura di aerazione può essere provvista di un dispositivo di protezione. Quest’ultimo sarà fissato al copertone in modo che sia possibile il controllo doganale dell’apertura. Esso è fissato al copertone a una distanza di almeno 5 cm dalla griglia dell’apertura d’aerazione.
+- e)[^annex6-lvlu1-lvl4-15] Potranno essere ammessi dei dispositivi analoghi non metallici, alla condizione che le dimensioni dei fori e delle maglie siano rispettate e che il materiale impiegato sia sufficientemente resistente in modo che tali fori o maglie non possano essere notevolmente ampliati senza visibile deteriorazione. Inoltre, il dispositivo d’aerazione non deve poter essere sostituito operando su un solo lato del copertone.
+- f)[^annex6-lvlu1-lvl4-16] L’apertura di aerazione può essere provvista di un dispositivo di protezione. Quest’ultimo sarà fissato al copertone in modo che sia possibile il controllo doganale dell’apertura. Esso è fissato al copertone a una distanza di almeno 5 cm dalla griglia dell’apertura d’aerazione.
 
 Paragrafo 1 lettera c) – Aperture di scolo
 
@@ -817,83 +809,83 @@ Paragrafo 3 – Copertoni costituiti da diversi pezzi
 - 4\.4.3-1 a) I vari pezzi di un copertone possono essere costituiti da diverse materie, conformemente alle prescrizioni dell’articolo 4, paragrafo 2 dell’Allegato 4.
 - b) La disposizione dei vari pezzi di un copertone può essere effettuata a beneplacito, purché dia sufficienti garanzie di sicurezza e a condizione che la commettitura sia eseguita conformemente alle prescrizioni dell’articolo 4 dell’Allegato 4.
 
-Paragrafo 6, lettera a) – Contenitori provvisti di copertone con anelli scorrevoli[^annexu1-lvlu1-lvl4-17]
+Paragrafo 6, lettera a) – Contenitori provvisti di copertone con anelli scorrevoli[^annex6-lvlu1-lvl4-17]
 
 - 4\.4.6.a)-1 Le illustrazioni n. 1, 2 e 3, annesse al presente Allegato, mostrano degli esempi di dispositivi atti a fissare il copertone sul contenitore, risp. ad assicurarlo attorno ai montanti angolari del contenitore, il cui impiego è ammesso dalla dogana.
-- 4\.4.6.a)-2[^annexu1-lvlu1-lvl4-18] Agli effetti del presente paragrafo possono essere ammessi degli anelli di fissazione di metallo scorrevoli sulle barre metalliche fissate ai contenitori (v. illustrazione n. 5 annessa al presente allegato), sempreché
+- 4\.4.6.a)-2[^annex6-lvlu1-lvl4-18] Agli effetti del presente paragrafo possono essere ammessi degli anelli di fissazione di metallo scorrevoli sulle barre metalliche fissate ai contenitori (v. illustrazione n. 5 annessa al presente allegato), sempreché
 - a) le barre siano fissate al veicolo a intervalli massimi di 60 cm, in modo che non possano essere tolte e riapplicate senza lasciare tracce visibili;
 - b) gli anelli siano costituiti da due aperture o provvisti di una barra centrale e siano fabbricati di un sol pezzo senza saldatura;
 - c) il copertone sia fissato al contenitore in modo da soddisfare rigorosamente alla condizione menzionata alla lettera a) dell’articolo uno dell’allegato 4 alla presente Convenzione.
 
-Paragrafo 6, lettera a) i)[^annexu1-lvlu1-lvl4-19] – Contenitori provvisti di copertone con anelli girevoli
+Paragrafo 6, lettera a) i)[^annex6-lvlu1-lvl4-19] – Contenitori provvisti di copertone con anelli girevoli
 
-- 4\.4.6.a)-3[^annexu1-lvlu1-lvl4-20] Gli anelli metallici girevoli, ciascuno in una staffa metallica fissata al contenitore sono ammessi giusta il presente paragrafo (vedi illustrazione n. 6) alle condizioni che:
+- 4\.4.6.a)-3[^annex6-lvlu1-lvl4-20] Gli anelli metallici girevoli, ciascuno in una staffa metallica fissata al contenitore sono ammessi giusta il presente paragrafo (vedi illustrazione n. 6) alle condizioni che:
 - a) ciascuna staffa sia fissata al contenitore in modo da non poter essere rimossa senza lasciare tracce visibili;
 - b) la molla di ciascuna staffa sia completamente in una campana metallica.
 
-Paragrafo 6, lettera b)[^annexu1-lvlu1-lvl4-21] – Copertoni fissati in modo permanente
+Paragrafo 6, lettera b)[^annex6-lvlu1-lvl4-21] – Copertoni fissati in modo permanente
 
-- 4\.4.6.b)-1[^annexu1-lvlu1-lvl4-22] Se uno o più orli del copertone sono fissati al contenitore in modo permanente, il copertone sarà trattenuto da uno o più nastri di metallo o di altro materiale confacente, ancorato al contenitore mediante dispositivi di giunzione rispondenti alle esigenze della lettera a) della nota 4.2.1.a) del presente allegato.
+- 4\.4.6.b)-1[^annex6-lvlu1-lvl4-22] Se uno o più orli del copertone sono fissati al contenitore in modo permanente, il copertone sarà trattenuto da uno o più nastri di metallo o di altro materiale confacente, ancorato al contenitore mediante dispositivi di giunzione rispondenti alle esigenze della lettera a) della nota 4.2.1.a) del presente allegato.
 
-Paragrafo 8[^annexu1-lvlu1-lvl4-23] – Spazi fra gli anelli e gli occhielli
+Paragrafo 8[^annex6-lvlu1-lvl4-23] – Spazi fra gli anelli e gli occhielli
 
-- 4\.4.8-1[^annexu1-lvlu1-lvl4-24] Gli spazi di oltre 200 mm ma non superiori a 300 mm sono ammessi al di sopra dei montanti, se gli anelli sono incastrati nelle pareti laterali e se gli occhielli sono ovali e sufficientemente piccoli per passare proprio sopra gli anelli.
+- 4\.4.8-1[^annex6-lvlu1-lvl4-24] Gli spazi di oltre 200 mm ma non superiori a 300 mm sono ammessi al di sopra dei montanti, se gli anelli sono incastrati nelle pareti laterali e se gli occhielli sono ovali e sufficientemente piccoli per passare proprio sopra gli anelli.
 
-Paragrafo 9[^annexu1-lvlu1-lvl4-25] – Cavi e corde con anima di materia tessile
+Paragrafo 9[^annex6-lvlu1-lvl4-25] – Cavi e corde con anima di materia tessile
 
-- 4\.4.9-1[^annexu1-lvlu1-lvl4-26] Sono ammessi anche i cavi con anima di materia tessile avvolta in almeno quattro trefoli[^annexu1-lvlu1-lvl4-27], costituiti esclusivamente da fili d’acciaio ricoprenti interamente l’anima, a condizione che il diametro di detti cavi sia di almeno 3 mm (misurato senza l’eventuale guaina di materia plastica trasparente).
+- 4\.4.9-1[^annex6-lvlu1-lvl4-26] Sono ammessi anche i cavi con anima di materia tessile avvolta in almeno quattro trefoli[^annex6-lvlu1-lvl4-27], costituiti esclusivamente da fili d’acciaio ricoprenti interamente l’anima, a condizione che il diametro di detti cavi sia di almeno 3 mm (misurato senza l’eventuale guaina di materia plastica trasparente).
 
-Paragrafo 11 lettera a) i)[^annexu1-lvlu1-lvl4-28] – Raddoppiatura di tensione dei copertoni
+Paragrafo 11 lettera a) i)[^annex6-lvlu1-lvl4-28] – Raddoppiatura di tensione dei copertoni
 
-- 4\.4.11.a)-1[^annexu1-lvlu1-lvl4-29] Su numerosi contenitori il copertone è munito, all’esterno, di una raddoppiatura orizzontale provvista di occhielli lungo la parete laterale del contenitore. Tali raddoppiature, denominate raddoppiature di tensione, sono destinate a consentire di tendere il copertone mediante corde o dispositivi analoghi.
+- 4\.4.11.a)-1[^annex6-lvlu1-lvl4-29] Su numerosi contenitori il copertone è munito, all’esterno, di una raddoppiatura orizzontale provvista di occhielli lungo la parete laterale del contenitore. Tali raddoppiature, denominate raddoppiature di tensione, sono destinate a consentire di tendere il copertone mediante corde o dispositivi analoghi.
 - Siffatte raddoppiature sono state utilizzate per celare degli intagli praticati orizzontalmente nei copertoni e che permettevano di accedere illecitamente alle merci trasportate nel contenitore. Si raccomanda pertanto di non accettare l’impiego di raddoppiature del genere suddescritto. Esse possono essere sostituite con i seguenti dispositivi:
 - a) raddoppiature di tensione di genere analogo, fissate all’interno del copertone, oppure
 - b) piccole raddoppiature singole, provviste ognuna di un occhiello, fissate sulla faccia esterna del copertone e ripartite ad intervalli che consentono di tendere il copertone in modo soddisfacente.
 
 Un’altra soluzione, possibile in certi casi, consiste nell’evitare l’impiego delle raddoppiature di tensione sui copertoni.
 
-Paragrafo 11 lettera a) iii)[^annexu1-lvlu1-lvl4-30] – Corregge di copertoni
+Paragrafo 11 lettera a) iii)[^annex6-lvlu1-lvl4-30] – Corregge di copertoni
 
-4.4.11.a)-2[^annexu1-lvlu1-lvl4-31] Le seguenti materie sono reputate atte alla fabbricazione di corregge:
+4.4.11.a)-2[^annex6-lvlu1-lvl4-31] Le seguenti materie sono reputate atte alla fabbricazione di corregge:
 
 - a) cuoio;
-- b)[^annexu1-lvlu1-lvl4-32] materie tessili non estensibili, compreso il tessuto plastificato o gommato, a condizione che non possano essere saldate o ricongiunte dopo la loro rottura senza lasciare tracce visibili. Inoltre la materia plastica di copertura delle corregge dovrà essere trasparente e la sua superficie liscia.
+- b)[^annex6-lvlu1-lvl4-32] materie tessili non estensibili, compreso il tessuto plastificato o gommato, a condizione che non possano essere saldate o ricongiunte dopo la loro rottura senza lasciare tracce visibili. Inoltre la materia plastica di copertura delle corregge dovrà essere trasparente e la sua superficie liscia.
 
-4.4.11.a)-3[^annexu1-lvlu1-lvl4-33] Il dispositivo riprodotto nell’illustrazione n. 3 del presente Allegato è conforme alle prescrizioni dell’articolo 4, paragrafo 11 a), ultima parte, dell’Allegato 4. Esso soddisfa parimenti alle prescrizioni dell’articolo 4, paragrafo 6 dell’Allegato 4.
+4.4.11.a)-3[^annex6-lvlu1-lvl4-33] Il dispositivo riprodotto nell’illustrazione n. 3 del presente Allegato è conforme alle prescrizioni dell’articolo 4, paragrafo 11 a), ultima parte, dell’Allegato 4. Esso soddisfa parimenti alle prescrizioni dell’articolo 4, paragrafo 6 dell’Allegato 4.
 
-[^annexu1-lvlu1-lvl4-1]: Nuovo testo giusta la mod. adottata dal CF il 4 mar. 1985, in vigore dal 18 set. 1985 ([RU 1985 1088](https://fedlex.data.admin.ch/eli/oc/1985/1088_1088_1088)).
-[^annexu1-lvlu1-lvl4-2]: Nuovo testo dell’ultimo per. giusta la mod. adottata dal CF l’11 ago. 1982, in vigore dall’8 mar. 1983 ([RU 1983 336](https://fedlex.data.admin.ch/eli/oc/1983/336_336_336)).
-[^annexu1-lvlu1-lvl4-3]: Per. introdotto dalla mod. adottata dal CF il 13 mar. 1995, in vigore dal 10 giu. 1995 ([RU 1997 738](https://fedlex.data.admin.ch/eli/oc/1997/738_738_738)).
-[^annexu1-lvlu1-lvl4-4]: Nuovo testo giusta la mod. adottata dal CF il 4 mar. 1985, in vigore dal 18 set. 1985 ([RU 1985 1088](https://fedlex.data.admin.ch/eli/oc/1985/1088_1088_1088)).
-[^annexu1-lvlu1-lvl4-5]: Nuovo testo giusta la mod. adottata dal CF il 4 mar. 1985, in vigore dal 18 set. 1985 ([RU 1985 1088](https://fedlex.data.admin.ch/eli/oc/1985/1088_1088_1088)).
-[^annexu1-lvlu1-lvl4-6]: Introdotto dalla mod. adottata dal CF il 4 mar. 1985, in vigore dal 18 set. 1985 ([RU 1985 1088](https://fedlex.data.admin.ch/eli/oc/1985/1088_1088_1088)).
-[^annexu1-lvlu1-lvl4-7]: Nuovo testo giusta la mod. adottata dal CF il 4 mar. 1985, in vigore dal 18 set. 1985 ([RU 1985 1088](https://fedlex.data.admin.ch/eli/oc/1985/1088_1088_1088)).
-[^annexu1-lvlu1-lvl4-8]: Nuovo testo del secondo per. giusta la mod. adottata dal CF il 13 mar. 1995, in vigore dal 10 giu. 1995 ([RU 1997 738](https://fedlex.data.admin.ch/eli/oc/1997/738_738_738)).
-[^annexu1-lvlu1-lvl4-9]: Nuovo testo dell’ultimo per. giusta la mod. adottata dal CF il 4 mar. 1985, in vigore dal 18 set. 1985 ([RU 1985 1088](https://fedlex.data.admin.ch/eli/oc/1985/1088_1088_1088)).
-[^annexu1-lvlu1-lvl4-10]: Introdotta dalla mod. adottata dal CF l’11 ago. 1982 ([RU 1983 336](https://fedlex.data.admin.ch/eli/oc/1983/336_336_336)). Nuovo testo giusta la mod. adottata dal CF il 13 mar. 1995, in vigore dal 10 giu. 1995 ([RU 1997 738](https://fedlex.data.admin.ch/eli/oc/1997/738_738_738)).
-[^annexu1-lvlu1-lvl4-11]: Originaria lett. c.
-[^annexu1-lvlu1-lvl4-12]: Originaria lett. d.
-[^annexu1-lvlu1-lvl4-13]: Nuovo testo giusta la mod. adottata dal CF il 13 mar. 1995, in vigore dal 10 giu. 1995 ([RU 1997 738](https://fedlex.data.admin.ch/eli/oc/1997/738_738_738)).
-[^annexu1-lvlu1-lvl4-14]: Nuovo testo giusta la mod. adottata dal CF il 13 mar. 1995, in vigore dal 10 giu. 1995 ([RU 1997 738](https://fedlex.data.admin.ch/eli/oc/1997/738_738_738)).
-[^annexu1-lvlu1-lvl4-15]: Introdotta dalla mod. adottata dal CF l’11 ago. 1982, in vigore dall’8 mar. 1983 ([RU 1983 336](https://fedlex.data.admin.ch/eli/oc/1983/336_336_336)).
-[^annexu1-lvlu1-lvl4-16]: Introdotta dalla mod. adottata dal CF il 4 mar. 1985, in vigore dal 18 set. 1985 ([RU 1985 1088](https://fedlex.data.admin.ch/eli/oc/1985/1088_1088_1088)).
-[^annexu1-lvlu1-lvl4-17]: Introdotta dalla mod. adottata dal CF l’11 ago. 1982, in vigore dall’8 mar. 1983 ([RU 1983 336](https://fedlex.data.admin.ch/eli/oc/1983/336_336_336)).
-[^annexu1-lvlu1-lvl4-18]: Introdotta dalla mod. adottata dal CF l’11 ago. 1982, in vigore dall’8 mar. 1983 ([RU 1983 336](https://fedlex.data.admin.ch/eli/oc/1983/336_336_336)).
-[^annexu1-lvlu1-lvl4-19]: Introdotto dalla mod. adottata dal CF il 4 mar. 1985, in vigore dal 18 set. 1985 ([RU 1985 1088](https://fedlex.data.admin.ch/eli/oc/1985/1088_1088_1088))
-[^annexu1-lvlu1-lvl4-20]: Introdotto dalla mod. adottata dal CF il 4 mar. 1985, in vigore dal 18 set. 1985 ([RU 1985 1088](https://fedlex.data.admin.ch/eli/oc/1985/1088_1088_1088)).
-[^annexu1-lvlu1-lvl4-21]: Introdotto dalla mod. adottata dal CF l’11 ago. 1982, in vigore dall’8 mar. 1983 ([RU 1983 336](https://fedlex.data.admin.ch/eli/oc/1983/336_336_336)).
-[^annexu1-lvlu1-lvl4-22]: Introdotto dalla mod. adottata dal CF l’11 ago. 1982, in vigore dall’8 mar. 1983 ([RU 1983 336](https://fedlex.data.admin.ch/eli/oc/1983/336_336_336)).
-[^annexu1-lvlu1-lvl4-23]: Originario par. 7. Introdotto dalla mod. adottata dal CF l’11 ago. 1982 ([RU 1983 336](https://fedlex.data.admin.ch/eli/oc/1983/336_336_336)). Nuovo testo giusta la mod. adottata dal CF il 13 mar. 1995, in vigore dal 10 giu. 1995 ([RU 1997 738](https://fedlex.data.admin.ch/eli/oc/1997/738_738_738)).
-[^annexu1-lvlu1-lvl4-24]: Originario 4.4.7-1. Introdotto dalla mod. adottata dal CF l’11 ago. 1982 ([RU 1983 336](https://fedlex.data.admin.ch/eli/oc/1983/336_336_336)). Nuovo testo giusta la mod. adottata dal CF il 13 mar. 1995, in vigore dal 10 giu. 1995 ([RU 1997 738](https://fedlex.data.admin.ch/eli/oc/1997/738_738_738)).
-[^annexu1-lvlu1-lvl4-25]: Originario par. 8.
-[^annexu1-lvlu1-lvl4-26]: Originario 4.4.8-1.
-[^annexu1-lvlu1-lvl4-27]: Nuova locuzione giusta la mod. adottata dal CF il 4 mar. 1985, in vigore dal 18 set. 1985 ([RU 1985 1088](https://fedlex.data.admin.ch/eli/oc/1985/1088_1088_1088)).
-[^annexu1-lvlu1-lvl4-28]: Originario par. 10 lett. a). Introdotto dalla mod. adottata dal CF l’11 ago. 1982, in vigore dall’8 mar. 1983 ([RU 1983 336](https://fedlex.data.admin.ch/eli/oc/1983/336_336_336)).
-[^annexu1-lvlu1-lvl4-29]: Originario 4.4.10.a)-1. Introdotto dalla mod. adottata dal CF l’11 ago. 1982, in vigore dall’8 mar. 1983 ([RU 1983 336](https://fedlex.data.admin.ch/eli/oc/1983/336_336_336)).
-[^annexu1-lvlu1-lvl4-30]: Originario par. 10 lett. c).
-[^annexu1-lvlu1-lvl4-31]: Originario 4.4.10.c)-1.
-[^annexu1-lvlu1-lvl4-32]: Nuovo testo giusta la mod. adottata dal CF l’11 ago. 1982, in vigore dall’8 mar. 1983 ([RU 1983 336](https://fedlex.data.admin.ch/eli/oc/1983/336_336_336)).
-[^annexu1-lvlu1-lvl4-33]: Originario 4.4.10.c)-2. Aggiornato giusta la mod. adottata dal CF il 13 mar. 1995, in vigore dal 10 giu. 1995 ([RU 1997 738](https://fedlex.data.admin.ch/eli/oc/1997/738_738_738)).
+[^annex6-lvlu1-lvl4-1]: Nuovo testo giusta la mod. adottata dal CF il 4 mar. 1985, in vigore dal 18 set. 1985 ([RU 1985 1088](https://fedlex.data.admin.ch/eli/oc/1985/1088_1088_1088)).
+[^annex6-lvlu1-lvl4-2]: Nuovo testo dell’ultimo per. giusta la mod. adottata dal CF l’11 ago. 1982, in vigore dall’8 mar. 1983 ([RU 1983 336](https://fedlex.data.admin.ch/eli/oc/1983/336_336_336)).
+[^annex6-lvlu1-lvl4-3]: Per. introdotto dalla mod. adottata dal CF il 13 mar. 1995, in vigore dal 10 giu. 1995 ([RU 1997 738](https://fedlex.data.admin.ch/eli/oc/1997/738_738_738)).
+[^annex6-lvlu1-lvl4-4]: Nuovo testo giusta la mod. adottata dal CF il 4 mar. 1985, in vigore dal 18 set. 1985 ([RU 1985 1088](https://fedlex.data.admin.ch/eli/oc/1985/1088_1088_1088)).
+[^annex6-lvlu1-lvl4-5]: Nuovo testo giusta la mod. adottata dal CF il 4 mar. 1985, in vigore dal 18 set. 1985 ([RU 1985 1088](https://fedlex.data.admin.ch/eli/oc/1985/1088_1088_1088)).
+[^annex6-lvlu1-lvl4-6]: Introdotto dalla mod. adottata dal CF il 4 mar. 1985, in vigore dal 18 set. 1985 ([RU 1985 1088](https://fedlex.data.admin.ch/eli/oc/1985/1088_1088_1088)).
+[^annex6-lvlu1-lvl4-7]: Nuovo testo giusta la mod. adottata dal CF il 4 mar. 1985, in vigore dal 18 set. 1985 ([RU 1985 1088](https://fedlex.data.admin.ch/eli/oc/1985/1088_1088_1088)).
+[^annex6-lvlu1-lvl4-8]: Nuovo testo del secondo per. giusta la mod. adottata dal CF il 13 mar. 1995, in vigore dal 10 giu. 1995 ([RU 1997 738](https://fedlex.data.admin.ch/eli/oc/1997/738_738_738)).
+[^annex6-lvlu1-lvl4-9]: Nuovo testo dell’ultimo per. giusta la mod. adottata dal CF il 4 mar. 1985, in vigore dal 18 set. 1985 ([RU 1985 1088](https://fedlex.data.admin.ch/eli/oc/1985/1088_1088_1088)).
+[^annex6-lvlu1-lvl4-10]: Introdotta dalla mod. adottata dal CF l’11 ago. 1982 ([RU 1983 336](https://fedlex.data.admin.ch/eli/oc/1983/336_336_336)). Nuovo testo giusta la mod. adottata dal CF il 13 mar. 1995, in vigore dal 10 giu. 1995 ([RU 1997 738](https://fedlex.data.admin.ch/eli/oc/1997/738_738_738)).
+[^annex6-lvlu1-lvl4-11]: Originaria lett. c.
+[^annex6-lvlu1-lvl4-12]: Originaria lett. d.
+[^annex6-lvlu1-lvl4-13]: Nuovo testo giusta la mod. adottata dal CF il 13 mar. 1995, in vigore dal 10 giu. 1995 ([RU 1997 738](https://fedlex.data.admin.ch/eli/oc/1997/738_738_738)).
+[^annex6-lvlu1-lvl4-14]: Nuovo testo giusta la mod. adottata dal CF il 13 mar. 1995, in vigore dal 10 giu. 1995 ([RU 1997 738](https://fedlex.data.admin.ch/eli/oc/1997/738_738_738)).
+[^annex6-lvlu1-lvl4-15]: Introdotta dalla mod. adottata dal CF l’11 ago. 1982, in vigore dall’8 mar. 1983 ([RU 1983 336](https://fedlex.data.admin.ch/eli/oc/1983/336_336_336)).
+[^annex6-lvlu1-lvl4-16]: Introdotta dalla mod. adottata dal CF il 4 mar. 1985, in vigore dal 18 set. 1985 ([RU 1985 1088](https://fedlex.data.admin.ch/eli/oc/1985/1088_1088_1088)).
+[^annex6-lvlu1-lvl4-17]: Introdotta dalla mod. adottata dal CF l’11 ago. 1982, in vigore dall’8 mar. 1983 ([RU 1983 336](https://fedlex.data.admin.ch/eli/oc/1983/336_336_336)).
+[^annex6-lvlu1-lvl4-18]: Introdotta dalla mod. adottata dal CF l’11 ago. 1982, in vigore dall’8 mar. 1983 ([RU 1983 336](https://fedlex.data.admin.ch/eli/oc/1983/336_336_336)).
+[^annex6-lvlu1-lvl4-19]: Introdotto dalla mod. adottata dal CF il 4 mar. 1985, in vigore dal 18 set. 1985 ([RU 1985 1088](https://fedlex.data.admin.ch/eli/oc/1985/1088_1088_1088))
+[^annex6-lvlu1-lvl4-20]: Introdotto dalla mod. adottata dal CF il 4 mar. 1985, in vigore dal 18 set. 1985 ([RU 1985 1088](https://fedlex.data.admin.ch/eli/oc/1985/1088_1088_1088)).
+[^annex6-lvlu1-lvl4-21]: Introdotto dalla mod. adottata dal CF l’11 ago. 1982, in vigore dall’8 mar. 1983 ([RU 1983 336](https://fedlex.data.admin.ch/eli/oc/1983/336_336_336)).
+[^annex6-lvlu1-lvl4-22]: Introdotto dalla mod. adottata dal CF l’11 ago. 1982, in vigore dall’8 mar. 1983 ([RU 1983 336](https://fedlex.data.admin.ch/eli/oc/1983/336_336_336)).
+[^annex6-lvlu1-lvl4-23]: Originario par. 7. Introdotto dalla mod. adottata dal CF l’11 ago. 1982 ([RU 1983 336](https://fedlex.data.admin.ch/eli/oc/1983/336_336_336)). Nuovo testo giusta la mod. adottata dal CF il 13 mar. 1995, in vigore dal 10 giu. 1995 ([RU 1997 738](https://fedlex.data.admin.ch/eli/oc/1997/738_738_738)).
+[^annex6-lvlu1-lvl4-24]: Originario 4.4.7-1. Introdotto dalla mod. adottata dal CF l’11 ago. 1982 ([RU 1983 336](https://fedlex.data.admin.ch/eli/oc/1983/336_336_336)). Nuovo testo giusta la mod. adottata dal CF il 13 mar. 1995, in vigore dal 10 giu. 1995 ([RU 1997 738](https://fedlex.data.admin.ch/eli/oc/1997/738_738_738)).
+[^annex6-lvlu1-lvl4-25]: Originario par. 8.
+[^annex6-lvlu1-lvl4-26]: Originario 4.4.8-1.
+[^annex6-lvlu1-lvl4-27]: Nuova locuzione giusta la mod. adottata dal CF il 4 mar. 1985, in vigore dal 18 set. 1985 ([RU 1985 1088](https://fedlex.data.admin.ch/eli/oc/1985/1088_1088_1088)).
+[^annex6-lvlu1-lvl4-28]: Originario par. 10 lett. a). Introdotto dalla mod. adottata dal CF l’11 ago. 1982, in vigore dall’8 mar. 1983 ([RU 1983 336](https://fedlex.data.admin.ch/eli/oc/1983/336_336_336)).
+[^annex6-lvlu1-lvl4-29]: Originario 4.4.10.a)-1. Introdotto dalla mod. adottata dal CF l’11 ago. 1982, in vigore dall’8 mar. 1983 ([RU 1983 336](https://fedlex.data.admin.ch/eli/oc/1983/336_336_336)).
+[^annex6-lvlu1-lvl4-30]: Originario par. 10 lett. c).
+[^annex6-lvlu1-lvl4-31]: Originario 4.4.10.c)-1.
+[^annex6-lvlu1-lvl4-32]: Nuovo testo giusta la mod. adottata dal CF l’11 ago. 1982, in vigore dall’8 mar. 1983 ([RU 1983 336](https://fedlex.data.admin.ch/eli/oc/1983/336_336_336)).
+[^annex6-lvlu1-lvl4-33]: Originario 4.4.10.c)-2. Aggiornato giusta la mod. adottata dal CF il 13 mar. 1995, in vigore dal 10 giu. 1995 ([RU 1997 738](https://fedlex.data.admin.ch/eli/oc/1997/738_738_738)).
 
 ### 5. Allegato 5
 
@@ -907,7 +899,7 @@ Illustrazione n. 1
 
 Il dispositivo illustrato qui appresso è conforme alle prescrizioni dell’articolo 4 paragrafo 6 lettera a) dell’Allegato 4.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/it/xml/image/image19.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/it/xml/image/image19.png)
 
 Illustrazione n. 2
 
@@ -915,9 +907,9 @@ Illustrazione n. 2
 
 Il dispositivo illustrato qui appresso è conforme alle prescrizioni dell’articolo 4 capoverso 6 lettera a) dell’Allegato 4.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/it/xml/image/image20.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/it/xml/image/image20.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/it/xml/image/image21.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/it/xml/image/image21.png)
 
 Illustrazione n. 3
 
@@ -925,25 +917,25 @@ Illustrazione n. 3
 
 Il dispositivo illustrato qui appresso è conforme alle prescrizioni dell’articolo 4 paragrafo 11 a), ultima parte dell’Allegato 4. Esso è inoltre conforme alle prescrizioni dell’articolo 4 paragrafo 6 dell’Allegato 4.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/it/xml/image/image22.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/it/xml/image/image22.png)
 
 Illustrazione n. 4
 
 ## Esempio di cerniera e chiusura doganale per la parte dei contenitori calorifughi
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/it/xml/image/image23.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/it/xml/image/image23.png)
 
 Illustrazione n. 5
 
 ## Contenitori provvisti di copertoni od anelli scorrevoli
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/it/xml/image/image24.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/it/xml/image/image24.png)
 
 Illustrazione n. 6
 
 ## Esempio di anello metallico girevole (modello «D»)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/it/xml/image/image25.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/it/xml/image/image25.png)
 
 Illustrazione n. 7
 
@@ -951,13 +943,13 @@ Illustrazione n. 7
 
 La cerniera qui riprodotta è conforme alle prescrizioni della seconda frase del paragrafo b) della nota 4.2.1.b)-1. La struttura della piastra e del ponticello rende superflua ogni particolare protezione del perno, dato che i becchetti impediscono che la porta provvista di chiusura doganale possa essere aperta al livello del dispositivo d’arresto senza lasciare tracce visibili, anche se il perno non protetto è stato smontato.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/it/xml/image/image26.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/it/xml/image/image26.png)
 
 Illustrazione n. 8
 
 ## Esempio di dispositivo di fissazione introdotto dall’interno della porta isolata
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/it/xml/image/image27.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/it/xml/image/image27.png)
 
 Allegato 7
 
@@ -1015,7 +1007,7 @@ In procinto di firmare la presente Convenzione, che porta la data di oggi, i sot
 
 [^annex7-lvlu1-1]: Nuovo testo giusta la mod. adottata dal CF il 4 mar. 1985, in vigore dal 18 set. 1985 ([RU 1985 1088](https://fedlex.data.admin.ch/eli/oc/1985/1088_1088_1088)).
 
-Campo d’applicazione il 20 febbraio 2019**[^t-4]**
+Campo d’applicazione il 16 ottobre 2024[^t-4]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -1057,13 +1049,14 @@ Campo d’applicazione il 20 febbraio 2019**[^t-4]**
 <tr><td>Trinidad e Tobago</td><td>23 marzo</td><td>1990 A</td><td>23 settembre</td><td>1990</td></tr>
 <tr><td>Tunisia</td><td>11 marzo</td><td>2009 A</td><td>11 settembre</td><td>2009</td></tr>
 <tr><td>Turchia<sup>\*</sup></td><td>13 luglio</td><td>1994</td><td>13 gennaio</td><td>1995</td></tr>
+<tr><td>Turkmenistan</td><td>14 giugno</td><td>2021 A</td><td>14 dicembre</td><td>2021</td></tr>
 <tr><td>Ucraina<sup>\*</sup></td><td>1° settembre</td><td>1976</td><td>1° marzo</td><td>1977</td></tr>
 <tr><td>Ungheria</td><td>12 dicembre</td><td>1973</td><td>6 dicembre</td><td>1975</td></tr>
 <tr><td>Uzbekistan</td><td>27 novembre</td><td>1996 A</td><td>27 maggio</td><td>1997</td></tr>
 <tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni, ad eccezione di quelle della Svizzera, non sono pubblicate nella RU. I testi francesi e inglesi si possono consultare sul sito Internet dell’Organizzazione delle Nazioni Unite: http://untreaty.un.org/ od ottenere presso la Direzione del diritto internazionale pubblico (DDIP), Sezione trattati internazionali, 3003 Berna. <sup>a</sup> Dal 1° lug. 1997, Hong Kong è diventata una Regione amministrativa speciale (RAS) della Repubblica Popolare Cinese. In virtù della dichiarazione cinese del 6 giu. 1997, la Conv. è applicabile anche alla RAS Hong Kong dal 1° lug. 1997.</td></tr>
 </table>
 
-[^t-4]: [RU 1977 647](https://fedlex.data.admin.ch/eli/oc/1977/647_647_647), [1982 2090](https://fedlex.data.admin.ch/eli/oc/1982/2090_2090_2090), [1985 748](https://fedlex.data.admin.ch/eli/oc/1985/748_748_748), [1987 1022](https://fedlex.data.admin.ch/eli/oc/1987/1022_1022_1022), [1990 1528](https://fedlex.data.admin.ch/eli/oc/1990/1528_1528_1528), [2004 3909](https://fedlex.data.admin.ch/eli/oc/2004/549), [2007 1907](https://fedlex.data.admin.ch/eli/oc/2007/274), [2010 3987](https://fedlex.data.admin.ch/eli/oc/2010/568), [2016 425](https://fedlex.data.admin.ch/eli/oc/2016/69), [2019 841](https://fedlex.data.admin.ch/eli/oc/2019/144). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-4]: [RU 1977 647](https://fedlex.data.admin.ch/eli/oc/1977/647_647_647); [1982 2090](https://fedlex.data.admin.ch/eli/oc/1982/2090_2090_2090); [1985 748](https://fedlex.data.admin.ch/eli/oc/1985/748_748_748); [1987 1022](https://fedlex.data.admin.ch/eli/oc/1987/1022_1022_1022); [1990 1528](https://fedlex.data.admin.ch/eli/oc/1990/1528_1528_1528); [2004 3909](https://fedlex.data.admin.ch/eli/oc/2004/549); [2007 1907](https://fedlex.data.admin.ch/eli/oc/2007/274); [2010 3987](https://fedlex.data.admin.ch/eli/oc/2010/568); [2016 425](https://fedlex.data.admin.ch/eli/oc/2016/69); [2019 841](https://fedlex.data.admin.ch/eli/oc/2019/144), [2024 570](https://fedlex.data.admin.ch/eli/oc/2024/570). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).
 
 Riserve e dichiarazioni
 

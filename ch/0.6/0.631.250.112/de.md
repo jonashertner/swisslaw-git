@@ -3,11 +3,11 @@ sr: "0.631.250.112"
 title: Zollabkommen vom 2. Dezember 1972 über Behälter von 1972 (mit Anlagen und Unterzeichnungsprotokoll)
 eli: "https://fedlex.data.admin.ch/eli/cc/1977/647_647_647"
 language: de
-version: 2020-11-01
+version: 2024-10-16
 adopted: 1972-12-02
 in_force: 1977-04-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/de/xml/fedlex-data-admin-ch-eli-cc-1977-647_647_647-20201101-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1977/647_647_647/20201101/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/de/xml/fedlex-data-admin-ch-eli-cc-1977-647_647_647-20241016-de-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1977/647_647_647/20241016/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ AS **1977** 647; BBl **1975** II 813
 
 Abgeschlossen in Genf am 2. Dezember 1972 Von der Bundesversammlung genehmigt am 17. März 1976[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 12. Oktober 1976 In Kraft getreten für die Schweiz am 12. April 1977
 
-(Stand am 1. November 2020)
+(Stand am 16. Oktober 2024)
 
 [^t-1]: [AS 1977 645](https://fedlex.data.admin.ch/eli/oc/1977/645_645_645)
 
@@ -36,7 +36,7 @@ sind wie folgt übereingekommen:
 
 #### Art. 1
 
-Im Sinne dieses Abkommens bedeutet der Begriff
+Im Sinne dieses Abkommens bedeutet der Begriff:
 
 - a) «Eingangsabgaben» die Zölle und alle anderen Abgaben, Steuern, Gebühren und sonstigen Belastungen, die anlässlich oder im Zusammenhang mit der Einfuhr von Waren erhoben werden, ohne die Gebühren und Belastungen, die dem Betrag nach ungefähr auf die Kosten der erbrachten Dienstleistungen beschränkt sind.
 - b) «Vorübergehende Einfuhr» das vorübergehende Einbringen ohne Entrichtung der Eingangsabgaben und frei von Einfuhrverboten und Einfuhrbeschränkungen mit der Verpflichtung zur Wiederausfuhr.
@@ -77,7 +77,9 @@ Um die Erleichterungen nach diesem Abkommen in Anspruch nehmen zu können, müss
 
 #### Art. 5
 
-<sup>1.</sup> Ungeachtet der Wiederausfuhrpflicht nach Artikel 4 Absatz 1 brauchen schwer beschädigte Behälter nicht wieder ausgeführt zu werden, wenn sie mit Zustimmung der Zollbehörden des betreffenden Landes nach dessen Vorschriften
+<sup>1.</sup>
+
+Ungeachtet der Wiederausfuhrpflicht nach Artikel 4 Absatz 1 brauchen schwer beschädigte Behälter nicht wieder ausgeführt zu werden, wenn sie mit Zustimmung der Zollbehörden des betreffenden Landes nach dessen Vorschriften:
 
 - a) den Eingangsabgaben unterworfen werden, die für sie in dem Zeitpunkt und in dem Zustand, in dem sie gestellt werden, zu entrichten sind, oder
 - b) kostenlos den zuständigen Behörden des Landes überlassen werden oder
@@ -113,7 +115,9 @@ Jede Vertragspartei ist, wenn Artikel 6 nicht anwendbar ist, berechtigt, die Lei
 
 <sup>1.</sup> Ersatzteile, die zur Instandsetzung vorübergehend eingeführter Behälter bestimmt sind, werden zur vorübergehenden Einfuhr zugelassen.
 
-<sup>2.</sup> Ersetzte, nicht wiederausgeführte Teile werden mit der Zustimmung der Zollbehörden des betreffenden Landes nach dessen Vorschriften
+<sup>2.</sup>
+
+Ersetzte, nicht wiederausgeführte Teile werden mit der Zustimmung der Zollbehörden des betreffenden Landes nach dessen Vorschriften:
 
 - a) den Eingangsabgaben unterworfen, die für sie in dem Zeitpunkt und in dem Zustand, in dem sie gestellt werden, zu entrichten sind, oder
 - b) kostenlos den zuständigen Behörden des Landes überlassen oder
@@ -271,7 +275,9 @@ Dieses Abkommen tritt ausser Kraft, wenn die Zahl der Vertragsparteien zwölf Mo
 
 <sup>1.</sup> Vorbehalte zu diesem Abkommen sind zulässig, wobei jedoch die Artikel 1‑8, 12‑17, 20, 25 und dieser Artikel sowie die Anlagen ausgenommen sind; die Vorbehalte müssen schriftlich mitgeteilt und, falls dies vor der Hinterlegung der Ratifikations-, Annahme-, Genehmigungs- oder Beitrittsurkunde geschieht, in dieser Urkunde bestätigt werden. Der Generalsekretär der Vereinten Nationen teilt diese Vorbehalte allen in Artikel 18 bezeichneten Staaten mit.
 
-<sup>2.</sup> Jeder nach Absatz 1 mitgeteilte Vorbehalt
+<sup>2.</sup>
+
+Jeder nach Absatz 1 mitgeteilte Vorbehalt:
 
 - a) ändert die Bestimmungen dieses Abkommens, auf die er sich bezieht, für die Vertragspartei, die den Vorbehalt gemacht hat, nach Massgabe des Vorbehalts und
 - b) ändert diese Bestimmungen für die anderen Vertragsparteien in ihren Beziehungen zu der Vertragspartei, die den Vorbehalt gemacht hat, in demselben Masse.
@@ -282,7 +288,7 @@ Dieses Abkommen tritt ausser Kraft, wenn die Zahl der Vertragsparteien zwölf Mo
 
 **Notifikation**
 
-Ausser den Notifikationen und Mitteilungen nach den Artikeln 21, 22 und 26 notifiziert der Generalsekretär der Vereinten Nationen allen in Artikel 18 bezeichneten Staaten
+Ausser den Notifikationen und Mitteilungen nach den Artikeln 21, 22 und 26 notifiziert der Generalsekretär der Vereinten Nationen allen in Artikel 18 bezeichneten Staaten:
 
 - a) die Unterzeichnungen, Ratifikationen, Annahmen, Genehmigungen und Beitritte nach Artikel 18;
 - b) die Zeitpunkte des Inkrafttretens dieses Abkommens nach Artikel 19;
@@ -296,11 +302,9 @@ Ausser den Notifikationen und Mitteilungen nach den Artikeln 21, 22 und 26 notif
 
 Die Urschrift dieses Abkommens, deren chinesischer, englischer, französischer, russischer und spanischer Wortlaut gleichermassen verbindlich ist, wird beim Generalsekretär der Vereinten Nationen hinterlegt, der allen in Artikel 18 bezeichneten Staaten beglaubigte Abschriften übermittelt.
 
-*Zu Urkund dessen* haben die unterzeichneten, hierzu von ihren Regierungen gehörig Bevollmächtigten dieses Abkommen unterschrieben. Geschehen in Genf am zweiten Dezember neunzehnhundertzweiundsiebzig.
+*Zu Urkund dessen* haben die unterzeichneten, hierzu von ihren Regierungen gehörig Bevollmächtigten dieses Abkommen unterschrieben. Geschehen in Genf am zweiten Dezember neunzehnhundertzweiundsiebzig. (Es folgen die Unterschriften)
 
-(Es folgen die Unterschriften)
-
-Geltungsbereich am 20. Februar 2019**[^t-2]**
+Geltungsbereich am 16. Oktober 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -312,7 +316,7 @@ Geltungsbereich am 20. Februar 2019**[^t-2]**
 <tr><td>Bulgarien</td><td>22. Februar</td><td>1977</td><td>22. August</td><td>1977</td></tr>
 <tr><td>Burundi</td><td>4. September</td><td>1998 B</td><td>4. März</td><td>1999</td></tr>
 <tr><td>China</td><td>22. Januar</td><td>1986 B</td><td>22. Juli</td><td>1986</td></tr>
-<tr><td>Hongkong<sup>a</sup></td><td>6. Juni</td><td>1997</td><td>1. Juli</td><td>1997</td></tr>
+<tr><td>Hongkong <sup>a</sup></td><td>6. Juni</td><td>1997</td><td>1. Juli</td><td>1997</td></tr>
 <tr><td>Finnland</td><td>22. Februar</td><td>1983</td><td>22. August</td><td>1983</td></tr>
 <tr><td>Georgien</td><td>2. Juni</td><td>1999 B</td><td>2. Dezember</td><td>1999</td></tr>
 <tr><td>Indonesien</td><td>11. Oktober</td><td>1989 B</td><td>11. April</td><td>1990</td></tr>
@@ -341,19 +345,20 @@ Geltungsbereich am 20. Februar 2019**[^t-2]**
 <tr><td>Tschechische Republik</td><td>2. Juni</td><td>1993 N</td><td>1. Januar</td><td>1993</td></tr>
 <tr><td>Tunesien</td><td>11. März</td><td>2009 B</td><td>11. September</td><td>2009</td></tr>
 <tr><td>Türkei\*</td><td>13. Juli</td><td>1994</td><td>13. Januar</td><td>1995</td></tr>
+<tr><td>Turkmenistan</td><td>14. Juni</td><td>2021 B</td><td>14. Dezember</td><td>2021</td></tr>
 <tr><td>Ukraine\*</td><td>1. September</td><td>1976</td><td>1. März</td><td>1977</td></tr>
 <tr><td>Ungarn</td><td>12. Dezember</td><td>1973</td><td>6. Dezember</td><td>1975</td></tr>
 <tr><td>Usbekistan</td><td>27. November</td><td>1996 A</td><td>27. Mai</td><td>1997</td></tr>
 <tr><td>Vereinigte Staaten</td><td>12. November</td><td>1984</td><td>12. Mai</td><td>1985</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://untreaty.un.org/ eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht, mit Ausnahme jener der Schweiz. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org/](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Bis zum 30. Juni 1997 war das Abkommen auf Basis der Gebietserweiterung des Vereinigten Königreichs auch auf Hongkong anwendbar. Seit dem 1. Juli 1997 bildet Hongkong eine besondere Verwaltungsregion (SAR) der Volksrepublik China. Auf Grund der chinesischen Erklärung vom 20. Juni 1997 ist das Abkommen seit dem 1. Juli 1997 auch in der SAR Hongkong anwendbar.</td></tr>
 </table>
 
-[^t-2]: [AS 1977 647](https://fedlex.data.admin.ch/eli/oc/1977/647_647_647), [1982 2090](https://fedlex.data.admin.ch/eli/oc/1982/2090_2090_2090), [1985 748](https://fedlex.data.admin.ch/eli/oc/1985/748_748_748), [1987 1022](https://fedlex.data.admin.ch/eli/oc/1987/1022_1022_1022), [1990 1528](https://fedlex.data.admin.ch/eli/oc/1990/1528_1528_1528), [2004 3909](https://fedlex.data.admin.ch/eli/oc/2004/549), [2007 1907](https://fedlex.data.admin.ch/eli/oc/2007/274), [2010 3987](https://fedlex.data.admin.ch/eli/oc/2010/568), [2016 425](https://fedlex.data.admin.ch/eli/oc/2016/69), [2019 841](https://fedlex.data.admin.ch/eli/oc/2019/144). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1977 647](https://fedlex.data.admin.ch/eli/oc/1977/647_647_647); [1982 2090](https://fedlex.data.admin.ch/eli/oc/1982/2090_2090_2090); [1985 748](https://fedlex.data.admin.ch/eli/oc/1985/748_748_748); [1987 1022](https://fedlex.data.admin.ch/eli/oc/1987/1022_1022_1022); [1990 1528](https://fedlex.data.admin.ch/eli/oc/1990/1528_1528_1528); [2004 3909](https://fedlex.data.admin.ch/eli/oc/2004/549); [2007 1907](https://fedlex.data.admin.ch/eli/oc/2007/274); [2010 3987](https://fedlex.data.admin.ch/eli/oc/2010/568); [2016 425](https://fedlex.data.admin.ch/eli/oc/2016/69); [2019 841](https://fedlex.data.admin.ch/eli/oc/2019/144); [2024 570](https://fedlex.data.admin.ch/eli/oc/2024/570). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
 
 Vorbehalte und Erklärungen
 
-Schweiz
+**Schweiz**
 
 a) Die Schweiz lässt die vorübergehende Einfuhr von Behältern nach dem in Artikel 6 des Abkommens bestimmten Verfahren zu;
 
@@ -363,7 +368,7 @@ c) Das Abkommen erstreckt sich auf das Fürstentum Liechtenstein, solange dieses
 
 [^t-3]: [SR 0.631.112.514](https://fedlex.data.admin.ch/eli/cc/39/551_565_576)
 
-Anlage 1*[^t-4]*
+Anlage 1[^t-4]
 
 ## Vorschriften über die Kennzeichnung der Behälter
 
@@ -408,7 +413,7 @@ Jede Vertragspartei ist berechtigt, die nach Artikel 9 zulässige Verwendung der
 - a) Der Beförderungsweg bringt den Behälter so unmittelbar, wie es billigerweise erwartet werden kann, an den Ort oder näher an den Ort, an dem der Behälter mit Ausfuhrwaren beladen oder leer wiederausgeführt werden soll;
 - b) der Behälter wird vor seiner Wiederausfuhr nur ein einziges Mal im Binnenverkehr verwendet.
 
-Anlage 4*[^t-5]*
+Anlage 4[^t-5]
 
 ## Vorschriften über die technischen Bedingungen für Behälter, die zur internationalen Beförderung unter Zollverschluss zugelassen werden können
 
@@ -543,43 +548,43 @@ Zeichnung 1
 
 ## Schutzdecke aus mehreren Stücken zusammengenäht
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/de/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/de/xml/image/image1.png)
 
 Zeichnung 2
 
 ## Schutzdecke aus mehreren Stücken zusammengenäht
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/de/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/de/xml/image/image2.png)
 
 Zeichnung 2a
 
 ## Schutzdecke aus mehreren Stücken zusammengenäht
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/de/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/de/xml/image/image3.png)
 
 Zeichnung 3
 
 ## Schutzdecke aus mehreren Stücken zusammengeschweisst
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/de/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/de/xml/image/image4.png)
 
 Zeichnung 4
 
 ## Ausbesserung der Schutzdecke
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/de/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/de/xml/image/image5.png)
 
 Zeichnung 5
 
 ## Muster einer Zwinge
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/de/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/de/xml/image/image6.png)
 
 Zeichnung 6
 
 ## Beispiel eines Schutzdeckenverschlusssystems
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/de/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/de/xml/image/image7.png)
 
 Beschreibung
 
@@ -589,7 +594,7 @@ Zeichnung 7
 
 ## Beispiel einer Schutzdecke, die an einer besonderen Rahmenkonstruktion befestigt ist
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/de/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/de/xml/image/image8.png)
 
 Beschreibung
 
@@ -599,7 +604,7 @@ Zeichnung 8
 
 ## Schutzdeckenverschlusssystem an den Öffnungen zum Beladen und Entladen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/de/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/de/xml/image/image9.png)
 
 Beschreibung
 
@@ -609,29 +614,29 @@ Zeichnung Nr. 9
 
 ## Beispiel einer Konstruktion eines Behälters mit Schiebeplanen
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/de/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/de/xml/image/image10.png)
 
 Zeichnung Nr. 9 (folgend)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/de/xml/image/image11.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/de/xml/image/image11.png)
 
 Zeichnung Nr. 9 (folgend)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/de/xml/image/image12.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/de/xml/image/image12.png)
 
 Zeichnung Nr. 10
 
 ## Beispiel einer Konstruktion eines Behälters mit Schiebeplanendach
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/de/xml/image/image13.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/de/xml/image/image13.png)
 
 Zeichnung Nr. 10 (folgend)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/de/xml/image/image14.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/de/xml/image/image14.png)
 
 Zeichnung Nr. 10 (folgend)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/de/xml/image/image15.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/de/xml/image/image15.png)
 
 Anlage 5
 
@@ -695,13 +700,13 @@ Anlage 5
 
 \17. Die zuständige Behörde prüft die nach ihrem Ermessen nötige Zahl von Behältern und stellt, nachdem sie sich davon überzeugt hat, dass die Behälter den technischen Bedingungen der Anlage 4 entsprechen, eine Zulassungsbescheinigung nach dem in Anhang 3 dieser Anlage abgedruckten Muster III aus, die nur für die Zahl der zugelassenen Behälter gilt. Diese Bescheinigung, in der die laufende Fabrikationsnummer der Behälter, für die sie gilt, anzugeben ist, berechtigt den Antragsteller, an jedem so zugelassenen Behälter die Zulassungstafel nach Absatz 5 anzubringen.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/de/xml/image/image16.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/de/xml/image/image16.png)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/de/xml/image/image17.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/de/xml/image/image17.png)
 
 Anhang 2 der Anlage 5
 
-## Muster II****
+## Muster II
 
 [^declu19-lvlu1-1]
 
@@ -709,7 +714,7 @@ Anhang 2 der Anlage 5
 
 Anhang 3 der Anlage 5
 
-## Muster III****
+## Muster III
 
 [^declu20-lvlu1-1]
 
@@ -747,14 +752,14 @@ Buchstabe c) – Zubehör und Ausrüstung des Behälters
   - b) Kleingerät (z.B. Temperatur- oder Stossregistriergerät), das Veränderungen und Stösse anzeigt oder registriert;
   - c) Trennwände, Paletten, Regale, Gestelle, Haken und ähnliche Vorrichtungen zur Warenunterbringung.
 
-Buchstabe c) – Abnehmbare Karosserien*[^declu21-lvlu1-lvlu1-lvl0-lvl01-1]*
+Buchstabe c) – Abnehmbare Karosserien[^declu21-lvlu1-lvlu1-lvl0-lvl01-1]
 
 - 0\.1.c)-2[^declu21-lvlu1-lvlu1-lvl0-lvl01-2] Unter einer «abnehmbaren Karosserie» ist ein Laderaum ohne Fortbewegungsvorrichtung zu verstehen, der insbesondere für den Transport auf einem Strassenfahrzeug bestimmt ist, wobei das Fahrgestell des Strassenfahrzeugs und der untere Rahmen der Karosserie eigens für diesen Zweck hergerichtet sind. Diese Begriffsumschreibung gilt auch für Wechselbehälter, die als besondere Transportbehältnisse für den kombinierten Verkehr Schiene-Strasse hergerichtet sind.
 
 [^declu21-lvlu1-lvlu1-lvl0-lvl01-1]: Eingefügt durch die vom BR am 30. Aug. 1989 angenommene Änderung, in Kraft seit 1. März 1990 ([AS 1990 468](https://fedlex.data.admin.ch/eli/oc/1990/468_468_468)).
 [^declu21-lvlu1-lvlu1-lvl0-lvl01-2]: Eingefügt durch die vom BR am 30. Aug. 1989 angenommene Änderung, in Kraft seit 1. März 1990 ([AS 1990 468](https://fedlex.data.admin.ch/eli/oc/1990/468_468_468)).
 
-### 1. Anlage 1****
+### 1. Anlage 1
 
 [^declu21-lvlu1-lvl1-1]
 
@@ -807,7 +812,10 @@ Absatz 1 Buchstabe c) – Lüftungsöffnungen
 
 - [tab] 4.2.1.c)-1
   - a) Ihre grösste Weite darf grundsätzlich 400 mm nicht überschreiten.
-  - b)[^declu21-lvlu1-lvl4-lvl42-13] Öffnungen, die einen unmittelbaren Zugang zum Inneren des Behälters gestatten, müssen
+  - b)[^declu21-lvlu1-lvl4-lvl42-13]
+
+    Öffnungen, die einen unmittelbaren Zugang zum Inneren des Behälters gestatten, müssen:
+
     - i) mit Drahtgeflecht oder durchlochten Blechen (grösste Weite der Maschen oder Löcher 3 mm) versperrt und durch ein geschweisstes Metallgitter (grösste Weite der Maschen 10 mm) geschützt oder
     - ii) mit ausreichend starkem, durchlochtem Blech (grösste Weite der Löcher 3 mm; Stärke des Blechs mindestens 1 mm) versperrt sein.
 
@@ -856,25 +864,25 @@ Absatz 6 Buchstabe a) – Behälter mit Schutzdecken und Gleitringen[^declu21-lv
   - b) die Ringe aus einer Doppelschleife bestehen oder mit einem Mittelsteg versehen und in einem Stück ohne Schweissung hergestellt sind;
   - c) die Schutzdecke am Behälter in einer Weise befestigt ist, die genau der in Artikel 1 Buchstabe a) der Anlage 4 festgelegten Bedingung entspricht.
 
-Absatz 6a)i)*[^declu21-lvlu1-lvl4-lvl44-3]* – Behälter mit Schutzdecken mit drehbaren Befestigungsringen
+Absatz 6a)i)[^declu21-lvlu1-lvl4-lvl44-3] – Behälter mit Schutzdecken mit drehbaren Befestigungsringen
 
 - 4\.4.6.a)-3[^declu21-lvlu1-lvl4-lvl44-4] Befestigungsringe aus Metall, die einzeln in einem am Behälter befestigten Metallbügel drehbar sind, sind für die Zwecke dieses Absatzes zulässig (siehe Zeichnung 6 im Anhang), sofern
   - a) jeder Bügel in der Weise am Behälter befestigt ist, dass er nicht entfernt und wieder angebracht werden kann, ohne sichtbare Spuren zu hinterlassen;
   - b) die Druckfeder jedes Bügels vollständig mit einer glockenförmigen Abdeckkappe aus Metall abgedeckt ist.
 
-Absatz 6 Buchstabe b)*[^declu21-lvlu1-lvl4-lvl44-5]* – Bleibend befestigte Schutzdecken
+Absatz 6 Buchstabe b)[^declu21-lvlu1-lvl4-lvl44-5] – Bleibend befestigte Schutzdecken
 
 - 4\.4.6.b)-1[^declu21-lvlu1-lvl4-lvl44-6] Ist ein Rand oder sind mehrere Ränder der Schutzdecke auf Dauer am Behälter selbst befestigt, so muss die Schutzdecke mit einem Band oder Bändern aus Metall oder einem anderen geeigneten Material gehalten werden, wobei das Band durch Verbindungsteile, die den Bedingungen des Buchstabens a) der Erläuterung 4.2.1a)-1 entsprechen, mit dem Behälter selbst verbunden ist.
 
-Absatz 8*[^declu21-lvlu1-lvl4-lvl44-7]* – Zwischenraum zwischen den Ringen und zwischen den Ösen
+Absatz 8[^declu21-lvlu1-lvl4-lvl44-7] – Zwischenraum zwischen den Ringen und zwischen den Ösen
 
 - 4\.4.8-1[^declu21-lvlu1-lvl4-lvl44-8] Ein Zwischenraum von mehr als 200 mm, der jedoch 300 mm nicht übersteigen darf, kann zugelassen werden, wenn die Ringe beidseitig von den Pfosten vertieft an den Seitenwänden angebracht sind und wenn die Ösen oval und gerade gross genug sind, um über die Ringe gestreift werden zu können.
 
-Absatz 9*[^declu21-lvlu1-lvl4-lvl44-9]* – Befestigungsseile mit Textilseele
+Absatz 9[^declu21-lvlu1-lvl4-lvl44-9] – Befestigungsseile mit Textilseele
 
 - 4\.4.9-1[^declu21-lvlu1-lvl4-lvl44-10] Zulässig sind auch die Seile mit einer Textilseele, die von mindestens vier Litzen[^declu21-lvlu1-lvl4-lvl44-11] aus Stahldraht so umwunden ist, dass die Seele vollständig bedeckt ist, sofern der Durchmesser des Seils (ohne einen etwa vorhandenen durchsichtigen Kunststoffüberzug) mindestens 3 mm beträgt.
 
-Absatz 11 Buchstabe a)i)*[^declu21-lvlu1-lvl4-lvl44-12]* – Spannüberfall bei Schutzdecken
+Absatz 11 Buchstabe a)i)[^declu21-lvlu1-lvl4-lvl44-12] – Spannüberfall bei Schutzdecken
 
 - 4\.4.11.a)-1[^declu21-lvlu1-lvl4-lvl44-13] Bei vielen Behältern hat die Schutzdecke an der Aussenseite einen horizontalen Überfall mit Ösen, der sich entlang der Seitenwand des Behälters erstreckt. Dieser Überfall, der als Spannüberfall bezeichnet wird, ermöglicht es, die Schutzdecke mit Seilen oder ähnlichen Vorrichtungen zu spannen.
   -
@@ -885,7 +893,7 @@ Absatz 11 Buchstabe a)i)*[^declu21-lvlu1-lvl4-lvl44-12]* – Spannüberfall bei 
     - b) kleine einzelne Überfälle mit je einer Öse, die an der Aussenseite der Schutzdecke befestigt werden, und zwar in Abständen, die ein zufriedenstellendes Spannen der Schutzdecke gewährleisten.
     - In gewissen Fällen lässt sich die Verwendung von Spannüberfällen bei Schutzdecken auch ganz vermeiden.
 
-Absatz 11 Buchstabe a)iii)*[^declu21-lvlu1-lvl4-lvl44-14]* – Schutzdecken-Riemen
+Absatz 11 Buchstabe a)iii)[^declu21-lvlu1-lvl4-lvl44-14] – Schutzdecken-Riemen
 
 - 4\.4.11.a)2[^declu21-lvlu1-lvl4-lvl44-15]
 
@@ -926,7 +934,7 @@ Zeichnung 1
 
 Die abgebildete Vorrichtung entspricht den Vorschriften des Artikels 4 Absatz 6 Buchstabe a) der Anlage 4.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/de/xml/image/image18.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/de/xml/image/image18.png)
 
 Zeichnung 2
 
@@ -934,7 +942,7 @@ Zeichnung 2
 
 Die abgebildete Vorrichtung entspricht den Vorschriften des Artikels 4 Absatz 6 Buchstabe a) der Anlage 4.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/de/xml/image/image19.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/de/xml/image/image19.png)
 
 Zeichnung 3
 
@@ -942,33 +950,33 @@ Zeichnung 3
 
 Die abgebildete Vorrichtung entspricht den Vorschriften des Artikels 4 Absatz 11.a) letzter Satz der Anlage 4. Sie entspricht auch den Vorschriften des Artikels 4 Absatz 6 der Anlage 4.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/de/xml/image/image20.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/de/xml/image/image20.png)
 
-Zeichnung 4*[^t-6]*
+Zeichnung 4[^t-6]
 
 ## Scharniere und Zollverschlusssysteme für Türen von wärmeisolierten Behältern
 
 [^t-6]: Eingefügt durch die vom BR am 11. Aug. 1982 angenommene Änderung, in Kraft seit 8. März 1983 ([AS 1983 336](https://fedlex.data.admin.ch/eli/oc/1983/336_336_336)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/de/xml/image/image21.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/de/xml/image/image21.png)
 
-Zeichnung 5*[^t-7]*
+Zeichnung 5[^t-7]
 
 ## Behälter mit Schutzdecken und Gleitringen
 
 [^t-7]: Eingefügt durch die vom BR am 11. Aug. 1982 angenommene Änderung, in Kraft seit 8. März 1983 ([AS 1983 336](https://fedlex.data.admin.ch/eli/oc/1983/336_336_336)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/de/xml/image/image22.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/de/xml/image/image22.png)
 
-Zeichnung 6*[^t-8]*
+Zeichnung 6[^t-8]
 
 ## Beispiel eines drehbaren Befestigungsringes (Modell «D»)
 
 [^t-8]: Eingefügt durch die vom BR am 4. März 1985 angenommene Änderung, in Kraft seit 18. Sept. 1985 ([AS 1985 1088](https://fedlex.data.admin.ch/eli/oc/1985/1088_1088_1088)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/de/xml/image/image23.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/de/xml/image/image23.png)
 
-Zeichnung 7*[^t-9]*
+Zeichnung 7[^t-9]
 
 ## Beispiel für ein Scharnier, bei dem es nicht erforderlich ist, den Scharnierbolzen besonders zu sichern
 
@@ -976,15 +984,15 @@ Zeichnung 7*[^t-9]*
 
 Das abgebildete Scharnier entspricht der Vorschrift der Nr. 4.2.1.b)–1 Buchstabe b zweiter Satz. Auf eine Sicherung des Scharnierbolzens kann verzichtet werden, weil Scharnierblatt und Scharnierbock so konstruiert sind, dass das Scharnierblatt mit seinem Hinterschnitt hinter die Backen des Scharnierbockes greift. Der Hinterschnitt verhindert, dass die zollamtlich verschlossene Tür auch bei Entfernung des ungesicherten Scharnierbolzens an der Anschlagvorrichtung geöffnet werden kann, ohne sichtbare Spuren zu hinterlassen.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/de/xml/image/image24.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/de/xml/image/image24.png)
 
-Zeichnung 8*[^t-10]*
+Zeichnung 8[^t-10]
 
 ## Befestigungsvorrichtung, die von der Innenseite der isolierten Tür angebracht wird
 
 [^t-10]: Eingefügt durch die vom BR am 13. März 1995 angenommene Änderung, in Kraft seit 10. Juni 1995 ([AS 1997 738](https://fedlex.data.admin.ch/eli/oc/1997/738_738_738)).
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/de/xml/image/image25.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/de/xml/image/image25.png)
 
 Anlage 7
 
@@ -1045,4 +1053,4 @@ Bei Unterzeichnung dieses Abkommens, das das Datum des heutigen Tages trägt, ge
 
 \4. Hinsichtlich der Verfahren der vorübergehenden Einfuhr von Behältern nach den Artikeln 6‑8 dieses Abkommens erkennen die Vertragsparteien an, dass der Wegfall der Zollpapiere und der Sicherheitsleistung die Verwirklichung eines der Hauptziele dieses Abkommens ihnen ermöglichen wird; in diesem Sinne werden sie sich bemühen.
 
-### (Es folgen die Unterschriften)
+(Es folgen die Unterschriften)

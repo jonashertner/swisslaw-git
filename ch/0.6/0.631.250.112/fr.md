@@ -3,11 +3,11 @@ sr: "0.631.250.112"
 title: Convention douanière du 2 décembre 1972 relative aux conteneurs 1972 (avec annexes et protocole de signature)
 eli: "https://fedlex.data.admin.ch/eli/cc/1977/647_647_647"
 language: fr
-version: 2020-11-01
+version: 2024-10-16
 adopted: 1972-12-02
 in_force: 1977-04-12
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/fr/xml/fedlex-data-admin-ch-eli-cc-1977-647_647_647-20201101-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1977/647_647_647/20201101/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/fr/xml/fedlex-data-admin-ch-eli-cc-1977-647_647_647-20241016-fr-xml-6.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1977/647_647_647/20241016/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -26,7 +26,7 @@ Instrument de ratification déposé par la Suisse le 12 octobre 1976
 
 Entrée en vigueur pour la Suisse le 12 avril 1977
 
-(Etat le 1<sup>er</sup> novembre 2020)
+(État le 16 octobre 2024)
 
 [^t-1]: [RO 1977 645](https://fedlex.data.admin.ch/eli/oc/1977/645_645_645)
 
@@ -88,7 +88,9 @@ Pour bénéficier des facilités prévues par la présente Convention, les conte
 
 #### Art. 5
 
-<sup>1.</sup> Nonobstant l’obligation de réexportation prescrite au par. 1 de l’art. 4, la réexportation des conteneurs gravement endommagés ne sera pas exigée, pourvu qu’ils soient, conformément à la réglementation du pays intéressé et selon ce que les autorités douanières de ce pays permettent: ou
+<sup>1.</sup>
+
+Nonobstant l’obligation de réexportation prescrite au par. 1 de l’art. 4, la réexportation des conteneurs gravement endommagés ne sera pas exigée, pourvu qu’ils soient, conformément à la réglementation du pays intéressé et selon ce que les autorités douanières de ce pays permettent, ou:
 
 - a) soumis aux droits et taxes à l’importation dus à la date et selon l’état dans lequel ils sont présentés, ou
 - b) abandonnés francs de tous frais aux autorités compétentes de ce pays, ou
@@ -124,7 +126,9 @@ Chacune des Parties Contractantes conservera le droit, dans le cas où les dispo
 
 <sup>1.</sup> L’admission temporaire sera accordée aux pièces détachées destinées à la réparation des conteneurs admis temporairement.
 
-<sup>2.</sup> Les pièces remplacées non réexportées seront, conformément à la réglementation du pays intéressé et selon ce que les autorités douanières de ce pays permettent: ou
+<sup>2.</sup>
+
+Les pièces remplacées non réexportées seront, conformément à la réglementation du pays intéressé et selon ce que les autorités douanières de ce pays permettent, ou:
 
 - a) soumises aux droits et taxes à l’importation dus à la date et selon l’état dans lequel les pièces sont présentées, ou
 - b) abandonnées franches de tous frais aux autorités compétentes de ce pays, ou
@@ -311,7 +315,7 @@ L’original de la présente Convention, dont les versions en langues anglaise, 
 
 *En foi de quoi,* les plénipotentiaires soussignés, à ce dûment autorisés par leurs gouvernements, ont signé la présente Convention. Fait à Genève, le deux décembre mil neuf cent soixante-douze. (Suivent les signatures)
 
-Annexe 1*[^t-2]*
+Annexe 1[^t-2]
 
 ## Dispositions relatives au marquage des conteneurs
 
@@ -362,7 +366,7 @@ Pour l’utilisation sur son territoire des conteneurs en trafic interne prévue
 - a) le trajet amènera le conteneur en empruntant un itinéraire raisonnablement direct au lieu ou plus près du lieu où des marchandises à exporter doivent être chargées ou à partir duquel le conteneur doit être réexporté à vide;
 - b) le conteneur ne sera utilisé qu’une seule fois en trafic interne avant sa réexportation.
 
-Annexe 4*[^t-3]*
+Annexe 4[^t-3]
 
 ## Règlement sur les conditions techniques applicables aux conteneurs pouvant être admis au transport international sous scellement douanier
 
@@ -508,7 +512,7 @@ Croquis n° 1
 
 ### Assemblage par couture
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/fr/xml/image/image1.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/fr/xml/image/image1.png)
 
 Croquis n° 2
 
@@ -516,13 +520,13 @@ Croquis n° 2
 
 **Couture d’angle**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/fr/xml/image/image2.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/fr/xml/image/image2.png)
 
 Croquis n° 2a
 
 ## Bâche faite de plusieurs pièces assemblées par couture
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/fr/xml/image/image3.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/fr/xml/image/image3.png)
 
 Croquis n° 3
 
@@ -530,25 +534,25 @@ Croquis n° 3
 
 **Assemblage par soudure**
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/fr/xml/image/image4.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/fr/xml/image/image4.png)
 
 Croquis n° 4
 
 ## Racommodage de la bâche
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/fr/xml/image/image5.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/fr/xml/image/image5.png)
 
 Croquis n° 5
 
 ## Spéciment d'embout
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/fr/xml/image/image6.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/fr/xml/image/image6.png)
 
 Croquis n°6
 
 ## Exemple de système de verrouillage de bâche
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/fr/xml/image/image7.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/fr/xml/image/image7.png)
 
 *Description*
 
@@ -558,7 +562,7 @@ Croquis n°7
 
 ## Exemple de bâche fixée à une armature spécialement conçue
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/fr/xml/image/image8.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/fr/xml/image/image8.png)
 
 *Description*
 
@@ -568,7 +572,7 @@ Croquis n°8
 
 ## Bâche à ouverture de chargement et de déchargement
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/fr/xml/image/image9.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/fr/xml/image/image9.png)
 
 Description
 
@@ -578,7 +582,7 @@ Croquis n° 9
 
 ## Exemple de construction d’un conteneur à bâches coulissantes
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/fr/xml/image/image10.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/fr/xml/image/image10.png)
 
 Croquis n° 9 (suite)
 
@@ -596,27 +600,27 @@ Croquis n° 9.5
 Pour fixer la bâche coulissante de l’autre côté (habituellement à l’avant du véhicule), on peut utiliser les systèmes a) ou b) suivants.
 
 - a) Plaque métallique
-- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/fr/xml/image/image14.png)b) Œillet ovale étroit et système antilevage pour le tube de tension
+- ![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/fr/xml/image/image14.png)b) Œillet ovale étroit et système antilevage pour le tube de tension
 
 Croquis n° 10
 
 ## Exemple de construction d’un conteneur à bâche de toit coulissante
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/fr/xml/image/image15.png)Ce croquis illustre un exemple de conteneur ainsi que certains points importants décrits à l’art. 6 du présent Règlement.
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/fr/xml/image/image15.png)Ce croquis illustre un exemple de conteneur ainsi que certains points importants décrits à l’art. 6 du présent Règlement.
 
 Croquis n° 10.1
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/fr/xml/image/image16.png)Deux câbles d’acier précontraint, insérés dans l’ourlet des bâches latérales, sont fixés de part et d’autre du conteneur. Chacun d’eux est fixé à l’avant (voir croquis 10.2) et à l’arrière du conteneur (voir croquis 10.3). La force de traction et le disque de connexion sur chaque chariot de coulissage empêchent de soulever le câble et l’ourlet au-dessus de la longrine supérieure.
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/fr/xml/image/image16.png)Deux câbles d’acier précontraint, insérés dans l’ourlet des bâches latérales, sont fixés de part et d’autre du conteneur. Chacun d’eux est fixé à l’avant (voir croquis 10.2) et à l’arrière du conteneur (voir croquis 10.3). La force de traction et le disque de connexion sur chaque chariot de coulissage empêchent de soulever le câble et l’ourlet au-dessus de la longrine supérieure.
 
 Croquis n° 10.2
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/fr/xml/image/image17.png)La bâche de toit coulissante doit recouvrir la partie pleine du toit à l’avant du conteneur de telle manière qu’elle ne puisse être tirée par-dessus l’arête supérieure de la longrine supérieure.
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/fr/xml/image/image17.png)La bâche de toit coulissante doit recouvrir la partie pleine du toit à l’avant du conteneur de telle manière qu’elle ne puisse être tirée par-dessus l’arête supérieure de la longrine supérieure.
 
 Croquis n° 10.3
 
 À l’arrière, un dispositif spécial, par exemple une plaque déflectrice, est monté sur le toit et empêche d’accéder au conteneur sans laisser de traces visibles une fois les portes fermées et scellées.
 
-Annexe 5*[^t-4]*
+Annexe 5[^t-4]
 
 ## Procédures relatives à l’agrément des conteneurs satisfaisant aux conditions techniques prévues à l’annexe 4
 
@@ -682,17 +686,17 @@ Appendice 1 de l’annexe 5
 
 ## Modèle n° I - Plaque d'agrément (version anglaise)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/fr/xml/image/image19.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/fr/xml/image/image19.png)
 
 Appendice 1 de l’annexe 5
 
 ## Modèle n° I - Plaque d'agrément (version française)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/fr/xml/image/image20.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/fr/xml/image/image20.png)
 
 Appendice 2 de l’annexe 5
 
-## Modèle n° II****
+## Modèle n° II
 
 [^annex2-lvlu1-1]
 
@@ -700,13 +704,13 @@ Appendice 2 de l’annexe 5
 
 Appendice 3 de l’annexe 5
 
-## Modèle n° III****
+## Modèle n° III
 
 [^annex3-lvlu1-1]
 
 [^annex3-lvlu1-1]: Ce certificat, publié au [RO 1977 647](https://fedlex.data.admin.ch/eli/oc/1977/647_647_647), n’est pas reproduit dans le présent recueil.
 
-Annexe 6*[^t-5]*
+Annexe 6[^t-5]
 
 ## Notes explicatives
 
@@ -886,7 +890,7 @@ Croquis n° 1
 
 Le dispositif reproduit ci-dessous répond aux prescriptions de l’alinéa a) du paragraphe 6 de l’article 4 de l’Annexe 4
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/fr/xml/image/image21.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/fr/xml/image/image21.png)
 
 Croquis n° 2
 
@@ -894,7 +898,7 @@ Croquis n° 2
 
 Le dispositif reproduit ci-dessous répond aux prescriptions de l’alinéa a) du paragraphe 6 de l’article 4 de l’Annexe 4.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/fr/xml/image/image22.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/fr/xml/image/image22.png)
 
 Croquis n° 3
 
@@ -902,27 +906,27 @@ Croquis n° 3
 
 Le dispositif reproduit ci-dessous répond aux prescriptions de la dernière partie du par. 11.a) de l’art. 4 de l’Annexe 4. Il répond aussi aux prescriptions du par. 6 de l’art. 4 de l’Annexe 4.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/fr/xml/image/image23.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/fr/xml/image/image23.png)
 
 Croquis n° 4
 
 ## Exemple de charnière de dispositifs de scellement douanier pour les portes de container calorifugés
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/fr/xml/image/image24.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/fr/xml/image/image24.png)
 
 Croquis n° 5
 
 ## Conteneurs bâchés à anneaux coulissants
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/fr/xml/image/image25.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/fr/xml/image/image25.png)
 
 Croquis n° 6
 
 ## Exemple de pontet-tourniquet (modèle «D»)
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/fr/xml/image/image26.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/fr/xml/image/image26.png)
 
-Croquis n° 7*[^t-6]*
+Croquis n° 7[^t-6]
 
 ## Exemple de pontet-tourniquet (modèle «D»)
 
@@ -930,15 +934,15 @@ Croquis n° 7*[^t-6]*
 
 La charnière présentée ci-après est conforme aux prescriptions énoncées dans la deuxième phrase du paragraphe b) de la note 4.2.1.b)-1. La conception de la lame et du pontet rend superflue toute protection particulière de la tige, étant donné que les becquets de la lame remontent jusque derrière les extrémités du pontet. Ces becquets empêchent ainsi qua la porte scellée par la douane puisse être ouverte au niveau du dispositif d’attache sans laisser de traces visibles, même si la tige non protégée a été enlevée.
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/fr/xml/image/image27.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/fr/xml/image/image27.png)
 
 Croquis n° 8
 
 ## Exemple de dispositif de fixation introduit de l’intérieur de la porte isolée
 
-![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20201101/fr/xml/image/image28.png)
+![](https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1977/647_647_647/20241016/fr/xml/image/image28.png)
 
-Annexe 7*[^t-7]*
+Annexe 7[^t-7]
 
 ## Composition et règlement intérieur du Comité de gestion
 
@@ -994,7 +998,7 @@ Au moment de procéder à la signature de la présente Convention portant la dat
 
 (Suivent les signatures)
 
-Champ d’application le 20 février 2019**[^t-8]**
+Champ d’application le 16 octobre 2024[^t-8]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -1037,12 +1041,13 @@ Champ d’application le 20 février 2019**[^t-8]**
 <tr><td>Suisse<sup>\*</sup></td><td>12 octobre</td><td>1976</td><td>12 avril</td><td>1977</td></tr>
 <tr><td>Trinité-et-Tobago</td><td>23 mars</td><td>1990 A</td><td>23 septembre</td><td>1990</td></tr>
 <tr><td>Tunisie</td><td>11 mars</td><td>2009 A</td><td>11 septembre</td><td>2009</td></tr>
+<tr><td>Turkménistan</td><td>14 juin</td><td>2021 A</td><td>14 décembre</td><td>2021</td></tr>
 <tr><td>Turquie<sup>\*</sup></td><td>13 juillet</td><td>1994</td><td>13 janvier</td><td>1995</td></tr>
-<tr><td>Ukraine<sup>\*</sup></td><td>1<sup>er</sup> septembre</td><td>1976</td><td>1<sup>er</sup> mars</td><td>1977</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet des Nations Unies: http://untreaty.un.org/ ou obtenus à la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Jusqu’au 30 juin 1997, la Convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 20 juin 1997, la Convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997.</td></tr>
+<tr><td>Ukraine\*</td><td>1er septembre</td><td>1976</td><td>1er mars</td><td>1977</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations, à l’exception de celles de la Suisse, ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [http://treaties.un.org](http://treaties.un.org) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Jusqu’au 30 juin 1997, la Convention était applicable à Hong Kong sur la base d’une déclaration d’extension territoriale du Royaume-Uni. À partir du 1<sup>er</sup> juillet 1997, Hong Kong est devenue une Région administrative spéciale (RAS) de la République populaire de Chine. En vertu de la déclaration chinoise du 20 juin 1997, la Convention est également applicable à la RAS Hong Kong à partir du 1<sup>er</sup> juillet 1997.</td></tr>
 </table>
 
-[^t-8]: [RO 1977 647](https://fedlex.data.admin.ch/eli/oc/1977/647_647_647), [1982 2090](https://fedlex.data.admin.ch/eli/oc/1982/2090_2090_2090), [1985 748](https://fedlex.data.admin.ch/eli/oc/1985/748_748_748), [1987 1022](https://fedlex.data.admin.ch/eli/oc/1987/1022_1022_1022), [1990 1528](https://fedlex.data.admin.ch/eli/oc/1990/1528_1528_1528), [2004 3909](https://fedlex.data.admin.ch/eli/oc/2004/549), [2007 1907](https://fedlex.data.admin.ch/eli/oc/2007/274), [2010 3987](https://fedlex.data.admin.ch/eli/oc/2010/568), [2016 425](https://fedlex.data.admin.ch/eli/oc/2016/69), [2019 841](https://fedlex.data.admin.ch/eli/oc/2019/144). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-8]: [RO 1977 647](https://fedlex.data.admin.ch/eli/oc/1977/647_647_647); [1982 2090](https://fedlex.data.admin.ch/eli/oc/1982/2090_2090_2090); [1985 748](https://fedlex.data.admin.ch/eli/oc/1985/748_748_748); [1987 1022](https://fedlex.data.admin.ch/eli/oc/1987/1022_1022_1022); [1990 1528](https://fedlex.data.admin.ch/eli/oc/1990/1528_1528_1528); [2004 3909](https://fedlex.data.admin.ch/eli/oc/2004/549); [2007 1907](https://fedlex.data.admin.ch/eli/oc/2007/274); [2010 3987](https://fedlex.data.admin.ch/eli/oc/2010/568); [2016 425](https://fedlex.data.admin.ch/eli/oc/2016/69); [2019 841](https://fedlex.data.admin.ch/eli/oc/2019/144); [2024 570](https://fedlex.data.admin.ch/eli/oc/2024/570). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).
 
 Réserves et déclarations
 
