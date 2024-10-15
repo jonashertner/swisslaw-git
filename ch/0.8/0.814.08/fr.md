@@ -3,11 +3,11 @@ sr: "0.814.08"
 title: Protocole du 21 mai 2003 sur les registres des rejets et transferts de polluants (avec annexes)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/603"
 language: fr
-version: 2020-07-06
+version: 2024-10-16
 adopted: 2003-05-21
 in_force: 2009-10-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/603/20200706/fr/xml/fedlex-data-admin-ch-eli-cc-2009-603-20200706-fr-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/603/20200706/fr"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/603/20241016/fr/xml/fedlex-data-admin-ch-eli-cc-2009-603-20241016-fr-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/603/20241016/fr"
 ---
 
 > Reproduction non officielle de la version consolidée (Fedlex). Seule la publication au Recueil officiel fait foi (art. 15 LPubl, RS 170.512).
@@ -24,7 +24,7 @@ Instrument de ratification déposé par la Suisse le 27 avril 2007
 
 Entré en vigueur pour la Suisse le 8 octobre 2009
 
-(Etat le 6 juillet 2020)
+(État le 16 octobre 2024)
 
 Les Parties au présent Protocole,
 
@@ -807,7 +807,7 @@ Annexe IV
 
 \18. Tout différend qui peut survenir entre les parties au sujet de l’interprétation ou de l’exécution de la sentence peut être soumis par l’une ou l’autre des parties au tribunal arbitral qui l’a prononcée ou, si ce dernier ne peut en être saisi, à un autre tribunal constitué à cet effet de la même façon que le premier.
 
-Champ d’application le 6 juillet 2020**[^t-1]**
+Champ d’application le 16 octobre 2024[^t-1]
 
 <table>
 <tr><th>États parties</th><th>Ratification Adhésion (A) Déclaration de succession (S)</th><th></th><th>Entrée en vigueur</th><th></th></tr>
@@ -826,6 +826,7 @@ Champ d’application le 6 juillet 2020**[^t-1]**
 <tr><td>Hongrie</td><td>13 juillet</td><td>2009</td><td>11 octobre</td><td>2009</td></tr>
 <tr><td>Irlande</td><td>20 juin</td><td>2012</td><td>18 septembre</td><td>2012</td></tr>
 <tr><td>Israël\*</td><td>14 janvier</td><td>2013 A</td><td>14 avril</td><td>2013</td></tr>
+<tr><td>Italie</td><td>23 novembre</td><td>2020</td><td>21 février</td><td>2021</td></tr>
 <tr><td>Kazakhstan</td><td>24 janvier</td><td>2020 A</td><td>23 avril</td><td>2020</td></tr>
 <tr><td>Lettonie</td><td>24 avril</td><td>2008</td><td>8 octobre</td><td>2009</td></tr>
 <tr><td>Lituanie</td><td>5 mars</td><td>2009</td><td>8 octobre</td><td>2009</td></tr>
@@ -848,7 +849,7 @@ Champ d’application le 6 juillet 2020**[^t-1]**
 <tr><td>Suisse</td><td>27 avril</td><td>2007</td><td>8 octobre</td><td>2009</td></tr>
 <tr><td>Ukraine</td><td>2 mai</td><td>2016</td><td>31 juillet</td><td>2016</td></tr>
 <tr><td>Union européenne\*</td><td>21 février</td><td>2006</td><td>8 octobre</td><td>2009</td></tr>
-<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l'adresse du site Internet des Nations Unies: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le Protocole ne s’applique pas aux îles Féroé et au Groenland.</td></tr>
+<tr><td colspan="5">\* Réserves et déclarations. Les réserves et déclarations ne sont pas publiées au RO. Les textes en français et en anglais peuvent être consultés à l’adresse du site Internet de l’Organisation des Nations Unies (ONU): [http://treaties.un.org](http://treaties.un.org) ou obtenus auprès de la Direction du droit international public (DDIP), Section des traités internationaux, 3003 Berne. <sup>a</sup> Le Protocole ne s’applique pas aux îles Féroé et au Groenland.</td></tr>
 </table>
 
-[^t-1]: [RO 2009 5133](https://fedlex.data.admin.ch/eli/oc/2009/603), [2012 1665](https://fedlex.data.admin.ch/eli/oc/2012/239), [2016 1659](https://fedlex.data.admin.ch/eli/oc/2016/302), [2019 851](https://fedlex.data.admin.ch/eli/oc/2019/148), [2020 3429](https://fedlex.data.admin.ch/eli/oc/2020/585). Une version du champ d’application mise à jour est publiée sur le site web du DFAE (www.dfae.admin.ch/traites).
+[^t-1]: [RO 2009 5133](https://fedlex.data.admin.ch/eli/oc/2009/603); [2012 1665](https://fedlex.data.admin.ch/eli/oc/2012/239); [2016 1659](https://fedlex.data.admin.ch/eli/oc/2016/302); [2019 851](https://fedlex.data.admin.ch/eli/oc/2019/148); [2020 3429](https://fedlex.data.admin.ch/eli/oc/2020/585); [2024 571](https://fedlex.data.admin.ch/eli/oc/2024/571). Une version du champ d’application mise à jour est publiée sur la plateforme de publication du droit fédéral «Fedlex» à l’adresse suivante: [www.fedlex.admin.ch/fr/treaty](https://www.fedlex.admin.ch/fr/treaty).

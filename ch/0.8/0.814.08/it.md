@@ -3,11 +3,11 @@ sr: "0.814.08"
 title: Protocollo del 21 maggio 2003 sui registri delle emissioni e dei trasferimenti di sostanze inquinanti (con all.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/603"
 language: it
-version: 2020-07-06
+version: 2024-10-16
 adopted: 2003-05-21
 in_force: 2009-10-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/603/20200706/it/xml/fedlex-data-admin-ch-eli-cc-2009-603-20200706-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/603/20200706/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/603/20241016/it/xml/fedlex-data-admin-ch-eli-cc-2009-603-20241016-it-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/603/20241016/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
@@ -24,7 +24,7 @@ Strumento di ratifica depositato dalla Svizzera il 27 aprile 2007
 
 Entrato in vigore per la Svizzera l’8 ottobre 2009
 
-(Stato 6 luglio 2020)
+(Stato 16 ottobre 2024)
 
 Le Parti del presente Protocollo,
 
@@ -807,7 +807,7 @@ Allegato IV
 
 \18. Qualsiasi controversia tra le parti in merito all’interpretazione o all’esecuzione della decisione finale può essere sottoposta da una di esse al tribunale arbitrale che l’ha emessa, o se questo non può essere investito della questione, ad un altro tribunale costituito a tal fine nello stesso modo del primo.
 
-Campo d’applicazione il 6 luglio 2020**[^t-1]**
+Campo d’applicazione il 16 ottobre 2024, complemento[^t-1]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A) Dichiarazione di successione (S)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -825,6 +825,7 @@ Campo d’applicazione il 6 luglio 2020**[^t-1]**
 <tr><td>Germania</td><td>28 agosto</td><td>2007</td><td>8 ottobre</td><td>2009</td></tr>
 <tr><td>Irlanda</td><td>20 giugno</td><td>2012</td><td>18 settembre</td><td>2012</td></tr>
 <tr><td>Israele\*</td><td>14 gennaio</td><td>2013 A</td><td>14 aprile</td><td>2013</td></tr>
+<tr><td>Italia</td><td>23 novembre</td><td>2020</td><td>21 febbraio</td><td>2021</td></tr>
 <tr><td>Kazakistan</td><td>24 gennaio</td><td>2020 A</td><td>23 aprile</td><td>2020</td></tr>
 <tr><td>Lettonia</td><td>24 aprile</td><td>2008</td><td>8 ottobre</td><td>2009</td></tr>
 <tr><td>Lituania</td><td>5 marzo</td><td>2009</td><td>8 ottobre</td><td>2009</td></tr>
@@ -848,8 +849,8 @@ Campo d’applicazione il 6 luglio 2020**[^t-1]**
 <tr><td>Ucraina</td><td>2 maggio</td><td>2016</td><td>31 luglio</td><td>2016</td></tr>
 <tr><td>Ungheria</td><td>13 luglio</td><td>2009</td><td>11 ottobre</td><td>2009</td></tr>
 <tr><td>Unione europea\*</td><td>21 febbraio</td><td>2006</td><td>8 ottobre</td><td>2009</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Il testo, francese ed inglese, può essere consultato sul sito Internet dell’Organizzazione delle Nazioni Unite: [https://treaties.un.org](https://treaties.un.org/)&gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies, oppure ottenuto presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 <tr><td colspan="5"><sup>a</sup> Il Prot. non si applica alle Isole Faeröer e alla Groenlandia.</td></tr>
 </table>
 
-[^t-1]: [RU 2009 5133](https://fedlex.data.admin.ch/eli/oc/2009/603), [2012 1665](https://fedlex.data.admin.ch/eli/oc/2012/239), [2016 1659](https://fedlex.data.admin.ch/eli/oc/2016/302), [2019 851](https://fedlex.data.admin.ch/eli/oc/2019/148), [2020 3429](https://fedlex.data.admin.ch/eli/oc/2020/585). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-1]: Completa quelli in [RU 2009 5133](https://fedlex.data.admin.ch/eli/oc/2009/603); [2012 1665](https://fedlex.data.admin.ch/eli/oc/2012/239); [2016 1659](https://fedlex.data.admin.ch/eli/oc/2016/302); [2019 851](https://fedlex.data.admin.ch/eli/oc/2019/148); [2020 3429](https://fedlex.data.admin.ch/eli/oc/2020/585); [2024 571](https://fedlex.data.admin.ch/eli/oc/2024/571). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

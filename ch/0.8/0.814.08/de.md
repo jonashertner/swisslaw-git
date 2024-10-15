@@ -3,11 +3,11 @@ sr: "0.814.08"
 title: Protokoll vom 21. Mai 2003 über Schadstofffreisetzungs- und -transferregister (mit Anhängen)
 eli: "https://fedlex.data.admin.ch/eli/cc/2009/603"
 language: de
-version: 2020-07-06
+version: 2024-10-16
 adopted: 2003-05-21
 in_force: 2009-10-08
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/603/20200706/de/xml/fedlex-data-admin-ch-eli-cc-2009-603-20200706-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2009/603/20200706/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2009/603/20241016/de/xml/fedlex-data-admin-ch-eli-cc-2009-603-20241016-de-xml-1.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2009/603/20241016/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -16,7 +16,7 @@ url: "https://www.fedlex.admin.ch/eli/cc/2009/603/20200706/de"
 
 AS **2009** 5133
 
-Übersetzung*[^t-1]*
+Übersetzung[^t-1]
 
 Abgeschlossen in Kiew am 21. Mai 2003
 
@@ -24,7 +24,7 @@ Schweizerische Ratifikationsurkunde hinterlegt am 27. April 2007
 
 In Kraft getreten für die Schweiz am 8. Oktober 2009
 
-(Stand am 6. Juli 2020)
+(Stand am 16. Oktober 2024)
 
 [^t-1]: Zwischen Deutschland, Österreich und der Schweiz abgestimmte Übersetzung.
 
@@ -86,7 +86,7 @@ sind wie folgt übereingekommen:
 
 **Ziel**
 
-Ziel dieses Protokolls ist die Verbesserung des öffentlichen Zugangs zu Informationen durch die Einrichtung von zusammenhängenden und integrierten landesweiten Schadstofffreisetzungs‑ und ‑transferregistern (PRTR – *Pollutant Release and Tran**s**fer Registers*) nach Massgabe dieses Protokolls, wodurch die Beteiligung der Öffentlichkeit an umweltbezogenen Entscheidungsverfahren erleichtert und ein Beitrag zur Vermeidung und Verminderung der Umweltbelastung geleistet werden könnte.
+Ziel dieses Protokolls ist die Verbesserung des öffentlichen Zugangs zu Informationen durch die Einrichtung von zusammenhängenden und integrierten landesweiten Schadstofffreisetzungs‑ und ‑transferregistern (PRTR – *Pollutant Release and Transfer Registers*) nach Massgabe dieses Protokolls, wodurch die Beteiligung der Öffentlichkeit an umweltbezogenen Entscheidungsverfahren erleichtert und ein Beitrag zur Vermeidung und Verminderung der Umweltbelastung geleistet werden könnte.
 
 #### Art. 2
 
@@ -114,7 +114,9 @@ Im Sinne dieses Protokolls:
 
 <sup>10.</sup> sind die Begriffe «national», «innerstaatlich» und «landesweit» im Zusammenhang mit den Verpflichtungen von Organisationen der regionalen Wirtschaftsintegration aus diesem Protokoll dahin gehend auszulegen, dass sie für die betreffende Region gelten, sofern nichts anderes angegeben ist;
 
-<sup>11.</sup> bedeutet «Abfall» Stoffe oder Gegenstände, die
+<sup>11.</sup>
+
+bedeutet «Abfall» Stoffe oder Gegenstände, die:
 
 - a) beseitigt oder verwertet werden,
 - b) zur Beseitigung oder Verwertung bestimmt sind, oder
@@ -809,7 +811,7 @@ Anhang IV
 
 \18. Streitigkeiten zwischen den Parteien über die Auslegung oder Vollstreckung des Schiedsspruchs können von jeder Partei dem Schiedsgericht, das den Schiedsspruch gefällt hat, oder, falls dieses Gericht nicht befasst werden kann, einem anderen Gericht, das zu diesem Zweck auf die gleiche Weise gebildet wird wie das erste, unterbreitet werden.
 
-Geltungsbereich am 6. Juli 2020**[^t-2]**
+Geltungsbereich am 16. Oktober 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B) Nachfolgeerklärung (N)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -824,6 +826,7 @@ Geltungsbereich am 6. Juli 2020**[^t-2]**
 <tr><td>Frankreich\*</td><td>10. Juli</td><td>2009</td><td>8. Oktober</td><td>2009</td></tr>
 <tr><td>Irland</td><td>20. Juni</td><td>2012</td><td>18. September</td><td>2012</td></tr>
 <tr><td>Israel\*</td><td>14. Januar</td><td>2013 B</td><td>14. April</td><td>2013</td></tr>
+<tr><td>Italien</td><td>23. November</td><td>2020</td><td>21. Februar</td><td>2021</td></tr>
 <tr><td>Kasachstan</td><td>24. Januar</td><td>2020 B</td><td>23. April</td><td>2020</td></tr>
 <tr><td>Kroatien</td><td>14. Juli</td><td>2008</td><td>8. Oktober</td><td>2009</td></tr>
 <tr><td>Lettland</td><td>24. April</td><td>2008</td><td>8. Oktober</td><td>2009</td></tr>
@@ -850,7 +853,7 @@ Geltungsbereich am 6. Juli 2020**[^t-2]**
 <tr><td>Ungarn</td><td>13. Juli</td><td>2009</td><td>11. Oktober</td><td>2009</td></tr>
 <tr><td>Vereinigtes Königreich</td><td>31. Juli</td><td>2009</td><td>29. Oktober</td><td>2009</td></tr>
 <tr><td>Zypern</td><td>5. November</td><td>2012</td><td>3. Februar</td><td>2012</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: http://treaties.un.org/ &gt; Enregistrement et Publication &gt; Recueil des Traités des Nations Unies eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Protokoll gilt nicht für die Färöer und Grönland.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Die französischen und englischen Texte können auf der Internetseite der Vereinten Nationen: [http://treaties.un.org/](http://treaties.un.org/) eingesehen oder bei der Direktion für Völkerrecht, Sektion Staatsverträge, 3003 Bern, bezogen werden. <sup>a</sup> Das Protokoll gilt nicht für die Färöer und Grönland.</td></tr>
 </table>
 
-[^t-2]: [AS 2009 5133](https://fedlex.data.admin.ch/eli/oc/2009/603), [2012 1665](https://fedlex.data.admin.ch/eli/oc/2012/239), [2016 1659](https://fedlex.data.admin.ch/eli/oc/2016/302), [2019 851](https://fedlex.data.admin.ch/eli/oc/2019/148), [2020 3429](https://fedlex.data.admin.ch/eli/oc/2020/585). Eine aktualisierte Fassung des Geltungsbereiches findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 2009 5133](https://fedlex.data.admin.ch/eli/oc/2009/603); [2012 1665](https://fedlex.data.admin.ch/eli/oc/2012/239); [2016 1659](https://fedlex.data.admin.ch/eli/oc/2016/302); [2019 851](https://fedlex.data.admin.ch/eli/oc/2019/148); [2020 3429](https://fedlex.data.admin.ch/eli/oc/2020/585); [2024 571](https://fedlex.data.admin.ch/eli/oc/2024/571). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
