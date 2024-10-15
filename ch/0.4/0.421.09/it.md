@@ -3,30 +3,26 @@ sr: "0.421.09"
 title: Accordo del 13 febbraio 1969 istitutivo della Conferenza europea di biologia molecolare (con All.)
 eli: "https://fedlex.data.admin.ch/eli/cc/1970/562_563_563"
 language: it
-version: 2019-03-11
+version: 2024-10-16
 adopted: 1969-02-13
 in_force: 1970-04-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/562_563_563/20190311/it/xml/fedlex-data-admin-ch-eli-cc-1970-562_563_563-20190311-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1970/562_563_563/20190311/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/562_563_563/20241016/it/xml/fedlex-data-admin-ch-eli-cc-1970-562_563_563-20241016-it-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1970/562_563_563/20241016/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
 # Accordo istitutivo della Conferenza europea di biologia molecolare
 
+RU **1970** 563, FF **1969** I 737
+
 Traduzione
 
-Conchiuso a Ginevra il 13 febbraio 1969
+Conchiuso a Ginevra il 13 febbraio 1969 Approvato dall’Assemblea federale il 2 ottobre 1969[^t-1] Istrumento di ratificazione depositato dalla Svizzera il 24 novembre 1969 Entrato in vigore per la Svizzera il 2 aprile 1970
 
-Approvato dall’Assemblea federale il 2 ottobre 1969[^t-1]
+(Stato 16 ottobre 2024)
 
-Istrumento di ratificazione depositato dalla Svizzera il 24 novembre 1969
-
-Entrato in vigore per la Svizzera il 2 aprile 1970
-
-(Stato 11 marzo 2019)
-
-[^t-1]: RU **1970** 563, FF **1969** I 737 RU **1970** 562
+[^t-1]: [RU 1970 562](https://fedlex.data.admin.ch/eli/oc/1970/561_562_562)
 
 Gli Stati partecipi del presente Accordo,
 
@@ -251,7 +247,7 @@ Il presente piano di ripartizione è stato accluso esclusivamente per l’applic
 <tr><td></td><td>100,00</td></tr>
 </table>
 
-Campo d’applicazione l’11 marzo 2019**[^t-2]**
+Campo d’applicazione il 16 ottobre 2024[^t-2]
 
 <table>
 <tr><th>Stati partecipanti</th><th>Ratifica Adesione (A)</th><th></th><th>Entrata in vigore</th><th></th></tr>
@@ -269,6 +265,7 @@ Campo d’applicazione l’11 marzo 2019**[^t-2]**
 <tr><td>Islanda</td><td>20 febbraio</td><td>1978 A</td><td>20 febbraio</td><td>1978</td></tr>
 <tr><td>Israele</td><td>1° settembre</td><td>1970 A</td><td>1° settembre</td><td>1970</td></tr>
 <tr><td>Italia<sup>\*</sup></td><td>20 giugno</td><td>1972</td><td>20 giugno</td><td>1972</td></tr>
+<tr><td>Lettonia</td><td>16 novembre</td><td>2023 A</td><td>16 novembre</td><td>2023</td></tr>
 <tr><td>Lituania</td><td>13 maggio</td><td>2016 A</td><td>13 maggio</td><td>2016</td></tr>
 <tr><td>Lussemburgo</td><td>25 ottobre</td><td>2007 A</td><td>25 ottobre</td><td>2007</td></tr>
 <tr><td>Malta</td><td>15 marzo</td><td>2016 A</td><td>15 marzo</td><td>2016</td></tr>
@@ -289,7 +286,7 @@ Campo d’applicazione l’11 marzo 2019**[^t-2]**
 <tr><td>Svizzera</td><td>24 novembre</td><td>1969</td><td>2 aprile</td><td>1970</td></tr>
 <tr><td>Turchia</td><td>15 luglio</td><td>1993 A</td><td>15 luglio</td><td>1993</td></tr>
 <tr><td>Ungheria</td><td>6 maggio</td><td>1992 A</td><td>6 maggio</td><td>1992</td></tr>
-<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Queste possono essere consultate sul sito www.dfae.admin.ch &gt; Politica estera &gt; Diritto internazionale pubblico &gt; Trattati internazionali &gt; Depositario &gt; Altre convenzioni, oppure ottenute presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
+<tr><td colspan="5">\* Riserve e dichiarazioni. Le riserve e dichiarazioni non sono pubblicate nella RU. Queste possono essere consultate sul sito [https://www.dfae.admin.ch](https://www.dfae.admin.ch/eda/fr/home.html)&gt; Politica estera &gt; Diritto internazionale pubblico &gt; Trattati internazionali &gt; Depositario &gt; Altre convenzioni, oppure ottenute presso la Direzione del diritto internazionale pubblico (DDIP), Sezione Trattati internazionali, 3003 Berna.</td></tr>
 </table>
 
-[^t-2]: [RU 1970 563](https://fedlex.data.admin.ch/eli/oc/1970/562_563_563), [1972 1960](https://fedlex.data.admin.ch/eli/oc/1972/1756_1779_1960), [1978 1489](https://fedlex.data.admin.ch/eli/oc/1978/1489_1489_1489), [1989 177](https://fedlex.data.admin.ch/eli/oc/1989/177_177_177), [2004 4137](https://fedlex.data.admin.ch/eli/oc/2004/612), [2009 3695](https://fedlex.data.admin.ch/eli/oc/2009/461), [2014 3201](https://fedlex.data.admin.ch/eli/oc/2014/546)e [2019 1035](https://fedlex.data.admin.ch/eli/oc/2019/188). Una versione aggiornata del campo d’applicazione è pubblicata sul sito Internet del DFAE (www.dfae.admin.ch/trattati).
+[^t-2]: [RU 1970 563](https://fedlex.data.admin.ch/eli/oc/1970/562_563_563); [1972 1960](https://fedlex.data.admin.ch/eli/oc/1972/1756_1779_1960); [1978 1489](https://fedlex.data.admin.ch/eli/oc/1978/1489_1489_1489); [1989 177](https://fedlex.data.admin.ch/eli/oc/1989/177_177_177); [2004 4137](https://fedlex.data.admin.ch/eli/oc/2004/612); [2009 3695](https://fedlex.data.admin.ch/eli/oc/2009/461); [2014 3201](https://fedlex.data.admin.ch/eli/oc/2014/546); [2019 1035](https://fedlex.data.admin.ch/eli/oc/2019/188); [2024 569](https://fedlex.data.admin.ch/eli/oc/2024/569). Una versione aggiornata del campo di applicazione è pubblicata sulla piattaforma di pubblicazione del diritto federale «Fedlex» all’indirizzo seguente: [www.fedlex.admin.ch/it/treaty](https://www.fedlex.admin.ch/it/treaty).

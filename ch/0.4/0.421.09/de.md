@@ -3,11 +3,11 @@ sr: "0.421.09"
 title: Übereinkommen vom 13. Februar 1969 zur Gründung einer Europäischen Konferenz für Molekularbiologie (mit Anlage)
 eli: "https://fedlex.data.admin.ch/eli/cc/1970/562_563_563"
 language: de
-version: 2019-03-11
+version: 2024-10-16
 adopted: 1969-02-13
 in_force: 1970-04-02
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/562_563_563/20190311/de/xml/fedlex-data-admin-ch-eli-cc-1970-562_563_563-20190311-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/1970/562_563_563/20190311/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/1970/562_563_563/20241016/de/xml/fedlex-data-admin-ch-eli-cc-1970-562_563_563-20241016-de-xml-8.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/1970/562_563_563/20241016/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
@@ -20,7 +20,7 @@ Originaltext
 
 Abgeschlossen in Genf am 13. Februar 1969 Von der Bundesversammlung genehmigt am 2. Oktober 1969[^t-1] Schweizerische Ratifikationsurkunde hinterlegt am 24. November 1969 In Kraft getreten für die Schweiz am 2. April 1970
 
-(Stand am 11. März 2019)
+(Stand am 16. Oktober 2024)
 
 [^t-1]: [AS 1970 561](https://fedlex.data.admin.ch/eli/oc/1970/561_562_562)
 
@@ -48,11 +48,11 @@ Hiermit wird eine Europäische Konferenz für Molekularbiologie gegründet (im f
 
 <sup>1.</sup> Die Konferenz sorgt für die Zusammenarbeit europäischer Staaten auf dem Gebiete der Grundlagenforschung in der Molekularbiologie und in anderen hiermit eng zusammenhängenden Forschungsbereichen.
 
-<sup>2.</sup> Das Allgemeine Programm, das unter der Verantwortung der Konferenz durchzuführen ist, umfasst in erster Linie
-
-Die Durchführung dieses Allgemeinen Programms überträgt die Konferenz der EMBO.
+<sup>2.</sup> Die Durchführung dieses Allgemeinen Programms überträgt die Konferenz der EMBO.
 
 Das Allgemeine Programm sowie die Modalitäten seiner Durchführung können durch Konferenzbeschlüsse geändert werden, die der Einstimmigkeit der anwesenden und abstimmenden Mitgliedstaaten bedürfen.
+
+Das Allgemeine Programm, das unter der Verantwortung der Konferenz durchzuführen ist, umfasst in erster Linie:
 
 - a) die Vergabe von Ausbildungs‑, Lehr‑ und Forschungsstipendien;
 - b) die Unterstützung von Universitäten und sonstigen nationalen Hochschul‑ und Forschungseinrichtungen, welche Gastprofessoren aufzunehmen wünschen;
@@ -78,7 +78,9 @@ Das Allgemeine Programm sowie die Modalitäten seiner Durchführung können durc
 
 <sup>2.</sup> Jeder Mitgliedstaat wird durch höchstens zwei Delegierte vertreten, die von Beratern begleitet sein können. Die Konferenz wählt einen Präsidenten und zwei Vizepräsidenten, deren Amtszeit bis zur nächsten ordentlichen Tagung währt.
 
-<sup>3.</sup> Die Konferenz
+<sup>3.</sup>
+
+Die Konferenz:
 
 - a) fasst die erforderlichen Beschlüsse, um die in Artikel II bezeichneten Ziele zu erreichen;
 - b) beschliesst über ihren Tagungsort;
@@ -91,7 +93,7 @@ Das Allgemeine Programm sowie die Modalitäten seiner Durchführung können durc
 - i) nimmt in bezug auf jedes Sondervorhaben die diesem eigenen Finanzbestimmungen zur Kenntnis, nachdem es von den an dem Sondervorhaben teilnehmenden Mitgliedstaaten genehmigt worden ist;
 - j) beschliesst mit Zweidrittelmehrheit der anwesenden und abstimmenden Mitgliedstaaten eine Finanzordnung;
 - k) genehmigt und veröffentlicht ihre geprüften Jahresabrechnungen;
-- 1) genehmigt den vom Generalsekretär vorgelegten Jahresbericht.
+- l) genehmigt den vom Generalsekretär vorgelegten Jahresbericht.
 - 4\. a) (i) Jeder Mitgliedstaat hat in der Konferenz eine Stimme.
   - (ii) Ein Mitgliedstaat ist jedoch in bezug auf die Durchführung eines Sondervorhabens nur dann stimmberechtigt, wenn er sich bereit erklärt hat, an diesem Vorhaben teilzunehmen.
   - (iii) Staaten, die dieses Übereinkommen unterzeichnet, aber noch nicht ratifiziert, angenommen oder genehmigt haben, können sich nach seinem Inkrafttreten noch zwei Jahre lang ohne Stimmrecht in der Konferenz vertreten lassen und an ihren Arbeiten teilnehmen.
@@ -106,7 +108,9 @@ Das Allgemeine Programm sowie die Modalitäten seiner Durchführung können durc
 
 <sup>1.</sup> Die Konferenz ernennt mit Zweidrittelmehrheit aller Mitgliedstaaten einen Generalsekretär für eine bestimmte Amtszeit. Er bleibt bis zur Ernennung seines Nachfolgers im Amt. Der Generalsekretär unterstützt den Präsidenten der Konferenz und gewährleistet die Stetigkeit der Geschäftsführung zwischen den Tagungen. Er kann alle Massnahmen treffen, die für die Führung der laufenden Geschäfte der Konferenz erforderlich sind.
 
-<sup>2.</sup> Der Generalsekretär unterbreitet der Konferenz
+<sup>2.</sup>
+
+Der Generalsekretär unterbreitet der Konferenz:
 
 - a) den Entwurf des in Artikel IV Absatz 3f) erwähnten Rahmenplans;
 - b) das in Artikel IV Absatz 3g) und h) vorgesehene ordentliche Jahresbudget und den Voranschlag;
@@ -241,7 +245,7 @@ Dieser Schlüssel dient lediglich der Anwendung des Artikels XI Absatz 4 a). Er 
 <tr><td></td><td>100,00</td></tr>
 </table>
 
-Geltungsbereich am 11. März 2019**[^t-2]**
+Geltungsbereich am 16. Oktober 2024[^t-2]
 
 <table>
 <tr><th>Vertragsstaaten</th><th>Ratifikation Beitritt (B)</th><th></th><th>Inkrafttreten</th><th></th></tr>
@@ -257,6 +261,7 @@ Geltungsbereich am 11. März 2019**[^t-2]**
 <tr><td>Israel</td><td>1. September</td><td>1970 B</td><td>1. September</td><td>1970</td></tr>
 <tr><td>Italien\*</td><td>20. Juni</td><td>1972</td><td>20. Juni</td><td>1972</td></tr>
 <tr><td>Kroatien</td><td>2. März</td><td>1998 B</td><td>2. März</td><td>1998</td></tr>
+<tr><td>Lettland</td><td>16. November</td><td>2023 B</td><td>16. November</td><td>2023</td></tr>
 <tr><td>Litauen</td><td>13. Mai</td><td>2016 B</td><td>13. Mai</td><td>2016</td></tr>
 <tr><td>Luxemburg</td><td>25. Oktober</td><td>2007 B</td><td>25. Oktober</td><td>2007</td></tr>
 <tr><td>Malta</td><td>15. März</td><td>2016 B</td><td>15. März</td><td>2016</td></tr>
@@ -279,7 +284,7 @@ Geltungsbereich am 11. März 2019**[^t-2]**
 <tr><td>Türkei</td><td>15. Juli</td><td>1993 B</td><td>15. Juli</td><td>1993</td></tr>
 <tr><td>Ungarn</td><td>6. Mai</td><td>1992 B</td><td>6. Mai</td><td>1992</td></tr>
 <tr><td>Vereinigtes Königreich\*</td><td>2. April</td><td>1970</td><td>2. April</td><td>1970</td></tr>
-<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Diese können auf der Internetseite www.eda.admin.ch &gt; Aussenpolitik &gt; Völkerrecht &gt; Internationale Verträge &gt; Depositar &gt; Andere Abkommen eingesehen, oder bei der Direktion für Völkerrecht (DV), Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
+<tr><td colspan="5">\* Vorbehalte und Erklärungen. Die Vorbehalte und Erklärungen werden in der AS nicht veröffentlicht. Diese können auf der Internetseite: www.eda.admin.ch &gt; Aussenpolitik &gt; Völkerrecht &gt; Internationale Verträge &gt; Depositar &gt; Andere Abkommen eingesehen, oder bei der Direktion für Völkerrecht (DV), Sektion Staatsverträge, 3003 Bern, bezogen werden.</td></tr>
 </table>
 
-[^t-2]: [AS 1970 562](https://fedlex.data.admin.ch/eli/oc/1970/562_563_563), [1972 1756](https://fedlex.data.admin.ch/eli/oc/1972/1756_1779_1960), [1978 1489](https://fedlex.data.admin.ch/eli/oc/1978/1489_1489_1489), [1989 177](https://fedlex.data.admin.ch/eli/oc/1989/177_177_177), [2004 4137](https://fedlex.data.admin.ch/eli/oc/2004/612), [2009 3695](https://fedlex.data.admin.ch/eli/oc/2009/461), [2014 3201](https://fedlex.data.admin.ch/eli/oc/2014/546), [2019 1035](https://fedlex.data.admin.ch/eli/oc/2019/188). Eine aktualisierte Fassung des Geltungsbereichs findet sich auf der Internetseite des EDA (www.eda.admin.ch/vertraege).
+[^t-2]: [AS 1970 562](https://fedlex.data.admin.ch/eli/oc/1970/562_563_563); [1972 1756](https://fedlex.data.admin.ch/eli/oc/1972/1756_1779_1960); [1978 1489](https://fedlex.data.admin.ch/eli/oc/1978/1489_1489_1489); [1989 177](https://fedlex.data.admin.ch/eli/oc/1989/177_177_177); [2004 4137](https://fedlex.data.admin.ch/eli/oc/2004/612); [2009 3695](https://fedlex.data.admin.ch/eli/oc/2009/461); [2014 3201](https://fedlex.data.admin.ch/eli/oc/2014/546); [2019 1035](https://fedlex.data.admin.ch/eli/oc/2019/188); [2024 569](https://fedlex.data.admin.ch/eli/oc/2024/569). Eine aktualisierte Fassung des Geltungsbereichs ist auf der Publikationsplattform des Bundesrechts «Fedlex» unter folgender Adresse veröffentlicht: [www.fedlex.admin.ch/de/treaty](https://www.fedlex.admin.ch/de/treaty).
