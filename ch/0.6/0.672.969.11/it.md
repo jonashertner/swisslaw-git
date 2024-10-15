@@ -3,33 +3,37 @@ sr: "0.672.969.11"
 title: Convenzione del 12 giugno 1996 tra il Consiglio federale svizzero e il Governo della Repubblica di Slovenia per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio e per prevenire l’evasione e l’elusione fiscali (con prot. add.)
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/358"
 language: it
-version: 2013-11-27
+version: 2024-10-16
 adopted: 1996-06-12
 in_force: 1997-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/358/20131127/it/xml/fedlex-data-admin-ch-eli-cc-2000-358-20131127-it-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/358/20131127/it"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/358/20241016/it/xml/fedlex-data-admin-ch-eli-cc-2000-358-20241016-it-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/358/20241016/it"
 ---
 
 > Riproduzione non ufficiale della versione consolidata (Fedlex). Fa stato la pubblicazione nella Raccolta ufficiale (art. 15 LPubb, RS 170.512).
 
-# Convenzione tra il Consiglio federale svizzero e il Governo della Repubblica di Slovenia per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio
+# Convenzione tra il Consiglio federale svizzero e il Governo della Repubblica di Slovenia per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio e per prevenire l’evasione e l’elusione fiscali
 
-RU **2000** 2250; FF **1996** IV 1185
+RU **2000** 2250; FF **1996** IV 1185[^t-1]
 
-Traduzione *[^t-1]*
+Traduzione
 
 Conclusa il 12 giugno 1996 Approvata dall’Assemblea federale il 19 giugno 1997 [^t-2] Ratificata con strumento depositato dalla Svizzera il 15 settembre 1997 Entrata in vigore il 1° dicembre 1997
 
-(Stato 14 ottobre 2013)
+(Stato 16 ottobre 2024)
 
-[^t-1]: Il testo originale tedesco è pubblicato sotto lo stesso numero nell’ediz. ted. della presente Raccolta.
+[^t-1]: Nuovo testo giusta l’art. I del Prot. del 30 mag. 2023 approvato dall’AF il 14 giu. 2024, in vigore dal 16 ott. 2024 ([RU 2024 603](https://fedlex.data.admin.ch/eli/oc/2024/603), [602](https://fedlex.data.admin.ch/eli/oc/2024/602); [FF 2023 2712](https://fedlex.data.admin.ch/eli/fga/2023/2712)).
 [^t-2]: [RU 2000 2249](https://fedlex.data.admin.ch/eli/oc/2000/357)
 
 Il Consiglio federale svizzero e il Governo della Repubblica di Slovenia,
 
-desiderosi di concludere una convenzione per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio,
+desiderosi di sviluppare ulteriormente le loro relazioni economiche e di migliorare la cooperazione in materia fiscale;
 
-hanno convenuto quanto segue:
+nell’intento di concludere una convenzione per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio, senza creare opportunità di non imposizione o di ridotta imposizione attraverso l’evasione o l’elusione fiscale (incluse le strategie di abuso dei trattati fiscali [«treaty-shopping»] finalizzate a ottenere i benefici previsti dalla presente Convenzione a beneficio indiretto di residenti di Giurisdizioni terze),
+
+hanno convenuto quanto segue:[^ingress-1]
+
+[^ingress-1]: Nuovo testo giusta l’art. I del Prot. del 30 mag. 2023 approvato dall’AF il 14 giu. 2024, in vigore dal 16 ott. 2024 ([RU 2024 603](https://fedlex.data.admin.ch/eli/oc/2024/603), [602](https://fedlex.data.admin.ch/eli/oc/2024/602); [FF 2023 2712](https://fedlex.data.admin.ch/eli/fga/2023/2712)).
 
 #### Art. 1
 
@@ -56,13 +60,12 @@ Le imposte attuali cui si applica la Convenzione sono in particolare:
   - (i) l’imposta sugli utili delle persone giuridiche,
   - (ii) l’imposta sul reddito delle persone fisiche, compreso il reddito da salari e stipendi, sul reddito da attività agricola, sul reddito industriale e commerciale, sui guadagni di capitale e sul reddito da patrimonio mobiliare e immobiliare;
   - (iii) l’imposta sul patrimonio
+  - [tab] (qui di seguito indicate quali «imposta slovena»);
 
-- (qui di seguito indicate quali «imposta slovena»);
 - b) per quanto concerne la Svizzera: le imposte federali, cantonali e comunali
   - (i) sul reddito (reddito complessivo, reddito del lavoro, reddito del patrimonio, utili industriali e commerciali, guadagni di capitale e altri redditi); e
   - (ii) sul patrimonio (patrimonio complessivo, patrimonio mobiliare ed immobiliare, patrimonio industriale e commerciale, capitale e riserve ed altri elementi del patrimonio)
-
-- (qui di seguito indicate quali «imposta svizzera»).
+  - [tab] (qui di seguito indicate quali «imposta svizzera»).
 
 <sup>4.</sup> La Convenzione si applicherà anche alle imposte di natura identica o analoga che verranno istituite dopo la firma della Convenzione in aggiunta o in sostituzione delle imposte attuali. Le autorità competenti degli Stati contraenti si comunicheranno le modifiche importanti apportate alle loro rispettive legislazioni fiscali.
 
@@ -362,8 +365,7 @@ Fatte salve le disposizioni del paragrafo 2 dell’articolo 19, le pensioni e le
   - (i) abbia la cittadinanza di detto Stato, o
   - (ii) non sia divenuto residente di detto Stato al solo scopo di rendervi i servizi.
 
-<sup>2.</sup> a) Le pensioni corrisposte da uno Stato contraente, da una sua suddivisione politica o da un suo ente locale o mediante prelevamento da fondi da essi costituiti, ad una persona fisica in corrispettivo di servizi resi a tale Stato, suddivisione o ente locale, sono imponibili soltanto in questo Stato.
-
+- 2\. a) Le pensioni corrisposte da uno Stato contraente, da una sua suddivisione politica o da un suo ente locale o mediante prelevamento da fondi da essi costituiti, ad una persona fisica in corrispettivo di servizi resi a tale Stato, suddivisione o ente locale, sono imponibili soltanto in questo Stato.
 - b) Tuttavia, tali pensioni sono imponibili soltanto nell’altro Stato contraente qualora la persona fisica sia un residente di questo Stato e ne abbia la cittadinanza.
 
 <sup>3.</sup> Le disposizioni degli articoli 15, 16 e 18 si applicano a rimunerazioni e a pensioni pagate in corrispettivo di servizi resi nell’ambito di un’attività industriale o commerciale esercitata da uno Stato contraente, da una sua suddivisione politica o da un suo ente locale.
@@ -424,8 +426,10 @@ Per quanto concerne la Svizzera, la doppia imposizione sarà evitata nel modo se
 
 - La Svizzera determina il tipo di sgravio applicabile e regola la procedura conformemente alle prescrizioni svizzere sull’applicazione delle convenzioni internazionali stipulate dalla Confederazione Svizzera per evitare le doppie imposizioni.
 - c) Qualora una società residente di Svizzera riceva dividendi da una società residente di Slovenia, fruisce, per quanto concerne la riscossione dell’imposta svizzera afferente a detti dividendi, dei medesimi vantaggi di cui beneficerebbe se la società che paga i dividendi fosse un residente di Svizzera.
+- d)[^23-2] Le disposizioni della lettera a del paragrafo 2 non si applicano ai redditi o al patrimonio di un residente di Svizzera se la Slovenia applica le disposizioni della presente Convenzione per esentare questi redditi o questo patrimonio dall’imposta oppure applica a questi redditi le disposizioni di cui al paragrafo 2 dell’articolo 10, al paragrafo 2 dell’articolo 11 o al paragrafo 2 dell’articolo 12.
 
 [^23-1]: Nuovo testo giusta l’art. VIII del Prot. del 7 set. 2012 approvato dall’AF il 21 giu. 2013, in vigore dal 14 ott. 2013 ([RU 2013 3589](https://fedlex.data.admin.ch/eli/oc/2013/676)[3587](https://fedlex.data.admin.ch/eli/oc/2013/675); [FF 2012 8407](https://fedlex.data.admin.ch/eli/fga/2012/1780)).
+[^23-2]: Introdotta dall’art. II del Prot. del 30 mag. 2023 approvato dall’AF il 14 giu. 2024, in vigore dal 16 ott. 2024 ([RU 2024 603](https://fedlex.data.admin.ch/eli/oc/2024/603), [602](https://fedlex.data.admin.ch/eli/oc/2024/602); [FF 2023 2712](https://fedlex.data.admin.ch/eli/fga/2023/2712)).
 
 #### Art. 24
 
@@ -503,6 +507,14 @@ Ai fini della presente Convenzione, nonostante le disposizioni dell’articolo 4
 
 <sup>3.</sup> La presente Convenzione non si applica alle organizzazioni internazionali, ai loro organi o ai loro funzionari, né ai membri di una missione diplomatica, di una rappresentanza consolare o di una delegazione permanente di uno Stato terzo, che soggiornano sul territorio di uno Stato contraente e non sono trattati in materia d’imposta sul reddito o sul patrimonio come residenti dell’uno o dell’altro Stato contraente.
 
+#### Art. 27A
+
+**Diritto ai benefici**[^27A-1]
+
+Nonostante le altre disposizioni della presente Convenzione, un beneficio ai sensi della presente Convenzione non è concesso in relazione a un elemento di reddito o di patrimonio se è ragionevole concludere, tenuto conto di tutti i fatti e di tutte le circostanze pertinenti, che l’ottenimento di tale beneficio era uno degli scopi principali di qualsiasi accordo, strumento o transazione che ha portato direttamente o indirettamente a tale beneficio, a meno che venga stabilito che la concessione di tale beneficio in dette circostanze sarebbe conforme all’oggetto e allo scopo delle pertinenti disposizioni della presente Convenzione.»
+
+[^27A-1]: Introdotta dall’art. III cpv. 1 del Prot. del 30 mag. 2023 approvato dall’AF il 14 giu. 2024, in vigore dal 16 ott. 2024 ([RU 2024 603](https://fedlex.data.admin.ch/eli/oc/2024/603), [602](https://fedlex.data.admin.ch/eli/oc/2024/602); [FF 2023 2712](https://fedlex.data.admin.ch/eli/fga/2023/2712)).
+
 #### Art. 28
 
 **Entrata in vigore**
@@ -521,9 +533,9 @@ Ai fini della presente Convenzione, nonostante le disposizioni dell’articolo 4
 
 La presente Convenzione rimarrà in vigore sino alla denuncia da parte di uno degli Stati contraenti. Ciascuno Stato contraente può denunciare la Convenzione per via diplomatica con un preavviso minimo di sei mesi prima della fine di ogni anno civile. In tal caso la Convenzione cesserà di essere applicabile alle imposte sul reddito e sul patrimonio per gli anni fiscali che iniziano il, o dopo il, 1° gennaio dell’anno civile successivo a quello in cui è stata notificata la denuncia.
 
-*In fede di che,* i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato la presente Convenzione. Fatto a Lubiana, il 12 giugno 1996, in due esemplari in lingua tedesca, slovena e inglese, ciascun testo facente egualmente fede. In caso di divergenza d’interpretazione farà stato il testo inglese. Per il Consiglio federale svizzero: Per il Governo della Repubblica di Slovenia: Jakob Kellenberger Milojka Kolar
+*In fede di che,* i sottoscritti, debitamente autorizzati a tale scopo, hanno firmato la presente Convenzione. Fatto a Lubiana, il 12 giugno 1996, in due esemplari in lingua tedesca, slovena e inglese, ciascun testo facente egualmente fede. In caso di divergenza d’interpretazione farà stato il testo inglese. Per il Consiglio federale svizzero: Jakob Kellenberger Per il Governo della Repubblica di Slovenia: Milojka Kolar
 
-Protocollo addizionale**[^t-3]**
+Protocollo addizionale[^t-3]
 
 Il Consiglio federale svizzero e il Governo della Repubblica di Slovenia,
 
@@ -564,19 +576,15 @@ Con riferimento al paragrafo 1 dell’articolo 4, resta inteso che l’espressio
 
 Resta inteso che è possibile procedere a un aggiustamento di cui al paragrafo 3 dell’articolo 7 e al paragrafo 2 dell’articolo 9 se quest’ultimo risulta giustificato.
 
-\4. Ad art. 10, 11 e 12
-
-Gli articoli 10, 11 e 12 non si applicano ai dividendi, interessi o canoni pagati conformemente a un sistema di fruizione abusiva di benefici oppure facenti parte di un simile sistema. L’espressione «sistema di fruizione abusiva dei benefici» designa un’operazione o una sequenza di operazioni strutturata in modo che un residente di uno Stato contraente, avente diritto ai vantaggi della presente Convenzione, percepisca redditi provenienti dall’altro Stato contraente e li trasmetta integralmente o quasi integralmente (in qualsiasi momento o forma), direttamente o indirettamente a una persona non residente di uno Stato contraente, la quale, se ottenesse tali redditi direttamente in provenienza dall’altro Stato contraente, non avrebbe diritto, in base a una convenzione di doppia imposizione tra il suo Stato di residenza e lo Stato da cui provengono i redditi oppure in altro modo, a vantaggi in relazione a tali redditi equivalenti o più favorevoli rispetto ai vantaggi di cui gode un residente di uno Stato contraente della presente Convenzione; inoltre, lo scopo principale di un tale sistema scelto consiste nel beneficiare dei vantaggi della presente Convenzione.
-
-\5. Ad art. 18 e 19
+\4. Ad art. 18 e 19
 
 Resta inteso che il termine «pensioni» di cui agli articoli 18 e 19 non comprende soltanto pagamenti ricorrenti, ma anche prestazioni in capitale.
 
-\6. Ad art. 18 e 24
+\5. Ad art. 18 e 24
 
 Con riferimento agli articoli 18 e 24 resta inteso che i contributi pagati da o per conto di una persona che esercita un’attività in uno Stato contraente a un’istituzione di previdenza costituita e riconosciuta ai fini fiscali nell’altro Stato contraente, sono trattati, per la determinazione dell’imposta dovuta da tale persona fisica in questo primo Stato menzionato e per la determinazione degli utili aziendali ivi imponibili, secondo le stesse condizioni e limitazioni dei contributi pagati a un’istituzione di previdenza riconosciuta ai fini fiscali nel primo Stato contraente, se la persona fisica non era residente di questo Stato immediatamente prima di iniziarvi la sua attività e già allora era affiliata a questa istituzione di previdenza.
 
-\7. Ad art. 26
+\6. Ad art. 26
 
 - a) Resta inteso che lo Stato richiedente domanda uno scambio di informazioni solo dopo aver esaurito le fonti abituali di informazioni previste nella sua procedura fiscale interna.
 - b)
@@ -593,7 +601,7 @@ Con riferimento agli articoli 18 e 24 resta inteso che i contributi pagati da o 
 - d) Resta inteso che, sulla base dell’articolo 26 della Convenzione, gli Stati contraenti non sono tenuti a procedere a uno scambio di informazioni spontaneo o automatico.
 - e) Resta inteso che, nel caso di uno scambio di informazioni, si applicano nello Stato richiesto le norme di procedura amministrativa relative ai diritti del contribuente. Resta inoltre inteso che questa disposizione serve a garantire al contribuente una procedura regolare e non mira a ostacolare o ritardare indebitamente gli scambi effettivi di informazioni.
 
-**Art. XIII par. 2 del Prot. di mod. del 7 settembre 2012**[^t-8]
+**Art. XIII para. 2 del Prot. di mod. del 7 settembre 2012**[^t-8]
 
 \2. Il Protocollo è integrante della Convenzione ed entra in vigore alla data di ricezione dell’ultima di queste notificazioni. Le disposizioni del Protocollo si applicheranno:
 
@@ -608,9 +616,17 @@ Con riferimento agli articoli 18 e 24 resta inteso che i contributi pagati da o 
 
 - d) con riferimento all’articolo 26, lo scambio di informazioni si applica a domande presentate dopo l’entrata in vigore del Protocollo, relativamente a informazioni che si riferiscono a un periodo che inizia il 1° gennaio dell’anno civile successivo a quello dell’entrata in vigore della Convenzione, o dopo tale data.
 
-[^t-3]: Introdotto dall’art. XII del Prot. del 7 set. 2012 approvato dall’AF il 21 giu. 2013, in vigore dal 14 ott. 2013 ([RU 2013 3589](https://fedlex.data.admin.ch/eli/oc/2013/676)[3587](https://fedlex.data.admin.ch/eli/oc/2013/675); [FF 2012 8407](https://fedlex.data.admin.ch/eli/fga/2012/1780)).
+**Art. IV para. 2 del Prot. di mod. del 30 maggio 2023**[^t-9]
+
+\2. Il presente Protocollo entrerà in vigore alla data di ricezione dell’ultima di queste notifiche. Le sue disposizioni si applicano:
+
+- a) con riferimento alle imposte prelevate alla fonte sui redditi pagati o accreditati il 1° gennaio dell’anno civile successivo all’entrata in vigore del presente Protocollo, o dopo tale data;
+- b) con riferimento alle altre imposte, per gli anni fiscali che iniziano il 1° gennaio dell’anno civile successivo all’entrata in vigore del presente Protocollo, o dopo tale data.
+
+[^t-3]: Introdotto dall’art. XII del Prot. del 7 set. 2012 approvato dall’AF il 21 giu. 2013, in vigore dal 14 ott. 2013 ([RU 2013 3589](https://fedlex.data.admin.ch/eli/oc/2013/676)[3587](https://fedlex.data.admin.ch/eli/oc/2013/675); [FF 2012 8407](https://fedlex.data.admin.ch/eli/fga/2012/1780)). Aggiornato dall’art III cpv. 2 e 3 del Protocollo del 30 mag. 2023, approvato dall’assemblea federale del 14 giu. 2024, in vigore dal 16 ott. 2024 ([RU 2024 603](https://fedlex.data.admin.ch/eli/oc/2024/603), [602](https://fedlex.data.admin.ch/eli/oc/2024/602); [FF 2023 2712](https://fedlex.data.admin.ch/eli/fga/2023/2712)).
 [^t-4]: [RS 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
 [^t-5]: [RS 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
 [^t-6]: [RS 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
 [^t-7]: [RS 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
 [^t-8]: [RU 2013 3589](https://fedlex.data.admin.ch/eli/oc/2013/676)[3587](https://fedlex.data.admin.ch/eli/oc/2013/675); [FF 2012 8407](https://fedlex.data.admin.ch/eli/fga/2012/1780)
+[^t-9]: [RU 2024 603](https://fedlex.data.admin.ch/eli/oc/2024/603)[602](https://fedlex.data.admin.ch/eli/oc/2024/602); [FF 2024 1460](https://fedlex.data.admin.ch/eli/fga/2024/1460)

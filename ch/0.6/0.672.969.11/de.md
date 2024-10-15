@@ -3,38 +3,43 @@ sr: "0.672.969.11"
 title: Abkommen vom 12. Juni 1996 zwischen dem Schweizerischen Bundesrat und der Regierung der Republik Slowenien zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen und zur Vermeidung von Steuerhinterziehung und Steuerumgehung (mit Zusatzprotokoll)
 eli: "https://fedlex.data.admin.ch/eli/cc/2000/358"
 language: de
-version: 2013-11-27
+version: 2024-10-16
 adopted: 1996-06-12
 in_force: 1997-12-01
-source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/358/20131127/de/xml/fedlex-data-admin-ch-eli-cc-2000-358-20131127-de-xml-2.xml"
-url: "https://www.fedlex.admin.ch/eli/cc/2000/358/20131127/de"
+source: "https://fedlex.data.admin.ch/filestore/fedlex.data.admin.ch/eli/cc/2000/358/20241016/de/xml/fedlex-data-admin-ch-eli-cc-2000-358-20241016-de-xml-2.xml"
+url: "https://www.fedlex.admin.ch/eli/cc/2000/358/20241016/de"
 ---
 
 > Nicht amtliche Wiedergabe der konsolidierten Fassung (Fedlex). Massgebend ist die Veröffentlichung in der Amtlichen Sammlung (Art. 15 PublG, SR 170.512).
 
-# Abkommen zwischen dem Schweizerischen Bundesrat und der Regierung der Republik Slowenien zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen
+# Abkommen zwischen dem Schweizerischen Bundesrat und der Regierung der Republik Slowenien zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen und zur Vermeidung von Steuerhinterziehung und Steuerumgehung
 
-AS **2000** 2250; BBl **1996** IV 1389
+AS **2000** 2250; BBl **1996** IV 1389[^t-1]
 
 Originaltext
 
 Abgeschlossen am 12. Juni 1996
 
-Von der Bundesversammlung genehmigt am 19. Juni 1997[^t-1]
+Von der Bundesversammlung genehmigt am 19. Juni 1997[^t-2]
 
 Ratifikationsurkunden ausgetauscht am 15. September 1997
 
 In Kraft getreten am 1. Dezember 1997
 
-(Stand am 14. Oktober 2013)
+(Stand am 16. Oktober 2024)
 
-[^t-1]: [AS 2000 2249](https://fedlex.data.admin.ch/eli/oc/2000/357)
+[^t-1]: Fassung gemäss Art. I des Prot. vom 30. Mai 2023, von der BVers genehmigt am 14. Juni 2024 und in Kraft seit 16. Okt. 2024 ([AS 2024 603](https://fedlex.data.admin.ch/eli/oc/2024/603), [602](https://fedlex.data.admin.ch/eli/oc/2024/602); [BBl 2023 2712](https://fedlex.data.admin.ch/eli/fga/2023/2712)).
+[^t-2]: [AS 2000 2249](https://fedlex.data.admin.ch/eli/oc/2000/357)
 
 Der Schweizerische Bundesrat und die Regierung der Republik Slowenien,
 
-vom Wunsche geleitet, ein Abkommen zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen abzuschliessen,
+vom Wunsch geleitet, ihre wirtschaftlichen Beziehungen weiterzuentwickeln und die Zusammenarbeit in steuerlichen Angelegenheiten zu vertiefen,
 
-haben folgendes vereinbart:
+in der Absicht, ein Abkommen zur Vermeidung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen abzuschliessen, ohne Möglichkeiten zur Nichtbesteuerung oder reduzierten Besteuerung durch Steuerhinterziehung oder -umgehung (unter anderem durch missbräuchliche Gestaltungen mit dem Ziel des Erhalts von in diesem Abkommen vorgesehenen Erleichterungen zum mittelbaren Nutzen von in Drittstaaten ansässigen Personen) zu schaffen,
+
+haben folgendes vereinbart:[^ingress-1]
+
+[^ingress-1]: Fassung gemäss Art. I des Prot. vom 30. Mai 2023, von der BVers genehmigt am 14. Juni 2024 und in Kraft seit 16. Okt. 2024 ([AS 2024 603](https://fedlex.data.admin.ch/eli/oc/2024/603), [602](https://fedlex.data.admin.ch/eli/oc/2024/602); [BBl 2023 2712](https://fedlex.data.admin.ch/eli/fga/2023/2712)).
 
 #### Art. 1
 
@@ -50,7 +55,9 @@ Dieses Abkommen gilt für Personen, die in einem Vertragsstaat oder in beiden Ve
 
 <sup>2.</sup> Als Steuern vom Einkommen und vom Vermögen gelten alle Steuern, die vom Gesamteinkommen, vom Gesamtvermögen oder von Teilen des Einkommens oder des Vermögens erhoben werden, einschliesslich der Steuern vom Gewinn aus der Veräusserung beweglichen oder unbeweglichen Vermögens, der Lohnsummensteuern sowie der Steuern vom Vermögenszuwachs.
 
-<sup>3.</sup> Zu den bestehenden Steuern, für die das Abkommen gilt, gehören insbesondere
+<sup>3.</sup>
+
+Zu den bestehenden Steuern, für die das Abkommen gilt, gehören insbesondere:
 
 - a)
 
@@ -61,11 +68,8 @@ Dieses Abkommen gilt für Personen, die in einem Vertragsstaat oder in beiden Ve
   - (iii) die Steuer vom Vermögen
   - [tab] (im folgenden als «slowenische Steuer» bezeichnet);
 
-- b)
-
-  in der Schweiz:
-
-  - [tab] die von Bund, Kantonen und Gemeinden erhobenen Steuern
+- b) in der Schweiz:
+- die von Bund, Kantonen und Gemeinden erhobenen Steuern
   - (i) vom Einkommen (Gesamteinkommen, Erwerbseinkommen, Vermögensertrag, Geschäftsertrag, Kapitalgewinn und andere Einkünfte); und
   - (ii) vom Vermögen (Gesamtvermögen, bewegliches und unbewegliches Vermögen, Geschäftsvermögen, Kapital und Reserven und andere Vermögensteile)
   - [tab] (im folgenden als «schweizerische Steuer» bezeichnet).
@@ -78,7 +82,9 @@ Dieses Abkommen gilt für Personen, die in einem Vertragsstaat oder in beiden Ve
 
 **Allgemeine Begriffsbestimmungen**
 
-<sup>1.</sup> Im Sinne dieses Abkommens, wenn der Zusammenhang nichts anderes erfordert,
+<sup>1.</sup>
+
+Im Sinne dieses Abkommens, wenn der Zusammenhang nichts anderes erfordert:
 
 - a) bedeutet der Ausdruck «Slowenien» das Gebiet der Republik Slowenien einschliesslich des an die Hoheitsgewässer angrenzenden Meeresgebiets, Meeresgrundes und Meeresuntergrundes, über die der Republik Slowenien in Übereinstimmung mit dem Völkerrecht und dem internen Recht Hoheitsrechte und die Gerichtsbarkeit zustehen;
 - b) bedeutet der Ausdruck «Schweiz» die Schweizerische Eidgenossenschaft;
@@ -121,7 +127,7 @@ Ist nach Absatz 1 eine natürliche Person in beiden Vertragsstaaten ansässig, s
 
 <sup>4.</sup> Eine Personengesellschaft gilt als in dem Vertragsstaat ansässig, in dem sich der Ort ihrer tatsächlichen Geschäftsleitung befindet. Die Artikel 6–22 gelten jedoch nur insoweit für die Einkünfte und das Vermögen der Personengesellschaft, als sie in dem Vertragsstaat, in dem die Personengesellschaft als ansässig gilt, der Besteuerung unterliegen.
 
-[^4-1]: Fassung gemäss Art. I des Prot. vom 7. Sept. 2012, von der BVers genehmigt am 21. Juni 2013 und in Kraft seit 14. Okt. 2013 ([AS 2013 3589](https://fedlex.data.admin.ch/eli/oc/2013/676)[3587](https://fedlex.data.admin.ch/eli/oc/2013/675); [BBl 2012 9573](https://fedlex.data.admin.ch/eli/fga/2012/1780)).
+[^4-1]: Fassung gemäss Art. I des Prot. vom 7. Sept. 2012, von der BVers genehmigt am 21. Juni 2013 und in Kraft seit 14. Okt. 2013 ([AS 2013 3589](https://fedlex.data.admin.ch/eli/oc/2013/676), [3587](https://fedlex.data.admin.ch/eli/oc/2013/675); [BBl 2012 9573](https://fedlex.data.admin.ch/eli/fga/2012/1780)).
 
 #### Art. 5
 
@@ -183,7 +189,7 @@ Ungeachtet der vorstehenden Bestimmungen dieses Artikels gelten nicht als Betrie
 
 <sup>4.</sup> Gehören zu den Gewinnen Einkünfte, die in anderen Artikeln dieses Abkommens behandelt werden, so werden die Bestimmungen jener Artikel durch die Bestimmungen dieses Artikels nicht berührt.
 
-[^7-1]: Fassung gemäss Art. II des Prot. vom 7. Sept. 2012, von der BVers genehmigt am 21. Juni 2013 und in Kraft seit 14. Okt. 2013 ([AS 2013 3589](https://fedlex.data.admin.ch/eli/oc/2013/676)[3587](https://fedlex.data.admin.ch/eli/oc/2013/675); [BBl 2012 9573](https://fedlex.data.admin.ch/eli/fga/2012/1780)).
+[^7-1]: Fassung gemäss Art. II des Prot. vom 7. Sept. 2012, von der BVers genehmigt am 21. Juni 2013 und in Kraft seit 14. Okt. 2013 ([AS 2013 3589](https://fedlex.data.admin.ch/eli/oc/2013/676), [3587](https://fedlex.data.admin.ch/eli/oc/2013/675); [BBl 2012 9573](https://fedlex.data.admin.ch/eli/fga/2012/1780)).
 
 #### Art. 8
 
@@ -199,20 +205,19 @@ Ungeachtet der vorstehenden Bestimmungen dieses Artikels gelten nicht als Betrie
 
 **Verbundene Unternehmen**
 
-<sup>1.</sup> Wenn
+<sup>1.</sup> 2.[^9-1] Werden in einem Vertragsstaat den Gewinnen eines Unternehmens dieses Staates Gewinne zugerechnet und entsprechend besteuert, mit denen ein Unternehmen des anderen Vertragsstaats in diesem Staat besteuert worden ist, und handelt es sich bei den zugerechneten Gewinnen um solche, die das Unternehmen des erstgenannten Staates erzielt hätte, wenn die zwischen den beiden Unternehmen vereinbarten Bedingungen die gleichen gewesen wären, die unabhängige Unternehmen miteinander vereinbaren würden, so nimmt der andere Staat eine entsprechende Änderung der dort von diesen Gewinnen erhobenen Steuer vor. Bei dieser Änderung sind die übrigen Bestimmungen dieses Abkommens zu berücksichtigen; soweit erforderlich, konsultieren sich die zuständigen Behörden der Vertragsstaaten.
 
-und in diesen Fällen die beiden Unternehmen in ihren kaufmännischen oder finanziellen Beziehungen an vereinbarte oder auferlegte Bedingungen gebunden sind, die von denen abweichen, die unabhängige Unternehmen miteinander vereinbaren würden, so dürfen die Gewinne, die eines der Unternehmen ohne diese Bedingungen erzielt hätte, wegen dieser Bedingungen aber nicht erzielt hat, den Gewinnen dieses Unternehmens zugerechnet und entsprechend besteuert werden.
-
-2.[^9-1] Werden in einem Vertragsstaat den Gewinnen eines Unternehmens dieses Staates Gewinne zugerechnet und entsprechend besteuert, mit denen ein Unternehmen des anderen Vertragsstaats in diesem Staat besteuert worden ist, und handelt es sich bei den zugerechneten Gewinnen um solche, die das Unternehmen des erstgenannten Staates erzielt hätte, wenn die zwischen den beiden Unternehmen vereinbarten Bedingungen die gleichen gewesen wären, die unabhängige Unternehmen miteinander vereinbaren würden, so nimmt der andere Staat eine entsprechende Änderung der dort von diesen Gewinnen erhobenen Steuer vor. Bei dieser Änderung sind die übrigen Bestimmungen dieses Abkommens zu berücksichtigen; soweit erforderlich, konsultieren sich die zuständigen Behörden der Vertragsstaaten.
+Wenn:
 
 - a) ein Unternehmen eines Vertragsstaats unmittelbar oder mittelbar an der Geschäftsleitung, der Kontrolle oder dem Kapital eines Unternehmens des anderen Vertragsstaats beteiligt ist,
 - oder
 - b) dieselben Personen unmittelbar oder mittelbar an der Geschäftsleitung, der Kontrolle oder dem Kapital eines Unternehmens eines Vertragsstaats und eines Unternehmens des anderen Vertragsstaats beteiligt sind
+- und in diesen Fällen die beiden Unternehmen in ihren kaufmännischen oder finanziellen Beziehungen an vereinbarte oder auferlegte Bedingungen gebunden sind, die von denen abweichen, die unabhängige Unternehmen miteinander vereinbaren würden, so dürfen die Gewinne, die eines der Unternehmen ohne diese Bedingungen erzielt hätte, wegen dieser Bedingungen aber nicht erzielt hat, den Gewinnen dieses Unternehmens zugerechnet und entsprechend besteuert werden.
 
 <sup>3.</sup> …[^9-2]
 
-[^9-1]: Fassung gemäss Art. III des Prot. vom 7. Sept. 2012, von der BVers genehmigt am 21. Juni 2013 und in Kraft seit 14. Okt. 2013 ([AS 2013 3589](https://fedlex.data.admin.ch/eli/oc/2013/676)[3587](https://fedlex.data.admin.ch/eli/oc/2013/675); [BBl 2012 9573](https://fedlex.data.admin.ch/eli/fga/2012/1780)).
-[^9-2]: Aufgehoben durch Art. III des Prot. vom 7. Sept. 2012, von der BVers genehmigt am 21. Juni 2013 und mit Wirkung seit 14. Okt. 2013 ([AS 2013 3589](https://fedlex.data.admin.ch/eli/oc/2013/676)[3587](https://fedlex.data.admin.ch/eli/oc/2013/675); [BBl 2012 9573](https://fedlex.data.admin.ch/eli/fga/2012/1780)).
+[^9-1]: Fassung gemäss Art. III des Prot. vom 7. Sept. 2012, von der BVers genehmigt am 21. Juni 2013 und in Kraft seit 14. Okt. 2013 ([AS 2013 3589](https://fedlex.data.admin.ch/eli/oc/2013/676), [3587](https://fedlex.data.admin.ch/eli/oc/2013/675); [BBl 2012 9573](https://fedlex.data.admin.ch/eli/fga/2012/1780)).
+[^9-2]: Aufgehoben durch Art. III des Prot. vom 7. Sept. 2012, von der BVers genehmigt am 21. Juni 2013 und mit Wirkung seit 14. Okt. 2013 ([AS 2013 3589](https://fedlex.data.admin.ch/eli/oc/2013/676), [3587](https://fedlex.data.admin.ch/eli/oc/2013/675); [BBl 2012 9573](https://fedlex.data.admin.ch/eli/fga/2012/1780)).
 
 #### Art. 10
 
@@ -237,7 +242,7 @@ Ungeachtet von Absatz 2 nimmt der Vertragsstaat, in dem die die Dividenden zahle
 
 <sup>7.</sup> Bezieht eine in einem Vertragsstaat ansässige Gesellschaft Gewinne oder Einkünfte aus dem anderen Vertragsstaat, so darf dieser andere Staat weder die von der Gesellschaft gezahlten Dividenden besteuern, es sei denn, dass diese Dividenden an eine im anderen Staat ansässige Person gezahlt werden oder dass die Beteiligung, für die die Dividenden gezahlt werden, tatsächlich zu einer im anderen Staat gelegenen Betriebstätte oder festen Einrichtung gehört, noch Gewinne der Gesellschaft einer Steuer für nicht ausgeschüttete Gewinne unterwerfen, selbst wenn die gezahlten Dividenden oder die nicht ausgeschütteten Gewinne ganz oder teilweise aus im anderen Staat erzielten Gewinnen oder Einkünften bestehen.
 
-[^10-1]: Fassung gemäss Art. IV des Prot. vom 7. Sept. 2012, von der BVers genehmigt am 21. Juni 2013 und in Kraft seit 14. Okt. 2013 ([AS 2013 3589](https://fedlex.data.admin.ch/eli/oc/2013/676)[3587](https://fedlex.data.admin.ch/eli/oc/2013/675); [BBl 2012 9573](https://fedlex.data.admin.ch/eli/fga/2012/1780)).
+[^10-1]: Fassung gemäss Art. IV des Prot. vom 7. Sept. 2012, von der BVers genehmigt am 21. Juni 2013 und in Kraft seit 14. Okt. 2013 ([AS 2013 3589](https://fedlex.data.admin.ch/eli/oc/2013/676), [3587](https://fedlex.data.admin.ch/eli/oc/2013/675); [BBl 2012 9573](https://fedlex.data.admin.ch/eli/fga/2012/1780)).
 
 #### Art. 11
 
@@ -268,7 +273,7 @@ Ungeachtet von Absatz 2 können Zinsen, die aus einem Vertragsstaat stammen und 
 
 <sup>8.</sup> Bestehen zwischen dem Schuldner und der nutzungsberechtigten Person oder zwischen beiden und einer Drittperson besondere Beziehungen und übersteigen deshalb die Zinsen, gemessen an der zugrunde liegenden Forderung, den Betrag, den Schuldner und nutzungsberechtigte Person ohne diese Beziehungen vereinbart hätten, so wird dieser Artikel nur auf den letztgenannten Betrag angewendet. In diesem Fall kann der übersteigende Betrag nach dem Recht eines jeden Vertragsstaats und unter Berücksichtigung der anderen Bestimmungen dieses Abkommens besteuert werden.
 
-[^11-1]: Fassung gemäss Art. V des Prot. vom 7. Sept. 2012, von der BVers genehmigt am 21. Juni 2013 und in Kraft seit 14. Okt. 2013 ([AS 2013 3589](https://fedlex.data.admin.ch/eli/oc/2013/676)[3587](https://fedlex.data.admin.ch/eli/oc/2013/675); [BBl 2012 9573](https://fedlex.data.admin.ch/eli/fga/2012/1780)).
+[^11-1]: Fassung gemäss Art. V des Prot. vom 7. Sept. 2012, von der BVers genehmigt am 21. Juni 2013 und in Kraft seit 14. Okt. 2013 ([AS 2013 3589](https://fedlex.data.admin.ch/eli/oc/2013/676), [3587](https://fedlex.data.admin.ch/eli/oc/2013/675); [BBl 2012 9573](https://fedlex.data.admin.ch/eli/fga/2012/1780)).
 
 #### Art. 12
 
@@ -290,7 +295,7 @@ Ungeachtet von Absatz 2 können Zinsen, die aus einem Vertragsstaat stammen und 
 
 <sup>8.</sup> Bestehen zwischen dem Schuldner und der nutzungsberechtigten Person oder zwischen beiden und einer Drittperson besondere Beziehungen und übersteigen deshalb die Lizenzgebühren, gemessen an der zugrunde liegenden Leistung, den Betrag, den Schuldner und nutzungsberechtigte Person ohne diese Beziehungen vereinbart hätten, so wird dieser Artikel nur auf den letztgenannten Betrag angewendet. In diesem Fall kann der übersteigende Betrag nach dem Recht eines jeden Vertragsstaats und unter Berücksichtigung der anderen Bestimmungen dieses Abkommens besteuert werden.
 
-[^12-1]: Fassung gemäss Art. VI des Prot. vom 7. Sept. 2012, von der BVers genehmigt am 21. Juni 2013 und in Kraft seit 14. Okt. 2013 ([AS 2013 3589](https://fedlex.data.admin.ch/eli/oc/2013/676)[3587](https://fedlex.data.admin.ch/eli/oc/2013/675); [BBl 2012 9573](https://fedlex.data.admin.ch/eli/fga/2012/1780)).
+[^12-1]: Fassung gemäss Art. VI des Prot. vom 7. Sept. 2012, von der BVers genehmigt am 21. Juni 2013 und in Kraft seit 14. Okt. 2013 ([AS 2013 3589](https://fedlex.data.admin.ch/eli/oc/2013/676), [3587](https://fedlex.data.admin.ch/eli/oc/2013/675); [BBl 2012 9573](https://fedlex.data.admin.ch/eli/fga/2012/1780)).
 
 #### Art. 13
 
@@ -309,8 +314,8 @@ Ungeachtet von Absatz 2 können Zinsen, die aus einem Vertragsstaat stammen und 
 - a) aus der Veräusserung von Anteilen, die an einer Börse in einem der Vertragsstaaten oder an einer Börse entsprechend der Vereinbarung zwischen den zuständigen Behörden der Vertragsstaaten kotiert sind;
 - b) aus der Veräusserung von Anteilen an einer Gesellschaft, deren Aktiven zu mehr als 50 Prozent unmittelbar aus unbeweglichem Vermögen bestehen, in welchen das Unternehmen seine Geschäftstätigkeit ausübt.
 
-[^13-1]: Eingefügt durch Art. VII des Prot. vom 7. Sept. 2012, von der BVers genehmigt am 21. Juni 2013 und in Kraft seit 14. Okt. 2013 ([AS 2013 3589](https://fedlex.data.admin.ch/eli/oc/2013/676)[3587](https://fedlex.data.admin.ch/eli/oc/2013/675); [BBl 2012 9573](https://fedlex.data.admin.ch/eli/fga/2012/1780)).
-[^13-2]: Fassung gemäss Art. VII des Prot. vom 7. Sept. 2012, von der BVers genehmigt am 21. Juni 2013 und in Kraft seit 14. Okt. 2013 ([AS 2013 3589](https://fedlex.data.admin.ch/eli/oc/2013/676)[3587](https://fedlex.data.admin.ch/eli/oc/2013/675); [BBl 2012 9573](https://fedlex.data.admin.ch/eli/fga/2012/1780)).
+[^13-1]: Eingefügt durch Art. VII des Prot. vom 7. Sept. 2012, von der BVers genehmigt am 21. Juni 2013 und in Kraft seit 14. Okt. 2013 ([AS 2013 3589](https://fedlex.data.admin.ch/eli/oc/2013/676), [3587](https://fedlex.data.admin.ch/eli/oc/2013/675); [BBl 2012 9573](https://fedlex.data.admin.ch/eli/fga/2012/1780)).
+[^13-2]: Fassung gemäss Art. VII des Prot. vom 7. Sept. 2012, von der BVers genehmigt am 21. Juni 2013 und in Kraft seit 14. Okt. 2013 ([AS 2013 3589](https://fedlex.data.admin.ch/eli/oc/2013/676), [3587](https://fedlex.data.admin.ch/eli/oc/2013/675); [BBl 2012 9573](https://fedlex.data.admin.ch/eli/fga/2012/1780)).
 
 #### Art. 14
 
@@ -326,7 +331,9 @@ Ungeachtet von Absatz 2 können Zinsen, die aus einem Vertragsstaat stammen und 
 
 <sup>1.</sup> Vorbehaltlich der Artikel 16, 18 und 19 können Gehälter, Löhne und ähnliche Vergütungen, die eine in einem Vertragsstaat ansässige Person aus unselbständiger Arbeit bezieht, nur in diesem Staat besteuert werden, es sei denn, die Arbeit wird im anderen Vertragsstaat ausgeübt. Wird die Arbeit dort ausgeübt, so können die dafür bezogenen Vergütungen im anderen Staat besteuert werden.
 
-<sup>2.</sup> Ungeachtet des Absatzes 1 können Vergütungen, die eine in einem Vertragsstaat ansässige Person für eine im anderen Vertragsstaat ausgeübte unselbständige Arbeit bezieht, nur im erstgenannten Staat besteuert werden, wenn
+<sup>2.</sup>
+
+Ungeachtet des Absatzes 1 können Vergütungen, die eine in einem Vertragsstaat ansässige Person für eine im anderen Vertragsstaat ausgeübte unselbständige Arbeit bezieht, nur im erstgenannten Staat besteuert werden, wenn:
 
 - a) der Empfänger sich im anderen Staat insgesamt nicht länger als 183 Tage während des betreffenden Kalenderjahres aufhält, und
 - b) die Vergütungen von einem Arbeitgeber oder für einen Arbeitgeber gezahlt werden, der nicht im anderen Staat ansässig ist, und
@@ -361,7 +368,10 @@ Vorbehaltlich des Artikels 19 Absatz 2 können Ruhegehälter und ähnliche Verg�
 **Öffentlicher Dienst**
 
 - 1\. a) Vergütungen, ausgenommen Ruhegehälter, die von einem Vertragsstaat oder einer seiner politischen Unterabteilungen oder lokalen Körperschaften an eine natürliche Person für die diesem Staat oder der politischen Unterabteilung oder lokalen Körperschaft geleisteten Dienste gezahlt werden, können nur in diesem Staat besteuert werden.
-- b) Diese Vergütungen können jedoch nur im anderen Vertragsstaat besteuert werden, wenn die Dienste in diesem Staat geleistet werden und die natürliche Person in diesem Staat ansässig ist und
+- b)
+
+  Diese Vergütungen können jedoch nur im anderen Vertragsstaat besteuert werden, wenn die Dienste in diesem Staat geleistet werden und die natürliche Person in diesem Staat ansässig ist und:
+
   - (i) ein Staatsangehöriger dieses Staates ist oder
   - (ii) nicht ausschliesslich deshalb in diesem Staat ansässig geworden ist, um die Dienste zu leisten.
 
@@ -424,8 +434,10 @@ In der Schweiz wird die Doppelbesteuerung wie folgt vermieden:
 
 - Die Schweiz wird gemäss den schweizerischen Vorschriften über die Durchführung von zwischenstaatlichen Abkommen des Bundes zur Vermeidung der Doppelbesteuerung die Art der Entlastung bestimmen und das Verfahren ordnen.
 - c) Eine in der Schweiz ansässige Gesellschaft, die Dividenden von einer in Slowenien ansässigen Gesellschaft bezieht, geniesst bei der Erhebung der schweizerischen Steuer auf diesen Dividenden die gleichen Vergünstigungen, die ihr zustehen würden, wenn die die Dividenden zahlende Gesellschaft in der Schweiz ansässig wäre.
+- d)[^23-2] Absatz 2 Buchstabe a gilt nicht für Einkünfte oder für Vermögen einer in der Schweiz ansässigen Person, wenn Slowenien dieses Abkommen so anwendet, dass diese Einkünfte oder dieses Vermögen von der Besteuerung befreit sind, oder Artikel 10 Absatz 2, Artikel 11 Absatz 2 oder Artikel 12 Absatz 2 auf diese Einkünfte anwendet.
 
-[^23-1]: Fassung gemäss Art. VIII des Prot. vom 7. Sept. 2012, von der BVers genehmigt am 21. Juni 2013 und in Kraft seit 14. Okt. 2013 ([AS 2013 3589](https://fedlex.data.admin.ch/eli/oc/2013/676)[3587](https://fedlex.data.admin.ch/eli/oc/2013/675); [BBl 2012 9573](https://fedlex.data.admin.ch/eli/fga/2012/1780)).
+[^23-1]: Fassung gemäss Art. VIII des Prot. vom 7. Sept. 2012, von der BVers genehmigt am 21. Juni 2013 und in Kraft seit 14. Okt. 2013 ([AS 2013 3589](https://fedlex.data.admin.ch/eli/oc/2013/676), [3587](https://fedlex.data.admin.ch/eli/oc/2013/675); [BBl 2012 9573](https://fedlex.data.admin.ch/eli/fga/2012/1780)).
+[^23-2]: Eingefügt durch Art. II des Prot. vom 30. Mai 2023, von der BVers genehmigt am 14. Juni 2024 und in Kraft seit 16. Okt. 2024 ([AS 2024 603](https://fedlex.data.admin.ch/eli/oc/2024/603), [602](https://fedlex.data.admin.ch/eli/oc/2024/602); [BBl 2023 2712](https://fedlex.data.admin.ch/eli/fga/2023/2712)).
 
 #### Art. 24
 
@@ -441,7 +453,7 @@ In der Schweiz wird die Doppelbesteuerung wie folgt vermieden:
 
 <sup>5.</sup> Dieser Artikel gilt ungeachtet des Artikels 2 für Steuern jeder Art und Bezeichnung.
 
-[^24-1]: Verweise gemäss Art. IX des Prot. vom 7. Sept. 2012, von der BVers genehmigt am 21. Juni 2013 und in Kraft seit 14. Okt. 2013 ([AS 2013 3589](https://fedlex.data.admin.ch/eli/oc/2013/676)[3587](https://fedlex.data.admin.ch/eli/oc/2013/675); [BBl 2012 9573](https://fedlex.data.admin.ch/eli/fga/2012/1780)).
+[^24-1]: Verweise gemäss Art. IX des Prot. vom 7. Sept. 2012, von der BVers genehmigt am 21. Juni 2013 und in Kraft seit 14. Okt. 2013 ([AS 2013 3589](https://fedlex.data.admin.ch/eli/oc/2013/676), [3587](https://fedlex.data.admin.ch/eli/oc/2013/675); [BBl 2012 9573](https://fedlex.data.admin.ch/eli/fga/2012/1780)).
 
 #### Art. 25
 
@@ -464,7 +476,7 @@ Die Vertragsstaaten können der nach diesem Absatz gebildeten Schiedsstelle die 
 - a) eine Person der zuständigen Behörde eines Vertragsstaats gemäss Absatz 1 einen Fall mit der Begründung unterbreitet hat, dass die Massnahmen eines Vertragsstaats oder beider Vertragsstaaten für sie zu einer Besteuerung geführt haben, die diesem Abkommen nicht entspricht; und
 - b) die zuständigen Behörden nicht in der Lage sind, innerhalb von drei Jahren ab der Vorlage des Falls an die zuständige Behörde des anderen Vertragsstaats eine einvernehmliche Lösung im Sinne des Absatzes 2 herbeizuführen;
 
-[^25-1]: Eingefügt durch Art. X des Prot. vom 7. Sept. 2012, von der BVers genehmigt am 21. Juni 2013 und in Kraft seit 14. Okt. 2013 ([AS 2013 3589](https://fedlex.data.admin.ch/eli/oc/2013/676)[3587](https://fedlex.data.admin.ch/eli/oc/2013/675); [BBl 2012 9573](https://fedlex.data.admin.ch/eli/fga/2012/1780)). Siehe auch Art. XIII Abs. 2 Bst. c dieses Prot. am Schluss des Textes.
+[^25-1]: Eingefügt durch Art. X des Prot. vom 7. Sept. 2012, von der BVers genehmigt am 21. Juni 2013 und in Kraft seit 14. Okt. 2013 ([AS 2013 3589](https://fedlex.data.admin.ch/eli/oc/2013/676), [3587](https://fedlex.data.admin.ch/eli/oc/2013/675); [BBl 2012 9573](https://fedlex.data.admin.ch/eli/fga/2012/1780)). Siehe auch Art. XIII Abs. 2 Bst. c dieses Prot. am Schluss des Textes.
 
 #### Art. 26
 
@@ -486,7 +498,7 @@ Die Absätze 1 und 2 sind nicht so auszulegen, als verpflichteten sie einen Vert
 
 <sup>5.</sup> Absatz 3 ist in keinem Fall so auszulegen, als könne ein Vertragsstaat die Erteilung von Informationen nur deshalb ablehnen, weil sich die Informationen bei einer Bank, einem sonstigen Finanzinstitut, einem Bevollmächtigten, Beauftragten oder Treuhänder befinden oder weil sie sich auf Eigentumsrechte an einer Person beziehen. Ungeachtet des Absatzes 3 oder entgegenstehender Bestimmungen des innerstaatlichen Rechts verfügen die Steuerbehörden des ersuchten Vertragsstaats über die Befugnis, die Offenlegung der in diesem Absatz genannten Informationen durchzusetzen, sofern dies für die Erfüllung der Verpflichtungen nach diesem Absatz erforderlich ist.
 
-[^26-1]: Fassung gemäss Art. XI des Prot. vom 7. Sept. 2012, von der BVers genehmigt am 21. Juni 2013 und in Kraft seit 14. Okt. 2013 ([AS 2013 3589](https://fedlex.data.admin.ch/eli/oc/2013/676)[3587](https://fedlex.data.admin.ch/eli/oc/2013/675); [BBl 2012 9573](https://fedlex.data.admin.ch/eli/fga/2012/1780)). Siehe auch Art. XIII Abs. 2 Bst. c dieses Prot. am Schluss des Textes.
+[^26-1]: Fassung gemäss Art. XI des Prot. vom 7. Sept. 2012, von der BVers genehmigt am 21. Juni 2013 und in Kraft seit 14. Okt. 2013 ([AS 2013 3589](https://fedlex.data.admin.ch/eli/oc/2013/676), [3587](https://fedlex.data.admin.ch/eli/oc/2013/675); [BBl 2012 9573](https://fedlex.data.admin.ch/eli/fga/2012/1780)). Siehe auch Art. XIII Abs. 2 Bst. c dieses Prot. am Schluss des Textes.
 
 #### Art. 27
 
@@ -494,12 +506,22 @@ Die Absätze 1 und 2 sind nicht so auszulegen, als verpflichteten sie einen Vert
 
 <sup>1.</sup> Dieses Abkommen berührt nicht die steuerlichen Vorrechte, die den Mitgliedern diplomatischer Missionen und konsularischer Vertretungen nach den allgemeinen Regeln des Völkerrechts oder auf Grund besonderer Vereinbarungen zustehen.
 
-<sup>2.</sup> Ungeachtet des Artikels 4 gilt eine natürliche Person, die Mitglied einer diplomatischen Mission, einer konsularischen Vertretung oder einer ständigen Vertretung eines Vertragsstaats ist, die im anderen Vertragsstaat oder in einem dritten Staat gelegen ist, für die Zwecke dieses Abkommens als im Entsendestaat ansässig, wenn sie
+<sup>2.</sup>
+
+Ungeachtet des Artikels 4 gilt eine natürliche Person, die Mitglied einer diplomatischen Mission, einer konsularischen Vertretung oder einer ständigen Vertretung eines Vertragsstaats ist, die im anderen Vertragsstaat oder in einem dritten Staat gelegen ist, für die Zwecke dieses Abkommens als im Entsendestaat ansässig, wenn sie:
 
 - a) nach dem Völkerrecht im Empfangsstaat mit Einkünften aus Quellen ausserhalb dieses Staates oder mit ausserhalb dieses Staates gelegenem Vermögen nicht steuerpflichtig ist, und
 - b) im Entsendestaat den gleichen Verpflichtungen bezüglich der Steuer von ihrem gesamten Einkommen oder vom Vermögen unterworfen ist wie in diesem Staat ansässige Personen.
 
 <sup>3.</sup> Das Abkommen gilt nicht für internationale Organisationen, deren Organe oder Beamte und für Personen, die Mitglieder einer diplomatischen Mission, einer konsularischen Vertretung oder einer ständigen Vertretung eines dritten Staates sind, und die sich in einem Vertragsstaat aufhalten und in keinem der Vertragsstaaten für die Zwecke der Steuern vom Einkommen oder Vermögen als ansässig gelten.
+
+#### Art. 27A
+
+**Anspruch auf Vorteile**[^27A-1]
+
+Ungeachtet der übrigen Bestimmungen dieses Abkommens wird ein Vorteil nach diesem Abkommen nicht für bestimmte Einkünfte oder Vermögenswerte gewährt, wenn unter Berücksichtigung aller massgeblichen Tatsachen und Umstände die Feststellung gerechtfertigt ist, dass der Erhalt dieses Vorteils einer der Hauptzwecke einer Gestaltung oder Transaktion war, die unmittelbar oder mittelbar zu diesem Vorteil geführt hat, es sei denn, es wird nachgewiesen, dass die Gewährung dieses Vorteils unter diesen Umständen mit dem Ziel und Zweck der einschlägigen Bestimmungen dieses Abkommens im Einklang steht.
+
+[^27A-1]: Eingefügt durch Art. III Ziff. 1 des Prot. vom 30. Mai 2023, von der BVers genehmigt am 14. Juni 2024 und in Kraft seit 16. Okt. 2024 ([AS 2024 603](https://fedlex.data.admin.ch/eli/oc/2024/603), [602](https://fedlex.data.admin.ch/eli/oc/2024/602); [BBl 2023 2712](https://fedlex.data.admin.ch/eli/fga/2023/2712)).
 
 #### Art. 28
 
@@ -519,9 +541,9 @@ Die Absätze 1 und 2 sind nicht so auszulegen, als verpflichteten sie einen Vert
 
 Dieses Abkommen bleibt in Kraft, solange es nicht von einem Vertragsstaat gekündigt wird. Jeder Vertragsstaat kann das Abkommen auf diplomatischem Weg unter Einhaltung einer Frist von mindestens sechs Monaten zum Ende eines Kalenderjahres kündigen. In diesem Fall findet das Abkommen hinsichtlich der Steuern vom Einkommen und vom Vermögen für Steuerjahre, die am oder nach dem 1. Januar des auf die Kündigung folgenden Kalenderjahres beginnen, keine Anwendung mehr.
 
-*Zu Urkund dessen* haben die hierzu gehörig bevollmächtigten Unterzeichneten dieses Abkommen unterschrieben. Geschehen zu Ljubljana am 12. Juni 1996 im Doppel in deutscher, slowenischer und englischer Sprache, wobei jeder Wortlaut gleicherweise verbindlich ist. Bei unterschiedlicher Auslegung des deutschen und des slowenischen Wortlauts soll der englische Wortlaut massgebend sein. Für den Schweizerischen Bundesrat: Für die Regierung der Republik Slowenien: Jakob Kellenberger Milojka Kolar
+*Zu Urkund dessen* haben die hierzu gehörig bevollmächtigten Unterzeichneten dieses Abkommen unterschrieben. Geschehen zu Ljubljana am 12. Juni 1996 im Doppel in deutscher, slowenischer und englischer Sprache, wobei jeder Wortlaut gleicherweise verbindlich ist. Bei unterschiedlicher Auslegung des deutschen und des slowenischen Wortlauts soll der englische Wortlaut massgebend sein. Für den Schweizerischen Bundesrat: Jakob Kellenberger Für die Regierung der Republik Slowenien: Milojka Kolar
 
-Zusatzprotokoll**[^t-2]**
+Zusatzprotokoll[^t-3]
 
 Der Schweizerische Bundesrat und die Regierung der Republik Slowenien
 
@@ -543,10 +565,10 @@ Es besteht Einvernehmen darüber, dass der Ausdruck «Vorsorgeeinrichtung» alle
 
   in der Schweiz, sämtliche Pläne und Modelle nach:
 
-  - (i) dem Bundesgesetz vom 20. Dezember 1946[^t-3] über die Alters- und Hinterlassenenversicherung,
-  - (ii) dem Bundesgesetz vom 19. Juni 1959[^t-4] über die Invalidenversicherung,
-  - (iii) dem Bundesgesetz vom 6. Oktober 2006[^t-5] über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung,
-  - (iv) dem Bundesgesetz vom 25. Juni 1982[^t-6] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge, einschliesslich der nicht registrierten Vorsorgeeinrichtungen, die berufliche Vorsorgepläne anbieten, und
+  - (i) dem Bundesgesetz vom 20. Dezember 1946[^t-4] über die Alters- und Hinterlassenenversicherung,
+  - (ii) dem Bundesgesetz vom 19. Juni 1959[^t-5] über die Invalidenversicherung,
+  - (iii) dem Bundesgesetz vom 6. Oktober 2006[^t-6] über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung,
+  - (iv) dem Bundesgesetz vom 25. Juni 1982[^t-7] über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge, einschliesslich der nicht registrierten Vorsorgeeinrichtungen, die berufliche Vorsorgepläne anbieten, und
   - (v) den mit der beruflichen Vorsorge vergleichbaren anerkannten Formen der gebundenen Selbstvorsorge gemäss Artikel 82 des Bundesgesetzes vom 25. Juni 1982 über die berufliche Alters-, Hinterlassenen- und Invalidenvorsorge;
 
 sowie alle gleichen oder im Wesentlichen vergleichbaren Einrichtungen, die aufgrund von nach der Unterzeichnung des Protokolls erlassenen Gesetzen errichtet werden entsprechend der Vereinbarung zwischen den zuständigen Behörden der Vertragsstaaten.
@@ -562,19 +584,15 @@ Hinsichtlich Artikel 4 Absatz 1 besteht Einvernehmen darüber, dass der Ausdruck
 
 Es besteht Einvernehmen darüber, dass eine Berichtigung nach Artikel 7 Absatz 3 und Artikel 9 Absatz 2 vorgenommen wird, wenn sie als gerechtfertigt angesehen wird.
 
-\4. Zu den Art. 10, 11 und 12
-
-Die Artikel 10, 11 und 12 gelten nicht für Dividenden, Zinsen oder Lizenzgebühren, die auf der Grundlage einer Gewinndurchlaufregelung oder als Teil einer solchen bezahlt werden. Der Ausdruck «Gewinndurchlaufregelung» bedeutet ein Geschäft oder eine Abfolge von Geschäften, das oder die so ausgestaltet ist, dass eine in einem Vertragsstaat ansässige, abkommensberechtigte Person Einkünfte aus dem anderen Vertragsstaat bezieht und diese Einkünfte ganz oder nahezu ganz (zu irgendeinem Zeitpunkt oder in irgendeiner Form) unmittelbar oder mittelbar an eine andere Person zahlt, die in keinem der Vertragsstaaten ansässig ist und die, wenn sie die Einkünfte unmittelbar aus dem anderen Vertragsstaat erhielte, nicht nach einem Doppelbesteuerungsabkommen zwischen ihrem Ansässigkeitsstaat und dem Staat, aus dem die Einkünfte stammen, oder auf andere Weise zu Vorteilen mit Bezug auf diese Einkünfte berechtigt wäre, die gleichwertig oder günstiger sind als die einer in einem Vertragsstaat ansässigen Person nach dem vorliegenden Abkommen zustehenden Vorteile, und der Hauptzweck der gewählten Ausgestaltung im Erlangen der Vorteile nach diesem Abkommen besteht.
-
-\5. Zu den Art. 18 und 19
+\4. Zu den Art. 18 und 19
 
 Es besteht Einvernehmen darüber, dass der in den Artikeln 18 und 19 verwendete Begriff «Ruhegehälter» nicht nur periodische Zahlungen, sondern auch Kapitalleistungen einschliesst.
 
-\6. Zu den Art. 18 und 24
+\5. Zu den Art. 18 und 24
 
 Hinsichtlich der Artikel 18 und 24 sind Beiträge, die von oder für Rechnung einer natürlichen Person, die in einem Vertragsstaat Dienste leistet, an eine im anderen Vertragsstaat errichtete und dort steuerlich anerkannte Vorsorgeeinrichtung entrichtet werden, für Zwecke der Ermittlung der im erstgenannten Staat von der natürlichen Person zu zahlenden Steuer und der Ermittlung der Unternehmensgewinne, die dort besteuert werden können, in gleicher Weise und unter den gleichen Bedingungen und Einschränkungen zu behandeln wie Beiträge, die an eine im erstgenannten Staat steuerlich anerkannte Vorsorgeeinrichtung gezahlt werden, sofern die natürliche Person unmittelbar vor der Aufnahme ihrer Tätigkeit in diesem Staat dort nicht ansässig war und schon zu diesem Zeitpunkt der Vorsorgeeinrichtung angehört hatte.
 
-\7. Zu Art. 26
+\6. Zu Art. 26
 
 - a) Es besteht Einvernehmen darüber, dass der ersuchende Vertragsstaat ein Begehren um Austausch von Informationen erst dann stellt, wenn er alle in seinem innerstaatlichen Steuerverfahren vorgesehenen üblichen Mittel zur Beschaffung der Informationen ausgeschöpft hat.
 - b)
@@ -591,16 +609,16 @@ Hinsichtlich der Artikel 18 und 24 sind Beiträge, die von oder für Rechnung ei
 - d) Es besteht Einvernehmen darüber, dass Artikel 26 die Vertragsstaaten nicht dazu verpflichtet, Informationen auf automatischer oder spontaner Basis auszutauschen.
 - e) Es besteht Einvernehmen darüber, dass im Fall des Austauschs von Informationen die im ersuchten Staat geltenden Bestimmungen des Verwaltungsverfahrensrechts über die Rechte der Steuerpflichtigen vorbehalten bleiben. Es besteht im Weiteren Einvernehmen darüber, dass diese Bestimmung dazu dient, der steuerpflichtigen Person ein ordnungsgemässes Verfahren zu gewähren, und nicht bezweckt, den Informationsaustausch zu verhindern oder übermässig zu verzögern.
 
-## Artikel XIII Absatz 2 des Änderungsprotokolls vom 7. September 2012****
+## Artikel XIII Ziffer 2 des Protokolls vom 7. September 2012
 
 [^annexu1-lvlu2-1]
 
-[^t-2]: Eingefügt durch Art. XII des Prot. vom 7. Sept. 2012, von der BVers genehmigt am 21. Juni 2013 und in Kraft seit 14. Okt. 2013 ([AS 2013 3589](https://fedlex.data.admin.ch/eli/oc/2013/676)[3587](https://fedlex.data.admin.ch/eli/oc/2013/675); [BBl 2012 9573](https://fedlex.data.admin.ch/eli/fga/2012/1780)).
-[^t-3]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
-[^t-4]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
-[^t-5]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
-[^t-6]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
-[^annexu1-lvlu2-1]: [AS 2013 3589](https://fedlex.data.admin.ch/eli/oc/2013/676)[3587](https://fedlex.data.admin.ch/eli/oc/2013/675); [BBl 2012 9573](https://fedlex.data.admin.ch/eli/fga/2012/1780)
+[^t-3]: Eingefügt durch Art. XII des Prot. vom 7. Sept. 2012, von der BVers genehmigt am 21. Juni 2013 ([AS 2013 3589](https://fedlex.data.admin.ch/eli/oc/2013/676), [3587](https://fedlex.data.admin.ch/eli/oc/2013/675); [BBl 2012 9573](https://fedlex.data.admin.ch/eli/fga/2012/1780)). Bereinigt gemäss Art. III Ziff. 2 und 3 des Prot. vom 30. Mai 2023, von der BVers genehmigt am 14. Juni 2024 und in Kraft seit 16. Okt. 2024 ([AS 2024 603](https://fedlex.data.admin.ch/eli/oc/2024/603), [602](https://fedlex.data.admin.ch/eli/oc/2024/602); [BBl 2023 2712](https://fedlex.data.admin.ch/eli/fga/2023/2712)).
+[^t-4]: [SR 831.10](https://fedlex.data.admin.ch/eli/cc/63/837_843_843)
+[^t-5]: [SR 831.20](https://fedlex.data.admin.ch/eli/cc/1959/827_857_845)
+[^t-6]: [SR 831.30](https://fedlex.data.admin.ch/eli/cc/2007/804)
+[^t-7]: [SR 831.40](https://fedlex.data.admin.ch/eli/cc/1983/797_797_797)
+[^annexu1-lvlu2-1]: [AS 2013 3589](https://fedlex.data.admin.ch/eli/oc/2013/676), [3587](https://fedlex.data.admin.ch/eli/oc/2013/675); [BBl 2012 9573](https://fedlex.data.admin.ch/eli/fga/2012/1780)
 
 \2. Dieses Protokoll bildet einen integrierenden Bestandteil des Abkommens und tritt am Tag des Eingangs der späteren dieser beiden Notifikationen in Kraft. Das Protokoll findet Anwendung:
 
@@ -614,3 +632,14 @@ Hinsichtlich der Artikel 18 und 24 sind Beiträge, die von oder für Rechnung ei
   - (ii) die nach diesem Zeitpunkt eingeleitet werden;
 
 - d) hinsichtlich Artikel 26 auf Ersuchen, die nach dem Inkrafttreten des Protokolls gestellt werden für Informationen über Steuerjahre, die am oder nach dem 1. Januar des auf das Inkrafttreten dieses Protokolls folgenden Kalenderjahres beginnen.
+
+## Artikel IV Ziffer 2 des Protokolls vom 30. Mai 2023
+
+[^annexu1-lvlu3-1]
+
+[^annexu1-lvlu3-1]: [AS 2024 603](https://fedlex.data.admin.ch/eli/oc/2024/603), [602](https://fedlex.data.admin.ch/eli/oc/2024/602); [BBl 2023 2712](https://fedlex.data.admin.ch/eli/fga/2023/2712)
+
+\2. Dieses Protokoll tritt am Tag des Eingangs der späteren der beiden Notifikationen in Kraft. Seine Bestimmungen finden Anwendung:
+
+- a) hinsichtlich der an der Quelle erhobenen Steuern auf Einkünfte, die am oder nach dem 1. Januar des auf das Inkrafttreten des Protokolls folgenden Kalenderjahrs gezahlt oder gutgeschrieben werden;
+- b) hinsichtlich der übrigen Steuern für Steuerjahre, die am oder nach dem 1. Januar des auf das Inkrafttreten des Protokolls folgenden Kalenderjahrs beginnen.
