@@ -4,13 +4,12 @@ number: "350"
 title: Gesetz über die Luzerner Polizei
 short: PolG
 language: de
-version: 2023-01-01
-valid_until: 2024-10-16
-version_adopted: 2022-10-24
+version: 2024-10-17
+version_adopted: 2024-10-17
 adopted: 1998-01-27
 in_force: 1998-08-01
 url: "https://srl.lu.ch/app/de/texts_of_law/350"
-pdf: "https://srl.lu.ch/api/de/versions/4016/pdf_file"
+pdf: "https://srl.lu.ch/api/de/versions/4279/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons LU. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -19,7 +18,7 @@ pdf: "https://srl.lu.ch/api/de/versions/4016/pdf_file"
 
 (PolG)
 
-vom 27.01.1998 (Stand 01.01.2023)
+vom 27.01.1998 (Stand 17.10.2024)
 
 Der Grosse Rat des Kantons Luzern,
 
@@ -138,29 +137,7 @@ beschliesst:
 
 #### § 4quinquies
 
-**Automatische Fahrzeugfahndung und Verkehrsüberwachung**
-
-<sup>1</sup> Die Luzerner Polizei kann Kontrollschilder von Fahrzeugen, deren Insassinnen und Insassen sowie die Fahrzeuge selbst automatisiert optisch erfassen. Die Erfassung dient ausschliesslich zur Fahndung nach Personen oder Sachen sowie zur Verfolgung von Verbrechen und Vergehen. Die Standorte von stationären Erfassungsgeräten sind auf einer öffentlichen Liste aufzuführen.
-
-<sup>2</sup> Die Luzerner Polizei kann die nach Absatz 1 erhobenen Daten mit Datenbanken automatisiert abgleichen, analysieren und zur Erstellung von Bewegungsprofilen nutzen. Der automatisierte Abgleich ist zulässig
-
-- a. mit polizeilichen Personen- und Sachfahndungsregistern,
-- b. mit konkreten Fahndungsaufträgen.
-
-<sup>3</sup> Sie kann die Sach- und Personendaten der automatischen Fahrzeugfahndung und Verkehrsüberwachung im Abrufverfahren mit den Polizei-, Strassenverkehrs- und Zollbehörden des Bundes sowie den Polizeibehörden anderer Kantone und des Fürstentums Liechtenstein austauschen. Der Datenaustausch ist zu protokollieren.
-
-<sup>4</sup> Die Luzerner Polizei darf die automatisiert erfassten Personendaten während 100 Tagen verwenden zur
-
-- a. Verfolgung von Verbrechen und Vergehen, die in Artikel 269 Absatz 2 StPO[^4quinquies-1] aufgeführt sind, sowie von schweren Strassenverkehrsdelikten im Sinn von Artikel 90 Absatz 3 des Strassenverkehrsgesetzes (SVG)[^4quinquies-2],
-- b. Fahndung nach vermissten oder entwichenen Personen.
-
-<sup>5</sup> Die Vernichtung der automatisiert erfassten Personendaten erfolgt
-
-- a. bei fehlender Übereinstimmung mit einer Datenbank spätestens nach 100 Tagen,
-- b. bei Übereinstimmung mit einer Datenbank nach den jeweiligen Bestimmungen des Straf- oder Verwaltungsverfahrens, für welches die Daten beigezogen werden.
-
-[^4quinquies-1]: SR [312.0](https://db.clex.ch/link/Bund/312.0/de)
-[^4quinquies-2]: SR [741.01](https://db.clex.ch/link/Bund/741.01/de)
+**…**
 
 #### § 4sexies
 
@@ -194,13 +171,7 @@ beschliesst:
 
 #### § 4octies
 
-**Polizeilicher Informationssystem-Verbund des Bundes und der Kantone**
-
-<sup>1</sup> Die Luzerner Polizei kann sich zur Aufrechterhaltung der öffentlichen Sicherheit und Ordnung sowie zur Kriminalitätsbekämpfung an Systemen des Bundes und der Kantone beteiligen, um Daten über Personen, Fahrzeuge, Sachen und deren Vorgänge sowie über Vorermittlungen und Ermittlungen innerhalb von Strafverfahren auszutauschen.
-
-<sup>2</sup> Sie kann die Daten gemäss Absatz 1, einschliesslich besonders schützenswerter Personendaten, mit anderen Behörden des Bundes und der Kantone im Abrufverfahren austauschen. Der Datenaustausch ist zu protokollieren.
-
-<sup>3</sup> Der Regierungsrat regelt das Nähere, insbesondere zu den eingesetzten Systemen, zur Zugriffsberechtigung und zu den Kategorien von Personendaten, die ausgetauscht werden können.
+**…**
 
 #### § 4novies
 
