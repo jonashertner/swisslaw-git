@@ -5,11 +5,12 @@ title: Steuergesetz
 short: StG
 language: de
 version: 2024-01-01
+corrected: 2024-10-17
 version_adopted: 2023-04-30
 adopted: 1999-04-25
 in_force: 2001-01-01
 url: "https://ai.clex.ch/app/de/texts_of_law/640.000"
-pdf: "https://ai.clex.ch/api/de/versions/2302/pdf_file"
+pdf: "https://ai.clex.ch/api/de/versions/2240/pdf_file"
 ---
 
 > Nicht amtliche Wiedergabe aus der systematischen Gesetzessammlung des Kantons AI. Massgebend ist die amtliche Veröffentlichung des Kantons.
@@ -2439,7 +2440,7 @@ beschliesst:
 
 - a) die Steuererklärung oder die dazu verlangten Beilagen nicht einreicht,
 - b) eine Bescheinigungs-, Auskunfts- oder Meldepflicht nicht erfüllt,
-- c) Pflichten verletzt, die ihm als Erben oder Dritten im Inventarverfahren obliegen,
+- c) Pflichten verletzt, die ihm als Erben oder Dritten im Inventarverfahren obliegen, wird mit Busse bis zu Fr. 1'000.-- , in schweren Fällen oder im Wiederholungsfall bis zu Fr. 10'000.-- bestraft.
 
 #### Art. 169
 
