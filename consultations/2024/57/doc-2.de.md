@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Ausführungsbestimmungen zum CO2-Gesetz für die Zeit nach 2024
 document: Vernehmlassungsvorlage
 language: de

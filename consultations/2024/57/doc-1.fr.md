@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Dispositions d’exécution de la loi sur le CO2 pour la période postérieure à 2024
 document: Projet mis en consultation-2
 language: fr

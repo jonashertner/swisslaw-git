@@ -1,5 +1,5 @@
 ---
-status: Vernehmlassung
+status: Vernehmlassung abgeschlossen
 title: Disposizioni esecutive sulla legge sul CO2 per il periodo dopo il 2024
 document: Progetto posto in consultazione
 language: it
